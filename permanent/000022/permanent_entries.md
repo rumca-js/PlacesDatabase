@@ -1,3 +1,155 @@
+ ## Political Science | University of British Columbia | Vancouver, BC, Canada
+ - [https://poli.cms.arts.ubc.ca](https://poli.cms.arts.ubc.ca)
+ - date_published: 2024-10-19T10:38:37.944809+00:00
+
+ ## Political Science | University of British Columbia | Vancouver, BC, Canada
+ - [https://politics.ubc.ca](https://politics.ubc.ca)
+ - date_published: 2024-10-19T10:38:43.962594+00:00
+
+ ## OpenAthens / Please wait...
+ - [http://projecteuclid.org.ezproxy.library.ubc.ca](http://projecteuclid.org.ezproxy.library.ubc.ca)
+ - date_published: 2024-06-30T08:29:54.594976+00:00
+
+ ## Leading quantum materials and technology research in Canada.
+ - [https://qmi.ubc.ca](https://qmi.ubc.ca)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## UBC Research + Innovation |
+ - [https://research.ubc.ca](https://research.ubc.ca)
+ - date_published: 2024-07-21T09:41:08+00:00
+
+ ## Indexes & Databases | UBC Library Index & Database Resources
+ - [https://resources.library.ubc.ca](https://resources.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:07.408990+00:00
+
+ ## Home | UBC Robson Square
+ - [https://robsonsquare.ubc.ca](https://robsonsquare.ubc.ca)
+ - date_published: 2024-07-21T09:53:42.127576+00:00
+
+ ## Home | Scholarly Communications
+ - [http://scholcomm.ubc.ca](http://scholcomm.ubc.ca)
+ - date_published: 2024-12-31T20:33:08.436251+00:00
+
+ ## HOME | SCQ
+ - [http://scq.ubc.ca](http://scq.ubc.ca)
+ - date_published: 2024-10-19T07:33:11.585920+00:00
+
+ ## Search Collections | UBC Library Search
+ - [https://search.library.ubc.ca](https://search.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:48.913696+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [https://secure.phas.ubc.ca](https://secure.phas.ubc.ca)
+ - date_published: 2024-08-06T10:27:44.861133+00:00
+
+ ## Use the Library | UBC Library Services
+ - [https://services.library.ubc.ca](https://services.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:14.247074+00:00
+
+ ## Sociology | University of British Columbia (UBC) | Vancouver, BC, Canada
+ - [https://soci.cms.arts.ubc.ca](https://soci.cms.arts.ubc.ca)
+ - date_published: 2024-10-18T21:56:22.827899+00:00
+
+ ## Sociology | University of British Columbia (UBC) | Vancouver, BC, Canada
+ - [https://sociology.ubc.ca](https://sociology.ubc.ca)
+ - date_published: 2024-10-18T21:56:19.958621+00:00
+
+ ## Sociology | University of British Columbia (UBC) | Vancouver, BC, Canada
+ - [http://soci.ubc.ca](http://soci.ubc.ca)
+ - date_published: 2024-06-17T11:12:23.416028+00:00
+
+ ## UBC Security & Privacy Group
+ - [https://spg.cs.ubc.ca](https://spg.cs.ubc.ca)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Software Practices Lab - Department of Computer Science - UBC
+ - [https://spl.cs.ubc.ca](https://spl.cs.ubc.ca)
+ - date_published: 2024-04-30T06:04:58.678497+00:00
+
+ ## School of Public Policy and Global Affairs | University of British Columbia
+ - [https://sppga.ubc.ca](https://sppga.ubc.ca)
+ - date_published: 2024-10-18T20:42:15.457235+00:00
+
+ ## SYSTOPIA
+ - [https://systopia.cs.ubc.ca](https://systopia.cs.ubc.ca)
+ - date_published: 2024-07-06T04:12:59+00:00
+
+ ## The University of British Columbia
+ - [https://ubc.ca](https://ubc.ca)
+ - date_published: 2024-06-30T08:35:05.504214+00:00
+
+ ## Welcome to WebVoyáge
+ - [https://webcat.library.ubc.ca](https://webcat.library.ubc.ca)
+ - date_published: 2012-06-27T18:34:02+00:00
+
+ ## Resources for The Analysis of Biological Data
+ - [https://whitlockschluter3e.zoology.ubc.ca](https://whitlockschluter3e.zoology.ubc.ca)
+ - date_published: 2020-01-08T18:55:44+00:00
+
+ ## The Analysis of Biological Data (2nd ed.) | Michael Whitlock & Dolph Schluter
+ - [https://whitlockschluter.zoology.ubc.ca](https://whitlockschluter.zoology.ubc.ca)
+ - date_published: 2024-05-02T10:06:53.163600+00:00
+
+ ## HOME | AMBL
+ - [http://www.bioteach.ubc.ca](http://www.bioteach.ubc.ca)
+ - date_published: 2024-10-29T18:56:43+00:00
+
+ ## Campus Selector
+ - [https://www.calendar.ubc.ca](https://www.calendar.ubc.ca)
+ - date_published: 2023-05-16T22:03:03+00:00
+
+ ## Home | Department of Earth, Ocean and Atmospheric Sciences
+ - [https://www.eoas.ubc.ca](https://www.eoas.ubc.ca)
+ - date_published: 2024-09-14T21:27:55+00:00
+
+ ## UBCFA Information, News and Updates
+ - [https://www.facultyassociation.ubc.ca](https://www.facultyassociation.ubc.ca)
+ - date_published: 2024-06-30T09:13:10.384126+00:00
+
+ ## Peter A. Allard School of Law - University of British Columbia
+ - [http://www.law.ubc.ca](http://www.law.ubc.ca)
+ - date_published: 2024-06-17T03:50:54+00:00
+
+ ## Department of Mathematics |
+ - [https://www.math.ubc.ca](https://www.math.ubc.ca)
+ - date_published: 2024-06-30T08:33:07+00:00
+
+ ## Home - give UBC
+ - [https://www.support.ubc.ca](https://www.support.ubc.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## HOME | Carpenters Local 27 | Ontario
+ - [https://www.ubc27.ca](https://www.ubc27.ca)
+ - date_published: 2024-12-12T15:20:58.866570+00:00
+
+ ## Register your alumni.ucalgary.ca account :: Alumni Account Registration
+ - [https://alumniaccount.ucalgary.ca](https://alumniaccount.ucalgary.ca)
+ - date_published: 2024-07-21T08:54:42.126128+00:00
+
+ ## Home
+ - [https://alumni.ucalgary.ca](https://alumni.ucalgary.ca)
+ - date_published: 2024-04-30T05:19:23.092883+00:00
+
+ ## arch magazine |
+ - [https://arch-magazine.ucalgary.ca](https://arch-magazine.ucalgary.ca)
+ - date_published: 2024-07-21T08:55:38.652244+00:00
+
+ ## arch magazine |
+ - [https://archmagazine.ucalgary.ca](https://archmagazine.ucalgary.ca)
+ - date_published: 2024-08-08T21:25:23.071588+00:00
+
+ ## ARTS Home
+ - [https://arts.ucalgary.ca](https://arts.ucalgary.ca)
+ - date_published: 2024-04-30T05:20:04.568656+00:00
+
+ ## Home Page - ASC
+ - [https://asc.ucalgary.ca](https://asc.ucalgary.ca)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Home | Biogeoscience Institute
+ - [https://bgs.ucalgary.ca](https://bgs.ucalgary.ca)
+ - date_published: 2024-07-21T05:44:08+00:00
+
  ## Building3D
  - [https://building3d.ucalgary.ca](https://building3d.ucalgary.ca)
  - date_published: 2023-05-30T00:00:00+00:00
@@ -3862,156 +4014,4 @@
  ## My 32-Bit Cafe
  - [https://my.32bit.cafe](https://my.32bit.cafe)
  - date_published: 2024-02-14T19:37:13+00:00
-
- ## 32 Bitcoin Cafe - CryptoCuppaz collection!
- - [https://nft.32bit.cafe](https://nft.32bit.cafe)
- - date_published: 2023-07-18T09:05:18+00:00
-
- ## The 32-Bit Cafe
- - [https://pixel.32bit.cafe](https://pixel.32bit.cafe)
- - date_published: 2024-09-18T02:36:24.107641+00:00
-
- ## FreshRSS
- - [https://rss.32bit.cafe](https://rss.32bit.cafe)
- - date_published: 2023-12-30T16:17:00+00:00
-
- ## 32-Bit Cafe
- - [https://spampoison.32bit.cafe](https://spampoison.32bit.cafe)
- - date_published: 2024-06-23T17:37:11.909673+00:00
-
- ## ~32bit
- - [https://tilde.32bit.cafe](https://tilde.32bit.cafe)
- - date_published: 2023-04-01T18:58:08+00:00
-
- ## 32-bit Cafe - Login
- - [https://webmail.32bit.cafe](https://webmail.32bit.cafe)
- - date_published: 2024-06-23T18:34:57.328349+00:00
-
- ## avery.cafe
- - [https://avery.cafe](https://avery.cafe)
- - date_published: 2024-03-25T23:44:23+00:00
-
- ## Backend Cafe
- - [https://backend.cafe](https://backend.cafe)
- - date_published: 2023-10-25T12:09:49.850684+00:00
-
- ## Basil's Café
- - [https://basil.cafe](https://basil.cafe)
- - date_published: 2024-05-07T23:14:35.904453+00:00
-
- ## Home
- - [https://coffin-wiki.basil.cafe](https://coffin-wiki.basil.cafe)
- - date_published: 2024-06-18T15:21:30.496269+00:00
-
- ## Currently offline until further notice
- - [https://umami.basil.cafe](https://umami.basil.cafe)
- - date_published: 1970-01-01T00:00:01+00:00
-
- ## BinaryDigit's Cafe
- - [https://binarydigit.cafe](https://binarydigit.cafe)
- - date_published: 2024-04-28T02:45:18.201129+00:00
-
- ## BinaryDigit's Now Page
- - [https://now.binarydigit.cafe](https://now.binarydigit.cafe)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## home | 🐥😺 dot ☕
- - [https://birdcat.cafe](https://birdcat.cafe)
- - date_published: 2024-08-07T21:13:33.566195+00:00
-
- ## Your awesome title
- - [https://biyori.cafe](https://biyori.cafe)
- - date_published: 2024-07-17T21:16:11+00:00
-
- ## blinkie maker | generate blinkie gifs with custom text!
- - [https://blinkies.cafe](https://blinkies.cafe)
- - date_published: 2024-05-09T08:41:14.068662+00:00
-
- ## Explore local activities · Campground
- - [https://campground.bonfire.cafe](https://campground.bonfire.cafe)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## BSD.cafe Mastodon Portal
- - [https://mastodon.bsd.cafe](https://mastodon.bsd.cafe)
- - date_published: 2023-10-27T13:13:18.606396+00:00
-
- ## BSD Cafe - Status
- - [https://status.bsd.cafe](https://status.bsd.cafe)
- - date_published: 2024-04-30T05:34:05.356517+00:00
-
- ## Cognition Café | Gabe | Substack
- - [https://cognition.cafe](https://cognition.cafe)
- - date_published: 2024-12-23T11:27:06.675238+00:00
-
- ## Corvid Cafe
- - [https://corvid.cafe](https://corvid.cafe)
- - date_published: 2024-06-12T02:14:36+00:00
-
- ## CRO.CAFE | Nederlandstalig
- - [https://nl.cro.cafe](https://nl.cro.cafe)
- - date_published: 2022-11-23T00:00:00+00:00
-
- ## CRO.CAFE: Award winning CRO Podcast
- - [https://www.cro.cafe](https://www.cro.cafe)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home - CSS-Cafe
- - [https://css.cafe](https://css.cafe)
- - date_published: 2024-04-30T02:02:44.004143+00:00
-
- ## Mastodon
- - [https://curmudgeon.cafe](https://curmudgeon.cafe)
- - date_published: 2024-08-06T03:54:02.732033+00:00
-
- ## CypherWeavers' Cafe
- - [https://www.cypherweavers.cafe](https://www.cypherweavers.cafe)
- - date_published: 2024-04-28T11:42:58+00:00
-
- ## Daft Punk Cafe
- - [https://daftpunk.cafe](https://daftpunk.cafe)
- - date_published: 2024-05-06T21:28:58.823211+00:00
-
- ## Eldritch Café
- - [https://eldritch.cafe](https://eldritch.cafe)
- - date_published: 2024-01-08T02:07:15.832728+00:00
-
- ## elke.cafe
- - [https://elke.cafe](https://elke.cafe)
- - date_published: 2024-07-21T07:54:22+00:00
-
- ## Emma Segal-Grossman
- - [https://emma.cafe](https://emma.cafe)
- - date_published: 2024-06-19T02:26:03.907484+00:00
-
- ## Bit banging a 3.5" Floppy Drive
- - [https://floppy.cafe](https://floppy.cafe)
- - date_published: 2023-12-19T18:09:27+00:00
-
- ## Functional Café
- - [https://functional.cafe](https://functional.cafe)
- - date_published: 2024-05-09T02:39:05.354509+00:00
-
- ## gist.cafe
- - [https://gist.cafe](https://gist.cafe)
- - date_published: 2024-04-29T02:09:13+00:00
-
- ## Golang Jobs  in August 2024  (1 new) | Golang Cafe
- - [https://golang.cafe](https://golang.cafe)
- - date_published: 2024-08-08T15:26:47.922657+00:00
-
- ## Hey.Café
- - [https://hey.cafe](https://hey.cafe)
- - date_published: 2024-07-02T20:13:02.105446+00:00
-
- ## HTML.cafe - a realtime HTML editor and host
- - [https://html.cafe](https://html.cafe)
- - date_published: 2024-07-23T23:42:59.598291+00:00
-
- ## Hyperlink Cafe
- - [https://hyperlink.cafe](https://hyperlink.cafe)
- - date_published: 2024-05-06T15:01:28.005543+00:00
-
- ## Home
- - [https://jesse.cafe](https://jesse.cafe)
- - date_published: 2024-07-08T00:00:00+00:00
 

@@ -1,3 +1,31 @@
+ ## Let customers edit their orders | OrderEditing
+ - [https://f67f-184-175-34-174.ngrok-free.app](https://f67f-184-175-34-174.ngrok-free.app)
+ - date_published: 2024-08-08T16:33:40.613958+00:00
+
+ ## Niagara Launcher Help Page
+ - [https://help.niagaralauncher.app](https://help.niagaralauncher.app)
+ - date_published: 2024-07-19T20:15:05.639282+00:00
+
+ ## Niagara Launcher ðŸ”¹ fresh & clean homescreen for Android
+ - [https://niagaralauncher.app](https://niagaralauncher.app)
+ - date_published: 2024-02-10T17:55:05.907774+00:00
+
+ ## Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)
+ - [https://nino.app](https://nino.app)
+ - date_published: 2024-01-07T14:34:46+00:00
+
+ ## NoAlt - Bigtech alternatives on Nostr
+ - [http://noalt.app](http://noalt.app)
+ - date_published: 2024-08-24T14:57:58+00:00
+
+ ## Nodies - Web3 RPC Platform
+ - [https://www.nodies.app](https://www.nodies.app)
+ - date_published: 2024-09-23T10:46:20.138596+00:00
+
+ ## NoiseCraft
+ - [https://noisecraft.app](https://noisecraft.app)
+ - date_published: 2024-05-06T23:31:33.945372+00:00
+
  ## NolanAI Help Center
  - [https://help.nolanai.app](https://help.nolanai.app)
  - date_published: 2024-10-30T14:15:10.010691+00:00
@@ -1008,6 +1036,10 @@
  ## Raycast Music
  - [https://raycast-music.app](https://raycast-music.app)
  - date_published: 2024-02-10T00:00:00+00:00
+
+ ## Rogério Chaves
+ - [https://rchaves.app](https://rchaves.app)
+ - date_published: 2025-01-02T09:17:25+00:00
 
  ## readflow
  - [https://about.readflow.app](https://about.readflow.app)
@@ -3993,37 +4025,4 @@
  ## Music Player
  - [https://musicplayer-dusky.vercel.app](https://musicplayer-dusky.vercel.app)
  - date_published: 2024-07-14T09:42:25.678394+00:00
-
- ## Not a Number
- - [https://nan-archive.vercel.app](https://nan-archive.vercel.app)
- - date_published: 2024-05-08T00:41:24.126353+00:00
-
- ## React App
- - [https://native-ads-two.vercel.app](https://native-ads-two.vercel.app)
- - date_published: 2024-05-04T06:41:03.171139+00:00
-
- ## Show HN: I built a website to share files and messages without any server
- - [https://neighbor-share.vercel.app](https://neighbor-share.vercel.app)
- - date_published: 2024-05-05T07:42:13+00:00
-
- ## Neobrutalism components
- - [https://neobrutalism-components.vercel.app](https://neobrutalism-components.vercel.app)
- - date_published: 2024-04-07T06:03:59+00:00
- - tags: ['brutalist web']
-
- ## Emil Kowalski
- - [https://new-emilkowalski.vercel.app](https://new-emilkowalski.vercel.app)
- - date_published: 2024-06-22T13:58:54.989772+00:00
-
- ## Sismo - Sovereign Identity Aggregator and Crypto-native SSO
- - [https://new-landing-952y0tivg-sismo.vercel.app](https://new-landing-952y0tivg-sismo.vercel.app)
- - date_published: 2024-09-22T01:54:18.120952+00:00
-
- ## External Link
- - [https://new-portfolio-lani.vercel.app](https://new-portfolio-lani.vercel.app)
- - date_published: 2024-08-19T08:38:33.311292+00:00
-
- ## New Shoe
- - [https://newshows.vercel.app](https://newshows.vercel.app)
- - date_published: 2024-07-14T10:06:21.498493+00:00
 

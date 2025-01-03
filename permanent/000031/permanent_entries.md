@@ -1,3 +1,227 @@
+ ## 合肥工业大学图书馆
+ - [http://lib.hfut.edu.cn](http://lib.hfut.edu.cn)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## 合肥工业大学新闻网
+ - [http://news.hfut.edu.cn](http://news.hfut.edu.cn)
+ - date_published: 2024-07-12T09:09:16+00:00
+
+ ## 首页
+ - [http://oa.hfut.edu.cn](http://oa.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:24.021401+00:00
+
+ ## 高层次人才工作办公室
+ - [http://rcb.hfut.edu.cn](http://rcb.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:58.985974+00:00
+
+ ## 合肥工业大学WEBVPN系统
+ - [https://webvpn.hfut.edu.cn](https://webvpn.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:14.341379+00:00
+
+ ## 合肥工业大学
+ - [https://www.hfut.edu.cn](https://www.hfut.edu.cn)
+ - date_published: 2024-05-10T05:30:22.841718+00:00
+
+ ## å®£ä¼ é¨
+ - [http://xcb.hfut.edu.cn](http://xcb.hfut.edu.cn)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## 合肥工业大学宣城校区
+ - [http://xc.hfut.edu.cn](http://xc.hfut.edu.cn)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 党委学生工作部
+ - [http://xgb.hfut.edu.cn](http://xgb.hfut.edu.cn)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## 学科建设与评估处
+ - [http://xkb.hfut.edu.cn](http://xkb.hfut.edu.cn)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## 学术委员会
+ - [http://xswyh.hfut.edu.cn](http://xswyh.hfut.edu.cn)
+ - date_published: 2024-06-14T02:48:20+00:00
+
+ ## 信息公开网
+ - [http://xxgk.hfut.edu.cn](http://xxgk.hfut.edu.cn)
+ - date_published: 2024-07-12T16:09:20.670082+00:00
+
+ ## 合工大校友会
+ - [http://xyh.hfut.edu.cn](http://xyh.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:40.558094+00:00
+
+ ## 研究生院
+ - [http://yjsy.hfut.edu.cn](http://yjsy.hfut.edu.cn)
+ - date_published: 2024-07-12T08:13:45+00:00
+
+ ## 合肥工业大学研究生招生网
+ - [http://yjszs.hfut.edu.cn](http://yjszs.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:10.803928+00:00
+
+ ## 总务部
+ - [http://zwb.hfut.edu.cn](http://zwb.hfut.edu.cn)
+ - date_published: 2024-07-12T09:57:07+00:00
+
+ ## 专业学位研究生教育网
+ - [http://zyxw.hfut.edu.cn](http://zyxw.hfut.edu.cn)
+ - date_published: 2024-06-03T01:33:32+00:00
+
+ ## 河海大学-Hohai University
+ - [http://www.hhu.edu.cn](http://www.hhu.edu.cn)
+ - date_published: 2024-09-09T15:13:40.013490+00:00
+
+ ## 计算学部
+ - [http://computing.hit.edu.cn](http://computing.hit.edu.cn)
+ - date_published: 2024-07-12T15:57:25.741076+00:00
+
+ ## 计算学部英文版
+ - [https://encs.hit.edu.cn](https://encs.hit.edu.cn)
+ - date_published: 2024-05-10T05:29:54.915756+00:00
+
+ ## Harbin Institute of Technology
+ - [http://en.hit.edu.cn](http://en.hit.edu.cn)
+ - date_published: 2024-05-10T05:30:08.944099+00:00
+
+ ## HIT TIMES
+ - [http://hit-times.hit.edu.cn](http://hit-times.hit.edu.cn)
+ - date_published: 2024-07-12T16:06:07.997538+00:00
+
+ ## 哈尔滨工业大学电子邮件系统
+ - [https://mail.hit.edu.cn](https://mail.hit.edu.cn)
+ - date_published: 2024-07-12T15:59:50.383434+00:00
+
+ ## 哈尔滨工业大学校园地图/三维虚拟校园GIS/智慧校园可视化平台/数字孪生校园
+ - [http://map.hit.edu.cn](http://map.hit.edu.cn)
+ - date_published: 2024-07-12T16:06:23.443893+00:00
+
+ ## 哈尔滨工业大学新闻网
+ - [http://news.hit.edu.cn](http://news.hit.edu.cn)
+ - date_published: 2024-07-12T15:58:22.924277+00:00
+
+ ## 国际教育学院英文
+ - [http://studyathit.hit.edu.cn](http://studyathit.hit.edu.cn)
+ - date_published: 2024-07-12T16:06:11.585900+00:00
+
+ ## 哈尔滨工业大学
+ - [http://www.hit.edu.cn](http://www.hit.edu.cn)
+ - date_published: 2024-06-30T21:06:15.018292+00:00
+
+ ## 哈尔滨工业大学-研究生招生网
+ - [http://yzb.hit.edu.cn](http://yzb.hit.edu.cn)
+ - date_published: 2024-07-12T15:58:59.522582+00:00
+
+ ## 哈尔滨工业大学（深圳）计算机科学与技术学院
+ - [http://cs.hitsz.edu.cn](http://cs.hitsz.edu.cn)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## 英文网
+ - [http://en.hitsz.edu.cn](http://en.hitsz.edu.cn)
+ - date_published: 2024-06-07T08:47:47+00:00
+
+ ## 哈尔滨工业大学（威海）40周年校庆
+ - [http://40.hitwh.edu.cn](http://40.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:59:43.420373+00:00
+
+ ## Welcome to nginx!
+ - [http://authserver.hitwh.edu.cn](http://authserver.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:58:17.514415+00:00
+
+ ## 继续教育学院
+ - [http://ce.hitwh.edu.cn](http://ce.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:59:41.328914+00:00
+
+ ## 计算机科学与技术学院
+ - [https://cst.hitwh.edu.cn](https://cst.hitwh.edu.cn)
+ - date_published: 2024-05-10T05:30:04.070866+00:00
+
+ ## 人力资源处
+ - [http://hr.hitwh.edu.cn](http://hr.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:58:44.347384+00:00
+
+ ## 统一身份认证
+ - [https://i.hitwh.edu.cn](https://i.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:58:54.508757+00:00
+
+ ## 国际合作处/港澳台办公室
+ - [http://international.hitwh.edu.cn](http://international.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:59:38.159176+00:00
+
+ ## 哈尔滨工业大学（威海）就业网
+ - [http://job.hitwh.edu.cn](http://job.hitwh.edu.cn)
+ - date_published: 2024-07-12T16:05:08.285505+00:00
+
+ ## 科技发展处
+ - [http://kjfzc.hitwh.edu.cn](http://kjfzc.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:59:45.863361+00:00
+
+ ## 哈尔滨工业大学(威海)图书馆
+ - [http://lib.hitwh.edu.cn](http://lib.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:58:27.127455+00:00
+
+ ## 出国留学基地
+ - [http://lxjd.hitwh.edu.cn](http://lxjd.hitwh.edu.cn)
+ - date_published: 2024-07-12T16:05:40.391296+00:00
+
+ ## 新闻网
+ - [https://news.hitwh.edu.cn](https://news.hitwh.edu.cn)
+ - date_published: 2024-07-12T16:04:49.412301+00:00
+
+ ## 统一身份认证
+ - [https://oa.hitwh.edu.cn](https://oa.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:58:13.147679+00:00
+
+ ## 校区办公室
+ - [http://office.hitwh.edu.cn](http://office.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:58:15.426229+00:00
+
+ ## 留学生中心中文网站
+ - [http://studyabroad.hitwh.edu.cn](http://studyabroad.hitwh.edu.cn)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## 今日工大
+ - [http://today.hitwh.edu.cn](http://today.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:59:23.096253+00:00
+
+ ## 统一身份认证
+ - [http://webvpn.hitwh.edu.cn](http://webvpn.hitwh.edu.cn)
+ - date_published: 2024-07-12T16:05:05.163006+00:00
+
+ ## 哈尔滨工业大学（威海）
+ - [https://www.hitwh.edu.cn](https://www.hitwh.edu.cn)
+ - date_published: 2024-05-10T05:30:01.125234+00:00
+
+ ## 哈尔滨工业大学学生工作网
+ - [http://xuegong.hitwh.edu.cn](http://xuegong.hitwh.edu.cn)
+ - date_published: 2024-07-12T07:11:40+00:00
+
+ ## 哈尔滨工业大学（威海）本科招生网
+ - [https://zsb.hitwh.edu.cn](https://zsb.hitwh.edu.cn)
+ - date_published: 2024-07-12T15:58:47.417987+00:00
+
+ ## The Hong Kong University of Science and Technology (Guangzhou)
+ - [https://hkust-gz.edu.cn](https://hkust-gz.edu.cn)
+ - date_published: 2024-08-07T14:30:33.205176+00:00
+
+ ## 湖南大学设计艺术学院 - School of Design, Hunan University
+ - [http://design.hnu.edu.cn](http://design.hnu.edu.cn)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## 湖南大学
+ - [https://www.hnu.edu.cn](https://www.hnu.edu.cn)
+ - date_published: 2024-07-31T05:33:00+00:00
+
+ ## 哈尔滨工程大学
+ - [http://www.hrbeu.edu.cn](http://www.hrbeu.edu.cn)
+ - date_published: 2024-06-30T15:04:46+00:00
+
+ ## PG 2024
+ - [https://pg2024.hsu.edu.cn](https://pg2024.hsu.edu.cn)
+ - date_published: 2024-05-28T12:48:31+00:00
+
+ ## 湖南农业大学欢迎您! Hunan Agricultural University (HUNAU)
+ - [http://www.hunau.edu.cn](http://www.hunau.edu.cn)
+ - date_published: 2024-12-24T09:33:03.191988+00:00
+
  ## 华中科技大学档案馆
  - [http://ar.hust.edu.cn](http://ar.hust.edu.cn)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3778,229 +4002,5 @@
 
  ## 中国人民政治协商会议辽宁省委员会
  - [http://www.lnzx.gov.cn](http://www.lnzx.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 国家粮食和物资储备局
- - [http://lswz.gov.cn](http://lswz.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## 国家粮食和物资储备局电子邮件系统
- - [http://mail.lswz.gov.cn](http://mail.lswz.gov.cn)
- - date_published: 2024-06-30T17:17:47.475531+00:00
-
- ## 国家粮食和物资储备局
- - [http://sousuo.lswz.gov.cn](http://sousuo.lswz.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 西藏自治区粮食和物资储备局
- - [http://xz.lswz.gov.cn](http://xz.lswz.gov.cn)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## 漯河市人民政府
- - [http://www.luohe.gov.cn](http://www.luohe.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 洛龙区人民政府
- - [https://www.luolong.gov.cn](https://www.luolong.gov.cn)
- - date_published: 1997-02-26T00:00:00+00:00
-
- ## 广州市荔湾区人民政府门户网站
- - [http://www.lw.gov.cn](http://www.lw.gov.cn)
- - date_published: 2024-10-21T05:52:40.338288+00:00
-
- ## 洛阳市人民政府
- - [https://www.ly.gov.cn](https://www.ly.gov.cn)
- - date_published: 2024-06-30T22:28:03.841283+00:00
-
- ## 邮箱登录
- - [https://mail.gov.cn](https://mail.gov.cn)
- - date_published: 2024-06-30T18:20:49.436082+00:00
-
- ## 中华人民共和国民政部
- - [http://www.mca.gov.cn](http://www.mca.gov.cn)
- - date_published: 2024-05-07T16:48:11.269942+00:00
-
- ## 全国文化和旅游市场网上举报投诉处理系统网站
- - [https://jbts.mct.gov.cn](https://jbts.mct.gov.cn)
- - date_published: 2024-04-10T03:23:34+00:00
-
- ## 文化和旅游部大众旅游服务栏目
- - [https://lyfw.mct.gov.cn](https://lyfw.mct.gov.cn)
- - date_published: 2024-06-30T19:24:27.925199+00:00
-
- ## 文化和旅游部数据服务栏目
- - [https://sjfw.mct.gov.cn](https://sjfw.mct.gov.cn)
- - date_published: 2024-06-30T19:23:07.138736+00:00
-
- ## 文化资源展馆服务栏目
- - [https://whzg.mct.gov.cn](https://whzg.mct.gov.cn)
- - date_published: 2024-06-30T19:31:34.411951+00:00
-
- ## 中华人民共和国文化和旅游部
- - [https://www.mct.gov.cn](https://www.mct.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## 文化和旅游部热点专题
- - [https://zhuanti.mct.gov.cn](https://zhuanti.mct.gov.cn)
- - date_published: 2024-06-13T07:23:02+00:00
-
- ## 文化和旅游部政务服务门户
- - [https://zwfw.mct.gov.cn](https://zwfw.mct.gov.cn)
- - date_published: 2024-06-30T19:25:04.078566+00:00
-
- ## 生态环境部华东核与辐射安全监督站
- - [http://ecro.mee.gov.cn](http://ecro.mee.gov.cn)
- - date_published: 2024-06-27T07:55:49+00:00
-
- ## MINISTRY OF ECOLOGY AND ENVIRONMENT THE PEOPLE'S REPUBLIC OF CHINA
- - [http://english.mee.gov.cn](http://english.mee.gov.cn)
- - date_published: 2024-06-30T15:53:02.057519+00:00
-
- ## 辐射安全培训
- - [http://fushe.mee.gov.cn](http://fushe.mee.gov.cn)
- - date_published: 2024-06-30T23:06:44.672885+00:00
-
- ## 黄河流域生态环境监督管理局
- - [http://huanghejg.mee.gov.cn](http://huanghejg.mee.gov.cn)
- - date_published: 2024-06-30T15:49:51.544232+00:00
-
- ## 中央纪委国家监委驻生态环境部纪检监察组
- - [http://jjjcz.mee.gov.cn](http://jjjcz.mee.gov.cn)
- - date_published: 2024-05-31T06:10:37+00:00
-
- ## 信访投诉举报管理平台
- - [http://jubao.mee.gov.cn](http://jubao.mee.gov.cn)
- - date_published: 2024-06-30T15:50:42.856817+00:00
-
- ## 登录
- - [https://leadmail.mee.gov.cn](https://leadmail.mee.gov.cn)
- - date_published: 2024-06-30T15:51:16.073727+00:00
-
- ## 国家核安全局
- - [https://nnsa.mee.gov.cn](https://nnsa.mee.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## 全国核技术利用辐射安全申报系统
- - [http://rr.mee.gov.cn](http://rr.mee.gov.cn)
- - date_published: 2024-06-30T23:06:49.426215+00:00
-
- ## 中华人民共和国生态环境部
- - [https://www.mee.gov.cn](https://www.mee.gov.cn)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## 社会应急力量救援协调系统
- - [https://htgl-llgl.mem.gov.cn](https://htgl-llgl.mem.gov.cn)
- - date_published: 2024-05-31T02:01:21+00:00
-
- ## 中华人民共和国应急管理部
- - [https://mem.gov.cn](https://mem.gov.cn)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## 中国森林草原防灭火网 - 首页
- - [http://slcyfh.mem.gov.cn](http://slcyfh.mem.gov.cn)
- - date_published: 2024-06-30T19:09:35.259812+00:00
-
- ## 孟州市人民政府_孟州市人民政府
- - [http://www.mengzhou.gov.cn](http://www.mengzhou.gov.cn)
- - date_published: 2024-06-30T22:00:03+00:00
-
- ## 2024年中非合作论坛峰会
- - [https://2024focacsummit.mfa.gov.cn](https://2024focacsummit.mfa.gov.cn)
- - date_published: 2024-09-07T00:00:00+00:00
-
- ## 金砖国家领导人第十四次会晤
- - [http://brics2022.mfa.gov.cn](http://brics2022.mfa.gov.cn)
- - date_published: 2024-09-09T15:35:51.000963+00:00
-
- ## 中国领事服务网
- - [http://cs.mfa.gov.cn](http://cs.mfa.gov.cn)
- - date_published: 2024-06-30T03:41:32.605805+00:00
-
- ## 中华人民共和国-条约数据库
- - [http://treaty.mfa.gov.cn](http://treaty.mfa.gov.cn)
- - date_published: 2024-09-09T15:27:32.141542+00:00
-
- ## 外交部扶贫办
- - [http://wjfp.mfa.gov.cn](http://wjfp.mfa.gov.cn)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## 中华人民共和国外交部
- - [https://www.mfa.gov.cn](https://www.mfa.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 安徽省通信管理局
- - [https://ahca.miit.gov.cn](https://ahca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 中小企业运行监测平台
- - [https://baosong.miit.gov.cn](https://baosong.miit.gov.cn)
- - date_published: 2024-06-25T10:16:38+00:00
-
- ## 北京市通信管理局
- - [http://bjca.miit.gov.cn](http://bjca.miit.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 中华人民共和国工业和信息化部
- - [http://bzxx.miit.gov.cn](http://bzxx.miit.gov.cn)
- - date_published: 2024-06-30T20:55:37.586443+00:00
-
- ## rohs-ent-ui
- - [http://chinarohs.miit.gov.cn](http://chinarohs.miit.gov.cn)
- - date_published: 2023-06-21T02:48:38+00:00
-
- ## 重庆市通信管理局
- - [http://cqca.miit.gov.cn](http://cqca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 福建省通信管理局
- - [http://fjca.miit.gov.cn](http://fjca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 食品工业企业诚信体系建设
- - [http://foodcredit.miit.gov.cn](http://foodcredit.miit.gov.cn)
- - date_published: 2024-01-26T02:29:09+00:00
-
- ## 广东省通信管理局
- - [https://gdca.miit.gov.cn](https://gdca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 甘肃省通信管理局
- - [https://gsca.miit.gov.cn](https://gsca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 广西壮族自治区通信管理局
- - [https://gxca.miit.gov.cn](https://gxca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 贵州省通信管理局
- - [http://gzca.miit.gov.cn](http://gzca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 河北省通信管理局
- - [http://hbca.miit.gov.cn](http://hbca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 河南省通信管理局
- - [http://hca.miit.gov.cn](http://hca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 黑龙江省通信管理局
- - [http://hljca.miit.gov.cn](http://hljca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 海南省通信管理局
- - [http://hnca.miit.gov.cn](http://hnca.miit.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 湖北省通信管理局
- - [http://hubca.miit.gov.cn](http://hubca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 湖南省通信管理局
- - [http://hunca.miit.gov.cn](http://hunca.miit.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 吉林省通信管理局
- - [http://jlca.miit.gov.cn](http://jlca.miit.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 

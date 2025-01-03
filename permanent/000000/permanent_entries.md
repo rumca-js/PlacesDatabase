@@ -487,6 +487,10 @@
  - [http://2gis.ae](http://2gis.ae)
  - date_published: 2024-10-17T14:44:31.077171+00:00
 
+ ## Post-it® Brand - Products, Ideas, Programs
+ - [https://post-it.3mae.ae](https://post-it.3mae.ae)
+ - date_published: 2025-01-02T10:10:58.488336+00:00
+
  ## 3M Science. Applied to Life. | 3M United Arab Emirates
  - [http://solutions.3mae.ae](http://solutions.3mae.ae)
  - date_published: 2024-12-11T02:38:16.900362+00:00
@@ -794,6 +798,10 @@
  ## Home
  - [https://edgegroup.ae](https://edgegroup.ae)
  - date_published: 2024-10-29T05:44:05+00:00
+
+ ## EM Normandie Dubai Business School - Bachelors and Masters in Dubai
+ - [https://www.em-normandie.ae](https://www.em-normandie.ae)
+ - date_published: 2023-12-22T14:38:59+00:00
 
  ## Data Center Company & Enterprise Network Technologies | Equinix
  - [https://www.equinix.ae](https://www.equinix.ae)
@@ -1163,6 +1171,10 @@
  ## Sony World - UAE | Official Store - Buy Sony Products Online in UAE
  - [https://sonyworld.ae](https://sonyworld.ae)
  - date_published: 2024-07-03T16:45:27.523434+00:00
+
+ ## Dubai Mall - Souk Al Bahar | Dubai | Emaar Malls
+ - [https://www.soukalbahar.ae](https://www.soukalbahar.ae)
+ - date_published: 2025-01-02T12:49:53.855082+00:00
 
  ## startAD - ACCELERATING INNOVATION IN THE UAE
  - [https://startad.ae](https://startad.ae)
@@ -4006,16 +4018,4 @@
  ## Breadcrumb.ai - Persuade with AI Data Analytic Dashboards
  - [https://www.breadcrumb.ai](https://www.breadcrumb.ai)
  - date_published: 2024-09-13T20:26:12.379820+00:00
-
- ## Unlock Peak Performance | Boost productivity | Breathing.Ai
- - [http://breathing.ai](http://breathing.ai)
- - date_published: 2024-12-11T14:46:55+00:00
-
- ## BreezeMail | Email made easy
- - [https://app.breezemail.ai](https://app.breezemail.ai)
- - date_published: 2024-09-14T07:46:22.281288+00:00
-
- ## Breezemail - Organize your inbox with AI categories
- - [https://breezemail.ai](https://breezemail.ai)
- - date_published: 2024-04-23T00:00:00+00:00
 

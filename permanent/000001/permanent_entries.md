@@ -1,3 +1,15 @@
+ ## Unlock Peak Performance | Boost productivity | Breathing.Ai
+ - [http://breathing.ai](http://breathing.ai)
+ - date_published: 2024-12-11T14:46:55+00:00
+
+ ## BreezeMail | Email made easy
+ - [https://app.breezemail.ai](https://app.breezemail.ai)
+ - date_published: 2024-09-14T07:46:22.281288+00:00
+
+ ## Breezemail - Organize your inbox with AI categories
+ - [https://breezemail.ai](https://breezemail.ai)
+ - date_published: 2024-04-23T00:00:00+00:00
+
  ## Bria Blog
  - [https://blog.bria.ai](https://blog.bria.ai)
  - date_published: 2024-10-30T13:49:57+00:00
@@ -430,6 +442,10 @@
  ## ChatDev.ai | ai agent
  - [https://chatdev.ai](https://chatdev.ai)
  - date_published: 2024-05-11T07:39:20.926286+00:00
+
+ ## ChatDKG.ai
+ - [https://chatdkg.ai](https://chatdkg.ai)
+ - date_published: 2025-01-02T03:10:37.652300+00:00
 
  ## ChatFans | AI powered Chatbots for Fans of Celebrities & Influencers
  - [https://www.chatfans.ai](https://www.chatfans.ai)
@@ -2086,6 +2102,10 @@ Welcome
  ## Dreamwave | Professional headshots in minutes, made with AI
  - [https://www.dreamwave.ai](https://www.dreamwave.ai)
  - date_published: 2024-06-19T19:48:45.039780+00:00
+
+ ## Driver
+ - [https://www.driver.ai](https://www.driver.ai)
+ - date_published: 2024-12-19T18:58:05+00:00
 
  ## Razib Khan's Unsupervised Learning
  - [https://unsupervisedlearning.dry.ai](https://unsupervisedlearning.dry.ai)
@@ -3997,24 +4017,4 @@ Welcome
  ## Robin AI | The Future of Sales Automation
  - [https://www.hellorobin.ai](https://www.hellorobin.ai)
  - date_published: 2023-01-11T00:00:00+00:00
-
- ## Hello Wonder - the internet, reimagined for kids and families
- - [https://hellowonder.ai](https://hellowonder.ai)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Helm.ai
- - [https://www.helm.ai](https://www.helm.ai)
- - date_published: 2024-07-12T07:19:31.638005+00:00
-
- ## Helmholtz AI
- - [https://www.helmholtz.ai](https://www.helmholtz.ai)
- - date_published: 2024-07-12T06:59:51+00:00
-
- ## Universal search built for SaaS
- - [https://www.helpbar.ai](https://www.helpbar.ai)
- - date_published: 2024-09-14T10:07:14.044272+00:00
-
- ## Custom ChatGPT for Your Data | Help-Desk.ai
- - [https://help-desk.ai](https://help-desk.ai)
- - date_published: 2023-05-20T18:49:43+00:00
 

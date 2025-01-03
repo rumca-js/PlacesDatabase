@@ -1,3 +1,107 @@
+ ## Home - Território da Leitura - Editora Moderna
+ - [https://territoriodaleitura.moderna.com.br](https://territoriodaleitura.moderna.com.br)
+ - date_published: 2024-06-12T13:04:00.985432+00:00
+
+ ## Santillana
+ - [https://web.moderna.com.br](https://web.moderna.com.br)
+ - date_published: 2024-06-12T13:04:06.530141+00:00
+
+ ## Home
+ - [https://modernacompartilha.com.br](https://modernacompartilha.com.br)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Editora Moderna :: Literatura
+ - [https://www.modernaliteratura.com.br](https://www.modernaliteratura.com.br)
+ - date_published: 2024-09-12T22:40:30.955901+00:00
+
+ ## Moeda & Metal Investimentos
+ - [https://www.moedaemetal.com.br](https://www.moedaemetal.com.br)
+ - date_published: 2024-12-23T21:32:37.930352+00:00
+
+ ## Moedas do Brasil
+ - [https://www.moedasdobrasil.com.br](https://www.moedasdobrasil.com.br)
+ - date_published: 2024-12-23T21:30:51.735959+00:00
+
+ ## Casa - Ao longo dos anos, as máquinas caça-níqueis tornaram-se cada vez mais populares, permitindo que os jogadores desfrutem de horas de diversão enquanto têm a chance
+ - [http://mondrongo.com.br](http://mondrongo.com.br)
+ - date_published: 2022-02-25T08:12:43+00:00
+
+ ## Money Report
+ - [https://www.moneyreport.com.br](https://www.moneyreport.com.br)
+ - date_published: 2024-12-19T10:46:03.768863+00:00
+
+ ## Moura Dubeux
+ - [https://www.mouradubeux.com.br](https://www.mouradubeux.com.br)
+ - date_published: 2024-10-12T19:18:20.366758+00:00
+
+ ## Loja da Revista Movimento – Compre nossas edições ou faça uma assinatura da revista
+ - [https://assinatura.movimentorevista.com.br](https://assinatura.movimentorevista.com.br)
+ - date_published: 2024-12-26T19:16:09.213976+00:00
+
+ ## Revista Movimento
+ - [https://movimentorevista.com.br](https://movimentorevista.com.br)
+ - date_published: 2024-12-20T09:15:13.830013+00:00
+
+ ## Under Construction
+ - [http://www.msxhost.com.br](http://www.msxhost.com.br)
+ - date_published: 2018-10-16T22:52:24+00:00
+
+ ## Mulher
+ - [https://www.mulher.com.br](https://www.mulher.com.br)
+ - date_published: 2024-08-05T16:05:03.190287+00:00
+
+ ## HOME
+ - [https://multiversonoticias.com.br](https://multiversonoticias.com.br)
+ - date_published: 2024-12-26T17:30:53+00:00
+
+ ## Mundos Infinitos - Loja de Comics, Álbuns e Mangás
+ - [https://mundosinfinitos.com.br](https://mundosinfinitos.com.br)
+ - date_published: 2024-12-30T22:06:43.767915+00:00
+
+ ## Muramasa
+ - [https://muramasa.com.br](https://muramasa.com.br)
+ - date_published: 2024-12-26T17:57:08.393495+00:00
+
+ ## Musa Rara
+ - [http://www.musarara.com.br](http://www.musarara.com.br)
+ - date_published: 2024-07-12T20:58:13.902860+00:00
+
+ ## MCC - Museu Capixaba do Computador
+ - [https://museucapixaba.com.br](https://museucapixaba.com.br)
+ - date_published: 2021-01-02T00:00:00+00:00
+
+ ## Árvore de família, genealogia, história familiar e testes de DNA gratuitos
+ - [https://www.myheritage.com.br](https://www.myheritage.com.br)
+ - date_published: 2024-10-30T07:55:57.345892+00:00
+
+ ## Mastercard Surpreenda
+ - [https://surpreenda.naotempreco.com.br](https://surpreenda.naotempreco.com.br)
+ - date_published: 2024-06-16T17:37:25.626174+00:00
+
+ ## NARS Cosmetics | Loja Oficial
+ - [https://www.narscosmetics.com.br](https://www.narscosmetics.com.br)
+ - date_published: 2024-10-29T09:02:51.636308+00:00
+
+ ## ND Mais - Portal de Notícias de Santa Catarina e do Brasil
+ - [https://ndmais.com.br](https://ndmais.com.br)
+ - date_published: 2024-12-26T18:28:13.815994+00:00
+
+ ## Portal Ipanema
+ - [https://negocieipanema.com.br](https://negocieipanema.com.br)
+ - date_published: 2024-06-13T15:30:58+00:00
+
+ ## EP Negócios - Soluções integradas de comunicação.
+ - [https://www.negociosep.com.br](https://www.negociosep.com.br)
+ - date_published: 2024-10-28T12:12:50+00:00
+
+ ## Nestlé Brasil: Seja bem-vindo!
+ - [https://www.nestle.com.br](https://www.nestle.com.br)
+ - date_published: 2024-09-14T20:04:20+00:00
+
+ ## Netbit Internet - Servidores de hospedagem de sites e sistemas para internet
+ - [http://netbit.com.br](http://netbit.com.br)
+ - date_published: 2024-10-21T11:45:37.398068+00:00
+
  ## News MOTOR - O melhor site de notícias automobilisticas
  - [https://newsmotor.com.br](https://newsmotor.com.br)
  - date_published: 2024-12-26T17:05:13+00:00
@@ -1839,6 +1943,10 @@
  ## Blogue do Puro Osso
  - [https://puro-osso.dev.br](https://puro-osso.dev.br)
  - date_published: 2024-03-30T00:00:00+00:00
+
+ ## MUSEU Nacional da República
+ - [http://museu.cultura.df.gov.br](http://museu.cultura.df.gov.br)
+ - date_published: 2024-01-10T19:28:02+00:00
 
  ## Sistemas IFCE Paracuru
  - [http://webserver.paracuru.ifce.edu.br](http://webserver.paracuru.ifce.edu.br)
@@ -3899,113 +4007,4 @@
  ## Главная
  - [http://nasb.gov.by](http://nasb.gov.by)
  - date_published: 2024-12-24T09:36:25.841772+00:00
-
- ## Official website | Official Internet Portal of the President of the Republic of Belarus
- - [https://president.gov.by](https://president.gov.by)
- - date_published: 2024-06-29T22:50:44+00:00
-
- ## Генеральная прокуратура Республики Беларусь
- - [http://www.prokuratura.gov.by](http://www.prokuratura.gov.by)
- - date_published: 2024-08-11T16:07:05.909814+00:00
-
- ## Официальный сайт Совета Республики
- - [http://www.sovrep.gov.by](http://www.sovrep.gov.by)
- - date_published: 2024-08-11T15:53:00.759309+00:00
-
- ## Витебский областной исполнительный комитет. Официальный сайт.
- - [http://www.vitebsk-region.gov.by](http://www.vitebsk-region.gov.by)
- - date_published: 2024-08-11T15:53:04.146249+00:00
-
- ## Министерство обороны Республики Беларусь | Военный информационный портал Министерства обороны Республики Беларусь
- - [http://www.mil.by](http://www.mil.by)
- - date_published: 2024-08-11T15:54:53.500721+00:00
-
- ## Gogoanime - Watch anime online, English anime online HD
- - [https://anitaku.bz](https://anitaku.bz)
- - date_published: 2024-11-12T17:24:25.893031+00:00
-
- ## Anwar Tours | Tour Operator | Belize
- - [https://anwartours.bz](https://anwartours.bz)
- - date_published: 2024-05-06T22:41:11.214787+00:00
-
- ## AvSubThai
- - [https://www.avsubthai.bz](https://www.avsubthai.bz)
- - date_published: 2024-10-20T15:15:43.293582+00:00
-
- ## BELTRAIDE
- - [https://www.beltraide.bz](https://www.beltraide.bz)
- - date_published: 2024-12-12T10:11:34.695700+00:00
-
- ## easyXDM cross-domain XHMLHttpRequest provider
- - [https://backend.cld.bz](https://backend.cld.bz)
- - date_published: 2024-10-12T14:02:19.800554+00:00
-
- ## FlippingBook Cloud
- - [https://cld.bz](https://cld.bz)
- - date_published: 2024-09-19T19:08:50.126079+00:00
-
- ## דיגיטלר – Library
- - [https://digitaler.cld.bz](https://digitaler.cld.bz)
- - date_published: 2024-07-13T07:31:56.545477+00:00
-
- ## LCBO Food & Drink – Library
- - [https://lcbofoodanddrink.cld.bz](https://lcbofoodanddrink.cld.bz)
- - date_published: 2024-10-29T04:44:33.090726+00:00
-
- ## STACK – Library
- - [https://stack.cld.bz](https://stack.cld.bz)
- - date_published: 2024-06-16T17:23:03.102241+00:00
-
- ## user-Jl6ZMuz – Library
- - [https://user-jl6zmuz.cld.bz](https://user-jl6zmuz.cld.bz)
- - date_published: 2024-12-16T13:10:19.730014+00:00
-
- ## Discover Belize with Belize Exotic Adventures – Belize Tours, Cave Tubing, Rainforest Tours, ATV Tours, Zipline Tours, Mayan Temples and Ruins
- - [https://www.discoverbelize.bz](https://www.discoverbelize.bz)
- - date_published: 2024-06-28T11:39:33.980240+00:00
-
- ## Homepage@c.dup.bz
- - [https://c.dup.bz](https://c.dup.bz)
- - date_published: 2024-04-14T18:18:59.553952+00:00
- - tags: ['probably personal', 'weird']
-
- ## Homepage@staging.stream.dup.bz
- - [https://staging.stream.dup.bz](https://staging.stream.dup.bz)
- - date_published: 2024-07-20T14:31:29.404612+00:00
-
- ## Homepage@stream.dup.bz
- - [https://stream.dup.bz](https://stream.dup.bz)
- - date_published: 2024-05-20T02:48:19.758502+00:00
-
- ## Tvoříme budoucnost - E.M.A. Europe
- - [http://www.ema.bz](http://www.ema.bz)
- - date_published: 2024-09-05T17:05:34.740780+00:00
-
- ## Free Games | HTML5 | Play on iOS, Android Phones, PC and Tablets
- - [https://freegames.bz](https://freegames.bz)
- - date_published: 2024-11-08T21:12:04.561497+00:00
-
- ## jennifer-lopez.bz
- - [http://www.jennifer-lopez.bz](http://www.jennifer-lopez.bz)
- - date_published: 2024-11-16T22:17:16.467925+00:00
-
- ## Free Jokes | New Funny Jokes Added Daily
- - [https://jokes.bz](https://jokes.bz)
- - date_published: 2024-11-08T21:11:37.194851+00:00
-
- ## Khaled Abou Alfa
- - [https://www.kaa.bz](https://www.kaa.bz)
- - date_published: 2024-07-06T17:58:57+00:00
-
- ## URL Shortener
- - [http://lnk.bz](http://lnk.bz)
- - date_published: 2024-07-08T19:38:19.758366+00:00
-
- ## Login - Single Sign On | Manning Publications
- - [https://mng.bz](https://mng.bz)
- - date_published: 2024-04-29T02:58:40.081880+00:00
-
- ## 年賀状2025（令和7年・巳年・へび）無料素材
- - [https://new-year.bz](https://new-year.bz)
- - date_published: 2024-10-30T18:37:03.546458+00:00
 

@@ -1,3 +1,23 @@
+ ## Hello Wonder - the internet, reimagined for kids and families
+ - [https://hellowonder.ai](https://hellowonder.ai)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Helm.ai
+ - [https://www.helm.ai](https://www.helm.ai)
+ - date_published: 2024-07-12T07:19:31.638005+00:00
+
+ ## Helmholtz AI
+ - [https://www.helmholtz.ai](https://www.helmholtz.ai)
+ - date_published: 2024-07-12T06:59:51+00:00
+
+ ## Universal search built for SaaS
+ - [https://www.helpbar.ai](https://www.helpbar.ai)
+ - date_published: 2024-09-14T10:07:14.044272+00:00
+
+ ## Custom ChatGPT for Your Data | Help-Desk.ai
+ - [https://help-desk.ai](https://help-desk.ai)
+ - date_published: 2023-05-20T18:49:43+00:00
+
  ## Helsing Blog
  - [https://blog.helsing.ai](https://blog.helsing.ai)
  - date_published: 2024-04-28T05:59:30.133288+00:00
@@ -4002,24 +4022,4 @@
  ## PIBBSS – Principles of Intelligent Behavior in Biological and Social Systems
  - [https://www.pibbss.ai](https://www.pibbss.ai)
  - date_published: 2024-06-21T11:27:23.872282+00:00
-
- ## PicFinder.AI - Unleash Your Creativity with AI-Generated Images
- - [https://picfinder.ai](https://picfinder.ai)
- - date_published: 2024-06-19T19:33:45.512798+00:00
-
- ## The MoveIt Pro Docs — MoveIt Pro Documentation 5.3.2  documentation
- - [https://docs.picknik.ai](https://docs.picknik.ai)
- - date_published: 2024-07-09T18:21:06+00:00
-
- ## The Unstructured Robotics Solutions Company
- - [https://picknik.ai](https://picknik.ai)
- - date_published: 2024-05-11T08:10:56.015068+00:00
-
- ## Great Pickup Lines for Dating Apps
- - [https://pickup-lines.ai](https://pickup-lines.ai)
- - date_published: 2024-06-19T20:38:06.703930+00:00
-
- ## Developer Console | Picovoice On-Device Voice Recognition
- - [https://console.picovoice.ai](https://console.picovoice.ai)
- - date_published: 2024-08-14T00:14:52+00:00
 

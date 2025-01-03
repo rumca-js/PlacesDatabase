@@ -1,3 +1,155 @@
+ ## 32 Bitcoin Cafe - CryptoCuppaz collection!
+ - [https://nft.32bit.cafe](https://nft.32bit.cafe)
+ - date_published: 2023-07-18T09:05:18+00:00
+
+ ## The 32-Bit Cafe
+ - [https://pixel.32bit.cafe](https://pixel.32bit.cafe)
+ - date_published: 2024-09-18T02:36:24.107641+00:00
+
+ ## FreshRSS
+ - [https://rss.32bit.cafe](https://rss.32bit.cafe)
+ - date_published: 2023-12-30T16:17:00+00:00
+
+ ## 32-Bit Cafe
+ - [https://spampoison.32bit.cafe](https://spampoison.32bit.cafe)
+ - date_published: 2024-06-23T17:37:11.909673+00:00
+
+ ## ~32bit
+ - [https://tilde.32bit.cafe](https://tilde.32bit.cafe)
+ - date_published: 2023-04-01T18:58:08+00:00
+
+ ## 32-bit Cafe - Login
+ - [https://webmail.32bit.cafe](https://webmail.32bit.cafe)
+ - date_published: 2024-06-23T18:34:57.328349+00:00
+
+ ## avery.cafe
+ - [https://avery.cafe](https://avery.cafe)
+ - date_published: 2024-03-25T23:44:23+00:00
+
+ ## Backend Cafe
+ - [https://backend.cafe](https://backend.cafe)
+ - date_published: 2023-10-25T12:09:49.850684+00:00
+
+ ## Basil's Café
+ - [https://basil.cafe](https://basil.cafe)
+ - date_published: 2024-05-07T23:14:35.904453+00:00
+
+ ## Home
+ - [https://coffin-wiki.basil.cafe](https://coffin-wiki.basil.cafe)
+ - date_published: 2024-06-18T15:21:30.496269+00:00
+
+ ## Currently offline until further notice
+ - [https://umami.basil.cafe](https://umami.basil.cafe)
+ - date_published: 1970-01-01T00:00:01+00:00
+
+ ## BinaryDigit's Cafe
+ - [https://binarydigit.cafe](https://binarydigit.cafe)
+ - date_published: 2024-04-28T02:45:18.201129+00:00
+
+ ## BinaryDigit's Now Page
+ - [https://now.binarydigit.cafe](https://now.binarydigit.cafe)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## home | 🐥😺 dot ☕
+ - [https://birdcat.cafe](https://birdcat.cafe)
+ - date_published: 2024-08-07T21:13:33.566195+00:00
+
+ ## Your awesome title
+ - [https://biyori.cafe](https://biyori.cafe)
+ - date_published: 2024-07-17T21:16:11+00:00
+
+ ## blinkie maker | generate blinkie gifs with custom text!
+ - [https://blinkies.cafe](https://blinkies.cafe)
+ - date_published: 2024-05-09T08:41:14.068662+00:00
+
+ ## Explore local activities · Campground
+ - [https://campground.bonfire.cafe](https://campground.bonfire.cafe)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## BSD.cafe Mastodon Portal
+ - [https://mastodon.bsd.cafe](https://mastodon.bsd.cafe)
+ - date_published: 2023-10-27T13:13:18.606396+00:00
+
+ ## BSD Cafe - Status
+ - [https://status.bsd.cafe](https://status.bsd.cafe)
+ - date_published: 2024-04-30T05:34:05.356517+00:00
+
+ ## Cognition Café | Gabe | Substack
+ - [https://cognition.cafe](https://cognition.cafe)
+ - date_published: 2024-12-23T11:27:06.675238+00:00
+
+ ## Corvid Cafe
+ - [https://corvid.cafe](https://corvid.cafe)
+ - date_published: 2024-06-12T02:14:36+00:00
+
+ ## CRO.CAFE | Nederlandstalig
+ - [https://nl.cro.cafe](https://nl.cro.cafe)
+ - date_published: 2022-11-23T00:00:00+00:00
+
+ ## CRO.CAFE: Award winning CRO Podcast
+ - [https://www.cro.cafe](https://www.cro.cafe)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home - CSS-Cafe
+ - [https://css.cafe](https://css.cafe)
+ - date_published: 2024-04-30T02:02:44.004143+00:00
+
+ ## Mastodon
+ - [https://curmudgeon.cafe](https://curmudgeon.cafe)
+ - date_published: 2024-08-06T03:54:02.732033+00:00
+
+ ## CypherWeavers' Cafe
+ - [https://www.cypherweavers.cafe](https://www.cypherweavers.cafe)
+ - date_published: 2024-04-28T11:42:58+00:00
+
+ ## Daft Punk Cafe
+ - [https://daftpunk.cafe](https://daftpunk.cafe)
+ - date_published: 2024-05-06T21:28:58.823211+00:00
+
+ ## Eldritch Café
+ - [https://eldritch.cafe](https://eldritch.cafe)
+ - date_published: 2024-01-08T02:07:15.832728+00:00
+
+ ## elke.cafe
+ - [https://elke.cafe](https://elke.cafe)
+ - date_published: 2024-07-21T07:54:22+00:00
+
+ ## Emma Segal-Grossman
+ - [https://emma.cafe](https://emma.cafe)
+ - date_published: 2024-06-19T02:26:03.907484+00:00
+
+ ## Bit banging a 3.5" Floppy Drive
+ - [https://floppy.cafe](https://floppy.cafe)
+ - date_published: 2023-12-19T18:09:27+00:00
+
+ ## Functional Café
+ - [https://functional.cafe](https://functional.cafe)
+ - date_published: 2024-05-09T02:39:05.354509+00:00
+
+ ## gist.cafe
+ - [https://gist.cafe](https://gist.cafe)
+ - date_published: 2024-04-29T02:09:13+00:00
+
+ ## Golang Jobs  in August 2024  (1 new) | Golang Cafe
+ - [https://golang.cafe](https://golang.cafe)
+ - date_published: 2024-08-08T15:26:47.922657+00:00
+
+ ## Hey.Café
+ - [https://hey.cafe](https://hey.cafe)
+ - date_published: 2024-07-02T20:13:02.105446+00:00
+
+ ## HTML.cafe - a realtime HTML editor and host
+ - [https://html.cafe](https://html.cafe)
+ - date_published: 2024-07-23T23:42:59.598291+00:00
+
+ ## Hyperlink Cafe
+ - [https://hyperlink.cafe](https://hyperlink.cafe)
+ - date_published: 2024-05-06T15:01:28.005543+00:00
+
+ ## Home
+ - [https://jesse.cafe](https://jesse.cafe)
+ - date_published: 2024-07-08T00:00:00+00:00
+
  ## joey☕
  - [https://joey.cafe](https://joey.cafe)
  - date_published: 2024-01-09T00:00:00+00:00
@@ -2891,6 +3043,10 @@
  - date_published: 2024-11-07T07:34:10+00:00
  - tags: ['piracy']
 
+ ## FINH.CC
+ - [https://www.finh.cc](https://www.finh.cc)
+ - date_published: 2024-11-26T10:58:40+00:00
+
  ## Floris.cc
  - [http://floris.cc](http://floris.cc)
  - date_published: 2023-03-01T15:43:02+00:00
@@ -3877,162 +4033,4 @@
  ## road.cc
  - [https://shop.road.cc](https://shop.road.cc)
  - date_published: 2024-04-30T05:45:36.441776+00:00
-
- ## Roland Sadowski. The Website
- - [https://rosado.cc](https://rosado.cc)
- - date_published: 2024-08-07T21:12:49.794999+00:00
-
- ## Raspberry Pi Press store
- - [https://store.rpipress.cc](https://store.rpipress.cc)
- - date_published: 2024-07-08T17:48:57.394440+00:00
-
- ## Grafana
- - [https://grafana.safecast.cc](https://grafana.safecast.cc)
- - date_published: 2024-07-09T09:34:47.659533+00:00
-
- ## Hand Embroidery Artist: Pet & People Portraits - Santo Cielo
- - [https://santocielo.cc](https://santocielo.cc)
- - date_published: 2024-10-17T15:38:18.695962+00:00
-
- ## sbcloud
- - [https://fed.sbcloud.cc](https://fed.sbcloud.cc)
- - date_published: 2024-06-17T03:32:27.446862+00:00
-
- ## Appointment Scheduling | Schedule.cc by 500apps
- - [https://schedule.cc](https://schedule.cc)
- - date_published: 2024-10-30T18:41:25.972684+00:00
-
- ## Reinventing Fire – Technology upside down and backwards
- - [http://schepers.cc](http://schepers.cc)
- - date_published: 2024-09-15T11:38:25.459347+00:00
-
- ## UX Mega - Web Design, Web Development, UI/UX Design, UX Strategy
- - [http://scotty.cc](http://scotty.cc)
- - date_published: 2017-08-24T20:06:42+00:00
-
- ## Seedboxes.cc Blog
- - [https://blog.seedboxes.cc](https://blog.seedboxes.cc)
- - date_published: 2024-06-15T02:49:21.185877+00:00
-
- ## Seedboxes.cc Support Community
- - [https://community.seedboxes.cc](https://community.seedboxes.cc)
- - date_published: 2024-06-15T02:49:23.014337+00:00
-
- ## Seedboxes.cc - Quality and affordable seedbox with premium bandwidth
- - [https://seedboxes.cc](https://seedboxes.cc)
- - date_published: 2014-01-04T00:00:00+00:00
-
- ## Status Page
- - [https://status.seedboxes.cc](https://status.seedboxes.cc)
- - date_published: 2024-06-03T12:31:16+00:00
-
- ## seeed.cc - Latest Open Tech From Seeed
- - [https://seeed.cc](https://seeed.cc)
- - date_published: 2023-12-28T00:00:00+00:00
-
- ## Seeed Studio Solutions - Latest Open Tech From Seeed
- - [https://solution.seeed.cc](https://solution.seeed.cc)
- - date_published: 2024-05-09T04:05:29.047204+00:00
-
- ## TinyML | Seeed Studio Wiki
- - [https://tinyml.seeed.cc](https://tinyml.seeed.cc)
- - date_published: 2024-05-09T04:05:09.121969+00:00
-
- ## Seeed Studio Wiki
- - [http://wiki.seeed.cc](http://wiki.seeed.cc)
- - date_published: 2024-09-05T09:52:02+00:00
-
- ## Shadow | Webflow Development and No Code Solutions
- - [https://www.shadowdigital.cc](https://www.shadowdigital.cc)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Shottr – screenshot app for pixel professionals
- - [https://shottr.cc](https://shottr.cc)
- - date_published: 2023-11-28T15:08:59+00:00
-
- ## Electronic Signature | Sign.cc by 500apps
- - [https://sign.cc](https://sign.cc)
- - date_published: 2024-10-30T18:43:51.444443+00:00
-
- ## SILCA - Manufacturers of the finest accessories for bicycles
- - [https://silca.cc](https://silca.cc)
- - date_published: 2024-07-13T02:53:56.362992+00:00
-
- ## Single Page - Simple, Fast, Single Page Webpage
- - [https://singlepage.cc](https://singlepage.cc)
- - date_published: 2023-10-25T12:11:32.473761+00:00
-
- ## Seungjae (Jay) Lee
- - [https://sjlee.cc](https://sjlee.cc)
- - date_published: 2024-07-09T08:11:51+00:00
-
- ## Posts -
-    
-    Sketchpad Blog
- - [https://blog.sketchpad.cc](https://blog.sketchpad.cc)
- - date_published: 2024-10-29T11:42:36.593323+00:00
-
- ## Studio Sketchpad - Processing on Etherpad
- - [http://sketchpad.cc](http://sketchpad.cc)
- - date_published: 2024-06-19T15:49:44+00:00
-
- ## Go Light & Stay Protected | Skinners Footwear | skinners.cc
- - [https://skinners.cc](https://skinners.cc)
- - date_published: 2024-06-23T05:54:47.172607+00:00
-
- ## Slanted - Enrico Floriddia
- - [http://slanted.cc](http://slanted.cc)
- - date_published: 2024-07-13T15:31:35.640625+00:00
-
- ## Umami
- - [https://stats.snapdragon.cc](https://stats.snapdragon.cc)
- - date_published: 2024-07-22T18:51:01.167043+00:00
-
- ## SoaperTV - Watch Full Movies & TV Shows Free Online on Soaper TV
- - [https://soapertv.cc](https://soapertv.cc)
- - date_published: 2024-06-27T15:23:56+00:00
-
- ## Sofiane's Blog
- - [https://blog.sofiane.cc](https://blog.sofiane.cc)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## CryptoSoots 🌱 — Green NFT Collectibles
- - [https://soots.cc](https://soots.cc)
- - date_published: 2024-07-23T23:42:19.302917+00:00
-
- ## Hugo Soucy, développeur Web front-end habitant Lévis, et ceci est sa page Web — hugo.soucy.cc
- - [https://hugo.soucy.cc](https://hugo.soucy.cc)
- - date_published: 2024-05-09T08:06:26.554660+00:00
-
- ## RafiX's Homepage
- - [https://soykaf.cc](https://soykaf.cc)
- - date_published: 2023-07-29T12:13:36+00:00
-
- ## SpaceHolder – A space-themed image placeholder service.
- - [https://spaceholder.cc](https://spaceholder.cc)
- - date_published: 2024-07-02T20:42:14.573350+00:00
-
- ## there's gotta be a better way
- - [http://blog.spang.cc](http://blog.spang.cc)
- - date_published: 2021-02-17T20:37:48+00:00
-
- ## Welcome to nginx!
- - [https://spectranaut.cc](https://spectranaut.cc)
- - date_published: 2022-02-22T23:20:55+00:00
-
- ## ComputerCraft Forums (archive)
- - [https://ccf.squiddev.cc](https://ccf.squiddev.cc)
- - date_published: 2024-07-24T14:59:03+00:00
-
- ## SquidDev's Misskey
- - [https://social.squiddev.cc](https://social.squiddev.cc)
- - date_published: 2024-07-15T06:33:27.720691+00:00
-
- ## SquirrelJME - SquirrelJME
- - [https://squirreljme.cc](https://squirreljme.cc)
- - date_published: 2024-06-27T17:05:58.814292+00:00
-
- ## Kiwi
- - [https://kiwi.ssine.cc](https://kiwi.ssine.cc)
- - date_published: 2022-12-14T15:17:11+00:00
 
