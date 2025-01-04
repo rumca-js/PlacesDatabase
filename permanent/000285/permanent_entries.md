@@ -1,3 +1,99 @@
+ ## Loading
+ - [https://campus.tum.de](https://campus.tum.de)
+ - date_published: 2024-04-29T06:57:12.485784+00:00
+
+ ## pAIge - TUM MGT Chatbot
+ - [https://chat.it.tum.de](https://chat.it.tum.de)
+ - date_published: 2024-07-24T04:20:36.152399+00:00
+
+ ## Computational Imaging and Inverse Problems - Home
+ - [https://ciip.in.tum.de](https://ciip.in.tum.de)
+ - date_published: 2024-06-21T19:53:44+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [https://cit.tum.de](https://cit.tum.de)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Startseite - TUM Community
+ - [https://community.tum.de](https://community.tum.de)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Department of Computer Science - TUM School of Computation, Information and Technology - Department of Computer Science
+ - [https://cs.cit.tum.de](https://cs.cit.tum.de)
+ - date_published: 2023-10-25T18:33:05.751862+00:00
+
+ ## Computer Vision Group - Home
+ - [https://cvg.cit.tum.de](https://cvg.cit.tum.de)
+ - date_published: 2024-08-07T17:11:08.997237+00:00
+
+ ## Chair for Database Systems
+ - [https://db.in.tum.de](https://db.in.tum.de)
+ - date_published: 2024-05-29T01:37:53.244255+00:00
+
+ ## Systems Research Group | Department of Computer Science // TUM School of Computation, Information and Technology
+ - [https://dse.in.tum.de](https://dse.in.tum.de)
+ - date_published: 2024-05-04T15:27:57.079929+00:00
+
+ ## TUM School of Engineering and Design (ED)
+ - [https://ed.tum.de](https://ed.tum.de)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## |
+ - [https://events.gni.tum.de](https://events.gni.tum.de)
+ - date_published: 2024-08-08T23:03:41.225527+00:00
+
+ ## ForNeRo
+ - [https://fornero.ed.tum.de](https://fornero.ed.tum.de)
+ - date_published: 2024-09-05T21:59:33.942561+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [http://in.tum.de](http://in.tum.de)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Isabelle
+ - [https://isabelle.in.tum.de](https://isabelle.in.tum.de)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## TUM Jobportal
+ - [https://jobportal.community.tum.de](https://jobportal.community.tum.de)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [https://kaldir.vc.in.tum.de](https://kaldir.vc.in.tum.de)
+ - date_published: 2024-07-24T05:49:04.535775+00:00
+
+ ## KI.FABRIK
+ - [https://kifabrik.mirmi.tum.de](https://kifabrik.mirmi.tum.de)
+ - date_published: 2024-09-05T21:59:38.070121+00:00
+
+ ## TUM Living
+ - [https://living.tum.de](https://living.tum.de)
+ - date_published: 2024-07-24T04:20:45.036772+00:00
+
+ ## TUM Institute for LifeLong Learning - Executive & Professional Education
+ - [https://lll.tum.de](https://lll.tum.de)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Startseite
+ - [https://ls.tum.de](https://ls.tum.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [https://mailman46.in.tum.de](https://mailman46.in.tum.de)
+ - date_published: 2019-03-06T10:33:41+00:00
+
+ ## Element
+ - [https://matrix.tum.de](https://matrix.tum.de)
+ - date_published: 2024-07-30T12:54:31+00:00
+
+ ## mediaTUM - Media and Publication Server
+ - [https://mediatum.ub.tum.de](https://mediatum.ub.tum.de)
+ - date_published: 2024-06-22T19:11:45.157411+00:00
+
+ ## Startseite der TUM School of Medicine and Health | TUM School of Medicine and Health
+ - [https://med.tum.de](https://med.tum.de)
+ - date_published: 2024-04-29T06:57:06.066785+00:00
+
  ## Uniting Management and Technology | TUM School of Management
  - [https://mgt.tum.de](https://mgt.tum.de)
  - date_published: 2024-04-29T06:56:57.887730+00:00
@@ -3918,119 +4014,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  - [https://dez5.uni-wuppertal.de](https://dez5.uni-wuppertal.de)
  - date_published: 2024-07-02T17:47:53.743490+00:00
  - date_dead_since: 2024-12-10T17:18:28.367787+00:00
-
- ## Startseite Dezernat 6
- - [https://dez6.uni-wuppertal.de](https://dez6.uni-wuppertal.de)
- - date_published: 2024-07-02T17:46:18.369526+00:00
- - date_dead_since: 2024-12-10T17:18:28.865400+00:00
-
- ## Startseite Dezernat 7
- - [https://dez7.uni-wuppertal.de](https://dez7.uni-wuppertal.de)
- - date_published: 2024-07-02T17:48:18.866837+00:00
- - date_dead_since: 2024-12-10T17:18:29.399652+00:00
-
- ## School of Education, Lehrer*innenbildung, Bildungswissenschaften Forschung und Lehre, Master of Education,
- - [https://edu.uni-wuppertal.de](https://edu.uni-wuppertal.de)
- - date_published: 2024-07-02T17:47:50.622748+00:00
- - date_dead_since: 2024-12-10T17:18:29.897335+00:00
-
- ## Startseite Fakultät für Geistes- und Kulturwissenschaften
- - [https://fk1.uni-wuppertal.de](https://fk1.uni-wuppertal.de)
- - date_published: 2024-07-02T17:48:09.862378+00:00
- - date_dead_since: 2024-12-10T17:18:30.630986+00:00
-
- ## Startseite Fakultät für Human- und Sozialwissenschaften
- - [https://fk2.uni-wuppertal.de](https://fk2.uni-wuppertal.de)
- - date_published: 2024-07-02T17:48:16.006841+00:00
- - date_dead_since: 2024-12-10T17:18:31.885535+00:00
-
- ## Startseite Fakultät für Mathematik und Naturwissenschaften
- - [https://fk4.uni-wuppertal.de](https://fk4.uni-wuppertal.de)
- - date_published: 2024-07-02T17:46:10.714284+00:00
- - date_dead_since: 2024-12-10T17:18:32.973405+00:00
-
- ## Fakultät 6 der Uni-Wuppertal
- - [https://fk6.uni-wuppertal.de](https://fk6.uni-wuppertal.de)
- - date_published: 2024-07-02T17:47:47.540987+00:00
- - date_dead_since: 2024-12-10T17:18:34.105217+00:00
-
- ## Maschinenbau / Sicherheitstechnik
- - [https://fk7.uni-wuppertal.de](https://fk7.uni-wuppertal.de)
- - date_published: 2024-07-02T17:48:41.019459+00:00
- - date_dead_since: 2024-12-10T17:18:35.082109+00:00
-
- ## Startseite
- - [https://fk8.uni-wuppertal.de](https://fk8.uni-wuppertal.de)
- - date_published: 2024-07-02T17:50:01.226519+00:00
- - date_dead_since: 2024-12-10T17:18:36.073425+00:00
-
- ## Zentrale Gleichstellungsbeauftragte der Bergischen Universität Wuppertal (BUW)
- - [https://gleichstellungsbeauftragte.uni-wuppertal.de](https://gleichstellungsbeauftragte.uni-wuppertal.de)
- - date_published: 2024-07-02T17:48:43.380907+00:00
- - date_dead_since: 2024-12-10T17:18:37.067324+00:00
-
- ## Startseite Karriere
- - [http://karriere.uni-wuppertal.de](http://karriere.uni-wuppertal.de)
- - date_published: 2024-07-02T17:46:20.781665+00:00
- - date_dead_since: 2024-12-10T17:18:38.156010+00:00
-
- ## Startseite Stiftungs- & Kooperationsmanagement
- - [https://kooperation.uni-wuppertal.de](https://kooperation.uni-wuppertal.de)
- - date_published: 2024-07-02T17:46:37.228570+00:00
- - date_dead_since: 2024-12-10T17:18:39.170848+00:00
-
- ## Log in to the site | Universität Wuppertal - Moodle
- - [https://moodle.uni-wuppertal.de](https://moodle.uni-wuppertal.de)
- - date_published: 2024-07-02T17:46:41.584233+00:00
-
- ## Start-up Center - Die Gündungsberatung der BUW
- - [https://startupcenter.uni-wuppertal.de](https://startupcenter.uni-wuppertal.de)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Weiterleitung
- - [https://stellenausschreibungen.uni-wuppertal.de](https://stellenausschreibungen.uni-wuppertal.de)
- - date_published: 2024-02-02T10:15:06+00:00
-
- ## Weiterleitung
- - [https://studiloewe.uni-wuppertal.de](https://studiloewe.uni-wuppertal.de)
- - date_published: 2024-03-07T07:36:39+00:00
-
- ## UniService Digitale Transformation - Bergische Universität Wuppertal
- - [https://uniservice-dt.uni-wuppertal.de](https://uniservice-dt.uni-wuppertal.de)
- - date_published: 2024-07-02T17:46:08.463585+00:00
- - date_dead_since: 2024-12-10T17:18:48.801640+00:00
-
- ## Startseite
- - [https://uni-wuppertal.de](https://uni-wuppertal.de)
- - date_published: 2024-05-07T23:01:36.058755+00:00
- - date_dead_since: 2024-12-10T17:23:05.714895+00:00
-
- ## Webmail-BUW
- - [https://webmail.uni-wuppertal.de](https://webmail.uni-wuppertal.de)
- - date_published: 2024-07-02T17:48:45.120532+00:00
-
- ## Startseite Alumni-Services
- - [https://www.alumni.uni-wuppertal.de](https://www.alumni.uni-wuppertal.de)
- - date_published: 2024-07-02T17:46:30.049195+00:00
- - date_dead_since: 2024-12-10T17:18:53.586550+00:00
-
- ## Startseite Fakultät
- - [https://www.archbau.uni-wuppertal.de](https://www.archbau.uni-wuppertal.de)
- - date_published: 2024-07-02T17:48:39.118532+00:00
- - date_dead_since: 2024-12-10T17:18:55.162724+00:00
-
- ## Startseite Universitätsarchiv
- - [https://www.archiv.uni-wuppertal.de](https://www.archiv.uni-wuppertal.de)
- - date_published: 2024-07-02T17:48:24.565158+00:00
- - date_dead_since: 2024-12-10T17:18:56.486032+00:00
-
- ## Startseite
- - [https://www.bib.uni-wuppertal.de](https://www.bib.uni-wuppertal.de)
- - date_published: 2024-07-02T17:48:27.000477+00:00
- - date_dead_since: 2024-12-10T17:18:57.851754+00:00
-
- ## Forschungsdaten
- - [https://www.fdm.uni-wuppertal.de](https://www.fdm.uni-wuppertal.de)
- - date_published: 2024-07-02T17:46:40.162791+00:00
- - date_dead_since: 2024-12-10T17:18:59.343107+00:00
 

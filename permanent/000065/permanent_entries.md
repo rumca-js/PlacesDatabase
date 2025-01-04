@@ -1,3 +1,19 @@
+ ## Mustering the Troops
+ - [http://anzacdiorama.blogspot.com](http://anzacdiorama.blogspot.com)
+ - date_published: 2024-12-28T10:52:22+00:00
+
+ ## Anzac Plastic
+ - [http://anzacplastic.blogspot.com](http://anzacplastic.blogspot.com)
+ - date_published: 2024-11-01T07:38:33+00:00
+
+ ## A Painter's Thoughts
+ - [https://a-painters-thoughts.blogspot.com](https://a-painters-thoughts.blogspot.com)
+ - date_published: 2024-08-31T15:24:42+00:00
+
+ ## A painting chaos
+ - [http://apaintingchaos.blogspot.com](http://apaintingchaos.blogspot.com)
+ - date_published: 2024-10-11T23:20:38+00:00
+
  ## A Paladin In Citadel
  - [https://apaladinincitadel.blogspot.com](https://apaladinincitadel.blogspot.com)
  - date_published: 2024-07-07T20:40:00+00:00
@@ -3994,20 +4010,4 @@
  ## BOLTER AND PAINT
  - [http://bolterandpaint.blogspot.com](http://bolterandpaint.blogspot.com)
  - date_published: 2024-05-17T14:07:35+00:00
-
- ## Bolters N' Beer
- - [http://boltersnbeer.blogspot.com](http://boltersnbeer.blogspot.com)
- - date_published: 2024-11-01T10:35:50+00:00
-
- ## Bolts of Silk
- - [http://boltsofsilk.blogspot.com](http://boltsofsilk.blogspot.com)
- - date_published: 2024-11-06T02:45:42+00:00
-
- ## Bolzano Daily Photo
- - [http://bolzanodailyphoto.blogspot.com](http://bolzanodailyphoto.blogspot.com)
- - date_published: 2024-12-31T07:00:00+00:00
-
- ## bomba inteligente
- - [http://bomba-inteligente.blogspot.com](http://bomba-inteligente.blogspot.com)
- - date_published: 2024-10-25T02:48:37+00:00
 

@@ -1,3 +1,162 @@
+ ## Oscars.org | Academy of Motion Picture Arts and Sciences
+ - [https://oscars.org](https://oscars.org)
+ - date_published: 2024-01-12T21:10:31+00:00
+ - tags: ['oscars']
+
+ ## Academy Press Office
+ - [https://press.oscars.org](https://press.oscars.org)
+ - date_published: 2024-05-08T11:21:04.423299+00:00
+
+ ## Home
+ - [https://www.oscar-system.org](https://www.oscar-system.org)
+ - date_published: 2024-12-18T02:49:30+00:00
+
+ ## Organization for Security and Co-operation in Europe
+ - [https://osce.org](https://osce.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Osceola County Home Page
+ - [https://osceola.org](https://osceola.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Toby Kaufmann-Buhler
+ - [https://oscillation.org](https://oscillation.org)
+ - date_published: 2024-12-25T20:46:21.056916+00:00
+
+ ## Home - OS-Climate
+ - [https://os-climate.org](https://os-climate.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home - Open Source Collective
+ - [https://oscollective.org](https://oscollective.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Introduction | API
+ - [https://docs.oscwii.org](https://docs.oscwii.org)
+ - date_published: 2024-06-18T16:52:06.904772+00:00
+
+ ## Open Shop Channel
+ - [https://oscwii.org](https://oscwii.org)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Open Shop Channel Status
+ - [https://status.oscwii.org](https://status.oscwii.org)
+ - date_published: 2024-10-22T22:03:04.942865+00:00
+
+ ## OSDev.org • Index page
+ - [https://forum.osdev.org](https://forum.osdev.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## OS Development
+ - [https://osdev.org](https://osdev.org)
+ - date_published: 2011-12-30T21:42:10+00:00
+
+ ## Expanded Main Page - OSDev Wiki
+ - [https://wiki.osdev.org](https://wiki.osdev.org)
+ - date_published: 2023-12-26T20:32:40.382941+00:00
+
+ ## The Open Group OSDU® Forum
+ - [https://osduforum.org](https://osduforum.org)
+ - date_published: 2024-06-28T08:46:40.133779+00:00
+
+ ## Rod's Slide Rules
+ - [https://osgalleries.org](https://osgalleries.org)
+ - date_published: 2023-10-25T21:55:08.267829+00:00
+
+ ## OSGeo Download Server
+ - [https://download.osgeo.org](https://download.osgeo.org)
+ - date_published: 2023-09-15T14:35:59+00:00
+
+ ## OSGeo Git Services: Gitea - Git with a cup of tea
+ - [https://git.osgeo.org](https://git.osgeo.org)
+ - date_published: 2024-10-16T05:41:59.196842+00:00
+
+ ## GRASS GIS - Bringing advanced geospatial technologies to the world
+ - [https://grass.osgeo.org](https://grass.osgeo.org)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## GRASS-Wiki - GRASS-Wiki
+ - [https://grasswiki.osgeo.org](https://grasswiki.osgeo.org)
+ - date_published: 2024-07-07T21:32:47+00:00
+
+ ## HTML REDIRECT
+ - [https://lists.osgeo.org](https://lists.osgeo.org)
+ - date_published: 2015-10-08T22:52:02+00:00
+
+ ## OSGeo - OSGeo
+ - [https://osgeo.org](https://osgeo.org)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## PhotoPrism: AI-Powered Photos App
+ - [https://photoprism.osgeo.org](https://photoprism.osgeo.org)
+ - date_published: 2024-12-22T05:00:02.963732+00:00
+
+ ## Planet OSGeo
+ - [https://planet.osgeo.org](https://planet.osgeo.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## OSGeo Trac Instances
+ - [https://trac.osgeo.org](https://trac.osgeo.org)
+ - date_published: 2024-12-16T11:37:13+00:00
+ - tags: ['earth', 'globe visualization']
+
+ ## OSGeo Oceania
+ - [https://osgeo-oceania.org](https://osgeo-oceania.org)
+ - date_published: 2024-12-22T05:05:08.069276+00:00
+
+ ## OSGi Working Group | The Eclipse Foundation
+ - [https://osgi.org](https://osgi.org)
+ - date_published: 2024-07-01T18:26:53+00:00
+
+ ## Osgrid | Home
+ - [https://osgrid.org](https://osgrid.org)
+ - date_published: 2024-06-24T05:45:54.577792+00:00
+
+ ## Oshin OS – Securing Tomorrow
+ - [https://oshinos.org](https://oshinos.org)
+ - date_published: 2024-06-14T22:04:45.818202+00:00
+
+ ## Open Hardware Summit — September 6, 2013
+ - [https://2013.oshwa.org](https://2013.oshwa.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## 2020 Open Hardware Summit – March 13th 2020, NYU School of Law, New York
+ - [https://2020.oshwa.org](https://2020.oshwa.org)
+ - date_published: 2024-07-07T08:38:06+00:00
+
+ ## 2023, 2023 Open Hardware Summit, Open Hardware Summit, OHS, OHS20232023 Open Hardware Summit,Just another Open Source Hardware Association site
+ - [https://2023.oshwa.org](https://2023.oshwa.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## 2024 Open Hardware Summit – Open Hardware Summit
+ - [https://2024.oshwa.org](https://2024.oshwa.org)
+ - date_published: 2024-07-07T06:19:56+00:00
+
+ ## Open Source Hardware Certificate
+ - [http://certificate.oshwa.org](http://certificate.oshwa.org)
+ - date_published: 2024-04-28T01:58:41.758525+00:00
+ - date_dead_since: 2025-01-03T23:55:31.292818+00:00
+
+ ## OSHWA API
+ - [https://certificationapi.oshwa.org](https://certificationapi.oshwa.org)
+ - date_published: 2024-07-07T08:38:13.159108+00:00
+
+ ## OSHWA Certification
+ - [https://certification.oshwa.org](https://certification.oshwa.org)
+ - date_published: 2024-06-28T20:24:06+00:00
+
+ ## Discourse
+ - [https://community.oshwa.org](https://community.oshwa.org)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Open Hardware Creators in Academia
+ - [https://ohca.oshwa.org](https://ohca.oshwa.org)
+ - date_published: 2024-07-07T08:37:56.763968+00:00
+
+ ## Open Hardware Month – An OSHWA Initiative
+ - [https://ohm.oshwa.org](https://ohm.oshwa.org)
+ - date_published: 2024-07-07T08:37:59+00:00
+
  ## (no title)
  - [https://oshwa.org](https://oshwa.org)
  - date_published: 2024-05-08T10:07:13.736920+00:00
@@ -61,7 +220,7 @@
  - date_published: 2024-06-14T12:17:42+00:00
 
  ## OpenStreetMap Blog | Supporting the OpenStreetMap project
- - [http://blog.osmfoundation.org](http://blog.osmfoundation.org)
+ - [https://blog.osmfoundation.org](https://blog.osmfoundation.org)
  - date_published: 2024-08-11T12:21:11.419872+00:00
 
  ## OpenStreetMap Foundation – Supporting the work of the OpenStreetMap project
@@ -89,11 +248,11 @@
  - date_published: 2024-03-13T11:06:37+00:00
 
  ## Welcome to the NSW and ACT OSM Website
- - [https://www.osm-nsw-act.org](https://www.osm-nsw-act.org)
+ - [https://osm-nsw-act.org](https://osm-nsw-act.org)
  - date_published: 2024-06-06T22:50:44+00:00
 
  ## Overview - OsmocomBB - Open Source Mobile Communications
- - [http://bb.osmocom.org](http://bb.osmocom.org)
+ - [https://bb.osmocom.org](https://bb.osmocom.org)
  - date_published: 2024-07-15T11:54:43.313575+00:00
 
  ## Osmocom Discourse
@@ -141,7 +300,7 @@
  - date_published: 2023-10-25T21:55:10.623342+00:00
 
  ## Open Source Policy Center
- - [https://www.ospc.org](https://www.ospc.org)
+ - [https://ospc.org](https://ospc.org)
  - date_published: 2024-08-01T14:04:37+00:00
 
  ## Oriental Scientific Publishing Company, Research Journals Publisher
@@ -157,7 +316,7 @@
  - date_published: 2024-08-07T15:16:51+00:00
 
  ## Osprey Foundation
- - [http://www.ospreyfdn.org](http://www.ospreyfdn.org)
+ - [https://ospreyfdn.org](https://ospreyfdn.org)
  - date_published: 2024-09-12T18:34:34.708140+00:00
 
  ## OSQP
@@ -175,9 +334,10 @@
  ## คาสิโนออนไลน์ 10อันดับเว็บคาสิโนออนไลน์ คาสิโนเว็บแม่
  - [https://www.oss2019.org](https://www.oss2019.org)
  - date_published: 2024-08-06T00:00:00+00:00
+ - date_dead_since: 2025-01-03T23:59:33.958001+00:00
 
  ## OSS Blog
- - [https://www.ossblog.org](https://www.ossblog.org)
+ - [https://ossblog.org](https://ossblog.org)
  - date_published: 2024-05-04T12:45:52.822165+00:00
 
  ## Welcome to the Open Source Seed Initiative - Open Source Seed Initiative
@@ -225,7 +385,7 @@
  - date_published: 2024-07-07T06:06:40.647003+00:00
 
  ## The Ohio State University Airport
- - [https://www.osuairport.org](https://www.osuairport.org)
+ - [https://osuairport.org](https://osuairport.org)
  - date_published: 2016-05-26T16:46:00+00:00
 
  ## Oregon State University
@@ -237,7 +397,7 @@
  - date_published: 2024-10-15T00:01:28.977023+00:00
 
  ## Academic Technology
- - [https://www.osuntech.org](https://www.osuntech.org)
+ - [https://osuntech.org](https://osuntech.org)
  - date_published: 2022-10-19T00:53:55+00:00
 
  ## Open Source Lab Web Stats
@@ -250,7 +410,7 @@
  - tags: ['organisation', 'open source']
 
  ## Welcome to nginx!
- - [http://www.osvdb.org](http://www.osvdb.org)
+ - [https://www.osvdb.org](https://www.osvdb.org)
  - date_published: 2014-03-04T11:46:45+00:00
 
  ## Open Source Web Design - Download free web design templates.
@@ -258,7 +418,7 @@
  - date_published: 2024-05-01T03:56:51.847862+00:00
 
  ## index - OTCA
- - [http://otca.org](http://otca.org)
+ - [https://otca.org](https://otca.org)
  - date_published: 2024-06-20T08:53:52.917655+00:00
 
  ## Offshore Technology Conference | OTC 2025 | Offshore Energy Event
@@ -284,7 +444,7 @@
  - date_published: 2024-08-19T05:41:34.873025+00:00
 
  ## Othercon
- - [https://www.othercon.org](https://www.othercon.org)
+ - [https://othercon.org](https://othercon.org)
  - date_published: 2024-07-10T03:12:49.757289+00:00
 
  ## OTOBO Community – Join us and shape the future of OTOBO | OTOBO
@@ -300,7 +460,7 @@
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## Fundacja Otwartych Serc im. Bogusławy Nykiel-Ostrowskiej
- - [http://www.fundacja.otwartychserc.org](http://www.fundacja.otwartychserc.org)
+ - [https://fundacja.otwartychserc.org](https://fundacja.otwartychserc.org)
  - date_published: 2024-08-18T17:08:49.190205+00:00
 
  ## URL Shortener, Branded Short Links & Analytics | TinyURL
@@ -308,15 +468,15 @@
  - date_published: 2024-07-20T16:31:47.114460+00:00
 
  ## Jewish Holidays, Kosher food, Torah & Jewish Living
- - [http://www.ou.org](http://www.ou.org)
+ - [https://ou.org](https://ou.org)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Oakland University Art Gallery - Oakland University Art Gallery
- - [https://www.ouartgallery.org](https://www.ouartgallery.org)
+ - [https://ouartgallery.org](https://ouartgallery.org)
  - date_published: 2024-06-22T10:46:43.533455+00:00
 
  ## Homepage - OUCRU
- - [https://www.oucru.org](https://www.oucru.org)
+ - [https://oucru.org](https://oucru.org)
  - date_published: 2024-10-20T07:19:48.687264+00:00
 
  ## Ought
@@ -324,11 +484,11 @@
  - date_published: 2024-05-04T13:55:57.876049+00:00
 
  ## Oughtred Society home page
- - [http://www.oughtred.org](http://www.oughtred.org)
+ - [https://oughtred.org](https://oughtred.org)
  - date_published: 2022-08-09T01:08:36+00:00
 
  ## OurDigitalWorld
- - [http://ourdigitalworld.org](http://ourdigitalworld.org)
+ - [https://ourdigitalworld.org](https://ourdigitalworld.org)
  - date_published: 2024-07-15T11:14:34+00:00
 
  ## Home - Our Family Coalition
@@ -340,7 +500,7 @@
  - date_published: 2024-05-24T22:29:35.055734+00:00
 
  ## OurFuture.org by People's Action
- - [http://home.ourfuture.org](http://home.ourfuture.org)
+ - [https://home.ourfuture.org](https://home.ourfuture.org)
  - date_published: 2024-07-02T06:20:04.819332+00:00
 
  ## OurFuture.org by People's Action
@@ -352,7 +512,7 @@
  - date_published: 2024-05-08T09:52:21.266094+00:00
 
  ## Ourmedia - Co Building Sustainable Futures with Gen Z | Official Website
- - [http://ourmedia.org](http://ourmedia.org)
+ - [https://ourmedia.org](https://ourmedia.org)
  - date_published: 2020-01-06T14:15:05+00:00
 
  ## Our Pomona
@@ -376,7 +536,7 @@
  - date_published: 2024-06-30T00:00:00+00:00
 
  ## АНО «НАШ СОЛНЕЧНЫЙ МИР» - Главная
- - [http://www.oursunnyworld.org](http://www.oursunnyworld.org)
+ - [http://oursunnyworld.org](http://oursunnyworld.org)
  - date_published: 2024-09-04T05:19:14.813725+00:00
 
  ## covid-19-data/public/data at master · owid/covid-19-data
@@ -393,7 +553,7 @@
  - date_published: 2024-07-15T00:06:27+00:00
 
  ## TEMBAKTOTO | Daftar Bandar Togel Resmi Toto
- - [http://outcampaign.org](http://outcampaign.org)
+ - [https://outcampaign.org](https://outcampaign.org)
  - date_published: 2024-05-15T07:34:39+00:00
 
  ## little-backup-box
@@ -405,7 +565,7 @@
  - date_published: 2024-01-10T00:00:00+00:00
 
  ## Outfest Home
- - [https://www.outfest.org](https://www.outfest.org)
+ - [https://outfest.org](https://outfest.org)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## OutfitAnyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
@@ -422,7 +582,7 @@
  - tags: ['mud game']
 
  ## Outlier.org | The World's Best Online Education
- - [https://www.outlier.org](https://www.outlier.org)
+ - [https://outlier.org](https://outlier.org)
  - date_published: 2024-02-23T00:00:00+00:00
 
  ## Outlier Media · Local, accountable, informed.
@@ -434,7 +594,7 @@
  - date_published: 2024-09-16T03:53:22.469965+00:00
 
  ## Home - Outreach Judaism
- - [http://www.outreachjudaism.org](http://www.outreachjudaism.org)
+ - [https://outreachjudaism.org](https://outreachjudaism.org)
  - date_published: 2015-03-03T00:00:00+00:00
 
  ## Exploring the Modern Society: Challenges and Opportunities in a Changing World
@@ -458,7 +618,7 @@
  - date_published: 2024-06-28T23:02:24+00:00
 
  ## OutRun.Org - Welcome!
- - [http://www.outrun.org](http://www.outrun.org)
+ - [https://outrun.org](https://outrun.org)
  - date_published: 2024-08-20T19:38:03.210159+00:00
 
  ## Outside/In
@@ -466,7 +626,7 @@
  - date_published: 2024-05-02T00:00:00+00:00
 
  ## Outsiders podcast: From KNKX and The Seattle Times' Project Homeless
- - [http://outsiderspodcast.org](http://outsiderspodcast.org)
+ - [https://outsiderspodcast.org](https://outsiderspodcast.org)
  - date_published: 2020-01-01T20:00:43+00:00
 
  ## Rigasite -
@@ -484,11 +644,11 @@ for emulation
  - date_published: 2006-11-20T19:53:45+00:00
 
  ## %%sitename%%
- - [http://overcomingpoverty.org](http://overcomingpoverty.org)
+ - [https://overcomingpoverty.org](https://overcomingpoverty.org)
  - date_published: 2024-07-13T19:49:25.410037+00:00
 
  ## The Overlook - Senior Living in Charlton, MA
- - [https://www.overlook-mass.org](https://www.overlook-mass.org)
+ - [https://overlook-mass.org](https://overlook-mass.org)
  - date_published: 2024-03-28T00:00:00+00:00
 
  ## Overmind | OVERMIND
@@ -496,15 +656,15 @@ for emulation
  - date_published: 2024-07-20T18:10:15.495171+00:00
 
  ## OPC Foundation
- - [http://www.overseaspressclubfoundation.org](http://www.overseaspressclubfoundation.org)
+ - [https://overseaspressclubfoundation.org](https://overseaspressclubfoundation.org)
  - date_published: 2024-08-08T18:51:25.497858+00:00
 
  ## Home Page | Overseas Vote
- - [https://www.overseasvotefoundation.org](https://www.overseasvotefoundation.org)
+ - [https://overseasvotefoundation.org](https://overseasvotefoundation.org)
  - date_published: 2024-09-17T13:22:16+00:00
 
  ## Nicholas Lewis – Climate Science
- - [http://www.oversensitive.org](http://www.oversensitive.org)
+ - [https://oversensitive.org](https://oversensitive.org)
  - date_published: 2024-06-28T18:49:45.332098+00:00
 
  ## #MoveTheDate Solutions
@@ -537,15 +697,15 @@ for emulation
  - date_published: 2023-10-25T21:55:23.960595+00:00
 
  ## Home - Overview Institute
- - [http://www.overviewinstitute.org](http://www.overviewinstitute.org)
+ - [https://overviewinstitute.org](https://overviewinstitute.org)
  - date_published: 2024-08-18T20:15:42.964788+00:00
 
  ## The Overview Institute of Australia
- - [http://www.overviewinstituteaustralia.org](http://www.overviewinstituteaustralia.org)
+ - [https://overviewinstituteaustralia.org](https://overviewinstituteaustralia.org)
  - date_published: 2024-10-19T07:42:02.018718+00:00
 
  ## ovidhan.org - অনলাইন বাংলা অভিধান | Online Bengali Dictionary | Bangla Dictionary | Bangla  Ovidhan | Bengali  Ovidhan
- - [http://ovidhan.org](http://ovidhan.org)
+ - [https://ovidhan.org](https://ovidhan.org)
  - date_published: 2024-10-18T06:08:45.296914+00:00
 
  ## Ovio Blog
@@ -566,11 +726,11 @@ for emulation
  - date_published: 2024-08-30T17:06:21+00:00
 
  ## /en/
- - [https://www.ovn.org](https://www.ovn.org)
+ - [https://ovn.org](https://ovn.org)
  - date_published: 2024-06-03T16:04:01+00:00
 
  ## OVTT — Observatorio Tecnológico UA
- - [http://en.ovtt.org](http://en.ovtt.org)
+ - [https://en.ovtt.org](https://en.ovtt.org)
  - date_published: 2020-01-14T14:15:26+00:00
 
  ## Inteligencia Estratégica – Sitio oficial del Curso de especialización "Inteligencia estratégica para organizaciones innovadoras", impulsado por la Universidad de Alicante en el curso académico 2018-2019.
@@ -585,16 +745,16 @@ for emulation
  - [https://gitlab.ow2.org](https://gitlab.ow2.org)
  - date_published: 2024-06-30T00:00:00+00:00
 
+ ## OW2 - Open source community for professional software
+ - [https://ow2.org](https://ow2.org)
+ - date_published: 2024-06-28T22:09:34.256747+00:00
+
  ## Nexus Repository Manager
  - [https://repository.ow2.org](https://repository.ow2.org)
  - date_published: 2024-06-30T02:59:16+00:00
 
- ## OW2 - Open source community for professional software
- - [https://www.ow2.org](https://www.ow2.org)
- - date_published: 2024-06-28T22:09:34.256747+00:00
-
  ## OW2con'24 - OW2con
- - [https://www.ow2con.org](https://www.ow2con.org)
+ - [https://ow2con.org](https://ow2con.org)
  - date_published: 2024-06-23T12:33:05.104898+00:00
 
  ## Introduction - OWASP Cheat Sheet Series
@@ -607,11 +767,11 @@ for emulation
  - tags: ['security', 'cybersecurity']
 
  ## Owen Abroad
- - [http://www.owen.org](http://www.owen.org)
+ - [https://owen.org](https://owen.org)
  - date_published: 2024-07-03T21:56:35.688735+00:00
 
  ## OWIN — Open Web Interface for .NET
- - [http://owin.org](http://owin.org)
+ - [https://owin.org](https://owin.org)
  - date_published: 2012-12-03T00:00:00+00:00
 
  ## Owl’s Portfolio
@@ -627,7 +787,7 @@ for emulation
  - date_published: 2016-07-08T12:32:10+00:00
 
  ## Outdoor Wilderness Living School, LLC (OWLS)
- - [http://www.owlschool.org](http://www.owlschool.org)
+ - [https://owlschool.org](https://owlschool.org)
  - date_published: 2023-03-25T20:15:05+00:00
 
  ## ownCloud Central
@@ -643,7 +803,7 @@ for emulation
  - date_published: 2024-02-15T00:00:00+00:00
 
  ## Home Page | IHG Owners Association
- - [http://www.owners.org](http://www.owners.org)
+ - [https://owners.org](https://owners.org)
  - date_published: 2024-06-28T17:09:43.934092+00:00
 
  ## 4clojure 4ever
@@ -687,27 +847,27 @@ for emulation
  - date_published: 2024-12-19T16:16:36.682674+00:00
 
  ## Oxfam France
- - [https://www.oxfamfrance.org](https://www.oxfamfrance.org)
+ - [https://oxfamfrance.org](https://oxfamfrance.org)
  - date_published: 2024-07-08T13:45:03+00:00
 
  ## Oxfam India | NGO Working For Child Education, Inequality, Women Empowerment
- - [https://www.oxfamindia.org](https://www.oxfamindia.org)
+ - [https://oxfamindia.org](https://oxfamindia.org)
  - date_published: 2024-02-27T00:00:00+00:00
 
  ## Oxfam Intermón
- - [https://www.oxfamintermon.org](https://www.oxfamintermon.org)
+ - [https://oxfamintermon.org](https://oxfamintermon.org)
  - date_published: 2024-07-07T01:41:05+00:00
 
  ## GAZA CRISIS APPEAL
- - [https://www.oxfamireland.org](https://www.oxfamireland.org)
+ - [https://oxfamireland.org](https://oxfamireland.org)
  - date_published: 2023-06-04T13:19:00+00:00
 
  ## Home
- - [https://www.oxfamitalia.org](https://www.oxfamitalia.org)
+ - [https://oxfamitalia.org](https://oxfamitalia.org)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Oxfam México | La igualdad es el futuro
- - [https://www.oxfammexico.org](https://www.oxfammexico.org)
+ - [https://oxfammexico.org](https://oxfammexico.org)
  - date_published: 2024-07-08T13:54:00.740177+00:00
 
  ## Oxford American | Home
@@ -731,31 +891,31 @@ for emulation
  - date_published: 2024-06-17T16:40:46.813216+00:00
 
  ## Personality Test
- - [https://www.oxfordcapacityanalysis.org](https://www.oxfordcapacityanalysis.org)
+ - [https://oxfordcapacityanalysis.org](https://oxfordcapacityanalysis.org)
  - date_published: 2024-05-02T10:38:15.773984+00:00
 
  ## Welcome to Oxford Interfaith Forum - Oxford Interfaith Forum
- - [https://www.oxfordinterfaithforum.org](https://www.oxfordinterfaithforum.org)
+ - [https://oxfordinterfaithforum.org](https://oxfordinterfaithforum.org)
  - date_published: 2024-04-03T00:00:00+00:00
 
  ## Bioinformatics | Oxford Academic
- - [http://bioinformatics.oxfordjournals.org](http://bioinformatics.oxfordjournals.org)
+ - [https://bioinformatics.oxfordjournals.org](https://bioinformatics.oxfordjournals.org)
  - date_published: 2024-07-21T02:06:09.579507+00:00
 
  ## Conservation Physiology | Oxford Academic
- - [https://conphys.oxfordjournals.org](https://conphys.oxfordjournals.org)
+ - [http://conphys.oxfordjournals.org](http://conphys.oxfordjournals.org)
  - date_published: 2024-06-30T04:57:57.473304+00:00
 
  ## Journal of Cybersecurity | Oxford Academic
- - [http://cybersecurity.oxfordjournals.org](http://cybersecurity.oxfordjournals.org)
+ - [https://cybersecurity.oxfordjournals.org](https://cybersecurity.oxfordjournals.org)
  - date_published: 2024-06-17T10:10:57.495579+00:00
 
  ## European Journal of International Law | Oxford Academic
- - [http://ejil.oxfordjournals.org](http://ejil.oxfordjournals.org)
+ - [https://ejil.oxfordjournals.org](https://ejil.oxfordjournals.org)
  - date_published: 2024-10-18T21:08:21.378909+00:00
 
  ## Genome Biology and Evolution | Oxford Academic
- - [http://gbe.oxfordjournals.org](http://gbe.oxfordjournals.org)
+ - [https://gbe.oxfordjournals.org](https://gbe.oxfordjournals.org)
  - date_published: 2024-10-19T06:22:29.437477+00:00
 
  ## Journals Career Network (Powered by Yourmembership.com)
@@ -767,35 +927,35 @@ for emulation
  - date_published: 2024-10-18T21:00:12.674362+00:00
 
  ## History Workshop Journal | Oxford Academic
- - [https://hwj.oxfordjournals.org](https://hwj.oxfordjournals.org)
+ - [http://hwj.oxfordjournals.org](http://hwj.oxfordjournals.org)
  - date_published: 2024-05-02T12:38:22.772736+00:00
 
  ## International Journal of Transitional Justice | Oxford Academic
- - [http://ijtj.oxfordjournals.org](http://ijtj.oxfordjournals.org)
+ - [https://ijtj.oxfordjournals.org](https://ijtj.oxfordjournals.org)
  - date_published: 2024-10-18T21:01:24.253103+00:00
 
  ## IMA Journal of Numerical Analysis | Oxford Academic
- - [http://imajna.oxfordjournals.org](http://imajna.oxfordjournals.org)
+ - [https://imajna.oxfordjournals.org](https://imajna.oxfordjournals.org)
  - date_published: 2024-08-19T07:03:49.676670+00:00
 
  ## Interacting with Computers | Oxford Academic
- - [https://iwc.oxfordjournals.org](https://iwc.oxfordjournals.org)
+ - [http://iwc.oxfordjournals.org](http://iwc.oxfordjournals.org)
  - date_published: 2024-05-09T09:11:24.038941+00:00
 
  ## Journal of the American Medical Informatics Association | Oxford Academic
- - [http://jamia.oxfordjournals.org](http://jamia.oxfordjournals.org)
+ - [https://jamia.oxfordjournals.org](https://jamia.oxfordjournals.org)
  - date_published: 2024-07-02T13:31:25.228781+00:00
 
  ## The Journal of Infectious Diseases | Oxford Academic
- - [http://jid.oxfordjournals.org](http://jid.oxfordjournals.org)
+ - [https://jid.oxfordjournals.org](https://jid.oxfordjournals.org)
  - date_published: 2024-10-19T05:08:09.536913+00:00
 
  ## Journal of Law and the Biosciences | Oxford Academic
- - [https://jlb.oxfordjournals.org](https://jlb.oxfordjournals.org)
+ - [http://jlb.oxfordjournals.org](http://jlb.oxfordjournals.org)
  - date_published: 2024-09-04T20:20:38.966518+00:00
 
  ## Molecular Biology and Evolution | Oxford Academic
- - [http://mbe.oxfordjournals.org](http://mbe.oxfordjournals.org)
+ - [https://mbe.oxfordjournals.org](https://mbe.oxfordjournals.org)
  - date_published: 2024-10-19T06:20:29.990201+00:00
 
  ## International Journal of Epidemiology | Oxford Academic
@@ -803,28 +963,28 @@ for emulation
  - date_published: 2025-01-01T08:14:57.693046+00:00
 
  ## Nucleic Acids Research | Oxford Academic
- - [http://nar.oxfordjournals.org](http://nar.oxfordjournals.org)
+ - [https://nar.oxfordjournals.org](https://nar.oxfordjournals.org)
  - date_published: 2024-10-19T06:20:21.585317+00:00
 
  ## Oxford Journal of Law and Religion | Oxford Academic
  - [http://ojlr.oxfordjournals.org](http://ojlr.oxfordjournals.org)
  - date_published: 2024-06-28T20:53:47.725019+00:00
 
+ ## Journals | Oxford Academic
+ - [http://oxfordjournals.org](http://oxfordjournals.org)
+ - date_published: 2024-05-06T22:14:49.916659+00:00
+
  ## Parliamentary Affairs | Oxford Academic
- - [http://pa.oxfordjournals.org](http://pa.oxfordjournals.org)
+ - [https://pa.oxfordjournals.org](https://pa.oxfordjournals.org)
  - date_published: 2024-08-07T14:21:11.883782+00:00
 
  ## The Quarterly Journal of Mathematics | Oxford Academic
- - [http://qjmath.oxfordjournals.org](http://qjmath.oxfordjournals.org)
+ - [https://qjmath.oxfordjournals.org](https://qjmath.oxfordjournals.org)
  - date_published: 2024-06-30T09:13:04.307127+00:00
 
  ## Science and Mathematics
- - [http://science-and-mathematics-careernetwork.oxfordjournals.org](http://science-and-mathematics-careernetwork.oxfordjournals.org)
+ - [https://science-and-mathematics-careernetwork.oxfordjournals.org](https://science-and-mathematics-careernetwork.oxfordjournals.org)
  - date_published: 2024-07-11T12:55:57.376547+00:00
-
- ## Journals | Oxford Academic
- - [https://www.oxfordjournals.org](https://www.oxfordjournals.org)
- - date_published: 2024-05-06T22:14:49.916659+00:00
 
  ## Oxford Literary Festival March 16 - 24 2024 | Oxford Literary Festival
  - [https://oxfordliteraryfestival.org](https://oxfordliteraryfestival.org)
@@ -839,23 +999,23 @@ for emulation
  - date_published: 2024-01-02T00:00:00+00:00
 
  ## Home - University of Oxford North American Office
- - [http://www.oxfordna.org](http://www.oxfordna.org)
+ - [https://www.oxfordna.org](https://www.oxfordna.org)
  - date_published: 2024-06-17T18:47:28.666664+00:00
 
  ## University of Oxford China Office
- - [http://www.oxforduchina.org](http://www.oxforduchina.org)
+ - [https://oxforduchina.org](https://oxforduchina.org)
  - date_published: 2024-06-17T18:47:30.654390+00:00
 
  ## University of Oxford Japan Office | オックスフォード大学日本事務所
- - [http://oxfordujapan.org](http://oxfordujapan.org)
+ - [https://oxfordujapan.org](https://oxfordujapan.org)
  - date_published: 2024-06-17T18:47:26.533604+00:00
 
  ## Home
- - [https://www.oxford-union.org](https://www.oxford-union.org)
+ - [https://oxford-union.org](https://oxford-union.org)
  - date_published: 2024-07-03T22:19:18.319177+00:00
 
  ## Oxide - Home
- - [http://oxidemod.org](http://oxidemod.org)
+ - [https://oxidemod.org](https://oxidemod.org)
  - date_published: 2024-08-06T02:38:44+00:00
 
  ## OXID Forge – Die Knowledge Base rund um den OXID eShop
@@ -863,15 +1023,15 @@ for emulation
  - date_published: 2024-06-19T22:20:43.106883+00:00
 
  ## OxNet: University of Oxford Access Programme
- - [https://www.oxnet.org](https://www.oxnet.org)
+ - [https://oxnet.org](https://oxnet.org)
  - date_published: 2024-10-20T06:17:52.743418+00:00
 
  ## Go138: Klaim Voucher Menarik dari Pragmatic Wild West Gold Megaways!
- - [https://www.oxonianreview.org](https://www.oxonianreview.org)
+ - [https://oxonianreview.org](https://oxonianreview.org)
  - date_published: 2024-07-22T14:49:57+00:00
 
  ## Historical Global Atmospheric Oxygen Levels Graph
- - [https://www.oxygenlevels.org](https://www.oxygenlevels.org)
+ - [https://oxygenlevels.org](https://oxygenlevels.org)
  - date_published: 2024-08-18T04:40:31.261519+00:00
 
  ## Oxygine - 2D C++ game framework
@@ -883,15 +1043,15 @@ for emulation
  - date_published: 2024-05-07T13:49:21.627983+00:00
 
  ## {{meta.pageTitle}}
- - [https://www.oyez.org](https://www.oyez.org)
+ - [https://oyez.org](https://oyez.org)
  - date_published: 2024-05-17T14:17:45+00:00
 
  ## OzCHI 2024
- - [http://www.ozchi.org](http://www.ozchi.org)
+ - [https://ozchi.org](https://ozchi.org)
  - date_published: 2024-06-25T06:07:05+00:00
 
  ## International Wizard of Oz Club -
- - [http://www.ozclub.org](http://www.ozclub.org)
+ - [https://ozclub.org](https://ozclub.org)
  - date_published: 2024-10-25T19:34:35+00:00
 
  ## OzHarvest | Australia’s leading food rescue organisation
@@ -899,16 +1059,16 @@ for emulation
  - date_published: 2024-12-20T22:30:28.940434+00:00
 
  ## ccontrol
- - [http://ccontrol.ozlabs.org](http://ccontrol.ozlabs.org)
+ - [https://ccontrol.ozlabs.org](https://ccontrol.ozlabs.org)
  - date_published: 2010-05-19T08:26:54+00:00
 
  ## git.ozlabs.org Git
- - [http://git.ozlabs.org](http://git.ozlabs.org)
+ - [https://git.ozlabs.org](https://git.ozlabs.org)
  - date_published: 2024-06-26T09:18:44.025043+00:00
 
  ## jeremy kerr
- - [http://jk.ozlabs.org](http://jk.ozlabs.org)
- - date_published: 2024-07-07T04:00:24.898579+00:00
+ - [https://jk.ozlabs.org](https://jk.ozlabs.org)
+ - date_published: 2021-01-14T03:27:05+00:00
 
  ## lists.ozlabs.org Mailing Lists
  - [https://lists.ozlabs.org](https://lists.ozlabs.org)
@@ -923,7 +1083,7 @@ for emulation
  - date_published: 2024-06-09T07:38:49+00:00
 
  ## Yaboot
- - [http://yaboot.ozlabs.org](http://yaboot.ozlabs.org)
+ - [https://yaboot.ozlabs.org](https://yaboot.ozlabs.org)
  - date_published: 2021-02-08T09:17:37+00:00
 
  ## Радио Озоди
@@ -939,15 +1099,15 @@ for emulation
  - date_published: 2024-10-31T23:32:46.684933+00:00
 
  ## Journal: Sky Stories
- - [http://ozone-journal.org](http://ozone-journal.org)
+ - [https://ozone-journal.org](https://ozone-journal.org)
  - date_published: 2024-06-30T04:28:25.841750+00:00
 
  ## QOS2016 - Home
- - [https://www.ozone-symposium-2016.org](https://www.ozone-symposium-2016.org)
+ - [https://ozone-symposium-2016.org](https://ozone-symposium-2016.org)
  - date_published: 2023-02-26T01:28:18+00:00
 
  ## Coming Soon
- - [http://ozwords.org](http://ozwords.org)
+ - [https://ozwords.org](https://ozwords.org)
  - date_published: 2024-01-23T09:34:12+00:00
 
  ## P01✨
@@ -966,7 +1126,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-07-04T17:16:37.622397+00:00
 
  ## p2p13 -
- - [http://p2p13.org](http://p2p13.org)
+ - [https://p2p13.org](https://p2p13.org)
  - date_published: 2024-03-17T15:17:30+00:00
 
  ## Home | p2panda
@@ -974,11 +1134,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2023-10-25T21:55:36.083870+00:00
 
  ## p2p-conference.org
- - [http://www.p2p-conference.org](http://www.p2p-conference.org)
- - date_published: 2024-06-07T00:00:00+00:00
+ - [https://p2p-conference.org](https://p2p-conference.org)
+ - date_published: 2024-02-28T04:23:59+00:00
 
  ## P2P Lab
- - [http://p2plab.org](http://p2plab.org)
+ - [https://p2plab.org](https://p2plab.org)
  - date_published: 2024-09-12T19:38:01.128886+00:00
 
  ## P4 – Language Consortium
@@ -1024,11 +1184,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-03T00:00:00+00:00
 
  ## Pablo Garcia
- - [http://pablogarcia.org](http://pablogarcia.org)
+ - [https://pablogarcia.org](https://pablogarcia.org)
  - date_published: 2024-09-13T20:06:51.083726+00:00
 
  ## Pablo Picasso: 150 Famous Paintings, Bio & Quotes by Picasso
- - [https://www.pablopicasso.org](https://www.pablopicasso.org)
+ - [https://pablopicasso.org](https://pablopicasso.org)
  - date_published: 2024-06-26T14:11:28.487215+00:00
 
  ## pablotron.org
@@ -1038,6 +1198,7 @@ TECHNICAL SPEAKER — @p01
  ## Pennsylvania State Capitol  - Official Site
  - [http://www.pacapitol.org](http://www.pacapitol.org)
  - date_published: 2024-06-29T14:51:22.774806+00:00
+ - date_dead_since: 2025-01-04T00:50:14.542650+00:00
 
  ## Home Page - Pacers Foundation
  - [https://pacersfoundation.org](https://pacersfoundation.org)
@@ -1056,7 +1217,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## Pacific CBPR Home
- - [https://www.pacificcbpr.org](https://www.pacificcbpr.org)
+ - [https://pacificcbpr.org](https://pacificcbpr.org)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Pacific Coast Collaborative | Helping the pacific coast
@@ -1068,7 +1229,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-09-10T21:55:43+00:00
 
  ## Non-Profit Legal Defense Organization - Pacific Justice Institute
- - [http://www.pacificjustice.org](http://www.pacificjustice.org)
+ - [https://pacificjustice.org](https://pacificjustice.org)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Home
@@ -1092,7 +1253,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-08-08T20:41:09+00:00
 
  ## Homepage
- - [http://www.pacificstandardtime.org](http://www.pacificstandardtime.org)
+ - [https://pacificstandardtime.org](https://pacificstandardtime.org)
  - date_published: 2024-09-06T21:36:29.810855+00:00
 
  ## Pacific Sword Company, Santa Barbara
@@ -1100,15 +1261,15 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-06-05T08:53:44+00:00
 
  ## PacificViews.org
- - [http://pacificviews.org](http://pacificviews.org)
+ - [https://pacificviews.org](https://pacificviews.org)
  - date_published: 2024-08-09T05:26:00+00:00
 
  ## Pacific Institute | Advancing Water Resilience
- - [http://pacinst.org](http://pacinst.org)
+ - [https://pacinst.org](https://pacinst.org)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Send Care Packages | Packages From Home
- - [http://www.packagesfromhome.org](http://www.packagesfromhome.org)
+ - [https://packagesfromhome.org](https://packagesfromhome.org)
  - date_published: 2024-07-09T22:58:45.835930+00:00
 
  ## PackagingCon 2023
@@ -1124,11 +1285,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-09-09T22:04:59.049227+00:00
 
  ## Home
- - [http://packal.org](http://packal.org)
+ - [https://packal.org](https://packal.org)
  - date_published: 2024-06-23T02:01:04+00:00
 
  ## Homepage • The David and Lucile Packard Foundation
- - [https://www.packard.org](https://www.packard.org)
+ - [https://packard.org](https://packard.org)
  - date_published: 2024-07-10T00:00:32+00:00
 
  ## PHI Greek Inscriptions
@@ -1136,7 +1297,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2023-07-12T00:00:00+00:00
 
  ## Packard Humanities Institute - Persian Literature in Translation
- - [http://persian.packhum.org](http://persian.packhum.org)
+ - [https://persian.packhum.org](https://persian.packhum.org)
  - date_published: 2024-08-06T05:30:24+00:00
 
  ## Packmates.org
@@ -1144,7 +1305,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-07-02T19:48:15.347459+00:00
 
  ## Pacific Islands Legal Information Institute
- - [http://www.paclii.org](http://www.paclii.org)
+ - [https://paclii.org](https://paclii.org)
  - date_published: 2024-08-18T00:00:00+00:00
 
  ## PAC NYC
@@ -1156,7 +1317,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-08T04:36:19.154054+00:00
 
  ## Pacto de estado – para proteger a los menores de edad en Internet y las redes sociales
- - [http://pactomenoresdigitales.org](http://pactomenoresdigitales.org)
+ - [https://pactomenoresdigitales.org](https://pactomenoresdigitales.org)
  - date_published: 2024-07-10T06:26:40.108522+00:00
 
  ## Pacto Mundial ONU: Desarrollo sostenible y Responsabilidad social
@@ -1164,11 +1325,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-10-14T00:00:00+00:00
 
  ## Pacto Mundial ONU: Desarrollo sostenible y Responsabilidad social
- - [https://www.pactomundial.org](https://www.pactomundial.org)
+ - [https://pactomundial.org](https://pactomundial.org)
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## Professional Autograph Dealers Association
- - [http://www.padaweb.org](http://www.padaweb.org)
+ - [http://padaweb.org](http://padaweb.org)
  - date_published: 2024-07-12T18:44:16.096155+00:00
 
  ## Home - Pennsylvania DeMolay
@@ -1184,7 +1345,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-06-23T15:05:56.008378+00:00
 
  ## Institute of Paediatric Virology
- - [https://www.paediatricvirology.org](https://www.paediatricvirology.org)
+ - [https://paediatricvirology.org](https://paediatricvirology.org)
  - date_published: 2024-07-26T05:15:07.557759+00:00
 
  ## Home - Pennsylvania Academy of the Fine Arts
@@ -1200,7 +1361,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-10-19T11:08:14.044299+00:00
 
  ## PAFERE - Polsko-Amerykańska Fundacja Edukacji i Rozwoju Ekonomicznego
- - [https://www.pafere.org](https://www.pafere.org)
+ - [https://pafere.org](https://pafere.org)
  - date_published: 2024-01-03T00:00:00+00:00
 
  ## Live Draw HK: Live Hongkong Live HK Pools Result HK Prize
@@ -1224,11 +1385,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-03-29T00:30:44+00:00
 
  ## Attention Required! | Cloudflare
- - [https://pafisamarinda.org](https://pafisamarinda.org)
+ - [http://pafisamarinda.org](http://pafisamarinda.org)
  - date_published: 2024-07-14T17:11:17.014093+00:00
 
  ## Attention Required! | Cloudflare
- - [https://pafisumaterautara.org](https://pafisumaterautara.org)
+ - [http://pafisumaterautara.org](http://pafisumaterautara.org)
  - date_published: 2024-07-14T17:11:23.575516+00:00
 
  ## Attention Required! | Cloudflare
@@ -1236,11 +1397,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-07-14T17:11:19.462762+00:00
 
  ## The Pagan Federation – paganfed.org
- - [https://www.paganfed.org](https://www.paganfed.org)
+ - [https://paganfed.org](https://paganfed.org)
  - date_published: 2024-07-10T07:04:43.768514+00:00
 
  ## Welcome to Paganlink: Pagan Networking in the United Kingdom
- - [http://www.paganlink.org](http://www.paganlink.org)
+ - [https://www.paganlink.org](https://www.paganlink.org)
  - date_published: 2006-01-19T18:02:32+00:00
 
  ## PageDAO | PageDAO
@@ -1256,7 +1417,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-02-08T16:45:08.680893+00:00
 
  ## Pagenode
- - [http://pagenode.org](http://pagenode.org)
+ - [https://pagenode.org](https://pagenode.org)
  - date_published: 2024-07-08T14:35:57.684829+00:00
 
  ## Pages CMS
@@ -1268,7 +1429,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-02-22T13:58:03+00:00
 
  ## pages-igbp.org
- - [http://www.pages-igbp.org](http://www.pages-igbp.org)
+ - [https://pages-igbp.org](https://pages-igbp.org)
  - date_published: 2024-09-02T12:33:27.405908+00:00
 
  ## PageStream - Front Page
@@ -1297,7 +1458,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-04-28T02:24:33.303347+00:00
 
  ## Home
- - [http://paidcontent.org](http://paidcontent.org)
+ - [https://paidcontent.org](https://paidcontent.org)
  - date_published: 2024-10-19T10:50:44.443890+00:00
 
  ## Paid Sick Leave For Nebraskans
@@ -1309,7 +1470,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2018-04-26T06:46:53+00:00
 
  ## https://www.painresearchcentre.org/
- - [https://www.painresearchcentre.org](https://www.painresearchcentre.org)
+ - [https://painresearchcentre.org](https://painresearchcentre.org)
  - date_published: 2024-07-14T07:44:47.499763+00:00
 
  ## PA Job's Daughters
@@ -1325,11 +1486,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-07-12T16:38:35.111387+00:00
 
  ## PAKDD 2023
- - [https://pakdd2023.org](https://pakdd2023.org)
+ - [http://pakdd2023.org](http://pakdd2023.org)
  - date_published: 2024-09-13T18:00:19.887299+00:00
 
  ## Welcome to www.pakin.org!
- - [http://www.pakin.org](http://www.pakin.org)
+ - [https://pakin.org](https://pakin.org)
  - date_published: 2024-07-04T14:17:56.694604+00:00
 
  ## Palaeontologia Electronica Volume 22, Issue 3 September-December 2019
@@ -1370,7 +1531,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-12T04:24:22.446883+00:00
 
  ## *** Peter Palensky ***
- - [http://www.palensky.org](http://www.palensky.org)
+ - [https://palensky.org](https://palensky.org)
  - date_published: 2021-05-24T16:37:05+00:00
 
  ## The Paleobiology Database
@@ -1382,11 +1543,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-07T19:19:25.998121+00:00
 
  ## Information About Fossils, Fossil Reference, Fossil Mailing List, Meteorites
- - [http://www.paleozoic.org](http://www.paleozoic.org)
+ - [https://paleozoic.org](https://paleozoic.org)
  - date_published: 2020-01-22T00:35:14+00:00
 
  ## Palestine Action
- - [https://www.palestineaction.org](https://www.palestineaction.org)
+ - [https://palestineaction.org](https://palestineaction.org)
  - date_published: 2024-02-08T00:00:00+00:00
 
  ## palestineblogs.org
@@ -1394,19 +1555,20 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-12-31T09:22:10.494538+00:00
 
  ## palestinefacts.org
- - [http://www.palestinefacts.org](http://www.palestinefacts.org)
+ - [https://palestinefacts.org](https://palestinefacts.org)
  - date_published: 2024-06-27T07:55:33.728675+00:00
 
  ## Home - Palestine Portal
- - [https://www.palestineportal.org](https://www.palestineportal.org)
+ - [https://palestineportal.org](https://palestineportal.org)
  - date_published: 2024-09-16T20:08:06.470623+00:00
 
  ## جمعية الهلال الأحمر الفلسطيني
  - [https://www.palestinercs.org](https://www.palestinercs.org)
  - date_published: 2024-07-08T16:28:39.025927+00:00
+ - date_dead_since: 2025-01-04T01:22:17.593492+00:00
 
  ## The Palestine Festival of Literature
- - [https://www.palfest.org](https://www.palfest.org)
+ - [https://palfest.org](https://palfest.org)
  - date_published: 2024-01-12T00:00:00+00:00
 
  ## Welcome to waverider.noreply.org!
@@ -1430,15 +1592,15 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-11-16T07:22:36+00:00
 
  ## Palm Beach Zoo
- - [https://www.palmbeachzoo.org](https://www.palmbeachzoo.org)
+ - [https://palmbeachzoo.org](https://palmbeachzoo.org)
  - date_published: 2024-07-04T10:41:12.692397+00:00
 
  ## منتدى فلسطين الدولي للاعلام والاتصال
- - [http://palmediaforum.org](http://palmediaforum.org)
+ - [https://palmediaforum.org](https://palmediaforum.org)
  - date_published: 2024-09-16T19:34:59.317629+00:00
 
  ## Home
- - [https://www.palmerchamber.org](https://www.palmerchamber.org)
+ - [https://palmerchamber.org](https://palmerchamber.org)
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## The Arnold & Winnie Palmer Foundation
@@ -1458,7 +1620,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-10-24T00:04:10+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.paloaltojcc.org](https://www.paloaltojcc.org)
+ - [http://paloaltojcc.org](http://paloaltojcc.org)
  - date_published: 2024-06-28T09:01:03.033320+00:00
 
  ## PA Lodge of Research - Pennsylvania Lodge of Research
@@ -1466,7 +1628,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-10-19T11:09:14.652998+00:00
 
  ## Home, Palomar Amateur Radio Club
- - [http://www.palomararc.org](http://www.palomararc.org)
+ - [https://palomararc.org](https://palomararc.org)
  - date_published: 2024-09-15T10:41:09.095595+00:00
 
  ## International Solidarity Movement – Nonviolence. Justice. Freedom.
@@ -1503,15 +1665,15 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-08T11:30:57.079728+00:00
 
  ## Pattern Analysis and Machine Intelligence Technical Committee
- - [http://pamitc.org](http://pamitc.org)
+ - [https://pamitc.org](https://pamitc.org)
  - date_published: 2024-04-08T07:22:06+00:00
 
  ## Pérez Art Museum Miami • PAMM
- - [https://www.pamm.org](https://www.pamm.org)
+ - [https://pamm.org](https://pamm.org)
  - date_published: 2024-08-14T00:00:00+00:00
 
  ## PanAm.org - Welcome to Pan Am Historical Foundation's Site
- - [https://www.panam.org](https://www.panam.org)
+ - [https://panam.org](https://panam.org)
  - date_published: 2024-07-03T22:51:46+00:00
 
  ## Congreso Panamericano Bogotá 2024
@@ -1519,7 +1681,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-08-02T23:27:39+00:00
 
  ## Panarchy.org : Index
- - [https://www.panarchy.org](https://www.panarchy.org)
+ - [https://panarchy.org](https://panarchy.org)
  - date_published: 2024-06-30T13:04:04+00:00
 
  ## Affordable Healthcare Services | PanCare of Florida, Inc
@@ -1543,7 +1705,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-03-04T00:00:00+00:00
 
  ## Noticias de conservación ambiental en Bolivia
- - [http://bolivia.panda.org](http://bolivia.panda.org)
+ - [https://bolivia.panda.org](https://bolivia.panda.org)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Africa Adaptation Hub
@@ -1559,11 +1721,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2020-06-22T06:00:02+00:00
 
  ## Trabajo de Conservación en Centroamérica
- - [http://central-america.panda.org](http://central-america.panda.org)
+ - [https://central-america.panda.org](https://central-america.panda.org)
  - date_published: 2024-07-03T03:01:03+00:00
 
  ## Home
- - [http://chile.panda.org](http://chile.panda.org)
+ - [https://chile.panda.org](https://chile.panda.org)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Africa Adaptation Hub
@@ -1571,7 +1733,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-04-18T13:01:07+00:00
 
  ## Home
- - [http://ecuador.panda.org](http://ecuador.panda.org)
+ - [https://ecuador.panda.org](https://ecuador.panda.org)
  - date_published: 2024-06-27T02:30:03+00:00
 
  ## Accueil
@@ -1603,7 +1765,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-04-19T00:00:00+00:00
 
  ## WWF-Pacific
- - [http://pacific.panda.org](http://pacific.panda.org)
+ - [https://pacific.panda.org](https://pacific.panda.org)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## WWF - Building a future in which humans live in harmony with nature.
@@ -1611,11 +1773,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-04-17T00:00:00+00:00
 
  ## Home
- - [http://peru.panda.org](http://peru.panda.org)
+ - [https://peru.panda.org](https://peru.panda.org)
  - date_published: 2024-07-03T02:15:05+00:00
 
  ## WWF - Building a future in which humans live in harmony with nature.
- - [http://romania.panda.org](http://romania.panda.org)
+ - [https://romania.panda.org](https://romania.panda.org)
  - date_published: 2024-06-07T00:00:00+00:00
 
  ## World Wide Fund for Nature - WWF Slovensko
@@ -1647,19 +1809,19 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-10-31T06:48:16.693510+00:00
 
  ## Panda3D | Open Source Framework for 3D Rendering & Games
+ - [https://panda3d.org](https://panda3d.org)
+ - date_published: 2018-05-30T22:44:46+00:00
+
+ ## Panda3D | Open Source Framework for 3D Rendering & Games
  - [http://www3.panda3d.org](http://www3.panda3d.org)
  - date_published: 2024-10-31T06:48:15.140013+00:00
 
- ## Panda3D | Open Source Framework for 3D Rendering & Games
- - [https://www.panda3d.org](https://www.panda3d.org)
- - date_published: 2018-05-30T22:44:46+00:00
-
  ## The Panda’s Thumb
- - [http://pandasthumb.org](http://pandasthumb.org)
+ - [https://pandasthumb.org](https://pandasthumb.org)
  - date_published: 2024-06-30T10:08:19+00:00
 
  ## WWF Panda Talks 2024
- - [http://pandatalks.org](http://pandatalks.org)
+ - [https://pandatalks.org](https://pandatalks.org)
  - date_published: 2024-07-03T02:56:06.405213+00:00
 
  ## Pandemic Resilience Roadmap
@@ -1679,7 +1841,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-02T09:55:58.977332+00:00
 
  ## Home | Pangea World Theater
- - [https://www.pangeaworldtheater.org](https://www.pangeaworldtheater.org)
+ - [https://pangeaworldtheater.org](https://pangeaworldtheater.org)
  - date_published: 2024-09-18T21:44:18.963108+00:00
 
  ## Introduction - Pango
@@ -1689,6 +1851,7 @@ TECHNICAL SPEAKER — @p01
  ## Pangolin Conservation
  - [https://pangolinconservation.org](https://pangolinconservation.org)
  - date_published: 2024-07-09T21:15:49.271870+00:00
+ - date_dead_since: 2025-01-04T01:44:22.633173+00:00
 
  ## Pangolin Specialist Group
  - [https://www.pangolinsg.org](https://www.pangolinsg.org)
@@ -1697,6 +1860,7 @@ TECHNICAL SPEAKER — @p01
  ## paniq
  - [http://www.paniq.org](http://www.paniq.org)
  - date_published: 2024-07-11T00:00:00+00:00
+ - date_dead_since: 2025-01-04T01:44:25.942426+00:00
 
  ## Panira Healthcare Clinic
  - [https://panirahealthcareclinic.org](https://panirahealthcareclinic.org)
@@ -1707,11 +1871,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-06-28T11:55:24.820287+00:00
 
  ## Inicio | panlar.org
- - [https://www.panlar.org](https://www.panlar.org)
+ - [https://panlar.org](https://panlar.org)
  - date_published: 2024-06-28T12:05:56.016705+00:00
 
  ## Panometer
- - [http://panometer.org](http://panometer.org)
+ - [https://panometer.org](https://panometer.org)
  - date_published: 2024-05-07T22:16:01.386221+00:00
 
  ## Welcome to nginx!
@@ -1719,7 +1883,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2020-02-24T20:00:15+00:00
 
  ## Odmowa dostępu | Fundacja Panoptykon
- - [https://crm.panoptykon.org](https://crm.panoptykon.org)
+ - [http://crm.panoptykon.org](http://crm.panoptykon.org)
  - date_published: 2024-05-11T07:21:10.210590+00:00
 
  ## Home | Panoptykon Foundation
@@ -1741,7 +1905,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-11T07:21:11.408872+00:00
 
  ## COSMIC ANCESTRY: Panspermia's evidence and implications.
- - [https://www.panspermia.org](https://www.panspermia.org)
+ - [https://panspermia.org](https://panspermia.org)
  - date_published: 2024-08-06T04:35:19+00:00
 
  ## Encyclopedia Mythica
@@ -1749,8 +1913,8 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2020-11-18T09:19:33+00:00
 
  ## Encyclopedia Mythica
- - [http://www.pantheon.org](http://www.pantheon.org)
- - date_published: 2024-07-24T05:36:22.399447+00:00
+ - [https://www.pantheon.org](https://www.pantheon.org)
+ - date_published: 2020-11-18T09:19:33+00:00
 
  ## panthermoderns
  - [https://panthermoderns.org](https://panthermoderns.org)
@@ -1765,7 +1929,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-07-08T09:15:03+00:00
 
  ## All about the Psoriasis and Psoriatic Arthritis Alliance what is does and how it operates.
- - [https://www.papaa.org](https://www.papaa.org)
+ - [https://papaa.org](https://papaa.org)
  - date_published: 2024-05-20T00:00:00+00:00
 
  ## Paparazzi UAV Blog | Research and development of open-source UAV systems since 2003
@@ -1773,11 +1937,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-09-05T18:34:59.838059+00:00
 
  ## Paparazzi UAV
- - [http://docs.paparazziuav.org](http://docs.paparazziuav.org)
+ - [https://docs.paparazziuav.org](https://docs.paparazziuav.org)
  - date_published: 2024-09-05T09:00:03+00:00
 
  ## PaparazziUAV
- - [http://paparazziuav.org](http://paparazziuav.org)
+ - [https://paparazziuav.org](https://paparazziuav.org)
  - date_published: 2024-05-21T00:00:00+00:00
 
  ## PaparazziUAV
@@ -1785,11 +1949,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-21T00:00:00+00:00
 
  ## AI-Powered Research Platform
- - [https://www.paperdigest.org](https://www.paperdigest.org)
+ - [https://paperdigest.org](https://paperdigest.org)
  - date_published: 2024-08-07T14:45:08.694248+00:00
 
  ## Paperity - Multidisciplinary aggregator of Open Access journals & papers | Paperity
- - [https://paperity.org](https://paperity.org)
+ - [http://paperity.org](http://paperity.org)
  - date_published: 2024-09-14T10:01:44.956208+00:00
 
  ## Paper.js
@@ -1813,7 +1977,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2023-10-25T21:56:07.417099+00:00
 
  ## Papers We Love
- - [http://paperswelove.org](http://paperswelove.org)
+ - [https://paperswelove.org](https://paperswelove.org)
  - date_published: 2023-04-01T00:00:00+00:00
 
  ## Papertalk - the platform for scientific paper presentations
@@ -1841,7 +2005,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-12-12T21:40:12+00:00
 
  ## About
- - [https://www.paradoxprocess.org](https://www.paradoxprocess.org)
+ - [https://paradoxprocess.org](https://paradoxprocess.org)
  - date_published: 2024-06-29T02:25:36.682093+00:00
 
  ## PA Rainbow Girls
@@ -1857,15 +2021,15 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-06-07T00:00:00+00:00
 
  ## Parallax Press - Mindfulness in Daily Life
- - [http://parallax.org](http://parallax.org)
+ - [https://parallax.org](https://parallax.org)
  - date_published: 2016-01-13T14:57:45+00:00
 
  ## IPC - Paralympics News, Sports and Results
- - [https://www.paralympic.org](https://www.paralympic.org)
+ - [https://paralympic.org](https://paralympic.org)
  - date_published: 2024-08-19T05:50:08+00:00
 
  ## Welcome to Paramiko! — Paramiko  documentation
- - [https://www.paramiko.org](https://www.paramiko.org)
+ - [https://paramiko.org](https://paramiko.org)
  - date_published: 2024-01-27T22:22:07+00:00
 
  ## Paratext Homepage - Paratext
@@ -1873,7 +2037,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2022-05-19T13:04:31+00:00
 
  ## ParaView - Open-source, multi-platform data analysis and visualization application
- - [https://www.paraview.org](https://www.paraview.org)
+ - [https://paraview.org](https://paraview.org)
  - date_published: 2024-06-16T23:35:45+00:00
 
  ## Parcel
@@ -1893,7 +2057,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-06T13:16:29.123517+00:00
 
  ## PARC | 特定非営利活動法人アジア太平洋資料センター
- - [http://parc-jp.org](http://parc-jp.org)
+ - [https://parc-jp.org](https://parc-jp.org)
  - date_published: 2024-08-02T18:01:27.742470+00:00
 
  ## Pardee Hospital | Hendersonville, NC 28791
@@ -1909,7 +2073,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2020-03-24T09:34:00+00:00
 
  ## Parental Guidance - Parenting Advice, Movie Reviews & Product Reviews
- - [http://parentalguide.org](http://parentalguide.org)
+ - [https://parentalguide.org](https://parentalguide.org)
  - date_published: 2020-10-20T20:36:17+00:00
 
  ## Welcome!
@@ -1917,7 +2081,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2023-10-25T21:56:09.143442+00:00
 
  ## Parents for Safe Online Spaces — Advocating for Online Harms Prevention
- - [https://www.parentssos.org](https://www.parentssos.org)
+ - [https://parentssos.org](https://parentssos.org)
  - date_published: 2024-08-14T20:28:06.891872+00:00
 
  ## ParentsTogether
@@ -1939,6 +2103,7 @@ TECHNICAL SPEAKER — @p01
  ## Rejoins le Club Paris 2024
  - [https://club.paris2024.org](https://club.paris2024.org)
  - date_published: 2024-07-12T15:05:52.072928+00:00
+ - date_dead_since: 2025-01-04T01:49:57.333470+00:00
 
  ## Génération 2024
  - [https://generation.paris2024.org](https://generation.paris2024.org)
@@ -1947,9 +2112,10 @@ TECHNICAL SPEAKER — @p01
  ## Aide Paris 2024
  - [https://help.paris2024.org](https://help.paris2024.org)
  - date_published: 2024-07-10T14:33:27+00:00
+ - date_dead_since: 2025-01-04T01:49:59.320229+00:00
 
  ## Olympic Games Paris 2024| Hospitality and Travel Packages. Hospitalitytravelpackages.paris2024.org
- - [https://hospitalitytravelpackages.paris2024.org](https://hospitalitytravelpackages.paris2024.org)
+ - [http://hospitalitytravelpackages.paris2024.org](http://hospitalitytravelpackages.paris2024.org)
  - date_published: 2024-07-12T15:05:46.997463+00:00
 
  ## Paris2024's Pressroom: Press Releases, news, photos and videos...
@@ -1959,13 +2125,14 @@ TECHNICAL SPEAKER — @p01
  ## Billetterie Officielle de Paris 2024 - Jeux Olympiques et Paralympiques
  - [https://tickets.paris2024.org](https://tickets.paris2024.org)
  - date_published: 2024-07-12T15:06:15.198084+00:00
+ - date_dead_since: 2025-01-04T01:51:06.285621+00:00
 
  ## Association Paris Art Deco Society
- - [http://www.paris-artdeco.org](http://www.paris-artdeco.org)
+ - [https://paris-artdeco.org](https://paris-artdeco.org)
  - date_published: 2024-06-26T21:35:38.026832+00:00
 
  ## Paris du vivre ensemble
- - [http://www.parisduvivreensemble.org](http://www.parisduvivreensemble.org)
+ - [https://parisduvivreensemble.org](https://parisduvivreensemble.org)
  - date_published: 2024-10-21T18:13:38.845613+00:00
 
  ## Choose Paris Region - Préparer la réussite des entreprises
@@ -1973,7 +2140,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-06-21T10:50:27.943027+00:00
 
  ## Home - Park City Credit Union
- - [https://www.parkcitycu.org](https://www.parkcitycu.org)
+ - [https://parkcitycu.org](https://parkcitycu.org)
  - date_published: 2024-09-03T00:00:00+00:00
 
  ## Parker Area Historical Society - Parker Colorado
@@ -2037,7 +2204,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-14T03:59:00.106166+00:00
 
  ## Parsley - The ultimate JavaScript form validation library
- - [http://parsleyjs.org](http://parsleyjs.org)
+ - [https://parsleyjs.org](https://parsleyjs.org)
  - date_published: 2022-10-08T14:21:12+00:00
 
  ## parsonsmatt.org
@@ -2046,15 +2213,15 @@ TECHNICAL SPEAKER — @p01
  - tags: ['personal']
 
  ## Partclone - About
- - [http://partclone.org](http://partclone.org)
+ - [https://partclone.org](https://partclone.org)
  - date_published: 2024-09-15T13:23:23.838107+00:00
 
  ## PARTICIPANT INC | Archive
- - [http://participantinc.org](http://participantinc.org)
+ - [https://participantinc.org](https://participantinc.org)
  - date_published: 2024-06-22T20:13:13.547843+00:00
 
  ## Home - Participatory Budgeting Project
- - [http://participatorybudgeting.org](http://participatorybudgeting.org)
+ - [https://participatorybudgeting.org](https://participatorybudgeting.org)
  - date_published: 2023-10-10T01:16:29+00:00
 
  ## Society for Participatory Medicine
@@ -2062,12 +2229,12 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Participatory Politics Foundation
- - [http://www.participatorypolitics.org](http://www.participatorypolitics.org)
+ - [https://participatorypolitics.org](https://participatorypolitics.org)
  - date_published: 2024-07-16T17:32:55.063489+00:00
 
  ## The Particle Adventure
- - [http://www.particleadventure.org](http://www.particleadventure.org)
- - date_published: 2024-10-19T06:09:59.614304+00:00
+ - [https://particleadventure.org](https://particleadventure.org)
+ - date_published: 2022-12-12T16:50:37+00:00
 
  ## Mastodon - Parti Pirate
  - [https://mastodon.partipirate.org](https://mastodon.partipirate.org)
@@ -2076,6 +2243,7 @@ TECHNICAL SPEAKER — @p01
  ## · P i n e l l o   L a b ·
  - [https://main.pinellolab.partners.org](https://main.pinellolab.partners.org)
  - date_published: 2024-07-08T16:39:18.222917+00:00
+ - date_dead_since: 2025-01-04T02:03:24.584920+00:00
 
  ## Sign in - Matomo
  - [https://traces.partners.org](https://traces.partners.org)
@@ -2098,7 +2266,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-12-21T16:27:03.547831+00:00
 
  ## Home - Partnership for Learning
- - [https://www.partnership4learning.org](https://www.partnership4learning.org)
+ - [https://partnership4learning.org](https://partnership4learning.org)
  - date_published: 2024-06-05T00:00:00+00:00
 
  ## Home - Partnership for Global Security
@@ -2136,7 +2304,7 @@ TECHNICAL SPEAKER — @p01
  ## Pasala.org |
       
         Pasala!
- - [https://www.pasala.org](https://www.pasala.org)
+ - [https://pasala.org](https://pasala.org)
  - date_published: 2024-06-23T07:26:25.208412+00:00
 
  ## Pascal Michaillat
@@ -2144,11 +2312,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-09-17T14:59:01+00:00
 
  ## Pasco County Mosquito Control District
- - [http://www.pascomosquito.org](http://www.pascomosquito.org)
+ - [https://pascomosquito.org](https://pascomosquito.org)
  - date_published: 2024-07-03T14:50:08.007596+00:00
 
  ## homepage of Valerio Pascucci
- - [http://www.pascucci.org](http://www.pascucci.org)
+ - [https://pascucci.org](https://pascucci.org)
  - date_published: 2019-04-11T14:30:43+00:00
 
  ## Passenger List – A new mystery thriller podcast from PRX's Radiotopia
@@ -2184,7 +2352,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-06-03T11:19:44.961187+00:00
 
  ## Passport.js
- - [http://passportjs.org](http://passportjs.org)
+ - [https://passportjs.org](https://passportjs.org)
  - date_published: 2024-06-21T21:22:46+00:00
 
  ## Online Password Creator
@@ -2204,11 +2372,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-03-28T20:27:49.825345+00:00
 
  ## Patchogue Arts Council • MoCA L.I. – Experience the Arts of Long Island with us! – Since 2008
- - [http://www.patchoguearts.org](http://www.patchoguearts.org)
+ - [https://patchoguearts.org](https://patchoguearts.org)
  - date_published: 2024-03-30T00:00:00+00:00
 
  ## PA-TEC - Pennsylvania Transit Expansion Coalition - Home
- - [http://pa-tec.org](http://pa-tec.org)
+ - [https://pa-tec.org](https://pa-tec.org)
  - date_published: 2024-04-27T02:39:50+00:00
 
  ## Patelco Credit Union | Careers
@@ -2228,7 +2396,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-09-13T00:00:00+00:00
 
  ## PATH
- - [https://www.path.org](https://www.path.org)
+ - [https://path.org](https://path.org)
  - date_published: 2024-08-29T00:00:00+00:00
 
  ## Pathoplexus | Home
@@ -2236,23 +2404,23 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-10-18T17:51:11.528771+00:00
 
  ## Your Path to Good Bone Health
- - [https://www.pathtogoodbonehealth.org](https://www.pathtogoodbonehealth.org)
+ - [https://pathtogoodbonehealth.org](https://pathtogoodbonehealth.org)
  - date_published: 2024-06-16T22:47:57.168025+00:00
 
  ## 2024 MagPath Conference
- - [https://www.pathwaycon.org](https://www.pathwaycon.org)
+ - [https://pathwaycon.org](https://pathwaycon.org)
  - date_published: 2024-09-13T16:55:49+00:00
 
  ## Pathways, Inc. - We Put People First
- - [https://www.pathwaysforyou.org](https://www.pathwaysforyou.org)
+ - [https://pathwaysforyou.org](https://pathwaysforyou.org)
  - date_published: 2024-06-27T12:42:55+00:00
 
  ## Pathways To Science | Increasing Diversity in STEM
- - [https://www.pathwaystoscience.org](https://www.pathwaystoscience.org)
+ - [https://pathwaystoscience.org](https://pathwaystoscience.org)
  - date_published: 2024-10-22T03:51:37.599052+00:00
 
  ## Patience is a virtue | Welcome
- - [http://www.patience-is-a-virtue.org](http://www.patience-is-a-virtue.org)
+ - [https://patience-is-a-virtue.org](https://patience-is-a-virtue.org)
  - date_published: 2024-09-14T23:33:03.158491+00:00
 
  ## patientpowernow.org - Ta strona jest na sprzedaż! - patientpowernow Zasoby i informacje.
@@ -2260,7 +2428,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2025-01-01T06:16:56+00:00
 
  ## patientpowernow.org - Ta strona jest na sprzedaż! - patientpowernow Zasoby i informacje.
- - [http://www.patientpowernow.org](http://www.patientpowernow.org)
+ - [https://www.patientpowernow.org](https://www.patientpowernow.org)
  - date_published: 2024-06-20T04:22:44+00:00
 
  ## PatientSite - Beth Israel Deaconess Medical Center | Login
@@ -2276,7 +2444,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2023-12-11T16:19:08.247036+00:00
 
  ## Patrice Leclerc - Gennevilliers
- - [http://www.patrice-leclerc.org](http://www.patrice-leclerc.org)
+ - [https://patrice-leclerc.org](https://patrice-leclerc.org)
  - date_published: 2024-10-21T18:13:29.119197+00:00
 
  ## Beyond the Final Frontier - CODA Star Trek RPG Support
@@ -2287,6 +2455,7 @@ TECHNICAL SPEAKER — @p01
  - [https://patrickstewart.org](https://patrickstewart.org)
  - date_published: 2024-05-02T00:00:00+00:00
  - tags: ['actor', 'patrick stewart', 'star trek']
+ - date_dead_since: 2025-01-04T02:18:20.289181+00:00
 
  ## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
  - [https://patricktbrown.org](https://patricktbrown.org)
@@ -2297,7 +2466,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-12-30T22:52:56+00:00
 
  ## Patriot League
- - [http://patriotleague.org](http://patriotleague.org)
+ - [https://patriotleague.org](https://patriotleague.org)
  - date_published: 2024-09-04T18:58:52+00:00
 
  ## PA Trolley Museum - More than just a ride...it's an Experience.
@@ -2305,7 +2474,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## PatternFly
- - [https://www.patternfly.org](https://www.patternfly.org)
+ - [https://patternfly.org](https://patternfly.org)
  - date_published: 2024-07-03T23:47:13+00:00
 
  ## Building The Next Generation Of Leaders | Pat Tillman Foundation
@@ -2313,11 +2482,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## Pick Your Own Berries | Patty’s Berries And Bunches | Mattituck
- - [http://pattysberriesandbunches.org](http://pattysberriesandbunches.org)
+ - [https://pattysberriesandbunches.org](https://pattysberriesandbunches.org)
  - date_published: 1970-01-01T00:00:00+00:00
 
  ## Paul Adams
- - [http://www.pauladams.org](http://www.pauladams.org)
+ - [https://pauladams.org](https://pauladams.org)
  - date_published: 2024-10-21T05:13:59.953471+00:00
 
  ## Paul Butler
@@ -2338,19 +2507,19 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-01-31T00:00:00+00:00
 
  ## Paul Cezanne: 100 Famous Paintings Analysis, Complete Works & Bio
- - [http://www.paulcezanne.org](http://www.paulcezanne.org)
+ - [https://paulcezanne.org](https://paulcezanne.org)
  - date_published: 2024-06-26T14:11:21.799357+00:00
 
  ## paulgorman.org
- - [http://paulgorman.org](http://paulgorman.org)
+ - [https://paulgorman.org](https://paulgorman.org)
  - date_published: 2024-05-29T21:13:40+00:00
 
  ## Paul Greenberg
- - [https://www.paulgreenberg.org](https://www.paulgreenberg.org)
+ - [https://paulgreenberg.org](https://paulgreenberg.org)
  - date_published: 2021-02-09T19:13:49+00:00
 
  ## Paul Harvey
- - [http://paulharvey.org](http://paulharvey.org)
+ - [https://paulharvey.org](https://paulharvey.org)
  - date_published: 2024-06-28T20:40:34.084702+00:00
 
  ## Pauline Boty
@@ -2367,7 +2536,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-12-12T23:40:33+00:00
 
  ## Home - Paulson Institute
- - [http://www.paulsoninstitute.org](http://www.paulsoninstitute.org)
+ - [https://paulsoninstitute.org](https://paulsoninstitute.org)
  - date_published: 2024-09-09T14:51:14.082885+00:00
 
  ## Home
@@ -2379,7 +2548,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-10-30T19:20:24.808712+00:00
 
  ## Pawlacz Perski | While we are young and have fingers - for all the sensitive ears
- - [http://pawlaczperski.org](http://pawlaczperski.org)
+ - [https://pawlaczperski.org](https://pawlaczperski.org)
  - date_published: 2024-06-29T03:30:04.752274+00:00
 
  ## paws4people® Foundation - Assistance Dog Placement - Wilmington, NC
@@ -2391,11 +2560,11 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-07T13:57:37.545136+00:00
 
  ## PAWS & More Animal Shelter | Washington, Iowa
- - [https://www.pawsandmorewashington.org](https://www.pawsandmorewashington.org)
+ - [https://pawsandmorewashington.org](https://pawsandmorewashington.org)
  - date_published: 2024-05-11T00:00:00+00:00
 
  ## Payday Loan Information for Consumers
- - [http://www.paydayloaninfo.org](http://www.paydayloaninfo.org)
+ - [https://paydayloaninfo.org](https://paydayloaninfo.org)
  - date_published: 2024-06-29T15:35:09.366070+00:00
 
  ## Paykwik Kart Adresi | Türkiye Resmi Bayisi - Paykwik.org
@@ -2411,15 +2580,15 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2022-12-20T16:08:30+00:00
 
  ## Discover Education in the Palm Beaches
- - [http://www.pbcedu.org](http://www.pbcedu.org)
+ - [https://pbcedu.org](https://pbcedu.org)
  - date_published: 2024-08-29T00:00:00+00:00
 
  ## Provincial Booksellers Fairs Association | Rare and Antique Books
- - [https://www.pbfa.org](https://www.pbfa.org)
+ - [https://pbfa.org](https://pbfa.org)
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## PBK - Phi Beta Kappa
- - [http://pbk.org](http://pbk.org)
+ - [https://pbk.org](https://pbk.org)
  - date_published: 2024-07-01T14:32:26.794133+00:00
 
  ## Physically Based Rendering: From Theory to Implementation
@@ -3884,164 +4053,4 @@ TECHNICAL SPEAKER — @p01
  ## Federal Reserve Bank of Philadelphia
  - [https://www.philadelphiafed.org](https://www.philadelphiafed.org)
  - date_published: 2024-07-03T22:38:49.186757+00:00
-
- ## PhilaMOCA: Events
- - [https://www.philamoca.org](https://www.philamoca.org)
- - date_published: 2024-06-29T21:19:19.945109+00:00
-
- ## Philadelphia Museum of Art
- - [https://philamuseum.org](https://philamuseum.org)
- - date_published: 2024-10-20T06:40:24.466519+00:00
-
- ## FOCUS – Stories that empower, inspire and inform
- - [https://philanthropyfocus.org](https://philanthropyfocus.org)
- - date_published: 2024-06-21T22:52:03.037091+00:00
-
- ## New Home
- - [http://philanthropyforum.org](http://philanthropyforum.org)
- - date_published: 2024-07-07T04:57:43+00:00
-
- ## Philanthropy News Digest
- - [https://philanthropynewsdigest.org](https://philanthropynewsdigest.org)
- - date_published: 2023-10-25T21:57:14.951406+00:00
-
- ## Philanthropy Roundtable
- - [https://philanthropyroundtable.org](https://philanthropyroundtable.org)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## PhilArchive: The Philosophy E-Print Archive
- - [https://philarchive.org](https://philarchive.org)
- - date_published: 2024-05-07T09:59:47.330275+00:00
-
- ## Upcoming Events in Philosophy
- - PhilEvents
- - [https://philevents.org](https://philevents.org)
- - date_published: 2024-05-08T11:36:10.142170+00:00
-
- ## Philharmonic Society of Orange County
- - [https://www.philharmonicsociety.org](https://www.philharmonicsociety.org)
- - date_published: 2024-06-20T16:55:15.757466+00:00
-
- ## Mathematical general relativity, compressible fluids, and more
- - [http://philippelefloch.org](http://philippelefloch.org)
- - date_published: 2024-06-30T09:23:57+00:00
-
- ## Philip Weiss | Your "not so normal" Travel guide to the World
- - [http://www.philipweiss.org](http://www.philipweiss.org)
- - date_published: 2024-07-11T10:45:26+00:00
-
- ## Jobs in Philosophy - PhilJobs:JFP
- - [https://philjobs.org](https://philjobs.org)
- - date_published: 2024-05-08T11:36:05.796513+00:00
-
- ## Jacob Lawrence: The Migration Series
- - [https://lawrencemigration.phillipscollection.org](https://lawrencemigration.phillipscollection.org)
- - date_published: 2024-08-11T14:39:43+00:00
-
- ## The Phillips Collection
- - [https://www.phillipscollection.org](https://www.phillipscollection.org)
- - date_published: 2024-06-29T11:03:54+00:00
-
- ## Home
- - [https://phillyethics.org](https://phillyethics.org)
- - date_published: 2024-12-25T20:46:31.111073+00:00
-
- ## The Philadelphia Community Kollel
- - [http://www.phillykollel.org](http://www.phillykollel.org)
- - date_published: 2024-06-27T07:57:20.803856+00:00
-
- ## Philadelphia Trolley Tracks
- - [http://www.phillytrolley.org](http://www.phillytrolley.org)
- - date_published: 2020-05-06T16:45:38+00:00
-
- ## Home - Philmont Scout Ranch High Adventure- Cimarron NM
- - [https://www.philmontscoutranch.org](https://www.philmontscoutranch.org)
- - date_published: 2024-10-23T06:01:47.215545+00:00
-
- ## Philadelphia Orchestra Home - PhilOrch
- - [https://www.philorch.org](https://www.philorch.org)
- - date_published: 2024-07-13T11:24:38.540724+00:00
-
- ## PHILOSOPHASTERS
- - [https://philosophasters.org](https://philosophasters.org)
- - date_published: 2024-06-30T11:05:56.935838+00:00
-
- ## MASONIC PHILOSOPHICAL SOCIETY
- - [https://blog.philosophicalsociety.org](https://blog.philosophicalsociety.org)
- - date_published: 2024-08-04T05:18:55+00:00
-
- ## Philosophize This!
- - [https://philosophizethis.org](https://philosophizethis.org)
- - date_published: 2023-12-09T09:38:16.879428+00:00
- - tags: ['humanities', 'philosophy']
-
- ## Philosophy for Life
- - [https://philosophyforlife.org](https://philosophyforlife.org)
- - date_published: 2023-10-25T21:57:16.464929+00:00
-
- ## Philosophy Now Forum - Index page
- - [https://forum.philosophynow.org](https://forum.philosophynow.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Philosophy Now | a magazine of ideas
- - [https://philosophynow.org](https://philosophynow.org)
- - date_published: 2023-10-25T21:57:18.587433+00:00
-
- ## Table of Contents - Philosophy of Coaching
- - [https://philosophyofcoaching.org](https://philosophyofcoaching.org)
- - date_published: 2024-12-30T19:01:28+00:00
-
- ## Philosophy Talk
- - [http://philosophytalk.org](http://philosophytalk.org)
- - date_published: 2024-10-29T20:00:15.069284+00:00
-
- ## auth.philpapers.org
- - [https://auth.philpapers.org](https://auth.philpapers.org)
- - date_published: 2024-05-08T11:36:07.567792+00:00
-
- ## PhilPapers: Online Research in Philosophy
- - [https://philpapers.org](https://philpapers.org)
- - date_published: 2023-10-25T21:57:21.323401+00:00
-
- ## Philwidgets
- - [https://widgets.philpapers.org](https://widgets.philpapers.org)
- - date_published: 2024-05-08T11:36:17.294620+00:00
-
- ## The online community for philosophers - PhilPeople
- - [https://philpeople.org](https://philpeople.org)
- - date_published: 2024-05-07T10:00:06.014505+00:00
- - tags: ['philosophy']
-
- ## PhilPapers Survey 2020
- - [https://survey2020.philpeople.org](https://survey2020.philpeople.org)
- - date_published: 2024-05-08T11:36:15.232561+00:00
-
- ## Home | philtel
- - [https://philtel.org](https://philtel.org)
- - date_published: 2023-10-25T21:57:22.366695+00:00
-
- ## APA Journal Survey Project - List of Journals
- - [https://apasurvey.philx.org](https://apasurvey.philx.org)
- - date_published: 2024-07-08T14:35:22.947461+00:00
-
- ## PHINEO
- - [https://www.phineo.org](https://www.phineo.org)
- - date_published: 2024-07-09T14:08:39.218677+00:00
-
- ## Public Health and Medical Professionals for Transparency - Public Health and Medical Professionals for Transparency
- - [https://phmpt.org](https://phmpt.org)
- - date_published: 2023-10-25T21:57:24.440849+00:00
-
- ## PhobosLab
- - [https://phoboslab.org](https://phoboslab.org)
- - date_published: 2023-10-25T21:57:26.861092+00:00
- - tags: ['video game developer', 'personal']
-
- ## Home
- - [https://www.phoenixchildrens.org](https://www.phoenixchildrens.org)
- - date_published: 2024-07-09T23:04:31.961742+00:00
-
- ## Phoenix Framework
- - [https://phoenixframework.org](https://phoenixframework.org)
- - date_published: 2023-10-25T21:57:28.415760+00:00
 

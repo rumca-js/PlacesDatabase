@@ -1,3 +1,130 @@
+ ## ADC zu .NET Konferenz für Entwickler - 5. - 7. Mai 2025
+ - [https://adc.ms](https://adc.ms)
+ - date_published: 2024-07-20T22:11:01.923615+00:00
+
+ ## Microsoft Redirect
+ - [https://aka.ms](https://aka.ms)
+ - date_published: 2023-12-14T20:40:34+00:00
+ - tags: ['link service']
+
+ ## Age of Empires Franchise - Official Web Site
+ - [https://aoe.ms](https://aoe.ms)
+ - date_published: 2017-01-07T07:32:53+00:00
+
+ ## Visual Studio App Center | iOS, Android, Xamarin & React Native
+ - [https://appcenter.ms](https://appcenter.ms)
+ - date_published: 2024-05-14T04:06:28.566105+00:00
+
+ ## App Center
+ - [https://install.appcenter.ms](https://install.appcenter.ms)
+ - date_published: 2024-07-11T17:05:09.712883+00:00
+
+ ## Thank you for choosing Ash Kyd
+ - [https://ash.ms](https://ash.ms)
+ - date_published: 2024-05-06T15:10:22.400687+00:00
+
+ ## axio.ms
+ - [https://axio.ms](https://axio.ms)
+ - date_published: 2024-06-16T19:44:53+00:00
+ - tags: ['personal']
+
+ ## azubi.ms – die Lehrstellenbörse für das Münsterland
+ - [https://www.azubi.ms](https://www.azubi.ms)
+ - date_published: 2024-12-10T21:10:12.620593+00:00
+
+ ## Build.ms
+ - [https://build.ms](https://build.ms)
+ - date_published: 2024-06-23T15:16:38.649119+00:00
+
+ ## cbeams
+ - [https://cbea.ms](https://cbea.ms)
+ - date_published: 2024-06-22T07:46:38.675481+00:00
+
+ ## Dom Williams
+ - [https://domwillia.ms](https://domwillia.ms)
+ - date_published: 2023-07-07T16:54:44+00:00
+ - tags: ['personal']
+
+ ## Security Advisories | Ecosyste.ms: Advisories
+ - [https://advisories.ecosyste.ms](https://advisories.ecosyste.ms)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Ecosyste.ms: Archives
+ - [https://archives.ecosyste.ms](https://archives.ecosyste.ms)
+ - date_published: 2024-07-04T08:16:57.286544+00:00
+
+ ## Ecosyste.ms: Awesome
+ - [https://awesome.ecosyste.ms](https://awesome.ecosyste.ms)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Ecosystems Blog
+ - [https://blog.ecosyste.ms](https://blog.ecosyste.ms)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## Ecosyste.ms: Commits
+ - [https://commits.ecosyste.ms](https://commits.ecosyste.ms)
+ - date_published: 2024-07-04T08:00:16+00:00
+
+ ## Ecosyste.ms: Diff
+ - [https://diff.ecosyste.ms](https://diff.ecosyste.ms)
+ - date_published: 2024-07-04T08:17:30.939648+00:00
+
+ ## Ecosyste.ms: Digest
+ - [https://digest.ecosyste.ms](https://digest.ecosyste.ms)
+ - date_published: 2024-05-23T10:09:08+00:00
+
+ ## Ecosyste.ms: Docker
+ - [https://docker.ecosyste.ms](https://docker.ecosyste.ms)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Ecosyste.ms
+ - [https://ecosyste.ms](https://ecosyste.ms)
+ - date_published: 2024-05-08T05:36:33.090279+00:00
+
+ ## Ecosyste.ms: Issues
+ - [https://issues.ecosyste.ms](https://issues.ecosyste.ms)
+ - date_published: 2024-07-04T08:11:55+00:00
+
+ ## Ecosyste.ms: Licenses
+ - [https://licenses.ecosyste.ms](https://licenses.ecosyste.ms)
+ - date_published: 2024-07-04T08:16:58.405914+00:00
+
+ ## Ecosyste.ms: OpenCollective
+ - [https://opencollective.ecosyste.ms](https://opencollective.ecosyste.ms)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Open Sustainable Technology
+ - [https://ost.ecosyste.ms](https://ost.ecosyste.ms)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Ecosyste.ms: Packages
+ - [https://packages.ecosyste.ms](https://packages.ecosyste.ms)
+ - date_published: 2024-07-04T08:16:52.175401+00:00
+
+ ## Packages with Software Mentions in Scientific Papers | Ecosyste.ms: Papers
+ - [https://papers.ecosyste.ms](https://papers.ecosyste.ms)
+ - date_published: 2024-07-04T08:16:55.924817+00:00
+
+ ## Welcome to nginx!
+ - [https://plausible.ecosyste.ms](https://plausible.ecosyste.ms)
+ - date_published: 2023-11-13T20:52:09+00:00
+
+ ## Ecosyste.ms: Repos
+ - [https://repos.ecosyste.ms](https://repos.ecosyste.ms)
+ - date_published: 2024-07-04T08:17:31.775464+00:00
+
+ ## Ecosyste.ms: Resolve
+ - [https://resolve.ecosyste.ms](https://resolve.ecosyste.ms)
+ - date_published: 2024-07-04T08:16:56.692085+00:00
+
+ ## Ecosyste.ms: SBOM
+ - [https://sbom.ecosyste.ms](https://sbom.ecosyste.ms)
+ - date_published: 2024-07-04T08:17:15.719034+00:00
+
+ ## Ecosyste.ms: Summary
+ - [https://summary.ecosyste.ms](https://summary.ecosyste.ms)
+ - date_published: 2024-07-02T00:00:00+00:00
+
  ## Ecosyste.ms: Timeline
  - [https://timeline.ecosyste.ms](https://timeline.ecosyste.ms)
  - date_published: 2024-07-04T00:00:00+00:00
@@ -3901,137 +4028,4 @@
  ## The Dan MacKinlay stable of variably-well-consider’d enterprises - Welcome to Dan’s brain
  - [https://danmackinlay.name](https://danmackinlay.name)
  - date_published: 2024-04-05T00:00:00+00:00
-
- ## Daniel Näslund
- - [https://dannas.name](https://dannas.name)
- - date_published: 2024-06-01T04:57:31.231675+00:00
- - tags: ['personal']
-
- ## David Anguita. Independent software consultant. Freelancer. Ruby, Rails, Elixir, JavaScript.
- - [https://davidanguita.name](https://davidanguita.name)
- - date_published: 2024-01-11T20:49:00.100772+00:00
- - tags: ['personal']
-
- ## David Walsh Blog
- - [https://davidwalsh.name](https://davidwalsh.name)
- - date_published: 2024-02-06T00:00:00+00:00
- - tags: ['blog', 'personal']
-
- ## T.D.N.
- - [https://account.the.domain.name](https://account.the.domain.name)
- - date_published: 2024-06-17T02:40:03.864710+00:00
-
- ## Domain Name Intelligence & Expired Domains for Online Marketing - The.Domain.Name
- - [https://the.domain.name](https://the.domain.name)
- - date_published: 2021-04-15T13:40:21+00:00
-
- ## Douglas Meyer
- - [https://douglas-meyer.name](https://douglas-meyer.name)
- - date_published: 2022-01-30T16:46:45+00:00
-
- ## Neil Fraser
- - [https://neil.fraser.name](https://neil.fraser.name)
- - date_published: 2023-10-25T08:51:49.598464+00:00
- - tags: ['personal']
-
- ## Filius - Startseite
- - [https://freischlad.name](https://freischlad.name)
- - date_published: 2024-07-03T18:01:15.516337+00:00
-
- ## Gano.name homepage
- - [https://www.gano.name](https://www.gano.name)
- - date_published: 2019-02-24T04:53:19+00:00
-
- ## RGB — Home
- - [http://richard.gazdik.name](http://richard.gazdik.name)
- - date_published: 2024-05-08T06:30:40.592591+00:00
-
- ## Alex Golub
- - [http://alex.golub.name](http://alex.golub.name)
- - date_published: 2024-12-15T20:26:07.564591+00:00
-
- ## Hal Daumé III - about me
- - [http://hal3.name](http://hal3.name)
- - date_published: 2024-05-12T10:53:02+00:00
-
- ## hashgraph.name
- - [https://hashgraph.name](https://hashgraph.name)
- - date_published: 2024-09-21T23:34:01.814287+00:00
-
- ## Samer Hassan, researcher in decentralized collaboration
- - [http://samer.hassan.name](http://samer.hassan.name)
- - date_published: 2024-09-14T08:43:00.007387+00:00
-
- ## andrew.hedges.name
- - [https://andrew.hedges.name](https://andrew.hedges.name)
- - date_published: 2024-05-29T20:57:10.047852+00:00
- - tags: ['personal']
-
- ## First.Name
- - [https://www.heyfirst.name](https://www.heyfirst.name)
- - date_published: 2024-10-16T10:43:06.475452+00:00
-
- ## VPN service for secure, anonymous and unrestricted internet access on all devices: fast servers, free access, download the VPN app — hidemy.name
- - [https://hidemy.name](https://hidemy.name)
- - date_published: 2024-12-30T20:58:47.781425+00:00
-
- ## Nathan Ho
- - [https://nathan.ho.name](https://nathan.ho.name)
- - date_published: 2023-12-20T22:45:42.744081+00:00
- - tags: ['personal']
-
- ## Humus
- - [http://www.humus.name](http://www.humus.name)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## < H X A 7 2 4 1 >
- - [https://www.hxa.name](https://www.hxa.name)
- - date_published: 2023-11-22T12:01:38+00:00
- - tags: ['personal']
-
- ## Blog :: Ivan Smirnov
- - [https://blog.ivansmirnov.name](https://blog.ivansmirnov.name)
- - date_published: 2024-05-25T12:34:06.380039+00:00
- - tags: ['personal']
-
- ## jackkelly.name
- - [http://jackkelly.name](http://jackkelly.name)
- - date_published: 2024-07-08T08:28:48.333049+00:00
-
- ## Biography
- - [https://mark.james.name](https://mark.james.name)
- - date_published: 2023-12-22T13:17:20+00:00
- - tags: ['personal']
-
- ## James F. Roberts IV - code and stuff
- - [https://jamesroberts.name](https://jamesroberts.name)
- - date_published: 2024-05-01T03:29:40.043076+00:00
-
- ## Home | janw.name
- - [https://janw.name](https://janw.name)
- - date_published: 2024-07-18T04:59:37+00:00
-
- ## Jason Weaver – User Interface Engineer
- - [http://jasonweaver.name](http://jasonweaver.name)
- - date_published: 2024-06-17T02:21:20.185525+00:00
-
- ## Jean-Michaël Celerier
- - [https://jcelerier.name](https://jcelerier.name)
- - date_published: 2024-08-08T15:17:07.478421+00:00
-
- ## Congratulations! You have successfully set up your website!
- - [http://jeffersonian.name](http://jeffersonian.name)
- - date_published: 2024-07-03T23:56:45.020431+00:00
-
- ## Homepage · James Wilson
- - [https://jmw.name](https://jmw.name)
- - date_published: 2024-06-16T12:43:58.406568+00:00
-
- ## Joey's git repositories
- - [https://git.joeyh.name](https://git.joeyh.name)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Joey Hess
- - [https://joeyh.name](https://joeyh.name)
- - date_published: 2023-10-25T20:23:09.769836+00:00
 

@@ -1,3 +1,19 @@
+ ## Browse software deals for your business. | AppSumo
+ - [https://appsumo.com](https://appsumo.com)
+ - date_published: 2024-05-24T08:42:30.141688+00:00
+
+ ## AppSumo Blog
+ - [https://blog.appsumo.com](https://blog.appsumo.com)
+ - date_published: 2024-08-20T05:25:35.102743+00:00
+
+ ## AppSumo Help Center
+ - [https://help.appsumo.com](https://help.appsumo.com)
+ - date_published: 2024-08-20T05:25:33.064046+00:00
+
+ ## Earn money selling digital products on AppSumo
+ - [https://sell.appsumo.com](https://sell.appsumo.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
  ## Cybersecurity Software & Utilities for Windows OS | Appsvoid
  - [https://www.appsvoid.com](https://www.appsvoid.com)
  - date_published: 2024-10-31T07:31:43.314706+00:00
@@ -4023,20 +4039,4 @@
  - [https://armorgamesstudios.com](https://armorgamesstudios.com)
  - date_published: 2024-07-12T06:54:16+00:00
  - tags: ['video game developer']
-
- ## Home - Armor Watcher
- - [http://www.armorwatcher.com](http://www.armorwatcher.com)
- - date_published: 2024-07-18T04:49:49.758490+00:00
-
- ## The Armory
- - [http://www.armory.com](http://www.armory.com)
- - date_published: 2007-10-05T04:04:52+00:00
-
- ## Armory Disc Golf - Online Disc Golf Store
- - [https://armorydiscgolf.com](https://armorydiscgolf.com)
- - date_published: 2024-06-15T07:34:54.198472+00:00
-
- ## Armoured Aircraft Carriers in World War II
- - [http://www.armouredcarriers.com](http://www.armouredcarriers.com)
- - date_published: 2024-12-26T06:41:57.901619+00:00
 

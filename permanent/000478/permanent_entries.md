@@ -1,3 +1,168 @@
+ ## Department for Work and Pensions
+ - [http://www.dwp.gov.uk](http://www.dwp.gov.uk)
+ - date_published: 2024-10-21T14:05:07.059945+00:00
+
+ ## Home
+ - [https://economy-ni.gov.uk](https://economy-ni.gov.uk)
+ - date_published: 2024-10-21T10:31:25.236342+00:00
+
+ ## Home
+ - [https://www.edinburgh.gov.uk](https://www.edinburgh.gov.uk)
+ - date_published: 2024-10-20T03:58:18.336590+00:00
+
+ ## Department for Education
+            
+            - Citizen Space
+ - [https://consult.education.gov.uk](https://consult.education.gov.uk)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Department for Education
+ - [https://education.gov.uk](https://education.gov.uk)
+ - date_published: 2024-10-21T09:31:06.074057+00:00
+
+ ## Environment Agency
+            
+            - Citizen Space
+ - [https://consult.environment-agency.gov.uk](https://consult.environment-agency.gov.uk)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Home | Civil Service Fast Stream
+ - [https://www.faststream.gov.uk](https://www.faststream.gov.uk)
+ - date_published: 2023-10-12T00:00:00+00:00
+
+ ## Foreign & Commonwealth Office
+ - [http://www.fco.gov.uk](http://www.fco.gov.uk)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## Home
+ - [https://finance-ni.gov.uk](https://finance-ni.gov.uk)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.food.gov.uk](https://www.food.gov.uk)
+ - date_published: 2024-07-13T17:41:23+00:00
+
+ ## Government Actuary's Department
+ - [http://www.gad.gov.uk](http://www.gad.gov.uk)
+ - date_published: 2024-10-21T14:08:35.049506+00:00
+
+ ## Invalid request
+ - [https://registers.gamblingcommission.gov.uk](https://registers.gamblingcommission.gov.uk)
+ - date_published: 2024-06-18T06:58:06.328481+00:00
+
+ ## Gambling Commission website
+ - [https://www.gamblingcommission.gov.uk](https://www.gamblingcommission.gov.uk)
+ - date_published: 2024-06-18T06:58:00.435898+00:00
+
+ ## NCSC
+ - [https://www.gchq.gov.uk](https://www.gchq.gov.uk)
+ - date_published: 2024-02-07T15:32:38+00:00
+ - tags: ['uk security intelligence', 'security intelligence']
+
+ ## Civil Service Careers
+ - [https://gdscareers.gov.uk](https://gdscareers.gov.uk)
+ - date_published: 2024-06-17T19:25:14.295338+00:00
+
+ ## Home | Gloucestershire County Council
+ - [https://www.gloucestershire.gov.uk](https://www.gloucestershire.gov.uk)
+ - date_published: 2024-08-11T12:51:12.223530+00:00
+
+ ## Welcome to Haringey Council | Haringey Council
+ - [https://www.haringey.gov.uk](https://www.haringey.gov.uk)
+ - date_published: 2024-07-18T23:52:12+00:00
+
+ ## Home
+ - [https://health-ni.gov.uk](https://health-ni.gov.uk)
+ - date_published: 2024-10-21T10:00:00.549859+00:00
+
+ ## Meetings, agendas, and minutes | Hertfordshire County Council
+ - [https://democracy.hertfordshire.gov.uk](https://democracy.hertfordshire.gov.uk)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Home - Hertsmere Borough Council
+ - [https://www.hertsmere.gov.uk](https://www.hertsmere.gov.uk)
+ - date_published: 2024-07-03T17:14:45.650413+00:00
+
+ ## HFEA: UK fertility regulator
+ - [https://www.hfea.gov.uk](https://www.hfea.gov.uk)
+ - date_published: 2024-12-19T11:58:03.321015+00:00
+
+ ## HM Revenue & Customs
+ - [https://hmrc.gov.uk](https://hmrc.gov.uk)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Legislation.gov.uk
+ - [http://www.uk-legislation.hmso.gov.uk](http://www.uk-legislation.hmso.gov.uk)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## HM Treasury
+ - [http://www.hm-treasury.gov.uk](http://www.hm-treasury.gov.uk)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Home Office
+ - [http://www.homeoffice.gov.uk](http://www.homeoffice.gov.uk)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## London Borough of Hounslow Open Data
+ - [https://data.hounslow.gov.uk](https://data.hounslow.gov.uk)
+ - date_published: 2025-01-02T08:03:08.997844+00:00
+
+ ## HSE Books - the official Health and Safety Executive publications   shop.
+ - [https://books.hse.gov.uk](https://books.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:13.358674+00:00
+
+ ## HSE Careers | Our people save lives can you? YOU CAN with HSE
+ - [https://careers.hse.gov.uk](https://careers.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:16.247329+00:00
+
+ ## HSE: Information about health and safety at work
+ - [https://hse.gov.uk](https://hse.gov.uk)
+ - date_published: 2024-06-05T07:28:55.611122+00:00
+
+ ## HSE Media Centre
+ - [https://press.hse.gov.uk](https://press.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:11.877303+00:00
+
+ ## Home - Solutions from HSE
+ - [https://solutions.hse.gov.uk](https://solutions.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:14.808665+00:00
+
+ ## Boundary Commission for England | The Commission is required by the Parliamentary Constituencies Act 1986 to review the Parliamentary constituencies in England every five years
+ - [https://boundarycommissionforengland.independent.gov.uk](https://boundarycommissionforengland.independent.gov.uk)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Home - Civil Service Commission
+ - [http://civilservicecommission.independent.gov.uk](http://civilservicecommission.independent.gov.uk)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Intelligence and Security Committee of Parliament
+ - [https://isc.independent.gov.uk](https://isc.independent.gov.uk)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home
+ - [https://infrastructure-ni.gov.uk](https://infrastructure-ni.gov.uk)
+ - date_published: 2024-10-21T10:31:21.633604+00:00
+
+ ## Innovate UK
+ - [http://www.innovateuk.gov.uk](http://www.innovateuk.gov.uk)
+ - date_published: 2024-10-21T09:09:00.973385+00:00
+
+ ## Intellectual Property Office
+ - [https://ipo.gov.uk](https://ipo.gov.uk)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Intellectual property: Trade marks
+ - [https://trademarks.ipo.gov.uk](https://trademarks.ipo.gov.uk)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Home - Courts and Tribunals Judiciary
+ - [http://www.judiciary.gov.uk](http://www.judiciary.gov.uk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Justice UK
+ - [http://www.justice.gov.uk](http://www.justice.gov.uk)
+ - date_published: 2024-07-20T10:48:46.547878+00:00
+
  ## Home
  - [http://www.lakedistrict.gov.uk](http://www.lakedistrict.gov.uk)
  - date_published: 2024-06-09T00:00:00+00:00
@@ -3865,164 +4030,4 @@ Edinburgh since 1840; When I last counted, at January 2010, there were about
  ## National Theatre Live
  - [http://ntlive.nationaltheatre.org.uk](http://ntlive.nationaltheatre.org.uk)
  - date_published: 2024-07-04T10:55:06+00:00
-
- ## Welcome to the National Theatre
- - [https://www.nationaltheatre.org.uk](https://www.nationaltheatre.org.uk)
- - date_published: 2024-07-17T05:27:00.068532+00:00
-
- ## Home
- - [http://www.nationaltrust.org.uk](http://www.nationaltrust.org.uk)
- - date_published: 2024-10-20T03:26:57.444564+00:00
-
- ## Home
- - [http://www.nationaltrustcollections.org.uk](http://www.nationaltrustcollections.org.uk)
- - date_published: 2024-06-24T09:29:28.239258+00:00
-
- ## National Voices
- - [https://www.nationalvoices.org.uk](https://www.nationalvoices.org.uk)
- - date_published: 2024-12-26T18:44:32.234252+00:00
-
- ## Natural England
- - [http://www.naturalengland.org.uk](http://www.naturalengland.org.uk)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Tim's Amstrad NC Users' Site
- - [https://www.ncus.org.uk](https://www.ncus.org.uk)
- - date_published: 2024-05-02T11:14:21.342219+00:00
-
- ## Homepage
- - [https://nesta.org.uk](https://nesta.org.uk)
- - date_published: 2024-03-04T19:40:54.858294+00:00
-
- ## Home | NetRegs | Environmental guidance for your business in Northern Ireland & Scotland
- - [https://www.netregs.org.uk](https://www.netregs.org.uk)
- - date_published: 2024-07-08T13:34:52.949186+00:00
-
- ## National Education Union | Home
- - [https://neu.org.uk](https://neu.org.uk)
- - date_published: 2024-08-18T01:28:44+00:00
-
- ## Home | Newcastle Ewan Brown Anarchist Bookfair
- - [https://newcastlebookfair.org.uk](https://newcastlebookfair.org.uk)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## New Humanist
- - [https://newhumanist.org.uk](https://newhumanist.org.uk)
- - date_published: 2023-10-25T22:57:11.440097+00:00
-
- ## New Socialist
- - [https://newsocialist.org.uk](https://newsocialist.org.uk)
- - date_published: 2024-08-19T22:02:59.659423+00:00
-
- ## Homepage
- - [https://newsworks.org.uk](https://newsworks.org.uk)
- - date_published: 2024-10-20T22:19:09.372255+00:00
-
- ## Cierpliwości...
- - [https://www.nexus.org.uk](https://www.nexus.org.uk)
- - date_published: 2024-06-29T09:33:21.023691+00:00
-
- ## Home | NHS Research Scotland | NHS Research Scotland
- - [https://www.nhsresearchscotland.org.uk](https://www.nhsresearchscotland.org.uk)
- - date_published: 2024-10-21T10:29:33.835505+00:00
-
- ## BNFc is only available in the UK
- - [https://bnfc.nice.org.uk](https://bnfc.nice.org.uk)
- - date_published: 2024-10-17T12:57:03.892573+00:00
-
- ## BNF is only available in the UK
- - [https://bnf.nice.org.uk](https://bnf.nice.org.uk)
- - date_published: 2024-10-17T12:57:06.019695+00:00
-
- ## CKS is only available in the UK
- - [https://cks.nice.org.uk](https://cks.nice.org.uk)
- - date_published: 2024-10-17T12:56:37.271364+00:00
-
- ## NICE
- - [https://www.nice.org.uk](https://www.nice.org.uk)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Night Haunts
- - [http://www.nighthaunts.org.uk](http://www.nighthaunts.org.uk)
- - date_published: 2024-08-08T19:39:44.718665+00:00
-
- ## NNEdPro Global Institute for Food, Nutrition and Health
- - [https://nnedpro.org.uk](https://nnedpro.org.uk)
- - date_published: 2024-05-09T06:54:28.686142+00:00
-
- ## Home – Registrar Resources
- - [https://registrars.nominet.org.uk](https://registrars.nominet.org.uk)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Log In - Nominet UK
- - [https://secure.nominet.org.uk](https://secure.nominet.org.uk)
- - date_published: 2024-06-16T16:35:05.802659+00:00
-
- ## Home
- - [http://www.nominet.org.uk](http://www.nominet.org.uk)
- - date_published: 2024-12-13T21:11:52.943713+00:00
-
- ## Home - North London Cares
- - [https://northlondoncares.org.uk](https://northlondoncares.org.uk)
- - date_published: 2024-09-03T21:45:36.316397+00:00
-
- ## The Northumbrian Pipers’ Society – The Northumbrian Pipers’ Society
- - [http://www.northumbrianpipers.org.uk](http://www.northumbrianpipers.org.uk)
- - date_published: 2024-08-08T03:27:13.579226+00:00
-
- ## Nottingham Hackspace – Nottinghack is a Nottingham based group for hackers, makers and crafty creatives!
- - [https://www.nottinghack.org.uk](https://www.nottinghack.org.uk)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Novacon – The UK's longest-established science fiction convention
- - [http://novacon.org.uk](http://novacon.org.uk)
- - date_published: 2024-07-04T13:30:56.731545+00:00
-
- ## Nowadays - Join the Discussion
- - [https://www.nowadays.org.uk](https://www.nowadays.org.uk)
- - date_published: 2024-06-24T10:01:14.385607+00:00
-
- ## Home - National Portrait Gallery
- - [https://www.npg.org.uk](https://www.npg.org.uk)
- - date_published: 2024-06-26T21:37:41.898328+00:00
-
- ## NRAS | Rheumatoid arthritis charity
- - [https://www.nras.org.uk](https://www.nras.org.uk)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## National Railway Museum blog - Behind the scenes at the greatest railway museum in the world
- - [http://blog.nrm.org.uk](http://blog.nrm.org.uk)
- - date_published: 2024-10-29T18:20:43.369021+00:00
-
- ## Home | National Railway Museum
- - [http://nrm.org.uk](http://nrm.org.uk)
- - date_published: 2024-12-19T11:23:32+00:00
-
- ## Home | National Railway Museum
- - [http://www.nrm.org.uk](http://www.nrm.org.uk)
- - date_published: 2024-10-29T18:21:41+00:00
-
- ## NSPCC
- - [https://www.nspcc.org.uk](https://www.nspcc.org.uk)
- - date_published: 2024-12-27T14:48:32.157143+00:00
-
- ## Green Impact | Students Organising for Sustainability | Green Impact is SOS-UK's sustainability engagement programme for teams
- - [https://greenimpact.nus.org.uk](https://greenimpact.nus.org.uk)
- - date_published: 2024-05-02T11:10:33.132614+00:00
-
- ## Students Organising for Sustainability UK | SOS-UK
- - [https://sustainability.nus.org.uk](https://sustainability.nus.org.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## British Nutrition Foundation - Homepage
- - [http://www.nutrition.org.uk](http://www.nutrition.org.uk)
- - date_published: 2024-08-06T19:47:51.130527+00:00
-
- ## NVA - Public Arts, Site Specific Events & Interactive Installations
- - [http://www.nva.org.uk](http://www.nva.org.uk)
- - date_published: 2014-10-30T00:00:00+00:00
-
- ## North West Drupal Unconference 2019
- - [https://uncon.nwdrupal.org.uk](https://uncon.nwdrupal.org.uk)
- - date_published: 2024-10-20T06:06:41.965796+00:00
 

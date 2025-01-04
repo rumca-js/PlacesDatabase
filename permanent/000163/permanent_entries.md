@@ -1,3 +1,40 @@
+ ## Lumaeris
+ - [https://lumaeris.com](https://lumaeris.com)
+ - date_published: 2024-07-09T07:17:39+00:00
+
+ ## Upptime
+ - [https://status.lumaeris.com](https://status.lumaeris.com)
+ - date_published: 2024-07-01T11:23:39+00:00
+
+ ## Lumafield
+ - [https://app.lumafield.com](https://app.lumafield.com)
+ - date_published: 2024-05-04T13:42:21.900270+00:00
+
+ ## Lumafield | Industrial CT and AI inspection for engineers
+ - [https://lumafield.com](https://lumafield.com)
+ - date_published: 2024-12-09T15:07:50+00:00
+ - tags: ['x-ray scanner']
+
+ ## Design thinking training, tools, and services | LUMA Institute
+ - [https://www.luma-institute.com](https://www.luma-institute.com)
+ - date_published: 2023-01-27T00:00:00+00:00
+
+ ## Luma Pictures
+ - [http://www.lumapictures.com](http://www.lumapictures.com)
+ - date_published: 2024-07-12T22:07:12.820246+00:00
+
+ ## Luma Touch Support Forums - Index page
+ - [https://forums.luma-touch.com](https://forums.luma-touch.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Homepage - LumaTouch
+ - [https://luma-touch.com](https://luma-touch.com)
+ - date_published: 2023-02-04T17:16:30+00:00
+
+ ## Home - Lumaverse
+ - [https://lumaverse.com](https://lumaverse.com)
+ - date_published: 2022-07-15T00:00:00+00:00
+
  ## LUMBERJACK 100
  - [https://www.lumberjack100.com](https://www.lumberjack100.com)
  - date_published: 2024-08-18T22:00:34.025453+00:00
@@ -3983,40 +4020,4 @@ diversions.
  - [https://magento.com](https://magento.com)
  - date_published: 2024-03-28T06:55:22+00:00
  - tags: ['cms']
-
- ## Adobe Commerce Extensions & Themes for Your Online Store | Marketplace
- - [https://marketplace.magento.com](https://marketplace.magento.com)
- - date_published: 2024-06-28T17:40:11.135840+00:00
-
- ## Magento, now Adobe Commerce | eCommerce Software
- - [https://www.magentocommerce.com](https://www.magentocommerce.com)
- - date_published: 2024-10-17T21:21:25.610052+00:00
-
- ## Managed Magento Hosting Solutions
- - [http://magentohostingstars.com](http://magentohostingstars.com)
- - date_published: 2024-10-05T22:53:12.129747+00:00
-
- ## Magento, Shopify, Adobe Commerce Developer in Belfast, NI
- - [https://magentoni.com](https://magentoni.com)
- - date_published: 2024-05-10T05:32:33.708593+00:00
-
- ## Home
- - [https://help.magentrix.com](https://help.magentrix.com)
- - date_published: 2024-07-18T06:51:22.412649+00:00
-
- ## Partner Management & Engagement Platform | Magentrix PRM
- - [https://magentrix.com](https://magentrix.com)
- - date_published: 2024-05-14T03:36:37.519859+00:00
-
- ## Magentrix Uptime Status
- - [https://status.magentrix.com](https://status.magentrix.com)
- - date_published: 2024-07-18T06:51:19.523339+00:00
-
- ## Magallanes v5 - Documentation
- - [https://magephp.com](https://magephp.com)
- - date_published: 2022-04-15T00:53:13+00:00
-
- ## Magallanes v4 - Documentation
- - [https://v4.magephp.com](https://v4.magephp.com)
- - date_published: 2022-04-10T20:13:18+00:00
 

@@ -1,3 +1,12 @@
+ ## Computational Software for Intelligent System Design™
+ - [http://cadence.com](http://cadence.com)
+ - date_published: 2024-06-09T20:51:01+00:00
+ - tags: ['fpga', 'verilog']
+
+ ## Cadence Community
+ - [https://community.cadence.com](https://community.cadence.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
  ## Cadence Events
  - [https://events.cadence.com](https://events.cadence.com)
  - date_published: 2024-09-05T10:06:58.688178+00:00
@@ -4034,12 +4043,4 @@
  ## Virginia Living | VirginiaLiving.com
  - [http://capefear.com](http://capefear.com)
  - date_published: 2024-05-21T00:00:00+00:00
-
- ## Home - Cape Fear Arthritis Care
- - [https://capefeararthritis.com](https://capefeararthritis.com)
- - date_published: 2019-01-09T13:42:52+00:00
-
- ## Cape Fear Weekend
- - [https://capefearweekend.com](https://capefearweekend.com)
- - date_published: 2024-05-07T13:57:34.122860+00:00
 

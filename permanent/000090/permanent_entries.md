@@ -1,3 +1,19 @@
+ ## CIMPA PLM Services
+ - [https://www.cimpa.com](https://www.cimpa.com)
+ - date_published: 2024-07-04T12:16:33.755705+00:00
+
+ ## Homepage
+ - [https://www.cimplyfive.com](https://www.cimplyfive.com)
+ - date_published: 2024-12-25T09:57:02.800922+00:00
+
+ ## Cimpress - We Build Entrepreneurial Mass Customization Businesses
+ - [https://cimpress.com](https://cimpress.com)
+ - date_published: 2024-07-14T07:10:53+00:00
+
+ ## Investor Relations | Cimpress plc
+ - [http://ir.cimpress.com](http://ir.cimpress.com)
+ - date_published: 2024-12-21T08:20:52+00:00
+
  ## Home Page - CiMS App
  - [https://cimssoftware.com](https://cimssoftware.com)
  - date_published: 2024-06-20T07:57:42.702779+00:00
@@ -4002,21 +4018,4 @@
  ## ClayStack | Staking ReDeFined
  - [https://victoria.claystack.com](https://victoria.claystack.com)
  - date_published: 2024-09-25T11:36:09.094236+00:00
-
- ## Clayton & Crume
- - [https://claytonandcrume.com](https://claytonandcrume.com)
- - date_published: 2024-12-19T17:01:26.128945+00:00
-
- ## Clayton Cramer's Home Page
- - [http://claytoncramer.com](http://claytoncramer.com)
- - date_published: 2022-09-30T21:05:48+00:00
-
- ## Umami
- - [https://analytics.claytonerrington.com](https://analytics.claytonerrington.com)
- - date_published: 2024-09-14T10:24:31.869991+00:00
-
- ## Hello, I'm Clayton!
- - [https://claytonerrington.com](https://claytonerrington.com)
- - date_published: 2024-06-14T14:47:26.991565+00:00
- - tags: ['personal']
 

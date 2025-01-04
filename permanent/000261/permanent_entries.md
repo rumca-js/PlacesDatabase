@@ -1,3 +1,95 @@
+ ## DBKR Ally Database
+ - [http://dbkrblog.wordpress.com](http://dbkrblog.wordpress.com)
+ - date_published: 2024-06-19T01:17:45.087785+00:00
+
+ ## shadowplay
+ - [https://dcairns.wordpress.com](https://dcairns.wordpress.com)
+ - date_published: 2024-12-19T09:43:23.636326+00:00
+
+ ## DC House Cat Chiming In
+ - [https://dchousecat.wordpress.com](https://dchousecat.wordpress.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Dominique Dumont's Blog
+ - [https://ddumont.wordpress.com](https://ddumont.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Dead Homer Society
+ - [https://deadhomersociety.wordpress.com](https://deadhomersociety.wordpress.com)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## The Deadliest Blogger: Military History Page
+ - [https://deadliestblogpage.wordpress.com](https://deadliestblogpage.wordpress.com)
+ - date_published: 2025-01-01T16:50:33.381389+00:00
+
+ ## Deadliest Reports
+ - [https://deadliestreports.wordpress.com](https://deadliestreports.wordpress.com)
+ - date_published: 2024-06-20T03:46:55.453473+00:00
+
+ ## Dead Reckonings
+ - [https://deadreckonings.wordpress.com](https://deadreckonings.wordpress.com)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Deafblindcan
+ - [http://deafblindcan.wordpress.com](http://deafblindcan.wordpress.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Deanna-Cian's Blog
+ - [http://deannatarpey.wordpress.com](http://deannatarpey.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Dean on Eclipse
+ - [https://deanoneclipse.wordpress.com](https://deanoneclipse.wordpress.com)
+ - date_published: 2024-07-18T12:23:30.394290+00:00
+
+ ## Dean Sas
+ - [https://deansas.wordpress.com](https://deansas.wordpress.com)
+ - date_published: 2024-08-18T03:01:13+00:00
+
+ ## Dear Kitty. Some blog
+ - [https://dearkitty1.wordpress.com](https://dearkitty1.wordpress.com)
+ - date_published: 2024-10-21T13:00:10.338133+00:00
+
+ ## DeavidSedice's blog – Thoughts about programming
+ - [https://deavid.wordpress.com](https://deavid.wordpress.com)
+ - date_published: 2023-10-25T18:10:48.058627+00:00
+
+ ## Debarshi's den
+ - [https://debarshiray.wordpress.com](https://debarshiray.wordpress.com)
+ - date_published: 2024-07-09T20:02:46.639189+00:00
+
+ ## Davar Akher
+ - [http://deba.wordpress.com](http://deba.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## debbie eberlin
+ - [https://debbieeberlin.wordpress.com](https://debbieeberlin.wordpress.com)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## Debbie Hayton
+ - [https://debbiehayton.wordpress.com](https://debbiehayton.wordpress.com)
+ - date_published: 2024-07-15T06:54:17.065931+00:00
+
+ ## Chronicles of the Scribe
+ - [https://debchester.wordpress.com](https://debchester.wordpress.com)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Pere Ubu's Debraining Machine
+ - [http://debraining.wordpress.com](http://debraining.wordpress.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## rcyr's weblog
+ - [http://debugfailure.wordpress.com](http://debugfailure.wordpress.com)
+ - date_published: 2024-06-17T02:18:46.165832+00:00
+
+ ## language: a feminist guide
+ - [https://debuk.wordpress.com](https://debuk.wordpress.com)
+ - date_published: 2024-05-07T21:56:03.580771+00:00
+
+ ## Décadence de Cordicopolis
+ - [http://decadencedecordicopolis.wordpress.com](http://decadencedecordicopolis.wordpress.com)
+ - date_published: 2024-12-23T19:59:24+00:00
+
  ## de carte & de triche
  - [https://decarteetdetriche.wordpress.com](https://decarteetdetriche.wordpress.com)
  - date_published: 2024-10-26T21:41:02.327722+00:00
@@ -3910,96 +4002,4 @@
  ## Her Hands, My Hands
  - [https://herhandsmyhands.wordpress.com](https://herhandsmyhands.wordpress.com)
  - date_published: 2024-07-04T13:16:32.412147+00:00
-
- ## The Heritage Journal
- - [https://heritageaction.wordpress.com](https://heritageaction.wordpress.com)
- - date_published: 2024-06-24T10:01:49.008180+00:00
-
- ## Herr Dreyer
- - [https://herrdreyer.wordpress.com](https://herrdreyer.wordpress.com)
- - date_published: 2024-07-04T11:15:43.463742+00:00
-
- ## Her Reputation for Accomplishment
- - [http://herreputationforaccomplishment.wordpress.com](http://herreputationforaccomplishment.wordpress.com)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Marxist Marginalia
- - [http://herrnaphta.wordpress.com](http://herrnaphta.wordpress.com)
- - date_published: 2024-10-21T18:55:24.427943+00:00
-
- ## hersenmist
- - [https://hersenmist.wordpress.com](https://hersenmist.wordpress.com)
- - date_published: 2024-08-11T05:35:59.703349+00:00
-
- ## Hesperiana
- - [https://hesperiana.wordpress.com](https://hesperiana.wordpress.com)
- - date_published: 2025-01-01T07:28:11.267696+00:00
-
- ## Heterodoxology
- - [http://heterodoxology.wordpress.com](http://heterodoxology.wordpress.com)
- - date_published: 2024-06-19T16:53:51.350615+00:00
-
- ## These Heterogenous Tasks
- - [http://heterogenoustasks.wordpress.com](http://heterogenoustasks.wordpress.com)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## The Weblog
- - [http://heteronomy.wordpress.com](http://heteronomy.wordpress.com)
- - date_published: 2024-07-11T15:52:26.270535+00:00
-
- ## He Who Saw The Deep
- - [https://hewhosawthedeep.wordpress.com](https://hewhosawthedeep.wordpress.com)
- - date_published: 2025-01-01T10:23:36.437539+00:00
-
- ## HexAndFlex
- - [https://hexandflex.wordpress.com](https://hexandflex.wordpress.com)
- - date_published: 2024-06-30T03:58:28+00:00
-
- ## You Are Awesome
- - [http://hhhigh.wordpress.com](http://hhhigh.wordpress.com)
- - date_published: 2024-07-16T16:34:04.178571+00:00
-
- ## Hidden Autism. Why it’s so exausting to live in an NT world
- - [http://hiddenaspergers.wordpress.com](http://hiddenaspergers.wordpress.com)
- - date_published: 2024-09-03T22:58:25.705900+00:00
-
- ## Hidden River Arts
- - [https://hiddenriverarts.wordpress.com](https://hiddenriverarts.wordpress.com)
- - date_published: 2024-05-12T07:11:47.799264+00:00
-
- ## Hieroglifs International
- - [https://hieroglifsinternational.wordpress.com](https://hieroglifsinternational.wordpress.com)
- - date_published: 2024-07-16T16:44:17.138733+00:00
-
- ## Climate Collections
- - [https://hifast.wordpress.com](https://hifast.wordpress.com)
- - date_published: 2024-09-16T21:16:03.165155+00:00
-
- ## Living Suicide Blogs
- - [http://highalert1.wordpress.com](http://highalert1.wordpress.com)
- - date_published: 2024-09-03T22:47:24.073329+00:00
-
- ## "High-Functioning" Madison
- - [http://highfunctioningmadison.wordpress.com](http://highfunctioningmadison.wordpress.com)
- - date_published: 2024-09-03T23:01:30.061467+00:00
-
- ## Highly Scalable Blog
- - [https://highlyscalable.wordpress.com](https://highlyscalable.wordpress.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Folk the Algorithms
- - [https://highnoongmt.wordpress.com](https://highnoongmt.wordpress.com)
- - date_published: 2024-06-30T05:43:46.095530+00:00
-
- ## High times on the Eastern Fringe
- - [https://hightimesontheeasternfringe.wordpress.com](https://hightimesontheeasternfringe.wordpress.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## About - A Mind for Madness
- - [https://hilbertthm90.wordpress.com](https://hilbertthm90.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Private Site
- - [http://hillbuzz.wordpress.com](http://hillbuzz.wordpress.com)
- - date_published: 2024-06-27T10:20:43.474508+00:00
 

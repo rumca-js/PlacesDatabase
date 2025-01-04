@@ -1,3 +1,103 @@
+ ## Columbia University Press Website | Home
+ - [https://cup.columbia.edu](https://cup.columbia.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Columbia University Data Science Institute
+ - [https://datascience.columbia.edu](https://datascience.columbia.edu)
+ - date_published: 2024-04-30T03:56:55.595507+00:00
+
+ ## Columbia Giving
+ - [https://datasociety.givenow.columbia.edu](https://datasociety.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:47.135844+00:00
+
+ ## The Roger Lehecka Double Discovery Center
+ - [https://ddc.college.columbia.edu](https://ddc.college.columbia.edu)
+ - date_published: 2024-04-30T03:56:48.123202+00:00
+
+ ## DextAIRity: Deformable Manipulation Can be a Breeze
+ - [https://dextairity.cs.columbia.edu](https://dextairity.cs.columbia.edu)
+ - date_published: 2023-02-28T20:29:15+00:00
+
+ ## Diffusion Models for Robotics Control
+ - [https://diffusion-policy.cs.columbia.edu](https://diffusion-policy.cs.columbia.edu)
+ - date_published: 2023-12-14T04:53:26+00:00
+
+ ## Columbia University: Directory
+ - [https://directory.columbia.edu](https://directory.columbia.edu)
+ - date_published: 2024-04-30T03:57:20.283569+00:00
+
+ ## CU Directory of Classes
+ - [https://doc.sis.columbia.edu](https://doc.sis.columbia.edu)
+ - date_published: 2024-07-22T05:55:39.070614+00:00
+
+ ## Find the nearest Columbia University Irving Medical Center Doctor near you | family physicians, pediatricians, surgeons
+ - [https://doctors.columbia.edu](https://doctors.columbia.edu)
+ - date_published: 2024-04-30T03:57:12.879681+00:00
+
+ ## Dreamitate: Real-World Visuomotor Policy Learning via Video Generation
+ - [https://dreamitate.cs.columbia.edu](https://dreamitate.cs.columbia.edu)
+ - date_published: 2024-06-30T18:12:18+00:00
+
+ ## Learning 3D Dynamic Scene Representations for Robot Manipulation
+ - [https://dsr-net.cs.columbia.edu](https://dsr-net.cs.columbia.edu)
+ - date_published: 2022-10-12T21:54:27+00:00
+
+ ## Earth Day
+ - [https://earthday.columbia.edu](https://earthday.columbia.edu)
+ - date_published: 2024-04-30T03:49:15.495140+00:00
+
+ ## Department of Earth and Environmental Sciences
+ - [https://eesc.columbia.edu](https://eesc.columbia.edu)
+ - date_published: 2024-07-02T19:45:18+00:00
+
+ ## Columbia Engineering Schools | Innovative Programs for Students
+ - [https://engineering.columbia.edu](https://engineering.columbia.edu)
+ - date_published: 2016-09-09T19:10:05+00:00
+
+ ## Home - Columbia Entrepreneurship
+ - [https://entrepreneurship.columbia.edu](https://entrepreneurship.columbia.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Equal Opportunity and Affirmative Action
+ - [https://eoaa.columbia.edu](https://eoaa.columbia.edu)
+ - date_published: 2024-04-30T03:55:44.508591+00:00
+
+ ## Columbia University Events Calendar
+ - [https://events.columbia.edu](https://events.columbia.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Facilities and Operations
+ - [http://facilities.columbia.edu](http://facilities.columbia.edu)
+ - date_published: 2024-07-05T18:15:22+00:00
+
+ ## Faculty Resources
+ - [https://faculty-resources.law.columbia.edu](https://faculty-resources.law.columbia.edu)
+ - date_published: 2024-08-31T17:36:44+00:00
+
+ ## Feedback
+ - [https://feedback.cul.columbia.edu](https://feedback.cul.columbia.edu)
+ - date_published: 2024-07-22T05:45:10.694920+00:00
+
+ ## Law School Services
+ - [https://finance-admin.law.columbia.edu](https://finance-admin.law.columbia.edu)
+ - date_published: 2024-09-04T12:46:31+00:00
+
+ ## Columbia University Libraries Finding Aids
+ - [https://findingaids.library.columbia.edu](https://findingaids.library.columbia.edu)
+ - date_published: 2024-07-02T10:27:36.749111+00:00
+
+ ## Users
+ - [https://forms.alumdev.columbia.edu](https://forms.alumdev.columbia.edu)
+ - date_published: 2024-04-30T03:48:21.638479+00:00
+
+ ## Columbia Giving
+ - [https://futureofneuroscience.givenow.columbia.edu](https://futureofneuroscience.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:43.708601+00:00
+
+ ## GarmentNets: Category-Level Pose Estimation for Garments via Canonical Space Shape Completion
+ - [https://garmentnets.cs.columbia.edu](https://garmentnets.cs.columbia.edu)
+ - date_published: 2021-09-27T00:38:01+00:00
+
  ## Government and Community Affairs | Office of Public Affairs
  - [https://gca.columbia.edu](https://gca.columbia.edu)
  - date_published: 2024-04-30T03:55:41.248565+00:00
@@ -1804,36 +1904,36 @@
  - [https://mba.csumb.edu](https://mba.csumb.edu)
  - date_published: 2024-02-26T00:00:00+00:00
 
+ ## California State University, Northridge
+ - [https://csun.edu](https://csun.edu)
+ - date_published: 2024-10-11T19:03:48+00:00
+
  ## CSUN University Library Digital Collection
  - [https://digital-collections.csun.edu](https://digital-collections.csun.edu)
  - date_published: 2024-08-19T05:02:39+00:00
-
- ## California State University, Northridge
- - [https://www.csun.edu](https://www.csun.edu)
- - date_published: 2024-10-11T19:03:48+00:00
 
  ## Cleveland State University
  - [https://csuohio.edu](https://csuohio.edu)
  - date_published: 2024-08-10T23:44:55+00:00
 
  ## Colorado State University Pueblo |  | CSU Pueblo
- - [https://www.csupueblo.edu](https://www.csupueblo.edu)
+ - [https://csupueblo.edu](https://csupueblo.edu)
  - date_published: 2024-07-22T06:09:32.193456+00:00
+
+ ## California State University, Sacramento
+ - [https://csus.edu](https://csus.edu)
+ - date_published: 2024-07-03T09:40:33.868941+00:00
 
  ## Research Portal
  - [https://scholars.csus.edu](https://scholars.csus.edu)
  - date_published: 2024-07-03T14:00:00+00:00
 
- ## California State University, Sacramento
- - [https://www.csus.edu](https://www.csus.edu)
- - date_published: 2024-07-03T09:40:33.868941+00:00
-
  ## California State University, San Bernardino | CSUSB
- - [https://www.csusb.edu](https://www.csusb.edu)
+ - [https://csusb.edu](https://csusb.edu)
  - date_published: 2024-10-19T04:12:14.972855+00:00
 
  ## Home | California State University Stanislaus
- - [http://www.csustan.edu](http://www.csustan.edu)
+ - [https://csustan.edu](https://csustan.edu)
  - date_published: 2024-07-14T02:33:10+00:00
 
  ## August 2020 - CSU System Magazine
@@ -1849,13 +1949,14 @@
  - date_published: 2024-04-30T03:47:49.898303+00:00
 
  ## CSCU - Welcome to CSCU
- - [https://www.ct.edu](https://www.ct.edu)
+ - [https://ct.edu](https://ct.edu)
  - date_published: 2024-07-10T00:00:00+00:00
 
  ## Columbia Theological Seminary – Admissions – Theological Seminary
  - [https://admissions.ctsnet.edu](https://admissions.ctsnet.edu)
  - date_published: 2024-07-07T05:53:55.068487+00:00
  - tags: ['theological seminary']
+ - date_dead_since: 2025-01-04T02:52:40.427101+00:00
 
  ## Come to Columbia - Columbia Theological Seminary
  - [https://apply.ctsnet.edu](https://apply.ctsnet.edu)
@@ -1890,7 +1991,7 @@
  - date_published: 2024-07-22T04:12:53+00:00
 
  ## Error
- - [https://ping.prod.cu.edu](https://ping.prod.cu.edu)
+ - [http://ping.prod.cu.edu](http://ping.prod.cu.edu)
  - date_published: 2024-07-22T06:10:16.529495+00:00
 
  ## iepprd
@@ -1910,7 +2011,7 @@
  - date_published: 2024-09-05T22:04:22+00:00
 
  ## Catholic University Homepage
- - [http://faculty.cua.edu](http://faculty.cua.edu)
+ - [https://faculty.cua.edu](https://faculty.cua.edu)
  - date_published: 2024-09-05T23:50:39+00:00
 
  ## University Calendar
@@ -1962,11 +2063,11 @@
  - date_published: 2023-01-13T21:35:31+00:00
 
  ## The Catholic University of Eastern Africa - The Catholic University of Eastern Africa
- - [https://www.cuea.edu](https://www.cuea.edu)
+ - [https://cuea.edu](https://cuea.edu)
  - date_published: 2024-10-20T04:43:04.348648+00:00
 
  ## CONTENTdm
- - [http://ciadigitalcollections.culinary.edu](http://ciadigitalcollections.culinary.edu)
+ - [https://ciadigitalcollections.culinary.edu](https://ciadigitalcollections.culinary.edu)
  - date_published: 2024-07-13T11:27:24.361808+00:00
 
  ## LibGuides: Library Home: Welcome to the CIA Library
@@ -1976,6 +2077,10 @@
  ## - American Social History Project / Center for Media and Learning
  - [https://ashp.cuny.edu](https://ashp.cuny.edu)
  - date_published: 2024-06-15T06:21:23.731174+00:00
+
+ ## Baruch College -
+ - [https://baruch.cuny.edu](https://baruch.cuny.edu)
+ - date_published: 2024-07-22T04:54:24.063012+00:00
 
  ## CUNY Login
  - [https://bbhosted.cuny.edu](https://bbhosted.cuny.edu)
@@ -2002,8 +2107,12 @@
  - date_published: 2021-07-08T21:36:35+00:00
 
  ## CUNY Academic Commons
- - [http://commons.gc.cuny.edu](http://commons.gc.cuny.edu)
+ - [https://commons.gc.cuny.edu](https://commons.gc.cuny.edu)
  - date_published: 2024-07-09T14:38:42.320900+00:00
+
+ ## College of Staten Island (CSI) CUNY
+ - [https://csi.cuny.edu](https://csi.cuny.edu)
+ - date_published: 2024-07-22T04:50:25+00:00
 
  ## CUNY Login
  - [https://cssa.cunyfirst.cuny.edu](https://cssa.cunyfirst.cuny.edu)
@@ -2070,11 +2179,11 @@
  - date_published: 2024-07-09T14:38:46.004442+00:00
 
  ## Attention Required! | Cloudflare
- - [https://gc.cuny.edu](https://gc.cuny.edu)
+ - [http://gc.cuny.edu](http://gc.cuny.edu)
  - date_published: 2024-05-08T07:01:39.831264+00:00
 
  ## Digital Initiatives at the Grad Center
- - [http://gcdi.commons.gc.cuny.edu](http://gcdi.commons.gc.cuny.edu)
+ - [https://gcdi.commons.gc.cuny.edu](https://gcdi.commons.gc.cuny.edu)
  - date_published: 2024-10-20T10:18:27.038373+00:00
 
  ## Home - City College of New York
@@ -2097,9 +2206,21 @@
  - [https://home.cunyfirst.cuny.edu](https://home.cunyfirst.cuny.edu)
  - date_published: 2022-07-08T18:40:54+00:00
 
+ ## - Hostos Community College
+ - [https://hostos.cuny.edu](https://hostos.cuny.edu)
+ - date_published: 2024-07-22T04:54:39.396089+00:00
+
  ## A Great Public College in New York City | Hunter College
  - [https://hunter.cuny.edu](https://hunter.cuny.edu)
  - date_published: 2018-09-24T16:39:01+00:00
+
+ ## John Jay College Homepage | John Jay College of Criminal Justice
+ - [https://jjay.cuny.edu](https://jjay.cuny.edu)
+ - date_published: 2024-08-08T17:49:44+00:00
+
+ ## Craig Newmark Graduate School of Journalism at CUNY
+ - [https://journalism.cuny.edu](https://journalism.cuny.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
 
  ## Macaulay Honors College
  - [https://macaulay.cuny.edu](https://macaulay.cuny.edu)
@@ -2122,12 +2243,13 @@
  - date_published: 2024-09-16T11:01:31.295069+00:00
 
  ## Sign in to Outlook
- - [http://outlook.ccny.cuny.edu](http://outlook.ccny.cuny.edu)
+ - [https://outlook.ccny.cuny.edu](https://outlook.ccny.cuny.edu)
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## Home - Brooklyn College
  - [https://preview.brooklyn.cuny.edu](https://preview.brooklyn.cuny.edu)
  - date_published: 2024-06-24T00:00:00+00:00
+ - date_dead_since: 2025-01-04T03:04:47.606306+00:00
 
  ## REDIRECT to here
  - [https://qcpages.qc.cuny.edu](https://qcpages.qc.cuny.edu)
@@ -2170,7 +2292,7 @@
  - date_published: 2022-07-08T18:40:54+00:00
 
  ## Attention Required! | Cloudflare
- - [http://web.gc.cuny.edu](http://web.gc.cuny.edu)
+ - [https://web.gc.cuny.edu](https://web.gc.cuny.edu)
  - date_published: 2024-06-24T09:34:33.279542+00:00
 
  ## Outlook Web App
@@ -2189,10 +2311,6 @@
  - [https://www2.cuny.edu](https://www2.cuny.edu)
  - date_published: 2024-04-30T04:03:27.413898+00:00
 
- ## Baruch College -
- - [https://www.baruch.cuny.edu](https://www.baruch.cuny.edu)
- - date_published: 2024-07-22T04:54:24.063012+00:00
-
  ## Home - Bronx Community College – Bronx Community College
  - [https://www.bcc.cuny.edu](https://www.bcc.cuny.edu)
  - date_published: 2021-08-02T00:00:00+00:00
@@ -2202,24 +2320,8 @@
  - date_published: 2024-07-22T04:54:48.597170+00:00
 
  ## City Tech - New York City College of Technology
- - [http://www.citytech.cuny.edu](http://www.citytech.cuny.edu)
+ - [https://www.citytech.cuny.edu](https://www.citytech.cuny.edu)
  - date_published: 2024-06-24T09:38:43.461056+00:00
-
- ## College of Staten Island (CSI) CUNY
- - [https://www.csi.cuny.edu](https://www.csi.cuny.edu)
- - date_published: 2024-07-22T04:50:25+00:00
-
- ## - Hostos Community College
- - [https://www.hostos.cuny.edu](https://www.hostos.cuny.edu)
- - date_published: 2024-07-22T04:54:39.396089+00:00
-
- ## John Jay College Homepage | John Jay College of Criminal Justice
- - [https://www.jjay.cuny.edu](https://www.jjay.cuny.edu)
- - date_published: 2024-08-08T17:49:44+00:00
-
- ## Craig Newmark Graduate School of Journalism at CUNY
- - [https://www.journalism.cuny.edu](https://www.journalism.cuny.edu)
- - date_published: 2024-05-31T00:00:00+00:00
 
  ## Kingsborough Community College
  - [https://www.kbcc.cuny.edu](https://www.kbcc.cuny.edu)
@@ -3902,104 +4004,4 @@
  ## Bolch Judicial Institute of Duke Law School
  - [https://storefront.law.duke.edu](https://storefront.law.duke.edu)
  - date_published: 2024-09-15T15:02:04.459162+00:00
-
- ## Front Page - Duke Stories
- - [https://stories.duke.edu](https://stories.duke.edu)
- - date_published: 2024-05-10T04:48:51.839796+00:00
-
- ## A strategic framework for the future of Duke - Strategic Vision
- - [https://strategicvision.duke.edu](https://strategicvision.duke.edu)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Front Page | String School
- - [https://stringschool.duke.edu](https://stringschool.duke.edu)
- - date_published: 2024-09-20T00:00:00+00:00
-
- ## Home - Duke Student Affairs
- - [https://studentaffairs.duke.edu](https://studentaffairs.duke.edu)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Home - Duke Student Affairs
- - [https://students.duke.edu](https://students.duke.edu)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## This is Duke - Brand Guide
- - [http://styleguide.duke.edu](http://styleguide.duke.edu)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Front Page | Summer Session
- - [https://summersession.duke.edu](https://summersession.duke.edu)
- - date_published: 2024-07-21T08:19:53+00:00
-
- ## Welcome to Sustainable Duke | Office of Sustainable Duke
- - [https://sustainability.duke.edu](https://sustainability.duke.edu)
- - date_published: 2024-09-26T17:52:31+00:00
-
- ## Front Page | Theater Studies
- - [https://theaterstudies.duke.edu](https://theaterstudies.duke.edu)
- - date_published: 2024-06-15T19:33:05+00:00
-
- ## Duke University Box Office
- - [https://tickets.duke.edu](https://tickets.duke.edu)
- - date_published: 2024-09-04T19:41:41.912364+00:00
-
- ## Duke Today | Duke Today
- - [https://today.duke.edu](https://today.duke.edu)
- - date_published: 2023-10-25T18:51:07.229842+00:00
-
- ## Front Page | Transformative Ideas
- - [https://transformativeideas.duke.edu](https://transformativeideas.duke.edu)
- - date_published: 2024-07-21T19:42:03+00:00
-
- ## Homepage | Global Travel Support
- - [https://travel.duke.edu](https://travel.duke.edu)
- - date_published: 2024-06-16T07:00:04+00:00
-
- ## Trent Center for Bioethics, Humanities & History of Medicine
- - [https://trentcenter.duke.edu](https://trentcenter.duke.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Front Page | Trinity College of Arts & Sciences
- - [https://trinity.duke.edu](https://trinity.duke.edu)
- - date_published: 2024-04-30T04:13:05.802775+00:00
-
- ## Homepage | Board of Trustees
- - [https://trustees.duke.edu](https://trustees.duke.edu)
- - date_published: 2024-09-26T17:33:24+00:00
-
- ## Duke University Center of Exemplary Mentoring – Funded by the Alfred P. Sloan Foundation
- - [https://ucem.duke.edu](https://ucem.duke.edu)
- - date_published: 2024-09-26T18:04:57.198792+00:00
-
- ## Home Page | Office of  Undergraduate Education
- - [https://undergrad.duke.edu](https://undergrad.duke.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Front Page | Undergraduate Research Support Office
- - [https://undergraduateresearch.duke.edu](https://undergraduateresearch.duke.edu)
- - date_published: 2024-06-15T08:22:23+00:00
-
- ## Duke | Log In
- - [https://unlock.duke.edu](https://unlock.duke.edu)
- - date_published: 2024-06-16T14:05:13.508819+00:00
-
- ## Front Page | Department of Computer Science
- - [https://users.cs.duke.edu](https://users.cs.duke.edu)
- - date_published: 2024-05-22T02:38:09.761464+00:00
-
- ## Values & Culture - Values
- - [https://values.duke.edu](https://values.duke.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Iron Dukes Varsity Club
- - [https://vcgivingday.duke.edu](https://vcgivingday.duke.edu)
- - date_published: 2024-09-04T19:39:19.745266+00:00
-
- ## Via - Network Performance
- - [https://via.oit.duke.edu](https://via.oit.duke.edu)
- - date_published: 2024-06-16T14:05:10.996586+00:00
-
- ## Welcome to Duke Votes - Voting Information for the Duke Community
- - [https://vote.duke.edu](https://vote.duke.edu)
- - date_published: 2024-08-22T00:00:00+00:00
 

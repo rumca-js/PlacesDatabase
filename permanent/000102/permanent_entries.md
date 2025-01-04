@@ -1,3 +1,19 @@
+ ## Devil's Candy - ch18p03
+ - [https://devilscandycomic.com](https://devilscandycomic.com)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Devils Point | Portland, Oregon | Strip Club
+ - [https://www.devilspointbar.com](https://www.devilspointbar.com)
+ - date_published: 2024-07-09T15:13:26.603144+00:00
+
+ ## Devil Wears Prada Musical | Dominion Theatre London | Official UK Site
+ - [https://devilwearspradamusical.com](https://devilwearspradamusical.com)
+ - date_published: 2025-01-02T12:20:40.934913+00:00
+
+ ## Welcome to the Cycles Devinci website / Bienvenue sur le site transactionnel de Cycles Devinci
+ - [https://transac.devinci.com](https://transac.devinci.com)
+ - date_published: 2024-09-18T01:31:43.401472+00:00
+
  ## Devinci
  - [https://www.devinci.com](https://www.devinci.com)
  - date_published: 2024-06-15T11:58:33.339434+00:00
@@ -4027,20 +4043,4 @@ A blog about programming, distributed systems and others
  ## Direct Mail | Einfaches E‑Mail-Marketing für Ihren Mac
  - [https://de.directmailmac.com](https://de.directmailmac.com)
  - date_published: 2024-06-16T08:08:00.690696+00:00
-
- ## Direct Mail | Easy-to-use email marketing app for your Mac
- - [https://directmailmac.com](https://directmailmac.com)
- - date_published: 2024-05-01T06:02:38.530923+00:00
-
- ## Direct Mail | Easy-to-use email marketing app for your Mac
- - [https://en.directmailmac.com](https://en.directmailmac.com)
- - date_published: 2024-06-16T08:07:58.158118+00:00
-
- ## Direct Mail | Marketing por correo electrónico sencillo para el Mac
- - [https://es.directmailmac.com](https://es.directmailmac.com)
- - date_published: 2024-06-16T08:07:59.272815+00:00
-
- ## Direct Mail | Easy-to-use email marketing app for your Mac
- - [https://five.cdn.directmailmac.com](https://five.cdn.directmailmac.com)
- - date_published: 2024-06-16T08:08:01.972900+00:00
 

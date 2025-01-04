@@ -1,3 +1,11 @@
+ ## Research Office
+ - [http://research-office.epfl.ch](http://research-office.epfl.ch)
+ - date_published: 2024-07-16T22:23:53+00:00
+
+ ## Home | RGL
+ - [https://rgl.epfl.ch](https://rgl.epfl.ch)
+ - date_published: 2024-06-22T10:29:21.013883+00:00
+
  ## Ressources humaines
  - [http://rh.epfl.ch](http://rh.epfl.ch)
  - date_published: 2024-07-16T22:29:20+00:00
@@ -4005,12 +4013,4 @@
  ## Projekte. ungefiltert. – Erlebnisse und Erfahrungen aus dem Alltag eines IT Projektleiters
  - [https://projekte-ungefiltert.ch](https://projekte-ungefiltert.ch)
  - date_published: 2024-06-15T16:56:49.660159+00:00
-
- ## PRO JUNIOR
- - [https://www.projunior.ch](https://www.projunior.ch)
- - date_published: 2024-10-29T11:15:31.242572+00:00
-
- ## proks.ch: Home
- - [https://proks.ch](https://proks.ch)
- - date_published: 2020-02-01T00:00:00+00:00
 

@@ -1,3 +1,19 @@
+ ## Samantha Whates
+ - [https://samanthawhates.bandcamp.com](https://samanthawhates.bandcamp.com)
+ - date_published: 2024-12-27T03:40:13.652357+00:00
+
+ ## Samara Joy, by Samara Joy
+ - [https://samarajoy-whirlwind.bandcamp.com](https://samarajoy-whirlwind.bandcamp.com)
+ - date_published: 2024-12-27T09:21:23.212585+00:00
+
+ ## Silver Horizon, by Sam Carter
+ - [https://samcarter.bandcamp.com](https://samcarter.bandcamp.com)
+ - date_published: 2024-06-29T09:52:17.179753+00:00
+
+ ## Sameer Gupta
+ - [https://sameergupta.bandcamp.com](https://sameergupta.bandcamp.com)
+ - date_published: 2024-12-27T04:29:28.747729+00:00
+
  ## sam evian
  - [https://samevian.bandcamp.com](https://samevian.bandcamp.com)
  - date_published: 2024-12-27T05:14:21.721028+00:00
@@ -3981,20 +3997,4 @@
  ## Verotika - Original Motion Picture Soundtrack, by Verotika
  - [https://verotika.bandcamp.com](https://verotika.bandcamp.com)
  - date_published: 2024-12-27T00:27:58.311482+00:00
-
- ## Versus
- - [https://versusny.bandcamp.com](https://versusny.bandcamp.com)
- - date_published: 2024-12-27T09:15:01.522483+00:00
-
- ## Vertical Scratchers
- - [https://verticalscratchers.bandcamp.com](https://verticalscratchers.bandcamp.com)
- - date_published: 2024-12-27T09:18:41.775434+00:00
-
- ## No Chaser, by Groupie
- - [https://verygoodrockandroll.bandcamp.com](https://verygoodrockandroll.bandcamp.com)
- - date_published: 2024-12-27T10:04:31.611053+00:00
-
- ## Hang on to Your Hat, by Video Game Jazz Orchestra
- - [https://vgjazzorchestra.bandcamp.com](https://vgjazzorchestra.bandcamp.com)
- - date_published: 2024-12-27T09:02:50.356971+00:00
 

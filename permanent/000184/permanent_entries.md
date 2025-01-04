@@ -1,3 +1,39 @@
+ ## Offline Oracles
+ - [https://www.offlineoracles.com](https://www.offlineoracles.com)
+ - date_published: 2024-08-06T16:39:42.643441+00:00
+
+ ## Introduction | Offline Protocol Litepaper
+ - [https://docs.offlineprotocol.com](https://docs.offlineprotocol.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Home | Off My Tree | Found, Foraged and Fallen
+ - [https://www.offmytree.com](https://www.offmytree.com)
+ - date_published: 2024-10-17T12:16:17.584767+00:00
+
+ ## offpathenterprises.com – Off Path Enterprises
+ - [https://offpathenterprises.com](https://offpathenterprises.com)
+ - date_published: 2024-06-26T23:30:54.958102+00:00
+
+ ## The Media Leader FR - N°1 sur les décideurs médias
+ - [https://www.offremedia.com](https://www.offremedia.com)
+ - date_published: 2024-06-25T20:44:14.278285+00:00
+
+ ## Home - Off Road Xtreme
+ - [https://www.offroadxtreme.com](https://www.offroadxtreme.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Offscreen Magazine – The Human Side of Technology
+ - [https://offscreenmag.com](https://offscreenmag.com)
+ - date_published: 2024-06-15T04:00:45.020162+00:00
+
+ ## Infosec & Cybersecurity Training | OffSec
+ - [https://manage.offsec.com](https://manage.offsec.com)
+ - date_published: 2024-06-20T15:05:03+00:00
+
+ ## Offensive Security
+ - [https://portal.offsec.com](https://portal.offsec.com)
+ - date_published: 2024-06-13T16:16:41+00:00
+
  ## OffSec OffSec Trust Center | Powered by SafeBase
  - [https://trust.offsec.com](https://trust.offsec.com)
  - date_published: 2024-06-22T00:00:00+00:00
@@ -3998,40 +4034,4 @@ Christ
  ## DS Portal
  - [https://md-privacy.my.onetrust.com](https://md-privacy.my.onetrust.com)
  - date_published: 2024-05-16T08:40:27+00:00
-
- ## DS Portal
- - [https://nexstar-privacy.my.onetrust.com](https://nexstar-privacy.my.onetrust.com)
- - date_published: 2024-05-16T08:40:27+00:00
-
- ## Home
- - [https://onetrust.com](https://onetrust.com)
- - date_published: 2024-05-08T05:42:44.782999+00:00
-
- ## DS Portal
- - [https://picpay-privacy.my.onetrust.com](https://picpay-privacy.my.onetrust.com)
- - date_published: 2024-06-26T09:22:57+00:00
-
- ## OneTrust Talks Tech
- - [https://podcast.onetrust.com](https://podcast.onetrust.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## DS Portal
- - [https://privacyportal-apac.onetrust.com](https://privacyportal-apac.onetrust.com)
- - date_published: 2024-06-11T07:12:35+00:00
-
- ## DS Portal
- - [https://privacyportal-br.onetrust.com](https://privacyportal-br.onetrust.com)
- - date_published: 2024-06-12T13:04:17.892487+00:00
-
- ## DS Portal
- - [https://privacyportal-de.onetrust.com](https://privacyportal-de.onetrust.com)
- - date_published: 2024-05-10T05:14:45.749055+00:00
-
- ## DS Portal
- - [https://privacyportal-eu.onetrust.com](https://privacyportal-eu.onetrust.com)
- - date_published: 2024-05-08T10:59:20.400163+00:00
-
- ## DS Portal
- - [https://privacyportal-fr.onetrust.com](https://privacyportal-fr.onetrust.com)
- - date_published: 2024-06-26T09:22:57+00:00
 

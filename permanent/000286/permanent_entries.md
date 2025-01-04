@@ -1,3 +1,118 @@
+ ## Startseite Dezernat 6
+ - [https://dez6.uni-wuppertal.de](https://dez6.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:18.369526+00:00
+ - date_dead_since: 2024-12-10T17:18:28.865400+00:00
+
+ ## Startseite Dezernat 7
+ - [https://dez7.uni-wuppertal.de](https://dez7.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:18.866837+00:00
+ - date_dead_since: 2024-12-10T17:18:29.399652+00:00
+
+ ## School of Education, Lehrer*innenbildung, Bildungswissenschaften Forschung und Lehre, Master of Education,
+ - [https://edu.uni-wuppertal.de](https://edu.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:50.622748+00:00
+ - date_dead_since: 2024-12-10T17:18:29.897335+00:00
+
+ ## Startseite Fakultät für Geistes- und Kulturwissenschaften
+ - [https://fk1.uni-wuppertal.de](https://fk1.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:09.862378+00:00
+ - date_dead_since: 2024-12-10T17:18:30.630986+00:00
+
+ ## Startseite Fakultät für Human- und Sozialwissenschaften
+ - [https://fk2.uni-wuppertal.de](https://fk2.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:16.006841+00:00
+ - date_dead_since: 2024-12-10T17:18:31.885535+00:00
+
+ ## Startseite Fakultät für Mathematik und Naturwissenschaften
+ - [https://fk4.uni-wuppertal.de](https://fk4.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:10.714284+00:00
+ - date_dead_since: 2024-12-10T17:18:32.973405+00:00
+
+ ## Fakultät 6 der Uni-Wuppertal
+ - [https://fk6.uni-wuppertal.de](https://fk6.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:47.540987+00:00
+ - date_dead_since: 2024-12-10T17:18:34.105217+00:00
+
+ ## Maschinenbau / Sicherheitstechnik
+ - [https://fk7.uni-wuppertal.de](https://fk7.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:41.019459+00:00
+ - date_dead_since: 2024-12-10T17:18:35.082109+00:00
+
+ ## Startseite
+ - [https://fk8.uni-wuppertal.de](https://fk8.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:50:01.226519+00:00
+ - date_dead_since: 2024-12-10T17:18:36.073425+00:00
+
+ ## Zentrale Gleichstellungsbeauftragte der Bergischen Universität Wuppertal (BUW)
+ - [https://gleichstellungsbeauftragte.uni-wuppertal.de](https://gleichstellungsbeauftragte.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:43.380907+00:00
+ - date_dead_since: 2024-12-10T17:18:37.067324+00:00
+
+ ## Startseite Karriere
+ - [http://karriere.uni-wuppertal.de](http://karriere.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:20.781665+00:00
+ - date_dead_since: 2024-12-10T17:18:38.156010+00:00
+
+ ## Startseite Stiftungs- & Kooperationsmanagement
+ - [https://kooperation.uni-wuppertal.de](https://kooperation.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:37.228570+00:00
+ - date_dead_since: 2024-12-10T17:18:39.170848+00:00
+
+ ## Log in to the site | Universität Wuppertal - Moodle
+ - [https://moodle.uni-wuppertal.de](https://moodle.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:41.584233+00:00
+
+ ## Start-up Center - Die Gündungsberatung der BUW
+ - [https://startupcenter.uni-wuppertal.de](https://startupcenter.uni-wuppertal.de)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Weiterleitung
+ - [https://stellenausschreibungen.uni-wuppertal.de](https://stellenausschreibungen.uni-wuppertal.de)
+ - date_published: 2024-02-02T10:15:06+00:00
+
+ ## Weiterleitung
+ - [https://studiloewe.uni-wuppertal.de](https://studiloewe.uni-wuppertal.de)
+ - date_published: 2024-03-07T07:36:39+00:00
+
+ ## UniService Digitale Transformation - Bergische Universität Wuppertal
+ - [https://uniservice-dt.uni-wuppertal.de](https://uniservice-dt.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:08.463585+00:00
+ - date_dead_since: 2024-12-10T17:18:48.801640+00:00
+
+ ## Startseite
+ - [https://uni-wuppertal.de](https://uni-wuppertal.de)
+ - date_published: 2024-05-07T23:01:36.058755+00:00
+ - date_dead_since: 2024-12-10T17:23:05.714895+00:00
+
+ ## Webmail-BUW
+ - [https://webmail.uni-wuppertal.de](https://webmail.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:45.120532+00:00
+
+ ## Startseite Alumni-Services
+ - [https://www.alumni.uni-wuppertal.de](https://www.alumni.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:30.049195+00:00
+ - date_dead_since: 2024-12-10T17:18:53.586550+00:00
+
+ ## Startseite Fakultät
+ - [https://www.archbau.uni-wuppertal.de](https://www.archbau.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:39.118532+00:00
+ - date_dead_since: 2024-12-10T17:18:55.162724+00:00
+
+ ## Startseite Universitätsarchiv
+ - [https://www.archiv.uni-wuppertal.de](https://www.archiv.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:24.565158+00:00
+ - date_dead_since: 2024-12-10T17:18:56.486032+00:00
+
+ ## Startseite
+ - [https://www.bib.uni-wuppertal.de](https://www.bib.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:27.000477+00:00
+ - date_dead_since: 2024-12-10T17:18:57.851754+00:00
+
+ ## Forschungsdaten
+ - [https://www.fdm.uni-wuppertal.de](https://www.fdm.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:40.162791+00:00
+ - date_dead_since: 2024-12-10T17:18:59.343107+00:00
+
  ## Startseite UniSport
  - [http://www.hochschulsport.uni-wuppertal.de](http://www.hochschulsport.uni-wuppertal.de)
  - date_published: 2024-07-02T17:46:17.034730+00:00
@@ -3952,100 +4067,4 @@ Bibliotheken / Z39.50
  ## Startseite | Zix
  - [https://zix.de](https://zix.de)
  - date_published: 2024-09-16T01:29:11.865116+00:00
-
- ## ZKI e.V.: Home
- - [https://www.zki.de](https://www.zki.de)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Zentrum für Kunst und Medien | ZKM
- - [https://zkm.de](https://zkm.de)
- - date_published: 2024-06-28T21:28:04+00:00
-
- ## Zentral- und Landesbibliothek Berlin
- - [https://www.zlb.de](https://www.zlb.de)
- - date_published: 2024-12-10T18:38:03.545828+00:00
-
- ## Z-Node 51
- - [https://znode51.de](https://znode51.de)
- - date_published: 2018-05-10T10:55:23+00:00
-
- ## Zoetis
- - [https://www2.zoetis.de](https://www2.zoetis.de)
- - date_published: 2024-06-27T09:52:48+00:00
-
- ## Startseite
- - [https://www.zolar.de](https://www.zolar.de)
- - date_published: 2024-09-25T19:03:50.627445+00:00
-
- ## Startseite - Zoo Frankfurt
- - [http://www.zoo-frankfurt.de](http://www.zoo-frankfurt.de)
- - date_published: 2024-06-20T21:40:03.386095+00:00
-
- ## Startseite
- - [https://www.zoo-heidelberg.de](https://www.zoo-heidelberg.de)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## ZOOKINDERGARTEN MAGDEBURG
- - [http://www.zoo-kindergarten.de](http://www.zoo-kindergarten.de)
- - date_published: 2021-01-18T11:28:48+00:00
-
- ## Zoologischer Garten Magdeburg | Zoologischer Garten Magdeburg
- - [http://www.zoo-magdeburg.de](http://www.zoo-magdeburg.de)
- - date_published: 2024-08-11T22:27:03.856882+00:00
-
- ## FAU Zoom: Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing
- - [https://fau.zoom-x.de](https://fau.zoom-x.de)
- - date_published: 2024-09-20T17:47:25.972831+00:00
-
- ## Support
- - [https://support.zooplus.de](https://support.zooplus.de)
- - date_published: 2024-06-16T06:27:35.303352+00:00
-
- ## Tierbedarf, Tierfutter, Tiernahrung günstig bestellen | zooplus
- - [https://zooplus.de](https://zooplus.de)
- - date_published: 2024-09-26T11:20:03.574968+00:00
-
- ## package finder tool
- - [https://maintainer.zq1.de](https://maintainer.zq1.de)
- - date_published: 2024-05-08T08:49:54.518164+00:00
-
- ## Index of /
- - [https://rb.zq1.de](https://rb.zq1.de)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## Zentrale Studienberatung Osnabrück - Zentrale Studienberatung Osnabrück (ZSB)
- - [http://www.zsb-os.de](http://www.zsb-os.de)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Zentrum für Transfusionsmedizin & Zelltherapie | ZTB
- - [https://ztb-blutspende.de](https://ztb-blutspende.de)
- - date_published: 2024-04-29T05:58:51.372800+00:00
-
- ## Zentrum für Transfusionsmedizin & Zelltherapie | ZTB
- - [https://www.ztb-charite.de](https://www.ztb-charite.de)
- - date_published: 2024-07-24T16:23:25.406695+00:00
-
- ## Zeitfresser Blog — Lorem ipsum dolor sit amet, consetetur sad...
- - [https://blog.ztfr.de](https://blog.ztfr.de)
- - date_published: 2024-06-18T16:14:36.581498+00:00
-
- ## Zeitfresser - Datenschutz, Sicherheit & Technik
- - [https://ztfr.de](https://ztfr.de)
- - date_published: 2024-10-22T18:35:01.290148+00:00
-
- ## zufallsheld
- - [https://zufallsheld.de](https://zufallsheld.de)
- - date_published: 2024-02-22T13:05:21.693897+00:00
-
- ## Zufärben
- - [https://zufarben.de](https://zufarben.de)
- - date_published: 2021-12-17T22:10:43+00:00
-
- ## Startseite | Zuhaus in Berlin
- - [https://www.zuhaus-in-berlin.de](https://www.zuhaus-in-berlin.de)
- - date_published: 2024-12-10T17:40:12.225725+00:00
-
- ## https://zukunft-der-sub.de
- - [https://zukunft-der-sub.de](https://zukunft-der-sub.de)
- - date_published: 2024-01-09T02:56:28.461043+00:00
 

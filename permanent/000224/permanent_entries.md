@@ -1,3 +1,86 @@
+ ## The Menu | Amanda Natividad | Substack
+ - [https://amandanat.substack.com](https://amandanat.substack.com)
+ - date_published: 2024-06-21T10:55:11.604646+00:00
+
+ ## The Amateur Gourmet Newsletter | Adam Roberts | Substack
+ - [https://amateurgourmet.substack.com](https://amateurgourmet.substack.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## https://ameliatait.substack.com
+ - [https://ameliatait.substack.com](https://ameliatait.substack.com)
+ - date_published: 2024-01-23T19:06:15.106114+00:00
+
+ ## American Dreaming | Jamie Paul | Substack
+ - [https://americandreaming.substack.com](https://americandreaming.substack.com)
+ - date_published: 2024-07-20T19:40:27.903862+00:00
+
+ ## American Exile | Data Humanist | Substack
+ - [https://americanexile.substack.com](https://americanexile.substack.com)
+ - date_published: 2024-09-15T12:16:24.389382+00:00
+
+ ## Am I Stronger Yet? | Steve | Substack
+ - [https://amistrongeryet.substack.com](https://amistrongeryet.substack.com)
+ - date_published: 2023-10-25T09:41:55.230669+00:00
+ - tags: ['substack']
+
+ ## Amit’s Newsletter | Amit Merchant | Substack
+ - [https://amitmerchant.substack.com](https://amitmerchant.substack.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## The Hard Parts of Growth | Substack
+ - [https://amivora.substack.com](https://amivora.substack.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Ammar Mian | Substack
+ - [https://ammarmian.substack.com](https://ammarmian.substack.com)
+ - date_published: 2023-10-25T09:41:57.289319+00:00
+ - tags: ['substack']
+
+ ## Amo News | Ale Garattoni | Substack
+ - [https://amonews.substack.com](https://amonews.substack.com)
+ - date_published: 2024-10-31T14:32:58.682929+00:00
+
+ ## A Broad and Ample Road | Substack
+ - [https://ampleroad.substack.com](https://ampleroad.substack.com)
+ - date_published: 2024-10-22T12:34:57.835834+00:00
+
+ ## AMT JOY | Chris | Substack
+ - [https://amtjoy.substack.com](https://amtjoy.substack.com)
+ - date_published: 2024-09-04T04:36:44.929222+00:00
+
+ ## Product Management IRL | Amy Mitchell | Substack
+ - [https://amycmitchell.substack.com](https://amycmitchell.substack.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Back Row | Amy Odell | Substack
+ - [https://amyodell.substack.com](https://amyodell.substack.com)
+ - date_published: 2024-06-17T14:06:12.036690+00:00
+
+ ## Ana Nenadic | Substack
+ - [https://ananenadic.substack.com](https://ananenadic.substack.com)
+ - date_published: 2024-08-19T14:42:51.145125+00:00
+
+ ## Be Your Best Friend with Anangsha | Anangsha Alammyan | Substack
+ - [https://anangsha.substack.com](https://anangsha.substack.com)
+ - date_published: 2024-06-22T07:04:29.798107+00:00
+
+ ## Ananth's Reflections | Ananth Majumdar | Substack
+ - [https://ananthmajumdar.substack.com](https://ananthmajumdar.substack.com)
+ - date_published: 2024-06-01T04:49:49.262406+00:00
+
+ ## Anant’s Newsletter | Anant Jain | Substack
+ - [https://anantjain.substack.com](https://anantjain.substack.com)
+ - date_published: 2024-12-25T08:13:11.246586+00:00
+
+ ## Sunshine and Seedlings: A Newsletter by HydroponicTrash | Substack
+ - [https://anarchosolarpunk.substack.com](https://anarchosolarpunk.substack.com)
+ - date_published: 2023-10-25T09:42:00.050208+00:00
+ - tags: ['substack']
+
+ ## Ancestor Trouble | Maud Newton | Substack
+ - [https://ancestortrouble.substack.com](https://ancestortrouble.substack.com)
+ - date_published: 2024-02-03T00:00:00+00:00
+
  ## And Also | Jenna Britton | Substack
  - [https://andalsoletters.substack.com](https://andalsoletters.substack.com)
  - date_published: 2024-01-10T00:00:00+00:00
@@ -131,6 +214,10 @@
  - [https://annpettifor.substack.com](https://annpettifor.substack.com)
  - date_published: 2023-10-25T09:42:18.289389+00:00
  - tags: ['substack']
+
+ ## Open Windows | Ann Telnaes | Substack
+ - [https://anntelnaes.substack.com](https://anntelnaes.substack.com)
+ - date_published: 2025-01-04T01:37:14.114735+00:00
 
  ## Another Angry Voice | Substack
  - [https://anotherangryvoice.substack.com](https://anotherangryvoice.substack.com)
@@ -4010,88 +4097,4 @@
  ## Herb Sundays | Sam Valenti IV | Substack
  - [https://herbsundays.substack.com](https://herbsundays.substack.com)
  - date_published: 2024-04-24T00:00:00+00:00
-
- ## John’s Substack | Substack
- - [https://hermitian.substack.com](https://hermitian.substack.com)
- - date_published: 2024-01-09T01:40:49.351640+00:00
-
- ## QiuByte | Hesam Sheikh | Substack
- - [https://hesamsheikh.substack.com](https://hesamsheikh.substack.com)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Heterodox Thinking | Jonatan | Substack
- - [http://heterodoxthinking.substack.com](http://heterodoxthinking.substack.com)
- - date_published: 2024-05-02T07:56:35.151077+00:00
-
- ## Hey! Howdy | Seth Piper | Substack
- - [https://heyhowdy.substack.com](https://heyhowdy.substack.com)
- - date_published: 2024-05-12T05:24:45.676695+00:00
-
- ## HFA Research Newsletter | Taiki Maeda | Substack
- - [https://hfaresearch.substack.com](https://hfaresearch.substack.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Hidden Japan | Leon | Substack
- - [https://hiddenjapan.substack.com](https://hiddenjapan.substack.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## HIGH MODERNISM | Nick Whitaker | Substack
- - [https://highmodernism.substack.com](https://highmodernism.substack.com)
- - date_published: 2024-04-30T07:02:33.933577+00:00
-
- ## The World of Osler's Web | Hillary Johnson | Substack
- - [https://hillaryjohnson.substack.com](https://hillaryjohnson.substack.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Product Lost by @hipcityreg | Reggie James | Substack
- - [https://hipcityreg.substack.com](https://hipcityreg.substack.com)
- - date_published: 2024-10-20T20:30:24.731945+00:00
-
- ## Hirad Notes | Substack
- - [https://hiradnotes.substack.com](https://hiradnotes.substack.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## This&That | Hiran Venugopalan | Substack
- - [https://hiran.substack.com](https://hiran.substack.com)
- - date_published: 2024-04-28T01:40:33.743643+00:00
-
- ## History Buzz | History Buzz editorial team | Substack
- - [https://historybuzz.substack.com](https://historybuzz.substack.com)
- - date_published: 2024-05-04T12:19:24.238483+00:00
-
- ## Hitesh Writes | Hitesh Yadav | Substack
- - [https://hiteshyadav.substack.com](https://hiteshyadav.substack.com)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Hogvet51’s Livestock Emerging and Zoonotic Disease Forum | Substack
- - [https://hogvet51.substack.com](https://hogvet51.substack.com)
- - date_published: 2024-11-08T11:27:31.579164+00:00
-
- ## Holly Elmore | Substack
- - [https://hollyelmore.substack.com](https://hollyelmore.substack.com)
- - date_published: 2024-05-08T09:58:51.197839+00:00
-
- ## The Everwife | T.J. Everwine | Substack
- - [https://holyshiftsis.substack.com](https://holyshiftsis.substack.com)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Transits  | Stacey Streshinsky | Substack
- - [https://hotelbreakfastbuffet.substack.com](https://hotelbreakfastbuffet.substack.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Hot Menu | Elena Saavedra Buckley | Substack
- - [https://hotmenu.substack.com](https://hotmenu.substack.com)
- - date_published: 2024-07-01T10:28:48.208454+00:00
-
- ## Housing is a Human Right | Fran Quigley | Substack
- - [https://housingisahumanright.substack.com](https://housingisahumanright.substack.com)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## How the Hell | Sergey Alexashenko | Substack
- - [https://howthehell.substack.com](https://howthehell.substack.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Accept Cookies | Hrishikesh Hirway | Substack
- - [https://hrishikesh.substack.com](https://hrishikesh.substack.com)
- - date_published: 2024-06-23T01:59:14.879714+00:00
 

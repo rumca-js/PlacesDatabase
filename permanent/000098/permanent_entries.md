@@ -1,3 +1,19 @@
+ ## Cybr - The best way to learn AWS cloud security
+ - [http://cybr.com](http://cybr.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Discount Bandit
+ - [https://discount-bandit.cybrarist.com](https://discount-bandit.cybrarist.com)
+ - date_published: 2024-10-25T13:06:04+00:00
+
+ ## Instant Land
+ - [https://instant-land.cybrarist.com](https://instant-land.cybrarist.com)
+ - date_published: 2024-11-19T17:37:02+00:00
+
+ ## CybSafe - The Human Risk Management Platform
+ - [https://www.cybsafe.com](https://www.cybsafe.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
  ## Cycle & Carriage | Best Car Distributor, Retail and After-Sales Service | Cycle & Carriage
  - [https://cyclecarriage.com](https://cyclecarriage.com)
  - date_published: 2024-05-10T04:41:30.693896+00:00
@@ -4035,20 +4051,4 @@
  ## ~-SumberCheat™-~ - Portal
  - [http://sumbercheat.darkbb.com](http://sumbercheat.darkbb.com)
  - date_published: 2024-12-28T06:45:06+00:00
-
- ## Wolf3d Haven Forum - Portal
- - [http://wolf3d.darkbb.com](http://wolf3d.darkbb.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Dark Blue Heaven
- - [https://darkblueheaven.com](https://darkblueheaven.com)
- - date_published: 2024-05-04T13:59:28.627566+00:00
-
- ## Home
- - [https://darkcandles.com](https://darkcandles.com)
- - date_published: 2025-01-01T21:09:43+00:00
-
- ## Dark Chestnut - Using Common Lisp in production | Dark Chestnut
- - [https://www.darkchestnut.com](https://www.darkchestnut.com)
- - date_published: 2024-12-15T20:46:24.017264+00:00
 

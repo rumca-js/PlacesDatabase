@@ -1,3 +1,117 @@
+ ## Loïck  Bourdois
+ - [https://lbourdois.github.io](https://lbourdois.github.io)
+ - date_published: 2024-02-10T16:37:06+00:00
+
+ ## Lingjiao Chen's Homepage
+ - [https://lchen001.github.io](https://lchen001.github.io)
+ - date_published: 2024-04-23T05:49:47+00:00
+
+ ## Development notes for my iOS and macOS apps
+ - [https://ldenoue.github.io](https://ldenoue.github.io)
+ - date_published: 2022-07-13T13:54:09+00:00
+
+ ## Redirecting…
+ - [https://ldhulipala.github.io](https://ldhulipala.github.io)
+ - date_published: 2023-11-12T17:19:58+00:00
+
+ ## Lean Forward
+ - [https://lean-forward.github.io](https://lean-forward.github.io)
+ - date_published: 2024-04-30T15:35:24+00:00
+
+ ## Lean community
+ - [https://leanprover-community.github.io](https://leanprover-community.github.io)
+ - date_published: 2024-04-23T15:17:39.267998+00:00
+ - tags: ['library', 'math']
+
+ ## Lean
+ - [https://leanprover.github.io](https://leanprover.github.io)
+ - date_published: 2023-10-25T19:48:02.846447+00:00
+
+ ## Leap Project
+ - [https://leap-project.github.io](https://leap-project.github.io)
+ - date_published: 2022-06-03T15:10:52+00:00
+
+ ## Learning 3D Generative Models
+ - [https://learn3dgen.github.io](https://learn3dgen.github.io)
+ - date_published: 2020-06-15T00:58:26+00:00
+
+ ## learnbyexample
+ - [https://learnbyexample.github.io](https://learnbyexample.github.io)
+ - date_published: 2023-10-25T19:48:04.400530+00:00
+
+ ## Learning for 3D Vision
+ - [https://learning3d.github.io](https://learning3d.github.io)
+ - date_published: 2024-04-15T12:01:16+00:00
+
+ ## Learning By Doing - NeurIPS 2021 Competition
+ - [https://learningbydoingcompetition.github.io](https://learningbydoingcompetition.github.io)
+ - date_published: 2022-11-29T14:41:16+00:00
+
+ ## Home
+ - [https://learningwala.github.io](https://learningwala.github.io)
+ - date_published: 2024-05-12T05:30:39.347293+00:00
+
+ ## Learning to Autofocus
+ - [https://learntoautofocus-google.github.io](https://learntoautofocus-google.github.io)
+ - date_published: 2021-06-15T21:53:15+00:00
+
+ ## Greek geek
+ - [https://lecromee.github.io](https://lecromee.github.io)
+ - date_published: 2023-07-08T06:13:59+00:00
+
+ ## Full Stack Machine Learning
+ - [https://leehanchung.github.io](https://leehanchung.github.io)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## Blog Archive
+ - [https://leejo.github.io](https://leejo.github.io)
+ - date_published: 2023-10-25T19:48:07.710311+00:00
+
+ ## ZH's Pocket
+ - [https://leezhenghui.github.io](https://leezhenghui.github.io)
+ - date_published: 2021-10-13T01:34:54+00:00
+
+ ## Bits of Insight
+ - [https://legends2k.github.io](https://legends2k.github.io)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## LeibTon
+ - [https://leibton.github.io](https://leibton.github.io)
+ - date_published: 2023-12-15T19:45:46+00:00
+ - tags: ['personal']
+
+ ## leila kim
+ - [https://leilankim.github.io](https://leilankim.github.io)
+ - date_published: 2021-08-19T20:47:52+00:00
+
+ ## Lei Xiaohua's learning resource about video/audio technics
+ - [https://leixiaohua1020.github.io](https://leixiaohua1020.github.io)
+ - date_published: 2016-04-07T04:44:26+00:00
+
+ ## 蘇仕揚 Shih-Yang Su
+ - [https://lemonatsu.github.io](https://lemonatsu.github.io)
+ - date_published: 2024-04-16T18:01:27+00:00
+
+ ## Bao Pham
+ - [https://lemon-cmd.github.io](https://lemon-cmd.github.io)
+ - date_published: 2023-12-13T00:41:45+00:00
+
+ ## Leonidas Lampropoulos - Home
+ - [https://lemonidas.github.io](https://lemonidas.github.io)
+ - date_published: 2023-10-27T08:12:16.955543+00:00
+
+ ## Lem
+ - [https://lem-project.github.io](https://lem-project.github.io)
+ - date_published: 2024-05-22T04:49:11.418569+00:00
+
+ ## Publications
+ - [https://lenaarmstrong.github.io](https://lenaarmstrong.github.io)
+ - date_published: 2024-05-20T15:38:31+00:00
+
+ ## Lena Voita
+ - [https://lena-voita.github.io](https://lena-voita.github.io)
+ - date_published: 2023-11-17T00:16:19+00:00
+
  ## Lenny Martinez Dominguez
  - [https://lennymd.github.io](https://lennymd.github.io)
  - date_published: 2024-07-10T09:57:20+00:00
@@ -3291,6 +3405,10 @@
  - [https://pavel-main.github.io](https://pavel-main.github.io)
  - date_published: 2024-08-05T20:58:27+00:00
 
+ ## SpaceSim
+ - [https://pavelsevecek.github.io](https://pavelsevecek.github.io)
+ - date_published: 2025-01-03T17:05:17+00:00
+
  ## Pavit Kaur
  - [https://pavitkaur05.github.io](https://pavitkaur05.github.io)
  - date_published: 2021-08-23T02:50:16+00:00
@@ -3924,120 +4042,4 @@
  ## Home | Paul Crews
  - [https://ptcrews.github.io](https://ptcrews.github.io)
  - date_published: 2024-06-20T22:58:43+00:00
-
- ## Inside thoughts
- - [https://pthorpe92.github.io](https://pthorpe92.github.io)
- - date_published: 2023-11-11T16:04:42.813857+00:00
-
- - [https://ptrkbrn.github.io](https://ptrkbrn.github.io)
- - date_published: 2024-02-08T22:16:16.063522+00:00
-
- ## Publify by publify
- - [https://publify.github.io](https://publify.github.io)
- - date_published: 2023-01-13T10:40:47+00:00
-
- ## PuffOS | Based on Debian SID
- - [https://puffos.github.io](https://puffos.github.io)
- - date_published: 2023-09-08T17:30:05+00:00
-
- ## Hello!
- - [https://pulkit-khandelwal.github.io](https://pulkit-khandelwal.github.io)
- - date_published: 2024-08-31T00:10:32+00:00
-
- ## Home
- - [https://puneetkdokania.github.io](https://puneetkdokania.github.io)
- - date_published: 2018-06-04T00:00:00+00:00
-
- ## Puppy Linux Home
- - [https://puppylinux-woof-ce.github.io](https://puppylinux-woof-ce.github.io)
- - date_published: 2024-02-26T20:38:39.644222+00:00
- - tags: ['operating system']
-
- ## purdue/university-packagist
- - [https://purdue.github.io](https://purdue.github.io)
- - date_published: 2024-06-20T14:32:58+00:00
-
- ## Paul Tavares by purtuga
- - [https://purtuga.github.io](https://purtuga.github.io)
- - date_published: 2012-10-08T20:55:25+00:00
-
- ## Simple Thoughts and Complex Stuff.
- - [https://pveentjer.github.io](https://pveentjer.github.io)
- - date_published: 2022-09-01T00:00:00+00:00
-
- ## Blog | pvigier’s blog
- - [https://pvigier.github.io](https://pvigier.github.io)
- - date_published: 2022-11-12T10:41:07+00:00
-
- ## pvrs-sim2real
- - [https://pvrs-sim2real.github.io](https://pvrs-sim2real.github.io)
- - date_published: 2024-01-29T21:21:31+00:00
-
- ## Phil Yates — Mobile Engineer and Engineering Manager
- - [https://pyartez.github.io](https://pyartez.github.io)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## Kamil Pyc
- - [https://pyckamil.github.io](https://pyckamil.github.io)
- - date_published: 2020-11-21T00:00:00+00:00
-
- ## Redirecting to https://py-pdf.github.io/
- - [https://pyfpdf.github.io](https://pyfpdf.github.io)
- - date_published: 2023-08-04T17:49:39+00:00
-
- ## py-free-threading
- - [https://py-free-threading.github.io](https://py-free-threading.github.io)
- - date_published: 2024-08-14T16:04:52+00:00
-
- ## PyFunceble
- - [http://pyfunceble.github.io](http://pyfunceble.github.io)
- - date_published: 2023-04-29T20:13:06+00:00
-
- ## Show HN: PyKidos, Teach Your Kid Python in the Browser
- - [https://pykidos.github.io](https://pykidos.github.io)
- - date_published: 2024-03-14T14:45:33+00:00
-
- ## PyMC Labs
- - [https://pymc-labs.github.io](https://pymc-labs.github.io)
- - date_published: 2024-09-09T16:38:23+00:00
-
- ## pypackaging-native
- - [https://pypackaging-native.github.io](https://pypackaging-native.github.io)
- - date_published: 2023-10-25T19:51:23.653265+00:00
-
- ## The py-pdf organization
- - [https://py-pdf.github.io](https://py-pdf.github.io)
- - date_published: 2023-10-09T20:14:26+00:00
-
- ## pyrotelekinetic
- - [https://pyrotelekinetic.github.io](https://pyrotelekinetic.github.io)
- - date_published: 2024-02-21T17:12:43+00:00
-
- ## Python-Markdown — Python-Markdown 3.7 documentation
- - [https://python-markdown.github.io](https://python-markdown.github.io)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Python-xy.GitHub.io by python-xy
- - [http://python-xy.github.io](http://python-xy.github.io)
- - date_published: 2015-11-26T06:43:30+00:00
-
- ## pyTranscriber
- - [https://pytranscriber.github.io](https://pytranscriber.github.io)
- - date_published: 2024-08-17T10:49:39+00:00
-
- ## Christian Steinruecken
- - [https://q4.github.io](https://q4.github.io)
- - date_published: 2024-06-30T14:16:24+00:00
-
- ## Quentin Berthet
- - [https://q-berthet.github.io](https://q-berthet.github.io)
- - date_published: 2024-06-17T12:24:17+00:00
-
- ## Qbricks
- - [https://qbricks.github.io](https://qbricks.github.io)
- - date_published: 2024-05-27T06:59:34+00:00
-
- ## Quality-Diversity through AI Feedback
- - [https://qdaif.github.io](https://qdaif.github.io)
- - date_published: 2024-05-02T12:13:28+00:00
 

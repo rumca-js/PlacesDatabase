@@ -1,3 +1,95 @@
+ ## The Heritage Journal
+ - [https://heritageaction.wordpress.com](https://heritageaction.wordpress.com)
+ - date_published: 2024-06-24T10:01:49.008180+00:00
+
+ ## Herr Dreyer
+ - [https://herrdreyer.wordpress.com](https://herrdreyer.wordpress.com)
+ - date_published: 2024-07-04T11:15:43.463742+00:00
+
+ ## Her Reputation for Accomplishment
+ - [http://herreputationforaccomplishment.wordpress.com](http://herreputationforaccomplishment.wordpress.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Marxist Marginalia
+ - [http://herrnaphta.wordpress.com](http://herrnaphta.wordpress.com)
+ - date_published: 2024-10-21T18:55:24.427943+00:00
+
+ ## hersenmist
+ - [https://hersenmist.wordpress.com](https://hersenmist.wordpress.com)
+ - date_published: 2024-08-11T05:35:59.703349+00:00
+
+ ## Hesperiana
+ - [https://hesperiana.wordpress.com](https://hesperiana.wordpress.com)
+ - date_published: 2025-01-01T07:28:11.267696+00:00
+
+ ## Heterodoxology
+ - [http://heterodoxology.wordpress.com](http://heterodoxology.wordpress.com)
+ - date_published: 2024-06-19T16:53:51.350615+00:00
+
+ ## These Heterogenous Tasks
+ - [http://heterogenoustasks.wordpress.com](http://heterogenoustasks.wordpress.com)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## The Weblog
+ - [http://heteronomy.wordpress.com](http://heteronomy.wordpress.com)
+ - date_published: 2024-07-11T15:52:26.270535+00:00
+
+ ## He Who Saw The Deep
+ - [https://hewhosawthedeep.wordpress.com](https://hewhosawthedeep.wordpress.com)
+ - date_published: 2025-01-01T10:23:36.437539+00:00
+
+ ## HexAndFlex
+ - [https://hexandflex.wordpress.com](https://hexandflex.wordpress.com)
+ - date_published: 2024-06-30T03:58:28+00:00
+
+ ## You Are Awesome
+ - [http://hhhigh.wordpress.com](http://hhhigh.wordpress.com)
+ - date_published: 2024-07-16T16:34:04.178571+00:00
+
+ ## Hidden Autism. Why it’s so exausting to live in an NT world
+ - [http://hiddenaspergers.wordpress.com](http://hiddenaspergers.wordpress.com)
+ - date_published: 2024-09-03T22:58:25.705900+00:00
+
+ ## Hidden River Arts
+ - [https://hiddenriverarts.wordpress.com](https://hiddenriverarts.wordpress.com)
+ - date_published: 2024-05-12T07:11:47.799264+00:00
+
+ ## Hieroglifs International
+ - [https://hieroglifsinternational.wordpress.com](https://hieroglifsinternational.wordpress.com)
+ - date_published: 2024-07-16T16:44:17.138733+00:00
+
+ ## Climate Collections
+ - [https://hifast.wordpress.com](https://hifast.wordpress.com)
+ - date_published: 2024-09-16T21:16:03.165155+00:00
+
+ ## Living Suicide Blogs
+ - [http://highalert1.wordpress.com](http://highalert1.wordpress.com)
+ - date_published: 2024-09-03T22:47:24.073329+00:00
+
+ ## "High-Functioning" Madison
+ - [http://highfunctioningmadison.wordpress.com](http://highfunctioningmadison.wordpress.com)
+ - date_published: 2024-09-03T23:01:30.061467+00:00
+
+ ## Highly Scalable Blog
+ - [https://highlyscalable.wordpress.com](https://highlyscalable.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Folk the Algorithms
+ - [https://highnoongmt.wordpress.com](https://highnoongmt.wordpress.com)
+ - date_published: 2024-06-30T05:43:46.095530+00:00
+
+ ## High times on the Eastern Fringe
+ - [https://hightimesontheeasternfringe.wordpress.com](https://hightimesontheeasternfringe.wordpress.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## About - A Mind for Madness
+ - [https://hilbertthm90.wordpress.com](https://hilbertthm90.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Private Site
+ - [http://hillbuzz.wordpress.com](http://hillbuzz.wordpress.com)
+ - date_published: 2024-06-27T10:20:43.474508+00:00
+
  ## History and Philosophy of the Language Sciences
  - [https://hiphilangsci.wordpress.com](https://hiphilangsci.wordpress.com)
  - date_published: 2024-06-30T07:22:10+00:00
@@ -3919,98 +4011,4 @@
  ## Marc Santolini
  - [https://marcsantolini.wordpress.com](https://marcsantolini.wordpress.com)
  - date_published: 2024-09-12T19:05:00.652432+00:00
-
- ## MARC WATKINS
- - [https://marcwatkins.wordpress.com](https://marcwatkins.wordpress.com)
- - date_published: 2024-12-30T05:41:46.116605+00:00
-
- ## Marek Supertramp
- - [https://mareksupertramp.wordpress.com](https://mareksupertramp.wordpress.com)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## (no title)
- - [https://marfedblog.wordpress.com](https://marfedblog.wordpress.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Margaret and Helen
- - [http://margaretandhelen.wordpress.com](http://margaretandhelen.wordpress.com)
- - date_published: 2024-06-27T06:43:41.533176+00:00
-
- ## marginaling
- - [http://marginaling.wordpress.com](http://marginaling.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Margo De Weerdt
- - [https://margodeweerdt.wordpress.com](https://margodeweerdt.wordpress.com)
- - date_published: 2024-07-10T07:32:51.495496+00:00
-
- ## Mary Job
- - [http://mariajob.wordpress.com](http://mariajob.wordpress.com)
- - date_published: 2024-07-15T07:16:17.410682+00:00
-
- ## Blog de Maria José Silveira
- - [https://mariajosesilveira.wordpress.com](https://mariajosesilveira.wordpress.com)
- - date_published: 2024-12-21T09:28:56.494407+00:00
-
- ## Maria Lectrix
- - [http://marialectrix.wordpress.com](http://marialectrix.wordpress.com)
- - date_published: 2024-10-29T19:12:51.462035+00:00
-
- ## Marianne Ward, Editor
- - [http://mariannewardeditor.wordpress.com](http://mariannewardeditor.wordpress.com)
- - date_published: 2024-09-17T17:25:35.826426+00:00
-
- ## Mariano Mollo
- - [https://marianomollo.wordpress.com](https://marianomollo.wordpress.com)
- - date_published: 2024-01-12T22:15:17.721350+00:00
-
- ## Maria Laura Skinner
- - [https://mariaskinner.wordpress.com](https://mariaskinner.wordpress.com)
- - date_published: 2024-05-04T14:26:58.718634+00:00
-
- ## O Write: Marilynonaroll's Blog
- - [https://marilynonaroll.wordpress.com](https://marilynonaroll.wordpress.com)
- - date_published: 2024-09-06T01:00:55.553788+00:00
-
- ## Anime B&B
- - [https://marinasauce.wordpress.com](https://marinasauce.wordpress.com)
- - date_published: 2024-12-14T08:26:44+00:00
-
- ## Mario Krenn
- - [https://mariokrenn.wordpress.com](https://mariokrenn.wordpress.com)
- - date_published: 2024-05-07T15:01:59.989761+00:00
- - tags: ['personal']
-
- ## Marion Spain
- - [http://marioncotillardspain.wordpress.com](http://marioncotillardspain.wordpress.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Private Site
- - [https://markblasini.wordpress.com](https://markblasini.wordpress.com)
- - date_published: 2023-12-20T14:32:56.865381+00:00
- - tags: ['personal']
-
- ## Mark Carrigan
- - [https://markcarrigan.wordpress.com](https://markcarrigan.wordpress.com)
- - date_published: 2024-05-24T09:57:17.513484+00:00
-
- ## Site Title
- - [http://marketinghubss564108796.wordpress.com](http://marketinghubss564108796.wordpress.com)
- - date_published: 2024-10-29T18:31:23.929012+00:00
-
- ## Markets, Power, and Culture
- - [https://marketspowerandculture.wordpress.com](https://marketspowerandculture.wordpress.com)
- - date_published: 2024-10-27T11:23:18.147143+00:00
-
- ## Mark on WordPress
- - [https://markjaquith.wordpress.com](https://markjaquith.wordpress.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Love, Belief and Balls
- - [http://markneary1dotcom1.wordpress.com](http://markneary1dotcom1.wordpress.com)
- - date_published: 2024-12-27T21:05:23.780907+00:00
-
- ## Mark 1:1
- - [https://markone1blog.wordpress.com](https://markone1blog.wordpress.com)
- - date_published: 2024-09-13T19:34:47.561600+00:00
 

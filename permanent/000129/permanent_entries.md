@@ -1,3 +1,33 @@
+ ## GitHub - elvissteinjr/DesktopPlus: Advanced desktop access for OpenVR
+ - [https://github.com/elvissteinjr/DesktopPlus](https://github.com/elvissteinjr/DesktopPlus)
+ - date_published: 2024-11-30T23:00:21+00:00
+ - tags: ['virtual reality']
+
+ ## GitHub - ValveSoftware/openvr: OpenVR SDK
+ - [https://github.com/ValveSoftware/openvr](https://github.com/ValveSoftware/openvr)
+ - date_published: 2024-11-30T23:00:52+00:00
+ - tags: ['virtual reality']
+
+ ## GitHub - IceWhaleTech/CasaOS: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+ - [https://github.com/IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
+ - date_published: 2024-12-02T12:58:21+00:00
+ - tags: ['open source', 'operating system']
+
+ ## GitHub - IceWhaleTech/ZimaOS
+ - [https://github.com/IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS)
+ - date_published: 2024-12-02T12:58:47+00:00
+ - tags: ['open source', 'operating system']
+
+ ## GitHub - yourselfhosted/slash: An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
+ - [https://github.com/yourselfhosted/slash](https://github.com/yourselfhosted/slash)
+ - date_published: 2024-12-03T08:26:04+00:00
+ - tags: ['open source', 'link service', 'bookmark manager', 'link aggregator']
+
+ ## GitHub - theotherp/nzbhydra2: Usenet meta search
+ - [https://github.com/theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2)
+ - date_published: 2024-12-03T10:02:31+00:00
+ - tags: ['usenet', 'niche search engine']
+
  ## GitHub - immich-app/immich: High performance self-hosted photo and video management solution.
  - [https://github.com/immich-app/immich](https://github.com/immich-app/immich)
  - date_published: 2024-12-03T10:15:43+00:00
@@ -3555,6 +3585,10 @@
  - [https://www.gmfinancialfleet.com](https://www.gmfinancialfleet.com)
  - date_published: 2024-06-14T02:50:00+00:00
 
+ ## Small Diffs - by Greg Foster | Substack
+ - [https://smalldiffs.gmfoster.com](https://smalldiffs.gmfoster.com)
+ - date_published: 2025-01-03T15:46:05.140224+00:00
+
  ## VSP Logon Form
  - [http://www.gmglobalconnect.com](http://www.gmglobalconnect.com)
  - date_published: 2024-06-20T07:56:46.577317+00:00
@@ -4057,32 +4091,4 @@
  ## Acoustic
  - [https://login.goacoustic.com](https://login.goacoustic.com)
  - date_published: 2024-10-14T12:33:24.736833+00:00
-
- ## Adana GoTürkiye Destinations
- - [https://goadanaturkiye.com](https://goadanaturkiye.com)
- - date_published: 2024-12-23T02:22:31.798166+00:00
-
- ## Mark Goadrich - Home
- - [http://mark.goadrich.com](http://mark.goadrich.com)
- - date_published: 2024-06-30T01:59:52.294242+00:00
-
- ## Free Training To Book 100+ Qualified Sales Calls Like Clockwork
- - [https://goadstra.com](https://goadstra.com)
- - date_published: 2024-09-15T19:38:47.482324+00:00
-
- ## Moms Austin Community & Parenting Resource Guide for Austin Moms & Dads
- - [http://goadventuremom.com](http://goadventuremom.com)
- - date_published: 2022-04-07T21:16:38+00:00
-
- ## Soarion Credit Union | Banking, Auto Loans, Mortgages & Credit Cards
- - [https://goaffcu.com](https://goaffcu.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## goaffiliatecrew.com - Ta strona jest na sprzedaż! - goaffiliatecrew Zasoby i informacje.
- - [http://www.goaffiliatecrew.com](http://www.goaffiliatecrew.com)
- - date_published: 2024-11-16T20:24:39+00:00
-
- ## Affiliate Portal
- - [https://an-off-grid-life.goaffpro.com](https://an-off-grid-life.goaffpro.com)
- - date_published: 2024-09-02T03:40:10+00:00
 

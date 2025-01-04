@@ -1,3 +1,19 @@
+ ## Bender Benelux | Uw partner voor elektrische veiligheid
+ - [https://www.benderbenelux.com](https://www.benderbenelux.com)
+ - date_published: 2024-10-15T20:33:05.596901+00:00
+
+ ## 本德尔中国 | 您电气安全的伙伴
+ - [https://www.bender-cn.com](https://www.bender-cn.com)
+ - date_published: 2024-10-15T20:34:00.374315+00:00
+
+ ## Bender Russia | Your partner for electrical safety
+ - [https://www.bender-eac.com](https://www.bender-eac.com)
+ - date_published: 2024-10-15T20:33:46.320606+00:00
+
+ ## Bender Blog
+ - [https://de-blog.bender-group.com](https://de-blog.bender-group.com)
+ - date_published: 2024-10-10T05:29:19+00:00
+
  ## Blog de Bender
  - [https://es-blog.bender-group.com](https://es-blog.bender-group.com)
  - date_published: 2024-12-05T06:05:25+00:00
@@ -4020,20 +4036,4 @@
  ## Bidspotter.com | Industrial, Commercial, Plant and Machinery auctions
  - [https://bidspotter.com](https://bidspotter.com)
  - date_published: 2023-10-25T12:59:13.076928+00:00
-
- ## Bidspotter.com | Industrial, Commercial, Plant and Machinery auctions
- - [https://cdn.bidspotter.com](https://cdn.bidspotter.com)
- - date_published: 2024-08-19T10:00:48.654557+00:00
-
- ## BidSpotter.com
- - [https://support.bidspotter.com](https://support.bidspotter.com)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## BidSwitch - Smart Infrastructure For The Global Programmatic Ecosystem
- - [https://www.bidswitch.com](https://www.bidswitch.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## BidTheatre Help Center
- - [https://help.bidtheatre.com](https://help.bidtheatre.com)
- - date_published: 2024-06-25T22:58:39.208657+00:00
 

@@ -1,3 +1,19 @@
+ ## CORE
+ - [https://core.comscore.com](https://core.comscore.com)
+ - date_published: 2024-08-07T23:03:07.320683+00:00
+
+ ## Comscore is a trusted partner for planning, transacting and evaluating media across platforms. | Comscore, Inc.
+ - [https://ir.comscore.com](https://ir.comscore.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Sign in | Comscore
+ - [https://my.comscore.com](https://my.comscore.com)
+ - date_published: 2024-08-07T23:03:23.816909+00:00
+
+ ## Comscore | Comscore TV
+ - [https://tv.comscore.com](https://tv.comscore.com)
+ - date_published: 2024-07-29T19:46:01+00:00
+
  ## COMSOL: Multiphysics Software for Optimizing Designs
  - [https://www.comsol.com](https://www.comsol.com)
  - date_published: 2024-12-15T18:24:08.833466+00:00
@@ -4003,20 +4019,4 @@ Real Estate Supercenter
  ## Copyblogger
  - [https://copyblogger.com](https://copyblogger.com)
  - date_published: 2024-11-30T00:00:00+00:00
-
- ## COPYCENSE
- - [http://www.copycense.com](http://www.copycense.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Copyediting.com - the business of editing
- - [http://copyediting.com](http://copyediting.com)
- - date_published: 2022-12-31T20:30:17+00:00
-
- ## Copyhackers: digital home for elite copywriters & UX writers
- - [https://copyhackers.com](https://copyhackers.com)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## AI-Based Plagiarism & AI Content Detection | Copyleaks
- - [https://copyleaks.com](https://copyleaks.com)
- - date_published: 2024-10-30T06:49:36+00:00
 

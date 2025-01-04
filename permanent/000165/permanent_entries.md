@@ -1,3 +1,40 @@
+ ## Uber77: Official Gaming Website Best Value Server
+ - [http://manueltalens.com](http://manueltalens.com)
+ - date_published: 2024-11-28T12:04:20+00:00
+
+ ## Manufactum. Skillfully-crafted Products Made of Premium Materials
+ - [https://www.manufactum.com](https://www.manufactum.com)
+ - date_published: 2024-07-24T07:59:51.817131+00:00
+
+ ## Manufacturing LIVE Chicago | 4-5 June 2025
+ - [https://live.manufacturingdigital.com](https://live.manufacturingdigital.com)
+ - date_published: 2024-11-11T15:26:58+00:00
+
+ ## Manufacturing News | Manufacturing Dive
+ - [https://www.manufacturingdive.com](https://www.manufacturingdive.com)
+ - date_published: 2023-10-25T15:55:42.830050+00:00
+
+ ## Home
+ - Manufacturing Engineering Source Guide
+ - [http://manufacturingengineeringsourceguide.com](http://manufacturingengineeringsourceguide.com)
+ - date_published: 2024-09-13T19:39:54.639224+00:00
+
+ ## The Manufacturing Leadership Council
+ - [https://manufacturingleadershipcouncil.com](https://manufacturingleadershipcouncil.com)
+ - date_published: 2024-05-12T07:32:25.790313+00:00
+
+ ## Manufacturing Mirror | News Resource for the Manufacturing Industry
+ - [http://www.manufacturingmirror.com](http://www.manufacturingmirror.com)
+ - date_published: 2024-07-13T22:58:04.774834+00:00
+
+ ## Manufacturing Quality | Metrology, quality management, and quality control news and insights for manufacturing
+ - [https://www.manufacturing-quality.com](https://www.manufacturing-quality.com)
+ - date_published: 2024-07-08T18:24:12.544608+00:00
+
+ ## SME Manufacturing Tech Hub
+ - [https://www.manufacturingtechhub.com](https://www.manufacturingtechhub.com)
+ - date_published: 2024-09-10T00:00:00+00:00
+
  ## Manufacturing and Automation Stories, Videos, Articles, Interviews, Reviews & News  | ManufacturingTomorrow
  - [https://manufacturingtomorrow.com](https://manufacturingtomorrow.com)
  - date_published: 2024-06-10T13:13:02.477104+00:00
@@ -3994,41 +4031,4 @@
  ## Martin Carlisle's Home Page
  - [https://martincarlisle.com](https://martincarlisle.com)
  - date_published: 2019-08-28T15:12:22+00:00
-
- ## RAPID - Rapid Ada Portable Interface Designer
- - [http://rapid.martincarlisle.com](http://rapid.martincarlisle.com)
- - date_published: 2012-05-16T13:43:29+00:00
-
- ## RAPTOR - Flowchart Interpreter
- - [http://raptor.martincarlisle.com](http://raptor.martincarlisle.com)
- - date_published: 2024-07-09T15:59:46+00:00
-
- ## Martin C. Martin
- - [https://martincmartin.com](https://martincmartin.com)
- - date_published: 2024-06-14T13:54:21.652277+00:00
- - tags: ['personal']
-
- ## Top Commercial & Industrial Concrete Contractor - Martin Concrete
- - [https://www.martinconcrete.com](https://www.martinconcrete.com)
- - date_published: 2024-12-21T11:32:27.550494+00:00
-
- ## Martin Cousin, pianist
- - [http://www.martincousin.com](http://www.martincousin.com)
- - date_published: 2014-06-02T20:44:30+00:00
-
- ## Online Directory for Attorneys, Law Firms & Consumers | Martindale.com
- - [https://www.martindale.com](https://www.martindale.com)
- - date_published: 2024-05-01T08:00:21.024369+00:00
-
- ## Martindale Center
- - [http://www.martindalecenter.com](http://www.martindalecenter.com)
- - date_published: 2024-08-11T03:38:41.381413+00:00
-
- ## Sophia Martineck | Illustration and design
- - [https://www.martineck.com](https://www.martineck.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## martineellis.com
- - [https://martineellis.com](https://martineellis.com)
- - date_published: 2024-05-04T14:31:44.963778+00:00
 

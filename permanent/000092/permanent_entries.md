@@ -1,3 +1,19 @@
+ ## CMMI Institute - Home
+ - [https://cmmiinstitute.com](https://cmmiinstitute.com)
+ - date_published: 2024-06-16T07:43:10.806700+00:00
+
+ ## CMM - For Micro, High Precision and MEMS Manufacturers
+ - [https://www.cmmmagazine.com](https://www.cmmmagazine.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Cleaning & Maintenance Management | Premier Cleaning Industry Resource
+ - [https://cmmonline.com](https://cmmonline.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## CMM Ventures
+ - [http://www.cmmventures.com](http://www.cmmventures.com)
+ - date_published: 2023-10-19T13:05:37+00:00
+
  ## EDU Growth Partners - HigherEducation.com
  - [https://content.cmn.com](https://content.cmn.com)
  - date_published: 2018-09-01T00:00:00+00:00
@@ -4023,20 +4039,4 @@
  ## A unique career - CoinShares
  - [https://careers.coinshares.com](https://careers.coinshares.com)
  - date_published: 2024-06-04T11:22:32.365346+00:00
-
- ## CoinShares | Building the Future of Investing
- - [https://coinshares.com](https://coinshares.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Crypto ETP : Wide product range with the pioneer | CoinShares ETP
- - [https://etp.coinshares.com](https://etp.coinshares.com)
- - date_published: 2024-06-11T03:24:26.174488+00:00
-
- ## CoinShares Investor Relations
- - [https://investor.coinshares.com](https://investor.coinshares.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## COINsiglieri
- - [https://coinsiglieri.com](https://coinsiglieri.com)
- - date_published: 2024-09-24T11:21:28.208557+00:00
 

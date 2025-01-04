@@ -1,3 +1,15 @@
+ ## 辽宁纪检监察网
+ - [http://www.lnsjjjc.gov.cn](http://www.lnsjjjc.gov.cn)
+ - date_published: 2024-06-30T14:00:11.624666+00:00
+
+ ## 辽宁政务服务网
+ - [http://www.lnzwfw.gov.cn](http://www.lnzwfw.gov.cn)
+ - date_published: 2024-06-30T18:21:25.648315+00:00
+
+ ## 中国人民政治协商会议辽宁省委员会
+ - [http://www.lnzx.gov.cn](http://www.lnzx.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## 国家粮食和物资储备局
  - [http://lswz.gov.cn](http://lswz.gov.cn)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -3985,16 +3997,4 @@
  ## 旗帜网
  - [http://www.gongwei.org.cn](http://www.gongwei.org.cn)
  - date_published: 2024-06-30T00:19:31+00:00
-
- ## 中国共青团网
- - [https://www.gqt.org.cn](https://www.gqt.org.cn)
- - date_published: 2024-06-30T14:55:05.917923+00:00
-
- ## 湖北省社会主义学院
- - [http://www.hbsy.org.cn](http://www.hbsy.org.cn)
- - date_published: 2024-06-25T02:58:15+00:00
-
- ## 河南长安网
- - [http://www.henanpeace.org.cn](http://www.henanpeace.org.cn)
- - date_published: 2023-11-24T03:18:43+00:00
 

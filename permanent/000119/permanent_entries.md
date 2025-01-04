@@ -1,3 +1,19 @@
+ ## FCE Events - Fast Company Middle East
+ - [https://event.fastcompanyme.com](https://event.fastcompanyme.com)
+ - date_published: 2022-05-24T13:53:03+00:00
+
+ ## Fast Company Middle East: Latest News & Updates in Business, Technology & Design
+ - [https://fastcompanyme.com](https://fastcompanyme.com)
+ - date_published: 2023-10-25T14:27:18.555483+00:00
+
+ ## State of Sustainability Survey 2023 – Fast Company Middle East
+ - [https://resources.fastcompanyme.com](https://resources.fastcompanyme.com)
+ - date_published: 2024-05-04T05:45:13.033188+00:00
+
+ ## Fast Company Press | Hybrid Publisher
+ - [https://fastcompanypress.com](https://fastcompanypress.com)
+ - date_published: 2024-01-11T00:00:00+00:00
+
  ## Fast Cory
  - [http://www.fastcory.com](http://www.fastcory.com)
  - date_published: 2024-10-31T23:22:23+00:00
@@ -4017,20 +4033,4 @@ Now doing business as Geoffrey Ferrell Associates
  ## Field of Fire Gaming
  - [https://fieldoffiregaming.com](https://fieldoffiregaming.com)
  - date_published: 2020-01-27T21:15:33+00:00
-
- ## BrickHouse Nutrition | Superfood, Supplements, Health
- - [http://fieldofgreens.com](http://fieldofgreens.com)
- - date_published: 2025-01-01T20:50:19.704321+00:00
-
- ## A is for Aspirin
- - [http://a-is-for-aspirin.fieldofscience.com](http://a-is-for-aspirin.fieldofscience.com)
- - date_published: 2024-02-20T01:39:32+00:00
-
- ## The Allotrope
- - [http://allotrope.fieldofscience.com](http://allotrope.fieldofscience.com)
- - date_published: 2024-03-13T08:03:37+00:00
-
- ## Angry by Choice
- - [http://angrybychoice.fieldofscience.com](http://angrybychoice.fieldofscience.com)
- - date_published: 2024-05-28T17:48:48+00:00
 

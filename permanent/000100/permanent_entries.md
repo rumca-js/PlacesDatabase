@@ -1,3 +1,19 @@
+ ## DDD Europe 2025 - Software Modelling & Design Conference
+ - [https://2025.dddeurope.com](https://2025.dddeurope.com)
+ - date_published: 2024-06-19T11:57:56+00:00
+
+ ## Domain-Driven Design Europe
+ - [https://dddeurope.com](https://dddeurope.com)
+ - date_published: 2024-05-07T14:29:10.693378+00:00
+
+ ## Domain-Driven Design Europe Mailing List
+ - [https://newsletter.dddeurope.com](https://newsletter.dddeurope.com)
+ - date_published: 2021-12-15T13:45:49+00:00
+
+ ## DDD Europe Open Space
+ - [https://openspace.dddeurope.com](https://openspace.dddeurope.com)
+ - date_published: 2021-05-26T08:03:35+00:00
+
  ## Roll tabletop roleplaying dice | dddice
  - [https://dddice.com](https://dddice.com)
  - date_published: 2024-04-11T00:00:00+00:00
@@ -4056,20 +4072,4 @@
  ## DennisKennedy.Blog
  - [https://denniskennedy.com](https://denniskennedy.com)
  - date_published: 2024-07-13T10:09:38.606107+00:00
-
- ## Dennis E. Lembree - Digital accessibility professional specializing in web accessibility; CPWA certification
- - [https://dennislembree.com](https://dennislembree.com)
- - date_published: 2024-08-06T23:39:29.279072+00:00
-
- ## DENNISMILLERRADIO - Rekomendasi Game Online Multiplayer untuk Dimainkan Bersama Teman
- - [http://www.dennismillerradio.com](http://www.dennismillerradio.com)
- - date_published: 2025-01-01T06:15:58.124350+00:00
-
- ## The Dennis Prager Show - One of America’s most respected radio talk show hosts
- - [https://dennisprager.com](https://dennisprager.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Dennis Snellenberg • Freelance Designer & Developer
- - [https://dennissnellenberg.com](https://dennissnellenberg.com)
- - date_published: 2024-12-23T23:56:14.078902+00:00
 

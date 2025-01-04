@@ -1,3 +1,19 @@
+ ## Wampus Country
+ - [http://wampuscountry.blogspot.com](http://wampuscountry.blogspot.com)
+ - date_published: 2024-07-14T18:55:48+00:00
+
+ ## Wanderers on Earth
+ - [http://wanderersonearth.blogspot.com](http://wanderersonearth.blogspot.com)
+ - date_published: 2024-09-04T18:39:22+00:00
+
+ ## The Wandering Gamist
+ - [https://wanderinggamist.blogspot.com](https://wanderinggamist.blogspot.com)
+ - date_published: 2024-06-28T05:42:57+00:00
+
+ ## Wanderin' Weeta (With Waterfowl and Weeds)
+ - [http://wanderinweeta.blogspot.com](http://wanderinweeta.blogspot.com)
+ - date_published: 2024-07-02T00:53:00+00:00
+
  ## WANG-DANG-DOODLES!
  - [http://wangdangdoodles.blogspot.com](http://wangdangdoodles.blogspot.com)
  - date_published: 2024-11-22T12:27:43+00:00
@@ -3989,20 +4005,4 @@
  ## xo-whs2009
  - [http://xo-whs2009.blogspot.com](http://xo-whs2009.blogspot.com)
  - date_published: 2024-03-05T17:40:40+00:00
-
- ## xpostfactoid
- - [https://xpostfactoid.blogspot.com](https://xpostfactoid.blogspot.com)
- - date_published: 2024-06-28T06:11:31+00:00
-
- ## Ray's X-Blog
- - [http://xrayer.blogspot.com](http://xrayer.blogspot.com)
- - date_published: 2024-10-18T21:03:54+00:00
-
- ## Blogger
- - [http://xrayspex.blogspot.com](http://xrayspex.blogspot.com)
- - date_published: 2024-10-21T05:14:03.544453+00:00
-
- ## Paralipomena (3)
- - [https://xtractsof.blogspot.com](https://xtractsof.blogspot.com)
- - date_published: 2024-03-13T15:17:20+00:00
 

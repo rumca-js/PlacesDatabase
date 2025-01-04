@@ -1,3 +1,117 @@
+ ## מלגת ארתקא
+ - [https://irteka.co.il](https://irteka.co.il)
+ - date_published: 2024-07-14T03:34:26.844217+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.israeldefense.co.il](https://www.israeldefense.co.il)
+ - date_published: 2024-09-02T11:48:55.587579+00:00
+
+ ## Israel HLS&CYBER 2022 - The International Conference & Exhibition
+ - [https://hls-cyber-2022.israel-expo.co.il](https://hls-cyber-2022.israel-expo.co.il)
+ - date_published: 2024-09-02T11:48:59.686733+00:00
+
+ ## עיתון ישראל היום
+ - [https://digital-edition.israelhayom.co.il](https://digital-edition.israelhayom.co.il)
+ - date_published: 2024-08-18T11:08:51.069093+00:00
+
+ ## חדשות, דעות, תרבות, ספורט, כלכלה מהארץ והעולם | ישראל היום
+ - [https://israelhayom.co.il](https://israelhayom.co.il)
+ - date_published: 2023-12-09T19:39:09.657744+00:00
+
+ ## Israeli Diamond Industry
+ - [https://en.israelidiamond.co.il](https://en.israelidiamond.co.il)
+ - date_published: 2024-01-24T20:54:31.768580+00:00
+
+ ## מכון היהלומים הישראלי - פורטל יהלומים הגדול בישראל
+ - [https://www.israelidiamond.co.il](https://www.israelidiamond.co.il)
+ - date_published: 2024-08-17T23:13:32.672159+00:00
+
+ ## Israel Today - News & Commentary. Stay Informed, Pray Informed.
+ - [https://israeltoday.co.il](https://israeltoday.co.il)
+ - date_published: 2023-11-09T09:15:33.642354+00:00
+ - tags: ['israel news']
+
+ ## דף הבית - IsraelTravel
+ - [http://israeltravel.co.il](http://israeltravel.co.il)
+ - date_published: 2024-10-21T21:57:46.926551+00:00
+
+ ## JD Sports ישראל - רשת אופנת הספורט הבינלאומית
+ - [https://www.jdsports.co.il](https://www.jdsports.co.il)
+ - date_published: 2024-10-21T02:19:20.869682+00:00
+
+ ## Jeep® Israel | ג׳יפ ישראל
+ - [https://www.jeep.co.il](https://www.jeep.co.il)
+ - date_published: 2024-06-19T09:00:36.851409+00:00
+
+ ## Real Estate Advisors & Professionals | JLL
+ - [https://www.jll.co.il](https://www.jll.co.il)
+ - date_published: 2024-10-30T21:39:12.411984+00:00
+
+ ## JLMBOX - Products from Israel
+ - [https://jlmbox.co.il](https://jlmbox.co.il)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## לימוד אנגלית וקורסי אנגלית בקלי קלות | ג'רוזלם פוסט לייט
+ - [http://www.jpostlite.co.il](http://www.jpostlite.co.il)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## חנות צילום עם מבחר ענק של ציוד מקצועי - יוגנד Photo & Video
+ - [https://www.j-sale.co.il](https://www.j-sale.co.il)
+ - date_published: 2025-01-02T00:29:00.020679+00:00
+
+ ## קפלן ייעוץ קוד פתוח
+ - [https://kaplanopensource.co.il](https://kaplanopensource.co.il)
+ - date_published: 2024-12-12T17:31:49+00:00
+
+ ## Kimai Time-Tracking
+ - [https://www.kimai.co.il](https://www.kimai.co.il)
+ - date_published: 2024-10-29T20:40:02+00:00
+
+ ## לנד רובר | רכבי ריינג' רובר, דיפנדר ודיסקברי למכירה | Land Rover
+ - [https://www.landrover.co.il](https://www.landrover.co.il)
+ - date_published: 2024-07-09T17:14:52.283614+00:00
+
+ ## להפוך להיות מוביל, מומחה ומנהיג בתחומך! (חדש) - האקדמיה למובילים ומנהיגים עסקיים
+ - [https://leadersacademy.co.il](https://leadersacademy.co.il)
+ - date_published: 2024-08-18T13:06:30.983472+00:00
+
+ ## Teaching Python and data science around the world
+ - [https://lerner.co.il](https://lerner.co.il)
+ - date_published: 2023-10-27T11:57:12.193154+00:00
+ - tags: ['personal']
+
+ ## לוונשטיין טכנולוגיות: פתרונות הנדסה ומערכות אלקטרו מכאניות
+ - [https://www.l-tech.co.il](https://www.l-tech.co.il)
+ - date_published: 2022-12-13T18:51:06+00:00
+
+ ## LTU Media | Leave it to us
+ - [https://ltu.co.il](https://ltu.co.il)
+ - date_published: 2023-11-29T15:23:30+00:00
+
+ ## חדשות היום, כלכלה, ספורט, רכילות, בריאות, טכנולוגיה | מעריב
+ - [https://www.maariv.co.il](https://www.maariv.co.il)
+ - date_published: 2024-08-18T15:08:42.640078+00:00
+
+ ## מכבי שירותי בריאות
+ - [https://www.maccabi4u.co.il](https://www.maccabi4u.co.il)
+ - date_published: 2024-07-09T07:21:12+00:00
+
+ ## | Fashion Forward | אופנה
+ - [https://fashionforward.mako.co.il](https://fashionforward.mako.co.il)
+ - date_published: 2024-08-11T13:52:08.354987+00:00
+
+ ## היטליסט: מצעד המוזיקה של ישראל mako
+ - [https://hitlist.mako.co.il](https://hitlist.mako.co.il)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Error
+ - [https://img.mako.co.il](https://img.mako.co.il)
+ - date_published: 2024-08-11T13:52:31.271818+00:00
+
+ ## mako חדשות. בידור. טלוויזיה
+ - [https://mako.co.il](https://mako.co.il)
+ - date_published: 2024-02-25T21:52:04+00:00
+
  ## Error
  - [https://rcs.mako.co.il](https://rcs.mako.co.il)
  - date_published: 2024-08-11T13:52:24.007059+00:00
@@ -3905,116 +4019,4 @@ Indian Institute of Science, Bangalore
  ## Centre for Industry Institute Partnership Programme Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
  - [https://ciipp.puchd.ac.in](https://ciipp.puchd.ac.in)
  - date_published: 2024-12-15T12:57:43.745674+00:00
-
- ## Central Placement Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://cpc.puchd.ac.in](https://cpc.puchd.ac.in)
- - date_published: 2024-12-15T13:01:36.086078+00:00
-
- ## Industry Academia Book
- - [https://cpr.puchd.ac.in](https://cpr.puchd.ac.in)
- - date_published: 2024-12-15T13:00:12.252025+00:00
-
- ## Chandigarh Region Innovation and Knowledge Cluster (CRIKC).
- - [https://crikc.puchd.ac.in](https://crikc.puchd.ac.in)
- - date_published: 2024-12-15T12:58:28.902237+00:00
-
- ## Centre for Skill Development & Entrepreneurship Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://csde.puchd.ac.in](https://csde.puchd.ac.in)
- - date_published: 2024-12-15T12:59:01.124194+00:00
-
- ## Department of Computer Science & Applications Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://dcsa.puchd.ac.in](https://dcsa.puchd.ac.in)
- - date_published: 2024-12-15T12:59:16.801275+00:00
-
- ## Panjab University Directory Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://directory.puchd.ac.in](https://directory.puchd.ac.in)
- - date_published: 2024-12-15T12:59:36.275145+00:00
-
- ## Dean International Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://dis.puchd.ac.in](https://dis.puchd.ac.in)
- - date_published: 2024-12-15T12:57:23.143230+00:00
-
- ## Dean of University Instruction Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://dui.puchd.ac.in](https://dui.puchd.ac.in)
- - date_published: 2024-12-15T13:01:27.785070+00:00
-
- ## Entrepreneurship, Employability and Innovation Hub (EEI) – (RUSA-State Project Directorate, Chandigarh)
- - [https://eei.puchd.ac.in](https://eei.puchd.ac.in)
- - date_published: 2024-12-15T12:57:58.067171+00:00
-
- ## Equal Opportunity Cell for Persons with Disabilities Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://eocpwd.puchd.ac.in](https://eocpwd.puchd.ac.in)
- - date_published: 2024-12-15T12:55:57.135615+00:00
-
- ## Panjab University Examination Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://exams.puchd.ac.in](https://exams.puchd.ac.in)
- - date_published: 2024-12-15T12:57:37.742004+00:00
-
- ## University Forms Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://forms.puchd.ac.in](https://forms.puchd.ac.in)
- - date_published: 2024-12-15T12:59:42.699354+00:00
-
- ## Official Website of Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://gallery.puchd.ac.in](https://gallery.puchd.ac.in)
- - date_published: 2024-12-15T12:58:44.149967+00:00
-
- ## Panjab University Hostels Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://hostels.puchd.ac.in](https://hostels.puchd.ac.in)
- - date_published: 2024-12-15T12:54:37.843419+00:00
-
- ## About  -  Centre for IAS  & Other Competitive Examinations Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://iasc.puchd.ac.in](https://iasc.puchd.ac.in)
- - date_published: 2024-12-15T12:58:51.453945+00:00
-
- ## DST Inspire Internship Program Centre Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://inspire.puchd.ac.in](https://inspire.puchd.ac.in)
- - date_published: 2024-12-15T12:59:26.727694+00:00
-
- ## University Home
- - [https://iqac.puchd.ac.in](https://iqac.puchd.ac.in)
- - date_published: 2024-12-15T12:54:49.306330+00:00
-
- ## University Jobs Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://jobs.puchd.ac.in](https://jobs.puchd.ac.in)
- - date_published: 2024-12-15T12:54:14.930548+00:00
-
- ## A. C. Joshi Library Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://library.puchd.ac.in](https://library.puchd.ac.in)
- - date_published: 2024-12-15T12:54:35.590098+00:00
-
- ## National Education Policy Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://nep.puchd.ac.in](https://nep.puchd.ac.in)
- - date_published: 2024-12-15T12:58:01.595637+00:00
-
- ## News & Updates - Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://news.puchd.ac.in](https://news.puchd.ac.in)
- - date_published: 2024-12-13T00:00:00+00:00
-
- ## Oral History Project | Early Panjab University (1947-1965)
- - [https://oralhistory.puchd.ac.in](https://oralhistory.puchd.ac.in)
- - date_published: 2024-12-15T12:54:02.703526+00:00
-
- ## Permanent Anti-Discrimination Cell for Transgender Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://padcts.puchd.ac.in](https://padcts.puchd.ac.in)
- - date_published: 2024-12-15T12:58:57.605548+00:00
-
- ## Welcome to Panjab University Payment Portal ~ Pay Online | Panjab University Online Payment Portal
- - [https://payonline.puchd.ac.in](https://payonline.puchd.ac.in)
- - date_published: 2024-12-15T12:54:56.322739+00:00
-
- ## Department of Physical Education Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://physicaleducation.puchd.ac.in](https://physicaleducation.puchd.ac.in)
- - date_published: 2024-12-15T12:57:15.353992+00:00
-
- ## About  -  Publication Bureau Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://publicationbureau.puchd.ac.in](https://publicationbureau.puchd.ac.in)
- - date_published: 2024-12-15T12:56:59.735388+00:00
-
- ## Public Relations Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://publicrelations.puchd.ac.in](https://publicrelations.puchd.ac.in)
- - date_published: 2024-12-15T12:56:57.232779+00:00
-
- ## Official Website of Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://puchd.ac.in](https://puchd.ac.in)
- - date_published: 2024-10-30T20:17:45.374946+00:00
 

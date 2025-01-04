@@ -1,3 +1,19 @@
+ ## AFRICA SUSTAINABLE FUTURES AWARDS - Financial Times Event
+ - [https://africasustainablefuturesawards.live.ft.com](https://africasustainablefuturesawards.live.ft.com)
+ - date_published: 2024-06-19T23:27:34.716110+00:00
+
+ ## Building an AI-First Organisation Copenhagen 2024 - An FT Live Event
+ - [https://aifirst.live.ft.com](https://aifirst.live.ft.com)
+ - date_published: 2024-10-31T09:25:00.864956+00:00
+
+ ## Future of AI 2024 - Financial Times Live Event
+ - [https://ai.live.ft.com](https://ai.live.ft.com)
+ - date_published: 2024-06-19T23:26:25.271397+00:00
+
+ ## AI Net Zero 2024 - An FT Live Webinar
+ - [https://ainetzero.live.ft.com](https://ainetzero.live.ft.com)
+ - date_published: 2024-10-31T09:25:52.752451+00:00
+
  ## The impact of GenAI on work and society
  - [https://aiwebinar.live.ft.com](https://aiwebinar.live.ft.com)
  - date_published: 2024-06-19T23:26:55.267134+00:00
@@ -4013,20 +4029,4 @@
  ## Galerias Angra
  - [https://www.galeriasangra.com](https://www.galeriasangra.com)
  - date_published: 2024-09-05T15:05:30.642278+00:00
-
- ## galeriasokoa.com - Ta strona jest na sprzedaż! - galeriasokoa Zasoby i informacje.
- - [http://www.galeriasokoa.com](http://www.galeriasokoa.com)
- - date_published: 2024-07-14T11:25:13+00:00
-
- ## Home – Galerie 1 2 3 - Original Vintage Posters
- - [https://www.galerie123.com](https://www.galerie123.com)
- - date_published: 2024-06-14T15:28:37.775679+00:00
-
- ## GALERIE DES GALERIES
- - [http://www.galeriedesgaleries.com](http://www.galeriedesgaleries.com)
- - date_published: 2024-07-13T16:27:47.236767+00:00
-
- ## Galerie Gallimard
- - [https://www.galeriegallimard.com](https://www.galeriegallimard.com)
- - date_published: 2024-10-23T09:34:36.653077+00:00
 

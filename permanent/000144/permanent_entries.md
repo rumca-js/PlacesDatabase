@@ -1,3 +1,40 @@
+ ## Consulting in the sale of high tech companies - Inflexionpoints
+ - [http://www.inflexionpointspartners.com](http://www.inflexionpointspartners.com)
+ - date_published: 2023-12-20T00:00:00+00:00
+
+ ## Akamai
+ - [https://akamaicareers.inflightcloud.com](https://akamaicareers.inflightcloud.com)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Inflight - publishing and event services for the aerospace industry
+ - [http://www.inflight-online.com](http://www.inflight-online.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## In Flight USA
+ - [http://www.inflightusa.com](http://www.inflightusa.com)
+ - date_published: 2024-07-09T21:53:16.500637+00:00
+
+ ## inFlow Inventory | Home
+ - [https://www.inflowinventory.com](https://www.inflowinventory.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Login - Influ2
+ - [https://app.influ2.com](https://app.influ2.com)
+ - date_published: 2024-06-22T22:34:19.478461+00:00
+
+ ## Welcome to your Strapi app
+ - [https://www-admin.influ2.com](https://www-admin.influ2.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Influ2: Person-Based Ads That Help You Sell
+ - [https://www.influ2.com](https://www.influ2.com)
+ - date_published: 2024-05-06T12:57:14.866450+00:00
+
+ ## The Influence Association - Influence and effectiveness
+ - [https://influenceassociation.com](https://influenceassociation.com)
+ - date_published: 2023-12-27T01:06:23.856215+00:00
+ - tags: ['personal']
+
  ## INFLUENCE AT WORK | Dr. Robert Cialdini Influence Training & Keynotes
  - [https://www.influenceatwork.com](https://www.influenceatwork.com)
  - date_published: 2024-03-19T00:00:00+00:00
@@ -3984,40 +4021,4 @@
  ## Unleash - Status
  - [https://unleash.instatus.com](https://unleash.instatus.com)
  - date_published: 2024-08-08T23:03:50.430355+00:00
-
- ## Serverless VPN status page
- - [https://upvpn.instatus.com](https://upvpn.instatus.com)
- - date_published: 2024-08-19T11:37:14.906179+00:00
-
- ## VATSIM Network Status
- - [https://vatsim.instatus.com](https://vatsim.instatus.com)
- - date_published: 2024-07-10T03:21:28.556200+00:00
-
- ## WarpBuild - Status
- - [https://warpbuild.instatus.com](https://warpbuild.instatus.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Warrant - Status
- - [https://warrant.instatus.com](https://warrant.instatus.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Watermelon System Status
- - [https://watermelon.instatus.com](https://watermelon.instatus.com)
- - date_published: 2024-10-30T10:48:52.049076+00:00
-
- ## Zed - Status
- - [https://zed.instatus.com](https://zed.instatus.com)
- - date_published: 2024-08-11T11:08:42.943639+00:00
-
- ## Instagram Username Generator – Best Ideas for You
- - [https://instausername.com](https://instausername.com)
- - date_published: 2024-06-19T19:34:14.717979+00:00
-
- ## InstaWebAI - Professional, multipage websites with AI
- - [https://www.instawebai.com](https://www.instawebai.com)
- - date_published: 2024-06-27T10:51:43.278435+00:00
-
- ## Flexible Staffing for Local Work | Instawork
- - [https://app.instawork.com](https://app.instawork.com)
- - date_published: 2024-07-04T18:38:06.816460+00:00
 

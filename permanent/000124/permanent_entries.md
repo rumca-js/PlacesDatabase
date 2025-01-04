@@ -1,3 +1,19 @@
+ ## Home - Franklin Barbecue | Austin, Texas
+ - [https://franklinbbq.com](https://franklinbbq.com)
+ - date_published: 2024-07-10T11:01:09.016701+00:00
+
+ ## Franklin Barbecue Store
+ - [https://shop.franklinbbq.com](https://shop.franklinbbq.com)
+ - date_published: 2024-07-04T06:35:41.984416+00:00
+
+ ## Careers | FranklinCovey
+ - [https://careers.franklincovey.com](https://careers.franklincovey.com)
+ - date_published: 2024-12-09T17:01:09.754792+00:00
+
+ ## Investor Relations | Franklin Covey Co.
+ - [https://ir.franklincovey.com](https://ir.franklincovey.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
  ## Mission Statement Builder | FranklinCovey
  - [https://msb.franklincovey.com](https://msb.franklincovey.com)
  - date_published: 2024-06-23T02:31:25.063163+00:00
@@ -4014,20 +4030,4 @@
  ## Political Risk and Investment in Africa
  - [https://africanpolitics.live.ft.com](https://africanpolitics.live.ft.com)
  - date_published: 2024-06-19T23:28:11.783239+00:00
-
- ## AFRICA SUSTAINABLE FUTURES AWARDS - Financial Times Event
- - [https://africasustainablefuturesawards.live.ft.com](https://africasustainablefuturesawards.live.ft.com)
- - date_published: 2024-06-19T23:27:34.716110+00:00
-
- ## Building an AI-First Organisation Copenhagen 2024 - An FT Live Event
- - [https://aifirst.live.ft.com](https://aifirst.live.ft.com)
- - date_published: 2024-10-31T09:25:00.864956+00:00
-
- ## Future of AI 2024 - Financial Times Live Event
- - [https://ai.live.ft.com](https://ai.live.ft.com)
- - date_published: 2024-06-19T23:26:25.271397+00:00
-
- ## AI Net Zero 2024 - An FT Live Webinar
- - [https://ainetzero.live.ft.com](https://ainetzero.live.ft.com)
- - date_published: 2024-10-31T09:25:52.752451+00:00
 

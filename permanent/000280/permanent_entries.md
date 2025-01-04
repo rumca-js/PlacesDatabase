@@ -1,3 +1,99 @@
+ ## spaceweather.gfz-potsdam.de - Space Weather
+ - [https://spaceweather.gfz-potsdam.de](https://spaceweather.gfz-potsdam.de)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Startseite
+ - [http://www.gfz-potsdam.de](http://www.gfz-potsdam.de)
+ - date_published: 2024-07-10T05:46:18.819078+00:00
+
+ ## GGC-Project x Home
+ - [https://ggc-project.de](https://ggc-project.de)
+ - date_published: 2024-06-01T15:12:58+00:00
+
+ ## GGH Gesellschaft für Grund- und Hausbesitz mbH Heidelberg - GGH Gesellschaft für Grund- und Hausbesitz
+ - [https://www.ggh-heidelberg.de](https://www.ggh-heidelberg.de)
+ - date_published: 2024-07-24T03:47:12.271841+00:00
+
+ ## ghadir.de – Halbwissen trifft Ahnungslosigkeit
+ - [https://ghadir.de](https://ghadir.de)
+ - date_published: 2024-06-15T16:43:50.911732+00:00
+
+ ## Ghostwriter Erfahrungen - Bewertungen von akademisches Ghostwriting Agenturen
+ - [https://ghostwritingerfahrungen.de](https://ghostwritingerfahrungen.de)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## GI Digital Library :: Startseite
+ - [https://dl.gi.de](https://dl.gi.de)
+ - date_published: 2024-03-30T03:02:09.043926+00:00
+
+ ## Gewissensbits
+ - [https://gewissensbits.gi.de](https://gewissensbits.gi.de)
+ - date_published: 2024-08-11T11:38:21.173221+00:00
+
+ ## Startseite - Gesellschaft für Informatik e.V.
+ - [https://gi.de](https://gi.de)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## INFORMATIK FESTIVAL 2024 | Home
+ - [https://informatik2024.gi.de](https://informatik2024.gi.de)
+ - date_published: 2024-06-22T13:19:56.432987+00:00
+
+ ## Startseite - Studierende der GI
+ - [https://junge.gi.de](https://junge.gi.de)
+ - date_published: 2024-06-28T21:50:16.192481+00:00
+
+ ## Meine GI - Meine GI
+ - [https://meine.gi.de](https://meine.gi.de)
+ - date_published: 2024-06-28T21:50:10.859014+00:00
+
+ ## Startseite - GI Mentoring
+ - [https://mentoring.gi.de](https://mentoring.gi.de)
+ - date_published: 2024-06-28T21:50:17.568643+00:00
+
+ ## Startseite - roundtable-ki
+ - [https://roundtable-ki.gi.de](https://roundtable-ki.gi.de)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Status Überblick
+ - [https://gibteseinestorung.de](https://gibteseinestorung.de)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## gidian-gelaende.de
+ - [http://gidian-gelaende.de](http://gidian-gelaende.de)
+ - date_published: 2024-07-20T08:52:02.937419+00:00
+
+ ## Home | Gießener Allgemeine Zeitung
+ - [https://www.giessener-allgemeine.de](https://www.giessener-allgemeine.de)
+ - date_published: 2024-07-24T07:42:00.451360+00:00
+
+ ## Startseite - Gesellschaft für Informatik e.V.
+ - [http://www.gi-ev.de](http://www.gi-ev.de)
+ - date_published: 2024-12-09T00:00:00+00:00
+
+ ## Gift Music
+ - [http://www.giftmusic.de](http://www.giftmusic.de)
+ - date_published: 2012-11-23T23:23:19+00:00
+
+ ## Loading ...
+ - [https://pur.giga.de](https://pur.giga.de)
+ - date_published: 2024-06-10T08:46:44+00:00
+
+ ## GIGA - Dein Leben ist GIGA
+ - [https://sl.giga.de](https://sl.giga.de)
+ - date_published: 2024-07-04T04:10:07.769680+00:00
+
+ ## GIGA - Dein Leben ist GIGA
+ - [https://www.giga.de](https://www.giga.de)
+ - date_published: 2024-06-16T09:52:57.148407+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.gigold.de](https://analytics.gigold.de)
+ - date_published: 2024-07-02T17:59:57.597766+00:00
+
+ ## gigold.link
+ - [https://cdn.gigold.de](https://cdn.gigold.de)
+ - date_published: 2024-07-02T18:00:32.431731+00:00
+
  ## Thomas Gigold - Social Media- und Digital Content Marketing Expertise
  - [https://gigold.de](https://gigold.de)
  - date_published: 2024-07-02T18:00:06.923197+00:00
@@ -3914,100 +4010,4 @@
  ## JAX & W-JAX 2024 | Konferenzen für Java, Architektur & Software-Innovationen
  - [https://jax.de](https://jax.de)
  - date_published: 2024-08-07T23:28:49+00:00
-
- ## jaxenter - entwickler.de
- - [https://jaxenter.de](https://jaxenter.de)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## JazzEcho-Store | Vinyl, CDs, Merch.
- - [https://store.jazzecho.de](https://store.jazzecho.de)
- - date_published: 2024-06-17T08:10:57+00:00
-
- ## JazzEcho - Alles über Jazz Musik
- - [https://www.jazzecho.de](https://www.jazzecho.de)
- - date_published: 2024-10-17T18:06:16.820278+00:00
-
- ## JBS System GmbH - Seit 40 Jahren Qualität Made in Germany
- - [https://www.jbs-system.de](https://www.jbs-system.de)
- - date_published: 2022-12-25T15:05:25+00:00
-
- ## Welcome @ J.!
- - [https://jdot.de](https://jdot.de)
- - date_published: 2024-07-09T23:34:30.832345+00:00
-
- ## Das Zukunftsorchester
- - [https://jdph.de](https://jdph.de)
- - date_published: 2024-03-19T10:07:00+00:00
-
- ## JD Sports Deutschland - Sneaker, Sportbekleidung & Accessoires
- - [https://www.jdsports.de](https://www.jdsports.de)
- - date_published: 2024-10-21T02:17:19.994096+00:00
-
- ## Start - Jean Paul 2013
- - [https://jean-paul-2013.de](https://jean-paul-2013.de)
- - date_published: 2021-10-17T13:03:21+00:00
-
- ## Startseite - Jede Stunde zählt
- - [https://www.jedestundezaehlt.de](https://www.jedestundezaehlt.de)
- - date_published: 2024-12-10T18:46:19+00:00
-
- ## Jeep® Deutschland | Neue SUV und Geländewagen kaufen
- - [https://www.jeep.de](https://www.jeep.de)
- - date_published: 2024-06-18T07:55:42+00:00
-
- ## The Power of Light – mit Photonik die Welt verändern!
- - [https://www.jenoptik.de](https://www.jenoptik.de)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Jens Reimerdes · Grafik- & Fotodesign
- - [https://jens-reimerdes.de](https://jens-reimerdes.de)
- - date_published: 2024-02-10T00:00:00+00:00
-
- ## Home | JERA Software | FIBU-Schnittstelle
- - [https://jera-software.de](https://jera-software.de)
- - date_published: 2024-07-11T22:06:38+00:00
-
- ## Willkommen bei JET - mit uns bist du einfach besser unterwegs
- - [https://www.jet.de](https://www.jet.de)
- - date_published: 2024-10-15T15:02:37.526543+00:00
-
- ## Home
- - [https://jetzt.de](https://jetzt.de)
- - date_published: 2024-04-29T06:48:07.688471+00:00
-
- ## Spiele - Online Spiele Kostenlos Spielen - JetztSpielen.de
- - [https://www.jetztspielen.de](https://www.jetztspielen.de)
- - date_published: 2024-07-20T02:44:07.074997+00:00
-
- ## JeuJeus Blog
- - [https://blog.jeujeus.de](https://blog.jeujeus.de)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Jever Pilsener - Wie das Land, so das Jever | Start
- - [https://www.jever.de](https://www.jever.de)
- - date_published: 2024-07-16T14:25:41+00:00
-
- ## jff.de
- - [https://jff.de](https://jff.de)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Hello World!
- - [https://jfhr.de](https://jfhr.de)
- - date_published: 2024-08-19T16:42:41.605686+00:00
-
- ## JFlex - JFlex  The Fast Scanner Generator for Java
- - [http://jflex.de](http://jflex.de)
- - date_published: 2023-03-11T02:36:04+00:00
-
- ## Jugendbildung in Gesellschaft und Wissenschaft e.V. – Wir organisieren Projekte, um den Austausch junger Menschen über gesellschaftliche, wissenschaftliche, politische und kulturelle Themen zu fördern.
- - [https://jgw-ev.de](https://jgw-ev.de)
- - date_published: 2024-08-19T03:51:59.319089+00:00
-
- ## Jochen Hoenicke
- - [https://jhoenicke.de](https://jhoenicke.de)
- - date_published: 2024-04-28T01:58:34.085506+00:00
-
- ## Joshua Humpfer - Hochzeitsfotografie
- - [https://jhvisuals.de](https://jhvisuals.de)
- - date_published: 2024-05-11T08:19:50.338603+00:00
 

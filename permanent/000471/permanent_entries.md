@@ -1,3 +1,167 @@
+ ## Welcome | Pembroke Intranet
+ - [https://intranet.pmb.ox.ac.uk](https://intranet.pmb.ox.ac.uk)
+ - date_published: 2024-06-17T18:33:25.582962+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://intranet.politics.ox.ac.uk](https://intranet.politics.ox.ac.uk)
+ - date_published: 2024-06-29T21:18:42.500848+00:00
+
+ ## Login | ODID Intranet
+ - [https://intranet.qeh.ox.ac.uk](https://intranet.qeh.ox.ac.uk)
+ - date_published: 2024-06-17T18:37:09.885662+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://intranet.st-hughs.ox.ac.uk](https://intranet.st-hughs.ox.ac.uk)
+ - date_published: 2024-06-17T18:32:40.022169+00:00
+
+ ## Trinity College Intranet
+ - [https://intranet.trinity.ox.ac.uk](https://intranet.trinity.ox.ac.uk)
+ - date_published: 2023-07-31T16:24:07+00:00
+
+ ## Home
+ - [https://invisibleeast.web.ox.ac.uk](https://invisibleeast.web.ox.ac.uk)
+ - date_published: 2024-06-17T18:45:43.854756+00:00
+
+ ## Home
+ - [https://it.museums.ox.ac.uk](https://it.museums.ox.ac.uk)
+ - date_published: 2024-06-13T19:33:31+00:00
+
+ ## Home
+ - [https://it.ox.ac.uk](https://it.ox.ac.uk)
+ - date_published: 2024-10-20T05:38:08.920945+00:00
+
+ ## Junior Common Room – Worcester College
+ - [https://jcr.worc.ox.ac.uk](https://jcr.worc.ox.ac.uk)
+ - date_published: 2024-06-17T18:34:58+00:00
+
+ ## Jerugroup
+ - [https://jerugroup.eng.ox.ac.uk](https://jerugroup.eng.ox.ac.uk)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Restricted access | Jesus College Oxford
+ - [https://jesuscollegeintranet.web.ox.ac.uk](https://jesuscollegeintranet.web.ox.ac.uk)
+ - date_published: 2024-06-17T18:46:01+00:00
+
+ ## Home
+ - [https://jobs.ox.ac.uk](https://jobs.ox.ac.uk)
+ - date_published: 2024-06-16T04:59:53+00:00
+
+ ## Home
+ - [https://l4dc.web.ox.ac.uk](https://l4dc.web.ox.ac.uk)
+ - date_published: 2024-06-20T22:20:18+00:00
+
+ ## Home
+ - [https://learningzone.oumnh.ox.ac.uk](https://learningzone.oumnh.ox.ac.uk)
+ - date_published: 2024-06-13T19:43:16+00:00
+
+ ## Professional services and University administration
+ - [http://legal.admin.ox.ac.uk](http://legal.admin.ox.ac.uk)
+ - date_published: 2024-06-13T09:23:19+00:00
+
+ ## Oxford LibGuides: Subject and Research Guides: Home
+ - [https://libguides.bodleian.ox.ac.uk](https://libguides.bodleian.ox.ac.uk)
+ - date_published: 2024-06-17T18:18:15.892668+00:00
+
+ ## Home | Lincoln College Oxford
+ - [https://lincoln.ox.ac.uk](https://lincoln.ox.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Login to Canvas - University of Oxford
+ - [https://login.canvas.ox.ac.uk](https://login.canvas.ox.ac.uk)
+ - date_published: 2024-06-17T18:20:07.402335+00:00
+
+ ## Homepage | Laudato Si' Research Institute
+ - [https://lsri.campion.ox.ac.uk](https://lsri.campion.ox.ac.uk)
+ - date_published: 2024-06-17T18:35:13.076545+00:00
+
+ ## Site Maintenance
+ - [https://maillist.ox.ac.uk](https://maillist.ox.ac.uk)
+ - date_published: 2019-08-12T13:09:53+00:00
+
+ ## Interactive Map
+ - [http://maps.ox.ac.uk](http://maps.ox.ac.uk)
+ - date_published: 2022-10-09T04:28:19+00:00
+
+ ## Worcester College MCR – Welcome to Worcester MCR
+ - [https://mcr.worc.ox.ac.uk](https://mcr.worc.ox.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://meals.oriel.ox.ac.uk](https://meals.oriel.ox.ac.uk)
+ - date_published: 2024-06-17T18:31:55.336788+00:00
+
+ ## IIS Windows Server
+ - [http://meals.rpc.ox.ac.uk](http://meals.rpc.ox.ac.uk)
+ - date_published: 2024-04-02T10:36:24+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://mediapub.it.ox.ac.uk](https://mediapub.it.ox.ac.uk)
+ - date_published: 2024-06-17T18:20:29.524552+00:00
+
+ ## Medieval Manuscripts in Oxford Libraries
+ - [https://medieval.bodleian.ox.ac.uk](https://medieval.bodleian.ox.ac.uk)
+ - date_published: 2024-08-06T19:19:27.259075+00:00
+
+ ## HMC - Members
+ - [https://members.hmc.ox.ac.uk](https://members.hmc.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:41.932291+00:00
+
+ ## Home - Migration Observatory
+ - [https://migrationobservatory.ox.ac.uk](https://migrationobservatory.ox.ac.uk)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Faculty of Medieval and Modern Languages
+ - [https://mod-langs.ox.ac.uk](https://mod-langs.ox.ac.uk)
+ - date_published: 2024-10-20T07:16:15.698580+00:00
+
+ ## Oxford Applied and Theoretical Machine Learning Group - OATML
+ - [https://oatml.cs.ox.ac.uk](https://oatml.cs.ox.ac.uk)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Home
+ - [https://occupationalhealth.admin.ox.ac.uk](https://occupationalhealth.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:34:44+00:00
+
+ ## Home
+ - [https://occupationalhealth.web.ox.ac.uk](https://occupationalhealth.web.ox.ac.uk)
+ - date_published: 2024-10-20T07:08:11.623499+00:00
+
+ ## Online Egyptological Bibliography
+ - [http://oeb.griffith.ox.ac.uk](http://oeb.griffith.ox.ac.uk)
+ - date_published: 2024-10-20T06:55:11.075728+00:00
+
+ ## Examining the OED - Oxford English Dictionary Research
+ - [https://oed.hertford.ox.ac.uk](https://oed.hertford.ox.ac.uk)
+ - date_published: 2024-10-20T05:58:47.102306+00:00
+
+ ## Oxford e-Research Centre, Department of Engineering Science at Oxford
+ - [https://oerc.ox.ac.uk](https://oerc.ox.ac.uk)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home
+ - [https://oess.web.ox.ac.uk](https://oess.web.ox.ac.uk)
+ - date_published: 2024-06-16T16:15:45+00:00
+
+ ## Online Support
+ - [https://onlinesupport.conted.ox.ac.uk](https://onlinesupport.conted.ox.ac.uk)
+ - date_published: 2024-06-17T18:20:24.634155+00:00
+
+ ## Open access at Oxford University
+ - [http://openaccess.ox.ac.uk](http://openaccess.ox.ac.uk)
+ - date_published: 2024-06-13T19:27:52+00:00
+
+ ## OPIG
+ - [https://opig.stats.ox.ac.uk](https://opig.stats.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:25.856767+00:00
+
+ ## ORA - Oxford University Research Archive
+ - [http://ora.ouls.ox.ac.uk](http://ora.ouls.ox.ac.uk)
+ - date_published: 2024-06-22T14:01:05.541923+00:00
+
+ ## ORA - Oxford University Research Archive
+ - [https://ora.ox.ac.uk](https://ora.ox.ac.uk)
+ - date_published: 2024-05-08T09:46:31.226845+00:00
+
  ## Oxford Robotics Institute, University of Oxford, website
  - [https://ori.ox.ac.uk](https://ori.ox.ac.uk)
  - date_published: 2024-02-22T00:00:00+00:00
@@ -3853,168 +4017,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## Autodesk empowers innovators everywhere to make the new possible
  - [https://autodesk.co.uk](https://autodesk.co.uk)
  - date_published: 2024-05-22T09:04:33+00:00
-
- ## Autodesk Construction Cloud
- - [https://construction.autodesk.co.uk](https://construction.autodesk.co.uk)
- - date_published: 2024-09-13T18:47:42.243858+00:00
-
- ## Auto Express | New and Used Car Reviews, News & Advice
- - [https://autoexpress.co.uk](https://autoexpress.co.uk)
- - date_published: 2024-05-01T04:29:38.269167+00:00
-
- ## BlueConic: Log In
- - [https://c729.autoexpress.co.uk](https://c729.autoexpress.co.uk)
- - date_published: 2024-06-15T20:55:29.222829+00:00
-
- ## Login | Auto Express
- - [https://marketplace.autoexpress.co.uk](https://marketplace.autoexpress.co.uk)
- - date_published: 2024-09-19T18:49:21.723574+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://media.autoexpress.co.uk](https://media.autoexpress.co.uk)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Auto Express
- - [https://purchase.autoexpress.co.uk](https://purchase.autoexpress.co.uk)
- - date_published: 2024-06-15T20:55:22.084687+00:00
-
- ## Garage & Workshop | Welding | Heating | Autojack Tools
- - [https://www.autojacktools.co.uk](https://www.autojacktools.co.uk)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home
- - [https://automaticknowledge.co.uk](https://automaticknowledge.co.uk)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Home - Automation Update
- - [https://automation-update.co.uk](https://automation-update.co.uk)
- - date_published: 2024-06-15T23:03:52.573947+00:00
-
- ## Home - Automotive Compliance Ltd
- - [https://automotive-compliance.co.uk](https://automotive-compliance.co.uk)
- - date_published: 2024-06-16T23:54:48+00:00
-
- ## Find Your Job at Auto Trader
- - [https://careers.autotrader.co.uk](https://careers.autotrader.co.uk)
- - date_published: 2024-10-20T09:09:53.517856+00:00
-
- ## Home - Autovia
- - [https://autovia.co.uk](https://autovia.co.uk)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Abandoned Uranium Workings
- - [http://www.auwmusic.co.uk](http://www.auwmusic.co.uk)
- - date_published: 2022-05-02T21:56:43+00:00
-
- ## Avantage Reply | risk, finance and treasury management advisory
- - [https://avantage.co.uk](https://avantage.co.uk)
- - date_published: 2024-10-31T10:21:32+00:00
-
- ## Avanti West Coast | Buy Train Tickets | No Booking Fee
- - [https://www.avantiwestcoast.co.uk](https://www.avantiwestcoast.co.uk)
- - date_published: 2024-10-11T08:17:50.607335+00:00
-
- ## UK Regulated broker | Forex & CFD broker ✔️ AvaTrade
- - [https://www.avatrade.co.uk](https://www.avatrade.co.uk)
- - date_published: 2024-09-24T06:35:02+00:00
-
- ## Aviation Codes Central - Airline Codes, Airport Codes and much more.
- - [http://www.avcodes.co.uk](http://www.avcodes.co.uk)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Avia Press Associates
- - [http://aviapress.co.uk](http://aviapress.co.uk)
- - date_published: 2023-09-18T16:35:14+00:00
-
- ## This is the default server vhost
- - [http://www.aviation-news.co.uk](http://www.aviation-news.co.uk)
- - date_published: 2024-07-09T12:25:47+00:00
-
- ## Home - Avon Books
- - [https://www.avonbooks.co.uk](https://www.avonbooks.co.uk)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Mostly Moleman
- - [http://moleman.awardspace.co.uk](http://moleman.awardspace.co.uk)
- - date_published: 2011-01-18T23:00:29+00:00
-
- ## A Wargamers Needful Things
- - [https://www.awargamersneedfulthings.co.uk](https://www.awargamersneedfulthings.co.uk)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Gaming Systems & Packages By Computer Specialists | AWD-IT
- - [https://www.awd-it.co.uk](https://www.awd-it.co.uk)
- - date_published: 2024-05-04T12:20:19.690861+00:00
-
- ## Awesome Liverpool
- - [http://awesomeliverpool.co.uk](http://awesomeliverpool.co.uk)
- - date_published: 2024-04-19T17:16:40+00:00
-
- ## AXA Insurance Quotes and Claims
- - [https://www.axa.co.uk](https://www.axa.co.uk)
- - date_published: 2024-09-28T23:53:53.901053+00:00
-
- ## Home | Axco Global Insurance Conference
- - [https://axcolive.co.uk](https://axcolive.co.uk)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home - AYN RAND CENTRE
- - [https://aynrandcentre.co.uk](https://aynrandcentre.co.uk)
- - date_published: 2024-10-31T22:38:25.411167+00:00
-
- ## Best Companies | For a better workplace
- - [https://www.b.co.uk](https://www.b.co.uk)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Graphic Design, Web Design & Print in Wrexham & Chester
- - [https://www.baabaadesign.co.uk](https://www.baabaadesign.co.uk)
- - date_published: 2023-01-25T17:35:56+00:00
-
- ## BabelStone
- - [https://www.babelstone.co.uk](https://www.babelstone.co.uk)
- - date_published: 2023-10-25T22:50:46.375041+00:00
-
- ## BAD Annual Meeting - BAD Annual Meeting
- - [https://badannualmeeting.co.uk](https://badannualmeeting.co.uk)
- - date_published: 2024-07-08T21:51:12.792335+00:00
-
- ## Personalised Photo Gifts. Over 450 Photo Gifts UK
- - [https://www.bagsoflove.co.uk](https://www.bagsoflove.co.uk)
- - date_published: 2024-06-17T12:18:31.467209+00:00
-
- ## Tackling alcohol harm in the North East of England
- - [http://www.balancenortheast.co.uk](http://www.balancenortheast.co.uk)
- - date_published: 2024-10-18T21:26:25.798602+00:00
-
- ## BaLeap | Events | Weddings | Talks | Performances
- - [https://baleap2019.co.uk](https://baleap2019.co.uk)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## HOME | balr
- - [https://www.balr.co.uk](https://www.balr.co.uk)
- - date_published: 2024-07-03T15:33:56.265392+00:00
-
- ## Web design in Cardiff | Newport | Bamboo Web Design Ltd
- - [https://www.bamboowebdesign.co.uk](https://www.bamboowebdesign.co.uk)
- - date_published: 2024-07-09T17:00:50.840397+00:00
-
- ## The Morris dancers of Bampton (Oxfordshire) - Bampton Morris
- - [http://www.bamptonmorris.co.uk](http://www.bamptonmorris.co.uk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home | NationalWorld Celebrations
- - [https://celebrations.banbridgeleader.co.uk](https://celebrations.banbridgeleader.co.uk)
- - date_published: 2024-08-06T10:29:42.206408+00:00
-
- ## banfi.co.uk | IT Snippets
- - [https://banfi.co.uk](https://banfi.co.uk)
- - date_published: 2024-07-14T12:26:48.909132+00:00
-
- ## Banipal (UK) Magazine of Modern Arab Literature
- - [https://www.banipal.co.uk](https://www.banipal.co.uk)
- - date_published: 2024-10-20T23:42:56.927650+00:00
-
- ## Bankers for Net Zero
- - [https://bankersfornetzero.co.uk](https://bankersfornetzero.co.uk)
- - date_published: 2024-10-31T10:55:04.690828+00:00
 

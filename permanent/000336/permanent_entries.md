@@ -1,3 +1,115 @@
+ ## Central Placement Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://cpc.puchd.ac.in](https://cpc.puchd.ac.in)
+ - date_published: 2024-12-15T13:01:36.086078+00:00
+
+ ## Industry Academia Book
+ - [https://cpr.puchd.ac.in](https://cpr.puchd.ac.in)
+ - date_published: 2024-12-15T13:00:12.252025+00:00
+
+ ## Chandigarh Region Innovation and Knowledge Cluster (CRIKC).
+ - [https://crikc.puchd.ac.in](https://crikc.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:28.902237+00:00
+
+ ## Centre for Skill Development & Entrepreneurship Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://csde.puchd.ac.in](https://csde.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:01.124194+00:00
+
+ ## Department of Computer Science & Applications Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://dcsa.puchd.ac.in](https://dcsa.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:16.801275+00:00
+
+ ## Panjab University Directory Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://directory.puchd.ac.in](https://directory.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:36.275145+00:00
+
+ ## Dean International Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://dis.puchd.ac.in](https://dis.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:23.143230+00:00
+
+ ## Dean of University Instruction Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://dui.puchd.ac.in](https://dui.puchd.ac.in)
+ - date_published: 2024-12-15T13:01:27.785070+00:00
+
+ ## Entrepreneurship, Employability and Innovation Hub (EEI) – (RUSA-State Project Directorate, Chandigarh)
+ - [https://eei.puchd.ac.in](https://eei.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:58.067171+00:00
+
+ ## Equal Opportunity Cell for Persons with Disabilities Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://eocpwd.puchd.ac.in](https://eocpwd.puchd.ac.in)
+ - date_published: 2024-12-15T12:55:57.135615+00:00
+
+ ## Panjab University Examination Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://exams.puchd.ac.in](https://exams.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:37.742004+00:00
+
+ ## University Forms Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://forms.puchd.ac.in](https://forms.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:42.699354+00:00
+
+ ## Official Website of Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://gallery.puchd.ac.in](https://gallery.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:44.149967+00:00
+
+ ## Panjab University Hostels Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://hostels.puchd.ac.in](https://hostels.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:37.843419+00:00
+
+ ## About  -  Centre for IAS  & Other Competitive Examinations Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://iasc.puchd.ac.in](https://iasc.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:51.453945+00:00
+
+ ## DST Inspire Internship Program Centre Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://inspire.puchd.ac.in](https://inspire.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:26.727694+00:00
+
+ ## University Home
+ - [https://iqac.puchd.ac.in](https://iqac.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:49.306330+00:00
+
+ ## University Jobs Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://jobs.puchd.ac.in](https://jobs.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:14.930548+00:00
+
+ ## A. C. Joshi Library Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://library.puchd.ac.in](https://library.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:35.590098+00:00
+
+ ## National Education Policy Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://nep.puchd.ac.in](https://nep.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:01.595637+00:00
+
+ ## News & Updates - Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://news.puchd.ac.in](https://news.puchd.ac.in)
+ - date_published: 2024-12-13T00:00:00+00:00
+
+ ## Oral History Project | Early Panjab University (1947-1965)
+ - [https://oralhistory.puchd.ac.in](https://oralhistory.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:02.703526+00:00
+
+ ## Permanent Anti-Discrimination Cell for Transgender Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://padcts.puchd.ac.in](https://padcts.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:57.605548+00:00
+
+ ## Welcome to Panjab University Payment Portal ~ Pay Online | Panjab University Online Payment Portal
+ - [https://payonline.puchd.ac.in](https://payonline.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:56.322739+00:00
+
+ ## Department of Physical Education Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://physicaleducation.puchd.ac.in](https://physicaleducation.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:15.353992+00:00
+
+ ## About  -  Publication Bureau Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://publicationbureau.puchd.ac.in](https://publicationbureau.puchd.ac.in)
+ - date_published: 2024-12-15T12:56:59.735388+00:00
+
+ ## Public Relations Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://publicrelations.puchd.ac.in](https://publicrelations.puchd.ac.in)
+ - date_published: 2024-12-15T12:56:57.232779+00:00
+
+ ## Official Website of Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://puchd.ac.in](https://puchd.ac.in)
+ - date_published: 2024-10-30T20:17:45.374946+00:00
+
  ## Jyotirgamaya: 91.2 MHz - Panjab University Community Radio Station Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
  - [https://radiostation.puchd.ac.in](https://radiostation.puchd.ac.in)
  - date_published: 2024-12-15T12:56:53.704934+00:00
@@ -3920,117 +4032,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## CUCET Application Form 2025, Registration Form, Scholarships - Chandigarh University Entrance Exam Date
  - [http://cucet.cuchd.in](http://cucet.cuchd.in)
  - date_published: 2024-12-15T14:28:25.929211+00:00
-
- ## Best Private University in Punjab, North India (India) - Chandigarh University
- - [https://cuchd.in](https://cuchd.in)
- - date_published: 2024-10-30T20:26:03.534853+00:00
-
- ## Chandigarh University News
- - [https://news.cuchd.in](https://news.cuchd.in)
- - date_published: 2024-12-12T05:16:47+00:00
-
- ## Affordable Distance Education in Punjab by India’s Best Private University - Chandigarh University
- - [https://www.cuidol.in](https://www.cuidol.in)
- - date_published: 2024-12-15T14:28:29.383021+00:00
-
- ## Cujammu
- - [https://cujammu.in](https://cujammu.in)
- - date_published: 2024-06-06T12:54:28+00:00
-
- ## Best University in Uttar Pradesh (UP) - Chandigarh University Uttar Pradesh Campus
- - [http://www.culko.in](http://www.culko.in)
- - date_published: 2024-12-15T14:28:19.621084+00:00
-
- ## Welcome | CURAJ NO DUES PORTAL
- - [https://www.curaj-erp.in](https://www.curaj-erp.in)
- - date_published: 2024-12-24T12:55:23.333531+00:00
-
- ## Cyber Security
- - [https://blog.cyberbruharmy.in](https://blog.cyberbruharmy.in)
- - date_published: 2024-07-13T06:50:36.113687+00:00
-
- ## CyberBruhArmy
- - [https://course.cyberbruharmy.in](https://course.cyberbruharmy.in)
- - date_published: 2023-10-16T00:00:00+00:00
-
- ## Home
- - [https://cyberbruharmy.in](https://cyberbruharmy.in)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Engage Your Audience with Strategic PR and Integrated Annual Report Design
- - [http://cygnusadvertising.in](http://cygnusadvertising.in)
- - date_published: 2024-12-24T18:42:02.119877+00:00
-
- ## Engage Your Audience with Strategic PR and Integrated Annual Report Design
- - [http://www.cygnusadvertising.in](http://www.cygnusadvertising.in)
- - date_published: 2024-12-24T13:05:53.638494+00:00
-
- ## Pavel Czempin
- - [https://czemp.in](https://czemp.in)
- - date_published: 2024-07-07T07:15:24.522528+00:00
-
- ## dailyO - Trending News, Viral Stories, Video and Photo, Latest News Headlines
- - [https://dailyo.in](https://dailyo.in)
- - date_published: 2024-05-13T03:27:50.116366+00:00
-
- ## Daily Stormer
- - [https://dailystormer.in](https://dailystormer.in)
- - date_published: 2024-05-06T21:17:30.204079+00:00
-
- ## Dailyworld - The First International Newspaper From India!
- - [https://dailyworld.in](https://dailyworld.in)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## dallin - Overview
- - [https://dall.in](https://dall.in)
- - date_published: 2024-07-13T04:03:11.991236+00:00
-
- ## darsa.in
- - [https://darsa.in](https://darsa.in)
- - date_published: 2024-05-11T10:35:17.870438+00:00
-
- ## Data breach detection, prevention and notification - DataBreachToday
- - [https://www.databreachtoday.in](https://www.databreachtoday.in)
- - date_published: 2024-12-25T08:57:39.197458+00:00
-
- ## Sunsui Process Systems
- - [https://dataloggersindia.in](https://dataloggersindia.in)
- - date_published: 2024-06-29T10:53:20+00:00
-
- ## daylin morgan
- - [https://dayl.in](https://dayl.in)
- - date_published: 2024-06-27T20:00:39+00:00
-
- ## Daylin's Git Server
- - [https://git.dayl.in](https://git.dayl.in)
- - date_published: 2024-12-25T10:59:46.367696+00:00
-
- ## Dav Chana
- - [https://i.dc1.in](https://i.dc1.in)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Bulk Purchase on Sport Products | Decathlon Organizations (B2B)
- - [https://b2b.decathlon.in](https://b2b.decathlon.in)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Decathlon Blog: Sports Advice From Experts
- - [https://blog.decathlon.in](https://blog.decathlon.in)
- - date_published: 2024-05-28T00:00:00+00:00
- - date_dead_since: 2024-12-25T11:03:03.815159+00:00
-
- ## Decathlon - Buy Sport Products Online | Download Decathlon App
- - [https://decathlon.in](https://decathlon.in)
- - date_published: 2024-05-01T04:26:23.241811+00:00
-
- ## Careers website Decathlon Sports India Pvt Ltd
- - [https://joinus.decathlon.in](https://joinus.decathlon.in)
- - date_published: 2024-06-15T20:26:59.233038+00:00
-
- ## Careers website Decathlon Sports India Pvt Ltd
- - [https://recruitment.decathlon.in](https://recruitment.decathlon.in)
- - date_published: 2024-09-19T15:49:16.710897+00:00
-
- ## DE-CIX India | World’s Largest Internet Exchange & Peering Hub
- - [https://de-cix.in](https://de-cix.in)
- - date_published: 2024-05-31T00:00:00+00:00
 

@@ -1,3 +1,19 @@
+ ## Antigone: an open forum for Classics
+ - [https://antigonejournal.com](https://antigonejournal.com)
+ - date_published: 2023-10-25T12:41:58.956730+00:00
+
+ ## Antigoni Tsagkaropoulou - Multidisciplinary Artist
+ - [https://antigonibunny.com](https://antigonibunny.com)
+ - date_published: 2024-10-29T11:44:42.040832+00:00
+
+ ## Antigranular
+ - [https://antigranular.com](https://antigranular.com)
+ - date_published: 2024-04-22T07:37:13+00:00
+
+ ## Anti-Gravity Bunny
+ - [http://antigravitybunny.com](http://antigravitybunny.com)
+ - date_published: 2024-09-14T22:43:35.763290+00:00
+
  ## Antigravity Developer Experience
  - [https://antigravitydx.com](https://antigravitydx.com)
  - date_published: 2024-04-28T04:12:57.261292+00:00
@@ -4026,20 +4042,4 @@ my personal blog
  ## App Store Review Guidelines History
  - [http://www.appstorereviewguidelineshistory.com](http://www.appstorereviewguidelineshistory.com)
  - date_published: 2024-04-10T00:00:00+00:00
-
- ## Browse software deals for your business. | AppSumo
- - [https://appsumo.com](https://appsumo.com)
- - date_published: 2024-05-24T08:42:30.141688+00:00
-
- ## AppSumo Blog
- - [https://blog.appsumo.com](https://blog.appsumo.com)
- - date_published: 2024-08-20T05:25:35.102743+00:00
-
- ## AppSumo Help Center
- - [https://help.appsumo.com](https://help.appsumo.com)
- - date_published: 2024-08-20T05:25:33.064046+00:00
-
- ## Earn money selling digital products on AppSumo
- - [https://sell.appsumo.com](https://sell.appsumo.com)
- - date_published: 2024-02-19T00:00:00+00:00
 

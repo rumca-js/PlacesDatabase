@@ -1,3 +1,19 @@
+ ## Direct Mail | Easy-to-use email marketing app for your Mac
+ - [https://directmailmac.com](https://directmailmac.com)
+ - date_published: 2024-05-01T06:02:38.530923+00:00
+
+ ## Direct Mail | Easy-to-use email marketing app for your Mac
+ - [https://en.directmailmac.com](https://en.directmailmac.com)
+ - date_published: 2024-06-16T08:07:58.158118+00:00
+
+ ## Direct Mail | Marketing por correo electrónico sencillo para el Mac
+ - [https://es.directmailmac.com](https://es.directmailmac.com)
+ - date_published: 2024-06-16T08:07:59.272815+00:00
+
+ ## Direct Mail | Easy-to-use email marketing app for your Mac
+ - [https://five.cdn.directmailmac.com](https://five.cdn.directmailmac.com)
+ - date_published: 2024-06-16T08:08:01.972900+00:00
+
  ## Direct Mail | Le marketing par e-mail en toute simplicité sur Mac
  - [https://fr.directmailmac.com](https://fr.directmailmac.com)
  - date_published: 2024-06-16T08:08:03.345647+00:00
@@ -4017,20 +4033,4 @@
  ## Document Exploitation
  - [http://www.docexblog.com](http://www.docexblog.com)
  - date_published: 2024-04-27T06:29:25+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.docfcuonline.com](https://www.docfcuonline.com)
- - date_published: 2024-07-10T04:18:48.770565+00:00
-
- ## DocFinity Server
- - [https://vand-son.cloud.docfinity.com](https://vand-son.cloud.docfinity.com)
- - date_published: 2024-06-07T06:03:20+00:00
-
- ## About Dr. Golob - Doc Golob
- - [https://docgolob.com](https://docgolob.com)
- - date_published: 2020-01-06T00:00:00+00:00
-
- ## Sign PDF Documents | DocHub
- - [https://dochub.com](https://dochub.com)
- - date_published: 2024-09-30T15:29:56.920553+00:00
 

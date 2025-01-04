@@ -395,6 +395,10 @@
  - date_published: 2024-09-25T10:38:39.838486+00:00
 
  ## everyday
+ - [https://app.everyday.app](https://app.everyday.app)
+ - date_published: 2024-06-06T15:25:42+00:00
+
+ ## everyday
  - [https://everyday.app](https://everyday.app)
  - date_published: 2024-01-10T16:58:42+00:00
 
@@ -553,6 +557,10 @@
  ## Feedback - Feedbase
  - [https://hub.feedbase.app](https://hub.feedbase.app)
  - date_published: 2024-03-03T00:00:00+00:00
+
+ ## Feedblox - Capture Valuable Website Feedback
+ - [https://feedblox.app](https://feedblox.app)
+ - date_published: 2025-01-03T01:39:42.677963+00:00
 
  ## Feedful - a modern news reader
  - [https://feedful.app](https://feedful.app)
@@ -4026,12 +4034,4 @@ The Album
  ## Netron
  - [https://netron.app](https://netron.app)
  - date_published: 2024-06-15T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://unami.newmail.app](https://unami.newmail.app)
- - date_published: 2024-12-12T20:54:20.307603+00:00
-
- ## NFTE - Embed NFT's in your site
- - [https://nfte.app](https://nfte.app)
- - date_published: 2024-09-06T21:53:08.205217+00:00
 

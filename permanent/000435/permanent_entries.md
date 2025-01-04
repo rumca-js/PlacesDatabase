@@ -1,3 +1,162 @@
+ ## SIGMOD Record – SIGMOD Record Site
+ - [https://sigmodrecord.org](https://sigmodrecord.org)
+ - date_published: 2023-10-25T22:08:28.470823+00:00
+
+ ## Signal Messenger: Speak Freely
+ - [https://signal.org](https://signal.org)
+ - date_published: 2023-10-24T20:12:52.142794+00:00
+ - tags: ['social communicator']
+
+ ## https://support.signal.org
+ - [https://support.signal.org](https://support.signal.org)
+ - date_published: 2023-11-08T23:51:03.659129+00:00
+
+ ## Local news and resources for Clevelanders by Clevelanders
+ - [https://signalcleveland.org](https://signalcleveland.org)
+ - date_published: 2024-06-21T13:17:49+00:00
+
+ ## Home
+ - [http://signalculture.org](http://signalculture.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Signal Foundation
+ - [https://signalfoundation.org](https://signalfoundation.org)
+ - date_published: 2024-04-23T17:25:08+00:00
+ - tags: ['activism', 'free speech', 'open source', 'organisation']
+
+ ## Signal K Server
+ - [https://demo.signalk.org](https://demo.signalk.org)
+ - date_published: 2024-08-18T18:35:08.297219+00:00
+
+ ## Signal K » Welcome
+ - [https://signalk.org](https://signalk.org)
+ - date_published: 2023-10-25T22:08:31.584869+00:00
+
+ ## IEEE Signal Processing Society (SPS) ASI – IEEE Autonomous Systems Initiative (ASI)
+ - [https://ieeeasi.signalprocessingsociety.org](https://ieeeasi.signalprocessingsociety.org)
+ - date_published: 2024-07-02T01:31:36.748138+00:00
+
+ ## Home
+ - [https://rc.signalprocessingsociety.org](https://rc.signalprocessingsociety.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Welcome to IEEE Signal Processing Society
+ - [https://signalprocessingsociety.org](https://signalprocessingsociety.org)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Signal Community
+ - [https://community.signalusers.org](https://community.signalusers.org)
+ - date_published: 2023-11-08T23:51:02.541959+00:00
+
+ ## SIGNIS ALC
+ - [https://signisalc.org](https://signisalc.org)
+ - date_published: 2024-09-11T01:51:15.356878+00:00
+
+ ## SignPath Foundation
+ - [https://signpath.org](https://signpath.org)
+ - date_published: 2024-06-03T22:50:37+00:00
+ - tags: ['certificate']
+
+ ## SignServer: Open-Source Signing Software
+ - [https://www.signserver.org](https://www.signserver.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home - Signum University
+ - [https://signumuniversity.org](https://signumuniversity.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## SignWriting For Sign Languages
+ - [https://www.signwriting.org](https://www.signwriting.org)
+ - date_published: 2024-05-08T20:25:22+00:00
+
+ ## HotOS - XVII
+ - [http://hotos19.sigops.org](http://hotos19.sigops.org)
+ - date_published: 2019-05-10T13:29:52+00:00
+
+ ## SIGOPS
+ - [https://sigops.org](https://sigops.org)
+ - date_published: 2024-05-04T15:31:31.724939+00:00
+
+ ## SIGPLAN Blog
+ - [https://blog.sigplan.org](https://blog.sigplan.org)
+ - date_published: 2024-06-09T23:16:16.851639+00:00
+
+ ## HOPL IV
+ - [https://hopl4.sigplan.org](https://hopl4.sigplan.org)
+ - date_published: 2021-06-22T00:00:00+00:00
+
+ ## ICFP 2016
+ - [https://icfp16.sigplan.org](https://icfp16.sigplan.org)
+ - date_published: 2024-07-17T05:49:18.007009+00:00
+
+ ## ICFP 2017
+ - [https://icfp17.sigplan.org](https://icfp17.sigplan.org)
+ - date_published: 2024-07-17T05:49:20.404080+00:00
+
+ ## ICFP 2018
+ - [https://icfp18.sigplan.org](https://icfp18.sigplan.org)
+ - date_published: 2024-07-09T13:52:19.513351+00:00
+
+ ## ICFP 2019
+ - [https://icfp19.sigplan.org](https://icfp19.sigplan.org)
+ - date_published: 2024-07-08T15:08:16.922212+00:00
+
+ ## ICFP 2020
+ - [https://icfp20.sigplan.org](https://icfp20.sigplan.org)
+ - date_published: 2024-07-17T05:49:19.072641+00:00
+
+ ## ICFP 2021
+ - [https://icfp21.sigplan.org](https://icfp21.sigplan.org)
+ - date_published: 2024-07-17T05:49:16.542737+00:00
+
+ ## ICFP 2022
+ - [https://icfp22.sigplan.org](https://icfp22.sigplan.org)
+ - date_published: 2024-07-08T12:07:04.190983+00:00
+
+ ## ICFP 2023
+ - [https://icfp23.sigplan.org](https://icfp23.sigplan.org)
+ - date_published: 2023-10-25T22:08:36.841375+00:00
+
+ ## ICFP 2024
+ - [https://icfp24.sigplan.org](https://icfp24.sigplan.org)
+ - date_published: 2024-05-13T02:46:11.548821+00:00
+
+ ## PLDI 2015
+ - [https://pldi15.sigplan.org](https://pldi15.sigplan.org)
+ - date_published: 2024-06-20T06:00:08.621420+00:00
+
+ ## PLDI 2016
+ - [https://pldi16.sigplan.org](https://pldi16.sigplan.org)
+ - date_published: 2024-06-20T06:00:04.380019+00:00
+
+ ## PLDI 2017
+ - [https://pldi17.sigplan.org](https://pldi17.sigplan.org)
+ - date_published: 2024-06-20T06:00:12.845916+00:00
+
+ ## PLDI 2018
+ - [https://pldi18.sigplan.org](https://pldi18.sigplan.org)
+ - date_published: 2024-06-20T06:00:15.807791+00:00
+
+ ## PLDI 2019
+ - [https://pldi19.sigplan.org](https://pldi19.sigplan.org)
+ - date_published: 2024-06-20T05:54:54.339565+00:00
+
+ ## PLDI 2020
+ - [https://pldi20.sigplan.org](https://pldi20.sigplan.org)
+ - date_published: 2024-06-20T06:00:05.854005+00:00
+
+ ## PLDI 2021
+ - [https://pldi21.sigplan.org](https://pldi21.sigplan.org)
+ - date_published: 2024-06-20T06:00:07.154699+00:00
+
+ ## PLDI 2022
+ - [https://pldi22.sigplan.org](https://pldi22.sigplan.org)
+ - date_published: 2024-05-04T08:10:30.563439+00:00
+
+ ## PLDI 2023
+ - [https://pldi23.sigplan.org](https://pldi23.sigplan.org)
+ - date_published: 2024-04-28T03:26:15.245100+00:00
+
  ## PLDI 2024
  - [https://pldi24.sigplan.org](https://pldi24.sigplan.org)
  - date_published: 2024-06-20T06:00:02.983205+00:00
@@ -3871,168 +4030,4 @@ Santa Rosa Veterans Building, Santa Rosa, CA |
  ## SPEEA Website
  - [https://speea.org](https://speea.org)
  - date_published: 2024-05-09T06:49:12.802577+00:00
-
- ## National Speech & Debate Association
- - [https://www.speechanddebate.org](https://www.speechanddebate.org)
- - date_published: 2024-12-16T11:05:21.995073+00:00
-
- ## Speechki — AI Realistic Voice Generator and Text-to-Speech Solution with 1,100+ Voices in 80+ Languages
- - [https://speechki.org](https://speechki.org)
- - date_published: 2024-05-22T16:02:04+00:00
-
- ## Speed Dreams - A free Open Motorsport Sim and Open Source Racing Game
- - [http://www.speed-dreams.org](http://www.speed-dreams.org)
- - date_published: 2015-11-23T19:56:37+00:00
-
- ## Speed Force
- - [https://speedforce.org](https://speedforce.org)
- - date_published: 2024-05-15T02:46:00.127415+00:00
- - tags: ['dc', 'comics', 'flash']
-
- ## Speed Force
- - [https://st3.speedforce.org](https://st3.speedforce.org)
- - date_published: 2024-09-04T00:32:34+00:00
-
- ## Login
-         - SpeedIT Solutions
- - [https://cp.speedit.org](https://cp.speedit.org)
- - date_published: 2024-06-16T06:01:04.711625+00:00
-
- ## Startseite
- - [https://speedit.org](https://speedit.org)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Speed Art Museum
- - [https://www.speedmuseum.org](https://www.speedmuseum.org)
- - date_published: 2024-07-07T06:41:34.146406+00:00
-
- ## Speex: a free codec for free speech
- - [https://speex.org](https://speex.org)
- - date_published: 2022-06-16T00:00:00+00:00
-
- ## Spejset
- - [https://social.spejset.org](https://social.spejset.org)
- - date_published: 2024-07-02T18:43:07.731269+00:00
-
- ## Spelljammer: Beyond the Moons (For all your Spelljamming needs)
- - [http://www.spelljammer.org](http://www.spelljammer.org)
- - date_published: 2022-07-05T19:26:55+00:00
-
- ## SPEP – Society for Phenomenology and Existential Philosophy
- - [http://www.spep.org](http://www.spep.org)
- - date_published: 2024-09-15T12:59:53.045625+00:00
-
- ## Home - South Plains Food Bank
- - [https://spfb.org](https://spfb.org)
- - date_published: 2024-02-24T19:46:10+00:00
-
- ## St. Paul Homebrew Club
- - [https://sphbc.org](https://sphbc.org)
- - date_published: 2024-05-04T07:28:19.679009+00:00
-
- ## Welcome — Sphinx documentation
- - [http://sphinx-doc.org](http://sphinx-doc.org)
- - date_published: 2024-05-04T15:19:07.697474+00:00
-
- ## Sphinx Themes Gallery
- - [https://sphinx-themes.org](https://sphinx-themes.org)
- - date_published: 2024-08-12T01:03:32+00:00
-
- ## Spice.ai Blog
- - [https://blog.spiceai.org](https://blog.spiceai.org)
- - date_published: 2024-03-28T19:17:56.011421+00:00
-
- ## Home | Spice.ai OSS Docs
- - [https://docs.spiceai.org](https://docs.spiceai.org)
- - date_published: 2024-07-12T06:09:28+00:00
-
- ## spicerack.org
- - [https://spicerack.org](https://spicerack.org)
- - date_published: 2024-07-14T22:36:22.864002+00:00
-
- ## Home
- - [https://spice-space.org](https://spice-space.org)
- - date_published: 2024-04-16T18:13:53.882042+00:00
- - tags: ['open source', 'remote desktop']
-
- ## SPIDER – Inclusive digitalisation that benefits all
- - [https://spidercenter.org](https://spidercenter.org)
- - date_published: 2024-06-27T10:25:32+00:00
-
- ## SpiderFan.Org @ SpiderFan.org
- - [https://spiderfan.org](https://spiderfan.org)
- - date_published: 2024-05-17T12:17:51+00:00
- - tags: ['spiderman']
-
- ## SPIE - the international society for optics and photonics
- - [https://spie.org](https://spie.org)
- - date_published: 2024-06-20T12:04:39.114480+00:00
-
- ## Proceedings
- - [http://proceedings.spiedigitallibrary.org](http://proceedings.spiedigitallibrary.org)
- - date_published: 2024-07-15T07:08:48.509444+00:00
-
- ## Search the world's largest 
-collection of optics and
-photonics applied research.
- - [https://www.spiedigitallibrary.org](https://www.spiedigitallibrary.org)
- - date_published: 2024-07-15T07:08:58.593850+00:00
-
- ## SPIFlash.org
- - [http://spiflash.org](http://spiflash.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## SPI
- - [https://spi-inc.org](https://spi-inc.org)
- - date_published: 1999-01-01T00:00:00+00:00
- - tags: ['new york']
-
- ## Spike 150
- - [https://spike150.org](https://spike150.org)
- - date_published: 2018-04-30T19:42:46+00:00
-
- ## Kent R. Spillner
- - [https://kent.spillner.org](https://kent.spillner.org)
- - date_published: 2023-07-31T08:07:09+00:00
- - tags: ['personal']
-
- ## Home - UK Spindletop Hall
- - [http://www.spindletophall.org](http://www.spindletophall.org)
- - date_published: 2024-07-09T17:24:05.705822+00:00
-
- ## Spinwatch
- - [http://www.spinwatch.org](http://www.spinwatch.org)
- - date_published: 2024-06-28T20:57:50.195694+00:00
-
- ## Spirit of Harmony Foundation | Supporting the Moral Imperative of Music Education
- - [http://www.spiritofharmony.org](http://www.spiritofharmony.org)
- - date_published: 2024-08-20T05:04:33.729486+00:00
-
- ## Home - Spirits United
- - [https://www.spiritsunited.org](https://www.spiritsunited.org)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Spiritual Friendship
- - [https://spiritualfriendship.org](https://spiritualfriendship.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## The Network of Spiritual Progressives – A Path to a World of Love and Justice
- - [https://spiritualprogressives.org](https://spiritualprogressives.org)
- - date_published: 2024-07-19T02:27:56+00:00
-
- ## Welcome spittoon.org - FastDomain.com
- - [http://www.spittoon.org](http://www.spittoon.org)
- - date_published: 2024-10-21T13:00:44.099553+00:00
-
- ## SPJ
- - [https://my.spj.org](https://my.spj.org)
- - date_published: 2024-09-04T02:17:02.160941+00:00
-
- ## Society of Professional Journalists - Improving and protecting journalism since 1909
- - [https://spj.org](https://spj.org)
- - date_published: 2024-05-31T14:04:48.050683+00:00
-
- ## Upcoming Events | Society of Professional Journalists
- - [https://calendar.spjnetwork.org](https://calendar.spjnetwork.org)
- - date_published: 2024-09-04T00:00:00+00:00
 

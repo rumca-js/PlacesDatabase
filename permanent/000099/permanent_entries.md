@@ -1,3 +1,19 @@
+ ## Wolf3d Haven Forum - Portal
+ - [http://wolf3d.darkbb.com](http://wolf3d.darkbb.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Dark Blue Heaven
+ - [https://darkblueheaven.com](https://darkblueheaven.com)
+ - date_published: 2024-05-04T13:59:28.627566+00:00
+
+ ## Home
+ - [https://darkcandles.com](https://darkcandles.com)
+ - date_published: 2025-01-01T21:09:43+00:00
+
+ ## Dark Chestnut - Using Common Lisp in production | Dark Chestnut
+ - [https://www.darkchestnut.com](https://www.darkchestnut.com)
+ - date_published: 2024-12-15T20:46:24.017264+00:00
+
  ## Comic Artist And Game Dev | Darkchibishadow
  - [https://www.darkchibishadow.com](https://www.darkchibishadow.com)
  - date_published: 2024-12-22T12:12:23.249260+00:00
@@ -4037,20 +4053,4 @@
  ## DDD Europe 2024 - Software Modelling & Design Conference
  - [https://2024.dddeurope.com](https://2024.dddeurope.com)
  - date_published: 2024-06-11T09:25:28+00:00
-
- ## DDD Europe 2025 - Software Modelling & Design Conference
- - [https://2025.dddeurope.com](https://2025.dddeurope.com)
- - date_published: 2024-06-19T11:57:56+00:00
-
- ## Domain-Driven Design Europe
- - [https://dddeurope.com](https://dddeurope.com)
- - date_published: 2024-05-07T14:29:10.693378+00:00
-
- ## Domain-Driven Design Europe Mailing List
- - [https://newsletter.dddeurope.com](https://newsletter.dddeurope.com)
- - date_published: 2021-12-15T13:45:49+00:00
-
- ## DDD Europe Open Space
- - [https://openspace.dddeurope.com](https://openspace.dddeurope.com)
- - date_published: 2021-05-26T08:03:35+00:00
 

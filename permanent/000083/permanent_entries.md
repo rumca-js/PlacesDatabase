@@ -1,3 +1,19 @@
+ ## Translate video into impact | BriefCam
+ - [https://briefcam.com](https://briefcam.com)
+ - date_published: 2023-10-25T13:13:12.702771+00:00
+
+ ## Community Portal
+ - [https://partners.briefcam.com](https://partners.briefcam.com)
+ - date_published: 2024-05-08T03:32:21.953093+00:00
+
+ ## Executive Resume Writer & Career Coach | Briefcase Coach
+ - [https://www.briefcasecoach.com](https://www.briefcasecoach.com)
+ - date_published: 2024-12-12T15:20:38+00:00
+
+ ## Briefcase Type Foundry
+ - [https://www.briefcasetype.com](https://www.briefcasetype.com)
+ - date_published: 2024-06-19T03:14:02.512419+00:00
+
  ## Expert Legal Writing By Your Side
  - [https://briefcatch.com](https://briefcatch.com)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -4017,20 +4033,4 @@
  ## Built With Jigsaw
  - [https://builtwithjigsaw.com](https://builtwithjigsaw.com)
  - date_published: 2024-07-10T05:44:10.891227+00:00
-
- ## Event, Festival and Venue Websites built with Plot
- - [https://builtwithplot.com](https://builtwithplot.com)
- - date_published: 2024-10-20T20:29:23.927135+00:00
-
- ## Built with Statamic
- - [https://builtwithstatamic.com](https://builtwithstatamic.com)
- - date_published: 2020-09-19T04:23:30+00:00
-
- ## Built with Understanding - A digital agency based in London
- - [https://www.builtwithunderstanding.com](https://www.builtwithunderstanding.com)
- - date_published: 2021-12-14T14:07:17+00:00
-
- ## Optical Aeronomy at Boston University
- - [http://buimaging.com](http://buimaging.com)
- - date_published: 2024-04-29T05:34:49.925297+00:00
 

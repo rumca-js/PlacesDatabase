@@ -1,10 +1,152 @@
+ ## Air/Light Homepage - Air/Light
+ - [https://airlightmagazine.org](https://airlightmagazine.org)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Airlines for America
+ - [https://airlines.org](https://airlines.org)
+ - date_published: 2024-07-09T21:48:02.414423+00:00
+
+ ## Airlink Flight - Supporting Communities In Crisis
+ - [https://airlinkflight.org](https://airlinkflight.org)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Air Quality Monitoring. Monitor in UK & Europe. Airly Data Platform and Monitors | Airly
+ - [https://airly.org](https://airly.org)
+ - date_published: 2024-07-14T04:57:12.088841+00:00
+
+ ## Airminded
+ - [https://airminded.org](https://airminded.org)
+ - date_published: 2024-02-26T16:51:58.170183+00:00
+
+ ## AirMiners
+ - [https://airminers.org](https://airminers.org)
+ - date_published: 2024-07-09T09:21:08.829482+00:00
+
+ ## Home - Airport Carbon Accreditation
+ - [https://airportcarbonaccreditation.org](https://airportcarbonaccreditation.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Airports Council International - North America
+ - [https://airportscouncil.org](https://airportscouncil.org)
+ - date_published: 2024-09-10T10:25:06.922511+00:00
+
+ ## Inform USA | Formerly AIRS
+ - [https://airs.org](https://airs.org)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Inform USA Learn:  Home
+ - [https://learn.airs.org](https://learn.airs.org)
+ - date_published: 2024-07-15T05:09:31.261352+00:00
+
+ ## AirVPN - The air to breathe the real Internet - AirVPN
+ - [https://airvpn.org](https://airvpn.org)
+ - date_published: 2023-09-20T15:12:18+00:00
+
+ ## Association for Institutional Research
+ - [https://airweb.org](https://airweb.org)
+ - date_published: 2024-07-09T16:34:26.510640+00:00
+
+ ## Air Zoo Aerospace & Science Museum | Kalamazoo, MI
+ - [https://airzoo.org](https://airzoo.org)
+ - date_published: 2024-10-16T04:00:36+00:00
+
+ ## American International School Chennai | AISC
+ - [https://aischennai.org](https://aischennai.org)
+ - date_published: 2024-07-01T17:26:18+00:00
+
+ ## ICIS 2022 – ICIS 2022
+ - [https://icis2022.aisconferences.org](https://icis2022.aisconferences.org)
+ - date_published: 2024-07-01T20:04:44.479119+00:00
+
+ ## ICIS 2024 – An AIS Conference
+ - [https://icis2024.aisconferences.org](https://icis2024.aisconferences.org)
+ - date_published: 2024-07-01T20:06:27.705230+00:00
+
+ ## Home - AI Singapore
+ - [https://aisingapore.org](https://aisingapore.org)
+ - date_published: 2022-05-03T10:19:27+00:00
+
+ ## AI Singapore Community | Towards a data savvy, AI aware nation
+ - [https://connect.aisingapore.org](https://connect.aisingapore.org)
+ - date_published: 2023-12-05T22:36:46+00:00
+
+ ## LearnAI
+ - [https://learn.aisingapore.org](https://learn.aisingapore.org)
+ - date_published: 2024-07-12T08:18:55.058754+00:00
+
+ ## AI Singapore – Medium
+ - [https://medium.aisingapore.org](https://medium.aisingapore.org)
+ - date_published: 2024-07-12T08:18:46.264372+00:00
+
+ ## Online Safety Prize Challenge AI Singapore
+ - [https://ospc.aisingapore.org](https://ospc.aisingapore.org)
+ - date_published: 2024-05-10T05:10:26.818230+00:00
+
+ ## Home - AI Singapore
+ - [https://www4.aisingapore.org](https://www4.aisingapore.org)
+ - date_published: 2022-05-03T10:19:27+00:00
+ - date_dead_since: 2025-01-03T18:21:34.364099+00:00
+
+ ## AISNE – Association of Independent Schools In New England
+ - [https://aisne.org](https://aisne.org)
+ - date_published: 2024-07-12T23:08:09.804236+00:00
+
+ ## Association for Information Systems (AIS) eLibrary
+ - [https://aisel.aisnet.org](https://aisel.aisnet.org)
+ - date_published: 2024-07-27T02:47:43.563672+00:00
+
+ ## Association for Information Systems (AIS)
+ - [https://aisnet.org](https://aisnet.org)
+ - date_published: 2024-07-15T03:02:04.830525+00:00
+
+ ## Home
+ - [https://aist.org](https://aist.org)
+ - date_published: 2024-08-18T19:29:31.207865+00:00
+
+ ## Home
+ - [https://aistats.org](https://aistats.org)
+ - date_published: 2023-07-27T20:00:53+00:00
+
+ ## 2024 Conference
+ - [https://virtual.aistats.org](https://virtual.aistats.org)
+ - date_published: 2024-07-01T20:06:15.492591+00:00
+
+ ## International Academy of Sport Science and Technology
+ - [https://aists.org](https://aists.org)
+ - date_published: 2024-05-12T07:16:33.419615+00:00
+
+ ## Aito
+ - [https://aito.org](https://aito.org)
+ - date_published: 2024-07-22T11:31:23.855835+00:00
+
+ ## AITopics
+ - [https://aitopics.org](https://aitopics.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Representation Engineering: A Top-Down Approach to AI Transparency
+ - [https://ai-transparency.org](https://ai-transparency.org)
+ - date_published: 2024-07-06T19:50:28.194291+00:00
+
+ ## Home - Planned Giving - Amnesty International
+ - [https://aiusalegacy.org](https://aiusalegacy.org)
+ - date_published: 2024-10-31T20:13:33.619398+00:00
+
+ ## Home - AIVA
+ - [https://aiva.org](https://aiva.org)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## AIware 2024
+ - [https://2024.aiwareconf.org](https://2024.aiwareconf.org)
+ - date_published: 2024-08-06T04:28:08.144877+00:00
+
  ## AIWOD | AI Workout of the Day
- - [https://www.aiwod.org](https://www.aiwod.org)
+ - [https://aiwod.org](https://aiwod.org)
  - date_published: 2024-06-19T20:36:42.393207+00:00
 
  ## AI Writer - free Notion-like text editor with AI features
  - [https://ai-writer.org](https://ai-writer.org)
  - date_published: 2024-06-14T08:51:28.588344+00:00
+ - date_dead_since: 2025-01-03T18:33:53.708465+00:00
 
  ## AIXR XR Awards - 8 Years of VR, AR & MR Celebration by AIXR
  - [https://vrawards.aixr.org](https://vrawards.aixr.org)
@@ -15,7 +157,7 @@
  - date_published: 2024-05-01T03:40:59.156339+00:00
 
  ## AJAC | Advanced Manufacturing Apprenticeships
- - [https://www.ajactraining.org](https://www.ajactraining.org)
+ - [https://ajactraining.org](https://ajactraining.org)
  - date_published: 2024-04-02T00:00:00+00:00
 
  ## Andrea Kramm
@@ -50,16 +192,16 @@
  - [https://ajcgermany.org](https://ajcgermany.org)
  - date_published: 2024-06-17T12:28:16+00:00
 
+ ## Adam DeConinck
+ - [https://ajdecon.org](https://ajdecon.org)
+ - date_published: 2023-06-19T21:02:49+00:00
+
  ## thinking out loud – works in progress and scattered thoughts, often about computers
  - [https://thinking.ajdecon.org](https://thinking.ajdecon.org)
  - date_published: 2024-02-26T15:10:56.934550+00:00
 
- ## Adam DeConinck
- - [https://www.ajdecon.org](https://www.ajdecon.org)
- - date_published: 2023-06-19T21:02:49+00:00
-
  ## Inicio - Aje
- - [https://www.ajeecuador.org](https://www.ajeecuador.org)
+ - [https://ajeecuador.org](https://ajeecuador.org)
  - date_published: 2021-02-13T00:00:00+00:00
 
  ## ajft.org
@@ -67,7 +209,7 @@
  - date_published: 2024-05-12T06:14:04.225736+00:00
 
  ## Home | Anna Jaques Hospital
- - [https://www.ajh.org](https://www.ajh.org)
+ - [https://ajh.org](https://ajh.org)
  - date_published: 2024-07-15T04:24:41.846947+00:00
 
  ## American Jewish Historical Society
@@ -79,15 +221,15 @@
  - date_published: 2024-03-05T00:00:00+00:00
 
  ## https://www.ajicjournal.org
- - [https://ajicjournal.org](https://ajicjournal.org)
+ - [http://ajicjournal.org](http://ajicjournal.org)
  - date_published: 2024-01-25T18:17:06.459124+00:00
 
  ## Ajila : Nous protégeons votre cœur
- - [http://ajila.org](http://ajila.org)
+ - [https://ajila.org](https://ajila.org)
  - date_published: 2024-07-12T05:42:30.598457+00:00
 
  ## Cierpliwości...
- - [http://ajkd.org](http://ajkd.org)
+ - [https://ajkd.org](https://ajkd.org)
  - date_published: 2024-06-28T11:50:18.997550+00:00
 
  ## AJKD Blog
@@ -103,7 +245,7 @@
  - date_published: 2024-04-30T06:01:18.325986+00:00
 
  ## Cierpliwości...
- - [https://www.ajpmonline.org](https://www.ajpmonline.org)
+ - [http://ajpmonline.org](http://ajpmonline.org)
  - date_published: 2024-07-06T19:17:59.215487+00:00
 
  ## American Journalism Review
@@ -111,19 +253,19 @@
  - date_published: 2019-04-15T14:43:00+00:00
 
  ## American Journalism Review - Archives
- - [http://ajrarchive.org](http://ajrarchive.org)
+ - [https://ajrarchive.org](https://ajrarchive.org)
  - date_published: 2024-07-19T03:04:25.612808+00:00
 
  ## Cierpliwości...
- - [http://www.ajronline.org](http://www.ajronline.org)
+ - [https://ajronline.org](https://ajronline.org)
  - date_published: 2024-06-20T02:29:25.599296+00:00
 
  ## American Journal of Science
- - [http://www.ajsonline.org](http://www.ajsonline.org)
+ - [https://ajsonline.org](https://ajsonline.org)
  - date_published: 2024-06-30T02:32:37.928552+00:00
 
  ## Home
- - [https://www.ajtmh.org](https://www.ajtmh.org)
+ - [https://ajtmh.org](https://ajtmh.org)
  - date_published: 2024-10-20T07:19:45.676782+00:00
 
  ## AJUG | Atlanta Java User Group
@@ -149,6 +291,7 @@
  ## https://blog.akatz.org
  - [https://blog.akatz.org](https://blog.akatz.org)
  - date_published: 2023-10-25T20:55:21.266459+00:00
+ - date_dead_since: 2025-01-03T18:40:40.347956+00:00
 
  ## American Kennel Club
  - [https://akc.org](https://akc.org)
@@ -171,11 +314,11 @@
  - date_published: 2024-09-13T00:00:00+00:00
 
  ## AKCHumaneFund
- - [https://www.akchumanefund.org](https://www.akchumanefund.org)
+ - [https://akchumanefund.org](https://akchumanefund.org)
  - date_published: 2024-09-17T21:28:48.290528+00:00
 
  ## Pet Microchips | Lost Pet Recovery | AKC Reunite
- - [https://www.akcreunite.org](https://www.akcreunite.org)
+ - [https://akcreunite.org](https://akcreunite.org)
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## AKAH – HP – Habitat Planning
@@ -187,11 +330,11 @@
  - date_published: 2024-12-24T20:36:43.734244+00:00
 
  ## AKENS – Arbeitskreis zur Erforschung des Nationalsozialismus in Schleswig-Holstein e.V.
- - [http://www.akens.org](http://www.akens.org)
+ - [https://akens.org](https://akens.org)
  - date_published: 2024-07-03T11:46:07+00:00
 
  ## Alaska's 33rd legislature | Alaska House Coalition
- - [https://www.akhouse.org](https://www.akhouse.org)
+ - [https://akhouse.org](https://akhouse.org)
  - date_published: 2023-02-01T23:56:16+00:00
 
  ## Akku.scm - Scheme package manager
@@ -199,27 +342,28 @@
  - date_published: 2024-11-13T18:30:38+00:00
 
  ## Home Page
- - [https://www.akpress.org](https://www.akpress.org)
+ - [https://akpress.org](https://akpress.org)
  - date_published: 2024-07-10T08:46:42.640893+00:00
 
  ## Revolution by the Book - The AK Press Blog
- - [http://www.revolutionbythebook.akpress.org](http://www.revolutionbythebook.akpress.org)
+ - [https://revolutionbythebook.akpress.org](https://revolutionbythebook.akpress.org)
  - date_published: 2024-08-19T22:03:59.608710+00:00
 
  ## AKRO Invest – Best Trader
  - [https://akroinvest.org](https://akroinvest.org)
  - date_published: 2024-07-01T10:11:23.685960+00:00
+ - date_dead_since: 2025-01-03T18:41:55.825870+00:00
 
  ## Home
- - [http://www.akronartmuseum.org](http://www.akronartmuseum.org)
+ - [https://akronartmuseum.org](https://akronartmuseum.org)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## AKSW - aksw.org Research Group dataset
- - [http://aksw.org](http://aksw.org)
+ - [https://aksw.org](https://aksw.org)
  - date_published: 2024-03-28T19:02:53+00:00
 
  ## Aktion Courage e.V.: Startseite
- - [https://www.aktioncourage.org](https://www.aktioncourage.org)
+ - [https://aktioncourage.org](https://aktioncourage.org)
  - date_published: 2024-09-12T15:59:33.099954+00:00
 
  ## ana | [:en]text and pictures[:es]textos y fotos[:]
@@ -271,11 +415,11 @@
  - date_published: 2024-03-25T18:44:59+00:00
 
  ## América Latina en movimiento
- - [http://alainet.org](http://alainet.org)
+ - [https://alainet.org](https://alainet.org)
  - date_published: 2024-10-21T18:31:58.492836+00:00
 
  ## Alabama League of Municipalities
- - [http://www.alalm.org](http://www.alalm.org)
+ - [https://alalm.org](https://alalm.org)
  - date_published: 2024-07-22T08:34:22.716688+00:00
 
  ## Home
@@ -287,7 +431,7 @@
  - date_published: 2024-08-10T10:02:14+00:00
 
  ## Alarming Development
- - [http://alarmingdevelopment.org](http://alarmingdevelopment.org)
+ - [https://alarmingdevelopment.org](https://alarmingdevelopment.org)
  - date_published: 2024-03-11T00:00:00+00:00
 
  ## Alarm Phone - Hotline support for people crossing the Mediterranean Sea to the EU
@@ -295,15 +439,15 @@
  - date_published: 2024-10-16T20:45:53.610863+00:00
 
  ## Alaska Alliance | United to Prevent Alcohol Misuse & Promote Community Wellness
- - [http://alaska-alliance.org](http://alaska-alliance.org)
+ - [https://alaska-alliance.org](https://alaska-alliance.org)
  - date_published: 2024-09-16T07:06:35.750027+00:00
 
  ## HOME | American Graduate | Alaska Public Media
- - [https://www.alaskaatwork.org](https://www.alaskaatwork.org)
+ - [https://alaskaatwork.org](https://alaskaatwork.org)
  - date_published: 2023-02-13T00:00:00+00:00
 
  ## Alaska Children's Trust
- - [https://www.alaskachildrenstrust.org](https://www.alaskachildrenstrust.org)
+ - [https://alaskachildrenstrust.org](https://alaskachildrenstrust.org)
  - date_published: 2024-07-07T04:40:38.059544+00:00
 
  ## Alaska Donor Registry - Home
@@ -331,11 +475,11 @@
  - date_published: 2024-07-31T00:00:00+00:00
 
  ## Home - Alaska Senate Majority
- - [http://www.alaskasenate.org](http://www.alaskasenate.org)
+ - [https://alaskasenate.org](https://alaskasenate.org)
  - date_published: 2024-07-03T12:55:05.168041+00:00
 
  ## Alaska Teachers and Personnel
- - [https://www.alaskateacher.org](https://www.alaskateacher.org)
+ - [https://alaskateacher.org](https://alaskateacher.org)
  - date_published: 2024-07-03T13:02:13.115255+00:00
 
  ## Alaska Wildfire Explorer
@@ -345,17 +489,18 @@
  ## About the Alaska Native Curriculum and Teacher Development Project
  - [http://www.alaskool.org](http://www.alaskool.org)
  - date_published: 2021-07-09T22:00:52+00:00
+ - date_dead_since: 2025-01-03T18:51:09.689074+00:00
 
  ## Home
  - [https://alastaircampbell.org](https://alastaircampbell.org)
  - date_published: 2024-12-31T08:08:24.368864+00:00
 
  ## Home
- - [http://www.alastaircampbell.org](http://www.alastaircampbell.org)
+ - [https://www.alastaircampbell.org](https://www.alastaircampbell.org)
  - date_published: 2024-10-21T11:59:11.651881+00:00
 
  ## Welcome | Alaveteli | mySociety
- - [http://alaveteli.org](http://alaveteli.org)
+ - [https://alaveteli.org](https://alaveteli.org)
  - date_published: 2024-08-14T16:24:06+00:00
 
  ## Albacon
@@ -375,7 +520,7 @@
  - date_published: 2024-05-12T00:00:00+00:00
 
  ## المؤسسة الدولية للتنمية
- - [http://ida.albankaldawli.org](http://ida.albankaldawli.org)
+ - [https://ida.albankaldawli.org](https://ida.albankaldawli.org)
  - date_published: 2024-07-15T14:50:17+00:00
 
  ## Home
@@ -403,7 +548,7 @@
  - date_published: 2024-07-11T15:44:56.328417+00:00
 
  ## Bot Verification
- - [http://www.albarakahcoop.org](http://www.albarakahcoop.org)
+ - [https://albarakahcoop.org](https://albarakahcoop.org)
  - date_published: 2024-09-24T21:41:08.798070+00:00
 
  ## The Albemarle Charlottesville Historical Society
@@ -411,15 +556,15 @@
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Dog Adoption | Albert's Dog Lounge | United States
- - [https://www.albertsdoglounge.org](https://www.albertsdoglounge.org)
+ - [https://albertsdoglounge.org](https://albertsdoglounge.org)
  - date_published: 2024-06-20T23:55:23.945033+00:00
 
  ## ALBION SC Boulder | Home
- - [http://www.albionscbouldercounty.org](http://www.albionscbouldercounty.org)
+ - [https://albionscbouldercounty.org](https://albionscbouldercounty.org)
  - date_published: 2024-07-09T18:40:45+00:00
 
  ## Home | Buffalo AKG Art Museum
- - [http://www.albrightknox.org](http://www.albrightknox.org)
+ - [https://albrightknox.org](https://albrightknox.org)
  - date_published: 2024-06-28T13:53:04+00:00
 
  ## Home - Albright LIFE Centers
@@ -427,7 +572,7 @@
  - date_published: 2024-12-21T11:27:02.607666+00:00
 
  ## Cierpliwości...
- - [https://www.albumoftheyear.org](https://www.albumoftheyear.org)
+ - [http://albumoftheyear.org](http://albumoftheyear.org)
  - date_published: 2024-06-23T01:59:09.207273+00:00
 
  ## Welcome to the Town of Alburgh's Municipal and Community Website - Town of Alburgh
@@ -435,11 +580,11 @@
  - date_published: 2024-12-27T23:42:04.493176+00:00
 
  ## Cumbre por la Allianza
- - [https://www.dominicana.alcaldesporelclima.org](https://www.dominicana.alcaldesporelclima.org)
+ - [https://dominicana.alcaldesporelclima.org](https://dominicana.alcaldesporelclima.org)
  - date_published: 2021-05-10T23:52:50+00:00
 
  ## ALCDEF Database
- - [http://alcdef.org](http://alcdef.org)
+ - [https://alcdef.org](https://alcdef.org)
  - date_published: 2024-10-27T09:12:33.516105+00:00
 
  ## Alchemy Pay - Bridging the Fiat and Crypto Global Economies
@@ -447,7 +592,7 @@
  - date_published: 2024-09-20T06:45:32+00:00
 
  ## Inicio | Alcles
- - [http://www.alcles.org](http://www.alcles.org)
+ - [https://alcles.org](https://alcles.org)
  - date_published: 2024-04-03T00:00:00+00:00
 
  ## Alcohol Forum Ireland
@@ -467,7 +612,7 @@
  - date_published: 2018-08-03T21:48:18+00:00
 
  ## ALEC Exposed
- - [https://www.alecexposed.org](https://www.alecexposed.org)
+ - [https://alecexposed.org](https://alecexposed.org)
  - date_published: 2024-06-30T02:33:08.278482+00:00
 
  ## ALEF - Act for human rights
@@ -543,7 +688,7 @@
  - date_published: 2024-05-09T22:45:41+00:00
 
  ## Alexandria Search
- - [https://www.alexandria.org](https://www.alexandria.org)
+ - [https://alexandria.org](https://alexandria.org)
  - date_published: 2024-06-10T06:58:18+00:00
  - tags: ['open source', 'search engine']
 
@@ -552,7 +697,7 @@
  - date_published: 2024-05-02T00:00:00+00:00
 
  ## Alex Conrad
- - [http://www.alexconrad.org](http://www.alexconrad.org)
+ - [http://alexconrad.org](http://alexconrad.org)
  - date_published: 2024-04-15T01:16:04+00:00
 
  ## Alex's Development Site
@@ -568,7 +713,7 @@
  - date_published: 2024-04-29T03:26:32.015489+00:00
 
  ## alexking.org
- - [http://alexking.org](http://alexking.org)
+ - [https://alexking.org](https://alexking.org)
  - date_published: 2024-07-13T09:44:32+00:00
 
  ## my $log;
@@ -576,7 +721,7 @@
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## Alex Marshall
- - [http://www.alexmarshall.org](http://www.alexmarshall.org)
+ - [https://alexmarshall.org](https://alexmarshall.org)
  - date_published: 2024-06-28T12:54:56.164041+00:00
 
  ## Alexandru Nedelcu - On programming and personal projects
@@ -592,15 +737,15 @@
  - date_published: 2024-08-18T00:00:00+00:00
 
  ## Alex's Archives
- - [http://www.alexsarchives.org](http://www.alexsarchives.org)
+ - [http://alexsarchives.org](http://alexsarchives.org)
  - date_published: 2024-07-08T09:17:35.286510+00:00
 
  ## Alex Shapiro, Composer
- - [https://www.alexshapiro.org](https://www.alexshapiro.org)
+ - [https://alexshapiro.org](https://alexshapiro.org)
  - date_published: 2024-07-04T15:25:52+00:00
 
  ## Inicio - Asociación Salud Mental León
- - [http://www.alfaem.org](http://www.alfaem.org)
+ - [https://alfaem.org](https://alfaem.org)
  - date_published: 2024-08-06T22:50:59.353731+00:00
 
  ## Home - Alfie Kohn
@@ -611,13 +756,13 @@
  - [https://algalita.org](https://algalita.org)
  - date_published: 2024-08-18T00:00:00+00:00
 
+ ## AlgebraicJulia
+ - [https://algebraicjulia.org](https://algebraicjulia.org)
+ - date_published: 2024-06-29T03:19:09.991895+00:00
+
  ## AlgebraicJulia blog - Posts
  - [https://blog.algebraicjulia.org](https://blog.algebraicjulia.org)
  - date_published: 2024-06-29T03:19:08.462700+00:00
-
- ## AlgebraicJulia
- - [https://www.algebraicjulia.org](https://www.algebraicjulia.org)
- - date_published: 2024-06-29T03:19:09.991895+00:00
 
  ## Fame - Food Autonomy and Mutual Empowerment.
  - [https://algofame.org](https://algofame.org)
@@ -652,15 +797,15 @@
  - date_published: 2024-01-09T03:38:05.013663+00:00
 
  ## AALT
- - [http://algorithmiclearningtheory.org](http://algorithmiclearningtheory.org)
+ - [https://algorithmiclearningtheory.org](https://algorithmiclearningtheory.org)
  - date_published: 2018-07-21T03:13:54+00:00
 
  ## ALT 2019 | ALT 2019 Homepage
- - [http://alt2019.algorithmiclearningtheory.org](http://alt2019.algorithmiclearningtheory.org)
+ - [https://alt2019.algorithmiclearningtheory.org](https://alt2019.algorithmiclearningtheory.org)
  - date_published: 2020-06-24T20:09:18+00:00
 
  ## ALT 2020 | ALT 2020 Homepage
- - [http://alt2020.algorithmiclearningtheory.org](http://alt2020.algorithmiclearningtheory.org)
+ - [https://alt2020.algorithmiclearningtheory.org](https://alt2020.algorithmiclearningtheory.org)
  - date_published: 2020-12-01T22:17:23+00:00
 
  ## PACT
@@ -688,23 +833,23 @@
  - date_published: 2024-09-04T19:42:19.366447+00:00
 
  ## ALIANTE | Bridging the Intellectual Property Gap
- - [https://www.aliante.org](https://www.aliante.org)
+ - [https://aliante.org](https://aliante.org)
  - date_published: 2024-05-06T21:34:54.768126+00:00
+
+ ## Alicante hotels & apartments, all accommodations in Alicante
+ - [https://alicantehotel.org](https://alicantehotel.org)
+ - date_published: 2024-06-21T16:21:06.898808+00:00
 
  ## Apartment San Roque Apartment Alicante, Spain - book now, 2024 prices
  - [https://san-roque-apartment.alicantehotel.org](https://san-roque-apartment.alicantehotel.org)
  - date_published: 2024-05-04T13:04:00.788086+00:00
 
- ## Alicante hotels & apartments, all accommodations in Alicante
- - [https://www.alicantehotel.org](https://www.alicantehotel.org)
- - date_published: 2024-06-21T16:21:06.898808+00:00
-
  ## Alice – Tell Stories. Build Games. Learn to Program.
- - [http://www.alice.org](http://www.alice.org)
+ - [https://alice.org](https://alice.org)
  - date_published: 2024-07-07T06:36:44.912685+00:00
 
  ## Welcome To The Muhammad Ali Center - Muhammad Ali Center
- - [http://alicenter.org](http://alicenter.org)
+ - [https://alicenter.org](https://alicenter.org)
  - date_published: 2023-01-19T02:38:38+00:00
 
  ## AliceVision | Photogrammetric Computer Vision Framework
@@ -713,7 +858,7 @@
  - tags: ['photogrammetry', 'open source']
 
  ## Welcome to the International Society for Artificial Life
- - [http://www.alife.org](http://www.alife.org)
+ - [https://alife.org](https://alife.org)
  - date_published: 2024-02-12T00:00:00+00:00
 
  ## Alight: A future beyond displacement
@@ -745,11 +890,11 @@
  - date_published: 2024-01-25T00:00:00+00:00
 
  ## Home | Alabama Coalition for Immigrant Justice
- - [https://www.alimmigrant.org](https://www.alimmigrant.org)
+ - [https://alimmigrant.org](https://alimmigrant.org)
  - date_published: 2024-09-25T18:52:31.677475+00:00
 
  ## Home
- - [https://www.alirezafathi.org](https://www.alirezafathi.org)
+ - [https://alirezafathi.org](https://alirezafathi.org)
  - date_published: 2024-06-22T08:14:41.481347+00:00
 
  ## Alison Weir
@@ -777,7 +922,7 @@
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## Cornell Lab Bird Cams
- - [http://cams.allaboutbirds.org](http://cams.allaboutbirds.org)
+ - [https://cams.allaboutbirds.org](https://cams.allaboutbirds.org)
  - date_published: 2024-02-13T00:00:00+00:00
 
  ## CLO Lightbox
@@ -793,8 +938,8 @@
  - date_published: 2024-06-15T12:22:36.702731+00:00
 
  ## Frogland!
- - [http://allaboutfrogs.org](http://allaboutfrogs.org)
- - date_published: 2024-07-04T14:46:15.581374+00:00
+ - [https://allaboutfrogs.org](https://allaboutfrogs.org)
+ - date_published: 2015-07-23T20:26:46+00:00
 
  ## Log in!
  - [https://app.allaccessible.org](https://app.allaccessible.org)
@@ -831,6 +976,7 @@
  ## ALLDIGITAL
  - [https://extranet.all-digital.org](https://extranet.all-digital.org)
  - date_published: 2024-07-02T23:18:02.943205+00:00
+ - date_dead_since: 2025-01-03T19:08:44.850977+00:00
 
  ## ALL DIGITAL SUMMIT 2021 | Oct 13-15 | ONLINE
  - [https://summit.all-digital.org](https://summit.all-digital.org)
@@ -845,15 +991,15 @@
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.allegacyfcu.org](https://www.allegacyfcu.org)
+ - [http://allegacyfcu.org](http://allegacyfcu.org)
  - date_published: 2024-07-10T04:40:20.192142+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.allegacyinvestmentgroup.org](https://www.allegacyinvestmentgroup.org)
+ - [http://allegacyinvestmentgroup.org](http://allegacyinvestmentgroup.org)
  - date_published: 2024-07-10T04:40:04.834789+00:00
 
  ## Allegany County Arts Council
- - [https://www.alleganyartscouncil.org](https://www.alleganyartscouncil.org)
+ - [https://alleganyartscouncil.org](https://alleganyartscouncil.org)
  - date_published: 2024-05-18T00:00:00+00:00
 
  ## Home
@@ -887,6 +1033,7 @@
  ## Ask Delphi
  - [https://delphi.allenai.org](https://delphi.allenai.org)
  - date_published: 2023-10-31T16:43:15+00:00
+ - date_dead_since: 2025-01-03T19:10:44.662101+00:00
 
  ## AI2 Leaderboard
  - [https://leaderboard.allenai.org](https://leaderboard.allenai.org)
@@ -933,7 +1080,7 @@
  - date_published: 2024-02-29T00:00:00+00:00
 
  ## Allentown Art Museum | Discover Art in the Lehigh Valley
- - [http://www.allentownartmuseum.org](http://www.allentownartmuseum.org)
+ - [https://allentownartmuseum.org](https://allentownartmuseum.org)
  - date_published: 2024-06-22T00:00:00+00:00
 
  ## Allergy & Asthma Network | Breathe Better Together
@@ -946,19 +1093,19 @@
  - tags: ['wagner']
 
  ## All-geo: The best of Geology and Earth Science on the web
- - [http://all-geo.org](http://all-geo.org)
+ - [https://all-geo.org](https://all-geo.org)
  - date_published: 2024-07-02T14:43:18.539569+00:00
 
  ## Allhit - Sumber Terbaik untuk Berita Judi Online Terkini
- - [https://www.allhit.org](https://www.allhit.org)
+ - [https://allhit.org](https://allhit.org)
  - date_published: 2024-08-20T04:11:14.960254+00:00
 
  ## Alliance Defending Freedom
- - [http://www.alliancedefendingfreedom.org](http://www.alliancedefendingfreedom.org)
+ - [https://alliancedefendingfreedom.org](https://alliancedefendingfreedom.org)
  - date_published: 2024-06-28T20:41:31+00:00
 
  ## alliance for biodiversity knowledge
- - [https://www.allianceforbio.org](https://www.allianceforbio.org)
+ - [https://allianceforbio.org](https://allianceforbio.org)
  - date_published: 2024-09-06T00:00:00+00:00
 
  ## Home
@@ -982,11 +1129,11 @@
  - date_published: 2024-05-12T03:58:04.530160+00:00
 
  ## Accueil | Alliance Française Paris - Île de France
- - [http://www.alliancefr.org](http://www.alliancefr.org)
+ - [https://alliancefr.org](https://alliancefr.org)
  - date_published: 2024-06-17T15:43:47.754040+00:00
 
  ## Alliance of Genome Resources
- - [https://www.alliancegenome.org](https://www.alliancegenome.org)
+ - [https://alliancegenome.org](https://alliancegenome.org)
  - date_published: 2024-06-26T22:33:40+00:00
 
  ## Home - Alliance for Hydromet Development
@@ -996,6 +1143,7 @@
  ## The Alliance of Independent Authors
  - [http://allianceindependentauthors.org](http://allianceindependentauthors.org)
  - date_published: 2024-01-17T00:00:00+00:00
+ - date_dead_since: 2025-01-03T19:14:00.710040+00:00
 
  ## Alliance magazine - The only philanthropy magazine with a global focus
  - [https://www.alliancemagazine.org](https://www.alliancemagazine.org)
@@ -1006,7 +1154,7 @@
  - date_published: 2024-04-15T00:00:00+00:00
 
  ## Homepage
- - [https://www.allianceni.org](https://www.allianceni.org)
+ - [https://allianceni.org](https://allianceni.org)
  - date_published: 2024-09-13T01:21:38+00:00
 
  ## Alliance of Democracies
@@ -1014,7 +1162,7 @@
  - date_published: 2023-10-25T20:55:45.299398+00:00
 
  ## Nationwide Digital Banking, Credit Cards, Loans | Alliant Credit Union
- - [https://www.alliantcreditunion.org](https://www.alliantcreditunion.org)
+ - [http://alliantcreditunion.org](http://alliantcreditunion.org)
  - date_published: 2024-05-01T05:48:49.050317+00:00
 
  ## Allied Academies | International Academic Journals
@@ -1034,11 +1182,11 @@
  - date_published: 2024-12-30T15:10:17.254474+00:00
 
  ## Allina Health: Providing Health Care & Medical Services In Minnesota & Western Wisconsin
- - [https://www.allinahealth.org](https://www.allinahealth.org)
+ - [https://allinahealth.org](https://allinahealth.org)
  - date_published: 2024-10-18T16:25:33.566762+00:00
 
  ## All in One Runtimes
- - [https://www.allinoneruntimes.org](https://www.allinoneruntimes.org)
+ - [https://allinoneruntimes.org](https://allinoneruntimes.org)
  - date_published: 2024-07-10T08:59:43.756143+00:00
 
  ## Bugzilla Main Page
@@ -1046,7 +1194,7 @@
  - date_published: 2024-08-18T20:39:27.972104+00:00
 
  ## ALL NATURAL BATS 100% NATURAL HUMAN-BLOOD FED BATS
- - [http://www.allnaturalbats.org](http://www.allnaturalbats.org)
+ - [https://allnaturalbats.org](https://allnaturalbats.org)
  - date_published: 2024-02-03T22:11:55+00:00
 
  ## Site is undergoing maintenance
@@ -1086,7 +1234,7 @@
  - date_published: 2024-05-26T12:01:52+00:00
 
  ## All Star Night 2024
- - [https://www.allstarnight.org](https://www.allstarnight.org)
+ - [https://allstarnight.org](https://allstarnight.org)
  - date_published: 2024-09-16T11:12:32.829580+00:00
 
  ## All Tech Is Human
@@ -1126,7 +1274,7 @@
  - date_published: 2024-02-06T00:00:00+00:00
 
  ## Carnegie Mellon All University Orchestra
- - [http://alluniversityorchestra.org](http://alluniversityorchestra.org)
+ - [https://alluniversityorchestra.org](https://alluniversityorchestra.org)
  - date_published: 2024-06-13T18:52:09+00:00
 
  ## Allure Report — Open-source HTML test automation report tool
@@ -1134,7 +1282,7 @@
  - date_published: 2024-11-05T17:11:24.406973+00:00
 
  ## Home - All Voting is Local
- - [https://www.allvotingislocal.org](https://www.allvotingislocal.org)
+ - [http://allvotingislocal.org](http://allvotingislocal.org)
  - date_published: 2024-04-25T00:00:00+00:00
 
  ## All Within My Hands Foundation | Metallica's Nonprofit
@@ -1146,7 +1294,7 @@
  - date_published: 2024-08-18T17:47:03.740138+00:00
 
  ## Almaden Futbol Club | Where Preparation Meets Opportunity!
- - [http://www.almadenfc.org](http://www.almadenfc.org)
+ - [https://almadenfc.org](https://almadenfc.org)
  - date_published: 2024-07-09T23:06:04.524425+00:00
 
  ## AlmaLinux OS - Forever-Free Enterprise-Grade Operating System
@@ -1215,27 +1363,27 @@
  - date_published: 2024-08-07T22:56:16.368497+00:00
 
  ## Dog Rescue in Arizona | Almost There Rescue
- - [https://www.almostthererescue.org](https://www.almostthererescue.org)
+ - [https://almostthererescue.org](https://almostthererescue.org)
  - date_published: 2024-07-08T23:03:02.428702+00:00
 
  ## Al Musawwir
- - [http://almusawwir.org](http://almusawwir.org)
+ - [https://almusawwir.org](https://almusawwir.org)
  - date_published: 2024-10-21T18:41:17.146521+00:00
 
  ## ALPACA Experiment
- - [http://alpaca-experiment.org](http://alpaca-experiment.org)
+ - [https://alpaca-experiment.org](https://alpaca-experiment.org)
  - date_published: 2024-06-23T23:41:35.177236+00:00
 
  ## Tansu Alpcan Homepage
- - [http://tansu.alpcan.org](http://tansu.alpcan.org)
+ - [https://tansu.alpcan.org](https://tansu.alpcan.org)
  - date_published: 2024-09-01T02:59:29+00:00
 
  ## Welcome to Alphabet City
- - [http://alphabet-city.org](http://alphabet-city.org)
+ - [https://alphabet-city.org](https://alphabet-city.org)
  - date_published: 2024-09-03T21:57:12.318694+00:00
 
  ## Alphabettes
- - [https://www.alphabettes.org](https://www.alphabettes.org)
+ - [https://alphabettes.org](https://alphabettes.org)
  - date_published: 2024-09-17T16:52:36.331409+00:00
 
  ## Alpha Galileo |  alphagalileo.org
@@ -1247,11 +1395,11 @@
  - date_published: 2024-09-15T00:00:00+00:00
 
  ## Alphastream | The Alphastream Game Design Blog
- - [http://alphastream.org](http://alphastream.org)
+ - [https://alphastream.org](https://alphastream.org)
  - date_published: 2024-07-14T19:50:10+00:00
 
  ## alphaXiv: Open research discussion on top of arXiv
- - [https://www.alphaxiv.org](https://www.alphaxiv.org)
+ - [https://alphaxiv.org](https://alphaxiv.org)
  - date_published: 2024-09-08T06:57:18+00:00
 
  ## index | Alpine Linux
@@ -1287,7 +1435,7 @@
  - date_published: 2024-05-21T02:45:41.018252+00:00
 
  ## Index of /alpine/
- - [http://uk.alpinelinux.org](http://uk.alpinelinux.org)
+ - [https://uk.alpinelinux.org](https://uk.alpinelinux.org)
  - date_published: 2024-07-20T15:58:57.901967+00:00
 
  ## Alpine Linux
@@ -1315,15 +1463,15 @@
  - date_published: 2024-07-14T21:00:55+00:00
 
  ## The ALS Association: Dedicated to Finding a Cure for ALS
- - [https://www.als.org](https://www.als.org)
+ - [https://als.org](https://als.org)
  - date_published: 2024-07-09T20:56:40+00:00
 
  ## The ALS Association Iowa Chapter
- - [http://webia.alsa.org](http://webia.alsa.org)
- - date_published: 2024-07-20T11:36:38.916534+00:00
+ - [https://webia.alsa.org](https://webia.alsa.org)
+ - date_published: 2001-01-08T16:26:47+00:00
 
  ## AlsaProject
- - [https://www.alsa-project.org](https://www.alsa-project.org)
+ - [https://alsa-project.org](https://alsa-project.org)
  - date_published: 2024-01-29T00:00:00+00:00
 
  ## Alfred E. Smith Memorial Foundation | Alfred E. Smith Memorial Foundation
@@ -1331,11 +1479,11 @@
  - date_published: 2024-12-21T09:38:15.172504+00:00
 
  ## NetHack Patch Database
- - [http://bilious.alt.org](http://bilious.alt.org)
+ - [https://bilious.alt.org](https://bilious.alt.org)
  - date_published: 2024-07-11T11:36:25.868777+00:00
 
  ## Festival Alta Felicità
- - [https://www.altafelicita.org](https://www.altafelicita.org)
+ - [https://altafelicita.org](https://altafelicita.org)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## Altared lives Brings Most Latest News To You
@@ -1355,7 +1503,7 @@
  - date_published: 2024-09-24T09:43:38.288044+00:00
 
  ## Expedition
- - [http://expedition.altcoinchain.org](http://expedition.altcoinchain.org)
+ - [https://expedition.altcoinchain.org](https://expedition.altcoinchain.org)
  - date_published: 2024-09-24T06:54:38.718169+00:00
 
  ## Welcome to nginx!
@@ -1363,7 +1511,7 @@
  - date_published: 2020-04-21T14:09:01+00:00
 
  ## Association of Language Testers in Europe (ALTE) - Home
- - [https://www.alte.org](https://www.alte.org)
+ - [https://alte.org](https://alte.org)
  - date_published: 2024-10-15T02:17:55.575694+00:00
 
  ## Altenwald Blog
@@ -1383,7 +1531,7 @@
  - date_published: 2024-09-09T00:00:00+00:00
 
  ## Les Alternatifs
- - [http://www.alternatifs.org](http://www.alternatifs.org)
+ - [http://alternatifs.org](http://alternatifs.org)
  - date_published: 2024-10-21T18:18:46.584558+00:00
 
  ## Homepage - Alternative Families
@@ -1403,11 +1551,11 @@
  - date_published: 2020-07-18T00:00:00+00:00
 
  ## Alter-Psy
- - [http://alter-psy.org](http://alter-psy.org)
+ - [https://alter-psy.org](https://alter-psy.org)
  - date_published: 2024-07-02T23:06:22+00:00
 
  ## Alterscope
- - [https://www.alterscope.org](https://www.alterscope.org)
+ - [https://alterscope.org](https://alterscope.org)
  - date_published: 2024-08-19T00:00:00+00:00
 
  ## Altertek
@@ -1435,7 +1583,7 @@
  - date_published: 2008-03-16T19:06:47+00:00
 
  ## Create a blog or website for free and make money online
- - [http://altervista.org](http://altervista.org)
+ - [https://altervista.org](https://altervista.org)
  - date_published: 2024-06-21T06:35:19+00:00
  - tags: ['blog source']
 
@@ -1445,15 +1593,15 @@
  - tags: ['reverse engineering', 'personal']
 
  ## Digital Wonderland
- - [http://amelia.altervista.org](http://amelia.altervista.org)
+ - [https://amelia.altervista.org](https://amelia.altervista.org)
  - date_published: 2024-06-20T21:25:49.141534+00:00
 
  ## Atlante della Chiesa
- - [http://atlasofchurch.altervista.org](http://atlasofchurch.altervista.org)
+ - [https://atlasofchurch.altervista.org](https://atlasofchurch.altervista.org)
  - date_published: 2024-10-22T06:49:26.501649+00:00
 
  ## Blog di Altervista
- - [http://blog.altervista.org](http://blog.altervista.org)
+ - [https://blog.altervista.org](https://blog.altervista.org)
  - date_published: 2024-06-21T06:42:55.396407+00:00
 
  ## No signal | Chine da Giò
@@ -1461,7 +1609,7 @@
  - date_published: 2020-08-27T00:00:00+00:00
 
  ## Coffee Girl
- - [http://coffeegirl.altervista.org](http://coffeegirl.altervista.org)
+ - [https://coffeegirl.altervista.org](https://coffeegirl.altervista.org)
  - date_published: 2024-06-20T21:15:27.301100+00:00
 
  ## ComputerCow
@@ -1470,27 +1618,27 @@
  - tags: ['personal']
 
  ## .:::::C0ntradicti0n:::::.
- - [http://contradiction.altervista.org](http://contradiction.altervista.org)
+ - [https://contradiction.altervista.org](https://contradiction.altervista.org)
  - date_published: 2024-06-20T21:14:06.985875+00:00
 
  ## Crave - Mindy's Collective
- - [http://crave.altervista.org](http://crave.altervista.org)
+ - [https://crave.altervista.org](https://crave.altervista.org)
  - date_published: 2024-06-20T21:16:20.725158+00:00
 
  ## Creattivamente... Lulù
- - [http://creattivamentelulu.altervista.org](http://creattivamentelulu.altervista.org)
+ - [https://creattivamentelulu.altervista.org](https://creattivamentelulu.altervista.org)
  - date_published: 2024-04-19T07:48:22+00:00
 
  ## Home | Blog di Cristiana Ziraldo
- - [http://cristianaziraldo.altervista.org](http://cristianaziraldo.altervista.org)
+ - [https://cristianaziraldo.altervista.org](https://cristianaziraldo.altervista.org)
  - date_published: 2024-06-30T04:46:59.529551+00:00
 
  ## Captivated - Denise's fanlisting collective
- - [http://denise.altervista.org](http://denise.altervista.org)
+ - [https://denise.altervista.org](https://denise.altervista.org)
  - date_published: 2024-06-20T21:25:41.577880+00:00
 
  ## Welcome, to Jennifer's Place >>>>> Open 24 hours!
- - [http://edgeofseventeen.altervista.org](http://edgeofseventeen.altervista.org)
+ - [https://edgeofseventeen.altervista.org](https://edgeofseventeen.altervista.org)
  - date_published: 2024-01-09T00:00:00+00:00
 
  ## Create a blog or website for free and make money online
@@ -1498,27 +1646,27 @@
  - date_published: 2024-06-21T06:42:57.534769+00:00
 
  ## FANDERFUL
- - [http://fanderful.altervista.org](http://fanderful.altervista.org)
+ - [https://fanderful.altervista.org](https://fanderful.altervista.org)
  - date_published: 2024-06-20T21:26:42.573593+00:00
 
  ## Simple Devotion
- - [http://fangirl.altervista.org](http://fangirl.altervista.org)
+ - [https://fangirl.altervista.org](https://fangirl.altervista.org)
  - date_published: 2024-06-20T21:16:08.199134+00:00
 
  ## Fanique - a fanlisting collective
- - [http://fanique.altervista.org](http://fanique.altervista.org)
+ - [https://fanique.altervista.org](https://fanique.altervista.org)
  - date_published: 2024-06-20T21:16:20.041368+00:00
 
  ## The Red Herring Collective
- - [http://fanlisting.altervista.org](http://fanlisting.altervista.org)
+ - [https://fanlisting.altervista.org](https://fanlisting.altervista.org)
  - date_published: 2024-06-20T21:26:43.074304+00:00
 
  ## F A N L Y
- - [http://fanly.altervista.org](http://fanly.altervista.org)
+ - [https://fanly.altervista.org](https://fanly.altervista.org)
  - date_published: 2024-06-20T21:17:39.593423+00:00
 
  ## Archived web site
- - [https://flaviosoldanigraficaepc.altervista.org](https://flaviosoldanigraficaepc.altervista.org)
+ - [http://flaviosoldanigraficaepc.altervista.org](http://flaviosoldanigraficaepc.altervista.org)
  - date_published: 2024-07-09T16:30:15.270361+00:00
 
  ## AlterVista
@@ -1530,15 +1678,15 @@
  - date_published: 2024-06-27T10:17:56.388358+00:00
 
  ## Insanely Devoted
- - [http://harleenquinn.altervista.org](http://harleenquinn.altervista.org)
+ - [https://harleenquinn.altervista.org](https://harleenquinn.altervista.org)
  - date_published: 2024-06-20T21:14:09.652574+00:00
 
  ## Two Harts
- - [http://hart.altervista.org](http://hart.altervista.org)
+ - [https://hart.altervista.org](https://hart.altervista.org)
  - date_published: 2024-06-20T21:25:54.043085+00:00
 
  ## Altervista Wiki
- - [http://help.altervista.org](http://help.altervista.org)
+ - [https://help.altervista.org](https://help.altervista.org)
  - date_published: 2016-10-03T23:44:35+00:00
 
  ## Il Boschetto di Ylith – «Nullus enim locus sine genio est»
@@ -1550,7 +1698,7 @@
  - date_published: 2024-09-02T16:57:51.650821+00:00
 
  ## Immortel ~ Estelle's Collective
- - [http://immortel.altervista.org](http://immortel.altervista.org)
+ - [https://immortel.altervista.org](https://immortel.altervista.org)
  - date_published: 2024-07-07T01:53:24.503571+00:00
 
  ## Crea un blog o un sito web gratis e guadagna online
@@ -1570,15 +1718,15 @@
  - date_published: 2024-08-10T23:49:28.970215+00:00
 
  ## Kelli [dot] altervista [dot] org
- - [http://kelli.altervista.org](http://kelli.altervista.org)
+ - [https://kelli.altervista.org](https://kelli.altervista.org)
  - date_published: 2024-06-20T21:15:59.093483+00:00
 
  ## Torn Pages
- - [http://kelsey.altervista.org](http://kelsey.altervista.org)
+ - [https://kelsey.altervista.org](https://kelsey.altervista.org)
  - date_published: 2019-12-15T00:00:00+00:00
 
  ## Addictive Devotion @ Lecter's Girl | ft. HANNIBAL LECTER / CLARICE STARLING
- - [http://lectersgirl.altervista.org](http://lectersgirl.altervista.org)
+ - [https://lectersgirl.altervista.org](https://lectersgirl.altervista.org)
  - date_published: 2024-06-20T21:17:14.742909+00:00
 
  ## Le Storie Cucite di Crudis – Fatti e misfatti di manufatti
@@ -1586,7 +1734,7 @@
  - date_published: 2024-09-02T16:50:36.271496+00:00
 
  ## LOVE SUPREME ------- MY FANLISTING COLLECTIVE
- - [http://lovesupreme.altervista.org](http://lovesupreme.altervista.org)
+ - [https://lovesupreme.altervista.org](https://lovesupreme.altervista.org)
  - date_published: 2024-06-20T21:26:34.978724+00:00
 
  ## Redirecting to home page
@@ -1598,15 +1746,15 @@
  - date_published: 2016-07-12T05:23:51+00:00
 
  ## Midnight Rendezvous
- - [http://midnightrendezvous.altervista.org](http://midnightrendezvous.altervista.org)
+ - [https://midnightrendezvous.altervista.org](https://midnightrendezvous.altervista.org)
  - date_published: 2024-06-20T21:15:37.294134+00:00
 
  ## Gotham
- - [http://morveen.altervista.org](http://morveen.altervista.org)
+ - [https://morveen.altervista.org](https://morveen.altervista.org)
  - date_published: 2024-06-20T21:14:44.741011+00:00
 
  ## Sweater Weather - a fanlisting collective
- - [http://nicolemadison.altervista.org](http://nicolemadison.altervista.org)
+ - [https://nicolemadison.altervista.org](https://nicolemadison.altervista.org)
  - date_published: 2024-06-20T21:15:29.009773+00:00
 
  ## PKLucky's Fanlistings Collective
@@ -1626,7 +1774,7 @@
  - date_published: 2024-06-20T21:14:17.956777+00:00
 
  ## Evidence
- - [http://scarlet.altervista.org](http://scarlet.altervista.org)
+ - [https://scarlet.altervista.org](https://scarlet.altervista.org)
  - date_published: 2024-06-20T21:17:40.059524+00:00
 
  ## some bits of me
@@ -1634,28 +1782,33 @@
  - date_published: 2024-05-07T23:47:02.867371+00:00
 
  ## Starlit ~ Lila's Fanlisting Collective
- - [http://starlit.altervista.org](http://starlit.altervista.org)
+ - [https://starlit.altervista.org](https://starlit.altervista.org)
  - date_published: 2024-06-20T21:26:51.745764+00:00
 
  ## THIRTEENTH FLOOR | collective
- - [http://thirteenthfloor.altervista.org](http://thirteenthfloor.altervista.org)
+ - [https://thirteenthfloor.altervista.org](https://thirteenthfloor.altervista.org)
  - date_published: 2024-05-21T00:00:00+00:00
 
  ## Winters Eve | Holly's fanlisting collective
- - [http://winterseve.altervista.org](http://winterseve.altervista.org)
+ - [https://winterseve.altervista.org](https://winterseve.altervista.org)
  - date_published: 2024-06-20T21:16:37.368348+00:00
 
  ## Archived web site
  - [http://www.fofitalia.altervista.org](http://www.fofitalia.altervista.org)
  - date_published: 2024-07-11T12:29:09.513814+00:00
+ - date_dead_since: 2025-01-03T19:29:25.493425+00:00
 
  ## Home | Altexxa Group
  - [https://altexxanet.org](https://altexxanet.org)
  - date_published: 2024-01-09T03:38:12.068195+00:00
 
  ## Alt Gov - Stay Informed, Entertained, and Up-To-Date
- - [http://altgov2.org](http://altgov2.org)
+ - [https://altgov2.org](https://altgov2.org)
  - date_published: 2024-07-06T10:16:21+00:00
+
+ ## ALT Linux Wiki
+ - [https://altlinux.org](https://altlinux.org)
+ - date_published: 2024-02-23T19:56:30+00:00
 
  ## ALT Linux Bugzilla Main Page
  - [https://bugzilla.altlinux.org](https://bugzilla.altlinux.org)
@@ -1673,20 +1826,16 @@
  - [https://packages.altlinux.org](https://packages.altlinux.org)
  - date_published: 2024-05-11T00:00:00+00:00
 
- ## ALT Linux Wiki
- - [https://www.altlinux.org](https://www.altlinux.org)
- - date_published: 2024-02-23T19:56:30+00:00
-
  ## Wholesale Meditation & sound healing instruments manufacturer
  - [http://altmusictv.org](http://altmusictv.org)
  - date_published: 2024-12-31T06:04:32+00:00
 
  ## Alternative Party – OTA – Order of the Alternative
- - [http://www.altparty.org](http://www.altparty.org)
+ - [https://altparty.org](https://altparty.org)
  - date_published: 2024-06-30T07:51:29.938713+00:00
 
  ## Altra Federal Credit Union | Helping You Live Your Best Life
- - [https://www.altra.org](https://www.altra.org)
+ - [http://altra.org](http://altra.org)
  - date_published: 2024-05-01T06:31:51.241707+00:00
 
  ## Altruisme Efficace France
@@ -1702,15 +1851,15 @@
  - date_published: 2024-02-04T04:58:03+00:00
 
  ## ALU: Association of Lisp Users
- - [http://wiki.alu.org](http://wiki.alu.org)
- - date_published: 2024-08-07T13:43:01.194988+00:00
+ - [https://wiki.alu.org](https://wiki.alu.org)
+ - date_published: 2017-07-15T08:01:04+00:00
 
  ## Luigi Auriemma
- - [http://aluigi.org](http://aluigi.org)
+ - [https://aluigi.org](https://aluigi.org)
  - date_published: 2022-08-24T09:20:43+00:00
 
  ## Luigi Auriemma
- - [http://mirror.aluigi.org](http://mirror.aluigi.org)
+ - [https://mirror.aluigi.org](https://mirror.aluigi.org)
  - date_published: 2022-08-24T15:14:46+00:00
 
  ## Alumni Assoc. White-Label Event & Webinar Program | PBC Guru
@@ -1730,7 +1879,7 @@
  - date_published: 2024-12-15T12:55:59.386363+00:00
 
  ## Elevate IMS - Integrated Member Services - Elevate IMS
- - [http://alumnirecords.org](http://alumnirecords.org)
+ - [https://alumnirecords.org](https://alumnirecords.org)
  - date_published: 2024-07-04T15:30:44.922871+00:00
 
  ## Alutiiq Museum and Archaeological Repository in Kodiak, Alaska
@@ -1749,6 +1898,7 @@
  - [https://alxq.org](https://alxq.org)
  - date_published: 2024-01-04T19:16:07+00:00
  - tags: ['demoscene']
+ - date_dead_since: 2025-01-03T19:35:04.725477+00:00
 
  ## Alys Stephens Center - Home
  - [https://alysstephens.org](https://alysstephens.org)
@@ -1775,7 +1925,7 @@
  - date_published: 2024-07-07T03:25:30.595667+00:00
 
  ## Homepage | Alzheimer's Foundation of America
- - [http://www.alzfdn.org](http://www.alzfdn.org)
+ - [https://alzfdn.org](https://alzfdn.org)
  - date_published: 2024-08-19T00:00:00+00:00
 
  ## ALZFORUM | NETWORKING FOR A CURE
@@ -1783,12 +1933,16 @@
  - date_published: 2024-01-28T01:07:09.880336+00:00
 
  ## Alzheimer's Orange County
- - [https://www.alzoc.org](https://www.alzoc.org)
+ - [https://alzoc.org](https://alzoc.org)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Academic Placement Home
  - [https://academicplacement.ama.org](https://academicplacement.ama.org)
  - date_published: 2024-07-01T06:38:58.227202+00:00
+
+ ## American Marketing Association | AMA
+ - [https://ama.org](https://ama.org)
+ - date_published: 2024-06-26T00:00:00+00:00
 
  ## Marketing Jobs | Sales Jobs | Advertising Jobs | American Marketing Association Job Board
  - [https://jobs.ama.org](https://jobs.ama.org)
@@ -1806,10 +1960,6 @@
  - [https://mediakit.ama.org](https://mediakit.ama.org)
  - date_published: 2024-07-01T06:38:38.271673+00:00
 
- ## American Marketing Association | AMA
- - [https://www.ama.org](https://www.ama.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
  ## Home Page - AMA Alliance
  - [https://amaalliance.org](https://amaalliance.org)
  - date_published: 2024-04-23T00:00:00+00:00
@@ -1823,7 +1973,7 @@
  - date_published: 2024-01-22T00:00:00+00:00
 
  ## AMA Ed Hub is online learning from the AMA and other trusted sources – all in one place.
- - [https://cdn.edhub.ama-assn.org](https://cdn.edhub.ama-assn.org)
+ - [http://cdn.edhub.ama-assn.org](http://cdn.edhub.ama-assn.org)
  - date_published: 2024-07-09T14:53:40.109211+00:00
 
  ## AMA Store
@@ -1831,7 +1981,7 @@
  - date_published: 2024-04-05T00:00:00+00:00
 
  ## American Medical Association
- - [https://compliance.ama-assn.org](https://compliance.ama-assn.org)
+ - [http://compliance.ama-assn.org](http://compliance.ama-assn.org)
  - date_published: 2024-07-09T15:00:20.474891+00:00
 
  ## AMA Ed Hub is online learning from the AMA and other trusted sources – all in one place.
@@ -1839,7 +1989,7 @@
  - date_published: 2024-05-09T05:33:04.524348+00:00
 
  ## Featured Educational CME and MOC Activities from the AMA Ed Hub
- - [https://education.ama-assn.org](https://education.ama-assn.org)
+ - [http://education.ama-assn.org](http://education.ama-assn.org)
  - date_published: 2024-07-09T14:53:44.240562+00:00
 
  ## | FREIDA
@@ -1851,7 +2001,7 @@
  - date_published: 2024-03-11T00:00:00+00:00
 
  ## FREIDA Residency Program Database | Medical Fellowship Database | AMA
- - [https://freida-test.ama-assn.org](https://freida-test.ama-assn.org)
+ - [http://freida-test.ama-assn.org](http://freida-test.ama-assn.org)
  - date_published: 2024-07-09T14:59:38.044947+00:00
 
  ## Access Manager for Web Login
@@ -1859,7 +2009,7 @@
  - date_published: 2024-05-09T05:33:09.694940+00:00
 
  ## Home of JAMA and the Specialty Journals of the American Medical Association
- - [http://jama.ama-assn.org](http://jama.ama-assn.org)
+ - [https://jama.ama-assn.org](https://jama.ama-assn.org)
  - date_published: 2024-06-17T11:59:17.703559+00:00
 
  ## Journal of Ethics | American Medical Association
@@ -1907,7 +2057,7 @@
  - date_published: 2024-07-09T14:53:45.669975+00:00
 
  ## Amabla - Co-working Space à Villeurbanne
- - [https://www.amabla.org](https://www.amabla.org)
+ - [https://amabla.org](https://amabla.org)
  - date_published: 2024-04-15T12:28:55+00:00
 
  ## Academy | Arts and Science | American Academy of Arts and Science
@@ -1923,15 +2073,15 @@
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## Amah Mutsun Land Trust
- - [https://www.amahmutsunlandtrust.org](https://www.amahmutsunlandtrust.org)
+ - [https://amahmutsunlandtrust.org](https://amahmutsunlandtrust.org)
  - date_published: 2024-09-16T04:15:05.946306+00:00
 
  ## Home | Amalgamated Foundation
- - [https://www.amalgamatedfoundation.org](https://www.amalgamatedfoundation.org)
+ - [https://amalgamatedfoundation.org](https://amalgamatedfoundation.org)
  - date_published: 2024-06-28T17:38:48+00:00
 
  ## Amanda Tapping's Embracing Mental Health as a Fandom
- - [https://www.amandatappingbook.org](https://www.amandatappingbook.org)
+ - [https://amandatappingbook.org](https://amandatappingbook.org)
  - date_published: 2024-08-14T17:35:19+00:00
 
  ## Professor Amandeep S. Sidhu
@@ -1943,7 +2093,7 @@
  - date_published: 2023-05-02T00:00:00+00:00
 
  ## Home - AMA Puget Sound
- - [http://amapugetsound.org](http://amapugetsound.org)
+ - [https://amapugetsound.org](https://amapugetsound.org)
  - date_published: 2024-09-12T00:00:00+00:00
 
  ## Video Subtitling, Captioning and Subtitle Translation Editor & Services - Amara Subtitling
@@ -1971,16 +2121,18 @@
  - date_published: 2024-06-30T08:08:14.669582+00:00
 
  ## amavisd-new
- - [http://www.amavis.org](http://www.amavis.org)
+ - [https://amavis.org](https://amavis.org)
  - date_published: 2018-10-09T12:54:07+00:00
 
  ## Redshift Research Project
  - [https://www.amazonredshiftresearchproject.org](https://www.amazonredshiftresearchproject.org)
  - date_published: 2023-10-25T20:56:09.348250+00:00
+ - date_dead_since: 2025-01-03T19:41:05.502842+00:00
 
  ## Amazon Conservation Team | Protecting the Amazon in Partnership with Indigenous and Other Local Communities
  - [https://amazonteam.org](https://amazonteam.org)
  - date_published: 2024-05-22T00:00:00+00:00
+ - date_dead_since: 2025-01-03T19:41:09.240879+00:00
 
  ## La France en Belgique
  - [https://be.ambafrance.org](https://be.ambafrance.org)
@@ -2009,13 +2161,15 @@
  ## La France en Lituanie
  - [http://www.ambafrance-lt.org](http://www.ambafrance-lt.org)
  - date_published: 2024-07-01T11:52:54+00:00
+ - date_dead_since: 2025-01-03T19:44:06.368268+00:00
 
  ## Франция в России
  - [http://www.ambafrance-ru.org](http://www.ambafrance-ru.org)
  - date_published: 2024-06-30T09:08:51+00:00
+ - date_dead_since: 2025-01-03T19:44:07.704753+00:00
 
  ## Reach Higher Together | EBAA Ambassador
- - [https://www.ambassador-ebaa.org](https://www.ambassador-ebaa.org)
+ - [https://ambassador-ebaa.org](https://ambassador-ebaa.org)
  - date_published: 2024-10-11T00:00:00+00:00
 
  ## The Amber Molecular Dynamics Package
@@ -2031,7 +2185,7 @@
  - date_published: 2024-12-22T19:13:48+00:00
 
  ## Alexandre Magnin - Illustrations & animations for Sustainability
- - [http://amcreative.org](http://amcreative.org)
+ - [https://amcreative.org](https://amcreative.org)
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## AMCS – Association for Mathematical Consciousness Science
@@ -2043,7 +2197,7 @@
  - date_published: 2024-06-05T00:00:00+00:00
 
  ## Aura
- - [http://aura.amelica.org](http://aura.amelica.org)
+ - [https://aura.amelica.org](https://aura.amelica.org)
  - date_published: 2024-09-20T22:23:59+00:00
 
  ## Índice de revistas en consolidación AmeliCA
@@ -2055,7 +2209,7 @@
  - date_published: 2024-10-29T16:51:22.446701+00:00
 
  ## ACA Home
- - [http://amercrystalassn.org](http://amercrystalassn.org)
+ - [https://amercrystalassn.org](https://amercrystalassn.org)
  - date_published: 2024-06-17T11:46:19+00:00
 
  ## ACA History
@@ -2091,7 +2245,7 @@
  - date_published: 2024-05-09T07:33:03.103225+00:00
 
  ## Attention Required! | Cloudflare
- - [https://onlinebanking.american1cu.org](https://onlinebanking.american1cu.org)
+ - [http://onlinebanking.american1cu.org](http://onlinebanking.american1cu.org)
  - date_published: 2024-07-10T04:11:32.883883+00:00
 
  ## American Action Forum
@@ -2103,11 +2257,11 @@
  - date_published: 2023-10-25T20:56:15.359706+00:00
 
  ## Home
- - [https://www.americanagingassociation.org](https://www.americanagingassociation.org)
+ - [https://americanagingassociation.org](https://americanagingassociation.org)
  - date_published: 2024-07-22T08:22:59+00:00
 
  ## Home - Americana Highways
- - [http://americanahighways.org](http://americanahighways.org)
+ - [https://americanahighways.org](https://americanahighways.org)
  - date_published: 2024-07-04T00:00:00+00:00
 
  ## American Alpine Club
@@ -3891,147 +4045,4 @@
  ## Alçada Baptista - Cultura dos Afectos
  - [http://www.antonioalcadabaptista.org](http://www.antonioalcadabaptista.org)
  - date_published: 2022-12-07T18:10:34+00:00
-
- ## Anton Zhiyanov
- - [https://antonz.org](https://antonz.org)
- - date_published: 2023-10-25T08:57:18.278632+00:00
- - tags: ['personal']
-
- ## Antora
- - [https://antora.org](https://antora.org)
- - date_published: 2024-12-21T11:39:14.445525+00:00
-
- ## Index of /
- - [http://www.antus.org](http://www.antus.org)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## 20 Jahre Antville
- - [https://20jahre.antville.org](https://20jahre.antville.org)
- - date_published: 2024-10-31T04:46:59.922718+00:00
-
- ## About Antville.org 🐜
- - [https://about.antville.org](https://about.antville.org)
- - date_published: 2024-10-31T04:46:56.441812+00:00
-
- ## albatros | texte
- - [https://albatros.antville.org](https://albatros.antville.org)
- - date_published: 2024-10-31T04:47:01.258272+00:00
-
- ## < < < Pan-O-Rama > > >
- - [https://allerh.antville.org](https://allerh.antville.org)
- - date_published: 2024-10-31T04:46:40.466719+00:00
-
- ## Antville.org
- - [https://antville.org](https://antville.org)
- - date_published: 2024-06-19T22:14:40.573057+00:00
-
- ## blat.antville: Simon's Blawg
- - [http://blat.antville.org](http://blat.antville.org)
- - date_published: 2024-07-13T10:38:25.546766+00:00
-
- ## Cloudscapes
- - [https://cloudscapes.antville.org](https://cloudscapes.antville.org)
- - date_published: 2024-10-31T04:46:44.441061+00:00
-
- ## denkblasen 2.0
- - [https://denkblasen.antville.org](https://denkblasen.antville.org)
- - date_published: 2024-10-31T04:46:35.396871+00:00
-
- ## Dienstagszeichnen
- - [https://dienstagszeichnen.antville.org](https://dienstagszeichnen.antville.org)
- - date_published: 2024-10-31T04:46:53.234053+00:00
-
- ## kebo11
- - [https://monolog.antville.org](https://monolog.antville.org)
- - date_published: 2024-12-31T21:13:04.206370+00:00
-
- ## GitHub - antville/antville: The Queen Mum of Weblog Hosting Systems – written in server-side JavaScript since 2001.
- - [https://project.antville.org](https://project.antville.org)
- - date_published: 2024-10-31T04:46:32.984628+00:00
-
- ## Hier gibt es nur Schilder. Von ueberall meinetwegen ueber alles. Aber Schilder. Fuehlen Sie sich frei in diese Seite welche reinzukleben.
- - [https://sees.antville.org](https://sees.antville.org)
- - date_published: 2024-10-31T04:46:48.221333+00:00
-
- ## It's a shampoo world anyway
- - [http://shampoo.antville.org](http://shampoo.antville.org)
- - date_published: 2024-10-16T04:37:20.213106+00:00
-
- ## Dazwischen
- - [https://sorry.antville.org](https://sorry.antville.org)
- - date_published: 2024-10-31T04:46:55.227492+00:00
-
- ## tofuhaus
- - [http://tofuhaus.antville.org](http://tofuhaus.antville.org)
- - date_published: 2024-10-21T05:28:18.646795+00:00
-
- ## Children of Anu
- - [https://anuchildren.org](https://anuchildren.org)
- - date_published: 2024-12-20T00:00:00+00:00
-
- ## Anu Initiative - Trusty Tech in service of Mother Nature
- - [https://anuinitiative.org](https://anuinitiative.org)
- - date_published: 2021-12-04T10:53:47+00:00
-
- ## Accueil - Action non-violente COP21
- - [https://anv-cop21.org](https://anv-cop21.org)
- - date_published: 2024-07-10T07:41:05.995898+00:00
-
- ## AnyBrowser Pages
- - [https://anybrowser.org](https://anybrowser.org)
- - date_published: 2024-06-23T18:31:06.801678+00:00
-
- ## Redactle - A daily puzzle game
- - [https://redactle.anybrowser.org](https://redactle.anybrowser.org)
- - date_published: 2023-08-21T06:40:00+00:00
-
- ## AnyCodeGen
- - [https://www.anycodegen.org](https://www.anycodegen.org)
- - date_published: 2021-09-13T15:27:14+00:00
-
- ## AnyLeaf sensors
- - [https://anyleaf.org](https://anyleaf.org)
- - date_published: 2024-07-23T23:31:01.881131+00:00
-
- ## Anyterm - Introduction
- - [https://anyterm.org](https://anyterm.org)
- - date_published: 2018-08-20T23:59:52+00:00
-
- ## Home | Australian and New Zealand Society of Indexers – Australian and New Zealand Society of Indexers
- - [http://www.anzsi.org](http://www.anzsi.org)
- - date_published: 2024-12-21T12:45:46.095992+00:00
-
- ## Home
-        |
-        Archive of Our Own
- - [https://ao3.org](https://ao3.org)
- - date_published: 2024-12-22T11:40:28.220112+00:00
-
- ## AOAC INTERNATIONAL
- - [https://aoac.org](https://aoac.org)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Food Safety & Product Integrity Jobs - AOAC INTERNATIONAL
- - [https://careers.aoac.org](https://careers.aoac.org)
- - date_published: 2024-09-16T01:22:20.879455+00:00
-
- ## Sign In
- - [https://members.aoac.org](https://members.aoac.org)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Reference Material Search
- - [http://tdrmdb.aoac.org](http://tdrmdb.aoac.org)
- - date_published: 2024-09-16T01:22:16.473631+00:00
-
- ## | Association of Internet Researchers
- - [https://aoir.org](https://aoir.org)
- - date_published: 2024-05-11T09:33:45.770741+00:00
-
- ## Association of Internet Researchers - Membership Info
- - [https://members.aoir.org](https://members.aoir.org)
- - date_published: 2024-07-14T05:10:04.939710+00:00
-
- ## AoIR Selected Papers of Internet Research
- - [https://spir.aoir.org](https://spir.aoir.org)
- - date_published: 2024-10-17T22:26:43.050547+00:00
 

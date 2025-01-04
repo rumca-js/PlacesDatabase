@@ -1,3 +1,15 @@
+ ## 信息化建设与发展中心
+ - [http://it.hfut.edu.cn](http://it.hfut.edu.cn)
+ - date_published: 2024-07-12T09:00:08+00:00
+
+ ## 合肥工业大学继续教育学院
+ - [http://jxjy.hfut.edu.cn](http://jxjy.hfut.edu.cn)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## 科研院
+ - [http://kyy.hfut.edu.cn](http://kyy.hfut.edu.cn)
+ - date_published: 2024-07-12T16:07:37.245524+00:00
+
  ## 合肥工业大学图书馆
  - [http://lib.hfut.edu.cn](http://lib.hfut.edu.cn)
  - date_published: 2024-07-12T00:00:00+00:00
@@ -3991,16 +4003,4 @@
  ## 辽宁省机关党建网
  - [http://www.lnjgdj.gov.cn](http://www.lnjgdj.gov.cn)
  - date_published: 2024-06-27T00:00:00+00:00
-
- ## 辽宁纪检监察网
- - [http://www.lnsjjjc.gov.cn](http://www.lnsjjjc.gov.cn)
- - date_published: 2024-06-30T14:00:11.624666+00:00
-
- ## 辽宁政务服务网
- - [http://www.lnzwfw.gov.cn](http://www.lnzwfw.gov.cn)
- - date_published: 2024-06-30T18:21:25.648315+00:00
-
- ## 中国人民政治协商会议辽宁省委员会
- - [http://www.lnzx.gov.cn](http://www.lnzx.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
 

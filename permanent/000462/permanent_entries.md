@@ -1,3 +1,164 @@
+ ## Platobná brána a platobný terminál Comgate
+ - [https://www.comgate.sk](https://www.comgate.sk)
+ - date_published: 2024-10-18T03:44:31.180858+00:00
+
+ ## Conrad Electronic » Your Sourcing Platform
+ - [https://www.conrad.sk](https://www.conrad.sk)
+ - date_published: 2024-08-18T15:21:40.545256+00:00
+
+ ## TOP POSKYTOVATEĽ IT SLUŽIEB
+ - [https://www.coolpeople.sk](https://www.coolpeople.sk)
+ - date_published: 2024-12-13T23:42:47.997351+00:00
+
+ ## ČSFD.sk
+ - [http://www.csfd.sk](http://www.csfd.sk)
+ - date_published: 2024-07-01T10:20:09.810466+00:00
+
+ ## CtrlV.link | Fastest ScreenShot and PrintScreen online
+ - [https://ctrlv.sk](https://ctrlv.sk)
+ - date_published: 2024-12-13T23:55:27.381313+00:00
+
+ ## Cyber Trends
+ - [https://cybertrends.sk](https://cybertrends.sk)
+ - date_published: 2024-06-30T14:21:21+00:00
+
+ ## DECATHLON | Robíme šport dostupnejší pre všetkých na Slovensku
+ - [https://decathlon.sk](https://decathlon.sk)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Sign in - Google Accounts
+ - [https://beam.dennikn.sk](https://beam.dennikn.sk)
+ - date_published: 2024-07-17T07:16:19.024872+00:00
+
+ ## Sign in - Google Accounts
+ - [https://campaign.dennikn.sk](https://campaign.dennikn.sk)
+ - date_published: 2024-07-17T07:16:11.950844+00:00
+
+ ## Titulka
+ - [https://dennikn.sk](https://dennikn.sk)
+ - date_published: 2018-11-20T12:16:18+00:00
+
+ ## Coral
+ - [https://diskusie.dennikn.sk](https://diskusie.dennikn.sk)
+ - date_published: 2024-07-17T07:16:16.740623+00:00
+
+ ## Denník E — ekonomické spravodajstvo Denníka N
+ - [https://e.dennikn.sk](https://e.dennikn.sk)
+ - date_published: 2024-07-17T07:16:21.936303+00:00
+
+ ## Výbava - Výbava
+ - [https://hiking.dennikn.sk](https://hiking.dennikn.sk)
+ - date_published: 2024-07-17T07:16:16.072435+00:00
+
+ ## HistoryLab - online magazín, ktorý vás ponorí do histórie
+ - [https://historylab.dennikn.sk](https://historylab.dennikn.sk)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## KINECKO -
+ - [https://kinecko.dennikn.sk](https://kinecko.dennikn.sk)
+ - date_published: 2024-07-17T07:16:01.077206+00:00
+
+ ## Napunk — a Denník N magyar  projektje
+ - [https://napunk.dennikn.sk](https://napunk.dennikn.sk)
+ - date_published: 2024-07-17T07:15:55.120621+00:00
+
+ ## Všetky vydania / Noviny Dennikn
+ - [https://noviny.dennikn.sk](https://noviny.dennikn.sk)
+ - date_published: 2024-07-17T07:15:56.725335+00:00
+
+ ## Knihy Denníka N. Len to, čo sami čítame. | Denník N
+ - [https://obchod.dennikn.sk](https://obchod.dennikn.sk)
+ - date_published: 2024-07-17T07:16:24.412086+00:00
+
+ ## Predplaťte si Denník N
+ | Denník N
+ - [http://predplatne.dennikn.sk](http://predplatne.dennikn.sk)
+ - date_published: 2024-07-17T07:14:47.831906+00:00
+
+ ## Sign in | UStore
+ - [https://ustore.dennikn.sk](https://ustore.dennikn.sk)
+ - date_published: 2024-07-17T07:16:07.040660+00:00
+
+ ## DigiKey Home
+ - [https://digikey.sk](https://digikey.sk)
+ - date_published: 2024-05-01T05:03:53.269190+00:00
+
+ ## Téma HCM | Poradna
+ - [http://www.dimension3.sk](http://www.dimension3.sk)
+ - date_published: 2024-07-03T04:52:54.287963+00:00
+
+ ## Úvodná stránka | Ditec
+ - [http://www.ditec.sk](http://www.ditec.sk)
+ - date_published: 2024-07-12T14:17:55.693229+00:00
+
+ ## DizajnDesign Type Foundry
+ - [https://dizajndesign.sk](https://dizajndesign.sk)
+ - date_published: 2024-08-05T13:28:01+00:00
+
+ ## Realitná kancelária Poprad - DLUGO reality
+ - [https://www.dlugoreality.sk](https://www.dlugoreality.sk)
+ - date_published: 2024-10-22T13:23:30.954089+00:00
+
+ ## DNV.sk - Safer Smarter Greener - DNV
+ - [https://www.dnv.sk](https://www.dnv.sk)
+ - date_published: 2024-09-04T15:26:10.992346+00:00
+
+ ## Sme za každú dobrosť
+ - [https://donio.sk](https://donio.sk)
+ - date_published: 2024-07-17T07:15:58.347534+00:00
+
+ ## dormakaba CZ/SK | For every place that matters
+ - [https://dormakaba.sk](https://dormakaba.sk)
+ - date_published: 2024-05-11T09:35:04.903711+00:00
+
+ ## Prehľad stavu
+ - [https://downdetector.sk](https://downdetector.sk)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Data Science Academy – Building interdisciplinary data science community
+ - [https://dsacademy.sk](https://dsacademy.sk)
+ - date_published: 2024-07-02T23:43:38.471263+00:00
+
+ ## DSL.sk
+ - [https://dsl.sk](https://dsl.sk)
+ - date_published: 2024-07-23T23:33:03.515449+00:00
+
+ ## Dúhová stužka 2024
+ - [http://duhovastuzka.sk](http://duhovastuzka.sk)
+ - date_published: 2024-12-15T20:09:45.384323+00:00
+
+ ## Dyson | Oficiálna webová stránka
+ - [https://www.dyson.sk](https://www.dyson.sk)
+ - date_published: 2024-07-07T01:57:30.095983+00:00
+
+ ## Ecommerce Bridge Slovensko
+ - [https://www.ecommercebridge.sk](https://www.ecommercebridge.sk)
+ - date_published: 2024-12-14T03:32:50.627877+00:00
+
+ ## Extreme Digital Kapcsolat | eMAG Help
+ - [https://edigital.sk](https://edigital.sk)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## EF Education First | Slovensko
+ - [https://www.ef-slovakia.sk](https://www.ef-slovakia.sk)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Bezplatný online úvod do umelej inteligencie pre laickú verejnosť
+ - [https://www.elementsofai.sk](https://www.elementsofai.sk)
+ - date_published: 2024-07-01T08:47:05.345153+00:00
+
+ ## EMP | Music, Movie, TV & Gaming Merch | Alternative Clothing
+ - [https://www.emp-shop.sk](https://www.emp-shop.sk)
+ - date_published: 2024-07-24T06:34:32.389749+00:00
+
+ ## Epoch Times Slovensko
+ - [https://www.epochtimes.sk](https://www.epochtimes.sk)
+ - date_published: 2024-05-06T16:43:03.695545+00:00
+
+ ## Úvodní stránka
+ - [https://www.eschenbach.sk](https://www.eschenbach.sk)
+ - date_published: 2024-12-14T04:12:51.075725+00:00
+
  ## Vlastný e-shop ľahko a rýchlo | Eshop-rychlo.sk
  - [http://www.eshop-rychlo.sk](http://www.eshop-rychlo.sk)
  - date_published: 2024-07-01T10:12:48.417652+00:00
@@ -3888,167 +4049,4 @@ conflicts of interest and restore Community Trust.
  ## T2
  - [https://t2.social](https://t2.social)
  - date_published: 2024-08-07T20:58:42.732957+00:00
-
- ## Tabletop Social
- - [https://tabletop.social](https://tabletop.social)
- - date_published: 2024-07-10T07:28:42.526340+00:00
-
- ## Welcome - takahe.social
- - [https://takahe.social](https://takahe.social)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## tapbots.social
- - [https://tapbots.social](https://tapbots.social)
- - date_published: 2023-10-24T20:14:25.808474+00:00
- - tags: ['mastodon']
-
- ## tapir is inevitable
- - [https://tapir.social](https://tapir.social)
- - date_published: 2024-08-11T20:27:16.102433+00:00
-
- ## Tech Bacon
- - [https://techbacon.social](https://techbacon.social)
- - date_published: 2024-04-29T07:18:31.324735+00:00
-
- ## TechHub.social media storage
- - [https://files.techhub.social](https://files.techhub.social)
- - date_published: 2024-05-26T17:54:39+00:00
-
- ## TechHub.social status
- - [https://status.techhub.social](https://status.techhub.social)
- - date_published: 2024-08-19T18:06:45.716390+00:00
-
- ## TechHub
- - [https://techhub.social](https://techhub.social)
- - date_published: 2023-10-24T20:14:26.335577+00:00
- - tags: ['mastodon']
-
- ## techpolicy
- - [https://techpolicy.social](https://techpolicy.social)
- - date_published: 2024-04-03T06:39:18.511331+00:00
-
- ## Custom Domain by Bitly
- - [https://tedtalks.social](https://tedtalks.social)
- - date_published: 2024-05-11T09:22:38.923245+00:00
-
- ## NodePing - Monitoring
- - [https://status.tenforward.social](https://status.tenforward.social)
- - date_published: 2024-07-21T03:51:06.773069+00:00
-
- ## Ten Forward
- - [https://tenforward.social](https://tenforward.social)
- - date_published: 2024-04-30T07:17:34.188830+00:00
-
- ## Texas Observer Social
- - [https://texasobserver.social](https://texasobserver.social)
- - date_published: 2024-08-19T12:56:11.866091+00:00
-
- ## Thinktanki
- - [https://thinktanki.social](https://thinktanki.social)
- - date_published: 2024-04-28T01:41:56.629134+00:00
-
- ## thoughtbot Social
- - [https://thoughtbot.social](https://thoughtbot.social)
- - date_published: 2024-05-06T18:17:24.722962+00:00
-
- ## Mastodon
- - [https://tietz.social](https://tietz.social)
- - date_published: 2024-05-07T22:57:28.632021+00:00
-
- ## timetheft.social
- - [https://timetheft.social](https://timetheft.social)
- - date_published: 2024-06-23T20:17:06.991046+00:00
-
- ## toad.social
- - [https://assets.toad.social](https://assets.toad.social)
- - date_published: 2024-06-27T14:25:42.497160+00:00
-
- ## toad.social
- - [https://toad.social](https://toad.social)
- - date_published: 2024-05-06T21:44:42.622113+00:00
-
- ## toki.social
- - [https://toki.social](https://toki.social)
- - date_published: 2024-06-15T22:08:46.438329+00:00
-
- ## Tools For Thought Rocks!
- - [https://toolsforthought.social](https://toolsforthought.social)
- - date_published: 2024-07-03T16:03:07.058306+00:00
-
- ## TransFem Space
- - [https://transfem.social](https://transfem.social)
- - date_published: 2024-05-08T10:45:41.057855+00:00
-
- ## TransSocial, a safe place for everyone
- - [https://transs.social](https://transs.social)
- - date_published: 2024-12-21T06:48:05+00:00
-
- ## tty0.social
- - [https://tty0.social](https://tty0.social)
- - date_published: 2024-06-26T09:04:23.904730+00:00
-
- ## Tucows Social
- - [https://tucows.social](https://tucows.social)
- - date_published: 2024-06-16T17:33:15.175225+00:00
-
- ## TweeseCake
- - [https://tweesecake.social](https://tweesecake.social)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## twentyZEN Social
- - [https://twentyzen.social](https://twentyzen.social)
- - date_published: 2024-06-23T17:08:53.174118+00:00
-
- ## TWiT.social
- - [https://twit.social](https://twit.social)
- - date_published: 2024-05-10T06:44:05.491274+00:00
-
- ## Typetura
- - [https://typetura.social](https://typetura.social)
- - date_published: 2024-07-01T08:46:44.779024+00:00
-
- ## typo.social
- - [https://typo.social](https://typo.social)
- - date_published: 2024-05-04T06:31:49.106454+00:00
-
- ## Uberspace Mastodon
- - [https://uberspace.social](https://uberspace.social)
- - date_published: 2024-07-24T16:59:45.592927+00:00
-
- ## Ubuntu Social
- - [https://ubuntu.social](https://ubuntu.social)
- - date_published: 2024-06-16T02:51:38.157068+00:00
-
- ## UniFi - Introduction - Ubiquiti
- - [https://ui.social](https://ui.social)
- - date_published: 2024-04-29T03:19:49.151996+00:00
-
- ## Umbraco Community Mastodon
- - [https://umbracocommunity.social](https://umbracocommunity.social)
- - date_published: 2024-05-04T12:13:30.127597+00:00
-
- ## Mastodon
- - [https://univention.social](https://univention.social)
- - date_published: 2024-09-16T13:06:19.981383+00:00
-
- ## Urbanists.Social
- - [https://urbanists.social](https://urbanists.social)
- - date_published: 2023-10-24T20:14:26.879258+00:00
- - tags: ['mastodon']
-
- ## uwu.social
- - [https://uwu.social](https://uwu.social)
- - date_published: 2024-06-18T16:52:18.807204+00:00
-
- ## #Fedipact - The instances blocking Zuckerberg's Threads.net
- - [https://fedipact.veganism.social](https://fedipact.veganism.social)
- - date_published: 2024-07-01T01:33:59.123965+00:00
-
- ## Veganism Social - The social network for vegans
- - [https://veganism.social](https://veganism.social)
- - date_published: 2024-04-28T04:10:28.334679+00:00
-
- ## venera.social 🍀 | Home
- - [https://venera.social](https://venera.social)
- - date_published: 2024-06-20T15:38:43.362997+00:00
 

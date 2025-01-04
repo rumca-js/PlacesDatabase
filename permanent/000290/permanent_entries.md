@@ -1,9 +1,109 @@
+ ## Sean Rogers
+ - [https://seanrogers.dev](https://seanrogers.dev)
+ - date_published: 2024-05-09T08:44:23.938491+00:00
+
+ ## Searchbase API Reference
+ - [https://docs.searchbase.dev](https://docs.searchbase.dev)
+ - date_published: 2024-02-03T00:56:20+00:00
+
+ ## Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data
+ - [https://searchbase.dev](https://searchbase.dev)
+ - date_published: 2024-02-19T04:59:19+00:00
+
+ ## listmonk - Mailing list
+ - [https://mailings.sebastix.dev](https://mailings.sebastix.dev)
+ - date_published: 2024-07-10T07:30:53.989127+00:00
+ - date_dead_since: 2025-01-03T22:10:03.371552+00:00
+
+ ## sebibasti.dev
+ - [https://sebibasti.dev](https://sebibasti.dev)
+ - date_published: 2024-05-11T10:23:59.119654+00:00
+
+ ## OpenSSF Scorecard
+ - [https://api.securityscorecards.dev](https://api.securityscorecards.dev)
+ - date_published: 2024-07-07T09:05:53.847595+00:00
+
+ ## Home
+ - [https://securityscorecards.dev](https://securityscorecards.dev)
+ - date_published: 2024-07-07T09:05:50.789379+00:00
+
+ ## Home
+ - [https://segredo.dev](https://segredo.dev)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Selenium
+ - [https://selenium.dev](https://selenium.dev)
+ - date_published: 2024-04-30T02:15:06.109583+00:00
+ - tags: ['browser automation', 'web testing', 'web scraping', 'web crawling']
+
+ ## Selenium IDE · Open source record and playback test automation for the web
+ - [https://selenium.dev/selenium-ide](https://selenium.dev/selenium-ide)
+ - date_published: 2024-11-29T09:09:43+00:00
+ - tags: ['web crawling', 'web scraping', 'open source']
+
+ ## The Self-Improving Developer
+ - [https://selfimproving.dev](https://selfimproving.dev)
+ - date_published: 2023-01-03T09:04:15+00:00
+
+ ## Welcome 👋 | Sematic
+ - [https://docs.sematic.dev](https://docs.sematic.dev)
+ - date_published: 2024-08-19T03:52:36.675222+00:00
+
+ ## Sematic – The open-source ML orchestrator loved by ML teams
+ - [https://sematic.dev](https://sematic.dev)
+ - date_published: 2023-10-25T18:41:55.378126+00:00
+ - tags: ['open source', '. machine learning']
+
+ ## Semgrep Academy - Learn to create secure software!
+ - [https://academy.semgrep.dev](https://academy.semgrep.dev)
+ - date_published: 2024-07-08T16:13:43.384931+00:00
+
+ ## Semgrep - Make shift left work
+ - [https://get.semgrep.dev](https://get.semgrep.dev)
+ - date_published: 2024-06-17T02:51:25.404507+00:00
+
+ ## Semgrep — Find bugs and enforce code standards
+ - [https://semgrep.dev](https://semgrep.dev)
+ - date_published: 2024-04-28T02:55:58.313973+00:00
+
+ ## Sentry Developer Documentation
+ - [https://develop.sentry.dev](https://develop.sentry.dev)
+ - date_published: 2024-06-22T22:29:06.398178+00:00
+
+ ## Sentry Docs | Application Performance Monitoring &amp; Error Tracking Software
+ - [https://sentry-docs-5n4y8501b.sentry.dev](https://sentry-docs-5n4y8501b.sentry.dev)
+ - date_published: 2024-08-07T19:33:32.275815+00:00
+
+ ## Seo · SEO Apps
+ - [https://seoapps.dev](https://seoapps.dev)
+ - date_published: 2024-07-02T21:00:04.609502+00:00
+
+ ## Sepolia Resources
+ - [https://sepolia.dev](https://sepolia.dev)
+ - date_published: 2024-12-26T15:14:22.769094+00:00
+
+ - [https://www.sequential.dev](https://www.sequential.dev)
+ - date_published: 2024-01-09T02:57:34.721900+00:00
+ - date_dead_since: 2025-01-03T22:10:30.489484+00:00
+
+ ## Home | Campbell Jones
+ - [https://serebit.dev](https://serebit.dev)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Dominio no encontrado
+ - [http://sergiomartin.dev](http://sergiomartin.dev)
+ - date_published: 2020-07-17T10:01:47+00:00
+
+ ## SerialCoder.dev
+ - [https://serialcoder.dev](https://serialcoder.dev)
+ - date_published: 2024-06-22T18:54:28+00:00
+
  ## servant – A Type-Level Web DSL — Servant  documentation
  - [https://docs.servant.dev](https://docs.servant.dev)
  - date_published: 2023-06-25T10:05:15+00:00
 
  ## Servant - haskell-servant
- - [http://www.servant.dev](http://www.servant.dev)
+ - [https://servant.dev](https://servant.dev)
  - date_published: 2022-06-10T13:46:03+00:00
 
  ## ServBay - The best local PHP, Node.js, MySQL, PostgreSQL Web development environment Mac PHP Brew MAMP XAMPP Node.js Wordpress
@@ -18,6 +118,7 @@
  ## Software Engineering Intelligence
  - [https://cod-twister-production.cl-us-east-3.servd.dev](https://cod-twister-production.cl-us-east-3.servd.dev)
  - date_published: 2024-06-16T08:04:33.492083+00:00
+ - date_dead_since: 2025-01-03T22:11:01.987871+00:00
 
  ## Show HN: ServerlessAI – Build, scale, and monetize AI apps without back end
  - [https://serverlessai.dev](https://serverlessai.dev)
@@ -57,8 +158,8 @@
  - date_published: 2024-10-25T18:59:32.829163+00:00
 
  ## Blazej Sewera - Programmer
- - [https://www.sewera.dev](https://www.sewera.dev)
- - date_published: 2024-09-19T13:34:36.997139+00:00
+ - [https://sewera.dev](https://sewera.dev)
+ - date_published: 2024-03-07T17:10:25+00:00
  - tags: ['personal']
 
  ## https://shadeup.dev
@@ -157,6 +258,7 @@
  ## StudentMate
  - [https://studentmate.shuchir.dev](https://studentmate.shuchir.dev)
  - date_published: 2024-06-19T18:48:22.692245+00:00
+ - date_dead_since: 2025-01-03T22:15:32.472854+00:00
 
  ## Shuffle
  - [https://shuffle.dev](https://shuffle.dev)
@@ -184,7 +286,7 @@
 
  ## SIGDEV
  - [https://sig.dev](https://sig.dev)
- - date_published: 2024-07-03T21:37:51.032107+00:00
+ - date_published: 2024-06-21T17:27:40+00:00
 
  ## Sigstore Blog - Sigstore Blog
  - [https://blog.sigstore.dev](https://blog.sigstore.dev)
@@ -254,7 +356,7 @@
 
  ## Skill Icons
  - [https://skillicons.dev](https://skillicons.dev)
- - date_published: 2024-05-09T06:24:30.590630+00:00
+ - date_published: 2022-03-11T04:31:21+00:00
 
  ## uses.skydiver.dev
  - [https://uses.skydiver.dev](https://uses.skydiver.dev)
@@ -272,13 +374,13 @@
  - [https://docs.skypack.dev](https://docs.skypack.dev)
  - date_published: 2024-07-22T11:59:17.288994+00:00
 
+ ## Skypack: search millions of open source JavaScript packages
+ - [https://skypack.dev](https://skypack.dev)
+ - date_published: 2024-06-23T02:36:34.068154+00:00
+
  ## Skypack - Status
  - [https://status.skypack.dev](https://status.skypack.dev)
  - date_published: 2024-07-22T11:59:15.194317+00:00
-
- ## Skypack: search millions of open source JavaScript packages
- - [https://www.skypack.dev](https://www.skypack.dev)
- - date_published: 2024-06-23T02:36:34.068154+00:00
 
  ## Skywalk
  - [https://skywalk.dev](https://skywalk.dev)
@@ -409,23 +511,24 @@
  - date_published: 2024-11-16T01:27:43+00:00
 
  ## Snaplet
- - [https://www.snaplet.dev](https://www.snaplet.dev)
+ - [https://snaplet.dev](https://snaplet.dev)
  - date_published: 2024-05-14T00:00:00+00:00
 
  ## Error
  - [https://img.snaplink.dev](https://img.snaplink.dev)
  - date_published: 2024-04-28T01:46:06.742156+00:00
+ - date_dead_since: 2025-01-03T22:24:24.439352+00:00
 
  ## Snaptail - One File React Apps
  - [https://snaptail.dev](https://snaptail.dev)
  - date_published: 2024-09-02T09:52:36.658268+00:00
 
  ## Snowpack
- - [https://www.snowpack.dev](https://www.snowpack.dev)
+ - [https://snowpack.dev](https://snowpack.dev)
  - date_published: 2024-05-06T13:11:48.505017+00:00
 
  ## Socheat Sok
- - [https://socheat.dev](https://socheat.dev)
+ - [http://socheat.dev](http://socheat.dev)
  - date_published: 2024-05-11T10:20:32.970537+00:00
 
  ## Socket - Secure your dependencies. Ship with confidence.
@@ -458,7 +561,7 @@
 
  ## https://softwaregarden.dev/en/
  - [https://softwaregarden.dev](https://softwaregarden.dev)
- - date_published: 2024-07-24T06:05:04.897502+00:00
+ - date_published: 2024-07-18T09:11:14+00:00
 
  ## Software Social
  - [https://softwaresocial.dev](https://softwaresocial.dev)
@@ -513,7 +616,7 @@
  - date_published: 2024-06-14T09:00:02.893664+00:00
 
  ## Sourcebot
- - [https://demo.sourcebot.dev](https://demo.sourcebot.dev)
+ - [http://demo.sourcebot.dev](http://demo.sourcebot.dev)
  - date_published: 2024-10-02T00:00:00+00:00
 
  ## Sourcebot | Open-Source Code Search Tool
@@ -609,15 +712,15 @@
  - date_published: 2024-05-04T05:55:58.634825+00:00
 
  ## Spoofax - Spoofax: The Language Designer's Workbench
- - [https://www.spoofax.dev](https://www.spoofax.dev)
- - date_published: 2024-10-17T21:10:23.047061+00:00
+ - [https://spoofax.dev](https://spoofax.dev)
+ - date_published: 2024-10-17T11:19:29+00:00
 
  ## SpruceKit Introduction | SpruceKit
  - [https://spruceid.dev](https://spruceid.dev)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Attention Required! | Cloudflare
- - [https://spyda.dev](https://spyda.dev)
+ - [http://spyda.dev](http://spyda.dev)
  - date_published: 2024-06-10T07:08:10.785248+00:00
 
  ## Dashboard
@@ -659,6 +762,7 @@
  ## Akkoma
  - [https://fedi.srijan.dev](https://fedi.srijan.dev)
  - date_published: 2024-04-30T06:11:48.075079+00:00
+ - date_dead_since: 2025-01-03T22:29:59.980323+00:00
 
  ## EmailEngine
  - [https://emailengine.srv.dev](https://emailengine.srv.dev)
@@ -696,6 +800,7 @@
  ## Introduction
  - [https://stackpath.dev](https://stackpath.dev)
  - date_published: 2024-06-16T08:19:52.377902+00:00
+ - date_dead_since: 2025-01-03T22:30:26.000047+00:00
 
  ## Stanley Davis - Games Programmer
  - [https://standavis.dev](https://standavis.dev)
@@ -1666,6 +1771,10 @@
  ## tunnelto.dev -- expose your local web server to the internet with a public URL
  - [https://tunnelto.dev](https://tunnelto.dev)
  - date_published: 2024-06-23T03:30:23.261779+00:00
+
+ ## Show HN: I'm tired of sharing code using PasteBin and Slack, so I made this
+ - [https://turbogist.dev](https://turbogist.dev)
+ - date_published: 2025-01-03T15:35:47+00:00
 
  ## Tushar Sadhwani
  - [https://tusharsadhwani.dev](https://tusharsadhwani.dev)
@@ -3947,104 +4056,4 @@
  ## Arcadia Finans | Find de bedste lån fra 25.000 til 400.000 kr.
  - [https://arcadiafinans.dk](https://arcadiafinans.dk)
  - date_published: 2024-10-31T00:48:55.439467+00:00
-
- ## Arkitektforeningen
- - [https://arkitektforeningen.dk](https://arkitektforeningen.dk)
- - date_published: 2024-07-22T06:11:49+00:00
-
- ## Arla
- - [https://www.arla.dk](https://www.arla.dk)
- - date_published: 2024-06-25T22:17:36.280127+00:00
-
- ## Arnon Shimoni
- - [https://arnon.dk](https://arnon.dk)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Aarhus Universitet - Glemt adgangskode eller brugernavn
- - [https://adgang.au.dk](https://adgang.au.dk)
- - date_published: 2024-07-22T18:34:07.867338+00:00
-
- ## AIAS
- - [https://aias.au.dk](https://aias.au.dk)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## aie.au.dk
- - [https://aie.au.dk](https://aie.au.dk)
- - date_published: 2019-08-21T00:00:00+00:00
-
- ## Aarhus Universitets Alumnenetværk – et univers af viden og relationer
- - [https://alumner.au.dk](https://alumner.au.dk)
- - date_published: 2024-07-22T10:15:48.643065+00:00
-
- ## Institut for Husdyr- og Veterinærvidenskab, Aarhus Universitet
- - [https://anis.au.dk](https://anis.au.dk)
- - date_published: 2024-07-22T10:15:16.803577+00:00
-
- ## Arctic Research Centre at Aarhus University Department of Biology
- - [https://arctic.au.dk](https://arctic.au.dk)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Faculty of Arts | Aarhus Universitet
- - [https://arts.au.dk](https://arts.au.dk)
- - date_published: 2024-07-22T10:20:23.620857+00:00
-
- ## Aarhus Universitet
- - [https://au.dk](https://au.dk)
- - date_published: 2024-04-30T02:32:56.498553+00:00
-
- ## PURE 404 fejl
- - [https://auinstallation28.cs.au.dk](https://auinstallation28.cs.au.dk)
- - date_published: 2024-07-22T10:14:53.294529+00:00
-
- ## PURE 404 fejl
- - [https://auinstallation30.cs.au.dk](https://auinstallation30.cs.au.dk)
- - date_published: 2024-04-30T02:32:53.532533+00:00
-
- ## AU webshop |  Forside
- - [https://auwebshop.au.dk](https://auwebshop.au.dk)
- - date_published: 2024-07-22T10:17:49.432854+00:00
-
- ## Vil du læse en bacheloruddannelse på Aarhus Universitet?
- - [https://bachelor.au.dk](https://bachelor.au.dk)
- - date_published: 2024-04-30T02:33:00.607954+00:00
-
- ## Institut for Biologi - Aarhus Universitet
- - [https://bio.au.dk](https://bio.au.dk)
- - date_published: 2024-04-30T02:33:18.772397+00:00
-
- ## Institut for Biomedicin - for medarbejdere
- - [https://biomed.medarbejdere.au.dk](https://biomed.medarbejdere.au.dk)
- - date_published: 2024-07-22T10:19:21.326445+00:00
-
- ## Institut for Ecoscience
- - [https://bios.au.dk](https://bios.au.dk)
- - date_published: 2024-07-22T10:17:44.401183+00:00
-
- ## 403 - siden er adgangsbegrænset / access is restricted
- - [https://bios.medarbejdere.au.dk](https://bios.medarbejdere.au.dk)
- - date_published: 2024-09-04T17:10:31.507398+00:00
-
- ## Department of Biology - Staff - Aarhus University
- - [https://bio.staff.au.dk](https://bio.staff.au.dk)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Sign in to your account
- - [https://brightspace.au.dk](https://brightspace.au.dk)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Institut for Kultur og Samfund - Aarhus Universitet
- - [https://cas.au.dk](https://cas.au.dk)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## CAVI
- - [https://cavi.au.dk](https://cavi.au.dk)
- - date_published: 2024-04-30T02:32:38.476403+00:00
-
- ## Institut for Kommunikation og Kultur - Aarhus Universitet
- - [https://cc.au.dk](https://cc.au.dk)
- - date_published: 2024-07-22T10:20:22.436824+00:00
-
- ## Centre for Educational Development | Aarhus Universitet
- - [https://ced.au.dk](https://ced.au.dk)
- - date_published: 2024-07-22T10:16:06.612088+00:00
 

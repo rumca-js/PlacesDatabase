@@ -1,3 +1,160 @@
+ ## 9th OMNeT++ Community Summit 2022
+ - [https://summit.omnetpp.org](https://summit.omnetpp.org)
+ - date_published: 2023-07-27T12:20:04+00:00
+
+ ## Arjan Tijms' Weblog
+ - [https://arjan-tijms.omnifaces.org](https://arjan-tijms.omnifaces.org)
+ - date_published: 2024-05-07T22:55:34.257636+00:00
+
+ ## OmniFaces
+ - [https://omnifaces.org](https://omnifaces.org)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## OmniFaces Showcase
+ - [https://showcase.omnifaces.org](https://showcase.omnifaces.org)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## OmniOS and illumos IRC logs
+ - [https://log.omnios.org](https://log.omnios.org)
+ - date_published: 2022-11-05T13:32:11+00:00
+
+ ## OmniROM
+ - [https://omnirom.org](https://omnirom.org)
+ - date_published: 2023-12-20T13:28:29+00:00
+
+ ## Omras2 - Divertissement, jeux et loisir
+ - [http://www.omras2.org](http://www.omras2.org)
+ - date_published: 2024-10-16T08:23:12.299136+00:00
+
+ ## start [omv-extras.org]
+ - [https://omv-extras.org](https://omv-extras.org)
+ - date_published: 2024-07-01T07:39:39.728356+00:00
+
+ ## start [omv-extras.org]
+ - [https://wiki.omv-extras.org](https://wiki.omv-extras.org)
+ - date_published: 2024-05-07T18:36:33.663787+00:00
+
+ ## Other Minds Magazine  is dedicated to scholars, gamers, and fans of J.R.R. Tolkien, Middle-earth, and beyond...
+ - [http://www.omzine.org](http://www.omzine.org)
+ - date_published: 2024-10-25T21:14:48.860524+00:00
+
+ ## on and off .org by rafaël rozendaal, 2003
+ - [https://www.onandoff.org](https://www.onandoff.org)
+ - date_published: 2024-09-14T21:01:51+00:00
+
+ ## Home - ONAP
+ - [https://www.onap.org](https://www.onap.org)
+ - date_published: 2024-07-03T00:00:38.278512+00:00
+
+ ## The On Being Project
+ - [https://onbeing.org](https://onbeing.org)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Oncology Nursing Certification Corporation
+ - [http://www.oncc.org](http://www.oncc.org)
+ - date_published: 2023-03-23T08:13:18+00:00
+
+ ## Oncotarget
+ - [https://oncotarget.org](https://oncotarget.org)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Niesiklopedia
+ - [https://af.oncyclopedia.org](https://af.oncyclopedia.org)
+ - date_published: 2024-07-14T05:55:02.919706+00:00
+
+ ## Unsyklopedy
+ - [http://fy.oncyclopedia.org](http://fy.oncyclopedia.org)
+ - date_published: 2024-07-20T20:27:46.285675+00:00
+
+ ## Oncyclopedia
+ - [https://m.oncyclopedia.org](https://m.oncyclopedia.org)
+ - date_published: 2024-08-08T22:27:16+00:00
+
+ ## Oncyclopedia
+ - [https://oncyclopedia.org](https://oncyclopedia.org)
+ - date_published: 2024-04-23T15:24:03+00:00
+ - tags: ['encyclopedia']
+
+ ## Kweenipedia
+ - [https://vls.oncyclopedia.org](https://vls.oncyclopedia.org)
+ - date_published: 2024-07-14T06:41:49.019031+00:00
+
+ ## Oncypedie
+ - [https://zea.oncyclopedia.org](https://zea.oncyclopedia.org)
+ - date_published: 2024-07-14T06:00:46.749300+00:00
+
+ ## ONE - Data Commons
+ - [https://datacommons.one.org](https://datacommons.one.org)
+ - date_published: 2024-09-17T19:43:51.932271+00:00
+
+ ## ONE Data & Analysis
+ - [https://data.one.org](https://data.one.org)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## ONE
+ - [https://one.org](https://one.org)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## O'Neal Comprehensive Cancer Center
+ - [https://www.onealcanceruab.org](https://www.onealcanceruab.org)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## The One Club for Creativity - Nonprofit Advertising & Design Organization | The One Club
+ - [https://www.oneclub.org](https://www.oneclub.org)
+ - date_published: 2024-07-13T14:25:07.216843+00:00
+
+ ## Home - One Democratic State
+ - [http://onedemocraticstate.org](http://onedemocraticstate.org)
+ - date_published: 2024-12-31T09:27:43.189994+00:00
+
+ ## Together, we can solve the climate crisis | One Earth
+ - [https://oneearth.org](https://oneearth.org)
+ - date_published: 2024-02-26T09:40:15.170585+00:00
+
+ ## One Earth Future | One Earth Future
+ - [https://oneearthfuture.org](https://oneearthfuture.org)
+ - date_published: 2024-08-18T18:19:46.501273+00:00
+
+ ## One Education
+ - [https://www.one-education.org](https://www.one-education.org)
+ - date_published: 2024-07-10T03:04:55.759236+00:00
+
+ ## Non-profit org transforming healthcare with open-source AI
+ - [https://help.onefact.org](https://help.onefact.org)
+ - date_published: 2024-07-01T09:45:55.214803+00:00
+
+ ## Non-profit org transforming healthcare with open-source AI
+ - [https://onefact.org](https://onefact.org)
+ - date_published: 2024-05-07T19:02:10.784571+00:00
+
+ ## OneHE – Develop your teaching your way
+ - [https://onehe.org](https://onehe.org)
+ - date_published: 2024-09-25T17:18:08.145192+00:00
+
+ ## One Hundred
+ - [https://onehundred.org](https://onehundred.org)
+ - date_published: 2024-12-09T17:43:18+00:00
+
+ ## oneM2M Sets Standards For The Internet Of Things & M2M
+ - [https://www.onem2m.org](https://www.onem2m.org)
+ - date_published: 2024-10-28T23:07:06+00:00
+
+ ## Evolutionary Spirituality | One Mountain Many Paths
+ - [https://www.onemountainmanypaths.org](https://www.onemountainmanypaths.org)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## One Nevada Credit Union | Easiest Nevada Credit Union to Join
+ - [https://www.onenevada.org](https://www.onenevada.org)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## OOS2025 - Home
+ - [https://one-ocean-science-2025.org](https://one-ocean-science-2025.org)
+ - date_published: 2024-08-28T10:13:42+00:00
+
+ ## Home
+ - [https://oneop.org](https://oneop.org)
+ - date_published: 2024-05-15T00:00:00+00:00
+
  ## 1% for the Planet
  - [https://directories.onepercentfortheplanet.org](https://directories.onepercentfortheplanet.org)
  - date_published: 2024-05-08T10:30:47.305793+00:00
@@ -2219,7 +2376,7 @@ OpenJDK Wiki
  - date_published: 2024-07-08T12:38:49.707589+00:00
 
  ## OpenSanctions: Find sanctions targets and persons of interest
- - [https://www.opensanctions.org](https://www.opensanctions.org)
+ - [https://opensanctions.org](https://opensanctions.org)
  - date_published: 2024-09-02T00:00:00+00:00
 
  ## Home - The Open Sanctuary Project
@@ -2249,7 +2406,7 @@ OpenJDK Wiki
  - date_published: 2024-04-14T08:00:25+00:00
 
  ## OSG
- - [https://www.opensciencegrid.org](https://www.opensciencegrid.org)
+ - [https://opensciencegrid.org](https://opensciencegrid.org)
  - date_published: 2024-06-22T00:45:26+00:00
 
  ## opensc-project.org
@@ -2257,7 +2414,7 @@ OpenJDK Wiki
  - date_published: 2024-05-08T10:17:00.582731+00:00
 
  ## OpenSeaMap: Startseite
- - [https://www.openseamap.org](https://www.openseamap.org)
+ - [https://openseamap.org](https://openseamap.org)
  - date_published: 2024-07-14T14:49:31.289586+00:00
 
  ## OpenSearch
@@ -2277,7 +2434,7 @@ OpenJDK Wiki
  - date_published: 2024-05-08T11:17:21.237322+00:00
 
  ## OpenSecrets
- - [https://opensecrets.org](https://opensecrets.org)
+ - [http://opensecrets.org](http://opensecrets.org)
  - date_published: 2023-10-25T21:53:23.720431+00:00
  - tags: ['news', 'politics']
 
@@ -2315,7 +2472,7 @@ OpenJDK Wiki
  - tags: ['video editor', 'open source']
 
  ## פרויקט הסידור הפתוח ✍︎ the Open Siddur Project • the Open Siddur Project ✍ פְּרוֺיֶקְט הַסִּדּוּר הַפָּתוּחַ
- - [http://opensiddur.org](http://opensiddur.org)
+ - [https://opensiddur.org](https://opensiddur.org)
  - date_published: 2024-10-17T17:07:26.812576+00:00
 
  ## Drops of wisdom, knowledge and news from OpenSIPS
@@ -2323,7 +2480,7 @@ OpenJDK Wiki
  - date_published: 2024-06-18T07:49:44.564064+00:00
 
  ## OpenSIPS Control Panel
- - [http://controlpanel.opensips.org](http://controlpanel.opensips.org)
+ - [https://controlpanel.opensips.org](https://controlpanel.opensips.org)
  - date_published: 2024-06-18T07:49:40.052331+00:00
 
  ## openSIPS | Main / HomePage
@@ -2356,7 +2513,7 @@ OpenJDK Wiki
  - date_published: 2024-05-04T00:00:00+00:00
 
  ## Home - OpenSlopeMap.org
- - [https://www.openslopemap.org](https://www.openslopemap.org)
+ - [https://openslopemap.org](https://openslopemap.org)
  - date_published: 2016-12-01T21:13:07+00:00
 
  ## openslr.org
@@ -2368,11 +2525,11 @@ OpenJDK Wiki
  - date_published: 2024-04-10T00:00:00+00:00
 
  ## OpenSnowMap.org
- - [https://www.opensnowmap.org](https://www.opensnowmap.org)
+ - [https://opensnowmap.org](https://opensnowmap.org)
  - date_published: 2024-03-24T07:04:41+00:00
 
  ## Open Society Foundations
- - [https://www.opensocietyfoundations.org](https://www.opensocietyfoundations.org)
+ - [https://opensocietyfoundations.org](https://opensocietyfoundations.org)
  - date_published: 2024-02-06T00:00:00+00:00
 
  ## Open Society University Network
@@ -2380,7 +2537,7 @@ OpenJDK Wiki
  - date_published: 2024-04-30T03:13:43.168293+00:00
 
  ## Darmowy sklep internetowy i system CMS do zarządzania treścią stron - OpenSolution.org
- - [http://opensolution.org](http://opensolution.org)
+ - [https://opensolution.org](https://opensolution.org)
  - date_published: 2024-07-17T12:57:48.462136+00:00
 
  ## OpenSolver for Excel – The Open Source Optimization Solver for Excel
@@ -2392,7 +2549,7 @@ OpenJDK Wiki
  - date_published: 2024-03-10T13:08:24+00:00
 
  ## OSC index
- - [http://opensoundcontrol.org](http://opensoundcontrol.org)
+ - [https://opensoundcontrol.org](https://opensoundcontrol.org)
  - date_published: 2021-08-13T18:08:07+00:00
 
  ## Home - Voices of Open Source
@@ -2429,7 +2586,7 @@ OpenJDK Wiki
  - date_published: 2024-05-07T09:30:11.642812+00:00
 
  ## Home | Open Source Ecology
- - [http://opensourceecology.org](http://opensourceecology.org)
+ - [https://opensourceecology.org](https://opensourceecology.org)
  - date_published: 2024-07-10T09:05:55.497954+00:00
 
  ## Available lists - Open Source Infrastructure List Archives
@@ -2445,7 +2602,7 @@ OpenJDK Wiki
  - date_published: 2024-05-12T03:55:58.245904+00:00
 
  ## Free and Open Source Project Management Tools
- - [https://www.opensourceprojectmanagement.org](https://www.opensourceprojectmanagement.org)
+ - [https://opensourceprojectmanagement.org](https://opensourceprojectmanagement.org)
  - date_published: 2024-06-23T06:47:50.351202+00:00
 
  ## Open Source Research Institutue :: Main / HomePage
@@ -2454,11 +2611,11 @@ OpenJDK Wiki
  - tags: ['personal']
 
  ## Open Source Routing
- - [https://www.opensourcerouting.org](https://www.opensourcerouting.org)
+ - [https://opensourcerouting.org](https://opensourcerouting.org)
  - date_published: 2024-07-08T13:05:20.570704+00:00
 
  ## Sign in - Matomo
- - [http://mato.opensourceseeds.org](http://mato.opensourceseeds.org)
+ - [https://mato.opensourceseeds.org](https://mato.opensourceseeds.org)
  - date_published: 2024-07-08T13:23:31.621740+00:00
 
  ## Startseite | OpenSourceSeeds
@@ -2474,8 +2631,12 @@ OpenJDK Wiki
  - date_published: 2022-11-08T00:45:06+00:00
 
  ## OpenSouthCode 2024
- - [https://www.opensouthcode.org](https://www.opensouthcode.org)
+ - [https://opensouthcode.org](https://opensouthcode.org)
  - date_published: 2024-07-14T03:07:58.627844+00:00
+
+ ## Midpeninsula Regional Open Space District | Nature is Essential
+ - [https://openspace.org](https://openspace.org)
+ - date_published: 2024-05-06T16:29:08.326280+00:00
 
  ## Midpen Online Store
  - [https://store.openspace.org](https://store.openspace.org)
@@ -2485,12 +2646,8 @@ OpenJDK Wiki
  - [https://volunteer.openspace.org](https://volunteer.openspace.org)
  - date_published: 2024-06-24T06:02:22.256744+00:00
 
- ## Midpeninsula Regional Open Space District | Nature is Essential
- - [https://www.openspace.org](https://www.openspace.org)
- - date_published: 2024-05-06T16:29:08.326280+00:00
-
  ## Open Space Institute: Land for People, for Wildlife. Forever.
- - [https://www.openspaceinstitute.org](https://www.openspaceinstitute.org)
+ - [https://openspaceinstitute.org](https://openspaceinstitute.org)
  - date_published: 2024-10-22T22:30:26.995496+00:00
 
  ## OpenSpending
@@ -2498,19 +2655,19 @@ OpenJDK Wiki
  - date_published: 2024-06-12T12:16:15.836646+00:00
 
  ## OpenSpending
- - [http://openspending.org](http://openspending.org)
- - date_published: 2024-07-16T21:44:09.831531+00:00
+ - [https://openspending.org](https://openspending.org)
+ - date_published: 2024-06-21T16:30:59+00:00
 
  ## Home
  - [https://www.opensplittime.org](https://www.opensplittime.org)
  - date_published: 2024-06-26T08:56:40.246540+00:00
 
  ## Alsa Opensrc Org - Independent ALSA and linux audio support site
- - [http://alsa.opensrc.org](http://alsa.opensrc.org)
+ - [https://alsa.opensrc.org](https://alsa.opensrc.org)
  - date_published: 2024-06-16T19:39:05+00:00
 
  ## OpenSSA - Open-Source Framework for SSAs
- - [https://www.openssa.org](https://www.openssa.org)
+ - [https://openssa.org](https://openssa.org)
  - date_published: 2024-03-18T00:00:00+00:00
 
  ## OpenSSF Best Practices Working Group (WG)
@@ -2526,7 +2683,7 @@ OpenJDK Wiki
  - date_published: 2024-02-05T00:00:00+00:00
 
  ## OpenSSH
- - [http://www.openssh.org](http://www.openssh.org)
+ - [https://openssh.org](https://openssh.org)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## https://mta.openssl.org
@@ -2539,7 +2696,7 @@ OpenJDK Wiki
  - tags: ['open source', 'ssl']
 
  ## OpenSSLWiki
- - [http://wiki.openssl.org](http://wiki.openssl.org)
+ - [https://wiki.openssl.org](https://wiki.openssl.org)
  - date_published: 2024-07-16T06:23:34+00:00
 
  ## Home
@@ -2571,7 +2728,7 @@ OpenJDK Wiki
  - date_published: 2024-05-07T18:51:17.679072+00:00
 
  ## IRC channels and meetings
- - [http://eavesdrop.openstack.org](http://eavesdrop.openstack.org)
+ - [https://eavesdrop.openstack.org](https://eavesdrop.openstack.org)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## OpenDev Etherpad
@@ -2589,6 +2746,7 @@ OpenJDK Wiki
  ## OpenInfra Foundation | Meetup Pro
  - [https://groups.openstack.org](https://groups.openstack.org)
  - date_published: 2024-07-01T08:48:47.648452+00:00
+ - date_dead_since: 2025-01-03T22:44:22.211672+00:00
 
  ## List Index - lists.openstack.org
  - [https://lists.openstack.org](https://lists.openstack.org)
@@ -2600,7 +2758,7 @@ OpenJDK Wiki
  - tags: ['open source']
 
  ## New Paste | LodgeIt!
- - [http://paste.openstack.org](http://paste.openstack.org)
+ - [https://paste.openstack.org](https://paste.openstack.org)
  - date_published: 2024-07-01T08:48:28.586345+00:00
 
  ## OpenStack Releases: OpenStack Releases
@@ -2612,7 +2770,7 @@ OpenJDK Wiki
  - date_published: 2024-09-20T00:10:12+00:00
 
  ## OpenStack Specifications
- - [http://specs.openstack.org](http://specs.openstack.org)
+ - [https://specs.openstack.org](https://specs.openstack.org)
  - date_published: 2023-05-16T21:02:20+00:00
 
  ## StoryBoard
@@ -2702,7 +2860,7 @@ OpenJDK Wiki
  - date_published: 2024-05-03T00:00:00+00:00
 
  ## OpenStreetMap Foundation
- - [http://foundation.openstreetmap.org](http://foundation.openstreetmap.org)
+ - [https://foundation.openstreetmap.org](https://foundation.openstreetmap.org)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## OSMF Server Info
@@ -2720,6 +2878,7 @@ OpenJDK Wiki
  ## Sign in - Matomo
  - [https://matomo.openstreetmap.org](https://matomo.openstreetmap.org)
  - date_published: 2024-04-27T07:07:17.319030+00:00
+ - date_dead_since: 2025-01-03T22:48:03.675941+00:00
 
  ## Nominatim Demo
  - [https://nominatim.openstreetmap.org](https://nominatim.openstreetmap.org)
@@ -2755,7 +2914,7 @@ OpenJDK Wiki
  - date_published: 2024-02-14T11:16:27.221847+00:00
 
  ## OpenSubtitles forum - Forum
- - [http://forum.opensubtitles.org](http://forum.opensubtitles.org)
+ - [https://forum.opensubtitles.org](https://forum.opensubtitles.org)
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## Subtitles - download movie and TV Series subtitles
@@ -2765,9 +2924,10 @@ OpenJDK Wiki
  ## Subtitles - download movie and TV Series subtitles
  - [https://static.opensubtitles.org](https://static.opensubtitles.org)
  - date_published: 2024-07-14T16:04:52.362302+00:00
+ - date_dead_since: 2025-01-03T22:48:45.426215+00:00
 
  ## Available Projects
- - [http://trac.opensubtitles.org](http://trac.opensubtitles.org)
+ - [https://trac.opensubtitles.org](https://trac.opensubtitles.org)
  - date_published: 2024-07-14T16:04:49.314792+00:00
 
  ## Open Supply Hub
@@ -2808,15 +2968,15 @@ OpenJDK Wiki
  - date_published: 2024-06-18T17:41:54+00:00
 
  ## openSUSE Events
- - [http://conference.opensuse.org](http://conference.opensuse.org)
+ - [https://conference.opensuse.org](https://conference.opensuse.org)
  - date_published: 2024-07-14T03:21:24.309227+00:00
 
  ## openSUSE Wiki
- - [http://cs.opensuse.org](http://cs.opensuse.org)
+ - [https://cs.opensuse.org](https://cs.opensuse.org)
  - date_published: 2024-06-22T07:07:34+00:00
 
  ## openSUSE Wiki
- - [http://de.opensuse.org](http://de.opensuse.org)
+ - [https://de.opensuse.org](https://de.opensuse.org)
  - date_published: 2024-06-22T07:07:36+00:00
 
  ## openSUSE Documentation
@@ -2828,7 +2988,7 @@ OpenJDK Wiki
  - date_published: 2024-05-01T05:28:46.118147+00:00
 
  ## openSUSE Wiki
- - [http://el.opensuse.org](http://el.opensuse.org)
+ - [https://el.opensuse.org](https://el.opensuse.org)
  - date_published: 2024-06-22T07:07:20+00:00
 
  ## openSUSE Wiki
@@ -2836,7 +2996,7 @@ OpenJDK Wiki
  - date_published: 2024-05-04T15:45:36.093604+00:00
 
  ## openSUSE Wiki
- - [http://es.opensuse.org](http://es.opensuse.org)
+ - [https://es.opensuse.org](https://es.opensuse.org)
  - date_published: 2024-06-22T07:07:33+00:00
 
  ## openSUSE Events
@@ -2844,7 +3004,7 @@ OpenJDK Wiki
  - date_published: 2024-06-22T12:07:07.984540+00:00
 
  ## openSUSE Wiki
- - [http://fi.opensuse.org](http://fi.opensuse.org)
+ - [https://fi.opensuse.org](https://fi.opensuse.org)
  - date_published: 2024-06-22T07:07:26+00:00
 
  ## openSUSE Forums
@@ -2852,7 +3012,7 @@ OpenJDK Wiki
  - date_published: 2024-06-23T00:00:00+00:00
 
  ## openSUSE Wiki
- - [http://fr.opensuse.org](http://fr.opensuse.org)
+ - [https://fr.opensuse.org](https://fr.opensuse.org)
  - date_published: 2024-06-22T07:07:10+00:00
 
  ## Get openSUSE
@@ -2860,19 +3020,19 @@ OpenJDK Wiki
  - date_published: 2023-10-25T21:54:02.204473+00:00
 
  ## openSUSE Wiki
- - [http://hu.opensuse.org](http://hu.opensuse.org)
+ - [https://hu.opensuse.org](https://hu.opensuse.org)
  - date_published: 2024-06-22T07:07:08+00:00
 
  ## openSUSE Wiki
- - [http://is.opensuse.org](http://is.opensuse.org)
+ - [https://is.opensuse.org](https://is.opensuse.org)
  - date_published: 2024-06-22T07:07:22+00:00
 
  ## openSUSE Wiki
- - [http://it.opensuse.org](http://it.opensuse.org)
+ - [https://it.opensuse.org](https://it.opensuse.org)
  - date_published: 2024-06-22T07:07:24+00:00
 
  ## openSUSE Wiki
- - [http://ja.opensuse.org](http://ja.opensuse.org)
+ - [https://ja.opensuse.org](https://ja.opensuse.org)
  - date_published: 2024-06-22T07:07:15+00:00
 
  ## openSUSE Weblate
@@ -2897,11 +3057,11 @@ OpenJDK Wiki
  - date_published: 2023-10-25T21:54:11.240130+00:00
 
  ## openSUSE Wiki
- - [http://nl.opensuse.org](http://nl.opensuse.org)
+ - [https://nl.opensuse.org](https://nl.opensuse.org)
  - date_published: 2024-06-22T07:07:27+00:00
 
  ## openQA
- - [http://openqa.opensuse.org](http://openqa.opensuse.org)
+ - [https://openqa.opensuse.org](https://openqa.opensuse.org)
  - date_published: 2024-06-22T12:07:19.342545+00:00
 
  ## The makers' choice for sysadmins, developers and desktop users.
@@ -2914,15 +3074,15 @@ OpenJDK Wiki
  - date_published: 2024-06-30T21:05:12+00:00
 
  ## openSUSE Wiki
- - [http://pl.opensuse.org](http://pl.opensuse.org)
+ - [https://pl.opensuse.org](https://pl.opensuse.org)
  - date_published: 2024-06-22T07:07:31+00:00
 
  ## Página Principal - openSUSE Wiki
- - [http://pt.opensuse.org](http://pt.opensuse.org)
+ - [https://pt.opensuse.org](https://pt.opensuse.org)
  - date_published: 2024-06-22T07:07:28+00:00
 
  ## openSUSE Wiki
- - [http://ru.opensuse.org](http://ru.opensuse.org)
+ - [https://ru.opensuse.org](https://ru.opensuse.org)
  - date_published: 2024-06-22T07:07:21+00:00
 
  ## SUSE Security Team Blog
@@ -2946,15 +3106,15 @@ OpenJDK Wiki
  - date_published: 2019-03-13T12:22:30+00:00
 
  ## openSUSE Wiki
- - [http://sv.opensuse.org](http://sv.opensuse.org)
+ - [https://sv.opensuse.org](https://sv.opensuse.org)
  - date_published: 2024-06-22T07:07:16+00:00
 
  ## Ana Sayfa - openSUSE Wiki
- - [http://tr.opensuse.org](http://tr.opensuse.org)
+ - [https://tr.opensuse.org](https://tr.opensuse.org)
  - date_published: 2024-06-22T07:07:23+00:00
 
  ## openSUSE Wiki
- - [http://vi.opensuse.org](http://vi.opensuse.org)
+ - [https://vi.opensuse.org](https://vi.opensuse.org)
  - date_published: 2024-06-22T07:07:05+00:00
 
  ## openSUSE Wiki
@@ -2962,15 +3122,15 @@ OpenJDK Wiki
  - date_published: 2024-06-22T22:10:37+00:00
 
  ## openSUSE Wiki
- - [http://zh.opensuse.org](http://zh.opensuse.org)
+ - [https://zh.opensuse.org](https://zh.opensuse.org)
  - date_published: 2024-06-22T07:07:11+00:00
 
  ## openSUSE Wiki
- - [http://zh-tw.opensuse.org](http://zh-tw.opensuse.org)
+ - [https://zh-tw.opensuse.org](https://zh-tw.opensuse.org)
  - date_published: 2024-06-22T07:07:12+00:00
 
  ## Home | OpenSUSI
- - [https://www.opensusi.org](https://www.opensusi.org)
+ - [http://www.opensusi.org](http://www.opensusi.org)
  - date_published: 2024-07-20T21:28:42.940342+00:00
 
  ## Open Syllabus: Galaxy
@@ -2979,18 +3139,19 @@ OpenJDK Wiki
 
  ## Open Syllabus
  - [https://opensyllabus.org](https://opensyllabus.org)
- - date_published: 2024-06-22T10:30:58.437951+00:00
+ - date_published: 2024-06-21T16:54:07+00:00
 
  ## Start
- - [https://www.opentaal.org](https://www.opentaal.org)
+ - [https://opentaal.org](https://opentaal.org)
  - date_published: 2021-12-30T00:00:00+00:00
 
  ## Deneme Bonusu Veren Siteler
  - [https://opentaxforms.org](https://opentaxforms.org)
  - date_published: 2024-04-19T22:13:03+00:00
+ - date_dead_since: 2025-01-03T22:55:08.140349+00:00
 
  ## Berlin Twine Jam #1 by OpenTechSchool
- - [http://berlintwinejam.opentechschool.org](http://berlintwinejam.opentechschool.org)
+ - [https://berlintwinejam.opentechschool.org](https://berlintwinejam.opentechschool.org)
  - date_published: 2013-07-27T00:00:00+00:00
 
  ## Open Telecoms Planet
@@ -3002,7 +3163,7 @@ OpenJDK Wiki
  - date_published: 2023-09-20T01:07:11+00:00
 
  ## Project on Government Oversight (POGO)
- - [http://openthegovernment.org](http://openthegovernment.org)
+ - [https://openthegovernment.org](https://openthegovernment.org)
  - date_published: 2024-07-18T14:05:11+00:00
 
  ## Open source silicon root of trust (RoT) | OpenTitan
@@ -3047,7 +3208,7 @@ OpenJDK Wiki
  - date_published: 2024-06-16T05:58:27.956642+00:00
 
  ## OpenTripPlanner
- - [https://www.opentripplanner.org](https://www.opentripplanner.org)
+ - [https://opentripplanner.org](https://opentripplanner.org)
  - date_published: 2023-05-03T09:07:24+00:00
 
  ## BaNaNaS - BaNaNaS - OpenTTD
@@ -3099,7 +3260,7 @@ OpenJDK Wiki
  - date_published: 2024-06-12T12:17:37.445392+00:00
 
  ## Open Data in Greenville, SC
- - [http://openupstate.org](http://openupstate.org)
+ - [https://openupstate.org](https://openupstate.org)
  - date_published: 2024-06-26T23:09:55+00:00
 
  ## Universal Scene Description
@@ -3111,7 +3272,7 @@ OpenJDK Wiki
  - date_published: 2024-10-31T05:48:37.079367+00:00
 
  ## OpenVDB
- - [https://www.openvdb.org](https://www.openvdb.org)
+ - [https://openvdb.org](https://openvdb.org)
  - date_published: 2023-11-01T00:00:00+00:00
 
  ## Openverse API
@@ -3123,7 +3284,7 @@ OpenJDK Wiki
  - date_published: 2024-07-20T01:08:27+00:00
 
  ## Openverse
- - [https://openverse.org](https://openverse.org)
+ - [http://openverse.org](http://openverse.org)
  - date_published: 2024-05-17T09:16:07+00:00
  - tags: ['audio assets', 'image assets', 'search engine']
 
@@ -3132,7 +3293,7 @@ OpenJDK Wiki
  - date_published: 2024-06-18T05:29:12+00:00
 
  ## High performance visualization and computation for the web | Open Visualization
- - [https://www.openvisualization.org](https://www.openvisualization.org)
+ - [https://openvisualization.org](https://openvisualization.org)
  - date_published: 2024-06-23T21:07:25.141906+00:00
 
  ## de.openvms.org - Für die deutschsprachige VMS-Community
@@ -3144,7 +3305,7 @@ OpenJDK Wiki
  - date_published: 2024-08-17T18:07:57+00:00
 
  ## Open vSwitch
- - [http://openvswitch.org](http://openvswitch.org)
+ - [https://openvswitch.org](https://openvswitch.org)
  - date_published: 2024-08-27T21:29:58+00:00
 
  ## System Dashboard - bugs.openvz.org
@@ -3221,7 +3382,7 @@ OpenJDK Wiki
  - date_published: 2024-08-05T18:17:59.969661+00:00
 
  ## Open Works | Make Space for All.
- - [https://www.openworksbmore.org](https://www.openworksbmore.org)
+ - [https://openworksbmore.org](https://openworksbmore.org)
  - date_published: 2024-10-15T18:58:00.382188+00:00
 
  ## Index of /
@@ -3262,7 +3423,7 @@ OpenJDK Wiki
  - tags: ['operating system', 'routers']
 
  ## Old OpenWrt Wiki [Old OpenWrt Wiki]
- - [http://wiki.openwrt.org](http://wiki.openwrt.org)
+ - [https://wiki.openwrt.org](https://wiki.openwrt.org)
  - date_published: 2024-09-14T08:36:03.676130+00:00
 
  ## OpenXcom | Open-source clone of the original X-Com
@@ -3271,11 +3432,11 @@ OpenJDK Wiki
  - tags: ['xcom', 'open source', 'video game']
 
  ## BSA Plumbing – The difficult we do today. The impossible just takes a little longer.
- - [http://openxos.org](http://openxos.org)
+ - [https://openxos.org](https://openxos.org)
  - date_published: 2024-06-17T02:20:31.379416+00:00
 
  ## OpenYou
- - [http://www.openyou.org](http://www.openyou.org)
+ - [https://openyou.org](https://openyou.org)
  - date_published: 2024-09-09T20:44:23.870426+00:00
 
  ## OpenZFS
@@ -3284,7 +3445,7 @@ OpenJDK Wiki
  - tags: ['open source', 'zfs']
 
  ## Home - Opera Education
- - [https://www.operaeducation.org](https://www.operaeducation.org)
+ - [https://operaeducation.org](https://operaeducation.org)
  - date_published: 2024-07-02T23:49:15.759634+00:00
 
  ## Home
@@ -3292,7 +3453,7 @@ OpenJDK Wiki
  - date_published: 2022-03-07T22:36:09+00:00
 
  ## Home - Opera Philadelphia
- - [https://www.operaphila.org](https://www.operaphila.org)
+ - [https://operaphila.org](https://operaphila.org)
  - date_published: 2024-09-06T21:52:45.673733+00:00
 
  ## Online Actions
@@ -3313,11 +3474,11 @@ OpenJDK Wiki
  - date_published: 2024-06-15T06:03:47.505042+00:00
 
  ## Operation Secret Santa
- - [https://www.operationsecretsanta.org](https://www.operationsecretsanta.org)
+ - [https://operationsecretsanta.org](https://operationsecretsanta.org)
  - date_published: 2024-07-08T16:53:32.158068+00:00
 
  ## Operation Spark
- - [https://www.operationspark.org](https://www.operationspark.org)
+ - [https://operationspark.org](https://operationspark.org)
  - date_published: 2024-07-20T22:16:58.680796+00:00
 
  ## Operational Excellence - Lean Six Sigma - Organizational Design - High Performance Organization
@@ -3377,7 +3538,7 @@ OpenJDK Wiki
  - date_published: 2024-12-13T03:40:27.349734+00:00
 
  ## The fast, Open Source and easy-to-use solver
- - [https://www.optaplanner.org](https://www.optaplanner.org)
+ - [https://optaplanner.org](https://optaplanner.org)
  - date_published: 2023-09-06T00:00:00+00:00
 
  ## Index of /
@@ -3405,7 +3566,7 @@ OpenJDK Wiki
  - date_published: 2024-05-08T11:19:50.114572+00:00
 
  ## Optical Imaging and Spectroscopy
- - [http://opticalimaging.org](http://opticalimaging.org)
+ - [https://opticalimaging.org](https://opticalimaging.org)
  - date_published: 2024-06-30T05:43:15.446187+00:00
 
  ## Login or Create Account - Optica Open
@@ -3429,11 +3590,11 @@ OpenJDK Wiki
  - date_published: 2024-09-02T11:47:26.543325+00:00
 
  ## Homepage - OPTins
- - [https://www.optins.org](https://www.optins.org)
+ - [https://optins.org](https://optins.org)
  - date_published: 2024-08-09T04:00:39+00:00
 
  ## Opt: A Domain Specific Language for Non-linear Least Squares Optimization in Graphics and Imaging
- - [http://optlang.org](http://optlang.org)
+ - [https://optlang.org](https://optlang.org)
  - date_published: 2018-09-05T02:58:30+00:00
 
  ## OptunaHub
@@ -3449,11 +3610,11 @@ OpenJDK Wiki
  - date_published: 2024-12-15T04:29:54.117342+00:00
 
  ## Oregon Public Universities Retirement Plans (OPURP)
- - [https://www.opurp.org](https://www.opurp.org)
+ - [https://opurp.org](https://opurp.org)
  - date_published: 2024-07-02T05:25:11.934063+00:00
 
  ## Give and it gets there | Operation USA
- - [http://www.opusa.org](http://www.opusa.org)
+ - [https://opusa.org](https://opusa.org)
  - date_published: 2024-07-09T18:52:06+00:00
 
  ## Opus Bono Sacerdotii
@@ -3482,19 +3643,20 @@ OpenJDK Wiki
  - tags: ['movies', 'interesting', 'kevin bacon', 'wtf']
 
  ## Home - Oral History Association
- - [https://www.oralhistory.org](https://www.oralhistory.org)
+ - [https://oralhistory.org](https://oralhistory.org)
  - date_published: 2012-08-28T21:48:19+00:00
 
  ## Oral Tradition - An open-access journal devoted to the study of the world’s oral traditions, past and present.
  - [https://journal.oraltradition.org](https://journal.oraltradition.org)
  - date_published: 2024-06-30T07:39:13.231947+00:00
+ - date_dead_since: 2025-01-03T23:17:06.712252+00:00
 
  ## O-RAN ALLIANCE e.V
- - [https://www.o-ran.org](https://www.o-ran.org)
+ - [https://o-ran.org](https://o-ran.org)
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## Home
- - [https://www.orangebowl.org](https://www.orangebowl.org)
+ - [https://orangebowl.org](https://orangebowl.org)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## Wiki-Orange Pi
@@ -3511,11 +3673,11 @@ OpenJDK Wiki
  - date_published: 2024-08-15T00:00:00+00:00
 
  ## Page Web Officielle des Orange Seeds
- - [http://orangeseeds.org](http://orangeseeds.org)
+ - [https://orangeseeds.org](https://orangeseeds.org)
  - date_published: 2017-04-08T19:58:40+00:00
 
  ## Orange Smoothie Productions - A PC Game Mod Team
- - [http://www.orangesmoothie.org](http://www.orangesmoothie.org)
+ - [https://orangesmoothie.org](https://orangesmoothie.org)
  - date_published: 2024-03-27T22:26:41+00:00
 
  ## Accueil | Orangina Rouge
@@ -3535,7 +3697,7 @@ OpenJDK Wiki
  - date_published: 2024-12-04T20:37:09.511385+00:00
 
  ## Oak Ridge Associated Universities
- - [https://www.orau.org](https://www.orau.org)
+ - [https://orau.org](https://orau.org)
  - date_published: 2024-07-18T00:00:00+00:00
 
  ## ORA – Omega Resilience Awards
@@ -3559,7 +3721,7 @@ OpenJDK Wiki
  - date_published: 2024-05-24T14:41:10+00:00
 
  ## Inicio | Orca Ibérica
- - [https://www.orcaiberica.org](https://www.orcaiberica.org)
+ - [https://orcaiberica.org](https://orcaiberica.org)
  - date_published: 2024-05-02T00:00:00+00:00
 
  ## ORCID
@@ -3571,7 +3733,7 @@ OpenJDK Wiki
  - date_published: 2024-04-10T00:00:00+00:00
 
  ## Home
- - [http://ordb.org](http://ordb.org)
+ - [https://ordb.org](https://ordb.org)
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## Atlas of Ordovician Life
@@ -3592,7 +3754,7 @@ OpenJDK Wiki
  - date_published: 2024-07-02T05:21:59.665197+00:00
 
  ## Oregon Convention Center
- - [https://www.oregoncc.org](https://www.oregoncc.org)
+ - [https://oregoncc.org](https://oregoncc.org)
  - date_published: 2024-07-12T19:47:13+00:00
 
  ## Home » Oregon Community Foundation
@@ -3600,7 +3762,7 @@ OpenJDK Wiki
  - date_published: 2024-07-12T19:52:39.899636+00:00
 
  ## Oregon Brewers Guild
- - [https://www.oregoncraftbeer.org](https://www.oregoncraftbeer.org)
+ - [https://oregoncraftbeer.org](https://oregoncraftbeer.org)
  - date_published: 2024-07-09T15:14:09.384049+00:00
 
  ## Oregon Digital
@@ -3608,7 +3770,7 @@ OpenJDK Wiki
  - date_published: 2024-07-02T05:22:44.494659+00:00
 
  ## Oregon Education Association (OEA) | Oregon Education Association
- - [https://www.oregoned.org](https://www.oregoned.org)
+ - [https://oregoned.org](https://oregoned.org)
  - date_published: 2024-07-09T16:47:34.058587+00:00
 
  ## Oregon Film – Elevate your story
@@ -3616,23 +3778,23 @@ OpenJDK Wiki
  - date_published: 2024-07-14T13:55:37.218782+00:00
 
  ## Oregon Food Bank
- - [https://www.oregonfoodbank.org](https://www.oregonfoodbank.org)
+ - [https://oregonfoodbank.org](https://oregonfoodbank.org)
  - date_published: 2024-07-12T19:52:09.600088+00:00
 
  ## Home
- - [https://www.oregonhumane.org](https://www.oregonhumane.org)
+ - [https://oregonhumane.org](https://oregonhumane.org)
  - date_published: 2024-06-07T00:00:00+00:00
 
  ## Home — Oregon Humanities
- - [http://oregonhumanities.org](http://oregonhumanities.org)
+ - [https://oregonhumanities.org](https://oregonhumanities.org)
  - date_published: 2024-08-19T20:28:56.198158+00:00
 
  ## Home - Oregon Nurses Foundation
- - [http://www.oregonnursesfoundation.org](http://www.oregonnursesfoundation.org)
+ - [https://oregonnursesfoundation.org](https://oregonnursesfoundation.org)
  - date_published: 2024-10-28T04:52:34.026647+00:00
 
  ## Oregon Rebate 2024
- - [https://www.oregonrebate.org](https://www.oregonrebate.org)
+ - [https://oregonrebate.org](https://oregonrebate.org)
  - date_published: 2024-03-12T00:00:00+00:00
 
  ## ORLA
@@ -3640,7 +3802,7 @@ OpenJDK Wiki
  - date_published: 2024-03-26T00:00:00+00:00
 
  ## Nursing Jobs - Oregon Nurse Career Center
- - [http://jobs.oregonrn.org](http://jobs.oregonrn.org)
+ - [https://jobs.oregonrn.org](https://jobs.oregonrn.org)
  - date_published: 2024-10-28T04:52:42.708069+00:00
 
  ## Oregon Nurses Association
@@ -3648,7 +3810,7 @@ OpenJDK Wiki
  - date_published: 2024-10-28T04:52:48.186940+00:00
 
  ## Oregon Student Nurses' Association
- - [http://www.oregonsna.org](http://www.oregonsna.org)
+ - [http://oregonsna.org](http://oregonsna.org)
  - date_published: 2024-10-28T04:52:50.538591+00:00
 
  ## Park Store
@@ -3656,11 +3818,11 @@ OpenJDK Wiki
  - date_published: 2024-09-15T15:04:57.439022+00:00
 
  ## Oregon Story Board
- - [http://oregonstoryboard.org](http://oregonstoryboard.org)
+ - [https://oregonstoryboard.org](https://oregonstoryboard.org)
  - date_published: 2024-06-27T06:29:28.724387+00:00
 
  ## Oregon Walks – Protecting Your Right to Roam
- - [http://www.oregonwalks.org](http://www.oregonwalks.org)
+ - [https://oregonwalks.org](https://oregonwalks.org)
  - date_published: 2023-10-30T00:00:00+00:00
 
  ## Oregon Zoo
@@ -3672,7 +3834,7 @@ OpenJDK Wiki
  - date_published: 2024-03-23T23:29:40+00:00
 
  ## Observer Research Foundation | ORF
- - [https://www.orfonline.org](https://www.orfonline.org)
+ - [https://orfonline.org](https://orfonline.org)
  - date_published: 2024-07-18T00:00:00+00:00
 
  ## Organic & Natural
@@ -3680,15 +3842,15 @@ OpenJDK Wiki
  - date_published: 2024-06-29T13:43:24+00:00
 
  ## Organic Chemistry Portal
- - [https://www.organic-chemistry.org](https://www.organic-chemistry.org)
+ - [https://organic-chemistry.org](https://organic-chemistry.org)
  - date_published: 2024-10-19T04:35:45.598137+00:00
 
  ## Home - Organic Consumers
- - [https://www.organicconsumers.org](https://www.organicconsumers.org)
+ - [https://organicconsumers.org](https://organicconsumers.org)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## ACS Division of Organic Chemistry - Homepage
- - [https://www.organicdivision.org](https://www.organicdivision.org)
+ - [https://organicdivision.org](https://organicdivision.org)
  - date_published: 2024-10-19T04:53:17.410675+00:00
 
  ## Organic Intelligence | The end of Trauma Course | Trauma Safe
@@ -3696,11 +3858,11 @@ OpenJDK Wiki
  - date_published: 2024-06-12T12:46:54.938211+00:00
 
  ## Organic/Mechanic - Since 2002
- - [http://www.organicmechanic.org](http://www.organicmechanic.org)
+ - [https://organicmechanic.org](https://organicmechanic.org)
  - date_published: 2024-06-28T14:28:53.078377+00:00
 
  ## Organic to Be - Holistic health solution
- - [http://organictobe.org](http://organictobe.org)
+ - [https://organictobe.org](https://organictobe.org)
  - date_published: 2024-06-16T22:59:56.294231+00:00
 
  ## Organiser Weekly - Voice of the Nation
@@ -3712,7 +3874,7 @@ OpenJDK Wiki
  - date_published: 2024-06-15T18:16:52.162702+00:00
 
  ## OrganizeFor – OrganizeFor powered by Color Of Change
- - [http://www.organizefor.org](http://www.organizefor.org)
+ - [https://organizefor.org](https://organizefor.org)
  - date_published: 2024-09-18T21:47:55.459864+00:00
 
  ## Home
@@ -3749,7 +3911,7 @@ OpenJDK Wiki
  - date_published: 1970-01-01T00:00:01+00:00
 
  ## The Oric Site
- - [https://www.oric.org](https://www.oric.org)
+ - [https://oric.org](https://oric.org)
  - date_published: 2024-07-02T23:58:55.470202+00:00
 
  ## Orientando
@@ -3757,7 +3919,7 @@ OpenJDK Wiki
  - date_published: 2024-07-18T17:28:00.180648+00:00
 
  ## Orientando – Um espaço de aprendizagem
- - [http://orientando.org](http://orientando.org)
+ - [https://orientando.org](https://orientando.org)
  - date_published: 2024-07-18T17:27:57.069828+00:00
 
  ## OrigamiUSA
@@ -3765,7 +3927,7 @@ OpenJDK Wiki
  - date_published: 2024-05-04T07:00:29.903510+00:00
 
  ## Home
- - [http://www.originalgreen.org](http://www.originalgreen.org)
+ - [https://originalgreen.org](https://originalgreen.org)
  - date_published: 2024-06-28T13:28:26.997469+00:00
 
  ## Financial & Housing Counseling Services, Charleston, SC - OriginSC
@@ -3785,7 +3947,7 @@ OpenJDK Wiki
  - date_published: 2022-10-21T22:50:56+00:00
 
  ## Open Research Knowledge Graph
- - [https://www.orkg.org](https://www.orkg.org)
+ - [https://orkg.org](https://orkg.org)
  - date_published: 2024-06-22T06:12:10.246830+00:00
 
  ## Fueling Orlando's Economy | Orlando Economic Partnership
@@ -3797,7 +3959,7 @@ OpenJDK Wiki
  - date_published: 2024-01-25T04:52:31+00:00
 
  ## The Ornery American - www.ornery.org
- - [http://www.ornery.org](http://www.ornery.org)
+ - [https://ornery.org](https://ornery.org)
  - date_published: 2024-06-20T02:56:30.064412+00:00
 
  ## Community Theatre | Orpheus Theatre
@@ -3805,7 +3967,7 @@ OpenJDK Wiki
  - date_published: 2024-12-22T03:26:52.265100+00:00
 
  ## Orquesta de Córdoba
- - [http://orquestadecordoba.org](http://orquestadecordoba.org)
+ - [https://orquestadecordoba.org](https://orquestadecordoba.org)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Orrin G. Hatch Foundation
@@ -3813,11 +3975,11 @@ OpenJDK Wiki
  - date_published: 2024-04-29T04:48:38.901574+00:00
 
  ## Welcome To Orthomolecular.org
- - [http://orthomolecular.org](http://orthomolecular.org)
+ - [https://orthomolecular.org](https://orthomolecular.org)
  - date_published: 2024-07-29T16:31:56+00:00
 
  ## Evolutionary Genetics Lab | UQ | Science | Australia |
- - [https://www.ortizbarrientoslab.org](https://www.ortizbarrientoslab.org)
+ - [https://ortizbarrientoslab.org](https://ortizbarrientoslab.org)
  - date_published: 2024-08-11T22:05:37.554011+00:00
 
  ## Ortles Project
@@ -3825,19 +3987,19 @@ OpenJDK Wiki
  - date_published: 2024-10-29T16:11:51.910703+00:00
 
  ## KFZ-Kennzeichen Generator Österreich, Deutschland, Schweiz und viele mehr
- - [http://ortstafel.org](http://ortstafel.org)
+ - [https://ortstafel.org](https://ortstafel.org)
  - date_published: 2024-07-04T14:29:17.862239+00:00
 
  ## Sorry, the website has been stopped
- - [http://www.orunla.org](http://www.orunla.org)
- - date_published: 2024-04-19T07:55:52+00:00
+ - [https://orunla.org](https://orunla.org)
+ - date_published: 2024-04-05T03:55:38+00:00
 
  ## Welcome to OS108 Website
  - [https://os108.org](https://os108.org)
  - date_published: 2024-01-23T07:28:09+00:00
 
  ## Welcome to VOICE - OS/2 - eCS - ArcaOS News, Information and Education
- - [http://www.os2voice.org](http://www.os2voice.org)
+ - [https://www.os2voice.org](https://www.os2voice.org)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Login or Create Account - Awards
@@ -3845,19 +4007,19 @@ OpenJDK Wiki
  - date_published: 2024-07-08T13:06:25+00:00
 
  ## Home | Optica
- - [http://osa.org](http://osa.org)
+ - [https://osa.org](https://osa.org)
  - date_published: 2024-06-17T11:46:16.976873+00:00
 
  ## OSADL: OSADL - Open Source Automation Development Lab eG
- - [https://www.osadl.org](https://www.osadl.org)
+ - [https://osadl.org](https://osadl.org)
  - date_published: 2024-07-08T12:53:37.768746+00:00
 
  ## Open Source Applications Foundation - Welcome
- - [http://blogs.osafoundation.org](http://blogs.osafoundation.org)
+ - [https://blogs.osafoundation.org](https://blogs.osafoundation.org)
  - date_published: 2018-07-29T16:27:26+00:00
 
  ## Open Source Applications Foundation - Welcome
- - [http://chandler.osafoundation.org](http://chandler.osafoundation.org)
+ - [https://chandler.osafoundation.org](https://chandler.osafoundation.org)
  - date_published: 2018-07-29T16:27:26+00:00
 
  ## Osage News | Front Page - Osage News
@@ -3865,7 +4027,7 @@ OpenJDK Wiki
  - date_published: 2024-06-09T00:00:00+00:00
 
  ## osamasaeed.org
- - [http://www.osamasaeed.org](http://www.osamasaeed.org)
+ - [https://osamasaeed.org](https://osamasaeed.org)
  - date_published: 2024-06-18T11:23:14.062975+00:00
 
  ## Optica Publishing Group
@@ -3908,162 +4070,4 @@ OpenJDK Wiki
  ## Loading...
  - [https://membership.oscars.org](https://membership.oscars.org)
  - date_published: 2024-05-08T11:20:53.175341+00:00
-
- ## Oscars.org | Academy of Motion Picture Arts and Sciences
- - [https://oscars.org](https://oscars.org)
- - date_published: 2024-01-12T21:10:31+00:00
- - tags: ['oscars']
-
- ## Academy Press Office
- - [https://press.oscars.org](https://press.oscars.org)
- - date_published: 2024-05-08T11:21:04.423299+00:00
-
- ## Home
- - [https://www.oscar-system.org](https://www.oscar-system.org)
- - date_published: 2024-12-18T02:49:30+00:00
-
- ## Organization for Security and Co-operation in Europe
- - [https://www.osce.org](https://www.osce.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Osceola County Home Page
- - [https://www.osceola.org](https://www.osceola.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Toby Kaufmann-Buhler
- - [https://oscillation.org](https://oscillation.org)
- - date_published: 2024-12-25T20:46:21.056916+00:00
-
- ## Home - OS-Climate
- - [https://os-climate.org](https://os-climate.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home - Open Source Collective
- - [https://oscollective.org](https://oscollective.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Introduction | API
- - [https://docs.oscwii.org](https://docs.oscwii.org)
- - date_published: 2024-06-18T16:52:06.904772+00:00
-
- ## Open Shop Channel
- - [https://oscwii.org](https://oscwii.org)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Open Shop Channel Status
- - [https://status.oscwii.org](https://status.oscwii.org)
- - date_published: 2024-10-22T22:03:04.942865+00:00
-
- ## OSDev.org • Index page
- - [https://forum.osdev.org](https://forum.osdev.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## OS Development
- - [https://osdev.org](https://osdev.org)
- - date_published: 2011-12-30T21:42:10+00:00
-
- ## Expanded Main Page - OSDev Wiki
- - [https://wiki.osdev.org](https://wiki.osdev.org)
- - date_published: 2023-12-26T20:32:40.382941+00:00
-
- ## The Open Group OSDU® Forum
- - [https://osduforum.org](https://osduforum.org)
- - date_published: 2024-06-28T08:46:40.133779+00:00
-
- ## Rod's Slide Rules
- - [https://osgalleries.org](https://osgalleries.org)
- - date_published: 2023-10-25T21:55:08.267829+00:00
-
- ## OSGeo Download Server
- - [https://download.osgeo.org](https://download.osgeo.org)
- - date_published: 2023-09-15T14:35:59+00:00
-
- ## OSGeo Git Services: Gitea - Git with a cup of tea
- - [https://git.osgeo.org](https://git.osgeo.org)
- - date_published: 2024-10-16T05:41:59.196842+00:00
-
- ## GRASS GIS - Bringing advanced geospatial technologies to the world
- - [https://grass.osgeo.org](https://grass.osgeo.org)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## GRASS-Wiki - GRASS-Wiki
- - [https://grasswiki.osgeo.org](https://grasswiki.osgeo.org)
- - date_published: 2024-07-07T21:32:47+00:00
-
- ## HTML REDIRECT
- - [https://lists.osgeo.org](https://lists.osgeo.org)
- - date_published: 2015-10-08T22:52:02+00:00
-
- ## OSGeo - OSGeo
- - [https://osgeo.org](https://osgeo.org)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## PhotoPrism: AI-Powered Photos App
- - [https://photoprism.osgeo.org](https://photoprism.osgeo.org)
- - date_published: 2024-12-22T05:00:02.963732+00:00
-
- ## Planet OSGeo
- - [https://planet.osgeo.org](https://planet.osgeo.org)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## OSGeo Trac Instances
- - [https://trac.osgeo.org](https://trac.osgeo.org)
- - date_published: 2024-12-16T11:37:13+00:00
- - tags: ['earth', 'globe visualization']
-
- ## OSGeo Oceania
- - [https://osgeo-oceania.org](https://osgeo-oceania.org)
- - date_published: 2024-12-22T05:05:08.069276+00:00
-
- ## OSGi Working Group | The Eclipse Foundation
- - [https://www.osgi.org](https://www.osgi.org)
- - date_published: 2024-07-01T18:26:53+00:00
-
- ## Osgrid | Home
- - [http://www.osgrid.org](http://www.osgrid.org)
- - date_published: 2024-06-24T05:45:54.577792+00:00
-
- ## Oshin OS – Securing Tomorrow
- - [https://oshinos.org](https://oshinos.org)
- - date_published: 2024-06-14T22:04:45.818202+00:00
-
- ## Open Hardware Summit — September 6, 2013
- - [http://2013.oshwa.org](http://2013.oshwa.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## 2020 Open Hardware Summit – March 13th 2020, NYU School of Law, New York
- - [https://2020.oshwa.org](https://2020.oshwa.org)
- - date_published: 2024-07-07T08:38:06+00:00
-
- ## 2023, 2023 Open Hardware Summit, Open Hardware Summit, OHS, OHS20232023 Open Hardware Summit,Just another Open Source Hardware Association site
- - [https://2023.oshwa.org](https://2023.oshwa.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## 2024 Open Hardware Summit – Open Hardware Summit
- - [https://2024.oshwa.org](https://2024.oshwa.org)
- - date_published: 2024-07-07T06:19:56+00:00
-
- ## Open Source Hardware Certificate
- - [http://certificate.oshwa.org](http://certificate.oshwa.org)
- - date_published: 2024-04-28T01:58:41.758525+00:00
-
- ## OSHWA API
- - [https://certificationapi.oshwa.org](https://certificationapi.oshwa.org)
- - date_published: 2024-07-07T08:38:13.159108+00:00
-
- ## OSHWA Certification
- - [https://certification.oshwa.org](https://certification.oshwa.org)
- - date_published: 2024-06-28T20:24:06+00:00
-
- ## Discourse
- - [https://community.oshwa.org](https://community.oshwa.org)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Open Hardware Creators in Academia
- - [https://ohca.oshwa.org](https://ohca.oshwa.org)
- - date_published: 2024-07-07T08:37:56.763968+00:00
-
- ## Open Hardware Month – An OSHWA Initiative
- - [https://ohm.oshwa.org](https://ohm.oshwa.org)
- - date_published: 2024-07-07T08:37:59+00:00
 

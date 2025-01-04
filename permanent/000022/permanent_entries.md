@@ -1,3 +1,11 @@
+ ## Welcome to UBC Physics Olympics Website | UBC Physics Olympics
+ - [https://physoly.phas.ubc.ca](https://physoly.phas.ubc.ca)
+ - date_published: 2024-06-22T09:58:05.785882+00:00
+
+ ## Pacific Institute of Theoretical Physics
+ - [http://pitp.physics.ubc.ca](http://pitp.physics.ubc.ca)
+ - date_published: 2020-12-10T01:43:42+00:00
+
  ## Political Science | University of British Columbia | Vancouver, BC, Canada
  - [https://poli.cms.arts.ubc.ca](https://poli.cms.arts.ubc.ca)
  - date_published: 2024-10-19T10:38:37.944809+00:00
@@ -4006,12 +4014,4 @@
  ## 32-Bit Cafe
  - [https://discourse.32bit.cafe](https://discourse.32bit.cafe)
  - date_published: 2024-01-20T00:00:00+00:00
-
- ## 32-Bit Cafe Gitea
- - [https://git.32bit.cafe](https://git.32bit.cafe)
- - date_published: 2024-06-23T18:34:30.771823+00:00
-
- ## My 32-Bit Cafe
- - [https://my.32bit.cafe](https://my.32bit.cafe)
- - date_published: 2024-02-14T19:37:13+00:00
 

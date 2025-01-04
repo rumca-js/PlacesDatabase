@@ -1,3 +1,95 @@
+ ## Art Passions
+ - [https://artpassions.wordpress.com](https://artpassions.wordpress.com)
+ - date_published: 2024-12-12T19:17:41.104613+00:00
+
+ ## art predator
+ - [http://artpredator.wordpress.com](http://artpredator.wordpress.com)
+ - date_published: 2024-12-31T11:39:12+00:00
+
+ ## Arts Squared
+ - [https://artssquared.wordpress.com](https://artssquared.wordpress.com)
+ - date_published: 2024-05-20T18:18:48.768924+00:00
+
+ ## heuristics for life & work
+ - [https://arturogf.wordpress.com](https://arturogf.wordpress.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Arun's blog
+ - [https://arunsag.wordpress.com](https://arunsag.wordpress.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## United Kingdom Immigration Law Blog
+ - [https://asadakhan.wordpress.com](https://asadakhan.wordpress.com)
+ - date_published: 2024-10-18T20:56:43.807818+00:00
+
+ ## Aspie Diaries
+ - [http://asbiediaries.wordpress.com](http://asbiediaries.wordpress.com)
+ - date_published: 2024-09-03T23:08:45.115074+00:00
+
+ ## As Easy As Riding A Bike
+ - [https://aseasyasridingabike.wordpress.com](https://aseasyasridingabike.wordpress.com)
+ - date_published: 2024-08-19T10:22:38.935336+00:00
+
+ ## asecondmouse
+ - [http://asecondmouse.wordpress.com](http://asecondmouse.wordpress.com)
+ - date_published: 2024-09-04T03:16:33.314858+00:00
+
+ ## A Sense of Immersion
+ - [https://asenseofimmersion.wordpress.com](https://asenseofimmersion.wordpress.com)
+ - date_published: 2024-12-14T13:14:12.597428+00:00
+
+ ## As Folhas Ardem
+ - [http://asfolhasardem.wordpress.com](http://asfolhasardem.wordpress.com)
+ - date_published: 2024-12-20T07:11:08.032662+00:00
+
+ ## Random stream of consciousness
+ - [http://ashishvid.wordpress.com](http://ashishvid.wordpress.com)
+ - date_published: 2025-01-01T02:39:55.496464+00:00
+
+ ## Ashish Vision
+ - [http://ashishvision.wordpress.com](http://ashishvision.wordpress.com)
+ - date_published: 2024-09-17T17:25:46.119769+00:00
+
+ ## Young Radical Escapist with Autism
+ - [https://ashwinkumar19892021.wordpress.com](https://ashwinkumar19892021.wordpress.com)
+ - date_published: 2024-12-25T08:31:35.282520+00:00
+
+ ## Shrink's Views
+ - [http://askdheeraj.wordpress.com](http://askdheeraj.wordpress.com)
+ - date_published: 2024-07-02T09:02:26.555408+00:00
+
+ ## askmarion
+ - [http://askmarion.wordpress.com](http://askmarion.wordpress.com)
+ - date_published: 2024-12-12T08:18:31.054608+00:00
+
+ ## aspergergarden
+ - [http://aspergergarden.wordpress.com](http://aspergergarden.wordpress.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Aspergers and Me
+ - [http://aspergersandmeblog.wordpress.com](http://aspergersandmeblog.wordpress.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Everyday Asperger's
+ - [http://aspergersgirls.wordpress.com](http://aspergersgirls.wordpress.com)
+ - date_published: 2024-09-03T22:51:33.906707+00:00
+
+ ## Aspie Catholic
+ - [http://aspiecatholic.wordpress.com](http://aspiecatholic.wordpress.com)
+ - date_published: 2024-09-03T22:55:36.559686+00:00
+
+ ## Aspie Mouse Blog
+ - [https://aspiemousecom.wordpress.com](https://aspiemousecom.wordpress.com)
+ - date_published: 2024-12-30T21:35:05.069447+00:00
+
+ ## PiecesOfPatrick
+ - [http://aspiepat66.wordpress.com](http://aspiepat66.wordpress.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## An Aspiring Aspie
+ - [http://aspiringaspie652654768.wordpress.com](http://aspiringaspie652654768.wordpress.com)
+ - date_published: 2024-09-03T23:01:53.871179+00:00
+
  ## The ASQ Blog
  - [https://asqblog.wordpress.com](https://asqblog.wordpress.com)
  - date_published: 2024-10-14T19:30:39.710932+00:00
@@ -3916,96 +4008,4 @@
  ## Dan Berard
  - [https://dberarddotcom.wordpress.com](https://dberarddotcom.wordpress.com)
  - date_published: 2024-07-11T15:23:05.839631+00:00
-
- ## DBKR Ally Database
- - [http://dbkrblog.wordpress.com](http://dbkrblog.wordpress.com)
- - date_published: 2024-06-19T01:17:45.087785+00:00
-
- ## shadowplay
- - [https://dcairns.wordpress.com](https://dcairns.wordpress.com)
- - date_published: 2024-12-19T09:43:23.636326+00:00
-
- ## DC House Cat Chiming In
- - [https://dchousecat.wordpress.com](https://dchousecat.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Dominique Dumont's Blog
- - [https://ddumont.wordpress.com](https://ddumont.wordpress.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Dead Homer Society
- - [https://deadhomersociety.wordpress.com](https://deadhomersociety.wordpress.com)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## The Deadliest Blogger: Military History Page
- - [https://deadliestblogpage.wordpress.com](https://deadliestblogpage.wordpress.com)
- - date_published: 2025-01-01T16:50:33.381389+00:00
-
- ## Deadliest Reports
- - [https://deadliestreports.wordpress.com](https://deadliestreports.wordpress.com)
- - date_published: 2024-06-20T03:46:55.453473+00:00
-
- ## Dead Reckonings
- - [https://deadreckonings.wordpress.com](https://deadreckonings.wordpress.com)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Deafblindcan
- - [http://deafblindcan.wordpress.com](http://deafblindcan.wordpress.com)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Deanna-Cian's Blog
- - [http://deannatarpey.wordpress.com](http://deannatarpey.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Dean on Eclipse
- - [https://deanoneclipse.wordpress.com](https://deanoneclipse.wordpress.com)
- - date_published: 2024-07-18T12:23:30.394290+00:00
-
- ## Dean Sas
- - [https://deansas.wordpress.com](https://deansas.wordpress.com)
- - date_published: 2024-08-18T03:01:13+00:00
-
- ## Dear Kitty. Some blog
- - [https://dearkitty1.wordpress.com](https://dearkitty1.wordpress.com)
- - date_published: 2024-10-21T13:00:10.338133+00:00
-
- ## DeavidSedice's blog – Thoughts about programming
- - [https://deavid.wordpress.com](https://deavid.wordpress.com)
- - date_published: 2023-10-25T18:10:48.058627+00:00
-
- ## Debarshi's den
- - [https://debarshiray.wordpress.com](https://debarshiray.wordpress.com)
- - date_published: 2024-07-09T20:02:46.639189+00:00
-
- ## Davar Akher
- - [http://deba.wordpress.com](http://deba.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## debbie eberlin
- - [https://debbieeberlin.wordpress.com](https://debbieeberlin.wordpress.com)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## Debbie Hayton
- - [https://debbiehayton.wordpress.com](https://debbiehayton.wordpress.com)
- - date_published: 2024-07-15T06:54:17.065931+00:00
-
- ## Chronicles of the Scribe
- - [https://debchester.wordpress.com](https://debchester.wordpress.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Pere Ubu's Debraining Machine
- - [http://debraining.wordpress.com](http://debraining.wordpress.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## rcyr's weblog
- - [http://debugfailure.wordpress.com](http://debugfailure.wordpress.com)
- - date_published: 2024-06-17T02:18:46.165832+00:00
-
- ## language: a feminist guide
- - [https://debuk.wordpress.com](https://debuk.wordpress.com)
- - date_published: 2024-05-07T21:56:03.580771+00:00
-
- ## Décadence de Cordicopolis
- - [http://decadencedecordicopolis.wordpress.com](http://decadencedecordicopolis.wordpress.com)
- - date_published: 2024-12-23T19:59:24+00:00
 

@@ -1,3 +1,144 @@
+ ## ABC Science Collaborative - ABC Science Collaborative
+ - [https://abcsciencecollaborative.org](https://abcsciencecollaborative.org)
+ - date_published: 2023-07-25T00:00:00+00:00
+
+ ## Home | The American Board Of Certification
+ - [https://www.abcworld.org](https://www.abcworld.org)
+ - date_published: 2024-06-29T14:12:28+00:00
+
+ ## University of Aberdeen Development Trust SCIO
+ - [https://abdnalumni.org](https://abdnalumni.org)
+ - date_published: 2024-06-17T17:24:25.354099+00:00
+
+ ## abelard public education website
+ - [https://abelard.org](https://abelard.org)
+ - date_published: 2023-10-25T20:53:20.409245+00:00
+
+ ## Abenezer Belachew / Software Developer
+ - [https://abenezer.org](https://abenezer.org)
+ - date_published: 2024-11-20T18:40:22.727657+00:00
+
+ ## Home
+ - [https://aberdeenunipress.org](https://aberdeenunipress.org)
+ - date_published: 2024-10-19T11:07:06.504625+00:00
+
+ ## Home - ABET
+ - [https://abet.org](https://abet.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## AMS
+ - [https://amsapp.abet.org](https://amsapp.abet.org)
+ - date_published: 2024-08-12T08:47:57+00:00
+
+ ## IIS Windows Server
+ - [https://amspub.abet.org](https://amspub.abet.org)
+ - date_published: 2023-03-07T21:04:57+00:00
+
+ ## ABET Assessment Workshops - ABET Assessment Resources
+ - [https://assessment.abet.org](https://assessment.abet.org)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## Home | ABET | Education & Resources
+ - [https://cred.abet.org](https://cred.abet.org)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## 2023 ABET Impact Report
+ - [https://impactreport.abet.org](https://impactreport.abet.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Homepage - ABET Bridge
+ - [https://www.abetbridge.org](https://www.abetbridge.org)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Internet Security Research Group
+ - [https://abetterinternet.org](https://abetterinternet.org)
+ - date_published: 2024-05-08T10:04:45.635051+00:00
+
+ ## Asian Bureau of Finance and Economic Research | ABFER
+ - [https://abfer.org](https://abfer.org)
+ - date_published: 2024-02-24T09:58:34.794824+00:00
+
+ ## Army Benevolent Fund Shop
+ - [https://abfshop.org](https://abfshop.org)
+ - date_published: 2024-10-21T15:49:23.895106+00:00
+
+ ## Law@ABI | ABI Law
+ - [https://law.abi.org](https://law.abi.org)
+ - date_published: 2024-08-18T07:40:24+00:00
+
+ ## Home - The Ability Experience
+ - [https://abilityexperience.org](https://abilityexperience.org)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home - The Ability Experience
+ - [https://give.abilityexperience.org](https://give.abilityexperience.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Blog | Ability Maine
+ - [https://www.abilitymaine.org](https://www.abilitymaine.org)
+ - date_published: 2024-12-13T08:31:48.102299+00:00
+
+ ## A Blade of Grass - A Blade of Grass
+ - [http://www.abladeofgrass.org](http://www.abladeofgrass.org)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## ABLE | Association for Better Living and Education | Creating a Better Future for Our Children and Communities
+ - [https://www.able.org](https://www.able.org)
+ - date_published: 2024-06-14T00:09:16+00:00
+
+ ## Ask an Expert at able2know - Ask Questions, Share Answers
+ - [https://able2know.org](https://able2know.org)
+ - date_published: 2024-05-07T13:47:15.925074+00:00
+
+ ## Able2know Blog
+ - [https://blog.able2know.org](https://blog.able2know.org)
+ - date_published: 2024-06-29T19:11:48.740253+00:00
+
+ ## able2know - Groups
+ - [https://groups.able2know.org](https://groups.able2know.org)
+ - date_published: 2024-06-29T19:11:51.385824+00:00
+
+ ## ABMGG
+ - [https://www.abmgg.org](https://www.abmgg.org)
+ - date_published: 2024-12-12T04:35:15.028034+00:00
+
+ ## Home - American Board of Obesity Medicine
+ - [https://www.abom.org](https://www.abom.org)
+ - date_published: 2016-02-11T16:55:47+00:00
+
+ ## Aborigen
+ - [https://aborigen-gts.org](https://aborigen-gts.org)
+ - date_published: 2024-06-23T18:29:41.489439+00:00
+
+ ## Where Can I Get an Abortion? | U.S. Abortion Clinic Locator
+ - [http://abortionfinder.org](http://abortionfinder.org)
+ - date_published: 2024-07-01T12:56:44.478747+00:00
+ - tags: ['abortion']
+
+ ## Aboundant | Websites & Digital Services for Change-makers
+ - [https://aboundant.org](https://aboundant.org)
+ - date_published: 2020-05-12T07:35:14+00:00
+
+ ## Home
+ - [http://aboutcookies.org](http://aboutcookies.org)
+ - date_published: 2024-06-26T07:24:17.231781+00:00
+
+ ## Home – About-Face: Media literacy and action for teen girls
+ - [http://www.about-face.org](http://www.about-face.org)
+ - date_published: 2024-10-21T04:28:21.767065+00:00
+
+ ## Aboutlist
+ - [https://aboutlist.org](https://aboutlist.org)
+ - date_published: 2024-06-29T17:24:30.590778+00:00
+
+ ## Taxi prices & fares 2024
+ - [https://ta.en.aboutlist.org](https://ta.en.aboutlist.org)
+ - date_published: 2024-06-29T17:24:22.147435+00:00
+
+ ## About Philippines – Philippines Life & Culture
+ - [https://aboutphilippines.org](https://aboutphilippines.org)
+ - date_published: 2023-12-29T22:02:16.911318+00:00
+
  ## AboutPoliticalAds.org | Welcome to AboutPoliticalAds.org
  - [https://aboutpoliticalads.org](https://aboutpoliticalads.org)
  - date_published: 2024-06-25T20:42:02+00:00
@@ -1756,19 +1897,19 @@
  - date_published: 2024-09-16T06:31:10.786542+00:00
 
  ## Adbusters Media Foundation | Journal of the Mental Environment
- - [http://adbusters.org](http://adbusters.org)
+ - [https://adbusters.org](https://adbusters.org)
  - date_published: 2024-10-21T16:45:06.335931+00:00
 
  ## Your guide to financial success in America
- - [https://www.adcminnesota.org](https://www.adcminnesota.org)
+ - [https://adcminnesota.org](https://adcminnesota.org)
  - date_published: 2024-09-18T21:44:29+00:00
 
  ## Welcome to the Ad Council | The Ad Council
- - [https://www.adcouncil.org](https://www.adcouncil.org)
+ - [https://adcouncil.org](https://adcouncil.org)
  - date_published: 2024-09-18T19:20:40.061291+00:00
 
  ## ADCRF - After Death Communication Research Foundation
- - [https://www.adcrf.org](https://www.adcrf.org)
+ - [https://adcrf.org](https://adcrf.org)
  - date_published: 2023-09-08T13:50:55+00:00
 
  ## Home - ADDA - Attention Deficit Disorder Association
@@ -1776,16 +1917,17 @@
  - date_published: 2024-08-19T15:16:01+00:00
 
  ## | Addameer
- - [http://www.addameer.org](http://www.addameer.org)
+ - [https://addameer.org](https://addameer.org)
  - date_published: 2024-07-29T00:00:00+00:00
 
  ## Add-Art
- - [http://add-art.org](http://add-art.org)
+ - [https://add-art.org](https://add-art.org)
  - date_published: 2024-09-26T21:36:21.417223+00:00
 
  ## Loading...
  - [https://portal.addi.ad-datainitiative.org](https://portal.addi.ad-datainitiative.org)
  - date_published: 2024-07-12T08:55:20.540112+00:00
+ - date_dead_since: 2025-01-03T16:46:50.118439+00:00
 
  ## Addgene: A better way to share science
  - [https://www.addgene.org](https://www.addgene.org)
@@ -1853,7 +1995,7 @@
  - date_published: 2024-06-17T11:27:12.668444+00:00
 
  ## ADeTI.org
- - [https://adeti.org](https://adeti.org)
+ - [http://adeti.org](http://adeti.org)
  - date_published: 2024-07-08T10:50:32+00:00
 
  ## Alliance Defending Freedom International
@@ -1865,15 +2007,15 @@
  - date_published: 2024-07-07T05:54:25+00:00
 
  ## Main Homepage
- - [http://adfmedia.org](http://adfmedia.org)
+ - [https://adfmedia.org](https://adfmedia.org)
  - date_published: 2024-06-28T18:00:57+00:00
 
  ## Associació de Directors d'Art i Dissenyadors Gràfics del FAD | ADG-FAD
- - [https://www.adg-fad.org](https://www.adg-fad.org)
+ - [https://adg-fad.org](https://adg-fad.org)
  - date_published: 2016-03-24T15:01:29+00:00
 
  ## ADHDAwarenessMonth 2024
- - [https://www.adhdawarenessmonth.org](https://www.adhdawarenessmonth.org)
+ - [https://adhdawarenessmonth.org](https://adhdawarenessmonth.org)
  - date_published: 2024-10-11T21:19:51.336749+00:00
 
  ## ADHD Evidence Project
@@ -1889,7 +2031,7 @@
  - date_published: 2018-01-22T22:52:27+00:00
 
  ## AD-ID
- - [http://www.ad-id.org](http://www.ad-id.org)
+ - [https://ad-id.org](https://ad-id.org)
  - date_published: 2024-10-14T17:45:23.533087+00:00
 
  ## ADI Design Museum
@@ -1897,7 +2039,7 @@
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## Home: Adirondack Explorer
- - [https://www.adirondackexplorer.org](https://www.adirondackexplorer.org)
+ - [http://adirondackexplorer.org](http://adirondackexplorer.org)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## Асоциация "Развитие на информационното общество"
@@ -1933,12 +2075,12 @@
  - date_published: 2022-12-23T00:00:00+00:00
 
  ## Admidio – Free online membership management software
- - [http://admidio.org](http://admidio.org)
- - date_published: 2024-10-31T03:27:19.899582+00:00
+ - [https://admidio.org](https://admidio.org)
+ - date_published: 2024-06-19T22:09:05.412273+00:00
 
  ## Admidio – Free online membership management software
- - [https://www.admidio.org](https://www.admidio.org)
- - date_published: 2024-06-19T22:09:05.412273+00:00
+ - [http://admidio.org](http://admidio.org)
+ - date_published: 2024-10-31T03:27:19.899582+00:00
 
  ## Adminer - Database management in a single PHP file
  - [https://adminer.org](https://adminer.org)
@@ -1954,7 +2096,7 @@
  - date_published: 2024-06-16T11:35:20+00:00
 
  ## The Cambridge Assessment Admissions Testing website is now closed.
- - [https://www.admissionstesting.org](https://www.admissionstesting.org)
+ - [https://admissionstesting.org](https://admissionstesting.org)
  - date_published: 2024-10-20T03:24:20.557403+00:00
 
  ## adomas
@@ -1966,7 +2108,7 @@
  - date_published: 2024-06-26T14:14:52.986367+00:00
 
  ## Introduction
- - [http://2024-06-06.adoptingerlang.org](http://2024-06-06.adoptingerlang.org)
+ - [https://2024-06-06.adoptingerlang.org](https://2024-06-06.adoptingerlang.org)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## Introduction
@@ -1982,11 +2124,11 @@
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## ADP3
- - [https://www.adp3.org](https://www.adp3.org)
+ - [https://adp3.org](https://adp3.org)
  - date_published: 2024-09-13T18:11:49.390638+00:00
 
  ## Alabama Department of Public Health (ADPH)
- - [http://www.adph.org](http://www.adph.org)
+ - [https://adph.org](https://adph.org)
  - date_published: 2024-07-01T17:00:46+00:00
 
  ## Access and Delivery Partnership
@@ -2002,7 +2144,7 @@
  - date_published: 2024-04-28T01:40:29.638624+00:00
 
  ## Alabama Digital Preservation Network | ADPNet
- - [https://www.adpn.org](https://www.adpn.org)
+ - [https://adpn.org](https://adpn.org)
  - date_published: 2024-02-29T14:00:08+00:00
 
  ## ADP Research | Data-Driven Business Insights
@@ -2030,11 +2172,11 @@
  - date_published: 2024-07-08T11:11:54+00:00
 
  ## ADUnB - Associação dos Docentes da Universidade de Brasília - Seção Sindical do ANDES-SN
- - [http://adunb.org](http://adunb.org)
+ - [https://adunb.org](https://adunb.org)
  - date_published: 2024-07-20T11:20:37.442037+00:00
 
  ## AdvaMed - Advanced Medical Technology Association
- - [https://www.advamed.org](https://www.advamed.org)
+ - [https://advamed.org](https://advamed.org)
  - date_published: 2024-10-22T03:51:25.305742+00:00
 
  ## Institute for Advanced Consciousness Studies
@@ -2042,7 +2184,7 @@
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Advanced Healthcare Associates | Heather Taylor FNP-C |Family Practice| Florida
- - [https://www.advancedhealthcareassociates.org](https://www.advancedhealthcareassociates.org)
+ - [https://advancedhealthcareassociates.org](https://advancedhealthcareassociates.org)
  - date_published: 2024-06-29T23:00:56.698989+00:00
 
  ## Welcome advancedjournals.org - BlueHost.com
@@ -2070,11 +2212,11 @@
  - date_published: 2024-05-02T07:57:09.819504+00:00
 
  ## Home | Asian Americans Advancing Justice - AAJC
- - [https://www.advancingjustice-aajc.org](https://www.advancingjustice-aajc.org)
+ - [https://advancingjustice-aajc.org](https://advancingjustice-aajc.org)
  - date_published: 2024-09-19T21:47:46+00:00
 
  ## Advancing Justice - Asian Law Caucus | Home
- - [https://www.advancingjustice-alc.org](https://www.advancingjustice-alc.org)
+ - [https://advancingjustice-alc.org](https://advancingjustice-alc.org)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Advancing Photonics Technologies
@@ -2082,11 +2224,11 @@
  - date_published: 2024-10-16T05:13:57.456396+00:00
 
  ## advantage austria
- - [https://www.advantageaustria.org](https://www.advantageaustria.org)
+ - [https://advantageaustria.org](https://advantageaustria.org)
  - date_published: 2024-09-15T12:56:29.067284+00:00
 
  ## Portland Credit Unions | Advantis Credit Union
- - [https://www.advantiscu.org](https://www.advantiscu.org)
+ - [https://advantiscu.org](https://advantiscu.org)
  - date_published: 2024-07-12T19:51:28.274824+00:00
 
  ## Adventar
@@ -2102,11 +2244,11 @@
  - date_published: 2017-10-05T04:17:55+00:00
 
  ## Attention Required! | Cloudflare
- - [http://parl.gc.adventist.org](http://parl.gc.adventist.org)
+ - [https://parl.gc.adventist.org](https://parl.gc.adventist.org)
  - date_published: 2024-06-28T20:49:44.555824+00:00
 
  ## Attention Required! | Cloudflare
- - [http://www.adventistliberty.org](http://www.adventistliberty.org)
+ - [https://adventistliberty.org](https://adventistliberty.org)
  - date_published: 2024-06-28T20:43:02.005256+00:00
 
  ## Home - Adventure4Change
@@ -2118,7 +2260,7 @@
  - date_published: 2024-09-24T09:33:28.012926+00:00
 
  ## AdventureX
- - [http://adventurexpo.org](http://adventurexpo.org)
+ - [https://adventurexpo.org](https://adventurexpo.org)
  - date_published: 2024-06-22T14:51:14.584758+00:00
 
  ## Adversarial VQA
@@ -2146,7 +2288,7 @@
  - date_published: 2024-05-07T22:25:08.803904+00:00
 
  ## Advocates International | Welcome to Advocates International
- - [http://www.advocatesinternational.org](http://www.advocatesinternational.org)
+ - [https://advocatesinternational.org](https://advocatesinternational.org)
  - date_published: 2024-06-28T20:51:54.145403+00:00
 
  ## Advogato
@@ -2154,7 +2296,7 @@
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## The Roman Catholic Archdiocese of Washington - adw.org
- - [http://adw.org](http://adw.org)
+ - [https://adw.org](https://adw.org)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Community in Mission
@@ -2174,7 +2316,7 @@
  - date_published: 2024-12-21T10:07:34.768701+00:00
 
  ## Arkansas Education Association | Educators Supporting Students & Public ED
- - [https://www.aeaonline.org](https://www.aeaonline.org)
+ - [https://aeaonline.org](https://aeaonline.org)
  - date_published: 2016-11-15T23:35:35+00:00
 
  ## American Economic Association
@@ -2186,15 +2328,15 @@
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## American Economic Assossiation
- - [https://pubs.aeaweb.org](https://pubs.aeaweb.org)
+ - [http://pubs.aeaweb.org](http://pubs.aeaweb.org)
  - date_published: 2024-04-12T13:35:03+00:00
 
  ## Inicio - AEBioS.org
- - [http://www.aebios.org](http://www.aebios.org)
+ - [https://aebios.org](https://aebios.org)
  - date_published: 2024-10-18T18:19:41.886789+00:00
 
  ## Ensuring the Future of At-Risk Youth
- - [https://www.aecf.org](https://www.aecf.org)
+ - [https://aecf.org](https://aecf.org)
  - date_published: 2024-10-15T17:34:23+00:00
 
  ## Home - Association for Educational Communications and Technology
@@ -2202,7 +2344,7 @@
  - date_published: 2024-05-08T00:00:00+00:00
 
  ## Homepage
- - [https://www.aegee.org](https://www.aegee.org)
+ - [https://aegee.org](https://aegee.org)
  - date_published: 2024-09-21T00:00:00+00:00
 
  ## Fedigram
@@ -2210,7 +2352,7 @@
  - date_published: 2024-05-07T23:12:58.739951+00:00
 
  ## Chad Austin
- - [http://aegisknight.org](http://aegisknight.org)
+ - [https://aegisknight.org](https://aegisknight.org)
  - date_published: 2024-04-18T06:51:34+00:00
 
  ## Aegisub 3.4 – Open-Source Subtitle Editor
@@ -2222,7 +2364,7 @@
  - date_published: 2023-10-25T20:54:50.144785+00:00
 
  ## Annual Report
- - [http://annualreport.aei.org](http://annualreport.aei.org)
+ - [https://annualreport.aei.org](https://annualreport.aei.org)
  - date_published: 2024-02-27T00:00:00+00:00
 
  ## Home
@@ -2230,7 +2372,7 @@
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## AEI/ Empowering Humankind
- - [https://www.aeinstein.org](https://www.aeinstein.org)
+ - [https://aeinstein.org](https://aeinstein.org)
  - date_published: 2024-06-30T03:49:53.012176+00:00
 
  ## AEJM
@@ -2238,15 +2380,15 @@
  - date_published: 2024-12-26T00:00:00+00:00
 
  ## Advanced Energy Legislation Tracker | AEL Tracker
- - [https://www.aeltracker.org](https://www.aeltracker.org)
+ - [https://aeltracker.org](https://aeltracker.org)
  - date_published: 2024-05-06T16:01:56+00:00
 
  ## About us
- - [https://www.aemark.org](https://www.aemark.org)
+ - [https://aemark.org](https://aemark.org)
  - date_published: 2024-09-28T00:00:00+00:00
 
  ## Welcome
- - [https://www.aeoawards.org](https://www.aeoawards.org)
+ - [https://aeoawards.org](https://aeoawards.org)
  - date_published: 2024-09-24T22:55:22.485257+00:00
 
  ## Asociación Española para la Inteligencia Artificial
@@ -2299,7 +2441,7 @@
  - date_published: 2024-01-05T00:00:00+00:00
 
  ## aerostates.org
- - [http://aerostates.org](http://aerostates.org)
+ - [https://aerostates.org](https://aerostates.org)
  - date_published: 2024-06-23T13:24:25.684447+00:00
 
  ## Audio Engineering Society - AES
@@ -2311,7 +2453,7 @@
  - date_published: 2024-06-29T22:16:04.003173+00:00
 
  ## Impexium
- - [http://members.aes.org](http://members.aes.org)
+ - [https://members.aes.org](https://members.aes.org)
  - date_published: 2024-06-29T22:16:13.961606+00:00
 
  ## Audio Engineering Society - AES
@@ -2327,7 +2469,7 @@
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Home - AES Students Website
- - [https://www.aesstudents.org](https://www.aesstudents.org)
+ - [https://aesstudents.org](https://aesstudents.org)
  - date_published: 2023-02-13T00:00:00+00:00
 
  ## Association for European Transport
@@ -2367,15 +2509,15 @@
  - date_published: 2024-08-18T21:06:35.917655+00:00
 
  ## Americans for Free Choice in Medicine
- - [http://www.afcm.org](http://www.afcm.org)
+ - [https://afcm.org](https://afcm.org)
  - date_published: 2014-06-02T00:00:00+00:00
 
  ## African Development Bank Group
- - [https://www.afdb.org](https://www.afdb.org)
+ - [http://afdb.org](http://afdb.org)
  - date_published: 2024-06-20T03:15:19+00:00
 
  ## Alliance Française de Los Angeles
- - [https://www.afdela.org](https://www.afdela.org)
+ - [https://afdela.org](https://afdela.org)
  - date_published: 2015-05-21T16:29:34+00:00
 
  ## Affection: Learning Affective Explanations for Real-World Visual Data
@@ -2407,15 +2549,15 @@
  - date_published: 2024-02-02T16:42:09+00:00
 
  ## Affordable Learning Georgia
- - [https://www.affordablelearninggeorgia.org](https://www.affordablelearninggeorgia.org)
+ - [https://affordablelearninggeorgia.org](https://affordablelearninggeorgia.org)
  - date_published: 2024-07-22T02:12:31+00:00
 
  ## The American Fly Fishing Trade Association
- - [https://www.affta.org](https://www.affta.org)
+ - [https://affta.org](https://affta.org)
  - date_published: 2024-09-17T23:39:52.495684+00:00
 
  ## Home - FLIGHT TEST MUSEUM FOUNDATION
- - [http://afftcmuseum.org](http://afftcmuseum.org)
+ - [https://afftcmuseum.org](https://afftcmuseum.org)
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## Alliance for the Future
@@ -2423,15 +2565,15 @@
  - date_published: 2024-04-28T21:55:51.193954+00:00
 
  ## AFGS
- - [https://www.afgs-syndromes-secs.org](https://www.afgs-syndromes-secs.org)
+ - [https://afgs-syndromes-secs.org](https://afgs-syndromes-secs.org)
  - date_published: 2024-06-28T12:04:39.889951+00:00
 
  ## TITLE
- - [http://www.afhome.org](http://www.afhome.org)
+ - [https://afhome.org](https://afhome.org)
  - date_published: 2024-07-04T08:36:26.178079+00:00
 
  ## AFITE - Le réseau d'experts pour l'environnement
- - [https://www.afite.org](https://www.afite.org)
+ - [https://afite.org](https://afite.org)
  - date_published: 2024-10-14T21:15:47+00:00
 
  ## Alliance for Justice
@@ -2439,7 +2581,7 @@
  - date_published: 2024-10-29T19:58:25.028762+00:00
 
  ## Home
- - [https://www.aflc.org](https://www.aflc.org)
+ - [https://aflc.org](https://aflc.org)
  - date_published: 2024-07-08T18:37:35.683874+00:00
 
  ## America's Unions | AFL-CIO
@@ -2459,19 +2601,19 @@
  - date_published: 2024-12-13T03:41:28.805915+00:00
 
  ## Welcome to the American Foundation for National Museums Scotland
- - [https://www.afnms.org](https://www.afnms.org)
+ - [https://afnms.org](https://afnms.org)
  - date_published: 2024-05-02T10:57:07.160434+00:00
+
+ ## AFNOR solutions – Les services du groupe en France et à l’international
+ - [https://afnor.org](https://afnor.org)
+ - date_published: 2024-06-27T00:00:00+00:00
 
  ## AFNOR Certification : systèmes, produits, services - AFAQ,NF
  - [https://certification.afnor.org](https://certification.afnor.org)
  - date_published: 2024-09-15T21:32:33.650343+00:00
 
- ## AFNOR solutions – Les services du groupe en France et à l’international
- - [https://www.afnor.org](https://www.afnor.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
  ## ICNC Films | ICNC
- - [http://www.aforcemorepowerful.org](http://www.aforcemorepowerful.org)
+ - [https://aforcemorepowerful.org](https://aforcemorepowerful.org)
  - date_published: 2024-06-30T03:55:53.865823+00:00
 
  ## American Friends Musées d'Orsay et de l'Orangerie
@@ -2480,7 +2622,7 @@
  - tags: ['museum']
 
  ## AFPC | American Foreign Policy Council
- - [http://www.afpc.org](http://www.afpc.org)
+ - [https://afpc.org](https://afpc.org)
  - date_published: 2024-08-07T00:00:00+00:00
 
  ## Alliance Francaise of Greater Phoenix
@@ -2488,7 +2630,7 @@
  - date_published: 2024-02-08T16:36:05.678130+00:00
 
  ## American Friends of Prado Museum
- - [https://www.afpradomuseum.org](https://www.afpradomuseum.org)
+ - [http://afpradomuseum.org](http://afpradomuseum.org)
  - date_published: 2024-07-02T18:04:40.480315+00:00
 
  ## AFPY - Le site web de l'Association Francophone Python
@@ -2541,7 +2683,7 @@
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## African American Heritage Trail – Upper Housatonic Valley
- - [https://www.africanamericantrail.org](https://www.africanamericantrail.org)
+ - [https://africanamericantrail.org](https://africanamericantrail.org)
  - date_published: 2024-08-18T17:57:13.724032+00:00
 
  ## Home | African Arguments
@@ -2549,11 +2691,11 @@
  - date_published: 2024-06-19T10:45:33+00:00
 
  ## Togelkilat: Daftar Situs Togel Toto Online Terpercaya Hari Ini
- - [http://www.africanentrepreneurcollective.org](http://www.africanentrepreneurcollective.org)
+ - [https://africanentrepreneurcollective.org](https://africanentrepreneurcollective.org)
  - date_published: 2024-07-14T21:42:20.499387+00:00
 
  ## African Parks
- - [https://www.africanparks.org](https://www.africanparks.org)
+ - [http://africanparks.org](http://africanparks.org)
  - date_published: 2024-09-06T15:22:46+00:00
 
  ## African Storybook
@@ -2582,23 +2724,24 @@
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## Africities, The most important democratic gathering in Africa
- - [https://www.africities.org](https://www.africities.org)
+ - [https://africities.org](https://africities.org)
  - date_published: 2022-06-04T00:00:00+00:00
 
  ## Home - Africon 2013 | sunroom in Phoenix, retaining walls in Dallas TX, home staging in Phoenix AZ, masonry in Scottsdale AZ, awnings in Scottsdale AZ
- - [http://www.africon2013.org](http://www.africon2013.org)
+ - [https://africon2013.org](https://africon2013.org)
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## African School on Internet Governance
  - [https://afrisig.org](https://afrisig.org)
  - date_published: 2024-05-25T05:39:20.520664+00:00
+ - date_dead_since: 2025-01-03T17:30:26.557190+00:00
 
  ## Home
  - [https://afrodigital.org](https://afrodigital.org)
  - date_published: 2024-12-12T18:56:19.758178+00:00
 
  ## Open Source Afro Hair Library
- - [http://afrohairlibrary.org](http://afrohairlibrary.org)
+ - [https://afrohairlibrary.org](https://afrohairlibrary.org)
  - date_published: 2024-02-02T00:00:00+00:00
 
  ## A Social Front Organization
@@ -2606,11 +2749,11 @@
  - date_published: 2023-10-25T20:55:00.121595+00:00
 
  ## Afropop Worldwide | Home
- - [http://www.afropop.org](http://www.afropop.org)
+ - [https://afropop.org](https://afropop.org)
  - date_published: 2024-10-21T04:32:39.312638+00:00
 
  ## American Financial Services Association - Home
- - [http://www.afsaonline.org](http://www.afsaonline.org)
+ - [https://afsaonline.org](https://afsaonline.org)
  - date_published: 2024-09-09T23:53:45.599374+00:00
 
  ## Home | American Friends Service Committee
@@ -2625,36 +2768,36 @@
  - [http://www.afscme.org](http://www.afscme.org)
  - date_published: 2025-01-01T17:22:12.055699+00:00
 
- ## United Faculty & Academic Staff
- - [http://ufas.wi.aft.org](http://ufas.wi.aft.org)
- - date_published: 2024-07-02T01:43:32+00:00
-
  ## AFT - American Federation of Teachers - A Union of Professionals
- - [https://www.aft.org](https://www.aft.org)
+ - [https://aft.org](https://aft.org)
  - date_published: 2024-10-28T02:17:50+00:00
 
+ ## United Faculty & Academic Staff
+ - [https://ufas.wi.aft.org](https://ufas.wi.aft.org)
+ - date_published: 2024-07-02T01:43:32+00:00
+
  ## American Financial Technology Awards
- - [https://www.aftas.org](https://www.aftas.org)
+ - [https://aftas.org](https://aftas.org)
  - date_published: 2024-09-20T00:00:00+00:00
 
  ## Home - American Friends of Tel Aviv University
- - [https://www.aftau.org](https://www.aftau.org)
+ - [https://aftau.org](https://aftau.org)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## a f t e r - d e a t h . o r g
- - [http://after-death.org](http://after-death.org)
+ - [https://after-death.org](https://after-death.org)
  - date_published: 2024-07-12T16:40:17.831474+00:00
 
  ## FANLISTINGS @ AFTER-DEATH.ORG
- - [http://fan.after-death.org](http://fan.after-death.org)
+ - [https://fan.after-death.org](https://fan.after-death.org)
  - date_published: 2024-06-20T21:25:41.094200+00:00
 
  ## If there's a sad future, I'll rewrite it.
- - [http://kagome.after-death.org](http://kagome.after-death.org)
+ - [https://kagome.after-death.org](https://kagome.after-death.org)
  - date_published: 2024-06-20T21:25:48.679389+00:00
 
  ## The Campaign for Philosophical Freedom
- - [http://www.scsad.afterlifeinstitute.org](http://www.scsad.afterlifeinstitute.org)
+ - [https://scsad.afterlifeinstitute.org](https://scsad.afterlifeinstitute.org)
  - date_published: 2019-09-20T16:47:08+00:00
 
  ## Products
@@ -2662,7 +2805,7 @@
  - date_published: 2024-05-14T03:34:46.682220+00:00
 
  ## Advancing the Vehicle Supplier Industry | Discover MEMA
- - [http://www.aftermarketsuppliers.org](http://www.aftermarketsuppliers.org)
+ - [https://aftermarketsuppliers.org](https://aftermarketsuppliers.org)
  - date_published: 2024-06-16T09:38:52+00:00
 
  ## AfterNET Web IRC (qwebirc)
@@ -2670,7 +2813,7 @@
  - date_published: 2017-03-25T05:22:32+00:00
 
  ## After-School All-Stars
- - [http://www.afterschoolallstars.org](http://www.afterschoolallstars.org)
+ - [https://afterschoolallstars.org](https://afterschoolallstars.org)
  - date_published: 2024-07-03T01:46:25.326398+00:00
 
  ## awaken - aftersleep.org - free non-ssl community web hosting & collective
@@ -2678,15 +2821,15 @@
  - date_published: 2024-05-11T00:00:00+00:00
 
  ## afterfront archives
- - [http://archives.aftersleep.org](http://archives.aftersleep.org)
+ - [https://archives.aftersleep.org](https://archives.aftersleep.org)
  - date_published: 2023-11-04T06:37:02+00:00
 
  ## flatrute
- - [http://flatrute.aftersleep.org](http://flatrute.aftersleep.org)
+ - [https://flatrute.aftersleep.org](https://flatrute.aftersleep.org)
  - date_published: 2023-09-14T23:11:24+00:00
 
  ## Lateen
- - [http://lateen.aftersleep.org](http://lateen.aftersleep.org)
+ - [https://lateen.aftersleep.org](https://lateen.aftersleep.org)
  - date_published: 2024-07-15T07:04:31.193318+00:00
 
  ## Home - nyanezt's cosmos
@@ -2694,23 +2837,24 @@
  - date_published: 2024-07-14T19:08:02.999269+00:00
 
  ## Penalty - Homepage
- - [http://penalty.aftersleep.org](http://penalty.aftersleep.org)
+ - [https://penalty.aftersleep.org](https://penalty.aftersleep.org)
  - date_published: 2024-02-16T00:00:00+00:00
 
  ## ryan's epic website
- - [http://ryan.aftersleep.org](http://ryan.aftersleep.org)
+ - [https://ryan.aftersleep.org](https://ryan.aftersleep.org)
  - date_published: 2024-03-01T00:00:00+00:00
 
  ## ryn: Building a better internet
- - [http://ryn.aftersleep.org](http://ryn.aftersleep.org)
+ - [https://ryn.aftersleep.org](https://ryn.aftersleep.org)
  - date_published: 2024-04-05T15:58:03+00:00
 
  ## teadrop
  - [http://teadrop.aftersleep.org](http://teadrop.aftersleep.org)
  - date_published: 2024-07-15T07:04:33.552672+00:00
+ - date_dead_since: 2025-01-03T17:34:28.310578+00:00
 
  ## whitecat
- - [http://whitecat.aftersleep.org](http://whitecat.aftersleep.org)
+ - [https://whitecat.aftersleep.org](https://whitecat.aftersleep.org)
  - date_published: 2024-07-15T07:04:29.418097+00:00
 
  ## After the Plague: Health and History in Medieval England
@@ -2726,7 +2870,7 @@
  - date_published: 2024-07-03T04:18:39.637803+00:00
 
  ## AfTLD
- - [http://www.old.aftld.org](http://www.old.aftld.org)
+ - [https://old.aftld.org](https://old.aftld.org)
  - date_published: 2024-07-03T04:18:46.323079+00:00
 
  ## Afup - Association française des utilisateurs de PHP
@@ -2734,7 +2878,7 @@
  - date_published: 2024-07-08T10:51:12.596354+00:00
 
  ## Home - American Gas Association
- - [https://www.aga.org](https://www.aga.org)
+ - [https://aga.org](https://aga.org)
  - date_published: 2024-04-17T00:00:00+00:00
 
  ## Associaçom Galega da Língua
@@ -2746,23 +2890,23 @@
  - date_published: 2025-01-01T16:39:39.103204+00:00
 
  ## Aseem Agarwala
- - [http://agarwala.org](http://agarwala.org)
+ - [https://agarwala.org](https://agarwala.org)
  - date_published: 2023-01-09T04:08:32+00:00
 
  ## Georgia Institute of Technology
- - [http://www.agatarozga.org](http://www.agatarozga.org)
+ - [http://agatarozga.org](http://agatarozga.org)
  - date_published: 2024-06-22T09:46:02.627729+00:00
+
+ ## National Agriculture in the Classroom
+ - [https://agclassroom.org](https://agclassroom.org)
+ - date_published: 2024-08-06T08:14:15.929223+00:00
 
  ## Minnesota Agriculture in the Classroom
  - [https://minnesota.agclassroom.org](https://minnesota.agclassroom.org)
  - date_published: 2024-09-18T20:28:39.965577+00:00
 
- ## National Agriculture in the Classroom
- - [https://www.agclassroom.org](https://www.agclassroom.org)
- - date_published: 2024-08-06T08:14:15.929223+00:00
-
  ## Home - Attorney Grievance Commission
- - [https://www.agcmi.org](https://www.agcmi.org)
+ - [https://agcmi.org](https://agcmi.org)
  - date_published: 2024-09-16T06:30:49.629012+00:00
 
  ## GitHub - FiloSottile/age: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -2778,16 +2922,16 @@
  - date_published: 2024-07-13T18:44:48.303526+00:00
 
  ## Agenda Cultural de Alicante
- - [https://www.agendacultural.org](https://www.agendacultural.org)
+ - [https://agendacultural.org](https://agendacultural.org)
  - date_published: 2024-09-16T03:42:03+00:00
+
+ ## L'Agenda du Libre
+ - [https://agendadulibre.org](https://agendadulibre.org)
+ - date_published: 2024-05-26T00:00:00+00:00
 
  ## L'Agenda du Libre
  - [http://agendadulibre.org](http://agendadulibre.org)
  - date_published: 2024-12-12T09:15:20.375629+00:00
-
- ## L'Agenda du Libre
- - [https://www.agendadulibre.org](https://www.agendadulibre.org)
- - date_published: 2024-05-26T00:00:00+00:00
 
  ## Paul-Louis Ageneau
  - [https://ageneau.org](https://ageneau.org)
@@ -2798,7 +2942,7 @@
  - date_published: 2024-05-09T07:58:10.443830+00:00
 
  ## AI Alignment Forum
- - [http://agentfoundations.org](http://agentfoundations.org)
+ - [https://agentfoundations.org](https://agentfoundations.org)
  - date_published: 2024-02-01T00:00:00+00:00
 
  ## Modeling Agents with Probabilistic Programs
@@ -2818,11 +2962,11 @@
  - date_published: 2024-01-08T00:00:00+00:00
 
  ## Truth Against the World
- - [http://agenturus.org](http://agenturus.org)
+ - [https://agenturus.org](https://agenturus.org)
  - date_published: 2020-06-05T17:10:04+00:00
 
  ## Age Platform
- - [http://www.age-platform.org](http://www.age-platform.org)
+ - [https://age-platform.org](https://age-platform.org)
  - date_published: 2024-07-14T15:18:20+00:00
 
  ## AgeTech Collaborative from AARP
@@ -2854,7 +2998,7 @@
  - date_published: 2024-08-11T09:41:12.447229+00:00
 
  ## Agile Software Community of India - Home
- - [http://agileindia.org](http://agileindia.org)
+ - [https://agileindia.org](https://agileindia.org)
  - date_published: 2024-06-23T02:59:00.212220+00:00
 
  ## Manifesto for Agile Software Development
@@ -2862,11 +3006,11 @@
  - date_published: 2001-01-01T00:00:00+00:00
 
  ## Agile Software Development: A gentle introduction.
- - [http://www.agile-process.org](http://www.agile-process.org)
+ - [https://agile-process.org](https://agile-process.org)
  - date_published: 2024-08-06T11:28:37.332820+00:00
 
  ## Agile Portugal 2018
- - [http://www.agilept.org](http://www.agilept.org)
+ - [https://agilept.org](https://agilept.org)
  - date_published: 2018-05-21T13:49:40+00:00
 
  ## https://www.aginganddisease.org
@@ -2882,7 +3026,7 @@
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## AGORA - Official Website - 2023
- - [http://www.aginternetwork.org](http://www.aginternetwork.org)
+ - [https://aginternetwork.org](https://aginternetwork.org)
  - date_published: 2023-04-04T09:35:56+00:00
 
  ## Agir pour l’Environnement
@@ -2893,13 +3037,13 @@
  - [https://aglang.org](https://aglang.org)
  - date_published: 2024-05-14T03:21:24.203217+00:00
 
+ ## American Gear Manufacturers Association
+ - [https://agma.org](https://agma.org)
+ - date_published: 2024-05-04T07:33:38.706058+00:00
+
  ## AGMA Store - Standards
  - [https://members.agma.org](https://members.agma.org)
  - date_published: 2024-06-20T02:18:44.074291+00:00
-
- ## American Gear Manufacturers Association
- - [https://www.agma.org](https://www.agma.org)
- - date_published: 2024-05-04T07:33:38.706058+00:00
 
  ## AGMA Foundation - AGMA Foundation - Get Into Gears
  - [https://agmafoundation.org](https://agmafoundation.org)
@@ -2919,23 +3063,23 @@
  - date_published: 2024-06-15T23:44:35.541995+00:00
 
  ## Accueil
+ - [https://agonist.org](https://agonist.org)
+ - date_published: 2024-08-18T13:19:16.264832+00:00
+
+ ## Accueil
  - [http://scoop.agonist.org](http://scoop.agonist.org)
  - date_published: 2025-01-01T14:13:46.124463+00:00
 
- ## Accueil
- - [http://www.agonist.org](http://www.agonist.org)
- - date_published: 2024-08-18T13:19:16.264832+00:00
-
  ## Agora Energiewende
- - [https://www.agora-energiewende.org](https://www.agora-energiewende.org)
+ - [https://agora-energiewende.org](https://agora-energiewende.org)
  - date_published: 2024-07-02T17:19:33.422305+00:00
 
  ## Agora Think Tanks
- - [https://www.agora-thinktanks.org](https://www.agora-thinktanks.org)
+ - [https://agora-thinktanks.org](https://agora-thinktanks.org)
  - date_published: 2024-07-02T17:19:30.524713+00:00
 
  ## National AgrAbility Project – AgrAbility enhances the quality of life for farmers, ranchers, and other agricultural workers with disabilities, such as spinal cord injuries and amputations, AgrAbility addresses not only these but also many other conditions, such as arthritis, back impairments, and behavioral health issues.
- - [http://agrability.org](http://agrability.org)
+ - [https://agrability.org](https://agrability.org)
  - date_published: 2024-06-15T17:44:33.026510+00:00
 
  ## Home - The Association of Governance, Risk and Compliance (AGRC)
@@ -2943,7 +3087,7 @@
  - date_published: 2024-09-16T18:35:35.906356+00:00
 
  ## Home - AgriSafe Network
- - [https://www.agrisafe.org](https://www.agrisafe.org)
+ - [https://agrisafe.org](https://agrisafe.org)
  - date_published: 2024-08-22T00:00:00+00:00
 
  ## Home - Agronomy | American Society of Agronomy
@@ -2951,11 +3095,11 @@
  - date_published: 2024-05-11T09:16:56.048331+00:00
 
  ## Home | Agronomy 4 Me
- - [https://www.agronomy4me.org](https://www.agronomy4me.org)
+ - [https://agronomy4me.org](https://agronomy4me.org)
  - date_published: 2024-07-14T03:48:40.123908+00:00
 
  ## A Guide To Visitors: Stories on Stage – True stories from real people like you.
- - [http://www.agtv.org](http://www.agtv.org)
+ - [http://agtv.org](http://agtv.org)
  - date_published: 2024-07-18T03:10:18.021762+00:00
 
  ## AGU Abstract Browser
@@ -2967,7 +3111,7 @@
  - date_published: 2024-05-11T09:11:33.706531+00:00
 
  ## Blogosphere Home
- - [http://blogs.agu.org](http://blogs.agu.org)
+ - [https://blogs.agu.org](https://blogs.agu.org)
  - date_published: 2024-06-27T08:40:32.814746+00:00
 
  ## Building AGU
@@ -3011,11 +3155,11 @@
  - date_published: 2023-10-25T20:55:04.762063+00:00
 
  ## Welcome to AGU
- - [http://sites.agu.org](http://sites.agu.org)
+ - [https://sites.agu.org](https://sites.agu.org)
  - date_published: 2024-07-15T03:02:16.206457+00:00
 
  ## Aguafund – Agua Fund is a private foundation based in Washington, DC.
- - [http://www.aguafund.org](http://www.aguafund.org)
+ - [https://aguafund.org](https://aguafund.org)
  - date_published: 2024-07-09T10:31:05.019666+00:00
 
  ## Home - Agudath Israel of America
@@ -3023,15 +3167,15 @@
  - date_published: 2020-12-17T19:59:09+00:00
 
  ## Agujero Del Mate
- - [http://www.agujerodelmate.org](http://www.agujerodelmate.org)
+ - [http://agujerodelmate.org](http://agujerodelmate.org)
  - date_published: 2019-05-15T00:00:00+00:00
 
  ## American Hospital Association Homepage | Hospitals USA | AHA
- - [https://www.aha.org](https://www.aha.org)
+ - [https://aha.org](https://aha.org)
  - date_published: 2024-09-12T00:00:00+00:00
 
  ## https://www.ahajournals.org
- - [https://www.ahajournals.org](https://www.ahajournals.org)
+ - [http://www.ahajournals.org](http://www.ahajournals.org)
  - date_published: 2023-11-23T17:36:30.008809+00:00
 
  ## AHCA/NCAL
@@ -3059,11 +3203,11 @@
  - date_published: 2024-07-09T14:53:14.126322+00:00
 
  ## Inicio - Asociación AHIM
- - [http://www.ahim.org](http://www.ahim.org)
+ - [https://ahim.org](https://ahim.org)
  - date_published: 2024-10-14T23:51:25.768673+00:00
 
  ## AHIMA Home
- - [https://www.ahima.org](https://www.ahima.org)
+ - [https://ahima.org](https://ahima.org)
  - date_published: 2024-09-13T17:47:27.955087+00:00
 
  ## AutoHotkey
@@ -3071,11 +3215,11 @@
  - date_published: 2024-05-12T07:53:28.406935+00:00
 
  ## AHNF
- - [https://www.ahnf.org](https://www.ahnf.org)
+ - [https://ahnf.org](https://ahnf.org)
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Association for Healthcare Philanthropy
- - [https://www.ahp.org](https://www.ahp.org)
+ - [https://ahp.org](https://ahp.org)
  - date_published: 2024-06-27T17:16:55.086846+00:00
 
  ## Ahpper – Game AR Android Paling Asik Dimainkan di 2024
@@ -3087,7 +3231,7 @@
  - date_published: 2024-09-12T19:15:36.429206+00:00
 
  ## AHSAFA | American Helicopter Services & Aerial Firefighting Association
- - [http://www.ahsafa.org](http://www.ahsafa.org)
+ - [https://ahsafa.org](https://ahsafa.org)
  - date_published: 2022-12-09T08:01:02+00:00
 
  ## Home Page - American Horticultural Society
@@ -3099,35 +3243,36 @@
  - date_published: 2024-06-22T21:35:11+00:00
 
  ## Andrzej Hunt
- - [https://www.ahunt.org](https://www.ahunt.org)
+ - [https://ahunt.org](https://ahunt.org)
  - date_published: 2024-07-07T10:30:21.769662+00:00
 
  ## AHVMF
- - [https://www.ahvmf.org](https://www.ahvmf.org)
+ - [https://ahvmf.org](https://ahvmf.org)
  - date_published: 2024-06-25T06:01:16+00:00
 
  ## Ahwaa - أهواء - Arab LGBTQ platform
- - [http://ahwaa.org](http://ahwaa.org)
+ - [https://ahwaa.org](https://ahwaa.org)
  - date_published: 2024-02-16T00:00:00+00:00
 
  ## Ahwx >> Home
  - [https://ahwx.org](https://ahwx.org)
  - date_published: 2024-07-12T17:23:28+00:00
+ - date_dead_since: 2025-01-03T17:53:39.626708+00:00
 
  ## AI 2030 – RESPONSIBLE ARTIFICIAL INTELLIGENCE
- - [https://www.ai2030.org](https://www.ai2030.org)
+ - [https://ai2030.org](https://ai2030.org)
  - date_published: 2024-08-06T09:28:35.383325+00:00
 
  ## NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES)
- - [https://www.ai2es.org](https://www.ai2es.org)
+ - [https://ai2es.org](https://ai2es.org)
  - date_published: 2024-06-19T09:42:54.411599+00:00
 
  ## ai2html
- - [http://ai2html.org](http://ai2html.org)
+ - [https://ai2html.org](https://ai2html.org)
  - date_published: 2015-12-23T00:00:00+00:00
 
  ## a-i3.org | Arbeitsgruppe Identitätsschutz im Internet
- - [https://www.a-i3.org](https://www.a-i3.org)
+ - [https://a-i3.org](https://a-i3.org)
  - date_published: 2024-07-11T13:54:45.772926+00:00
 
  ## AI4ABM - International AI for Agent-Based Modelling Community
@@ -3139,35 +3284,35 @@
  - date_published: 2024-02-27T00:00:00+00:00
 
  ## The American Institute of Architects: AIA
- - [http://aia.org](http://aia.org)
- - date_published: 2024-12-29T21:43:56+00:00
+ - [https://aia.org](https://aia.org)
+ - date_published: 2024-07-03T20:34:39+00:00
 
  ## The American Institute of Architects: AIA
- - [http://www.aia.org](http://www.aia.org)
- - date_published: 2024-07-03T20:34:39+00:00
+ - [http://aia.org](http://aia.org)
+ - date_published: 2024-12-29T21:43:56+00:00
 
  ## Aerospace America
  - [https://aerospaceamerica.aiaa.org](https://aerospaceamerica.aiaa.org)
  - date_published: 2024-06-18T12:21:03.393229+00:00
 
  ## AIAA Home
+ - [https://aiaa.org](https://aiaa.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## AIAA Home
  - [http://aiaa.org](http://aiaa.org)
  - date_published: 2024-12-30T23:14:41.733773+00:00
 
  ## Cierpliwości...
- - [https://arc.aiaa.org](https://arc.aiaa.org)
+ - [http://arc.aiaa.org](http://arc.aiaa.org)
  - date_published: 2024-05-01T04:33:10.673990+00:00
 
- ## AIAA Home
- - [http://www.aiaa.org](http://www.aiaa.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
  ## Aerospace Industries Association | The Way to What's Next
- - [http://www.aia-aerospace.org](http://www.aia-aerospace.org)
+ - [https://aia-aerospace.org](https://aia-aerospace.org)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Foundation Feature
- - [http://www.aiaafoundation.org](http://www.aiaafoundation.org)
+ - [https://aiaafoundation.org](https://aiaafoundation.org)
  - date_published: 2024-10-21T23:21:30.705318+00:00
 
  ## AIA
@@ -3179,11 +3324,11 @@
  - date_published: 2024-09-23T22:05:17.068919+00:00
 
  ## AIA Minnesota
- - [https://www.aia-mn.org](https://www.aia-mn.org)
+ - [https://aia-mn.org](https://aia-mn.org)
  - date_published: 2024-07-08T14:57:25.050101+00:00
 
  ## Center for Architecture
- - [http://cfa.aiany.org](http://cfa.aiany.org)
+ - [https://cfa.aiany.org](https://cfa.aiany.org)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## AIART - Associazione Italiana Telespettatori - AIART
@@ -3191,7 +3336,7 @@
  - date_published: 2024-04-15T00:00:00+00:00
 
  ## Autoimmune & Autoinflammatory Arthritis disease nonprofit
- - [https://www.aiarthritis.org](https://www.aiarthritis.org)
+ - [https://aiarthritis.org](https://aiarthritis.org)
  - date_published: 2024-06-28T12:08:36.740316+00:00
 
  ## Top 25 AI Artists of 2023 - Photos, Bios, Exhibitions - History of AI Art)- AIArtists.org
@@ -3199,7 +3344,7 @@
  - date_published: 2024-07-19T23:40:06.360322+00:00
 
  ## American Institute of Architecture Students
- - [http://www.aias.org](http://www.aias.org)
+ - [https://aias.org](https://aias.org)
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## Your Food Safety Global Partners - AIB International, Inc.
@@ -3219,7 +3364,7 @@
  - date_published: 2024-10-29T10:00:02.583035+00:00
 
  ## COACH: AI-powered Career Coach | CareerVillage
- - [https://www.aicareercoach.org](https://www.aicareercoach.org)
+ - [https://aicareercoach.org](https://aicareercoach.org)
  - date_published: 2024-09-13T20:29:17.138512+00:00
 
  ## AICAS 2022 – International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
@@ -3240,7 +3385,7 @@
  - date_published: 2024-12-03T21:50:51.544575+00:00
 
  ## AIChE | The Global Home of Chemical Engineers
- - [http://www.aiche.org](http://www.aiche.org)
+ - [https://aiche.org](https://aiche.org)
  - date_published: 2024-08-18T14:17:13+00:00
 
  ## AI CITY CHALLENGE
@@ -3252,7 +3397,7 @@
  - date_published: 2024-06-17T04:06:39.293186+00:00
 
  ## American Islamic Congress | An Alternative Muslim Voice
- - [http://www.aicongress.org](http://www.aicongress.org)
+ - [https://aicongress.org](https://aicongress.org)
  - date_published: 2019-07-03T00:00:00+00:00
 
  ## AICPA & CIMA
@@ -3276,7 +3421,7 @@
  - date_published: 2024-06-22T13:03:59.366489+00:00
 
  ## Attention Required! | Cloudflare
- - [https://aicr.org](https://aicr.org)
+ - [http://aicr.org](http://aicr.org)
  - date_published: 2024-06-14T23:30:24.740625+00:00
 
  ## American Institute for Cancer Research Materials
@@ -3292,7 +3437,7 @@
  - date_published: 2024-12-24T22:27:46.460143+00:00
 
  ## Home
- - [http://www.aicto.org](http://www.aicto.org)
+ - [https://aicto.org](https://aicto.org)
  - date_published: 2024-07-07T00:03:16.671902+00:00
 
  ## Aid Access: Abortion Pills by Mail
@@ -3300,15 +3445,15 @@
  - date_published: 2024-12-22T08:51:44.141109+00:00
 
  ## Hello Lucy. Had a busy night?
- - [http://www.aidd.org](http://www.aidd.org)
+ - [https://aidd.org](https://aidd.org)
  - date_published: 2024-06-10T00:11:28+00:00
 
  ## StepWise – the community guide to AIDS2014
- - [https://www.aids2014community.org](https://www.aids2014community.org)
+ - [https://aids2014community.org](https://aids2014community.org)
  - date_published: 2024-04-25T00:00:00+00:00
 
  ## AIDSinfo | UNAIDS
- - [http://www.aidsinfoonline.org](http://www.aidsinfoonline.org)
+ - [http://aidsinfoonline.org](http://aidsinfoonline.org)
  - date_published: 2024-08-07T23:11:32.120563+00:00
 
  ## APRI
@@ -3316,11 +3461,11 @@
  - date_published: 2024-10-29T19:54:03.292479+00:00
 
  ## AIDSTruth
- - [http://www.aidstruth.org](http://www.aidstruth.org)
+ - [https://aidstruth.org](https://aidstruth.org)
  - date_published: 2018-09-24T19:36:08+00:00
 
  ## ::American Interculture Education.::
- - [http://www.aieducation.org](http://www.aieducation.org)
+ - [https://aieducation.org](https://aieducation.org)
  - date_published: 2024-08-06T18:20:42+00:00
 
  ## AIER | American Institute for Economic Research
@@ -3332,7 +3477,7 @@
  - date_published: 2024-12-19T10:46:22.846425+00:00
 
  ## Opportunities at AIER
- - [http://plannedgiving.aier.org](http://plannedgiving.aier.org)
+ - [https://plannedgiving.aier.org](https://plannedgiving.aier.org)
  - date_published: 2024-08-18T21:05:48.920082+00:00
 
  ## aieregistry
@@ -3348,11 +3493,11 @@
  - date_published: 2024-10-19T13:19:03.364403+00:00
 
  ## American Islamic Forum for Democracy
- - [http://www.aifdemocracy.org](http://www.aifdemocracy.org)
+ - [https://aifdemocracy.org](https://aifdemocracy.org)
  - date_published: 2024-03-26T00:00:00+00:00
 
  ## AI For Animals
- - [http://www.aiforanimals.org](http://www.aiforanimals.org)
+ - [https://aiforanimals.org](https://aiforanimals.org)
  - date_published: 2024-07-06T19:50:41.870266+00:00
 
  ## AIForensics
@@ -3370,6 +3515,10 @@
  ## Home
  - [https://aiga.org](https://aiga.org)
  - date_published: 2024-04-26T00:00:00+00:00
+
+ ## AIGA Austin
+ - [https://austin.aiga.org](https://austin.aiga.org)
+ - date_published: 2024-06-25T00:00:00+00:00
 
  ## AIGA Baltimore
  - [https://baltimore.aiga.org](https://baltimore.aiga.org)
@@ -3407,25 +3556,21 @@
  - [https://sandiego.aiga.org](https://sandiego.aiga.org)
  - date_published: 2024-05-11T10:54:24.229635+00:00
 
- ## AIGA Austin
- - [http://www.austin.aiga.org](http://www.austin.aiga.org)
- - date_published: 2024-06-25T00:00:00+00:00
-
  ## AIGA NY
  - [https://aigany.org](https://aigany.org)
  - date_published: 2025-01-02T08:41:06.278141+00:00
 
  ## AIGA NY
- - [http://www.aigany.org](http://www.aigany.org)
+ - [https://www.aigany.org](https://www.aigany.org)
  - date_published: 2024-09-16T03:46:41.255435+00:00
 
  ## AI·GI·CRV 2019
- - [http://aigicrv.org](http://aigicrv.org)
+ - [https://aigicrv.org](https://aigicrv.org)
  - date_published: 2024-07-21T09:42:18.967342+00:00
 
  ## AI Grant
  - [https://aigrant.org](https://aigrant.org)
- - date_published: 2024-07-08T08:34:42.045688+00:00
+ - date_published: 2024-01-24T20:54:21+00:00
 
  ## Sala de Imprensa — A Igreja de Jesus Cristo dos Santos dos Últimos Dias
  - [https://noticias-ao.aigrejadejesuscristo.org](https://noticias-ao.aigrejadejesuscristo.org)
@@ -3452,7 +3597,7 @@
  - date_published: 2024-05-10T05:00:51.788549+00:00
 
  ## AIH Grupo Español | Web del Grupo Español de la Asociación Internacional de Hidrogeólogos
- - [https://www.aih-ge.org](https://www.aih-ge.org)
+ - [https://aih-ge.org](https://aih-ge.org)
  - date_published: 2024-10-14T14:55:36+00:00
 
  ## AI Humanizer - Humanize AI Text | Free AI to Human text Converter
@@ -3460,7 +3605,7 @@
  - date_published: 2024-10-30T22:46:59.380272+00:00
 
  ## International Artificial Intelligence Industry Alliance ( AIIA )
- - [https://www.aiia-ai.org](https://www.aiia-ai.org)
+ - [https://aiia-ai.org](https://aiia-ai.org)
  - date_published: 2024-07-12T08:40:42.202016+00:00
 
  ## AIIB - Asian Infrastructure Investment Bank
@@ -3472,7 +3617,7 @@
  - date_published: 2024-06-19T07:39:46.669363+00:00
 
  ## AIIM - The Association for Intelligent Information Management
- - [http://www.aiim.org](http://www.aiim.org)
+ - [https://aiim.org](https://aiim.org)
  - date_published: 2024-08-31T20:29:04+00:00
 
  ## Home
@@ -3490,9 +3635,10 @@
  ## AI Industry Foundation
  - [https://aiindustryfoundation.org](https://aiindustryfoundation.org)
  - date_published: 2023-12-27T17:45:51+00:00
+ - date_dead_since: 2025-01-03T18:08:56.873764+00:00
 
  ## All India IT & ITeS Employees' Union
- - [https://www.aiiteu.org](https://www.aiiteu.org)
+ - [https://aiiteu.org](https://aiiteu.org)
  - date_published: 2020-07-31T15:57:03+00:00
 
  ## Sbobet88 PremiumBola - Bandar Judi Bola Sbobet Taruhan Bola Sbobet365
@@ -3508,7 +3654,7 @@
  - date_published: 2024-09-25T15:00:38.715988+00:00
 
  ## Home
- - [https://www.aila.org](https://www.aila.org)
+ - [https://aila.org](https://aila.org)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## AI Lab Watch
@@ -3545,7 +3691,7 @@
  - date_published: 2024-08-06T20:41:59.989303+00:00
 
  ## AIME | The American Institute of Mining, Metallurgical, and Petroleum Engineers
- - [http://www.aimehq.org](http://www.aimehq.org)
+ - [https://aimehq.org](https://aimehq.org)
  - date_published: 2024-08-18T19:29:41.167465+00:00
 
  ## The Cloud-native and API-first PHP eCommerce Framework for #gigacommerce
@@ -3561,11 +3707,11 @@
  - date_published: 2024-08-27T04:45:41+00:00
 
  ## AIM Problem Lists
- - [http://aimpl.org](http://aimpl.org)
+ - [https://aimpl.org](https://aimpl.org)
  - date_published: 2024-06-30T08:27:31.009364+00:00
 
  ## American Institute of Mathematical Sciences
- - [https://www.aimsciences.org](https://www.aimsciences.org)
+ - [https://aimsciences.org](https://aimsciences.org)
  - date_published: 2024-06-30T08:57:44.039232+00:00
 
  ## Home
@@ -3597,8 +3743,9 @@
  - date_published: 2024-07-20T15:32:35.187514+00:00
 
  ## Journal of Applied Physics | AIP Publishing
- - [http://jap.aip.org](http://jap.aip.org)
+ - [https://jap.aip.org](https://jap.aip.org)
  - date_published: 2024-07-02T01:24:07.370752+00:00
+ - date_dead_since: 2025-01-03T18:10:45.422402+00:00
 
  ## Emilio Segrè Visual Archives
  - [https://photos.aip.org](https://photos.aip.org)
@@ -3625,11 +3772,11 @@
  - date_published: 2024-05-23T00:00:00+00:00
 
  ## AI Poem Generator - Write a rhyming poem with our free AI poem maker
- - [https://www.aipoemgenerator.org](https://www.aipoemgenerator.org)
+ - [https://aipoemgenerator.org](https://aipoemgenerator.org)
  - date_published: 2024-06-19T20:09:30.774818+00:00
 
  ## AI Poverty Challenge
- - [https://www.aipovertychallenge.org](https://www.aipovertychallenge.org)
+ - [https://aipovertychallenge.org](https://aipovertychallenge.org)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## Complete AI Pack - AI Power - Complete AI Pack for WordPress
@@ -3641,11 +3788,11 @@
  - date_published: 2024-09-12T07:32:43+00:00
 
  ## Home | American Institutes for Research
- - [https://www.air.org](https://www.air.org)
+ - [https://air.org](https://air.org)
  - date_published: 2024-06-24T09:37:21+00:00
 
  ## Air America Home
- - [http://www.air-america.org](http://www.air-america.org)
+ - [https://air-america.org](https://air-america.org)
  - date_published: 2024-08-10T23:38:26.430649+00:00
 
  ## Home - AI-Ran Alliance
@@ -3857,15 +4004,15 @@
  - date_published: 2024-09-16T13:33:53.282515+00:00
 
  ## Accueil | Airborne
- - [https://www.airborne-museum.org](https://www.airborne-museum.org)
+ - [https://airborne-museum.org](https://airborne-museum.org)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## AIRCC Publishing Corporation
- - [http://airccse.org](http://airccse.org)
+ - [https://airccse.org](https://airccse.org)
  - date_published: 2024-07-08T16:37:52.869031+00:00
 
  ## AIRC
- - [https://www.airc-education.org](https://www.airc-education.org)
+ - [https://airc-education.org](https://airc-education.org)
  - date_published: 2024-10-25T11:22:34.569163+00:00
 
  ## Current Smoke Outlooks
@@ -3881,146 +4028,6 @@
  - date_published: 2024-02-01T00:00:00+00:00
 
  ## AIRFRAMES.ORG - Aircraft Database
- - [http://www.airframes.org](http://www.airframes.org)
+ - [https://airframes.org](https://airframes.org)
  - date_published: 2024-07-09T22:21:43.914792+00:00
-
- ## Air/Light Homepage - Air/Light
- - [https://airlightmagazine.org](https://airlightmagazine.org)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Airlines for America
- - [http://www.airlines.org](http://www.airlines.org)
- - date_published: 2024-07-09T21:48:02.414423+00:00
-
- ## Airlink Flight - Supporting Communities In Crisis
- - [https://airlinkflight.org](https://airlinkflight.org)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Air Quality Monitoring. Monitor in UK & Europe. Airly Data Platform and Monitors | Airly
- - [https://airly.org](https://airly.org)
- - date_published: 2024-07-14T04:57:12.088841+00:00
-
- ## Airminded
- - [https://airminded.org](https://airminded.org)
- - date_published: 2024-02-26T16:51:58.170183+00:00
-
- ## AirMiners
- - [http://www.airminers.org](http://www.airminers.org)
- - date_published: 2024-07-09T09:21:08.829482+00:00
-
- ## Home - Airport Carbon Accreditation
- - [https://airportcarbonaccreditation.org](https://airportcarbonaccreditation.org)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Airports Council International - North America
- - [https://airportscouncil.org](https://airportscouncil.org)
- - date_published: 2024-09-10T10:25:06.922511+00:00
-
- ## Inform USA Learn:  Home
- - [https://learn.airs.org](https://learn.airs.org)
- - date_published: 2024-07-15T05:09:31.261352+00:00
-
- ## Inform USA | Formerly AIRS
- - [https://www.airs.org](https://www.airs.org)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## AirVPN - The air to breathe the real Internet - AirVPN
- - [https://airvpn.org](https://airvpn.org)
- - date_published: 2023-09-20T15:12:18+00:00
-
- ## Association for Institutional Research
- - [http://www.airweb.org](http://www.airweb.org)
- - date_published: 2024-07-09T16:34:26.510640+00:00
-
- ## Air Zoo Aerospace & Science Museum | Kalamazoo, MI
- - [https://www.airzoo.org](https://www.airzoo.org)
- - date_published: 2024-10-16T04:00:36+00:00
-
- ## American International School Chennai | AISC
- - [https://www.aischennai.org](https://www.aischennai.org)
- - date_published: 2024-07-01T17:26:18+00:00
-
- ## ICIS 2022 – ICIS 2022
- - [https://icis2022.aisconferences.org](https://icis2022.aisconferences.org)
- - date_published: 2024-07-01T20:04:44.479119+00:00
-
- ## ICIS 2024 – An AIS Conference
- - [https://icis2024.aisconferences.org](https://icis2024.aisconferences.org)
- - date_published: 2024-07-01T20:06:27.705230+00:00
-
- ## Home - AI Singapore
- - [https://aisingapore.org](https://aisingapore.org)
- - date_published: 2022-05-03T10:19:27+00:00
-
- ## AI Singapore Community | Towards a data savvy, AI aware nation
- - [https://connect.aisingapore.org](https://connect.aisingapore.org)
- - date_published: 2023-12-05T22:36:46+00:00
-
- ## LearnAI
- - [https://learn.aisingapore.org](https://learn.aisingapore.org)
- - date_published: 2024-07-12T08:18:55.058754+00:00
-
- ## AI Singapore – Medium
- - [https://medium.aisingapore.org](https://medium.aisingapore.org)
- - date_published: 2024-07-12T08:18:46.264372+00:00
-
- ## Online Safety Prize Challenge AI Singapore
- - [https://ospc.aisingapore.org](https://ospc.aisingapore.org)
- - date_published: 2024-05-10T05:10:26.818230+00:00
-
- ## Home - AI Singapore
- - [https://www4.aisingapore.org](https://www4.aisingapore.org)
- - date_published: 2022-05-03T10:19:27+00:00
-
- ## AISNE – Association of Independent Schools In New England
- - [https://aisne.org](https://aisne.org)
- - date_published: 2024-07-12T23:08:09.804236+00:00
-
- ## Association for Information Systems (AIS) eLibrary
- - [https://aisel.aisnet.org](https://aisel.aisnet.org)
- - date_published: 2024-07-27T02:47:43.563672+00:00
-
- ## Association for Information Systems (AIS)
- - [https://www.aisnet.org](https://www.aisnet.org)
- - date_published: 2024-07-15T03:02:04.830525+00:00
-
- ## Home
- - [http://www.aist.org](http://www.aist.org)
- - date_published: 2024-08-18T19:29:31.207865+00:00
-
- ## Home
- - [https://aistats.org](https://aistats.org)
- - date_published: 2023-07-27T20:00:53+00:00
-
- ## 2024 Conference
- - [https://virtual.aistats.org](https://virtual.aistats.org)
- - date_published: 2024-07-01T20:06:15.492591+00:00
-
- ## International Academy of Sport Science and Technology
- - [https://aists.org](https://aists.org)
- - date_published: 2024-05-12T07:16:33.419615+00:00
-
- ## Aito
- - [http://aito.org](http://aito.org)
- - date_published: 2024-07-22T11:31:23.855835+00:00
-
- ## AITopics
- - [https://aitopics.org](https://aitopics.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Representation Engineering: A Top-Down Approach to AI Transparency
- - [https://www.ai-transparency.org](https://www.ai-transparency.org)
- - date_published: 2024-07-06T19:50:28.194291+00:00
-
- ## Home - Planned Giving - Amnesty International
- - [https://aiusalegacy.org](https://aiusalegacy.org)
- - date_published: 2024-10-31T20:13:33.619398+00:00
-
- ## Home - AIVA
- - [http://aiva.org](http://aiva.org)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## AIware 2024
- - [https://2024.aiwareconf.org](https://2024.aiwareconf.org)
- - date_published: 2024-08-06T04:28:08.144877+00:00
 

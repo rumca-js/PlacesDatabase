@@ -1,3 +1,150 @@
+ ## MinGW-w64
+ - [https://mingw-w64.org](https://mingw-w64.org)
+ - date_published: 2023-10-30T14:03:46.137119+00:00
+ - tags: ['compiler', 'open source']
+
+ ## Minidisc Community Portal
+ - [https://minidisc.org](https://minidisc.org)
+ - date_published: 2019-05-24T02:03:35+00:00
+
+ ## Minifeed
+ - [https://minifeed.org](https://minifeed.org)
+ - date_published: 2024-06-26T08:08:50.821996+00:00
+
+ ## Manifesto for Minimalist Software Engineers
+ - [https://minifesto.org](https://minifesto.org)
+ - date_published: 2017-11-25T05:05:46+00:00
+
+ ## Minifree Ltd – GNU+Linux laptops with Libreboot preinstalled, based on coreboot
+ - [https://minifree.org](https://minifree.org)
+ - date_published: 2023-10-25T21:43:09.325144+00:00
+
+ ## What Is miniKanren?
+ - [http://minikanren.org](http://minikanren.org)
+ - date_published: 2025-01-02T13:15:23+00:00
+
+ ## Mininet: An Instant Virtual Network on Your Laptop (or Other PC) - Mininet
+ - [http://mininet.org](http://mininet.org)
+ - date_published: 2022-04-01T22:18:56+00:00
+
+ ## Mini PCs Hub
+ - [https://minipcs.org](https://minipcs.org)
+ - date_published: 2024-07-18T05:44:36+00:00
+ - tags: ['mini pcs']
+
+ ## We champion the writer in every child - Ministry of Stories
+ - [https://ministryofstories.org](https://ministryofstories.org)
+ - date_published: 2023-10-30T10:55:17.609587+00:00
+ - tags: ['community']
+
+ ## git.minix3.org Git
+ - [https://git.minix3.org](https://git.minix3.org)
+ - date_published: 2023-10-25T21:43:12.370760+00:00
+
+ ## start [Wiki]
+ - [http://wiki.minix3.org](http://wiki.minix3.org)
+ - date_published: 2024-07-08T13:13:42.496669+00:00
+
+ ## Minix3
+ - [http://www.minix3.org](http://www.minix3.org)
+ - date_published: 2023-11-19T21:49:54+00:00
+
+ ## MiniZinc
+ - [https://minizinc.org](https://minizinc.org)
+ - date_published: 2023-10-25T21:43:16.189696+00:00
+
+ ## China Unofficial Archive
+ - [https://minjian-danganguan.org](https://minjian-danganguan.org)
+ - date_published: 2023-12-13T00:00:00+00:00
+
+ ## min language - Welcome to the min programming language
+ - [https://min-lang.org](https://min-lang.org)
+ - date_published: 2024-06-18T13:18:21+00:00
+
+ ## Minneapolis Hotels, Restaurants, Things to Do & Visitor Guide - Meet Minneapolis
+ - [https://minneapolis.org](https://minneapolis.org)
+ - date_published: 2024-05-08T03:31:25.614494+00:00
+
+ ## Federal Reserve Bank of Minneapolis
+ - [https://www.minneapolisfed.org](https://www.minneapolisfed.org)
+ - date_published: 2024-07-08T10:29:26.500795+00:00
+
+ ## สล็อตเว็บตรง ไม่มีขั้นต่ำ: เริ่มต้นเพียง 1 บาท กับโอกาสชนะที่สูงขึ้น
+ - [https://www.minneapolishistorical.org](https://www.minneapolishistorical.org)
+ - date_published: 2024-12-13T17:38:58+00:00
+
+ ## Summer 2024
+ - [https://www.minnesotaalumni.org](https://www.minnesotaalumni.org)
+ - date_published: 2024-07-02T04:09:03.232469+00:00
+
+ ## Minnestar | Connecting the Minnesota Tech Community Since 2006
+ - [https://minnestar.org](https://minnestar.org)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## MinnMATYC
+ - [http://www.minnmatyc.org](http://www.minnmatyc.org)
+ - date_published: 2024-06-30T04:56:12.252130+00:00
+
+ ## Home - Minority Rights Group
+ - [https://minorityrights.org](https://minorityrights.org)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Mineralogical Society of America - Mineralogy, Petrology and Crystallography
+ - [http://www.minsocam.org](http://www.minsocam.org)
+ - date_published: 2024-10-19T06:07:17.964182+00:00
+
+ ## Minswap DEX | Multi-pool decentralized exchange on Cardano
+ - [https://app.minswap.org](https://app.minswap.org)
+ - date_published: 2024-12-23T15:33:46.408527+00:00
+
+ ## Introduction | Minswap
+ - [https://docs.minswap.org](https://docs.minswap.org)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Minswap Forum
+ - [https://forum.minswap.org](https://forum.minswap.org)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Minswap Merchandise
+ - [https://merch.minswap.org](https://merch.minswap.org)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## Minswap | Multi-pool decentralized exchange on Cardano Blockchain.
+ - [https://minswap.org](https://minswap.org)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## mintCast
+ - [https://mintcast.org](https://mintcast.org)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Mintlayer - Bitcoin L2 for BTC Cross-Chain Swaps, DeFi & Tokenization
+ - [https://mintlayer.org](https://mintlayer.org)
+ - date_published: 2024-12-09T14:24:23+00:00
+
+ ## The Mint Museum Store
+ - [https://store.mintmuseum.org](https://store.mintmuseum.org)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Mint Museum | Charlotte, NC
+ - [https://www.mintmuseum.org](https://www.mintmuseum.org)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## MINT Lab
+ - [https://mintresearch.org](https://mintresearch.org)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Minuteman Bikeway – America's Revolutionary Rail-Trail
+ - [http://www.minutemanbikeway.org](http://www.minutemanbikeway.org)
+ - date_published: 2024-07-13T10:57:23.751550+00:00
+
+ ## Interface Specifications for Mobile Products | MIPI Allliance
+ - [https://www.mipi.org](https://www.mipi.org)
+ - date_published: 2024-08-08T23:26:34+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.miplace.org](https://www.miplace.org)
+ - date_published: 2024-09-15T11:55:04.903369+00:00
+
  ## This is Mipmip!
  - [https://www.mipmip.org](https://www.mipmip.org)
  - date_published: 2023-07-22T00:00:00+00:00
@@ -3906,148 +4053,4 @@ ENERGY DEPARTMENT, Sports and Youth Welfare Department, MP, HOME DEPARTMENT, CUL
  ## Best CBSE Public School in Guwahati| MVM Guwahati
  - [https://mvmguwahati-1.org](https://mvmguwahati-1.org)
  - date_published: 2024-09-13T16:00:13.081560+00:00
-
- ## Best CBSE Public School in Guwahati| MVM Guwahati
- - [https://mvmguwahati-2.org](https://mvmguwahati-2.org)
- - date_published: 2024-09-13T15:59:25.745861+00:00
-
- ## Best CBSE Public School in Guwahati| MVM Guwahati
- - [https://mvmguwahati-4.org](https://mvmguwahati-4.org)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Best Public School in Guwahati | MVM Gota Nagar
- - [http://mvmguwahati5.org](http://mvmguwahati5.org)
- - date_published: 2024-09-13T16:09:32.862362+00:00
-
- ## Best Public School in Guwahati | MVM Guwahati
- - [http://mvmguwahati6.org](http://mvmguwahati6.org)
- - date_published: 2024-09-13T16:10:58.526106+00:00
-
- ## Best Public School in Guwahati | MVM Kamrup
- - [http://mvmguwahati7.org](http://mvmguwahati7.org)
- - date_published: 2024-09-13T16:08:54.535332+00:00
-
- ## Best CBSE Public School in Haldwani
- - [https://mvmhaldwani.org](https://mvmhaldwani.org)
- - date_published: 2024-09-13T16:07:24.024548+00:00
-
- ## Best CBSE Public School in Hamirpur | MVM Hamirpur
- - [https://mvmhamirpur.org](https://mvmhamirpur.org)
- - date_published: 2024-09-13T16:14:28.117308+00:00
-
- ## Best CBSE Public School in Hardoi| MVM Hardoi
- - [https://mvmhardoi.org](https://mvmhardoi.org)
- - date_published: 2024-09-13T16:11:01.628286+00:00
-
- ## MVM- Best CBSE School in Haridwar | Top CBSE School Haridwar
- - [https://mvmharidwar.org](https://mvmharidwar.org)
- - date_published: 2024-09-13T15:59:40.230757+00:00
-
- ## Best CBSE Public School in Hissar | MVM Hissar
- - [https://mvmhissar.org](https://mvmhissar.org)
- - date_published: 2024-09-13T16:13:17.555055+00:00
-
- ## Best CBSE Public School in Hyderabad | MVM Hyderabad
- - [https://mvmhyderabad.org](https://mvmhyderabad.org)
- - date_published: 2024-06-12T14:27:28.496677+00:00
-
- ## Best CBSE School in Indore | MVM Indore
- - [https://mvmindore.org](https://mvmindore.org)
- - date_published: 2024-09-13T16:09:47.965474+00:00
-
- ## Best Public School in Indore | MVM Indore
- - [http://mvmindore2.org](http://mvmindore2.org)
- - date_published: 2024-09-13T16:01:23.047186+00:00
-
- ## MVM- Best CBSE School in Jabalpur | Top CBSE School Jabalpur
- - [https://mvmjabalpur-2.org](https://mvmjabalpur-2.org)
- - date_published: 2024-09-13T16:13:49.415056+00:00
-
- ## Best Public School in Jabalpur | MVM Maharajpur
- - [http://mvmjabalpur3.org](http://mvmjabalpur3.org)
- - date_published: 2024-09-13T16:11:10.668066+00:00
-
- ## Best CBSE Public Schools in Jabalpur | MVM Jabalpur
- - [https://mvmjabalpur-5.org](https://mvmjabalpur-5.org)
- - date_published: 2024-09-13T15:59:22.965818+00:00
-
- ## Best CBSE Public School in Jammu | MVM Jammu
- - [https://mvmjammu.org](https://mvmjammu.org)
- - date_published: 2024-09-13T16:09:38.938196+00:00
-
- ## Maharishi Vidya Mandir  Jhunsi  | Top - Best CBSE  Public Schools in Jhunsi | Home
- - [https://mvmjhunsi.org](https://mvmjhunsi.org)
- - date_published: 2024-09-13T16:14:25.071204+00:00
-
- ## Maharishi Vidya Mandir  Jind   | Top - Best CBSE  Public Schools in Jind  | Home
- - [https://mvmjind.org](https://mvmjind.org)
- - date_published: 2024-09-13T16:11:04.378851+00:00
-
- ## Best CBSE Public School in Jorhat | MVM Jorhat
- - [https://mvmjorhat.org](https://mvmjorhat.org)
- - date_published: 2024-09-13T16:13:36.026553+00:00
-
- ## Best Public School in Kangra | MVM Kangra
- - [https://mvmkangra.org](https://mvmkangra.org)
- - date_published: 2024-09-13T16:10:52.745301+00:00
-
- ## Best CBSE School in Kanpur | MVM Kanpur
- - [https://mvmkanpur.org](https://mvmkanpur.org)
- - date_published: 2024-09-13T16:13:33.463418+00:00
-
- ## Best CBSE Public School in Karimganj Assam
- - [https://mvmkarimganj.org](https://mvmkarimganj.org)
- - date_published: 2024-09-13T15:59:43.040310+00:00
-
- ## Best Public School in Kathgodam - Uttarakhand
- - [http://mvmkathgodam.org](http://mvmkathgodam.org)
- - date_published: 2024-09-13T15:59:31.683318+00:00
-
- ## Best CBSE School in Katni | MVM CBSE School Katni
- - [https://mvmkatni.org](https://mvmkatni.org)
- - date_published: 2024-09-13T16:10:49.947744+00:00
-
- ## Best CBSE School in Khargone | MVM CBSE School Khargone
- - [https://mvmkhargone.org](https://mvmkhargone.org)
- - date_published: 2024-09-13T16:12:20.366468+00:00
-
- ## Best CBSE School in Khatima | MVM Khatima
- - [https://mvmkhatima.org](https://mvmkhatima.org)
- - date_published: 2024-09-13T16:09:50.766878+00:00
-
- ## Best CBSE School in Kotdwar | MVM Kotdwar
- - [https://mvmkotdwar.org](https://mvmkotdwar.org)
- - date_published: 2024-09-13T16:07:26.891861+00:00
-
- ## Best CBSE School in Kurukshetra | MVM Kurukshetra
- - [https://mvmkurukshetra.org](https://mvmkurukshetra.org)
- - date_published: 2024-09-13T16:11:24.976938+00:00
-
- ## Best Public School in Lohaghat | MVM Lohaghat
- - [http://mvmlohaghat.org](http://mvmlohaghat.org)
- - date_published: 2024-09-13T16:10:12.211052+00:00
-
- ## Best CBSE School in Noida | MVM Maharishi Nagar Noida
- - [https://mvmmaharishinagar.org](https://mvmmaharishinagar.org)
- - date_published: 2024-09-13T16:01:16.690986+00:00
-
- ## Best Public School in Mahasamund | MVM Mahasamund
- - [http://mvmmahasamund.org](http://mvmmahasamund.org)
- - date_published: 2024-09-13T16:08:58.108136+00:00
-
- ## Best CBSE School in Maihar | MVM Maihar
- - [https://mvmmaihar.org](https://mvmmaihar.org)
- - date_published: 2024-09-13T16:13:25.673998+00:00
-
- ## Best CBSE Public School in Mandla | MVM Mandla
- - [https://mvmmandla.org](https://mvmmandla.org)
- - date_published: 2024-09-13T16:10:02.278613+00:00
-
- ## Best CBSE Public School in Mankapur | Top CBSE School Mankapur
- - [https://mvmmankapur.org](https://mvmmankapur.org)
- - date_published: 2024-09-13T16:10:17.924434+00:00
-
- ## Best CBSE Public School in Modinagar | MVM - Modinagar
- - [https://mvmmodinagar.org](https://mvmmodinagar.org)
- - date_published: 2024-09-13T16:13:14.614500+00:00
 

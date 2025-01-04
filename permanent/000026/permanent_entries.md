@@ -1,3 +1,11 @@
+ ## PRO JUNIOR
+ - [https://www.projunior.ch](https://www.projunior.ch)
+ - date_published: 2024-10-29T11:15:31.242572+00:00
+
+ ## proks.ch: Home
+ - [https://proks.ch](https://proks.ch)
+ - date_published: 2020-02-01T00:00:00+00:00
+
  ## Pro Natura
  - [https://www.pronatura.ch](https://www.pronatura.ch)
  - date_published: 2024-10-31T04:30:49+00:00
@@ -4015,12 +4023,4 @@ Fakultät | Universität Basel
  ## PIEDPIPURR ☆
  - [https://piedpipurr.ichi.city](https://piedpipurr.ichi.city)
  - date_published: 2023-10-28T04:50:44+00:00
-
- ## Progresswire Coo
- - [https://prgrswr381937.ichi.city](https://prgrswr381937.ichi.city)
- - date_published: 2024-04-30T06:16:38.108209+00:00
-
- ## radi0sack
- - [https://radi0sack.ichi.city](https://radi0sack.ichi.city)
- - date_published: 2024-06-03T23:28:07+00:00
 

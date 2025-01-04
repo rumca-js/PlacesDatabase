@@ -1,3 +1,160 @@
+ ## Wikinavedek
+ - [https://sl.wikiquote.org](https://sl.wikiquote.org)
+ - date_published: 2024-06-19T16:18:22+00:00
+
+ ## Bogga Hore - Wq/so - Wikimedia Incubator
+ - [https://so.wikiquote.org](https://so.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wikiquote
+ - [https://sq.wikiquote.org](https://sq.wikiquote.org)
+ - date_published: 2024-06-19T16:18:23+00:00
+
+ ## Викицитат
+ - [https://sr.wikiquote.org](https://sr.wikiquote.org)
+ - date_published: 2024-06-19T16:18:23+00:00
+
+ ## Swati Wikiquote - Wikimedia Incubator
+ - [https://ss.wikiquote.org](https://ss.wikiquote.org)
+ - date_published: 2024-07-12T03:04:48.054105+00:00
+
+ ## Southern Sotho Wikiquote - Wikimedia Incubator
+ - [https://st.wikiquote.org](https://st.wikiquote.org)
+ - date_published: 2024-07-12T02:49:42.126855+00:00
+
+ ## Wikicutatan basa Sunda, rohangan cutatan bébas
+ - [https://su.wikiquote.org](https://su.wikiquote.org)
+ - date_published: 2024-06-19T16:18:23+00:00
+
+ ## Wikiquote
+ - [https://sv.wikiquote.org](https://sv.wikiquote.org)
+ - date_published: 2024-06-19T16:18:23+00:00
+
+ ## Mwanzo - Wq/sw - Wikimedia Incubator
+ - [https://sw.wikiquote.org](https://sw.wikiquote.org)
+ - date_published: 2024-09-04T03:16:26+00:00
+
+ ## விக்கிமேற்கோள்
+ - [https://ta.wikiquote.org](https://ta.wikiquote.org)
+ - date_published: 2024-06-19T16:18:23+00:00
+
+ ## Tulu Wikiquote - Wikimedia Incubator
+ - [https://tcy.wikiquote.org](https://tcy.wikiquote.org)
+ - date_published: 2024-07-12T02:50:16.451776+00:00
+
+ ## వికీవ్యాఖ్య
+ - [https://te.wikiquote.org](https://te.wikiquote.org)
+ - date_published: 2024-06-19T16:18:24+00:00
+
+ ## Саҳифаи Аслӣ - Wq/tg - Wikimedia Incubator
+ - [https://tg.wikiquote.org](https://tg.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## วิกิคำคม
+ - [https://th.wikiquote.org](https://th.wikiquote.org)
+ - date_published: 2024-06-19T16:18:24+00:00
+
+ ## Wikiquote
+ - [https://tk.wikiquote.org](https://tk.wikiquote.org)
+ - date_published: 2024-06-08T04:42:17+00:00
+
+ ## Wikiquote
+ - [https://tl.wikiquote.org](https://tl.wikiquote.org)
+ - date_published: 2024-06-19T16:18:24+00:00
+
+ ## Wq/tly - Wikimedia Incubator
+ - [https://tly.wikiquote.org](https://tly.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Tsebe ya konokono - Wq/tn - Wikimedia Incubator
+ - [https://tn.wikiquote.org](https://tn.wikiquote.org)
+ - date_published: 2024-06-28T02:45:34+00:00
+
+ ## Vikisöz
+ - [https://tr.wikiquote.org](https://tr.wikiquote.org)
+ - date_published: 2024-06-22T23:30:28+00:00
+
+ ## Tsonga Wikiquote - Wikimedia Incubator
+ - [https://ts.wikiquote.org](https://ts.wikiquote.org)
+ - date_published: 2024-07-12T05:14:36.439475+00:00
+
+ ## Wikiquote
+ - [https://tt.wikiquote.org](https://tt.wikiquote.org)
+ - date_published: 2024-06-08T21:11:19+00:00
+
+ ## Twi Wikiquote - Wikimedia Incubator
+ - [https://tw.wikiquote.org](https://tw.wikiquote.org)
+ - date_published: 2024-07-12T04:13:56.203736+00:00
+
+ ## Tuvinian Wikiquote - Wikimedia Incubator
+ - [https://tyv.wikiquote.org](https://tyv.wikiquote.org)
+ - date_published: 2024-07-12T02:49:58.789267+00:00
+
+ ## Wikiquote
+ - [https://ug.wikiquote.org](https://ug.wikiquote.org)
+ - date_published: 2024-06-09T02:33:49+00:00
+
+ ## Вікіцитати
+ - [https://uk.wikiquote.org](https://uk.wikiquote.org)
+ - date_published: 2024-06-19T16:18:24+00:00
+
+ ## ویکی اقتباس
+ - [https://ur.wikiquote.org](https://ur.wikiquote.org)
+ - date_published: 2024-06-19T16:18:25+00:00
+
+ ## Vikiiqtibos
+ - [https://uz.wikiquote.org](https://uz.wikiquote.org)
+ - date_published: 2024-06-19T16:18:25+00:00
+
+ ## Venetian Wikiquote - Wikimedia Incubator
+ - [https://vec.wikiquote.org](https://vec.wikiquote.org)
+ - date_published: 2024-07-12T04:16:52.172701+00:00
+
+ ## Wq/vep - Wikimedia Incubator
+ - [https://vep.wikiquote.org](https://vep.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Venda Wikiquote - Wikimedia Incubator
+ - [https://ve.wikiquote.org](https://ve.wikiquote.org)
+ - date_published: 2024-07-12T04:00:50.792367+00:00
+
+ ## Wikiquote
+ - [https://vi.wikiquote.org](https://vi.wikiquote.org)
+ - date_published: 2024-06-19T16:18:27+00:00
+
+ ## Wikiquote
+ - [https://vo.wikiquote.org](https://vo.wikiquote.org)
+ - date_published: 2024-06-08T10:33:27+00:00
+
+ ## Wikiquote
+ - [https://wikiquote.org](https://wikiquote.org)
+ - date_published: 2023-11-28T19:06:23+00:00
+ - tags: ['wiki', 'quotes']
+
+ ## Xhosa Wikiquote - Wikimedia Incubator
+ - [https://xh.wikiquote.org](https://xh.wikiquote.org)
+ - date_published: 2024-07-12T03:28:20.540423+00:00
+
+ ## დუდხასჷლა - Wq/xmf - Wikimedia Incubator
+ - [https://xmf.wikiquote.org](https://xmf.wikiquote.org)
+ - date_published: 2024-06-28T04:15:29+00:00
+
+ ## Yiddish Wikiquote - Wikimedia Incubator
+ - [https://yi.wikiquote.org](https://yi.wikiquote.org)
+ - date_published: 2024-07-12T04:15:04.605072+00:00
+
+ ## Yoruba Wikiquote - Wikimedia Incubator
+ - [https://yo.wikiquote.org](https://yo.wikiquote.org)
+ - date_published: 2024-07-12T02:19:47.730139+00:00
+
+ ## Standard Moroccan Tamazight Wikiquote - Wikimedia Incubator
+ - [https://zgh.wikiquote.org](https://zgh.wikiquote.org)
+ - date_published: 2024-07-12T03:47:19.694677+00:00
+
+ ## Wikiquote
+ - [https://zh-min-nan.wikiquote.org](https://zh-min-nan.wikiquote.org)
+ - date_published: 2024-06-09T02:35:17+00:00
+
  ## 維基語錄，自由的名人名言錄
  - [https://zh.wikiquote.org](https://zh.wikiquote.org)
  - date_published: 2024-06-19T16:18:27+00:00
@@ -3849,161 +4006,4 @@
  ## WMSE 91.7FM
  - [https://wmse.org](https://wmse.org)
  - date_published: 2024-10-22T05:35:24.197350+00:00
-
- ## The Westmoreland Museum of American Art
- - [http://www.wmuseumaa.org](http://www.wmuseumaa.org)
- - date_published: 2022-03-23T16:31:14+00:00
-
- ## Home - World Nuclear Symposium 2024
- - [https://www.wna-symposium.org](https://www.wna-symposium.org)
- - date_published: 2024-08-18T17:30:54.503847+00:00
-
- ## WNCW - Homepage | WNCW
- - [https://www.wncw.org](https://www.wncw.org)
- - date_published: 2024-12-21T16:17:13.610987+00:00
-
- ## IIS Windows Server
- - [https://www.wnedmembers.org](https://www.wnedmembers.org)
- - date_published: 2017-01-23T18:30:13+00:00
-
- ## Licensing Content from The WNET Group
- - [https://licensing.wnet.org](https://licensing.wnet.org)
- - date_published: 2024-07-04T19:08:56.943589+00:00
-
- ## Planned Giving Home - WNET
- - [https://myimpact.wnet.org](https://myimpact.wnet.org)
- - date_published: 2024-07-04T19:08:42.342772+00:00
-
- ## The WNET Group
- - [https://www.wnet.org](https://www.wnet.org)
- - date_published: 2024-07-04T19:08:44.168283+00:00
-
- ## PayTech Women
- - [https://www.wnetonline.org](https://www.wnetonline.org)
- - date_published: 2024-07-12T08:05:35.267231+00:00
-
- ## Current events magazines for kids ages 3-14 and Christian family…
- - [https://godsbigworld.wng.org](https://godsbigworld.wng.org)
- - date_published: 2024-08-19T14:02:45.344358+00:00
-
- ## Current events magazines for kids ages 3-14 and Christian family…
- - [https://kids.wng.org](https://kids.wng.org)
- - date_published: 2024-08-19T14:02:33.658745+00:00
-
- ## WORLD News Group
- - [https://subscribe.wng.org](https://subscribe.wng.org)
- - date_published: 2024-08-19T14:02:36.689816+00:00
-
- ## Current events magazines for kids ages 3-14 and Christian family…
- - [https://teen.wng.org](https://teen.wng.org)
- - date_published: 2024-08-19T14:02:43.046185+00:00
-
- ## Facts-Based News for Christians | WORLD
- - [https://wng.org](https://wng.org)
- - date_published: 2023-10-25T10:13:18.284192+00:00
-
- ## Facts-Based News for Christians
- - [https://world.wng.org](https://world.wng.org)
- - date_published: 2024-09-17T20:37:01.510822+00:00
-
- ## World Naked Gardening Day (WNGD) - First Saturday of May!
- - [https://wngd.org](https://wngd.org)
- - date_published: 2022-04-29T04:15:29+00:00
-
- ## UMAEF - Ukraine-Moldova American Enterprise Fund
- - [https://wnisef.org](https://wnisef.org)
- - date_published: 2024-10-31T08:55:40.172450+00:00
-
- ## Western National Parks Association
- - [http://www.wnpa.org](http://www.wnpa.org)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## FeedPress
- - [https://feeds.wnpr.org](https://feeds.wnpr.org)
- - date_published: 2024-07-10T12:25:22+00:00
-
- ## Home page -
- - [http://www.wnur.org](http://www.wnur.org)
- - date_published: 2024-12-13T06:10:52.096522+00:00
-
- ## 91.ONE WNXP
- - [https://wnxp.org](https://wnxp.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## I just supported New York Public Radio! Join me!
- - [https://pledge3.wnyc.org](https://pledge3.wnyc.org)
- - date_published: 2024-09-10T08:38:57+00:00
-
- ## I just supported New York Public Radio! Join me!
- - [https://pledge.wnyc.org](https://pledge.wnyc.org)
- - date_published: 2024-05-04T08:35:06.874141+00:00
-
- ## New York Public Radio | Sponsorship
- - [https://sponsorship.wnyc.org](https://sponsorship.wnyc.org)
- - date_published: 2024-05-04T08:35:08.039214+00:00
-
- ## WNYC Studios | Podcasts
- - [http://wnycstudios.wnyc.org](http://wnycstudios.wnyc.org)
- - date_published: 2024-06-20T11:42:29.193437+00:00
-
- ## WNYC SHOW DISTRIBUTION
- - [https://www.distribution.wnyc.org](https://www.distribution.wnyc.org)
- - date_published: 2024-06-20T04:55:12.569140+00:00
-
- ## WNYC | New York Public Radio, Podcasts, Live Streaming Radio, News
- - [https://www.wnyc.org](https://www.wnyc.org)
- - date_published: 2024-05-04T08:35:21.165128+00:00
-
- ## WNYC Studios | Podcasts
- - [https://wnycstudios.org](https://wnycstudios.org)
- - date_published: 2024-02-26T18:23:23.727442+00:00
-
- ## WNY Adult Entertainment Org
- - [http://www.wny-ultra.org](http://www.wny-ultra.org)
- - date_published: 2025-01-01T18:04:47.725656+00:00
-
- ## WOAH PVSIS
- - [https://pvs.woah.org](https://pvs.woah.org)
- - date_published: 2024-09-18T23:32:47.973445+00:00
-
- ## Home - WOAH - World Organisation for Animal Health
- - [https://woah.org](https://woah.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## woaj.org
- - [http://www.woaj.org](http://www.woaj.org)
- - date_published: 2024-10-29T16:40:27.506350+00:00
-
- ## Startseite - Industrial Workers of the World (IWW) im deutschsprachigen Raum
- - [https://wobblies.org](https://wobblies.org)
- - date_published: 2024-06-23T13:50:56.767184+00:00
-
- ## Wocoa People - A WebObjects and Cocoa Developer Community
- - [http://www.wocoa.org](http://www.wocoa.org)
- - date_published: 2007-11-27T11:35:40+00:00
-
- ## WOLA
- - [https://www.wola.org](https://www.wola.org)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Scott Wolchok
- - [https://wolchok.org](https://wolchok.org)
- - date_published: 2021-04-03T00:00:00+00:00
-
- ## WolfeDen.Org
- - [https://www.wolfeden.org](https://www.wolfeden.org)
- - date_published: 2023-10-25T22:21:37.043037+00:00
-
- ## WolfMUD: Main Index
- - [https://wolfmud.org](https://wolfmud.org)
- - date_published: 2024-05-26T21:50:01+00:00
- - tags: ['video game']
-
- ## Wolfram Foundation: Building for the Future Using Science & Computation
- - [https://wolframfoundation.org](https://wolframfoundation.org)
- - date_published: 2024-05-11T11:23:01.886566+00:00
-
- ## The Wolfram Physics Project: Finding the Fundamental Theory of Physics
- - [https://wolframphysics.org](https://wolframphysics.org)
- - date_published: 2024-03-07T08:59:02.586685+00:00
 

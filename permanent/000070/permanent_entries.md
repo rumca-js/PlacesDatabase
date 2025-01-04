@@ -1,3 +1,19 @@
+ ## My Head Is Full of Books
+ - [https://headfullofbooks.blogspot.com](https://headfullofbooks.blogspot.com)
+ - date_published: 2024-09-17T16:12:00+00:00
+
+ ## Head Injury Theater
+ - [http://headinjurytheater.blogspot.com](http://headinjurytheater.blogspot.com)
+ - date_published: 2024-03-07T23:50:56+00:00
+
+ ## Headless Horse Archer
+ - [http://headlesshorsearcher.blogspot.com](http://headlesshorsearcher.blogspot.com)
+ - date_published: 2024-07-06T20:45:35+00:00
+
+ ## Tomb of the Headless Werewolf
+ - [http://headlesswerewolf.blogspot.com](http://headlesswerewolf.blogspot.com)
+ - date_published: 2024-11-01T10:33:15+00:00
+
  ## Headline Limericks
  - [http://headlinelimericks.blogspot.com](http://headlinelimericks.blogspot.com)
  - date_published: 2024-08-28T12:02:11+00:00
@@ -3987,20 +4003,4 @@
  ## Joanne Mattera Art Blog
  - [http://joannemattera.blogspot.com](http://joannemattera.blogspot.com)
  - date_published: 2024-06-24T06:43:27+00:00
-
- ## Jo-Anne's Ramblings
- - [http://jo-annemotherandnanna.blogspot.com](http://jo-annemotherandnanna.blogspot.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Blogger
- - [http://joaocorner.blogspot.com](http://joaocorner.blogspot.com)
- - date_published: 2024-12-31T20:39:43.208503+00:00
-
- ## Joburg every day
- - [http://joburgeveryday.blogspot.com](http://joburgeveryday.blogspot.com)
- - date_published: 2024-12-18T19:16:11+00:00
-
- ## Memoirs in Motion: Journaling My Life
- - [https://jodiunedited.blogspot.com](https://jodiunedited.blogspot.com)
- - date_published: 2024-08-11T03:54:00+00:00
 

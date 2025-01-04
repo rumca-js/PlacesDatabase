@@ -1,3 +1,15 @@
+ ## We are experts in trouble.
+ - [https://adaptivecapacitylabs.com](https://adaptivecapacitylabs.com)
+ - date_published: 2024-05-08T00:00:58.376195+00:00
+
+ ## Adaptive Curmudgeon
+ - [http://adaptivecurmudgeon.com](http://adaptivecurmudgeon.com)
+ - date_published: 2024-07-03T23:48:36.709712+00:00
+
+ ## Adaptive Images in HTML
+ - [https://adaptive-images.com](https://adaptive-images.com)
+ - date_published: 2022-11-06T00:00:20+00:00
+
  ## Login
  - [https://login.adaptiveinsights.com](https://login.adaptiveinsights.com)
  - date_published: 2024-07-02T13:59:58.496661+00:00
@@ -4004,16 +4016,4 @@
  ## AFC Ann Arbor
  - [https://www.afcannarbor.com](https://www.afcannarbor.com)
  - date_published: 2024-07-09T23:02:17.068948+00:00
-
- ## Accueil - Afchem-Sofaco
- - [https://afchemsofaco.com](https://afchemsofaco.com)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Afcinema -
- - [http://www.afcinema.com](http://www.afcinema.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Home - AFCS - Air Force Civilian Service
- - [https://afciviliancareers.com](https://afciviliancareers.com)
- - date_published: 2024-03-08T00:00:00+00:00
 

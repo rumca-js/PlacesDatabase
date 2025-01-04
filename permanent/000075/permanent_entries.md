@@ -1,3 +1,19 @@
+ ## Pekka Paalanen
+ - [https://ppaalanen.blogspot.com](https://ppaalanen.blogspot.com)
+ - date_published: 2024-03-05T07:38:43+00:00
+
+ ## Nie znaleziono bloga
+ - [http://pparolee.blogspot.com](http://pparolee.blogspot.com)
+ - date_published: 2024-12-20T10:09:21.076352+00:00
+
+ ## Power Point Ranger
+ - [https://pptranger.blogspot.com](https://pptranger.blogspot.com)
+ - date_published: 2024-03-13T03:40:09+00:00
+
+ ## A Praça da Poesia
+ - [https://pracadapoesia.blogspot.com](https://pracadapoesia.blogspot.com)
+ - date_published: 2024-02-19T08:47:49+00:00
+
  ## Practical Apologetics
  - [https://practicalapologetics.blogspot.com](https://practicalapologetics.blogspot.com)
  - date_published: 2024-09-02T07:34:49+00:00
@@ -4012,20 +4028,4 @@
  ## The Rune Under Water
  - [https://runeunderwater.blogspot.com](https://runeunderwater.blogspot.com)
  - date_published: 2024-07-04T06:27:29+00:00
-
- ## Nie znaleziono bloga
- - [http://runfarnotfast.blogspot.com](http://runfarnotfast.blogspot.com)
- - date_published: 2024-12-19T10:29:37.240194+00:00
-
- ## Will Run for Wine
- - [http://runforwine.blogspot.com](http://runforwine.blogspot.com)
- - date_published: 2024-09-09T06:18:03+00:00
-
- ## Life on the Run
- - [https://runforyourlife-yassine.blogspot.com](https://runforyourlife-yassine.blogspot.com)
- - date_published: 2024-02-21T03:20:42+00:00
-
- ## RunGunnRun...(and swim and bike)
- - [http://rungunnrun.blogspot.com](http://rungunnrun.blogspot.com)
- - date_published: 2024-08-30T04:54:59+00:00
 

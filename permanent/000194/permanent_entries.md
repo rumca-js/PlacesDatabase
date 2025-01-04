@@ -1,3 +1,55 @@
+ ## TESTNET  Polygon zkEVM Cardona (ETH) Blockchain Explorer
+ - [https://cardona-zkevm.polygonscan.com](https://cardona-zkevm.polygonscan.com)
+ - date_published: 2024-08-07T09:24:22.702092+00:00
+
+ ## Introduction | Polygonscan
+ - [https://docs.polygonscan.com](https://docs.polygonscan.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Polygonscan Information Center
+ - [https://info.polygonscan.com](https://info.polygonscan.com)
+ - date_published: 2024-07-18T10:11:00+00:00
+
+ ## Polygon PoS Chain (MATIC) Blockchain Explorer
+ - [https://polygonscan.com](https://polygonscan.com)
+ - date_published: 2024-04-28T04:40:02.507021+00:00
+
+ ## Polygon zkEVM (ETH) Blockchain Explorer
+ - [https://zkevm.polygonscan.com](https://zkevm.polygonscan.com)
+ - date_published: 2024-06-22T05:49:51.908970+00:00
+
+ ## PolygonIO Status
+ - [https://polygonstatus.com](https://polygonstatus.com)
+ - date_published: 2024-05-06T09:10:33.826007+00:00
+
+ ## Poly Haven Blog
+ - [https://blog.polyhaven.com](https://blog.polyhaven.com)
+ - date_published: 2025-01-02T04:43:59.494771+00:00
+
+ ## Poly Haven Wiki
+ - [https://docs.polyhaven.com](https://docs.polyhaven.com)
+ - date_published: 2025-01-02T04:44:05.196651+00:00
+
+ ## Poly Haven • Poly Haven
+ - [https://polyhaven.com](https://polyhaven.com)
+ - date_published: 2024-07-11T19:41:19.000896+00:00
+
+ ## Polylists
+ - [https://polylists.com](https://polylists.com)
+ - date_published: 2024-02-03T21:38:26+00:00
+
+ ## Polymarket | The World's Largest Prediction Market
+ - [https://polymarket.com](https://polymarket.com)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Polymathic Being | Michael Woudenberg | Substack
+ - [https://polymathicbeing.com](https://polymathicbeing.com)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Strategic Advisors and Innovators
+ - [https://polymathicdisciplines.com](https://polymathicdisciplines.com)
+ - date_published: 2024-08-11T14:53:07.054102+00:00
+
  ## Polymath Robotics
  - [https://polymathrobotics.com](https://polymathrobotics.com)
  - date_published: 2023-10-25T16:37:34.775691+00:00
@@ -4001,56 +4053,4 @@
  ## PRAXIS | Bicycle components for discerning riders like you.
  - [https://praxiscycles.com](https://praxiscycles.com)
  - date_published: 2024-05-08T00:00:00+00:00
-
- ## Praxis
- - [https://www.praxisnation.com](https://www.praxisnation.com)
- - date_published: 2024-12-14T19:31:18.609598+00:00
-
- ## Praxis
- - [https://praxissociety.com](https://praxissociety.com)
- - date_published: 2024-10-31T15:59:09.057971+00:00
-
- ## Benedictus
- - [https://praybenedictus.com](https://praybenedictus.com)
- - date_published: 2024-07-13T03:05:11.503002+00:00
-
- ## hacking with praydog
- - [https://praydog.com](https://praydog.com)
- - date_published: 2024-10-17T15:20:03.178337+00:00
-
- ## ZeroBot - Praygen.com
- - [https://www.praygen.com](https://www.praygen.com)
- - date_published: 2024-06-19T21:22:39.074937+00:00
-
- ## Pray More Novenas - Novena Prayers & Catholic Devotion
- - [https://www.praymorenovenas.com](https://www.praymorenovenas.com)
- - date_published: 2024-06-29T23:51:26.249772+00:00
-
- ## Praytell | Integrated Marketing & Creative Communications Agency
- - [https://www.praytellagency.com](https://www.praytellagency.com)
- - date_published: 2024-10-28T15:34:16+00:00
-
- ## PrayTellBlog
- - [https://praytellblog.com](https://praytellblog.com)
- - date_published: 2025-01-01T04:36:59+00:00
-
- ## Homepage | PRB Academy
- - [https://prbacademy.com](https://prbacademy.com)
- - date_published: 2024-12-14T13:12:58.103435+00:00
-
- ## PRBS23
- - [https://prbs23.com](https://prbs23.com)
- - date_published: 2023-05-25T00:00:00+00:00
-
- ## PR Daily: Empowering PR Professionals with News, Insights, and Networking Opportunities
- - [https://www.prdaily.com](https://www.prdaily.com)
- - date_published: 2024-06-29T19:57:28.326435+00:00
-
- ## The Preacher Pollard Blog
- - [https://preacherpollard.com](https://preacherpollard.com)
- - date_published: 2024-09-06T19:18:00.221783+00:00
-
- ## Join Preact on Slack
- - [https://chat.preactjs.com](https://chat.preactjs.com)
- - date_published: 2024-06-15T00:00:00+00:00
 

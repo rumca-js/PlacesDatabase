@@ -1,3 +1,167 @@
+ ## Secure Online Payment Solutions in South Africa | Payfast by Network
+ - [https://www.payfast.co.za](https://www.payfast.co.za)
+ - date_published: 2024-12-12T18:56:15.057111+00:00
+
+ ## PayU MEA
+ - [https://merchantportal.payu.co.za](https://merchantportal.payu.co.za)
+ - date_published: 2024-07-17T09:01:02.319443+00:00
+
+ ## Things.
+ - [https://pb.co.za](https://pb.co.za)
+ - date_published: 2023-10-25T23:05:54.100498+00:00
+
+ ## Penguin Random House South Africa
+ - [https://www.penguinrandomhouse.co.za](https://www.penguinrandomhouse.co.za)
+ - date_published: 2024-06-28T14:08:44+00:00
+
+ ## PERI Formwork Scaffolding Engineering, South Africa
+ - [https://www.peri.co.za](https://www.peri.co.za)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## New Cars, Vans & Servicing | Peugeot South Africa
+ - [https://peugeot.co.za](https://peugeot.co.za)
+ - date_published: 2024-10-28T17:35:56.273638+00:00
+
+ ## New Cars, Vans & Servicing | Peugeot South Africa
+ - [https://peugeotsouthafrica.co.za](https://peugeotsouthafrica.co.za)
+ - date_published: 2024-10-28T17:35:27.297186+00:00
+
+ ## Philips - South Africa
+ - [https://www.philips.co.za](https://www.philips.co.za)
+ - date_published: 2024-10-29T23:45:26+00:00
+
+ ## Johannesburg Photographer Services | Countrywide
+ - [https://photographyservices.co.za](https://photographyservices.co.za)
+ - date_published: 2024-07-15T11:55:17.387714+00:00
+
+ ## Home - Robben Island Museum
+ - [https://rim.piidigital.co.za](https://rim.piidigital.co.za)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## HOME | Playtopia
+ - [http://playtopia.co.za](http://playtopia.co.za)
+ - date_published: 2024-06-22T15:05:44.131825+00:00
+
+ ## Precision Plastic Manufacturing & Moulds
+ - [https://precision.co.za](https://precision.co.za)
+ - date_published: 2024-06-18T16:30:09.167801+00:00
+
+ ## Compare Products & Prices Online | Best Price Comparison Site | PriceCheck
+ - [https://www.pricecheck.co.za](https://www.pricecheck.co.za)
+ - date_published: 2024-09-19T14:09:55+00:00
+
+ ## Progenix - For All Your Computing Needs
+ - [https://progenix.co.za](https://progenix.co.za)
+ - date_published: 2024-07-13T13:24:32.859126+00:00
+
+ ## Properties for sale: Houses for sale: PropertyMatcher
+ - [https://propertymatcher.co.za](https://propertymatcher.co.za)
+ - date_published: 2024-07-15T02:58:40.949508+00:00
+
+ ## My WordPress Site – Just another WordPress site
+ - [https://times.psykrotek.co.za](https://times.psykrotek.co.za)
+ - date_published: 2024-07-07T05:08:15+00:00
+
+ ## Pwned Games Online | Proudly South African
+ - [https://pwnedgames.co.za](https://pwnedgames.co.za)
+ - date_published: 2024-07-17T20:37:20+00:00
+
+ ## Quicket - Find and Sell Tickets to Events Throughout Africa
+ - [https://www.quicket.co.za](https://www.quicket.co.za)
+ - date_published: 2024-08-11T16:51:02.688321+00:00
+
+ ## Quizinc South Africa: Play Free & VIP Quizzes to Win Up to 1.2M in Airtime!
+ - [https://quizinc.co.za](https://quizinc.co.za)
+ - date_published: 2024-06-29T13:48:50.126113+00:00
+
+ ## raru.co.za
+ - [https://raru.co.za](https://raru.co.za)
+ - date_published: 2024-06-15T03:30:17.917387+00:00
+
+ ## ROSA – Passionately South African
+ - [http://www.romancewriters.co.za](http://www.romancewriters.co.za)
+ - date_published: 2024-07-04T13:16:01.870806+00:00
+
+ ## Eskom Rotek Industries
+ - [https://www.rotekindustries.co.za](https://www.rotekindustries.co.za)
+ - date_published: 2024-05-12T07:31:37.545097+00:00
+
+ ## Home - RSAWEB
+ - [http://www.rsaweb.co.za](http://www.rsaweb.co.za)
+ - date_published: 2024-11-16T20:56:05.190654+00:00
+
+ ## Rundata Software Systems
+ - [https://www.rundata.co.za](https://www.rundata.co.za)
+ - date_published: 2024-01-18T08:17:11+00:00
+
+ ## Home - RX Africa | RX
+ - [https://rxglobal.co.za](https://rxglobal.co.za)
+ - date_published: 2024-06-24T08:35:17.918941+00:00
+
+ ## Custom Software Developers - Rysis Software
+ - [http://www.rysis.co.za](http://www.rysis.co.za)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## SA Coronavirus Maintenance - SA Corona Virus Online Portal
+ - [https://sacoronavirus.co.za](https://sacoronavirus.co.za)
+ - date_published: 2024-04-05T10:13:44+00:00
+
+ ## Test Page for saflyermag.co.za
+ - [http://www.saflyermag.co.za](http://www.saflyermag.co.za)
+ - date_published: 2023-02-21T11:13:03+00:00
+
+ ## South African Journal of Science
+ - [https://sajs.co.za](https://sajs.co.za)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Saniflo Africa
+ - [https://www.saniflo.co.za](https://www.saniflo.co.za)
+ - date_published: 2024-12-21T01:23:22+00:00
+
+ ## SIXT rent a car South Africa | Top Deals on Quality Car Hire
+ - [https://sanisixt.co.za](https://sanisixt.co.za)
+ - date_published: 2024-12-20T23:23:46+00:00
+
+ ## Insurance, Investments & Financial Planning | Sanlam
+ - [https://www.sanlam.co.za](https://www.sanlam.co.za)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Saraa
+ - [https://www.saraa.co.za](https://www.saraa.co.za)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## SASSA Status Check Online | SRD R350 Grant Status Check 2024 - SASSA Status Check
+ - [https://sassagrantsstatus.co.za](https://sassagrantsstatus.co.za)
+ - date_published: 2024-10-19T10:25:32.684857+00:00
+
+ ## SASSA Status Check - Official
+ - [https://sassa-status.co.za](https://sassa-status.co.za)
+ - date_published: 2024-10-19T10:25:29.954240+00:00
+
+ ## South African Table Grape Industry | SATI
+ - [https://www.satgi.co.za](https://www.satgi.co.za)
+ - date_published: 2024-10-31T08:54:12.302400+00:00
+
+ ## South African Weather Forecasts Rain Temperature Maps & Satellite
+ - [https://sawx.co.za](https://sawx.co.za)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## SCAMBUSTER Find and Report Scams | South Africa
+ - [https://scambuster.co.za](https://scambuster.co.za)
+ - date_published: 2024-07-15T11:55:25.894968+00:00
+
+ ## ScienceLink
+ - [https://sciencelink.co.za](https://sciencelink.co.za)
+ - date_published: 2024-10-20T04:43:35.470576+00:00
+
+ ## Digital Marketing Agency in Durban, South Africa | Select Web
+ - [https://www.selectweb.co.za](https://www.selectweb.co.za)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## We are the world's leading testing, inspection and certification company.
+ - [https://www.sgs.co.za](https://www.sgs.co.za)
+ - date_published: 2024-09-10T12:51:37.768583+00:00
+
  ## Skullcandy-Headphones, Earbuds, Speakers & More
  - [https://skullcandyshop.co.za](https://skullcandyshop.co.za)
  - date_published: 2024-12-21T03:02:15.145518+00:00
@@ -1176,16 +1340,4 @@
  ## Home - Mcheno and More...
  - [https://mcheno.co.zw](https://mcheno.co.zw)
  - date_published: 2024-05-02T13:58:19.553198+00:00
-
- ## NewsDay Zimbabwe - Every Day News for Everyday People
- - [https://www.newsday.co.zw](https://www.newsday.co.zw)
- - date_published: 2024-12-13T09:55:57.123885+00:00
-
- ## The Sunday Mail | The Leading Family Newspaper in Zimbabwe
- - [https://sundaymail.co.zw](https://sundaymail.co.zw)
- - date_published: 2024-06-18T17:15:19+00:00
-
- ## Techzim
- - [https://techzim.co.zw](https://techzim.co.zw)
- - date_published: 2024-08-12T04:29:48+00:00
 

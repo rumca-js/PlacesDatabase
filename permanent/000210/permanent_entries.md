@@ -1,3 +1,69 @@
+ ## Security Degree Hub - Everything you need to know for a career in Security - Security Degree Hub
+ - [https://www.securitydegreehub.com](https://www.securitydegreehub.com)
+ - date_published: 2024-06-20T04:02:58.697514+00:00
+
+ ## Independent Security Evaluators
+ - [https://blog.securityevaluators.com](https://blog.securityevaluators.com)
+ - date_published: 2024-06-29T11:14:18.478759+00:00
+
+ ## Online and Mobile Security Platform - Security Gladiators
+ - [https://securitygladiators.com](https://securitygladiators.com)
+ - date_published: 2024-06-21T14:47:32+00:00
+
+ ## SecurityGuill
+ - [https://securityguill.com](https://securityguill.com)
+ - date_published: 2024-05-01T03:55:40.254206+00:00
+
+ ## Analyse your HTTP response headers
+ - [https://securityheaders.com](https://securityheaders.com)
+ - date_published: 2024-05-02T12:14:02.693618+00:00
+
+ ## Forums - 
+		
+		SecurityInfoWatch Forums - Discussions for the Security Professional
+ - [https://forums.securityinfowatch.com](https://forums.securityinfowatch.com)
+ - date_published: 2024-07-16T23:07:43.189098+00:00
+
+ ## Home
+ - [https://www.securityinfowatch.com](https://www.securityinfowatch.com)
+ - date_published: 2024-06-26T23:45:20.518259+00:00
+
+ ## Home
+ - [https://www.securityinnovation.com](https://www.securityinnovation.com)
+ - date_published: 2023-09-25T00:00:00+00:00
+
+ ## Security Intelligence - Cybersecurity Analysis & Insight
+ - [https://securityintelligence.com](https://securityintelligence.com)
+ - date_published: 2024-03-03T17:35:06.930018+00:00
+
+ ## Security Journal UK | UK Security News Magazine
+ - [https://securityjournaluk.com](https://securityjournaluk.com)
+ - date_published: 2023-05-23T09:43:16+00:00
+
+ ## Secure Coding Training | Security Journey
+ - [https://www.securityjourney.com](https://www.securityjourney.com)
+ - date_published: 2024-07-09T02:36:48+00:00
+
+ ## The Security Ledger with Paul F. Roberts
+ - [https://securityledger.com](https://securityledger.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## BlueConic: Log In
+ - [https://bc.securitymagazine.com](https://bc.securitymagazine.com)
+ - date_published: 2024-08-19T06:06:52.660644+00:00
+
+ ## Security Magazine | The business magazine for security executives
+ - [https://securitymagazine.com](https://securitymagazine.com)
+ - date_published: 2023-10-25T17:01:25.815257+00:00
+
+ ## PCI | HIPAA | Credit Card Compliance | SecurityMetrics
+ - [https://www.securitymetrics.com](https://www.securitymetrics.com)
+ - date_published: 2024-06-20T22:32:30+00:00
+
+ ## Home - Security Middle East Magazine
+ - [https://www.securitymiddleeastmag.com](https://www.securitymiddleeastmag.com)
+ - date_published: 2024-09-20T00:00:00+00:00
+
  ## The Mouse Trap
  - [http://blog.securitymouse.com](http://blog.securitymouse.com)
  - date_published: 2024-05-12T11:04:00+00:00
@@ -1515,6 +1581,10 @@ American Coins by Daniel Frank Sedwick, LLC
  ## SellMoz - Premium Domain & Website Portfolio
  - [https://sellmoz.com](https://sellmoz.com)
  - date_published: 2024-09-18T19:21:09.709604+00:00
+
+ ## Home
+ - [https://www.sellmyapp.com](https://www.sellmyapp.com)
+ - date_published: 2014-05-19T14:28:38+00:00
 
  ## Buy & Sell Retro Electronics Home Computers Arcade & Video Games Consoles
  - [https://www.sellmyretro.com](https://www.sellmyretro.com)
@@ -3968,72 +4038,4 @@ American Coins by Daniel Frank Sedwick, LLC
  ## AEMO  Enterprise Service Management
  - [https://aemo.service-now.com](https://aemo.service-now.com)
  - date_published: 2024-09-16T21:46:40.800660+00:00
-
- ## ServiceNow
- - [https://auburn.service-now.com](https://auburn.service-now.com)
- - date_published: 2024-07-22T08:23:05.575804+00:00
-
- ## Service at UC Berkeley
- - [https://berkeley.service-now.com](https://berkeley.service-now.com)
- - date_published: 2024-07-02T17:50:13.176681+00:00
-
- ## BeyondTrust Service Management
- - [https://beyondtrustcorp.service-now.com](https://beyondtrustcorp.service-now.com)
- - date_published: 2024-07-23T22:16:26.610189+00:00
-
- ## Sign in to CERN
- - [https://cern.service-now.com](https://cern.service-now.com)
- - date_published: 2024-04-30T05:58:50.347283+00:00
-
- ## ServiceNow
- - [https://cmu.service-now.com](https://cmu.service-now.com)
- - date_published: 2024-07-22T06:11:43.037451+00:00
-
- ## Cal Poly Pomona
- - [https://cpp.service-now.com](https://cpp.service-now.com)
- - date_published: 2024-07-08T14:42:55.093633+00:00
-
- ## DePaul Service Now
- - [https://depaul.service-now.com](https://depaul.service-now.com)
- - date_published: 2024-07-09T21:29:52.951550+00:00
-
- ## Support@Duke
- - [https://duke.service-now.com](https://duke.service-now.com)
- - date_published: 2024-10-08T04:24:22.072962+00:00
-
- ## Homepage - ESA TellUS Customer Service Portal
- - [https://esatellus.service-now.com](https://esatellus.service-now.com)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## AskIT
- - [https://fiu.service-now.com](https://fiu.service-now.com)
- - date_published: 2024-04-30T04:14:34.603785+00:00
-
- ## GT ServiceNow
- - [https://gatech.service-now.com](https://gatech.service-now.com)
- - date_published: 2024-06-16T16:49:08.213346+00:00
-
- ## IIT Technology Service Desk
- - [https://gsutech.service-now.com](https://gsutech.service-now.com)
- - date_published: 2024-04-30T04:34:06.580649+00:00
-
- ## ServiceNow  Service Management
- - [https://harvard.service-now.com](https://harvard.service-now.com)
- - date_published: 2024-06-16T13:36:31.600410+00:00
-
- ## ServiceNow
- - [https://highpointuniversity.service-now.com](https://highpointuniversity.service-now.com)
- - date_published: 2024-06-30T10:53:10.958855+00:00
-
- ## IMDC
- - [https://imdc.service-now.com](https://imdc.service-now.com)
- - date_published: 2024-07-15T09:58:21.968071+00:00
-
- ## ISS Service Management
- - [https://issgovernance.service-now.com](https://issgovernance.service-now.com)
- - date_published: 2024-09-25T19:11:30.578593+00:00
-
- ## ServiceNow
- - [https://itsusc.service-now.com](https://itsusc.service-now.com)
- - date_published: 2024-07-02T11:00:34.385179+00:00
 

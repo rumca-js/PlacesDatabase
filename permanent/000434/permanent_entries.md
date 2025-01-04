@@ -1,3 +1,160 @@
+ ## Journées Plénières du GDR NEMO - Sciencesconf.org
+ - [https://gdr-nemo.sciencesconf.org](https://gdr-nemo.sciencesconf.org)
+ - date_published: 2024-10-14T15:38:35.228190+00:00
+
+ ## /gʁafematik/ 2024 — Grapholinguistics in the 21st Century - Sciencesconf.org
+ - [https://grafematik2024.sciencesconf.org](https://grafematik2024.sciencesconf.org)
+ - date_published: 2024-07-13T16:55:13.510395+00:00
+
+ ## 7th workshop on Graph Classes, Optimization, and Width Parameters - Sciencesconf.org
+ - [https://grow2015.sciencesconf.org](https://grow2015.sciencesconf.org)
+ - date_published: 2020-10-16T06:42:01+00:00
+
+ ## International Faust Conference 2020 - Sciencesconf.org
+ - [https://ifc20.sciencesconf.org](https://ifc20.sciencesconf.org)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Ecole d'Eté 2016 de l'Institut Fourier - Sciencesconf.org
+ - [https://if-summer2016.sciencesconf.org](https://if-summer2016.sciencesconf.org)
+ - date_published: 2020-12-22T07:20:50+00:00
+
+ ## IntACT Advanced Course 2019 - Sciencesconf.org
+ - [https://intact-course01.sciencesconf.org](https://intact-course01.sciencesconf.org)
+ - date_published: 2023-01-16T08:31:28+00:00
+
+ ## Linux Audio Conference 2020 - Sciencesconf.org
+ - [https://lac2020.sciencesconf.org](https://lac2020.sciencesconf.org)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## L'agape - Foundations of Physics - Sciencesconf.org
+ - [https://lagape.sciencesconf.org](https://lagape.sciencesconf.org)
+ - date_published: 2021-09-09T06:19:56+00:00
+
+ ## Machine Learning for Evolutionary Genomics Data - Sciencesconf.org
+ - [https://legend2024.sciencesconf.org](https://legend2024.sciencesconf.org)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## ANF METAAL-SHS 2024 - Sciencesconf.org
+ - [https://metaal-shs-2024.sciencesconf.org](https://metaal-shs-2024.sciencesconf.org)
+ - date_published: 2024-10-14T15:38:32.092534+00:00
+
+ ## SciencesConf.org
+ - [https://portal.sciencesconf.org](https://portal.sciencesconf.org)
+ - date_published: 2024-10-14T15:38:30.917958+00:00
+
+ ## Sciencesconf - Sciencesconf
+ - [https://sciencesconf.org](https://sciencesconf.org)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## SILICAMICS 4 : Biogeochemistry, ecology and genomics of silicifiers - Sciencesconf.org
+ - [https://silicamics4.sciencesconf.org](https://silicamics4.sciencesconf.org)
+ - date_published: 2024-10-14T15:38:33.862392+00:00
+
+ ## Workshop on Reverse Mathematics and its Philosophy - Sciencesconf.org
+ - [https://wrmp2022.sciencesconf.org](https://wrmp2022.sciencesconf.org)
+ - date_published: 2024-08-17T22:28:55.681238+00:00
+
+ ## ScienceSeeker | Science News Aggregator
+ - [http://scienceseeker.org](http://scienceseeker.org)
+ - date_published: 2024-08-12T10:28:35+00:00
+
+ ## ScienceSites
+ - [https://sciencesites.org](https://sciencesites.org)
+ - date_published: 2024-07-01T05:46:37.886280+00:00
+
+ ## Home
+ - [https://web.sciencesocieties.org](https://web.sciencesocieties.org)
+ - date_published: 2024-07-14T03:48:44.289747+00:00
+
+ ## Predictability of Scientific Success
+ - [http://sciencesuccess.org](http://sciencesuccess.org)
+ - date_published: 2016-09-30T00:00:00+00:00
+
+ ## Science United
+ - [https://scienceunited.org](https://scienceunited.org)
+ - date_published: 2024-04-30T03:27:55.707823+00:00
+
+ ## scientiasalon.org
+ - [http://scientiasalon.org](http://scientiasalon.org)
+ - date_published: 2025-01-01T07:51:20.993775+00:00
+
+ ## Scientific Education - ScientificEducation.Ro
+ - [http://www.scientificeducation.org](http://www.scientificeducation.org)
+ - date_published: 2024-10-29T17:43:33.413243+00:00
+
+ ## Scientific Journals International.
+ - [http://www.scientificjournals.org](http://www.scientificjournals.org)
+ - date_published: 2024-10-29T16:56:24.335779+00:00
+
+ ## Scientific Linux | Information about the Scientific Linux distribution
+ - [https://scientificlinux.org](https://scientificlinux.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## W88 - W88 Korea 최신 링크 가입 최대 보너스 330,000 KRW
+ - [http://www.scientificoajournals.org](http://www.scientificoajournals.org)
+ - date_published: 2024-10-29T16:46:28.213096+00:00
+
+ ## Blog -
+ - [https://blog.scientific-python.org](https://blog.scientific-python.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Scientific Python
+ - [https://discuss.scientific-python.org](https://discuss.scientific-python.org)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Learn -
+ - [https://learn.scientific-python.org](https://learn.scientific-python.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Scientific Python Lectures — Scientific Python Lectures
+ - [https://lectures.scientific-python.org](https://lectures.scientific-python.org)
+ - date_published: 2024-07-03T17:28:33+00:00
+
+ ## Scientific Python -
+ - [https://scientific-python.org](https://scientific-python.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Scientific Python Hugo Theme documentation -
+ - [https://theme.scientific-python.org](https://theme.scientific-python.org)
+ - date_published: 2024-12-16T08:13:08.504457+00:00
+
+ ## Tools -
+ - [https://tools.scientific-python.org](https://tools.scientific-python.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Plausible · Web analytics
+ - [https://views.scientific-python.org](https://views.scientific-python.org)
+ - date_published: 2024-04-28T03:27:12.424277+00:00
+
+ ## Scientific Style and Format Online - TOC Welcome
+ - [https://scientificstyleandformat.org](https://scientificstyleandformat.org)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Scientific Times - We Innovate & We Deliver
+ - [http://scientifictimes.org](http://scientifictimes.org)
+ - date_published: 2024-10-29T17:27:09.455569+00:00
+
+ ## Regionalgruppe Osnabrück - Osnabrück
+ - [https://osnabrueck.scientists4future.org](https://osnabrueck.scientists4future.org)
+ - date_published: 2024-12-10T15:29:27.252767+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://m.scientology.org](https://m.scientology.org)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://scientology.org](https://scientology.org)
+ - date_published: 0001-01-01T00:00:00+00:00
+ - tags: ['scientology']
+
+ ## Free Scientology Online Courses from the Scientology Handbook
+ - [https://scientologycourses.org](https://scientologycourses.org)
+ - date_published: 2024-05-02T10:38:10.258307+00:00
+
+ ## Free Scientology Online Courses from the Scientology Handbook
+ - [https://scientologyhandbook.org](https://scientologyhandbook.org)
+ - date_published: 0001-01-01T00:00:00+00:00
+
  ## https://www.scientologynews.org/
  - [https://scientologynews.org](https://scientologynews.org)
  - date_published: 2023-11-27T13:01:04+00:00
@@ -3871,163 +4028,4 @@
  ## The 2018 ACM SIGMOD/PODS Conference: Houston, TX, USA - Welcome
  - [https://sigmod2018.org](https://sigmod2018.org)
  - date_published: 2024-07-01T19:51:07.896162+00:00
-
- ## SIGMOD Record – SIGMOD Record Site
- - [https://sigmodrecord.org](https://sigmodrecord.org)
- - date_published: 2023-10-25T22:08:28.470823+00:00
-
- ## Signal Messenger: Speak Freely
- - [https://signal.org](https://signal.org)
- - date_published: 2023-10-24T20:12:52.142794+00:00
- - tags: ['social communicator']
-
- ## https://support.signal.org
- - [https://support.signal.org](https://support.signal.org)
- - date_published: 2023-11-08T23:51:03.659129+00:00
-
- ## Local news and resources for Clevelanders by Clevelanders
- - [https://signalcleveland.org](https://signalcleveland.org)
- - date_published: 2024-06-21T13:17:49+00:00
-
- ## Home
- - [http://signalculture.org](http://signalculture.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Signal Foundation
- - [https://signalfoundation.org](https://signalfoundation.org)
- - date_published: 2024-04-23T17:25:08+00:00
- - tags: ['activism', 'free speech', 'open source', 'organisation']
-
- ## Signal K Server
- - [https://demo.signalk.org](https://demo.signalk.org)
- - date_published: 2024-08-18T18:35:08.297219+00:00
-
- ## Signal K » Welcome
- - [https://signalk.org](https://signalk.org)
- - date_published: 2023-10-25T22:08:31.584869+00:00
-
- ## IEEE Signal Processing Society (SPS) ASI – IEEE Autonomous Systems Initiative (ASI)
- - [https://ieeeasi.signalprocessingsociety.org](https://ieeeasi.signalprocessingsociety.org)
- - date_published: 2024-07-02T01:31:36.748138+00:00
-
- ## Home
- - [https://rc.signalprocessingsociety.org](https://rc.signalprocessingsociety.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Welcome to IEEE Signal Processing Society
- - [https://signalprocessingsociety.org](https://signalprocessingsociety.org)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Signal Community
- - [https://community.signalusers.org](https://community.signalusers.org)
- - date_published: 2023-11-08T23:51:02.541959+00:00
-
- ## SIGNIS ALC
- - [https://signisalc.org](https://signisalc.org)
- - date_published: 2024-09-11T01:51:15.356878+00:00
-
- ## SignPath Foundation
- - [https://signpath.org](https://signpath.org)
- - date_published: 2024-06-03T22:50:37+00:00
- - tags: ['certificate']
-
- ## SignServer: Open-Source Signing Software
- - [https://www.signserver.org](https://www.signserver.org)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home - Signum University
- - [https://signumuniversity.org](https://signumuniversity.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## SignWriting For Sign Languages
- - [https://www.signwriting.org](https://www.signwriting.org)
- - date_published: 2024-05-08T20:25:22+00:00
-
- ## HotOS - XVII
- - [http://hotos19.sigops.org](http://hotos19.sigops.org)
- - date_published: 2019-05-10T13:29:52+00:00
-
- ## SIGOPS
- - [https://sigops.org](https://sigops.org)
- - date_published: 2024-05-04T15:31:31.724939+00:00
-
- ## SIGPLAN Blog
- - [https://blog.sigplan.org](https://blog.sigplan.org)
- - date_published: 2024-06-09T23:16:16.851639+00:00
-
- ## HOPL IV
- - [https://hopl4.sigplan.org](https://hopl4.sigplan.org)
- - date_published: 2021-06-22T00:00:00+00:00
-
- ## ICFP 2016
- - [https://icfp16.sigplan.org](https://icfp16.sigplan.org)
- - date_published: 2024-07-17T05:49:18.007009+00:00
-
- ## ICFP 2017
- - [https://icfp17.sigplan.org](https://icfp17.sigplan.org)
- - date_published: 2024-07-17T05:49:20.404080+00:00
-
- ## ICFP 2018
- - [https://icfp18.sigplan.org](https://icfp18.sigplan.org)
- - date_published: 2024-07-09T13:52:19.513351+00:00
-
- ## ICFP 2019
- - [https://icfp19.sigplan.org](https://icfp19.sigplan.org)
- - date_published: 2024-07-08T15:08:16.922212+00:00
-
- ## ICFP 2020
- - [https://icfp20.sigplan.org](https://icfp20.sigplan.org)
- - date_published: 2024-07-17T05:49:19.072641+00:00
-
- ## ICFP 2021
- - [https://icfp21.sigplan.org](https://icfp21.sigplan.org)
- - date_published: 2024-07-17T05:49:16.542737+00:00
-
- ## ICFP 2022
- - [https://icfp22.sigplan.org](https://icfp22.sigplan.org)
- - date_published: 2024-07-08T12:07:04.190983+00:00
-
- ## ICFP 2023
- - [https://icfp23.sigplan.org](https://icfp23.sigplan.org)
- - date_published: 2023-10-25T22:08:36.841375+00:00
-
- ## ICFP 2024
- - [https://icfp24.sigplan.org](https://icfp24.sigplan.org)
- - date_published: 2024-05-13T02:46:11.548821+00:00
-
- ## PLDI 2015
- - [https://pldi15.sigplan.org](https://pldi15.sigplan.org)
- - date_published: 2024-06-20T06:00:08.621420+00:00
-
- ## PLDI 2016
- - [https://pldi16.sigplan.org](https://pldi16.sigplan.org)
- - date_published: 2024-06-20T06:00:04.380019+00:00
-
- ## PLDI 2017
- - [https://pldi17.sigplan.org](https://pldi17.sigplan.org)
- - date_published: 2024-06-20T06:00:12.845916+00:00
-
- ## PLDI 2018
- - [https://pldi18.sigplan.org](https://pldi18.sigplan.org)
- - date_published: 2024-06-20T06:00:15.807791+00:00
-
- ## PLDI 2019
- - [https://pldi19.sigplan.org](https://pldi19.sigplan.org)
- - date_published: 2024-06-20T05:54:54.339565+00:00
-
- ## PLDI 2020
- - [https://pldi20.sigplan.org](https://pldi20.sigplan.org)
- - date_published: 2024-06-20T06:00:05.854005+00:00
-
- ## PLDI 2021
- - [https://pldi21.sigplan.org](https://pldi21.sigplan.org)
- - date_published: 2024-06-20T06:00:07.154699+00:00
-
- ## PLDI 2022
- - [https://pldi22.sigplan.org](https://pldi22.sigplan.org)
- - date_published: 2024-05-04T08:10:30.563439+00:00
-
- ## PLDI 2023
- - [https://pldi23.sigplan.org](https://pldi23.sigplan.org)
- - date_published: 2024-04-28T03:26:15.245100+00:00
 

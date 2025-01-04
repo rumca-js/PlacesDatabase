@@ -1,3 +1,39 @@
+ ## The New York Times - Breaking News, US News, World News and Videos
+ - [https://mobile.nytimes.com](https://mobile.nytimes.com)
+ - date_published: 2024-06-17T03:30:16+00:00
+
+ ## The New York Times
+ - [https://myaccount.nytimes.com](https://myaccount.nytimes.com)
+ - date_published: 2024-05-09T05:52:02.557895+00:00
+
+ ## Abstract Sunday Blog - The New York Times
+ - [http://niemann.blogs.nytimes.com](http://niemann.blogs.nytimes.com)
+ - date_published: 2015-08-20T00:00:00+00:00
+
+ ## The New York Times - Breaking News, US News, World News and Videos
+ - [https://nl.nytimes.com](https://nl.nytimes.com)
+ - date_published: 2024-07-03T22:09:10+00:00
+
+ ## The New York Times - Breaking News, US News, World News and Videos
+ - [https://nytimes.com](https://nytimes.com)
+ - date_published: 2024-05-07T19:07:13.759283+00:00
+
+ ## NYT Open
+ - [https://open.nytimes.com](https://open.nytimes.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Opinion - Opinionator - The New York Times
+ - [https://opinionator.blogs.nytimes.com](https://opinionator.blogs.nytimes.com)
+ - date_published: 2022-06-08T00:00:00+00:00
+
+ ## Opinions From All Over, Part of NYT Opinion - Op-Talk Blog - The New York Times
+ - [http://op-talk.blogs.nytimes.com](http://op-talk.blogs.nytimes.com)
+ - date_published: 2024-10-18T14:36:50.816098+00:00
+
+ ## Books - ArtsBeat Blog - The New York Times
+ - [https://papercuts.blogs.nytimes.com](https://papercuts.blogs.nytimes.com)
+ - date_published: 2022-06-07T21:42:28+00:00
+
  ## Technology - Pogue's Posts Blog - The New York Times
  - [http://pogue.blogs.nytimes.com](http://pogue.blogs.nytimes.com)
  - date_published: 2024-10-20T20:52:38.312170+00:00
@@ -3989,40 +4025,4 @@
  ## Offliberty - evidence of offline life
  - [http://offliberty.com](http://offliberty.com)
  - date_published: 2024-08-18T08:33:41.557630+00:00
-
- ## Offline Oracles
- - [https://www.offlineoracles.com](https://www.offlineoracles.com)
- - date_published: 2024-08-06T16:39:42.643441+00:00
-
- ## Introduction | Offline Protocol Litepaper
- - [https://docs.offlineprotocol.com](https://docs.offlineprotocol.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Home | Off My Tree | Found, Foraged and Fallen
- - [https://www.offmytree.com](https://www.offmytree.com)
- - date_published: 2024-10-17T12:16:17.584767+00:00
-
- ## offpathenterprises.com – Off Path Enterprises
- - [https://offpathenterprises.com](https://offpathenterprises.com)
- - date_published: 2024-06-26T23:30:54.958102+00:00
-
- ## The Media Leader FR - N°1 sur les décideurs médias
- - [https://www.offremedia.com](https://www.offremedia.com)
- - date_published: 2024-06-25T20:44:14.278285+00:00
-
- ## Home - Off Road Xtreme
- - [https://www.offroadxtreme.com](https://www.offroadxtreme.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Offscreen Magazine – The Human Side of Technology
- - [https://offscreenmag.com](https://offscreenmag.com)
- - date_published: 2024-06-15T04:00:45.020162+00:00
-
- ## Infosec & Cybersecurity Training | OffSec
- - [https://manage.offsec.com](https://manage.offsec.com)
- - date_published: 2024-06-20T15:05:03+00:00
-
- ## Offensive Security
- - [https://portal.offsec.com](https://portal.offsec.com)
- - date_published: 2024-06-13T16:16:41+00:00
 

@@ -1,3 +1,103 @@
+ ## Engineering IT Shared Services
+ - [https://engrit.illinois.edu](https://engrit.illinois.edu)
+ - date_published: 2024-04-30T04:58:01.554925+00:00
+
+ ## University of Illinois Undergraduate Admissions
+ - [https://enroll.illinois.edu](https://enroll.illinois.edu)
+ - date_published: 2024-04-30T04:57:06.463705+00:00
+
+ ## Home | Illinois Entrepreneurship | U of I
+ - [https://entrepreneurship.illinois.edu](https://entrepreneurship.illinois.edu)
+ - date_published: 2024-10-15T07:26:30.867220+00:00
+
+ ## University of Illinois Urbana-Champaign
+ - [https://experts.illinois.edu](https://experts.illinois.edu)
+ - date_published: 2024-05-07T14:56:52.738701+00:00
+
+ ## University of Illinois Extension
+ - [https://extension.illinois.edu](https://extension.illinois.edu)
+ - date_published: 2024-04-30T04:56:53.692565+00:00
+
+ ## College of Fine & Applied Arts
+ - [http://faa.illinois.edu](http://faa.illinois.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## cPanel Web Hosting Service
+ - [http://fae20.cita.illinois.edu](http://fae20.cita.illinois.edu)
+ - date_published: 2024-04-15T15:13:54+00:00
+
+ ## Facility Management & Scheduling, Office of the Registrar
+ - [http://fms.registrar.illinois.edu](http://fms.registrar.illinois.edu)
+ - date_published: 2024-07-21T22:26:41.544346+00:00
+
+ ## Webtools
+ - [https://forms.illinois.edu](https://forms.illinois.edu)
+ - date_published: 2023-12-05T19:47:55+00:00
+
+ ## Gang Wang
+ - [https://gangw.cs.illinois.edu](https://gangw.cs.illinois.edu)
+ - date_published: 2024-08-21T18:18:56+00:00
+
+ ## Home
+ - [https://gfx.grainger.illinois.edu](https://gfx.grainger.illinois.edu)
+ - date_published: 2024-07-21T22:20:00.588067+00:00
+
+ ## Home
+ - [https://giesbusiness.illinois.edu](https://giesbusiness.illinois.edu)
+ - date_published: 2024-07-07T05:29:43.082213+00:00
+
+ ## Gies College of Business
+ - [https://giesgroups.illinois.edu](https://giesgroups.illinois.edu)
+ - date_published: 2024-07-21T22:06:05.374649+00:00
+
+ ## Make Your Gift – University of Illinois Urbana-Champaign
+ - [https://giving.illinois.edu](https://giving.illinois.edu)
+ - date_published: 2024-07-07T05:30:33.889505+00:00
+
+ ## Webtools
+ - [https://go.aces.illinois.edu](https://go.aces.illinois.edu)
+ - date_published: 2023-12-05T19:47:55+00:00
+
+ ## Webtools
+ - [https://go.cs.illinois.edu](https://go.cs.illinois.edu)
+ - date_published: 2023-12-05T19:47:55+00:00
+
+ ## Webtools
+ - [https://go.illinois.edu](https://go.illinois.edu)
+ - date_published: 2023-12-05T19:47:55+00:00
+
+ ## The Graduate College at the University of Illinois at Urbana-Champaign
+ - [https://grad.illinois.edu](https://grad.illinois.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Home
+ - [https://grainger.illinois.edu](https://grainger.illinois.edu)
+ - date_published: 2024-04-30T04:57:38.816733+00:00
+
+ ## Webtools
+ - [https://groups.webservices.illinois.edu](https://groups.webservices.illinois.edu)
+ - date_published: 2023-12-05T19:47:55+00:00
+
+ ## LibGuides
+ - [https://guides.library.illinois.edu](https://guides.library.illinois.edu)
+ - date_published: 2024-06-21T10:43:19.418422+00:00
+
+ ## Handshake @ Illinois
+ - [http://handshake.illinois.edu](http://handshake.illinois.edu)
+ - date_published: 2023-01-11T15:07:01+00:00
+
+ ## Hanlin "Asher" Mai's Homepage
+ - [https://hanlinmai.web.illinois.edu](https://hanlinmai.web.illinois.edu)
+ - date_published: 2024-06-28T22:59:26+00:00
+
+ ## Home - Hazardous Materials
+ - [http://hazmat.illinois.edu](http://hazmat.illinois.edu)
+ - date_published: 2022-07-18T00:00:00+00:00
+
+ ## Home
+ - [https://healtheng.illinois.edu](https://healtheng.illinois.edu)
+ - date_published: 2024-09-13T18:12:57.603691+00:00
+
  ## Home
  - [https://healthinstitute.illinois.edu](https://healthinstitute.illinois.edu)
  - date_published: 2024-07-07T05:30:55.229320+00:00
@@ -3909,104 +4009,4 @@ Data Services
  ## Home
  - [https://news.luc.edu](https://news.luc.edu)
  - date_published: 2024-08-31T00:00:00+00:00
-
- ## LUC Sakai : Gateway : Welcome
- - [https://sakai.luc.edu](https://sakai.luc.edu)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Home
- - [https://stories.luc.edu](https://stories.luc.edu)
- - date_published: 2024-08-31T00:00:00+00:00
-
- ## Loyola University Chicago | Undergraduate Admission Explore2: Loyola University Chicago
- - [https://uao.luc.edu](https://uao.luc.edu)
- - date_published: 2024-09-02T10:36:14.345145+00:00
-
- ## LUMCON Website – The Louisiana Universities Marine Consortium
- - [http://www.lumcon.edu](http://www.lumcon.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Lyon College: Liberal Arts College in Arkansas
- - [http://www.lyon.edu](http://www.lyon.edu)
- - date_published: 2024-12-31T06:48:14+00:00
-
- ## Macalester College
- - [https://www.macalester.edu](https://www.macalester.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## The University of Maine at Machias — UMaine's Coastal Campus
- - [https://machias.edu](https://machias.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## UMS User Account Management
- - [https://accounts.maine.edu](https://accounts.maine.edu)
- - date_published: 2024-05-07T21:27:43.700017+00:00
-
- ## UMS Careers
- - [http://careers.maine.edu](http://careers.maine.edu)
- - date_published: 2024-07-02T03:48:22.142583+00:00
-
- ## UMS Single Sign-On - Loading Session Information
- - [https://courses.maine.edu](https://courses.maine.edu)
- - date_published: 2024-05-07T21:27:34.315112+00:00
-
- ## UMS Single Sign-On - Loading Session Information
- - [http://gmail.maine.edu](http://gmail.maine.edu)
- - date_published: 2024-05-07T21:27:30.655514+00:00
-
- ## University of Maine System  - University of Maine System
- - [https://maine.edu](https://maine.edu)
- - date_published: 2024-05-07T21:27:45.724796+00:00
-
- ## University of Maine School of Law
- - [https://mainelaw.maine.edu](https://mainelaw.maine.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## MaineStreet Links
- - [https://mainestreet.maine.edu](https://mainestreet.maine.edu)
- - date_published: 2024-05-07T21:27:41.577698+00:00
-
- ## Please select your identity provider. - UMS
- - [https://mycampus.maine.edu](https://mycampus.maine.edu)
- - date_published: 2024-07-01T02:52:25.122583+00:00
-
- ## UMS PeopleSearch  - University of Maine System
- - [http://peoplesearch.maine.edu](http://peoplesearch.maine.edu)
- - date_published: 2024-07-01T20:33:41+00:00
-
- ## TeamDynamix Sign-In
- - [https://tdx.maine.edu](https://tdx.maine.edu)
- - date_published: 2024-04-17T19:45:22+00:00
-
- ## University of Southern Maine
- - [https://usm.maine.edu](https://usm.maine.edu)
- - date_published: 2024-07-01T21:40:03+00:00
-
- ## UMF
- - [https://www.umf.maine.edu](https://www.umf.maine.edu)
- - date_published: 2024-07-01T20:10:28+00:00
-
- ## Malone University - A Christian University in Northeast Ohio
- - [http://www.malone.edu](http://www.malone.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Your Support Transforms Futures at Mansfield | Change Site Title In Key Manager
- - [https://give.mansfield.edu](https://give.mansfield.edu)
- - date_published: 2024-06-03T15:28:59+00:00
-
- ## Home
- - [http://www.marietta.edu](http://www.marietta.edu)
- - date_published: 2024-06-28T13:51:49+00:00
-
- ## Home of the Marist Poll | Polls, Analysis, Learning, and More
- - [https://maristpoll.marist.edu](https://maristpoll.marist.edu)
- - date_published: 2024-06-29T10:52:46.744357+00:00
-
- ## Homepage | Marquette University Law School
- - [http://law.marquette.edu](http://law.marquette.edu)
- - date_published: 2024-06-17T11:12:05.602004+00:00
-
- ## We Are Marquette
- - [https://stories.marquette.edu](https://stories.marquette.edu)
- - date_published: 2024-07-04T05:02:34.235735+00:00
 

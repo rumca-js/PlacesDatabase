@@ -1,3 +1,99 @@
+ ## Café Cihelna
+ - [https://www.cafecihelna.cz](https://www.cafecihelna.cz)
+ - date_published: 2025-01-02T15:04:56.752418+00:00
+
+ ## Úvod
+ - [https://www.calla.cz](https://www.calla.cz)
+ - date_published: 2024-12-14T00:45:50+00:00
+
+ ## Pražští zvoníci svatovítští
+ - [http://www.campanarii.cz](http://www.campanarii.cz)
+ - date_published: 2024-12-10T17:13:17+00:00
+
+ ## Sledujte skvělé filmy a seriály | CANAL+
+ - [https://canalplus.cz](https://canalplus.cz)
+ - date_published: 2024-06-25T21:53:24.596243+00:00
+
+ ## CANIS SAFETY a.s. - Pracovní oděvy, obuv, rukavice a OOPP
+ - [https://canis.cz](https://canis.cz)
+ - date_published: 2024-12-14T05:49:57.623014+00:00
+
+ ## Domů
+ - [https://www.cap.cz](https://www.cap.cz)
+ - date_published: 2024-12-14T05:59:58+00:00
+
+ ## Caravan - magazín o obytných automobilech a přívěsech
+ - [https://caravan-magazine.cz](https://caravan-magazine.cz)
+ - date_published: 2024-09-05T16:51:13.306917+00:00
+
+ ## CARS.CZ - nová a ojetá auta, autobazary, autosalony, prodej vozidla
+ - [https://cars.cz](https://cars.cz)
+ - date_published: 2024-09-05T16:45:42.845898+00:00
+
+ ## Jednoduché vyhledávání | Knihovna Akademie věd České republiky
+ - [https://asep.lib.cas.cz](https://asep.lib.cas.cz)
+ - date_published: 2024-12-13T22:44:40.727548+00:00
+
+ ## ASEP
+ - [https://asep-portal.lib.cas.cz](https://asep-portal.lib.cas.cz)
+ - date_published: 2024-07-01T10:08:41.972727+00:00
+
+ ## Portaro - library catalog
+ - [https://bcbt.lib.cas.cz](https://bcbt.lib.cas.cz)
+ - date_published: 2024-12-13T22:45:21.538670+00:00
+
+ ## Calendar IM
+ - [https://calendar.math.cas.cz](https://calendar.math.cas.cz)
+ - date_published: 2024-12-30T08:05:10.091886+00:00
+
+ ## Akademie věd České republiky - Akademie věd České republiky
+ - [https://cas.cz](https://cas.cz)
+ - date_published: 2024-12-13T22:16:31+00:00
+
+ ## Digitalizační centrum Knihovny Akademie věd ČR
+ - [https://digit.lib.cas.cz](https://digit.lib.cas.cz)
+ - date_published: 2024-12-09T20:41:07+00:00
+
+ ## Search Home
+ - [https://katalog.lib.cas.cz](https://katalog.lib.cas.cz)
+ - date_published: 2024-07-01T10:08:36.469745+00:00
+
+ ## Digitální knihovna Kramerius
+ - [https://kramerius.lib.cas.cz](https://kramerius.lib.cas.cz)
+ - date_published: 2024-04-15T13:15:08+00:00
+
+ ## Knihovědné oddělení Knihovny AV ČR
+ - [https://kvo.lib.cas.cz](https://kvo.lib.cas.cz)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Knihovna Akademie věd ČR
+ - [https://lib.cas.cz](https://lib.cas.cz)
+ - date_published: 2024-05-07T19:04:00.539342+00:00
+
+ ## Open Science
+ - [https://openscience.lib.cas.cz](https://openscience.lib.cas.cz)
+ - date_published: 2024-07-01T10:08:41.267177+00:00
+
+ ## Rezervační systém konferenčních sálů AV ČR
+ - [https://rezervace.ssc.cas.cz](https://rezervace.ssc.cas.cz)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Středisko společných činností AV ČR - SSČ AV ČR, v.v.i.
+ - [https://ssc.cas.cz](https://ssc.cas.cz)
+ - date_published: 2024-12-13T22:45:57+00:00
+
+ ## TZT - Portál transferu AV ČR: TZT
+ - [https://techtransfer.cas.cz](https://techtransfer.cas.cz)
+ - date_published: 2023-02-26T09:08:13+00:00
+
+ ## Ústav pro jazyk český
+ - [https://ujc.cas.cz](https://ujc.cas.cz)
+ - date_published: 2024-07-01T10:14:32.399705+00:00
+
+ ## IOCB Prague | Institute of Organic Chemistry and Biochemistry of the CAS
+ - [https://uochb.cas.cz](https://uochb.cas.cz)
+ - date_published: 2024-12-14T03:49:24.446781+00:00
+
  ## Search Home
  - [https://vufind.lib.cas.cz](https://vufind.lib.cas.cz)
  - date_published: 2024-07-01T10:08:43.302369+00:00
@@ -3922,100 +4018,4 @@ Evanek Web Design Studio - webdesign, webové prezentace, publikační systémy,
  ## Jeden svět online
  - [https://jedensvetonline.cz](https://jedensvetonline.cz)
  - date_published: 2024-12-14T10:52:33.788210+00:00
-
- ## Krajanka
- - [https://jednodusepoctiva.cz](https://jednodusepoctiva.cz)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## Jedu v ledu
- - [https://jeduvledu.cz](https://jeduvledu.cz)
- - date_published: 2024-10-16T13:54:19+00:00
-
- ## Jeep®  Česká republika
- - [https://jeep.cz](https://jeep.cz)
- - date_published: 2024-06-13T10:26:35+00:00
-
- ## JenProČasopisy – Předplatné časopisů
- - [https://www.jenprocasopisy.cz](https://www.jenprocasopisy.cz)
- - date_published: 2024-12-14T11:36:03.828904+00:00
-
- ## 25+ let zkušeností v private equity - Jet Investment
- - [https://www.jetinvestment.cz](https://www.jetinvestment.cz)
- - date_published: 2024-12-13T22:51:00.585250+00:00
-
- ## Jan Grulich – Fedora, KDE, Qt, C++, QML
- - [https://jgrulich.cz](https://jgrulich.cz)
- - date_published: 2024-07-14T03:14:41.392402+00:00
-
- ## JIC - podnikání dává smysl
- - [https://jic.cz](https://jic.cz)
- - date_published: 2024-10-21T08:49:28.272834+00:00
-
- ## JIC –⁠ Obědy
- - [https://jicobedy.cz](https://jicobedy.cz)
- - date_published: 2024-12-14T04:53:22.994409+00:00
-
- ## Jigové hlavičky a další doplňky pro rybáře - Jigovky.cz
- - [https://jigovky.cz](https://jigovky.cz)
- - date_published: 2024-10-18T03:45:28.420000+00:00
-
- ## MFDF Ji.hlava | Mezinárodní festival dokumentárních filmů Ji.hlava
- - [http://www.ji-hlava.cz](http://www.ji-hlava.cz)
- - date_published: 2024-12-14T00:57:29.624295+00:00
-
- ## Jiri Stepanovsky
- - [https://jiristepanovsky.cz](https://jiristepanovsky.cz)
- - date_published: 2023-05-01T23:44:15+00:00
-
- ## Jižní svah - nejen o víně vážně i nevážně...
- - [https://jizni-svah.cz](https://jizni-svah.cz)
- - date_published: 2024-05-07T19:05:17.232157+00:00
-
- ## Nabídky pozic z celé ČR | JobCity
- - [https://www.jobcity.cz](https://www.jobcity.cz)
- - date_published: 2024-12-13T21:28:02.587087+00:00
-
- ## Kariéra | Bidfood
- - [https://bidfood.jobs.cz](https://bidfood.jobs.cz)
- - date_published: 2024-10-16T15:07:54.129937+00:00
-
- ## Česká televize |  Volná místa
- - [https://ceskatelevize.jobs.cz](https://ceskatelevize.jobs.cz)
- - date_published: 2024-05-10T06:09:58.166377+00:00
-
- ## Kariéra | Česká spořitelna
- - [https://csas.jobs.cz](https://csas.jobs.cz)
- - date_published: 2024-06-16T06:14:52.340727+00:00
-
- ## Práce u nás | Economia, a.s.
- - [https://economia.jobs.cz](https://economia.jobs.cz)
- - date_published: 2024-09-05T16:49:40.272502+00:00
-
- ## Volná místa | Fio banka
- - [https://fio.jobs.cz](https://fio.jobs.cz)
- - date_published: 2024-06-16T11:19:45.203185+00:00
-
- ## Jobs.cz – Spojení s elitou – nabídka práce, volná pracovní místa, brigády i vzdělávání a rozvoj
- - [https://firmy.jobs.cz](https://firmy.jobs.cz)
- - date_published: 2024-12-14T07:28:15.498782+00:00
-
- ## Otevřené pozice | Pracuj v HEINEKEN
- - [https://heineken.jobs.cz](https://heineken.jobs.cz)
- - date_published: 2024-10-18T03:54:30.199705+00:00
-
- ## Jobs.cz – skvělá šance na skvělý job – nabídka práce, volná pracovní místa, brigády i vzdělávání a rozvoj
- - [https://jobs.cz](https://jobs.cz)
- - date_published: 2024-07-12T19:49:42.966166+00:00
-
- ## Kariéra | ...kde jinde.
- - [https://kdejinde.jobs.cz](https://kdejinde.jobs.cz)
- - date_published: 2024-07-01T10:20:49.365207+00:00
-
- ## Kariéra | MANN+HUMMEL
- - [https://mann-hummel.jobs.cz](https://mann-hummel.jobs.cz)
- - date_published: 2024-12-14T05:45:11.002791+00:00
-
- ## Kariéra | Raiffeisenbank
- - [https://rb.jobs.cz](https://rb.jobs.cz)
- - date_published: 2024-06-16T06:54:10.681115+00:00
 

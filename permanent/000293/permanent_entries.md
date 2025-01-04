@@ -1,3 +1,103 @@
+ ## Login
+ - [https://my.asu.edu](https://my.asu.edu)
+ - date_published: 2024-04-30T03:11:39.034637+00:00
+
+ ## ASU/NASA Space Grant
+ - [http://nasa.asu.edu](http://nasa.asu.edu)
+ - date_published: 2024-07-09T16:49:11+00:00
+
+ ## Home | New American University
+ - [https://newamericanuniversity.asu.edu](https://newamericanuniversity.asu.edu)
+ - date_published: 2024-08-11T04:49:50.059777+00:00
+
+ ## ASU Now
+ - [https://news.asu.edu](https://news.asu.edu)
+ - date_published: 2023-11-02T16:39:16.908709+00:00
+
+ ## Media Relations & Strategic Communications | Arizona State University
+ - [https://newsroom.asu.edu](https://newsroom.asu.edu)
+ - date_published: 2024-04-30T03:11:24.106269+00:00
+
+ ## Hans D Mittelmann
+ - [http://plato.asu.edu](http://plato.asu.edu)
+ - date_published: 2024-10-13T13:00:26+00:00
+
+ ## President Michael Crow | Office of the President
+ - [https://president.asu.edu](https://president.asu.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Watts College of Public Service and Community Solutions
+ - [https://publicservice.asu.edu](https://publicservice.asu.edu)
+ - date_published: 2024-08-07T19:25:38+00:00
+
+ ## Robotics and Autonomous Systems - ASU Engineering
+ - [https://ras.engineering.asu.edu](https://ras.engineering.asu.edu)
+ - date_published: 2023-02-21T00:00:00+00:00
+
+ ## Knowledge Enterprise | Research at Arizona State University
+ - [https://research.asu.edu](https://research.asu.edu)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Home - School of Computing and Augmented Intelligence
+ - [https://scai.engineering.asu.edu](https://scai.engineering.asu.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Home - School of Sustainability
+ - [https://schoolofsustainability.asu.edu](https://schoolofsustainability.asu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## ASU Search | Arizona State University
+ - [https://search.asu.edu](https://search.asu.edu)
+ - date_published: 2024-05-09T06:51:17.185359+00:00
+
+ ## Home
+ - [https://sefcom.asu.edu](https://sefcom.asu.edu)
+ - date_published: 2024-04-30T07:18:11.795462+00:00
+
+ ## Login
+ - [https://selfsub.asu.edu](https://selfsub.asu.edu)
+ - date_published: 2024-07-22T08:38:36.666286+00:00
+
+ ## Home - School for the Future of Innovation in Society
+ - [https://sfis.asu.edu](https://sfis.asu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Home | Southwest Interdisciplinary Research Center
+ - [https://sirc.asu.edu](https://sirc.asu.edu)
+ - date_published: 2024-08-19T19:45:55.363513+00:00
+
+ ## Homepage | School of Social Transformation
+ - [https://sst.asu.edu](https://sst.asu.edu)
+ - date_published: 2024-05-09T05:35:55.602788+00:00
+
+ ## Home | ASU Students
+ - [https://students.asu.edu](https://students.asu.edu)
+ - date_published: 2024-04-30T03:11:45.321917+00:00
+
+ ## Home | Sun Devil Compliance
+ - [https://sundevilcompliance.asu.edu](https://sundevilcompliance.asu.edu)
+ - date_published: 2024-08-15T21:01:39+00:00
+
+ ## Service Portal - Service Portal
+ - [https://systemstatus.asu.edu](https://systemstatus.asu.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Virtual Tour | Virtual Tours
+ - [https://tours.asu.edu](https://tours.asu.edu)
+ - date_published: 2024-07-07T01:52:30.048427+00:00
+
+ ## Tuition | Arizona State University
+ - [https://tuition.asu.edu](https://tuition.asu.edu)
+ - date_published: 2024-07-19T23:31:49+00:00
+
+ ## ASU United Way Campaign | ASU UnitedWay
+ - [http://unitedway.asu.edu](http://unitedway.asu.edu)
+ - date_published: 2024-08-11T04:49:47.403278+00:00
+
+ ## Visit ASU | Arizona State University
+ - [https://visit.asu.edu](https://visit.asu.edu)
+ - date_published: 2024-07-07T01:51:59.512420+00:00
+
  ## Home | ASU in Washington D.C.
  - [https://washingtondc.asu.edu](https://washingtondc.asu.edu)
  - date_published: 2024-06-25T23:24:45+00:00
@@ -3903,104 +4003,4 @@
  ## SUNY Buffalo State University
  - [https://suny.buffalostate.edu](https://suny.buffalostate.edu)
  - date_published: 2024-10-25T20:48:43+00:00
-
- ## Butler University
- - [https://butler.edu](https://butler.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Digital Commons @ Butler University | Butler University Research
- - [https://digitalcommons.butler.edu](https://digitalcommons.butler.edu)
- - date_published: 2024-08-08T22:56:02.506228+00:00
-
- ## Butler University
- - [https://give.butler.edu](https://give.butler.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Baldwin Wallace University
- - [http://www.bw.edu](http://www.bw.edu)
- - date_published: 2024-06-28T14:35:19.701506+00:00
-
- ## Home - Academic Calendar
- - [https://academiccalendar.byu.edu](https://academiccalendar.byu.edu)
- - date_published: 2024-05-12T07:42:27.974659+00:00
-
- ## Account Creation
- - [https://accountcreation.byu.edu](https://accountcreation.byu.edu)
- - date_published: 2024-07-16T21:01:30+00:00
-
- ## Account Creation
- - [https://accountcreation-dev.byu.edu](https://accountcreation-dev.byu.edu)
- - date_published: 2024-07-16T20:44:42+00:00
-
- ## Password Reset & Account Recovery
- - [https://accountrecovery.byu.edu](https://accountrecovery.byu.edu)
- - date_published: 2024-06-20T16:44:03+00:00
-
- ## Password Reset & Account Recovery
- - [https://accountrecovery-dev.byu.edu](https://accountrecovery-dev.byu.edu)
- - date_published: 2024-07-01T08:08:55+00:00
-
- ## Home - ACME
- - [https://acme.byu.edu](https://acme.byu.edu)
- - date_published: 2024-09-18T23:38:13.289757+00:00
-
- ## Adobe
- - [https://adobe.byu.edu](https://adobe.byu.edu)
- - date_published: 2024-07-17T03:06:06.213291+00:00
-
- ## Home
- - [https://advisement.byu.edu](https://advisement.byu.edu)
- - date_published: 2024-07-17T03:08:21.044507+00:00
-
- ## Aims Home
- - [https://aims.byu.edu](https://aims.byu.edu)
- - date_published: 2024-04-30T03:32:15.141700+00:00
-
- ## BYU | Email Alias Manager
- - [https://alias.byu.edu](https://alias.byu.edu)
- - date_published: 2024-07-17T03:06:09.138839+00:00
-
- ## Home page
- - [https://alumni.byu.edu](https://alumni.byu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Homepage
- - [https://alumnicareers.byu.edu](https://alumnicareers.byu.edu)
- - date_published: 2024-08-11T11:23:05.434719+00:00
-
- ## CAS – Central Authentication Service
- - [https://alumnitools.byu.edu](https://alumnitools.byu.edu)
- - date_published: 2024-08-11T11:23:17.311725+00:00
-
- ## Apply Now!
- - [http://apply.byu.edu](http://apply.byu.edu)
- - date_published: 2024-07-17T03:13:54.423834+00:00
-
- ## Events & Tickets - BYU Arts
- - [http://arts.byu.edu](http://arts.byu.edu)
- - date_published: 2024-07-17T03:07:10.352435+00:00
-
- ## ASO Homepage
- - [https://aso.byu.edu](https://aso.byu.edu)
- - date_published: 2024-07-17T03:20:26.844915+00:00
-
- ## Home
- - [https://aspengrove.byu.edu](https://aspengrove.byu.edu)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Ballard Brief
- - [https://ballardbrief.byu.edu](https://ballardbrief.byu.edu)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## BYU Belonging Homepage
- - [https://belonging.byu.edu](https://belonging.byu.edu)
- - date_published: 2024-05-12T07:42:47.995708+00:00
-
- ## Be Safe
- - [https://besafe.byu.edu](https://besafe.byu.edu)
- - date_published: 2024-07-17T03:05:47.019601+00:00
-
- ## Biology Home
- - [https://biology.byu.edu](https://biology.byu.edu)
- - date_published: 2024-07-16T00:00:00+00:00
 

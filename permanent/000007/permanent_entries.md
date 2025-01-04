@@ -1,3 +1,11 @@
+ ## MUD | Framework for onchain applications
+ - [https://mud-docs-o2hla2qt0-latticexyz.vercel.app](https://mud-docs-o2hla2qt0-latticexyz.vercel.app)
+ - date_published: 2024-06-04T12:50:57.860875+00:00
+
+ ## Music Player
+ - [https://musicplayer-dusky.vercel.app](https://musicplayer-dusky.vercel.app)
+ - date_published: 2024-07-14T09:42:25.678394+00:00
+
  ## Not a Number
  - [https://nan-archive.vercel.app](https://nan-archive.vercel.app)
  - date_published: 2024-05-08T00:41:24.126353+00:00
@@ -4023,12 +4031,4 @@
  ## Magenta
  - [https://magenta.as](https://magenta.as)
  - date_published: 2024-05-08T03:04:18.911992+00:00
-
- ## Matias Savela
- - [https://mati.as](https://mati.as)
- - date_published: 2024-07-13T04:17:24.346376+00:00
-
- ## Home | Matthew W. Thomas
- - [https://matthewthom.as](https://matthewthom.as)
- - date_published: 2024-07-23T23:43:21.291461+00:00
 

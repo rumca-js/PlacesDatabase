@@ -1,3 +1,19 @@
+ ## Bolters N' Beer
+ - [http://boltersnbeer.blogspot.com](http://boltersnbeer.blogspot.com)
+ - date_published: 2024-11-01T10:35:50+00:00
+
+ ## Bolts of Silk
+ - [http://boltsofsilk.blogspot.com](http://boltsofsilk.blogspot.com)
+ - date_published: 2024-11-06T02:45:42+00:00
+
+ ## Bolzano Daily Photo
+ - [http://bolzanodailyphoto.blogspot.com](http://bolzanodailyphoto.blogspot.com)
+ - date_published: 2024-12-31T07:00:00+00:00
+
+ ## bomba inteligente
+ - [http://bomba-inteligente.blogspot.com](http://bomba-inteligente.blogspot.com)
+ - date_published: 2024-10-25T02:48:37+00:00
+
  ## quiero ser santa
  - [https://bomitoni.blogspot.com](https://bomitoni.blogspot.com)
  - date_published: 2024-10-09T07:09:59+00:00
@@ -3989,20 +4005,4 @@
  ## Complexidade e Contradição
  - [http://complexidadeecontradicao.blogspot.com](http://complexidadeecontradicao.blogspot.com)
  - date_published: 2024-09-02T08:19:23+00:00
-
- ## Complexion Magazine
- - [http://complexion-magazine-template.blogspot.com](http://complexion-magazine-template.blogspot.com)
- - date_published: 2024-11-23T11:01:33+00:00
-
- ## Complex Matters
- - [http://complexmatters.blogspot.com](http://complexmatters.blogspot.com)
- - date_published: 2024-03-13T19:20:37+00:00
-
- ## Perle Complottiste
- - [https://complottismo.blogspot.com](https://complottismo.blogspot.com)
- - date_published: 2024-07-04T06:14:20+00:00
-
- ## Components of Independence
- - [http://componentsofindependence.blogspot.com](http://componentsofindependence.blogspot.com)
- - date_published: 2024-10-21T14:47:00.527685+00:00
 

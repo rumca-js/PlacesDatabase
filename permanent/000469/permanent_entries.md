@@ -1,3 +1,163 @@
+ ## myNTU臺大人入口網
+ - [https://my.ntu.edu.tw](https://my.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:55.761073+00:00
+
+ ## NTU Online臺大課程網(46)
+ - [https://nol.ntu.edu.tw](https://nol.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:31.137010+00:00
+
+ ## :: NTU BEATS – Official Quarterly of National Taiwan University ::
+ - [https://ntubeats.ntu.edu.tw](https://ntubeats.ntu.edu.tw)
+ - date_published: 2024-06-30T23:49:29+00:00
+
+ ## NTU HIGHLIGHTS
+ - [https://ntuhighlights.ntu.edu.tw](https://ntuhighlights.ntu.edu.tw)
+ - date_published: 2024-07-04T07:07:24+00:00
+
+ ## 403 - 禁止: 拒絕存取。
+ - [https://ntuweb.cloud.ntu.edu.tw](https://ntuweb.cloud.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:54.338742+00:00
+
+ ## 2023 NTU INTERNATIONAL MENTORSHIP PROGRAM 臺大國際引路人計畫
+ - [https://oiainternship.ntu.edu.tw](https://oiainternship.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:49.564971+00:00
+
+ ## 首頁
+ - [https://ord.ntu.edu.tw](https://ord.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:46.302313+00:00
+
+ ## View
+ - [https://pe.ntu.edu.tw](https://pe.ntu.edu.tw)
+ - date_published: 2022-10-04T02:37:10+00:00
+
+ ## 臺大出版中心
+ - [https://press.ntu.edu.tw](https://press.ntu.edu.tw)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## DSpace-CRIS
+ - [https://scholars.lib.ntu.edu.tw](https://scholars.lib.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:35.302191+00:00
+
+ ## åç«èºç£å¤§å­¸ç§æ¸å®¤
+ - [https://sec.ntu.edu.tw](https://sec.ntu.edu.tw)
+ - date_published: 2024-07-10T09:08:54+00:00
+
+ ## NTU Speech Processing Laboratory
+ - [https://speech.ee.ntu.edu.tw](https://speech.ee.ntu.edu.tw)
+ - date_published: 2016-01-11T04:01:47+00:00
+
+ ## NTU 永續辦公室
+ - [https://sustainable.ntu.edu.tw](https://sustainable.ntu.edu.tw)
+ - date_published: 2024-07-14T10:39:27.440683+00:00
+
+ ## 臺灣大學資訊系統訓練班
+ - [https://train.csie.ntu.edu.tw](https://train.csie.ntu.edu.tw)
+ - date_published: 2024-10-16T07:59:24.654365+00:00
+
+ ## åç«èºç£å¤§å­¸ç³»çµ±
+ - [https://triangle.ntu.edu.tw](https://triangle.ntu.edu.tw)
+ - date_published: 2024-07-11T07:01:30+00:00
+
+ ## èºå¤§è¨ªå®¢ä¸­å¿
+ - [https://visitorcenter.ntu.edu.tw](https://visitorcenter.ntu.edu.tw)
+ - date_published: 2024-07-10T03:33:10+00:00
+
+ ## VISION & LEARNING LAB
+ - [http://vllab.ee.ntu.edu.tw](http://vllab.ee.ntu.edu.tw)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## 國立臺灣大學 - 電機工程學系
+ - [https://web.ee.ntu.edu.tw](https://web.ee.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:39.005166+00:00
+
+ ## 臺大校友中心
+ - [https://www.alumni.ntu.edu.tw](https://www.alumni.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:59.102565+00:00
+
+ ## 台大寫作教學中心 – AWEC
+ - [https://www.awec.ntu.edu.tw](https://www.awec.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:26.367696+00:00
+
+ ## AIMM Research Group - NTU CMLab
+ - [http://www.cmlab.csie.ntu.edu.tw](http://www.cmlab.csie.ntu.edu.tw)
+ - date_published: 2023-03-02T14:13:56+00:00
+
+ ## Home - CTLD x DLC
+ - [https://www.dlc.ntu.edu.tw](https://www.dlc.ntu.edu.tw)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## 國立臺灣大學生物資源暨農學院附設農業試驗場
+ - [https://www.farm.ntu.edu.tw](https://www.farm.ntu.edu.tw)
+ - date_published: 2024-07-14T10:39:06.712798+00:00
+
+ ## 未來大學開創未來 | Futurentu | 台北市
+ - [https://www.future.ntu.edu.tw](https://www.future.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:09.504854+00:00
+
+ ## 國立臺灣大學 資訊網路與多媒體研究所
+ - [https://www.inm.ntu.edu.tw](https://www.inm.ntu.edu.tw)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## 歡迎來到 國立臺灣大學圖書館 | 國立臺灣大學圖書館
+ - [https://www.lib.ntu.edu.tw](https://www.lib.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:31.663613+00:00
+
+ ## 國立臺灣大學 學校分部總辦事處網站
+ - [http://www.ntubca.ntu.edu.tw](http://www.ntubca.ntu.edu.tw)
+ - date_published: 2024-01-18T03:06:29+00:00
+
+ ## 國立臺灣大學
+ - [https://www.ntu.edu.tw](https://www.ntu.edu.tw)
+ - date_published: 2024-05-11T10:26:37.157139+00:00
+
+ ## NYCU CSIT Mirror Site
+ - [https://alpine.cs.nycu.edu.tw](https://alpine.cs.nycu.edu.tw)
+ - date_published: 2024-07-20T15:58:27.437749+00:00
+
+ ## 國立陽明交通大學資工系資訊中心
+ - [https://it.cs.nycu.edu.tw](https://it.cs.nycu.edu.tw)
+ - date_published: 2024-09-05T17:26:09.608774+00:00
+
+ ## 國立陽明交通大學出版社
+ - [https://press.nycu.edu.tw](https://press.nycu.edu.tw)
+ - date_published: 2024-12-31T13:48:21.520125+00:00
+
+ ## 國際電腦漢字及異體字知識庫
+ - [http://chardb.iis.sinica.edu.tw](http://chardb.iis.sinica.edu.tw)
+ - date_published: 2024-07-12T05:06:01.916389+00:00
+
+ ## 中央研究院 資訊科學研究所
+ - [https://homepage.iis.sinica.edu.tw](https://homepage.iis.sinica.edu.tw)
+ - date_published: 2024-07-19T01:31:46+00:00
+
+ ## - niche computing science
+ - [https://scm.iis.sinica.edu.tw](https://scm.iis.sinica.edu.tw)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## 中央研究院 兩千年中西曆轉換
+ - [http://sinocal.sinica.edu.tw](http://sinocal.sinica.edu.tw)
+ - date_published: 2024-07-12T05:05:58.043521+00:00
+
+ ## TAOS II - Transneptunian Automated Occultation Survey
+ - [https://taos2.asiaa.sinica.edu.tw](https://taos2.asiaa.sinica.edu.tw)
+ - date_published: 2020-03-22T00:00:00+00:00
+
+ ## Information
+ - [https://www2020.citi.sinica.edu.tw](https://www2020.citi.sinica.edu.tw)
+ - date_published: 2020-10-23T09:52:02+00:00
+
+ ## Institute of Astronomy & Astrophysics, Academia Sinica
+ - [https://www.asiaa.sinica.edu.tw](https://www.asiaa.sinica.edu.tw)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## {{($state.current.data.pageTitleZH)?$state.current.data.pageTitleZH+' - '+title.zh:title.zh}}
+ - [https://www.citi.sinica.edu.tw](https://www.citi.sinica.edu.tw)
+ - date_published: 2024-05-21T07:42:49+00:00
+
+ ## 中央研究院 資訊科學研究所
+ - [http://www.iis.sinica.edu.tw](http://www.iis.sinica.edu.tw)
+ - date_published: 2024-06-21T16:15:10+00:00
+
  ## 臺北醫學大學 教務處
  - [https://aca.tmu.edu.tw](https://aca.tmu.edu.tw)
  - date_published: 2024-12-15T14:20:02+00:00
@@ -2601,6 +2761,10 @@
  - [http://html.te.ua](http://html.te.ua)
  - date_published: 2024-05-15T07:17:11+00:00
 
+ ## Новини - свіжі події в Україні та світі | 112.ua
+ - [https://112.ua](https://112.ua)
+ - date_published: 2025-01-03T15:46:03.326086+00:00
+
  ## Новини 24, останні події, свіжі репортажі, ексклюзиви | Телеканал 24
  - [https://24tv.ua](https://24tv.ua)
  - date_published: 2024-06-17T16:59:39+00:00
@@ -3846,167 +4010,4 @@
  ## Creative Showcase - Anglia Ruskin Creative Showcase
  - [https://creativeshowcase.aru.ac.uk](https://creativeshowcase.aru.ac.uk)
  - date_published: 2024-05-02T10:50:19.429135+00:00
-
- ## Library - Library Support
- - [https://libanswers.aru.ac.uk](https://libanswers.aru.ac.uk)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## ARU | University Library:
- - [https://library.aru.ac.uk](https://library.aru.ac.uk)
- - date_published: 2024-05-02T10:50:16.677938+00:00
-
- ## Past Present. - Past Present. Anglia Ruskin University — Past Present
- - [https://pastpresent.aru.ac.uk](https://pastpresent.aru.ac.uk)
- - date_published: 2024-06-17T17:24:57.076236+00:00
-
- ## Askham Bryan College | Agricultural and Animal Science Courses
- - [https://www.askham-bryan.ac.uk](https://www.askham-bryan.ac.uk)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Aston University Online
- - [https://online.aston.ac.uk](https://online.aston.ac.uk)
- - date_published: 2024-10-20T04:18:35.018386+00:00
-
- ## Aston Publications Explorer
- - [https://publications.aston.ac.uk](https://publications.aston.ac.uk)
- - date_published: 2024-07-03T19:46:18.320293+00:00
-
- ## Homepage
- - [https://www2.aston.ac.uk](https://www2.aston.ac.uk)
- - date_published: 2024-06-17T16:55:23+00:00
-
- ## Home - British Association for American Studies
- - [http://www.baas.ac.uk](http://www.baas.ac.uk)
- - date_published: 2025-01-01T17:47:59.687569+00:00
-
- ## British Association for Modernist Studies - Website Designed and Developed by Callum Leith
- - [https://bams.ac.uk](https://bams.ac.uk)
- - date_published: 2024-08-17T11:09:48+00:00
-
- ## Bangor University
- - [https://bangor.ac.uk](https://bangor.ac.uk)
- - date_published: 2024-06-12T12:40:19.724441+00:00
-
- ## Apache Tomcat/9.0.89
- - [https://idp.bangor.ac.uk](https://idp.bangor.ac.uk)
- - date_published: 2024-08-07T09:26:35.144086+00:00
-
- ## Bangor University Jobs
- - [https://jobs.bangor.ac.uk](https://jobs.bangor.ac.uk)
- - date_published: 2024-09-12T18:47:17.789300+00:00
-
- ## MyBangor
- - [https://my.bangor.ac.uk](https://my.bangor.ac.uk)
- - date_published: 2024-09-12T18:47:18.864200+00:00
-
- ## Bangor University
- - [https://research.bangor.ac.uk](https://research.bangor.ac.uk)
- - date_published: 2024-07-14T07:44:49.150156+00:00
-
- ## Homepage - British Antarctic Survey
- - [https://bas.ac.uk](https://bas.ac.uk)
- - date_published: 2024-10-19T05:50:10.856351+00:00
-
- ## University of Bath
- - [https://bath.ac.uk](https://bath.ac.uk)
- - date_published: 2024-10-20T02:16:04.506118+00:00
-
- ## University of Bath Blogs
- - [https://blogs.bath.ac.uk](https://blogs.bath.ac.uk)
- - date_published: 2024-06-13T14:31:39+00:00
-
- - [http://feeds.bath.ac.uk](http://feeds.bath.ac.uk)
- - date_published: 2024-02-26T10:01:37.383033+00:00
-
- ## the University of Bath's research portal
- - [https://researchportal.bath.ac.uk](https://researchportal.bath.ac.uk)
- - date_published: 2024-10-14T19:32:03.355918+00:00
-
- ## University of Bath status
- - [https://status.bath.ac.uk](https://status.bath.ac.uk)
- - date_published: 2024-10-20T02:15:35.740902+00:00
-
- ## Bath Spa University
- - [https://bathspa.ac.uk](https://bathspa.ac.uk)
- - date_published: 2024-06-30T01:26:57.726014+00:00
-
- ## Home — Birkbeck, University of London
- - [https://bbk.ac.uk](https://bbk.ac.uk)
- - date_published: 2024-10-29T20:38:04.915324+00:00
-
- ## Birkbeck Institutional Research Online
- - [http://eprints.bbk.ac.uk](http://eprints.bbk.ac.uk)
- - date_published: 2024-07-02T10:05:11.914832+00:00
-
- ## Biotechnology and Biological Sciences Research Council (BBSRC)
- - [http://www.bbsrc.ac.uk](http://www.bbsrc.ac.uk)
- - date_published: 2024-10-29T16:27:27.699574+00:00
-
- ## Birmingham City University
- - [https://www.bcu.ac.uk](https://www.bcu.ac.uk)
- - date_published: 2024-06-18T06:41:28.648619+00:00
-
- ## Blackboard Learn
- - [https://breo.beds.ac.uk](https://breo.beds.ac.uk)
- - date_published: 2004-09-10T13:30:43+00:00
-
- ## Log-in to e:Vision - Web Access to Your Data
- - [https://evision.beds.ac.uk](https://evision.beds.ac.uk)
- - date_published: 2021-07-08T13:50:30+00:00
-
- ## Home - Library | University of Bedfordshire
- - [https://lrweb.beds.ac.uk](https://lrweb.beds.ac.uk)
- - date_published: 2024-09-10T13:30:27.878418+00:00
-
- ## Self Service Password Reset
- - [https://password.beds.ac.uk](https://password.beds.ac.uk)
- - date_published: 2024-09-10T13:30:41.118005+00:00
-
- ## sso.beds.ac.uk
- - [https://sid.beds.ac.uk](https://sid.beds.ac.uk)
- - date_published: 2024-09-10T13:30:37.952982+00:00
-
- ## Home | University of Bedfordshire
- - [https://www.beds.ac.uk](https://www.beds.ac.uk)
- - date_published: 2024-06-27T02:21:00.425051+00:00
-
- ## BERA
- - [https://www.bera.ac.uk](https://www.bera.ac.uk)
- - date_published: 2024-06-17T14:07:26.619043+00:00
-
- ## BGS hosted sites
- - [https://www2.bgs.ac.uk](https://www2.bgs.ac.uk)
- - date_published: 2024-08-19T16:13:47.625007+00:00
-
- ## Welcome to BGS - British Geological Survey
- - [http://www.bgs.ac.uk](http://www.bgs.ac.uk)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## BGS Geomagnetism | British Geological Survey | Space weather, magnetic models, geomagnetic data, observatories
- - [http://www.geomag.bgs.ac.uk](http://www.geomag.bgs.ac.uk)
- - date_published: 2024-07-11T15:21:20.880237+00:00
-
- ## University of Birmingham Blog Service
- - [https://blog.bham.ac.uk](https://blog.bham.ac.uk)
- - date_published: 2024-07-04T13:50:15.621073+00:00
-
- ## Web
- - [https://campusmap.bham.ac.uk](https://campusmap.bham.ac.uk)
- - date_published: 2023-12-04T08:58:08+00:00
-
- ## Sign in to your account
- - [https://canvas.bham.ac.uk](https://canvas.bham.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## School of Computer Science
- - [https://cs.bham.ac.uk](https://cs.bham.ac.uk)
- - date_published: 2024-05-07T09:41:45.556870+00:00
-
- ## Computer Science Events
- - [http://events.cs.bham.ac.uk](http://events.cs.bham.ac.uk)
- - date_published: 2022-03-25T08:48:10+00:00
-
- ## IT Service Desk - IT Service Portal
- - [https://itservicedesk.bham.ac.uk](https://itservicedesk.bham.ac.uk)
- - date_published: 2016-08-01T00:00:00+00:00
 

@@ -1,3 +1,19 @@
+ ## Bidspotter.com | Industrial, Commercial, Plant and Machinery auctions
+ - [https://cdn.bidspotter.com](https://cdn.bidspotter.com)
+ - date_published: 2024-08-19T10:00:48.654557+00:00
+
+ ## BidSpotter.com
+ - [https://support.bidspotter.com](https://support.bidspotter.com)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## BidSwitch - Smart Infrastructure For The Global Programmatic Ecosystem
+ - [https://www.bidswitch.com](https://www.bidswitch.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## BidTheatre Help Center
+ - [https://help.bidtheatre.com](https://help.bidtheatre.com)
+ - date_published: 2024-06-25T22:58:39.208657+00:00
+
  ## BidTheatre Status
  - [https://status.bidtheatre.com](https://status.bidtheatre.com)
  - date_published: 2024-03-29T00:00:00+00:00
@@ -4010,20 +4026,4 @@
  ## BitPay Inc Status
  - [https://status.bitpay.com](https://status.bitpay.com)
  - date_published: 2024-06-12T00:00:00+00:00
-
- ## BitPay Support
- - [https://support.bitpay.com](https://support.bitpay.com)
- - date_published: 2014-05-02T00:00:00+00:00
-
- ## Informationstechnik – Technische White Papers — IT Webcasts  / Informationen — de.Bitpipe.com
- - [https://de.bitpipe.com](https://de.bitpipe.com)
- - date_published: 2024-09-09T20:03:29.568087+00:00
-
- ## Tecnología de la Información—White Papers Técnicos—IT Webcasts/Información—es.Bitpipe.com
- - [https://es.bitpipe.com](https://es.bitpipe.com)
- - date_published: 2024-09-09T20:03:45.674193+00:00
-
- ## 정보 기술 – 기술 백서 — IT 웹캐스트/정보 — kr.Bitpipe.com
- - [https://kr.bitpipe.com](https://kr.bitpipe.com)
- - date_published: 2024-09-09T20:03:44.607244+00:00
 

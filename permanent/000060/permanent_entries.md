@@ -1,3 +1,19 @@
+ ## Baykar HR
+ - [https://kariyer.baykartech.com](https://kariyer.baykartech.com)
+ - date_published: 2024-09-05T18:59:07.886615+00:00
+
+ ## Home - BayLibre
+ - [https://baylibre.com](https://baylibre.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Baylor UniversityHousing Services
+ - [https://www.baylorareahousing.com](https://www.baylorareahousing.com)
+ - date_published: 2024-08-19T18:50:42.006360+00:00
+
+ ## Baylor - Official Athletics Website
+ - [https://baylorbears.com](https://baylorbears.com)
+ - date_published: 2024-05-18T00:00:00+00:00
+
  ## Bear Foundation :: Baylor University
  - [http://bearfoundation.baylorbears.com](http://bearfoundation.baylorbears.com)
  - date_published: 2024-08-19T18:55:16.251618+00:00
@@ -3996,20 +4012,4 @@
  ## Bender APAC | Your partner for electrical safety
  - [https://www.bender-apac.com](https://www.bender-apac.com)
  - date_published: 2024-10-15T20:33:02.567895+00:00
-
- ## Bender Benelux | Uw partner voor elektrische veiligheid
- - [https://www.benderbenelux.com](https://www.benderbenelux.com)
- - date_published: 2024-10-15T20:33:05.596901+00:00
-
- ## 本德尔中国 | 您电气安全的伙伴
- - [https://www.bender-cn.com](https://www.bender-cn.com)
- - date_published: 2024-10-15T20:34:00.374315+00:00
-
- ## Bender Russia | Your partner for electrical safety
- - [https://www.bender-eac.com](https://www.bender-eac.com)
- - date_published: 2024-10-15T20:33:46.320606+00:00
-
- ## Bender Blog
- - [https://de-blog.bender-group.com](https://de-blog.bender-group.com)
- - date_published: 2024-10-10T05:29:19+00:00
 

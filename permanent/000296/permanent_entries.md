@@ -1,3 +1,103 @@
+ ## Front Page - Duke Stories
+ - [https://stories.duke.edu](https://stories.duke.edu)
+ - date_published: 2024-05-10T04:48:51.839796+00:00
+
+ ## A strategic framework for the future of Duke - Strategic Vision
+ - [https://strategicvision.duke.edu](https://strategicvision.duke.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Front Page | String School
+ - [https://stringschool.duke.edu](https://stringschool.duke.edu)
+ - date_published: 2024-09-20T00:00:00+00:00
+
+ ## Home - Duke Student Affairs
+ - [https://studentaffairs.duke.edu](https://studentaffairs.duke.edu)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Home - Duke Student Affairs
+ - [https://students.duke.edu](https://students.duke.edu)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## This is Duke - Brand Guide
+ - [http://styleguide.duke.edu](http://styleguide.duke.edu)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Front Page | Summer Session
+ - [https://summersession.duke.edu](https://summersession.duke.edu)
+ - date_published: 2024-07-21T08:19:53+00:00
+
+ ## Welcome to Sustainable Duke | Office of Sustainable Duke
+ - [https://sustainability.duke.edu](https://sustainability.duke.edu)
+ - date_published: 2024-09-26T17:52:31+00:00
+
+ ## Front Page | Theater Studies
+ - [https://theaterstudies.duke.edu](https://theaterstudies.duke.edu)
+ - date_published: 2024-06-15T19:33:05+00:00
+
+ ## Duke University Box Office
+ - [https://tickets.duke.edu](https://tickets.duke.edu)
+ - date_published: 2024-09-04T19:41:41.912364+00:00
+
+ ## Duke Today | Duke Today
+ - [https://today.duke.edu](https://today.duke.edu)
+ - date_published: 2023-10-25T18:51:07.229842+00:00
+
+ ## Front Page | Transformative Ideas
+ - [https://transformativeideas.duke.edu](https://transformativeideas.duke.edu)
+ - date_published: 2024-07-21T19:42:03+00:00
+
+ ## Homepage | Global Travel Support
+ - [https://travel.duke.edu](https://travel.duke.edu)
+ - date_published: 2024-06-16T07:00:04+00:00
+
+ ## Trent Center for Bioethics, Humanities & History of Medicine
+ - [https://trentcenter.duke.edu](https://trentcenter.duke.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Front Page | Trinity College of Arts & Sciences
+ - [https://trinity.duke.edu](https://trinity.duke.edu)
+ - date_published: 2024-04-30T04:13:05.802775+00:00
+
+ ## Homepage | Board of Trustees
+ - [https://trustees.duke.edu](https://trustees.duke.edu)
+ - date_published: 2024-09-26T17:33:24+00:00
+
+ ## Duke University Center of Exemplary Mentoring – Funded by the Alfred P. Sloan Foundation
+ - [https://ucem.duke.edu](https://ucem.duke.edu)
+ - date_published: 2024-09-26T18:04:57.198792+00:00
+
+ ## Home Page | Office of  Undergraduate Education
+ - [https://undergrad.duke.edu](https://undergrad.duke.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Front Page | Undergraduate Research Support Office
+ - [https://undergraduateresearch.duke.edu](https://undergraduateresearch.duke.edu)
+ - date_published: 2024-06-15T08:22:23+00:00
+
+ ## Duke | Log In
+ - [https://unlock.duke.edu](https://unlock.duke.edu)
+ - date_published: 2024-06-16T14:05:13.508819+00:00
+
+ ## Front Page | Department of Computer Science
+ - [https://users.cs.duke.edu](https://users.cs.duke.edu)
+ - date_published: 2024-05-22T02:38:09.761464+00:00
+
+ ## Values & Culture - Values
+ - [https://values.duke.edu](https://values.duke.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Iron Dukes Varsity Club
+ - [https://vcgivingday.duke.edu](https://vcgivingday.duke.edu)
+ - date_published: 2024-09-04T19:39:19.745266+00:00
+
+ ## Via - Network Performance
+ - [https://via.oit.duke.edu](https://via.oit.duke.edu)
+ - date_published: 2024-06-16T14:05:10.996586+00:00
+
+ ## Welcome to Duke Votes - Voting Information for the Duke Community
+ - [https://vote.duke.edu](https://vote.duke.edu)
+ - date_published: 2024-08-22T00:00:00+00:00
+
  ## Homepage | Web Accessibility
  - [https://web.accessibility.duke.edu](https://web.accessibility.duke.edu)
  - date_published: 2024-03-11T00:00:00+00:00
@@ -3902,104 +4002,4 @@
  ## Home
  - [https://ist.gmu.edu](https://ist.gmu.edu)
  - date_published: 2024-07-21T18:54:07+00:00
-
- ## Home
- - [http://ite.gmu.edu](http://ite.gmu.edu)
- - date_published: 2024-06-22T19:57:44+00:00
-
- ## Home
- - [https://its.gmu.edu](https://its.gmu.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Home | Juris Master | Antonin Scalia Law School
- - [https://jurismasters.gmu.edu](https://jurismasters.gmu.edu)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Home
- - [https://law.gmu.edu](https://law.gmu.edu)
- - date_published: 2024-04-30T04:45:39.216523+00:00
-
- ## Home - The George Mason Law Review
- - [https://lawreview.gmu.edu](https://lawreview.gmu.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Leadership Education and Development – We believe everyone has the potential to be a leader.
- - [https://lead.gmu.edu](https://lead.gmu.edu)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Learning Services
- - [https://learningservices.gmu.edu](https://learningservices.gmu.edu)
- - date_published: 2024-08-11T12:13:09.973078+00:00
-
- ## home
- - [https://legacies.gmu.edu](https://legacies.gmu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Liberty & Law Center
- - [https://libertycenter.gmu.edu](https://libertycenter.gmu.edu)
- - date_published: 2024-07-21T23:20:21.418842+00:00
-
- ## University Libraries, George Mason University
- - [https://library.gmu.edu](https://library.gmu.edu)
- - date_published: 2024-04-30T04:27:30.557864+00:00
-
- ## Search Page
- - [https://listings.jobs.gmu.edu](https://listings.jobs.gmu.edu)
- - date_published: 2024-06-17T10:55:49.527433+00:00
-
- ## Canvas LMS Transition
- - [https://lms.gmu.edu](https://lms.gmu.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## George Mason University | A Top 50 Public R1 Research University
- - [https://loudoun.gmu.edu](https://loudoun.gmu.edu)
- - date_published: 2024-08-10T21:55:14+00:00
-
- ## Mason Academic Advisor Network – Teach – Support – Connect
- - [https://maan.gmu.edu](https://maan.gmu.edu)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## George Mason University : Information Technology Services : Mason Email Systems
- - [http://mail.gmu.edu](http://mail.gmu.edu)
- - date_published: 2022-04-18T19:27:28+00:00
-
- ## home
- - [https://mais.gmu.edu](https://mais.gmu.edu)
- - date_published: 2024-08-11T12:20:49.393537+00:00
-
- ## George Mason University
- - [https://mason360.gmu.edu](https://mason360.gmu.edu)
- - date_published: 2024-07-22T02:58:07.860114+00:00
-
- ## Home - Mason Families
- - [https://masonfamily.gmu.edu](https://masonfamily.gmu.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Mason Card Office - Mason ID, Mason Money, Meal Plans,
- - [https://masonid.gmu.edu](https://masonid.gmu.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## home
- - [https://masonkorea.gmu.edu](https://masonkorea.gmu.edu)
- - date_published: 2024-08-08T20:35:10.689692+00:00
-
- ## Page Redirection
- - [https://masonleaps.gmu.edu](https://masonleaps.gmu.edu)
- - date_published: 2024-08-06T17:46:52.977730+00:00
-
- ## George Mason University Online | Mason Online Degrees
- - [https://masononline.gmu.edu](https://masononline.gmu.edu)
- - date_published: 2024-04-30T04:25:48.222937+00:00
-
- ## Home
- - [https://mechanical.gmu.edu](https://mechanical.gmu.edu)
- - date_published: 2024-08-11T02:36:23+00:00
-
- ## Home
- - [https://military.gmu.edu](https://military.gmu.edu)
- - date_published: 2024-08-08T18:42:37+00:00
-
- ## Mason Innovation Exchange
- - [http://mix.gmu.edu](http://mix.gmu.edu)
- - date_published: 2024-08-11T12:14:08.478772+00:00
 

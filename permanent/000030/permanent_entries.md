@@ -1,3 +1,16 @@
+ ## 雪佛兰Chevrolet中国官方网站-雪佛兰官方网站
+ - [https://www.chevrolet.com.cn](https://www.chevrolet.com.cn)
+ - date_published: 2024-12-13T21:36:06+00:00
+
+ ## 农业中国
+_中国网
+ - [http://agri.china.com.cn](http://agri.china.com.cn)
+ - date_published: 2024-06-27T01:00:54+00:00
+
+ ## 中国应急_中国网
+ - [http://aj.china.com.cn](http://aj.china.com.cn)
+ - date_published: 2024-06-30T11:54:22+00:00
+
  ## 中国动漫官网
  - [http://animation.china.com.cn](http://animation.china.com.cn)
  - date_published: 2024-06-27T01:17:09+00:00
@@ -3992,16 +4005,4 @@ _中国网
  ## 国际事务处（港澳台事务办公室）
  - [http://international.hfut.edu.cn](http://international.hfut.edu.cn)
  - date_published: 2024-07-12T09:47:10+00:00
-
- ## 信息化建设与发展中心
- - [http://it.hfut.edu.cn](http://it.hfut.edu.cn)
- - date_published: 2024-07-12T09:00:08+00:00
-
- ## 合肥工业大学继续教育学院
- - [http://jxjy.hfut.edu.cn](http://jxjy.hfut.edu.cn)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## 科研院
- - [http://kyy.hfut.edu.cn](http://kyy.hfut.edu.cn)
- - date_published: 2024-07-12T16:07:37.245524+00:00
 

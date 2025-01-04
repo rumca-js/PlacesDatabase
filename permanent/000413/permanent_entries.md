@@ -1,3 +1,150 @@
+ ## Free Counters for Your Website! 100% free! Get Your Counter now!
+ - [https://free-counters.org](https://free-counters.org)
+ - date_published: 2024-05-11T05:35:29.896149+00:00
+
+ ## FreeCSSTemplates.org is now FCT.co
+ - [https://freecsstemplates.org](https://freecsstemplates.org)
+ - date_published: 2024-05-04T09:16:54.040486+00:00
+
+ ## Cul-Tur Efree
+ - [http://free-culture.org](http://free-culture.org)
+ - date_published: 2024-07-23T13:10:54+00:00
+
+ ## Freecycle: Front Door
+ - [http://www.freecycle.org](http://www.freecycle.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Bugzilla Main Page
+ - [https://bugs.freedesktop.org](https://bugs.freedesktop.org)
+ - date_published: 2024-05-08T10:34:17.857845+00:00
+
+ ## freedesktop.org git repository browser
+ - [https://cgit.freedesktop.org](https://cgit.freedesktop.org)
+ - date_published: 2024-01-09T03:40:11.555074+00:00
+
+ ## dbus
+ - [https://dbus.freedesktop.org](https://dbus.freedesktop.org)
+ - date_published: 2022-02-28T18:21:58+00:00
+
+ ## DRI Wiki
+ - [https://dri.freedesktop.org](https://dri.freedesktop.org)
+ - date_published: 2020-10-21T18:27:05+00:00
+
+ ## Fingerprint reader support
+ - [https://fprint.freedesktop.org](https://fprint.freedesktop.org)
+ - date_published: 2023-03-15T14:10:31+00:00
+
+ ## www
+ - [https://freedesktop.org](https://freedesktop.org)
+ - date_published: 1999-01-01T00:00:00+00:00
+ - tags: ['software platform']
+
+ ## Explore groups · GitLab
+ - [https://gitlab.freedesktop.org](https://gitlab.freedesktop.org)
+ - date_published: 2023-10-25T21:22:53.665835+00:00
+ - tags: ['linux', 'graphic stack', 'open source']
+
+ ## GStreamer: open source multimedia framework
+ - [https://gstreamer.freedesktop.org](https://gstreamer.freedesktop.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Indico
+ - [https://indico.freedesktop.org](https://indico.freedesktop.org)
+ - date_published: 2024-07-09T20:00:34.041856+00:00
+
+ ## lists.freedesktop.org Mailing Lists
+ - [https://lists.freedesktop.org](https://lists.freedesktop.org)
+ - date_published: 2024-03-07T21:42:44.490922+00:00
+
+ ## Home — The Mesa 3D Graphics Library
+ - [https://mesa.freedesktop.org](https://mesa.freedesktop.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## libnice – The GLib ICE implementation
+ - [https://nice.freedesktop.org](https://nice.freedesktop.org)
+ - date_published: 2024-03-04T20:43:29+00:00
+
+ ## nouveau · freedesktop.org
+ - [https://nouveau.freedesktop.org](https://nouveau.freedesktop.org)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Panfrost
+ - [https://panfrost.freedesktop.org](https://panfrost.freedesktop.org)
+ - date_published: 2021-07-30T14:50:10+00:00
+
+ ## Project List - Patchwork
+ - [https://patchwork.freedesktop.org](https://patchwork.freedesktop.org)
+ - date_published: 2024-07-14T03:14:43.461094+00:00
+
+ ## planet.freedesktop.org
+ - [https://planet.freedesktop.org](https://planet.freedesktop.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Poppler
+ - [https://poppler.freedesktop.org](https://poppler.freedesktop.org)
+ - date_published: 2023-10-25T21:22:54.773695+00:00
+
+ ## www
+ - [https://secure.freedesktop.org](https://secure.freedesktop.org)
+ - date_published: 2023-05-31T19:39:00+00:00
+
+ ## Freedesktop.org Specifications
+ - [https://specifications.freedesktop.org](https://specifications.freedesktop.org)
+ - date_published: 2024-04-29T07:29:06.636149+00:00
+
+ ## Freedesktop.org Specifications
+ - [https://standards.freedesktop.org](https://standards.freedesktop.org)
+ - date_published: 2024-05-23T02:49:46.816821+00:00
+
+ ## Wayland
+ - [https://wayland.freedesktop.org](https://wayland.freedesktop.org)
+ - date_published: 2023-10-30T14:01:41.938140+00:00
+ - tags: ['open source', 'wayland']
+
+ ## xcb
+ - [https://xcb.freedesktop.org](https://xcb.freedesktop.org)
+ - date_published: 2024-03-02T21:47:09+00:00
+
+ ## Mirror for Open Source Projects
+ - [http://freedif.org](http://freedif.org)
+ - date_published: 2024-05-10T14:33:34+00:00
+
+ ## Index of /
+ - [https://mirror.freedif.org](https://mirror.freedif.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Home
+ - [http://www.freedomandprosperity.org](http://www.freedomandprosperity.org)
+ - date_published: 2024-10-21T14:10:22.938893+00:00
+
+ ## FreedomBox Forum
+ - [https://discuss.freedombox.org](https://discuss.freedombox.org)
+ - date_published: 2024-10-31T06:07:44.754869+00:00
+
+ ## FreedomBox - Personal Server at Home
+ - [https://freedombox.org](https://freedombox.org)
+ - date_published: 2024-06-19T22:12:33+00:00
+
+ ## Welcome — FreedomBox Foundation
+ - [https://freedomboxfoundation.org](https://freedomboxfoundation.org)
+ - date_published: 2024-06-14T11:41:38+00:00
+
+ ## Definition of Free Cultural Works
+ - [https://freedomdefined.org](https://freedomdefined.org)
+ - date_published: 2024-04-30T05:44:32.703703+00:00
+
+ ## Homepage
+ - [https://freedomforum.org](https://freedomforum.org)
+ - date_published: 2024-12-20T08:24:15.667770+00:00
+
+ ## Homepage
+ - [https://www.freedomforum.org](https://www.freedomforum.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Freedom from the FDA
+ - [http://www.freedomfromfda.org](http://www.freedomfromfda.org)
+ - date_published: 2014-06-02T00:00:00+00:00
+
  ## Expanding Freedom and Democracy
  - [https://freedomhouse.org](https://freedomhouse.org)
  - date_published: 2024-05-12T04:27:17.360727+00:00
@@ -3905,152 +4052,4 @@ encryption
  ## Koko Support Navigator
  - [https://getsupport.org](https://getsupport.org)
  - date_published: 2024-06-23T00:01:50.145544+00:00
-
- ## Home - gettalong's web home
- - [https://gettalong.org](https://gettalong.org)
- - date_published: 2022-12-25T23:34:11+00:00
-
- ## Home - HexaPDF
- - [https://hexapdf.gettalong.org](https://hexapdf.gettalong.org)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Home | kramdown
- - [https://kramdown.gettalong.org](https://kramdown.gettalong.org)
- - date_published: 2022-04-25T12:56:26+00:00
-
- ## webgen - fast, powerful and extensible static website generator
- - [https://webgen.gettalong.org](https://webgen.gettalong.org)
- - date_published: 2021-03-07T22:05:44+00:00
-
- ## Google Grant Management from the #1 Google-Certified Agency
- - [https://gettingattention.org](https://gettingattention.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Getting Stronger
- - [https://gettingstronger.org](https://gettingstronger.org)
- - date_published: 2024-10-17T17:28:56.154816+00:00
-
- ## Get Your Shit Together -
- - [http://getyourshittogether.org](http://getyourshittogether.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Zola
- - [https://getzola.org](https://getzola.org)
- - date_published: 2024-05-01T02:25:28.118322+00:00
- - tags: ['self-host', 'static websites']
-
- ## John Simon Guggenheim Memorial Foundation…
- - [https://gf.org](https://gf.org)
- - date_published: 2024-04-30T04:56:39.707370+00:00
-
- ## GFA World
- - [http://www.gfa.org](http://www.gfa.org)
- - date_published: 2024-07-04T18:09:31.864938+00:00
- - tags: ['organisation', 'charity']
-
- ## GFBio | German Federation for Biological
-    Data
- - [https://dmp.gfbio.org](https://dmp.gfbio.org)
- - date_published: 2024-07-24T07:31:27.276526+00:00
-
- ## GFBio | German Federation for Biological
-    Data
- - [https://gfbio.org](https://gfbio.org)
- - date_published: 2024-04-29T06:11:30.157031+00:00
-
- ## Knowledge Base - Information and Services around Biodiversity Data - Knowledge Base - GFBio Confluence
- - [https://kb.gfbio.org](https://kb.gfbio.org)
- - date_published: 2024-07-24T07:31:52.103615+00:00
-
- ## GFBio Suche
- - [https://search.gfbio.org](https://search.gfbio.org)
- - date_published: 2024-07-24T07:31:47.998256+00:00
-
- ## Welcome!
- - [https://sso.gfbio.org](https://sso.gfbio.org)
- - date_published: 2024-07-24T07:31:26.159928+00:00
-
- ## GFBio Submissions
- - [https://submissions.gfbio.org](https://submissions.gfbio.org)
- - date_published: 2024-07-24T07:31:30.484203+00:00
-
- ## VAT: Visualization, Analysis and Transformation System
- - [https://vat.gfbio.org](https://vat.gfbio.org)
- - date_published: 2024-07-24T07:31:32.503049+00:00
-
- ## GFDRR
- - [https://gfdrr.org](https://gfdrr.org)
- - date_published: 2024-06-12T12:16:26.684843+00:00
-
- ## Home - Gluten Free Food Service
- - [https://gffs.org](https://gffs.org)
- - date_published: 2024-10-22T23:32:11.965485+00:00
-
- ## Plant-based and cultivated meat innovation | GFI
- - [https://gfi.org](https://gfi.org)
- - date_published: 2020-12-09T20:13:33+00:00
-
- ## The Good Food Institute Asia Pacific
- - [https://www.gfi-apac.org](https://www.gfi-apac.org)
- - date_published: 2022-04-27T21:26:04+00:00
-
- ## GFI Europe – the Good Food Institute Europe - GFI Europe
- - [https://gfieurope.org](https://gfieurope.org)
- - date_published: 2021-05-14T15:45:29+00:00
-
- ## Gewaltfreie Kommunikation lernen mit GFKify
- - [https://gfkify.org](https://gfkify.org)
- - date_published: 2024-06-02T20:35:13+00:00
-
- ## GFMA | Global Financial Markets Association | Home
- - [http://www.gfma.org](http://www.gfma.org)
- - date_published: 2018-11-23T00:00:00+00:00
-
- ## Gforth
- - [https://gforth.org](https://gforth.org)
- - date_published: 2024-07-25T09:10:09.466070+00:00
-
- ## GFWatch Dashboard
- - [https://gfwatch.org](https://gfwatch.org)
- - date_published: 2024-07-08T13:49:59.481978+00:00
-
- ## Business Excellence: Strategies and Insights for Achieving Sustained Growth
- - [https://ggcea.org](https://ggcea.org)
- - date_published: 2024-12-13T03:30:32.555855+00:00
-
- ## Chamber of Commerce for Businesses in Montgomery County, MD
- - [http://www.ggchamber.org](http://www.ggchamber.org)
- - date_published: 2024-07-20T05:43:19.841354+00:00
-
- ## Gardens of Golden Gate Park: Official
- - [https://gggp.org](https://gggp.org)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Home
- - [https://ggjnext.org](https://ggjnext.org)
- - date_published: 2024-01-28T00:00:00+00:00
-
- ## GGOS - Global Geodetic Observing System
- - [http://www.ggos.org](http://www.ggos.org)
- - date_published: 2024-07-08T11:14:40+00:00
-
- ## ggplot2: Elegant Graphics for Data Analysis (3e)
- - [https://ggplot2-book.org](https://ggplot2-book.org)
- - date_published: 2024-05-08T09:34:36.816163+00:00
-
- ## GGSoft start page
- - [https://ggsoft.org](https://ggsoft.org)
- - date_published: 2024-05-09T08:46:47.237718+00:00
-
- ## Greater Greater Washington
- - [https://ggwash.org](https://ggwash.org)
- - date_published: 2024-05-01T08:40:15.890155+00:00
-
- ## Home
- - [https://ghaasfoundation.org](https://ghaasfoundation.org)
- - date_published: 2024-07-03T23:39:38+00:00
-
- ## Stars77 > Your Next Level Skill Development In Your Hand
- - [https://ghanacbc.org](https://ghanacbc.org)
- - date_published: 2024-07-18T05:22:12+00:00
 

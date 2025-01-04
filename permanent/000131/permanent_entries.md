@@ -1,3 +1,35 @@
+ ## Google Online Security Blog
+ - [https://security.googleblog.com](https://security.googleblog.com)
+ - date_published: 2023-10-25T14:48:05.962532+00:00
+
+ ## Google Testing Blog
+ - [https://testing.googleblog.com](https://testing.googleblog.com)
+ - date_published: 2023-10-25T14:48:14.831580+00:00
+
+ ## El Blog para Webmasters de Google [ES]
+ - [http://webmaster-es.googleblog.com](http://webmaster-es.googleblog.com)
+ - date_published: 2024-12-07T07:41:52+00:00
+
+ ## Official Google Webmaster Central Blog
+ - [https://webmasters.googleblog.com](https://webmasters.googleblog.com)
+ - date_published: 2024-05-04T09:40:31.555504+00:00
+
+ ## Google Workspace Updates ES
+ - [https://workspaceupdates-es.googleblog.com](https://workspaceupdates-es.googleblog.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Google Workspace Updates FR
+ - [https://workspaceupdates-fr.googleblog.com](https://workspaceupdates-fr.googleblog.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Google Workspace Updates
+ - [https://workspaceupdates.googleblog.com](https://workspaceupdates.googleblog.com)
+ - date_published: 2023-10-25T14:48:23.843748+00:00
+
+ ## Google Workspace Updates JA
+ - [https://workspaceupdates-ja.googleblog.com](https://workspaceupdates-ja.googleblog.com)
+ - date_published: 2024-06-20T08:57:57+00:00
+
  ## Google Workspace Updates PT
  - [https://workspaceupdates-pt.googleblog.com](https://workspaceupdates-pt.googleblog.com)
  - date_published: 2024-06-20T00:00:00+00:00
@@ -4029,37 +4061,4 @@
  ## Home
  - [https://graphicnewsplus.com](https://graphicnewsplus.com)
  - date_published: 2024-09-02T00:00:00+00:00
-
- ## Graphic Novelty
- - [https://graphicnovelty2.com](https://graphicnovelty2.com)
- - date_published: 2024-09-17T08:55:37+00:00
-
- ## Graphic Policy - Where comic books and politics meet
- - [https://graphicpolicy.com](https://graphicpolicy.com)
- - date_published: 2024-04-28T06:00:59.862958+00:00
-
- ## graphics by DJ – Graphic design, illustration and animation, made just for you.
- - [https://graphicsbydj.com](https://graphicsbydj.com)
- - date_published: 2024-08-11T00:00:00+00:00
- - date_dead_since: 2024-12-23T08:47:23.628036+00:00
-
- ## The Graphics Codex
- - [https://graphicscodex.com](https://graphicscodex.com)
- - date_published: 2024-05-10T21:08:09+00:00
-
- ## Massagens para aliviar dores nos ombros - Graphic Freesbie Massagem e Terapia
- - [http://www.graphicsfreebies.com](http://www.graphicsfreebies.com)
- - date_published: 2024-12-22T07:15:35.951210+00:00
-
- ## GraphicsGale - ドット絵お絵かき・アニメグラフィックツール
- - [https://graphicsgale.com](https://graphicsgale.com)
- - date_published: 2024-07-09T12:44:16+00:00
-
- ## Free Design Stuff, Backgrounds, Textures, Background Pattern
- - [https://graphicswall.com](https://graphicswall.com)
- - date_published: 2024-06-11T16:51:47+00:00
-
- ## Vue Data UI
- - [https://vue-data-ui.graphieros.com](https://vue-data-ui.graphieros.com)
- - date_published: 2024-07-08T12:43:57+00:00
 

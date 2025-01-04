@@ -1,3 +1,115 @@
+ ## KOVID-19
+ - [https://ht.coronavirus.health.ny.gov](https://ht.coronavirus.health.ny.gov)
+ - date_published: 2024-06-27T04:01:28.691765+00:00
+
+ ## Lakay
+ - [https://ht.dec.ny.gov](https://ht.dec.ny.gov)
+ - date_published: 2024-07-14T04:45:40.967045+00:00
+
+ ## Sit entènèt ofisyèl Gouvènè Kathy Hochul
+ - [https://ht.governor.ny.gov](https://ht.governor.ny.gov)
+ - date_published: 2024-08-06T07:09:55.405141+00:00
+
+ ## Sit entènèt ofisyèl Eta New York
+ - [https://ht.ny.gov](https://ht.ny.gov)
+ - date_published: 2024-07-14T04:45:22.062679+00:00
+
+ ## Biwo Asistans Tanporè ak Enfimite
+ - [https://ht.otda.ny.gov](https://ht.otda.ny.gov)
+ - date_published: 2024-10-28T00:28:00.810891+00:00
+
+ ## Agricoltura e mercati
+ - [https://it.agriculture.ny.gov](https://it.agriculture.ny.gov)
+ - date_published: 2024-09-18T20:17:58.832152+00:00
+
+ ## COVID-19
+ - [https://it.coronavirus.health.ny.gov](https://it.coronavirus.health.ny.gov)
+ - date_published: 2024-06-27T04:01:07.693613+00:00
+
+ ## Home
+ - [https://it.dec.ny.gov](https://it.dec.ny.gov)
+ - date_published: 2024-07-14T04:45:58.938859+00:00
+
+ ## Il sito ufficiale del Governatore Kathy Hochul
+ - [https://it.governor.ny.gov](https://it.governor.ny.gov)
+ - date_published: 2024-08-06T07:09:48.180034+00:00
+
+ ## Il sito ufficiale dello Stato di New York
+ - [https://it.ny.gov](https://it.ny.gov)
+ - date_published: 2024-07-14T04:45:08.320620+00:00
+
+ ## Ufficio di assistenza temporanea e per disabili
+ - [https://it.otda.ny.gov](https://it.otda.ny.gov)
+ - date_published: 2024-10-28T00:27:45.747904+00:00
+
+ ## Office of Information Technology Services Home Page
+ - [http://its.ny.gov](http://its.ny.gov)
+ - date_published: 2024-06-24T19:34:23+00:00
+
+ ## 농업과 시장
+ - [https://ko.agriculture.ny.gov](https://ko.agriculture.ny.gov)
+ - date_published: 2024-09-18T20:18:15.182175+00:00
+
+ ## COVID-19
+ - [https://ko.coronavirus.health.ny.gov](https://ko.coronavirus.health.ny.gov)
+ - date_published: 2024-06-27T04:01:15.496189+00:00
+
+ ## 홈
+ - [https://ko.dec.ny.gov](https://ko.dec.ny.gov)
+ - date_published: 2024-07-14T04:45:51.591161+00:00
+
+ ## 캐시 호철 주지사 공식 홈페이지
+ - [https://ko.governor.ny.gov](https://ko.governor.ny.gov)
+ - date_published: 2024-08-06T07:10:05.803971+00:00
+
+ ## 뉴욕 주의 공식 웹사이트
+ - [https://ko.ny.gov](https://ko.ny.gov)
+ - date_published: 2024-07-14T04:45:04.956154+00:00
+
+ ## 임시 및 장애 지원 부서
+ - [https://ko.otda.ny.gov](https://ko.otda.ny.gov)
+ - date_published: 2024-10-28T00:28:17.465494+00:00
+
+ ## Cierpliwości...
+ - [https://nyenr.elections.ny.gov](https://nyenr.elections.ny.gov)
+ - date_published: 2024-04-02T18:07:10.090471+00:00
+
+ ## The Official Website of New York State
+ - [https://ny.gov](https://ny.gov)
+ - date_published: 2024-05-11T09:25:20.986139+00:00
+
+ ## NYSERDA - New York State Energy Research & Development Authority - NYSERDA
+ - [https://nyserda.ny.gov](https://nyserda.ny.gov)
+ - date_published: 2024-05-08T06:31:58.064149+00:00
+
+ ## Office of Addiction Services and Supports
+ - [https://oasas.ny.gov](https://oasas.ny.gov)
+ - date_published: 2024-07-09T15:30:31+00:00
+
+ ## Office of General Services Home Page
+ - [https://ogs.ny.gov](https://ogs.ny.gov)
+ - date_published: 2024-07-11T13:13:31+00:00
+
+ ## https://www.osc.ny.gov
+ - [https://osc.ny.gov](https://osc.ny.gov)
+ - date_published: 2023-12-19T17:57:44.445591+00:00
+
+ ## Office of Temporary and Disability Assistance
+ - [https://otda.ny.gov](https://otda.ny.gov)
+ - date_published: 2024-06-19T05:11:44.981644+00:00
+
+ ## New York State Parks, Recreation & Historic Preservation
+ - [https://parks.ny.gov](https://parks.ny.gov)
+ - date_published: 2024-07-04T13:05:10.141593+00:00
+
+ ## Rolnictwo i rynki
+ - [https://pl.agriculture.ny.gov](https://pl.agriculture.ny.gov)
+ - date_published: 2024-09-18T20:18:01.122644+00:00
+
+ ## COVID-19
+ - [https://pl.coronavirus.health.ny.gov](https://pl.coronavirus.health.ny.gov)
+ - date_published: 2024-06-27T04:01:34.601017+00:00
+
  ## Dom
  - [https://pl.dec.ny.gov](https://pl.dec.ny.gov)
  - date_published: 2024-07-14T04:45:43.018570+00:00
@@ -3890,116 +4002,4 @@
  ## Homepage
  - [https://nato.usmission.gov](https://nato.usmission.gov)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## Homepage
- - [https://osce.usmission.gov](https://osce.usmission.gov)
- - date_published: 2024-07-09T23:47:55.458982+00:00
-
- ## Homepage
- - [https://sm.usmission.gov](https://sm.usmission.gov)
- - date_published: 2023-06-21T00:00:00+00:00
-
- ## Homepage
- - [https://useu.usmission.gov](https://useu.usmission.gov)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Homepage
- - [https://usoas.usmission.gov](https://usoas.usmission.gov)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Homepage
- - [https://usoecd.usmission.gov](https://usoecd.usmission.gov)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Homepage
- - [https://usunrome.usmission.gov](https://usunrome.usmission.gov)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Homepage
- - [https://usun.usmission.gov](https://usun.usmission.gov)
- - date_published: 2024-07-09T23:43:42.081893+00:00
-
- ## Homepage
- - [https://vienna.usmission.gov](https://vienna.usmission.gov)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage
- - [https://www.usau.usmission.gov](https://www.usau.usmission.gov)
- - date_published: 2024-07-09T23:47:52.612292+00:00
-
- ## Home | Commissioned Corps of the U.S. Public Health Service
- - [https://usphs.gov](https://usphs.gov)
- - date_published: 2024-10-19T09:58:12.205078+00:00
-
- ## United States Postal Inspection Service – Protecting you and everyone the post reaches.
- - [https://postalinspectors.uspis.gov](https://postalinspectors.uspis.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## United States Postal Inspection Service – Protecting you and everyone the post reaches.
- - [https://www.uspis.gov](https://www.uspis.gov)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | Office of Inspector General OIG
- - [https://www.uspsoig.gov](https://www.uspsoig.gov)
- - date_published: 2024-05-06T21:27:41.759901+00:00
-
- ## United States Patent and Trademark Office
- - [https://assignments.uspto.gov](https://assignments.uspto.gov)
- - date_published: 2024-06-12T19:55:15+00:00
-
- ## United States Patent and Trademark Office
- - [https://assignment.uspto.gov](https://assignment.uspto.gov)
- - date_published: 2024-06-12T19:55:02+00:00
-
- ## Certified Copy Center
- - [https://certifiedcopycenter.uspto.gov](https://certifiedcopycenter.uspto.gov)
- - date_published: 2024-06-28T19:52:12.100884+00:00
-
- ## Components
- - [https://components.uspto.gov](https://components.uspto.gov)
- - date_published: 2024-06-28T19:51:48.531904+00:00
-
- ## Home | United States Patent and Trademark Office - Open Data Portal
- - [https://developer.uspto.gov](https://developer.uspto.gov)
- - date_published: 2024-07-03T10:42:22+00:00
-
- ## USPTO. ESTTA. Electronic System for Trademark Trials and Appeals
- - [http://estta.uspto.gov](http://estta.uspto.gov)
- - date_published: 2024-06-28T19:51:46.708910+00:00
-
- ## Assignment Center
- - [http://etas.uspto.gov](http://etas.uspto.gov)
- - date_published: 2024-06-28T19:52:07+00:00
-
- ## TMNG | IDML Main Entry
- - [https://idm-tmng.uspto.gov](https://idm-tmng.uspto.gov)
- - date_published: 2024-06-28T19:52:16.014567+00:00
-
- ## HTTP Status 404 – Not Found
- - [https://image-ppubs.uspto.gov](https://image-ppubs.uspto.gov)
- - date_published: 2024-01-09T03:31:39.680391+00:00
-
- ## Public PAIR to be retired
- - [http://portal.uspto.gov](http://portal.uspto.gov)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Trademark Status & Document Retrieval
- - [https://tarr.uspto.gov](https://tarr.uspto.gov)
- - date_published: 2024-05-06T23:44:36.407334+00:00
-
- ## TBMP
- - [https://tbmp.uspto.gov](https://tbmp.uspto.gov)
- - date_published: 2024-06-28T19:52:17.826449+00:00
-
- ## Search our trademark database
- - [http://tess2.uspto.gov](http://tess2.uspto.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## TFSR
- - [https://tfsr.uspto.gov](https://tfsr.uspto.gov)
- - date_published: 2024-06-28T19:52:14.208439+00:00
-
- ## Trademark Electronic Search System (TESS)
- - [https://tmsearch.uspto.gov](https://tmsearch.uspto.gov)
- - date_published: 2023-10-25T19:26:42.135004+00:00
 

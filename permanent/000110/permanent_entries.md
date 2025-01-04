@@ -1,3 +1,19 @@
+ ## England FA Store, 2024 England National Team Kits | England Lionesses Shirts, Clothing, Apparel | England FA Shop
+ - [https://www.englandstore.com](https://www.englandstore.com)
+ - date_published: 2024-12-12T05:56:12.196893+00:00
+
+ ## Engineering Leadership | Gregor Ojstersek | Substack
+ - [https://newsletter.eng-leadership.com](https://newsletter.eng-leadership.com)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## The Modern Leader
+ - [https://engleadership.com](https://engleadership.com)
+ - date_published: 2024-07-24T02:15:13.749928+00:00
+
+ ## Teach English Abroad with EF English First (Now Hiring)
+ - [https://english1.com](https://english1.com)
+ - date_published: 2024-06-14T07:47:43+00:00
+
  ## English Proficiency - Master The English Language
  - [https://englishblog.com](https://englishblog.com)
  - date_published: 2024-10-19T10:56:36.023622+00:00
@@ -4023,20 +4039,4 @@
  ## The Authority in Managed Detection and Response Services
  - [https://www.esentire.com](https://www.esentire.com)
  - date_published: 2024-06-20T16:45:12.908636+00:00
-
- ## Ese punto azul pálido (Pale Blue Dot)
- - [http://www.esepuntoazulpalido.com](http://www.esepuntoazulpalido.com)
- - date_published: 2024-12-30T16:08:22+00:00
-
- ## GetResponse MAX | Online Marketing Platform
- - [https://eservier.com](https://eservier.com)
- - date_published: 2024-06-22T06:58:20.506915+00:00
-
- ## Malware Protection & Internet Security
- - [https://eset.com](https://eset.com)
- - date_published: 2024-05-07T23:31:58.974724+00:00
-
- ## ESET Security Forum
- - [http://forum.eset.com](http://forum.eset.com)
- - date_published: 2024-09-25T00:00:00+00:00
 

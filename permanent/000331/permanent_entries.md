@@ -1,3 +1,115 @@
+ ## Coq
+ - [https://coq.discourse.group](https://coq.discourse.group)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Dask Forum
+ - [https://dask.discourse.group](https://dask.discourse.group)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Dragonfly
+ - [https://dragonfly.discourse.group](https://dragonfly.discourse.group)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## The Eldraeverse
+ - [https://eldraeverse.discourse.group](https://eldraeverse.discourse.group)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## TC39
+ - [https://es.discourse.group](https://es.discourse.group)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## farmOS
+ - [https://farmos.discourse.group](https://farmos.discourse.group)
+ - date_published: 2024-10-31T04:43:17.555961+00:00
+
+ ## Fortran Discourse - Fortran open source community
+ - [https://fortran-lang.discourse.group](https://fortran-lang.discourse.group)
+ - date_published: 2023-10-25T19:27:46.377370+00:00
+
+ ## Genode Users Forum
+ - [https://genode.discourse.group](https://genode.discourse.group)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## igraph support forum
+ - [https://igraph.discourse.group](https://igraph.discourse.group)
+ - date_published: 2024-10-05T00:00:00+00:00
+
+ ## ITensor Discourse
+ - [https://itensor.discourse.group](https://itensor.discourse.group)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Kanboard
+ - [https://kanboard.discourse.group](https://kanboard.discourse.group)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Kopia Forum
+ - [https://kopia.discourse.group](https://kopia.discourse.group)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## LibrePCB Discussion
+ - [https://librepcb.discourse.group](https://librepcb.discourse.group)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## LLVM Discussion Forums
+ - [https://llvm.discourse.group](https://llvm.discourse.group)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## melonJS
+ - [https://melonjs.discourse.group](https://melonjs.discourse.group)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Meshtastic
+ - [https://meshtastic.discourse.group](https://meshtastic.discourse.group)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Neovim Discourse
+ - [https://neovim.discourse.group](https://neovim.discourse.group)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## The Nivenly Foundation
+ - [https://nivenly.discourse.group](https://nivenly.discourse.group)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Numba Discussion
+ - [https://numba.discourse.group](https://numba.discourse.group)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## GNU Octave
+ - [https://octave.discourse.group](https://octave.discourse.group)
+ - date_published: 2024-07-08T11:33:32.450762+00:00
+
+ ## OpenTURNS
+ - [https://openturns.discourse.group](https://openturns.discourse.group)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## openziti
+ - [https://openziti.discourse.group](https://openziti.discourse.group)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Racket Discourse
+ - [https://racket.discourse.group](https://racket.discourse.group)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Syncloud
+ - [https://syncloud.discourse.group](https://syncloud.discourse.group)
+ - date_published: 2024-10-31T05:31:39.258966+00:00
+
+ ## TagSpaces Forum
+ - [https://tagspaces.discourse.group](https://tagspaces.discourse.group)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Tiledesk
+ - [https://tiledesk.discourse.group](https://tiledesk.discourse.group)
+ - date_published: 2024-10-30T19:37:02.460381+00:00
+
+ ## Trio forum
+ - [https://trio.discourse.group](https://trio.discourse.group)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Universal Blue
+ - [https://universal-blue.discourse.group](https://universal-blue.discourse.group)
+ - date_published: 2024-03-06T00:00:00+00:00
+
  ## United States Chess Federation
  - [https://uschess.discourse.group](https://uschess.discourse.group)
  - date_published: 2024-08-19T00:00:00+00:00
@@ -3901,118 +4013,4 @@
  ## Web 1.0 Hosting
  - [http://w10.host](http://w10.host)
  - date_published: 2024-07-10T08:11:31.537234+00:00
-
- ## If Americans Knew presents - Israel Palestine News
- - [https://iakn.wpmudev.host](https://iakn.wpmudev.host)
- - date_published: 2023-10-26T00:00:00+00:00
-
- ## 1984 - Safe hosting in Iceland
- - [https://1984.hosting](https://1984.hosting)
- - date_published: 2024-07-10T07:31:12.880672+00:00
-
- ## Hosting Thoughts & Reflections
- - [https://ceo.hosting](https://ceo.hosting)
- - date_published: 2024-10-12T13:17:42.111808+00:00
-
- ## Reliable Unlimited Domain cPanel Web Hosting | D9 Hosting
- - [https://d9.hosting](https://d9.hosting)
- - date_published: 2024-08-17T22:41:17.994696+00:00
-
- ## .Hosting Domain Names
- - [https://go.hosting](https://go.hosting)
- - date_published: 2024-06-17T07:44:48.884710+00:00
-
- ## .Hosting Domain Names | The .Hosting Registry
- - [https://nic.hosting](https://nic.hosting)
- - date_published: 2024-10-17T15:09:10.263192+00:00
-
- ## portavita
- - [https://portavita.prd.cgm.punkt.hosting](https://portavita.prd.cgm.punkt.hosting)
- - date_published: 2024-06-22T09:13:23.527058+00:00
-
- ## WEDOS Status - aktuální stav služeb
- - [https://status.wedos.hosting](https://status.wedos.hosting)
- - date_published: 2024-10-10T22:30:49+00:00
-
- ## Hosting i Domene AKCIJA 1+1 - WMD.HOSTING
- - [https://wmd.hosting](https://wmd.hosting)
- - date_published: 2024-06-19T21:56:45.485045+00:00
-
- ## Allium House
- - [https://allium.house](https://allium.house)
- - date_published: 2024-03-01T10:14:49.687453+00:00
- - tags: ['personal']
-
- ## besties
- - [https://besties.house](https://besties.house)
- - date_published: 2024-07-09T08:58:59+00:00
-
- ## covid.house
- - [https://covid.house](https://covid.house)
- - date_published: 2024-05-10T06:28:13.030997+00:00
- - tags: ['blog', 'personal']
-
- ## Bastille | Doom Days House
- - [https://doomdays.house](https://doomdays.house)
- - date_published: 2019-06-25T20:34:29+00:00
-
- ## Goop House
- - [https://goop.house](https://goop.house)
- - date_published: 2024-05-08T02:29:05.752377+00:00
-
- ## Helios House Press
- - [https://www.helios.house](https://www.helios.house)
- - date_published: 2024-06-19T15:18:57.021782+00:00
-
- ## Show HN: I built a(nother) house optimized for LAN parties
- - [https://lanparty.house](https://lanparty.house)
- - date_published: 2024-11-16T15:52:39+00:00
-
- ## lunacb's funky site
- - [https://lunacb.house](https://lunacb.house)
- - date_published: 2024-02-26T19:49:17+00:00
-
- ## Newspeak House
- - [https://newspeak.house](https://newspeak.house)
- - date_published: 2024-07-06T19:50:46.205826+00:00
-
- ## The Nostrich.House - Get your Nostr address NIP-05
- - [https://nostrich.house](https://nostrich.house)
- - date_published: 2024-06-15T22:33:50.138579+00:00
-
- ## ozlabs.house
- - [https://ozlabs.house](https://ozlabs.house)
- - date_published: 2024-08-19T16:34:19.732594+00:00
-
- ## Packhouse Git
- - [https://git.pack.house](https://git.pack.house)
- - date_published: 2024-05-17T21:10:31.609518+00:00
-
- ## Piedmont, CA Housing Data
- - [https://piedmont.house](https://piedmont.house)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Prop House
- - [https://prop.house](https://prop.house)
- - date_published: 2024-06-18T16:03:48.562509+00:00
-
- ## rate.house • The comprehensive media database.
- - [https://rate.house](https://rate.house)
- - date_published: 2024-11-12T17:08:54.450891+00:00
-
- ## rite.house
- - [http://rite.house](http://rite.house)
- - date_published: 2022-10-04T18:45:21+00:00
-
- ## Runhouse | Programmable Remote Compute and Data
- - [https://run.house](https://run.house)
- - date_published: 2023-10-25T19:28:07.838403+00:00
-
- ## skip’s house
- - [https://skip.house](https://skip.house)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## House Targaryen
- - [https://social.targaryen.house](https://social.targaryen.house)
- - date_published: 2024-07-15T12:36:55.170854+00:00
 

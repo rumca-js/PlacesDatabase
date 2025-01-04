@@ -1,3 +1,19 @@
+ ## C Duncan
+ - [https://cduncan.bandcamp.com](https://cduncan.bandcamp.com)
+ - date_published: 2024-12-27T05:01:24.518058+00:00
+
+ ## Cecil B
+ - [https://cecilb.bandcamp.com](https://cecilb.bandcamp.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## The Horror of It All, by Cedell Davis
+ - [https://cedelldavis.bandcamp.com](https://cedelldavis.bandcamp.com)
+ - date_published: 2024-12-27T05:36:47.196706+00:00
+
+ ## Celestial Mechanic
+ - [https://celestialmechanic.bandcamp.com](https://celestialmechanic.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
  ## Céline Gillain
  - [https://celinegillain.bandcamp.com](https://celinegillain.bandcamp.com)
  - date_published: 2024-12-27T01:05:57.797498+00:00
@@ -3981,20 +3997,4 @@
  ## Bells & White Branches, by Gracie Terzian
  - [https://gracieterzian.bandcamp.com](https://gracieterzian.bandcamp.com)
  - date_published: 2024-12-23T06:47:58.716018+00:00
-
- ## Try Not To Laugh, by Graham Hunt
- - [https://grahamhunt.bandcamp.com](https://grahamhunt.bandcamp.com)
- - date_published: 2024-06-30T08:08:58.139900+00:00
-
- ## Grain
- - [https://grainfc.bandcamp.com](https://grainfc.bandcamp.com)
- - date_published: 2024-12-27T05:01:56.407813+00:00
-
- ## The Rain In The Trees, by Graintable
- - [https://graintable.bandcamp.com](https://graintable.bandcamp.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Continuum Swings, by Grand Ephemeris
- - [https://grandephemeris.bandcamp.com](https://grandephemeris.bandcamp.com)
- - date_published: 2024-04-27T00:00:00+00:00
 

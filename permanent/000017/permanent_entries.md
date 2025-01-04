@@ -1,3 +1,11 @@
+ ## Actionnaires & Investisseurs | Banque BNP Paribas
+ - [https://invest.bnpparibas](https://invest.bnpparibas)
+ - date_published: 2024-06-22T11:57:10.365282+00:00
+
+ ## Votre banque au quotidien - Vous et vos enfants | BNP Paribas
+ - [https://mabanque.bnpparibas](https://mabanque.bnpparibas)
+ - date_published: 2024-06-22T11:57:07.521704+00:00
+
  ## Erreur 403
  - [https://rapport-integre.bnpparibas](https://rapport-integre.bnpparibas)
  - date_published: 2023-01-12T10:29:21+00:00
@@ -4002,12 +4010,4 @@ Educação
  ## Moderna Plus
  - [https://mplus.moderna.com.br](https://mplus.moderna.com.br)
  - date_published: 2024-09-13T10:27:46.561146+00:00
-
- ## PNLD - Moderna
- - [https://pnld.moderna.com.br](https://pnld.moderna.com.br)
- - date_published: 2024-09-13T10:29:31.823614+00:00
-
- ## Redes Moderna
- - [https://redes.moderna.com.br](https://redes.moderna.com.br)
- - date_published: 2024-06-12T13:04:11.253116+00:00
 

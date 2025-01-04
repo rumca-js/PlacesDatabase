@@ -1,3 +1,15 @@
+ ## Accueil - Afchem-Sofaco
+ - [https://afchemsofaco.com](https://afchemsofaco.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Afcinema -
+ - [http://www.afcinema.com](http://www.afcinema.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Home - AFCS - Air Force Civilian Service
+ - [https://afciviliancareers.com](https://afciviliancareers.com)
+ - date_published: 2024-03-08T00:00:00+00:00
+
  ## AFCOM - Advancing IT and Data Center Infrastructure Professionals
  - [https://afcom.com](https://afcom.com)
  - date_published: 2024-06-21T09:56:22.584098+00:00
@@ -4009,16 +4021,4 @@
  ## App Experience Platform | Airship
  - [https://airship.com](https://airship.com)
  - date_published: 2024-04-04T00:00:00+00:00
-
- ## Airship Docs
- - [https://docs.airship.com](https://docs.airship.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Airship - Login
- - [https://go.airship.com](https://go.airship.com)
- - date_published: 2024-07-09T12:33:25.432955+00:00
-
- ## Airship
- - [https://maturityassessment.airship.com](https://maturityassessment.airship.com)
- - date_published: 2024-07-09T12:33:20.138583+00:00
 

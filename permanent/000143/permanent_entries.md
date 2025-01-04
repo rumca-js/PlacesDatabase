@@ -1,3 +1,35 @@
+ ## MBC NEWS
+ - [https://imnews.imbc.com](https://imnews.imbc.com)
+ - date_published: 2022-12-31T17:58:16+00:00
+
+ ## Imbibe Live | The UK's No.1 Drinks Event
+ - [http://live.imbibe.com](http://live.imbibe.com)
+ - date_published: 2024-06-24T07:21:54+00:00
+
+ ## Home
+ - [http://imbibemagazine.com](http://imbibemagazine.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Huck
+ - [https://huck.imbmsubscriptions.com](https://huck.imbmsubscriptions.com)
+ - date_published: 2024-08-19T09:15:46.646603+00:00
+
+ ## Plough
+ - [https://plough.imbmsubscriptions.com](https://plough.imbmsubscriptions.com)
+ - date_published: 2024-05-06T23:29:23.639339+00:00
+
+ ## The Critic
+ - [https://thecritic.imbmsubscriptions.com](https://thecritic.imbmsubscriptions.com)
+ - date_published: 2024-05-02T12:21:54.416106+00:00
+
+ ## Brandon Farris
+ - [https://imbrandonfarris.com](https://imbrandonfarris.com)
+ - date_published: 2024-06-15T17:20:05.653359+00:00
+
+ ## www.imbroda.com
+ - [http://www.imbroda.com](http://www.imbroda.com)
+ - date_published: 2024-12-31T09:22:30.425791+00:00
+
  ## imbue
  - [https://imbue.com](https://imbue.com)
  - date_published: 2024-05-09T00:00:00+00:00
@@ -3013,6 +3045,10 @@
  - [https://indiehackernews.com](https://indiehackernews.com)
  - date_published: 2024-07-11T19:39:34.284367+00:00
 
+ ## INDIE HACKER OP - MicroSaaS and Building Businesses
+ - [http://indiehackerop.com](http://indiehackerop.com)
+ - date_published: 2024-12-17T20:20:23+00:00
+
  ## Indie Hackers: Work Together to Build Profitable Online Businesses
  - [https://indiehackers.com](https://indiehackers.com)
  - date_published: 2024-04-29T04:04:05.281746+00:00
@@ -3983,41 +4019,4 @@
  ## InflectraCon™- Inflectra’s Agile Testing & DevOps Conference
  - [https://www.inflectracon.com](https://www.inflectracon.com)
  - date_published: 2024-09-18T17:10:46.505759+00:00
-
- ## Consulting in the sale of high tech companies - Inflexionpoints
- - [http://www.inflexionpointspartners.com](http://www.inflexionpointspartners.com)
- - date_published: 2023-12-20T00:00:00+00:00
-
- ## Akamai
- - [https://akamaicareers.inflightcloud.com](https://akamaicareers.inflightcloud.com)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Inflight - publishing and event services for the aerospace industry
- - [http://www.inflight-online.com](http://www.inflight-online.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## In Flight USA
- - [http://www.inflightusa.com](http://www.inflightusa.com)
- - date_published: 2024-07-09T21:53:16.500637+00:00
-
- ## inFlow Inventory | Home
- - [https://www.inflowinventory.com](https://www.inflowinventory.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Login - Influ2
- - [https://app.influ2.com](https://app.influ2.com)
- - date_published: 2024-06-22T22:34:19.478461+00:00
-
- ## Welcome to your Strapi app
- - [https://www-admin.influ2.com](https://www-admin.influ2.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Influ2: Person-Based Ads That Help You Sell
- - [https://www.influ2.com](https://www.influ2.com)
- - date_published: 2024-05-06T12:57:14.866450+00:00
-
- ## The Influence Association - Influence and effectiveness
- - [https://influenceassociation.com](https://influenceassociation.com)
- - date_published: 2023-12-27T01:06:23.856215+00:00
- - tags: ['personal']
 

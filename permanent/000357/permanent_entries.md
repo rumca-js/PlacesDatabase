@@ -1,3 +1,129 @@
+ ## Venus Protocol
+ - [https://venus.io](https://venus.io)
+ - date_published: 2024-09-04T11:58:44.456704+00:00
+
+ ## Academic Research | The highest-quality and most trusted Survey research
+ - [https://verasight.io](https://verasight.io)
+ - date_published: 2023-10-25T20:12:14.187433+00:00
+
+ ## Verasity - Bringing trust and transparency to the advertising supply chain
+ - [https://verasity.io](https://verasity.io)
+ - date_published: 2024-05-06T17:32:25.954006+00:00
+
+ ## Cierpliwości...
+ - [https://tools.verifyemailaddress.io](https://tools.verifyemailaddress.io)
+ - date_published: 2024-06-25T16:03:54.600721+00:00
+
+ ## Safety Tech Solutions | VerifyMy
+ - [https://verifymy.io](https://verifymy.io)
+ - date_published: 2024-10-20T11:32:41.089299+00:00
+
+ ## Conversational AI for Customer Support Automation - Verloop.io
+ - [https://verloop.io](https://verloop.io)
+ - date_published: 2024-12-15T04:13:50.128104+00:00
+
+ ## Discover
+ - [https://versagames.io](https://versagames.io)
+ - date_published: 2024-09-25T15:50:46.061769+00:00
+
+ ## Versatus | Web3 Unchained
+ - [https://versatus.io](https://versatus.io)
+ - date_published: 2024-08-18T03:53:28.470189+00:00
+
+ ## Versus | Compare everything
+ - [https://assets.versus.io](https://assets.versus.io)
+ - date_published: 2024-09-04T11:27:27.007728+00:00
+
+ ## Index | Eclipse Vert.x how-to
+ - [https://how-to.vertx.io](https://how-to.vertx.io)
+ - date_published: 2023-07-14T11:21:03+00:00
+
+ ## Vert.x Starter - Create new Eclipse Vert.x applications
+ - [https://start.vertx.io](https://start.vertx.io)
+ - date_published: 2024-05-24T14:31:53+00:00
+
+ ## Eclipse Vert.x
+ - [https://vertx.io](https://vertx.io)
+ - date_published: 2024-04-14T00:00:00+00:00
+
+ ## Verylabs
+ - [https://www.verylabs.io](https://www.verylabs.io)
+ - date_published: 2024-09-24T10:26:29.789280+00:00
+
+ ## VERY Mainnet blockchain explorer - View VERY Mainnet stats | Blockscout
+ - [https://www.veryscan.io](https://www.veryscan.io)
+ - date_published: 2024-09-24T01:07:00.531004+00:00
+
+ ## Home
+ - [https://vetswhocode.io](https://vetswhocode.io)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Remediate Vulns - Vicarius
+ - [https://vicarius.io](https://vicarius.io)
+ - date_published: 2024-06-03T07:53:09.337319+00:00
+
+ ## Vidcast - Record. Share. Engage.
+ - [https://vidcast.io](https://vidcast.io)
+ - date_published: 2024-10-21T22:22:30.403509+00:00
+
+ ## VideoGen - AI Video Generator - Create Videos in Seconds
+ - [https://videogen.io](https://videogen.io)
+ - date_published: 2024-09-13T20:28:34.644775+00:00
+
+ ## Videolabs - open source multimedia solutions
+ - [https://videolabs.io](https://videolabs.io)
+ - date_published: 2024-05-04T15:16:40.766139+00:00
+ - tags: ['open source']
+
+ ## Vidverto | Video Ad Platform
+ - [https://vidverto.io](https://vidverto.io)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## ViewBlock | Blog
+ - [https://blog.viewblock.io](https://blog.viewblock.io)
+ - date_published: 2024-07-17T16:25:49.868487+00:00
+
+ ## ViewBlock
+ - [https://viewblock.io](https://viewblock.io)
+ - date_published: 2024-05-14T02:51:16.904973+00:00
+
+ ## UNIVERSE by ViewSonic
+ - [https://universe.viewsonic.io](https://universe.viewsonic.io)
+ - date_published: 2024-05-12T04:54:40.813844+00:00
+
+ ## Vikram Sreekanti
+ - [http://www.vikrams.io](http://www.vikrams.io)
+ - date_published: 2024-07-01T20:09:33.474839+00:00
+
+ ## Vikunja
+ - [https://code.vikunja.io](https://code.vikunja.io)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Vikunja Community
+ - [https://community.vikunja.io](https://community.vikunja.io)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Subscribe
+ - [https://newsletter-subscribe.vikunja.io](https://newsletter-subscribe.vikunja.io)
+ - date_published: 2024-05-14T03:31:52.253498+00:00
+
+ ## Vikunja
+ - [https://try.vikunja.io](https://try.vikunja.io)
+ - date_published: 2024-05-14T03:31:53.719908+00:00
+
+ ## The open-source, self-hostable to-do app | Vikunja
+ - [https://vikunja.io](https://vikunja.io)
+ - date_published: 2023-10-25T20:12:15.087469+00:00
+ - tags: ['self-host']
+
+ ## Vinayak Mehta · (vortex_ape)
+ - [https://vinayak.io](https://vinayak.io)
+ - date_published: 2024-01-07T08:43:38.082726+00:00
+
+ ## Vincere Identity
+ - [https://gailkennyrecruitment.vincere.io](https://gailkennyrecruitment.vincere.io)
+ - date_published: 2024-10-12T01:55:44+00:00
+
  ## Vincere Identity
  - [https://lotuspartners.vincere.io](https://lotuspartners.vincere.io)
  - date_published: 2024-03-30T01:21:20+00:00
@@ -3900,128 +4026,4 @@
  ## Canopy Newsletter | Claire Lew | Substack
  - [https://newsletter.canopy.is](https://newsletter.canopy.is)
  - date_published: 2024-06-20T00:00:00+00:00
-
- ## Caput Ensemble
- - [http://caput.is](http://caput.is)
- - date_published: 2024-09-06T21:51:45.042866+00:00
-
- ## Saadia's Blog
- - [https://blog.carb.is](https://blog.carb.is)
- - date_published: 2024-07-10T07:19:23.468321+00:00
-
- ## Saadia Carbis
- - [https://carb.is](https://carb.is)
- - date_published: 2024-05-09T07:58:34.172745+00:00
-
- ## Care Culture
- - [https://careculture.is](https://careculture.is)
- - date_published: 2024-09-23T13:41:11.262895+00:00
-
- ## About Chad Mazzola
- - [https://chad.is](https://chad.is)
- - date_published: 2024-05-07T23:13:12.974397+00:00
-
- ## Christina Warren on Svbtle
- - [http://christina.is](http://christina.is)
- - date_published: 2024-07-07T07:32:33.248157+00:00
-
- ## Forsíða - ÍSBAND
- - [http://www.chryslerisland.is](http://www.chryslerisland.is)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Chase McCoy
- - [https://chs.is](https://chs.is)
- - date_published: 2024-07-02T21:02:14.471366+00:00
-
- ## Chuck Carroll
- - [https://chuck.is](https://chuck.is)
- - date_published: 2023-12-25T21:22:14.875998+00:00
-
- ## Citroën á Íslandi | Citroën umboðið | Brimborg
- - [https://citroen.is](https://citroen.is)
- - date_published: 2023-12-11T15:49:38.739334+00:00
-
- ## Citroën Origins
- - [http://citroen-origins.is](http://citroen-origins.is)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.is](https://www.citroenorigins.is)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## Home - cmp is on the web
- - [https://cmp.is](https://cmp.is)
- - date_published: 2018-10-10T00:00:00+00:00
-
- ## Fathom Analytics: A Better Google Analytics Alternative
- - [https://smile-merit.cmp.is](https://smile-merit.cmp.is)
- - date_published: 2024-09-02T16:47:04+00:00
-
- ## Custom Domain by Bitly
- - [https://coc.is](https://coc.is)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Conan Is Blogging
- - [http://conan.is](http://conan.is)
- - date_published: 2023-11-08T14:49:46+00:00
-
- ## The Conscious Leadership Group
- - [https://conscious.is](https://conscious.is)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Coolshop | Að versla á netinu verður auðvelt, skemmtilegt og kúl
- - [https://www.coolshop.is](https://www.coolshop.is)
- - date_published: 2024-09-16T03:02:18.375165+00:00
-
- ## The Copia Institute: Ideas In Abundance
- - [https://copia.is](https://copia.is)
- - date_published: 2024-04-07T20:29:08.626882+00:00
-
- ## Cornea
- - [https://cornea.is](https://cornea.is)
- - date_published: 2022-04-26T00:00:00+00:00
-
- ## CrypTech.is – Making the Internet a little bit safer
- - [https://cryptech.is](https://cryptech.is)
- - date_published: 2024-05-21T02:44:37.666400+00:00
-
- ## Welcome to the Cryptech Project
- - [http://wiki.cryptech.is](http://wiki.cryptech.is)
- - date_published: 2016-12-15T00:00:00+00:00
-
- ## crypto.is
- - [https://crypto.is](https://crypto.is)
- - date_published: 2024-08-07T14:57:56.330748+00:00
-
- ## CUNY Academic Commons
- - [http://cuny.is](http://cuny.is)
- - date_published: 2024-10-20T10:18:07.716075+00:00
-
- ## Dan Rubin — Designer, Creative Director, Photographer
- - [https://danrubin.is](https://danrubin.is)
- - date_published: 2023-01-06T19:29:36+00:00
-
- ## Darcy - Social media done proper
- - [https://darcy.is](https://darcy.is)
- - date_published: 2023-10-25T20:14:04.210843+00:00
-
- ## Dark Music Days
- - [http://www.darkmusicdays.is](http://www.darkmusicdays.is)
- - date_published: 2024-09-06T21:40:37.177247+00:00
-
- ## davidcel.is
- - [https://davidcel.is](https://davidcel.is)
- - date_published: 2023-10-25T20:14:07.579909+00:00
-
- ## Plausible · Web analytics
- - [https://pls.davidcel.is](https://pls.davidcel.is)
- - date_published: 2024-05-06T14:58:02.293174+00:00
-
- ## Dustin Curtis on Svbtle
- - [http://dcurt.is](http://dcurt.is)
- - date_published: 2024-09-03T21:05:45.631838+00:00
-
- ## Étienne Deparis
- - [https://etienne.depar.is](https://etienne.depar.is)
- - date_published: 2013-06-04T00:00:00+00:00
 

@@ -1,3 +1,19 @@
+ ## CoinShares | Building the Future of Investing
+ - [https://coinshares.com](https://coinshares.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Crypto ETP : Wide product range with the pioneer | CoinShares ETP
+ - [https://etp.coinshares.com](https://etp.coinshares.com)
+ - date_published: 2024-06-11T03:24:26.174488+00:00
+
+ ## CoinShares Investor Relations
+ - [https://investor.coinshares.com](https://investor.coinshares.com)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## COINsiglieri
+ - [https://coinsiglieri.com](https://coinsiglieri.com)
+ - date_published: 2024-09-24T11:21:28.208557+00:00
+
  ## SmartPay by Coinsmart
  - [https://smartpay.coinsmart.com](https://smartpay.coinsmart.com)
  - date_published: 2024-03-04T14:05:33+00:00
@@ -4024,20 +4040,4 @@ Colyvan's Homepage
  ## Comscore is a trusted currency for planning, transacting, and evaluating media across platforms.
  - [https://comscore.com](https://comscore.com)
  - date_published: 2024-04-28T02:14:14.516343+00:00
-
- ## CORE
- - [https://core.comscore.com](https://core.comscore.com)
- - date_published: 2024-08-07T23:03:07.320683+00:00
-
- ## Comscore is a trusted partner for planning, transacting and evaluating media across platforms. | Comscore, Inc.
- - [https://ir.comscore.com](https://ir.comscore.com)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Sign in | Comscore
- - [https://my.comscore.com](https://my.comscore.com)
- - date_published: 2024-08-07T23:03:23.816909+00:00
-
- ## Comscore | Comscore TV
- - [https://tv.comscore.com](https://tv.comscore.com)
- - date_published: 2024-07-29T19:46:01+00:00
 

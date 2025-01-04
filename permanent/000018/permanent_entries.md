@@ -1,3 +1,11 @@
+ ## PNLD - Moderna
+ - [https://pnld.moderna.com.br](https://pnld.moderna.com.br)
+ - date_published: 2024-09-13T10:29:31.823614+00:00
+
+ ## Redes Moderna
+ - [https://redes.moderna.com.br](https://redes.moderna.com.br)
+ - date_published: 2024-06-12T13:04:11.253116+00:00
+
  ## Home - Território da Leitura - Editora Moderna
  - [https://territoriodaleitura.moderna.com.br](https://territoriodaleitura.moderna.com.br)
  - date_published: 2024-06-12T13:04:00.985432+00:00
@@ -3999,12 +4007,4 @@
  ## Министерство сельского хозяйства и продовольствия Республики Беларусь
  - [https://www.mshp.gov.by](https://www.mshp.gov.by)
  - date_published: 2024-08-11T16:08:04.648455+00:00
-
- ## Ministry of Sports and Tourism of the Republic of Belarus - Home
- - [http://mst.gov.by](http://mst.gov.by)
- - date_published: 2024-08-11T15:52:51.986228+00:00
-
- ## Главная
- - [http://nasb.gov.by](http://nasb.gov.by)
- - date_published: 2024-12-24T09:36:25.841772+00:00
 

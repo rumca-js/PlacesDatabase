@@ -1,3 +1,148 @@
+ ## Escuela Virtual Fe y Alegría
+ - [https://escuelavirtual.feyalegria.org](https://escuelavirtual.feyalegria.org)
+ - date_published: 2024-12-21T20:28:08.760543+00:00
+
+ ## Inicio FyA Internacional - #SomosFeyAlegria en el Mundo
+ - [https://feyalegria.org](https://feyalegria.org)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Inicio Género - #SomosFeyAlegria
+ - [https://genero.feyalegria.org](https://genero.feyalegria.org)
+ - date_published: 2024-12-21T20:27:13.595695+00:00
+
+ ## Inicio - Identidad y espiritualidad - #SomosFeyAlegria
+ - [https://identidad.feyalegria.org](https://identidad.feyalegria.org)
+ - date_published: 2024-12-21T20:28:11.239568+00:00
+
+ ## Inicio EV IMPACTO - #SomosFeyAlegria
+ - [https://impacto.feyalegria.org](https://impacto.feyalegria.org)
+ - date_published: 2024-12-21T20:27:16.955322+00:00
+
+ ## Inicio Formación Pedagógica - #SomosFeyAlegria
+ - [https://pedagogia.feyalegria.org](https://pedagogia.feyalegria.org)
+ - date_published: 2024-12-21T20:27:20.112829+00:00
+
+ ## FF4J - Feature Flipping 4 JAVA
+ - [https://ff4j.org](https://ff4j.org)
+ - date_published: 2024-04-28T03:45:48.441474+00:00
+
+ ## F.F.A.M. – Fire Fighters Association of Missouri
+ - [https://ffam.org](https://ffam.org)
+ - date_published: 2024-03-06T16:18:52.729627+00:00
+
+ ## Full Frontal - JavaScript Conference - 20th November 2009
+ - [https://2009.ffconf.org](https://2009.ffconf.org)
+ - date_published: 2024-06-17T19:25:52.373437+00:00
+
+ ## Full Frontal - JavaScript Conference - 12th November 2010
+ - [https://2010.ffconf.org](https://2010.ffconf.org)
+ - date_published: 2024-06-17T19:26:12.601027+00:00
+
+ ## Full Frontal 2011- JavaScript Conference
+ - [https://2011.ffconf.org](https://2011.ffconf.org)
+ - date_published: 2024-06-17T19:26:29.808690+00:00
+
+ ## Full Frontal 2012 - JavaScript Conference
+ - [https://2012.ffconf.org](https://2012.ffconf.org)
+ - date_published: 2024-06-17T19:25:55.550146+00:00
+
+ ## Full Frontal 2013 - JavaScript Conference
+ - [https://2013.ffconf.org](https://2013.ffconf.org)
+ - date_published: 2024-06-17T19:26:15.094186+00:00
+
+ ## ffconf :: JavaScript Conference :: 7th November 2014
+ - [https://2014.ffconf.org](https://2014.ffconf.org)
+ - date_published: 2024-06-17T19:25:45.810733+00:00
+
+ ## ffconf :: JavaScript Conference :: 6th November 2015
+ - [https://2015.ffconf.org](https://2015.ffconf.org)
+ - date_published: 2024-06-17T19:26:21.289583+00:00
+
+ ## ffconf :: JavaScript Conference :: 10th & 11th November 2016
+ - [https://2016.ffconf.org](https://2016.ffconf.org)
+ - date_published: 2024-06-17T19:25:53.841723+00:00
+
+ ## ffconf :: JavaScript Conference
+ - [https://2017.ffconf.org](https://2017.ffconf.org)
+ - date_published: 2024-06-17T19:25:56.857999+00:00
+
+ ## ffconf :: JavaScript Conference
+ - [https://2018.ffconf.org](https://2018.ffconf.org)
+ - date_published: 2024-06-17T19:25:51.375277+00:00
+
+ ## ffconf :: JavaScript Conference
+ - [https://2019.ffconf.org](https://2019.ffconf.org)
+ - date_published: 2024-05-02T11:11:33.866444+00:00
+
+ ## ffconf 2022 - UK web and JavaScript conference
+ - [https://2022.ffconf.org](https://2022.ffconf.org)
+ - date_published: 2024-09-04T10:37:01.025549+00:00
+
+ ## ffconf 🌟 UK web conference since 2009
+ - [https://2023.ffconf.org](https://2023.ffconf.org)
+ - date_published: 2024-05-04T13:56:46.552197+00:00
+
+ ## ffconf 🌟 UK web conference since 2009
+ - [https://2024.ffconf.org](https://2024.ffconf.org)
+ - date_published: 2024-09-04T10:36:58.490754+00:00
+
+ ## FF Conf 🌟 UK web conference since 2009
+ - [https://ffconf.org](https://ffconf.org)
+ - date_published: 2024-05-14T04:04:03.776406+00:00
+ - tags: ['conference', 'javascript']
+
+ ## Sign in · GitLab
+ - [https://code.ffdn.org](https://code.ffdn.org)
+ - date_published: 2024-12-21T20:34:46.573130+00:00
+
+ ## FFDN ISP Database
+ - [https://db.ffdn.org](https://db.ffdn.org)
+ - date_published: 2024-07-19T05:20:24.583759+00:00
+
+ ## Fédération FDN | Fédération des Fournisseurs d'Accès Internet Associatifs
+ - [https://ffdn.org](https://ffdn.org)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## FFDWeb
+ - [https://ffdweb.org](https://ffdweb.org)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Chartres 2024
+ - [https://chartres2024.ffechecs.org](https://chartres2024.ffechecs.org)
+ - date_published: 2024-07-04T05:09:49.846755+00:00
+
+ ## Boutique FFEPT
+ - [https://boutique.ffept.org](https://boutique.ffept.org)
+ - date_published: 2024-08-19T21:57:12.315131+00:00
+
+ ## Congrès FFEPT
+ - [https://congres2022.ffept.org](https://congres2022.ffept.org)
+ - date_published: 2024-08-19T21:51:32.923101+00:00
+
+ ## Congrès FFEPT
+ - [https://congres.ffept.org](https://congres.ffept.org)
+ - date_published: 2024-08-19T21:57:08.067738+00:00
+
+ ## www.ffept.org / Fédération Francophone pour l'Elevage et la Protection de la Tortue
+ - [https://ffept.org](https://ffept.org)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## ffept.org / La revue Chéloniens
+ - [https://revue-cheloniens.ffept.org](https://revue-cheloniens.ffept.org)
+ - date_published: 2024-08-19T21:57:10.285870+00:00
+
+ ## The Future of Freedom Foundation – Advancing an Uncompromising Case for Libertarianism
+ - [https://fff.org](https://fff.org)
+ - date_published: 2020-02-10T20:02:50+00:00
+
+ ## konsoleH :: Login
+ - [https://acta.ffii.org](https://acta.ffii.org)
+ - date_published: 2024-07-13T16:30:56.564012+00:00
+
+ ## konsoleH :: Login
+ - [https://action.ffii.org](https://action.ffii.org)
+ - date_published: 2024-07-13T16:32:31.876448+00:00
+
  ## konsoleH :: Login
  - [https://de.ffii.org](https://de.ffii.org)
  - date_published: 2024-07-13T16:32:00.694935+00:00
@@ -3906,151 +4051,4 @@ auto mode which considers all thermal sensors, as well as super-convenient (lite
  - [https://freecol.org](https://freecol.org)
  - date_published: 2023-05-07T18:37:06+00:00
  - tags: ['open source', 'video game']
-
- ## Free Counters for Your Website! 100% free! Get Your Counter now!
- - [https://free-counters.org](https://free-counters.org)
- - date_published: 2024-05-11T05:35:29.896149+00:00
-
- ## FreeCSSTemplates.org is now FCT.co
- - [https://freecsstemplates.org](https://freecsstemplates.org)
- - date_published: 2024-05-04T09:16:54.040486+00:00
-
- ## Cul-Tur Efree
- - [http://free-culture.org](http://free-culture.org)
- - date_published: 2024-07-23T13:10:54+00:00
-
- ## Freecycle: Front Door
- - [http://www.freecycle.org](http://www.freecycle.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Bugzilla Main Page
- - [https://bugs.freedesktop.org](https://bugs.freedesktop.org)
- - date_published: 2024-05-08T10:34:17.857845+00:00
-
- ## freedesktop.org git repository browser
- - [https://cgit.freedesktop.org](https://cgit.freedesktop.org)
- - date_published: 2024-01-09T03:40:11.555074+00:00
-
- ## dbus
- - [https://dbus.freedesktop.org](https://dbus.freedesktop.org)
- - date_published: 2022-02-28T18:21:58+00:00
-
- ## DRI Wiki
- - [https://dri.freedesktop.org](https://dri.freedesktop.org)
- - date_published: 2020-10-21T18:27:05+00:00
-
- ## Fingerprint reader support
- - [https://fprint.freedesktop.org](https://fprint.freedesktop.org)
- - date_published: 2023-03-15T14:10:31+00:00
-
- ## www
- - [https://freedesktop.org](https://freedesktop.org)
- - date_published: 1999-01-01T00:00:00+00:00
- - tags: ['software platform']
-
- ## Explore groups · GitLab
- - [https://gitlab.freedesktop.org](https://gitlab.freedesktop.org)
- - date_published: 2023-10-25T21:22:53.665835+00:00
- - tags: ['linux', 'graphic stack', 'open source']
-
- ## GStreamer: open source multimedia framework
- - [https://gstreamer.freedesktop.org](https://gstreamer.freedesktop.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Indico
- - [https://indico.freedesktop.org](https://indico.freedesktop.org)
- - date_published: 2024-07-09T20:00:34.041856+00:00
-
- ## lists.freedesktop.org Mailing Lists
- - [https://lists.freedesktop.org](https://lists.freedesktop.org)
- - date_published: 2024-03-07T21:42:44.490922+00:00
-
- ## Home — The Mesa 3D Graphics Library
- - [https://mesa.freedesktop.org](https://mesa.freedesktop.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## libnice – The GLib ICE implementation
- - [https://nice.freedesktop.org](https://nice.freedesktop.org)
- - date_published: 2024-03-04T20:43:29+00:00
-
- ## nouveau · freedesktop.org
- - [https://nouveau.freedesktop.org](https://nouveau.freedesktop.org)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Panfrost
- - [https://panfrost.freedesktop.org](https://panfrost.freedesktop.org)
- - date_published: 2021-07-30T14:50:10+00:00
-
- ## Project List - Patchwork
- - [https://patchwork.freedesktop.org](https://patchwork.freedesktop.org)
- - date_published: 2024-07-14T03:14:43.461094+00:00
-
- ## planet.freedesktop.org
- - [https://planet.freedesktop.org](https://planet.freedesktop.org)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Poppler
- - [https://poppler.freedesktop.org](https://poppler.freedesktop.org)
- - date_published: 2023-10-25T21:22:54.773695+00:00
-
- ## www
- - [https://secure.freedesktop.org](https://secure.freedesktop.org)
- - date_published: 2023-05-31T19:39:00+00:00
-
- ## Freedesktop.org Specifications
- - [https://specifications.freedesktop.org](https://specifications.freedesktop.org)
- - date_published: 2024-04-29T07:29:06.636149+00:00
-
- ## Freedesktop.org Specifications
- - [https://standards.freedesktop.org](https://standards.freedesktop.org)
- - date_published: 2024-05-23T02:49:46.816821+00:00
-
- ## Wayland
- - [https://wayland.freedesktop.org](https://wayland.freedesktop.org)
- - date_published: 2023-10-30T14:01:41.938140+00:00
- - tags: ['open source', 'wayland']
-
- ## xcb
- - [https://xcb.freedesktop.org](https://xcb.freedesktop.org)
- - date_published: 2024-03-02T21:47:09+00:00
-
- ## Mirror for Open Source Projects
- - [http://freedif.org](http://freedif.org)
- - date_published: 2024-05-10T14:33:34+00:00
-
- ## Index of /
- - [https://mirror.freedif.org](https://mirror.freedif.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home
- - [http://www.freedomandprosperity.org](http://www.freedomandprosperity.org)
- - date_published: 2024-10-21T14:10:22.938893+00:00
-
- ## FreedomBox Forum
- - [https://discuss.freedombox.org](https://discuss.freedombox.org)
- - date_published: 2024-10-31T06:07:44.754869+00:00
-
- ## FreedomBox - Personal Server at Home
- - [https://freedombox.org](https://freedombox.org)
- - date_published: 2024-06-19T22:12:33+00:00
-
- ## Welcome — FreedomBox Foundation
- - [https://freedomboxfoundation.org](https://freedomboxfoundation.org)
- - date_published: 2024-06-14T11:41:38+00:00
-
- ## Definition of Free Cultural Works
- - [https://freedomdefined.org](https://freedomdefined.org)
- - date_published: 2024-04-30T05:44:32.703703+00:00
-
- ## Homepage
- - [https://freedomforum.org](https://freedomforum.org)
- - date_published: 2024-12-20T08:24:15.667770+00:00
-
- ## Homepage
- - [https://www.freedomforum.org](https://www.freedomforum.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Freedom from the FDA
- - [http://www.freedomfromfda.org](http://www.freedomfromfda.org)
- - date_published: 2014-06-02T00:00:00+00:00
 

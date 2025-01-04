@@ -1,3 +1,19 @@
+ ## COPYCENSE
+ - [http://www.copycense.com](http://www.copycense.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Copyediting.com - the business of editing
+ - [http://copyediting.com](http://copyediting.com)
+ - date_published: 2022-12-31T20:30:17+00:00
+
+ ## Copyhackers: digital home for elite copywriters & UX writers
+ - [https://copyhackers.com](https://copyhackers.com)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## AI-Based Plagiarism & AI Content Detection | Copyleaks
+ - [https://copyleaks.com](https://copyleaks.com)
+ - date_published: 2024-10-30T06:49:36+00:00
+
  ## Write your blog articles, books, essays and more with Smart AI
  - [https://copylime.com](https://copylime.com)
  - date_published: 2024-06-19T21:35:27.771351+00:00
@@ -4030,21 +4046,4 @@
  - [https://creality.com](https://creality.com)
  - date_published: 2023-10-25T14:20:55.995211+00:00
  - tags: ['3d printing']
-
- ## Creality Community Forum
- - [https://forum.creality.com](https://forum.creality.com)
- - date_published: 2024-05-08T06:57:42.234305+00:00
- - tags: ['3d printing']
-
- ## Cierpliwości...
- - [https://store.creality.com](https://store.creality.com)
- - date_published: 2024-05-08T06:52:02.677836+00:00
-
- ## Creality VIP Mall
- - [https://vip.creality.com](https://vip.creality.com)
- - date_published: 2024-05-08T06:52:20.211018+00:00
-
- ## Home
- - [https://wiki.creality.com](https://wiki.creality.com)
- - date_published: 2024-04-24T00:00:00+00:00
 

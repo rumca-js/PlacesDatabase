@@ -1,3 +1,15 @@
+ ## Event, Festival and Venue Websites built with Plot
+ - [https://builtwithplot.com](https://builtwithplot.com)
+ - date_published: 2024-10-20T20:29:23.927135+00:00
+
+ ## Built with Statamic
+ - [https://builtwithstatamic.com](https://builtwithstatamic.com)
+ - date_published: 2020-09-19T04:23:30+00:00
+
+ ## Built with Understanding - A digital agency based in London
+ - [https://www.builtwithunderstanding.com](https://www.builtwithunderstanding.com)
+ - date_published: 2021-12-14T14:07:17+00:00
+
  ## Optical Aeronomy at Boston University
  - [http://buimaging.com](http://buimaging.com)
  - date_published: 2024-04-29T05:34:49.925297+00:00
@@ -4029,17 +4041,4 @@
  - [https://cadenasuper.com](https://cadenasuper.com)
  - date_published: 2024-06-02T19:26:07+00:00
  - tags: ['radio station']
-
- ## Computational Software for Intelligent System Design™
- - [http://cadence.com](http://cadence.com)
- - date_published: 2024-06-09T20:51:01+00:00
- - tags: ['fpga', 'verilog']
-
- ## Cadence Community
- - [https://community.cadence.com](https://community.cadence.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Cadence Events
- - [https://events.cadence.com](https://events.cadence.com)
- - date_published: 2024-09-05T10:06:58.688178+00:00
 

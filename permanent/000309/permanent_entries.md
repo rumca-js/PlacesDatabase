@@ -1,3 +1,107 @@
+ ## Utah Digital Newspapers
+ - [https://newspapers.lib.utah.edu](https://newspapers.lib.utah.edu)
+ - date_published: 2024-07-19T16:48:20.149715+00:00
+
+ ## Interdisciplinary Exchange for Utah Science - The University of Utah
+ - [https://nexus.utah.edu](https://nexus.utah.edu)
+ - date_published: 2024-07-02T11:21:28.092252+00:00
+
+ ## Welcome to the Natural History Museum of Utah | Natural History Museum of Utah
+ - [https://nhmu.utah.edu](https://nhmu.utah.edu)
+ - date_published: 2024-07-02T08:26:17+00:00
+
+ ## Utah Natural Language Processing Group
+ - [https://nlp.cs.utah.edu](https://nlp.cs.utah.edu)
+ - date_published: 2023-12-13T23:33:56+00:00
+
+ ## Department of Naval Science (Navy/Marine ROTC) - The University of Utah
+ - [https://nrotc.utah.edu](https://nrotc.utah.edu)
+ - date_published: 2024-07-02T11:27:20.905985+00:00
+
+ ## Office 365 - The University of Utah
+ - [https://o365cloud.utah.edu](https://o365cloud.utah.edu)
+ - date_published: 2024-07-14T05:11:24.560358+00:00
+
+ ## Office of Equal Opportunity & Affirmative Action - The University of Utah
+ - [http://oeo.utah.edu](http://oeo.utah.edu)
+ - date_published: 2024-07-02T11:30:40.042750+00:00
+
+ ## UOnline at the University of Utah - UOnline - The University of Utah
+ - [https://online.utah.edu](https://online.utah.edu)
+ - date_published: 2024-07-02T11:27:22.877846+00:00
+
+ ## The Office of Orientation and Transition - The University of Utah
+ - [https://orientation.utah.edu](https://orientation.utah.edu)
+ - date_published: 2024-07-02T11:19:05.848611+00:00
+
+ ## Office of Sponsored Projects - The University of Utah
+ - [https://osp.utah.edu](https://osp.utah.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Office of Undergraduate Research
+ - [https://our.utah.edu](https://our.utah.edu)
+ - date_published: 2024-07-02T11:30:37.780675+00:00
+
+ ## Parents & Families - The Office of Orientation and Transition - The University of Utah
+ - [http://parents.utah.edu](http://parents.utah.edu)
+ - date_published: 2024-07-02T11:42:32.018655+00:00
+
+ ## Basic Search - Campus Directory - The University of Utah
+ - [https://people.utah.edu](https://people.utah.edu)
+ - date_published: 2024-05-07T22:09:50.098494+00:00
+
+ ## Department of Political Science - The University of Utah
+ - [https://poli-sci.utah.edu](https://poli-sci.utah.edu)
+ - date_published: 2024-07-02T11:27:02.191182+00:00
+
+ ## University of Utah - Portal
+ - [https://portal.app.utah.edu](https://portal.app.utah.edu)
+ - date_published: 2024-03-14T20:34:52+00:00
+
+ ## President Taylor R. Randall
+ - [https://president.utah.edu](https://president.utah.edu)
+ - date_published: 2024-07-02T11:18:02.089656+00:00
+
+ ## The John and Marcia Price College of Engineering
+ - [https://price.utah.edu](https://price.utah.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Department of Psychology - The University of Utah
+ - [https://psych.utah.edu](https://psych.utah.edu)
+ - date_published: 2024-07-02T11:21:30.615603+00:00
+
+ ## University Department of Public Safety
+ - [https://publicsafety.utah.edu](https://publicsafety.utah.edu)
+ - date_published: 2024-07-02T11:18:33.666208+00:00
+
+ ## Home
+ - [http://qed.cs.utah.edu](http://qed.cs.utah.edu)
+ - date_published: 2024-07-02T11:29:23.851477+00:00
+
+ ## Office of the Registrar - The University of Utah
+ - [https://registrar.utah.edu](https://registrar.utah.edu)
+ - date_published: 2024-07-02T11:18:39.117738+00:00
+
+ ## Vice President for Research
+ - [http://research.utah.edu](http://research.utah.edu)
+ - date_published: 2024-07-02T11:29:47.766696+00:00
+
+ ## Robotics Center
+ - [https://robotics.coe.utah.edu](https://robotics.coe.utah.edu)
+ - date_published: 2024-07-02T11:30:26.726220+00:00
+
+ ## home [LL4MA lab]
+ - [https://robot-learning.cs.utah.edu](https://robot-learning.cs.utah.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## #SAFEU
+ - [https://safeu.utah.edu](https://safeu.utah.edu)
+ - date_published: 2024-07-02T11:18:42.515290+00:00
+
+ ## College of Science
+ - [https://science.utah.edu](https://science.utah.edu)
+ - date_published: 2024-05-07T22:10:58.251933+00:00
+
  ## Home
  - [https://sci.utah.edu](https://sci.utah.edu)
  - date_published: 2024-07-30T00:00:00+00:00
@@ -3894,108 +3998,4 @@
  ## Commitment to Privacy
  - [https://safetymodel.vcu.edu](https://safetymodel.vcu.edu)
  - date_published: 2024-07-02T12:44:18.242462+00:00
-
- ## Commitment to Privacy
- - [https://sage.vcu.edu](https://sage.vcu.edu)
- - date_published: 2024-07-02T12:45:29.562941+00:00
-
- ## Commitment to Privacy
- - [https://sass.vcu.edu](https://sass.vcu.edu)
- - date_published: 2024-07-02T12:44:11.309822+00:00
-
- ## Commitment to Privacy
- - [https://sccmtraining.partnership.vcu.edu](https://sccmtraining.partnership.vcu.edu)
- - date_published: 2024-07-02T12:57:19.391943+00:00
-
- ## VCU Scholars Compass | Virginia Commonwealth University Research
- - [https://scholarscompass.vcu.edu](https://scholarscompass.vcu.edu)
- - date_published: 2024-07-02T12:46:55.479847+00:00
-
- ## Scholarships, VCU School of Pharmacy
- - [https://scholarships.pharmacy.vcu.edu](https://scholarships.pharmacy.vcu.edu)
- - date_published: 2024-07-02T12:47:32.174073+00:00
-
- ## Commitment to Privacy
- - [https://science.vcu.edu](https://science.vcu.edu)
- - date_published: 2024-07-02T12:45:43.612231+00:00
-
- ## Commitment to Privacy
- - [https://se.lab.vcu.edu](https://se.lab.vcu.edu)
- - date_published: 2024-07-02T12:58:36.729828+00:00
-
- ## Commitment to Privacy
- - [https://semss.vcu.edu](https://semss.vcu.edu)
- - date_published: 2024-07-02T12:59:06.578078+00:00
-
- ## Commitment to Privacy
- - [https://serl.vcu.edu](https://serl.vcu.edu)
- - date_published: 2024-07-02T12:57:24.306700+00:00
-
- ## Commitment to Privacy
- - [https://servicelearning.vcu.edu](https://servicelearning.vcu.edu)
- - date_published: 2024-07-02T12:43:43.548670+00:00
-
- ## Commitment to Privacy
- - [https://sfs.vcu.edu](https://sfs.vcu.edu)
- - date_published: 2024-07-02T12:58:00.167905+00:00
-
- ## Commitment to Privacy
- - [https://sga.vcu.edu](https://sga.vcu.edu)
- - date_published: 2024-07-02T12:57:41.781531+00:00
-
- ## Commitment to Privacy
- - [https://shibboleth.vcu.edu](https://shibboleth.vcu.edu)
- - date_published: 2024-07-02T13:03:51.712724+00:00
-
- ## Commitment to Privacy
- - [https://shiftretail.vcu.edu](https://shiftretail.vcu.edu)
- - date_published: 2024-07-02T12:42:37.061932+00:00
-
- ## Commitment to Privacy
- - [https://siam.vcu.edu](https://siam.vcu.edu)
- - date_published: 2024-07-02T12:50:36.177281+00:00
-
- ## Commitment to Privacy
- - [https://sigmaxi.vcu.edu](https://sigmaxi.vcu.edu)
- - date_published: 2024-07-02T12:46:02.347552+00:00
-
- ## Commitment to Privacy
- - [https://sil.vcu.edu](https://sil.vcu.edu)
- - date_published: 2024-07-02T12:44:48.650861+00:00
-
- ## Commitment to Privacy
- - [https://socialmedia.vcu.edu](https://socialmedia.vcu.edu)
- - date_published: 2024-05-07T22:23:59.114398+00:00
-
- ## Social Welfare History Project
- - [https://socialwelfare.library.vcu.edu](https://socialwelfare.library.vcu.edu)
- - date_published: 2023-06-06T15:27:38+00:00
-
- ## Commitment to Privacy
- - [https://socialwork.vcu.edu](https://socialwork.vcu.edu)
- - date_published: 2024-07-02T12:57:40.302000+00:00
-
- ## Commitment to Privacy
- - [https://societyhealth.vcu.edu](https://societyhealth.vcu.edu)
- - date_published: 2024-07-02T12:45:36.607416+00:00
-
- ## Commitment to Privacy
- - [https://sociology.vcu.edu](https://sociology.vcu.edu)
- - date_published: 2024-07-02T12:47:40.589471+00:00
-
- ## Commitment to Privacy
- - [https://soe.vcu.edu](https://soe.vcu.edu)
- - date_published: 2024-07-02T12:46:51.403681+00:00
-
- ## Commitment to Privacy
- - [https://soi.partnership.vcu.edu](https://soi.partnership.vcu.edu)
- - date_published: 2024-07-02T12:47:08.287443+00:00
-
- ## VCU Secrets of the Sequence – VCU Life Sciences
- - [https://sosq.vcu.edu](https://sosq.vcu.edu)
- - date_published: 2024-07-02T12:46:05.828536+00:00
-
- ## Commitment to Privacy
- - [https://sph.vcu.edu](https://sph.vcu.edu)
- - date_published: 2024-12-30T09:37:38.908605+00:00
 

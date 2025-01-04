@@ -1,3 +1,19 @@
+ ## Data Scorecard
+ - [https://data-scorecard.alteryx.com](https://data-scorecard.alteryx.com)
+ - date_published: 2024-06-10T19:46:39+00:00
+
+ ## Alteryx Help Documentation
+ - [https://help.alteryx.com](https://help.alteryx.com)
+ - date_published: 2024-05-10T15:46:38+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://investor.alteryx.com](https://investor.alteryx.com)
+ - date_published: 2024-06-16T20:11:36.161502+00:00
+
+ ## Mission Control
+ - [http://licenses.alteryx.com](http://licenses.alteryx.com)
+ - date_published: 2024-05-17T18:54:46+00:00
+
  ## Alteryx Marketplace | Alteryx Marketplace
  - [https://marketplace.alteryx.com](https://marketplace.alteryx.com)
  - date_published: 2024-06-16T20:11:45.946942+00:00
@@ -4032,21 +4048,4 @@
  ## AnalogFX - AnalogFX
  - [https://www.analogfx.com](https://www.analogfx.com)
  - date_published: 2022-12-29T00:00:00+00:00
-
- ## Tips on designing with analog ICs used in all types of electronic equipment
- - [https://analogictips.com](https://analogictips.com)
- - date_published: 2024-06-20T05:45:30.847305+00:00
-
- ## AnalogLamb – IoT, FPGA and AI Boards
- - [https://www.analoglamb.com](https://www.analoglamb.com)
- - date_published: 2024-09-05T18:28:29.897341+00:00
-
- ## Analog Mantra
- - [https://analogmantra.com](https://analogmantra.com)
- - date_published: 2023-10-25T09:04:32.622907+00:00
- - tags: ['personal']
-
- ## Tumblr
- - [https://photos.analogmantra.com](https://photos.analogmantra.com)
- - date_published: 2013-07-24T00:00:00+00:00
 

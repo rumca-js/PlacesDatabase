@@ -1,3 +1,160 @@
+ ## Urząd Statystyczny w Zielonej Górze
+ - [http://zielonagora.stat.gov.pl](http://zielonagora.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:45+00:00
+
+ ## Zakład Wydawnictw Statystycznych
+ - [http://zws.stat.gov.pl](http://zws.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:42+00:00
+
+ ## Urząd Dozoru Technicznego - Aktualności - przegląd
+ - [https://www.udt.gov.pl](https://www.udt.gov.pl)
+ - date_published: 2024-07-14T05:26:45+00:00
+
+ ## Centrum Informacji Konsumenckiej
+ - [https://cik.uke.gov.pl](https://cik.uke.gov.pl)
+ - date_published: 2024-07-09T20:15:13+00:00
+
+ ## Strona główna- Urząd Ochrony Danych Osobowych.
+ - [https://uodo.gov.pl](https://uodo.gov.pl)
+ - date_published: 2024-05-09T06:26:58.562360+00:00
+
+ ## UOKiK - Strona główna
+ - [https://archiwum.uokik.gov.pl](https://archiwum.uokik.gov.pl)
+ - date_published: 2024-07-09T20:15:12.729498+00:00
+
+ ## Urząd Ochrony Konkurencji i Konsumentów
+ - [https://decyzje.uokik.gov.pl](https://decyzje.uokik.gov.pl)
+ - date_published: 2024-07-09T20:15:06.760511+00:00
+
+ ## Przewaga kontraktowa - Strona główna
+ - [https://przewagakontraktowa.uokik.gov.pl](https://przewagakontraktowa.uokik.gov.pl)
+ - date_published: 2024-07-09T09:24:03+00:00
+
+ ## Urząd Ochrony Konkurencji i Konsumentów
+ - [https://uokik.gov.pl](https://uokik.gov.pl)
+ - date_published: 2024-07-09T17:48:40.984487+00:00
+
+ ## UOKiK - rejestr klauzul niedozwolonych - Strona główna
+ - [https://www.rejestr.uokik.gov.pl](https://www.rejestr.uokik.gov.pl)
+ - date_published: 2024-07-09T20:15:08.899813+00:00
+
+ ## Strona główna - kompendium wiedzy o zatorach płatniczych
+ - [https://zatoryplatnicze.uokik.gov.pl](https://zatoryplatnicze.uokik.gov.pl)
+ - date_published: 2024-07-09T09:26:41+00:00
+
+ ## Główny Inspektorat Weterynarii
+ - [https://bip.wetgiw.gov.pl](https://bip.wetgiw.gov.pl)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Główny Inspektorat Weterynarii
+ - [https://interwencja.wetgiw.gov.pl](https://interwencja.wetgiw.gov.pl)
+ - date_published: 2024-08-11T15:44:09.952810+00:00
+
+ ## Rejestr Podmiotów
+ - [https://pasze.wetgiw.gov.pl](https://pasze.wetgiw.gov.pl)
+ - date_published: 2024-08-11T15:44:12.090290+00:00
+
+ ## Strona główna | Główny Inspektorat Weterynarii
+ - [https://wetgiw.gov.pl](https://wetgiw.gov.pl)
+ - date_published: 2024-02-24T00:02:31.622833+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.www.gov.pl](https://matomo.www.gov.pl)
+ - date_published: 2024-07-09T07:29:16.693216+00:00
+
+ ## JPK - Jednolity Plik Kontrolny - fillUp JPKomat
+ - [https://jpk.info.pl](https://jpk.info.pl)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Związek Gmin Jurajskich | Ogrodzieniec, Podzamcze, Zawiercie, Kraków, Częstochowa
+ - [https://www.jura.info.pl](https://www.jura.info.pl)
+ - date_published: 2024-12-07T18:27:41.758046+00:00
+
+ ## Strona domeny laptopy.info.pl
+ - [https://laptopy.info.pl](https://laptopy.info.pl)
+ - date_published: 2024-05-29T10:48:23.131178+00:00
+
+ ## Rzymskokatolicka Parafia Wojskowa pw. św. Jerzego w Białymstoku
+ - [http://www.sjerzy.parafia.info.pl](http://www.sjerzy.parafia.info.pl)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Miejskie Przedsiębiorstwo Gospodarki Komunalnej - MPGK
+ - [https://www.mpgk.jgora.pl](https://www.mpgk.jgora.pl)
+ - date_published: 2024-08-18T17:10:53.717073+00:00
+
+ ## Strona główna - MZK
+ - [https://mzk.jgora.pl](https://mzk.jgora.pl)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Sudeckie Hotele i Schroniska PTTK
+ - [https://www.pttk.jgora.pl](https://www.pttk.jgora.pl)
+ - date_published: 2024-05-17T08:53:27+00:00
+
+ ## Zielony Domek w Karpaczu – Zielony Domek Apartamenty w Karpaczu
+ - [https://www.zielony-domek.karpacz.pl](https://www.zielony-domek.karpacz.pl)
+ - date_published: 2024-08-18T04:21:00.543716+00:00
+
+ ## Strona główna | Uniwersytet Ekonomiczny w Katowicach
+ - [https://www.ue.katowice.pl](https://www.ue.katowice.pl)
+ - date_published: 2024-07-14T05:37:04.102933+00:00
+
+ ## Kołobrzeska Karta Mieszkańca
+ - [https://kkm.kolobrzeg.pl](https://kkm.kolobrzeg.pl)
+ - date_published: 2024-10-16T19:15:19.415283+00:00
+
+ ## Strona główna - Word
+ - [https://word.konin.pl](https://word.konin.pl)
+ - date_published: 2024-01-29T00:00:00+00:00
+ - tags: ['ośrodek ruchu drogowego']
+
+ ## Biuletyny Informacji Publicznej
+ - [http://bip.malopolska.pl](http://bip.malopolska.pl)
+ - date_published: 2024-05-10T10:21:22+00:00
+
+ ## Wirtualne Muzea Małopolski
+ - [https://muzea.malopolska.pl](https://muzea.malopolska.pl)
+ - date_published: 2024-06-12T06:57:42+00:00
+
+ ## PCK Kraków // Polski Czerwony Krzyż w Krakowie - Oficjalny Serwis
+ - [http://pck.malopolska.pl](http://pck.malopolska.pl)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## SDU MAŁOPOLSKA - 7. Światowy Dzień Ubogich
+ - [http://sdu.malopolska.pl](http://sdu.malopolska.pl)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Małopolska - Urząd Marszałkowski Województwa Małopolskiego » Małopolska
+ - [https://www.malopolska.pl](https://www.malopolska.pl)
+ - date_published: 2024-07-09T13:24:06.588811+00:00
+
+ ## Wrota Warmii i Mazur - Regionalny portal informacyjny - Home
+ - [https://warmia.mazury.pl](https://warmia.mazury.pl)
+ - date_published: 2024-05-29T09:57:58.809833+00:00
+
+ ## Astronomia - jedyny miesięcznik dla miłośników astronomii w Polsce
+ - [http://astronomia.media.pl](http://astronomia.media.pl)
+ - date_published: 2024-08-19T23:57:32.335673+00:00
+
+ ## Foldruk - drukarnia, poligrafia, reklama zewnętrzna,
+ - [http://www.foldruk.media.pl](http://www.foldruk.media.pl)
+ - date_published: 2024-09-02T13:53:34.745023+00:00
+
+ ## CARPATIA • Portal
+ - [http://www.carpatia.mielec.pl](http://www.carpatia.mielec.pl)
+ - date_published: 2024-08-06T22:26:46.839323+00:00
+
+ ## Strona główna - Elektrociepłownia Mielec Sp. z o.o.
+ - [https://ec.mielec.pl](https://ec.mielec.pl)
+ - date_published: 2024-07-09T16:30:47.857394+00:00
+
+ ## CSIRT MON
+ - [https://csirt-mon.wp.mil.pl](https://csirt-mon.wp.mil.pl)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Wojskowe Biuro Historyczne
+ - [http://wbh.wp.mil.pl](http://wbh.wp.mil.pl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## Strona główna
  - [http://www.ordynariat.wp.mil.pl](http://www.ordynariat.wp.mil.pl)
  - date_published: 2024-07-11T00:00:00+00:00
@@ -3947,163 +4104,4 @@ Polska 1939
  ## Dekodowanie kodu AZTEC 2D z dowodu rejestracyjnego
  - [https://dekoderaztec.pl](https://dekoderaztec.pl)
  - date_published: 2024-05-11T08:34:13.137707+00:00
-
- ## Hyundai Używane
- - [https://hyundai.dekra.pl](https://hyundai.dekra.pl)
- - date_published: 2024-07-19T22:41:17.614546+00:00
-
- ## Delicious Magazine
- - [https://deliciousmagazine.pl](https://deliciousmagazine.pl)
- - date_published: 2024-12-30T01:43:29.035034+00:00
-
- ## DeliGoo - Ty sprzedajesz, my dostarczamy | Dostawy na żądanie dla twojej firmy
- - [https://deligoo.pl](https://deligoo.pl)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Największy sklep ze sprzętem obserwacyjnym w Polsce - Teleskopy, lornetki, mikroskopy, noktowizja, termowizja
- - [https://deltaoptical.pl](https://deltaoptical.pl)
- - date_published: 2024-06-26T11:44:49.327500+00:00
-
- ## Demotywatory.pl
- - [https://demotywatory.pl](https://demotywatory.pl)
- - date_published: 2023-10-31T13:19:51.709657+00:00
- - tags: ['memes', 'funny images']
-
- ## Demotywatory.pl
- - [http://m.demotywatory.pl](http://m.demotywatory.pl)
- - date_published: 2024-07-11T15:36:37.226444+00:00
-
- ## Demotywatory.pl
- - [https://img15.demotywatoryfb.pl](https://img15.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:13.860010+00:00
-
- ## Demotywatory.pl
- - [https://img17.demotywatoryfb.pl](https://img17.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:36:49.258439+00:00
-
- ## Demotywatory.pl
- - [https://img21.demotywatoryfb.pl](https://img21.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:03.970810+00:00
-
- ## Demotywatory.pl
- - [https://img27.demotywatoryfb.pl](https://img27.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:36:55.354198+00:00
-
- ## Demotywatory.pl
- - [https://img29.demotywatoryfb.pl](https://img29.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:36:50.646893+00:00
-
- ## Demotywatory.pl
- - [https://img7.demotywatoryfb.pl](https://img7.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:12.333792+00:00
-
- ## Demotywatory.pl
- - [https://img8.demotywatoryfb.pl](https://img8.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:09.464074+00:00
-
- ## Biblia Tysiąclecia - Pismo Święte Starego i Nowego Testamentu
- - [https://biblia.deon.pl](https://biblia.deon.pl)
- - date_published: 2024-05-29T11:08:20.108167+00:00
-
- ## BLOG.DEON.PL – O Kościele Z KAŻDEJ STRONY
- - [https://blog.deon.pl](https://blog.deon.pl)
- - date_published: 2024-05-29T11:08:18.959568+00:00
-
- ## DEON.pl
- - [https://deon.pl](https://deon.pl)
- - date_published: 2023-10-25T22:26:47.842454+00:00
- - tags: ['christian news', 'catholic news', 'religion']
-
- ## Dobra wnuczka – Przyszłość zaczęła się wczoraj
- - [https://dobrawnuczka.blog.deon.pl](https://dobrawnuczka.blog.deon.pl)
- - date_published: 2024-05-29T11:08:29.494359+00:00
-
- ## druga
- - [https://druga.blog.deon.pl](https://druga.blog.deon.pl)
- - date_published: 2024-05-29T11:08:13.302712+00:00
-
- ## Jaśminowa | codzienność pełna Boga
- - [https://jasminowa.blog.deon.pl](https://jasminowa.blog.deon.pl)
- - date_published: 2024-05-29T11:08:25.961005+00:00
-
- ## Magdalena Urbańska – Są spojrzenia, które bez słów już są spotkaniem… Są słowa, które znaczą więcej niż spojrzenie… Są spotkania, które odmieniają bieg naszej historii… Zatrzymaj się, posiedź u mnie chwilkę, odpocznij…
- - [https://niezawodnanadzieja.blog.deon.pl](https://niezawodnanadzieja.blog.deon.pl)
- - date_published: 2024-05-29T11:08:17.094401+00:00
-
- ## Pod niebem – blog.deon.pl
- - [https://podniebem.blog.deon.pl](https://podniebem.blog.deon.pl)
- - date_published: 2024-05-29T11:08:21.641887+00:00
-
- ## Siostra Łucja – blog.deon.pl
- - [https://siostralucja.blog.deon.pl](https://siostralucja.blog.deon.pl)
- - date_published: 2024-05-29T11:08:27.754479+00:00
-
- ## DEON.pl
- - [https://static.deon.pl](https://static.deon.pl)
- - date_published: 2024-05-29T11:08:33.141793+00:00
-
- ## Deorecordings Association - Stowarzyszenie Deorecordings
- - [https://deorecordings.pl](https://deorecordings.pl)
- - date_published: 2024-06-17T16:44:29.437694+00:00
-
- ## Profesjonalne strony internetowe www - Opole
- - [http://www.depcore.pl](http://www.depcore.pl)
- - date_published: 2024-06-24T05:16:53.226298+00:00
-
- ## Strony internetowe Wrocław - Projektowanie stron WWW - Design Solutions
- - [https://designsolutions.pl](https://designsolutions.pl)
- - date_published: 2024-10-30T14:27:28.806381+00:00
-
- ## DevConf 2022
- - [https://2022.devconf.pl](https://2022.devconf.pl)
- - date_published: 2023-11-23T11:08:23+00:00
-
- ## DevConf 2023
- - [https://2023.devconf.pl](https://2023.devconf.pl)
- - date_published: 2023-11-23T10:47:38+00:00
-
- ## DevConf 2024
- - [https://devconf.pl](https://devconf.pl)
- - date_published: 2024-05-07T10:15:11.119833+00:00
- - tags: ['programming', 'conference']
-
- ## DevConf 2024 Registration
- - [http://register.devconf.pl](http://register.devconf.pl)
- - date_published: 2024-06-20T05:53:10.271493+00:00
-
- ## Login
- - [https://devilteam.pl](https://devilteam.pl)
- - date_published: 2024-10-31T07:06:10.489256+00:00
-
- ## Conference for Software Developers
- - [https://devoxx.pl](https://devoxx.pl)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Programowanie — Forum Programistyczne DevStart
- - [https://devstart.pl](https://devstart.pl)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## Blog dla każdego programisty | devstyle.pl
- - [https://devstyle.pl](https://devstyle.pl)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## DFG | Wsparcie rozwoju gospodarczego Dolnego Śląska
- - [http://dfg.pl](http://dfg.pl)
- - date_published: 2024-07-17T07:35:49.105586+00:00
-
- ## Diecezjalna Fundacja Ochrony Życia
- - [https://dfoz.pl](https://dfoz.pl)
- - date_published: 2024-09-20T18:52:57.182326+00:00
-
- ## Elastyczny Hosting WWW: Wybór nr 1 w 2024 roku &#129351; | dhosting.pl
- - [https://dhosting.pl](https://dhosting.pl)
- - date_published: 2024-07-19T23:02:30.428813+00:00
-
- ## Diagnostyka PROFINET - PROFIBUS DP - audyty sieci STERCONTROL
- - [https://www.diagnostyka-sieci.pl](https://www.diagnostyka-sieci.pl)
- - date_published: 2024-09-03T19:58:01.625289+00:00
-
- ## Archiwum - Kolejna witryna sieci „Archidiecezja Krakowska”
- - [https://archiwum.diecezja.pl](https://archiwum.diecezja.pl)
- - date_published: 2024-08-18T14:08:42.275665+00:00
 

@@ -1,3 +1,39 @@
+ ## The Psychology Podcast with Scott Barry Kaufman
+ - [https://psychologypodcast.libsyn.com](https://psychologypodcast.libsyn.com)
+ - date_published: 2024-05-06T14:19:24.202568+00:00
+
+ ## Pure Cinema Podcast
+ - [https://purecinemapodcast.libsyn.com](https://purecinemapodcast.libsyn.com)
+ - date_published: 2024-06-23T03:24:50+00:00
+
+ ## QSO Today Podcast - Interviews with the leaders in amateur radio
+ - [http://qsotoday.libsyn.com](http://qsotoday.libsyn.com)
+ - date_published: 2024-12-26T00:05:16+00:00
+
+ ## Radical Personal Finance
+ - [http://radicalpersonalfinance.libsyn.com](http://radicalpersonalfinance.libsyn.com)
+ - date_published: 2024-06-28T22:25:54+00:00
+
+ ## The Important Thing
+ - [https://rands.libsyn.com](https://rands.libsyn.com)
+ - date_published: 2024-07-09T06:12:47+00:00
+
+ ## A Reader's History of Science Fiction
+ - [https://readershistoryofscifi.libsyn.com](https://readershistoryofscifi.libsyn.com)
+ - date_published: 2024-08-19T10:23:58+00:00
+
+ ## Research in Action
+ - [https://researchinaction.libsyn.com](https://researchinaction.libsyn.com)
+ - date_published: 2024-10-15T22:05:34+00:00
+
+ ## The Retrobits Podcast
+ - [http://retrobits.libsyn.com](http://retrobits.libsyn.com)
+ - date_published: 2024-07-08T19:37:18+00:00
+
+ ## Revolutionary Left Radio
+ - [http://revolutionaryleftradio.libsyn.com](http://revolutionaryleftradio.libsyn.com)
+ - date_published: 2024-08-16T21:42:15+00:00
+
  ## The Official SaaStr Podcast: SaaS | Founders | Investors
  - [https://saastr.libsyn.com](https://saastr.libsyn.com)
  - date_published: 2024-05-06T13:04:05.588838+00:00
@@ -3994,40 +4030,4 @@
  ## Lionsbridge FC
  - [http://www.lionsbridgefc.com](http://www.lionsbridgefc.com)
  - date_published: 2024-07-06T00:00:00+00:00
-
- - [https://www.lionsgate.com](https://www.lionsgate.com)
- - date_published: 2024-06-06T11:17:03+00:00
- - tags: ['movie studio']
-
- ## Lionsgate Limited
- - [https://lionsgatelimited.com](https://lionsgatelimited.com)
- - date_published: 2024-12-12T04:11:50.600951+00:00
-
- ## Lionsgate Sound
- - [https://lionsgatesound.com](https://lionsgatesound.com)
- - date_published: 2024-06-11T04:07:03+00:00
-
- ## Center Directory - Find Center - Lion’s Roar
- - [https://directory.lionsroar.com](https://directory.lionsroar.com)
- - date_published: 2024-09-12T18:38:25.074985+00:00
-
- ## Donate | Lion’s Roar
- - [https://giving.lionsroar.com](https://giving.lionsroar.com)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Homepage
- - [https://learn.lionsroar.com](https://learn.lionsroar.com)
- - date_published: 2024-09-12T18:38:46.454414+00:00
-
- ## Lion’s Roar – Buddhist Wisdom for Our Time
- - [https://lionsroar.com](https://lionsroar.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Lion’s Roar Store - Buddhist Art, Calligraphy, Paintings, Magazines
- - [https://store.lionsroar.com](https://store.lionsroar.com)
- - date_published: 2024-09-12T18:38:44.040414+00:00
-
- ## Lionways | אתרים יוצאים מן הכלל
- - [https://www.lionways.com](https://www.lionways.com)
- - date_published: 2024-10-16T16:40:10+00:00
 

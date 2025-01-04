@@ -1,3 +1,99 @@
+ ## Krajanka
+ - [https://jednodusepoctiva.cz](https://jednodusepoctiva.cz)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## Jedu v ledu
+ - [https://jeduvledu.cz](https://jeduvledu.cz)
+ - date_published: 2024-10-16T13:54:19+00:00
+
+ ## Jeep®  Česká republika
+ - [https://jeep.cz](https://jeep.cz)
+ - date_published: 2024-06-13T10:26:35+00:00
+
+ ## JenProČasopisy – Předplatné časopisů
+ - [https://www.jenprocasopisy.cz](https://www.jenprocasopisy.cz)
+ - date_published: 2024-12-14T11:36:03.828904+00:00
+
+ ## 25+ let zkušeností v private equity - Jet Investment
+ - [https://www.jetinvestment.cz](https://www.jetinvestment.cz)
+ - date_published: 2024-12-13T22:51:00.585250+00:00
+
+ ## Jan Grulich – Fedora, KDE, Qt, C++, QML
+ - [https://jgrulich.cz](https://jgrulich.cz)
+ - date_published: 2024-07-14T03:14:41.392402+00:00
+
+ ## JIC - podnikání dává smysl
+ - [https://jic.cz](https://jic.cz)
+ - date_published: 2024-10-21T08:49:28.272834+00:00
+
+ ## JIC –⁠ Obědy
+ - [https://jicobedy.cz](https://jicobedy.cz)
+ - date_published: 2024-12-14T04:53:22.994409+00:00
+
+ ## Jigové hlavičky a další doplňky pro rybáře - Jigovky.cz
+ - [https://jigovky.cz](https://jigovky.cz)
+ - date_published: 2024-10-18T03:45:28.420000+00:00
+
+ ## MFDF Ji.hlava | Mezinárodní festival dokumentárních filmů Ji.hlava
+ - [http://www.ji-hlava.cz](http://www.ji-hlava.cz)
+ - date_published: 2024-12-14T00:57:29.624295+00:00
+
+ ## Jiri Stepanovsky
+ - [https://jiristepanovsky.cz](https://jiristepanovsky.cz)
+ - date_published: 2023-05-01T23:44:15+00:00
+
+ ## Jižní svah - nejen o víně vážně i nevážně...
+ - [https://jizni-svah.cz](https://jizni-svah.cz)
+ - date_published: 2024-05-07T19:05:17.232157+00:00
+
+ ## Nabídky pozic z celé ČR | JobCity
+ - [https://www.jobcity.cz](https://www.jobcity.cz)
+ - date_published: 2024-12-13T21:28:02.587087+00:00
+
+ ## Kariéra | Bidfood
+ - [https://bidfood.jobs.cz](https://bidfood.jobs.cz)
+ - date_published: 2024-10-16T15:07:54.129937+00:00
+
+ ## Česká televize |  Volná místa
+ - [https://ceskatelevize.jobs.cz](https://ceskatelevize.jobs.cz)
+ - date_published: 2024-05-10T06:09:58.166377+00:00
+
+ ## Kariéra | Česká spořitelna
+ - [https://csas.jobs.cz](https://csas.jobs.cz)
+ - date_published: 2024-06-16T06:14:52.340727+00:00
+
+ ## Práce u nás | Economia, a.s.
+ - [https://economia.jobs.cz](https://economia.jobs.cz)
+ - date_published: 2024-09-05T16:49:40.272502+00:00
+
+ ## Volná místa | Fio banka
+ - [https://fio.jobs.cz](https://fio.jobs.cz)
+ - date_published: 2024-06-16T11:19:45.203185+00:00
+
+ ## Jobs.cz – Spojení s elitou – nabídka práce, volná pracovní místa, brigády i vzdělávání a rozvoj
+ - [https://firmy.jobs.cz](https://firmy.jobs.cz)
+ - date_published: 2024-12-14T07:28:15.498782+00:00
+
+ ## Otevřené pozice | Pracuj v HEINEKEN
+ - [https://heineken.jobs.cz](https://heineken.jobs.cz)
+ - date_published: 2024-10-18T03:54:30.199705+00:00
+
+ ## Jobs.cz – skvělá šance na skvělý job – nabídka práce, volná pracovní místa, brigády i vzdělávání a rozvoj
+ - [https://jobs.cz](https://jobs.cz)
+ - date_published: 2024-07-12T19:49:42.966166+00:00
+
+ ## Kariéra | ...kde jinde.
+ - [https://kdejinde.jobs.cz](https://kdejinde.jobs.cz)
+ - date_published: 2024-07-01T10:20:49.365207+00:00
+
+ ## Kariéra | MANN+HUMMEL
+ - [https://mann-hummel.jobs.cz](https://mann-hummel.jobs.cz)
+ - date_published: 2024-12-14T05:45:11.002791+00:00
+
+ ## Kariéra | Raiffeisenbank
+ - [https://rb.jobs.cz](https://rb.jobs.cz)
+ - date_published: 2024-06-16T06:54:10.681115+00:00
+
  ## Kariéra – Tesco Stores ČR a. s.
  - [https://tesco-stores.jobs.cz](https://tesco-stores.jobs.cz)
  - date_published: 2024-12-14T06:49:21.953021+00:00
@@ -3929,101 +4025,4 @@
  ## Kurzy, školení, studium
  - [https://studium.cz](https://studium.cz)
  - date_published: 2024-12-14T11:10:35.071228+00:00
-
- ## Studuj Matfyz
- - [http://www.studuj-matfyz.cz](http://www.studuj-matfyz.cz)
- - date_published: 2024-12-14T00:26:52.734199+00:00
-
- ## Soutìž v programování
- - [http://sp.stv.cz](http://sp.stv.cz)
- - date_published: 2013-07-04T12:14:53+00:00
-
- ## STYL INVEST s.r.o.
- - [https://www.stylinvest.cz](https://www.stylinvest.cz)
- - date_published: 2024-12-14T05:52:34.941487+00:00
-
- ## SÚKL Přehledy
- - [https://prehledy.sukl.cz](https://prehledy.sukl.cz)
- - date_published: 2024-08-26T11:37:11+00:00
-
- ## Super.cz
- - [https://super.cz](https://super.cz)
- - date_published: 2024-06-10T10:36:02.412508+00:00
- - tags: ['pop news']
-
- ## Online hry zdarma a superhry | SuperGames.cz
- - [http://www.supergames.cz](http://www.supergames.cz)
- - date_published: 2024-07-01T10:28:16.766729+00:00
-
- ## Najděte si svého perfektního učitele
- - [https://superprof.cz](https://superprof.cz)
- - date_published: 2024-06-15T01:27:15.173812+00:00
-
- ## Jediný nástroj, který budete na zákaznické péči potřebovat
- - [https://supportbox.cz](https://supportbox.cz)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Hlavní stránka | Svědectví Romů a Sintů
- - [https://www.svedectviromu.cz](https://www.svedectviromu.cz)
- - date_published: 2024-10-07T19:12:59.061921+00:00
-
- ## Svět Energie - Svět energie.cz
- - [https://www.svetenergie.cz](https://www.svetenergie.cz)
- - date_published: 2024-07-01T10:20:45.603330+00:00
-
- ## Elemir´s Might and Magic Page
- - [http://www.svetmightandmagic.cz](http://www.svetmightandmagic.cz)
- - date_published: 2025-01-01T13:57:30.675992+00:00
-
- ## Svět oken pro Vás již od roku 1999 - česká firma, 36 poboček, tisíce realizací
- - [https://www.svet-oken.cz](https://www.svet-oken.cz)
- - date_published: 2024-09-05T17:04:58.357686+00:00
-
- ## Světová škola
- - [https://www.svetovaskola.cz](https://www.svetovaskola.cz)
- - date_published: 2024-12-13T23:31:35.780730+00:00
-
- ## SvetZeny | Časopis pro ženy, který poradí, pomůže a potěší.
- - [https://svetzeny.cz](https://svetzeny.cz)
- - date_published: 2024-06-10T10:34:29.478958+00:00
-
- ## 30 let svobody? Máme na víc?
- - [https://svobodni.cz](https://svobodni.cz)
- - date_published: 2024-12-14T05:08:52.043570+00:00
-
- ## SW.CZ | Specialista na software
- - [https://www.sw.cz](https://www.sw.cz)
- - date_published: 2024-09-09T22:09:13.732481+00:00
-
- ## Sweetsen fest
- - [https://www.sweetsenfest.cz](https://www.sweetsenfest.cz)
- - date_published: 2024-12-14T04:50:07.803692+00:00
-
- ## Symphony Digital
- - [https://symphony-digital.cz](https://symphony-digital.cz)
- - date_published: 2024-07-01T10:20:30.632722+00:00
-
- ## Sysctl – Open reference
- - [https://sysctl.cz](https://sysctl.cz)
- - date_published: 2024-07-20T19:28:58.267577+00:00
-
- ## Auth
- - [https://auth2.szn.cz](https://auth2.szn.cz)
- - date_published: 2024-07-01T10:22:51.196536+00:00
-
- ## Přihlášení do Seznamu
- - [https://login.szn.cz](https://login.szn.cz)
- - date_published: 2024-05-07T19:06:12.013179+00:00
-
- ## Státní zdravotní ústav - Staráme se o zdravé Česko
- - [http://www.szu.cz](http://www.szu.cz)
- - date_published: 2024-12-14T04:30:24.918106+00:00
-
- ## Úvodní stránka - Technologická agentura ČR
- - [https://www.tacr.cz](https://www.tacr.cz)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Tady můžeš něco změnit | VUT
- - [https://www.tadymuzes.cz](https://www.tadymuzes.cz)
- - date_published: 2023-12-19T00:00:00+00:00
 

@@ -1,3 +1,19 @@
+ ## Stack Exchange Theoretical Computer Science Blog
+ - [http://cstheory.blogoverflow.com](http://cstheory.blogoverflow.com)
+ - date_published: 2017-03-03T15:24:32+00:00
+
+ ## List: Reading list | Curated by Kathleen Underwood | Medium
+ - [http://www.blogpatrol.com](http://www.blogpatrol.com)
+ - date_published: 2024-10-19T04:29:09.514806+00:00
+
+ ## BlogPaws - Collaboration • Education • Community
+ - [http://blogpaws.com](http://blogpaws.com)
+ - date_published: 2024-12-11T12:40:50.144388+00:00
+
+ ## Blogpocket
+ - [https://blogpocket.com](https://blogpocket.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Mastodon
  - [https://federate.blogpocket.com](https://federate.blogpocket.com)
  - date_published: 2024-07-10T09:05:19.297150+00:00
@@ -3994,20 +4010,4 @@
  ## Anything Goes.
  - [http://anythinggoesatvt.blogspot.com](http://anythinggoesatvt.blogspot.com)
  - date_published: 2024-07-03T02:52:34+00:00
-
- ## Mustering the Troops
- - [http://anzacdiorama.blogspot.com](http://anzacdiorama.blogspot.com)
- - date_published: 2024-12-28T10:52:22+00:00
-
- ## Anzac Plastic
- - [http://anzacplastic.blogspot.com](http://anzacplastic.blogspot.com)
- - date_published: 2024-11-01T07:38:33+00:00
-
- ## A Painter's Thoughts
- - [https://a-painters-thoughts.blogspot.com](https://a-painters-thoughts.blogspot.com)
- - date_published: 2024-08-31T15:24:42+00:00
-
- ## A painting chaos
- - [http://apaintingchaos.blogspot.com](http://apaintingchaos.blogspot.com)
- - date_published: 2024-10-11T23:20:38+00:00
 

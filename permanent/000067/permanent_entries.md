@@ -1,3 +1,19 @@
+ ## Complexion Magazine
+ - [http://complexion-magazine-template.blogspot.com](http://complexion-magazine-template.blogspot.com)
+ - date_published: 2024-11-23T11:01:33+00:00
+
+ ## Complex Matters
+ - [http://complexmatters.blogspot.com](http://complexmatters.blogspot.com)
+ - date_published: 2024-03-13T19:20:37+00:00
+
+ ## Perle Complottiste
+ - [https://complottismo.blogspot.com](https://complottismo.blogspot.com)
+ - date_published: 2024-07-04T06:14:20+00:00
+
+ ## Components of Independence
+ - [http://componentsofindependence.blogspot.com](http://componentsofindependence.blogspot.com)
+ - date_published: 2024-10-21T14:47:00.527685+00:00
+
  ## Computación Cuántica
  - [http://computacioncuantica.blogspot.com](http://computacioncuantica.blogspot.com)
  - date_published: 2024-10-19T07:39:54.906462+00:00
@@ -3988,20 +4004,4 @@
  ## doodlin'
  - [http://doodlin.blogspot.com](http://doodlin.blogspot.com)
  - date_published: 2015-08-26T00:00:00+00:00
-
- ## DOOM Retro
- - [https://doomretro.blogspot.com](https://doomretro.blogspot.com)
- - date_published: 2024-10-28T21:48:37+00:00
-
- ## Doom Rides To Silverado
- - [http://doomrides.blogspot.com](http://doomrides.blogspot.com)
- - date_published: 2024-11-01T10:38:52+00:00
-
- ## Doomslakers!
- - [http://doomslakers.blogspot.com](http://doomslakers.blogspot.com)
- - date_published: 2024-07-15T01:11:55+00:00
-
- ## Blogger
- - [http://doorknockers.blogspot.com](http://doorknockers.blogspot.com)
- - date_published: 2024-10-21T17:05:47.617969+00:00
 

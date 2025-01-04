@@ -1,13 +1,160 @@
+ ## Member Enrollment | The Linux Foundation
+ - [https://joinnow.platform.linuxfoundation.org](https://joinnow.platform.linuxfoundation.org)
+ - date_published: 2024-06-18T17:23:47+00:00
+
+ ## LF Energy – Leading the energy transition through  global open source collaboration.
+ - [https://lfenergy.dev-lfprojects3.linuxfoundation.org](https://lfenergy.dev-lfprojects3.linuxfoundation.org)
+ - date_published: 2024-07-04T08:11:09.854593+00:00
+
+ ## LFX Tools | Linux Foundation – Build and scale sustainable open technologies
+ - [https://lfx.linuxfoundation.org](https://lfx.linuxfoundation.org)
+ - date_published: 2024-05-07T23:52:39.515082+00:00
+
+ ## Linux Foundation - Decentralized innovation, built with trust
+ - [https://linuxfoundation.org](https://linuxfoundation.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+ - tags: ['linux']
+
+ ## lists.linuxfoundation.org Mailing Lists
+ - [https://lists.linuxfoundation.org](https://lists.linuxfoundation.org)
+ - date_published: 2024-07-10T02:21:26.901031+00:00
+
+ ## Linux Foundation Projects – Linux Foundation Projects Site
+ - [https://live-lfprojects3.linuxfoundation.org](https://live-lfprojects3.linuxfoundation.org)
+ - date_published: 2024-06-22T20:39:13.956910+00:00
+
+ ## Individual Dashboard | The Linux Foundation
+ - [https://myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org)
+ - date_published: 2024-06-18T18:07:56+00:00
+
+ ## Home - Open Mainframe Project
+ - [https://omfp.dev-lfprojects3.linuxfoundation.org](https://omfp.dev-lfprojects3.linuxfoundation.org)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Linux Foundation Referenced Specifications
+ - [https://refspecs.linuxfoundation.org](https://refspecs.linuxfoundation.org)
+ - date_published: 2024-05-07T16:31:45.242588+00:00
+
+ ## Linux Foundation - Decentralized innovation, built with trust
+ - [https://sso.linuxfoundation.org](https://sso.linuxfoundation.org)
+ - date_published: 2024-08-07T14:46:30+00:00
+
+ ## Open Source Training | Linux Foundation Training and Certification
+ - [https://training.linuxfoundation.org](https://training.linuxfoundation.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The Linux Foundation
+ - [https://trainingportal.linuxfoundation.org](https://trainingportal.linuxfoundation.org)
+ - date_published: 2024-07-03T00:00:07.562697+00:00
+
+ ## start [Wiki]
+ - [https://wiki.linuxfoundation.org](https://wiki.linuxfoundation.org)
+ - date_published: 2024-07-04T03:53:27.188189+00:00
+
+ ## The Yocto Project
+ - [https://yocto.dev-lfprojects3.linuxfoundation.org](https://yocto.dev-lfprojects3.linuxfoundation.org)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## LFX Meetings
+ - [https://zoom-lfx.platform.linuxfoundation.org](https://zoom-lfx.platform.linuxfoundation.org)
+ - date_published: 2024-05-20T16:07:51+00:00
+
+ ## Accueil - LinuxFr.org
+ - [https://linuxfr.org](https://linuxfr.org)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Espoir RIC mouvement pour l'instauration du RIC Constituant
+ - [http://www.linux-france.org](http://www.linux-france.org)
+ - date_published: 2024-12-12T09:20:30+00:00
+
+ ## Linux Freak - help, guides and occasional opinion.
+ - [https://linuxfreak.org](https://linuxfreak.org)
+ - date_published: 2014-10-02T00:00:00+00:00
+
+ ## Welcome to Linux From Scratch!
+ - [https://linuxfromscratch.org](https://linuxfromscratch.org)
+ - date_published: 2023-10-25T21:39:07.168165+00:00
+ - tags: ['operating system']
+
+ ## Linuxfx Operating System
+ - [https://linuxfx.org](https://linuxfx.org)
+ - date_published: 2024-04-13T18:22:38+00:00
+ - tags: ['linux', 'operating system']
+
+ ## Linux Graphic - Site sur l'infographie sous Linux en Français
+ - [https://linuxgraphic.org](https://linuxgraphic.org)
+ - date_published: 2024-12-12T12:27:10.116346+00:00
+
+ ## Linux Help GIT
+ - [https://git.linux-help.org](https://git.linux-help.org)
+ - date_published: 2024-09-05T18:26:13.002265+00:00
+
+ ## KVM
+ - [https://linux-kvm.org](https://linux-kvm.org)
+ - date_published: 2024-05-08T09:37:17.323774+00:00
+
+ ## Libertine Fonts – Libre multilingual font family
+ - [https://linuxlibertine.org](https://linuxlibertine.org)
+ - date_published: 2024-07-03T01:42:02.766590+00:00
+
+ ## The Linux/m68k Home Pages
+ - [http://linux-m68k.org](http://linux-m68k.org)
+ - date_published: 2016-01-08T19:57:27+00:00
+
+ ## Linux/m68k for Macintosh - home
+ - [https://mac.linux-m68k.org](https://mac.linux-m68k.org)
+ - date_published: 2024-07-10T19:02:06.168723+00:00
+
+ ## Sublicense the Linux Mark | Linux Foundation
+ - [https://linuxmark.org](https://linuxmark.org)
+ - date_published: 2024-07-03T00:48:50+00:00
+
+ ## linux-maroc.org - Ta strona jest na sprzedaż! - linux maroc Zasoby i informacje.
+ - [https://linux-maroc.org](https://linux-maroc.org)
+ - date_published: 2024-12-12T12:25:42+00:00
+
+ ## LinuxMM - linux-mm.org Wiki
+ - [https://linux-mm.org](https://linux-mm.org)
+ - date_published: 2006-04-09T00:00:00+00:00
+
+ ## Linux OTC
+ - [https://linuxotc.org](https://linuxotc.org)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## GitHub - linux-pam/linux-pam: Linux PAM (Pluggable Authentication Modules for Linux) project
+ - [http://linux-pam.org](http://linux-pam.org)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## LinuxPhoneApps.org
+ - [https://linuxphoneapps.org](https://linuxphoneapps.org)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Linux Plumbers Conference 2018
+ - [https://blog.linuxplumbersconf.org](https://blog.linuxplumbersconf.org)
+ - date_published: 2020-06-16T16:01:07+00:00
+
+ ## Linux Plumbers Conference 2024
+ - [https://linuxplumbersconf.org](https://linuxplumbersconf.org)
+ - date_published: 2024-07-15T02:56:10.728973+00:00
+
+ ## Linux Preview - Noticias Linux, software libre, ciencia y tecnología
+ - [https://linuxpreview.org](https://linuxpreview.org)
+ - date_published: 2023-12-29T06:10:08+00:00
+
+ ## LinuxQuestions.org Deals
+ - [https://deals.linuxquestions.org](https://deals.linuxquestions.org)
+ - date_published: 2024-08-05T18:36:53.257054+00:00
+
  ## > Download Linux - LQ ISO
  - [http://iso.linuxquestions.org](http://iso.linuxquestions.org)
  - date_published: 2024-08-05T18:36:41.466062+00:00
 
  ## Jeremy's Blog
- - [http://jeremy.linuxquestions.org](http://jeremy.linuxquestions.org)
+ - [https://jeremy.linuxquestions.org](https://jeremy.linuxquestions.org)
  - date_published: 2024-08-05T00:00:00+00:00
 
  ## LinuxQuestions.org
- - [https://linuxquestions.org](https://linuxquestions.org)
+ - [http://linuxquestions.org](http://linuxquestions.org)
  - date_published: 2024-04-29T04:43:18.888939+00:00
 
  ## Revive Adserver
@@ -15,19 +162,19 @@
  - date_published: 2024-08-05T18:36:43.215274+00:00
 
  ## LQWiki
- - [http://wiki.linuxquestions.org](http://wiki.linuxquestions.org)
+ - [https://wiki.linuxquestions.org](https://wiki.linuxquestions.org)
  - date_published: 2021-12-15T00:00:00+00:00
 
  ## bugs.linuxsampler.org
- - [http://bugs.linuxsampler.org](http://bugs.linuxsampler.org)
+ - [https://bugs.linuxsampler.org](https://bugs.linuxsampler.org)
  - date_published: 2020-08-31T12:14:38+00:00
 
  ## LinuxSampler Documents
- - [http://doc.linuxsampler.org](http://doc.linuxsampler.org)
+ - [https://doc.linuxsampler.org](https://doc.linuxsampler.org)
  - date_published: 2024-01-26T20:04:12+00:00
 
  ## The Linux Sampler Project
- - [https://www.linuxsampler.org](https://www.linuxsampler.org)
+ - [https://linuxsampler.org](https://linuxsampler.org)
  - date_published: 2024-03-26T00:00:00+00:00
 
  ## linux-sunxi.org
@@ -39,7 +186,7 @@
  - date_published: 2024-05-12T06:58:19.488148+00:00
 
  ## Mission and Activities of the Linux Verification Center | Linux Verification Center
- - [http://linuxtesting.org](http://linuxtesting.org)
+ - [https://linuxtesting.org](https://linuxtesting.org)
  - date_published: 2024-07-04T11:17:12+00:00
 
  ## Linuxtracker .::. The Premier Linux Bittorrent Website
@@ -47,16 +194,16 @@
  - date_published: 2024-04-28T01:56:25.366744+00:00
 
  ## linuxunited.org
- - [http://linuxunited.org](http://linuxunited.org)
+ - [https://linuxunited.org](https://linuxunited.org)
  - date_published: 2024-07-11T11:40:40.854249+00:00
 
  ## LiViD - The Linux Video Project
- - [http://www.linuxvideo.org](http://www.linuxvideo.org)
+ - [https://linuxvideo.org](https://linuxvideo.org)
  - date_published: 2001-11-01T00:00:00+00:00
 
  ## The Linux Virtual Server Project - Linux Server Cluster for Load Balancing
  - [https://linuxvirtualserver.org](https://linuxvirtualserver.org)
- - date_published: 2014-10-16T13:20:58+00:00
+ - date_published: 2012-08-08T10:30:06+00:00
 
  ## Index of /
  - [http://ftp.linux-vserver.org](http://ftp.linux-vserver.org)
@@ -71,11 +218,11 @@
  - date_published: 2024-07-13T07:56:50.270336+00:00
 
  ## Lin Zhong's homepage; 钟林
- - [https://www.linzhong.org](https://www.linzhong.org)
+ - [https://linzhong.org](https://linzhong.org)
  - date_published: 2024-07-27T05:44:08+00:00
 
  ## Home - Licht im Osten - en
- - [https://www.lio.org](https://www.lio.org)
+ - [https://lio.org](https://lio.org)
  - date_published: 2024-07-07T04:27:22.030555+00:00
 
  ## The Liology Institute
@@ -83,11 +230,11 @@
  - date_published: 2024-06-12T12:47:04.380476+00:00
 
  ## Home | Lions Clubs International
- - [https://www.lionsclubs.org](https://www.lionsclubs.org)
+ - [https://lionsclubs.org](https://lionsclubs.org)
  - date_published: 2024-06-26T20:39:27+00:00
 
  ## สโมสรไลออนส์สากลภาค 310 เอ2 – Lions Clubs District 310 A2
- - [https://www.lionsclubs310a2.org](https://www.lionsclubs310a2.org)
+ - [https://lionsclubs310a2.org](https://lionsclubs310a2.org)
  - date_published: 2024-07-17T07:47:21.237775+00:00
 
  ## Lions Talk Science
@@ -95,7 +242,7 @@
  - date_published: 2024-12-16T07:57:06.000260+00:00
 
  ## Home | Legal Information Preservation Alliance
- - [http://lipalliance.org](http://lipalliance.org)
+ - [https://lipalliance.org](https://lipalliance.org)
  - date_published: 2024-07-17T14:07:11.448846+00:00
 
  ## Lipscomb Academy
@@ -111,15 +258,15 @@
  - date_published: 2024-05-14T00:00:00+00:00
 
  ## Liquibase Community
- - [https://www.liquibase.org](https://www.liquibase.org)
+ - [https://liquibase.org](https://liquibase.org)
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## Liquid Information
- - [http://www.liquidinformation.org](http://www.liquidinformation.org)
+ - [https://liquidinformation.org](https://liquidinformation.org)
  - date_published: 2006-07-06T23:56:29+00:00
 
  ## Liquid Sunlight Alliance
- - [https://www.liquidsunlightalliance.org](https://www.liquidsunlightalliance.org)
+ - [https://liquidsunlightalliance.org](https://liquidsunlightalliance.org)
  - date_published: 2024-07-22T06:55:52.429547+00:00
 
  ## Official Liquity Documentation | Liquity Docs
@@ -127,7 +274,7 @@
  - date_published: 2024-02-15T00:00:00+00:00
 
  ## Liquity  | Interest-free Borrowing on Ethereum
- - [https://www.liquity.org](https://www.liquity.org)
+ - [https://liquity.org](https://liquity.org)
  - date_published: 2024-09-03T00:00:00+00:00
 
  ## LIRC - Linux Infrared Remote Control
@@ -135,7 +282,7 @@
  - date_published: 2022-10-05T19:27:46+00:00
 
  ## Schedules
- - [http://traintime.lirr.org](http://traintime.lirr.org)
+ - [https://traintime.lirr.org](https://traintime.lirr.org)
  - date_published: 2024-06-28T13:48:26+00:00
 
  ## RAS LISA IX - Home
@@ -143,8 +290,8 @@
  - date_published: 2024-08-11T15:10:32+00:00
 
  ## In business since 2004. Premium Web Hosting for small and big
- - [http://www.lisbon-treaty.org](http://www.lisbon-treaty.org)
- - date_published: 2024-10-21T12:05:49.944503+00:00
+ - [https://lisbon-treaty.org](https://lisbon-treaty.org)
+ - date_published: 2023-02-18T11:34:23+00:00
 
  ## DartFrontend
  - [https://dart.lisdatacenter.org](https://dart.lisdatacenter.org)
@@ -163,15 +310,15 @@
  - date_published: 2024-02-29T00:00:00+00:00
 
  ## Walt at Random
- - [http://walt.lishost.org](http://walt.lishost.org)
+ - [https://walt.lishost.org](https://walt.lishost.org)
  - date_published: 2024-07-02T10:27:56.483318+00:00
 
  ## LISNews – News For Librarians – Since 1999
- - [http://lisnews.org](http://lisnews.org)
+ - [https://lisnews.org](https://lisnews.org)
  - date_published: 2024-03-10T00:00:00+00:00
 
  ## Planet Lisp
- - [http://planet.lisp.org](http://planet.lisp.org)
+ - [https://planet.lisp.org](https://planet.lisp.org)
  - date_published: 2024-06-22T12:15:46+00:00
 
  ## www.lispcafe.org
@@ -192,7 +339,7 @@
  - tags: ['programming language', 'lisp']
 
  ## Facebook
- - [http://fb.lispnyc.org](http://fb.lispnyc.org)
+ - [https://fb.lispnyc.org](https://fb.lispnyc.org)
  - date_published: 2024-07-07T05:56:25.784306+00:00
 
  ## lisp.nyc: next-meeting
@@ -200,11 +347,11 @@
  - date_published: 2024-07-07T05:56:24.366239+00:00
 
  ## LispNYC | Meetup
- - [http://meetup.lispnyc.org](http://meetup.lispnyc.org)
+ - [https://meetup.lispnyc.org](https://meetup.lispnyc.org)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## New community features for Google Chat and an update on Currents
- - [http://plus.lispnyc.org](http://plus.lispnyc.org)
+ - [https://plus.lispnyc.org](https://plus.lispnyc.org)
  - date_published: 2023-04-12T00:00:00+00:00
 
  ## GNU Mailman
@@ -216,7 +363,7 @@
  - date_published: 2024-01-28T00:00:00+00:00
 
  ## Homepage | Long Island State Veterans Home
- - [https://www.listateveteranshome.org](https://www.listateveteranshome.org)
+ - [https://listateveteranshome.org](https://listateveteranshome.org)
  - date_published: 2024-09-11T19:09:51+00:00
 
  ## ListenBrainz
@@ -240,7 +387,7 @@
  - date_published: 2024-07-24T17:48:50+00:00
 
  ## Listos California
- - [https://www.listoscalifornia.org](https://www.listoscalifornia.org)
+ - [https://listoscalifornia.org](https://listoscalifornia.org)
  - date_published: 2024-07-17T02:37:57.115263+00:00
 
  ## Improve your chess game with spaced repetition - Listudy
@@ -274,13 +421,14 @@
  ## Literacy Trust
  - [https://login.literacytrust.org](https://login.literacytrust.org)
  - date_published: 2024-07-15T06:17:48.774986+00:00
+ - date_dead_since: 2025-01-03T14:48:37.183748+00:00
 
  ## The International Literacy Association
- - [https://www.literacyworldwide.org](https://www.literacyworldwide.org)
+ - [https://literacyworldwide.org](https://literacyworldwide.org)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Literal Barrage
- - [http://literalbarrage.org](http://literalbarrage.org)
+ - [https://literalbarrage.org](https://literalbarrage.org)
  - date_published: 2024-07-09T13:37:06.415058+00:00
 
  ## Literary Arts
@@ -308,7 +456,7 @@
  - date_published: 2024-12-15T18:48:07.647129+00:00
 
  ## Litquake Foundation
- - [https://www.litquake.org](https://www.litquake.org)
+ - [https://litquake.org](https://litquake.org)
  - date_published: 2024-07-08T13:51:54.726244+00:00
 
  ## Take a Book. Share a Book. - Little Free Library
@@ -332,7 +480,7 @@
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## Little Rascals Day Care Case
- - [http://www.littlerascalsdaycarecase.org](http://www.littlerascalsdaycarecase.org)
+ - [https://littlerascalsdaycarecase.org](https://littlerascalsdaycarecase.org)
  - date_published: 2024-03-22T22:48:46+00:00
 
  ## The Public Accountability Initiative –LittleSis –
@@ -340,7 +488,7 @@
  - date_published: 2024-12-24T01:39:11.594634+00:00
 
  ## Pacific Southwest Region - LIUNA
- - [http://www.liunapsw.org](http://www.liunapsw.org)
+ - [https://liunapsw.org](https://liunapsw.org)
  - date_published: 2024-10-28T00:50:59.093722+00:00
 
  ## Home - Livable City
@@ -384,15 +532,15 @@
  - date_published: 2019-01-15T09:05:32+00:00
 
  ## Attention Required! | Cloudflare
- - [https://liveactionlegacy.org](https://liveactionlegacy.org)
+ - [http://liveactionlegacy.org](http://liveactionlegacy.org)
  - date_published: 2024-05-08T09:42:56.626043+00:00
 
  ## Crazy Time Live Casino Game: Crazy Time Statistics and Tracker
- - [https://www.livecrazytime.org](https://www.livecrazytime.org)
+ - [https://livecrazytime.org](https://livecrazytime.org)
  - date_published: 2023-12-24T14:15:27+00:00
 
  ## LIVE Environments
- - [https://www.live-env.org](https://www.live-env.org)
+ - [https://live-env.org](https://live-env.org)
  - date_published: 2024-07-04T19:44:54.818256+00:00
 
  ## Live From Here
@@ -400,11 +548,11 @@
  - date_published: 2024-05-08T09:29:10.274582+00:00
 
  ## Live in Ithaca
- - [https://www.liveinithaca.org](https://www.liveinithaca.org)
+ - [https://liveinithaca.org](https://liveinithaca.org)
  - date_published: 2024-10-18T21:55:43.981459+00:00
 
  ## llff
- - [https://www.livelifefullyfoundation.org](https://www.livelifefullyfoundation.org)
+ - [https://livelifefullyfoundation.org](https://livelifefullyfoundation.org)
  - date_published: 2024-07-10T04:06:30.849381+00:00
 
  ## Introduction - Livepeer Docs
@@ -426,6 +574,7 @@
  ## Livepeer
  - [https://www.limitless.livepeer.org](https://www.limitless.livepeer.org)
  - date_published: 2024-09-23T11:30:35.424547+00:00
+ - date_dead_since: 2025-01-03T14:51:04.928949+00:00
 
  ## Live Portrait AI - Bring Photos to Life with Hugging Face(Free)
  - [https://liveportrait.org](https://liveportrait.org)
@@ -448,16 +597,16 @@
  - date_published: 2024-07-26T00:00:00+00:00
 
  ## Slackware Live Edition
- - [http://liveslak.org](http://liveslak.org)
+ - [https://liveslak.org](https://liveslak.org)
  - date_published: 2015-11-20T22:16:29+00:00
 
  ## Index of /
- - [http://us.liveslak.org](http://us.liveslak.org)
+ - [https://us.liveslak.org](https://us.liveslak.org)
  - date_published: 2024-01-07T00:00:00+00:00
 
  ## LiveSplit
- - [http://livesplit.org](http://livesplit.org)
- - date_published: 2024-10-22T09:34:12.730845+00:00
+ - [https://livesplit.org](https://livesplit.org)
+ - date_published: 2024-05-11T18:36:46+00:00
 
  ## Live Talks Los Angeles
  - [https://livetalksla.org](https://livetalksla.org)
@@ -468,11 +617,11 @@
  - date_published: 2024-05-09T00:00:00+00:00
 
  ## Lubbock Area United Way - Break Barriers & Empower Our Community
- - [http://www.liveunitedlubbock.org](http://www.liveunitedlubbock.org)
+ - [https://liveunitedlubbock.org](https://liveunitedlubbock.org)
  - date_published: 2024-06-04T00:00:00+00:00
 
  ## Living Cities
- - [https://www.livingcities.org](https://www.livingcities.org)
+ - [https://livingcities.org](https://livingcities.org)
  - date_published: 2024-06-23T10:01:36.293332+00:00
 
  ## Living Code
@@ -482,17 +631,19 @@
  ## Living Computers: Museum + Labs
  - [https://livingcomputers.org](https://livingcomputers.org)
  - date_published: 2024-05-05T19:23:52.042049+00:00
+ - date_dead_since: 2025-01-03T14:54:23.056114+00:00
 
  ## History Lives in You. - Living History: Campaign for the National Museum of African American History & Culture
  - [https://www.livinghistorycampaign.org](https://www.livinghistorycampaign.org)
  - date_published: 2024-06-13T00:00:00+00:00
+ - date_dead_since: 2025-01-03T14:54:24.366542+00:00
 
  ## Living in the Future | Films about Community and Sustainability
  - [https://livinginthefuture.org](https://livinginthefuture.org)
  - date_published: 2024-06-12T12:47:58.872944+00:00
 
  ## Living Lands & Waters
- - [https://www.livinglandsandwaters.org](https://www.livinglandsandwaters.org)
+ - [https://livinglandsandwaters.org](https://livinglandsandwaters.org)
  - date_published: 2024-07-17T00:01:54.296453+00:00
 
  ## Living New Deal | Living New Deal
@@ -500,7 +651,7 @@
  - date_published: 2024-01-03T00:00:00+00:00
 
  ## Living on the Real World - Living on the Real World
- - [https://www.livingontherealworld.org](https://www.livingontherealworld.org)
+ - [https://livingontherealworld.org](https://livingontherealworld.org)
  - date_published: 2024-08-18T00:00:00+00:00
 
  ## Homepage - Living Room Conversations
@@ -508,19 +659,19 @@
  - date_published: 2023-08-14T21:22:34+00:00
 
  ## Living Tongues Institute for Endangered Languages
- - [http://www.livingtongues.org](http://www.livingtongues.org)
+ - [https://livingtongues.org](https://livingtongues.org)
  - date_published: 2024-07-02T09:14:26.166981+00:00
 
  ## Living whole
- - [http://living-whole.org](http://living-whole.org)
+ - [https://living-whole.org](https://living-whole.org)
  - date_published: 2024-09-03T23:03:28.513602+00:00
 
  ## Livius - Articles on ancient history
- - [http://www.livius.org](http://www.livius.org)
+ - [https://livius.org](https://livius.org)
  - date_published: 2024-05-08T16:14:38+00:00
 
  ## Liyang Network
- - [https://www.liyangnetwork.org](https://www.liyangnetwork.org)
+ - [https://liyangnetwork.org](https://liyangnetwork.org)
  - date_published: 2024-09-06T21:52:05.522284+00:00
 
  ## Committed to Strengthening our Local Journalism in Delaware. - Local Journalism Initiative
@@ -574,21 +725,22 @@
  ## Unofficial OpenAI Status
  - [https://openai-status.llm-utils.org](https://openai-status.llm-utils.org)
  - date_published: 2024-05-08T09:43:19.388082+00:00
+ - date_dead_since: 2025-01-03T14:55:40.071215+00:00
 
  ## Low Level Radiation Campaign
  - [http://www.llrc.org](http://www.llrc.org)
  - date_published: 2020-05-25T11:59:16+00:00
 
  ## Attention Required! | Cloudflare
- - [https://donate.lls.org](https://donate.lls.org)
+ - [http://donate.lls.org](http://donate.lls.org)
  - date_published: 2024-06-27T06:32:37.432229+00:00
 
  ## Leukemia & Lymphoma Society | Blood Cancer Leaders | LLS
- - [https://www.lls.org](https://www.lls.org)
+ - [https://lls.org](https://lls.org)
  - date_published: 2024-07-04T08:01:34+00:00
 
  ## Loma Linda University Health: The Regional Leader In Health Care
- - [http://www.lluh.org](http://www.lluh.org)
+ - [https://lluh.org](https://lluh.org)
  - date_published: 2024-06-28T12:01:45+00:00
 
  ## LLVM Debian/Ubuntu packages
@@ -710,11 +862,11 @@
  - date_published: 2023-12-14T07:29:19+00:00
 
  ## VMKit: a substrate for virtual machines
- - [http://vmkit.llvm.org](http://vmkit.llvm.org)
+ - [https://vmkit.llvm.org](https://vmkit.llvm.org)
  - date_published: 2024-07-01T06:14:02.085779+00:00
 
  ## QuickStart — llvmpy
- - [http://www.llvmpy.org](http://www.llvmpy.org)
+ - [https://llvmpy.org](https://llvmpy.org)
  - date_published: 2024-06-22T14:02:04+00:00
 
  ## LLVM Weekly - a weekly newsletter covering developments in LLVM, Clang and more
@@ -722,15 +874,15 @@
  - date_published: 2024-05-08T09:43:49.442878+00:00
 
  ## 澜沧江—湄公河合作
- - [http://www.lmcchina.org](http://www.lmcchina.org)
+ - [https://www.lmcchina.org](https://www.lmcchina.org)
  - date_published: 2024-08-29T05:26:36+00:00
 
  ## Cierpliwości...
- - [https://lmcu.org](https://lmcu.org)
+ - [http://lmcu.org](http://lmcu.org)
  - date_published: 2024-05-09T07:36:22.713340+00:00
 
  ## LMFDB - The L-functions and modular forms database
- - [http://lmfdb.org](http://lmfdb.org)
+ - [https://lmfdb.org](https://lmfdb.org)
  - date_published: 2024-06-30T08:21:56.274682+00:00
 
  ## Leon Mika
@@ -742,17 +894,18 @@
  - [https://lmkopernik.org](https://lmkopernik.org)
  - date_published: 2023-12-05T15:16:55+00:00
  - tags: ['freemasonry']
+ - date_dead_since: 2025-01-03T15:00:28.363015+00:00
 
  ## Welcome » L.M. Montgomery Online
  - [https://lmmonline.org](https://lmmonline.org)
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## Attention Required! | Cloudflare
- - [https://arena.lmsys.org](https://arena.lmsys.org)
+ - [http://arena.lmsys.org](http://arena.lmsys.org)
  - date_published: 2024-05-08T09:45:25.543993+00:00
 
  ## Mistral AI launches Mixtral-Next
- - [https://chat.lmsys.org](https://chat.lmsys.org)
+ - [http://chat.lmsys.org](http://chat.lmsys.org)
  - date_published: 2024-02-17T03:46:24+00:00
 
  ## LMSYS Org
@@ -802,11 +955,11 @@
  - date_published: 2024-05-08T09:45:31.301754+00:00
 
  ## Load balancing will never be your problem again | Loadbalancer.org
- - [http://www.loadbalancer.org](http://www.loadbalancer.org)
+ - [https://loadbalancer.org](https://loadbalancer.org)
  - date_published: 2024-05-29T00:00:00+00:00
 
  ## Lobero Theatre - Californias oldest, continuously operating theatre
- - [https://www.lobero.org](https://www.lobero.org)
+ - [https://lobero.org](https://lobero.org)
  - date_published: 2024-09-06T21:31:53.821308+00:00
 
  ## IATSE Local 44
@@ -814,7 +967,7 @@
  - date_published: 2024-06-19T07:55:28+00:00
 
  ## UA Local 525
- - [https://www.local525.org](https://www.local525.org)
+ - [https://local525.org](https://local525.org)
  - date_published: 2024-06-22T19:35:46.360903+00:00
 
  ## Software for business that ensures efficiency and profit
@@ -839,7 +992,7 @@
  - date_published: 2024-06-19T22:10:29.533191+00:00
 
  ## Local Futures is a pioneer of the worldwide localization movement.
- - [https://www.localfutures.org](https://www.localfutures.org)
+ - [https://localfutures.org](https://localfutures.org)
  - date_published: 2024-07-10T00:00:00+00:00
 
  ## Home | Localgiving
@@ -859,7 +1012,7 @@
  - date_published: 2024-05-02T12:28:53.856364+00:00
 
  ## Local Harvest / Farmers Markets / Family Farms / CSA / Organic Food / Pick your Own
- - [http://www.localharvest.org](http://www.localharvest.org)
+ - [https://localharvest.org](https://localharvest.org)
  - date_published: 2024-07-10T10:10:08.596937+00:00
 
  ## Local Media Association | Local Media Foundation
@@ -867,7 +1020,7 @@
  - date_published: 2024-02-15T00:00:00+00:00
 
  ## Home
- - [https://www.localnaturelab.org](https://www.localnaturelab.org)
+ - [https://localnaturelab.org](https://localnaturelab.org)
  - date_published: 2024-07-12T08:49:31.938028+00:00
 
  ## Local News Matters
@@ -892,8 +1045,8 @@
  - date_published: 2024-08-17T22:58:06.501341+00:00
 
  ## Locating London's Past
- - [https://www.locatinglondon.org](https://www.locatinglondon.org)
- - date_published: 2024-10-22T02:06:35.654750+00:00
+ - [https://locatinglondon.org](https://locatinglondon.org)
+ - date_published: 2024-09-26T13:00:20+00:00
 
  ## LocationTech
  - [https://www.locationtech.org](https://www.locationtech.org)
@@ -903,16 +1056,16 @@
  - [https://bible.lockman.org](https://bible.lockman.org)
  - date_published: 2024-10-21T10:21:32.809855+00:00
 
+ ## Lockman Foundation - Home
+ - [https://lockman.org](https://lockman.org)
+ - date_published: 2024-04-20T00:00:00+00:00
+
  ## The Lockman Foundation Store
  - [https://shop.lockman.org](https://shop.lockman.org)
  - date_published: 2024-10-21T10:21:31.307294+00:00
 
- ## Lockman Foundation - Home
- - [http://www.lockman.org](http://www.lockman.org)
- - date_published: 2024-04-20T00:00:00+00:00
-
  ## SSDeV | Sportsfreunde der Sperrtechnik – Deutschland e.V.
- - [http://www.lockpicking.org](http://www.lockpicking.org)
+ - [https://lockpicking.org](https://lockpicking.org)
  - date_published: 2024-07-16T19:26:10.863459+00:00
 
  ## LOCKSS Documentation Portal — LOCKSS Documentation Portal
@@ -929,11 +1082,11 @@
  - tags: ['activism']
 
  ## Locob Loco
- - [http://www.locobloco.org](http://www.locobloco.org)
+ - [https://locobloco.org](https://locobloco.org)
  - date_published: 2024-06-27T15:01:48+00:00
 
  ## LoCoBot · An Open Source Low Cost Robot
- - [http://locobot.org](http://locobot.org)
+ - [https://locobot.org](https://locobot.org)
  - date_published: 2024-06-13T18:24:47.809401+00:00
 
  ## Locura en Argentina
@@ -941,7 +1094,7 @@
  - date_published: 2024-05-04T13:47:27.363094+00:00
 
  ## Locus Medicus Lundensis - Samlingspunkten för medicinare i Lund
- - [https://www.locusmedicus.org](https://www.locusmedicus.org)
+ - [https://locusmedicus.org](https://locusmedicus.org)
  - date_published: 2024-08-09T14:38:31+00:00
 
  ## Lode Vandevenne
@@ -949,15 +1102,15 @@
  - date_published: 2020-12-28T01:04:13+00:00
 
  ## Living on Earth: Public Radio's Environmental News Magazine
- - [http://www.loe.org](http://www.loe.org)
+ - [https://loe.org](https://loe.org)
  - date_published: 2024-04-05T00:00:00+00:00
 
  ## Home – Loeys-Dietz Syndrome Foundation Canada - Loeys-Dietz Syndrome Foundation Canada
- - [http://loeysdietzcanada.org](http://loeysdietzcanada.org)
+ - [https://loeysdietzcanada.org](https://loeysdietzcanada.org)
  - date_published: 2024-06-10T02:24:43+00:00
 
  ## LOFAR | ASTRON
- - [http://www.lofar.org](http://www.lofar.org)
+ - [https://lofar.org](https://lofar.org)
  - date_published: 2024-01-15T00:00:00+00:00
 
  ## Home Page - The Loft Cinema
@@ -965,7 +1118,7 @@
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Reva and David Logan Foundation - The Reva and David Logan Foundation
- - [http://www.loganfdn.org](http://www.loganfdn.org)
+ - [https://loganfdn.org](https://loganfdn.org)
  - date_published: 2024-04-02T00:00:00+00:00
 
  ## Stokes Nature Center
@@ -973,7 +1126,7 @@
  - date_published: 2024-07-13T07:35:21.349180+00:00
 
  ## Log Cabin Republicans - Building A More Inclusive GOP
- - [http://www.logcabin.org](http://www.logcabin.org)
+ - [https://logcabin.org](https://logcabin.org)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## Learning on Graphs Conference
@@ -989,7 +1142,7 @@
  - date_published: 2024-07-17T05:49:55+00:00
 
  ## Accueil · Logilab
- - [https://www.logilab.org](https://www.logilab.org)
+ - [https://logilab.org](https://logilab.org)
  - date_published: 2024-06-28T19:57:38.431723+00:00
 
  ## Tristan Miller
@@ -1005,7 +1158,7 @@
  - date_published: 2024-08-07T23:41:58+00:00
 
  ## Thâu-ia̍h - Lohankhapedia
- - [http://taigi.lohankhapedia.org](http://taigi.lohankhapedia.org)
+ - [https://taigi.lohankhapedia.org](https://taigi.lohankhapedia.org)
  - date_published: 2023-10-01T14:43:40+00:00
 
  ## calendrier
@@ -1021,7 +1174,7 @@
  - date_published: 2022-01-10T20:38:51+00:00
 
  ## Digital Kingdom
- - [http://vrici.lojban.org](http://vrici.lojban.org)
+ - [https://vrici.lojban.org](https://vrici.lojban.org)
  - date_published: 2021-01-08T07:23:41+00:00
 
  ## Lokinet | Anonymous internet access
@@ -1033,7 +1186,7 @@
  - date_published: 2024-12-02T21:50:26+00:00
 
  ## London Aesthetics Forum – Philosophy of art in the heart of London
- - [http://www.londonaestheticsforum.org](http://www.londonaestheticsforum.org)
+ - [https://londonaestheticsforum.org](https://londonaestheticsforum.org)
  - date_published: 2024-06-23T09:42:33.822616+00:00
 
  ## London Centre for Book Arts — London Centre for Book Arts
@@ -1053,7 +1206,7 @@
  - date_published: 2024-05-17T00:00:00+00:00
 
  ## London Zoo | A ZSL conservation zoo
- - [https://www.londonzoo.org](https://www.londonzoo.org)
+ - [https://londonzoo.org](https://londonzoo.org)
  - date_published: 2024-07-09T20:25:36.474045+00:00
 
  ## Home - Lone Star Legal Aid
@@ -1065,11 +1218,11 @@
  - date_published: 2025-01-01T08:41:39.923577+00:00
 
  ## Long Beach Opera — Bold Opera Adventures Await You in Long Beach
- - [https://www.longbeachopera.org](https://www.longbeachopera.org)
+ - [https://longbeachopera.org](https://longbeachopera.org)
  - date_published: 2024-09-06T21:50:49.663298+00:00
 
  ## The Arena for Accountable Predictions - Long Bets
- - [http://www.longbets.org](http://www.longbets.org)
+ - [https://longbets.org](https://longbets.org)
  - date_published: 2024-08-18T20:22:17.742331+00:00
 
  ## 朗顿出版有限公司 | 开放获取期刊
@@ -1117,7 +1270,7 @@
  - date_published: 2024-07-07T08:11:28.861468+00:00
 
  ## Articles - portal - LongeCity
- - [http://www.longecity.org](http://www.longecity.org)
+ - [https://longecity.org](https://longecity.org)
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## LONGEVITY GLOBAL
@@ -1129,11 +1282,11 @@
  - date_published: 2024-10-31T22:45:21+00:00
 
  ## Longfellow Business Association | LBA | South Minneapolis, MN
- - [https://www.longfellowbusinessassociation.org](https://www.longfellowbusinessassociation.org)
+ - [https://longfellowbusinessassociation.org](https://longfellowbusinessassociation.org)
  - date_published: 2024-09-13T00:00:00+00:00
 
  ## The Long Food Project
- - [https://www.longfoodproject.org](https://www.longfoodproject.org)
+ - [https://longfoodproject.org](https://longfoodproject.org)
  - date_published: 2023-10-16T00:00:00+00:00
 
  ## Longform
@@ -1141,12 +1294,13 @@
  - date_published: 2024-07-05T10:51:09.210643+00:00
 
  ## Long Island Dahlia Society
- - [https://www.longislanddahlia.org](https://www.longislanddahlia.org)
+ - [https://longislanddahlia.org](https://longislanddahlia.org)
  - date_published: 2024-07-04T13:02:43.426319+00:00
 
  ## Let's travel: Vikatraveller | The Nomad Library
  - [http://longislandstreets.org](http://longislandstreets.org)
  - date_published: 2018-12-20T11:35:07+00:00
+ - date_dead_since: 2025-01-03T15:22:50.581977+00:00
 
  ## Welcome - Longleaf Services
  - [https://longleafservices.org](https://longleafservices.org)
@@ -1165,7 +1319,7 @@
  - date_published: 2024-12-21T21:33:03.510965+00:00
 
  ## Longmont Area Chamber of Commerce - Longmont Area Chamber of Commerce
- - [http://www.longmontchamber.org](http://www.longmontchamber.org)
+ - [https://longmontchamber.org](https://longmontchamber.org)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## LONG NOW — fostering long term thinking
@@ -1177,7 +1331,7 @@
  - date_published: 2025-01-01T10:38:54+00:00
 
  ## Centre for Long-Term Resilience
- - [https://www.longtermresilience.org](https://www.longtermresilience.org)
+ - [https://longtermresilience.org](https://longtermresilience.org)
  - date_published: 2024-10-18T17:49:03.172717+00:00
 
  ## Home – Center on Long-Term Risk
@@ -1193,7 +1347,7 @@
  - date_published: 2023-11-10T03:51:21.976358+00:00
 
  ## Donate - Long Wharf Theatre
- - [http://donate.longwharf.org](http://donate.longwharf.org)
+ - [https://donate.longwharf.org](https://donate.longwharf.org)
  - date_published: 2024-07-02T16:00:11.160348+00:00
 
  ## Long Wharf Theatre | Theatre is for Everyone
@@ -1221,7 +1375,7 @@
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## LA-SiGMA
- - [http://lasigma.loni.org](http://lasigma.loni.org)
+ - [https://lasigma.loni.org](https://lasigma.loni.org)
  - date_published: 2024-07-07T05:34:24.892908+00:00
 
  ## LONI – Louisiana Optical Network Infrastructure
@@ -1229,11 +1383,11 @@
  - date_published: 2024-07-14T05:09:52.045077+00:00
 
  ## Looking to God
- - [http://lookingtogod.org](http://lookingtogod.org)
+ - [https://lookingtogod.org](https://lookingtogod.org)
  - date_published: 2024-07-17T10:45:20.354393+00:00
 
  ## Look, Listen + Learn TV
- - [https://www.looklistenandlearn.org](https://www.looklistenandlearn.org)
+ - [https://looklistenandlearn.org](https://looklistenandlearn.org)
  - date_published: 2024-07-04T16:31:20.081792+00:00
 
  ## LOOKOUT
@@ -1253,19 +1407,19 @@
  - date_published: 2024-10-28T02:29:01.592967+00:00
 
  ## LoopdeLoop
- - [http://www.loopdeloop.org](http://www.loopdeloop.org)
+ - [https://loopdeloop.org](https://loopdeloop.org)
  - date_published: 2024-07-17T23:16:45.731152+00:00
 
  ## Loopring - zkRollup Layer 2 for Trading and Payment
  - [https://loopring.org](https://loopring.org)
- - date_published: 2024-06-16T16:39:31.457504+00:00
+ - date_published: 2024-05-07T14:54:06+00:00
 
  ## Loper OS
- - [http://www.loper-os.org](http://www.loper-os.org)
+ - [https://www.loper-os.org](https://www.loper-os.org)
  - date_published: 2024-08-18T06:44:40.544660+00:00
 
  ## Repository list - Klaus Demo
- - [http://klausdemo.lophus.org](http://klausdemo.lophus.org)
+ - [https://klausdemo.lophus.org](https://klausdemo.lophus.org)
  - date_published: 2024-08-07T19:59:42.461228+00:00
 
  ## LoRaWAN® Accredited Professional Exam
@@ -1289,7 +1443,7 @@
  - date_published: 2024-04-15T00:00:00+00:00
 
  ## Lorin Hochstein
- - [http://lorinhochstein.org](http://lorinhochstein.org)
+ - [https://lorinhochstein.org](https://lorinhochstein.org)
  - date_published: 2023-08-20T20:28:04+00:00
 
  ## Open World
@@ -1305,7 +1459,7 @@
  - date_published: 2024-04-22T00:00:00+00:00
 
  ## Los Altos History Museum | Los Altos, California
- - [http://www.losaltoshistory.org](http://www.losaltoshistory.org)
+ - [https://losaltoshistory.org](https://losaltoshistory.org)
  - date_published: 2024-05-23T00:00:00+00:00
 
  ## Los Isleños Heritage and Cultural Society of St. Bernard
@@ -1313,15 +1467,15 @@
  - date_published: 2024-10-29T18:42:37+00:00
 
  ## Los Lobos - New album Gates Of Gold now available!
- - [https://www.loslobos.org](https://www.loslobos.org)
+ - [https://loslobos.org](https://loslobos.org)
  - date_published: 2024-07-17T13:38:33.499086+00:00
 
  ## Los Pueblos Más Bonitos de España - Pueblos con Encanto
- - [https://www.lospueblosmasbonitosdeespana.org](https://www.lospueblosmasbonitosdeespana.org)
+ - [https://lospueblosmasbonitosdeespana.org](https://lospueblosmasbonitosdeespana.org)
  - date_published: 2024-07-08T12:52:50.458309+00:00
 
  ## OptimFROG - Main
- - [http://losslessaudio.org](http://losslessaudio.org)
+ - [https://losslessaudio.org](https://losslessaudio.org)
  - date_published: 2022-03-04T00:00:00+00:00
 
  ## Lossless-music.org - download FLAC, WAV, APE
@@ -1329,7 +1483,7 @@
  - date_published: 2024-06-23T18:05:16.407672+00:00
 
  ## LOST-BOY⋅ORG ,   𝓽he rust and stardust network
- - [http://lost-boy.org](http://lost-boy.org)
+ - [https://lost-boy.org](https://lost-boy.org)
  - date_published: 2024-05-21T00:00:00+00:00
 
  ## The Lost Cause | Cory Doctorow's craphound.com
@@ -1341,7 +1495,7 @@
  - date_published: 2024-12-16T17:38:07.727981+00:00
 
  ## LostGrid - PostCSS Grid Framework
- - [http://lostgrid.org](http://lostgrid.org)
+ - [https://lostgrid.org](https://lostgrid.org)
  - date_published: 2023-08-24T05:35:00+00:00
 
  ## The Web's Original Seduction of the Innocent Site
@@ -1361,7 +1515,7 @@
  - date_published: 2024-12-26T19:18:27.381924+00:00
 
  ## Louisiana Fire Chiefs Asssociation
- - [https://www.louisianafirechiefs.org](https://www.louisianafirechiefs.org)
+ - [https://louisianafirechiefs.org](https://louisianafirechiefs.org)
  - date_published: 2024-05-04T10:12:15.060877+00:00
 
  ## Fulfilling our Potential: Giving Day 2024
@@ -1369,11 +1523,11 @@
  - date_published: 2024-05-04T10:12:01.011394+00:00
 
  ## LOUIS Libraries: Home: Overview
- - [https://www.louislibraries.org](https://www.louislibraries.org)
+ - [https://louislibraries.org](https://louislibraries.org)
  - date_published: 2024-07-14T05:09:58.275092+00:00
 
  ## Louisville Country Dancers
- - [http://www.louisvillecountrydancers.org](http://www.louisvillecountrydancers.org)
+ - [https://louisvillecountrydancers.org](https://louisvillecountrydancers.org)
  - date_published: 2024-08-20T05:21:21.302832+00:00
 
  ## LPM Store
@@ -1398,11 +1552,11 @@
  - tags: ['open source', 'video game engine']
 
  ## 我爱学中文手机应用 - 帮助海外华人的子女牢记每一个汉字！
- - [https://www.lovechinese.org](https://www.lovechinese.org)
+ - [https://lovechinese.org](https://lovechinese.org)
  - date_published: 2024-06-21T10:50:38.876017+00:00
 
  ## Love Drop | Spend a dollar, change a life.
- - [http://lovedrop.org](http://lovedrop.org)
+ - [https://lovedrop.org](https://lovedrop.org)
  - date_published: 2022-07-28T18:41:19+00:00
 
  ## Lovell Brick Church Lovell, Maine Performing Arts Concerts Historic
@@ -1410,16 +1564,16 @@
  - date_published: 2019-03-25T11:03:40+00:00
 
  ## 403 Message
- - [http://links.lovemycreditunion.org](http://links.lovemycreditunion.org)
+ - [https://links.lovemycreditunion.org](https://links.lovemycreditunion.org)
  - date_published: 2024-07-10T04:09:13.394836+00:00
+
+ ## Home Page
+ - [https://lovemycreditunion.org](https://lovemycreditunion.org)
+ - date_published: 2024-07-10T04:55:09.972096+00:00
 
  ## Home Page
  - [https://rewards.lovemycreditunion.org](https://rewards.lovemycreditunion.org)
  - date_published: 2024-07-10T04:25:34.878694+00:00
-
- ## Home Page
- - [http://www.lovemycreditunion.org](http://www.lovemycreditunion.org)
- - date_published: 2024-07-10T04:55:09.972096+00:00
 
  ## Love Paper América Latina | La historia por detras del papel
  - [https://al.lovepaper.org](https://al.lovepaper.org)
@@ -1430,7 +1584,7 @@
  - date_published: 2024-12-12T12:55:07.729894+00:00
 
  ## L.O.V.E. Productions- Living the (r)evolution!
- - [http://www.loveproductions.org](http://www.loveproductions.org)
+ - [https://loveproductions.org](https://loveproductions.org)
  - date_published: 2024-09-12T17:18:35.107640+00:00
 
  ## TCRC Studies - Tower Cancer Research Foundation
@@ -1438,12 +1592,13 @@
  - date_published: 2024-12-30T19:25:40.445314+00:00
 
  ## LoveTech
- - [http://lovetech.org](http://lovetech.org)
+ - [https://lovetech.org](https://lovetech.org)
  - date_published: 2024-06-30T07:43:40.637818+00:00
 
  ## Parhaat kasinot kokemuksia – bonukset ja muut edut
  - [http://lovetotheworld.org](http://lovetotheworld.org)
  - date_published: 2024-06-07T14:04:28+00:00
+ - date_dead_since: 2025-01-03T15:31:38.668225+00:00
 
  ## LoveYou2.org
  - [https://loveyou2.org](https://loveyou2.org)
@@ -1478,7 +1633,7 @@
  - date_published: 2024-12-22T05:43:56.031015+00:00
 
  ## Interpreter | Lowy Institute
- - [http://www.lowyinterpreter.org](http://www.lowyinterpreter.org)
+ - [http://lowyinterpreter.org](http://lowyinterpreter.org)
  - date_published: 2024-07-03T17:11:03+00:00
 
  ## Home | Libertarian Party
@@ -1498,7 +1653,7 @@
  - date_published: 2024-09-14T08:53:19.539769+00:00
 
  ## Avulsos by Penz
- - [http://www.lpenz.org](http://www.lpenz.org)
+ - [https://lpenz.org](https://lpenz.org)
  - date_published: 2023-07-30T00:00:00+00:00
 
  ## The Law and Political Economy Project
@@ -1510,7 +1665,7 @@
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## LPGPU.org | An EU-funded research project into low power GPU technology
- - [http://lpgpu.org](http://lpgpu.org)
+ - [https://lpgpu.org](https://lpgpu.org)
  - date_published: 2024-09-04T07:06:13.584599+00:00
 
  ## Find a training partner | Linux Professional Institute
@@ -1533,6 +1688,7 @@
  ## Legal Resources, Law, Lawyers, Attorneys - Law and Policy Institutions Guide
  - [http://www.lpig.org](http://www.lpig.org)
  - date_published: 2020-04-04T17:23:02+00:00
+ - date_dead_since: 2025-01-03T15:34:06.598680+00:00
 
  ## Louisville Public Media
  - [http://events.lpm.org](http://events.lpm.org)
@@ -1563,11 +1719,11 @@
  - date_published: 2023-10-25T21:39:41.946449+00:00
 
  ## Wildlife Experience in the Heart of Chicago | Lincoln Park Zoo
- - [https://www.lpzoo.org](https://www.lpzoo.org)
+ - [https://lpzoo.org](https://lpzoo.org)
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## Lloyd's Register trusted advice in the maritime industry | LR
- - [https://www.lr.org](https://www.lr.org)
+ - [https://lr.org](https://lr.org)
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## LREC-Coling 2024 – The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation Lingotto Conference Centre – Torino (Italia) 20-25 May, 2024
@@ -1583,7 +1739,7 @@
  - date_published: 2024-09-13T18:00:46.310712+00:00
 
  ## LREC Conferences
- - [http://www.lrec-conf.org](http://www.lrec-conf.org)
+ - [http://lrec-conf.org](http://lrec-conf.org)
  - date_published: 2023-05-30T09:40:46+00:00
 
  ## The Long Riders Guild Academic Foundation
@@ -1591,7 +1747,7 @@
  - date_published: 2020-05-15T08:45:33+00:00
 
  ## LRJC
- - [https://www.lrjc.org](https://www.lrjc.org)
+ - [https://lrjc.org](https://lrjc.org)
  - date_published: 2024-05-06T16:18:35.856992+00:00
 
  ## L. Ron Hubbard - Scientology & Dianetics Founder
@@ -1600,19 +1756,19 @@
  - tags: ['scientology']
 
  ## The Light Rail Transit Association | The Light Rail Transit Association
- - [http://www.lrta.org](http://www.lrta.org)
+ - [https://lrta.org](https://lrta.org)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## LRUG | London Ruby User Group
- - [http://lrug.org](http://lrug.org)
+ - [https://lrug.org](https://lrug.org)
  - date_published: 2024-07-22T20:21:23+00:00
 
  ## Loading...
- - [http://os.lsac.org](http://os.lsac.org)
+ - [https://os.lsac.org](https://os.lsac.org)
  - date_published: 2024-08-19T18:23:56.286437+00:00
 
  ## LSA
- - [http://www.lsadc.org](http://www.lsadc.org)
+ - [https://lsadc.org](https://lsadc.org)
  - date_published: 2024-07-02T06:17:20.267722+00:00
 
  ## Louisiana State Bar Association
@@ -1624,7 +1780,7 @@
  - date_published: 2024-12-19T14:58:31.003718+00:00
 
  ## The Logistics & Supply Chain Management Society – The Regional Professional Body for Logistics and Supply Chain Practitioners
- - [http://lscms.org](http://lscms.org)
+ - [https://lscms.org](https://lscms.org)
  - date_published: 2024-09-12T15:25:13.218583+00:00
 
  ## Liga Studenților Electroniști | Site official
@@ -1632,7 +1788,7 @@
  - date_published: 2023-10-20T10:42:00+00:00
 
  ## Liceo Scientifico Galileo Galilei
- - [https://www.lsgalilei.org](https://www.lsgalilei.org)
+ - [https://lsgalilei.org](https://lsgalilei.org)
  - date_published: 2024-10-13T07:21:36+00:00
 
  ## The L-Space Web - A Terry Pratchett / Discworld Web® Site
@@ -1641,7 +1797,7 @@
  - tags: ['discworld', 'terry pratchett', 'fantasy']
 
  ## Senior Living St Louis Metro, Central Missouri, & Central Illinois | LSS
- - [https://www.lssliving.org](https://www.lssliving.org)
+ - [https://lssliving.org](https://lssliving.org)
  - date_published: 2024-02-07T00:00:00+00:00
 
  ## LSST Informatics & Statistics Science Collaboration
@@ -1649,7 +1805,7 @@
  - date_published: 2024-07-03T19:56:30+00:00
 
  ## Rubin Observatory
- - [http://www.lsst.org](http://www.lsst.org)
+ - [https://lsst.org](https://lsst.org)
  - date_published: 2024-06-22T21:46:12+00:00
 
  ## Home
@@ -1659,6 +1815,7 @@
  ## Homepage
  - [https://www.lstream.org](https://www.lstream.org)
  - date_published: 2024-03-14T00:00:00+00:00
+ - date_dead_since: 2025-01-03T15:43:38.238637+00:00
 
  ## LSU Alumni Association | Louisiana State University Alumni
  - [https://www.lsualumni.org](https://www.lsualumni.org)
@@ -1673,11 +1830,11 @@
  - date_published: 2024-12-21T20:53:43+00:00
 
  ## Home > Lane Transit District
- - [https://www.ltd.org](https://www.ltd.org)
+ - [https://ltd.org](https://ltd.org)
  - date_published: 2024-02-27T00:00:00+00:00
 
  ## Life Time Foundation
- - [https://www.ltfoundation.org](https://www.ltfoundation.org)
+ - [https://ltfoundation.org](https://ltfoundation.org)
  - date_published: 2024-05-17T00:00:00+00:00
 
  ## LT Game Jam
@@ -1685,7 +1842,7 @@
  - date_published: 2024-08-08T11:28:01.619442+00:00
 
  ## ltrace
- - [http://ltrace.org](http://ltrace.org)
+ - [https://ltrace.org](https://ltrace.org)
  - date_published: 2019-07-19T21:20:33+00:00
 
  ## LTTng: an open source tracing framework for Linux
@@ -1725,11 +1882,11 @@
  - date_published: 2021-12-05T12:13:57+00:00
 
  ## Friends of the Lubbock Library
- - [http://www.lubbockfol.org](http://www.lubbockfol.org)
+ - [http://lubbockfol.org](http://lubbockfol.org)
  - date_published: 2024-05-28T18:13:05+00:00
 
  ## Lubomir Bourdev
- - [http://www.lubomir.org](http://www.lubomir.org)
+ - [https://lubomir.org](https://lubomir.org)
  - date_published: 2023-02-28T05:58:53+00:00
 
  ## Luca Mariot
@@ -1745,7 +1902,7 @@
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Accelerate your development with Lucee
- - [http://lucee.org](http://lucee.org)
+ - [https://lucee.org](https://lucee.org)
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## The Lucid Manager
@@ -1762,11 +1919,11 @@
  - date_published: 2024-09-23T23:28:59.763363+00:00
 
  ## LudDan BlockChain - Easy for Developers & Investors
- - [https://www.ludan.org](https://www.ludan.org)
+ - [https://ludan.org](https://ludan.org)
  - date_published: 2022-03-31T15:57:07+00:00
 
  ## Ludocity
- - [http://ludocity.org](http://ludocity.org)
+ - [https://ludocity.org](https://ludocity.org)
  - date_published: 2022-07-03T18:50:41+00:00
 
  ## Free Online Loudness Analyser | LUFS
@@ -1774,7 +1931,7 @@
  - date_published: 2024-06-22T12:57:03.990602+00:00
 
  ## LUGBZ
- - [https://www.lugbz.org](https://www.lugbz.org)
+ - [https://lugbz.org](https://lugbz.org)
  - date_published: 2024-07-21T05:51:08.075117+00:00
 
  ## LugRadio archive
@@ -1806,7 +1963,7 @@
  - date_published: 2024-07-18T12:27:00.300464+00:00
 
  ## LUMA Arles
- - [https://www.luma.org](https://www.luma.org)
+ - [https://luma.org](https://luma.org)
  - date_published: 2024-05-14T00:00:00+00:00
 
  ## The Lumen Christi Institute
@@ -1822,7 +1979,7 @@
  - date_published: 2025-01-01T01:57:38.776798+00:00
 
  ## Home - Lumina Studio Theatre
- - [https://www.luminastudio.org](https://www.luminastudio.org)
+ - [https://luminastudio.org](https://luminastudio.org)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## KOKI NAGANO
@@ -1830,27 +1987,27 @@
  - date_published: 2024-01-22T00:00:00+00:00
 
  ## Lumoz | ZK-RaaS Network Featuring ZKP Mining
- - [https://lumoz.org](https://lumoz.org)
+ - [http://lumoz.org](http://lumoz.org)
  - date_published: 2024-09-23T16:32:09.611637+00:00
 
  ## Lumpen Magazine
- - [http://www.lumpenmagazine.org](http://www.lumpenmagazine.org)
+ - [https://lumpenmagazine.org](https://lumpenmagazine.org)
  - date_published: 2024-06-30T02:10:52.320071+00:00
 
  ## LUNAR - Livermore Unit of the NAR
- - [http://www.lunar.org](http://www.lunar.org)
+ - [http://lunar.org](http://lunar.org)
  - date_published: 2023-02-24T00:53:55+00:00
 
  ## LunarVim | LunarVim
- - [https://www.lunarvim.org](https://www.lunarvim.org)
- - date_published: 2024-05-20T07:14:47+00:00
+ - [https://lunarvim.org](https://lunarvim.org)
+ - date_published: 2024-05-20T07:14:46+00:00
 
  ## American Lung Association
  - [https://www.lung.org](https://www.lung.org)
  - date_published: 2024-12-30T12:17:49.908274+00:00
 
  ## Help Us Solve The Cruel Mystery
- - [https://www.lupus.org](https://www.lupus.org)
+ - [https://lupus.org](https://lupus.org)
  - date_published: 2024-06-28T11:44:37+00:00
 
  ## Lupus Canada Home
@@ -1858,23 +2015,23 @@
  - date_published: 2024-03-04T09:39:56+00:00
 
  ## #LupusChat
- - [http://lupuschat.org](http://lupuschat.org)
+ - [https://lupuschat.org](https://lupuschat.org)
  - date_published: 2024-06-28T12:11:18.469868+00:00
 
  ## Home - Community - Lupus Europe
- - [https://www.lupus-europe.org](https://www.lupus-europe.org)
+ - [https://lupus-europe.org](https://lupus-europe.org)
  - date_published: 2024-06-02T00:00:00+00:00
 
  ## Lupus Society of Illinois
- - [https://www.lupusil.org](https://www.lupusil.org)
+ - [https://lupusil.org](https://lupusil.org)
  - date_published: 2015-04-28T00:00:00+00:00
 
  ## Homepage - Lupus Foundation New England
- - [http://www.lupusne.org](http://www.lupusne.org)
+ - [https://lupusne.org](https://lupusne.org)
  - date_published: 2024-04-12T00:00:00+00:00
 
  ## Lupus Research Alliance
- - [https://www.lupusresearch.org](https://www.lupusresearch.org)
+ - [https://lupusresearch.org](https://lupusresearch.org)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## The Lura Project
@@ -1882,7 +2039,7 @@
  - date_published: 2023-03-14T14:12:31+00:00
 
  ## Lurie Children's
- - [https://www.luriechildrens.org](https://www.luriechildrens.org)
+ - [https://luriechildrens.org](https://luriechildrens.org)
  - date_published: 2024-06-28T19:34:45.956148+00:00
 
  ## LURK
@@ -1896,6 +2053,7 @@
  ## Argument Computer Corporation
  - [https://lurk-lang.org](https://lurk-lang.org)
  - date_published: 2024-08-17T22:29:36.779633+00:00
+ - date_dead_since: 2025-01-03T15:55:26.915068+00:00
 
  ## Home Page for David Drysdale
  - [https://lurklurk.org](https://lurklurk.org)
@@ -1926,7 +2084,7 @@
  - date_published: 2015-04-06T17:04:15+00:00
 
  ## Leavenworth, Kansas |
- - [https://www.lvks.org](https://www.lvks.org)
+ - [https://lvks.org](https://lvks.org)
  - date_published: 2024-06-24T00:00:00+00:00
 
  ## LWJGL - Lightweight Java Game Library
@@ -1935,7 +2093,7 @@
  - tags: ['java', 'game library', 'game development']
 
  ## Startseite
- - [https://www.lwl.org](https://www.lwl.org)
+ - [https://lwl.org](https://lwl.org)
  - date_published: 2024-07-03T11:03:49.303480+00:00
 
  ## LXDE Blog
@@ -1965,55 +2123,55 @@
  - date_published: 2024-05-11T10:34:27.420304+00:00
 
  ## Lyman Allyn Art Museum - welcome
- - [https://www.lymanallyn.org](https://www.lymanallyn.org)
+ - [https://lymanallyn.org](https://lymanallyn.org)
  - date_published: 2024-06-27T01:36:29+00:00
 
  ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://bulgarian.lymphoma-net.org](https://bulgarian.lymphoma-net.org)
+ - [http://bulgarian.lymphoma-net.org](http://bulgarian.lymphoma-net.org)
  - date_published: 2024-01-11T04:20:18+00:00
 
  ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://czech.lymphoma-net.org](https://czech.lymphoma-net.org)
+ - [http://czech.lymphoma-net.org](http://czech.lymphoma-net.org)
  - date_published: 2024-01-11T04:20:18+00:00
 
  ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://french.lymphoma-net.org](https://french.lymphoma-net.org)
+ - [http://french.lymphoma-net.org](http://french.lymphoma-net.org)
  - date_published: 2024-01-11T04:20:18+00:00
 
  ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://german.lymphoma-net.org](https://german.lymphoma-net.org)
+ - [http://german.lymphoma-net.org](http://german.lymphoma-net.org)
  - date_published: 1999-01-01T00:00:00+00:00
 
  ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://hungarian.lymphoma-net.org](https://hungarian.lymphoma-net.org)
+ - [http://hungarian.lymphoma-net.org](http://hungarian.lymphoma-net.org)
  - date_published: 2024-01-11T04:20:18+00:00
 
  ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://indonesian.lymphoma-net.org](https://indonesian.lymphoma-net.org)
+ - [http://indonesian.lymphoma-net.org](http://indonesian.lymphoma-net.org)
  - date_published: 2024-01-11T04:20:18+00:00
 
  ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://italian.lymphoma-net.org](https://italian.lymphoma-net.org)
+ - [http://italian.lymphoma-net.org](http://italian.lymphoma-net.org)
  - date_published: 2024-01-11T04:20:18+00:00
 
  ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://lymphoma-net.org](https://lymphoma-net.org)
+ - [http://lymphoma-net.org](http://lymphoma-net.org)
  - date_published: 2024-01-11T04:20:18+00:00
 
  ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://portuguese.lymphoma-net.org](https://portuguese.lymphoma-net.org)
+ - [http://portuguese.lymphoma-net.org](http://portuguese.lymphoma-net.org)
  - date_published: 2024-01-11T04:20:18+00:00
 
  ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://russian.lymphoma-net.org](https://russian.lymphoma-net.org)
+ - [http://russian.lymphoma-net.org](http://russian.lymphoma-net.org)
  - date_published: 2024-01-11T04:20:18+00:00
 
  ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://spanish.lymphoma-net.org](https://spanish.lymphoma-net.org)
+ - [http://spanish.lymphoma-net.org](http://spanish.lymphoma-net.org)
  - date_published: 2024-01-11T04:20:18+00:00
 
  ## Dr. Linus Dietz
- - [http://lynyus.org](http://lynyus.org)
+ - [https://lynyus.org](https://lynyus.org)
  - date_published: 2024-06-01T00:00:00+00:00
 
  ## LyonJUG
@@ -2031,6 +2189,7 @@
  ## Welcome to lyra.org
  - [http://www.lyra.org](http://www.lyra.org)
  - date_published: 2024-05-02T09:37:59.861819+00:00
+ - date_dead_since: 2025-01-03T15:58:46.666182+00:00
 
  ## DSpace Home - DSpace
  - [https://dspace.lyrasis.org](https://dspace.lyrasis.org)
@@ -2065,7 +2224,7 @@
  - date_published: 2024-07-21T02:45:47+00:00
 
  ## Lysander Spooner
- - [http://www.lysanderspooner.org](http://www.lysanderspooner.org)
+ - [https://lysanderspooner.org](https://lysanderspooner.org)
  - date_published: 2024-07-03T22:06:23.658180+00:00
 
  ## LyX wiki | LyX / LyX
@@ -2074,7 +2233,7 @@
  - tags: ['document processor', 'office suite', 'word']
 
  ## LyX | LyX – The Document Processor
- - [http://www.lyx.org](http://www.lyx.org)
+ - [https://www.lyx.org](https://www.lyx.org)
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## LZ4 - Extremely fast compression
@@ -2086,7 +2245,7 @@
  - date_published: 2021-05-06T08:21:57+00:00
 
  ## M3AAWG |
- - [https://www.m3aawg.org](https://www.m3aawg.org)
+ - [https://m3aawg.org](https://m3aawg.org)
  - date_published: 2024-07-10T03:50:08.100839+00:00
 
  ## HOME - M4BL
@@ -2094,11 +2253,11 @@
  - date_published: 2024-03-07T00:00:00+00:00
 
  ## เว็บไซต์ ที่ดีที่สุด ที่เป็นที่ได้รับความนิยมมากที่สุดในเอเชียตอนนี้
- - [https://www.m4r3k.org](https://www.m4r3k.org)
+ - [https://m4r3k.org](https://m4r3k.org)
  - date_published: 2024-02-25T00:00:00+00:00
 
  ## Medics 4 Rare Diseases
- - [https://www.m4rd.org](https://www.m4rd.org)
+ - [https://m4rd.org](https://m4rd.org)
  - date_published: 2024-04-19T00:00:00+00:00
 
  ## American Mathematics Competitions
@@ -2138,7 +2297,7 @@
  - date_published: 2022-06-01T22:22:11+00:00
 
  ## Home
- - [https://www.maaa.org](https://www.maaa.org)
+ - [https://maaa.org](https://maaa.org)
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## MAARS
@@ -2150,7 +2309,7 @@
  - date_published: 2022-09-22T22:36:15+00:00
 
  ## maasaimarascience
- - [http://maasaimarascience.org](http://maasaimarascience.org)
+ - [https://maasaimarascience.org](https://maasaimarascience.org)
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## M3AAWG |
@@ -2174,7 +2333,7 @@
  - date_published: 2024-04-28T00:00:00+00:00
 
  ## 美凯龙艺术中心 Macalline Center of Art
- - [http://www.macallineart.org](http://www.macallineart.org)
+ - [https://macallineart.org](https://macallineart.org)
  - date_published: 2024-07-13T14:33:53.690933+00:00
 
  ## Massachusetts Senior Care Association
@@ -2196,6 +2355,7 @@
  ## the pickle's Low-End Mac FAQ
  - [http://macfaq.org](http://macfaq.org)
  - date_published: 2013-11-06T22:48:08+00:00
+ - date_dead_since: 2025-01-03T16:03:54.628768+00:00
 
  ## MACFAST Green Initiatives – Home
  - [https://green.macfast.org](https://green.macfast.org)
@@ -2210,11 +2370,11 @@
  - date_published: 2024-08-02T02:36:11+00:00
 
  ## The International Machine Learning Society - About
- - [https://machinelearning.org](https://machinelearning.org)
+ - [http://machinelearning.org](http://machinelearning.org)
  - date_published: 2024-04-30T05:43:20.025306+00:00
 
  ## Machinists Institute
- - [https://www.machinistsinstitute.org](https://www.machinistsinstitute.org)
+ - [https://machinistsinstitute.org](https://machinistsinstitute.org)
  - date_published: 2024-07-09T22:22:17.282936+00:00
 
  ## Macintosh Garden - Celebrating Macintosh Abandonware!
@@ -2230,20 +2390,21 @@
  - [https://macintoshrepository.org](https://macintoshrepository.org)
  - date_published: 2024-04-28T01:59:48.919539+00:00
 
+ ## MacMESS.org
+ - [https://macmess.org](https://macmess.org)
+ - date_published: 2021-03-16T23:40:34+00:00
+
  ## frakendirary | tim lindner's personal blog
  - [https://tlindner.macmess.org](https://tlindner.macmess.org)
  - date_published: 2024-06-01T00:00:00+00:00
 
- ## MacMESS.org
- - [https://www.macmess.org](https://www.macmess.org)
- - date_published: 2021-03-16T23:40:34+00:00
-
  ## macOS Containers Initiative
  - [https://macoscontainers.org](https://macoscontainers.org)
  - date_published: 2023-10-25T21:40:08.656728+00:00
+ - date_dead_since: 2025-01-03T16:05:22.836059+00:00
 
  ## XQuartz
- - [http://xquartz.macosforge.org](http://xquartz.macosforge.org)
+ - [https://xquartz.macosforge.org](https://xquartz.macosforge.org)
  - date_published: 2023-09-21T17:43:14+00:00
 
  ## Index of /
@@ -2287,15 +2448,15 @@
  - date_published: 2024-10-29T16:38:32.077106+00:00
 
  ## MacRuby
- - [http://www.macruby.org](http://www.macruby.org)
+ - [https://macruby.org](https://macruby.org)
  - date_published: 2013-01-25T12:25:21+00:00
 
  ## Mac's List | Find a Job that Matters
- - [https://www.macslist.org](https://www.macslist.org)
+ - [https://macslist.org](https://macslist.org)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Missouri Athletic Club - Missouri Athletic Club - St. Louis, MO
- - [https://www.mac-stl.org](https://www.mac-stl.org)
+ - [https://mac-stl.org](https://mac-stl.org)
  - date_published: 2024-09-18T05:37:36.988648+00:00
 
  ## macSVG
@@ -2312,19 +2473,20 @@
  - date_published: 2024-06-22T23:34:42.764779+00:00
 
  ## Madame Architect
- - [https://www.madamearchitect.org](https://www.madamearchitect.org)
+ - [https://madamearchitect.org](https://madamearchitect.org)
  - date_published: 2024-07-08T14:55:45.931874+00:00
 
  ## Mageia Application Database
  - [http://madb.org](http://madb.org)
  - date_published: 2017-02-19T18:56:47+00:00
+ - date_dead_since: 2025-01-03T16:21:24.465123+00:00
 
  ## Roberto Guido
- - [https://www.madbob.org](https://www.madbob.org)
+ - [https://madbob.org](https://madbob.org)
  - date_published: 2024-07-08T17:06:45+00:00
 
  ## Madison County Federal Credit Union
- - [https://www.madcofcu.org](https://www.madcofcu.org)
+ - [https://madcofcu.org](https://madcofcu.org)
  - date_published: 2024-09-28T19:50:27+00:00
 
  ## Home - MADD
@@ -2334,13 +2496,14 @@
  ## Madd Handyman San Diego CA
  - [https://maddsandiego.org](https://maddsandiego.org)
  - date_published: 2020-01-01T00:00:00+00:00
+ - date_dead_since: 2025-01-03T16:21:35.096843+00:00
 
  ## MADE51
  - [https://shop.made51.org](https://shop.made51.org)
  - date_published: 2024-12-12T17:26:05.147828+00:00
 
  ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [http://made-bcn.org](http://made-bcn.org)
+ - [https://made-bcn.org](https://made-bcn.org)
  - date_published: 2024-07-03T22:51:42+00:00
 
  ## Baltimore Makers - Made in Baltimore
@@ -2348,11 +2511,11 @@
  - date_published: 2024-12-11T17:08:18.323798+00:00
 
  ## Made in NYC
- - [https://www.madeinnyc.org](https://www.madeinnyc.org)
+ - [https://madeinnyc.org](https://madeinnyc.org)
  - date_published: 2024-05-10T00:00:00+00:00
 
  ## Made with ♥ in Baltimore
- - [http://madewithloveinbaltimore.org](http://madewithloveinbaltimore.org)
+ - [https://madewithloveinbaltimore.org](https://madewithloveinbaltimore.org)
  - date_published: 2022-11-08T18:30:27+00:00
 
  ## Made with Love in India - A movement to celebrate, promote, and build a brand, India.
@@ -2432,11 +2595,11 @@
  - date_published: 2024-04-09T00:00:00+00:00
 
  ## Madison Fireworks Organization
- - [https://www.madisonfireworks.org](https://www.madisonfireworks.org)
+ - [https://madisonfireworks.org](https://madisonfireworks.org)
  - date_published: 2024-07-01T23:23:43.848254+00:00
 
  ## Our Attraction is Only Natural
- - [http://madisonfl.org](http://madisonfl.org)
+ - [https://madisonfl.org](https://madisonfl.org)
  - date_published: 2024-07-03T15:04:03.949795+00:00
 
  ## Advocating for Adults with Autism - Madison House Autism Foundation
@@ -2444,7 +2607,7 @@
  - date_published: 2024-12-20T05:01:19+00:00
 
  ## mad meg
- - [http://www.madmeg.org](http://www.madmeg.org)
+ - [https://madmeg.org](https://madmeg.org)
  - date_published: 2022-09-09T12:08:42+00:00
 
  ## Museum of Arts and Design
@@ -2456,8 +2619,8 @@
  - date_published: 2005-04-30T16:33:24+00:00
 
  ## Comunidad de Madrid
- - [http://www.madrid.org](http://www.madrid.org)
- - date_published: 2024-06-22T11:54:27+00:00
+ - [https://www.madrid.org](https://www.madrid.org)
+ - date_published: 2019-09-30T07:05:01+00:00
 
  ## Madridbet – Madridbet Giriş – Madrid Bet Resmi Giriş Adresi
  - [https://madridbetgiris.org](https://madridbetgiris.org)
@@ -2468,11 +2631,11 @@
  - date_published: 2024-10-29T17:23:40.914595+00:00
 
  ## Fundación para el Conocimiento madri+d | madrimasd
- - [http://www.madrimasd.org](http://www.madrimasd.org)
+ - [https://madrimasd.org](https://madrimasd.org)
  - date_published: 2024-09-12T19:48:24.243023+00:00
 
  ## madrobincallers 게임 소개
- - [http://www.madrobincallers.org](http://www.madrobincallers.org)
+ - [https://madrobincallers.org](https://madrobincallers.org)
  - date_published: 2024-06-22T00:00:00+00:00
 
  ## MadSciNet: The 24-hour exploding laboratory.
@@ -2493,15 +2656,15 @@
  - tags: ['personal']
 
  ## maemo.org - maemo.org: Home of the Maemo community
- - [http://maemo.org](http://maemo.org)
+ - [https://maemo.org](https://maemo.org)
  - date_published: 2019-01-29T00:17:26+00:00
 
  ## MaestroMeetings
- - [http://maestromeetings.org](http://maestromeetings.org)
+ - [https://maestromeetings.org](https://maestromeetings.org)
  - date_published: 2024-06-12T11:01:03.070943+00:00
 
  ## Mississippi Association of Educators (MAE) | Mississippi Association of Educators
- - [http://maetoday.org](http://maetoday.org)
+ - [https://maetoday.org](https://maetoday.org)
  - date_published: 2024-07-09T16:46:17.356209+00:00
 
  ## Give
@@ -2569,7 +2732,7 @@
  - date_published: 2024-12-12T16:23:05.725070+00:00
 
  ## Magical Moon Farm & Foundation
- - [https://www.magicalmoon.org](https://www.magicalmoon.org)
+ - [https://magicalmoon.org](https://magicalmoon.org)
  - date_published: 2024-05-07T15:28:17.343070+00:00
 
  ## MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
@@ -2581,7 +2744,7 @@
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## Magical Miniature Landscapes - The History of Bonsai and Related Arts
- - [http://www.magiminiland.org](http://www.magiminiland.org)
+ - [https://magiminiland.org](https://magiminiland.org)
  - date_published: 2024-09-14T15:22:16+00:00
 
  ## Home | MAG
@@ -2593,11 +2756,11 @@
  - date_published: 2024-04-29T06:59:06.093065+00:00
 
  ## HOME | Magnify Mentoring
- - [https://www.magnifymentoring.org](https://www.magnifymentoring.org)
+ - [https://magnifymentoring.org](https://magnifymentoring.org)
  - date_published: 2024-06-21T11:39:26.662708+00:00
 
  ## magnoliavillage.org
- - [http://www.magnoliavillage.org](http://www.magnoliavillage.org)
+ - [https://magnoliavillage.org](https://magnoliavillage.org)
  - date_published: 2024-09-12T19:17:30.376730+00:00
 
  ## Magpie Guide: Welcome
@@ -2605,7 +2768,7 @@
  - date_published: 2013-01-02T04:31:44+00:00
 
  ## Home | MAG
- - [https://www.mag-us.org](https://www.mag-us.org)
+ - [https://mag-us.org](https://mag-us.org)
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## magzDB | Вся периодика мира
@@ -2645,7 +2808,7 @@
  - date_published: 2024-09-06T21:47:46.967474+00:00
 
  ## Home | Mahoosuc Land Trust, Bethel Maine
- - [https://www.mahoosuc.org](https://www.mahoosuc.org)
+ - [https://mahoosuc.org](https://mahoosuc.org)
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## Mahoro Network Status Service Monitoring
@@ -2661,7 +2824,7 @@
  - date_published: 2024-05-10T06:33:51.299681+00:00
 
  ## Mail Avenger
- - [http://www.mailavenger.org](http://www.mailavenger.org)
+ - [https://www.mailavenger.org](https://www.mailavenger.org)
  - date_published: 2010-04-06T23:20:30+00:00
 
  ## mailb.org
@@ -2725,11 +2888,11 @@
  - date_published: 2020-09-30T09:52:52+00:00
 
  ## piler open source email archiving
- - [https://www.mailpiler.org](https://www.mailpiler.org)
+ - [https://mailpiler.org](https://mailpiler.org)
  - date_published: 2024-06-16T16:19:38.743027+00:00
 
  ## Mailr | Ruby On Rails open source webmail
- - [http://mailr.org](http://mailr.org)
+ - [https://mailr.org](https://mailr.org)
  - date_published: 2024-06-17T02:16:51+00:00
 
  ## Homepage - Maimonides Foundation
@@ -2737,7 +2900,7 @@
  - date_published: 2024-06-15T10:28:18.156978+00:00
 
  ## Maine State Bar Association
- - [https://www.mainebar.org](https://www.mainebar.org)
+ - [https://mainebar.org](https://mainebar.org)
  - date_published: 2024-06-24T11:15:05.100394+00:00
 
  ## Home - Maine Education Association
@@ -2745,11 +2908,11 @@
  - date_published: 2024-05-30T00:00:00+00:00
 
  ## MaineGeneral Health | Augusta, ME | MaineGeneral
- - [https://www.mainegeneral.org](https://www.mainegeneral.org)
+ - [https://mainegeneral.org](https://mainegeneral.org)
  - date_published: 2024-07-12T22:57:50.814019+00:00
 
  ## Maine House Republicans
- - [http://mainehousegop.org](http://mainehousegop.org)
+ - [https://mainehousegop.org](https://mainehousegop.org)
  - date_published: 2023-04-24T00:00:00+00:00
 
  ## Home - Maine Indoor Air Quality Council
@@ -2761,7 +2924,7 @@
  - date_published: 2023-10-25T21:40:12.533641+00:00
 
  ## Maine Library Association - Home
- - [https://www.mainelibraries.org](https://www.mainelibraries.org)
+ - [https://mainelibraries.org](https://mainelibraries.org)
  - date_published: 2024-07-20T22:39:49.861041+00:00
 
  ## Maine Narrow Gauge Railroad Co. & Museum
@@ -2769,7 +2932,7 @@
  - date_published: 2023-01-06T21:15:48+00:00
 
  ## Maine Policy Institute
- - [http://mainepolicy.org](http://mainepolicy.org)
+ - [https://mainepolicy.org](https://mainepolicy.org)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## Maine Press Association | On the Record since 1864
@@ -2781,11 +2944,11 @@
  - date_published: 2024-07-29T04:29:57.071514+00:00
 
  ## Maine Senate Democrats | Fighting for Mainers
- - [http://www.mainesenate.org](http://www.mainesenate.org)
+ - [https://mainesenate.org](https://mainesenate.org)
  - date_published: 2024-05-10T00:00:00+00:00
 
  ## Maine State Ballet | Dance Studio / Ballet Company | Falmouth Maine
- - [https://www.mainestateballet.org](https://www.mainestateballet.org)
+ - [https://mainestateballet.org](https://mainestateballet.org)
  - date_published: 2024-08-08T23:51:43.302570+00:00
 
  ## Maine State Museum - Augusta, Maine [HOME]
@@ -2797,7 +2960,7 @@
  - date_published: 2024-02-08T17:51:41.811106+00:00
 
  ## 403 Error
- - [https://new.mainstma.org](https://new.mainstma.org)
+ - [http://new.mainstma.org](http://new.mainstma.org)
  - date_published: 2024-01-10T09:25:39+00:00
 
  ## Main Street America :: Home
@@ -2817,7 +2980,7 @@
  - date_published: 2024-12-22T02:18:31.774384+00:00
 
  ## Accueil - Fédération des maisons médicales
- - [https://www.maisonmedicale.org](https://www.maisonmedicale.org)
+ - [https://maisonmedicale.org](https://maisonmedicale.org)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Index of /.
@@ -2825,7 +2988,7 @@
  - date_published: 2018-11-20T21:50:23+00:00
 
  ## Project 2024: Majority Over MAGA
- - [https://www.majorityovermaga.org](https://www.majorityovermaga.org)
+ - [https://majorityovermaga.org](https://majorityovermaga.org)
  - date_published: 2024-07-15T07:35:51.813221+00:00
 
  ## Major League Cyber
@@ -2841,15 +3004,15 @@
  - date_published: 2024-04-30T06:46:56.195451+00:00
 
  ## Em defesa da democracia, contra a corrupção
- - [http://makaangola.org](http://makaangola.org)
+ - [https://makaangola.org](https://makaangola.org)
  - date_published: 2024-08-12T04:35:03.011904+00:00
 
  ## Makaha Learning Center | Trade School | Waianae
- - [https://www.makahalearning.org](https://www.makahalearning.org)
+ - [https://makahalearning.org](https://makahalearning.org)
  - date_published: 2024-08-16T00:00:00+00:00
 
  ## MAK Center for Art and Architecture
- - [https://www.makcenter.org](https://www.makcenter.org)
+ - [https://makcenter.org](https://makcenter.org)
  - date_published: 2024-06-22T00:00:00+00:00
 
  ## Makeaton.Org :: Unsweetened, Raw Talent / Truth & Healthy, Nutritious Event / Step​
@@ -2861,7 +3024,7 @@
  - date_published: 2024-07-11T16:49:04.753504+00:00
 
  ## www.makehumancommunity.org
- - [http://www.makehumancommunity.org](http://www.makehumancommunity.org)
+ - [http://makehumancommunity.org](http://makehumancommunity.org)
  - date_published: 2024-05-11T00:00:00+00:00
 
  ## We Make Mothers Matter - Since 1947
@@ -2901,15 +3064,15 @@
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## MakeSPP
- - [https://www.makespp.org](https://www.makespp.org)
+ - [https://makespp.org](https://makespp.org)
  - date_published: 2024-06-20T15:20:06.042861+00:00
 
  ## Make The Road Action
- - [http://www.maketheroadaction.org](http://www.maketheroadaction.org)
+ - [https://maketheroadaction.org](https://maketheroadaction.org)
  - date_published: 2024-06-04T00:00:00+00:00
 
  ## Community Organizing | Make The Road Connecticut | Connecticut
- - [http://www.maketheroadct.org](http://www.maketheroadct.org)
+ - [https://maketheroadct.org](https://maketheroadct.org)
  - date_published: 2024-06-20T11:43:17.500064+00:00
 
  ## Home - Make The Road New Jer
@@ -3893,149 +4056,4 @@
  ## Maryland DeMolay – Building Tomorrows Leaders
  - [https://marylanddemolay.org](https://marylanddemolay.org)
  - date_published: 2024-06-17T14:02:35.028155+00:00
-
- ## Home Page - Maryland State Education Association
- - [https://marylandeducators.org](https://marylandeducators.org)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Home - Maryland Matters
- - [https://marylandmatters.org](https://marylandmatters.org)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Home | Maryland Nonprofits Career Center
- - [https://jobs.marylandnonprofits.org](https://jobs.marylandnonprofits.org)
- - date_published: 2024-12-30T06:30:06.966652+00:00
-
- ## Home - Maryland Nonprofits
- - [https://marylandnonprofits.org](https://marylandnonprofits.org)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## The Mary Rose - The Mary Rose
- - [http://www.maryrose.org](http://www.maryrose.org)
- - date_published: 2024-10-29T09:41:38+00:00
-
- ## Mascher Space
- - [https://www.mascherdance.org](https://www.mascherdance.org)
- - date_published: 2024-12-25T20:43:22.983843+00:00
-
- ## MA Senior Care Association | Mass Senior Care
- - [https://maseniorcare.org](https://maseniorcare.org)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## MA Senior Care Foundation | Mass Senior Care Foundation
- - [https://maseniorcarefoundation.org](https://maseniorcarefoundation.org)
- - date_published: 2024-05-08T10:02:17.155965+00:00
-
- ## Conciliación Certificado efr - Soy EFR
- - [https://www.masfamilia.org](https://www.masfamilia.org)
- - date_published: 2024-12-09T16:59:33.475052+00:00
-
- ## home
- - [https://mashingup.org](https://mashingup.org)
- - date_published: 2024-10-22T21:01:26.236198+00:00
-
- ## Masipag.org
- - [https://masipag.org](https://masipag.org)
- - date_published: 2024-07-08T13:23:25.693074+00:00
-
- ## SIPUTRI88 > Link Situs Daftar SBOBET Terpercaya & Terbaik Gampang menang
- - [https://masjidalkautsar.org](https://masjidalkautsar.org)
- - date_published: 2024-12-19T10:55:50.273104+00:00
-
- ## Worldwide Mask Bloc Directory – Find your local Mask Bloc
- - [https://maskbloc.org](https://maskbloc.org)
- - date_published: 2024-06-21T23:41:05+00:00
-
- ## Mask Bloc San José | Mask Bloc San José
- - [https://www.masksanjose.org](https://www.masksanjose.org)
- - date_published: 2024-12-17T12:42:03+00:00
-
- ## MASNO - The Musical Arts Society of New Orleans
- - [https://masno.org](https://masno.org)
- - date_published: 2023-01-24T18:06:27+00:00
-
- ## Home - Masonic Blood + Organ Donor Program
- - [https://masonicbloodandorgandonors.org](https://masonicbloodandorgandonors.org)
- - date_published: 2024-02-01T13:15:07+00:00
-
- ## Masonic Charities of Pennsylvania
- - [https://masoniccharitiespa.org](https://masoniccharitiespa.org)
- - date_published: 2015-03-13T17:10:07+00:00
-
- ## The Masonic Children's Home - Masonic Children's Home of Pennsylvania
- - [https://masonicchildrenshome.org](https://masonicchildrenshome.org)
- - date_published: 2023-01-20T18:51:47+00:00
-
- ## California Masonic Foundation – When help is needed, a mason provides it.
- - [https://masonicfoundation.org](https://masonicfoundation.org)
- - date_published: 2024-06-17T14:00:26.663594+00:00
-
- ## Henry Coil Museum Exhibits – Library and Museum of Freemasonry
- - [https://masonicheritage.org](https://masonicheritage.org)
- - date_published: 2024-06-17T14:00:18.727523+00:00
-
- ## Home - Masonic Home
- - [https://masonichome.org](https://masonichome.org)
- - date_published: 2024-10-19T09:39:14.298151+00:00
-
- ## Home - Masonic Renewal Committee of the Conference of Grand Masters
- - [https://masonicrenewal.org](https://masonicrenewal.org)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Masonic United Nations
- - [https://masonicun.org](https://masonicun.org)
- - date_published: 2024-06-17T11:40:02+00:00
- - tags: ['freemasonry']
-
- ## Home - Masonic Village at Dallas
- - [https://masonicvillagedallas.org](https://masonicvillagedallas.org)
- - date_published: 2024-10-19T09:44:29.897352+00:00
-
- ## Home - Masonic Village Elizabethtown
- - [https://masonicvillageelizabethtown.org](https://masonicvillageelizabethtown.org)
- - date_published: 2024-10-19T09:43:55.035009+00:00
-
- ## Home - Masonic Village Home Care
- - [https://masonicvillagehomecare.org](https://masonicvillagehomecare.org)
- - date_published: 2024-10-19T09:44:28.279528+00:00
-
- ## Home - Masonic Village Home Health
- - [https://masonicvillagehomehealth.org](https://masonicvillagehomehealth.org)
- - date_published: 2024-10-19T09:44:18.198406+00:00
-
- ## Home - Masonic Village Hospice
- - [https://masonicvillagehospice.org](https://masonicvillagehospice.org)
- - date_published: 2024-10-19T09:44:32.018109+00:00
-
- ## Home - Masonic Village Lafayette Hill
- - [https://masonicvillagelafayettehill.org](https://masonicvillagelafayettehill.org)
- - date_published: 2024-10-19T09:44:07.291936+00:00
-
- ## Home - Masonic Village Pharmacy
- - [https://masonicvillagepharmacy.org](https://masonicvillagepharmacy.org)
- - date_published: 2024-10-19T09:44:01.025279+00:00
-
- ## Masonic Villages - Retirement Living in Pennsylvania
- - [https://masonicvillages.org](https://masonicvillages.org)
- - date_published: 2023-01-17T00:00:00+00:00
-
- ## Home - Masonic Village Sewickley
- - [https://masonicvillagesewickley.org](https://masonicvillagesewickley.org)
- - date_published: 2024-10-19T09:44:08.976697+00:00
-
- ## Home - Masonic Village Sewickley
- - [http://www2.masonicvillagesewickley.org](http://www2.masonicvillagesewickley.org)
- - date_published: 2021-11-10T15:10:43+00:00
-
- ## Current Career Opportunities at Masonic Village Home Health, Hospice and Home Care
- - [http://homehealth.masonicvillagesjobs.org](http://homehealth.masonicvillagesjobs.org)
- - date_published: 2024-12-30T06:41:57.853182+00:00
-
- ## Home - Masonic Village Warminster
- - [https://masonicvillagewarminster.org](https://masonicvillagewarminster.org)
- - date_published: 2024-10-19T09:44:33.551232+00:00
-
- ## DOG69: Platform Digital Situs Game Online Link Login Dog69 Slot Daftar Akses VVIP
- - [https://masonindiawest.org](https://masonindiawest.org)
- - date_published: 2024-10-19T02:31:25.404591+00:00
 

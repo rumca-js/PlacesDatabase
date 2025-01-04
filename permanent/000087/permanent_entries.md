@@ -1,3 +1,11 @@
+ ## Catallaxy Files - Trove
+ - [https://catallaxyfiles.com](https://catallaxyfiles.com)
+ - date_published: 2024-06-15T09:13:29.630625+00:00
+
+ ## Catalog.com
+ - [http://catalog.com](http://catalog.com)
+ - date_published: 2024-07-19T14:57:03.406303+00:00
+
  ## PastPerfect
  - [https://battleshipnc.catalogaccess.com](https://battleshipnc.catalogaccess.com)
  - date_published: 2024-06-27T02:35:51.956457+00:00
@@ -4029,12 +4037,4 @@
  ## Spotler Ltd
  - [https://cgtforms.com](https://cgtforms.com)
  - date_published: 2023-03-27T16:02:25+00:00
-
- ## CGTLive®
- - [https://cgtlive.com](https://cgtlive.com)
- - date_published: 2024-05-12T05:00:01.990356+00:00
-
- ## One - CGTLive
- - [https://one.cgtlive.com](https://one.cgtlive.com)
- - date_published: 2024-07-15T03:41:53.052497+00:00
 

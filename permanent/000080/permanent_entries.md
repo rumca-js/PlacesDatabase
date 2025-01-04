@@ -1,3 +1,19 @@
+ ## xpostfactoid
+ - [https://xpostfactoid.blogspot.com](https://xpostfactoid.blogspot.com)
+ - date_published: 2024-06-28T06:11:31+00:00
+
+ ## Ray's X-Blog
+ - [http://xrayer.blogspot.com](http://xrayer.blogspot.com)
+ - date_published: 2024-10-18T21:03:54+00:00
+
+ ## Blogger
+ - [http://xrayspex.blogspot.com](http://xrayspex.blogspot.com)
+ - date_published: 2024-10-21T05:14:03.544453+00:00
+
+ ## Paralipomena (3)
+ - [https://xtractsof.blogspot.com](https://xtractsof.blogspot.com)
+ - date_published: 2024-03-13T15:17:20+00:00
+
  ## Xulutec
  - [http://xulutec.blogspot.com](http://xulutec.blogspot.com)
  - date_published: 2024-06-19T03:58:33+00:00
@@ -4027,21 +4043,4 @@
  ## Bob Bennett | The Musical Hub of Singer-Songwriter Bob Bennett
  - [https://bobbennett.com](https://bobbennett.com)
  - date_published: 2024-07-03T15:21:22.569523+00:00
-
- ## Bob Bertsch
- - [https://bobbertsch.com](https://bobbertsch.com)
- - date_published: 2023-12-19T10:00:09.271295+00:00
- - tags: ['personal']
-
- ## Bobbie Chen
- - [https://bobbiechen.com](https://bobbiechen.com)
- - date_published: 2023-10-25T13:07:34.345024+00:00
-
- ## Welcome to the Bob Buick Site
- - [http://www.bobbuick.com](http://www.bobbuick.com)
- - date_published: 2024-06-21T09:53:18.538978+00:00
-
- ## Home - Bobby Berk
- - [https://bobbyberk.com](https://bobbyberk.com)
- - date_published: 2019-02-09T01:41:14+00:00
 

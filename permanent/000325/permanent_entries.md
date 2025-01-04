@@ -1,3 +1,110 @@
+ ## Lunar - The defacto app for controlling monitor brightness
+ - [https://lunar.fyi](https://lunar.fyi)
+ - date_published: 2024-08-19T10:52:19.090768+00:00
+
+ ## Mads Brodt - Front-end developer and teacher
+ - [https://mads.fyi](https://mads.fyi)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Marva Jackson Lord
+ - [https://marva.fyi](https://marva.fyi)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## MetaTerminal
+ - [https://metaterminal.fyi](https://metaterminal.fyi)
+ - date_published: 2024-06-15T09:47:51.298633+00:00
+
+ ## mly.fyi
+ - [https://mly.fyi](https://mly.fyi)
+ - date_published: 2024-07-09T19:17:18.587213+00:00
+
+ ## moon
+ - [http://moon.fyi](http://moon.fyi)
+ - date_published: 2024-07-13T15:42:20.086874+00:00
+
+ ## MSB.fyi
+ - [https://msb.fyi](https://msb.fyi)
+ - date_published: 2024-08-04T00:00:00+00:00
+
+ ## Not a Number
+ - [https://nan.fyi](https://nan.fyi)
+ - date_published: 2024-05-08T00:41:23.065747+00:00
+
+ ## Fabian Neumann
+ - [https://neumann.fyi](https://neumann.fyi)
+ - date_published: 2024-10-15T09:43:16+00:00
+
+ ## Home
+ - [https://www.niklas.fyi](https://www.niklas.fyi)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Not By AI — Add the Badge to Your Human-Created Content
+ - [https://notbyai.fyi](https://notbyai.fyi)
+ - date_published: 2023-10-25T19:16:11.639093+00:00
+
+ ## 2 Weeks Notice/Layoff Checklist
+ - [https://notice.fyi](https://notice.fyi)
+ - date_published: 2023-10-25T19:16:13.369510+00:00
+
+ ## Scale & Ship Faster with a Composable Web Architecture | Netlify
+ - [https://ntl.fyi](https://ntl.fyi)
+ - date_published: 2024-06-23T06:28:04.972506+00:00
+
+ - [https://nudges.fyi](https://nudges.fyi)
+ - date_published: 2024-01-09T03:30:11.356804+00:00
+
+ ## Show HN: Onsites.fyi - Curated Big Tech Interview Experiences
+ - [https://onsites.fyi](https://onsites.fyi)
+ - date_published: 2023-12-03T13:29:53+00:00
+
+ ## OpenSauced
+ - [https://oss.fyi](https://oss.fyi)
+ - date_published: 2024-06-20T15:43:19.082979+00:00
+
+ ## OpenSecurityTraining2
+ - [https://ost2.fyi](https://ost2.fyi)
+ - date_published: 2024-06-10T19:54:16+00:00
+
+ ## | OpenSecurityTraining2
+ - [https://p.ost2.fyi](https://p.ost2.fyi)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## OTS - One Time Secrets
+ - [https://ots.fyi](https://ots.fyi)
+ - date_published: 2024-06-19T22:22:33.433818+00:00
+
+ ## Page - Life is short. Network.
+ - [https://page.fyi](https://page.fyi)
+ - date_published: 2024-06-18T16:15:40.264324+00:00
+
+ ## Page Store - The world's smartest way to network
+ - [https://store.page.fyi](https://store.page.fyi)
+ - date_published: 2024-10-22T18:57:26.908690+00:00
+
+ ## Paisa
+ - [https://demo1.paisa.fyi](https://demo1.paisa.fyi)
+ - date_published: 2024-05-08T00:41:28.103122+00:00
+
+ ## Paisa
+ - [https://demo.paisa.fyi](https://demo.paisa.fyi)
+ - date_published: 2024-05-08T00:41:26.721569+00:00
+
+ ## Paisa
+ - [https://paisa.fyi](https://paisa.fyi)
+ - date_published: 2023-10-25T19:16:14.401445+00:00
+
+ ## Ask a Philosopher
+ - [https://philosophy.fyi](https://philosophy.fyi)
+ - date_published: 2024-10-30T07:30:39.927427+00:00
+
+ ## physician.fyi
+ - [https://physician.fyi](https://physician.fyi)
+ - date_published: 2023-10-25T19:16:19.520735+00:00
+
+ ## pirroh - Overview
+ - [https://pirroh.fyi](https://pirroh.fyi)
+ - date_published: 2024-04-28T04:38:03.350734+00:00
+
  ## population.fyi | Substack
  - [https://www.population.fyi](https://www.population.fyi)
  - date_published: 2024-06-05T00:00:00+00:00
@@ -3932,112 +4039,4 @@
  ## Zanim przejdziesz do Map Google
  - [https://maps.google.gl](https://maps.google.gl)
  - date_published: 2024-07-20T07:39:46.112221+00:00
-
- ## Google
- - [https://www.google.gl](https://www.google.gl)
- - date_published: 2024-06-21T22:23:41.542908+00:00
-
- ## OpenGL - Introduction
- - [https://open.gl](https://open.gl)
- - date_published: 2024-03-04T10:50:12+00:00
-
- ## stack.gl
- - [https://stack.gl](https://stack.gl)
- - date_published: 2020-04-13T21:26:06+00:00
-
- ## Plausible · Web analytics
- - [https://analytics.streets.gl](https://analytics.streets.gl)
- - date_published: 2024-06-29T16:39:05.157460+00:00
-
- ## Streets GL
- - [https://streets.gl](https://streets.gl)
- - date_published: 2024-05-07T13:25:41.707117+00:00
-
- ## Palworld Interactive Map – The Hidden Gaming Lair
- - [https://palworld.th.gl](https://palworld.th.gl)
- - date_published: 2024-10-28T04:47:24.592760+00:00
-
- ## Waggle AI – Scientific AI at the Edge
- - [https://wa8.gl](https://wa8.gl)
- - date_published: 2024-05-09T04:26:22.778983+00:00
-
- ## Za.gl - Short your long links and get paid!
- - [https://zee.gl](https://zee.gl)
- - date_published: 2024-06-20T05:09:56.768198+00:00
-
- ## Analog Glass
- - [https://www.analog.glass](https://www.analog.glass)
- - date_published: 2024-07-13T14:40:15.383558+00:00
-
- ## glassmorphism-generator
- - [https://css.glass](https://css.glass)
- - date_published: 2024-09-12T17:16:57.896301+00:00
-
- ## Year of the Meteor
- - [https://desert.glass](https://desert.glass)
- - date_published: 2024-06-21T18:01:07+00:00
-
- ## Jeff Glass
- - [https://jeff.glass](https://jeff.glass)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## Glass UI - The definitive CSS UI library for glassmorphism
- - [https://ui.glass](https://ui.glass)
- - date_published: 2024-10-22T19:17:17.501465+00:00
-
- ## Google forms
- - [https://forms.gle](https://forms.gle)
- - date_published: 2023-12-05T02:33:59+00:00
-
- ## Google
- - [https://goo.gle](https://goo.gle)
- - date_published: 2024-04-27T08:04:47.537098+00:00
-
- ## 0xSenses Corporation: Creating Better Worlds
- - [https://0xsenses.global](https://0xsenses.global)
- - date_published: 2024-12-30T12:37:13.008586+00:00
-
- ## AFK Arena & AFK Journey Wiki - Latest News & Guides
- - [https://afk.global](https://afk.global)
- - date_published: 2020-04-03T19:52:39+00:00
-
- ## ALLTRA Explorer: A Block Explorer for  ALLTRA Blockchain
- - [https://alltra.global](https://alltra.global)
- - date_published: 2024-09-24T03:56:00.913763+00:00
-
- ## Meetings Industry News, Events, Education & Destination Planning
- - [https://amimagazine.global](https://amimagazine.global)
- - date_published: 2024-05-08T04:01:28.958070+00:00
-
- ## Anime Anime Global
- - [https://animeanime.global](https://animeanime.global)
- - date_published: 2024-06-20T01:27:13.861734+00:00
-
- ## Apidays - World's leading series of API Conferences
- - [https://www.apidays.global](https://www.apidays.global)
- - date_published: 2024-06-21T03:00:45+00:00
-
- ## Home
- - [https://a-team.global](https://a-team.global)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Accueil - Auxilium
- - [https://auxilium.global](https://auxilium.global)
- - date_published: 2023-12-19T04:55:34+00:00
-
- ## BlackBox
- - [https://blackbox.global](https://blackbox.global)
- - date_published: 2024-05-08T10:34:25.722684+00:00
-
- ## The BlackBox Digital Guild Inc
- - [https://portal.blackbox.global](https://portal.blackbox.global)
- - date_published: 2024-07-05T09:43:46+00:00
-
- ## BlueDot: The world's most trusted infectious disease intelligence
- - [https://bluedot.global](https://bluedot.global)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## BlueDot Portal
- - [https://portal.bluedot.global](https://portal.bluedot.global)
- - date_published: 2024-10-18T18:08:39.014738+00:00
 

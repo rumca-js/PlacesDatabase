@@ -1,3 +1,163 @@
+ ## .:: Bilgi Sistemleri ::.
+ - [https://obs.asbu.edu.tr](https://obs.asbu.edu.tr)
+ - date_published: 2024-10-19T16:45:44.943010+00:00
+
+ ## Bartın Üniversitesi
+ - [https://bartin.edu.tr](https://bartin.edu.tr)
+ - date_published: 2024-10-30T20:26:44.056465+00:00
+
+ ## Proje Pazarı
+ - [https://cdn.bartin.edu.tr](https://cdn.bartin.edu.tr)
+ - date_published: 2021-11-09T12:33:12+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://posta.bartin.edu.tr](https://posta.bartin.edu.tr)
+ - date_published: 2024-12-15T14:52:38.442705+00:00
+
+ ## Bartın Üniversitesi
+ - [http://w3.bartin.edu.tr](http://w3.bartin.edu.tr)
+ - date_published: 2024-12-15T14:53:28.320446+00:00
+
+ ## BEÜN Prof.Dr. Durmuş Günay Kütüphanesi
+ - [https://kutuphane.beun.edu.tr](https://kutuphane.beun.edu.tr)
+ - date_published: 2024-10-19T16:06:47.054765+00:00
+
+ ## Beykoz Üniversitesi 7/24 İletişim Platformu
+ - [https://724.beykoz.edu.tr](https://724.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:17.782607+00:00
+
+ ## DSpace@Beykoz
+ - [http://acikerisim.beykoz.edu.tr](http://acikerisim.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:29.944446+00:00
+
+ ## Aday Öğrenci | Beykoz Üniversitesi
+ - [https://aday.beykoz.edu.tr](https://aday.beykoz.edu.tr)
+ - date_published: 2024-10-19T12:20:52.312260+00:00
+
+ ## BEYKOZ ÜNİVERSİTESİ
+ - [https://akts.beykoz.edu.tr](https://akts.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:38.913056+00:00
+
+ ## Apply Beykoz University
+ - [https://applyonline.beykoz.edu.tr](https://applyonline.beykoz.edu.tr)
+ - date_published: 2023-06-18T15:00:44+00:00
+
+ ## BeykozAkademi Dergisi – Beykoz Üniversitesi
+ - [https://beykozakademi.beykoz.edu.tr](https://beykozakademi.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:48.665810+00:00
+
+ ## Beykoz Üniversitesi
+ - [https://beykoz.edu.tr](https://beykoz.edu.tr)
+ - date_published: 2024-06-17T15:01:32.445902+00:00
+
+ ## BİS – Beykoz Üniversitesi
+ - [https://bis.beykoz.edu.tr](https://bis.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:16.810369+00:00
+
+ ## SINIR/SIZ: Dijital Çağdan Sonra
+ - [https://borderless.beykoz.edu.tr](https://borderless.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:49.913904+00:00
+
+ ## BÜDA - Beykoz Üniversitesi Doküman Ağacı
+ - [https://buda.beykoz.edu.tr](https://buda.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:51.259301+00:00
+
+ ## Beykoz Üniversitesi
+ - [https://ebys.beykoz.edu.tr](https://ebys.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:22.298526+00:00
+
+ ## BEYKOZ UNIVERSITY
+ - [https://ects.beykoz.edu.tr](https://ects.beykoz.edu.tr)
+ - date_published: 2024-06-17T15:00:41.965041+00:00
+
+ ## eyoklama
+ - [https://eyoklama.beykoz.edu.tr](https://eyoklama.beykoz.edu.tr)
+ - date_published: 2024-04-07T09:47:10+00:00
+
+ ## Beykoz Üniversitesi | Beykoz University – form.beykoz.edu.tr
+ - [http://form.beykoz.edu.tr](http://form.beykoz.edu.tr)
+ - date_published: 2024-06-17T15:00:09.445683+00:00
+
+ ## Beykoz University International Office
+ - [https://int.beykoz.edu.tr](https://int.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:45.290590+00:00
+
+ ## Beykoz Üniversitesi | Kariyer Merkezi
+ - [https://kariyer.beykoz.edu.tr](https://kariyer.beykoz.edu.tr)
+ - date_published: 2023-09-20T00:00:00+00:00
+
+ ## OİS
+ - [https://ois.beykoz.edu.tr](https://ois.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:19.419068+00:00
+
+ ## OnlineBeykoz: Siteye giriş yap
+ - [https://online.beykoz.edu.tr](https://online.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:14.413245+00:00
+
+ ## Beykoz Üniversitesi | E-Rehber – 0216 912 22 52
+ - [https://rehber.beykoz.edu.tr](https://rehber.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:27.739681+00:00
+
+ ## Beykoz Üniversitesi Kütüphanesi catalog
+ - [https://tarama.beykoz.edu.tr](https://tarama.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:46.850715+00:00
+
+ ## Yaşamboyu Öğrenme Merkezi | Beykoz Üniversitesi
+ - [https://yom.beykoz.edu.tr](https://yom.beykoz.edu.tr)
+ - date_published: 2024-05-02T10:24:25.184616+00:00
+
+ ## Adaylar için BİLGİ
+ - [https://aday.bilgi.edu.tr](https://aday.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:25.424142+00:00
+
+ ## Homepage | Bilgi & Asu Global Campus
+ - [https://asu.bilgi.edu.tr](https://asu.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:23.836191+00:00
+
+ ## Home | İstanbul Bilgi Üniversitesi
+ - [https://bilgi.edu.tr](https://bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:37.094140+00:00
+
+ ## İngilizce Hazırlık Programı - İngilizce Hazırlık Programı | İstanbul Bilgi Üniversitesi
+ - [http://elp.bilgi.edu.tr](http://elp.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:55.893265+00:00
+
+ ## Hoşgeldiniz | İstanbul Bilgi Üniversitesi
+ - [https://it.bilgi.edu.tr](https://it.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:26.651933+00:00
+
+ ## ITLaw
+ - [https://itlaw.bilgi.edu.tr](https://itlaw.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:28.546653+00:00
+
+ ## Homepage | Library Istanbul Bilgi University
+ - [http://library.bilgi.edu.tr](http://library.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:35.177633+00:00
+
+ ## BİLGİ Rehber
+ - [http://rehber.bilgi.edu.tr](http://rehber.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:10:24.752718+00:00
+
+ ## BİLGİ SIS
+ - [https://sis.bilgi.edu.tr](https://sis.bilgi.edu.tr)
+ - date_published: 2024-10-18T22:11:10.363106+00:00
+
+ ## Üniversite Adaylarına Bilgi – Bilkent Üniversitesi
+ - [http://adaybilgi.bilkent.edu.tr](http://adaybilgi.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:09:13.164983+00:00
+
+ ## Bilkent University - BAIS
+ - [https://bais.bilkent.edu.tr](https://bais.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:09:28.411719+00:00
+
+ ## BSO Bilet Satışı
+ - [https://bilet.bilkent.edu.tr](https://bilet.bilkent.edu.tr)
+ - date_published: 2024-09-18T08:09:57.491302+00:00
+
+ ## EN / Bilkent University
+ - [https://bilkent.edu.tr](https://bilkent.edu.tr)
+ - date_published: 2024-09-18T08:06:41.585109+00:00
+
  ## Bilkent News
  - [https://bilkentnews.bilkent.edu.tr](https://bilkentnews.bilkent.edu.tr)
  - date_published: 2024-09-18T08:29:37.005992+00:00
@@ -3897,166 +4057,4 @@ NMHSs DIRECTORS
  ## Attentive | Personalized Text Messaging for Innovative Brands
  - [http://attn.tv](http://attn.tv)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## auひかり テレビサービス 公式サイト
- - [https://auhikari.tv](https://auhikari.tv)
- - date_published: 2024-07-05T05:56:48+00:00
-
- ## Auto Futures | The latest updates from the future of mobility
- - [https://www.autofutures.tv](https://www.autofutures.tv)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Autolifethailand รีวิวรถยนต์
- - [https://autolifethailand.tv](https://autolifethailand.tv)
- - date_published: 2024-12-30T16:31:41+00:00
-
- ## Autosalon TV
- - [https://autosalon.tv](https://autosalon.tv)
- - date_published: 2024-06-10T10:35:38.167608+00:00
- - tags: ['cars']
-
- ## Vítejte v dárkovém obchodu Autosalon.tv - Autosalon
- - [https://eshop.autosalon.tv](https://eshop.autosalon.tv)
- - date_published: 2024-09-05T17:07:59.722019+00:00
-
- ## AWPRO
- - [https://awpro.tv](https://awpro.tv)
- - date_published: 2025-01-02T00:25:11.817618+00:00
-
- ## AZFamily | 3TV & CBS 5 News | Phoenix, Arizona
- - [https://azfamily.tv](https://azfamily.tv)
- - date_published: 2024-05-09T06:51:55.504277+00:00
-
- ## Budi i ti na B92  - B92.TV
- - [https://b92.tv](https://b92.tv)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Home
- - [https://www.b98.tv](https://www.b98.tv)
- - date_published: 2024-11-09T14:41:53+00:00
-
- ## Backpedal TV - livestreaming and recording for conferences, meetups and events
- - [https://backpedal.tv](https://backpedal.tv)
- - date_published: 2024-05-01T00:32:17.380162+00:00
-
- ## TVアニメ「BANANA FISH」公式サイト
- - [http://bananafish.tv](http://bananafish.tv)
- - date_published: 2024-10-24T17:45:25.179699+00:00
-
- ## Bandamax | Sitio oficial
- - [https://www.bandamax.tv](https://www.bandamax.tv)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## TV Barrandov - baví nás bavit
- - [https://www.barrandov.tv](https://www.barrandov.tv)
- - date_published: 2024-10-21T16:03:33.485330+00:00
-
- ## Pay-Per-View | Barstool TV
- - [https://barstool.tv](https://barstool.tv)
- - date_published: 2024-06-23T02:19:32.621921+00:00
-
- ## BayaM - La plateforme des enfants !
- - [https://bayam.tv](https://bayam.tv)
- - date_published: 2024-12-26T10:20:07+00:00
-
- ## Home
- - [https://be-entertainment.tv](https://be-entertainment.tv)
- - date_published: 2024-12-25T23:14:13+00:00
-
- ## WatchSeries - Watch Free Movies Online - HD Series & TV Show
- - [http://beerthirty.tv](http://beerthirty.tv)
- - date_published: 2024-12-28T06:38:16.443338+00:00
-
- ## Watch Videos on Beet.TV
- - [https://www.beet.tv](https://www.beet.tv)
- - date_published: 2024-06-25T18:25:19.804360+00:00
-
- ## Behind The Screens
- - [https://behind-the-screens.tv](https://behind-the-screens.tv)
- - date_published: 2024-01-06T22:32:29.269877+00:00
-
- ## Before you continue to YouTube
- - [http://bfdi.tv](http://bfdi.tv)
- - date_published: 2024-06-19T01:45:44.224597+00:00
-
- ## bfinteractive.tv - bfinteractive Zasoby i informacje.
- - [http://www.bfinteractive.tv](http://www.bfinteractive.tv)
- - date_published: 2024-11-16T19:39:13+00:00
-
- ## Bangumi 番组计划
- - [https://bgm.tv](https://bgm.tv)
- - date_published: 2024-07-03T23:24:29.475330+00:00
-
- ## Biased BBC
- - [https://biasedbbc.tv](https://biasedbbc.tv)
- - date_published: 2024-07-13T11:11:36.801740+00:00
-
- ## Best Teleprompter Tool, Caption Maker & Video Editor | BIGVU Website
- - [https://bigvu.tv](https://bigvu.tv)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## BILDWERK — Agentur für interaktive Erlebnisse auf Messen und Events
- - [https://www.bildwerk.tv](https://www.bildwerk.tv)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## BiliBili
- - [https://bilibili.tv](https://bilibili.tv)
- - date_published: 2024-12-02T10:16:11+00:00
- - tags: ['social platform', 'video streaming', 'anime', 'comics']
-
- ## Billy Watson TV | Billy Watson's blog with videos.
- - [https://billywatson.tv](https://billywatson.tv)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home - BIRTH Productions
- - [https://birth.tv](https://birth.tv)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home - BIRTH MUSIC VIDEO
- - [https://bornready.birth.tv](https://bornready.birth.tv)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Strapi Admin
- - [https://cms.birth.tv](https://cms.birth.tv)
- - date_published: 2024-06-20T07:57:15.447231+00:00
-
- ## Home - BIRTH Film
- - [https://films.birth.tv](https://films.birth.tv)
- - date_published: 2024-06-20T07:57:12.167951+00:00
-
- ## Home - BIRTH LX
- - [https://lx.birth.tv](https://lx.birth.tv)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## BitRiver TV
- - [https://bitriver.tv](https://bitriver.tv)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## BLAZE TV UK – Take it on. Stream top TV for free.
- - [https://www.blaze.tv](https://www.blaze.tv)
- - date_published: 2024-10-20T12:28:53.387496+00:00
-
- ## Bloggingheads.tv
- - [http://bloggingheads.tv](http://bloggingheads.tv)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Bluey Official Website | Play Games, Watch Videos & More!
- - [https://www.bluey.tv](https://www.bluey.tv)
- - date_published: 2019-04-30T03:47:00+00:00
-
- ## Boardroom
- - [https://boardroom.tv](https://boardroom.tv)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Boardroom - Business of Sports | Entertainment | Culture
- - [https://shop.boardroom.tv](https://shop.boardroom.tv)
- - date_published: 2024-06-15T06:16:46.203742+00:00
-
- ## BOILER ROOM
- - [https://boilerroom.tv](https://boilerroom.tv)
- - date_published: 2024-07-03T16:00:11.251684+00:00
-
- ## BoxCast | Live Video Streaming for Organizations
- - [https://boxcast.tv](https://boxcast.tv)
- - date_published: 2024-07-11T13:09:59.672341+00:00
 

@@ -1,3 +1,167 @@
+ ## National Speech & Debate Association
+ - [https://www.speechanddebate.org](https://www.speechanddebate.org)
+ - date_published: 2024-12-16T11:05:21.995073+00:00
+
+ ## Speechki — AI Realistic Voice Generator and Text-to-Speech Solution with 1,100+ Voices in 80+ Languages
+ - [https://speechki.org](https://speechki.org)
+ - date_published: 2024-05-22T16:02:04+00:00
+
+ ## Speed Dreams - A free Open Motorsport Sim and Open Source Racing Game
+ - [http://www.speed-dreams.org](http://www.speed-dreams.org)
+ - date_published: 2015-11-23T19:56:37+00:00
+
+ ## Speed Force
+ - [https://speedforce.org](https://speedforce.org)
+ - date_published: 2024-05-15T02:46:00.127415+00:00
+ - tags: ['dc', 'comics', 'flash']
+
+ ## Speed Force
+ - [https://st3.speedforce.org](https://st3.speedforce.org)
+ - date_published: 2024-09-04T00:32:34+00:00
+
+ ## Login
+         - SpeedIT Solutions
+ - [https://cp.speedit.org](https://cp.speedit.org)
+ - date_published: 2024-06-16T06:01:04.711625+00:00
+
+ ## Startseite
+ - [https://speedit.org](https://speedit.org)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Speed Art Museum
+ - [https://www.speedmuseum.org](https://www.speedmuseum.org)
+ - date_published: 2024-07-07T06:41:34.146406+00:00
+
+ ## Speex: a free codec for free speech
+ - [https://speex.org](https://speex.org)
+ - date_published: 2022-06-16T00:00:00+00:00
+
+ ## Spejset
+ - [https://social.spejset.org](https://social.spejset.org)
+ - date_published: 2024-07-02T18:43:07.731269+00:00
+
+ ## Spelljammer: Beyond the Moons (For all your Spelljamming needs)
+ - [http://www.spelljammer.org](http://www.spelljammer.org)
+ - date_published: 2022-07-05T19:26:55+00:00
+
+ ## SPEP – Society for Phenomenology and Existential Philosophy
+ - [http://www.spep.org](http://www.spep.org)
+ - date_published: 2024-09-15T12:59:53.045625+00:00
+
+ ## Home - South Plains Food Bank
+ - [https://spfb.org](https://spfb.org)
+ - date_published: 2024-02-24T19:46:10+00:00
+
+ ## St. Paul Homebrew Club
+ - [https://sphbc.org](https://sphbc.org)
+ - date_published: 2024-05-04T07:28:19.679009+00:00
+
+ ## Welcome — Sphinx documentation
+ - [http://sphinx-doc.org](http://sphinx-doc.org)
+ - date_published: 2024-05-04T15:19:07.697474+00:00
+
+ ## Sphinx Themes Gallery
+ - [https://sphinx-themes.org](https://sphinx-themes.org)
+ - date_published: 2024-08-12T01:03:32+00:00
+
+ ## Spice.ai Blog
+ - [https://blog.spiceai.org](https://blog.spiceai.org)
+ - date_published: 2024-03-28T19:17:56.011421+00:00
+
+ ## Home | Spice.ai OSS Docs
+ - [https://docs.spiceai.org](https://docs.spiceai.org)
+ - date_published: 2024-07-12T06:09:28+00:00
+
+ ## spicerack.org
+ - [https://spicerack.org](https://spicerack.org)
+ - date_published: 2024-07-14T22:36:22.864002+00:00
+
+ ## Home
+ - [https://spice-space.org](https://spice-space.org)
+ - date_published: 2024-04-16T18:13:53.882042+00:00
+ - tags: ['open source', 'remote desktop']
+
+ ## SPIDER – Inclusive digitalisation that benefits all
+ - [https://spidercenter.org](https://spidercenter.org)
+ - date_published: 2024-06-27T10:25:32+00:00
+
+ ## SpiderFan.Org @ SpiderFan.org
+ - [https://spiderfan.org](https://spiderfan.org)
+ - date_published: 2024-05-17T12:17:51+00:00
+ - tags: ['spiderman']
+
+ ## SPIE - the international society for optics and photonics
+ - [https://spie.org](https://spie.org)
+ - date_published: 2024-06-20T12:04:39.114480+00:00
+
+ ## Proceedings
+ - [http://proceedings.spiedigitallibrary.org](http://proceedings.spiedigitallibrary.org)
+ - date_published: 2024-07-15T07:08:48.509444+00:00
+
+ ## Search the world's largest 
+collection of optics and
+photonics applied research.
+ - [https://www.spiedigitallibrary.org](https://www.spiedigitallibrary.org)
+ - date_published: 2024-07-15T07:08:58.593850+00:00
+
+ ## SPIFlash.org
+ - [http://spiflash.org](http://spiflash.org)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## SPI
+ - [https://spi-inc.org](https://spi-inc.org)
+ - date_published: 1999-01-01T00:00:00+00:00
+ - tags: ['new york']
+
+ ## Spike 150
+ - [https://spike150.org](https://spike150.org)
+ - date_published: 2018-04-30T19:42:46+00:00
+
+ ## Kent R. Spillner
+ - [https://kent.spillner.org](https://kent.spillner.org)
+ - date_published: 2023-07-31T08:07:09+00:00
+ - tags: ['personal']
+
+ ## Home - UK Spindletop Hall
+ - [http://www.spindletophall.org](http://www.spindletophall.org)
+ - date_published: 2024-07-09T17:24:05.705822+00:00
+
+ ## Spinwatch
+ - [http://www.spinwatch.org](http://www.spinwatch.org)
+ - date_published: 2024-06-28T20:57:50.195694+00:00
+
+ ## Spirit of Harmony Foundation | Supporting the Moral Imperative of Music Education
+ - [http://www.spiritofharmony.org](http://www.spiritofharmony.org)
+ - date_published: 2024-08-20T05:04:33.729486+00:00
+
+ ## Home - Spirits United
+ - [https://www.spiritsunited.org](https://www.spiritsunited.org)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Spiritual Friendship
+ - [https://spiritualfriendship.org](https://spiritualfriendship.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## The Network of Spiritual Progressives – A Path to a World of Love and Justice
+ - [https://spiritualprogressives.org](https://spiritualprogressives.org)
+ - date_published: 2024-07-19T02:27:56+00:00
+
+ ## Welcome spittoon.org - FastDomain.com
+ - [http://www.spittoon.org](http://www.spittoon.org)
+ - date_published: 2024-10-21T13:00:44.099553+00:00
+
+ ## SPJ
+ - [https://my.spj.org](https://my.spj.org)
+ - date_published: 2024-09-04T02:17:02.160941+00:00
+
+ ## Society of Professional Journalists - Improving and protecting journalism since 1909
+ - [https://spj.org](https://spj.org)
+ - date_published: 2024-05-31T14:04:48.050683+00:00
+
+ ## Upcoming Events | Society of Professional Journalists
+ - [https://calendar.spjnetwork.org](https://calendar.spjnetwork.org)
+ - date_published: 2024-09-04T00:00:00+00:00
+
  ## SPL - Home
  - [https://www.spl.org](https://www.spl.org)
  - date_published: 2024-06-27T17:33:41.476608+00:00
@@ -3870,163 +4034,4 @@
  ## المجلس الأعلى السوري اللبناني
  - [http://www.syrleb.org](http://www.syrleb.org)
  - date_published: 2024-07-12T07:06:20.653871+00:00
-
- ## Sysad*
- - [https://sysad.org](https://sysad.org)
- - date_published: 2024-07-10T07:29:24.569869+00:00
-
- ## Syscoin Explorer
- - [https://explorer.syscoin.org](https://explorer.syscoin.org)
- - date_published: 2024-09-23T20:47:09.713771+00:00
-
- ## Multi-Chain Faucet from chains.tools
- - [https://faucet.syscoin.org](https://faucet.syscoin.org)
- - date_published: 2024-07-07T08:49:36+00:00
-
- ## Syscoin - Bitcoin’s only Modular Network
- - [https://syscoin.org](https://syscoin.org)
- - date_published: 2024-09-04T06:09:25+00:00
-
- ## Security Tools for Containers, Kubernetes, and Cloud (N)
- - [https://sysdig.org](https://sysdig.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Society of Systematic Biologists
- - [http://www.systbio.org](http://www.systbio.org)
- - date_published: 2024-12-31T14:15:28.350501+00:00
-
- ## Internet Providers in Washington
- - [http://systbiol.org](http://systbiol.org)
- - date_published: 2024-06-30T10:08:11.000009+00:00
-
- ## shmups.system11.org - Index page
- - [https://shmups.system11.org](https://shmups.system11.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Systematic Paris-Region, Pôle européen des Deep Tech
- - [https://systematic-paris-region.org](https://systematic-paris-region.org)
- - date_published: 2024-06-22T09:02:09.295348+00:00
-
- ## systemc.org
- - [http://www.systemc.org](http://www.systemc.org)
- - date_published: 2024-06-04T14:04:45+00:00
-
- ## Systemic Alternatives
- - [https://systemicalternatives.org](https://systemicalternatives.org)
- - date_published: 2024-12-22T02:07:34.751874+00:00
-
- ## Systemic Design Association Home
- - [https://systemic-design.org](https://systemic-design.org)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Home - Systemic Juvenile Idiopathic Arthritis Foundation
- - [https://www.systemicjia.org](https://www.systemicjia.org)
- - date_published: 2024-06-28T12:09:09.059517+00:00
-
- ## Your friendly tech collective
- - [https://www.systemli.org](https://www.systemli.org)
- - date_published: 2024-10-31T21:47:49+00:00
-
- ## SystemRescue - System Rescue Homepage
- - [https://system-rescue.org](https://system-rescue.org)
- - date_published: 2024-04-13T20:44:25+00:00
- - tags: ['linux', 'operating system']
-
- ## Computer Networks: A Systems Approach
- - [https://book.systemsapproach.org](https://book.systemsapproach.org)
- - date_published: 2024-06-05T15:24:26+00:00
-
- ## Systems Approach
- - [https://systemsapproach.org](https://systemsapproach.org)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Center for Systems Awareness
- - [https://systemsawareness.org](https://systemsawareness.org)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Home
- - [https://www.systemsbiology.org](https://www.systemsbiology.org)
- - date_published: 2024-10-19T04:50:16.414441+00:00
-
- ## UK Systems Society – Promoting Systems Thinking for the 21st century
- - [http://www.systemsforum.org](http://www.systemsforum.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Systemshock.org
- - [https://systemshock.org](https://systemshock.org)
- - date_published: 2024-05-08T13:32:22+00:00
- - tags: ['system shock']
-
- ## UMass systems lunch
- - [https://systems-lunch.org](https://systems-lunch.org)
- - date_published: 2024-10-14T18:54:55+00:00
-
- ## SystemTap
- - [https://systemtap.org](https://systemtap.org)
- - date_published: 2024-08-07T14:46:21+00:00
-
- ## System Transparency Blog
- - [https://blog.system-transparency.org](https://blog.system-transparency.org)
- - date_published: 2021-02-09T00:00:00+00:00
-
- ## System Transparency | security architecture for bare-metal servers
- - [https://system-transparency.org](https://system-transparency.org)
- - date_published: 2022-12-21T10:24:11+00:00
-
- ## South Zone Cultural Centre
- - [http://szccindia.org](http://szccindia.org)
- - date_published: 2024-12-25T01:39:45+00:00
-
- ## Richard Szeliski
- - [https://szeliski.org](https://szeliski.org)
- - date_published: 2024-05-09T09:16:11.296181+00:00
- - tags: ['personal']
-
- ## 浙江盘石信息技术股份有限公司，盘石诚信认证，网站安全认证
- - [https://credit.szfw.org](https://credit.szfw.org)
- - date_published: 2024-06-30T18:23:02.552874+00:00
-
- ## 诚信网站管理系统
- - [https://search.szfw.org](https://search.szfw.org)
- - date_published: 2016-06-29T09:54:20+00:00
-
- ## Daftar Kumpulan Situs MPO Terpercaya Link Aman Anti Nawala Terbaru
- - [https://szhkbiennale.org](https://szhkbiennale.org)
- - date_published: 2024-10-21T15:03:29.011186+00:00
-
- ## SZI database | subduction initiation
- - [https://szidatabase.org](https://szidatabase.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## helyesiras.szotar.org
- - [https://helyesiras.szotar.org](https://helyesiras.szotar.org)
- - date_published: 2024-07-09T20:15:44.309044+00:00
-
- ## Organisation Selection
- - [https://shibboleth.szotar.org](https://shibboleth.szotar.org)
- - date_published: 2024-07-09T20:15:45.981467+00:00
-
- ## T-1
- - [https://t-1.org](https://t-1.org)
- - date_published: 2024-01-09T03:42:37.325803+00:00
-
- ## T1LIB - a C programmers toolkit for generating bitmaps from Adobe Type 1 fonts
- - [https://t1lib.org](https://t1lib.org)
- - date_published: 2022-12-02T02:50:31+00:00
-
- ## The T2K Experiment
- - [https://t2k-experiment.org](https://t2k-experiment.org)
- - date_published: 2024-05-06T15:41:32.416018+00:00
-
- ## T2 SDE - The Open System Development Environment
- - [https://t2-project.org](https://t2-project.org)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Index of /
- - [https://dl.t2sde.org](https://dl.t2sde.org)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## T2 SDE - The Open System Development Environment
- - [https://t2sde.org](https://t2sde.org)
- - date_published: 2024-04-28T00:00:00+00:00
 

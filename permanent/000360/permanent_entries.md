@@ -1,3 +1,127 @@
+ ## Sign in - Matomo
+ - [https://analytics.infn.it](https://analytics.infn.it)
+ - date_published: 2024-07-06T23:32:17.521888+00:00
+
+ ## BookingFrontend
+ - [https://booking.dsi.infn.it](https://booking.dsi.infn.it)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Istituto Nazionale di Fisica Nucleare | Attività di Terza Missione
+ - [http://cc3m.infn.it](http://cc3m.infn.it)
+ - date_published: 2024-03-21T12:08:18+00:00
+
+ ## Collisioni.infn – Spazi culturali all’Istituto Nazionale di Fisica Nucleare
+ - [https://collisioni.infn.it](https://collisioni.infn.it)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Il DPO dell'INFN
+ - [https://dpo.infn.it](https://dpo.infn.it)
+ - date_published: 2024-07-06T23:32:14.163454+00:00
+
+ ## Educational
+ - [http://edu.lnf.infn.it](http://edu.lnf.infn.it)
+ - date_published: 2024-07-06T23:32:09.119727+00:00
+
+ ## MachForm Admin Panel
+ - [https://forms.lnf.infn.it](https://forms.lnf.infn.it)
+ - date_published: 2024-07-06T23:31:50.766706+00:00
+
+ ## Gallery LNGS
+ - [https://gallery.lngs.infn.it](https://gallery.lngs.infn.it)
+ - date_published: 2024-07-06T23:41:30.787642+00:00
+
+ ## Istituto Nazionale di Fisica Nucleare
+ - [https://home.infn.it](https://home.infn.it)
+ - date_published: 2024-05-08T08:47:45.961985+00:00
+
+ ## SimpleSAMLphp installation page
+ - [https://idp.infn.it](https://idp.infn.it)
+ - date_published: 2024-08-07T10:10:42.455659+00:00
+
+ ## [INFN] Opportunità di lavoro
+ - [https://jobs.dsi.infn.it](https://jobs.dsi.infn.it)
+ - date_published: 2024-07-06T23:41:27.358527+00:00
+
+ ## Biblioteca - LNGS
+ - [https://library.lngs.infn.it](https://library.lngs.infn.it)
+ - date_published: 2024-02-07T08:39:03+00:00
+
+ ## Scienza Per Tutti -  Home
+ - [https://scienzapertutti.infn.it](https://scienzapertutti.infn.it)
+ - date_published: 2024-07-06T23:32:15+00:00
+
+ ## Service LNGS
+ - [https://service.sites.lngs.infn.it](https://service.sites.lngs.infn.it)
+ - date_published: 2024-07-06T23:41:46.364750+00:00
+
+ ## La Storia dell'Istituto Nazionale di Fisica Nucleare | La Storia dell'Istituto Nazionale di Fisica Nucleare
+ - [https://storia.infn.it](https://storia.infn.it)
+ - date_published: 2024-07-06T23:43:36.363969+00:00
+
+ ## LNF User
+ - [http://user.lnf.infn.it](http://user.lnf.infn.it)
+ - date_published: 2024-07-06T23:32:12.975497+00:00
+
+ ## Visitor Centre INFN-LNF | Laboratori Nazionali di Frascati
+ - [http://visitorcentre.lnf.infn.it](http://visitorcentre.lnf.infn.it)
+ - date_published: 2024-07-06T23:32:02.019282+00:00
+
+ ## INFN-LNF
+ - [https://w3.lnf.infn.it](https://w3.lnf.infn.it)
+ - date_published: 2024-05-08T08:47:08.191100+00:00
+
+ ## Gestione Siti Web - Servizi Nazionali @ CNAF
+ - [https://web2.infn.it](https://web2.infn.it)
+ - date_published: 2021-12-11T08:40:02+00:00
+
+ ## Gestione Siti Web - Servizi Nazionali @ CNAF
+ - [https://web.infn.it](https://web.infn.it)
+ - date_published: 2021-12-11T08:40:02+00:00
+
+ ## Amministrazione Centrale INFN
+ - [https://www.ac.infn.it](https://www.ac.infn.it)
+ - date_published: 2024-05-29T10:53:20+00:00
+
+ ## INFN Cloud | Cloud Services for Research
+ - [https://www.cloud.infn.it](https://www.cloud.infn.it)
+ - date_published: 2024-07-06T23:43:29.757547+00:00
+
+ ## INFN-CNAF
+ - [https://www.cnaf.infn.it](https://www.cnaf.infn.it)
+ - date_published: 2024-07-06T23:43:22.500454+00:00
+
+ ## Galileo Galilei Institute
+ - [https://www.ggi.infn.it](https://www.ggi.infn.it)
+ - date_published: 2024-07-01T05:47:35.396550+00:00
+
+ ## Istituto Nazionale di Fisica Nucleare
+ - [http://www.infn.it](http://www.infn.it)
+ - date_published: 2024-07-06T23:31:57+00:00
+
+ ## INFN-LNF
+ - [http://www.lnf.infn.it](http://www.lnf.infn.it)
+ - date_published: 2024-07-06T23:42:58.227261+00:00
+
+ ## Home
+ - [https://www.lngs.infn.it](https://www.lngs.infn.it)
+ - date_published: 2024-05-08T08:47:35.118962+00:00
+
+ ## Home INFN Legnaro – National Institute for Nuclear Physics
+ - [http://www.lnl.infn.it](http://www.lnl.infn.it)
+ - date_published: 2024-07-06T23:43:10.650144+00:00
+
+ ## Home
+ - [http://www.lns.infn.it](http://www.lns.infn.it)
+ - date_published: 2024-07-06T23:43:31+00:00
+
+ ## National Institute for Nuclear Physics - Padova Unit
+ - [http://www.pd.infn.it](http://www.pd.infn.it)
+ - date_published: 2024-10-19T07:32:26.256688+00:00
+
+ ## Sito della Presidenza INFN
+ - [https://www-presid.infn.it](https://www-presid.infn.it)
+ - date_published: 2024-07-06T23:43:34+00:00
+
  ## Sito della Presidenza INFN
  - [https://www.presid.infn.it](https://www.presid.infn.it)
  - date_published: 2024-07-06T23:43:27+00:00
@@ -3894,128 +4018,4 @@
  ## SardegnaCultura - Homepage
  - [http://www.sardegnacultura.it](http://www.sardegnacultura.it)
  - date_published: 2024-07-12T04:45:45.304290+00:00
-
- ## Sardinia eCommerce vendita online prodotti tipici Sardi
- - [https://www.sardiniaecommerce.it](https://www.sardiniaecommerce.it)
- - date_published: 2024-05-06T15:18:50.412994+00:00
-
- ## S@R MF - ASSISTENZA SANITARIA REMOTA
- - [https://www.saronweb.it](https://www.saronweb.it)
- - date_published: 2024-06-16T09:56:16.474270+00:00
-
- ## Gaetano Saurio
- - [https://saurio.it](https://saurio.it)
- - date_published: 2024-03-02T23:36:16+00:00
-
- ## Home - Alberto Bacchelli
- - [https://sback.it](https://sback.it)
- - date_published: 2024-09-04T04:54:24.744816+00:00
-
- ## Home - EDIT16 - OPAC SBN
- - [https://edit16.iccu.sbn.it](https://edit16.iccu.sbn.it)
- - date_published: 2024-07-12T18:43:10.863077+00:00
-
- ## Ricerca
- - [http://opac.bncf.firenze.sbn.it](http://opac.bncf.firenze.sbn.it)
- - date_published: 2024-07-20T20:45:14.382203+00:00
-
- ## Home - OPAC SBN
- - [http://opac.sbn.it](http://opac.sbn.it)
- - date_published: 2024-07-10T06:00:16.932989+00:00
-
- ## Scale2x
- - [http://www.scale2x.it](http://www.scale2x.it)
- - date_published: 2024-02-20T22:25:34+00:00
-
- ## Schloss Tirol - Landesmuseum für Kultur- und Landesgeschichte - Südtirol
- - [https://www.schlosstirol.it](https://www.schlosstirol.it)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Parked Domain
- - [http://ecomuseo.schole.it](http://ecomuseo.schole.it)
- - date_published: 2024-05-07T14:42:26.843935+00:00
-
- ## Peter Schrammel
- - [http://www.schrammel.it](http://www.schrammel.it)
- - date_published: 2024-06-12T21:11:12+00:00
-
- ## home | Benvenuti al liceo scientifico statale
- - [https://www.scientificoavellino.it](https://www.scientificoavellino.it)
- - date_published: 2024-10-13T06:57:54.293192+00:00
-
- ## Chiesa di Scientology: L. Ron Hubbard, Dianetics, Che cos'è Scientology?, Libri, Credenze, David Miscavige
- - [https://scientology.it](https://scientology.it)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Test OCA
- - [https://www.oca.scientology.it](https://www.oca.scientology.it)
- - date_published: 2024-06-17T16:41:02.477426+00:00
-
- ## La religione di Scientology: background, teologia e pratica religiosa
- - [https://www.scientologyreligion.it](https://www.scientologyreligion.it)
- - date_published: 2024-06-06T19:41:46.312730+00:00
-
- ## Scoop.it Blog
- - [https://blog.scoop.it](https://blog.scoop.it)
- - date_published: 2024-06-29T18:33:23.527673+00:00
-
- ## Publish curated content for targeted audience | Scoop.it
- - [https://info.scoop.it](https://info.scoop.it)
- - date_published: 2018-09-04T00:00:00+00:00
-
- ## Scoop.it - Content Curation Tool | Scoop.it
- - [http://scoop.it](http://scoop.it)
- - date_published: 2024-06-16T12:29:20.192524+00:00
-
- ## Consulenza e Corsi di Negoziazione Globali | Scotwork Italia
- - [https://www.scotwork.it](https://www.scotwork.it)
- - date_published: 2024-06-18T09:43:07.726332+00:00
-
- ## Scrapp - Take back control of your bookmarks
- - [https://scrapp.it](https://scrapp.it)
- - date_published: 2024-05-08T12:18:21.275575+00:00
-
- ## Scrapp - Take back control of your bookmarks
- - [https://static.scrapp.it](https://static.scrapp.it)
- - date_published: 2024-07-08T17:37:34.080371+00:00
-
- ## Scuola del Fatto Quotidiano
- - [https://www.scuoladelfatto.it](https://www.scuoladelfatto.it)
- - date_published: 2024-07-15T03:15:26.183224+00:00
-
- ## Limes pages
- - [https://scuoladilimes.it](https://scuoladilimes.it)
- - date_published: 2024-07-16T18:33:50.858329+00:00
-
- ## INTERACTIVE SCHOOL
- - [https://liceoclassicostatalepz.scuolainfo.it](https://liceoclassicostatalepz.scuolainfo.it)
- - date_published: 2024-10-13T07:09:09.392238+00:00
-
- ## Scuole Manfredini SRL Società Benefit
- - [https://varese.scuolemanfredini.it](https://varese.scuolemanfredini.it)
- - date_published: 2024-10-02T00:00:00+00:00
-
- ## HomeSDAit
- - [https://www.sda.it](https://www.sda.it)
- - date_published: 2024-06-16T09:56:20.650460+00:00
-
- ## Sean Ryan Fanello
- - [http://www.seanfanello.it](http://www.seanfanello.it)
- - date_published: 2024-08-07T16:10:16.547799+00:00
-
- ## Search On Media Group: Humans Leading Innovation
- - [https://www.searchon.it](https://www.searchon.it)
- - date_published: 2024-12-13T15:55:05+00:00
-
- ## Blog e Influencer Marketing in SeedingUp connette
- - [https://account.seedingup.it](https://account.seedingup.it)
- - date_published: 2024-09-15T20:59:47+00:00
-
- ## Blog e Influencer Marketing in SeedingUp connette
- - [https://seedingup.it](https://seedingup.it)
- - date_published: 2024-06-15T01:19:24+00:00
-
- ## Seeweb: Servizi di Cloud Computing
- - [https://seeweb.it](https://seeweb.it)
- - date_published: 2024-07-10T06:33:00.494827+00:00
 

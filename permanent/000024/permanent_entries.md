@@ -1,3 +1,11 @@
+ ## Farrelly Atkinson
+ - [https://sendy.road.cc](https://sendy.road.cc)
+ - date_published: 2024-07-21T07:11:08.450106+00:00
+
+ ## road.cc
+ - [https://shop.road.cc](https://shop.road.cc)
+ - date_published: 2024-04-30T05:45:36.441776+00:00
+
  ## Roland Sadowski. The Website
  - [https://rosado.cc](https://rosado.cc)
  - date_published: 2024-08-07T21:12:49.794999+00:00
@@ -4004,12 +4012,4 @@
  ## Services for EPFL researchers and PhD students
  - [https://researchdata.epfl.ch](https://researchdata.epfl.ch)
  - date_published: 2024-05-12T07:24:50.331299+00:00
-
- ## Research Office
- - [http://research-office.epfl.ch](http://research-office.epfl.ch)
- - date_published: 2024-07-16T22:23:53+00:00
-
- ## Home | RGL
- - [https://rgl.epfl.ch](https://rgl.epfl.ch)
- - date_published: 2024-06-22T10:29:21.013883+00:00
 
