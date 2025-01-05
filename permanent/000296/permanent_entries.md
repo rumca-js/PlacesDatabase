@@ -1,3 +1,76 @@
+ ## Duke Law Scholarship Repository | Duke Law Research
+ - [https://scholarship.law.duke.edu](https://scholarship.law.duke.edu)
+ - date_published: 2024-05-09T02:38:12.169132+00:00
+
+ ## Duke University Science & Society
+ - [https://scienceandsociety.duke.edu](https://scienceandsociety.duke.edu)
+ - date_published: 2024-06-16T07:18:29.372511+00:00
+
+ ## Search Results Area | Duke University
+ - [https://search.duke.edu](https://search.duke.edu)
+ - date_published: 2024-06-16T07:18:01.878423+00:00
+
+ ## Homepage | Information Security
+ - [https://security.duke.edu](https://security.duke.edu)
+ - date_published: 2024-12-26T11:00:04+00:00
+
+ ## Duke Mathematics Department
+ - [https://services.math.duke.edu](https://services.math.duke.edu)
+ - date_published: 2010-06-28T00:00:00+00:00
+
+ ## Duke University Collection of Gifts
+ - [https://shop.duke.edu](https://shop.duke.edu)
+ - date_published: 2024-07-22T04:40:47.853603+00:00
+
+ ## Welcome to Sites@Duke Express! - Sites@Duke Express
+ - [https://sites.duke.edu](https://sites.duke.edu)
+ - date_published: 2024-05-07T18:21:18.312091+00:00
+
+ ## Sites @ Fuqua
+ - [https://sites.fuqua.duke.edu](https://sites.fuqua.duke.edu)
+ - date_published: 2024-06-17T03:22:02.501085+00:00
+
+ ## DGHI Website Network
+ - [https://sites.globalhealth.duke.edu](https://sites.globalhealth.duke.edu)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## The Nasher Museum of Art at Duke University -
+ - [https://sites.nasher.duke.edu](https://sites.nasher.duke.edu)
+ - date_published: 2024-02-08T16:49:26.722514+00:00
+
+ ## Sites@Duke Pro Homepage | Sites@Duke Pro
+ - [https://sitespro.duke.edu](https://sitespro.duke.edu)
+ - date_published: 2024-07-01T06:33:07+00:00
+
+ ## Medical Center Library & Archives
+2023 Snapshot
+ - [https://snapshot.mclibrary.duke.edu](https://snapshot.mclibrary.duke.edu)
+ - date_published: 2024-10-08T17:45:12+00:00
+
+ ## Home - The Samuel DuBois Cook Center on Social Equity at Duke University
+ - [https://socialequity.duke.edu](https://socialequity.duke.edu)
+ - date_published: 2024-01-11T09:33:06+00:00
+
+ ## Social Media Guidelines - Communicator Toolkit
+ - [https://socialmedia.duke.edu](https://socialmedia.duke.edu)
+ - date_published: 2017-11-13T21:26:51+00:00
+
+ ## Spotlight
+ - [https://spotlight.duke.edu](https://spotlight.duke.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Duke Social Science Research Institute - Duke Social Science Research Institute
+ - [https://ssri.duke.edu](https://ssri.duke.edu)
+ - date_published: 2024-06-16T07:17:32.146704+00:00
+
+ ## Duke IT Status
+ - [https://status.oit.duke.edu](https://status.oit.duke.edu)
+ - date_published: 2024-10-08T04:24:40.668070+00:00
+
+ ## Bolch Judicial Institute of Duke Law School
+ - [https://storefront.law.duke.edu](https://storefront.law.duke.edu)
+ - date_published: 2024-09-15T15:02:04.459162+00:00
+
  ## Front Page - Duke Stories
  - [https://stories.duke.edu](https://stories.duke.edu)
  - date_published: 2024-05-10T04:48:51.839796+00:00
@@ -19,7 +92,7 @@
  - date_published: 2024-09-16T00:00:00+00:00
 
  ## This is Duke - Brand Guide
- - [http://styleguide.duke.edu](http://styleguide.duke.edu)
+ - [https://styleguide.duke.edu](https://styleguide.duke.edu)
  - date_published: 2024-09-26T00:00:00+00:00
 
  ## Front Page | Summer Session
@@ -114,28 +187,12 @@
  - [https://www-chronicle-com.proxy.lib.duke.edu](https://www-chronicle-com.proxy.lib.duke.edu)
  - date_published: 2024-09-26T17:57:13.034735+00:00
 
- ## Duke Clinical and Translational Science Institute
- - [https://www.ctsi.duke.edu](https://www.ctsi.duke.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Duke Online
- - [https://www.dukeonline.duke.edu](https://www.dukeonline.duke.edu)
- - date_published: 2024-06-28T14:41:20+00:00
-
- ## Duke University Stores |
- - [https://www.dukestores.duke.edu](https://www.dukestores.duke.edu)
- - date_published: 2024-09-04T19:37:49.838343+00:00
-
- ## FuquaWorld
- - [https://www.fuquaworld.duke.edu](https://www.fuquaworld.duke.edu)
- - date_published: 2024-09-26T18:02:04.355581+00:00
-
  ## Home
  - [https://dukeupress.edu](https://dukeupress.edu)
  - date_published: 2024-04-30T04:14:03.894284+00:00
 
  ## Duke University Press
- - [https://read.dukeupress.edu](https://read.dukeupress.edu)
+ - [http://read.dukeupress.edu](http://read.dukeupress.edu)
  - date_published: 2023-10-25T18:51:09.503912+00:00
 
  ## St. Joseph&#039;s Seminary &amp; College
@@ -147,15 +204,15 @@
  - date_published: 2024-07-02T10:47:54.754480+00:00
 
  ## Duquesne University
- - [http://www.duq.edu](http://www.duq.edu)
+ - [https://duq.edu](https://duq.edu)
  - date_published: 2024-06-28T14:20:35.839817+00:00
+
+ ## Earlham College
+ - [https://earlham.edu](https://earlham.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
 
  - [https://legacy.earlham.edu](https://legacy.earlham.edu)
  - date_published: 2023-07-17T14:10:29+00:00
-
- ## Earlham College
- - [http://www.earlham.edu](http://www.earlham.edu)
- - date_published: 2024-06-28T00:00:00+00:00
 
  ## Online Cyber Security Programs | EC-Council University
  - [https://eccu.edu](https://eccu.edu)
@@ -166,11 +223,11 @@
  - date_published: 2024-10-16T01:46:05.893361+00:00
 
  ## ECPI University - Accredited | Offering Online & On-Campus Degrees
- - [https://www.ecpi.edu](https://www.ecpi.edu)
+ - [https://ecpi.edu](https://ecpi.edu)
  - date_published: 2024-10-18T04:57:48.099133+00:00
 
  ## Home
- - [https://www.ecsu.edu](https://www.ecsu.edu)
+ - [https://ecsu.edu](https://ecsu.edu)
  - date_published: 2024-07-02T04:32:36.686022+00:00
 
  ## About Alternative Break Experiences - Alternative Break Experiences
@@ -322,7 +379,7 @@
  - date_published: 2024-09-24T00:00:00+00:00
 
  ## Libraries - Information
- - [http://lib.ecu.edu](http://lib.ecu.edu)
+ - [https://lib.ecu.edu](https://lib.ecu.edu)
  - date_published: 2024-04-25T00:00:00+00:00
 
  ## LWCC - LWCC
@@ -482,7 +539,7 @@
  - date_published: 2024-10-18T19:03:32.861848+00:00
 
  ## Home | PennWest Edinboro
- - [http://www.edinboro.edu](http://www.edinboro.edu)
+ - [https://edinboro.edu](https://edinboro.edu)
  - date_published: 2024-06-28T14:07:10.084580+00:00
 
  ## Home - EDUCAUSE Connect
@@ -494,15 +551,15 @@
  - date_published: 2024-10-15T01:27:57.924119+00:00
 
  ## EDUCAUSE Homepage
- - [http://www.educause.edu](http://www.educause.edu)
+ - [https://www.educause.edu](https://www.educause.edu)
  - date_published: 2024-07-02T04:55:05.145895+00:00
 
  ## EF Education First | Educational Tours & Language Programs Abroad
- - [https://www.ef.edu](https://www.ef.edu)
+ - [https://ef.edu](https://ef.edu)
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## EHL Hospitality Business & Hotel Management School Switzerland
- - [https://www.ehl.edu](https://www.ehl.edu)
+ - [https://ehl.edu](https://ehl.edu)
  - date_published: 2024-07-16T22:14:22+00:00
 
  ## Homepage
@@ -514,7 +571,7 @@
  - date_published: 2025-01-01T17:50:58+00:00
 
  ## Emerson College Iwasaki Library redirect
- - [http://library.emerson.edu](http://library.emerson.edu)
+ - [https://library.emerson.edu](https://library.emerson.edu)
  - date_published: 2022-03-29T18:29:13+00:00
 
  ## Marlboro College Archives – at Emerson College
@@ -522,11 +579,11 @@
  - date_published: 2024-06-26T09:04:53.357147+00:00
 
  ## Eastern Michigan University
- - [https://www.emich.edu](https://www.emich.edu)
+ - [http://emich.edu](http://emich.edu)
  - date_published: 2024-05-01T06:25:27.365332+00:00
 
  ## Home
- - [http://www.emmanuel.edu](http://www.emmanuel.edu)
+ - [https://emmanuel.edu](https://emmanuel.edu)
  - date_published: 2024-10-19T04:33:12.686775+00:00
 
  ## Welcome to the Carlos Museum | Emory | Michael C. Carlos Museum
@@ -534,11 +591,15 @@
  - date_published: 2024-06-23T23:50:47+00:00
 
  ## Center for the Study of Law and Religion | Emory University School of Law | Atlanta, GA
- - [http://cslr.law.emory.edu](http://cslr.law.emory.edu)
+ - [https://cslr.law.emory.edu](https://cslr.law.emory.edu)
  - date_published: 2024-06-26T21:02:46+00:00
 
+ ## Home | Emory University | Atlanta GA
+ - [https://emory.edu](https://emory.edu)
+ - date_published: 2024-07-12T14:53:19+00:00
+
  ## The Center for the Study of Human Health
- - [http://humanhealth.emory.edu](http://humanhealth.emory.edu)
+ - [https://humanhealth.emory.edu](https://humanhealth.emory.edu)
  - date_published: 2024-10-18T15:34:58.131989+00:00
 
  ## Welcome to Emory Law | Emory University School of Law | Atlanta, GA
@@ -546,7 +607,7 @@
  - date_published: 2024-06-28T20:28:59+00:00
 
  ## Hugh F. MacMillan Law Library | Emory University School of Law | Atlanta, GA
- - [http://library.law.emory.edu](http://library.law.emory.edu)
+ - [https://library.law.emory.edu](https://library.law.emory.edu)
  - date_published: 2024-07-21T02:50:12+00:00
 
  ## News | Emory University | Atlanta GA
@@ -554,15 +615,11 @@
  - date_published: 2024-06-24T10:53:23.957251+00:00
 
  ## Log in | Django site admin
- - [http://pid.emory.edu](http://pid.emory.edu)
+ - [https://pid.emory.edu](https://pid.emory.edu)
  - date_published: 2024-07-13T03:18:33.813532+00:00
 
- ## Home | Emory University | Atlanta GA
- - [http://www.emory.edu](http://www.emory.edu)
- - date_published: 2024-07-12T14:53:19+00:00
-
  ## Department of Rehabilitation Medicine | Emory School of Medicine
- - [http://www.rehabmed.emory.edu](http://www.rehabmed.emory.edu)
+ - [https://rehabmed.emory.edu](https://rehabmed.emory.edu)
  - date_published: 2024-05-22T18:08:57+00:00
 
  ## Home - Eastern Nazarene College
@@ -598,7 +655,7 @@
  - date_published: 2018-06-18T18:45:30+00:00
 
  ## Eastern Oregon University Homepage
- - [https://www.eou.edu](https://www.eou.edu)
+ - [https://eou.edu](https://eou.edu)
  - date_published: 2024-07-14T13:54:26.959349+00:00
 
  ## Alumni | Embry-Riddle Aeronautical University
@@ -658,12 +715,13 @@
  - date_published: 2024-07-13T17:47:47.774735+00:00
 
  ## News | Embry-Riddle Aeronautical University
- - [http://news.erau.edu](http://news.erau.edu)
+ - [https://news.erau.edu](https://news.erau.edu)
  - date_published: 2024-07-13T17:48:17.013752+00:00
 
  ## Hosted Pages -  Embry-Riddle Aeronautical University
  - [http://pages.erau.edu](http://pages.erau.edu)
  - date_published: 1999-01-01T00:00:00+00:00
+ - date_dead_since: 2025-01-04T05:13:13.780983+00:00
 
  ## Prescott | Embry-Riddle Aeronautical University
  - [https://prescott.erau.edu](https://prescott.erau.edu)
@@ -682,7 +740,7 @@
  - date_published: 2024-07-13T17:48:19.237762+00:00
 
  ## Welcome to ESF
- - [https://www.esf.edu](https://www.esf.edu)
+ - [https://esf.edu](https://esf.edu)
  - date_published: 2024-10-25T19:36:23.151312+00:00
 
  ## Esic Campus
@@ -706,11 +764,11 @@
  - date_published: 2024-09-12T12:05:43.700108+00:00
 
  ## Testimonial Home Page
- - [http://www.eskenazihealth.edu](http://www.eskenazihealth.edu)
+ - [https://eskenazihealth.edu](https://eskenazihealth.edu)
  - date_published: 2024-08-18T17:36:06.842369+00:00
 
  ## ESSEC
- - [https://www.essec.edu](https://www.essec.edu)
+ - [https://essec.edu](https://essec.edu)
  - date_published: 2024-07-02T10:29:08.305730+00:00
 
  ## Elizabethtown College Groups
@@ -729,20 +787,20 @@
  - [https://libraries.etsu.edu](https://libraries.etsu.edu)
  - date_published: 2024-10-18T15:27:07.965790+00:00
 
+ ## University of Evansville
+ - [https://evansville.edu](https://evansville.edu)
+ - date_published: 2024-07-01T17:42:38.992766+00:00
+
  ## University of Evansville Faculty Web sites
  - [https://faculty.evansville.edu](https://faculty.evansville.edu)
  - date_published: 2019-12-04T18:36:19+00:00
-
- ## University of Evansville
- - [https://www.evansville.edu](https://www.evansville.edu)
- - date_published: 2024-07-01T17:42:38.992766+00:00
 
  ## EvergreenStateCollege-Home
  - [https://archives.evergreen.edu](https://archives.evergreen.edu)
  - date_published: 2024-09-19T14:39:19.835674+00:00
 
  ## Homepage
- - [https://www.excelsior.edu](https://www.excelsior.edu)
+ - [https://excelsior.edu](https://excelsior.edu)
  - date_published: 2024-10-18T04:57:26.320398+00:00
 
  ## Phillips Exeter Academy
@@ -750,7 +808,7 @@
  - date_published: 2024-05-09T05:21:01.438647+00:00
 
  ## Exploratorium Online Archives
- - [https://annex.exploratorium.edu](https://annex.exploratorium.edu)
+ - [http://annex.exploratorium.edu](http://annex.exploratorium.edu)
  - date_published: 2024-04-05T19:54:45+00:00
 
  ## Experience the Exploratorium at Pier 15 | Exploratorium
@@ -761,16 +819,17 @@
  - [https://transact.exploratorium.edu](https://transact.exploratorium.edu)
  - date_published: 2023-11-22T18:44:12+00:00
 
+ ## Fairfield University | Fairfield University
+ - [https://fairfield.edu](https://fairfield.edu)
+ - date_published: 2024-07-08T00:02:52+00:00
+
  ## Shibboleth Authentication Request
  - [http://libdb.fairfield.edu](http://libdb.fairfield.edu)
  - date_published: 2024-06-30T01:25:31.517101+00:00
-
- ## Fairfield University | Fairfield University
- - [https://www.fairfield.edu](https://www.fairfield.edu)
- - date_published: 2024-07-08T00:02:52+00:00
+ - date_dead_since: 2025-01-04T05:21:19.402459+00:00
 
  ## Fairmont State University
- - [http://www.fairmontstate.edu](http://www.fairmontstate.edu)
+ - [https://fairmontstate.edu](https://fairmontstate.edu)
  - date_published: 2024-06-28T14:22:08.871791+00:00
 
  ## Admissions
@@ -782,11 +841,15 @@
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## College of Social Sciences, Arts and Humanities
- - [http://cssah.famu.edu](http://cssah.famu.edu)
+ - [https://cssah.famu.edu](https://cssah.famu.edu)
  - date_published: 2024-07-08T14:54:26.986075+00:00
 
+ ## Florida A&M University - FAMU
+ - [https://famu.edu](https://famu.edu)
+ - date_published: 2024-07-08T14:53:58.150425+00:00
+
  ## The School of Graduate Studies and Research
- - [http://graduateschool.famu.edu](http://graduateschool.famu.edu)
+ - [https://graduateschool.famu.edu](https://graduateschool.famu.edu)
  - date_published: 2024-07-08T14:54:06.222416+00:00
 
  ## LibGuides: FAMU Libraries: Home
@@ -794,20 +857,16 @@
  - date_published: 2024-07-08T14:53:42.072882+00:00
 
  ## myFAMU Home - Florida A&M University Foundation
- - [http://my.famu.edu](http://my.famu.edu)
+ - [https://my.famu.edu](https://my.famu.edu)
  - date_published: 2024-07-08T14:54:24.709342+00:00
 
  ## Redirecting...
- - [http://mymail.famu.edu](http://mymail.famu.edu)
+ - [https://mymail.famu.edu](https://mymail.famu.edu)
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## School of Architecture and Engineering Technology
  - [https://saet.famu.edu](https://saet.famu.edu)
  - date_published: 2024-05-08T11:43:39.986531+00:00
-
- ## Florida A&M University - FAMU
- - [https://www.famu.edu](https://www.famu.edu)
- - date_published: 2024-07-08T14:53:58.150425+00:00
 
  ## FAU | College of Business - Undergraduate, Graduate Degrees & Executive Education
  - [https://business.fau.edu](https://business.fau.edu)
@@ -854,11 +913,11 @@
  - date_published: 2024-05-02T00:00:00+00:00
 
  ## Department of Electrical Engineering and Computer Science
- - [http://www.cse.fau.edu](http://www.cse.fau.edu)
+ - [https://www.cse.fau.edu](https://www.cse.fau.edu)
  - date_published: 2024-06-22T09:32:42.331132+00:00
 
  ## Home | Fairfax County Public Schools | Fairfax County, Virginia
- - [https://www.fcps.edu](https://www.fcps.edu)
+ - [https://fcps.edu](https://fcps.edu)
  - date_published: 2024-07-08T13:57:04.352300+00:00
 
  ## Ferris State University
@@ -889,6 +948,10 @@
  - [https://fgcu.edu](https://fgcu.edu)
  - date_published: 2024-10-15T06:42:13.739522+00:00
 
+ ## Welcome to Foothill-De Anza
+ - [https://fhda.edu](https://fhda.edu)
+ - date_published: 2024-07-10T11:37:10.746946+00:00
+
  ## Foothill De-Anza Foundation
  - [https://foundation.fhda.edu](https://foundation.fhda.edu)
  - date_published: 2024-09-10T07:30:23.623769+00:00
@@ -897,16 +960,12 @@
  - [https://myportal.fhda.edu](https://myportal.fhda.edu)
  - date_published: 2024-07-10T11:37:08.471996+00:00
 
- ## Welcome to Foothill-De Anza
- - [http://www.fhda.edu](http://www.fhda.edu)
- - date_published: 2024-07-10T11:37:10.746946+00:00
-
  ## Home | The Franklin Institute
  - [https://fi.edu](https://fi.edu)
  - date_published: 2024-08-18T20:46:20+00:00
 
  ## Home - Frankfurt International School
- - [https://www.fis.edu](https://www.fis.edu)
+ - [https://fis.edu](https://fis.edu)
  - date_published: 2024-06-21T20:33:39.980839+00:00
 
  ## College of Engineering and Science | Florida Tech
@@ -926,7 +985,7 @@
  - date_published: 2024-07-07T02:45:54+00:00
 
  ## Florida Tech ACM | Association for Computing Machinery
- - [http://pppj2015.cs.fit.edu](http://pppj2015.cs.fit.edu)
+ - [https://pppj2015.cs.fit.edu](https://pppj2015.cs.fit.edu)
  - date_published: 2024-07-14T16:25:26.111936+00:00
 
  ## Accessibility @ FIU
@@ -962,7 +1021,7 @@
  - date_published: 2024-04-30T04:14:50.043009+00:00
 
  ## College of Communication, Architecture + The Arts
- - [http://carta.fiu.edu](http://carta.fiu.edu)
+ - [https://carta.fiu.edu](https://carta.fiu.edu)
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Florida International University Catalog
@@ -972,6 +1031,10 @@
  ## Central Reservations
  - [https://centralreservations.fiu.edu](https://centralreservations.fiu.edu)
  - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Knight Foundation School of Computing and Information Sciences
+ - [https://cis.fiu.edu](https://cis.fiu.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
 
  ## Home - FIU Compliance Office
  - [https://compliance.fiu.edu](https://compliance.fiu.edu)
@@ -1046,11 +1109,11 @@
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## Home - University Graduate School
- - [http://gradschool.fiu.edu](http://gradschool.fiu.edu)
+ - [https://gradschool.fiu.edu](https://gradschool.fiu.edu)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Chaplin School of Hospitality &amp; Tourism Management
- - [http://hospitality.fiu.edu](http://hospitality.fiu.edu)
+ - [https://hospitality.fiu.edu](https://hospitality.fiu.edu)
  - date_published: 2024-07-21T00:00:00+00:00
 
  ## System Status - AskIT Service Portal
@@ -1098,7 +1161,7 @@
  - date_published: 2024-07-22T04:17:02.746590+00:00
 
  ## Google to Microsoft 365 Migration |
- - [http://panthermail.fiu.edu](http://panthermail.fiu.edu)
+ - [https://panthermail.fiu.edu](https://panthermail.fiu.edu)
  - date_published: 2024-07-22T04:15:02.307972+00:00
 
  ## Parking &amp; Transportation
@@ -1138,7 +1201,7 @@
  - date_published: 2024-04-19T00:00:00+00:00
 
  ## Home - Research
- - [http://research.fiu.edu](http://research.fiu.edu)
+ - [https://research.fiu.edu](https://research.fiu.edu)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Home / EMS
@@ -1158,7 +1221,7 @@
  - date_published: 2024-07-21T00:00:00+00:00
 
  ## Social Media
- - [http://social.fiu.edu](http://social.fiu.edu)
+ - [https://social.fiu.edu](https://social.fiu.edu)
  - date_published: 2024-07-18T00:00:00+00:00
 
  ## Robert Stempel College of Public Health &amp; Social Work
@@ -1170,7 +1233,7 @@
  - date_published: 2024-03-14T00:00:00+00:00
 
  ## Division of Academic &amp; Student Affairs
- - [http://studentaffairs.fiu.edu](http://studentaffairs.fiu.edu)
+ - [https://studentaffairs.fiu.edu](https://studentaffairs.fiu.edu)
  - date_published: 2024-07-22T00:00:00+00:00
 
  ## Forward-Thinking. Innovative. Unstoppable.
@@ -1189,20 +1252,16 @@
  - [https://welcome.fiu.edu](https://welcome.fiu.edu)
  - date_published: 2024-05-22T00:00:00+00:00
 
- ## Knight Foundation School of Computing and Information Sciences
- - [http://www.cis.fiu.edu](http://www.cis.fiu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
  ## Home | FCI
- - [https://www.fivecolleges.edu](https://www.fivecolleges.edu)
+ - [https://fivecolleges.edu](https://fivecolleges.edu)
  - date_published: 2024-07-02T03:20:06.383023+00:00
 
  ## Home - Tallahassee State College
- - [https://www.tsc.fl.edu](https://www.tsc.fl.edu)
+ - [https://tsc.fl.edu](https://tsc.fl.edu)
  - date_published: 2024-07-19T14:00:18+00:00
 
  ## Where history begins. | Flagler College
- - [http://www.flagler.edu](http://www.flagler.edu)
+ - [https://flagler.edu](https://flagler.edu)
  - date_published: 2024-06-28T15:47:44+00:00
 
  ## State University System of Florida
@@ -1230,7 +1289,7 @@
  - date_published: 2024-06-22T00:36:48+00:00
 
  ## Fontbonne University – Soar Higher
- - [http://www.fontbonne.edu](http://www.fontbonne.edu)
+ - [https://fontbonne.edu](https://fontbonne.edu)
  - date_published: 2024-07-15T06:04:12.731753+00:00
 
  ## Foothill College | Home - Foothill College
@@ -1246,23 +1305,27 @@
  - date_published: 2024-06-24T10:00:45.157268+00:00
 
  ## Fordham University
- - [http://curapersonalis.fordham.edu](http://curapersonalis.fordham.edu)
+ - [https://curapersonalis.fordham.edu](https://curapersonalis.fordham.edu)
  - date_published: 2024-06-24T09:59:49.219234+00:00
 
  ## Fordham Law
  - [https://digital.law.fordham.edu](https://digital.law.fordham.edu)
  - date_published: 2024-10-18T22:35:25.237360+00:00
 
+ ## Fordham University
+ - [https://fordham.edu](https://fordham.edu)
+ - date_published: 2024-05-06T16:58:48.717846+00:00
+
  ## FLASH Archive
  - [https://ir.lawnet.fordham.edu](https://ir.lawnet.fordham.edu)
  - date_published: 2024-05-07T09:30:23.197658+00:00
 
  ## School of Law | Fordham School of Law
- - [http://law.fordham.edu](http://law.fordham.edu)
+ - [https://law.fordham.edu](https://law.fordham.edu)
  - date_published: 2024-06-17T11:16:21.529005+00:00
 
  ## redirect
- - [http://lawlib1.lawnet.fordham.edu](http://lawlib1.lawnet.fordham.edu)
+ - [https://lawlib1.lawnet.fordham.edu](https://lawlib1.lawnet.fordham.edu)
  - date_published: 2024-06-29T06:05:52.367247+00:00
 
  ## Fordham University
@@ -1284,10 +1347,6 @@
  ## Computer and Information Science Department | Fordham
  - [https://www.cis.fordham.edu](https://www.cis.fordham.edu)
  - date_published: 2024-06-17T09:37:31.773554+00:00
-
- ## Fordham University
- - [https://www.fordham.edu](https://www.fordham.edu)
- - date_published: 2024-05-06T16:58:48.717846+00:00
 
  ## Fordham University Library
  - [https://www.library.fordham.edu](https://www.library.fordham.edu)
@@ -1318,7 +1377,7 @@
  - date_published: 2024-07-15T07:39:24.322311+00:00
 
  ## Index
- - [http://faculty.fortlewis.edu](http://faculty.fortlewis.edu)
+ - [https://faculty.fortlewis.edu](https://faculty.fortlewis.edu)
  - date_published: 2024-06-30T02:31:57.921031+00:00
 
  ## Fort Lewis College in Durango, Colorado
@@ -1362,11 +1421,11 @@
  - date_published: 2024-09-15T11:08:22.541554+00:00
 
  ## Fresno State
- - [http://fresnostate.edu](http://fresnostate.edu)
+ - [https://fresnostate.edu](https://fresnostate.edu)
  - date_published: 2024-09-15T11:08:13.445711+00:00
 
  ## Google Apps at Fresno State
- - [http://googleapps.fresnostate.edu](http://googleapps.fresnostate.edu)
+ - [https://googleapps.fresnostate.edu](https://googleapps.fresnostate.edu)
  - date_published: 2024-09-15T11:08:02.074820+00:00
 
  ## Technology Services Help Center
@@ -1394,7 +1453,7 @@
  - date_published: 2024-09-15T11:08:09.815947+00:00
 
  ## Frostburg State University
- - [http://www.frostburg.edu](http://www.frostburg.edu)
+ - [https://frostburg.edu](https://frostburg.edu)
  - date_published: 2024-07-02T03:24:53.901342+00:00
 
  ## Office of Research | FSU Office of Research
@@ -1438,7 +1497,7 @@
  - date_published: 2024-03-11T00:00:00+00:00
 
  ## Faculty Honors & Awards
- - [http://awards.faculty.fsu.edu](http://awards.faculty.fsu.edu)
+ - [https://awards.faculty.fsu.edu](https://awards.faculty.fsu.edu)
  - date_published: 2024-07-22T03:59:49.953753+00:00
 
  ## | FSU Bookstore
@@ -1477,6 +1536,10 @@
  - [https://cass.fsu.edu](https://cass.fsu.edu)
  - date_published: 2024-07-14T18:33:26+00:00
 
+ ## CEFA | Center for Economic Forecasting and Analysis
+ - [https://cefa.fsu.edu](https://cefa.fsu.edu)
+ - date_published: 2024-07-14T18:25:05+00:00
+
  ## Center for Global Engagement
  - [https://cge.fsu.edu](https://cge.fsu.edu)
  - date_published: 2024-07-18T15:03:29+00:00
@@ -1498,7 +1561,7 @@
  - date_published: 2024-07-17T20:01:25+00:00
 
  ## Counseling & Psychological Services
- - [http://counseling.fsu.edu](http://counseling.fsu.edu)
+ - [https://counseling.fsu.edu](https://counseling.fsu.edu)
  - date_published: 2024-07-14T18:24:59+00:00
 
  ## CreateFSU
@@ -1510,8 +1573,8 @@
  - date_published: 2024-07-19T10:17:39+00:00
 
  ## Computer Science, FSU
- - [https://cs.fsu.edu](https://cs.fsu.edu)
- - date_published: 2024-05-11T11:52:22.118924+00:00
+ - [http://cs.fsu.edu](http://cs.fsu.edu)
+ - date_published: 2003-09-16T19:38:19+00:00
 
  ## Diginole: FSU's Digital Repository | DigiNole
  - [https://diginole.lib.fsu.edu](https://diginole.lib.fsu.edu)
@@ -1545,12 +1608,16 @@
  - [https://emergency.fsu.edu](https://emergency.fsu.edu)
  - date_published: 2024-07-14T18:22:40+00:00
 
+ ## FAMU-FSU
+ - [https://eng.famu.fsu.edu](https://eng.famu.fsu.edu)
+ - date_published: 2024-07-19T19:41:35+00:00
+
  ## Florida State University Faculty
  - [https://faculty.fsu.edu](https://faculty.fsu.edu)
  - date_published: 2024-04-30T04:16:06.753891+00:00
 
  ## Faculty Handbook
- - [http://facultyhandbook.fsu.edu](http://facultyhandbook.fsu.edu)
+ - [https://facultyhandbook.fsu.edu](https://facultyhandbook.fsu.edu)
  - date_published: 2024-07-14T18:39:22+00:00
 
  ## Office of Faculty Development and Advancement | Office of Faculty Development and Advancement
@@ -1564,6 +1631,10 @@
  ## FSU Foundation
  - [https://foundation.fsu.edu](https://foundation.fsu.edu)
  - date_published: 2024-04-30T04:15:19.436915+00:00
+
+ ## FREAC - Florida Resources and Environmental Analysis Center
+ - [https://freac.fsu.edu](https://freac.fsu.edu)
+ - date_published: 2022-05-12T18:41:58+00:00
 
  ## Fraternity and Sorority Life
  - [https://fsl.fsu.edu](https://fsl.fsu.edu)
@@ -1647,7 +1718,7 @@
  - date_published: 2024-04-30T04:15:15.133854+00:00
 
  ## College of Law
- - [http://law.fsu.edu](http://law.fsu.edu)
+ - [https://law.fsu.edu](https://law.fsu.edu)
  - date_published: 2024-07-19T21:25:35+00:00
 
  ## The Florida State Conference Center | The Florida State Conference Center
@@ -1661,13 +1732,14 @@
  ## Test Page for the HTTP Server on Red Hat Enterprise Linux
  - [https://library.law.fsu.edu](https://library.law.fsu.edu)
  - date_published: 2021-07-12T19:36:32+00:00
+ - date_dead_since: 2025-01-04T05:59:18.828438+00:00
 
  ## NHMFL
  - [https://magnet.fsu.edu](https://magnet.fsu.edu)
  - date_published: 2020-09-15T15:29:36+00:00
 
  ## Florida State University College of Medicine | College of Medicine
- - [http://med.fsu.edu](http://med.fsu.edu)
+ - [https://med.fsu.edu](https://med.fsu.edu)
  - date_published: 2024-07-21T22:35:54+00:00
 
  ## Florida State University College of Music
@@ -1711,7 +1783,7 @@
  - date_published: 2024-04-30T04:15:30.322533+00:00
 
  ## Home | Policies and Procedures
- - [http://policies.vpfa.fsu.edu](http://policies.vpfa.fsu.edu)
+ - [https://policies.vpfa.fsu.edu](https://policies.vpfa.fsu.edu)
  - date_published: 2024-07-22T03:54:00.924782+00:00
 
  ## A Preeminent Florida University
@@ -1719,7 +1791,7 @@
  - date_published: 2024-04-30T04:15:35.067434+00:00
 
  ## Office of the Provost
- - [http://provost.fsu.edu](http://provost.fsu.edu)
+ - [https://provost.fsu.edu](https://provost.fsu.edu)
  - date_published: 2024-07-15T19:29:45+00:00
 
  ## University Registrar
@@ -1737,6 +1809,10 @@
  ## Office of Research | FSU Office of Research
  - [https://research.fsu.edu](https://research.fsu.edu)
  - date_published: 2024-04-30T04:16:18.063722+00:00
+
+ ## Seminole 100
+ - [https://seminole100.fsu.edu](https://seminole100.fsu.edu)
+ - date_published: 2024-08-11T11:25:06.326116+00:00
 
  ## Ask
  - [https://servicecenter.fsu.edu](https://servicecenter.fsu.edu)
@@ -1769,6 +1845,10 @@
  ## Student Business Services
  - [https://studentbusiness.fsu.edu](https://studentbusiness.fsu.edu)
  - date_published: 2024-07-21T01:11:02+00:00
+
+ ## Sustainable Campus
+ - [https://sustainablecampus.fsu.edu](https://sustainablecampus.fsu.edu)
+ - date_published: 2024-07-18T18:15:43+00:00
 
  ## Systems Group | Computer Science Systems Group
  - [https://system.cs.fsu.edu](https://system.cs.fsu.edu)
@@ -1842,21 +1922,9 @@
  - [https://wr.english.fsu.edu](https://wr.english.fsu.edu)
  - date_published: 2024-07-14T18:47:58+00:00
 
- ## CEFA | Center for Economic Forecasting and Analysis
- - [http://www.cefa.fsu.edu](http://www.cefa.fsu.edu)
- - date_published: 2024-07-14T18:25:05+00:00
-
- ## FAMU-FSU
- - [https://www.eng.famu.fsu.edu](https://www.eng.famu.fsu.edu)
- - date_published: 2024-07-19T19:41:35+00:00
-
  ## Facilities
  - [https://www.facilities.fsu.edu](https://www.facilities.fsu.edu)
  - date_published: 2024-07-22T04:02:48.183407+00:00
-
- ## FREAC - Florida Resources and Environmental Analysis Center
- - [http://www.freac.fsu.edu](http://www.freac.fsu.edu)
- - date_published: 2022-05-12T18:41:58+00:00
 
  ## The Florida State University High Energy Physics Group
  - [http://www.hep.fsu.edu](http://www.hep.fsu.edu)
@@ -1866,16 +1934,8 @@
  - [https://www.nwrdc.fsu.edu](https://www.nwrdc.fsu.edu)
  - date_published: 2024-12-17T14:19:19+00:00
 
- ## Seminole 100
- - [https://www.seminole100.fsu.edu](https://www.seminole100.fsu.edu)
- - date_published: 2024-08-11T11:25:06.326116+00:00
-
- ## Sustainable Campus
- - [http://www.sustainablecampus.fsu.edu](http://www.sustainablecampus.fsu.edu)
- - date_published: 2024-07-18T18:15:43+00:00
-
  ## Titans Return: COVID-19 Recovery | California State University, Fullerton
- - [http://coronavirus.fullerton.edu](http://coronavirus.fullerton.edu)
+ - [https://coronavirus.fullerton.edu](https://coronavirus.fullerton.edu)
  - date_published: 2024-07-22T03:53:42.073040+00:00
 
  - [https://escatter11.fullerton.edu](https://escatter11.fullerton.edu)
@@ -1887,7 +1947,7 @@
  - date_published: 2024-07-22T03:53:47.579855+00:00
 
  ## College of Humanities and Social Sciences - College of Humanities and Social Sciences | CSUF
- - [http://hss.fullerton.edu](http://hss.fullerton.edu)
+ - [https://hss.fullerton.edu](https://hss.fullerton.edu)
  - date_published: 2024-07-22T03:53:45.062146+00:00
 
  ## CSUF Psychology Department Research and Teaching Materials
@@ -1898,13 +1958,13 @@
  - [https://psychology.fullerton.edu](https://psychology.fullerton.edu)
  - date_published: 2024-04-30T04:16:47.286500+00:00
 
+ ## Cierpliwości...
+ - [http://fullsail.edu](http://fullsail.edu)
+ - date_published: 2024-06-30T01:29:45.339767+00:00
+
  ## Explore Full Sail University - Full Sail University
  - [https://go.fullsail.edu](https://go.fullsail.edu)
  - date_published: 2024-12-23T11:25:58.946147+00:00
-
- ## Cierpliwości...
- - [https://www.fullsail.edu](https://www.fullsail.edu)
- - date_published: 2024-06-30T01:29:45.339767+00:00
 
  ## Home
  - [https://www.furman.edu](https://www.furman.edu)
@@ -1915,7 +1975,7 @@
  - date_published: 2024-10-29T03:02:45+00:00
 
  ## Home | Gannon University
- - [http://www.gannon.edu](http://www.gannon.edu)
+ - [https://gannon.edu](https://gannon.edu)
  - date_published: 2024-06-28T14:31:15.872176+00:00
 
  ## Home | Office of Academic Effectiveness
@@ -3946,60 +4006,4 @@
  - [https://historymatters.gmu.edu](https://historymatters.gmu.edu)
  - date_published: 2023-11-28T07:44:03+00:00
  - tags: ['university', 'george mason']
-
- ## Home - Homecoming
- - [http://homecoming.gmu.edu](http://homecoming.gmu.edu)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Home
- - [https://honorscollege.gmu.edu](https://honorscollege.gmu.edu)
- - date_published: 2024-07-21T06:31:24+00:00
-
- ## Hours of Operation – Campus Information and Visitor Services
- - [https://hours.gmu.edu](https://hours.gmu.edu)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Home
- - [https://housing.gmu.edu](https://housing.gmu.edu)
- - date_published: 2024-04-30T04:28:36.800015+00:00
-
- ## Human Resources | George Mason University
- - [https://hr.gmu.edu](https://hr.gmu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Event Calendar
- - [https://hylton.calendar.gmu.edu](https://hylton.calendar.gmu.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Institute for Digital Innovation | George Mason University
- - [https://idia.gmu.edu](https://idia.gmu.edu)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Campus Information and Visitor Services – George Mason University
- - [https://info.gmu.edu](https://info.gmu.edu)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## InfoGuides
- - [https://infoguides.gmu.edu](https://infoguides.gmu.edu)
- - date_published: 2024-07-22T03:00:01.382834+00:00
-
- ## MARS Repository :: Home
- - [https://infowiz.gmu.edu](https://infowiz.gmu.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## home
- - [https://integrative.gmu.edu](https://integrative.gmu.edu)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Office of Institutional Effectiveness and Planning
- - [https://irr2.gmu.edu](https://irr2.gmu.edu)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## ISC 2024: Information Security Conference
- - [https://isc24.cs.gmu.edu](https://isc24.cs.gmu.edu)
- - date_published: 2024-08-15T02:51:02+00:00
-
- ## Home
- - [https://ist.gmu.edu](https://ist.gmu.edu)
- - date_published: 2024-07-21T18:54:07+00:00
 

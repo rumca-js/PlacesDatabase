@@ -1,3 +1,23 @@
+ ## Google Open Source Blog
+ - [https://opensource.googleblog.com](https://opensource.googleblog.com)
+ - date_published: 2023-10-25T14:47:58.744853+00:00
+
+ ## Programmable Search Engine Blog
+ - [https://programmablesearchengine.googleblog.com](https://programmablesearchengine.googleblog.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Blog
+ - [https://research.googleblog.com](https://research.googleblog.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Google Scholar Blog
+ - [https://scholar.googleblog.com](https://scholar.googleblog.com)
+ - date_published: 2024-03-20T18:08:26.467127+00:00
+
+ ## Search
+ - [https://search.googleblog.com](https://search.googleblog.com)
+ - date_published: 2024-08-08T11:17:31.107241+00:00
+
  ## Google Online Security Blog
  - [https://security.googleblog.com](https://security.googleblog.com)
  - date_published: 2023-10-25T14:48:05.962532+00:00
@@ -4041,24 +4061,4 @@
  ## Sign in - Matomo
  - [https://matomo.graphhopper.com](https://matomo.graphhopper.com)
  - date_published: 2024-05-04T08:44:05.112581+00:00
-
- ## GraphHopper Status
- - [https://status.graphhopper.com](https://status.graphhopper.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Support
- - [https://support.graphhopper.com](https://support.graphhopper.com)
- - date_published: 2024-05-04T08:44:04.083567+00:00
-
- ## Graphic Design Festival Scotland Announcement
- - [https://graphicdesignfestivalscotland.com](https://graphicdesignfestivalscotland.com)
- - date_published: 2024-07-13T16:13:30.433444+00:00
-
- ## Graphic Design Lab - Онлайн-курси для ілюстраторів та дизайнерів
- - [https://www.graphic-design-lab.com](https://www.graphic-design-lab.com)
- - date_published: 2024-12-27T14:40:10+00:00
-
- ## Home
- - [https://graphicnewsplus.com](https://graphicnewsplus.com)
- - date_published: 2024-09-02T00:00:00+00:00
 

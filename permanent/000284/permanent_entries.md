@@ -1,3 +1,51 @@
+ ## David Deutsch
+ - [http://www.skore.de](http://www.skore.de)
+ - date_published: 2023-08-14T11:46:37+00:00
+
+ ## Sky | Exklusive Serien - Filme - Live Sport in HD/UHD
+ - [https://www.sky.de](https://www.sky.de)
+ - date_published: 2024-10-03T19:39:06.695966+00:00
+
+ ## Skyliner - aviation news & more
+ - [http://www.skyliner-aviation.de](http://www.skyliner-aviation.de)
+ - date_published: 2025-01-01T01:58:23.458296+00:00
+
+ ## Claudias Foto-Alben
+ - [http://foto.skyrocket.de](http://foto.skyrocket.de)
+ - date_published: 2024-06-18T20:27:03.494522+00:00
+
+ ## Dampflokomotiven
+ - [http://loco.skyrocket.de](http://loco.skyrocket.de)
+ - date_published: 2009-05-20T10:13:00+00:00
+
+ ## Gunter's diverse Homepages
+ - [https://skyrocket.de](https://skyrocket.de)
+ - date_published: 2017-01-09T12:45:09+00:00
+
+ ## Gunter's Space Page - Information on spaceflight, launch vehicles and satellites
+ - [https://space.skyrocket.de](https://space.skyrocket.de)
+ - date_published: 2024-06-18T17:38:30.845209+00:00
+
+ ## Turba Delirantium - Hochmittelalter Seite (12. Jahrhundert)
+ - [http://turba-delirantium.skyrocket.de](http://turba-delirantium.skyrocket.de)
+ - date_published: 2020-09-05T19:30:08+00:00
+
+ ## U.S.Navy
+ - [http://usnavy.skyrocket.de](http://usnavy.skyrocket.de)
+ - date_published: 2011-11-03T10:27:53+00:00
+
+ ## Claudias Foto-Alben
+ - [http://zoo.skyrocket.de](http://zoo.skyrocket.de)
+ - date_published: 2024-06-18T20:27:01.937351+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.de](https://www.skyscanner.de)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## Slanted.de by Slanted Publishers - Design-News, Publisher, Shop - slanted
+ - [https://www.slanted.de](https://www.slanted.de)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## SlashBot
  - [https://slashbot.de](https://slashbot.de)
  - date_published: 2024-08-25T08:58:59+00:00
@@ -2143,23 +2191,24 @@
  - date_published: 2024-06-28T13:23:33.303251+00:00
 
  ## Die Tagesspiegel-Gruppe aus Berlin
- - [https://www.tagesspiegel-gruppe.de](https://www.tagesspiegel-gruppe.de)
+ - [https://tagesspiegel-gruppe.de](https://tagesspiegel-gruppe.de)
  - date_published: 2024-06-28T13:23:50.241887+00:00
 
  ## Aktuelle Nachrichten | RP ONLINE
  - [https://tagrpd.de](https://tagrpd.de)
  - date_published: 2024-07-24T00:00:00+00:00
+ - date_dead_since: 2025-01-04T12:15:00.770287+00:00
 
  ## Home
- - [https://www.ta-hifi.de](https://www.ta-hifi.de)
+ - [https://ta-hifi.de](https://ta-hifi.de)
  - date_published: 2024-06-30T05:28:57.559723+00:00
 
  ## Leading Game Publisher | Take-Two Interactive Software, Inc.
- - [http://www.take2.de](http://www.take2.de)
+ - [https://take2.de](https://take2.de)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## Take-me-to-auction – News, Infos, Tipps und Tricks rund um eBay, Amazon und andere Online-Marktplätze
- - [http://www.take-me-to-auction.de](http://www.take-me-to-auction.de)
+ - [https://take-me-to-auction.de](https://take-me-to-auction.de)
  - date_published: 2024-02-07T02:35:49+00:00
 
  ## Der Domainname talarion.de steht zum Verkauf.
@@ -2171,7 +2220,7 @@
  - date_published: 2024-12-10T22:09:28.787688+00:00
 
  ## Unser täglich Spam
- - [http://spam.tamagothi.de](http://spam.tamagothi.de)
+ - [https://spam.tamagothi.de](https://spam.tamagothi.de)
  - date_published: 2024-07-25T18:08:41.986688+00:00
 
  ## Tanium: Die Plattform für autonomes Endpunktmanagement
@@ -2211,7 +2260,7 @@
  - date_published: 2024-01-30T00:00:00+00:00
 
  ## TARIFFUXX: Vergleichsrechner für Handytarife & Festnetz
- - [https://www.tariffuxx.de](https://www.tariffuxx.de)
+ - [https://tariffuxx.de](https://tariffuxx.de)
  - date_published: 2024-10-03T19:39:03.986833+00:00
 
  ## Warhammer 40k online kaufen | Tabletop | Brettspiele | LEGO
@@ -2235,11 +2284,11 @@
  - date_published: 2024-09-06T21:54:38+00:00
 
  ## Georg Tavonius Webprofil
- - [http://www.tavonius.de](http://www.tavonius.de)
+ - [https://tavonius.de](https://tavonius.de)
  - date_published: 2024-07-22T11:00:31.943399+00:00
 
  ## Master of Taxation
- - [https://www.taxmaster.de](https://www.taxmaster.de)
+ - [https://taxmaster.de](https://taxmaster.de)
  - date_published: 2024-10-21T09:21:52.359154+00:00
 
  ## Index
@@ -2296,7 +2345,7 @@
 
  ## ..:: tchncs ::..
  - [https://img.tchncs.de](https://img.tchncs.de)
- - date_published: 2024-07-24T04:31:44.068629+00:00
+ - date_published: 2017-07-03T19:44:57+00:00
 
  ## Welcome to nginx!
  - [https://media.procial.tchncs.de](https://media.procial.tchncs.de)
@@ -2304,7 +2353,7 @@
 
  ## CryptPad: end-to-end encrypted collaboration suite
  - [https://pad.tchncs.de](https://pad.tchncs.de)
- - date_published: 2024-04-29T06:49:26.176170+00:00
+ - date_published: 2023-09-01T14:56:21+00:00
 
  ## tchncs
  - [https://paste.tchncs.de](https://paste.tchncs.de)
@@ -2361,6 +2410,7 @@
  ## Plume ⋅ Plume
  - [https://write.tchncs.de](https://write.tchncs.de)
  - date_published: 2024-03-27T00:00:00+00:00
+ - date_dead_since: 2025-01-04T12:19:42.526272+00:00
 
  ## Tennisclub Hubertus Groß Grönau e.V.
  - [https://tc-hubertus.de](https://tc-hubertus.de)
@@ -2375,7 +2425,7 @@
  - date_published: 2024-10-09T12:27:37.077973+00:00
 
  ## Startseite - TeamBank
- - [https://www.teambank.de](https://www.teambank.de)
+ - [https://teambank.de](https://teambank.de)
  - date_published: 2024-08-20T00:00:00+00:00
 
  ## Team Hector
@@ -2391,7 +2441,7 @@
  - date_published: 2024-09-25T19:09:23.362593+00:00
 
  ## Online Druckerei für Teamoutfits - Textildruck | TeamShirts
- - [https://www.teamshirts.de](https://www.teamshirts.de)
+ - [https://teamshirts.de](https://teamshirts.de)
  - date_published: 2024-09-25T19:09:53.180585+00:00
 
  ## IT-Service, Computerservice, Computerhilfe - Technikhilfe GmbH
@@ -2411,7 +2461,7 @@
  - date_published: 2024-04-29T05:50:14.285194+00:00
 
  ## techconsult GmbH - The IT Market Analysts
- - [https://www.techconsult.de](https://www.techconsult.de)
+ - [https://techconsult.de](https://techconsult.de)
  - date_published: 2024-08-08T21:10:15.800326+00:00
 
  ## Ladesäulenhersteller - AC Ladesäulen & Wallboxen für Gewerbe
@@ -2439,7 +2489,7 @@
  - date_published: 2024-04-27T00:00:00+00:00
 
  ## Schnellere Umsatzgenerierung durch effektiveres B2B-Marketing
- - [https://www.techtarget.de](https://www.techtarget.de)
+ - [https://techtarget.de](https://techtarget.de)
  - date_published: 2015-11-17T22:49:02+00:00
 
  ## Techtiefen – Technologien erklärt, von Nerds für Nerds
@@ -2447,11 +2497,11 @@
  - date_published: 2024-05-04T15:58:49.838387+00:00
 
  ## Tecklenburg Touristik GmbH – Tecklenburg – Offen für Natur, Kultur, Gesundheit
- - [https://www.tecklenburg-touristik.de](https://www.tecklenburg-touristik.de)
+ - [https://tecklenburg-touristik.de](https://tecklenburg-touristik.de)
  - date_published: 2024-07-03T11:03:39.954607+00:00
 
  ## TECNARO – The Biopolymer Company
- - [https://www.tecnaro.de](https://www.tecnaro.de)
+ - [https://tecnaro.de](https://tecnaro.de)
  - date_published: 2024-08-19T04:48:22.427303+00:00
 
  ## Lernen. Gründen. Entwickeln. - willkommen bei der garage33
@@ -2459,7 +2509,7 @@
  - date_published: 2024-12-10T15:33:47.354768+00:00
 
  ## Premium Tees auf höchstem Niveau
- - [https://www.teegschwendner.de](https://www.teegschwendner.de)
+ - [https://teegschwendner.de](https://teegschwendner.de)
  - date_published: 2024-10-15T15:02:16.705400+00:00
 
  ## www.tee-kontor-kiel.de
@@ -2471,7 +2521,7 @@
  - date_published: 2024-06-25T18:53:25.424324+00:00
 
  ## Start - Teilchenwelt
- - [https://www.teilchenwelt.de](https://www.teilchenwelt.de)
+ - [https://teilchenwelt.de](https://teilchenwelt.de)
  - date_published: 2024-07-15T00:00:00+00:00
 
  ## Juli Gudehus
@@ -2479,19 +2529,19 @@
  - date_published: 2024-05-10T06:48:10.674867+00:00
 
  ## www.teilestore.de has been registered
- - [http://www.teilestore.de](http://www.teilestore.de)
+ - [http://teilestore.de](http://teilestore.de)
  - date_published: 2024-09-03T19:24:31.831099+00:00
 
  ## News und Wissen für den TK-Fachhandel
- - [http://telecom-handel.de](http://telecom-handel.de)
+ - [https://telecom-handel.de](https://telecom-handel.de)
  - date_published: 2024-07-24T17:41:49.302738+00:00
 
  ## Telefónica Deutschland: Startseite
- - [http://www.telefonica.de](http://www.telefonica.de)
+ - [https://telefonica.de](https://telefonica.de)
  - date_published: 2024-05-29T00:00:00+00:00
 
  ## TelefonSeelsorge® Deutschland | Sorgen kann man teilen. 0800/1110111 · 0800/1110222 · 116123. Ihr Anruf ist kostenfrei.
- - [https://www.telefonseelsorge.de](https://www.telefonseelsorge.de)
+ - [https://telefonseelsorge.de](https://telefonseelsorge.de)
  - date_published: 2024-06-30T00:00:00+00:00
 
  ## Business Tarife und Produkte | Telekom Geschäftskunden
@@ -2503,16 +2553,17 @@
  - date_published: 2024-09-30T13:08:04.960403+00:00
 
  ## Hilfe & Service | Telekom Hilfe
- - [http://hilfe.telekom.de](http://hilfe.telekom.de)
+ - [https://hilfe.telekom.de](https://hilfe.telekom.de)
  - date_published: 2024-09-30T13:09:50.522041+00:00
 
- ## Telekom hilft Community
- - [https://telekomhilft.telekom.de](https://telekomhilft.telekom.de)
- - date_published: 2024-09-30T13:08:12.653671+00:00
-
  ## Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
- - [https://www.telekom.de](https://www.telekom.de)
+ - [http://telekom.de](http://telekom.de)
  - date_published: 2024-08-11T13:11:25.292693+00:00
+
+ ## Telekom hilft Community
+ - [http://telekomhilft.telekom.de](http://telekomhilft.telekom.de)
+ - date_published: 2024-09-30T13:08:12.653671+00:00
+ - date_dead_since: 2025-01-04T12:25:20.006951+00:00
 
  ## MagentaCLOUD - Ihr sicherer Cloud Speicher | Telekom
  - [https://cloud.telekom-dienste.de](https://cloud.telekom-dienste.de)
@@ -2523,11 +2574,11 @@
  - date_published: 2024-09-30T13:09:35.455227+00:00
 
  ## Deutsche Telekom Stiftung
- - [https://www.telekom-stiftung.de](https://www.telekom-stiftung.de)
+ - [https://telekom-stiftung.de](https://telekom-stiftung.de)
  - date_published: 2024-08-08T20:11:59.994130+00:00
 
  ## Bundesdeutsche Stadtpläne und Routenplaner - TeleMap & Route-Service
- - [https://www.telemap.de](https://www.telemap.de)
+ - [https://telemap.de](https://telemap.de)
  - date_published: 2024-09-05T00:00:00+00:00
 
  ## Telepolis
@@ -2535,7 +2586,7 @@
  - date_published: 2024-04-29T06:13:14.454813+00:00
 
  ## Home » Telekom Trust Center
- - [https://www.telesec.de](https://www.telesec.de)
+ - [https://telesec.de](https://telesec.de)
  - date_published: 2024-07-18T06:22:22.866574+00:00
 
  ## tele-TASK
@@ -2547,15 +2598,15 @@
  - date_published: 2024-09-28T23:26:54.167970+00:00
 
  ## teltarif.de: Tarife und News für Smartphones, DSL und Festnetz
- - [https://www.teltarif.de](https://www.teltarif.de)
+ - [https://teltarif.de](https://teltarif.de)
  - date_published: 2024-08-20T05:38:40.013783+00:00
 
  ## Et Nordfriisk Teooter - Teooter
- - [http://www.teooter.de](http://www.teooter.de)
+ - [https://teooter.de](https://teooter.de)
  - date_published: 2024-07-12T03:32:15.692173+00:00
 
  ## Die komplette Cloud Analytics- und Datenplattform | Teradata
- - [https://www.teradata.de](https://www.teradata.de)
+ - [https://teradata.de](https://teradata.de)
  - date_published: 2024-10-22T19:30:44.647008+00:00
 
  ## Terminland | Einfach Termine online buchen
@@ -2571,11 +2622,11 @@
  - date_published: 2014-03-13T13:29:56+00:00
 
  ## Stiftung Warentest | Unabhängig. Objektiv. Unbestechlich.
- - [https://www.test.de](https://www.test.de)
+ - [https://test.de](https://test.de)
  - date_published: 2024-06-16T00:00:00+00:00
 
  ## Testberichte.de | Das neutrale Produkt-Vergleichsportal
- - [http://www.testberichte.de](http://www.testberichte.de)
+ - [https://testberichte.de](https://testberichte.de)
  - date_published: 2024-07-24T05:28:38.151532+00:00
 
  ## Willkommen bei Testbirds - QA und UX Testing mit der Crowd
@@ -2587,7 +2638,7 @@
  - date_published: 2024-10-14T20:36:00.444106+00:00
 
  ## Testsieger.de: Testberichte, aktuelle Tests & Preisvergleich
- - [https://www.testsieger.de](https://www.testsieger.de)
+ - [https://testsieger.de](https://testsieger.de)
  - date_published: 2024-06-16T21:54:42.297775+00:00
 
  ## Home - Teubert Maschinenbau GmbH
@@ -2599,15 +2650,15 @@
  - date_published: 2024-07-02T18:01:41.455806+00:00
 
  ## Home - text2net GmbH
- - [https://www.text2net.de](https://www.text2net.de)
+ - [https://text2net.de](https://text2net.de)
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## Starke Texte schreiben lassen zu jedem Thema | Textbroker
- - [https://www.textbroker.de](https://www.textbroker.de)
+ - [https://textbroker.de](https://textbroker.de)
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## Texte zum Zen
- - [http://www.texte-zum-zen.de](http://www.texte-zum-zen.de)
+ - [https://texte-zum-zen.de](https://texte-zum-zen.de)
  - date_published: 2024-08-18T06:35:40.041253+00:00
 
  ## TEXTE ZUR KUNST
@@ -2615,7 +2666,7 @@
  - date_published: 2024-02-24T18:07:51.031322+00:00
 
  ## Plaschke Tezett
- - [https://www.tezett-gitterroste.de](https://www.tezett-gitterroste.de)
+ - [https://tezett-gitterroste.de](https://tezett-gitterroste.de)
  - date_published: 2024-09-25T19:03:17.861067+00:00
 
  ## TF-Ausbildung.de - Startseite
@@ -2629,13 +2680,14 @@
  ## Wartungsarbeiten
  - [http://tfsblog.de](http://tfsblog.de)
  - date_published: 2024-08-21T12:33:40+00:00
+ - date_dead_since: 2025-01-04T12:29:06.848264+00:00
 
  ## TGD – Türkische Gemeinde Deutschland
  - [https://tgd.de](https://tgd.de)
  - date_published: 2024-09-12T16:06:33.058075+00:00
 
  ## Technische Hochschule Augsburg
- - [https://www.tha.de](https://www.tha.de)
+ - [https://tha.de](https://tha.de)
  - date_published: 2024-07-16T18:50:03+00:00
 
  ## Turning data into tomorrow – thaltegos
@@ -2643,7 +2695,7 @@
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## Thomas Becker - Softwareentwicklung
- - [http://www.thbeck.de](http://www.thbeck.de)
+ - [http://thbeck.de](http://thbeck.de)
  - date_published: 2022-07-13T10:27:49+00:00
 
  ## THB: Studium der Informatik und Medien, Wirtschaft und Technik›Technische Hochschule Brandenburg
@@ -2651,15 +2703,15 @@
  - date_published: 2024-12-12T00:00:00+00:00
 
  ## Thüringer-HC Fanshop
- - [https://www.thc-fanshop.de](https://www.thc-fanshop.de)
+ - [https://thc-fanshop.de](https://thc-fanshop.de)
  - date_published: 2024-09-25T19:05:29.705466+00:00
 
  ## Theater an der Ruhr
- - [https://www.theater-an-der-ruhr.de](https://www.theater-an-der-ruhr.de)
+ - [https://theater-an-der-ruhr.de](https://theater-an-der-ruhr.de)
  - date_published: 2024-07-13T14:27:36.113904+00:00
 
  ## Home
- - [https://www.theater-bonn.de](https://www.theater-bonn.de)
+ - [https://theater-bonn.de](https://theater-bonn.de)
  - date_published: 2024-07-14T16:08:20.908960+00:00
 
  ## Startseite Theater Bremen
@@ -2667,7 +2719,7 @@
  - date_published: 2024-07-10T08:48:00.310500+00:00
 
  ## Theater und Orchester Heidelberg
- - [https://www.theaterheidelberg.de](https://www.theaterheidelberg.de)
+ - [https://theaterheidelberg.de](https://theaterheidelberg.de)
  - date_published: 2024-07-13T14:28:16.875541+00:00
 
  ## Theater im Depot
@@ -2675,7 +2727,7 @@
  - date_published: 2024-07-13T16:01:23.650527+00:00
 
  ## Home
- - [https://www.theben-se.de](https://www.theben-se.de)
+ - [https://theben-se.de](https://theben-se.de)
  - date_published: 2024-09-16T00:00:00+00:00
 
  ## THE BLUE BEACH 2024
@@ -2691,7 +2743,7 @@
  - date_published: 2021-12-28T09:00:37+00:00
 
  ## The European - Das Debatten-Magazin
- - [http://www.theeuropean.de](http://www.theeuropean.de)
+ - [https://theeuropean.de](https://theeuropean.de)
  - date_published: 2024-07-19T03:03:09.428630+00:00
 
  ## Wir machen Sinn
@@ -2707,19 +2759,19 @@
  - date_published: 2024-05-01T20:36:56+00:00
 
  ## The Inner World – Der letzte Windmönch
- - [http://theinnerworld.de](http://theinnerworld.de)
+ - [https://theinnerworld.de](https://theinnerworld.de)
  - date_published: 2018-05-24T10:02:56+00:00
 
  ## The Jena Experiment
- - [http://www.the-jena-experiment.de](http://www.the-jena-experiment.de)
+ - [https://the-jena-experiment.de](https://the-jena-experiment.de)
  - date_published: 2024-07-24T07:31:45.413783+00:00
 
  ## Kochgeschirr und Küchenzubehör online | KitchenLab
- - [https://www.thekitchenlab.de](https://www.thekitchenlab.de)
+ - [https://thekitchenlab.de](https://thekitchenlab.de)
  - date_published: 2024-10-03T08:47:42.770222+00:00
 
  ## The Local Germany - News and practical guides in English
- - [https://thelocal.de](https://thelocal.de)
+ - [http://thelocal.de](http://thelocal.de)
  - date_published: 2023-12-30T10:05:50.800353+00:00
  - tags: ['german news']
 
@@ -2728,7 +2780,7 @@
  - date_published: 2024-09-01T21:00:11+00:00
 
  ## The North Face | Outdoorbekleidung, Rucksäcke & Schuhe
- - [https://www.thenorthface.de](https://www.thenorthface.de)
+ - [https://thenorthface.de](https://thenorthface.de)
  - date_published: 2024-07-09T19:31:23.360061+00:00
 
  ## thenybble.de
@@ -2744,15 +2796,15 @@
  - date_published: 2024-12-10T17:57:01.243781+00:00
 
  ## Startseite - The Postie
- - [http://thepostie.de](http://thepostie.de)
+ - [https://thepostie.de](https://thepostie.de)
  - date_published: 2024-07-13T09:13:25+00:00
 
  ## The Press Group
- - [http://thepressgroup.de](http://thepressgroup.de)
+ - [https://thepressgroup.de](https://thepressgroup.de)
  - date_published: 2023-04-10T21:20:39+00:00
 
  ## Start | Strehlow Therapiezen
- - [https://www.therapiezentrum-md.de](https://www.therapiezentrum-md.de)
+ - [https://therapiezentrum-md.de](https://therapiezentrum-md.de)
  - date_published: 2024-09-25T19:06:49.206690+00:00
 
  ## Blog [thermalcircle.de]
@@ -2760,11 +2812,11 @@
  - date_published: 2024-11-08T11:27:55.620112+00:00
 
  ## The smarter E Europe – Home - The smarter E Europe
- - [https://www.thesmartere.de](https://www.thesmartere.de)
+ - [https://thesmartere.de](https://thesmartere.de)
  - date_published: 2024-07-24T07:15:53.368651+00:00
 
  ## The Tenth Planet | If it existed
- - [http://www.thetenthplanet.de](http://www.thetenthplanet.de)
+ - [http://thetenthplanet.de](http://thetenthplanet.de)
  - date_published: 2024-07-03T04:51:11.960250+00:00
 
  ## Willkommen bei THEVA - Ihr Partner für 2G Hochtemperatur Supraleiter
@@ -2784,7 +2836,7 @@
  - date_published: 2024-04-08T00:00:00+00:00
 
  ## Startseite
- - [https://www.th-koeln.de](https://www.th-koeln.de)
+ - [https://th-koeln.de](https://th-koeln.de)
  - date_published: 2024-07-09T14:15:43.425964+00:00
 
  ## OSM Karten für Garmin Geräte
@@ -2792,7 +2844,7 @@
  - date_published: 2022-12-14T23:16:16+00:00
 
  ## CSS-Beispiel: Link-Pseudoklassen
- - [http://www.thludwig.de](http://www.thludwig.de)
+ - [https://thludwig.de](https://thludwig.de)
  - date_published: 2020-11-26T07:01:00+00:00
 
  ## TH Mittelhessen
@@ -2813,11 +2865,11 @@
  - date_published: 2024-07-08T13:39:19.857532+00:00
 
  ## Page Redirection
- - [http://blog.thomasbandt.de](http://blog.thomasbandt.de)
+ - [https://blog.thomasbandt.de](https://blog.thomasbandt.de)
  - date_published: 2017-11-26T11:06:51+00:00
 
  ## Startseite – Von oben sieht man mehr • THOMAS DAILY
- - [https://www.thomas-daily.de](https://www.thomas-daily.de)
+ - [https://thomas-daily.de](https://thomas-daily.de)
  - date_published: 2024-04-12T00:00:00+00:00
 
  ## ..:: Thomas Gericke :: a private website ::..
@@ -2825,7 +2877,7 @@
  - date_published: 2024-12-28T06:27:26.187107+00:00
 
  ## Thomas Hühn
- - [https://www.thomas-huehn.de](https://www.thomas-huehn.de)
+ - [https://thomas-huehn.de](https://thomas-huehn.de)
  - date_published: 2024-04-23T07:27:54+00:00
 
  ## Thomas i Punkt Mode - OMEN & Streetwear
@@ -2845,7 +2897,7 @@
  - date_published: 2017-10-12T00:00:00+00:00
 
  ## Deutsche AI/KI TTS-Stimme kostenlos mit Thorsten-Voice
- - [https://www.thorsten-voice.de](https://www.thorsten-voice.de)
+ - [https://thorsten-voice.de](https://thorsten-voice.de)
  - date_published: 2024-08-19T17:55:14.969121+00:00
 
  ## Thorsten Wißmann
@@ -2889,7 +2941,7 @@
  - date_published: 2024-12-20T00:00:00+00:00
 
  ## Thüringen24 - Nachrichten aus Thüringen und der Welt
- - [https://www.thueringen24.de](https://www.thueringen24.de)
+ - [https://thueringen24.de](https://thueringen24.de)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Weltoffenes Thüringen
@@ -2901,7 +2953,7 @@
  - date_published: 2024-09-25T19:05:44.975052+00:00
 
  ## Startseite | Thüringer Schlösser und Gärten
- - [https://www.thueringerschloesser.de](https://www.thueringerschloesser.de)
+ - [https://thueringerschloesser.de](https://thueringerschloesser.de)
  - date_published: 2024-05-31T00:00:00+00:00
 
  ## - Thunderbird Mail DE
@@ -2951,9 +3003,10 @@
  ## Harry Potter: Visions of Magic
  - [https://harrypottervisionsofmagic.ticketmaster.de](https://harrypottervisionsofmagic.ticketmaster.de)
  - date_published: 2024-05-07T14:32:13.843763+00:00
+ - date_dead_since: 2025-01-04T12:36:49.227761+00:00
 
  ## Let's Get Your Identity Verified
- - [https://www.ticketmaster.de](https://www.ticketmaster.de)
+ - [https://ticketmaster.de](https://ticketmaster.de)
  - date_published: 2024-09-16T03:57:16.310528+00:00
 
  ## TicketPAY - Das Komplettpaket für Veranstalter - Online Tickets verkaufen
@@ -2961,7 +3014,7 @@
  - date_published: 2024-09-18T00:00:00+00:00
 
  ## TicketPAY - Das Komplettpaket für Veranstalter - Online Tickets verkaufen
- - [https://www.ticketpay.de](https://www.ticketpay.de)
+ - [https://ticketpay.de](https://ticketpay.de)
  - date_published: 2024-09-18T00:00:00+00:00
 
  ## tic tac® - Milde Frische. Typisch tic tac®.
@@ -2969,7 +3022,7 @@
  - date_published: 2024-10-10T10:32:41+00:00
 
  ## Leipzig Veterinary Congress | 15 to 17 January 2026 | Leipziger Tierärztekongress
- - [http://www.tieraerztekongress.de](http://www.tieraerztekongress.de)
+ - [https://tieraerztekongress.de](https://tieraerztekongress.de)
  - date_published: 2024-10-22T05:26:44.934541+00:00
 
  ## Tim Althoff - Assistant Professor in Computer Science at the University of Washington
@@ -2985,15 +3038,15 @@
  - date_published: 2024-01-07T11:02:58.507889+00:00
 
  ## Studio Von Buktu - Tonstudio von Tim Buktu Musikproduktion Mastering Wuppertal
- - [http://www.tim-buktu.de](http://www.tim-buktu.de)
+ - [http://tim-buktu.de](http://tim-buktu.de)
  - date_published: 2011-04-13T16:47:36+00:00
 
  ## timeanddate.de
- - [https://www.timeanddate.de](https://www.timeanddate.de)
+ - [https://timeanddate.de](https://timeanddate.de)
  - date_published: 2024-05-06T18:26:29.357194+00:00
 
  ## Karriere bei TIMOCOM
- - [http://www.karriere.timocom.de](http://www.karriere.timocom.de)
+ - [https://karriere.timocom.de](https://karriere.timocom.de)
  - date_published: 2024-07-24T06:05:39.444477+00:00
 
  ## Timo Maul
@@ -3002,7 +3055,7 @@
  - tags: ['personal']
 
  ## Timo Volz Fotodesign Mannheim
- - [http://www.timovolz.de](http://www.timovolz.de)
+ - [https://timovolz.de](https://timovolz.de)
  - date_published: 2024-07-19T23:11:22.020523+00:00
 
  ## Timo Zander — Cologne-based Software Developer
@@ -3014,7 +3067,7 @@
  - date_published: 2024-10-31T17:29:42+00:00
 
  ## Welcome • tim rodenbröker creative coding
- - [http://timrodenbroeker.de](http://timrodenbroeker.de)
+ - [https://timrodenbroeker.de](https://timrodenbroeker.de)
  - date_published: 2024-07-13T15:04:20.845484+00:00
 
  ## Max/MSP Jitter Javascript Reference - Index
@@ -3022,7 +3075,7 @@
  - date_published: 2013-06-13T20:35:21+00:00
 
  ## Certified TYPO3 Developer, Integrator, Consultant
- - [http://www.tim-schenk.de](http://www.tim-schenk.de)
+ - [https://tim-schenk.de](https://tim-schenk.de)
  - date_published: 2020-12-29T18:19:59+00:00
 
  ## Tim Taubert
@@ -3034,7 +3087,7 @@
  - date_published: 2024-08-15T11:48:36+00:00
 
  ## HOME - tine
- - [https://www.tine-groupware.de](https://www.tine-groupware.de)
+ - [https://tine-groupware.de](https://tine-groupware.de)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## Tinkerthon - Kinder, Kreativität, Elektronik
@@ -3042,11 +3095,11 @@
  - date_published: 2019-01-01T00:43:22+00:00
 
  ## TIO e.V. Berlin
- - [https://www.tio-berlin.de](https://www.tio-berlin.de)
+ - [https://tio-berlin.de](https://tio-berlin.de)
  - date_published: 2024-09-12T15:59:39.436645+00:00
 
  ## tipBerlin - dein Berlin-Magazin
- - [https://www.tip-berlin.de](https://www.tip-berlin.de)
+ - [https://tip-berlin.de](https://tip-berlin.de)
  - date_published: 2024-06-22T14:46:33.140499+00:00
 
  ## tisoware Gesellschaft für Zeitwirtschaft mbH
@@ -3054,11 +3107,11 @@
  - date_published: 2024-08-19T07:16:10+00:00
 
  ## Gaming Gear im Vergleich | Neue Produkte | A-ZET
- - [http://www.titancomputer.de](http://www.titancomputer.de)
+ - [https://titancomputer.de](https://titancomputer.de)
  - date_published: 2018-04-17T13:27:03+00:00
 
  ## Kinder
- - [https://www.tivi.de](https://www.tivi.de)
+ - [https://tivi.de](https://tivi.de)
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## tjabelstünj
@@ -3066,7 +3119,7 @@
  - date_published: 2024-07-12T03:32:45.033090+00:00
 
  ## Ihre Krankenversicherung: Techniker Krankenkasse | Die Techniker
- - [https://www.tk.de](https://www.tk.de)
+ - [https://tk.de](https://tk.de)
  - date_published: 2024-07-24T03:42:00.902988+00:00
 
  ## Aufgaben und Ziele: Thüringer · Landes · Präsidenten · Konferenz
@@ -3078,7 +3131,7 @@
  - date_published: 2018-12-08T08:12:02+00:00
 
  ## TMP Fenster + Türen GmbH
- - [https://www.tmp-online.de](https://www.tmp-online.de)
+ - [https://tmp-online.de](https://tmp-online.de)
  - date_published: 2024-09-25T19:05:52.155030+00:00
 
  ## TMT – IT-, Internet- und Mediendienstleister aus Bayreuth
@@ -3086,7 +3139,7 @@
  - date_published: 2024-04-29T06:15:45.057305+00:00
 
  ## Torsten Mütze
- - [http://www.tmuetze.de](http://www.tmuetze.de)
+ - [https://tmuetze.de](https://tmuetze.de)
  - date_published: 2024-06-28T16:38:31+00:00
 
  ## Startseite | Warner TV Deutschland
@@ -3095,18 +3148,18 @@
 
  ## TobiasBaus.de
  - [https://tobiasbaus.de](https://tobiasbaus.de)
- - date_published: 2024-07-24T04:48:39.863910+00:00
+ - date_published: 2024-04-28T09:57:56+00:00
 
  ## Tobias Erichsen | private stuff & software for audio, midi and more
- - [https://www.tobias-erichsen.de](https://www.tobias-erichsen.de)
+ - [https://tobias-erichsen.de](https://tobias-erichsen.de)
  - date_published: 2024-08-19T15:58:45.059555+00:00
 
  ## Tobias Hönow — Design and Art Direction
- - [http://tobiashoenow.de](http://tobiashoenow.de)
+ - [https://tobiashoenow.de](https://tobiashoenow.de)
  - date_published: 2024-06-11T11:19:57+00:00
 
  ## Boutique & Bureau Tobi Mania
- - [http://tobimania.de](http://tobimania.de)
+ - [https://tobimania.de](https://tobimania.de)
  - date_published: 2020-09-08T16:08:21+00:00
 
  ## TobiTech - Audio und Hardware Testmagazin - TobiTech - Audio und Hardware Testmagazin
@@ -3120,13 +3173,14 @@
  ## Camera, code, coffee
  - [https://tokyoma.de](https://tokyoma.de)
  - date_published: 2024-05-07T23:14:42.257394+00:00
+ - date_dead_since: 2025-01-04T12:40:00.615262+00:00
 
  ## TOLEDO
- - [http://www.toledo-programm.de](http://www.toledo-programm.de)
+ - [https://toledo-programm.de](https://toledo-programm.de)
  - date_published: 2024-07-13T14:33:14.057576+00:00
 
  ## Netzwerk Tolerantes Sachsen
- - [https://www.tolerantes-sachsen.de](https://www.tolerantes-sachsen.de)
+ - [https://tolerantes-sachsen.de](https://tolerantes-sachsen.de)
  - date_published: 2024-09-11T10:01:16+00:00
 
  ## Sign in - Matomo
@@ -3146,7 +3200,7 @@
  - date_published: 2024-12-10T20:39:20.088681+00:00
 
  ## Toner günstig kaufen bei TonerPartner.de
- - [https://www.tonerpartner.de](https://www.tonerpartner.de)
+ - [https://tonerpartner.de](https://tonerpartner.de)
  - date_published: 2024-06-25T22:29:37.680321+00:00
 
  ## tonies® I Der Hör-Spiel-Spaß für Kinder mit den Tonies & der Toniebox!
@@ -3154,7 +3208,7 @@
  - date_published: 2024-07-04T00:00:00+00:00
 
  ## Düsseldorf Tonight
- - [https://www.tonight.de](https://www.tonight.de)
+ - [https://tonight.de](https://tonight.de)
  - date_published: 2024-07-23T00:00:00+00:00
 
  ## Willkommen auf story.t-online.de -
@@ -3164,14 +3218,17 @@
  ## IOAM
  - [https://data-1842699cc4.t-online.de](https://data-1842699cc4.t-online.de)
  - date_published: 2024-01-17T09:13:53+00:00
+ - date_dead_since: 2025-01-04T12:43:17.075992+00:00
 
  ## IOAM
  - [https://data-1df8532686.t-online.de](https://data-1df8532686.t-online.de)
  - date_published: 2024-01-17T09:13:53+00:00
+ - date_dead_since: 2025-01-04T12:43:18.015994+00:00
 
  ## IOAM
  - [https://data-501446ac98.t-online.de](https://data-501446ac98.t-online.de)
  - date_published: 2024-01-17T09:13:53+00:00
+ - date_dead_since: 2025-01-04T12:43:26.062996+00:00
 
  ## News & E-Mail bei t-online | Politik, Sport, Unterhaltung & Ratgeber
  - [https://email.t-online.de](https://email.t-online.de)
@@ -3235,7 +3292,7 @@
  - tags: ['personal']
 
  ## Top50-Solar | Solarenergie Deutschland | Photovoltaik Deutschland | Erneuerbare Energien Deutschland
- - [http://www.top50-solar.de](http://www.top50-solar.de)
+ - [https://top50-solar.de](https://top50-solar.de)
  - date_published: 2024-06-29T07:28:02.377391+00:00
 
  ## TopBlogs.de das Original - Blogverzeichnis | Blog Top Liste
@@ -3247,7 +3304,7 @@
  - date_published: 2024-12-21T07:33:20.762668+00:00
 
  ## .NET und PDF Software
- - [http://blog.topdf.de](http://blog.topdf.de)
+ - [https://blog.topdf.de](https://blog.topdf.de)
  - date_published: 2024-09-18T14:35:08.181862+00:00
 
  ## Tophotel.de
@@ -3255,7 +3312,7 @@
  - date_published: 2024-10-30T08:16:57.247884+00:00
 
  ## Online Casino Bonus – Mit Einzahlung und Freispiele – Aktuell für 2023
- - [https://www.toponlinecasinobonus.de](https://www.toponlinecasinobonus.de)
+ - [https://toponlinecasinobonus.de](https://toponlinecasinobonus.de)
  - date_published: 2024-07-17T04:41:33.600177+00:00
 
  ## Toppoint - Die Toppoint
@@ -3263,7 +3320,7 @@
  - date_published: 2024-07-13T11:28:29.064779+00:00
 
  ## WebTools24.net - TopSites24.de
- - [http://www6.topsites24.de](http://www6.topsites24.de)
+ - [https://www6.topsites24.de](https://www6.topsites24.de)
  - date_published: 2024-01-25T15:32:22+00:00
 
  ## Toru-Tech
@@ -3279,11 +3336,11 @@
  - date_published: 2024-04-29T06:58:52.942756+00:00
 
  ## Regionale Broschüren Ihrer Stadt - kostenlos online lesen
- - [https://www.total-lokal.de](https://www.total-lokal.de)
+ - [https://total-lokal.de](https://total-lokal.de)
  - date_published: 2024-07-13T05:26:57.229289+00:00
 
  ## Forum - Total War Forum
- - [http://totalwar-forum.de](http://totalwar-forum.de)
+ - [https://totalwar-forum.de](https://totalwar-forum.de)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## mein.toubiz #infosystem
@@ -3295,7 +3352,7 @@
  - date_published: 2024-06-15T20:12:08+00:00
 
  ## Ferienhäuser und Ferienwohnungen mieten auf tourist-online.de.
- - [https://www.tourist-online.de](https://www.tourist-online.de)
+ - [https://tourist-online.de](https://tourist-online.de)
  - date_published: 2024-10-22T11:55:55.253329+00:00
 
  ## Home / Cyanocenter
@@ -3315,19 +3372,19 @@
  - date_published: 2024-10-16T16:29:02.959124+00:00
 
  ## Toyota Automobile | Neuwagen im Überblick | Toyota DE
- - [http://toyota.de](http://toyota.de)
+ - [https://toyota.de](https://toyota.de)
  - date_published: 2024-07-10T00:00:00+00:00
 
  ## TFS Portal 2.0
- - [https://www.toyota-bank-portal.de](https://www.toyota-bank-portal.de)
+ - [https://toyota-bank-portal.de](https://toyota-bank-portal.de)
  - date_published: 2024-09-24T13:14:07+00:00
 
  ## Startseite
- - [https://www.toyota-media.de](https://www.toyota-media.de)
+ - [https://toyota-media.de](https://toyota-media.de)
  - date_published: 2024-10-16T16:28:11.176748+00:00
 
  ## Startseite - Steinbeis-Innovationszentrum Transferplattform Industrie 4.0 – TPBW I4.0
- - [https://www.tpbw-i40.de](https://www.tpbw-i40.de)
+ - [https://tpbw-i40.de](https://tpbw-i40.de)
  - date_published: 2024-07-19T17:05:34.341715+00:00
 
  ## Thomas Pöppelmann
@@ -3367,15 +3424,15 @@
  - date_published: 2024-05-08T04:50:05.475468+00:00
 
  ## Microsimulation of Traffic Flow: Onramp
- - [http://traffic-simulation.de](http://traffic-simulation.de)
+ - [https://traffic-simulation.de](https://traffic-simulation.de)
  - date_published: 2023-07-03T14:50:28+00:00
 
  ## TRAFO - Modelle für Kultur im Wandel
- - [http://www.trafo-programm.de](http://www.trafo-programm.de)
+ - [https://trafo-programm.de](https://trafo-programm.de)
  - date_published: 2024-07-13T14:29:25.699131+00:00
 
  ## Blunk electronic
- - [http://www.train-z.de](http://www.train-z.de)
+ - [http://train-z.de](http://train-z.de)
  - date_published: 2024-05-02T07:35:23+00:00
 
  ## Transcontinenta GmbH - Vertriebshändler für Kamerazubehör
@@ -3383,11 +3440,11 @@
  - date_published: 2025-01-02T00:28:29.369019+00:00
 
  ## transcript Verlag
- - [https://www.transcript-verlag.de](https://www.transcript-verlag.de)
+ - [https://transcript-verlag.de](https://transcript-verlag.de)
  - date_published: 2024-07-04T13:15:38.654477+00:00
 
  ## Vertrieb  - Transdev
- - [https://www.transdev-vertrieb.de](https://www.transdev-vertrieb.de)
+ - [https://transdev-vertrieb.de](https://transdev-vertrieb.de)
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## contentpass
@@ -3403,7 +3460,7 @@
  - date_published: 2024-07-23T00:00:00+00:00
 
  ## face value | transmediale festival 2018
- - [http://2018.transmediale.de](http://2018.transmediale.de)
+ - [https://2018.transmediale.de](https://2018.transmediale.de)
  - date_published: 2024-07-12T20:27:11+00:00
 
  ## Festival | transmediale festival 2020
@@ -3416,7 +3473,7 @@
 
  ## transmediale
  - [https://tmdev.transmediale.de](https://tmdev.transmediale.de)
- - date_published: 2024-07-24T04:30:49.904693+00:00
+ - date_published: 2017-01-28T23:27:45+00:00
 
  ## transmediale
  - [https://transmediale.de](https://transmediale.de)
@@ -3431,7 +3488,7 @@
  - date_published: 2024-09-19T20:33:33.505356+00:00
 
  ## Transparency International Deutschland e.V.
- - [https://www.transparency.de](https://www.transparency.de)
+ - [https://transparency.de](https://transparency.de)
  - date_published: 2024-07-14T14:49:11.464561+00:00
 
  ## Initiative Transparente Zivilgesellschaft
@@ -3443,16 +3500,16 @@
  - date_published: 2024-04-01T22:07:08+00:00
 
  ## Lösungen für den öffentlichen Personennahverkehr
- - [https://www.trapezegroup.de](https://www.trapezegroup.de)
+ - [https://trapezegroup.de](https://trapezegroup.de)
  - date_published: 2024-07-01T17:11:34+00:00
+
+ ## Das Trauerportal für den deutschsprachigen Raum
+ - [https://trauer.de](https://trauer.de)
+ - date_published: 2024-07-24T07:41:41.230708+00:00
 
  ## Traueranzeigen Ihrer Region | Volksfreund.Trauer.de
  - [http://volksfreund.trauer.de](http://volksfreund.trauer.de)
  - date_published: 2024-12-10T18:41:26.732640+00:00
-
- ## Das Trauerportal für den deutschsprachigen Raum
- - [https://www.trauer.de](https://www.trauer.de)
- - date_published: 2024-07-24T07:41:41.230708+00:00
 
  ## Traueranzeigen Ihrer Region | trauer-anzeigen.de
  - [https://trauer-anzeigen.de](https://trauer-anzeigen.de)
@@ -3495,7 +3552,7 @@
  - date_published: 2024-12-30T10:57:58.629075+00:00
 
  ## Treppen Intercon
- - [https://www.treppen-intercon.de](https://www.treppen-intercon.de)
+ - [https://treppen-intercon.de](https://treppen-intercon.de)
  - date_published: 2024-07-12T16:55:22.170871+00:00
 
  ## Norbert Tretkowski
@@ -3507,15 +3564,15 @@
  - date_published: 2024-05-06T17:34:06.164864+00:00
 
  ## Startseite | Tribute to Bambi Stiftung
- - [https://www.tributetobambi-stiftung.de](https://www.tributetobambi-stiftung.de)
+ - [https://tributetobambi-stiftung.de](https://tributetobambi-stiftung.de)
  - date_published: 2024-07-03T01:44:10.139504+00:00
 
  ## Triodos Bank - Denn Geld kann so viel mehr
- - [https://www.triodos.de](https://www.triodos.de)
+ - [https://triodos.de](https://triodos.de)
  - date_published: 2024-05-01T05:46:27.986082+00:00
 
  ## tripadvisor.de
- - [https://www.tripadvisor.de](https://www.tripadvisor.de)
+ - [https://tripadvisor.de](https://tripadvisor.de)
  - date_published: 2024-06-23T09:27:41.367572+00:00
 
  ## Henning Koch
@@ -3523,7 +3580,7 @@
  - date_published: 2023-12-14T14:32:11+00:00
 
  ## trivago.de - Compare hotel prices worldwide
- - [https://www.trivago.de](https://www.trivago.de)
+ - [https://trivago.de](https://trivago.de)
  - date_published: 2024-09-04T11:20:50.312126+00:00
 
  ## Technologieregion Karlsruhe - Startseite
@@ -3531,7 +3588,7 @@
  - date_published: 2024-03-26T00:00:00+00:00
 
  ## de
- - [http://www.troisdorf.de](http://www.troisdorf.de)
+ - [https://troisdorf.de](https://troisdorf.de)
  - date_published: 2024-07-03T17:35:10+00:00
 
  ## TROOPERS24
@@ -3555,7 +3612,7 @@
  - date_published: 2024-05-30T10:39:47+00:00
 
  ## Trumox.de
- - [https://www.trumox.de](https://www.trumox.de)
+ - [https://trumox.de](https://trumox.de)
  - date_published: 2024-07-20T20:59:58.539325+00:00
 
  ## TrustDeals.de - Spare mit den exklusiven Rabattcodes, Angeboten, und Gutscheinen
@@ -3563,7 +3620,7 @@
  - date_published: 2024-12-24T14:51:28+00:00
 
  ## trusted » Die besten Tools und Dienste für Ihr Business
- - [https://trusted.de](https://trusted.de)
+ - [http://trusted.de](http://trusted.de)
  - date_published: 2024-06-16T14:05:37.470760+00:00
 
  ## Trusted Shops für Shopbetreiber
@@ -3577,6 +3634,7 @@
  ## Crypto-Webminer domain sales
  - [https://trusteverything.de](https://trusteverything.de)
  - date_published: 2024-01-23T10:16:20+00:00
+ - date_dead_since: 2025-01-04T12:54:30.683371+00:00
 
  ## Homepage
  - [https://karriere.trustfactory.de](https://karriere.trustfactory.de)
@@ -3627,12 +3685,16 @@
  - date_published: 2024-04-29T06:56:20.017383+00:00
 
  ## TU9-Allianz
- - [https://www.tu9-universities.de](https://www.tu9-universities.de)
+ - [https://tu9-universities.de](https://tu9-universities.de)
  - date_published: 2024-06-20T05:53:41.746550+00:00
 
  ## Tubbutec - music electronics
  - [https://tubbutec.de](https://tubbutec.de)
  - date_published: 2024-05-08T10:13:19.394127+00:00
+
+ ## Algorithmik und Komplexitätstheorie - TU Berlin
+ - [https://akt.tu-berlin.de](https://akt.tu-berlin.de)
+ - date_published: 2022-01-10T00:00:00+00:00
 
  ## Catalogus Professorum - TU Berlin
  - [https://cp.tu-berlin.de](https://cp.tu-berlin.de)
@@ -3652,7 +3714,7 @@
  - date_published: 2024-07-24T04:23:26.251395+00:00
 
  ## Private Homepages
- - [http://page.math.tu-berlin.de](http://page.math.tu-berlin.de)
+ - [https://page.math.tu-berlin.de](https://page.math.tu-berlin.de)
  - date_published: 2024-09-13T18:10:02.581402+00:00
 
  ## Web Login Service - Loading Session Information
@@ -3671,25 +3733,21 @@
  - [https://webmail.tu-berlin.de](https://webmail.tu-berlin.de)
  - date_published: 2024-07-24T00:00:00+00:00
 
- ## Algorithmik und Komplexitätstheorie - TU Berlin
- - [https://www.akt.tu-berlin.de](https://www.akt.tu-berlin.de)
- - date_published: 2022-01-10T00:00:00+00:00
+ ## Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP)
+ - [https://wip.tu-berlin.de](https://wip.tu-berlin.de)
+ - date_published: 2024-06-22T21:32:25.074644+00:00
 
  ## Institut für Mathematik - TU Berlin
- - [http://www.math.tu-berlin.de](http://www.math.tu-berlin.de)
+ - [https://www.math.tu-berlin.de](https://www.math.tu-berlin.de)
  - date_published: 2024-04-10T00:00:00+00:00
 
  ## Technische Universität Berlin
- - [http://www.tu-berlin.de](http://www.tu-berlin.de)
+ - [https://www.tu-berlin.de](https://www.tu-berlin.de)
  - date_published: 2024-07-13T03:59:26.380399+00:00
 
  ## Zentraleinrichtung Campusmanagement der TU Berlin
  - [https://www.tubit.tu-berlin.de](https://www.tubit.tu-berlin.de)
  - date_published: 2024-04-29T06:56:07.302575+00:00
-
- ## Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP)
- - [http://www.wip.tu-berlin.de](http://www.wip.tu-berlin.de)
- - date_published: 2024-06-22T21:32:25.074644+00:00
 
  ## Überblick - TU Braunschweig | Blogs
  - [https://magazin.tu-braunschweig.de](https://magazin.tu-braunschweig.de)
@@ -3700,40 +3758,42 @@
  - date_published: 2024-07-24T04:21:56.753633+00:00
 
  ## Index of /
- - [http://ftp.rz.tu-bs.de](http://ftp.rz.tu-bs.de)
+ - [https://ftp.rz.tu-bs.de](https://ftp.rz.tu-bs.de)
  - date_published: 2024-08-19T00:00:00+00:00
 
  ## Computer Graphics Lab - TU Braunschweig
  - [https://graphics.tu-bs.de](https://graphics.tu-bs.de)
  - date_published: 2024-06-22T07:21:02.070750+00:00
 
+ ## Institut für Betriebssysteme und Rechnerverbund
+ - [https://ibr.cs.tu-bs.de](https://ibr.cs.tu-bs.de)
+ - date_published: 2024-08-19T00:00:00+00:00
+
  ## Page Redirection
  - [https://serial.ibr.cs.tu-bs.de](https://serial.ibr.cs.tu-bs.de)
  - date_published: 2022-09-23T09:44:48+00:00
-
- ## Institut für Betriebssysteme und Rechnerverbund
- - [https://www.ibr.cs.tu-bs.de](https://www.ibr.cs.tu-bs.de)
- - date_published: 2024-08-19T00:00:00+00:00
+ - date_dead_since: 2025-01-04T13:02:56.100602+00:00
 
  ## Page Redirection
  - [https://www.sec.cs.tu-bs.de](https://www.sec.cs.tu-bs.de)
  - date_published: 2020-06-19T10:36:39+00:00
 
  ## FTP-Archivbrowser | FTP-Archiv ftp.tu-chemnitz.de | Anwendungen und Dienste | URZ | TU Chemnitz
- - [http://ftp.tu-chemnitz.de](http://ftp.tu-chemnitz.de)
+ - [https://ftp.tu-chemnitz.de](https://ftp.tu-chemnitz.de)
  - date_published: 2024-08-19T22:19:54.238720+00:00
 
  ## Technische Universität Chemnitz
- - [https://www.tu-chemnitz.de](https://www.tu-chemnitz.de)
+ - [https://tu-chemnitz.de](https://tu-chemnitz.de)
  - date_published: 2024-06-30T00:00:00+00:00
 
  ## Arbeitsbereich Elektronik und Digitaltechnik - TU Clausthal
- - [http://techwww.in.tu-clausthal.de](http://techwww.in.tu-clausthal.de)
+ - [https://techwww.in.tu-clausthal.de](https://techwww.in.tu-clausthal.de)
  - date_published: 2024-07-09T07:01:25.966388+00:00
 
  ## Video-Server - TU Clausthal
  - [https://video.tu-clausthal.de](https://video.tu-clausthal.de)
  - date_published: 2024-06-30T06:41:49.353721+00:00
+ - date_dead_since: 2025-01-04T13:03:19.612252+00:00
 
  ## E-Learning an Hochschulen – Neues zu E-Learning an der TU Darmstadt
  - [https://blog.e-learning.tu-darmstadt.de](https://blog.e-learning.tu-darmstadt.de)
@@ -3742,6 +3802,10 @@
  ## Cryptoplexity Start
  - [https://cryptoplexity.informatik.tu-darmstadt.de](https://cryptoplexity.informatik.tu-darmstadt.de)
  - date_published: 2024-04-29T07:20:27.610150+00:00
+
+ ## Identity Provider of Technical University of Darmstadt
+ - [https://idm.tu-darmstadt.de](https://idm.tu-darmstadt.de)
+ - date_published: 2024-07-24T04:22:10.266899+00:00
 
  ## SSO
  - [https://login.tu-darmstadt.de](https://login.tu-darmstadt.de)
@@ -3752,7 +3816,7 @@
  - date_published: 2024-05-04T15:44:23.258252+00:00
 
  ## Startseite | Moodle TU Darmstadt
- - [http://moodle.tu-darmstadt.de](http://moodle.tu-darmstadt.de)
+ - [https://moodle.tu-darmstadt.de](https://moodle.tu-darmstadt.de)
  - date_published: 2024-07-24T04:22:15.650885+00:00
 
  ## Identity Provider of Technical University of Darmstadt
@@ -3778,7 +3842,7 @@
  - date_published: 2024-11-22T00:00:00+00:00
 
  ## CROSSING
- - [http://www.crossing.tu-darmstadt.de](http://www.crossing.tu-darmstadt.de)
+ - [https://www.crossing.tu-darmstadt.de](https://www.crossing.tu-darmstadt.de)
  - date_published: 2024-04-16T00:00:00+00:00
 
  ## Staff-Mgn.
@@ -3786,7 +3850,7 @@
  - date_published: 2024-06-22T11:54:15.035098+00:00
 
  ## DVS - Databases and Distributed Systems
- - [http://www.dvs.tu-darmstadt.de](http://www.dvs.tu-darmstadt.de)
+ - [https://www.dvs.tu-darmstadt.de](https://www.dvs.tu-darmstadt.de)
  - date_published: 2019-10-30T13:45:40+00:00
 
  ## E-Learning @TU Darmstadt
@@ -3802,7 +3866,7 @@
  - date_published: 2024-04-29T06:56:12.861105+00:00
 
  ## Graphisch-Interaktive Systeme
- - [http://www.gris.informatik.tu-darmstadt.de](http://www.gris.informatik.tu-darmstadt.de)
+ - [https://www.gris.informatik.tu-darmstadt.de](https://www.gris.informatik.tu-darmstadt.de)
  - date_published: 2024-06-22T07:29:08.550406+00:00
 
  ## Gründungen – xchange
@@ -3821,10 +3885,6 @@
  - [https://www.ias.informatik.tu-darmstadt.de](https://www.ias.informatik.tu-darmstadt.de)
  - date_published: 2024-07-12T08:05:00.543317+00:00
 
- ## Identity Provider of Technical University of Darmstadt
- - [https://www.idm.tu-darmstadt.de](https://www.idm.tu-darmstadt.de)
- - date_published: 2024-07-24T04:22:10.266899+00:00
-
  ## FB Informatik
  - [https://www.informatik.tu-darmstadt.de](https://www.informatik.tu-darmstadt.de)
  - date_published: 2024-05-04T15:43:58.931142+00:00
@@ -3838,7 +3898,7 @@
  - date_published: 2024-07-07T10:45:56.708486+00:00
 
  ## Sonderforschungsbereich 1053 MAKI – Multi-Mechanismen-Adaption für das künftige Internet
- - [http://www.maki.tu-darmstadt.de](http://www.maki.tu-darmstadt.de)
+ - [https://www.maki.tu-darmstadt.de](https://www.maki.tu-darmstadt.de)
  - date_published: 2024-07-07T10:45:54.449084+00:00
 
  ## Fachbereich Mathematik
@@ -3846,7 +3906,7 @@
  - date_published: 2024-11-22T00:00:00+00:00
 
  ## Startseite
- - [http://wwwopt.mathematik.tu-darmstadt.de](http://wwwopt.mathematik.tu-darmstadt.de)
+ - [https://wwwopt.mathematik.tu-darmstadt.de](https://wwwopt.mathematik.tu-darmstadt.de)
  - date_published: 2024-10-16T06:09:38.406389+00:00
 
  ## Startseite
@@ -3874,7 +3934,7 @@
  - date_published: 2023-12-02T05:46:14.228323+00:00
 
  ## UKP
- - [http://www.ukp.tu-darmstadt.de](http://www.ukp.tu-darmstadt.de)
+ - [https://www.ukp.tu-darmstadt.de](https://www.ukp.tu-darmstadt.de)
  - date_published: 2024-10-28T00:21:03.128653+00:00
 
  ## Die Bibliothek
@@ -3882,7 +3942,7 @@
  - date_published: 2024-04-29T06:56:10.585144+00:00
 
  ## Webseiten mit FirstSpirit
- - [http://www.webteam.tu-darmstadt.de](http://www.webteam.tu-darmstadt.de)
+ - [https://www.webteam.tu-darmstadt.de](https://www.webteam.tu-darmstadt.de)
  - date_published: 2024-06-30T00:00:00+00:00
 
  ## Tudock - Digital Commerce aus Hamburg
@@ -3896,14 +3956,15 @@
  ## Home - TU Dortmund, Informatik 2
  - [http://ls2-www.cs.tu-dortmund.de](http://ls2-www.cs.tu-dortmund.de)
  - date_published: 2024-06-30T08:55:53.996393+00:00
+ - date_dead_since: 2025-01-04T13:08:31.552180+00:00
+
+ ## Startseite - TU Dortmund
+ - [https://tu-dortmund.de](https://tu-dortmund.de)
+ - date_published: 2024-07-21T05:15:50+00:00
 
  ## Scientific Understanding and Deep Neural Networks
  - [https://udnn.tu-dortmund.de](https://udnn.tu-dortmund.de)
  - date_published: 2024-07-01T05:47:38.455634+00:00
-
- ## Startseite - TU Dortmund
- - [https://www.tu-dortmund.de](https://www.tu-dortmund.de)
- - date_published: 2024-07-21T05:15:50+00:00
 
  ## Professur für Privacy and Security
  - [https://dud.inf.tu-dresden.de](https://dud.inf.tu-dresden.de)
@@ -3914,11 +3975,11 @@
  - date_published: 2024-07-10T05:50:57.093759+00:00
 
  ## Willkommen in Tübingen
- - [http://www.tuebingen.de](http://www.tuebingen.de)
+ - [https://tuebingen.de](https://tuebingen.de)
  - date_published: 2024-08-11T22:00:07+00:00
 
  ## Innentüren, Haustüren und mehr... einfach mal Türen kaufen!
- - [https://www.tuerenheld.de](https://www.tuerenheld.de)
+ - [https://tuerenheld.de](https://tuerenheld.de)
  - date_published: 2024-07-12T16:55:19.487210+00:00
 
  ## TÜV NORD | Wir machen die Welt sicherer.
@@ -3926,7 +3987,7 @@
  - date_published: 2024-12-13T14:21:44.021328+00:00
 
  ## TÜV Saarland: Sicherheit & Neutralität für Industrie und Technik
- - [https://www.tuev-saar.de](https://www.tuev-saar.de)
+ - [https://tuev-saar.de](https://tuev-saar.de)
  - date_published: 2024-08-11T04:22:56.087017+00:00
 
  ## TÜV Thüringen: Qualität und Sicherheit aus dem Herzen Deutschlands
@@ -3938,11 +3999,11 @@
  - date_published: 2024-11-16T20:31:17.305972+00:00
 
  ## Technik für die Menschen
- - [https://www.tuhh.de](https://www.tuhh.de)
+ - [https://tuhh.de](https://tuhh.de)
  - date_published: 2024-07-01T11:37:57.983913+00:00
 
  ## TU-Ideenwettbewerb 2024
- - [http://www.tu-ideenwettbewerb.de](http://www.tu-ideenwettbewerb.de)
+ - [https://tu-ideenwettbewerb.de](https://tu-ideenwettbewerb.de)
  - date_published: 2024-07-24T04:23:20.642998+00:00
 
  ## Weiterleitung
@@ -3964,52 +4025,4 @@
  ## Startseite
  - [https://ladon.patent-inf.tu-ilmenau.de](https://ladon.patent-inf.tu-ilmenau.de)
  - date_published: 2024-10-29T11:11:14+00:00
-
- ## Mobility Online
- - [https://mobility.tu-ilmenau.de](https://mobility.tu-ilmenau.de)
- - date_published: 2020-05-28T09:14:43+00:00
-
- ## Log in to the site | Moodle an der TU Ilmenau
- - [https://moodle.tu-ilmenau.de](https://moodle.tu-ilmenau.de)
- - date_published: 2024-06-19T15:37:56.983130+00:00
-
- ## Open Timetables
- - [https://opentimetable.tu-ilmenau.de](https://opentimetable.tu-ilmenau.de)
- - date_published: 2019-06-18T14:44:00+00:00
-
- ## Weiterleitung
- - [https://os.tu-ilmenau.de](https://os.tu-ilmenau.de)
- - date_published: 2021-10-15T12:14:35+00:00
-
- ## Startseite | Technische Universität Ilmenau
- - [https://tu-ilmenau.de](https://tu-ilmenau.de)
- - date_published: 2024-10-29T11:10:42.038425+00:00
-
- ## Webmail TU Ilmenau :: Willkommen bei  Webmail TU Ilmenau
- - [https://webmail.tu-ilmenau.de](https://webmail.tu-ilmenau.de)
- - date_published: 2024-06-19T15:39:02+00:00
-
- ## PATONLandespatentzentrum Thüringen | Technische Universität Ilmenau
- - [https://www.paton.tu-ilmenau.de](https://www.paton.tu-ilmenau.de)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## TU Ilmenau Shop - TU Ilmenau Shop
- - [http://tu-ilmenau-shop.de](http://tu-ilmenau-shop.de)
- - date_published: 2024-06-19T15:37:53.565783+00:00
-
- ## Tulpar Notebook | Notebooks für Performance-Fans
- - [https://www.tulparnotebook.de](https://www.tulparnotebook.de)
- - date_published: 2024-06-22T15:05:52.268044+00:00
-
- ## Startseite - Academics - TUM School of Natural Sciences
- - [https://academics.nat.tum.de](https://academics.nat.tum.de)
- - date_published: 2024-08-08T21:10:23.095504+00:00
-
- ## Home
- - [https://algo2019.ak.in.tum.de](https://algo2019.ak.in.tum.de)
- - date_published: 2024-06-30T09:23:50+00:00
-
- ## Page has moved
- - [http://campar.in.tum.de](http://campar.in.tum.de)
- - date_published: 2023-10-24T08:13:14+00:00
 

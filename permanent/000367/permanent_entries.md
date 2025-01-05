@@ -1,3 +1,71 @@
+ ## Roia
+ - [https://roia.softonic.kr](https://roia.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## RollZ (by Hecate Ediciones)
+ - [https://rollz-hecate-ediciones.softonic.kr](https://rollz-hecate-ediciones.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Shanghai Tile - Mahjong Match
+ - [https://shanghai-tile-mahjong-match.softonic.kr](https://shanghai-tile-mahjong-match.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## 앱 뉴스 및 리뷰, 가장 많은 소프트웨어 다운로드 및 검색 - Softonic
+ - [https://softonic.kr](https://softonic.kr)
+ - date_published: 2024-04-29T05:11:47.459191+00:00
+
+ ## Splitgate 2 Companion
+ - [https://splitgate-2-companion.softonic.kr](https://splitgate-2-companion.softonic.kr)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Sports Sports NETFLIX
+ - [https://sports-sports-netflix.softonic.kr](https://sports-sports-netflix.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Telegram
+ - [https://telegram.softonic.kr](https://telegram.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Thú Kỳ Huyền 3D Mobile
+ - [https://thu-ky-huyen-3d-mobile.softonic.kr](https://thu-ky-huyen-3d-mobile.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## ValTracker for Valorant
+ - [https://valtracker-for-valorant.softonic.kr](https://valtracker-for-valorant.softonic.kr)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## 엑스피펜 | 엑스피펜 공식 스토어
+ - [https://storexppen.kr](https://storexppen.kr)
+ - date_published: 2024-05-30T18:42:53.877465+00:00
+
+ ## SYSSEC
+ - [https://www.syssec.kr](https://www.syssec.kr)
+ - date_published: 2024-05-06T15:58:21.916106+00:00
+
+ ## MIT Technology Review, MIT 테크놀로지 리뷰
+ - [https://www.technologyreview.kr](https://www.technologyreview.kr)
+ - date_published: 2024-07-01T15:01:42.609057+00:00
+
+ ## 전자부품 전문 미디어 디일렉
+ - [https://www.thelec.kr](https://www.thelec.kr)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## TVCC NEWS
+ - [https://tvcc.kr](https://tvcc.kr)
+ - date_published: 2024-09-23T13:10:29.147792+00:00
+
+ ## 백괴사전, 너희 모두의 백과사전
+ - [https://m.uncyclopedia.kr](https://m.uncyclopedia.kr)
+ - date_published: 2024-07-14T06:54:04.748251+00:00
+
+ ## 백괴사전, 너희 모두의 백과사전
+ - [https://uncyclopedia.kr](https://uncyclopedia.kr)
+ - date_published: 2024-05-11T09:49:24.924511+00:00
+
+ ## 시애틀 관광청 공식 웹사이트
+ - [https://visitseattle.kr](https://visitseattle.kr)
+ - date_published: 2024-12-10T18:16:18.741833+00:00
+
  ## 시애틀 관광청 공식 웹사이트
  - [http://www.visitseattle.kr](http://www.visitseattle.kr)
  - date_published: 2024-10-21T20:04:13.667298+00:00
@@ -3961,72 +4029,4 @@
  ## Home
  - [https://mastersofscale.app.link](https://mastersofscale.app.link)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## Minimal | Writing + Notes
- - [https://minimal.app.link](https://minimal.app.link)
- - date_published: 2021-12-19T22:17:08+00:00
-
- ## mlssoccer
- - [https://mls.app.link](https://mls.app.link)
- - date_published: 2024-10-18T16:21:11.211950+00:00
-
- ## Newsweek - Aktualne wiadomości z Polski i ze świata
- - [https://mo06u.app.link](https://mo06u.app.link)
- - date_published: 2024-08-17T22:42:27.626362+00:00
-
- ## myGwork - The LGBTQ+ Business Community | LGBTQ+ professionals | graduates | inclusive employers | Jobs | LGBTQ+ recruitment | diversity | Inclusion
- - [https://mygwork3.app.link](https://mygwork3.app.link)
- - date_published: 2024-07-15T07:59:19.402659+00:00
-
- ## NBA Apps
- - [https://nba.app.link](https://nba.app.link)
- - date_published: 2024-05-12T04:38:09.673224+00:00
-
- ## NBA G League Mobile App - The NBA G League
- - [https://nbagleague.app.link](https://nbagleague.app.link)
- - date_published: 2024-07-14T23:58:37.320925+00:00
-
- ## NBC Sports Video, News, and Highlights – nbc.com
- - [https://nbcsports.app.link](https://nbcsports.app.link)
- - date_published: 2024-09-04T01:18:59+00:00
-
- ## Download the Namecheap app
- - [https://nc1.app.link](https://nc1.app.link)
- - date_published: 2024-05-12T04:11:11.040511+00:00
-
- ## Noticias Telemundo Mobile App
- - [https://noticiastelemundo.app.link](https://noticiastelemundo.app.link)
- - date_published: 2024-10-19T20:00:50.260213+00:00
-
- ## NYU Langone Health App
- - [https://nyulangone.app.link](https://nyulangone.app.link)
- - date_published: 2024-05-08T10:59:52.452936+00:00
-
- ## Paris 2024 Olympics - Latest News, Schedules & Results
- - [https://olympics.app.link](https://olympics.app.link)
- - date_published: 2024-07-12T15:06:18.400684+00:00
-
- ## Onet – Jesteś na bieżąco
- - [https://onetaudio.app.link](https://onetaudio.app.link)
- - date_published: 2024-06-18T16:30:27.244446+00:00
-
- ## Orange Pill App | ⚡️ Stack Friends Who Stack Sats ⚡️
- - [https://orangepill.app.link](https://orangepill.app.link)
- - date_published: 2024-10-22T18:37:06.120113+00:00
-
- ## Pandora
- - [https://pandora.app.link](https://pandora.app.link)
- - date_published: 2024-09-17T16:31:42.049882+00:00
-
- ## LiveSafe –
- - [https://pcpi.app.link](https://pcpi.app.link)
- - date_published: 2021-10-29T00:00:00+00:00
-
- ## Peetnik Rewards | Sign Up For Free with the Peet's Coffee App | Peet's Coffee
- - [https://peets.app.link](https://peets.app.link)
- - date_published: 2024-07-22T07:55:26.619222+00:00
-
- ## Pilot Flying J | Travel Centers and Gas Station for Fueling
- - [https://pilotflyingj.app.link](https://pilotflyingj.app.link)
- - date_published: 2024-10-17T21:33:32.893646+00:00
 

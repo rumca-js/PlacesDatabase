@@ -1,3 +1,40 @@
+ ## 100% Solutions for Magento, Shopify, Mobile App & Digital Marketing
+ - [http://magecomp.com](http://magecomp.com)
+ - date_published: 2024-10-29T11:53:08.941034+00:00
+
+ ## Magee 1866 | Donegal Tweed Jackets, Clothing and Accessories
+ - [https://www.magee1866.com](https://www.magee1866.com)
+ - date_published: 2024-07-10T10:24:47.950241+00:00
+
+ ## Premium WordPress Themes & Plugins | MageeWP
+ - [http://www.mageewp.com](http://www.mageewp.com)
+ - date_published: 2024-03-22T09:17:47+00:00
+
+ ## Solutions for Complex Healthcare | Magellan Healthcare
+ - [https://www.magellanhealthcare.com](https://www.magellanhealthcare.com)
+ - date_published: 2024-12-11T22:10:00.111637+00:00
+
+ ## Magellan Media Partners
+ - [https://magellanmediapartners.com](https://magellanmediapartners.com)
+ - date_published: 2024-06-08T11:35:18.550775+00:00
+
+ ## Accessibility checklist
+ - [https://www.magentaa11y.com](https://www.magentaa11y.com)
+ - date_published: 2024-07-23T14:10:34+00:00
+
+ ## Redirecting…
+ - [https://devdocs.magento.com](https://devdocs.magento.com)
+ - date_published: 2023-09-26T16:49:59+00:00
+
+ ## Glossary | Adobe Commerce
+ - [https://glossary.magento.com](https://glossary.magento.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Magento, now Adobe Commerce | eCommerce Software
+ - [https://magento.com](https://magento.com)
+ - date_published: 2024-03-28T06:55:22+00:00
+ - tags: ['cms']
+
  ## Adobe Commerce Extensions & Themes for Your Online Store | Marketplace
  - [https://marketplace.magento.com](https://marketplace.magento.com)
  - date_published: 2024-06-28T17:40:11.135840+00:00
@@ -3992,42 +4029,4 @@
  ## Welcome to nginx!
  - [https://files.manualsbrain.com](https://files.manualsbrain.com)
  - date_published: 2023-04-11T01:45:34+00:00
-
- ## Manuals Brain - all useful manuals at one place!
- - [https://manualsbrain.com](https://manualsbrain.com)
- - date_published: 2024-05-24T23:04:19.750595+00:00
-
- ## collection MW, manual sequence .com by rafaël rozendaal, 2017
- - [https://www.manualsequence.com](https://www.manualsequence.com)
- - date_published: 2024-09-14T18:26:30+00:00
-
- ## Manual Transmission: Shifting Gears as an Adult with Autism
- - [http://manualtransmissionautism.com](http://manualtransmissionautism.com)
- - date_published: 2024-09-01T03:07:27+00:00
-
- ## Manheim Homepage
- - [https://site.manheim.man-uat.com](https://site.manheim.man-uat.com)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Web Server's Default Page
- - [http://manuelabadia.com](http://manuelabadia.com)
- - date_published: 2022-10-21T05:33:56+00:00
-
- ## The Laboratory of Manuel Bürger
- - [http://manuelbuerger.com](http://manuelbuerger.com)
- - date_published: 2024-07-13T15:03:44.006575+00:00
-
- ## Manuel Lamas
- - [https://manuellamas.com](https://manuellamas.com)
- - date_published: 2023-11-29T19:26:31.952527+00:00
- - tags: ['personal']
-
- ## Manu – I write
- - [https://manuelmoreale.com](https://manuelmoreale.com)
- - date_published: 2023-10-25T15:55:29.728049+00:00
- - tags: ['personal']
-
- ## Manuel Oka | Photography
- - [http://www.manueloka.com](http://www.manueloka.com)
- - date_published: 2024-12-10T22:33:25.511045+00:00
 

@@ -1,3 +1,87 @@
+ ## CDC News | CDC News
+ - [http://www.cdc.news](http://www.cdc.news)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Censored.News - All the news they don't want you to see
+ - [https://censored.news](https://censored.news)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Meet Charlie, Your personal journalist.
+ - [https://charlie.news](https://charlie.news)
+ - date_published: 2024-06-19T18:51:40.160938+00:00
+
+ ## Chemicals News | Chemicals News – Chemicals Information
+ - [http://www.chemicals.news](http://www.chemicals.news)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Chemistry News | Chemistry News – Chemistry Information
+ - [http://www.chemistry.news](http://www.chemistry.news)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Following the Yuan | Yaling Jiang | Substack
+ - [https://www.chineseconsumers.news](https://www.chineseconsumers.news)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## Chocolate News | Chocolate News – Chocolate Information
+ - [http://www.chocolate.news](http://www.chocolate.news)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## The Circuit
+ - [https://circuit.news](https://circuit.news)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Citation Needed
+ - [https://citationneeded.news](https://citationneeded.news)
+ - date_published: 2024-01-17T02:36:13.021258+00:00
+
+ ## Climate News | Climate News & Climate Studies
+ - [https://www.climate.news](https://www.climate.news)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Climate Alarmism | Climate Alarmism – Climate Alarmism News
+ - [http://www.climatealarmism.news](http://www.climatealarmism.news)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Climate Town | Matt Nelsen | Substack
+ - [https://www.climatetown.news](https://www.climatetown.news)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## CNE.news
+ - [https://cne.news](https://cne.news)
+ - date_published: 2023-10-25T10:13:15.031338+00:00
+
+ ## Hey, I'm imgproxy!
+ - [https://images.cne.news](https://images.cne.news)
+ - date_published: 2024-08-19T14:02:49.615998+00:00
+
+ ## CoinBrit: Honest news about Bitcoin, Ethereum and all Crypto - CoinBrit
+ - [https://coinbrit.news](https://coinbrit.news)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## The Free Press
+ - [https://commonsense.news](https://commonsense.news)
+ - date_published: 2023-10-25T20:42:27.993523+00:00
+
+ ## Communick News - A Lemmy instance provided by the Communick Team
+ - [https://communick.news](https://communick.news)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Computer Vision News - The New Computer Vision Magazine
+ - [http://www.computervision.news](http://www.computervision.news)
+ - date_published: 2024-07-24T05:59:20.294466+00:00
+
+ ## Global Climate, Economic Inequality & Tech News | Context
+ - [https://www.context.news](https://www.context.news)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Contra Costa News
+ - [https://contracosta.news](https://contracosta.news)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Cosmetics News | Cosmetics News – Cosmetics Information
+ - [http://www.cosmetics.news](http://www.cosmetics.news)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## Cosmic Book News
  - [https://cosmicbook.news](https://cosmicbook.news)
  - date_published: 2024-06-19T15:37:02.033760+00:00
@@ -138,6 +222,10 @@
  ## Environ News | Environ News – Environ Information
  - [http://www.environ.news](http://www.environ.news)
  - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Epigram: Open-Source, Free, and AI-Powered News in Short.
+ - [https://epigram.news](https://epigram.news)
+ - date_published: 2025-01-04T04:46:22.784485+00:00
 
  ## 500
  - [https://i2-prod.essexlive.news](https://i2-prod.essexlive.news)
@@ -3939,92 +4027,4 @@
  ## Conceived startpagina voor meer inkomende links
  - [http://conceived.nl](http://conceived.nl)
  - date_published: 2024-12-14T14:49:07.887529+00:00
-
- ## Home - Concertgebouw - Nederlands
- - [https://www.concertgebouw.nl](https://www.concertgebouw.nl)
- - date_published: 2024-09-10T08:07:47.002518+00:00
-
- ## Natuurkapitaal Conferentie - Duurzaamheid & Ecologie Thuis
- - [https://conference-naturalcapital.nl](https://conference-naturalcapital.nl)
- - date_published: 2024-08-07T21:20:09.118796+00:00
-
- ## Congrex.nl | De juiste keuze om de organisatie van uw congres!
- - [https://congrex.nl](https://congrex.nl)
- - date_published: 2023-11-27T15:24:46+00:00
-
- ## Con-nect is de website voor webmasters met leuke (gratis) scripts en tools
- - [http://www.con-nect.nl](http://www.con-nect.nl)
- - date_published: 2024-09-13T19:13:03.131529+00:00
-
- ## Toegang tot online verkopen - Zalando Connected Retail
- - [https://www.connectedretail.nl](https://www.connectedretail.nl)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Connections NL homepage
- - [https://connections-netherlands.nl](https://connections-netherlands.nl)
- - date_published: 2024-05-09T05:21:53.212369+00:00
-
- ## Conrad Electronic » All parts of success
- - [https://www.conrad.nl](https://www.conrad.nl)
- - date_published: 2024-08-18T15:21:33.616161+00:00
-
- ## Home | Conspect
- - [https://conspect.nl](https://conspect.nl)
- - date_published: 2024-07-16T13:28:10+00:00
-
- ## Consultant en op zoek naar freelance opdrachten en vacatures? Consultant.nl
- - [https://www.consultant.nl](https://www.consultant.nl)
- - date_published: 2024-09-18T19:22:11.051102+00:00
-
- ## Consumentenbond | Altijd de beste keuze
- - [https://www.consumentenbond.nl](https://www.consumentenbond.nl)
- - date_published: 2024-10-18T18:54:30.571734+00:00
-
- ## Jouw Toekomstige Hosting Partner Welkom!
- - [https://content-hoster.nl](https://content-hoster.nl)
- - date_published: 2024-08-07T21:30:45.731237+00:00
-
- ## Contour Design - ergonomische muizen in een superieur ontwerp
- - [https://contourdesign.nl](https://contourdesign.nl)
- - date_published: 2024-08-08T22:09:14.393834+00:00
-
- ## Een betaalbare WordPress website laten maken | Control F5
- - [https://controlf5.nl](https://controlf5.nl)
- - date_published: 2024-07-04T11:42:09.222038+00:00
-
- ## Coolblue - alles voor een glimlach
- - [https://www.coolblue.nl](https://www.coolblue.nl)
- - date_published: 2024-07-13T13:35:22.956210+00:00
-
- ## Even puzzelen en je kan weer door - Wehkamp
- - [https://www.coolcat.nl](https://www.coolcat.nl)
- - date_published: 2024-06-25T18:47:52.839798+00:00
-
- ## Coolshop | Online winkelen - gemakkelijk, leuk en cool
- - [https://coolshop.nl](https://coolshop.nl)
- - date_published: 2024-06-15T03:44:09.041553+00:00
-
- ## coppens alberts
- - [http://www.coppensalberts.nl](http://www.coppensalberts.nl)
- - date_published: 2024-07-13T14:41:02.119552+00:00
-
- ## Copywriter België
- - [http://www.copywriter-belgie.nl](http://www.copywriter-belgie.nl)
- - date_published: 2024-07-18T17:27:30.463134+00:00
-
- ## Copywriter Vlaanderen
- - [http://www.copywriter-vlaanderen.nl](http://www.copywriter-vlaanderen.nl)
- - date_published: 2024-07-18T17:27:41.001286+00:00
-
- ## Home - Core-Vision
- - [http://www.core-vision.nl](http://www.core-vision.nl)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## CoSo by AROBS
- - [https://www.coso.nl](https://www.coso.nl)
- - date_published: 2024-08-28T19:51:46+00:00
-
- ## Online luisteren naar Country en Western Muziek
- - [https://country-muziek.nl](https://country-muziek.nl)
- - date_published: 2024-06-13T21:27:41.355613+00:00
 

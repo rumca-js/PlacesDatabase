@@ -1,3 +1,59 @@
+ ## stan-x
+ - [https://gsc.stanford.edu](https://gsc.stanford.edu)
+ - date_published: 2024-05-11T10:40:37.394708+00:00
+
+ ## Office of Innovation & Technology
+ - [https://gse-it.stanford.edu](https://gse-it.stanford.edu)
+ - date_published: 2024-07-01T19:40:21+00:00
+
+ ## Graduate and Undergraduate Studies
+ - [https://gus-humsci.stanford.edu](https://gus-humsci.stanford.edu)
+ - date_published: 2024-05-07T20:28:07.640877+00:00
+
+ ## Hacking for Climate and Sustainability
+ - [https://h4cs.stanford.edu](https://h4cs.stanford.edu)
+ - date_published: 2024-04-19T02:34:55+00:00
+
+ ## Hacking 4 Defense Stanford
+ - [http://h4d.stanford.edu](http://h4d.stanford.edu)
+ - date_published: 2024-07-20T15:33:47.504712+00:00
+
+ ## Haas Center for Public Service
+ - [https://haas.stanford.edu](https://haas.stanford.edu)
+ - date_published: 2024-06-27T19:55:37+00:00
+
+ ## Home | Stanford HAI
+ - [https://hai.stanford.edu](https://hai.stanford.edu)
+ - date_published: 2023-10-25T18:58:24.324282+00:00
+
+ ## Stanford Login
+ - [https://handsonweb.stanford.edu](https://handsonweb.stanford.edu)
+ - date_published: 2024-07-01T20:08:43.739286+00:00
+
+ ## Wrigley Field Program in Hawaii
+ - [https://hawaii.stanford.edu](https://hawaii.stanford.edu)
+ - date_published: 2024-07-01T20:22:23+00:00
+
+ ## Hazy Research
+ - [https://hazyresearch.stanford.edu](https://hazyresearch.stanford.edu)
+ - date_published: 2023-10-25T18:58:25.276211+00:00
+
+ ## Stanford HCI Group
+ - [https://hci.stanford.edu](https://hci.stanford.edu)
+ - date_published: 2023-10-25T18:58:28.830172+00:00
+
+ ## HEADSUP
+ - [https://headsup.stanford.edu](https://headsup.stanford.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Homepage
+ - [https://healthalerts.stanford.edu](https://healthalerts.stanford.edu)
+ - date_published: 2024-10-11T23:15:14.686010+00:00
+
+ ## Center for Health Education
+ - [https://healtheducation.stanford.edu](https://healtheducation.stanford.edu)
+ - date_published: 2024-04-19T01:45:47+00:00
+
  ## Stanford Health Library - Stanford Medicine
  - [https://healthlibrary.stanford.edu](https://healthlibrary.stanford.edu)
  - date_published: 2024-07-01T20:24:57+00:00
@@ -3955,60 +4011,4 @@
  ## University of Arkansas for Medical Sciences (UAMS)
  - [https://web.uams.edu](https://web.uams.edu)
  - date_published: 2024-01-16T21:32:23+00:00
-
- ## Serving Arkansas and Beyond
- - [https://application.uark.edu](https://application.uark.edu)
- - date_published: 2024-07-08T14:52:58.962497+00:00
-
- ## homepage 2022
- - [https://arkansasresearch.uark.edu](https://arkansasresearch.uark.edu)
- - date_published: 2024-12-18T10:51:32+00:00
-
- ## Campus Calendar
- - [https://calendars.uark.edu](https://calendars.uark.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Log On
- - [https://campusdata.uark.edu](https://campusdata.uark.edu)
- - date_published: 2024-07-08T14:53:02.381378+00:00
-
- ## University of Arkansas - Fayetteville
- - [http://campusmaps.uark.edu](http://campusmaps.uark.edu)
- - date_published: 2024-07-08T14:52:40.733484+00:00
-
- ## Form Plus Function
- - [http://designblog.uark.edu](http://designblog.uark.edu)
- - date_published: 2024-07-08T14:52:44.532568+00:00
-
- ## Campus Directory | University of Arkansas
- - [https://directory.uark.edu](https://directory.uark.edu)
- - date_published: 2024-07-08T14:53:10.626246+00:00
-
- ## Emergency Preparedness | Campus Safety | University of Arkansas
- - [http://emergency.uark.edu](http://emergency.uark.edu)
- - date_published: 2024-07-08T14:53:14.193100+00:00
-
- ## Fay Jones School of Architecture and Design | University of Arkansas
- - [https://fayjones.uark.edu](https://fayjones.uark.edu)
- - date_published: 2024-05-08T11:43:35.793457+00:00
-
- ## Blackboard Learn
- - [https://learn.uark.edu](https://learn.uark.edu)
- - date_published: 2004-07-08T14:53:03+00:00
-
- ## Serving Arkansas and Beyond
- - [http://m.uark.edu](http://m.uark.edu)
- - date_published: 2024-07-08T14:53:18.132454+00:00
-
- ## News | University of Arkansas
- - [https://news.uark.edu](https://news.uark.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Online Giving
- - [https://onlinegiving.uark.edu](https://onlinegiving.uark.edu)
- - date_published: 2024-07-08T14:52:55.367183+00:00
-
- ## Home | Report | University of Arkansas
- - [http://report.uark.edu](http://report.uark.edu)
- - date_published: 2024-01-22T00:00:00+00:00
 

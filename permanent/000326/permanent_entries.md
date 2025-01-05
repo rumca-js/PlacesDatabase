@@ -1,3 +1,55 @@
+ ## Create Your Own GKTW Fundraiser
+ - [https://charityland.gives](https://charityland.gives)
+ - date_published: 2024-12-04T10:48:25.254276+00:00
+
+ ## Online Donation
+ - [https://biblicalarchaeologysociety.ddock.gives](https://biblicalarchaeologysociety.ddock.gives)
+ - date_published: 2024-05-09T06:35:51.640127+00:00
+
+ ## Double - Donation Checkout
+ - [https://embed.double.giving](https://embed.double.giving)
+ - date_published: 2024-08-29T13:30:27+00:00
+
+ ## FarmKind
+ - [https://www.farmkind.giving](https://www.farmkind.giving)
+ - date_published: 2024-08-18T19:40:53.639347+00:00
+
+ ## BEAT esports
+ - [https://beat.gl](https://beat.gl)
+ - date_published: 2024-07-18T05:09:20.194357+00:00
+
+ ## cables
+ - [https://cables.gl](https://cables.gl)
+ - date_published: 2024-08-05T19:02:53.710709+00:00
+
+ ## Home | deck.gl
+ - [https://deck.gl](https://deck.gl)
+ - date_published: 2024-06-20T22:29:56+00:00
+
+ ## docs.gl
+ - [https://docs.gl](https://docs.gl)
+ - date_published: 2023-12-29T10:13:39+00:00
+
+ ## Toot Toot
+ - [https://m.fa.gl](https://m.fa.gl)
+ - date_published: 2024-12-12T09:48:30.597167+00:00
+
+ ## Flow Immersive — Seat Licenses
+ - [https://web.flow.gl](https://web.flow.gl)
+ - date_published: 2022-10-21T17:37:34+00:00
+
+ ## g&#39;LOSS
+ - [https://gloss.gl](https://gloss.gl)
+ - date_published: 2024-12-22T09:57:55.635741+00:00
+
+ ## Google URL Shortener links will no longer be available- Google Developers Blog
+ - [https://goo.gl](https://goo.gl)
+ - date_published: 2024-11-04T16:38:20.943962+00:00
+
+ ## Invalid Dynamic Link
+ - [https://maps.app.goo.gl](https://maps.app.goo.gl)
+ - date_published: 2024-04-28T03:08:32.124735+00:00
+
  ## Zanim przejdziesz do Map Google
  - [https://maps.google.gl](https://maps.google.gl)
  - date_published: 2024-07-20T07:39:46.112221+00:00
@@ -3957,56 +4009,4 @@
  ## Earth Information Center
  - [https://earth.gov](https://earth.gov)
  - date_published: 2024-08-07T20:59:16+00:00
-
- ## eCFR :: Home
- - [https://ecfr.gov](https://ecfr.gov)
- - date_published: 2024-05-08T02:42:51.227890+00:00
-
- ## econsumer.gov: econsumer - Report international scams online!
- - [https://www.econsumer.gov](https://www.econsumer.gov)
- - date_published: 2024-08-05T22:16:11.502033+00:00
-
- ## ED.gov Blog
- - [https://blog.ed.gov](https://blog.ed.gov)
- - date_published: 2024-06-15T06:13:48.941395+00:00
-
- ## Home | College Scorecard
- - [https://collegescorecard.ed.gov](https://collegescorecard.ed.gov)
- - date_published: 2024-06-13T19:54:37+00:00
-
- ## Education Stabilization Fund
- - [https://covid-relief-data.ed.gov](https://covid-relief-data.ed.gov)
- - date_published: 2024-06-13T18:40:19+00:00
-
- ## Perkins Collaborative Resource Network
- - [https://cte.ed.gov](https://cte.ed.gov)
- - date_published: 2024-06-15T06:13:43.904143+00:00
-
- ## Welcome - Department of Education Open Data Platform
- - [https://data.ed.gov](https://data.ed.gov)
- - date_published: 2024-06-15T06:13:39.168835+00:00
-
- ## ED Data Inventory - Home
- - [https://datainventory.ed.gov](https://datainventory.ed.gov)
- - date_published: 2024-06-28T09:07:33.870190+00:00
-
- ## Home | U.S. Department of Education
- - [https://ed.gov](https://ed.gov)
- - date_published: 2024-09-18T05:29:58+00:00
-
- ## ERIC - Education Resources Information Center
- - [https://eric.ed.gov](https://eric.ed.gov)
- - date_published: 2024-05-07T19:53:36.033515+00:00
-
- ## ERIC - Education Resources Information Center
- - [https://files.eric.ed.gov](https://files.eric.ed.gov)
- - date_published: 2017-11-15T16:49:43+00:00
-
- ## Home | FSA Partner Connect
- - [https://fsapartners.ed.gov](https://fsapartners.ed.gov)
- - date_published: 2024-04-08T17:04:00+00:00
-
- ## Institute of Education Sciences (IES) Home Page, a part of the U.S. Department of Education
- - [https://ies.ed.gov](https://ies.ed.gov)
- - date_published: 2024-05-07T19:54:14.677362+00:00
 

@@ -1,3 +1,15 @@
+ ## Catalina Villegas
+ - [https://catalinavillegas.com](https://catalinavillegas.com)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## Catalin Ciubotaru blog
+ - [https://catalincodes.com](https://catalincodes.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Home
+ - [https://catalisgov.com](https://catalisgov.com)
+ - date_published: 2024-09-16T14:16:00+00:00
+
  ## Catallaxy Files - Trove
  - [https://catallaxyfiles.com](https://catallaxyfiles.com)
  - date_published: 2024-06-15T09:13:29.630625+00:00
@@ -4021,20 +4033,4 @@
  ## Cleary Gottlieb
  - [http://www.cgsh.com](http://www.cgsh.com)
  - date_published: 2024-07-21T23:27:36.507879+00:00
-
- ## The Online Game Design, VFX & Animation School | CG Spectrum
- - [https://www.cgspectrum.com](https://www.cgspectrum.com)
- - date_published: 2024-07-16T02:19:18+00:00
-
- ## UNITED STATES COAST GUARD :
-      
-        
-        
-        Home
- - [http://www.cgsuprt.com](http://www.cgsuprt.com)
- - date_published: 2024-07-03T13:55:32.717251+00:00
-
- ## Spotler Ltd
- - [https://cgtforms.com](https://cgtforms.com)
- - date_published: 2023-03-27T16:02:25+00:00
 

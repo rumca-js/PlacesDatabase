@@ -1,3 +1,16 @@
+ ## MCHobby - Vente de Raspberry Pi, Arduino, ODROID, Adafruit
+ - [https://shop.mchobby.be](https://shop.mchobby.be)
+ - date_published: 2024-09-05T18:07:34.444171+00:00
+
+ ## Matthieu de Cartier d'Yves
+ - [https://mdcdy.be](https://mdcdy.be)
+ - date_published: 2022-11-16T11:47:50+00:00
+ - tags: ['personal']
+
+ ## Plateforme d'e-learning | Média Animation
+ - [https://eformation.media-animation.be](https://eformation.media-animation.be)
+ - date_published: 2024-06-24T00:00:00+00:00
+
  ## Média Animation asbl
  - [https://media-animation.be](https://media-animation.be)
  - date_published: 2024-06-12T09:10:00+00:00
@@ -2971,7 +2984,7 @@
  - date_published: 2024-06-20T14:18:02.120507+00:00
 
  ## Fastest Payout Casinos reviewed by Fast.bet
- - [https://www.fast.bet](https://www.fast.bet)
+ - [https://fast.bet](https://fast.bet)
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## home
@@ -2983,7 +2996,7 @@
  - date_published: 2024-04-27T00:00:00+00:00
 
  ## homepage
- - [https://www.happy168.bet](https://www.happy168.bet)
+ - [https://happy168.bet](https://happy168.bet)
  - date_published: 2024-10-22T13:32:59.967839+00:00
 
  ## IBIA – The leading global voice on integrity for the licensed betting industry.
@@ -3015,31 +3028,31 @@
  - date_published: 2024-10-31T02:44:10.516342+00:00
 
  ## เว็บคาสิโนออนไลน์ สล็อต บาคาร่า ทุกค่ายในเว็บเดียว - tangtem168
- - [https://www.tangtem168.bet](https://www.tangtem168.bet)
+ - [https://tangtem168.bet](https://tangtem168.bet)
  - date_published: 2024-10-22T14:46:39.567603+00:00
+
+ ## Google
+ - [https://google.bf](https://google.bf)
+ - date_published: 2024-06-21T22:22:54.477309+00:00
 
  ## Grafika Google
  - [https://images.google.bf](https://images.google.bf)
  - date_published: 2024-07-20T07:41:21.674576+00:00
 
- ## Google
- - [https://www.google.bf](https://www.google.bf)
- - date_published: 2024-06-21T22:22:54.477309+00:00
-
  ## 3M Science. Applied to Life.™ | 3М България
- - [https://www.3mbulgaria.bg](https://www.3mbulgaria.bg)
+ - [https://3mbulgaria.bg](https://3mbulgaria.bg)
  - date_published: 2024-08-06T10:38:52.766761+00:00
+
+ ## Мода онлайн от над 1500 топ марки | ABOUT YOU
+ - [https://aboutyou.bg](https://aboutyou.bg)
+ - date_published: 2024-09-17T18:43:12+00:00
 
  ## Мода онлайн от над 1500 топ марки | ABOUT YOU
  - [https://m.aboutyou.bg](https://m.aboutyou.bg)
  - date_published: 2024-09-17T18:43:12+00:00
 
- ## Мода онлайн от над 1500 топ марки | ABOUT YOU
- - [https://www.aboutyou.bg](https://www.aboutyou.bg)
- - date_published: 2024-09-17T18:43:12+00:00
-
  ## Начало
- - [http://actael.bg](http://actael.bg)
+ - [https://actael.bg](https://actael.bg)
  - date_published: 2024-07-20T13:58:55.643374+00:00
 
  ## Курсове по програмиране | Advance Academy
@@ -3063,7 +3076,7 @@
  - date_published: 2024-06-05T12:10:02+00:00
 
  ## Altcoins - Купи или продай биткойн и алткойни чрез банков превод и Easypay.
- - [https://www.altcoins.bg](https://www.altcoins.bg)
+ - [https://altcoins.bg](https://altcoins.bg)
  - date_published: 2024-09-24T11:15:47.239601+00:00
 
  ## Онлайн магазин за техника — Ardes.bg
@@ -3071,15 +3084,15 @@
  - date_published: 2024-07-13T13:45:54.797403+00:00
 
  ## Audi България
- - [https://www.audi.bg](https://www.audi.bg)
+ - [https://audi.bg](https://audi.bg)
  - date_published: 2024-07-19T22:45:26.430828+00:00
 
  ## Аз-детето - българският детски портал, Kid's portal, за всяко дете и всички деца на България
- - [https://www.az-deteto.bg](https://www.az-deteto.bg)
+ - [https://az-deteto.bg](https://az-deteto.bg)
  - date_published: 2024-10-14T21:18:27.719200+00:00
 
  ## Здраве, Красота, Рецепти, Астрология
- - [https://www.az-jenata.bg](https://www.az-jenata.bg)
+ - [https://az-jenata.bg](https://az-jenata.bg)
  - date_published: 2024-10-14T21:18:20.601415+00:00
 
  ## 2024 — SUPERлятна Академия
@@ -3097,6 +3110,7 @@
  ## 403
  - [https://cdn.az-moga.bg](https://cdn.az-moga.bg)
  - date_published: 2024-06-21T11:44:06.834014+00:00
+ - date_dead_since: 2025-01-04T19:01:14.217166+00:00
 
  ## 2024 — Състезание по IT, информатика и визуални изкуства
  - [https://contest.az-moga.bg](https://contest.az-moga.bg)
@@ -3109,9 +3123,10 @@
  ## Plausible · Web analytics
  - [https://stat.az-moga.bg](https://stat.az-moga.bg)
  - date_published: 2024-06-21T11:50:16.160765+00:00
+ - date_dead_since: 2025-01-04T19:08:23.943878+00:00
 
  ## Бебешки магазин онлайн - всичко за бебето на ТОП цени | Baby.bg ✔️
- - [https://www.baby.bg](https://www.baby.bg)
+ - [https://baby.bg](https://baby.bg)
  - date_published: 2024-10-17T07:12:17.818106+00:00
 
  ## BESCO | Home
@@ -3123,15 +3138,15 @@
  - date_published: 2024-09-10T00:00:00+00:00
 
  ## Bulgaria ON AIR
- - [https://www.bgonair.bg](https://www.bgonair.bg)
+ - [https://bgonair.bg](https://bgonair.bg)
  - date_published: 2024-10-14T21:18:08.722002+00:00
 
  ## Всеки ден най-горещите новини от света на българския и световен шоубизнес - Блясък
- - [http://bliasak.bg](http://bliasak.bg)
+ - [https://bliasak.bg](https://bliasak.bg)
  - date_published: 2024-10-14T22:33:02.094790+00:00
 
  ## Blog.bg - Твоята гледна точка. Български безплатен блог хостинг и блог портал.
- - [https://www.blog.bg](https://www.blog.bg)
+ - [https://blog.bg](https://blog.bg)
  - date_published: 2024-10-14T21:18:10.917998+00:00
 
  ## Bloomberg Europe
@@ -3155,11 +3170,11 @@
  - date_published: 2015-12-23T00:00:00+00:00
 
  ## Начало
- - [http://www.bosch.bg](http://www.bosch.bg)
+ - [https://bosch.bg](https://bosch.bg)
  - date_published: 2024-10-14T00:45:04+00:00
 
  ## Качествени, устойчиви домакински уреди | Bosch
- - [https://www.bosch-home.bg](https://www.bosch-home.bg)
+ - [https://bosch-home.bg](https://bosch-home.bg)
  - date_published: 2024-06-16T21:36:40.997723+00:00
 
  ## Brother Online
@@ -3167,7 +3182,7 @@
  - date_published: 2024-06-17T21:03:53.497775+00:00
 
  ## Офис принтери | Бизнес решения | Brother
- - [https://www.brother.bg](https://www.brother.bg)
+ - [https://brother.bg](https://brother.bg)
  - date_published: 2024-05-02T11:28:52.161819+00:00
 
  ## БТА
@@ -3183,7 +3198,7 @@
  - date_published: 2023-09-21T15:03:26+00:00
 
  ## Капитал - прогнози, които се сбъдват. Новини и анализи от България, политика и икономика, финансова информация, начин на живот.
- - [https://www.capital.bg](https://www.capital.bg)
+ - [http://capital.bg](http://capital.bg)
  - date_published: 2024-06-21T11:56:19.901808+00:00
 
  ## Лучшие Live Казино | реальные деньги - | 2024 ✅
@@ -3211,7 +3226,7 @@
  - date_published: 2024-05-08T05:30:26.816778+00:00
 
  ## Cosmopolitan.bg - мода и красота, любов и секс и всичко, което има значение / Cosmopolitan.bg
- - [http://cosmopolitan.bg](http://cosmopolitan.bg)
+ - [https://cosmopolitan.bg](https://cosmopolitan.bg)
  - date_published: 2024-10-14T22:33:21.040004+00:00
 
  ## Агенция за дигитален маркетинг и реклама | CreateX
@@ -3239,7 +3254,7 @@
  - date_published: 2024-06-15T20:21:51.427458+00:00
 
  ## Декатлон | Спорт за всички. Всичко за спорта.
- - [https://decathlon.bg](https://decathlon.bg)
+ - [http://decathlon.bg](http://decathlon.bg)
  - date_published: 2024-03-18T00:00:00+00:00
 
  ## Спортни събития и тренировки - Decathlon Community
@@ -3247,11 +3262,11 @@
  - date_published: 2024-06-15T20:21:56.402600+00:00
 
  ## Delete BG by Blend: Free Image Background Removal
- - [https://www.delete.bg](https://www.delete.bg)
+ - [https://delete.bg](https://delete.bg)
  - date_published: 2024-06-19T18:54:27.224231+00:00
 
  ## Проектиране, изграждане и управление на cloud сървърни и инфраструктурни решения от ново поколение
- - [http://delta.bg](http://delta.bg)
+ - [https://delta.bg](https://delta.bg)
  - date_published: 2024-07-14T05:45:00.439310+00:00
 
  ## Обяви за работа
@@ -3275,23 +3290,23 @@
  - date_published: 2024-06-16T01:50:47.594390+00:00
 
  ## Dnes.bg - Вече знаеш
- - [https://www.dnes.bg](https://www.dnes.bg)
+ - [https://dnes.bg](https://dnes.bg)
  - date_published: 2024-10-14T21:18:24.090787+00:00
 
  ## DSP law office
- - [http://dsp.bg](http://dsp.bg)
+ - [https://dsp.bg](https://dsp.bg)
  - date_published: 2021-01-11T03:35:51+00:00
 
  ## Ecard Landing
- - [http://www.e-card.bg](http://www.e-card.bg)
- - date_published: 2023-03-18T15:54:23+00:00
+ - [https://e-card.bg](https://e-card.bg)
+ - date_published: 2020-07-31T15:35:41+00:00
 
  ## Ecommerce Bridge България
  - [https://www.ecommercebridge.bg](https://www.ecommercebridge.bg)
  - date_published: 2024-12-14T03:33:53.343719+00:00
 
  ## Economic.bg | За да разбереш: икономика, бизнес новини
- - [https://www.economic.bg](https://www.economic.bg)
+ - [https://economic.bg](https://economic.bg)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Economy.bg - бизнесът в България
@@ -3311,7 +3326,7 @@
  - date_published: 2024-10-14T22:33:30.601809+00:00
 
  ## eMAG.bg - Широка гама продукти
- - [https://www.emag.bg](https://www.emag.bg)
+ - [https://emag.bg](https://emag.bg)
  - date_published: 2024-09-13T00:00:00+00:00
 
  ## Epoch Times Bulgaria: Истината и традицията
@@ -3319,7 +3334,7 @@
  - date_published: 2019-07-11T12:32:40+00:00
 
  ## Free Background Image Remover: Remove BG from HD Images Online - Erase.bg
- - [https://www.erase.bg](https://www.erase.bg)
+ - [https://erase.bg](https://erase.bg)
  - date_published: 2024-04-02T00:00:00+00:00
 
  ## Euractiv Bulgaria
@@ -3327,7 +3342,7 @@
  - date_published: 2024-05-02T09:58:45.077706+00:00
 
  ## eurodesk.bg - Начало
- - [http://www.eurodesk.bg](http://www.eurodesk.bg)
+ - [https://eurodesk.bg](https://eurodesk.bg)
  - date_published: 2024-09-15T20:57:28.693061+00:00
 
  ## Концерти, спорт, културни и други събития ~ Твоят билет е тук EVENTIM.bg
@@ -3335,7 +3350,7 @@
  - date_published: 2024-05-08T00:00:00+00:00
 
  ## За Experian България
- - [https://www.experian.bg](https://www.experian.bg)
+ - [https://experian.bg](https://experian.bg)
  - date_published: 2024-06-25T21:32:08.642373+00:00
 
  ## Home - FANUC Academy
@@ -3343,19 +3358,19 @@
  - date_published: 2019-08-20T13:57:53+00:00
 
  ## Българската страница на Ferrero
- - [https://www.ferrero.bg](https://www.ferrero.bg)
+ - [https://ferrero.bg](https://ferrero.bg)
  - date_published: 2024-06-19T08:38:11.181695+00:00
 
  ## FIAT BG | SFA AUTOMOTIVE | Нови автомобили - хибридни и електрически
- - [https://www.fiat.bg](https://www.fiat.bg)
+ - [https://fiat.bg](https://fiat.bg)
  - date_published: 2024-06-14T15:18:46+00:00
 
  ## FIAT BG | SFA AUTOMOTIVE | Нови автомобили - хибридни и електрически
- - [https://www.fiatprofessional.bg](https://www.fiatprofessional.bg)
+ - [https://fiatprofessional.bg](https://fiatprofessional.bg)
  - date_published: 2024-06-14T15:18:46+00:00
 
  ## Flatio - Short, mid and long-term rentals for digital nomads
- - [https://www.flatio.bg](https://www.flatio.bg)
+ - [https://flatio.bg](https://flatio.bg)
  - date_published: 2024-06-25T17:49:15.856168+00:00
 
  ## Flip.bg - Продайте телефона си без усилие!
@@ -3363,7 +3378,7 @@
  - date_published: 2024-09-16T02:24:18.433253+00:00
 
  ## Изгодни автобусни превози в Европа → FlixBus
- - [https://www.flixbus.bg](https://www.flixbus.bg)
+ - [https://flixbus.bg](https://flixbus.bg)
  - date_published: 2024-06-28T10:09:43+00:00
 
  ## Ford Bulgaria | Ford България
@@ -3375,7 +3390,7 @@
  - date_published: 2024-10-27T08:57:15+00:00
 
  ## Ford Bulgaria | Ford България
- - [http://www.ford.bg](http://www.ford.bg)
+ - [https://www.ford.bg](https://www.ford.bg)
  - date_published: 2024-06-19T17:00:57.177017+00:00
 
  ## Фондация
@@ -3383,7 +3398,7 @@
  - date_published: 2024-12-15T15:05:02.376667+00:00
 
  ## GamingGear - Онлайн магазин за геймърска периферия, компютри и аксесоари
- - [http://www.gaminggear.bg](http://www.gaminggear.bg)
+ - [https://gaminggear.bg](https://gaminggear.bg)
  - date_published: 2024-03-15T00:00:00+00:00
 
  ## Gani Georgiev
@@ -3391,7 +3406,7 @@
  - date_published: 2022-08-14T20:50:32+00:00
 
  ## Cierpliwości...
- - [https://gdbop.bg](https://gdbop.bg)
+ - [http://gdbop.bg](http://gdbop.bg)
  - date_published: 2024-06-21T11:44:12.269625+00:00
 
  ## Glami.bg - Ние обичаме модата!
@@ -3403,27 +3418,27 @@
  - date_published: 2024-05-04T08:12:37.419091+00:00
 
  ## Футбол, гол, мачове, спорт, спортни новини
- - [https://www.gol.bg](https://www.gol.bg)
+ - [https://gol.bg](https://gol.bg)
  - date_published: 2024-10-14T21:17:48.880427+00:00
+
+ ## Google
+ - [https://google.bg](https://google.bg)
+ - date_published: 2024-06-21T22:24:43.114824+00:00
 
  ## Grafika Google
  - [https://images.google.bg](https://images.google.bg)
  - date_published: 2024-07-20T07:39:08.825490+00:00
 
- ## Google
- - [https://www.google.bg](https://www.google.bg)
- - date_published: 2024-06-21T22:24:43.114824+00:00
-
  ## Министерски съвет
- - [https://www.gov.bg](https://www.gov.bg)
+ - [https://gov.bg](https://gov.bg)
  - date_published: 2024-08-18T06:50:09.406144+00:00
 
  ## Начална страница
- - [http://umispublic.government.bg](http://umispublic.government.bg)
+ - [https://umispublic.government.bg](https://umispublic.government.bg)
  - date_published: 2024-09-12T14:53:08.981753+00:00
 
  ## Homepage
- - [https://www.hilti.bg](https://www.hilti.bg)
+ - [https://hilti.bg](https://hilti.bg)
  - date_published: 2024-06-20T07:27:00.802602+00:00
 
  ## Web Hosting and domain name, from only for 1.99€ | Hostico
@@ -3431,7 +3446,7 @@
  - date_published: 2024-06-16T14:57:27.478310+00:00
 
  ## IBAN Проверка: Валидиране на международен номер на банкова сметка
- - [https://www.iban.bg](https://www.iban.bg)
+ - [https://iban.bg](https://iban.bg)
  - date_published: 2024-08-30T00:00:00+00:00
 
  ## Auctions
@@ -3440,7 +3455,7 @@
 
  ## CASS
  - [https://clearing.ibex.bg](https://clearing.ibex.bg)
- - date_published: 2024-05-27T06:28:06+00:00
+ - date_published: 2024-05-27T06:27:50+00:00
 
  ## IBEX – Your Most Trusted Partner
  - [https://ibex.bg](https://ibex.bg)
@@ -3451,16 +3466,16 @@
  - date_published: 2024-06-06T08:44:04+00:00
 
  ## начало :: Българска независима Енергийна Борса
- - [http://umm.ibex.bg](http://umm.ibex.bg)
+ - [https://umm.ibex.bg](https://umm.ibex.bg)
  - date_published: 2024-07-20T13:59:00.841505+00:00
+
+ ## За компанията
+ - [https://ibg.bg](https://ibg.bg)
+ - date_published: 2024-10-14T21:18:03.676066+00:00
 
  ## Investor Media Group – Investor Media Group
  - [https://portfolio.ibg.bg](https://portfolio.ibg.bg)
  - date_published: 2024-10-14T21:18:01.550029+00:00
-
- ## За компанията
- - [https://www.ibg.bg](https://www.ibg.bg)
- - date_published: 2024-10-14T21:18:03.676066+00:00
 
  ## Borislav Stanimirov
  - [https://ibob.bg](https://ibob.bg)
@@ -3468,12 +3483,13 @@
  - tags: ['personal']
 
  ## energy chains, polymer bearings, flexible cable, &amp; linear slides
- - [https://www.igus.bg](https://www.igus.bg)
+ - [https://igus.bg](https://igus.bg)
  - date_published: 2024-08-06T23:12:22.861623+00:00
 
  ## Начална страница
  - [https://www.ikea.bg](https://www.ikea.bg)
  - date_published: 2024-07-19T23:44:14.879912+00:00
+ - date_dead_since: 2025-01-04T19:20:50.562530+00:00
 
  ## Начало - Издателска къща Хермес
  - [https://ikhermes.bg](https://ikhermes.bg)
@@ -3492,35 +3508,35 @@
  - date_published: 2024-10-14T21:18:25.877859+00:00
 
  ## Финанси, Бизнес, Имоти, Фондова борса, Валутна търговия
- - [https://www.investor.bg](https://www.investor.bg)
+ - [https://investor.bg](https://investor.bg)
  - date_published: 2024-10-14T21:17:46.516766+00:00
 
  ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
- - [https://www.jack-wolfskin.bg](https://www.jack-wolfskin.bg)
+ - [https://jack-wolfskin.bg](https://jack-wolfskin.bg)
  - date_published: 2024-07-14T12:16:03.712293+00:00
 
  ## Обувки, дрехи и аксесоари | Магазин JD Sports България
- - [https://www.jdsports.bg](https://www.jdsports.bg)
+ - [https://jdsports.bg](https://jdsports.bg)
  - date_published: 2024-10-21T02:15:36.781857+00:00
 
  ## Jeep® BG | SFA AUTOMOTIVE | Нови автомобили - SUV, кросоувър и 4х4
- - [http://www.jeep.bg](http://www.jeep.bg)
+ - [https://jeep.bg](https://jeep.bg)
  - date_published: 2015-07-12T12:50:38+00:00
 
  ## Обяви за работа - JobTiger - HR компания и кариерен сайт
- - [https://www.jobtiger.bg](https://www.jobtiger.bg)
+ - [https://jobtiger.bg](https://jobtiger.bg)
  - date_published: 2024-06-21T11:50:27+00:00
 
  ## Хостинг и домейни - премиум услуги на конкурентни цени! | Jump.bg
- - [https://www.jump.bg](https://www.jump.bg)
+ - [https://jump.bg](https://jump.bg)
  - date_published: 2024-06-21T11:50:44.429292+00:00
 
  ## Решения за киберсигурност на Kaspersky за дома и бизнеса | Kaspersky
- - [https://www.kaspersky.bg](https://www.kaspersky.bg)
+ - [https://kaspersky.bg](https://kaspersky.bg)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Начало
- - [https://www.kaufland.bg](https://www.kaufland.bg)
+ - [https://kaufland.bg](https://kaufland.bg)
  - date_published: 2024-06-25T19:02:03.274615+00:00
 
  ## Комисия за защита на потребителите
@@ -3532,7 +3548,7 @@
  - date_published: 2024-05-04T11:46:17.725410+00:00
 
  ## Land Rover | Разгледайте луксозните SUV и 4x4 автомобили | Land Rover
- - [https://www.landrover.bg](https://www.landrover.bg)
+ - [https://landrover.bg](https://landrover.bg)
  - date_published: 2024-07-09T17:15:52.728812+00:00
 
  ## Уроците на успеха от първа ръка | Leader Class
@@ -3544,7 +3560,7 @@
  - date_published: 2024-06-20T22:28:21+00:00
 
  ## Lidl. Верига от любими продукти
- - [https://www.lidl.bg](https://www.lidl.bg)
+ - [https://lidl.bg](https://lidl.bg)
  - date_published: 2024-06-25T19:03:36.439040+00:00
 
  ## Chocolates, Truffles, and Delicious Gifts: Buy Online | Lindt Shop Bulgaria
@@ -3556,7 +3572,7 @@
  - date_published: 2024-07-04T07:36:59.048297+00:00
 
  ## Начална страница
- - [https://www.liveagent.bg](https://www.liveagent.bg)
+ - [https://liveagent.bg](https://liveagent.bg)
  - date_published: 2024-10-19T20:27:01.460255+00:00
 
  ## Mail.bg: Вход
@@ -3564,7 +3580,7 @@
  - date_published: 2024-06-21T11:50:22.747161+00:00
 
  ## Сайт за запознанства: намерете сериозни необвързани ­| Meetic
- - [https://www.meetic.bg](https://www.meetic.bg)
+ - [https://meetic.bg](https://meetic.bg)
  - date_published: 2024-09-04T11:49:52.617099+00:00
 
  ## Мегавселена - Моят свят на науката
@@ -3576,7 +3592,7 @@
  - date_published: 2024-12-15T15:05:00.722389+00:00
 
  ## Начало
- - [https://www.metlife.bg](https://www.metlife.bg)
+ - [https://metlife.bg](https://metlife.bg)
  - date_published: 2024-07-19T16:34:30+00:00
 
  ## Miss Hosting
@@ -3584,7 +3600,7 @@
  - date_published: 2014-11-05T00:00:00+00:00
 
  ## Моето дете | Moetodete.bg
- - [http://moetodete.bg](http://moetodete.bg)
+ - [https://moetodete.bg](https://moetodete.bg)
  - date_published: 2024-10-14T22:33:12.632292+00:00
 
  ## Бизнес, икономически и финансови новини от България и света
@@ -3596,19 +3612,19 @@
  - date_published: 2024-10-29T21:39:44.025501+00:00
 
  ## Electronic Components Distributor - Mouser Electronics Bulgaria
- - [https://www.mouser.bg](https://www.mouser.bg)
+ - [https://mouser.bg](https://mouser.bg)
  - date_published: 2024-07-01T20:55:43.408073+00:00
 
  ## National Geographic България
- - [https://www.nationalgeographic.bg](https://www.nationalgeographic.bg)
+ - [https://nationalgeographic.bg](https://nationalgeographic.bg)
  - date_published: 2024-06-16T22:11:09.383026+00:00
 
  ## Начална страница
- - [https://www.nbu.bg](https://www.nbu.bg)
+ - [https://nbu.bg](https://nbu.bg)
  - date_published: 2024-06-21T11:52:11.476925+00:00
 
  ## Нестле България. NESTLÉ – Добра храна, Добър живот
- - [http://www.nestle.bg](http://www.nestle.bg)
+ - [https://www.nestle.bg](https://www.nestle.bg)
  - date_published: 2024-09-14T18:35:47+00:00
 
  ## Cierpliwości...
@@ -3624,15 +3640,15 @@
  - date_published: 2024-12-19T20:44:43+00:00
 
  ## Opel България | Нови автомобили | opel bg
- - [https://www.opel.bg](https://www.opel.bg)
+ - [https://opel.bg](https://opel.bg)
  - date_published: 2024-07-11T09:42:55+00:00
 
  ## Mагазин за игри, книги, геймърски аксесоари и играчки | Ozone.bg
- - [https://www.ozone.bg](https://www.ozone.bg)
+ - [https://ozone.bg](https://ozone.bg)
  - date_published: 2024-06-17T05:42:42.455399+00:00
 
  ## ПЕРИ България ЕООД - Кофраж Скеле Компоненти Инженеринг
- - [https://www.peri.bg](https://www.peri.bg)
+ - [https://peri.bg](https://peri.bg)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Philips - България
@@ -3648,7 +3664,7 @@
  - date_published: 2024-10-14T18:46:28.925563+00:00
 
  ## Web Design & Custom Software Development Agency
- - [http://www.provision.bg](http://www.provision.bg)
+ - [https://provision.bg](https://provision.bg)
  - date_published: 2021-05-20T00:00:00+00:00
 
  ## A Media Company
@@ -3656,15 +3672,15 @@
  - date_published: 2024-05-08T03:51:26.143455+00:00
 
  ## publics.bg - public services knowledge network - мрежа за знания в публичните услуги
- - [https://www.publics.bg](https://www.publics.bg)
+ - [https://publics.bg](https://publics.bg)
  - date_published: 2024-06-21T11:55:18.084177+00:00
 
  ## Puls.bg - всичко за здравето, Портал за Здраве, Медицина, Болести и Лекарства | Puls.bg | Puls.bg
- - [https://www.puls.bg](https://www.puls.bg)
+ - [https://puls.bg](https://puls.bg)
  - date_published: 2024-10-14T00:00:00+00:00
 
  ## Обяви за работа - всеки ден нови обяви за работа в Rabota.bg
- - [https://www.rabota.bg](https://www.rabota.bg)
+ - [https://rabota.bg](https://rabota.bg)
  - date_published: 2024-10-14T21:17:43.000654+00:00
 
  ## Modern CSS
@@ -3681,11 +3697,11 @@
  - date_published: 2024-06-15T00:00:00+00:00
 
  ## Remove Background from Image for Free – remove.bg
- - [https://www.remove.bg](https://www.remove.bg)
+ - [https://remove.bg](https://remove.bg)
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## Наръчник за видовете онлайн тормоз
- - [http://cyberbullying.safenet.bg](http://cyberbullying.safenet.bg)
+ - [https://cyberbullying.safenet.bg](https://cyberbullying.safenet.bg)
  - date_published: 2020-01-24T21:16:29+00:00
 
  ## Начало
@@ -3693,19 +3709,19 @@
  - date_published: 2024-05-07T23:39:47.801136+00:00
 
  ## Речник на социалните мрежи за родители
- - [http://socialguide.safenet.bg](http://socialguide.safenet.bg)
+ - [https://socialguide.safenet.bg](https://socialguide.safenet.bg)
  - date_published: 2020-01-24T21:21:03+00:00
 
  ## Абонамент за изданията на SBB Media. Бързо, лесно, сигурно!
- - [http://abo.sbb.bg](http://abo.sbb.bg)
+ - [https://abo.sbb.bg](https://abo.sbb.bg)
  - date_published: 2024-10-14T22:33:04.835921+00:00
 
  ## SBB Media AD
- - [http://shop.sbb.bg](http://shop.sbb.bg)
+ - [https://shop.sbb.bg](https://shop.sbb.bg)
  - date_published: 2024-10-14T22:32:51.282277+00:00
 
  ## Глобални Консултации по Преговаряне, Глобално Обучение по Преговаряне | Скотуърк България
- - [https://www.scotwork.bg](https://www.scotwork.bg)
+ - [https://scotwork.bg](https://scotwork.bg)
  - date_published: 2024-06-18T09:42:42.954445+00:00
 
  ## SFA Occasion
@@ -3725,7 +3741,7 @@
  - date_published: 2024-07-04T07:37:04.217476+00:00
 
  ## София лизинг - Лизингова Къща
- - [https://www.leasing.sfagroup.bg](https://www.leasing.sfagroup.bg)
+ - [https://leasing.sfagroup.bg](https://leasing.sfagroup.bg)
  - date_published: 2024-07-04T07:36:49.815620+00:00
 
  ## SGS е световен лидер в контрола, инспекциите, изпитването и сертификацията.
@@ -3745,7 +3761,7 @@
  - date_published: 2024-06-29T22:17:51.221311+00:00
 
  ## Sony BG | Последните новини за технологиите | Електроника | Развлечение
- - [http://www.sony.bg](http://www.sony.bg)
+ - [https://sony.bg](https://sony.bg)
  - date_published: 2024-10-21T07:38:44.555047+00:00
 
  ## Guided by knowledge, fueled by dedication, and aspiring to trust, we connect and create solutions together with you
@@ -3753,11 +3769,11 @@
  - date_published: 2024-12-22T02:25:25.206044+00:00
 
  ## SPARTOO| Shoes, bags and clothes | Free Delivery
- - [http://spartoo.bg](http://spartoo.bg)
+ - [https://spartoo.bg](https://spartoo.bg)
  - date_published: 2024-06-12T11:13:35.285273+00:00
 
  ## WWF
- - [https://www.spasetedivatapriroda.bg](https://www.spasetedivatapriroda.bg)
+ - [https://spasetedivatapriroda.bg](https://spasetedivatapriroda.bg)
  - date_published: 2024-07-03T03:10:32.103356+00:00
 
  ## MySpeedy
@@ -3771,11 +3787,11 @@
  - date_published: 2024-06-16T19:54:58.844764+00:00
 
  ## Начало
- - [http://www.speedygoesgreen.bg](http://www.speedygoesgreen.bg)
+ - [https://speedygoesgreen.bg](https://speedygoesgreen.bg)
  - date_published: 2024-06-16T19:55:00.307016+00:00
 
  ## Start.bg стартирай в мрежата
- - [https://www.start.bg](https://www.start.bg)
+ - [https://start.bg](https://start.bg)
  - date_published: 2024-10-14T21:18:15.394232+00:00
 
  ## Начало - Bosch
@@ -3795,15 +3811,15 @@
  - date_published: 2024-07-16T20:08:43.872706+00:00
 
  ## TELESOFT.BG - Software solutions
- - [http://telesoft.bg](http://telesoft.bg)
+ - [https://telesoft.bg](https://telesoft.bg)
  - date_published: 2024-07-16T20:08:42.483453+00:00
 
  ## Мода, Красота, Здраве, Lifestyle
- - [https://www.tialoto.bg](https://www.tialoto.bg)
+ - [https://tialoto.bg](https://tialoto.bg)
  - date_published: 2024-10-14T21:17:34.491541+00:00
 
  ## TICKETPORTAL Tickets at hand –театър, музика, концерт, фестивал, мюзикъл, спорт
- - [https://www.ticketportal.bg](https://www.ticketportal.bg)
+ - [https://ticketportal.bg](https://ticketportal.bg)
  - date_published: 2024-07-24T05:20:12.172816+00:00
 
  ## TM Ауто София | Toyota търговец България
@@ -3811,27 +3827,27 @@
  - date_published: 2024-09-05T00:00:00+00:00
 
  ## Добре дошли в официалния сайт на Toyota България
- - [https://www.toyota.bg](https://www.toyota.bg)
+ - [https://toyota.bg](https://toyota.bg)
  - date_published: 2024-02-28T00:00:00+00:00
 
  ## trivago.bg - Compare hotel prices worldwide
- - [https://www.trivago.bg](https://www.trivago.bg)
+ - [https://trivago.bg](https://trivago.bg)
  - date_published: 2024-09-04T11:21:20.287809+00:00
 
  ## ТУ - София
- - [http://www.tu-sofia.bg](http://www.tu-sofia.bg)
+ - [https://tu-sofia.bg](https://tu-sofia.bg)
  - date_published: 2024-06-21T11:44:05.448727+00:00
 
  ## Университет по библиотекознание и информационни технологии
- - [http://www.unibit.bg](http://www.unibit.bg)
+ - [https://unibit.bg](https://unibit.bg)
  - date_published: 2024-06-21T11:50:12.955324+00:00
 
  ## Пловдивски университет "Паисий Хилендарски"
- - [http://uni-plovdiv.bg](http://uni-plovdiv.bg)
+ - [https://uni-plovdiv.bg](https://uni-plovdiv.bg)
  - date_published: 2024-06-21T11:50:33.840004+00:00
 
  ## unipress.bg
- - [http://www.unipress.bg](http://www.unipress.bg)
+ - [https://unipress.bg](https://unipress.bg)
  - date_published: 2024-07-02T23:18:42.198220+00:00
 
  ## ETN FETCH - Future Education and Training in Computing: How to ...
@@ -3839,15 +3855,19 @@
  - date_published: 2016-08-23T00:00:00+00:00
 
  ## Електронно Обучение в Софийски университет
- - [http://elearn.uni-sofia.bg](http://elearn.uni-sofia.bg)
+ - [https://elearn.uni-sofia.bg](https://elearn.uni-sofia.bg)
  - date_published: 2024-07-02T23:18:33+00:00
 
+ ## Факултет по математика и информатика
+ - [https://fmi.uni-sofia.bg](https://fmi.uni-sofia.bg)
+ - date_published: 2024-07-14T05:44:50.573019+00:00
+
  ## University library "St. Kliment Ohridski"
- - [http://libsu.uni-sofia.bg](http://libsu.uni-sofia.bg)
+ - [https://libsu.uni-sofia.bg](https://libsu.uni-sofia.bg)
  - date_published: 2024-07-02T23:18:48.784641+00:00
 
  ## Астрономическа обсерватория – катедра Астрономия
- - [http://observatory.phys.uni-sofia.bg](http://observatory.phys.uni-sofia.bg)
+ - [https://observatory.phys.uni-sofia.bg](https://observatory.phys.uni-sofia.bg)
  - date_published: 2024-07-02T22:40:42+00:00
 
  ## Вход за кандидат-студент - Кандидатстудентска кампания 2024
@@ -3866,12 +3886,8 @@
  - [https://uni-sofia.bg](https://uni-sofia.bg)
  - date_published: 2024-05-07T23:43:52.994180+00:00
 
- ## Факултет по математика и информатика
- - [http://www.fmi.uni-sofia.bg](http://www.fmi.uni-sofia.bg)
- - date_published: 2024-07-14T05:44:50.573019+00:00
-
  ## Университет за национално и световно стопанство :: Икономика, Администрация и управление, Право, Обществени комуникации и информационни науки, Приложна информатика, комуникации и иконометрия, Политически науки, Социология
- - [https://www.unwe.bg](https://www.unwe.bg)
+ - [https://unwe.bg](https://unwe.bg)
  - date_published: 2024-09-24T11:15:35.951342+00:00
 
  ## VAGABOND Bulgaria’s English Magazine
@@ -3883,7 +3899,7 @@
  - date_published: 2024-10-28T21:47:16.235795+00:00
 
  ## Видео споделяне - Videoclip.bg
- - [http://www.videoclip.bg](http://www.videoclip.bg)
+ - [https://videoclip.bg](https://videoclip.bg)
  - date_published: 2024-10-25T07:21:45.796863+00:00
 
  ## Време & Радар България
@@ -3903,11 +3919,11 @@
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## Правим Живота ти По-лесен | Yettel
- - [https://www.yettel.bg](https://www.yettel.bg)
+ - [https://yettel.bg](https://yettel.bg)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## ZEISS България
- - [https://www.zeiss.bg](https://www.zeiss.bg)
+ - [https://zeiss.bg](https://zeiss.bg)
  - date_published: 2024-09-16T07:56:42.105902+00:00
 
  ## Zine EOOD
@@ -3923,7 +3939,7 @@
  - date_published: 2024-09-26T11:25:57.242590+00:00
 
  ## Онлайн зоомагазин за храна и аксесоари за домашни любимци | zooplus.bg
- - [https://www.zooplus.bg](https://www.zooplus.bg)
+ - [https://zooplus.bg](https://zooplus.bg)
  - date_published: 2024-06-16T06:27:57.735193+00:00
 
  ## Home - Bahrain International Airshow
@@ -3939,28 +3955,28 @@
  - date_published: 2024-06-16T05:49:08.089042+00:00
 
  ## Power Tools, Fasteners and Software for Construction - Hilti Bahrain
- - [https://www.hilti.bh](https://www.hilti.bh)
+ - [https://hilti.bh](https://hilti.bh)
  - date_published: 2024-06-20T07:26:43.576123+00:00
 
  ## ICICI Bank Bahrain :: Personal Banking
- - [https://www.icicibank.bh](https://www.icicibank.bh)
+ - [https://icicibank.bh](https://icicibank.bh)
  - date_published: 2024-06-15T14:01:11+00:00
 
  ## whois.nic.bh
- - [http://whois.nic.bh](http://whois.nic.bh)
+ - [https://whois.nic.bh](https://whois.nic.bh)
  - date_published: 2024-06-16T05:49:07.000483+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.rain.bh](https://www.rain.bh)
+ - [http://rain.bh](http://rain.bh)
  - date_published: 2024-07-13T23:37:26.389936+00:00
+
+ ## Google
+ - [https://google.com.bh](https://google.com.bh)
+ - date_published: 2024-06-21T22:22:31.855132+00:00
 
  ## Zanim przejdziesz do Map Google
  - [https://maps.google.com.bh](https://maps.google.com.bh)
  - date_published: 2024-07-20T07:36:51.373299+00:00
-
- ## Google
- - [https://www.google.com.bh](https://www.google.com.bh)
- - date_published: 2024-06-21T22:22:31.855132+00:00
 
  ## HSBC Bahrain - Personal and Online Banking
  - [https://www.hsbc.com.bh](https://www.hsbc.com.bh)
@@ -3978,13 +3994,13 @@
  - [https://www.deep.bi](https://www.deep.bi)
  - date_published: 2024-06-27T00:00:00+00:00
 
+ ## Google
+ - [https://google.bi](https://google.bi)
+ - date_published: 2024-06-21T22:25:49.299157+00:00
+
  ## Grafika Google
  - [https://images.google.bi](https://images.google.bi)
  - date_published: 2024-07-20T07:36:25.301564+00:00
-
- ## Google
- - [https://www.google.bi](https://www.google.bi)
- - date_published: 2024-06-21T22:25:49.299157+00:00
 
  ## Jakub T. Jankiewicz - Web Developer
  - [https://jcu.bi](https://jcu.bi)
@@ -3995,7 +4011,7 @@
  - date_published: 2022-10-25T01:28:14+00:00
 
  ## Actionable Analytics for Growth teams | Narrative BI
- - [https://narrative.bi](https://narrative.bi)
+ - [http://narrative.bi](http://narrative.bi)
  - date_published: 2023-10-25T11:59:36.984588+00:00
 
  ## random pictures/thoughts – rabbi ramrattan
@@ -4005,16 +4021,4 @@
  ## Revolt.BI | ♥ Business Intelligence, datová integrace, konzultace, data science, analýzy
  - [https://revolt.bi](https://revolt.bi)
  - date_published: 2023-07-03T13:32:39+00:00
-
- ## RTNB
- - [http://www.rtnb.bi](http://www.rtnb.bi)
- - date_published: 2024-06-19T18:12:34.460498+00:00
-
- ## (no title)
- - [https://catholic.bible](https://catholic.bible)
- - date_published: 2024-08-11T23:11:32.991384+00:00
-
- ## Worthy.Bible - Online Bible Study
- - [https://worthy.bible](https://worthy.bible)
- - date_published: 2024-05-07T16:12:12.926735+00:00
 

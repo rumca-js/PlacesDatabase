@@ -1,3 +1,15 @@
+ ## Little Devices That Could
+ - [http://littledevicesthatcould.blogspot.com](http://littledevicesthatcould.blogspot.com)
+ - date_published: 2024-05-11T13:33:31+00:00
+
+ ## Little Flower Petals
+ - [http://littleflowerpetals.blogspot.com](http://littleflowerpetals.blogspot.com)
+ - date_published: 2024-03-17T06:24:13+00:00
+
+ ## Little Fritz- Der Kriegshund
+ - [http://littlefritz-dogofwar.blogspot.com](http://littlefritz-dogofwar.blogspot.com)
+ - date_published: 2024-11-06T02:47:36+00:00
+
  ## Blogger
  - [http://littlefruitfly.blogspot.com](http://littlefruitfly.blogspot.com)
  - date_published: 2024-12-19T09:56:02.020434+00:00
@@ -3994,17 +4006,4 @@
  ## My Little World Of Dementia
  - [http://mlwodementia.blogspot.com](http://mlwodementia.blogspot.com)
  - date_published: 2024-03-13T14:29:54+00:00
-
- ## Michael's Declarative Programming Blog
- - [http://mmartedp.blogspot.com](http://mmartedp.blogspot.com)
- - date_published: 2024-02-20T21:56:40+00:00
-
- ## Musings of Michael McThrow
- - [https://mmcthrow-musings.blogspot.com](https://mmcthrow-musings.blogspot.com)
- - date_published: 2023-10-25T09:10:01.509820+00:00
- - tags: ['personal']
-
- ## M.M.E.F.  News
- - [https://mmefnz.blogspot.com](https://mmefnz.blogspot.com)
- - date_published: 2024-10-08T04:51:58+00:00
 

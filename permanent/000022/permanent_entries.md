@@ -1,3 +1,15 @@
+ ## People - Department of Electrical and Computer Engineering
+ - [https://people.ece.ubc.ca](https://people.ece.ubc.ca)
+ - date_published: 2023-12-13T16:52:05.782654+00:00
+
+ ## Home Page | UBC Physics & Astronomy Outreach
+ - [https://phas-outreach.sites.olt.ubc.ca](https://phas-outreach.sites.olt.ubc.ca)
+ - date_published: 2024-06-22T09:58:01.956886+00:00
+
+ ## UBC Physics & Astronomy
+ - [https://phas.ubc.ca](https://phas.ubc.ca)
+ - date_published: 2024-04-29T02:32:57.402062+00:00
+
  ## Welcome to UBC Physics Olympics Website | UBC Physics Olympics
  - [https://physoly.phas.ubc.ca](https://physoly.phas.ubc.ca)
  - date_published: 2024-06-22T09:58:05.785882+00:00
@@ -4002,16 +4014,4 @@
  ## [mdk] arcade rom and information repository
  - [https://mdk.cab](https://mdk.cab)
  - date_published: 2024-07-11T16:21:07.819129+00:00
-
- ## Ryan Marcus · UPenn
- - [https://rm.cab](https://rm.cab)
- - date_published: 2024-07-25T19:51:07+00:00
-
- ## 32-Bit Cafe
- - [https://32bit.cafe](https://32bit.cafe)
- - date_published: 2024-05-06T15:02:55.360254+00:00
-
- ## 32-Bit Cafe
- - [https://discourse.32bit.cafe](https://discourse.32bit.cafe)
- - date_published: 2024-01-20T00:00:00+00:00
 

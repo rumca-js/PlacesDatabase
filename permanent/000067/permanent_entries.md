@@ -1,3 +1,15 @@
+ ## Completeist
+ - [http://completeist.blogspot.com](http://completeist.blogspot.com)
+ - date_published: 2024-12-18T02:39:42+00:00
+
+ ## Complexes
+ - [http://complexes.blogspot.com](http://complexes.blogspot.com)
+ - date_published: 2024-03-07T09:19:40+00:00
+
+ ## Complexidade e Contradição
+ - [http://complexidadeecontradicao.blogspot.com](http://complexidadeecontradicao.blogspot.com)
+ - date_published: 2024-09-02T08:19:23+00:00
+
  ## Complexion Magazine
  - [http://complexion-magazine-template.blogspot.com](http://complexion-magazine-template.blogspot.com)
  - date_published: 2024-11-23T11:01:33+00:00
@@ -2868,7 +2880,7 @@
  - date_published: 2024-07-03T02:00:52+00:00
 
  ## In Iraq for 365
- - [http://desert-smink.blogspot.com](http://desert-smink.blogspot.com)
+ - [https://desert-smink.blogspot.com](https://desert-smink.blogspot.com)
  - date_published: 2024-06-04T09:18:36+00:00
 
  ## Blogger
@@ -2880,19 +2892,19 @@
  - date_published: 2010-07-16T00:00:00+00:00
 
  ## Inside Designerator
- - [http://designeratorblog.blogspot.com](http://designeratorblog.blogspot.com)
+ - [https://designeratorblog.blogspot.com](https://designeratorblog.blogspot.com)
  - date_published: 2024-02-07T03:28:27+00:00
 
  ## BIKE.COOK.PLAY
- - [http://designercowboy.blogspot.com](http://designercowboy.blogspot.com)
+ - [https://designercowboy.blogspot.com](https://designercowboy.blogspot.com)
  - date_published: 2004-02-26T00:00:00+00:00
 
  ## De Silentio Umbrae
- - [http://desilentioumbrae.blogspot.com](http://desilentioumbrae.blogspot.com)
+ - [https://desilentioumbrae.blogspot.com](https://desilentioumbrae.blogspot.com)
  - date_published: 2024-02-21T03:45:58+00:00
 
  ## Desirée
- - [http://desireeshuck.blogspot.com](http://desireeshuck.blogspot.com)
+ - [https://desireeshuck.blogspot.com](https://desireeshuck.blogspot.com)
  - date_published: 2024-03-12T23:30:30+00:00
 
  ## Nie znaleziono bloga
@@ -2904,11 +2916,11 @@
  - date_published: 2024-09-10T02:43:32+00:00
 
  ## Blogger
- - [http://destinationawesome.blogspot.com](http://destinationawesome.blogspot.com)
+ - [https://destinationawesome.blogspot.com](https://destinationawesome.blogspot.com)
  - date_published: 2024-06-30T01:12:40.618279+00:00
 
  ## The Beach Bum Crier
- - [http://destinbeachbum.blogspot.com](http://destinbeachbum.blogspot.com)
+ - [https://destinbeachbum.blogspot.com](https://destinbeachbum.blogspot.com)
  - date_published: 2024-02-21T11:47:31+00:00
 
  ## The Destroyermen
@@ -2916,7 +2928,7 @@
  - date_published: 2024-10-05T02:26:59+00:00
 
  ## Lesser-Known Writers
- - [http://desturmobed.blogspot.com](http://desturmobed.blogspot.com)
+ - [https://desturmobed.blogspot.com](https://desturmobed.blogspot.com)
  - date_published: 2024-08-14T19:13:37+00:00
 
  ## Detect Magic
@@ -2936,11 +2948,11 @@
  - date_published: 2024-10-26T14:59:39+00:00
 
  ## 3D Board Games And Miniatures
- - [http://deucdungeon.blogspot.com](http://deucdungeon.blogspot.com)
+ - [https://deucdungeon.blogspot.com](https://deucdungeon.blogspot.com)
  - date_published: 2024-09-05T20:50:22+00:00
 
  ## Those whom the gods would destroy ...
- - [http://deusimp.blogspot.com](http://deusimp.blogspot.com)
+ - [https://deusimp.blogspot.com](https://deusimp.blogspot.com)
  - date_published: 2024-02-21T01:03:56+00:00
 
  ## Ricardo Gross
@@ -2948,11 +2960,11 @@
  - date_published: 2024-09-24T23:28:08+00:00
 
  ## Simon's blog
- - [http://devangelist.blogspot.com](http://devangelist.blogspot.com)
+ - [https://devangelist.blogspot.com](https://devangelist.blogspot.com)
  - date_published: 2024-07-04T05:59:31+00:00
 
  ## I ran for Governor!
- - [http://devasbar.blogspot.com](http://devasbar.blogspot.com)
+ - [https://devasbar.blogspot.com](https://devasbar.blogspot.com)
  - date_published: 2024-03-19T19:58:55+00:00
 
  ## deve e haver
@@ -2960,15 +2972,15 @@
  - date_published: 2024-12-20T11:15:44+00:00
 
  ## Development Speak
- - [http://developmentspeak.blogspot.com](http://developmentspeak.blogspot.com)
+ - [https://developmentspeak.blogspot.com](https://developmentspeak.blogspot.com)
  - date_published: 2024-02-07T19:36:06+00:00
 
  ## Deviant Designs Deeds
- - [http://deviantdesigns.blogspot.com](http://deviantdesigns.blogspot.com)
+ - [https://deviantdesigns.blogspot.com](https://deviantdesigns.blogspot.com)
  - date_published: 2024-03-07T19:01:50+00:00
 
  ## Blogger
- - [http://devilsknife.blogspot.com](http://devilsknife.blogspot.com)
+ - [https://devilsknife.blogspot.com](https://devilsknife.blogspot.com)
  - date_published: 2024-10-21T15:34:33.191606+00:00
 
  ## Devlanmud
@@ -2981,7 +2993,7 @@
  - date_published: 2024-05-08T09:48:46.782922+00:00
 
  ## Britain Visitor Blog
- - [http://devonvisitor.blogspot.com](http://devonvisitor.blogspot.com)
+ - [https://devonvisitor.blogspot.com](https://devonvisitor.blogspot.com)
  - date_published: 2024-04-17T07:30:57+00:00
 
  ## Devon Wargames Group
@@ -2997,7 +3009,7 @@
  - date_published: 2024-05-06T04:08:29+00:00
 
  ## Devos IV
- - [http://devos4.blogspot.com](http://devos4.blogspot.com)
+ - [https://devos4.blogspot.com](https://devos4.blogspot.com)
  - date_published: 2024-09-04T10:27:42+00:00
 
  ## Diário Dev de Tomazini
@@ -3013,7 +3025,7 @@
  - date_published: 2024-12-11T00:28:17+00:00
 
  ## Blogger
- - [http://dexpectations.blogspot.com](http://dexpectations.blogspot.com)
+ - [https://dexpectations.blogspot.com](https://dexpectations.blogspot.com)
  - date_published: 2024-06-27T08:46:12.475873+00:00
 
  ## Dexter Smith
@@ -3021,7 +3033,7 @@
  - date_published: 2024-09-19T18:13:05+00:00
 
  ## DFW Pythoneers
- - [http://dfwpython.blogspot.com](http://dfwpython.blogspot.com)
+ - [https://dfwpython.blogspot.com](https://dfwpython.blogspot.com)
  - date_published: 2024-03-21T11:50:32+00:00
 
  ## DeadGuy's Ditch
@@ -3029,32 +3041,32 @@
  - date_published: 2024-10-07T03:47:36+00:00
 
  ## A Commonplace Blog
- - [http://dgmyers.blogspot.com](http://dgmyers.blogspot.com)
+ - [https://dgmyers.blogspot.com](https://dgmyers.blogspot.com)
  - date_published: 2024-08-15T18:05:11+00:00
 
  ## Serendipity
- - [http://dgrim.blogspot.com](http://dgrim.blogspot.com)
+ - [https://dgrim.blogspot.com](https://dgrim.blogspot.com)
  - date_published: 2024-03-07T06:18:46+00:00
 
  ## dharma geezer
- - [http://dharmageezer.blogspot.com](http://dharmageezer.blogspot.com)
+ - [https://dharmageezer.blogspot.com](https://dharmageezer.blogspot.com)
  - date_published: 2008-04-01T00:00:00+00:00
 
  ## A New Mexican Trying to Type
- - [http://dhatypingnm.blogspot.com](http://dhatypingnm.blogspot.com)
+ - [https://dhatypingnm.blogspot.com](https://dhatypingnm.blogspot.com)
  - date_published: 2024-03-13T03:53:15+00:00
 
  ## Heroes Domain
- - [http://dhawkstudios.blogspot.com](http://dhawkstudios.blogspot.com)
+ - [https://dhawkstudios.blogspot.com](https://dhawkstudios.blogspot.com)
  - date_published: 2024-09-02T03:00:16+00:00
 
  ## Blogger
- - [http://dhiatensor.blogspot.com](http://dhiatensor.blogspot.com)
+ - [https://dhiatensor.blogspot.com](https://dhiatensor.blogspot.com)
  - date_published: 2024-07-18T17:11:28.180739+00:00
 
  ## @dhothersall
- - [http://dhothersall.blogspot.com](http://dhothersall.blogspot.com)
- - date_published: 2024-10-21T15:36:15.507312+00:00
+ - [https://dhothersall.blogspot.com](https://dhothersall.blogspot.com)
+ - date_published: 2024-09-02T08:15:10+00:00
 
  ## Diabetes Update
  - [https://diabetesupdate.blogspot.com](https://diabetesupdate.blogspot.com)
@@ -3069,11 +3081,11 @@
  - date_published: 2024-06-02T17:49:10+00:00
 
  ## Dialogic
- - [http://dialogic.blogspot.com](http://dialogic.blogspot.com)
+ - [https://dialogic.blogspot.com](https://dialogic.blogspot.com)
  - date_published: 2024-06-14T17:51:45+00:00
 
  ## Dialogues On Global Warming
- - [http://dialoguesonglobalwarming.blogspot.com](http://dialoguesonglobalwarming.blogspot.com)
+ - [https://dialoguesonglobalwarming.blogspot.com](https://dialoguesonglobalwarming.blogspot.com)
  - date_published: 2024-04-10T01:32:25+00:00
 
  ## diamond geezer
@@ -3114,11 +3126,11 @@
  - date_published: 2024-10-24T09:42:16+00:00
 
  ## Diary of a Benefit Scrounger
- - [http://diaryofabenefitscrounger.blogspot.com](http://diaryofabenefitscrounger.blogspot.com)
+ - [https://diaryofabenefitscrounger.blogspot.com](https://diaryofabenefitscrounger.blogspot.com)
  - date_published: 2024-10-21T11:59:16.208172+00:00
 
  ## Diary of a Dorkette
- - [http://diaryofadorkette.blogspot.com](http://diaryofadorkette.blogspot.com)
+ - [https://diaryofadorkette.blogspot.com](https://diaryofadorkette.blogspot.com)
  - date_published: 2024-07-02T06:16:48+00:00
 
  ## Diary of an Aspiring Loser
@@ -3142,15 +3154,15 @@
  - date_published: 2024-10-25T09:47:03+00:00
 
  ## Blogger
- - [http://diasporan.blogspot.com](http://diasporan.blogspot.com)
+ - [https://diasporan.blogspot.com](https://diasporan.blogspot.com)
  - date_published: 2024-10-21T18:36:26.208784+00:00
 
  ## Dibdab's Hobby Blog
- - [http://dibdabhobbyblog.blogspot.com](http://dibdabhobbyblog.blogspot.com)
+ - [https://dibdabhobbyblog.blogspot.com](https://dibdabhobbyblog.blogspot.com)
  - date_published: 2024-05-26T11:27:03+00:00
 
  ## Blogger
- - [http://dibianchigirari.blogspot.com](http://dibianchigirari.blogspot.com)
+ - [https://dibianchigirari.blogspot.com](https://dibianchigirari.blogspot.com)
  - date_published: 2024-06-24T10:23:09.055385+00:00
 
  ## Dicas Blogger
@@ -3158,11 +3170,11 @@
  - date_published: 2024-12-30T23:07:14+00:00
 
  ## Dice and Brush
- - [http://diceandbrush.blogspot.com](http://diceandbrush.blogspot.com)
+ - [https://diceandbrush.blogspot.com](https://diceandbrush.blogspot.com)
  - date_published: 2024-07-19T18:52:58+00:00
 
  ## Dice, Doubloons and Random Musings
- - [http://dice-and-doubloons.blogspot.com](http://dice-and-doubloons.blogspot.com)
+ - [https://dice-and-doubloons.blogspot.com](https://dice-and-doubloons.blogspot.com)
  - date_published: 2024-07-19T00:01:12+00:00
 
  ## The Dice Blade
@@ -3174,11 +3186,11 @@
  - date_published: 2024-12-04T07:13:14+00:00
 
  ## Dice Like Dave
- - [http://dicelikedave.blogspot.com](http://dicelikedave.blogspot.com)
+ - [https://dicelikedave.blogspot.com](https://dicelikedave.blogspot.com)
  - date_published: 2024-03-19T04:35:40+00:00
 
  ## Dice Of Doom
- - [http://diceofdoom.blogspot.com](http://diceofdoom.blogspot.com)
+ - [https://diceofdoom.blogspot.com](https://diceofdoom.blogspot.com)
  - date_published: 2024-07-04T06:25:14+00:00
 
  ## Dice of Legends
@@ -3186,7 +3198,7 @@
  - date_published: 2024-11-08T16:59:36+00:00
 
  ## diceRolla
- - [http://dicerolla.blogspot.com](http://dicerolla.blogspot.com)
+ - [https://dicerolla.blogspot.com](https://dicerolla.blogspot.com)
  - date_published: 2024-10-26T09:04:50+00:00
 
  ## The Dice Warrior
@@ -3202,7 +3214,7 @@
  - date_published: 2024-12-31T22:55:07+00:00
 
  ## Dick & Garlick
- - [http://dickandgarlick.blogspot.com](http://dickandgarlick.blogspot.com)
+ - [https://dickandgarlick.blogspot.com](https://dickandgarlick.blogspot.com)
  - date_published: 2024-03-13T07:38:26+00:00
 
  ## Word of Volvo
@@ -3210,11 +3222,11 @@
  - date_published: 2024-03-13T04:23:32+00:00
 
  ## Dick Puddlecote
- - [http://dickpuddlecote.blogspot.com](http://dickpuddlecote.blogspot.com)
+ - [https://dickpuddlecote.blogspot.com](https://dickpuddlecote.blogspot.com)
  - date_published: 2024-05-31T06:18:36+00:00
 
  ## Dick Wolff's blog
- - [http://dickwolffblog.blogspot.com](http://dickwolffblog.blogspot.com)
+ - [https://dickwolffblog.blogspot.com](https://dickwolffblog.blogspot.com)
  - date_published: 2024-10-21T17:53:58.097841+00:00
 
  ## Did He Ride Today?
@@ -3222,11 +3234,11 @@
  - date_published: 2024-10-07T04:27:40+00:00
 
  ## Blogger
- - [http://didos-blog.blogspot.com](http://didos-blog.blogspot.com)
+ - [https://didos-blog.blogspot.com](https://didos-blog.blogspot.com)
  - date_published: 2024-09-18T14:35:21.830429+00:00
 
  ## Die, Danger, Die, Die, Kill!
- - [http://diedangerdiediekill.blogspot.com](http://diedangerdiediekill.blogspot.com)
+ - [https://diedangerdiediekill.blogspot.com](https://diedangerdiediekill.blogspot.com)
  - date_published: 2024-07-15T19:52:49+00:00
 
  ## Dien Bien Phu
@@ -3234,7 +3246,7 @@
  - date_published: 2024-11-06T02:59:29+00:00
 
  ## Dienekes’ Anthropology Blog
- - [http://dienekes.blogspot.com](http://dienekes.blogspot.com)
+ - [https://dienekes.blogspot.com](https://dienekes.blogspot.com)
  - date_published: 2024-06-15T18:18:13+00:00
 
  ## Dies Irae 40K
@@ -3242,11 +3254,11 @@
  - date_published: 2024-09-20T15:54:07+00:00
 
  ## And you are here why?
- - [http://dieswaytoofast.blogspot.com](http://dieswaytoofast.blogspot.com)
+ - [https://dieswaytoofast.blogspot.com](https://dieswaytoofast.blogspot.com)
  - date_published: 2024-06-11T03:06:36+00:00
 
  ## The war diaries of Dieter Finzen in both world wars
- - [http://dieter-finzen.blogspot.com](http://dieter-finzen.blogspot.com)
+ - [https://dieter-finzen.blogspot.com](https://dieter-finzen.blogspot.com)
  - date_published: 2024-03-13T03:11:23+00:00
 
  ## dieVincis
@@ -3258,11 +3270,11 @@
  - date_published: 2024-12-12T22:09:48.839396+00:00
 
  ## Hullabaloo
- - [http://digbysblog.blogspot.com](http://digbysblog.blogspot.com)
+ - [https://digbysblog.blogspot.com](https://digbysblog.blogspot.com)
  - date_published: 2024-03-05T17:28:56+00:00
 
  ## Digger's Home
- - [http://diggershome.blogspot.com](http://diggershome.blogspot.com)
+ - [https://diggershome.blogspot.com](https://diggershome.blogspot.com)
  - date_published: 2024-09-05T03:18:04+00:00
 
  ## Pittsburgh, Youngstown, Akron, Cleveland Arts And Livable City Blog
@@ -3274,15 +3286,15 @@
  - date_published: 2024-12-20T09:16:33.449294+00:00
 
  ## The Digital Cuttlefish
- - [http://digitalcuttlefish.blogspot.com](http://digitalcuttlefish.blogspot.com)
+ - [https://digitalcuttlefish.blogspot.com](https://digitalcuttlefish.blogspot.com)
  - date_published: 2024-06-27T09:21:48+00:00
 
  ## Digital Eccentric
- - [http://digitaleccentric.blogspot.com](http://digitaleccentric.blogspot.com)
+ - [https://digitaleccentric.blogspot.com](https://digitaleccentric.blogspot.com)
  - date_published: 2024-05-27T17:02:20+00:00
 
  ## The Digital Electronics Blog
- - [http://digitalelectronics.blogspot.com](http://digitalelectronics.blogspot.com)
+ - [https://digitalelectronics.blogspot.com](https://digitalelectronics.blogspot.com)
  - date_published: 2024-07-19T12:37:43+00:00
 
  ## Digital Meltd0wn
@@ -3290,7 +3302,7 @@
  - date_published: 2024-11-26T22:29:03+00:00
 
  ## Digital Operatives Blog
- - [http://digitaloperatives.blogspot.com](http://digitaloperatives.blogspot.com)
+ - [https://digitaloperatives.blogspot.com](https://digitaloperatives.blogspot.com)
  - date_published: 2024-08-28T14:17:29+00:00
 
  ## Blogger
@@ -3298,11 +3310,11 @@
  - date_published: 2025-01-01T05:07:47.638145+00:00
 
  ## Digital Papyrology
- - [http://digitalpapyrology.blogspot.com](http://digitalpapyrology.blogspot.com)
+ - [https://digitalpapyrology.blogspot.com](https://digitalpapyrology.blogspot.com)
  - date_published: 2024-03-09T00:19:34+00:00
 
  ## Digital Radio FM Insider
- - [http://digitalradioinsider.blogspot.com](http://digitalradioinsider.blogspot.com)
+ - [https://digitalradioinsider.blogspot.com](https://digitalradioinsider.blogspot.com)
  - date_published: 2024-06-25T09:04:48+00:00
 
  ## Digitální Volo
@@ -3314,19 +3326,19 @@
  - date_published: 2024-05-28T00:46:18.594118+00:00
 
  ## Digitus Impudicus
- - [http://digitus.blogspot.com](http://digitus.blogspot.com)
+ - [https://digitus.blogspot.com](https://digitus.blogspot.com)
  - date_published: 2024-02-08T08:07:04+00:00
 
  ## One Person's Opinion
- - [http://dilan.blogspot.com](http://dilan.blogspot.com)
+ - [https://dilan.blogspot.com](https://dilan.blogspot.com)
  - date_published: 2010-09-07T00:00:00+00:00
 
  ## The Dilettante Gamer
- - [http://dilettantegamer.blogspot.com](http://dilettantegamer.blogspot.com)
+ - [https://dilettantegamer.blogspot.com](https://dilettantegamer.blogspot.com)
  - date_published: 2024-07-03T02:53:09+00:00
 
  ## Dilusions of Grandeur
- - [http://dilusionsofgrandeur.blogspot.com](http://dilusionsofgrandeur.blogspot.com)
+ - [https://dilusionsofgrandeur.blogspot.com](https://dilusionsofgrandeur.blogspot.com)
  - date_published: 2024-10-05T01:54:27+00:00
 
  ## Nie znaleziono bloga
@@ -3338,11 +3350,11 @@
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Dinadolla
- - [http://dinadolla.blogspot.com](http://dinadolla.blogspot.com)
+ - [https://dinadolla.blogspot.com](https://dinadolla.blogspot.com)
  - date_published: 2024-02-20T16:40:55+00:00
 
  ## DINAH LORD
- - [http://dinahlord.blogspot.com](http://dinahlord.blogspot.com)
+ - [https://dinahlord.blogspot.com](https://dinahlord.blogspot.com)
  - date_published: 2024-03-23T17:47:15+00:00
 
  ## Dina's Travels
@@ -3354,7 +3366,7 @@
  - date_published: 2024-10-10T16:19:33+00:00
 
  ## Dinner With Max Jenke
- - [http://dinnerwithmaxjenke.blogspot.com](http://dinnerwithmaxjenke.blogspot.com)
+ - [https://dinnerwithmaxjenke.blogspot.com](https://dinnerwithmaxjenke.blogspot.com)
  - date_published: 2024-05-13T14:50:44+00:00
 
  ## Din of Battle
@@ -3386,15 +3398,15 @@
  - date_published: 2024-12-23T15:11:04+00:00
 
  ## DIRAKX(Cience+Tech+Arts)
- - [http://dirakx.blogspot.com](http://dirakx.blogspot.com)
+ - [https://dirakx.blogspot.com](https://dirakx.blogspot.com)
  - date_published: 2024-03-07T09:08:05+00:00
 
  ## Direbane: An RPG Home Brewed Repository
- - [http://direbane.blogspot.com](http://direbane.blogspot.com)
+ - [https://direbane.blogspot.com](https://direbane.blogspot.com)
  - date_published: 2024-06-22T18:55:22+00:00
 
  ## Direct Fire
- - [http://directfire.blogspot.com](http://directfire.blogspot.com)
+ - [https://directfire.blogspot.com](https://directfire.blogspot.com)
  - date_published: 2024-10-07T04:54:04+00:00
 
  ## Doug Ross @ Journal
@@ -3992,16 +4004,4 @@
  ## DON VIVO
  - [http://donvivo.blogspot.com](http://donvivo.blogspot.com)
  - date_published: 2024-07-12T19:15:26+00:00
-
- ## doodles and noodles
- - [http://doodlesandnoodles.blogspot.com](http://doodlesandnoodles.blogspot.com)
- - date_published: 2024-05-04T02:06:45+00:00
-
- ## Blogger
- - [http://doodlezoo.blogspot.com](http://doodlezoo.blogspot.com)
- - date_published: 2025-01-01T15:07:02.021583+00:00
-
- ## doodlin'
- - [http://doodlin.blogspot.com](http://doodlin.blogspot.com)
- - date_published: 2015-08-26T00:00:00+00:00
 

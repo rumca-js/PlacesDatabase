@@ -1,3 +1,59 @@
+ ## OSU Login
+ - [http://directory.oregonstate.edu](http://directory.oregonstate.edu)
+ - date_published: 2024-06-16T22:25:42.668831+00:00
+
+ ## Undergraduate Admissions
+ - [https://discover.oregonstate.edu](https://discover.oregonstate.edu)
+ - date_published: 2024-06-18T14:29:52+00:00
+
+ ## Institutional Diversity
+ - [https://diversity.oregonstate.edu](https://diversity.oregonstate.edu)
+ - date_published: 2018-05-30T00:00:00+00:00
+
+ ## Online Degrees & Programs | Oregon State Ecampus | OSU Degrees Online
+ - [https://ecampus.oregonstate.edu](https://ecampus.oregonstate.edu)
+ - date_published: 2024-06-16T22:25:12.335267+00:00
+
+ ## Division of Educational Ventures | Oregon State University
+ - [https://educationalventures.oregonstate.edu](https://educationalventures.oregonstate.edu)
+ - date_published: 2024-10-15T01:15:50.913361+00:00
+
+ ## College of Education
+ - [https://education.oregonstate.edu](https://education.oregonstate.edu)
+ - date_published: 2021-11-24T14:37:21+00:00
+
+ ## Electrical Engineering and Computer Science | College of Engineering
+ - [http://eecs.oregonstate.edu](http://eecs.oregonstate.edu)
+ - date_published: 2022-07-15T22:09:15+00:00
+
+ ## Emergency Management
+ - [https://emergency.oregonstate.edu](https://emergency.oregonstate.edu)
+ - date_published: 2024-10-14T21:25:36+00:00
+
+ ## Extension employee resources | Employee Intranet
+ - [https://employee.extension.oregonstate.edu](https://employee.extension.oregonstate.edu)
+ - date_published: 2024-10-15T01:12:16+00:00
+
+ ## OSU Extension and Engagement | Extension and Engagement
+ - [https://engagement.oregonstate.edu](https://engagement.oregonstate.edu)
+ - date_published: 2024-06-13T00:15:19+00:00
+
+ ## Enrollment Management
+ - [https://enrollmentmanagement.oregonstate.edu](https://enrollmentmanagement.oregonstate.edu)
+ - date_published: 2023-07-06T12:10:16+00:00
+
+ ## Events Calendar - Oregon State University
+ - [https://events.oregonstate.edu](https://events.oregonstate.edu)
+ - date_published: 2024-06-20T01:58:18.803266+00:00
+
+ ## OSU Experience
+ - [https://experience.oregonstate.edu](https://experience.oregonstate.edu)
+ - date_published: 2024-06-20T01:39:35+00:00
+
+ ## OSU Extension Service
+ - [https://extension.oregonstate.edu](https://extension.oregonstate.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
  ## Parent & Family Programs
  - [https://families.oregonstate.edu](https://families.oregonstate.edu)
  - date_published: 2024-10-14T10:43:54+00:00
@@ -3950,60 +4006,4 @@
  ## Rice
  - [http://gcurs.rice.edu](http://gcurs.rice.edu)
  - date_published: 2024-05-19T16:42:26+00:00
-
- ## GDEC
- - [https://gdec.rice.edu](https://gdec.rice.edu)
- - date_published: 2024-05-04T18:30:20+00:00
-
- ## Attention Required! | Cloudflare
- - [https://giftplan.rice.edu](https://giftplan.rice.edu)
- - date_published: 2024-07-01T18:00:24.148906+00:00
-
- ## Alumni
- - [https://giving.rice.edu](https://giving.rice.edu)
- - date_published: 2024-05-07T20:05:37.746113+00:00
-
- ## Subscribe to the Glasscock School
- - [https://glasscock-info.rice.edu](https://glasscock-info.rice.edu)
- - date_published: 2024-06-25T11:19:56+00:00
-
- ## Glasscock
- - [https://glasscock.rice.edu](https://glasscock.rice.edu)
- - date_published: 2024-05-07T20:05:13.562824+00:00
-
- ## Top Global University and Research Leader | Rice University
- - [https://global.rice.edu](https://global.rice.edu)
- - date_published: 2024-05-07T20:05:18.680149+00:00
-
- ## Master of Liberal Studies at Rice
- - [https://gls.rice.edu](https://gls.rice.edu)
- - date_published: 2024-06-27T23:35:39+00:00
-
- ## Log in | Grad Admin Guide | Rice University
- - [https://gradadmin.rice.edu](https://gradadmin.rice.edu)
- - date_published: 2024-07-01T17:59:44.217604+00:00
-
- ## Home
- - [https://gradadmissions.rice.edu](https://gradadmissions.rice.edu)
- - date_published: 2024-05-07T20:06:18.645335+00:00
-
- ## Application Management
- - [https://gradapply.rice.edu](https://gradapply.rice.edu)
- - date_published: 2024-07-01T17:59:15.903204+00:00
-
- ## Home
- - [https://graduate.rice.edu](https://graduate.rice.edu)
- - date_published: 2024-05-07T20:05:17.391901+00:00
-
- ## GSA
- - [http://gsa.rice.edu](http://gsa.rice.edu)
- - date_published: 2024-05-16T12:39:09+00:00
-
- ## Home
- - [https://health.rice.edu](https://health.rice.edu)
- - date_published: 2024-07-01T17:59:59.131880+00:00
-
- ## Login
- - [https://helpdesk.rice.edu](https://helpdesk.rice.edu)
- - date_published: 2024-05-07T20:06:11.527443+00:00
 

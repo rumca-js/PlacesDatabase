@@ -1,3 +1,15 @@
+ ## Watch Me Drive Them Dogs Wild, by Merce Lemon
+ - [https://mercelemon.bandcamp.com](https://mercelemon.bandcamp.com)
+ - date_published: 2024-07-19T18:05:31.080696+00:00
+
+ ## Merely Sounds
+ - [https://merelysounds.bandcamp.com](https://merelysounds.bandcamp.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Artists | Merge Records
+ - [https://mergerecords.bandcamp.com](https://mergerecords.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
  ## Mi Latinoamérica Sufre, by Meridian Brothers
  - [https://meridianbrothers.bandcamp.com](https://meridianbrothers.bandcamp.com)
  - date_published: 2024-12-27T08:20:20.585577+00:00
@@ -3987,16 +3999,4 @@
  ## Push It, by SALT-N-PEPA
  - [https://salt-n-pepa.bandcamp.com](https://salt-n-pepa.bandcamp.com)
  - date_published: 2024-12-27T00:26:42.230655+00:00
-
- ## salute
- - [https://saluteaut.bandcamp.com](https://saluteaut.bandcamp.com)
- - date_published: 2024-07-19T22:25:14.431837+00:00
-
- ## Passage - Live, by Samael
- - [https://samael.bandcamp.com](https://samael.bandcamp.com)
- - date_published: 2024-12-26T23:45:07.572771+00:00
-
- ## Samana
- - [https://samana.bandcamp.com](https://samana.bandcamp.com)
- - date_published: 2024-12-27T04:57:29.958395+00:00
 

@@ -1,3 +1,55 @@
+ ## Oficina de Asistencia Temporal y por Incapacidad
+ - [https://es.otda.ny.gov](https://es.otda.ny.gov)
+ - date_published: 2024-10-28T00:27:52.858090+00:00
+
+ ## COVID-19
+ - [https://forward.ny.gov](https://forward.ny.gov)
+ - date_published: 2024-06-21T20:54:34+00:00
+
+ ## Agriculture et marchés
+ - [https://fr.agriculture.ny.gov](https://fr.agriculture.ny.gov)
+ - date_published: 2024-09-18T20:18:20.077108+00:00
+
+ ## COVID-19
+ - [https://fr.coronavirus.health.ny.gov](https://fr.coronavirus.health.ny.gov)
+ - date_published: 2024-06-27T04:01:17.370963+00:00
+
+ ## Accueil
+ - [https://fr.dec.ny.gov](https://fr.dec.ny.gov)
+ - date_published: 2024-07-14T04:45:49.307880+00:00
+
+ ## Le site officiel du gouverneur Kathy Hochul
+ - [https://fr.governor.ny.gov](https://fr.governor.ny.gov)
+ - date_published: 2024-08-06T07:10:25.280693+00:00
+
+ ## Le site officiel de l'État de New York
+ - [https://fr.ny.gov](https://fr.ny.gov)
+ - date_published: 2024-07-14T04:45:10.154471+00:00
+
+ ## Bureau de l'assistance temporaire et de l'invalidité
+ - [https://fr.otda.ny.gov](https://fr.otda.ny.gov)
+ - date_published: 2024-10-28T00:28:13.142817+00:00
+
+ ## The Official Website of Governor Kathy Hochul
+ - [https://governor.ny.gov](https://governor.ny.gov)
+ - date_published: 2024-04-29T03:12:36.486669+00:00
+
+ ## NY Green Bank
+ - [https://greenbank.ny.gov](https://greenbank.ny.gov)
+ - date_published: 2024-07-04T13:01:23.953957+00:00
+
+ ## State of New York | Open Data Health | State of New York
+ - [https://health.data.ny.gov](https://health.data.ny.gov)
+ - date_published: 2024-09-18T04:20:01.099923+00:00
+
+ ## New York State Department of Health
+ - [https://health.ny.gov](https://health.ny.gov)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Agrikilti ak Mache yo
+ - [https://ht.agriculture.ny.gov](https://ht.agriculture.ny.gov)
+ - date_published: 2024-09-18T20:17:56.615806+00:00
+
  ## KOVID-19
  - [https://ht.coronavirus.health.ny.gov](https://ht.coronavirus.health.ny.gov)
  - date_published: 2024-06-27T04:01:28.691765+00:00
@@ -3950,56 +4002,4 @@
  ## USGS Publications Warehouse
  - [https://pubs.usgs.gov](https://pubs.usgs.gov)
  - date_published: 2024-02-26T14:18:28.677910+00:00
-
- ## Front Page | USGS Store
- - [https://store.usgs.gov](https://store.usgs.gov)
- - date_published: 2024-08-18T02:01:35+00:00
-
- ## USGS.gov | Science for a changing world
- - [https://usgs.gov](https://usgs.gov)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## USGS Water Data for the Nation
- - [http://waterdata.usgs.gov](http://waterdata.usgs.gov)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## U.S. National Ice Center Home
- - [https://usicecenter.gov](https://usicecenter.gov)
- - date_published: 2024-08-19T03:34:30.496835+00:00
-
- ## Home
- - [https://www.usich.gov](https://www.usich.gov)
- - date_published: 2024-06-24T11:47:38.228136+00:00
-
- ## Home
- - [https://usmarshals.gov](https://usmarshals.gov)
- - date_published: 2023-11-01T08:43:37.168607+00:00
-
- ## Official Site of the United States Mint
- - [https://www.usmint.gov](https://www.usmint.gov)
- - date_published: 2024-07-03T14:24:29.338339+00:00
-
- ## Homepage
- - [https://asean.usmission.gov](https://asean.usmission.gov)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Homepage
- - [https://geneva.usmission.gov](https://geneva.usmission.gov)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Homepage
- - [https://gw.usmission.gov](https://gw.usmission.gov)
- - date_published: 2023-06-21T00:00:00+00:00
-
- ## Homepage
- - [https://icao.usmission.gov](https://icao.usmission.gov)
- - date_published: 2020-12-03T00:00:00+00:00
-
- ## Homepage
- - [https://mv.usmission.gov](https://mv.usmission.gov)
- - date_published: 2024-07-09T23:37:59.340066+00:00
-
- ## Homepage
- - [https://nato.usmission.gov](https://nato.usmission.gov)
- - date_published: 2024-07-01T00:00:00+00:00
 

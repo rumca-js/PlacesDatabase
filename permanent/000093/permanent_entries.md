@@ -1,3 +1,15 @@
+ ## Leading Construction Software Solutions
+ - [https://www.coins-global.com](https://www.coins-global.com)
+ - date_published: 2024-05-04T08:13:28.133991+00:00
+
+ ## CoinShares Research Blog
+ - [https://blog.coinshares.com](https://blog.coinshares.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## A unique career - CoinShares
+ - [https://careers.coinshares.com](https://careers.coinshares.com)
+ - date_published: 2024-06-04T11:22:32.365346+00:00
+
  ## CoinShares | Building the Future of Investing
  - [https://coinshares.com](https://coinshares.com)
  - date_published: 2024-03-26T00:00:00+00:00
@@ -4028,16 +4040,4 @@ Colyvan's Homepage
  ## COMRAD | Everyday Compression Socks with Benefits For Men & Women
  - [https://comradsocks.com](https://comradsocks.com)
  - date_published: 2024-04-29T04:31:37.550644+00:00
-
- ## Comrad Socks
- - [https://faq.comradsocks.com](https://faq.comradsocks.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## B2B & B2C Market Research Company
- - [https://comresglobal.com](https://comresglobal.com)
- - date_published: 2024-10-21T15:13:27.540115+00:00
-
- ## Comscore is a trusted currency for planning, transacting, and evaluating media across platforms.
- - [https://comscore.com](https://comscore.com)
- - date_published: 2024-04-28T02:14:14.516343+00:00
 

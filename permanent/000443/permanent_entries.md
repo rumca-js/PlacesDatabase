@@ -1,3 +1,103 @@
+ ## Papiamento Wikiquote - Wikimedia Incubator
+ - [https://pap.wikiquote.org](https://pap.wikiquote.org)
+ - date_published: 2024-07-12T05:02:12.885007+00:00
+
+ ## ਮੁੱਖ ਸਫ਼ਾ - Wq/pa - Wikimedia Incubator
+ - [https://pa.wikiquote.org](https://pa.wikiquote.org)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## Pali Wikiquote - Wikimedia Incubator
+ - [https://pi.wikiquote.org](https://pi.wikiquote.org)
+ - date_published: 2024-07-12T04:12:02.455231+00:00
+
+ ## Wikicytaty
+ - [https://pl.wikiquote.org](https://pl.wikiquote.org)
+ - date_published: 2024-06-19T16:18:20+00:00
+
+ ## Piedmontese Wikiquote - Wikimedia Incubator
+ - [https://pms.wikiquote.org](https://pms.wikiquote.org)
+ - date_published: 2024-07-12T02:20:26.019311+00:00
+
+ ## Αρχικόν σελίδα - Wq/pnt - Wikimedia Incubator
+ - [https://pnt.wikiquote.org](https://pnt.wikiquote.org)
+ - date_published: 2024-06-28T02:35:18+00:00
+
+ ## لومړی مخ - Wq/ps - Wikimedia Incubator
+ - [https://ps.wikiquote.org](https://ps.wikiquote.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Wikiquote
+ - [https://pt.wikiquote.org](https://pt.wikiquote.org)
+ - date_published: 2024-06-11T12:31:47+00:00
+
+ ## Wikiquote
+ - [https://qu.wikiquote.org](https://qu.wikiquote.org)
+ - date_published: 2024-06-08T11:30:55+00:00
+
+ ## Wikicitat
+ - [https://ro.wikiquote.org](https://ro.wikiquote.org)
+ - date_published: 2024-06-19T16:18:21+00:00
+
+ ## Викицитатник
+ - [https://ru.m.wikiquote.org](https://ru.m.wikiquote.org)
+ - date_published: 2024-07-09T12:22:22+00:00
+
+ ## Викицитатник
+ - [https://ru.wikiquote.org](https://ru.wikiquote.org)
+ - date_published: 2024-05-10T03:55:21.159022+00:00
+
+ ## Intangiriro - Wq/rw - Wikimedia Incubator
+ - [https://rw.wikiquote.org](https://rw.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Биики_Домох
+ - [https://sah.wikiquote.org](https://sah.wikiquote.org)
+ - date_published: 2024-06-19T16:18:21+00:00
+
+ ## ᱢᱩᱬᱩᱛ ᱥᱟᱦᱴᱟ - Wq/sat - Wikimedia Incubator
+ - [https://sat.wikiquote.org](https://sat.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## विकिसूक्तिः
+ - [https://sa.wikiquote.org](https://sa.wikiquote.org)
+ - date_published: 2024-06-19T16:18:21+00:00
+
+ ## Scots Wikiquote - Wikimedia Incubator
+ - [https://sco.wikiquote.org](https://sco.wikiquote.org)
+ - date_published: 2024-07-12T05:27:07.303235+00:00
+
+ ## Sango Wikiquote - Wikimedia Incubator
+ - [https://sg.wikiquote.org](https://sg.wikiquote.org)
+ - date_published: 2024-07-12T05:02:53.582843+00:00
+
+ ## Wq/shi - Wikimedia Incubator
+ - [https://shi.wikiquote.org](https://shi.wikiquote.org)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Wq/shn - Wikimedia Incubator
+ - [https://shn.wikiquote.org](https://shn.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Glavna stranica / Главна страница - Wq/sh - Wikimedia Incubator
+ - [https://sh.wikiquote.org](https://sh.wikiquote.org)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## Wikiquote
+ - [https://simple.wikiquote.org](https://simple.wikiquote.org)
+ - date_published: 2024-07-05T01:40:24+00:00
+
+ ## මුල් පිටුව - Wq/si - Wikimedia Incubator
+ - [https://si.wikiquote.org](https://si.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## پہلا پرت - Wq/skr - Wikimedia Incubator
+ - [https://skr.wikiquote.org](https://skr.wikiquote.org)
+ - date_published: 2024-06-28T04:44:54+00:00
+
+ ## Wikicitáty
+ - [https://sk.wikiquote.org](https://sk.wikiquote.org)
+ - date_published: 2024-06-19T16:18:22+00:00
+
  ## Wikinavedek
  - [https://sl.wikiquote.org](https://sl.wikiquote.org)
  - date_published: 2024-06-19T16:18:22+00:00
@@ -3906,104 +4006,4 @@
  ## Home - Wake Up International
  - [https://wkup.org](https://wkup.org)
  - date_published: 2024-06-12T12:47:22.120758+00:00
-
- ## Fitness & Wellbeing Centres • Inspiring Healthy Lifestyles
- - [http://www.wlct.org](http://www.wlct.org)
- - date_published: 2024-12-19T11:25:09.955297+00:00
-
- ## Urban Land Toronto Institute - Champions in the Spotlight
- - [http://wlichampions.org](http://wlichampions.org)
- - date_published: 2024-12-12T15:19:50.495241+00:00
-
- ## Donate and Support | WLRN
- - [https://donate.wlrn.org](https://donate.wlrn.org)
- - date_published: 2022-10-27T19:24:12+00:00
-
- ## WLRN Events – South Florida Community Events
- - [https://events.wlrn.org](https://events.wlrn.org)
- - date_published: 2024-08-18T10:14:26.716559+00:00
-
- ## WLRN | FKM&AW
- - [https://floridakeysweekend.wlrn.org](https://floridakeysweekend.wlrn.org)
- - date_published: 2024-07-25T15:06:21+00:00
-
- ## Shop WLRN
- - [https://shop.wlrn.org](https://shop.wlrn.org)
- - date_published: 2024-08-18T10:14:27.986079+00:00
-
- ## Underwriters | WLRN
- - [https://underwriters.wlrn.org](https://underwriters.wlrn.org)
- - date_published: 2024-07-08T15:01:34+00:00
-
- ## WLRN Video
- - [https://video.wlrn.org](https://video.wlrn.org)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## WLRN Homepage | WLRN
- - [https://www.wlrn.org](https://www.wlrn.org)
- - date_published: 2023-12-17T16:48:32.373811+00:00
-
- ## Home | Wôpanâak Language Reclamation Project
- - [http://www.wlrp.org](http://www.wlrp.org)
- - date_published: 2024-06-26T21:40:55.281241+00:00
-
- ## MediaWiki Codesearch (Everything)
- - [https://codesearch.wmcloud.org](https://codesearch.wmcloud.org)
- - date_published: 2024-07-13T23:52:40.857183+00:00
-
- ## Pageviews Analysis
- - [https://pageviews.wmcloud.org](https://pageviews.wmcloud.org)
- - date_published: 2023-12-30T07:39:48.797012+00:00
-
- ## Home
- - [https://phabricator.wmcloud.org](https://phabricator.wmcloud.org)
- - date_published: 2024-07-13T23:52:42.603562+00:00
-
- ## WikiStats - Mediawiki statistics
- - [https://wikistats-new.wmcloud.org](https://wikistats-new.wmcloud.org)
- - date_published: 2024-10-20T10:00:55.732151+00:00
-
- ## WikiStats - Mediawiki statistics
- - [https://wikistats.wmcloud.org](https://wikistats.wmcloud.org)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## XTools
- - [https://xtools.wmcloud.org](https://xtools.wmcloud.org)
- - date_published: 2024-06-28T08:22:32.392859+00:00
-
- ## Portal:Toolforge - Wikitech
- - [https://tools-static.wmflabs.org](https://tools-static.wmflabs.org)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Portal:Toolforge - Wikitech
- - [https://tools.wmflabs.org](https://tools.wmflabs.org)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Wikispore
- - [https://wikispore.wmflabs.org](https://wikispore.wmflabs.org)
- - date_published: 2024-03-28T20:38:09+00:00
-
- ## Wikimedia Phabricator
- - [https://phab.wmfusercontent.org](https://phab.wmfusercontent.org)
- - date_published: 2024-07-13T23:52:37.554896+00:00
-
- ## Home - W.M. Keck Foundation
- - [http://www.wmkeck.org](http://www.wmkeck.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## WMNF 88.5 FM
- - [https://giving.wmnf.org](https://giving.wmnf.org)
- - date_published: 2024-07-04T04:52:22.459484+00:00
-
- ## WMNF 88.5 FM – Where Music, News, and Culture Collide
- - [https://wmnf.org](https://wmnf.org)
- - date_published: 2024-05-08T05:00:11.030573+00:00
-
- ## Home
- - [https://www.wms.org](https://www.wms.org)
- - date_published: 2024-07-09T13:51:45.543449+00:00
-
- ## WMSE 91.7FM
- - [https://wmse.org](https://wmse.org)
- - date_published: 2024-10-22T05:35:24.197350+00:00
 

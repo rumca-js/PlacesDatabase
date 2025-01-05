@@ -1,3 +1,15 @@
+ ## Dark Alex ~ PSP Custom Firmware Downgrader Developer
+ - [http://www.darkalex.com](http://www.darkalex.com)
+ - date_published: 2023-07-19T17:03:24+00:00
+
+ ## Dark Angel Contracting – Safeguarding Your Digital Frontier
+ - [https://darkangelctr.com](https://darkangelctr.com)
+ - date_published: 2024-06-22T11:01:53.485990+00:00
+
+ ## ~-SumberCheat™-~ - Portal
+ - [http://sumbercheat.darkbb.com](http://sumbercheat.darkbb.com)
+ - date_published: 2024-12-28T06:45:06+00:00
+
  ## Wolf3d Haven Forum - Portal
  - [http://wolf3d.darkbb.com](http://wolf3d.darkbb.com)
  - date_published: 2024-06-13T00:00:00+00:00
@@ -4041,16 +4053,4 @@
  ## Domain-Driven Design Europe 2020
  - [https://2020.dddeurope.com](https://2020.dddeurope.com)
  - date_published: 2021-09-18T15:59:42+00:00
-
- ## DDD Europe 2022 - Software Modelling & Design Conference
- - [https://2022.dddeurope.com](https://2022.dddeurope.com)
- - date_published: 2022-09-23T09:42:54+00:00
-
- ## DDD Europe 2023 - Software Modelling & Design Conference
- - [https://2023.dddeurope.com](https://2023.dddeurope.com)
- - date_published: 2023-07-03T11:48:20+00:00
-
- ## DDD Europe 2024 - Software Modelling & Design Conference
- - [https://2024.dddeurope.com](https://2024.dddeurope.com)
- - date_published: 2024-06-11T09:25:28+00:00
 

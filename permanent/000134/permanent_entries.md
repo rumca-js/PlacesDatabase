@@ -1,3 +1,27 @@
+ ## Evergreen: Seattle Day of Service
+ - [https://evergreen.hackclub.com](https://evergreen.hackclub.com)
+ - date_published: 2024-06-20T15:19:00.598707+00:00
+
+ ## High School Hackathons in 2024 – Hack Club
+ - [https://hackathons.hackclub.com](https://hackathons.hackclub.com)
+ - date_published: 2024-05-04T09:13:22.036576+00:00
+
+ ## A Home for High School Hackers – Hack Club
+ - [https://hackclub.com](https://hackclub.com)
+ - date_published: 2023-10-25T14:54:19.680950+00:00
+
+ ## Harvest
+ - [https://harvest.hackclub.com](https://harvest.hackclub.com)
+ - date_published: 2024-06-20T15:20:15.441782+00:00
+
+ ## Haunted House - 🎃 Where Fright Meets Byte: A Haunted House Hackathon Experience.
+ - [https://haunted.hackclub.com](https://haunted.hackclub.com)
+ - date_published: 2024-06-20T15:20:17.562890+00:00
+
+ ## Haunted House Toronto
+ - [https://hauntedto.hackclub.com](https://hauntedto.hackclub.com)
+ - date_published: 2024-06-20T15:19:32.776128+00:00
+
  ## Sign in
  - [https://hcb.hackclub.com](https://hcb.hackclub.com)
  - date_published: 2024-05-13T13:48:57.483891+00:00
@@ -4018,28 +4042,4 @@
  ## 悠々自適
  - [https://yuu-1101.hatenablog.com](https://yuu-1101.hatenablog.com)
  - date_published: 2024-07-04T07:08:38.323764+00:00
-
- ## お探しのページは見つかりませんでした。 - はてなブログ
- - [https://hatenablog-parts.com](https://hatenablog-parts.com)
- - date_published: 2024-04-29T04:18:09.758284+00:00
-
- ## 六時のおやつ
- - [https://toriburo.hatenadiary.com](https://toriburo.hatenadiary.com)
- - date_published: 2024-07-04T07:07:00.628684+00:00
-
- ## はてなニュース
- - [http://hatenanews.com](http://hatenanews.com)
- - date_published: 2024-07-04T07:07:09.580895+00:00
-
- ## はてなブックマーク開発ブログ
- - [https://bookmark.hatenastaff.com](https://bookmark.hatenastaff.com)
- - date_published: 2024-07-04T07:08:45.851029+00:00
-
- ## Hatfield's Goode Grub | best bbq cleveland | 16700 Lorain Avenue, Cleveland, OH, USA
- - [https://www.hatfieldsgoodegrub.com](https://www.hatfieldsgoodegrub.com)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## HATHENBRUCK(TM)
- - [http://hathenbruck.com](http://hathenbruck.com)
- - date_published: 2024-07-13T15:01:04.173142+00:00
 

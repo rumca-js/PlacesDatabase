@@ -1,3 +1,92 @@
+ ## Climate Investment Funds
+ - [https://www.cif.org](https://www.cif.org)
+ - date_published: 2024-09-16T06:39:19+00:00
+
+ ## CRA and CCC are extremely excited to announce the 2020 class of CIFellows!
+ - [https://cifellows2021.org](https://cifellows2021.org)
+ - date_published: 2021-10-26T00:47:19+00:00
+
+ ## cIFrex - Static Code Analysis (cIFrex.org)
+ - [https://cifrex.org](https://cifrex.org)
+ - date_published: 2018-10-03T11:14:10+00:00
+
+ ## Home
+ - [https://cigionline.org](https://cigionline.org)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## CIGRE > Home
+ - [http://www.cigre.org](http://www.cigre.org)
+ - date_published: 2024-07-01T11:41:34.455820+00:00
+
+ ## Council of Institutional Investors - The Voice of Corporate Governance
+ - [https://www.cii.org](https://www.cii.org)
+ - date_published: 2024-09-04T20:15:17.514323+00:00
+
+ ## Home - CIIGROUP/UK | Chartered Insurance Institute (CII)
+ - [https://www.ciigroup.org](https://www.ciigroup.org)
+ - date_published: 2024-12-14T12:31:48.839088+00:00
+
+ ## Home | Official Website of Central Institute of Indian Languages
+ - [http://www.ciil.org](http://www.ciil.org)
+ - date_published: 2024-09-11T17:50:06.716530+00:00
+
+ ## CII home page
+ - [http://www.ciinet.org](http://www.ciinet.org)
+ - date_published: 2019-04-10T18:20:38+00:00
+
+ ## CIISec | The Home Of Cyber Professionals
+ - [https://www.ciisec.org](https://www.ciisec.org)
+ - date_published: 2024-10-17T11:24:33.446562+00:00
+
+ ## 30th ACM International Conference on Information and Knowledge Management, Online CIKM 2021
+ - [https://cikm2021.org](https://cikm2021.org)
+ - date_published: 2022-02-13T22:15:24+00:00
+
+ ## CIKM 2024 – International Conference on Information and Knowledge Management – Homepage of CIKM 2024
+ - [https://cikm2024.org](https://cikm2024.org)
+ - date_published: 2024-08-07T14:55:17+00:00
+
+ ## CILA / Ciudades en Acción
+ - [https://cilaglobal.org](https://cilaglobal.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## CIMAM — International Committee for Museums and Collections of Modern Art
+         - CIMAM
+ - [http://cimam.org](http://cimam.org)
+ - date_published: 2024-06-20T08:54:38.919113+00:00
+
+ ## Center for International Maritime Security | Fostering the Discussion on Securing the Seas.
+ - [https://cimsec.org](https://cimsec.org)
+ - date_published: 2024-04-29T05:57:34.423349+00:00
+
+ ## Cincinnati Art Museum: Cincinnati Art Museum
+ - [https://cincinnatiartmuseum.org](https://cincinnatiartmuseum.org)
+ - date_published: 2024-12-12T06:57:42.801963+00:00
+
+ ## Official Ticket Source | Cincinnati Arts
+ - [https://www.cincinnatiarts.org](https://www.cincinnatiarts.org)
+ - date_published: 2024-07-19T21:30:21.467055+00:00
+
+ ## Research Horizons
+ - [https://scienceblog.cincinnatichildrens.org](https://scienceblog.cincinnatichildrens.org)
+ - date_published: 2024-10-29T19:09:51.845645+00:00
+
+ ## Cincinnati Children's Hospital
+ - [http://www.cincinnatichildrens.org](http://www.cincinnatichildrens.org)
+ - date_published: 2024-06-19T16:55:22.122455+00:00
+
+ ## Cincinnati Contra Dance
+ - [http://www.cincinnaticontradance.org](http://www.cincinnaticontradance.org)
+ - date_published: 2024-08-15T23:48:41+00:00
+
+ ## Cincinnati & Hamilton County Public Library
+ - [https://cincinnatilibrary.org](https://cincinnatilibrary.org)
+ - date_published: 2024-10-27T21:07:04.672197+00:00
+
+ ## CONTENTdm
+ - [https://digital.cincinnatilibrary.org](https://digital.cincinnatilibrary.org)
+ - date_published: 2024-06-19T03:25:40.281484+00:00
+
  ## Home - Cincinnati Observatory
  - [https://www.cincinnatiobservatory.org](https://www.cincinnatiobservatory.org)
  - date_published: 2024-06-28T15:28:17.595875+00:00
@@ -3947,92 +4036,4 @@
  ## CompCert - Main page
  - [https://compcert.org](https://compcert.org)
  - date_published: 2024-05-02T14:59:00+00:00
-
- ## Computational Chemistry Highlights
- - [http://www.compchemhighlights.org](http://www.compchemhighlights.org)
- - date_published: 2024-12-29T22:17:43+00:00
-
- ## The Computational Democracy Project
- - [https://compdemocracy.org](https://compdemocracy.org)
- - date_published: 2024-07-09T08:12:21.761022+00:00
-
- ## Christian Truth
- - [https://www.compellingtruth.org](https://www.compellingtruth.org)
- - date_published: 2024-01-02T03:07:03+00:00
-
- ## Homepage - Compete
- - [http://www.compete.org](http://www.compete.org)
- - date_published: 2024-08-11T04:49:54.775008+00:00
-
- ## Compiler Research - Welcome to the Compiler Research Group
- - [https://compiler-research.org](https://compiler-research.org)
- - date_published: 2024-12-20T21:10:04+00:00
-
- ## The Changelog | Comments on family, technology, and society
- - [https://changelog.complete.org](https://changelog.complete.org)
- - date_published: 2023-10-25T21:09:18.866235+00:00
-
- ## www.complete.org
- - [https://complete.org](https://complete.org)
- - date_published: 2023-10-25T21:09:19.979371+00:00
-
- ## Complete College Georgia | Complete College Georgia
- - [http://www.completegeorgia.org](http://www.completegeorgia.org)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Component Driven User Interfaces
- - [https://componentdriven.org](https://componentdriven.org)
- - date_published: 2024-04-30T05:31:23.943754+00:00
-
- ## Addons, plugins and components | Componette
- - [https://componette.org](https://componette.org)
- - date_published: 2024-07-08T10:44:16.488329+00:00
-
- ## Compositionality
- - [https://compositionality-journal.org](https://compositionality-journal.org)
- - date_published: 2024-06-22T05:52:22.512825+00:00
-
- ## Compoze
- - [https://app.compoze.org](https://app.compoze.org)
- - date_published: 2024-08-18T19:59:42.338677+00:00
-
- ## Compoze
- - [https://compoze.org](https://compoze.org)
- - date_published: 2023-10-25T21:09:21.237236+00:00
-
- ## Home | Computational Story Lab
- - [https://compstorylab.org](https://compstorylab.org)
- - date_published: 2024-05-07T22:15:59.796392+00:00
-
- ## Comptel Plus - networking  opportunities
- - [http://www.comptelplus.org](http://www.comptelplus.org)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Index - CompTIA Marketplace Academic
- - [https://academic-store.comptia.org](https://academic-store.comptia.org)
- - date_published: 2024-10-07T23:00:39.381704+00:00
-
- ## Information Technology (IT) Certifications & Training | CompTIA
- - [https://certification.comptia.org](https://certification.comptia.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## CompTIA Instructors Network
- - [https://cin.comptia.org](https://cin.comptia.org)
- - date_published: 2024-10-07T22:55:06+00:00
-
- ## Information Technology (IT) Certifications & Training | CompTIA
- - [http://comptia.org](http://comptia.org)
- - date_published: 2024-10-03T00:00:00+00:00
-
- ## Information Technology (IT) Association | CompTIA Community
- - [https://connect.comptia.org](https://connect.comptia.org)
- - date_published: 2024-06-16T13:51:38.151881+00:00
-
- ## IIS Windows Server
- - [https://imis2019.comptia.org](https://imis2019.comptia.org)
- - date_published: 2018-06-28T16:56:55+00:00
-
- ## Login | CompTIA
- - [https://login.comptia.org](https://login.comptia.org)
- - date_published: 2024-06-10T13:47:04+00:00
 

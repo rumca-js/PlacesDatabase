@@ -1,4 +1,12 @@
  ## MUD | Framework for onchain applications
+ - [https://mud-docs-745xgsyv9-latticexyz.vercel.app](https://mud-docs-745xgsyv9-latticexyz.vercel.app)
+ - date_published: 2024-09-04T12:29:40.311260+00:00
+
+ ## MUD | Framework for onchain applications
+ - [https://mud-docs-eyx95g543-latticexyz.vercel.app](https://mud-docs-eyx95g543-latticexyz.vercel.app)
+ - date_published: 2024-09-21T23:27:37.993336+00:00
+
+ ## MUD | Framework for onchain applications
  - [https://mud-docs-o2hla2qt0-latticexyz.vercel.app](https://mud-docs-o2hla2qt0-latticexyz.vercel.app)
  - date_published: 2024-06-04T12:50:57.860875+00:00
 
@@ -982,6 +990,10 @@
  ## Polygon @ ETH Denver
  - [https://welcome-to-cardona.vercel.app](https://welcome-to-cardona.vercel.app)
  - date_published: 2024-09-25T12:10:46.114046+00:00
+
+ ## Spotify to YouTube Music Transfer
+ - [https://wemor.vercel.app](https://wemor.vercel.app)
+ - date_published: 2025-01-04T16:44:49.466255+00:00
 
  ## Create Next App
  - [https://wf-cms-hr.vercel.app](https://wf-cms-hr.vercel.app)
@@ -4019,16 +4031,4 @@
  ## Jeremias Pettinen
  - [https://jeremi.as](https://jeremi.as)
  - date_published: 2023-02-04T10:36:06+00:00
-
- ## Josias Marti
- - [https://josi.as](https://josi.as)
- - date_published: 2024-07-13T04:25:48.072040+00:00
-
- ## About Anna
- - [https://anna.kazlausk.as](https://anna.kazlausk.as)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Magenta
- - [https://magenta.as](https://magenta.as)
- - date_published: 2024-05-08T03:04:18.911992+00:00
 

@@ -1,3 +1,15 @@
+ ## Popeye the Sailorpedia
+ - [https://popeye.fandom.com](https://popeye.fandom.com)
+ - date_published: 2024-06-17T16:30:04+00:00
+
+ ## The Popgoes Pizzeria Wikia
+ - [https://popgoes-pizzeria.fandom.com](https://popgoes-pizzeria.fandom.com)
+ - date_published: 2024-10-24T17:23:48+00:00
+
+ ## Pop It Pets Wiki
+ - [https://popitpets.fandom.com](https://popitpets.fandom.com)
+ - date_published: 2024-09-03T09:55:04+00:00
+
  ## Pop'n Music Wiki
  - [https://popnmusic.fandom.com](https://popnmusic.fandom.com)
  - date_published: 2024-06-17T19:42:53+00:00
@@ -3987,16 +3999,4 @@
  ## The Karate Kid Wiki
  - [https://thekaratekid.fandom.com](https://thekaratekid.fandom.com)
  - date_published: 2024-06-16T21:09:45+00:00
-
- ## The Kingdoms of Ruin Wiki
- - [https://the-kingdoms-of-ruin.fandom.com](https://the-kingdoms-of-ruin.fandom.com)
- - date_published: 2024-06-17T20:59:57+00:00
-
- ## The Land Before Time Fanon Wikia
- - [https://the-land-before-time-fanon.fandom.com](https://the-land-before-time-fanon.fandom.com)
- - date_published: 2024-06-17T02:39:20+00:00
-
- ## The Land of Boggs Fanon Wiki
- - [https://the-land-of-boggs-fanon.fandom.com](https://the-land-of-boggs-fanon.fandom.com)
- - date_published: 2024-06-17T08:53:57+00:00
 

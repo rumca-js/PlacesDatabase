@@ -1,3 +1,77 @@
+ ## Andrew Ayer
+ - [https://andrewayer.name](https://andrewayer.name)
+ - date_published: 2024-07-18T21:19:24+00:00
+
+ ## The Anthropocene: A History of the World – A graduate course at Umeå University
+ - [http://anthropocene.name](http://anthropocene.name)
+ - date_published: 2021-06-07T07:54:36+00:00
+
+ ## Under Construction
+ - [https://daniel.benoy.name](https://daniel.benoy.name)
+ - date_published: 2023-04-30T16:33:56+00:00
+
+ ## Guido Berhörster — Home
+ - [https://guido.berhoerster.name](https://guido.berhoerster.name)
+ - date_published: 2023-11-19T09:05:30+00:00
+
+ ## Bill Sullivan
+ - [https://billsullivan.name](https://billsullivan.name)
+ - date_published: 2024-05-11T10:23:17.138856+00:00
+
+ ## Book Like A Boss - Login
+ - [https://bookme.name](https://bookme.name)
+ - date_published: 2024-07-19T16:53:28.445393+00:00
+
+ ## Bran van der Meer
+ - [https://bran.name](https://bran.name)
+ - date_published: 2023-12-21T00:00:00+00:00
+
+ ## Erik’s Ponderings
+ - [https://blog.bruchez.name](https://blog.bruchez.name)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## cabel.name
+ - [https://cabel.name](https://cabel.name)
+ - date_published: 2020-04-15T05:09:26+00:00
+
+ ## Celti Burroughs
+ - [https://celti.name](https://celti.name)
+ - date_published: 2022-06-26T20:57:37+00:00
+
+ ## Chris Down, Linux SRE
+ - [https://chrisdown.name](https://chrisdown.name)
+ - date_published: 2024-01-07T09:18:35.832838+00:00
+ - tags: ['personal']
+
+ ## Éric COLAS, psychologue, psychothérapeute, psychanalyste, à Fontenay-aux-roses
+ - [https://colas.name](https://colas.name)
+ - date_published: 2017-06-11T00:00:00+00:00
+
+ ## Colin Cogle
+ - [https://colincogle.name](https://colincogle.name)
+ - date_published: 2023-11-16T09:28:41.834795+00:00
+
+ ## Mastodon
+ - [https://mastodon.colincogle.name](https://mastodon.colincogle.name)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Andrea Corbellini
+ - [https://andrea.corbellini.name](https://andrea.corbellini.name)
+ - date_published: 2023-10-25T09:22:47.663172+00:00
+ - tags: ['personal']
+
+ ## csl.name
+ - [https://csl.name](https://csl.name)
+ - date_published: 2024-06-03T06:26:47.670354+00:00
+
+ ## csl.name
+ - [http://ww38.csl.name](http://ww38.csl.name)
+ - date_published: 2024-09-04T07:27:53.302848+00:00
+
+ ## The Dan MacKinlay stable of variably-well-consider’d enterprises - Welcome to Dan’s brain
+ - [https://danmackinlay.name](https://danmackinlay.name)
+ - date_published: 2024-04-05T00:00:00+00:00
+
  ## Daniel Näslund
  - [https://dannas.name](https://dannas.name)
  - date_published: 2024-06-01T04:57:31.231675+00:00
@@ -3967,90 +4041,4 @@
  ## alpha new :: graphics programming and rendering research
  - [https://alphanew.net](https://alphanew.net)
  - date_published: 2024-05-30T00:00:00+00:00
-
- ## Comments from the rusty cage
- - [http://blog.alphascorpii.net](http://blog.alphascorpii.net)
- - date_published: 2024-07-09T08:11:29.243363+00:00
-
- ## Alpha Signals
- - [https://www.alphasignals.net](https://www.alphasignals.net)
- - date_published: 2024-06-23T18:48:03.836097+00:00
-
- ## Alpha Survivalist
- - [https://alphasurvivalist.net](https://alphasurvivalist.net)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Alpheios
- - [http://alpheios.net](http://alpheios.net)
- - date_published: 2023-12-31T16:31:11+00:00
-
- ## alpoma | ciencia, tecnología e historia – Web personal de Alejandro Polanco Masa (@alpoma)
- - [http://www.alpoma.net](http://www.alpoma.net)
- - date_published: 2024-06-24T09:38:47.396598+00:00
-
- ## ALS Therapy Development Institute
- - [https://www.als.net](https://www.als.net)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Altair & Vega
- - [http://altairandvega.net](http://altairandvega.net)
- - date_published: 2023-08-18T04:12:42+00:00
-
- ## Alpha Omega Labs: manufacturer of alternative health care products, 
- specializing in cancer care adjunctives and support (covering all types: 
- carcinomas, melanomas, gliomas, etc., including Cansema and CanSupport),
- skin cancer removal products (covering basal and squamous cell carcinomas,
- melanomas, etc.), and escharotic preparations (made famous through the Hoxsey
- clinics).  Other major lines include medicinal herbals from the Amazon, 
- bloodroot (for warts and moles), quick healing salves (using ozonated 
- olive oil), applied scalar wave technology to enhance properties of existing G.R.A.S.
- approved compounds (now used to produce acid water, alkaline water), bloodroot
- toothpaste (dentrifice that removes plaque, gets rid of gingivitis and for
- use with periodontal disease), pH strips.  Brands include 
- Bloodroot Paste, "Bloodroot" Toothpaste, Cansema Black Topical Salve,
- Cansema Capsules, Cansema Tonic III, CanSupport (Bone,
- Brain, Breast, Colorectal, Kidney / Liver, Leuke
- - [http://www.altcancer.net](http://www.altcancer.net)
- - date_published: 2021-03-22T19:50:08+00:00
-
- ## Alt Codes List of Alt Key Codes Symbols
- - [https://www.alt-codes.net](https://www.alt-codes.net)
- - date_published: 2024-05-02T13:56:53.462694+00:00
-
- ## Altered Innocence | LGBTQ & Coming-of-Age Cinema | United States
- - [https://www.alteredinnocence.net](https://www.alteredinnocence.net)
- - date_published: 2024-12-22T05:49:23.619284+00:00
-
- ## Home | Altered Origin
- - [http://www.alteredorigin.net](http://www.alteredorigin.net)
- - date_published: 2025-01-01T23:56:25.526730+00:00
-
- ## Alteridem
- - [https://alteridem.net](https://alteridem.net)
- - date_published: 2021-04-24T00:57:30+00:00
- - tags: ['personal']
-
- ## AlterMundi |
- - [http://altermundi.net](http://altermundi.net)
- - date_published: 2024-09-14T08:54:03.897012+00:00
-
- ## AlternativeTo - Crowdsourced software recommendations
- - [https://alternativeto.net](https://alternativeto.net)
- - date_published: 2023-10-25T20:24:38.121090+00:00
-
- ## Alt+H
- - [https://alt-h.net](https://alt-h.net)
- - date_published: 2024-05-09T07:20:02.308507+00:00
-
- ## Alt+H
- - [https://blog.alt-h.net](https://blog.alt-h.net)
- - date_published: 2024-07-10T03:12:33.717914+00:00
-
- ## Althea L1
- - [https://althea.net](https://althea.net)
- - date_published: 2024-08-08T21:20:36.950975+00:00
-
- ## Blogger
- - [http://www.altmaguk.net](http://www.altmaguk.net)
- - date_published: 2024-08-22T22:17:03.244886+00:00
 

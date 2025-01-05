@@ -1,3 +1,59 @@
+ ## soqr.fr Pascal Cauhépé
+ - [http://soqr.fr](http://soqr.fr)
+ - date_published: 2024-09-14T22:36:09.556818+00:00
+
+ ## Site officiel du Rectorat et de la Chancellerie des Universités de Paris
+ - [https://www.sorbonne.fr](https://www.sorbonne.fr)
+ - date_published: 2024-05-07T20:15:45.464194+00:00
+
+ ## Université Paris 13
+ - [https://www.sorbonne-paris-nord.fr](https://www.sorbonne-paris-nord.fr)
+ - date_published: 2024-07-20T12:08:22.128551+00:00
+
+ ## Sorbonne Université| Sorbonne université
+ - [https://www.sorbonne-universite.fr](https://www.sorbonne-universite.fr)
+ - date_published: 2024-06-29T17:18:55+00:00
+
+ ## sortir-du-rsa.fr
+ - [https://sortir-du-rsa.fr](https://sortir-du-rsa.fr)
+ - date_published: 2024-06-15T01:03:45.126559+00:00
+
+ ## Communauté Sosh
+ - [https://communaute.sosh.fr](https://communaute.sosh.fr)
+ - date_published: 2024-06-16T08:18:18.119527+00:00
+
+ ## MySosh
+ - [https://mysosh.sosh.fr](https://mysosh.sosh.fr)
+ - date_published: 2024-06-16T08:18:32.084588+00:00
+
+ ## Sosh sans engagement: forfaits mobiles, internet fibre et téléphones mobiles
+ - [https://shop.sosh.fr](https://shop.sosh.fr)
+ - date_published: 2024-06-16T08:18:29.607950+00:00
+
+ ## Sosh sans engagement: forfaits mobiles, internet fibre et téléphones mobiles
+ - [https://www.sosh.fr](https://www.sosh.fr)
+ - date_published: 2024-05-01T06:03:50.968726+00:00
+
+ ## SOS Médecins France
+ - [http://www.sosmedecins-france.fr](http://www.sosmedecins-france.fr)
+ - date_published: 2024-10-22T18:30:12.170271+00:00
+
+ ## Bienvenue sur SOS Nature Environnement -
+ - [https://sos-naturenvironnement.fr](https://sos-naturenvironnement.fr)
+ - date_published: 2024-12-22T01:51:01.494227+00:00
+
+ ## SOStech – Permettre à tous d'accéder aux opportunités offertes par le numérique
+ - [https://sostech.fr](https://sostech.fr)
+ - date_published: 2024-09-15T20:53:29.530898+00:00
+
+ ## Forge soutade
+ - [https://forge.soutade.fr](https://forge.soutade.fr)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Jeux De Société | Space Cowboys | France
+ - [https://www.spacecowboys.fr](https://www.spacecowboys.fr)
+ - date_published: 2024-07-13T11:39:31.889860+00:00
+
  ## SPARTOO | Chaussures, sacs et vêtements | Livraison Gratuite
  - [https://www.spartoo.fr](https://www.spartoo.fr)
  - date_published: 2024-09-11T19:41:48.855860+00:00
@@ -3955,62 +4011,4 @@ Secrétariat d'État chargé de la Mer
  ## GitHub - expo/fyi: Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
  - [https://expo.fyi](https://expo.fyi)
  - date_published: 2024-07-07T03:05:35.595412+00:00
-
- ## Fluid – Мы делaем digital-дизaйн и рaзрaботку на Webflow
- - [https://fluid.fyi](https://fluid.fyi)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## GotGhosted.fyi
- - [https://www.gotghosted.fyi](https://www.gotghosted.fyi)
- - date_published: 2024-09-02T22:05:03+00:00
-
- ## Hirable
- - [https://hirable.fyi](https://hirable.fyi)
- - date_published: 2024-10-30T06:57:55.133227+00:00
-
- ## iliana.fyi
- - [https://iliana.fyi](https://iliana.fyi)
- - date_published: 2023-10-25T19:15:59.645382+00:00
-
- ## moon
- - [http://imogen.fyi](http://imogen.fyi)
- - date_published: 2024-07-13T15:16:37.741857+00:00
-
- ## An open system to manage data without a central server | IPFS
- - [https://ipfs.fyi](https://ipfs.fyi)
- - date_published: 2024-05-04T16:00:13.322326+00:00
-
- ## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date_published: 2024-01-09T18:46:42.354724+00:00
-
- ## Jochen Stierberger
- - [https://jochen.fyi](https://jochen.fyi)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Ken Zinser
- - [https://ken.fyi](https://ken.fyi)
- - date_published: 2024-02-12T08:32:03.708550+00:00
- - tags: ['personal']
-
- ## Konstantin
- - [https://kons.fyi](https://kons.fyi)
- - date_published: 2024-06-17T07:31:23.980763+00:00
-
- ## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
- - [https://layoffs.fyi](https://layoffs.fyi)
- - date_published: 2023-10-25T19:16:02.675285+00:00
- - tags: ['layoff', 'page tracker']
-
- ## le chef
- - [https://www.lechef.fyi](https://www.lechef.fyi)
- - date_published: 2024-09-09T13:41:41.915279+00:00
-
- ## Plausible · Web analytics
- - [https://al.levels.fyi](https://al.levels.fyi)
- - date_published: 2024-05-08T00:41:20.821116+00:00
-
- ## Levels.fyi | Salaries & Tools to Level Up Your Career
- - [https://levels.fyi](https://levels.fyi)
- - date_published: 2024-05-08T00:41:17.077556+00:00
 

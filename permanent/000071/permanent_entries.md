@@ -1,3 +1,15 @@
+ ## Joan Mora
+ - [http://joanmorawrites.blogspot.com](http://joanmorawrites.blogspot.com)
+ - date_published: 2024-10-17T22:58:00.720085+00:00
+
+ ## I Have Seen The Whole Of The Internet
+ - [http://joannecasey.blogspot.com](http://joannecasey.blogspot.com)
+ - date_published: 2024-07-09T05:52:30+00:00
+
+ ## Joanne Mattera Art Blog
+ - [http://joannemattera.blogspot.com](http://joannemattera.blogspot.com)
+ - date_published: 2024-06-24T06:43:27+00:00
+
  ## Jo-Anne's Ramblings
  - [http://jo-annemotherandnanna.blogspot.com](http://jo-annemotherandnanna.blogspot.com)
  - date_published: 2024-06-24T00:00:00+00:00
@@ -3995,16 +4007,4 @@
  ## Blogger
  - [http://littlecountrylost.blogspot.com](http://littlecountrylost.blogspot.com)
  - date_published: 2024-10-29T19:14:07.048275+00:00
-
- ## Little Devices That Could
- - [http://littledevicesthatcould.blogspot.com](http://littledevicesthatcould.blogspot.com)
- - date_published: 2024-05-11T13:33:31+00:00
-
- ## Little Flower Petals
- - [http://littleflowerpetals.blogspot.com](http://littleflowerpetals.blogspot.com)
- - date_published: 2024-03-17T06:24:13+00:00
-
- ## Little Fritz- Der Kriegshund
- - [http://littlefritz-dogofwar.blogspot.com](http://littlefritz-dogofwar.blogspot.com)
- - date_published: 2024-11-06T02:47:36+00:00
 

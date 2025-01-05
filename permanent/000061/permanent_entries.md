@@ -1,3 +1,15 @@
+ ## Home | bendellkarate
+ - [http://www.bendellkarate.com](http://www.bendellkarate.com)
+ - date_published: 2024-06-27T09:47:33.728706+00:00
+
+ ## Ben Denzer
+ - [https://bendenzer.com](https://bendenzer.com)
+ - date_published: 2024-07-04T01:53:53.889506+00:00
+
+ ## Bender APAC | Your partner for electrical safety
+ - [https://www.bender-apac.com](https://www.bender-apac.com)
+ - date_published: 2024-10-15T20:33:02.567895+00:00
+
  ## Bender Benelux | Uw partner voor elektrische veiligheid
  - [https://www.benderbenelux.com](https://www.benderbenelux.com)
  - date_published: 2024-10-15T20:33:05.596901+00:00
@@ -4024,16 +4036,4 @@
  ## Full-stack Programmatic Advertising Company | BidsCube
  - [https://bidscube.com](https://bidscube.com)
  - date_published: 2024-05-06T17:30:57.360612+00:00
-
- ## Bidspirit - Online auction portal
- - [https://bidspirit.com](https://bidspirit.com)
- - date_published: 2024-10-28T05:54:11.270726+00:00
-
- ## Bidspirit online auction management software for auction houses
- - [https://bidspirit-themes.com](https://bidspirit-themes.com)
- - date_published: 2024-10-28T05:54:02.041293+00:00
-
- ## Bidspotter.com | Industrial, Commercial, Plant and Machinery auctions
- - [https://bidspotter.com](https://bidspotter.com)
- - date_published: 2023-10-25T12:59:13.076928+00:00
 

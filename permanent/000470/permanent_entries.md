@@ -1,3 +1,115 @@
+ ## University of Aberdeen
+ - [https://abdn.ac.uk](https://abdn.ac.uk)
+ - date_published: 2024-10-17T06:28:31.305391+00:00
+
+ ## Online Degrees and Short Courses - University of Aberdeen | On-demand Learning
+ - [https://on.abdn.ac.uk](https://on.abdn.ac.uk)
+ - date_published: 2024-05-02T10:45:07.250981+00:00
+
+ ## University of Aberdeen
+ - [https://w3.abdn.ac.uk](https://w3.abdn.ac.uk)
+ - date_published: 2024-06-24T09:47:39.700835+00:00
+
+ ## University of Aberdeen
+ - [https://www.store.abdn.ac.uk](https://www.store.abdn.ac.uk)
+ - date_published: 2024-05-02T10:45:06.401376+00:00
+
+ ## Prifysgol Aberystwyth University
+ - [https://shop.aber.ac.uk](https://shop.aber.ac.uk)
+ - date_published: 2024-10-16T09:53:30.043923+00:00
+
+ ## Aberystwyth University: Top in England and Wales for Student Satisfaction
+ - [http://www.aber.ac.uk](http://www.aber.ac.uk)
+ - date_published: 2024-10-22T17:06:03.157081+00:00
+
+ ## Home | Abertay University
+ - [https://idp0.abertay.ac.uk](https://idp0.abertay.ac.uk)
+ - date_published: 2021-09-14T14:35:39+00:00
+
+ ## Abertay University
+ - [https://rke.abertay.ac.uk](https://rke.abertay.ac.uk)
+ - date_published: 2024-06-23T20:17:06.108651+00:00
+
+ ## Home | Abertay University
+ - [https://www.abertay.ac.uk](https://www.abertay.ac.uk)
+ - date_published: 2021-09-14T14:35:39+00:00
+
+ ## Access to Higher Education
+ - [https://www.accesstohe.ac.uk](https://www.accesstohe.ac.uk)
+ - date_published: 2024-07-12T18:23:35.480265+00:00
+
+ ## The Association of Commonwealth Universities | ACU
+ - [https://www.acu.ac.uk](https://www.acu.ac.uk)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home
+ - [https://ada.ac.uk](https://ada.ac.uk)
+ - date_published: 2024-07-02T20:03:04.836166+00:00
+
+ ## Home | Advance HE
+ - [https://advance-he.ac.uk](https://advance-he.ac.uk)
+ - date_published: 2024-06-17T05:39:23.248230+00:00
+
+ ## Arts and Humanities Research Council (AHRC)
+ - [http://www.ahrc.ac.uk](http://www.ahrc.ac.uk)
+ - date_published: 2024-10-20T06:13:19.872724+00:00
+
+ ## UKAT - UK Archival Thesaurus | Home
+ - [http://www.aim25.ac.uk](http://www.aim25.ac.uk)
+ - date_published: 2024-07-02T10:13:30.786578+00:00
+
+ ## #ALTC
+ - [https://altc.alt.ac.uk](https://altc.alt.ac.uk)
+ - date_published: 2024-07-09T13:54:19.862586+00:00
+
+ ## University courses at ARU | Anglia Ruskin University - ARU
+ - [https://anglia.ac.uk](https://anglia.ac.uk)
+ - date_published: 2024-10-20T02:10:09.598977+00:00
+
+ ## Sign In
+ - [https://canvas.anglia.ac.uk](https://canvas.anglia.ac.uk)
+ - date_published: 2024-06-17T17:24:41.750684+00:00
+
+ ## Archaeology Data Service
+ - [https://archaeologydataservice.ac.uk](https://archaeologydataservice.ac.uk)
+ - date_published: 2024-05-02T10:55:01.466227+00:00
+
+ ## Log in - Your University Login - The University of Edinburgh
+ - [https://www.archer.ac.uk](https://www.archer.ac.uk)
+ - date_published: 1973-04-16T13:10:00+00:00
+
+ ## Blended and Online Distance Learning Courses | Arden University
+ - [https://arden.ac.uk](https://arden.ac.uk)
+ - date_published: 2024-07-04T05:23:04.150010+00:00
+
+ ## Arden University Virtual Tour | Explore in 360°
+ - [https://virtualtour.arden.ac.uk](https://virtualtour.arden.ac.uk)
+ - date_published: 2024-10-20T04:12:11.293341+00:00
+
+ ## Home | ARK - Access Research Knowledge
+ - [https://www.ark.ac.uk](https://www.ark.ac.uk)
+ - date_published: 2024-07-04T13:19:41.922948+00:00
+
+ ## University of the Arts London WebLogin
+ - [https://idp.arts.ac.uk](https://idp.arts.ac.uk)
+ - date_published: 2017-11-06T17:44:59+00:00
+
+ ## UAL homepage catalogue
+ - [https://libsearch.arts.ac.uk](https://libsearch.arts.ac.uk)
+ - date_published: 2024-09-07T22:49:31.804692+00:00
+
+ ## UAL
+ - [https://www.arts.ac.uk](https://www.arts.ac.uk)
+ - date_published: 2023-09-29T13:09:37+00:00
+
+ ## University courses at ARU | Anglia Ruskin University - ARU
+ - [https://aru.ac.uk](https://aru.ac.uk)
+ - date_published: 2024-05-02T10:50:14.850357+00:00
+
+ ## Creative Showcase - Anglia Ruskin Creative Showcase
+ - [https://creativeshowcase.aru.ac.uk](https://creativeshowcase.aru.ac.uk)
+ - date_published: 2024-05-02T10:50:19.429135+00:00
+
  ## Library - Library Support
  - [https://libanswers.aru.ac.uk](https://libanswers.aru.ac.uk)
  - date_published: 2024-03-25T00:00:00+00:00
@@ -3895,116 +4007,4 @@
  ## Home
  - [http://governance.admin.ox.ac.uk](http://governance.admin.ox.ac.uk)
  - date_published: 2024-06-14T09:43:18+00:00
-
- ## Home
- - [https://governance.web.ox.ac.uk](https://governance.web.ox.ac.uk)
- - date_published: 2024-06-17T09:01:24+00:00
-
- ## Home
- - [https://gradaccommodation.admin.ox.ac.uk](https://gradaccommodation.admin.ox.ac.uk)
- - date_published: 2024-10-20T07:11:02.374805+00:00
-
- ## hallmarkscampaign | Forged by the Hall
- - [https://hallmarkscampaign.seh.ox.ac.uk](https://hallmarkscampaign.seh.ox.ac.uk)
- - date_published: 2024-06-17T18:36:03.939423+00:00
-
- ## Home - Kellogg Student Handbook
- - [http://handbook.kellogg.ox.ac.uk](http://handbook.kellogg.ox.ac.uk)
- - date_published: 2024-06-17T18:45:08.709662+00:00
-
- ## Home
- - [https://help.it.ox.ac.uk](https://help.it.ox.ac.uk)
- - date_published: 2024-06-13T19:26:43+00:00
-
- ## BRAHMS: Oxford
- - [https://herbaria.plants.ox.ac.uk](https://herbaria.plants.ox.ac.uk)
- - date_published: 2024-06-17T18:19:15.365249+00:00
-
- ## Home - Keble College
- - [https://heritage.keble.ox.ac.uk](https://heritage.keble.ox.ac.uk)
- - date_published: 2020-04-23T00:00:00+00:00
-
- ## Welcome
- - [https://hoa.web.ox.ac.uk](https://hoa.web.ox.ac.uk)
- - date_published: 2024-06-17T10:40:39+00:00
-
- ## Home
- - [https://hr.admin.ox.ac.uk](https://hr.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:31:13+00:00
-
- ## Home
- - [https://hr.web.ox.ac.uk](https://hr.web.ox.ac.uk)
- - date_published: 2024-06-15T22:46:52+00:00
-
- ## Home
- - [https://hsm.ox.ac.uk](https://hsm.ox.ac.uk)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## Hub Home - Wolfson Hub
- - [https://hub.wolf.ox.ac.uk](https://hub.wolf.ox.ac.uk)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## IBME – Institute of Biomedical Engineering
- - [https://ibme.ox.ac.uk](https://ibme.ox.ac.uk)
- - date_published: 2024-06-17T19:00:11.835991+00:00
-
- ## Welcome
- - [https://imcc.web.ox.ac.uk](https://imcc.web.ox.ac.uk)
- - date_published: 2024-06-12T02:28:26+00:00
-
- ## Oxford University Innovation - Impact Report 2023
- - [https://impactreport2023.innovation.ox.ac.uk](https://impactreport2023.innovation.ox.ac.uk)
- - date_published: 2024-10-20T06:41:23.855990+00:00
-
- ## Oxford University Innovation Ltd.
- - [https://innovation.ox.ac.uk](https://innovation.ox.ac.uk)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.bioch.ox.ac.uk](https://intranet.bioch.ox.ac.uk)
- - date_published: 2024-06-17T18:34:03.424189+00:00
-
- ## Intranet login | ChCh Intranet | ChCh Intranet
- - [https://intranet.chch.ox.ac.uk](https://intranet.chch.ox.ac.uk)
- - date_published: 2024-06-17T18:33:54.860073+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.cs.ox.ac.uk](https://intranet.cs.ox.ac.uk)
- - date_published: 2024-05-02T10:58:34.840211+00:00
-
- ## Sign in to your account
- - [https://intranet.hertford.ox.ac.uk](https://intranet.hertford.ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.lmh.ox.ac.uk](https://intranet.lmh.ox.ac.uk)
- - date_published: 2024-06-17T18:34:23.663474+00:00
-
- ## Merton Intranet - not logged in home | Merton Intranet
- - [https://intranet.merton.ox.ac.uk](https://intranet.merton.ox.ac.uk)
- - date_published: 2024-06-17T18:35:42.490775+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.ndorms.ox.ac.uk](https://intranet.ndorms.ox.ac.uk)
- - date_published: 2024-06-17T18:45:22.756863+00:00
-
- ## Sign In
- - [https://intranet.nuff.ox.ac.uk](https://intranet.nuff.ox.ac.uk)
- - date_published: 2024-06-15T04:38:09.696455+00:00
-
- ## Sign in to your account
- - [https://intranet.oii.ox.ac.uk](https://intranet.oii.ox.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Faculty of Asian and Middle Eastern Studies Intranet - Faculty of Asian and Middle Eastern Intranet
- - [http://intranet.orient.ox.ac.uk](http://intranet.orient.ox.ac.uk)
- - date_published: 2024-06-17T18:45:52.872046+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.ouce.ox.ac.uk](https://intranet.ouce.ox.ac.uk)
- - date_published: 2024-06-17T18:58:12.723018+00:00
-
- ## Log in | Pathology Intranet
- - [https://intranet.path.ox.ac.uk](https://intranet.path.ox.ac.uk)
- - date_published: 2024-06-17T18:57:47.862456+00:00
 

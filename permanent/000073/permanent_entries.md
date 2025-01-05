@@ -1,3 +1,16 @@
+ ## Michael's Declarative Programming Blog
+ - [http://mmartedp.blogspot.com](http://mmartedp.blogspot.com)
+ - date_published: 2024-02-20T21:56:40+00:00
+
+ ## Musings of Michael McThrow
+ - [https://mmcthrow-musings.blogspot.com](https://mmcthrow-musings.blogspot.com)
+ - date_published: 2023-10-25T09:10:01.509820+00:00
+ - tags: ['personal']
+
+ ## M.M.E.F.  News
+ - [https://mmefnz.blogspot.com](https://mmefnz.blogspot.com)
+ - date_published: 2024-10-08T04:51:58+00:00
+
  ## Mikkelsen and 3D Graphics
  - [http://mmikkelsen3d.blogspot.com](http://mmikkelsen3d.blogspot.com)
  - date_published: 2024-02-20T20:24:49+00:00
@@ -3995,17 +4008,4 @@
  - [https://old-hammer.blogspot.com](https://old-hammer.blogspot.com)
  - date_published: 2024-05-17T13:13:00+00:00
  - tags: ['miniatures', 'warhammer', 'wargames']
-
- ## Oldhammer Finland
- - [http://oldhammerfinland.blogspot.com](http://oldhammerfinland.blogspot.com)
- - date_published: 2024-10-07T04:34:10+00:00
-
- ## Oldhammer Generals
- - [https://oldhammergenerals.blogspot.com](https://oldhammergenerals.blogspot.com)
- - date_published: 2014-05-07T00:00:00+00:00
- - tags: ['warhammer', 'miniatures']
-
- ## Oldhammer In The New World
- - [http://oldhammerinthenewworld.blogspot.com](http://oldhammerinthenewworld.blogspot.com)
- - date_published: 2024-05-24T09:34:58+00:00
 

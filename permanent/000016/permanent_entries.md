@@ -1,3 +1,15 @@
+ ## RTNB
+ - [https://rtnb.bi](https://rtnb.bi)
+ - date_published: 2024-06-19T18:12:34.460498+00:00
+
+ ## (no title)
+ - [https://catholic.bible](https://catholic.bible)
+ - date_published: 2024-08-11T23:11:32.991384+00:00
+
+ ## Worthy.Bible - Online Bible Study
+ - [https://worthy.bible](https://worthy.bible)
+ - date_published: 2024-05-07T16:12:12.926735+00:00
+
  ## 安心車マガジン - 中古車買取・車購入の情報メディア -
  - [https://car.jnow.bid](https://car.jnow.bid)
  - date_published: 2024-10-31T04:06:03+00:00
@@ -31,7 +43,7 @@
  - date_published: 2024-09-17T13:02:09+00:00
 
  ## polka dot bike
- - [http://polka.bike](http://polka.bike)
+ - [https://polka.bike](https://polka.bike)
  - date_published: 2018-07-21T00:10:32+00:00
 
  ## Poop Bike
@@ -39,19 +51,19 @@
  - date_published: 2023-10-26T15:16:41+00:00
 
  ## Speed Week – The Fastest Series in the Southeast
- - [http://speedweek.bike](http://speedweek.bike)
+ - [https://speedweek.bike](https://speedweek.bike)
  - date_published: 2024-06-30T12:23:22.560773+00:00
 
  ## That's Nasty Jazz
- - [http://spicy.bike](http://spicy.bike)
+ - [https://spicy.bike](https://spicy.bike)
  - date_published: 2019-08-22T19:50:30+00:00
 
  ## The Rift
- - [https://www.therift.bike](https://www.therift.bike)
+ - [https://therift.bike](https://therift.bike)
  - date_published: 2024-07-13T02:55:30.129959+00:00
 
  ## Tilt - Shared bicycles for residential campuses
- - [https://www.tilt.bike](https://www.tilt.bike)
+ - [https://tilt.bike](https://tilt.bike)
  - date_published: 2024-09-09T21:55:39.960245+00:00
 
  ## USE LESS CAR
@@ -59,7 +71,7 @@
  - date_published: 2023-02-28T09:05:09+00:00
 
  ## Venturo Adventure Machines - Venturo
- - [http://venturo.bike](http://venturo.bike)
+ - [https://venturo.bike](https://venturo.bike)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## base.bingo - base Zasoby i informacje.
@@ -117,6 +129,7 @@
  ## Build your online presence with Context. Your links - all in one place.
  - [https://ctx.bio](https://ctx.bio)
  - date_published: 2024-07-02T20:11:59.563833+00:00
+ - date_dead_since: 2025-01-04T19:38:44.533476+00:00
 
  ## Free URL Shortener, Branded Short Links & Analytics | Cuttly
  - [https://cutt.bio](https://cutt.bio)
@@ -127,7 +140,7 @@
  - date_published: 2024-08-18T22:58:43.581841+00:00
 
  ## Darnell (Bio)
- - [http://darnell.bio](http://darnell.bio)
+ - [https://darnell.bio](https://darnell.bio)
  - date_published: 2024-07-01T10:38:38.045278+00:00
 
  ## Diffuse Bio
@@ -135,11 +148,11 @@
  - date_published: 2024-09-14T02:01:15+00:00
 
  ## E11 Bio | Moonshot Neuroscience
- - [http://e11.bio](http://e11.bio)
+ - [https://e11.bio](https://e11.bio)
  - date_published: 2024-10-27T11:28:12.710285+00:00
 
  ## Performance and Longevity Optimization - Fount
- - [https://www.fount.bio](https://www.fount.bio)
+ - [https://fount.bio](https://fount.bio)
  - date_published: 2024-07-09T19:13:32.487789+00:00
 
  ## francis.bio - Ta strona jest na sprzedaż! - francis Zasoby i informacje.
@@ -163,7 +176,7 @@
  - date_published: 2024-07-13T03:44:44.294341+00:00
 
  ## IFOAM - Organics International | Home
- - [https://www.ifoam.bio](https://www.ifoam.bio)
+ - [https://ifoam.bio](https://ifoam.bio)
  - date_published: 2024-06-25T08:02:04+00:00
 
  ## Interface Biosciences
@@ -200,7 +213,7 @@
  - date_published: 2024-05-29T19:08:47+00:00
 
  ## Attention Required! | Cloudflare
- - [https://linklist.bio](https://linklist.bio)
+ - [http://linklist.bio](http://linklist.bio)
  - date_published: 2024-06-17T20:15:42.410609+00:00
 
  ## Linkr: Powerful link in bio for social creators and influencers
@@ -228,7 +241,7 @@
  - date_published: 2024-02-01T00:00:00+00:00
 
  ## Home - Mobai
- - [https://www.mobai.bio](https://www.mobai.bio)
+ - [https://mobai.bio](https://mobai.bio)
  - date_published: 2024-08-19T13:20:43.123306+00:00
 
  ## Home Mogu - mogu
@@ -247,20 +260,20 @@
  - [https://parallel.bio](https://parallel.bio)
  - date_published: 2024-10-31T12:21:58+00:00
 
+ ## Petri – Biotech pre-seed capital, support, and connections.
+ - [https://petri.bio](https://petri.bio)
+ - date_published: 2024-06-19T02:11:58.532463+00:00
+
  ## Wave Summit — a Free Virtual Event Supporting Women Founders in Bio
  - [https://wave.petri.bio](https://wave.petri.bio)
  - date_published: 2024-10-27T11:27:36.900521+00:00
 
- ## Petri – Biotech pre-seed capital, support, and connections.
- - [https://www.petri.bio](https://www.petri.bio)
- - date_published: 2024-06-19T02:11:58.532463+00:00
-
  ## Profluent
- - [https://www.profluent.bio](https://www.profluent.bio)
+ - [https://profluent.bio](https://profluent.bio)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Attention Required! | Cloudflare
- - [https://prolific.bio](https://prolific.bio)
+ - [http://prolific.bio](http://prolific.bio)
  - date_published: 2024-07-02T20:12:04.088719+00:00
 
  ## General Proximity | Induced-proximity medicine | San Francisco, CA, USA
@@ -276,7 +289,7 @@
  - date_published: 2024-12-24T10:28:36+00:00
 
  ## Rejuve Biotech
- - [https://www.rejuve.bio](https://www.rejuve.bio)
+ - [https://rejuve.bio](https://rejuve.bio)
  - date_published: 2024-09-25T15:00:00.128999+00:00
 
  ## Retro Bio
@@ -304,7 +317,7 @@
  - date_published: 2024-07-04T11:51:10+00:00
 
  ## DeepNet - Your Partner for Managed IT Services
- - [https://www.sym.bio](https://www.sym.bio)
+ - [https://sym.bio](https://sym.bio)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Tatta Bio
@@ -312,15 +325,15 @@
  - date_published: 2024-08-06T05:41:01.969441+00:00
 
  ## Tr1x | Tr1 Cell Therapy
- - [https://www.tr1x.bio](https://www.tr1x.bio)
+ - [https://tr1x.bio](https://tr1x.bio)
  - date_published: 2024-07-10T00:00:00+00:00
 
  ## turn.bio
- - [https://www.turn.bio](https://www.turn.bio)
+ - [https://turn.bio](https://turn.bio)
  - date_published: 2024-09-24T11:01:53.426604+00:00
 
  ## Home - ValleyDAO
- - [https://www.valleydao.bio](https://www.valleydao.bio)
+ - [https://valleydao.bio](https://valleydao.bio)
  - date_published: 2024-08-16T00:00:00+00:00
 
  ## vCrd.bio - Create & Share awesome vCards
@@ -352,15 +365,15 @@
  - date_published: 2023-12-11T19:29:04.855371+00:00
 
  ## Adept - The Charity Design Experts
- - [http://www.adeptdigital.biz](http://www.adeptdigital.biz)
+ - [https://adeptdigital.biz](https://adeptdigital.biz)
  - date_published: 2024-06-18T09:08:03.570681+00:00
 
  ## A-EON Technology Ltd www.a-eon.com
- - [http://a-eon.biz](http://a-eon.biz)
+ - [https://a-eon.biz](https://a-eon.biz)
  - date_published: 2024-09-03T23:28:24.395979+00:00
 
  ## Amiga.org - Index
- - [http://blog.a-eon.biz](http://blog.a-eon.biz)
+ - [https://blog.a-eon.biz](https://blog.a-eon.biz)
  - date_published: 2022-10-07T23:06:49+00:00
 
  ## GenAI for Business San Francisco 2024
@@ -376,11 +389,11 @@
  - date_published: 2024-12-22T09:24:02+00:00
 
  ## all-sorts websites
- - [http://all-sorts.biz](http://all-sorts.biz)
+ - [https://all-sorts.biz](https://all-sorts.biz)
  - date_published: 2024-04-11T21:14:22+00:00
 
  ## Plumbers in Omaha | American Rooter Plumbing
- - [https://www.americanrooter.biz](https://www.americanrooter.biz)
+ - [https://americanrooter.biz](https://americanrooter.biz)
  - date_published: 2024-02-01T00:00:00+00:00
 
  ## Amity
@@ -412,7 +425,7 @@
  - date_published: 2024-05-20T14:33:05+00:00
 
  ## Barnhardt | Judica me, Deus, et discerne causam meam de gente non sancta.
- - [http://barnhardt.biz](http://barnhardt.biz)
+ - [https://barnhardt.biz](https://barnhardt.biz)
  - date_published: 2024-07-01T08:56:49.312264+00:00
 
  ## basher | front-end web developer & accessibility advocate
@@ -436,11 +449,11 @@
  - date_published: 2024-12-22T10:12:29+00:00
 
  ## Home
- - [http://www.beyondgames.biz](http://www.beyondgames.biz)
+ - [https://beyondgames.biz](https://beyondgames.biz)
  - date_published: 2024-10-22T18:16:44.812586+00:00
 
  ## Pro Posts – Billboard
- - [https://www.billboard.biz](https://www.billboard.biz)
+ - [https://billboard.biz](https://billboard.biz)
  - date_published: 2024-05-06T20:59:32.618966+00:00
 
  ## BitChain Explorer
@@ -448,7 +461,7 @@
  - date_published: 2023-08-25T08:03:09+00:00
 
  ## Bivio Software
- - [http://www.bivio.biz](http://www.bivio.biz)
+ - [https://bivio.biz](https://bivio.biz)
  - date_published: 2024-09-03T23:51:10.878052+00:00
 
  ## 【企業向け】 | 中途採用| 採用ご担当者様
@@ -456,7 +469,7 @@
  - date_published: 2024-10-25T23:28:06.160154+00:00
 
  ## BlockchainGamerBiz - Where blockchain meets the games industry
- - [https://www.blockchaingamer.biz](https://www.blockchaingamer.biz)
+ - [https://blockchaingamer.biz](https://blockchaingamer.biz)
  - date_published: 2024-06-07T00:00:00+00:00
 
  ## BlockEx
@@ -464,7 +477,7 @@
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## Booky - Your financial ally
- - [https://booky.biz](https://booky.biz)
+ - [http://booky.biz](http://booky.biz)
  - date_published: 2024-07-10T00:00:00+00:00
 
  ## borderline.biz
@@ -476,7 +489,7 @@
  - date_published: 2024-10-23T07:08:19.282039+00:00
 
  ## BrightSign® Digital Signage Players
- - [https://www.brightsign.biz](https://www.brightsign.biz)
+ - [https://brightsign.biz](https://brightsign.biz)
  - date_published: 2024-06-24T00:00:00+00:00
 
  ## BurnettMusic.BIZ – Portal to our digital properties.
@@ -489,7 +502,7 @@
  - date_published: 2024-05-10T00:00:00+00:00
 
  ## Home
- - [http://www.business-opportunities.biz](http://www.business-opportunities.biz)
+ - [https://business-opportunities.biz](https://business-opportunities.biz)
  - date_published: 2024-05-21T00:00:00+00:00
 
  ## Buymanager Home Page - Buymanager
@@ -501,11 +514,11 @@
  - date_published: 2024-11-16T19:25:08+00:00
 
  ## domov | BzZzZ - agencija za tržno in spletno komuniciranje
- - [http://www.bzzzz.biz](http://www.bzzzz.biz)
+ - [http://bzzzz.biz](http://bzzzz.biz)
  - date_published: 2024-07-08T11:19:48+00:00
 
  ## ggerihun – website go brrrrrrrrrr
- - [http://ggerihun.c1.biz](http://ggerihun.c1.biz)
+ - [https://ggerihun.c1.biz](https://ggerihun.c1.biz)
  - date_published: 2024-08-18T04:32:29.528036+00:00
 
  ## Broadband Communications Provider
@@ -533,7 +546,7 @@
  - date_published: 2024-10-21T11:50:58.274219+00:00
 
  ## 中钨合金科技（莆田）有限公司,高比重钨合金，硬质合金
- - [http://www.china-tungsten.biz](http://www.china-tungsten.biz)
+ - [http://china-tungsten.biz](http://china-tungsten.biz)
  - date_published: 2023-12-06T10:47:13+00:00
 
  ## Basic business page
@@ -545,12 +558,16 @@
  - date_published: 2024-07-11T16:09:06.538636+00:00
 
  ## Collateral Damage
- - [http://www.collateraldamage.biz](http://www.collateraldamage.biz)
+ - [https://collateraldamage.biz](https://collateraldamage.biz)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Best Choice Award
  - [https://bcaward.computex.biz](https://bcaward.computex.biz)
  - date_published: 2024-05-04T07:04:25.483618+00:00
+
+ ## COMPUTEX TAIPEI - Building Global Technology Ecosystem
+ - [https://computex.biz](https://computex.biz)
+ - date_published: 2024-06-19T23:06:01.378937+00:00
 
  ## COMPUTEX TAIPEI
  - [https://my.computex.biz](https://my.computex.biz)
@@ -559,10 +576,6 @@
  ## COMPUTEX TAIPEI - Building Global Technology Ecosystem
  - [https://show.computex.biz](https://show.computex.biz)
  - date_published: 2024-06-19T23:05:45.281526+00:00
-
- ## COMPUTEX TAIPEI - Building Global Technology Ecosystem
- - [http://www.computex.biz](http://www.computex.biz)
- - date_published: 2024-06-19T23:06:01.378937+00:00
 
  ## culinarycrush | For Ambitious Home Cooks
  - [https://culinarycrush.biz](https://culinarycrush.biz)
@@ -581,11 +594,11 @@
  - date_published: 2016-06-28T07:42:45+00:00
 
  ## Del Pueblo Cafe
- - [https://www.delpueblocafe.biz](https://www.delpueblocafe.biz)
+ - [https://delpueblocafe.biz](https://delpueblocafe.biz)
  - date_published: 2024-05-13T16:16:32+00:00
 
  ## Free email course
- - [https://www.derekhughes.biz](https://www.derekhughes.biz)
+ - [https://derekhughes.biz](https://derekhughes.biz)
  - date_published: 2024-08-09T08:28:22+00:00
 
  ## Digital Research - Home
@@ -594,7 +607,7 @@
  - tags: ['co/m', 'operating system']
 
  ## Distinctive Dining
- - [http://www.distinctivedining.biz](http://www.distinctivedining.biz)
+ - [https://distinctivedining.biz](https://distinctivedining.biz)
  - date_published: 2024-07-17T08:53:36.627961+00:00
 
  ## Submission Portal
@@ -616,6 +629,7 @@
  ## Global Mobile Money Blockchain Gateway | EKAASH
  - [https://ekaash.biz](https://ekaash.biz)
  - date_published: 2024-09-24T04:53:05.626198+00:00
+ - date_dead_since: 2025-01-04T20:11:50.466584+00:00
 
  ## Home - ekOlandia
  - [https://ekolandia.biz](https://ekolandia.biz)
@@ -638,11 +652,11 @@
  - date_published: 2024-10-14T02:26:33+00:00
 
  ## Index of /
- - [http://mirror.ette.biz](http://mirror.ette.biz)
+ - [https://mirror.ette.biz](https://mirror.ette.biz)
  - date_published: 2024-07-20T15:58:40.773073+00:00
 
  ## EVEN | Buy The Art From The Artist
- - [https://www.even.biz](https://www.even.biz)
+ - [https://even.biz](https://even.biz)
  - date_published: 2024-08-27T18:48:02+00:00
 
  ## eventually business
@@ -666,7 +680,7 @@
  - date_published: 2023-08-25T17:44:00+00:00
 
  ## Small Press Publisher | Fantastic Books And Gray Rabbit Publications
- - [http://www.fantasticbooks.biz](http://www.fantasticbooks.biz)
+ - [https://fantasticbooks.biz](https://fantasticbooks.biz)
  - date_published: 2024-10-27T18:24:52.750222+00:00
 
  ## WELCOME TO FA$TCA$HMONEYPLU$.biz
@@ -674,11 +688,11 @@
  - date_published: 2024-06-07T15:59:22+00:00
 
  ## flyte new media - Digital Marketing + Web Design Agency, Portland, Maine
- - [http://www.flyte.biz](http://www.flyte.biz)
+ - [http://flyte.biz](http://flyte.biz)
  - date_published: 2024-10-19T07:06:40.464351+00:00
 
  ## 【公式】フォレックステスター（ Forex Tester ） 正規日本代理店 サイト
- - [https://www.forextester.biz](https://www.forextester.biz)
+ - [https://forextester.biz](https://forextester.biz)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Fukusuke
@@ -690,7 +704,7 @@
  - date_published: 2024-05-11T03:45:45+00:00
 
  ## Find businesses and services in Australia
- - [https://www.fyple.biz](https://www.fyple.biz)
+ - [https://fyple.biz](https://fyple.biz)
  - date_published: 2024-06-29T18:25:41.942492+00:00
 
  ## Gabriel Gambetta - Actor
@@ -698,7 +712,7 @@
  - date_published: 2023-11-15T09:46:56+00:00
 
  ## Welcome to GDN
- - [https://www.gamedevelopersnetwork.biz](https://www.gamedevelopersnetwork.biz)
+ - [https://gamedevelopersnetwork.biz](https://gamedevelopersnetwork.biz)
  - date_published: 2024-08-19T23:58:10.719965+00:00
 
  ## GamesIndustry.biz
@@ -710,11 +724,11 @@
  - date_published: 2024-09-10T08:38:51+00:00
 
  ## Jerry Gaus -- University of Arizona, Philosophy
- - [http://www.gaus.biz](http://www.gaus.biz)
+ - [https://gaus.biz](https://gaus.biz)
  - date_published: 2023-02-24T15:20:25+00:00
 
  ## glinet.biz
- - [https://www.glinet.biz](https://www.glinet.biz)
+ - [https://glinet.biz](https://glinet.biz)
  - date_published: 2023-10-30T09:10:10+00:00
 
  ## GrayBits
@@ -722,7 +736,7 @@
  - date_published: 2024-06-19T16:14:03.289123+00:00
 
  ## HD-Systems
- - [http://www.hd-systems.biz](http://www.hd-systems.biz)
+ - [https://hd-systems.biz](https://hd-systems.biz)
  - date_published: 2015-11-05T00:00:00+00:00
 
  ## HELLER | CNC-Werkzeugmaschinen für die Zerspanung
@@ -734,7 +748,7 @@
  - date_published: 2024-09-18T15:33:03.041817+00:00
 
  ## hovi.biz webdesign Berlin | Brandenburg | Falkensee – Webdesign aus Falkensee ★ Webdesign ★ Webhosting ★ Optimierung Ihrer Webseite
- - [http://www.hovi.biz](http://www.hovi.biz)
+ - [https://hovi.biz](https://hovi.biz)
  - date_published: 2024-09-17T19:16:47+00:00
 
  ## Law Offices of Zulu Ali, Attorney, 2900 Adams St Ste C13
@@ -782,11 +796,11 @@
  - date_published: 2024-01-09T02:26:34.981879+00:00
 
  ## Hyperion Entertainment
- - [http://hyperion-entertainment.biz](http://hyperion-entertainment.biz)
+ - [https://hyperion-entertainment.biz](https://hyperion-entertainment.biz)
  - date_published: 2024-07-08T19:11:51+00:00
 
  ## Ian Berry - conversations that count
- - [https://ianberry.biz](https://ianberry.biz)
+ - [http://ianberry.biz](http://ianberry.biz)
  - date_published: 2024-01-29T00:00:00+00:00
 
  ## Ibizcard
@@ -794,7 +808,7 @@
  - date_published: 2024-08-20T04:14:19.172035+00:00
 
  ## ibm.biz
- - [http://ibm.biz](http://ibm.biz)
+ - [https://ibm.biz](https://ibm.biz)
  - date_published: 2024-06-17T15:33:11+00:00
 
  ## Icecat: open feed with product information, data-sheets for ecommerce.
@@ -806,11 +820,11 @@
  - date_published: 2024-09-03T09:58:14+00:00
 
  ## iDeus - Expert PHP, React, and TypeScript Web Solutions for Your Business Needs
- - [http://eu.ideus.biz](http://eu.ideus.biz)
+ - [https://eu.ideus.biz](https://eu.ideus.biz)
  - date_published: 2024-06-22T23:19:18.983725+00:00
 
  ## İdman və Biz - Qələbə ritmindəyik! - Ən son idman xəbərləri - Futbol, Güləş, Cüdo, Gimnastika, Şahmat, Boks
- - [https://www.idman.biz](https://www.idman.biz)
+ - [https://idman.biz](https://idman.biz)
  - date_published: 2024-08-11T23:10:39.964887+00:00
 
  ## IN 30 MINUTES Guides & Cheat Sheets
@@ -826,19 +840,19 @@
  - date_published: 2024-05-12T06:14:09.956959+00:00
 
  ## Indieway Business Development Ecosystem for Game Developers
- - [https://www.indieway.biz](https://www.indieway.biz)
+ - [https://indieway.biz](https://indieway.biz)
  - date_published: 2024-10-17T21:50:33.699626+00:00
 
  ## Your essential guide to the business of influencer marketing | Influencer Update
- - [http://www.influencerupdate.biz](http://www.influencerupdate.biz)
+ - [https://influencerupdate.biz](https://influencerupdate.biz)
  - date_published: 2024-10-22T18:21:48.448425+00:00
 
  ## insightbydesign | insight is designed, not discovered
- - [https://www.insightbydesign.biz](https://www.insightbydesign.biz)
+ - [https://insightbydesign.biz](https://insightbydesign.biz)
  - date_published: 2024-06-20T04:07:10.775387+00:00
 
  ## Join the "CongIang" Community Discord Server!
- - [http://conlangcritic.insurancetravel.biz](http://conlangcritic.insurancetravel.biz)
+ - [https://conlangcritic.insurancetravel.biz](https://conlangcritic.insurancetravel.biz)
  - date_published: 2024-07-10T01:17:21+00:00
 
  ## Konto Interia
@@ -863,7 +877,7 @@
  - tags: ['personal']
 
  ## Jonas Lund
- - [http://jonaslund.biz](http://jonaslund.biz)
+ - [https://jonaslund.biz](https://jonaslund.biz)
  - date_published: 2024-08-19T17:09:54.111383+00:00
 
  ## Івент агентство Дядя Жора Company у Києві - найкраща агенція свят
@@ -875,7 +889,7 @@
  - date_published: 2024-06-19T16:22:40.327652+00:00
 
  ## カグア！ Creator Economy News
- - [http://www.kagua.biz](http://www.kagua.biz)
+ - [https://kagua.biz](https://kagua.biz)
  - date_published: 2024-05-04T00:00:00+00:00
 
  ## 菊水ホールディングス株式会社
@@ -883,12 +897,13 @@
  - date_published: 2024-01-09T00:00:00+00:00
 
  ## Tales from the Mac Hell
- - [https://www.korrupt.biz](https://www.korrupt.biz)
+ - [https://korrupt.biz](https://korrupt.biz)
  - date_published: 2024-07-02T18:00:37.537948+00:00
 
  ## Holiganbet Güncel Giriş Adresi | Bahis Casino Deneme Bonusu Veren Siteler - holiganbet giriş
  - [https://krasnoyarsk.biz](https://krasnoyarsk.biz)
  - date_published: 2024-09-06T19:55:07.462682+00:00
+ - date_dead_since: 2025-01-04T20:28:06.458048+00:00
 
  ## LINEキャンパス
  - [https://campus.line.biz](https://campus.line.biz)
@@ -915,7 +930,7 @@
  - date_published: 2024-10-31T10:31:19.008712+00:00
 
  ## Home - LightSpeed Development
- - [https://www.lsdev.biz](https://www.lsdev.biz)
+ - [http://lsdev.biz](http://lsdev.biz)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## Libriz – From the publisher of Lucire and Autocade
@@ -931,7 +946,7 @@
  - date_published: 2024-01-20T04:30:14+00:00
 
  ## Maximage
- - [http://www.maximage.biz](http://www.maximage.biz)
+ - [https://maximage.biz](https://maximage.biz)
  - date_published: 2024-07-13T16:25:23.443865+00:00
 
  ## Allah's Willing Executioners – Antisemitism, Antizionism, Jihadism and the Reunited Germany. News by Fred Alan Medforth
@@ -939,11 +954,11 @@
  - date_published: 2024-07-07T02:07:04.763251+00:00
 
  ## MEDPAGE TODAY - Digital Advertising & Marketing Solutions for the Life Science Industry
- - [https://www.medpagetoday.biz](https://www.medpagetoday.biz)
+ - [https://medpagetoday.biz](https://medpagetoday.biz)
  - date_published: 2024-08-19T07:57:14.551720+00:00
 
  ## Welcome to Merlin Entertainments
- - [https://www.merlinentertainments.biz](https://www.merlinentertainments.biz)
+ - [https://merlinentertainments.biz](https://merlinentertainments.biz)
  - date_published: 2024-06-24T11:32:35.057350+00:00
 
  ## Home - mida
@@ -967,15 +982,15 @@
  - date_published: 2023-10-25T10:47:38.913934+00:00
 
  ## Multiplo – new website coming soon
- - [http://multiplo.biz](http://multiplo.biz)
+ - [https://multiplo.biz](https://multiplo.biz)
  - date_published: 2023-04-03T00:00:00+00:00
 
  ## Home - My.biz
- - [https://www.my.biz](https://www.my.biz)
+ - [https://my.biz](https://my.biz)
  - date_published: 2024-06-16T07:42:49.030026+00:00
 
  ## Individual Personal Computer Tutor | The Computer Tutor
- - [https://www.mycomputertutor.biz](https://www.mycomputertutor.biz)
+ - [https://mycomputertutor.biz](https://mycomputertutor.biz)
  - date_published: 2024-03-18T00:00:00+00:00
 
  ## Netware Systems Private Limited - Bangalore
@@ -985,13 +1000,14 @@
  ## NS CDN
  - [https://ns-cdn.neustar.biz](https://ns-cdn.neustar.biz)
  - date_published: 2021-02-03T14:19:14+00:00
+ - date_dead_since: 2025-01-04T20:32:31.445252+00:00
 
  ## Error: Active domain connection for this domain not found
  - [https://research.neustar.biz](https://research.neustar.biz)
  - date_published: 2024-06-30T05:42:36+00:00
 
  ## Neustar Localeze | The Leader in Local Search & Local Listings
- - [https://neustarlocaleze.biz](https://neustarlocaleze.biz)
+ - [http://neustarlocaleze.biz](http://neustarlocaleze.biz)
  - date_published: 2024-05-07T13:30:11.938697+00:00
 
  ## Home | NewsIT
@@ -999,7 +1015,7 @@
  - date_published: 2024-10-30T00:50:46.771457+00:00
 
  ## nosquito .biz by rafaël rozendaal, 2005, collection of sébastien de ganay
- - [https://www.nosquito.biz](https://www.nosquito.biz)
+ - [https://nosquito.biz](https://nosquito.biz)
  - date_published: 2024-09-14T22:29:21+00:00
 
  ## OEEC.biz
@@ -1011,7 +1027,7 @@
  - date_published: 2024-09-09T16:59:04.499932+00:00
 
  ## Offshore-Energy.biz
- - [https://www.offshore-energy.biz](https://www.offshore-energy.biz)
+ - [https://offshore-energy.biz](https://offshore-energy.biz)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## OffshoreWIND.biz
@@ -1019,7 +1035,7 @@
  - date_published: 2024-12-10T20:43:52.126847+00:00
 
  ## OmniTel Communications - Fiber-Optic Solutions
- - [http://www.omnitel.biz](http://www.omnitel.biz)
+ - [https://omnitel.biz](https://omnitel.biz)
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## Online Solution GmbH – Softwareentwicklung und Lösungen für AdTech und Webplattformen
@@ -1031,7 +1047,7 @@
  - date_published: 2024-12-16T11:55:53.583579+00:00
 
  ## All the latest news about the business of PC Games | PC Games Insider
- - [https://www.pcgamesinsider.biz](https://www.pcgamesinsider.biz)
+ - [https://pcgamesinsider.biz](https://pcgamesinsider.biz)
  - date_published: 2024-06-18T16:12:58.416794+00:00
 
  ## penguinrandomhouse.biz
@@ -1051,11 +1067,11 @@
  - date_published: 2024-06-28T17:27:05.812206+00:00
 
  ## PlaneBase
- - [http://planebase.biz](http://planebase.biz)
+ - [https://planebase.biz](https://planebase.biz)
  - date_published: 2024-07-09T22:21:45.253832+00:00
 
  ## Mobile games industry news, discussion, analysis, opinion, events, jobs, and more
- - [https://www.pocketgamer.biz](https://www.pocketgamer.biz)
+ - [https://pocketgamer.biz](https://pocketgamer.biz)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## - PoolParty Linked Data Server - Taxonomies, Thesauri, Vocabularies
@@ -1067,11 +1083,11 @@
  - date_published: 2012-06-07T02:28:23+00:00
 
  ## Home
- - [http://prologix.biz](http://prologix.biz)
+ - [https://prologix.biz](https://prologix.biz)
  - date_published: 2024-10-15T22:14:05.508330+00:00
 
  ## Publication Studio
- - [https://www.publicationstudio.biz](https://www.publicationstudio.biz)
+ - [https://publicationstudio.biz](https://publicationstudio.biz)
  - date_published: 2018-06-26T00:00:00+00:00
 
  ## Purdue University Online | Online Master's Degrees and Non-Credit Programs - 
@@ -1084,11 +1100,11 @@
  - date_published: 2018-03-20T12:03:59+00:00
 
  ## penguinrandomhouse.biz
- - [http://www.randomhouse.biz](http://www.randomhouse.biz)
+ - [http://randomhouse.biz](http://randomhouse.biz)
  - date_published: 2023-02-08T20:14:20+00:00
 
  ## RD Motors Hamworthy MOT and Servicing specialists
- - [http://www.rdmotors.biz](http://www.rdmotors.biz)
+ - [https://rdmotors.biz](https://rdmotors.biz)
  - date_published: 2024-06-21T19:08:35.364483+00:00
 
  ## Real Money Pokies Australia 2024 - Play Real Pokies
@@ -1156,7 +1172,7 @@
  - date_published: 2024-04-17T00:00:00+00:00
 
  ## Welcome to nginx!
- - [http://imprints.simonandschuster.biz](http://imprints.simonandschuster.biz)
+ - [https://imprints.simonandschuster.biz](https://imprints.simonandschuster.biz)
  - date_published: 2018-04-17T15:22:36+00:00
 
  ## New Book Releases, Bestsellers, Author Info and more at Simon &amp; Schuster
@@ -1176,7 +1192,7 @@
  - date_published: 2021-04-14T01:15:55+00:00
 
  ## socialmedia.biz - Ta strona jest na sprzedaż! - socialmedia Zasoby i informacje.
- - [http://www.socialmedia.biz](http://www.socialmedia.biz)
+ - [https://socialmedia.biz](https://socialmedia.biz)
  - date_published: 2024-08-06T08:45:08+00:00
 
  ## spexonline.biz - spexonline Zasoby i informacje.
@@ -1188,7 +1204,7 @@
  - date_published: 2024-03-19T00:00:00+00:00
 
  ## spiralgraphics.biz is almost here!
- - [http://www.spiralgraphics.biz](http://www.spiralgraphics.biz)
+ - [http://spiralgraphics.biz](http://spiralgraphics.biz)
  - date_published: 2024-06-21T22:12:52+00:00
 
  ## สล็อตเว็บตรง เศรษฐีสล็อต99 Slot99 เว็บใหม่ สล็อตแจกเครดิตฟรีมากสุด
@@ -1217,20 +1233,20 @@
  - date_published: 2024-11-20T12:16:48+00:00
 
  ## Tawerna.biz - Mapy
- - [http://mapy.tawerna.biz](http://mapy.tawerna.biz)
+ - [https://mapy.tawerna.biz](https://mapy.tawerna.biz)
  - date_published: 2024-10-07T17:35:43.485332+00:00
 
  ## Tawerna.biz - Polski portal Heroes VII, VI, V, IV, III, II, I (7, 6, 5, 4, 3, 2, 1)
- - [https://www.tawerna.biz](https://www.tawerna.biz)
+ - [https://tawerna.biz](https://tawerna.biz)
  - date_published: 2024-08-18T04:23:05+00:00
  - tags: ['heroes', 'might and magic']
 
  ## Nabór do redakcji - rekrutacja otwarta
- - [http://zostan-redaktorem.tawerna.biz](http://zostan-redaktorem.tawerna.biz)
+ - [https://zostan-redaktorem.tawerna.biz](https://zostan-redaktorem.tawerna.biz)
  - date_published: 2024-10-07T17:28:16+00:00
 
  ## News
- - [https://www.teknovation.biz](https://www.teknovation.biz)
+ - [https://teknovation.biz](https://teknovation.biz)
  - date_published: 2024-07-02T12:17:40.399524+00:00
 
  ## Furniture & Interiors | Interiors by Soho House | Soho Home
@@ -1246,11 +1262,11 @@
  - date_published: 2024-10-29T23:55:16.761889+00:00
 
  ## dead fish – do not swim with the stream
- - [https://www.thomaskeller.biz](https://www.thomaskeller.biz)
+ - [https://thomaskeller.biz](https://thomaskeller.biz)
  - date_published: 2024-07-08T13:50:37.886064+00:00
 
  ## Trax Music App(hosted on DO)
- - [http://traxmusic.biz](http://traxmusic.biz)
+ - [https://traxmusic.biz](https://traxmusic.biz)
  - date_published: 2023-11-23T18:59:57+00:00
 
  ## Website Design and Development
@@ -1258,7 +1274,7 @@
  - date_published: 2024-12-27T19:28:44+00:00
 
  ## CherryRoad Media – UB Media – CherryRoad Media
- - [http://www.ubmedia.biz](http://www.ubmedia.biz)
+ - [https://ubmedia.biz](https://ubmedia.biz)
  - date_published: 2024-06-28T18:35:46.329134+00:00
 
  ## Urchin Software Corp. Vault
@@ -1268,9 +1284,10 @@
  ## esbooks.co.jp インターネットライフメディア Internet Life Media www.esbooks.co.jp
  - [http://www.uruknet.biz](http://www.uruknet.biz)
  - date_published: 2024-09-16T19:42:37.880234+00:00
+ - date_dead_since: 2025-01-04T20:40:11.566007+00:00
 
  ## Ventureconnects
- - [https://www.ventureconnects.biz](https://www.ventureconnects.biz)
+ - [https://ventureconnects.biz](https://ventureconnects.biz)
  - date_published: 2024-08-20T04:14:59.523139+00:00
 
  ## adch
@@ -1286,7 +1303,7 @@
  - date_published: 2024-11-26T14:51:44+00:00
 
  ## Sensor technology for industry and research - WayCon Positionsmesstechnik
- - [http://www.waycon.biz](http://www.waycon.biz)
+ - [https://waycon.biz](https://waycon.biz)
  - date_published: 2024-07-09T09:13:47.842893+00:00
 
  ## We Are Local!
@@ -1318,7 +1335,7 @@
  - date_published: 2024-05-08T10:33:16.746453+00:00
 
  ## WITTENSTEIN Benelux
- - [https://www.wittenstein.biz](https://www.wittenstein.biz)
+ - [https://wittenstein.biz](https://wittenstein.biz)
  - date_published: 2024-07-15T04:10:14.430916+00:00
 
  ## Wild Republic Retail
@@ -1338,16 +1355,16 @@
  - date_published: 2024-12-15T13:35:37.670691+00:00
 
  ## CFAO Motors - Citroën Bénin
- - [https://www.citroen.bj](https://www.citroen.bj)
+ - [https://citroen.bj](https://citroen.bj)
  - date_published: 2024-05-08T05:29:50.956902+00:00
+
+ ## Google
+ - [https://google.bj](https://google.bj)
+ - date_published: 2024-06-21T22:25:59.436792+00:00
 
  ## Grafika Google
  - [https://images.google.bj](https://images.google.bj)
  - date_published: 2024-07-20T07:38:58.825434+00:00
-
- ## Google
- - [https://www.google.bj](https://www.google.bj)
- - date_published: 2024-06-21T22:25:59.436792+00:00
 
  ## Internet Society Benin
  - [https://isoc.bj](https://isoc.bj)
@@ -1417,7 +1434,7 @@
  - tags: ['personal']
 
  ## About Blank®
- - [https://www.aboutblank.blog](https://www.aboutblank.blog)
+ - [https://aboutblank.blog](https://aboutblank.blog)
  - date_published: 2024-09-09T23:17:27.522857+00:00
 
  ## achyut
@@ -1517,11 +1534,11 @@
  - date_published: 2024-12-18T12:30:38+00:00
 
  ## Exploration of Life as a Neurodiverse Creative
- - [http://neurodiverse.art.blog](http://neurodiverse.art.blog)
+ - [https://neurodiverse.art.blog](https://neurodiverse.art.blog)
  - date_published: 2024-09-03T22:50:44.061559+00:00
 
  ## Que Sara Sara
- - [http://quesarasara.art.blog](http://quesarasara.art.blog)
+ - [https://quesarasara.art.blog](https://quesarasara.art.blog)
  - date_published: 2024-09-03T22:49:06.047323+00:00
 
  ## ARTificial.Blog
@@ -1533,7 +1550,7 @@
  - date_published: 2024-12-23T19:59:01.802907+00:00
 
  ## aspiblog
- - [http://aspi.blog](http://aspi.blog)
+ - [https://aspi.blog](https://aspi.blog)
  - date_published: 2024-09-03T22:52:07.067989+00:00
 
  ## Koen's blog
@@ -1543,6 +1560,7 @@
  ## Tero Auralinna's blog about web development
  - [https://auralinna.blog](https://auralinna.blog)
  - date_published: 2024-08-07T19:29:33.160791+00:00
+ - date_dead_since: 2025-01-04T20:48:59.003800+00:00
 
  ## awanderingmind - Home
  - [https://awanderingmind.blog](https://awanderingmind.blog)
@@ -1600,11 +1618,11 @@
  - date_published: 2024-12-14T22:27:24.301039+00:00
 
  ## A Dad trying to cope with the loss of his Partner and becoming a single parent.
- - [http://bereavedsingledad.blog](http://bereavedsingledad.blog)
+ - [https://bereavedsingledad.blog](https://bereavedsingledad.blog)
  - date_published: 2024-09-03T22:57:44.858917+00:00
 
  ## Besser lernen mit den richtigen Tipps, Tricks und Techniken!
- - [http://besser-lernen.blog](http://besser-lernen.blog)
+ - [https://besser-lernen.blog](https://besser-lernen.blog)
  - date_published: 2020-04-11T18:28:30+00:00
 
  ## The Best Interest - Invest in Knowledge
@@ -1612,7 +1630,7 @@
  - date_published: 2023-10-25T11:59:55.232003+00:00
 
  ## Error: Active domain connection for this domain not found
- - [https://betonit.blog](https://betonit.blog)
+ - [http://betonit.blog](http://betonit.blog)
  - date_published: 2024-06-21T23:20:34.165070+00:00
 
  ## bezpieczny.blog
@@ -1756,7 +1774,7 @@
 
  ## Code The Web — Web development explained for normal people
  - [https://codetheweb.blog](https://codetheweb.blog)
- - date_published: 2024-08-08T15:08:12.106438+00:00
+ - date_published: 2024-06-22T18:39:49+00:00
 
  ## The Code With Love Web Development Blog | Tech and Software Engineering
  - [https://codewithlove.blog](https://codewithlove.blog)
@@ -1765,10 +1783,12 @@
  ## codingkaiser.blog
  - [http://codingkaiser.blog](http://codingkaiser.blog)
  - date_published: 2023-10-25T11:29:52.059875+00:00
+ - date_dead_since: 2025-01-04T20:56:18.747552+00:00
 
  ## codingkaiser.blog
  - [http://ww11.codingkaiser.blog](http://ww11.codingkaiser.blog)
  - date_published: 2024-08-19T12:35:49.205954+00:00
+ - date_dead_since: 2025-01-04T20:56:18.945316+00:00
 
  ## From a technical expert to a leader ☕️🛫
  - [https://coffeejourneys.blog](https://coffeejourneys.blog)
@@ -1794,6 +1814,7 @@
  ## Koin50 : Situs Bandar Favorite 4D 3D 2D Terpercaya Full Pasti Lunas
  - [https://compiled.blog](https://compiled.blog)
  - date_published: 2024-06-20T06:01:33.623231+00:00
+ - date_dead_since: 2025-01-04T20:56:28.869666+00:00
 
  ## (no title)
  - [https://components4developers.blog](https://components4developers.blog)
@@ -1931,6 +1952,7 @@
  ## plaintext
  - [https://dmuhs.blog](https://dmuhs.blog)
  - date_published: 2024-05-05T00:00:00+00:00
+ - date_dead_since: 2025-01-04T21:00:14.444254+00:00
 
  ## [%titleForMeta%]
  - [http://doc.blog](http://doc.blog)
@@ -1940,6 +1962,7 @@
  - [https://doms.blog](https://doms.blog)
  - date_published: 2024-04-03T12:47:04.943694+00:00
  - tags: ['personal']
+ - date_dead_since: 2025-01-04T21:00:18.137630+00:00
 
  ## Technik Blog
  - [https://draeger-it.blog](https://draeger-it.blog)
@@ -1975,7 +1998,7 @@
  - date_published: 2024-06-17T11:00:11.401786+00:00
 
  ## El-Gar Tour of the World
- - [http://elgartravels.blog](http://elgartravels.blog)
+ - [https://elgartravels.blog](https://elgartravels.blog)
  - date_published: 2024-07-10T03:35:48.406810+00:00
 
  ## Eliot Andres - eliot.blog
@@ -2003,7 +2026,7 @@
  - date_published: 2024-01-05T10:38:31.333598+00:00
 
  ## Abscissa - Autism and Techno Blog
- - [http://esotericheartsareforever.blog](http://esotericheartsareforever.blog)
+ - [https://esotericheartsareforever.blog](https://esotericheartsareforever.blog)
  - date_published: 2024-09-03T23:06:58.056267+00:00
 
  ## Home
@@ -2013,20 +2036,21 @@
  - tags: ['personal']
 
  ## Everything Is Bullshit | David Pinsof | Substack
- - [https://www.everythingisbullshit.blog](https://www.everythingisbullshit.blog)
+ - [https://everythingisbullshit.blog](https://everythingisbullshit.blog)
  - date_published: 2024-04-22T00:00:00+00:00
 
  ## Fabric Of Happiness
  - [https://fabricofhappiness.blog](https://fabricofhappiness.blog)
  - date_published: 2023-12-13T06:04:10.402537+00:00
  - tags: ['personal']
+ - date_dead_since: 2025-01-04T21:01:56.523710+00:00
 
  ## fahmy.blog | home
- - [http://fahmy.blog](http://fahmy.blog)
+ - [https://fahmy.blog](https://fahmy.blog)
  - date_published: 2022-09-08T13:37:23+00:00
 
  ## Autistically Me
- - [http://autisticallyme.family.blog](http://autisticallyme.family.blog)
+ - [https://autisticallyme.family.blog](https://autisticallyme.family.blog)
  - date_published: 2024-09-03T23:08:03.791552+00:00
 
  ## Fediverse.blog ⋅ Plume
@@ -2046,7 +2070,7 @@
  - date_published: 2023-10-25T12:00:17.338871+00:00
 
  ## FIVE STARS
- - [https://www.fivestars.blog](https://www.fivestars.blog)
+ - [https://fivestars.blog](https://fivestars.blog)
  - date_published: 2022-05-09T10:53:11+00:00
 
  ## Flameeyes's Weblog
@@ -2066,7 +2090,7 @@
  - date_published: 2024-07-02T00:59:17+00:00
 
  ## Molded Memories
- - [http://moldedmemories.food.blog](http://moldedmemories.food.blog)
+ - [https://moldedmemories.food.blog](https://moldedmemories.food.blog)
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## Chronicles of a Fountain Pen
@@ -2074,11 +2098,11 @@
  - date_published: 2024-06-29T02:11:03+00:00
 
  ## Learn faster, Think better, and make Smart Decisions
- - [https://fs.blog](https://fs.blog)
+ - [http://fs.blog](http://fs.blog)
  - date_published: 2023-10-25T12:00:21.226812+00:00
 
  ## Fuse.kiwi - Interesting Internet
- - [http://fuse.blog](http://fuse.blog)
+ - [https://fuse.blog](https://fuse.blog)
  - date_published: 2024-07-13T15:34:31.108149+00:00
 
  ## Gabz/mL
@@ -2152,7 +2176,7 @@
  - date_published: 2023-10-25T11:32:12.073420+00:00
 
  ## Giulia in Finlandia -
- - [https://www.giuliainfinlandia.blog](https://www.giuliainfinlandia.blog)
+ - [https://giuliainfinlandia.blog](https://giuliainfinlandia.blog)
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## Home | etcetera
@@ -2168,7 +2192,7 @@
  - date_published: 2024-06-23T03:24:13+00:00
 
  ## Global Investigations & Compliance Review
- - [https://www.globalinvestigations.blog](https://www.globalinvestigations.blog)
+ - [https://globalinvestigations.blog](https://globalinvestigations.blog)
  - date_published: 2024-09-12T00:00:00+00:00
 
  ## GlotPress
@@ -2184,7 +2208,7 @@
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## The Got Questions Blog by S. Michael Houdmann
- - [https://www.gotquestions.blog](https://www.gotquestions.blog)
+ - [https://gotquestions.blog](https://gotquestions.blog)
  - date_published: 2018-09-10T00:00:00+00:00
 
  ## gravyfromthegazebo
@@ -2262,7 +2286,7 @@
  - date_published: 2024-12-16T14:37:54.494219+00:00
 
  ## Autistic & Finding Dopamine
- - [http://autisticandfindingdopmine.home.blog](http://autisticandfindingdopmine.home.blog)
+ - [https://autisticandfindingdopmine.home.blog](https://autisticandfindingdopmine.home.blog)
  - date_published: 2024-09-03T22:46:12.021973+00:00
 
  ## some compact thoughts
@@ -2270,7 +2294,7 @@
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## Home.blog
- - [http://baileygreenmystorythroughautism.home.blog](http://baileygreenmystorythroughautism.home.blog)
+ - [https://baileygreenmystorythroughautism.home.blog](https://baileygreenmystorythroughautism.home.blog)
  - date_published: 2024-09-03T22:58:55+00:00
 
  ## Blue Remembered Trolls
@@ -2287,7 +2311,7 @@
  - tags: ['personal']
 
  ## Don't Let The Days Go By
- - [http://dontletthedaysgoby.home.blog](http://dontletthedaysgoby.home.blog)
+ - [https://dontletthedaysgoby.home.blog](https://dontletthedaysgoby.home.blog)
  - date_published: 2024-07-16T16:34:06.819420+00:00
 
  ## Garden Breeze
@@ -2312,15 +2336,15 @@
  - date_published: 2024-12-19T09:51:32.518956+00:00
 
  ## Hand in Hand
- - [http://handinhand.home.blog](http://handinhand.home.blog)
+ - [https://handinhand.home.blog](https://handinhand.home.blog)
  - date_published: 2024-06-30T00:00:00+00:00
 
  ## Heavy Metal Classicist
- - [http://heavymetalclassicist.home.blog](http://heavymetalclassicist.home.blog)
+ - [https://heavymetalclassicist.home.blog](https://heavymetalclassicist.home.blog)
  - date_published: 2024-07-19T20:14:11.241736+00:00
 
  ## Home.blog
- - [http://home.blog](http://home.blog)
+ - [https://home.blog](https://home.blog)
  - date_published: 2024-07-11T15:27:55.788504+00:00
 
  ## Interactive Licktion
@@ -2336,7 +2360,7 @@
  - date_published: 2024-05-07T14:47:04.252481+00:00
 
  ## Letters to Here
- - [http://letterstohere.home.blog](http://letterstohere.home.blog)
+ - [https://letterstohere.home.blog](https://letterstohere.home.blog)
  - date_published: 2024-08-25T00:00:00+00:00
 
  ## To Be Determined
@@ -2349,7 +2373,7 @@
  - date_published: 2024-08-06T05:11:45+00:00
 
  ## Niraj's blogs
- - [http://niraj.home.blog](http://niraj.home.blog)
+ - [https://niraj.home.blog](https://niraj.home.blog)
  - date_published: 2024-09-02T12:58:11+00:00
 
  ## Nos Voisins Lointains 3.11
@@ -2385,7 +2409,7 @@
  - date_published: 2024-05-10T06:57:04.002656+00:00
 
  ## Home.blog
- - [http://spacetyrannosaur.home.blog](http://spacetyrannosaur.home.blog)
+ - [https://spacetyrannosaur.home.blog](https://spacetyrannosaur.home.blog)
  - date_published: 2024-09-03T22:53:33+00:00
 
  ## Home of the Grumpy Gnome
@@ -2397,7 +2421,7 @@
  - date_published: 2024-08-03T20:19:31+00:00
 
  ## Yenn Purkis Autism Page
- - [http://yennpurkis.home.blog](http://yennpurkis.home.blog)
+ - [https://yennpurkis.home.blog](https://yennpurkis.home.blog)
  - date_published: 2024-08-31T13:30:01+00:00
 
  ## Home With The Armadillo
@@ -2468,7 +2492,7 @@
  - date_published: 2024-08-19T00:00:00+00:00
 
  ## Jason Collins blog
- - [https://www.jasoncollins.blog](https://www.jasoncollins.blog)
+ - [https://jasoncollins.blog](https://jasoncollins.blog)
  - date_published: 2024-07-25T00:00:00+00:00
 
  ## Jason A. Hoffman
@@ -2510,7 +2534,7 @@
  - date_published: 2024-06-22T00:00:00+00:00
 
  ## Jordan Cooper's Blog: startups, venture capital, etc...
- - [http://jordancooper.blog](http://jordancooper.blog)
+ - [https://jordancooper.blog](https://jordancooper.blog)
  - date_published: 2024-06-19T00:07:49+00:00
 
  ## Josh Betz – Made with 🧀 in Madison
@@ -2536,7 +2560,7 @@
  - date_published: 2024-05-04T00:00:00+00:00
 
  ## KajMagnus' Blog
- - [https://www.kajmagnus.blog](https://www.kajmagnus.blog)
+ - [https://kajmagnus.blog](https://kajmagnus.blog)
  - date_published: 2024-06-23T12:44:50.255646+00:00
 
  ## Musings
@@ -2612,7 +2636,7 @@
  - date_published: 2024-09-19T20:09:29.601542+00:00
 
  ## Leaders Blog
- - [https://www.leaders.blog](https://www.leaders.blog)
+ - [https://leaders.blog](https://leaders.blog)
  - date_published: 2022-03-02T19:40:28+00:00
 
  ## About this book - Learn Haskell by building a blog generator
@@ -2632,7 +2656,7 @@
  - date_published: 2024-03-30T00:00:00+00:00
 
  ## Blog, Liberty's Corner
- - [https://www.libertyscorner.blog](https://www.libertyscorner.blog)
+ - [https://libertyscorner.blog](https://libertyscorner.blog)
  - date_published: 2024-07-13T11:12:15.855204+00:00
 
  ## linusdata
@@ -2733,7 +2757,7 @@
  - date_published: 2024-03-20T00:00:00+00:00
 
  ## CSRFing VS Code's Debug Adapter Protocol
- - [https://www.mcnulty.blog](https://www.mcnulty.blog)
+ - [https://mcnulty.blog](https://mcnulty.blog)
  - date_published: 2023-07-28T00:00:00+00:00
 
  ## melkat.blog - hi there! please enjoy my blog of things i think are interesting
@@ -2745,7 +2769,7 @@
  - date_published: 2023-07-06T13:54:31+00:00
 
  ## Michele Neylon :: Pensieri
- - [https://www.michele.blog](https://www.michele.blog)
+ - [https://michele.blog](https://michele.blog)
  - date_published: 2024-10-04T00:00:00+00:00
 
  ## Aaron Aiken
@@ -2821,7 +2845,7 @@
  - date_published: 2024-12-21T16:20:15+00:00
 
  ## John Gruber
- - [http://gruber.micro.blog](http://gruber.micro.blog)
+ - [https://gruber.micro.blog](https://gruber.micro.blog)
  - date_published: 2024-02-11T23:29:19+00:00
 
  ## Micro.blog Help Center
@@ -2858,7 +2882,7 @@
  - date_published: 2024-06-17T22:01:16+00:00
 
  ## Manton Reece
- - [http://manton.micro.blog](http://manton.micro.blog)
+ - [https://manton.micro.blog](https://manton.micro.blog)
  - date_published: 2024-07-02T15:57:08+00:00
 
  ## mattypenny
@@ -2883,7 +2907,7 @@
  - date_published: 2024-12-12T01:31:55+00:00
 
  ## NRH
- - [http://nathanrhale.micro.blog](http://nathanrhale.micro.blog)
+ - [https://nathanrhale.micro.blog](https://nathanrhale.micro.blog)
  - date_published: 2024-06-15T04:23:57+00:00
 
  ## ner3y
@@ -2977,7 +3001,7 @@
  - tags: ['personal']
 
  ## Doing Our Bit
- - [http://militaryandfamilyhistory.blog](http://militaryandfamilyhistory.blog)
+ - [https://militaryandfamilyhistory.blog](https://militaryandfamilyhistory.blog)
  - date_published: 2024-06-21T09:41:14.325834+00:00
 
  ## Mindsers Courses - Tous les cours en ligne du Mindsers Blog
@@ -2994,6 +3018,7 @@
 
  - [https://miris.blog](https://miris.blog)
  - date_published: 2024-02-26T09:12:32.456732+00:00
+ - date_dead_since: 2025-01-04T21:41:29.386898+00:00
 
  ## mixable Blog | A mix of digital topics.
  - [https://mixable.blog](https://mixable.blog)
@@ -3039,13 +3064,14 @@
  ## <mxstbr/>
  - [https://mxstbr.blog](https://mxstbr.blog)
  - date_published: 2018-02-21T00:00:00+00:00
+ - date_dead_since: 2025-01-04T21:41:41.473015+00:00
 
  ## Zondax
  - [https://zondax.mymidnight.blog](https://zondax.mymidnight.blog)
  - date_published: 2024-09-21T23:55:53.478352+00:00
 
  ## my silent voice/ my stil stem
- - [http://mysilentvoice.blog](http://mysilentvoice.blog)
+ - [https://mysilentvoice.blog](https://mysilentvoice.blog)
  - date_published: 2024-09-03T23:07:36.422957+00:00
 
  ## Jessica's Nature Blog
@@ -3053,7 +3079,7 @@
  - date_published: 2024-06-30T01:45:26.030894+00:00
 
  ## NBMG
- - [http://nbmg.blog](http://nbmg.blog)
+ - [https://nbmg.blog](https://nbmg.blog)
  - date_published: 2024-06-24T07:37:33+00:00
 
  ## near.blog | personal website
@@ -3082,7 +3108,7 @@
  - date_published: 2024-07-13T15:32:20+00:00
 
  ## NextBiz
- - [https://www.nextbiz.blog](https://www.nextbiz.blog)
+ - [http://nextbiz.blog](http://nextbiz.blog)
  - date_published: 2024-06-29T19:34:25.136875+00:00
 
  ## Nicheless | Think. Write away.
@@ -3119,11 +3145,11 @@
  - date_published: 2025-01-01T11:53:59.464478+00:00
 
  ## Nothing But The Truth
- - [http://nothingbutthetruth.blog](http://nothingbutthetruth.blog)
+ - [https://nothingbutthetruth.blog](https://nothingbutthetruth.blog)
  - date_published: 2024-09-02T23:06:29+00:00
 
  ## Nothing Radical
- - [http://nothingradical.blog](http://nothingradical.blog)
+ - [https://nothingradical.blog](https://nothingradical.blog)
  - date_published: 2024-06-04T00:00:00+00:00
 
  ## notizBlog
@@ -3131,7 +3157,7 @@
  - date_published: 2024-01-07T08:45:39.431652+00:00
 
  ## NSMC Internship
- - [https://www.nsmc.blog](https://www.nsmc.blog)
+ - [https://nsmc.blog](https://nsmc.blog)
  - date_published: 2024-06-28T11:51:32.290325+00:00
 
  ## NTDEV
@@ -3139,7 +3165,7 @@
  - date_published: 2024-05-07T15:27:08.241538+00:00
 
  ## NutriBites
- - [http://nutribites.blog](http://nutribites.blog)
+ - [https://nutribites.blog](https://nutribites.blog)
  - date_published: 2024-08-18T20:45:09.332370+00:00
 
  ## Something Odd!
@@ -3151,7 +3177,7 @@
  - date_published: 2024-01-03T04:05:44.287778+00:00
 
  ## OldLady With Autism
- - [http://oldladywithautism.blog](http://oldladywithautism.blog)
+ - [https://oldladywithautism.blog](https://oldladywithautism.blog)
  - date_published: 2024-09-03T23:02:06.728939+00:00
 
  ## Om Malik
@@ -3185,6 +3211,7 @@
 
  - [https://overemployee.blog](https://overemployee.blog)
  - date_published: 2024-01-09T02:26:42.986613+00:00
+ - date_dead_since: 2025-01-04T21:45:00.233090+00:00
 
  ## Andrew Ozz on WordPress
  - [https://ozz.blog](https://ozz.blog)
@@ -3216,7 +3243,7 @@
  - date_published: 2024-12-12T06:03:14.586986+00:00
 
  ## Pensions and Benefits
- - [https://www.pensionsandbenefits.blog](https://www.pensionsandbenefits.blog)
+ - [https://pensionsandbenefits.blog](https://pensionsandbenefits.blog)
  - date_published: 2024-09-15T23:33:49.216420+00:00
 
  ## Perceiving Systems Blog
@@ -3258,7 +3285,7 @@
  - date_published: 2024-07-12T21:38:20.048676+00:00
 
  ## Plastic Craic
- - [http://plasticcraic.blog](http://plasticcraic.blog)
+ - [https://plasticcraic.blog](https://plasticcraic.blog)
  - date_published: 2024-10-26T17:53:44.537968+00:00
 
  ## Power Moves
@@ -3275,7 +3302,7 @@
  - tags: ['personal']
 
  ## Privacy World | Data Privacy, Security and Innovation News
- - [https://www.privacyworld.blog](https://www.privacyworld.blog)
+ - [https://privacyworld.blog](https://privacyworld.blog)
  - date_published: 2024-09-15T23:34:12.139500+00:00
 
  ## Reason #48: Strangers on a Train - George, Probably Blogs
@@ -3345,7 +3372,7 @@
  - date_published: 2024-09-13T16:51:46.691349+00:00
 
  ## Re-enchantment Of The World
- - [http://reenchantmentoftheworld.blog](http://reenchantmentoftheworld.blog)
+ - [https://reenchantmentoftheworld.blog](https://reenchantmentoftheworld.blog)
  - date_published: 2024-09-17T17:49:31.101995+00:00
 
  ## Reese Richardson
@@ -3392,7 +3419,7 @@
  - date_published: 2024-01-19T13:02:00.009123+00:00
 
  ## Rox’s Picks | Roxine Kee | Substack
- - [https://www.roxine.blog](https://www.roxine.blog)
+ - [https://roxine.blog](https://roxine.blog)
  - date_published: 2024-08-08T22:50:04.278551+00:00
 
  ## RunSignup Blog
@@ -3429,7 +3456,7 @@
  - date_published: 2024-12-31T06:08:34.768133+00:00
 
  ## Longitudinal Science
- - [http://longitudinal.science.blog](http://longitudinal.science.blog)
+ - [https://longitudinal.science.blog](https://longitudinal.science.blog)
  - date_published: 2024-10-27T11:27:39+00:00
 
  ## Shtetl-Optimized
@@ -4072,17 +4099,4 @@
  ## BNP Paribas Securities Services - The bank for a changing world
  - [https://securities.cib.bnpparibas](https://securities.cib.bnpparibas)
  - date_published: 2021-03-18T18:22:17+00:00
-
- ## Banque BNP Paribas | La banque d'un monde qui change
- - [https://group.bnpparibas](https://group.bnpparibas)
- - date_published: 2024-05-04T15:44:27.044354+00:00
-
- ## BNP Paribas - Recrutement, Offres d'emploi, Dépôt de CV
- - [https://matchmycv.group.bnpparibas](https://matchmycv.group.bnpparibas)
- - date_published: 2024-06-22T11:57:13.433724+00:00
-
- ## Source d'Histoire BNP Paribas : 2 siècles d'archives
- - [https://histoire.bnpparibas](https://histoire.bnpparibas)
- - date_published: 2024-01-22T00:00:00+00:00
- - tags: ['bank']
 

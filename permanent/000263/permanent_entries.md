@@ -1,3 +1,51 @@
+ ## Mapping the Marvellous
+ - [http://mappingthemarvellous.wordpress.com](http://mappingthemarvellous.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Scott McMillan's modestly proportioned storage facility
+ - [http://mapsadaisical.wordpress.com](http://mapsadaisical.wordpress.com)
+ - date_published: 2024-10-21T16:42:17.770509+00:00
+
+ ## maps & genes
+ - [http://mapsandgenes.wordpress.com](http://mapsandgenes.wordpress.com)
+ - date_published: 2024-12-12T04:34:15.590393+00:00
+
+ ## Wandering Words
+ - [http://marcbeebe.wordpress.com](http://marcbeebe.wordpress.com)
+ - date_published: 2024-09-03T22:58:24.351797+00:00
+
+ ## -Wmarc
+ - [https://marcmutz.wordpress.com](https://marcmutz.wordpress.com)
+ - date_published: 2024-12-23T14:42:58.805393+00:00
+
+ ## Marco Bonzanini
+ - [https://marcobonzanini.wordpress.com](https://marcobonzanini.wordpress.com)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## The Gauge Connection
+ - [https://marcofrasca.wordpress.com](https://marcofrasca.wordpress.com)
+ - date_published: 2024-10-19T04:57:08.388637+00:00
+
+ ## MOB's grad hub
+ - [https://marcolivierbeausoleil.wordpress.com](https://marcolivierbeausoleil.wordpress.com)
+ - date_published: 2024-08-11T22:06:16.108535+00:00
+
+ ## marcominius
+ - [https://marcominius.wordpress.com](https://marcominius.wordpress.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Penso, logo hesito
+ - [https://marcosbulcao.wordpress.com](https://marcosbulcao.wordpress.com)
+ - date_published: 2024-12-23T03:04:00.842051+00:00
+
+ ## Desktop Reviews
+ - [https://marcoscucom.wordpress.com](https://marcoscucom.wordpress.com)
+ - date_published: 2024-06-15T17:53:05+00:00
+
+ ## Marc Santolini
+ - [https://marcsantolini.wordpress.com](https://marcsantolini.wordpress.com)
+ - date_published: 2024-09-12T19:05:00.652432+00:00
+
  ## MARC WATKINS
  - [https://marcwatkins.wordpress.com](https://marcwatkins.wordpress.com)
  - date_published: 2024-12-30T05:41:46.116605+00:00
@@ -3961,52 +4009,4 @@
  ## Private P2
  - [https://platform9p2.wordpress.com](https://platform9p2.wordpress.com)
  - date_published: 2024-05-07T16:04:14.154223+00:00
-
- ## Footnotes to Plato
- - [https://platofootnote.wordpress.com](https://platofootnote.wordpress.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Playing with models: quantitative exploration of life.
- - [http://playingwithmodels.wordpress.com](http://playingwithmodels.wordpress.com)
- - date_published: 2024-06-17T12:11:35.771168+00:00
-
- ## Playtivity 玩 . 創意
- - [http://playtivity.wordpress.com](http://playtivity.wordpress.com)
- - date_published: 2024-08-18T09:34:08.295231+00:00
-
- ## Pawlicker's Pleroma Experiment Blog
- - [https://pleromanonx86.wordpress.com](https://pleromanonx86.wordpress.com)
- - date_published: 2023-11-23T05:04:00.178360+00:00
-
- ## Pliu's Blog - Teaching and Learning Open Source Development
- - [https://pliu.wordpress.com](https://pliu.wordpress.com)
- - date_published: 2024-07-18T12:27:19.836948+00:00
-
- ## Paul Jacobson's links
- - [https://pljcbsn.wordpress.com](https://pljcbsn.wordpress.com)
- - date_published: 2024-07-02T18:27:25+00:00
-
- ## Please, no hate.
- - [https://plsnohate.wordpress.com](https://plsnohate.wordpress.com)
- - date_published: 2024-10-22T18:49:55.604464+00:00
-
- ## Plucked from the Stacks
- - [https://pluckedfromthestacks.wordpress.com](https://pluckedfromthestacks.wordpress.com)
- - date_published: 2024-06-15T10:21:04+00:00
-
- ## Finding Pluto
- - [http://plutovian.wordpress.com](http://plutovian.wordpress.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## GSoC PMA
- - [https://pmagsocproject.wordpress.com](https://pmagsocproject.wordpress.com)
- - date_published: 2024-06-11T10:31:05.063775+00:00
-
- ## The Product Manager Handbook
- - [https://pmhandbook.wordpress.com](https://pmhandbook.wordpress.com)
- - date_published: 2024-07-03T19:32:12+00:00
-
- ## The Postnational Monitor
- - [http://pmsol3.wordpress.com](http://pmsol3.wordpress.com)
- - date_published: 2024-06-22T00:00:00+00:00
 

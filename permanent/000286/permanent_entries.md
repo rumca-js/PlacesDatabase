@@ -1,3 +1,57 @@
+ ## Universität Würzburg - Universität Würzburg
+ - [https://www2.uni-wuerzburg.de](https://www2.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:32:29.917710+00:00
+
+ ## Unishop Würzburg | UNISHOP WÜRZBURG
+ - [https://unishop.uni-wuerzburg-gmbh.de](https://unishop.uni-wuerzburg-gmbh.de)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Universität Würzburg GmbH
+ - [https://uni-wuerzburg-gmbh.de](https://uni-wuerzburg-gmbh.de)
+ - date_published: 2024-04-29T07:01:49.997289+00:00
+
+ ## Sign in - Matomo
+ - [https://use.uni-wuerzburg-gmbh.de](https://use.uni-wuerzburg-gmbh.de)
+ - date_published: 2024-07-24T03:39:37.791820+00:00
+
+ ## Startseite Berufung
+ - [https://berufung.uni-wuppertal.de](https://berufung.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:49.202501+00:00
+ - date_dead_since: 2024-12-10T17:18:23.225761+00:00
+
+ ## Bilddatenbank - Bergische Universität Wuppertal
+ - [https://bilddatenbank.uni-wuppertal.de](https://bilddatenbank.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:34+00:00
+
+ ## Sign in - Matomo
+ - [https://buwal.uni-wuppertal.de](https://buwal.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:42.669949+00:00
+
+ ## Startseite Dezernat 1
+ - [https://dez1.uni-wuppertal.de](https://dez1.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:34.477898+00:00
+ - date_dead_since: 2024-12-10T17:18:26.389551+00:00
+
+ ## Startseite Dezernat 2
+ - [https://dez2.uni-wuppertal.de](https://dez2.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:11.098795+00:00
+ - date_dead_since: 2024-12-10T17:18:26.879001+00:00
+
+ ## Startseite Dezernat 3
+ - [https://dez3.uni-wuppertal.de](https://dez3.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:28.560307+00:00
+ - date_dead_since: 2024-12-10T17:18:27.395605+00:00
+
+ ## Startseite Dezernat 4
+ - [https://dez4.uni-wuppertal.de](https://dez4.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:58.174338+00:00
+ - date_dead_since: 2024-12-10T17:18:27.898163+00:00
+
+ ## Dezernat 5
+ - [https://dez5.uni-wuppertal.de](https://dez5.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:53.743490+00:00
+ - date_dead_since: 2024-12-10T17:18:28.367787+00:00
+
  ## Startseite Dezernat 6
  - [https://dez6.uni-wuppertal.de](https://dez6.uni-wuppertal.de)
  - date_published: 2024-07-02T17:46:18.369526+00:00
@@ -4019,52 +4073,4 @@ Bibliotheken / Z39.50
  ## SCIP
  - [https://scip.zib.de](https://scip.zib.de)
  - date_published: 2024-07-12T08:10:07.616615+00:00
-
- ## SoPlex
- - [http://soplex.zib.de](http://soplex.zib.de)
- - date_published: 2024-10-16T06:10:40.270390+00:00
-
- ## UG
- - [http://ug.zib.de](http://ug.zib.de)
- - date_published: 2024-10-16T06:09:25.920844+00:00
-
- ## Home | zib.de
- - [https://www.zib.de](https://www.zib.de)
- - date_published: 2024-05-04T15:14:50.864936+00:00
-
- ## ZIMPL
- - [http://zimpl.zib.de](http://zimpl.zib.de)
- - date_published: 2024-06-17T03:06:17.432785+00:00
-
- ## Home - Konrad Zuse Internet Archive
- - [http://zuse-z1.zib.de](http://zuse-z1.zib.de)
- - date_published: 2015-03-16T16:12:59+00:00
-
- ## Konrad Zuse Internet Archive - Home
- - [http://zuse.zib.de](http://zuse.zib.de)
- - date_published: 2024-07-14T16:32:17.669454+00:00
-
- ## Raum für Neues
- - [http://zieglerbuerg.de](http://zieglerbuerg.de)
- - date_published: 2021-05-31T20:12:01+00:00
-
- ## LAN Party in Zittau - Das Original seit 2001 - www.zi-lan.de
- - [http://zi-lan.de](http://zi-lan.de)
- - date_published: 2024-07-24T04:42:17.934713+00:00
-
- ## Zentralinstitut für Seelische Gesundheit
- - [https://www.zi-mannheim.de](https://www.zi-mannheim.de)
- - date_published: 2024-08-19T19:24:05.530713+00:00
-
- ## zimpel - die PR-Software und Mediendatenbank
- - [https://www.zimpel-online.de](https://www.zimpel-online.de)
- - date_published: 2024-06-26T07:49:15.054310+00:00
-
- ## ZITATE-ONLINE.DE +++ Starke Sprüche - treffende Zitate +++ Sprichwörter +++ Zitat des Tages +++ Forum +++ Lieblingszitate verwalten u.v.m.
- - [https://zitate-online.de](https://zitate-online.de)
- - date_published: 2024-04-29T06:31:46.394671+00:00
-
- ## Startseite | Zix
- - [https://zix.de](https://zix.de)
- - date_published: 2024-09-16T01:29:11.865116+00:00
 

@@ -1,3 +1,56 @@
+ ## Sebastien Castiel · Developer, writer, indie hacker · 📍 Montreal, QC
+ - [https://scastiel.dev](https://scastiel.dev)
+ - date_published: 2023-10-25T18:41:47.971907+00:00
+ - tags: ['personal']
+
+ ## SCAYLE Academy
+ - [https://academy.scayle.dev](https://academy.scayle.dev)
+ - date_published: 2024-09-17T21:45:11.508682+00:00
+
+ ## SCAYLE
+ - [https://new.scayle.dev](https://new.scayle.dev)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Notes · Boris Schapira
+ - [https://boris.schapira.dev](https://boris.schapira.dev)
+ - date_published: 2024-06-28T16:03:30.188713+00:00
+
+ ## Schedule-X | Material Design Event Calendar
+ - [https://premium.schedule-x.dev](https://premium.schedule-x.dev)
+ - date_published: 2024-06-05T07:55:42.983133+00:00
+
+ ## Schedule-X
+ - [https://schedule-x.dev](https://schedule-x.dev)
+ - date_published: 2024-01-02T13:33:58.392698+00:00
+
+ ## Tobias' blog
+ - [https://schmidl.dev](https://schmidl.dev)
+ - date_published: 2024-05-09T08:24:45.629313+00:00
+
+ ## scnlib: Page Redirection
+ - [https://scnlib.dev](https://scnlib.dev)
+ - date_published: 2024-06-15T17:09:57+00:00
+
+ ## Scorecard: Assess Open Source Project Security
+ - [https://scorecard.dev](https://scorecard.dev)
+ - date_published: 2024-07-10T17:13:22+00:00
+
+ ## Custom Web Design & Development
+ - [https://scottcarr.dev](https://scottcarr.dev)
+ - date_published: 2024-07-04T03:28:14.739433+00:00
+
+ ## porkbun.com | parked domain
+ - [http://scribe.dev](http://scribe.dev)
+ - date_published: 2024-07-04T05:38:43.306063+00:00
+
+ ## Scriptified
+ - [https://scriptified.dev](https://scriptified.dev)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Seán Barry
+ - [https://seanbarry.dev](https://seanbarry.dev)
+ - date_published: 2023-10-25T18:41:53.898962+00:00
+
  ## Sean Rogers
  - [https://seanrogers.dev](https://seanrogers.dev)
  - date_published: 2024-05-09T08:44:23.938491+00:00
@@ -2313,6 +2366,10 @@
  - [https://wanlutfi.dev](https://wanlutfi.dev)
  - date_published: 2024-06-21T00:00:00+00:00
 
+ ## Wapy.dev
+ - [https://wapy.dev](https://wapy.dev)
+ - date_published: 2025-01-04T14:52:33.726289+00:00
+
  ## Warp
  - [https://app.warp.dev](https://app.warp.dev)
  - date_published: 2024-04-30T02:28:45.774531+00:00
@@ -4000,60 +4057,4 @@
  ## Ahlsell | Vi gør det nemmere at være professionel
  - [https://www.ahlsell.dk](https://www.ahlsell.dk)
  - date_published: 2024-12-15T10:05:06.278464+00:00
-
- ## Pioneer Centre for Artificial Intelligence
- - [https://www.aicentre.dk](https://www.aicentre.dk)
- - date_published: 2024-06-22T08:47:58.775053+00:00
-
- ## Airbnb | Ferieboliger, hytter, strandhuse med mere
- - [https://airbnb.dk](https://airbnb.dk)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Aktuel Naturvidenskab - Nyheder fra den Naturvidenskabelige Verden
- - [http://aktuelnaturvidenskab.dk](http://aktuelnaturvidenskab.dk)
- - date_published: 2024-07-22T10:18:43.553888+00:00
-
- ## Fiber, kobber og komponenter til din branche | Alcadon
- - [https://www.alcadon.dk](https://www.alcadon.dk)
- - date_published: 2024-12-15T10:04:16.425954+00:00
-
- ## Alexanderband
- - [http://www.alexanderband.dk](http://www.alexanderband.dk)
- - date_published: 2024-07-04T14:43:48.418786+00:00
-
- ## hjespersenfoto
- - [https://alexanderhjespersen.dk](https://alexanderhjespersen.dk)
- - date_published: 2024-07-04T01:52:47.664440+00:00
-
- ## Alkohol & Samfund
- - [https://alkohologsamfund.dk](https://alkohologsamfund.dk)
- - date_published: 2024-10-18T21:25:10.918932+00:00
-
- ## Forsikringer til dig og dine behov | Alm. Brand
- - [https://www.almbrand.dk](https://www.almbrand.dk)
- - date_published: 2024-06-25T16:50:12.978336+00:00
-
- ## andri.dk | Andri Óskarsson
- - [https://andri.dk](https://andri.dk)
- - date_published: 2024-12-19T17:44:32+00:00
-
- ## Join Viborg Animation Festival 2024 September 9. - 15.
- - [https://www.animationsfestival.dk](https://www.animationsfestival.dk)
- - date_published: 2024-12-13T11:17:15+00:00
-
- ## Brødrene A&O Johansen A/S - AO.DK
- - [https://www.ao.dk](https://www.ao.dk)
- - date_published: 2024-12-15T10:05:26.519500+00:00
-
- ## Apowersoft – Multimedie-løsninger til Erhvervsmæssige og Daglige Behov
- - [https://www.apowersoft.dk](https://www.apowersoft.dk)
- - date_published: 2024-06-23T16:05:43.321589+00:00
-
- ## Umami
- - [https://umami.apprunner.dk](https://umami.apprunner.dk)
- - date_published: 2024-06-27T17:14:50.417760+00:00
-
- ## Arcadia Finans | Find de bedste lån fra 25.000 til 400.000 kr.
- - [https://arcadiafinans.dk](https://arcadiafinans.dk)
- - date_published: 2024-10-31T00:48:55.439467+00:00
 

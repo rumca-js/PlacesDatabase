@@ -1,3 +1,107 @@
+ ## منصة البيانات المفتوحة
+ - [https://data.kku.edu.sa](https://data.kku.edu.sa)
+ - date_published: 2024-09-04T05:29:15.878114+00:00
+
+ ## الصفحة الرئيسية | كلية طب الأسنان
+ - [https://dent.kku.edu.sa](https://dent.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:16.567089+00:00
+
+ ## الصفحة الرئيسية | مكتب البيانات
+ - [https://dmo.kku.edu.sa](https://dmo.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:49.349798+00:00
+
+ ## الصفحة الرئيسية | عمادة البحث و الدراسات العليا
+ - [https://dps.kku.edu.sa](https://dps.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:49.980613+00:00
+
+ ## الرئيسية
+ - [https://dtc.kku.edu.sa](https://dtc.kku.edu.sa)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## ELC | English Language Center
+ - [https://elc.kku.edu.sa](https://elc.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:23.870929+00:00
+
+ ## ELD – عمادة التعلم الإلكتروني بجامعة الملك خالد
+ - [https://elearning.kku.edu.sa](https://elearning.kku.edu.sa)
+ - date_published: 2024-09-03T17:05:07+00:00
+
+ ## كلية الهندسة بأبها |
+ - [https://engineering.kku.edu.sa](https://engineering.kku.edu.sa)
+ - date_published: 2024-09-04T05:25:55+00:00
+
+ ## الأبحاث العلمية
+ - [https://eprints.kku.edu.sa](https://eprints.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:57.253335+00:00
+
+ ## Forms V2 Home | جامعة الملك خالد
+ - [https://form.kku.edu.sa](https://form.kku.edu.sa)
+ - date_published: 2024-09-04T05:25:37+00:00
+
+ ## الصفحة الرئيسية | الإدارة العامة للموارد البشرية
+ - [https://hr.kku.edu.sa](https://hr.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:31.303734+00:00
+
+ ## الصفحة الرئيسية: | كلية الآداب والعلوم الإنسانية
+ - [https://hs.kku.edu.sa](https://hs.kku.edu.sa)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## الصفحة الرئيسية | الإدارة العامة للإستثمار
+ - [https://invest.kku.edu.sa](https://invest.kku.edu.sa)
+ - date_published: 2024-09-04T05:25:45.152368+00:00
+
+ ## الصفحة الرئيسية | معهد الدراسات والخدمات الاستشارية
+ - [https://iscs.kku.edu.sa](https://iscs.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:44.610490+00:00
+
+ ## الصفحة الرئيسية | كلية الشريعة وأصول الدين
+ - [https://islp.kku.edu.sa](https://islp.kku.edu.sa)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Home | International Student
+ - [https://istudents.kku.edu.sa](https://istudents.kku.edu.sa)
+ - date_published: 2024-09-04T00:47:48+00:00
+
+ ## تقنية المعلومات | IT
+ - [https://it.kku.edu.sa](https://it.kku.edu.sa)
+ - date_published: 2024-09-04T05:25:31.436648+00:00
+
+ ## الصفحة الرئيسية | إدارة النشر العلمي
+ - [https://journals.kku.edu.sa](https://journals.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:13.884106+00:00
+
+ ## الصفحة الرّئيسيّة | King Khalid University
+ - [https://kku.edu.sa](https://kku.edu.sa)
+ - date_published: 2024-06-01T22:22:02.287261+00:00
+
+ ## الصفحة الرئيسية | كلية الحقوق
+ - [https://law.kku.edu.sa](https://law.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:20.718217+00:00
+
+ ## الصفحة الرئيسية | الإدارة العامة لمصادر المعرفة
+ - [https://lib.kku.edu.sa](https://lib.kku.edu.sa)
+ - date_published: 2024-09-04T05:25:27.640018+00:00
+
+ ## King Khalid University
+ - [https://lms.kku.edu.sa](https://lms.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:34.802469+00:00
+
+ ## الإدارة العامة للإعلام والعلاقات |
+ - [https://media.kku.edu.sa](https://media.kku.edu.sa)
+ - date_published: 2024-09-04T05:26:04.105717+00:00
+
+ ## Home page | College of Medicine
+ - [https://medicine.kku.edu.sa](https://medicine.kku.edu.sa)
+ - date_published: 2024-09-04T05:29:40.403712+00:00
+
+ ## الصفحة الرئيسية | كلية التمريض بخميس مشيط
+ - [https://nursingkh.kku.edu.sa](https://nursingkh.kku.edu.sa)
+ - date_published: 2024-09-04T05:29:45.322038+00:00
+
+ ## الصفحة الرئيسية | كلية التمريض
+ - [https://nursing.kku.edu.sa](https://nursing.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:47.225870+00:00
+
  ## الصفحة الرئيسية | كلية التمريض بمحايل عسير
  - [https://nursingm.kku.edu.sa](https://nursingm.kku.edu.sa)
  - date_published: 2024-09-04T05:29:02.052621+00:00
@@ -3908,108 +4012,4 @@
  ## Hem
  - [https://kvalitetsindex.se](https://kvalitetsindex.se)
  - date_published: 2024-10-07T00:00:00+00:00
-
- ## Designat med nästa generation i åtanke - Kvik
- - [https://www.kvik.se](https://www.kvik.se)
- - date_published: 2024-09-19T20:31:41.861507+00:00
-
- ## Kville BC
- - [https://kvillebc.se](https://kvillebc.se)
- - date_published: 2024-08-19T23:31:28.276590+00:00
-
- ## Gratis Online Spel - Lagged.se
- - [https://lagged.se](https://lagged.se)
- - date_published: 2024-05-04T11:46:09.558545+00:00
-
- ## Läkemedelsverket
- - [https://lakemedelsverket.se](https://lakemedelsverket.se)
- - date_published: 2024-09-09T21:13:24.921398+00:00
-
- ## Haupt Lakrits
- - [https://www.lakrits.se](https://www.lakrits.se)
- - date_published: 2024-10-03T08:44:38.269823+00:00
-
- ## Landfall
- - [https://landfall.se](https://landfall.se)
- - date_published: 2024-06-22T15:05:24.343917+00:00
-
- ## Land Rover | Utforska lyx-SUV:ar med legendarisk fyrhjulsdrift | Land Rover Sverige
- - [https://www.landrover.se](https://www.landrover.se)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Logga in på Mina sidor - Länsförsäkringar
- - [https://secure246.lansforsakringar.se](https://secure246.lansforsakringar.se)
- - date_published: 2024-06-13T05:40:10+00:00
-
- ## Heltäckande inom bank och försäkringar - Länsförsäkringar
- - [https://www.lansforsakringar.se](https://www.lansforsakringar.se)
- - date_published: 2024-05-01T06:11:22.834002+00:00
-
- ## larouche.se is almost here!
- - [http://www.larouche.se](http://www.larouche.se)
- - date_published: 2024-07-12T20:20:59+00:00
-
- ## larsthunberg.se – Lars Thunberg – Sollentuna
- - [https://www.larsthunberg.se](https://www.larsthunberg.se)
- - date_published: 2024-06-29T07:58:37.283919+00:00
-
- ## En skräck, en sci-fi och en sak till
- - [https://lasloss.se](https://lasloss.se)
- - date_published: 2024-05-12T05:28:25.502230+00:00
-
- ## We develop software
- - [https://lastfriday.se](https://lastfriday.se)
- - date_published: 2024-12-15T03:20:07.313336+00:00
-
- ## Lawline - Juridisk rådgivning & hjälp - Jurist online
- - [https://lawline.se](https://lawline.se)
- - date_published: 2024-05-08T10:01:38.623635+00:00
-
- ## leblog.se
- - [https://totte.leblog.se](https://totte.leblog.se)
- - date_published: 2024-10-31T17:14:51.859455+00:00
-
- ## Web App - Unavailable
- - [https://leetspeak.se](https://leetspeak.se)
- - date_published: 2024-07-07T05:26:33.988469+00:00
-
- ## Vincent Lejtzén
- - [https://lejtzendesign.se](https://lejtzendesign.se)
- - date_published: 2022-08-06T22:48:00+00:00
-
- ## Prisgaranti, flerårigt prisbelönt kundservice | Lensway
- - [https://www.lensway.se](https://www.lensway.se)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Lerums Tidning - Nyheter från Lerum
- - [https://www.lerumstidning.se](https://www.lerumstidning.se)
- - date_published: 2024-08-18T03:29:51+00:00
-
- ## Leftfield Records
- - [http://www.lftfld.se](http://www.lftfld.se)
- - date_published: 2022-03-30T09:17:19+00:00
-
- ## Lidl Sverige - Högsta kvalitet till branschens bästa pris
- - [https://www.lidl.se](https://www.lidl.se)
- - date_published: 2024-06-25T19:02:09.589098+00:00
-
- ## Heartflow - Låt dig ledas av ditt hjärta
- - [https://lifeguide.se](https://lifeguide.se)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Mediehuset Life of Svea har det starkaste digitala erbjudandet i målgruppen kvinnor 18 - 45 år.
- - [https://lifeofsvea.se](https://lifeofsvea.se)
- - date_published: 2024-07-22T18:05:06+00:00
-
- ## Liljevalchs
- - [https://liljevalchs.se](https://liljevalchs.se)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## LINAK – elektriska linjära ställdonssystem för rörelser
- - [https://www.linak.se](https://www.linak.se)
- - date_published: 2024-09-05T21:36:32.220122+00:00
-
- ## Fira julen med Lindt choklad! Julklappar till hela familjen | Lindt.se
- - [https://www.lindt.se](https://www.lindt.se)
- - date_published: 2024-12-20T17:00:15.969820+00:00
 

@@ -1,3 +1,15 @@
+ ## Josie and her Pussy Cats
+ - [http://bollywoodfreak.blogspot.com](http://bollywoodfreak.blogspot.com)
+ - date_published: 2024-03-13T07:45:43+00:00
+
+ ## Disciples of Boltax
+ - [http://boltax.blogspot.com](http://boltax.blogspot.com)
+ - date_published: 2024-07-14T17:10:37+00:00
+
+ ## BOLTER AND PAINT
+ - [http://bolterandpaint.blogspot.com](http://bolterandpaint.blogspot.com)
+ - date_published: 2024-05-17T14:07:35+00:00
+
  ## Bolters N' Beer
  - [http://boltersnbeer.blogspot.com](http://boltersnbeer.blogspot.com)
  - date_published: 2024-11-01T10:35:50+00:00
@@ -3993,16 +4005,4 @@
  ## Serendipity
  - [http://complementary.blogspot.com](http://complementary.blogspot.com)
  - date_published: 2024-09-27T18:12:34+00:00
-
- ## Completeist
- - [http://completeist.blogspot.com](http://completeist.blogspot.com)
- - date_published: 2024-12-18T02:39:42+00:00
-
- ## Complexes
- - [http://complexes.blogspot.com](http://complexes.blogspot.com)
- - date_published: 2024-03-07T09:19:40+00:00
-
- ## Complexidade e Contradição
- - [http://complexidadeecontradicao.blogspot.com](http://complexidadeecontradicao.blogspot.com)
- - date_published: 2024-09-02T08:19:23+00:00
 

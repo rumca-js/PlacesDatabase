@@ -1,3 +1,59 @@
+ ## Parul University Vadodara: Best Private University in Gujarat
+ - [https://paruluniversity.ac.in](https://paruluniversity.ac.in)
+ - date_published: 2024-08-17T23:38:10.696363+00:00
+
+ ## PCE E-classroom
+ - [https://e-classroom.pce.ac.in](https://e-classroom.pce.ac.in)
+ - date_published: 2018-06-11T00:00:00+00:00
+
+ ## PCE | Pillai College of Engineering
+ - [https://pce.ac.in](https://pce.ac.in)
+ - date_published: 2024-06-17T01:57:19.649527+00:00
+
+ ## 2023 - PCE Exam Result
+ - [https://pceexamresults.pce.ac.in](https://pceexamresults.pce.ac.in)
+ - date_published: 2023-06-21T09:11:42+00:00
+
+ ## TPC-PCE
+ - [https://tpc.pce.ac.in](https://tpc.pce.ac.in)
+ - date_published: 2024-05-25T12:21:06+00:00
+
+ ## PCER Panvel Homepage | Pillai College of Education and Research
+ - [http://www.pcerpanvel.ac.in](http://www.pcerpanvel.ac.in)
+ - date_published: 2024-12-24T17:23:04.855925+00:00
+
+ ## PiMSR | Pillai Institute of Management Studies and Research
+ - [https://pimsr.ac.in](https://pimsr.ac.in)
+ - date_published: 2021-06-24T10:40:39+00:00
+
+ ## Finance and Accounts Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://accounts.puchd.ac.in](https://accounts.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:48.000249+00:00
+
+ ## University Admissions - Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://admissions.puchd.ac.in](https://admissions.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:26.399209+00:00
+
+ ## Central Animal House Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://animalhouse.puchd.ac.in](https://animalhouse.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:21.247754+00:00
+
+ ## Bhai Ghanaiya Ji Institute of Health Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://bgjih.puchd.ac.in](https://bgjih.puchd.ac.in)
+ - date_published: 2024-12-15T12:58:36.656663+00:00
+
+ ## Campus Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://campusstudent.puchd.ac.in](https://campusstudent.puchd.ac.in)
+ - date_published: 2024-12-15T12:59:24.163458+00:00
+
+ ## Dr. A.P.J. Abdul Kalam Computer Centre Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://cc.puchd.ac.in](https://cc.puchd.ac.in)
+ - date_published: 2024-12-15T12:54:19.710746+00:00
+
+ ## Centre for Industry Institute Partnership Programme Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [https://ciipp.puchd.ac.in](https://ciipp.puchd.ac.in)
+ - date_published: 2024-12-15T12:57:43.745674+00:00
+
  ## Central Placement Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
  - [https://cpc.puchd.ac.in](https://cpc.puchd.ac.in)
  - date_published: 2024-12-15T13:01:36.086078+00:00
@@ -3976,60 +4032,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## CoolHotels.in
  - [https://pl.coolhotels.in](https://pl.coolhotels.in)
  - date_published: 2024-12-25T10:51:15.234981+00:00
-
- ## CoolHotels.in
- - [https://pt.coolhotels.in](https://pt.coolhotels.in)
- - date_published: 2024-12-25T10:51:11.850805+00:00
-
- ## CoolHotels.in
- - [https://sv.coolhotels.in](https://sv.coolhotels.in)
- - date_published: 2024-12-25T10:51:02.142551+00:00
-
- ## Vasudev Kamath - Random Ramblings
- - [https://copyninja.in](https://copyninja.in)
- - date_published: 2024-03-12T07:16:44.822138+00:00
-
- ## Cosmopolitan India: Celebrities Lifestyle News, Beauty, Fashion and Relationship Tips
- - [https://cosmopolitan.in](https://cosmopolitan.in)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Buy Domain and Hosting Packages for Your Website | Crazy Domains IN
- - [http://crazydomains.in](http://crazydomains.in)
- - date_published: 2024-06-16T08:52:07.277234+00:00
-
- ## All your IPL questions answered, here! | Cricketpedia
- - [https://cricketpedia.in](https://cricketpedia.in)
- - date_published: 2024-09-18T23:18:25.942959+00:00
-
- ## Crime News : Latest क्राइम न्यूज़ In Hindi | CrimeTak
- - [https://crimetak.in](https://crimetak.in)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Latest IT Channel News & Updates - Latest Tech News - CRN India
- - [https://crn.in](https://crn.in)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Crowdin | Localization Management Platform for agile teams
- - [https://crwd.in](https://crwd.in)
- - date_published: 2024-05-14T03:37:20.583432+00:00
-
- ## Cryptography and Surf
- - [https://cryptme.in](https://cryptme.in)
- - date_published: 2024-07-04T18:41:28.672569+00:00
-
- ## CSTEP
- - [https://cstep.in](https://cstep.in)
- - date_published: 2024-07-16T20:41:05.637124+00:00
-
- ## CtrlS - Asia's Largest Rated 4 Data Center & Managed Service Provider
- - [https://ctrls.in](https://ctrls.in)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Chandigarh University (CU) Blog - Best University in India
- - [https://blog.cuchd.in](https://blog.cuchd.in)
- - date_published: 2024-12-15T11:22:22+00:00
-
- ## CUCET Application Form 2025, Registration Form, Scholarships - Chandigarh University Entrance Exam Date
- - [http://cucet.cuchd.in](http://cucet.cuchd.in)
- - date_published: 2024-12-15T14:28:25.929211+00:00
 

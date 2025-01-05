@@ -1,3 +1,51 @@
+ ## Mediengruppe Magdeburg | Wir bewegen die Region
+ - [https://mediengruppe-magdeburg.de](https://mediengruppe-magdeburg.de)
+ - date_published: 2024-12-10T12:50:02+00:00
+
+ ## Als Medienhaus geben wir Ihrem Business eine neue Dynamik
+ - [https://www.medienhaus-sz-tv.de](https://www.medienhaus-sz-tv.de)
+ - date_published: 2024-12-10T14:20:11+00:00
+
+ ## Medienklasse Sachsen-Anhalt – Medien- und Lesekompetenz für Schüler
+ - [https://www.medienklasse-mitteldeutschland.de](https://www.medienklasse-mitteldeutschland.de)
+ - date_published: 2024-06-21T07:59:08+00:00
+
+ ## Medienservice Holzhandwerk. Bücher und Software für Schreiner, Tischler, Zimmerer, Dachdecker und verwandte Berufe
+ - [https://www.medienservice-holz.de](https://www.medienservice-holz.de)
+ - date_published: 2024-12-10T20:55:16.797759+00:00
+
+ ## Fachbücher, Software und DVDs | Für alle Fachbereiche der Humanmedizin inklusive Zahnmedizin und Psychiatrie / Psychotherapie
+ - [https://www.medienservice-medizin.de](https://www.medienservice-medizin.de)
+ - date_published: 2024-12-10T20:55:22.349974+00:00
+
+ ## Medien und Bildung RLP: Medien und Bildung RLP
+ - [https://medienundbildung-rlp.de](https://medienundbildung-rlp.de)
+ - date_published: 2024-07-02T22:35:07.321075+00:00
+
+ ## Home • Medien_Weiter_Bildung
+ - [https://www.medien-weiter-bildung.de](https://www.medien-weiter-bildung.de)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Medienzentrum München
+ - [https://medienzentrum-muc.de](https://medienzentrum-muc.de)
+ - date_published: 2024-07-02T22:31:49.279941+00:00
+
+ ## MEDIMAX - Mehr Mensch Mehr Technik
+ - [https://www.medimax.de](https://www.medimax.de)
+ - date_published: 2024-09-19T20:29:46.043089+00:00
+
+ ## medisign - Anbieter für elektronische Signatur im Gesundheitswesen
+ - [https://www.medisign.de](https://www.medisign.de)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Medizinischer Fakultätentag
+ - [https://medizinische-fakultaeten.de](https://medizinische-fakultaeten.de)
+ - date_published: 2024-10-15T06:51:11.511682+00:00
+
+ ## meds-world.de
+ - [https://meds-world.de](https://meds-world.de)
+ - date_published: 2024-09-13T19:17:44.548378+00:00
+
  ## MEEDIA
  - [https://www.meedia.de](https://www.meedia.de)
  - date_published: 2024-06-25T21:20:18.286078+00:00
@@ -3965,53 +4013,4 @@
  ## Customized Digital Signage & Media für Retail, Unternehmen & Stadien
  - [http://www.perfect-media-solutions.de](http://www.perfect-media-solutions.de)
  - date_published: 2024-12-26T07:42:51+00:00
-
- ## HOME
- - [https://performatism.de](https://performatism.de)
- - date_published: 2024-09-12T19:25:14.632045+00:00
-
- ## Per Guth
- - [https://perguth.de](https://perguth.de)
- - date_published: 2024-02-17T19:06:00+00:00
- - tags: ['personal']
-
- ## PERI Deutschland
- - [https://www.peri.de](https://www.peri.de)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home | Perlgeek.de - Perl Programming and more
- - [http://perlgeek.de](http://perlgeek.de)
- - date_published: 2017-08-25T10:58:48+00:00
-
- ## Perl Services - Softwareentwicklung mit Perl · Start
- - [https://www.perl-services.de](https://www.perl-services.de)
- - date_published: 2024-09-03T23:40:38.468210+00:00
-
- ## Startseite
- - [https://personalausweisportal.de](https://personalausweisportal.de)
- - date_published: 2024-04-29T06:11:45.411370+00:00
-
- ## Jobs at bam! interactive marketing GmbH
- - [https://bam-interactive.jobs.personio.de](https://bam-interactive.jobs.personio.de)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Jobs at Brother Internationale Industriemaschinen GmbH
- - [https://brother-industrial-com.jobs.personio.de](https://brother-industrial-com.jobs.personio.de)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Jobs at BTC-ECHO | Jobs
- - [https://btc-echo-gmbh.jobs.personio.de](https://btc-echo-gmbh.jobs.personio.de)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Personio Voyager Community: Teile Deine Fragen & Ideen! | Personio Community: Teile Deine Fragen & Ideen!
- - [https://community.personio.de](https://community.personio.de)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Personio Developer Hub
- - [https://developer.personio.de](https://developer.personio.de)
- - date_published: 2024-06-28T16:14:25.431813+00:00
-
- ## Personio. The People Operating System.
- - [https://gamigo-ag-jobs.personio.de](https://gamigo-ag-jobs.personio.de)
- - date_published: 2024-06-10T00:00:00+00:00
 

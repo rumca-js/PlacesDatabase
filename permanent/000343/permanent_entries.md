@@ -1,3 +1,60 @@
+ ## devroom.io
+ - [https://www.devroom.io](https://www.devroom.io)
+ - date_published: 2024-10-17T14:54:26.267685+00:00
+
+ ## Security + DevOps – DevSec Hardening Framework
+ - [https://dev-sec.io](https://dev-sec.io)
+ - date_published: 2024-07-21T04:26:43+00:00
+
+ ## DevSharpe 👋
+ - [https://devsharpe.io](https://devsharpe.io)
+ - date_published: 2024-05-11T10:10:36.148553+00:00
+
+ ## Ikigai - Task Management & more...
+ - [https://ikigai.devsharpe.io](https://ikigai.devsharpe.io)
+ - date_published: 2024-07-14T08:46:51.177470+00:00
+
+ ## DevToys
+ - [https://devtoys.io](https://devtoys.io)
+ - date_published: 2024-10-23T07:50:32.443097+00:00
+
+ ## Documentation
+ - [https://docs.devwithlando.io](https://docs.devwithlando.io)
+ - date_published: 2024-04-02T15:38:31+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://dexcheck.io](https://dexcheck.io)
+ - date_published: 2024-06-19T21:09:06.884872+00:00
+
+ ## dexi.io
+ - [https://app.dexi.io](https://app.dexi.io)
+ - date_published: 2024-08-18T02:28:45.449376+00:00
+
+ ## Dexi.io - Digital Commerce Intelligence, Retail, Brands & E-Commerce
+ - [https://dexi.io](https://dexi.io)
+ - date_published: 2024-01-17T09:11:35+00:00
+ - tags: ['web scraping']
+
+ ## dexi.io Status
+ - [https://status.dexi.io](https://status.dexi.io)
+ - date_published: 2024-08-18T02:28:43.799975+00:00
+
+ ## Dex
+ - [https://dexidp.io](https://dexidp.io)
+ - date_published: 2024-07-17T18:09:29.534043+00:00
+
+ ## Dexper - The event platform that comes with white-glove service.
+ - [https://dexper.io](https://dexper.io)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://dextools.io](https://dextools.io)
+ - date_published: 2024-04-29T02:02:19.911566+00:00
+
+ ## Dave Farinelli
+ - [https://dfar.io](https://dfar.io)
+ - date_published: 2023-11-08T17:03:56+00:00
+
  ## Dgraph Cloud
  - [https://cloud.dgraph.io](https://cloud.dgraph.io)
  - date_published: 2024-06-22T10:46:08.203223+00:00
@@ -3015,7 +3072,7 @@
  - date_published: 2023-06-06T06:32:20+00:00
 
  ## What The Flexbox?!
- - [http://flexbox.io](http://flexbox.io)
+ - [https://flexbox.io](https://flexbox.io)
  - date_published: 2016-01-20T00:00:00+00:00
 
  ## Flic | The Smart Button and Dimmer for Lights, Music, Smart Home and more
@@ -3031,7 +3088,7 @@
  - date_published: 2024-08-24T10:21:05+00:00
 
  ## eBay Arbitrage Software | eBay To Amazon Arbitrage Tool | Flipl.io
- - [https://www.flipl.io](https://www.flipl.io)
+ - [https://flipl.io](https://flipl.io)
  - date_published: 2024-05-26T00:00:00+00:00
 
  ## The Friday Deploy
@@ -3079,11 +3136,11 @@
  - date_published: 2024-06-19T22:24:05.541710+00:00
 
  ## FLock - Federated Machine Learning On the Blockchain
- - [http://flock.io](http://flock.io)
+ - [https://flock.io](https://flock.io)
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## Floor - Your onchain everything app
- - [https://www.floornfts.io](https://www.floornfts.io)
+ - [https://floornfts.io](https://floornfts.io)
  - date_published: 2024-09-09T13:59:10.735906+00:00
 
  ## flow/control ‒ interdisciplinary research & development studio
@@ -3091,16 +3148,18 @@
  - date_published: 2024-02-25T13:07:47+00:00
 
  ## Flow Blockchain Block Explorer
- - [https://www.flowdiver.io](https://www.flowdiver.io)
+ - [https://flowdiver.io](https://flowdiver.io)
  - date_published: 2024-09-18T00:00:00+00:00
 
  ## NoFlo Development Environment v0.29.1
  - [https://app.flowhub.io](https://app.flowhub.io)
  - date_published: 2024-01-12T20:48:15+00:00
+ - date_dead_since: 2025-01-04T21:54:09.359955+00:00
 
  ## AGEN77 : Link Login Alternatif Daftar Situs Slot Kendari
  - [https://flowhub.io](https://flowhub.io)
  - date_published: 2024-05-11T14:37:10+00:00
+ - date_dead_since: 2025-01-04T21:54:09.618858+00:00
 
  ## FlowHunt
  - [https://app.flowhunt.io](https://app.flowhunt.io)
@@ -3148,7 +3207,7 @@
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## FluidStack: Leading GPU Cloud for AI & LLM Training
- - [https://www.fluidstack.io](https://www.fluidstack.io)
+ - [https://fluidstack.io](https://fluidstack.io)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## fluin.io
@@ -3205,7 +3264,7 @@
  - date_published: 2024-08-18T08:14:16.360221+00:00
 
  ## The programmable data streaming platform
- - [https://www.fluvio.io](https://www.fluvio.io)
+ - [https://fluvio.io](https://fluvio.io)
  - date_published: 2024-07-07T10:27:59.209999+00:00
 
  ## Flux - the GitOps family of projects
@@ -3237,7 +3296,7 @@
  - date_published: 2024-09-02T12:15:03.039166+00:00
 
  ## Russell Sage Foundation  | Sign in
- - [http://rsf.fluxx.io](http://rsf.fluxx.io)
+ - [https://rsf.fluxx.io](https://rsf.fluxx.io)
  - date_published: 2024-08-18T18:47:54.702774+00:00
 
  ## Felix Koppe – Designer, Developer, Creator.
@@ -3307,6 +3366,7 @@
  ## Bienvenue - tms.fmm.io - France Médias Monde
  - [https://tms.fmm.io](https://tms.fmm.io)
  - date_published: 2024-05-04T06:59:01.076413+00:00
+ - date_dead_since: 2025-01-04T21:59:39.456609+00:00
 
  ## FM+SE Summit 2024
  - [https://fmse.io](https://fmse.io)
@@ -3321,7 +3381,7 @@
  - date_published: 2024-02-01T00:00:00+00:00
 
  ## Focus Bear | Productivity and routine app for AuDHDers | Make healthy habits the path of least resistance
- - [https://www.focusbear.io](https://www.focusbear.io)
+ - [https://focusbear.io](https://focusbear.io)
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## A digital transformation partner focused on software delivery
@@ -3337,7 +3397,7 @@
  - date_published: 2024-05-04T08:25:30.080509+00:00
 
  ## Foodkit.io | LinkedIn
- - [https://www.foodkit.io](https://www.foodkit.io)
+ - [https://foodkit.io](https://foodkit.io)
  - date_published: 2024-09-24T11:21:43.211102+00:00
 
  ## Free Java & OpenJDK Info for Daily Java Usage | foojay
@@ -3357,7 +3417,7 @@
  - date_published: 2024-06-23T03:22:27.912414+00:00
 
  ## Foretold.io
- - [https://www.foretold.io](https://www.foretold.io)
+ - [https://foretold.io](https://foretold.io)
  - date_published: 2021-03-30T15:39:00+00:00
 
  ## foriio | Portfolio made easy
@@ -3421,7 +3481,7 @@
  - date_published: 2024-04-27T08:04:18.433909+00:00
 
  ## Formspree Help
- - [https://help.formspree.io](https://help.formspree.io)
+ - [http://help.formspree.io](http://help.formspree.io)
  - date_published: 2024-09-09T22:46:33.382816+00:00
 
  ## Formspree - Status
@@ -3439,9 +3499,10 @@
  ## The best validation library for JavaScript - FormValidation
  - [https://formvalidation.io](https://formvalidation.io)
  - date_published: 2024-05-06T13:11:35.500137+00:00
+ - date_dead_since: 2025-01-04T22:05:26.225689+00:00
 
  ## Home - Forte
- - [https://www.forte.io](https://www.forte.io)
+ - [https://forte.io](https://forte.io)
  - date_published: 2024-06-29T10:33:39.813865+00:00
 
  ## Jogo Fortune Tiger Slot | Modo Demo Gratis
@@ -3473,7 +3534,7 @@
  - date_published: 2024-07-02T19:50:52.735773+00:00
 
  ## Fotorama — Simple and Powerful Responsive jQuery Image Gallery
- - [http://fotorama.io](http://fotorama.io)
+ - [https://fotorama.io](https://fotorama.io)
  - date_published: 2024-10-04T00:18:49+00:00
 
  ## fotostudio.io - Photo galleries and CRM for photographers. 2 months free | fotostudio
@@ -3613,7 +3674,7 @@
  - date_published: 2024-10-30T19:19:03+00:00
 
  ## Fraud Education - FraudToday.io
- - [https://www.fraudtoday.io](https://www.fraudtoday.io)
+ - [https://fraudtoday.io](https://fraudtoday.io)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## The complete solution to automate meeting scheduling | FreeBusy
@@ -3625,11 +3686,11 @@
  - date_published: 2024-03-29T13:32:56+00:00
 
  ## Attention Required! | Cloudflare
- - [https://freeicons.io](https://freeicons.io)
+ - [http://freeicons.io](http://freeicons.io)
  - date_published: 2024-07-18T05:42:01.458203+00:00
 
  ## Project and task management application
- - [https://www.freelo.io](https://www.freelo.io)
+ - [https://freelo.io](https://freelo.io)
  - date_published: 2024-09-09T22:47:15.443417+00:00
 
  ## Freestar | Dashboard
@@ -3653,7 +3714,7 @@
  - date_published: 2023-06-20T00:00:00+00:00
 
  ## Stock trading (zero commission) & investment app | Freetrade
- - [http://freetrade.io](http://freetrade.io)
+ - [https://freetrade.io](https://freetrade.io)
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## Support
@@ -3667,6 +3728,7 @@
  ## Stock trading (zero commission) & investment app | Freetrade
  - [https://magic.freetrade.io](https://magic.freetrade.io)
  - date_published: 2024-06-12T00:00:00+00:00
+ - date_dead_since: 2025-01-04T22:10:43.663998+00:00
 
  ## Freetrade Portugal
  - [https://pt.freetrade.io](https://pt.freetrade.io)
@@ -3728,6 +3790,7 @@
  ## Freshworks
  - [https://fynd.freshsales.io](https://fynd.freshsales.io)
  - date_published: 2024-06-21T04:59:53+00:00
+ - date_dead_since: 2025-01-04T22:13:41.478778+00:00
 
  ## BscScan - Binance Smart Chain Explorer's Status page Powered by Freshstatus | Live status
  - [https://bscscan.freshstatus.io](https://bscscan.freshstatus.io)
@@ -3864,7 +3927,7 @@
  - date_published: 2024-09-23T21:16:58.811945+00:00
 
  ## Funnel | The leading marketing intelligence platform
- - [http://funnel.io](http://funnel.io)
+ - [https://funnel.io](https://funnel.io)
  - date_published: 2024-08-02T18:01:59.817077+00:00
 
  ## Sign in - FunnelFuel
@@ -3896,7 +3959,7 @@
  - date_published: 2024-09-23T00:00:00+00:00
 
  ## Fuse.js | Fuse.js
- - [http://fusejs.io](http://fusejs.io)
+ - [https://fusejs.io](https://fusejs.io)
  - date_published: 2024-02-19T02:21:18+00:00
 
  ## Login - FusionAuth
@@ -3970,60 +4033,4 @@
  ## Our website is coming soon
  - [https://futuretown.io](https://futuretown.io)
  - date_published: 2024-06-12T01:50:15.664932+00:00
-
- ## index | futuristan.io :: contemporary and digital art
- - [https://futuristan.io](https://futuristan.io)
- - date_published: 2024-08-08T03:08:39.697541+00:00
-
- ## Futy
- - [https://v1.widget.futy.io](https://v1.widget.futy.io)
- - date_published: 2024-09-13T18:58:23.409199+00:00
-
- ## Fuzz Map
- - [https://www.fuzzmap.io](https://www.fuzzmap.io)
- - date_published: 2024-06-20T18:59:34+00:00
-
- ## Application Security Testing Powered by AI | Code Intelligence
- - [https://www.fuzztesting.io](https://www.fuzztesting.io)
- - date_published: 2024-06-26T23:24:18+00:00
-
- ## FxFeed.io
- - [https://fxfeed.io](https://fxfeed.io)
- - date_published: 2024-10-17T10:21:15+00:00
-
- ## FydeOS Community
- - [https://community.fydeos.io](https://community.fydeos.io)
- - date_published: 2024-10-30T12:25:57.129072+00:00
-
- ## FydeOS - Your lightning-fast, rock-solid and always-ready OS
- - [https://fydeos.io](https://fydeos.io)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## FydeOS RDP
- - [https://rdp.fydeos.io](https://rdp.fydeos.io)
- - date_published: 2024-10-30T12:25:58.553230+00:00
-
- ## Fyne.io
- - [https://fyne.io](https://fyne.io)
- - date_published: 2024-08-06T06:46:31+00:00
-
- ## Posts - fyr.io
- - [https://fyr.io](https://fyr.io)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Otterscan
- - [https://otter-testnet-pulsechain.g4mm4.io](https://otter-testnet-pulsechain.g4mm4.io)
- - date_published: 2023-12-24T10:07:20+00:00
-
- ## Gabrael Levine
- - [https://www.gabrael.io](https://www.gabrael.io)
- - date_published: 2024-06-22T08:14:43.823619+00:00
-
- ## Gadget Specs, Reviews, Prices, etc! - • - Gadget Specs
- - [https://gadgetspecs.io](https://gadgetspecs.io)
- - date_published: 2024-07-03T11:37:37.167191+00:00
-
- ## Gainbridge: A better way to grow your money.
- - [https://www.gainbridge.io](https://www.gainbridge.io)
- - date_published: 2024-07-01T12:44:53+00:00
 

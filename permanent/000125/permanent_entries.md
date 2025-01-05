@@ -1,3 +1,19 @@
+ ## Fostering Cross-Industry Collaboration to Achieve Climate Commitments
+ - [https://achievingclimatecommitments.live.ft.com](https://achievingclimatecommitments.live.ft.com)
+ - date_published: 2024-12-14T13:27:45.695102+00:00
+
+ ## Africa Summit 2025
+ - [https://africa2025.live.ft.com](https://africa2025.live.ft.com)
+ - date_published: 2024-10-31T09:24:53.106084+00:00
+
+ ## Africa Summit 2024 - A Financial Times Live Event
+ - [https://africa.live.ft.com](https://africa.live.ft.com)
+ - date_published: 2024-06-19T23:28:09.784153+00:00
+
+ ## Political Risk and Investment in Africa
+ - [https://africanpolitics.live.ft.com](https://africanpolitics.live.ft.com)
+ - date_published: 2024-06-19T23:28:11.783239+00:00
+
  ## AFRICA SUSTAINABLE FUTURES AWARDS - Financial Times Event
  - [https://africasustainablefuturesawards.live.ft.com](https://africasustainablefuturesawards.live.ft.com)
  - date_published: 2024-06-19T23:27:34.716110+00:00
@@ -21,9 +37,10 @@
  ## Attention Required! | Cloudflare
  - [https://applink.ft.com](https://applink.ft.com)
  - date_published: 2024-05-04T07:11:41.920710+00:00
+ - date_dead_since: 2025-01-04T17:45:57.141700+00:00
 
  ## The Business of Art Summit 2024 - A Financial Times Live Event
- - [https://art.live.ft.com](https://art.live.ft.com)
+ - [http://art.live.ft.com](http://art.live.ft.com)
  - date_published: 2024-06-19T23:27:31.805252+00:00
 
  ## The Private Sector's Role In Nutrition - Financial Times Live
@@ -43,7 +60,7 @@
  - date_published: 2024-06-19T23:29:15.955604+00:00
 
  ## Financial Times
- - [http://blogs.ft.com](http://blogs.ft.com)
+ - [https://blogs.ft.com](https://blogs.ft.com)
  - date_published: 2024-06-20T03:46:51.740622+00:00
 
  ## Brazil Summit
@@ -239,8 +256,9 @@
  - date_published: 2024-06-19T23:37:15.850912+00:00
 
  ## Attention Required! | Cloudflare
- - [https://ftedit.ft.com](https://ftedit.ft.com)
+ - [http://ftedit.ft.com](http://ftedit.ft.com)
  - date_published: 2024-05-04T07:12:30.463227+00:00
+ - date_dead_since: 2025-01-04T17:50:37.441004+00:00
 
  ## Today's International Newspaper
  - [https://ftepaper.ft.com](https://ftepaper.ft.com)
@@ -267,7 +285,7 @@
  - date_published: 2024-05-04T07:11:20.072605+00:00
 
  ## Hydrogen Summit 2025 - A Financial Times Live Event
- - [https://hydrogen2025.live.ft.com](https://hydrogen2025.live.ft.com)
+ - [http://hydrogen2025.live.ft.com](http://hydrogen2025.live.ft.com)
  - date_published: 2024-06-19T23:28:18.988284+00:00
 
  ## Hydrogen Summit 2025 - A Financial Times Live Event
@@ -279,7 +297,7 @@
  - date_published: 2019-09-19T10:57:30+00:00
 
  ## Global Insurance Summit 2025 - A Financial Times Live Event
- - [https://insurance2025.live.ft.com](https://insurance2025.live.ft.com)
+ - [http://insurance2025.live.ft.com](http://insurance2025.live.ft.com)
  - date_published: 2024-06-19T23:27:57.303916+00:00
 
  ## Global Insurance Summit 2025 - A Financial Times Live Event
@@ -317,13 +335,14 @@
  ## Welcome
  - [https://labs.ft.com](https://labs.ft.com)
  - date_published: 2022-11-28T15:21:12+00:00
+ - date_dead_since: 2025-01-04T17:54:23.548441+00:00
 
  ## Infrastructure Investment in Latin America and the Caribbean | Home
  - [https://lataminfrastructure.live.ft.com](https://lataminfrastructure.live.ft.com)
  - date_published: 2024-06-19T23:26:14.492042+00:00
 
  ## Innovative Lawyers Awards Asia-Pacific
- - [https://lawyersasia2025.live.ft.com](https://lawyersasia2025.live.ft.com)
+ - [http://lawyersasia2025.live.ft.com](http://lawyersasia2025.live.ft.com)
  - date_published: 2024-06-19T23:28:42.279796+00:00
 
  ## Innovative Lawyers Awards AsiaPacific 2025 -Financial Times Live Event
@@ -363,7 +382,7 @@
  - date_published: 2024-05-04T07:12:50.468866+00:00
 
  ## Business of Luxury Summit 2025
- - [https://luxuryglobal2025.live.ft.com](https://luxuryglobal2025.live.ft.com)
+ - [http://luxuryglobal2025.live.ft.com](http://luxuryglobal2025.live.ft.com)
  - date_published: 2024-06-19T23:27:46.452214+00:00
 
  ## Business of Luxury 2025 - Financial Times Live Event
@@ -427,7 +446,7 @@
  - date_published: 2024-06-18T11:09:47.131499+00:00
 
  ## Outstanding Directors Exchange 2025 - FT Live
- - [https://odx2025.live.ft.com](https://odx2025.live.ft.com)
+ - [http://odx2025.live.ft.com](http://odx2025.live.ft.com)
  - date_published: 2024-06-19T23:28:43.992754+00:00
 
  ## Outstanding Directors Exchange 2025 - FT Live
@@ -531,7 +550,7 @@
  - date_published: 2024-06-19T03:51:20.353881+00:00
 
  ## FTWeekend Festival: U.S. edition
- - [https://usftweekendfestival2025.live.ft.com](https://usftweekendfestival2025.live.ft.com)
+ - [http://usftweekendfestival2025.live.ft.com](http://usftweekendfestival2025.live.ft.com)
  - date_published: 2024-06-19T23:26:47.077557+00:00
 
  ## Financial Times Weekend Festival U.S. Edition - 4 May 2024
@@ -547,7 +566,7 @@
  - date_published: 2024-12-14T12:29:00.845512+00:00
 
  ## FT Women in Business Summit 2025 - A Financial Times Live Event
- - [https://womeninbusiness2025.live.ft.com](https://womeninbusiness2025.live.ft.com)
+ - [http://womeninbusiness2025.live.ft.com](http://womeninbusiness2025.live.ft.com)
  - date_published: 2024-06-19T23:27:06.045597+00:00
 
  ## FT Women in Business Summit 2025 - A Financial Times Live Event
@@ -558,13 +577,13 @@
  - [https://financialadviceforum.ftadviser.com](https://financialadviceforum.ftadviser.com)
  - date_published: 2024-06-19T23:28:38.570363+00:00
 
+ ## FTAdviser
+ - [https://ftadviser.com](https://ftadviser.com)
+ - date_published: 2023-10-25T14:39:26.291885+00:00
+
  ## Evolving retirement strategies in an ever-changing world
  - [https://retirementstrategies.ftadviser.com](https://retirementstrategies.ftadviser.com)
  - date_published: 2024-10-31T10:37:25.840572+00:00
-
- ## FTAdviser
- - [https://www.ftadviser.com](https://www.ftadviser.com)
- - date_published: 2023-10-25T14:39:26.291885+00:00
 
  ## FTB - FTB Bank Cambodia
  - [https://ftbbank.com](https://ftbbank.com)
@@ -575,15 +594,15 @@
  - date_published: 2024-12-24T00:00:00+00:00
 
  ## FT中文网 － 全球财经精粹
- - [http://ftchinese.com](http://ftchinese.com)
+ - [https://ftchinese.com](https://ftchinese.com)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Home - FTDI
- - [http://www.ftdichip.com](http://www.ftdichip.com)
+ - [https://ftdichip.com](https://ftdichip.com)
  - date_published: 2024-02-08T00:00:00+00:00
 
  ## FTEJerez | Flight Training Europe
- - [http://ftejerez.com](http://ftejerez.com)
+ - [https://ftejerez.com](https://ftejerez.com)
  - date_published: 2024-10-23T06:39:03.312773+00:00
 
  ## The Best Free WordPress Themes by Category - Hosting Victory
@@ -595,7 +614,7 @@
  - date_published: 2024-04-26T00:00:00+00:00
 
  ## Concrete Contractor, Concrete Construction, Fort Lauderdale, FL
- - [https://www.ftlconcrete.com](https://www.ftlconcrete.com)
+ - [https://ftlconcrete.com](https://ftlconcrete.com)
  - date_published: 2024-06-02T00:00:00+00:00
 
  ## Florida Construction Law Attorney - Law Offices of John Caravella
@@ -611,7 +630,7 @@
  - date_published: 2022-11-11T17:24:22+00:00
 
  ## Fort Lauderdale United FC | Women's Professional Soccer
- - [https://www.ftlutd.com](https://www.ftlutd.com)
+ - [https://ftlutd.com](https://ftlutd.com)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## FTMO - Modern Prop Trading
@@ -635,7 +654,7 @@
  - date_published: 2024-06-29T16:41:04.617307+00:00
 
  ## All-In-One NFT Platform | Buy and Sell NFTs with ftNFT
- - [http://ftnft.com](http://ftnft.com)
+ - [https://ftnft.com](https://ftnft.com)
  - date_published: 2024-09-25T13:00:36.358397+00:00
 
  ## Bahamut  Explorer
@@ -647,7 +666,7 @@
  - date_published: 2024-09-24T08:18:43.110388+00:00
 
  ## ftp://con:2023 - an antifascist hacker conference set in the year 2023
- - [https://www.ftpcon.com](https://www.ftpcon.com)
+ - [https://ftpcon.com](https://ftpcon.com)
  - date_published: 2023-08-19T20:27:58+00:00
 
  ## FTPie - Your Ultimate FTP Client
@@ -675,7 +694,7 @@
  - date_published: 2024-10-15T19:41:19.713136+00:00
 
  ## FTSE Russell Indices, Insights & Data
- - [http://www.ftse.com](http://www.ftse.com)
+ - [https://ftse.com](https://ftse.com)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## FTSE Russell Indices, Insights & Data
@@ -683,19 +702,19 @@
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## FTS InfoTech: The Enterprise iOS Developers
- - [https://www.ftsinfotech.com](https://www.ftsinfotech.com)
+ - [https://ftsinfotech.com](https://ftsinfotech.com)
  - date_published: 2024-05-04T11:49:10.803998+00:00
+
+ ## Welcome | FT Specialist - Specialist insight from the Financial Times
+ - [https://ftspecialist.com](https://ftspecialist.com)
+ - date_published: 2024-05-02T07:58:48.264182+00:00
 
  ## FT Specialist Legal information
  - [https://terms.ftspecialist.com](https://terms.ftspecialist.com)
  - date_published: 2023-11-13T11:49:38+00:00
 
- ## Welcome | FT Specialist - Specialist insight from the Financial Times
- - [https://www.ftspecialist.com](https://www.ftspecialist.com)
- - date_published: 2024-05-02T07:58:48.264182+00:00
-
  ## Welcome | FT Strategies - The specialist Media consultancy from the Financial Times
- - [https://www.ftstrategies.com](https://www.ftstrategies.com)
+ - [https://ftstrategies.com](https://ftstrategies.com)
  - date_published: 2024-07-04T05:20:11+00:00
 
  ## utah360
@@ -703,7 +722,7 @@
  - date_published: 2024-09-06T18:28:08+00:00
 
  ## Home - FIX THE WORLD PROJECT MOROCCO
- - [https://www.ftwproject.com](https://www.ftwproject.com)
+ - [https://ftwproject.com](https://ftwproject.com)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## FTX
@@ -719,7 +738,7 @@
  - date_published: 2024-05-16T00:00:00+00:00
 
  ## How Do I Declare A Block in Objective-C?
- - [http://fuckingblocksyntax.com](http://fuckingblocksyntax.com)
+ - [https://fuckingblocksyntax.com](https://fuckingblocksyntax.com)
  - date_published: 2019-06-11T13:20:45+00:00
 
  ## How Do I Declare a Closure in Swift?
@@ -727,11 +746,11 @@
  - date_published: 2021-11-09T15:43:15+00:00
 
  ## Fucking Shitcoins
- - [https://www.fuckingshitcoins.com](https://www.fuckingshitcoins.com)
+ - [https://fuckingshitcoins.com](https://fuckingshitcoins.com)
  - date_published: 2022-09-09T12:08:02+00:00
 
  ## fucking time zones
- - [https://www.fuckingtimezones.com](https://www.fuckingtimezones.com)
+ - [https://fuckingtimezones.com](https://fuckingtimezones.com)
  - date_published: 2024-06-10T13:20:16+00:00
 
  ## Local Fuck? Fuck Free on the #1 Fuck Site
@@ -751,7 +770,7 @@
  - date_published: 2024-09-14T23:32:14.174108+00:00
 
  ## Fuckup Nights
- - [https://community.fuckupnights.com](https://community.fuckupnights.com)
+ - [http://community.fuckupnights.com](http://community.fuckupnights.com)
  - date_published: 2024-05-03T00:00:00+00:00
 
  ## Fuckup Nights
@@ -759,11 +778,11 @@
  - date_published: 2024-01-09T02:36:56.864227+00:00
 
  ## Fuckup Nights
- - [http://fuckupnights.com](http://fuckupnights.com)
+ - [https://fuckupnights.com](https://fuckupnights.com)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Fuck Yeah Gravity Falls! -
- - [http://fuckyeahgravityfalls.com](http://fuckyeahgravityfalls.com)
+ - [https://fuckyeahgravityfalls.com](https://fuckyeahgravityfalls.com)
  - date_published: 2024-10-25T10:42:11.207967+00:00
 
  ## FUDCO
@@ -771,7 +790,7 @@
  - date_published: 2010-03-12T23:37:05+00:00
 
  ## Fudex Exhibition Pvt. Ltd. - Manufacturing of Exhibition Stall Service
- - [https://www.fudexexhibition.com](https://www.fudexexhibition.com)
+ - [https://fudexexhibition.com](https://fudexexhibition.com)
  - date_published: 2024-07-19T08:03:00+00:00
 
  ## Privileged Access Management Solutions for Enhanced Cybersecurity | PAM Systems | Fudo Security
@@ -788,7 +807,7 @@
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## The Best Latino Party in New York City - Fuego Thursdays
- - [https://www.fuegothursdays.com](https://www.fuegothursdays.com)
+ - [https://fuegothursdays.com](https://fuegothursdays.com)
  - date_published: 2024-09-04T06:00:26.689741+00:00
 
  ## Fuel.com - Premium category defining domain names for sale, exact match domains
@@ -796,7 +815,7 @@
  - date_published: 2024-12-25T17:10:55.055127+00:00
 
  ## A Global Leader in Fuel Cell Technology Innovation | FuelCell Energy
- - [https://www.fuelcellenergy.com](https://www.fuelcellenergy.com)
+ - [https://fuelcellenergy.com](https://fuelcellenergy.com)
  - date_published: 2024-08-28T20:08:09+00:00
 
  ## Performance Automotive Lifestyle Purists
@@ -820,11 +839,11 @@
  - date_published: 2024-06-23T22:37:01+00:00
 
  ## Fuelly - Track and Compare your MPG
- - [http://www.fuelly.com](http://www.fuelly.com)
+ - [https://fuelly.com](https://fuelly.com)
  - date_published: 2024-08-18T09:14:16.151716+00:00
 
  ## Fuelmywebsite - We help companies to start selling on Amazon. UK partners with GS1
- - [http://www.fuelmyblog.com](http://www.fuelmyblog.com)
+ - [https://fuelmyblog.com](https://fuelmyblog.com)
  - date_published: 2024-05-31T09:55:00+00:00
 
  ## Home | 🥩 Fuel Prepper
@@ -832,7 +851,7 @@
  - date_published: 2025-01-01T21:06:41.708366+00:00
 
  ## FAM - Fuerzas Militares de Mundo
- - [http://www.fuerzasmilitares.com](http://www.fuerzasmilitares.com)
+ - [https://fuerzasmilitares.com](https://fuerzasmilitares.com)
  - date_published: 2021-03-27T07:40:42+00:00
 
  ## Fugro | Creating a Safe and Liveable World | Leading Geo-data and Consultancy Services
@@ -844,7 +863,7 @@
  - date_published: 1990-01-01T00:00:00+00:00
 
  ## Fujifilm [Global]
- - [https://www.fujifilm.com](https://www.fujifilm.com)
+ - [https://fujifilm.com](https://fujifilm.com)
  - date_published: 2024-07-02T02:20:44+00:00
 
  ## FUJIFILM X | GFX eShop Startseite
@@ -858,6 +877,7 @@
  ## SERIBUTOTO > Gabung Situs Judi Online Terbesar Di Bumi 2024
  - [https://fujistamp.com](https://fujistamp.com)
  - date_published: 2024-06-20T12:28:11+00:00
+ - date_dead_since: 2025-01-04T18:05:47.047203+00:00
 
  ## Fuji Towers Apartments
  - [https://fujitowersinc.com](https://fujitowersinc.com)
@@ -893,7 +913,7 @@
  - date_published: 2024-05-04T05:47:01.969995+00:00
 
  ## FUJITSU GENERAL GLOBAL | INNOVATION & GLOBALIZATION
- - [https://www.fujitsu-general.com](https://www.fujitsu-general.com)
+ - [https://fujitsu-general.com](https://fujitsu-general.com)
  - date_published: 2024-05-27T00:00:00+00:00
 
  ## Ricoh Document Scanners, Laser Printers, Laser Projectors, and Portable Monitors
@@ -909,11 +929,11 @@
  - date_published: 2024-12-21T07:53:06+00:00
 
  ## セーレンプラネット（福井市自然史博物館分館）
- - [https://www.fukui-planet.com](https://www.fukui-planet.com)
+ - [https://fukui-planet.com](https://fukui-planet.com)
  - date_published: 2024-10-14T00:00:00+00:00
 
  ## Fukushima 福島第一
- - [https://www.fukushima-blog.com](https://www.fukushima-blog.com)
+ - [https://fukushima-blog.com](https://fukushima-blog.com)
  - date_published: 2024-10-26T21:43:33.272758+00:00
 
  ## Fulcrum | Field data collection and process mgt platform with AI
@@ -937,19 +957,19 @@
  - date_published: 2024-07-08T11:25:09.002627+00:00
 
  ## Your Platform for Modern RevOps Strategy
- - [https://www.fullcast.com](https://www.fullcast.com)
+ - [https://fullcast.com](https://fullcast.com)
  - date_published: 2024-08-01T00:00:00+00:00
 
  ## Internet Provider - TV and Phone Service - i3 Broadband
- - [http://www.fullchannel.com](http://www.fullchannel.com)
+ - [https://fullchannel.com](https://fullchannel.com)
  - date_published: 2024-06-29T16:11:03.717371+00:00
 
  ## Home
- - [http://fullchokefowl.com](http://fullchokefowl.com)
+ - [https://fullchokefowl.com](https://fullchokefowl.com)
  - date_published: 2024-07-07T12:35:39+00:00
 
  ## Full Circle Artists | Bicoastal Full-Service Concert Agency
- - [https://www.fullcircleartists.com](https://www.fullcircleartists.com)
+ - [https://fullcircleartists.com](https://fullcircleartists.com)
  - date_published: 2021-09-11T06:45:38+00:00
 
  ## Home
@@ -957,7 +977,7 @@
  - date_published: 2024-06-29T11:02:31.513496+00:00
 
  ## FullCircle Studies
- - [http://www.fullcirclestudies.com](http://www.fullcirclestudies.com)
+ - [https://fullcirclestudies.com](https://fullcirclestudies.com)
  - date_published: 2024-03-26T15:29:00+00:00
 
  ## Full Circle Wins - Web Development, Amazon & Shopify Management
@@ -987,7 +1007,7 @@
  - date_published: 2024-07-03T05:34:05.251150+00:00
 
  ## Home - Full Fat
- - [http://www.fullfat.com](http://www.fullfat.com)
+ - [https://fullfat.com](https://fullfat.com)
  - date_published: 2024-06-20T17:18:53.963203+00:00
 
  ## Fullmetal Alchemist Brotherhood USA Official Website
@@ -996,7 +1016,7 @@
  - tags: ['fullmetal alchemist brotherhood', 'anime show']
 
  ## FullMoon offers 24/7 chat to esoterics. | FullMoonChat
- - [https://fullmoonchat.com](https://fullmoonchat.com)
+ - [http://fullmoonchat.com](http://fullmoonchat.com)
  - date_published: 2024-09-02T09:51:49.234834+00:00
 
  ## FMDM - Independent Creative and Digital Media Buying Agency
@@ -1004,20 +1024,20 @@
  - date_published: 2024-10-22T15:01:30.368254+00:00
 
  ## Fullmoonfiberart.com
- - [https://www.fullmoonfiberart.com](https://www.fullmoonfiberart.com)
+ - [https://fullmoonfiberart.com](https://fullmoonfiberart.com)
  - date_published: 2024-09-06T01:01:36.969179+00:00
 
  ## Full Moon Resort | Catskills Weddings & Retreats | Music Masters Collective | FMR Catering
- - [https://www.fullmoonresort.com](https://www.fullmoonresort.com)
+ - [https://fullmoonresort.com](https://fullmoonresort.com)
  - date_published: 2024-08-18T02:50:35.888534+00:00
+
+ ## full_om
+ - [https://full-om.com](https://full-om.com)
+ - date_published: 2023-08-02T00:00:00+00:00
 
  ## The fullOM™ Shop
  - [https://shop.full-om.com](https://shop.full-om.com)
  - date_published: 2024-05-14T00:00:00+00:00
-
- ## full_om
- - [https://www.full-om.com](https://www.full-om.com)
- - date_published: 2023-08-02T00:00:00+00:00
 
  ## Full Orbit Web & Marketing
  - [https://fullorbitweb.com](https://fullorbitweb.com)
@@ -1048,7 +1068,7 @@
  - date_published: 2024-06-18T20:53:24+00:00
 
  ## Full Sail Realty of Northwest Florida | Lisa Felix | Panama City, FL |  850-348-1673
- - [http://www.fullsailnwfl.com](http://www.fullsailnwfl.com)
+ - [https://fullsailnwfl.com](https://fullsailnwfl.com)
  - date_published: 2024-06-29T00:00:00+00:00
 
  ## Screensavers for Windows - FullScreensavers.com
@@ -1067,16 +1087,16 @@
  - [https://fullsiteediting.com](https://fullsiteediting.com)
  - date_published: 2024-05-25T00:00:00+00:00
 
+ ## Top-Ranked Tech Bootcamps in NYC & Online | Fullstack Academy
+ - [https://fullstackacademy.com](https://fullstackacademy.com)
+ - date_published: 2024-05-06T13:42:28.571137+00:00
+
  ## Courses - Fullstack Academy
  - [https://welcome.fullstackacademy.com](https://welcome.fullstackacademy.com)
  - date_published: 2022-11-18T13:57:18+00:00
 
- ## Top-Ranked Tech Bootcamps in NYC & Online | Fullstack Academy
- - [https://www.fullstackacademy.com](https://www.fullstackacademy.com)
- - date_published: 2024-05-06T13:42:28.571137+00:00
-
  ## Full Stack Book
- - [https://www.fullstackbook.com](https://www.fullstackbook.com)
+ - [https://fullstackbook.com](https://fullstackbook.com)
  - date_published: 2024-07-14T09:57:54.899346+00:00
 
  ## FullStack Bulletin
@@ -1096,7 +1116,7 @@
  - date_published: 2024-05-04T07:13:39.088641+00:00
 
  ## Full Stack Economics | Timothy B Lee | Substack
- - [https://www.fullstackeconomics.com](https://www.fullstackeconomics.com)
+ - [https://fullstackeconomics.com](https://fullstackeconomics.com)
  - date_published: 2023-10-25T14:39:39.123373+00:00
 
  ## Full Stack Fest - 4-6 September 2019 - Sitges, Barcelona
@@ -1118,7 +1138,7 @@
 
  ## Kopi Code - Your Enterprise Training Provider
  - [https://fullstacktraining.com](https://fullstacktraining.com)
- - date_published: 2024-10-20T08:57:38.544247+00:00
+ - date_published: 2024-01-25T03:57:26+00:00
 
  ## Full Stack Whatever — A podcast about the work behind the work, hosted by Maykel Loomans
  - [https://fullstackwhatever.com](https://fullstackwhatever.com)
@@ -1133,7 +1153,7 @@
  - date_published: 2024-05-20T14:52:11+00:00
 
  ## Fullstory Help Center
- - [https://help.fullstory.com](https://help.fullstory.com)
+ - [http://help.fullstory.com](http://help.fullstory.com)
  - date_published: 2024-04-16T00:00:00+00:00
 
  ## Fullstory | Learn
@@ -1147,10 +1167,12 @@
  ## Fullstory: Surface User Sentiment with Behavioral Data | Fullstory
  - [https://rs.fullstory.com](https://rs.fullstory.com)
  - date_published: 2024-05-06T22:33:12.890937+00:00
+ - date_dead_since: 2025-01-04T18:21:09.822895+00:00
 
  ## Fullstory: Surface User Sentiment with Behavioral Data | Fullstory
  - [https://www.fullstory.com](https://www.fullstory.com)
  - date_published: 2024-08-19T10:33:04.868508+00:00
+ - date_dead_since: 2025-01-04T18:21:12.919598+00:00
 
  ## Full Strut Media
  - [https://fullstrutmedia.com](https://fullstrutmedia.com)
@@ -1165,7 +1187,7 @@
  - date_published: 2024-09-09T13:55:43.519854+00:00
 
  ## Fully – Herman Miller Store
- - [https://www.fully.com](https://www.fully.com)
+ - [https://fully.com](https://fully.com)
  - date_published: 2024-06-23T06:25:54.868218+00:00
 
  ## Fully Bearded
@@ -1173,7 +1195,7 @@
  - date_published: 2024-03-26T21:45:25+00:00
 
  ## Fully Forged
- - [http://www.fullyforged.com](http://www.fullyforged.com)
+ - [https://www.fullyforged.com](https://www.fullyforged.com)
  - date_published: 2018-10-20T11:40:15+00:00
 
  ## Fully Illustrated - Design Services for the Games Industry
@@ -1213,15 +1235,15 @@
  - date_published: 2024-12-31T12:48:43.790077+00:00
 
  ## Füm - The Good Habit™
- - [https://www.fumessential.com](https://www.fumessential.com)
+ - [https://fumessential.com](https://fumessential.com)
  - date_published: 2024-07-10T02:10:00.043897+00:00
 
  ## Fumi Studio
- - [http://www.fumistudio.com](http://www.fumistudio.com)
+ - [https://fumistudio.com](https://fumistudio.com)
  - date_published: 2018-09-17T00:00:00+00:00
 
  ## 亚洲首选体育平台，英超热刺纽卡赞助伙伴
- - [https://www.fun88375.com](https://www.fun88375.com)
+ - [https://fun88375.com](https://fun88375.com)
  - date_published: 2024-06-21T07:40:18+00:00
 
  ## Funagain Games
@@ -1245,20 +1267,20 @@
  - date_published: 2024-12-13T06:22:39.648947+00:00
 
  ## Organic feeding tube formulas and whole foods meal replacement - Functional Formularies
- - [https://www.functionalformularies.com](https://www.functionalformularies.com)
+ - [https://functionalformularies.com](https://functionalformularies.com)
  - date_published: 2024-07-24T00:00:00+00:00
 
  ## Functional Geekery
- - [https://www.functionalgeekery.com](https://www.functionalgeekery.com)
+ - [https://functionalgeekery.com](https://functionalgeekery.com)
  - date_published: 2024-06-22T15:55:59.241704+00:00
+
+ ## AI Test Automation with Machine Learning | Functionize
+ - [https://functionize.com](https://functionize.com)
+ - date_published: 2023-10-25T14:39:43.665354+00:00
 
  ## Agile Automation Testing Framework with Machine Learning | Functionize
  - [https://partners.functionize.com](https://partners.functionize.com)
  - date_published: 2024-05-03T00:00:00+00:00
-
- ## AI Test Automation with Machine Learning | Functionize
- - [https://www.functionize.com](https://www.functionize.com)
- - date_published: 2023-10-25T14:39:43.665354+00:00
 
  ## FunctionTrace - human-oriented profiling for Python
  - [https://functiontrace.com](https://functiontrace.com)
@@ -1281,7 +1303,7 @@
  - date_published: 2019-02-26T18:56:10+00:00
 
  ## Fundable | Startup Fundraising Platform
- - [https://www.fundable.com](https://www.fundable.com)
+ - [https://fundable.com](https://fundable.com)
  - date_published: 2024-08-12T04:36:00.715552+00:00
 
  ## Startup training classes, tools & coaching for founders
@@ -1297,7 +1319,7 @@
  - date_published: 2024-05-07T23:08:58.231764+00:00
 
  ## Fundación Banco Santander | Culture, Art and Social Action
- - [https://www.fundacionbancosantander.com](https://www.fundacionbancosantander.com)
+ - [https://fundacionbancosantander.com](https://fundacionbancosantander.com)
  - date_published: 2024-09-28T23:57:14.541499+00:00
 
  ## fundacioncarriegos.com - Ta strona jest na sprzedaż! - fundacioncarriegos Zasoby i informacje.
@@ -1305,7 +1327,7 @@
  - date_published: 2024-08-06T22:50:41+00:00
 
  ## Fundación COPE – Máster COPE de Radio
- - [http://fundacioncope.com](http://fundacioncope.com)
+ - [https://fundacioncope.com](https://fundacioncope.com)
  - date_published: 2024-08-07T15:37:41.401200+00:00
 
  ## Fundación Santa Fe de Bogotá
@@ -1321,7 +1343,7 @@
  - date_published: 2024-09-12T14:20:27.458445+00:00
 
  ## Fundación Santiago Rey Fernandez-Latorre
- - [http://www.fundacionsantiagoreyfernandezlatorre.com](http://www.fundacionsantiagoreyfernandezlatorre.com)
+ - [http://fundacionsantiagoreyfernandezlatorre.com](http://fundacionsantiagoreyfernandezlatorre.com)
  - date_published: 2024-09-18T23:43:47.775953+00:00
 
  ## Home - Fundación Santillana
@@ -1337,7 +1359,7 @@
  - date_published: 2020-02-25T10:34:22+00:00
 
  ## Inicio - Fundación Unicaja
- - [https://www.fundacionunicaja.com](https://www.fundacionunicaja.com)
+ - [https://fundacionunicaja.com](https://fundacionunicaja.com)
  - date_published: 2024-10-27T23:46:32.819555+00:00
 
  ## Fundamentalised | Theo Stowell | Substack
@@ -1345,7 +1367,7 @@
  - date_published: 2024-09-15T00:00:00+00:00
 
  ## Fundamentals of DevOps and Software Delivery
- - [https://www.fundamentals-of-devops.com](https://www.fundamentals-of-devops.com)
+ - [https://fundamentals-of-devops.com](https://fundamentals-of-devops.com)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Working Capital Loans for Small Businesses
@@ -1361,7 +1383,7 @@
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Resources & Crowdfunding for Women Entrepreneurship
- - [https://www.funddreamer.com](https://www.funddreamer.com)
+ - [https://funddreamer.com](https://funddreamer.com)
  - date_published: 2024-06-29T17:57:12.177653+00:00
 
  ## FundersClub Careers
@@ -1373,7 +1395,7 @@
  - date_published: 2024-05-12T05:01:06.050056+00:00
 
  ## FundersClub Help
- - [https://support.fundersclub.com](https://support.fundersclub.com)
+ - [http://support.fundersclub.com](http://support.fundersclub.com)
  - date_published: 2014-05-02T00:00:00+00:00
 
  ## Fund F Homepage
@@ -1416,20 +1438,20 @@
  - [https://corporate.fundingcircle.com](https://corporate.fundingcircle.com)
  - date_published: 2024-06-16T16:01:17.509990+00:00
 
+ ## Funding Circle: Fast, Affordable Small Business Finance | Funding Circle
+ - [https://fundingcircle.com](https://fundingcircle.com)
+ - date_published: 2024-05-01T07:12:11.603854+00:00
+
  ## Funding Circle: The leading small business loans platform
  - [https://static.fundingcircle.com](https://static.fundingcircle.com)
  - date_published: 2024-06-28T15:02:47+00:00
-
- ## Funding Circle: Fast, Affordable Small Business Finance | Funding Circle
- - [https://www.fundingcircle.com](https://www.fundingcircle.com)
- - date_published: 2024-05-01T07:12:11.603854+00:00
 
  ## Startup Funding Simulator
  - [https://fundingsimulator.com](https://fundingsimulator.com)
  - date_published: 2024-01-24T19:34:00.739282+00:00
 
  ## Search Thousands of Company Profiles – FundingUniverse
- - [http://fundinguniverse.com](http://fundinguniverse.com)
+ - [https://fundinguniverse.com](https://fundinguniverse.com)
  - date_published: 2024-02-08T21:50:42.840046+00:00
 
  ## Fundly Blog - Fundraising Ideas and Resources
@@ -1439,6 +1461,7 @@
  ## Fundly - Setup a Donation Page and Start Fundraising Online Now
  - [https://fundly.com](https://fundly.com)
  - date_published: 2024-06-15T18:17:25.162956+00:00
+ - date_dead_since: 2025-01-04T18:31:21.672140+00:00
 
  ## Attention Required! | Cloudflare
  - [https://images.fundly.com](https://images.fundly.com)
@@ -1465,7 +1488,7 @@
  - date_published: 2024-05-10T00:00:00+00:00
 
  ## Fundrbird
- - [https://www.fundrbird.com](https://www.fundrbird.com)
+ - [https://fundrbird.com](https://fundrbird.com)
  - date_published: 2024-07-03T01:55:32.390783+00:00
 
  ## Fundrise
@@ -1474,7 +1497,7 @@
  - tags: ['investments']
 
  ## Homepage - Fundserv Inc
- - [https://www.fundserv.com](https://www.fundserv.com)
+ - [https://fundserv.com](https://fundserv.com)
  - date_published: 2024-09-25T00:00:00+00:00
 
  ## Apiture
@@ -1523,11 +1546,11 @@
  - date_published: 2024-09-19T19:27:02.323162+00:00
 
  ## funetics
- - [https://www.funetics.com](https://www.funetics.com)
+ - [https://funetics.com](https://funetics.com)
  - date_published: 2024-07-02T06:24:48.454928+00:00
 
  ## CraftyMelinda.com – SVG cut files, Digital Stamps, Printables and Graphics
- - [http://www.funfolds.com](http://www.funfolds.com)
+ - [https://funfolds.com](https://funfolds.com)
  - date_published: 2024-09-02T15:58:14.295097+00:00
 
  ## Crosswords for Developers.
@@ -1556,24 +1579,24 @@
  - date_published: 2023-12-07T00:00:00+00:00
 
  ## Fungi Academy – Sacred Mycology School
- - [http://fungiacademy.com](http://fungiacademy.com)
+ - [https://fungiacademy.com](https://fungiacademy.com)
  - date_published: 2024-09-12T19:19:36.656453+00:00
 
  ## Conseil
- - [http://www.fungolf.com](http://www.fungolf.com)
+ - [https://fungolf.com](https://fungolf.com)
  - date_published: 2023-08-31T13:20:06+00:00
 
  ## Fungus
  - [https://fungusgames.com](https://fungusgames.com)
  - date_published: 2024-07-13T05:01:55.492955+00:00
 
- ## Funimation | Help
- - [https://help.funimation.com](https://help.funimation.com)
- - date_published: 2024-02-09T00:43:00.986412+00:00
-
  ## Crunchyroll logo
- - [http://www.funimation.com](http://www.funimation.com)
+ - [https://funimation.com](https://funimation.com)
  - date_published: 2024-06-28T11:59:23+00:00
+
+ ## Funimation | Help
+ - [http://help.funimation.com](http://help.funimation.com)
+ - date_published: 2024-02-09T00:43:00.986412+00:00
 
  ## Reliable Web Hosting, VPS Hosting, Domain Names by Funio
  - [https://funio.com](https://funio.com)
@@ -1637,7 +1660,7 @@
  - date_published: 2024-09-30T00:00:00+00:00
 
  ## FunkologyCleveland.com
- - [http://funkologycleveland.com](http://funkologycleveland.com)
+ - [https://funkologycleveland.com](https://funkologycleveland.com)
  - date_published: 2024-05-24T02:18:25+00:00
 
  ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
@@ -1645,7 +1668,7 @@
  - date_published: 2024-08-07T06:03:14+00:00
 
  ## Funky Pigeon | Create Unique Cards & Gifts Online
- - [https://www.funkypigeon.com](https://www.funkypigeon.com)
+ - [https://funkypigeon.com](https://funkypigeon.com)
  - date_published: 2024-06-18T10:11:18.475886+00:00
 
  ## Flags of War
@@ -1653,7 +1676,7 @@
  - date_published: 2024-10-31T19:06:43.636865+00:00
 
  ## FSMdotCOM
- - [https://www.funkyspacemonkey.com](https://www.funkyspacemonkey.com)
+ - [https://funkyspacemonkey.com](https://funkyspacemonkey.com)
  - date_published: 2024-06-23T17:15:20.089326+00:00
 
  ## The Finch Workshop
@@ -1661,11 +1684,11 @@
  - date_published: 2024-11-16T19:18:57.561522+00:00
 
  ## Funnel Packs - Pre-Built Marketing Funnels for Agencies
- - [https://www.funnelpacks.com](https://www.funnelpacks.com)
+ - [https://funnelpacks.com](https://funnelpacks.com)
  - date_published: 2024-09-23T11:19:31+00:00
 
  ## Amplify Your Sales with Salesforce Pipeline Management Tools
- - [http://funnelsource.com](http://funnelsource.com)
+ - [https://funnelsource.com](https://funnelsource.com)
  - date_published: 2016-05-07T02:32:25+00:00
 
  ## Funny Animal Books
@@ -1673,7 +1696,7 @@
  - date_published: 2024-07-14T10:51:20.815373+00:00
 
  ## Ain't it funny how the knight moves?
- - [https://www.funnyhowtheknightmoves.com](https://www.funnyhowtheknightmoves.com)
+ - [https://funnyhowtheknightmoves.com](https://funnyhowtheknightmoves.com)
  - date_published: 2023-01-21T05:20:05+00:00
 
  ## FunnyLookinHat / David Overcash
@@ -1681,11 +1704,11 @@
  - date_published: 2021-07-23T00:00:00+00:00
 
  ## Server
- - [http://nascar-baby.funnypart.com](http://nascar-baby.funnypart.com)
+ - [https://nascar-baby.funnypart.com](https://nascar-baby.funnypart.com)
  - date_published: 2024-07-19T05:16:50.949368+00:00
 
  ## funnywebzone.com - Ta strona jest na sprzedaż! - funnywebzone Zasoby i informacje.
- - [http://www.funnywebzone.com](http://www.funnywebzone.com)
+ - [https://funnywebzone.com](https://funnywebzone.com)
  - date_published: 2024-10-22T14:55:21.035669+00:00
 
  ## Home - FunPlus
@@ -1693,15 +1716,15 @@
  - date_published: 2024-01-17T00:00:00+00:00
 
  ## Funranium Labs
- - [http://www.funraniumlabs.com](http://www.funraniumlabs.com)
+ - [https://funraniumlabs.com](https://funraniumlabs.com)
  - date_published: 2024-07-14T10:53:04.169370+00:00
 
  ## 风行-新一代平台
- - [http://www.funshion.com](http://www.funshion.com)
+ - [https://funshion.com](https://funshion.com)
  - date_published: 2024-07-14T04:18:25+00:00
 
  ## Homepage - FunsizePhysics
- - [http://funsizephysics.com](http://funsizephysics.com)
+ - [https://funsizephysics.com](https://funsizephysics.com)
  - date_published: 2024-06-17T12:16:52.905926+00:00
 
  ## Fun Spot America | Orlando Theme Parks | Family Attractions
@@ -1709,7 +1732,7 @@
  - date_published: 2024-09-13T00:00:00+00:00
 
  ## K8casinojp.com: K8, k8 カジノ, オンラインカジノ, funtasticus.com
- - [http://www.funtasticus.com](http://www.funtasticus.com)
+ - [https://funtasticus.com](https://funtasticus.com)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Fun With Words > The Wordplay Web Site
@@ -1717,15 +1740,15 @@
  - date_published: 2024-12-31T23:25:57.816247+00:00
 
  ## ふゅーぷろComics | 株式会社ふゅーじょんぷろだくと
- - [https://www.fupro-comics.com](https://www.fupro-comics.com)
+ - [https://fupro-comics.com](https://fupro-comics.com)
  - date_published: 2024-06-21T09:25:34.580346+00:00
 
  ## Duke MBA Health Care Club
- - [https://www.fuquahcc.com](https://www.fuquahcc.com)
+ - [https://fuquahcc.com](https://fuquahcc.com)
  - date_published: 2024-09-26T18:00:56.366636+00:00
 
  ## Fur After Dark Dot Com
- - [http://www.furafterdark.com](http://www.furafterdark.com)
+ - [https://furafterdark.com](https://furafterdark.com)
  - date_published: 2020-03-16T03:48:43+00:00
 
  ## Furbes
@@ -1733,11 +1756,11 @@
  - date_published: 2023-11-10T00:50:03.270668+00:00
 
  ## Furcadia - Furcadia
- - [http://cms.furcadia.com](http://cms.furcadia.com)
+ - [https://cms.furcadia.com](https://cms.furcadia.com)
  - date_published: 2024-08-07T19:15:01+00:00
 
  ## Furcadia - Forwarding, please hold...
- - [http://forums.furcadia.com](http://forums.furcadia.com)
+ - [https://forums.furcadia.com](https://forums.furcadia.com)
  - date_published: 2024-08-07T19:15:29.283336+00:00
 
  ## Furcadia - Furcadia
@@ -1745,11 +1768,11 @@
  - date_published: 2024-04-28T02:58:24.315359+00:00
 
  ## Furcadia News Feeds
- - [http://news.furcadia.com](http://news.furcadia.com)
+ - [https://news.furcadia.com](https://news.furcadia.com)
  - date_published: 2017-02-28T03:56:36+00:00
 
  ## Furcadia Support Center
- - [http://support.furcadia.com](http://support.furcadia.com)
+ - [https://support.furcadia.com](https://support.furcadia.com)
  - date_published: 2024-08-07T19:15:32.254999+00:00
 
  ## furialog
@@ -1765,7 +1788,7 @@
  - date_published: 2024-10-19T02:17:31.361840+00:00
 
  ## Furious Cinema - the wildest movie blog ever
- - [http://www.furiouscinema.com](http://www.furiouscinema.com)
+ - [https://furiouscinema.com](https://furiouscinema.com)
  - date_published: 2024-06-17T04:13:19+00:00
 
  ## Furious Collective
@@ -1773,7 +1796,7 @@
  - date_published: 2024-06-22T23:46:47.388134+00:00
 
  ## Bir Coder'ın Günlüğü
- - [https://www.furkantokac.com](https://www.furkantokac.com)
+ - [https://furkantokac.com](https://furkantokac.com)
  - date_published: 2024-08-22T12:52:00+00:00
 
  ## furkoantivirus.com - furkoantivirus Zasoby i informacje.
@@ -1781,11 +1804,11 @@
  - date_published: 2024-11-16T20:31:50+00:00
 
  ## Furnace Record Pressing – Vinyl Record Pressing
- - [https://www.furnacemfg.com](https://www.furnacemfg.com)
+ - [https://furnacemfg.com](https://furnacemfg.com)
  - date_published: 2024-08-20T05:04:45.109020+00:00
 
  ## Furniture News & Information Source - Furniture World Magazine
- - [https://www.furninfo.com](https://www.furninfo.com)
+ - [https://furninfo.com](https://furninfo.com)
  - date_published: 2024-10-18T14:50:50.232201+00:00
 
  ## Furn Istanbul | The Casino Game Blog of Furn Istanbul
@@ -1817,7 +1840,7 @@
  - date_published: 2024-06-30T06:01:43.871835+00:00
 
  ## FWA: FuturePunk - Furry Weekend Atlanta
- - [https://www.furryweekend.com](https://www.furryweekend.com)
+ - [https://furryweekend.com](https://furryweekend.com)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Furry Writers’ Guild
@@ -1825,7 +1848,7 @@
  - date_published: 2024-06-30T06:01:41.272741+00:00
 
  ## Furs-N-Spurs Taxidermy
- - [https://www.furs-n-spurstaxidermy.com](https://www.furs-n-spurstaxidermy.com)
+ - [https://furs-n-spurstaxidermy.com](https://furs-n-spurstaxidermy.com)
  - date_published: 2024-08-20T05:35:08.249927+00:00
 
  ## FurtherAfrica
@@ -1833,15 +1856,15 @@
  - date_published: 2024-05-03T00:00:00+00:00
 
  ## Further Emergence with John Dalton - Further Emergence with John Dalton
- - [https://www.furtheremergence.com](https://www.furtheremergence.com)
+ - [https://furtheremergence.com](https://furtheremergence.com)
  - date_published: 2023-06-03T00:00:00+00:00
 
  ## Welcome to Furtrack! Fursuit photo sharing, tagging & discovery
- - [https://www.furtrack.com](https://www.furtrack.com)
+ - [https://furtrack.com](https://furtrack.com)
  - date_published: 2024-08-18T22:27:18.042780+00:00
 
  ## 古川機工とは～製造業・構造化知識研究（安全設計研究所）
- - [http://furukawakiko.com](http://furukawakiko.com)
+ - [https://furukawakiko.com](https://furukawakiko.com)
  - date_published: 2024-03-13T07:42:00+00:00
 
  ## Furukawa - Complete communication network business
@@ -1849,11 +1872,11 @@
  - date_published: 2024-07-12T19:20:25.038471+00:00
 
  ## FURUNO
- - [https://www.furuno.com](https://www.furuno.com)
+ - [https://furuno.com](https://furuno.com)
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Fur What It’s Worth – An introduction to and exploration of the Furry Fandom!
- - [https://www.furwhatitsworth.com](https://www.furwhatitsworth.com)
+ - [https://furwhatitsworth.com](https://furwhatitsworth.com)
  - date_published: 2024-06-30T06:02:43.090984+00:00
 
  ## FuryGpu – Custom PCIe FPGA GPU
@@ -1862,19 +1885,20 @@
  - tags: ['open hardware', 'open source']
 
  ## Fusa Designs | Designing Unique Architecture
- - [http://fusadesigns.com](http://fusadesigns.com)
+ - [https://fusadesigns.com](https://fusadesigns.com)
  - date_published: 2024-06-28T13:45:38.602690+00:00
 
  ## Automotive Dealership Finance F&I Software - Fuse Autotech
  - [https://fuseautotech.com](https://fuseautotech.com)
  - date_published: 2024-07-19T01:16:39+00:00
+ - date_dead_since: 2025-01-04T18:46:51.696363+00:00
 
  ## fusecon
- - [http://www.fusecon.com](http://www.fusecon.com)
+ - [https://fusecon.com](https://fusecon.com)
  - date_published: 2024-05-15T10:52:24+00:00
 
  ## FuseMetrix Leisure Systems | FuseMetrix
- - [http://www.fusemetrix.com](http://www.fusemetrix.com)
+ - [https://fusemetrix.com](https://fusemetrix.com)
  - date_published: 2024-07-18T23:46:05.013007+00:00
 
  ## Fuseomatic
@@ -1882,7 +1906,7 @@
  - date_published: 2024-09-16T02:17:26+00:00
 
  ## This Week in JBoss - July 03, 2023 - JBoss.org
- - [http://fusesource.com](http://fusesource.com)
+ - [https://fusesource.com](https://fusesource.com)
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## Global Soul Events, Music, News - Fusicology: Events, Music, News for the Global Soul Community
@@ -1898,7 +1922,7 @@
  - date_published: 2024-08-12T00:00:00+00:00
 
  ## Home Bowling Alley Installation Contractor 🎳 | Fusion Bowling
- - [https://www.fusionbowling.com](https://www.fusionbowling.com)
+ - [https://fusionbowling.com](https://fusionbowling.com)
  - date_published: 2024-09-03T00:00:00+00:00
 
  ## Easiest JavaScript charting library for web & mobile
@@ -1914,7 +1938,7 @@
  - date_published: 2024-04-18T14:30:18+00:00
 
  ## Fusion Energy News International | U.S. Department of Energy UKAEA EUROFUSION ITER
- - [https://www.fusion-energy-news.com](https://www.fusion-energy-news.com)
+ - [https://fusion-energy-news.com](https://fusion-energy-news.com)
  - date_published: 2024-08-18T06:48:27.301938+00:00
 
  ## Workshops | Fusion Film Scoring Workshops
@@ -1926,11 +1950,11 @@
  - date_published: 2024-12-04T10:58:57.467734+00:00
 
  ## Fusion Fragment
- - [http://www.fusionfragment.com](http://www.fusionfragment.com)
+ - [https://fusionfragment.com](https://fusionfragment.com)
  - date_published: 2024-06-19T09:43:13.214048+00:00
 
  ## FusionPBX
- - [https://www.fusionpbx.com](https://www.fusionpbx.com)
+ - [https://fusionpbx.com](https://fusionpbx.com)
  - date_published: 2024-06-19T22:08:58.822623+00:00
 
  ## Fusion Retro Books
@@ -1939,11 +1963,11 @@
  - tags: ['retro', 'magazines']
 
  ## Fusion Risk Management | Risk Management Software
- - [https://www.fusionrm.com](https://www.fusionrm.com)
+ - [https://fusionrm.com](https://fusionrm.com)
  - date_published: 2024-05-13T00:00:00+00:00
 
  ## Network Security IT Services | FusionTek
- - [https://www.fusiontek.com](https://www.fusiontek.com)
+ - [https://fusiontek.com](https://fusiontek.com)
  - date_published: 2023-08-16T15:21:01+00:00
 
  ## FusionWorks Academy | Online courses from industry experts
@@ -1951,7 +1975,7 @@
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## Fusus is now a part of Axon: Real-Time Crime Center
- - [https://www.fusus.com](https://www.fusus.com)
+ - [https://fusus.com](https://fusus.com)
  - date_published: 2024-08-14T00:00:00+00:00
 
  ## EA FC 25 Ultimate Team Prices, Squad Builder, Draft and Players Database | FUTBIN
@@ -1967,11 +1991,11 @@
  - date_published: 2024-10-30T22:14:53+00:00
 
  ## home
- - [https://www.futerro.com](https://www.futerro.com)
+ - [https://futerro.com](https://futerro.com)
  - date_published: 2024-08-19T04:48:13.433815+00:00
 
  ## FIFA 23 Ultimate Team Database, Players & Squad Builder | Futhead
- - [https://www.futhead.com](https://www.futhead.com)
+ - [https://futhead.com](https://futhead.com)
  - date_published: 2023-08-21T16:21:15+00:00
 
  ## Futility Closet
@@ -1987,13 +2011,13 @@
  - [https://futuraestatus.com](https://futuraestatus.com)
  - date_published: 2024-03-18T00:00:00+00:00
 
+ ## Futura, Le média qui explore le monde
+ - [https://futura-sciences.com](https://futura-sciences.com)
+ - date_published: 2024-09-05T11:48:02+00:00
+
  ## Futura - Futura Podcast - Rejoignez les décodeurs de savoir
  - [https://podcasts.futura-sciences.com](https://podcasts.futura-sciences.com)
  - date_published: 2024-06-20T00:00:00+00:00
-
- ## Futura, Le média qui explore le monde
- - [http://www.futura-sciences.com](http://www.futura-sciences.com)
- - date_published: 2024-09-05T11:48:02+00:00
 
  ## Future | Understand the Future and How to Build It
  - [https://future.com](https://future.com)
@@ -4013,20 +4037,4 @@
  ## Galeon - Popular Magazin 2024
  - [http://galeon.com](http://galeon.com)
  - date_published: 2024-07-11T10:24:53+00:00
-
- ## Galera Cluster for MySQL | The world's most advanced open-source database cluster.
- - [https://galeracluster.com](https://galeracluster.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## La Galería - Galeria Divart
- - [https://galeriadivart.com](https://galeriadivart.com)
- - date_published: 2024-03-04T19:33:03+00:00
-
- ## Galeria Van Rij - Galeria Sztuki Współczesnej Kraków
- - [https://galeria-rij.com](https://galeria-rij.com)
- - date_published: 2023-07-31T00:00:00+00:00
-
- ## Galerias Angra
- - [https://www.galeriasangra.com](https://www.galeriasangra.com)
- - date_published: 2024-09-05T15:05:30.642278+00:00
 

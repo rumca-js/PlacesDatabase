@@ -1,3 +1,59 @@
+ ## Pioneer Centre for Artificial Intelligence
+ - [https://www.aicentre.dk](https://www.aicentre.dk)
+ - date_published: 2024-06-22T08:47:58.775053+00:00
+
+ ## Airbnb | Ferieboliger, hytter, strandhuse med mere
+ - [https://airbnb.dk](https://airbnb.dk)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Aktuel Naturvidenskab - Nyheder fra den Naturvidenskabelige Verden
+ - [http://aktuelnaturvidenskab.dk](http://aktuelnaturvidenskab.dk)
+ - date_published: 2024-07-22T10:18:43.553888+00:00
+
+ ## Fiber, kobber og komponenter til din branche | Alcadon
+ - [https://www.alcadon.dk](https://www.alcadon.dk)
+ - date_published: 2024-12-15T10:04:16.425954+00:00
+
+ ## Alexanderband
+ - [http://www.alexanderband.dk](http://www.alexanderband.dk)
+ - date_published: 2024-07-04T14:43:48.418786+00:00
+
+ ## hjespersenfoto
+ - [https://alexanderhjespersen.dk](https://alexanderhjespersen.dk)
+ - date_published: 2024-07-04T01:52:47.664440+00:00
+
+ ## Alkohol & Samfund
+ - [https://alkohologsamfund.dk](https://alkohologsamfund.dk)
+ - date_published: 2024-10-18T21:25:10.918932+00:00
+
+ ## Forsikringer til dig og dine behov | Alm. Brand
+ - [https://www.almbrand.dk](https://www.almbrand.dk)
+ - date_published: 2024-06-25T16:50:12.978336+00:00
+
+ ## andri.dk | Andri Óskarsson
+ - [https://andri.dk](https://andri.dk)
+ - date_published: 2024-12-19T17:44:32+00:00
+
+ ## Join Viborg Animation Festival 2024 September 9. - 15.
+ - [https://www.animationsfestival.dk](https://www.animationsfestival.dk)
+ - date_published: 2024-12-13T11:17:15+00:00
+
+ ## Brødrene A&O Johansen A/S - AO.DK
+ - [https://www.ao.dk](https://www.ao.dk)
+ - date_published: 2024-12-15T10:05:26.519500+00:00
+
+ ## Apowersoft – Multimedie-løsninger til Erhvervsmæssige og Daglige Behov
+ - [https://www.apowersoft.dk](https://www.apowersoft.dk)
+ - date_published: 2024-06-23T16:05:43.321589+00:00
+
+ ## Umami
+ - [https://umami.apprunner.dk](https://umami.apprunner.dk)
+ - date_published: 2024-06-27T17:14:50.417760+00:00
+
+ ## Arcadia Finans | Find de bedste lån fra 25.000 til 400.000 kr.
+ - [https://arcadiafinans.dk](https://arcadiafinans.dk)
+ - date_published: 2024-10-31T00:48:55.439467+00:00
+
  ## Arkitektforeningen
  - [https://arkitektforeningen.dk](https://arkitektforeningen.dk)
  - date_published: 2024-07-22T06:11:49+00:00
@@ -3953,60 +4009,4 @@
  ## StopSpillet - rådgivning om spilafhængighed
  - [http://stopspillet.dk](http://stopspillet.dk)
  - date_published: 2024-10-08T12:15:13+00:00
-
- ## Foredrag til Erhvervslivet >> Bookes hos StrongMind
- - [https://strongmind.dk](https://strongmind.dk)
- - date_published: 2024-05-12T07:47:39.652373+00:00
-
- ## Studiepraktik - prøv livet på en videregående uddannelse
- - [https://www.studiepraktik.dk](https://www.studiepraktik.dk)
- - date_published: 2024-08-08T22:37:37.037574+00:00
-
- ## Stumfilm.dk
- - [https://www.stumfilm.dk](https://www.stumfilm.dk)
- - date_published: 2024-07-02T22:48:08+00:00
-
- ## Home | Summer Sessions
- - [https://www.summer-session.dk](https://www.summer-session.dk)
- - date_published: 2024-07-17T11:17:52.884786+00:00
-
- ## Master i Sundhedsantropologi – Københavns Universitet
- - [https://sundhedsantropologi.dk](https://sundhedsantropologi.dk)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Sundhedsmonitor
- - [https://sundhedsmonitor.dk](https://sundhedsmonitor.dk)
- - date_published: 2024-04-30T02:45:06.848796+00:00
-
- ## Superprof - netværket af private undervisere
- - [https://superprof.dk](https://superprof.dk)
- - date_published: 2024-06-15T01:28:10.652318+00:00
-
- ## SurveyXact
- - [https://www.survey-xact.dk](https://www.survey-xact.dk)
- - date_published: 2024-07-22T10:07:07+00:00
-
- ## Home | Suset
- - [https://www.suset.dk](https://www.suset.dk)
- - date_published: 2024-07-17T11:17:59.724549+00:00
-
- ## Svend Sømod
- - [http://svendsoemod.dk](http://svendsoemod.dk)
- - date_published: 2023-12-08T10:34:33+00:00
-
- ## Forbrugerrådet Tænk: Gratis økonomi- og gældsrådgivning
- - [https://gaeld.taenk.dk](https://gaeld.taenk.dk)
- - date_published: 2024-10-30T12:52:24+00:00
-
- ## Forbrugerrådet Tænk - test, juridisk rådgivning og forbrugerpolitik
- - [https://taenk.dk](https://taenk.dk)
- - date_published: 2024-12-15T00:14:51+00:00
-
- ## Billige Bøger >> Køb online og få leveret på 1-2 dage | Tales.dk
- - [https://tales.dk](https://tales.dk)
- - date_published: 2024-07-11T10:51:05.113131+00:00
-
- ## Færgefart, MiniCruise og sejlads i Østersøen | Tallink Silja Line
- - [http://www.tallink.dk](http://www.tallink.dk)
- - date_published: 2024-10-14T00:00:00+00:00
 

@@ -1,3 +1,59 @@
+ ## Capital Finance
+ - [https://capitalfinance.lesechos.fr](https://capitalfinance.lesechos.fr)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Entrepreneurs
+ - [https://entrepreneurs.lesechos.fr](https://entrepreneurs.lesechos.fr)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## ImaginE
+ - [https://imagine.lesechos.fr](https://imagine.lesechos.fr)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Actualités et conseils boursiers - Investir Les Echos
+ - [https://investir.lesechos.fr](https://investir.lesechos.fr)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Les Echos : actualités en direct, Économie, Finance, Marchés, Politique, Entreprises, Start-up
+ - [https://lesechos.fr](https://lesechos.fr)
+ - date_published: 2024-05-07T15:34:04.731797+00:00
+
+ ## Consulter les annonces de marchés publics en France - Les Echos
+ - [https://marches-publics.lesechos.fr](https://marches-publics.lesechos.fr)
+ - date_published: 2024-06-30T06:42:58.520315+00:00
+
+ ## Actualités Mode, Luxe, Culture sur Les Échos
+ - [https://serielimitee.lesechos.fr](https://serielimitee.lesechos.fr)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Les Echos Solutions - Actualités et Conseils pour les entreprises
+ - [https://solutions.lesechos.fr](https://solutions.lesechos.fr)
+ - date_published: 2024-09-15T20:52:16.373246+00:00
+
+ ## Actualités travail, société, environnement, jeunes actifs et diplômés grandes écoles
+ - [https://start.lesechos.fr](https://start.lesechos.fr)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Portail Vidéo Les Echos - Toute l'actualité en vidéo
+ - [https://videos.lesechos.fr](https://videos.lesechos.fr)
+ - date_published: 2024-06-30T06:42:42.424217+00:00
+
+ ## lesenechal.fr
+ - [https://lesenechal.fr](https://lesenechal.fr)
+ - date_published: 2023-10-25T19:15:30.524166+00:00
+
+ ## Les Foliweb - Des événements pour réussir avec internet
+ - [https://lesfoliweb.fr](https://lesfoliweb.fr)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Accueil - Les Gones du Mac
+ - [http://www.lesgonesdumac.fr](http://www.lesgonesdumac.fr)
+ - date_published: 2024-07-10T08:19:46+00:00
+
+ ## Les Graphiquants - Index Projets - Graphistes Paris et Direction artistique
+ - [https://www.les-graphiquants.fr](https://www.les-graphiquants.fr)
+ - date_published: 2025-01-02T16:19:28.780809+00:00
+
  ## Boutique LeShopdeLudo cadeaux enfants BD Livres Jeux - LeShopdeLudo
  - [https://www.leshopdeludo.fr](https://www.leshopdeludo.fr)
  - date_published: 2024-10-16T11:04:33.798094+00:00
@@ -3950,60 +4006,4 @@
  ## Accueil - Sopra Steria
  - [https://www.soprasteria.fr](https://www.soprasteria.fr)
  - date_published: 2024-06-09T17:28:35.158252+00:00
-
- ## soqr.fr Pascal Cauhépé
- - [http://soqr.fr](http://soqr.fr)
- - date_published: 2024-09-14T22:36:09.556818+00:00
-
- ## Site officiel du Rectorat et de la Chancellerie des Universités de Paris
- - [https://www.sorbonne.fr](https://www.sorbonne.fr)
- - date_published: 2024-05-07T20:15:45.464194+00:00
-
- ## Université Paris 13
- - [https://www.sorbonne-paris-nord.fr](https://www.sorbonne-paris-nord.fr)
- - date_published: 2024-07-20T12:08:22.128551+00:00
-
- ## Sorbonne Université| Sorbonne université
- - [https://www.sorbonne-universite.fr](https://www.sorbonne-universite.fr)
- - date_published: 2024-06-29T17:18:55+00:00
-
- ## sortir-du-rsa.fr
- - [https://sortir-du-rsa.fr](https://sortir-du-rsa.fr)
- - date_published: 2024-06-15T01:03:45.126559+00:00
-
- ## Communauté Sosh
- - [https://communaute.sosh.fr](https://communaute.sosh.fr)
- - date_published: 2024-06-16T08:18:18.119527+00:00
-
- ## MySosh
- - [https://mysosh.sosh.fr](https://mysosh.sosh.fr)
- - date_published: 2024-06-16T08:18:32.084588+00:00
-
- ## Sosh sans engagement: forfaits mobiles, internet fibre et téléphones mobiles
- - [https://shop.sosh.fr](https://shop.sosh.fr)
- - date_published: 2024-06-16T08:18:29.607950+00:00
-
- ## Sosh sans engagement: forfaits mobiles, internet fibre et téléphones mobiles
- - [https://www.sosh.fr](https://www.sosh.fr)
- - date_published: 2024-05-01T06:03:50.968726+00:00
-
- ## SOS Médecins France
- - [http://www.sosmedecins-france.fr](http://www.sosmedecins-france.fr)
- - date_published: 2024-10-22T18:30:12.170271+00:00
-
- ## Bienvenue sur SOS Nature Environnement -
- - [https://sos-naturenvironnement.fr](https://sos-naturenvironnement.fr)
- - date_published: 2024-12-22T01:51:01.494227+00:00
-
- ## SOStech – Permettre à tous d'accéder aux opportunités offertes par le numérique
- - [https://sostech.fr](https://sostech.fr)
- - date_published: 2024-09-15T20:53:29.530898+00:00
-
- ## Forge soutade
- - [https://forge.soutade.fr](https://forge.soutade.fr)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Jeux De Société | Space Cowboys | France
- - [https://www.spacecowboys.fr](https://www.spacecowboys.fr)
- - date_published: 2024-07-13T11:39:31.889860+00:00
 

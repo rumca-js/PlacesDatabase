@@ -1,3 +1,59 @@
+ ## Trilogy 2
+ - [https://trilogy2.it.uc3m.es](https://trilogy2.it.uc3m.es)
+ - date_published: 2023-07-04T12:53:59+00:00
+
+ ## Home | UC3M
+ - [https://www.arcos.inf.uc3m.es](https://www.arcos.inf.uc3m.es)
+ - date_published: 2024-06-22T09:32:16+00:00
+
+ ## Departamento de Ingeniería Telemática de la Universidad Carlos III de Madrid | UC3M
+ - [https://www.it.uc3m.es](https://www.it.uc3m.es)
+ - date_published: 2024-07-07T10:46:27+00:00
+
+ ## UC3M
+ - [http://www.uc3m.es](http://www.uc3m.es)
+ - date_published: 2017-07-26T18:45:36+00:00
+
+ ## Campus Jazz Cádiz / Puerto Real 2020
+ - [http://www.uca.es](http://www.uca.es)
+ - date_published: 2024-12-24T09:44:37.455756+00:00
+
+ ## Universidad CEU Cardenal Herrera. Más de 100 países en un campus global
+ - [https://www.uchceu.es](https://www.uchceu.es)
+ - date_published: 2024-10-14T20:50:48.103097+00:00
+
+ ## Eventos UCLM - Universidad de Castilla~La Mancha
+ - [https://eventos.uclm.es](https://eventos.uclm.es)
+ - date_published: 2024-10-15T04:37:20+00:00
+
+ ## Facultad de Ciencias de la Información
+ - [http://ccinformacion.ucm.es](http://ccinformacion.ucm.es)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Eventos - Universidad Complutense de Madrid
+ - [http://eventos.ucm.es](http://eventos.ucm.es)
+ - date_published: 2024-09-12T12:54:23+00:00
+
+ ## Formal Analysis and Design of Software Systems – Grupo de investigación validado por la UCM con número 910398.
+ - [https://maude.ucm.es](https://maude.ucm.es)
+ - date_published: 2024-07-17T05:49:45.929317+00:00
+
+ ## Revistas Científicas Complutenses. Universidad Complutense de Madrid
+ - [https://revistas.ucm.es](https://revistas.ucm.es)
+ - date_published: 2024-12-20T08:14:03.733779+00:00
+
+ ## Universidad Complutense de Madrid
+ - [http://www.ucm.es](http://www.ucm.es)
+ - date_published: 2024-06-24T09:38:06.458465+00:00
+
+ ## Universidad de Córdoba
+ - [https://journals.uco.es](https://journals.uco.es)
+ - date_published: 2024-07-04T13:15:33.756135+00:00
+
+ ## Universidad de Córdoba
+ - [https://www.uco.es](https://www.uco.es)
+ - date_published: 2024-10-11T12:10:59.067345+00:00
+
  ## uCoz.es - Crear sitios web gratis | Crea tu propia página web gratis con alojamiento gratuito. Crear pagina web gratis. Puedes crear web página con modelos web y alojamiento gratuitos
  - [https://www.ucoz.es](https://www.ucoz.es)
  - date_published: 2024-07-13T21:03:01.494985+00:00
@@ -3961,62 +4017,4 @@
  ## Rozwiązania do backupu Outsourcing IT Antywirus | Acronis
  - [https://acronis.dagma.eu](https://acronis.dagma.eu)
  - date_published: 2024-05-07T23:37:21.003385+00:00
-
- ## Blog - DAGMA Bezpieczeństwo IT
- - [https://blog.dagma.eu](https://blog.dagma.eu)
- - date_published: 2024-07-02T22:00:14.606115+00:00
-
- ## Check your network for vulnerabilities | Cybersecurity IT
- - [https://cybersecurity.dagma.eu](https://cybersecurity.dagma.eu)
- - date_published: 2024-05-07T23:32:02.835242+00:00
-
- ## We provide comprehensive IT services | DAGMA IT Security
- - [https://dagma.eu](https://dagma.eu)
- - date_published: 2024-01-29T22:44:13.666763+00:00
-
- ## Wydarzenia DAGMA
- - [https://events.dagma.eu](https://events.dagma.eu)
- - date_published: 2024-08-17T23:18:58.889550+00:00
-
- ## Kariera - DAGMA
- - [https://join.dagma.eu](https://join.dagma.eu)
- - date_published: 2024-05-07T23:32:01.642458+00:00
-
- ## DAGMA Strefa dla Partnerów
- - [https://partner-dach.dagma.eu](https://partner-dach.dagma.eu)
- - date_published: 2024-05-07T23:32:17.692003+00:00
-
- ## Authorized trainings Microsoft, ITIL, Prince2 - Warsaw, Poznan, Katowice, Lodz, Wroclaw, Gdansk - DAGMA IT Training
- - [https://szkolenia.dagma.eu](https://szkolenia.dagma.eu)
- - date_published: 2024-05-07T23:32:06.595480+00:00
- - tags: ['courses', 'training']
-
- ## Apache2 Debian Default Page: It works
- - [https://daid.eu](https://daid.eu)
- - date_published: 2018-06-15T18:24:22+00:00
-
- ## Marc DAMIE - Privacy researcher - Human form of the 💡 emoji
- - [https://marc.damie.eu](https://marc.damie.eu)
- - date_published: 2024-05-09T07:45:34.685404+00:00
-
- ## Frontpage | D+C - Development + Cooperation
- - [https://dandc.eu](https://dandc.eu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Home | Daniël de Kok
- - [https://danieldk.eu](https://danieldk.eu)
- - date_published: 2023-10-25T08:49:09.327114+00:00
- - tags: ['personal']
-
- ## Welcome - Daniël's Notes
- - [https://notes.danieldk.eu](https://notes.danieldk.eu)
- - date_published: 2024-07-01T03:50:18.963214+00:00
-
- ## Darco - Pack to Protect: Oplossingen voor stabiele palletten en veilig transport
- - [https://www.darco.eu](https://www.darco.eu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Darn Tough Vermont
- - [https://darntough.eu](https://darntough.eu)
- - date_published: 2024-08-11T06:24:05.958388+00:00
 

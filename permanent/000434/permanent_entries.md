@@ -1,3 +1,104 @@
+ ## Cierpliwości...
+ - [https://advances.sciencemag.org](https://advances.sciencemag.org)
+ - date_published: 2024-05-07T10:48:30.480163+00:00
+
+ ## Cierpliwości...
+ - [https://blogs.sciencemag.org](https://blogs.sciencemag.org)
+ - date_published: 2024-07-02T09:42:37.273548+00:00
+
+ ## News from Science | AAAS
+ - [http://news.sciencemag.org](http://news.sciencemag.org)
+ - date_published: 2024-12-31T12:45:18.860998+00:00
+
+ ## https://www.sciencemag.org
+ - [https://sciencemag.org](https://sciencemag.org)
+ - date_published: 2023-10-25T22:06:43.911187+00:00
+
+ ## https://science.sciencemag.org
+ - [https://science.sciencemag.org](https://science.sciencemag.org)
+ - date_published: 2023-10-25T22:06:42.582536+00:00
+
+ ## Science Media Centre
+ - [https://sciencemediacentre.org](https://sciencemediacentre.org)
+ - date_published: 2023-10-25T22:06:46.673683+00:00
+
+ ## Science Near Me
+ - [https://sciencenearme.org](https://sciencenearme.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Science News Magazine
+ - [https://sciencenews.org](https://sciencenews.org)
+ - date_published: 1974-04-27T00:00:00+00:00
+ - tags: ['news', 'science']
+
+ ## Science News Explores
+ - [https://sciencenewsforstudents.org](https://sciencenewsforstudents.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## What's New at Science Notes - Periodic Tables and More - Science Notes and Projects
+ - [https://sciencenotes.org](https://sciencenotes.org)
+ - date_published: 2024-07-18T22:03:00.579223+00:00
+
+ ## International Association of Empirical Aesthetics
+ - [https://science-of-aesthetics.org](https://science-of-aesthetics.org)
+ - date_published: 2022-01-21T08:59:59+00:00
+
+ ## The Science++ Project
+ - [https://scienceplusplus.org](https://scienceplusplus.org)
+ - date_published: 2023-01-15T19:11:37+00:00
+
+ ## Home - MIT Science Policy Review
+ - [https://sciencepolicyreview.org](https://sciencepolicyreview.org)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Marsland Press
+ - [http://www.sciencepub.org](http://www.sciencepub.org)
+ - date_published: 2021-04-18T22:14:48+00:00
+
+ ## sciencepublication.org - Ta strona jest na sprzedaż! - sciencepublication Zasoby i informacje.
+ - [http://www.sciencepublication.org](http://www.sciencepublication.org)
+ - date_published: 2024-10-29T16:43:17+00:00
+
+ ## sciencereligionspectrum.org - Ta strona jest na sprzedaż! - sciencereligionspectrum Zasoby i informacje.
+ - [https://sciencereligionspectrum.org](https://sciencereligionspectrum.org)
+ - date_published: 2024-10-29T18:33:37+00:00
+
+ ## Science Repository | Open Access Journals | Science & Medical Journals
+ - [https://www.sciencerepository.org](https://www.sciencerepository.org)
+ - date_published: 2024-10-29T17:26:47.570674+00:00
+
+ ## A future space mission with very-high precision astrometry - Sciencesconf.org
+ - [https://astrometry.sciencesconf.org](https://astrometry.sciencesconf.org)
+ - date_published: 2024-09-06T19:32:15.700780+00:00
+
+ ## Une Babel des sciences ? Traductions et sciences ouvertes - Sciencesconf.org
+ - [https://babelsciences.sciencesconf.org](https://babelsciences.sciencesconf.org)
+ - date_published: 2024-08-18T16:35:37.641593+00:00
+
+ ## Geometric Analysis in Samothrace, a tribute to Gérard Besson - Sciencesconf.org
+ - [https://besson60.sciencesconf.org](https://besson60.sciencesconf.org)
+ - date_published: 2020-12-07T07:41:57+00:00
+
+ ## Arithmétique des formes automorphes, une conférence en l'honneur de Laurent Clozel - Sciencesconf.org
+ - [https://clozel2023.sciencesconf.org](https://clozel2023.sciencesconf.org)
+ - date_published: 2024-06-30T09:09:16.942877+00:00
+
+ ## 2014 Digital HPS Consortium Annual Meeting - Sciencesconf.org
+ - [https://dhps2014.sciencesconf.org](https://dhps2014.sciencesconf.org)
+ - date_published: 2020-06-26T07:50:07+00:00
+
+ ## Documentation
+ - [https://doc.sciencesconf.org](https://doc.sciencesconf.org)
+ - date_published: 2024-09-26T10:16:23+00:00
+
+ ## European Congress of Arachnology - Sciencesconf.org
+ - [https://eca2024.sciencesconf.org](https://eca2024.sciencesconf.org)
+ - date_published: 2024-08-18T21:58:37.669380+00:00
+
+ ## European Signal Processing Conference, 2024 - Sciencesconf.org
+ - [https://eusipcolyon.sciencesconf.org](https://eusipcolyon.sciencesconf.org)
+ - date_published: 2024-07-01T20:04:57.115406+00:00
+
  ## Journées Plénières du GDR NEMO - Sciencesconf.org
  - [https://gdr-nemo.sciencesconf.org](https://gdr-nemo.sciencesconf.org)
  - date_published: 2024-10-14T15:38:35.228190+00:00
@@ -3928,104 +4029,4 @@
  ## SIGIR-AP - ACM-SIGIR Information Retrieval in the Asia Pacific
  - [http://www.sigir-ap.org](http://www.sigir-ap.org)
  - date_published: 2024-08-06T07:25:28+00:00
-
- ## LICS - ACM/IEEE Symposium on Logic in Computer Science
- - [https://lics.siglog.org](https://lics.siglog.org)
- - date_published: 2023-09-20T05:08:23+00:00
-
- ## ACM Special Interest Group on Logic and Computation
- - [https://siglog.org](https://siglog.org)
- - date_published: 2024-08-07T17:23:24.308277+00:00
-
- ## The Sigma Awards
- - [https://www.sigmaawards.org](https://www.sigmaawards.org)
- - date_published: 2024-06-22T12:52:36.745475+00:00
-
- ## Sigma Delta Pi
- - [https://sigmadeltapi.org](https://sigmadeltapi.org)
- - date_published: 2024-06-30T06:22:55+00:00
-
- ## Sigma.js
- - [http://sigmajs.org](http://sigmajs.org)
- - date_published: 2024-11-25T10:03:03+00:00
-
- ## Sigma Home Page
- - [https://www.sigmanursing.org](https://www.sigmanursing.org)
- - date_published: 2024-08-19T18:27:41.436264+00:00
-
- ## Home - Sigma Xi
- - [https://community.sigmaxi.org](https://community.sigmaxi.org)
- - date_published: 2024-10-19T03:59:51.920506+00:00
-
- ## Your industry Internships - Sigma Xi - Intern Board
- - [http://internships.sigmaxi.org](http://internships.sigmaxi.org)
- - date_published: 2024-06-17T11:47:57.631431+00:00
-
- ## Scientific Research Jobs - Sigma Xi, The Scientific Research Society's Career Center
- - [http://jobs.sigmaxi.org](http://jobs.sigmaxi.org)
- - date_published: 2024-06-17T11:47:42.237589+00:00
-
- ## Home
- - [https://sigmaxi.org](https://sigmaxi.org)
- - date_published: 2024-06-17T11:48:07.771145+00:00
-
- ## ACM SIGMETRICS
- - [http://sigmetrics.org](http://sigmetrics.org)
- - date_published: 2024-08-07T17:23:08.473446+00:00
-
- ## ACM SIGMICRO: Home
- - [https://sigmicro.org](https://sigmicro.org)
- - date_published: 2023-11-29T17:19:24.251668+00:00
-
- ## ACM SIGMM Records – News for the Multimedia Community
- - [http://records.sigmm.org](http://records.sigmm.org)
- - date_published: 2024-09-14T08:42:16.733066+00:00
-
- ## ACM SIGMM - the Special Interest Group on Multimedia
- - [http://sigmm.org](http://sigmm.org)
- - date_published: 2024-06-14T10:02:05+00:00
-
- ## Redirecting...
- - [https://sigmobile.org](https://sigmobile.org)
- - date_published: 2018-10-30T21:10:33+00:00
-
- ## The 2021 ACM SIGMOD/PODS Conference: Xi'an, Shaanxi, China - Welcome
- - [https://2021.sigmod.org](https://2021.sigmod.org)
- - date_published: 2024-08-11T07:40:05.241740+00:00
-
- ## The 2022 ACM SIGMOD/PODS Conference: Philidelphia, Pennsylvania, USA - Welcome
- - [https://2022.sigmod.org](https://2022.sigmod.org)
- - date_published: 2024-07-01T20:04:36.323647+00:00
-
- ## The 2023 ACM SIGMOD/PODS Conference: Seattle, Washington, USA - Welcome
- - [http://2023.sigmod.org](http://2023.sigmod.org)
- - date_published: 2024-07-02T13:33:20.798166+00:00
-
- ## The 2024 ACM SIGMOD/PODS Conference: Santiago, Chile - Welcome
- - [http://2024.sigmod.org](http://2024.sigmod.org)
- - date_published: 2024-07-09T13:47:51.543967+00:00
-
- ## The 2025 ACM SIGMOD/PODS Conference: Berlin, Germany - Welcome
- - [https://2025.sigmod.org](https://2025.sigmod.org)
- - date_published: 2024-07-09T13:48:01.748150+00:00
-
- ## ACM SIGMOD Availability & Reproducibility Initiative
- - [https://reproducibility.sigmod.org](https://reproducibility.sigmod.org)
- - date_published: 2024-06-28T21:21:06+00:00
-
- ## SIGMOD Website
- - [https://sigmod.org](https://sigmod.org)
- - date_published: 2024-07-01T20:06:40.765534+00:00
-
- ## ACM SIGMOD Blog
- - [http://wp.sigmod.org](http://wp.sigmod.org)
- - date_published: 2024-07-09T13:48:03.982588+00:00
-
- ## The 2014 ACM SIGMOD/PODS Conference: Snowbird, Utah, USA - Welcome
- - [http://www.sigmod2014.org](http://www.sigmod2014.org)
- - date_published: 2024-09-02T16:19:20.015270+00:00
-
- ## The 2018 ACM SIGMOD/PODS Conference: Houston, TX, USA - Welcome
- - [https://sigmod2018.org](https://sigmod2018.org)
- - date_published: 2024-07-01T19:51:07.896162+00:00
 

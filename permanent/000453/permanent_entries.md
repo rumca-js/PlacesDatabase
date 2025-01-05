@@ -1,3 +1,110 @@
+ ## Intuitive project management software that teams love - Breeze
+ - [https://app.breeze.pm](https://app.breeze.pm)
+ - date_published: 2024-06-16T08:45:51.660656+00:00
+
+ ## Intuitive project management software that teams love - Breeze
+ - [https://breeze.pm](https://breeze.pm)
+ - date_published: 2024-05-01T06:13:18.622905+00:00
+
+ ## c7.pm
+ - [https://c7.pm](https://c7.pm)
+ - date_published: 2024-05-02T13:58:03.789036+00:00
+ - tags: ['interesting page design', 'personal']
+
+ ## Portfolio - Gaetan Rochel
+ - [https://cad.pm](https://cad.pm)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## CPU ⬜ Carré Petit Utile
+ - [https://cpu.pm](https://cpu.pm)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Intro to DUB - DUB Documentation
+ - [https://dub.pm](https://dub.pm)
+ - date_published: 2024-05-11T11:05:05.297329+00:00
+
+ ## erin @ e2.pm
+ - [https://e2.pm](https://e2.pm)
+ - date_published: 2024-05-02T13:58:05.835712+00:00
+ - tags: ['personal']
+
+ ## Plausible · Web analytics
+ - [https://p.e4.pm](https://p.e4.pm)
+ - date_published: 2024-06-18T16:54:26.120643+00:00
+
+ ## Blog - Gnosis Chain
+ - [https://blog.gnosis.pm](https://blog.gnosis.pm)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## goodbye · heimdall.pm
+ - [https://heimdall.pm](https://heimdall.pm)
+ - date_published: 2024-04-13T14:14:55+00:00
+ - date_dead_since: 2024-12-20T06:02:37.996608+00:00
+
+ ## Hex
+ - [https://hex.pm](https://hex.pm)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Hex Status
+ - [https://status.hex.pm](https://status.hex.pm)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## HexDocs
+ - [https://hexdocs.pm](https://hexdocs.pm)
+ - date_published: 2023-07-11T07:47:50+00:00
+
+ ## Consumer & Culture | Hugo Amsellem | Substack
+ - [https://hugo.pm](https://hugo.pm)
+ - date_published: 2024-06-23T21:32:38.795486+00:00
+
+ ## hut
+ - [https://hut.pm](https://hut.pm)
+ - date_published: 2023-10-25T22:33:50.111529+00:00
+
+ ## The Incredible Proof Machine
+ - [https://incredible.pm](https://incredible.pm)
+ - date_published: 2023-05-09T13:53:06+00:00
+
+ ## Kee community forum
+ - [https://forum.kee.pm](https://forum.kee.pm)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## luna's up on her bullshit again
+ - [https://blog.l4.pm](https://blog.l4.pm)
+ - date_published: 2022-10-15T00:00:00+00:00
+
+ ## when v1 said ultrakill and it ultrakilled all of those demons i pogged so hard
+ - [https://l4.pm](https://l4.pm)
+ - date_published: 2024-05-02T13:57:50.253237+00:00
+ - tags: ['personal']
+
+ ## Library Genesis
+ - [https://libgen.pm](https://libgen.pm)
+ - date_published: 2024-06-23T20:32:43.996748+00:00
+ - date_dead_since: 2024-12-20T06:02:57.663060+00:00
+
+ ## Cinny
+ - [https://mainframe.line.pm](https://mainframe.line.pm)
+ - date_published: 2024-07-22T03:39:30.926068+00:00
+ - date_dead_since: 2024-12-20T06:02:58.606733+00:00
+
+ ## meta.pm
+ - [https://meta.pm](https://meta.pm)
+ - date_published: 2022-08-01T17:57:05+00:00
+
+ ## METEO FRANCE SAINT PIERRE ET MIQUELON par Météo-France - Prévisions Météo 15 jours
+ - [https://meteofrance.pm](https://meteofrance.pm)
+ - date_published: 2024-07-03T19:33:21.521579+00:00
+
+ ## GitHub - mojolicious/minion: :octopus: Perl high performance job queue
+ - [https://minion.pm](https://minion.pm)
+ - date_published: 2024-07-07T09:46:53.083025+00:00
+
+ ## Show HN: Hacker News Outliers
+ - [https://hn.moritz.pm](https://hn.moritz.pm)
+ - date_published: 2024-02-18T13:59:15+00:00
+ - date_dead_since: 2024-12-20T06:03:13.101279+00:00
+
  ## Moritz' Blog
  - [https://moritz.pm](https://moritz.pm)
  - date_published: 2023-10-25T22:33:56.288735+00:00
@@ -3925,104 +4032,4 @@
  ## Bem vindo à plataforma FPACompetições
  - [https://fpacompeticoes.pt](https://fpacompeticoes.pt)
  - date_published: 2024-07-01T09:18:03.814051+00:00
-
- ## Free2move Charge | Carregamento De Carros eléctricos
- - [https://www.free2movecharge.pt](https://www.free2movecharge.pt)
- - date_published: 2024-12-20T11:08:29.672334+00:00
-
- ## Dentro de Scientology — A História Não Censurada
- - [https://www.freedommag.pt](https://www.freedommag.pt)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Contratar Freelancers e Encontrar Trabalhos Freelance Online
- - [https://www.freelancer.pt](https://www.freelancer.pt)
- - date_published: 2024-06-16T12:00:03.126195+00:00
-
- ## Fronteira do medo
- - [https://fronteiradomedo.pt](https://fronteiradomedo.pt)
- - date_published: 2023-07-09T19:29:45+00:00
-
- ## ▶️ Passeio de barco em Lisboa
- - [https://www.frs-portugal.pt](https://www.frs-portugal.pt)
- - date_published: 2024-08-07T11:54:11.117116+00:00
-
- ## Home - Fumaça
- - [https://fumaca.pt](https://fumaca.pt)
- - date_published: 2024-12-20T09:02:48.336098+00:00
-
- ## EDITORIAL, por Mafalda Ferro
- - [http://www.fundacaoantonioquadros.pt](http://www.fundacaoantonioquadros.pt)
- - date_published: 2024-12-31T19:42:42+00:00
-
- ## Fundação EDP
- - [https://www.fundacaoedp.pt](https://www.fundacaoedp.pt)
- - date_published: 2024-09-13T13:50:25+00:00
-
- ## fundacaoeugenioandrade.pt
- - [http://www.fundacaoeugenioandrade.pt](http://www.fundacaoeugenioandrade.pt)
- - date_published: 2024-07-12T20:49:55.979019+00:00
-
- ## Fundação Mário Soares e Maria Barroso - Preservar a memória para construir o futuro | Fundação Mário Soares e Maria Barroso
- - [http://www.fundacao-mario-soares.pt](http://www.fundacao-mario-soares.pt)
- - date_published: 2024-12-31T11:22:48.472481+00:00
-
- ## Trailers, Livestreams e Entrevistas de Videojogos | Gamereactor Portugal
- - [https://www.gamereactor.pt](https://www.gamereactor.pt)
- - date_published: 2024-07-17T13:05:42.461830+00:00
-
- ## Homepage - Garnier.com
- - [https://www.garnier.pt](https://www.garnier.pt)
- - date_published: 2024-10-20T22:51:10.082144+00:00
-
- ## Descubra os melhores apps para expandir sua empresa
- - [https://www.getapp.pt](https://www.getapp.pt)
- - date_published: 2024-08-08T18:07:22.344794+00:00
-
- ## Fotografias de stock, imagens criativas e vetores royalty-free | Imagens de notícias, moda e entretenimento - Getty Images
- - [https://www.gettyimages.pt](https://www.gettyimages.pt)
- - date_published: 2024-06-20T01:48:43.931779+00:00
-
- ## Giro HC
- - [http://girohc.pt](http://girohc.pt)
- - date_published: 2024-09-05T15:19:21.927745+00:00
-
- ## GISMEDIA
- - [http://www.gismedia.pt](http://www.gismedia.pt)
- - date_published: 2024-12-20T12:06:50.808676+00:00
-
- ## Homepage
- - [https://global.pt](https://global.pt)
- - date_published: 2024-06-25T16:23:23.928340+00:00
-
- ## Global Media Group
- - [https://www.globalmediagroup.pt](https://www.globalmediagroup.pt)
- - date_published: 2024-12-20T15:16:32.056832+00:00
-
- ## Welcome to Keycloak
- - [https://sso.globalnoticias.pt](https://sso.globalnoticias.pt)
- - date_published: 2024-07-12T21:24:19.914648+00:00
-
- ## GLS Portugal - Transport & Logistics
- - [https://www.gls-portugal.pt](https://www.gls-portugal.pt)
- - date_published: 2024-06-20T12:17:56.517857+00:00
-
- ## Gonçalo MB
- - [https://gmb.pt](https://gmb.pt)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Golden Eagle | Smart Living in Nature
- - [https://goldeneagle.pt](https://goldeneagle.pt)
- - date_published: 2024-04-05T16:41:06+00:00
-
- ## Gomibo.pt - Todos os telemóveis e acessórios
- - [https://www.gomibo.pt](https://www.gomibo.pt)
- - date_published: 2024-10-21T22:25:37.124576+00:00
-
- ## Consultoria em Marketing Digital, SEO e Web Design • GOMO Digital (Portugal)
- - [https://www.gomo.pt](https://www.gomo.pt)
- - date_published: 2023-12-27T00:00:00+00:00
-
- ## Google
- - [https://google.pt](https://google.pt)
- - date_published: 2024-05-26T13:42:31.881937+00:00
 

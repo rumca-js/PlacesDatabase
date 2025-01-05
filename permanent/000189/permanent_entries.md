@@ -1,3 +1,52 @@
+ ## Military Housing | Patrick Family Housing | Welcome to Patrick
+ - [http://www.patrick-family-housing.com](http://www.patrick-family-housing.com)
+ - date_published: 2024-07-16T23:00:38.970611+00:00
+
+ ## From Åkerö
+ - [https://patrickfinch.com](https://patrickfinch.com)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Patrick Fromaget – Blogger, developer and system administrator
+ - [https://patrickfromaget.com](https://patrickfromaget.com)
+ - date_published: 2024-06-10T13:17:26+00:00
+
+ ## Patrick Gillespie Photography
+ - [https://patrickgillespie.com](https://patrickgillespie.com)
+ - date_published: 2024-05-06T22:34:43.996198+00:00
+
+ ## Patrick Gilmour
+ - [https://patrickgilmour.com](https://patrickgilmour.com)
+ - date_published: 2025-01-02T19:41:58.785209+00:00
+
+ ## Patrick Heng - Creative Developer Portfolio
+ - [https://patrickheng.com](https://patrickheng.com)
+ - date_published: 2021-10-11T20:14:03+00:00
+
+ ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
+ - [https://patrickkeefe.com](https://patrickkeefe.com)
+ - date_published: 2023-12-21T08:24:19.074982+00:00
+ - tags: ['personal']
+
+ ## Patrick Keith
+ - [http://www.patrickkeith.com](http://www.patrickkeith.com)
+ - date_published: 2024-07-06T06:22:22+00:00
+
+ ## Patrick Kremer
+ - [http://www.patrickkremer.com](http://www.patrickkremer.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## This Modern Web
+ - [https://patrickmarsceill.com](https://patrickmarsceill.com)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Patrick Marsceill, software designer
+ - [https://work.patrickmarsceill.com](https://work.patrickmarsceill.com)
+ - date_published: 2024-03-19T19:50:47+00:00
+
+ ## W. Patrick McCray
+ - [http://www.patrickmccray.com](http://www.patrickmccray.com)
+ - date_published: 2024-08-18T20:15:54.856807+00:00
+
  ## Patrick McMath | State Senator District 11
  - [https://www.patrickmcmath.com](https://www.patrickmcmath.com)
  - date_published: 2024-10-27T21:23:22.826759+00:00
@@ -3998,52 +4047,4 @@
  ## Pen & Think
  - [https://www.penandthink.com](https://www.penandthink.com)
  - date_published: 2024-06-28T18:09:20.734770+00:00
-
- ## Pen Boutique Ltd - Fine Pens , ink and stationery store in Columbia, Maryland
- - [https://penboutique.com](https://penboutique.com)
- - date_published: 2024-05-07T14:00:49.690632+00:00
-
- ## Pence Fine Art Services
- - [https://www.pencefineartservices.com](https://www.pencefineartservices.com)
- - date_published: 2024-06-22T20:13:40.502577+00:00
-
- ## spencer wright
- - [https://pencerw.com](https://pencerw.com)
- - date_published: 2024-08-18T21:49:28.162117+00:00
-
- ## Pen Chalet
- - [http://penchalet.com](http://penchalet.com)
- - date_published: 2024-06-19T23:38:39.455682+00:00
-
- ## PenNews - Biggest Theme Ever for News/Magazine/Portfolio/Business/Landing Page
- - [http://pennews.pencidesign.com](http://pennews.pencidesign.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Soledad – Multi-Concept Blog/Magazine WordPress Theme – Just another WordPress site
- - [https://soledad.pencidesign.com](https://soledad.pencidesign.com)
- - date_published: 2024-05-01T03:13:16.569864+00:00
-
- ## Mark Dredge - Beer
- - [http://www.pencilandspoon.com](http://www.pencilandspoon.com)
- - date_published: 2024-12-30T08:13:20+00:00
-
- ## PencilBooth - Visual email marketing for creatives.
- - [https://pencilbooth.com](https://pencilbooth.com)
- - date_published: 2024-04-28T02:21:12.643558+00:00
-
- ## Paul Sullivan Art
- - [http://www.pencilprimate.com](http://www.pencilprimate.com)
- - date_published: 2024-07-14T16:50:18.869597+00:00
-
- ## Pendal Group | Investment Management | Fund Management
- - [https://pendalgroup.com](https://pendalgroup.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home - Pendari, Inc.
- - [http://pendari.com](http://pendari.com)
- - date_published: 2023-03-24T00:00:00+00:00
-
- ## Florida Personal Injury Lawyer
- - [https://www.pendaslaw.com](https://www.pendaslaw.com)
- - date_published: 2024-06-28T22:42:18+00:00
 

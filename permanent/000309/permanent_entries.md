@@ -1,3 +1,59 @@
+ ## The University of Utah Magazine
+ - [https://magazine.utah.edu](https://magazine.utah.edu)
+ - date_published: 2024-05-07T22:10:55.331052+00:00
+
+ ## Campus Map - The University of Utah
+ - [https://maps.utah.edu](https://maps.utah.edu)
+ - date_published: 2024-06-13T17:09:53+00:00
+
+ ## Campus Map - The University of Utah
+ - [https://map.utah.edu](https://map.utah.edu)
+ - date_published: 2024-05-07T22:09:52.103776+00:00
+
+ ## Math - The University of Utah
+ - [https://math.utah.edu](https://math.utah.edu)
+ - date_published: 2023-10-25T19:04:53.006400+00:00
+
+ ## Welcome to Mechanical Engineering - Mechanical Engineering | University of Utah
+ - [http://mech.utah.edu](http://mech.utah.edu)
+ - date_published: 2024-07-02T11:30:12.956968+00:00
+
+ ## MesoWest Data
+ - [https://mesowest.utah.edu](https://mesowest.utah.edu)
+ - date_published: 2024-01-01T20:13:34+00:00
+
+ ## Master of Science in International Affairs and Global Enterprise - The University of Utah
+ - [https://miage.utah.edu](https://miage.utah.edu)
+ - date_published: 2024-07-02T11:27:30.545223+00:00
+
+ ## Department of Military Science (Army ROTC) - The University of Utah
+ - [https://milsci.utah.edu](https://milsci.utah.edu)
+ - date_published: 2024-07-02T11:27:09.189021+00:00
+
+ ## Department of Mining Engineering - The University of Utah
+ - [https://mining.utah.edu](https://mining.utah.edu)
+ - date_published: 2024-07-02T11:36:23.225387+00:00
+
+ ## Monson Center - Conference and Event Management - The University of Utah
+ - [https://monsoncenter.utah.edu](https://monsoncenter.utah.edu)
+ - date_published: 2024-04-29T04:48:51.801103+00:00
+
+ ## Master of Public Administration - The University of Utah
+ - [https://mpa.utah.edu](https://mpa.utah.edu)
+ - date_published: 2024-07-02T11:27:04.092334+00:00
+
+ ## Master of Public Policy - The University of Utah
+ - [https://mpp.utah.edu](https://mpp.utah.edu)
+ - date_published: 2024-07-02T11:27:36.218608+00:00
+
+ ## Master of Software Development | University of Utah
+ - [https://msd.utah.edu](https://msd.utah.edu)
+ - date_published: 2024-05-07T22:10:41.905933+00:00
+
+ ## Home Page - Materials Science & Engineering
+ - [https://mse.utah.edu](https://mse.utah.edu)
+ - date_published: 2024-07-02T11:31:04.778134+00:00
+
  ## Utah Digital Newspapers
  - [https://newspapers.lib.utah.edu](https://newspapers.lib.utah.edu)
  - date_published: 2024-07-19T16:48:20.149715+00:00
@@ -3942,60 +3998,4 @@
  ## Commitment to Privacy
  - [https://realtime.vcu.edu](https://realtime.vcu.edu)
  - date_published: 2024-05-07T22:23:52.910462+00:00
-
- ## Commitment to Privacy
- - [https://recovery.vcu.edu](https://recovery.vcu.edu)
- - date_published: 2024-07-02T12:47:15.973514+00:00
-
- ## Commitment to Privacy
- - [https://recwell.vcu.edu](https://recwell.vcu.edu)
- - date_published: 2024-07-02T12:45:31.125552+00:00
-
- ## Commitment to Privacy
- - [https://registrar.vcu.edu](https://registrar.vcu.edu)
- - date_published: 2024-07-02T12:47:37.374953+00:00
-
- ## Commitment to Privacy
- - [https://rehab.chp.vcu.edu](https://rehab.chp.vcu.edu)
- - date_published: 2024-07-02T12:50:19.651736+00:00
-
- ## Commitment to Privacy
- - [https://repositioning.vcu.edu](https://repositioning.vcu.edu)
- - date_published: 2024-07-02T12:48:16.848846+00:00
-
- ## Commitment to Privacy
- - [https://research.vcu.edu](https://research.vcu.edu)
- - date_published: 2024-07-02T12:47:23.427829+00:00
-
- ## Commitment to Privacy
- - [https://researchweeks.vcu.edu](https://researchweeks.vcu.edu)
- - date_published: 2024-07-02T12:49:59.712618+00:00
-
- ## Commitment to Privacy
- - [https://ricerivers.vcu.edu](https://ricerivers.vcu.edu)
- - date_published: 2024-07-02T12:57:14.226902+00:00
-
- ## Commitment to Privacy
- - [https://robertson.vcu.edu](https://robertson.vcu.edu)
- - date_published: 2024-07-02T12:42:23.506477+00:00
-
- ## Commitment to Privacy
- - [https://rrtc.vcu.edu](https://rrtc.vcu.edu)
- - date_published: 2024-07-02T12:49:26.967120+00:00
-
- ## Commitment to Privacy
- - [https://rvacollab.vcu.edu](https://rvacollab.vcu.edu)
- - date_published: 2024-07-02T12:58:34.350397+00:00
-
- ## Commitment to Privacy
- - [https://s4s.vcu.edu](https://s4s.vcu.edu)
- - date_published: 2024-07-02T12:50:53.929787+00:00
-
- ## Commitment to Privacy
- - [https://saeo.vcu.edu](https://saeo.vcu.edu)
- - date_published: 2024-07-02T12:59:02.377183+00:00
-
- ## Commitment to Privacy
- - [https://safetymodel.vcu.edu](https://safetymodel.vcu.edu)
- - date_published: 2024-07-02T12:44:18.242462+00:00
 

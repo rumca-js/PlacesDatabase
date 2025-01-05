@@ -1,3 +1,15 @@
+ ## BitPay: The Best Crypto App to Pay with Crypto + Accept Payments
+ - [https://bitpay.com](https://bitpay.com)
+ - date_published: 2024-04-30T06:29:41.216803+00:00
+
+ ## BitPay Brand Guide
+ - [https://brand.bitpay.com](https://brand.bitpay.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## BitPay Inc Status
+ - [https://status.bitpay.com](https://status.bitpay.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
  ## BitPay Support
  - [https://support.bitpay.com](https://support.bitpay.com)
  - date_published: 2014-05-02T00:00:00+00:00
@@ -4045,17 +4057,4 @@
  ## Blog Oh! Blog
  - [http://www.blogohblog.com](http://www.blogohblog.com)
  - date_published: 2024-06-22T23:19:03.916104+00:00
-
- ## Morphex's blogologue (Life, technology, music, politics, business, mental health and more)
- - [https://blogologue.com](https://blogologue.com)
- - date_published: 2024-06-28T20:19:47+00:00
-
- ## Blogarama - Blog Directory
- - [http://www.blogorama.com](http://www.blogorama.com)
- - date_published: 2024-12-20T18:38:56.050354+00:00
-
- ## Google Blogoscoped
- - [https://blogoscoped.com](https://blogoscoped.com)
- - date_published: 2020-09-25T10:24:47+00:00
- - tags: ['tech news']
 

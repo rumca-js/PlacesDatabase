@@ -1,3 +1,59 @@
+ ## Home
+ - [https://discoveryacceleratorinstitute.grainger.illinois.edu](https://discoveryacceleratorinstitute.grainger.illinois.edu)
+ - date_published: 2024-09-13T18:13:07.281410+00:00
+
+ ## Welcome to Data Science Discovery! - Data Science Discovery
+ - [https://discovery.cs.illinois.edu](https://discovery.cs.illinois.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Office of the Vice Chancellor for Diversity, Equity & Inclusion
+ - [https://diversity.illinois.edu](https://diversity.illinois.edu)
+ - date_published: 2024-07-07T05:29:11.186878+00:00
+
+ ## David M. Nicol
+ - [https://dmnicol.web.engr.illinois.edu](https://dmnicol.web.engr.illinois.edu)
+ - date_published: 2022-01-12T21:19:37+00:00
+
+ ## https://dpj.cs.illinois.edu
+ - [https://dpj.cs.illinois.edu](https://dpj.cs.illinois.edu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## - Division of Research Safety | Illinois
+ - [https://drs.illinois.edu](https://drs.illinois.edu)
+ - date_published: 2024-10-15T07:27:29.424502+00:00
+
+ ## | Eat. Move. Save. | UIUC
+ - [https://eat-move-save.extension.illinois.edu](https://eat-move-save.extension.illinois.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Home
+ - [https://ece.illinois.edu](https://ece.illinois.edu)
+ - date_published: 2024-04-30T04:58:09.015864+00:00
+
+ ## Eduardo Fradkin (Physics)
+ - [https://eduardo.physics.illinois.edu](https://eduardo.physics.illinois.edu)
+ - date_published: 2024-04-30T04:58:35.693180+00:00
+
+ ## College of Education
+ - [https://education.illinois.edu](https://education.illinois.edu)
+ - date_published: 2024-07-07T05:30:40.342062+00:00
+
+ ## Webtools
+ - [https://emails.illinois.edu](https://emails.illinois.edu)
+ - date_published: 2024-07-31T18:02:32+00:00
+
+ ## University of Illinois
+ - [https://emergency.publicaffairs.illinois.edu](https://emergency.publicaffairs.illinois.edu)
+ - date_published: 2018-12-07T20:15:07+00:00
+
+ ## Public Engagement (PE) Portal | University of Illinois Urbana-Champaign
+ - [http://engage.illinois.edu](http://engage.illinois.edu)
+ - date_published: 2024-07-07T05:30:58.343206+00:00
+
+ ## Home
+ - [https://engineering.illinois.edu](https://engineering.illinois.edu)
+ - date_published: 2024-07-21T22:09:10.409210+00:00
+
  ## Engineering IT Shared Services
  - [https://engrit.illinois.edu](https://engrit.illinois.edu)
  - date_published: 2024-04-30T04:58:01.554925+00:00
@@ -3953,60 +4009,4 @@ Data Services
  ## LSU Office of Research & Economic Development
  - [http://www.research.lsu.edu](http://www.research.lsu.edu)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## LSU Alexandria
- - [https://www.lsua.edu](https://www.lsua.edu)
- - date_published: 2024-12-21T21:28:22.887769+00:00
-
- ## LSU Shreveport Cyber Collaboratory
- - [https://collab.lsus.edu](https://collab.lsus.edu)
- - date_published: 2024-12-21T21:28:18.894584+00:00
-
- ## Home - LTER
- - [https://lternet.edu](https://lternet.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Northern Gulf of Alaska LTER - Northern Gulf of Alaska
- - [https://nga.lternet.edu](https://nga.lternet.edu)
- - date_published: 2024-10-19T20:03:17.335840+00:00
-
- ## Home: Loyola University Chicago
- - [https://catalog.luc.edu](https://catalog.luc.edu)
- - date_published: 2024-08-29T14:30:05+00:00
-
- ## Infor Lawson
- - [https://ess.luc.edu](https://ess.luc.edu)
- - date_published: 2022-08-21T13:12:14+00:00
-
- ## Graduate and Professional Admission Loyola Chicago
- - [https://gpem.luc.edu](https://gpem.luc.edu)
- - date_published: 2024-09-02T10:35:53.525647+00:00
-
- ## Italo Alves
- - [https://ialves.sites.luc.edu](https://ialves.sites.luc.edu)
- - date_published: 2023-03-17T00:00:00+00:00
-
- ## An Introduction to Computer Networks
- - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
- - date_published: 2020-08-19T20:57:55+00:00
-
- ## UKG Workforce Central(R)
- - [https://kronos.luc.edu](https://kronos.luc.edu)
- - date_published: 2024-09-02T10:36:08.409356+00:00
-
- ## Welcome to Loyola University Chicago Libraries | Loyola University Chicago Libraries
- - [http://libraries.luc.edu](http://libraries.luc.edu)
- - date_published: 2024-09-02T06:49:02+00:00
-
- ## Loyola University
- - [https://luc.edu](https://luc.edu)
- - date_published: 2024-05-24T22:29:23.201109+00:00
-
- ## LUTE: Loyola University Technology Ensemble -
- - [https://lute.luc.edu](https://lute.luc.edu)
- - date_published: 2024-03-21T15:49:11+00:00
-
- ## Home
- - [https://news.luc.edu](https://news.luc.edu)
- - date_published: 2024-08-31T00:00:00+00:00
 

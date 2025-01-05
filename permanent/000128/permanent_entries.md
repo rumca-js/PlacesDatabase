@@ -1,3 +1,19 @@
+ ## Join the Kirby CMS Discord Server!
+ - [https://chat.getkirby.com](https://chat.getkirby.com)
+ - date_published: 2024-06-28T19:19:50+00:00
+
+ ## Kirby Community Map
+ - [https://community.getkirby.com](https://community.getkirby.com)
+ - date_published: 2024-07-24T06:37:54.337562+00:00
+
+ ## Kirby Feedback
+ - [https://feedback.getkirby.com](https://feedback.getkirby.com)
+ - date_published: 2024-07-24T06:37:52.872532+00:00
+
+ ## Kirby
+ - [https://forum.getkirby.com](https://forum.getkirby.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
  ## Kirby is the CMS that adapts to you
  - [https://getkirby.com](https://getkirby.com)
  - date_published: 2024-04-29T06:25:52.312448+00:00
@@ -4093,24 +4109,4 @@
  - [https://github.com/go-rod/rod](https://github.com/go-rod/rod)
  - date_published: 2024-11-27T17:16:03+00:00
  - tags: ['web scraping']
-
- ## GitHub - peass-ng/PEASS-ng: PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
- - [https://github.com/peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng)
- - date_published: 2024-11-28T17:15:01+00:00
- - tags: ['hacking']
-
- ## GitHub - PyPSA/pypsa-eur: PyPSA-Eur: A Sector-Coupled Open Optimisation Model of the European Energy System
- - [https://github.com/PyPSA/pypsa-eur](https://github.com/PyPSA/pypsa-eur)
- - date_published: 2024-11-28T20:15:42+00:00
- - tags: ['electricity', 'energy']
-
- ## GitHub - louislam/dockge: A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
- - [https://github.com/louislam/dockge](https://github.com/louislam/dockge)
- - date_published: 2024-11-29T09:43:03+00:00
- - tags: ['docker', 'self-host']
-
- ## GitHub - mealie-recipes/mealie: Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
- - [https://github.com/mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)
- - date_published: 2024-11-29T09:43:41+00:00
- - tags: ['self-host', 'recipe manager']
 

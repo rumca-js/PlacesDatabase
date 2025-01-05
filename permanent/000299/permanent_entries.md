@@ -1,3 +1,59 @@
+ ## LSU Alexandria
+ - [https://www.lsua.edu](https://www.lsua.edu)
+ - date_published: 2024-12-21T21:28:22.887769+00:00
+
+ ## LSU Shreveport Cyber Collaboratory
+ - [https://collab.lsus.edu](https://collab.lsus.edu)
+ - date_published: 2024-12-21T21:28:18.894584+00:00
+
+ ## Home - LTER
+ - [https://lternet.edu](https://lternet.edu)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Northern Gulf of Alaska LTER - Northern Gulf of Alaska
+ - [https://nga.lternet.edu](https://nga.lternet.edu)
+ - date_published: 2024-10-19T20:03:17.335840+00:00
+
+ ## Home: Loyola University Chicago
+ - [https://catalog.luc.edu](https://catalog.luc.edu)
+ - date_published: 2024-08-29T14:30:05+00:00
+
+ ## Infor Lawson
+ - [https://ess.luc.edu](https://ess.luc.edu)
+ - date_published: 2022-08-21T13:12:14+00:00
+
+ ## Graduate and Professional Admission Loyola Chicago
+ - [https://gpem.luc.edu](https://gpem.luc.edu)
+ - date_published: 2024-09-02T10:35:53.525647+00:00
+
+ ## Italo Alves
+ - [https://ialves.sites.luc.edu](https://ialves.sites.luc.edu)
+ - date_published: 2023-03-17T00:00:00+00:00
+
+ ## An Introduction to Computer Networks
+ - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
+ - date_published: 2020-08-19T20:57:55+00:00
+
+ ## UKG Workforce Central(R)
+ - [https://kronos.luc.edu](https://kronos.luc.edu)
+ - date_published: 2024-09-02T10:36:08.409356+00:00
+
+ ## Welcome to Loyola University Chicago Libraries | Loyola University Chicago Libraries
+ - [http://libraries.luc.edu](http://libraries.luc.edu)
+ - date_published: 2024-09-02T06:49:02+00:00
+
+ ## Loyola University
+ - [https://luc.edu](https://luc.edu)
+ - date_published: 2024-05-24T22:29:23.201109+00:00
+
+ ## LUTE: Loyola University Technology Ensemble -
+ - [https://lute.luc.edu](https://lute.luc.edu)
+ - date_published: 2024-03-21T15:49:11+00:00
+
+ ## Home
+ - [https://news.luc.edu](https://news.luc.edu)
+ - date_published: 2024-08-31T00:00:00+00:00
+
  ## LUC Sakai : Gateway : Welcome
  - [https://sakai.luc.edu](https://sakai.luc.edu)
  - date_published: 2024-09-02T00:00:00+00:00
@@ -3950,60 +4006,4 @@
  ## Chancellor's Faculty Excellence Program | NC State University
  - [https://facultyclusters.ncsu.edu](https://facultyclusters.ncsu.edu)
  - date_published: 2024-07-01T15:55:29.166396+00:00
-
- ## Farm Law and Tax for Producers and Landowners | NC State Extension
- - [https://farmlaw.ces.ncsu.edu](https://farmlaw.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:20.027272+00:00
-
- ## Farm Planning Resources | NC State Extension
- - [https://farmplanning.ces.ncsu.edu](https://farmplanning.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:42.174197+00:00
-
- ## Farm to School | NC State Extension
- - [https://farmtoschool.ces.ncsu.edu](https://farmtoschool.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:11.565958+00:00
-
- ## Family & Consumer Sciences Program | NC State Extension
- - [https://fcs.ces.ncsu.edu](https://fcs.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:19.635409+00:00
-
- ## Feed Milling | NC State Extension
- - [https://feedmilling.ces.ncsu.edu](https://feedmilling.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:38.134599+00:00
-
- ## Field Days | NC State Extension
- - [https://fielddays.ces.ncsu.edu](https://fielddays.ces.ncsu.edu)
- - date_published: 2024-10-15T05:41:41.584162+00:00
-
- ## North Carolina Food Animal Initiative
- - [https://foodanimal.ncsu.edu](https://foodanimal.ncsu.edu)
- - date_published: 2024-10-15T05:01:11+00:00
-
- ## Food Business | NC State Extension
- - [https://foodbusiness.ces.ncsu.edu](https://foodbusiness.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:02.670545+00:00
-
- ## FoodCoVNET | NC State Extension
- - [https://foodcovnet.ces.ncsu.edu](https://foodcovnet.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:44.902389+00:00
-
- ## Food Safety | NC State Extension
- - [https://foodsafety.ces.ncsu.edu](https://foodsafety.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:05.213364+00:00
-
- ## Food Safety for Processors | NC State Extension
- - [https://foodsafetyprocessors.ces.ncsu.edu](https://foodsafetyprocessors.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:58.826319+00:00
-
- ## Food Safety Repository | NC State Extension
- - [https://foodsafetyrepository.ces.ncsu.edu](https://foodsafetyrepository.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:18.776562+00:00
-
- ## Forages | NC State Extension
- - [https://forages.ces.ncsu.edu](https://forages.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:58.865139+00:00
-
- ## Extension Forestry | NC State Extension
- - [https://forestry.ces.ncsu.edu](https://forestry.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:47.635032+00:00
 

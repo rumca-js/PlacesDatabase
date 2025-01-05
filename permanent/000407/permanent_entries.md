@@ -1,3 +1,91 @@
+ ## Computational Chemistry Highlights
+ - [http://www.compchemhighlights.org](http://www.compchemhighlights.org)
+ - date_published: 2024-12-29T22:17:43+00:00
+
+ ## The Computational Democracy Project
+ - [https://compdemocracy.org](https://compdemocracy.org)
+ - date_published: 2024-07-09T08:12:21.761022+00:00
+
+ ## Christian Truth
+ - [https://www.compellingtruth.org](https://www.compellingtruth.org)
+ - date_published: 2024-01-02T03:07:03+00:00
+
+ ## Homepage - Compete
+ - [http://www.compete.org](http://www.compete.org)
+ - date_published: 2024-08-11T04:49:54.775008+00:00
+
+ ## Compiler Research - Welcome to the Compiler Research Group
+ - [https://compiler-research.org](https://compiler-research.org)
+ - date_published: 2024-12-20T21:10:04+00:00
+
+ ## The Changelog | Comments on family, technology, and society
+ - [https://changelog.complete.org](https://changelog.complete.org)
+ - date_published: 2023-10-25T21:09:18.866235+00:00
+
+ ## www.complete.org
+ - [https://complete.org](https://complete.org)
+ - date_published: 2023-10-25T21:09:19.979371+00:00
+
+ ## Complete College Georgia | Complete College Georgia
+ - [http://www.completegeorgia.org](http://www.completegeorgia.org)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Component Driven User Interfaces
+ - [https://componentdriven.org](https://componentdriven.org)
+ - date_published: 2024-04-30T05:31:23.943754+00:00
+
+ ## Addons, plugins and components | Componette
+ - [https://componette.org](https://componette.org)
+ - date_published: 2024-07-08T10:44:16.488329+00:00
+
+ ## Compositionality
+ - [https://compositionality-journal.org](https://compositionality-journal.org)
+ - date_published: 2024-06-22T05:52:22.512825+00:00
+
+ ## Compoze
+ - [https://app.compoze.org](https://app.compoze.org)
+ - date_published: 2024-08-18T19:59:42.338677+00:00
+
+ ## Compoze
+ - [https://compoze.org](https://compoze.org)
+ - date_published: 2023-10-25T21:09:21.237236+00:00
+
+ ## Home | Computational Story Lab
+ - [https://compstorylab.org](https://compstorylab.org)
+ - date_published: 2024-05-07T22:15:59.796392+00:00
+
+ ## Comptel Plus - networking  opportunities
+ - [http://www.comptelplus.org](http://www.comptelplus.org)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Index - CompTIA Marketplace Academic
+ - [https://academic-store.comptia.org](https://academic-store.comptia.org)
+ - date_published: 2024-10-07T23:00:39.381704+00:00
+
+ ## Information Technology (IT) Certifications & Training | CompTIA
+ - [https://certification.comptia.org](https://certification.comptia.org)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## CompTIA Instructors Network
+ - [https://cin.comptia.org](https://cin.comptia.org)
+ - date_published: 2024-10-07T22:55:06+00:00
+
+ ## Information Technology (IT) Certifications & Training | CompTIA
+ - [http://comptia.org](http://comptia.org)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Information Technology (IT) Association | CompTIA Community
+ - [https://connect.comptia.org](https://connect.comptia.org)
+ - date_published: 2024-06-16T13:51:38.151881+00:00
+
+ ## IIS Windows Server
+ - [https://imis2019.comptia.org](https://imis2019.comptia.org)
+ - date_published: 2018-06-28T16:56:55+00:00
+
+ ## Login | CompTIA
+ - [https://login.comptia.org](https://login.comptia.org)
+ - date_published: 2024-06-10T13:47:04+00:00
+
  ## The CompTIA Authorized Partner Program Home
  - [https://partners.comptia.org](https://partners.comptia.org)
  - date_published: 2024-06-16T13:51:35.952049+00:00
@@ -3942,94 +4030,4 @@ irc logs at libera.irclog.whitequark.org
  ## The Connecticut Academy of Science and Engineering
  - [https://ctcase.org](https://ctcase.org)
  - date_published: 2024-10-19T04:02:09.518887+00:00
-
- ## The Counter Trafficking Data Collaborative | CTDC
- - [https://www.ctdatacollaborative.org](https://www.ctdatacollaborative.org)
- - date_published: 2024-07-29T14:00:46+00:00
-
- ## Center for Transformative Environmental Monitoring Programs
- - [https://ctemps.org](https://ctemps.org)
- - date_published: 2024-07-09T08:21:59+00:00
-
- ## Tools : API - Chinese Text Project
- - [https://api.ctext.org](https://api.ctext.org)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Chinese Text Project
- - [https://ctext.org](https://ctext.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## CTF Handbook
- - [https://ctf101.org](https://ctf101.org)
- - date_published: 2024-10-15T19:37:15+00:00
- - tags: ['capture the flag', 'hacking']
-
- ## CTFtime.org / All about CTF (Capture The Flag)
- - [https://ctftime.org](https://ctftime.org)
- - date_published: 2023-12-06T11:59:51+00:00
- - tags: ['hackers', 'cybersecurity', 'dark design']
-
- ## Coalition for Ticket Fairness - Protecting Consumers’ Ticketing Rights - CTF Protecting Consumers’ Ticketing Rights
- - [https://ctfusa.org](https://ctfusa.org)
- - date_published: 2024-06-16T20:08:44.268372+00:00
-
- ## Connecticut – Gambling & Gaming
- - [http://ctgamblingandgaming.org](http://ctgamblingandgaming.org)
- - date_published: 2024-08-16T01:37:03+00:00
-
- ## CTIA - Home
- - [https://www.ctia.org](https://www.ctia.org)
- - date_published: 2024-09-14T22:23:22.907462+00:00
-
- ## CTIF - International Association of Fire Services for Safer Citizens through Skilled Firefighters
- - [https://ctif.org](https://ctif.org)
- - date_published: 2023-10-25T21:11:51.392667+00:00
-
- ## Home - Confederation of Timber Industries
- - [https://cti-timber.org](https://cti-timber.org)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## About us  Heston & Heston - Riverside
- - [http://hestonlawriverside.ctlxy.org](http://hestonlawriverside.ctlxy.org)
- - date_published: 2024-12-25T12:50:05.204338+00:00
-
- ## CT Mirror: Connecticut News and In-Depth Reporting
- - [https://ctmirror.org](https://ctmirror.org)
- - date_published: 2023-12-21T22:13:27.100706+00:00
-
- ## Home Page
- - [http://ctnbq.org](http://ctnbq.org)
- - date_published: 2024-07-04T17:00:57.612697+00:00
-
- ## 一般社団法人 日本CTO協会
- - [https://cto-a.org](https://cto-a.org)
- - date_published: 2024-06-24T01:19:32.324312+00:00
-
- ## Home - Computational Thinking for High School Teachers
- - [https://ctpdonline.org](https://ctpdonline.org)
- - date_published: 2020-05-22T00:00:00+00:00
-
- ## BIO Clinical Trials
- - [https://ctpop.org](https://ctpop.org)
- - date_published: 2024-09-18T21:42:35+00:00
-
- ## Connecticut Public | Media for the curious | Connecticut Public
- - [https://content.ctpublic.org](https://content.ctpublic.org)
- - date_published: 2024-08-11T15:04:48.201426+00:00
-
- ## Connecticut Public | Media for the curious | Connecticut Public
- - [https://ctpublic.org](https://ctpublic.org)
- - date_published: 2024-02-24T18:22:21.769110+00:00
-
- ## Digital Inspiration
- - [https://ctrlq.org](https://ctrlq.org)
- - date_published: 2024-12-25T00:35:26.325446+00:00
-
- ## Clinical Trials Search and Support | NMDP℠ CTSS
- - [https://www.ctsearchsupport.org](https://www.ctsearchsupport.org)
- - date_published: 2024-10-16T17:52:06.375186+00:00
-
- ## Connecticut & Western Massachusetts Gamblers Anonymous
- - [https://ctwmaga.org](https://ctwmaga.org)
- - date_published: 2024-08-19T19:32:26.218465+00:00
 

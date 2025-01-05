@@ -1,3 +1,16 @@
+ ## Oldhammer Finland
+ - [http://oldhammerfinland.blogspot.com](http://oldhammerfinland.blogspot.com)
+ - date_published: 2024-10-07T04:34:10+00:00
+
+ ## Oldhammer Generals
+ - [https://oldhammergenerals.blogspot.com](https://oldhammergenerals.blogspot.com)
+ - date_published: 2014-05-07T00:00:00+00:00
+ - tags: ['warhammer', 'miniatures']
+
+ ## Oldhammer In The New World
+ - [http://oldhammerinthenewworld.blogspot.com](http://oldhammerinthenewworld.blogspot.com)
+ - date_published: 2024-05-24T09:34:58+00:00
+
  ## Oldhammer Melbourne
  - [http://oldhammermelbourne.blogspot.com](http://oldhammermelbourne.blogspot.com)
  - date_published: 2024-03-05T12:13:20+00:00
@@ -3992,16 +4005,4 @@
  ## POWERPOPULIST
  - [https://powerpopulist.blogspot.com](https://powerpopulist.blogspot.com)
  - date_published: 2020-01-01T00:00:00+00:00
-
- ## The Accursed Crozius
- - [https://powerposey.blogspot.com](https://powerposey.blogspot.com)
- - date_published: 2024-09-24T19:30:20+00:00
-
- ## PowerWP Blogger Template
- - [https://powerwp-nbt.blogspot.com](https://powerwp-nbt.blogspot.com)
- - date_published: 2010-09-05T00:00:00+00:00
-
- ## Open and Shut?
- - [https://poynder.blogspot.com](https://poynder.blogspot.com)
- - date_published: 2024-01-07T00:00:00+00:00
 

@@ -1,3 +1,59 @@
+ ## xTom Open Source Software Mirror
+ - [https://mirrors.xtom.ee](https://mirrors.xtom.ee)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## YEInternational AS | yeint.ee
+ - [https://yeint.ee](https://yeint.ee)
+ - date_published: 2024-05-09T04:10:18.816769+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.ee](https://www2.zoetis.ee)
+ - date_published: 2024-06-27T09:52:47+00:00
+
+ ## Pealeht
+ - [https://blog.zone.ee](https://blog.zone.ee)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Esileht - Koduleht ja e-post
+ - [https://zone.ee](https://zone.ee)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## ZoneCloud
+ - [https://zonecloud.ee](https://zonecloud.ee)
+ - date_published: 2024-07-13T09:55:45.676047+00:00
+
+ ## ZX Spectrum games, graphics and music - ZX-Art
+ - [https://zxart.ee](https://zxart.ee)
+ - date_published: 2024-07-10T02:41:57.932446+00:00
+
+ ## e-Residency of Estonia | Apply & start an EU company online
+ - [https://e-resident.gov.ee](https://e-resident.gov.ee)
+ - date_published: 2023-10-25T19:07:11.004930+00:00
+
+ ## Knowledge Base
+ - [https://learn.e-resident.gov.ee](https://learn.e-resident.gov.ee)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Riigihangete register
+ - [https://riigihanked.riik.ee](https://riigihanked.riik.ee)
+ - date_published: 2024-06-14T09:16:16+00:00
+
+ ## 3M Science. Applied to Life. | 3M Egypt
+ - [https://3megypt.com.eg](https://3megypt.com.eg)
+ - date_published: 2024-08-06T10:42:19.850073+00:00
+
+ ## 3M Science. Applied to Life. | 3M Egypt
+ - [http://solutions.3megypt.com.eg](http://solutions.3megypt.com.eg)
+ - date_published: 2024-12-11T02:37:57.184929+00:00
+
+ ## adidas Official Website | adidas Egypt
+ - [https://adidas.com.eg](https://adidas.com.eg)
+ - date_published: 2024-07-14T12:14:31.250779+00:00
+
+ ## home
+ - [https://alfaromeo.com.eg](https://alfaromeo.com.eg)
+ - date_published: 2024-05-29T08:36:03+00:00
+
  ## Banque du Caire | بنك القاهرة
  - [https://www.bdc.com.eg](https://www.bdc.com.eg)
  - date_published: 2024-09-18T04:47:10.172902+00:00
@@ -3977,60 +4033,4 @@
  ## Cataloxy Valladolid  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Valladolid
  - [https://valladolid.cataloxy.es](https://valladolid.cataloxy.es)
  - date_published: 2024-12-11T13:29:18.324778+00:00
-
- ## Cataloxy Vic  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Vic
- - [https://vic.cataloxy.es](https://vic.cataloxy.es)
- - date_published: 2024-12-11T13:30:28.101181+00:00
-
- ## Cataloxy Viladecans  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Viladecans
- - [https://viladecans.cataloxy.es](https://viladecans.cataloxy.es)
- - date_published: 2024-12-11T13:29:48.522024+00:00
-
- ## Cataloxy Vilafranca del Penedès  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Vilafranca del Penedès
- - [https://vilafranca-del-penedes.cataloxy.es](https://vilafranca-del-penedes.cataloxy.es)
- - date_published: 2024-12-11T13:31:31.639517+00:00
-
- ## Cataloxy Vilanova i la Geltru  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Vilanova i la Geltru
- - [https://vilanova-i-la-geltru.cataloxy.es](https://vilanova-i-la-geltru.cataloxy.es)
- - date_published: 2024-12-11T13:31:51.519895+00:00
-
- ## Cataloxy Vinaròs  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Vinaròs
- - [https://vinaros.cataloxy.es](https://vinaros.cataloxy.es)
- - date_published: 2024-12-11T13:29:34.010126+00:00
-
- ## Cataloxy Zaragoza  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Zaragoza
- - [https://zaragoza.cataloxy.es](https://zaragoza.cataloxy.es)
- - date_published: 2024-12-11T13:31:41.593756+00:00
-
- ## Inicio - Cátedra de derecho notarial
- - [https://catedraderechonotarial.es](https://catedraderechonotarial.es)
- - date_published: 2024-10-08T00:00:00+00:00
-
- ## Cátedra de la Marca Corporativa de la Universidad de Alicante (España)
- - [https://catedramarcacorporativa.es](https://catedramarcacorporativa.es)
- - date_published: 2024-10-15T02:56:58.710789+00:00
-
- ## Web del Consejo de Cooperación Bibliotecaria - CCB
- - [https://ccbiblio.es](https://ccbiblio.es)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Consejo de Colegios de Ingeniería Informática
- - [https://ccii.es](https://ccii.es)
- - date_published: 2019-01-21T11:29:33+00:00
-
- ## Cuberterías de Albacete, I&E
- - [https://cda-ie.es](https://cda-ie.es)
- - date_published: 2025-01-01T10:29:10.981321+00:00
-
- ## Comisión Española de Ayuda al Refugiado - CEAR
- - [https://cear.es](https://cear.es)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## CEDID, Centro español de documentación e investigación sobre discapacidad
- - [https://cedid.es](https://cedid.es)
- - date_published: 2024-06-12T11:15:59.099211+00:00
-
- ## RIBERDIS
- - [http://riberdis.cedid.es](http://riberdis.cedid.es)
- - date_published: 2024-09-12T11:55:10.193102+00:00
 

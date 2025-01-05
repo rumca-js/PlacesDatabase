@@ -1,3 +1,47 @@
+ ## TAG-DS
+ - [https://tagds.com](https://tagds.com)
+ - date_published: 2024-07-20T06:10:34.521657+00:00
+
+ ## Tagembed: Free Social Media Aggregator For Website
+ - [https://tagembed.com](https://tagembed.com)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Tagembed Widget App
+ - [https://widget.tagembed.com](https://widget.tagembed.com)
+ - date_published: 2024-05-02T10:14:58.500610+00:00
+
+ ## Social Media Aggregator: Engage More Users with Widgets for Website
+ - [https://taggbox.com](https://taggbox.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Widget
+ - [https://widget.taggbox.com](https://widget.taggbox.com)
+ - date_published: 2024-05-07T22:15:49.934348+00:00
+
+ ## Tagged - The social network for meeting new people
+ - [https://secure.tagged.com](https://secure.tagged.com)
+ - date_published: 2024-12-16T12:14:47.732633+00:00
+
+ ## Tagged - The social network for meeting new people
+ - [https://tagged.com](https://tagged.com)
+ - date_published: 2024-10-20T11:33:04.587898+00:00
+
+ ## Home - Tagg Magazine
+ - [https://taggmagazine.com](https://taggmagazine.com)
+ - date_published: 2024-10-19T11:10:30.392637+00:00
+
+ ## Our Job Offers - LVMH
+ - [http://human-resources.tagheuer.com](http://human-resources.tagheuer.com)
+ - date_published: 2024-12-16T12:16:05.456585+00:00
+
+ ## The Edge - A maverick Magazine by TAG Heuer | TAG Heuer Official Magazine
+ - [https://magazine.tagheuer.com](https://magazine.tagheuer.com)
+ - date_published: 2024-12-16T12:16:17.408982+00:00
+
+ ## TAG Heuer® Official Website - Swiss Luxury Watches since 1860
+ - [https://tagheuer.com](https://tagheuer.com)
+ - date_published: 2024-07-12T13:31:01.074626+00:00
+
  ## Tagide – Software Consulting
  - [https://tagide.com](https://tagide.com)
  - date_published: 2024-05-06T14:01:52.514395+00:00
@@ -4008,48 +4052,4 @@
  ## Help Center - Librarian/Institution
  - [https://help.taylorfrancis.com](https://help.taylorfrancis.com)
  - date_published: 2023-07-10T12:40:45+00:00
-
- ## Home | Taylor & Francis eBooks, Reference Works and Collections
- - [https://taylorfrancis.com](https://taylorfrancis.com)
- - date_published: 2024-05-09T05:05:02.828026+00:00
-
- ## Taylor Kate Brown
- - [https://taylorkatebrown.com](https://taylorkatebrown.com)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Taylor Kitsch Online | https://www.taylor-kitsch.com
- - [https://taylor-kitsch.com](https://taylor-kitsch.com)
- - date_published: 2024-09-04T03:08:06.419908+00:00
-
- ## Creative Works | Psychological Thrillers | MM Press
- - [http://www.taylormarsh.com](http://www.taylormarsh.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## New Homes for Sale from America's Most Trusted Home Builder  - Taylor Morrison
- - [https://www.taylormorrison.com](https://www.taylormorrison.com)
- - date_published: 2024-07-12T19:32:26+00:00
-
- ## Taylor Prep: The Best High School in Taylor, MI
- - [http://taylorprephs.com](http://taylorprephs.com)
- - date_published: 2024-12-30T13:40:43.414801+00:00
-
- ## Taylor.Smith.Music
- - [https://taylorsmithmusic.com](https://taylorsmithmusic.com)
- - date_published: 2024-05-09T08:06:07.954661+00:00
-
- ## Taylor Swift Official Store AU - Taylor Swift Official Store AU
- - [https://storeau.taylorswift.com](https://storeau.taylorswift.com)
- - date_published: 2024-10-19T19:43:27.877505+00:00
-
- ## Taylor Swift Official Store - Taylor Swift CA
- - [https://storeca.taylorswift.com](https://storeca.taylorswift.com)
- - date_published: 2024-10-19T19:43:25.082101+00:00
-
- ## Official Taylor Swift Online Store - Taylor Swift
- - [https://storeeu.taylorswift.com](https://storeeu.taylorswift.com)
- - date_published: 2024-10-19T19:42:51.221007+00:00
-
- ## Store Taylor Swift - Store Taylor Swift
- - [https://storefr.taylorswift.com](https://storefr.taylorswift.com)
- - date_published: 2024-10-19T19:43:33.743384+00:00
 

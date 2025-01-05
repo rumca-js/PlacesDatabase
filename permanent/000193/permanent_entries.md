@@ -1,3 +1,54 @@
+ ## Plebstr — friendly Nostr client
+ - [https://plebstr.com](https://plebstr.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## PlebWalks
+ - [https://plebwalks.com](https://plebwalks.com)
+ - date_published: 2024-05-27T23:02:16+00:00
+
+ ## Pleco Software – The #1 Chinese dictionary app for iOS and Android
+ - [http://www.pleco.com](http://www.pleco.com)
+ - date_published: 2024-09-02T12:48:22+00:00
+
+ ## Artis Opus - PledgeManager
+ - [https://artis-opus.pledgemanager.com](https://artis-opus.pledgemanager.com)
+ - date_published: 2024-06-18T09:43:44+00:00
+
+ ## Microcosm Publishing - PledgeManager
+ - [https://microcosm-publishing.pledgemanager.com](https://microcosm-publishing.pledgemanager.com)
+ - date_published: 2024-08-11T04:42:01+00:00
+
+ ## 
+	PledgeReg - Online Fundraising
+
+ - [https://pledgereg.com](https://pledgereg.com)
+ - date_published: 2024-09-17T23:17:22.297261+00:00
+
+ ## Pleggi
+ - [https://pleggi.com](https://pleggi.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Pleinchamp - Prévisions météo, actualités agricoles, cours & marchés
+ - [https://www.pleinchamp.com](https://www.pleinchamp.com)
+ - date_published: 2024-10-19T11:21:29.533177+00:00
+
+ ## NameBright - Coming Soon
+ - [http://www.pleinvol.com](http://www.pleinvol.com)
+ - date_published: 2024-07-09T22:04:15.509686+00:00
+
+ ## Nikola Plejić: Homepage
+ - [https://nikola.plejic.com](https://nikola.plejic.com)
+ - date_published: 2023-11-29T14:40:48.132200+00:00
+ - tags: ['personal']
+
+ ## Plenge Gen @rplenge
+ - [https://plengegen.com](https://plengegen.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Prensa Latina - Latin American News Agency
+ - [https://www.plenglish.com](https://www.plenglish.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## Registered & Protected by MarkMonitor
  - [http://www.plentymag.com](http://www.plentymag.com)
  - date_published: 2023-12-28T20:23:42+00:00
@@ -3984,53 +4035,4 @@
  ## Polyglot Media
  - [https://polyglotmedia.com](https://polyglotmedia.com)
  - date_published: 2024-06-19T20:06:06.886539+00:00
-
- ## Polygon: Gaming and Entertainment News, Culture, Reviews, and More
- - [https://platform.polygon.com](https://platform.polygon.com)
- - date_published: 2024-09-25T15:13:02.800549+00:00
-
- ## Polygon: Gaming and Entertainment News, Reviews, and More
- - [https://polygon.com](https://polygon.com)
- - date_published: 2024-06-16T05:04:49.881178+00:00
- - tags: ['video game news']
-
- ## The MESSUI Place
- - [https://messui.polygonal-moogle.com](https://messui.polygonal-moogle.com)
- - date_published: 2023-05-29T08:18:07+00:00
-
- ## Member - Polygon Bikes
- - [https://account.polygonbikes.com](https://account.polygonbikes.com)
- - date_published: 2024-09-18T01:17:29.372024+00:00
-
- ## Official Site | Polygon Bikes
- - [https://polygonbikes.com](https://polygonbikes.com)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Home - Polygon Composites
- - [https://polygoncomposites.com](https://polygoncomposites.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## DOMAIN ERROR
- - [https://polygongrantshackathon.com](https://polygongrantshackathon.com)
- - date_published: 2017-09-17T19:29:08+00:00
-
- ## Privado ID Documentation
- - [https://devs.polygonid.com](https://devs.polygonid.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Home | Privado ID
- - [https://polygonid.com](https://polygonid.com)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Polygonjs: WebGL Design & Animation Tool
- - [https://polygonjs.com](https://polygonjs.com)
- - date_published: 2024-08-06T20:03:45.804629+00:00
-
- ## Your Instant RPC Gateway to Polygon PoS
- - [https://polygon-rpc.com](https://polygon-rpc.com)
- - date_published: 2024-04-29T07:33:04.564812+00:00
-
- ## TESTNET  Polygon PoS Chain Amoy (MATIC) Blockchain Explorer
- - [https://amoy.polygonscan.com](https://amoy.polygonscan.com)
- - date_published: 2024-08-07T09:24:11.674190+00:00
 

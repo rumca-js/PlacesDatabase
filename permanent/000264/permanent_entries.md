@@ -1,3 +1,51 @@
+ ## Footnotes to Plato
+ - [https://platofootnote.wordpress.com](https://platofootnote.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Playing with models: quantitative exploration of life.
+ - [http://playingwithmodels.wordpress.com](http://playingwithmodels.wordpress.com)
+ - date_published: 2024-06-17T12:11:35.771168+00:00
+
+ ## Playtivity 玩 . 創意
+ - [http://playtivity.wordpress.com](http://playtivity.wordpress.com)
+ - date_published: 2024-08-18T09:34:08.295231+00:00
+
+ ## Pawlicker's Pleroma Experiment Blog
+ - [https://pleromanonx86.wordpress.com](https://pleromanonx86.wordpress.com)
+ - date_published: 2023-11-23T05:04:00.178360+00:00
+
+ ## Pliu's Blog - Teaching and Learning Open Source Development
+ - [https://pliu.wordpress.com](https://pliu.wordpress.com)
+ - date_published: 2024-07-18T12:27:19.836948+00:00
+
+ ## Paul Jacobson's links
+ - [https://pljcbsn.wordpress.com](https://pljcbsn.wordpress.com)
+ - date_published: 2024-07-02T18:27:25+00:00
+
+ ## Please, no hate.
+ - [https://plsnohate.wordpress.com](https://plsnohate.wordpress.com)
+ - date_published: 2024-10-22T18:49:55.604464+00:00
+
+ ## Plucked from the Stacks
+ - [https://pluckedfromthestacks.wordpress.com](https://pluckedfromthestacks.wordpress.com)
+ - date_published: 2024-06-15T10:21:04+00:00
+
+ ## Finding Pluto
+ - [http://plutovian.wordpress.com](http://plutovian.wordpress.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## GSoC PMA
+ - [https://pmagsocproject.wordpress.com](https://pmagsocproject.wordpress.com)
+ - date_published: 2024-06-11T10:31:05.063775+00:00
+
+ ## The Product Manager Handbook
+ - [https://pmhandbook.wordpress.com](https://pmhandbook.wordpress.com)
+ - date_published: 2024-07-03T19:32:12+00:00
+
+ ## The Postnational Monitor
+ - [http://pmsol3.wordpress.com](http://pmsol3.wordpress.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
  ## (pas de titre)
  - [https://pnpfrance.wordpress.com](https://pnpfrance.wordpress.com)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3961,52 +4009,4 @@
  ## Supradeep Narayana's Blog
  - [http://supradeepnarayana.wordpress.com](http://supradeepnarayana.wordpress.com)
  - date_published: 2024-10-19T07:46:09.122784+00:00
-
- ## surajgillespie123
- - [https://surajgillespie123.wordpress.com](https://surajgillespie123.wordpress.com)
- - date_published: 2024-07-10T03:04:38.294363+00:00
-
- ## Sciology = Science + Technology
- - [https://sureshkrishna.wordpress.com](https://sureshkrishna.wordpress.com)
- - date_published: 2024-07-18T12:21:25.827027+00:00
-
- ## Surfing the Sea
- - [http://surfingtheseagard.wordpress.com](http://surfingtheseagard.wordpress.com)
- - date_published: 2024-09-03T23:00:26.973127+00:00
-
- ## SURIYA HABIBATI
- - [https://suriyayahabibati.wordpress.com](https://suriyayahabibati.wordpress.com)
- - date_published: 2024-09-16T19:27:53.914063+00:00
-
- ## SursockHouse
- - [https://sursockhouse.wordpress.com](https://sursockhouse.wordpress.com)
- - date_published: 2024-08-19T05:02:15.272737+00:00
-
- ## Survival Sherpa
- - [http://survivalsherpa.wordpress.com](http://survivalsherpa.wordpress.com)
- - date_published: 2024-06-29T05:00:41.183293+00:00
-
- ## Survivor Reborn
- - [https://survivorreborn.wordpress.com](https://survivorreborn.wordpress.com)
- - date_published: 2024-07-09T22:33:25.752016+00:00
-
- ## DIGGING INTO THE PAST
- - [http://susanappleyardwriter.wordpress.com](http://susanappleyardwriter.wordpress.com)
- - date_published: 2024-07-16T21:36:10+00:00
-
- ## Susan J. Crockford - Scientist, Writer
- - [https://susancrockfordcom.wordpress.com](https://susancrockfordcom.wordpress.com)
- - date_published: 2024-06-28T18:38:06.952757+00:00
-
- ## SusanWithPearls
- - [https://susanwithpearls.wordpress.com](https://susanwithpearls.wordpress.com)
- - date_published: 2022-04-08T00:00:00+00:00
-
- ## Susan Young Sewing
- - [http://susanyoungsewing.wordpress.com](http://susanyoungsewing.wordpress.com)
- - date_published: 2024-07-10T03:35:34.795797+00:00
-
- ## The Sushi Chronicles
- - [https://sushichroniclesorg.wordpress.com](https://sushichroniclesorg.wordpress.com)
- - date_published: 2024-08-11T17:56:21.367037+00:00
 

@@ -1,3 +1,15 @@
+ ## Новости Могилева и Могилевской области | Могилевский областной исполнительный комитет
+ - [http://mogilev-region.gov.by](http://mogilev-region.gov.by)
+ - date_published: 2024-08-11T15:58:17.962387+00:00
+
+ ## Главная | Министерство связи и информатизации Республики Беларусь
+ - [https://www.mpt.gov.by](https://www.mpt.gov.by)
+ - date_published: 2024-06-30T03:40:15.572113+00:00
+
+ ## Министерство сельского хозяйства и продовольствия Республики Беларусь
+ - [https://www.mshp.gov.by](https://www.mshp.gov.by)
+ - date_published: 2024-08-11T16:08:04.648455+00:00
+
  ## Ministry of Sports and Tourism of the Republic of Belarus - Home
  - [http://mst.gov.by](http://mst.gov.by)
  - date_published: 2024-08-11T15:52:51.986228+00:00
@@ -4007,16 +4019,4 @@
  ## Ecere Corporation
  - [https://ecere.ca](https://ecere.ca)
  - date_published: 2021-01-05T21:29:32+00:00
-
- ## Economic Club of Canada | Economic Club of Canada
- - [https://economicclub.ca](https://economicclub.ca)
- - date_published: 2024-10-02T12:07:06.860148+00:00
-
- ## eContact!
- - [https://econtact.ca](https://econtact.ca)
- - date_published: 2023-10-25T12:09:30.076113+00:00
-
- ## HOME | ECSA-C
- - [https://www.ecsa-c.ca](https://www.ecsa-c.ca)
- - date_published: 2024-07-09T14:16:51.272290+00:00
 

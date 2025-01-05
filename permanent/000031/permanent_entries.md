@@ -1,3 +1,15 @@
+ ## 合肥工业大学
+ - [https://gdjy.hfut.edu.cn](https://gdjy.hfut.edu.cn)
+ - date_published: 2024-07-12T16:09:32.108003+00:00
+
+ ## 合肥工业大学智能制造技术研究院
+ - [http://imi.hfut.edu.cn](http://imi.hfut.edu.cn)
+ - date_published: 2024-07-12T16:09:35.428148+00:00
+
+ ## 国际事务处（港澳台事务办公室）
+ - [http://international.hfut.edu.cn](http://international.hfut.edu.cn)
+ - date_published: 2024-07-12T09:47:10+00:00
+
  ## 信息化建设与发展中心
  - [http://it.hfut.edu.cn](http://it.hfut.edu.cn)
  - date_published: 2024-07-12T09:00:08+00:00
@@ -3991,16 +4003,4 @@
  ## 辽宁省人民政府
  - [http://www.ln.gov.cn](http://www.ln.gov.cn)
  - date_published: 2024-06-30T00:00:00+00:00
-
- ## 辽宁省医疗保障局
- - [http://ybj.ln.gov.cn](http://ybj.ln.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 辽宁省应急管理厅
- - [http://yjgl.ln.gov.cn](http://yjgl.ln.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 辽宁省机关党建网
- - [http://www.lnjgdj.gov.cn](http://www.lnjgdj.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
 

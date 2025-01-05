@@ -1,3 +1,15 @@
+ ## Analog Astronaut Conference 2024
+ - [http://www.analogastronaut.com](http://www.analogastronaut.com)
+ - date_published: 2024-06-17T16:26:49.597594+00:00
+
+ ## analogenie- the best free analogy maker
+ - [https://analogenie.com](https://analogenie.com)
+ - date_published: 2024-06-19T20:35:32.435129+00:00
+
+ ## AnalogFX - AnalogFX
+ - [https://www.analogfx.com](https://www.analogfx.com)
+ - date_published: 2022-12-29T00:00:00+00:00
+
  ## Tips on designing with analog ICs used in all types of electronic equipment
  - [https://analogictips.com](https://analogictips.com)
  - date_published: 2024-06-20T05:45:30.847305+00:00
@@ -4065,15 +4077,4 @@
  ## Anti-Empire
  - [https://anti-empire.com](https://anti-empire.com)
  - date_published: 2024-09-16T20:17:22.860903+00:00
-
- ## Antier Solutions - Enterprise Grade Web3 Development Services | Blockchain Developers
- - [https://www.antiersolutions.com](https://www.antiersolutions.com)
- - date_published: 2024-06-16T04:34:33.427879+00:00
-
- ## Home Page | Antietam Broadband
- - [http://www.antietamcable.com](http://www.antietamcable.com)
- - date_published: 2024-06-29T15:41:35.015980+00:00
-
- - [https://antifa.com](https://antifa.com)
- - date_published: 2024-11-11T09:24:39+00:00
 

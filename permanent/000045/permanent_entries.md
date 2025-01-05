@@ -1,3 +1,15 @@
+ ## Algolia Status Page
+ - [https://status.algolia.com](https://status.algolia.com)
+ - date_published: 2023-06-06T13:29:44+00:00
+
+ ## Algolia
+ - [https://support.algolia.com](https://support.algolia.com)
+ - date_published: 2024-09-17T01:18:01.546718+00:00
+
+ ## Torc Robotics Announces Definitive Agreement to Acquire Algolux
+ - [https://algolux.com](https://algolux.com)
+ - date_published: 2023-02-28T16:27:44+00:00
+
  ## Algomo
  - [https://app.algomo.com](https://app.algomo.com)
  - date_published: 2024-06-21T13:24:26+00:00
@@ -4019,16 +4031,4 @@
  ## Alterra Mountain Company
  - [https://www.alterramtnco.com](https://www.alterramtnco.com)
  - date_published: 2024-09-05T00:00:00+00:00
-
- ## ALTER TECHNOLOGY GROUP TÜV NORD
- - [https://www.altertechnology-group.com](https://www.altertechnology-group.com)
- - date_published: 2024-12-13T11:34:11+00:00
-
- ## Home
- - [https://alteryx.com](https://alteryx.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Alteryx Community
- - [https://community.alteryx.com](https://community.alteryx.com)
- - date_published: 2024-06-16T20:11:52.678419+00:00
 

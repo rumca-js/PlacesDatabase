@@ -1,3 +1,52 @@
+ ## jameda - Online-Termine mit Ärzt:innen vereinbaren
+ - [https://www.jameda.de](https://www.jameda.de)
+ - date_published: 2024-09-18T17:34:37.621397+00:00
+
+ ## James Bond Club Deutschland e.V. – Der deutsche James Bond Club – von Fans für Fans
+ - [https://james-bond-club.de](https://james-bond-club.de)
+ - date_published: 2024-06-27T09:27:56+00:00
+
+ ## Jana Reddemann
+ - [https://janareddemann.de](https://janareddemann.de)
+ - date_published: 2024-05-11T07:41:19.047652+00:00
+
+ ## About me - Jan Lorenz
+ - [http://janlo.de](http://janlo.de)
+ - date_published: 2010-03-02T00:00:00+00:00
+
+ ## janolaw Rechtsportal Muster-Vorlagen & Verträge zum Download
+ - [https://www.janolaw.de](https://www.janolaw.de)
+ - date_published: 2024-07-11T22:06:40+00:00
+
+ ## JAN STRADTMANN
+ - [https://janstradtmann.de](https://janstradtmann.de)
+ - date_published: 2024-10-29T14:32:23.657918+00:00
+
+ ## - Japan-Dult München
+ - [https://japandult.de](https://japandult.de)
+ - date_published: 2024-10-28T07:41:34.016460+00:00
+
+ ## Experte für Verpackungslösungen und -maschinen | JASA
+ - [https://jasapackaging.de](https://jasapackaging.de)
+ - date_published: 2024-10-31T09:00:50+00:00
+
+ ## JAVAPRO | Magazine for professional Java development in practical use
+ - [https://java-pro.de](https://java-pro.de)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## JavaScript, Angular, React, Vue & Svelte, HTML & CSS Days
+ - [https://javascript-days.de](https://javascript-days.de)
+ - date_published: 2024-06-15T15:52:15.394325+00:00
+
+ ## JavE - Java Ascii Versatile Editor
+ - [http://jave.de](http://jave.de)
+ - date_published: 2011-05-02T20:13:25+00:00
+ - tags: ['java ascii versatile editor']
+
+ ## JAX & W-JAX 2024 | Konferenzen für Java, Architektur & Software-Innovationen
+ - [https://jax.de](https://jax.de)
+ - date_published: 2024-08-07T23:28:49+00:00
+
  ## jaxenter - entwickler.de
  - [https://jaxenter.de](https://jaxenter.de)
  - date_published: 2024-07-02T00:00:00+00:00
@@ -3970,52 +4019,4 @@
  ## Startseite | Mediengruppe Kreiszeitung - MK-Serviceportal
  - [https://mediengruppe-kreiszeitung.de](https://mediengruppe-kreiszeitung.de)
  - date_published: 2024-04-29T06:16:30.921003+00:00
-
- ## Mediengruppe Magdeburg | Wir bewegen die Region
- - [https://mediengruppe-magdeburg.de](https://mediengruppe-magdeburg.de)
- - date_published: 2024-12-10T12:50:02+00:00
-
- ## Als Medienhaus geben wir Ihrem Business eine neue Dynamik
- - [https://www.medienhaus-sz-tv.de](https://www.medienhaus-sz-tv.de)
- - date_published: 2024-12-10T14:20:11+00:00
-
- ## Medienklasse Sachsen-Anhalt – Medien- und Lesekompetenz für Schüler
- - [https://www.medienklasse-mitteldeutschland.de](https://www.medienklasse-mitteldeutschland.de)
- - date_published: 2024-06-21T07:59:08+00:00
-
- ## Medienservice Holzhandwerk. Bücher und Software für Schreiner, Tischler, Zimmerer, Dachdecker und verwandte Berufe
- - [https://www.medienservice-holz.de](https://www.medienservice-holz.de)
- - date_published: 2024-12-10T20:55:16.797759+00:00
-
- ## Fachbücher, Software und DVDs | Für alle Fachbereiche der Humanmedizin inklusive Zahnmedizin und Psychiatrie / Psychotherapie
- - [https://www.medienservice-medizin.de](https://www.medienservice-medizin.de)
- - date_published: 2024-12-10T20:55:22.349974+00:00
-
- ## Medien und Bildung RLP: Medien und Bildung RLP
- - [https://medienundbildung-rlp.de](https://medienundbildung-rlp.de)
- - date_published: 2024-07-02T22:35:07.321075+00:00
-
- ## Home • Medien_Weiter_Bildung
- - [https://www.medien-weiter-bildung.de](https://www.medien-weiter-bildung.de)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Medienzentrum München
- - [https://medienzentrum-muc.de](https://medienzentrum-muc.de)
- - date_published: 2024-07-02T22:31:49.279941+00:00
-
- ## MEDIMAX - Mehr Mensch Mehr Technik
- - [https://www.medimax.de](https://www.medimax.de)
- - date_published: 2024-09-19T20:29:46.043089+00:00
-
- ## medisign - Anbieter für elektronische Signatur im Gesundheitswesen
- - [https://www.medisign.de](https://www.medisign.de)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Medizinischer Fakultätentag
- - [https://medizinische-fakultaeten.de](https://medizinische-fakultaeten.de)
- - date_published: 2024-10-15T06:51:11.511682+00:00
-
- ## meds-world.de
- - [https://meds-world.de](https://meds-world.de)
- - date_published: 2024-09-13T19:17:44.548378+00:00
 

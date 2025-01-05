@@ -1,3 +1,15 @@
+ ## Fachorganisation für Menschen mit Behinderungen  - Pro Infirmis
+ - [https://www.proinfirmis.ch](https://www.proinfirmis.ch)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## pizuerst - Pro Infirmis
+ - [https://zuerst.proinfirmis.ch](https://zuerst.proinfirmis.ch)
+ - date_published: 2024-07-21T06:19:14.997453+00:00
+
+ ## Projekte. ungefiltert. – Erlebnisse und Erfahrungen aus dem Alltag eines IT Projektleiters
+ - [https://projekte-ungefiltert.ch](https://projekte-ungefiltert.ch)
+ - date_published: 2024-06-15T16:56:49.660159+00:00
+
  ## PRO JUNIOR
  - [https://www.projunior.ch](https://www.projunior.ch)
  - date_published: 2024-10-29T11:15:31.242572+00:00
@@ -4010,17 +4022,4 @@ Fakultät | Universität Basel
  ## fall out of the world, backwards into space
  - [https://jsmith.ichi.city](https://jsmith.ichi.city)
  - date_published: 2024-04-30T06:16:29.667281+00:00
-
- ## m15o
- - [https://m15o.ichi.city](https://m15o.ichi.city)
- - date_published: 2024-06-09T08:27:12+00:00
- - tags: ['personal']
-
- ## narwhalseememo's homepage
- - [https://narwhalseememo.ichi.city](https://narwhalseememo.ichi.city)
- - date_published: 2024-04-25T13:57:49+00:00
-
- ## PIEDPIPURR ☆
- - [https://piedpipurr.ichi.city](https://piedpipurr.ichi.city)
- - date_published: 2023-10-28T04:50:44+00:00
 

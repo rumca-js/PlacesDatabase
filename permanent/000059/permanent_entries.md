@@ -1,3 +1,15 @@
+ ## Trigger Object
+ - [https://vernsworld.bandcamp.com](https://vernsworld.bandcamp.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Too Late For Tears, by Veronica Lewis
+ - [https://veronicalewis.bandcamp.com](https://veronicalewis.bandcamp.com)
+ - date_published: 2024-12-27T08:54:26.466013+00:00
+
+ ## Verotika - Original Motion Picture Soundtrack, by Verotika
+ - [https://verotika.bandcamp.com](https://verotika.bandcamp.com)
+ - date_published: 2024-12-27T00:27:58.311482+00:00
+
  ## Versus
  - [https://versusny.bandcamp.com](https://versusny.bandcamp.com)
  - date_published: 2024-12-27T09:15:01.522483+00:00
@@ -4007,16 +4019,4 @@ rain or shine
  ## Instagram Takipçi Satın Al - %100 Türk, Gerçek ve Ucuz Takipçi
  - [https://bayigram.com](https://bayigram.com)
  - date_published: 2024-02-21T00:00:00+00:00
-
- ## BAYKAR Store
- - [https://baykarmagaza.com](https://baykarmagaza.com)
- - date_published: 2024-09-05T18:59:15.230203+00:00
-
- ## BAYKAR Teknoloji
- - [https://www.baykarsavunma.com](https://www.baykarsavunma.com)
- - date_published: 2024-12-13T13:08:15.819261+00:00
-
- ## BAYKAR Technology
- - [https://baykartech.com](https://baykartech.com)
- - date_published: 2024-06-10T00:00:00+00:00
 

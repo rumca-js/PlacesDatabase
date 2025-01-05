@@ -1,3 +1,59 @@
+ ## Columbia University in the City of New York
+ - [https://columbia.edu](https://columbia.edu)
+ - date_published: 2024-04-30T03:57:09.325913+00:00
+
+ ## Columbia University Commencement
+ - [https://commencement.columbia.edu](https://commencement.columbia.edu)
+ - date_published: 2024-04-30T03:56:30.846204+00:00
+
+ ## Community Impact
+ - [https://communityimpact.columbia.edu](https://communityimpact.columbia.edu)
+ - date_published: 2024-04-30T03:56:44.722653+00:00
+
+ ## Columbia Community Service
+ - [https://communityservice.columbia.edu](https://communityservice.columbia.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Computer Engineering
+ - [https://compeng.columbia.edu](https://compeng.columbia.edu)
+ - date_published: 2024-04-30T03:56:57.464249+00:00
+
+ ## Connect - Login Page
+ - [https://connect.doctors.columbia.edu](https://connect.doctors.columbia.edu)
+ - date_published: 2024-07-22T05:43:13.307589+00:00
+
+ ## Copyright Advisory Services Home | Columbia University Libraries
+ - [https://copyright.columbia.edu](https://copyright.columbia.edu)
+ - date_published: 2024-07-22T05:45:17.964823+00:00
+
+ ## An Update on COVID-19 University Guidance
+ - [https://covid19.columbia.edu](https://covid19.columbia.edu)
+ - date_published: 2024-07-08T13:17:06+00:00
+
+ ## Columbia Creative | Office of Public Affairs
+ - [http://creative.columbia.edu](http://creative.columbia.edu)
+ - date_published: 2024-07-12T19:54:07+00:00
+
+ ## Department of Computer Science, Columbia University
+ - [https://cs.columbia.edu](https://cs.columbia.edu)
+ - date_published: 2024-07-22T05:41:09.829862+00:00
+
+ ## Center for Sustainable Development
+ - [http://csd.columbia.edu](http://csd.columbia.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Columbia University Irving Medical Center
+ - [https://cuimc.columbia.edu](https://cuimc.columbia.edu)
+ - date_published: 2023-10-25T18:50:21.143055+00:00
+
+ ## Columbia University Information Technology
+ - [https://cuit.columbia.edu](https://cuit.columbia.edu)
+ - date_published: 2024-04-30T03:48:58.578784+00:00
+
+ ## Columbia University Irving Medical Center
+ - [https://cumc.columbia.edu](https://cumc.columbia.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
  ## Columbia University Press Website | Home
  - [https://cup.columbia.edu](https://cup.columbia.edu)
  - date_published: 2024-04-16T00:00:00+00:00
@@ -2222,6 +2278,14 @@
  - [https://journalism.cuny.edu](https://journalism.cuny.edu)
  - date_published: 2024-05-31T00:00:00+00:00
 
+ ## Kingsborough Community College
+ - [https://kbcc.cuny.edu](https://kbcc.cuny.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## The Lost Museum
+ - [https://lostmuseum.cuny.edu](https://lostmuseum.cuny.edu)
+ - date_published: 2024-06-24T09:44:35.749732+00:00
+
  ## Macaulay Honors College
  - [https://macaulay.cuny.edu](https://macaulay.cuny.edu)
  - date_published: 2024-07-22T04:54:16.794549+00:00
@@ -2233,6 +2297,10 @@
  ## Department of Mathematics, CCNY - Dept of Math, CCNY
  - [https://math.sci.ccny.cuny.edu](https://math.sci.ccny.cuny.edu)
  - date_published: 2024-12-30T08:03:29.110964+00:00
+
+ ## Medgar Evers College – Home - Medgar Evers College
+ - [https://mec.cuny.edu](https://mec.cuny.edu)
+ - date_published: 2023-10-18T19:24:13+00:00
 
  ## John Jay College Homepage | John Jay College of Criminal Justice
  - [https://new.jjay.cuny.edu](https://new.jjay.cuny.edu)
@@ -2250,6 +2318,10 @@
  - [https://preview.brooklyn.cuny.edu](https://preview.brooklyn.cuny.edu)
  - date_published: 2024-06-24T00:00:00+00:00
  - date_dead_since: 2025-01-04T03:04:47.606306+00:00
+
+ ## Queens College, CUNY | We Learn So That We May Serve
+ - [https://qc.cuny.edu](https://qc.cuny.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
 
  ## REDIRECT to here
  - [https://qcpages.qc.cuny.edu](https://qcpages.qc.cuny.edu)
@@ -2323,10 +2395,6 @@
  - [https://www.citytech.cuny.edu](https://www.citytech.cuny.edu)
  - date_published: 2024-06-24T09:38:43.461056+00:00
 
- ## Kingsborough Community College
- - [https://www.kbcc.cuny.edu](https://www.kbcc.cuny.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
  ## CUNY School of Law
  - [https://www.law.cuny.edu](https://www.law.cuny.edu)
  - date_published: 2024-02-14T00:00:00+00:00
@@ -2335,24 +2403,12 @@
  - [https://www.lehman.cuny.edu](https://www.lehman.cuny.edu)
  - date_published: 2024-07-22T04:54:07.221186+00:00
 
- ## The Lost Museum
- - [http://www.lostmuseum.cuny.edu](http://www.lostmuseum.cuny.edu)
- - date_published: 2024-06-24T09:44:35.749732+00:00
-
- ## Medgar Evers College – Home - Medgar Evers College
- - [https://www.mec.cuny.edu](https://www.mec.cuny.edu)
- - date_published: 2023-10-18T19:24:13+00:00
-
  ## Queensborough Community College
  - [https://www.qcc.cuny.edu](https://www.qcc.cuny.edu)
  - date_published: 2024-07-01T00:00:00+00:00
 
- ## Queens College, CUNY | We Learn So That We May Serve
- - [https://www.qc.cuny.edu](https://www.qc.cuny.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
  ## York College / City University of New York
- - [https://www.york.cuny.edu](https://www.york.cuny.edu)
+ - [https://york.cuny.edu](https://york.cuny.edu)
  - date_published: 2024-07-22T04:54:03.394974+00:00
 
  ## Formation et culture numérique - Thot Cursus
@@ -2360,7 +2416,7 @@
  - date_published: 2024-08-19T17:54:50.417464+00:00
 
  ## Curtin University | Make tomorrow better
- - [http://curtin.edu](http://curtin.edu)
+ - [https://curtin.edu](https://curtin.edu)
  - date_published: 2024-07-10T00:00:00+00:00
 
  ## University of Colorado
@@ -2368,15 +2424,15 @@
  - date_published: 2012-03-05T15:41:46+00:00
 
  ## CERCA – Case Western Reserve University
- - [http://cerca.cwru.edu](http://cerca.cwru.edu)
+ - [https://cerca.cwru.edu](https://cerca.cwru.edu)
  - date_published: 2024-06-26T23:53:54.523716+00:00
 
  ## Central Washington University
- - [http://www.cwu.edu](http://www.cwu.edu)
+ - [https://cwu.edu](https://cwu.edu)
  - date_published: 2024-06-24T09:20:09.886518+00:00
 
  ## Home :: Dakota College at Bottineau
- - [http://www.dakotacollege.edu](http://www.dakotacollege.edu)
+ - [https://dakotacollege.edu](https://dakotacollege.edu)
  - date_published: 2024-07-01T16:01:08.839752+00:00
 
  ## Home
@@ -2388,7 +2444,7 @@
  - date_published: 2017-12-07T01:57:40+00:00
 
  ## Home | Dartmouth Alumni & Families
- - [http://alumni.dartmouth.edu](http://alumni.dartmouth.edu)
+ - [https://alumni.dartmouth.edu](https://alumni.dartmouth.edu)
  - date_published: 2024-07-11T20:13:27+00:00
 
  ## Tuck AMP | Home
@@ -2420,7 +2476,7 @@
  - date_published: 2020-11-12T21:23:22+00:00
 
  ## Tuck Business Bridge Program | Home
- - [http://bridge.tuck.dartmouth.edu](http://bridge.tuck.dartmouth.edu)
+ - [https://bridge.tuck.dartmouth.edu](https://bridge.tuck.dartmouth.edu)
  - date_published: 2024-07-22T04:42:46+00:00
 
  ## Dartmouth Web Authentication
@@ -2460,7 +2516,7 @@
  - date_published: 2019-03-04T18:36:32+00:00
 
  ## - Clubs template :: Home
- - [http://clubs.tuck.dartmouth.edu](http://clubs.tuck.dartmouth.edu)
+ - [https://clubs.tuck.dartmouth.edu](https://clubs.tuck.dartmouth.edu)
  - date_published: 2024-07-22T04:42:45+00:00
 
  ## Home
@@ -2486,6 +2542,7 @@
  ## Dartmouth Together
  - [https://covid.dartmouth.edu](https://covid.dartmouth.edu)
  - date_published: 2024-04-30T04:11:06.012282+00:00
+ - date_dead_since: 2025-01-04T03:18:49.445206+00:00
 
  ## Center for Private Equity and Venture Capital | Home
  - [https://cpevc.tuck.dartmouth.edu](https://cpevc.tuck.dartmouth.edu)
@@ -2508,7 +2565,7 @@
  - date_published: 2024-04-30T04:04:04.150413+00:00
 
  ## Tuck Diversity Business Programs | Home
- - [http://dbp.tuck.dartmouth.edu](http://dbp.tuck.dartmouth.edu)
+ - [https://dbp.tuck.dartmouth.edu](https://dbp.tuck.dartmouth.edu)
  - date_published: 2024-07-22T04:43:01+00:00
 
  ## Homepage
@@ -2560,7 +2617,7 @@
  - date_published: 2023-04-20T17:51:08+00:00
 
  ## Executive Education | Tuck Executive Education
- - [http://exec.tuck.dartmouth.edu](http://exec.tuck.dartmouth.edu)
+ - [https://exec.tuck.dartmouth.edu](https://exec.tuck.dartmouth.edu)
  - date_published: 2024-07-22T04:42:48+00:00
 
  ## Dartmouth Library Exhibits
@@ -2604,7 +2661,7 @@
  - date_published: 2021-07-01T17:37:43+00:00
 
  ## Global Leadership | Home
- - [http://gl.tuck.dartmouth.edu](http://gl.tuck.dartmouth.edu)
+ - [https://gl.tuck.dartmouth.edu](https://gl.tuck.dartmouth.edu)
  - date_published: 2024-07-22T04:42:36+00:00
 
  ## Home Grid
@@ -2681,7 +2738,7 @@
  - date_published: 2019-08-15T22:21:31+00:00
 
  ## Tuck LSI | Home
- - [http://lsi.tuck.dartmouth.edu](http://lsi.tuck.dartmouth.edu)
+ - [https://lsi.tuck.dartmouth.edu](https://lsi.tuck.dartmouth.edu)
  - date_published: 2024-05-18T00:00:00+00:00
 
  ## Magnuson Center for Entrepreneurship at Dartmouth
@@ -2693,11 +2750,11 @@
  - date_published: 2023-10-25T18:51:02.976336+00:00
 
  ## Experience
- - [http://m.dartmouth.edu](http://m.dartmouth.edu)
+ - [https://m.dartmouth.edu](https://m.dartmouth.edu)
  - date_published: 2024-07-24T09:09:51+00:00
 
  ## About the Program
- - [http://medren.dartmouth.edu](http://medren.dartmouth.edu)
+ - [https://medren.dartmouth.edu](https://medren.dartmouth.edu)
  - date_published: 2015-01-29T19:19:32+00:00
 
  ## Home Academic
@@ -2729,7 +2786,7 @@
  - date_published: 2024-07-19T20:22:36+00:00
 
  ## Next Step: Ivy League Business Education for Military Veterans and Athletes
- - [http://nextstep.tuck.dartmouth.edu](http://nextstep.tuck.dartmouth.edu)
+ - [https://nextstep.tuck.dartmouth.edu](https://nextstep.tuck.dartmouth.edu)
  - date_published: 2024-01-12T00:00:00+00:00
 
  ## Home
@@ -2753,7 +2810,7 @@
  - date_published: 2020-12-09T14:20:52+00:00
 
  ## REO Home
- - [http://realestate.dartmouth.edu](http://realestate.dartmouth.edu)
+ - [https://realestate.dartmouth.edu](https://realestate.dartmouth.edu)
  - date_published: 2016-03-11T22:34:45+00:00
 
  ## Home
@@ -2797,7 +2854,7 @@
  - date_published: 2024-07-22T04:45:23.530977+00:00
 
  ## Dartmouth College Status
- - [http://status.dartmouth.edu](http://status.dartmouth.edu)
+ - [https://status.dartmouth.edu](https://status.dartmouth.edu)
  - date_published: 2024-08-19T20:13:42.419833+00:00
 
  ## For You: Students | Dartmouth
@@ -2809,7 +2866,7 @@
  - date_published: 2018-11-15T16:27:26+00:00
 
  ## Join the Tuck Community
- - [http://talent.tuck.dartmouth.edu](http://talent.tuck.dartmouth.edu)
+ - [https://talent.tuck.dartmouth.edu](https://talent.tuck.dartmouth.edu)
  - date_published: 2024-07-22T04:42:17+00:00
 
  ## Home
@@ -2817,12 +2874,16 @@
  - date_published: 2024-07-22T04:44:48.571022+00:00
 
  ## Homepage
- - [http://thayer.dartmouth.edu](http://thayer.dartmouth.edu)
+ - [https://thayer.dartmouth.edu](https://thayer.dartmouth.edu)
  - date_published: 2024-08-19T19:06:16.165566+00:00
 
  ## Home Grid
  - [https://theater.dartmouth.edu](https://theater.dartmouth.edu)
  - date_published: 2020-11-09T19:46:19+00:00
+
+ ## Home | Dartmouth TTO
+ - [https://tto.dartmouth.edu](https://tto.dartmouth.edu)
+ - date_published: 2024-07-22T04:46:48.111931+00:00
 
  ## Tuck School of Business
  - [https://tuck.dartmouth.edu](https://tuck.dartmouth.edu)
@@ -2852,20 +2913,16 @@
  - [https://ws.dartmouth.edu](https://ws.dartmouth.edu)
  - date_published: 2016-06-09T13:16:45+00:00
 
- ## Home | Dartmouth TTO
- - [https://www.tto.dartmouth.edu](https://www.tto.dartmouth.edu)
- - date_published: 2024-07-22T04:46:48.111931+00:00
+ ## Davidson College | Davidson
+ - [https://davidson.edu](https://davidson.edu)
+ - date_published: 2024-08-19T20:00:30+00:00
 
  ## March MATHness
  - [https://marchmathness.davidson.edu](https://marchmathness.davidson.edu)
  - date_published: 2017-01-01T00:00:00+00:00
 
- ## Davidson College | Davidson
- - [http://www.davidson.edu](http://www.davidson.edu)
- - date_published: 2024-08-19T20:00:30+00:00
-
  ## University of Dubuque Theological Seminary
- - [http://udts.dbq.edu](http://udts.dbq.edu)
+ - [https://udts.dbq.edu](https://udts.dbq.edu)
  - date_published: 2024-06-28T20:40:10.466054+00:00
 
  ## DC3 CTA
@@ -2893,12 +2950,16 @@
  - date_published: 2024-06-24T14:23:46+00:00
 
  ## Foundations of Programming Languages Group
- - [http://cryptyc.cs.depaul.edu](http://cryptyc.cs.depaul.edu)
+ - [https://cryptyc.cs.depaul.edu](https://cryptyc.cs.depaul.edu)
  - date_published: 2022-10-21T20:24:08+00:00
 
  ## Sign in to your account
  - [https://d2l.depaul.edu](https://d2l.depaul.edu)
  - date_published: 2024-07-09T00:00:00+00:00
+
+ ## DePaul University | DePaul University, Chicago
+ - [https://depaul.edu](https://depaul.edu)
+ - date_published: 2024-07-07T00:00:00+00:00
 
  ## Emergency Plan | DePaul University, Chicago
  - [https://emergencyplan.depaul.edu](https://emergencyplan.depaul.edu)
@@ -2913,11 +2974,11 @@
  - date_published: 1999-01-01T00:00:00+00:00
 
  ## Foundations of Programming Languages Group
- - [http://fpl.cs.depaul.edu](http://fpl.cs.depaul.edu)
+ - [https://fpl.cs.depaul.edu](https://fpl.cs.depaul.edu)
  - date_published: 2022-10-21T20:24:08+00:00
 
  ## www.depaul.edu
- - [http://go.depaul.edu](http://go.depaul.edu)
+ - [https://go.depaul.edu](https://go.depaul.edu)
  - date_published: 2024-07-09T21:29:36.475304+00:00
 
  ## DePaul University | DePaul University, Chicago
@@ -2944,10 +3005,6 @@
  - [https://via.library.depaul.edu](https://via.library.depaul.edu)
  - date_published: 2024-06-28T20:50:40.984900+00:00
 
- ## DePaul University | DePaul University, Chicago
- - [http://www.depaul.edu](http://www.depaul.edu)
- - date_published: 2024-07-07T00:00:00+00:00
-
  ## DePauw University - A Private Liberal Arts College - DePauw University
  - [https://depauw.edu](https://depauw.edu)
  - date_published: 2024-09-18T07:48:39.263628+00:00
@@ -2964,16 +3021,16 @@
  - [https://bookstore.dickinson.edu](https://bookstore.dickinson.edu)
  - date_published: 2024-10-20T22:02:38.542900+00:00
 
+ ## Dickinson College Homepage
+ - [https://dickinson.edu](https://dickinson.edu)
+ - date_published: 2024-06-18T07:52:10.636164+00:00
+
  ## React App
  - [https://viewbook.dickinson.edu](https://viewbook.dickinson.edu)
  - date_published: 2022-02-16T23:20:46+00:00
 
- ## Dickinson College Homepage
- - [http://www.dickinson.edu](http://www.dickinson.edu)
- - date_published: 2024-06-18T07:52:10.636164+00:00
-
  ## Home
- - [http://www.dickinsonstate.edu](http://www.dickinsonstate.edu)
+ - [https://dickinsonstate.edu](https://dickinsonstate.edu)
  - date_published: 2024-05-30T00:00:00+00:00
 
  ## DigiPen Academy | Academic Preparatory and STEAM Courses
@@ -3009,7 +3066,7 @@
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## Diplo's Digital Repository :: Home
- - [http://dspace.diplomacy.edu](http://dspace.diplomacy.edu)
+ - [https://dspace.diplomacy.edu](https://dspace.diplomacy.edu)
  - date_published: 2024-06-18T14:23:58.603753+00:00
 
  ## Home - G. R. Berridge
@@ -3025,16 +3082,17 @@
  - date_published: 2024-06-18T14:23:55.138256+00:00
 
  ## Home
- - [https://www.dodea.edu](https://www.dodea.edu)
+ - [https://dodea.edu](https://dodea.edu)
  - date_published: 2024-07-20T20:22:50+00:00
 
  ## SUNY Downstate Health Sciences University
- - [https://www.downstate.edu](https://www.downstate.edu)
+ - [https://downstate.edu](https://downstate.edu)
  - date_published: 2024-07-15T03:39:49.530919+00:00
 
  ## Apache HTTP Server Test Page powered by CentOS
  - [http://depts.drew.edu](http://depts.drew.edu)
  - date_published: 2014-10-16T13:20:58+00:00
+ - date_dead_since: 2025-01-04T03:36:40.098240+00:00
 
  ## Home - Drew University
  - [https://drew.edu](https://drew.edu)
@@ -3057,7 +3115,7 @@
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## uLogin
- - [http://treehouse.drew.edu](http://treehouse.drew.edu)
+ - [https://treehouse.drew.edu](https://treehouse.drew.edu)
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## User Homepages @Drew University
@@ -3080,28 +3138,28 @@
  - [https://drexel.edu](https://drexel.edu)
  - date_published: 2023-10-25T18:51:05.420930+00:00
 
+ ## LeBow College of Business
+ - [https://lebow.drexel.edu](https://lebow.drexel.edu)
+ - date_published: 2024-09-04T05:35:31.721307+00:00
+
  ## Drexel University Online: Accredited College Degrees & Programs
  - [https://online.drexel.edu](https://online.drexel.edu)
  - date_published: 2024-05-20T00:00:00+00:00
 
  ## This site is not configured
- - [https://secureia.drexel.edu](https://secureia.drexel.edu)
+ - [http://secureia.drexel.edu](http://secureia.drexel.edu)
  - date_published: 2024-04-30T04:12:31.157781+00:00
 
- ## LeBow College of Business
- - [https://www.lebow.drexel.edu](https://www.lebow.drexel.edu)
- - date_published: 2024-09-04T05:35:31.721307+00:00
+ ## Home Page
+ - [https://dri.edu](https://dri.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
 
  ## Western Regional Climate Center
  - [https://wrcc.dri.edu](https://wrcc.dri.edu)
  - date_published: 2024-09-16T20:46:56.096833+00:00
 
- ## Home Page
- - [https://www.dri.edu](https://www.dri.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
  ## Home
- - [https://www.drury.edu](https://www.drury.edu)
+ - [https://drury.edu](https://drury.edu)
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## repo.ialab.dsu.edu
@@ -3133,8 +3191,12 @@
  - date_published: 2024-07-21T19:11:56+00:00
 
  ## Jobs@DU | University of Denver
- - [http://jobs.du.edu](http://jobs.du.edu)
+ - [https://jobs.du.edu](https://jobs.du.edu)
  - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Sturm College of Law | Sturm College of Law
+ - [https://law.du.edu](https://law.du.edu)
+ - date_published: 2024-07-12T23:59:00+00:00
 
  ## College of Arts, Humanities & Social Sciences | University of Denver
  - [https://liberalarts.du.edu](https://liberalarts.du.edu)
@@ -3145,12 +3207,8 @@
  - date_published: 2024-04-30T04:59:43.567036+00:00
 
  ## Vicki Myhren Gallery at the University of Denver Home
- - [http://vicki-myhren-gallery.du.edu](http://vicki-myhren-gallery.du.edu)
+ - [https://vicki-myhren-gallery.du.edu](https://vicki-myhren-gallery.du.edu)
  - date_published: 2024-10-18T22:14:42.254973+00:00
-
- ## Sturm College of Law | Sturm College of Law
- - [http://www.law.du.edu](http://www.law.du.edu)
- - date_published: 2024-07-12T23:59:00+00:00
 
  ## Duke Centennial
  - [https://100.duke.edu](https://100.duke.edu)
@@ -3249,7 +3307,7 @@
  - date_published: 2024-02-07T09:17:28+00:00
 
  ## Duke Fuqua Student Blogs | Duke's Fuqua School of Business
- - [http://blogs.fuqua.duke.edu](http://blogs.fuqua.duke.edu)
+ - [https://blogs.fuqua.duke.edu](https://blogs.fuqua.duke.edu)
  - date_published: 2024-06-17T03:22:18.049915+00:00
 
  ## News, Events & Exhibits - Duke University Libraries Blogs
@@ -3277,7 +3335,7 @@
  - date_published: 2024-08-08T22:19:13.804554+00:00
 
  ## Aleph Catalog
- - [http://catalog.library.duke.edu](http://catalog.library.duke.edu)
+ - [https://catalog.library.duke.edu](https://catalog.library.duke.edu)
  - date_published: 2021-01-26T16:48:20+00:00
 
  ## Fuqua Centers
@@ -3293,7 +3351,7 @@
  - date_published: 2024-01-01T00:00:00+00:00
 
  ## Duke Learning Innovation
- - [http://cit.duke.edu](http://cit.duke.edu)
+ - [https://cit.duke.edu](https://cit.duke.edu)
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## The Duke Climate Commitment
@@ -3336,6 +3394,10 @@
  - [https://cs.duke.edu](https://cs.duke.edu)
  - date_published: 2024-04-29T03:30:31.922892+00:00
 
+ ## Duke Clinical and Translational Science Institute
+ - [https://ctsi.duke.edu](https://ctsi.duke.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
  ## Front Page | Dance Program
  - [https://danceprogram.duke.edu](https://danceprogram.duke.edu)
  - date_published: 2024-06-16T06:51:03+00:00
@@ -3365,7 +3427,7 @@
  - date_published: 2024-06-16T07:15:23+00:00
 
  ## Front Page | DIGITAL HUMANITIES
- - [http://digitalhumanities.duke.edu](http://digitalhumanities.duke.edu)
+ - [https://digitalhumanities.duke.edu](https://digitalhumanities.duke.edu)
  - date_published: 2024-09-26T00:00:00+00:00
 
  ## Duke | Log In
@@ -3429,12 +3491,20 @@
  - date_published: 2024-09-15T11:56:03.017099+00:00
 
  ## DukeMag
- - [http://dukemagazine.duke.edu](http://dukemagazine.duke.edu)
+ - [https://dukemagazine.duke.edu](https://dukemagazine.duke.edu)
  - date_published: 2024-09-26T18:01:36+00:00
 
  ## DukeMag
  - [https://dukemag.duke.edu](https://dukemag.duke.edu)
  - date_published: 2024-07-22T04:27:44+00:00
+
+ ## Duke Online
+ - [https://dukeonline.duke.edu](https://dukeonline.duke.edu)
+ - date_published: 2024-06-28T14:41:20+00:00
+
+ ## Duke University Stores |
+ - [https://dukestores.duke.edu](https://dukestores.duke.edu)
+ - date_published: 2024-09-04T19:37:49.838343+00:00
 
  ## Home | DUPRI
  - [https://dupri.duke.edu](https://dupri.duke.edu)
@@ -3501,7 +3571,7 @@
  - date_published: 2024-06-16T07:11:52+00:00
 
  ## Financial Services | Duke
- - [http://finance.duke.edu](http://finance.duke.edu)
+ - [https://finance.duke.edu](https://finance.duke.edu)
  - date_published: 2024-08-08T20:52:41+00:00
 
  ## Homepage | Karsh Office of  Undergraduate Financial Support
@@ -3529,12 +3599,16 @@
  - date_published: 2024-06-16T07:16:10.845686+00:00
 
  ## Computer Science - Duke University
- - [http://ftp.cs.duke.edu](http://ftp.cs.duke.edu)
+ - [https://ftp.cs.duke.edu](https://ftp.cs.duke.edu)
  - date_published: 2024-06-20T17:26:26.032040+00:00
 
  ## Homepage | Duke's Fuqua School of Business
  - [https://fuqua.duke.edu](https://fuqua.duke.edu)
  - date_published: 2024-09-26T18:01:58.548975+00:00
+
+ ## FuquaWorld
+ - [https://fuquaworld.duke.edu](https://fuquaworld.duke.edu)
+ - date_published: 2024-09-26T18:02:04.355581+00:00
 
  ## Make a Gift to Duke
  - [https://gifts.duke.edu](https://gifts.duke.edu)
@@ -3557,7 +3631,7 @@
  - date_published: 2024-06-16T07:18:03.992002+00:00
 
  ## Home | Duke Health GME
- - [http://gme.duke.edu](http://gme.duke.edu)
+ - [https://gme.duke.edu](https://gme.duke.edu)
  - date_published: 2024-08-18T08:11:25.792173+00:00
 
  ## Office of Government Relations - Government Relations
@@ -3573,7 +3647,7 @@
  - date_published: 2024-06-16T06:41:18+00:00
 
  ## LibGuides
- - [http://guides.library.duke.edu](http://guides.library.duke.edu)
+ - [https://guides.library.duke.edu](https://guides.library.duke.edu)
  - date_published: 2024-08-19T08:35:56.138343+00:00
 
  ## Home | Margolis Institute for Health Policy
@@ -3825,11 +3899,11 @@
  - date_published: 2024-10-16T09:16:48.753360+00:00
 
  ## people.duke.edu
- - [http://people.duke.edu](http://people.duke.edu)
+ - [https://people.duke.edu](https://people.duke.edu)
  - date_published: 2023-08-16T14:45:47+00:00
 
  ## Faculty
- - [http://people.ee.duke.edu](http://people.ee.duke.edu)
+ - [https://people.ee.duke.edu](https://people.ee.duke.edu)
  - date_published: 2024-06-22T04:46:26+00:00
 
  ## Front Page | Department of Physics
@@ -3861,19 +3935,19 @@
  - date_published: 2024-07-21T08:25:02+00:00
 
  ## Office of The Provost | Office of the Provost
- - [http://provost.duke.edu](http://provost.duke.edu)
+ - [https://provost.duke.edu](https://provost.duke.edu)
  - date_published: 2024-06-16T07:14:36+00:00
 
  ## Shibboleth Authentication Request
- - [http://proxy.lib.duke.edu](http://proxy.lib.duke.edu)
+ - [https://proxy.lib.duke.edu](https://proxy.lib.duke.edu)
  - date_published: 2024-06-30T01:25:47.557797+00:00
 
  ## PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
- - [http://pulse.cs.duke.edu](http://pulse.cs.duke.edu)
+ - [https://pulse.cs.duke.edu](https://pulse.cs.duke.edu)
  - date_published: 2024-07-22T05:54:06.970804+00:00
 
  ## QuadEx – The future of residential living & learning at Duke
- - [http://quadex.duke.edu](http://quadex.duke.edu)
+ - [https://quadex.duke.edu](https://quadex.duke.edu)
  - date_published: 2024-09-26T17:58:15.282140+00:00
 
  ## Search Results | Duke University Libraries
@@ -3885,7 +3959,7 @@
  - date_published: 2024-04-09T00:00:00+00:00
 
  ## Duke Recreation & Physical Education | Recreation & Physical Education
- - [http://recreation.duke.edu](http://recreation.duke.edu)
+ - [https://recreation.duke.edu](https://recreation.duke.edu)
  - date_published: 2024-09-04T18:18:42+00:00
 
  ## Homepage | Office of the University Registrar
@@ -3893,7 +3967,7 @@
  - date_published: 2024-06-16T07:09:46+00:00
 
  ## Front Page | Religious Studies
- - [http://religiousstudies.duke.edu](http://religiousstudies.duke.edu)
+ - [https://religiousstudies.duke.edu](https://religiousstudies.duke.edu)
  - date_published: 2024-06-28T19:30:04+00:00
 
  ## Home | Remote Work
@@ -3931,77 +4005,4 @@
  ## Scholars@Duke Home Page
  - [https://scholars.duke.edu](https://scholars.duke.edu)
  - date_published: 2024-08-18T08:11:30.398986+00:00
-
- ## Duke Law Scholarship Repository | Duke Law Research
- - [https://scholarship.law.duke.edu](https://scholarship.law.duke.edu)
- - date_published: 2024-05-09T02:38:12.169132+00:00
-
- ## Duke University Science & Society
- - [https://scienceandsociety.duke.edu](https://scienceandsociety.duke.edu)
- - date_published: 2024-06-16T07:18:29.372511+00:00
-
- ## Search Results Area | Duke University
- - [https://search.duke.edu](https://search.duke.edu)
- - date_published: 2024-06-16T07:18:01.878423+00:00
-
- ## Homepage | Information Security
- - [https://security.duke.edu](https://security.duke.edu)
- - date_published: 2024-12-26T11:00:04+00:00
-
- ## Duke Mathematics Department
- - [https://services.math.duke.edu](https://services.math.duke.edu)
- - date_published: 2010-06-28T00:00:00+00:00
-
- ## Duke University Collection of Gifts
- - [https://shop.duke.edu](https://shop.duke.edu)
- - date_published: 2024-07-22T04:40:47.853603+00:00
-
- ## Welcome to Sites@Duke Express! - Sites@Duke Express
- - [https://sites.duke.edu](https://sites.duke.edu)
- - date_published: 2024-05-07T18:21:18.312091+00:00
-
- ## Sites @ Fuqua
- - [https://sites.fuqua.duke.edu](https://sites.fuqua.duke.edu)
- - date_published: 2024-06-17T03:22:02.501085+00:00
-
- ## DGHI Website Network
- - [https://sites.globalhealth.duke.edu](https://sites.globalhealth.duke.edu)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## The Nasher Museum of Art at Duke University -
- - [https://sites.nasher.duke.edu](https://sites.nasher.duke.edu)
- - date_published: 2024-02-08T16:49:26.722514+00:00
-
- ## Sites@Duke Pro Homepage | Sites@Duke Pro
- - [https://sitespro.duke.edu](https://sitespro.duke.edu)
- - date_published: 2024-07-01T06:33:07+00:00
-
- ## Medical Center Library & Archives
-2023 Snapshot
- - [https://snapshot.mclibrary.duke.edu](https://snapshot.mclibrary.duke.edu)
- - date_published: 2024-10-08T17:45:12+00:00
-
- ## Home - The Samuel DuBois Cook Center on Social Equity at Duke University
- - [https://socialequity.duke.edu](https://socialequity.duke.edu)
- - date_published: 2024-01-11T09:33:06+00:00
-
- ## Social Media Guidelines - Communicator Toolkit
- - [https://socialmedia.duke.edu](https://socialmedia.duke.edu)
- - date_published: 2017-11-13T21:26:51+00:00
-
- ## Spotlight
- - [https://spotlight.duke.edu](https://spotlight.duke.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Duke Social Science Research Institute - Duke Social Science Research Institute
- - [https://ssri.duke.edu](https://ssri.duke.edu)
- - date_published: 2024-06-16T07:17:32.146704+00:00
-
- ## Duke IT Status
- - [https://status.oit.duke.edu](https://status.oit.duke.edu)
- - date_published: 2024-10-08T04:24:40.668070+00:00
-
- ## Bolch Judicial Institute of Duke Law School
- - [https://storefront.law.duke.edu](https://storefront.law.duke.edu)
- - date_published: 2024-09-15T15:02:04.459162+00:00
 

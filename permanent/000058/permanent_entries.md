@@ -1,3 +1,15 @@
+ ## salute
+ - [https://saluteaut.bandcamp.com](https://saluteaut.bandcamp.com)
+ - date_published: 2024-07-19T22:25:14.431837+00:00
+
+ ## Passage - Live, by Samael
+ - [https://samael.bandcamp.com](https://samael.bandcamp.com)
+ - date_published: 2024-12-26T23:45:07.572771+00:00
+
+ ## Samana
+ - [https://samana.bandcamp.com](https://samana.bandcamp.com)
+ - date_published: 2024-12-27T04:57:29.958395+00:00
+
  ## Samantha Whates
  - [https://samanthawhates.bandcamp.com](https://samanthawhates.bandcamp.com)
  - date_published: 2024-12-27T03:40:13.652357+00:00
@@ -3985,16 +3997,4 @@
  ## Verity Den
  - [https://verityden.bandcamp.com](https://verityden.bandcamp.com)
  - date_published: 2024-12-27T08:50:30.534857+00:00
-
- ## Trigger Object
- - [https://vernsworld.bandcamp.com](https://vernsworld.bandcamp.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Too Late For Tears, by Veronica Lewis
- - [https://veronicalewis.bandcamp.com](https://veronicalewis.bandcamp.com)
- - date_published: 2024-12-27T08:54:26.466013+00:00
-
- ## Verotika - Original Motion Picture Soundtrack, by Verotika
- - [https://verotika.bandcamp.com](https://verotika.bandcamp.com)
- - date_published: 2024-12-27T00:27:58.311482+00:00
 

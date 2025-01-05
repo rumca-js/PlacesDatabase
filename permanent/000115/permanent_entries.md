@@ -1,3 +1,15 @@
+ ## Drifters Wiki
+ - [https://drifters.fandom.com](https://drifters.fandom.com)
+ - date_published: 2024-06-17T08:10:13+00:00
+
+ ## Drift Spirits Wiki
+ - [https://driftspirits.fandom.com](https://driftspirits.fandom.com)
+ - date_published: 2024-06-17T04:39:45+00:00
+
+ ## Dr Slump Wiki
+ - [https://drslump.fandom.com](https://drslump.fandom.com)
+ - date_published: 2024-06-16T21:57:16+00:00
+
  ## Dr. Stone Wiki
  - [https://dr-stone.fandom.com](https://dr-stone.fandom.com)
  - date_published: 2024-06-17T02:20:31+00:00
@@ -3986,16 +3998,4 @@
  ## Kavra Wiki
  - [https://kavra.fandom.com](https://kavra.fandom.com)
  - date_published: 2024-06-18T01:27:49+00:00
-
- ## K.C. Undercover Wiki
- - [https://kcundercover.fandom.com](https://kcundercover.fandom.com)
- - date_published: 2024-06-05T14:02:26.524507+00:00
-
- ## Kekkaishi Wiki
- - [https://kekkaishi.fandom.com](https://kekkaishi.fandom.com)
- - date_published: 2024-10-23T19:37:00+00:00
-
- ## Kelly Clarkson Wiki
- - [https://kellyclarkson.fandom.com](https://kellyclarkson.fandom.com)
- - date_published: 2024-06-17T06:37:18+00:00
 

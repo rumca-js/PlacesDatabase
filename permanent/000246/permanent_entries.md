@@ -1,3 +1,47 @@
+ ## Turing Finance, where computer science meets finance!
+ - [https://turingfinance.com](https://turingfinance.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Intro | Turing Pi2 | Docs
+ - [https://docs.turingpi.com](https://docs.turingpi.com)
+ - date_published: 2024-07-01T07:37:20.075006+00:00
+
+ ## Turing Pi 2 cluster computer
+ - [https://turingpi.com](https://turingpi.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Turing Post
+ - [https://www.turingpost.com](https://www.turingpost.com)
+ - date_published: 2024-12-23T22:13:52+00:00
+
+ ## Turing Respawns | Alexandre Gomes | Substack
+ - [https://turingrespawns.com](https://turingrespawns.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Turing AI - Reimagine Safety, Security, and Operations with AI
+ - [http://www.turingvideo.com](http://www.turingvideo.com)
+ - date_published: 2024-12-12T00:27:12.564947+00:00
+
+ ## Turismo da Coruña
+ - [https://turismocoruna.com](https://turismocoruna.com)
+ - date_published: 2024-06-22T22:21:12+00:00
+
+ ## Turismo de Islas Canarias
+ - [https://turismodecanarias.com](https://turismodecanarias.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Turismo de Cantabria - Inicio
+ - [https://profesional.turismodecantabria.com](https://profesional.turismodecantabria.com)
+ - date_published: 2024-12-12T15:56:11+00:00
+
+ ## Cantabria infinita - Turismo de Cantabria
+ - [https://turismodecantabria.com](https://turismodecantabria.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Turismo de Islas Canarias
+ - [http://turismodeislascanarias.com](http://turismodeislascanarias.com)
+ - date_published: 2024-12-13T13:00:41.662359+00:00
+
  ## Turismo Responsable
  - [https://turismo-responsable.com](https://turismo-responsable.com)
  - date_published: 2024-07-30T03:45:12.502828+00:00
@@ -4005,48 +4049,4 @@ Twitch Rivals
  ## Typeframes - Create stunning videos, in minutes
  - [https://typeframes.com](https://typeframes.com)
  - date_published: 2024-05-15T02:44:31.957225+00:00
-
- ## Typefully Help Center
- - [https://support.typefully.com](https://support.typefully.com)
- - date_published: 2024-05-06T20:49:54.479912+00:00
-
- ## Typefully - Twitter Thread Maker & Analytics
- - [https://typefully.com](https://typefully.com)
- - date_published: 2023-10-25T17:51:48.017945+00:00
-
- ## Type in Mind
- - [https://www.typeinmind.com](https://www.typeinmind.com)
- - date_published: 2024-07-14T19:08:01.437082+00:00
-
- ## TypeIt | The most versatile JavaScript typewriter effect library on the planet.
- - [https://typeitjs.com](https://typeitjs.com)
- - date_published: 2024-08-18T02:23:46.121591+00:00
-
- ## Typejockeys - Lettering & Type
- - [https://www.typejockeys.com](https://www.typejockeys.com)
- - date_published: 2024-10-29T14:01:40.199608+00:00
-
- ## Type-Level TypeScript
- - [https://type-level-typescript.com](https://type-level-typescript.com)
- - date_published: 2023-10-25T17:51:40.112477+00:00
-
- ## TypeMates
- - [https://typemates.com](https://typemates.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Type and Media 2013
- - [http://typemedia2013.com](http://typemedia2013.com)
- - date_published: 2020-12-02T21:20:20+00:00
-
- ## TypeMedia 2015 | Diploma projects
- - [http://www.typemedia2015.com](http://www.typemedia2015.com)
- - date_published: 2024-12-12T13:09:46.459590+00:00
-
- ## TypeMedia 2016
- - [http://typemedia-2016.com](http://typemedia-2016.com)
- - date_published: 2024-12-12T13:10:23.450854+00:00
-
- ## TypeMedia 2017
- - [http://typemedia2017.com](http://typemedia2017.com)
- - date_published: 2024-12-12T13:10:15.930012+00:00
 

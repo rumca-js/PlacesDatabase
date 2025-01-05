@@ -1,3 +1,47 @@
+ ## The Healthy Dev | Tom White | Substack
+ - [https://healthydev.substack.com](https://healthydev.substack.com)
+ - date_published: 2024-06-01T04:51:57.145979+00:00
+
+ ## Visually AI by Heather Cooper | Substack
+ - [https://heatherbcooper.substack.com](https://heatherbcooper.substack.com)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Letters from an American | Heather Cox Richardson | Substack
+ - [https://heathercoxrichardson.substack.com](https://heathercoxrichardson.substack.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## HEAVIES | Chris Gayomali | Substack
+ - [https://heavies.substack.com](https://heavies.substack.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Henrik Wallin - All the useful stuff you need to know | Substack
+ - [https://heddahenrik.substack.com](https://heddahenrik.substack.com)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## imperfect offerings | Helen Beetham | Substack
+ - [https://helenbeetham.substack.com](https://helenbeetham.substack.com)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Not On Your Team, But Always Fair | Helen Dale | Substack
+ - [https://helendale.substack.com](https://helendale.substack.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Wondering Freely | Helen De Cruz | Substack
+ - [https://helendecruz.substack.com](https://helendecruz.substack.com)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Supply...., meet Demand | Iain Henderson | Substack
+ - [https://hendersoni.substack.com](https://hendersoni.substack.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Aliveness Studies | Henry | Substack
+ - [https://henryaj.substack.com](https://henryaj.substack.com)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Herbert's Highlights | Kaylee | Substack
+ - [https://herbertshighlights.substack.com](https://herbertshighlights.substack.com)
+ - date_published: 2024-05-08T04:05:07.968899+00:00
+
  ## Herb Sundays | Sam Valenti IV | Substack
  - [https://herbsundays.substack.com](https://herbsundays.substack.com)
  - date_published: 2024-04-24T00:00:00+00:00
@@ -4037,48 +4081,4 @@
  ## The Reath Report | Jeff Carswell | Substack
  - [https://reathai.substack.com](https://reathai.substack.com)
  - date_published: 2024-04-24T00:00:00+00:00
-
- ## Recast Investor | Will | Substack
- - [https://recastinvestor.substack.com](https://recastinvestor.substack.com)
- - date_published: 2024-09-09T21:56:32.798674+00:00
-
- ## Recipes for Wellbeing | Substack
- - [https://recipesforwellbeing.substack.com](https://recipesforwellbeing.substack.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Record Shop Stories | Rich Headland | Substack
- - [https://recordshopstories.substack.com](https://recordshopstories.substack.com)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## Recursing Reflections | Rishika | Substack
- - [https://recursingreflections.substack.com](https://recursingreflections.substack.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Redneck Gone Green | David K. Cobb | Substack
- - [https://redneckgonegreen.substack.com](https://redneckgonegreen.substack.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## REDUXX Weekly Roundup | Substack
- - [https://reduxx.substack.com](https://reduxx.substack.com)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## Redwood Research blog | Buck Shlegeris | Substack
- - [https://redwoodresearch.substack.com](https://redwoodresearch.substack.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## RegenerateX | Substack
- - [https://regeneratex.substack.com](https://regeneratex.substack.com)
- - date_published: 2024-09-06T12:58:47.685651+00:00
-
- ## Relational Riffs | Yael Schonbrun | Substack
- - [https://relationalriffs.substack.com](https://relationalriffs.substack.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Building the AI Workforce | Scott Henderson | Substack
- - [https://relevanceai.substack.com](https://relevanceai.substack.com)
- - date_published: 2024-10-30T09:10:32.620910+00:00
-
- ## Renaissance Readings | Substack
- - [https://renaissancereadings.substack.com](https://renaissancereadings.substack.com)
- - date_published: 2024-05-06T00:00:00+00:00
 

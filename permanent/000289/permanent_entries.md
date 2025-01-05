@@ -1,3 +1,55 @@
+ ## Resume of Lance R. Vick
+ - [https://lance.dev](https://lance.dev)
+ - date_published: 2024-04-28T01:58:27.254086+00:00
+
+ ## Landon Johnson – Medium
+ - [https://medium.landonjohnson.dev](https://medium.landonjohnson.dev)
+ - date_published: 2025-01-01T19:11:31.449630+00:00
+
+ ## Lane Sawyer🌹 — Just trying to leave the world a little better...
+ - [https://blog.lanesawyer.dev](https://blog.lanesawyer.dev)
+ - date_published: 2024-06-18T16:13:54.414315+00:00
+
+ ## LangChain Blog
+ - [https://blog.langchain.dev](https://blog.langchain.dev)
+ - date_published: 2023-10-25T18:39:03.545219+00:00
+
+ ## lanius.dev
+ - [https://lanius.dev](https://lanius.dev)
+ - date_published: 2024-05-11T10:09:42.947462+00:00
+
+ ## Lantern
+ - [https://lantern.dev](https://lantern.dev)
+ - date_published: 2024-01-02T20:40:56.829203+00:00
+
+ ## Introduction | Lapdev Docs
+ - [https://docs.lap.dev](https://docs.lap.dev)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Lapdev - Self-Hosted Remote Development Environment
+ - [https://lap.dev](https://lap.dev)
+ - date_published: 2024-05-09T07:43:26.449561+00:00
+
+ ## Introduction | Lapce Docs
+ - [https://docs.lapce.dev](https://docs.lapce.dev)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## Lapce
+ - [https://lapce.dev](https://lapce.dev)
+ - date_published: 2024-02-18T17:36:31+00:00
+
+ ## Building Large Scale Web Apps | A React Field Guide
+ - [https://largeapps.dev](https://largeapps.dev)
+ - date_published: 2024-04-27T08:05:09.199772+00:00
+
+ ## Lashatatu Web Developer from Georgia
+ - [https://lashatatu.dev](https://lashatatu.dev)
+ - date_published: 2024-05-11T10:22:50.753638+00:00
+
+ ## AIConfig | AIConfig
+ - [https://aiconfig.lastmileai.dev](https://aiconfig.lastmileai.dev)
+ - date_published: 2024-04-29T07:57:30.786103+00:00
+
  ## lastmile ai — blog
  - [https://blog.lastmileai.dev](https://blog.lastmileai.dev)
  - date_published: 2023-10-25T18:39:06.395794+00:00
@@ -4064,57 +4116,4 @@
  ## Building Modern Web Apps with React and Next.js
  - [https://learn.scastiel.dev](https://learn.scastiel.dev)
  - date_published: 2024-08-19T03:52:44.124989+00:00
-
- ## Sebastien Castiel · Developer, writer, indie hacker · 📍 Montreal, QC
- - [https://scastiel.dev](https://scastiel.dev)
- - date_published: 2023-10-25T18:41:47.971907+00:00
- - tags: ['personal']
-
- ## SCAYLE Academy
- - [https://academy.scayle.dev](https://academy.scayle.dev)
- - date_published: 2024-09-17T21:45:11.508682+00:00
-
- ## SCAYLE
- - [https://new.scayle.dev](https://new.scayle.dev)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Notes · Boris Schapira
- - [https://boris.schapira.dev](https://boris.schapira.dev)
- - date_published: 2024-06-28T16:03:30.188713+00:00
-
- ## Schedule-X | Material Design Event Calendar
- - [https://premium.schedule-x.dev](https://premium.schedule-x.dev)
- - date_published: 2024-06-05T07:55:42.983133+00:00
-
- ## Schedule-X
- - [https://schedule-x.dev](https://schedule-x.dev)
- - date_published: 2024-01-02T13:33:58.392698+00:00
-
- ## Tobias' blog
- - [https://schmidl.dev](https://schmidl.dev)
- - date_published: 2024-05-09T08:24:45.629313+00:00
-
- ## scnlib: Page Redirection
- - [https://scnlib.dev](https://scnlib.dev)
- - date_published: 2024-06-15T17:09:57+00:00
-
- ## Scorecard: Assess Open Source Project Security
- - [https://scorecard.dev](https://scorecard.dev)
- - date_published: 2024-07-10T17:13:22+00:00
-
- ## Custom Web Design & Development
- - [https://scottcarr.dev](https://scottcarr.dev)
- - date_published: 2024-07-04T03:28:14.739433+00:00
-
- ## porkbun.com | parked domain
- - [http://scribe.dev](http://scribe.dev)
- - date_published: 2024-07-04T05:38:43.306063+00:00
-
- ## Scriptified
- - [https://scriptified.dev](https://scriptified.dev)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Seán Barry
- - [https://seanbarry.dev](https://seanbarry.dev)
- - date_published: 2023-10-25T18:41:53.898962+00:00
 

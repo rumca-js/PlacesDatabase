@@ -1,3 +1,15 @@
+ ## Job Search | DirectlyApply
+ - [https://directlyapply.com](https://directlyapply.com)
+ - date_published: 2023-11-07T16:06:41.136104+00:00
+
+ ## directlync-forms.com is almost here!
+ - [https://directlync-forms.com](https://directlync-forms.com)
+ - date_published: 2024-05-08T03:49:50.988529+00:00
+
+ ## Direct Mail | Einfaches E‑Mail-Marketing für Ihren Mac
+ - [https://de.directmailmac.com](https://de.directmailmac.com)
+ - date_published: 2024-06-16T08:08:00.690696+00:00
+
  ## Direct Mail | Easy-to-use email marketing app for your Mac
  - [https://directmailmac.com](https://directmailmac.com)
  - date_published: 2024-05-01T06:02:38.530923+00:00
@@ -4021,16 +4033,4 @@
  ## Docent Press – Thoughtful Reading in the History of Mathematics and Computing
  - [http://www.docentpress.com](http://www.docentpress.com)
  - date_published: 2024-08-11T14:50:50.500926+00:00
-
- ## بت برو | سایت اصلی بت برو
- - [http://doceporelmundo.com](http://doceporelmundo.com)
- - date_published: 2024-12-19T16:41:56.765320+00:00
-
- ## Pharmaceutical Advertising & Healthcare Marketing Company | Doceree
- - [https://doceree.com](https://doceree.com)
- - date_published: 2024-06-21T07:23:10+00:00
-
- ## Document Exploitation
- - [http://www.docexblog.com](http://www.docexblog.com)
- - date_published: 2024-04-27T06:29:25+00:00
 

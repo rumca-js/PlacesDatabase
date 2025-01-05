@@ -1,3 +1,59 @@
+ ## College Park Scholars | University of Maryland
+ - [http://www.scholars.umd.edu](http://www.scholars.umd.edu)
+ - date_published: 2024-07-02T03:37:55.462499+00:00
+
+ ## The Universities at Shady Grove |
+ - [https://www.shadygrove.umd.edu](https://www.shadygrove.umd.edu)
+ - date_published: 2024-07-02T02:42:05+00:00
+
+ ## Home | Maryland Smith
+ - [http://www.smith.umd.edu](http://www.smith.umd.edu)
+ - date_published: 2024-07-01T20:04:20+00:00
+
+ ## Home | START.umd.edu
+ - [https://www.start.umd.edu](https://www.start.umd.edu)
+ - date_published: 2024-06-17T10:47:38.565926+00:00
+
+ ## Master's In Telecommunications Program | Industry-focused graduate program for telecommunication professionals
+ - [http://www.telecom.umd.edu](http://www.telecom.umd.edu)
+ - date_published: 2024-06-22T09:00:04.875766+00:00
+
+ ## TESTUDO | Office of the Registrar
+ - [http://www.testudo.umd.edu](http://www.testudo.umd.edu)
+ - date_published: 2024-05-15T11:57:32+00:00
+
+ ## University of Maryland Police - Dept. of Public Safety
+ - [https://www.umpd.umd.edu](https://www.umpd.umd.edu)
+ - date_published: 2024-05-07T21:26:32.327819+00:00
+
+ ## University of Michigan-Dearborn | University of Michigan-Dearborn
+ - [https://umdearborn.edu](https://umdearborn.edu)
+ - date_published: 2024-02-24T18:06:35.384429+00:00
+
+ ## University of Maryland Eastern Shore | The Eastern Shore's Doctoral Research Institution
+ - [http://www.umes.edu](http://www.umes.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home of the Bengals | UMFK Athletics
+ - [https://athletics.umfk.edu](https://athletics.umfk.edu)
+ - date_published: 2024-05-07T21:27:36.965110+00:00
+
+ ## University of Maine at Fort Kent - Campus Store
+ - [https://campusstore.umfk.edu](https://campusstore.umfk.edu)
+ - date_published: 2024-05-07T21:27:42.767417+00:00
+
+ ## University of Maine at Fort Kent - Acalog ACMS™
+ - [https://catalog.umfk.edu](https://catalog.umfk.edu)
+ - date_published: 2024-05-07T21:27:32.625402+00:00
+
+ ## Please select your identity provider. - UMFK - UMS
+ - [https://my.umfk.edu](https://my.umfk.edu)
+ - date_published: 2024-07-01T02:52:23.781146+00:00
+
+ ## University of Maine at Fort Kent - UMFK
+ - [https://umfk.edu](https://umfk.edu)
+ - date_published: 2024-02-05T00:00:00+00:00
+
  ## University of Michigan - Flint - Acalog ACMS™
  - [http://catalog.umflint.edu](http://catalog.umflint.edu)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3961,60 +4017,4 @@ Center for Information Technology Integration
  ## UNM Digital Repository
  - [https://digitalrepository.unm.edu](https://digitalrepository.unm.edu)
  - date_published: 2024-07-02T05:18:13.122601+00:00
-
- ## UNM Online Directory | The University of New Mexico
- - [https://directory.unm.edu](https://directory.unm.edu)
- - date_published: 2024-05-07T21:43:06.464670+00:00
-
- ## Division for Equity and Inclusion | The University of New Mexico
- - [https://diverse.unm.edu](https://diverse.unm.edu)
- - date_published: 2024-05-07T21:43:32.907653+00:00
-
- ## CONTENTdm
- - [https://econtent.unm.edu](https://econtent.unm.edu)
- - date_published: 2024-09-14T23:00:01.632509+00:00
-
- ## University Libraries | The University of New Mexico
- - [https://elibrary.unm.edu](https://elibrary.unm.edu)
- - date_published: 2024-07-02T05:06:57.433586+00:00
-
- ## Engineering Student Success Center | The University of New Mexico
- - [https://ess.unm.edu](https://ess.unm.edu)
- - date_published: 2024-10-19T07:23:47.669364+00:00
-
- ## Opinio
- - [https://esurvey.unm.edu](https://esurvey.unm.edu)
- - date_published: 2023-10-20T16:52:22+00:00
-
- ## Executive Search | The University of New Mexico
- - [https://executivesearch.unm.edu](https://executivesearch.unm.edu)
- - date_published: 2024-04-17T18:08:59+00:00
-
- ## Home :: Faculty Governance
- - [https://facgov.unm.edu](https://facgov.unm.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## FastInfo - the UNM Knowledge Management System
- - [https://fastinfo.unm.edu](https://fastinfo.unm.edu)
- - date_published: 2024-07-02T05:04:40.776828+00:00
-
- ## UNM Financial Aid Office | The University of New Mexico
- - [https://finaid.unm.edu](https://finaid.unm.edu)
- - date_published: 2024-04-30T17:16:34+00:00
-
- ## UNM Financial Aid Office | The University of New Mexico
- - [https://financialaid.unm.edu](https://financialaid.unm.edu)
- - date_published: 2024-04-30T17:16:34+00:00
-
- ## Find a Doctor | UNM Health System
- - [https://findadoc.health.unm.edu](https://findadoc.health.unm.edu)
- - date_published: 2024-07-01T23:28:21+00:00
-
- ## Formstack Admin
- - [https://forms.unm.edu](https://forms.unm.edu)
- - date_published: 2024-07-02T05:09:09.635956+00:00
-
- ## Smarandache Notions
- - [https://fs.unm.edu](https://fs.unm.edu)
- - date_published: 2024-07-03T07:48:54.742685+00:00
 

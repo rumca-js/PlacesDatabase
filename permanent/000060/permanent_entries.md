@@ -1,3 +1,15 @@
+ ## BAYKAR Store
+ - [https://baykarmagaza.com](https://baykarmagaza.com)
+ - date_published: 2024-09-05T18:59:15.230203+00:00
+
+ ## BAYKAR Teknoloji
+ - [https://www.baykarsavunma.com](https://www.baykarsavunma.com)
+ - date_published: 2024-12-13T13:08:15.819261+00:00
+
+ ## BAYKAR Technology
+ - [https://baykartech.com](https://baykartech.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
  ## Baykar HR
  - [https://kariyer.baykartech.com](https://kariyer.baykartech.com)
  - date_published: 2024-09-05T18:59:07.886615+00:00
@@ -4000,16 +4012,4 @@
  ## Home and Business Internet, TV and Phone Service | Up to 2Gig - TDS
  - [https://bendbroadband.com](https://bendbroadband.com)
  - date_published: 2024-06-29T15:42:34.276868+00:00
-
- ## Home | bendellkarate
- - [http://www.bendellkarate.com](http://www.bendellkarate.com)
- - date_published: 2024-06-27T09:47:33.728706+00:00
-
- ## Ben Denzer
- - [https://bendenzer.com](https://bendenzer.com)
- - date_published: 2024-07-04T01:53:53.889506+00:00
-
- ## Bender APAC | Your partner for electrical safety
- - [https://www.bender-apac.com](https://www.bender-apac.com)
- - date_published: 2024-10-15T20:33:02.567895+00:00
 

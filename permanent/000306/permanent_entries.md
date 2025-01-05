@@ -1,3 +1,59 @@
+ ## Institute of Food and Agricultural Sciences - University of Florida
+ - [https://directory.ifas.ufl.edu](https://directory.ifas.ufl.edu)
+ - date_published: 2024-09-15T15:18:45.890823+00:00
+
+ ## Directory » University of Florida
+ - [https://directory.ufl.edu](https://directory.ufl.edu)
+ - date_published: 2024-07-02T02:07:51.489872+00:00
+
+ ## Disability Resource Center - Disability
+ - [https://disability.ufl.edu](https://disability.ufl.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## UF/IFAS Disaster Preparation & Recovery - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://disaster.ifas.ufl.edu](https://disaster.ifas.ufl.edu)
+ - date_published: 2024-10-15T05:48:03.020199+00:00
+
+ ## Ask IFAS - Powered by EDIS
+ - [https://edis.ifas.ufl.edu](https://edis.ifas.ufl.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## eLearning - University of Florida
+ - [https://elearning.ufl.edu](https://elearning.ufl.edu)
+ - date_published: 2024-07-02T02:07:58.545229+00:00
+
+ ## UF Election Lab
+ - [https://election.lab.ufl.edu](https://election.lab.ufl.edu)
+ - date_published: 2024-10-14T21:14:49.282029+00:00
+
+ ## Entomology and Nematology Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://entnemdept.ufl.edu](https://entnemdept.ufl.edu)
+ - date_published: 2024-10-15T05:48:11.814538+00:00
+
+ ## Entomology and Nematology Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://entomology.ifas.ufl.edu](http://entomology.ifas.ufl.edu)
+ - date_published: 2024-10-15T05:48:07.135878+00:00
+
+ ## University of Florida Experts | Search & Connect
+ - [https://experts.ufl.edu](https://experts.ufl.edu)
+ - date_published: 2024-05-07T21:11:34.496371+00:00
+
+ ## UF/IFAS Extension Administration - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://extadmin.ifas.ufl.edu](https://extadmin.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:35.898558+00:00
+
+ ## Faculty Websites – Herbert Wertheim College of Engineering
+ - [https://faculty.eng.ufl.edu](https://faculty.eng.ufl.edu)
+ - date_published: 2024-08-06T10:26:00.307799+00:00
+
+ ## Field and Fork Website
+ - [https://fieldandfork.ufl.edu](https://fieldandfork.ufl.edu)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## ArchivesSpace Public Interface | Special & Area Studies Collections
+ - [https://findingaids.uflib.ufl.edu](https://findingaids.uflib.ufl.edu)
+ - date_published: 2024-06-14T04:11:54.363246+00:00
+
  ## Florida Museum
  - [https://floridamuseum.ufl.edu](https://floridamuseum.ufl.edu)
  - date_published: 2023-11-09T19:00:22.567256+00:00
@@ -3948,60 +4004,4 @@
  ## Home | Maryland Smith
  - [http://www.rhsmith.umd.edu](http://www.rhsmith.umd.edu)
  - date_published: 2024-07-12T20:27:29+00:00
-
- ## College Park Scholars | University of Maryland
- - [http://www.scholars.umd.edu](http://www.scholars.umd.edu)
- - date_published: 2024-07-02T03:37:55.462499+00:00
-
- ## The Universities at Shady Grove |
- - [https://www.shadygrove.umd.edu](https://www.shadygrove.umd.edu)
- - date_published: 2024-07-02T02:42:05+00:00
-
- ## Home | Maryland Smith
- - [http://www.smith.umd.edu](http://www.smith.umd.edu)
- - date_published: 2024-07-01T20:04:20+00:00
-
- ## Home | START.umd.edu
- - [https://www.start.umd.edu](https://www.start.umd.edu)
- - date_published: 2024-06-17T10:47:38.565926+00:00
-
- ## Master's In Telecommunications Program | Industry-focused graduate program for telecommunication professionals
- - [http://www.telecom.umd.edu](http://www.telecom.umd.edu)
- - date_published: 2024-06-22T09:00:04.875766+00:00
-
- ## TESTUDO | Office of the Registrar
- - [http://www.testudo.umd.edu](http://www.testudo.umd.edu)
- - date_published: 2024-05-15T11:57:32+00:00
-
- ## University of Maryland Police - Dept. of Public Safety
- - [https://www.umpd.umd.edu](https://www.umpd.umd.edu)
- - date_published: 2024-05-07T21:26:32.327819+00:00
-
- ## University of Michigan-Dearborn | University of Michigan-Dearborn
- - [https://umdearborn.edu](https://umdearborn.edu)
- - date_published: 2024-02-24T18:06:35.384429+00:00
-
- ## University of Maryland Eastern Shore | The Eastern Shore's Doctoral Research Institution
- - [http://www.umes.edu](http://www.umes.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home of the Bengals | UMFK Athletics
- - [https://athletics.umfk.edu](https://athletics.umfk.edu)
- - date_published: 2024-05-07T21:27:36.965110+00:00
-
- ## University of Maine at Fort Kent - Campus Store
- - [https://campusstore.umfk.edu](https://campusstore.umfk.edu)
- - date_published: 2024-05-07T21:27:42.767417+00:00
-
- ## University of Maine at Fort Kent - Acalog ACMS™
- - [https://catalog.umfk.edu](https://catalog.umfk.edu)
- - date_published: 2024-05-07T21:27:32.625402+00:00
-
- ## Please select your identity provider. - UMFK - UMS
- - [https://my.umfk.edu](https://my.umfk.edu)
- - date_published: 2024-07-01T02:52:23.781146+00:00
-
- ## University of Maine at Fort Kent - UMFK
- - [https://umfk.edu](https://umfk.edu)
- - date_published: 2024-02-05T00:00:00+00:00
 

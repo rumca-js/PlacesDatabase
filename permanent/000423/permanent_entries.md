@@ -1,3 +1,101 @@
+ ## Minding The Campus — Reforming Our Universities
+ - [https://mindingthecampus.org](https://mindingthecampus.org)
+ - date_published: 2014-10-01T10:10:10+00:00
+
+ ## MindKind
+ - [https://mindkindstudy.org](https://mindkindstudy.org)
+ - date_published: 2022-09-27T17:12:30+00:00
+
+ ## Mind Makers
+ - [https://mindmakersproject.org](https://mindmakersproject.org)
+ - date_published: 2018-10-19T23:58:05+00:00
+
+ ## Mindmap Maker
+ - [https://app.mindmapmaker.org](https://app.mindmapmaker.org)
+ - date_published: 2024-06-06T10:01:42+00:00
+
+ ## Mind Map Maker
+ - [https://mindmapmaker.org](https://mindmapmaker.org)
+ - date_published: 2024-06-06T10:03:22+00:00
+
+ ## MindMapTools
+ - [http://mind-mapping.org](http://mind-mapping.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Progress and Visions in the Scientific Study of the Mind-Matter Relation
+ - [https://mind-matter-relation.org](https://mind-matter-relation.org)
+ - date_published: 2019-03-06T17:52:12+00:00
+
+ ## Bugzilla Main Page
+ - [https://bugzilla.mindrot.org](https://bugzilla.mindrot.org)
+ - date_published: 2024-08-18T18:58:34.962441+00:00
+
+ ## lists.mindrot.org Mailing Lists
+ - [https://lists.mindrot.org](https://lists.mindrot.org)
+ - date_published: 2024-01-11T13:43:10.457170+00:00
+
+ ## Minds aren't magic
+ - [https://mindsarentmagic.org](https://mindsarentmagic.org)
+ - date_published: 2024-05-07T16:01:41.652109+00:00
+
+ ## The MINDS Foundation
+ - [https://www.mindsfoundation.org](https://www.mindsfoundation.org)
+ - date_published: 2024-07-21T09:34:01.826964+00:00
+
+ ## MIND 2024
+ - [https://mind2024.mind-society.org](https://mind2024.mind-society.org)
+ - date_published: 2024-12-24T18:33:54.012367+00:00
+
+ ## The Wonders of Science: Unraveling Nature's Mysteries for a Brighter Future
+ - [https://mindtorch.org](https://mindtorch.org)
+ - date_published: 2024-12-13T03:40:30.905058+00:00
+
+ ## Mind Your Line
+ - [https://mindyourline.org](https://mindyourline.org)
+ - date_published: 2024-12-15T21:22:23.450756+00:00
+
+ ## Minecraft Servers | Minecraft Server List
+ - [https://minecraftservers.org](https://minecraftservers.org)
+ - date_published: 2023-10-25T11:18:19.441515+00:00
+ - tags: ['minecraft']
+
+ ## Welcome to MineDojo’s documentation! — MineDojo 0.1.0 documentation
+ - [https://docs.minedojo.org](https://docs.minedojo.org)
+ - date_published: 2023-03-26T00:04:13+00:00
+
+ ## MineDojo | Building Open-Ended Embodied Agents with
+        Internet-Scale Knowledge
+ - [https://minedojo.org](https://minedojo.org)
+ - date_published: 2023-03-26T00:04:32+00:00
+
+ ## Voyager | An Open-Ended Embodied Agent with Large Language Models
+ - [https://voyager.minedojo.org](https://voyager.minedojo.org)
+ - date_published: 2023-10-25T21:43:00.475854+00:00
+
+ ## InnerCore mods
+ - [https://icmods.mineprogramming.org](https://icmods.mineprogramming.org)
+ - date_published: 2024-10-22T10:42:42.950125+00:00
+
+ ## Welcome - Minerals Education Coalition
+ - [https://mineralseducationcoalition.org](https://mineralseducationcoalition.org)
+ - date_published: 2023-11-15T00:00:00+00:00
+
+ ## Mingei International Museum
+ - [https://mingei.org](https://mingei.org)
+ - date_published: 2024-09-10T08:07:56.013004+00:00
+
+ ## Minghui.org 明慧网|法轮大法真相·法轮大法修炼
+ - [https://minghui.org](https://minghui.org)
+ - date_published: 2024-06-24T07:38:30.194371+00:00
+
+ ## https://mingw.org
+ - [https://mingw.org](https://mingw.org)
+ - date_published: 2024-01-09T03:41:43.009235+00:00
+
+ ## Mingw.org
+ - [http://www70.mingw.org](http://www70.mingw.org)
+ - date_published: 2024-05-08T10:15:48.707561+00:00
+
  ## MinGW-w64
  - [https://mingw-w64.org](https://mingw-w64.org)
  - date_published: 2023-10-30T14:03:46.137119+00:00
@@ -3957,100 +4055,4 @@ ENERGY DEPARTMENT, Sports and Youth Welfare Department, MP, HOME DEPARTMENT, CUL
  ## Best CBSE School in Bareilly | MVM Bareilly
  - [https://mvmbareilly.org](https://mvmbareilly.org)
  - date_published: 2024-09-13T16:10:08.221683+00:00
-
- ## Best Public School in Barichinna | MVM Barichinna
- - [http://mvmbarichinna.org](http://mvmbarichinna.org)
- - date_published: 2024-09-13T16:09:44.984295+00:00
-
- ## Best CBSE School in Basti | MVM Basti
- - [https://mvmbasti.org](https://mvmbasti.org)
- - date_published: 2024-09-13T16:11:16.381511+00:00
-
- ## Best Public School in Berasia | MVM Berasia
- - [http://mvmberasia.org](http://mvmberasia.org)
- - date_published: 2024-09-13T16:10:21.041672+00:00
-
- ## Best CBSE Public School in Bhandara | MVM Bhandara
- - [https://mvmbhandara.org](https://mvmbhandara.org)
- - date_published: 2024-09-13T16:09:42.078341+00:00
-
- ## Top CBSE Schools in Bhopal | Best Public School in Bhopal MP
- - [https://mvmbhopal-1.org](https://mvmbhopal-1.org)
- - date_published: 2024-09-13T16:11:22.099096+00:00
-
- ## Best Public School in Bhopal | MVM Bhopal
- - [http://mvmbhopal2.org](http://mvmbhopal2.org)
- - date_published: 2024-09-13T16:11:34.745147+00:00
-
- ## Best Public School in Bhopal | MVM Bhopal
- - [http://mvmbhopal4.org](http://mvmbhopal4.org)
- - date_published: 2024-09-13T16:11:47.240267+00:00
-
- ## Best Public School in Bhowali - Uttarakhand
- - [http://mvmbhowali.org](http://mvmbhowali.org)
- - date_published: 2024-09-13T16:09:29.570610+00:00
-
- ## Best Public School in Jagmal Chowk - Bilaspur
- - [http://mvmbilaspur3.org](http://mvmbilaspur3.org)
- - date_published: 2024-09-13T16:11:19.572728+00:00
-
- ## Best CBSE Public School in Chhatarpur | MVM Chhatarpur
- - [https://mvmchhatarpur.org](https://mvmchhatarpur.org)
- - date_published: 2024-09-13T16:07:15.219601+00:00
-
- ## Best Public School in Chhatarpur | MVM Chhatarpur
- - [http://mvmchhatarpur2.org](http://mvmchhatarpur2.org)
- - date_published: 2024-09-13T16:13:46.635730+00:00
-
- ## MVM- Best CBSE School in Chhindwara | Top CBSE School Chhindwara
- - [https://mvmchhindwara.org](https://mvmchhindwara.org)
- - date_published: 2024-09-13T16:08:08.263490+00:00
-
- ## Best CBSE Public School in Damoh | MVM Damoh
- - [https://mvmdamoh.org](https://mvmdamoh.org)
- - date_published: 2024-09-13T16:00:23.461389+00:00
-
- ## Best CBSE Public School in Daulatpur Chowk | MVM Daulatpur Chowk
- - [https://mvmdaulatpurchowk.org](https://mvmdaulatpurchowk.org)
- - date_published: 2024-09-13T16:12:23.374123+00:00
-
- ## Best CBSE School in Dehradun | MVM Dehradun
- - [https://mvmdehradun.org](https://mvmdehradun.org)
- - date_published: 2024-09-13T16:14:16.284539+00:00
-
- ## Best CBSE School in Dharamshala | MVM Dharamshala
- - [https://mvmdharamshala.org](https://mvmdharamshala.org)
- - date_published: 2024-09-13T16:13:30.355659+00:00
-
- ## Maharishi Vidya Mandir  Durg  | Top - Best CBSE  Public Schools in Durg | Home
- - [https://mvmdurg.org](https://mvmdurg.org)
- - date_published: 2024-09-13T16:00:02.327933+00:00
-
- ## Best CBSE Public School in Fatehpur | MVM Fatehpur
- - [https://mvmfatehpur.org](https://mvmfatehpur.org)
- - date_published: 2024-06-12T07:04:49+00:00
-
- ## Best CBSE School in Gonda | MVM Gonda
- - [https://mvmgonda.org](https://mvmgonda.org)
- - date_published: 2024-09-13T15:59:09.932110+00:00
-
- ## Maharishi Vidya Mandir  Gorakhpur  | Top - Best CBSE  Public Schools in Gorakhpur | Home
- - [https://mvmgorakhpur.org](https://mvmgorakhpur.org)
- - date_published: 2024-09-13T16:08:11.372742+00:00
-
- ## Best Public School in Gosalpur | MVM Gosalpur
- - [http://mvmgosalpur.org](http://mvmgosalpur.org)
- - date_published: 2024-09-13T16:07:59.458996+00:00
-
- ## Best Public School in Gulbarga | MVM Gulbarga
- - [http://mvmgulbarga1.org](http://mvmgulbarga1.org)
- - date_published: 2024-09-13T16:09:36.116944+00:00
-
- ## Best CBSE School in Gurgaon | MVM Gurgaon
- - [https://mvmgurgaon.org](https://mvmgurgaon.org)
- - date_published: 2024-09-13T16:13:52.233990+00:00
-
- ## Best CBSE Public School in Guwahati| MVM Guwahati
- - [https://mvmguwahati-1.org](https://mvmguwahati-1.org)
- - date_published: 2024-09-13T16:00:13.081560+00:00
 

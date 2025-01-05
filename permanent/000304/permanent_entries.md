@@ -1,3 +1,59 @@
+ ## Serving Arkansas and Beyond
+ - [https://application.uark.edu](https://application.uark.edu)
+ - date_published: 2024-07-08T14:52:58.962497+00:00
+
+ ## homepage 2022
+ - [https://arkansasresearch.uark.edu](https://arkansasresearch.uark.edu)
+ - date_published: 2024-12-18T10:51:32+00:00
+
+ ## Campus Calendar
+ - [https://calendars.uark.edu](https://calendars.uark.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Log On
+ - [https://campusdata.uark.edu](https://campusdata.uark.edu)
+ - date_published: 2024-07-08T14:53:02.381378+00:00
+
+ ## University of Arkansas - Fayetteville
+ - [http://campusmaps.uark.edu](http://campusmaps.uark.edu)
+ - date_published: 2024-07-08T14:52:40.733484+00:00
+
+ ## Form Plus Function
+ - [http://designblog.uark.edu](http://designblog.uark.edu)
+ - date_published: 2024-07-08T14:52:44.532568+00:00
+
+ ## Campus Directory | University of Arkansas
+ - [https://directory.uark.edu](https://directory.uark.edu)
+ - date_published: 2024-07-08T14:53:10.626246+00:00
+
+ ## Emergency Preparedness | Campus Safety | University of Arkansas
+ - [http://emergency.uark.edu](http://emergency.uark.edu)
+ - date_published: 2024-07-08T14:53:14.193100+00:00
+
+ ## Fay Jones School of Architecture and Design | University of Arkansas
+ - [https://fayjones.uark.edu](https://fayjones.uark.edu)
+ - date_published: 2024-05-08T11:43:35.793457+00:00
+
+ ## Blackboard Learn
+ - [https://learn.uark.edu](https://learn.uark.edu)
+ - date_published: 2004-07-08T14:53:03+00:00
+
+ ## Serving Arkansas and Beyond
+ - [http://m.uark.edu](http://m.uark.edu)
+ - date_published: 2024-07-08T14:53:18.132454+00:00
+
+ ## News | University of Arkansas
+ - [https://news.uark.edu](https://news.uark.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Online Giving
+ - [https://onlinegiving.uark.edu](https://onlinegiving.uark.edu)
+ - date_published: 2024-07-08T14:52:55.367183+00:00
+
+ ## Home | Report | University of Arkansas
+ - [http://report.uark.edu](http://report.uark.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
  ## University of Arkansas Community Design Center
  - [https://uacdc.uark.edu](https://uacdc.uark.edu)
  - date_published: 2024-07-08T14:53:15.407312+00:00
@@ -3971,60 +4027,4 @@
  ## Sponsored Projects Office
  - [https://srs.ucmerced.edu](https://srs.ucmerced.edu)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## School of Social Sciences, Humanities and Arts
- - [https://ssha.ucmerced.edu](https://ssha.ucmerced.edu)
- - date_published: 2024-07-01T20:39:06+00:00
-
- ## Home | Student Affairs
- - [https://studentaffairs.ucmerced.edu](https://studentaffairs.ucmerced.edu)
- - date_published: 2024-07-01T21:00:27+00:00
-
- ## Students First Center | Phone: 209-228-7178
- - [https://studentsfirst.ucmerced.edu](https://studentsfirst.ucmerced.edu)
- - date_published: 2024-07-01T22:32:00+00:00
-
- ## Division of Undergraduate Education
- - [https://ue.ucmerced.edu](https://ue.ucmerced.edu)
- - date_published: 2024-07-01T23:16:45.680457+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://vllab1.ucmerced.edu](http://vllab1.ucmerced.edu)
- - date_published: 2018-04-18T23:18:39+00:00
-
- ## VLLab - UC Merced
- - [https://vllab.ucmerced.edu](https://vllab.ucmerced.edu)
- - date_published: 2023-03-12T09:07:46+00:00
-
- ## Home | University Writing Center
- - [https://writingcenter.ucmerced.edu](https://writingcenter.ucmerced.edu)
- - date_published: 2024-07-01T23:18:40.485463+00:00
-
- ## The Karen Merritt Writing Program
- - [https://writingprogram.ucmerced.edu](https://writingprogram.ucmerced.edu)
- - date_published: 2024-05-07T20:56:22.838187+00:00
-
- ## Writing Studies
- - [https://writingstudies.ucmerced.edu](https://writingstudies.ucmerced.edu)
- - date_published: 2024-07-01T23:18:04.509540+00:00
-
- ## University of California, Merced
- - [https://www.ucmerced.edu](https://www.ucmerced.edu)
- - date_published: 2024-05-07T20:56:17.110274+00:00
-
- ## Home | IT Accessibility
- - [https://accessibility.its.uconn.edu](https://accessibility.its.uconn.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Home | Aurora
- - [https://accessibility.media.uconn.edu](https://accessibility.media.uconn.edu)
- - date_published: 2024-07-01T23:18:24+00:00
-
- ## Home | Accessibility
- - [https://accessibility.uconn.edu](https://accessibility.uconn.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Home | Accounting Department
- - [https://accounting.business.uconn.edu](https://accounting.business.uconn.edu)
- - date_published: 2024-06-20T00:00:00+00:00
 

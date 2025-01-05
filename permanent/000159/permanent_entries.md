@@ -1,3 +1,27 @@
+ ## Philosophy Bites
+ - [https://philosophybites.libsyn.com](https://philosophybites.libsyn.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Libsyn Podcast Player
+ - [https://play.libsyn.com](https://play.libsyn.com)
+ - date_published: 2024-05-04T13:47:45.070670+00:00
+
+ ## Official PlayStation Podcast
+ - [https://playstation.libsyn.com](https://playstation.libsyn.com)
+ - date_published: 2024-12-27T19:28:19+00:00
+
+ ## This Old Marketing - Content Marketing News with Joe Pulizzi and Robert Rose
+ - [https://pnrmarketing.libsyn.com](https://pnrmarketing.libsyn.com)
+ - date_published: 2024-10-04T10:40:37+00:00
+
+ ## podCast411 -  Learn about Podcasters and Podcasting News
+ - [https://podcast411.libsyn.com](https://podcast411.libsyn.com)
+ - date_published: 2024-07-18T18:18:38+00:00
+
+ ## PRETTYSMART
+ - [https://prettysmart.libsyn.com](https://prettysmart.libsyn.com)
+ - date_published: 2024-09-06T09:56:09+00:00
+
  ## The Psychology Podcast with Scott Barry Kaufman
  - [https://psychologypodcast.libsyn.com](https://psychologypodcast.libsyn.com)
  - date_published: 2024-05-06T14:19:24.202568+00:00
@@ -4006,28 +4030,4 @@
  ## LIONIC - Powerful Cybersecurity Service Provider
  - [https://lionic.com](https://lionic.com)
  - date_published: 2024-04-07T00:00:00+00:00
-
- ## Disney THE LION KING | The Award-Winning Best Musical
- - [https://lionking.com](https://lionking.com)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Transforming Alternative Investments
- - [https://lionpointgroup.com](https://lionpointgroup.com)
- - date_published: 2024-12-14T12:57:06.184467+00:00
-
- ## LION Publishers: Local Independent Online News
- - [https://lionpublishers.com](https://lionpublishers.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Summit 2024 - LION Publishers
- - [https://summit24.lionpublishers.com](https://summit24.lionpublishers.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Lions Alte Feste | Windhoek Namibia
- - [https://www.lionsaltefeste.com](https://www.lionsaltefeste.com)
- - date_published: 2024-12-22T22:26:59+00:00
-
- ## Lionsbridge FC
- - [http://www.lionsbridgefc.com](http://www.lionsbridgefc.com)
- - date_published: 2024-07-06T00:00:00+00:00
 

@@ -1,3 +1,55 @@
+ ## eCFR :: Home
+ - [https://ecfr.gov](https://ecfr.gov)
+ - date_published: 2024-05-08T02:42:51.227890+00:00
+
+ ## econsumer.gov: econsumer - Report international scams online!
+ - [https://www.econsumer.gov](https://www.econsumer.gov)
+ - date_published: 2024-08-05T22:16:11.502033+00:00
+
+ ## ED.gov Blog
+ - [https://blog.ed.gov](https://blog.ed.gov)
+ - date_published: 2024-06-15T06:13:48.941395+00:00
+
+ ## Home | College Scorecard
+ - [https://collegescorecard.ed.gov](https://collegescorecard.ed.gov)
+ - date_published: 2024-06-13T19:54:37+00:00
+
+ ## Education Stabilization Fund
+ - [https://covid-relief-data.ed.gov](https://covid-relief-data.ed.gov)
+ - date_published: 2024-06-13T18:40:19+00:00
+
+ ## Perkins Collaborative Resource Network
+ - [https://cte.ed.gov](https://cte.ed.gov)
+ - date_published: 2024-06-15T06:13:43.904143+00:00
+
+ ## Welcome - Department of Education Open Data Platform
+ - [https://data.ed.gov](https://data.ed.gov)
+ - date_published: 2024-06-15T06:13:39.168835+00:00
+
+ ## ED Data Inventory - Home
+ - [https://datainventory.ed.gov](https://datainventory.ed.gov)
+ - date_published: 2024-06-28T09:07:33.870190+00:00
+
+ ## Home | U.S. Department of Education
+ - [https://ed.gov](https://ed.gov)
+ - date_published: 2024-09-18T05:29:58+00:00
+
+ ## ERIC - Education Resources Information Center
+ - [https://eric.ed.gov](https://eric.ed.gov)
+ - date_published: 2024-05-07T19:53:36.033515+00:00
+
+ ## ERIC - Education Resources Information Center
+ - [https://files.eric.ed.gov](https://files.eric.ed.gov)
+ - date_published: 2017-11-15T16:49:43+00:00
+
+ ## Home | FSA Partner Connect
+ - [https://fsapartners.ed.gov](https://fsapartners.ed.gov)
+ - date_published: 2024-04-08T17:04:00+00:00
+
+ ## Institute of Education Sciences (IES) Home Page, a part of the U.S. Department of Education
+ - [https://ies.ed.gov](https://ies.ed.gov)
+ - date_published: 2024-05-07T19:54:14.677362+00:00
+
  ## IES PRIMO
  - [https://iesreview.ed.gov](https://iesreview.ed.gov)
  - date_published: 2024-07-01T17:12:20.794854+00:00
@@ -3972,56 +4024,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## Iowa Businesses Against Trafficking | Iowa Secretary of State
  - [https://ibat.iowa.gov](https://ibat.iowa.gov)
  - date_published: 2024-05-09T00:00:00+00:00
-
- ## Welcome
- - [http://iowa.gov](http://iowa.gov)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Missing Persons | Missing Person Information Clearinghouse
- - [https://missingpersons.iowa.gov](https://missingpersons.iowa.gov)
- - date_published: 2024-07-15T04:02:23+00:00
-
- ## Making Good Government Better
- - [https://ombudsman.iowa.gov](https://ombudsman.iowa.gov)
- - date_published: 2024-12-22T16:02:33.855623+00:00
-
- ## Iowa Precinct Election Officials
- - [https://pollworker.iowa.gov](https://pollworker.iowa.gov)
- - date_published: 2024-07-15T02:56:59.866593+00:00
-
- ## Iowa Safe At Home
- - [http://safeathome.iowa.gov](http://safeathome.iowa.gov)
- - date_published: 2024-07-15T02:57:14.750026+00:00
-
- ## Iowa Secretary of State - Paul D. Pate
- - [https://sos.iowa.gov](https://sos.iowa.gov)
- - date_published: 2024-05-12T04:52:50.693632+00:00
-
- ## Voter Ready | A Guide To Voting In Iowa
- - [https://voterready.iowa.gov](https://voterready.iowa.gov)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - Iowa Voter Education | Iowa Secretary of State
- - [https://votingprocess.iowa.gov](https://votingprocess.iowa.gov)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Iowa Legislature
- - [https://www.legis.iowa.gov](https://www.legis.iowa.gov)
- - date_published: 2024-05-04T09:27:48.085960+00:00
-
- ## | Iowa Department of Agriculture and Land Stewardship
- - [https://iowaagriculture.gov](https://iowaagriculture.gov)
- - date_published: 2024-06-20T05:31:47+00:00
-
- ## Index
- - [https://programs.iowadnr.gov](https://programs.iowadnr.gov)
- - date_published: 2013-08-22T17:47:29+00:00
-
- ## Iowa Department of Natural Resources
- - [https://www.iowadnr.gov](https://www.iowadnr.gov)
- - date_published: 2024-05-04T09:27:44.321383+00:00
-
- ## The National Intellectual Property Rights Coordination Center — IPRCenter
- - [http://www.iprcenter.gov](http://www.iprcenter.gov)
- - date_published: 2024-07-27T00:00:00+00:00
 

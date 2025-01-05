@@ -1,3 +1,15 @@
+ ## doodles and noodles
+ - [http://doodlesandnoodles.blogspot.com](http://doodlesandnoodles.blogspot.com)
+ - date_published: 2024-05-04T02:06:45+00:00
+
+ ## Blogger
+ - [http://doodlezoo.blogspot.com](http://doodlezoo.blogspot.com)
+ - date_published: 2025-01-01T15:07:02.021583+00:00
+
+ ## doodlin'
+ - [http://doodlin.blogspot.com](http://doodlin.blogspot.com)
+ - date_published: 2015-08-26T00:00:00+00:00
+
  ## DOOM Retro
  - [https://doomretro.blogspot.com](https://doomretro.blogspot.com)
  - date_published: 2024-10-28T21:48:37+00:00
@@ -3990,16 +4002,4 @@
  ## First Point of Aries
  - [http://firstpointofaries.blogspot.com](http://firstpointofaries.blogspot.com)
  - date_published: 2024-03-15T08:33:13+00:00
-
- ## First Rank, Second Rank
- - [http://firstranksecondrank.blogspot.com](http://firstranksecondrank.blogspot.com)
- - date_published: 2024-03-13T18:02:07+00:00
-
- ## The Beginner Programmer
- - [http://firsttimeprogrammer.blogspot.com](http://firsttimeprogrammer.blogspot.com)
- - date_published: 2024-06-28T10:29:57+00:00
-
- ## DEI GRECI
- - [http://fischers-design-shop.blogspot.com](http://fischers-design-shop.blogspot.com)
- - date_published: 2024-06-29T11:53:55+00:00
 

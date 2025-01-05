@@ -1,3 +1,15 @@
+ ## Pedido Web Moderna
+ - [https://loja.moderna.com.br](https://loja.moderna.com.br)
+ - date_published: 2024-06-12T13:04:13.082783+00:00
+
+ ## Editora Moderna
+ - [https://moderna.com.br](https://moderna.com.br)
+ - date_published: 2024-06-12T06:05:10.259252+00:00
+
+ ## Moderna Plus
+ - [https://mplus.moderna.com.br](https://mplus.moderna.com.br)
+ - date_published: 2024-09-13T10:27:46.561146+00:00
+
  ## PNLD - Moderna
  - [https://pnld.moderna.com.br](https://pnld.moderna.com.br)
  - date_published: 2024-09-13T10:29:31.823614+00:00
@@ -3995,16 +4007,4 @@
  ## Министерство лесного хозяйства Республики Беларусь
  - [http://www.mlh.gov.by](http://www.mlh.gov.by)
  - date_published: 2024-08-11T16:11:17.611258+00:00
-
- ## Новости Могилева и Могилевской области | Могилевский областной исполнительный комитет
- - [http://mogilev-region.gov.by](http://mogilev-region.gov.by)
- - date_published: 2024-08-11T15:58:17.962387+00:00
-
- ## Главная | Министерство связи и информатизации Республики Беларусь
- - [https://www.mpt.gov.by](https://www.mpt.gov.by)
- - date_published: 2024-06-30T03:40:15.572113+00:00
-
- ## Министерство сельского хозяйства и продовольствия Республики Беларусь
- - [https://www.mshp.gov.by](https://www.mshp.gov.by)
- - date_published: 2024-08-11T16:08:04.648455+00:00
 

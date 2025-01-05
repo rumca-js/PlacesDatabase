@@ -1,3 +1,60 @@
+ ## Patterson Thuente Has Joined Husch Blackwell - Patterson Thuente IP
+ - [http://ptslaw.com](http://ptslaw.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## PT SportSuite | Digital Media Ecosystems for Sports
+ - [https://ptsportsuite.com](https://ptsportsuite.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## PrimeTime Timing
+ - [https://pttiming.com](https://pttiming.com)
+ - date_published: 2024-10-18T02:28:05.738707+00:00
+
+ ## PTV Blog Start Page
+ - [https://blog.ptvgroup.com](https://blog.ptvgroup.com)
+ - date_published: 2023-08-09T00:00:00+00:00
+
+ ## Move the World as Part of Our Team
+ - [https://careers.ptvgroup.com](https://careers.ptvgroup.com)
+ - date_published: 2024-07-08T13:37:43.359921+00:00
+
+ ## PTV Transport Consult | PTV Group
+ - [https://consult.ptvgroup.com](https://consult.ptvgroup.com)
+ - date_published: 2024-07-08T13:37:36.330496+00:00
+
+ ## Home
+		 · Customer Self-Service
+ - [https://helpdesk.ptvgroup.com](https://helpdesk.ptvgroup.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## PTV Group - Empowering mobility for a cleaner, smarter & safer future
+ - [https://ptvgroup.com](https://ptvgroup.com)
+ - date_published: 2024-05-08T11:28:30.101262+00:00
+
+ ## training.ptvgroup.com
+ - [https://training.ptvgroup.com](https://training.ptvgroup.com)
+ - date_published: 2024-07-08T13:37:40.368053+00:00
+
+ ## PTV Logistics: Routing & Transport Software
+ - [https://www.ptvlogistics.com](https://www.ptvlogistics.com)
+ - date_published: 2024-07-08T13:37:41.712297+00:00
+
+ ## Customer Portal
+ - [https://community.ptzoptics.com](https://community.ptzoptics.com)
+ - date_published: 2023-06-19T12:36:34+00:00
+
+ ## Home
+ - [https://ptzoptics.com](https://ptzoptics.com)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## PUB400.COM - Your public IBM i server
+ - [https://pub400.com](https://pub400.com)
+ - date_published: 2024-01-30T14:37:36.318120+00:00
+
+ ## Homepage Metro
+ - [https://www.pubcon.com](https://www.pubcon.com)
+ - date_published: 2024-07-19T18:51:21.040931+00:00
+
  ## PubExchange: the traffic exchange network
  - [https://main.pubexchange.com](https://main.pubexchange.com)
  - date_published: 2024-07-03T17:05:21.430527+00:00
@@ -3978,60 +4035,4 @@
  ## Q4 Platform
  - [https://connect.q4inc.com](https://connect.q4inc.com)
  - date_published: 2024-09-04T21:04:28+00:00
-
- ## Events Platform - Q4
- - [https://events.q4inc.com](https://events.q4inc.com)
- - date_published: 2024-05-16T18:04:08+00:00
-
- ## Q4 Inc. - Q4 Inc – Investor Relations Platform | IR Websites, Events and More
- - [https://investors.q4inc.com](https://investors.q4inc.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://login.q4inc.com](https://login.q4inc.com)
- - date_published: 2024-06-15T05:05:43.098860+00:00
-
- ## Q4 Inc. - Home
- - [https://media.q4inc.com](https://media.q4inc.com)
- - date_published: 2024-09-16T07:23:59.021749+00:00
-
- ## Attention Required! | Cloudflare
- - [https://q4inc.com](https://q4inc.com)
- - date_published: 2024-06-15T05:05:50.773717+00:00
-
- ## Investor Relations | Airbnb | Home
- - [https://airbnb2020ipo.q4web.com](https://airbnb2020ipo.q4web.com)
- - date_published: 2024-06-15T07:08:03.478783+00:00
-
- ## Ally Financial Inc. - Home
- - [https://ally2018tf.q4web.com](https://ally2018tf.q4web.com)
- - date_published: 2024-08-11T07:23:30.189399+00:00
-
- ## Boeing Company - Investors - Overview
- - [https://boeing2015.q4web.com](https://boeing2015.q4web.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Overview - Clarivate
- - [https://clarivate2023indexrb.q4web.com](https://clarivate2023indexrb.q4web.com)
- - date_published: 2024-09-16T11:09:40.799107+00:00
-
- ## CSX Corporation - Overview
- - [https://csx2019ir.q4web.com](https://csx2019ir.q4web.com)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://flutter2024tf.q4web.com](https://flutter2024tf.q4web.com)
- - date_published: 2024-05-08T11:48:19.575344+00:00
-
- ## Jabil - Overview
- - [http://jabil2021ir.q4web.com](http://jabil2021ir.q4web.com)
- - date_published: 2024-10-15T20:25:44.065903+00:00
-
- ## Attention Required! | Cloudflare
- - [https://johnwiley2020news.q4web.com](https://johnwiley2020news.q4web.com)
- - date_published: 2024-02-26T18:18:20.325972+00:00
-
- ## Blank - Home
- - [https://newegg2023tf.q4web.com](https://newegg2023tf.q4web.com)
- - date_published: 2024-09-04T01:23:02.418072+00:00
 

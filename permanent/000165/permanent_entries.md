@@ -1,3 +1,41 @@
+ ## Manuals Brain - all useful manuals at one place!
+ - [https://manualsbrain.com](https://manualsbrain.com)
+ - date_published: 2024-05-24T23:04:19.750595+00:00
+
+ ## collection MW, manual sequence .com by rafaël rozendaal, 2017
+ - [https://www.manualsequence.com](https://www.manualsequence.com)
+ - date_published: 2024-09-14T18:26:30+00:00
+
+ ## Manual Transmission: Shifting Gears as an Adult with Autism
+ - [http://manualtransmissionautism.com](http://manualtransmissionautism.com)
+ - date_published: 2024-09-01T03:07:27+00:00
+
+ ## Manheim Homepage
+ - [https://site.manheim.man-uat.com](https://site.manheim.man-uat.com)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Web Server's Default Page
+ - [http://manuelabadia.com](http://manuelabadia.com)
+ - date_published: 2022-10-21T05:33:56+00:00
+
+ ## The Laboratory of Manuel Bürger
+ - [http://manuelbuerger.com](http://manuelbuerger.com)
+ - date_published: 2024-07-13T15:03:44.006575+00:00
+
+ ## Manuel Lamas
+ - [https://manuellamas.com](https://manuellamas.com)
+ - date_published: 2023-11-29T19:26:31.952527+00:00
+ - tags: ['personal']
+
+ ## Manu – I write
+ - [https://manuelmoreale.com](https://manuelmoreale.com)
+ - date_published: 2023-10-25T15:55:29.728049+00:00
+ - tags: ['personal']
+
+ ## Manuel Oka | Photography
+ - [http://www.manueloka.com](http://www.manueloka.com)
+ - date_published: 2024-12-10T22:33:25.511045+00:00
+
  ## Uber77: Official Gaming Website Best Value Server
  - [http://manueltalens.com](http://manueltalens.com)
  - date_published: 2024-11-28T12:04:20+00:00
@@ -3995,40 +4033,4 @@
  ## Professional Loudspeakers & Sound Systems | Martin Audio
  - [https://martin-audio.com](https://martin-audio.com)
  - date_published: 2024-06-03T09:30:00+00:00
-
- ## Tech, Team Lead, Get Things Done | MartinBaun.com
- - [https://martinbaun.com](https://martinbaun.com)
- - date_published: 2024-05-12T06:42:49.391784+00:00
-
- ## martinbelam.com
- - [https://martinbelam.com](https://martinbelam.com)
- - date_published: 2024-05-02T12:27:53.974481+00:00
-
- ## Scottish landscape and portrait photographer
- - [https://martinbenniephotography.com](https://martinbenniephotography.com)
- - date_published: 2024-05-11T08:19:57.794592+00:00
-
- ## Martin Capodici – Software Developer
- - [https://martincapodici.com](https://martincapodici.com)
- - date_published: 2024-02-08T16:20:35.506574+00:00
-
- ## New AdaGIDE Home page
- - [http://adagide.martincarlisle.com](http://adagide.martincarlisle.com)
- - date_published: 2019-09-05T22:48:56+00:00
-
- ## Ada for .NET
- - [http://asharp.martincarlisle.com](http://asharp.martincarlisle.com)
- - date_published: 2012-05-16T13:43:03+00:00
-
- ## Ironsides
- - [https://ironsides.martincarlisle.com](https://ironsides.martincarlisle.com)
- - date_published: 2004-01-01T00:00:00+00:00
-
- ## Java Videos
- - [http://java.martincarlisle.com](http://java.martincarlisle.com)
- - date_published: 2013-05-23T21:52:36+00:00
-
- ## Martin Carlisle's Home Page
- - [https://martincarlisle.com](https://martincarlisle.com)
- - date_published: 2019-08-28T15:12:22+00:00
 

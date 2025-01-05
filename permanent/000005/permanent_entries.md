@@ -2556,6 +2556,10 @@
  - [http://www.mybudgetcoach.app](http://www.mybudgetcoach.app)
  - date_published: 2024-06-17T00:00:00+00:00
 
+ ## Grid >> End to End Encrypted Location Sharing App
+ - [https://www.mygrid.app](https://www.mygrid.app)
+ - date_published: 2025-01-04T22:37:46.668270+00:00
+
  ## My Little GPT
  - [https://mylittlegpt.app](https://mylittlegpt.app)
  - date_published: 2024-07-07T09:00:32.608778+00:00
@@ -4030,8 +4034,4 @@ The Album
  ## MeinPortfol.io
  - [https://zealous-thompson-415220.netlify.app](https://zealous-thompson-415220.netlify.app)
  - date_published: 2020-11-25T00:00:00+00:00
-
- ## Netron
- - [https://netron.app](https://netron.app)
- - date_published: 2024-06-15T00:00:00+00:00
 

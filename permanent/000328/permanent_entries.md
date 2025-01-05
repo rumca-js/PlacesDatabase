@@ -1,3 +1,55 @@
+ ## Welcome
+ - [http://iowa.gov](http://iowa.gov)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Missing Persons | Missing Person Information Clearinghouse
+ - [https://missingpersons.iowa.gov](https://missingpersons.iowa.gov)
+ - date_published: 2024-07-15T04:02:23+00:00
+
+ ## Making Good Government Better
+ - [https://ombudsman.iowa.gov](https://ombudsman.iowa.gov)
+ - date_published: 2024-12-22T16:02:33.855623+00:00
+
+ ## Iowa Precinct Election Officials
+ - [https://pollworker.iowa.gov](https://pollworker.iowa.gov)
+ - date_published: 2024-07-15T02:56:59.866593+00:00
+
+ ## Iowa Safe At Home
+ - [http://safeathome.iowa.gov](http://safeathome.iowa.gov)
+ - date_published: 2024-07-15T02:57:14.750026+00:00
+
+ ## Iowa Secretary of State - Paul D. Pate
+ - [https://sos.iowa.gov](https://sos.iowa.gov)
+ - date_published: 2024-05-12T04:52:50.693632+00:00
+
+ ## Voter Ready | A Guide To Voting In Iowa
+ - [https://voterready.iowa.gov](https://voterready.iowa.gov)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - Iowa Voter Education | Iowa Secretary of State
+ - [https://votingprocess.iowa.gov](https://votingprocess.iowa.gov)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Iowa Legislature
+ - [https://www.legis.iowa.gov](https://www.legis.iowa.gov)
+ - date_published: 2024-05-04T09:27:48.085960+00:00
+
+ ## | Iowa Department of Agriculture and Land Stewardship
+ - [https://iowaagriculture.gov](https://iowaagriculture.gov)
+ - date_published: 2024-06-20T05:31:47+00:00
+
+ ## Index
+ - [https://programs.iowadnr.gov](https://programs.iowadnr.gov)
+ - date_published: 2013-08-22T17:47:29+00:00
+
+ ## Iowa Department of Natural Resources
+ - [https://www.iowadnr.gov](https://www.iowadnr.gov)
+ - date_published: 2024-05-04T09:27:44.321383+00:00
+
+ ## The National Intellectual Property Rights Coordination Center — IPRCenter
+ - [http://www.iprcenter.gov](http://www.iprcenter.gov)
+ - date_published: 2024-07-27T00:00:00+00:00
+
  ## 403 | Internal Revenue Service
  - [https://apps.irs.gov](https://apps.irs.gov)
  - date_published: 2022-08-26T12:08:15+00:00
@@ -3968,56 +4020,4 @@
  ## El sitio web oficial del estado de Nueva York
  - [https://es.ny.gov](https://es.ny.gov)
  - date_published: 2024-07-14T04:45:01.902540+00:00
-
- ## Oficina de Asistencia Temporal y por Incapacidad
- - [https://es.otda.ny.gov](https://es.otda.ny.gov)
- - date_published: 2024-10-28T00:27:52.858090+00:00
-
- ## COVID-19
- - [https://forward.ny.gov](https://forward.ny.gov)
- - date_published: 2024-06-21T20:54:34+00:00
-
- ## Agriculture et marchés
- - [https://fr.agriculture.ny.gov](https://fr.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:20.077108+00:00
-
- ## COVID-19
- - [https://fr.coronavirus.health.ny.gov](https://fr.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:17.370963+00:00
-
- ## Accueil
- - [https://fr.dec.ny.gov](https://fr.dec.ny.gov)
- - date_published: 2024-07-14T04:45:49.307880+00:00
-
- ## Le site officiel du gouverneur Kathy Hochul
- - [https://fr.governor.ny.gov](https://fr.governor.ny.gov)
- - date_published: 2024-08-06T07:10:25.280693+00:00
-
- ## Le site officiel de l'État de New York
- - [https://fr.ny.gov](https://fr.ny.gov)
- - date_published: 2024-07-14T04:45:10.154471+00:00
-
- ## Bureau de l'assistance temporaire et de l'invalidité
- - [https://fr.otda.ny.gov](https://fr.otda.ny.gov)
- - date_published: 2024-10-28T00:28:13.142817+00:00
-
- ## The Official Website of Governor Kathy Hochul
- - [https://governor.ny.gov](https://governor.ny.gov)
- - date_published: 2024-04-29T03:12:36.486669+00:00
-
- ## NY Green Bank
- - [https://greenbank.ny.gov](https://greenbank.ny.gov)
- - date_published: 2024-07-04T13:01:23.953957+00:00
-
- ## State of New York | Open Data Health | State of New York
- - [https://health.data.ny.gov](https://health.data.ny.gov)
- - date_published: 2024-09-18T04:20:01.099923+00:00
-
- ## New York State Department of Health
- - [https://health.ny.gov](https://health.ny.gov)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Agrikilti ak Mache yo
- - [https://ht.agriculture.ny.gov](https://ht.agriculture.ny.gov)
- - date_published: 2024-09-18T20:17:56.615806+00:00
 

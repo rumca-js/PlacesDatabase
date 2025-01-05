@@ -1,3 +1,51 @@
+ ## Al Jahom's Final Word | Substack
+ - [https://aljahom.substack.com](https://aljahom.substack.com)
+ - date_published: 2024-10-21T16:07:02.670736+00:00
+
+ ## MOHAMMED JAMAL | Substack
+ - [https://aljamal.substack.com](https://aljamal.substack.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## All About Content... And AI | Sorab Ghaswalla | Substack
+ - [https://allaboutcontent.substack.com](https://allaboutcontent.substack.com)
+ - date_published: 2024-02-10T00:00:00+00:00
+
+ ## Allocators Asia | Kalani Scarrott | Substack
+ - [https://allocatorsasia.substack.com](https://allocatorsasia.substack.com)
+ - date_published: 2024-05-04T10:00:32.718941+00:00
+
+ ## All Rise with Sally Helgesen | Substack
+ - [https://allrise.substack.com](https://allrise.substack.com)
+ - date_published: 2024-12-27T19:28:47.278637+00:00
+
+ ## All Science Great & Small | Eric Fish, DVM, PhD | Substack
+ - [https://allscience.substack.com](https://allscience.substack.com)
+ - date_published: 2024-08-10T00:00:00+00:00
+
+ ## All the Care in the World with Shannon Weber | Substack
+ - [https://allthecareintheworld.substack.com](https://allthecareintheworld.substack.com)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Alone in the Labyrinth | Joe "Sofinho" Donovan | Substack
+ - [https://aloneinthelabyrinth.substack.com](https://aloneinthelabyrinth.substack.com)
+ - date_published: 2024-12-19T11:38:22.070567+00:00
+
+ ## The Always Checkers newsletter | Jason Price | Substack
+ - [https://alwayscheckers.substack.com](https://alwayscheckers.substack.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Education plus ... Challenging Mediocrity. | Alwyn Poole | Substack
+ - [https://alwynpoole.substack.com](https://alwynpoole.substack.com)
+ - date_published: 2024-10-31T22:50:12.179166+00:00
+
+ ## Aly-Khan’s Newsletter | Alykhan Satchu | Substack
+ - [https://alykhansatchu.substack.com](https://alykhansatchu.substack.com)
+ - date_published: 2024-05-01T02:33:25.870112+00:00
+
+ ## Aly Tadros | Substack
+ - [https://alytadros.substack.com](https://alytadros.substack.com)
+ - date_published: 2024-01-26T00:00:00+00:00
+
  ## The Menu | Amanda Natividad | Substack
  - [https://amandanat.substack.com](https://amandanat.substack.com)
  - date_published: 2024-06-21T10:55:11.604646+00:00
@@ -4049,52 +4097,4 @@
  - [https://headlineshq.substack.com](https://headlineshq.substack.com)
  - date_published: 2023-10-25T09:53:34.487257+00:00
  - tags: ['substack']
-
- ## The Healthy Dev | Tom White | Substack
- - [https://healthydev.substack.com](https://healthydev.substack.com)
- - date_published: 2024-06-01T04:51:57.145979+00:00
-
- ## Visually AI by Heather Cooper | Substack
- - [https://heatherbcooper.substack.com](https://heatherbcooper.substack.com)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Letters from an American | Heather Cox Richardson | Substack
- - [https://heathercoxrichardson.substack.com](https://heathercoxrichardson.substack.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## HEAVIES | Chris Gayomali | Substack
- - [https://heavies.substack.com](https://heavies.substack.com)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Henrik Wallin - All the useful stuff you need to know | Substack
- - [https://heddahenrik.substack.com](https://heddahenrik.substack.com)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## imperfect offerings | Helen Beetham | Substack
- - [https://helenbeetham.substack.com](https://helenbeetham.substack.com)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Not On Your Team, But Always Fair | Helen Dale | Substack
- - [https://helendale.substack.com](https://helendale.substack.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Wondering Freely | Helen De Cruz | Substack
- - [https://helendecruz.substack.com](https://helendecruz.substack.com)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Supply...., meet Demand | Iain Henderson | Substack
- - [https://hendersoni.substack.com](https://hendersoni.substack.com)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Aliveness Studies | Henry | Substack
- - [https://henryaj.substack.com](https://henryaj.substack.com)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Herbert's Highlights | Kaylee | Substack
- - [https://herbertshighlights.substack.com](https://herbertshighlights.substack.com)
- - date_published: 2024-05-08T04:05:07.968899+00:00
-
- ## Herb Sundays | Sam Valenti IV | Substack
- - [https://herbsundays.substack.com](https://herbsundays.substack.com)
- - date_published: 2024-04-24T00:00:00+00:00
 

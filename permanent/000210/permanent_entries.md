@@ -1,3 +1,62 @@
+ ## Broadcom Blogs
+ - [https://broadcom-software.security.com](https://broadcom-software.security.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Symantec Enterprise Blogs
+ - [https://symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com)
+ - date_published: 2023-10-25T17:01:22.426033+00:00
+
+ ## Security Affairs - Read, think, share … Security is everyone's responsibility
+ - [https://securityaffairs.com](https://securityaffairs.com)
+ - date_published: 2023-10-25T09:35:33.117030+00:00
+ - tags: ['security news']
+
+ ## Security and Fire Africa | The leading African Security and Fire news brand
+ - [https://securityafricamagazine.com](https://securityafricamagazine.com)
+ - date_published: 2024-09-24T22:50:09.130762+00:00
+
+ ## Home
+ - [https://securityboulevard.com](https://securityboulevard.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+ - tags: ['tech news']
+
+ ## Security Boulevard Chat Podcast | Techstrong Group
+ - [https://securityboulevardchats.com](https://securityboulevardchats.com)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## BSides / FrontPage
+ - [http://www.securitybsides.com](http://www.securitybsides.com)
+ - date_published: 2024-06-22T11:01:57.296422+00:00
+
+ ## Home | The Security Bulldog- AI for cybersecurity, it's about time.
+ - [https://securitybulldog.com](https://securitybulldog.com)
+ - date_published: 2024-06-19T19:23:55.295058+00:00
+
+ ## Security Cameras | IP Cameras | CCTV Video Surveillance Systems
+ - [https://securitycameraking.com](https://securitycameraking.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+ - tags: ['surveillance system']
+
+ ## Book - Security Chaos Engineering: Sustaining Resilience in Software and Systems
+ - [https://www.securitychaoseng.com](https://www.securitychaoseng.com)
+ - date_published: 2023-05-02T01:21:15+00:00
+
+ ## Home
+ - [https://securitycompass.com](https://securitycompass.com)
+ - date_published: 2024-10-31T07:05:44.215026+00:00
+
+ ## Home
+ - [https://trk.securitycompass.com](https://trk.securitycompass.com)
+ - date_published: 2024-10-31T07:05:41.062534+00:00
+
+ ## Security Cryptography Whatever
+ - [https://merch.securitycryptographywhatever.com](https://merch.securitycryptographywhatever.com)
+ - date_published: 2024-07-14T04:47:14.061410+00:00
+
+ ## Security Cryptography Whatever
+ - [https://securitycryptographywhatever.com](https://securitycryptographywhatever.com)
+ - date_published: 2024-05-11T09:25:41.479273+00:00
+
  ## Security Degree Hub - Everything you need to know for a career in Security - Security Degree Hub
  - [https://www.securitydegreehub.com](https://www.securitydegreehub.com)
  - date_published: 2024-06-20T04:02:58.697514+00:00
@@ -3982,60 +4041,4 @@ American Coins by Daniel Frank Sedwick, LLC
  ## Serveur Windows - RD medias
  - [http://serveur-windows.com](http://serveur-windows.com)
  - date_published: 2024-04-28T04:54:14.620995+00:00
-
- ## Servgrow: Premier Field Service Management Software
- - [https://www.servgrow.com](https://www.servgrow.com)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Cognizant Servian
- - [https://www.servian.com](https://www.servian.com)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://www.service-analytics.com](https://www.service-analytics.com)
- - date_published: 2024-07-14T05:39:03.725826+00:00
-
- ## ServiceBell | Video Live Chat | AI Parallel Dialer | Allbound Platform
- - [https://www.servicebell.com](https://www.servicebell.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Homepage
- - [https://servicechannel.com](https://servicechannel.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Service First Permits
- - [https://servicefirstpermits.com](https://servicefirstpermits.com)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Serviceform
- - [https://dash.serviceform.com](https://dash.serviceform.com)
- - date_published: 2024-07-09T15:43:42.960510+00:00
-
- ## Customer Service Kiosks | Smart & Seamless Feedback Solution - ServiceGuru Platform
- - [https://www.serviceguru.com](https://www.serviceguru.com)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Service In Sync - All In One Service Business Software and Scheduling Software
- - [https://www.serviceinsync.com](https://www.serviceinsync.com)
- - date_published: 2024-06-19T20:39:26.923352+00:00
-
- ## Servicelovers
- - [https://servicelovers.com](https://servicelovers.com)
- - date_published: 2024-07-02T17:50:54.044191+00:00
-
- ## Homepage | ServiceMaster
- - [https://www.servicemaster.com](https://www.servicemaster.com)
- - date_published: 2024-12-13T17:36:11.725101+00:00
-
- ## ServiceNow
- - [https://6dg.service-now.com](https://6dg.service-now.com)
- - date_published: 2024-07-10T02:56:11.901828+00:00
-
- ## Productivity Platform
- - [https://adobe.service-now.com](https://adobe.service-now.com)
- - date_published: 2024-09-16T07:15:12.297967+00:00
-
- ## AEMO  Enterprise Service Management
- - [https://aemo.service-now.com](https://aemo.service-now.com)
- - date_published: 2024-09-16T21:46:40.800660+00:00
 

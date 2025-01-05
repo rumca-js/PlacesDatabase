@@ -1,3 +1,71 @@
+ ## Crypto Investment Platform For New Investors - Veli App
+ - [https://veli.io](https://veli.io)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Velocity — Institutional Finance Summit
+ - [https://www.velocitysummit.io](https://www.velocitysummit.io)
+ - date_published: 2024-09-24T10:58:38.293593+00:00
+
+ ## velog
+ - [https://velog.io](https://velog.io)
+ - date_published: 2024-05-06T14:17:55.842331+00:00
+
+ ## Hello from Velox | Velox
+ - [https://velox-lib.io](https://velox-lib.io)
+ - date_published: 2024-10-16T05:46:59.410673+00:00
+
+ ## E-commerce platform with many integrated possibilities
+ - [https://vendre.io](https://vendre.io)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Match with the Best Marketing Agencies
+ - [https://vendry.io](https://vendry.io)
+ - date_published: 2024-12-26T15:41:26.398577+00:00
+
+ ## Vendure Demo
+ - [https://demo.vendure.io](https://demo.vendure.io)
+ - date_published: 2024-04-15T14:33:37+00:00
+
+ ## Built for customization | Headless Commerce Platform
+ - [https://vendure.io](https://vendure.io)
+ - date_published: 2024-08-06T21:09:08.497149+00:00
+
+ ## Play Venge.io!
+ - [https://venge.io](https://venge.io)
+ - date_published: 2024-07-12T17:21:49.879152+00:00
+
+ ## Venidium Blockchain Network
+ - [https://venidium.io](https://venidium.io)
+ - date_published: 2023-06-23T00:00:00+00:00
+
+ ## Book you meeting or demo with Venly
+ - [https://contact.venly.io](https://contact.venly.io)
+ - date_published: 2024-10-29T21:19:01+00:00
+
+ ## Welcome to Venly!
+ - [https://docs.venly.io](https://docs.venly.io)
+ - date_published: 2024-10-31T15:09:08.306271+00:00
+
+ ## Venly | Web3 Developer Portal - Streamline Web3 development
+ - [https://portal.venly.io](https://portal.venly.io)
+ - date_published: 2024-10-31T15:09:10.278311+00:00
+
+ ## Venly status
+ - [https://status.venly.io](https://status.venly.io)
+ - date_published: 2024-10-31T15:09:11.690482+00:00
+
+ ## Support
+ - [https://support.venly.io](https://support.venly.io)
+ - date_published: 2024-10-31T15:08:57.468642+00:00
+
+ ## Venly | The Web3 platform for developers, with secure APIs & SDKs
+ - [https://venly.io](https://venly.io)
+ - date_published: 2024-12-13T08:33:38+00:00
+
+ ## Manufacturing Automation, Simplified | Vention
+ - [https://vention.io](https://vention.io)
+ - date_published: 2024-06-10T13:12:44.712582+00:00
+
  ## Venus Protocol
  - [https://venus.io](https://venus.io)
  - date_published: 2024-09-04T11:58:44.456704+00:00
@@ -3958,72 +4026,4 @@
  ## benwis
  - [https://benw.is](https://benw.is)
  - date_published: 2024-03-18T00:00:00+00:00
-
- ## bep.is
- - [https://bep.is](https://bep.is)
- - date_published: 2023-12-11T19:35:19.268112+00:00
-
- ## Háskólinn á Bifröst - Forsíða
- - [https://www.bifrost.is](https://www.bifrost.is)
- - date_published: 2024-06-21T11:11:53.688771+00:00
-
- ## URL Shortener - Short URLs & Custom Free Link Shortener | Bitly
- - [https://bitly.is](https://bitly.is)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Blái Skjöldurinn
- - [http://blaiskjoldurinn.is](http://blaiskjoldurinn.is)
- - date_published: 2024-07-09T14:23:46.052868+00:00
-
- ## Leikjanördabloggið - kiddo.blog.is
- - [http://kiddo.blog.is](http://kiddo.blog.is)
- - date_published: 2024-08-07T09:13:47.463870+00:00
-
- ## Home - Bram Smulders, Front-end UI developer
- - [https://bram.is](https://bram.is)
- - date_published: 2024-05-11T10:10:45.355341+00:00
-
- ## Breið Þróunarfélag | Höfn hugmynda | Bárugata 8-10, Akranes, Iceland
- - [https://www.breid.is](https://www.breid.is)
- - date_published: 2024-02-10T00:00:00+00:00
-
- ## Brett.is
- - [https://brett.is](https://brett.is)
- - date_published: 2021-01-03T19:45:52+00:00
-
- ## Notaðir bílar | Brimborg
- - [https://notadir.brimborg.is](https://notadir.brimborg.is)
- - date_published: 2024-07-11T19:00:50.160569+00:00
-
- ## Nýir bílar | Brimborg
- - [https://nyirbilar.brimborg.is](https://nyirbilar.brimborg.is)
- - date_published: 2024-05-10T04:45:28.247318+00:00
-
- ## Brimborg bílaumboð | Ford Volvo Mazda Citroën Peugeot Opel Polestar | Volvo atvinnutæki
- - [https://www.brimborg.is](https://www.brimborg.is)
- - date_published: 2024-07-11T19:00:53.251966+00:00
-
- ## Office Printers | Business Solutions | Brother
- - [https://www.brother.is](https://www.brother.is)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Business Iceland
- - [https://www.businessiceland.is](https://www.businessiceland.is)
- - date_published: 2024-06-27T17:29:19.179446+00:00
-
- ## BYLGJAN | Hlustaðu í beinni og á upptökur
- - [https://bylgjan.is](https://bylgjan.is)
- - date_published: 2024-05-06T15:13:46.912040+00:00
-
- ## Canopy: Leadership Improvement | Manager Training
- - [https://canopy.is](https://canopy.is)
- - date_published: 2024-06-23T07:41:57.262241+00:00
-
- ## Canopy Perform Help Center
- - [https://help.canopy.is](https://help.canopy.is)
- - date_published: 2024-06-23T07:42:00.903643+00:00
-
- ## Canopy Newsletter | Claire Lew | Substack
- - [https://newsletter.canopy.is](https://newsletter.canopy.is)
- - date_published: 2024-06-20T00:00:00+00:00
 

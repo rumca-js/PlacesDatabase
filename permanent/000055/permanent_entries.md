@@ -1,3 +1,15 @@
+ ## CINE, by Cavalier & Child Actor
+ - [https://cavaliervmc.bandcamp.com](https://cavaliervmc.bandcamp.com)
+ - date_published: 2024-12-26T22:07:43.647954+00:00
+
+ ## cavsas
+ - [https://cavsas.bandcamp.com](https://cavsas.bandcamp.com)
+ - date_published: 2024-12-27T01:28:31.513131+00:00
+
+ ## 02 RUIN, by CD-ROMantix
+ - [https://cdromantix.bandcamp.com](https://cdromantix.bandcamp.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## C Duncan
  - [https://cduncan.bandcamp.com](https://cduncan.bandcamp.com)
  - date_published: 2024-12-27T05:01:24.518058+00:00
@@ -3985,16 +3997,4 @@
  ## Goya
  - [https://goya-music.bandcamp.com](https://goya-music.bandcamp.com)
  - date_published: 2024-12-26T22:39:39.647937+00:00
-
- ## Ramona, by Grace Cummings
- - [https://gracecummings.bandcamp.com](https://gracecummings.bandcamp.com)
- - date_published: 2024-12-26T21:51:39.674467+00:00
-
- ## GRACE
- - [https://gracelabel.bandcamp.com](https://gracelabel.bandcamp.com)
- - date_published: 2024-12-27T01:06:26.079690+00:00
-
- ## Bells & White Branches, by Gracie Terzian
- - [https://gracieterzian.bandcamp.com](https://gracieterzian.bandcamp.com)
- - date_published: 2024-12-23T06:47:58.716018+00:00
 

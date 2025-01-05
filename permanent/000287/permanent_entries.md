@@ -1,3 +1,51 @@
+ ## SoPlex
+ - [http://soplex.zib.de](http://soplex.zib.de)
+ - date_published: 2024-10-16T06:10:40.270390+00:00
+
+ ## UG
+ - [http://ug.zib.de](http://ug.zib.de)
+ - date_published: 2024-10-16T06:09:25.920844+00:00
+
+ ## Home | zib.de
+ - [https://www.zib.de](https://www.zib.de)
+ - date_published: 2024-05-04T15:14:50.864936+00:00
+
+ ## ZIMPL
+ - [http://zimpl.zib.de](http://zimpl.zib.de)
+ - date_published: 2024-06-17T03:06:17.432785+00:00
+
+ ## Home - Konrad Zuse Internet Archive
+ - [http://zuse-z1.zib.de](http://zuse-z1.zib.de)
+ - date_published: 2015-03-16T16:12:59+00:00
+
+ ## Konrad Zuse Internet Archive - Home
+ - [http://zuse.zib.de](http://zuse.zib.de)
+ - date_published: 2024-07-14T16:32:17.669454+00:00
+
+ ## Raum für Neues
+ - [http://zieglerbuerg.de](http://zieglerbuerg.de)
+ - date_published: 2021-05-31T20:12:01+00:00
+
+ ## LAN Party in Zittau - Das Original seit 2001 - www.zi-lan.de
+ - [http://zi-lan.de](http://zi-lan.de)
+ - date_published: 2024-07-24T04:42:17.934713+00:00
+
+ ## Zentralinstitut für Seelische Gesundheit
+ - [https://www.zi-mannheim.de](https://www.zi-mannheim.de)
+ - date_published: 2024-08-19T19:24:05.530713+00:00
+
+ ## zimpel - die PR-Software und Mediendatenbank
+ - [https://www.zimpel-online.de](https://www.zimpel-online.de)
+ - date_published: 2024-06-26T07:49:15.054310+00:00
+
+ ## ZITATE-ONLINE.DE +++ Starke Sprüche - treffende Zitate +++ Sprichwörter +++ Zitat des Tages +++ Forum +++ Lieblingszitate verwalten u.v.m.
+ - [https://zitate-online.de](https://zitate-online.de)
+ - date_published: 2024-04-29T06:31:46.394671+00:00
+
+ ## Startseite | Zix
+ - [https://zix.de](https://zix.de)
+ - date_published: 2024-09-16T01:29:11.865116+00:00
+
  ## ZKI e.V.: Home
  - [https://www.zki.de](https://www.zki.de)
  - date_published: 2024-05-12T00:00:00+00:00
@@ -4005,52 +4053,4 @@
  ## CubeSigner, a refreshingly secure key manager
  - [https://cubist.dev](https://cubist.dev)
  - date_published: 2023-11-02T07:07:07+00:00
-
- ## Home | Cubxity — Full-stack Developer
- - [https://cubxity.dev](https://cubxity.dev)
- - date_published: 2023-10-25T18:37:05.670677+00:00
-
- ## Home | Cubxity's Docs
- - [https://docs.cubxity.dev](https://docs.cubxity.dev)
- - date_published: 2024-04-29T07:34:08.620870+00:00
-
- ## CuCoders | La plataforma de los programadores cubanos
- - [https://cucoders.dev](https://cucoders.dev)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## culp.dev
- - [https://culp.dev](https://culp.dev)
- - date_published: 2024-07-22T14:17:49+00:00
-
- ## Cup o' Go
- - [https://cupogo.dev](https://cupogo.dev)
- - date_published: 2024-08-19T17:24:26.191860+00:00
-
- ## CuPy
- - [https://cupy.dev](https://cupy.dev)
- - date_published: 2024-01-18T04:51:34+00:00
-
- ## Introduction - Everything curl
- - [https://everything.curl.dev](https://everything.curl.dev)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## README | Uncurled
- - [https://un.curl.dev](https://un.curl.dev)
- - date_published: 2024-04-10T12:32:31.612144+00:00
-
- ## Currents.dev
- - [https://app.currents.dev](https://app.currents.dev)
- - date_published: 2024-04-29T07:34:11.855164+00:00
-
- ## Feedback - Currents
- - [https://changelog.currents.dev](https://changelog.currents.dev)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Cypress and Playwright Dashboard. Debug, deflake and analyse CI tests in Cloud.
- - [https://currents.dev](https://currents.dev)
- - date_published: 2023-10-25T18:37:07.754644+00:00
-
- ## Join Curvenote on Slack
- - [https://slack.curvenote.dev](https://slack.curvenote.dev)
- - date_published: 2024-04-14T00:00:00+00:00
 

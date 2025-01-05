@@ -1,3 +1,45 @@
+ ## Mike Starling - Words & Music
+ - [http://mikestarling.com](http://mikestarling.com)
+ - date_published: 2024-06-29T19:56:45.848339+00:00
+
+ ## I love computers
+ - [https://mikesteder.com](https://mikesteder.com)
+ - date_published: 2023-10-25T16:03:58.740409+00:00
+
+ ## Mike Sukmanowsky's Personal Site
+ - [https://mikesukmanowsky.com](https://mikesukmanowsky.com)
+ - date_published: 2023-10-25T16:03:59.932190+00:00
+ - tags: ['personal']
+
+ ## Mike Swanson's Blog
+ - [https://blog.mikeswanson.com](https://blog.mikeswanson.com)
+ - date_published: 2023-10-25T16:04:02.873353+00:00
+
+ ## Mike Taylor, y'all 🍔
+ - [https://miketaylr.com](https://miketaylr.com)
+ - date_published: 2023-10-25T16:04:04.907429+00:00
+ - tags: ['personal']
+
+ ## Mike The Architect
+ - [http://www.mikethearchitect.com](http://www.mikethearchitect.com)
+ - date_published: 2024-08-18T03:40:06.748620+00:00
+
+ ## Mike the Mad Biologist
+ - [http://mikethemadbiologist.com](http://mikethemadbiologist.com)
+ - date_published: 2024-07-16T17:24:57+00:00
+
+ ## Mike Troxell
+ - [https://miketroxell.com](https://miketroxell.com)
+ - date_published: 2024-06-15T03:03:18.715287+00:00
+
+ ## Login
+ - [https://aspencore.mike-x.com](https://aspencore.mike-x.com)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Login
+ - [https://mikecdn2-aspencore.mike-x.com](https://mikecdn2-aspencore.mike-x.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
  ## Mikey Likes It Ice Cream
  - [https://mikeylikesiticecream.com](https://mikeylikesiticecream.com)
  - date_published: 2024-09-16T09:50:02.233564+00:00
@@ -1764,6 +1806,10 @@
  ## Mini League Mate
  - [https://www.minileaguemate.com](https://www.minileaguemate.com)
  - date_published: 2024-10-29T08:36:29.469820+00:00
+
+ ## Minimado - Minimalist task management tool with command line features
+ - [https://minimado.com](https://minimado.com)
+ - date_published: 2025-01-04T22:04:03.494776+00:00
 
  ## minimal changes
  - [https://minimalchanges.com](https://minimalchanges.com)
@@ -3990,49 +4036,4 @@
  ## Manuele J Sarfatti
  - [http://mjsarfatti.com](http://mjsarfatti.com)
  - date_published: 2024-03-19T00:00:00+00:00
-
- ## mjslackbot.com - mjslackbot Zasoby i informacje.
- - [https://www.mjslackbot.com](https://www.mjslackbot.com)
- - date_published: 2024-06-19T19:53:52+00:00
-
- ## Grid Splitter Midjourney - Free tool
- - [https://www.mjsplitter.com](https://www.mjsplitter.com)
- - date_published: 2024-06-19T20:52:10.931292+00:00
-
- ## MJ's Pizza Bar & Grill Restaurant
- - [https://www.mjsrestaurant.com](https://www.mjsrestaurant.com)
- - date_published: 2024-03-15T15:46:08+00:00
-
- ## mjswensen.com
- - [https://mjswensen.com](https://mjswensen.com)
- - date_published: 2023-06-11T00:00:00+00:00
-
- ## Michael’s NH and VT Hiking
- - [https://hiking.mjtsai.com](https://hiking.mjtsai.com)
- - date_published: 2024-08-19T07:36:20.399473+00:00
-
- ## Michael Tsai - Good Evening
- - [https://mjtsai.com](https://mjtsai.com)
- - date_published: 2023-10-25T16:05:23.023112+00:00
-
- ## Contact Michael
- - [https://contact.mjulius.com](https://contact.mjulius.com)
- - date_published: 2024-04-22T03:37:39.552456+00:00
-
- ## Michael Julius
- - [https://mjulius.com](https://mjulius.com)
- - date_published: 2024-04-22T06:05:53+00:00
- - tags: ['personal']
-
- ## Michael Now
- - [https://now.mjulius.com](https://now.mjulius.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Mjuuk
- - [https://www.mjuuk.com](https://www.mjuuk.com)
- - date_published: 2024-06-25T16:34:05.379629+00:00
-
- ## Home | Mike Weaver
- - [https://mjweaver01.com](https://mjweaver01.com)
- - date_published: 2024-03-29T14:57:15+00:00
 

@@ -1,3 +1,91 @@
+ ## OV-chipkaart
+ - [https://ov-chipkaart.softonic.nl](https://ov-chipkaart.softonic.nl)
+ - date_published: 2024-08-03T14:49:46.178375+00:00
+
+ ## Pair Horror
+ - [https://pair-horror.softonic.nl](https://pair-horror.softonic.nl)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Peer2Profit - Earn Money
+ - [https://peer2profit-earn-money.softonic.nl](https://peer2profit-earn-money.softonic.nl)
+ - date_published: 2024-08-03T14:49:41.827449+00:00
+
+ ## Player GR - Offline Music Play
+ - [https://player-gr-offline-music-play.softonic.nl](https://player-gr-offline-music-play.softonic.nl)
+ - date_published: 2024-08-03T14:49:20.141282+00:00
+
+ ## Pochemeow Pro
+ - [https://pochemeow.softonic.nl](https://pochemeow.softonic.nl)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## RollZ (by Hecate Ediciones)
+ - [https://rollz-hecate-ediciones.softonic.nl](https://rollz-hecate-ediciones.softonic.nl)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## RubyTales-Book Lovers Haven
+ - [https://rubytales-book-lovers-haven.softonic.nl](https://rubytales-book-lovers-haven.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## さいたま市みんなのアプリ
+ - [https://saitamashi-minnanoapuri.softonic.nl](https://saitamashi-minnanoapuri.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Samsung Ringtones
+ - [https://samsung-ringtones-ie4.softonic.nl](https://samsung-ringtones-ie4.softonic.nl)
+ - date_published: 2024-08-03T14:47:57.836636+00:00
+
+ ## Santa Claus Icons
+ - [https://santa-claus-icons.softonic.nl](https://santa-claus-icons.softonic.nl)
+ - date_published: 2024-08-03T14:46:30.558692+00:00
+
+ ## SHAREit
+ - [https://shareit.softonic.nl](https://shareit.softonic.nl)
+ - date_published: 2024-08-03T14:50:08.044054+00:00
+
+ ## Skeletal System Pro III
+ - [https://skeletal-system-pro-iii.softonic.nl](https://skeletal-system-pro-iii.softonic.nl)
+ - date_published: 2024-08-03T14:46:50.110401+00:00
+
+ ## Smart IPTV Xtream Player
+ - [https://smart-iptv-xtream-player.softonic.nl](https://smart-iptv-xtream-player.softonic.nl)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Snapseed
+ - [https://snapseed.softonic.nl](https://snapseed.softonic.nl)
+ - date_published: 2024-08-03T14:48:45.033057+00:00
+
+ ## Beste softwaredownloads, beoordelingen en nieuws over apps - Softonic
+ - [https://softonic.nl](https://softonic.nl)
+ - date_published: 2024-04-29T05:13:23.030179+00:00
+
+ ## Sonma Typing-Expert
+ - [https://sonma-typing-expert.softonic.nl](https://sonma-typing-expert.softonic.nl)
+ - date_published: 2024-08-03T14:49:07.406858+00:00
+
+ ## Sports Sports NETFLIX
+ - [https://sports-sports-netflix.softonic.nl](https://sports-sports-netflix.softonic.nl)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Tavern Talk
+ - [https://tavern-talk.softonic.nl](https://tavern-talk.softonic.nl)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## TubeMate 2
+ - [https://tubemate-2.softonic.nl](https://tubemate-2.softonic.nl)
+ - date_published: 2024-08-03T14:46:08.311197+00:00
+
+ ## uBlock Origin
+ - [https://ublock-origin.softonic.nl](https://ublock-origin.softonic.nl)
+ - date_published: 2024-08-03T14:47:25.547307+00:00
+
+ ## UC Browser Mini
+ - [https://uc-browser-mini.softonic.nl](https://uc-browser-mini.softonic.nl)
+ - date_published: 2024-08-03T14:48:43.336442+00:00
+
+ ## UC Browser
+ - [https://uc-browser.softonic.nl](https://uc-browser.softonic.nl)
+ - date_published: 2024-08-03T14:47:48.403089+00:00
+
  ## VeraCrypt
  - [https://veracrypt.softonic.nl](https://veracrypt.softonic.nl)
  - date_published: 2024-08-03T14:46:42.438671+00:00
@@ -3920,93 +4008,4 @@
  ## Censorship.no! - Browse Freely
  - [https://censorship.no](https://censorship.no)
  - date_published: 2024-06-13T18:23:30+00:00
-
- ## Dermatolog-anbefalt merke for sensitiv hudpleie | Cetaphil NO
- - [https://www.cetaphil.no](https://www.cetaphil.no)
- - date_published: 2024-10-30T23:03:42.248945+00:00
-
- ## Checkin — The accountant’s choice
- - [https://app.checkin.no](https://app.checkin.no)
- - date_published: 2024-06-18T06:58:19.547802+00:00
-
- ## Checkin — påmeldingssystemet som er regnskapets bestevenn
- - [https://checkin.no](https://checkin.no)
- - date_published: 2024-08-15T02:25:52+00:00
-
- ## chiru.no
- - [https://chiru.no](https://chiru.no)
- - date_published: 2024-02-15T22:14:45.216586+00:00
- - tags: ['demoscene']
-
- ## ChrisTech AS
- - [http://christech.no](http://christech.no)
- - date_published: 2024-08-10T23:52:30.667934+00:00
-
- ## Cision | PR Software, Marketing, and Media Relations
- - [https://www.cision.no](https://www.cision.no)
- - date_published: 2024-06-29T00:11:47+00:00
-
- ## Verkstedsbestilling Bertel O. Steen
- - [https://booking.citroen.no](https://booking.citroen.no)
- - date_published: 2024-08-12T15:47:10+00:00
-
- ## Citroën Norge | Nye biler, suv, elbiler
- - [https://citroen.no](https://citroen.no)
- - date_published: 2023-12-11T16:03:37.113883+00:00
-
- ## Citroën Norge |  Kontakt oss
- - [https://kontaktoss.citroen.no](https://kontaktoss.citroen.no)
- - date_published: 2024-08-18T11:04:40.371570+00:00
-
- ## Citroën
- - [https://services-store.citroen.no](https://services-store.citroen.no)
- - date_published: 2024-08-18T11:04:37.361103+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.no](https://www.citroenorigins.no)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## Christian Johansen - Software developer, musician, amateur baker
- - [https://cjohansen.no](https://cjohansen.no)
- - date_published: 2023-09-17T00:00:00+00:00
-
- ## ClassPass | Book Fitness Classes & Salon Appointments
- - [https://classpass.no](https://classpass.no)
- - date_published: 2024-07-13T02:24:59.129399+00:00
-
- ## IT konsulenter | Innovasjon | Oslo | Cloudberries
- - [https://www.cloudberries.no](https://www.cloudberries.no)
- - date_published: 2024-08-17T23:50:41.068365+00:00
-
- ## Cloudworks | Vi finner den beste IAM-løsningen for din bedrift
- - [https://www.cloudworks.no](https://www.cloudworks.no)
- - date_published: 2024-08-14T00:25:19+00:00
-
- ## Agronetto Norge – en online-markedsplass for landbruksmaskiner og reservedeler
- - [https://agronetto.co.no](https://agronetto.co.no)
- - date_published: 2024-08-11T15:43:13.339195+00:00
-
- ## Online børsmegling | Lave gebyrer | Trading | Megler DEGIRO
- - [https://www.degiro.co.no](https://www.degiro.co.no)
- - date_published: 2024-05-22T06:21:44+00:00
-
- ## IBAN Checker: International Bank Account Number validering
- - [https://www.iban.co.no](https://www.iban.co.no)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Coast Contemporary
- - [https://coastcontemporary.no](https://coastcontemporary.no)
- - date_published: 2024-07-10T10:35:02.109892+00:00
-
- ## FIRST TC Oslo: Cold Incident Response
- - [https://www.coldincidentresponse.no](https://www.coldincidentresponse.no)
- - date_published: 2024-09-02T13:24:24.320267+00:00
-
- ## Compositae
- - [https://compositae.no](https://compositae.no)
- - date_published: 2024-07-20T10:23:39.577678+00:00
-
- ## ConocoPhillips Norway
- - [https://www.conocophillips.no](https://www.conocophillips.no)
- - date_published: 2024-08-20T00:00:00+00:00
 

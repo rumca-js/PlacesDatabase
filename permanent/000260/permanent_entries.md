@@ -1,3 +1,51 @@
+ ## ArtCraft Studio Show
+ - [http://artcraftstudio.wordpress.com](http://artcraftstudio.wordpress.com)
+ - date_published: 2024-06-28T14:07:08.099466+00:00
+
+ ## LEONEL MOURA ARTe
+ - [http://arte2.wordpress.com](http://arte2.wordpress.com)
+ - date_published: 2024-12-31T19:36:18.693251+00:00
+
+ ## DRESSING THE LINES
+ - [https://arteis.wordpress.com](https://arteis.wordpress.com)
+ - date_published: 2024-12-31T14:44:03.379757+00:00
+
+ ## Rembrandt's Room
+ - [http://arthistoriesroom.wordpress.com](http://arthistoriesroom.wordpress.com)
+ - date_published: 2024-06-24T09:23:39.935279+00:00
+
+ ## Art History Ramblings
+ - [http://arthistoryramblings.wordpress.com](http://arthistoryramblings.wordpress.com)
+ - date_published: 2024-06-26T21:42:47.796896+00:00
+
+ ## Arthropoda
+ - [https://arthropoda.wordpress.com](https://arthropoda.wordpress.com)
+ - date_published: 2024-10-19T05:15:39.387017+00:00
+
+ ## Artifactum
+ - [http://artifactum.wordpress.com](http://artifactum.wordpress.com)
+ - date_published: 2024-06-28T14:22:06.221505+00:00
+
+ ## Arting.me by Irena Ellis
+ - [https://artingdotme1.wordpress.com](https://artingdotme1.wordpress.com)
+ - date_published: 2024-08-18T08:57:29.163750+00:00
+
+ ## Art in Seoul
+ - [https://artinseoul.wordpress.com](https://artinseoul.wordpress.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## --\/--
+ - [https://artishq.wordpress.com](https://artishq.wordpress.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Artist Quote of the Day
+ - [https://artistquoteoftheday.wordpress.com](https://artistquoteoftheday.wordpress.com)
+ - date_published: 2025-01-01T05:36:21.121987+00:00
+
+ ## Private Site
+ - [http://artmodel.wordpress.com](http://artmodel.wordpress.com)
+ - date_published: 2024-06-24T09:29:31.566069+00:00
+
  ## Art Passions
  - [https://artpassions.wordpress.com](https://artpassions.wordpress.com)
  - date_published: 2024-12-12T19:17:41.104613+00:00
@@ -3960,52 +4008,4 @@
  ## Enemies of Creed
  - [https://davidmayerwriting.wordpress.com](https://davidmayerwriting.wordpress.com)
  - date_published: 2024-06-27T03:01:02.059127+00:00
-
- ## davidneat
- - [https://davidneat.wordpress.com](https://davidneat.wordpress.com)
- - date_published: 2024-10-31T18:52:43.131212+00:00
-
- ## David Owens Philosophy
- - [https://davidowensphilosophy.wordpress.com](https://davidowensphilosophy.wordpress.com)
- - date_published: 2024-06-23T09:42:21.158255+00:00
-
- ## Benvinguts, passeu passeu
- - [https://davidplanella.wordpress.com](https://davidplanella.wordpress.com)
- - date_published: 2024-09-21T22:51:28.055569+00:00
-
- ## David teaches
- - [https://davidteaches.wordpress.com](https://davidteaches.wordpress.com)
- - date_published: 2024-06-13T21:37:15.201132+00:00
-
- ## David Valeri's Blog
- - [https://davidvaleri.wordpress.com](https://davidvaleri.wordpress.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Key & Compass Blog
- - [https://davidwelbourn.wordpress.com](https://davidwelbourn.wordpress.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## DZB's blog
- - [http://davidzb.wordpress.com](http://davidzb.wordpress.com)
- - date_published: 2024-06-30T08:50:31.133770+00:00
-
- ## DavisW's Blog
- - [http://davisw.wordpress.com](http://davisw.wordpress.com)
- - date_published: 2024-06-27T06:49:39.486084+00:00
-
- ## dawnyaclarine
- - [https://dawnyaclarine.wordpress.com](https://dawnyaclarine.wordpress.com)
- - date_published: 2024-05-01T04:16:34.259457+00:00
-
- ## chasing shadows again
- - [http://dazedkitsune.wordpress.com](http://dazedkitsune.wordpress.com)
- - date_published: 2024-12-31T17:23:11.589859+00:00
-
- ## DarrenBarefoot.com
- - [https://dbarefoot.wordpress.com](https://dbarefoot.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Dan Berard
- - [https://dberarddotcom.wordpress.com](https://dberarddotcom.wordpress.com)
- - date_published: 2024-07-11T15:23:05.839631+00:00
 

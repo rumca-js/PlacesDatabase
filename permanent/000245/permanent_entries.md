@@ -1,3 +1,47 @@
+ ## Bear Lord of the Multiverse
+ - [https://tanknspank.tumblr.com](https://tanknspank.tumblr.com)
+ - date_published: 2024-06-26T10:11:40.073536+00:00
+
+ ## Tara Sim
+ - [https://tarasimauthor.tumblr.com](https://tarasimauthor.tumblr.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Tumblr
+ - [https://tariqah.tumblr.com](https://tariqah.tumblr.com)
+ - date_published: 2024-12-13T10:46:08.696697+00:00
+
+ ## Tarmika_art
+ - [https://tarmika-art.tumblr.com](https://tarmika-art.tumblr.com)
+ - date_published: 2024-10-16T09:31:06.653899+00:00
+
+ ## Tastefully Offensive
+ - [https://tastefullyoffensive.tumblr.com](https://tastefullyoffensive.tumblr.com)
+ - date_published: 2024-12-13T09:35:18.084842+00:00
+
+ ## The Daily Shoggoth
+ - [http://tasty-salamanders.tumblr.com](http://tasty-salamanders.tumblr.com)
+ - date_published: 2024-07-11T14:04:14.336443+00:00
+
+ ## 🤖
+ - [https://tatangadragon.tumblr.com](https://tatangadragon.tumblr.com)
+ - date_published: 2024-12-13T11:17:21.842920+00:00
+
+ ## bad taxidermy
+ - [http://taxipsychy.tumblr.com](http://taxipsychy.tumblr.com)
+ - date_published: 2024-12-22T08:40:25.477618+00:00
+
+ ## Tax "gunk" Payer
+ - [https://tax--payer.tumblr.com](https://tax--payer.tumblr.com)
+ - date_published: 2024-12-13T10:18:03.821785+00:00
+
+ ## Taylor Krahenbuhl
+ - [https://taylorkrahenbuhl.tumblr.com](https://taylorkrahenbuhl.tumblr.com)
+ - date_published: 2024-12-31T06:14:39.322325+00:00
+
+ ## Taylor Swift
+ - [https://taylorswift.tumblr.com](https://taylorswift.tumblr.com)
+ - date_published: 2024-05-02T10:29:57.933586+00:00
+
  ## Tumblr
  - [https://tazdelightful.tumblr.com](https://tazdelightful.tumblr.com)
  - date_published: 2024-05-06T20:41:59.667936+00:00
@@ -3969,48 +4013,4 @@ Students
  ## AI-Powered Engineering Services, LLM Training, Teams | Turing
  - [https://turing.com](https://turing.com)
  - date_published: 2024-07-02T17:20:30.067234+00:00
-
- ## Turing Finance, where computer science meets finance!
- - [https://turingfinance.com](https://turingfinance.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Intro | Turing Pi2 | Docs
- - [https://docs.turingpi.com](https://docs.turingpi.com)
- - date_published: 2024-07-01T07:37:20.075006+00:00
-
- ## Turing Pi 2 cluster computer
- - [https://turingpi.com](https://turingpi.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Turing Post
- - [https://www.turingpost.com](https://www.turingpost.com)
- - date_published: 2024-12-23T22:13:52+00:00
-
- ## Turing Respawns | Alexandre Gomes | Substack
- - [https://turingrespawns.com](https://turingrespawns.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Turing AI - Reimagine Safety, Security, and Operations with AI
- - [http://www.turingvideo.com](http://www.turingvideo.com)
- - date_published: 2024-12-12T00:27:12.564947+00:00
-
- ## Turismo da Coruña
- - [https://turismocoruna.com](https://turismocoruna.com)
- - date_published: 2024-06-22T22:21:12+00:00
-
- ## Turismo de Islas Canarias
- - [https://turismodecanarias.com](https://turismodecanarias.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Turismo de Cantabria - Inicio
- - [https://profesional.turismodecantabria.com](https://profesional.turismodecantabria.com)
- - date_published: 2024-12-12T15:56:11+00:00
-
- ## Cantabria infinita - Turismo de Cantabria
- - [https://turismodecantabria.com](https://turismodecantabria.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Turismo de Islas Canarias
- - [http://turismodeislascanarias.com](http://turismodeislascanarias.com)
- - date_published: 2024-12-13T13:00:41.662359+00:00
 

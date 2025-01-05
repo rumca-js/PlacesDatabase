@@ -1,3 +1,93 @@
+ ## Antidiskriminierungsverband Deutschland
+ - [https://www.antidiskriminierung.org](https://www.antidiskriminierung.org)
+ - date_published: 2024-09-12T16:07:47.458971+00:00
+
+ ## Home - The Anti-Eugenics Project
+ - [https://antieugenicsproject.org](https://antieugenicsproject.org)
+ - date_published: 2024-12-12T04:35:28.209965+00:00
+
+ ## Home | antifa.org
+ - [https://antifa.org](https://antifa.org)
+ - date_published: 2024-11-11T09:27:07+00:00
+ - tags: ['activism', 'antifa']
+
+ ## Antikythera
+ - [https://antikythera.org](https://antikythera.org)
+ - date_published: 2024-10-18T15:37:12.677738+00:00
+
+ ## Antikythera
+ - [http://link.antikythera.org](http://link.antikythera.org)
+ - date_published: 2024-10-18T15:32:10.887084+00:00
+
+ ## Antiochian Orthodox Christian Archdiocese of North America
+ - [https://www.antiochian.org](https://www.antiochian.org)
+ - date_published: 2024-08-13T03:25:46+00:00
+
+ ## Home - Antipode Online
+ - [http://antipodefoundation.org](http://antipodefoundation.org)
+ - date_published: 2024-12-21T04:17:04+00:00
+
+ ## APTP
+ - [https://antipoliceterrorproject.org](https://antipoliceterrorproject.org)
+ - date_published: 2024-06-15T18:17:23.439022+00:00
+
+ ## Antipope!
+ - [http://www.antipope.org](http://www.antipope.org)
+ - date_published: 2022-02-02T09:39:00+00:00
+
+ ## Old Houses For Sale - Discover Beautiful Old Homes
+ - [http://www.antiquehome.org](http://www.antiquehome.org)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Phil's Old Radios
+ - [https://antiqueradio.org](https://antiqueradio.org)
+ - date_published: 2024-05-07T02:39:10+00:00
+
+ ## Home Page
+ - [https://www.antiquewireless.org](https://www.antiquewireless.org)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Home - Anti Recidivism Coalition
+ - [https://antirecidivism.org](https://antirecidivism.org)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Anti-Slavery International | Fighting for Freedom from Slavery
+ - [https://antislavery.org](https://antislavery.org)
+ - date_published: 2023-11-27T12:07:17+00:00
+ - tags: ['organization', 'human rights']
+
+ ## URGENT: Time is running out for Senator Schumer to schedule a vote on S. 2992 and S. 2710, antitrust bills to rein in tech monopoly abuses.
+ - [https://www.antitrustday.org](https://www.antitrustday.org)
+ - date_published: 2024-06-28T21:42:02.471486+00:00
+
+ ## American Antitrust Institute
+ - [https://antitrustinstitute.org](https://antitrustinstitute.org)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Best Antivirus Software 2024
+ - [https://antivirussoftwarereviews.org](https://antivirussoftwarereviews.org)
+ - date_published: 2024-10-20T05:45:50.141900+00:00
+
+ ## Girls from Merrill, WI naked. Swapping couples wrestling
+ - [https://antjournals.org](https://antjournals.org)
+ - date_published: 2024-07-20T12:57:57+00:00
+
+ ## ANTLR
+ - [http://antlr.org](http://antlr.org)
+ - date_published: 2024-08-03T19:15:02+00:00
+
+ ## ANTLR Lab
+ - [http://lab.antlr.org](http://lab.antlr.org)
+ - date_published: 2022-11-05T21:16:38+00:00
+
+ ## About me
+ - [https://www.antonakhmerov.org](https://www.antonakhmerov.org)
+ - date_published: 2014-12-23T15:09:50+00:00
+
+ ## Alçada Baptista - Cultura dos Afectos
+ - [http://www.antonioalcadabaptista.org](http://www.antonioalcadabaptista.org)
+ - date_published: 2022-12-07T18:10:34+00:00
+
  ## Anton Zhiyanov
  - [https://antonz.org](https://antonz.org)
  - date_published: 2023-10-25T08:57:18.278632+00:00
@@ -3969,94 +4059,4 @@ arts axis florida
  ## Arvados Forum
  - [https://forum.arvados.org](https://forum.arvados.org)
  - date_published: 2024-12-21T10:56:15.378537+00:00
-
- ## Home - The Association for Research in Vision and Ophthalmology
- - [https://arvoconnect.arvo.org](https://arvoconnect.arvo.org)
- - date_published: 2024-12-21T10:56:48.209709+00:00
-
- ## The Association for Research in Vision and Ophthalmology-
- - [https://arvo.org](https://arvo.org)
- - date_published: 2024-08-07T17:30:21.135745+00:00
-
- ## Ophthalmology Jobs - ARVO Jobs
- - [https://jobs.arvo.org](https://jobs.arvo.org)
- - date_published: 2024-12-21T10:57:10.301919+00:00
-
- ## Home | ARVO Journals
- - [https://arvojournals.org](https://arvojournals.org)
- - date_published: 2024-08-07T17:30:19.201038+00:00
-
- ## Journal Home | IOVS | ARVO Journals
- - [https://iovs.arvojournals.org](https://iovs.arvojournals.org)
- - date_published: 2024-08-07T17:30:26.531879+00:00
-
- ## Journal Home | JOV | ARVO Journals
- - [https://jov.arvojournals.org](https://jov.arvojournals.org)
- - date_published: 2024-04-28T03:26:33.047719+00:00
-
- ## Home | ARVO Journals
- - [https://store.arvojournals.org](https://store.arvojournals.org)
- - date_published: 2024-08-07T17:30:23.736377+00:00
-
- ## Journal Home | TVST | ARVO Journals
- - [https://tvst.arvojournals.org](https://tvst.arvojournals.org)
- - date_published: 2024-07-21T09:12:29.004574+00:00
-
- ## Home
- - [https://arvon.org](https://arvon.org)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## AR/VR Policy Conference
- - [https://arvrpolicy.org](https://arvrpolicy.org)
- - date_published: 2024-09-20T10:07:13.082525+00:00
-
- ## Arweave - A community-driven ecosystem
- - [https://arweave.org](https://arweave.org)
- - date_published: 2024-06-14T11:55:22.532726+00:00
-
- ## Arx • make crypto assets real
- - [https://arx.org](https://arx.org)
- - date_published: 2024-06-16T03:35:44.265842+00:00
-
- ## Introduction – Arx
- - [https://docs.arx.org](https://docs.arx.org)
- - date_published: 2024-09-21T23:38:47.303479+00:00
-
- ## Arx Research
- - [https://store.arx.org](https://store.arx.org)
- - date_published: 2024-09-21T23:38:48.699721+00:00
-
- ## Advocates for Responsible Care (ARxC),  Georgia health care advocates
- - [https://arxc.org](https://arxc.org)
- - date_published: 2024-10-22T03:52:09.286225+00:00
-
- ## Arx - After the Reckoning
- - [https://play.arxgame.org](https://play.arxgame.org)
- - date_published: 2024-06-17T11:41:40.570992+00:00
- - tags: ['mud game']
-
- ## arXiv Accessibility Forum 2024
- - [https://accessibility2024.arxiv.org](https://accessibility2024.arxiv.org)
- - date_published: 2024-08-08T20:32:52+00:00
-
- ## ar5iv – Articles from arXiv.org as responsive HTML5 web documents
- - [https://ar5iv.labs.arxiv.org](https://ar5iv.labs.arxiv.org)
- - date_published: 2024-03-13T21:06:07.643837+00:00
-
- ## arXiv.org e-Print archive
- - [https://arxiv.org](https://arxiv.org)
- - date_published: 2023-10-25T09:28:35.420233+00:00
- - tags: ['database', 'internet archive', 'digital library']
-
- ## arXiv blog – News from arXiv.org
- - [https://blog.arxiv.org](https://blog.arxiv.org)
- - date_published: 2023-10-25T20:59:51.213396+00:00
-
- ## arXiv.org e-Print archive
- - [http://browse.arxiv.org](http://browse.arxiv.org)
- - date_published: 2023-12-20T18:04:09.092847+00:00
-
- ## export.arxiv.org e-Print archive mirror
- - [https://export.arxiv.org](https://export.arxiv.org)
- - date_published: 2023-10-25T21:00:05.827571+00:00
 

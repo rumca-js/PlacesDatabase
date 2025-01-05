@@ -1,3 +1,15 @@
+ ## First Rank, Second Rank
+ - [http://firstranksecondrank.blogspot.com](http://firstranksecondrank.blogspot.com)
+ - date_published: 2024-03-13T18:02:07+00:00
+
+ ## The Beginner Programmer
+ - [http://firsttimeprogrammer.blogspot.com](http://firsttimeprogrammer.blogspot.com)
+ - date_published: 2024-06-28T10:29:57+00:00
+
+ ## DEI GRECI
+ - [http://fischers-design-shop.blogspot.com](http://fischers-design-shop.blogspot.com)
+ - date_published: 2024-06-29T11:53:55+00:00
+
  ## Nie znaleziono bloga
  - [http://fishducky.blogspot.com](http://fishducky.blogspot.com)
  - date_published: 2025-01-01T14:19:37.672950+00:00
@@ -3998,16 +4010,4 @@
  ## Health Care Renewal
  - [https://hcrenewal.blogspot.com](https://hcrenewal.blogspot.com)
  - date_published: 2024-09-09T16:41:43+00:00
-
- ## In Retrospect
- - [https://hcssh.blogspot.com](https://hcssh.blogspot.com)
- - date_published: 2024-09-09T09:34:06+00:00
-
- ## Lady Insignificant
- - [http://hdsidhe.blogspot.com](http://hdsidhe.blogspot.com)
- - date_published: 2024-03-14T08:52:59+00:00
-
- ## Programming C++11 and SDL2
- - [http://headerphile.blogspot.com](http://headerphile.blogspot.com)
- - date_published: 2024-03-19T03:51:57+00:00
 

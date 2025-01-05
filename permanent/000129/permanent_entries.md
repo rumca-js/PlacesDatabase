@@ -1,3 +1,23 @@
+ ## GitHub - peass-ng/PEASS-ng: PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+ - [https://github.com/peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng)
+ - date_published: 2024-11-28T17:15:01+00:00
+ - tags: ['hacking']
+
+ ## GitHub - PyPSA/pypsa-eur: PyPSA-Eur: A Sector-Coupled Open Optimisation Model of the European Energy System
+ - [https://github.com/PyPSA/pypsa-eur](https://github.com/PyPSA/pypsa-eur)
+ - date_published: 2024-11-28T20:15:42+00:00
+ - tags: ['electricity', 'energy']
+
+ ## GitHub - louislam/dockge: A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+ - [https://github.com/louislam/dockge](https://github.com/louislam/dockge)
+ - date_published: 2024-11-29T09:43:03+00:00
+ - tags: ['docker', 'self-host']
+
+ ## GitHub - mealie-recipes/mealie: Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+ - [https://github.com/mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)
+ - date_published: 2024-11-29T09:43:41+00:00
+ - tags: ['self-host', 'recipe manager']
+
  ## GitHub - elvissteinjr/DesktopPlus: Advanced desktop access for OpenVR
  - [https://github.com/elvissteinjr/DesktopPlus](https://github.com/elvissteinjr/DesktopPlus)
  - date_published: 2024-11-30T23:00:21+00:00
@@ -340,6 +360,11 @@
  - [https://github.com/janeczku/calibre-web](https://github.com/janeczku/calibre-web)
  - date_published: 2025-01-01T14:59:27+00:00
  - tags: ['library management', 'self-host', 'ebooks']
+
+ ## GitHub - jmbannon/ytdl-sub: Lightweight tool to automate downloading and metadata generation with yt-dlp
+ - [https://github.com/jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub)
+ - date_published: 2025-01-04T09:36:49+00:00
+ - tags: ['youtube client']
 
  ## Git Large File Storage
  - [https://git-lfs.github.com](https://git-lfs.github.com)
@@ -4071,24 +4096,4 @@
  ## Meaningful Travel Starts Here | GoAbroad.com
  - [http://www.goabroad.com](http://www.goabroad.com)
  - date_published: 2024-06-22T06:32:28.320788+00:00
-
- ## Abstract Status
- - [https://status.goabstract.com](https://status.goabstract.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Version control for Sketch | Abstract
- - [https://www.goabstract.com](https://www.goabstract.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Acoustic Developers
- - [https://developer.goacoustic.com](https://developer.goacoustic.com)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Loading
- - [https://learn.goacoustic.com](https://learn.goacoustic.com)
- - date_published: 2024-10-10T16:11:48+00:00
-
- ## Acoustic
- - [https://login.goacoustic.com](https://login.goacoustic.com)
- - date_published: 2024-10-14T12:33:24.736833+00:00
 

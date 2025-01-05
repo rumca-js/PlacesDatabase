@@ -1,3 +1,15 @@
+ ## ALTER TECHNOLOGY GROUP TÜV NORD
+ - [https://www.altertechnology-group.com](https://www.altertechnology-group.com)
+ - date_published: 2024-12-13T11:34:11+00:00
+
+ ## Home
+ - [https://alteryx.com](https://alteryx.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Alteryx Community
+ - [https://community.alteryx.com](https://community.alteryx.com)
+ - date_published: 2024-06-16T20:11:52.678419+00:00
+
  ## Data Scorecard
  - [https://data-scorecard.alteryx.com](https://data-scorecard.alteryx.com)
  - date_published: 2024-06-10T19:46:39+00:00
@@ -4036,16 +4048,4 @@
  ## Analog Astronaut Conference 2025  May 1-4 at Biosphere 2, Arizona, USA.
  - [https://tickets.analog-astronaut.com](https://tickets.analog-astronaut.com)
  - date_published: 2024-10-19T20:05:32.455379+00:00
-
- ## Analog Astronaut Conference 2024
- - [http://www.analogastronaut.com](http://www.analogastronaut.com)
- - date_published: 2024-06-17T16:26:49.597594+00:00
-
- ## analogenie- the best free analogy maker
- - [https://analogenie.com](https://analogenie.com)
- - date_published: 2024-06-19T20:35:32.435129+00:00
-
- ## AnalogFX - AnalogFX
- - [https://www.analogfx.com](https://www.analogfx.com)
- - date_published: 2022-12-29T00:00:00+00:00
 

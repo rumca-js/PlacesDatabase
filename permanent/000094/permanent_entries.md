@@ -1,3 +1,15 @@
+ ## Comrad Socks
+ - [https://faq.comradsocks.com](https://faq.comradsocks.com)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## B2B & B2C Market Research Company
+ - [https://comresglobal.com](https://comresglobal.com)
+ - date_published: 2024-10-21T15:13:27.540115+00:00
+
+ ## Comscore is a trusted currency for planning, transacting, and evaluating media across platforms.
+ - [https://comscore.com](https://comscore.com)
+ - date_published: 2024-04-28T02:14:14.516343+00:00
+
  ## CORE
  - [https://core.comscore.com](https://core.comscore.com)
  - date_published: 2024-08-07T23:03:07.320683+00:00
@@ -4007,16 +4019,4 @@ Real Estate Supercenter
  ## The Coptist
  - [https://www.coptist.com](https://www.coptist.com)
  - date_published: 2024-07-02T10:14:27.045235+00:00
-
- ## Impartial Experts in Uncrewed Technologies
- - [https://coptrz.com](https://coptrz.com)
- - date_published: 2024-05-18T02:43:43.234568+00:00
-
- ## Coptrz Defence | Leading Defence Technology Solutions
- - [https://defence.coptrz.com](https://defence.coptrz.com)
- - date_published: 2024-07-20T09:50:26.080603+00:00
-
- ## Copyblogger
- - [https://copyblogger.com](https://copyblogger.com)
- - date_published: 2024-11-30T00:00:00+00:00
 

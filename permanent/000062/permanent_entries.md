@@ -1,3 +1,15 @@
+ ## Bidspirit - Online auction portal
+ - [https://bidspirit.com](https://bidspirit.com)
+ - date_published: 2024-10-28T05:54:11.270726+00:00
+
+ ## Bidspirit online auction management software for auction houses
+ - [https://bidspirit-themes.com](https://bidspirit-themes.com)
+ - date_published: 2024-10-28T05:54:02.041293+00:00
+
+ ## Bidspotter.com | Industrial, Commercial, Plant and Machinery auctions
+ - [https://bidspotter.com](https://bidspotter.com)
+ - date_published: 2023-10-25T12:59:13.076928+00:00
+
  ## Bidspotter.com | Industrial, Commercial, Plant and Machinery auctions
  - [https://cdn.bidspotter.com](https://cdn.bidspotter.com)
  - date_published: 2024-08-19T10:00:48.654557+00:00
@@ -4014,16 +4026,4 @@
  ## BitOwl Productions
  - [http://bitowl.com](http://bitowl.com)
  - date_published: 2024-07-11T16:54:18.166658+00:00
-
- ## BitPay: The Best Crypto App to Pay with Crypto + Accept Payments
- - [https://bitpay.com](https://bitpay.com)
- - date_published: 2024-04-30T06:29:41.216803+00:00
-
- ## BitPay Brand Guide
- - [https://brand.bitpay.com](https://brand.bitpay.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## BitPay Inc Status
- - [https://status.bitpay.com](https://status.bitpay.com)
- - date_published: 2024-06-12T00:00:00+00:00
 

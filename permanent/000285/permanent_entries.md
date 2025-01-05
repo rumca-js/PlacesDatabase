@@ -1,3 +1,56 @@
+ ## Mobility Online
+ - [https://mobility.tu-ilmenau.de](https://mobility.tu-ilmenau.de)
+ - date_published: 2020-05-28T09:14:43+00:00
+
+ ## Log in to the site | Moodle an der TU Ilmenau
+ - [https://moodle.tu-ilmenau.de](https://moodle.tu-ilmenau.de)
+ - date_published: 2024-06-19T15:37:56.983130+00:00
+
+ ## Open Timetables
+ - [https://opentimetable.tu-ilmenau.de](https://opentimetable.tu-ilmenau.de)
+ - date_published: 2019-06-18T14:44:00+00:00
+
+ ## Weiterleitung
+ - [https://os.tu-ilmenau.de](https://os.tu-ilmenau.de)
+ - date_published: 2021-10-15T12:14:35+00:00
+
+ ## Startseite | Technische Universität Ilmenau
+ - [https://tu-ilmenau.de](https://tu-ilmenau.de)
+ - date_published: 2024-10-29T11:10:42.038425+00:00
+
+ ## Webmail TU Ilmenau :: Willkommen bei  Webmail TU Ilmenau
+ - [https://webmail.tu-ilmenau.de](https://webmail.tu-ilmenau.de)
+ - date_published: 2024-06-19T15:39:02+00:00
+
+ ## PATONLandespatentzentrum Thüringen | Technische Universität Ilmenau
+ - [https://www.paton.tu-ilmenau.de](https://www.paton.tu-ilmenau.de)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## TU Ilmenau Shop - TU Ilmenau Shop
+ - [http://tu-ilmenau-shop.de](http://tu-ilmenau-shop.de)
+ - date_published: 2024-06-19T15:37:53.565783+00:00
+ - date_dead_since: 2025-01-04T13:09:35.640215+00:00
+
+ ## Tulpar Notebook | Notebooks für Performance-Fans
+ - [https://tulparnotebook.de](https://tulparnotebook.de)
+ - date_published: 2024-06-22T15:05:52.268044+00:00
+
+ ## Startseite - Academics - TUM School of Natural Sciences
+ - [https://academics.nat.tum.de](https://academics.nat.tum.de)
+ - date_published: 2024-08-08T21:10:23.095504+00:00
+
+ ## Home
+ - [https://algo2019.ak.in.tum.de](https://algo2019.ak.in.tum.de)
+ - date_published: 2024-06-30T09:23:50+00:00
+
+ ## Startseite
+ - [https://arc.ed.tum.de](https://arc.ed.tum.de)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Page has moved
+ - [https://campar.in.tum.de](https://campar.in.tum.de)
+ - date_published: 2023-10-24T08:13:14+00:00
+
  ## Loading
  - [https://campus.tum.de](https://campus.tum.de)
  - date_published: 2024-04-29T06:57:12.485784+00:00
@@ -38,16 +91,40 @@
  - [https://ed.tum.de](https://ed.tum.de)
  - date_published: 2024-04-25T00:00:00+00:00
 
+ ## TUM Institute for LifeLong Learning - Executive & Professional Education
+ - [https://eec.wi.tum.de](https://eec.wi.tum.de)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [https://ei.tum.de](https://ei.tum.de)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Startseite
+ - [https://emeriti-of-excellence.tum.de](https://emeriti-of-excellence.tum.de)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## |
  - [https://events.gni.tum.de](https://events.gni.tum.de)
  - date_published: 2024-08-08T23:03:41.225527+00:00
+
+ ## Startseite
+ - [https://fa.mgt.tum.de](https://fa.mgt.tum.de)
+ - date_published: 2024-09-25T13:41:46.392761+00:00
 
  ## ForNeRo
  - [https://fornero.ed.tum.de](https://fornero.ed.tum.de)
  - date_published: 2024-09-05T21:59:33.942561+00:00
 
+ ## Startseite
+ - [https://hfp.tum.de](https://hfp.tum.de)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## International Graduate School of Science and Engineering (IGSSE)
+ - [https://igsse.gs.tum.de](https://igsse.gs.tum.de)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## TUM School of Computation, Information and Technology
- - [http://in.tum.de](http://in.tum.de)
+ - [https://in.tum.de](https://in.tum.de)
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Isabelle
@@ -60,7 +137,7 @@
 
  ## Apache2 Ubuntu Default Page: It works
  - [https://kaldir.vc.in.tum.de](https://kaldir.vc.in.tum.de)
- - date_published: 2024-07-24T05:49:04.535775+00:00
+ - date_published: 2022-11-28T18:12:13+00:00
 
  ## KI.FABRIK
  - [https://kifabrik.mirmi.tum.de](https://kifabrik.mirmi.tum.de)
@@ -86,6 +163,10 @@
  - [https://matrix.tum.de](https://matrix.tum.de)
  - date_published: 2024-07-30T12:54:31+00:00
 
+ ## Startseite
+ - [https://mec.ed.tum.de](https://mec.ed.tum.de)
+ - date_published: 2024-08-08T23:03:32.565910+00:00
+
  ## mediaTUM - Media and Publication Server
  - [https://mediatum.ub.tum.de](https://mediatum.ub.tum.de)
  - date_published: 2024-06-22T19:11:45.157411+00:00
@@ -93,10 +174,19 @@
  ## Startseite der TUM School of Medicine and Health | TUM School of Medicine and Health
  - [https://med.tum.de](https://med.tum.de)
  - date_published: 2024-04-29T06:57:06.066785+00:00
+ - date_dead_since: 2025-01-04T13:19:27.740591+00:00
 
  ## Uniting Management and Technology | TUM School of Management
  - [https://mgt.tum.de](https://mgt.tum.de)
  - date_published: 2024-04-29T06:56:57.887730+00:00
+
+ ## Startseite
+ - [https://mh.tum.de](https://mh.tum.de)
+ - date_published: 2024-07-24T04:20:11.803466+00:00
+
+ ## Home | TUM
+ - [https://moodle.tum.de](https://moodle.tum.de)
+ - date_published: 2024-08-11T06:40:12+00:00
 
  ## Standorte - NavigaTUM
  - [https://nav.tum.de](https://nav.tum.de)
@@ -106,13 +196,21 @@
  - [https://opac.ub.tum.de](https://opac.ub.tum.de)
  - date_published: 2024-07-24T04:20:55.749187+00:00
 
+ ## Startseite
+ - [https://ph.nat.tum.de](https://ph.nat.tum.de)
+ - date_published: 2024-08-11T06:40:11.438706+00:00
+
  ## Home | Online Shop | Technische Universität München
  - [https://shop.tum.de](https://shop.tum.de)
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## ACM SIGMOD 2018 Programming Contest
- - [http://sigmod18contest.db.in.tum.de](http://sigmod18contest.db.in.tum.de)
+ - [https://sigmod18contest.db.in.tum.de](https://sigmod18contest.db.in.tum.de)
  - date_published: 2024-09-02T16:21:04.274704+00:00
+
+ ## Think. Make. Start. – Build your own prototypes
+ - [https://tms.tum.de](https://tms.tum.de)
+ - date_published: 2024-08-08T23:03:37.439399+00:00
 
  ## The Entrepreneurial University - TUM
  - [https://tum.de](https://tum.de)
@@ -138,6 +236,10 @@
  - [https://wiki.tum.de](https://wiki.tum.de)
  - date_published: 2024-04-29T06:57:07.882141+00:00
 
+ ## Uniting Management and Technology | TUM School of Management
+ - [https://wi.tum.de](https://wi.tum.de)
+ - date_published: 2024-08-11T06:41:21.784862+00:00
+
  ## Stories - TUM Community
  - [https://www.150.alumni.tum.de](https://www.150.alumni.tum.de)
  - date_published: 2024-08-08T21:10:31.660354+00:00
@@ -146,12 +248,8 @@
  - [https://www21.in.tum.de](https://www21.in.tum.de)
  - date_published: 2024-07-22T14:41:41+00:00
 
- ## Startseite
- - [https://www.arc.ed.tum.de](https://www.arc.ed.tum.de)
- - date_published: 2024-08-05T00:00:00+00:00
-
  ## Informatik III - Datenbanksysteme und Wissensbasen
- - [http://wwwbayer.in.tum.de](http://wwwbayer.in.tum.de)
+ - [https://wwwbayer.in.tum.de](https://wwwbayer.in.tum.de)
  - date_published: 2014-05-12T14:09:33+00:00
 
  ## Startseite
@@ -159,7 +257,7 @@
  - date_published: 2024-04-08T00:00:00+00:00
 
  ## Chair for Database Systems
- - [http://www-db.in.tum.de](http://www-db.in.tum.de)
+ - [https://www-db.in.tum.de](https://www-db.in.tum.de)
  - date_published: 2024-09-02T16:19:21.331994+00:00
 
  ## MDCO_Home
@@ -174,25 +272,9 @@
  - [https://www.edu.sot.tum.de](https://www.edu.sot.tum.de)
  - date_published: 2024-08-08T21:10:24.909309+00:00
 
- ## TUM Institute for LifeLong Learning - Executive & Professional Education
- - [https://www.eec.wi.tum.de](https://www.eec.wi.tum.de)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## TUM School of Computation, Information and Technology
- - [http://www.ei.tum.de](http://www.ei.tum.de)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Startseite
- - [http://www.emeriti-of-excellence.tum.de](http://www.emeriti-of-excellence.tum.de)
- - date_published: 2024-07-09T00:00:00+00:00
-
  ## Converia • Conference overview
  - [https://www.events.tum.de](https://www.events.tum.de)
  - date_published: 2024-08-08T23:03:46.378962+00:00
-
- ## Startseite
- - [https://www.fa.mgt.tum.de](https://www.fa.mgt.tum.de)
- - date_published: 2024-09-25T13:41:46.392761+00:00
 
  ## Effektive Förderung: Unterstützung für die Technische Universität München
  - [https://www.fundraising.tum.de](https://www.fundraising.tum.de)
@@ -207,19 +289,11 @@
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## Startseite
- - [https://www.hfp.tum.de](https://www.hfp.tum.de)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## International Graduate School of Science and Engineering (IGSSE)
- - [https://www.igsse.gs.tum.de](https://www.igsse.gs.tum.de)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Startseite
  - [https://www.international.tum.de](https://www.international.tum.de)
  - date_published: 2024-04-26T00:00:00+00:00
 
  ## TUM School of Computation, Information and Technology
- - [http://www.lkn.ei.tum.de](http://www.lkn.ei.tum.de)
+ - [https://www.lkn.ei.tum.de](https://www.lkn.ei.tum.de)
  - date_published: 2024-09-06T00:00:00+00:00
 
  ## Department of Mathematics - TUM
@@ -227,36 +301,21 @@
  - date_published: 2024-12-10T19:59:17.242859+00:00
 
  ## TUM School of Computation, Information and Technology
- - [http://www.ma.tum.de](http://www.ma.tum.de)
+ - [https://www.ma.tum.de](https://www.ma.tum.de)
  - date_published: 2024-07-24T00:00:00+00:00
 
  ## Department of Science, Technology and Society
  - [https://www.mcts.tum.de](https://www.mcts.tum.de)
  - date_published: 2024-07-24T00:00:00+00:00
 
- ## Startseite
- - [https://www.mec.ed.tum.de](https://www.mec.ed.tum.de)
- - date_published: 2024-08-08T23:03:32.565910+00:00
-
- ## Startseite
- - [https://www.mh.tum.de](https://www.mh.tum.de)
- - date_published: 2024-07-24T04:20:11.803466+00:00
-
- ## Home | TUM
- - [https://www.moodle.tum.de](https://www.moodle.tum.de)
- - date_published: 2024-08-11T06:40:12+00:00
-
  ## MRI TUM
  - [https://www.mri.tum.de](https://www.mri.tum.de)
  - date_published: 2024-07-24T04:20:13.800634+00:00
+ - date_dead_since: 2025-01-04T13:19:56.466542+00:00
 
  ## Startseite
  - [https://www.nat.tum.de](https://www.nat.tum.de)
  - date_published: 2024-04-11T00:00:00+00:00
-
- ## Startseite
- - [https://www.ph.nat.tum.de](https://www.ph.nat.tum.de)
- - date_published: 2024-08-11T06:40:11.438706+00:00
 
  ## Professoren an der Technischen Universität München (TUM) - Akademische Exzellenz
  - [https://www.professoren.tum.de](https://www.professoren.tum.de)
@@ -267,7 +326,7 @@
  - date_published: 2024-04-29T06:56:41.969327+00:00
 
  ## TUM School of Computation, Information and Technology
- - [http://www.rcs.ei.tum.de](http://www.rcs.ei.tum.de)
+ - [https://www.rcs.ei.tum.de](https://www.rcs.ei.tum.de)
  - date_published: 2024-07-12T16:27:12.293779+00:00
 
  ## Home
@@ -278,21 +337,14 @@
  - [https://www.sts.sot.tum.de](https://www.sts.sot.tum.de)
  - date_published: 2024-07-24T00:00:00+00:00
 
- ## Think. Make. Start. – Build your own prototypes
- - [https://www.tms.tum.de](https://www.tms.tum.de)
- - date_published: 2024-08-08T23:03:37.439399+00:00
-
  ## Startseite - TUM Community
  - [http://www.together.tum.de](http://www.together.tum.de)
  - date_published: 2024-01-03T00:00:00+00:00
+ - date_dead_since: 2025-01-04T13:20:31.628648+00:00
 
  ## Startseite
  - [https://www.typo3.tum.de](https://www.typo3.tum.de)
  - date_published: 2024-07-24T04:21:05.273718+00:00
-
- ## Uniting Management and Technology | TUM School of Management
- - [https://www.wi.tum.de](https://www.wi.tum.de)
- - date_published: 2024-08-11T06:41:21.784862+00:00
 
  ## Startseite
  - [https://www.zv.tum.de](https://www.zv.tum.de)
@@ -303,32 +355,32 @@
  - date_published: 2024-04-29T06:57:01.568063+00:00
 
  ## Universitätsklinikum Freiburg - Reha gGmbH | Universitätsklinikum Freiburg - Reha gGmbH
- - [https://www.tumorbiologie-freiburg.de](https://www.tumorbiologie-freiburg.de)
+ - [https://tumorbiologie-freiburg.de](https://tumorbiologie-freiburg.de)
  - date_published: 2024-07-24T06:20:28.249072+00:00
 
  ## Apache2 Ubuntu Default Page: It works
  - [https://mailmanbroy.informatik.tu-muenchen.de](https://mailmanbroy.informatik.tu-muenchen.de)
  - date_published: 2019-03-06T10:33:41+00:00
 
+ ## The Entrepreneurial University - TUM
+ - [https://tu-muenchen.de](https://tu-muenchen.de)
+ - date_published: 2024-07-13T03:59:51.430852+00:00
+
  ## Chair for Database Systems
- - [http://www3.informatik.tu-muenchen.de](http://www3.informatik.tu-muenchen.de)
+ - [https://www3.informatik.tu-muenchen.de](https://www3.informatik.tu-muenchen.de)
  - date_published: 2024-09-02T16:21:10.733426+00:00
 
  ## The Entrepreneurial University - TUM
- - [http://www4.informatik.tu-muenchen.de](http://www4.informatik.tu-muenchen.de)
+ - [https://www4.informatik.tu-muenchen.de](https://www4.informatik.tu-muenchen.de)
  - date_published: 2024-07-04T11:18:00.036179+00:00
 
  ## The Entrepreneurial University - TUM
- - [http://www.informatik.tu-muenchen.de](http://www.informatik.tu-muenchen.de)
+ - [https://www.informatik.tu-muenchen.de](https://www.informatik.tu-muenchen.de)
  - date_published: 2024-06-20T13:13:27.363586+00:00
 
  ## Physics Department, TUM | Home
- - [http://www.physik.tu-muenchen.de](http://www.physik.tu-muenchen.de)
+ - [https://www.physik.tu-muenchen.de](https://www.physik.tu-muenchen.de)
  - date_published: 2024-07-13T03:59:56.485781+00:00
-
- ## The Entrepreneurial University - TUM
- - [http://www.tu-muenchen.de](http://www.tu-muenchen.de)
- - date_published: 2024-07-13T03:59:51.430852+00:00
 
  ## TUM Universitätsstiftung: gemeinsam die TUM fördern
  - [https://www.tum-universitaetsstiftung.de](https://www.tum-universitaetsstiftung.de)
@@ -347,7 +399,7 @@
  - date_published: 2024-01-01T03:39:24.415411+00:00
 
  ## Der Kommunikationsclub | turi2
- - [https://www.turi2.de](https://www.turi2.de)
+ - [https://turi2.de](https://turi2.de)
  - date_published: 2024-07-08T19:36:37.054747+00:00
 
  ## Befähigen Sie Studierende, ihre beste, eigenständige Arbeit zu leisten | Turnitin
@@ -375,15 +427,15 @@
  - date_published: 2024-05-09T07:49:05.827641+00:00
 
  ## Tux-Tage – Menschen und Wissen vernetzen
- - [https://www.tux-tage.de](https://www.tux-tage.de)
+ - [https://tux-tage.de](https://tux-tage.de)
  - date_published: 2024-04-29T20:15:26+00:00
 
  ## Kevin James' neue Netflix-Serie ist eine Zeitreise (der schlechten Art)
- - [https://www.tvdigital.de](https://www.tvdigital.de)
+ - [https://tvdigital.de](https://tvdigital.de)
  - date_published: 2024-06-25T22:09:00+00:00
 
  ## Startseite - TV Movie star lounge
- - [https://www.tvmovie-lounge.de](https://www.tvmovie-lounge.de)
+ - [https://tvmovie-lounge.de](https://tvmovie-lounge.de)
  - date_published: 2024-07-23T00:00:00+00:00
 
  ## RTL+
@@ -391,7 +443,7 @@
  - date_published: 2024-04-16T00:00:00+00:00
 
  ## Fernsehprogramm von heute - TV Programm - TV SPIELFILM
- - [https://www.tvspielfilm.de](https://www.tvspielfilm.de)
+ - [https://tvspielfilm.de](https://tvspielfilm.de)
  - date_published: 2024-09-18T00:00:00+00:00
 
  ## Das aktuelle Fernsehprogramm im Überblick von TV TODAY
@@ -399,11 +451,11 @@
  - date_published: 2024-01-04T00:00:00+00:00
 
  ## Das aktuelle Fernsehprogramm im Überblick von TV TODAY
- - [https://www.tvtoday.de](https://www.tvtoday.de)
+ - [https://tvtoday.de](https://tvtoday.de)
  - date_published: 2024-09-18T00:00:00+00:00
 
  ## Hardware Testberichte, Computer, Overclocking, News und mehr - TweakPC
- - [http://www.tweakpc.de](http://www.tweakpc.de)
+ - [https://tweakpc.de](https://tweakpc.de)
  - date_published: 2024-07-24T05:28:06.707421+00:00
 
  ## OSGL
@@ -415,15 +467,15 @@
  - date_published: 2024-05-09T08:56:14.895790+00:00
 
  ## TWFigurines Miniature Painting Main Gallery
- - [http://www.twfigurines.de](http://www.twfigurines.de)
+ - [https://twfigurines.de](https://twfigurines.de)
  - date_published: 2009-04-27T07:07:23+00:00
 
  ## Offene Bildungsmaterialien auf twillo finden und teilen
- - [https://www.twillo.de](https://www.twillo.de)
+ - [https://twillo.de](https://twillo.de)
  - date_published: 2022-04-08T12:14:13+00:00
 
  ## Notes about type from Dan Reynolds in Krefeld — TypeOff.
- - [https://www.typeoff.de](https://www.typeoff.de)
+ - [https://typeoff.de](https://typeoff.de)
  - date_published: 2024-09-06T00:58:13.657050+00:00
 
  ## Startseite - Verlag Hermann Schmidt
@@ -432,26 +484,26 @@
 
  ## A Pocket Guide to Master Every Day’s Typographic Adventures
  - [https://typogui.de](https://typogui.de)
- - date_published: 2024-04-29T07:17:26.057338+00:00
+ - date_published: 2023-11-23T02:54:24+00:00
 
  ## tyson.de
  - [http://www.tyson.de](http://www.tyson.de)
  - date_published: 2024-11-16T20:43:44.066350+00:00
 
  ## tz.de | News zu München, Stars, TV, der Welt des Sports und dem FC Bayern
- - [http://www.tz.de](http://www.tz.de)
+ - [https://tz.de](https://tz.de)
  - date_published: 2024-07-12T05:14:10+00:00
 
  ## Universitätsallianz (UA) 11+ - Homepage
- - [https://www.ua11plus.de](https://www.ua11plus.de)
+ - [https://ua11plus.de](https://ua11plus.de)
  - date_published: 2024-09-03T00:00:00+00:00
 
  ## University Alliance Ruhr
- - [https://www.uaruhr.de](https://www.uaruhr.de)
+ - [https://uaruhr.de](https://uaruhr.de)
  - date_published: 2024-07-11T13:21:08+00:00
 
  ## Universal Audio | Audio Interfaces | UAD Plug-Ins
- - [https://www.uaudio.de](https://www.uaudio.de)
+ - [https://uaudio.de](https://uaudio.de)
  - date_published: 2024-07-24T06:52:05.012443+00:00
 
  ## map.apps
@@ -460,7 +512,7 @@
 
  ## Metadatenkatalog des UBA
  - [https://metadaten.uba.de](https://metadaten.uba.de)
- - date_published: 2024-07-24T04:11:48.599340+00:00
+ - date_published: 2024-06-24T09:56:06+00:00
 
  ## Sign in - Matomo
  - [https://piwik.infosis.uba.de](https://piwik.infosis.uba.de)
@@ -476,11 +528,11 @@
 
  ## IIS Windows Server
  - [https://webetox.uba.de](https://webetox.uba.de)
- - date_published: 2024-04-29T06:58:41.143646+00:00
+ - date_published: 2021-10-04T07:10:37+00:00
 
  ## IIS Windows Server
  - [https://webrigoletto.uba.de](https://webrigoletto.uba.de)
- - date_published: 2024-04-29T06:57:32.274357+00:00
+ - date_published: 2020-08-17T09:53:09+00:00
 
  ## Willkommen auf infosis
  - [https://www.infosis.uba.de](https://www.infosis.uba.de)
@@ -519,7 +571,7 @@
  - date_published: 2024-04-29T05:57:31.152532+00:00
 
  ## UBERWACH!
- - [http://www.uberwach.de](http://www.uberwach.de)
+ - [https://uberwach.de](https://uberwach.de)
  - date_published: 2024-06-29T09:37:11+00:00
 
  ## ubi168 – UBI BENE
@@ -531,11 +583,11 @@
  - date_published: 2024-06-08T18:08:11.767581+00:00
 
  ## uCoz – ist ein Universelles Siteerstellungssystem und ein Kostenloser Homepage Baukasten neuer Generation
- - [https://www.ucoz.de](https://www.ucoz.de)
+ - [https://ucoz.de](https://ucoz.de)
  - date_published: 2024-07-13T21:02:35.329391+00:00
 
  ## PIA UDG – For smart brands in a digital world
- - [http://www.udg.de](http://www.udg.de)
+ - [https://udg.de](https://udg.de)
  - date_published: 2024-06-25T18:53:27.455394+00:00
 
  ## Schenke Musik | uDiscover
@@ -547,11 +599,11 @@
  - date_published: 2024-06-27T10:59:08+00:00
 
  ## Home
- - [https://www.udiscover-music.de](https://www.udiscover-music.de)
+ - [https://udiscover-music.de](https://udiscover-music.de)
  - date_published: 2024-05-06T21:11:29.060295+00:00
 
  ## Universität der Künste Berlin
- - [https://www.udk-berlin.de](https://www.udk-berlin.de)
+ - [https://udk-berlin.de](https://udk-berlin.de)
  - date_published: 2024-06-27T12:51:15.481007+00:00
 
  ## Homepage-Baukasten, Webhosting & Domains. Website-Hosting mit Ökostrom
@@ -559,7 +611,7 @@
  - date_published: 2024-10-31T04:09:16.111294+00:00
 
  ## udse.de - Foren-Übersicht
- - [http://forum.udse.de](http://forum.udse.de)
+ - [https://forum.udse.de](https://forum.udse.de)
  - date_published: 2024-05-30T20:39:22.341802+00:00
 
  ## Startseite - Ulrich Decker Software
@@ -567,7 +619,7 @@
  - date_published: 2024-05-30T20:35:23+00:00
 
  ## Startseite - Ulrich Decker Software
- - [http://ud-soft.de](http://ud-soft.de)
+ - [https://ud-soft.de](https://ud-soft.de)
  - date_published: 2024-05-30T20:38:56.024951+00:00
 
  ## Anzeiger epaper
@@ -575,7 +627,7 @@
  - date_published: 2024-07-24T07:40:50.963169+00:00
 
  ## ufuq.de - Pädagogik, politische Bildung und Prävention in der Migrationsgesellschaft
- - [http://ufuq.de](http://ufuq.de)
+ - [https://ufuq.de](https://ufuq.de)
  - date_published: 2024-09-11T00:00:00+00:00
 
  ## Sign in · GitLab
@@ -600,7 +652,7 @@
  - tags: ['environment', 'climate change']
 
  ## Udo Grebe Gamedesign - UGG
- - [http://www.ugg.de](http://www.ugg.de)
+ - [https://ugg.de](https://ugg.de)
  - date_published: 2023-02-14T13:15:05+00:00
 
  ## Design und Entwicklung • UI engineering
@@ -612,7 +664,7 @@
  - date_published: 2024-10-22T17:59:08.657971+00:00
 
  ## Startseite der Uniklinik RWTH Aachen
- - [https://www.ukaachen.de](https://www.ukaachen.de)
+ - [https://ukaachen.de](https://ukaachen.de)
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## ukb mittendrin
@@ -620,7 +672,7 @@
  - date_published: 2024-06-22T19:01:48+00:00
 
  ## UKB NewsRoom
- - [https://www.ukbnewsroom.de](https://www.ukbnewsroom.de)
+ - [https://ukbnewsroom.de](https://ukbnewsroom.de)
  - date_published: 2024-06-22T19:41:51+00:00
 
  ## Sign in - Matomo
@@ -628,11 +680,11 @@
  - date_published: 2024-06-22T20:48:55.325113+00:00
 
  ## UKB Startseite
- - [https://www.ukbonn.de](https://www.ukbonn.de)
+ - [https://ukbonn.de](https://ukbonn.de)
  - date_published: 2024-05-06T08:57:18.627830+00:00
 
  ## UKE - Wissen – Forschen – Heilen
- - [https://www.uke.de](https://www.uke.de)
+ - [https://uke.de](https://uke.de)
  - date_published: 2024-07-22T00:00:00+00:00
 
  ## Home - Uniklinikum Erlangen
@@ -642,29 +694,30 @@
  ## Startseite - Universitätsklinikum Halle (Saale) Pflege GmbH
  - [https://www.ukh-pflege.de](https://www.ukh-pflege.de)
  - date_published: 2024-08-23T00:00:00+00:00
+ - date_dead_since: 2025-01-04T13:30:32.902527+00:00
 
  ## Ukrinform News
- - [https://www.ukrinform.de](https://www.ukrinform.de)
+ - [https://ukrinform.de](https://ukrinform.de)
  - date_published: 2024-05-02T10:44:11.730534+00:00
 
  ## Universitätsklinikum Würzburg: Startseite
- - [http://www.ukw.de](http://www.ukw.de)
+ - [https://ukw.de](https://ukw.de)
  - date_published: 2024-07-23T00:00:00+00:00
 
  ## Apache2 Debian Default Page: It works
  - [https://ulibach.de](https://ulibach.de)
- - date_published: 2024-07-24T06:22:07.482137+00:00
+ - date_published: 2022-03-21T15:11:17+00:00
 
  ## Damenmode Große Größen » Plus Size Fashion | Ulla Popken
- - [https://www.ullapopken.de](https://www.ullapopken.de)
+ - [https://ullapopken.de](https://ullapopken.de)
  - date_published: 2024-10-15T15:02:29.609663+00:00
 
  ## Ullbara
- - [https://www.ullbara.de](https://www.ullbara.de)
+ - [https://ullbara.de](https://ullbara.de)
  - date_published: 2024-08-11T13:42:23.699528+00:00
 
  ## ULLSTEIN Buchverlage
- - [https://www.ullstein.de](https://www.ullstein.de)
+ - [https://ullstein.de](https://ullstein.de)
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## Verlag Eugen Ulmer: Bücher & Zeitschriften für Garten, Gartenbau & Landwirtschaft | Ulmer.de
@@ -677,14 +730,14 @@
 
  ## ulPas site
  - [https://ulpaulpa.de](https://ulpaulpa.de)
- - date_published: 2024-07-23T23:30:40.956469+00:00
+ - date_published: 2022-12-14T19:55:49+00:00
 
  ## Ulrich Kelber – Wikipedia
- - [http://www.ulrich-kelber.de](http://www.ulrich-kelber.de)
+ - [https://ulrich-kelber.de](https://ulrich-kelber.de)
  - date_published: 2024-06-25T15:48:18+00:00
 
  ## ultraDev - The Atari Development Cartridge
- - [http://ultradev.ultrafex.de](http://ultradev.ultrafex.de)
+ - [https://ultradev.ultrafex.de](https://ultradev.ultrafex.de)
  - date_published: 2024-07-18T18:53:09+00:00
 
  ## Beckenbodentraining & somatisches Frauencoaching
@@ -692,7 +745,7 @@
  - date_published: 2024-04-11T00:00:00+00:00
 
  ## Universitätsmedizin Halle
- - [https://www.umh.de](https://www.umh.de)
+ - [https://umh.de](https://umh.de)
  - date_published: 2024-10-15T06:51:03.404056+00:00
 
  ## Login | UMM Bewerberportal
@@ -700,15 +753,15 @@
  - date_published: 2024-07-24T07:48:20.134833+00:00
 
  ## Start: Uniklinik Mannheim
- - [https://www.umm.de](https://www.umm.de)
+ - [https://umm.de](https://umm.de)
  - date_published: 2024-07-24T07:48:34.304882+00:00
 
  ## Wolfgang Schwarz :: Home
- - [http://www.umsu.de](http://www.umsu.de)
+ - [https://umsu.de](https://umsu.de)
  - date_published: 2024-07-04T14:57:43.466408+00:00
 
  ## Start
- - [https://www.umweltbildung.de](https://www.umweltbildung.de)
+ - [https://umweltbildung.de](https://umweltbildung.de)
  - date_published: 2024-09-12T16:03:46.085795+00:00
 
  ## Denkwerkstatt Konsum: Nachhaltigen Konsum besser verstehen | Denkwerkstatt Konsum
@@ -724,7 +777,7 @@
  - date_published: 2023-10-25T18:33:10.971958+00:00
 
  ## Startseite ǀ Umwelt im Unterricht: Materialien und Service für Lehrkräfte – BMUV-Bildungsservice ǀ Umwelt im Unterricht
- - [https://www.umwelt-im-unterricht.de](https://www.umwelt-im-unterricht.de)
+ - [https://umwelt-im-unterricht.de](https://umwelt-im-unterricht.de)
  - date_published: 2024-07-24T04:05:38.634856+00:00
 
  ## Umweltinnovationsprogramm | Umweltinnovationsprogramm
@@ -740,7 +793,7 @@
  - date_published: 2024-04-29T06:57:38.923576+00:00
 
  ## Mit Umzugspreisvergleich bis zu 40 Prozent sparen - Umzugspreisvergleich
- - [https://www.umzugsauktion.de](https://www.umzugsauktion.de)
+ - [https://umzugsauktion.de](https://umzugsauktion.de)
  - date_published: 2024-07-24T06:30:32.272749+00:00
 
  ## Umzugsunternehmen in der Nähe
@@ -756,11 +809,11 @@
  - date_published: 2024-07-11T19:01:32.158902+00:00
 
  ## Uncover Designfest – Facing Decadence
- - [http://uncover-mannheim.de](http://uncover-mannheim.de)
+ - [https://uncover-mannheim.de](https://uncover-mannheim.de)
  - date_published: 2024-07-13T15:33:45.545904+00:00
 
  ## Home - underground-aexpaerten
- - [http://www.underground-aexpaerten.de](http://www.underground-aexpaerten.de)
+ - [https://underground-aexpaerten.de](https://underground-aexpaerten.de)
  - date_published: 2024-07-07T19:38:50+00:00
 
  ## Unglaublich Wichtig - Unglaublich wichtig
@@ -768,7 +821,7 @@
  - date_published: 2024-02-02T00:00:00+00:00
 
  ## UN-Hack-Bar – Hackspace, Treffpunkt & Werkstatt für kreatives
- - [https://www.un-hack-bar.de](https://www.un-hack-bar.de)
+ - [https://un-hack-bar.de](https://un-hack-bar.de)
  - date_published: 2024-08-06T17:33:17.314104+00:00
 
  ## AMOS #22 - Organisation [Public]
@@ -778,6 +831,7 @@
  ## Home | UNI1
  - [https://myc.uni1.de](https://myc.uni1.de)
  - date_published: 2024-09-20T17:46:39+00:00
+ - date_dead_since: 2025-01-04T13:40:44.886740+00:00
 
  ## Dirk Riehle's Public Courses and Current Teaching – Getting the better part of theory
  - [https://uni1.de](https://uni1.de)
@@ -788,11 +842,11 @@
  - date_published: 2024-08-19T03:51:51.067091+00:00
 
  ## University of Augsburg
- - [http://www.uni-augsburg.de](http://www.uni-augsburg.de)
+ - [https://uni-augsburg.de](https://uni-augsburg.de)
  - date_published: 2024-09-02T16:19:30.056225+00:00
 
  ## Tickets 2024
- - [https://www.uniballwuppertal.de](https://www.uniballwuppertal.de)
+ - [https://uniballwuppertal.de](https://uniballwuppertal.de)
  - date_published: 2024-07-02T17:46:22.079912+00:00
 
  ## Kodeks - The German Slavistics Server
@@ -800,31 +854,31 @@
  - date_published: 2020-04-12T12:49:20+00:00
 
  ## Studieren im Welterbe
- - [https://www.uni-bamberg.de](https://www.uni-bamberg.de)
+ - [https://uni-bamberg.de](https://uni-bamberg.de)
  - date_published: 2024-07-01T20:23:21.115463+00:00
 
  ## https://jsxgraph.uni-bayreuth.de
  - [https://jsxgraph.uni-bayreuth.de](https://jsxgraph.uni-bayreuth.de)
  - date_published: 2016-02-11T20:43:48+00:00
 
- ## Lehrstuhl für Wirtschaftsmathematik -  Prof. Dr. Jörg Rambau
- - [http://www.rambau.wm.uni-bayreuth.de](http://www.rambau.wm.uni-bayreuth.de)
- - date_published: 2024-12-12T14:13:35+00:00
-
  ## Universität Bayreuth – The Gamechanger Campus
- - [http://www.uni-bayreuth.de](http://www.uni-bayreuth.de)
+ - [https://uni-bayreuth.de](https://uni-bayreuth.de)
  - date_published: 2024-07-23T00:00:00+00:00
 
  ## Lehrstuhl für Wirtschaftsmathematik -  Prof. Dr. Jörg Rambau
- - [http://www.wm.uni-bayreuth.de](http://www.wm.uni-bayreuth.de)
+ - [https://wm.uni-bayreuth.de](https://wm.uni-bayreuth.de)
  - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Lehrstuhl für Wirtschaftsmathematik -  Prof. Dr. Jörg Rambau
+ - [http://www.rambau.wm.uni-bayreuth.de](http://www.rambau.wm.uni-bayreuth.de)
+ - date_published: 2024-12-12T14:13:35+00:00
 
  ## Aktuell Uni Bielefeld
  - [https://aktuell.uni-bielefeld.de](https://aktuell.uni-bielefeld.de)
  - date_published: 2024-07-24T03:56:43.186053+00:00
 
  ## BASE (Bielefeld Academic Search Engine): Basic Search
- - [http://base.ub.uni-bielefeld.de](http://base.ub.uni-bielefeld.de)
+ - [https://base.ub.uni-bielefeld.de](https://base.ub.uni-bielefeld.de)
  - date_published: 2024-08-06T11:26:37.832238+00:00
 
  ## BieColl - Universitätsbibliothek - Universität Bielefeld
@@ -903,11 +957,11 @@
 
  ## BITS Wiki-Farm, P-Stage
  - [https://wiki.uni-bielefeld.de](https://wiki.uni-bielefeld.de)
- - date_published: 2024-07-24T03:57:27.590698+00:00
+ - date_published: 2023-02-22T11:45:35+00:00
 
  ## Faculty of Physics - Bielefeld University
  - [https://www2.physik.uni-bielefeld.de](https://www2.physik.uni-bielefeld.de)
- - date_published: 2024-07-24T03:57:04.169283+00:00
+ - date_published: 2022-09-26T08:46:03+00:00
 
  ## Bielefeld Graduate School in Theoretical Sciences  - Bielefeld University
  - [https://www.bgts.uni-bielefeld.de](https://www.bgts.uni-bielefeld.de)
@@ -925,17 +979,49 @@
  - [https://www.sfb1283.uni-bielefeld.de](https://www.sfb1283.uni-bielefeld.de)
  - date_published: 2024-04-29T06:58:49.944272+00:00
 
+ ## Argelander-Institute for Astronomy
+ - [https://astro.uni-bonn.de](https://astro.uni-bonn.de)
+ - date_published: 2024-02-26T00:00:00+00:00
+
  ## Weiterleitung
  - [https://basis.uni-bonn.de](https://basis.uni-bonn.de)
- - date_published: 2024-07-24T07:47:28.743831+00:00
+ - date_published: 2021-05-18T09:30:20+00:00
 
  ## eCampus: Magazin
  - [https://ecampus.uni-bonn.de](https://ecampus.uni-bonn.de)
  - date_published: 2024-06-25T00:00:00+00:00
 
+ ## Hausdorff Center for Mathematics
+ - [https://hausdorff-center.uni-bonn.de](https://hausdorff-center.uni-bonn.de)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Hausdorff Center for Mathematics
+ - [https://hausdorff-research-institute.uni-bonn.de](https://hausdorff-research-institute.uni-bonn.de)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Hausdorff Center for Mathematics
+ - [https://hcm.uni-bonn.de](https://hcm.uni-bonn.de)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Hausdorff Research Institute for Mathematics
+ - [https://him.uni-bonn.de](https://him.uni-bonn.de)
+ - date_published: 2024-06-30T08:24:14.909920+00:00
+
+ ## University Computer Center
+ - [https://hrz.uni-bonn.de](https://hrz.uni-bonn.de)
+ - date_published: 2024-07-24T07:47:30.830238+00:00
+
+ ## Hochschulsport der Uni Bonn
+ - [https://sport.uni-bonn.de](https://sport.uni-bonn.de)
+ - date_published: 2024-07-24T07:47:27.772512+00:00
+
  ## UAV-g 2017
- - [http://uavg17.ipb.uni-bonn.de](http://uavg17.ipb.uni-bonn.de)
+ - [https://uavg17.ipb.uni-bonn.de](https://uavg17.ipb.uni-bonn.de)
  - date_published: 2023-12-19T14:21:31+00:00
+
+ ## Home Bonn University and State Library
+ - [https://ulb.uni-bonn.de](https://ulb.uni-bonn.de)
+ - date_published: 2024-07-24T07:47:36.897217+00:00
 
  ## University of Bonn
  - [https://uni-bonn.de](https://uni-bonn.de)
@@ -945,45 +1031,17 @@
  - [https://webstat.hrz.uni-bonn.de](https://webstat.hrz.uni-bonn.de)
  - date_published: 2024-07-24T07:47:29.624961+00:00
 
- ## Argelander-Institute for Astronomy
- - [http://www.astro.uni-bonn.de](http://www.astro.uni-bonn.de)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Hausdorff Center for Mathematics
- - [http://www.hausdorff-center.uni-bonn.de](http://www.hausdorff-center.uni-bonn.de)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Hausdorff Center for Mathematics
- - [http://www.hausdorff-research-institute.uni-bonn.de](http://www.hausdorff-research-institute.uni-bonn.de)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Hausdorff Center for Mathematics
- - [https://www.hcm.uni-bonn.de](https://www.hcm.uni-bonn.de)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Hausdorff Research Institute for Mathematics
- - [https://www.him.uni-bonn.de](https://www.him.uni-bonn.de)
- - date_published: 2024-06-30T08:24:14.909920+00:00
-
- ## University Computer Center
- - [https://www.hrz.uni-bonn.de](https://www.hrz.uni-bonn.de)
- - date_published: 2024-07-24T07:47:30.830238+00:00
-
  ## Homepage
- - [http://www.informatik.uni-bonn.de](http://www.informatik.uni-bonn.de)
+ - [https://www.informatik.uni-bonn.de](https://www.informatik.uni-bonn.de)
  - date_published: 2024-08-18T18:20:54.410331+00:00
 
  ## Mathematical Institute of the University of Bonn
- - [http://www.math.uni-bonn.de](http://www.math.uni-bonn.de)
+ - [https://www.math.uni-bonn.de](https://www.math.uni-bonn.de)
  - date_published: 2024-06-30T09:22:58.539232+00:00
 
- ## Hochschulsport der Uni Bonn
- - [https://www.sport.uni-bonn.de](https://www.sport.uni-bonn.de)
- - date_published: 2024-07-24T07:47:27.772512+00:00
-
- ## Home Bonn University and State Library
- - [https://www.ulb.uni-bonn.de](https://www.ulb.uni-bonn.de)
- - date_published: 2024-07-24T07:47:36.897217+00:00
+ ## BIBA - Home
+ - [https://biba.uni-bremen.de](https://biba.uni-bremen.de)
+ - date_published: 2024-10-16T04:02:59.399094+00:00
 
  ## UBlogs
  - [https://blogs.uni-bremen.de](https://blogs.uni-bremen.de)
@@ -994,7 +1052,7 @@
  - date_published: 2024-02-08T22:09:39.271857+00:00
 
  ## Cognitive Systems Lab - Universität Bremen
- - [http://csl.uni-bremen.de](http://csl.uni-bremen.de)
+ - [https://csl.uni-bremen.de](https://csl.uni-bremen.de)
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## Zugriff auf Stud.IP nur noch via VPN möglich | Access to Stud.IP only possible via VPN - Universität Bremen
@@ -1004,14 +1062,15 @@
  ## Staats- und Universitätsbibliothek Bremen - start/welcome
  - [https://opac.suub.uni-bremen.de](https://opac.suub.uni-bremen.de)
  - date_published: 2024-07-24T03:55:28.149236+00:00
+ - date_dead_since: 2025-01-04T13:52:19.147841+00:00
 
  ## Home | Staats- und Universitätsbibliothek Bremen
  - [https://suub.uni-bremen.de](https://suub.uni-bremen.de)
  - date_published: 2024-04-29T06:59:47.164309+00:00
 
- ## BIBA - Home
- - [https://www.biba.uni-bremen.de](https://www.biba.uni-bremen.de)
- - date_published: 2024-10-16T04:02:59.399094+00:00
+ ## Startseite - Universität Bremen
+ - [https://uni-bremen.de](https://uni-bremen.de)
+ - date_published: 2024-06-11T00:00:00+00:00
 
  ## ifkud
  - [https://www.deutschlandstudien.uni-bremen.de](https://www.deutschlandstudien.uni-bremen.de)
@@ -1029,10 +1088,6 @@
  - [http://www.math.uni-bremen.de](http://www.math.uni-bremen.de)
  - date_published: 2024-12-10T00:00:00+00:00
 
- ## Startseite - Universität Bremen
- - [https://www.uni-bremen.de](https://www.uni-bremen.de)
- - date_published: 2024-06-11T00:00:00+00:00
-
  ## Yisares – Interdisciplinary Autumn Research School – Situating Soft Authoritarianism Between Geopolitical Complexities and Everyday Practices (2022)
  - [https://yisares.uni-bremen.de](https://yisares.uni-bremen.de)
  - date_published: 2024-07-04T13:44:44.771504+00:00
@@ -1044,9 +1099,10 @@
  ## Home - TU Dortmund, Informatik 2
  - [http://ls2-www.cs.uni-dortmund.de](http://ls2-www.cs.uni-dortmund.de)
  - date_published: 2024-06-30T08:56:35.730608+00:00
+ - date_dead_since: 2025-01-04T13:57:23.073827+00:00
 
  ## Die erste deutsche Universität des 21. Jahrhunderts
- - [https://www.uni-due.de](https://www.uni-due.de)
+ - [https://uni-due.de](https://uni-due.de)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## MEINSTPAULI
@@ -1054,7 +1110,7 @@
  - date_published: 2024-09-25T19:08:42.625697+00:00
 
  ## Startseite
- - [https://www.uni-erfurt.de](https://www.uni-erfurt.de)
+ - [https://uni-erfurt.de](https://uni-erfurt.de)
  - date_published: 2024-07-17T08:05:41+00:00
 
  ## Login - FAUbox
@@ -1065,20 +1121,20 @@
  - [https://lgdv.cms.rrze.uni-erlangen.de](https://lgdv.cms.rrze.uni-erlangen.de)
  - date_published: 2024-02-17T00:00:00+00:00
 
+ ## Computational Corpus Linguistics
+ - [https://linguistik.uni-erlangen.de](https://linguistik.uni-erlangen.de)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Wir bewegen Wissen
+ - [https://uni-erlangen.de](https://uni-erlangen.de)
+ - date_published: 2024-06-19T00:00:00+00:00
+
  ## UnivIS der Friedrich-Alexander-Universität Erlangen-Nürnberg
  - [https://univis.uni-erlangen.de](https://univis.uni-erlangen.de)
  - date_published: 2024-07-09T13:16:18.111021+00:00
 
- ## Computational Corpus Linguistics
- - [http://www.linguistik.uni-erlangen.de](http://www.linguistik.uni-erlangen.de)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Wir bewegen Wissen
- - [http://www.uni-erlangen.de](http://www.uni-erlangen.de)
- - date_published: 2024-06-19T00:00:00+00:00
-
  ## Startseite - Europa-Universität Flensburg (EUF)
- - [https://www.uni-flensburg.de](https://www.uni-flensburg.de)
+ - [https://uni-flensburg.de](https://uni-flensburg.de)
  - date_published: 2024-09-30T13:01:21.896770+00:00
 
  ## Algorithms and Complexity - Welcome
@@ -1088,13 +1144,14 @@
  ## PPDP | LOPSTR | WFLP 2018
  - [http://ppdp-lopstr-18.cs.uni-frankfurt.de](http://ppdp-lopstr-18.cs.uni-frankfurt.de)
  - date_published: 2019-04-02T14:37:09+00:00
+ - date_dead_since: 2025-01-04T13:57:52.517699+00:00
 
  ## Digitale Sammlungen
  - [http://sammlungen.ub.uni-frankfurt.de](http://sammlungen.ub.uni-frankfurt.de)
  - date_published: 2024-12-10T18:01:13.051471+00:00
 
  ## TITUS: INDEX
- - [http://titus.uni-frankfurt.de](http://titus.uni-frankfurt.de)
+ - [https://titus.uni-frankfurt.de](https://titus.uni-frankfurt.de)
  - date_published: 2017-07-17T07:37:55+00:00
 
  ## Goethe-Universität — Welcome to Goethe University Frankfurt
@@ -1105,37 +1162,109 @@
  - [http://www.bigdata.uni-frankfurt.de](http://www.bigdata.uni-frankfurt.de)
  - date_published: 2024-07-14T23:31:18.050095+00:00
 
+ ## Institut für Anorganische und Analytische Chemie
+ - [https://ac.uni-freiburg.de](https://ac.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:34.636559+00:00
+
  ## Willkommen — Professur für Algorithmen und Datenstrukturen
  - [https://ad.informatik.uni-freiburg.de](https://ad.informatik.uni-freiburg.de)
  - date_published: 2024-08-19T20:44:51.758681+00:00
+
+ ## Willkommen am Seminar für Griechische und Lateinische Philologie! — Seminar für Griechische und Lateinische Philologie
+ - [https://altphil.uni-freiburg.de](https://altphil.uni-freiburg.de)
+ - date_published: 2024-07-24T06:15:53.925911+00:00
+
+ ## Förderverein Alumni Freiburg e.V.
+ - [https://alumni-foerdern.uni-freiburg.de](https://alumni-foerdern.uni-freiburg.de)
+ - date_published: 2024-07-24T06:16:30.542175+00:00
 
  ## Sign in - Matomo
  - [https://analytics.ub.uni-freiburg.de](https://analytics.ub.uni-freiburg.de)
  - date_published: 2024-07-24T06:21:36.984122+00:00
 
+ ## Willkommen — Institut für Anatomie und Zellbiologie
+ - [https://anatomie.uni-freiburg.de](https://anatomie.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:07.399518+00:00
+
+ ## English Department — Englisches Seminar
+ - [https://anglistik.uni-freiburg.de](https://anglistik.uni-freiburg.de)
+ - date_published: 2024-07-24T06:21:16.603614+00:00
+
+ ## Welcome to the Bernstein Center Freiburg — Bernstein Center Freiburg
+ - [https://bcf.uni-freiburg.de](https://bcf.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:49.213550+00:00
+
+ ## Welcome to the Institute of Biology I Zoology — Institut für Biologie I (Zoologie)
+ - [https://bio1.uni-freiburg.de](https://bio1.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:30.630749+00:00
+
  ## BIOIII
  - [https://bio3.biologie.uni-freiburg.de](https://bio3.biologie.uni-freiburg.de)
  - date_published: 2024-07-24T06:19:12.219042+00:00
 
+ ## From analysis to synthesis - spanning all domains of life
+ - [https://bioss.uni-freiburg.de](https://bioss.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:57.470617+00:00
+
+ ## BrainLinks-BrainTools
+ - [https://brainlinks-braintools.uni-freiburg.de](https://brainlinks-braintools.uni-freiburg.de)
+ - date_published: 2024-07-15T00:00:00+00:00
+
  ## Weiterleitung
  - [https://campus.uni-freiburg.de](https://campus.uni-freiburg.de)
- - date_published: 2024-07-24T06:21:11.656517+00:00
+ - date_published: 2024-04-17T09:40:08+00:00
 
  ## Computer Graphics - University of Freiburg
  - [https://cg.informatik.uni-freiburg.de](https://cg.informatik.uni-freiburg.de)
- - date_published: 2024-10-18T14:50:13.156432+00:00
+ - date_published: 2022-11-10T10:36:44+00:00
+
+ ## CIBSS
+ - [https://cibss.uni-freiburg.de](https://cibss.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:23.304098+00:00
+
+ ## Universität Freiburg – Institut für Erziehungswissenschaft
+ - [https://ezw.uni-freiburg.de](https://ezw.uni-freiburg.de)
+ - date_published: 2024-07-24T06:16:38.921682+00:00
+
+ ## Welcome to the Freiburg Center for Data Analysis and Modeling (FDM)! — Freiburg Center for Data Analysis and Modeling
+ - [https://fdm.uni-freiburg.de](https://fdm.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:04.635755+00:00
 
  ## Forschungsdatenbank Freiburg
- - [http://forschdb.verwaltung.uni-freiburg.de](http://forschdb.verwaltung.uni-freiburg.de)
- - date_published: 2024-07-24T06:21:35.363087+00:00
+ - [https://forschdb.verwaltung.uni-freiburg.de](https://forschdb.verwaltung.uni-freiburg.de)
+ - date_published: 2019-07-18T06:16:45+00:00
 
  ## FreiDok plus - Startseite
  - [https://freidok.uni-freiburg.de](https://freidok.uni-freiburg.de)
  - date_published: 2024-04-29T06:27:13.995307+00:00
 
+ ## Gemeinsame Kommission — Gemeinsame Kommission der Philologischen und der Philosophischen Fakultät
+ - [https://geko.uni-freiburg.de](https://geko.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:36.091322+00:00
+
+ ## Herzlich willkommen am Deutschen Seminar der Universität Freiburg! — Deutsches Seminar
+ - [https://germanistik.uni-freiburg.de](https://germanistik.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:19.236972+00:00
+
+ ## Das Historische Seminar der Albert-Ludwigs-Universität Freiburg — Historisches Seminar
+ - [https://geschichte.uni-freiburg.de](https://geschichte.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:42.106690+00:00
+
+ ## Gründungsbüro 2020 – gründen
+ - [https://gruenden.uni-freiburg.de](https://gruenden.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:54.517663+00:00
+
+ ## Hermann Paul Centrum für Linguistik | Das Hermann-Paul-Centrum für Linguistik
+ - [https://hpcl.uni-freiburg.de](https://hpcl.uni-freiburg.de)
+ - date_published: 2024-07-24T06:18:39.461961+00:00
+
  ## ILIAS Uni Freiburg: Login
  - [https://ilias.uni-freiburg.de](https://ilias.uni-freiburg.de)
  - date_published: 2024-07-24T06:15:59.412589+00:00
+
+ ## Willkommen am IMTEK — Institut für Mikrosystemtechnik - IMTEK
+ - [https://imtek.uni-freiburg.de](https://imtek.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:18.750978+00:00
 
  ## Katalog plus - Universitätsbibliothek Freiburg
  - [https://katalog.ub.uni-freiburg.de](https://katalog.ub.uni-freiburg.de)
@@ -1143,71 +1272,141 @@
 
  ## Public Relations — Office of University and Science Communications
  - [https://kommunikation.uni-freiburg.de](https://kommunikation.uni-freiburg.de)
- - date_published: 2024-07-18T00:00:00+00:00
+ - date_published: 2021-12-02T10:13:01+00:00
+
+ ## Herzlich willkommen am Kunstgeschichtlichen Institut — Kunstgeschichte
+ - [https://kunstgeschichte.uni-freiburg.de](https://kunstgeschichte.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:00.344899+00:00
+
+ ## livMatS | Home
+ - [https://livmats.uni-freiburg.de](https://livmats.uni-freiburg.de)
+ - date_published: 2024-06-13T00:00:00+00:00
 
  ## Abteilung für Mathematische Logik
  - [https://logik.mathematik.uni-freiburg.de](https://logik.mathematik.uni-freiburg.de)
- - date_published: 2024-07-24T06:16:25.697108+00:00
+ - date_published: 2023-04-17T13:52:21+00:00
+
+ ## Willkommen an der Fakultät für Mathematik und Physik!
+ - [https://mathphys.uni-freiburg.de](https://mathphys.uni-freiburg.de)
+ - date_published: 2018-11-21T10:36:11+00:00
+
+ ## Mathematisches Institut
+ - [https://math.uni-freiburg.de](https://math.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:19.757527+00:00
 
  ## Herzlich willkommen • Institut für Medienkulturwissenschaft
  - [https://medienkulturwissenschaft.uni-freiburg.de](https://medienkulturwissenschaft.uni-freiburg.de)
  - date_published: 2024-07-24T06:19:48.720599+00:00
 
+ ## Mittelalterzentrum – Albert-Ludwigs-Universität Freiburg
+ - [https://mittelalterzentrum.uni-freiburg.de](https://mittelalterzentrum.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:29.977495+00:00
+
  ## Machine Learning Lab
- - [http://ml.informatik.uni-freiburg.de](http://ml.informatik.uni-freiburg.de)
+ - [https://ml.informatik.uni-freiburg.de](https://ml.informatik.uni-freiburg.de)
  - date_published: 2024-07-13T03:07:12.689104+00:00
+
+ ## Molecular Medicine a. Cell Research, Director: Prof. Dr. C. Peters — Institut für Molekulare Medizin und Zellforschung
+ - [https://mol-med.uni-freiburg.de](https://mol-med.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:06.636109+00:00
+
+ ## Musikwissenschaftliches Seminar – Albert-Ludwigs-Universität Freiburg
+ - [https://muwi.uni-freiburg.de](https://muwi.uni-freiburg.de)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Willkommen am Orientalischen Seminar — Orientalisches Seminar
+ - [https://orient.uni-freiburg.de](https://orient.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:26.135910+00:00
+
+ ## OSA2 der UniversitÃ¤t Freiburg
+ - [https://osa.uni-freiburg.de](https://osa.uni-freiburg.de)
+ - date_published: 2019-02-26T12:18:34+00:00
+
+ ## Welcome to the Institute of Physics — Physikalisches Institut
+ - [https://physik.uni-freiburg.de](https://physik.uni-freiburg.de)
+ - date_published: 2024-07-24T06:15:55.706082+00:00
+
+ ## Physiology — Institute of Physiology — University of Freiburg, Germany
+ - [https://physiologie.uni-freiburg.de](https://physiologie.uni-freiburg.de)
+ - date_published: 2024-04-08T00:00:00+00:00
 
  ## Zentraler Webserver
  - [https://piwik.mw.uni-freiburg.de](https://piwik.mw.uni-freiburg.de)
- - date_published: 2024-07-24T06:18:36.977409+00:00
+ - date_published: 2011-06-06T06:36:06+00:00
+
+ ## Department of Political Science — Seminar für Wissenschaftliche Politik
+ - [https://politik.uni-freiburg.de](https://politik.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:06.305174+00:00
+
+ ## — Institut für Psychologie
+ - [https://psychologie.uni-freiburg.de](https://psychologie.uni-freiburg.de)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Willkommen bei Plone
+ - [https://rz.uni-freiburg.de](https://rz.uni-freiburg.de)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Herzlich willkommen am Skandinavischen Seminar — Skandinavisches Seminar
+ - [https://skandinavistik.uni-freiburg.de](https://skandinavistik.uni-freiburg.de)
+ - date_published: 2024-07-24T06:16:40.178515+00:00
+
+ ## Willkommen — Sprachlehrinstitut
+ - [https://sli.uni-freiburg.de](https://sli.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:14.063018+00:00
+
+ ## Willkommen am Institut für Soziologie! — Institut für Soziologie
+ - [https://soziologie.uni-freiburg.de](https://soziologie.uni-freiburg.de)
+ - date_published: 2024-07-24T06:16:21.744322+00:00
 
  ## Software Engineering
  - [https://swt.informatik.uni-freiburg.de](https://swt.informatik.uni-freiburg.de)
  - date_published: 2024-08-07T18:59:18+00:00
 
+ ## Taxmaster Uni Freiburg – Der direkte Weg zum Master (Univ.) & StB
+ - [https://taxmaster.uni-freiburg.de](https://taxmaster.uni-freiburg.de)
+ - date_published: 2024-07-24T06:21:10.308086+00:00
+
+ ## Theologische Fakultät
+ - [https://theol.uni-freiburg.de](https://theol.uni-freiburg.de)
+ - date_published: 2024-07-24T06:18:57.109892+00:00
+
+ ## Universitätsbibliothek Freiburg: Universitätsbibliothek Freiburg
+ - [https://ub.uni-freiburg.de](https://ub.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:59.154447+00:00
+
+ ## University College Freiburg
+ - [https://ucf.uni-freiburg.de](https://ucf.uni-freiburg.de)
+ - date_published: 2024-07-15T00:00:00+00:00
+
  ## Uni-Freiburg : SWT - Ultimate
  - [https://ultimate.informatik.uni-freiburg.de](https://ultimate.informatik.uni-freiburg.de)
  - date_published: 2024-06-13T17:40:25+00:00
 
+ ## Universitätsarchiv
+ - [https://uniarchiv.uni-freiburg.de](https://uniarchiv.uni-freiburg.de)
+ - date_published: 2024-07-24T06:20:46.034590+00:00
+
  ## Albert-Ludwigs-Universität Freiburg
  - [https://uni-freiburg.de](https://uni-freiburg.de)
  - date_published: 2024-04-29T06:27:19.880061+00:00
+ - date_dead_since: 2025-01-04T14:08:07.638524+00:00
 
- ## Institut für Anorganische und Analytische Chemie
- - [http://www.ac.uni-freiburg.de](http://www.ac.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:34.636559+00:00
+ ## Unikirche
+ - [http://universitaetskirche.uni-freiburg.de](http://universitaetskirche.uni-freiburg.de)
+ - date_published: 2024-07-24T06:18:40.332850+00:00
+ - date_dead_since: 2025-01-04T14:25:25.849166+00:00
+
+ ## Wissenschaftliche Gesellschaft – Freiburg im Breisgau
+ - [https://wissges.uni-freiburg.de](https://wissges.uni-freiburg.de)
+ - date_published: 2024-07-24T06:18:36.420248+00:00
+
+ ## Wirtschafts- und Verhaltenswissenschaftliche Fakultät
+ - [https://wvf.uni-freiburg.de](https://wvf.uni-freiburg.de)
+ - date_published: 2024-07-24T06:19:56.303616+00:00
 
  ## Seminar für Alte Geschichte
  - [https://www.altegeschichte.uni-freiburg.de](https://www.altegeschichte.uni-freiburg.de)
  - date_published: 2024-07-24T06:18:41.261318+00:00
-
- ## Willkommen am Seminar für Griechische und Lateinische Philologie! — Seminar für Griechische und Lateinische Philologie
- - [https://www.altphil.uni-freiburg.de](https://www.altphil.uni-freiburg.de)
- - date_published: 2024-07-24T06:15:53.925911+00:00
-
- ## Förderverein Alumni Freiburg e.V.
- - [https://www.alumni-foerdern.uni-freiburg.de](https://www.alumni-foerdern.uni-freiburg.de)
- - date_published: 2024-07-24T06:16:30.542175+00:00
-
- ## Willkommen — Institut für Anatomie und Zellbiologie
- - [https://www.anatomie.uni-freiburg.de](https://www.anatomie.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:07.399518+00:00
-
- ## English Department — Englisches Seminar
- - [https://www.anglistik.uni-freiburg.de](https://www.anglistik.uni-freiburg.de)
- - date_published: 2024-07-24T06:21:16.603614+00:00
-
- ## Welcome to the Bernstein Center Freiburg — Bernstein Center Freiburg
- - [https://www.bcf.uni-freiburg.de](https://www.bcf.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:49.213550+00:00
-
- ## Welcome to the Institute of Biology I Zoology — Institut für Biologie I (Zoologie)
- - [https://www.bio1.uni-freiburg.de](https://www.bio1.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:30.630749+00:00
-
- ## From analysis to synthesis - spanning all domains of life
- - [https://www.bioss.uni-freiburg.de](https://www.bioss.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:57.470617+00:00
 
  ## Herzlich Willkommen an der Fakultät für Biologie  — Fakultät für Biologie
  - [https://www.bio.uni-freiburg.de](https://www.bio.uni-freiburg.de)
@@ -1217,21 +1416,13 @@
  - [https://www.botanischer-garten.uni-freiburg.de](https://www.botanischer-garten.uni-freiburg.de)
  - date_published: 2024-07-24T06:16:18.165723+00:00
 
- ## BrainLinks-BrainTools
- - [https://www.brainlinks-braintools.uni-freiburg.de](https://www.brainlinks-braintools.uni-freiburg.de)
- - date_published: 2024-07-15T00:00:00+00:00
-
  ## Welcome to the Center for Transcultural Asian Studies (CETRAS) — CETRAS
  - [https://www.cetras.uni-freiburg.de](https://www.cetras.uni-freiburg.de)
  - date_published: 2024-07-24T06:19:58.470278+00:00
 
  ## Equal Opportunity Representative — Beauftragte für Chancengleichheit
- - [https://www.chancengleichheit.uni-freiburg.de](https://www.chancengleichheit.uni-freiburg.de)
+ - [http://www.chancengleichheit.uni-freiburg.de](http://www.chancengleichheit.uni-freiburg.de)
  - date_published: 2024-07-24T06:16:10.859669+00:00
-
- ## CIBSS
- - [https://www.cibss.uni-freiburg.de](https://www.cibss.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:23.304098+00:00
 
  ## css.uni-freiburg.de
  - [https://www.css.uni-freiburg.de](https://www.css.uni-freiburg.de)
@@ -1241,17 +1432,9 @@
  - [https://www.ethik-zentrum.uni-freiburg.de](https://www.ethik-zentrum.uni-freiburg.de)
  - date_published: 2024-07-24T06:18:43.989698+00:00
 
- ## Universität Freiburg – Institut für Erziehungswissenschaft
- - [https://www.ezw.uni-freiburg.de](https://www.ezw.uni-freiburg.de)
- - date_published: 2024-07-24T06:16:38.921682+00:00
-
  ## Welcome to the Familyservice — Familienservice
  - [https://www.familienservice.uni-freiburg.de](https://www.familienservice.uni-freiburg.de)
  - date_published: 2024-07-24T06:20:42.309228+00:00
-
- ## Welcome to the Freiburg Center for Data Analysis and Modeling (FDM)! — Freiburg Center for Data Analysis and Modeling
- - [https://www.fdm.uni-freiburg.de](https://www.fdm.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:04.635755+00:00
 
  ## FIT for Future — FIT Freiburger Zentrum für interaktive Werkstoffe und bioinspirierte  Technologien
  - [https://www.fit.uni-freiburg.de](https://www.fit.uni-freiburg.de)
@@ -1261,29 +1444,9 @@
  - [https://www.freunde.uni-freiburg.de](https://www.freunde.uni-freiburg.de)
  - date_published: 2024-07-24T06:19:03.359664+00:00
 
- ## Gemeinsame Kommission — Gemeinsame Kommission der Philologischen und der Philosophischen Fakultät
- - [https://www.geko.uni-freiburg.de](https://www.geko.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:36.091322+00:00
-
- ## Herzlich willkommen am Deutschen Seminar der Universität Freiburg! — Deutsches Seminar
- - [http://www.germanistik.uni-freiburg.de](http://www.germanistik.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:19.236972+00:00
-
- ## Das Historische Seminar der Albert-Ludwigs-Universität Freiburg — Historisches Seminar
- - [https://www.geschichte.uni-freiburg.de](https://www.geschichte.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:42.106690+00:00
-
- ## Gründungsbüro 2020 – gründen
- - [http://www.gruenden.uni-freiburg.de](http://www.gruenden.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:54.517663+00:00
-
  ## Willkommen zum Hochschulsport Freiburg — Allgemeiner Hochschulsport
  - [https://www.hochschulsport.uni-freiburg.de](https://www.hochschulsport.uni-freiburg.de)
  - date_published: 2024-07-24T06:16:23.253178+00:00
-
- ## Hermann Paul Centrum für Linguistik | Das Hermann-Paul-Centrum für Linguistik
- - [http://www.hpcl.uni-freiburg.de](http://www.hpcl.uni-freiburg.de)
- - date_published: 2024-07-24T06:18:39.461961+00:00
 
  ## Herzlich Willkommen am Institut für Archäologische Wissenschaften — Institut für Archäologische Wissenschaften
  - [https://www.iaw.uni-freiburg.de](https://www.iaw.uni-freiburg.de)
@@ -1297,10 +1460,6 @@
  - [https://www.imbi.uni-freiburg.de](https://www.imbi.uni-freiburg.de)
  - date_published: 2024-07-24T06:18:38.607233+00:00
 
- ## Willkommen am IMTEK — Institut für Mikrosystemtechnik - IMTEK
- - [https://www.imtek.uni-freiburg.de](https://www.imtek.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:18.750978+00:00
-
  ## Welcome to Department of Computer Science — Institut für Informatik
  - [https://www.informatik.uni-freiburg.de](https://www.informatik.uni-freiburg.de)
  - date_published: 2024-07-12T00:00:00+00:00
@@ -1312,54 +1471,20 @@
  ## Welcome! — Institute of Cultural Analysis / European Ethnology
  - [https://www.kaee.uni-freiburg.de](https://www.kaee.uni-freiburg.de)
  - date_published: 2024-07-24T06:19:15.416097+00:00
-
- ## Herzlich willkommen am Kunstgeschichtlichen Institut — Kunstgeschichte
- - [https://www.kunstgeschichte.uni-freiburg.de](https://www.kunstgeschichte.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:00.344899+00:00
+ - date_dead_since: 2025-01-04T14:14:30.553447+00:00
 
  ## Informationsportal Lehre – Albert-Ludwigs-Universität Freiburg
  - [https://www.lehre.uni-freiburg.de](https://www.lehre.uni-freiburg.de)
  - date_published: 2024-07-24T06:21:02.987192+00:00
-
- ## livMatS | Home
- - [https://www.livmats.uni-freiburg.de](https://www.livmats.uni-freiburg.de)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Willkommen an der Fakultät für Mathematik und Physik!
- - [https://www.mathphys.uni-freiburg.de](https://www.mathphys.uni-freiburg.de)
- - date_published: 2024-07-24T06:16:41.482554+00:00
-
- ## Mathematisches Institut
- - [https://www.math.uni-freiburg.de](https://www.math.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:19.757527+00:00
-
- ## Mittelalterzentrum – Albert-Ludwigs-Universität Freiburg
- - [https://www.mittelalterzentrum.uni-freiburg.de](https://www.mittelalterzentrum.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:29.977495+00:00
-
- ## Molecular Medicine a. Cell Research, Director: Prof. Dr. C. Peters — Institut für Molekulare Medizin und Zellforschung
- - [https://www.mol-med.uni-freiburg.de](https://www.mol-med.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:06.636109+00:00
+ - date_dead_since: 2025-01-04T14:21:18.105606+00:00
 
  ## Willkommen — Institut für Medizinische Psychologie und Medizinische Soziologie
  - [https://www.mps.uni-freiburg.de](https://www.mps.uni-freiburg.de)
- - date_published: 2024-07-24T06:16:33.773068+00:00
-
- ## Musikwissenschaftliches Seminar – Albert-Ludwigs-Universität Freiburg
- - [https://www.muwi.uni-freiburg.de](https://www.muwi.uni-freiburg.de)
- - date_published: 2024-06-02T00:00:00+00:00
+ - date_published: 2024-02-29T15:30:44+00:00
 
  ## NFZ - Nietzsche-Forschungszentrum — NFZ - Nietzsche-Forschungszentrum
  - [https://www.nfz.uni-freiburg.de](https://www.nfz.uni-freiburg.de)
  - date_published: 2024-07-24T06:19:10.902385+00:00
-
- ## Willkommen am Orientalischen Seminar — Orientalisches Seminar
- - [https://www.orient.uni-freiburg.de](https://www.orient.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:26.135910+00:00
-
- ## OSA2 der UniversitÃ¤t Freiburg
- - [https://www.osa.uni-freiburg.de](https://www.osa.uni-freiburg.de)
- - date_published: 2024-07-24T06:18:33.426180+00:00
 
  ## Herzlich willkommen an der Philologischen Fakultät — Philologische Fakultät
  - [https://www.philolfak.uni-freiburg.de](https://www.philolfak.uni-freiburg.de)
@@ -1369,26 +1494,6 @@
  - [https://www.philosfak.uni-freiburg.de](https://www.philosfak.uni-freiburg.de)
  - date_published: 2024-07-24T06:20:40.856024+00:00
 
- ## Welcome to the Institute of Physics — Physikalisches Institut
- - [https://www.physik.uni-freiburg.de](https://www.physik.uni-freiburg.de)
- - date_published: 2024-07-24T06:15:55.706082+00:00
-
- ## Physiology — Institute of Physiology — University of Freiburg, Germany
- - [https://www.physiologie.uni-freiburg.de](https://www.physiologie.uni-freiburg.de)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Department of Political Science — Seminar für Wissenschaftliche Politik
- - [http://www.politik.uni-freiburg.de](http://www.politik.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:06.305174+00:00
-
- ## — Institut für Psychologie
- - [https://www.psychologie.uni-freiburg.de](https://www.psychologie.uni-freiburg.de)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Willkommen bei Plone
- - [https://www.rz.uni-freiburg.de](https://www.rz.uni-freiburg.de)
- - date_published: 2024-07-23T00:00:00+00:00
-
  ## Herzlich Willkommen  — Schwerbehindertenvertretung
  - [https://www.schwerbehindertenvertretung.uni-freiburg.de](https://www.schwerbehindertenvertretung.uni-freiburg.de)
  - date_published: 2024-07-24T06:19:50.902506+00:00
@@ -1397,21 +1502,9 @@
  - [https://www.sinologie.uni-freiburg.de](https://www.sinologie.uni-freiburg.de)
  - date_published: 2024-07-24T06:18:49.800623+00:00
 
- ## Herzlich willkommen am Skandinavischen Seminar — Skandinavisches Seminar
- - [https://www.skandinavistik.uni-freiburg.de](https://www.skandinavistik.uni-freiburg.de)
- - date_published: 2024-07-24T06:16:40.178515+00:00
-
  ## Slavisches Seminar
  - [https://www.slavistik.uni-freiburg.de](https://www.slavistik.uni-freiburg.de)
  - date_published: 2024-07-24T06:18:42.674708+00:00
-
- ## Willkommen — Sprachlehrinstitut
- - [https://www.sli.uni-freiburg.de](https://www.sli.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:14.063018+00:00
-
- ## Willkommen am Institut für Soziologie! — Institut für Soziologie
- - [https://www.soziologie.uni-freiburg.de](https://www.soziologie.uni-freiburg.de)
- - date_published: 2024-07-24T06:16:21.744322+00:00
 
  ## Willkommen beim Studium generale    — Studium generale
  - [https://www.studiumgenerale.uni-freiburg.de](https://www.studiumgenerale.uni-freiburg.de)
@@ -1420,50 +1513,11 @@
  ## Willkommen auf der offiziellen Seite Deiner Studierendenvertretung — StuRa Uni Freiburg
  - [https://www.stura.uni-freiburg.de](https://www.stura.uni-freiburg.de)
  - date_published: 2024-07-24T06:16:16.544994+00:00
-
- ## Taxmaster Uni Freiburg – Der direkte Weg zum Master (Univ.) & StB
- - [https://www.taxmaster.uni-freiburg.de](https://www.taxmaster.uni-freiburg.de)
- - date_published: 2024-07-24T06:21:10.308086+00:00
-
- ## Theologische Fakultät
- - [https://www.theol.uni-freiburg.de](https://www.theol.uni-freiburg.de)
- - date_published: 2024-07-24T06:18:57.109892+00:00
-
- ## Universitätsbibliothek Freiburg: Universitätsbibliothek Freiburg
- - [https://www.ub.uni-freiburg.de](https://www.ub.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:59.154447+00:00
-
- ## University College Freiburg
- - [https://www.ucf.uni-freiburg.de](https://www.ucf.uni-freiburg.de)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Universitätsarchiv
- - [https://www.uniarchiv.uni-freiburg.de](https://www.uniarchiv.uni-freiburg.de)
- - date_published: 2024-07-24T06:20:46.034590+00:00
-
- ## Unikirche
- - [https://www.universitaetskirche.uni-freiburg.de](https://www.universitaetskirche.uni-freiburg.de)
- - date_published: 2024-07-24T06:18:40.332850+00:00
+ - date_dead_since: 2025-01-04T14:23:13.108058+00:00
 
  ## Wissenschaftliche Weiterbildung | Bildungstransfer — Wissenschaftliche Weiterbildung
  - [https://www.wb.uni-freiburg.de](https://www.wb.uni-freiburg.de)
  - date_published: 2024-07-24T06:19:54.382007+00:00
-
- ## Wissenschaftliche Gesellschaft – Freiburg im Breisgau
- - [https://www.wissges.uni-freiburg.de](https://www.wissges.uni-freiburg.de)
- - date_published: 2024-07-24T06:18:36.420248+00:00
-
- ## Wirtschafts- und Verhaltenswissenschaftliche Fakultät
- - [https://www.wvf.uni-freiburg.de](https://www.wvf.uni-freiburg.de)
- - date_published: 2024-07-24T06:19:56.303616+00:00
-
- ## Zentrum für Anthropologie und Gender Studies [ZAG] – Albert-Ludwigs-Universität Freiburg i. Br.
- - [https://www.zag.uni-freiburg.de](https://www.zag.uni-freiburg.de)
- - date_published: 2024-07-24T06:18:53.342481+00:00
-
- ## Welcome! — Zentrum für Erneuerbare Energien
- - [https://www.zee.uni-freiburg.de](https://www.zee.uni-freiburg.de)
- - date_published: 2024-07-24T06:18:52.319377+00:00
 
  ## Zentrum für Populäre Kultur und Musik
  - [https://www.zpkm.uni-freiburg.de](https://www.zpkm.uni-freiburg.de)
@@ -1472,9 +1526,18 @@
  ## Zentrale Universitätsverwaltung – Albert-Ludwigs-Universität Freiburg
  - [https://www.zuv.uni-freiburg.de](https://www.zuv.uni-freiburg.de)
  - date_published: 2024-07-24T06:20:02.958562+00:00
+ - date_dead_since: 2025-01-04T14:32:33.620167+00:00
+
+ ## Zentrum für Anthropologie und Gender Studies [ZAG] – Albert-Ludwigs-Universität Freiburg i. Br.
+ - [https://zag.uni-freiburg.de](https://zag.uni-freiburg.de)
+ - date_published: 2024-07-24T06:18:53.342481+00:00
+
+ ## Welcome! — Zentrum für Erneuerbare Energien
+ - [https://zee.uni-freiburg.de](https://zee.uni-freiburg.de)
+ - date_published: 2020-04-21T14:09:01+00:00
 
  ## Ausbildung - Beruf - Karriere - dein Job Portal
- - [http://www.unigestalten.de](http://www.unigestalten.de)
+ - [http://unigestalten.de](http://unigestalten.de)
  - date_published: 2024-07-01T06:17:32.328039+00:00
 
  ## CSL 2022
@@ -1483,14 +1546,14 @@
 
  ## Weiterleitung
  - [https://ecampus.uni-goettingen.de](https://ecampus.uni-goettingen.de)
- - date_published: 2024-04-29T07:00:00.900586+00:00
+ - date_published: 2023-05-10T08:02:17+00:00
 
  ## E-Learning - Georg-August-Universität Göttingen
  - [https://e-learning.uni-goettingen.de](https://e-learning.uni-goettingen.de)
  - date_published: 2024-07-24T03:48:16.048025+00:00
 
  ## GDZ - Göttinger Digitalisierungszentrum
- - [http://gdz.sub.uni-goettingen.de](http://gdz.sub.uni-goettingen.de)
+ - [https://gdz.sub.uni-goettingen.de](https://gdz.sub.uni-goettingen.de)
  - date_published: 2024-06-30T02:59:43.469693+00:00
 
  ## ifh Göttingen | Volkswirtschaftliches Institut für Mittelstand und Handwerk an der Universität Göttingen e.V.
@@ -1506,11 +1569,11 @@
  - date_published: 2024-07-24T03:47:55.160010+00:00
 
  ## MONET - About
- - [http://monet.uni-goettingen.de](http://monet.uni-goettingen.de)
+ - [https://monet.uni-goettingen.de](https://monet.uni-goettingen.de)
  - date_published: 2023-11-20T16:20:02+00:00
 
  ## Philosophische Fakultät - Georg-August-Universität Göttingen
- - [https://phil.uni-goettingen.de](https://phil.uni-goettingen.de)
+ - [http://phil.uni-goettingen.de](http://phil.uni-goettingen.de)
  - date_published: 2024-07-24T03:49:14.416498+00:00
 
  ## PRinS
@@ -1535,7 +1598,7 @@
 
  ## GRAS_Geo
  - [https://www.geodata2.uni-goettingen.de](https://www.geodata2.uni-goettingen.de)
- - date_published: 2024-07-24T03:54:42.469426+00:00
+ - date_published: 2023-08-28T12:02:38+00:00
 
  ## GRAS_Geo
  - [https://www.geodata.uni-goettingen.de](https://www.geodata.uni-goettingen.de)
@@ -1577,6 +1640,10 @@
  - [https://ums.uni-greifswald.de](https://ums.uni-greifswald.de)
  - date_published: 2024-09-30T13:19:49.317603+00:00
 
+ ## Universität Greifswald
+ - [https://uni-greifswald.de](https://uni-greifswald.de)
+ - date_published: 2024-06-16T09:52:54.078840+00:00
+
  ## UNIQUE – Von der Idee zum StartUp
  - [https://unique.uni-greifswald.de](https://unique.uni-greifswald.de)
  - date_published: 2024-09-30T13:20:03.272210+00:00
@@ -1585,12 +1652,8 @@
  - [https://www.medizin.uni-greifswald.de](https://www.medizin.uni-greifswald.de)
  - date_published: 2024-09-30T13:20:09.979784+00:00
 
- ## Universität Greifswald
- - [https://www.uni-greifswald.de](https://www.uni-greifswald.de)
- - date_published: 2024-06-16T09:52:54.078840+00:00
-
  ## Start - Universitäts- und Landesbibliothek Sachsen-Anhalt (ULB)
- - [http://bibliothek.uni-halle.de](http://bibliothek.uni-halle.de)
+ - [https://bibliothek.uni-halle.de](https://bibliothek.uni-halle.de)
  - date_published: 2024-04-25T00:00:00+00:00
 
  ## Blogs@MLU | Der Blogdienst des IT-Servicezentrums der Uni Halle
@@ -1598,15 +1661,15 @@
  - date_published: 2024-06-18T13:26:27.886517+00:00
 
  ## Expertendienst für die Medien
- - [http://experten.pr.uni-halle.de](http://experten.pr.uni-halle.de)
+ - [https://experten.pr.uni-halle.de](https://experten.pr.uni-halle.de)
  - date_published: 2024-10-15T06:49:07.120596+00:00
 
  ## Fachschaftsrat Mathematik/Informatik
- - [http://fachschaft.mathinf.uni-halle.de](http://fachschaft.mathinf.uni-halle.de)
+ - [https://fachschaft.mathinf.uni-halle.de](https://fachschaft.mathinf.uni-halle.de)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## Student Registration Office
- - [http://immaamt.verwaltung.uni-halle.de](http://immaamt.verwaltung.uni-halle.de)
+ - [https://immaamt.verwaltung.uni-halle.de](https://immaamt.verwaltung.uni-halle.de)
  - date_published: 2024-06-16T22:51:34.547061+00:00
 
  ## Institute of Computer Science
@@ -1622,20 +1685,29 @@
  - date_published: 2024-10-15T06:47:20.211328+00:00
 
  ## Kommunikationsverzeichnis der Martin-Luther-Universität Halle-Wittenberg
- - [http://kommvz.uni-halle.de](http://kommvz.uni-halle.de)
+ - [https://kommvz.uni-halle.de](https://kommvz.uni-halle.de)
  - date_published: 2024-06-16T22:51:27.712980+00:00
 
  ## Weiterleitung
  - [https://loewenportal.uni-halle.de](https://loewenportal.uni-halle.de)
  - date_published: 2017-01-30T10:56:52+00:00
 
+ ## Startseite
+ - [https://magazin.uni-halle.de](https://magazin.uni-halle.de)
+ - date_published: 2024-10-15T06:49:20.439321+00:00
+
  ## Startseite | CampusMaps
- - [http://maps.uni-halle.de](http://maps.uni-halle.de)
+ - [https://maps.uni-halle.de](https://maps.uni-halle.de)
  - date_published: 2024-06-16T22:51:29.497487+00:00
+
+ ## Universitätsmedizin Halle
+ - [https://medizin.uni-halle.de](https://medizin.uni-halle.de)
+ - date_published: 2024-06-14T00:00:00+00:00
 
  ## MENAdoc-Sammlung
  - [http://menadoc.bibliothek.uni-halle.de](http://menadoc.bibliothek.uni-halle.de)
  - date_published: 2024-07-02T10:15:08.796534+00:00
+ - date_dead_since: 2025-01-04T14:50:28.276868+00:00
 
  ## MLUconf - Uni Halle
  - [https://mluconf.uni-halle.de](https://mluconf.uni-halle.de)
@@ -1644,6 +1716,10 @@
  ## Zugriff eingeschränkt
  - [https://mlyou.uni-halle.de](https://mlyou.uni-halle.de)
  - date_published: 2024-06-16T22:51:28.561503+00:00
+
+ ## Naturwissenschaftliche Fakultät III - Agrar- und Ernährungswissenschaften, Geowissenschaften und Informatik
+ - [https://natfak3.uni-halle.de](https://natfak3.uni-halle.de)
+ - date_published: 2024-06-17T00:00:00+00:00
 
  ## Newsletter
  - [https://newsletter.pr.uni-halle.de](https://newsletter.pr.uni-halle.de)
@@ -1661,12 +1737,21 @@
  - [https://pressespiegel.pr.uni-halle.de](https://pressespiegel.pr.uni-halle.de)
  - date_published: 2024-10-15T06:49:15.345840+00:00
 
+ ## Office of University Communications
+ - [https://pr.uni-halle.de](https://pr.uni-halle.de)
+ - date_published: 2024-06-16T22:51:33.623125+00:00
+
+ ## Die Rektorin
+ - [https://rektorin.uni-halle.de](https://rektorin.uni-halle.de)
+ - date_published: 2024-09-06T18:55:32.415274+00:00
+
  ## Einstieg - Sommerschulen Informatik
  - [https://sommerschulen.informatik.uni-halle.de](https://sommerschulen.informatik.uni-halle.de)
  - date_published: 2024-06-18T13:26:33.509625+00:00
+ - date_dead_since: 2025-01-04T14:53:52.320144+00:00
 
  ## Studiengebühren
- - [http://studgebuehr.verwaltung.uni-halle.de](http://studgebuehr.verwaltung.uni-halle.de)
+ - [https://studgebuehr.verwaltung.uni-halle.de](https://studgebuehr.verwaltung.uni-halle.de)
  - date_published: 2024-10-15T06:50:21.645712+00:00
 
  ## Studienangebot der Martin-Luther-Universität Halle-Wittenberg - Uni-Halle
@@ -1674,7 +1759,7 @@
  - date_published: 2024-10-15T06:50:19.591642+00:00
 
  ## Allgemeine Studienberatung: Wir sind für Sie da!
- - [http://studienberatung.verwaltung.uni-halle.de](http://studienberatung.verwaltung.uni-halle.de)
+ - [https://studienberatung.verwaltung.uni-halle.de](https://studienberatung.verwaltung.uni-halle.de)
  - date_published: 2024-10-15T06:50:30.599225+00:00
 
  ## (Bio)Informatik studieren in Halle – Alle wichtigen Infos rund um das Informatik und Bioinformatik Studium in Halle
@@ -1682,11 +1767,11 @@
  - date_published: 2024-06-18T13:26:37.713207+00:00
 
  ## MLU - MLU
- - [http://studip.uni-halle.de](http://studip.uni-halle.de)
+ - [https://studip.uni-halle.de](https://studip.uni-halle.de)
  - date_published: 2024-10-15T06:50:29.256916+00:00
 
  ## Abteilung 1 - Studium und Lehre
- - [http://studium.verwaltung.uni-halle.de](http://studium.verwaltung.uni-halle.de)
+ - [https://studium.verwaltung.uni-halle.de](https://studium.verwaltung.uni-halle.de)
  - date_published: 2024-10-15T06:50:28.253750+00:00
 
  ## Studierendenrat der Martin-Luther-Universität Halle-Wittenberg
@@ -1694,7 +1779,7 @@
  - date_published: 2024-10-22T05:15:50.403247+00:00
 
  ## Entrepreurship Office
- - [http://transfer.uni-halle.de](http://transfer.uni-halle.de)
+ - [https://transfer.uni-halle.de](https://transfer.uni-halle.de)
  - date_published: 2024-06-16T22:51:39.723307+00:00
 
  ## Creating knowledge since 1502
@@ -1706,15 +1791,20 @@
  - date_published: 2024-10-15T06:49:01.091145+00:00
 
  ## Zentrale Universitätsverwaltung
- - [http://verwaltung.uni-halle.de](http://verwaltung.uni-halle.de)
+ - [https://verwaltung.uni-halle.de](https://verwaltung.uni-halle.de)
  - date_published: 2024-10-13T00:00:00+00:00
+
+ ## Veranstaltungskalender
+ - [https://vk.uni-halle.de](https://vk.uni-halle.de)
+ - date_published: 2024-06-16T22:51:31.574232+00:00
 
  ## Erweiterte Suche - Martin-Luther-Universität Halle-Wittenberg
  - [http://websearch.urz.uni-halle.de](http://websearch.urz.uni-halle.de)
  - date_published: 2019-08-30T12:47:50+00:00
+ - date_dead_since: 2025-01-04T14:54:24.807539+00:00
 
  ## Institute of Geosciences and Geography
- - [http://www.geo.uni-halle.de](http://www.geo.uni-halle.de)
+ - [https://www.geo.uni-halle.de](https://www.geo.uni-halle.de)
  - date_published: 2024-10-22T05:16:29.538979+00:00
 
  ## Entrepreurship Office
@@ -1722,60 +1812,48 @@
  - date_published: 2024-07-13T00:01:43.123841+00:00
 
  ## International Graduate Academy InGrA
- - [http://www.ingra.uni-halle.de](http://www.ingra.uni-halle.de)
+ - [https://www.ingra.uni-halle.de](https://www.ingra.uni-halle.de)
  - date_published: 2024-06-16T22:51:32.479025+00:00
 
  ## Institute of Agricultural and Nutritional Sciences
- - [http://www.landw.uni-halle.de](http://www.landw.uni-halle.de)
+ - [https://www.landw.uni-halle.de](https://www.landw.uni-halle.de)
  - date_published: 2024-10-22T05:16:28.154756+00:00
 
- ## Startseite
- - [http://www.magazin.uni-halle.de](http://www.magazin.uni-halle.de)
- - date_published: 2024-10-15T06:49:20.439321+00:00
-
  ## Institute of Mathematics
- - [http://www.mathematik.uni-halle.de](http://www.mathematik.uni-halle.de)
+ - [https://www.mathematik.uni-halle.de](https://www.mathematik.uni-halle.de)
  - date_published: 2024-10-22T05:15:43.888504+00:00
 
- ## Universitätsmedizin Halle
- - [https://www.medizin.uni-halle.de](https://www.medizin.uni-halle.de)
- - date_published: 2024-06-14T00:00:00+00:00
-
  ## Faculty of Natural Sciences II - Chemistry, Physics and Mathematics
- - [http://www.natfak2.uni-halle.de](http://www.natfak2.uni-halle.de)
+ - [https://www.natfak2.uni-halle.de](https://www.natfak2.uni-halle.de)
  - date_published: 2024-10-22T05:15:47.255239+00:00
-
- ## Naturwissenschaftliche Fakultät III - Agrar- und Ernährungswissenschaften, Geowissenschaften und Informatik
- - [http://www.natfak3.uni-halle.de](http://www.natfak3.uni-halle.de)
- - date_published: 2024-06-17T00:00:00+00:00
 
  ## Personalrat der Universität
  - [https://www.personalrat.uni-halle.de](https://www.personalrat.uni-halle.de)
  - date_published: 2024-10-15T06:51:04.893002+00:00
 
  ## Prorektorat für Forschung, Internationalisierung und Transfer
- - [http://www.prorektoratfw.uni-halle.de](http://www.prorektoratfw.uni-halle.de)
+ - [https://www.prorektoratfw.uni-halle.de](https://www.prorektoratfw.uni-halle.de)
  - date_published: 2024-10-15T06:48:46.582918+00:00
 
  ## Prorektorat für Studium und Lehre
- - [http://www.prorektoratsl.uni-halle.de](http://www.prorektoratsl.uni-halle.de)
+ - [https://www.prorektoratsl.uni-halle.de](https://www.prorektoratsl.uni-halle.de)
  - date_published: 2024-10-15T06:50:15.221510+00:00
 
- ## Office of University Communications
- - [http://www.pr.uni-halle.de](http://www.pr.uni-halle.de)
- - date_published: 2024-06-16T22:51:33.623125+00:00
-
  ## Rektorat
- - [http://www.rektorat.uni-halle.de](http://www.rektorat.uni-halle.de)
+ - [https://www.rektorat.uni-halle.de](https://www.rektorat.uni-halle.de)
  - date_published: 2024-09-06T18:55:30.047505+00:00
 
- ## Die Rektorin
- - [http://www.rektorin.uni-halle.de](http://www.rektorin.uni-halle.de)
- - date_published: 2024-09-06T18:55:32.415274+00:00
+ ## Allgemeiner Studierendenausschuss der Uni Hamburg
+ - [https://asta.uni-hamburg.de](https://asta.uni-hamburg.de)
+ - date_published: 2024-07-24T06:03:59.204676+00:00
 
- ## Veranstaltungskalender
- - [http://www.vk.uni-halle.de](http://www.vk.uni-halle.de)
- - date_published: 2024-06-16T22:51:31.574232+00:00
+ ## CEN – Centrum für Erdsystemforschung und Nachhaltigkeit
+ - [https://cen.uni-hamburg.de](https://cen.uni-hamburg.de)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Fakultät für Erziehungswissenschaft
+ - [https://ew.uni-hamburg.de](https://ew.uni-hamburg.de)
+ - date_published: 2024-07-24T06:03:33.710184+00:00
 
  ## Outlook
  - [https://exchange.uni-hamburg.de](https://exchange.uni-hamburg.de)
@@ -1801,13 +1879,13 @@
  - [https://tams-www.informatik.uni-hamburg.de](https://tams-www.informatik.uni-hamburg.de)
  - date_published: 2024-05-07T15:49:15.424757+00:00
 
+ ## Universität Hamburg
+ - [https://uni-hamburg.de](https://uni-hamburg.de)
+ - date_published: 2024-06-30T08:29:21.781288+00:00
+
  ## Universitätsarchiv
  - [https://www.archiv.uni-hamburg.de](https://www.archiv.uni-hamburg.de)
  - date_published: 2024-07-24T06:03:42.434028+00:00
-
- ## Allgemeiner Studierendenausschuss der Uni Hamburg
- - [https://www.asta.uni-hamburg.de](https://www.asta.uni-hamburg.de)
- - date_published: 2024-07-24T06:03:59.204676+00:00
 
  ## Web Login Service
  - [https://www.betterweb.uni-hamburg.de](https://www.betterweb.uni-hamburg.de)
@@ -1820,10 +1898,6 @@
  ## Fakultät für Betriebswirtschaft
  - [https://www.bwl.uni-hamburg.de](https://www.bwl.uni-hamburg.de)
  - date_published: 2024-07-24T06:03:55.965016+00:00
-
- ## CEN – Centrum für Erdsystemforschung und Nachhaltigkeit
- - [https://www.cen.uni-hamburg.de](https://www.cen.uni-hamburg.de)
- - date_published: 2024-07-01T00:00:00+00:00
 
  ## CLICCS : Climate, Climatic Change, and Society : Universität Hamburg
  - [https://www.cliccs.uni-hamburg.de](https://www.cliccs.uni-hamburg.de)
@@ -1840,10 +1914,6 @@
  ## CUI: Advanced Imaging of Matter
  - [https://www.cui-advanced.uni-hamburg.de](https://www.cui-advanced.uni-hamburg.de)
  - date_published: 2024-07-24T06:03:15.693255+00:00
-
- ## Fakultät für Erziehungswissenschaft
- - [https://www.ew.uni-hamburg.de](https://www.ew.uni-hamburg.de)
- - date_published: 2024-07-24T06:03:33.710184+00:00
 
  ## Fakultät für Geisteswissenschaften
  - [https://www.gw.uni-hamburg.de](https://www.gw.uni-hamburg.de)
@@ -1866,7 +1936,7 @@
  - date_published: 2024-04-29T06:29:07.030337+00:00
 
  ## Fachbereich Informatik
- - [http://www.informatik.uni-hamburg.de](http://www.informatik.uni-hamburg.de)
+ - [https://www.informatik.uni-hamburg.de](https://www.informatik.uni-hamburg.de)
  - date_published: 2024-08-08T03:15:13.193913+00:00
 
  ## Fachbereich Informatik
@@ -1905,10 +1975,6 @@
  - [https://www.rrz.uni-hamburg.de](https://www.rrz.uni-hamburg.de)
  - date_published: 2024-07-12T00:00:00+00:00
 
- ## Universität Hamburg
- - [https://www.uni-hamburg.de](https://www.uni-hamburg.de)
- - date_published: 2024-06-30T08:29:21.781288+00:00
-
  ## Universitätsmusik
  - [https://www.unimusik.uni-hamburg.de](https://www.unimusik.uni-hamburg.de)
  - date_published: 2024-07-24T06:03:13.940024+00:00
@@ -1921,40 +1987,44 @@
  - [https://www.wiso.uni-hamburg.de](https://www.wiso.uni-hamburg.de)
  - date_published: 2024-04-29T06:29:08.362931+00:00
 
- ## Startseite – Leibniz Universität Hannover
- - [https://uni-hannover.de](https://uni-hannover.de)
- - date_published: 2024-07-16T14:37:00+00:00
-
  ## Startseite – Institut für Künstliche Intelligenz – Leibniz Universität Hannover
- - [https://www.ai.uni-hannover.de](https://www.ai.uni-hannover.de)
+ - [https://ai.uni-hannover.de](https://ai.uni-hannover.de)
  - date_published: 2024-08-15T16:35:00+00:00
 
  ## Startseite – Institut für Didaktik der Demokratie – Leibniz Universität Hannover
- - [https://www.idd.uni-hannover.de](https://www.idd.uni-hannover.de)
+ - [https://idd.uni-hannover.de](https://idd.uni-hannover.de)
  - date_published: 2024-05-27T10:53:00+00:00
 
  ## Institut für Informationsverarbeitung (TNT) - Home
- - [http://www.tnt.uni-hannover.de](http://www.tnt.uni-hannover.de)
+ - [https://tnt.uni-hannover.de](https://tnt.uni-hannover.de)
  - date_published: 2024-06-22T08:37:13.179169+00:00
+
+ ## Startseite – Leibniz Universität Hannover
+ - [https://uni-hannover.de](https://uni-hannover.de)
+ - date_published: 2024-07-16T14:37:00+00:00
 
  ## Prinzhorn Sammlung: Sammlung Prinzhorn
  - [http://prinzhorn.uni-hd.de](http://prinzhorn.uni-hd.de)
  - date_published: 2024-06-24T09:35:27.365360+00:00
 
  ## Semitisches Tonarchiv
- - [http://www.semarch.uni-hd.de](http://www.semarch.uni-hd.de)
+ - [http://semarch.uni-hd.de](http://semarch.uni-hd.de)
  - date_published: 2023-06-04T17:15:55+00:00
 
  ## Publishing Services Heidelberg University Library
  - [https://books.ub.uni-heidelberg.de](https://books.ub.uni-heidelberg.de)
  - date_published: 2024-07-13T16:14:25.582853+00:00
 
+ ## Institut für Computerlinguistik
+ - [https://cl.uni-heidelberg.de](https://cl.uni-heidelberg.de)
+ - date_published: 2024-08-06T20:43:57.923838+00:00
+
  ## Data Science Group
  - [https://dbs.ifi.uni-heidelberg.de](https://dbs.ifi.uni-heidelberg.de)
  - date_published: 2024-12-10T18:21:28.260219+00:00
 
  ## Heidelberger historische Bestände – digital
- - [http://digi.ub.uni-heidelberg.de](http://digi.ub.uni-heidelberg.de)
+ - [https://digi.ub.uni-heidelberg.de](https://digi.ub.uni-heidelberg.de)
  - date_published: 2024-06-24T10:45:14.125711+00:00
 
  ## Heidelberg Collaboratory for Image Processing (HCI)
@@ -1962,8 +2032,12 @@
  - date_published: 2024-06-22T09:02:25+00:00
 
  ## GIScience Blog
- - [http://k1z.blog.uni-heidelberg.de](http://k1z.blog.uni-heidelberg.de)
+ - [https://k1z.blog.uni-heidelberg.de](https://k1z.blog.uni-heidelberg.de)
  - date_published: 2024-07-08T12:53:28.447987+00:00
+
+ ## Universitätsklinikum Heidelberg: Universitätsklinikum Heidelberg
+ - [https://klinikum.uni-heidelberg.de](https://klinikum.uni-heidelberg.de)
+ - date_published: 2024-07-24T07:47:49.657944+00:00
 
  ## Publications
  - [https://malone.bioquant.uni-heidelberg.de](https://malone.bioquant.uni-heidelberg.de)
@@ -1981,16 +2055,8 @@
  - [https://www.bioquant.uni-heidelberg.de](https://www.bioquant.uni-heidelberg.de)
  - date_published: 2024-07-24T07:54:22.167564+00:00
 
- ## Institut für Computerlinguistik
- - [https://www.cl.uni-heidelberg.de](https://www.cl.uni-heidelberg.de)
- - date_published: 2024-08-06T20:43:57.923838+00:00
-
- ## Universitätsklinikum Heidelberg: Universitätsklinikum Heidelberg
- - [http://www.klinikum.uni-heidelberg.de](http://www.klinikum.uni-heidelberg.de)
- - date_published: 2024-07-24T07:47:49.657944+00:00
-
  ## Home: UMM Universitätsmedizin Mannheim
- - [http://www.umm.uni-heidelberg.de](http://www.umm.uni-heidelberg.de)
+ - [https://www.umm.uni-heidelberg.de](https://www.umm.uni-heidelberg.de)
  - date_published: 2024-07-24T07:48:38.164168+00:00
 
  ## Universität Hildesheim | Startseite
@@ -1998,7 +2064,7 @@
  - date_published: 2024-12-12T00:00:00+00:00
 
  ## biooekonomie.uni-hohenheim.de
- - [http://biooekonomie.uni-hohenheim.de](http://biooekonomie.uni-hohenheim.de)
+ - [https://biooekonomie.uni-hohenheim.de](https://biooekonomie.uni-hohenheim.de)
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## Weiterleitung
@@ -2014,24 +2080,28 @@
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## BEXIS2
- - [http://bexis2.uni-jena.de](http://bexis2.uni-jena.de)
+ - [https://bexis2.uni-jena.de](https://bexis2.uni-jena.de)
  - date_published: 2024-07-24T07:15:02.766848+00:00
+
+ ## Jura in Jena
+ - [https://rewi.uni-jena.de](https://rewi.uni-jena.de)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Friedrich-Schiller-Universität Jena
+ - [https://uni-jena.de](https://uni-jena.de)
+ - date_published: 2024-10-18T21:46:19.270111+00:00
 
  ## Fakultät für Mathematik und Informatik
  - [https://www.fmi.uni-jena.de](https://www.fmi.uni-jena.de)
  - date_published: 2024-12-28T00:48:51.856865+00:00
 
- ## Jura in Jena
- - [http://www.rewi.uni-jena.de](http://www.rewi.uni-jena.de)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Friedrich-Schiller-Universität Jena
- - [https://www.uni-jena.de](https://www.uni-jena.de)
- - date_published: 2024-10-18T21:46:19.270111+00:00
-
  ## KIT - Karlsruher Institut für Technologie
- - [http://www.uni-karlsruhe.de](http://www.uni-karlsruhe.de)
+ - [https://www.uni-karlsruhe.de](https://www.uni-karlsruhe.de)
  - date_published: 2024-07-07T09:08:29.366398+00:00
+
+ ## KDE – FB16 – Universität Kassel
+ - [https://kde.cs.uni-kassel.de](https://kde.cs.uni-kassel.de)
+ - date_published: 2024-09-02T13:22:37.403705+00:00
 
  ## List Index - lists.cs.uni-kassel.de
  - [https://lists.cs.uni-kassel.de](https://lists.cs.uni-kassel.de)
@@ -2041,13 +2111,17 @@
  - [https://mail.cs.uni-kassel.de](https://mail.cs.uni-kassel.de)
  - date_published: 2024-09-02T13:22:43+00:00
 
- ## KDE – FB16 – Universität Kassel
- - [https://www.kde.cs.uni-kassel.de](https://www.kde.cs.uni-kassel.de)
- - date_published: 2024-09-02T13:22:37.403705+00:00
-
  ## UNI - Uni Kassel
  - [https://www.uni-kassel.de](https://www.uni-kassel.de)
  - date_published: 2024-12-12T00:00:00+00:00
+
+ ## HTML REDIRECT
+ - [https://informatik.uni-kiel.de](https://informatik.uni-kiel.de)
+ - date_published: 2017-08-07T14:31:18+00:00
+
+ ## Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
+ - [https://ipn.uni-kiel.de](https://ipn.uni-kiel.de)
+ - date_published: 2024-07-24T07:54:56.725624+00:00
 
  ## Gesamtkatalog der Universitätsbibliothek Kiel - start/welcome
  - [https://katalog.ub.uni-kiel.de](https://katalog.ub.uni-kiel.de)
@@ -2058,19 +2132,11 @@
  - date_published: 2024-08-11T22:27:55.022563+00:00
 
  ## Homepage
- - [http://www.foodtech.uni-kiel.de](http://www.foodtech.uni-kiel.de)
+ - [https://www.foodtech.uni-kiel.de](https://www.foodtech.uni-kiel.de)
  - date_published: 2024-06-22T14:22:50.319623+00:00
 
- ## HTML REDIRECT
- - [https://www.informatik.uni-kiel.de](https://www.informatik.uni-kiel.de)
- - date_published: 2017-08-07T14:31:18+00:00
-
- ## Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
- - [https://www.ipn.uni-kiel.de](https://www.ipn.uni-kiel.de)
- - date_published: 2024-07-24T07:54:56.725624+00:00
-
  ## Christian-Albrechts-Universität zu Kiel
- - [http://www.uni-kiel.de](http://www.uni-kiel.de)
+ - [https://www.uni-kiel.de](https://www.uni-kiel.de)
  - date_published: 2024-08-19T16:51:57.831549+00:00
 
  ## Home | DBIS Lab
@@ -2090,12 +2156,12 @@
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## Die Deutschen Universitätsklinika
- - [https://www.uniklinika.de](https://www.uniklinika.de)
+ - [https://uniklinika.de](https://uniklinika.de)
  - date_published: 2024-05-15T00:00:00+00:00
 
  ## Intrafox� complaint manager
  - [https://compliance-hinweisgebersystem.uniklinik-freiburg.de](https://compliance-hinweisgebersystem.uniklinik-freiburg.de)
- - date_published: 2024-07-24T06:22:22.405778+00:00
+ - date_published: 2024-06-04T09:42:42+00:00
 
  ## Institut für Humangenetik | Universitätsklinikum Freiburg
  - [https://humangenetik.uniklinik-freiburg.de](https://humangenetik.uniklinik-freiburg.de)
@@ -2105,25 +2171,27 @@
  - [https://ims.uniklinik-freiburg.de](https://ims.uniklinik-freiburg.de)
  - date_published: 2024-07-24T06:22:15.137684+00:00
 
+ ## Institut für Klinische Pathologie | Universitätsklinikum Freiburg
+ - [https://pathologie.uniklinik-freiburg.de](https://pathologie.uniklinik-freiburg.de)
+ - date_published: 2024-07-24T06:18:48.146009+00:00
+
  ## Startseite | Universitätsklinikum Freiburg
  - [https://uniklinik-freiburg.de](https://uniklinik-freiburg.de)
  - date_published: 2024-04-29T06:27:08.487870+00:00
 
- ## Institut für Klinische Pathologie | Universitätsklinikum Freiburg
- - [https://www.pathologie.uniklinik-freiburg.de](https://www.pathologie.uniklinik-freiburg.de)
- - date_published: 2024-07-24T06:18:48.146009+00:00
-
  ## Universitätsklinikum Carl Gustav Carus Dresden — Deutsch
- - [https://www.uniklinikum-dresden.de](https://www.uniklinikum-dresden.de)
+ - [https://uniklinikum-dresden.de](https://uniklinikum-dresden.de)
  - date_published: 2024-07-24T00:00:00+00:00
 
  ## Institut für Sozialmedizin, Arbeitsmedizin und Public Health
  - [http://isap.uniklinikum-leipzig.de](http://isap.uniklinikum-leipzig.de)
  - date_published: 2024-06-18T00:00:00+00:00
+ - date_dead_since: 2025-01-04T15:14:50.563043+00:00
 
  ## Wie können wir helfen?
  - [https://www.uniklinikum-leipzig.de](https://www.uniklinikum-leipzig.de)
  - date_published: 2024-06-18T00:00:00+00:00
+ - date_dead_since: 2025-01-04T15:22:57.975966+00:00
 
  ## KölnAlumni - Das Netzwerk der Universität zu Köln
  - [https://alumni.uni-koeln.de](https://alumni.uni-koeln.de)
@@ -2134,7 +2202,7 @@
  - date_published: 2024-07-08T16:41:02.389619+00:00
 
  ## Englisches Seminar II
- - [http://anglistik2.phil-fak.uni-koeln.de](http://anglistik2.phil-fak.uni-koeln.de)
+ - [https://anglistik2.phil-fak.uni-koeln.de](https://anglistik2.phil-fak.uni-koeln.de)
  - date_published: 2024-08-11T22:27:15.881687+00:00
 
  ## Center for Data and Simulation Science
@@ -2169,9 +2237,21 @@
  - [https://gasthoerersenioren.uni-koeln.de](https://gasthoerersenioren.uni-koeln.de)
  - date_published: 2024-07-24T07:47:05.020707+00:00
 
+ ## Gateway | Gründungsservice der Universität zu Köln | Professionelle…
+ - [https://gateway.uni-koeln.de](https://gateway.uni-koeln.de)
+ - date_published: 2024-07-24T07:47:14.241767+00:00
+
  ## Humanwissenschaftliche Fakultät :: Universität zu Köln
  - [https://hf.uni-koeln.de](https://hf.uni-koeln.de)
  - date_published: 2024-07-24T07:47:18.269663+00:00
+
+ ## ILIAS Uni Köln: Magazin
+ - [https://ilias.uni-koeln.de](https://ilias.uni-koeln.de)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Abteilung für Informatik
+ - [https://informatik.uni-koeln.de](https://informatik.uni-koeln.de)
+ - date_published: 2024-08-18T18:45:33.780928+00:00
 
  ## Servicezentrum Inklusion
  - [https://inklusion.uni-koeln.de](https://inklusion.uni-koeln.de)
@@ -2206,7 +2286,7 @@
  - date_published: 2024-07-08T16:40:48.494238+00:00
 
  ## http://ml-school.uni-koeln.de | CA3
- - [http://ml-school.uni-koeln.de](http://ml-school.uni-koeln.de)
+ - [https://ml-school.uni-koeln.de](https://ml-school.uni-koeln.de)
  - date_published: 2024-07-08T16:41:03.187622+00:00
 
  ## Philosophische Fakultät
@@ -2220,6 +2300,10 @@
  ## RRZK-Regionales Rechenzentrum der Universität zu Köln
  - [https://rrzk.uni-koeln.de](https://rrzk.uni-koeln.de)
  - date_published: 2024-07-08T16:40:40.296569+00:00
+
+ ## IITS Koeln
+ - [https://sanskrit-lexicon.uni-koeln.de](https://sanskrit-lexicon.uni-koeln.de)
+ - date_published: 2024-01-30T00:00:00+00:00
 
  ## Hochschulentwicklung und Akademische Angelegenheiten
  - [https://strategy.uni-koeln.de](https://strategy.uni-koeln.de)
@@ -2253,28 +2337,20 @@
  - [https://wiso.uni-koeln.de](https://wiso.uni-koeln.de)
  - date_published: 2024-07-08T16:41:11.346293+00:00
 
- ## Gateway | Gründungsservice der Universität zu Köln | Professionelle…
- - [https://www.gateway.uni-koeln.de](https://www.gateway.uni-koeln.de)
- - date_published: 2024-07-24T07:47:14.241767+00:00
-
- ## ILIAS Uni Köln: Magazin
- - [https://www.ilias.uni-koeln.de](https://www.ilias.uni-koeln.de)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Abteilung für Informatik
- - [http://www.informatik.uni-koeln.de](http://www.informatik.uni-koeln.de)
- - date_published: 2024-08-18T18:45:33.780928+00:00
-
- ## IITS Koeln
- - [https://www.sanskrit-lexicon.uni-koeln.de](https://www.sanskrit-lexicon.uni-koeln.de)
- - date_published: 2024-01-30T00:00:00+00:00
-
  ## ZHD
  - [https://zhd.uni-koeln.de](https://zhd.uni-koeln.de)
  - date_published: 2024-07-24T07:47:00.246856+00:00
 
+ ## Fachbereich Biologie
+ - [https://biologie.uni-konstanz.de](https://biologie.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:01.905218+00:00
+
+ ## Fachbereich Chemie
+ - [https://chemie.uni-konstanz.de](https://chemie.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:04.746968+00:00
+
  ## New website coming soon
- - [http://cms.uni-konstanz.de](http://cms.uni-konstanz.de)
+ - [https://cms.uni-konstanz.de](https://cms.uni-konstanz.de)
  - date_published: 2017-05-08T13:41:16+00:00
 
  ## Exzellenzwettbewerb | Forschen | Universität Konstanz
@@ -2282,12 +2358,24 @@
  - date_published: 2023-11-25T11:44:21.122864+00:00
 
  ## Visual Computing
- - [http://graphics.uni-konstanz.de](http://graphics.uni-konstanz.de)
+ - [https://graphics.uni-konstanz.de](https://graphics.uni-konstanz.de)
  - date_published: 2024-06-22T07:29:13.909472+00:00
+
+ ## Fachbereich Informatik und Informationswissenschaft
+ - [https://informatik.uni-konstanz.de](https://informatik.uni-konstanz.de)
+ - date_published: 2024-07-24T03:43:59.251514+00:00
+
+ ## Fachbereich Rechtswissenschaft
+ - [https://jura.uni-konstanz.de](https://jura.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:15.453365+00:00
 
  ## LIBERO WebOPAC Einfache Suche (W501)
  - [https://katalog.uni-konstanz.de](https://katalog.uni-konstanz.de)
  - date_published: 2024-07-24T03:43:46.684262+00:00
+
+ ## Kommunikations-, Informations-, Medienzentrum (KIM)
+ - [https://kim.uni-konstanz.de](https://kim.uni-konstanz.de)
+ - date_published: 2024-07-24T03:43:36.884236+00:00
 
  ## Konstanzer Systematik
  - [https://konsys.uni-konstanz.de](https://konsys.uni-konstanz.de)
@@ -2297,60 +2385,40 @@
  - [https://libero.ub.uni-konstanz.de](https://libero.ub.uni-konstanz.de)
  - date_published: 2024-04-29T07:00:58.405908+00:00
 
+ ## Fachbereich Linguistik
+ - [https://ling.uni-konstanz.de](https://ling.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:11.264257+00:00
+
+ ## Fachbereich Literatur-, Kunst- und Medienwissenschaften
+ - [https://literature.uni-konstanz.de](https://literature.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:09.247012+00:00
+
+ ## Fachbereich Mathematik und Statistik
+ - [https://mathematik.uni-konstanz.de](https://mathematik.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:21.740363+00:00
+
+ ## Fachbereich Philosophie
+ - [https://philosophie.uni-konstanz.de](https://philosophie.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:13.368573+00:00
+
+ ## Fachbereich Physik
+ - [https://physik.uni-konstanz.de](https://physik.uni-konstanz.de)
+ - date_published: 2024-07-24T03:43:55.490893+00:00
+
+ ## Fachbereich Politik- und Verwaltungswissenschaft
+ - [https://polver.uni-konstanz.de](https://polver.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:19.489894+00:00
+
+ ## Fachbereich Psychologie
+ - [https://psychologie.uni-konstanz.de](https://psychologie.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:17.194913+00:00
+
  ## Universität Konstanz
  - [https://uni-konstanz.de](https://uni-konstanz.de)
  - date_published: 2024-07-24T03:43:41.831850+00:00
 
- ## Fachbereich Biologie
- - [https://www.biologie.uni-konstanz.de](https://www.biologie.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:01.905218+00:00
-
- ## Fachbereich Chemie
- - [https://www.chemie.uni-konstanz.de](https://www.chemie.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:04.746968+00:00
-
- ## Fachbereich Informatik und Informationswissenschaft
- - [https://www.informatik.uni-konstanz.de](https://www.informatik.uni-konstanz.de)
- - date_published: 2024-07-24T03:43:59.251514+00:00
-
- ## Fachbereich Rechtswissenschaft
- - [https://www.jura.uni-konstanz.de](https://www.jura.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:15.453365+00:00
-
- ## Kommunikations-, Informations-, Medienzentrum (KIM)
- - [https://www.kim.uni-konstanz.de](https://www.kim.uni-konstanz.de)
- - date_published: 2024-07-24T03:43:36.884236+00:00
-
- ## Fachbereich Linguistik
- - [https://www.ling.uni-konstanz.de](https://www.ling.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:11.264257+00:00
-
- ## Fachbereich Literatur-, Kunst- und Medienwissenschaften
- - [https://www.literature.uni-konstanz.de](https://www.literature.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:09.247012+00:00
-
- ## Fachbereich Mathematik und Statistik
- - [https://www.mathematik.uni-konstanz.de](https://www.mathematik.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:21.740363+00:00
-
- ## Fachbereich Philosophie
- - [https://www.philosophie.uni-konstanz.de](https://www.philosophie.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:13.368573+00:00
-
- ## Fachbereich Physik
- - [https://www.physik.uni-konstanz.de](https://www.physik.uni-konstanz.de)
- - date_published: 2024-07-24T03:43:55.490893+00:00
-
- ## Fachbereich Politik- und Verwaltungswissenschaft
- - [https://www.polver.uni-konstanz.de](https://www.polver.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:19.489894+00:00
-
- ## Fachbereich Psychologie
- - [https://www.psychologie.uni-konstanz.de](https://www.psychologie.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:17.194913+00:00
-
  ## Fachbereich Wirtschaftswissenschaften
- - [https://www.wiwi.uni-konstanz.de](https://www.wiwi.uni-konstanz.de)
+ - [https://wiwi.uni-konstanz.de](https://wiwi.uni-konstanz.de)
  - date_published: 2024-07-24T03:44:06.796965+00:00
 
  ## Weiterleitung
@@ -2358,7 +2426,7 @@
  - date_published: 2024-07-24T03:43:57.024937+00:00
 
  ## Produkte
- - [https://www.unikontor.de](https://www.unikontor.de)
+ - [https://unikontor.de](https://unikontor.de)
  - date_published: 2024-07-24T06:03:07.530128+00:00
 
  ## AlmaWeb | Universität Leipzig
@@ -2372,6 +2440,7 @@
  ## Institut für Anatomie
  - [http://anatomie.medizin.uni-leipzig.de](http://anatomie.medizin.uni-leipzig.de)
  - date_published: 2024-06-18T00:00:00+00:00
+ - date_dead_since: 2025-01-04T15:43:00.235673+00:00
 
  ## Universität Leipzig: Biotechnologisch-Biomedizinisches Zentrum
  - [https://bbz.uni-leipzig.de](https://bbz.uni-leipzig.de)
@@ -2380,6 +2449,7 @@
  ## Rudolf-Schönheimer-Institut für Biochemie
  - [http://biochemie.medizin.uni-leipzig.de](http://biochemie.medizin.uni-leipzig.de)
  - date_published: 2024-06-18T00:00:00+00:00
+ - date_dead_since: 2025-01-04T15:49:55.981584+00:00
 
  ## Institut für Medizinische Physik und Biophysik
  - [https://biophysik.medizin.uni-leipzig.de](https://biophysik.medizin.uni-leipzig.de)
@@ -2398,7 +2468,7 @@
  - date_published: 2024-12-10T14:52:46.672652+00:00
 
  ## Leipzig Corpora Collection - German
- - [http://corpora.uni-leipzig.de](http://corpora.uni-leipzig.de)
+ - [https://corpora.uni-leipzig.de](https://corpora.uni-leipzig.de)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Crawling Under-Resourced Languages
@@ -2450,7 +2520,7 @@
  - date_published: 2024-05-02T12:55:27.381706+00:00
 
  ## Universität Leipzig: Fehler
- - [https://intranet.uni-leipzig.de](https://intranet.uni-leipzig.de)
+ - [http://intranet.uni-leipzig.de](http://intranet.uni-leipzig.de)
  - date_published: 2024-06-18T13:28:10.521673+00:00
 
  ## Universität Leipzig: Juristenfakultät
@@ -2460,6 +2530,7 @@
  ## Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften
  - [http://karl-sudhoff.uni-leipzig.de](http://karl-sudhoff.uni-leipzig.de)
  - date_published: 2024-06-18T00:00:00+00:00
+ - date_dead_since: 2025-01-04T15:57:06.137458+00:00
 
  ## Start: Universitätsbibliothek Leipzig
  - [https://katalog.ub.uni-leipzig.de](https://katalog.ub.uni-leipzig.de)
@@ -2500,10 +2571,12 @@
  ## Paul-Flechsig-Institut – Zentrum für Neuropathologie und Hirnforschung
  - [http://pfi.medizin.uni-leipzig.de](http://pfi.medizin.uni-leipzig.de)
  - date_published: 2024-06-18T00:00:00+00:00
+ - date_dead_since: 2025-01-04T16:05:01.997092+00:00
 
  ## Pharmazie in Leipzig
  - [https://pharmazie.medizin.uni-leipzig.de](https://pharmazie.medizin.uni-leipzig.de)
  - date_published: 2024-06-18T00:00:00+00:00
+ - date_dead_since: 2025-01-04T16:12:01.180688+00:00
 
  ## Universität Leipzig: Philologische Fakultät
  - [https://philol.uni-leipzig.de](https://philol.uni-leipzig.de)
@@ -2516,6 +2589,7 @@
  ## Home - Carl Ludwig Institute of Physiology
  - [https://physiologie.medizin.uni-leipzig.de](https://physiologie.medizin.uni-leipzig.de)
  - date_published: 2024-06-18T13:28:03.774317+00:00
+ - date_dead_since: 2025-01-04T16:19:18.391550+00:00
 
  ## Piwik › Sign in
  - [https://piwik.ub.uni-leipzig.de](https://piwik.ub.uni-leipzig.de)
@@ -3960,58 +4034,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## UBWü - Go to Homepage
  - [https://www2.bibliothek.uni-wuerzburg.de](https://www2.bibliothek.uni-wuerzburg.de)
  - date_published: 2017-03-13T07:14:51+00:00
-
- ## Universität Würzburg - Universität Würzburg
- - [https://www2.uni-wuerzburg.de](https://www2.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:32:29.917710+00:00
-
- ## Unishop Würzburg | UNISHOP WÜRZBURG
- - [https://unishop.uni-wuerzburg-gmbh.de](https://unishop.uni-wuerzburg-gmbh.de)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Universität Würzburg GmbH
- - [https://uni-wuerzburg-gmbh.de](https://uni-wuerzburg-gmbh.de)
- - date_published: 2024-04-29T07:01:49.997289+00:00
-
- ## Sign in - Matomo
- - [https://use.uni-wuerzburg-gmbh.de](https://use.uni-wuerzburg-gmbh.de)
- - date_published: 2024-07-24T03:39:37.791820+00:00
-
- ## Startseite Berufung
- - [https://berufung.uni-wuppertal.de](https://berufung.uni-wuppertal.de)
- - date_published: 2024-07-02T17:47:49.202501+00:00
- - date_dead_since: 2024-12-10T17:18:23.225761+00:00
-
- ## Bilddatenbank - Bergische Universität Wuppertal
- - [https://bilddatenbank.uni-wuppertal.de](https://bilddatenbank.uni-wuppertal.de)
- - date_published: 2024-07-02T17:46:34+00:00
-
- ## Sign in - Matomo
- - [https://buwal.uni-wuppertal.de](https://buwal.uni-wuppertal.de)
- - date_published: 2024-07-02T17:47:42.669949+00:00
-
- ## Startseite Dezernat 1
- - [https://dez1.uni-wuppertal.de](https://dez1.uni-wuppertal.de)
- - date_published: 2024-07-02T17:48:34.477898+00:00
- - date_dead_since: 2024-12-10T17:18:26.389551+00:00
-
- ## Startseite Dezernat 2
- - [https://dez2.uni-wuppertal.de](https://dez2.uni-wuppertal.de)
- - date_published: 2024-07-02T17:48:11.098795+00:00
- - date_dead_since: 2024-12-10T17:18:26.879001+00:00
-
- ## Startseite Dezernat 3
- - [https://dez3.uni-wuppertal.de](https://dez3.uni-wuppertal.de)
- - date_published: 2024-07-02T17:46:28.560307+00:00
- - date_dead_since: 2024-12-10T17:18:27.395605+00:00
-
- ## Startseite Dezernat 4
- - [https://dez4.uni-wuppertal.de](https://dez4.uni-wuppertal.de)
- - date_published: 2024-07-02T17:47:58.174338+00:00
- - date_dead_since: 2024-12-10T17:18:27.898163+00:00
-
- ## Dezernat 5
- - [https://dez5.uni-wuppertal.de](https://dez5.uni-wuppertal.de)
- - date_published: 2024-07-02T17:47:53.743490+00:00
- - date_dead_since: 2024-12-10T17:18:28.367787+00:00
 

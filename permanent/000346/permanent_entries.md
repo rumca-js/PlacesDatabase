@@ -1,3 +1,63 @@
+ ## EDGE: Editable Dance Generation from Music
+ - [https://edge-dance.github.io](https://edge-dance.github.io)
+ - date_published: 2023-04-09T10:20:50+00:00
+
+ ## Eelco Dolstra’s homepage
+ - [https://edolstra.github.io](https://edolstra.github.io)
+ - date_published: 2020-10-16T16:10:36+00:00
+
+ ## Edward James Smith
+ - [https://edwardsmith1884.github.io](https://edwardsmith1884.github.io)
+ - date_published: 2023-10-01T12:57:54+00:00
+
+ ## Edward Tufte on GitHub
+ - [https://edwardtufte.github.io](https://edwardtufte.github.io)
+ - date_published: 2016-04-09T14:44:48+00:00
+
+ ## egg
+ - [https://egraphs-good.github.io](https://egraphs-good.github.io)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Erhan Gundogdu
+ - [https://egundogdu.github.io](https://egundogdu.github.io)
+ - date_published: 2023-12-21T14:26:11+00:00
+
+ ## Making Games
+ - [https://eguneys.github.io](https://eguneys.github.io)
+ - date_published: 2024-05-09T09:07:09.947665+00:00
+
+ ## Kiana Ehsani
+ - [https://ehsanik.github.io](https://ehsanik.github.io)
+ - date_published: 2024-09-06T23:03:51+00:00
+
+ ## Ehsan Saleh
+ - [https://ehsansaleh.github.io](https://ehsansaleh.github.io)
+ - date_published: 2022-04-28T01:49:42+00:00
+
+ ## François Lanusse
+ - [https://eiffl.github.io](https://eiffl.github.io)
+ - date_published: 2024-03-21T21:36:41+00:00
+
+ ## Eliot Hertenstein
+ - [https://eiiot.github.io](https://eiiot.github.io)
+ - date_published: 2022-08-23T15:42:30+00:00
+
+ ## Ekaterina Antonenko
+ - [https://ekaantonenko.github.io](https://ekaantonenko.github.io)
+ - date_published: 2024-06-22T10:18:27+00:00
+
+ ## Modern Emacs
+ - [https://ekaschalk.github.io](https://ekaschalk.github.io)
+ - date_published: 2019-05-23T00:00:00+00:00
+
+ ## Ekimerton
+ - [https://ekimerton.github.io](https://ekimerton.github.io)
+ - date_published: 2024-02-19T23:30:12+00:00
+
+ ## About me
+ - [https://ekrose.github.io](https://ekrose.github.io)
+ - date_published: 2024-05-04T14:45:31.108597+00:00
+
  ## Elana P. Simon
  - [https://elanapearl.github.io](https://elanapearl.github.io)
  - date_published: 2024-07-10T02:30:05+00:00
@@ -3913,6 +3973,10 @@
  - [https://l2ior.github.io](https://l2ior.github.io)
  - date_published: 2024-05-26T06:06:55+00:00
 
+ ## Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox
+ - [https://labwc.github.io](https://labwc.github.io)
+ - date_published: 2025-01-04T20:02:29+00:00
+
  ## Laknath Ashwin De Silva
  - [https://laknath1996.github.io](https://laknath1996.github.io)
  - date_published: 2024-05-20T00:00:00+00:00
@@ -3969,69 +4033,4 @@
  ## Last9 — The Reliability Platform
  - [https://last9.github.io](https://last9.github.io)
  - date_published: 2024-03-20T04:03:13+00:00
-
- ## Yao Li (李垚), Ph.D.
- - [https://lastland.github.io](https://lastland.github.io)
- - date_published: 2024-06-25T00:47:13+00:00
-
- ## Latent Consistency Models: Synthesizing High-Resolution Images with Few-step Inference
- - [https://latent-consistency-models.github.io](https://latent-consistency-models.github.io)
- - date_published: 2023-11-16T09:40:10+00:00
-
- ## Text-driven Visual Synthesis with Latent Diffusion Prior Demo
- - [https://latent-diffusion-prior.github.io](https://latent-diffusion-prior.github.io)
- - date_published: 2023-04-01T14:19:27+00:00
-
- ## LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation
- - [https://latentfusion.github.io](https://latentfusion.github.io)
- - date_published: 2020-11-27T10:28:30+00:00
-
- ## Latent Intrinsic
- - [https://latent-intrinsics.github.io](https://latent-intrinsics.github.io)
- - date_published: 2024-06-28T19:20:53+00:00
-
- ## Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation
- - [https://latent-shift.github.io](https://latent-shift.github.io)
- - date_published: 2023-06-04T00:11:44+00:00
-
- ## Jiawei Zhou
- - [https://latitudezhou.github.io](https://latitudezhou.github.io)
- - date_published: 2023-12-27T06:26:22+00:00
-
- ## Laura Sanità
- - [https://laurasanita.github.io](https://laurasanita.github.io)
- - date_published: 2024-05-15T10:41:37+00:00
-
- ## About Me - Lauren Chambers
- - [https://laurenmarietta.github.io](https://laurenmarietta.github.io)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Laurent Dinh
- - [https://laurent-dinh.github.io](https://laurent-dinh.github.io)
- - date_published: 2022-03-09T00:00:00+00:00
-
- ## Laurent Jacob
- - [https://laurent-jacob.github.io](https://laurent-jacob.github.io)
- - date_published: 2024-10-14T14:57:50+00:00
-
- ## Next-generation neural computations
- - [https://laurentperrinet.github.io](https://laurentperrinet.github.io)
- - date_published: 2024-12-23T15:16:25+00:00
-
- ## Machine Logic
- - [https://lawrencecpaulson.github.io](https://lawrencecpaulson.github.io)
- - date_published: 2023-10-25T19:48:01.142497+00:00
-
- ## Marcelo Lazaroni – Developing for the Interwebs
- - [https://lazamar.github.io](https://lazamar.github.io)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Lazy Diffusion Transformer for Interactive Image Editing
- - [https://lazydiffusion.github.io](https://lazydiffusion.github.io)
- - date_published: 2024-04-19T16:41:58+00:00
-
- ## 🚀 Getting Started | LazyVim
- - [https://lazyvim.github.io](https://lazyvim.github.io)
- - date_published: 2023-10-30T13:51:55.887972+00:00
- - tags: ['vim', 'open source', 'desktop program', 'programming ide']
 

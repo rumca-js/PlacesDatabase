@@ -1,3 +1,16 @@
+ ## Banque BNP Paribas | La banque d'un monde qui change
+ - [https://group.bnpparibas](https://group.bnpparibas)
+ - date_published: 2024-05-04T15:44:27.044354+00:00
+
+ ## BNP Paribas - Recrutement, Offres d'emploi, Dépôt de CV
+ - [https://matchmycv.group.bnpparibas](https://matchmycv.group.bnpparibas)
+ - date_published: 2024-06-22T11:57:13.433724+00:00
+
+ ## Source d'Histoire BNP Paribas : 2 siècles d'archives
+ - [https://histoire.bnpparibas](https://histoire.bnpparibas)
+ - date_published: 2024-01-22T00:00:00+00:00
+ - tags: ['bank']
+
  ## Actionnaires & Investisseurs | Banque BNP Paribas
  - [https://invest.bnpparibas](https://invest.bnpparibas)
  - date_published: 2024-06-22T11:57:10.365282+00:00
@@ -3998,16 +4011,4 @@ Educação
  ## Revista Educatrix – Editora Moderna – Estamos em constante transformação. Novas metodologias e tecnologias estão cada vez mais presentes no dia a dia. É fundamental explorar outras possibilidades em sala de aula, reforçando o papel transformador da escola para expandir as perspectivas e acompanhar as realizações dos alunos. Esse é o propósito da Educatrix!
  - [https://educatrix.moderna.com.br](https://educatrix.moderna.com.br)
  - date_published: 2024-09-12T22:39:56.020121+00:00
-
- ## Pedido Web Moderna
- - [https://loja.moderna.com.br](https://loja.moderna.com.br)
- - date_published: 2024-06-12T13:04:13.082783+00:00
-
- ## Editora Moderna
- - [https://moderna.com.br](https://moderna.com.br)
- - date_published: 2024-06-12T06:05:10.259252+00:00
-
- ## Moderna Plus
- - [https://mplus.moderna.com.br](https://mplus.moderna.com.br)
- - date_published: 2024-09-13T10:27:46.561146+00:00
 

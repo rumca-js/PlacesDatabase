@@ -1,3 +1,103 @@
+ ## Was Bill Clinton a Good President? 12 Pros and Cons
+ - [https://clinton.procon.org](https://clinton.procon.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Is College Worth It?
+ - [https://college-education.procon.org](https://college-education.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## College Football - Playoffs vs. BCS - ProCon.org
+ - [https://collegefootball.procon.org](https://collegefootball.procon.org)
+ - date_published: 2024-07-03T19:31:27.617447+00:00
+
+ ## Concealed Guns - Pros & Cons - ProCon.org
+ - [https://concealedguns.procon.org](https://concealedguns.procon.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Corporate Tax Rate Pros and Cons - Should It Be Raised?
+ - [https://corporatetax.procon.org](https://corporatetax.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Cuba Embargo - Pros & Cons - ProCon.org
+ - [https://cuba-embargo.procon.org](https://cuba-embargo.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## D.A.R.E. - ProCon.org
+ - [https://dare.procon.org](https://dare.procon.org)
+ - date_published: 2024-07-03T19:31:39.575640+00:00
+
+ ## Death Penalty - Pros & Cons - ProCon.org
+ - [https://deathpenalty.procon.org](https://deathpenalty.procon.org)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Should the Drinking Age Be Lowered in the US? 13 Pros and Cons
+ - [https://drinkingage.procon.org](https://drinkingage.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Drone Strikes Abroad - Pros & Cons - ProCon.org
+ - [https://drones.procon.org](https://drones.procon.org)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Should Medical Aid in Dying Be Legal?
+ - [https://euthanasia.procon.org](https://euthanasia.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Felon Voting - Pros & Cons - ProCon.org
+ - [https://felonvoting.procon.org](https://felonvoting.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Should Gay Marriage Be Legal? 6 Pros and Cons
+ - [https://gaymarriage.procon.org](https://gaymarriage.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Gold Standard - Pros & Cons - ProCon.org
+ - [https://gold-standard.procon.org](https://gold-standard.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Is Golf a Sport and Are Golfers Athletes? - ProCon.org
+ - [https://golf.procon.org](https://golf.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Gun Control - Pros & Cons - ProCon.org
+ - [https://gun-control.procon.org](https://gun-control.procon.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Universal Healthcare Pros and Cons
+ - [https://healthcare.procon.org](https://healthcare.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Is the Patient Protection and Affordable Care Act (Obamacare) Good for America? - Obamacare - ProCon.org
+ - [https://healthcarereform.procon.org](https://healthcarereform.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Immigration - Path to Citizenship
+ - [https://immigration.procon.org](https://immigration.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Insider Trading ProCon.org
+ - [https://insidertrading.procon.org](https://insidertrading.procon.org)
+ - date_published: 2024-07-03T19:30:38.101878+00:00
+
+ ## Top 10 Pro & Con Perspectives on the Israeli-Palestinian Conflict - Israeli-Palestinian - ProCon.org
+ - [https://israelipalestinian.procon.org](https://israelipalestinian.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Recreational Marijuana - Pros & Cons - ProCon.org
+ - [https://marijuana.procon.org](https://marijuana.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Medical Marijuana - Pros & Cons - ProCon.org
+ - [https://medicalmarijuana.procon.org](https://medicalmarijuana.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Is Drinking Milk Healthy for Humans?
+ - [https://milk.procon.org](https://milk.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Should the Federal Minimum Wage Be Increased?
+ - [https://minimum-wage.procon.org](https://minimum-wage.procon.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## Is Obesity a Disease? 5 Pros and Cons
  - [https://obesity.procon.org](https://obesity.procon.org)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3949,107 +4049,4 @@ Ending Institutional America
  ## Home | Rare Diseases Clinical Research Network
  - [https://www.rarediseasesnetwork.org](https://www.rarediseasesnetwork.org)
  - date_published: 2024-08-05T18:01:07+00:00
-
- ## Home | REN
- - [https://www.rareepilepsynetwork.org](https://www.rareepilepsynetwork.org)
- - date_published: 2024-06-29T21:28:11.632461+00:00
-
- ## Home of the Rarest Things in the World - Rarest.org
- - [https://rarest.org](https://rarest.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## The Rare Village Foundation -Resources for Rare Families
- - [https://give.rarevillage.org](https://give.rarevillage.org)
- - date_published: 2024-06-28T19:34:51+00:00
-
- ## The Rare Village Foundation -Resources for Rare Families
- - [https://rarevillage.org](https://rarevillage.org)
- - date_published: 2024-06-28T19:34:54+00:00
-
- ## rari-testnet blockchain explorer | Blockscout
- - [https://explorer.rarichain.org](https://explorer.rarichain.org)
- - date_published: 2024-09-23T22:18:44.471154+00:00
-
- ## Rari Mainnet blockchain explorer | Blockscout
- - [https://mainnet.explorer.rarichain.org](https://mainnet.explorer.rarichain.org)
- - date_published: 2024-06-22T05:47:04.768219+00:00
-
- ## RARI Chain
- - [https://rarichain.org](https://rarichain.org)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Raspberry Pi Datasheets
- - [https://datasheets.raspberrypi.org](https://datasheets.raspberrypi.org)
- - date_published: 2021-10-15T15:43:48+00:00
-
- ## Code Editor | Raspberry Pi
- - [https://editor.raspberrypi.org](https://editor.raspberrypi.org)
- - date_published: 2024-07-02T17:17:32.064002+00:00
-
- ## The MagPi magazine
- - [https://magpi.raspberrypi.org](https://magpi.raspberrypi.org)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Raspberry Pi Accounts
- - [https://my.raspberrypi.org](https://my.raspberrypi.org)
- - date_published: 2024-07-02T17:17:21.898512+00:00
-
- ## Projects | Computer coding for kids and teens | Raspberry Pi
- - [https://projects.raspberrypi.org](https://projects.raspberrypi.org)
- - date_published: 2024-07-02T10:35:00+00:00
- - tags: ['raspberry pi', 'raspberry pi']
-
- ## Teach, learn, and make with the Raspberry Pi Foundation
- - [https://raspberrypi.org](https://raspberrypi.org)
- - date_published: 2024-04-28T03:58:43.021769+00:00
- - tags: ['raspberry pi']
-
- ## whynow Gaming
- - [https://wireframe.raspberrypi.org](https://wireframe.raspberrypi.org)
- - date_published: 2024-08-08T19:32:31+00:00
-
- ## Detect Earthquakes & Watch the Earth Move
- - [https://raspberryshake.org](https://raspberryshake.org)
- - date_published: 2024-10-22T19:25:32.109430+00:00
-
- ## FrontPage - Raspbian
- - [https://raspbian.org](https://raspbian.org)
- - date_published: 2024-06-10T12:00:51+00:00
- - tags: ['raspberry pi', 'linux', 'operating system', 'open source']
-
- ## RATBIKE.ORG
- - [http://www.ratbike.org](http://www.ratbike.org)
- - date_published: 2024-07-04T14:43:08.489244+00:00
-
- ## Rate The Landlord
- - [https://ratethelandlord.org](https://ratethelandlord.org)
- - date_published: 2023-10-25T22:02:29.036764+00:00
-
- ## rat haus reality: exercising our intelligence with clarity & coherence
- - [https://ratical.org](https://ratical.org)
- - date_published: 2024-06-12T12:47:19.878134+00:00
-
- ## Home
- - [http://rationality.org](http://rationality.org)
- - date_published: 2024-05-15T01:55:19+00:00
-
- ## Rationally Speaking Podcast – with Julia Galef
- - [http://rationallyspeakingpodcast.org](http://rationallyspeakingpodcast.org)
- - date_published: 2025-01-01T07:50:59.656033+00:00
-
- ## RationalWiki
- - [https://rationalwiki.org](https://rationalwiki.org)
- - date_published: 2024-04-28T02:07:10.108962+00:00
-
- ## РациоВики
- - [http://ru.rationalwiki.org](http://ru.rationalwiki.org)
- - date_published: 2023-12-02T17:00:20+00:00
-
- ## Rauhanpuolustajat
- - [https://rauhanpuolustajat.org](https://rauhanpuolustajat.org)
- - date_published: 2024-07-08T16:28:21.847594+00:00
-
- ## About Me
- - [https://www.raulpacheco.org](https://www.raulpacheco.org)
- - date_published: 2024-05-02T10:13:27.563989+00:00
 

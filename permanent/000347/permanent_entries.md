@@ -1,3 +1,68 @@
+ ## Yao Li (李垚), Ph.D.
+ - [https://lastland.github.io](https://lastland.github.io)
+ - date_published: 2024-06-25T00:47:13+00:00
+
+ ## Latent Consistency Models: Synthesizing High-Resolution Images with Few-step Inference
+ - [https://latent-consistency-models.github.io](https://latent-consistency-models.github.io)
+ - date_published: 2023-11-16T09:40:10+00:00
+
+ ## Text-driven Visual Synthesis with Latent Diffusion Prior Demo
+ - [https://latent-diffusion-prior.github.io](https://latent-diffusion-prior.github.io)
+ - date_published: 2023-04-01T14:19:27+00:00
+
+ ## LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation
+ - [https://latentfusion.github.io](https://latentfusion.github.io)
+ - date_published: 2020-11-27T10:28:30+00:00
+
+ ## Latent Intrinsic
+ - [https://latent-intrinsics.github.io](https://latent-intrinsics.github.io)
+ - date_published: 2024-06-28T19:20:53+00:00
+
+ ## Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation
+ - [https://latent-shift.github.io](https://latent-shift.github.io)
+ - date_published: 2023-06-04T00:11:44+00:00
+
+ ## Jiawei Zhou
+ - [https://latitudezhou.github.io](https://latitudezhou.github.io)
+ - date_published: 2023-12-27T06:26:22+00:00
+
+ ## Laura Sanità
+ - [https://laurasanita.github.io](https://laurasanita.github.io)
+ - date_published: 2024-05-15T10:41:37+00:00
+
+ ## About Me - Lauren Chambers
+ - [https://laurenmarietta.github.io](https://laurenmarietta.github.io)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Laurent Dinh
+ - [https://laurent-dinh.github.io](https://laurent-dinh.github.io)
+ - date_published: 2022-03-09T00:00:00+00:00
+
+ ## Laurent Jacob
+ - [https://laurent-jacob.github.io](https://laurent-jacob.github.io)
+ - date_published: 2024-10-14T14:57:50+00:00
+
+ ## Next-generation neural computations
+ - [https://laurentperrinet.github.io](https://laurentperrinet.github.io)
+ - date_published: 2024-12-23T15:16:25+00:00
+
+ ## Machine Logic
+ - [https://lawrencecpaulson.github.io](https://lawrencecpaulson.github.io)
+ - date_published: 2023-10-25T19:48:01.142497+00:00
+
+ ## Marcelo Lazaroni – Developing for the Interwebs
+ - [https://lazamar.github.io](https://lazamar.github.io)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Lazy Diffusion Transformer for Interactive Image Editing
+ - [https://lazydiffusion.github.io](https://lazydiffusion.github.io)
+ - date_published: 2024-04-19T16:41:58+00:00
+
+ ## 🚀 Getting Started | LazyVim
+ - [https://lazyvim.github.io](https://lazyvim.github.io)
+ - date_published: 2023-10-30T13:51:55.887972+00:00
+ - tags: ['vim', 'open source', 'desktop program', 'programming ide']
+
  ## Loïck  Bourdois
  - [https://lbourdois.github.io](https://lbourdois.github.io)
  - date_published: 2024-02-10T16:37:06+00:00
@@ -3397,6 +3462,10 @@
  - [https://paulosuzart.github.io](https://paulosuzart.github.io)
  - date_published: 2024-12-15T21:25:17+00:00
 
+ ## Paul Cohen
+ - [https://paulrcohen.github.io](https://paulrcohen.github.io)
+ - date_published: 2021-02-26T17:00:49+00:00
+
  ## https://paulsec.github.io
  - [https://paulsec.github.io](https://paulsec.github.io)
  - date_published: 2023-10-25T19:51:06.414524+00:00
@@ -3974,72 +4043,4 @@
  ## Shadows Don’t Lie and Lines Can’t Bend!
  - [https://projective-geometry.github.io](https://projective-geometry.github.io)
  - date_published: 2024-06-19T04:58:12+00:00
-
- ## RoCo: Dialectic Multi-Robot Collaboration with Large Language Models
- - [https://project-roco.github.io](https://project-roco.github.io)
- - date_published: 2023-10-19T03:18:38+00:00
-
- ## Project Splinter
- - [https://project-splinter.github.io](https://project-splinter.github.io)
- - date_published: 2023-05-02T01:18:45+00:00
-
- ## prompt+
- - [https://prompt-plus.github.io](https://prompt-plus.github.io)
- - date_published: 2023-03-19T12:05:31+00:00
-
- ## Prompt-to-Prompt
- - [https://prompt-to-prompt.github.io](https://prompt-to-prompt.github.io)
- - date_published: 2022-11-18T16:10:08+00:00
-
- ## Ron Pressler
- - [https://pron.github.io](https://pron.github.io)
- - date_published: 2018-04-28T00:00:00+00:00
-
- ## PRoot — chroot, mount --bind, and binfmt_misc without privilege/setup
- - [https://proot-me.github.io](https://proot-me.github.io)
- - date_published: 2022-01-06T01:41:56+00:00
-
- ## Lookmovie official proxy mirror list
- - [https://proxymirrorlookmovie.github.io](https://proxymirrorlookmovie.github.io)
- - date_published: 2023-04-10T18:10:21+00:00
-
- ## home  - PRUNERS
- - [https://pruners.github.io](https://pruners.github.io)
- - date_published: 2019-07-30T00:00:00+00:00
-
- ## Coro
- - [https://ps3addict.github.io](https://ps3addict.github.io)
- - date_published: 2024-04-19T04:56:14+00:00
-
- ## Peter Schaldenbrand
- - [https://pschaldenbrand.github.io](https://pschaldenbrand.github.io)
- - date_published: 2024-05-31T17:54:58+00:00
-
- ## Philippe Schwaller
- - [https://pschwllr.github.io](https://pschwllr.github.io)
- - date_published: 2022-09-12T11:18:28+00:00
-
- ## Prem Seetharaman
- - [https://pseeth.github.io](https://pseeth.github.io)
- - date_published: 2024-01-09T22:39:44+00:00
-
- ## Paloma Sodhi
- - [https://psodhi.github.io](https://psodhi.github.io)
- - date_published: 2024-04-25T17:31:34+00:00
-
- ## Home
- - [https://psp-archive.github.io](https://psp-archive.github.io)
- - date_published: 2022-11-01T02:54:49+00:00
-
- ## Home
- - [https://pspdev.github.io](https://pspdev.github.io)
- - date_published: 2024-06-21T18:34:21+00:00
-
- ## Data science capstone at UCSB
- - [https://pstat197.github.io](https://pstat197.github.io)
- - date_published: 2024-05-25T00:13:26+00:00
-
- ## Home | Paul Crews
- - [https://ptcrews.github.io](https://ptcrews.github.io)
- - date_published: 2024-06-20T22:58:43+00:00
 

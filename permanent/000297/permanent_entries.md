@@ -1,3 +1,59 @@
+ ## Home - Homecoming
+ - [http://homecoming.gmu.edu](http://homecoming.gmu.edu)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Home
+ - [https://honorscollege.gmu.edu](https://honorscollege.gmu.edu)
+ - date_published: 2024-07-21T06:31:24+00:00
+
+ ## Hours of Operation – Campus Information and Visitor Services
+ - [https://hours.gmu.edu](https://hours.gmu.edu)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Home
+ - [https://housing.gmu.edu](https://housing.gmu.edu)
+ - date_published: 2024-04-30T04:28:36.800015+00:00
+
+ ## Human Resources | George Mason University
+ - [https://hr.gmu.edu](https://hr.gmu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Event Calendar
+ - [https://hylton.calendar.gmu.edu](https://hylton.calendar.gmu.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Institute for Digital Innovation | George Mason University
+ - [https://idia.gmu.edu](https://idia.gmu.edu)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Campus Information and Visitor Services – George Mason University
+ - [https://info.gmu.edu](https://info.gmu.edu)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## InfoGuides
+ - [https://infoguides.gmu.edu](https://infoguides.gmu.edu)
+ - date_published: 2024-07-22T03:00:01.382834+00:00
+
+ ## MARS Repository :: Home
+ - [https://infowiz.gmu.edu](https://infowiz.gmu.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## home
+ - [https://integrative.gmu.edu](https://integrative.gmu.edu)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Office of Institutional Effectiveness and Planning
+ - [https://irr2.gmu.edu](https://irr2.gmu.edu)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## ISC 2024: Information Security Conference
+ - [https://isc24.cs.gmu.edu](https://isc24.cs.gmu.edu)
+ - date_published: 2024-08-15T02:51:02+00:00
+
+ ## Home
+ - [https://ist.gmu.edu](https://ist.gmu.edu)
+ - date_published: 2024-07-21T18:54:07+00:00
+
  ## Home
  - [http://ite.gmu.edu](http://ite.gmu.edu)
  - date_published: 2024-06-22T19:57:44+00:00
@@ -3949,60 +4005,4 @@ Action
  ## Dilek Hakkani-Tür
  - [https://dilek.web.illinois.edu](https://dilek.web.illinois.edu)
  - date_published: 2024-04-30T04:58:14.570436+00:00
-
- ## Home
- - [https://discoveryacceleratorinstitute.grainger.illinois.edu](https://discoveryacceleratorinstitute.grainger.illinois.edu)
- - date_published: 2024-09-13T18:13:07.281410+00:00
-
- ## Welcome to Data Science Discovery! - Data Science Discovery
- - [https://discovery.cs.illinois.edu](https://discovery.cs.illinois.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Office of the Vice Chancellor for Diversity, Equity & Inclusion
- - [https://diversity.illinois.edu](https://diversity.illinois.edu)
- - date_published: 2024-07-07T05:29:11.186878+00:00
-
- ## David M. Nicol
- - [https://dmnicol.web.engr.illinois.edu](https://dmnicol.web.engr.illinois.edu)
- - date_published: 2022-01-12T21:19:37+00:00
-
- ## https://dpj.cs.illinois.edu
- - [https://dpj.cs.illinois.edu](https://dpj.cs.illinois.edu)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## - Division of Research Safety | Illinois
- - [https://drs.illinois.edu](https://drs.illinois.edu)
- - date_published: 2024-10-15T07:27:29.424502+00:00
-
- ## | Eat. Move. Save. | UIUC
- - [https://eat-move-save.extension.illinois.edu](https://eat-move-save.extension.illinois.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Home
- - [https://ece.illinois.edu](https://ece.illinois.edu)
- - date_published: 2024-04-30T04:58:09.015864+00:00
-
- ## Eduardo Fradkin (Physics)
- - [https://eduardo.physics.illinois.edu](https://eduardo.physics.illinois.edu)
- - date_published: 2024-04-30T04:58:35.693180+00:00
-
- ## College of Education
- - [https://education.illinois.edu](https://education.illinois.edu)
- - date_published: 2024-07-07T05:30:40.342062+00:00
-
- ## Webtools
- - [https://emails.illinois.edu](https://emails.illinois.edu)
- - date_published: 2024-07-31T18:02:32+00:00
-
- ## University of Illinois
- - [https://emergency.publicaffairs.illinois.edu](https://emergency.publicaffairs.illinois.edu)
- - date_published: 2018-12-07T20:15:07+00:00
-
- ## Public Engagement (PE) Portal | University of Illinois Urbana-Champaign
- - [http://engage.illinois.edu](http://engage.illinois.edu)
- - date_published: 2024-07-07T05:30:58.343206+00:00
-
- ## Home
- - [https://engineering.illinois.edu](https://engineering.illinois.edu)
- - date_published: 2024-07-21T22:09:10.409210+00:00
 

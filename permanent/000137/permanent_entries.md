@@ -1,3 +1,28 @@
+ ## Marathi News, Marathi News Today, News in Marathi, मराठी बातम्या, मराठी न्यूज – HT Marathi
+ - [https://marathi.hindustantimes.com](https://marathi.hindustantimes.com)
+ - date_published: 2024-05-23T14:14:56.257069+00:00
+
+ ## Best Shopping Deals and Offers on Electronics, Mobiles, Fashion, Health & Beauty Products and more
+ - [https://shopnow.hindustantimes.com](https://shopnow.hindustantimes.com)
+ - date_published: 2024-05-23T14:15:14.526950+00:00
+
+ ## HT Tamil - Tamil News, தமிழ் செய்திகள், தமிழில் செய்திகள் – Hindustan Times Tamil
+ - [https://tamil.hindustantimes.com](https://tamil.hindustantimes.com)
+ - date_published: 2024-05-23T14:14:50.616403+00:00
+
+ ## Technology News: Latest tech news on New Mobile Phones, Laptops, Gadgets
+ - [https://tech.hindustantimes.com](https://tech.hindustantimes.com)
+ - date_published: 2023-11-22T06:57:51+00:00
+ - tags: ['tech news']
+
+ ## Telugu News, తెలుగు వార్తలు, తెలుగు న్యూస్, తాజా వార్తలు – Hindustan Times Telugu
+ - [https://telugu.hindustantimes.com](https://telugu.hindustantimes.com)
+ - date_published: 2024-05-23T14:14:53.532988+00:00
+
+ ## Global Real Estate Investment Manager
+ - [https://www.hines.com](https://www.hines.com)
+ - date_published: 2024-06-28T15:15:05+00:00
+
  ## Hinge Capital | H//NGE
  - [https://hingecapital.com](https://hingecapital.com)
  - date_published: 2024-07-10T01:54:17.229636+00:00
@@ -4003,28 +4028,4 @@ Ireland.
  ## What's new on Hookdeck | Beamer
  - [https://changelog.hookdeck.com](https://changelog.hookdeck.com)
  - date_published: 2024-09-14T10:08:47.645804+00:00
-
- ## Hookdeck Console
- - [https://console.hookdeck.com](https://console.hookdeck.com)
- - date_published: 2024-09-14T10:08:44.251868+00:00
-
- ## Dashboard - Hookdeck
- - [https://dashboard.hookdeck.com](https://dashboard.hookdeck.com)
- - date_published: 2024-09-14T10:08:45.655485+00:00
-
- ## Hookdeck - A reliable Event Gateway for event-driven applications
- - [https://hookdeck.com](https://hookdeck.com)
- - date_published: 2024-06-14T14:37:02.049768+00:00
-
- ## Hookdeck status
- - [https://status.hookdeck.com](https://status.hookdeck.com)
- - date_published: 2024-09-14T10:08:50.301643+00:00
-
- ## Trust Center
- - [https://trust.hookdeck.com](https://trust.hookdeck.com)
- - date_published: 2024-09-14T10:08:43.074327+00:00
-
- ## Hooked On The Past
- - [http://www.hookedonthepast.com](http://www.hookedonthepast.com)
- - date_published: 2024-10-31T22:50:13.676159+00:00
 

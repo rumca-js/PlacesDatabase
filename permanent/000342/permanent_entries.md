@@ -1,3 +1,59 @@
+ ## Cleavr
+ - [https://forum.cleavr.io](https://forum.cleavr.io)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Cleric
+ - [https://cleric.io](https://cleric.io)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Clerk.io | Cookieless Personalization Without Limitations
+ - [https://clerk.io](https://clerk.io)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## cleverdevil
+ - [https://cleverdevil.io](https://cleverdevil.io)
+ - date_published: 2024-05-07T23:24:41.950217+00:00
+
+ ## Cleverstory Application
+ - [https://app.cleverstory.io](https://app.cleverstory.io)
+ - date_published: 2023-08-30T06:05:48+00:00
+
+ ## Cleverstory Application
+ - [https://editor.cleverstory.io](https://editor.cleverstory.io)
+ - date_published: 2024-09-13T06:09:00+00:00
+
+ ## cli-ck | Tips & Tools for Text Mode Lovers
+ - [https://cli-ck.io](https://cli-ck.io)
+ - date_published: 2021-11-28T11:21:43+00:00
+
+ ## Client.IO
+ - [https://www.client.io](https://www.client.io)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Operating System for Agencies | Clientjoy
+ - [https://www.clientjoy.io](https://www.clientjoy.io)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Client Portal | Keep your project assets in one beautiful place
+ - [https://client-portal.io](https://client-portal.io)
+ - date_published: 2024-05-01T07:31:40.323807+00:00
+
+ ## Turn your clients into evangelists
+ - [https://app.clientzen.io](https://app.clientzen.io)
+ - date_published: 2024-10-28T15:59:25+00:00
+
+ ## ClientZen | Beyond customer feedback analytics
+ - [https://clientzen.io](https://clientzen.io)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## CLIKA Compressed Blog
+ - [https://blog.clika.io](https://blog.clika.io)
+ - date_published: 2024-09-04T19:13:47.451570+00:00
+
+ ## Climatiq - API for Carbon Footprint Calculations
+ - [https://www.climatiq.io](https://www.climatiq.io)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## ClipGPT: Supercharging your bookmarks and notes with AI
  - [https://clipgpt.io](https://clipgpt.io)
  - date_published: 2024-10-30T07:15:59.340851+00:00
@@ -3958,61 +4014,4 @@
  - [https://devrelrad.io](https://devrelrad.io)
  - date_published: 2024-05-06T13:41:49.021782+00:00
  - tags: ['radio show']
-
- ## devroom.io
- - [https://www.devroom.io](https://www.devroom.io)
- - date_published: 2024-10-17T14:54:26.267685+00:00
-
- ## Security + DevOps – DevSec Hardening Framework
- - [https://dev-sec.io](https://dev-sec.io)
- - date_published: 2024-07-21T04:26:43+00:00
-
- ## DevSharpe 👋
- - [https://devsharpe.io](https://devsharpe.io)
- - date_published: 2024-05-11T10:10:36.148553+00:00
-
- ## Ikigai - Task Management & more...
- - [https://ikigai.devsharpe.io](https://ikigai.devsharpe.io)
- - date_published: 2024-07-14T08:46:51.177470+00:00
-
- ## DevToys
- - [https://devtoys.io](https://devtoys.io)
- - date_published: 2024-10-23T07:50:32.443097+00:00
-
- ## Documentation
- - [https://docs.devwithlando.io](https://docs.devwithlando.io)
- - date_published: 2024-04-02T15:38:31+00:00
-
- ## Attention Required! | Cloudflare
- - [https://dexcheck.io](https://dexcheck.io)
- - date_published: 2024-06-19T21:09:06.884872+00:00
-
- ## dexi.io
- - [https://app.dexi.io](https://app.dexi.io)
- - date_published: 2024-08-18T02:28:45.449376+00:00
-
- ## Dexi.io - Digital Commerce Intelligence, Retail, Brands & E-Commerce
- - [https://dexi.io](https://dexi.io)
- - date_published: 2024-01-17T09:11:35+00:00
- - tags: ['web scraping']
-
- ## dexi.io Status
- - [https://status.dexi.io](https://status.dexi.io)
- - date_published: 2024-08-18T02:28:43.799975+00:00
-
- ## Dex
- - [https://dexidp.io](https://dexidp.io)
- - date_published: 2024-07-17T18:09:29.534043+00:00
-
- ## Dexper - The event platform that comes with white-glove service.
- - [https://dexper.io](https://dexper.io)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://dextools.io](https://dextools.io)
- - date_published: 2024-04-29T02:02:19.911566+00:00
-
- ## Dave Farinelli
- - [https://dfar.io](https://dfar.io)
- - date_published: 2023-11-08T17:03:56+00:00
 

@@ -1,3 +1,16 @@
+ ## Morphex's blogologue (Life, technology, music, politics, business, mental health and more)
+ - [https://blogologue.com](https://blogologue.com)
+ - date_published: 2024-06-28T20:19:47+00:00
+
+ ## Blogarama - Blog Directory
+ - [http://www.blogorama.com](http://www.blogorama.com)
+ - date_published: 2024-12-20T18:38:56.050354+00:00
+
+ ## Google Blogoscoped
+ - [https://blogoscoped.com](https://blogoscoped.com)
+ - date_published: 2020-09-25T10:24:47+00:00
+ - tags: ['tech news']
+
  ## Stack Exchange Theoretical Computer Science Blog
  - [http://cstheory.blogoverflow.com](http://cstheory.blogoverflow.com)
  - date_published: 2017-03-03T15:24:32+00:00
@@ -3998,16 +4011,4 @@
  ## The Narrow Bridge
  - [http://anyakamenetz.blogspot.com](http://anyakamenetz.blogspot.com)
  - date_published: 2025-01-01T12:12:00+00:00
-
- ## Anyone Can Do It
- - [http://anyonecandoit2.blogspot.com](http://anyonecandoit2.blogspot.com)
- - date_published: 2024-03-06T01:28:06+00:00
-
- ## Anything But Ones
- - [http://anythingbutones.blogspot.com](http://anythingbutones.blogspot.com)
- - date_published: 2024-09-02T07:37:01+00:00
-
- ## Anything Goes.
- - [http://anythinggoesatvt.blogspot.com](http://anythinggoesatvt.blogspot.com)
- - date_published: 2024-07-03T02:52:34+00:00
 

@@ -1,3 +1,15 @@
+ ## hackwarsaw 2024
+ - [https://hackwarsaw.eventbrite.com](https://hackwarsaw.eventbrite.com)
+ - date_published: 2024-09-23T13:47:22.443031+00:00
+
+ ## Hatch Center Symposium: Civil Dialogue on College Campuses w/Dana Perino
+ - [https://hatchsymposiumperino.eventbrite.com](https://hatchsymposiumperino.eventbrite.com)
+ - date_published: 2024-08-05T17:21:26.056353+00:00
+
+ ## [FREE WEBINAR] Study and Be Job Ready in Canada!
+ - [https://humber0803.eventbrite.com](https://humber0803.eventbrite.com)
+ - date_published: 2024-08-03T00:00:00+00:00
+
  ## Eventbrite
  - [https://iiw8.eventbrite.com](https://iiw8.eventbrite.com)
  - date_published: 2024-07-19T05:17:10.238326+00:00
@@ -4013,16 +4025,4 @@ Foods | Vegan Egg Protein
  ## ExpoFP Floor Plan
  - [https://wirl2025.expofp.com](https://wirl2025.expofp.com)
  - date_published: 2024-08-20T20:41:45+00:00
-
- ## Login
- - [https://veloswap.expo-genie.com](https://veloswap.expo-genie.com)
- - date_published: 2024-09-17T23:24:08.089292+00:00
-
- ## Bloomreach
- - [https://app.exponea.com](https://app.exponea.com)
- - date_published: 2024-07-17T13:39:19+00:00
-
- ## Documentation Overview
- - [https://docs.exponea.com](https://docs.exponea.com)
- - date_published: 2024-09-16T02:15:21.582059+00:00
 

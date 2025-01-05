@@ -1,3 +1,59 @@
+ ## Farm Law and Tax for Producers and Landowners | NC State Extension
+ - [https://farmlaw.ces.ncsu.edu](https://farmlaw.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:29:20.027272+00:00
+
+ ## Farm Planning Resources | NC State Extension
+ - [https://farmplanning.ces.ncsu.edu](https://farmplanning.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:24:42.174197+00:00
+
+ ## Farm to School | NC State Extension
+ - [https://farmtoschool.ces.ncsu.edu](https://farmtoschool.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:29:11.565958+00:00
+
+ ## Family & Consumer Sciences Program | NC State Extension
+ - [https://fcs.ces.ncsu.edu](https://fcs.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:25:19.635409+00:00
+
+ ## Feed Milling | NC State Extension
+ - [https://feedmilling.ces.ncsu.edu](https://feedmilling.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:30:38.134599+00:00
+
+ ## Field Days | NC State Extension
+ - [https://fielddays.ces.ncsu.edu](https://fielddays.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:41:41.584162+00:00
+
+ ## North Carolina Food Animal Initiative
+ - [https://foodanimal.ncsu.edu](https://foodanimal.ncsu.edu)
+ - date_published: 2024-10-15T05:01:11+00:00
+
+ ## Food Business | NC State Extension
+ - [https://foodbusiness.ces.ncsu.edu](https://foodbusiness.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:31:02.670545+00:00
+
+ ## FoodCoVNET | NC State Extension
+ - [https://foodcovnet.ces.ncsu.edu](https://foodcovnet.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:23:44.902389+00:00
+
+ ## Food Safety | NC State Extension
+ - [https://foodsafety.ces.ncsu.edu](https://foodsafety.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:31:05.213364+00:00
+
+ ## Food Safety for Processors | NC State Extension
+ - [https://foodsafetyprocessors.ces.ncsu.edu](https://foodsafetyprocessors.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:28:58.826319+00:00
+
+ ## Food Safety Repository | NC State Extension
+ - [https://foodsafetyrepository.ces.ncsu.edu](https://foodsafetyrepository.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:27:18.776562+00:00
+
+ ## Forages | NC State Extension
+ - [https://forages.ces.ncsu.edu](https://forages.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:32:58.865139+00:00
+
+ ## Extension Forestry | NC State Extension
+ - [https://forestry.ces.ncsu.edu](https://forestry.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:23:47.635032+00:00
+
  ## Forsyth County Center | N.C. Cooperative Extension
  - [https://forsyth.ces.ncsu.edu](https://forsyth.ces.ncsu.edu)
  - date_published: 2024-10-15T05:28:37.719745+00:00
@@ -3944,60 +4000,4 @@
  ## College of Agricultural Sciences
  - [https://cropandsoil.oregonstate.edu](https://cropandsoil.oregonstate.edu)
  - date_published: 2024-10-15T04:06:48+00:00
-
- ## OSU Login
- - [http://directory.oregonstate.edu](http://directory.oregonstate.edu)
- - date_published: 2024-06-16T22:25:42.668831+00:00
-
- ## Undergraduate Admissions
- - [https://discover.oregonstate.edu](https://discover.oregonstate.edu)
- - date_published: 2024-06-18T14:29:52+00:00
-
- ## Institutional Diversity
- - [https://diversity.oregonstate.edu](https://diversity.oregonstate.edu)
- - date_published: 2018-05-30T00:00:00+00:00
-
- ## Online Degrees & Programs | Oregon State Ecampus | OSU Degrees Online
- - [https://ecampus.oregonstate.edu](https://ecampus.oregonstate.edu)
- - date_published: 2024-06-16T22:25:12.335267+00:00
-
- ## Division of Educational Ventures | Oregon State University
- - [https://educationalventures.oregonstate.edu](https://educationalventures.oregonstate.edu)
- - date_published: 2024-10-15T01:15:50.913361+00:00
-
- ## College of Education
- - [https://education.oregonstate.edu](https://education.oregonstate.edu)
- - date_published: 2021-11-24T14:37:21+00:00
-
- ## Electrical Engineering and Computer Science | College of Engineering
- - [http://eecs.oregonstate.edu](http://eecs.oregonstate.edu)
- - date_published: 2022-07-15T22:09:15+00:00
-
- ## Emergency Management
- - [https://emergency.oregonstate.edu](https://emergency.oregonstate.edu)
- - date_published: 2024-10-14T21:25:36+00:00
-
- ## Extension employee resources | Employee Intranet
- - [https://employee.extension.oregonstate.edu](https://employee.extension.oregonstate.edu)
- - date_published: 2024-10-15T01:12:16+00:00
-
- ## OSU Extension and Engagement | Extension and Engagement
- - [https://engagement.oregonstate.edu](https://engagement.oregonstate.edu)
- - date_published: 2024-06-13T00:15:19+00:00
-
- ## Enrollment Management
- - [https://enrollmentmanagement.oregonstate.edu](https://enrollmentmanagement.oregonstate.edu)
- - date_published: 2023-07-06T12:10:16+00:00
-
- ## Events Calendar - Oregon State University
- - [https://events.oregonstate.edu](https://events.oregonstate.edu)
- - date_published: 2024-06-20T01:58:18.803266+00:00
-
- ## OSU Experience
- - [https://experience.oregonstate.edu](https://experience.oregonstate.edu)
- - date_published: 2024-06-20T01:39:35+00:00
-
- ## OSU Extension Service
- - [https://extension.oregonstate.edu](https://extension.oregonstate.edu)
- - date_published: 2024-06-03T00:00:00+00:00
 

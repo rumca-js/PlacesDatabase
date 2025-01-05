@@ -1,3 +1,17 @@
+ ## Devildash - Das verrückte Magazin für Technik
+ - [https://devildash.com](https://devildash.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Devil May Cry（DMC）
+ - [http://devilmaycry.com](http://devilmaycry.com)
+ - date_published: 2024-10-10T06:09:30+00:00
+ - tags: ['video game']
+
+ ## ULTRAKILL on Steam
+ - [http://devilmayquake.com](http://devilmayquake.com)
+ - date_published: 2024-06-23T18:32:44.050606+00:00
+ - tags: ['video game']
+
  ## Devil's Candy - ch18p03
  - [https://devilscandycomic.com](https://devilscandycomic.com)
  - date_published: 2024-08-05T00:00:00+00:00
@@ -4031,16 +4045,4 @@ A blog about programming, distributed systems and others
  ## Directive 8020
  - [https://directive8020.com](https://directive8020.com)
  - date_published: 2024-08-20T18:25:20+00:00
-
- ## Job Search | DirectlyApply
- - [https://directlyapply.com](https://directlyapply.com)
- - date_published: 2023-11-07T16:06:41.136104+00:00
-
- ## directlync-forms.com is almost here!
- - [https://directlync-forms.com](https://directlync-forms.com)
- - date_published: 2024-05-08T03:49:50.988529+00:00
-
- ## Direct Mail | Einfaches E‑Mail-Marketing für Ihren Mac
- - [https://de.directmailmac.com](https://de.directmailmac.com)
- - date_published: 2024-06-16T08:08:00.690696+00:00
 

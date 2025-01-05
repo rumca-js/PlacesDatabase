@@ -1,3 +1,61 @@
+ ## Fluid – Мы делaем digital-дизaйн и рaзрaботку на Webflow
+ - [https://fluid.fyi](https://fluid.fyi)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## GotGhosted.fyi
+ - [https://www.gotghosted.fyi](https://www.gotghosted.fyi)
+ - date_published: 2024-09-02T22:05:03+00:00
+
+ ## Hirable
+ - [https://hirable.fyi](https://hirable.fyi)
+ - date_published: 2024-10-30T06:57:55.133227+00:00
+
+ ## iliana.fyi
+ - [https://iliana.fyi](https://iliana.fyi)
+ - date_published: 2023-10-25T19:15:59.645382+00:00
+
+ ## moon
+ - [http://imogen.fyi](http://imogen.fyi)
+ - date_published: 2024-07-13T15:16:37.741857+00:00
+
+ ## An open system to manage data without a central server | IPFS
+ - [https://ipfs.fyi](https://ipfs.fyi)
+ - date_published: 2024-05-04T16:00:13.322326+00:00
+
+ ## jade's www site
+ - [https://jade.fyi](https://jade.fyi)
+ - date_published: 2024-01-09T18:46:42.354724+00:00
+
+ ## Jochen Stierberger
+ - [https://jochen.fyi](https://jochen.fyi)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Ken Zinser
+ - [https://ken.fyi](https://ken.fyi)
+ - date_published: 2024-02-12T08:32:03.708550+00:00
+ - tags: ['personal']
+
+ ## Konstantin
+ - [https://kons.fyi](https://kons.fyi)
+ - date_published: 2024-06-17T07:31:23.980763+00:00
+
+ ## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
+ - [https://layoffs.fyi](https://layoffs.fyi)
+ - date_published: 2023-10-25T19:16:02.675285+00:00
+ - tags: ['layoff', 'page tracker']
+
+ ## le chef
+ - [https://www.lechef.fyi](https://www.lechef.fyi)
+ - date_published: 2024-09-09T13:41:41.915279+00:00
+
+ ## Plausible · Web analytics
+ - [https://al.levels.fyi](https://al.levels.fyi)
+ - date_published: 2024-05-08T00:41:20.821116+00:00
+
+ ## Levels.fyi | Salaries & Tools to Level Up Your Career
+ - [https://levels.fyi](https://levels.fyi)
+ - date_published: 2024-05-08T00:41:17.077556+00:00
+
  ## Lunar - The defacto app for controlling monitor brightness
  - [https://lunar.fyi](https://lunar.fyi)
  - date_published: 2024-08-19T10:52:19.090768+00:00
@@ -3983,60 +4041,4 @@
  ## Mysterious Gifts
  - [https://mysterious.gifts](https://mysterious.gifts)
  - date_published: 2024-08-18T13:06:40.031217+00:00
-
- ## Create Your Own GKTW Fundraiser
- - [https://charityland.gives](https://charityland.gives)
- - date_published: 2024-12-04T10:48:25.254276+00:00
-
- ## Online Donation
- - [https://biblicalarchaeologysociety.ddock.gives](https://biblicalarchaeologysociety.ddock.gives)
- - date_published: 2024-05-09T06:35:51.640127+00:00
-
- ## Double - Donation Checkout
- - [https://embed.double.giving](https://embed.double.giving)
- - date_published: 2024-08-29T13:30:27+00:00
-
- ## FarmKind
- - [https://www.farmkind.giving](https://www.farmkind.giving)
- - date_published: 2024-08-18T19:40:53.639347+00:00
-
- ## BEAT esports
- - [https://beat.gl](https://beat.gl)
- - date_published: 2024-07-18T05:09:20.194357+00:00
-
- ## cables
- - [https://cables.gl](https://cables.gl)
- - date_published: 2024-08-05T19:02:53.710709+00:00
-
- ## Home | deck.gl
- - [https://deck.gl](https://deck.gl)
- - date_published: 2024-06-20T22:29:56+00:00
-
- ## docs.gl
- - [https://docs.gl](https://docs.gl)
- - date_published: 2023-12-29T10:13:39+00:00
-
- ## Toot Toot
- - [https://m.fa.gl](https://m.fa.gl)
- - date_published: 2024-12-12T09:48:30.597167+00:00
-
- ## Flow Immersive — Seat Licenses
- - [https://web.flow.gl](https://web.flow.gl)
- - date_published: 2022-10-21T17:37:34+00:00
-
- ## g&#39;LOSS
- - [https://gloss.gl](https://gloss.gl)
- - date_published: 2024-12-22T09:57:55.635741+00:00
-
- ## Google URL Shortener links will no longer be available- Google Developers Blog
- - [https://goo.gl](https://goo.gl)
- - date_published: 2024-11-04T16:38:20.943962+00:00
-
- ## Invalid Dynamic Link
- - [https://maps.app.goo.gl](https://maps.app.goo.gl)
- - date_published: 2024-04-28T03:08:32.124735+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.gl](https://maps.google.gl)
- - date_published: 2024-07-20T07:39:46.112221+00:00
 

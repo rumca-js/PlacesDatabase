@@ -1,3 +1,23 @@
+ ## GraphHopper Status
+ - [https://status.graphhopper.com](https://status.graphhopper.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Support
+ - [https://support.graphhopper.com](https://support.graphhopper.com)
+ - date_published: 2024-05-04T08:44:04.083567+00:00
+
+ ## Graphic Design Festival Scotland Announcement
+ - [https://graphicdesignfestivalscotland.com](https://graphicdesignfestivalscotland.com)
+ - date_published: 2024-07-13T16:13:30.433444+00:00
+
+ ## Graphic Design Lab - Онлайн-курси для ілюстраторів та дизайнерів
+ - [https://www.graphic-design-lab.com](https://www.graphic-design-lab.com)
+ - date_published: 2024-12-27T14:40:10+00:00
+
+ ## Home
+ - [https://graphicnewsplus.com](https://graphicnewsplus.com)
+ - date_published: 2024-09-02T00:00:00+00:00
+
  ## Graphic Novelty
  - [https://graphicnovelty2.com](https://graphicnovelty2.com)
  - date_published: 2024-09-17T08:55:37+00:00
@@ -4006,24 +4026,4 @@
  ## Grundfos
  - [https://www.grundfos.com](https://www.grundfos.com)
  - date_published: 2024-06-25T16:54:39.034447+00:00
-
- ## Grundy Reporter
- - [https://grundyreporter.com](https://grundyreporter.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Grünenthal Careers
- - [https://careers.grunenthal.com](https://careers.grunenthal.com)
- - date_published: 2024-10-16T18:49:35.906794+00:00
-
- ## Creditor Relations Hub Grünenthal
- - [https://creditors.grunenthal.com](https://creditors.grunenthal.com)
- - date_published: 2024-10-16T18:49:06.546222+00:00
-
- ## Features | Grünenthal
- - [https://features.grunenthal.com](https://features.grunenthal.com)
- - date_published: 2024-03-25T09:28:11+00:00
-
- ## Grünenthal a science-based, privately-owned pharmaceutical company
- - [https://www.grunenthal.com](https://www.grunenthal.com)
- - date_published: 2024-06-17T04:18:01.324041+00:00
 

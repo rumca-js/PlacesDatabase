@@ -1,3 +1,51 @@
+ ## Wott's Up With That?
+ - [https://wotsupwiththat.wordpress.com](https://wotsupwiththat.wordpress.com)
+ - date_published: 2024-06-30T02:41:18.730066+00:00
+
+ ## [Staging] WordPress.com Developer Resources
+ - [https://wpdeveloperstaging.wordpress.com](https://wpdeveloperstaging.wordpress.com)
+ - date_published: 2024-08-11T14:34:56.277888+00:00
+
+ ## Make WordPress Core
+ - [http://wpdevel.wordpress.com](http://wpdevel.wordpress.com)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## WordPress.tv
+ - [https://wptv.wordpress.com](https://wptv.wordpress.com)
+ - date_published: 2024-06-17T11:41:29.329517+00:00
+
+ ## VIP Cloud Changelog
+ - [https://wpvipchangelog.wordpress.com](https://wpvipchangelog.wordpress.com)
+ - date_published: 2024-06-30T11:24:16.460495+00:00
+
+ ## DIY RPG Productions
+ - [https://wrathofzombie.wordpress.com](https://wrathofzombie.wordpress.com)
+ - date_published: 2024-07-15T09:32:45.332910+00:00
+
+ ## wrestling penguins
+ - [https://wrestlingpenguins.wordpress.com](https://wrestlingpenguins.wordpress.com)
+ - date_published: 2024-09-21T22:54:51+00:00
+
+ ## Private Site
+ - [https://writemz.wordpress.com](https://writemz.wordpress.com)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## The Crime Fiction Writer's Blog
+ - [https://writersforensicsblog.wordpress.com](https://writersforensicsblog.wordpress.com)
+ - date_published: 2024-10-17T23:10:28.102078+00:00
+
+ ## Writers In The Storm Blog
+ - [https://writersinthestorm.wordpress.com](https://writersinthestorm.wordpress.com)
+ - date_published: 2024-10-17T23:01:58.456914+00:00
+
+ ## writer's island - since 2007
+ - [http://writersisland.wordpress.com](http://writersisland.wordpress.com)
+ - date_published: 2024-12-31T17:31:25.255451+00:00
+
+ ## Writer's Routine
+ - [https://writersroutinedotcom.wordpress.com](https://writersroutinedotcom.wordpress.com)
+ - date_published: 2024-06-15T16:05:19.506705+00:00
+
  ## WriteSomeShit
  - [http://writesomeshitcom.wordpress.com](http://writesomeshitcom.wordpress.com)
  - date_published: 2024-07-07T23:16:10+00:00
@@ -2550,7 +2598,7 @@
  - date_published: 2024-06-19T02:29:28.003519+00:00
 
  ## The Wow! Signal Podcast
- - [http://www.wowsignalpodcast.com](http://www.wowsignalpodcast.com)
+ - [https://wowsignalpodcast.com](https://wowsignalpodcast.com)
  - date_published: 2024-08-07T12:37:54+00:00
 
  ## WoWS: Legends—Become a naval legend
@@ -2562,7 +2610,7 @@
  - date_published: 2024-05-23T00:00:00+00:00
 
  ## NoCode jQuery Slider : jQuery Slideshow : 2024 WOW!
- - [http://wowslider.com](http://wowslider.com)
+ - [https://wowslider.com](https://wowslider.com)
  - date_published: 2024-08-07T22:59:49.947847+00:00
 
  ## WOW NFT & WOW TOKEN
@@ -2578,7 +2626,7 @@
  - date_published: 2024-05-07T16:12:38.378146+00:00
 
  ## Wowpedia
- - [http://www.wowwiki.com](http://www.wowwiki.com)
+ - [http://wowwiki.com](http://wowwiki.com)
  - date_published: 2024-08-26T00:00:00+00:00
 
  ## WOW! Women On Writing Blog
@@ -2614,7 +2662,7 @@
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## Wowzio: Beautiful, mobile-ready websites for your business
- - [http://www.wowzio.com](http://www.wowzio.com)
+ - [https://wowzio.com](https://wowzio.com)
  - date_published: 2024-07-02T09:02:25.149771+00:00
 
  ## Officially Woz | A Free Exchange of Information : Officially Woz
@@ -2622,7 +2670,7 @@
  - date_published: 2023-10-25T18:19:36.115836+00:00
 
  ## Woz's 70th Birthday
- - [https://www.wozbday.com](https://www.wozbday.com)
+ - [https://wozbday.com](https://wozbday.com)
  - date_published: 2024-06-20T05:14:40.251986+00:00
 
  ## Woz U | Tech-Based Higher Education. Reprogrammed.
@@ -2639,10 +2687,12 @@
 
  - [https://i0.wp.com](https://i0.wp.com)
  - date_published: 2024-03-04T11:36:12.105162+00:00
+ - date_dead_since: 2025-01-04T06:10:29.436836+00:00
 
  ## https://i2.wp.com
  - [https://i2.wp.com](https://i2.wp.com)
  - date_published: 2023-12-11T17:46:11.020504+00:00
+ - date_dead_since: 2025-01-04T06:10:47.946422+00:00
 
  ## WordPress, Your Way
  - [https://ii1.wp.com](https://ii1.wp.com)
@@ -2687,9 +2737,10 @@
  ## Genta & Cappa – Studio Amministrativo e Tributario
  - [https://wp3advesting.com](https://wp3advesting.com)
  - date_published: 2014-07-02T00:00:00+00:00
+ - date_dead_since: 2025-01-04T06:13:15.433826+00:00
 
  ## Web Accessibility & ADA Checker - WP ADA Compliance Check
- - [https://www.wpadacompliance.com](https://www.wpadacompliance.com)
+ - [https://wpadacompliance.com](https://wpadacompliance.com)
  - date_published: 2024-03-12T00:00:00+00:00
 
  ## WP AdCenter - Simple WordPress Ad Management Plugin
@@ -2709,7 +2760,7 @@
  - date_published: 2024-06-19T20:56:47.972595+00:00
 
  ## The #1 import & export plugin for WordPress & WooCommerce
- - [https://www.wpallimport.com](https://www.wpallimport.com)
+ - [https://wpallimport.com](https://wpallimport.com)
  - date_published: 2024-07-11T22:10:04.390486+00:00
 
  ## WPALLRESOURCES
@@ -2717,7 +2768,7 @@
  - date_published: 2024-12-25T12:40:00.150854+00:00
 
  ## Amazon Simple Affiliate
- - [http://www.wp-amazon-plugin.com](http://www.wp-amazon-plugin.com)
+ - [https://www.wp-amazon-plugin.com](https://www.wp-amazon-plugin.com)
  - date_published: 2024-06-29T19:52:58+00:00
 
  ## Accept Appointment Bookings Online
@@ -2745,7 +2796,7 @@
  - date_published: 2024-05-04T08:48:15.891025+00:00
 
  ## Must Have Page Builder Plugin for WordPress
- - [http://go.wpbakery.com](http://go.wpbakery.com)
+ - [https://go.wpbakery.com](https://go.wpbakery.com)
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## Must Have Page Builder Plugin for WordPress
@@ -2821,7 +2872,7 @@
  - date_published: 2017-10-19T00:00:00+00:00
 
  ## Charitable - The Top-Rated WordPress Donation Plugin
- - [https://www.wpcharitable.com](https://www.wpcharitable.com)
+ - [https://wpcharitable.com](https://wpcharitable.com)
  - date_published: 2024-03-28T00:00:00+00:00
 
  ## WPClipart Home Page
@@ -2833,11 +2884,11 @@
  - date_published: 2024-07-14T12:05:41+00:00
 
  ## Error: Active domain connection for this domain not found
- - [https://alfredessacom.wpcomstaging.com](https://alfredessacom.wpcomstaging.com)
+ - [http://alfredessacom.wpcomstaging.com](http://alfredessacom.wpcomstaging.com)
  - date_published: 2024-06-20T03:52:05.754729+00:00
 
  ## Error: Active domain connection for this domain not found
- - [https://almostsurelymathhome.wpcomstaging.com](https://almostsurelymathhome.wpcomstaging.com)
+ - [http://almostsurelymathhome.wpcomstaging.com](http://almostsurelymathhome.wpcomstaging.com)
  - date_published: 2024-06-14T01:56:08.737910+00:00
 
  ## WordPress.com
@@ -2881,7 +2932,7 @@
  - date_published: 2024-05-11T00:00:00+00:00
 
  ## (no title)
- - [https://jeffmitchelldev.wpcomstaging.com](https://jeffmitchelldev.wpcomstaging.com)
+ - [http://jeffmitchelldev.wpcomstaging.com](http://jeffmitchelldev.wpcomstaging.com)
  - date_published: 2024-06-29T03:18:46+00:00
 
  ## Mood Home - Mood Health
@@ -2903,6 +2954,7 @@
  ## notify AI
  - [https://staging-13ce-notifygroup.wpcomstaging.com](https://staging-13ce-notifygroup.wpcomstaging.com)
  - date_published: 2024-06-25T22:55:35.137676+00:00
+ - date_dead_since: 2025-01-04T06:19:58.264964+00:00
 
  ## Winnin
  - [https://staging-5bf4-ericholiveira973040d89a.wpcomstaging.com](https://staging-5bf4-ericholiveira973040d89a.wpcomstaging.com)
@@ -2921,7 +2973,7 @@
  - date_published: 2024-05-08T12:00:49.343542+00:00
 
  ## StreetFins® | Finance Simplified®
- - [http://streetfins.wpcomstaging.com](http://streetfins.wpcomstaging.com)
+ - [https://streetfins.wpcomstaging.com](https://streetfins.wpcomstaging.com)
  - date_published: 2021-05-09T21:41:59+00:00
 
  ## Fight Club for Tech
@@ -2945,7 +2997,7 @@
  - date_published: 2024-09-16T21:09:49.730215+00:00
 
  ## Wpcue - Grow and share your WordPress knowledge
- - [http://www.wpcue.com](http://www.wpcue.com)
+ - [https://wpcue.com](https://wpcue.com)
  - date_published: 2022-07-21T00:00:00+00:00
 
  ## Myrtle Beach/Florence News, Weather, Sports, Breaking News | WPDE
@@ -2961,11 +3013,11 @@
  - date_published: 2024-05-04T13:49:50.390218+00:00
 
  ## Top Web Design and Development Company in USA- Wpdevelopers
- - [http://wpdevelopers.com](http://wpdevelopers.com)
+ - [https://wpdevelopers.com](https://wpdevelopers.com)
  - date_published: 2021-02-23T00:00:00+00:00
 
  ## Home
- - [http://wpdevshed.com](http://wpdevshed.com)
+ - [https://wpdevshed.com](https://wpdevshed.com)
  - date_published: 2021-01-25T05:24:11+00:00
 
  ## Frontpage
@@ -2985,7 +3037,7 @@
  - date_published: 2024-12-10T22:01:46.571620+00:00
 
  ## William Peebles
- - [https://www.wpeebles.com](https://www.wpeebles.com)
+ - [https://wpeebles.com](https://wpeebles.com)
  - date_published: 2024-04-24T07:19:37+00:00
 
  ## Premium WordPress Plugins - WPeka Club
@@ -2997,7 +3049,7 @@
  - date_published: 2024-07-14T14:07:33.900224+00:00
 
  ## Home
- - [https://www.wpeka.com](https://www.wpeka.com)
+ - [https://wpeka.com](https://wpeka.com)
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## WordPress SSL Solution - WP Encryption
@@ -3005,7 +3057,7 @@
  - date_published: 2024-12-23T04:45:20+00:00
 
  ## Accessibility @ Mason – George Mason University
- - [http://a11ygmu1.wpengine.com](http://a11ygmu1.wpengine.com)
+ - [https://a11ygmu1.wpengine.com](https://a11ygmu1.wpengine.com)
  - date_published: 2024-07-22T03:02:21.153663+00:00
 
  ## The Association for the Advancement of Artificial Intelligence
@@ -3013,7 +3065,7 @@
  - date_published: 2024-06-04T00:00:00+00:00
 
  ## Home - Alpha Architect for Advisors
- - [https://aafinadvisor.wpengine.com](https://aafinadvisor.wpengine.com)
+ - [http://aafinadvisor.wpengine.com](http://aafinadvisor.wpengine.com)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Accolade Wines | Extraordinary, Everyday
@@ -3027,10 +3079,12 @@
  ## Alliance Defending Freedom International
  - [https://adfinternatstg.wpengine.com](https://adfinternatstg.wpengine.com)
  - date_published: 2024-10-17T13:06:15.847190+00:00
+ - date_dead_since: 2025-01-04T06:23:23.657758+00:00
 
  ## ADF International Español
  - [https://adfintlat.wpengine.com](https://adfintlat.wpengine.com)
  - date_published: 2024-06-05T00:00:00+00:00
+ - date_dead_since: 2025-01-04T06:23:30.314936+00:00
 
  ## AdvoLogix - Enterprise Grade Legal Operations Platform
  - [https://advologix.wpengine.com](https://advologix.wpengine.com)
@@ -3055,6 +3109,7 @@
  ## AIM Digital Agency | Top Digital Marketing Agency in Salt Lake City
  - [https://aim1dev.wpengine.com](https://aim1dev.wpengine.com)
  - date_published: 2024-10-28T05:12:00.709118+00:00
+ - date_dead_since: 2025-01-04T06:30:48.399233+00:00
 
  ## alphaMountain | Domain Threat Intel, IP Reputation & Classification
  - [https://alphamountain.wpengine.com](https://alphamountain.wpengine.com)
@@ -3121,7 +3176,7 @@
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Messaging That Gets Results.
- - [http://bennettink.wpengine.com](http://bennettink.wpengine.com)
+ - [https://bennettink.wpengine.com](https://bennettink.wpengine.com)
  - date_published: 2024-08-18T11:46:51.906284+00:00
 
  ## Instrument Rentals, Pro Audio and Lighting - New England Rentals - Live Event Production Company
@@ -3145,7 +3200,7 @@
  - date_published: 2024-10-22T22:28:26.087498+00:00
 
  ## Second Ave. Sagas
- - [http://bkabak.wpengine.com](http://bkabak.wpengine.com)
+ - [https://bkabak.wpengine.com](https://bkabak.wpengine.com)
  - date_published: 2024-06-28T14:37:10.779405+00:00
 
  ## Bloc(83) - Downtown Raleigh Office and Retail, One Glenwood, Tower Two
@@ -3155,6 +3210,7 @@
  ## Blogging Belmont
  - [https://blogbelmont.wpengine.com](https://blogbelmont.wpengine.com)
  - date_published: 2024-08-06T07:59:58.011869+00:00
+ - date_dead_since: 2025-01-04T06:32:26.451772+00:00
 
  ## The Bloom Collective – A Collective of reproductive health and wellness practitioners
  - [https://bloombaltimore.wpengine.com](https://bloombaltimore.wpengine.com)
@@ -3181,7 +3237,7 @@
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## Home - Black Press Media
- - [http://bpcorp.wpengine.com](http://bpcorp.wpengine.com)
+ - [https://bpcorp.wpengine.com](https://bpcorp.wpengine.com)
  - date_published: 2016-03-09T20:57:53+00:00
 
  ## BooksoniX - We help you sell more books
@@ -3211,6 +3267,7 @@
  ## Chief Executive - Home
  - [https://cexdev.wpengine.com](https://cexdev.wpengine.com)
  - date_published: 2024-01-10T00:00:00+00:00
+ - date_dead_since: 2025-01-04T06:35:09.345178+00:00
 
  ## Home - Pay It Forward
  - [https://cfcfed.wpengine.com](https://cfcfed.wpengine.com)
@@ -3221,7 +3278,7 @@
  - date_published: 2024-08-05T00:00:00+00:00
 
  ## California Housing Partnership
- - [http://chpc.wpengine.com](http://chpc.wpengine.com)
+ - [https://chpc.wpengine.com](https://chpc.wpengine.com)
  - date_published: 2024-05-24T00:00:00+00:00
 
  ## MedTech Market Intelligence | Clearstate
@@ -3237,15 +3294,15 @@
  - date_published: 2024-07-17T05:38:56.238726+00:00
 
  ## Engineering Science
- - [http://coeengsci.wpengine.com](http://coeengsci.wpengine.com)
+ - [https://coeengsci.wpengine.com](https://coeengsci.wpengine.com)
  - date_published: 2024-07-15T05:23:01.687928+00:00
 
  ## ESG – Electronic Support Group | EECS
- - [http://coeesg.wpengine.com](http://coeesg.wpengine.com)
+ - [https://coeesg.wpengine.com](https://coeesg.wpengine.com)
  - date_published: 2024-07-22T07:50:07.960222+00:00
 
  ## Home - UC Berkeley Mechanical Engineering
- - [http://coemech.wpengine.com](http://coemech.wpengine.com)
+ - [https://coemech.wpengine.com](https://coemech.wpengine.com)
  - date_published: 2024-07-15T05:23:53.624620+00:00
 
  ## Cognivia | Reduce Clinical Trial Data Variability Up to 30%
@@ -3265,7 +3322,7 @@
  - date_published: 2024-12-11T23:07:24.483067+00:00
 
  ## Commonplace
- - [http://commonplacenew.wpengine.com](http://commonplacenew.wpengine.com)
+ - [https://commonplacenew.wpengine.com](https://commonplacenew.wpengine.com)
  - date_published: 2024-07-19T03:07:35.058091+00:00
 
  ## (no title)
@@ -3277,7 +3334,7 @@
  - date_published: 2024-10-04T08:49:58.489991+00:00
 
  ## Christina Wodtke
- - [http://cwodtke.wpengine.com](http://cwodtke.wpengine.com)
+ - [https://cwodtke.wpengine.com](https://cwodtke.wpengine.com)
  - date_published: 2024-07-01T19:57:14.866065+00:00
 
  ## Home
@@ -3301,7 +3358,7 @@
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## USC Viterbi | Daniel J. Epstein Department of Industrial & Systems Engineering
- - [http://deptise.wpengine.com](http://deptise.wpengine.com)
+ - [https://deptise.wpengine.com](https://deptise.wpengine.com)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## DesignFast Component Selection Made Simple - DesignFast
@@ -3321,7 +3378,7 @@
  - date_published: 2024-05-09T09:17:24+00:00
 
  ## Headless Archives - Builders
- - [http://developers.wpengine.com](http://developers.wpengine.com)
+ - [https://developers.wpengine.com](https://developers.wpengine.com)
  - date_published: 2024-06-16T07:06:36.754710+00:00
 
  ## iClicker: Student Response Systems & Classroom Engagement Tools
@@ -3375,21 +3432,22 @@
  ## Home - equivant
  - [http://equivant.wpengine.com](http://equivant.wpengine.com)
  - date_published: 2024-07-01T17:12:53.563691+00:00
+ - date_dead_since: 2025-01-04T06:39:33.154959+00:00
 
  ## Entrepreneurship at Cornell - Entrepreneurship at Cornell
  - [https://eshipatcornell.wpengine.com](https://eshipatcornell.wpengine.com)
  - date_published: 2021-08-04T00:00:00+00:00
 
  ## External Design  – External Design
- - [http://externaldesign.wpengine.com](http://externaldesign.wpengine.com)
+ - [https://externaldesign.wpengine.com](https://externaldesign.wpengine.com)
  - date_published: 2023-05-29T15:38:24+00:00
 
  ## Eliezer S. Yudkowsky – "That which can be destroyed by the truth should be."  — P.C. Hodgell
- - [http://eystaging.wpengine.com](http://eystaging.wpengine.com)
+ - [https://eystaging.wpengine.com](https://eystaging.wpengine.com)
  - date_published: 2024-08-18T11:16:54.137786+00:00
 
  ## Eliezer S. Yudkowsky – "That which can be destroyed by the truth should be."  — P.C. Hodgell
- - [http://eyudkowsky.wpengine.com](http://eyudkowsky.wpengine.com)
+ - [https://eyudkowsky.wpengine.com](https://eyudkowsky.wpengine.com)
  - date_published: 2024-08-18T11:16:50.426219+00:00
 
  ## EZSignUp | Online Registration Software
@@ -3399,6 +3457,7 @@
  ## Home Page
  - [https://fastmail.wpengine.com](https://fastmail.wpengine.com)
  - date_published: 2024-05-04T05:46:51.267750+00:00
+ - date_dead_since: 2025-01-04T06:46:58.902993+00:00
 
  ## Faust.js™
  - [https://faustjsorg.wpengine.com](https://faustjsorg.wpengine.com)
@@ -3497,7 +3556,7 @@
  - date_published: 2021-04-26T00:00:00+00:00
 
  ## Home: Harvard Center for Green Buildings and Cities
- - [http://harvardcgbc.wpengine.com](http://harvardcgbc.wpengine.com)
+ - [https://harvardcgbc.wpengine.com](https://harvardcgbc.wpengine.com)
  - date_published: 2024-04-03T00:00:00+00:00
 
  ## Home
@@ -3505,11 +3564,11 @@
  - date_published: 2025-01-02T09:09:11.137279+00:00
 
  ## The Daily Herald
- - [http://heraldnet.wpengine.com](http://heraldnet.wpengine.com)
+ - [https://heraldnet.wpengine.com](https://heraldnet.wpengine.com)
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## Home | Hire the Science and Innovation Park
- - [http://hirethencc.wpengine.com](http://hirethencc.wpengine.com)
+ - [https://hirethencc.wpengine.com](https://hirethencc.wpengine.com)
  - date_published: 2024-10-21T19:33:31.245193+00:00
 
  ## Program on Corporate Governance
@@ -3533,7 +3592,7 @@
  - date_published: 2024-10-31T07:59:51.516042+00:00
 
  ## Home
- - [http://iconsultants.wpengine.com](http://iconsultants.wpengine.com)
+ - [https://iconsultants.wpengine.com](https://iconsultants.wpengine.com)
  - date_published: 2024-03-04T00:00:00+00:00
 
  ## Home - IEEE Innovation at Work
@@ -3591,6 +3650,7 @@
  ## Jewish Journal
  - [http://jjtransition.wpengine.com](http://jjtransition.wpengine.com)
  - date_published: 2024-05-09T00:00:00+00:00
+ - date_dead_since: 2025-01-04T06:53:19.878372+00:00
 
  ## Luxury Hotels, Spas and Villas | Condé Nast Johansens
  - [https://johansens1.wpengine.com](https://johansens1.wpengine.com)
@@ -3627,6 +3687,7 @@
  ## Denver Sports
  - [https://kkfnstg.wpengine.com](https://kkfnstg.wpengine.com)
  - date_published: 2024-06-20T23:57:28.850955+00:00
+ - date_dead_since: 2025-01-04T06:55:39.106889+00:00
 
  ## Mütercim Asım Kütüphanesi I Hasan Kalyoncu Üniversitesi
  - [https://kutuphane2.wpengine.com](https://kutuphane2.wpengine.com)
@@ -3651,6 +3712,7 @@
  ## Personal Injury Lawyers in Miami & Orlando - Leighton Law
  - [https://leightonlawstg.wpengine.com](https://leightonlawstg.wpengine.com)
  - date_published: 2024-06-21T03:07:35.048317+00:00
+ - date_dead_since: 2025-01-04T06:56:20.746354+00:00
 
  ## Homepage - Liberty Mutual Careers
  - [https://libertymutprd.wpengine.com](https://libertymutprd.wpengine.com)
@@ -3679,6 +3741,7 @@
  ## Getting Started with Skiing and Snowboarding
  - [https://ltlearn2ski.wpengine.com](https://ltlearn2ski.wpengine.com)
  - date_published: 2024-10-11T21:31:34.335527+00:00
+ - date_dead_since: 2025-01-04T06:56:50.265352+00:00
 
  ## Lumen Research – The Attention Technology Company
  - [https://lumenresearch.wpengine.com](https://lumenresearch.wpengine.com)
@@ -3761,7 +3824,7 @@
  - date_published: 2016-02-25T04:04:57+00:00
 
  ## MIT Linguistics – Department of Linguistics and Philosophy
- - [http://mitlinguistics.wpengine.com](http://mitlinguistics.wpengine.com)
+ - [https://mitlinguistics.wpengine.com](https://mitlinguistics.wpengine.com)
  - date_published: 2024-07-08T12:23:35.339334+00:00
 
  ## Home - Mojaloop
@@ -3801,7 +3864,7 @@
  - date_published: 2024-02-21T00:00:00+00:00
 
  ## HAX – Hands-on Venture Capital for Hard Tech
- - [http://newhax.wpengine.com](http://newhax.wpengine.com)
+ - [https://newhax.wpengine.com](https://newhax.wpengine.com)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Pay & get paid in digital currencies, volatility-free.
@@ -3825,7 +3888,7 @@
  - date_published: 2024-07-13T23:43:53.349755+00:00
 
  ## Home Page
- - [http://nineplusprod.wpengine.com](http://nineplusprod.wpengine.com)
+ - [https://nineplusprod.wpengine.com](https://nineplusprod.wpengine.com)
  - date_published: 2023-02-02T00:00:00+00:00
 
  ## Home - Niron Magnetics
@@ -3871,6 +3934,7 @@
  ## Own A Tutoring Franchise - Oxford Learning
  - [https://olcfranchise.wpengine.com](https://olcfranchise.wpengine.com)
  - date_published: 2024-06-03T00:00:00+00:00
+ - date_dead_since: 2025-01-04T07:03:38.117362+00:00
 
  ## The Federal Savings Bank | Buy or Refinance a Home
  - [https://omsfsbprd.wpengine.com](https://omsfsbprd.wpengine.com)
@@ -3879,14 +3943,16 @@
  ## Cloud Government Software | OpenGov
  - [https://opengoverpstag.wpengine.com](https://opengoverpstag.wpengine.com)
  - date_published: 2024-09-24T00:00:00+00:00
+ - date_dead_since: 2025-01-04T07:03:51.581781+00:00
 
  ## Home of REMEDY® HIP, REMEDY® KNEE, UNITE® AB BONE CEMENT
- - [http://osteoremedies.wpengine.com](http://osteoremedies.wpengine.com)
+ - [https://osteoremedies.wpengine.com](https://osteoremedies.wpengine.com)
  - date_published: 2024-03-07T00:00:00+00:00
 
  ## News
  - [https://p2eanalytics.wpengine.com](https://p2eanalytics.wpengine.com)
  - date_published: 2023-01-05T00:00:00+00:00
+ - date_dead_since: 2025-01-04T07:04:06.746428+00:00
 
  ## Palmetto Conservation Foundation
  - [https://palmettocoprod.wpengine.com](https://palmettocoprod.wpengine.com)
@@ -3947,6 +4013,7 @@
  ## Homepage
  - [https://propsperopsstg.wpengine.com](https://propsperopsstg.wpengine.com)
  - date_published: 2024-04-02T00:00:00+00:00
+ - date_dead_since: 2025-01-04T07:04:49.192340+00:00
 
  ## Public Good |
  - [https://publicgoodsw.wpengine.com](https://publicgoodsw.wpengine.com)
@@ -3967,52 +4034,4 @@
  ## Home - Quantic Electronics
  - [https://quanticnow.wpengine.com](https://quanticnow.wpengine.com)
  - date_published: 2024-12-26T13:00:44.191147+00:00
-
- ## Sales Training Software: AI Role-Play and Coaching | Quantified
- - [https://quantified.wpengine.com](https://quantified.wpengine.com)
- - date_published: 2024-10-30T22:25:44.052827+00:00
-
- ## Quebecor Expertise Media | Allumés par vos objectifs
- - [https://quebecorem.wpengine.com](https://quebecorem.wpengine.com)
- - date_published: 2020-09-23T15:14:44+00:00
-
- ## QuickLogic Corporation
- - [https://quicklogic.wpengine.com](https://quicklogic.wpengine.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Home
- - [https://quonticdev.wpengine.com](https://quonticdev.wpengine.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home - Rachel Pesso
- - [http://rachelpessodev.wpengine.com](http://rachelpessodev.wpengine.com)
- - date_published: 2024-12-26T19:12:55.667573+00:00
-
- ## Digital & Print Advertising Solutions | Wisconn Valley with Lee Enterprises
- - [https://racmarketsite.wpengine.com](https://racmarketsite.wpengine.com)
- - date_published: 2024-06-21T19:46:12.477757+00:00
-
- ## Rainforest | Payments processing for software companies
- - [https://rainforestpay.wpengine.com](https://rainforestpay.wpengine.com)
- - date_published: 2024-09-14T09:56:55.587929+00:00
-
- ## Raleigh Studios - At the forefront of the entertainment industry since 1915
- - [https://raleighstudios.wpengine.com](https://raleighstudios.wpengine.com)
- - date_published: 2024-07-03T17:36:31.986162+00:00
-
- ## Home
- - [http://randsrepose.wpengine.com](http://randsrepose.wpengine.com)
- - date_published: 2024-07-14T03:51:31.855416+00:00
-
- ## Office of the University Registrar | Where Innovation is Tradition | George Mason University
- - [http://registrargmstg.wpengine.com](http://registrargmstg.wpengine.com)
- - date_published: 2024-08-08T20:52:19.490732+00:00
-
- ## Resume Builder
- - [https://resumebuild.wpengine.com](https://resumebuild.wpengine.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Revenue.io | RevOps, Sales Engagement and Conversation Intelligence
- - [https://revenueio.wpengine.com](https://revenueio.wpengine.com)
- - date_published: 2024-05-17T00:00:00+00:00
 

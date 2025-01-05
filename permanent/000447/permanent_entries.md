@@ -1,3 +1,103 @@
+ ## Strona główna
+ - [http://geo.stat.gov.pl](http://geo.stat.gov.pl)
+ - date_published: 2024-08-16T12:12:13+00:00
+
+ ## Urząd Statystyczny w Katowicach
+ - [http://katowice.stat.gov.pl](http://katowice.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:21+00:00
+
+ ## Urząd Statystyczny w Kielcach
+ - [http://kielce.stat.gov.pl](http://kielce.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:01+00:00
+
+ ## Urząd Statystyczny w Krakowie
+ - [http://krakow.stat.gov.pl](http://krakow.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:47+00:00
+
+ ## Urząd Statystyczny w Łodzi
+ - [http://lodz.stat.gov.pl](http://lodz.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:51+00:00
+
+ ## Urząd Statystyczny w Lublinie
+ - [http://lublin.stat.gov.pl](http://lublin.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:15+00:00
+
+ ## Portal Naukowy GUS, Nauka GUS,
+ - [https://nauka.stat.gov.pl](https://nauka.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:30.758179+00:00
+
+ ## Urząd Statystyczny w Olsztynie
+ - [http://olsztyn.stat.gov.pl](http://olsztyn.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:04+00:00
+
+ ## Urząd Statystyczny w Opolu
+ - [http://opole.stat.gov.pl](http://opole.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:26+00:00
+
+ ## Urząd Statystyczny w Poznaniu
+ - [http://poznan.stat.gov.pl](http://poznan.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:31+00:00
+
+ ## Przegląd Statystyczny Statistical Review
+ - [https://ps.stat.gov.pl](https://ps.stat.gov.pl)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Polskie Towarzystwo Statystyczne
+ - [http://pts.stat.gov.pl](http://pts.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:23.615834+00:00
+
+ ## Repozytorium Standardów Informacyjnych prototype
+ - [https://rsi.stat.gov.pl](https://rsi.stat.gov.pl)
+ - date_published: 2023-12-04T15:45:04+00:00
+
+ ## Urząd Statystyczny w Rzeszowie
+ - [http://rzeszow.stat.gov.pl](http://rzeszow.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:24+00:00
+
+ ## Statistics in Transition new series
+ - [https://sit.stat.gov.pl](https://sit.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:49.943229+00:00
+
+ ## Główny Urząd Statystyczny
+ - [https://stat.gov.pl](https://stat.gov.pl)
+ - date_published: 2024-01-05T10:54:42.258169+00:00
+
+ ## The Tudors
+ - [http://statlibr.stat.gov.pl](http://statlibr.stat.gov.pl)
+ - date_published: 2015-06-09T11:08:46+00:00
+
+ ## Statystyka Miast
+ - [https://statystykamiast.stat.gov.pl](https://statystykamiast.stat.gov.pl)
+ - date_published: 2023-04-03T08:00:30+00:00
+
+ ## STRATEG
+ - [http://strateg.stat.gov.pl](http://strateg.stat.gov.pl)
+ - date_published: 2024-07-22T11:54:21+00:00
+
+ ## GUS: Statystyczne Vademecum Samorządowca
+ - [https://svs.stat.gov.pl](https://svs.stat.gov.pl)
+ - date_published: 2024-02-09T07:41:24+00:00
+
+ ## Urząd Statystyczny w Szczecinie
+ - [http://szczecin.stat.gov.pl](http://szczecin.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:52+00:00
+
+ ## TranStat - statystyki eksperymentalne
+ - [https://transtat.stat.gov.pl](https://transtat.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:35.662700+00:00
+
+ ## Urząd Statystyczny w Warszawie
+ - [http://warszawa.stat.gov.pl](http://warszawa.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:36+00:00
+
+ ## Urząd Statystyczny we Wrocławiu
+ - [http://wroclaw.stat.gov.pl](http://wroclaw.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:49+00:00
+
+ ## Wiadomości Statystyczne The Polish Statistician
+ - [https://ws.stat.gov.pl](https://ws.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:12.813802+00:00
+
  ## Urząd Statystyczny w Zielonej Górze
  - [http://zielonagora.stat.gov.pl](http://zielonagora.stat.gov.pl)
  - date_published: 2024-08-18T07:18:45+00:00
@@ -4002,106 +4102,4 @@ Polska 1939
  ## Darwin Studio - Profesjonalne produkcje filmowe
  - [http://darwinstudio.pl](http://darwinstudio.pl)
  - date_published: 2024-11-25T20:50:27.850378+00:00
-
- ## Data Exchanger - dane marketingowe w jednym miejscu
- - [https://www.dataexchanger.pl](https://www.dataexchanger.pl)
- - date_published: 2024-05-06T17:58:57.230598+00:00
-
- ## Strona główna | Dolnośląska Agencja Współpracy Gospodarczej Sp. z o.o.
- - [https://dawg.pl](https://dawg.pl)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Dawid Podsiadło - oficjalna strona
- - [https://dawidpodsiadlo.pl](https://dawidpodsiadlo.pl)
- - date_published: 2023-10-29T15:30:33.114136+00:00
- - tags: ['celebrity', 'music band']
-
- ## Sklep Dawida Podsiadło
- - [https://sklep.dawidpodsiadlo.pl](https://sklep.dawidpodsiadlo.pl)
- - date_published: 2024-07-19T22:55:00.146254+00:00
-
- ## 메이플 에반 스킬 트리
- - [https://www.dbgreat.pl](https://www.dbgreat.pl)
- - date_published: 2024-06-20T18:12:49+00:00
-
- ## ☀ DBV.pl - Twój nowy blog
- - [http://www.polandbridge.dbv.pl](http://www.polandbridge.dbv.pl)
- - date_published: 2024-08-19T21:15:36.104011+00:00
-
- ## Radca prawny Katowice ,Mikołów- DBWP Kancelaria Radców Prawnych
- - [https://www.dbwp.pl](https://www.dbwp.pl)
- - date_published: 2024-12-30T04:42:13+00:00
-
- ## DECODE9 - Bezpieczeństwo informatyczne dla Ciebie i Twojej organizacji
- - [https://dc9.pl](https://dc9.pl)
- - date_published: 2022-10-10T11:24:56+00:00
- - tags: ['cybersecurity']
-
- ## Deal.pl - zakupy grupowe w jednym miejscu
- - [http://deal.pl](http://deal.pl)
- - date_published: 2024-07-11T16:33:26.526374+00:00
-
- ## Club Decathlon
- - [https://club.decathlon.pl](https://club.decathlon.pl)
- - date_published: 2024-09-19T13:39:32.427343+00:00
-
- ## Sklep sportowy - odzież, buty i sprzęt sportowy online - Decathlon.pl
- - [https://decathlon.pl](https://decathlon.pl)
- - date_published: 2024-06-15T20:10:40.396200+00:00
-
- ## Wydarzenia sportowe wokół Ciebie | Decathlon GO
- - [https://go.decathlon.pl](https://go.decathlon.pl)
- - date_published: 2024-09-19T13:39:50.370756+00:00
-
- ## Biuro prasowe Decathlon
- - [http://media.decathlon.pl](http://media.decathlon.pl)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Wypożyczalnia sprzętu sportowego - Decathlon Rent
- - [https://rent.decathlon.pl](https://rent.decathlon.pl)
- - date_published: 2024-09-19T13:39:47.504300+00:00
-
- ## Decathlon Support
- - [https://support.decathlon.pl](https://support.decathlon.pl)
- - date_published: 2024-09-19T13:39:57.171333+00:00
-
- ## Praca i kariera w Decathlon – Sport to Twoja pasja? Jesteś osobą aktywną i szukasz pracy, która jest przygodą? Sprawdź oferty pracy w Decathlon i po prostu do nas dołącz!
- - [http://www.decathlonkariera.pl](http://www.decathlonkariera.pl)
- - date_published: 2024-09-19T13:37:34+00:00
-
- ## Deccoria.pl - porady dla domu i ogrodu - Artykuły, Wideo, Inspiracje
- - [https://deccoria.pl](https://deccoria.pl)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## John Deere – Polska
- - [https://www.deere.pl](https://www.deere.pl)
- - date_published: 2024-08-11T16:53:43.235125+00:00
-
- ## cdn.defence24.pl
- - [https://cdn.defence24.pl](https://cdn.defence24.pl)
- - date_published: 2024-04-04T21:07:55+00:00
-
- ## Wojsko, przemysł, bezpieczeństwo, geopolityka
- - [https://defence24.pl](https://defence24.pl)
- - date_published: 2024-05-02T07:59:09.805711+00:00
-
- ## Gry strategiczne, księgarnia - Sklep Defence24
- - [https://sklep.defence24.pl](https://sklep.defence24.pl)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Broker on-line | Niskie opłaty | Inwestowanie |Broker DEGIRO
- - [https://www.degiro.pl](https://www.degiro.pl)
- - date_published: 2024-05-31T14:30:50+00:00
-
- ## De Heus Animal Nutrition | Robimy więcej niż pasze
- - [https://www.deheus.pl](https://www.deheus.pl)
- - date_published: 2024-12-30T02:46:09.167539+00:00
-
- ## Antystatyka dla przemysłu | Oferowane przez MS BERTOL urządzenia do usuwania ładunków elektrostatycznych znajdują zastosowanie w wielu różnych gałęziach przemysłu, a także w procesach związanych z pakowaniem gotowych wyrobów.
- - [http://www.dejonizator-jonizator.pl](http://www.dejonizator-jonizator.pl)
- - date_published: 2024-08-06T22:27:11.816290+00:00
-
- ## Dekodowanie kodu AZTEC 2D z dowodu rejestracyjnego
- - [https://dekoderaztec.pl](https://dekoderaztec.pl)
- - date_published: 2024-05-11T08:34:13.137707+00:00
 

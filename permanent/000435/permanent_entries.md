@@ -1,3 +1,103 @@
+ ## LICS - ACM/IEEE Symposium on Logic in Computer Science
+ - [https://lics.siglog.org](https://lics.siglog.org)
+ - date_published: 2023-09-20T05:08:23+00:00
+
+ ## ACM Special Interest Group on Logic and Computation
+ - [https://siglog.org](https://siglog.org)
+ - date_published: 2024-08-07T17:23:24.308277+00:00
+
+ ## The Sigma Awards
+ - [https://www.sigmaawards.org](https://www.sigmaawards.org)
+ - date_published: 2024-06-22T12:52:36.745475+00:00
+
+ ## Sigma Delta Pi
+ - [https://sigmadeltapi.org](https://sigmadeltapi.org)
+ - date_published: 2024-06-30T06:22:55+00:00
+
+ ## Sigma.js
+ - [http://sigmajs.org](http://sigmajs.org)
+ - date_published: 2024-11-25T10:03:03+00:00
+
+ ## Sigma Home Page
+ - [https://www.sigmanursing.org](https://www.sigmanursing.org)
+ - date_published: 2024-08-19T18:27:41.436264+00:00
+
+ ## Home - Sigma Xi
+ - [https://community.sigmaxi.org](https://community.sigmaxi.org)
+ - date_published: 2024-10-19T03:59:51.920506+00:00
+
+ ## Your industry Internships - Sigma Xi - Intern Board
+ - [http://internships.sigmaxi.org](http://internships.sigmaxi.org)
+ - date_published: 2024-06-17T11:47:57.631431+00:00
+
+ ## Scientific Research Jobs - Sigma Xi, The Scientific Research Society's Career Center
+ - [http://jobs.sigmaxi.org](http://jobs.sigmaxi.org)
+ - date_published: 2024-06-17T11:47:42.237589+00:00
+
+ ## Home
+ - [https://sigmaxi.org](https://sigmaxi.org)
+ - date_published: 2024-06-17T11:48:07.771145+00:00
+
+ ## ACM SIGMETRICS
+ - [http://sigmetrics.org](http://sigmetrics.org)
+ - date_published: 2024-08-07T17:23:08.473446+00:00
+
+ ## ACM SIGMICRO: Home
+ - [https://sigmicro.org](https://sigmicro.org)
+ - date_published: 2023-11-29T17:19:24.251668+00:00
+
+ ## ACM SIGMM Records – News for the Multimedia Community
+ - [http://records.sigmm.org](http://records.sigmm.org)
+ - date_published: 2024-09-14T08:42:16.733066+00:00
+
+ ## ACM SIGMM - the Special Interest Group on Multimedia
+ - [http://sigmm.org](http://sigmm.org)
+ - date_published: 2024-06-14T10:02:05+00:00
+
+ ## Redirecting...
+ - [https://sigmobile.org](https://sigmobile.org)
+ - date_published: 2018-10-30T21:10:33+00:00
+
+ ## The 2021 ACM SIGMOD/PODS Conference: Xi'an, Shaanxi, China - Welcome
+ - [https://2021.sigmod.org](https://2021.sigmod.org)
+ - date_published: 2024-08-11T07:40:05.241740+00:00
+
+ ## The 2022 ACM SIGMOD/PODS Conference: Philidelphia, Pennsylvania, USA - Welcome
+ - [https://2022.sigmod.org](https://2022.sigmod.org)
+ - date_published: 2024-07-01T20:04:36.323647+00:00
+
+ ## The 2023 ACM SIGMOD/PODS Conference: Seattle, Washington, USA - Welcome
+ - [http://2023.sigmod.org](http://2023.sigmod.org)
+ - date_published: 2024-07-02T13:33:20.798166+00:00
+
+ ## The 2024 ACM SIGMOD/PODS Conference: Santiago, Chile - Welcome
+ - [http://2024.sigmod.org](http://2024.sigmod.org)
+ - date_published: 2024-07-09T13:47:51.543967+00:00
+
+ ## The 2025 ACM SIGMOD/PODS Conference: Berlin, Germany - Welcome
+ - [https://2025.sigmod.org](https://2025.sigmod.org)
+ - date_published: 2024-07-09T13:48:01.748150+00:00
+
+ ## ACM SIGMOD Availability & Reproducibility Initiative
+ - [https://reproducibility.sigmod.org](https://reproducibility.sigmod.org)
+ - date_published: 2024-06-28T21:21:06+00:00
+
+ ## SIGMOD Website
+ - [https://sigmod.org](https://sigmod.org)
+ - date_published: 2024-07-01T20:06:40.765534+00:00
+
+ ## ACM SIGMOD Blog
+ - [http://wp.sigmod.org](http://wp.sigmod.org)
+ - date_published: 2024-07-09T13:48:03.982588+00:00
+
+ ## The 2014 ACM SIGMOD/PODS Conference: Snowbird, Utah, USA - Welcome
+ - [http://www.sigmod2014.org](http://www.sigmod2014.org)
+ - date_published: 2024-09-02T16:19:20.015270+00:00
+
+ ## The 2018 ACM SIGMOD/PODS Conference: Houston, TX, USA - Welcome
+ - [https://sigmod2018.org](https://sigmod2018.org)
+ - date_published: 2024-07-01T19:51:07.896162+00:00
+
  ## SIGMOD Record – SIGMOD Record Site
  - [https://sigmodrecord.org](https://sigmodrecord.org)
  - date_published: 2023-10-25T22:08:28.470823+00:00
@@ -3930,104 +4030,4 @@ Santa Rosa Veterans Building, Santa Rosa, CA |
  ## Center for Inclusive Health Homepage
  - [http://inclusivehealth.specialolympics.org](http://inclusivehealth.specialolympics.org)
  - date_published: 2024-09-19T22:03:21.010218+00:00
-
- ## Donate | Special Olympics | Support Special Olympics
- - [https://play.specialolympics.org](https://play.specialolympics.org)
- - date_published: 2024-09-19T22:03:06.328432+00:00
-
- ## Special Olympics Resources
- - [https://resources.specialolympics.org](https://resources.specialolympics.org)
- - date_published: 2024-09-19T22:03:04.608370+00:00
-
- ## Special Olympics World & National Games Results
- - [https://results.specialolympics.org](https://results.specialolympics.org)
- - date_published: 2024-09-19T22:03:08.901308+00:00
-
- ## Special Olympics Shop | Special Olympics Merchandise & Clothing - Special Olympics Shop
- - [https://shop.specialolympics.org](https://shop.specialolympics.org)
- - date_published: 2024-09-19T22:03:17.188947+00:00
-
- ## Special Olympics
- - [https://specialolympics.org](https://specialolympics.org)
- - date_published: 2024-06-15T22:35:45.633259+00:00
-
- ## Donate | Special Olympics | Support Special Olympics
- - [https://support.specialolympics.org](https://support.specialolympics.org)
- - date_published: 2024-09-19T22:03:18.425861+00:00
-
- ## Special Operations Warrior Foundation
- - [http://www.specialops.org](http://www.specialops.org)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Zoological Information Management System | ZIMS | Species 360
- - [https://www.species360.org](https://www.species360.org)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## speckdrumm.org
- - [http://www.speckdrumm.org](http://www.speckdrumm.org)
- - date_published: 2024-04-03T15:37:35+00:00
-
- ## Specref
- - [http://www.specref.org](http://www.specref.org)
- - date_published: 2024-06-29T01:18:16+00:00
-
- ## Home | specsnet
- - [https://specsnet.org](https://specsnet.org)
- - date_published: 2024-01-13T00:00:00+00:00
-
- ## Spectacular Failures
- - [https://www.spectacularfailures.org](https://www.spectacularfailures.org)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## spectacularium.org - Ta strona jest na sprzedaż! - spectacularium Zasoby i informacje.
- - [http://www.spectacularium.org](http://www.spectacularium.org)
- - date_published: 2024-06-24T09:35:10+00:00
-
- ## Nexcess
- - [https://news.spectator.org](https://news.spectator.org)
- - date_published: 2023-04-18T20:15:17+00:00
-
- ## The American Spectator | USA News and Politics
- - [https://spectator.org](https://spectator.org)
- - date_published: 2023-10-25T22:10:25.131810+00:00
-
- ## SpectralFringe cover
- - [http://www.spectralfringe.org](http://www.spectralfringe.org)
- - date_published: 2022-07-20T00:13:53+00:00
-
- ## Spectra - C++ Library For Large Scale Eigenvalue Problems
- - [https://spectralib.org](https://spectralib.org)
- - date_published: 2024-06-17T03:14:40.388255+00:00
-
- ## SpectralWorkbench
- - [https://spectralworkbench.org](https://spectralworkbench.org)
- - date_published: 2022-10-12T06:31:53+00:00
-
- ## Spectre : prenons l’antenne !
- - [https://spectremedia.org](https://spectremedia.org)
- - date_published: 2024-12-22T05:44:17.137997+00:00
-
- ## Новинки сайта | Full Tape Crack Pack
- - [http://spectrum4ever.org](http://spectrum4ever.org)
- - date_published: 2024-09-04T11:11:54.627547+00:00
-
- ## Home - Spectrum Dance Theater
- - [http://spectrumdance.org](http://spectrumdance.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Spectrum Life Magazine from Autism Empowerment
- - [http://spectrumlife.org](http://spectrumlife.org)
- - date_published: 2024-09-03T23:02:03.187364+00:00
-
- ## Spectrum Magazine - Creating community through conversation
- - [http://spectrummagazine.org](http://spectrummagazine.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Spectrum Autism Research News and Perspectives
- - [https://www.spectrumnews.org](https://www.spectrumnews.org)
- - date_published: 2024-07-19T21:46:19+00:00
-
- ## SPEEA Website
- - [https://speea.org](https://speea.org)
- - date_published: 2024-05-09T06:49:12.802577+00:00
 

@@ -1,3 +1,15 @@
+ ## DDD Europe 2022 - Software Modelling & Design Conference
+ - [https://2022.dddeurope.com](https://2022.dddeurope.com)
+ - date_published: 2022-09-23T09:42:54+00:00
+
+ ## DDD Europe 2023 - Software Modelling & Design Conference
+ - [https://2023.dddeurope.com](https://2023.dddeurope.com)
+ - date_published: 2023-07-03T11:48:20+00:00
+
+ ## DDD Europe 2024 - Software Modelling & Design Conference
+ - [https://2024.dddeurope.com](https://2024.dddeurope.com)
+ - date_published: 2024-06-11T09:25:28+00:00
+
  ## DDD Europe 2025 - Software Modelling & Design Conference
  - [https://2025.dddeurope.com](https://2025.dddeurope.com)
  - date_published: 2024-06-19T11:57:56+00:00
@@ -4060,16 +4072,4 @@
  ## Communicate! - Helping you win loyal friends through your communications
  - [https://dennisfischman.com](https://dennisfischman.com)
  - date_published: 2024-07-02T00:00:00+00:00
-
- ## Dennis Gecaj
- - [https://dennisgec.com](https://dennisgec.com)
- - date_published: 2020-05-04T07:23:17+00:00
-
- ## Home | Dennis Gruenling
- - [https://dennisgruenling.com](https://dennisgruenling.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## DennisKennedy.Blog
- - [https://denniskennedy.com](https://denniskennedy.com)
- - date_published: 2024-07-13T10:09:38.606107+00:00
 

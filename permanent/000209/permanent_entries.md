@@ -1,3 +1,59 @@
+ ## Scorebird Single Game Widget
+ - [https://widget.scorebird.com](https://widget.scorebird.com)
+ - date_published: 2024-09-16T14:03:50+00:00
+
+ ## Free Scoreboard App - Scoreboardz
+ - [http://www.scoreboardz.com](http://www.scoreboardz.com)
+ - date_published: 2022-07-23T21:43:43+00:00
+
+ ## Home Page - Scorecard Research
+ - [https://www.scorecardresearch.com](https://www.scorecardresearch.com)
+ - date_published: 2024-05-06T17:57:44.659336+00:00
+
+ ## Score Exchange - Find, Print, Download Sheet Music Now
+ - [https://www.scoreexchange.com](https://www.scoreexchange.com)
+ - date_published: 2024-08-18T06:43:04.025624+00:00
+
+ ## Score Hero - Home
+ - [http://scorehero.com](http://scorehero.com)
+ - date_published: 2024-10-22T09:34:54.625413+00:00
+
+ ## ScoreSaber
+ - [https://scoresaber.com](https://scoresaber.com)
+ - date_published: 2024-06-24T03:36:08.559072+00:00
+
+ ## Bullhorn : Bullhorn
+ - [https://bullhorn.scorestream.com](https://bullhorn.scorestream.com)
+ - date_published: 2024-06-26T08:55:14.920399+00:00
+
+ ## User Login - ScoreStream
+ - [http://emailcampaigns.scorestream.com](http://emailcampaigns.scorestream.com)
+ - date_published: 2024-06-26T08:55:10.078324+00:00
+
+ ## User Login - ScoreStream
+ - [https://graphicmaker.scorestream.com](https://graphicmaker.scorestream.com)
+ - date_published: 2024-06-26T08:55:06.851418+00:00
+
+ ## User Login - ScoreStream
+ - [http://gsp.scorestream.com](http://gsp.scorestream.com)
+ - date_published: 2024-06-26T08:55:40.390354+00:00
+
+ ## User Login - ScoreStream
+ - [https://missioncontrol.scorestream.com](https://missioncontrol.scorestream.com)
+ - date_published: 2024-06-26T08:55:32.469777+00:00
+
+ ## User Login - ScoreStream
+ - [http://notificationservice.scorestream.com](http://notificationservice.scorestream.com)
+ - date_published: 2024-06-26T08:55:20.715023+00:00
+
+ ## User Login - ScoreStream
+ - [http://rumpus.scorestream.com](http://rumpus.scorestream.com)
+ - date_published: 2024-06-26T08:55:29.766468+00:00
+
+ ## User Login - ScoreStream
+ - [http://rustler.scorestream.com](http://rustler.scorestream.com)
+ - date_published: 2024-06-26T08:55:13.645611+00:00
+
  ## ScoreStream - Your Destination for High School and Local Sports
  - [https://scorestream.com](https://scorestream.com)
  - date_published: 2024-05-06T18:30:39.753246+00:00
@@ -3993,63 +4049,4 @@
  ## Securities finance news and commentary - Securities Finance Times
  - [https://www.securitiesfinancetimes.com](https://www.securitiesfinancetimes.com)
  - date_published: 2024-09-25T12:23:53.142092+00:00
-
- ## Broadcom Blogs
- - [https://broadcom-software.security.com](https://broadcom-software.security.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Symantec Enterprise Blogs
- - [https://symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com)
- - date_published: 2023-10-25T17:01:22.426033+00:00
-
- ## Security Affairs - Read, think, share … Security is everyone's responsibility
- - [https://securityaffairs.com](https://securityaffairs.com)
- - date_published: 2023-10-25T09:35:33.117030+00:00
- - tags: ['security news']
-
- ## Security and Fire Africa | The leading African Security and Fire news brand
- - [https://securityafricamagazine.com](https://securityafricamagazine.com)
- - date_published: 2024-09-24T22:50:09.130762+00:00
-
- ## Home
- - [https://securityboulevard.com](https://securityboulevard.com)
- - date_published: 2024-04-05T00:00:00+00:00
- - tags: ['tech news']
-
- ## Security Boulevard Chat Podcast | Techstrong Group
- - [https://securityboulevardchats.com](https://securityboulevardchats.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## BSides / FrontPage
- - [http://www.securitybsides.com](http://www.securitybsides.com)
- - date_published: 2024-06-22T11:01:57.296422+00:00
-
- ## Home | The Security Bulldog- AI for cybersecurity, it's about time.
- - [https://securitybulldog.com](https://securitybulldog.com)
- - date_published: 2024-06-19T19:23:55.295058+00:00
-
- ## Security Cameras | IP Cameras | CCTV Video Surveillance Systems
- - [https://securitycameraking.com](https://securitycameraking.com)
- - date_published: 2024-04-08T00:00:00+00:00
- - tags: ['surveillance system']
-
- ## Book - Security Chaos Engineering: Sustaining Resilience in Software and Systems
- - [https://www.securitychaoseng.com](https://www.securitychaoseng.com)
- - date_published: 2023-05-02T01:21:15+00:00
-
- ## Home
- - [https://securitycompass.com](https://securitycompass.com)
- - date_published: 2024-10-31T07:05:44.215026+00:00
-
- ## Home
- - [https://trk.securitycompass.com](https://trk.securitycompass.com)
- - date_published: 2024-10-31T07:05:41.062534+00:00
-
- ## Security Cryptography Whatever
- - [https://merch.securitycryptographywhatever.com](https://merch.securitycryptographywhatever.com)
- - date_published: 2024-07-14T04:47:14.061410+00:00
-
- ## Security Cryptography Whatever
- - [https://securitycryptographywhatever.com](https://securitycryptographywhatever.com)
- - date_published: 2024-05-11T09:25:41.479273+00:00
 

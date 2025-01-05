@@ -1,3 +1,41 @@
+ ## Design Thinkers Academy London – Medium
+ - [https://designthinkersacademylondon.medium.com](https://designthinkersacademylondon.medium.com)
+ - date_published: 2024-09-09T13:16:37.939062+00:00
+
+ ## Devi Parikh – Medium
+ - [https://deviparikh.medium.com](https://deviparikh.medium.com)
+ - date_published: 2024-07-14T03:37:48.539644+00:00
+
+ ## Devrim Danyal – Medium
+ - [https://devrimdanyal.medium.com](https://devrimdanyal.medium.com)
+ - date_published: 2024-04-28T03:56:06.313236+00:00
+
+ ## Dev to be curious – Medium
+ - [https://devtobecurious.medium.com](https://devtobecurious.medium.com)
+ - date_published: 2024-08-11T22:40:08.693356+00:00
+
+ ## Dave Feldman – Medium
+ - [https://dfeldman.medium.com](https://dfeldman.medium.com)
+ - date_published: 2023-10-25T10:19:38.830473+00:00
+
+ ## David Howden – Medium
+ - [https://dhowden.medium.com](https://dhowden.medium.com)
+ - date_published: 2024-06-18T12:41:10.379264+00:00
+
+ ## Dikshant Rajput – Medium
+ - [https://dikshantraj2001.medium.com](https://dikshantraj2001.medium.com)
+ - date_published: 2024-04-07T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Dima Statz – Medium
+ - [https://dima-statz.medium.com](https://dima-statz.medium.com)
+ - date_published: 2024-09-25T09:54:29.361453+00:00
+
+ ## Thomas Ricouard – Medium
+ - [https://dimillian.medium.com](https://dimillian.medium.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+ - tags: ['personal']
+
  ## Dinah Davis – Medium
  - [https://dinah-davis.medium.com](https://dinah-davis.medium.com)
  - date_published: 2024-06-03T00:00:00+00:00
@@ -3986,40 +4024,4 @@
  ## mehtapress.com
  - [http://www.mehtapress.com](http://www.mehtapress.com)
  - date_published: 2024-10-29T17:22:40.079274+00:00
-
- ## Rohan Mehta
- - [https://mehta-rohan.com](https://mehta-rohan.com)
- - date_published: 2023-05-23T00:00:00+00:00
-
- ## Mehul Kar
- - [https://mehulkar.com](https://mehulkar.com)
- - date_published: 2024-05-07T23:11:22.407919+00:00
-
- ## MeidasTouch News
- - [https://meidasnews.com](https://meidasnews.com)
- - date_published: 2024-07-08T23:06:58.584041+00:00
-
- ## Meidas+ | MeidasTouch Network | Substack
- - [https://www.meidasplus.com](https://www.meidasplus.com)
- - date_published: 2024-12-27T13:33:56.164964+00:00
-
- ## MeidasTouch Network
- - [https://meidastouch.com](https://meidastouch.com)
- - date_published: 2024-03-13T12:03:17.371989+00:00
-
- ## MeidasTouch Store
- - [https://store.meidastouch.com](https://store.meidastouch.com)
- - date_published: 2024-07-08T23:06:54.436201+00:00
-
- ## 美德网-语文教学素材网
- - [https://www.meidekan.com](https://www.meidekan.com)
- - date_published: 2024-10-25T10:18:08.074723+00:00
-
- ## Structural Concrete Subcontractor | Meier Construction, Inc.
- - [https://www.meiercon.com](https://www.meiercon.com)
- - date_published: 2024-07-04T17:21:12.265905+00:00
-
- ## Jens Oliver Meiert Â· Engineering Lead und Autor Â· Minimierung und Optimierung von HTML und CSS
- - [https://meiert.com](https://meiert.com)
- - date_published: 2024-05-07T23:15:23.480523+00:00
 

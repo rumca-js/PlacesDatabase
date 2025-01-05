@@ -1,3 +1,15 @@
+ ## Home | e-Recruitment EPFL
+ - [https://recruiting.epfl.ch](https://recruiting.epfl.ch)
+ - date_published: 2024-07-16T22:48:23.617588+00:00
+
+ ## Repro – Print Center
+ - [http://reprographie.epfl.ch](http://reprographie.epfl.ch)
+ - date_published: 2024-07-16T12:47:49+00:00
+
+ ## Services for EPFL researchers and PhD students
+ - [https://researchdata.epfl.ch](https://researchdata.epfl.ch)
+ - date_published: 2024-05-12T07:24:50.331299+00:00
+
  ## Research Office
  - [http://research-office.epfl.ch](http://research-office.epfl.ch)
  - date_published: 2024-07-16T22:23:53+00:00
@@ -4001,16 +4013,4 @@
  ## Pro Helvetia - Swiss Arts Council
  - [https://prohelvetia.ch](https://prohelvetia.ch)
  - date_published: 2024-01-05T00:00:00+00:00
-
- ## Fachorganisation für Menschen mit Behinderungen  - Pro Infirmis
- - [https://www.proinfirmis.ch](https://www.proinfirmis.ch)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## pizuerst - Pro Infirmis
- - [https://zuerst.proinfirmis.ch](https://zuerst.proinfirmis.ch)
- - date_published: 2024-07-21T06:19:14.997453+00:00
-
- ## Projekte. ungefiltert. – Erlebnisse und Erfahrungen aus dem Alltag eines IT Projektleiters
- - [https://projekte-ungefiltert.ch](https://projekte-ungefiltert.ch)
- - date_published: 2024-06-15T16:56:49.660159+00:00
 

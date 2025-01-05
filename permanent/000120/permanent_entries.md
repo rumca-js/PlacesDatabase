@@ -1,3 +1,19 @@
+ ## Field Mag
+ - [https://fieldmag.com](https://fieldmag.com)
+ - date_published: 2024-05-01T03:11:35.486280+00:00
+
+ ## Field Mag Shop
+ - [https://shop.fieldmag.com](https://shop.fieldmag.com)
+ - date_published: 2024-06-15T09:48:31.993720+00:00
+
+ ## Memo Books, Notebooks, Journals & Planners
+ - [https://fieldnotesbrand.com](https://fieldnotesbrand.com)
+ - date_published: 2024-05-04T14:27:31.911672+00:00
+
+ ## Field of Fire Gaming
+ - [https://fieldoffiregaming.com](https://fieldoffiregaming.com)
+ - date_published: 2020-01-27T21:15:33+00:00
+
  ## BrickHouse Nutrition | Superfood, Supplements, Health
  - [http://fieldofgreens.com](http://fieldofgreens.com)
  - date_published: 2025-01-01T20:50:19.704321+00:00
@@ -4017,20 +4033,4 @@
  ## First Timers Only - Get involved in Open Source and commit code to your first project!
  - [https://www.firsttimersonly.com](https://www.firsttimersonly.com)
  - date_published: 2020-01-22T00:00:00+00:00
-
- ## New Philadelphia's Tuscora Park First Town Days
- - [https://www.firsttowndays.com](https://www.firsttowndays.com)
- - date_published: 2024-07-03T10:08:59.605040+00:00
-
- ## Travel Solutions & UK Transport Services | First Travel Solutions
- - [http://www.firsttravelsolutions.com](http://www.firsttravelsolutions.com)
- - date_published: 2024-10-11T08:17:57.813123+00:00
-
- ## First Trust Credit Union
- - [https://www.firsttrustcu.com](https://www.firsttrustcu.com)
- - date_published: 2024-09-28T19:52:48+00:00
-
- ## Welcome to Our Blog
- - [http://www.firsttvdrama.com](http://www.firsttvdrama.com)
- - date_published: 2024-07-04T14:21:44.089869+00:00
 

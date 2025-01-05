@@ -1,3 +1,15 @@
+ ## Analytika
+ - [https://portal.cimetrics.com](https://portal.cimetrics.com)
+ - date_published: 2023-03-27T13:07:08+00:00
+
+ ## Cocoa Is My Girlfriend | Taglines are for Windows programmers
+ - [http://www.cimgf.com](http://www.cimgf.com)
+ - date_published: 2024-06-23T15:23:13.127108+00:00
+
+ ## CIMNE - International Centre for Numerical Methods in Engineering
+ - [http://www.cimne.com](http://www.cimne.com)
+ - date_published: 2024-11-08T19:41:48.731733+00:00
+
  ## CIMPA PLM Services
  - [https://www.cimpa.com](https://www.cimpa.com)
  - date_published: 2024-07-04T12:16:33.755705+00:00
@@ -4006,16 +4018,4 @@
  ## ClayStack | Staking ReDeFined
  - [https://app.claystack.com](https://app.claystack.com)
  - date_published: 2024-09-25T11:36:05.497256+00:00
-
- ## ClayStack | Liquid Staking | Stake Token | Staking Rewards | Staking ReDefined  - Claystack
- - [https://claystack.com](https://claystack.com)
- - date_published: 2024-06-16T04:36:09.882419+00:00
-
- ## Introduction | ClayStack Docs
- - [https://docs.claystack.com](https://docs.claystack.com)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## ClayStack | Staking ReDeFined
- - [https://victoria.claystack.com](https://victoria.claystack.com)
- - date_published: 2024-09-25T11:36:09.094236+00:00
 

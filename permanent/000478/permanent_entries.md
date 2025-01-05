@@ -1,3 +1,117 @@
+ ## Civil Service Careers
+ - [https://www.civil-service-careers.gov.uk](https://www.civil-service-careers.gov.uk)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Home
+ - [https://communities-ni.gov.uk](https://communities-ni.gov.uk)
+ - date_published: 2024-10-21T10:31:28.902835+00:00
+
+ ## Find and update company information - GOV.UK
+ - [https://beta.companieshouse.gov.uk](https://beta.companieshouse.gov.uk)
+ - date_published: 2024-05-07T10:35:10.002530+00:00
+
+ ## Companies House
+ - [https://companieshouse.gov.uk](https://companieshouse.gov.uk)
+ - date_published: 2024-10-21T10:04:51.053941+00:00
+
+ ## Developer Hub Home
+ - [https://developer.companieshouse.gov.uk](https://developer.companieshouse.gov.uk)
+ - date_published: 2024-05-02T12:29:27.511728+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.companieshouse.gov.uk](https://matomo.companieshouse.gov.uk)
+ - date_published: 2024-05-02T12:29:24.709844+00:00
+
+ ## Media room
+ - [https://mediaroom.companieshouse.gov.uk](https://mediaroom.companieshouse.gov.uk)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Companies House
+ - [https://resources.companieshouse.gov.uk](https://resources.companieshouse.gov.uk)
+ - date_published: 2024-04-29T03:31:25.594693+00:00
+
+ ## The Crown Prosecution Service | The Crown Prosecution Service
+ - [https://www.cps.gov.uk](https://www.cps.gov.uk)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Crown Commercial Service - CCS
+ - [https://www.crowncommercial.gov.uk](https://www.crowncommercial.gov.uk)
+ - date_published: 2024-10-11T19:51:57.786153+00:00
+
+ ## Crown Office and Procurator Fiscal Service
+ - [http://www.crownoffice.gov.uk](http://www.crownoffice.gov.uk)
+ - date_published: 2024-10-21T15:59:07.298133+00:00
+
+ ## Department for Culture, Media and Sport
+ - [http://www.culture.gov.uk](http://www.culture.gov.uk)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Welcome to Cumberland | Cumberland Council
+ - [https://www.cumberland.gov.uk](https://www.cumberland.gov.uk)
+ - date_published: 2024-05-06T16:58:38.992341+00:00
+
+ ## Home
+ - [https://daera-ni.gov.uk](https://daera-ni.gov.uk)
+ - date_published: 2024-10-21T10:31:34.774757+00:00
+
+ ## Find open data - data.gov.uk
+ - [https://data.gov.uk](https://data.gov.uk)
+ - date_published: 2024-06-12T06:03:55.998495+00:00
+
+ ## GOV.UK Documentation Example
+ - [https://guidance.data.gov.uk](https://guidance.data.gov.uk)
+ - date_published: 2024-05-17T09:09:21+00:00
+
+ ## Planning Data
+ - [https://www.planning.data.gov.uk](https://www.planning.data.gov.uk)
+ - date_published: 2024-08-19T05:19:36.949347+00:00
+
+ ## Department for Business, Energy & Industrial Strategy
+ - [http://www.decc.gov.uk](http://www.decc.gov.uk)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Department for Environment, Food & Rural Affairs
+ - [https://defra.gov.uk](https://defra.gov.uk)
+ - date_published: 2024-10-21T11:45:46.722277+00:00
+
+ ## Home
+   - Defra, UK
+ - [https://uk-air.defra.gov.uk](https://uk-air.defra.gov.uk)
+ - date_published: 2024-06-18T16:04:47.024812+00:00
+
+ ## Department of Health and Social Care
+ - [http://www.dh.gov.uk](http://www.dh.gov.uk)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Welcome to GOV.UK
+ - [http://www.direct.gov.uk](http://www.direct.gov.uk)
+ - date_published: 2024-10-21T09:58:59.342011+00:00
+
+ ## Discover Uni Home |
+                Discover Uni
+ - [https://discoveruni.gov.uk](https://discoveruni.gov.uk)
+ - date_published: 2024-06-17T17:49:24.336370+00:00
+
+ ## MOT Service Status Status
+ - [http://motservice.status.dvsa.gov.uk](http://motservice.status.dvsa.gov.uk)
+ - date_published: 2024-10-21T09:49:19.200482+00:00
+
+ ## Home - DWP Accessibility Manual
+ - [https://accessibility-manual.dwp.gov.uk](https://accessibility-manual.dwp.gov.uk)
+ - date_published: 2024-06-15T04:14:57.576505+00:00
+
+ ## DWP Digital – Digital With Purpose
+ - [https://careers.dwp.gov.uk](https://careers.dwp.gov.uk)
+ - date_published: 2024-10-21T09:40:03.833304+00:00
+
+ ## Find a job
+ - [https://findajob.dwp.gov.uk](https://findajob.dwp.gov.uk)
+ - date_published: 2024-06-17T17:49:05.465349+00:00
+
+ ## Department for Work and Pensions
+ - [http://research.dwp.gov.uk](http://research.dwp.gov.uk)
+ - date_published: 2024-10-21T14:03:35.809741+00:00
+
  ## Department for Work and Pensions
  - [http://www.dwp.gov.uk](http://www.dwp.gov.uk)
  - date_published: 2024-10-21T14:05:07.059945+00:00
@@ -3916,118 +4030,4 @@ Edinburgh since 1840; When I last counted, at January 2010, there were about
  ## games.moria.org.uk
  - [https://games.moria.org.uk](https://games.moria.org.uk)
  - date_published: 2011-02-05T14:56:28+00:00
-
- ## The Morris Federation – UK's largest Morris & traditional dance teams association
- - [http://www.morrisfed.org.uk](http://www.morrisfed.org.uk)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home | Science and Industry Museum
- - [http://www.mosi.org.uk](http://www.mosi.org.uk)
- - date_published: 2024-09-02T15:48:14+00:00
-
- ## Motability Foundation | Making all journeys accessible
- - [https://www.motability.org.uk](https://www.motability.org.uk)
- - date_published: 2024-10-21T03:00:49.533657+00:00
-
- ## Motability Foundation | Making all journeys accessible
- - [https://www.motabilityfoundation.org.uk](https://www.motabilityfoundation.org.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home | Science and Industry Museum
- - [http://msimanchester.org.uk](http://msimanchester.org.uk)
- - date_published: 2024-10-29T18:20:34+00:00
-
- ## Neuro Therapy Network | Oxygen Therapy | Physiotherapy | Complementary Therapies
- - [http://www.msntc.org.uk](http://www.msntc.org.uk)
- - date_published: 2024-10-21T22:56:06.545501+00:00
-
- ## Home of the freemasons' history. Visit a free museum in London today
- - [https://museumfreemasonry.org.uk](https://museumfreemasonry.org.uk)
- - date_published: 2024-06-13T08:53:52+00:00
- - tags: ['freemasonry']
-
- ## Museum of London Docklands | Free museum in London
- - [http://www.museumoflondon.org.uk](http://www.museumoflondon.org.uk)
- - date_published: 2024-06-24T10:23:27.608848+00:00
-
- ## Home | Museum of the Home
- - [https://www.museumofthehome.org.uk](https://www.museumofthehome.org.uk)
- - date_published: 2024-09-14T23:18:59.440420+00:00
-
- ## Bethlem Museum of the Mind
- - [http://museumofthemind.org.uk](http://museumofthemind.org.uk)
- - date_published: 2024-10-29T18:15:31.596286+00:00
-
- ## The Music Commission | Supporting and Sustaining Musical Progression For All
- - [http://www.musiccommission.org.uk](http://www.musiccommission.org.uk)
- - date_published: 2024-08-18T21:47:49.779048+00:00
-
- ## Music Mark | Leaders in High Quality Music Education
- - [https://www.musicmark.org.uk](https://www.musicmark.org.uk)
- - date_published: 2016-10-13T09:37:42+00:00
-
- ## Musical Traditions Internet Magazine Home Page
- - [https://mustrad.org.uk](https://mustrad.org.uk)
- - date_published: 2024-03-23T16:38:10+00:00
-
- ## Home - National Association of Funeral Directors
- - [https://nafd.org.uk](https://nafd.org.uk)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Name Generator
- - [https://www.name-generator.org.uk](https://www.name-generator.org.uk)
- - date_published: 2024-10-30T10:49:14.310017+00:00
-
- ## NanoIT — Digital Design Agency
- - [http://www.nano.org.uk](http://www.nano.org.uk)
- - date_published: 2024-06-29T22:27:33.023647+00:00
-
- ## Entry site of NanoPhotonics.org.uk
- - [https://www.nanophotonics.org.uk](https://www.nanophotonics.org.uk)
- - date_published: 2024-02-08T16:29:59.137335+00:00
-
- ## Nanoscope Project - Group Zheludev
- - [https://www.nanoscope.org.uk](https://www.nanoscope.org.uk)
- - date_published: 2024-05-02T12:38:44.305218+00:00
-
- ## Home - National Audit Office (NAO)
- - [https://www.nao.org.uk](https://www.nao.org.uk)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## NAPIT | Promoting Excellence in the Building Services & Fabric Sector
- - [https://www.napit.org.uk](https://www.napit.org.uk)
- - date_published: 2024-10-20T16:36:37.105920+00:00
-
- ## Narconon Drug & Alcohol Rehabilitation Programme in the UK
- - [https://www.narconon.org.uk](https://www.narconon.org.uk)
- - date_published: 2024-09-04T18:10:49.797825+00:00
-
- ## Narconon UK Drug & Alcohol Rehabilitation
- - [https://www.narcononuk.org.uk](https://www.narcononuk.org.uk)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## The National Archives Trust - About us
- - [https://www.nationalarchivestrust.org.uk](https://www.nationalarchivestrust.org.uk)
- - date_published: 2024-10-17T12:36:15.335669+00:00
-
- ## Homepage - National Domestic Abuse Helpline
- - [https://www.nationaldahelpline.org.uk](https://www.nationaldahelpline.org.uk)
- - date_published: 2024-06-18T07:55:16.059016+00:00
-
- ## The National Gallery, London
- - [https://nationalgallery.org.uk](https://nationalgallery.org.uk)
- - date_published: 2024-10-17T12:54:45.867373+00:00
- - tags: ['museum']
-
- ## The National Gallery Online Shop | National Gallery Shop
- - [https://shop.nationalgallery.org.uk](https://shop.nationalgallery.org.uk)
- - date_published: 2024-05-02T12:38:53.941315+00:00
-
- ## Subject Specialist Network: European paintings pre-1900
- - [https://ssn.nationalgallery.org.uk](https://ssn.nationalgallery.org.uk)
- - date_published: 2024-05-02T12:38:56.269698+00:00
-
- ## National Theatre Live
- - [http://ntlive.nationaltheatre.org.uk](http://ntlive.nationaltheatre.org.uk)
- - date_published: 2024-07-04T10:55:06+00:00
 

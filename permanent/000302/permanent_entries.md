@@ -1,3 +1,59 @@
+ ## GDEC
+ - [https://gdec.rice.edu](https://gdec.rice.edu)
+ - date_published: 2024-05-04T18:30:20+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://giftplan.rice.edu](https://giftplan.rice.edu)
+ - date_published: 2024-07-01T18:00:24.148906+00:00
+
+ ## Alumni
+ - [https://giving.rice.edu](https://giving.rice.edu)
+ - date_published: 2024-05-07T20:05:37.746113+00:00
+
+ ## Subscribe to the Glasscock School
+ - [https://glasscock-info.rice.edu](https://glasscock-info.rice.edu)
+ - date_published: 2024-06-25T11:19:56+00:00
+
+ ## Glasscock
+ - [https://glasscock.rice.edu](https://glasscock.rice.edu)
+ - date_published: 2024-05-07T20:05:13.562824+00:00
+
+ ## Top Global University and Research Leader | Rice University
+ - [https://global.rice.edu](https://global.rice.edu)
+ - date_published: 2024-05-07T20:05:18.680149+00:00
+
+ ## Master of Liberal Studies at Rice
+ - [https://gls.rice.edu](https://gls.rice.edu)
+ - date_published: 2024-06-27T23:35:39+00:00
+
+ ## Log in | Grad Admin Guide | Rice University
+ - [https://gradadmin.rice.edu](https://gradadmin.rice.edu)
+ - date_published: 2024-07-01T17:59:44.217604+00:00
+
+ ## Home
+ - [https://gradadmissions.rice.edu](https://gradadmissions.rice.edu)
+ - date_published: 2024-05-07T20:06:18.645335+00:00
+
+ ## Application Management
+ - [https://gradapply.rice.edu](https://gradapply.rice.edu)
+ - date_published: 2024-07-01T17:59:15.903204+00:00
+
+ ## Home
+ - [https://graduate.rice.edu](https://graduate.rice.edu)
+ - date_published: 2024-05-07T20:05:17.391901+00:00
+
+ ## GSA
+ - [http://gsa.rice.edu](http://gsa.rice.edu)
+ - date_published: 2024-05-16T12:39:09+00:00
+
+ ## Home
+ - [https://health.rice.edu](https://health.rice.edu)
+ - date_published: 2024-07-01T17:59:59.131880+00:00
+
+ ## Login
+ - [https://helpdesk.rice.edu](https://helpdesk.rice.edu)
+ - date_published: 2024-05-07T20:06:11.527443+00:00
+
  ## Login
  - [https://help.rice.edu](https://help.rice.edu)
  - date_published: 2024-05-07T20:06:08.094857+00:00
@@ -3948,60 +4004,4 @@
  ## Stanford Graduate School of Business
  - [https://gsb.stanford.edu](https://gsb.stanford.edu)
  - date_published: 2024-05-07T20:30:37.947776+00:00
-
- ## stan-x
- - [https://gsc.stanford.edu](https://gsc.stanford.edu)
- - date_published: 2024-05-11T10:40:37.394708+00:00
-
- ## Office of Innovation & Technology
- - [https://gse-it.stanford.edu](https://gse-it.stanford.edu)
- - date_published: 2024-07-01T19:40:21+00:00
-
- ## Graduate and Undergraduate Studies
- - [https://gus-humsci.stanford.edu](https://gus-humsci.stanford.edu)
- - date_published: 2024-05-07T20:28:07.640877+00:00
-
- ## Hacking for Climate and Sustainability
- - [https://h4cs.stanford.edu](https://h4cs.stanford.edu)
- - date_published: 2024-04-19T02:34:55+00:00
-
- ## Hacking 4 Defense Stanford
- - [http://h4d.stanford.edu](http://h4d.stanford.edu)
- - date_published: 2024-07-20T15:33:47.504712+00:00
-
- ## Haas Center for Public Service
- - [https://haas.stanford.edu](https://haas.stanford.edu)
- - date_published: 2024-06-27T19:55:37+00:00
-
- ## Home | Stanford HAI
- - [https://hai.stanford.edu](https://hai.stanford.edu)
- - date_published: 2023-10-25T18:58:24.324282+00:00
-
- ## Stanford Login
- - [https://handsonweb.stanford.edu](https://handsonweb.stanford.edu)
- - date_published: 2024-07-01T20:08:43.739286+00:00
-
- ## Wrigley Field Program in Hawaii
- - [https://hawaii.stanford.edu](https://hawaii.stanford.edu)
- - date_published: 2024-07-01T20:22:23+00:00
-
- ## Hazy Research
- - [https://hazyresearch.stanford.edu](https://hazyresearch.stanford.edu)
- - date_published: 2023-10-25T18:58:25.276211+00:00
-
- ## Stanford HCI Group
- - [https://hci.stanford.edu](https://hci.stanford.edu)
- - date_published: 2023-10-25T18:58:28.830172+00:00
-
- ## HEADSUP
- - [https://headsup.stanford.edu](https://headsup.stanford.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Homepage
- - [https://healthalerts.stanford.edu](https://healthalerts.stanford.edu)
- - date_published: 2024-10-11T23:15:14.686010+00:00
-
- ## Center for Health Education
- - [https://healtheducation.stanford.edu](https://healtheducation.stanford.edu)
- - date_published: 2024-04-19T01:45:47+00:00
 

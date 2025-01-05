@@ -1,3 +1,15 @@
+ ## In Retrospect
+ - [https://hcssh.blogspot.com](https://hcssh.blogspot.com)
+ - date_published: 2024-09-09T09:34:06+00:00
+
+ ## Lady Insignificant
+ - [http://hdsidhe.blogspot.com](http://hdsidhe.blogspot.com)
+ - date_published: 2024-03-14T08:52:59+00:00
+
+ ## Programming C++11 and SDL2
+ - [http://headerphile.blogspot.com](http://headerphile.blogspot.com)
+ - date_published: 2024-03-19T03:51:57+00:00
+
  ## My Head Is Full of Books
  - [https://headfullofbooks.blogspot.com](https://headfullofbooks.blogspot.com)
  - date_published: 2024-09-17T16:12:00+00:00
@@ -3991,16 +4003,4 @@
  ## Joakim Book | Life of an Econ Student
  - [https://joakimbook.blogspot.com](https://joakimbook.blogspot.com)
  - date_published: 2024-10-21T07:26:01+00:00
-
- ## Joan Mora
- - [http://joanmorawrites.blogspot.com](http://joanmorawrites.blogspot.com)
- - date_published: 2024-10-17T22:58:00.720085+00:00
-
- ## I Have Seen The Whole Of The Internet
- - [http://joannecasey.blogspot.com](http://joannecasey.blogspot.com)
- - date_published: 2024-07-09T05:52:30+00:00
-
- ## Joanne Mattera Art Blog
- - [http://joannemattera.blogspot.com](http://joannemattera.blogspot.com)
- - date_published: 2024-06-24T06:43:27+00:00
 

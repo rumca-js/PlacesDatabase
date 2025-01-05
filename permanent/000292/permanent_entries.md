@@ -1,3 +1,59 @@
+ ## Foredrag til Erhvervslivet >> Bookes hos StrongMind
+ - [https://strongmind.dk](https://strongmind.dk)
+ - date_published: 2024-05-12T07:47:39.652373+00:00
+
+ ## Studiepraktik - prøv livet på en videregående uddannelse
+ - [https://www.studiepraktik.dk](https://www.studiepraktik.dk)
+ - date_published: 2024-08-08T22:37:37.037574+00:00
+
+ ## Stumfilm.dk
+ - [https://www.stumfilm.dk](https://www.stumfilm.dk)
+ - date_published: 2024-07-02T22:48:08+00:00
+
+ ## Home | Summer Sessions
+ - [https://www.summer-session.dk](https://www.summer-session.dk)
+ - date_published: 2024-07-17T11:17:52.884786+00:00
+
+ ## Master i Sundhedsantropologi – Københavns Universitet
+ - [https://sundhedsantropologi.dk](https://sundhedsantropologi.dk)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Sundhedsmonitor
+ - [https://sundhedsmonitor.dk](https://sundhedsmonitor.dk)
+ - date_published: 2024-04-30T02:45:06.848796+00:00
+
+ ## Superprof - netværket af private undervisere
+ - [https://superprof.dk](https://superprof.dk)
+ - date_published: 2024-06-15T01:28:10.652318+00:00
+
+ ## SurveyXact
+ - [https://www.survey-xact.dk](https://www.survey-xact.dk)
+ - date_published: 2024-07-22T10:07:07+00:00
+
+ ## Home | Suset
+ - [https://www.suset.dk](https://www.suset.dk)
+ - date_published: 2024-07-17T11:17:59.724549+00:00
+
+ ## Svend Sømod
+ - [http://svendsoemod.dk](http://svendsoemod.dk)
+ - date_published: 2023-12-08T10:34:33+00:00
+
+ ## Forbrugerrådet Tænk: Gratis økonomi- og gældsrådgivning
+ - [https://gaeld.taenk.dk](https://gaeld.taenk.dk)
+ - date_published: 2024-10-30T12:52:24+00:00
+
+ ## Forbrugerrådet Tænk - test, juridisk rådgivning og forbrugerpolitik
+ - [https://taenk.dk](https://taenk.dk)
+ - date_published: 2024-12-15T00:14:51+00:00
+
+ ## Billige Bøger >> Køb online og få leveret på 1-2 dage | Tales.dk
+ - [https://tales.dk](https://tales.dk)
+ - date_published: 2024-07-11T10:51:05.113131+00:00
+
+ ## Færgefart, MiniCruise og sejlads i Østersøen | Tallink Silja Line
+ - [http://www.tallink.dk](http://www.tallink.dk)
+ - date_published: 2024-10-14T00:00:00+00:00
+
  ## Blog | Tangram
  - [https://tangramgames.dk](https://tangramgames.dk)
  - date_published: 2022-10-12T12:43:15+00:00
@@ -3952,60 +4008,4 @@ I box, ...
  ## Home - The Frankenstein Bicentennial Project
  - [http://frankenstein.asu.edu](http://frankenstein.asu.edu)
  - date_published: 2024-12-22T06:03:58.707983+00:00
-
- ## Center for Global Discovery and Conservation Science
- - [https://gdcs.asu.edu](https://gdcs.asu.edu)
- - date_published: 2024-10-15T07:11:47.428046+00:00
-
- ## Home - Julie Ann Wrigley Global Futures Laboratory™
- - [https://globalfutures.asu.edu](https://globalfutures.asu.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Global Security Initiative
- - [https://globalsecurity.asu.edu](https://globalsecurity.asu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## ASU at Lake Havasu | ASU at Lake Havasu | ASU
- - [https://havasu.asu.edu](https://havasu.asu.edu)
- - date_published: 2024-08-01T23:25:01+00:00
-
- ## Contact us | Arizona State University
- - [https://help.asu.edu](https://help.asu.edu)
- - date_published: 2024-07-20T00:58:05+00:00
-
- ## Project Hieroglyph – Getting big things done
- - [http://hieroglyph.asu.edu](http://hieroglyph.asu.edu)
- - date_published: 2024-06-30T11:06:31.837548+00:00
-
- ## ASU Student Housing | Arizona State University
- - [https://housing.asu.edu](https://housing.asu.edu)
- - date_published: 2024-07-18T23:20:42+00:00
-
- ## ASU Search | Arizona State University
- - [https://isearch.asu.edu](https://isearch.asu.edu)
- - date_published: 2024-04-30T03:11:44.205532+00:00
-
- ## KE News Portal
- - [https://ke.news.prod.rtd.asu.edu](https://ke.news.prod.rtd.asu.edu)
- - date_published: 2024-09-13T19:54:18.361342+00:00
-
- ## Sandra Day O'Connor College of Law | ASU | Sandra Day O'Connor College of Law
- - [https://law.asu.edu](https://law.asu.edu)
- - date_published: 2024-07-16T23:00:27+00:00
-
- ## ASU Provides Learning at Every Stage in Life
- - [https://learning.asu.edu](https://learning.asu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Arizona State University Library
- - [https://lib.asu.edu](https://lib.asu.edu)
- - date_published: 2024-06-30T01:28:45.481596+00:00
-
- ## Dramatic Sunrise
- - [http://lroc.sese.asu.edu](http://lroc.sese.asu.edu)
- - date_published: 2024-10-29T18:20:34.223550+00:00
-
- ## Homepage - Mayo Clinic ASU Alliance
- - [https://mayo.asu.edu](https://mayo.asu.edu)
- - date_published: 2024-08-11T04:49:32.650990+00:00
 

@@ -1,3 +1,15 @@
+ ## Ryan Marcus · UPenn
+ - [https://rm.cab](https://rm.cab)
+ - date_published: 2024-07-25T19:51:07+00:00
+
+ ## 32-Bit Cafe
+ - [https://32bit.cafe](https://32bit.cafe)
+ - date_published: 2024-05-06T15:02:55.360254+00:00
+
+ ## 32-Bit Cafe
+ - [https://discourse.32bit.cafe](https://discourse.32bit.cafe)
+ - date_published: 2024-01-20T00:00:00+00:00
+
  ## 32-Bit Cafe Gitea
  - [https://git.32bit.cafe](https://git.32bit.cafe)
  - date_published: 2024-06-23T18:34:30.771823+00:00
@@ -4021,16 +4033,4 @@
  ## electric bike reviews, buying advice and news - ebiketips
  - [https://ebiketips.road.cc](https://ebiketips.road.cc)
  - date_published: 2024-04-22T00:00:00+00:00
-
- ## Fantasy Cycling from road.cc
- - [https://fantasy.road.cc](https://fantasy.road.cc)
- - date_published: 2024-04-30T05:45:28.830467+00:00
-
- ## off-road.cc
- - [https://off.road.cc](https://off.road.cc)
- - date_published: 2024-04-30T05:45:43.953539+00:00
-
- ## Cycling News | Bike Reviews | road.cc
- - [https://road.cc](https://road.cc)
- - date_published: 2023-10-25T12:11:30.754320+00:00
 

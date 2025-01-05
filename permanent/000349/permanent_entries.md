@@ -1,3 +1,71 @@
+ ## Compiler Construction - Compiler Construction – Spring 2023 Edition
+ - [https://ucsd-compilers-s23.github.io](https://ucsd-compilers-s23.github.io)
+ - date_published: 2023-06-04T02:55:09+00:00
+
+ ## UCSD CSE100 – Advanced Data Structures
+ - [https://ucsd-cse100-s20.github.io](https://ucsd-cse100-s20.github.io)
+ - date_published: 2020-05-08T15:09:30+00:00
+
+ ## UCSD CSE11 – Accelerated Introduction to Programming
+ - [https://ucsd-cse11-f21.github.io](https://ucsd-cse11-f21.github.io)
+ - date_published: 2021-12-07T04:41:46+00:00
+
+ ## UCSD CSE11 – Accelerated Introduction to Programming
+ - [https://ucsd-cse11-s20.github.io](https://ucsd-cse11-s20.github.io)
+ - date_published: 2021-06-03T04:36:46+00:00
+
+ ## CSE 12 Winter 2018, B & C Sections
+ - [https://ucsd-cse12-w17.github.io](https://ucsd-cse12-w17.github.io)
+ - date_published: 2019-01-08T05:14:02+00:00
+
+ ## CSE 12 Winter 2019, A & B Sections
+ - [https://ucsd-cse12-w19.github.io](https://ucsd-cse12-w19.github.io)
+ - date_published: 2019-03-14T22:52:49+00:00
+
+ ## Compiler Construction – CSE 131 F19
+ - [https://ucsd-cse131-f19.github.io](https://ucsd-cse131-f19.github.io)
+ - date_published: 2019-12-05T22:01:29+00:00
+
+ ## Compiler Construction – CSE 131 S18
+ - [https://ucsd-cse131-s18.github.io](https://ucsd-cse131-s18.github.io)
+ - date_published: 2018-07-13T19:15:33+00:00
+
+ ## Software Tools & Techniques Lab (UCSD CSE15L S23)
+ - [https://ucsd-cse15l-s23.github.io](https://ucsd-cse15l-s23.github.io)
+ - date_published: 2023-06-08T16:59:09+00:00
+
+ ## Software Tools & Techniques Lab (UCSD CSE15L)
+ - [https://ucsd-cse15l-w22.github.io](https://ucsd-cse15l-w22.github.io)
+ - date_published: 2022-09-06T17:39:53+00:00
+
+ ## Software Tools & Techniques Lab (UCSD CSE15L)
+ - [https://ucsd-cse15l-w23.github.io](https://ucsd-cse15l-w23.github.io)
+ - date_published: 2023-04-14T21:51:05+00:00
+
+ ## Software Tools & Techniques Lab - UCSD CSE15L Winter 2024
+ - [https://ucsd-cse15l-w24.github.io](https://ucsd-cse15l-w24.github.io)
+ - date_published: 2024-04-05T19:47:29+00:00
+
+ ## Advanced Compiler Design (UCSD CSE231)
+ - [https://ucsd-cse231-s22.github.io](https://ucsd-cse231-s22.github.io)
+ - date_published: 2022-04-01T00:00:00+00:00
+
+ ## UCSD CSE231 – Advanced Compiler Design
+ - [https://ucsd-cse231-w21.github.io](https://ucsd-cse231-w21.github.io)
+ - date_published: 2021-03-02T04:32:23+00:00
+
+ ## Introduction to Programming in Java I – CSE 8A F18
+ - [https://ucsd-cse8a-f18.github.io](https://ucsd-cse8a-f18.github.io)
+ - date_published: 2019-10-31T05:09:36+00:00
+
+ ## UCSD CSE8A – Introduction to Programming 1
+ - [https://ucsd-cse8a-w20.github.io](https://ucsd-cse8a-w20.github.io)
+ - date_published: 2020-03-07T01:09:07+00:00
+
+ ## UCSD CSE8A – Introduction to Programming and Computational Problem Solving 1
+ - [https://ucsd-cse8a-w21.github.io](https://ucsd-cse8a-w21.github.io)
+ - date_published: 2021-03-15T23:15:41+00:00
+
  ## UCSD Machine Learning Group
  - [https://ucsdml.github.io](https://ucsdml.github.io)
  - date_published: 2023-12-22T00:00:00+00:00
@@ -3961,72 +4029,4 @@
  ## Harvester - Open-source hyperconverged infrastructure
  - [https://harvesterhci.io](https://harvesterhci.io)
  - date_published: 2024-06-13T15:02:33+00:00
-
- ## NFT Marketplace
- - [https://hascoin.io](https://hascoin.io)
- - date_published: 2024-08-11T16:50:06.287857+00:00
-
- ## Welcome to your Strapi app
- - [https://hdx-website-cms-v2.prod.hashdex.io](https://hdx-website-cms-v2.prod.hashdex.io)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Hashio | Hashgraph
- - [https://mainnet.hashio.io](https://mainnet.hashio.io)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Hashio | Hashgraph
- - [https://previewnet.hashio.io](https://previewnet.hashio.io)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Hashio | Hashgraph
- - [https://testnet.hashio.io](https://testnet.hashio.io)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Hashleap - Start accepting crypto payments
- - [https://hashleap.io](https://hashleap.io)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## HashScan
- - [https://hashscan.io](https://hashscan.io)
- - date_published: 2024-09-23T16:06:04+00:00
-
- ## The Hasura Blog: The latest best from Hasura! - Hasura GraphQL Engine Blog
- - [https://blog.hasura.io](https://blog.hasura.io)
- - date_published: 2024-05-06T13:42:45.802147+00:00
-
- ## Login | Sign Up for Hasura Cloud
- - [http://cloud.hasura.io](http://cloud.hasura.io)
- - date_published: 2024-06-22T23:30:21.209814+00:00
-
- ## Instant GraphQL APIs on your data | Built-in Authz & Caching
- - [https://hasura.io](https://hasura.io)
- - date_published: 2024-05-06T13:03:16.131732+00:00
-
- ## Fullstack GraphQL Tutorial Series | Learn GraphQL & Hasura
- - [https://learn.hasura.io](https://learn.hasura.io)
- - date_published: 2024-09-04T13:11:37+00:00
-
- ## Hasura Swag Store
- - [https://store.hasura.io](https://store.hasura.io)
- - date_published: 2024-04-10T12:41:42+00:00
-
- ## Hatchbox.io
- - [https://hatchbox.io](https://hatchbox.io)
- - date_published: 2024-07-10T11:16:34.800859+00:00
-
- ## Hatching - Automated malware analysis solutions
- - [https://hatching.io](https://hatching.io)
- - date_published: 2024-07-04T14:07:12+00:00
-
- ## Hauken.io
- - [https://hauken.io](https://hauken.io)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Simple Analytics
- - [https://simple.hauken.io](https://simple.hauken.io)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## HAWK - Making omnichannel advertising easier!
- - [https://hawk-tech.io](https://hawk-tech.io)
- - date_published: 2024-12-19T13:06:55.438089+00:00
 

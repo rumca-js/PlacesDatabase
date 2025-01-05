@@ -1,3 +1,59 @@
+ ## Reprise, rachat et cession d'entreprises - Bpifrance Transmission
+ - [https://reprise-entreprise.bpifrance.fr](https://reprise-entreprise.bpifrance.fr)
+ - date_published: 2024-07-03T05:03:19.528561+00:00
+
+ ## Les sites et plateformes de crowdfunding | Bpifrance Création
+ - [https://tousnosprojets.bpifrance.fr](https://tousnosprojets.bpifrance.fr)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Picxel | Extranet des Projets Innovants Collaboratifs
+ - [https://www.picxel.bpifrance.fr](https://www.picxel.bpifrance.fr)
+ - date_published: 2024-06-17T09:25:01+00:00
+
+ ## Accueil Entrepreneur | Bpifrance Création
+ - [https://bpifrance-creation.fr](https://bpifrance-creation.fr)
+ - date_published: 2024-07-02T12:25:38+00:00
+
+ ## Bpifrance Université - Des formations en ligne gratuites pour les entrepreneurs
+ - [https://www.bpifrance-universite.fr](https://www.bpifrance-universite.fr)
+ - date_published: 2024-07-03T05:03:17.864201+00:00
+
+ ## Accueil
+ - [http://www.breek.fr](http://www.breek.fr)
+ - date_published: 2024-07-10T05:35:59+00:00
+
+ ## Bretagne 5 - La radio régionale
+ - [https://www.bretagne5.fr](https://www.bretagne5.fr)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Bretagne
+ - [https://bretagnebretagne.fr](https://bretagnebretagne.fr)
+ - date_published: 2024-06-19T16:29:56.005247+00:00
+
+ ## Brico Dépôt : Magasin de bricolage
+ - [https://www.bricodepot.fr](https://www.bricodepot.fr)
+ - date_published: 2024-09-03T01:34:31+00:00
+
+ ## Bright Data - Plateforme tout-en-un pour les proxies et les données web
+ - [https://brightdata.fr](https://brightdata.fr)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Home
+ - [https://www.brightloop.fr](https://www.brightloop.fr)
+ - date_published: 2024-07-04T02:12:52.433729+00:00
+
+ ## Entreprise de sûreté, solutions de sécurité commerce et autres secteurs
+ - [https://www.brinks.fr](https://www.brinks.fr)
+ - date_published: 2024-09-26T12:40:52.784344+00:00
+
+ ## Brique Rouge
+ - [https://briquerouge.fr](https://briquerouge.fr)
+ - date_published: 2024-12-26T20:36:17.161660+00:00
+
+ ## Brittany Ferries
+ - [https://www.brittany-ferries.fr](https://www.brittany-ferries.fr)
+ - date_published: 2024-08-07T11:51:58.109330+00:00
+
  ## Brother Online
  - [https://atyourside.brother.fr](https://atyourside.brother.fr)
  - date_published: 2024-06-17T21:03:39.694737+00:00
@@ -3950,61 +4006,4 @@
  ## Formatives – Site public – Formatives Site public
  - [https://formatives.fr](https://formatives.fr)
  - date_published: 2024-07-03T05:33:38.358996+00:00
-
- ## Hôpital Fondation Rothschild - Accès Patient
- - [https://www.fo-rothschild.fr](https://www.fo-rothschild.fr)
- - date_published: 2024-10-19T08:41:42.729241+00:00
-
- ## RetroBat
- - [https://retrobat.forumgaming.fr](https://retrobat.forumgaming.fr)
- - date_published: 2024-10-17T06:08:33+00:00
-
- ## ADDICT-FIGURINES
- - [http://addict-figurines.forumgratuit.fr](http://addict-figurines.forumgratuit.fr)
- - date_published: 2024-12-31T13:46:40+00:00
-
- ## Black Librarium
- - [http://black-librarium.forumgratuit.fr](http://black-librarium.forumgratuit.fr)
- - date_published: 2024-06-21T12:06:08+00:00
-
- ## LA GUERRE DES CLANS • le début de la fin
- - [https://lgdc-danger.forumpro.fr](https://lgdc-danger.forumpro.fr)
- - date_published: 2024-12-29T23:23:27+00:00
-
- ## Welcom to Foudil
- - [https://foudil.fr](https://foudil.fr)
- - date_published: 2024-07-20T19:40:00+00:00
-
- ## Amiga Libraries FTP
- - [https://amiga.foul.fr](https://amiga.foul.fr)
- - date_published: 2023-11-02T09:55:43.484734+00:00
- - tags: ['amiga']
-
- ## Fourchette & Bikini - Qui a dit que mincir était compliqué ?
- - [https://www.fourchette-et-bikini.fr](https://www.fourchette-et-bikini.fr)
- - date_published: 2024-06-25T18:00:15+00:00
-
- ## framboise314.fr - Informations
- - [https://forums.framboise314.fr](https://forums.framboise314.fr)
- - date_published: 2024-09-05T18:06:43.753325+00:00
-
- ## La référence du Raspberry Pi en France
- - [https://framboise314.fr](https://framboise314.fr)
- - date_published: 2024-06-10T12:18:15.385110+00:00
-
- ## France.fr : Explore France and its wonders - Explore France
- - [http://france.fr](http://france.fr)
- - date_published: 2024-07-02T11:57:35+00:00
-
- ## FRANCE 5 - Programmes, vidéos et replay - Pluzz FRANCE 5
- - [http://www.france5.fr](http://www.france5.fr)
- - date_published: 2024-06-19T18:24:44.959177+00:00
-
- ## France Alumni
- - [https://www.francealumni.fr](https://www.francealumni.fr)
- - date_published: 2024-10-19T15:45:12.504789+00:00
-
- ## France Assureurs - Faire avancer la société en confiance
- - [https://www.franceassureurs.fr](https://www.franceassureurs.fr)
- - date_published: 2024-12-21T16:53:55+00:00
 

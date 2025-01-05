@@ -1,3 +1,15 @@
+ ## The Accursed Crozius
+ - [https://powerposey.blogspot.com](https://powerposey.blogspot.com)
+ - date_published: 2024-09-24T19:30:20+00:00
+
+ ## PowerWP Blogger Template
+ - [https://powerwp-nbt.blogspot.com](https://powerwp-nbt.blogspot.com)
+ - date_published: 2010-09-05T00:00:00+00:00
+
+ ## Open and Shut?
+ - [https://poynder.blogspot.com](https://poynder.blogspot.com)
+ - date_published: 2024-01-07T00:00:00+00:00
+
  ## Pekka Paalanen
  - [https://ppaalanen.blogspot.com](https://ppaalanen.blogspot.com)
  - date_published: 2024-03-05T07:38:43+00:00
@@ -4016,16 +4028,4 @@
  ## RuneCast-Blog
  - [https://runecast-sculpts.blogspot.com](https://runecast-sculpts.blogspot.com)
  - date_published: 2024-07-13T06:26:45+00:00
-
- ## Runequest Fun
- - [https://runequestfun.blogspot.com](https://runequestfun.blogspot.com)
- - date_published: 2024-06-30T07:39:06+00:00
-
- ## RuneQuest II
- - [https://runequestii.blogspot.com](https://runequestii.blogspot.com)
- - date_published: 2024-07-04T06:22:13+00:00
-
- ## The Rune Under Water
- - [https://runeunderwater.blogspot.com](https://runeunderwater.blogspot.com)
- - date_published: 2024-07-04T06:27:29+00:00
 

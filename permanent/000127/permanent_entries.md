@@ -1,3 +1,19 @@
+ ## Investor Overview | Kosmos Energy
+ - [https://kosmosenergyllc.gcs-web.com](https://kosmosenergyllc.gcs-web.com)
+ - date_published: 2024-12-14T13:31:10+00:00
+
+ ## Investor Relations | Lazard
+ - [https://lazardltd.gcs-web.com](https://lazardltd.gcs-web.com)
+ - date_published: 2024-05-04T12:02:38.276601+00:00
+
+ ## Investor Relations | Lucid Group, Inc.
+ - [https://lucidmotors.gcs-web.com](https://lucidmotors.gcs-web.com)
+ - date_published: 2024-05-04T13:41:52.379483+00:00
+
+ ## Investor Relations | Marriott International
+ - [https://marriott.gcs-web.com](https://marriott.gcs-web.com)
+ - date_published: 2024-10-29T06:33:43+00:00
+
  ## Historic Stock Lookup | Microsoft Corporation
  - [https://microsoft.gcs-web.com](https://microsoft.gcs-web.com)
  - date_published: 2023-10-25T14:42:23.906807+00:00
@@ -4026,20 +4042,4 @@ Homepage
  ## Kirby is the CMS that adapts to you
  - [https://assets.getkirby.com](https://assets.getkirby.com)
  - date_published: 2024-07-24T06:37:49.647779+00:00
-
- ## Join the Kirby CMS Discord Server!
- - [https://chat.getkirby.com](https://chat.getkirby.com)
- - date_published: 2024-06-28T19:19:50+00:00
-
- ## Kirby Community Map
- - [https://community.getkirby.com](https://community.getkirby.com)
- - date_published: 2024-07-24T06:37:54.337562+00:00
-
- ## Kirby Feedback
- - [https://feedback.getkirby.com](https://feedback.getkirby.com)
- - date_published: 2024-07-24T06:37:52.872532+00:00
-
- ## Kirby
- - [https://forum.getkirby.com](https://forum.getkirby.com)
- - date_published: 2024-06-19T00:00:00+00:00
 
