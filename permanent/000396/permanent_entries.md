@@ -1,3 +1,100 @@
+ ## OUTTAKES
+ - [http://michaelgrayouttakes.blogspot.no](http://michaelgrayouttakes.blogspot.no)
+ - date_published: 2024-06-07T07:24:33+00:00
+
+ ## A Thousand Highways
+ - [http://thousandhighways.blogspot.no](http://thousandhighways.blogspot.no)
+ - date_published: 2024-06-28T09:42:18+00:00
+
+ ## CSUMC
+ - [http://uppermidwesterncultures.blogspot.no](http://uppermidwesterncultures.blogspot.no)
+ - date_published: 2024-02-19T18:48:43+00:00
+
+ ## Web Reflection
+ - [http://webreflection.blogspot.no](http://webreflection.blogspot.no)
+ - date_published: 2024-03-07T08:11:15+00:00
+
+ ## Gjør din bok til virkelighet! - bod.no
+ - [https://www.bod.no](https://www.bod.no)
+ - date_published: 2024-07-08T13:06:11.058144+00:00
+
+ ## Boitano
+ - [https://www.boitano.no](https://www.boitano.no)
+ - date_published: 2024-08-17T23:49:58.543774+00:00
+
+ ## Boots Apotek |  Resepter raskt og trygt på nett - Hent i apotek innen 1 time
+ - [https://www.boots.no](https://www.boots.no)
+ - date_published: 2024-10-20T23:00:02.752127+00:00
+
+ ## Hjem
+ - [https://www.bosch.no](https://www.bosch.no)
+ - date_published: 2024-10-13T22:30:02+00:00
+
+ ## Bærekraftige husholdningsprodukter av høy kvalitet | Bosch
+ - [https://www.bosch-home.no](https://www.bosch-home.no)
+ - date_published: 2024-06-16T21:36:49.002907+00:00
+
+ ## Bouvet Norge
+ - [https://www.bouvet.no](https://www.bouvet.no)
+ - date_published: 2024-07-03T21:41:49.105965+00:00
+
+ ## Bra Søk - Bransjerådet for Søkemotormarkedsføring
+ - [https://brasok.no](https://brasok.no)
+ - date_published: 2024-07-08T10:45:44.070111+00:00
+
+ ## Bring | Transport av pakker, post og gods
+ - [https://www.bring.no](https://www.bring.no)
+ - date_published: 2024-06-20T12:17:23.945289+00:00
+
+ ## Få mest mulig ut av ditt Brother produkt
+ - [https://atyourside.brother.no](https://atyourside.brother.no)
+ - date_published: 2024-06-17T20:19:15.867658+00:00
+
+ ## Få mest mulig ut av ditt Brother produkt
+ - [https://online.brother.no](https://online.brother.no)
+ - date_published: 2024-06-17T20:19:18.689881+00:00
+
+ ## Kontorskrivere | Forretningsløsninger | Rekvisita | Brother
+ - [https://www.brother.no](https://www.brother.no)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Brother
+ - [https://brothersy.no](https://brothersy.no)
+ - date_published: 2024-06-17T20:24:42.008407+00:00
+
+ ## Shopping og salg - Butikkene.no
+ - [https://www.butikkene.no](https://www.butikkene.no)
+ - date_published: 2020-02-04T11:15:44+00:00
+
+ ## Timelapse
+ - [https://kunde.byggekamera.no](https://kunde.byggekamera.no)
+ - date_published: 2024-06-30T01:14:22.089980+00:00
+
+ ## CAPA
+ - [https://www.capa.no](https://www.capa.no)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Capterra Norge hjelper deg med å finne riktig programvare til din bedrift
+ - [https://www.capterra.no](https://www.capterra.no)
+ - date_published: 2024-07-20T19:26:48.689119+00:00
+
+ ## Catharina Chen
+ - [https://catharinachen.no](https://catharinachen.no)
+ - date_published: 2024-04-29T05:14:52.343315+00:00
+ - tags: ['personal']
+
+ ## Citizens Commission on Human Rights, CCHRs, hjemmeside. Se videoene.
+ - [http://www.cchr.no](http://www.cchr.no)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## CDON | Ting for livet
+ - [https://cdon.no](https://cdon.no)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Censorship.no! - Browse Freely
+ - [https://censorship.no](https://censorship.no)
+ - date_published: 2024-06-13T18:23:30+00:00
+
  ## Dermatolog-anbefalt merke for sensitiv hudpleie | Cetaphil NO
  - [https://www.cetaphil.no](https://www.cetaphil.no)
  - date_published: 2024-10-30T23:03:42.248945+00:00
@@ -3097,6 +3194,10 @@
  - [http://use.now](http://use.now)
  - date_published: 2024-12-18T11:31:12.932233+00:00
 
+ ## UUID Generator Online | Free GUID Generator (Empty, V4, V7)
+ - [https://uuid.now](https://uuid.now)
+ - date_published: 2025-01-05T21:35:44+00:00
+
  ## Arjun's Blogs
  - [https://adhikariarjun.com.np](https://adhikariarjun.com.np)
  - date_published: 2022-09-02T16:25:34+00:00
@@ -3932,105 +4033,4 @@ marginalia.nu
  ## Shantnu's Silent Site
  - [https://shant.nu](https://shant.nu)
  - date_published: 2023-10-25T20:49:02.194922+00:00
-
- ## Shelf - Open-Source Asset Management Software | Simplify Inventory Tracking
- - [https://shelf.nu](https://shelf.nu)
- - date_published: 2024-10-30T15:54:16+00:00
-
- ## SIEG . NU
- - [http://sieg.nu](http://sieg.nu)
- - date_published: 2019-03-21T21:35:20+00:00
-
- ## Sjef van Gaalen
- - [https://sjef.nu](https://sjef.nu)
- - date_published: 2024-02-11T00:00:00+00:00
-
- ## SM Foundry for Modern Typeface Design
- - [https://s-m.nu](https://s-m.nu)
- - date_published: 2024-10-29T13:37:36.484121+00:00
-
- ## SOGo
- - [https://demo.sogo.nu](https://demo.sogo.nu)
- - date_published: 2024-11-08T19:15:20.901090+00:00
-
- ## SOGo | Free Open Source Webmail
- - [https://sogo.nu](https://sogo.nu)
- - date_published: 2024-08-07T00:00:00+00:00
- - tags: ['open source', 'webmail']
-
- ## MMM: lunar low-gravity scripting playground
- - [https://mmm.s-ol.nu](https://mmm.s-ol.nu)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## XD Radio - stervantwente.nu
- - [http://stervantwente.nu](http://stervantwente.nu)
- - date_published: 2022-03-27T19:04:17+00:00
-
- ## Allt du behöver veta om dina studier
- - [https://www.studera.nu](https://www.studera.nu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## SWAMP Art work by Matt Kenyon
- - [http://swamp.nu](http://swamp.nu)
- - date_published: 2024-07-10T11:20:11.038415+00:00
-
- ## Swish - För en enklare vardag sedan 2012.
- - [https://www.swish.nu](https://www.swish.nu)
- - date_published: 2024-05-23T11:50:38+00:00
-
- ## Tabe's Home Page
- - [https://tabe.nu](https://tabe.nu)
- - date_published: 2022-03-02T21:26:50+00:00
-
- ## Tech Blog
- - [https://tbl.nu](https://tbl.nu)
- - date_published: 2022-05-19T04:53:30+00:00
-
- ## Temperatur.nu
- - [https://www.temperatur.nu](https://www.temperatur.nu)
- - date_published: 2024-07-11T13:12:09.430272+00:00
-
- ## Bomen laten leven
- - [https://www.terranostra.nu](https://www.terranostra.nu)
- - date_published: 2024-12-23T10:42:34+00:00
-
- ## ThisLove.nu — all that i love
- - [http://fans.thislove.nu](http://fans.thislove.nu)
- - date_published: 2024-06-20T21:14:17.226026+00:00
-
- ## ThisLove.nu — all that i love
- - [https://thislove.nu](https://thislove.nu)
- - date_published: 2024-06-20T21:16:19.005914+00:00
-
- ## Urbit - ett nytt internet
- - [https://urbit.nu](https://urbit.nu)
- - date_published: 2022-11-10T08:56:54+00:00
-
- ## About Validator.nu
- - [https://about.validator.nu](https://about.validator.nu)
- - date_published: 2022-03-07T13:49:57+00:00
-
- ## Bug List
- - [https://bugzilla.validator.nu](https://bugzilla.validator.nu)
- - date_published: 2019-06-11T06:39:25+00:00
-
- ## Validator.nu (X)HTML5 Validator  - Nu Html Checker
- - [https://html5.validator.nu](https://html5.validator.nu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Validator.nu  - Nu Html Checker
- - [https://validator.nu](https://validator.nu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## vecka.nu -- vecka 37
- - [https://vecka.nu](https://vecka.nu)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Games - Media - Fun
- - [https://venue.nu](https://venue.nu)
- - date_published: 2024-07-11T23:41:05+00:00
-
- ## Veren Of Lood - Nieuws, Opinie & Debatblog
- - [http://verenoflood.nu](http://verenoflood.nu)
- - date_published: 2024-12-19T10:46:21.471141+00:00
 

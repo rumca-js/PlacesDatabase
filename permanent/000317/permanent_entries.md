@@ -1,3 +1,92 @@
+ ## Ivan Evtimov
+ - [https://ivanevtimov.eu](https://ivanevtimov.eu)
+ - date_published: 2021-07-06T18:26:13+00:00
+
+ ## ---
+ - [https://www.ivw.eu](https://www.ivw.eu)
+ - date_published: 2021-11-07T13:02:21+00:00
+
+ ## Eternal Sunshine of SpotlessMind1975 - Accettata ogni preghiera e rinunciato a ogni desiderio.
+ - [https://blog.iwashere.eu](https://blog.iwashere.eu)
+ - date_published: 2024-07-02T23:51:22.110780+00:00
+
+ ## ugBASIC forum - Index page
+ - [https://forum.ugbasic.iwashere.eu](https://forum.ugbasic.iwashere.eu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Marco Spedaletti | Software Problem Solver
+ - [https://iwashere.eu](https://iwashere.eu)
+ - date_published: 2024-07-02T23:51:23.507982+00:00
+
+ ## homepage [Retroprogramming by spotlessmind1975]
+ - [https://retroprogramming.iwashere.eu](https://retroprogramming.iwashere.eu)
+ - date_published: 2024-05-07T23:46:59.957525+00:00
+
+ ## ugBASIC 1.16.1 (sandbox)
+ - [https://sandbox.ugbasic.iwashere.eu](https://sandbox.ugbasic.iwashere.eu)
+ - date_published: 2024-05-07T23:47:07.940662+00:00
+
+ ## ugBASIC - An isomorphic BASIC language compiler for retrocomputers
+ - [https://ugbasic.iwashere.eu](https://ugbasic.iwashere.eu)
+ - date_published: 2023-10-25T19:10:40.211235+00:00
+
+ ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
+ - [https://cy.jack-wolfskin.eu](https://cy.jack-wolfskin.eu)
+ - date_published: 2024-07-14T12:15:31.327113+00:00
+
+ ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
+ - [https://ro.jack-wolfskin.eu](https://ro.jack-wolfskin.eu)
+ - date_published: 2024-07-14T12:15:18.844369+00:00
+
+ ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
+ - [https://sk.jack-wolfskin.eu](https://sk.jack-wolfskin.eu)
+ - date_published: 2024-07-14T12:15:26.646643+00:00
+
+ ## Jake - Eat What You Need - Completely vegan & plant-based
+ - [https://jakeshake.eu](https://jakeshake.eu)
+ - date_published: 2024-08-18T08:12:36.451578+00:00
+
+ ## James O'Neill - Full Stack Web Developer
+ - [https://jamesoneill.eu](https://jamesoneill.eu)
+ - date_published: 2024-05-11T10:24:55.798131+00:00
+
+ ## Jan Kremer
+ - [https://jankremer.eu](https://jankremer.eu)
+ - date_published: 2023-11-15T10:39:22.705314+00:00
+
+ ## Jan Stępień
+ - [https://janstepien.eu](https://janstepien.eu)
+ - date_published: 2024-01-03T10:55:19+00:00
+
+ ## Home Page - publication_tool_common
+ - [http://publicationtool.jao.eu](http://publicationtool.jao.eu)
+ - date_published: 2024-07-20T14:03:14.352584+00:00
+
+ ## JavaLand 2024: JavaLand
+ - [https://javaland.eu](https://javaland.eu)
+ - date_published: 2024-04-29T06:28:57.513350+00:00
+
+ ## Java Specialists
+ - [http://javaspecialists.eu](http://javaspecialists.eu)
+ - date_published: 2024-12-30T09:58:50.080977+00:00
+
+ ## CloverDX | Data Integration Platform
+ - [https://www.javlin.eu](https://www.javlin.eu)
+ - date_published: 2024-06-15T21:21:34+00:00
+
+ ## JCB Europe
+ - [http://www.jcbeurope.eu](http://www.jcbeurope.eu)
+ - date_published: 2022-09-13T00:00:00+00:00
+
+ ## João Serote Cruz's Homepage
+ - [https://jcruz.eu](https://jcruz.eu)
+ - date_published: 2024-06-01T04:56:38.523067+00:00
+ - tags: ['personal']
+
+ ## jdebp.eu
+ - [http://jdebp.eu](http://jdebp.eu)
+ - date_published: 2024-09-07T22:45:03.212538+00:00
+
  ## JEF Europe - Young European Federalists
  - [https://jef.eu](https://jef.eu)
  - date_published: 2024-07-02T21:27:00.257127+00:00
@@ -3944,92 +4033,4 @@
  ## Home - UMVP
  - [https://umvp.eu](https://umvp.eu)
  - date_published: 2024-01-01T00:00:00+00:00
-
- ## Una Europa
- - [https://www.una-europa.eu](https://www.una-europa.eu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Unconvention 2017 | Unconvention.eu
- - [http://unconvention.eu](http://unconvention.eu)
- - date_published: 2024-07-14T23:30:48.619898+00:00
-
- ## UMAC | Understanding Media for Active Citizenship
- - [https://understanding-media.eu](https://understanding-media.eu)
- - date_published: 2024-05-07T23:40:13.134687+00:00
-
- ## Events - Universita' Bocconi
- - [https://events.unibocconi.eu](https://events.unibocconi.eu)
- - date_published: 2024-06-30T09:07:12.881723+00:00
-
- ## Job Market - Bocconi University
- - [https://jobmarket.unibocconi.eu](https://jobmarket.unibocconi.eu)
- - date_published: 2024-06-30T09:07:11.497336+00:00
-
- ## Bocconi University
- - [https://www.unibocconi.eu](https://www.unibocconi.eu)
- - date_published: 2024-06-29T22:01:21+00:00
-
- ## UNICA, Network of Universities from the Capitals of Europe
- - [http://www.unica-network.eu](http://www.unica-network.eu)
- - date_published: 2024-07-08T14:43:40.991494+00:00
-
- ## UniCredit 2023 Financial reports
- - [https://financialreports.unicredit.eu](https://financialreports.unicredit.eu)
- - date_published: 2024-06-25T22:50:13.315440+00:00
-
- ## EN
- - [https://www.unicreditgroup.eu](https://www.unicreditgroup.eu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## uni-gr.eu
- - [http://www.uni-gr.eu](http://www.uni-gr.eu)
- - date_published: 2024-07-18T15:40:58+00:00
-
- ## UnionMigrantNet. – the European trade unions’ network of assistance for migrants
- - [http://www.unionmigrantnet.eu](http://www.unionmigrantnet.eu)
- - date_published: 2024-07-03T02:01:09.688629+00:00
-
- ## Admin Portal
- - [https://app.next.uniqkey.eu](https://app.next.uniqkey.eu)
- - date_published: 2024-06-19T14:13:43+00:00
-
- ## Uniqkey
- - [https://app.uniqkey.eu](https://app.uniqkey.eu)
- - date_published: 2024-07-02T08:39:07+00:00
-
- ## Uniqkey's Blog | Protect Your Business from Access Threats
- - [https://blog.uniqkey.eu](https://blog.uniqkey.eu)
- - date_published: 2024-05-07T23:53:23.942937+00:00
-
- ## Uniqkey Status
- - [https://status.uniqkey.eu](https://status.uniqkey.eu)
- - date_published: 2024-12-23T23:20:41.447654+00:00
-
- ## Uniqkey
- - [https://support.uniqkey.eu](https://support.uniqkey.eu)
- - date_published: 2024-07-03T01:42:17.606860+00:00
-
- ## Uniqkey: Simplify Access and Secure your Business
- - [https://uniqkey.eu](https://uniqkey.eu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Pédagogie 4.0 - Fondation UNIT
- - [http://www.unit.eu](http://www.unit.eu)
- - date_published: 2024-08-08T19:22:41.582079+00:00
-
- ## Datalove! <3 › Sharing bits of Internets and beyond
- - [http://call.unitary-patent.eu](http://call.unitary-patent.eu)
- - date_published: 2024-07-20T12:03:11.661803+00:00
-
- ## Home
- - [https://unite.eu](https://unite.eu)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Unité Services
- - [https://uniteservices.eu](https://uniteservices.eu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home | Metacampus
- - [https://metacampus.unite-university.eu](https://metacampus.unite-university.eu)
- - date_published: 2024-04-26T00:00:00+00:00
 

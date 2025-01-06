@@ -1,3 +1,91 @@
+ ## - Campus Connect
+ - [https://getinvolved.utah.edu](https://getinvolved.utah.edu)
+ - date_published: 2024-05-07T22:10:39.477753+00:00
+
+ ## University Advancement
+ - [https://giving.utah.edu](https://giving.utah.edu)
+ - date_published: 2024-07-02T11:33:39.016559+00:00
+
+ ## Global U
+ - [https://global.utah.edu](https://global.utah.edu)
+ - date_published: 2024-07-02T11:42:35.818237+00:00
+
+ ## KSoC GradSAC Website
+ - [https://gradsac.cs.utah.edu](https://gradsac.cs.utah.edu)
+ - date_published: 2024-03-04T19:02:50+00:00
+
+ ## Graduate School - The University of Utah
+ - [https://gradschool.utah.edu](https://gradschool.utah.edu)
+ - date_published: 2024-07-02T11:18:21.719856+00:00
+
+ ## Handbooks
+ - [https://handbook.cs.utah.edu](https://handbook.cs.utah.edu)
+ - date_published: 2023-06-29T20:26:43+00:00
+
+ ## Center for Natural and Technological Hazards - The University of Utah
+ - [https://hazards.utah.edu](https://hazards.utah.edu)
+ - date_published: 2024-07-02T11:27:14.830122+00:00
+
+ ## University of Utah Health
+ - [https://healthcare.utah.edu](https://healthcare.utah.edu)
+ - date_published: 2024-07-02T10:52:56+00:00
+
+ ## Campus IT Help Desk - University Information Technology - The University of Utah
+ - [http://helpdesk.utah.edu](http://helpdesk.utah.edu)
+ - date_published: 2024-07-02T11:20:05.208136+00:00
+
+ ## Housing & Residential Education
+ - [https://housing.utah.edu](https://housing.utah.edu)
+ - date_published: 2024-07-02T11:42:11.265115+00:00
+
+ ## Virtual Server List
+ - [http://hpux.cs.utah.edu](http://hpux.cs.utah.edu)
+ - date_published: 2023-10-26T13:20:22+00:00
+
+ ## Health - The University of Utah
+ - [https://hsp.utah.edu](https://hsp.utah.edu)
+ - date_published: 2024-07-02T11:27:13.154676+00:00
+
+ ## Barbara L. and Norman C. Tanner Center for Noviolent Human Rights Advocacy - The University of Utah
+ - [https://humanrights.utah.edu](https://humanrights.utah.edu)
+ - date_published: 2024-07-02T11:21:32.869255+00:00
+
+ ## Imagine U
+ - [http://imagineu.utah.edu](http://imagineu.utah.edu)
+ - date_published: 2024-07-02T11:29:03.748456+00:00
+
+ ## Innovate U
+ - [https://innovate.utah.edu](https://innovate.utah.edu)
+ - date_published: 2024-07-02T11:19:28.989441+00:00
+
+ ## Internships - College of Social and Behavioral Science - The University of Utah
+ - [https://internships.csbs.utah.edu](https://internships.csbs.utah.edu)
+ - date_published: 2024-02-08T17:51:53.015372+00:00
+
+ ## Login - The University of Utah
+ - [https://intranet.coe.utah.edu](https://intranet.coe.utah.edu)
+ - date_published: 2024-07-02T11:29:55.336575+00:00
+
+ ## University Information Technology - The University of Utah
+ - [https://it.utah.edu](https://it.utah.edu)
+ - date_published: 2024-05-11T09:34:13.595702+00:00
+
+ ## Student Leadership & Involvement
+ - [https://leadership.utah.edu](https://leadership.utah.edu)
+ - date_published: 2024-07-02T11:19:03.160360+00:00
+
+ ## Learn.Genetics
+ - [https://learn.genetics.utah.edu](https://learn.genetics.utah.edu)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Learning Center - The University of Utah
+ - [https://learningcenter.utah.edu](https://learningcenter.utah.edu)
+ - date_published: 2024-07-02T11:32:57.978560+00:00
+
+ ## J. Willard Marriott Library - lib.utah.edu Marriott Library
+ - [https://lib.utah.edu](https://lib.utah.edu)
+ - date_published: 2024-10-31T15:40:48.774249+00:00
+
  ## The University of Utah Magazine
  - [https://magazine.utah.edu](https://magazine.utah.edu)
  - date_published: 2024-05-07T22:10:55.331052+00:00
@@ -3910,92 +3998,4 @@
  ## Commitment to Privacy
  - [https://progress.vcu.edu](https://progress.vcu.edu)
  - date_published: 2024-07-02T12:46:47.299796+00:00
-
- ## Commitment to Privacy
- - [https://projectgabriel.vcu.edu](https://projectgabriel.vcu.edu)
- - date_published: 2024-07-02T12:57:33.210388+00:00
-
- ## Commitment to Privacy
- - [https://provost.vcu.edu](https://provost.vcu.edu)
- - date_published: 2024-07-02T12:49:39.843415+00:00
-
- ## Commitment to Privacy
- - [https://psychology.vcu.edu](https://psychology.vcu.edu)
- - date_published: 2024-07-02T12:49:02.056282+00:00
-
- ## Commitment to Privacy
- - [https://psych.vcu.edu](https://psych.vcu.edu)
- - date_published: 2024-07-02T12:50:15.443278+00:00
-
- ## Commitment to Privacy
- - [https://ptc.chp.vcu.edu](https://ptc.chp.vcu.edu)
- - date_published: 2024-07-02T12:45:02.168638+00:00
-
- ## Commitment to Privacy
- - [https://pt.chp.vcu.edu](https://pt.chp.vcu.edu)
- - date_published: 2024-07-02T12:59:09.200314+00:00
-
- ## VCUarts Qatar | We are VCUarts Qatar 25+
- - [https://qatar.vcu.edu](https://qatar.vcu.edu)
- - date_published: 2024-07-02T12:46:23.535978+00:00
-
- ## Commitment to Privacy
- - [https://quest.vcu.edu](https://quest.vcu.edu)
- - date_published: 2024-07-02T12:48:29.444869+00:00
-
- ## Commitment to Privacy
- - [https://radiology.vcu.edu](https://radiology.vcu.edu)
- - date_published: 2024-07-02T12:46:36.829219+00:00
-
- ## Commitment to Privacy
- - [https://radonc.vcu.edu](https://radonc.vcu.edu)
- - date_published: 2024-07-02T12:50:59.700762+00:00
-
- ## Commitment to Privacy
- - [https://radsci.chp.vcu.edu](https://radsci.chp.vcu.edu)
- - date_published: 2024-07-02T12:43:55.590900+00:00
-
- ## Commitment to Privacy
- - [https://ramcamp.vcu.edu](https://ramcamp.vcu.edu)
- - date_published: 2024-07-02T12:49:03.298801+00:00
-
- ## Commitment to Privacy
- - [https://ramcam.vcu.edu](https://ramcam.vcu.edu)
- - date_published: 2024-07-02T12:42:45.561930+00:00
-
- ## Commitment to Privacy
- - [https://ramhacks.vcu.edu](https://ramhacks.vcu.edu)
- - date_published: 2024-07-02T12:45:13.506775+00:00
-
- ## Virginia Commonwealth University | RAM Ready Orientation Modules
- - [https://ramready.vcu.edu](https://ramready.vcu.edu)
- - date_published: 2024-07-02T12:58:53.456719+00:00
-
- ## Commitment to Privacy
- - [https://ramstrong.vcu.edu](https://ramstrong.vcu.edu)
- - date_published: 2024-07-02T12:46:00.264943+00:00
-
- ## Welcome to RamTech
- - [https://ramtech.vcu.edu](https://ramtech.vcu.edu)
- - date_published: 2024-06-14T18:55:15+00:00
-
- ## Commitment to Privacy
- - [https://ramtree.vcu.edu](https://ramtree.vcu.edu)
- - date_published: 2024-07-02T12:43:57.613185+00:00
-
- ## Commitment to Privacy
- - [https://rar.vcu.edu](https://rar.vcu.edu)
- - date_published: 2024-05-07T22:22:24.510862+00:00
-
- ## Commitment to Privacy
- - [https://reachtrial.vcu.edu](https://reachtrial.vcu.edu)
- - date_published: 2024-07-02T12:43:15.123135+00:00
-
- ## Commitment to Privacy
- - [https://realsource.vcu.edu](https://realsource.vcu.edu)
- - date_published: 2024-07-02T12:50:13.995234+00:00
-
- ## Commitment to Privacy
- - [https://realtime.vcu.edu](https://realtime.vcu.edu)
- - date_published: 2024-05-07T22:23:52.910462+00:00
 

@@ -1,3 +1,80 @@
+ ## WordPress.com
+ - [http://dashboard.wordpress.com](http://dashboard.wordpress.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Data in Beta
+ - [http://databeta.wordpress.com](http://databeta.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## DataGeeek
+ - [https://datageeek.wordpress.com](https://datageeek.wordpress.com)
+ - date_published: 2024-06-27T15:21:17.759194+00:00
+
+ ## Lý thuyết Hàm Suy Rộng
+ - [https://datuan5pdes.wordpress.com](https://datuan5pdes.wordpress.com)
+ - date_published: 2024-05-07T15:01:53.316828+00:00
+
+ ## DAUGHTER BY DESIGN -
+ - [https://daughterbydesign.wordpress.com](https://daughterbydesign.wordpress.com)
+ - date_published: 2017-02-13T00:00:00+00:00
+
+ ## LifestyleReviews
+ - [https://daveatherton.wordpress.com](https://daveatherton.wordpress.com)
+ - date_published: 2024-10-21T15:01:44.033453+00:00
+
+ ## daveavrandotcom
+ - [https://daveavrandotcom.wordpress.com](https://daveavrandotcom.wordpress.com)
+ - date_published: 2024-01-20T12:59:58.360297+00:00
+
+ ## David A. Burton
+ - [http://daveburton.wordpress.com](http://daveburton.wordpress.com)
+ - date_published: 2024-09-16T21:09:55.412064+00:00
+
+ ## Dave Tardon
+ - [https://davetardon.wordpress.com](https://davetardon.wordpress.com)
+ - date_published: 2024-07-07T06:06:19.360984+00:00
+
+ ## Dave Blair Camera & Editing.
+ - [https://davidblairportfolio.wordpress.com](https://davidblairportfolio.wordpress.com)
+ - date_published: 2024-06-26T21:34:35.034105+00:00
+
+ ## David Cummings on Startups
+ - [https://davidcummings.wordpress.com](https://davidcummings.wordpress.com)
+ - date_published: 2024-08-18T19:55:02.601448+00:00
+
+ ## Private Site
+ - [https://davidderrick.wordpress.com](https://davidderrick.wordpress.com)
+ - date_published: 2024-06-20T04:05:26.717847+00:00
+
+ ## David E. Ellis
+ - [https://davideellis.wordpress.com](https://davideellis.wordpress.com)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## David Etxeberria
+ - [https://davidetxeberria.wordpress.com](https://davidetxeberria.wordpress.com)
+ - date_published: 2025-01-01T07:57:18.296049+00:00
+
+ ## David Hayes's Blog
+ - [https://davidhayesblog.wordpress.com](https://davidhayesblog.wordpress.com)
+ - date_published: 2023-12-29T19:00:23.328671+00:00
+ - tags: ['personal']
+
+ ## David Hayes’ Photography Website
+ - [https://davidhayesphoto.wordpress.com](https://davidhayesphoto.wordpress.com)
+ - date_published: 2024-06-13T21:37:18.058745+00:00
+
+ ## Follow the Thread
+ - [http://davidhblog.wordpress.com](http://davidhblog.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## David j Carr | Digital Fragments, Brand Strategy & Creative Ideas
+ - [http://davidjcarr.wordpress.com](http://davidjcarr.wordpress.com)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Enemies of Creed
+ - [https://davidmayerwriting.wordpress.com](https://davidmayerwriting.wordpress.com)
+ - date_published: 2024-06-27T03:01:02.059127+00:00
+
  ## davidneat
  - [https://davidneat.wordpress.com](https://davidneat.wordpress.com)
  - date_published: 2024-10-31T18:52:43.131212+00:00
@@ -307,7 +384,7 @@
  - date_published: 2024-10-21T15:07:08.306246+00:00
 
  ## derek des anges
- - [http://derekdesanges.wordpress.com](http://derekdesanges.wordpress.com)
+ - [https://derekdesanges.wordpress.com](https://derekdesanges.wordpress.com)
  - date_published: 2024-06-27T03:02:12.937087+00:00
 
  ## Desertpeace
@@ -3925,80 +4002,4 @@
  ## How to create healthy human culture...
  - [https://healthyhumanculture.wordpress.com](https://healthyhumanculture.wordpress.com)
  - date_published: 2024-06-12T12:37:20.220502+00:00
-
- ## Heartspring Stanley
- - [http://heartspringstanley.wordpress.com](http://heartspringstanley.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Copyleft Currents
- - [https://heathermeekerdotcom.wordpress.com](https://heathermeekerdotcom.wordpress.com)
- - date_published: 2024-08-19T09:34:40+00:00
-
- ## heavenali
- - [https://heavenali.wordpress.com](https://heavenali.wordpress.com)
- - date_published: 2024-06-30T05:57:01.124371+00:00
-
- ## Heavenly Heartburn
- - [http://heavenlyheartburn.wordpress.com](http://heavenlyheartburn.wordpress.com)
- - date_published: 2024-10-19T07:04:24.799442+00:00
-
- ## HÉCTOR CASTILLA
- - [https://hectorcastilla.wordpress.com](https://hectorcastilla.wordpress.com)
- - date_published: 2025-01-01T17:28:13.053925+00:00
-
- ## Hedgehog Librarian
- - [https://hedgielib.wordpress.com](https://hedgielib.wordpress.com)
- - date_published: 2024-08-19T09:31:14.212140+00:00
-
- ## HELDER PACHECO
- - [https://helderpacheco.wordpress.com](https://helderpacheco.wordpress.com)
- - date_published: 2024-12-20T08:31:01.386838+00:00
-
- ## Then Sings My Soul
- - [http://helegant.wordpress.com](http://helegant.wordpress.com)
- - date_published: 2024-06-30T01:43:15.044333+00:00
-
- ## Helen Caldwell
- - [http://helencaldwell.wordpress.com](http://helencaldwell.wordpress.com)
- - date_published: 2024-10-21T17:43:37.199614+00:00
-
- ## Autistic Civil Servant
- - [http://helenjeffries.wordpress.com](http://helenjeffries.wordpress.com)
- - date_published: 2024-09-02T11:43:03+00:00
-
- ## Windows Toward the World
- - [http://helenl.wordpress.com](http://helenl.wordpress.com)
- - date_published: 2024-12-31T17:26:51.592860+00:00
-
- ## Who groks in beauty?
- - [http://helger.wordpress.com](http://helger.wordpress.com)
- - date_published: 2024-06-30T11:09:46.204196+00:00
-
- ## Mein fotografisches Gedächtnis
- - [http://helgesfotoalbum.wordpress.com](http://helgesfotoalbum.wordpress.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## The Helion & Co. Military Book Blog
- - [https://helionbooks.wordpress.com](https://helionbooks.wordpress.com)
- - date_published: 2024-06-24T04:45:18+00:00
-
- ## helios farm
- - [https://heliosfarm.wordpress.com](https://heliosfarm.wordpress.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## hello World with Miyah Sundermeyer
- - [http://helloworld240.wordpress.com](http://helloworld240.wordpress.com)
- - date_published: 2024-08-31T00:00:00+00:00
-
- ## Help Heal Rhys
- - [http://helphealrhys.wordpress.com](http://helphealrhys.wordpress.com)
- - date_published: 2024-12-27T21:08:53.096025+00:00
-
- ## The Greatest Game
- - [http://helpintjake.wordpress.com](http://helpintjake.wordpress.com)
- - date_published: 2024-09-03T23:06:38.921591+00:00
-
- ## Helu's Gaming Diary
- - [http://helugame.wordpress.com](http://helugame.wordpress.com)
- - date_published: 2024-08-29T00:00:00+00:00
 

@@ -1,3 +1,86 @@
+ ## Crawlee · Build reliable crawlers. Fast. | Crawlee
+ - [https://crawlee.dev](https://crawlee.dev)
+ - date_published: 2024-05-06T06:26:26.985096+00:00
+ - tags: ['web crawler', 'web scraping', 'open source', 'node.js', 'python', 'programming library']
+
+ ## CrazyMax
+ - [https://crazymax.dev](https://crazymax.dev)
+ - date_published: 2024-04-08T19:27:34.886188+00:00
+ - tags: ['personal']
+
+ ## Doc
+ - [https://doc.crds.dev](https://doc.crds.dev)
+ - date_published: 2024-08-07T22:03:30.072896+00:00
+
+ ## Create React App
+ - [https://create-react-app.dev](https://create-react-app.dev)
+ - date_published: 2022-03-24T20:09:17+00:00
+
+ ## Christian Fei's Blog - cri.dev
+ - [https://cri.dev](https://cri.dev)
+ - date_published: 2023-10-25T08:58:26.480635+00:00
+ - tags: ['personal']
+
+ ## Plausible · Web analytics
+ - [https://p.cri.dev](https://p.cri.dev)
+ - date_published: 2024-04-29T07:34:06.303514+00:00
+
+ ## Minimal Analytics
+ - [https://s.cri.dev](https://s.cri.dev)
+ - date_published: 2024-04-29T07:34:05.562487+00:00
+
+ ## crowd.dev Changelog
+ - [https://changelog.crowd.dev](https://changelog.crowd.dev)
+ - date_published: 2024-07-18T13:06:14.310858+00:00
+
+ ## crowd.dev | The Developer Data Platform
+ - [https://crowd.dev](https://crowd.dev)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Home | Index
+ - [https://docs.crowd.dev](https://docs.crowd.dev)
+ - date_published: 2024-07-18T13:05:57.969724+00:00
+
+ ## GO.CROWD.DEV - A Dub.co Custom Domain
+ - [https://go.crowd.dev](https://go.crowd.dev)
+ - date_published: 2024-07-18T13:06:09.399274+00:00
+
+ ## Corbin Crutchley
+ - [https://crutchcorn.dev](https://crutchcorn.dev)
+ - date_published: 2024-07-02T20:47:15.492734+00:00
+
+ ## Visual Studio Code for CS50
+ - [https://cs50.dev](https://cs50.dev)
+ - date_published: 2024-06-22T10:42:46.766783+00:00
+
+ ## CSSBattle
+ - [https://cssbattle.dev](https://cssbattle.dev)
+ - date_published: 2024-09-04T06:46:46.542117+00:00
+
+ ## Cthos (dot) Dev Mastodon
+ - [https://mastodon.cthos.dev](https://mastodon.cthos.dev)
+ - date_published: 2024-09-05T15:42:27.629652+00:00
+
+ ## Chris Nicholas | Developer experience at Liveblocks
+ - [https://ctnicholas.dev](https://ctnicholas.dev)
+ - date_published: 2024-04-29T07:28:39.968298+00:00
+
+ ## The Amazing CTO Book | Amazing CTO
+ - [https://ctobook.dev](https://ctobook.dev)
+ - date_published: 2024-07-26T12:49:07+00:00
+
+ ## Cube — Semantic Layer for Building Data Applications
+ - [https://cube.dev](https://cube.dev)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Cube Cloud – Deploy, Scale, and Optimize Your Cube Apps
+ - [https://cubecloud.dev](https://cubecloud.dev)
+ - date_published: 2024-08-08T23:24:24.640047+00:00
+
+ ## CubeSigner, a refreshingly secure key manager
+ - [https://cubist.dev](https://cubist.dev)
+ - date_published: 2023-11-02T07:07:07+00:00
+
  ## Home | Cubxity — Full-stack Developer
  - [https://cubxity.dev](https://cubxity.dev)
  - date_published: 2023-10-25T18:37:05.670677+00:00
@@ -2841,6 +2924,10 @@
  - [https://howfuguismybrowser.dev](https://howfuguismybrowser.dev)
  - date_published: 2024-02-15T18:52:27+00:00
 
+ ## Home Page
+ - [https://howitlooks.dev](https://howitlooks.dev)
+ - date_published: 2025-01-05T23:01:33+00:00
+
  ## Bridging the Gap Between Traditional and Online Gaming: Live Casino Direct Free Slot Games
  - [https://howtocreateanapp.dev](https://howtocreateanapp.dev)
  - date_published: 2024-06-23T05:59:24.237800+00:00
@@ -3990,90 +4077,4 @@
  ## kunoichi labs
  - [https://kunoichilabs.dev](https://kunoichilabs.dev)
  - date_published: 2024-05-22T20:58:02+00:00
-
- ## Kusari
- - [https://www.kusari.dev](https://www.kusari.dev)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Kushagra's World
- - [https://kushagra.dev](https://kushagra.dev)
- - date_published: 2024-07-08T15:13:44.842224+00:00
- - tags: ['personal']
-
- - [https://kviklet.dev](https://kviklet.dev)
- - date_published: 2024-03-14T18:39:44.028892+00:00
-
- ## Kysely | Kysely
- - [https://kysely.dev](https://kysely.dev)
- - date_published: 2023-10-25T08:33:04.457103+00:00
-
- ## @kytta
- - [https://kytta.dev](https://kytta.dev)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Share₂Fedi, a share page for the Fediverse
- - [https://s2f.kytta.dev](https://s2f.kytta.dev)
- - date_published: 2024-04-28T01:59:16.493072+00:00
-
- ## toot — cross-instance share page for Mastodon
- - [https://toot.kytta.dev](https://toot.kytta.dev)
- - date_published: 2024-08-18T09:11:07.198649+00:00
-
- ## L3-AI: The Level 3 AI Assistant Conference
- - [https://l3-ai.dev](https://l3-ai.dev)
- - date_published: 2024-06-22T13:07:28.450319+00:00
-
- ## LAAC Technology
- - [https://www.laac.dev](https://www.laac.dev)
- - date_published: 2023-04-29T00:00:00+00:00
-
- ## lab2.dev Generative Python App
- - [https://lab2.dev](https://lab2.dev)
- - date_published: 2024-10-30T17:44:15.313697+00:00
-
- ## La Digitale
- - [https://ladigitale.dev](https://ladigitale.dev)
- - date_published: 2024-06-19T22:22:04.936253+00:00
-
- ## The Ladybird browser project
- - [https://ladybird.dev](https://ladybird.dev)
- - date_published: 2024-03-07T16:57:29+00:00
- - tags: ['web browser', 'open source']
-
- ## Ladybug Podcast
- - [https://ladybug.dev](https://ladybug.dev)
- - date_published: 2024-05-06T13:12:13.050171+00:00
- - tags: ['podcast']
-
- ## Lagged Developer Dashboard - Reach Millions of Gamers Online
- - [https://lagged.dev](https://lagged.dev)
- - date_published: 2024-05-04T11:46:24.117387+00:00
-
- ## Lagrange
- - [https://www.lagrange.dev](https://www.lagrange.dev)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## LaLoka Layouts for Tailwind CSS
- - [https://layoutsfortailwind.lalokalabs.dev](https://layoutsfortailwind.lalokalabs.dev)
- - date_published: 2024-01-08T08:17:34+00:00
-
- ## Luis Ángel Méndez Gort
- - [https://lamg.dev](https://lamg.dev)
- - date_published: 2024-05-26T08:40:25+00:00
-
- ## Laminar · Simple, expressive, and safe UI library for Scala.js
- - [https://laminar.dev](https://laminar.dev)
- - date_published: 2024-05-17T22:25:39+00:00
-
- ## Laminas Project Community
- - [https://discourse.laminas.dev](https://discourse.laminas.dev)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Laminas Documentation
- - [https://docs.laminas.dev](https://docs.laminas.dev)
- - date_published: 2024-05-12T06:38:45.821865+00:00
-
- ## Laminas: Components and MVC for Enterprise Applications
- - [https://laminas.dev](https://laminas.dev)
- - date_published: 2024-06-18T12:07:06.169344+00:00
 

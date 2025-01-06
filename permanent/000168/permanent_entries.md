@@ -1,3 +1,39 @@
+ ## Debbie Widjaja – Medium
+ - [https://debbiewidjaja.medium.com](https://debbiewidjaja.medium.com)
+ - date_published: 2024-08-17T06:47:01.028154+00:00
+
+ ## Debugger
+ - [https://debugger.medium.com](https://debugger.medium.com)
+ - date_published: 2023-10-25T10:19:31.889138+00:00
+
+ ## Deeptaanshu Kumar – Medium
+ - [https://deeptaanshu.medium.com](https://deeptaanshu.medium.com)
+ - date_published: 2024-07-19T17:33:49.291179+00:00
+
+ ## Defina – Medium
+ - [https://defina-finance.medium.com](https://defina-finance.medium.com)
+ - date_published: 2024-12-15T09:23:46.622638+00:00
+
+ ## Delphine Brunetière – Medium
+ - [https://delphinebrunetiere.medium.com](https://delphinebrunetiere.medium.com)
+ - date_published: 2024-02-08T22:51:38.649958+00:00
+
+ ## David Lu – Medium
+ - [https://delu.medium.com](https://delu.medium.com)
+ - date_published: 2023-10-25T10:19:34.250111+00:00
+
+ ## Dennis Sanders – Medium
+ - [https://dennissanders.medium.com](https://dennissanders.medium.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Denys Linkov – Medium
+ - [https://denyslinkov.medium.com](https://denyslinkov.medium.com)
+ - date_published: 2023-10-25T10:19:36.501051+00:00
+
+ ## DesignNerds – Medium
+ - [https://designnerds.medium.com](https://designnerds.medium.com)
+ - date_published: 2024-10-27T23:05:06.626208+00:00
+
  ## Design Thinkers Academy London – Medium
  - [https://designthinkersacademylondon.medium.com](https://designthinkersacademylondon.medium.com)
  - date_published: 2024-09-09T13:16:37.939062+00:00
@@ -1987,6 +2023,10 @@
  ## Radu Zaharia – Medium
  - [https://raduzaharia.medium.com](https://raduzaharia.medium.com)
  - date_published: 2024-05-19T00:00:00+00:00
+
+ ## MD Rafsun Sheikh – Medium
+ - [https://rafsunsheikh116.medium.com](https://rafsunsheikh116.medium.com)
+ - date_published: 2025-01-05T04:37:27.615242+00:00
 
  ## Ragavendra Y – Medium
  - [https://ragavyarasi.medium.com](https://ragavyarasi.medium.com)
@@ -3984,44 +4024,4 @@
  ## New Generation Material Handling | Megvii Robotics | Pallet Shuttle Robot | Automated Warehouse Systems - Megvii Automation & Robotics
  - [https://en-robotics.megvii.com](https://en-robotics.megvii.com)
  - date_published: 2024-08-07T14:43:16.917328+00:00
-
- ## MEGVII旷视科技-让物理世界更美好
- - [https://megvii.com](https://megvii.com)
- - date_published: 2024-08-07T14:43:46.251479+00:00
-
- ## HPC Systeme & Lösungen
- - [https://www.megware.com](https://www.megware.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## JVC "Gaming" Headphones (Wired or Wireless)
- - [https://meh.com](https://meh.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Mehdi Khalili
- - [http://www.mehdi-khalili.com](http://www.mehdi-khalili.com)
- - date_published: 2024-01-02T06:37:30+00:00
-
- ## Henna Tattoo | Body Art Kits and Design | Mehndi Skin Art
- - [http://www.mehndiskinart.com](http://www.mehndiskinart.com)
- - date_published: 2019-03-22T19:18:39+00:00
-
- ## time spent offline
- - [https://mehretbiruk.com](https://mehretbiruk.com)
- - date_published: 2024-06-22T13:46:03.455519+00:00
-
- ## Mehring Books
- - [https://mehring.com](https://mehring.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Das entscheidende Plus an Relevanz
- - [https://www.mehrkanal.com](https://www.mehrkanal.com)
- - date_published: 2024-10-21T22:23:50.749086+00:00
-
- ## خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency
- - [http://www.mehrnews.com](http://www.mehrnews.com)
- - date_published: 2024-12-31T11:34:46.716094+00:00
-
- ## mehtapress.com
- - [http://www.mehtapress.com](http://www.mehtapress.com)
- - date_published: 2024-10-29T17:22:40.079274+00:00
 

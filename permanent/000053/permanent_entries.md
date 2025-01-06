@@ -1,3 +1,19 @@
+ ## Aware
+ - [https://awaremac.com](https://awaremac.com)
+ - date_published: 2019-10-07T05:34:15+00:00
+
+ ## Page d’accueil — AWARE Women artists / Femmes artistes
+ - [https://awarewomenartists.com](https://awarewomenartists.com)
+ - date_published: 2024-12-16T17:21:50+00:00
+
+ ## Maintenance
+ - [http://www.awas.com](http://www.awas.com)
+ - date_published: 2018-06-06T09:28:19+00:00
+
+ ## The Awash Post - News, opinions and analysis on Ethiopia and the Horn of Africa.
+ - [https://www.awashpost.com](https://www.awashpost.com)
+ - date_published: 2020-11-08T00:00:00+00:00
+
  ## A Wave Blue World | A Wave Blue World
  - [http://awaveblueworld.com](http://awaveblueworld.com)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -4009,20 +4025,4 @@
  ## Baldur Bjarnason – Baldur Bjarnason
  - [https://baldurbjarnason.com](https://baldurbjarnason.com)
  - date_published: 2023-10-25T12:52:03.128142+00:00
-
- ## The Intelligence Illusion: a practical guide to the business risks of Generative AI
- - [https://illusion.baldurbjarnason.com](https://illusion.baldurbjarnason.com)
- - date_published: 2024-04-30T02:18:24.560000+00:00
-
- ## Baldur Bjarnason
- - [https://notes.baldurbjarnason.com](https://notes.baldurbjarnason.com)
- - date_published: 2024-05-29T15:13:30+00:00
-
- ## Out of the Software Crisis: Systems-Thinking for Software Projects
- - [https://softwarecrisis.baldurbjarnason.com](https://softwarecrisis.baldurbjarnason.com)
- - date_published: 2024-04-30T02:18:25.962625+00:00
-
- ## Baldur Bjarnason's Store
- - [https://store.baldurbjarnason.com](https://store.baldurbjarnason.com)
- - date_published: 2024-07-22T11:51:52.113943+00:00
 

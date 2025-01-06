@@ -1,3 +1,115 @@
+ ## Центр прав людини ZMINA
+ - [https://zmina.ua](https://zmina.ua)
+ - date_published: 2019-03-15T12:17:06+00:00
+
+ ## Інтернет магазин "Золотий Вік" - золото, ювелірні вироби - мережа ювелірних магазинів у Львові, Києві, Білій Церкві, Тернополі, Вінниці, Івано-Франківську. Каталог ювелірних виробів.
+ - [https://zolotoyvek.ua](https://zolotoyvek.ua)
+ - date_published: 2024-06-30T09:28:51.228700+00:00
+
+ ## .:: Home | Kampala International University, Uganda
+ - [http://www.kiu.ac.ug](http://www.kiu.ac.ug)
+ - date_published: 2024-12-24T09:33:37.346993+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.co.ug](https://maps.google.co.ug)
+ - date_published: 2024-07-20T07:39:05.080892+00:00
+
+ ## Google
+ - [https://www.google.co.ug](https://www.google.co.ug)
+ - date_published: 2024-06-21T22:23:22.834781+00:00
+
+ ## Home
+ - [https://www.monitor.co.ug](https://www.monitor.co.ug)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home - The Microfinance Support Centre Ltd
+ - [https://www.msc.co.ug](https://www.msc.co.ug)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## New Vision
+ - [https://www.newvision.co.ug](https://www.newvision.co.ug)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## NTV Uganda
+ - [https://www.ntv.co.ug](https://www.ntv.co.ug)
+ - date_published: 2023-10-25T22:48:05.575547+00:00
+
+ ## Home - National Water & Sewerage Corporation
+ - [https://www.nwsc.co.ug](https://www.nwsc.co.ug)
+ - date_published: 2023-11-29T14:35:30+00:00
+
+ ## Climate Change Department
+ - [http://ccd.go.ug](http://ccd.go.ug)
+ - date_published: 2024-10-11T13:00:53.581933+00:00
+
+ ## The Inspectorate of Government | Zero Tolerance to Corruption
+ - [http://www.igg.go.ug](http://www.igg.go.ug)
+ - date_published: 2024-10-11T13:00:26.116640+00:00
+
+ ## Ministry of Water and Environment
+ - [https://mwe.go.ug](https://mwe.go.ug)
+ - date_published: 2024-06-16T15:36:04.640299+00:00
+
+ ## NWQRL – National Water Quality Reference Laboratory
+ - [https://nwqrl.mwe.go.ug](https://nwqrl.mwe.go.ug)
+ - date_published: 2024-10-11T13:00:13.596672+00:00
+
+ ## WFP DB | Ministry  of Water and Environment
+ - [http://wfpdb.mwe.go.ug](http://wfpdb.mwe.go.ug)
+ - date_published: 2024-10-11T13:00:55.377156+00:00
+
+ ## Login to Webmin
+ - [https://wis.mwe.go.ug](https://wis.mwe.go.ug)
+ - date_published: 2024-10-11T12:59:42.772883+00:00
+
+ ## Water Resource Institute
+ - [http://wri.mwe.go.ug](http://wri.mwe.go.ug)
+ - date_published: 2024-10-11T13:00:36.048947+00:00
+
+ ## Uganda Water Supply Atlas
+ - [http://wsdb.mwe.go.ug](http://wsdb.mwe.go.ug)
+ - date_published: 2024-10-11T13:00:31.396588+00:00
+
+ ## Uganda Trade Portal
+ - [https://ugandatrades.go.ug](https://ugandatrades.go.ug)
+ - date_published: 2024-10-11T12:59:59.292046+00:00
+
+ ## Authorization
+ - [https://mwe.umcs.go.ug](https://mwe.umcs.go.ug)
+ - date_published: 2024-10-11T12:59:54.462261+00:00
+
+ ## UNMA - Uganda National Meteorological Authority | Providing Meteorological, Hydrological & related services
+ - [https://www.unma.go.ug](https://www.unma.go.ug)
+ - date_published: 2024-10-11T13:00:29.452925+00:00
+
+ ## NFA Uganda: A Guide to Uganda's Forests
+ - [http://www.nfa.org.ug](http://www.nfa.org.ug)
+ - date_published: 2022-07-26T17:25:22+00:00
+
+ ## Hotfrog - Get found online
+ - [https://www.hotfrog.ug](https://www.hotfrog.ug)
+ - date_published: 2024-06-29T16:52:02.425831+00:00
+
+ ## Hi Mom!‌
+ - [https://omrelli.ug](https://omrelli.ug)
+ - date_published: 2021-02-11T02:43:46+00:00
+
+ ## PHP-UserGroup - One home for one community
+ - [https://php.ug](https://php.ug)
+ - date_published: 2024-05-12T06:38:34.986727+00:00
+
+ ## Breaking News & Top Stories
+ - [https://www.pulse.ug](https://www.pulse.ug)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Latest Sports News &amp; Updates
+ - [https://www.pulsesports.ug](https://www.pulsesports.ug)
+ - date_published: 2024-09-22T00:00:00+00:00
+
+ ## AA School
+ - [https://www.aaschool.ac.uk](https://www.aaschool.ac.uk)
+ - date_published: 2024-05-06T21:16:15.785583+00:00
+
  ## University of Aberdeen
  - [https://abdn.ac.uk](https://abdn.ac.uk)
  - date_published: 2024-10-17T06:28:31.305391+00:00
@@ -3895,116 +4007,4 @@
  ## Digital Bodleian
  - [https://digital.bodleian.ox.ac.uk](https://digital.bodleian.ox.ac.uk)
  - date_published: 2024-06-17T18:17:58.988745+00:00
-
- ## OxDNA
- - [https://dna.physics.ox.ac.uk](https://dna.physics.ox.ac.uk)
- - date_published: 2024-04-25T13:25:18+00:00
-
- ## BRAHMS: Oxford
- - [http://dps007.plants.ox.ac.uk](http://dps007.plants.ox.ac.uk)
- - date_published: 2024-10-20T05:37:35.138591+00:00
-
- ## Home
- - [https://dspi.web.ox.ac.uk](https://dspi.web.ox.ac.uk)
- - date_published: 2024-06-17T14:46:56+00:00
-
- ## Dynamic Robot Systems Group
- - [https://dynamic.robots.ox.ac.uk](https://dynamic.robots.ox.ac.uk)
- - date_published: 2024-10-20T07:37:12.743282+00:00
-
- ## Taylor Editions / Home Page
- - [https://editions.mml.ox.ac.uk](https://editions.mml.ox.ac.uk)
- - date_published: 2024-12-31T18:42:10.045881+00:00
-
- ## Home page
- - [https://edu.admin.ox.ac.uk](https://edu.admin.ox.ac.uk)
- - date_published: 2024-06-13T10:16:17+00:00
-
- ## Home page
- - [https://edu.web.ox.ac.uk](https://edu.web.ox.ac.uk)
- - date_published: 2024-06-13T19:57:47+00:00
-
- ## Early Modern Letters Online : Home
- - [http://emlo.bodleian.ox.ac.uk](http://emlo.bodleian.ox.ac.uk)
- - date_published: 2024-06-17T18:18:56.830451+00:00
-
- ## Department of Engineering Science | University of Oxford
- - [https://eng.ox.ac.uk](https://eng.ox.ac.uk)
- - date_published: 2024-06-17T18:56:55.517824+00:00
-
- ## Welcome to the Oxford DTP in Environmental Research
- - [https://envres.web.ox.ac.uk](https://envres.web.ox.ac.uk)
- - date_published: 2024-06-16T09:33:54+00:00
-
- ## https://eodg.atm.ox.ac.uk
- - [https://eodg.atm.ox.ac.uk](https://eodg.atm.ox.ac.uk)
- - date_published: 2022-07-20T15:01:04+00:00
-
- ## Energy and Power Group, Department of Engineering Science, University of Oxford
- - [https://epg.eng.ox.ac.uk](https://epg.eng.ox.ac.uk)
- - date_published: 2024-06-17T19:00:06.029015+00:00
-
- ## Home
- - [https://estates.admin.ox.ac.uk](https://estates.admin.ox.ac.uk)
- - date_published: 2024-06-14T08:40:44+00:00
-
- ## Wadham College
- - [https://events.wadham.ox.ac.uk](https://events.wadham.ox.ac.uk)
- - date_published: 2024-06-17T18:32:56.981997+00:00
-
- ## Linguistics at Oxford –
- - [https://explore.ling-phil.ox.ac.uk](https://explore.ling-phil.ox.ac.uk)
- - date_published: 2024-06-17T18:57:01.579291+00:00
-
- ## Home
- - [https://finance.admin.ox.ac.uk](https://finance.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:32:16+00:00
-
- ## Home
- - [https://focus.admin.ox.ac.uk](https://focus.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:55:28+00:00
-
- ## Home
- - [https://foxtalbot.bodleian.ox.ac.uk](https://foxtalbot.bodleian.ox.ac.uk)
- - date_published: 2015-04-22T15:00:37+00:00
-
- ## Frontiers of Socio-Legal Studies
- - [https://frontiers.csls.ox.ac.uk](https://frontiers.csls.ox.ac.uk)
- - date_published: 2024-10-20T05:59:51.934427+00:00
-
- ## Document
- - [https://fsl.fmrib.ox.ac.uk](https://fsl.fmrib.ox.ac.uk)
- - date_published: 2024-10-20T07:16:34.773364+00:00
-
- ## Kellogg College Giving Day 2024
- - [https://givingday.kellogg.ox.ac.uk](https://givingday.kellogg.ox.ac.uk)
- - date_published: 2024-06-17T18:45:16.415296+00:00
-
- ## Home
- - [https://glamit.web.ox.ac.uk](https://glamit.web.ox.ac.uk)
- - date_published: 2024-10-20T05:37:48.247917+00:00
-
- ## Home
- - [https://glam.web.ox.ac.uk](https://glam.web.ox.ac.uk)
- - date_published: 2024-05-02T10:57:33.164842+00:00
-
- ## Home
- - [https://globalcapitalism.history.ox.ac.uk](https://globalcapitalism.history.ox.ac.uk)
- - date_published: 2024-05-29T01:37:51.785684+00:00
-
- ## Home
- - [https://globalcapitalism.web.ox.ac.uk](https://globalcapitalism.web.ox.ac.uk)
- - date_published: 2024-09-02T07:20:19+00:00
-
- ## Oxford's International Research
- - [https://globalresearch.admin.ox.ac.uk](https://globalresearch.admin.ox.ac.uk)
- - date_published: 2024-10-20T07:05:54.265164+00:00
-
- ## GO Lab
- - [https://golab.bsg.ox.ac.uk](https://golab.bsg.ox.ac.uk)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home
- - [http://governance.admin.ox.ac.uk](http://governance.admin.ox.ac.uk)
- - date_published: 2024-06-14T09:43:18+00:00
 

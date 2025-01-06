@@ -1,3 +1,19 @@
+ ## J.M. DeMatteis's CREATION POINT
+ - [http://jmdematteis.blogspot.com](http://jmdematteis.blogspot.com)
+ - date_published: 2024-12-19T10:58:05.891394+00:00
+
+ ## Being Eclipsed
+ - [http://jmj-eclipse.blogspot.com](http://jmj-eclipse.blogspot.com)
+ - date_published: 2024-03-13T00:03:52+00:00
+
+ ## Kish Collections
+ - [http://jnkish.blogspot.com](http://jnkish.blogspot.com)
+ - date_published: 2024-03-13T16:45:15+00:00
+
+ ## Joakim Book | Life of an Econ Student
+ - [https://joakimbook.blogspot.com](https://joakimbook.blogspot.com)
+ - date_published: 2024-10-21T07:26:01+00:00
+
  ## Joan Mora
  - [http://joanmorawrites.blogspot.com](http://joanmorawrites.blogspot.com)
  - date_published: 2024-10-17T22:58:00.720085+00:00
@@ -3991,20 +4007,4 @@
  ## Little Big Wars
  - [http://littlebigwars.blogspot.com](http://littlebigwars.blogspot.com)
  - date_published: 2024-03-06T03:06:10+00:00
-
- ## Little Birdie Secrets
- - [http://littlebirdiesecrets.blogspot.com](http://littlebirdiesecrets.blogspot.com)
- - date_published: 2025-01-01T11:08:12+00:00
-
- ## Blogger
- - [http://littlebitintexas.blogspot.com](http://littlebitintexas.blogspot.com)
- - date_published: 2024-12-19T10:04:14.768066+00:00
-
- ## Little Blog In The Big Woods
- - [https://littlebloginthebigwoods.blogspot.com](https://littlebloginthebigwoods.blogspot.com)
- - date_published: 2024-06-26T07:40:32+00:00
-
- ## Blogger
- - [http://littlecountrylost.blogspot.com](http://littlecountrylost.blogspot.com)
- - date_published: 2024-10-29T19:14:07.048275+00:00
 

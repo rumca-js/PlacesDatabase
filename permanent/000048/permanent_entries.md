@@ -1,3 +1,19 @@
+ ## Antica Pizzeria & Market
+ - [https://www.antica-pizzeria.com](https://www.antica-pizzeria.com)
+ - date_published: 2024-06-27T16:52:48.750185+00:00
+
+ ## ANTICHAT - Security online community
+ - [https://forum.antichat.com](https://forum.antichat.com)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## anticultural.com
+ - [https://anticultural.com](https://anticultural.com)
+ - date_published: 2024-05-10T06:40:44.284411+00:00
+
+ ## Anti-Empire
+ - [https://anti-empire.com](https://anti-empire.com)
+ - date_published: 2024-09-16T20:17:22.860903+00:00
+
  ## Antier Solutions - Enterprise Grade Web3 Development Services | Blockchain Developers
  - [https://www.antiersolutions.com](https://www.antiersolutions.com)
  - date_published: 2024-06-16T04:34:33.427879+00:00
@@ -4025,20 +4041,4 @@ my personal blog
  ## Appstle - Grow your E-Commerce Journey with Compelling Apps
  - [https://appstle.com](https://appstle.com)
  - date_published: 2024-08-20T00:00:00+00:00
-
- ## loyalty
- - [https://loyalty-admin.appstle.com](https://loyalty-admin.appstle.com)
- - date_published: 2024-04-30T05:43:54.395535+00:00
-
- ## Appstle℠ Memberships
- - [https://membership-admin.appstle.com](https://membership-admin.appstle.com)
- - date_published: 2024-06-26T05:46:07+00:00
-
- ## Appstle℠ Subscription
- - [https://subscription-admin.appstle.com](https://subscription-admin.appstle.com)
- - date_published: 2024-05-09T07:08:09.956029+00:00
-
- ## Appstock
- - [https://app-stock.com](https://app-stock.com)
- - date_published: 2024-05-06T17:44:12.755808+00:00
 

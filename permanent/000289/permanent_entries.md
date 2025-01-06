@@ -1,3 +1,89 @@
+ ## Kusari
+ - [https://www.kusari.dev](https://www.kusari.dev)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Kushagra's World
+ - [https://kushagra.dev](https://kushagra.dev)
+ - date_published: 2024-07-08T15:13:44.842224+00:00
+ - tags: ['personal']
+
+ - [https://kviklet.dev](https://kviklet.dev)
+ - date_published: 2024-03-14T18:39:44.028892+00:00
+
+ ## Kysely | Kysely
+ - [https://kysely.dev](https://kysely.dev)
+ - date_published: 2023-10-25T08:33:04.457103+00:00
+
+ ## @kytta
+ - [https://kytta.dev](https://kytta.dev)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Share₂Fedi, a share page for the Fediverse
+ - [https://s2f.kytta.dev](https://s2f.kytta.dev)
+ - date_published: 2024-04-28T01:59:16.493072+00:00
+
+ ## toot — cross-instance share page for Mastodon
+ - [https://toot.kytta.dev](https://toot.kytta.dev)
+ - date_published: 2024-08-18T09:11:07.198649+00:00
+
+ ## L3-AI: The Level 3 AI Assistant Conference
+ - [https://l3-ai.dev](https://l3-ai.dev)
+ - date_published: 2024-06-22T13:07:28.450319+00:00
+
+ ## LAAC Technology
+ - [https://www.laac.dev](https://www.laac.dev)
+ - date_published: 2023-04-29T00:00:00+00:00
+
+ ## lab2.dev Generative Python App
+ - [https://lab2.dev](https://lab2.dev)
+ - date_published: 2024-10-30T17:44:15.313697+00:00
+
+ ## La Digitale
+ - [https://ladigitale.dev](https://ladigitale.dev)
+ - date_published: 2024-06-19T22:22:04.936253+00:00
+
+ ## The Ladybird browser project
+ - [https://ladybird.dev](https://ladybird.dev)
+ - date_published: 2024-03-07T16:57:29+00:00
+ - tags: ['web browser', 'open source']
+
+ ## Ladybug Podcast
+ - [https://ladybug.dev](https://ladybug.dev)
+ - date_published: 2024-05-06T13:12:13.050171+00:00
+ - tags: ['podcast']
+
+ ## Lagged Developer Dashboard - Reach Millions of Gamers Online
+ - [https://lagged.dev](https://lagged.dev)
+ - date_published: 2024-05-04T11:46:24.117387+00:00
+
+ ## Lagrange
+ - [https://www.lagrange.dev](https://www.lagrange.dev)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## LaLoka Layouts for Tailwind CSS
+ - [https://layoutsfortailwind.lalokalabs.dev](https://layoutsfortailwind.lalokalabs.dev)
+ - date_published: 2024-01-08T08:17:34+00:00
+
+ ## Luis Ángel Méndez Gort
+ - [https://lamg.dev](https://lamg.dev)
+ - date_published: 2024-05-26T08:40:25+00:00
+
+ ## Laminar · Simple, expressive, and safe UI library for Scala.js
+ - [https://laminar.dev](https://laminar.dev)
+ - date_published: 2024-05-17T22:25:39+00:00
+
+ ## Laminas Project Community
+ - [https://discourse.laminas.dev](https://discourse.laminas.dev)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Laminas Documentation
+ - [https://docs.laminas.dev](https://docs.laminas.dev)
+ - date_published: 2024-05-12T06:38:45.821865+00:00
+
+ ## Laminas: Components and MVC for Enterprise Applications
+ - [https://laminas.dev](https://laminas.dev)
+ - date_published: 2024-06-18T12:07:06.169344+00:00
+
  ## Resume of Lance R. Vick
  - [https://lance.dev](https://lance.dev)
  - date_published: 2024-04-28T01:58:27.254086+00:00
@@ -369,6 +455,10 @@
  ## Logica – Declarative logic programming language for data
  - [https://logica.dev](https://logica.dev)
  - date_published: 2024-11-16T19:09:30+00:00
+
+ ## Show HN: LogLayer – Unified logger that routes logs to various logging libraries
+ - [https://loglayer.dev](https://loglayer.dev)
+ - date_published: 2025-01-06T00:52:24+00:00
 
  ## Logo API | Logo.dev Company and Brand API
  - [https://img.logo.dev](https://img.logo.dev)
@@ -4026,94 +4116,4 @@
  ## Sandworm Audit | Sandworm
  - [https://docs.sandworm.dev](https://docs.sandworm.dev)
  - date_published: 2024-04-30T02:14:40.302859+00:00
-
- ## Sandworm Security: JavaScript & PHP Security Audits And License Compliance
- - [https://sandworm.dev](https://sandworm.dev)
- - date_published: 2023-12-07T12:35:23+00:00
-
- ## Sanic User Guide - The lightning-fast asynchronous Python web framework
- - [https://sanic.dev](https://sanic.dev)
- - date_published: 2024-12-13T16:29:34+00:00
-
- ## SanneK.dev
- - [https://sannek.dev](https://sannek.dev)
- - date_published: 2024-06-23T08:32:10.001444+00:00
-
- ## Cloud Native with Carlos Santana
- - [https://santana.dev](https://santana.dev)
- - date_published: 2024-08-07T19:41:39.407488+00:00
-
- ## Sarah Drasner's Site
- - [https://sarah.dev](https://sarah.dev)
- - date_published: 2024-05-06T14:05:18.693909+00:00
-
- ## Sarah Dayan
- - [https://sarahdayan.dev](https://sarahdayan.dev)
- - date_published: 2022-08-18T00:00:00+00:00
-
- ## sara j. wallén | Blogolio
- - [https://2022blog.sarajoy.dev](https://2022blog.sarajoy.dev)
- - date_published: 2024-06-22T13:46:22.756912+00:00
-
- ## sara joy w.
- - [https://2022tabs.sarajoy.dev](https://2022tabs.sarajoy.dev)
- - date_published: 2024-06-22T13:46:15.561223+00:00
-
- ## Sara Joy
- - [https://card.sarajoy.dev](https://card.sarajoy.dev)
- - date_published: 2024-06-22T13:46:23.693685+00:00
-
- ## Sara Joy
- - [https://sarajoy.dev](https://sarajoy.dev)
- - date_published: 2024-05-04T14:14:33.787926+00:00
- - tags: ['personal']
-
- ## sarcevic.dev — my website
- - [https://sarcevic.dev](https://sarcevic.dev)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Piotr Sarna
- - [https://bio.sarna.dev](https://bio.sarna.dev)
- - date_published: 2024-05-07T19:07:53.528691+00:00
-
- ## Crate comparator v0.0.42
- - [https://compare-crates.sarna.dev](https://compare-crates.sarna.dev)
- - date_published: 2022-02-24T12:17:23+00:00
-
- ## Sat Naing - A Full-stack Developer
- - [https://satnaing.dev](https://satnaing.dev)
- - date_published: 2024-08-18T02:57:12.889538+00:00
-
- ## Imprints by Saurabh Thakur
- - [https://imprints.saurabhthakur.dev](https://imprints.saurabhthakur.dev)
- - date_published: 2024-05-10T06:26:33.528424+00:00
-
- ## Saurabh Thakur
- - [https://saurabhthakur.dev](https://saurabhthakur.dev)
- - date_published: 2023-11-29T17:09:57.500467+00:00
- - tags: ['personal']
-
- ## Sayak Paul
- - [https://sayak.dev](https://sayak.dev)
- - date_published: 2024-06-21T05:23:51+00:00
-
- ## Scalar - We help you scale
- - [https://scalar.dev](https://scalar.dev)
- - date_published: 2024-07-11T16:16:54.341555+00:00
-
- ## the scapegoat dev
- - [https://the.scapegoat.dev](https://the.scapegoat.dev)
- - date_published: 2023-10-25T18:41:46.416695+00:00
-
- ## Scapellato - Building for Billions
- - [https://www.scapellato.dev](https://www.scapellato.dev)
- - date_published: 2024-12-25T15:27:18+00:00
-
- ## Scarlett Gately Moore – Kubuntu, KDE, Debian, KDE Neon, Ubuntu Snap Developer Blog
- - [https://scarlettgatelymoore.dev](https://scarlettgatelymoore.dev)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Building Modern Web Apps with React and Next.js
- - [https://learn.scastiel.dev](https://learn.scastiel.dev)
- - date_published: 2024-08-19T03:52:44.124989+00:00
 

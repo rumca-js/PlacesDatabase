@@ -1,13 +1,106 @@
+ ## דף הבית - Gav-Yam Negev
+ - [https://gavyam-negev.co.il](https://gavyam-negev.co.il)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## The Less Interesting Times
+ - [https://eran.geek.co.il](https://eran.geek.co.il)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Things n' Stuff
+ - [https://geek.co.il](https://geek.co.il)
+ - date_published: 2024-05-02T11:41:46.288813+00:00
+
+ ## GIANT ישראל היבואן הרשמי והבלעדי - אופניים ואביזרים לרוכב
+ - [https://giant-bike.co.il](https://giant-bike.co.il)
+ - date_published: 2024-09-18T02:00:38.495294+00:00
+
+ ## Gilead Sciences
+ - [https://gileadisrael.co.il](https://gileadisrael.co.il)
+ - date_published: 2024-07-02T04:08:09.086947+00:00
+
+ ## Globes - Israel Business News
+ - [https://en.globes.co.il](https://en.globes.co.il)
+ - date_published: 2024-02-27T00:00:00+00:00
+ - tags: ['business news', 'israel news']
+
+ ## גלובס זירת העסקים של ישראל
+ - [https://globes.co.il](https://globes.co.il)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Google ספרים
+ - [https://books.google.co.il](https://books.google.co.il)
+ - date_published: 2024-05-01T03:14:23.131177+00:00
+
+ ## Google
+ - [https://google.co.il](https://google.co.il)
+ - date_published: 2024-06-21T22:25:16.126625+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.co.il](https://maps.google.co.il)
+ - date_published: 2024-07-20T07:39:58.456982+00:00
+
+ ## Google Scholar
+ - [https://scholar.google.co.il](https://scholar.google.co.il)
+ - date_published: 2024-04-28T03:45:43.984695+00:00
+
+ ## Great Place To Work
+ - [https://greatplacetowork.co.il](https://greatplacetowork.co.il)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## בניית אתרים באר שבע, קידום פייסבוק באר שבע, קידום גוגל באר שבע, עיצוב לוגו, עיצוב כרטיס ביקור באר שבע, משרד פרסום באר שבע
+ - [https://greenlime.co.il](https://greenlime.co.il)
+ - date_published: 2024-07-14T03:36:40.286631+00:00
+
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [https://gif.haarets.co.il](https://gif.haarets.co.il)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## הארץ - חדשות, ידיעות מהארץ והעולם - עיתון הארץ
+ - [https://img.haarets.co.il](https://img.haarets.co.il)
+ - date_published: 2023-12-04T15:32:28.521089+00:00
+
+ ## הארץ - חדשות, ידיעות מהארץ והעולם - עיתון הארץ
+ - [https://haaretz.co.il](https://haaretz.co.il)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## התחברות
+ - [https://login.haaretz.co.il](https://login.haaretz.co.il)
+ - date_published: 2024-05-10T05:56:53.066450+00:00
+
+ ## מינוי לאתר הארץ
+ - [https://promotion.haaretz.co.il](https://promotion.haaretz.co.il)
+ - date_published: 2024-05-10T05:57:03.676155+00:00
+
+ ## מינוי לאתר הארץ
+ - [https://promotions.haaretz.co.il](https://promotions.haaretz.co.il)
+ - date_published: 2024-07-12T18:41:33.225421+00:00
+
+ ## הכי חם - המקום הכי חם
+ - [https://ha-makom.co.il](https://ha-makom.co.il)
+ - date_published: 2024-10-27T11:07:59.449995+00:00
+
+ ## מחשבוני שער יציג, שערי מט"ח ושערי חליפין ידידותיים וקלים לשימוש – המרה
+ - [https://hamara.co.il](https://hamara.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## השולחן
+ - [https://hashulchan.co.il](https://hashulchan.co.il)
+ - date_published: 2024-10-20T21:36:58.098792+00:00
+
+ ## Home - Herz Brand Communications & Advertising
+ - [https://herz.co.il](https://herz.co.il)
+ - date_published: 2024-06-21T21:13:40+00:00
+
  ## Homepage
- - [https://www.hilti.co.il](https://www.hilti.co.il)
+ - [https://hilti.co.il](https://hilti.co.il)
  - date_published: 2024-06-20T07:27:20.997798+00:00
 
  ## כל הטיסות וכל המלונות באתר אחד ובמחיר הכי משתלם | holidayfinder
- - [https://www.holidayfinder.co.il](https://www.holidayfinder.co.il)
+ - [https://holidayfinder.co.il](https://holidayfinder.co.il)
  - date_published: 2024-08-11T13:52:20.987282+00:00
 
  ## התחבר אל Hostinger
- - [https://auth.hostinger.co.il](https://auth.hostinger.co.il)
+ - [http://auth.hostinger.co.il](http://auth.hostinger.co.il)
  - date_published: 2024-07-13T16:34:29.556214+00:00
 
  ## פלטפורמת אחסון אתרים שנבנתה בשבילכם - השיקו אתר עם Hostinger
@@ -15,7 +108,7 @@
  - date_published: 2024-05-11T07:49:42.082202+00:00
 
  ## Cierpliwości...
- - [http://hwzone.co.il](http://hwzone.co.il)
+ - [https://hwzone.co.il](https://hwzone.co.il)
  - date_published: 2024-06-29T17:09:00.705370+00:00
 
  ## ראשי - טיפול במערכות מים - פטנט עולמי מוגן - ידידותי לסביבה - כנסו
@@ -23,7 +116,7 @@
  - date_published: 2024-10-06T12:15:36+00:00
 
  ## כלי לבדיקת IBAN: אימות מספר חשבון בינלאומי
- - [https://www.iban.co.il](https://www.iban.co.il)
+ - [https://iban.co.il](https://iban.co.il)
  - date_published: 2024-08-30T00:00:00+00:00
 
  ## ככה מחליטים על רכב
@@ -31,7 +124,7 @@
  - date_published: 2024-05-09T04:02:27.443312+00:00
 
  ## energy chains, polymer bearings, flexible cable, &amp; linear slides
- - [https://www.igus.co.il](https://www.igus.co.il)
+ - [https://igus.co.il](https://igus.co.il)
  - date_published: 2024-08-06T23:11:53.392218+00:00
 
  ## iLogic - Internet Marketing Solutions | Marketing Sales Success
@@ -39,7 +132,7 @@
  - date_published: 2024-12-30T14:09:58.968136+00:00
 
  ## כלים פשוטים לבניית מוצרים מעוליםs - אינפלקטרה ישראל
- - [http://www.inflectra.co.il](http://www.inflectra.co.il)
+ - [http://inflectra.co.il](http://inflectra.co.il)
  - date_published: 2023-09-03T23:49:35+00:00
 
  ## שיווק ומכירות באינטרנט לעסקים -
@@ -51,7 +144,7 @@
  - date_published: 2024-07-04T00:00:00+00:00
 
  ## IQC | המכון לבקרה ואיכות
- - [https://www.iqc.co.il](https://www.iqc.co.il)
+ - [https://iqc.co.il](https://iqc.co.il)
  - date_published: 2024-07-13T18:33:41+00:00
 
  ## מלגת ארתקא
@@ -59,7 +152,7 @@
  - date_published: 2024-07-14T03:34:26.844217+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.israeldefense.co.il](https://www.israeldefense.co.il)
+ - [http://israeldefense.co.il](http://israeldefense.co.il)
  - date_published: 2024-09-02T11:48:55.587579+00:00
 
  ## Israel HLS&CYBER 2022 - The International Conference & Exhibition
@@ -79,7 +172,7 @@
  - date_published: 2024-01-24T20:54:31.768580+00:00
 
  ## מכון היהלומים הישראלי - פורטל יהלומים הגדול בישראל
- - [https://www.israelidiamond.co.il](https://www.israelidiamond.co.il)
+ - [https://israelidiamond.co.il](https://israelidiamond.co.il)
  - date_published: 2024-08-17T23:13:32.672159+00:00
 
  ## Israel Today - News & Commentary. Stay Informed, Pray Informed.
@@ -88,15 +181,15 @@
  - tags: ['israel news']
 
  ## דף הבית - IsraelTravel
- - [http://israeltravel.co.il](http://israeltravel.co.il)
+ - [https://israeltravel.co.il](https://israeltravel.co.il)
  - date_published: 2024-10-21T21:57:46.926551+00:00
 
  ## JD Sports ישראל - רשת אופנת הספורט הבינלאומית
- - [https://www.jdsports.co.il](https://www.jdsports.co.il)
+ - [https://jdsports.co.il](https://jdsports.co.il)
  - date_published: 2024-10-21T02:19:20.869682+00:00
 
  ## Jeep® Israel | ג׳יפ ישראל
- - [https://www.jeep.co.il](https://www.jeep.co.il)
+ - [https://jeep.co.il](https://jeep.co.il)
  - date_published: 2024-06-19T09:00:36.851409+00:00
 
  ## Real Estate Advisors & Professionals | JLL
@@ -108,7 +201,7 @@
  - date_published: 2024-01-20T00:00:00+00:00
 
  ## לימוד אנגלית וקורסי אנגלית בקלי קלות | ג'רוזלם פוסט לייט
- - [http://www.jpostlite.co.il](http://www.jpostlite.co.il)
+ - [https://jpostlite.co.il](https://jpostlite.co.il)
  - date_published: 2024-05-23T00:00:00+00:00
 
  ## חנות צילום עם מבחר ענק של ציוד מקצועי - יוגנד Photo & Video
@@ -124,7 +217,7 @@
  - date_published: 2024-10-29T20:40:02+00:00
 
  ## לנד רובר | רכבי ריינג' רובר, דיפנדר ודיסקברי למכירה | Land Rover
- - [https://www.landrover.co.il](https://www.landrover.co.il)
+ - [https://landrover.co.il](https://landrover.co.il)
  - date_published: 2024-07-09T17:14:52.283614+00:00
 
  ## להפוך להיות מוביל, מומחה ומנהיג בתחומך! (חדש) - האקדמיה למובילים ומנהיגים עסקיים
@@ -137,7 +230,7 @@
  - tags: ['personal']
 
  ## לוונשטיין טכנולוגיות: פתרונות הנדסה ומערכות אלקטרו מכאניות
- - [https://www.l-tech.co.il](https://www.l-tech.co.il)
+ - [https://l-tech.co.il](https://l-tech.co.il)
  - date_published: 2022-12-13T18:51:06+00:00
 
  ## LTU Media | Leave it to us
@@ -145,11 +238,11 @@
  - date_published: 2023-11-29T15:23:30+00:00
 
  ## חדשות היום, כלכלה, ספורט, רכילות, בריאות, טכנולוגיה | מעריב
- - [https://www.maariv.co.il](https://www.maariv.co.il)
+ - [https://maariv.co.il](https://maariv.co.il)
  - date_published: 2024-08-18T15:08:42.640078+00:00
 
  ## מכבי שירותי בריאות
- - [https://www.maccabi4u.co.il](https://www.maccabi4u.co.il)
+ - [https://maccabi4u.co.il](https://maccabi4u.co.il)
  - date_published: 2024-07-09T07:21:12+00:00
 
  ## | Fashion Forward | אופנה
@@ -161,7 +254,7 @@
  - date_published: 2024-08-05T00:00:00+00:00
 
  ## Error
- - [https://img.mako.co.il](https://img.mako.co.il)
+ - [http://img.mako.co.il](http://img.mako.co.il)
  - date_published: 2024-08-11T13:52:31.271818+00:00
 
  ## mako חדשות. בידור. טלוויזיה
@@ -169,7 +262,7 @@
  - date_published: 2024-02-25T21:52:04+00:00
 
  ## Error
- - [https://rcs.mako.co.il](https://rcs.mako.co.il)
+ - [http://rcs.mako.co.il](http://rcs.mako.co.il)
  - date_published: 2024-08-11T13:52:24.007059+00:00
 
  ## שירונט - מילים לשירים מוזיקה ישראלית ולועזית
@@ -193,15 +286,15 @@
  - date_published: 2024-07-16T21:35:37.892779+00:00
 
  ## רשת רפואה MEDNET | חדשות רפואה | מידע לכל רופא | אתר הרופאים של ישראל
- - [https://mednet.co.il](https://mednet.co.il)
+ - [http://mednet.co.il](http://mednet.co.il)
  - date_published: 2024-07-15T13:53:07+00:00
 
  ## מדוזות בעם
- - [https://www.meduzot.co.il](https://www.meduzot.co.il)
+ - [https://meduzot.co.il](https://meduzot.co.il)
  - date_published: 2024-07-09T07:25:52.646468+00:00
 
  ## בנק מרכנתיל לקוחות פרטיים
- - [https://www.mercantile.co.il](https://www.mercantile.co.il)
+ - [https://mercantile.co.il](https://mercantile.co.il)
  - date_published: 2024-06-16T12:34:51.954633+00:00
 
  ## כרטיס האשראי מרכנתיל סמייל-בנק מרכנתיל | מגוון הטבות לבעלי כרטיס האשראי מרכנתיל סמייל של בנק מרכנתיל
@@ -209,7 +302,7 @@
  - date_published: 2024-10-06T17:01:27.235040+00:00
 
  ## מגדל: חברת ביטוח, פנסיה, פיננסים, השקעות, וחיסכון
- - [https://www.migdal.co.il](https://www.migdal.co.il)
+ - [https://migdal.co.il](https://migdal.co.il)
  - date_published: 2024-07-09T07:25:27.031645+00:00
 
  ## Mobilunity - Dedicated Development Teams Provider
@@ -221,16 +314,17 @@
  - date_published: 2024-06-27T08:07:52.969659+00:00
 
  ## Electronic Components Distributor - Mouser Electronics Israel
- - [https://www.mouser.co.il](https://www.mouser.co.il)
+ - [https://mouser.co.il](https://mouser.co.il)
  - date_published: 2024-07-01T20:54:48.497157+00:00
 
  ## מוזי עיצוב אתרים | סטודיו למיתוג ובניית אתרים
- - [http://mozinteractive.co.il](http://mozinteractive.co.il)
+ - [https://mozinteractive.co.il](https://mozinteractive.co.il)
  - date_published: 2024-09-10T00:00:00+00:00
 
  ## My Dance World Studio סטודיו לריקוד – סטודיו הריקוד הגדול בדרום בהנהלת מיתר בשרן
  - [https://mydanceworldstudio.co.il](https://mydanceworldstudio.co.il)
  - date_published: 2024-07-10T06:25:35+00:00
+ - date_dead_since: 2025-01-05T23:43:34.511979+00:00
 
  ## אילן יוחסין בחינם, גנאלוגיה, היסטוריה משפחתית ובדיקות דנ''א
  - [https://www.myheritage.co.il](https://www.myheritage.co.il)
@@ -325,7 +419,7 @@
  - date_published: 2024-02-08T00:00:00+00:00
 
  ## חדשות | N12 אתר החדשות של ישראל
- - [https://www.n12.co.il](https://www.n12.co.il)
+ - [https://n12.co.il](https://n12.co.il)
  - date_published: 2024-08-11T13:52:25.339489+00:00
 
  ## EqualWeb - log in or sign up
@@ -349,7 +443,7 @@
  - date_published: 2024-05-11T00:00:00+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.nintendo.co.il](https://www.nintendo.co.il)
+ - [http://nintendo.co.il](http://nintendo.co.il)
  - date_published: 2024-05-06T15:46:46.005226+00:00
 
  ## משרד פרסום ירדן דיגיטל- קידום אתרים, פרסום בפייסבוק, קידום באינסטגרם, יוטיוב
@@ -357,7 +451,7 @@
  - date_published: 2024-11-16T21:15:13.154811+00:00
 
  ## הארגון עולם ללא סמים אתר: עובדות על התמכרות לסמים וחומרים של מבוגרים ובני נוער, ספרי מידע על סמים, חינוך
- - [http://www.notodrugs.co.il](http://www.notodrugs.co.il)
+ - [https://notodrugs.co.il](https://notodrugs.co.il)
  - date_published: 2024-09-04T17:52:43.122283+00:00
 
  ## נוי השדה: משלוח פירות וירקות אונליין מהחקלאי לצרכן ועד פתח הבית
@@ -385,11 +479,11 @@
  - date_published: 2024-05-10T05:56:51.602072+00:00
 
  ## גלו את כוחם של רכבי אופל | אופל ישראל | Opel Israel
- - [https://www.opel.co.il](https://www.opel.co.il)
+ - [https://opel.co.il](https://opel.co.il)
  - date_published: 2024-07-11T08:01:51+00:00
 
  ## בנק דיסקונט
- - [https://www.openbanking.co.il](https://www.openbanking.co.il)
+ - [https://openbanking.co.il](https://openbanking.co.il)
  - date_published: 2024-06-16T12:34:46.723362+00:00
 
  ## הפקת כנסים בינלאומיים, אירועים, תערוכות ושירותי תיירות - ארטרא
@@ -397,7 +491,7 @@
  - date_published: 2024-10-21T21:57:50.040794+00:00
 
  ## דף הבית - אוכל טוב, חיים טובים
- - [https://www.osem-nestle.co.il](https://www.osem-nestle.co.il)
+ - [https://osem-nestle.co.il](https://osem-nestle.co.il)
  - date_published: 2024-09-14T23:42:06+00:00
 
  ## הריון ולידה, התפתחות התינוק ועצות להורות מוצלחת | פמפרס
@@ -405,7 +499,7 @@
  - date_published: 2024-10-28T22:52:22+00:00
 
  ## פרי הנדסת תבניות בע"מ
- - [https://www.peri.co.il](https://www.peri.co.il)
+ - [https://peri.co.il](https://peri.co.il)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Philips - ישראל
@@ -419,9 +513,10 @@
  ## pro-mas – שירותי מס ומיצוי זכויות לשכירים
  - [https://pro-mas.co.il](https://pro-mas.co.il)
  - date_published: 2024-07-09T07:25:04.563367+00:00
+ - date_dead_since: 2025-01-05T23:47:08.973402+00:00
 
  ## ראם ישראל  | RAM Israel
- - [https://www.ramtrucks.co.il](https://www.ramtrucks.co.il)
+ - [https://ramtrucks.co.il](https://ramtrucks.co.il)
  - date_published: 2024-06-19T09:10:52.423772+00:00
 
  ## Магазин ⋆ Русфуд - продукты с доставкой
@@ -437,7 +532,7 @@
  - date_published: 2024-02-11T00:00:00+00:00
 
  ## שגיב SEO קידום אתרים בגוגל
- - [http://www.sagive.co.il](http://www.sagive.co.il)
+ - [https://sagive.co.il](https://sagive.co.il)
  - date_published: 2024-06-24T05:17:20.962803+00:00
 
  ## Home Page - San Interactive
@@ -465,7 +560,7 @@
  - date_published: 2024-09-12T00:00:00+00:00
 
  ## The Shema Yisrael Torah Network, Pirchei Shoshanim, and The Shulchan Aruch Learning Project
- - [http://www.shemayisrael.co.il](http://www.shemayisrael.co.il)
+ - [https://shemayisrael.co.il](https://shemayisrael.co.il)
  - date_published: 2024-01-31T19:10:22+00:00
 
  ## שיווקנט - פתרונות שיווק באינטרנט לעסקים קטנים וחברות
@@ -481,7 +576,7 @@
  - date_published: 2024-05-11T00:00:00+00:00
 
  ## Skyscanner
- - [https://www.skyscanner.co.il](https://www.skyscanner.co.il)
+ - [https://skyscanner.co.il](https://skyscanner.co.il)
  - date_published: 2024-05-14T10:10:11+00:00
 
  ## דף הבית • מכון דוידסון לחינוך מדעי
@@ -489,7 +584,7 @@
  - date_published: 2024-09-17T17:49:49.125230+00:00
 
  ## Sony ישראל | חדשות הטכנולוגיה העדכניות | אלקטרוניקה | בידור
- - [https://www.sony.co.il](https://www.sony.co.il)
+ - [https://sony.co.il](https://sony.co.il)
  - date_published: 2024-10-21T07:38:51.561235+00:00
 
  ## Sony Semiconductor Israel
@@ -509,7 +604,7 @@
  - date_published: 2024-10-28T20:50:20.062344+00:00
 
  ## Strana.co.il | Новости Израиля, мира, экономики, шоу бизнеса, аналитика, туризм, гороскопы, курс шекеля | Погода в Израиле
- - [http://www.strana.co.il](http://www.strana.co.il)
+ - [https://strana.co.il](https://strana.co.il)
  - date_published: 2024-08-11T22:19:40.314713+00:00
 
  ## דף הבית
@@ -521,7 +616,7 @@
  - date_published: 2024-06-15T01:27:10.673811+00:00
 
  ## טופר (T.co.il) – העסקים המומלצים ביותר בסביבה
- - [https://www.t.co.il](https://www.t.co.il)
+ - [https://t.co.il](https://t.co.il)
  - date_published: 2024-08-18T13:38:08.068908+00:00
 
  ## IIS Windows Server
@@ -533,19 +628,19 @@
  - date_published: 2024-05-09T09:25:27.435818+00:00
 
  ## טרגט מערכות
- - [http://www.target.co.il](http://www.target.co.il)
- - date_published: 2024-10-21T21:57:42.666909+00:00
+ - [https://target.co.il](https://target.co.il)
+ - date_published: 2020-05-21T08:58:51+00:00
 
  ## Toolbox digital media | Product. UX. Design.
- - [http://www.tbdm.co.il](http://www.tbdm.co.il)
+ - [https://tbdm.co.il](https://tbdm.co.il)
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## אחסון אתרים | קניית דומיין | שרתים | Hosting
- - [https://www.thespoiler.co.il](https://www.thespoiler.co.il)
- - date_published: 2024-10-20T21:36:47.359749+00:00
+ - [https://thespoiler.co.il](https://thespoiler.co.il)
+ - date_published: 2023-03-26T08:59:27+00:00
 
  ## קטלוג, חוברת, ספר דיגיטלי - טיקטקתי
- - [https://www.tiktakti.co.il](https://www.tiktakti.co.il)
+ - [https://tiktakti.co.il](https://tiktakti.co.il)
  - date_published: 2024-08-19T14:03:11.973030+00:00
 
  ## טיים אאוט
@@ -553,67 +648,68 @@
  - date_published: 2024-07-16T21:34:22+00:00
 
  ## Ticketmaster Israel
- - [https://www.tmisrael.co.il](https://www.tmisrael.co.il)
+ - [https://tmisrael.co.il](https://tmisrael.co.il)
  - date_published: 2024-09-09T23:58:12.225716+00:00
 
  ## toMix | עולם של חוויות שוות באמת
- - [https://www.to-mix.co.il](https://www.to-mix.co.il)
+ - [https://to-mix.co.il](https://to-mix.co.il)
  - date_published: 2024-08-19T00:00:00+00:00
 
  ## IIS Windows Server
  - [https://careers.topmatch.co.il](https://careers.topmatch.co.il)
  - date_published: 2023-05-15T08:40:02+00:00
 
+ ## ISRAEL EARTH PRIZE
+ - [https://israelearthprize.toyota.co.il](https://israelearthprize.toyota.co.il)
+ - date_published: 2024-10-16T15:33:27.116558+00:00
+
  ## Slika
  - [https://online.toyota.co.il](https://online.toyota.co.il)
  - date_published: 2024-10-16T15:33:25.952763+00:00
 
  ## טויוטה ישראל | LET'S GO BEYOND | Toyota israel
+ - [https://toyota.co.il](https://toyota.co.il)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## טויוטה ישראל | LET'S GO BEYOND | Toyota israel
  - [https://union-motors.toyota.co.il](https://union-motors.toyota.co.il)
  - date_published: 2024-09-05T00:00:00+00:00
 
- ## ISRAEL EARTH PRIZE
- - [https://www.israelearthprize.toyota.co.il](https://www.israelearthprize.toyota.co.il)
- - date_published: 2024-10-16T15:33:27.116558+00:00
-
- ## טויוטה ישראל | LET'S GO BEYOND | Toyota israel
- - [https://www.toyota.co.il](https://www.toyota.co.il)
- - date_published: 2024-02-28T00:00:00+00:00
-
  ## Toyota Select
- - [https://www.toyota-select.co.il](https://www.toyota-select.co.il)
+ - [https://toyota-select.co.il](https://toyota-select.co.il)
  - date_published: 2024-10-16T15:33:24.636333+00:00
 
  ## בניית אתרים
- - [https://www.tqsoft.co.il](https://www.tqsoft.co.il)
+ - [https://tqsoft.co.il](https://tqsoft.co.il)
  - date_published: 2024-07-09T07:16:01.729126+00:00
 
  ## Kae Sites – Websites
- - [https://www.trafficbox.co.il](https://www.trafficbox.co.il)
+ - [https://trafficbox.co.il](https://trafficbox.co.il)
  - date_published: 2024-08-08T10:57:16.990171+00:00
 
  ## טריוטק - אתר הבית
  - [https://triotech.co.il](https://triotech.co.il)
  - date_published: 2024-05-04T14:44:17.405340+00:00
+ - date_dead_since: 2025-01-05T23:51:54.555960+00:00
 
  ## Tripadvisor: מעל מיליארד חוות דעת ושיתופים של מלונות, אטרקציות, מסעדות ועוד
- - [https://www.tripadvisor.co.il](https://www.tripadvisor.co.il)
+ - [https://tripadvisor.co.il](https://tripadvisor.co.il)
  - date_published: 2024-06-23T09:26:55.434523+00:00
 
  ## trivago.co.il - Compare hotel prices worldwide
- - [https://www.trivago.co.il](https://www.trivago.co.il)
+ - [https://trivago.co.il](https://trivago.co.il)
  - date_published: 2024-09-04T11:19:32.445698+00:00
 
  ## אחסון אתרים בישראל
- - [https://www.tux.co.il](https://www.tux.co.il)
+ - [https://tux.co.il](https://tux.co.il)
  - date_published: 2024-09-17T17:49:39.640514+00:00
 
  ## Tyco - Creating Websites
- - [https://www.tyco.co.il](https://www.tyco.co.il)
+ - [https://tyco.co.il](https://tyco.co.il)
  - date_published: 2021-12-08T00:00:00+00:00
 
  ## מערכת לבניית אתרים בחינם|בנה אתר בחינם
- - [https://www.ucoz.co.il](https://www.ucoz.co.il)
+ - [https://ucoz.co.il](https://ucoz.co.il)
  - date_published: 2024-07-13T21:02:47.446938+00:00
 
  ## שיווק דיגיטלי עם חברת המדיה הדיגיטלית המובילה בישראל | McCann Digital
@@ -625,15 +721,15 @@
  - date_published: 2024-08-11T00:00:00+00:00
 
  ## 'מאוחדים למען זכויות האדם', חומרים חינוכיים, קטעי וידיאו
- - [http://www.unitedforhumanrights.co.il](http://www.unitedforhumanrights.co.il)
+ - [https://unitedforhumanrights.co.il](https://unitedforhumanrights.co.il)
  - date_published: 2024-09-04T17:52:35.603952+00:00
 
  ## מערכת FAST | דף הבית
  - [https://system.user-a.co.il](https://system.user-a.co.il)
- - date_published: 2024-06-15T10:21:44.165445+00:00
+ - date_published: 2018-07-19T04:35:24+00:00
 
  ## ועד עובדי MAX - אתר ועד עובדי MAX מקס
- - [https://www.vaadmax.co.il](https://www.vaadmax.co.il)
+ - [https://vaadmax.co.il](https://vaadmax.co.il)
  - date_published: 2024-01-16T00:00:00+00:00
 
  ## Vee – הנגשת אתרים
@@ -645,19 +741,19 @@
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## ויזה, מובילה בתשלומים דיגיטליים בטוחים
- - [https://visa.co.il](https://visa.co.il)
+ - [http://visa.co.il](http://visa.co.il)
  - date_published: 2024-05-12T04:00:10.210788+00:00
 
  ## ראשי
- - [https://www.vitamix-israel.co.il](https://www.vitamix-israel.co.il)
+ - [https://vitamix-israel.co.il](https://vitamix-israel.co.il)
  - date_published: 2024-07-04T17:32:31.582635+00:00
 
  ## דף הבית של היועצים הרוחניים המתנדבים של סיינטולוגיה, ערכת מידע בחינם, VMs בפעולה, קורסים און-ליין בחינם, מרכז מידע אינטראקטיבי
- - [http://www.vmisrael.co.il](http://www.vmisrael.co.il)
+ - [https://vmisrael.co.il](https://vmisrael.co.il)
  - date_published: 2024-09-04T17:52:15.186901+00:00
 
  ## Home - Alexander Volkov - Web Developer
- - [http://volkov.co.il](http://volkov.co.il)
+ - [https://volkov.co.il](https://volkov.co.il)
  - date_published: 2023-01-13T00:00:00+00:00
 
  ## וואלה Apps
@@ -883,6 +979,7 @@
  ## וואלה טוב לדעת  - וואלה טוב לדעת
  - [https://tld.walla.co.il](https://tld.walla.co.il)
  - date_published: 2024-09-12T00:00:00+00:00
+ - date_dead_since: 2025-01-06T00:01:21.856391+00:00
 
  ## תמיר  - וואלה מחזור זה כל הקטע
  - [https://tmirecycle.walla.co.il](https://tmirecycle.walla.co.il)
@@ -904,12 +1001,12 @@
  - [https://vod.walla.co.il](https://vod.walla.co.il)
  - date_published: 2024-09-12T00:00:00+00:00
 
- ## וואלה מזג האוויר: תחזית מזג האוויר יומית ושבועית בישראל  - וואלה מזג אויר
- - [https://weather.walla.co.il](https://weather.walla.co.il)
+ ## וואלה חדשות. ספורט. סלבס. אוכל - עדכונים ודיווחים שוטפים
+ - [https://walla.co.il](https://walla.co.il)
  - date_published: 2024-09-12T00:00:00+00:00
 
- ## וואלה חדשות. ספורט. סלבס. אוכל - עדכונים ודיווחים שוטפים
- - [https://www.walla.co.il](https://www.walla.co.il)
+ ## וואלה מזג האוויר: תחזית מזג האוויר יומית ושבועית בישראל  - וואלה מזג אויר
+ - [https://weather.walla.co.il](https://weather.walla.co.il)
  - date_published: 2024-09-12T00:00:00+00:00
 
  ## שומרים על כדור הארץ  - וואלה שומרים על כדור הארץ
@@ -925,15 +1022,15 @@
  - date_published: 2024-09-17T17:58:36.877870+00:00
 
  ## albume
- - [https://www.wallaprint.co.il](https://www.wallaprint.co.il)
+ - [https://wallaprint.co.il](https://wallaprint.co.il)
  - date_published: 2024-09-17T17:55:40.627596+00:00
 
  ## וואלה שופס
- - [https://www.wallashops.co.il](https://www.wallashops.co.il)
+ - [http://wallashops.co.il](http://wallashops.co.il)
  - date_published: 2024-09-17T17:58:10.535777+00:00
 
  ## וובסטר – הבלוג של חנן כהן
- - [http://webster.co.il](http://webster.co.il)
+ - [https://webster.co.il](https://webster.co.il)
  - date_published: 2024-07-04T03:55:17+00:00
 
  ## wpPlugins פיתוח תוספי וורדפרס
@@ -943,9 +1040,10 @@
  ## אתר המנויים וההטבות של ידיעות אחרונות
  - [https://yedioth.co.il](https://yedioth.co.il)
  - date_published: 2024-03-07T00:00:00+00:00
+ - date_dead_since: 2025-01-06T00:02:31.151605+00:00
 
  ## פלאנט- כל הסרטים החדשים
- - [http://www.yesplanet.co.il](http://www.yesplanet.co.il)
+ - [https://yesplanet.co.il](https://yesplanet.co.il)
  - date_published: 2024-07-23T00:00:00+00:00
 
  ## mynet - מיינט - mynet - חדשות מקומיות
@@ -1009,11 +1107,11 @@
  - date_published: 2020-12-05T18:11:21+00:00
 
  ## ZEISS Israel
- - [https://www.zeiss.co.il](https://www.zeiss.co.il)
+ - [https://zeiss.co.il](https://zeiss.co.il)
  - date_published: 2024-09-16T07:55:45.530921+00:00
 
  ## זמן ישראל | פוליטיקה · מדיניות · כלכלה · שלטון החוק
- - [https://www.zman.co.il](https://www.zman.co.il)
+ - [https://zman.co.il](https://zman.co.il)
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## Zoetis
@@ -1023,16 +1121,18 @@
  ## דף הבית | קמפוס IL
  - [https://campus.gov.il](https://campus.gov.il)
  - date_published: 2024-07-21T23:24:22.789887+00:00
+ - date_dead_since: 2025-01-06T00:26:06.115709+00:00
 
  ## הלשכה המרכזית לסטטיסטיקה - cbs.gov.il
  - [https://cbs.gov.il](https://cbs.gov.il)
  - date_published: 2024-06-09T00:00:00+00:00
 
- - [https://supreme.court.gov.il](https://supreme.court.gov.il)
+ ## בית המשפט העליון של ישראל
+ - [http://supreme.court.gov.il](http://supreme.court.gov.il)
  - date_published: 2024-01-09T03:32:15.467545+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.gov.il](https://www.gov.il)
+ - [http://gov.il](http://gov.il)
  - date_published: 2024-07-14T21:50:46.854906+00:00
 
  ## https://www.idf.il
@@ -1040,35 +1140,36 @@
  - date_published: 2023-11-13T20:52:27.483837+00:00
 
  ## Attention Required! | Cloudflare
- - [https://acum.org.il](https://acum.org.il)
+ - [http://acum.org.il](http://acum.org.il)
  - date_published: 2024-05-10T05:57:02.182767+00:00
 
  ## עמותת תפוח – Appleseeds – עמותת תפוח
  - [https://appleseeds.org.il](https://appleseeds.org.il)
  - date_published: 2024-07-04T12:27:41.249084+00:00
+ - date_dead_since: 2025-01-06T00:28:31.129647+00:00
 
  ## אגודת הסטודנטים בר אילן
- - [https://www.bis.org.il](https://www.bis.org.il)
+ - [https://bis.org.il](https://bis.org.il)
  - date_published: 2024-08-07T15:11:49.111069+00:00
 
  ## אתר בנק ישראל | הבנק המרכזי
- - [https://www.boi.org.il](https://www.boi.org.il)
+ - [https://boi.org.il](https://boi.org.il)
  - date_published: 2024-10-06T17:00:50.255262+00:00
 
  ## Breaking the Silence
- - [https://www.breakingthesilence.org.il](https://www.breakingthesilence.org.il)
+ - [https://breakingthesilence.org.il](https://breakingthesilence.org.il)
  - date_published: 2024-06-18T16:24:43.641332+00:00
 
  ## Homepage - BSF
- - [http://www.bsf.org.il](http://www.bsf.org.il)
+ - [https://bsf.org.il](https://bsf.org.il)
  - date_published: 2024-10-27T07:55:20+00:00
 
  ## עמותת מגן לזכויות אנושדף הבית של CCHR צפה בתשדירי השירות
- - [http://www.cchr-israel.org.il](http://www.cchr-israel.org.il)
+ - [https://cchr-israel.org.il](https://cchr-israel.org.il)
  - date_published: 0001-01-01T00:00:00+00:00
 
  ## עיר דוד - לסייר בין שכבות ההיסטוריה ולהתחבר לשורשים
- - [http://www.cityofdavid.org.il](http://www.cityofdavid.org.il)
+ - [https://cityofdavid.org.il](https://cityofdavid.org.il)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## מוזיאון גן המדע ע"ש קלור
@@ -1076,7 +1177,7 @@
  - date_published: 2024-06-15T01:34:50+00:00
 
  ## The Dead Sea Scrolls
- - [https://www.deadseascrolls.org.il](https://www.deadseascrolls.org.il)
+ - [https://deadseascrolls.org.il](https://deadseascrolls.org.il)
  - date_published: 2024-06-23T18:06:08.252850+00:00
 
  ## דיאנטיקה: המדע המודרני של בריאות הנפש
@@ -1084,7 +1185,7 @@
  - date_published: 2024-06-17T16:42:14.923914+00:00
 
  ## תולדות הדיגיטל בישראל – ארכיון תולדות המיחשוב, האינטרנט וההייטק בישראל
- - [https://www.digital-archive.org.il](https://www.digital-archive.org.il)
+ - [https://digital-archive.org.il](https://digital-archive.org.il)
  - date_published: 2024-07-04T00:00:00+00:00
 
  ## קרן אדמונד דה רוטשילד
@@ -1100,47 +1201,48 @@
  - date_published: 2024-06-24T00:00:00+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.football.org.il](https://www.football.org.il)
+ - [http://football.org.il](http://football.org.il)
  - date_published: 2024-07-21T21:39:15.959199+00:00
 
  ## בתוך Scientology – הסיפור הלא מצונזר
- - [https://www.freedommag.org.il](https://www.freedommag.org.il)
+ - [https://freedommag.org.il](https://freedommag.org.il)
  - date_published: 0001-01-01T00:00:00+00:00
 
  ## GFI Israel – the Good Food Institute Israel - GFI Israel
  - [https://gfi.org.il](https://gfi.org.il)
  - date_published: 2021-05-14T14:45:29+00:00
+ - date_dead_since: 2025-01-06T00:29:40.078062+00:00
 
  ## GopherCon Israel 2025
  - [https://www.gophercon.org.il](https://www.gophercon.org.il)
  - date_published: 2024-12-29T07:46:52+00:00
 
+ ## המקור
+ - [https://hamakor.org.il](https://hamakor.org.il)
+ - date_published: 2024-07-04T12:26:51.616759+00:00
+
  ## פלאנט תוכנה חופשית בישראל (Planet FOSS-IL)
  - [https://planet.hamakor.org.il](https://planet.hamakor.org.il)
  - date_published: 2024-06-30T21:28:05.658029+00:00
-
- ## המקור
- - [https://www.hamakor.org.il](https://www.hamakor.org.il)
- - date_published: 2024-07-04T12:26:51.616759+00:00
 
  ## Main Page - Shalom Hartman Institute
  - [https://hartman.org.il](https://hartman.org.il)
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## מפעל המילון ההיסטורי
- - [http://maagarim.hebrew-academy.org.il](http://maagarim.hebrew-academy.org.il)
+ - [https://maagarim.hebrew-academy.org.il](https://maagarim.hebrew-academy.org.il)
  - date_published: 2024-09-17T17:53:32.245170+00:00
 
  ## Home
- - [https://www.iaai.org.il](https://www.iaai.org.il)
+ - [https://iaai.org.il](https://iaai.org.il)
  - date_published: 2024-10-22T05:27:24.898368+00:00
 
  ## Web App - Unavailable
- - [http://www.iba.org.il](http://www.iba.org.il)
+ - [https://iba.org.il](https://iba.org.il)
  - date_published: 2024-06-27T07:47:33.867124+00:00
 
  ## בית הספר למדעי המחשב
- - [http://www.icore-algo.org.il](http://www.icore-algo.org.il)
+ - [https://www.icore-algo.org.il](https://www.icore-algo.org.il)
  - date_published: 2024-08-07T11:29:18+00:00
 
  ## https://en.idi.org.il
@@ -1152,11 +1254,11 @@
  - date_published: 2024-06-26T18:34:34+00:00
 
  ## Home | IMU
- - [https://www.imu.org.il](https://www.imu.org.il)
+ - [https://imu.org.il](https://imu.org.il)
  - date_published: 2024-07-04T17:14:49.920950+00:00
 
  ## עמותת עינבר - עמותה ישראלית לנפגעי מחלות ראומטיות, אוטואימוניות ודלקתיות
- - [https://www.inbar.org.il](https://www.inbar.org.il)
+ - [https://inbar.org.il](https://inbar.org.il)
  - date_published: 2024-06-28T12:06:17.161336+00:00
 
  ## חנן כהן / מידע דיגיטאלי
@@ -1172,26 +1274,27 @@
  - date_published: 2024-12-31T22:02:47.339060+00:00
 
  ## לא רלוונטי | חנן כהן מגיב על מכתבי שרשרת ושמועות אינטרנט – מאז 2002
- - [http://irrelevant.org.il](http://irrelevant.org.il)
+ - [https://irrelevant.org.il](https://irrelevant.org.il)
  - date_published: 2024-07-04T08:25:20.427940+00:00
 
  ## Israel Science Foundation (ISF)
- - [http://isf.org.il](http://isf.org.il)
+ - [https://isf.org.il](https://isf.org.il)
  - date_published: 2024-05-15T13:58:57+00:00
 
  ## התאחדות משרדי הנסיעות ויועצי התיירות בישראל
- - [http://www.ittaa.org.il](http://www.ittaa.org.il)
+ - [https://ittaa.org.il](https://ittaa.org.il)
  - date_published: 2024-10-21T21:57:40.691149+00:00
 
  ## עמוד הבית - המרכז הירושלמי לענייני חוץ וביטחון
- - [http://jcpa.org.il](http://jcpa.org.il)
+ - [https://jcpa.org.il](https://jcpa.org.il)
  - date_published: 2024-09-17T20:39:44+00:00
 
- - [https://kan.org.il](https://kan.org.il)
+ ## כאן 11: חדשות, רדיו, טלוויזיה, שידור חי - תאגיד השידור הישראלי
+ - [http://kan.org.il](http://kan.org.il)
  - date_published: 2024-03-07T00:00:00+00:00
 
  ## ניקיון משרדים במרכז - המקצוענים בניקיון משרדים!
- - [http://www.keshev.org.il](http://www.keshev.org.il)
+ - [https://keshev.org.il](https://keshev.org.il)
  - date_published: 2024-04-10T00:00:00+00:00
 
  ## אתר העפיפונים הישראלי
@@ -1199,11 +1302,11 @@
  - date_published: 2024-07-04T08:25:25.187432+00:00
 
  ## ל. רון האברד – המייסד של Scientology ו-Dianetics
- - [https://www.lronhubbard.org.il](https://www.lronhubbard.org.il)
+ - [https://lronhubbard.org.il](https://lronhubbard.org.il)
  - date_published: 2024-06-06T19:38:26.779991+00:00
 
  ## כתבות, תחקירים וניתוח
- - [http://mida.org.il](http://mida.org.il)
+ - [https://mida.org.il](https://mida.org.il)
  - date_published: 2024-08-18T15:32:01.680166+00:00
 
  ## עמוד הבית - עמותת מפרקים צעירים
@@ -1214,13 +1317,14 @@
  - [http://mikvah.org.il](http://mikvah.org.il)
  - date_published: 2024-12-29T20:51:51+00:00
 
+ ## הספרייה הלאומית של ישראל
+ - [https://nli.org.il](https://nli.org.il)
+ - date_published: 2024-07-02T06:04:04.523713+00:00
+
  ## Malmad Homepage
  - [http://olduli.nli.org.il](http://olduli.nli.org.il)
  - date_published: 2019-07-09T15:43:14+00:00
-
- ## הספרייה הלאומית של ישראל
- - [https://www.nli.org.il](https://www.nli.org.il)
- - date_published: 2024-07-02T06:04:04.523713+00:00
+ - date_dead_since: 2025-01-06T00:35:22.579137+00:00
 
  ## OpsSchool | DevOps | Israel
  - [https://opsschool.org.il](https://opsschool.org.il)
@@ -1234,20 +1338,20 @@
  - [https://perach.org.il](https://perach.org.il)
  - date_published: 2024-05-11T09:08:20.132479+00:00
 
+ ## המדויק והאמין ביותר
+ - [https://oca.scientology.org.il](https://oca.scientology.org.il)
+ - date_published: 2024-06-17T16:40:51.760046+00:00
+
  ## האתר הרשמי של ארגון הסיינטולוגיה: ל. רון האברד, דיאנטיקה, מהי סיינטולוגיה?, ספרים, אמונות, דיוויד מיסקביג'
  - [https://scientology.org.il](https://scientology.org.il)
  - date_published: 0001-01-01T00:00:00+00:00
 
- ## המדויק והאמין ביותר
- - [https://www.oca.scientology.org.il](https://www.oca.scientology.org.il)
- - date_published: 2024-06-17T16:40:51.760046+00:00
-
  ## דת הסיינטולוגיה – הרקע, התיאולוגיה והעיסוק הדתי
- - [https://www.scientologyreligion.org.il](https://www.scientologyreligion.org.il)
+ - [https://scientologyreligion.org.il](https://scientologyreligion.org.il)
  - date_published: 2024-06-06T19:41:18.731748+00:00
 
  ## Sefaria: a Living Library of Jewish Texts Online
- - [https://www.sefaria.org.il](https://www.sefaria.org.il)
+ - [https://sefaria.org.il](https://sefaria.org.il)
  - date_published: 2024-06-27T07:04:25.212147+00:00
 
  ## מכון התקנים הישראלי
@@ -1263,7 +1367,7 @@
  - date_published: 2023-10-01T14:48:40+00:00
 
  ## קיבוץ תמוז - הקיבוץ העירוני בבית שמש
- - [http://tamuz.org.il](http://tamuz.org.il)
+ - [https://tamuz.org.il](https://tamuz.org.il)
  - date_published: 2023-10-16T08:23:30+00:00
 
  ## Israel Tech Policy Institute
@@ -1271,7 +1375,7 @@
  - date_published: 2024-06-18T17:36:36.642568+00:00
 
  ## Home - The Meir Amit Intelligence and Terrorism Information Center
- - [http://www.terrorism-info.org.il](http://www.terrorism-info.org.il)
+ - [https://terrorism-info.org.il](https://terrorism-info.org.il)
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## העין השביעית | ביקורת תקשורת ועיתונות
@@ -1283,7 +1387,7 @@
  - date_published: 2024-07-16T19:02:43+00:00
 
  ## הדרך אל האושר: אופי מוסרי, לימוד, עצה טובה, ערכים אתיים, אמות מידה לחיים טובים יותר
- - [http://www.thewaytohappiness.org.il](http://www.thewaytohappiness.org.il)
+ - [https://thewaytohappiness.org.il](https://thewaytohappiness.org.il)
  - date_published: 2024-09-04T17:52:38.360719+00:00
 
  ## Wikimedia – מדריך לכתיבה אנציקלופדית
@@ -1299,11 +1403,11 @@
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Error Page
- - [https://yadvashem.org.il](https://yadvashem.org.il)
+ - [http://yadvashem.org.il](http://yadvashem.org.il)
  - date_published: 2024-09-19T01:16:58.947451+00:00
 
  ## ארגון סגל ההוראה והמחקר באוניברסיטת תל אביב -  דף הבית
- - [http://www.zutar.org.il](http://www.zutar.org.il)
+ - [https://zutar.org.il](https://zutar.org.il)
  - date_published: 2024-07-24T07:58:46.431854+00:00
 
  ## 11d.im
@@ -1324,7 +1428,7 @@
  - date_published: 2024-08-20T00:00:00+00:00
 
  ## The Affiliate Lab by Matt Diggity
- - [http://affiliatelab.im](http://affiliatelab.im)
+ - [https://affiliatelab.im](https://affiliatelab.im)
  - date_published: 2022-05-22T13:21:36+00:00
 
  ## Aleph.im
@@ -3927,96 +4031,4 @@ Indian Institute of Science, Bangalore
  - [https://codeutsava.nitrr.ac.in](https://codeutsava.nitrr.ac.in)
  - date_published: 2024-09-21T13:09:02+00:00
  - date_dead_since: 2024-12-24T18:53:37.972639+00:00
-
- ## ::: National Institute of Technology Raipur :::
- - [https://nitrr.ac.in](https://nitrr.ac.in)
- - date_published: 2024-09-11T17:47:11.176277+00:00
-
- ## CoMSO 2024
- - [http://comso.nits.ac.in](http://comso.nits.ac.in)
- - date_published: 2024-08-21T05:24:07+00:00
-
- ## Emerging Electronics And Automation || 2022
- - [http://e2a2022.nits.ac.in](http://e2a2022.nits.ac.in)
- - date_published: 2022-12-11T07:29:52+00:00
-
- ## ICRABS 2022
- - [http://icrabs.nits.ac.in](http://icrabs.nits.ac.in)
- - date_published: 2022-09-26T09:16:42+00:00
-
- ## MNDCS 2025
- - [http://mndcs.nits.ac.in](http://mndcs.nits.ac.in)
- - date_published: 2024-12-06T03:17:27+00:00
-
- ## SIPCOV 2025
- - [http://sipcov.nits.ac.in](http://sipcov.nits.ac.in)
- - date_published: 2024-10-16T00:59:36+00:00
-
- ## National Institute of Technology, Silchar
- - [https://www.nits.ac.in](https://www.nits.ac.in)
- - date_published: 2024-09-11T17:52:50.742009+00:00
-
- ## NIT Sikkim | Home
- - [https://nitsikkim.ac.in](https://nitsikkim.ac.in)
- - date_published: 2024-09-11T17:38:43.733029+00:00
-
- ## T&P Cell - NIT Sikkim
- - [https://placement.nitsikkim.ac.in](https://placement.nitsikkim.ac.in)
- - date_published: 2024-12-24T19:13:09.399583+00:00
-
- ## NIT Srinagar
- - [https://nitsri.ac.in](https://nitsri.ac.in)
- - date_published: 2024-09-11T17:45:23.367351+00:00
-
- ## NITTTR Chandigarh : एनआईटीटीटीआर चंडीगढ़
- - [https://nitttrchd.ac.in](https://nitttrchd.ac.in)
- - date_published: 2024-09-11T17:56:19.835495+00:00
-
- ## NITTTR, Kolkata
- - [http://www.nitttrkol.ac.in](http://www.nitttrkol.ac.in)
- - date_published: 2024-09-11T17:45:04.982003+00:00
-
- ## National Institute of Technology, Uttarakhand
- - [https://nituk.ac.in](https://nituk.ac.in)
- - date_published: 2024-09-11T17:38:37.289888+00:00
-
- ## National Institute of Technology, Uttarakhand
- - [https://portfolios.nituk.ac.in](https://portfolios.nituk.ac.in)
- - date_published: 2024-12-24T19:21:31.106376+00:00
-
- ## NIT Warangal
- - [https://nitw.ac.in](https://nitw.ac.in)
- - date_published: 2024-09-10T14:17:48+00:00
-
- ## National Law School of India University -
- - [https://www.nls.ac.in](https://www.nls.ac.in)
- - date_published: 2024-12-24T12:45:09.106488+00:00
-
- ## NLUJAA
- - [http://www.nluassam.ac.in](http://www.nluassam.ac.in)
- - date_published: 2024-12-24T12:43:40.185567+00:00
-
- ## National Law University
- - [http://www.nlujodhpur.ac.in](http://www.nlujodhpur.ac.in)
- - date_published: 2024-12-24T12:44:34.656021+00:00
-
- ## National Law University, Nagpur
- - [http://www.nlunagpur.ac.in](http://www.nlunagpur.ac.in)
- - date_published: 2024-12-24T12:43:48.435369+00:00
-
- ## NMEICT | National Mission on Education through Information and Communication Technology
- - [https://nmeict.ac.in](https://nmeict.ac.in)
- - date_published: 2024-06-12T11:10:48.645709+00:00
-
- ## NPTEL IITm
- - [https://nptel.ac.in](https://nptel.ac.in)
- - date_published: 2024-06-22T11:32:34.187507+00:00
-
- ## NTA Exam  | India
- - [https://exams.nta.ac.in](https://exams.nta.ac.in)
- - date_published: 2024-07-11T12:44:18+00:00
-
- ## Fit-India
- - [https://fitindia.nta.ac.in](https://fitindia.nta.ac.in)
- - date_published: 2024-12-25T00:28:39.609649+00:00
 

@@ -1,3 +1,91 @@
+ ## Home | Duke Pratt School of Engineering
+ - [https://pratt.duke.edu](https://pratt.duke.edu)
+ - date_published: 2023-12-11T12:00:31.232853+00:00
+
+ ## Home | Emergency Management
+ - [https://prepare.duke.edu](https://prepare.duke.edu)
+ - date_published: 2024-09-26T17:28:06+00:00
+
+ ## Office of the President - Duke University | Office of the President
+ - [https://president.duke.edu](https://president.duke.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Front Page | Program II
+ - [https://program2.duke.edu](https://program2.duke.edu)
+ - date_published: 2024-07-21T08:25:02+00:00
+
+ ## Office of The Provost | Office of the Provost
+ - [https://provost.duke.edu](https://provost.duke.edu)
+ - date_published: 2024-06-16T07:14:36+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://proxy.lib.duke.edu](https://proxy.lib.duke.edu)
+ - date_published: 2024-06-30T01:25:47.557797+00:00
+
+ ## PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
+ - [https://pulse.cs.duke.edu](https://pulse.cs.duke.edu)
+ - date_published: 2024-07-22T05:54:06.970804+00:00
+
+ ## QuadEx – The future of residential living & learning at Duke
+ - [https://quadex.duke.edu](https://quadex.duke.edu)
+ - date_published: 2024-09-26T17:58:15.282140+00:00
+
+ ## Search Results | Duke University Libraries
+ - [https://quicksearch.library.duke.edu](https://quicksearch.library.duke.edu)
+ - date_published: 2024-09-26T18:01:47.579201+00:00
+
+ ## Advancing Racial Equity at Duke
+ - [https://racialequity.duke.edu](https://racialequity.duke.edu)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Duke Recreation & Physical Education | Recreation & Physical Education
+ - [https://recreation.duke.edu](https://recreation.duke.edu)
+ - date_published: 2024-09-04T18:18:42+00:00
+
+ ## Homepage | Office of the University Registrar
+ - [https://registrar.duke.edu](https://registrar.duke.edu)
+ - date_published: 2024-06-16T07:09:46+00:00
+
+ ## Front Page | Religious Studies
+ - [https://religiousstudies.duke.edu](https://religiousstudies.duke.edu)
+ - date_published: 2024-06-28T19:30:04+00:00
+
+ ## Home | Remote Work
+ - [https://remotework.duke.edu](https://remotework.duke.edu)
+ - date_published: 2024-08-06T17:33:49+00:00
+
+ ## Duke Digital Repository
+ - [https://repository.duke.edu](https://repository.duke.edu)
+ - date_published: 2024-09-26T18:01:49.895685+00:00
+
+ ## Research Blog
+ - [https://researchblog.duke.edu](https://researchblog.duke.edu)
+ - date_published: 2024-06-16T07:18:15.680784+00:00
+
+ ## Homepage | Duke Research & Innovation
+ - [https://research.duke.edu](https://research.duke.edu)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Home | Research Funding
+ - [https://researchfunding.duke.edu](https://researchfunding.duke.edu)
+ - date_published: 2024-06-16T07:17:28.034961+00:00
+
+ ## Front Page | Department of Romance Studies
+ - [https://romancestudies.duke.edu](https://romancestudies.duke.edu)
+ - date_published: 2024-09-26T15:49:27+00:00
+
+ ## Duke Cvent
+ - [https://rsvp.duke.edu](https://rsvp.duke.edu)
+ - date_published: 2024-09-26T18:01:39.932632+00:00
+
+ ## Homepage | Sanford School of Public Policy
+ - [https://sanford.duke.edu](https://sanford.duke.edu)
+ - date_published: 2024-05-22T02:44:42.656403+00:00
+
+ ## Scholars@Duke Home Page
+ - [https://scholars.duke.edu](https://scholars.duke.edu)
+ - date_published: 2024-08-18T08:11:30.398986+00:00
+
  ## Duke Law Scholarship Repository | Duke Law Research
  - [https://scholarship.law.duke.edu](https://scholarship.law.duke.edu)
  - date_published: 2024-05-09T02:38:12.169132+00:00
@@ -3916,94 +4004,4 @@
  ## Financial Aid
  - [http://financialaid.gmu.edu](http://financialaid.gmu.edu)
  - date_published: 2024-08-08T20:52:30+00:00
-
- ## First-Gen+ Center
- - [https://firstgen.gmu.edu](https://firstgen.gmu.edu)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Fiscal Services – George Mason University
- - [https://fiscal.gmu.edu](https://fiscal.gmu.edu)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Flexible Work – Human Resources | George Mason University
- - [https://flexwork.gmu.edu](https://flexwork.gmu.edu)
- - date_published: 2024-08-06T17:47:00.906892+00:00
-
- ## Global Antitrust Institute
- - [https://gai.gmu.edu](https://gai.gmu.edu)
- - date_published: 2024-07-21T23:20:44.755364+00:00
-
- ## George Mason University Computer Game Design Program
- - [https://game.gmu.edu](https://game.gmu.edu)
- - date_published: 2024-07-21T18:55:06+00:00
-
- ## Home
- - [https://gch.gmu.edu](https://gch.gmu.edu)
- - date_published: 2024-04-30T04:27:37.154365+00:00
-
- ## George Mason University
- - [https://getconnected.gmu.edu](https://getconnected.gmu.edu)
- - date_published: 2024-07-22T02:58:23.521723+00:00
-
- ## Get the App! - George Mason University
- - [http://gettheapp.gmu.edu](http://gettheapp.gmu.edu)
- - date_published: 2024-08-08T20:52:34.417234+00:00
-
- ## Home - Giving to GMU | George Mason University Advancement
- - [https://giving.gmu.edu](https://giving.gmu.edu)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## home
- - [https://globalaffairs.gmu.edu](https://globalaffairs.gmu.edu)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Global Wealth Management
- - [https://globalwealth.law.gmu.edu](https://globalwealth.law.gmu.edu)
- - date_published: 2024-07-21T23:20:08.043558+00:00
-
- ## Home
- - [https://gmu.edu](https://gmu.edu)
- - date_published: 2024-04-30T04:28:24.321720+00:00
- - tags: ['university', 'george mason']
-
- ## Home
- - [https://go.gmu.edu](https://go.gmu.edu)
- - date_published: 2024-07-21T19:55:28+00:00
-
- ## Graduate Student Life
- - [https://gradlife.gmu.edu](https://gradlife.gmu.edu)
- - date_published: 2024-08-10T19:48:07+00:00
-
- ## University Sustainability – George Mason University
- - [https://green.gmu.edu](https://green.gmu.edu)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Sign In | Handshake
- - [https://handshake.gmu.edu](https://handshake.gmu.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Robin Hanson
- - [https://hanson.gmu.edu](https://hanson.gmu.edu)
- - date_published: 2024-04-25T14:27:38+00:00
-
- ## HAP Home Page
- - [https://hap.gmu.edu](https://hap.gmu.edu)
- - date_published: 2024-04-30T04:28:17.157806+00:00
-
- ## home
- - [https://highered.gmu.edu](https://highered.gmu.edu)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Health Informatics Programs
- - [http://hi.gmu.edu](http://hi.gmu.edu)
- - date_published: 2024-07-22T02:55:59+00:00
-
- ## home
- - [https://historyarthistory.gmu.edu](https://historyarthistory.gmu.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## History Matters: The U.S. Survey Course on the Web
- - [https://historymatters.gmu.edu](https://historymatters.gmu.edu)
- - date_published: 2023-11-28T07:44:03+00:00
- - tags: ['university', 'george mason']
 

@@ -1,3 +1,91 @@
+ ## Center for Computation & Technology | Interdisciplinary  |  Innovative  | Inventive
+ - [https://cct.lsu.edu](https://cct.lsu.edu)
+ - date_published: 2024-05-08T09:32:45.803687+00:00
+
+ ## COLLEGE OF ART & DESIGN
+ - [https://design.lsu.edu](https://design.lsu.edu)
+ - date_published: 2024-07-01T14:40:51.559571+00:00
+
+ ## LSU Giving Day
+ - [https://givingday.lsu.edu](https://givingday.lsu.edu)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## GROK Knowledge Base
+ - [http://grok.lsu.edu](http://grok.lsu.edu)
+ - date_published: 2024-07-01T14:42:10.174092+00:00
+
+ ## Highland Road Park Observatory
+ - [https://hrpo.lsu.edu](https://hrpo.lsu.edu)
+ - date_published: 2024-08-11T23:29:53.016186+00:00
+
+ ## Home
+ - [https://itservice.lsu.edu](https://itservice.lsu.edu)
+ - date_published: 2024-05-07T19:30:45.434428+00:00
+
+ ## Welcome to LSU, a top research university | Baton Rouge, La.
+ - [https://lsu.edu](https://lsu.edu)
+ - date_published: 2024-05-07T19:30:48.158325+00:00
+
+ ## Louisiana State University LSU
+ - [https://map.lsu.edu](https://map.lsu.edu)
+ - date_published: 2024-07-01T14:40:42.568388+00:00
+
+ ## myLSU - Single Sign On
+ - [https://mylsu.apps.lsu.edu](https://mylsu.apps.lsu.edu)
+ - date_published: 2024-05-07T19:30:59.182311+00:00
+
+ ## LSU Online
+ - [https://online.lsu.edu](https://online.lsu.edu)
+ - date_published: 2024-07-01T14:40:26.617404+00:00
+
+ ## Pre-College Programs
+ - [https://precollege.lsu.edu](https://precollege.lsu.edu)
+ - date_published: 2024-07-01T14:40:32.271999+00:00
+
+ ## LSU Scholarly Repository | Louisiana State University Research
+ - [https://repository.lsu.edu](https://repository.lsu.edu)
+ - date_published: 2024-06-30T02:30:53.509351+00:00
+
+ ## Home | SciViz
+ - [http://sciviz.cct.lsu.edu](http://sciviz.cct.lsu.edu)
+ - date_published: 2013-04-09T20:36:37+00:00
+
+ ## Louisiana State University
+ - [https://tigerlink.lsu.edu](https://tigerlink.lsu.edu)
+ - date_published: 2024-05-07T19:30:53.429998+00:00
+
+ ## LSU TigerWare Online
+ - [http://tigerware.lsu.edu](http://tigerware.lsu.edu)
+ - date_published: 2024-07-07T05:34:22.150397+00:00
+
+ ## Electrical & Computer Engineering, Division of
+ - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
+ - date_published: 2023-10-25T11:24:20.932943+00:00
+
+ ## High Performance Computing | Louisiana State University
+ - [http://www.hpc.lsu.edu](http://www.hpc.lsu.edu)
+ - date_published: 2024-07-07T05:34:20.231485+00:00
+
+ ## LSU Law
+ - [http://www.law.lsu.edu](http://www.law.lsu.edu)
+ - date_published: 2024-06-17T11:15:28+00:00
+
+ ## Welcome to LSU Libraries | LSU Libraries
+ - [https://www.lib.lsu.edu](https://www.lib.lsu.edu)
+ - date_published: 2024-07-01T14:40:47.428824+00:00
+
+ ## LSU Math team awarded NSF Research Training Grant | LSU Math
+ - [https://www.math.lsu.edu](https://www.math.lsu.edu)
+ - date_published: 2024-07-02T09:18:32+00:00
+
+ ## Home | LSU Online and Continuing Education
+ - [https://www.outreach.lsu.edu](https://www.outreach.lsu.edu)
+ - date_published: 2024-07-01T14:41:09.158405+00:00
+
+ ## LSU Office of Research & Economic Development
+ - [http://www.research.lsu.edu](http://www.research.lsu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## LSU Alexandria
  - [https://www.lsua.edu](https://www.lsua.edu)
  - date_published: 2024-12-21T21:28:22.887769+00:00
@@ -3917,93 +4005,4 @@
  ## Campus Directory | NC State University
  - [https://directory.ncsu.edu](https://directory.ncsu.edu)
  - date_published: 2024-08-07T16:55:01.510932+00:00
-
- ## See Yourself at NC State | Undergraduate Admissions
- - [https://discover.admissions.ncsu.edu](https://discover.admissions.ncsu.edu)
- - date_published: 2024-03-14T03:13:23+00:00
-
- ## Office for Institutional Equity and Diversity
- - [https://diversity.ncsu.edu](https://diversity.ncsu.edu)
- - date_published: 2024-07-01T12:24:02+00:00
-
- ## NCSU Libraries' Digital Collections
- - [https://d.lib.ncsu.edu](https://d.lib.ncsu.edu)
- - date_published: 2024-07-18T04:42:14.525723+00:00
-
- ## Disability Resources Office
- - [https://dro.dasa.ncsu.edu](https://dro.dasa.ncsu.edu)
- - date_published: 2024-07-01T15:56:02.465718+00:00
-
- ## Duplin County Center | N.C. Cooperative Extension
- - [https://duplin.ces.ncsu.edu](https://duplin.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:07.162622+00:00
-
- ## Durham County Center | N.C. Cooperative Extension
- - [https://durham.ces.ncsu.edu](https://durham.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:35.002752+00:00
-
- ## EBCI Center | N.C. Cooperative Extension
- - [https://ebci.ces.ncsu.edu](https://ebci.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:35.657439+00:00
-
- ## Edgecombe County Center | N.C. Cooperative Extension
- - [https://edgecombe.ces.ncsu.edu](https://edgecombe.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:17.855545+00:00
-
- ## EFNEP - Expanded Food and Nutrition Education Program | NC State Extension
- - [https://efnep.ces.ncsu.edu](https://efnep.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:48.284156+00:00
-
- ## Innovation and Entrepreneurship
- - [http://ei.ncsu.edu](http://ei.ncsu.edu)
- - date_published: 2024-07-09T02:11:57+00:00
-
- ## Enrollment Management and Services
- - [https://emas.ncsu.edu](https://emas.ncsu.edu)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Emergency Information
- - [http://emergency.ncsu.edu](http://emergency.ncsu.edu)
- - date_published: 2024-08-07T16:54:56.538101+00:00
-
- ## Extension Master Gardener℠
- Volunteers | NC State Extension
- - [https://emgv.ces.ncsu.edu](https://emgv.ces.ncsu.edu)
- - date_published: 2024-06-16T22:36:48.371802+00:00
-
- ## Entomology – Insect Biology and Management | NC State Extension
- - [https://entomology.ces.ncsu.edu](https://entomology.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:15.140468+00:00
-
- ## Innovation and Entrepreneurship
- - [https://entrepreneurship.ncsu.edu](https://entrepreneurship.ncsu.edu)
- - date_published: 2024-08-07T16:14:57+00:00
-
- ## Equine Husbandry | NC State Extension
- - [https://equinehusbandry.ces.ncsu.edu](https://equinehusbandry.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:37.916618+00:00
-
- ## Executive Farm Management | NC State Extension
- - [https://execfarmmgmt.ces.ncsu.edu](https://execfarmmgmt.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:22.814978+00:00
-
- ## NC State Experts
- - [https://experts.ncsu.edu](https://experts.ncsu.edu)
- - date_published: 2024-05-07T19:40:07.224150+00:00
-
- ## Extension Gardener Travel Study Adventures | NC State Extension
- - [https://exploretheworld.ces.ncsu.edu](https://exploretheworld.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:25.036300+00:00
-
- ## Extension Gardener | NC State Extension
- - [https://extensiongardener.ces.ncsu.edu](https://extensiongardener.ces.ncsu.edu)
- - date_published: 2024-06-16T22:36:26.749897+00:00
-
- ## NC State Extension
- - [http://extension.ncsu.edu](http://extension.ncsu.edu)
- - date_published: 2024-10-15T05:41:38.956398+00:00
-
- ## Chancellor's Faculty Excellence Program | NC State University
- - [https://facultyclusters.ncsu.edu](https://facultyclusters.ncsu.edu)
- - date_published: 2024-07-01T15:55:29.166396+00:00
 

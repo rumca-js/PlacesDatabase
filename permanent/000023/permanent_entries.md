@@ -1,3 +1,11 @@
+ ## Jack.cab
+ - [https://jack.cab](https://jack.cab)
+ - date_published: 2024-10-29T09:28:04.864175+00:00
+
+ ## [mdk] arcade rom and information repository
+ - [https://mdk.cab](https://mdk.cab)
+ - date_published: 2024-07-11T16:21:07.819129+00:00
+
  ## Ryan Marcus · UPenn
  - [https://rm.cab](https://rm.cab)
  - date_published: 2024-07-25T19:51:07+00:00
@@ -4025,12 +4033,4 @@
  ## road.cc
  - [https://cdn.road.cc](https://cdn.road.cc)
  - date_published: 2024-04-30T05:45:27.303491+00:00
-
- ## road.cc
- - [https://deals.road.cc](https://deals.road.cc)
- - date_published: 2024-04-30T05:45:33.747135+00:00
-
- ## electric bike reviews, buying advice and news - ebiketips
- - [https://ebiketips.road.cc](https://ebiketips.road.cc)
- - date_published: 2024-04-22T00:00:00+00:00
 

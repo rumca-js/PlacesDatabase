@@ -1,3 +1,83 @@
+ ## Rechenzentrum & IT-Dienste - Rechenzentrum
+ - [https://rz.uni-wuerzburg.de](https://rz.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:39.299213+00:00
+
+ ## Institut für Sonderpädagogik - Institut für Sonderpädagogik
+ - [https://sonderpaedagogik.uni-wuerzburg.de](https://sonderpaedagogik.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:38.361949+00:00
+
+ ## Sportwissenschaft
+ - [https://sportwissenschaft.uni-wuerzburg.de](https://sportwissenschaft.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:45.661562+00:00
+
+ ## Katholisch-Theologische Fakultät - Katholisch-Theologische Fakultät
+ - [https://theologie.uni-wuerzburg.de](https://theologie.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:29.815347+00:00
+
+ ## Startseite
+ - [http://udi.germanistik.uni-wuerzburg.de](http://udi.germanistik.uni-wuerzburg.de)
+ - date_published: 2016-03-19T20:30:14+00:00
+
+ ## Universität Würzburg - Universität Würzburg
+ - [https://uni-wuerzburg.de](https://uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:31:59.461709+00:00
+
+ ## User Portal ifi
+ - [https://user.informatik.uni-wuerzburg.de](https://user.informatik.uni-wuerzburg.de)
+ - date_published: 2024-12-10T17:09:59.370102+00:00
+
+ ## Sign In
+ - [https://user-portal.rz.uni-wuerzburg.de](https://user-portal.rz.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:40:59.867026+00:00
+
+ ## Virtuelle Bibliothek Würzburg
+ - [http://vb.uni-wuerzburg.de](http://vb.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:31:57.044566+00:00
+
+ ## Sign in to your account
+ - [https://webstats.uni-wuerzburg.de](https://webstats.uni-wuerzburg.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## IfI Wiki | IfI - central IT systems
+ - [https://wiki.informatik.uni-wuerzburg.de](https://wiki.informatik.uni-wuerzburg.de)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Wirtschaftswissenschaftl. Fakultät
+ - [https://wiwi.uni-wuerzburg.de](https://wiwi.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:41.170563+00:00
+
+ ## WueAddress
+ - [https://wueaddress.uni-wuerzburg.de](https://wueaddress.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:37.303194+00:00
+
+ ## Home | WueCampus
+ - [https://wuecampus.uni-wuerzburg.de](https://wuecampus.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:01.568733+00:00
+
+ ## Startseite | WueStart
+ - [https://wuestart.uni-wuerzburg.de](https://wuestart.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:42.347308+00:00
+
+ ## Weiterleitung
+ - [https://wuestudy.uni-wuerzburg.de](https://wuestudy.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:02.712387+00:00
+
+ ## Weiterleitung
+ - [https://wuestudy.zv.uni-wuerzburg.de](https://wuestudy.zv.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:50.633519+00:00
+
+ ## Micro Focus Vibe
+ - [https://wueteams.uni-wuerzburg.de](https://wueteams.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:44.131393+00:00
+
+ ## Würzburg University Press - Würzburg University Press
+ - [https://wup.uni-wuerzburg.de](https://wup.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:45.121955+00:00
+
+ ## UBWü - Go to Homepage
+ - [https://www2.bibliothek.uni-wuerzburg.de](https://www2.bibliothek.uni-wuerzburg.de)
+ - date_published: 2017-03-13T07:14:51+00:00
+
  ## Universität Würzburg - Universität Würzburg
  - [https://www2.uni-wuerzburg.de](https://www2.uni-wuerzburg.de)
  - date_published: 2024-07-24T03:32:29.917710+00:00
@@ -3993,84 +4073,4 @@ Bibliotheken / Z39.50
  ## ZEIT SPRACHEN – effektives Sprachenlernen mit Genuss. Lesen, hören, üben.
  - [https://zeit-sprachen.de](https://zeit-sprachen.de)
  - date_published: 2024-09-20T15:34:57.522747+00:00
-
- ## ZEIT STIFTUNG BUCERIUS
- - [https://www.zeit-stiftung.de](https://www.zeit-stiftung.de)
- - date_published: 2024-07-09T14:09:16.437168+00:00
-
- ## Aktions Zeitungspaten | Jetzt fördern und profitieren!
- - [https://zeitungspatenschaften.de](https://zeitungspatenschaften.de)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## DIE ZEIT Verlagsgruppe
- - [https://www.zeitverlag.de](https://www.zeitverlag.de)
- - date_published: 2024-07-24T02:47:42.940122+00:00
-
- ## DIE ZEIT Verlagsgruppe
- - [https://zeit-verlagsgruppe.de](https://zeit-verlagsgruppe.de)
- - date_published: 2024-04-29T07:11:44.508327+00:00
-
- ## ZELDA Chronicles - Startseite - Zelda Fans für Zelda Fans
- - [https://zeldachronicles.de](https://zeldachronicles.de)
- - date_published: 2024-10-22T10:03:14.009952+00:00
-
- ## Zeldapendium
- - [https://www.zeldapendium.de](https://www.zeldapendium.de)
- - date_published: 2023-04-28T01:21:54+00:00
-
- ## Zeller+Gmelin: Expertise in Schmierstoffen & Druckfarben seit 1866. - Zeller + Gmelin
- - [https://www.zeller-gmelin.de](https://www.zeller-gmelin.de)
- - date_published: 2023-05-24T08:58:31+00:00
-
- ## Zendesk: Die Komplettlösung für den Kundenservice
- - [https://www.zendesk.de](https://www.zendesk.de)
- - date_published: 2020-10-15T12:00:00+00:00
-
- ## ZenDiS | Zentrum Digitale Souveränität
- - [https://zendis.de](https://zendis.de)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## MEDIA, KOMMUNIKATIONS- & MARKETING-BERATUNG | ZENITH
- - [https://www.zenithmedia.de](https://www.zenithmedia.de)
- - date_published: 2024-06-25T23:15:47.144528+00:00
-
- ## (Studio) Daniel Zenker | Konzeption und Gestaltung
- - [https://zenkerdaniel.de](https://zenkerdaniel.de)
- - date_published: 2024-07-12T16:38:40.585311+00:00
-
- ## Zenz Solutions
- - [https://www.zenz-solutions.de](https://www.zenz-solutions.de)
- - date_published: 2020-11-11T17:57:52+00:00
-
- ## Zeppelinflug
- - [https://zeppelin-nt.de](https://zeppelin-nt.de)
- - date_published: 2024-07-15T04:51:08.655197+00:00
-
- ## Startseite
- - [https://www.zeroone.de](https://www.zeroone.de)
- - date_published: 2024-10-19T19:44:19.676189+00:00
-
- ## ZertifikateAwards
- - [http://www.zertifikateawards.de](http://www.zertifikateawards.de)
- - date_published: 2024-09-27T10:25:50.945654+00:00
-
- ## Zettelkasten Forum
- - [https://forum.zettelkasten.de](https://forum.zettelkasten.de)
- - date_published: 2024-08-11T10:13:04.100494+00:00
-
- ## Zettelkasten knowledge and info management • Zettelkasten Method
- - [https://zettelkasten.de](https://zettelkasten.de)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Zeughaus Verlag GmbH
- - [https://zeughausverlag.de](https://zeughausverlag.de)
- - date_published: 2024-12-12T19:26:49.120667+00:00
-
- ## Computational Optimization at Work
- - [http://co-at-work.zib.de](http://co-at-work.zib.de)
- - date_published: 2024-10-16T06:09:56.877884+00:00
-
- ## SCIP
- - [https://scip.zib.de](https://scip.zib.de)
- - date_published: 2024-07-12T08:10:07.616615+00:00
 

@@ -1,3 +1,91 @@
+ ## University at Buffalo Libraries
+ - [https://library.buffalo.edu](https://library.buffalo.edu)
+ - date_published: 2024-04-30T03:31:32.594127+00:00
+
+ ## Listserv at UB
+ - [http://listserv.buffalo.edu](http://listserv.buffalo.edu)
+ - date_published: 2022-12-19T22:52:16+00:00
+
+ ## School of Management
+ - [https://management.buffalo.edu](https://management.buffalo.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Human Factors and Ergonomics Society Student Chapter – The University at Buffalo, State University of New York
+ - [https://markelz.physics.buffalo.edu](https://markelz.physics.buffalo.edu)
+ - date_published: 2024-01-09T02:58:27.946041+00:00
+
+ ## Jacobs School of Medicine and Biomedical Sciences
+ - [https://medicine.buffalo.edu](https://medicine.buffalo.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## School of Management
+ - [https://mgt.buffalo.edu](https://mgt.buffalo.edu)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## About UB Mobile
+ - [http://mobile.buffalo.edu](http://mobile.buffalo.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## School of Nursing
+ - [https://nursing.buffalo.edu](https://nursing.buffalo.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## OASIS – Operations research for Advancing Sustainable Infrastructure Systems
+ - [http://oasis.eng.buffalo.edu](http://oasis.eng.buffalo.edu)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## IIS Windows Server
+ - [https://pacs.buffalo.edu](https://pacs.buffalo.edu)
+ - date_published: 2021-02-16T15:27:23+00:00
+
+ ## UB School of Pharmacy and Pharmaceutical Sciences
+ - [https://pharmacy.buffalo.edu](https://pharmacy.buffalo.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Interdivisional Marketing and Communications
+ - [https://prv-rhm.sens.buffalo.edu](https://prv-rhm.sens.buffalo.edu)
+ - date_published: 2020-03-16T15:13:56+00:00
+
+ ## School of Public Health and Health Professions
+ - [https://publichealth.buffalo.edu](https://publichealth.buffalo.edu)
+ - date_published: 2024-04-30T03:31:24.441502+00:00
+
+ ## UB Office of the Registrar
+ - [https://registrar.buffalo.edu](https://registrar.buffalo.edu)
+ - date_published: 2024-04-30T03:31:06.394801+00:00
+
+ ## Research and Economic Development
+ - [https://research.buffalo.edu](https://research.buffalo.edu)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Research Guides
+ - [https://research.lib.buffalo.edu](https://research.lib.buffalo.edu)
+ - date_published: 2024-07-22T07:13:13.422146+00:00
+
+ ## Search - University at Buffalo
+ - [https://search.buffalo.edu](https://search.buffalo.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## University at Buffalo School of Social Work
+ - [https://socialwork.buffalo.edu](https://socialwork.buffalo.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Tesserae
+ - [http://tesserae.caset.buffalo.edu](http://tesserae.caset.buffalo.edu)
+ - date_published: 2021-11-08T18:39:29+00:00
+
+ ## Computer Science [ and Engineering ] Timeline
+ - [https://timeline.cse.buffalo.edu](https://timeline.cse.buffalo.edu)
+ - date_published: 2022-01-28T21:26:15+00:00
+
+ ## TPDP - redirecting
+ - [https://tpdp.cse.buffalo.edu](https://tpdp.cse.buffalo.edu)
+ - date_published: 2020-01-28T20:16:48+00:00
+
+ ## AEM Sign In
+ - [https://ubcms-author.buffalo.edu](https://ubcms-author.buffalo.edu)
+ - date_published: 2024-08-11T09:59:02.645351+00:00
+
  ## Undergraduate Admissions at the University at Buffalo, The State University of New York
  - [https://ubconnect.buffalo.edu](https://ubconnect.buffalo.edu)
  - date_published: 2024-07-22T07:20:06.242889+00:00
@@ -3928,92 +4016,4 @@ Mellon University
  ## School of the Arts
  - [https://arts.columbia.edu](https://arts.columbia.edu)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Columbia Giving
- - [https://artsideas.givenow.columbia.edu](https://artsideas.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:53.975579+00:00
-
- ## Home - Arts Initiative at Columbia University
- - [https://artsinitiative.columbia.edu](https://artsinitiative.columbia.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Columbia University Libraries Blogs
- - [https://blogs.cul.columbia.edu](https://blogs.cul.columbia.edu)
- - date_published: 2024-07-22T05:45:09.750235+00:00
-
- ## State of the Planet – News from the Columbia Climate School
- - [https://blogs.ei.columbia.edu](https://blogs.ei.columbia.edu)
- - date_published: 2024-05-07T18:39:19.404820+00:00
-
- ## Brown Institute
- - [https://brown.columbia.edu](https://brown.columbia.edu)
- - date_published: 2024-07-01T20:06:59.362349+00:00
-
- ## Columbia University < Columbia University
- - [http://bulletin.columbia.edu](http://bulletin.columbia.edu)
- - date_published: 2024-07-21T12:10:44+00:00
-
- ## BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment
- - [https://busybot.cs.columbia.edu](https://busybot.cs.columbia.edu)
- - date_published: 2023-03-15T15:01:31+00:00
-
- ## About | Center for Spatial Research
- - [https://c4sr.columbia.edu](https://c4sr.columbia.edu)
- - date_published: 2024-07-08T14:27:09+00:00
-
- ## Herbert Irving Comprehensive Cancer Center (HICCC) - New York
- - [https://cancer.columbia.edu](https://cancer.columbia.edu)
- - date_published: 2023-10-25T18:50:13.811298+00:00
-
- ## Columbia University
- - [https://cancerdynamics.columbia.edu](https://cancerdynamics.columbia.edu)
- - date_published: 2024-07-20T21:54:45.449857+00:00
-
- ## Careers at Columbia
- - [https://careers.columbia.edu](https://careers.columbia.edu)
- - date_published: 2024-04-30T03:56:52.760773+00:00
-
- ## CaseWorks | CaseWorks
- - [https://caseworks.business.columbia.edu](https://caseworks.business.columbia.edu)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Columbia College and Columbia Engineering
- - [http://cc-seas.columbia.edu](http://cc-seas.columbia.edu)
- - date_published: 2024-09-04T18:42:13+00:00
-
- ## Columbia Financial Aid and Educational Financing
- - [https://cc-seas.financialaid.columbia.edu](https://cc-seas.financialaid.columbia.edu)
- - date_published: 2024-07-22T05:43:52.440817+00:00
-
- ## Committee on Global Thought
- - [https://cgt.columbia.edu](https://cgt.columbia.edu)
- - date_published: 2024-10-21T12:48:09.571076+00:00
-
- ## Hong Yen Chang Center for Chinese Legal Studies
- - [https://chinese-legal-studies.law.columbia.edu](https://chinese-legal-studies.law.columbia.edu)
- - date_published: 2024-06-11T17:04:07+00:00
-
- ## Columbia Climate School
- - [https://climate.columbia.edu](https://climate.columbia.edu)
- - date_published: 2024-04-30T03:49:11.585183+00:00
-
- ## Columbia Giving
- - [https://climateresponse.givenow.columbia.edu](https://climateresponse.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:57.595929+00:00
-
- ## CLIO
- - [https://clio.columbia.edu](https://clio.columbia.edu)
- - date_published: 2024-07-22T05:45:14.907746+00:00
-
- ## Cloth Funnels: Canonicalized-Alignment for Multi-Purpose Garment Manipulation
- - [https://clothfunnels.cs.columbia.edu](https://clothfunnels.cs.columbia.edu)
- - date_published: 2023-04-14T17:40:54+00:00
-
- ## CLS Blue Sky Blog | Columbia Law School's Blog on Corporations and the Capital Markets
- - [https://clsbluesky.law.columbia.edu](https://clsbluesky.law.columbia.edu)
- - date_published: 2024-09-04T20:19:45.437819+00:00
-
- ## Columbia College
- - [https://college.columbia.edu](https://college.columbia.edu)
- - date_published: 2024-08-06T00:00:00+00:00
 

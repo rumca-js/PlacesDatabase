@@ -1,3 +1,11 @@
+ ## CFORCE - 官方网站
+ - [http://cforce.com.cn](http://cforce.com.cn)
+ - date_published: 2024-05-11T11:40:00.052294+00:00
+
+ ## ¹ã·¢ÐÅÓÃ¿¨ÖÐÐÄ - ¹ã·¢ÒøÐÐ
+ - [http://card.cgbchina.com.cn](http://card.cgbchina.com.cn)
+ - date_published: 2024-12-25T14:00:15+00:00
+
  ## 中国广核集团有限公司
  - [http://www.cgnpc.com.cn](http://www.cgnpc.com.cn)
  - date_published: 2024-06-14T00:00:00+00:00
@@ -3997,12 +4005,4 @@ _中国网
  ## 本科生院创新创业教育处
  - [http://cxcyc.hfut.edu.cn](http://cxcyc.hfut.edu.cn)
  - date_published: 2024-07-11T03:24:40+00:00
-
- ## 合工大党代会
- - [https://ddh9.hfut.edu.cn](https://ddh9.hfut.edu.cn)
- - date_published: 2024-07-12T13:22:46+00:00
-
- ## 合肥工业大学 - 邮件系统
- - [http://email.hfut.edu.cn](http://email.hfut.edu.cn)
- - date_published: 2024-07-12T16:07:21.232786+00:00
 

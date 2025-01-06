@@ -1,3 +1,11 @@
+ ## La première mutualité santé en Belgique | Mutualité chrétienne
+ - [https://www.mc.be](https://www.mc.be)
+ - date_published: 2024-07-02T21:25:29+00:00
+
+ ## Home - MC2MC
+ - [https://mc2mc.be](https://mc2mc.be)
+ - date_published: 2024-04-15T00:00:00+00:00
+
  ## MCHobby - Vente de Raspberry Pi, Arduino, ODROID, Adafruit
  - [https://shop.mchobby.be](https://shop.mchobby.be)
  - date_published: 2024-09-05T18:07:34.444171+00:00
@@ -4013,12 +4021,4 @@
  ## Actionable Analytics for Growth teams | Narrative BI
  - [http://narrative.bi](http://narrative.bi)
  - date_published: 2023-10-25T11:59:36.984588+00:00
-
- ## random pictures/thoughts – rabbi ramrattan
- - [https://rab.bi](https://rab.bi)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Revolt.BI | ♥ Business Intelligence, datová integrace, konzultace, data science, analýzy
- - [https://revolt.bi](https://revolt.bi)
- - date_published: 2023-07-03T13:32:39+00:00
 

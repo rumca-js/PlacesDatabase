@@ -1,3 +1,19 @@
+ ## PowerPop
+ - [https://powerpop.blogspot.com](https://powerpop.blogspot.com)
+ - date_published: 2024-06-28T08:05:00+00:00
+
+ ## Power Pop Review
+ - [http://powerpopreview.blogspot.com](http://powerpopreview.blogspot.com)
+ - date_published: 2024-12-04T12:02:47+00:00
+
+ ## PowerPopSquare
+ - [https://powerpopsquare.blogspot.com](https://powerpopsquare.blogspot.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## POWERPOPULIST
+ - [https://powerpopulist.blogspot.com](https://powerpopulist.blogspot.com)
+ - date_published: 2020-01-01T00:00:00+00:00
+
  ## The Accursed Crozius
  - [https://powerposey.blogspot.com](https://powerposey.blogspot.com)
  - date_published: 2024-09-24T19:30:20+00:00
@@ -4012,20 +4028,4 @@
  ## Hello, My Name is Chris and I'm a Runaholic
  - [https://runaholic-chris.blogspot.com](https://runaholic-chris.blogspot.com)
  - date_published: 2024-09-15T05:04:13+00:00
-
- ## Blogger
- - [http://run-a-roundranch.blogspot.com](http://run-a-roundranch.blogspot.com)
- - date_published: 2024-10-29T19:36:20.103725+00:00
-
- ## AZ Running
- - [http://runazrun.blogspot.com](http://runazrun.blogspot.com)
- - date_published: 2024-09-09T07:32:48+00:00
-
- ## Nie znaleziono bloga
- - [http://runbikeswimgirl.blogspot.com](http://runbikeswimgirl.blogspot.com)
- - date_published: 2024-12-19T10:30:06.788487+00:00
-
- ## RuneCast-Blog
- - [https://runecast-sculpts.blogspot.com](https://runecast-sculpts.blogspot.com)
- - date_published: 2024-07-13T06:26:45+00:00
 

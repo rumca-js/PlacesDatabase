@@ -1,3 +1,43 @@
+ ## MEGVII旷视科技-让物理世界更美好
+ - [https://megvii.com](https://megvii.com)
+ - date_published: 2024-08-07T14:43:46.251479+00:00
+
+ ## HPC Systeme & Lösungen
+ - [https://www.megware.com](https://www.megware.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## JVC "Gaming" Headphones (Wired or Wireless)
+ - [https://meh.com](https://meh.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Mehdi Khalili
+ - [http://www.mehdi-khalili.com](http://www.mehdi-khalili.com)
+ - date_published: 2024-01-02T06:37:30+00:00
+
+ ## Henna Tattoo | Body Art Kits and Design | Mehndi Skin Art
+ - [http://www.mehndiskinart.com](http://www.mehndiskinart.com)
+ - date_published: 2019-03-22T19:18:39+00:00
+
+ ## time spent offline
+ - [https://mehretbiruk.com](https://mehretbiruk.com)
+ - date_published: 2024-06-22T13:46:03.455519+00:00
+
+ ## Mehring Books
+ - [https://mehring.com](https://mehring.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Das entscheidende Plus an Relevanz
+ - [https://www.mehrkanal.com](https://www.mehrkanal.com)
+ - date_published: 2024-10-21T22:23:50.749086+00:00
+
+ ## خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency
+ - [http://www.mehrnews.com](http://www.mehrnews.com)
+ - date_published: 2024-12-31T11:34:46.716094+00:00
+
+ ## mehtapress.com
+ - [http://www.mehtapress.com](http://www.mehtapress.com)
+ - date_published: 2024-10-29T17:22:40.079274+00:00
+
  ## Rohan Mehta
  - [https://mehta-rohan.com](https://mehta-rohan.com)
  - date_published: 2023-05-23T00:00:00+00:00
@@ -2527,7 +2567,7 @@
  - date_published: 2024-10-17T22:12:33.316152+00:00
 
  ## Messhof
- - [http://www.messhof.com](http://www.messhof.com)
+ - [https://www.messhof.com](https://www.messhof.com)
  - date_published: 2024-06-17T09:15:44.930199+00:00
 
  ## Web oficial Leo Messi jugador del Inter de Miami – messi.com – Web oficial de Lionel Messi, jugador del Futbol Profesional y campeón mundial con la selección Argentina
@@ -3990,45 +4030,4 @@
  ## Detroit Metro Times
  - [https://posting.metrotimes.com](https://posting.metrotimes.com)
  - date_published: 2024-07-17T00:00:00+00:00
-
- ## MetroTix
- - [https://www.metrotix.com](https://www.metrotix.com)
- - date_published: 2024-12-12T09:13:33.193626+00:00
-
- ## MetroTwit - the Windows Twitter client you'll love to use
- - [http://www.metrotwit.com](http://www.metrotwit.com)
- - date_published: 2024-07-04T16:14:34.877803+00:00
-
- ## MetroWest Daily News: Local News, Politics & Sports in Framingham, MA
- - [https://www.metrowestdailynews.com](https://www.metrowestdailynews.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Metro World News
- - [https://www.metroworldnews.com](https://www.metroworldnews.com)
- - date_published: 2024-09-10T12:39:59+00:00
-
- ## Pulp, sawn timber and other bioproducts | Metsä Fibre
- - [https://www.metsafibre.com](https://www.metsafibre.com)
- - date_published: 2024-06-22T20:51:18.947626+00:00
-
- ## Metsä Group – Your partner in sustainable growth
- - [https://www.metsagroup.com](https://www.metsagroup.com)
- - date_published: 2024-06-25T16:54:12.789762+00:00
-
- ## メッツァメディア
- - [https://media.metsa-hanno.com](https://media.metsa-hanno.com)
- - date_published: 2024-09-18T11:02:51.292574+00:00
-
- ## [Official] Moominvalley Park/metsä Village｜metsa (metsä)
- - [https://metsa-hanno.com](https://metsa-hanno.com)
- - date_published: 2024-06-15T15:12:24+00:00
- - tags: ['moomin']
-
- ## メッツァ metsä（ムーミンバレーパーク・メッツァビレッジ）
- - [https://note.metsa-hanno.com](https://note.metsa-hanno.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## チケット購入
- - [https://ticket.metsa-hanno.com](https://ticket.metsa-hanno.com)
- - date_published: 2024-09-03T13:12:08+00:00
 

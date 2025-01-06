@@ -1,3 +1,91 @@
+ ## Home
+ - [https://emergency.rice.edu](https://emergency.rice.edu)
+ - date_published: 2024-05-07T20:05:39.392827+00:00
+
+ ## Rice Engineering
+ - [https://engineering.rice.edu](https://engineering.rice.edu)
+ - date_published: 2024-05-07T20:05:28.625924+00:00
+
+ ## Department of English
+ - [https://english.rice.edu](https://english.rice.edu)
+ - date_published: 2024-05-16T15:34:16+00:00
+
+ ## Center for Environmental Studies
+ - [https://enst.rice.edu](https://enst.rice.edu)
+ - date_published: 2024-06-13T18:49:53+00:00
+
+ ## Rice EPMP
+ - [https://epmp.rice.edu](https://epmp.rice.edu)
+ - date_published: 2024-06-06T00:16:38+00:00
+
+ ## ESL
+ - [https://esl.rice.edu](https://esl.rice.edu)
+ - date_published: 2024-06-04T14:55:55+00:00
+
+ ## Redirecting to Secure Site...
+ - [https://esther.rice.edu](https://esther.rice.edu)
+ - date_published: 2024-07-01T17:48:08.896796+00:00
+
+ ## Events | Rice University
+ - [https://events.rice.edu](https://events.rice.edu)
+ - date_published: 2024-05-07T20:05:52.697700+00:00
+
+ ## Featured Tours | Rice University Virtual Tour
+ - [https://experience.rice.edu](https://experience.rice.edu)
+ - date_published: 2024-03-18T06:31:28+00:00
+
+ ## Welcome
+ - [http://explore.rice.edu](http://explore.rice.edu)
+ - date_published: 2024-05-13T14:47:27+00:00
+
+ ## Shibboleth Authentication Request
+ - [http://ezproxy.rice.edu](http://ezproxy.rice.edu)
+ - date_published: 2024-07-01T18:01:39.907333+00:00
+
+ ## Faculty Handbook
+ - [https://fachandbook.rice.edu](https://fachandbook.rice.edu)
+ - date_published: 2024-07-01T18:02:44.372881+00:00
+
+ ## Faculty Jobs
+ - [https://faculty-jobs.rice.edu](https://faculty-jobs.rice.edu)
+ - date_published: 2024-07-01T18:08:34.221258+00:00
+
+ ## Office of Financial Aid
+ - [https://financialaid.rice.edu](https://financialaid.rice.edu)
+ - date_published: 2024-05-07T20:04:30.279467+00:00
+
+ ## Rice
+ - [https://fulbright.rice.edu](https://fulbright.rice.edu)
+ - date_published: 2024-06-17T22:05:14+00:00
+
+ ## Rice
+ - [https://futureofresearch.rice.edu](https://futureofresearch.rice.edu)
+ - date_published: 2024-07-01T18:01:11.696543+00:00
+
+ ## Rice
+ - [https://futureowls.rice.edu](https://futureowls.rice.edu)
+ - date_published: 2024-05-07T20:06:06.266507+00:00
+
+ ## The Galileo Project
+ - [http://galileo.rice.edu](http://galileo.rice.edu)
+ - date_published: 2024-06-30T08:52:26.238375+00:00
+
+ ## Home
+ - [https://garden.rice.edu](https://garden.rice.edu)
+ - date_published: 2024-06-12T17:03:45+00:00
+
+ ## General Announcements < Rice University
+ - [https://ga.rice.edu](https://ga.rice.edu)
+ - date_published: 2024-03-13T21:24:36+00:00
+
+ ## Gateway Program
+ - [https://gateway.rice.edu](https://gateway.rice.edu)
+ - date_published: 2024-05-05T20:08:25+00:00
+
+ ## Rice
+ - [http://gcurs.rice.edu](http://gcurs.rice.edu)
+ - date_published: 2024-05-19T16:42:26+00:00
+
  ## GDEC
  - [https://gdec.rice.edu](https://gdec.rice.edu)
  - date_published: 2024-05-04T18:30:20+00:00
@@ -3916,92 +4004,4 @@
  ## First Generation and/or Low-Income Student Success Center
  - [https://fli.stanford.edu](https://fli.stanford.edu)
  - date_published: 2024-06-10T23:20:37+00:00
-
- ## Computer Forum
- - [https://forum.stanford.edu](https://forum.stanford.edu)
- - date_published: 2024-05-07T20:25:48.767557+00:00
-
- ## Frosh 101 & Transfer 101
- - [https://frosh101.stanford.edu](https://frosh101.stanford.edu)
- - date_published: 2024-04-19T02:06:02+00:00
-
- ## Faculty Search and Applicant Tracking
- - [https://fsat.stanford.edu](https://fsat.stanford.edu)
- - date_published: 2024-04-19T01:19:36+00:00
-
- ## Freeman Spogli Institute for International Studies | FSI
- - [https://fsi.stanford.edu](https://fsi.stanford.edu)
- - date_published: 2024-04-30T06:34:30.351718+00:00
-
- ## Neural Dynamics and Computation Lab
- - [https://ganguli-gang.stanford.edu](https://ganguli-gang.stanford.edu)
- - date_published: 2024-04-29T05:14:11.707254+00:00
-
- ## Guibas Lab
- - [https://geometry.stanford.edu](https://geometry.stanford.edu)
- - date_published: 2023-08-18T01:31:08+00:00
-
- ## Stanford Login
- - [https://gfps.stanford.edu](https://gfps.stanford.edu)
- - date_published: 2024-07-01T20:08:40.795395+00:00
-
- ## Overview : Graduate Financial Support : Stanford University
- - [https://gfs.stanford.edu](https://gfs.stanford.edu)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## Gibson Environment | Stanford
- - [http://gibsonenv.stanford.edu](http://gibsonenv.stanford.edu)
- - date_published: 2019-11-24T06:46:20+00:00
-
- ## Make a Gift to Stanford
- - [https://give.stanford.edu](https://give.stanford.edu)
- - date_published: 2024-07-01T19:37:16.214289+00:00
-
- ## Giving to Stanford
- - [https://giving.stanford.edu](https://giving.stanford.edu)
- - date_published: 2024-05-07T20:31:07.160939+00:00
-
- ## Graduate Life Office
- - [https://glo.stanford.edu](https://glo.stanford.edu)
- - date_published: 2024-05-17T16:41:49+00:00
-
- ## Graduate Medical Education
- - [https://gme.stanford.edu](https://gme.stanford.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Google Workspace | University IT
- - [http://google.stanford.edu](http://google.stanford.edu)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## The Gordian Knot Center for National Security Innovation
- - [https://gordianknot.stanford.edu](https://gordianknot.stanford.edu)
- - date_published: 2024-06-22T17:14:59+00:00
-
- ## Stanford University
- - [https://goto.stanford.edu](https://goto.stanford.edu)
- - date_published: 2024-05-11T11:23:51.995536+00:00
-
- ## Graduate Admissions
- - [https://gradadmissions.stanford.edu](https://gradadmissions.stanford.edu)
- - date_published: 2024-04-19T01:55:50+00:00
-
- ## Graduate Diversity
- - [https://graddiversity.stanford.edu](https://graddiversity.stanford.edu)
- - date_published: 2024-04-19T01:49:18+00:00
-
- ## Computer Graphics at Stanford University
- - [https://graphics.stanford.edu](https://graphics.stanford.edu)
- - date_published: 2024-05-01T08:47:34.499825+00:00
-
- ## Join Stanford Alumni Groups
- - [https://groups.stanford.edu](https://groups.stanford.edu)
- - date_published: 2024-05-07T20:31:24.482508+00:00
-
- ## Home - GSB Courses Sites WordPress Network
- - [https://gsb-courses.stanford.edu](https://gsb-courses.stanford.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Stanford Graduate School of Business
- - [https://gsb.stanford.edu](https://gsb.stanford.edu)
- - date_published: 2024-05-07T20:30:37.947776+00:00
 

@@ -1,3 +1,11 @@
+ ## Главная - Министерство жилищно-коммунального хозяйства Республики Беларусь
+ - [http://www.mjkx.gov.by](http://www.mjkx.gov.by)
+ - date_published: 2024-08-11T15:52:56.504477+00:00
+
+ ## Министерство лесного хозяйства Республики Беларусь
+ - [http://www.mlh.gov.by](http://www.mlh.gov.by)
+ - date_published: 2024-08-11T16:11:17.611258+00:00
+
  ## Новости Могилева и Могилевской области | Могилевский областной исполнительный комитет
  - [http://mogilev-region.gov.by](http://mogilev-region.gov.by)
  - date_published: 2024-08-11T15:58:17.962387+00:00
@@ -4011,12 +4019,4 @@
  ## Sign in - Matomo
  - [https://piwik.ecchi.ca](https://piwik.ecchi.ca)
  - date_published: 2024-05-08T11:42:35.654064+00:00
-
- ## Home - Ecclesiastical Insurance
- - [https://ecclesiastical.ca](https://ecclesiastical.ca)
- - date_published: 2021-01-28T19:01:09+00:00
-
- ## Ecere Corporation
- - [https://ecere.ca](https://ecere.ca)
- - date_published: 2021-01-05T21:29:32+00:00
 

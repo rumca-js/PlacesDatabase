@@ -1,3 +1,38 @@
+ ## GitHub - alecmuffett/real-world-onion-sites: This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
+ - [https://github.com/alecmuffett/real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites)
+ - date_published: 2024-11-20T05:18:38+00:00
+ - tags: ['onion web pages', 'onion aires']
+
+ ## GitHub - gitroomhq/postiz-app: 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
+ - [https://github.com/gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+ - date_published: 2024-11-20T13:21:47+00:00
+ - tags: ['social media management']
+
+ ## GitHub - zotify-dev/zotify: A fast and customizable music and podcast downloader.
+ - [https://github.com/zotify-dev/zotify](https://github.com/zotify-dev/zotify)
+ - date_published: 2024-11-20T18:59:10+00:00
+ - tags: ['download manager']
+
+ ## GitHub - lexiforest/curl_cffi: Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
+ - [https://github.com/lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi)
+ - date_published: 2024-11-21T19:09:57+00:00
+ - tags: ['web scraping', 'web crawling']
+
+ ## GitHub - HenryQW/Awesome-TTRSS: 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
+ - [https://github.com/HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+ - date_published: 2024-11-25T08:26:04+00:00
+ - tags: ['tiny tiny rss', 'rss client']
+
+ ## GitHub - usememos/memos: An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+ - [https://github.com/usememos/memos](https://github.com/usememos/memos)
+ - date_published: 2024-11-25T10:34:56+00:00
+ - tags: ['self-host', 'notes program']
+
+ ## GitHub - go-rod/rod: A Chrome DevTools Protocol driver for web automation and scraping.
+ - [https://github.com/go-rod/rod](https://github.com/go-rod/rod)
+ - date_published: 2024-11-27T17:16:03+00:00
+ - tags: ['web scraping']
+
  ## GitHub - peass-ng/PEASS-ng: PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
  - [https://github.com/peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng)
  - date_published: 2024-11-28T17:15:01+00:00
@@ -1815,7 +1850,7 @@
  - date_published: 2024-07-18T05:19:52.676971+00:00
 
  ## Glitter Graphics
- - [http://www.glitter-graphics.com](http://www.glitter-graphics.com)
+ - [https://glitter-graphics.com](https://glitter-graphics.com)
  - date_published: 2024-09-02T17:00:39.822720+00:00
 
  ## Glittering Generality
@@ -4068,32 +4103,4 @@
  ## Image and Video Upload, Storage, Optimization and CDN
  - [https://media.go1static.com](https://media.go1static.com)
  - date_published: 2024-06-11T00:00:00+00:00
-
- ## Go2Orientation
- - [https://www.go2orientation.com](https://www.go2orientation.com)
- - date_published: 2024-07-01T21:46:40.705118+00:00
-
- ## go2power | Your Single Source Technology Center for Power Electronic Solutions
- - [https://www.go2power.com](https://www.go2power.com)
- - date_published: 2024-06-29T14:36:09.291585+00:00
-
- ## 選挙ドットコム｜日本最大の選挙・政治情報サイト
- - [https://go2senkyo.com](https://go2senkyo.com)
- - date_published: 2024-07-04T07:06:46.155170+00:00
-
- ## Health & Wellness Programs for Employees and Medicare Members | Go365
- - [https://www.go365.com](https://www.go365.com)
- - date_published: 2024-08-08T19:50:43.642289+00:00
-
- ## Go4Liftoff - Home
- - [https://go4liftoff.com](https://go4liftoff.com)
- - date_published: 2024-06-29T04:27:29.113591+00:00
-
- ## Abra | Crypto Wealth Management
- - [https://www.goabra.com](https://www.goabra.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Meaningful Travel Starts Here | GoAbroad.com
- - [http://www.goabroad.com](http://www.goabroad.com)
- - date_published: 2024-06-22T06:32:28.320788+00:00
 

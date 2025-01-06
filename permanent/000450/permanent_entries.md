@@ -1,3 +1,103 @@
+ ## Karta Nowosądeczanina
+ - [https://mojakn.pl](https://mojakn.pl)
+ - date_published: 2024-10-16T19:15:23.232551+00:00
+
+ ## Przepisy kulinarne - MojeGotowanie.pl
+ - [https://www.mojegotowanie.pl](https://www.mojegotowanie.pl)
+ - date_published: 2024-06-20T07:15:37.638730+00:00
+
+ ## Sale konferencyjne, hotele konferencyjne, sale szkoleniowe |  MojeKonferencje.pl
+ - [https://cdn.mojekonferencje.pl](https://cdn.mojekonferencje.pl)
+ - date_published: 2024-09-02T13:55:58.164330+00:00
+
+ ## Sale konferencyjne, hotele konferencyjne, sale szkoleniowe |  MojeKonferencje.pl
+ - [https://mojekonferencje.pl](https://mojekonferencje.pl)
+ - date_published: 2024-05-26T17:36:17.863530+00:00
+
+ ## Wnętrza, kuchnia, łazienka, aranżacje wnętrz, salon - Urzadzamy.pl
+ - [https://prenumerata.mojemieszkanie.pl](https://prenumerata.mojemieszkanie.pl)
+ - date_published: 2024-07-09T17:57:37.136982+00:00
+
+ ## Fundacja Moje Państwo
+ - [https://mojepanstwo.pl](https://mojepanstwo.pl)
+ - date_published: 2024-06-22T21:58:10.915139+00:00
+
+ ## Łowicz. Dzięki naturze!
+ - [https://mojlowicz.pl](https://mojlowicz.pl)
+ - date_published: 2024-07-14T05:37:14.488069+00:00
+
+ ## Darmowy program do faktur - Mojo.pl
+ - [https://mojo.pl](https://mojo.pl)
+ - date_published: 2024-07-05T09:22:55+00:00
+
+ ## Orbit Gum Official Website | Product information
+ - [https://www.mojorbit.pl](https://www.mojorbit.pl)
+ - date_published: 2024-06-21T03:58:14+00:00
+
+ ## Mój piękny ogród
+ - [https://www.mojpieknyogrod.pl](https://www.mojpieknyogrod.pl)
+ - date_published: 2024-06-20T07:14:56.726983+00:00
+
+ ## Miejska Oaza Komunikacji Szczawnica - Lokalny Serwis Miasta
+ - [https://mokszczawnica.pl](https://mokszczawnica.pl)
+ - date_published: 2024-05-09T05:17:17.042606+00:00
+
+ ## .:MOmusic:. management artystyczny i organizacja koncertów
+ - [https://momusic.pl](https://momusic.pl)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Moneteasy - innowacyjna platforma dla e-commerce
+ - [https://moneteasy.pl](https://moneteasy.pl)
+ - date_published: 2024-07-14T04:57:40.994547+00:00
+
+ ## Agrobiznes: Rolnictwo, Uprawy i Hodowle - Portal Rolniczy Money.pl
+ - [https://agrobiznes.money.pl](https://agrobiznes.money.pl)
+ - date_published: 2024-07-20T02:55:32.423697+00:00
+
+ ## Eksperci finansowi - wszystko co powinieneś wiedzieć o bankowości, porady finansowe - Porównywarka finansowa online 2024 - direct.money.pl
+ - [https://direct.money.pl](https://direct.money.pl)
+ - date_published: 2024-07-20T02:55:48.211382+00:00
+
+ ## Money.pl - portal finansowy
+ - [https://money.pl](https://money.pl)
+ - date_published: 2024-08-19T13:22:23.799635+00:00
+
+ ## Serwis dla firm msp.money.pl
+ - [https://msp.money.pl](https://msp.money.pl)
+ - date_published: 2024-07-20T02:57:13.682835+00:00
+
+ ## Praca - Money.pl
+ - [https://praca.money.pl](https://praca.money.pl)
+ - date_published: 2024-07-20T02:55:46.497153+00:00
+
+ ## Prawo w serwisie Money.pl
+ - [https://prawo.money.pl](https://prawo.money.pl)
+ - date_published: 2024-07-20T02:57:50.481491+00:00
+
+ ## Depozyty z³otowe WIBID WIBOR > Depozyty miêdzybankowe > Pieni±dze
+ - [https://wibor.money.pl](https://wibor.money.pl)
+ - date_published: 2024-12-30T00:20:38.247600+00:00
+
+ ## Licznik obietnic wyborczych
+ - [https://wybory2023.money.pl](https://wybory2023.money.pl)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## MonkeyIsland.pl - Oprogramowanie i software IT
+ - [http://monkeyisland.pl](http://monkeyisland.pl)
+ - date_published: 2024-06-20T09:28:13.469890+00:00
+
+ ## MONOPOLIS || Wynajem biur Łódź | Lokale użytkowe Łódź | Lokale usługowe Łódź | Miejsce spotkań Łódź, jedzeniownia Łódź, atrakcje Łódź | Biura Łódź
+ - [https://monopolis.pl](https://monopolis.pl)
+ - date_published: 2024-06-26T13:45:14.829463+00:00
+
+ ## Monosfera Kreatywności Łódź - warsztaty i zajęcia dla dzieci - pozalekcyjne
+ - [https://monosfera.pl](https://monosfera.pl)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## More in Common
+ - [https://www.moreincommon.pl](https://www.moreincommon.pl)
+ - date_published: 2022-10-22T00:00:00+00:00
+
  ## morenoise
  - [http://morenoise.pl](http://morenoise.pl)
  - date_published: 2024-06-30T06:14:36.692083+00:00
@@ -3986,106 +4086,4 @@
  ## Video Poznań | Platforma Streamingowa Video Miasta Poznania – video.poznan.pl
  - [https://video.poznan.pl](https://video.poznan.pl)
  - date_published: 2024-09-13T17:52:13+00:00
-
- ## WasteValue
- - [https://wastevalue.put.poznan.pl](https://wastevalue.put.poznan.pl)
- - date_published: 2024-09-02T14:18:46.949313+00:00
-
- ## Poczta elektroniczna :: Welcome to Poczta elektroniczna
- - [http://webmail.man.poznan.pl](http://webmail.man.poznan.pl)
- - date_published: 2024-09-13T17:55:10+00:00
-
- ## Strona główna | Wydział Inżynierii Lądowej i Transportu
- - [https://wilit.put.poznan.pl](https://wilit.put.poznan.pl)
- - date_published: 2024-05-26T18:41:10.675002+00:00
-
- ## Strona główna | Wydział Inżynierii Mechanicznej
- - [https://wim.put.poznan.pl](https://wim.put.poznan.pl)
- - date_published: 2024-09-02T14:08:17+00:00
-
- ## Jak to działa? | Poznan.pl
- - [https://wireless.poznan.pl](https://wireless.poznan.pl)
- - date_published: 2024-06-13T17:04:32.781735+00:00
-
- ## Wojewódzki Ośrodek Ruchu Drogowego w Poznaniu
- - [https://word.poznan.pl](https://word.poznan.pl)
- - date_published: 2024-03-19T11:46:56+00:00
- - tags: ['ośrodek ruchu drogowego']
-
- ## Instytut Informatyki Politechniki Poznańskiej
- - [https://www2.cs.put.poznan.pl](https://www2.cs.put.poznan.pl)
- - date_published: 2024-02-25T20:58:47.088650+00:00
-
- ## Aeroklub Poznański
- - [http://www.aeroklub.poznan.pl](http://www.aeroklub.poznan.pl)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## BK PAN – Biblioteka Kórnicka
- - [http://www.bkpan.poznan.pl](http://www.bkpan.poznan.pl)
- - date_published: 2024-09-03T19:25:02.981645+00:00
-
- ## Nowości | Wydawnictwo PP
- - [http://www.ed.put.poznan.pl](http://www.ed.put.poznan.pl)
- - date_published: 2024-09-02T13:59:23.157399+00:00
-
- ## Instytut Chemii Bioorganicznej Polskiej Akademii Nauk - Wizytówka
- - [http://www.ibch.poznan.pl](http://www.ibch.poznan.pl)
- - date_published: 2024-09-02T14:16:45.025138+00:00
-
- ## Instytut Dendrologii PAN - INSTYTUT DENDROLOGII
- - [http://www.idpan.poznan.pl](http://www.idpan.poznan.pl)
- - date_published: 2024-09-03T19:25:04+00:00
-
- ## Księgarnia Instytutu Zachodniego
- - [http://www.ksiegarnia.iz.poznan.pl](http://www.ksiegarnia.iz.poznan.pl)
- - date_published: 2024-07-09T07:28:46.284316+00:00
-
- ## Poznańskie Centrum Superkomputerowo-Sieciowe | PCSS |
- - [http://www.man.poznan.pl](http://www.man.poznan.pl)
- - date_published: 2024-09-02T14:16:32.145692+00:00
-
- ## MPK Poznań Sp. z o.o.
- - [https://www.mpk.poznan.pl](https://www.mpk.poznan.pl)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## ZFPiN – ZFPiN
- - [http://www.nano.put.poznan.pl](http://www.nano.put.poznan.pl)
- - date_published: 2024-09-02T14:05:24.139394+00:00
-
- ## Oddział Wielkopolski::Polskie Towarzystwo Informatyczne
- - [http://www.pti.poznan.pl](http://www.pti.poznan.pl)
- - date_published: 2024-01-25T21:34:24+00:00
-
- ## ROPS POZNAŃ - Regionalny Ośrodek Polityki Społecznej w Poznaniu
- - [http://www.rops.poznan.pl](http://www.rops.poznan.pl)
- - date_published: 2024-07-13T19:10:13.301891+00:00
-
- ## Nowości | Wydawnictwo PP
- - [https://wydawnictwo.put.poznan.pl](https://wydawnictwo.put.poznan.pl)
- - date_published: 2024-05-26T18:42:05.219175+00:00
-
- ## Witamy | Zamówienia Publiczne
- - [https://zamowienia-publiczne.put.poznan.pl](https://zamowienia-publiczne.put.poznan.pl)
- - date_published: 2024-05-26T18:41:44.604648+00:00
-
- ## Zintegrowane Centrum Obsługi – Witryna Zintegrowanego Centrum Obsługi Politechniki Poznańskiej
- - [https://zco.put.poznan.pl](https://zco.put.poznan.pl)
- - date_published: 2024-05-26T18:41:25.552801+00:00
-
- ## Zarząd Dróg Miejskich w Poznaniu
- - [https://zdm.poznan.pl](https://zdm.poznan.pl)
- - date_published: 2024-06-13T17:05:17.563156+00:00
-
- ## Strona główna » Zarząd Transportu Miejskiego w Poznaniu
- - [https://ztm.poznan.pl](https://ztm.poznan.pl)
- - date_published: 2024-06-13T17:04:42.531921+00:00
- - tags: ['public transportation', 'government']
-
- ## Poznań Congress Center
- - [https://poznancongresscenter.pl](https://poznancongresscenter.pl)
- - date_published: 2024-08-18T14:40:53.187057+00:00
-
- ## OGŁOSZENIA PARAFIALNE - Parafia Zmartwychwstania Pańskiego w Poznaniu
- - [https://www.poznancr.pl](https://www.poznancr.pl)
- - date_published: 2024-09-15T09:02:59+00:00
 

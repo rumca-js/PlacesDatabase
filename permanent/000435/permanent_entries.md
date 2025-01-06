@@ -1,3 +1,103 @@
+ ## GECCO 2021 | HomePage
+ - [https://gecco-2021.sigevo.org](https://gecco-2021.sigevo.org)
+ - date_published: 2024-08-19T18:39:04.275990+00:00
+
+ ## GECCO 2024 | HomePage
+ - [https://gecco-2024.sigevo.org](https://gecco-2024.sigevo.org)
+ - date_published: 2024-07-07T09:19:18.915240+00:00
+
+ ## Home - SIGGRAPH Asia 2024
+ - [https://asia.siggraph.org](https://asia.siggraph.org)
+ - date_published: 2023-10-30T10:23:33+00:00
+
+ ## Latest Posts - ACM SIGGRAPH Blog
+ - [https://blog.siggraph.org](https://blog.siggraph.org)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## RCDC@SIGGRAPH – SIGGRAPH Research Career Development Committee
+ - [https://research.siggraph.org](https://research.siggraph.org)
+ - date_published: 2024-08-07T14:14:34.590706+00:00
+
+ ## Index of /
+ - [https://s2015.siggraph.org](https://s2015.siggraph.org)
+ - date_published: 2024-07-02T13:33:24.803789+00:00
+
+ ## Home - SIGGRAPH 2018
+ - [https://s2018.siggraph.org](https://s2018.siggraph.org)
+ - date_published: 2019-04-25T21:39:52+00:00
+
+ ## Home | SIGGRAPH 2019
+ - [https://s2019.siggraph.org](https://s2019.siggraph.org)
+ - date_published: 2024-04-30T05:42:57.692867+00:00
+
+ ## SIGGRAPH 2020 - SIGGRAPH
+ - [https://s2020.siggraph.org](https://s2020.siggraph.org)
+ - date_published: 2024-07-11T14:32:21.408992+00:00
+
+ ## Home Page | SIGGRAPH 2021
+ - [https://s2021.siggraph.org](https://s2021.siggraph.org)
+ - date_published: 2024-06-05T21:58:33+00:00
+
+ ## Home Page | SIGGRAPH 2022
+ - [https://s2022.siggraph.org](https://s2022.siggraph.org)
+ - date_published: 2023-10-13T16:21:26+00:00
+
+ ## SIGGRAPH 2023
+ - [https://s2023.siggraph.org](https://s2023.siggraph.org)
+ - date_published: 2024-06-22T08:50:29.707222+00:00
+
+ ## SIGGRAPH 2024
+ - [https://s2024.siggraph.org](https://s2024.siggraph.org)
+ - date_published: 2024-07-03T02:06:55+00:00
+
+ ## SIGGRAPH Asia 2018
+ - [https://sa2018.siggraph.org](https://sa2018.siggraph.org)
+ - date_published: 2019-12-27T12:31:46+00:00
+
+ ## SIGGRAPH Asia 2019
+ - [https://sa2019.siggraph.org](https://sa2019.siggraph.org)
+ - date_published: 2020-04-24T15:59:40+00:00
+
+ ## Home
+ - [https://sa2021.siggraph.org](https://sa2021.siggraph.org)
+ - date_published: 2024-07-03T04:40:12.065780+00:00
+
+ ## Page has moved
+ - [https://sa2022.siggraph.org](https://sa2022.siggraph.org)
+ - date_published: 2023-08-02T18:48:04+00:00
+
+ ## Home - ACM SIGGRAPH
+ - [https://siggraph.org](https://siggraph.org)
+ - date_published: 2021-10-19T23:47:50+00:00
+
+ ## Meeting Your Needs
+ - [https://www.sighpc.org](https://www.sighpc.org)
+ - date_published: 2024-05-11T06:55:45.559562+00:00
+
+ ## Home - Sightline Institute
+ - [https://daily.sightline.org](https://daily.sightline.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home - Sightline Institute
+ - [https://sightline.org](https://sightline.org)
+ - date_published: 2023-10-25T22:08:21.247502+00:00
+
+ ## Sightline Security
+ - [https://sightlinesecurity.org](https://sightlinesecurity.org)
+ - date_published: 2024-07-16T20:39:03.123543+00:00
+
+ ## Sight and Sound - CVPR 2023
+ - [https://sightsound.org](https://sightsound.org)
+ - date_published: 2024-06-16T15:20:54+00:00
+
+ ## SIGIR | Special Interest Group on Information Retrieval
+ - [https://sigir.org](https://sigir.org)
+ - date_published: 2013-07-18T00:00:00+00:00
+
+ ## SIGIR-AP - ACM-SIGIR Information Retrieval in the Asia Pacific
+ - [https://www.sigir-ap.org](https://www.sigir-ap.org)
+ - date_published: 2024-08-06T07:25:28+00:00
+
  ## LICS - ACM/IEEE Symposium on Logic in Computer Science
  - [https://lics.siglog.org](https://lics.siglog.org)
  - date_published: 2023-09-20T05:08:23+00:00
@@ -7,7 +107,7 @@
  - date_published: 2024-08-07T17:23:24.308277+00:00
 
  ## The Sigma Awards
- - [https://www.sigmaawards.org](https://www.sigmaawards.org)
+ - [https://sigmaawards.org](https://sigmaawards.org)
  - date_published: 2024-06-22T12:52:36.745475+00:00
 
  ## Sigma Delta Pi
@@ -19,7 +119,7 @@
  - date_published: 2024-11-25T10:03:03+00:00
 
  ## Sigma Home Page
- - [https://www.sigmanursing.org](https://www.sigmanursing.org)
+ - [https://sigmanursing.org](https://sigmanursing.org)
  - date_published: 2024-08-19T18:27:41.436264+00:00
 
  ## Home - Sigma Xi
@@ -27,11 +127,11 @@
  - date_published: 2024-10-19T03:59:51.920506+00:00
 
  ## Your industry Internships - Sigma Xi - Intern Board
- - [http://internships.sigmaxi.org](http://internships.sigmaxi.org)
+ - [https://internships.sigmaxi.org](https://internships.sigmaxi.org)
  - date_published: 2024-06-17T11:47:57.631431+00:00
 
  ## Scientific Research Jobs - Sigma Xi, The Scientific Research Society's Career Center
- - [http://jobs.sigmaxi.org](http://jobs.sigmaxi.org)
+ - [https://jobs.sigmaxi.org](https://jobs.sigmaxi.org)
  - date_published: 2024-06-17T11:47:42.237589+00:00
 
  ## Home
@@ -39,7 +139,7 @@
  - date_published: 2024-06-17T11:48:07.771145+00:00
 
  ## ACM SIGMETRICS
- - [http://sigmetrics.org](http://sigmetrics.org)
+ - [https://sigmetrics.org](https://sigmetrics.org)
  - date_published: 2024-08-07T17:23:08.473446+00:00
 
  ## ACM SIGMICRO: Home
@@ -47,7 +147,7 @@
  - date_published: 2023-11-29T17:19:24.251668+00:00
 
  ## ACM SIGMM Records – News for the Multimedia Community
- - [http://records.sigmm.org](http://records.sigmm.org)
+ - [https://records.sigmm.org](https://records.sigmm.org)
  - date_published: 2024-09-14T08:42:16.733066+00:00
 
  ## ACM SIGMM - the Special Interest Group on Multimedia
@@ -67,11 +167,11 @@
  - date_published: 2024-07-01T20:04:36.323647+00:00
 
  ## The 2023 ACM SIGMOD/PODS Conference: Seattle, Washington, USA - Welcome
- - [http://2023.sigmod.org](http://2023.sigmod.org)
+ - [https://2023.sigmod.org](https://2023.sigmod.org)
  - date_published: 2024-07-02T13:33:20.798166+00:00
 
  ## The 2024 ACM SIGMOD/PODS Conference: Santiago, Chile - Welcome
- - [http://2024.sigmod.org](http://2024.sigmod.org)
+ - [https://2024.sigmod.org](https://2024.sigmod.org)
  - date_published: 2024-07-09T13:47:51.543967+00:00
 
  ## The 2025 ACM SIGMOD/PODS Conference: Berlin, Germany - Welcome
@@ -87,11 +187,11 @@
  - date_published: 2024-07-01T20:06:40.765534+00:00
 
  ## ACM SIGMOD Blog
- - [http://wp.sigmod.org](http://wp.sigmod.org)
+ - [https://wp.sigmod.org](https://wp.sigmod.org)
  - date_published: 2024-07-09T13:48:03.982588+00:00
 
  ## The 2014 ACM SIGMOD/PODS Conference: Snowbird, Utah, USA - Welcome
- - [http://www.sigmod2014.org](http://www.sigmod2014.org)
+ - [https://sigmod2014.org](https://sigmod2014.org)
  - date_published: 2024-09-02T16:19:20.015270+00:00
 
  ## The 2018 ACM SIGMOD/PODS Conference: Houston, TX, USA - Welcome
@@ -108,7 +208,7 @@
  - tags: ['social communicator']
 
  ## https://support.signal.org
- - [https://support.signal.org](https://support.signal.org)
+ - [http://support.signal.org](http://support.signal.org)
  - date_published: 2023-11-08T23:51:03.659129+00:00
 
  ## Local news and resources for Clevelanders by Clevelanders
@@ -116,7 +216,7 @@
  - date_published: 2024-06-21T13:17:49+00:00
 
  ## Home
- - [http://signalculture.org](http://signalculture.org)
+ - [https://signalculture.org](https://signalculture.org)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## Signal Foundation
@@ -158,7 +258,7 @@
  - tags: ['certificate']
 
  ## SignServer: Open-Source Signing Software
- - [https://www.signserver.org](https://www.signserver.org)
+ - [https://signserver.org](https://signserver.org)
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## Home - Signum University
@@ -166,11 +266,11 @@
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## SignWriting For Sign Languages
- - [https://www.signwriting.org](https://www.signwriting.org)
+ - [https://signwriting.org](https://signwriting.org)
  - date_published: 2024-05-08T20:25:22+00:00
 
  ## HotOS - XVII
- - [http://hotos19.sigops.org](http://hotos19.sigops.org)
+ - [https://hotos19.sigops.org](https://hotos19.sigops.org)
  - date_published: 2019-05-10T13:29:52+00:00
 
  ## SIGOPS
@@ -342,11 +442,11 @@
  - date_published: 2024-08-06T04:30:18.609444+00:00
 
  ## SIGPLAN
- - [http://sigplan.org](http://sigplan.org)
+ - [https://sigplan.org](https://sigplan.org)
  - date_published: 2024-06-18T00:27:41+00:00
 
  ## IEEE Signal Processing Society | SigPort
- - [http://sigport.org](http://sigport.org)
+ - [https://sigport.org](https://sigport.org)
  - date_published: 2024-07-01T12:10:04+00:00
 
  ## SIGREP
@@ -354,7 +454,7 @@
  - date_published: 2023-08-01T19:56:48+00:00
 
  ## The Sigrid Rausing Trust
- - [https://www.sigrid-rausing-trust.org](https://www.sigrid-rausing-trust.org)
+ - [https://sigrid-rausing-trust.org](https://sigrid-rausing-trust.org)
  - date_published: 2024-06-28T21:41:19.276684+00:00
 
  ## sigrok
@@ -366,7 +466,7 @@
  - date_published: 2024-05-11T07:20:57.704370+00:00
 
  ## SIGSAM Home Page
- - [http://www.sigsam.org](http://www.sigsam.org)
+ - [https://sigsam.org](https://sigsam.org)
  - date_published: 2024-06-25T20:16:39+00:00
 
  ## The ACM Special Interest Group on Software Engineering
@@ -382,7 +482,7 @@
  - date_published: 2024-07-29T07:13:59+00:00
 
  ## ACM SIGUCCS
- - [https://www.siguccs.org](https://www.siguccs.org)
+ - [https://siguccs.org](https://siguccs.org)
  - date_published: 2024-07-02T12:36:05+00:00
 
  ## SIGWEB - Home
@@ -398,11 +498,11 @@
  - date_published: 2023-12-08T00:00:00+00:00
 
  ## Local Search and Digital Marketing Industry Association
- - [https://www.siinda.org](https://www.siinda.org)
+ - [https://siinda.org](https://siinda.org)
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## Nettikasino – Löydä luotettavat nettikasinot suomalaisille 2024
- - [http://sijoitusrahastot.org](http://sijoitusrahastot.org)
+ - [https://sijoitusrahastot.org](https://sijoitusrahastot.org)
  - date_published: 2024-09-14T07:18:35+00:00
 
  ## SIKE – Supersingular Isogeny Key Encapsulation
@@ -410,7 +510,7 @@
  - date_published: 2021-06-09T00:00:00+00:00
 
  ## Home
- - [http://www.sikhcoalition.org](http://www.sikhcoalition.org)
+ - [https://sikhcoalition.org](https://sikhcoalition.org)
  - date_published: 2024-04-18T00:00:00+00:00
 
  ## Soju88 - Daftar Mudah, Login Cepat, Link Alternatif Aman untuk Akses Tanpa Batas dan Keuntungan Maksimal Setiap Hari
@@ -418,7 +518,7 @@
  - date_published: 2024-10-21T13:15:43.107502+00:00
 
  ## sikurezza.org | Italian Security Mailing List
- - [https://www.sikurezza.org](https://www.sikurezza.org)
+ - [https://sikurezza.org](https://sikurezza.org)
  - date_published: 2024-04-01T00:00:00+00:00
 
  ## SIL Scripture Software Community
@@ -430,7 +530,7 @@
  - date_published: 2024-08-19T20:42:06.817446+00:00
 
  ## Home - SIL Language Technology
- - [http://fieldworks.sil.org](http://fieldworks.sil.org)
+ - [https://fieldworks.sil.org](https://fieldworks.sil.org)
  - date_published: 2015-03-09T19:21:14+00:00
 
  ## Glossary of Linguistic Terms
@@ -438,7 +538,7 @@
  - date_published: 2024-06-30T20:24:30+00:00
 
  ## Home
- - [http://graphite.sil.org](http://graphite.sil.org)
+ - [https://graphite.sil.org](https://graphite.sil.org)
  - date_published: 2023-11-22T02:51:23+00:00
 
  ## ISO 639-3 |
@@ -458,7 +558,7 @@
  - date_published: 2015-03-09T19:21:14+00:00
 
  ## SIL International
- - [http://www-01.sil.org](http://www-01.sil.org)
+ - [https://www-01.sil.org](https://www-01.sil.org)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Home
@@ -511,7 +611,7 @@
  - tags: ['integrated circuit reverse engineering', 'cpu die']
 
  ## Silicon Valley Community Foundation | Home
- - [https://www.siliconvalleycf.org](https://www.siliconvalleycf.org)
+ - [https://siliconvalleycf.org](https://siliconvalleycf.org)
  - date_published: 2024-07-06T19:17:53.902730+00:00
 
  ## Welcome – Silicon Valley DSA
@@ -527,7 +627,7 @@
  - date_published: 2024-05-29T17:49:49+00:00
 
  ## Home
- - [http://www.silvereye.org](http://www.silvereye.org)
+ - [https://silvereye.org](https://silvereye.org)
  - date_published: 2024-06-28T14:17:38.540563+00:00
 
  ## Silver Price
@@ -557,6 +657,7 @@
  ## github-issue-search-client
  - [https://silverstripe-issue-tracker.silverstripe.org](https://silverstripe-issue-tracker.silverstripe.org)
  - date_published: 2024-06-17T16:24:56.791685+00:00
+ - date_dead_since: 2025-01-05T17:52:52.788944+00:00
 
  ## Silverstripe CMS » the open source CMS that empowers great web teams
  - [https://silverstripe.org](https://silverstripe.org)
@@ -567,7 +668,7 @@
  - date_published: 2024-05-08T06:48:36.860774+00:00
 
  ## Society for Inherited Metabolic Disorders
- - [https://www.simd.org](https://www.simd.org)
+ - [https://simd.org](https://simd.org)
  - date_published: 2024-09-14T10:01:18.619486+00:00
 
  ## The simdjson library
@@ -575,11 +676,11 @@
  - date_published: 2023-12-29T14:33:05+00:00
 
  ## Home | Stories Inspiring Movements
- - [http://simforus.org](http://simforus.org)
+ - [https://simforus.org](https://simforus.org)
  - date_published: 2024-10-15T06:26:06.633832+00:00
 
  ## Simit - A language for computing on sparse systems
- - [http://simit-lang.org](http://simit-lang.org)
+ - [https://simit-lang.org](https://simit-lang.org)
  - date_published: 2017-05-26T20:36:41+00:00
 
  ## Simon Dalvai
@@ -706,7 +807,7 @@
  - date_published: 2023-10-25T22:08:42.916358+00:00
 
  ## Simply Psychology | Self-Care, Theories, Famous Studies & More
- - [https://www.simplypsychology.org](https://www.simplypsychology.org)
+ - [https://simplypsychology.org](https://simplypsychology.org)
  - date_published: 2024-05-15T00:00:00+00:00
 
  ## Home – Simply Secure
@@ -718,7 +819,7 @@
  - date_published: 2023-10-03T20:42:10+00:00
 
  ## UMass Memorial Health - Simply Well Blog
- - [https://www.simplywellblog.org](https://www.simplywellblog.org)
+ - [https://simplywellblog.org](https://simplywellblog.org)
  - date_published: 2024-04-04T00:00:00+00:00
 
  ## SimTK: Welcome
@@ -742,7 +843,7 @@
  - date_published: 2024-03-12T00:00:00+00:00
 
  ## SinaiEM
- - [http://sinaiem.org](http://sinaiem.org)
+ - [https://sinaiem.org](https://sinaiem.org)
  - date_published: 2024-07-06T23:47:11.130195+00:00
 
  ## Since Parkland
@@ -754,16 +855,16 @@
  - date_published: 2024-12-15T05:37:18.003605+00:00
 
  ## Page Redirection
- - [http://www.sinconf.org](http://www.sinconf.org)
+ - [http://sinconf.org](http://sinconf.org)
  - date_published: 2024-04-06T13:08:19+00:00
+
+ ## Scientific Indexing Services
+ - [https://sindexs.org](https://sindexs.org)
+ - date_published: 2024-10-14T20:49:33.504510+00:00
 
  ## Scientific Indexing Services
  - [http://sindexs.org](http://sindexs.org)
  - date_published: 2024-12-12T19:13:08.093126+00:00
-
- ## Scientific Indexing Services
- - [https://www.sindexs.org](https://www.sindexs.org)
- - date_published: 2024-10-14T20:49:33.504510+00:00
 
  ## Connect - Modern Gaming Client | Sindome
  - [https://play.sindome.org](https://play.sindome.org)
@@ -779,7 +880,7 @@
  - date_published: 2018-06-10T06:36:35+00:00
 
  ## INICIO | sinergiaanimal
- - [https://www.sinergiaanimal.org](https://www.sinergiaanimal.org)
+ - [https://sinergiaanimal.org](https://sinergiaanimal.org)
  - date_published: 2024-06-21T11:37:55.834610+00:00
 
  ## Inicio : World of Wargame
@@ -787,11 +888,11 @@
  - date_published: 2024-10-31T07:33:57.711707+00:00
 
  ## SINGA Belgique inclusion et hébergement réfugiés à Bruxelles
- - [https://www.singa-belgium.org](https://www.singa-belgium.org)
+ - [https://singa-belgium.org](https://singa-belgium.org)
  - date_published: 2024-07-12T08:40:35.184363+00:00
 
  ## Home | Singapore Convention on Mediation
- - [https://www.singaporeconvention.org](https://www.singaporeconvention.org)
+ - [https://singaporeconvention.org](https://singaporeconvention.org)
  - date_published: 2024-06-30T03:59:02.485731+00:00
 
  ## FinTech Directory
@@ -807,7 +908,7 @@
  - date_published: 2024-05-20T00:00:00+00:00
 
  ## singularities
- - [http://singularities.org](http://singularities.org)
+ - [https://singularities.org](https://singularities.org)
  - date_published: 2013-09-23T09:40:22+00:00
 
  ## A scientific-art graphics collection
@@ -827,11 +928,11 @@
  - date_published: 2024-05-07T21:56:13.170460+00:00
 
  ## sintellectual.org is almost here!
- - [http://www.sintellectual.org](http://www.sintellectual.org)
+ - [http://sintellectual.org](http://sintellectual.org)
  - date_published: 2024-08-30T22:06:15+00:00
 
  ## City of Sioux City website | Home
- - [https://www.sioux-city.org](https://www.sioux-city.org)
+ - [https://sioux-city.org](https://sioux-city.org)
  - date_published: 2024-07-14T20:08:04+00:00
 
  ## Sioux City Garden Club
@@ -847,23 +948,23 @@
  - date_published: 2024-05-01T02:03:21.968766+00:00
 
  ## SIPCAPTURE VoIP & RTC Analyzer
- - [https://www.sipcapture.org](https://www.sipcapture.org)
+ - [https://sipcapture.org](https://sipcapture.org)
  - date_published: 2023-09-03T20:21:33+00:00
 
  ## Sipdroid
- - [https://www.sipdroid.org](https://www.sipdroid.org)
+ - [https://sipdroid.org](https://sipdroid.org)
  - date_published: 2024-05-04T09:17:47.000012+00:00
 
  ## Home- Sociedad Interamericana de Prensa
- - [https://en.sipiapa.org](https://en.sipiapa.org)
+ - [http://en.sipiapa.org](http://en.sipiapa.org)
  - date_published: 2024-09-10T12:42:17+00:00
 
  ## Inicio- Sociedad Interamericana de Prensa
- - [https://pt.sipiapa.org](https://pt.sipiapa.org)
+ - [http://pt.sipiapa.org](http://pt.sipiapa.org)
  - date_published: 2024-09-10T12:39:29+00:00
 
  ## Hemispheric Conference of media and digital technology companies
- - [http://sipconnect.en.sipiapa.org](http://sipconnect.en.sipiapa.org)
+ - [https://sipconnect.en.sipiapa.org](https://sipconnect.en.sipiapa.org)
  - date_published: 2024-09-10T00:00:00+00:00
 
  ## Inicio- Sociedad Interamericana de Prensa
@@ -3930,104 +4031,4 @@ Santa Rosa Veterans Building, Santa Rosa, CA |
  ## SevenuP
  - [http://metalbrain.speccy.org](http://metalbrain.speccy.org)
  - date_published: 2006-12-17T13:30:29+00:00
-
- ## MHOnline
- - [http://mhonline.speccy.org](http://mhonline.speccy.org)
- - date_published: 2024-08-07T08:59:09.970518+00:00
-
- ## MHoogle: Buscador de contenidos de la revista MicroHobby
- - [http://mhoogle.speccy.org](http://mhoogle.speccy.org)
- - date_published: 2024-08-07T08:59:06.847332+00:00
-
- ## MicroHobby Revisited - index
- - [http://mhr.speccy.org](http://mhr.speccy.org)
- - date_published: 2012-10-10T22:18:28+00:00
-
- ## Octocom
- - [http://octocom.speccy.org](http://octocom.speccy.org)
- - date_published: 2023-01-16T00:12:31+00:00
-
- ## Pasmo, ensamblador Z80 / Z80 assembler
- - [http://pasmo.speccy.org](http://pasmo.speccy.org)
- - date_published: 2022-03-05T18:13:46+00:00
-
- ## La tira de ECSS
- - [http://pedrete.speccy.org](http://pedrete.speccy.org)
- - date_published: 2004-08-29T20:24:09+00:00
-
- ## Portadas MicroHobby
- - [http://portadasmh.speccy.org](http://portadasmh.speccy.org)
- - date_published: 2022-10-22T23:11:42+00:00
-
- ## SinclairManía
- - [http://sinclairmania.speccy.org](http://sinclairmania.speccy.org)
- - date_published: 2014-10-31T08:47:23+00:00
-
- ## Sinclair QL - Recursos en Castellano
- - [http://sinclairql.speccy.org](http://sinclairql.speccy.org)
- - date_published: 2009-04-19T20:24:14+00:00
-
- ## SPA2 - El archivo eSPAñol del Spectrum
- - [http://spa2.speccy.org](http://spa2.speccy.org)
- - date_published: 2024-08-07T08:59:24.545825+00:00
-
- ## speccy4ever
- - [https://speccy4ever.speccy.org](https://speccy4ever.speccy.org)
- - date_published: 2024-05-19T20:52:22+00:00
-
- ## El portal español del Spectrum
- - [https://speccy.org](https://speccy.org)
- - date_published: 2024-04-28T04:43:39.002805+00:00
-
- ## Spectrumaníacos
- - [https://spectrumaniacos.speccy.org](https://spectrumaniacos.speccy.org)
- - date_published: 2022-09-20T20:52:08+00:00
-
- ## Spectrum Forever
- - [http://spectrumforever.speccy.org](http://spectrumforever.speccy.org)
- - date_published: 2009-07-04T13:40:48+00:00
-
- ## TECHNONEW.COM
- - [http://technonew.speccy.org](http://technonew.speccy.org)
- - date_published: 2014-10-31T09:40:35+00:00
-
- ## El Trastero del Spectrum
- - [http://trastero.speccy.org](http://trastero.speccy.org)
- - date_published: 2024-08-05T09:46:15+00:00
-
- ## Uto's 8 bit page
- - [http://uto.speccy.org](http://uto.speccy.org)
- - date_published: 2021-11-05T18:17:25+00:00
-
- ## Vega Solaris - El juego.
- - [http://vegasolaris.speccy.org](http://vegasolaris.speccy.org)
- - date_published: 2024-08-07T08:59:32.863063+00:00
-
- ## indice [El wiki de Speccy.org]
- - [https://wiki.speccy.org](https://wiki.speccy.org)
- - date_published: 2024-08-07T08:58:22.716447+00:00
-
- ## YASS - Yet Another Spectrum Simulator
- - [http://yass.speccy.org](http://yass.speccy.org)
- - date_published: 2012-09-22T10:52:01+00:00
-
- ## Z80 Loader +3
- - [http://z80loader3.speccy.org](http://z80loader3.speccy.org)
- - date_published: 2013-03-29T05:39:47+00:00
-
- ## ZXBaremulator
- - [http://zxmini.speccy.org](http://zxmini.speccy.org)
- - date_published: 2020-01-21T20:40:59+00:00
-
- ## ZX-Uno [Clon de ordenador ZX Spectrum basado en FPGA]
- - [http://zxuno.speccy.org](http://zxuno.speccy.org)
- - date_published: 2016-10-18T00:00:00+00:00
-
- ## BDD Framework for .NET - SpecFlow - Find Bugs before they happen
- - [https://specflow.org](https://specflow.org)
- - date_published: 2024-07-04T11:41:51.176473+00:00
-
- ## Center for Inclusive Health Homepage
- - [http://inclusivehealth.specialolympics.org](http://inclusivehealth.specialolympics.org)
- - date_published: 2024-09-19T22:03:21.010218+00:00
 

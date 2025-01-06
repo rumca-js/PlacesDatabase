@@ -1,3 +1,104 @@
+ ## Shelf - Open-Source Asset Management Software | Simplify Inventory Tracking
+ - [https://shelf.nu](https://shelf.nu)
+ - date_published: 2024-10-30T15:54:16+00:00
+
+ ## SIEG . NU
+ - [http://sieg.nu](http://sieg.nu)
+ - date_published: 2019-03-21T21:35:20+00:00
+
+ ## Sjef van Gaalen
+ - [https://sjef.nu](https://sjef.nu)
+ - date_published: 2024-02-11T00:00:00+00:00
+
+ ## SM Foundry for Modern Typeface Design
+ - [https://s-m.nu](https://s-m.nu)
+ - date_published: 2024-10-29T13:37:36.484121+00:00
+
+ ## SOGo
+ - [https://demo.sogo.nu](https://demo.sogo.nu)
+ - date_published: 2024-11-08T19:15:20.901090+00:00
+
+ ## SOGo | Free Open Source Webmail
+ - [https://sogo.nu](https://sogo.nu)
+ - date_published: 2024-08-07T00:00:00+00:00
+ - tags: ['open source', 'webmail']
+
+ ## MMM: lunar low-gravity scripting playground
+ - [https://mmm.s-ol.nu](https://mmm.s-ol.nu)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## XD Radio - stervantwente.nu
+ - [http://stervantwente.nu](http://stervantwente.nu)
+ - date_published: 2022-03-27T19:04:17+00:00
+
+ ## Allt du behöver veta om dina studier
+ - [https://www.studera.nu](https://www.studera.nu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## SWAMP Art work by Matt Kenyon
+ - [http://swamp.nu](http://swamp.nu)
+ - date_published: 2024-07-10T11:20:11.038415+00:00
+
+ ## Swish - För en enklare vardag sedan 2012.
+ - [https://www.swish.nu](https://www.swish.nu)
+ - date_published: 2024-05-23T11:50:38+00:00
+
+ ## Tabe's Home Page
+ - [https://tabe.nu](https://tabe.nu)
+ - date_published: 2022-03-02T21:26:50+00:00
+
+ ## Tech Blog
+ - [https://tbl.nu](https://tbl.nu)
+ - date_published: 2022-05-19T04:53:30+00:00
+
+ ## Temperatur.nu
+ - [https://www.temperatur.nu](https://www.temperatur.nu)
+ - date_published: 2024-07-11T13:12:09.430272+00:00
+
+ ## Bomen laten leven
+ - [https://www.terranostra.nu](https://www.terranostra.nu)
+ - date_published: 2024-12-23T10:42:34+00:00
+
+ ## ThisLove.nu — all that i love
+ - [http://fans.thislove.nu](http://fans.thislove.nu)
+ - date_published: 2024-06-20T21:14:17.226026+00:00
+
+ ## ThisLove.nu — all that i love
+ - [https://thislove.nu](https://thislove.nu)
+ - date_published: 2024-06-20T21:16:19.005914+00:00
+
+ ## Urbit - ett nytt internet
+ - [https://urbit.nu](https://urbit.nu)
+ - date_published: 2022-11-10T08:56:54+00:00
+
+ ## About Validator.nu
+ - [https://about.validator.nu](https://about.validator.nu)
+ - date_published: 2022-03-07T13:49:57+00:00
+
+ ## Bug List
+ - [https://bugzilla.validator.nu](https://bugzilla.validator.nu)
+ - date_published: 2019-06-11T06:39:25+00:00
+
+ ## Validator.nu (X)HTML5 Validator  - Nu Html Checker
+ - [https://html5.validator.nu](https://html5.validator.nu)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Validator.nu  - Nu Html Checker
+ - [https://validator.nu](https://validator.nu)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## vecka.nu -- vecka 37
+ - [https://vecka.nu](https://vecka.nu)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Games - Media - Fun
+ - [https://venue.nu](https://venue.nu)
+ - date_published: 2024-07-11T23:41:05+00:00
+
+ ## Veren Of Lood - Nieuws, Opinie & Debatblog
+ - [http://verenoflood.nu](http://verenoflood.nu)
+ - date_published: 2024-12-19T10:46:21.471141+00:00
+
  ## Viagra.NU - Hét informatiepunt voor Viagra.
  - [https://www.viagra.nu](https://www.viagra.nu)
  - date_published: 2024-09-18T20:04:37.684420+00:00
@@ -3920,104 +4021,4 @@
  ## What Are Human Rights? Defined • Youth for Human Rights Campaign
  - [http://www.youthforhumanrights.org.nz](http://www.youthforhumanrights.org.nz)
  - date_published: 2024-09-04T17:54:03.840995+00:00
-
- ## Ombudsman New Zealand
- - [https://www.ombudsman.parliament.nz](https://www.ombudsman.parliament.nz)
- - date_published: 2024-10-29T18:45:24+00:00
-
- ## New Zealand Parliament home page - New Zealand Parliament
- - [https://www.parliament.nz](https://www.parliament.nz)
- - date_published: 2024-10-28T08:36:45.103977+00:00
-
- ## Browne School of Art | Auckland, NZ
- - [https://www.browne.school.nz](https://www.browne.school.nz)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Homepage - Scots College
- - [http://www.scotscollege.school.nz](http://www.scotscollege.school.nz)
- - date_published: 2024-09-05T17:24:41.898398+00:00
-
- ## Home – St Mark's School
- - [http://www.st-marks.school.nz](http://www.st-marks.school.nz)
- - date_published: 2024-09-05T02:33:51+00:00
-
- ## Home - Altcoin Observer
- - [https://altcoin.observer](https://altcoin.observer)
- - date_published: 2024-07-29T14:01:43+00:00
-
- ## AskHistorians Archive Observer
- - [https://archive.observer](https://archive.observer)
- - date_published: 2023-07-23T18:04:45+00:00
-
- ## corru.observer
- - [https://corru.observer](https://corru.observer)
- - date_published: 2024-06-23T18:33:11.915513+00:00
-
- ## Ian's blog | entropy.observer
- - [https://blog.entropy.observer](https://blog.entropy.observer)
- - date_published: 2023-10-25T20:51:56.441202+00:00
-
- ## The World's Largest Exploit & Vulnerability Database
- - [https://exploit.observer](https://exploit.observer)
- - date_published: 2024-04-30T05:57:32.690426+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://akkoma.fediverse.observer](https://akkoma.fediverse.observer)
- - date_published: 2024-07-18T05:38:29.648190+00:00
-
- ## Fediverse Observer | GraphiQL API
- - [https://api.fediverse.observer](https://api.fediverse.observer)
- - date_published: 2024-07-18T05:38:19.113861+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://bookwyrm.fediverse.observer](https://bookwyrm.fediverse.observer)
- - date_published: 2024-07-18T05:38:54.346368+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://bridgy-fed.fediverse.observer](https://bridgy-fed.fediverse.observer)
- - date_published: 2024-07-18T05:38:27.948048+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://cdn.fediverse.observer](https://cdn.fediverse.observer)
- - date_published: 2024-07-18T05:38:47.227460+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://cherrypick.fediverse.observer](https://cherrypick.fediverse.observer)
- - date_published: 2024-07-18T05:38:24.413993+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://cuculus.fediverse.observer](https://cuculus.fediverse.observer)
- - date_published: 2024-07-18T05:38:40.197160+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://diaspora.fediverse.observer](https://diaspora.fediverse.observer)
- - date_published: 2024-07-18T05:38:45.605174+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://fedibird.fediverse.observer](https://fedibird.fediverse.observer)
- - date_published: 2024-07-18T05:38:38.581771+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://fediverse.observer](https://fediverse.observer)
- - date_published: 2024-07-08T17:37:29.834254+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://firefish.fediverse.observer](https://firefish.fediverse.observer)
- - date_published: 2024-07-18T05:38:26.077369+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://foundkey.fediverse.observer](https://foundkey.fediverse.observer)
- - date_published: 2024-07-18T05:38:49.165477+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://friendica.fediverse.observer](https://friendica.fediverse.observer)
- - date_published: 2024-07-18T05:38:14.109448+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://funkwhale.fediverse.observer](https://funkwhale.fediverse.observer)
- - date_published: 2024-07-18T05:38:09.047368+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://hometown.fediverse.observer](https://hometown.fediverse.observer)
- - date_published: 2024-07-18T05:38:36.909513+00:00
 

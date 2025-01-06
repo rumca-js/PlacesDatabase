@@ -1,3 +1,19 @@
+ ## Cy-Boar - Mechanized Mutant Mayhem
+ - [http://cy-boar.com](http://cy-boar.com)
+ - date_published: 2024-07-17T08:32:41.189594+00:00
+
+ ## Anders Borch
+ - [https://cyborch.com](https://cyborch.com)
+ - date_published: 2023-09-04T11:48:26+00:00
+
+ ## Mastodon
+ - [https://mastodon.cyborch.com](https://mastodon.cyborch.com)
+ - date_published: 2023-12-24T19:39:18.473533+00:00
+
+ ## Cyborg Jeff – "BLIP BEEP"  enough to make a HIT !
+ - [http://www.cyborgjeff.com](http://www.cyborgjeff.com)
+ - date_published: 2024-07-03T04:47:17.551352+00:00
+
  ## CYBORGNAME.COM
  - [http://www.cyborgname.com](http://www.cyborgname.com)
  - date_published: 2024-07-04T15:00:05.119434+00:00
@@ -4034,21 +4050,4 @@
  ## Dariusz Winkler
  - [https://dariuszwinkler.com](https://dariuszwinkler.com)
  - date_published: 2023-02-13T09:24:17+00:00
-
- ## صدای امریکا دری
- - [https://www.darivoa.com](https://www.darivoa.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## - Smartphones as a business tools
- - [https://blog.darkaa.com](https://blog.darkaa.com)
- - date_published: 2023-12-27T19:46:16.591470+00:00
-
- ## Darkaa Bots - AI-powered chatbots available on Whatsapp
-          and Telegram
- - [https://bots.darkaa.com](https://bots.darkaa.com)
- - date_published: 2024-05-01T04:01:55.086298+00:00
-
- ## Darkaa - Smartphone-based business process tracing platform
- - [https://darkaa.com](https://darkaa.com)
- - date_published: 2024-04-26T03:34:48+00:00
 

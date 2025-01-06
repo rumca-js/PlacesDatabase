@@ -1,3 +1,114 @@
+ ## Welcome to KFUPM ePrints - KFUPM ePrints
+ - [https://eprints.kfupm.edu.sa](https://eprints.kfupm.edu.sa)
+ - date_published: 2024-09-04T05:31:16.680105+00:00
+
+ ## Information Technology | Home
+ - [https://it.kfupm.edu.sa](https://it.kfupm.edu.sa)
+ - date_published: 2024-09-04T05:31:08.227703+00:00
+
+ ## Jobs | KFUPM
+ - [https://jobs.kfupm.edu.sa](https://jobs.kfupm.edu.sa)
+ - date_published: 2024-09-04T05:31:09.941340+00:00
+
+ ## King Fahd University of Petroleum and Minerals
+ - [https://kfupm.edu.sa](https://kfupm.edu.sa)
+ - date_published: 2024-06-01T22:22:04.343356+00:00
+
+ ## NVU | Home
+ - [https://library.kfupm.edu.sa](https://library.kfupm.edu.sa)
+ - date_published: 2024-09-03T12:25:01+00:00
+
+ ## MediaCenter|
+          Home
+ - [https://mediacenter.kfupm.edu.sa](https://mediacenter.kfupm.edu.sa)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## KFUPM Medical Center|
+      Home
+ - [https://medicalcenter.kfupm.edu.sa](https://medicalcenter.kfupm.edu.sa)
+ - date_published: 2024-09-04T05:31:18.625447+00:00
+
+ ## KFUPM Central Authentication Service
+ - [https://portal.kfupm.edu.sa](https://portal.kfupm.edu.sa)
+ - date_published: 2024-09-04T05:31:27.484708+00:00
+
+ ## KFUPM |
+       Registrar
+ - [https://registrar.kfupm.edu.sa](https://registrar.kfupm.edu.sa)
+ - date_published: 2024-09-04T05:31:34.401470+00:00
+
+ ## KFUPM - Building a more sustainable future
+            
+            
+            
+            - Sustainability
+ - [https://sustainability.kfupm.edu.sa](https://sustainability.kfupm.edu.sa)
+ - date_published: 2024-09-04T05:31:28.976736+00:00
+
+ ## Dammam Community College
+ - [https://www.dcc.kfupm.edu.sa](https://www.dcc.kfupm.edu.sa)
+ - date_published: 2024-08-06T11:12:31+00:00
+
+ ## صحيفة آفاق | صوت الجامعة
+ - [https://aafaq.kku.edu.sa](https://aafaq.kku.edu.sa)
+ - date_published: 2024-09-03T09:24:47+00:00
+
+ ## الصفحة الرئيسية | كلية العلوم الطبية التطبيقية بخميس مشيط
+ - [https://amskh.kku.edu.sa](https://amskh.kku.edu.sa)
+ - date_published: 2024-09-04T05:25:34.659752+00:00
+
+ ## الصفحة الرئيسية | كلية العلوم الطبية التطبيقية بمحايل عسير
+ - [https://amsmf.kku.edu.sa](https://amsmf.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:51.598813+00:00
+
+ ## الأمانة العامة لأوقاف الجامعة
+ - [https://awqaf.kku.edu.sa](https://awqaf.kku.edu.sa)
+ - date_published: 2024-09-04T04:50:03+00:00
+
+ ## الصفحة الرئيسية | كلية العلوم الطبية التطبيقية
+ - [https://cams.kku.edu.sa](https://cams.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:06.549500+00:00
+
+ ## الصفحة الرئيسية | كلية العمارة والتخطيط
+ - [https://cap.kku.edu.sa](https://cap.kku.edu.sa)
+ - date_published: 2024-09-04T05:26:06.051506+00:00
+
+ ## الصفحة الرئيسية | كلية الأعمال
+ - [https://cb.kku.edu.sa](https://cb.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:42.701175+00:00
+
+ ## Home page | College of Languages and Translation
+ - [https://clt.kku.edu.sa](https://clt.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:54.017634+00:00
+
+ ## الرئيسية | الكلية التطبيقية
+ - [https://comkh.kku.edu.sa](https://comkh.kku.edu.sa)
+ - date_published: 2024-08-27T00:00:00+00:00
+
+ ## الصفحة الرئيسية | الكلية التطبيقية بمحايل عسير
+ - [https://comm.kku.edu.sa](https://comm.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:25.301925+00:00
+
+ ## الصفحة الرئيسية | الكلية التطبيقية برجال ألمع
+ - [https://comraf.kku.edu.sa](https://comraf.kku.edu.sa)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home page | كلية علوم الحاسب
+ - [https://cs.kku.edu.sa](https://cs.kku.edu.sa)
+ - date_published: 2024-09-04T05:29:13.956458+00:00
+
+ ## CTS Enjaz (Development)
+ - [https://ctsenjaz.kku.edu.sa](https://ctsenjaz.kku.edu.sa)
+ - date_published: 2022-11-11T03:47:32+00:00
+
+ ## Home Page | الإدارة العامة للأمن السيبراني
+ - [https://cyber.kku.edu.sa](https://cyber.kku.edu.sa)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## عمادة القبول والتسجيل | عمادة القبول والتسجيل
+ - [https://dar.kku.edu.sa](https://dar.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:32.640530+00:00
+
  ## منصة البيانات المفتوحة
  - [https://data.kku.edu.sa](https://data.kku.edu.sa)
  - date_published: 2024-09-04T05:29:15.878114+00:00
@@ -3861,6 +3972,11 @@
  - [https://www.klimatpolitiskaradet.se](https://www.klimatpolitiskaradet.se)
  - date_published: 2024-12-12T09:57:03.540984+00:00
 
+ ## Home | klippel.se
+ - [https://klippel.se](https://klippel.se)
+ - date_published: 2025-01-05T08:56:59.128778+00:00
+ - tags: ['personal']
+
  ## Parked at Loopia
  - [http://klockren.se](http://klockren.se)
  - date_published: 2024-06-23T17:51:14.516634+00:00
@@ -3904,112 +4020,4 @@
  ## Konecranes
  - [https://www.konecranes.se](https://www.konecranes.se)
  - date_published: 2024-06-20T23:03:15.978542+00:00
-
- ## Lift Trucks | Konecranes
- - [http://epiportal.konecraneslifttrucks.se](http://epiportal.konecraneslifttrucks.se)
- - date_published: 2024-06-20T23:15:43.847699+00:00
-
- ## Singer-songwriters
- - [http://konkordans.se](http://konkordans.se)
- - date_published: 2023-02-20T12:44:55+00:00
-
- ## Konstfack - Konstfack
- - [https://www.konstfack.se](https://www.konstfack.se)
- - date_published: 2024-12-19T18:46:33+00:00
-
- ## Konstnärsnämnden - Välkommen!
- - [http://www.konstnarsnamnden.se](http://www.konstnarsnamnden.se)
- - date_published: 2024-10-17T21:59:38.169795+00:00
-
- ## Kontroversiellt – Kontroversera mera
- - [https://kontroversiellt.se](https://kontroversiellt.se)
- - date_published: 2024-08-18T07:31:11.364667+00:00
-
- ## Prenumerera på Kamratposten (KP)
- - [https://prenumerera.kpwebben.se](https://prenumerera.kpwebben.se)
- - date_published: 2024-10-20T05:55:46.330785+00:00
-
- ## Startsida
- - [https://kryahem.se](https://kryahem.se)
- - date_published: 2024-07-11T23:41:35+00:00
-
- ## kryo.se: code
- - [https://code.kryo.se](https://code.kryo.se)
- - date_published: 2024-06-19T22:09:27.951503+00:00
-
- ## Cybersäkerhet och IT-säkerhet
- - [https://kryptera.se](https://kryptera.se)
- - date_published: 2024-10-31T07:32:06.387776+00:00
-
- ## CySeP Summer School 2024
- - [https://cysep.conf.kth.se](https://cysep.conf.kth.se)
- - date_published: 2024-05-13T14:58:58+00:00
-
- ## Folkets lexikon
- - [http://folkets-lexikon.csc.kth.se](http://folkets-lexikon.csc.kth.se)
- - date_published: 2017-04-20T19:44:39+00:00
-
- ## Skolan för elektroteknik och datavetenskap (EECS), KTH |  KTH
- - [https://www.csc.kth.se](https://www.csc.kth.se)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Skolan för elektroteknik och datavetenskap (EECS), KTH |  KTH
- - [http://www.ee.kth.se](http://www.ee.kth.se)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## KTH - Sveriges största tekniska universitet |  KTH
- - [https://www.kth.se](https://www.kth.se)
- - date_published: 2024-06-22T21:59:49.501186+00:00
-
- ## Dismissed site: www.nada.kth.se
- - [https://www.nada.kth.se](https://www.nada.kth.se)
- - date_published: 2020-02-27T14:20:43+00:00
-
- ## Kulturrådet
- - [https://www.kulturradet.se](https://www.kulturradet.se)
- - date_published: 2024-07-10T14:21:48.543365+00:00
-
- ## Vi gör kundservice till hjärtat i organisationen - Kundo
- - [https://jobb.kundo.se](https://jobb.kundo.se)
- - date_published: 2024-07-13T17:30:12.404330+00:00
-
- ## Sveriges mest okrångliga kundservicesystem | Kundo
- - [https://kundo.se](https://kundo.se)
- - date_published: 2024-05-11T08:02:38.962473+00:00
-
- ## Vanliga frågor och svar - Stampen media
- - [https://stampenmedia.kb.kundo.se](https://stampenmedia.kb.kundo.se)
- - date_published: 2024-08-18T04:19:36.504606+00:00
-
- ## Frågor & svar om Sveriges Radio - Sveriges Radio
- - [https://sverigesradio.kb.kundo.se](https://sverigesradio.kb.kundo.se)
- - date_published: 2024-05-11T08:02:41.187592+00:00
-
- ## Kungälvs-Posten - Nyheter från Kungälv, Ytterby och Marstrand
- - [https://kungalvsposten.se](https://kungalvsposten.se)
- - date_published: 2024-08-18T03:00:24+00:00
-
- ## Kungsbacka-Posten – Nyheter från Kungsbacka-Posten
- - [https://kungsbackaposten.se](https://kungsbackaposten.se)
- - date_published: 2024-08-18T03:29:54+00:00
-
- ## Achtung, die Kurve!
- - [https://kurve.se](https://kurve.se)
- - date_published: 2019-04-18T11:04:03+00:00
-
- ## Beijer Institute
- - [http://beijer.kva.se](http://beijer.kva.se)
- - date_published: 2024-08-18T00:15:00+00:00
-
- ## Välkommen till Kungl. Vetenskapsakademien
- - [https://www.kva.se](https://www.kva.se)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Forsta Visualizations
- - [https://kundportal.kvalitetsindex.se](https://kundportal.kvalitetsindex.se)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Hem
- - [https://kvalitetsindex.se](https://kvalitetsindex.se)
- - date_published: 2024-10-07T00:00:00+00:00
 

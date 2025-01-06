@@ -1,5 +1,21 @@
+ ## Don't Call Me Ishmael
+ - [http://dontcallmeishmael.blogspot.com](http://dontcallmeishmael.blogspot.com)
+ - date_published: 2024-09-07T20:45:48+00:00
+
+ ## Dontrustheruin Records
+ - [https://dontrusttheruin.blogspot.com](https://dontrusttheruin.blogspot.com)
+ - date_published: 2024-06-29T07:18:25+00:00
+
+ ## Dad's Deadpool blog
+ - [https://dont-sir-me.blogspot.com](https://dont-sir-me.blogspot.com)
+ - date_published: 2024-06-29T12:04:03+00:00
+
+ ## DON VIVO
+ - [https://donvivo.blogspot.com](https://donvivo.blogspot.com)
+ - date_published: 2024-07-12T19:15:26+00:00
+
  ## doodles and noodles
- - [http://doodlesandnoodles.blogspot.com](http://doodlesandnoodles.blogspot.com)
+ - [https://doodlesandnoodles.blogspot.com](https://doodlesandnoodles.blogspot.com)
  - date_published: 2024-05-04T02:06:45+00:00
 
  ## Blogger
@@ -19,15 +35,15 @@
  - date_published: 2024-11-01T10:38:52+00:00
 
  ## Doomslakers!
- - [http://doomslakers.blogspot.com](http://doomslakers.blogspot.com)
+ - [https://doomslakers.blogspot.com](https://doomslakers.blogspot.com)
  - date_published: 2024-07-15T01:11:55+00:00
 
  ## Blogger
- - [http://doorknockers.blogspot.com](http://doorknockers.blogspot.com)
+ - [https://doorknockers.blogspot.com](https://doorknockers.blogspot.com)
  - date_published: 2024-10-21T17:05:47.617969+00:00
 
  ## The doorman's blog
- - [http://doormansblog.blogspot.com](http://doormansblog.blogspot.com)
+ - [https://doormansblog.blogspot.com](https://doormansblog.blogspot.com)
  - date_published: 2024-10-21T14:34:40.829639+00:00
 
  ## Doozy Magazine
@@ -35,11 +51,11 @@
  - date_published: 2024-09-14T15:17:13+00:00
 
  ## Do Portugal Profundo
- - [http://doportugalprofundo.blogspot.com](http://doportugalprofundo.blogspot.com)
+ - [https://doportugalprofundo.blogspot.com](https://doportugalprofundo.blogspot.com)
  - date_published: 2024-06-26T07:41:37+00:00
 
  ## Doramarth
- - [http://doramarth.blogspot.com](http://doramarth.blogspot.com)
+ - [https://doramarth.blogspot.com](https://doramarth.blogspot.com)
  - date_published: 2024-07-04T05:39:37+00:00
 
  ## Doreen Michele
@@ -59,7 +75,7 @@
  - date_published: 2024-06-29T05:54:16+00:00
 
  ## The Emoluments of Mars
- - [http://dorkmission.blogspot.com](http://dorkmission.blogspot.com)
+ - [https://dorkmission.blogspot.com](https://dorkmission.blogspot.com)
  - date_published: 2024-10-03T06:47:04+00:00
 
  ## Nie znaleziono bloga
@@ -71,19 +87,19 @@
  - date_published: 2024-06-02T20:15:23+00:00
 
  ## Dorophone
- - [http://dorophone.blogspot.com](http://dorophone.blogspot.com)
+ - [https://dorophone.blogspot.com](https://dorophone.blogspot.com)
  - date_published: 2024-02-07T06:35:08+00:00
 
  ## Dorosłe Dzieci
- - [http://dorosledzieciblog.blogspot.com](http://dorosledzieciblog.blogspot.com)
+ - [https://dorosledzieciblog.blogspot.com](https://dorosledzieciblog.blogspot.com)
  - date_published: 2024-06-03T02:05:30+00:00
 
  ## Dosbat
- - [http://dosbat.blogspot.com](http://dosbat.blogspot.com)
+ - [https://dosbat.blogspot.com](https://dosbat.blogspot.com)
  - date_published: 2024-02-24T18:58:21+00:00
 
  ## The Dose Makes the Poison
- - [http://dosemakespoison.blogspot.com](http://dosemakespoison.blogspot.com)
+ - [https://dosemakespoison.blogspot.com](https://dosemakespoison.blogspot.com)
  - date_published: 2024-10-19T04:49:37.592368+00:00
 
  ## DosMan Drivel
@@ -91,7 +107,7 @@
  - date_published: 2024-05-15T11:40:00+00:00
 
  ## DOTeCOMe...o Blog
- - [http://dotecome.blogspot.com](http://dotecome.blogspot.com)
+ - [https://dotecome.blogspot.com](https://dotecome.blogspot.com)
  - date_published: 2024-07-03T05:58:07+00:00
 
  ## Do Tempo  da Outra Senhora
@@ -99,7 +115,7 @@
  - date_published: 2024-12-20T00:40:08+00:00
 
  ## dots in deep time
- - [http://dotsindeeptime.blogspot.com](http://dotsindeeptime.blogspot.com)
+ - [https://dotsindeeptime.blogspot.com](https://dotsindeeptime.blogspot.com)
  - date_published: 2024-02-20T18:15:01+00:00
 
  ## Dots of Paint
@@ -107,11 +123,11 @@
  - date_published: 2024-07-11T18:11:48+00:00
 
  ## Dottle On The Keys
- - [http://dottle-on-the-keys.blogspot.com](http://dottle-on-the-keys.blogspot.com)
+ - [https://dottle-on-the-keys.blogspot.com](https://dottle-on-the-keys.blogspot.com)
  - date_published: 2024-03-14T10:50:26+00:00
 
  ## DOUBLE 0 SVEN
- - [http://double0sven.blogspot.com](http://double0sven.blogspot.com)
+ - [https://double0sven.blogspot.com](https://double0sven.blogspot.com)
  - date_published: 2024-07-16T22:33:47+00:00
 
  ## Blogger
@@ -123,11 +139,11 @@
  - date_published: 2024-12-19T09:26:53+00:00
 
  ## Double Six
- - [http://doublesixgaming.blogspot.com](http://doublesixgaming.blogspot.com)
+ - [https://doublesixgaming.blogspot.com](https://doublesixgaming.blogspot.com)
  - date_published: 2024-03-13T02:14:14+00:00
 
  ## DoubleTapper
- - [http://doubletapper.blogspot.com](http://doubletapper.blogspot.com)
+ - [https://doubletapper.blogspot.com](https://doubletapper.blogspot.com)
  - date_published: 2024-04-27T06:29:41+00:00
 
  ## Doubletroubletwo
@@ -135,7 +151,7 @@
  - date_published: 2024-12-07T07:42:03+00:00
 
  ## The Randomly Sporatic Jacobson Family Updates
- - [http://dougandgeneenjacobsonfamily.blogspot.com](http://dougandgeneenjacobsonfamily.blogspot.com)
+ - [https://dougandgeneenjacobsonfamily.blogspot.com](https://dougandgeneenjacobsonfamily.blogspot.com)
  - date_published: 2024-07-04T06:42:25+00:00
 
  ## Doug's World
@@ -159,11 +175,11 @@
  - date_published: 2024-10-15T15:58:25+00:00
 
  ## DOVBEAR
- - [http://dovbear.blogspot.com](http://dovbear.blogspot.com)
+ - [https://dovbear.blogspot.com](https://dovbear.blogspot.com)
  - date_published: 2024-06-29T21:31:33+00:00
 
  ## Doves Today
- - [http://doves2day.blogspot.com](http://doves2day.blogspot.com)
+ - [https://doves2day.blogspot.com](https://doves2day.blogspot.com)
  - date_published: 2024-06-02T10:12:30+00:00
 
  ## Nie znaleziono bloga
@@ -171,11 +187,11 @@
  - date_published: 2024-12-31T17:35:08.192995+00:00
 
  ## A miniature blog !
- - [http://downamongthezedmen.blogspot.com](http://downamongthezedmen.blogspot.com)
+ - [https://downamongthezedmen.blogspot.com](https://downamongthezedmen.blogspot.com)
  - date_published: 2024-03-08T05:52:03+00:00
 
  ## Downed Robin
- - [http://downedrobin.blogspot.com](http://downedrobin.blogspot.com)
+ - [https://downedrobin.blogspot.com](https://downedrobin.blogspot.com)
  - date_published: 2024-10-21T13:35:47.359744+00:00
 
  ## The Dead Mall Clipper
@@ -211,15 +227,15 @@
  - date_published: 2024-08-30T07:33:38+00:00
 
  ## Doxees
- - [http://doxees.blogspot.com](http://doxees.blogspot.com)
+ - [https://doxees.blogspot.com](https://doxees.blogspot.com)
  - date_published: 2024-03-14T09:17:38+00:00
 
  ## 'Do You Write Under Your Own Name?'
- - [http://doyouwriteunderyourownname.blogspot.com](http://doyouwriteunderyourownname.blogspot.com)
+ - [https://doyouwriteunderyourownname.blogspot.com](https://doyouwriteunderyourownname.blogspot.com)
  - date_published: 2024-10-17T22:52:54.911568+00:00
 
  ## Dreaded Purple Master
- - [http://dpm.blogspot.com](http://dpm.blogspot.com)
+ - [https://dpm.blogspot.com](https://dpm.blogspot.com)
  - date_published: 2024-02-25T00:14:17+00:00
 
  ## Dyspeptic Mutterings
@@ -235,7 +251,7 @@
  - date_published: 2024-12-31T17:31:40.990765+00:00
 
  ## Dracus' Journal
- - [http://dracusjournal.blogspot.com](http://dracusjournal.blogspot.com)
+ - [https://dracusjournal.blogspot.com](https://dracusjournal.blogspot.com)
  - date_published: 2024-09-05T20:42:18+00:00
 
  ## dra
@@ -247,11 +263,11 @@
  - date_published: 2024-11-21T06:55:01+00:00
 
  ## Blogger
- - [http://draghidottone.blogspot.com](http://draghidottone.blogspot.com)
+ - [https://draghidottone.blogspot.com](https://draghidottone.blogspot.com)
  - date_published: 2024-07-20T07:10:23.803792+00:00
 
  ## Dragkons Den
- - [http://dragkonsden.blogspot.com](http://dragkonsden.blogspot.com)
+ - [https://dragkonsden.blogspot.com](https://dragkonsden.blogspot.com)
  - date_published: 2024-09-25T04:42:12+00:00
 
  ## Nie znaleziono bloga
@@ -263,7 +279,7 @@
  - date_published: 2024-11-01T11:07:04+00:00
 
  ## Draco Milites
- - [http://dragonriderhost.blogspot.com](http://dragonriderhost.blogspot.com)
+ - [https://dragonriderhost.blogspot.com](https://dragonriderhost.blogspot.com)
  - date_published: 2024-04-12T06:30:57+00:00
 
  ## DRAGOSCÓPIO
@@ -275,11 +291,11 @@
  - date_published: 2019-06-11T00:00:00+00:00
 
  ## Drama, Dice and Damsons
- - [http://dramadiceanddamsons.blogspot.com](http://dramadiceanddamsons.blogspot.com)
+ - [https://dramadiceanddamsons.blogspot.com](https://dramadiceanddamsons.blogspot.com)
  - date_published: 2012-06-28T09:24:00+00:00
 
  ## dramatic katastases
- - [http://dramatickatastases.blogspot.com](http://dramatickatastases.blogspot.com)
+ - [https://dramatickatastases.blogspot.com](https://dramatickatastases.blogspot.com)
  - date_published: 2024-07-17T23:03:35+00:00
 
  ## Draw and STRIKE!
@@ -287,11 +303,11 @@
  - date_published: 2024-12-30T09:47:00+00:00
 
  ## Situs Berita Bola dan Artikel seputar Betting
- - [http://draweveryfuckingday.blogspot.com](http://draweveryfuckingday.blogspot.com)
+ - [https://draweveryfuckingday.blogspot.com](https://draweveryfuckingday.blogspot.com)
  - date_published: 2024-08-30T03:01:30+00:00
 
  ## Taco Bell Drawing Club
- - [http://drawingattacobell.blogspot.com](http://drawingattacobell.blogspot.com)
+ - [https://drawingattacobell.blogspot.com](https://drawingattacobell.blogspot.com)
  - date_published: 2024-07-04T05:56:48+00:00
 
  ## The Drawing Mantis
@@ -323,11 +339,11 @@
  - date_published: 2024-11-08T15:16:18+00:00
 
  ## Drazhar's Miniworks
- - [http://drazhar-urien-rakarth.blogspot.com](http://drazhar-urien-rakarth.blogspot.com)
+ - [https://drazhar-urien-rakarth.blogspot.com](https://drazhar-urien-rakarth.blogspot.com)
  - date_published: 2024-03-21T16:33:00+00:00
 
  ## Known World, Old World
- - [http://drbargle.blogspot.com](http://drbargle.blogspot.com)
+ - [https://drbargle.blogspot.com](https://drbargle.blogspot.com)
  - date_published: 2020-05-01T00:00:00+00:00
 
  ## Animal Pharm
@@ -335,7 +351,7 @@
  - date_published: 2024-09-02T09:09:33+00:00
 
  ## wiązanki ślubne
- - [http://drcatheysblog.blogspot.com](http://drcatheysblog.blogspot.com)
+ - [https://drcatheysblog.blogspot.com](https://drcatheysblog.blogspot.com)
  - date_published: 2024-03-06T00:26:34+00:00
 
  ## Stuff I have to say about stuff, and stuff
@@ -359,11 +375,11 @@
  - date_published: 2024-10-28T21:49:13+00:00
 
  ## DREAMFORGE-GAMES
- - [http://dreamforge-games.blogspot.com](http://dreamforge-games.blogspot.com)
+ - [https://dreamforge-games.blogspot.com](https://dreamforge-games.blogspot.com)
  - date_published: 2024-07-11T18:54:10+00:00
 
  ## dreaming of open seas
- - [http://dreamingofopenseas.blogspot.com](http://dreamingofopenseas.blogspot.com)
+ - [https://dreamingofopenseas.blogspot.com](https://dreamingofopenseas.blogspot.com)
  - date_published: 2024-03-13T13:06:03+00:00
 
  ## Dreams and Fevers
@@ -375,7 +391,7 @@
  - date_published: 2024-08-05T23:20:07+00:00
 
  ## Dreams in the Lich House
- - [http://dreamsinthelichhouse.blogspot.com](http://dreamsinthelichhouse.blogspot.com)
+ - [https://dreamsinthelichhouse.blogspot.com](https://dreamsinthelichhouse.blogspot.com)
  - date_published: 2024-07-15T00:21:49+00:00
 
  ## I've had dreams like that.
@@ -387,23 +403,23 @@
  - date_published: 2024-06-23T04:11:57+00:00
 
  ## Dreams of Space - Books and Ephemera
- - [http://dreamsofspace.blogspot.com](http://dreamsofspace.blogspot.com)
+ - [https://dreamsofspace.blogspot.com](https://dreamsofspace.blogspot.com)
  - date_published: 2024-08-18T10:22:31+00:00
 
  ## Dreamspirit wargaming
- - [http://dreamspiritwargaming.blogspot.com](http://dreamspiritwargaming.blogspot.com)
+ - [https://dreamspiritwargaming.blogspot.com](https://dreamspiritwargaming.blogspot.com)
  - date_published: 2024-03-13T00:17:05+00:00
 
  ## DreamTimeStudios
- - [http://dreamtimestudios.blogspot.com](http://dreamtimestudios.blogspot.com)
+ - [https://dreamtimestudios.blogspot.com](https://dreamtimestudios.blogspot.com)
  - date_published: 2024-02-08T03:38:36+00:00
 
  ## Drew Drescher Miniatures
- - [http://drewdrescherminiatures.blogspot.com](http://drewdrescherminiatures.blogspot.com)
+ - [https://drewdrescherminiatures.blogspot.com](https://drewdrescherminiatures.blogspot.com)
  - date_published: 2024-09-01T09:48:26+00:00
 
  ## Drew ink and painting
- - [http://drewinkandpainting.blogspot.com](http://drewinkandpainting.blogspot.com)
+ - [https://drewinkandpainting.blogspot.com](https://drewinkandpainting.blogspot.com)
  - date_published: 2024-10-12T11:29:24+00:00
 
  ## A DREWSCAPE BLOG
@@ -415,7 +431,7 @@
  - date_published: 2024-10-07T05:32:05+00:00
 
  ## Dr. Fischer's Game Night
- - [http://drfischersgamenight.blogspot.com](http://drfischersgamenight.blogspot.com)
+ - [https://drfischersgamenight.blogspot.com](https://drfischersgamenight.blogspot.com)
  - date_published: 2024-07-14T20:59:35+00:00
 
  ## Blogger
@@ -423,11 +439,11 @@
  - date_published: 2024-12-31T20:41:49.315772+00:00
 
  ## Blogger
- - [http://drhdrdro.blogspot.com](http://drhdrdro.blogspot.com)
+ - [https://drhdrdro.blogspot.com](https://drhdrdro.blogspot.com)
  - date_published: 2024-06-30T04:34:19.943194+00:00
 
  ## Dr. Helen
- - [http://drhelen.blogspot.com](http://drhelen.blogspot.com)
+ - [https://drhelen.blogspot.com](https://drhelen.blogspot.com)
  - date_published: 2024-06-20T10:54:06+00:00
 
  ## Voz
@@ -435,11 +451,11 @@
  - date_published: 2024-12-14T11:25:41+00:00
 
  ## driftglass
- - [http://driftglass.blogspot.com](http://driftglass.blogspot.com)
+ - [https://driftglass.blogspot.com](https://driftglass.blogspot.com)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## Drinkin' and Modelin'
- - [http://drinkinandmodelin.blogspot.com](http://drinkinandmodelin.blogspot.com)
+ - [https://drinkinandmodelin.blogspot.com](https://drinkinandmodelin.blogspot.com)
  - date_published: 2024-07-09T14:18:34+00:00
 
  ## Drinking Liberally in New Milford
@@ -471,19 +487,19 @@
  - date_published: 2024-11-01T10:53:53+00:00
 
  ## DROPSHIP HORIZON
- - [http://dropshiphorizon.blogspot.com](http://dropshiphorizon.blogspot.com)
+ - [https://dropshiphorizon.blogspot.com](https://dropshiphorizon.blogspot.com)
  - date_published: 2024-06-23T00:00:00+00:00
 
  ## Drop Site Massacre
- - [http://dropsitemassacre.blogspot.com](http://dropsitemassacre.blogspot.com)
+ - [https://dropsitemassacre.blogspot.com](https://dropsitemassacre.blogspot.com)
  - date_published: 2024-10-11T22:59:23+00:00
 
  ## Drowned in Plastic
- - [http://drownedinplastic.blogspot.com](http://drownedinplastic.blogspot.com)
+ - [https://drownedinplastic.blogspot.com](https://drownedinplastic.blogspot.com)
  - date_published: 2024-09-08T13:19:35+00:00
 
  ## Musings on maintaining Ubuntu
- - [http://drowninginbugs.blogspot.com](http://drowninginbugs.blogspot.com)
+ - [https://drowninginbugs.blogspot.com](https://drowninginbugs.blogspot.com)
  - date_published: 2024-09-05T14:19:14+00:00
 
  ## Nie znaleziono bloga
@@ -495,7 +511,7 @@
  - date_published: 2024-03-13T12:02:12+00:00
 
  ## Doctor Transit/League of Transit Doctors
- - [http://drtransit.blogspot.com](http://drtransit.blogspot.com)
+ - [https://drtransit.blogspot.com](https://drtransit.blogspot.com)
  - date_published: 2024-04-10T07:21:03+00:00
 
  ## Drug and Device Law
@@ -517,9 +533,10 @@
  ## Nie znaleziono bloga
  - [http://drumsdeep.blogspot.com](http://drumsdeep.blogspot.com)
  - date_published: 2024-09-03T22:16:09.897549+00:00
+ - date_dead_since: 2025-01-05T01:53:50.873269+00:00
 
  ## The Drunkeynesian
- - [http://drunkeynesian.blogspot.com](http://drunkeynesian.blogspot.com)
+ - [https://drunkeynesian.blogspot.com](https://drunkeynesian.blogspot.com)
  - date_published: 2024-10-25T08:50:29+00:00
 
  ## Drunksongs - Sound of The Streets
@@ -539,11 +556,11 @@
  - date_published: 2023-05-03T08:00:00+00:00
 
  ## Dr. Willett's Workshop
- - [http://drwillettsworkshop.blogspot.com](http://drwillettsworkshop.blogspot.com)
+ - [https://drwillettsworkshop.blogspot.com](https://drwillettsworkshop.blogspot.com)
  - date_published: 2024-07-20T06:57:39+00:00
 
  ## the Dry Bones Blog
- - [http://drybonesblog.blogspot.com](http://drybonesblog.blogspot.com)
+ - [https://drybonesblog.blogspot.com](https://drybonesblog.blogspot.com)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## The Debate Link
@@ -559,7 +576,7 @@
  - date_published: 2024-12-19T03:19:48+00:00
 
  ## DSM Pontifications
- - [http://dsmpontifications.blogspot.com](http://dsmpontifications.blogspot.com)
+ - [https://dsmpontifications.blogspot.com](https://dsmpontifications.blogspot.com)
  - date_published: 2024-09-20T20:30:36+00:00
 
  ## Drunken Samurai Painting Blog
@@ -567,11 +584,11 @@
  - date_published: 2024-07-11T18:48:06+00:00
 
  ## D-squared Digest -- FOR bigger pies and shorter hours and AGAINST more or less everything else
- - [http://d-squareddigest.blogspot.com](http://d-squareddigest.blogspot.com)
+ - [https://d-squareddigest.blogspot.com](https://d-squareddigest.blogspot.com)
  - date_published: 2023-03-13T00:00:00+00:00
 
  ## Don't Throw Bloody Spears At Me!
- - [http://dtbsam.blogspot.com](http://dtbsam.blogspot.com)
+ - [https://dtbsam.blogspot.com](https://dtbsam.blogspot.com)
  - date_published: 2024-07-01T20:48:12+00:00
 
  ## DaTrolls Kingdom
@@ -607,7 +624,7 @@
  - date_published: 2024-12-15T06:54:22+00:00
 
  ## Dubious Prospects
- - [http://dubiousprospects.blogspot.com](http://dubiousprospects.blogspot.com)
+ - [https://dubiousprospects.blogspot.com](https://dubiousprospects.blogspot.com)
  - date_published: 2024-10-21T17:37:53.030629+00:00
 
  ## Nie znaleziono bloga
@@ -615,7 +632,7 @@
  - date_published: 2025-01-01T05:51:55.236939+00:00
 
  ## The Duck of Minerva
- - [http://duckofminerva.blogspot.com](http://duckofminerva.blogspot.com)
+ - [https://duckofminerva.blogspot.com](https://duckofminerva.blogspot.com)
  - date_published: 2024-03-21T21:29:05+00:00
 
  ## Blogger
@@ -623,7 +640,7 @@
  - date_published: 2025-01-01T14:00:31.032964+00:00
 
  ## The Goodson Blogson
- - [http://dukelawref.blogspot.com](http://dukelawref.blogspot.com)
+ - [https://dukelawref.blogspot.com](https://dukelawref.blogspot.com)
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## Duke of 1815
@@ -631,19 +648,19 @@
  - date_published: 2024-10-09T06:17:36+00:00
 
  ## Duke of the Blood Keep
- - [http://dukeofthebloodkeep.blogspot.com](http://dukeofthebloodkeep.blogspot.com)
+ - [https://dukeofthebloodkeep.blogspot.com](https://dukeofthebloodkeep.blogspot.com)
  - date_published: 2024-07-13T06:16:00+00:00
 
  ## THE INFERNO OF BLADES
- - [http://dukesinferno.blogspot.com](http://dukesinferno.blogspot.com)
+ - [https://dukesinferno.blogspot.com](https://dukesinferno.blogspot.com)
  - date_published: 2024-10-25T06:54:24+00:00
 
  ## Obama Watch (2)
- - [http://dumbama.blogspot.com](http://dumbama.blogspot.com)
+ - [https://dumbama.blogspot.com](https://dumbama.blogspot.com)
  - date_published: 2024-03-05T04:19:15+00:00
 
  ## DUmmie FUnnies
- - [http://dummiefunnies.blogspot.com](http://dummiefunnies.blogspot.com)
+ - [https://dummiefunnies.blogspot.com](https://dummiefunnies.blogspot.com)
  - date_published: 2024-06-26T18:03:54+00:00
 
  ## What Else Is Possible
@@ -655,7 +672,7 @@
  - date_published: 2024-08-19T08:48:57+00:00
 
  ## __boss__
- - [http://dunderboss.blogspot.com](http://dunderboss.blogspot.com)
+ - [https://dunderboss.blogspot.com](https://dunderboss.blogspot.com)
  - date_published: 2024-05-29T08:08:14+00:00
 
  ## Llano Estacado
@@ -679,11 +696,11 @@
  - date_published: 2024-10-24T18:49:12+00:00
 
  ## Dm3D
- - [http://dungeonmolds3d.blogspot.com](http://dungeonmolds3d.blogspot.com)
+ - [https://dungeonmolds3d.blogspot.com](https://dungeonmolds3d.blogspot.com)
  - date_published: 2024-10-24T06:23:16+00:00
 
  ## Dungeon of Signs
- - [http://dungeonofsigns.blogspot.com](http://dungeonofsigns.blogspot.com)
+ - [https://dungeonofsigns.blogspot.com](https://dungeonofsigns.blogspot.com)
  - date_published: 2024-07-19T19:42:17+00:00
 
  ## Dungeons 3D
@@ -691,15 +708,15 @@
  - date_published: 2024-11-01T10:35:56+00:00
 
  ## Dungeons and Drawings
- - [http://dungeonsanddrawings.blogspot.com](http://dungeonsanddrawings.blogspot.com)
+ - [https://dungeonsanddrawings.blogspot.com](https://dungeonsanddrawings.blogspot.com)
  - date_published: 2024-07-15T05:36:11+00:00
 
  ## Dungeonskull Mountain
- - [http://dungeonskull.blogspot.com](http://dungeonskull.blogspot.com)
+ - [https://dungeonskull.blogspot.com](https://dungeonskull.blogspot.com)
  - date_published: 2024-07-05T14:45:24+00:00
 
  ## Dungeons and Digressions
- - [http://dungeonsndigressions.blogspot.com](http://dungeonsndigressions.blogspot.com)
+ - [https://dungeonsndigressions.blogspot.com](https://dungeonsndigressions.blogspot.com)
  - date_published: 2024-07-06T20:45:14+00:00
 
  ## Blogger
@@ -715,11 +732,11 @@
  - date_published: 2024-12-23T14:58:11+00:00
 
  ## Tworzymy aby żyć ,żyjemy aby tworzyć
- - [http://duoart.blogspot.com](http://duoart.blogspot.com)
+ - [https://duoart.blogspot.com](https://duoart.blogspot.com)
  - date_published: 2024-07-23T11:40:44+00:00
 
  ## Duae Quartunciae
- - [http://duoquartuncia.blogspot.com](http://duoquartuncia.blogspot.com)
+ - [https://duoquartuncia.blogspot.com](https://duoquartuncia.blogspot.com)
  - date_published: 2024-06-26T12:05:14+00:00
 
  ## Duquesne Whistle
@@ -743,7 +760,7 @@
  - date_published: 2024-09-25T13:53:31+00:00
 
  ## Wolves at the Door
- - [http://duskfallsonadeadland.blogspot.com](http://duskfallsonadeadland.blogspot.com)
+ - [https://duskfallsonadeadland.blogspot.com](https://duskfallsonadeadland.blogspot.com)
  - date_published: 2024-09-05T11:05:48+00:00
 
  ## Dust & Corruption
@@ -755,7 +772,7 @@
  - date_published: 2024-03-13T02:29:19+00:00
 
  ## Dustin's Gun Blog
- - [http://dustinsgunblog.blogspot.com](http://dustinsgunblog.blogspot.com)
+ - [https://dustinsgunblog.blogspot.com](https://dustinsgunblog.blogspot.com)
  - date_published: 2024-07-02T11:50:58+00:00
 
  ## Dust'n Lint
@@ -763,7 +780,7 @@
  - date_published: 2024-10-05T01:58:21+00:00
 
  ## Dust, Tears & Dice
- - [http://dusttears.blogspot.com](http://dusttears.blogspot.com)
+ - [https://dusttears.blogspot.com](https://dusttears.blogspot.com)
  - date_published: 2024-07-20T06:15:31+00:00
 
  ## Digging the Dust
@@ -775,7 +792,7 @@
  - date_published: 2024-03-06T04:23:36+00:00
 
  ## Dutch Concerns
- - [http://dutchconcerns.blogspot.com](http://dutchconcerns.blogspot.com)
+ - [https://dutchconcerns.blogspot.com](https://dutchconcerns.blogspot.com)
  - date_published: 2024-03-19T13:03:09+00:00
 
  ## Nie znaleziono bloga
@@ -787,7 +804,7 @@
  - date_published: 2024-12-02T10:55:00+00:00
 
  ## Dux Homunculorum
- - [http://dux-homunculorum.blogspot.com](http://dux-homunculorum.blogspot.com)
+ - [https://dux-homunculorum.blogspot.com](https://dux-homunculorum.blogspot.com)
  - date_published: 2024-07-04T05:50:22+00:00
 
  ## Duxploitation
@@ -795,19 +812,19 @@
  - date_published: 2024-08-30T11:23:03+00:00
 
  ## Blog - Dva duby Dolní Kounice
- - [http://dva-duby.blogspot.com](http://dva-duby.blogspot.com)
+ - [https://dva-duby.blogspot.com](https://dva-duby.blogspot.com)
  - date_published: 2024-05-20T14:23:08+00:00
 
  ## Raider's Programming Blog
- - [http://dvinogradov.blogspot.com](http://dvinogradov.blogspot.com)
+ - [https://dvinogradov.blogspot.com](https://dvinogradov.blogspot.com)
  - date_published: 2024-08-28T19:17:36+00:00
 
  ## The Dvorak Zine
- - [http://dvzine.blogspot.com](http://dvzine.blogspot.com)
+ - [https://dvzine.blogspot.com](https://dvzine.blogspot.com)
  - date_published: 2024-07-23T07:48:00+00:00
 
  ## Analog Communications
- - [http://dwabrenaissance.blogspot.com](http://dwabrenaissance.blogspot.com)
+ - [https://dwabrenaissance.blogspot.com](https://dwabrenaissance.blogspot.com)
  - date_published: 2024-07-08T19:46:21+00:00
 
  ## Kuźnia Dwalthrima
@@ -815,23 +832,23 @@
  - date_published: 2024-10-07T06:30:48+00:00
 
  ## dwartist's painting blog
- - [http://dwartist.blogspot.com](http://dwartist.blogspot.com)
+ - [https://dwartist.blogspot.com](https://dwartist.blogspot.com)
  - date_published: 2024-07-19T00:01:07+00:00
 
  ## Dwelling Here Now
- - [http://dwellingherenow.blogspot.com](http://dwellingherenow.blogspot.com)
+ - [https://dwellingherenow.blogspot.com](https://dwellingherenow.blogspot.com)
  - date_published: 2024-08-30T14:27:28+00:00
 
  ## Dweomera Lagomorpha
- - [http://dweomera.blogspot.com](http://dweomera.blogspot.com)
+ - [https://dweomera.blogspot.com](https://dweomera.blogspot.com)
  - date_published: 2024-03-13T16:00:13+00:00
 
  ## David Wendt's GSoC Updates Blog
- - [http://dwgsoc09blog.blogspot.com](http://dwgsoc09blog.blogspot.com)
+ - [https://dwgsoc09blog.blogspot.com](https://dwgsoc09blog.blogspot.com)
  - date_published: 2024-04-18T17:05:23+00:00
 
  ## Dwindling In Unbelief
- - [http://dwindlinginunbelief.blogspot.com](http://dwindlinginunbelief.blogspot.com)
+ - [https://dwindlinginunbelief.blogspot.com](https://dwindlinginunbelief.blogspot.com)
  - date_published: 2024-06-26T22:10:35+00:00
 
  ## Dying for Chocolate
@@ -847,23 +864,23 @@
  - date_published: 2024-07-02T06:20:10+00:00
 
  ## Live Epic
- - [http://dylanjbowman.blogspot.com](http://dylanjbowman.blogspot.com)
+ - [https://dylanjbowman.blogspot.com](https://dylanjbowman.blogspot.com)
  - date_published: 2024-03-19T19:53:27+00:00
 
  ## Dynasty Zero
- - [http://dynastyzero.blogspot.com](http://dynastyzero.blogspot.com)
+ - [https://dynastyzero.blogspot.com](https://dynastyzero.blogspot.com)
  - date_published: 2024-07-04T05:29:22+00:00
 
  ## Dystopian Steam
- - [http://dystopiansteam.blogspot.com](http://dystopiansteam.blogspot.com)
+ - [https://dystopiansteam.blogspot.com](https://dystopiansteam.blogspot.com)
  - date_published: 2024-10-02T19:28:24+00:00
 
  ## Dystopian Wars Downunder
- - [http://dystopianwars.blogspot.com](http://dystopianwars.blogspot.com)
+ - [https://dystopianwars.blogspot.com](https://dystopianwars.blogspot.com)
  - date_published: 2024-09-12T01:27:21+00:00
 
  ## DYVERS
- - [http://dyverscampaign.blogspot.com](http://dyverscampaign.blogspot.com)
+ - [https://dyverscampaign.blogspot.com](https://dyverscampaign.blogspot.com)
  - date_published: 2020-02-17T00:00:00+00:00
 
  ## Servant and Steward
@@ -871,7 +888,7 @@
  - date_published: 2024-12-24T22:48:16+00:00
 
  ## Tymczasem w Minecrafcie...
- - [http://dziadowo.blogspot.com](http://dziadowo.blogspot.com)
+ - [https://dziadowo.blogspot.com](https://dziadowo.blogspot.com)
  - date_published: 2024-08-28T19:57:12+00:00
 
  ## DZIADU Z LASU
@@ -879,23 +896,23 @@
  - date_published: 2024-05-07T06:59:31+00:00
 
  ## Dziennik Groana
- - [http://dziennikgroana.blogspot.com](http://dziennikgroana.blogspot.com)
+ - [https://dziennikgroana.blogspot.com](https://dziennikgroana.blogspot.com)
  - date_published: 2024-09-25T22:53:01+00:00
 
  ## Wild Roses
- - [http://dzikaroza.blogspot.com](http://dzikaroza.blogspot.com)
+ - [https://dzikaroza.blogspot.com](https://dzikaroza.blogspot.com)
  - date_published: 2024-03-13T10:33:37+00:00
 
  ## Dziura w zębie
- - [http://dziurawzebie.blogspot.com](http://dziurawzebie.blogspot.com)
+ - [https://dziurawzebie.blogspot.com](https://dziurawzebie.blogspot.com)
  - date_published: 2024-09-01T04:16:50+00:00
 
  ## Archaeological*Highlights
- - [http://dzunglam.blogspot.com](http://dzunglam.blogspot.com)
+ - [https://dzunglam.blogspot.com](https://dzunglam.blogspot.com)
  - date_published: 2024-06-18T13:30:05+00:00
 
  ## E47
- - [http://e47art.blogspot.com](http://e47art.blogspot.com)
+ - [https://e47art.blogspot.com](https://e47art.blogspot.com)
  - date_published: 2024-02-28T23:44:27+00:00
 
  ## Eagan Daily Photo
@@ -915,7 +932,7 @@
  - date_published: 2024-12-19T03:23:40+00:00
 
  ## Investment Management Guide's
- - [http://eaglesview-andy.blogspot.com](http://eaglesview-andy.blogspot.com)
+ - [https://eaglesview-andy.blogspot.com](https://eaglesview-andy.blogspot.com)
  - date_published: 2024-10-09T13:27:55+00:00
 
  ## Oh Well: A Commentary
@@ -927,7 +944,7 @@
  - date_published: 2024-03-21T09:12:01+00:00
 
  ## Ear Candle Productions
- - [http://earcandleproductions.blogspot.com](http://earcandleproductions.blogspot.com)
+ - [https://earcandleproductions.blogspot.com](https://earcandleproductions.blogspot.com)
  - date_published: 2024-03-05T12:22:23+00:00
 
  ## EAR FARM :: music information helps grow ears
@@ -935,7 +952,7 @@
  - date_published: 2024-11-30T05:01:10+00:00
 
  ## Earl's View:  Focus on the Front Sight
- - [http://earl-earlsview.blogspot.com](http://earl-earlsview.blogspot.com)
+ - [https://earl-earlsview.blogspot.com](https://earl-earlsview.blogspot.com)
  - date_published: 2024-03-13T04:35:29+00:00
 
  ## Early Morning Trails
@@ -943,7 +960,7 @@
  - date_published: 2024-11-08T15:23:43+00:00
 
  ## Early Warning
- - [http://earlywarn.blogspot.com](http://earlywarn.blogspot.com)
+ - [https://earlywarn.blogspot.com](https://earlywarn.blogspot.com)
  - date_published: 2024-06-14T06:07:29+00:00
 
  ## E a r t h    G o a t
@@ -951,11 +968,11 @@
  - date_published: 2024-10-29T00:48:06+00:00
 
  ## earwig sandwich
- - [http://earwigsandwich.blogspot.com](http://earwigsandwich.blogspot.com)
+ - [https://earwigsandwich.blogspot.com](https://earwigsandwich.blogspot.com)
  - date_published: 2024-06-29T08:57:28+00:00
 
  ## Eastern Expansion
- - [http://easternexpansion.blogspot.com](http://easternexpansion.blogspot.com)
+ - [https://easternexpansion.blogspot.com](https://easternexpansion.blogspot.com)
  - date_published: 2024-03-13T21:10:11+00:00
 
  ## The Eastern Garrison
@@ -971,19 +988,19 @@
  - date_published: 2024-12-28T09:56:36+00:00
 
  ## East of Zero, WEFT 90.1 FM
- - [http://eastofzero.blogspot.com](http://eastofzero.blogspot.com)
+ - [https://eastofzero.blogspot.com](https://eastofzero.blogspot.com)
  - date_published: 2024-06-22T06:31:01+00:00
 
  ## east-westallianz
- - [http://east-westallianz.blogspot.com](http://east-westallianz.blogspot.com)
+ - [https://east-westallianz.blogspot.com](https://east-westallianz.blogspot.com)
  - date_published: 2024-03-08T18:50:01+00:00
 
  ## Programming DIY / Программирование — это просто!
- - [http://easy-coding.blogspot.com](http://easy-coding.blogspot.com)
+ - [https://easy-coding.blogspot.com](https://easy-coding.blogspot.com)
  - date_published: 2024-08-30T16:18:02+00:00
 
  ## PCL LinkDump
- - [http://easydreamer.blogspot.com](http://easydreamer.blogspot.com)
+ - [https://easydreamer.blogspot.com](https://easydreamer.blogspot.com)
  - date_published: 2024-06-25T06:11:53+00:00
 
  ## Easy Modeling
@@ -991,7 +1008,7 @@
  - date_published: 2024-10-07T04:00:01+00:00
 
  ## Easy Opinions
- - [http://easyopinions.blogspot.com](http://easyopinions.blogspot.com)
+ - [https://easyopinions.blogspot.com](https://easyopinions.blogspot.com)
  - date_published: 2024-07-03T01:47:25+00:00
 
  ## Easy Peasy Fiction
@@ -1003,7 +1020,7 @@
  - date_published: 2024-09-02T08:07:12+00:00
 
  ## Eaters of Worlds
- - [http://eatersofworlds.blogspot.com](http://eatersofworlds.blogspot.com)
+ - [https://eatersofworlds.blogspot.com](https://eatersofworlds.blogspot.com)
  - date_published: 2024-10-05T02:00:00+00:00
 
  ## Eaton Rapids Joe
@@ -1015,7 +1032,7 @@
  - date_published: 2024-08-29T00:56:09+00:00
 
  ## :: eat the dots ::
- - [http://eatthedots.blogspot.com](http://eatthedots.blogspot.com)
+ - [https://eatthedots.blogspot.com](https://eatthedots.blogspot.com)
  - date_published: 2024-03-06T06:12:30+00:00
 
  ## Eren Blanquet Unten
@@ -1027,7 +1044,7 @@
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Thoughts from an Evil Overlord
- - [http://ebogie.blogspot.com](http://ebogie.blogspot.com)
+ - [https://ebogie.blogspot.com](https://ebogie.blogspot.com)
  - date_published: 2024-04-16T19:11:01+00:00
 
  ## E-burg_wargamer
@@ -1035,23 +1052,23 @@
  - date_published: 2024-10-03T13:59:24+00:00
 
  ## Eccentrics United: An Autism Blog
- - [http://eccentricsunited.blogspot.com](http://eccentricsunited.blogspot.com)
+ - [https://eccentricsunited.blogspot.com](https://eccentricsunited.blogspot.com)
  - date_published: 2024-08-28T02:51:01+00:00
 
  ## Eccles is saved
- - [http://ecclesandbosco.blogspot.com](http://ecclesandbosco.blogspot.com)
+ - [https://ecclesandbosco.blogspot.com](https://ecclesandbosco.blogspot.com)
  - date_published: 2024-10-21T14:20:22.188306+00:00
 
  ## Topics in Early Childhood Education
- - [http://eceducation.blogspot.com](http://eceducation.blogspot.com)
+ - [https://eceducation.blogspot.com](https://eceducation.blogspot.com)
  - date_published: 2024-06-07T19:44:54+00:00
 
  ## ECHIDNE OF THE SNAKES
- - [http://echidneofthesnakes.blogspot.com](http://echidneofthesnakes.blogspot.com)
+ - [https://echidneofthesnakes.blogspot.com](https://echidneofthesnakes.blogspot.com)
  - date_published: 2023-02-22T11:45:00+00:00
 
  ## The Echinoblog
- - [http://echinoblog.blogspot.com](http://echinoblog.blogspot.com)
+ - [https://echinoblog.blogspot.com](https://echinoblog.blogspot.com)
  - date_published: 2024-10-19T05:02:26.374014+00:00
 
  ## Echoes from the Man Cave
@@ -1059,7 +1076,7 @@
  - date_published: 2024-11-06T02:54:40+00:00
 
  ## ECHR BLOG
- - [http://echrblog.blogspot.com](http://echrblog.blogspot.com)
+ - [https://echrblog.blogspot.com](https://echrblog.blogspot.com)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## In Search of Badass
@@ -1067,11 +1084,11 @@
  - date_published: 2024-09-02T07:36:05+00:00
 
  ## Eclectic Ephemera
- - [http://eclecticephemera.blogspot.com](http://eclecticephemera.blogspot.com)
+ - [https://eclecticephemera.blogspot.com](https://eclecticephemera.blogspot.com)
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## Eclectic Expanding Empires
- - [http://eclectic-expanding-empires.blogspot.com](http://eclectic-expanding-empires.blogspot.com)
+ - [https://eclectic-expanding-empires.blogspot.com](https://eclectic-expanding-empires.blogspot.com)
  - date_published: 2024-07-15T22:30:04+00:00
 
  ## eclectorama
@@ -1079,103 +1096,103 @@
  - date_published: 2024-09-14T03:36:56+00:00
 
  ## Eclipse, Java and all that JAZZ!
- - [http://eclipseandjazz.blogspot.com](http://eclipseandjazz.blogspot.com)
+ - [https://eclipseandjazz.blogspot.com](https://eclipseandjazz.blogspot.com)
  - date_published: 2024-03-14T09:53:10+00:00
 
  ## Chris Daniel
- - [http://eclipseandlinux.blogspot.com](http://eclipseandlinux.blogspot.com)
+ - [https://eclipseandlinux.blogspot.com](https://eclipseandlinux.blogspot.com)
  - date_published: 2024-07-11T18:13:32+00:00
 
  ## Atos Eclipse
- - [http://eclipseatos.blogspot.com](http://eclipseatos.blogspot.com)
+ - [https://eclipseatos.blogspot.com](https://eclipseatos.blogspot.com)
  - date_published: 2024-03-14T14:44:01+00:00
 
  ## The Eclipse Committer Reps (ARCHIVE)
- - [http://eclipse-committer-reps.blogspot.com](http://eclipse-committer-reps.blogspot.com)
+ - [https://eclipse-committer-reps.blogspot.com](https://eclipse-committer-reps.blogspot.com)
  - date_published: 2024-03-22T00:59:35+00:00
 
  ## Eclipse Lives In Winnipeg
- - [http://eclipse-debug.blogspot.com](http://eclipse-debug.blogspot.com)
+ - [https://eclipse-debug.blogspot.com](https://eclipse-debug.blogspot.com)
  - date_published: 2024-03-25T06:09:14+00:00
 
  ## Eclipse Driven Rich Application Development
- - [http://eclipsedriven.blogspot.com](http://eclipsedriven.blogspot.com)
+ - [https://eclipsedriven.blogspot.com](https://eclipsedriven.blogspot.com)
  - date_published: 2024-02-08T15:47:29+00:00
 
  ## Eclipse Communication Framework
- - [http://eclipseecf.blogspot.com](http://eclipseecf.blogspot.com)
+ - [https://eclipseecf.blogspot.com](https://eclipseecf.blogspot.com)
  - date_published: 2021-10-19T00:00:00+00:00
 
  ## Eclipse Ecosystem
- - [http://eclipse-ecosystem.blogspot.com](http://eclipse-ecosystem.blogspot.com)
+ - [https://eclipse-ecosystem.blogspot.com](https://eclipse-ecosystem.blogspot.com)
  - date_published: 2024-03-13T04:55:52+00:00
 
  ## I Like Eclipse
- - [http://eclipse-info.blogspot.com](http://eclipse-info.blogspot.com)
+ - [https://eclipse-info.blogspot.com](https://eclipse-info.blogspot.com)
  - date_published: 2024-03-19T04:41:44+00:00
 
  ## EclipseLink Team Blog
- - [http://eclipselink.blogspot.com](http://eclipselink.blogspot.com)
+ - [https://eclipselink.blogspot.com](https://eclipselink.blogspot.com)
  - date_published: 2024-03-05T08:58:16+00:00
 
  ## Eclipse from the bottom up
- - [http://eclipselowdown.blogspot.com](http://eclipselowdown.blogspot.com)
+ - [https://eclipselowdown.blogspot.com](https://eclipselowdown.blogspot.com)
  - date_published: 2024-03-07T06:30:54+00:00
 
  ## Eclipse mde
- - [http://eclipsemde.blogspot.com](http://eclipsemde.blogspot.com)
+ - [https://eclipsemde.blogspot.com](https://eclipsemde.blogspot.com)
  - date_published: 2024-05-04T02:05:49+00:00
 
  ## Eclipse Eco System
- - [http://eclipse-membership.blogspot.com](http://eclipse-membership.blogspot.com)
+ - [https://eclipse-membership.blogspot.com](https://eclipse-membership.blogspot.com)
  - date_published: 2024-07-14T20:59:48+00:00
 
  ## Modeling Eclipse
- - [http://eclipse-modeling.blogspot.com](http://eclipse-modeling.blogspot.com)
+ - [https://eclipse-modeling.blogspot.com](https://eclipse-modeling.blogspot.com)
  - date_published: 2024-03-05T05:43:07+00:00
 
  ## Mati@GSOC
- - [http://eclipse-n-mati.blogspot.com](http://eclipse-n-mati.blogspot.com)
+ - [https://eclipse-n-mati.blogspot.com](https://eclipse-n-mati.blogspot.com)
  - date_published: 2024-03-20T05:38:41+00:00
 
  ## Its Eclipse in Clips ...
- - [http://eclipseo.blogspot.com](http://eclipseo.blogspot.com)
+ - [https://eclipseo.blogspot.com](https://eclipseo.blogspot.com)
  - date_published: 2024-07-08T09:50:58+00:00
 
  ## eclipser-blog
- - [http://eclipser-blog.blogspot.com](http://eclipser-blog.blogspot.com)
+ - [https://eclipser-blog.blogspot.com](https://eclipser-blog.blogspot.com)
  - date_published: 2024-03-13T08:00:33+00:00
 
  ## Eclipse RCP development thoughts
- - [http://eclipsercpdev.blogspot.com](http://eclipsercpdev.blogspot.com)
+ - [https://eclipsercpdev.blogspot.com](https://eclipsercpdev.blogspot.com)
  - date_published: 2024-02-19T07:21:57+00:00
 
  ## Eclipse Ruminations
- - [http://eclipse-ruminations.blogspot.com](http://eclipse-ruminations.blogspot.com)
+ - [https://eclipse-ruminations.blogspot.com](https://eclipse-ruminations.blogspot.com)
  - date_published: 2024-07-05T21:13:34+00:00
 
  ## Eclipse Summer of Code
- - [http://eclipse-soc.blogspot.com](http://eclipse-soc.blogspot.com)
+ - [https://eclipse-soc.blogspot.com](https://eclipse-soc.blogspot.com)
  - date_published: 2024-07-15T22:30:14+00:00
 
  ## Eclipsetacy
- - [http://eclipsetacy.blogspot.com](http://eclipsetacy.blogspot.com)
+ - [https://eclipsetacy.blogspot.com](https://eclipsetacy.blogspot.com)
  - date_published: 2024-03-14T05:18:18+00:00
 
  ## Eclipsing Binaries
- - [http://eclipsingbinaries15mm.blogspot.com](http://eclipsingbinaries15mm.blogspot.com)
+ - [https://eclipsingbinaries15mm.blogspot.com](https://eclipsingbinaries15mm.blogspot.com)
  - date_published: 2023-11-15T15:20:26+00:00
 
  ## Eclipse WebDev
- - [http://eclipsr.blogspot.com](http://eclipsr.blogspot.com)
+ - [https://eclipsr.blogspot.com](https://eclipsr.blogspot.com)
  - date_published: 2023-11-15T16:11:14+00:00
 
  ## Eclogue's Efforts
- - [http://eclogue-eclogue.blogspot.com](http://eclogue-eclogue.blogspot.com)
+ - [https://eclogue-eclogue.blogspot.com](https://eclogue-eclogue.blogspot.com)
  - date_published: 2024-03-14T03:35:49+00:00
 
  ## ecmanaut
- - [http://ecmanaut.blogspot.com](http://ecmanaut.blogspot.com)
+ - [https://ecmanaut.blogspot.com](https://ecmanaut.blogspot.com)
  - date_published: 2024-07-23T21:46:53.001549+00:00
 
  ## Ecocomics
@@ -1183,7 +1200,7 @@
  - date_published: 2024-06-11T17:08:10.259090+00:00
 
  ## Adventures in Biodiversity Science
- - [http://ecodrift.blogspot.com](http://ecodrift.blogspot.com)
+ - [https://ecodrift.blogspot.com](https://ecodrift.blogspot.com)
  - date_published: 2024-07-01T20:48:31+00:00
 
  ## Eco-Evo Evo-Eco
@@ -1195,7 +1212,7 @@
  - date_published: 2024-06-25T07:38:12+00:00
 
  ## Ecographica
- - [http://ecographica.blogspot.com](http://ecographica.blogspot.com)
+ - [https://ecographica.blogspot.com](https://ecographica.blogspot.com)
  - date_published: 2024-10-19T05:21:21.142582+00:00
 
  ## Ecological Headstand
@@ -1203,7 +1220,7 @@
  - date_published: 2024-10-24T19:50:17+00:00
 
  ## ECOLOGY WITHOUT NATURE
- - [http://ecologywithoutnature.blogspot.com](http://ecologywithoutnature.blogspot.com)
+ - [https://ecologywithoutnature.blogspot.com](https://ecologywithoutnature.blogspot.com)
  - date_published: 2024-06-29T00:00:00+00:00
 
  ## Econ Analysis Tools
@@ -1211,15 +1228,15 @@
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## Blogger
- - [http://econerdfood.blogspot.com](http://econerdfood.blogspot.com)
+ - [https://econerdfood.blogspot.com](https://econerdfood.blogspot.com)
  - date_published: 2024-06-30T08:58:55.269094+00:00
 
  ## ECONJEFF
- - [http://econjeff.blogspot.com](http://econjeff.blogspot.com)
+ - [https://econjeff.blogspot.com](https://econjeff.blogspot.com)
  - date_published: 2024-07-10T07:26:28+00:00
 
  ## Econometric Sense
- - [http://econometricsense.blogspot.com](http://econometricsense.blogspot.com)
+ - [https://econometricsense.blogspot.com](https://econometricsense.blogspot.com)
  - date_published: 2024-07-11T22:35:14+00:00
 
  ## Económico-Financeiro
@@ -1227,15 +1244,15 @@
  - date_published: 2024-12-28T23:00:23+00:00
 
  ## The Economist's Cookbook
- - [http://economistscookbook.blogspot.com](http://economistscookbook.blogspot.com)
+ - [https://economistscookbook.blogspot.com](https://economistscookbook.blogspot.com)
  - date_published: 2024-03-14T02:33:49+00:00
 
  ## EconoSpeak
- - [http://econospeak.blogspot.com](http://econospeak.blogspot.com)
+ - [https://econospeak.blogspot.com](https://econospeak.blogspot.com)
  - date_published: 2024-07-03T17:00:00+00:00
 
  ## Blogger
- - [http://ecophilo.blogspot.com](http://ecophilo.blogspot.com)
+ - [https://ecophilo.blogspot.com](https://ecophilo.blogspot.com)
  - date_published: 2024-07-01T08:23:16.071422+00:00
 
  ## ECOS: Transportation, Air Quality, Climate
@@ -1251,11 +1268,11 @@
  - date_published: 2024-12-02T19:30:04+00:00
 
  ## ecosocialism canada
- - [http://ecosocialismcanada.blogspot.com](http://ecosocialismcanada.blogspot.com)
+ - [https://ecosocialismcanada.blogspot.com](https://ecosocialismcanada.blogspot.com)
  - date_published: 2024-06-03T06:02:03+00:00
 
  ## Electronic Court Records
- - [http://e-courtrecords.blogspot.com](http://e-courtrecords.blogspot.com)
+ - [https://e-courtrecords.blogspot.com](https://e-courtrecords.blogspot.com)
  - date_published: 2007-12-17T00:00:00+00:00
 
  ## Eco Yogini
@@ -1263,7 +1280,7 @@
  - date_published: 2024-12-19T11:45:05+00:00
 
  ## Cody and Elizabeth Ririe
- - [http://ecririefamily.blogspot.com](http://ecririefamily.blogspot.com)
+ - [https://ecririefamily.blogspot.com](https://ecririefamily.blogspot.com)
  - date_published: 2024-03-21T16:03:45+00:00
 
  ## Ecumenicity
@@ -1279,27 +1296,27 @@
  - date_published: 2024-02-07T07:32:18+00:00
 
  ## Edath Unleashed
- - [http://edath.blogspot.com](http://edath.blogspot.com)
+ - [https://edath.blogspot.com](https://edath.blogspot.com)
  - date_published: 2024-07-03T01:57:15+00:00
 
  ## Not of this World
- - [http://ed-bonderenka.blogspot.com](http://ed-bonderenka.blogspot.com)
+ - [https://ed-bonderenka.blogspot.com](https://ed-bonderenka.blogspot.com)
  - date_published: 2024-06-27T09:22:11+00:00
 
  ## Ed Crewe
- - [http://edcrewe.blogspot.com](http://edcrewe.blogspot.com)
+ - [https://edcrewe.blogspot.com](https://edcrewe.blogspot.com)
  - date_published: 2024-06-25T06:55:58+00:00
 
  ## Eddie Haske
- - [http://eddiehaske.blogspot.com](http://eddiehaske.blogspot.com)
+ - [https://eddiehaske.blogspot.com](https://eddiehaske.blogspot.com)
  - date_published: 2024-07-03T02:10:09+00:00
 
  ## Blogger
- - [http://e-diasporan.blogspot.com](http://e-diasporan.blogspot.com)
+ - [https://e-diasporan.blogspot.com](https://e-diasporan.blogspot.com)
  - date_published: 2024-10-21T18:31:06.852021+00:00
 
  ## Edições 50kg
- - [http://edicoes50kg.blogspot.com](http://edicoes50kg.blogspot.com)
+ - [https://edicoes50kg.blogspot.com](https://edicoes50kg.blogspot.com)
  - date_published: 2024-07-09T10:58:49+00:00
 
  ## CENTRO NACIONAL DE CONTRACULTURA
@@ -1307,7 +1324,7 @@
  - date_published: 2024-12-17T22:35:02+00:00
 
  ## Edicts of Nancy
- - [http://edictsofnancy.blogspot.com](http://edictsofnancy.blogspot.com)
+ - [https://edictsofnancy.blogspot.com](https://edictsofnancy.blogspot.com)
  - date_published: 2024-06-15T05:59:31+00:00
 
  ## edita-Me
@@ -1319,7 +1336,7 @@
  - date_published: 2024-06-16T03:41:48+00:00
 
  ## AVERNO
- - [http://editora-averno.blogspot.com](http://editora-averno.blogspot.com)
+ - [https://editora-averno.blogspot.com](https://editora-averno.blogspot.com)
  - date_published: 2024-07-11T22:59:13+00:00
 
  ## Nie znaleziono bloga
@@ -1327,7 +1344,7 @@
  - date_published: 2025-01-01T07:56:58.535848+00:00
 
  ## Showings
- - [http://editor-julian-north.blogspot.com](http://editor-julian-north.blogspot.com)
+ - [https://editor-julian-north.blogspot.com](https://editor-julian-north.blogspot.com)
  - date_published: 2024-03-14T10:57:01+00:00
 
  ## EditorMom
@@ -1339,7 +1356,7 @@
  - date_published: 2024-11-30T11:40:18+00:00
 
  ## Língua Morta
- - [http://edlinguamorta.blogspot.com](http://edlinguamorta.blogspot.com)
+ - [https://edlinguamorta.blogspot.com](https://edlinguamorta.blogspot.com)
  - date_published: 2024-07-03T03:27:49+00:00
 
  ## Merks' Meanderings
@@ -1347,7 +1364,7 @@
  - date_published: 2024-07-17T10:53:21+00:00
 
  ## Bob's Miniature Wargaming Blog
- - [http://edmontonwargamer.blogspot.com](http://edmontonwargamer.blogspot.com)
+ - [https://edmontonwargamer.blogspot.com](https://edmontonwargamer.blogspot.com)
  - date_published: 2024-07-14T21:00:41+00:00
 
  ## Ed M's  Wargames Meanderings
@@ -1355,7 +1372,7 @@
  - date_published: 2024-12-29T08:10:31+00:00
 
  ## Explorations
- - [http://edreamleo.blogspot.com](http://edreamleo.blogspot.com)
+ - [https://edreamleo.blogspot.com](https://edreamleo.blogspot.com)
  - date_published: 2024-04-18T17:03:33+00:00
 
  ## Ed's Beer Site
@@ -1363,12 +1380,12 @@
  - date_published: 2024-12-31T10:46:12+00:00
 
  ## Eddie's Math and Calculator Blog
- - [http://edspi31415.blogspot.com](http://edspi31415.blogspot.com)
+ - [https://edspi31415.blogspot.com](https://edspi31415.blogspot.com)
  - date_published: 2024-07-15T00:00:00+00:00
 
  ## Educated & Poor
- - [http://educatedandpoor.blogspot.com](http://educatedandpoor.blogspot.com)
- - date_published: 2024-10-19T08:03:30.993467+00:00
+ - [https://educatedandpoor.blogspot.com](https://educatedandpoor.blogspot.com)
+ - date_published: 2024-09-02T08:01:05+00:00
 
  ## Educated Tastes
  - [http://educatedtastes.blogspot.com](http://educatedtastes.blogspot.com)
@@ -1388,15 +1405,15 @@
  - date_published: 2024-04-28T05:29:28.117816+00:00
 
  ## Education Research Report
- - [http://educationresearchreport.blogspot.com](http://educationresearchreport.blogspot.com)
+ - [https://educationresearchreport.blogspot.com](https://educationresearchreport.blogspot.com)
  - date_published: 2024-07-03T16:01:13+00:00
 
  ## The Education Wonks - Thoughts And Ideas Freely Exchanged
- - [http://educationwonk.blogspot.com](http://educationwonk.blogspot.com)
+ - [https://educationwonk.blogspot.com](https://educationwonk.blogspot.com)
  - date_published: 2024-03-23T18:08:14+00:00
 
  ## The Education Optimists
- - [http://eduoptimists.blogspot.com](http://eduoptimists.blogspot.com)
+ - [https://eduoptimists.blogspot.com](https://eduoptimists.blogspot.com)
  - date_published: 2024-06-30T09:02:28+00:00
 
  ## One Poet's Notes
@@ -1404,7 +1421,7 @@
  - date_published: 2013-07-24T00:00:00+00:00
 
  ## Edward Feser
- - [http://edwardfeser.blogspot.com](http://edwardfeser.blogspot.com)
+ - [https://edwardfeser.blogspot.com](https://edwardfeser.blogspot.com)
  - date_published: 2024-08-19T07:28:17+00:00
 
  ## Edward Hutton's Italy
@@ -1412,27 +1429,28 @@
  - date_published: 2024-06-24T02:23:29+00:00
 
  ## Edward II
- - [http://edwardthesecond.blogspot.com](http://edwardthesecond.blogspot.com)
+ - [https://edwardthesecond.blogspot.com](https://edwardthesecond.blogspot.com)
  - date_published: 2024-06-24T06:02:27+00:00
 
  ## EDUCATION WATCH INTERNATIONAL
  - [http://edwatch.blogspot.com](http://edwatch.blogspot.com)
  - date_published: 2024-06-26T00:00:00+00:00
+ - date_dead_since: 2025-01-05T02:28:14.520651+00:00
 
  ## B L O G U I C E S
  - [http://edynet.blogspot.com](http://edynet.blogspot.com)
  - date_published: 2024-08-29T04:56:05+00:00
 
  ## Yet Another Modeling Blog ...
- - [http://eef-modeling.blogspot.com](http://eef-modeling.blogspot.com)
+ - [https://eef-modeling.blogspot.com](https://eef-modeling.blogspot.com)
  - date_published: 2024-04-22T06:11:20+00:00
 
  ## Home Design
- - [http://eejd.blogspot.com](http://eejd.blogspot.com)
+ - [https://eejd.blogspot.com](https://eejd.blogspot.com)
  - date_published: 2024-03-19T21:44:05+00:00
 
  ## E. ETHELBERT MILLER
- - [http://eethelbertmiller1.blogspot.com](http://eethelbertmiller1.blogspot.com)
+ - [https://eethelbertmiller1.blogspot.com](https://eethelbertmiller1.blogspot.com)
  - date_published: 2024-03-13T03:46:03+00:00
 
  ## m o o n c h i l d
@@ -1448,15 +1466,15 @@
  - date_published: 2024-12-11T12:22:16.861377+00:00
 
  ## The EFL SMARTblog
- - [http://efllecturer.blogspot.com](http://efllecturer.blogspot.com)
+ - [https://efllecturer.blogspot.com](https://efllecturer.blogspot.com)
  - date_published: 2024-10-19T10:56:23.041439+00:00
 
  ## Two Scoops
- - [http://egbertblog.blogspot.com](http://egbertblog.blogspot.com)
+ - [https://egbertblog.blogspot.com](https://egbertblog.blogspot.com)
  - date_published: 2024-06-09T05:45:38+00:00
 
  ## EGO
- - [http://egoist.blogspot.com](http://egoist.blogspot.com)
+ - [https://egoist.blogspot.com](https://egoist.blogspot.com)
  - date_published: 2024-05-18T05:05:40+00:00
 
  ## Egyptian Chronicles
@@ -1477,11 +1495,11 @@
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## eiglophian
- - [http://eiglophian.blogspot.com](http://eiglophian.blogspot.com)
+ - [https://eiglophian.blogspot.com](https://eiglophian.blogspot.com)
  - date_published: 2024-07-14T21:01:05+00:00
 
  ## Einar Olafson Painting
- - [http://einarolafson.blogspot.com](http://einarolafson.blogspot.com)
+ - [https://einarolafson.blogspot.com](https://einarolafson.blogspot.com)
  - date_published: 2024-03-13T15:59:35+00:00
 
  ## Nie znaleziono bloga
@@ -1489,7 +1507,7 @@
  - date_published: 2025-01-01T05:57:47.563043+00:00
 
  ## Einstein University
- - [http://einsteinuniversity.blogspot.com](http://einsteinuniversity.blogspot.com)
+ - [https://einsteinuniversity.blogspot.com](https://einsteinuniversity.blogspot.com)
  - date_published: 2024-03-08T08:28:02+00:00
 
  ## iBlog Efstathios Iosifidis
@@ -1513,11 +1531,11 @@
  - date_published: 2024-10-31T18:50:49.729890+00:00
 
  ## Pen-Elayne on the Web
- - [http://elayneriggs.blogspot.com](http://elayneriggs.blogspot.com)
+ - [https://elayneriggs.blogspot.com](https://elayneriggs.blogspot.com)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## The Glorious Works
- - [http://elazartheglorified.blogspot.com](http://elazartheglorified.blogspot.com)
+ - [https://elazartheglorified.blogspot.com](https://elazartheglorified.blogspot.com)
  - date_published: 2024-03-20T00:00:00+00:00
 
  ## El Blog de Adelle H
@@ -1541,11 +1559,11 @@
  - date_published: 2024-07-03T03:44:28+00:00
 
  ## Eldar Addict
- - [http://eldaraddict.blogspot.com](http://eldaraddict.blogspot.com)
+ - [https://eldaraddict.blogspot.com](https://eldaraddict.blogspot.com)
  - date_published: 2024-07-17T23:03:47+00:00
 
  ## HammerBlog
- - [http://eldarcraftworld.blogspot.com](http://eldarcraftworld.blogspot.com)
+ - [https://eldarcraftworld.blogspot.com](https://eldarcraftworld.blogspot.com)
  - date_published: 2024-08-21T11:59:26+00:00
 
  ## Eldar - Dark Redemption
@@ -1553,11 +1571,11 @@
  - date_published: 2024-09-12T23:05:36+00:00
 
  ## Eldar Tactics
- - [http://eldartactics.blogspot.com](http://eldartactics.blogspot.com)
+ - [https://eldartactics.blogspot.com](https://eldartactics.blogspot.com)
  - date_published: 2024-08-27T11:38:32+00:00
 
  ## Elder Of Ziyon - Israel News
- - [http://elderofziyon.blogspot.com](http://elderofziyon.blogspot.com)
+ - [https://elderofziyon.blogspot.com](https://elderofziyon.blogspot.com)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## The Elder Sküll
@@ -1605,7 +1623,7 @@
  - date_published: 2024-08-30T04:37:31+00:00
 
  ## Électronique en amateur
- - [http://electroniqueamateur.blogspot.com](http://electroniqueamateur.blogspot.com)
+ - [https://electroniqueamateur.blogspot.com](https://electroniqueamateur.blogspot.com)
  - date_published: 2024-08-25T13:19:53+00:00
 
  ## ELECTRO'S LAIR
@@ -1625,7 +1643,7 @@
  - date_published: 2024-12-08T07:36:38+00:00
 
  ## Elementi Finiti - giochi di ruolo, giochi da tavolo, lego, wargame
- - [http://elementifiniti.blogspot.com](http://elementifiniti.blogspot.com)
+ - [https://elementifiniti.blogspot.com](https://elementifiniti.blogspot.com)
  - date_published: 2024-03-13T06:53:25+00:00
 
  ## Tomamos cafecito ?
@@ -1637,23 +1655,23 @@
  - date_published: 2024-03-12T22:37:59+00:00
 
  ## Elf Lair Games
- - [http://elflairgames.blogspot.com](http://elflairgames.blogspot.com)
+ - [https://elflairgames.blogspot.com](https://elflairgames.blogspot.com)
  - date_published: 2024-04-08T02:04:54+00:00
 
  ## الف لسان mille langues χιλιοι γλωσσῶν
- - [http://elflisan.blogspot.com](http://elflisan.blogspot.com)
+ - [https://elflisan.blogspot.com](https://elflisan.blogspot.com)
  - date_published: 2024-03-13T15:13:02+00:00
 
  ## Elfmaids & Octopi
- - [http://elfmaidsandoctopi.blogspot.com](http://elfmaidsandoctopi.blogspot.com)
+ - [https://elfmaidsandoctopi.blogspot.com](https://elfmaidsandoctopi.blogspot.com)
  - date_published: 2024-07-18T00:00:00+00:00
 
  ## The Happy Grognard
- - [http://elfnhappiness.blogspot.com](http://elfnhappiness.blogspot.com)
+ - [https://elfnhappiness.blogspot.com](https://elfnhappiness.blogspot.com)
  - date_published: 2024-08-31T14:20:13+00:00
 
  ## elfordminis
- - [http://elfordminis.blogspot.com](http://elfordminis.blogspot.com)
+ - [https://elfordminis.blogspot.com](https://elfordminis.blogspot.com)
  - date_published: 2024-10-05T02:06:54+00:00
 
  ## LE BLOG de "EL FRANCES" ... PASSION FIGURINES ENCORE ET TOUJOURS...
@@ -1677,8 +1695,8 @@
  - date_published: 2024-12-08T23:04:57+00:00
 
  ## Eli Games
- - [http://eligame.blogspot.com](http://eligame.blogspot.com)
- - date_published: 2024-10-17T22:05:23.630330+00:00
+ - [https://eligame.blogspot.com](https://eligame.blogspot.com)
+ - date_published: 2024-08-30T14:34:17+00:00
 
  ## El InFranmundo
  - [https://elinfranmundo.blogspot.com](https://elinfranmundo.blogspot.com)
@@ -1689,7 +1707,7 @@
  - date_published: 2024-12-20T11:15:09+00:00
 
  ## Eli's Coffer
- - [http://eliscoffer.blogspot.com](http://eliscoffer.blogspot.com)
+ - [https://eliscoffer.blogspot.com](https://eliscoffer.blogspot.com)
  - date_published: 2024-02-22T07:07:10+00:00
 
  ## Elise dis a Table
@@ -1709,7 +1727,7 @@
  - date_published: 2024-12-13T05:11:29.953451+00:00
 
  ## The Bunburyist
- - [http://elizabethfoxwell.blogspot.com](http://elizabethfoxwell.blogspot.com)
+ - [https://elizabethfoxwell.blogspot.com](https://elizabethfoxwell.blogspot.com)
  - date_published: 2024-06-29T21:18:11+00:00
 
  ## A Writer and Artist in the Moment
@@ -1725,7 +1743,7 @@
  - date_published: 2024-12-27T21:05:49.959431+00:00
 
  ## Blogger
- - [http://elizaphanian.blogspot.com](http://elizaphanian.blogspot.com)
+ - [https://elizaphanian.blogspot.com](https://elizaphanian.blogspot.com)
  - date_published: 2024-07-04T08:34:19.018931+00:00
 
  ## Alegría
@@ -1733,7 +1751,7 @@
  - date_published: 2024-11-21T08:08:57+00:00
 
  ## el koala puesto en el ojo del tigre
- - [http://elkoalapuesto.blogspot.com](http://elkoalapuesto.blogspot.com)
+ - [https://elkoalapuesto.blogspot.com](https://elkoalapuesto.blogspot.com)
  - date_published: 2024-03-13T23:31:22+00:00
 
  ## Ella Bay Forever
@@ -1745,11 +1763,11 @@
  - date_published: 2024-12-14T09:02:29+00:00
 
  ## elle, phd
- - [http://elleabd.blogspot.com](http://elleabd.blogspot.com)
+ - [https://elleabd.blogspot.com](https://elleabd.blogspot.com)
  - date_published: 2024-04-23T18:43:28+00:00
 
  ## ellenismos
- - [http://ellenismos.blogspot.com](http://ellenismos.blogspot.com)
+ - [https://ellenismos.blogspot.com](https://ellenismos.blogspot.com)
  - date_published: 2024-07-04T06:22:41+00:00
 
  ## Parzialmente scremato
@@ -1761,11 +1779,11 @@
  - date_published: 2024-10-21T14:44:42.694715+00:00
 
  ## Ellie Greenwood, Trail Running Tales
- - [http://elliegreenwood.blogspot.com](http://elliegreenwood.blogspot.com)
+ - [https://elliegreenwood.blogspot.com](https://elliegreenwood.blogspot.com)
  - date_published: 2024-06-18T12:03:47+00:00
 
  ## Endangered Languages Media Watch
- - [http://elmediawatch.blogspot.com](http://elmediawatch.blogspot.com)
+ - [https://elmediawatch.blogspot.com](https://elmediawatch.blogspot.com)
  - date_published: 2024-03-13T02:21:00+00:00
 
  ## EL MONKEZ
@@ -1773,15 +1791,15 @@
  - date_published: 2024-03-14T09:27:47+00:00
 
  ## Irons in the Fire
- - [http://elmtreeforge.blogspot.com](http://elmtreeforge.blogspot.com)
+ - [https://elmtreeforge.blogspot.com](https://elmtreeforge.blogspot.com)
  - date_published: 2024-07-03T15:34:00+00:00
 
  ## Welcome to Craftworld Iybraesil
- - [http://elorrahstormbringer.blogspot.com](http://elorrahstormbringer.blogspot.com)
+ - [https://elorrahstormbringer.blogspot.com](https://elorrahstormbringer.blogspot.com)
  - date_published: 2024-09-02T08:34:47+00:00
 
  ## elotsip 40K
- - [http://elotsip40k.blogspot.com](http://elotsip40k.blogspot.com)
+ - [https://elotsip40k.blogspot.com](https://elotsip40k.blogspot.com)
  - date_published: 2024-10-18T09:43:28+00:00
 
  ## El pes de la paraula
@@ -1789,7 +1807,7 @@
  - date_published: 2024-12-31T22:54:32+00:00
 
  ## Telecommunication and Electronics Projects
- - [http://elprojects.blogspot.com](http://elprojects.blogspot.com)
+ - [https://elprojects.blogspot.com](https://elprojects.blogspot.com)
  - date_published: 2024-03-13T07:26:22+00:00
 
  ## el racó de sa lluna
@@ -1805,7 +1823,7 @@
  - date_published: 2024-11-01T07:46:41+00:00
 
  ## El Senyor Verd
- - [http://elsenyorverd.blogspot.com](http://elsenyorverd.blogspot.com)
+ - [https://elsenyorverd.blogspot.com](https://elsenyorverd.blogspot.com)
  - date_published: 2024-07-15T09:59:43+00:00
 
  ## Military Historical Miniatures
@@ -1813,15 +1831,15 @@
  - date_published: 2024-12-28T10:52:29+00:00
 
  ## El Snacktator
- - [http://elsnacktator.blogspot.com](http://elsnacktator.blogspot.com)
+ - [https://elsnacktator.blogspot.com](https://elsnacktator.blogspot.com)
  - date_published: 2015-11-01T00:00:00+00:00
 
  ## El Soldado Tranquilo
- - [http://elsoldadotranquilo.blogspot.com](http://elsoldadotranquilo.blogspot.com)
+ - [https://elsoldadotranquilo.blogspot.com](https://elsoldadotranquilo.blogspot.com)
  - date_published: 2024-03-14T17:52:50+00:00
 
  ## It's a Mystery
- - [http://elspeth-itsamystery.blogspot.com](http://elspeth-itsamystery.blogspot.com)
+ - [https://elspeth-itsamystery.blogspot.com](https://elspeth-itsamystery.blogspot.com)
  - date_published: 2024-10-17T23:04:15.701808+00:00
 
  ## El Tomo Carmesí
@@ -1833,11 +1851,11 @@
  - date_published: 2024-10-12T20:49:16+00:00
 
  ## elves ate my homework
- - [http://elvesatemyhomework.blogspot.com](http://elvesatemyhomework.blogspot.com)
+ - [https://elvesatemyhomework.blogspot.com](https://elvesatemyhomework.blogspot.com)
  - date_published: 2024-03-13T20:58:25+00:00
 
  ## Elysian 205th
- - [http://elysian205th.blogspot.com](http://elysian205th.blogspot.com)
+ - [https://elysian205th.blogspot.com](https://elysian205th.blogspot.com)
  - date_published: 2024-08-29T00:06:23+00:00
 
  ## Elysian 371st Drop Regiment (SOC)
@@ -1849,11 +1867,11 @@
  - date_published: 2024-09-02T16:46:06+00:00
 
  ## emacs-fu
- - [http://emacs-fu.blogspot.com](http://emacs-fu.blogspot.com)
+ - [https://emacs-fu.blogspot.com](https://emacs-fu.blogspot.com)
  - date_published: 2024-02-07T04:12:32+00:00
 
  ## emacs life
- - [http://emacslife.blogspot.com](http://emacslife.blogspot.com)
+ - [https://emacslife.blogspot.com](https://emacslife.blogspot.com)
  - date_published: 2024-03-14T01:33:44+00:00
 
  ## EMACSPEAK  The Complete Audio Desktop
@@ -1861,11 +1879,11 @@
  - date_published: 2024-03-19T00:00:00+00:00
 
  ## Got Emacs?
- - [http://emacsworld.blogspot.com](http://emacsworld.blogspot.com)
+ - [https://emacsworld.blogspot.com](https://emacsworld.blogspot.com)
  - date_published: 2024-06-22T06:32:06+00:00
 
  ## Tartu - City of Good Food
- - [http://emajoefood.blogspot.com](http://emajoefood.blogspot.com)
+ - [https://emajoefood.blogspot.com](https://emajoefood.blogspot.com)
  - date_published: 2024-10-19T06:21:59.894330+00:00
 
  ## Eman M
@@ -1885,11 +1903,11 @@
  - date_published: 2024-03-14T09:52:46+00:00
 
  ## embracethedungeon
- - [http://embracethedungeon.blogspot.com](http://embracethedungeon.blogspot.com)
+ - [https://embracethedungeon.blogspot.com](https://embracethedungeon.blogspot.com)
  - date_published: 2024-03-08T23:14:09+00:00
 
  ## Litanies of Hate
- - [http://embracingtheblackrage.blogspot.com](http://embracingtheblackrage.blogspot.com)
+ - [https://embracingtheblackrage.blogspot.com](https://embracingtheblackrage.blogspot.com)
  - date_published: 2024-08-29T22:47:25+00:00
 
  ## Embrasures
@@ -1917,7 +1935,7 @@
  - date_published: 2024-03-14T03:17:48+00:00
 
  ## Emerson Harris
- - [http://emersonharris.blogspot.com](http://emersonharris.blogspot.com)
+ - [https://emersonharris.blogspot.com](https://emersonharris.blogspot.com)
  - date_published: 2011-04-14T13:53:00+00:00
 
  ## Nie znaleziono bloga
@@ -1929,7 +1947,7 @@
  - date_published: 2024-12-22T19:38:02+00:00
 
  ## EmLah's Always Right
- - [http://emlahsalwaysright.blogspot.com](http://emlahsalwaysright.blogspot.com)
+ - [https://emlahsalwaysright.blogspot.com](https://emlahsalwaysright.blogspot.com)
  - date_published: 2024-10-21T15:38:38.745435+00:00
 
  ## Immanuel
@@ -1945,7 +1963,7 @@
  - date_published: 2025-01-01T19:28:06.071821+00:00
 
  ## eMOTION!REPORTS.com Publisher's Blog
- - [http://emotionreportscom.blogspot.com](http://emotionreportscom.blogspot.com)
+ - [https://emotionreportscom.blogspot.com](https://emotionreportscom.blogspot.com)
  - date_published: 2024-07-04T05:27:03+00:00
 
  ## The Emperors Blog
@@ -1953,7 +1971,7 @@
  - date_published: 2024-07-14T00:00:00+00:00
 
  ## ARCHANGELS
- - [http://emperorsarchangels.blogspot.com](http://emperorsarchangels.blogspot.com)
+ - [https://emperorsarchangels.blogspot.com](https://emperorsarchangels.blogspot.com)
  - date_published: 2024-03-12T04:50:46+00:00
 
  ## Nie znaleziono bloga
@@ -1961,11 +1979,11 @@
  - date_published: 2025-01-01T11:35:38.250500+00:00
 
  ## The Empire Strikes Drax
- - [http://empiredrax.blogspot.com](http://empiredrax.blogspot.com)
+ - [https://empiredrax.blogspot.com](https://empiredrax.blogspot.com)
  - date_published: 2024-08-28T07:35:39+00:00
 
  ## Empire of Ghosts
- - [http://empireofghosts.blogspot.com](http://empireofghosts.blogspot.com)
+ - [https://empireofghosts.blogspot.com](https://empireofghosts.blogspot.com)
  - date_published: 2024-07-14T18:01:33+00:00
 
  ## Empire Of The Senseless
@@ -1981,23 +1999,23 @@
  - date_published: 2024-08-28T07:25:21+00:00
 
  ## Empire Watch
- - [http://empire-watch.blogspot.com](http://empire-watch.blogspot.com)
+ - [https://empire-watch.blogspot.com](https://empire-watch.blogspot.com)
  - date_published: 2024-03-05T17:16:52+00:00
 
  ## Empirical Snarkery
- - [http://empiricalsnark.blogspot.com](http://empiricalsnark.blogspot.com)
+ - [https://empiricalsnark.blogspot.com](https://empiricalsnark.blogspot.com)
  - date_published: 2024-02-19T13:13:18+00:00
 
  ## empirical-what-you-see-you-get
- - [http://empirical-what-you-see-you-get.blogspot.com](http://empirical-what-you-see-you-get.blogspot.com)
+ - [https://empirical-what-you-see-you-get.blogspot.com](https://empirical-what-you-see-you-get.blogspot.com)
  - date_published: 2024-03-05T11:55:18+00:00
 
  ## Employment Blawg
- - [http://employmentblawg.blogspot.com](http://employmentblawg.blogspot.com)
+ - [https://employmentblawg.blogspot.com](https://employmentblawg.blogspot.com)
  - date_published: 2024-03-13T07:23:39+00:00
 
  ## JAM TANGAN BERKUALITAS
- - [http://emptybolterclip.blogspot.com](http://emptybolterclip.blogspot.com)
+ - [https://emptybolterclip.blogspot.com](https://emptybolterclip.blogspot.com)
  - date_published: 2024-09-05T22:49:00+00:00
 
  ## Blogger
@@ -2009,11 +2027,11 @@
  - date_published: 2024-09-02T08:14:33+00:00
 
  ## Blogger
- - [http://emusestudio.blogspot.com](http://emusestudio.blogspot.com)
+ - [https://emusestudio.blogspot.com](https://emusestudio.blogspot.com)
  - date_published: 2024-09-04T11:43:58.253157+00:00
 
  ## enboolas
- - [http://enboolas.blogspot.com](http://enboolas.blogspot.com)
+ - [https://enboolas.blogspot.com](https://enboolas.blogspot.com)
  - date_published: 2004-02-26T00:00:00+00:00
 
  ## ENCANTAVENTOS
@@ -2041,7 +2059,7 @@
  - date_published: 2024-08-29T09:45:47+00:00
 
  ## ENCOUNTER
- - [http://encountermagazine.blogspot.com](http://encountermagazine.blogspot.com)
+ - [https://encountermagazine.blogspot.com](https://encountermagazine.blogspot.com)
  - date_published: 2024-07-14T20:58:51+00:00
 
  ## Endami
@@ -2065,11 +2083,11 @@
  - date_published: 2024-11-01T09:47:04+00:00
 
  ## Enduring Monsters
- - [http://enduringmonsters.blogspot.com](http://enduringmonsters.blogspot.com)
+ - [https://enduringmonsters.blogspot.com](https://enduringmonsters.blogspot.com)
  - date_published: 2024-03-13T00:47:48+00:00
 
  ## Blogger
- - [http://enemiesofreason.blogspot.com](http://enemiesofreason.blogspot.com)
+ - [https://enemiesofreason.blogspot.com](https://enemiesofreason.blogspot.com)
  - date_published: 2024-10-21T13:58:47.042386+00:00
 
  ## Nie znaleziono bloga
@@ -2081,7 +2099,7 @@
  - date_published: 2024-12-02T23:47:05+00:00
 
  ## Engineering Johnson
- - [http://engineeringjohnson.blogspot.com](http://engineeringjohnson.blogspot.com)
+ - [https://engineeringjohnson.blogspot.com](https://engineeringjohnson.blogspot.com)
  - date_published: 2024-06-29T14:13:10+00:00
 
  ## The Engine Room
@@ -2093,15 +2111,15 @@
  - date_published: 2024-06-26T07:54:41+00:00
 
  ## England Prevails...
- - [http://englandprevials.blogspot.com](http://englandprevials.blogspot.com)
+ - [https://englandprevials.blogspot.com](https://englandprevials.blogspot.com)
  - date_published: 2024-07-05T21:13:46+00:00
 
  ## Englands Freedome, Souldiers Rights
- - [http://englandsfreedome.blogspot.com](http://englandsfreedome.blogspot.com)
- - date_published: 2024-10-21T14:18:54.123768+00:00
+ - [https://englandsfreedome.blogspot.com](https://englandsfreedome.blogspot.com)
+ - date_published: 2024-10-05T02:00:48+00:00
 
  ## Better Bibles Blog
- - [http://englishbibles.blogspot.com](http://englishbibles.blogspot.com)
+ - [https://englishbibles.blogspot.com](https://englishbibles.blogspot.com)
  - date_published: 2024-04-23T18:42:38+00:00
 
  ## English Buildings
@@ -2113,23 +2131,23 @@
  - date_published: 2024-05-07T21:56:05.873067+00:00
 
  ## EngLangBlog
- - [http://englishlangsfx.blogspot.com](http://englishlangsfx.blogspot.com)
+ - [https://englishlangsfx.blogspot.com](https://englishlangsfx.blogspot.com)
  - date_published: 2024-02-08T00:00:00+00:00
 
  ## English Pensioner
- - [http://english-pensioner.blogspot.com](http://english-pensioner.blogspot.com)
+ - [https://english-pensioner.blogspot.com](https://english-pensioner.blogspot.com)
  - date_published: 2024-03-05T09:05:32+00:00
 
  ## Back Talk Me
- - [http://engram-backtalk.blogspot.com](http://engram-backtalk.blogspot.com)
+ - [https://engram-backtalk.blogspot.com](https://engram-backtalk.blogspot.com)
  - date_published: 2024-03-13T04:51:50+00:00
 
  ## ENHANCED - ADVANCED HEROQUEST
- - [http://enhancedadvancedheroquest.blogspot.com](http://enhancedadvancedheroquest.blogspot.com)
+ - [https://enhancedadvancedheroquest.blogspot.com](https://enhancedadvancedheroquest.blogspot.com)
  - date_published: 2024-10-07T06:27:33+00:00
 
  ## Enionline Alternative Worlds
- - [http://enionline.blogspot.com](http://enionline.blogspot.com)
+ - [https://enionline.blogspot.com](https://enionline.blogspot.com)
  - date_published: 2024-06-28T23:19:12+00:00
 
  ## Enkalhados pelo Mundo
@@ -2141,7 +2159,7 @@
  - date_published: 2024-08-28T19:47:40+00:00
 
  ## The Enlightenment Underground
- - [http://enlightenmentunderground.blogspot.com](http://enlightenmentunderground.blogspot.com)
+ - [https://enlightenmentunderground.blogspot.com](https://enlightenmentunderground.blogspot.com)
  - date_published: 2024-03-13T05:02:43+00:00
 
  ## Enoch Bolles
@@ -2157,7 +2175,7 @@
  - date_published: 2024-12-27T13:34:48.166084+00:00
 
  ## En Peru 2010
- - [http://enperu2010.blogspot.com](http://enperu2010.blogspot.com)
+ - [https://enperu2010.blogspot.com](https://enperu2010.blogspot.com)
  - date_published: 2024-03-13T00:00:14+00:00
 
  ## Enrique Fernández
@@ -2169,7 +2187,7 @@
  - date_published: 2024-10-09T05:09:42+00:00
 
  ## Enter The Door Within
- - [http://enterthedoorwithin.blogspot.com](http://enterthedoorwithin.blogspot.com)
+ - [https://enterthedoorwithin.blogspot.com](https://enterthedoorwithin.blogspot.com)
  - date_published: 2024-10-17T09:34:15+00:00
 
  ## EnterTheSingularity
@@ -2185,11 +2203,11 @@
  - date_published: 2024-10-29T06:31:20+00:00
 
  ## Entity Crisis
- - [http://entitycrisis.blogspot.com](http://entitycrisis.blogspot.com)
+ - [https://entitycrisis.blogspot.com](https://entitycrisis.blogspot.com)
  - date_published: 2019-10-08T00:00:00+00:00
 
  ## Entre as brumas da memória
- - [http://entreasbrumasdamemoria.blogspot.com](http://entreasbrumasdamemoria.blogspot.com)
+ - [https://entreasbrumasdamemoria.blogspot.com](https://entreasbrumasdamemoria.blogspot.com)
  - date_published: 2024-07-12T18:27:09+00:00
 
  ## Entre Páginas
@@ -2197,11 +2215,11 @@
  - date_published: 2024-11-12T18:44:34+00:00
 
  ## Entropic Existence
- - [http://entropicexistence.blogspot.com](http://entropicexistence.blogspot.com)
+ - [https://entropicexistence.blogspot.com](https://entropicexistence.blogspot.com)
  - date_published: 2024-10-19T05:02:39.870500+00:00
 
  ## entropy bound
- - [http://entropybound.blogspot.com](http://entropybound.blogspot.com)
+ - [https://entropybound.blogspot.com](https://entropybound.blogspot.com)
  - date_published: 2024-10-19T07:46:57.044376+00:00
 
  ## Entropy Production
@@ -2217,15 +2235,15 @@
  - date_published: 2024-06-19T17:02:58+00:00
 
  ## EnvisionBaltimore
- - [http://envisionbaltimore.blogspot.com](http://envisionbaltimore.blogspot.com)
+ - [https://envisionbaltimore.blogspot.com](https://envisionbaltimore.blogspot.com)
  - date_published: 2024-06-28T09:04:50+00:00
 
  ## Edge of Dawn
- - [http://eodchapter.blogspot.com](http://eodchapter.blogspot.com)
+ - [https://eodchapter.blogspot.com](https://eodchapter.blogspot.com)
  - date_published: 2024-10-25T12:19:09+00:00
 
  ## Γλωσσογραφίες
- - [http://epanagiotidis.blogspot.com](http://epanagiotidis.blogspot.com)
+ - [https://epanagiotidis.blogspot.com](https://epanagiotidis.blogspot.com)
  - date_published: 2024-06-01T17:05:43+00:00
 
  ## Quantitative Trading
@@ -2246,7 +2264,7 @@
  - date_published: 2024-02-07T07:46:32+00:00
 
  ## The Epicurean Dealmaker
- - [http://epicureandealmaker.blogspot.com](http://epicureandealmaker.blogspot.com)
+ - [https://epicureandealmaker.blogspot.com](https://epicureandealmaker.blogspot.com)
  - date_published: 2024-03-13T23:02:38+00:00
 
  ## EpideMixe
@@ -2266,11 +2284,11 @@
  - date_published: 2024-10-05T04:02:49+00:00
 
  ## Epitude Rusk's Wargaming Blog
- - [http://epituderusk.blogspot.com](http://epituderusk.blogspot.com)
+ - [https://epituderusk.blogspot.com](https://epituderusk.blogspot.com)
  - date_published: 2024-06-10T07:56:16+00:00
 
  ## E-Pression
- - [http://e-pression.blogspot.com](http://e-pression.blogspot.com)
+ - [https://e-pression.blogspot.com](https://e-pression.blogspot.com)
  - date_published: 2008-02-10T03:09:00+00:00
 
  ## Blogger
@@ -2286,7 +2304,7 @@
  - date_published: 2024-10-19T05:17:34.354669+00:00
 
  ## The Unstable Dice
- - [http://equinox999.blogspot.com](http://equinox999.blogspot.com)
+ - [https://equinox999.blogspot.com](https://equinox999.blogspot.com)
  - date_published: 2024-03-29T03:29:24+00:00
 
  ## Equipa do Tintol
@@ -2298,23 +2316,23 @@
  - date_published: 2024-09-02T08:59:00+00:00
 
  ## Erdal Karaca musing about Eclipse
- - [http://erdalkaracade.blogspot.com](http://erdalkaracade.blogspot.com)
+ - [https://erdalkaracade.blogspot.com](https://erdalkaracade.blogspot.com)
  - date_published: 2024-03-13T09:23:59+00:00
 
  ## The Ergosphere
- - [http://ergosphere.blogspot.com](http://ergosphere.blogspot.com)
+ - [https://ergosphere.blogspot.com](https://ergosphere.blogspot.com)
  - date_published: 2024-06-25T09:15:32+00:00
 
  ## Erica Gazzoldi - Le Porte dei Sogni
- - [http://erica-gazzoldi.blogspot.com](http://erica-gazzoldi.blogspot.com)
+ - [https://erica-gazzoldi.blogspot.com](https://erica-gazzoldi.blogspot.com)
  - date_published: 2024-08-25T22:45:18+00:00
 
  ## Bouwers > Eric  > Blog
- - [http://ericbouwers.blogspot.com](http://ericbouwers.blogspot.com)
+ - [https://ericbouwers.blogspot.com](https://ericbouwers.blogspot.com)
  - date_published: 2024-10-17T21:15:38.586111+00:00
 
  ## Eric on Eclipse
- - [http://ericoneclipse.blogspot.com](http://ericoneclipse.blogspot.com)
+ - [https://ericoneclipse.blogspot.com](https://ericoneclipse.blogspot.com)
  - date_published: 2024-03-14T03:08:51+00:00
 
  ## Erico Notes
@@ -2334,7 +2352,7 @@
  - date_published: 2025-01-01T09:03:07.106570+00:00
 
  ## Eric The Fish
- - [http://ericthefishking.blogspot.com](http://ericthefishking.blogspot.com)
+ - [https://ericthefishking.blogspot.com](https://ericthefishking.blogspot.com)
  - date_published: 2024-10-21T13:54:00.689336+00:00
 
  ## eric three thousand
@@ -2358,11 +2376,11 @@
  - date_published: 2024-11-06T02:59:43+00:00
 
  ## Erin On The Mend
- - [http://erinonthemend.blogspot.com](http://erinonthemend.blogspot.com)
+ - [https://erinonthemend.blogspot.com](https://erinonthemend.blogspot.com)
  - date_published: 2024-03-20T07:08:48+00:00
 
  ## Erlang advisor
- - [http://erladvisor.blogspot.com](http://erladvisor.blogspot.com)
+ - [https://erladvisor.blogspot.com](https://erladvisor.blogspot.com)
  - date_published: 2024-03-13T11:48:18+00:00
 
  ## Ernesto Rodrigues
@@ -2386,7 +2404,7 @@
  - date_published: 2024-12-19T03:32:42+00:00
 
  ## Error Theory
- - [http://errortheory.blogspot.com](http://errortheory.blogspot.com)
+ - [https://errortheory.blogspot.com](https://errortheory.blogspot.com)
  - date_published: 2024-06-26T12:05:16+00:00
 
  ## Ethereal Games
@@ -2394,7 +2412,7 @@
  - date_published: 2024-10-29T14:07:00+00:00
 
  ## Erwin Madrid Blog
- - [http://erwinmadrid.blogspot.com](http://erwinmadrid.blogspot.com)
+ - [https://erwinmadrid.blogspot.com](https://erwinmadrid.blogspot.com)
  - date_published: 2024-07-06T05:54:23+00:00
 
  ## Com Amor
@@ -2418,7 +2436,7 @@
  - date_published: 2024-12-27T22:46:43+00:00
 
  ## Eseya, Muñecas con historia
- - [http://eseyauy.blogspot.com](http://eseyauy.blogspot.com)
+ - [https://eseyauy.blogspot.com](https://eseyauy.blogspot.com)
  - date_published: 2024-06-28T09:02:10+00:00
 
  ## Esferovite (desactivado)
@@ -2426,7 +2444,7 @@
  - date_published: 2024-09-11T23:54:49+00:00
 
  ## Dialogos of Eide
- - [http://eskesthai.blogspot.com](http://eskesthai.blogspot.com)
+ - [https://eskesthai.blogspot.com](https://eskesthai.blogspot.com)
  - date_published: 2024-08-17T00:06:09+00:00
 
  ## Eko-Kuvia
@@ -2442,7 +2460,7 @@
  - date_published: 2024-09-08T15:25:22+00:00
 
  ## Esoteric Murmurs
- - [http://esotericmurmurs.blogspot.com](http://esotericmurmurs.blogspot.com)
+ - [https://esotericmurmurs.blogspot.com](https://esotericmurmurs.blogspot.com)
  - date_published: 2024-05-07T17:45:07+00:00
 
  ## Espaço de Memória-Pátio de Letras
@@ -2498,7 +2516,7 @@
  - date_published: 2024-12-13T04:43:16.227164+00:00
 
  ## Essential House
- - [http://essentialhouse.blogspot.com](http://essentialhouse.blogspot.com)
+ - [https://essentialhouse.blogspot.com](https://essentialhouse.blogspot.com)
  - date_published: 2024-09-02T08:47:23+00:00
 
  ## Est 21
@@ -2510,7 +2528,7 @@
  - date_published: 2024-12-22T11:53:08.311400+00:00
 
  ## Estado Civil
- - [http://estadocivil.blogspot.com](http://estadocivil.blogspot.com)
+ - [https://estadocivil.blogspot.com](https://estadocivil.blogspot.com)
  - date_published: 2024-02-19T03:25:22+00:00
 
  ## Nie znaleziono bloga
@@ -2518,7 +2536,7 @@
  - date_published: 2024-12-30T08:38:35.048268+00:00
 
  ## ~THE PARSONS~
- - [http://estherandrobby.blogspot.com](http://estherandrobby.blogspot.com)
+ - [https://estherandrobby.blogspot.com](https://estherandrobby.blogspot.com)
  - date_published: 2004-02-26T00:00:00+00:00
 
  ## Estrolabio
@@ -2542,7 +2560,7 @@
  - date_published: 2024-09-27T20:58:00+00:00
 
  ## Khepri's Eternal Legion
- - [http://eternal-legion.blogspot.com](http://eternal-legion.blogspot.com)
+ - [https://eternal-legion.blogspot.com](https://eternal-legion.blogspot.com)
  - date_published: 2024-10-02T06:30:38+00:00
 
  ## On New and Alternative Religions
@@ -2554,11 +2572,11 @@
  - date_published: 2024-09-27T23:16:44+00:00
 
  ## Blogger
- - [http://ethylbenzene.blogspot.com](http://ethylbenzene.blogspot.com)
+ - [https://ethylbenzene.blogspot.com](https://ethylbenzene.blogspot.com)
  - date_published: 2024-10-19T08:20:01.524341+00:00
 
  ## Etoys, Squeak and Sugar
- - [http://etoys-squeak-and-sugar.blogspot.com](http://etoys-squeak-and-sugar.blogspot.com)
+ - [https://etoys-squeak-and-sugar.blogspot.com](https://etoys-squeak-and-sugar.blogspot.com)
  - date_published: 2024-03-14T04:02:41+00:00
 
  ## Nie znaleziono bloga
@@ -2566,19 +2584,19 @@
  - date_published: 2024-12-31T16:53:04.276565+00:00
 
  ## Etymolist
- - [http://etymolist.blogspot.com](http://etymolist.blogspot.com)
+ - [https://etymolist.blogspot.com](https://etymolist.blogspot.com)
  - date_published: 2024-03-06T07:55:54+00:00
 
  ## LOST FOR WORDS
- - [http://etymolog.blogspot.com](http://etymolog.blogspot.com)
+ - [https://etymolog.blogspot.com](https://etymolog.blogspot.com)
  - date_published: 2024-03-06T00:54:46+00:00
 
  ## The Big E-UAE JIT blog
- - [http://euaejit.blogspot.com](http://euaejit.blogspot.com)
+ - [https://euaejit.blogspot.com](https://euaejit.blogspot.com)
  - date_published: 2024-07-07T07:16:17+00:00
 
  ## Euangelion
- - [http://euangelizomai.blogspot.com](http://euangelizomai.blogspot.com)
+ - [https://euangelizomai.blogspot.com](https://euangelizomai.blogspot.com)
  - date_published: 2024-06-28T12:38:08+00:00
 
  ## EU CÁ VOO CAMINHANDO
@@ -2590,7 +2608,7 @@
  - date_published: 2024-12-31T06:43:29.468217+00:00
 
  ## Eugenio Ocaña
- - [http://eugenioocana.blogspot.com](http://eugenioocana.blogspot.com)
+ - [https://eugenioocana.blogspot.com](https://eugenioocana.blogspot.com)
  - date_published: 2024-03-13T14:55:21+00:00
 
  ## EU Law Analysis
@@ -2599,7 +2617,7 @@
 
  ## EU Law Myth Busting
  - [https://eulawstudent.blogspot.com](https://eulawstudent.blogspot.com)
- - date_published: 2024-10-18T21:04:22.674275+00:00
+ - date_published: 2024-10-09T12:49:21+00:00
 
  ## Primeiramente
  - [http://eumlugaraosul.blogspot.com](http://eumlugaraosul.blogspot.com)
@@ -2610,11 +2628,11 @@
  - date_published: 2004-02-26T00:00:00+00:00
 
  ## EU Pundit : Issues of the European Union
- - [http://eupundit.blogspot.com](http://eupundit.blogspot.com)
- - date_published: 2024-10-18T20:41:43.637297+00:00
+ - [https://eupundit.blogspot.com](https://eupundit.blogspot.com)
+ - date_published: 2024-09-01T07:47:34+00:00
 
  ## EU Referendum
- - [http://eureferendum.blogspot.com](http://eureferendum.blogspot.com)
+ - [https://eureferendum.blogspot.com](https://eureferendum.blogspot.com)
  - date_published: 2024-02-28T07:35:03+00:00
 
  ## Eureka! miniature painting
@@ -2622,15 +2640,15 @@
  - date_published: 2024-12-21T08:38:10+00:00
 
  ## UEFA EURO, Fifa world cup, World Cup babe , football & soccer game
- - [http://euro2008spirit.blogspot.com](http://euro2008spirit.blogspot.com)
+ - [https://euro2008spirit.blogspot.com](https://euro2008spirit.blogspot.com)
  - date_published: 2024-03-14T09:03:20+00:00
 
  ## europæus|law
- - [http://europaeuslaw.blogspot.com](http://europaeuslaw.blogspot.com)
+ - [https://europaeuslaw.blogspot.com](https://europaeuslaw.blogspot.com)
  - date_published: 2024-06-10T07:54:52+00:00
 
  ## ТЕТРАДКИ: Что о нас думают в Европе?
- - [http://european-book-review.blogspot.com](http://european-book-review.blogspot.com)
+ - [https://european-book-review.blogspot.com](https://european-book-review.blogspot.com)
  - date_published: 2024-05-31T08:19:57+00:00
 
  ## EUROPEAN COURTS
@@ -2642,15 +2660,15 @@
  - date_published: 2024-03-23T18:19:13+00:00
 
  ## Eurosceptic Voice
- - [http://euroscepticvoice.blogspot.com](http://euroscepticvoice.blogspot.com)
- - date_published: 2024-10-21T14:10:27.451511+00:00
+ - [https://euroscepticvoice.blogspot.com](https://euroscepticvoice.blogspot.com)
+ - date_published: 2024-08-29T07:30:46+00:00
 
  ## eurovac 09
  - [http://eurovac09.blogspot.com](http://eurovac09.blogspot.com)
  - date_published: 2024-09-19T18:35:08+00:00
 
  ## Riddled
- - [http://eusa-riddled.blogspot.com](http://eusa-riddled.blogspot.com)
+ - [https://eusa-riddled.blogspot.com](https://eusa-riddled.blogspot.com)
  - date_published: 2024-06-11T21:42:21+00:00
 
  ## The Road to Euro Serfdom
@@ -2662,19 +2680,19 @@
  - date_published: 2024-12-23T14:12:11.878212+00:00
 
  ## WARGAMES  et  FIGURINES
- - [http://euthanasor-wargamesetmodelisme.blogspot.com](http://euthanasor-wargamesetmodelisme.blogspot.com)
+ - [https://euthanasor-wargamesetmodelisme.blogspot.com](https://euthanasor-wargamesetmodelisme.blogspot.com)
  - date_published: 2024-07-14T21:00:05+00:00
 
  ## Euvoluntary Exchange
- - [http://euvoluntaryexchange.blogspot.com](http://euvoluntaryexchange.blogspot.com)
+ - [https://euvoluntaryexchange.blogspot.com](https://euvoluntaryexchange.blogspot.com)
  - date_published: 2024-10-12T10:06:22+00:00
 
  ## eva hilhorst
- - [http://evahilhorst.blogspot.com](http://evahilhorst.blogspot.com)
+ - [https://evahilhorst.blogspot.com](https://evahilhorst.blogspot.com)
  - date_published: 2024-03-14T10:49:54+00:00
 
  ## Blogger
- - [http://evalake.blogspot.com](http://evalake.blogspot.com)
+ - [https://evalake.blogspot.com](https://evalake.blogspot.com)
  - date_published: 2024-06-28T14:16:14.480874+00:00
 
  ## An Evangelical Dialogue on Evolution
@@ -2690,7 +2708,7 @@
  - date_published: 2015-03-04T00:00:00+00:00
 
  ## Eve Hallow Miniatures
- - [http://evehallowminiatures.blogspot.com](http://evehallowminiatures.blogspot.com)
+ - [https://evehallowminiatures.blogspot.com](https://evehallowminiatures.blogspot.com)
  - date_published: 2024-03-13T21:46:39+00:00
 
  ## SciTech & Rights 4 Africa
@@ -2698,15 +2716,15 @@
  - date_published: 2024-02-07T21:27:32+00:00
 
  ## even*cleveland
- - [http://evencleveland.blogspot.com](http://evencleveland.blogspot.com)
+ - [https://evencleveland.blogspot.com](https://evencleveland.blogspot.com)
  - date_published: 2024-09-06T21:13:19+00:00
 
  ## Evening Walk
- - [http://eveningwalk.blogspot.com](http://eveningwalk.blogspot.com)
+ - [https://eveningwalk.blogspot.com](https://eveningwalk.blogspot.com)
  - date_published: 2024-03-13T08:43:07+00:00
 
  ## Griatch's Evennia musings
- - [http://evennia.blogspot.com](http://evennia.blogspot.com)
+ - [https://evennia.blogspot.com](https://evennia.blogspot.com)
  - date_published: 2021-11-18T00:00:00+00:00
 
  ## Summer Evening's Post
@@ -2730,7 +2748,7 @@
  - date_published: 2024-06-22T00:00:00+00:00
 
  ## The view from here
- - [http://everybodyhastobesomewhere.blogspot.com](http://everybodyhastobesomewhere.blogspot.com)
+ - [https://everybodyhastobesomewhere.blogspot.com](https://everybodyhastobesomewhere.blogspot.com)
  - date_published: 2024-07-03T07:00:00+00:00
 
  ## Every Day Is Like Wednesday
@@ -2750,11 +2768,11 @@
  - date_published: 2004-02-26T00:00:00+00:00
 
  ## Every Store Needs One
- - [http://everystoreneedsone.blogspot.com](http://everystoreneedsone.blogspot.com)
+ - [https://everystoreneedsone.blogspot.com](https://everystoreneedsone.blogspot.com)
  - date_published: 2024-10-07T05:40:24+00:00
 
  ## Everything's SFNE
- - [http://everythingsfne.blogspot.com](http://everythingsfne.blogspot.com)
+ - [https://everythingsfne.blogspot.com](https://everythingsfne.blogspot.com)
  - date_published: 2024-03-23T18:21:21+00:00
 
  ## reserva mental
@@ -2762,11 +2780,11 @@
  - date_published: 2015-09-27T00:00:00+00:00
 
  ## EveTushnet.com
- - [http://eve-tushnet.blogspot.com](http://eve-tushnet.blogspot.com)
+ - [https://eve-tushnet.blogspot.com](https://eve-tushnet.blogspot.com)
  - date_published: 2024-02-19T16:28:32+00:00
 
  ## LOWER EAST SIDE HISTORY PROJECT .the blog
- - [http://evhp.blogspot.com](http://evhp.blogspot.com)
+ - [https://evhp.blogspot.com](https://evhp.blogspot.com)
  - date_published: 2024-07-17T10:53:43+00:00
 
  ## Anecdotal Evidence
@@ -2775,43 +2793,43 @@
  - tags: ['personal']
 
  ## Evigan Funk
- - [http://eviganfunk.blogspot.com](http://eviganfunk.blogspot.com)
- - date_published: 2024-10-21T04:35:37.990079+00:00
+ - [https://eviganfunk.blogspot.com](https://eviganfunk.blogspot.com)
+ - date_published: 2024-09-10T04:51:24+00:00
 
  ## evil baboons or perhaps mandrills
  - [https://evilbaboons.blogspot.com](https://evilbaboons.blogspot.com)
  - date_published: 2024-10-24T09:05:49+00:00
 
  ## EBL
- - [http://evilbloggerlady.blogspot.com](http://evilbloggerlady.blogspot.com)
+ - [https://evilbloggerlady.blogspot.com](https://evilbloggerlady.blogspot.com)
  - date_published: 2024-06-27T02:00:00+00:00
 
  ## Evil Bob's Miniature Painting
- - [http://evilbobs.blogspot.com](http://evilbobs.blogspot.com)
+ - [https://evilbobs.blogspot.com](https://evilbobs.blogspot.com)
  - date_published: 2024-03-25T13:33:51+00:00
 
  ## The Lair of the Evil DM
- - [http://evildm.blogspot.com](http://evildm.blogspot.com)
+ - [https://evildm.blogspot.com](https://evildm.blogspot.com)
  - date_published: 2024-07-06T20:43:15+00:00
 
  ## Evil Editor
- - [http://evileditor.blogspot.com](http://evileditor.blogspot.com)
+ - [https://evileditor.blogspot.com](https://evileditor.blogspot.com)
  - date_published: 2024-08-19T11:11:00+00:00
 
  ## Art and Craft Ideas
- - [http://evillearmory.blogspot.com](http://evillearmory.blogspot.com)
+ - [https://evillearmory.blogspot.com](https://evillearmory.blogspot.com)
  - date_published: 2024-08-30T15:08:22+00:00
 
  ## E-Ville Press
- - [http://e-villepress.blogspot.com](http://e-villepress.blogspot.com)
+ - [https://e-villepress.blogspot.com](https://e-villepress.blogspot.com)
  - date_published: 2004-02-27T00:00:00+00:00
 
  ## The Evilutionary Biologist
- - [http://evilutionarybiologist.blogspot.com](http://evilutionarybiologist.blogspot.com)
+ - [https://evilutionarybiologist.blogspot.com](https://evilutionarybiologist.blogspot.com)
  - date_published: 2024-04-19T13:04:24+00:00
 
  ## The Big Mud Puddle
- - [http://evincarofautumn.blogspot.com](http://evincarofautumn.blogspot.com)
+ - [https://evincarofautumn.blogspot.com](https://evincarofautumn.blogspot.com)
  - date_published: 2024-07-07T09:07:40+00:00
 
  ## Blogger
@@ -2823,11 +2841,11 @@
  - date_published: 2024-05-01T15:57:00+00:00
 
  ## Evolutionary Middleman
- - [http://evolutionarymiddleman.blogspot.com](http://evolutionarymiddleman.blogspot.com)
+ - [https://evolutionarymiddleman.blogspot.com](https://evolutionarymiddleman.blogspot.com)
  - date_published: 2024-03-07T20:23:10+00:00
 
  ## THE EVOLUTION LIST
- - [http://evolutionlist.blogspot.com](http://evolutionlist.blogspot.com)
+ - [https://evolutionlist.blogspot.com](https://evolutionlist.blogspot.com)
  - date_published: 2024-03-07T22:02:37+00:00
 
  ## Evolving English II
@@ -2843,7 +2861,7 @@
  - date_published: 2024-12-19T03:33:05+00:00
 
  ## Blogger
- - [http://ewarburtonfamily.blogspot.com](http://ewarburtonfamily.blogspot.com)
+ - [https://ewarburtonfamily.blogspot.com](https://ewarburtonfamily.blogspot.com)
  - date_published: 2024-07-20T21:14:25.903928+00:00
 
  ## exatanews
@@ -2859,7 +2877,7 @@
  - date_published: 2024-06-18T14:13:18+00:00
 
  ## Excommunicate Traitoris
- - [http://excommunicatetratoris.blogspot.com](http://excommunicatetratoris.blogspot.com)
+ - [https://excommunicatetratoris.blogspot.com](https://excommunicatetratoris.blogspot.com)
  - date_published: 2024-07-13T10:15:44+00:00
 
  ## Excursions Beyond the Call of Duty
@@ -2871,7 +2889,7 @@
  - date_published: 2024-10-24T21:52:05+00:00
 
  ## Experimental Evolution, Ecology and Behaviour (EXEB)
- - [http://exeblund.blogspot.com](http://exeblund.blogspot.com)
+ - [https://exeblund.blogspot.com](https://exeblund.blogspot.com)
  - date_published: 2024-07-04T05:54:23+00:00
 
  ## exercícios de esquecimento
@@ -2889,9 +2907,10 @@
  ## Nie znaleziono bloga
  - [http://exilesoldhammer.blogspot.com](http://exilesoldhammer.blogspot.com)
  - date_published: 2024-09-03T22:22:30.633801+00:00
+ - date_dead_since: 2025-01-05T03:05:40.080837+00:00
 
  ## Exiles Painting
- - [http://exilespainting.blogspot.com](http://exilespainting.blogspot.com)
+ - [https://exilespainting.blogspot.com](https://exilespainting.blogspot.com)
  - date_published: 2024-07-04T06:36:30+00:00
 
  ## BEYOND EXISTENZ NO-EXISTENZ
@@ -2903,23 +2922,23 @@
  - date_published: 2024-09-05T05:00:50+00:00
 
  ## Blogger
- - [http://exlibhollywood.blogspot.com](http://exlibhollywood.blogspot.com)
+ - [https://exlibhollywood.blogspot.com](https://exlibhollywood.blogspot.com)
  - date_published: 2024-06-27T09:11:09.666218+00:00
 
  ## Path of the Outcast
- - [http://exodites.blogspot.com](http://exodites.blogspot.com)
+ - [https://exodites.blogspot.com](https://exodites.blogspot.com)
  - date_published: 2017-07-20T00:00:00+00:00
 
  ## EXONAUTS!
- - [http://exonauts.blogspot.com](http://exonauts.blogspot.com)
+ - [https://exonauts.blogspot.com](https://exonauts.blogspot.com)
  - date_published: 2024-03-14T01:59:07+00:00
 
  ## Exoplanetology
- - [http://exoplanetology.blogspot.com](http://exoplanetology.blogspot.com)
+ - [https://exoplanetology.blogspot.com](https://exoplanetology.blogspot.com)
  - date_published: 2024-03-13T20:32:38+00:00
 
  ## Polymath
- - [http://exoscientist.blogspot.com](http://exoscientist.blogspot.com)
+ - [https://exoscientist.blogspot.com](https://exoscientist.blogspot.com)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## Exotic Painting
@@ -2927,7 +2946,7 @@
  - date_published: 2024-08-31T02:15:18+00:00
 
  ## Experiments in Art History: Teaching with Digital Tools
- - [http://experiementsinarthistory.blogspot.com](http://experiementsinarthistory.blogspot.com)
+ - [https://experiementsinarthistory.blogspot.com](https://experiementsinarthistory.blogspot.com)
  - date_published: 2024-06-26T12:04:28+00:00
 
  ## Experienciatitude
@@ -2935,7 +2954,7 @@
  - date_published: 2024-12-20T00:30:00+00:00
 
  ## Experimental and Behavioral Economics
- - [http://experimentalandbehavioral.blogspot.com](http://experimentalandbehavioral.blogspot.com)
+ - [https://experimentalandbehavioral.blogspot.com](https://experimentalandbehavioral.blogspot.com)
  - date_published: 2024-06-29T08:56:39+00:00
 
  ## Experiments in Elegance
@@ -2955,7 +2974,7 @@
  - date_published: 2024-10-27T03:56:51+00:00
 
  ## Exploring Believability
- - [http://exploringbelievability.blogspot.com](http://exploringbelievability.blogspot.com)
+ - [https://exploringbelievability.blogspot.com](https://exploringbelievability.blogspot.com)
  - date_published: 2024-03-13T16:10:06+00:00
 
  ## ExploringDataBlog
@@ -2963,11 +2982,11 @@
  - date_published: 2024-06-27T11:13:00+00:00
 
  ## Exploring Our Matrix
- - [http://exploringourmatrix.blogspot.com](http://exploringourmatrix.blogspot.com)
+ - [https://exploringourmatrix.blogspot.com](https://exploringourmatrix.blogspot.com)
  - date_published: 2024-03-13T01:49:24+00:00
 
  ## Exponent wargames
- - [http://exponentwargames.blogspot.com](http://exponentwargames.blogspot.com)
+ - [https://exponentwargames.blogspot.com](https://exponentwargames.blogspot.com)
  - date_published: 2024-08-12T10:28:25+00:00
 
  ## An Ex Rocket Man's Take On It
@@ -2975,7 +2994,7 @@
  - date_published: 2024-07-09T15:58:17+00:00
 
  ## Blogger
- - [http://exspace.blogspot.com](http://exspace.blogspot.com)
+ - [https://exspace.blogspot.com](https://exspace.blogspot.com)
  - date_published: 2024-08-18T20:23:52.533275+00:00
 
  ## MediaWiki Testing
@@ -2983,7 +3002,7 @@
  - date_published: 2024-07-04T05:55:28+00:00
 
  ## ExtraBushyBeards
- - [http://extrabushybeards.blogspot.com](http://extrabushybeards.blogspot.com)
+ - [https://extrabushybeards.blogspot.com](https://extrabushybeards.blogspot.com)
  - date_published: 2024-09-08T04:37:45+00:00
 
  ## Extracranial
@@ -2995,19 +3014,19 @@
  - date_published: 2024-10-25T02:14:36+00:00
 
  ## EyeforTravel: Online Travel Insights
- - [http://eyefortravelblog.blogspot.com](http://eyefortravelblog.blogspot.com)
+ - [https://eyefortravelblog.blogspot.com](https://eyefortravelblog.blogspot.com)
  - date_published: 2024-10-02T07:08:26+00:00
 
  ## eyeneee rants
- - [http://eyeneeewritesagain.blogspot.com](http://eyeneeewritesagain.blogspot.com)
+ - [https://eyeneeewritesagain.blogspot.com](https://eyeneeewritesagain.blogspot.com)
  - date_published: 2024-09-08T17:00:03+00:00
 
  ## Eye of Error
- - [http://eyeoferror.blogspot.com](http://eyeoferror.blogspot.com)
+ - [https://eyeoferror.blogspot.com](https://eyeoferror.blogspot.com)
  - date_published: 2024-06-19T17:07:06+00:00
 
  ## Ostrzeżenie dotyczące treści o charakterze kontrowersyjnym
- - [http://eye-on-the-world.blogspot.com](http://eye-on-the-world.blogspot.com)
+ - [https://eye-on-the-world.blogspot.com](https://eye-on-the-world.blogspot.com)
  - date_published: 2024-06-27T09:38:38.502754+00:00
 
  ## Eye on Vision
@@ -3019,7 +3038,7 @@
  - date_published: 2024-09-05T23:31:25+00:00
 
  ## EyeScorpion
- - [http://eyescorpion.blogspot.com](http://eyescorpion.blogspot.com)
+ - [https://eyescorpion.blogspot.com](https://eyescorpion.blogspot.com)
  - date_published: 2024-03-19T20:31:19+00:00
 
  ## Eye on Britain
@@ -3027,35 +3046,35 @@
  - date_published: 2024-10-21T07:59:44+00:00
 
  ## ezaero
- - [http://ezaero.blogspot.com](http://ezaero.blogspot.com)
+ - [https://ezaero.blogspot.com](https://ezaero.blogspot.com)
  - date_published: 2024-02-20T11:46:12+00:00
 
  ## F1 Data Junkie
- - [http://f1datajunkie.blogspot.com](http://f1datajunkie.blogspot.com)
+ - [https://f1datajunkie.blogspot.com](https://f1datajunkie.blogspot.com)
  - date_published: 2024-05-18T04:40:30+00:00
 
  ## Freedom-2-Choose (Scotland)
- - [http://f2cscotland.blogspot.com](http://f2cscotland.blogspot.com)
+ - [https://f2cscotland.blogspot.com](https://f2cscotland.blogspot.com)
  - date_published: 2024-10-21T15:01:55.013978+00:00
 
  ## Fabien Chéreau's blog
- - [http://f4bien.blogspot.com](http://f4bien.blogspot.com)
+ - [https://f4bien.blogspot.com](https://f4bien.blogspot.com)
  - date_published: 2024-08-12T10:24:57+00:00
 
  ## Fábio Moon and Gabriel Bá's blog
- - [http://fabioandgabriel.blogspot.com](http://fabioandgabriel.blogspot.com)
+ - [https://fabioandgabriel.blogspot.com](https://fabioandgabriel.blogspot.com)
  - date_published: 2024-07-14T23:22:56+00:00
 
  ## Fabled Lands
- - [http://fabledlands.blogspot.com](http://fabledlands.blogspot.com)
+ - [https://fabledlands.blogspot.com](https://fabledlands.blogspot.com)
  - date_published: 2024-07-20T00:30:00+00:00
 
  ## Fabricator's Workbench
- - [http://fabricatorsworkbench.blogspot.com](http://fabricatorsworkbench.blogspot.com)
+ - [https://fabricatorsworkbench.blogspot.com](https://fabricatorsworkbench.blogspot.com)
  - date_published: 2024-09-14T16:11:02+00:00
 
  ## Fabric janitor = sysadmin
- - [http://fabric-janitor.blogspot.com](http://fabric-janitor.blogspot.com)
+ - [https://fabric-janitor.blogspot.com](https://fabric-janitor.blogspot.com)
  - date_published: 2024-09-16T00:28:15+00:00
 
  ## Fabrizio Pincelli
@@ -3063,7 +3082,7 @@
  - date_published: 2024-11-08T15:41:03+00:00
 
  ## The Fabulous Orcboy
- - [http://fabulousorcboy.blogspot.com](http://fabulousorcboy.blogspot.com)
+ - [https://fabulousorcboy.blogspot.com](https://fabulousorcboy.blogspot.com)
  - date_published: 2024-03-13T13:48:28+00:00
 
  ## Faccioso e Radical - Livre
@@ -3079,8 +3098,8 @@
  - date_published: 2024-10-25T22:47:17+00:00
 
  ## faces on posters too many choices
- - [http://facesonposters.blogspot.com](http://facesonposters.blogspot.com)
- - date_published: 2024-10-21T16:38:04.123205+00:00
+ - [https://facesonposters.blogspot.com](https://facesonposters.blogspot.com)
+ - date_published: 2024-10-09T01:27:39+00:00
 
  ## Nie znaleziono bloga
  - [http://facingtheborgia.blogspot.com](http://facingtheborgia.blogspot.com)
@@ -3091,19 +3110,19 @@
  - date_published: 2024-04-16T02:43:27+00:00
 
  ## factis research blog
- - [http://factisresearch.blogspot.com](http://factisresearch.blogspot.com)
+ - [https://factisresearch.blogspot.com](https://factisresearch.blogspot.com)
  - date_published: 2024-03-06T06:21:29+00:00
 
  ## Factor: a practical stack language
- - [http://factor-language.blogspot.com](http://factor-language.blogspot.com)
+ - [https://factor-language.blogspot.com](https://factor-language.blogspot.com)
  - date_published: 2024-03-08T11:54:27+00:00
 
  ## Warning Signs
- - [http://factsnotfantasy.blogspot.com](http://factsnotfantasy.blogspot.com)
+ - [https://factsnotfantasy.blogspot.com](https://factsnotfantasy.blogspot.com)
  - date_published: 2024-10-21T16:31:05.262181+00:00
 
  ## Faculty of Language
- - [http://facultyoflanguage.blogspot.com](http://facultyoflanguage.blogspot.com)
+ - [https://facultyoflanguage.blogspot.com](https://facultyoflanguage.blogspot.com)
  - date_published: 2024-07-02T09:37:00+00:00
 
  ## Fado Alexandrino
@@ -3111,11 +3130,11 @@
  - date_published: 2016-03-23T00:00:00+00:00
 
  ## Blogger
- - [http://faeit212communitynews.blogspot.com](http://faeit212communitynews.blogspot.com)
+ - [https://faeit212communitynews.blogspot.com](https://faeit212communitynews.blogspot.com)
  - date_published: 2024-06-18T23:40:39.900702+00:00
 
  ## Faeit 212: News and Rumors
- - [http://faeit.blogspot.com](http://faeit.blogspot.com)
+ - [https://faeit.blogspot.com](https://faeit.blogspot.com)
  - date_published: 2024-10-07T05:26:12+00:00
 
  ## Fae
@@ -3135,7 +3154,7 @@
  - date_published: 2024-09-02T08:41:50+00:00
 
  ## Fair Federal Funding
- - [http://fairfederalfunding.blogspot.com](http://fairfederalfunding.blogspot.com)
+ - [https://fairfederalfunding.blogspot.com](https://fairfederalfunding.blogspot.com)
  - date_published: 2024-02-19T06:03:18+00:00
 
  ## Ohio Election Fraud (Formerly "Fairness")
@@ -3155,23 +3174,23 @@
  - date_published: 2024-12-04T11:33:34+00:00
 
  ## the cynic librarian
- - [http://faithisrisk.blogspot.com](http://faithisrisk.blogspot.com)
+ - [https://faithisrisk.blogspot.com](https://faithisrisk.blogspot.com)
  - date_published: 2024-03-23T17:57:30+00:00
 
  ## faith sprouts
- - [http://faithsprouts.blogspot.com](http://faithsprouts.blogspot.com)
+ - [https://faithsprouts.blogspot.com](https://faithsprouts.blogspot.com)
  - date_published: 2024-07-07T01:20:00+00:00
 
  ## Faith and Theology
- - [http://faith-theology.blogspot.com](http://faith-theology.blogspot.com)
+ - [https://faith-theology.blogspot.com](https://faith-theology.blogspot.com)
  - date_published: 2024-06-10T07:55:09+00:00
 
  ## Fako To Faktory
- - [http://fakotofaktory.blogspot.com](http://fakotofaktory.blogspot.com)
+ - [https://fakotofaktory.blogspot.com](https://fakotofaktory.blogspot.com)
  - date_published: 2024-07-15T22:30:23+00:00
 
  ## Faktoider
- - [http://faktoider.blogspot.com](http://faktoider.blogspot.com)
+ - [https://faktoider.blogspot.com](https://faktoider.blogspot.com)
  - date_published: 2024-07-01T20:48:21+00:00
 
  ## Impulsiva
@@ -3183,7 +3202,7 @@
  - date_published: 2024-12-18T23:33:17+00:00
 
  ## Fear and Loathing in Paris
- - [http://falip.blogspot.com](http://falip.blogspot.com)
+ - [https://falip.blogspot.com](https://falip.blogspot.com)
  - date_published: 2005-09-01T00:00:00+00:00
 
  ## Falkenblog
@@ -3203,7 +3222,7 @@
  - date_published: 2024-09-07T21:26:21+00:00
 
  ## Fallona Blogger Indonesia
- - [http://fallonandrosof.blogspot.com](http://fallonandrosof.blogspot.com)
+ - [https://fallonandrosof.blogspot.com](https://fallonandrosof.blogspot.com)
  - date_published: 2024-02-08T03:14:07+00:00
 
  ## Fal♀pios
@@ -3219,7 +3238,7 @@
  - date_published: 2024-10-07T05:43:42+00:00
 
  ## False Machine
- - [http://falsemachine.blogspot.com](http://falsemachine.blogspot.com)
+ - [https://falsemachine.blogspot.com](https://falsemachine.blogspot.com)
  - date_published: 2024-07-19T00:02:52+00:00
 
  ## FALSTAFF NA BRETEMA
@@ -3231,7 +3250,7 @@
  - date_published: 2024-04-28T04:41:44.409941+00:00
 
  ## Retro Gaming Life Redirect
- - [http://famicomfreak.blogspot.com](http://famicomfreak.blogspot.com)
+ - [https://famicomfreak.blogspot.com](https://famicomfreak.blogspot.com)
  - date_published: 2024-07-19T00:01:12+00:00
 
  ## Família    TRIGUEIROS
@@ -3239,11 +3258,11 @@
  - date_published: 2024-12-18T23:35:19+00:00
 
  ## Familycom Game Blog
- - [http://familycomgame.blogspot.com](http://familycomgame.blogspot.com)
+ - [https://familycomgame.blogspot.com](https://familycomgame.blogspot.com)
  - date_published: 2024-03-13T14:29:51+00:00
 
  ## Our Life By The Mediterranean
- - [http://familyinlebanon.blogspot.com](http://familyinlebanon.blogspot.com)
+ - [https://familyinlebanon.blogspot.com](https://familyinlebanon.blogspot.com)
  - date_published: 2024-07-04T06:37:43+00:00
 
  ## Family, Work, Games, and...
@@ -3255,11 +3274,11 @@
  - date_published: 2024-09-02T05:23:53+00:00
 
  ## fangrpg
- - [http://fangrpg.blogspot.com](http://fangrpg.blogspot.com)
+ - [https://fangrpg.blogspot.com](https://fangrpg.blogspot.com)
  - date_published: 2024-03-08T03:37:10+00:00
 
  ## Fanplastic Little Men
- - [http://fanplasticlittlemen.blogspot.com](http://fanplasticlittlemen.blogspot.com)
+ - [https://fanplasticlittlemen.blogspot.com](https://fanplasticlittlemen.blogspot.com)
  - date_published: 2024-10-22T21:30:21+00:00
 
  ## Fantalonia
@@ -3279,7 +3298,7 @@
  - date_published: 2024-09-07T18:28:07+00:00
 
  ## Fantastische Welten
- - [http://fantastische-welten.blogspot.com](http://fantastische-welten.blogspot.com)
+ - [https://fantastische-welten.blogspot.com](https://fantastische-welten.blogspot.com)
  - date_published: 2024-04-07T14:16:41+00:00
 
  ## Fantasy-Bestiarium
@@ -3291,7 +3310,7 @@
  - date_published: 2024-07-04T09:02:52+00:00
 
  ## BUILDING FANTASIES  ....
- - [http://fantasybuilds.blogspot.com](http://fantasybuilds.blogspot.com)
+ - [https://fantasybuilds.blogspot.com](https://fantasybuilds.blogspot.com)
  - date_published: 2024-02-19T17:07:38+00:00
 
  ## Fantasy Game Book
@@ -3303,7 +3322,7 @@
  - date_published: 2024-12-08T18:51:44+00:00
 
  ## Fantasy Ink
- - [http://fantasy-ink.blogspot.com](http://fantasy-ink.blogspot.com)
+ - [https://fantasy-ink.blogspot.com](https://fantasy-ink.blogspot.com)
  - date_published: 2024-09-14T07:41:15+00:00
 
  ## Fantasy - mini
@@ -3311,7 +3330,7 @@
  - date_published: 2024-11-26T11:47:46+00:00
 
  ## Fantasy Obscure
- - [http://fantasyobscure.blogspot.com](http://fantasyobscure.blogspot.com)
+ - [https://fantasyobscure.blogspot.com](https://fantasyobscure.blogspot.com)
  - date_published: 2024-07-04T05:51:34+00:00
 
  ## The Fantasy of Science Fiction
@@ -3327,7 +3346,7 @@
  - date_published: 2024-07-19T10:29:00+00:00
 
  ## Fan With A Laptop
- - [http://fanwithalaptop.blogspot.com](http://fanwithalaptop.blogspot.com)
+ - [https://fanwithalaptop.blogspot.com](https://fanwithalaptop.blogspot.com)
  - date_published: 2024-10-21T16:14:25.224464+00:00
 
  ## Far Away Times
@@ -3346,6 +3365,7 @@
  ## Nie znaleziono bloga
  - [https://farfallabiancaconalispezzate.blogspot.com](https://farfallabiancaconalispezzate.blogspot.com)
  - date_published: 2024-09-02T16:54:54.705153+00:00
+ - date_dead_since: 2025-01-05T03:18:35.674735+00:00
 
  ## Farfalle Libere
  - [https://farfallelibereblog.blogspot.com](https://farfallelibereblog.blogspot.com)
@@ -3360,7 +3380,7 @@
  - date_published: 2024-09-21T23:37:39+00:00
 
  ## Farmer Geddon's Miscellany
- - [http://farmergeddonsmiscellany.blogspot.com](http://farmergeddonsmiscellany.blogspot.com)
+ - [https://farmergeddonsmiscellany.blogspot.com](https://farmergeddonsmiscellany.blogspot.com)
  - date_published: 2024-10-08T01:37:06+00:00
 
  ## Farmers Letters
@@ -3380,7 +3400,7 @@
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## Farseer Fail
- - [http://farseerfail.blogspot.com](http://farseerfail.blogspot.com)
+ - [https://farseerfail.blogspot.com](https://farseerfail.blogspot.com)
  - date_published: 2024-08-28T23:48:41+00:00
 
  ## Farsight Blogger
@@ -3400,7 +3420,7 @@
  - date_published: 2024-10-24T12:12:30+00:00
 
  ## Blogger
- - [http://faslanyc.blogspot.com](http://faslanyc.blogspot.com)
+ - [https://faslanyc.blogspot.com](https://faslanyc.blogspot.com)
  - date_published: 2024-06-30T04:29:10.243387+00:00
 
  ## RealTime Data Compression
@@ -3412,7 +3432,7 @@
  - date_published: 2024-12-31T07:51:00+00:00
 
  ## Antonio Fatas on the Global Economy
- - [http://fatasmihov.blogspot.com](http://fatasmihov.blogspot.com)
+ - [https://fatasmihov.blogspot.com](https://fatasmihov.blogspot.com)
  - date_published: 2024-02-19T08:21:40+00:00
 
  ## BioArtGal
@@ -3424,7 +3444,7 @@
  - date_published: 2024-12-19T09:25:08+00:00
 
  ## The Fat Finger Werks
- - [http://fatfingerwerks.blogspot.com](http://fatfingerwerks.blogspot.com)
+ - [https://fatfingerwerks.blogspot.com](https://fatfingerwerks.blogspot.com)
  - date_published: 2024-08-27T11:20:28+00:00
 
  ## Fat guy and a paint brush
@@ -3436,15 +3456,15 @@
  - date_published: 2024-12-19T03:28:45+00:00
 
  ## Bán căn hộ chung cư giá rẻ đường Mai Chí Thọ
- - [http://fatihaamiludin.blogspot.com](http://fatihaamiludin.blogspot.com)
+ - [https://fatihaamiludin.blogspot.com](https://fatihaamiludin.blogspot.com)
  - date_published: 2024-08-28T17:35:49+00:00
 
  ## fat lazy painter
- - [http://fatlazypainter.blogspot.com](http://fatlazypainter.blogspot.com)
+ - [https://fatlazypainter.blogspot.com](https://fatlazypainter.blogspot.com)
  - date_published: 2024-09-10T12:28:33+00:00
 
  ## Fat Man on a Keyboard
- - [http://fatmanonakeyboard.blogspot.com](http://fatmanonakeyboard.blogspot.com)
+ - [https://fatmanonakeyboard.blogspot.com](https://fatmanonakeyboard.blogspot.com)
  - date_published: 2024-10-21T12:00:47.604099+00:00
 
  ## Blogger
@@ -3456,11 +3476,11 @@
  - date_published: 2024-11-01T10:39:37+00:00
 
  ## Faultline USA
- - [http://faultlineusa.blogspot.com](http://faultlineusa.blogspot.com)
+ - [https://faultlineusa.blogspot.com](https://faultlineusa.blogspot.com)
  - date_published: 2024-05-09T13:21:55+00:00
 
  ## IL MONDO DEGLI STURLI
- - [http://favoleraccontifilastroccheperbambini.blogspot.com](http://favoleraccontifilastroccheperbambini.blogspot.com)
+ - [https://favoleraccontifilastroccheperbambini.blogspot.com](https://favoleraccontifilastroccheperbambini.blogspot.com)
  - date_published: 2024-07-02T06:17:42+00:00
 
  ## Nie znaleziono bloga
@@ -3496,7 +3516,7 @@
  - date_published: 2024-09-01T09:15:37+00:00
 
  ## Solving Freecell and Other Games
- - [http://fc-solve.blogspot.com](http://fc-solve.blogspot.com)
+ - [https://fc-solve.blogspot.com](https://fc-solve.blogspot.com)
  - date_published: 2024-06-13T17:29:51+00:00
 
  ## House Rules
@@ -3508,11 +3528,11 @@
  - date_published: 2025-01-01T13:16:08.030892+00:00
 
  ## Federation & Empire 15mm Sci-Fi
- - [http://federatin-empire15mmsci-fi.blogspot.com](http://federatin-empire15mmsci-fi.blogspot.com)
+ - [https://federatin-empire15mmsci-fi.blogspot.com](https://federatin-empire15mmsci-fi.blogspot.com)
  - date_published: 2014-11-22T02:00:00+00:00
 
  ## Fedsoc
- - [http://fedsoc.blogspot.com](http://fedsoc.blogspot.com)
+ - [https://fedsoc.blogspot.com](https://fedsoc.blogspot.com)
  - date_published: 2024-03-12T22:44:40+00:00
 
  ## Fedzeppelin Art
@@ -3524,7 +3544,7 @@
  - date_published: 2024-05-06T21:03:11.990676+00:00
 
  ## Feeling Young and Being Grown
- - [http://feelingyoungandbeinggrown.blogspot.com](http://feelingyoungandbeinggrown.blogspot.com)
+ - [https://feelingyoungandbeinggrown.blogspot.com](https://feelingyoungandbeinggrown.blogspot.com)
  - date_published: 2024-02-07T06:04:20+00:00
 
  ## F  e   l   i   x        L   i   m
@@ -3532,7 +3552,7 @@
  - date_published: 2024-10-07T05:15:58+00:00
 
  ## Andrew Truong's (feer56) Blog!
- - [http://feer56.blogspot.com](http://feer56.blogspot.com)
+ - [https://feer56.blogspot.com](https://feer56.blogspot.com)
  - date_published: 2024-07-04T05:53:21+00:00
 
  ## FEERIKART'S BLOG
@@ -3564,15 +3584,15 @@
  - date_published: 2024-12-12T19:30:20.007915+00:00
 
  ## Blogger
- - [http://feministchristian.blogspot.com](http://feministchristian.blogspot.com)
+ - [https://feministchristian.blogspot.com](https://feministchristian.blogspot.com)
  - date_published: 2024-06-28T21:22:34.795472+00:00
 
  ## Knife-wielding Feminists
- - [http://feministfoodies.blogspot.com](http://feministfoodies.blogspot.com)
+ - [https://feministfoodies.blogspot.com](https://feministfoodies.blogspot.com)
  - date_published: 2006-07-25T00:00:00+00:00
 
  ## Blogger
- - [http://feministreview.blogspot.com](http://feministreview.blogspot.com)
+ - [https://feministreview.blogspot.com](https://feministreview.blogspot.com)
  - date_published: 2024-10-21T18:37:43.361177+00:00
 
  ## Nie znaleziono bloga
@@ -3592,7 +3612,7 @@
  - date_published: 2024-09-06T16:37:34+00:00
 
  ## My Fenhop
- - [http://fenhop.blogspot.com](http://fenhop.blogspot.com)
+ - [https://fenhop.blogspot.com](https://fenhop.blogspot.com)
  - date_published: 2024-03-07T06:07:30+00:00
 
  ## Nie znaleziono bloga
@@ -3608,7 +3628,7 @@
  - date_published: 2024-11-06T03:10:56+00:00
 
  ## fenway5
- - [http://fenway5.blogspot.com](http://fenway5.blogspot.com)
+ - [https://fenway5.blogspot.com](https://fenway5.blogspot.com)
  - date_published: 2024-03-08T13:31:37+00:00
 
  ## Feodalfig Blog
@@ -3636,7 +3656,7 @@
  - date_published: 2024-11-15T10:47:25+00:00
 
  ## Fernando Vicente Vanitas
- - [http://fernandovicentevanitas.blogspot.com](http://fernandovicentevanitas.blogspot.com)
+ - [https://fernandovicentevanitas.blogspot.com](https://fernandovicentevanitas.blogspot.com)
  - date_published: 2024-06-06T14:58:08+00:00
 
  ## A Fisga
@@ -3644,7 +3664,7 @@
  - date_published: 2024-12-19T16:46:33+00:00
 
  ## Ferreira de Castro
- - [http://ferreiradecastro.blogspot.com](http://ferreiradecastro.blogspot.com)
+ - [https://ferreiradecastro.blogspot.com](https://ferreiradecastro.blogspot.com)
  - date_published: 2024-07-12T09:51:15+00:00
 
  ## Nie znaleziono bloga
@@ -3664,19 +3684,19 @@
  - date_published: 2025-01-01T17:22:59.302044+00:00
 
  ## Structural insight
- - [http://fexpr.blogspot.com](http://fexpr.blogspot.com)
+ - [https://fexpr.blogspot.com](https://fexpr.blogspot.com)
  - date_published: 2024-08-01T09:10:32+00:00
 
  ## ffgeotw
- - [http://ffgeotw.blogspot.com](http://ffgeotw.blogspot.com)
+ - [https://ffgeotw.blogspot.com](https://ffgeotw.blogspot.com)
  - date_published: 2024-03-13T16:34:43+00:00
 
  ## MALthus Dire's Fighting Fantasy Page
- - [http://ffreviewermalthusd.blogspot.com](http://ffreviewermalthusd.blogspot.com)
+ - [https://ffreviewermalthusd.blogspot.com](https://ffreviewermalthusd.blogspot.com)
  - date_published: 2024-09-03T12:40:38+00:00
 
  ## Fried Green al-Qaedas
- - [http://fgaq.blogspot.com](http://fgaq.blogspot.com)
+ - [https://fgaq.blogspot.com](https://fgaq.blogspot.com)
  - date_published: 2024-05-28T07:02:21+00:00
 
  ## Nie znaleziono bloga
@@ -3712,7 +3732,7 @@
  - date_published: 2024-11-08T15:34:51+00:00
 
  ## Fido the Yak
- - [http://fidotheyak.blogspot.com](http://fidotheyak.blogspot.com)
+ - [https://fidotheyak.blogspot.com](https://fidotheyak.blogspot.com)
  - date_published: 2024-03-07T23:59:26+00:00
 
  ## Nie znaleziono bloga
@@ -3720,7 +3740,7 @@
  - date_published: 2024-12-31T08:27:10.766613+00:00
 
  ## FieldFactory
- - [http://fieldfactory.blogspot.com](http://fieldfactory.blogspot.com)
+ - [https://fieldfactory.blogspot.com](https://fieldfactory.blogspot.com)
  - date_published: 2024-03-19T04:43:09+00:00
 
  ## Field of Dandelions
@@ -3740,35 +3760,36 @@
  - date_published: 2018-11-14T00:00:00+00:00
 
  ## The Fierce Eye
- - [http://fierceeye.blogspot.com](http://fierceeye.blogspot.com)
+ - [https://fierceeye.blogspot.com](https://fierceeye.blogspot.com)
  - date_published: 2024-09-15T05:34:57+00:00
 
  ## Fife & Drum Miniatures
- - [http://fifedrumminis.blogspot.com](http://fifedrumminis.blogspot.com)
+ - [https://fifedrumminis.blogspot.com](https://fifedrumminis.blogspot.com)
  - date_published: 2024-07-13T06:06:04+00:00
 
  ## Fighting Dantasy
- - [http://fightingdantasy.blogspot.com](http://fightingdantasy.blogspot.com)
+ - [https://fightingdantasy.blogspot.com](https://fightingdantasy.blogspot.com)
  - date_published: 2024-09-02T08:33:59+00:00
 
  ## Nie znaleziono bloga
  - [http://fightingfantasist.blogspot.com](http://fightingfantasist.blogspot.com)
  - date_published: 2024-09-03T22:16:50.984091+00:00
+ - date_dead_since: 2025-01-05T03:24:57.062872+00:00
 
  ## Fighting in the Shade™
- - [http://fightingintheshade.blogspot.com](http://fightingintheshade.blogspot.com)
+ - [https://fightingintheshade.blogspot.com](https://fightingintheshade.blogspot.com)
  - date_published: 2024-04-20T05:06:42+00:00
 
  ## Fight!Suzan
- - [http://fightsuzan.blogspot.com](http://fightsuzan.blogspot.com)
+ - [https://fightsuzan.blogspot.com](https://fightsuzan.blogspot.com)
  - date_published: 2024-03-13T03:05:14+00:00
 
  ## Fighting for your Fantasy
- - [http://fightyourfantasy.blogspot.com](http://fightyourfantasy.blogspot.com)
+ - [https://fightyourfantasy.blogspot.com](https://fightyourfantasy.blogspot.com)
  - date_published: 2024-03-14T08:00:50+00:00
 
  ## La Figoblogotheque
- - [http://figoblogotheque.blogspot.com](http://figoblogotheque.blogspot.com)
+ - [https://figoblogotheque.blogspot.com](https://figoblogotheque.blogspot.com)
  - date_published: 2024-07-04T06:35:01+00:00
 
  ## FigoSteak
@@ -3784,7 +3805,7 @@
  - date_published: 2024-09-25T22:52:37+00:00
 
  ## FIGUJAOSTO
- - [http://figujaosto.blogspot.com](http://figujaosto.blogspot.com)
+ - [https://figujaosto.blogspot.com](https://figujaosto.blogspot.com)
  - date_published: 2024-10-02T13:10:07+00:00
 
  ## Campo de Batalla
@@ -3796,11 +3817,11 @@
  - date_published: 2024-12-28T10:11:37+00:00
 
  ## Galactic Hunter's Star Wars Figure of the Day with Adam Pawlus
- - [http://figureoftheday.blogspot.com](http://figureoftheday.blogspot.com)
+ - [https://figureoftheday.blogspot.com](https://figureoftheday.blogspot.com)
  - date_published: 2024-06-19T01:00:00+00:00
 
  ## The Figure Fanatic
- - [http://figurfanatikern.blogspot.com](http://figurfanatikern.blogspot.com)
+ - [https://figurfanatikern.blogspot.com](https://figurfanatikern.blogspot.com)
  - date_published: 2024-07-15T18:42:58+00:00
 
  ## Nie znaleziono bloga
@@ -3808,7 +3829,7 @@
  - date_published: 2024-12-31T06:31:38.709240+00:00
 
  ## Les Figurines du Terrier
- - [http://figurinesduterrier.blogspot.com](http://figurinesduterrier.blogspot.com)
+ - [https://figurinesduterrier.blogspot.com](https://figurinesduterrier.blogspot.com)
  - date_published: 2024-08-28T22:37:31+00:00
 
  ## Blogger
@@ -3824,7 +3845,7 @@
  - date_published: 2024-12-31T08:16:02.283216+00:00
 
  ## Figz Club
- - [http://figzclub.blogspot.com](http://figzclub.blogspot.com)
+ - [https://figzclub.blogspot.com](https://figzclub.blogspot.com)
  - date_published: 2024-04-28T02:38:12+00:00
 
  ## Filacteras Maravilhosas
@@ -3844,11 +3865,11 @@
  - date_published: 2011-12-02T15:01:00+00:00
 
  ## filmscreed
- - [http://filmscreed.blogspot.com](http://filmscreed.blogspot.com)
- - date_published: 2024-10-21T03:58:39.438268+00:00
+ - [https://filmscreed.blogspot.com](https://filmscreed.blogspot.com)
+ - date_published: 2024-10-05T02:14:54+00:00
 
  ## filologanoga
- - [http://filologanoga.blogspot.com](http://filologanoga.blogspot.com)
+ - [https://filologanoga.blogspot.com](https://filologanoga.blogspot.com)
  - date_published: 2024-03-14T03:14:00+00:00
 
  ## Blogger
@@ -3880,11 +3901,11 @@
  - date_published: 2024-12-19T03:28:21+00:00
 
  ## Fimm McCool's
- - [http://fimmmccools.blogspot.com](http://fimmmccools.blogspot.com)
+ - [https://fimmmccools.blogspot.com](https://fimmmccools.blogspot.com)
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## Fiji Island Mermaid Press
- - [http://fimpress.blogspot.com](http://fimpress.blogspot.com)
+ - [https://fimpress.blogspot.com](https://fimpress.blogspot.com)
  - date_published: 2024-03-07T09:57:22+00:00
 
  ## Final Cut cinema
@@ -3896,7 +3917,7 @@
  - date_published: 2024-12-29T22:17:23+00:00
 
  ## (FinalGravity)
- - [http://finalgravity.blogspot.com](http://finalgravity.blogspot.com)
+ - [https://finalgravity.blogspot.com](https://finalgravity.blogspot.com)
  - date_published: 2024-10-19T04:43:04.332474+00:00
 
  ## THE FINANCIAL ARMAGEDDON BLOG
@@ -3904,11 +3925,11 @@
  - date_published: 2024-12-28T13:13:44+00:00
 
  ## Monkey in the Middle
- - [http://findalismonkeyinthemiddle.blogspot.com](http://findalismonkeyinthemiddle.blogspot.com)
+ - [https://findalismonkeyinthemiddle.blogspot.com](https://findalismonkeyinthemiddle.blogspot.com)
  - date_published: 2024-03-21T20:38:50+00:00
 
  ## FinderMaker
- - [http://findermaker.blogspot.com](http://findermaker.blogspot.com)
+ - [https://findermaker.blogspot.com](https://findermaker.blogspot.com)
  - date_published: 2024-03-14T06:28:20+00:00
 
  ## To Find Fruit
@@ -3916,15 +3937,15 @@
  - date_published: 2024-10-07T04:27:24+00:00
 
  ## The Hinton Hunter
- - [http://findthatfigure.blogspot.com](http://findthatfigure.blogspot.com)
+ - [https://findthatfigure.blogspot.com](https://findthatfigure.blogspot.com)
  - date_published: 2024-07-04T06:02:24+00:00
 
  ## Fingertips
- - [http://fingertipsmusic.blogspot.com](http://fingertipsmusic.blogspot.com)
- - date_published: 2024-10-21T05:01:31.506314+00:00
+ - [https://fingertipsmusic.blogspot.com](https://fingertipsmusic.blogspot.com)
+ - date_published: 2024-09-08T13:15:51+00:00
 
  ## FINiatures
- - [http://finiatures.blogspot.com](http://finiatures.blogspot.com)
+ - [https://finiatures.blogspot.com](https://finiatures.blogspot.com)
  - date_published: 2024-03-13T17:22:41+00:00
 
  ## Finnish Nightmares
@@ -3936,7 +3957,7 @@
  - date_published: 2024-11-06T02:49:30+00:00
 
  ## Blogtrotter
- - [http://fionnchu.blogspot.com](http://fionnchu.blogspot.com)
+ - [https://fionnchu.blogspot.com](https://fionnchu.blogspot.com)
  - date_published: 2024-06-17T12:25:23+00:00
 
  ## fiore-crea
@@ -3948,7 +3969,7 @@
  - date_published: 2024-12-20T10:33:06.703208+00:00
 
  ## Fire and Sword!
- - [http://fireandsword.blogspot.com](http://fireandsword.blogspot.com)
+ - [https://fireandsword.blogspot.com](https://fireandsword.blogspot.com)
  - date_published: 2024-03-23T17:44:17+00:00
 
  ## Fire Apps
@@ -3956,7 +3977,7 @@
  - date_published: 2024-10-08T18:59:38+00:00
 
  ## Blogger
- - [http://firebaseamerica.blogspot.com](http://firebaseamerica.blogspot.com)
+ - [https://firebaseamerica.blogspot.com](https://firebaseamerica.blogspot.com)
  - date_published: 2024-06-27T09:25:27.032066+00:00
 
  ## Nie znaleziono bloga
@@ -3968,11 +3989,11 @@
  - date_published: 2024-10-02T05:21:49+00:00
 
  ## Fire Broadside!
- - [http://firebroadside.blogspot.com](http://firebroadside.blogspot.com)
+ - [https://firebroadside.blogspot.com](https://firebroadside.blogspot.com)
  - date_published: 2024-10-09T02:00:03+00:00
 
  ## fireChangeEvent()
- - [http://fire-change-event.blogspot.com](http://fire-change-event.blogspot.com)
+ - [https://fire-change-event.blogspot.com](https://fire-change-event.blogspot.com)
  - date_published: 2024-03-21T20:02:06+00:00
 
  ## Firefly The Travel Guy
@@ -3986,20 +4007,4 @@
  ## Fire on the Mountain
  - [http://firemtn.blogspot.com](http://firemtn.blogspot.com)
  - date_published: 2024-12-30T09:46:58+00:00
-
- ## Fires of Advent
- - [http://firesofadvent.blogspot.com](http://firesofadvent.blogspot.com)
- - date_published: 2024-10-07T04:56:08+00:00
-
- ## rooted
- - [http://firmlyrooted.blogspot.com](http://firmlyrooted.blogspot.com)
- - date_published: 2024-12-12T19:02:29+00:00
-
- ## First Known When Lost
- - [http://firstknownwhenlost.blogspot.com](http://firstknownwhenlost.blogspot.com)
- - date_published: 2024-06-27T02:09:01+00:00
-
- ## First Point of Aries
- - [http://firstpointofaries.blogspot.com](http://firstpointofaries.blogspot.com)
- - date_published: 2024-03-15T08:33:13+00:00
 

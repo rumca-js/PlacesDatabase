@@ -1,3 +1,11 @@
+ ## Home Page | UBC Physics & Astronomy Outreach
+ - [https://outreach.phas.ubc.ca](https://outreach.phas.ubc.ca)
+ - date_published: 2024-05-04T15:29:11.080262+00:00
+
+ ## Home Page | Palliative Care
+ - [https://palliativecare.med.ubc.ca](https://palliativecare.med.ubc.ca)
+ - date_published: 2024-05-06T22:58:05.850729+00:00
+
  ## People - Department of Electrical and Computer Engineering
  - [https://people.ece.ubc.ca](https://people.ece.ubc.ca)
  - date_published: 2023-12-13T16:52:05.782654+00:00
@@ -4006,12 +4014,4 @@
  ## ashur.cab/rera
  - [https://ashur.cab](https://ashur.cab)
  - date_published: 2024-07-08T22:19:26.725704+00:00
-
- ## Jack.cab
- - [https://jack.cab](https://jack.cab)
- - date_published: 2024-10-29T09:28:04.864175+00:00
-
- ## [mdk] arcade rom and information repository
- - [https://mdk.cab](https://mdk.cab)
- - date_published: 2024-07-11T16:21:07.819129+00:00
 

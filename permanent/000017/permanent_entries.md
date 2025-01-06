@@ -1,3 +1,11 @@
+ ## Global Markets - The bank for a changing world
+ - [https://globalmarkets.cib.bnpparibas](https://globalmarkets.cib.bnpparibas)
+ - date_published: 2021-03-23T12:19:17+00:00
+
+ ## BNP Paribas Securities Services - The bank for a changing world
+ - [https://securities.cib.bnpparibas](https://securities.cib.bnpparibas)
+ - date_published: 2021-03-18T18:22:17+00:00
+
  ## Banque BNP Paribas | La banque d'un monde qui change
  - [https://group.bnpparibas](https://group.bnpparibas)
  - date_published: 2024-05-04T15:44:27.044354+00:00
@@ -4003,12 +4011,4 @@ Educação
  ## Mix Vale - Portal de Notícias do Brasil
  - [https://www.mixvale.com.br](https://www.mixvale.com.br)
  - date_published: 2024-10-16T03:14:04+00:00
-
- ## Moda20 - Tendências de moda, beleza e estilo, com foco inclusivo em Plus Size. - Moda 20
- - [https://moda20.com.br](https://moda20.com.br)
- - date_published: 2024-12-26T14:14:17+00:00
-
- ## Revista Educatrix – Editora Moderna – Estamos em constante transformação. Novas metodologias e tecnologias estão cada vez mais presentes no dia a dia. É fundamental explorar outras possibilidades em sala de aula, reforçando o papel transformador da escola para expandir as perspectivas e acompanhar as realizações dos alunos. Esse é o propósito da Educatrix!
- - [https://educatrix.moderna.com.br](https://educatrix.moderna.com.br)
- - date_published: 2024-09-12T22:39:56.020121+00:00
 

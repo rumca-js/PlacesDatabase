@@ -1,3 +1,83 @@
+ ## DesignByHumans
+ - [https://designbyhumans.tumblr.com](https://designbyhumans.tumblr.com)
+ - date_published: 2015-08-17T00:00:00+00:00
+
+ ## Jose Lopez / Desoluz inc.
+ - [https://desoluz.tumblr.com](https://desoluz.tumblr.com)
+ - date_published: 2024-12-31T06:15:08.294649+00:00
+
+ ## Nuclear Lemons
+ - [https://despazito.tumblr.com](https://despazito.tumblr.com)
+ - date_published: 2024-06-27T03:28:07.960329+00:00
+
+ ## Destination: Toast!
+ - [https://destinationtoast.tumblr.com](https://destinationtoast.tumblr.com)
+ - date_published: 2024-07-02T08:58:49.319572+00:00
+
+ ## *destiny-sans-er
+ - [http://destiny-smasher.tumblr.com](http://destiny-smasher.tumblr.com)
+ - date_published: 2024-10-25T10:51:14.912873+00:00
+
+ ## Detenpyla gallery
+ - [https://detenpyla-gallery.tumblr.com](https://detenpyla-gallery.tumblr.com)
+ - date_published: 2011-03-05T00:00:00+00:00
+
+ ## Tumblr
+ - [https://deusex.tumblr.com](https://deusex.tumblr.com)
+ - date_published: 2024-06-19T01:15:15.731696+00:00
+
+ ## develop-your-oc!
+ - [https://develop-your-oc.tumblr.com](https://develop-your-oc.tumblr.com)
+ - date_published: 2024-06-18T18:04:21.526357+00:00
+
+ ## The Heavy Cloud
+ - [http://devereauxs-doodles.tumblr.com](http://devereauxs-doodles.tumblr.com)
+ - date_published: 2024-10-26T12:51:48.025326+00:00
+
+ ## DeviantArt
+ - [https://deviantart.tumblr.com](https://deviantart.tumblr.com)
+ - date_published: 2024-12-13T10:59:06.089703+00:00
+
+ ## Devichil Info
+ - [https://devichilinfo.tumblr.com](https://devichilinfo.tumblr.com)
+ - date_published: 2024-09-06T12:43:31.469999+00:00
+
+ ## sup
+ - [https://devilcroc.tumblr.com](https://devilcroc.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Mark's Scrapbook of Oddities & Treasures.
+ - [http://devilduck.tumblr.com](http://devilduck.tumblr.com)
+ - date_published: 2024-07-09T20:27:51.647324+00:00
+
+ ## The Glorious Turtle
+ - [https://devotedlygloriousturtle.tumblr.com](https://devotedlygloriousturtle.tumblr.com)
+ - date_published: 2024-06-26T10:12:04.239653+00:00
+
+ ## Devoted to Diversity in Art
+ - [http://devotedtodiversityinart.tumblr.com](http://devotedtodiversityinart.tumblr.com)
+ - date_published: 2024-12-19T14:42:16.360741+00:00
+
+ ## dev(elopers) may cry
+ - [https://devsmaycry.tumblr.com](https://devsmaycry.tumblr.com)
+ - date_published: 2024-12-13T10:27:45.551584+00:00
+
+ ## Dex
+ - [https://dextheartist.tumblr.com](https://dextheartist.tumblr.com)
+ - date_published: 2024-12-13T09:47:27.486994+00:00
+
+ ## DFTBA Records
+ - [https://dftbarecords.tumblr.com](https://dftbarecords.tumblr.com)
+ - date_published: 2024-05-09T05:49:43.457438+00:00
+
+ ## I am that is
+ - [https://dgalerab.tumblr.com](https://dgalerab.tumblr.com)
+ - date_published: 2024-09-16T06:43:32.415780+00:00
+
+ ## Tumblr
+ - [https://dhampirslovecomrades.tumblr.com](https://dhampirslovecomrades.tumblr.com)
+ - date_published: 2024-10-16T01:31:22.873364+00:00
+
  ## Loud Welsh Introvert
  - [https://dheanasaur.tumblr.com](https://dheanasaur.tumblr.com)
  - date_published: 2024-06-30T07:39:31.612085+00:00
@@ -3490,7 +3570,7 @@ is being bad
  - date_published: 2024-12-25T10:33:43.729058+00:00
 
  ## Into The Woods Movie
- - [http://intothewoodsmovie.tumblr.com](http://intothewoodsmovie.tumblr.com)
+ - [https://intothewoodsmovie.tumblr.com](https://intothewoodsmovie.tumblr.com)
  - date_published: 2024-09-20T20:14:31.078440+00:00
 
  ## Tumblr
@@ -3514,7 +3594,7 @@ is being bad
  - date_published: 2024-12-13T10:18:06.547843+00:00
 
  ## I Pretended
- - [http://ipretended.tumblr.com](http://ipretended.tumblr.com)
+ - [https://ipretended.tumblr.com](https://ipretended.tumblr.com)
  - date_published: 2024-09-04T08:12:53.233692+00:00
 
  ## I Quant NY
@@ -3566,11 +3646,11 @@ is being bad
  - date_published: 2024-05-21T00:00:00+00:00
 
  ## MYTHODEA
- - [http://iseo58.tumblr.com](http://iseo58.tumblr.com)
+ - [https://iseo58.tumblr.com](https://iseo58.tumblr.com)
  - date_published: 2024-10-25T21:50:45.980709+00:00
 
  ## isomorphismes
- - [http://isomorphismes.tumblr.com](http://isomorphismes.tumblr.com)
+ - [https://isomorphismes.tumblr.com](https://isomorphismes.tumblr.com)
  - date_published: 2024-10-21T13:55:04.625831+00:00
 
  ## Isvoc's Ramblings
@@ -3578,11 +3658,11 @@ is being bad
  - date_published: 2024-12-14T23:42:11.627601+00:00
 
  ## It Gets Better
- - [https://itgetsbetterproject.tumblr.com](https://itgetsbetterproject.tumblr.com)
+ - [http://itgetsbetterproject.tumblr.com](http://itgetsbetterproject.tumblr.com)
  - date_published: 2024-07-02T08:57:27.448914+00:00
 
  ## I Thought I Had a Virus!
- - [http://ithoughtihadavirus.tumblr.com](http://ithoughtihadavirus.tumblr.com)
+ - [https://ithoughtihadavirus.tumblr.com](https://ithoughtihadavirus.tumblr.com)
  - date_published: 2024-09-04T08:12:51.888419+00:00
 
  ## Why, hello there!
@@ -3592,6 +3672,7 @@ is being bad
  ## Tumblr
  - [https://i-tried-and-i-loose.tumblr.com](https://i-tried-and-i-loose.tumblr.com)
  - date_published: 2024-06-27T04:32:21.359678+00:00
+ - date_dead_since: 2025-01-05T13:29:49.545288+00:00
 
  ## Can I have a waffle?
  - [https://its3amalready.tumblr.com](https://its3amalready.tumblr.com)
@@ -3638,7 +3719,7 @@ is being bad
  - date_published: 2023-10-25T17:49:18.370020+00:00
 
  ## IF WE DON'T, REMEMBER ME.
- - [http://iwdrm.tumblr.com](http://iwdrm.tumblr.com)
+ - [https://iwdrm.tumblr.com](https://iwdrm.tumblr.com)
  - date_published: 2024-08-18T08:35:13.586128+00:00
 
  ## Pseudonym #9
@@ -3646,7 +3727,7 @@ is being bad
  - date_published: 2024-06-27T03:21:47.476480+00:00
 
  ## hauptbahnhof
- - [http://iwriterudewords.tumblr.com](http://iwriterudewords.tumblr.com)
+ - [https://iwriterudewords.tumblr.com](https://iwriterudewords.tumblr.com)
  - date_published: 2024-06-19T09:15:21.686067+00:00
 
  ## Tumblr
@@ -3670,7 +3751,7 @@ is being bad
  - date_published: 2024-06-27T03:36:25+00:00
 
  ## j0ules
- - [http://j0ules.tumblr.com](http://j0ules.tumblr.com)
+ - [https://j0ules.tumblr.com](https://j0ules.tumblr.com)
  - date_published: 2023-01-07T00:00:00+00:00
 
  ## Hi-j4cked
@@ -3710,7 +3791,7 @@ is being bad
  - date_published: 2025-01-01T06:09:32.391766+00:00
 
  ## Maybe-Mathematical Musings
- - [http://jadagul.tumblr.com](http://jadagul.tumblr.com)
+ - [https://jadagul.tumblr.com](https://jadagul.tumblr.com)
  - date_published: 2024-06-30T08:23:46.820156+00:00
 
  ## you may test that assumption at your convenience
@@ -3734,11 +3815,11 @@ is being bad
  - date_published: 2024-10-31T18:09:26.021091+00:00
 
  ## Visual works made by me, James Lloyd!
- - [http://jameslloydportfolio.tumblr.com](http://jameslloydportfolio.tumblr.com)
+ - [https://jameslloydportfolio.tumblr.com](https://jameslloydportfolio.tumblr.com)
  - date_published: 2024-06-20T17:45:10.177778+00:00
 
  ## Tumblr
- - [http://jameslloydprojects.tumblr.com](http://jameslloydprojects.tumblr.com)
+ - [https://jameslloydprojects.tumblr.com](https://jameslloydprojects.tumblr.com)
  - date_published: 2024-06-20T17:45:00.622761+00:00
 
  ## Jaemmym
@@ -3758,7 +3839,7 @@ is being bad
  - date_published: 2024-06-27T04:16:47.347215+00:00
 
  ## Janus Films
- - [http://janusfilms.tumblr.com](http://janusfilms.tumblr.com)
+ - [https://janusfilms.tumblr.com](https://janusfilms.tumblr.com)
  - date_published: 2014-12-12T00:00:00+00:00
 
  ## Japan Trends
@@ -3770,11 +3851,11 @@ is being bad
  - date_published: 2024-12-13T10:30:30.560459+00:00
 
  ## All About Dat Jasp
- - [http://jasper-appreciation.tumblr.com](http://jasper-appreciation.tumblr.com)
+ - [https://jasper-appreciation.tumblr.com](https://jasper-appreciation.tumblr.com)
  - date_published: 2024-06-27T03:33:52.945515+00:00
 
  ## Jasper Van der Jeugt
- - [http://jaspervdj.tumblr.com](http://jaspervdj.tumblr.com)
+ - [https://jaspervdj.tumblr.com](https://jaspervdj.tumblr.com)
  - date_published: 2024-08-07T13:41:22.490258+00:00
 
  ## Javabean Dreams
@@ -3782,7 +3863,7 @@ is being bad
  - date_published: 2024-06-18T17:56:41.337538+00:00
 
  ## javascript.reverse()
- - [http://javascript-reverse.tumblr.com](http://javascript-reverse.tumblr.com)
+ - [https://javascript-reverse.tumblr.com](https://javascript-reverse.tumblr.com)
  - date_published: 2024-07-07T10:29:01.228050+00:00
 
  ## Javier Soto
@@ -3802,15 +3883,15 @@ is being bad
  - date_published: 2024-12-13T09:46:44.522629+00:00
 
  ## Ockham's Toothbrush
- - [http://jbaxteranimator.tumblr.com](http://jbaxteranimator.tumblr.com)
+ - [https://jbaxteranimator.tumblr.com](https://jbaxteranimator.tumblr.com)
  - date_published: 2024-07-12T22:06:04.023157+00:00
 
  ## JASON CAFFOE
- - [http://jcaffoe.tumblr.com](http://jcaffoe.tumblr.com)
+ - [https://jcaffoe.tumblr.com](https://jcaffoe.tumblr.com)
  - date_published: 2015-08-17T00:00:00+00:00
 
  ## Jedi Mind Tricks - Vinnie Paz x Stoupe x Jus Allah
- - [http://jedi-mind-tricks-official-blog.tumblr.com](http://jedi-mind-tricks-official-blog.tumblr.com)
+ - [https://jedi-mind-tricks-official-blog.tumblr.com](https://jedi-mind-tricks-official-blog.tumblr.com)
  - date_published: 2024-07-19T22:16:47.946298+00:00
 
  ## JelloApocalypse - Voice Acting, Art, and Videos
@@ -3846,11 +3927,11 @@ is being bad
  - date_published: 2024-06-26T10:10:22.943935+00:00
 
  ## Tumblr
- - [http://jessecmckeown.tumblr.com](http://jessecmckeown.tumblr.com)
+ - [https://jessecmckeown.tumblr.com](https://jessecmckeown.tumblr.com)
  - date_published: 2024-06-30T08:23:51.422342+00:00
 
  ## Jess Fink
- - [http://jessfink.tumblr.com](http://jessfink.tumblr.com)
+ - [https://jessfink.tumblr.com](https://jessfink.tumblr.com)
  - date_published: 2024-07-14T10:46:22.839487+00:00
 
  ## saint jimmy (@jesterbots)
@@ -3870,7 +3951,7 @@ is being bad
  - date_published: 2024-08-18T00:00:00+00:00
 
  ## jillian.kaye
- - [http://jilliankayeart.tumblr.com](http://jilliankayeart.tumblr.com)
+ - [https://jilliankayeart.tumblr.com](https://jilliankayeart.tumblr.com)
  - date_published: 2024-08-19T21:04:34.382106+00:00
 
  ## trekkie side blog
@@ -3880,6 +3961,7 @@ is being bad
  ## Jimmy Dipthong’s Sweaty Longposts
  - [https://jimmy-dipthong.tumblr.com](https://jimmy-dipthong.tumblr.com)
  - date_published: 2024-07-02T08:57:43.201705+00:00
+ - date_dead_since: 2025-01-05T13:37:50.518009+00:00
 
  ## What Works on Wall Street
  - [https://jimoshaughnessy.tumblr.com](https://jimoshaughnessy.tumblr.com)
@@ -3890,7 +3972,7 @@ is being bad
  - date_published: 2024-12-13T11:32:43.724838+00:00
 
  ## 7 Days to Die Blog
- - [http://joelhuenink.tumblr.com](http://joelhuenink.tumblr.com)
+ - [https://joelhuenink.tumblr.com](https://joelhuenink.tumblr.com)
  - date_published: 2024-10-25T10:50:55.026678+00:00
 
  ## Well Who knows
@@ -3920,84 +4002,4 @@ is being bad
  ## When you gaze long into an abyss the abyss also gazes into you.
  - [https://josefstaedterstrasse.tumblr.com](https://josefstaedterstrasse.tumblr.com)
  - date_published: 2024-05-11T07:10:59.246070+00:00
-
- ## Four Eyes
- - [http://joshneufeld.tumblr.com](http://joshneufeld.tumblr.com)
- - date_published: 2019-05-14T00:00:00+00:00
-
- ## oprah was here
- - [https://joshpeck.tumblr.com](https://joshpeck.tumblr.com)
- - date_published: 2024-12-13T18:20:01.022284+00:00
-
- ## Tumblr
- - [https://journeytomonkiekid.tumblr.com](https://journeytomonkiekid.tumblr.com)
- - date_published: 2024-12-13T11:52:43.579766+00:00
-
- ## Tumblr
- - [https://joyousgard.tumblr.com](https://joyousgard.tumblr.com)
- - date_published: 2024-12-13T09:32:36.411236+00:00
-
- ## Tumblr
- - [https://jozehenrique.tumblr.com](https://jozehenrique.tumblr.com)
- - date_published: 2024-06-20T22:32:21.262684+00:00
-
- ## jp koning portfolio
- - [https://jpkoning.tumblr.com](https://jpkoning.tumblr.com)
- - date_published: 2024-08-19T16:00:08.713556+00:00
-
- ## JPNT17
- - [https://jpnt17.tumblr.com](https://jpnt17.tumblr.com)
- - date_published: 2024-12-13T09:08:47.981233+00:00
-
- ## a page of tumbling madness
- - [https://jrheard.tumblr.com](https://jrheard.tumblr.com)
- - date_published: 2024-12-25T10:24:53.041665+00:00
-
- ## Nature Boy
- - [https://j-t-cano.tumblr.com](https://j-t-cano.tumblr.com)
- - date_published: 2024-04-30T07:48:08.527834+00:00
-
- ## Tumblr
- - [http://jubileethemes.tumblr.com](http://jubileethemes.tumblr.com)
- - date_published: 2024-10-28T23:11:50.216362+00:00
-
- ## not a judge, not Judy, but a secret third thing
- - [https://judgejudyofficial.tumblr.com](https://judgejudyofficial.tumblr.com)
- - date_published: 2024-12-13T10:46:24.002358+00:00
-
- ## Judge Starling
- - [http://judgestarling.tumblr.com](http://judgestarling.tumblr.com)
- - date_published: 2024-10-19T05:10:39.425016+00:00
-
- ## Juicy Beast Studio
- - [http://juicybeaststudio.tumblr.com](http://juicybeaststudio.tumblr.com)
- - date_published: 2024-08-19T08:07:51.345356+00:00
-
- ## I'm so synonym
- - [https://juicydangler.tumblr.com](https://juicydangler.tumblr.com)
- - date_published: 2024-12-13T10:25:04.481467+00:00
-
- ## you're going to be amazing
- - [https://jumpboy-rembrandt.tumblr.com](https://jumpboy-rembrandt.tumblr.com)
- - date_published: 2024-06-27T04:50:02.944557+00:00
-
- ## tornado apologist
- - [https://jumpingjacktrash.tumblr.com](https://jumpingjacktrash.tumblr.com)
- - date_published: 2024-10-16T01:31:14.764363+00:00
-
- ## Jumy-M
- - [http://jumy-m.tumblr.com](http://jumy-m.tumblr.com)
- - date_published: 2024-12-13T11:03:16.786311+00:00
-
- ## Bung Blog
- - [https://juney-blues.tumblr.com](https://juney-blues.tumblr.com)
- - date_published: 2024-12-13T09:19:34.914492+00:00
-
- ## Cause you so easy, and you put me first.
- - [https://junjungsunwoo.tumblr.com](https://junjungsunwoo.tumblr.com)
- - date_published: 2024-12-13T11:19:43.426994+00:00
-
- ## Just a little deer
- - [https://justalittledeer.tumblr.com](https://justalittledeer.tumblr.com)
- - date_published: 2024-12-13T10:59:39.783684+00:00
 

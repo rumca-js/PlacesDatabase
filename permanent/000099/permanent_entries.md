@@ -1,3 +1,20 @@
+ ## صدای امریکا دری
+ - [https://www.darivoa.com](https://www.darivoa.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## - Smartphones as a business tools
+ - [https://blog.darkaa.com](https://blog.darkaa.com)
+ - date_published: 2023-12-27T19:46:16.591470+00:00
+
+ ## Darkaa Bots - AI-powered chatbots available on Whatsapp
+          and Telegram
+ - [https://bots.darkaa.com](https://bots.darkaa.com)
+ - date_published: 2024-05-01T04:01:55.086298+00:00
+
+ ## Darkaa - Smartphone-based business process tracing platform
+ - [https://darkaa.com](https://darkaa.com)
+ - date_published: 2024-04-26T03:34:48+00:00
+
  ## Dark Alex ~ PSP Custom Firmware Downgrader Developer
  - [http://www.darkalex.com](http://www.darkalex.com)
  - date_published: 2023-07-19T17:03:24+00:00
@@ -4037,20 +4054,4 @@
  ## Domain-Driven Design Europe
  - [https://2016.dddeurope.com](https://2016.dddeurope.com)
  - date_published: 2021-03-20T22:26:50+00:00
-
- ## Domain-Driven Design Europe 2017
- - [https://2017.dddeurope.com](https://2017.dddeurope.com)
- - date_published: 2021-03-21T10:06:04+00:00
-
- ## Domain-Driven Design Europe 2018
- - [https://2018.dddeurope.com](https://2018.dddeurope.com)
- - date_published: 2021-09-18T12:48:30+00:00
-
- ## Domain-Driven Design Europe 2019
- - [https://2019.dddeurope.com](https://2019.dddeurope.com)
- - date_published: 2021-09-18T13:38:11+00:00
-
- ## Domain-Driven Design Europe 2020
- - [https://2020.dddeurope.com](https://2020.dddeurope.com)
- - date_published: 2021-09-18T15:59:42+00:00
 

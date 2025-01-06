@@ -1,3 +1,103 @@
+ ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://cs-sop.org](https://cs-sop.org)
+ - date_published: 2024-07-13T02:02:55+00:00
+
+ ## Princeton CS Status
+ - [https://www.csstaff.org](https://www.csstaff.org)
+ - date_published: 2024-07-01T17:16:05.993529+00:00
+
+ ## Resume Builder
+ - [https://cssteap.org](https://cssteap.org)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## CSStipendRankings: CS PhD Stipend Rankings
+ - [https://csstipendrankings.org](https://csstipendrankings.org)
+ - date_published: 2024-07-26T05:22:04+00:00
+
+ ## CssUserAgent (cssua.js)
+ - [https://cssuseragent.org](https://cssuseragent.org)
+ - date_published: 2015-10-01T05:11:38+00:00
+
+ ## CSS Working Group Editor Drafts
+ - [https://drafts.csswg.org](https://drafts.csswg.org)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## CSS Working Group Wiki    [CSS Working Group Wiki]
+ - [https://social.csswg.org](https://social.csswg.org)
+ - date_published: 2024-07-18T05:35:34.811599+00:00
+
+ ## CSS Working Group Wiki    [CSS Working Group Wiki]
+ - [https://wiki.csswg.org](https://wiki.csswg.org)
+ - date_published: 2023-11-21T15:09:54.779186+00:00
+
+ ## Transforming Adjustments
+ - [http://www.cs-tcse.org](http://www.cs-tcse.org)
+ - date_published: 2024-12-21T12:06:22.486786+00:00
+
+ ## Computer Science Teachers Association Connect, Grow, & Share With CS Teachers-
+ - [https://www.csteachers.org](https://www.csteachers.org)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Computer Science Teaching Tips | Computer Science Teaching Tips
+ - [https://csteachingtips.org](https://csteachingtips.org)
+ - date_published: 2024-05-07T14:57:02.410913+00:00
+
+ ## Theoretical Computer Science Jobs
+ - [https://cstheory-jobs.org](https://cstheory-jobs.org)
+ - date_published: 2024-06-30T10:00:04+00:00
+
+ ## CSU-AAUP | Faculty Union for the CT Universities
+ - [https://www.csuaaup.org](https://www.csuaaup.org)
+ - date_published: 2024-07-15T11:31:43.274860+00:00
+
+ ## Center for Public History + Digital Humanities at Cleveland State University
+ - [https://csudigitalhumanities.org](https://csudigitalhumanities.org)
+ - date_published: 2024-08-10T23:59:37.812163+00:00
+
+ ## CSU Spur | Now open!
+ - [https://csuspur.org](https://csuspur.org)
+ - date_published: 2024-08-11T10:42:33.978894+00:00
+
+ ## CSU STRATA
+ - [https://csustrata.org](https://csustrata.org)
+ - date_published: 2024-07-22T06:09:14.100835+00:00
+
+ ## Council on Social Work Education
+ - [https://www.cswe.org](https://www.cswe.org)
+ - date_published: 2024-10-14T23:35:28.205418+00:00
+
+ ## Home
+ - [https://www.cta.org](https://www.cta.org)
+ - date_published: 2024-07-09T16:47:03.820266+00:00
+
+ ## ctamission.com
+ - [http://www.ctamission.org](http://www.ctamission.org)
+ - date_published: 2024-07-08T12:19:56.781027+00:00
+
+ ## CTAN: Comprehensive TeX Archive Network
+ - [https://ctan.org](https://ctan.org)
+ - date_published: 2023-10-25T21:11:42.198733+00:00
+
+ ## The CTAN archive
+ - [http://tug.ctan.org](http://tug.ctan.org)
+ - date_published: 2024-07-10T10:08:56.455689+00:00
+
+ ## CTBA’s Budget Blog
+ - [https://budgetblog.ctbaonline.org](https://budgetblog.ctbaonline.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Homepage | CTBTO
+ - [https://www.ctbto.org](https://www.ctbto.org)
+ - date_published: 2024-07-12T08:40:07.242865+00:00
+
+ ## Regional Chapters
+ - [https://global.ctbuh.org](https://global.ctbuh.org)
+ - date_published: 2024-01-24T20:55:23.515561+00:00
+
+ ## The Connecticut Academy of Science and Engineering
+ - [https://ctcase.org](https://ctcase.org)
+ - date_published: 2024-10-19T04:02:09.518887+00:00
+
  ## The Counter Trafficking Data Collaborative | CTDC
  - [https://www.ctdatacollaborative.org](https://www.ctdatacollaborative.org)
  - date_published: 2024-07-29T14:00:46+00:00
@@ -3946,104 +4046,4 @@
  ## Diaspora Blog
  - [https://b.diasp.org](https://b.diasp.org)
  - date_published: 2024-07-12T21:32:26+00:00
-
- ## diaspora social network
- - [https://diasp.org](https://diasp.org)
- - date_published: 2024-05-10T06:28:11.494423+00:00
-
- ## Submit a Ticket - Diasporg Support
- - [https://support.diasp.org](https://support.diasp.org)
- - date_published: 2024-07-12T22:10:30.987620+00:00
-
- ## The diaspora* Project
- - [https://diasporafoundation.org](https://diasporafoundation.org)
- - date_published: 2024-06-19T22:13:34.553315+00:00
-
- ## diaspora* Discourse
- - [https://discourse.diasporafoundation.org](https://discourse.diasporafoundation.org)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Share to diaspora*
- - [https://share.diasporafoundation.org](https://share.diasporafoundation.org)
- - date_published: 2022-04-18T17:18:42+00:00
-
- ## diaspora-fr*
- - [https://diaspora-fr.org](https://diaspora-fr.org)
- - date_published: 2024-07-10T06:24:47.091392+00:00
-
- ## Diastema editrice Studi e ricerche
- - [https://diastemastudiericerche.org](https://diastemastudiericerche.org)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Homepage - The Dibble Institute
- - [https://www.dibbleinstitute.org](https://www.dibbleinstitute.org)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Le Dico des Ados
- - [https://fr.dicoado.org](https://fr.dicoado.org)
- - date_published: 2024-07-12T05:17:42+00:00
-
- ## dict.org
- - [https://dict.org](https://dict.org)
- - date_published: 2024-05-24T08:08:32.893996+00:00
-
- ## Dictionnaire des francophones
- - [https://www.dictionnairedesfrancophones.org](https://www.dictionnairedesfrancophones.org)
- - date_published: 2023-07-07T20:14:15+00:00
-
- ## Welcome to Didactic Journals
- - [http://didacticjournals.org](http://didacticjournals.org)
- - date_published: 2024-10-29T16:59:51.133701+00:00
-
- ## Die Bombe
- - [https://www.diebombe.org](https://www.diebombe.org)
- - date_published: 2015-12-21T12:12:20+00:00
-
- ## DIEGO  VERA
- - [https://diegovera.org](https://diegovera.org)
- - date_published: 2023-10-25T21:14:18.082525+00:00
-
- ## Bogleheads Investing Advice and Info
- - [http://diehards.org](http://diehards.org)
- - date_published: 2024-08-18T20:41:13.478450+00:00
-
- ## GitHub - emeryberger/DieHard: DieHard: An error-resistant memory allocator for Windows, Linux, and Mac OS X
- - [http://diehard-software.org](http://diehard-software.org)
- - date_published: 2025-01-02T16:12:09.712179+00:00
-
- ## GitHub - emeryberger/DieHard: DieHard: An error-resistant memory allocator for Windows, Linux, and Mac OS X
- - [http://www.diehard-software.org](http://www.diehard-software.org)
- - date_published: 2025-01-02T16:12:05.077152+00:00
-
- ## DiEM25 - Democracy in Europe Movement 2025
- - [https://diem25.org](https://diem25.org)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Internal - For DiEM25 Members Only - DiEM25
- - [https://i.diem25.org](https://i.diem25.org)
- - date_published: 2024-07-03T03:15:35.823225+00:00
-
- ## Internal - For DiEM25 Members Only - DiEM25
- - [https://internal.diem25.org](https://internal.diem25.org)
- - date_published: 2024-07-03T03:15:36.471935+00:00
-
- ## Christliche Hilfsorganisation Samaritan’s Purse
- - [https://www.die-samariter.org](https://www.die-samariter.org)
- - date_published: 2024-12-15T19:36:51.359936+00:00
-
- ## Übersicht
- - [https://community.dieselschrauber.org](https://community.dieselschrauber.org)
- - date_published: 2024-07-16T17:48:22.428766+00:00
-
- ## HomePage - DIFFERENT BRAINS
- - [https://www.differentbrains.org](https://www.differentbrains.org)
- - date_published: 2024-12-12T16:57:48.632378+00:00
-
- ## diffoscope: in-depth comparison of files, archives, and directories
- - [https://diffoscope.org](https://diffoscope.org)
- - date_published: 2023-10-25T21:14:19.698212+00:00
-
- ## trydiffoscope: in-depth comparison of files, archives, and directories
- - [https://try.diffoscope.org](https://try.diffoscope.org)
- - date_published: 2024-08-18T19:51:55.363349+00:00
 

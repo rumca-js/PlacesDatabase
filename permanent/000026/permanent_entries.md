@@ -1,3 +1,11 @@
+ ## Page d'accueil
+ - [https://www.profelia.ch](https://www.profelia.ch)
+ - date_published: 2024-09-15T00:03:21.143537+00:00
+
+ ## Pro Helvetia - Swiss Arts Council
+ - [https://prohelvetia.ch](https://prohelvetia.ch)
+ - date_published: 2024-01-05T00:00:00+00:00
+
  ## Fachorganisation für Menschen mit Behinderungen  - Pro Infirmis
  - [https://www.proinfirmis.ch](https://www.proinfirmis.ch)
  - date_published: 2024-07-25T00:00:00+00:00
@@ -4014,12 +4022,4 @@ Fakultät | Universität Basel
  ## images's homepage
  - [https://images.ichi.city](https://images.ichi.city)
  - date_published: 2022-10-04T18:04:01+00:00
-
- ## jan Samosi
- - [https://jansamosi.ichi.city](https://jansamosi.ichi.city)
- - date_published: 2023-04-26T01:48:40+00:00
-
- ## fall out of the world, backwards into space
- - [https://jsmith.ichi.city](https://jsmith.ichi.city)
- - date_published: 2024-04-30T06:16:29.667281+00:00
 

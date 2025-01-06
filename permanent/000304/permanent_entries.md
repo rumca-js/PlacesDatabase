@@ -1,3 +1,91 @@
+ ## Home Page
+ - [http://giving.uams.edu](http://giving.uams.edu)
+ - date_published: 2024-06-20T23:29:11.831157+00:00
+
+ ## UAMS Graduate School
+ - [https://gradschool.uams.edu](https://gradschool.uams.edu)
+ - date_published: 2024-06-19T09:54:19+00:00
+
+ ## College of Health Professions
+ - [https://healthprofessions.uams.edu](https://healthprofessions.uams.edu)
+ - date_published: 2024-06-20T23:30:08.109636+00:00
+
+ ## Join Our Talent Community | UAMS Human Resources
+ - [https://jobs.uams.edu](https://jobs.uams.edu)
+ - date_published: 2024-06-20T23:30:47.405536+00:00
+
+ ## UAMS Library
+ - [http://library.uams.edu](http://library.uams.edu)
+ - date_published: 2024-06-20T23:30:18.954256+00:00
+
+ ## University of Arkansas for Medical Sciences
+ - [https://maps.uams.edu](https://maps.uams.edu)
+ - date_published: 2024-06-20T23:29:09.051126+00:00
+
+ ## UAMS College of Medicine
+ - [https://medicine.uams.edu](https://medicine.uams.edu)
+ - date_published: 2024-06-18T09:57:25+00:00
+
+ ## UAMS News
+ - [https://news.uams.edu](https://news.uams.edu)
+ - date_published: 2024-06-20T23:30:22.176485+00:00
+
+ ## UAMS Northwest Regional Campus
+ - [https://northwestcampus.uams.edu](https://northwestcampus.uams.edu)
+ - date_published: 2024-06-03T10:12:57+00:00
+
+ ## UAMS College of Nursing
+ - [https://nursing.uams.edu](https://nursing.uams.edu)
+ - date_published: 2024-05-29T08:56:19+00:00
+
+ ## UAMS Office of Academic Services
+ - [https://oas.uams.edu](https://oas.uams.edu)
+ - date_published: 2024-06-20T23:29:46.637919+00:00
+
+ ## UAMS College of Pharmacy
+ - [https://pharmacy.uams.edu](https://pharmacy.uams.edu)
+ - date_published: 2024-06-20T09:44:24+00:00
+
+ ## UAMS Fay W. Boozman College of Public Health
+ - [https://publichealth.uams.edu](https://publichealth.uams.edu)
+ - date_published: 2024-06-17T09:16:36+00:00
+
+ ## UAMS Regional Campuses
+ - [https://regionalprograms.uams.edu](https://regionalprograms.uams.edu)
+ - date_published: 2024-06-13T10:22:32+00:00
+
+ ## Office of the University Registrar
+ - [https://registrar.uams.edu](https://registrar.uams.edu)
+ - date_published: 2024-06-20T23:30:14.755977+00:00
+
+ ## UAMS Research and Innovation
+ - [https://research.uams.edu](https://research.uams.edu)
+ - date_published: 2024-06-19T09:54:19+00:00
+
+ ## Student Financial Services | UAMS Students
+ - [https://studentfinancialservices.uams.edu](https://studentfinancialservices.uams.edu)
+ - date_published: 2024-06-20T23:30:33.932895+00:00
+
+ ## Campus Life and Student Support Services | UAMS Students
+ - [https://studentlife.uams.edu](https://studentlife.uams.edu)
+ - date_published: 2024-06-20T23:30:51.014873+00:00
+
+ ## UAMS Students
+ - [https://students.uams.edu](https://students.uams.edu)
+ - date_published: 2024-06-20T09:44:24+00:00
+
+ ## Educational and Student Success Center | UAMS Students
+ - [https://studentsuccess.uams.edu](https://studentsuccess.uams.edu)
+ - date_published: 2024-06-20T23:29:02.253655+00:00
+
+ ## University of Arkansas for Medical Sciences (UAMS)
+ - [https://uams.edu](https://uams.edu)
+ - date_published: 2024-01-16T21:32:23+00:00
+
+ ## University of Arkansas for Medical Sciences (UAMS)
+ - [https://web.uams.edu](https://web.uams.edu)
+ - date_published: 2024-01-16T21:32:23+00:00
+
  ## Serving Arkansas and Beyond
  - [https://application.uark.edu](https://application.uark.edu)
  - date_published: 2024-07-08T14:52:58.962497+00:00
@@ -3938,93 +4026,5 @@
 
  ## Financial Aid | Helping Students Succeed
  - [https://financialaid.ucmerced.edu](https://financialaid.ucmerced.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Division of Management and Information
- - [https://gallo.ucmerced.edu](https://gallo.ucmerced.edu)
- - date_published: 2024-07-01T23:17:56.998444+00:00
-
- ## Graduate Division
- - [https://graduatedivision.ucmerced.edu](https://graduatedivision.ucmerced.edu)
- - date_published: 2024-05-07T20:56:27.415446+00:00
-
- ## Home | Health Services
- - [https://health.ucmerced.edu](https://health.ucmerced.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## G-RISE I-BioSTeP | Interdisciplinary Biomedical Science and Technology Program
- - [https://ibiostep.ucmerced.edu](https://ibiostep.ucmerced.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Office of Information Technology
- - [https://it.ucmerced.edu](https://it.ucmerced.edu)
- - date_published: 2024-07-01T23:17:29.991059+00:00
-
- ## Home | Staff Jobs
- - [https://jobs.ucmerced.edu](https://jobs.ucmerced.edu)
- - date_published: 2024-07-01T22:30:16+00:00
-
- ## UC Merced Library | Not what other research libraries are, what they will be.
- - [https://library.ucmerced.edu](https://library.ucmerced.edu)
- - date_published: 2024-07-01T19:38:14+00:00
-
- ## Materials and Biomaterials Science and Engineering
- - [https://mbse.ucmerced.edu](https://mbse.ucmerced.edu)
- - date_published: 2024-05-07T20:56:19.947352+00:00
-
- ## UC Merced | Premier Academic Institution in California
- - [https://mist.ucmerced.edu](https://mist.ucmerced.edu)
- - date_published: 2024-07-01T23:17:05.684504+00:00
-
- ## Welcome to UC Merced Connect | UC Merced Connect
- - [https://my.ucmerced.edu](https://my.ucmerced.edu)
- - date_published: 2024-07-01T23:11:11.919076+00:00
-
- ## School of Natural Sciences
- - [https://naturalsciences.ucmerced.edu](https://naturalsciences.ucmerced.edu)
- - date_published: 2024-07-01T21:12:30+00:00
-
- ## Home | Newsroom
- - [https://news.ucmerced.edu](https://news.ucmerced.edu)
- - date_published: 2024-07-01T21:41:05+00:00
-
- ## University of California, Merced | Off-Campus Housing Search
- - [https://och.ucmerced.edu](https://och.ucmerced.edu)
- - date_published: 2024-07-01T23:19:06.136319+00:00
-
- ## Physical Operations, Planning and Development  | We excel in Safety, Customer Service, Sustainability and Teamwork through Innovation.
- - [https://popd.ucmerced.edu](https://popd.ucmerced.edu)
- - date_published: 2024-07-01T23:17:44.171009+00:00
-
- ## UC Merced Postdoctoral Scholars
- - [https://postdoc.ucmerced.edu](https://postdoc.ucmerced.edu)
- - date_published: 2024-07-01T23:04:19+00:00
-
- ## Home | Office of the Executive Vice Chancellor and Provost
- - [https://provostevc.ucmerced.edu](https://provostevc.ucmerced.edu)
- - date_published: 2024-07-01T22:56:00+00:00
-
- ## Welcome to the Office of Research Compliance and Integrity | Research Compliance and Integrity
- - [https://rci.ucmerced.edu](https://rci.ucmerced.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Welcome to Office of Research Development | Office of Research Development
- - [https://rds.ucmerced.edu](https://rds.ucmerced.edu)
- - date_published: 2024-07-01T23:17:01.432396+00:00
-
- ## Office of the Registrar | Supporting the Academic Mission
- - [https://registrar.ucmerced.edu](https://registrar.ucmerced.edu)
- - date_published: 2024-07-01T23:11:18.492407+00:00
-
- ## Office of Research and Economic Development
- - [https://research.ucmerced.edu](https://research.ucmerced.edu)
- - date_published: 2024-07-01T22:53:38+00:00
-
- ## Home | Academic Senate
- - [https://senate.ucmerced.edu](https://senate.ucmerced.edu)
- - date_published: 2024-07-01T22:59:39+00:00
-
- ## Sponsored Projects Office
- - [https://srs.ucmerced.edu](https://srs.ucmerced.edu)
  - date_published: 2024-07-01T00:00:00+00:00
 

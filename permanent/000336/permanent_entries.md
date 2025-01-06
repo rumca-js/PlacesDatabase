@@ -1,3 +1,95 @@
+ ## ::: National Institute of Technology Raipur :::
+ - [https://nitrr.ac.in](https://nitrr.ac.in)
+ - date_published: 2024-09-11T17:47:11.176277+00:00
+
+ ## CoMSO 2024
+ - [http://comso.nits.ac.in](http://comso.nits.ac.in)
+ - date_published: 2024-08-21T05:24:07+00:00
+
+ ## Emerging Electronics And Automation || 2022
+ - [http://e2a2022.nits.ac.in](http://e2a2022.nits.ac.in)
+ - date_published: 2022-12-11T07:29:52+00:00
+
+ ## ICRABS 2022
+ - [http://icrabs.nits.ac.in](http://icrabs.nits.ac.in)
+ - date_published: 2022-09-26T09:16:42+00:00
+
+ ## MNDCS 2025
+ - [http://mndcs.nits.ac.in](http://mndcs.nits.ac.in)
+ - date_published: 2024-12-06T03:17:27+00:00
+
+ ## SIPCOV 2025
+ - [http://sipcov.nits.ac.in](http://sipcov.nits.ac.in)
+ - date_published: 2024-10-16T00:59:36+00:00
+
+ ## National Institute of Technology, Silchar
+ - [https://www.nits.ac.in](https://www.nits.ac.in)
+ - date_published: 2024-09-11T17:52:50.742009+00:00
+
+ ## NIT Sikkim | Home
+ - [https://nitsikkim.ac.in](https://nitsikkim.ac.in)
+ - date_published: 2024-09-11T17:38:43.733029+00:00
+
+ ## T&P Cell - NIT Sikkim
+ - [https://placement.nitsikkim.ac.in](https://placement.nitsikkim.ac.in)
+ - date_published: 2024-12-24T19:13:09.399583+00:00
+
+ ## NIT Srinagar
+ - [https://nitsri.ac.in](https://nitsri.ac.in)
+ - date_published: 2024-09-11T17:45:23.367351+00:00
+
+ ## NITTTR Chandigarh : एनआईटीटीटीआर चंडीगढ़
+ - [https://nitttrchd.ac.in](https://nitttrchd.ac.in)
+ - date_published: 2024-09-11T17:56:19.835495+00:00
+
+ ## NITTTR, Kolkata
+ - [http://www.nitttrkol.ac.in](http://www.nitttrkol.ac.in)
+ - date_published: 2024-09-11T17:45:04.982003+00:00
+
+ ## National Institute of Technology, Uttarakhand
+ - [https://nituk.ac.in](https://nituk.ac.in)
+ - date_published: 2024-09-11T17:38:37.289888+00:00
+
+ ## National Institute of Technology, Uttarakhand
+ - [https://portfolios.nituk.ac.in](https://portfolios.nituk.ac.in)
+ - date_published: 2024-12-24T19:21:31.106376+00:00
+
+ ## NIT Warangal
+ - [https://nitw.ac.in](https://nitw.ac.in)
+ - date_published: 2024-09-10T14:17:48+00:00
+
+ ## National Law School of India University -
+ - [https://www.nls.ac.in](https://www.nls.ac.in)
+ - date_published: 2024-12-24T12:45:09.106488+00:00
+
+ ## NLUJAA
+ - [http://www.nluassam.ac.in](http://www.nluassam.ac.in)
+ - date_published: 2024-12-24T12:43:40.185567+00:00
+
+ ## National Law University
+ - [http://www.nlujodhpur.ac.in](http://www.nlujodhpur.ac.in)
+ - date_published: 2024-12-24T12:44:34.656021+00:00
+
+ ## National Law University, Nagpur
+ - [http://www.nlunagpur.ac.in](http://www.nlunagpur.ac.in)
+ - date_published: 2024-12-24T12:43:48.435369+00:00
+
+ ## NMEICT | National Mission on Education through Information and Communication Technology
+ - [https://nmeict.ac.in](https://nmeict.ac.in)
+ - date_published: 2024-06-12T11:10:48.645709+00:00
+
+ ## NPTEL IITm
+ - [https://nptel.ac.in](https://nptel.ac.in)
+ - date_published: 2024-06-22T11:32:34.187507+00:00
+
+ ## NTA Exam  | India
+ - [https://exams.nta.ac.in](https://exams.nta.ac.in)
+ - date_published: 2024-07-11T12:44:18+00:00
+
+ ## Fit-India
+ - [https://fitindia.nta.ac.in](https://fitindia.nta.ac.in)
+ - date_published: 2024-12-25T00:28:39.609649+00:00
+
  ## Parul University Vadodara: Best Private University in Gujarat
  - [https://paruluniversity.ac.in](https://paruluniversity.ac.in)
  - date_published: 2024-08-17T23:38:10.696363+00:00
@@ -3939,97 +4031,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## Planet Clojure
  - [https://planet.clojure.in](https://planet.clojure.in)
  - date_published: 2024-06-22T00:00:00+00:00
-
- ## Up with People
- - [https://uwp.cnkonline.in](https://uwp.cnkonline.in)
- - date_published: 2024-07-12T23:25:55.892732+00:00
- - date_dead_since: 2024-12-25T10:41:33.124749+00:00
-
- ## CNLABS | Certification | Interoperability | IPv6 | Security
- - [https://cnlabs.in](https://cnlabs.in)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Condé Nast Traveller India
- - [https://www.cntraveller.in](https://www.cntraveller.in)
- - date_published: 2024-05-08T05:46:19.851606+00:00
-
- ## Coal auctions, coal prices & trends, coal industry news in India
- - [http://www.coaljunction.in](http://www.coaljunction.in)
- - date_published: 2024-12-25T09:32:00.307448+00:00
-
- ## Cock Goblins - Cockgobl.in
- - [https://cockgobl.in](https://cockgobl.in)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Coding Memes
- - [https://www.codeitbro.in](https://www.codeitbro.in)
- - date_published: 2024-12-08T09:29:00+00:00
-
- ## CodeMagnet - Your Magnetic Resource, For Coding Brilliance
- - [https://codemagnet.in](https://codemagnet.in)
- - date_published: 2024-07-19T23:25:46.931938+00:00
-
- ## Inside Out
- - [https://codito.in](https://codito.in)
- - date_published: 2024-06-23T17:34:00.990409+00:00
-
- ## CollegeSpace
- - [https://collegespace.in](https://collegespace.in)
- - date_published: 2024-07-14T10:21:09.844259+00:00
-
- ## Collins India - Explore Publications | HarperCollins
- - [https://collins.in](https://collins.in)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Adhesive Wall Hangers and Wall Hooks | Command™ | 3M India
- - [https://www.command.in](https://www.command.in)
- - date_published: 2024-12-25T07:25:16.400107+00:00
-
- ## Public Cloud Services Comparison
- - [https://comparecloud.in](https://comparecloud.in)
- - date_published: 2022-10-27T07:31:21+00:00
-
- ## Tutorials for GATE CSE -
- - [https://computersciencejunction.in](https://computersciencejunction.in)
- - date_published: 2024-06-29T19:46:14+00:00
-
- ## ConsCent
- - [https://api.conscent.in](https://api.conscent.in)
- - date_published: 2024-05-01T02:03:57.098822+00:00
-
- ## ConsCent
- - [https://user.conscent.in](https://user.conscent.in)
- - date_published: 2024-05-13T03:27:33.804111+00:00
-
- ## Came for the content, stayed for the glow-up!
- - [https://contentondemand.in](https://contentondemand.in)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## CoolHotels.in
- - [https://coolhotels.in](https://coolhotels.in)
- - date_published: 2024-08-08T10:51:47.219810+00:00
-
- ## CoolHotels.in
- - [https://da.coolhotels.in](https://da.coolhotels.in)
- - date_published: 2024-12-25T10:51:06.494494+00:00
-
- ## CoolHotels.in
- - [https://de.coolhotels.in](https://de.coolhotels.in)
- - date_published: 2024-12-25T10:51:14.023773+00:00
-
- ## CoolHotels.in
- - [https://es.coolhotels.in](https://es.coolhotels.in)
- - date_published: 2024-12-25T10:51:03.504733+00:00
-
- ## CoolHotels.in
- - [https://fr.coolhotels.in](https://fr.coolhotels.in)
- - date_published: 2024-12-25T10:51:13.140802+00:00
-
- ## CoolHotels.in
- - [https://it.coolhotels.in](https://it.coolhotels.in)
- - date_published: 2024-12-25T10:51:04.379448+00:00
-
- ## CoolHotels.in
- - [https://pl.coolhotels.in](https://pl.coolhotels.in)
- - date_published: 2024-12-25T10:51:15.234981+00:00
 

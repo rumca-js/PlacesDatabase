@@ -1,3 +1,19 @@
+ ## Nineteen Eighty-Fur, by Cat Temper
+ - [https://cattemper.bandcamp.com](https://cattemper.bandcamp.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Catton Arthur
+ - [https://cattonarthur.bandcamp.com](https://cattonarthur.bandcamp.com)
+ - date_published: 2024-12-26T22:37:17.607912+00:00
+
+ ## Caural
+ - [https://caural.bandcamp.com](https://caural.bandcamp.com)
+ - date_published: 2024-12-27T06:06:59.348661+00:00
+
+ ## The Medicine Is All Gone, by Caustic Resin
+ - [https://causticresinburns.bandcamp.com](https://causticresinburns.bandcamp.com)
+ - date_published: 2024-12-27T09:55:57.269515+00:00
+
  ## CINE, by Cavalier & Child Actor
  - [https://cavaliervmc.bandcamp.com](https://cavaliervmc.bandcamp.com)
  - date_published: 2024-12-26T22:07:43.647954+00:00
@@ -3981,20 +3997,4 @@
  ## Prophecy, by Gost
  - [https://gost1980s.bandcamp.com](https://gost1980s.bandcamp.com)
  - date_published: 2024-12-27T01:54:09.311025+00:00
-
- ## Goteki
- - [https://goteki.bandcamp.com](https://goteki.bandcamp.com)
- - date_published: 2024-12-26T21:26:37.531651+00:00
-
- ## MILKBLOOD
- - [https://gotmilkblood.bandcamp.com](https://gotmilkblood.bandcamp.com)
- - date_published: 2024-12-27T08:50:47.859109+00:00
-
- ## Merch from Goto80
- - [https://goto8o.bandcamp.com](https://goto8o.bandcamp.com)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Goya
- - [https://goya-music.bandcamp.com](https://goya-music.bandcamp.com)
- - date_published: 2024-12-26T22:39:39.647937+00:00
 

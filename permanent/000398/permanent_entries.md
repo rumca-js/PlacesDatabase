@@ -1,3 +1,103 @@
+ ## Ombudsman New Zealand
+ - [https://www.ombudsman.parliament.nz](https://www.ombudsman.parliament.nz)
+ - date_published: 2024-10-29T18:45:24+00:00
+
+ ## New Zealand Parliament home page - New Zealand Parliament
+ - [https://www.parliament.nz](https://www.parliament.nz)
+ - date_published: 2024-10-28T08:36:45.103977+00:00
+
+ ## Browne School of Art | Auckland, NZ
+ - [https://www.browne.school.nz](https://www.browne.school.nz)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Homepage - Scots College
+ - [http://www.scotscollege.school.nz](http://www.scotscollege.school.nz)
+ - date_published: 2024-09-05T17:24:41.898398+00:00
+
+ ## Home – St Mark's School
+ - [http://www.st-marks.school.nz](http://www.st-marks.school.nz)
+ - date_published: 2024-09-05T02:33:51+00:00
+
+ ## Home - Altcoin Observer
+ - [https://altcoin.observer](https://altcoin.observer)
+ - date_published: 2024-07-29T14:01:43+00:00
+
+ ## AskHistorians Archive Observer
+ - [https://archive.observer](https://archive.observer)
+ - date_published: 2023-07-23T18:04:45+00:00
+
+ ## corru.observer
+ - [https://corru.observer](https://corru.observer)
+ - date_published: 2024-06-23T18:33:11.915513+00:00
+
+ ## Ian's blog | entropy.observer
+ - [https://blog.entropy.observer](https://blog.entropy.observer)
+ - date_published: 2023-10-25T20:51:56.441202+00:00
+
+ ## The World's Largest Exploit & Vulnerability Database
+ - [https://exploit.observer](https://exploit.observer)
+ - date_published: 2024-04-30T05:57:32.690426+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://akkoma.fediverse.observer](https://akkoma.fediverse.observer)
+ - date_published: 2024-07-18T05:38:29.648190+00:00
+
+ ## Fediverse Observer | GraphiQL API
+ - [https://api.fediverse.observer](https://api.fediverse.observer)
+ - date_published: 2024-07-18T05:38:19.113861+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://bookwyrm.fediverse.observer](https://bookwyrm.fediverse.observer)
+ - date_published: 2024-07-18T05:38:54.346368+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://bridgy-fed.fediverse.observer](https://bridgy-fed.fediverse.observer)
+ - date_published: 2024-07-18T05:38:27.948048+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://cdn.fediverse.observer](https://cdn.fediverse.observer)
+ - date_published: 2024-07-18T05:38:47.227460+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://cherrypick.fediverse.observer](https://cherrypick.fediverse.observer)
+ - date_published: 2024-07-18T05:38:24.413993+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://cuculus.fediverse.observer](https://cuculus.fediverse.observer)
+ - date_published: 2024-07-18T05:38:40.197160+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://diaspora.fediverse.observer](https://diaspora.fediverse.observer)
+ - date_published: 2024-07-18T05:38:45.605174+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://fedibird.fediverse.observer](https://fedibird.fediverse.observer)
+ - date_published: 2024-07-18T05:38:38.581771+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://fediverse.observer](https://fediverse.observer)
+ - date_published: 2024-07-08T17:37:29.834254+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://firefish.fediverse.observer](https://firefish.fediverse.observer)
+ - date_published: 2024-07-18T05:38:26.077369+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://foundkey.fediverse.observer](https://foundkey.fediverse.observer)
+ - date_published: 2024-07-18T05:38:49.165477+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://friendica.fediverse.observer](https://friendica.fediverse.observer)
+ - date_published: 2024-07-18T05:38:14.109448+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://funkwhale.fediverse.observer](https://funkwhale.fediverse.observer)
+ - date_published: 2024-07-18T05:38:09.047368+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://hometown.fediverse.observer](https://hometown.fediverse.observer)
+ - date_published: 2024-07-18T05:38:36.909513+00:00
+
  ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
  - [https://hubzilla.fediverse.observer](https://hubzilla.fediverse.observer)
  - date_published: 2024-07-18T05:38:16.156119+00:00
@@ -3951,104 +4051,4 @@ I post about Tech, Privacy, Games...
  ## Site Not Available
  - [https://secure-pi.aarp.org](https://secure-pi.aarp.org)
  - date_published: 2024-12-12T08:15:23.565037+00:00
-
- ## AARP In Your State
- - [https://states.aarp.org](https://states.aarp.org)
- - date_published: 2024-06-28T08:32:05.748716+00:00
-
- ## Lifestyle Behavior and Brain Health
- - [https://stayingsharp.aarp.org](https://stayingsharp.aarp.org)
- - date_published: 2024-06-28T08:31:32.011267+00:00
-
- ## Actor Tim Daly Reflects on Caring for His Mom
- - [https://videos.aarp.org](https://videos.aarp.org)
- - date_published: 2024-06-28T08:31:03.866480+00:00
-
- ## AARP® Official Site - Join & Explore the Benefits
- - [https://www-pi.aarp.org](https://www-pi.aarp.org)
- - date_published: 2024-12-14T14:20:06.393818+00:00
-
- ## AARP International
- - [https://www.aarpinternational.org](https://www.aarpinternational.org)
- - date_published: 2024-07-16T20:51:54.126282+00:00
-
- ## Homepage | American Astronomical Society
- - [https://aas.org](https://aas.org)
- - date_published: 2024-05-07T19:49:15.639431+00:00
-
- ## Bulletin of the AAS
- - [https://baas.aas.org](https://baas.aas.org)
- - date_published: 2024-02-24T18:05:46.247535+00:00
-
- ## Division on Dynamical Astronomy | Division on Dynamical Astronomy
- - [https://dda.aas.org](https://dda.aas.org)
- - date_published: 2024-08-11T14:26:35+00:00
-
- ## Home
- - [https://eclipse.aas.org](https://eclipse.aas.org)
- - date_published: 2024-07-01T13:40:14+00:00
-
- ## Historical Astronomy Division
- - [https://had.aas.org](https://had.aas.org)
- - date_published: 2024-08-11T15:10:31.567002+00:00
-
- ## Job Register | American Astronomical Society
- - [https://jobregister.aas.org](https://jobregister.aas.org)
- - date_published: 2024-06-30T05:31:58.234607+00:00
-
- ## Home - AAS Journals
- - [https://journals.aas.org](https://journals.aas.org)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home
- - [http://my.aas.org](http://my.aas.org)
- - date_published: 2024-07-01T16:31:25.372654+00:00
-
- ## AAS Photo Gallery
- - [http://photos.aas.org](http://photos.aas.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home | AASCU
- - [http://www.aascu.org](http://www.aascu.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Log In | STARS Reports
- - [https://reports.aashe.org](https://reports.aashe.org)
- - date_published: 2024-07-01T23:55:29.277953+00:00
-
- ## STARS, Sustainability Tracking Assessment & Rating System
- - [https://stars.aashe.org](https://stars.aashe.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## AASIANT – Healthy living made simple and sustainable
- - [http://www.aasianst.org](http://www.aasianst.org)
- - date_published: 2024-09-02T12:57:17.017413+00:00
-
- ## AASL Knowledge Quest
- - [https://knowledgequest.aasl.org](https://knowledgequest.aasl.org)
- - date_published: 2024-05-04T09:35:17.977887+00:00
-
- ## AASLH
- - [https://aaslh.org](https://aaslh.org)
- - date_published: 2024-12-13T14:34:29+00:00
-
- ## AASLH
- - [http://www.aaslh.org](http://www.aaslh.org)
- - date_published: 2024-06-20T04:28:11.447426+00:00
-
- ## American Academy of Sleep Medicine | AASM | Sleep | Medical Society
- - [https://aasm.org](https://aasm.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Homepage - AAS Nova
- - [https://aasnova.org](https://aasnova.org)
- - date_published: 2023-10-25T20:53:12.339589+00:00
-
- ## Home - AASP-MN Alliance of Automotive Services Providers - Minnesota
- - [http://aaspmn.org](http://aaspmn.org)
- - date_published: 2024-12-23T11:40:03.903861+00:00
-
- ## American Association of Teachers of German | AATG
- - [https://www.aatg.org](https://www.aatg.org)
- - date_published: 2024-07-01T14:32:17.092181+00:00
 

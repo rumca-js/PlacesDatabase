@@ -1,3 +1,91 @@
+ ## Undergraduate Studies In Computer Science At The University Of Maryland | Undergraduate Computer Science at UMD
+ - [https://undergrad.cs.umd.edu](https://undergrad.cs.umd.edu)
+ - date_published: 2024-05-07T21:26:45.393345+00:00
+
+ ## Home | School of Architecture, Planning & Preservation
+ - [http://www.arch.umd.edu](http://www.arch.umd.edu)
+ - date_published: 2024-07-01T17:56:30+00:00
+
+ ## BSOS
+ - [http://www.bsos.umd.edu](http://www.bsos.umd.edu)
+ - date_published: 2024-07-01T19:52:46+00:00
+
+ ## University Career Center & The President's Promise
+ - [http://www.careercenter.umd.edu](http://www.careercenter.umd.edu)
+ - date_published: 2024-06-28T20:00:33+00:00
+
+ ## Center for Bioinformatics and Computational Biology | CBCB
+ - [https://www.cbcb.umd.edu](https://www.cbcb.umd.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Center for East Asian Studies | School of Languages, Literatures, and Cultures
+ - [http://www.ceas.umd.edu](http://www.ceas.umd.edu)
+ - date_published: 2024-09-17T20:44:34+00:00
+
+ ## Home | Center for International and Security Studies at Maryland
+ - [http://www.cissm.umd.edu](http://www.cissm.umd.edu)
+ - date_published: 2024-10-21T18:26:43.423388+00:00
+
+ ## Home | Counseling Center
+ - [http://www.counseling.umd.edu](http://www.counseling.umd.edu)
+ - date_published: 2024-06-11T14:27:08+00:00
+
+ ## Maryland Cybersecurity Center
+ - [http://www.cyber.umd.edu](http://www.cyber.umd.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Our Community | Office of Diversity and Inclusion
+ - [https://www.diversity.umd.edu](https://www.diversity.umd.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Home | UMD College of Education
+ - [http://www.education.umd.edu](http://www.education.umd.edu)
+ - date_published: 2024-07-01T22:11:19+00:00
+
+ ## Home - University Of Maryland Golf Course
+ - [https://www.golf.umd.edu](https://www.golf.umd.edu)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Center for Health and Risk Communication | University of Maryland
+ - [http://www.healthriskcenter.umd.edu](http://www.healthriskcenter.umd.edu)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Home - University of Maryland Honors College
+ - [http://www.honors.umd.edu](http://www.honors.umd.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Home
+ - [http://www.ipst.umd.edu](http://www.ipst.umd.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Joseph and Alma Gildenhorn Institute for Israel Studies | Joseph and Rebecca Meyerhoff Center for Jewish Studies
+ - [http://www.israelstudies.umd.edu](http://www.israelstudies.umd.edu)
+ - date_published: 2024-09-17T20:44:34+00:00
+
+ ## Philip Merrill College of Journalism | University of Maryland | Philip Merrill College of Journalism
+ - [http://www.journalism.umd.edu](http://www.journalism.umd.edu)
+ - date_published: 2024-07-01T19:13:39+00:00
+
+ ## University Libraries
+ - [http://www.lib.umd.edu](http://www.lib.umd.edu)
+ - date_published: 2024-07-02T03:37:15.112086+00:00
+
+ ## Department of Mathematics - Home
+ - [https://www-math.umd.edu](https://www-math.umd.edu)
+ - date_published: 2024-06-30T02:49:38+00:00
+
+ ## The Norbert Wiener Center for Harmonic Analysis and Applications
+ - [https://www.norbertwiener.umd.edu](https://www.norbertwiener.umd.edu)
+ - date_published: 2024-06-30T03:00:21.912855+00:00
+
+ ## Quantum Technology Center
+ - [https://www.qtc.umd.edu](https://www.qtc.umd.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home | Maryland Smith
+ - [http://www.rhsmith.umd.edu](http://www.rhsmith.umd.edu)
+ - date_published: 2024-07-12T20:27:29+00:00
+
  ## College Park Scholars | University of Maryland
  - [http://www.scholars.umd.edu](http://www.scholars.umd.edu)
  - date_published: 2024-07-02T03:37:55.462499+00:00
@@ -3925,96 +4013,4 @@ Center for Information Technology Integration
  ## IT Academic Technologies | The University of New Mexico
  - [https://at.unm.edu](https://at.unm.edu)
  - date_published: 2023-08-14T15:32:39+00:00
-
- ## UNM Bookstore
- - [https://bookstore.unm.edu](https://bookstore.unm.edu)
- - date_published: 2024-05-07T21:44:14.568515+00:00
-
- ## UNM Brand Guidelines | The University of New Mexico
- - [https://brand.unm.edu](https://brand.unm.edu)
- - date_published: 2023-11-28T00:00:36+00:00
-
- ## Covid-19 Updates & Information :: 
-    
-            New Mexico's Flagship University | The University of New Mexico
- - [https://bringbackthepack.unm.edu](https://bringbackthepack.unm.edu)
- - date_published: 2023-03-13T00:00:00+00:00
-
- ## Campus Safety | The University of New Mexico
- - [https://campussafety.unm.edu](https://campussafety.unm.edu)
- - date_published: 2024-07-02T05:00:05+00:00
-
- ## UNM Comprehensive Cancer Center | Cancer Care | New Mexico | Albuquerque
- - [http://cancer.unm.edu](http://cancer.unm.edu)
- - date_published: 2024-07-12T22:29:09+00:00
-
- ## Canvas @ UNM | The University of New Mexico
- - [https://canvasinfo.unm.edu](https://canvasinfo.unm.edu)
- - date_published: 2024-04-30T20:50:44+00:00
-
- ## Sign in to your account
- - [https://canvas.unm.edu](https://canvas.unm.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Office of Career Services | The University of New Mexico
- - [https://career.unm.edu](https://career.unm.edu)
- - date_published: 2024-06-13T19:37:10+00:00
-
- ## Office of the Registrar | The University of New Mexico
- - [https://catalog.unm.edu](https://catalog.unm.edu)
- - date_published: 2024-05-06T14:05:13+00:00
-
- ## UNM Continuing Education
- - [https://ce.unm.edu](https://ce.unm.edu)
- - date_published: 2024-05-02T00:47:35+00:00
-
- ## Office of the Chief Information Officer | The University of New Mexico
- - [http://cio.unm.edu](http://cio.unm.edu)
- - date_published: 2024-06-26T22:53:25+00:00
-
- ## Computing @ UNM :: 
-    
-            Information Technologies | The University of New Mexico
- - [https://computing.unm.edu](https://computing.unm.edu)
- - date_published: 2024-05-07T21:44:04.476355+00:00
-
- ## Sign in to your account
- - [https://confluence.unm.edu](https://confluence.unm.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## UNM Continuing Education
- - [https://continuinged.unm.edu](https://continuinged.unm.edu)
- - date_published: 2024-07-02T05:09:04.819048+00:00
-
- ## Community and Regional Planning | The University of New Mexico
- - [http://crp.unm.edu](http://crp.unm.edu)
- - date_published: 2024-04-18T19:29:56+00:00
-
- ## Campus Capital & Space Planning | The University of New Mexico
- - [https://css.unm.edu](https://css.unm.edu)
- - date_published: 2024-07-01T14:21:29+00:00
-
- ## Department of Computer Science | The University of New Mexico
- - [http://cs.unm.edu](http://cs.unm.edu)
- - date_published: 2024-06-17T10:11:14+00:00
-
- ## Each of us defines all of us | The University of New Mexico
- - [https://define.unm.edu](https://define.unm.edu)
- - date_published: 2024-04-09T20:57:04+00:00
-
- ## Degree Roadmaps
- - [https://degrees.unm.edu](https://degrees.unm.edu)
- - date_published: 2024-03-18T21:03:47+00:00
-
- ## Division for Equity and Inclusion Website Help Desk
- - [https://dei-webhelp.unm.edu](https://dei-webhelp.unm.edu)
- - date_published: 2024-07-02T05:08:21.765089+00:00
-
- ## V2 Template Demo Site | The University of New Mexico
- - [https://demo.unm.edu](https://demo.unm.edu)
- - date_published: 2024-05-29T21:55:23+00:00
-
- ## UNM Digital Repository
- - [https://digitalrepository.unm.edu](https://digitalrepository.unm.edu)
- - date_published: 2024-07-02T05:18:13.122601+00:00
 

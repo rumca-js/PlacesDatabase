@@ -1,3 +1,112 @@
+ ## Aktuálne počasie na Slovensku. Predpoveď počasia na dnes na Aktuality.sk
+ - [https://pocasie.aktuality.sk](https://pocasie.aktuality.sk)
+ - date_published: 2024-10-15T20:00:12+00:00
+
+ ## Recepty.sk | Jednoduchá príprava najlepších receptov online
+ - [https://recepty.aktuality.sk](https://recepty.aktuality.sk)
+ - date_published: 2024-10-15T20:00:47.736870+00:00
+
+ ## Prekladové slovníky & prekladač - Slovnik.sk
+ - [https://slovnik.aktuality.sk](https://slovnik.aktuality.sk)
+ - date_published: 2024-10-15T19:59:45.018744+00:00
+
+ ## Chyba 403
+ - [https://sport.aktuality.sk](https://sport.aktuality.sk)
+ - date_published: 2024-06-17T01:45:33.609698+00:00
+
+ ## TV PROGRAM DNES, aktuálny televízny program | Aktuality.sk
+ - [https://tv-program.aktuality.sk](https://tv-program.aktuality.sk)
+ - date_published: 2024-10-15T20:00:08+00:00
+
+ ## Aktuálne správy zo Slovenska a zo sveta | Aktuality.sk
+ - [https://www.aktuality.sk](https://www.aktuality.sk)
+ - date_published: 2024-10-15T19:59:41.880971+00:00
+
+ ## Živé.sk: Najnovšie správy o počítačoch, mobiloch, IT a internete
+ - [https://zive.aktuality.sk](https://zive.aktuality.sk)
+ - date_published: 2024-10-15T20:00:15.309940+00:00
+
+ ## home
+ - [https://www.alfaromeo.sk](https://www.alfaromeo.sk)
+ - date_published: 2024-06-18T09:57:04+00:00
+
+ ## Alza.sk – rýchly a pohodlný nákup odkiaľkoľvek | Alza.sk
+ - [https://www.alza.sk](https://www.alza.sk)
+ - date_published: 2024-09-16T02:46:17.991557+00:00
+
+ ## Amiga on PC/Mac/Raspberry | AmiKit - Modern Retro Amiga
+ - [https://amikit.amiga.sk](https://amikit.amiga.sk)
+ - date_published: 2024-01-09T03:47:10.780472+00:00
+ - tags: ['amiga']
+
+ ## AmiKit Support Forum
+ - [https://forum.amiga.sk](https://forum.amiga.sk)
+ - date_published: 2024-01-09T03:47:12.690325+00:00
+
+ ## AKReal - unofficial
+ - [http://real.amiga.sk](http://real.amiga.sk)
+ - date_published: 2024-07-14T12:20:41.117944+00:00
+
+ ## AMV Projekt
+ - [http://www.amvprojekt.sk](http://www.amvprojekt.sk)
+ - date_published: 2024-07-02T22:44:50.807946+00:00
+
+ ## Tolkien.sk
+ - [http://www.slavcon.arda.sk](http://www.slavcon.arda.sk)
+ - date_published: 2024-07-01T10:14:56.833464+00:00
+
+ ## ATLAS FOR MEN - Lacné outdoorové oblečenie a doplnky pre mužov
+ - [https://atlasformen.sk](https://atlasformen.sk)
+ - date_published: 2024-05-29T10:08:19.125515+00:00
+
+ ## Audi Slovensko
+ - [https://www.audi.sk](https://www.audi.sk)
+ - date_published: 2024-07-19T22:44:23.767007+00:00
+
+ ## Všetko zo sveta automobilov a motorizmu
+ - [https://www.autobild.sk](https://www.autobild.sk)
+ - date_published: 2024-07-24T21:31:57.953362+00:00
+
+ ## Autodesk empowers innovators everywhere to make the new possible
+ - [https://autode.sk](https://autode.sk)
+ - date_published: 2024-05-04T03:56:02+00:00
+
+ ## Hlavná stránka vyhľadávania | Autosphere
+ - [https://www.autosphere.sk](https://www.autosphere.sk)
+ - date_published: 2024-07-04T07:38:25.460919+00:00
+
+ ## Azet.sk - Všetky správy a informácie na jednom mieste
+ - [https://www.azet.sk](https://www.azet.sk)
+ - date_published: 2024-10-31T00:19:32.442528+00:00
+
+ ## Mail BBXNET :: Welcome to Mail BBXNET
+ - [https://bbmail.sk](https://bbmail.sk)
+ - date_published: 2024-07-08T14:40:39+00:00
+
+ ## BBXNET - hrdinský NET & TV
+ - [https://bbxnet.sk](https://bbxnet.sk)
+ - date_published: 2024-05-08T11:42:29.754842+00:00
+
+ ## BBX admin
+ - [https://moj.bbxnet.sk](https://moj.bbxnet.sk)
+ - date_published: 2024-07-08T14:40:41.732431+00:00
+
+ ## BE2CAN | Ochutnajte atmosféru filmových festivalov
+ - [https://be2can.sk](https://be2can.sk)
+ - date_published: 2024-12-13T22:21:28.257973+00:00
+
+ ## Najlepšie online casino na Slovensku v 2024
+ - [https://betrating.sk](https://betrating.sk)
+ - date_published: 2021-09-10T10:14:11+00:00
+
+ ## Výrobca a distribútor potravín | Bidfood.sk
+ - [https://www.bidfood.sk](https://www.bidfood.sk)
+ - date_published: 2024-10-15T13:49:26+00:00
+
+ ## Bistro 24
+ - [https://bistro24.sk](https://bistro24.sk)
+ - date_published: 2024-03-06T00:00:00+00:00
+
  ## MMA & BJJ Nitra
  - [https://bjjnitra.sk](https://bjjnitra.sk)
  - date_published: 2023-08-29T00:00:00+00:00
@@ -3935,114 +4044,4 @@ conflicts of interest and restore Community Trust.
  ## puzich.social
  - [https://puzich.social](https://puzich.social)
  - date_published: 2024-06-23T17:08:35.952361+00:00
-
- ## Raphus Social
- - [https://raphus.social](https://raphus.social)
- - date_published: 2024-12-12T09:47:42.741852+00:00
-
- ## Raspberry Pi
- - [https://raspberrypi.social](https://raspberrypi.social)
- - date_published: 2024-07-01T07:39:42.739288+00:00
-
- ## RecSys.social
- - [https://recsys.social](https://recsys.social)
- - date_published: 2024-05-02T09:52:26.899804+00:00
-
- ## recurse.social
- - [https://recurse.social](https://recurse.social)
- - date_published: 2024-04-08T22:39:06.588241+00:00
-
- ## Mastodon
- - [https://reincubate.social](https://reincubate.social)
- - date_published: 2024-06-22T23:35:58.117172+00:00
-
- ## Mastodon
- - [https://relayfm.social](https://relayfm.social)
- - date_published: 2024-06-19T23:38:56.708719+00:00
-
- ## Mastodon for Catholic Clergy & Religious
- - [https://religious.social](https://religious.social)
- - date_published: 2024-07-10T09:17:10.398057+00:00
-
- ## Retro Social
- - [https://retro.social](https://retro.social)
- - date_published: 2023-11-27T08:29:44.189204+00:00
- - tags: ['mastodon']
-
- ## Retro Rewind Mastodon
- - [https://retrorewind.social](https://retrorewind.social)
- - date_published: 2024-09-13T19:49:33.946204+00:00
-
- ## ReviveSocial Docs
- - [https://docs.revive.social](https://docs.revive.social)
- - date_published: 2024-07-14T03:33:05.779250+00:00
-
- ## Revive Social: Premium WordPress Plugins for Social Media Growth
- - [https://revive.social](https://revive.social)
- - date_published: 2024-05-11T09:07:50.265425+00:00
-
- ## rheinneckar.social
- - [https://rheinneckar.social](https://rheinneckar.social)
- - date_published: 2024-04-29T07:02:19.635708+00:00
-
- ## Rings
- - [https://rings.social](https://rings.social)
- - date_published: 2023-07-16T00:09:56+00:00
- - tags: ['mastodon']
-
- ## RLS (unoffical)
- - [https://rls.social](https://rls.social)
- - date_published: 2024-05-08T10:00:43.054895+00:00
-
- ## Die Heimat für Rollenspieler
- - [https://rollenspiel.social](https://rollenspiel.social)
- - date_published: 2024-04-28T06:15:05.539946+00:00
-
- ## Ruby.social
- - [https://ruby.social](https://ruby.social)
- - date_published: 2024-04-28T02:55:47.046846+00:00
-
- ## MinIO Console
- - [https://media.ruhr.social](https://media.ruhr.social)
- - date_published: 2024-07-02T18:02:46+00:00
-
- ## ruhr.social
- - [https://ruhr.social](https://ruhr.social)
- - date_published: 2024-05-07T23:07:32.952988+00:00
-
- ## How to run a small social network
- - [https://runyourown.social](https://runyourown.social)
- - date_published: 2022-11-18T15:43:54+00:00
-
- ## Ruud.Social
- - [https://ruud.social](https://ruud.social)
- - date_published: 2024-10-17T14:33:27.897629+00:00
-
- ## Sakurajima Social (桜島SNS）
- - [https://sakurajima.social](https://sakurajima.social)
- - date_published: 2024-07-15T06:33:25.657406+00:00
-
- ## Saturation
- - [https://saturation.social](https://saturation.social)
- - date_published: 2024-06-23T17:08:51.675303+00:00
-
- ## Scholar Social
- - [https://scholar.social](https://scholar.social)
- - date_published: 2024-01-19T08:47:10.669098+00:00
-
- ## Camiel Schoonens
- - [https://schoonens.social](https://schoonens.social)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Mastodon
- - [https://mastodon.schub.social](https://mastodon.schub.social)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## sciences.social
- - [https://sciences.social](https://sciences.social)
- - date_published: 2024-06-23T17:08:31.578752+00:00
-
- ## SciPost social
- - [https://scipost.social](https://scipost.social)
- - date_published: 2024-12-16T09:27:38.985346+00:00
 

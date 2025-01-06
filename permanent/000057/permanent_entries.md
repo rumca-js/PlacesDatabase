@@ -1,3 +1,19 @@
+ ## Memorials of Distinction
+ - [https://memorialsofdistinction.bandcamp.com](https://memorialsofdistinction.bandcamp.com)
+ - date_published: 2024-12-26T20:57:21.134395+00:00
+
+ ## Echolocation, by Mendoza Hoff Revels
+ - [https://mendozahoffrevels.bandcamp.com](https://mendozahoffrevels.bandcamp.com)
+ - date_published: 2024-12-26T21:54:19.447720+00:00
+
+ ## Mental Cruelty
+ - [https://mentalcruelty.bandcamp.com](https://mentalcruelty.bandcamp.com)
+ - date_published: 2024-12-26T23:46:10.071561+00:00
+
+ ## Menwar
+ - [https://menwar.bandcamp.com](https://menwar.bandcamp.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
  ## Watch Me Drive Them Dogs Wild, by Merce Lemon
  - [https://mercelemon.bandcamp.com](https://mercelemon.bandcamp.com)
  - date_published: 2024-07-19T18:05:31.080696+00:00
@@ -3983,20 +3999,4 @@
  ## SAINT PEPSI
  - [https://saintpepsi.bandcamp.com](https://saintpepsi.bandcamp.com)
  - date_published: 2024-12-22T07:35:36.774506+00:00
-
- ## Beyond the Drone, by SAINT RICH
- - [https://saintrich.bandcamp.com](https://saintrich.bandcamp.com)
- - date_published: 2024-12-27T09:14:53.664518+00:00
-
- ## salami rose joe louis
- - [https://salamirosejoelouismusic.bandcamp.com](https://salamirosejoelouismusic.bandcamp.com)
- - date_published: 2024-12-26T23:05:37.513212+00:00
-
- ## Salter Cane
- - [https://saltercane.bandcamp.com](https://saltercane.bandcamp.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Push It, by SALT-N-PEPA
- - [https://salt-n-pepa.bandcamp.com](https://salt-n-pepa.bandcamp.com)
- - date_published: 2024-12-27T00:26:42.230655+00:00
 

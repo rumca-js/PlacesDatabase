@@ -1,3 +1,91 @@
+ ## Undergraduate Admissions
+ - [https://admissions.oregonstate.edu](https://admissions.oregonstate.edu)
+ - date_published: 2024-06-14T17:57:12+00:00
+
+ ## Oregon State University
+ - [https://advanced.oregonstate.edu](https://advanced.oregonstate.edu)
+ - date_published: 2024-10-11T23:10:49+00:00
+
+ ## College of Agricultural Sciences
+ - [https://agsci.oregonstate.edu](https://agsci.oregonstate.edu)
+ - date_published: 2024-07-01T15:06:16+00:00
+
+ ## Frequently Asked Questions - Ask Us
+ - [https://answers.library.oregonstate.edu](https://answers.library.oregonstate.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## BEAVER HEALTHY
+ - [https://beaverhealthy.oregonstate.edu](https://beaverhealthy.oregonstate.edu)
+ - date_published: 2024-10-14T18:17:15+00:00
+
+ ## Blog Insights From Oregon State University - Online Marketing, the Business of Beer, Gardening and More
+ - [https://blog.pace.oregonstate.edu](https://blog.pace.oregonstate.edu)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## OSU Wordpress
+ - [http://blogs.oregonstate.edu](http://blogs.oregonstate.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Online Data Analytics Bootcamp | Oregon State University
+ - [https://bootcamp.oregonstate.edu](https://bootcamp.oregonstate.edu)
+ - date_published: 2024-10-15T01:25:15.454689+00:00
+
+ ## Business Matters – News, articles, and interesting stuff from the College of Business
+ - [https://businessmatters.oregonstate.edu](https://businessmatters.oregonstate.edu)
+ - date_published: 2024-10-15T00:02:39.667937+00:00
+
+ ## College of Business
+ - [https://business.oregonstate.edu](https://business.oregonstate.edu)
+ - date_published: 2024-06-16T21:05:23+00:00
+
+ ## Events Calendar - Oregon State University
+ - [https://calendar.oregonstate.edu](https://calendar.oregonstate.edu)
+ - date_published: 2024-07-06T23:29:45.630592+00:00
+
+ ## OSU Login
+ - [https://canvas.oregonstate.edu](https://canvas.oregonstate.edu)
+ - date_published: 2024-06-16T22:25:38.583379+00:00
+
+ ## Home - OSU-Cascades | OSU-Cascades Library | Oregon State University
+ - [https://cascades.library.oregonstate.edu](https://cascades.library.oregonstate.edu)
+ - date_published: 2024-10-15T00:27:07+00:00
+
+ ## Home | Center for Applied Systems & Software | Oregon State University
+ - [https://cass.oregonstate.edu](https://cass.oregonstate.edu)
+ - date_published: 2024-07-06T20:40:17+00:00
+
+ ## 2024-2025 Catalog < Oregon State University
+ - [https://catalog.oregonstate.edu](https://catalog.oregonstate.edu)
+ - date_published: 2024-06-13T08:05:53+00:00
+
+ ## Oregon State University Schedule of Classes
+ - [http://classes.oregonstate.edu](http://classes.oregonstate.edu)
+ - date_published: 2024-10-02T18:15:27+00:00
+
+ ## Clery Compliance
+ - [https://clery.oregonstate.edu](https://clery.oregonstate.edu)
+ - date_published: 2015-12-11T08:58:22+00:00
+
+ ## Clubs & Organizations
+ - [https://clubs.oregonstate.edu](https://clubs.oregonstate.edu)
+ - date_published: 2024-10-15T00:46:14+00:00
+
+ ## Commencement
+ - [https://commencement.oregonstate.edu](https://commencement.oregonstate.edu)
+ - date_published: 2024-06-14T16:17:49+00:00
+
+ ## University Relations and Marketing
+ - [https://communications.oregonstate.edu](https://communications.oregonstate.edu)
+ - date_published: 2024-10-14T23:58:18+00:00
+
+ ## Core Education
+ - [https://coreeducation.oregonstate.edu](https://coreeducation.oregonstate.edu)
+ - date_published: 2023-07-03T14:46:43+00:00
+
+ ## College of Agricultural Sciences
+ - [https://cropandsoil.oregonstate.edu](https://cropandsoil.oregonstate.edu)
+ - date_published: 2024-10-15T04:06:48+00:00
+
  ## OSU Login
  - [http://directory.oregonstate.edu](http://directory.oregonstate.edu)
  - date_published: 2024-06-16T22:25:42.668831+00:00
@@ -3918,92 +4006,4 @@
  ## Electron Microscopy Center: Rice EMC Website
  - [http://emc.rice.edu](http://emc.rice.edu)
  - date_published: 2024-07-01T17:19:17+00:00
-
- ## Home
- - [https://emergency.rice.edu](https://emergency.rice.edu)
- - date_published: 2024-05-07T20:05:39.392827+00:00
-
- ## Rice Engineering
- - [https://engineering.rice.edu](https://engineering.rice.edu)
- - date_published: 2024-05-07T20:05:28.625924+00:00
-
- ## Department of English
- - [https://english.rice.edu](https://english.rice.edu)
- - date_published: 2024-05-16T15:34:16+00:00
-
- ## Center for Environmental Studies
- - [https://enst.rice.edu](https://enst.rice.edu)
- - date_published: 2024-06-13T18:49:53+00:00
-
- ## Rice EPMP
- - [https://epmp.rice.edu](https://epmp.rice.edu)
- - date_published: 2024-06-06T00:16:38+00:00
-
- ## ESL
- - [https://esl.rice.edu](https://esl.rice.edu)
- - date_published: 2024-06-04T14:55:55+00:00
-
- ## Redirecting to Secure Site...
- - [https://esther.rice.edu](https://esther.rice.edu)
- - date_published: 2024-07-01T17:48:08.896796+00:00
-
- ## Events | Rice University
- - [https://events.rice.edu](https://events.rice.edu)
- - date_published: 2024-05-07T20:05:52.697700+00:00
-
- ## Featured Tours | Rice University Virtual Tour
- - [https://experience.rice.edu](https://experience.rice.edu)
- - date_published: 2024-03-18T06:31:28+00:00
-
- ## Welcome
- - [http://explore.rice.edu](http://explore.rice.edu)
- - date_published: 2024-05-13T14:47:27+00:00
-
- ## Shibboleth Authentication Request
- - [http://ezproxy.rice.edu](http://ezproxy.rice.edu)
- - date_published: 2024-07-01T18:01:39.907333+00:00
-
- ## Faculty Handbook
- - [https://fachandbook.rice.edu](https://fachandbook.rice.edu)
- - date_published: 2024-07-01T18:02:44.372881+00:00
-
- ## Faculty Jobs
- - [https://faculty-jobs.rice.edu](https://faculty-jobs.rice.edu)
- - date_published: 2024-07-01T18:08:34.221258+00:00
-
- ## Office of Financial Aid
- - [https://financialaid.rice.edu](https://financialaid.rice.edu)
- - date_published: 2024-05-07T20:04:30.279467+00:00
-
- ## Rice
- - [https://fulbright.rice.edu](https://fulbright.rice.edu)
- - date_published: 2024-06-17T22:05:14+00:00
-
- ## Rice
- - [https://futureofresearch.rice.edu](https://futureofresearch.rice.edu)
- - date_published: 2024-07-01T18:01:11.696543+00:00
-
- ## Rice
- - [https://futureowls.rice.edu](https://futureowls.rice.edu)
- - date_published: 2024-05-07T20:06:06.266507+00:00
-
- ## The Galileo Project
- - [http://galileo.rice.edu](http://galileo.rice.edu)
- - date_published: 2024-06-30T08:52:26.238375+00:00
-
- ## Home
- - [https://garden.rice.edu](https://garden.rice.edu)
- - date_published: 2024-06-12T17:03:45+00:00
-
- ## General Announcements < Rice University
- - [https://ga.rice.edu](https://ga.rice.edu)
- - date_published: 2024-03-13T21:24:36+00:00
-
- ## Gateway Program
- - [https://gateway.rice.edu](https://gateway.rice.edu)
- - date_published: 2024-05-05T20:08:25+00:00
-
- ## Rice
- - [http://gcurs.rice.edu](http://gcurs.rice.edu)
- - date_published: 2024-05-19T16:42:26+00:00
 

@@ -1,4 +1,92 @@
  ## Commitment to Privacy
+ - [https://projectgabriel.vcu.edu](https://projectgabriel.vcu.edu)
+ - date_published: 2024-07-02T12:57:33.210388+00:00
+
+ ## Commitment to Privacy
+ - [https://provost.vcu.edu](https://provost.vcu.edu)
+ - date_published: 2024-07-02T12:49:39.843415+00:00
+
+ ## Commitment to Privacy
+ - [https://psychology.vcu.edu](https://psychology.vcu.edu)
+ - date_published: 2024-07-02T12:49:02.056282+00:00
+
+ ## Commitment to Privacy
+ - [https://psych.vcu.edu](https://psych.vcu.edu)
+ - date_published: 2024-07-02T12:50:15.443278+00:00
+
+ ## Commitment to Privacy
+ - [https://ptc.chp.vcu.edu](https://ptc.chp.vcu.edu)
+ - date_published: 2024-07-02T12:45:02.168638+00:00
+
+ ## Commitment to Privacy
+ - [https://pt.chp.vcu.edu](https://pt.chp.vcu.edu)
+ - date_published: 2024-07-02T12:59:09.200314+00:00
+
+ ## VCUarts Qatar | We are VCUarts Qatar 25+
+ - [https://qatar.vcu.edu](https://qatar.vcu.edu)
+ - date_published: 2024-07-02T12:46:23.535978+00:00
+
+ ## Commitment to Privacy
+ - [https://quest.vcu.edu](https://quest.vcu.edu)
+ - date_published: 2024-07-02T12:48:29.444869+00:00
+
+ ## Commitment to Privacy
+ - [https://radiology.vcu.edu](https://radiology.vcu.edu)
+ - date_published: 2024-07-02T12:46:36.829219+00:00
+
+ ## Commitment to Privacy
+ - [https://radonc.vcu.edu](https://radonc.vcu.edu)
+ - date_published: 2024-07-02T12:50:59.700762+00:00
+
+ ## Commitment to Privacy
+ - [https://radsci.chp.vcu.edu](https://radsci.chp.vcu.edu)
+ - date_published: 2024-07-02T12:43:55.590900+00:00
+
+ ## Commitment to Privacy
+ - [https://ramcamp.vcu.edu](https://ramcamp.vcu.edu)
+ - date_published: 2024-07-02T12:49:03.298801+00:00
+
+ ## Commitment to Privacy
+ - [https://ramcam.vcu.edu](https://ramcam.vcu.edu)
+ - date_published: 2024-07-02T12:42:45.561930+00:00
+
+ ## Commitment to Privacy
+ - [https://ramhacks.vcu.edu](https://ramhacks.vcu.edu)
+ - date_published: 2024-07-02T12:45:13.506775+00:00
+
+ ## Virginia Commonwealth University | RAM Ready Orientation Modules
+ - [https://ramready.vcu.edu](https://ramready.vcu.edu)
+ - date_published: 2024-07-02T12:58:53.456719+00:00
+
+ ## Commitment to Privacy
+ - [https://ramstrong.vcu.edu](https://ramstrong.vcu.edu)
+ - date_published: 2024-07-02T12:46:00.264943+00:00
+
+ ## Welcome to RamTech
+ - [https://ramtech.vcu.edu](https://ramtech.vcu.edu)
+ - date_published: 2024-06-14T18:55:15+00:00
+
+ ## Commitment to Privacy
+ - [https://ramtree.vcu.edu](https://ramtree.vcu.edu)
+ - date_published: 2024-07-02T12:43:57.613185+00:00
+
+ ## Commitment to Privacy
+ - [https://rar.vcu.edu](https://rar.vcu.edu)
+ - date_published: 2024-05-07T22:22:24.510862+00:00
+
+ ## Commitment to Privacy
+ - [https://reachtrial.vcu.edu](https://reachtrial.vcu.edu)
+ - date_published: 2024-07-02T12:43:15.123135+00:00
+
+ ## Commitment to Privacy
+ - [https://realsource.vcu.edu](https://realsource.vcu.edu)
+ - date_published: 2024-07-02T12:50:13.995234+00:00
+
+ ## Commitment to Privacy
+ - [https://realtime.vcu.edu](https://realtime.vcu.edu)
+ - date_published: 2024-05-07T22:23:52.910462+00:00
+
+ ## Commitment to Privacy
  - [https://recovery.vcu.edu](https://recovery.vcu.edu)
  - date_published: 2024-07-02T12:47:15.973514+00:00
 
@@ -3915,92 +4003,4 @@
  ## Home
  - [https://ese.wustl.edu](https://ese.wustl.edu)
  - date_published: 2024-07-07T04:08:14+00:00
-
- ## Operations & Facilities Management Department | Washington University in St. Louis
- - [https://facilities.med.wustl.edu](https://facilities.med.wustl.edu)
- - date_published: 2024-07-02T15:04:35.505943+00:00
-
- ## Home  | Facilities Planning & Management | Washington University in St. Louis
- - [https://facilities.wustl.edu](https://facilities.wustl.edu)
- - date_published: 2024-07-02T14:38:44+00:00
-
- ## Home  | Parents & Families | Washington University in St. Louis
- - [https://families.wustl.edu](https://families.wustl.edu)
- - date_published: 2024-07-02T14:27:01+00:00
-
- ## Home
- - [https://faq.cse.wustl.edu](https://faq.cse.wustl.edu)
- - date_published: 2024-06-05T07:24:31+00:00
-
- ## Office of Student Financial Planning | Washington University School of Medicine in St. Louis
- - [http://finaid.med.wustl.edu](http://finaid.med.wustl.edu)
- - date_published: 2024-09-13T18:40:05.248797+00:00
-
- ## Home - Financial Services
- - [https://financialservices.wustl.edu](https://financialservices.wustl.edu)
- - date_published: 2024-07-02T15:06:36.960802+00:00
-
- ## Home  | New Students | Washington University in St. Louis
- - [https://firstyear.wustl.edu](https://firstyear.wustl.edu)
- - date_published: 2024-07-02T14:58:25+00:00
-
- ## Home  | Employee Flu Campaign | Washington University in St. Louis
- - [https://flu.wustl.edu](https://flu.wustl.edu)
- - date_published: 2024-07-02T14:38:17+00:00
-
- ## Faculty Practice Plan | Washington University in St. Louis
- - [https://fpp.wustl.edu](https://fpp.wustl.edu)
- - date_published: 2024-07-02T15:04:21.118848+00:00
-
- ## WashU Innovation - Home
- - [https://fuse.wustl.edu](https://fuse.wustl.edu)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Make a Gift
- - [https://gifts.wustl.edu](https://gifts.wustl.edu)
- - date_published: 2024-07-07T05:33:01.809416+00:00
-
- ## Giving to WashU - Washington University in St. Louis
- - [https://giving.wustl.edu](https://giving.wustl.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Global | Washington University in St. Louis
- - [https://global.wustl.edu](https://global.wustl.edu)
- - date_published: 2024-07-02T15:05:55.640694+00:00
-
- ## Apply - Washington University in St. Louis
- - [https://gradadmit.wustl.edu](https://gradadmit.wustl.edu)
- - date_published: 2024-07-07T05:32:53.672198+00:00
-
- ## Office of Graduate Studies
- - [https://gradstudies.artsci.wustl.edu](https://gradstudies.artsci.wustl.edu)
- - date_published: 2024-08-06T17:31:29.546105+00:00
-
- ## Events Calendar - Happenings at WashU
- - [https://happenings.wustl.edu](https://happenings.wustl.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Here and Next | Washington University in St. Louis
- - [https://hereandnext.wustl.edu](https://hereandnext.wustl.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home
- - [http://hr.wustl.edu](http://hr.wustl.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## ICCP 2020
- - [https://iccp2020.engr.wustl.edu](https://iccp2020.engr.wustl.edu)
- - date_published: 2020-09-26T09:57:20+00:00
-
- ## Home
- - [https://imse.wustl.edu](https://imse.wustl.edu)
- - date_published: 2024-08-06T17:10:14+00:00
-
- ## WashU Innovation - Home
- - [https://innovation.wustl.edu](https://innovation.wustl.edu)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Home  | Inside Sam Fox | Washington University in St. Louis
- - [https://insidesamfox.wustl.edu](https://insidesamfox.wustl.edu)
- - date_published: 2024-07-08T14:54:50+00:00
 

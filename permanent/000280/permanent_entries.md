@@ -1,3 +1,83 @@
+ ## German Energy Blog
+ - [http://www.germanenergyblog.de](http://www.germanenergyblog.de)
+ - date_published: 2024-12-31T09:50:46.566656+00:00
+
+ ## Home | German Films
+ - [https://watch.german-films.de](https://watch.german-films.de)
+ - date_published: 2024-09-16T08:04:37.417817+00:00
+
+ ## GRG | German Remix Group | Creators of the retro remix tribute albums...
+ - [https://germanremixgroup.de](https://germanremixgroup.de)
+ - date_published: 2024-05-07T19:09:37.069675+00:00
+
+ ## Your German tax return: finished in just 17 minutes! | Wundertax
+ - [https://germantaxes.de](https://germantaxes.de)
+ - date_published: 2024-12-04T08:45:05+00:00
+
+ ## GermanTechJobs
+ - [https://germantechjobs.de](https://germantechjobs.de)
+ - date_published: 2024-06-19T15:34:32+00:00
+
+ ## German U15 e.V.
+ - [https://german-u15.de](https://german-u15.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## German Water Partnership
+ - [https://germanwaterpartnership.de](https://germanwaterpartnership.de)
+ - date_published: 2024-09-28T23:25:50.663581+00:00
+
+ ## Dr. Gernot Starke
+ - [https://gernotstarke.de](https://gernotstarke.de)
+ - date_published: 2024-06-15T16:42:36.569341+00:00
+
+ ## Gesetze im Internet
+ - [https://www.gesetze-im-internet.de](https://www.gesetze-im-internet.de)
+ - date_published: 2024-06-25T11:08:27+00:00
+
+ ## Keine Gesichtserkennung zur Massenüberwachung
+ - [https://gesichtserkennung-stoppen.de](https://gesichtserkennung-stoppen.de)
+ - date_published: 2024-03-12T12:31:57+00:00
+
+ ## Gesichtsform bestimmen mit KI
+ - [https://www.gesichtsform-bestimmen.de](https://www.gesichtsform-bestimmen.de)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Gesicht Zeigen! | Für ein weltoffenes Deutschland
+ - [https://www.gesichtzeigen.de](https://www.gesichtzeigen.de)
+ - date_published: 2024-09-12T16:11:35.471803+00:00
+
+ ## Gesine Todt | Design und Schriftgestaltung
+ - [http://www.gesine-todt.de](http://www.gesine-todt.de)
+ - date_published: 2022-10-31T18:01:29+00:00
+
+ ## Ausbildung & Studium | Stadt Mannheim | Startseite
+ - [https://gestaltemannheim.de](https://gestaltemannheim.de)
+ - date_published: 2024-07-17T06:08:19.600865+00:00
+
+ ## Startseite
+ - [https://gesundheit-ernaehrung-fitness.de](https://gesundheit-ernaehrung-fitness.de)
+ - date_published: 2019-12-02T15:33:19+00:00
+
+ ## gesund leben - Die Messe für Gesundheit, Ernährung & Fitness
+ - [https://gesundleben-messe.de](https://gesundleben-messe.de)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Finde auf GetApp Deutschland die besten Anwendungen für dein Unternehmen
+ - [https://getapp.de](https://getapp.de)
+ - date_published: 2024-10-08T04:27:47.943124+00:00
+
+ ## GETEC Gruppe | Willkommen
+ - [https://www.getec.de](https://www.getec.de)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Angebotssoftware | Grip
+ - [https://getgrip.de](https://getgrip.de)
+ - date_published: 2024-10-31T06:47:21.556659+00:00
+
+ ## GETMORE Cashback - Bei jedem Einkauf Geld zurück
+ - [https://www.getmore.de](https://www.getmore.de)
+ - date_published: 2024-06-25T22:03:58.827916+00:00
+
  ## getshirts • Start
  - [https://getshirts.de](https://getshirts.de)
  - date_published: 2008-01-01T00:00:00+00:00
@@ -3928,85 +4008,4 @@
  ## IVW
  - [https://www.ivwonline.de](https://www.ivwonline.de)
  - date_published: 2024-07-24T04:32:25.759062+00:00
-
- ## Leibniz-Institut für Wirtschaftsforschung Halle (IWH)
- - [https://www.iwh-halle.de](https://www.iwh-halle.de)
- - date_published: 2024-12-10T20:04:04.338124+00:00
-
- ## IWL AG aus Ulm | Wir optimieren Prozesse in der Logistik
- - [https://www.iwl.de](https://www.iwl.de)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://make-it-tracking.iwmedien.de](https://make-it-tracking.iwmedien.de)
- - date_published: 2024-07-13T17:32:27.270700+00:00
-
- ## IWM Institutswebseiten
- - [https://www.iwm-tuebingen.de](https://www.iwm-tuebingen.de)
- - date_published: 2024-12-12T22:44:36.357148+00:00
-
- ## IWR Online Nachrichten - iwr.de
- - [https://iwr.de](https://iwr.de)
- - date_published: 2024-04-29T06:15:26.444868+00:00
-
- ## IWR: German Institute of the Renewable Energy Industry
- - [https://www.iwr-institut.de](https://www.iwr-institut.de)
- - date_published: 2024-07-24T07:13:14.515658+00:00
-
- ## Energie Pressecenter - Pressemitteilungen - IWR-Pressedienst - IWR-Pressedienst
- - [https://iwrpressedienst.de](https://iwrpressedienst.de)
- - date_published: 2023-12-30T11:20:43.474269+00:00
-
- ## heise online - IT-News, Nachrichten und Hintergründe | heise online
- - [https://1.f.ix.de](https://1.f.ix.de)
- - date_published: 2024-07-24T07:16:48.148687+00:00
-
- ## Startseite |  | Interkulturelles Zentrum Heidelberg
- - [http://www.iz-heidelberg.de](http://www.iz-heidelberg.de)
- - date_published: 2024-07-24T03:46:57.742662+00:00
-
- ## Die besten Immobilien-Stellenangebote und die meisten Jobs für die Immobilienwirtschaft bei IZ-Jobs.de
- - [https://www.iz-jobs.de](https://www.iz-jobs.de)
- - date_published: 2024-07-24T04:30:09.385339+00:00
-
- ## Interdisziplinäres Zentrum für Radikalisierungsprävention und Demokratieförderung e.V. - IZRD
- - [https://www.izrd.de](https://www.izrd.de)
- - date_published: 2024-09-12T16:06:12.282638+00:00
-
- ## Home - Leibniz Institute for Zoo and Wildlife Research
- - [http://www.izw-berlin.de](http://www.izw-berlin.de)
- - date_published: 2024-07-04T10:40:15.712180+00:00
-
- ## Articles
- - [https://android.izzysoft.de](https://android.izzysoft.de)
- - date_published: 2024-03-25T00:00:00+00:00
- - tags: ['android']
-
- ## IzzySoft Apt Repositories
- - [https://apt.izzysoft.de](https://apt.izzysoft.de)
- - date_published: 2016-03-27T00:00:00+00:00
-
- ## j6b72s site
- - [https://j6b72.de](https://j6b72.de)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Outdoor Bekleidung, Schuhe und Ausrüstung – JACK WOLFSKIN
- - [https://www.jack-wolfskin.de](https://www.jack-wolfskin.de)
- - date_published: 2024-07-14T12:16:22.724604+00:00
-
- ## Jade Hochschule
- - [https://www.jade-hs.de](https://www.jade-hs.de)
- - date_published: 2024-12-12T22:45:58.042322+00:00
-
- ## Circle - Sammelstelle für aktive Seiten
- - [https://circle.jadestaub.de](https://circle.jadestaub.de)
- - date_published: 2024-06-15T12:13:12.846506+00:00
-
- ## Holy Ashes - Trainiere Pets, löse Aufgaben und mehr!
- - [https://holyashes.jadestaub.de](https://holyashes.jadestaub.de)
- - date_published: 2024-09-18T02:35:14.263290+00:00
-
- ## Witch Heaven - Automatische Hexenschule
- - [https://witchheaven.jadestaub.de](https://witchheaven.jadestaub.de)
- - date_published: 2024-09-18T02:35:16.209727+00:00
 

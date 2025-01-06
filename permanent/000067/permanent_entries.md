@@ -1,3 +1,19 @@
+ ## CompCondMat
+ - [http://compcondmat.blogspot.com](http://compcondmat.blogspot.com)
+ - date_published: 2024-03-05T12:25:41+00:00
+
+ ## Competition Law Blog
+ - [http://competitionlawblog.blogspot.com](http://competitionlawblog.blogspot.com)
+ - date_published: 2024-03-19T10:26:09+00:00
+
+ ## @WavesBlog
+ - [https://competitionwave.blogspot.com](https://competitionwave.blogspot.com)
+ - date_published: 2024-12-11T00:27:40+00:00
+
+ ## Serendipity
+ - [http://complementary.blogspot.com](http://complementary.blogspot.com)
+ - date_published: 2024-09-27T18:12:34+00:00
+
  ## Completeist
  - [http://completeist.blogspot.com](http://completeist.blogspot.com)
  - date_published: 2024-12-18T02:39:42+00:00
@@ -3418,7 +3434,7 @@
  - date_published: 2024-11-08T15:02:26+00:00
 
  ## Direto Do Voo
- - [http://diretodovoo.blogspot.com](http://diretodovoo.blogspot.com)
+ - [https://diretodovoo.blogspot.com](https://diretodovoo.blogspot.com)
  - date_published: 2024-02-08T18:22:52+00:00
 
  ## DiRi-Miniaturen
@@ -3426,7 +3442,7 @@
  - date_published: 2024-10-28T21:46:30+00:00
 
  ## American Dirt
- - [http://dirtamericana.blogspot.com](http://dirtamericana.blogspot.com)
+ - [https://dirtamericana.blogspot.com](https://dirtamericana.blogspot.com)
  - date_published: 2024-05-18T07:44:40+00:00
 
  ## Dirt and Dogs
@@ -3438,7 +3454,7 @@
  - date_published: 2024-09-02T04:23:55+00:00
 
  ## un regard oblique
- - [http://dirtybeloved.blogspot.com](http://dirtybeloved.blogspot.com)
+ - [https://dirtybeloved.blogspot.com](https://dirtybeloved.blogspot.com)
  - date_published: 2024-03-20T07:42:38+00:00
 
  ## Secular, Scientific, Socialism, and every other dirty liberal word
@@ -3450,7 +3466,7 @@
  - date_published: 2024-10-26T22:12:25+00:00
 
  ## Dirty Running
- - [http://dirtyrunning.blogspot.com](http://dirtyrunning.blogspot.com)
+ - [https://dirtyrunning.blogspot.com](https://dirtyrunning.blogspot.com)
  - date_published: 2024-05-19T19:26:50+00:00
 
  ## Nie znaleziono bloga
@@ -3462,7 +3478,7 @@
  - date_published: 2024-09-24T23:54:04+00:00
 
  ## Disaffected and it Feels So Good
- - [http://disaffectedanditfeelssogood.blogspot.com](http://disaffectedanditfeelssogood.blogspot.com)
+ - [https://disaffectedanditfeelssogood.blogspot.com](https://disaffectedanditfeelssogood.blogspot.com)
  - date_published: 2024-06-28T18:00:06+00:00
 
  ## Disagreeable Me
@@ -3472,13 +3488,14 @@
  ## disarmamerica
  - [http://disarmamerica.blogspot.com](http://disarmamerica.blogspot.com)
  - date_published: 2024-02-20T09:19:24+00:00
+ - date_dead_since: 2025-01-05T01:24:58.219736+00:00
 
  ## Going Gently
  - [https://disasterfilm.blogspot.com](https://disasterfilm.blogspot.com)
  - date_published: 2024-10-29T20:06:41+00:00
 
  ## disaster magnet
- - [http://disastermagnet.blogspot.com](http://disastermagnet.blogspot.com)
+ - [https://disastermagnet.blogspot.com](https://disastermagnet.blogspot.com)
  - date_published: 2024-02-20T17:58:37+00:00
 
  ## HORAN Capital Advisors Blog
@@ -3486,7 +3503,7 @@
  - date_published: 2024-11-16T21:07:34+00:00
 
  ## DISCOURSE AND DRAGONS
- - [http://discourseanddragons.blogspot.com](http://discourseanddragons.blogspot.com)
+ - [https://discourseanddragons.blogspot.com](https://discourseanddragons.blogspot.com)
  - date_published: 2024-07-13T10:15:34+00:00
 
  ## Epictetus - Discourses on Wargaming
@@ -3494,23 +3511,23 @@
  - date_published: 2024-12-31T11:16:00+00:00
 
  ## Discovering Urbanism
- - [http://discoveringurbanism.blogspot.com](http://discoveringurbanism.blogspot.com)
+ - [https://discoveringurbanism.blogspot.com](https://discoveringurbanism.blogspot.com)
  - date_published: 2024-06-18T13:30:20+00:00
 
  ## Disco:Very
- - [http://discovery2005.blogspot.com](http://discovery2005.blogspot.com)
+ - [https://discovery2005.blogspot.com](https://discovery2005.blogspot.com)
  - date_published: 2024-10-21T05:12:33.154634+00:00
 
  ## The Population Health Blog
- - [http://diseasemanagementcareblog.blogspot.com](http://diseasemanagementcareblog.blogspot.com)
+ - [https://diseasemanagementcareblog.blogspot.com](https://diseasemanagementcareblog.blogspot.com)
  - date_published: 2024-06-16T06:01:43+00:00
 
  ## Disenfranchised of Buckingham
- - [http://disenfranchisedofbuckingham.blogspot.com](http://disenfranchisedofbuckingham.blogspot.com)
- - date_published: 2024-10-21T14:26:49.164669+00:00
+ - [https://disenfranchisedofbuckingham.blogspot.com](https://disenfranchisedofbuckingham.blogspot.com)
+ - date_published: 2024-10-17T14:34:36+00:00
 
  ## Disgusted Beyond Belief
- - [http://disgustedbeyondbelief.blogspot.com](http://disgustedbeyondbelief.blogspot.com)
+ - [https://disgustedbeyondbelief.blogspot.com](https://disgustedbeyondbelief.blogspot.com)
  - date_published: 2024-10-21T12:00:02.752501+00:00
 
  ## La Fumeria dei Pensieri Incompiuti
@@ -3530,7 +3547,7 @@
  - date_published: 2024-10-08T23:00:12+00:00
 
  ## Love Will Tear Us Apart
- - [http://disorderyan.blogspot.com](http://disorderyan.blogspot.com)
+ - [https://disorderyan.blogspot.com](https://disorderyan.blogspot.com)
  - date_published: 2024-08-31T11:33:08+00:00
 
  ## Dream of the Open Channel
@@ -3538,7 +3555,7 @@
  - date_published: 2024-04-23T06:10:01+00:00
 
  ## Dispatches from the Mess
- - [http://dispatchesfromthemess.blogspot.com](http://dispatchesfromthemess.blogspot.com)
+ - [https://dispatchesfromthemess.blogspot.com](https://dispatchesfromthemess.blogspot.com)
  - date_published: 2024-07-05T06:20:39+00:00
 
  ## Dispatches from the Rim
@@ -3550,7 +3567,7 @@
  - date_published: 2024-10-21T19:04:15.744304+00:00
 
  ## Dispatches From Turtle Island
- - [http://dispatchesfromturtleisland.blogspot.com](http://dispatchesfromturtleisland.blogspot.com)
+ - [https://dispatchesfromturtleisland.blogspot.com](https://dispatchesfromturtleisland.blogspot.com)
  - date_published: 2024-08-01T00:00:00+00:00
 
  ## D'Blog of 'Israeli
@@ -3562,15 +3579,15 @@
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Dissenting Dice
- - [http://dissentingdice.blogspot.com](http://dissentingdice.blogspot.com)
+ - [https://dissentingdice.blogspot.com](https://dissentingdice.blogspot.com)
  - date_published: 2024-09-15T03:11:52+00:00
 
  ## Distopus
- - [http://distopus.blogspot.com](http://distopus.blogspot.com)
+ - [https://distopus.blogspot.com](https://distopus.blogspot.com)
  - date_published: 2024-06-09T20:51:06+00:00
 
  ## Ramblings of a Distracted Wargamer
- - [http://distractedwargamer.blogspot.com](http://distractedwargamer.blogspot.com)
+ - [https://distractedwargamer.blogspot.com](https://distractedwargamer.blogspot.com)
  - date_published: 2024-02-19T17:22:33+00:00
 
  ## Living without a Fridge and Beyond
@@ -3582,27 +3599,27 @@
  - date_published: 2024-10-25T12:25:30+00:00
 
  ## Dittrick Museum
- - [http://dittrick.blogspot.com](http://dittrick.blogspot.com)
+ - [https://dittrick.blogspot.com](https://dittrick.blogspot.com)
  - date_published: 2024-05-16T11:32:02+00:00
 
  ## The Diva's Divine Days
- - [http://divadianes.blogspot.com](http://divadianes.blogspot.com)
+ - [https://divadianes.blogspot.com](https://divadianes.blogspot.com)
  - date_published: 2024-10-21T17:29:53.448697+00:00
 
  ## DivByZero.com
- - [http://divby0.blogspot.com](http://divby0.blogspot.com)
+ - [https://divby0.blogspot.com](https://divby0.blogspot.com)
  - date_published: 2024-03-13T00:50:45+00:00
 
  ## Dive into Worldbuilding
- - [http://dive-into-worldbuilding.blogspot.com](http://dive-into-worldbuilding.blogspot.com)
+ - [https://dive-into-worldbuilding.blogspot.com](https://dive-into-worldbuilding.blogspot.com)
  - date_published: 2024-06-26T12:04:40+00:00
 
  ## Blogger
- - [http://diversephilosophy.blogspot.com](http://diversephilosophy.blogspot.com)
+ - [https://diversephilosophy.blogspot.com](https://diversephilosophy.blogspot.com)
  - date_published: 2024-07-02T09:03:00.095638+00:00
 
  ## Diversions of the Groovy Kind
- - [http://diversionsofthegroovykind.blogspot.com](http://diversionsofthegroovykind.blogspot.com)
+ - [https://diversionsofthegroovykind.blogspot.com](https://diversionsofthegroovykind.blogspot.com)
  - date_published: 2024-09-05T09:47:16+00:00
 
  ## Diversity in Horror Fiction
@@ -3614,7 +3631,7 @@
  - date_published: 2024-11-12T20:29:42+00:00
 
  ## Dixie Pixie Project - A QRP Build
- - [http://dixiepixieproject.blogspot.com](http://dixiepixieproject.blogspot.com)
+ - [https://dixiepixieproject.blogspot.com](https://dixiepixieproject.blogspot.com)
  - date_published: 2024-04-26T06:21:33+00:00
 
  ## The Dixon Spot
@@ -3626,11 +3643,11 @@
  - date_published: 2024-12-20T10:11:42.909251+00:00
 
  ## Blogger
- - [http://djandstacieaton.blogspot.com](http://djandstacieaton.blogspot.com)
+ - [https://djandstacieaton.blogspot.com](https://djandstacieaton.blogspot.com)
  - date_published: 2024-07-20T21:15:53.567220+00:00
 
  ## djaxx studio
- - [http://djaxx.blogspot.com](http://djaxx.blogspot.com)
+ - [https://djaxx.blogspot.com](https://djaxx.blogspot.com)
  - date_published: 2024-07-04T06:29:54+00:00
 
  ## Dj Batman
@@ -3638,15 +3655,15 @@
  - date_published: 2024-12-13T02:33:41+00:00
 
  ## DJK's Fantasy World
- - [http://djksfantasyworld.blogspot.com](http://djksfantasyworld.blogspot.com)
+ - [https://djksfantasyworld.blogspot.com](https://djksfantasyworld.blogspot.com)
  - date_published: 2024-07-19T23:46:42+00:00
 
  ## "Between thought and expression" - Music, movies, curious news, and tech culture
- - [http://djmonstermo.blogspot.com](http://djmonstermo.blogspot.com)
+ - [https://djmonstermo.blogspot.com](https://djmonstermo.blogspot.com)
  - date_published: 2024-10-21T05:17:54.516742+00:00
 
  ## Fly me to the Moon
- - [http://djvader.blogspot.com](http://djvader.blogspot.com)
+ - [https://djvader.blogspot.com](https://djvader.blogspot.com)
  - date_published: 2024-08-15T16:19:04+00:00
 
  ## Tutorial dan Kursus IM
@@ -3654,11 +3671,11 @@
  - date_published: 2024-12-19T03:29:37+00:00
 
  ## Dla Ciebie Gramy-prezentuje Piotyr2
- - [http://dla-ciebie-gramy.blogspot.com](http://dla-ciebie-gramy.blogspot.com)
+ - [https://dla-ciebie-gramy.blogspot.com](https://dla-ciebie-gramy.blogspot.com)
  - date_published: 2024-06-08T14:42:20+00:00
 
  ## Drinking Liberally in Cincinnati
- - [http://dlcinci.blogspot.com](http://dlcinci.blogspot.com)
+ - [https://dlcinci.blogspot.com](https://dlcinci.blogspot.com)
  - date_published: 2024-03-25T06:10:32+00:00
 
  ## To Infinity and Beyond-VSF Space 1889
@@ -3674,7 +3691,7 @@
  - date_published: 2024-12-31T02:34:26+00:00
 
  ## Da Long Wayz Dezert Groop
- - [http://dlwdg.blogspot.com](http://dlwdg.blogspot.com)
+ - [https://dlwdg.blogspot.com](https://dlwdg.blogspot.com)
  - date_published: 2024-06-16T17:38:15+00:00
 
  ## DM3D RBR Evolution
@@ -3686,7 +3703,7 @@
  - date_published: 2024-10-24T07:35:43+00:00
 
  ## Theory Announcements
- - [http://dmatheorynet.blogspot.com](http://dmatheorynet.blogspot.com)
+ - [https://dmatheorynet.blogspot.com](https://dmatheorynet.blogspot.com)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## Dungeon Mastering by Candlelight
@@ -3698,7 +3715,7 @@
  - date_published: 2024-12-23T20:41:08.359021+00:00
 
  ## Pimps of Gore
- - [http://dmg541.blogspot.com](http://dmg541.blogspot.com)
+ - [https://dmg541.blogspot.com](https://dmg541.blogspot.com)
  - date_published: 2024-10-21T04:35:17.887769+00:00
 
  ## DM Noises
@@ -3722,7 +3739,7 @@
  - date_published: 2024-10-02T07:10:02+00:00
 
  ## Orcinus
- - [http://dneiwert.blogspot.com](http://dneiwert.blogspot.com)
+ - [https://dneiwert.blogspot.com](https://dneiwert.blogspot.com)
  - date_published: 2024-03-05T21:10:13+00:00
 
  ## dniM ruoY nepO
@@ -3730,7 +3747,7 @@
  - date_published: 2024-06-25T09:01:58+00:00
 
  ## Blogger
- - [http://d-notice.blogspot.com](http://d-notice.blogspot.com)
+ - [https://d-notice.blogspot.com](https://d-notice.blogspot.com)
  - date_published: 2024-06-18T11:08:05.603808+00:00
 
  ## Diary of a Devman
@@ -3750,15 +3767,16 @@
  - date_published: 2024-09-09T19:29:27+00:00
 
  ## Dobie Maxwell's 'Dented Can' Diary
- - [http://dobiemaxwell.blogspot.com](http://dobiemaxwell.blogspot.com)
+ - [https://dobiemaxwell.blogspot.com](https://dobiemaxwell.blogspot.com)
  - date_published: 2024-03-19T03:30:12+00:00
 
  ## Nie znaleziono bloga
  - [https://dobrakonsystencja.blogspot.com](https://dobrakonsystencja.blogspot.com)
  - date_published: 2024-09-04T11:43:34.373837+00:00
+ - date_dead_since: 2025-01-05T01:34:48.189011+00:00
 
  ## Doc 40
- - [http://doc40.blogspot.com](http://doc40.blogspot.com)
+ - [https://doc40.blogspot.com](https://doc40.blogspot.com)
  - date_published: 2013-07-15T16:53:00+00:00
 
  ## THE ADVENTURES OF MARILYN
@@ -3774,7 +3792,7 @@
  - date_published: 2024-11-01T00:11:39.113426+00:00
 
  ## Crawdads and Dragons
- - [http://docgrognard.blogspot.com](http://docgrognard.blogspot.com)
+ - [https://docgrognard.blogspot.com](https://docgrognard.blogspot.com)
  - date_published: 2024-05-24T09:35:23+00:00
 
  ## Lost Chord
@@ -3786,11 +3804,11 @@
  - date_published: 2024-12-31T14:01:32+00:00
 
  ## The Doc's Study
- - [http://docphobossdiary.blogspot.com](http://docphobossdiary.blogspot.com)
+ - [https://docphobossdiary.blogspot.com](https://docphobossdiary.blogspot.com)
  - date_published: 2024-07-04T06:02:44+00:00
 
  ## Doc's 'Art' of War
- - [http://docsartofwar.blogspot.com](http://docsartofwar.blogspot.com)
+ - [https://docsartofwar.blogspot.com](https://docsartofwar.blogspot.com)
  - date_published: 2024-10-17T21:03:33+00:00
 
  ## Savage Tales
@@ -3798,11 +3816,11 @@
  - date_published: 2024-11-06T03:05:05+00:00
 
  ## Doc Simians 15mm Hovel
- - [http://docsimian.blogspot.com](http://docsimian.blogspot.com)
+ - [https://docsimian.blogspot.com](https://docsimian.blogspot.com)
  - date_published: 2024-07-03T01:55:38+00:00
 
  ## Doc's Talk
- - [http://docstalk.blogspot.com](http://docstalk.blogspot.com)
+ - [https://docstalk.blogspot.com](https://docstalk.blogspot.com)
  - date_published: 2024-06-24T02:22:42+00:00
 
  ## Dr. C.
@@ -3814,11 +3832,11 @@
  - date_published: 2024-09-13T09:16:57+00:00
 
  ## Dalai's PACS Blog
- - [http://doctordalai.blogspot.com](http://doctordalai.blogspot.com)
+ - [https://doctordalai.blogspot.com](https://doctordalai.blogspot.com)
  - date_published: 2023-05-31T10:45:00+00:00
 
  ## Doctor Merkury's Lab
- - [http://doctormerkury.blogspot.com](http://doctormerkury.blogspot.com)
+ - [https://doctormerkury.blogspot.com](https://doctormerkury.blogspot.com)
  - date_published: 2024-07-17T20:47:21+00:00
 
  ## doctorphalanx
@@ -3830,11 +3848,11 @@
  - date_published: 2024-10-25T12:14:14+00:00
 
  ## The Terrible Zodin
- - [http://doctorwhottz.blogspot.com](http://doctorwhottz.blogspot.com)
+ - [https://doctorwhottz.blogspot.com](https://doctorwhottz.blogspot.com)
  - date_published: 2024-03-13T19:48:26+00:00
 
  ## A Shadow in the Warp
- - [http://doctor-zero.blogspot.com](http://doctor-zero.blogspot.com)
+ - [https://doctor-zero.blogspot.com](https://doctor-zero.blogspot.com)
  - date_published: 2024-09-04T11:34:12+00:00
 
  ## doctube
@@ -3842,19 +3860,19 @@
  - date_published: 2024-09-16T00:26:36+00:00
 
  ## Dodecad Ancestry Project
- - [http://dodecad.blogspot.com](http://dodecad.blogspot.com)
+ - [https://dodecad.blogspot.com](https://dodecad.blogspot.com)
  - date_published: 2024-10-19T06:32:52.887204+00:00
 
  ## Dodge Miniature Painting
- - [http://dodgeminiaturepainting.blogspot.com](http://dodgeminiaturepainting.blogspot.com)
+ - [https://dodgeminiaturepainting.blogspot.com](https://dodgeminiaturepainting.blogspot.com)
  - date_published: 2024-09-01T14:11:52+00:00
 
  ## DragDrop and Docking
- - [http://dodi-lcl-dragging.blogspot.com](http://dodi-lcl-dragging.blogspot.com)
+ - [https://dodi-lcl-dragging.blogspot.com](https://dodi-lcl-dragging.blogspot.com)
  - date_published: 2024-03-13T17:34:52+00:00
 
  ## Dodji on the wire
- - [http://dodji.blogspot.com](http://dodji.blogspot.com)
+ - [https://dodji.blogspot.com](https://dodji.blogspot.com)
  - date_published: 2024-04-11T13:16:43+00:00
 
  ## Dodo Dada Dado
@@ -3862,7 +3880,7 @@
  - date_published: 2024-09-22T18:00:37+00:00
 
  ## Thoughts in a Haystack
- - [http://dododreams.blogspot.com](http://dododreams.blogspot.com)
+ - [https://dododreams.blogspot.com](https://dododreams.blogspot.com)
  - date_published: 2024-06-19T03:58:06+00:00
 
  ## do erro autográfico
@@ -3870,23 +3888,23 @@
  - date_published: 2013-06-19T00:00:00+00:00
 
  ## Sensory Overload
- - [http://dogalien.blogspot.com](http://dogalien.blogspot.com)
+ - [https://dogalien.blogspot.com](https://dogalien.blogspot.com)
  - date_published: 2024-04-29T12:16:09+00:00
 
  ## Dog Day Games
- - [http://dogdaygames.blogspot.com](http://dogdaygames.blogspot.com)
+ - [https://dogdaygames.blogspot.com](https://dogdaygames.blogspot.com)
  - date_published: 2024-03-20T11:37:38+00:00
 
  ## Bats Left/Throws Right
- - [http://doghouseriley.blogspot.com](http://doghouseriley.blogspot.com)
+ - [https://doghouseriley.blogspot.com](https://doghouseriley.blogspot.com)
  - date_published: 2024-06-22T18:19:49+00:00
 
  ## The Dog Zombie
- - [http://dogzombie.blogspot.com](http://dogzombie.blogspot.com)
+ - [https://dogzombie.blogspot.com](https://dogzombie.blogspot.com)
  - date_published: 2024-10-19T06:33:14.023156+00:00
 
  ## Ed Dolan's Econ Blog
- - [http://dolanecon.blogspot.com](http://dolanecon.blogspot.com)
+ - [https://dolanecon.blogspot.com](https://dolanecon.blogspot.com)
  - date_published: 2024-06-15T18:18:22+00:00
 
  ## Dolcezze di mamma
@@ -3898,11 +3916,11 @@
  - date_published: 2024-11-06T02:54:36+00:00
 
  ## Dolphin Research Center
- - [http://dolphinresearchcenter.blogspot.com](http://dolphinresearchcenter.blogspot.com)
+ - [https://dolphinresearchcenter.blogspot.com](https://dolphinresearchcenter.blogspot.com)
  - date_published: 2004-02-26T00:00:00+00:00
 
  ## Domain Name / Nom de domaine !
- - [http://domaine.blogspot.com](http://domaine.blogspot.com)
+ - [https://domaine.blogspot.com](https://domaine.blogspot.com)
  - date_published: 2024-10-18T19:04:01.894027+00:00
 
  ## Domain of the Geek
@@ -3914,7 +3932,7 @@
  - date_published: 2024-12-21T23:31:30+00:00
 
  ## Full Length Mirror
- - [http://domesticcliffsnotes.blogspot.com](http://domesticcliffsnotes.blogspot.com)
+ - [https://domesticcliffsnotes.blogspot.com](https://domesticcliffsnotes.blogspot.com)
  - date_published: 2024-03-13T15:33:22+00:00
 
  ## LACAIO DA POESIA
@@ -3950,15 +3968,15 @@
  - date_published: 2024-02-12T00:00:00+00:00
 
  ## Object Pascal World
- - [http://donaldshimoda.blogspot.com](http://donaldshimoda.blogspot.com)
+ - [https://donaldshimoda.blogspot.com](https://donaldshimoda.blogspot.com)
  - date_published: 2024-04-10T14:23:43+00:00
 
  ## SHOOTING FROM THE HIP by Don Bendell
- - [http://donbendell.blogspot.com](http://donbendell.blogspot.com)
+ - [https://donbendell.blogspot.com](https://donbendell.blogspot.com)
  - date_published: 2024-03-12T23:58:42+00:00
 
  ## Don Colacho’s Aphorisms
- - [http://don-colacho.blogspot.com](http://don-colacho.blogspot.com)
+ - [https://don-colacho.blogspot.com](https://don-colacho.blogspot.com)
  - date_published: 2024-07-05T21:13:53+00:00
 
  ## Doni Creativi
@@ -3966,7 +3984,7 @@
  - date_published: 2024-09-02T10:43:42+00:00
 
  ## Donna Hole
- - [http://donnahole.blogspot.com](http://donnahole.blogspot.com)
+ - [https://donnahole.blogspot.com](https://donnahole.blogspot.com)
  - date_published: 2024-10-17T22:52:30.680977+00:00
 
  ## Donne nella Storia
@@ -3974,7 +3992,7 @@
  - date_published: 2024-11-01T11:11:30+00:00
 
  ## Land War in Asia
- - [http://donoghmccarthy.blogspot.com](http://donoghmccarthy.blogspot.com)
+ - [https://donoghmccarthy.blogspot.com](https://donoghmccarthy.blogspot.com)
  - date_published: 2024-07-03T03:09:07+00:00
 
  ## pyx
@@ -3988,20 +4006,4 @@
  ## Don't Ask Me ... I Don't Know
  - [http://dontaskmeidontknow.blogspot.com](http://dontaskmeidontknow.blogspot.com)
  - date_published: 2024-12-13T00:15:58+00:00
-
- ## Don't Call Me Ishmael
- - [http://dontcallmeishmael.blogspot.com](http://dontcallmeishmael.blogspot.com)
- - date_published: 2024-09-07T20:45:48+00:00
-
- ## Dontrustheruin Records
- - [http://dontrusttheruin.blogspot.com](http://dontrusttheruin.blogspot.com)
- - date_published: 2024-06-29T07:18:25+00:00
-
- ## Dad's Deadpool blog
- - [https://dont-sir-me.blogspot.com](https://dont-sir-me.blogspot.com)
- - date_published: 2024-06-29T12:04:03+00:00
-
- ## DON VIVO
- - [http://donvivo.blogspot.com](http://donvivo.blogspot.com)
- - date_published: 2024-07-12T19:15:26+00:00
 

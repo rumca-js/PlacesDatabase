@@ -1,3 +1,95 @@
+ ## Index of /
+ - [https://cipari.pramukacilacap.or.id](https://cipari.pramukacilacap.or.id)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## Index of /
+ - [https://dayeuhluhur.pramukacilacap.or.id](https://dayeuhluhur.pramukacilacap.or.id)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## Index of /
+ - [https://gandrungmangu.pramukacilacap.or.id](https://gandrungmangu.pramukacilacap.or.id)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## SIMPUL RANTING | Sistem Informasi dan Publikasi Kwartir Ranting Karangpucung
+ - [https://karangpucung.pramukacilacap.or.id](https://karangpucung.pramukacilacap.or.id)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Index of /
+ - [https://kedungreja.pramukacilacap.or.id](https://kedungreja.pramukacilacap.or.id)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Index of /
+ - [https://kesugihan.pramukacilacap.or.id](https://kesugihan.pramukacilacap.or.id)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Index of /
+ - [https://kroya.pramukacilacap.or.id](https://kroya.pramukacilacap.or.id)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Index of /
+ - [https://majenang.pramukacilacap.or.id](https://majenang.pramukacilacap.or.id)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## Index of /
+ - [https://nusawungu.pramukacilacap.or.id](https://nusawungu.pramukacilacap.or.id)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Index of /
+ - [https://patimuan.pramukacilacap.or.id](https://patimuan.pramukacilacap.or.id)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## MICROSITE
+ - [https://pramukacilacap.or.id](https://pramukacilacap.or.id)
+ - date_published: 2024-06-12T02:35:10.917956+00:00
+
+ ## SIMPUL RANTING | Sistem Informasi dan Publikasi Kwartir Ranting Sampang
+ - [https://sampang.pramukacilacap.or.id](https://sampang.pramukacilacap.or.id)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Index of /
+ - [https://sidareja.pramukacilacap.or.id](https://sidareja.pramukacilacap.or.id)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Index of /
+ - [https://wanareja.pramukacilacap.or.id](https://wanareja.pramukacilacap.or.id)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## Wikimedia Indonesia
+ - [https://wikimedia.or.id](https://wikimedia.or.id)
+ - date_published: 2024-07-10T21:51:03+00:00
+
+ ## Join now & support YKAN!
+ - [https://donation.ykan.or.id](https://donation.ykan.or.id)
+ - date_published: 2024-07-08T09:01:43.828305+00:00
+
+ ## Yayasan Konservasi Alam Nusantara (YKAN)
+ - [https://ykan.or.id](https://ykan.or.id)
+ - date_published: 2024-05-08T10:42:48.586524+00:00
+
+ ## Al Wafi Islamic Boarding School
+ - [https://al-wafi.sch.id](https://al-wafi.sch.id)
+ - date_published: 2024-10-07T04:19:31+00:00
+
+ ## MA Negeri Sampang
+ - [https://manspg.sch.id](https://manspg.sch.id)
+ - date_published: 2024-12-23T12:06:08.277380+00:00
+
+ ## MBS Yogyakarta – Pondok Pesantren Modern Muhammadiyah Boarding School
+ - [https://mbs.sch.id](https://mbs.sch.id)
+ - date_published: 2024-09-10T08:47:46+00:00
+
+ ## new.mbs.sch.id
+ - [https://new.mbs.sch.id](https://new.mbs.sch.id)
+ - date_published: 2024-06-19T00:36:00+00:00
+
+ ## MIS WALI SONGO
+ - [https://minuwalisongo.sch.id](https://minuwalisongo.sch.id)
+ - date_published: 2024-06-16T15:28:37.719410+00:00
+
+ ## Situs Resmi Pondok Pesantren Ihya Ulumiddin Cipondoh Kota Tangerang
+ - [https://ppihyaulumiddin.sch.id](https://ppihyaulumiddin.sch.id)
+ - date_published: 2024-10-11T12:09:08.030724+00:00
+
  ## Heedmata Tour
  - [https://scm.sch.id](https://scm.sch.id)
  - date_published: 2024-10-11T11:27:53.897021+00:00
@@ -1072,15 +1164,15 @@
  - date_published: 2024-10-16T15:58:55.750580+00:00
 
  ## The Journal FactCheck Knowledge Bank
- - [https://www.factchecking.ie](https://www.factchecking.ie)
+ - [https://factchecking.ie](https://factchecking.ie)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## Fáilte Ireland | National Tourism Development Authority
- - [http://www.failteireland.ie](http://www.failteireland.ie)
+ - [https://failteireland.ie](https://failteireland.ie)
  - date_published: 2024-07-13T19:47:08.677577+00:00
 
  ## Website | eCommerce | Reputation | Local Search & Rank - fcrmedia.ie
- - [http://www.fcrmedia.ie](http://www.fcrmedia.ie)
+ - [https://fcrmedia.ie](https://fcrmedia.ie)
  - date_published: 2024-06-20T21:30:00.304353+00:00
 
  ## Fenero – Multi-Award Winning Experts in Contracting & Personal Tax Solutions
@@ -1088,15 +1180,15 @@
  - date_published: 2024-12-25T18:38:39.438474+00:00
 
  ## Fianna Fáil
- - [http://www.fiannafail.ie](http://www.fiannafail.ie)
+ - [https://fiannafail.ie](https://fiannafail.ie)
  - date_published: 2024-10-21T17:05:43.317261+00:00
 
  ## Fiat Ireland Official Website | New & Used Cars, Vans & Motability
- - [https://www.fiat.ie](https://www.fiat.ie)
+ - [https://fiat.ie](https://fiat.ie)
  - date_published: 2024-06-17T16:09:59+00:00
 
  ## Fidelity Ireland
- - [http://www.fidelity.ie](http://www.fidelity.ie)
+ - [https://fidelity.ie](https://fidelity.ie)
  - date_published: 2024-10-27T18:01:13.085375+00:00
 
  ## Home | Award-Winning Workplace | Fidelity Investments Ireland
@@ -1108,23 +1200,23 @@
  - date_published: 2024-05-17T11:24:12+00:00
 
  ## Fleadh Cheoil na hÉireann 2024 | Loch Garman | Wexford
- - [http://www.fleadhcheoil.ie](http://www.fleadhcheoil.ie)
+ - [https://fleadhcheoil.ie](https://fleadhcheoil.ie)
  - date_published: 2024-08-08T03:21:49.263258+00:00
 
  ## Bus travel through Ireland | FlixBus
- - [https://www.flixbus.ie](https://www.flixbus.ie)
+ - [https://flixbus.ie](https://flixbus.ie)
  - date_published: 2024-09-24T08:28:55+00:00
 
  ## Website Design & eCommerce Agency in Ireland | FloWeb Design
- - [https://www.flowebdesign.ie](https://www.flowebdesign.ie)
+ - [https://flowebdesign.ie](https://flowebdesign.ie)
  - date_published: 2024-10-19T19:50:23.789843+00:00
 
  ## Focus Ireland | Challenging homelessness. Changing lives.
- - [https://www.focusireland.ie](https://www.focusireland.ie)
+ - [https://focusireland.ie](https://focusireland.ie)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## Foras na Gaeilge
- - [http://forasnagaeilge.ie](http://forasnagaeilge.ie)
+ - [https://forasnagaeilge.ie](https://forasnagaeilge.ie)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Running Costs | Ford IE
@@ -1132,7 +1224,7 @@
  - date_published: 2024-10-29T21:30:53.116233+00:00
 
  ## The Official Homepage of Ford Ireland | Ford IE
- - [https://www.ford.ie](https://www.ford.ie)
+ - [https://ford.ie](https://ford.ie)
  - date_published: 2024-06-19T07:18:09+00:00
 
  ## Ford Pro™ | Commercial Fleet Vehicles, Services & Telematics
@@ -1140,19 +1232,19 @@
  - date_published: 2024-10-29T21:50:52.204675+00:00
 
  ## Forest Fest Music & Arts Festival 2024
- - [http://forestfest.ie](http://forestfest.ie)
+ - [https://forestfest.ie](https://forestfest.ie)
  - date_published: 2022-11-23T13:32:32+00:00
 
  ## FranklinCovey: The World's Most Trusted Leadership Company
- - [https://www.franklincovey.ie](https://www.franklincovey.ie)
+ - [http://franklincovey.ie](http://franklincovey.ie)
  - date_published: 2024-04-26T00:00:00+00:00
 
  ## Welcome to Opioid, USA
- - [https://www.freedommag.ie](https://www.freedommag.ie)
+ - [https://freedommag.ie](https://freedommag.ie)
  - date_published: 0001-01-01T00:00:00+00:00
 
  ## Hire Freelancers & Find Freelance Jobs Online
- - [https://www.freelancer.ie](https://www.freelancer.ie)
+ - [https://freelancer.ie](https://freelancer.ie)
  - date_published: 2024-06-16T12:00:58.936248+00:00
 
  ## Digital Agency | A Digital Marketing & UX Design Agency based in Dublin
@@ -1160,7 +1252,7 @@
  - date_published: 2024-03-07T00:00:00+00:00
 
  ## Home | Food Safety Authority of Ireland
- - [https://www.fsai.ie](https://www.fsai.ie)
+ - [https://fsai.ie](https://fsai.ie)
  - date_published: 2024-07-13T17:42:41.751699+00:00
 
  ## Home | Galway Arts Centre
@@ -1168,7 +1260,7 @@
  - date_published: 2024-03-31T00:00:00+00:00
 
  ## GalwayCity - Home
- - [https://www.galwaycity.ie](https://www.galwaycity.ie)
+ - [https://galwaycity.ie](https://galwaycity.ie)
  - date_published: 2024-08-11T08:26:51.714830+00:00
 
  ## Home
@@ -1180,11 +1272,11 @@
  - date_published: 2024-07-26T19:08:48.183279+00:00
 
  ## Geograph Ireland - photograph every grid square!
- - [https://www.geograph.ie](https://www.geograph.ie)
+ - [https://geograph.ie](https://geograph.ie)
  - date_published: 2024-08-07T23:19:41.394399+00:00
 
  ## Discover the Best Apps on GetApp Ireland to Grow Your Business
- - [https://www.getapp.ie](https://www.getapp.ie)
+ - [https://getapp.ie](https://getapp.ie)
  - date_published: 2024-08-08T18:07:09.360662+00:00
 
  ## Home - GetOnline Pro LTD.
@@ -1192,11 +1284,11 @@
  - date_published: 2021-06-09T00:00:00+00:00
 
  ## Royalty-Free Stock Photos, Creative Images & Vectors | News, Fashion, and Entertainment imagery - Getty Images
- - [https://www.gettyimages.ie](https://www.gettyimages.ie)
+ - [https://gettyimages.ie](https://gettyimages.ie)
  - date_published: 2024-06-20T01:49:05.450464+00:00
 
  ## Galway International Arts Festival 15-28 July 2024 | Ireland | Galway International Arts Festival
- - [http://giaf.ie](http://giaf.ie)
+ - [https://giaf.ie](https://giaf.ie)
  - date_published: 2024-07-12T10:37:20+00:00
 
  ## Charles Gillespie - Monaco, Monaco | Professional Profile | LinkedIn
@@ -1204,11 +1296,11 @@
  - date_published: 2024-07-13T04:15:24.162470+00:00
 
  ## GIY – Grow It Yourself - GIY Ireland Ltd
- - [http://giy.ie](http://giy.ie)
+ - [https://giy.ie](https://giy.ie)
  - date_published: 2021-01-08T10:48:02+00:00
 
  ## Glassdoor | Job Search & Career Community
- - [https://glassdoor.ie](https://glassdoor.ie)
+ - [http://glassdoor.ie](http://glassdoor.ie)
  - date_published: 2024-05-10T06:02:48.481254+00:00
 
  ## CARITOGEL ™ Situs Toto Togel Online Terpercaya Juga Toto Slot Online Terbesar Di Indonesia
@@ -1224,20 +1316,20 @@
  - date_published: 2024-05-10T05:29:20.875477+00:00
 
  ## Buy Gold Ireland | Silver & Gold Bullion | Storage or Delivery - GoldCore
- - [https://www.goldcore.ie](https://www.goldcore.ie)
+ - [https://goldcore.ie](https://goldcore.ie)
  - date_published: 2024-07-01T09:03:26.924330+00:00
 
  ## Gomibo.ie - All Phones and Accessories
- - [https://www.gomibo.ie](https://www.gomibo.ie)
+ - [https://gomibo.ie](https://gomibo.ie)
  - date_published: 2024-10-21T22:25:43.770076+00:00
+
+ ## Google
+ - [https://google.ie](https://google.ie)
+ - date_published: 2024-06-21T22:25:44.141390+00:00
 
  ## Grafika Google
  - [https://images.google.ie](https://images.google.ie)
  - date_published: 2024-07-20T07:38:23.936451+00:00
-
- ## Google
- - [https://www.google.ie](https://www.google.ie)
- - date_published: 2024-06-21T22:25:44.141390+00:00
 
  ## Great Place to Work® | Building and Recognising Great Cultures
  - [https://greatplacetowork.ie](https://greatplacetowork.ie)
@@ -1248,23 +1340,23 @@
  - date_published: 2014-04-24T11:44:00+00:00
 
  ## Grogan Burner Services
- - [https://www.groganburners.ie](https://www.groganburners.ie)
+ - [https://groganburners.ie](https://groganburners.ie)
  - date_published: 2024-08-08T15:08:22.676412+00:00
 
  ## Grünenthal Pharma Ltd. Ireland  Home
- - [https://www.grunenthal.ie](https://www.grunenthal.ie)
+ - [https://grunenthal.ie](https://grunenthal.ie)
  - date_published: 0001-06-20T00:00:00+00:00
 
  ## Geological Survey Ireland
- - [https://www.gsi.ie](https://www.gsi.ie)
+ - [https://gsi.ie](https://gsi.ie)
  - date_published: 2024-07-29T00:00:00+00:00
 
  ## Brain and Computation Lab, Hamilton Institute, National University of Ireland Maynooth
- - [http://www.bcl.hamilton.ie](http://www.bcl.hamilton.ie)
+ - [https://bcl.hamilton.ie](https://bcl.hamilton.ie)
  - date_published: 2015-10-30T08:50:26+00:00
 
  ## haystack.ie | Ireland's farming marketplace
- - [https://www.haystack.ie](https://www.haystack.ie)
+ - [https://haystack.ie](https://haystack.ie)
  - date_published: 2024-03-20T00:00:00+00:00
 
  ## Higher Education Authority
@@ -1284,15 +1376,15 @@
  - date_published: 2015-05-13T00:00:00+00:00
 
  ## HelloFresh Ireland: #1 Recipe Box Delivery Service
- - [https://www.hellofresh.ie](https://www.hellofresh.ie)
+ - [https://hellofresh.ie](https://hellofresh.ie)
  - date_published: 2024-06-18T17:18:07.782352+00:00
 
  ## Home - Her.ie
- - [https://her.ie](https://her.ie)
+ - [http://her.ie](http://her.ie)
  - date_published: 2024-06-04T00:00:00+00:00
 
  ## Homepage - HerFamily
- - [https://www.herfamily.ie](https://www.herfamily.ie)
+ - [http://herfamily.ie](http://herfamily.ie)
  - date_published: 2024-05-02T11:59:54.959274+00:00
 
  ## The Heritage Council
@@ -1300,23 +1392,23 @@
  - date_published: 2024-10-18T15:54:44.056944+00:00
 
  ## Homepage
- - [https://www.hilti.ie](https://www.hilti.ie)
+ - [https://hilti.ie](https://hilti.ie)
  - date_published: 2024-06-20T07:26:47.303263+00:00
 
  ## Let's find your wedding team
- - [https://www.hitched.ie](https://www.hitched.ie)
+ - [https://hitched.ie](https://hitched.ie)
  - date_published: 2024-07-13T19:44:35.229488+00:00
 
  ## The Home of Innovation - Home of Innovation
- - [https://www.homeofinnovation.ie](https://www.homeofinnovation.ie)
+ - [https://homeofinnovation.ie](https://homeofinnovation.ie)
  - date_published: 2024-09-04T00:00:00+00:00
 
  ## Home | Homesense
- - [https://www.homesense.ie](https://www.homesense.ie)
+ - [https://homesense.ie](https://homesense.ie)
  - date_published: 2024-09-20T09:59:02+00:00
 
  ## Hometree
- - [https://www.hometree.ie](https://www.hometree.ie)
+ - [https://hometree.ie](https://hometree.ie)
  - date_published: 2024-07-10T08:11:18.593047+00:00
 
  ## RxDB - JavaScript Database | RxDB - JavaScript Database
@@ -1324,19 +1416,19 @@
  - date_published: 2024-06-03T11:18:55.262628+00:00
 
  ## Small Business Web Hosting | Best Web Hosting | HostPapa
- - [https://www.hostpapa.ie](https://www.hostpapa.ie)
+ - [http://hostpapa.ie](http://hostpapa.ie)
  - date_published: 2024-07-24T19:07:03+00:00
 
  ## Hotfrog - Get found online
- - [https://www.hotfrog.ie](https://www.hotfrog.ie)
+ - [https://hotfrog.ie](https://hotfrog.ie)
  - date_published: 2024-06-29T16:52:05.013675+00:00
 
  ## Home
- - [https://www.hse.ie](https://www.hse.ie)
+ - [https://hse.ie](https://hse.ie)
  - date_published: 2024-06-28T12:10:59.958397+00:00
 
  ## Hand tools for professional craftsmen | Hultafors Tools
- - [http://www.hultafors.ie](http://www.hultafors.ie)
+ - [https://hultafors.ie](https://hultafors.ie)
  - date_published: 2024-07-01T08:45:06.763111+00:00
 
  ## Human Rights Ireland - Promoting Human Rights Within Ireland
@@ -1348,11 +1440,11 @@
  - date_published: 2024-08-18T10:52:39+00:00
 
  ## IAEMO.IE | Inter-Agency Emergency Management
- - [http://www.iaemo.ie](http://www.iaemo.ie)
+ - [https://www.iaemo.ie](https://www.iaemo.ie)
  - date_published: 2024-06-20T21:30:13.466891+00:00
 
  ## Ibec - For Irish Business
- - [https://www.ibec.ie](https://www.ibec.ie)
+ - [https://ibec.ie](https://ibec.ie)
  - date_published: 2024-08-05T23:26:35.075274+00:00
 
  ## Home – iCAN Irish Children's Arthritis Network
@@ -1364,12 +1456,13 @@
  - date_published: 2023-10-25T19:28:50.484106+00:00
 
  ## international council on monuments & sites  – Irish Heritage
- - [https://www.icomos.ie](https://www.icomos.ie)
+ - [https://icomos.ie](https://icomos.ie)
  - date_published: 2024-07-09T14:23:59.236720+00:00
 
  ## National Scratch Competition | Irish Computer Society
  - [https://scratch.ics.ie](https://scratch.ics.ie)
  - date_published: 2023-11-09T15:56:54+00:00
+ - date_dead_since: 2025-01-05T21:44:54.080116+00:00
 
  ## Home - IEN
  - [https://ien.ie](https://ien.ie)
@@ -1384,7 +1477,7 @@
  - date_published: 2024-05-11T07:23:00.164730+00:00
 
  ## energy chains, polymer bearings, flexible cable, & linear slides
- - [https://www.igus.ie](https://www.igus.ie)
+ - [https://igus.ie](https://igus.ie)
  - date_published: 2024-08-06T23:13:15.410940+00:00
 
  ## The Irish Human Rights and Equality Commission
@@ -1400,7 +1493,7 @@
  - date_published: 2024-12-14T12:45:47.815320+00:00
 
  ## Irish Medical Times
- - [https://www.imt.ie](https://www.imt.ie)
+ - [https://imt.ie](https://imt.ie)
  - date_published: 2024-10-15T23:01:10.666863+00:00
 
  ## Home
@@ -1429,15 +1522,15 @@
  - date_published: 2024-08-19T03:23:36.827121+00:00
 
  ## The Inkwell Group
- - [http://www.inkwellwriters.ie](http://www.inkwellwriters.ie)
+ - [https://inkwellwriters.ie](https://inkwellwriters.ie)
  - date_published: 2024-08-18T12:51:38.423316+00:00
 
  ## Home | Interactive Brokers Ireland
- - [https://www.interactivebrokers.ie](https://www.interactivebrokers.ie)
+ - [https://interactivebrokers.ie](https://interactivebrokers.ie)
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## Interflora | Flower Delivery | Order Flowers Online
- - [https://www.interflora.ie](https://www.interflora.ie)
+ - [https://interflora.ie](https://interflora.ie)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## Homepage | Intesa Sanpaolo Bank Ireland
@@ -1449,15 +1542,15 @@
  - date_published: 2023-10-25T19:29:12.803143+00:00
 
  ## IPA - Institute of Public Administration
- - [http://www.ipa.ie](http://www.ipa.ie)
+ - [https://ipa.ie](https://ipa.ie)
  - date_published: 2024-06-20T21:31:41.717673+00:00
 
  ## Home
- - [https://www.irishacademicpress.ie](https://www.irishacademicpress.ie)
+ - [https://irishacademicpress.ie](https://irishacademicpress.ie)
  - date_published: 2024-07-22T04:53:21.487611+00:00
 
  ## The Irish Economy
- - [http://www.irisheconomy.ie](http://www.irisheconomy.ie)
+ - [https://irisheconomy.ie](https://irisheconomy.ie)
  - date_published: 2024-07-03T22:08:17.651642+00:00
 
  ## The Irish History Show Podcast
@@ -1465,7 +1558,7 @@
  - date_published: 2024-09-13T19:33:22.544979+00:00
 
  ## Irish Media Agency: Your Trusted Web and Digital Partner
- - [https://www.irishmediaagency.ie](https://www.irishmediaagency.ie)
+ - [https://irishmediaagency.ie](https://irishmediaagency.ie)
  - date_published: 2024-01-24T00:00:00+00:00
 
  ## Ireland's Best Discount Codes &amp; Vouchers - June 2024
@@ -1473,7 +1566,7 @@
  - date_published: 2024-06-18T09:06:38.530593+00:00
 
  ## Irish Mirror: the latest news, showbiz, football and sport
- - [https://www.irishmirror.ie](https://www.irishmirror.ie)
+ - [https://irishmirror.ie](https://irishmirror.ie)
  - date_published: 2024-05-02T12:09:31.365440+00:00
 
  ## Irish Statute Book
@@ -1481,15 +1574,15 @@
  - date_published: 2024-05-12T05:53:13.116265+00:00
 
  ## Home
- - [https://irishtechnews.ie](https://irishtechnews.ie)
+ - [http://irishtechnews.ie](http://irishtechnews.ie)
  - date_published: 2015-08-01T13:53:05+00:00
 
  ## Irish World Academy – Centre of academic and performance excellence housed at the University of Limerick, Ireland.
- - [https://www.irishworldacademy.ie](https://www.irishworldacademy.ie)
+ - [http://irishworldacademy.ie](http://irishworldacademy.ie)
  - date_published: 2024-08-18T08:39:20.801351+00:00
 
  ## Iris Oifigiúil - Irish State News, featuring statutory announcments, public notices & official appointments.
- - [http://www.irisoifigiuil.ie](http://www.irisoifigiuil.ie)
+ - [https://irisoifigiuil.ie](https://irisoifigiuil.ie)
  - date_published: 2024-07-15T09:31:35+00:00
 
  ## Home - Iriss
@@ -1501,23 +1594,23 @@
  - date_published: 2024-07-24T00:00:00+00:00
 
  ## ISR
- - [https://www.isr.ie](https://www.isr.ie)
+ - [https://isr.ie](https://isr.ie)
  - date_published: 2024-06-21T14:24:37+00:00
 
  ## Homepage - ITAA
- - [http://itaa.ie](http://itaa.ie)
+ - [https://itaa.ie](https://itaa.ie)
  - date_published: 2024-07-15T04:53:08.124250+00:00
 
  ## Irish Universities Association | The Voice of Irish Universities
- - [https://www.iua.ie](https://www.iua.ie)
+ - [https://iua.ie](https://iua.ie)
  - date_published: 2024-05-23T00:00:00+00:00
 
  ## iWish
- - [http://www.iwish.ie](http://www.iwish.ie)
+ - [https://iwish.ie](https://iwish.ie)
  - date_published: 2024-06-20T21:30:27.816964+00:00
 
  ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
- - [https://www.jack-wolfskin.ie](https://www.jack-wolfskin.ie)
+ - [https://jack-wolfskin.ie](https://jack-wolfskin.ie)
  - date_published: 2024-07-14T12:15:36.465736+00:00
 
  ## ITJamie - ramblings and stuff
@@ -1529,7 +1622,7 @@
  - date_published: 2024-10-21T02:22:13.246663+00:00
 
  ## home - Jeep Ireland
- - [https://www.jeep.ie](https://www.jeep.ie)
+ - [https://jeep.ie](https://jeep.ie)
  - date_published: 2015-07-12T14:50:38+00:00
 
  ## Real Estate Advisors & Professionals | JLL Ireland
@@ -1541,11 +1634,11 @@
  - date_published: 2024-07-09T07:02:09.698939+00:00
 
  ## Homepage
- - [https://www.joe.ie](https://www.joe.ie)
+ - [https://joe.ie](https://joe.ie)
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## Tí Joe Wattys Bar & Seafood Restaurant | Aran Islands | Galway, Ireland
- - [https://www.joewattys.ie](https://www.joewattys.ie)
+ - [https://joewattys.ie](https://joewattys.ie)
  - date_published: 2024-06-22T20:08:21.436412+00:00
 
  ## Johnnie Ingram
@@ -1569,11 +1662,11 @@
  - date_published: 2024-12-22T05:09:44+00:00
 
  ## Buy Books Online, Kennys Bookshop Ireland
- - [https://www.kennys.ie](https://www.kennys.ie)
+ - [https://kennys.ie](https://kennys.ie)
  - date_published: 2024-06-21T12:55:06+00:00
 
  ## Kez.ie
- - [https://www.kez.ie](https://www.kez.ie)
+ - [https://kez.ie](https://kez.ie)
  - date_published: 2024-08-18T07:06:17.375095+00:00
 
  ## Kildare Nationalist
@@ -1583,13 +1676,14 @@
  ## DND Store – DND Dice
  - [https://develop3.kode88hosting.ie](https://develop3.kode88hosting.ie)
  - date_published: 2024-09-12T19:31:26.733944+00:00
+ - date_dead_since: 2025-01-05T21:51:39.233492+00:00
 
  ## Web Design Kooba | Digital Agency | Dublin & Berlin
- - [https://www.kooba.ie](https://www.kooba.ie)
+ - [https://kooba.ie](https://kooba.ie)
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover Ireland
- - [https://www.landrover.ie](https://www.landrover.ie)
+ - [https://landrover.ie](https://landrover.ie)
  - date_published: 2024-07-09T17:13:53.695257+00:00
 
  ## Laptops Direct - Laptops | PCs | Monitors | Tablets | Phones
@@ -1600,17 +1694,21 @@
  - [https://laur.ie](https://laur.ie)
  - date_published: 2024-07-13T04:14:51.995051+00:00
 
+ ## Welcome to the Law Reform Commission of Ireland
+ - [https://lawreform.ie](https://lawreform.ie)
+ - date_published: 2024-07-15T09:56:25.158119+00:00
+
  ## Revised Acts
  - [https://revisedacts.lawreform.ie](https://revisedacts.lawreform.ie)
  - date_published: 2024-06-22T13:04:25.023151+00:00
 
- ## Welcome to the Law Reform Commission of Ireland
- - [http://www.lawreform.ie](http://www.lawreform.ie)
- - date_published: 2024-07-15T09:56:25.158119+00:00
-
  ## Home - LCi Lean Construction Ireland
  - [https://leanconstructionireland.ie](https://leanconstructionireland.ie)
  - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Irish Left Archive
+ - [https://leftarchive.ie](https://leftarchive.ie)
+ - date_published: 2024-07-18T05:33:56+00:00
 
  ## Irish Left Archive Podcast (@ILAPodcast) • Activity
  - [https://podcast.leftarchive.ie](https://podcast.leftarchive.ie)
@@ -1624,10 +1722,6 @@
  - [https://u.leftarchive.ie](https://u.leftarchive.ie)
  - date_published: 2024-07-18T05:33:57.055357+00:00
 
- ## Irish Left Archive
- - [https://www.leftarchive.ie](https://www.leftarchive.ie)
- - date_published: 2024-07-18T05:33:56+00:00
-
  ## Handcrafted Irish Design | The Leitrim Design House
  - [https://leitrimdesignhouse.ie](https://leitrimdesignhouse.ie)
  - date_published: 2024-07-10T08:10:53.781506+00:00
@@ -1637,7 +1731,7 @@
  - date_published: 2014-09-22T10:00:09+00:00
 
  ## Lero | Science Foundation Ireland Research Centre for Software
- - [http://lero.ie](http://lero.ie)
+ - [https://lero.ie](https://lero.ie)
  - date_published: 2024-07-20T12:47:22+00:00
 
  ## Local Government Management Agency
@@ -1645,7 +1739,7 @@
  - date_published: 2024-06-20T21:31:23.311771+00:00
 
  ## LAI/CILIP Ireland Joint Annual Virtual Conference 2023 – Representing libraries and librarianship in Ireland
- - [http://conference.libraryassociation.ie](http://conference.libraryassociation.ie)
+ - [https://conference.libraryassociation.ie](https://conference.libraryassociation.ie)
  - date_published: 2024-08-18T04:58:27.890469+00:00
 
  ## Library Association Of Ireland – Representing libraries and librarianship in Ireland
@@ -1653,15 +1747,15 @@
  - date_published: 2024-01-09T03:31:54.503255+00:00
 
  ## Library Week Ireland – Libraries are for Everyone
- - [http://www.libraryirelandweek.ie](http://www.libraryirelandweek.ie)
+ - [https://libraryirelandweek.ie](https://libraryirelandweek.ie)
  - date_published: 2024-08-18T04:58:32.079925+00:00
 
  ## ILAS
- - [https://www.licences.ie](https://www.licences.ie)
+ - [https://licences.ie](https://licences.ie)
  - date_published: 2015-12-07T09:50:59+00:00
 
  ## Supermarkets - Special Offers, Super Savers & More - Lidl Ireland - www.lidl.ie
- - [https://www.lidl.ie](https://www.lidl.ie)
+ - [https://lidl.ie](https://lidl.ie)
  - date_published: 2024-06-25T19:02:48.333934+00:00
 
  ## Front Page | Film in Limerick
@@ -1673,27 +1767,27 @@
  - date_published: 2024-05-07T18:49:17.139109+00:00
 
  ## Welcome | Mount Saint Lawrence Cemetery
- - [http://mountsaintlawrence.limerick.ie](http://mountsaintlawrence.limerick.ie)
+ - [https://mountsaintlawrence.limerick.ie](https://mountsaintlawrence.limerick.ie)
  - date_published: 2024-07-01T08:31:49.723373+00:00
 
  ## Limerick Lace – The Past, the Present and the Future of Limerick lace
- - [http://limericklace.ie](http://limericklace.ie)
+ - [https://limericklace.ie](https://limericklace.ie)
  - date_published: 2024-07-10T08:10:49.158239+00:00
 
  ## Limerick Local Studies – Preserving and Showcasing the Story of Limerick
- - [https://www.limericklocalstudies.ie](https://www.limericklocalstudies.ie)
+ - [https://limericklocalstudies.ie](https://limericklocalstudies.ie)
  - date_published: 2024-07-01T08:31:52.621869+00:00
 
  ## Listowel Garden Centre
- - [http://listowelgardencentre.ie](http://listowelgardencentre.ie)
+ - [https://listowelgardencentre.ie](https://listowelgardencentre.ie)
  - date_published: 2024-05-04T00:00:00+00:00
 
  ## Irish Radio Stations | Live Radio
- - [https://www.liveradio.ie](https://www.liveradio.ie)
+ - [https://liveradio.ie](https://liveradio.ie)
  - date_published: 2024-09-13T19:28:30.388995+00:00
 
  ## LocalGov
- - [https://www.localgov.ie](https://www.localgov.ie)
+ - [https://localgov.ie](https://localgov.ie)
  - date_published: 2023-02-23T09:20:32+00:00
 
  ## Local Government Jobs
@@ -1701,15 +1795,15 @@
  - date_published: 2024-06-20T21:31:58.874679+00:00
 
  ## Local Green Fees- Ireland's definitive green fee directory
- - [https://www.localgreenfees.ie](https://www.localgreenfees.ie)
+ - [https://localgreenfees.ie](https://localgreenfees.ie)
  - date_published: 2024-07-12T17:59:34.071847+00:00
 
  ## Bunachar Logainmneacha na hÉireann
- - [http://logainm.ie](http://logainm.ie)
+ - [https://logainm.ie](https://logainm.ie)
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## Meitheal Logainm.ie
- - [http://meitheal.logainm.ie](http://meitheal.logainm.ie)
+ - [https://meitheal.logainm.ie](https://meitheal.logainm.ie)
  - date_published: 2018-02-06T00:00:00+00:00
 
  ## L'OmBré - Hair, Beauty & Laser
@@ -1721,11 +1815,11 @@
  - date_published: 2024-07-10T08:10:43.145152+00:00
 
  ## LOOKFANTASTIC IE - Beauty, Cosmetics, Fragrance & Skincare
- - [https://www.lookfantastic.ie](https://www.lookfantastic.ie)
+ - [https://lookfantastic.ie](https://lookfantastic.ie)
  - date_published: 2024-10-20T13:58:11.350808+00:00
 
  ## Home - Lovin.ie
- - [https://lovin.ie](https://lovin.ie)
+ - [http://lovin.ie](http://lovin.ie)
  - date_published: 2024-04-16T00:00:00+00:00
 
  ## LUCAN PRESBYTERIAN CHURCH
@@ -1733,7 +1827,7 @@
  - date_published: 2024-07-13T19:41:23.511312+00:00
 
  ## L. Ron Hubbard - Scientology & Dianetics Founder
- - [https://www.lronhubbard.ie](https://www.lronhubbard.ie)
+ - [https://lronhubbard.ie](https://lronhubbard.ie)
  - date_published: 2024-06-06T19:38:36.433546+00:00
 
  ## Lumagraph
@@ -1749,7 +1843,7 @@
  - date_published: 2024-11-30T16:14:18+00:00
 
  ## Second-hand fiction and / Marrowbone Books / Dublin, Ireland
- - [http://marrowbone.ie](http://marrowbone.ie)
+ - [https://marrowbone.ie](https://marrowbone.ie)
  - date_published: 2024-07-13T15:30:16.892362+00:00
 
  ## Mary Kay | Official Site
@@ -1762,19 +1856,19 @@
  - tags: ['mastodon']
 
  ## Web Development | Digital Marketing Agency | Matrix Internet
- - [https://www.matrixinternet.ie](https://www.matrixinternet.ie)
+ - [https://matrixinternet.ie](https://matrixinternet.ie)
  - date_published: 2024-09-02T00:00:00+00:00
 
  ## Home | St Patrick’s Pontifical University, Maynooth
- - [http://www.maynoothcollege.ie](http://www.maynoothcollege.ie)
+ - [https://maynoothcollege.ie](https://maynoothcollege.ie)
  - date_published: 2024-07-22T08:55:24.334287+00:00
 
  ## Maynooth University
- - [https://www.maynoothuniversity.ie](https://www.maynoothuniversity.ie)
+ - [https://maynoothuniversity.ie](https://maynoothuniversity.ie)
  - date_published: 2024-06-29T20:06:02+00:00
 
  ## Marketing, Digital Marketing Consultant. Social Media, SEO, Training. Home
- - [http://www.mcardle.ie](http://www.mcardle.ie)
+ - [https://mcardle.ie](https://mcardle.ie)
  - date_published: 2024-07-12T18:21:12.229848+00:00
 
  ## Melanie C | Mel C, Sporty Spice
@@ -1782,7 +1876,7 @@
  - date_published: 2024-07-13T04:15:21.254312+00:00
 
  ## The Publishing House of the Jesuits in Ireland
- - [https://www.messenger.ie](https://www.messenger.ie)
+ - [https://messenger.ie](https://messenger.ie)
  - date_published: 2024-01-24T00:00:00+00:00
 
  ## Met Éireann - The Irish Meteorological Service
@@ -1794,19 +1888,19 @@
  - date_published: 2024-08-08T18:34:29.672577+00:00
 
  ## Home
- - [https://www.mifl.ie](https://www.mifl.ie)
+ - [https://mifl.ie](https://mifl.ie)
  - date_published: 2024-10-12T00:40:49+00:00
 
  ## Mediolanum International Life dac
- - [https://www.mildac.ie](https://www.mildac.ie)
+ - [https://mildac.ie](https://mildac.ie)
  - date_published: 2024-10-12T01:54:18+00:00
 
  ## MIMS Ireland
- - [https://www.mims.ie](https://www.mims.ie)
+ - [https://mims.ie](https://mims.ie)
  - date_published: 2024-10-15T23:01:37.179941+00:00
 
  ## Mirror Bingo | Spin the Mega Wheel | Up to 500 Free Spins
- - [https://www.mirrorbingo.ie](https://www.mirrorbingo.ie)
+ - [https://mirrorbingo.ie](https://mirrorbingo.ie)
  - date_published: 2024-06-18T09:06:35.577901+00:00
 
  ## Mister-Auto: No. 1 car parts site in Europe | MISTER-AUTO
@@ -1814,15 +1908,15 @@
  - date_published: 2024-10-31T02:40:41.382977+00:00
 
  ## Microsoft Edge Developer
- - [http://modern.ie](http://modern.ie)
+ - [https://modern.ie](https://modern.ie)
  - date_published: 2024-06-23T05:55:48.585181+00:00
 
  ## Jobs | Work | Job Search | Job Finder | Monster.ie
- - [https://www.monster.ie](https://www.monster.ie)
+ - [https://monster.ie](https://monster.ie)
  - date_published: 2024-06-16T13:57:52.865967+00:00
 
  ## Electronic Components Distributor - Mouser Electronics Ireland
- - [https://www.mouser.ie](https://www.mouser.ie)
+ - [https://mouser.ie](https://mouser.ie)
  - date_published: 2024-07-01T20:57:31.371516+00:00
 
  ## Irish Art - Milmo-Penny Fine Art - Home
@@ -1838,19 +1932,19 @@
  - date_published: 2024-04-18T00:00:00+00:00
 
  ## Mullery O'Gara Estate Agents, Terenure, Dublin 6 - Sell Your Home With Us Today.
- - [https://www.mulleryogara.ie](https://www.mulleryogara.ie)
+ - [https://mulleryogara.ie](https://mulleryogara.ie)
  - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Welcome to the National Museum of Ireland | National Museum of Ireland
+ - [https://museum.ie](https://museum.ie)
+ - date_published: 2024-06-17T10:32:23.156096+00:00
 
  ## NMI Shop
  - [https://shop.museum.ie](https://shop.museum.ie)
  - date_published: 2024-10-18T15:53:17.175836+00:00
 
- ## Welcome to the National Museum of Ireland | National Museum of Ireland
- - [https://www.museum.ie](https://www.museum.ie)
- - date_published: 2024-06-17T10:32:23.156096+00:00
-
  ## MusicTown 2024
- - [http://musictown.ie](http://musictown.ie)
+ - [https://musictown.ie](https://musictown.ie)
  - date_published: 2024-07-13T19:40:51.545571+00:00
 
  ## MyHome.ie - Houses, Apartments, Irish Property for Sale in Ireland
@@ -1888,6 +1982,7 @@
  ## AmigaOS Merchandising
  - [https://amigaos.myspreadshop.ie](https://amigaos.myspreadshop.ie)
  - date_published: 2024-07-20T13:16:24.485516+00:00
+ - date_dead_since: 2025-01-05T22:02:16.253262+00:00
 
  ## Mautic Community Swag Shop | Spreadshop
  - [https://mautic-community-swag-shop.myspreadshop.ie](https://mautic-community-swag-shop.myspreadshop.ie)
@@ -1906,7 +2001,7 @@
  - date_published: 2024-12-25T18:30:33.269835+00:00
 
  ## Narconon | Drug Rehabilitation | Drug Education
- - [https://www.narconon.ie](https://www.narconon.ie)
+ - [https://narconon.ie](https://narconon.ie)
  - date_published: 2024-09-04T18:05:16.660394+00:00
 
  ## NARS Cosmetics | The Official Store | Makeup and Skincare
@@ -1918,11 +2013,11 @@
  - date_published: 2024-12-12T00:09:36+00:00
 
  ## National Transport Authority
- - [https://www.nationaltransport.ie](https://www.nationaltransport.ie)
+ - [https://nationaltransport.ie](https://nationaltransport.ie)
  - date_published: 2024-01-03T00:00:00+00:00
 
  ## Home | National Concert Hall
- - [http://nch.ie](http://nch.ie)
+ - [https://nch.ie](https://nch.ie)
  - date_published: 2024-07-13T19:40:44.683833+00:00
 
  ## National Election and Democracy Study
@@ -1934,7 +2029,7 @@
  - date_published: 2024-06-06T10:11:26+00:00
 
  ## Home | Nestlé Ireland - Good Food, Good Life
- - [http://www.nestle.ie](http://www.nestle.ie)
+ - [https://www.nestle.ie](https://www.nestle.ie)
  - date_published: 2024-09-14T20:35:51+00:00
 
  ## Network Ireland
@@ -1942,7 +2037,7 @@
  - date_published: 2024-06-19T18:25:21.931659+00:00
 
  ## Buy Plants Online | Garden Furniture | Weber BBQ Ireland | Pets & Aqua
- - [http://newlands.ie](http://newlands.ie)
+ - [https://newlands.ie](https://newlands.ie)
  - date_published: 2024-07-13T19:40:23.849265+00:00
 
  ## Newsbrands Ireland
@@ -1954,23 +2049,23 @@
  - date_published: 2024-05-11T08:22:37.709244+00:00
 
  ## NIBRT - National Institute for Bioprocessing Research and Training
- - [https://www.nibrt.ie](https://www.nibrt.ie)
+ - [https://nibrt.ie](https://nibrt.ie)
  - date_published: 2024-10-20T04:19:06.199630+00:00
 
  ## NOMAD | niamh o'meara - daly | graphic designer
- - [https://www.nomad.ie](https://www.nomad.ie)
+ - [https://nomad.ie](https://nomad.ie)
  - date_published: 2024-07-13T19:44:51.916902+00:00
 
  ## The Norseman Dublin | Temple Bar Pubs | Official Website
- - [https://www.norseman.ie](https://www.norseman.ie)
+ - [https://norseman.ie](https://norseman.ie)
  - date_published: 2024-05-23T00:00:00+00:00
 
  ## Noteworthy News
- - [https://www.noteworthy.ie](https://www.noteworthy.ie)
+ - [https://noteworthy.ie](https://noteworthy.ie)
  - date_published: 2024-08-08T17:33:09.275645+00:00
 
  ## National Parents Council
- - [http://www.npc.ie](http://www.npc.ie)
+ - [https://npc.ie](https://npc.ie)
  - date_published: 2024-10-03T11:17:13+00:00
 
  ## National University of Ireland
@@ -1978,44 +2073,44 @@
  - date_published: 2024-05-08T12:18:38.365989+00:00
 
  ## University of Galway - University of Galway
- - [http://www.nuigalway.ie](http://www.nuigalway.ie)
+ - [https://nuigalway.ie](https://nuigalway.ie)
  - date_published: 2024-08-07T22:20:33.520557+00:00
 
  ## Donegal, Sligo, Galway, Galway City, Mayo, Leitrim, Roscommon, Monaghan, Cavan | Northern and Western Regional Assembly
- - [http://nwra.ie](http://nwra.ie)
+ - [https://nwra.ie](https://nwra.ie)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## Something Odd!
- - [http://ocaoimh.ie](http://ocaoimh.ie)
+ - [https://ocaoimh.ie](https://ocaoimh.ie)
  - date_published: 2024-08-19T07:36:25.389561+00:00
 
  ## Home - O'Donoghue's Bar, Lounge & Guesthouse
- - [https://www.odonoghues.ie](https://www.odonoghues.ie)
+ - [https://odonoghues.ie](https://odonoghues.ie)
  - date_published: 2024-06-22T20:08:57.711141+00:00
 
  ## Houses of the Oireachtas website
- - [http://www.oireachtas.ie](http://www.oireachtas.ie)
+ - [https://oireachtas.ie](https://oireachtas.ie)
  - date_published: 2024-07-15T00:00:00+00:00
 
  ## Home | IWW Ireland
- - [https://www.onebigunion.ie](https://www.onebigunion.ie)
+ - [https://onebigunion.ie](https://onebigunion.ie)
  - date_published: 2024-06-23T13:51:00.800799+00:00
 
  ## Opel Ireland - New Cars | Used Cars | Vans
- - [https://www.opel.ie](https://www.opel.ie)
+ - [https://opel.ie](https://opel.ie)
  - date_published: 2024-07-11T08:09:12+00:00
 
  ## Open Food Network
  - [https://openfoodnetwork.ie](https://openfoodnetwork.ie)
  - date_published: 2024-10-31T03:28:46.166419+00:00
 
+ ## OpenTable – Discover & Book the Best Restaurants
+ - [https://opentable.ie](https://opentable.ie)
+ - date_published: 2024-06-30T12:08:25.620423+00:00
+
  ## Restaurant Management Software - OpenTable for Restaurants
  - [https://restaurant.opentable.ie](https://restaurant.opentable.ie)
  - date_published: 2024-10-30T12:44:29.766374+00:00
-
- ## OpenTable – Discover & Book the Best Restaurants
- - [https://www.opentable.ie](https://www.opentable.ie)
- - date_published: 2024-06-30T12:08:25.620423+00:00
 
  ## Originate - A Brand Transformation Studio | Branding and Creative Agency
  - [https://originate.ie](https://originate.ie)
@@ -2030,7 +2125,7 @@
  - date_published: 2024-12-31T08:00:10+00:00
 
  ## PERI Ireland Homepage
- - [https://www.peri.ie](https://www.peri.ie)
+ - [https://peri.ie](https://peri.ie)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## 👨‍💻 Padraig Fahy
@@ -2038,7 +2133,7 @@
  - date_published: 2024-07-22T11:44:39.461516+00:00
 
  ## Wedding Photographer in Clare Ireland - Philippe Photography
- - [https://www.philippephotography.ie](https://www.philippephotography.ie)
+ - [https://philippephotography.ie](https://philippephotography.ie)
  - date_published: 2024-07-13T19:44:37.386245+00:00
 
  ## Ireland | Philips
@@ -2046,11 +2141,11 @@
  - date_published: 2024-06-18T11:28:34+00:00
 
  ## Pinocchio's Toys and Gifts | Toys and Gifts | Cork
- - [https://www.pinocchios.ie](https://www.pinocchios.ie)
+ - [https://pinocchios.ie](https://pinocchios.ie)
  - date_published: 2024-05-04T09:41:32.268775+00:00
 
  ## Pinterest
- - [https://www.pinterest.ie](https://www.pinterest.ie)
+ - [https://pinterest.ie](https://pinterest.ie)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Irish Pirate Radio Audio Archive
@@ -2066,19 +2161,19 @@
  - date_published: 2024-10-29T09:10:43.530504+00:00
 
  ## Positive Life
- - [https://www.positivelife.ie](https://www.positivelife.ie)
+ - [https://positivelife.ie](https://positivelife.ie)
  - date_published: 2024-09-12T20:01:48.873624+00:00
 
  ## Press Council of Ireland - Office of the Press Ombudsman
- - [https://www.presscouncil.ie](https://www.presscouncil.ie)
+ - [https://presscouncil.ie](https://presscouncil.ie)
  - date_published: 2024-08-08T17:32:22.554531+00:00
 
  ## Women's Fashion Clothing & Dresses
- - [https://www.prettylittlething.ie](https://www.prettylittlething.ie)
+ - [https://prettylittlething.ie](https://prettylittlething.ie)
  - date_published: 2024-10-20T14:11:25.524489+00:00
 
  ## White Metal Casting | Toy Soldier Miniatures | Themed Chess Sets
- - [http://shop.princeaugust.ie](http://shop.princeaugust.ie)
+ - [https://shop.princeaugust.ie](https://shop.princeaugust.ie)
  - date_published: 2024-07-20T00:00:00+00:00
 
  ## White Metal Casting | Toy Soldier Miniatures | Themed Chess Sets
@@ -2086,7 +2181,7 @@
  - date_published: 2024-12-15T06:39:55.948399+00:00
 
  ## Publicjobs.ie | Ireland's Premier Public Sector Recruitment Website
- - [http://www.publicjobs.ie](http://www.publicjobs.ie)
+ - [https://publicjobs.ie](https://publicjobs.ie)
  - date_published: 2024-06-20T21:31:51+00:00
 
  ## Publisher Plus - The multi-channel enterprise publishing platform
@@ -2118,7 +2213,7 @@
  - date_published: 2024-02-21T01:22:48+00:00
 
  ## Radio Days Ireland
- - [http://radiodaysireland.ie](http://radiodaysireland.ie)
+ - [https://radiodaysireland.ie](https://radiodaysireland.ie)
  - date_published: 2024-09-13T19:31:01.402105+00:00
 
  ## Your Voice in the Kingdom. | RadioKerry.ie
@@ -2126,7 +2221,7 @@
  - date_published: 2025-01-01T06:12:13+00:00
 
  ## Ralph Lauren® IE | Summer Sale Up To 50% Off
- - [https://www.ralphlauren.ie](https://www.ralphlauren.ie)
+ - [https://ralphlauren.ie](https://ralphlauren.ie)
  - date_published: 2024-04-03T00:00:00+00:00
 
  ## Two Chevrons Apart - Johnathan Randall
@@ -2134,11 +2229,11 @@
  - date_published: 2024-06-12T12:50:13.786987+00:00
 
  ## RCSI Dublin – Homepage
- - [http://www.rcsi.ie](http://www.rcsi.ie)
+ - [https://www.rcsi.ie](https://www.rcsi.ie)
  - date_published: 2024-10-20T04:18:55.694151+00:00
 
  ## Home | Reach Packaging
- - [https://www.reach-delpac.ie](https://www.reach-delpac.ie)
+ - [https://reach-delpac.ie](https://reach-delpac.ie)
  - date_published: 2024-08-19T03:23:41.018966+00:00
 
  ## Solutions Suited to You - Renault Business
@@ -2162,11 +2257,11 @@
  - date_published: 2024-10-11T00:00:00+00:00
 
  ## Richer Sounds IE
- - [https://www.richersounds.ie](https://www.richersounds.ie)
+ - [https://richersounds.ie](https://richersounds.ie)
  - date_published: 2024-10-21T01:59:35.281601+00:00
 
  ## RingCentral: The Leader in Trusted AI Communications | IE
- - [https://www.ringcentral.ie](https://www.ringcentral.ie)
+ - [https://ringcentral.ie](https://ringcentral.ie)
  - date_published: 2024-03-25T00:00:00+00:00
 
  ## RIP.ie - most recent death notices | rip.ie
@@ -2199,11 +2294,11 @@
  - date_published: 2024-12-21T01:20:52.927307+00:00
 
  ## SATOSH.IE Explorer | #1 web3 crypto raffle platform
- - [http://explore.satosh.ie](http://explore.satosh.ie)
+ - [https://explore.satosh.ie](https://explore.satosh.ie)
  - date_published: 2024-09-24T03:30:03.576345+00:00
 
  ## SATOSH.IE Explorer | #1 web3 crypto raffle platform
- - [http://explore-testnet.satosh.ie](http://explore-testnet.satosh.ie)
+ - [https://explore-testnet.satosh.ie](https://explore-testnet.satosh.ie)
  - date_published: 2024-09-23T17:52:28.110724+00:00
 
  ## SATOSH.IE - Web3 Crypto Raffles
@@ -2218,7 +2313,7 @@
  - [https://scientology.ie](https://scientology.ie)
  - date_published: 0001-01-01T00:00:00+00:00
 
- - [https://www.scratch.ie](https://www.scratch.ie)
+ - [https://scratch.ie](https://scratch.ie)
  - date_published: 2024-07-02T10:35:50+00:00
 
  ## Secure Computing Forum
@@ -2230,11 +2325,11 @@
  - date_published: 2024-10-20T04:19:23.361171+00:00
 
  ## We are the world's leading testing, inspection and certification company.
- - [https://www.sgs.ie](https://www.sgs.ie)
+ - [https://sgs.ie](https://sgs.ie)
  - date_published: 2024-09-10T12:51:01.143475+00:00
 
  ## Ring the Bells of Shandon at St. Anne's Church, See spectacular 360° views of Cork, View the internal workings of the 18th Century clock, 'The Four Faced Liar', and see our 18th century Bells
- - [http://www.shandonbells.ie](http://www.shandonbells.ie)
+ - [https://shandonbells.ie](https://shandonbells.ie)
  - date_published: 2024-06-20T21:30:14.560789+00:00
 
  ## Shaun Pearce
@@ -2242,7 +2337,7 @@
  - date_published: 2024-12-24T07:58:27.726852+00:00
 
  ## The Acronym Server: find and submit acronyms and meanings
- - [http://acronyms.silmaril.ie](http://acronyms.silmaril.ie)
+ - [https://acronyms.silmaril.ie](https://acronyms.silmaril.ie)
  - date_published: 2024-06-28T19:30:01+00:00
 
  ## Singular Artists
@@ -2254,11 +2349,11 @@
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## Find out all about Sky Media, the advertising sales arm of Sky.
- - [https://www.skymedia.ie](https://www.skymedia.ie)
+ - [https://skymedia.ie](https://skymedia.ie)
  - date_published: 2024-08-05T00:00:00+00:00
 
  ## Compare Cheap Flights & Book Plane Tickets to Everywhere | Skyscanner
- - [https://www.skyscanner.ie](https://www.skyscanner.ie)
+ - [https://skyscanner.ie](https://skyscanner.ie)
  - date_published: 2024-07-10T03:24:06.860196+00:00
 
  ## smooth-ie
@@ -2266,7 +2361,7 @@
  - date_published: 2024-07-04T12:33:25.994907+00:00
 
  ## Sony Ireland | Latest Technology News | Electronics | Entertainment
- - [http://www.sony.ie](http://www.sony.ie)
+ - [https://sony.ie](https://sony.ie)
  - date_published: 2024-10-21T07:37:47.476601+00:00
 
  ## Homepage | Sony Pictures Ireland
@@ -2278,7 +2373,7 @@
  - date_published: 2024-05-07T10:27:18.618182+00:00
 
  ## Southern Regional Assembly
- - [http://southernassembly.ie](http://southernassembly.ie)
+ - [https://southernassembly.ie](https://southernassembly.ie)
  - date_published: 2024-07-08T17:44:58+00:00
 
  ## Spéire | High Quality Digital Agency | Cork & Kerry
@@ -2290,7 +2385,7 @@
  - date_published: 2023-09-22T00:00:00+00:00
 
  ## Homepage
- - [https://www.sportsjoe.ie](https://www.sportsjoe.ie)
+ - [https://sportsjoe.ie](https://sportsjoe.ie)
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## My Spreadshirt
@@ -2302,7 +2397,7 @@
  - date_published: 2024-10-21T09:06:46.647178+00:00
 
  ## Home
- - [http://spunout.ie](http://spunout.ie)
+ - [https://spunout.ie](https://spunout.ie)
  - date_published: 2024-09-05T00:00:00+00:00
 
  ## Staffroom.ie - Advertising Teaching Jobs in Ireland
@@ -2314,11 +2409,11 @@
  - date_published: 2024-07-13T19:34:52.768464+00:00
 
  ## Statkraft
- - [https://www.statkraft.ie](https://www.statkraft.ie)
+ - [https://statkraft.ie](https://statkraft.ie)
  - date_published: 2024-03-11T00:00:00+00:00
 
  ## The Steam Museum, Straffan & Lodge Park Walled Garden
- - [http://steam-museum.ie](http://steam-museum.ie)
+ - [https://steam-museum.ie](https://steam-museum.ie)
  - date_published: 2022-03-27T17:44:43+00:00
 
  ## Saint Patrick’s Cathedral Dublin, Ireland
@@ -2330,11 +2425,11 @@
  - date_published: 2024-06-20T21:30:29.759980+00:00
 
  ## A lovely lunch with your neighbours - 25th|26th May 2024
- - [http://www.streetfeast.ie](http://www.streetfeast.ie)
+ - [https://streetfeast.ie](https://streetfeast.ie)
  - date_published: 2024-07-06T14:43:49+00:00
 
  ## Homepage - Studies: An Irish Quarterly Review
- - [http://www.studiesirishreview.ie](http://www.studiesirishreview.ie)
+ - [https://studiesirishreview.ie](https://studiesirishreview.ie)
  - date_published: 2024-07-26T00:00:00+00:00
 
  ## Superprof - The Platform for Private Tutors
@@ -2354,7 +2449,7 @@
  - date_published: 2024-08-19T03:23:29.310862+00:00
 
  ## REBEL LIVE NOW
- - [http://www.swp.ie](http://www.swp.ie)
+ - [http://swp.ie](http://swp.ie)
  - date_published: 2024-10-21T16:52:40.992061+00:00
 
  ## iTunes U - Trinity College Dublin
@@ -2390,11 +2485,11 @@
  - date_published: 2024-07-13T19:41:08.378601+00:00
 
  ## School of Mathematics - Trinity College Dublin
- - [http://www.maths.tcd.ie](http://www.maths.tcd.ie)
+ - [https://www.maths.tcd.ie](https://www.maths.tcd.ie)
  - date_published: 2024-07-08T18:52:01.572256+00:00
 
  ## Teagasc | Agriculture and Food Development Authority
- - [https://www.teagasc.ie](https://www.teagasc.ie)
+ - [https://teagasc.ie](https://teagasc.ie)
  - date_published: 2024-07-21T21:39:20.324794+00:00
 
  ## Home Page
@@ -2410,15 +2505,15 @@
  - date_published: 2025-01-02T03:55:53.215958+00:00
 
  ## The 2 Johnnies | Irish Comedians, Musicians & Podcasts
- - [https://www.the2johnnies.ie](https://www.the2johnnies.ie)
+ - [https://the2johnnies.ie](https://the2johnnies.ie)
  - date_published: 2024-07-13T19:44:27.475487+00:00
 
  ## The 42
- - [https://www.the42.ie](https://www.the42.ie)
+ - [https://the42.ie](https://the42.ie)
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## The Barbican Centre Drogheda | Venue, Office, Room Hire
- - [https://www.thebarbican.ie](https://www.thebarbican.ie)
+ - [https://thebarbican.ie](https://thebarbican.ie)
  - date_published: 2024-07-13T19:34:49.828934+00:00
 
  ## The Book Resort Book Subscription Box| Irish Subscription Box
@@ -2426,15 +2521,15 @@
  - date_published: 2023-12-02T08:10:41.745901+00:00
 
  ## F.X. Buckley Restaurants and Bars | The Buckley Collection | Dublin
- - [https://www.thebuckleycollection.ie](https://www.thebuckleycollection.ie)
+ - [https://thebuckleycollection.ie](https://thebuckleycollection.ie)
  - date_published: 2024-06-22T20:08:50.374914+00:00
 
  ## The Code Hub
- - [https://www.thecodehub.ie](https://www.thecodehub.ie)
+ - [https://thecodehub.ie](https://thecodehub.ie)
  - date_published: 2021-10-19T11:19:08+00:00
 
  ## Garden House - Ireland's leading garden centre
- - [http://thegardenhouse.ie](http://thegardenhouse.ie)
+ - [https://thegardenhouse.ie](https://thegardenhouse.ie)
  - date_published: 2024-07-13T19:34:35.699675+00:00
 
  ## Room Reservations
@@ -2454,7 +2549,7 @@
  - date_published: 2024-07-14T13:34:36.535753+00:00
 
  ## Home - The Ivy Cottage
- - [https://www.theivycottage.ie](https://www.theivycottage.ie)
+ - [https://theivycottage.ie](https://theivycottage.ie)
  - date_published: 2024-06-22T11:00:40+00:00
 
  ## TheJournal.ie Advertising
@@ -2483,23 +2578,24 @@
  - tags: ['news']
 
  ## ThemeParks.ie
- - [https://www.themeparks.ie](https://www.themeparks.ie)
+ - [https://themeparks.ie](https://themeparks.ie)
  - date_published: 2024-05-25T15:15:09+00:00
 
  ## The North Face | Outdoor Clothing, Backpacks & Shoes
- - [https://www.thenorthface.ie](https://www.thenorthface.ie)
+ - [https://thenorthface.ie](https://thenorthface.ie)
  - date_published: 2024-07-12T07:36:18.460974+00:00
 
  ## Niamh Smith Photography, Dublin Ireland
- - [https://www.thephotographyhub.ie](https://www.thephotographyhub.ie)
+ - [https://thephotographyhub.ie](https://thephotographyhub.ie)
  - date_published: 2024-07-13T19:44:38.809133+00:00
 
  ## The Irish Sun
  - [https://link.thesun.ie](https://link.thesun.ie)
- - date_published: 2024-10-21T08:10:28.159237+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-05T22:22:17.715742+00:00
 
  ## The Irish Sun
- - [https://www.thesun.ie](https://www.thesun.ie)
+ - [https://thesun.ie](https://thesun.ie)
  - date_published: 2024-05-02T12:22:20.509295+00:00
 
  ## The Times of London | Subscribe to The Times and The Sunday Times Ireland Edition
@@ -2511,11 +2607,11 @@
  - date_published: 2024-05-13T00:00:00+00:00
 
  ## Web Design Dublin | Web Design Ireland | Web Bureau
- - [https://www.thewebbureau.ie](https://www.thewebbureau.ie)
+ - [https://thewebbureau.ie](https://thewebbureau.ie)
  - date_published: 2024-07-04T17:43:46.542911+00:00
 
  ## Home - Threshold
- - [http://www.threshold.ie](http://www.threshold.ie)
+ - [https://threshold.ie](https://threshold.ie)
  - date_published: 2024-08-07T00:00:00+00:00
 
  ## Home - Thyme Out Dalkey
@@ -2531,7 +2627,7 @@
  - date_published: 2024-01-18T15:08:54+00:00
 
  ## Let's Get Your Identity Verified
- - [https://www.ticketmaster.ie](https://www.ticketmaster.ie)
+ - [https://ticketmaster.ie](https://ticketmaster.ie)
  - date_published: 2024-04-29T06:43:22.764170+00:00
 
  ## Toyota Approved Used Cars | Toyota Ireland
@@ -2543,7 +2639,7 @@
  - date_published: 2024-10-16T15:58:43.008207+00:00
 
  ## New and Used Cars, Car Finance & Service | Toyota Ireland
- - [https://www.toyota.ie](https://www.toyota.ie)
+ - [https://toyota.ie](https://toyota.ie)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## Get a Service Quote for Your Toyota   | Toyota Service
@@ -2551,7 +2647,7 @@
  - date_published: 2024-02-27T00:00:00+00:00
 
  ## tripadvisor.ie
- - [https://www.tripadvisor.ie](https://www.tripadvisor.ie)
+ - [https://tripadvisor.ie](https://tripadvisor.ie)
  - date_published: 2024-06-23T09:18:55.823776+00:00
 
  ## Triskel Arts Centre – Live Music, Cinema, Visual Art and more
@@ -2563,15 +2659,15 @@
  - date_published: 2023-10-25T19:29:24.615760+00:00
 
  ## trivago.ie - Compare hotel prices worldwide
- - [https://www.trivago.ie](https://www.trivago.ie)
+ - [https://trivago.ie](https://trivago.ie)
  - date_published: 2024-09-04T11:20:08.067831+00:00
 
  ## TU Dublin | Technological University Dublin
- - [https://www.tudublin.ie](https://www.tudublin.ie)
+ - [https://tudublin.ie](https://tudublin.ie)
  - date_published: 2024-10-20T04:18:52.374914+00:00
 
  ## TV Licence Home
- - [https://www.tvlicence.ie](https://www.tvlicence.ie)
+ - [https://tvlicence.ie](https://tvlicence.ie)
  - date_published: 2024-07-30T15:14:48+00:00
 
  ## Dublin Removals | Domestic & Business | TWO MEN AND A TRUCK
@@ -2579,11 +2675,11 @@
  - date_published: 2024-12-13T17:36:05.622459+00:00
 
  ## Home | University College Cork
- - [https://www.ucc.ie](https://www.ucc.ie)
+ - [https://ucc.ie](https://ucc.ie)
  - date_published: 2024-06-19T14:17:01+00:00
 
  ## Home | Best Of Bot Worlds
- - [http://afflatus.ucd.ie](http://afflatus.ucd.ie)
+ - [https://afflatus.ucd.ie](https://afflatus.ucd.ie)
  - date_published: 2024-06-30T05:56:22.709050+00:00
 
  ## Web Login Service - Loading Session Information
@@ -2611,7 +2707,7 @@
  - date_published: 2024-07-08T10:59:34+00:00
 
  ## UCD Foundation
- - [https://www.ucdfoundation.ie](https://www.ucdfoundation.ie)
+ - [https://ucdfoundation.ie](https://ucdfoundation.ie)
  - date_published: 2024-07-08T12:50:52+00:00
 
  ## Welcome to the University of Limerick - University of Limerick
@@ -2635,7 +2731,7 @@
  - date_published: 2024-08-18T08:39:10.373402+00:00
 
  ## Home - UL Sport
- - [http://www.ulsport.ie](http://www.ulsport.ie)
+ - [https://ulsport.ie](https://ulsport.ie)
  - date_published: 2024-08-13T00:00:00+00:00
 
  ## University of Limerick Visitor Centre Store
@@ -2647,7 +2743,7 @@
  - date_published: 2024-12-21T14:58:52+00:00
 
  ## Universal Declaration of Human Rights Campaign: What are Human Rights? Definition
- - [https://www.unitedforhumanrights.ie](https://www.unitedforhumanrights.ie)
+ - [https://unitedforhumanrights.ie](https://unitedforhumanrights.ie)
  - date_published: 2024-09-04T17:57:50.734870+00:00
 
  ## University of Galway - University of Galway
@@ -2655,15 +2751,15 @@
  - date_published: 2024-10-20T04:19:04.135833+00:00
 
  ## Unthink
- - [https://www.unthink.ie](https://www.unthink.ie)
+ - [https://unthink.ie](https://unthink.ie)
  - date_published: 2024-07-03T19:43:31.651387+00:00
 
  ## URL.ie - free URL truncation / shortening service
- - [https://www.url.ie](https://www.url.ie)
+ - [https://url.ie](https://url.ie)
  - date_published: 2024-07-22T10:35:14.127857+00:00
 
  ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
- - [https://www.viagogo.ie](https://www.viagogo.ie)
+ - [https://viagogo.ie](https://viagogo.ie)
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## Vinnie Magro
@@ -2675,11 +2771,11 @@
  - date_published: 2024-12-29T22:36:49.875190+00:00
 
  ## 2GB Broadband, TV, Phone & Mobile | Virgin Media Ireland
- - [https://www.virginmedia.ie](https://www.virginmedia.ie)
+ - [https://virginmedia.ie](https://virginmedia.ie)
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## Home | Virgin Media Solutions
- - [http://www.virginmediasolutions.ie](http://www.virginmediasolutions.ie)
+ - [https://virginmediasolutions.ie](https://virginmediasolutions.ie)
  - date_published: 2024-10-11T10:27:21.907200+00:00
 
  ## Virgin Media Play :: Home
@@ -2699,7 +2795,7 @@
  - date_published: 2024-07-13T19:48:38.679841+00:00
 
  ## Visit Trinity College Dublin | Trinity Visitors
- - [https://www.visittrinity.ie](https://www.visittrinity.ie)
+ - [https://visittrinity.ie](https://visittrinity.ie)
  - date_published: 2024-05-16T00:00:00+00:00
 
  ## VistaMilk SFI Research Centre | Agri-Food | Dairy Production
@@ -2707,7 +2803,7 @@
  - date_published: 2024-12-25T03:53:42+00:00
 
  ## Visual Artists Ireland Supporting Artists in their Professional Lives
- - [http://visualartists.ie](http://visualartists.ie)
+ - [https://visualartists.ie](https://visualartists.ie)
  - date_published: 2020-05-21T23:00:00+00:00
 
  ## Our Best Ever Network | Now With 5G
@@ -2723,7 +2819,7 @@
  - date_published: 2024-05-07T10:57:46.018506+00:00
 
  ## Our Best Ever Network | Now With 5G
- - [http://vodafone.ie](http://vodafone.ie)
+ - [https://vodafone.ie](https://vodafone.ie)
  - date_published: 2024-09-28T20:07:52.355127+00:00
 
  ## Volunteer Ireland: National Volunteer Organisation
@@ -2731,23 +2827,25 @@
  - date_published: 2024-02-28T00:00:00+00:00
 
  ## Scientology Volunteer Ministers: Humanitarian Organization & Aid, Disaster Response
- - [https://www.volunteerministers.ie](https://www.volunteerministers.ie)
+ - [https://volunteerministers.ie](https://volunteerministers.ie)
  - date_published: 2024-09-04T18:05:09.628895+00:00
 
  - [https://vool.ie](https://vool.ie)
  - date_published: 2024-02-14T00:00:00+00:00
 
  ## Uisce Éireann (formerly Irish Water) | Water Utility | Uisce Éireann
- - [https://www.water.ie](https://www.water.ie)
+ - [https://water.ie](https://water.ie)
  - date_published: 2024-06-20T13:54:26+00:00
 
  ## Furniture, Lighting & Homewares. Beds, Wardrobes, Tables & Drawers from Wayfair UK | Wayfair UK
- - [https://secure.wayfair.ie](https://secure.wayfair.ie)
+ - [http://secure.wayfair.ie](http://secure.wayfair.ie)
  - date_published: 2024-09-17T21:44:20.857776+00:00
+ - date_dead_since: 2025-01-05T22:33:14.444756+00:00
 
  ## Wayfair.ie - Shop Furniture, Lighting, Homeware & More Online
  - [https://wayfair.ie](https://wayfair.ie)
  - date_published: 2024-06-15T11:13:26.182124+00:00
+ - date_dead_since: 2025-01-05T22:33:25.405989+00:00
 
  ## Home - 360, A FINN Partners Company
  - [https://weare360.ie](https://weare360.ie)
@@ -2762,11 +2860,11 @@
  - date_published: 2024-12-28T05:15:09.020234+00:00
 
  ## Webwise - Internet Safety
- - [http://www.webwise.ie](http://www.webwise.ie)
+ - [https://webwise.ie](https://webwise.ie)
  - date_published: 2024-10-03T10:49:59+00:00
 
  ## Find Wedding Venues & Suppliers in Ireland | weddingsonline
- - [https://www.weddingsonline.ie](https://www.weddingsonline.ie)
+ - [https://weddingsonline.ie](https://weddingsonline.ie)
  - date_published: 2024-07-13T19:44:25.858942+00:00
 
  ## Department of Social Protection
@@ -2778,7 +2876,7 @@
  - date_published: 2024-12-25T09:22:47.821965+00:00
 
  ## Whelehans Wines | Great Wines, Great Taste
- - [http://whelehanswines.ie](http://whelehanswines.ie)
+ - [https://whelehanswines.ie](https://whelehanswines.ie)
  - date_published: 2024-07-13T19:40:34.318240+00:00
 
  ## Chris.Wilk.ie
@@ -2786,11 +2884,11 @@
  - date_published: 2018-07-24T10:13:48+00:00
 
  ## Waterford Winterval 2024 - Ireland's Christmas Festival
- - [http://www.winterval.ie](http://www.winterval.ie)
+ - [https://winterval.ie](https://winterval.ie)
  - date_published: 2024-10-25T10:36:15+00:00
 
  ## The Workwear Department Embroidery & Screenprinting, Athy, Co. Kildare
- - [http://workweardept.ie](http://workweardept.ie)
+ - [https://workweardept.ie](https://workweardept.ie)
  - date_published: 2024-07-01T08:45:04.422051+00:00
 
  ## Home - Writing.ie
@@ -2814,19 +2912,19 @@
  - date_published: 2019-07-10T14:46:23+00:00
 
  ## Plus Size Women's Clothing & Fashion | Ireland
- - [https://www.yoursclothing.ie](https://www.yoursclothing.ie)
+ - [https://yoursclothing.ie](https://yoursclothing.ie)
  - date_published: 2024-10-21T02:14:08.072387+00:00
 
  ## What Are Human Rights? Defined • Youth for Human Rights Campaign
- - [https://www.youthforhumanrights.ie](https://www.youthforhumanrights.ie)
+ - [https://youthforhumanrights.ie](https://youthforhumanrights.ie)
  - date_published: 2024-09-04T18:05:14.474574+00:00
 
  ## YUKÕ Toyota Car Club. Drive a Toyota by the hour in Dublin.
- - [https://www.yuko.ie](https://www.yuko.ie)
+ - [https://yuko.ie](https://yuko.ie)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## Shop Shoes, Fashion & Accessories Online | Zalando IE
- - [https://www.zalando.ie](https://www.zalando.ie)
+ - [https://zalando.ie](https://zalando.ie)
  - date_published: 2024-09-26T20:34:10.665585+00:00
 
  ## Zoetis
@@ -2838,7 +2936,7 @@
  - date_published: 2024-09-26T11:23:25.755365+00:00
 
  ## Pet Supplies, Pet Food, and Pet Products on Sale Now at zooplus
- - [https://www.zooplus.ie](https://www.zooplus.ie)
+ - [https://zooplus.ie](https://zooplus.ie)
  - date_published: 2024-06-16T06:27:36.576500+00:00
 
  ## ADAMS Academy Fellowship
@@ -2896,6 +2994,7 @@
  ## BGU Radio
  - [http://radio.bgu.ac.il](http://radio.bgu.ac.il)
  - date_published: 2019-10-25T07:50:44+00:00
+ - date_dead_since: 2025-01-05T22:42:23.572723+00:00
 
  ## אתר התשלומים של אוניברסיטת בן גוריון
  - [https://shop.bgu.ac.il](https://shop.bgu.ac.il)
@@ -2964,6 +3063,7 @@
  ## Access Gateway
  - [https://sspr.biu.ac.il](https://sspr.biu.ac.il)
  - date_published: 2024-08-07T15:12:04.371649+00:00
+ - date_dead_since: 2025-01-05T22:43:29.041445+00:00
 
  ## מנהל הסטודנטים | אוניברסיטת בר-אילן
  - [https://stuad.biu.ac.il](https://stuad.biu.ac.il)
@@ -2978,11 +3078,11 @@
  - date_published: 2021-10-09T17:49:21+00:00
 
  ## Caesarea Rothschild Institute
- - [http://www.cri.haifa.ac.il](http://www.cri.haifa.ac.il)
+ - [https://cri.haifa.ac.il](https://cri.haifa.ac.il)
  - date_published: 2024-08-11T22:07:26.880477+00:00
 
  ## אוניברסיטת חיפה - לימודי תואר ראשון, שני ותארים מתקדמים
- - [https://www.haifa.ac.il](https://www.haifa.ac.il)
+ - [https://haifa.ac.il](https://haifa.ac.il)
  - date_published: 2024-10-13T00:00:00+00:00
 
  ## The Institute of Archaeology
@@ -3027,7 +3127,7 @@
  - date_published: 2024-04-08T00:00:00+00:00
 
  ## The Racah Institute of Physics
- - [http://www.phys.huji.ac.il](http://www.phys.huji.ac.il)
+ - [https://phys.huji.ac.il](https://phys.huji.ac.il)
  - date_published: 2024-07-22T07:03:59+00:00
 
  ## המזכירות האקדמית
@@ -3039,7 +3139,7 @@
  - date_published: 2024-07-24T07:57:49.409302+00:00
 
  ## הפקולטה לאמנויות
- - [http://arts.tau.ac.il](http://arts.tau.ac.il)
+ - [https://arts.tau.ac.il](https://arts.tau.ac.il)
  - date_published: 2024-07-24T07:57:22.079294+00:00
 
  ## Board of Governors
@@ -3051,7 +3151,7 @@
  - date_published: 1980-01-01T00:00:00+00:00
 
  ## המרכז לפיתוח קריירה
- - [http://career.tau.ac.il](http://career.tau.ac.il)
+ - [https://career.tau.ac.il](https://career.tau.ac.il)
  - date_published: 2024-10-20T01:25:07.322251+00:00
 
  ## 特拉维夫大学中文官网
@@ -3079,7 +3179,7 @@
  - date_published: 2024-07-24T07:58:35.358522+00:00
 
  ## הדקאנט להצלחת הסטודנטים והסטודנטיות
- - [http://deanstudents.tau.ac.il](http://deanstudents.tau.ac.il)
+ - [https://deanstudents.tau.ac.il](https://deanstudents.tau.ac.il)
  - date_published: 2024-07-24T07:57:36.545699+00:00
 
  ## Virtual TAU - פדגוגיה דיגיטלית
@@ -3090,12 +3190,16 @@
  - [https://diversity.tau.ac.il](https://diversity.tau.ac.il)
  - date_published: 2024-07-24T07:58:06.207241+00:00
 
+ ## Elor | Hadar Elor Homepage
+ - [https://elor.sites.tau.ac.il](https://elor.sites.tau.ac.il)
+ - date_published: 2024-07-21T09:41:08.525770+00:00
+
  ## Tel Aviv University Alumni Organization
  - [https://en-alumni.tau.ac.il](https://en-alumni.tau.ac.il)
  - date_published: 2024-08-19T03:21:22.398815+00:00
 
  ## Faculty of the Arts
- - [http://en-arts.tau.ac.il](http://en-arts.tau.ac.il)
+ - [https://en-arts.tau.ac.il](https://en-arts.tau.ac.il)
  - date_published: 2024-08-18T21:03:04+00:00
 
  ## BioMed @ TAU
@@ -3103,7 +3207,7 @@
  - date_published: 1980-01-01T00:00:00+00:00
 
  ## School of Management
- - [http://en-coller.tau.ac.il](http://en-coller.tau.ac.il)
+ - [https://en-coller.tau.ac.il](https://en-coller.tau.ac.il)
  - date_published: 2024-08-18T21:07:07+00:00
 
  ## Faculty of Exact Sciences
@@ -3183,11 +3287,11 @@
  - date_published: 2024-10-20T01:23:43.188126+00:00
 
  ## Faculty of Social Sciences
- - [http://en-social-sciences.tau.ac.il](http://en-social-sciences.tau.ac.il)
+ - [https://en-social-sciences.tau.ac.il](https://en-social-sciences.tau.ac.il)
  - date_published: 2024-08-18T22:23:52+00:00
 
  ## יזמות דף הבית
- - [http://enter.tau.ac.il](http://enter.tau.ac.il)
+ - [https://enter.tau.ac.il](https://enter.tau.ac.il)
  - date_published: 1980-01-01T00:00:00+00:00
 
  ## הפקולטה למדעים מדויקים
@@ -3195,7 +3299,7 @@
  - date_published: 2024-08-07T11:31:03+00:00
 
  ## הפקולטה למדעים מדויקים
- - [http://exact-sciences.tau.ac.il](http://exact-sciences.tau.ac.il)
+ - [https://exact-sciences.tau.ac.il](https://exact-sciences.tau.ac.il)
  - date_published: 2024-07-24T07:58:39.079052+00:00
 
  ## התכנית הבין-תחומית לתלמידים מצטיינים
@@ -3231,7 +3335,7 @@
  - date_published: 1980-01-01T00:00:00+00:00
 
  ## צימבליסטה
- - [http://heritage.tau.ac.il](http://heritage.tau.ac.il)
+ - [https://heritage.tau.ac.il](https://heritage.tau.ac.il)
  - date_published: 1980-01-01T00:00:00+00:00
 
  ## הפקולטה למדעי הרוח
@@ -3246,6 +3350,10 @@
  - [https://ilc.tau.ac.il](https://ilc.tau.ac.il)
  - date_published: 2024-08-07T14:27:05+00:00
 
+ ## Tel Aviv | המכון למשפט ופילנתרופיה | אוניברסיטת תל אביב
+ - [https://ilp.sites.tau.ac.il](https://ilp.sites.tau.ac.il)
+ - date_published: 2024-07-17T00:00:00+00:00
+
  ## קורסים משלבי עשייה
  - [https://impact.tau.ac.il](https://impact.tau.ac.il)
  - date_published: 1980-01-01T00:00:00+00:00
@@ -3259,7 +3367,7 @@
  - date_published: 2024-07-21T21:13:18+00:00
 
  ## היחידה ללימודי שפות
- - [http://languages.tau.ac.il](http://languages.tau.ac.il)
+ - [https://languages.tau.ac.il](https://languages.tau.ac.il)
  - date_published: 1980-01-01T00:00:00+00:00
 
  ## הפקולטה למשפטים ע"ש בוכמן
@@ -3287,7 +3395,7 @@
  - date_published: 2024-07-24T07:58:07.649976+00:00
 
  ## עמוד הבית
- - [http://new.tau.ac.il](http://new.tau.ac.il)
+ - [https://new.tau.ac.il](https://new.tau.ac.il)
  - date_published: 2024-07-24T07:57:25.645710+00:00
 
  ## אוניברסיטת תל אביב לנוער - נוער שוחר מדע
@@ -3315,11 +3423,11 @@
  - date_published: 2024-07-24T07:58:10.375618+00:00
 
  ## רשות המחקר
- - [http://research-authority.tau.ac.il](http://research-authority.tau.ac.il)
+ - [https://research-authority.tau.ac.il](https://research-authority.tau.ac.il)
  - date_published: 2024-07-24T07:57:52.891369+00:00
 
  ## לשכת סגן הנשיא למחקר ופיתוח
- - [http://research-vp.tau.ac.il](http://research-vp.tau.ac.il)
+ - [https://research-vp.tau.ac.il](https://research-vp.tau.ac.il)
  - date_published: 1980-01-01T00:00:00+00:00
 
  ## Добро пожаловать в Тель-Авивский университет
@@ -3342,20 +3450,28 @@
  - [https://scrm.tau.ac.il](https://scrm.tau.ac.il)
  - date_published: 2024-08-19T00:33:53+00:00
 
+ ## ארגון הסגל האקדמי הבכיר אוניברסיטת תל אביב
+ - [https://senioracademic.sites.tau.ac.il](https://senioracademic.sites.tau.ac.il)
+ - date_published: 2024-07-24T07:58:37.362263+00:00
+
+ ## מרכז הנשיא מאיר שמגר  למשפט דיגיטלי וחדשנות באוניברסיטת תל- אביב
+ - [https://shamgarlaw.sites.tau.ac.il](https://shamgarlaw.sites.tau.ac.il)
+ - date_published: 2024-07-21T23:24:29.546710+00:00
+
  ## מוזיאון הטבע ע"ש שטיינהרדט
  - [https://smnh.tau.ac.il](https://smnh.tau.ac.il)
  - date_published: 2024-07-24T07:58:17.703441+00:00
 
  ## הפקולטה למדעי החברה
- - [http://social-sciences.tau.ac.il](http://social-sciences.tau.ac.il)
+ - [https://social-sciences.tau.ac.il](https://social-sciences.tau.ac.il)
  - date_published: 2024-07-24T07:58:40.973053+00:00
 
  ## הספרייה למדעי החברה, לניהול ולחינוך
- - [http://soclib.tau.ac.il](http://soclib.tau.ac.il)
+ - [https://soclib.tau.ac.il](https://soclib.tau.ac.il)
  - date_published: 2024-07-24T07:57:30.380858+00:00
 
  ## Parasol Foundation International LL.M. Program
- - [http://studylaw.tau.ac.il](http://studylaw.tau.ac.il)
+ - [https://studylaw.tau.ac.il](https://studylaw.tau.ac.il)
  - date_published: 2024-07-21T21:15:11+00:00
 
  ## עמוד הבית
@@ -3367,7 +3483,7 @@
  - date_published: 1980-01-01T00:00:00+00:00
 
  ## מכרזים והתקשרויות
- - [http://tenders.tau.ac.il](http://tenders.tau.ac.il)
+ - [https://tenders.tau.ac.il](https://tenders.tau.ac.il)
  - date_published: 1980-01-01T00:00:00+00:00
 
  ## TAU Innovation Labs
@@ -3375,36 +3491,20 @@
  - date_published: 2024-07-24T07:58:30.734437+00:00
 
  ## TAU WEBCAST - Tel Aviv University Video Services
- - [http://video.tau.ac.il](http://video.tau.ac.il)
+ - [https://video.tau.ac.il](https://video.tau.ac.il)
  - date_published: 2024-07-24T07:57:37.830649+00:00
 
  ## welcome2TAU
  - [https://welcome.tau.ac.il](https://welcome.tau.ac.il)
  - date_published: 2024-07-24T07:58:43.319074+00:00
 
- ## Elor | Hadar Elor Homepage
- - [https://www.elor.sites.tau.ac.il](https://www.elor.sites.tau.ac.il)
- - date_published: 2024-07-21T09:41:08.525770+00:00
-
  ## ברוכים הבאים לפקולטה להנדסה
- - [http://www.eng.tau.ac.il](http://www.eng.tau.ac.il)
+ - [https://www.eng.tau.ac.il](https://www.eng.tau.ac.il)
  - date_published: 2024-06-23T09:46:30+00:00
 
- ## Tel Aviv | המכון למשפט ופילנתרופיה | אוניברסיטת תל אביב
- - [https://www.ilp.sites.tau.ac.il](https://www.ilp.sites.tau.ac.il)
- - date_published: 2024-07-17T00:00:00+00:00
-
  ## School of Mathematical Sciences
- - [http://www.math.tau.ac.il](http://www.math.tau.ac.il)
+ - [https://www.math.tau.ac.il](https://www.math.tau.ac.il)
  - date_published: 2024-06-17T12:53:05+00:00
-
- ## ארגון הסגל האקדמי הבכיר אוניברסיטת תל אביב
- - [https://www.senioracademic.sites.tau.ac.il](https://www.senioracademic.sites.tau.ac.il)
- - date_published: 2024-07-24T07:58:37.362263+00:00
-
- ## מרכז הנשיא מאיר שמגר  למשפט דיגיטלי וחדשנות באוניברסיטת תל- אביב
- - [https://www.shamgarlaw.sites.tau.ac.il](https://www.shamgarlaw.sites.tau.ac.il)
- - date_published: 2024-07-21T23:24:29.546710+00:00
 
  ## אגודת ידידי אוניברסיטת תל אביב
  - [https://yedidim.tau.ac.il](https://yedidim.tau.ac.il)
@@ -3447,7 +3547,7 @@
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## Home - Physics Department, Technion
- - [http://phys.technion.ac.il](http://phys.technion.ac.il)
+ - [https://phys.technion.ac.il](https://phys.technion.ac.il)
  - date_published: 2024-06-22T12:49:21+00:00
 
  ## Shaked Brody | Ph.D. student, Computer Science Department, Technion
@@ -3481,6 +3581,7 @@
  ## Home - Faculty of Electrical And Computer Engineering - Technion
  - [http://webee.technion.ac.il](http://webee.technion.ac.il)
  - date_published: 2024-01-16T00:00:00+00:00
+ - date_dead_since: 2025-01-05T23:11:28.937503+00:00
 
  ## גחלילית
  - [https://davidson-firefly.weizmann.ac.il](https://davidson-firefly.weizmann.ac.il)
@@ -3515,15 +3616,15 @@
  - date_published: 2024-05-05T00:00:00+00:00
 
  ## המכללה האקדמית עמק יזרעאל ע"ש מקס שטרן
- - [http://www.yvc.ac.il](http://www.yvc.ac.il)
+ - [https://yvc.ac.il](https://yvc.ac.il)
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## 2swim - 2swim
- - [https://www.2swim.co.il](https://www.2swim.co.il)
+ - [https://2swim.co.il](https://2swim.co.il)
  - date_published: 2023-02-18T18:53:12+00:00
 
  ## 3M Science. Applied to Life. | 3M ישראל
- - [https://www.3misrael.co.il](https://www.3misrael.co.il)
+ - [https://3misrael.co.il](https://3misrael.co.il)
  - date_published: 2024-08-06T10:39:39.316905+00:00
 
  ## Первое радио 89.1FM
@@ -3531,11 +3632,11 @@
  - date_published: 2024-02-08T21:49:59.501224+00:00
 
  ## Online fashion from over 500 top brands  | ABOUT YOU
- - [https://en.aboutyou.co.il](https://en.aboutyou.co.il)
+ - [https://aboutyou.co.il](https://aboutyou.co.il)
  - date_published: 2024-09-17T18:11:48+00:00
 
  ## Online fashion from over 500 top brands  | ABOUT YOU
- - [https://www.aboutyou.co.il](https://www.aboutyou.co.il)
+ - [https://en.aboutyou.co.il](https://en.aboutyou.co.il)
  - date_published: 2024-09-17T18:11:48+00:00
 
  ## WP Accessibility Helper - Wordpress accessibility plugin
@@ -3551,7 +3652,7 @@
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## ביגוד ונעלי ספורט באתר הרשמי של אדידס | אדידס ישראל
- - [https://www.adidas.co.il](https://www.adidas.co.il)
+ - [https://adidas.co.il](https://adidas.co.il)
  - date_published: 2024-07-14T12:14:49.062355+00:00
 
  ## אאא — פונטים בעברית
@@ -3559,11 +3660,11 @@
  - date_published: 2024-10-29T14:03:24.442449+00:00
 
  ## רכבי יוקרה | אלפא רומיאו ישראל | Alfa Romeo Israel
- - [https://www.alfaromeo.co.il](https://www.alfaromeo.co.il)
+ - [https://alfaromeo.co.il](https://alfaromeo.co.il)
  - date_published: 2024-06-10T10:47:13+00:00
 
  ## שיווק דיגיטלי זה AskPavel - חזית הידע בשיווק באינטרנט משנת 2007
- - [https://www.askpavel.co.il](https://www.askpavel.co.il)
+ - [https://askpavel.co.il](https://askpavel.co.il)
  - date_published: 2022-12-29T06:58:46+00:00
 
  ## Asran – אגודת הסטודנטים למדעי הבריאות בבן גוריון
@@ -3571,7 +3672,7 @@
  - date_published: 2024-05-11T09:07:59.321698+00:00
 
  ## מגזין את
- - [https://www.atmag.co.il](https://www.atmag.co.il)
+ - [https://atmag.co.il](https://atmag.co.il)
  - date_published: 2024-06-18T07:41:55+00:00
 
  ## Attractive – Creative B2B Agency for Tech Companies
@@ -3579,11 +3680,11 @@
  - date_published: 2024-10-29T07:33:18.170943+00:00
 
  ## Error Page
- - [https://www.audi.co.il](https://www.audi.co.il)
+ - [http://audi.co.il](http://audi.co.il)
  - date_published: 2024-07-19T22:45:28.319459+00:00
 
  ## אוטו מגזין רכב - מאגר מידע על רכבים
- - [https://www.auto.co.il](https://www.auto.co.il)
+ - [https://auto.co.il](https://auto.co.il)
  - date_published: 2024-08-11T13:52:30.080411+00:00
 
  ## Home - autocom
@@ -3595,15 +3696,15 @@
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## עסקים ובעלי מקצוע מומלצים - בזק B144
- - [https://www.b144.co.il](https://www.b144.co.il)
+ - [https://b144.co.il](https://b144.co.il)
  - date_published: 2024-09-17T17:55:31.708698+00:00
 
  ## פורטל יהדות לאתרים דתיים ברשת :: בבא קמא
- - [http://www.babakama.co.il](http://www.babakama.co.il)
+ - [https://babakama.co.il](https://babakama.co.il)
  - date_published: 2024-06-27T07:54:51.491132+00:00
 
  ## עדי באריל - יעוץ תקשורת | יחסי ציבור | adibarill communications
- - [http://barill.co.il](http://barill.co.il)
+ - [https://barill.co.il](https://barill.co.il)
  - date_published: 2021-04-19T00:00:00+00:00
 
  ## Homepage - Basch Interactive
@@ -3611,7 +3712,7 @@
  - date_published: 2024-01-16T00:00:00+00:00
 
  ## חברת מיתוג, עיצוב אתרים, עיצוב אפליקציה, עיצוב לוגו | בי קריאיישנס
- - [http://www.bee-creations.co.il](http://www.bee-creations.co.il)
+ - [https://bee-creations.co.il](https://bee-creations.co.il)
  - date_published: 2024-06-28T19:26:37.951507+00:00
 
  ## Attention Required! | Cloudflare
@@ -3627,7 +3728,7 @@
  - date_published: 2024-07-14T21:48:55.232851+00:00
 
  ## דלת פתוחה בר אילן
- - [https://www.biuopendoors.co.il](https://www.biuopendoors.co.il)
+ - [https://biuopendoors.co.il](https://biuopendoors.co.il)
  - date_published: 2024-08-07T15:14:49.185292+00:00
 
  ## בלוגלי | בלוג, בלוגים בלוגיה
@@ -3635,15 +3736,15 @@
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## Sabine Hossenfelder: Backreaction
- - [http://backreaction.blogspot.co.il](http://backreaction.blogspot.co.il)
+ - [https://backreaction.blogspot.co.il](https://backreaction.blogspot.co.il)
  - date_published: 2024-06-30T06:00:00+00:00
 
  ## Condensed concepts
- - [http://condensedconcepts.blogspot.co.il](http://condensedconcepts.blogspot.co.il)
+ - [https://condensedconcepts.blogspot.co.il](https://condensedconcepts.blogspot.co.il)
  - date_published: 2024-06-30T07:22:54+00:00
 
  ## עונג שבת (עונ"ש)
- - [http://onegshabbat.blogspot.co.il](http://onegshabbat.blogspot.co.il)
+ - [https://onegshabbat.blogspot.co.il](https://onegshabbat.blogspot.co.il)
  - date_published: 2024-06-30T09:03:00+00:00
 
  ## The Sandman
@@ -3662,16 +3763,16 @@
  - [https://wp.boostapp.co.il](https://wp.boostapp.co.il)
  - date_published: 2024-07-14T03:36:37.305242+00:00
 
+ ## מכשירים ביתיים איכותיים ובני קיימא | בוש
+ - [https://bosch-home.co.il](https://bosch-home.co.il)
+ - date_published: 2024-06-16T21:36:28.206341+00:00
+
  ## הרחבת אחריות בוש | תיאום התקנה | אחריות מורחבת - BOSCH
  - [https://marketing.bosch-home.co.il](https://marketing.bosch-home.co.il)
  - date_published: 2024-04-17T00:00:00+00:00
 
- ## מכשירים ביתיים איכותיים ובני קיימא | בוש
- - [https://www.bosch-home.co.il](https://www.bosch-home.co.il)
- - date_published: 2024-06-16T21:36:28.206341+00:00
-
  ## עמוד הבית | Reshef - brother Israel
- - [http://www.brother.co.il](http://www.brother.co.il)
+ - [https://brother.co.il](https://brother.co.il)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## סמארטפונים, מחשבים, גאדג'טים ועוד - באג
@@ -3695,11 +3796,11 @@
  - date_published: 2024-07-01T07:22:18.161141+00:00
 
  ## calcalist-conferences
- - [https://www.calcalist-conferences.co.il](https://www.calcalist-conferences.co.il)
+ - [https://calcalist-conferences.co.il](https://calcalist-conferences.co.il)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Capterra Israel helps you find the right software for your business
- - [https://www.capterra.co.il](https://www.capterra.co.il)
+ - [https://capterra.co.il](https://capterra.co.il)
  - date_published: 2024-07-19T18:05:10.657741+00:00
 
  ## כרמלה - משלוח פירות וירקות טריים ומוצרים איכותיים מהשוק עד הבית
@@ -3711,7 +3812,7 @@
  - date_published: 2024-10-28T19:36:13+00:00
 
  ## כתום - קידום אתרים ושיווק אינטרנטי כמו שצריך
- - [http://www.catom.co.il](http://www.catom.co.il)
+ - [https://catom.co.il](https://catom.co.il)
  - date_published: 2024-07-14T03:34:33.730192+00:00
 
  ## Mild dermocosmetics for face and body care
@@ -3719,11 +3820,11 @@
  - date_published: 2024-10-30T23:02:40.202160+00:00
 
  ## Jeep® Israel | ג׳יפ ישראל
- - [https://www.chrysler.co.il](https://www.chrysler.co.il)
+ - [https://chrysler.co.il](https://chrysler.co.il)
  - date_published: 2024-06-19T08:59:30.068763+00:00
 
  ## עמוד ראשי - סינמטק תל אביב
- - [https://www.cinema.co.il](https://www.cinema.co.il)
+ - [https://cinema.co.il](https://cinema.co.il)
  - date_published: 2024-09-01T00:00:00+00:00
 
  ## גלו את העולם של סיטרואן מגוון רכבים חדשים למכירה | Citroen Israel
@@ -3731,7 +3832,7 @@
  - date_published: 2024-05-08T05:30:18.595413+00:00
 
  ## Linkbynet - En construction
- - [https://www.citroenorigins.co.il](https://www.citroenorigins.co.il)
+ - [https://citroenorigins.co.il](https://citroenorigins.co.il)
  - date_published: 2018-04-18T13:00:13+00:00
 
  ## כלל ביטוח ופיננסים - דף הבית
@@ -3743,11 +3844,11 @@
  - date_published: 2024-07-04T09:05:47.456203+00:00
 
  ## Web Development Company | Codenroll
- - [https://www.codenroll.co.il](https://www.codenroll.co.il)
+ - [https://codenroll.co.il](https://codenroll.co.il)
  - date_published: 2024-06-24T06:01:57.391497+00:00
 
  ## More Than Tires - Continental EN
- - [https://www.continental-tires.co.il](https://www.continental-tires.co.il)
+ - [https://continental-tires.co.il](https://continental-tires.co.il)
  - date_published: 2024-09-18T01:39:19.001003+00:00
 
  ## Daniel Chen - Product Design: Branding, UI & UX Design
@@ -3756,7 +3857,7 @@
  - tags: ['shop']
 
  ## אתר החדשות דבר | כלכלה, עבודה, בריאות וחברה
- - [https://www.davar1.co.il](https://www.davar1.co.il)
+ - [https://davar1.co.il](https://davar1.co.il)
  - date_published: 2024-07-16T21:33:55+00:00
 
  ## Discount Capital | דיסקונט קפיטל
@@ -3772,12 +3873,16 @@
  - date_published: 2024-05-01T05:03:26.772501+00:00
 
  ## דמרי - מהחזון ועד המפתח
- - [https://www.dimri.co.il](https://www.dimri.co.il)
+ - [https://dimri.co.il](https://dimri.co.il)
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## developer.discountbank.co.il/openapi/openapi
  - [https://developer.discountbank.co.il](https://developer.discountbank.co.il)
  - date_published: 2024-10-06T17:01:11.253103+00:00
+
+ ## בנק דיסקונט לישראל
+ - [https://discountbank.co.il](https://discountbank.co.il)
+ - date_published: 2024-05-01T06:45:08.011771+00:00
 
  ## Investor Relations
  - [https://investors.discountbank.co.il](https://investors.discountbank.co.il)
@@ -3787,12 +3892,8 @@
  - [https://mortgage.discountbank.co.il](https://mortgage.discountbank.co.il)
  - date_published: 2024-06-16T00:00:00+00:00
 
- ## בנק דיסקונט לישראל
- - [https://www.discountbank.co.il](https://www.discountbank.co.il)
- - date_published: 2024-05-01T06:45:08.011771+00:00
-
  ## Discount Tech - Home
- - [https://www.discountech.co.il](https://www.discountech.co.il)
+ - [https://discountech.co.il](https://discountech.co.il)
  - date_published: 2024-06-16T12:34:38.337856+00:00
 
  ## דיסני ישראל | הבית הרשמי של כל מה שדיסני
@@ -3800,19 +3901,19 @@
  - date_published: 2024-06-16T01:50:45.132847+00:00
 
  ## בניית אתרים עם מומחים ~ דיביין אתרים ~ בניית, עיצוב ופיתוח אתרים בחכמה
- - [https://www.divinesites.co.il](https://www.divinesites.co.il)
+ - [https://divinesites.co.il](https://divinesites.co.il)
  - date_published: 2021-05-09T11:32:44+00:00
 
  ## דוקטורס אונלי Doctors Only | חדשות רפואה | מידע לכל רופא | רשת הרופאים בישראל
- - [https://doctorsonly.co.il](https://doctorsonly.co.il)
+ - [http://doctorsonly.co.il](http://doctorsonly.co.il)
  - date_published: 2024-07-16T12:21:48+00:00
 
  ## האיגוד הישראלי לראומטולוגיה | The Israeli Society of Rheumatology
- - [https://rheumatology.doctorsonly.co.il](https://rheumatology.doctorsonly.co.il)
+ - [http://rheumatology.doctorsonly.co.il](http://rheumatology.doctorsonly.co.il)
  - date_published: 2024-06-28T12:04:44+00:00
 
  ## ראם ישראל  | RAM Israel
- - [http://www.dodge.co.il](http://www.dodge.co.il)
+ - [https://dodge.co.il](https://dodge.co.il)
  - date_published: 2024-06-19T09:00:31.871377+00:00
 
  ## סקירה כללית
@@ -3822,26 +3923,27 @@
  ## דרושים IL- חיפוש עבודה בחינם, גיוס עובדים
  - [https://www.drushim.co.il](https://www.drushim.co.il)
  - date_published: 2024-09-17T17:54:54.875462+00:00
+ - date_dead_since: 2025-01-05T23:25:26.779116+00:00
 
  ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
- - [https://www.duracell.co.il](https://www.duracell.co.il)
+ - [https://duracell.co.il](https://duracell.co.il)
  - date_published: 1970-01-01T00:00:00+00:00
 
  ## דייסון ישראל | האתר הרשמי | Dyson Israel
- - [https://www.dyson.co.il](https://www.dyson.co.il)
+ - [https://dyson.co.il](https://dyson.co.il)
  - date_published: 2024-07-07T01:57:31.342083+00:00
 
  ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
- - [http://www.epochtimes.co.il](http://www.epochtimes.co.il)
+ - [https://epochtimes.co.il](https://epochtimes.co.il)
  - date_published: 2024-06-24T00:00:00+00:00
 
  ## דף הבית - ערן שטרן
- - [https://eranstern.co.il](https://eranstern.co.il)
+ - [http://eranstern.co.il](http://eranstern.co.il)
  - date_published: 2023-11-17T15:06:30+00:00
  - tags: ['personal']
 
  ## אתר הקורסים של ערן שטרן
- - [https://school.eranstern.co.il](https://school.eranstern.co.il)
+ - [http://school.eranstern.co.il](http://school.eranstern.co.il)
  - date_published: 2024-08-18T13:06:28.173922+00:00
 
  ## אשכולות | שומרים על זכויות האמנים המבצעים בישראל
@@ -3849,11 +3951,11 @@
  - date_published: 2024-08-11T13:52:36.456896+00:00
 
  ## חנות אינטרנטית עם ממשק ידידותי בעברית ופיצ'רים מתקדמים | E-shop
- - [https://www.e-shop.co.il](https://www.e-shop.co.il)
+ - [https://e-shop.co.il](https://e-shop.co.il)
  - date_published: 2024-07-14T03:35:18.373421+00:00
 
  ## כרטיסים להופעות, מופעים, בידור, תאטרון וספורט - Eventim
- - [https://www.eventim.co.il](https://www.eventim.co.il)
+ - [https://eventim.co.il](https://eventim.co.il)
  - date_published: 2024-07-20T14:52:44.665232+00:00
 
  ## face 2 face - פתרונות אינטרנט מתקדמים - בניית אתרים | פרסום ושיווק באינטרנט
@@ -3865,11 +3967,11 @@
  - date_published: 2024-03-28T00:00:00+00:00
 
  ## פיתוח אתרים ומערכות ידע | Fatfish
- - [https://www.fatfish.co.il](https://www.fatfish.co.il)
+ - [https://fatfish.co.il](https://fatfish.co.il)
  - date_published: 2024-07-01T08:37:44+00:00
 
  ## FATLADY | A boutique home for websites and apps by Elad Ziv
- - [http://www.fatlady.co.il](http://www.fatlady.co.il)
+ - [https://www.fatlady.co.il](https://www.fatlady.co.il)
  - date_published: 2024-06-28T19:26:39.556919+00:00
 
  ## Point of View
@@ -3881,11 +3983,11 @@
  - date_published: 2024-06-20T16:51:29+00:00
 
  ## Feuerstein Design – Visual Branding
- - [https://www.fdesign.co.il](https://www.fdesign.co.il)
+ - [https://fdesign.co.il](https://fdesign.co.il)
  - date_published: 2024-05-04T14:44:39.067585+00:00
 
  ## פיאט ישראל האתר הרשמי | Fiat Israel Official Website
- - [https://www.fiat.co.il](https://www.fiat.co.il)
+ - [https://fiat.co.il](https://fiat.co.il)
  - date_published: 2024-06-16T09:36:02+00:00
 
  ## פורבס ישראל - המגזין העסקי המוביל בעולם
@@ -3901,7 +4003,7 @@
  - date_published: 2024-07-09T07:16:29.056501+00:00
 
  ## גל עיצוב, הקמה וקידום אתרי אינטרנט
- - [http://gald.co.il](http://gald.co.il)
+ - [https://gald.co.il](https://gald.co.il)
  - date_published: 2024-08-11T23:59:36.467090+00:00
 
  ## גלעד לזכרם - אוניברסיטת בר אילן
@@ -3911,97 +4013,4 @@
  ## גרנייה ישראל - Garnier | צבעי שיער, ניקוי וטיפוח הפנים והגוף
  - [https://garnier.co.il](https://garnier.co.il)
  - date_published: 2024-10-30T17:02:30.361049+00:00
-
- ## דף הבית - Gav-Yam Negev
- - [https://gavyam-negev.co.il](https://gavyam-negev.co.il)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## The Less Interesting Times
- - [http://eran.geek.co.il](http://eran.geek.co.il)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Things n' Stuff
- - [https://geek.co.il](https://geek.co.il)
- - date_published: 2024-05-02T11:41:46.288813+00:00
-
- ## GIANT ישראל היבואן הרשמי והבלעדי - אופניים ואביזרים לרוכב
- - [https://giant-bike.co.il](https://giant-bike.co.il)
- - date_published: 2024-09-18T02:00:38.495294+00:00
-
- ## Gilead Sciences
- - [https://www.gileadisrael.co.il](https://www.gileadisrael.co.il)
- - date_published: 2024-07-02T04:08:09.086947+00:00
-
- ## Globes - Israel Business News
- - [https://en.globes.co.il](https://en.globes.co.il)
- - date_published: 2024-02-27T00:00:00+00:00
- - tags: ['business news', 'israel news']
-
- ## גלובס זירת העסקים של ישראל
- - [https://globes.co.il](https://globes.co.il)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Google ספרים
- - [https://books.google.co.il](https://books.google.co.il)
- - date_published: 2024-05-01T03:14:23.131177+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.co.il](https://maps.google.co.il)
- - date_published: 2024-07-20T07:39:58.456982+00:00
-
- ## Google Scholar
- - [https://scholar.google.co.il](https://scholar.google.co.il)
- - date_published: 2024-04-28T03:45:43.984695+00:00
-
- ## Google
- - [https://www.google.co.il](https://www.google.co.il)
- - date_published: 2024-06-21T22:25:16.126625+00:00
-
- ## Great Place To Work
- - [https://www.greatplacetowork.co.il](https://www.greatplacetowork.co.il)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## בניית אתרים באר שבע, קידום פייסבוק באר שבע, קידום גוגל באר שבע, עיצוב לוגו, עיצוב כרטיס ביקור באר שבע, משרד פרסום באר שבע
- - [https://greenlime.co.il](https://greenlime.co.il)
- - date_published: 2024-07-14T03:36:40.286631+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://gif.haarets.co.il](https://gif.haarets.co.il)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## הארץ - חדשות, ידיעות מהארץ והעולם - עיתון הארץ
- - [https://img.haarets.co.il](https://img.haarets.co.il)
- - date_published: 2023-12-04T15:32:28.521089+00:00
-
- ## הארץ - חדשות, ידיעות מהארץ והעולם - עיתון הארץ
- - [https://haaretz.co.il](https://haaretz.co.il)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## התחברות
- - [https://login.haaretz.co.il](https://login.haaretz.co.il)
- - date_published: 2024-05-10T05:56:53.066450+00:00
-
- ## מינוי לאתר הארץ
- - [https://promotion.haaretz.co.il](https://promotion.haaretz.co.il)
- - date_published: 2024-05-10T05:57:03.676155+00:00
-
- ## מינוי לאתר הארץ
- - [https://promotions.haaretz.co.il](https://promotions.haaretz.co.il)
- - date_published: 2024-07-12T18:41:33.225421+00:00
-
- ## הכי חם - המקום הכי חם
- - [https://ha-makom.co.il](https://ha-makom.co.il)
- - date_published: 2024-10-27T11:07:59.449995+00:00
-
- ## מחשבוני שער יציג, שערי מט"ח ושערי חליפין ידידותיים וקלים לשימוש – המרה
- - [https://www.hamara.co.il](https://www.hamara.co.il)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## השולחן
- - [https://hashulchan.co.il](https://hashulchan.co.il)
- - date_published: 2024-10-20T21:36:58.098792+00:00
-
- ## Home - Herz Brand Communications & Advertising
- - [https://herz.co.il](https://herz.co.il)
- - date_published: 2024-06-21T21:13:40+00:00
 

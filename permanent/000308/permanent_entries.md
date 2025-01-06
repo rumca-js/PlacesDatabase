@@ -1,3 +1,95 @@
+ ## UNM Bookstore
+ - [https://bookstore.unm.edu](https://bookstore.unm.edu)
+ - date_published: 2024-05-07T21:44:14.568515+00:00
+
+ ## UNM Brand Guidelines | The University of New Mexico
+ - [https://brand.unm.edu](https://brand.unm.edu)
+ - date_published: 2023-11-28T00:00:36+00:00
+
+ ## Covid-19 Updates & Information :: 
+    
+            New Mexico's Flagship University | The University of New Mexico
+ - [https://bringbackthepack.unm.edu](https://bringbackthepack.unm.edu)
+ - date_published: 2023-03-13T00:00:00+00:00
+
+ ## Campus Safety | The University of New Mexico
+ - [https://campussafety.unm.edu](https://campussafety.unm.edu)
+ - date_published: 2024-07-02T05:00:05+00:00
+
+ ## UNM Comprehensive Cancer Center | Cancer Care | New Mexico | Albuquerque
+ - [http://cancer.unm.edu](http://cancer.unm.edu)
+ - date_published: 2024-07-12T22:29:09+00:00
+
+ ## Canvas @ UNM | The University of New Mexico
+ - [https://canvasinfo.unm.edu](https://canvasinfo.unm.edu)
+ - date_published: 2024-04-30T20:50:44+00:00
+
+ ## Sign in to your account
+ - [https://canvas.unm.edu](https://canvas.unm.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Office of Career Services | The University of New Mexico
+ - [https://career.unm.edu](https://career.unm.edu)
+ - date_published: 2024-06-13T19:37:10+00:00
+
+ ## Office of the Registrar | The University of New Mexico
+ - [https://catalog.unm.edu](https://catalog.unm.edu)
+ - date_published: 2024-05-06T14:05:13+00:00
+
+ ## UNM Continuing Education
+ - [https://ce.unm.edu](https://ce.unm.edu)
+ - date_published: 2024-05-02T00:47:35+00:00
+
+ ## Office of the Chief Information Officer | The University of New Mexico
+ - [http://cio.unm.edu](http://cio.unm.edu)
+ - date_published: 2024-06-26T22:53:25+00:00
+
+ ## Computing @ UNM :: 
+    
+            Information Technologies | The University of New Mexico
+ - [https://computing.unm.edu](https://computing.unm.edu)
+ - date_published: 2024-05-07T21:44:04.476355+00:00
+
+ ## Sign in to your account
+ - [https://confluence.unm.edu](https://confluence.unm.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## UNM Continuing Education
+ - [https://continuinged.unm.edu](https://continuinged.unm.edu)
+ - date_published: 2024-07-02T05:09:04.819048+00:00
+
+ ## Community and Regional Planning | The University of New Mexico
+ - [http://crp.unm.edu](http://crp.unm.edu)
+ - date_published: 2024-04-18T19:29:56+00:00
+
+ ## Campus Capital & Space Planning | The University of New Mexico
+ - [https://css.unm.edu](https://css.unm.edu)
+ - date_published: 2024-07-01T14:21:29+00:00
+
+ ## Department of Computer Science | The University of New Mexico
+ - [http://cs.unm.edu](http://cs.unm.edu)
+ - date_published: 2024-06-17T10:11:14+00:00
+
+ ## Each of us defines all of us | The University of New Mexico
+ - [https://define.unm.edu](https://define.unm.edu)
+ - date_published: 2024-04-09T20:57:04+00:00
+
+ ## Degree Roadmaps
+ - [https://degrees.unm.edu](https://degrees.unm.edu)
+ - date_published: 2024-03-18T21:03:47+00:00
+
+ ## Division for Equity and Inclusion Website Help Desk
+ - [https://dei-webhelp.unm.edu](https://dei-webhelp.unm.edu)
+ - date_published: 2024-07-02T05:08:21.765089+00:00
+
+ ## V2 Template Demo Site | The University of New Mexico
+ - [https://demo.unm.edu](https://demo.unm.edu)
+ - date_published: 2024-05-29T21:55:23+00:00
+
+ ## UNM Digital Repository
+ - [https://digitalrepository.unm.edu](https://digitalrepository.unm.edu)
+ - date_published: 2024-07-02T05:18:13.122601+00:00
+
  ## UNM Online Directory | The University of New Mexico
  - [https://directory.unm.edu](https://directory.unm.edu)
  - date_published: 2024-05-07T21:43:06.464670+00:00
@@ -3915,92 +4007,4 @@
  ## Search The University of Utah
  - [https://gcse.search.utah.edu](https://gcse.search.utah.edu)
  - date_published: 2024-07-02T11:20:21.620781+00:00
-
- ## - Campus Connect
- - [https://getinvolved.utah.edu](https://getinvolved.utah.edu)
- - date_published: 2024-05-07T22:10:39.477753+00:00
-
- ## University Advancement
- - [https://giving.utah.edu](https://giving.utah.edu)
- - date_published: 2024-07-02T11:33:39.016559+00:00
-
- ## Global U
- - [https://global.utah.edu](https://global.utah.edu)
- - date_published: 2024-07-02T11:42:35.818237+00:00
-
- ## KSoC GradSAC Website
- - [https://gradsac.cs.utah.edu](https://gradsac.cs.utah.edu)
- - date_published: 2024-03-04T19:02:50+00:00
-
- ## Graduate School - The University of Utah
- - [https://gradschool.utah.edu](https://gradschool.utah.edu)
- - date_published: 2024-07-02T11:18:21.719856+00:00
-
- ## Handbooks
- - [https://handbook.cs.utah.edu](https://handbook.cs.utah.edu)
- - date_published: 2023-06-29T20:26:43+00:00
-
- ## Center for Natural and Technological Hazards - The University of Utah
- - [https://hazards.utah.edu](https://hazards.utah.edu)
- - date_published: 2024-07-02T11:27:14.830122+00:00
-
- ## University of Utah Health
- - [https://healthcare.utah.edu](https://healthcare.utah.edu)
- - date_published: 2024-07-02T10:52:56+00:00
-
- ## Campus IT Help Desk - University Information Technology - The University of Utah
- - [http://helpdesk.utah.edu](http://helpdesk.utah.edu)
- - date_published: 2024-07-02T11:20:05.208136+00:00
-
- ## Housing & Residential Education
- - [https://housing.utah.edu](https://housing.utah.edu)
- - date_published: 2024-07-02T11:42:11.265115+00:00
-
- ## Virtual Server List
- - [http://hpux.cs.utah.edu](http://hpux.cs.utah.edu)
- - date_published: 2023-10-26T13:20:22+00:00
-
- ## Health - The University of Utah
- - [https://hsp.utah.edu](https://hsp.utah.edu)
- - date_published: 2024-07-02T11:27:13.154676+00:00
-
- ## Barbara L. and Norman C. Tanner Center for Noviolent Human Rights Advocacy - The University of Utah
- - [https://humanrights.utah.edu](https://humanrights.utah.edu)
- - date_published: 2024-07-02T11:21:32.869255+00:00
-
- ## Imagine U
- - [http://imagineu.utah.edu](http://imagineu.utah.edu)
- - date_published: 2024-07-02T11:29:03.748456+00:00
-
- ## Innovate U
- - [https://innovate.utah.edu](https://innovate.utah.edu)
- - date_published: 2024-07-02T11:19:28.989441+00:00
-
- ## Internships - College of Social and Behavioral Science - The University of Utah
- - [https://internships.csbs.utah.edu](https://internships.csbs.utah.edu)
- - date_published: 2024-02-08T17:51:53.015372+00:00
-
- ## Login - The University of Utah
- - [https://intranet.coe.utah.edu](https://intranet.coe.utah.edu)
- - date_published: 2024-07-02T11:29:55.336575+00:00
-
- ## University Information Technology - The University of Utah
- - [https://it.utah.edu](https://it.utah.edu)
- - date_published: 2024-05-11T09:34:13.595702+00:00
-
- ## Student Leadership & Involvement
- - [https://leadership.utah.edu](https://leadership.utah.edu)
- - date_published: 2024-07-02T11:19:03.160360+00:00
-
- ## Learn.Genetics
- - [https://learn.genetics.utah.edu](https://learn.genetics.utah.edu)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## Learning Center - The University of Utah
- - [https://learningcenter.utah.edu](https://learningcenter.utah.edu)
- - date_published: 2024-07-02T11:32:57.978560+00:00
-
- ## J. Willard Marriott Library - lib.utah.edu Marriott Library
- - [https://lib.utah.edu](https://lib.utah.edu)
- - date_published: 2024-10-31T15:40:48.774249+00:00
 

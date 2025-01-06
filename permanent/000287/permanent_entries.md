@@ -1,3 +1,83 @@
+ ## ZEIT STIFTUNG BUCERIUS
+ - [https://www.zeit-stiftung.de](https://www.zeit-stiftung.de)
+ - date_published: 2024-07-09T14:09:16.437168+00:00
+
+ ## Aktions Zeitungspaten | Jetzt fördern und profitieren!
+ - [https://zeitungspatenschaften.de](https://zeitungspatenschaften.de)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## DIE ZEIT Verlagsgruppe
+ - [https://www.zeitverlag.de](https://www.zeitverlag.de)
+ - date_published: 2024-07-24T02:47:42.940122+00:00
+
+ ## DIE ZEIT Verlagsgruppe
+ - [https://zeit-verlagsgruppe.de](https://zeit-verlagsgruppe.de)
+ - date_published: 2024-04-29T07:11:44.508327+00:00
+
+ ## ZELDA Chronicles - Startseite - Zelda Fans für Zelda Fans
+ - [https://zeldachronicles.de](https://zeldachronicles.de)
+ - date_published: 2024-10-22T10:03:14.009952+00:00
+
+ ## Zeldapendium
+ - [https://www.zeldapendium.de](https://www.zeldapendium.de)
+ - date_published: 2023-04-28T01:21:54+00:00
+
+ ## Zeller+Gmelin: Expertise in Schmierstoffen & Druckfarben seit 1866. - Zeller + Gmelin
+ - [https://www.zeller-gmelin.de](https://www.zeller-gmelin.de)
+ - date_published: 2023-05-24T08:58:31+00:00
+
+ ## Zendesk: Die Komplettlösung für den Kundenservice
+ - [https://www.zendesk.de](https://www.zendesk.de)
+ - date_published: 2020-10-15T12:00:00+00:00
+
+ ## ZenDiS | Zentrum Digitale Souveränität
+ - [https://zendis.de](https://zendis.de)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## MEDIA, KOMMUNIKATIONS- & MARKETING-BERATUNG | ZENITH
+ - [https://www.zenithmedia.de](https://www.zenithmedia.de)
+ - date_published: 2024-06-25T23:15:47.144528+00:00
+
+ ## (Studio) Daniel Zenker | Konzeption und Gestaltung
+ - [https://zenkerdaniel.de](https://zenkerdaniel.de)
+ - date_published: 2024-07-12T16:38:40.585311+00:00
+
+ ## Zenz Solutions
+ - [https://www.zenz-solutions.de](https://www.zenz-solutions.de)
+ - date_published: 2020-11-11T17:57:52+00:00
+
+ ## Zeppelinflug
+ - [https://zeppelin-nt.de](https://zeppelin-nt.de)
+ - date_published: 2024-07-15T04:51:08.655197+00:00
+
+ ## Startseite
+ - [https://www.zeroone.de](https://www.zeroone.de)
+ - date_published: 2024-10-19T19:44:19.676189+00:00
+
+ ## ZertifikateAwards
+ - [http://www.zertifikateawards.de](http://www.zertifikateawards.de)
+ - date_published: 2024-09-27T10:25:50.945654+00:00
+
+ ## Zettelkasten Forum
+ - [https://forum.zettelkasten.de](https://forum.zettelkasten.de)
+ - date_published: 2024-08-11T10:13:04.100494+00:00
+
+ ## Zettelkasten knowledge and info management • Zettelkasten Method
+ - [https://zettelkasten.de](https://zettelkasten.de)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Zeughaus Verlag GmbH
+ - [https://zeughausverlag.de](https://zeughausverlag.de)
+ - date_published: 2024-12-12T19:26:49.120667+00:00
+
+ ## Computational Optimization at Work
+ - [http://co-at-work.zib.de](http://co-at-work.zib.de)
+ - date_published: 2024-10-16T06:09:56.877884+00:00
+
+ ## SCIP
+ - [https://scip.zib.de](https://scip.zib.de)
+ - date_published: 2024-07-12T08:10:07.616615+00:00
+
  ## SoPlex
  - [http://soplex.zib.de](http://soplex.zib.de)
  - date_published: 2024-10-16T06:10:40.270390+00:00
@@ -3970,87 +4050,4 @@
  ## Cranelift
  - [https://cranelift.dev](https://cranelift.dev)
  - date_published: 2023-05-03T16:16:09+00:00
-
- ## Crawlee · Build reliable crawlers. Fast. | Crawlee
- - [https://crawlee.dev](https://crawlee.dev)
- - date_published: 2024-05-06T06:26:26.985096+00:00
- - tags: ['web crawler', 'web scraping', 'open source', 'node.js', 'python', 'programming library']
-
- ## CrazyMax
- - [https://crazymax.dev](https://crazymax.dev)
- - date_published: 2024-04-08T19:27:34.886188+00:00
- - tags: ['personal']
-
- ## Doc
- - [https://doc.crds.dev](https://doc.crds.dev)
- - date_published: 2024-08-07T22:03:30.072896+00:00
-
- ## Create React App
- - [https://create-react-app.dev](https://create-react-app.dev)
- - date_published: 2022-03-24T20:09:17+00:00
-
- ## Christian Fei's Blog - cri.dev
- - [https://cri.dev](https://cri.dev)
- - date_published: 2023-10-25T08:58:26.480635+00:00
- - tags: ['personal']
-
- ## Plausible · Web analytics
- - [https://p.cri.dev](https://p.cri.dev)
- - date_published: 2024-04-29T07:34:06.303514+00:00
-
- ## Minimal Analytics
- - [https://s.cri.dev](https://s.cri.dev)
- - date_published: 2024-04-29T07:34:05.562487+00:00
-
- ## crowd.dev Changelog
- - [https://changelog.crowd.dev](https://changelog.crowd.dev)
- - date_published: 2024-07-18T13:06:14.310858+00:00
-
- ## crowd.dev | The Developer Data Platform
- - [https://crowd.dev](https://crowd.dev)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Home | Index
- - [https://docs.crowd.dev](https://docs.crowd.dev)
- - date_published: 2024-07-18T13:05:57.969724+00:00
-
- ## GO.CROWD.DEV - A Dub.co Custom Domain
- - [https://go.crowd.dev](https://go.crowd.dev)
- - date_published: 2024-07-18T13:06:09.399274+00:00
-
- ## Corbin Crutchley
- - [https://crutchcorn.dev](https://crutchcorn.dev)
- - date_published: 2024-07-02T20:47:15.492734+00:00
-
- ## Visual Studio Code for CS50
- - [https://cs50.dev](https://cs50.dev)
- - date_published: 2024-06-22T10:42:46.766783+00:00
-
- ## CSSBattle
- - [https://cssbattle.dev](https://cssbattle.dev)
- - date_published: 2024-09-04T06:46:46.542117+00:00
-
- ## Cthos (dot) Dev Mastodon
- - [https://mastodon.cthos.dev](https://mastodon.cthos.dev)
- - date_published: 2024-09-05T15:42:27.629652+00:00
-
- ## Chris Nicholas | Developer experience at Liveblocks
- - [https://ctnicholas.dev](https://ctnicholas.dev)
- - date_published: 2024-04-29T07:28:39.968298+00:00
-
- ## The Amazing CTO Book | Amazing CTO
- - [https://ctobook.dev](https://ctobook.dev)
- - date_published: 2024-07-26T12:49:07+00:00
-
- ## Cube — Semantic Layer for Building Data Applications
- - [https://cube.dev](https://cube.dev)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Cube Cloud – Deploy, Scale, and Optimize Your Cube Apps
- - [https://cubecloud.dev](https://cubecloud.dev)
- - date_published: 2024-08-08T23:24:24.640047+00:00
-
- ## CubeSigner, a refreshingly secure key manager
- - [https://cubist.dev](https://cubist.dev)
- - date_published: 2023-11-02T07:07:07+00:00
 

@@ -1,3 +1,19 @@
+ ## Goteki
+ - [https://goteki.bandcamp.com](https://goteki.bandcamp.com)
+ - date_published: 2024-12-26T21:26:37.531651+00:00
+
+ ## MILKBLOOD
+ - [https://gotmilkblood.bandcamp.com](https://gotmilkblood.bandcamp.com)
+ - date_published: 2024-12-27T08:50:47.859109+00:00
+
+ ## Merch from Goto80
+ - [https://goto8o.bandcamp.com](https://goto8o.bandcamp.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Goya
+ - [https://goya-music.bandcamp.com](https://goya-music.bandcamp.com)
+ - date_published: 2024-12-26T22:39:39.647937+00:00
+
  ## Ramona, by Grace Cummings
  - [https://gracecummings.bandcamp.com](https://gracecummings.bandcamp.com)
  - date_published: 2024-12-26T21:51:39.674467+00:00
@@ -3981,20 +3997,4 @@
  ## MEMORIALS
  - [https://memorialsmusic.bandcamp.com](https://memorialsmusic.bandcamp.com)
  - date_published: 2025-01-01T06:10:19.886117+00:00
-
- ## Memorials of Distinction
- - [https://memorialsofdistinction.bandcamp.com](https://memorialsofdistinction.bandcamp.com)
- - date_published: 2024-12-26T20:57:21.134395+00:00
-
- ## Echolocation, by Mendoza Hoff Revels
- - [https://mendozahoffrevels.bandcamp.com](https://mendozahoffrevels.bandcamp.com)
- - date_published: 2024-12-26T21:54:19.447720+00:00
-
- ## Mental Cruelty
- - [https://mentalcruelty.bandcamp.com](https://mentalcruelty.bandcamp.com)
- - date_published: 2024-12-26T23:46:10.071561+00:00
-
- ## Menwar
- - [https://menwar.bandcamp.com](https://menwar.bandcamp.com)
- - date_published: 2024-06-29T00:00:00+00:00
 

@@ -1,3 +1,91 @@
+ ## Lewis Lab
+ - [http://colloids.matse.illinois.edu](http://colloids.matse.illinois.edu)
+ - date_published: 2024-11-08T11:34:41+00:00
+
+ ## Home | Office of Corporate Relations - University of Illinois Urbana-Champaign
+ - [http://corporaterelations.illinois.edu](http://corporaterelations.illinois.edu)
+ - date_published: 2024-07-07T05:30:46.989427+00:00
+
+ ## University of Illinois Counseling Center
+ - [https://counselingcenter.illinois.edu](https://counselingcenter.illinois.edu)
+ - date_published: 2024-04-30T04:58:57.433376+00:00
+
+ ## Course Websites
+ - [https://courses.engr.illinois.edu](https://courses.engr.illinois.edu)
+ - date_published: 2024-04-30T04:57:57.304045+00:00
+
+ ## Course Websites
+ - [https://courses.grainger.illinois.edu](https://courses.grainger.illinois.edu)
+ - date_published: 2024-04-30T04:57:35.853607+00:00
+
+ ## Course Explorer
+ - [https://courses.illinois.edu](https://courses.illinois.edu)
+ - date_published: 2024-04-30T04:57:40.387792+00:00
+
+ ## Course Websites | The Grainger College of Engineering | UIUC
+ - [https://courses.physics.illinois.edu](https://courses.physics.illinois.edu)
+ - date_published: 2023-10-25T18:53:00.332561+00:00
+
+ ## COVID-19 – Information from the University of Illinois at Urbana-Champaign
+ - [https://covid19.illinois.edu](https://covid19.illinois.edu)
+ - date_published: 2024-04-30T04:57:03.845922+00:00
+
+ ## Home | Campus Research Board
+ - [https://crb.research.illinois.edu](https://crb.research.illinois.edu)
+ - date_published: 2024-10-15T07:27:23.387556+00:00
+
+ ## [ Romit Roy Choudhury @ UIUC ]
+ - [http://croy.web.engr.illinois.edu](http://croy.web.engr.illinois.edu)
+ - date_published: 2024-02-22T15:29:33+00:00
+
+ ## Home
+ - [https://cs341.cs.illinois.edu](https://cs341.cs.illinois.edu)
+ - date_published: 2024-04-30T04:58:22.992896+00:00
+
+ ## CS 418 â Interactive Computer Graphics
+ - [https://cs418.cs.illinois.edu](https://cs418.cs.illinois.edu)
+ - date_published: 2024-08-26T14:33:16+00:00
+
+ ## Home
+ - [https://cs.illinois.edu](https://cs.illinois.edu)
+ - date_published: 2024-04-30T04:59:35.285332+00:00
+
+ ## Home
+ - [http://csl.illinois.edu](http://csl.illinois.edu)
+ - date_published: 2024-06-22T11:43:57.958551+00:00
+
+ ## Homepage
+ - [http://cx2.web.engr.illinois.edu](http://cx2.web.engr.illinois.edu)
+ - date_published: 2021-01-13T19:21:17+00:00
+
+ ## Distributed Autonomous Systems Laboratory
+ - [http://daslab.illinois.edu](http://daslab.illinois.edu)
+ - date_published: 2024-09-13T18:15:11.094389+00:00
+
+ ## Illinois Data Bank
+ - [https://databank.illinois.edu](https://databank.illinois.edu)
+ - date_published: 2024-06-30T02:14:01.502987+00:00
+
+ ## Home
+ - [https://datascience.illinois.edu](https://datascience.illinois.edu)
+ - date_published: 2024-07-21T21:53:10.296544+00:00
+
+ ## Decentralized Systems Lab
+ - [https://decentralize.ece.illinois.edu](https://decentralize.ece.illinois.edu)
+ - date_published: 2024-07-03T03:25:18.021823+00:00
+
+ ## Homepage | Division of General Studies
+ - [https://dgs.illinois.edu](https://dgs.illinois.edu)
+ - date_published: 2024-07-07T05:28:55.443486+00:00
+
+ ## Center for Digital Agriculture - Center for Digital Agriculture
+ - [https://digitalag.illinois.edu](https://digitalag.illinois.edu)
+ - date_published: 2024-09-13T18:15:56.849014+00:00
+
+ ## Dilek Hakkani-Tür
+ - [https://dilek.web.illinois.edu](https://dilek.web.illinois.edu)
+ - date_published: 2024-04-30T04:58:14.570436+00:00
+
  ## Home
  - [https://discoveryacceleratorinstitute.grainger.illinois.edu](https://discoveryacceleratorinstitute.grainger.illinois.edu)
  - date_published: 2024-09-13T18:13:07.281410+00:00
@@ -3921,92 +4009,4 @@ Data Services
  ## Louisiana State University - Acalog ACMS™
  - [https://catalog.lsu.edu](https://catalog.lsu.edu)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## Center for Computation & Technology | Interdisciplinary  |  Innovative  | Inventive
- - [https://cct.lsu.edu](https://cct.lsu.edu)
- - date_published: 2024-05-08T09:32:45.803687+00:00
-
- ## COLLEGE OF ART & DESIGN
- - [https://design.lsu.edu](https://design.lsu.edu)
- - date_published: 2024-07-01T14:40:51.559571+00:00
-
- ## LSU Giving Day
- - [https://givingday.lsu.edu](https://givingday.lsu.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## GROK Knowledge Base
- - [http://grok.lsu.edu](http://grok.lsu.edu)
- - date_published: 2024-07-01T14:42:10.174092+00:00
-
- ## Highland Road Park Observatory
- - [https://hrpo.lsu.edu](https://hrpo.lsu.edu)
- - date_published: 2024-08-11T23:29:53.016186+00:00
-
- ## Home
- - [https://itservice.lsu.edu](https://itservice.lsu.edu)
- - date_published: 2024-05-07T19:30:45.434428+00:00
-
- ## Welcome to LSU, a top research university | Baton Rouge, La.
- - [https://lsu.edu](https://lsu.edu)
- - date_published: 2024-05-07T19:30:48.158325+00:00
-
- ## Louisiana State University LSU
- - [https://map.lsu.edu](https://map.lsu.edu)
- - date_published: 2024-07-01T14:40:42.568388+00:00
-
- ## myLSU - Single Sign On
- - [https://mylsu.apps.lsu.edu](https://mylsu.apps.lsu.edu)
- - date_published: 2024-05-07T19:30:59.182311+00:00
-
- ## LSU Online
- - [https://online.lsu.edu](https://online.lsu.edu)
- - date_published: 2024-07-01T14:40:26.617404+00:00
-
- ## Pre-College Programs
- - [https://precollege.lsu.edu](https://precollege.lsu.edu)
- - date_published: 2024-07-01T14:40:32.271999+00:00
-
- ## LSU Scholarly Repository | Louisiana State University Research
- - [https://repository.lsu.edu](https://repository.lsu.edu)
- - date_published: 2024-06-30T02:30:53.509351+00:00
-
- ## Home | SciViz
- - [http://sciviz.cct.lsu.edu](http://sciviz.cct.lsu.edu)
- - date_published: 2013-04-09T20:36:37+00:00
-
- ## Louisiana State University
- - [https://tigerlink.lsu.edu](https://tigerlink.lsu.edu)
- - date_published: 2024-05-07T19:30:53.429998+00:00
-
- ## LSU TigerWare Online
- - [http://tigerware.lsu.edu](http://tigerware.lsu.edu)
- - date_published: 2024-07-07T05:34:22.150397+00:00
-
- ## Electrical & Computer Engineering, Division of
- - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
- - date_published: 2023-10-25T11:24:20.932943+00:00
-
- ## High Performance Computing | Louisiana State University
- - [http://www.hpc.lsu.edu](http://www.hpc.lsu.edu)
- - date_published: 2024-07-07T05:34:20.231485+00:00
-
- ## LSU Law
- - [http://www.law.lsu.edu](http://www.law.lsu.edu)
- - date_published: 2024-06-17T11:15:28+00:00
-
- ## Welcome to LSU Libraries | LSU Libraries
- - [https://www.lib.lsu.edu](https://www.lib.lsu.edu)
- - date_published: 2024-07-01T14:40:47.428824+00:00
-
- ## LSU Math team awarded NSF Research Training Grant | LSU Math
- - [https://www.math.lsu.edu](https://www.math.lsu.edu)
- - date_published: 2024-07-02T09:18:32+00:00
-
- ## Home | LSU Online and Continuing Education
- - [https://www.outreach.lsu.edu](https://www.outreach.lsu.edu)
- - date_published: 2024-07-01T14:41:09.158405+00:00
-
- ## LSU Office of Research & Economic Development
- - [http://www.research.lsu.edu](http://www.research.lsu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
 

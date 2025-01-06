@@ -1,3 +1,12 @@
+ ## Bonzamate - The Australian Search Engine
+ - [https://bonzamate.com.au](https://bonzamate.com.au)
+ - date_published: 2024-06-10T07:06:18.121324+00:00
+ - tags: ['search engine']
+
+ ## Book Thingo – Reading (mostly) romance books down under
+ - [https://bookthingo.com.au](https://bookthingo.com.au)
+ - date_published: 2024-07-04T13:50:19.526006+00:00
+
  ## Booktopia - Books, Online Books, #1 Australian online bookstore, Buy Discount Books, eBooks and DVDs from Australia and the world.
  - [https://booktopia.com.au](https://booktopia.com.au)
  - date_published: 2024-05-08T03:34:34.821559+00:00
@@ -4011,12 +4020,4 @@
  ## M2 On Hold Australia | On Hold Messages | Messages On Hold | IVRs
  - [http://www.m2onhold.com.au](http://www.m2onhold.com.au)
  - date_published: 2024-10-17T12:56:15+00:00
-
- ## Home - M3 Mining Limited
- - [https://m3mining.com.au](https://m3mining.com.au)
- - date_published: 2024-09-16T21:59:57.377304+00:00
-
- ## Maadmob | Design leadership, facilitation and teaching
- - [https://maadmob.com.au](https://maadmob.com.au)
- - date_published: 2024-02-25T18:52:47.031150+00:00
 

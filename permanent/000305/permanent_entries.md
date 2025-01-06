@@ -1,3 +1,91 @@
+ ## Division of Management and Information
+ - [https://gallo.ucmerced.edu](https://gallo.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:56.998444+00:00
+
+ ## Graduate Division
+ - [https://graduatedivision.ucmerced.edu](https://graduatedivision.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:27.415446+00:00
+
+ ## Home | Health Services
+ - [https://health.ucmerced.edu](https://health.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## G-RISE I-BioSTeP | Interdisciplinary Biomedical Science and Technology Program
+ - [https://ibiostep.ucmerced.edu](https://ibiostep.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Office of Information Technology
+ - [https://it.ucmerced.edu](https://it.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:29.991059+00:00
+
+ ## Home | Staff Jobs
+ - [https://jobs.ucmerced.edu](https://jobs.ucmerced.edu)
+ - date_published: 2024-07-01T22:30:16+00:00
+
+ ## UC Merced Library | Not what other research libraries are, what they will be.
+ - [https://library.ucmerced.edu](https://library.ucmerced.edu)
+ - date_published: 2024-07-01T19:38:14+00:00
+
+ ## Materials and Biomaterials Science and Engineering
+ - [https://mbse.ucmerced.edu](https://mbse.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:19.947352+00:00
+
+ ## UC Merced | Premier Academic Institution in California
+ - [https://mist.ucmerced.edu](https://mist.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:05.684504+00:00
+
+ ## Welcome to UC Merced Connect | UC Merced Connect
+ - [https://my.ucmerced.edu](https://my.ucmerced.edu)
+ - date_published: 2024-07-01T23:11:11.919076+00:00
+
+ ## School of Natural Sciences
+ - [https://naturalsciences.ucmerced.edu](https://naturalsciences.ucmerced.edu)
+ - date_published: 2024-07-01T21:12:30+00:00
+
+ ## Home | Newsroom
+ - [https://news.ucmerced.edu](https://news.ucmerced.edu)
+ - date_published: 2024-07-01T21:41:05+00:00
+
+ ## University of California, Merced | Off-Campus Housing Search
+ - [https://och.ucmerced.edu](https://och.ucmerced.edu)
+ - date_published: 2024-07-01T23:19:06.136319+00:00
+
+ ## Physical Operations, Planning and Development  | We excel in Safety, Customer Service, Sustainability and Teamwork through Innovation.
+ - [https://popd.ucmerced.edu](https://popd.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:44.171009+00:00
+
+ ## UC Merced Postdoctoral Scholars
+ - [https://postdoc.ucmerced.edu](https://postdoc.ucmerced.edu)
+ - date_published: 2024-07-01T23:04:19+00:00
+
+ ## Home | Office of the Executive Vice Chancellor and Provost
+ - [https://provostevc.ucmerced.edu](https://provostevc.ucmerced.edu)
+ - date_published: 2024-07-01T22:56:00+00:00
+
+ ## Welcome to the Office of Research Compliance and Integrity | Research Compliance and Integrity
+ - [https://rci.ucmerced.edu](https://rci.ucmerced.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Welcome to Office of Research Development | Office of Research Development
+ - [https://rds.ucmerced.edu](https://rds.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:01.432396+00:00
+
+ ## Office of the Registrar | Supporting the Academic Mission
+ - [https://registrar.ucmerced.edu](https://registrar.ucmerced.edu)
+ - date_published: 2024-07-01T23:11:18.492407+00:00
+
+ ## Office of Research and Economic Development
+ - [https://research.ucmerced.edu](https://research.ucmerced.edu)
+ - date_published: 2024-07-01T22:53:38+00:00
+
+ ## Home | Academic Senate
+ - [https://senate.ucmerced.edu](https://senate.ucmerced.edu)
+ - date_published: 2024-07-01T22:59:39+00:00
+
+ ## Sponsored Projects Office
+ - [https://srs.ucmerced.edu](https://srs.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## School of Social Sciences, Humanities and Arts
  - [https://ssha.ucmerced.edu](https://ssha.ucmerced.edu)
  - date_published: 2024-07-01T20:39:06+00:00
@@ -3921,92 +4009,4 @@
  ## Baker County - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
  - [http://baker.ifas.ufl.edu](http://baker.ifas.ufl.edu)
  - date_published: 2024-12-21T17:36:57.026164+00:00
-
- ## Biotility - Biotech Professional Development & Credentialing
- - [https://biotility.research.ufl.edu](https://biotility.research.ufl.edu)
- - date_published: 2024-10-22T03:51:42.004239+00:00
-
- ## UF/IFAS Blogs Homepage - What's Happening Around Florida
- - [https://blogs.ifas.ufl.edu](https://blogs.ifas.ufl.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## J. Crayton Pruitt Family Department of Biomedical Engineering – University of Florida
- - [https://bme.ufl.edu](https://bme.ufl.edu)
- - date_published: 2024-05-07T21:11:14.981767+00:00
-
- ## Branding Portal - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://branding.ifas.ufl.edu](https://branding.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:06.440779+00:00
-
- ## Calendar - University of Florida
- - [https://calendar.ufl.edu](https://calendar.ufl.edu)
- - date_published: 2024-07-02T00:06:16+00:00
-
- ## College of Agricultural and Life Sciences - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://cals.ufl.edu](http://cals.ufl.edu)
- - date_published: 2024-06-16T22:50:43.417250+00:00
-
- ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
- - [https://cam.mbi.ufl.edu](https://cam.mbi.ufl.edu)
- - date_published: 2023-10-25T19:01:26.632166+00:00
-
- ## Campus Closures
- - [https://campusclosures.ufl.edu](https://campusclosures.ufl.edu)
- - date_published: 2024-07-02T02:11:26.723216+00:00
-
- ## UF Campus Map
- - [https://campusmap.ufl.edu](https://campusmap.ufl.edu)
- - date_published: 2024-03-27T14:23:43+00:00
-
- ## University of Florida Catalog < University of Florida
- - [https://catalog.ufl.edu](https://catalog.ufl.edu)
- - date_published: 2024-06-28T21:03:19+00:00
-
- ## Home - Computer & Information Science & Engineering
- - [https://cise.ufl.edu](https://cise.ufl.edu)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## College of Liberal Arts & Sciences
- - [http://clas.ufl.edu](http://clas.ufl.edu)
- - date_published: 2024-07-07T08:11:50.445375+00:00
-
- ## GatorCloud - University of Florida
- - [https://cloud.it.ufl.edu](https://cloud.it.ufl.edu)
- - date_published: 2024-07-02T02:06:14.155895+00:00
-
- ## IFAS-CLUE
- - [https://clue.ifas.ufl.edu](https://clue.ifas.ufl.edu)
- - date_published: 2024-10-14T23:51:28+00:00
-
- ## Tiny Tech
- - [https://cnem.chem.ufl.edu](https://cnem.chem.ufl.edu)
- - date_published: 2021-11-09T02:11:06+00:00
-
- ## Center for Natural Products, Drug Discovery and Development (CNPD3) » College of Pharmacy » University of Florida
- - [https://cnpd3.pharmacy.ufl.edu](https://cnpd3.pharmacy.ufl.edu)
- - date_published: 2024-06-28T15:43:26+00:00
-
- ## Liao Lab »  » University of Florida
- - [https://com-acb-liao.sites.medinfo.ufl.edu](https://com-acb-liao.sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:31.450474+00:00
-
- ## Forms & Requests
- - [https://commsupport.clas.ufl.edu](https://commsupport.clas.ufl.edu)
- - date_published: 2024-07-07T08:11:59.501755+00:00
-
- ## compliance.ufl.edu - Compliance & Ethics - University of Florida
- - [https://compliance.ufl.edu](https://compliance.ufl.edu)
- - date_published: 2024-10-15T06:43:21.120010+00:00
-
- ## MedConsults » College of Medicine » University of Florida
- - [https://com-psychiatry-dcf-a2.sites.medinfo.ufl.edu](https://com-psychiatry-dcf-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-10-25T21:04:26+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [http://csea.phhp.ufl.edu](http://csea.phhp.ufl.edu)
- - date_published: 2024-07-01T21:31:26+00:00
-
- ## MedConsults » College of Medicine » University of Florida
- - [https://dcf.psychiatry.ufl.edu](https://dcf.psychiatry.ufl.edu)
- - date_published: 2024-06-18T21:55:40+00:00
 

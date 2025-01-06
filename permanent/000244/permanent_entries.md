@@ -1,9 +1,89 @@
+ ## Untitled
+ - [https://paragpallavsingh.tumblr.com](https://paragpallavsingh.tumblr.com)
+ - date_published: 2024-05-12T06:15:03.735507+00:00
+
+ ## The Paranoid's Bible: An anti-dox effort.
+ - [https://paranoidsbible.tumblr.com](https://paranoidsbible.tumblr.com)
+ - date_published: 2024-12-22T06:44:33.896044+00:00
+
+ ## Parenthetical
+ - [https://parentheticalaside.tumblr.com](https://parentheticalaside.tumblr.com)
+ - date_published: 2024-12-13T09:21:17.656753+00:00
+
+ ## Untitled
+ - [https://partialgardens.tumblr.com](https://partialgardens.tumblr.com)
+ - date_published: 2024-06-27T03:05:15.504252+00:00
+
+ ## parti
+ - [https://parti.tumblr.com](https://parti.tumblr.com)
+ - date_published: 2024-06-27T05:00:09.267224+00:00
+
+ ## Tumblr
+ - [https://partycoffin.tumblr.com](https://partycoffin.tumblr.com)
+ - date_published: 2024-12-22T12:24:29.279967+00:00
+
+ ## Pascal Campion
+ - [https://pascalcampion.tumblr.com](https://pascalcampion.tumblr.com)
+ - date_published: 2024-06-27T03:06:36.980518+00:00
+
+ ## Tumblr
+ - [https://passareltemps.tumblr.com](https://passareltemps.tumblr.com)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Patricia Taxxon
+ - [https://patricia-taxxon.tumblr.com](https://patricia-taxxon.tumblr.com)
+ - date_published: 2024-07-11T14:02:37.397492+00:00
+
+ ## Patrick was here...
+ - [https://patrickat.tumblr.com](https://patrickat.tumblr.com)
+ - date_published: 2024-06-26T10:11:36.977357+00:00
+
+ ## Striped Things
+ - [https://patrickpoe.tumblr.com](https://patrickpoe.tumblr.com)
+ - date_published: 2024-12-13T11:00:19.277515+00:00
+
+ ## djinn and juice
+ - [https://patrickthomson.tumblr.com](https://patrickthomson.tumblr.com)
+ - date_published: 2023-10-25T17:49:22.566695+00:00
+
+ ## This is Patrick
+ - [https://patrik-star.tumblr.com](https://patrik-star.tumblr.com)
+ - date_published: 2024-10-16T02:02:13.832970+00:00
+
+ ## Pattinson Point
+ - [https://pattinsonpoint.tumblr.com](https://pattinsonpoint.tumblr.com)
+ - date_published: 2024-07-02T23:31:22.343786+00:00
+
+ ## PaulLev
+ - [http://paullev.tumblr.com](http://paullev.tumblr.com)
+ - date_published: 2024-12-31T08:00:56.628116+00:00
+
+ ## there's vampires at my door
+ - [https://pavlmescal.tumblr.com](https://pavlmescal.tumblr.com)
+ - date_published: 2024-10-20T15:03:49.299879+00:00
+
+ ## Really?™
+ - [https://pberry.tumblr.com](https://pberry.tumblr.com)
+ - date_published: 2024-10-22T21:48:21.873304+00:00
+
+ ## AMERICAN MASTERS | PBS
+ - [https://pbsamericanmasters.tumblr.com](https://pbsamericanmasters.tumblr.com)
+ - date_published: 2024-12-15T21:42:25.733671+00:00
+
+ ## Tumblr
+ - [https://pbs-r.tumblr.com](https://pbs-r.tumblr.com)
+ - date_published: 2024-06-27T05:02:10.930642+00:00
+
+ ## Can Someone Recall Me From Exile
+ - [https://p-clodius-pulcher.tumblr.com](https://p-clodius-pulcher.tumblr.com)
+ - date_published: 2024-12-13T09:28:07.490763+00:00
+
  ## PC Music
- - [http://pcmus.tumblr.com](http://pcmus.tumblr.com)
+ - [https://pcmus.tumblr.com](https://pcmus.tumblr.com)
  - date_published: 2024-10-22T22:08:00.795735+00:00
 
  ## Poorly Drawn Lines
- - [http://pdlcomics.tumblr.com](http://pdlcomics.tumblr.com)
+ - [https://pdlcomics.tumblr.com](https://pdlcomics.tumblr.com)
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## MONDO COOL
@@ -31,7 +111,7 @@
  - date_published: 2024-06-27T04:50:26.609586+00:00
 
  ## THE PECKHAM PECULIAR
- - [http://peckhampeculiar.tumblr.com](http://peckhampeculiar.tumblr.com)
+ - [https://peckhampeculiar.tumblr.com](https://peckhampeculiar.tumblr.com)
  - date_published: 2024-09-14T22:56:21.933552+00:00
 
  ## Untitled
@@ -67,7 +147,7 @@
  - date_published: 2024-09-04T18:32:40.192472+00:00
 
  ## People of Motorcity
- - [http://peopleofmotorcity.tumblr.com](http://peopleofmotorcity.tumblr.com)
+ - [https://peopleofmotorcity.tumblr.com](https://peopleofmotorcity.tumblr.com)
  - date_published: 2024-10-25T10:42:16.329467+00:00
 
  ## People of the Longhouse
@@ -111,7 +191,7 @@
  - date_published: 2024-12-13T09:18:55.123597+00:00
 
  ## Tumblr
- - [http://pervocracy.tumblr.com](http://pervocracy.tumblr.com)
+ - [https://pervocracy.tumblr.com](https://pervocracy.tumblr.com)
  - date_published: 2024-10-18T15:07:11.369832+00:00
 
  ## Book List
@@ -119,7 +199,7 @@
  - date_published: 2024-05-10T06:54:39.827247+00:00
 
  ## Collected thoughts
- - [http://petemoore.tumblr.com](http://petemoore.tumblr.com)
+ - [https://petemoore.tumblr.com](https://petemoore.tumblr.com)
  - date_published: 2024-07-07T10:30:16.944263+00:00
 
  ## For The Greater Good! For Russ! For Gorkamorka!
@@ -127,7 +207,7 @@
  - date_published: 2024-10-26T22:10:45.992173+00:00
 
  ## Peter Berkman
- - [http://peterberkman.tumblr.com](http://peterberkman.tumblr.com)
+ - [https://peterberkman.tumblr.com](https://peterberkman.tumblr.com)
  - date_published: 2024-09-19T21:32:04.454831+00:00
 
  ## Peter Diamandis
@@ -147,7 +227,7 @@
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## دليل شركات نقل العفش بجدة
- - [http://pewdie.tumblr.com](http://pewdie.tumblr.com)
+ - [https://pewdie.tumblr.com](https://pewdie.tumblr.com)
  - date_published: 2024-06-19T01:33:08.280463+00:00
 
  ## Pew Internet
@@ -171,7 +251,7 @@
  - date_published: 2024-12-13T09:09:38.415069+00:00
 
  ## Sawdust
- - [http://philadams.tumblr.com](http://philadams.tumblr.com)
+ - [https://philadams.tumblr.com](https://philadams.tumblr.com)
  - date_published: 2009-07-26T00:00:00+00:00
 
  ## Philip K. Dick
@@ -195,7 +275,7 @@
  - date_published: 2024-06-26T14:28:32.238883+00:00
 
  ## Quell's Dev Blog
- - [http://phoenotopia.tumblr.com](http://phoenotopia.tumblr.com)
+ - [https://phoenotopia.tumblr.com](https://phoenotopia.tumblr.com)
  - date_published: 2024-10-25T12:40:40.403348+00:00
 
  ## Matt on Tumblr on Tumblr
@@ -211,7 +291,7 @@
  - date_published: 2024-10-23T08:31:35.766469+00:00
 
  ## ✿ Pickypikachu ✿
- - [http://pickypikachu.tumblr.com](http://pickypikachu.tumblr.com)
+ - [https://pickypikachu.tumblr.com](https://pickypikachu.tumblr.com)
  - date_published: 2024-06-18T18:04:04.241356+00:00
 
  ## Pics that make you go "hmm"
@@ -311,7 +391,7 @@
  - date_published: 2024-10-23T08:38:09.734890+00:00
 
  ## Pearl Jam Sweepstakes
- - [http://pjcontest.tumblr.com](http://pjcontest.tumblr.com)
+ - [https://pjcontest.tumblr.com](https://pjcontest.tumblr.com)
  - date_published: 2024-06-28T12:45:42.111854+00:00
 
  ## DON'T STOP ME NOW
@@ -319,7 +399,7 @@
  - date_published: 2024-12-22T10:40:18.867218+00:00
 
  ## PKMThemes
- - [http://pkmthemes.tumblr.com](http://pkmthemes.tumblr.com)
+ - [https://pkmthemes.tumblr.com](https://pkmthemes.tumblr.com)
  - date_published: 2024-10-23T07:45:54.203698+00:00
 
  ## boy howdy
@@ -355,7 +435,7 @@
  - date_published: 2019-03-20T00:00:00+00:00
 
  ## Tumblr
- - [http://pleasedontsqueezetheshhh.tumblr.com](http://pleasedontsqueezetheshhh.tumblr.com)
+ - [https://pleasedontsqueezetheshhh.tumblr.com](https://pleasedontsqueezetheshhh.tumblr.com)
  - date_published: 2024-07-11T14:04:09.440301+00:00
 
  ## IN THE DEVASTATED CITY
@@ -435,7 +515,7 @@
  - date_published: 2024-12-13T11:03:04.249690+00:00
 
  ## ⁂
- - [http://polclarissou.tumblr.com](http://polclarissou.tumblr.com)
+ - [https://polclarissou.tumblr.com](https://polclarissou.tumblr.com)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Politics Fun Facts
@@ -451,11 +531,11 @@
  - date_published: 2024-06-27T03:18:42.915115+00:00
 
  ## Tumblr
- - [http://pollardteens.tumblr.com](http://pollardteens.tumblr.com)
+ - [https://pollardteens.tumblr.com](https://pollardteens.tumblr.com)
  - date_published: 2015-01-06T00:00:00+00:00
 
  ## For all your polyamorous shipping content
- - [http://polyamships.tumblr.com](http://polyamships.tumblr.com)
+ - [https://polyamships.tumblr.com](https://polyamships.tumblr.com)
  - date_published: 2024-09-16T06:45:01.374118+00:00
 
  ## Polyducks
@@ -477,9 +557,10 @@
  ## headempty
  - [https://poopyboiman.tumblr.com](https://poopyboiman.tumblr.com)
  - date_published: 2024-06-27T03:20:57.926317+00:00
+ - date_dead_since: 2025-01-05T15:28:24.147912+00:00
 
  ## Untitled
- - [http://popcornpr1nce.tumblr.com](http://popcornpr1nce.tumblr.com)
+ - [https://popcornpr1nce.tumblr.com](https://popcornpr1nce.tumblr.com)
  - date_published: 2024-10-27T04:29:58.796182+00:00
 
  ## Tumblr
@@ -495,7 +576,7 @@
  - date_published: 2025-01-02T06:41:45.209840+00:00
 
  ## Pop Toons TV
- - [http://poptoonstv.tumblr.com](http://poptoonstv.tumblr.com)
+ - [https://poptoonstv.tumblr.com](https://poptoonstv.tumblr.com)
  - date_published: 2024-10-25T10:44:51.888217+00:00
 
  ## Yeah Yeah Yeah It’s Pride Again!
@@ -539,7 +620,7 @@
  - date_published: 2024-12-13T11:18:10.853380+00:00
 
  ## Reviews
- - [http://postcardsfromdorisburg.tumblr.com](http://postcardsfromdorisburg.tumblr.com)
+ - [https://postcardsfromdorisburg.tumblr.com](https://postcardsfromdorisburg.tumblr.com)
  - date_published: 2020-04-05T00:00:00+00:00
 
  ## Postcards from Simtopia
@@ -559,7 +640,7 @@
  - date_published: 2024-08-19T20:26:26.669970+00:00
 
  ## Found more meteorite?
- - [http://potkanice.tumblr.com](http://potkanice.tumblr.com)
+ - [https://potkanice.tumblr.com](https://potkanice.tumblr.com)
  - date_published: 2024-07-17T12:00:03.832455+00:00
 
  ## Summer does not abdicate
@@ -607,7 +688,7 @@
  - date_published: 2024-06-27T02:59:50.124457+00:00
 
  ## PRETTY NEUKÖLLN. belong to where you are.
- - [http://prettyneukoelln.tumblr.com](http://prettyneukoelln.tumblr.com)
+ - [https://prettyneukoelln.tumblr.com](https://prettyneukoelln.tumblr.com)
  - date_published: 2024-07-13T15:42:43.828848+00:00
 
  ## Pretty Princess
@@ -615,7 +696,7 @@
  - date_published: 2024-10-23T08:28:21.043986+00:00
 
  ## Tumblr
- - [http://prey.tumblr.com](http://prey.tumblr.com)
+ - [https://prey.tumblr.com](https://prey.tumblr.com)
  - date_published: 2024-06-18T19:05:37.750252+00:00
 
  ## Pride Knights®
@@ -623,7 +704,7 @@
  - date_published: 2024-06-27T04:36:04.080925+00:00
 
  ## Priime
- - [http://priimephoto.tumblr.com](http://priimephoto.tumblr.com)
+ - [https://priimephoto.tumblr.com](https://priimephoto.tumblr.com)
  - date_published: 2024-06-26T07:30:28.737062+00:00
 
  ## PRIM4T
@@ -631,7 +712,7 @@
  - date_published: 2024-07-02T18:36:30.745481+00:00
 
  ## Gia's Art Blog
- - [http://princebunbuns.tumblr.com](http://princebunbuns.tumblr.com)
+ - [https://princebunbuns.tumblr.com](https://princebunbuns.tumblr.com)
  - date_published: 2024-06-27T05:14:50.362098+00:00
 
  ## Dead Fandom Zone
@@ -643,7 +724,7 @@
  - date_published: 2024-12-13T10:00:29.843799+00:00
 
  ## E = M C ²
- - [http://princessnijireiki.tumblr.com](http://princessnijireiki.tumblr.com)
+ - [https://princessnijireiki.tumblr.com](https://princessnijireiki.tumblr.com)
  - date_published: 2024-09-16T06:26:26.836018+00:00
 
  ## "ravel me in shards of happiness"
@@ -691,7 +772,7 @@
  - date_published: 2024-06-27T03:32:18.926572+00:00
 
  ## Project Massive
- - [http://project-massive.tumblr.com](http://project-massive.tumblr.com)
+ - [https://project-massive.tumblr.com](https://project-massive.tumblr.com)
  - date_published: 2015-08-17T00:00:00+00:00
 
  ## Project TUSSLE
@@ -723,7 +804,7 @@
  - date_published: 2024-06-27T03:01:37.050652+00:00
 
  ## prosthetic knowledge
- - [http://prostheticknowledge.tumblr.com](http://prostheticknowledge.tumblr.com)
+ - [https://prostheticknowledge.tumblr.com](https://prostheticknowledge.tumblr.com)
  - date_published: 2024-06-22T08:50:01.968181+00:00
 
  ## Protobacillus
@@ -840,7 +921,7 @@ Puppy95©️
  - date_published: 2024-10-23T08:29:55.443506+00:00
 
  ## Tumblr
- - [http://pushthemovement.tumblr.com](http://pushthemovement.tumblr.com)
+ - [https://pushthemovement.tumblr.com](https://pushthemovement.tumblr.com)
  - date_published: 2024-06-27T08:58:21.610509+00:00
 
  ## microblogging freak
@@ -860,7 +941,7 @@ Puppy95©️
  - date_published: 2024-06-27T03:17:10.286843+00:00
 
  ## Why do I even try
- - [http://pybun.tumblr.com](http://pybun.tumblr.com)
+ - [https://pybun.tumblr.com](https://pybun.tumblr.com)
  - date_published: 2024-07-12T22:07:44.162600+00:00
 
  ## PyTennessee 2017
@@ -884,7 +965,7 @@ Puppy95©️
  - date_published: 2024-12-26T12:16:45.421578+00:00
 
  ## Quantum Artist
- - [http://quantumartist.tumblr.com](http://quantumartist.tumblr.com)
+ - [https://quantumartist.tumblr.com](https://quantumartist.tumblr.com)
  - date_published: 2024-07-12T23:27:29.844003+00:00
 
  ## Frenzied Flitting From Topic To Topic
@@ -928,7 +1009,7 @@ Puppy95©️
  - date_published: 2024-06-27T02:57:56.986281+00:00
 
  ## Queis Theme
- - [http://queis-theme.tumblr.com](http://queis-theme.tumblr.com)
+ - [https://queis-theme.tumblr.com](https://queis-theme.tumblr.com)
  - date_published: 2024-06-27T04:31:38.065811+00:00
 
  ## quentin-faucompre
@@ -960,7 +1041,7 @@ Puppy95©️
  - date_published: 2024-06-18T17:55:53.508194+00:00
 
  ## www.daltonfinancialnews.com
- - [http://quimstick.tumblr.com](http://quimstick.tumblr.com)
+ - [https://quimstick.tumblr.com](https://quimstick.tumblr.com)
  - date_published: 2024-07-11T14:04:15.988973+00:00
 
  ## Quodo Brainrot
@@ -996,11 +1077,11 @@ Puppy95©️
  - date_published: 2024-12-13T08:47:40.590476+00:00
 
  ## Rachelskirts || Tumblr
- - [http://rachelskirts.tumblr.com](http://rachelskirts.tumblr.com)
+ - [https://rachelskirts.tumblr.com](https://rachelskirts.tumblr.com)
  - date_published: 2015-08-17T00:00:00+00:00
 
  ## Rand Adams
- - [http://r-adams.tumblr.com](http://r-adams.tumblr.com)
+ - [https://r-adams.tumblr.com](https://r-adams.tumblr.com)
  - date_published: 2024-07-13T02:44:00.609121+00:00
 
  ## Tumblr
@@ -1016,12 +1097,13 @@ Puppy95©️
  - date_published: 2024-12-13T09:38:03.622162+00:00
 
  ## Radio Free Andrew
- - [http://radiofreeandrew.tumblr.com](http://radiofreeandrew.tumblr.com)
+ - [https://radiofreeandrew.tumblr.com](https://radiofreeandrew.tumblr.com)
  - date_published: 2014-04-08T00:00:00+00:00
 
  ## Good Night, and Good Luck
  - [https://radiofreederry.tumblr.com](https://radiofreederry.tumblr.com)
  - date_published: 2024-06-26T00:00:00+00:00
+ - date_dead_since: 2025-01-05T07:55:26.571627+00:00
 
  ## the ragbag
  - [https://ragbag.tumblr.com](https://ragbag.tumblr.com)
@@ -1104,11 +1186,11 @@ Puppy95©️
  - date_published: 2024-06-03T13:01:42.666240+00:00
 
  ## RANK & FILE
- - [http://ranknfiletheme.tumblr.com](http://ranknfiletheme.tumblr.com)
+ - [https://ranknfiletheme.tumblr.com](https://ranknfiletheme.tumblr.com)
  - date_published: 2024-09-03T20:56:53.329574+00:00
 
  ## Ranko!
- - [http://ranko.tumblr.com](http://ranko.tumblr.com)
+ - [https://ranko.tumblr.com](https://ranko.tumblr.com)
  - date_published: 2024-10-27T10:43:44.412996+00:00
 
  ## Tumblr
@@ -1124,7 +1206,7 @@ Puppy95©️
  - date_published: 2024-06-27T04:51:11.158796+00:00
 
  ## Tumblr
- - [http://ratak-monodosico.tumblr.com](http://ratak-monodosico.tumblr.com)
+ - [https://ratak-monodosico.tumblr.com](https://ratak-monodosico.tumblr.com)
  - date_published: 2024-06-27T08:45:29.967580+00:00
 
  ## Tumblr
@@ -1138,9 +1220,10 @@ Puppy95©️
  ## rat power
  - [https://ratpower1.tumblr.com](https://ratpower1.tumblr.com)
  - date_published: 2024-06-27T05:04:50.718533+00:00
+ - date_dead_since: 2025-01-05T07:58:00.894046+00:00
 
  ## Raum Schiff Erde
- - [http://raumschifferde.tumblr.com](http://raumschifferde.tumblr.com)
+ - [https://raumschifferde.tumblr.com](https://raumschifferde.tumblr.com)
  - date_published: 2024-07-24T05:37:44.743984+00:00
 
  ## raunchily
@@ -1166,6 +1249,7 @@ Puppy95©️
  ## xX.majin_TwEeN.Xx
  - [https://rcn-magazine.tumblr.com](https://rcn-magazine.tumblr.com)
  - date_published: 2024-09-03T23:29:28.528117+00:00
+ - date_dead_since: 2025-01-05T07:58:41.922455+00:00
 
  ## READ EVAL PRINT
  - [https://readevalprint.tumblr.com](https://readevalprint.tumblr.com)
@@ -1184,11 +1268,11 @@ Puppy95©️
  - date_published: 2024-06-27T03:06:12.411650+00:00
 
  ## Tumblr
- - [http://realestmatt.tumblr.com](http://realestmatt.tumblr.com)
+ - [https://realestmatt.tumblr.com](https://realestmatt.tumblr.com)
  - date_published: 2024-06-19T01:58:35.909630+00:00
 
  ## Social skills for autonomous people.
- - [http://realsocialskills.tumblr.com](http://realsocialskills.tumblr.com)
+ - [https://realsocialskills.tumblr.com](https://realsocialskills.tumblr.com)
  - date_published: 2024-06-17T10:27:53.522666+00:00
 
  ## Realistic Spaceship Illustrations
@@ -1232,7 +1316,7 @@ Puppy95©️
  - date_published: 2024-06-29T14:33:26.031798+00:00
 
  ## Art by Redd Walitzki
- - [http://reddwalitzki.tumblr.com](http://reddwalitzki.tumblr.com)
+ - [https://reddwalitzki.tumblr.com](https://reddwalitzki.tumblr.com)
  - date_published: 2024-10-28T04:24:54.139628+00:00
 
  ## Red's Lair
@@ -1272,7 +1356,7 @@ Puppy95©️
  - date_published: 2024-12-13T08:48:12.579312+00:00
 
  ## into the waves
- - [http://reides.tumblr.com](http://reides.tumblr.com)
+ - [https://reides.tumblr.com](https://reides.tumblr.com)
  - date_published: 2024-06-23T17:45:15.872833+00:00
 
  ## Rachel Does Stuff
@@ -1286,6 +1370,7 @@ Puppy95©️
  ## "There's no greater gift than love" - Stoick
  - [https://rejection-isnt-failure.tumblr.com](https://rejection-isnt-failure.tumblr.com)
  - date_published: 2024-06-27T05:14:06.734609+00:00
+ - date_dead_since: 2025-01-05T08:02:28.242405+00:00
 
  ## RELAX, MAMMAL!
  - [https://relaxmammal.tumblr.com](https://relaxmammal.tumblr.com)
@@ -1298,9 +1383,10 @@ Puppy95©️
  ## Not found.
  - [https://remhq.tumblr.com](https://remhq.tumblr.com)
  - date_published: 2024-04-28T04:30:24.777052+00:00
+ - date_dead_since: 2025-01-05T08:02:40.348606+00:00
 
  ## rennerei
- - [http://rennerei.tumblr.com](http://rennerei.tumblr.com)
+ - [https://rennerei.tumblr.com](https://rennerei.tumblr.com)
  - date_published: 2024-10-27T10:45:05.498092+00:00
 
  ## Renorasims Finds
@@ -1312,7 +1398,7 @@ Puppy95©️
  - date_published: 2024-10-23T07:54:38.967254+00:00
 
  ## A Wild Shipper Has Appeared!
- - [http://renrink.tumblr.com](http://renrink.tumblr.com)
+ - [https://renrink.tumblr.com](https://renrink.tumblr.com)
  - date_published: 2024-10-27T04:24:13.977832+00:00
 
  ## Cartoons, Unions, & Spite
@@ -1324,7 +1410,7 @@ Puppy95©️
  - date_published: 2024-06-23T15:32:40.647898+00:00
 
  ## Reporter: Unofficial Survey Question Repository
- - [http://reporter-app-survey-questions.tumblr.com](http://reporter-app-survey-questions.tumblr.com)
+ - [https://reporter-app-survey-questions.tumblr.com](https://reporter-app-survey-questions.tumblr.com)
  - date_published: 2024-09-19T01:14:41.400469+00:00
 
  ## Reporter-App
@@ -1344,7 +1430,7 @@ Puppy95©️
  - date_published: 2024-12-14T23:39:26.788057+00:00
 
  ## Research in Progress
- - [http://researchinprogress.tumblr.com](http://researchinprogress.tumblr.com)
+ - [https://researchinprogress.tumblr.com](https://researchinprogress.tumblr.com)
  - date_published: 2024-07-02T09:29:24.693024+00:00
 
  ## Research.Lighting
@@ -1372,7 +1458,7 @@ Puppy95©️
  - date_published: 2024-06-27T03:16:07.244237+00:00
 
  ## リベンジポルノ
- - [http://reveporn.tumblr.com](http://reveporn.tumblr.com)
+ - [https://reveporn.tumblr.com](https://reveporn.tumblr.com)
  - date_published: 2024-06-22T05:56:33.462246+00:00
 
  ## Reverse Alchemy
@@ -1380,11 +1466,11 @@ Puppy95©️
  - date_published: 2025-01-01T20:31:18.826491+00:00
 
  ## Reverse OCR
- - [http://reverseocr.tumblr.com](http://reverseocr.tumblr.com)
+ - [https://reverseocr.tumblr.com](https://reverseocr.tumblr.com)
  - date_published: 2024-09-06T12:54:08.059974+00:00
 
  ## revolutionary socialism in the 21st century
- - [http://revolutionarysocialism.tumblr.com](http://revolutionarysocialism.tumblr.com)
+ - [https://revolutionarysocialism.tumblr.com](https://revolutionarysocialism.tumblr.com)
  - date_published: 2024-10-21T17:11:51.731874+00:00
 
  ## Metal Gear?!
@@ -1406,6 +1492,7 @@ Puppy95©️
  ## Rice Codes
  - [https://ricecodes.tumblr.com](https://ricecodes.tumblr.com)
  - date_published: 2024-06-27T05:05:42.068506+00:00
+ - date_dead_since: 2025-01-05T08:06:36.003402+00:00
 
  ## Richard Murray Humblr
  - [https://richardmurrayhumblr.tumblr.com](https://richardmurrayhumblr.tumblr.com)
@@ -1436,7 +1523,7 @@ Puppy95©️
  - date_published: 2024-06-27T03:51:42.363283+00:00
 
  ## Rights in Exile
- - [http://rightsinexile.tumblr.com](http://rightsinexile.tumblr.com)
+ - [https://rightsinexile.tumblr.com](https://rightsinexile.tumblr.com)
  - date_published: 2024-06-17T11:10:09.604833+00:00
 
  ## Kui?
@@ -1448,7 +1535,7 @@ Puppy95©️
  - date_published: 2024-12-13T09:43:07.176979+00:00
 
  ## I'm incognito. Call me Fred.
- - [http://riordanwiki.tumblr.com](http://riordanwiki.tumblr.com)
+ - [https://riordanwiki.tumblr.com](https://riordanwiki.tumblr.com)
  - date_published: 2024-10-25T20:13:59.963248+00:00
 
  ## RIPempezardexerox
@@ -1468,7 +1555,7 @@ Puppy95©️
  - date_published: 2024-10-16T09:31:23.038057+00:00
 
  ## Mistitled
- - [http://rms2.tumblr.com](http://rms2.tumblr.com)
+ - [https://rms2.tumblr.com](https://rms2.tumblr.com)
  - date_published: 2024-07-10T02:52:24.461642+00:00
 
  ## Bad At Words
@@ -1488,7 +1575,7 @@ Puppy95©️
  - date_published: 2024-05-09T09:14:40.101398+00:00
 
  ## ROB'S BLOG
- - [http://robertbchew.tumblr.com](http://robertbchew.tumblr.com)
+ - [https://robertbchew.tumblr.com](https://robertbchew.tumblr.com)
  - date_published: 2024-10-27T10:42:59.795403+00:00
 
  ## Robert Hadley
@@ -1520,7 +1607,7 @@ Puppy95©️
  - date_published: 2024-10-23T07:44:52.049234+00:00
 
  ## » Rol Hispano
- - [http://rolhispano.tumblr.com](http://rolhispano.tumblr.com)
+ - [https://rolhispano.tumblr.com](https://rolhispano.tumblr.com)
  - date_published: 2024-10-25T05:08:50.412954+00:00
 
  ## My Movie Isn't Over Yet
@@ -1532,15 +1619,15 @@ Puppy95©️
  - date_published: 2024-06-26T10:10:14.034070+00:00
 
  ## rollingrabbit has moved slightly
- - [http://rollingrabbit.tumblr.com](http://rollingrabbit.tumblr.com)
+ - [https://rollingrabbit.tumblr.com](https://rollingrabbit.tumblr.com)
  - date_published: 2024-10-26T04:43:08.659089+00:00
 
  ## Rollo Grady
- - [http://rollogrady.tumblr.com](http://rollogrady.tumblr.com)
+ - [https://rollogrady.tumblr.com](https://rollogrady.tumblr.com)
  - date_published: 2024-10-21T04:16:22.236829+00:00
 
  ## Ron Chan
- - [http://rondanchan.tumblr.com](http://rondanchan.tumblr.com)
+ - [https://rondanchan.tumblr.com](https://rondanchan.tumblr.com)
  - date_published: 2024-08-13T00:00:00+00:00
 
  ## Tumblr
@@ -1552,11 +1639,11 @@ Puppy95©️
  - date_published: 2024-06-27T03:06:02.991049+00:00
 
  ## Tumblr
- - [http://ropebyerinkyan.tumblr.com](http://ropebyerinkyan.tumblr.com)
+ - [https://ropebyerinkyan.tumblr.com](https://ropebyerinkyan.tumblr.com)
  - date_published: 2024-07-12T23:27:43.540274+00:00
 
  ## Mihai Anca
- - [http://ropiku.tumblr.com](http://ropiku.tumblr.com)
+ - [https://ropiku.tumblr.com](https://ropiku.tumblr.com)
  - date_published: 2024-10-20T07:37:30.497895+00:00
 
  ## Untitled
@@ -1648,7 +1735,7 @@ Puppy95©️
  - date_published: 2024-05-06T20:32:42.721585+00:00
 
  ## More Rufftoon
- - [http://rufftoon.tumblr.com](http://rufftoon.tumblr.com)
+ - [https://rufftoon.tumblr.com](https://rufftoon.tumblr.com)
  - date_published: 2024-07-17T10:00:24.833406+00:00
 
  ## ruhlar/e
@@ -1684,7 +1771,7 @@ Puppy95©️
  - date_published: 2024-06-21T09:18:29.880883+00:00
 
  ## Run run cycle
- - [http://runruncycle.tumblr.com](http://runruncycle.tumblr.com)
+ - [https://runruncycle.tumblr.com](https://runruncycle.tumblr.com)
  - date_published: 2024-10-20T07:56:42.304906+00:00
 
  ## Tumblr
@@ -1720,7 +1807,7 @@ Puppy95©️
  - date_published: 2024-10-23T08:05:58.470287+00:00
 
  ## johnny test bad
- - [http://rustydanger.tumblr.com](http://rustydanger.tumblr.com)
+ - [https://rustydanger.tumblr.com](https://rustydanger.tumblr.com)
  - date_published: 2024-10-23T13:09:20.323727+00:00
 
  ## Rusty's
@@ -1752,7 +1839,7 @@ Puppy95©️
  - date_published: 2024-12-13T11:07:34.917509+00:00
 
  ## ART HELP
- - [http://s0ffia.tumblr.com](http://s0ffia.tumblr.com)
+ - [https://s0ffia.tumblr.com](https://s0ffia.tumblr.com)
  - date_published: 2024-07-12T22:06:58.387549+00:00
 
  ## s4library.
@@ -1780,7 +1867,7 @@ Puppy95©️
  - date_published: 2024-12-13T09:39:55.783466+00:00
 
  ## sadness simmer
- - [http://sadnessimmer.tumblr.com](http://sadnessimmer.tumblr.com)
+ - [https://sadnessimmer.tumblr.com](https://sadnessimmer.tumblr.com)
  - date_published: 2024-10-23T07:53:55.656732+00:00
 
  ## Bugs eat books
@@ -1788,7 +1875,7 @@ Puppy95©️
  - date_published: 2024-09-13T16:30:17.081441+00:00
 
  ## Said She.
- - [http://said-she.tumblr.com](http://said-she.tumblr.com)
+ - [https://said-she.tumblr.com](https://said-she.tumblr.com)
  - date_published: 2024-07-01T06:10:21.431067+00:00
 
  ## 🇵🇸FREE PALESTINE🇵🇸
@@ -1812,7 +1899,7 @@ Puppy95©️
  - date_published: 2024-10-23T07:38:09.981301+00:00
 
  ## hey
- - [http://saltchip.tumblr.com](http://saltchip.tumblr.com)
+ - [https://saltchip.tumblr.com](https://saltchip.tumblr.com)
  - date_published: 2024-10-16T01:59:11.718050+00:00
 
  ## Patron Saint of Stray Dogs
@@ -1844,7 +1931,7 @@ Puppy95©️
  - date_published: 2024-12-13T09:50:34.581074+00:00
 
  ## Tumblr
- - [http://sammyborras.tumblr.com](http://sammyborras.tumblr.com)
+ - [https://sammyborras.tumblr.com](https://sammyborras.tumblr.com)
  - date_published: 2024-10-26T12:52:01.403402+00:00
 
  ## hermit dwelling
@@ -1873,7 +1960,7 @@ Puppy95©️
  - date_published: 2024-06-27T03:31:55.922750+00:00
 
  ## Sara Kipin
- - [http://sarakipin.tumblr.com](http://sarakipin.tumblr.com)
+ - [https://sarakipin.tumblr.com](https://sarakipin.tumblr.com)
  - date_published: 2024-06-27T04:17:23.809502+00:00
 
  ## Sara Wade
@@ -1913,7 +2000,7 @@ Puppy95©️
  - date_published: 2024-12-13T09:32:27.492448+00:00
 
  ## Doug Savage
- - [http://savagechickens.tumblr.com](http://savagechickens.tumblr.com)
+ - [https://savagechickens.tumblr.com](https://savagechickens.tumblr.com)
  - date_published: 2024-08-06T00:00:00+00:00
 
  ## Free Palestine
@@ -1949,7 +2036,7 @@ Puppy95©️
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Stephane Begaudeau
- - [http://sbegaudeau.tumblr.com](http://sbegaudeau.tumblr.com)
+ - [https://sbegaudeau.tumblr.com](https://sbegaudeau.tumblr.com)
  - date_published: 2024-07-18T12:23:53.350485+00:00
 
  ## SCALABLE FUTURE CITIES
@@ -1989,11 +2076,11 @@ Puppy95©️
  - date_published: 2024-05-10T00:00:00+00:00
 
  ## Science as Fuck
- - [http://scienceasfuck.tumblr.com](http://scienceasfuck.tumblr.com)
+ - [https://scienceasfuck.tumblr.com](https://scienceasfuck.tumblr.com)
  - date_published: 2021-11-04T00:00:00+00:00
 
  ## Science Friday on Tumblr
- - [http://sciencefriday.tumblr.com](http://sciencefriday.tumblr.com)
+ - [https://sciencefriday.tumblr.com](https://sciencefriday.tumblr.com)
  - date_published: 2024-08-06T11:10:00.061833+00:00
 
  ## Science is Beauty
@@ -2001,7 +2088,7 @@ Puppy95©️
  - date_published: 2024-12-11T12:28:40.686348+00:00
 
  ## Scientific Illustration
- - [http://scientificillustration.tumblr.com](http://scientificillustration.tumblr.com)
+ - [https://scientificillustration.tumblr.com](https://scientificillustration.tumblr.com)
  - date_published: 2024-09-14T22:44:40.213419+00:00
 
  ## Tumblr
@@ -2021,11 +2108,11 @@ Puppy95©️
  - date_published: 2024-12-14T23:41:41.385690+00:00
 
  ## Tumblr
- - [http://scotteverett.tumblr.com](http://scotteverett.tumblr.com)
+ - [https://scotteverett.tumblr.com](https://scotteverett.tumblr.com)
  - date_published: 2024-06-16T19:56:57.290938+00:00
 
  ## The Lynch of Locke Lamora
- - [http://scottlynch78.tumblr.com](http://scottlynch78.tumblr.com)
+ - [https://scottlynch78.tumblr.com](https://scottlynch78.tumblr.com)
  - date_published: 2024-06-29T06:12:51.223453+00:00
 
  ## Untitled
@@ -2041,7 +2128,7 @@ Puppy95©️
  - date_published: 2024-10-30T00:45:52.777834+00:00
 
  ## Tumblr
- - [http://screenwritingtips.tumblr.com](http://screenwritingtips.tumblr.com)
+ - [https://screenwritingtips.tumblr.com](https://screenwritingtips.tumblr.com)
  - date_published: 2024-10-17T23:10:52.333930+00:00
 
  ## Tumblr
@@ -2053,7 +2140,7 @@ Puppy95©️
  - date_published: 2024-06-16T21:06:33.915567+00:00
 
  ## Scrupulous Abstractions
- - [http://scrupulousabstractions.tumblr.com](http://scrupulousabstractions.tumblr.com)
+ - [https://scrupulousabstractions.tumblr.com](https://scrupulousabstractions.tumblr.com)
  - date_published: 2012-12-21T00:00:00+00:00
 
  ## Tumblr
@@ -2065,7 +2152,7 @@ Puppy95©️
  - date_published: 2024-09-18T22:12:37.921024+00:00
 
  ## Seagaia
- - [http://seagaia.tumblr.com](http://seagaia.tumblr.com)
+ - [https://seagaia.tumblr.com](https://seagaia.tumblr.com)
  - date_published: 2023-10-07T00:00:00+00:00
 
  ## Seanan's Tumblr
@@ -2117,23 +2204,23 @@ Puppy95©️
  - date_published: 2024-06-27T04:51:31.801275+00:00
 
  ## Request denied.
- - [https://secure.assets.tumblr.com](https://secure.assets.tumblr.com)
+ - [http://secure.assets.tumblr.com](http://secure.assets.tumblr.com)
  - date_published: 2024-06-21T05:41:11.544806+00:00
 
  ## The Security Ledger
- - [http://securityledger.tumblr.com](http://securityledger.tumblr.com)
+ - [https://securityledger.tumblr.com](https://securityledger.tumblr.com)
  - date_published: 2015-08-17T00:00:00+00:00
 
  ## Seeckr
- - [http://seeckr.tumblr.com](http://seeckr.tumblr.com)
+ - [https://seeckr.tumblr.com](https://seeckr.tumblr.com)
  - date_published: 2024-06-26T07:30:17.508603+00:00
 
  ## nope
- - [http://seeingdaylight.tumblr.com](http://seeingdaylight.tumblr.com)
+ - [https://seeingdaylight.tumblr.com](https://seeingdaylight.tumblr.com)
  - date_published: 2024-10-18T15:59:15.327973+00:00
 
  ## SEGADriven
- - [http://segadriven.tumblr.com](http://segadriven.tumblr.com)
+ - [https://segadriven.tumblr.com](https://segadriven.tumblr.com)
  - date_published: 2024-07-17T12:16:46.697431+00:00
 
  ## 👋
@@ -2141,7 +2228,7 @@ Puppy95©️
  - date_published: 2024-12-13T11:08:21.325576+00:00
 
  ## UNTITLED
- - [http://se-juk-blog.tumblr.com](http://se-juk-blog.tumblr.com)
+ - [https://se-juk-blog.tumblr.com](https://se-juk-blog.tumblr.com)
  - date_published: 2024-09-16T06:41:53.369195+00:00
 
  ## love and trust 100%
@@ -2155,6 +2242,7 @@ Puppy95©️
  ## Tumblr
  - [https://senpiez.tumblr.com](https://senpiez.tumblr.com)
  - date_published: 2024-06-27T05:01:31.790120+00:00
+ - date_dead_since: 2025-01-05T08:23:03.701483+00:00
 
  ## "hey, babe! you're so tall and beautiful!"
  - [https://sensualpolitics.tumblr.com](https://sensualpolitics.tumblr.com)
@@ -2181,7 +2269,7 @@ Puppy95©️
  - date_published: 2024-06-27T03:16:36.160758+00:00
 
  ## Seraphima Lune
- - [http://seraphimalune.tumblr.com](http://seraphimalune.tumblr.com)
+ - [https://seraphimalune.tumblr.com](https://seraphimalune.tumblr.com)
  - date_published: 2024-09-04T11:42:19.750257+00:00
 
  ## serenity
@@ -2193,7 +2281,7 @@ Puppy95©️
  - date_published: 2024-12-13T10:45:14.556936+00:00
 
  ## ★
- - [http://sergle.tumblr.com](http://sergle.tumblr.com)
+ - [https://sergle.tumblr.com](https://sergle.tumblr.com)
  - date_published: 2024-06-27T03:32:41.506451+00:00
 
  ## Serial
@@ -2237,7 +2325,7 @@ Puppy95©️
  - date_published: 2024-12-13T10:06:58.168302+00:00
 
  ## SF Bay Area Renters Federation
- - [http://sfbarf.tumblr.com](http://sfbarf.tumblr.com)
+ - [https://sfbarf.tumblr.com](https://sfbarf.tumblr.com)
  - date_published: 2024-06-28T14:36:23.238566+00:00
 
  ## THE CARTOON ART MUSEUM
@@ -2257,11 +2345,11 @@ Puppy95©️
  - date_published: 2024-12-22T08:40:34.693552+00:00
 
  ## Shadow / Light
- - [http://shadowbylight.tumblr.com](http://shadowbylight.tumblr.com)
+ - [https://shadowbylight.tumblr.com](https://shadowbylight.tumblr.com)
  - date_published: 2014-06-03T00:00:00+00:00
 
  ## Shadowhunters
- - [http://shadowhuntersseries.tumblr.com](http://shadowhuntersseries.tumblr.com)
+ - [https://shadowhuntersseries.tumblr.com](https://shadowhuntersseries.tumblr.com)
  - date_published: 2024-06-18T20:45:55.541555+00:00
 
  ## In Nomine Umbrae
@@ -2313,7 +2401,7 @@ Puppy95©️
  - date_published: 2024-10-23T08:05:25.267252+00:00
 
  ## Themes by Doori
- - [http://sheathemes.tumblr.com](http://sheathemes.tumblr.com)
+ - [https://sheathemes.tumblr.com](https://sheathemes.tumblr.com)
  - date_published: 2024-10-23T08:07:47.513616+00:00
 
  ## Shen Comix
@@ -2321,11 +2409,11 @@ Puppy95©️
  - date_published: 2024-08-02T00:00:00+00:00
 
  ## Sherri Rose Art
- - [http://sherrirose.tumblr.com](http://sherrirose.tumblr.com)
+ - [https://sherrirose.tumblr.com](https://sherrirose.tumblr.com)
  - date_published: 2024-10-25T15:19:52.801152+00:00
 
  ## BLM ✊🏿
- - [http://shespeakssimlish.tumblr.com](http://shespeakssimlish.tumblr.com)
+ - [https://shespeakssimlish.tumblr.com](https://shespeakssimlish.tumblr.com)
  - date_published: 2024-06-18T17:56:14.478672+00:00
 
  ## Why can't I hold all of this fail?
@@ -2341,12 +2429,13 @@ Puppy95©️
  - date_published: 2024-12-13T09:49:25.287084+00:00
 
  ## Shinny Studio
- - [http://shinnystudio.tumblr.com](http://shinnystudio.tumblr.com)
+ - [https://shinnystudio.tumblr.com](https://shinnystudio.tumblr.com)
  - date_published: 2024-07-16T19:15:36.856822+00:00
 
  ## live like windrammer as you fuck
  - [https://shinolavolume1.tumblr.com](https://shinolavolume1.tumblr.com)
  - date_published: 2024-06-27T03:30:30.419949+00:00
+ - date_dead_since: 2025-01-05T08:27:53.588700+00:00
 
  ## ShinraAlpha
  - [https://shinraalpha.tumblr.com](https://shinraalpha.tumblr.com)
@@ -2389,7 +2478,7 @@ Puppy95©️
  - date_published: 2024-10-26T15:05:39.069426+00:00
 
  ## Shoegazing
- - [http://shoegazingblog.tumblr.com](http://shoegazingblog.tumblr.com)
+ - [https://shoegazingblog.tumblr.com](https://shoegazingblog.tumblr.com)
  - date_published: 2024-09-04T18:02:54.089696+00:00
 
  ## kthxbye
@@ -2397,7 +2486,7 @@ Puppy95©️
  - date_published: 2024-07-20T18:51:07.702155+00:00
 
  ## Flotsam & Jetsam
- - [http://shonk.tumblr.com](http://shonk.tumblr.com)
+ - [https://shonk.tumblr.com](https://shonk.tumblr.com)
  - date_published: 2024-06-30T03:00:00.022778+00:00
 
  ## Till the end
@@ -2421,7 +2510,7 @@ Puppy95©️
  - date_published: 2024-06-27T04:49:42.168798+00:00
 
  ## It's ShouTime
- - [http://shoutime.tumblr.com](http://shoutime.tumblr.com)
+ - [https://shoutime.tumblr.com](https://shoutime.tumblr.com)
  - date_published: 2024-09-15T08:10:08.548312+00:00
 
  ## “you’re ellie?!”
@@ -2445,11 +2534,11 @@ Puppy95©️
  - date_published: 2024-12-13T10:59:37.767208+00:00
 
  ## awkward, out of breath
- - [http://shwetanarayan.tumblr.com](http://shwetanarayan.tumblr.com)
+ - [https://shwetanarayan.tumblr.com](https://shwetanarayan.tumblr.com)
  - date_published: 2024-07-08T13:50:27.447396+00:00
 
  ## Shy Themes
- - [http://shythemes.tumblr.com](http://shythemes.tumblr.com)
+ - [https://shythemes.tumblr.com](https://shythemes.tumblr.com)
  - date_published: 2024-10-23T08:07:17.370210+00:00
 
  ## veneficia!
@@ -2505,7 +2594,7 @@ Puppy95©️
  - date_published: 2024-06-27T03:33:09.234593+00:00
 
  ## Silkyflat
- - [http://silkyflat.tumblr.com](http://silkyflat.tumblr.com)
+ - [https://silkyflat.tumblr.com](https://silkyflat.tumblr.com)
  - date_published: 2024-06-16T21:21:05.131857+00:00
 
  ## Tumblr
@@ -2581,7 +2670,7 @@ Puppy95©️
  - date_published: 2024-10-23T07:49:34.452976+00:00
 
  ## Simplify Theme
- - [http://simplifytheme.tumblr.com](http://simplifytheme.tumblr.com)
+ - [https://simplifytheme.tumblr.com](https://simplifytheme.tumblr.com)
  - date_published: 2013-12-27T00:00:00+00:00
 
  ## SimPlistic
@@ -2621,7 +2710,7 @@ Puppy95©️
  - date_published: 2024-10-23T07:38:52.322929+00:00
 
  ## Sims Resource Hub
- - [http://simsresourcehub.tumblr.com](http://simsresourcehub.tumblr.com)
+ - [https://simsresourcehub.tumblr.com](https://simsresourcehub.tumblr.com)
  - date_published: 2024-10-23T07:57:35.129860+00:00
 
  ## simstrouble
@@ -2641,7 +2730,7 @@ Puppy95©️
  - date_published: 2024-10-23T08:27:44.600015+00:00
 
  ## still missing you
- - [http://simxnoire.tumblr.com](http://simxnoire.tumblr.com)
+ - [https://simxnoire.tumblr.com](https://simxnoire.tumblr.com)
  - date_published: 2024-06-18T17:55:15.000794+00:00
 
  ## Sindhi Wikipedia
@@ -2649,7 +2738,7 @@ Puppy95©️
  - date_published: 2018-05-02T00:00:00+00:00
 
  ## singleatheme
- - [http://singleatheme.tumblr.com](http://singleatheme.tumblr.com)
+ - [https://singleatheme.tumblr.com](https://singleatheme.tumblr.com)
  - date_published: 2020-04-05T00:00:00+00:00
 
  ## Die Weltenbummlerin
@@ -2669,7 +2758,7 @@ Puppy95©️
  - date_published: 2024-12-13T11:12:26.064629+00:00
 
  ## Sio Doodles
- - [http://siobhan-illustration.tumblr.com](http://siobhan-illustration.tumblr.com)
+ - [https://siobhan-illustration.tumblr.com](https://siobhan-illustration.tumblr.com)
  - date_published: 2024-10-26T12:51:39.376077+00:00
 
  ## Sipher Says Stuffs
@@ -2689,7 +2778,7 @@ Puppy95©️
  - date_published: 2024-06-27T03:51:20.060058+00:00
 
  ## sixhours
- - [http://sixhours.tumblr.com](http://sixhours.tumblr.com)
+ - [https://sixhours.tumblr.com](https://sixhours.tumblr.com)
  - date_published: 2024-06-18T06:32:27.682043+00:00
 
  ## Unidentified Flying Bastard
@@ -2705,7 +2794,7 @@ Puppy95©️
  - date_published: 2024-10-23T07:59:29.578117+00:00
 
  ## 4 Prez
- - [http://sjane4prez.tumblr.com](http://sjane4prez.tumblr.com)
+ - [https://sjane4prez.tumblr.com](https://sjane4prez.tumblr.com)
  - date_published: 2018-12-01T00:00:00+00:00
 
  ## 7foot with the horns
@@ -2769,7 +2858,7 @@ Puppy95©️
  - date_published: 2024-05-15T02:51:24.498279+00:00
 
  ## Slate Star Scratchpad
- - [http://slatestarscratchpad.tumblr.com](http://slatestarscratchpad.tumblr.com)
+ - [https://slatestarscratchpad.tumblr.com](https://slatestarscratchpad.tumblr.com)
  - date_published: 2024-06-30T08:24:03.249434+00:00
 
  ## Fresser.
@@ -2781,7 +2870,7 @@ Puppy95©️
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Sleepover
- - [http://sleepoversf.tumblr.com](http://sleepoversf.tumblr.com)
+ - [https://sleepoversf.tumblr.com](https://sleepoversf.tumblr.com)
  - date_published: 2024-09-19T21:27:39.718157+00:00
 
  ## local soup eater
@@ -2797,7 +2886,7 @@ Puppy95©️
  - date_published: 2024-06-27T04:30:54.082123+00:00
 
  ## Slides Theme
- - [http://slidestheme.tumblr.com](http://slidestheme.tumblr.com)
+ - [https://slidestheme.tumblr.com](https://slidestheme.tumblr.com)
  - date_published: 2024-10-17T21:55:07.827137+00:00
 
  ## Derailed Train of Thought
@@ -2837,7 +2926,7 @@ Puppy95©️
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Slow Place Like Home
- - [http://slowplacelikehomeofficial.tumblr.com](http://slowplacelikehomeofficial.tumblr.com)
+ - [https://slowplacelikehomeofficial.tumblr.com](https://slowplacelikehomeofficial.tumblr.com)
  - date_published: 2024-07-10T10:22:38.644842+00:00
 
  ## serfworld ten thousand
@@ -2910,7 +2999,7 @@ Puppy95©️
  - date_published: 2024-10-27T04:06:53.812580+00:00
 
  ## Smooshkin Draws
- - [http://smooshkin.tumblr.com](http://smooshkin.tumblr.com)
+ - [https://smooshkin.tumblr.com](https://smooshkin.tumblr.com)
  - date_published: 2024-10-27T04:06:56.704659+00:00
 
  ## SMS Catering
@@ -3018,7 +3107,7 @@ Puppy95©️
  - date_published: 2024-12-22T10:15:04.021954+00:00
 
  ## A Softer World feed
- - [http://softerworld.tumblr.com](http://softerworld.tumblr.com)
+ - [https://softerworld.tumblr.com](https://softerworld.tumblr.com)
  - date_published: 2024-06-17T10:32:59.607564+00:00
 
  ## SOIL THAT BINDS US
@@ -3062,7 +3151,7 @@ Puppy95©️
  - date_published: 2024-07-15T06:48:03.252692+00:00
 
  ## Solstice Theme
- - [http://solsticetheme.tumblr.com](http://solsticetheme.tumblr.com)
+ - [https://solsticetheme.tumblr.com](https://solsticetheme.tumblr.com)
  - date_published: 2024-10-24T13:16:22.511210+00:00
 
  ## Some Aliens
@@ -3076,6 +3165,7 @@ Puppy95©️
  ## *anxious grad school noises*
  - [https://some-eldritch-bats.tumblr.com](https://some-eldritch-bats.tumblr.com)
  - date_published: 2024-07-08T00:00:00+00:00
+ - date_dead_since: 2025-01-05T08:48:13.876128+00:00
 
  ## be kind to yourself
  - [https://somekindafreak.tumblr.com](https://somekindafreak.tumblr.com)
@@ -3159,7 +3249,7 @@ Puppy95©️
  - date_published: 2024-12-13T09:20:05.478668+00:00
 
  ## Source of Uncertainty
- - [http://sourceofuncertainty.tumblr.com](http://sourceofuncertainty.tumblr.com)
+ - [https://sourceofuncertainty.tumblr.com](https://sourceofuncertainty.tumblr.com)
  - date_published: 2024-09-04T08:12:50.265620+00:00
 
  ## blubber incorporated
@@ -3183,7 +3273,7 @@ Puppy95©️
  - date_published: 2024-06-27T03:33:48.270748+00:00
 
  ## SPACE GEEKS
- - [http://space-geeks.tumblr.com](http://space-geeks.tumblr.com)
+ - [https://space-geeks.tumblr.com](https://space-geeks.tumblr.com)
  - date_published: 2024-10-20T12:57:08.654844+00:00
 
  ## עולם חסד יבנה
@@ -3203,7 +3293,7 @@ Puppy95©️
  - date_published: 2024-07-04T15:49:07.613877+00:00
 
  ## Spadow's Tumblr
- - [http://spadow.tumblr.com](http://spadow.tumblr.com)
+ - [https://spadow.tumblr.com](https://spadow.tumblr.com)
  - date_published: 2024-10-24T07:49:58.817933+00:00
 
  ## Allegedly a comic book blog
@@ -3219,7 +3309,7 @@ Puppy95©️
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Spa Space (Chicago) blog
- - [http://spaspaceblog.tumblr.com](http://spaspaceblog.tumblr.com)
+ - [https://spaspaceblog.tumblr.com](https://spaspaceblog.tumblr.com)
  - date_published: 2024-06-30T08:59:31.856388+00:00
 
  ## speedy
@@ -3227,7 +3317,7 @@ Puppy95©️
  - date_published: 2024-12-13T09:19:50.593556+00:00
 
  ## SPEAKBEASTY
- - [http://speakbeastypodcast.tumblr.com](http://speakbeastypodcast.tumblr.com)
+ - [https://speakbeastypodcast.tumblr.com](https://speakbeastypodcast.tumblr.com)
  - date_published: 2024-10-22T17:57:24.013968+00:00
 
  ## Speculative Grammarian
@@ -3245,6 +3335,7 @@ Puppy95©️
  ## Speed Force
  - [https://speedforceorg.tumblr.com](https://speedforceorg.tumblr.com)
  - date_published: 2024-09-04T05:05:32.167572+00:00
+ - date_dead_since: 2025-01-05T08:52:20.666240+00:00
 
  ## WHY NOT PRETEND?
  - [https://spelldealer.tumblr.com](https://spelldealer.tumblr.com)
@@ -3311,7 +3402,7 @@ Puppy95©️
  - date_published: 2024-12-13T11:42:34.977620+00:00
 
  ## Spoken Word by Erin Kyan
- - [http://spokenwordbyerinkyan.tumblr.com](http://spokenwordbyerinkyan.tumblr.com)
+ - [https://spokenwordbyerinkyan.tumblr.com](https://spokenwordbyerinkyan.tumblr.com)
  - date_published: 2024-07-12T23:27:39.764981+00:00
 
  ## SpongeBob SquarePants (@spongebobssquarepants)
@@ -3355,7 +3446,7 @@ Puppy95©️
  - date_published: 2024-06-27T02:33:17.612084+00:00
 
  ## IT'S JOHNBOYAEGER NOW
- - [http://squintyoureyes.tumblr.com](http://squintyoureyes.tumblr.com)
+ - [https://squintyoureyes.tumblr.com](https://squintyoureyes.tumblr.com)
  - date_published: 2016-06-06T00:00:00+00:00
 
  ## -
@@ -3407,7 +3498,7 @@ Puppy95©️
  - date_published: 2024-06-27T04:51:34.920581+00:00
 
  ## [Standardheld]
- - [http://standardheld.tumblr.com](http://standardheld.tumblr.com)
+ - [https://standardheld.tumblr.com](https://standardheld.tumblr.com)
  - date_published: 2024-10-16T00:00:00+00:00
 
  ## obscure waifus
@@ -3439,7 +3530,7 @@ Puppy95©️
  - date_published: 2024-12-22T08:39:11.842003+00:00
 
  ## STARFELL WISH
- - [http://starfellwish.tumblr.com](http://starfellwish.tumblr.com)
+ - [https://starfellwish.tumblr.com](https://starfellwish.tumblr.com)
  - date_published: 2024-10-25T08:33:04.293269+00:00
 
  ## Just some loser
@@ -3447,7 +3538,7 @@ Puppy95©️
  - date_published: 2024-05-06T20:33:16.600043+00:00
 
  ## starious
- - [http://starious.tumblr.com](http://starious.tumblr.com)
+ - [https://starious.tumblr.com](https://starious.tumblr.com)
  - date_published: 2024-10-23T08:32:06.151493+00:00
 
  ## hot, gay, and covered in hay
@@ -3471,11 +3562,11 @@ Puppy95©️
  - date_published: 2024-06-28T15:33:08.209284+00:00
 
  ## paweł starzec
- - [http://starzec.tumblr.com](http://starzec.tumblr.com)
+ - [https://starzec.tumblr.com](https://starzec.tumblr.com)
  - date_published: 2024-06-30T06:16:34.134353+00:00
 
  ## Untitled
- - [http://stathletics.tumblr.com](http://stathletics.tumblr.com)
+ - [https://stathletics.tumblr.com](https://stathletics.tumblr.com)
  - date_published: 2024-06-27T03:58:01.924828+00:00
 
  ## St. Bernard's Pass
@@ -3483,7 +3574,7 @@ Puppy95©️
  - date_published: 2016-06-14T00:00:00+00:00
 
  ## Steamberry
- - [http://steamberrystudio.tumblr.com](http://steamberrystudio.tumblr.com)
+ - [https://steamberrystudio.tumblr.com](https://steamberrystudio.tumblr.com)
  - date_published: 2024-07-11T23:20:26.783057+00:00
 
  ## I carry death around my neck
@@ -3507,15 +3598,15 @@ Puppy95©️
  - date_published: 2024-08-18T10:28:19.596746+00:00
 
  ## Steven Cravis
- - [http://stevencravis.tumblr.com](http://stevencravis.tumblr.com)
+ - [https://stevencravis.tumblr.com](https://stevencravis.tumblr.com)
  - date_published: 2024-08-18T03:16:18.366908+00:00
 
  ## Steven Crewniverse Behind-The-Scenes Universe
- - [http://stevencrewniverse.tumblr.com](http://stevencrewniverse.tumblr.com)
+ - [https://stevencrewniverse.tumblr.com](https://stevencrewniverse.tumblr.com)
  - date_published: 2024-06-18T23:13:08.050655+00:00
 
  ## Steven Rae
- - [http://stevenrae.tumblr.com](http://stevenrae.tumblr.com)
+ - [https://stevenrae.tumblr.com](https://stevenrae.tumblr.com)
  - date_published: 2024-06-29T21:26:11.581408+00:00
 
  ## Stevi's Habitat
@@ -3535,7 +3626,7 @@ Puppy95©️
  - date_published: 2024-06-27T04:50:36.439308+00:00
 
  ## Stockholm Theme
- - [http://stockholm-theme.tumblr.com](http://stockholm-theme.tumblr.com)
+ - [https://stockholm-theme.tumblr.com](https://stockholm-theme.tumblr.com)
  - date_published: 2019-11-12T00:00:00+00:00
 
  ## stoic
@@ -3543,7 +3634,7 @@ Puppy95©️
  - date_published: 2024-12-13T10:58:26.969046+00:00
 
  ## A New Experience
- - [http://stonecobra.tumblr.com](http://stonecobra.tumblr.com)
+ - [https://stonecobra.tumblr.com](https://stonecobra.tumblr.com)
  - date_published: 2021-10-04T00:00:00+00:00
 
  ## stonybrook isle
@@ -3551,7 +3642,7 @@ Puppy95©️
  - date_published: 2024-10-23T08:06:24.371252+00:00
 
  ## storyboardresources
- - [http://storyboardresources.tumblr.com](http://storyboardresources.tumblr.com)
+ - [https://storyboardresources.tumblr.com](https://storyboardresources.tumblr.com)
  - date_published: 2024-07-12T22:07:06.616862+00:00
 
  ## storysims
@@ -3563,7 +3654,7 @@ Puppy95©️
  - date_published: 2024-12-13T10:06:36.012589+00:00
 
  ## Strand Book Store
- - [http://strandbooks.tumblr.com](http://strandbooks.tumblr.com)
+ - [https://strandbooks.tumblr.com](https://strandbooks.tumblr.com)
  - date_published: 2024-09-13T16:30:19.978185+00:00
 
  ## something true, or nothing at all
@@ -3599,7 +3690,7 @@ Puppy95©️
  - date_published: 2024-06-27T15:30:23.815455+00:00
 
  ## Where TVs Go To Die
- - [http://streetcrts.tumblr.com](http://streetcrts.tumblr.com)
+ - [https://streetcrts.tumblr.com](https://streetcrts.tumblr.com)
  - date_published: 2024-06-29T21:26:10.039928+00:00
 
  ## Tumblr
@@ -3615,7 +3706,7 @@ Puppy95©️
  - date_published: 2024-10-23T08:02:57.849221+00:00
 
  ## stroadtoboulevard
- - [http://stroadtoboulevard.tumblr.com](http://stroadtoboulevard.tumblr.com)
+ - [https://stroadtoboulevard.tumblr.com](https://stroadtoboulevard.tumblr.com)
  - date_published: 2016-05-18T00:00:00+00:00
 
  ## hint of lime
@@ -3631,7 +3722,7 @@ Puppy95©️
  - date_published: 2024-06-27T05:05:36.176322+00:00
 
  ## Tumblr
- - [http://studentworkjameslloyd.tumblr.com](http://studentworkjameslloyd.tumblr.com)
+ - [https://studentworkjameslloyd.tumblr.com](https://studentworkjameslloyd.tumblr.com)
  - date_published: 2024-06-20T17:45:12.775982+00:00
 
  ## Stuff about Minneapolis
@@ -3639,7 +3730,7 @@ Puppy95©️
  - date_published: 2024-06-27T03:50:24.889335+00:00
 
  ## Stuff Mom Never Told You
- - [http://stuffmomnevertoldyou.tumblr.com](http://stuffmomnevertoldyou.tumblr.com)
+ - [https://stuffmomnevertoldyou.tumblr.com](https://stuffmomnevertoldyou.tumblr.com)
  - date_published: 2024-08-19T20:26:24.823228+00:00
 
  ## Everything happens so much
@@ -3667,7 +3758,7 @@ Puppy95©️
  - date_published: 2017-07-20T00:00:00+00:00
 
  ## DESIGNING SUBTERFUGE
- - [http://subterfugegame.tumblr.com](http://subterfugegame.tumblr.com)
+ - [https://subterfugegame.tumblr.com](https://subterfugegame.tumblr.com)
  - date_published: 2024-07-14T12:30:31.146751+00:00
 
  ## Confessions of a Suburban Beatnik
@@ -3700,11 +3791,11 @@ Little Shop Of Horrors gifs
  - date_published: 2024-12-13T08:55:47.261170+00:00
 
  ## you know the galaxies of my heart
- - [http://summerinohio.tumblr.com](http://summerinohio.tumblr.com)
+ - [https://summerinohio.tumblr.com](https://summerinohio.tumblr.com)
  - date_published: 2024-09-02T13:09:33.022916+00:00
 
  ## The Sunlight Foundation
- - [http://sunfoundation.tumblr.com](http://sunfoundation.tumblr.com)
+ - [https://sunfoundation.tumblr.com](https://sunfoundation.tumblr.com)
  - date_published: 2024-06-19T02:22:37.059178+00:00
 
  ## Sunglass Hut
@@ -3768,7 +3859,7 @@ Little Shop Of Horrors gifs
  - date_published: 2024-12-13T08:48:44.997177+00:00
 
  ## G. Keith Smith, M.D.
- - [http://surgerycenterofoklahoma.tumblr.com](http://surgerycenterofoklahoma.tumblr.com)
+ - [https://surgerycenterofoklahoma.tumblr.com](https://surgerycenterofoklahoma.tumblr.com)
  - date_published: 2024-06-20T04:21:57.587183+00:00
 
  ## Tumblr
@@ -3780,7 +3871,7 @@ Little Shop Of Horrors gifs
  - date_published: 2024-12-13T10:00:36.169163+00:00
 
  ## Tumblr
- - [http://sushinfood.tumblr.com](http://sushinfood.tumblr.com)
+ - [https://sushinfood.tumblr.com](https://sushinfood.tumblr.com)
  - date_published: 2024-06-26T10:10:24.856369+00:00
 
  ## Close Your Eyes
@@ -3922,85 +4013,4 @@ Little Shop Of Horrors gifs
  ## עם ישראל חי
  - [https://tachypodion.tumblr.com](https://tachypodion.tumblr.com)
  - date_published: 2024-06-06T00:00:00+00:00
-
- ## Tumblr
- - [https://taconiel.tumblr.com](https://taconiel.tumblr.com)
- - date_published: 2024-12-13T09:22:42.344389+00:00
-
- ## I'm out of cool name ideas
- - [https://tactfullyinappropriate.tumblr.com](https://tactfullyinappropriate.tumblr.com)
- - date_published: 2024-06-27T02:36:02.434585+00:00
-
- ## bring the light.
- - [http://tactician.tumblr.com](http://tactician.tumblr.com)
- - date_published: 2024-12-22T11:01:29.032902+00:00
-
- ## Tumblr
- - [https://taestell.tumblr.com](https://taestell.tumblr.com)
- - date_published: 2024-09-18T22:12:43.536380+00:00
-
- ## we rise once more
- - [https://taibhsearachd.tumblr.com](https://taibhsearachd.tumblr.com)
- - date_published: 2024-12-13T10:00:23.851846+00:00
-
- ## ❤️ Is The Game Over?
-Not Yet. ❤️
- - [https://taikeero-lecoredier.tumblr.com](https://taikeero-lecoredier.tumblr.com)
- - date_published: 2024-07-15T11:27:04.238253+00:00
-
- ## Tales of Translations
- - [http://taleslations.tumblr.com](http://taleslations.tumblr.com)
- - date_published: 2024-10-25T10:38:57.931839+00:00
-
- ## Tales of Transparent
- - [http://tales-of-transparent.tumblr.com](http://tales-of-transparent.tumblr.com)
- - date_published: 2024-10-25T10:38:53.354753+00:00
-
- ## Talking Shadow
- - [http://talkingshadow.tumblr.com](http://talkingshadow.tumblr.com)
- - date_published: 2024-09-04T18:29:42.316244+00:00
-
- ## TallRugbyGuy
- - [https://tallrugbyguy.tumblr.com](https://tallrugbyguy.tumblr.com)
- - date_published: 2024-06-27T03:21:45.404208+00:00
-
- ## Tumblr
- - [https://tamale-papi.tumblr.com](https://tamale-papi.tumblr.com)
- - date_published: 2024-12-13T10:26:52.864586+00:00
-
- ## jalter
- - [https://tamamita.tumblr.com](https://tamamita.tumblr.com)
- - date_published: 2024-12-13T11:27:44.249745+00:00
-
- ## Tumblr
- - [https://tamarrud.tumblr.com](https://tamarrud.tumblr.com)
- - date_published: 2024-05-06T20:34:33.264960+00:00
-
- ## Art of Devin Elle Kurtz
- - [https://tamberella.tumblr.com](https://tamberella.tumblr.com)
- - date_published: 2024-12-13T11:00:06.690452+00:00
-
- ## Tumblr
- - [http://tami-taylors-hair.tumblr.com](http://tami-taylors-hair.tumblr.com)
- - date_published: 2024-10-18T03:28:35.129885+00:00
-
- ## Tampa Bay Roof Cleaning
- - [https://tampabayroofcleaning.tumblr.com](https://tampabayroofcleaning.tumblr.com)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Tamriel Rebuilt
- - [https://tamriel-rebuilt.tumblr.com](https://tamriel-rebuilt.tumblr.com)
- - date_published: 2024-07-08T12:28:49.044439+00:00
-
- ## Tanadrin
- - [https://tanadrin.tumblr.com](https://tanadrin.tumblr.com)
- - date_published: 2024-12-13T09:59:50.300716+00:00
-
- ## Gonna get into it...
- - [https://tangledndark.tumblr.com](https://tangledndark.tumblr.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## katalyst
- - [https://tangobullets.tumblr.com](https://tangobullets.tumblr.com)
- - date_published: 2024-05-06T20:43:25.386282+00:00
 

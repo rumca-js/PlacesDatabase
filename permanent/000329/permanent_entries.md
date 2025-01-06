@@ -1,3 +1,95 @@
+ ## অস্থায়ী এবং প্রতিবন্ধী সহায়তা অফিস
+ - [https://bn.otda.ny.gov](https://bn.otda.ny.gov)
+ - date_published: 2024-10-28T00:28:15.522191+00:00
+
+ ## NYS DCSS | New York Child Support
+ - [https://childsupport.ny.gov](https://childsupport.ny.gov)
+ - date_published: 2024-10-28T00:27:43.485471+00:00
+
+ ## NYS Clean Heat
+ - [https://cleanheat.ny.gov](https://cleanheat.ny.gov)
+ - date_published: 2024-07-04T13:01:21.484475+00:00
+
+ ## New York's Climate Leadership & Community Protection Act - New York's Climate Leadership & Community Protection Act
+ - [https://climate.ny.gov](https://climate.ny.gov)
+ - date_published: 2024-07-04T13:01:29.002283+00:00
+
+ ## COVID-19
+ - [https://coronavirus.health.ny.gov](https://coronavirus.health.ny.gov)
+ - date_published: 2024-05-06T20:40:30.862940+00:00
+
+ ## Sign in - Google Accounts
+ - [https://covid19tracker.health.ny.gov](https://covid19tracker.health.ny.gov)
+ - date_published: 2024-05-07T14:01:57.032934+00:00
+
+ ## COVID-19
+ - [https://covid19vaccine.health.ny.gov](https://covid19vaccine.health.ny.gov)
+ - date_published: 2024-06-21T20:54:34+00:00
+
+ ## State of New York | Open Data | State of New York
+ - [https://data.ny.gov](https://data.ny.gov)
+ - date_published: 2024-05-06T20:35:09.294406+00:00
+
+ ## Home
+ - [https://dec.ny.gov](https://dec.ny.gov)
+ - date_published: 2024-05-11T09:25:27.207623+00:00
+
+ ## New York DMV
+ - [https://dmv.ny.gov](https://dmv.ny.gov)
+ - date_published: 2024-06-26T12:57:21+00:00
+
+ ## Department of Labor Home Page
+ - [https://dol.ny.gov](https://dol.ny.gov)
+ - date_published: 2024-07-02T17:30:25+00:00
+
+ ## Register to Become an Organ and Tissue Donor Today
+ - [https://donatelife.ny.gov](https://donatelife.ny.gov)
+ - date_published: 2024-09-18T04:22:00.478474+00:00
+
+ ## Department of State
+ - [https://dos.ny.gov](https://dos.ny.gov)
+ - date_published: 2024-08-02T19:38:24+00:00
+
+ ## Cierpliwości...
+ - [https://elections.ny.gov](https://elections.ny.gov)
+ - date_published: 2024-06-20T11:43:04.162706+00:00
+
+ ## Success
+ - [https://encryption.ny.gov](https://encryption.ny.gov)
+ - date_published: 2024-05-11T09:25:31.152395+00:00
+
+ ## Homepage | NY Energy Advisor
+ - [https://energyadvisor.ny.gov](https://energyadvisor.ny.gov)
+ - date_published: 2024-07-04T12:52:25+00:00
+
+ ## New York State New Energy Plan - New York State New Energy Plan
+ - [https://energyplan.ny.gov](https://energyplan.ny.gov)
+ - date_published: 2024-07-04T13:01:20.121278+00:00
+
+ ## Agricultura y Mercados
+ - [https://es.agriculture.ny.gov](https://es.agriculture.ny.gov)
+ - date_published: 2024-09-18T20:18:08.210398+00:00
+
+ ## COVID-19
+ - [https://es.coronavirus.health.ny.gov](https://es.coronavirus.health.ny.gov)
+ - date_published: 2024-06-27T04:01:18.821934+00:00
+
+ ## Casa
+ - [https://es.dec.ny.gov](https://es.dec.ny.gov)
+ - date_published: 2024-07-14T04:45:31.702114+00:00
+
+ ## ESD Homepage | Empire State Development
+ - [https://esd.ny.gov](https://esd.ny.gov)
+ - date_published: 2024-07-22T03:38:07+00:00
+
+ ## El sitio web oficial de la Gobernadora Kathy Hochul
+ - [https://es.governor.ny.gov](https://es.governor.ny.gov)
+ - date_published: 2024-08-06T07:09:58.859544+00:00
+
+ ## El sitio web oficial del estado de Nueva York
+ - [https://es.ny.gov](https://es.ny.gov)
+ - date_published: 2024-07-14T04:45:01.902540+00:00
+
  ## Oficina de Asistencia Temporal y por Incapacidad
  - [https://es.otda.ny.gov](https://es.otda.ny.gov)
  - date_published: 2024-10-28T00:27:52.858090+00:00
@@ -3910,96 +4002,4 @@
  ## Homepage
  - [https://tz.usembassy.gov](https://tz.usembassy.gov)
  - date_published: 2024-07-05T00:00:00+00:00
-
- ## Homepage
- - [https://ua.usembassy.gov](https://ua.usembassy.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Homepage
- - [https://ug.usembassy.gov](https://ug.usembassy.gov)
- - date_published: 2024-07-09T23:47:42.618664+00:00
-
- ## Homepage
- - [https://uk.usembassy.gov](https://uk.usembassy.gov)
- - date_published: 2024-01-24T20:56:16.257977+00:00
-
- ## Homepage
- - [https://usembassy.gov](https://usembassy.gov)
- - date_published: 2022-06-16T00:00:00+00:00
-
- ## Homepage
- - [https://uy.usembassy.gov](https://uy.usembassy.gov)
- - date_published: 2024-07-09T23:47:05.838106+00:00
-
- ## Homepage
- - [https://uz.usembassy.gov](https://uz.usembassy.gov)
- - date_published: 2024-07-09T23:38:17.580976+00:00
-
- ## Homepage
- - [https://va.usembassy.gov](https://va.usembassy.gov)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Homepage
- - [https://ve.usembassy.gov](https://ve.usembassy.gov)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Homepage
- - [https://vn.usembassy.gov](https://vn.usembassy.gov)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Homepage
- - [https://ws.usembassy.gov](https://ws.usembassy.gov)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Homepage
- - [https://xk.usembassy.gov](https://xk.usembassy.gov)
- - date_published: 2024-07-09T23:46:08.989682+00:00
-
- ## Homepage
- - [https://ye.usembassy.gov](https://ye.usembassy.gov)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Homepage
- - [https://za.usembassy.gov](https://za.usembassy.gov)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Homepage
- - [https://zm.usembassy.gov](https://zm.usembassy.gov)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Homepage https://www.facebook.com/usembassyzimbabwe
- - [https://zw.usembassy.gov](https://zw.usembassy.gov)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Contact USGS | Answers Form
- - [https://answers.usgs.gov](https://answers.usgs.gov)
- - date_published: 2024-08-11T12:57:08.716868+00:00
-
- ## USGS Science Information Services (SIS)
- - [https://chat.cslive.usgs.gov](https://chat.cslive.usgs.gov)
- - date_published: 2024-08-19T03:35:45.525320+00:00
-
- ## Sign in · GitLab
- - [https://code.usgs.gov](https://code.usgs.gov)
- - date_published: 2024-07-04T08:18:53.748044+00:00
-
- ## Earthquake Hazards Program | U.S. Geological Survey
- - [https://earthquake.usgs.gov](https://earthquake.usgs.gov)
- - date_published: 2023-10-25T19:26:27.821782+00:00
-
- ## USGS - GeoChat
- - [https://geochat.usgs.gov](https://geochat.usgs.gov)
- - date_published: 2024-06-07T01:45:01+00:00
-
- ## Nonindigenous Aquatic Species
- - [https://nas.er.usgs.gov](https://nas.er.usgs.gov)
- - date_published: 2024-06-16T22:30:02.066699+00:00
-
- ## U.S. Geological Survey Publications Warehouse
- - [https://pubs.er.usgs.gov](https://pubs.er.usgs.gov)
- - date_published: 2023-10-25T19:26:29.739829+00:00
-
- ## USGS Publications Warehouse
- - [https://pubs.usgs.gov](https://pubs.usgs.gov)
- - date_published: 2024-02-26T14:18:28.677910+00:00
 

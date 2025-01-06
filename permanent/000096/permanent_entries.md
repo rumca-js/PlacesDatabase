@@ -1,3 +1,19 @@
+ ## Cre8d Design: Award-winning Custom Wordpress Theme Designers
+ - [http://www.cre8d-design.com](http://www.cre8d-design.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Creativity in Mathematics
+ - [https://cre8math.com](https://cre8math.com)
+ - date_published: 2024-12-15T18:40:12.094114+00:00
+
+ ## Photo, illustration and video editor AI tool : cre8tiveAI
+ - [https://cre8tiveai.com](https://cre8tiveai.com)
+ - date_published: 2023-10-12T00:00:00+00:00
+
+ ## CREA - OMNES Education | Création · Marketing · Communication · Digital · Luxe
+ - [https://www.creageneve.com](https://www.creageneve.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
  ## Home
  - [https://creagia.com](https://creagia.com)
  - date_published: 2024-05-04T05:59:25.234514+00:00
@@ -2864,7 +2880,7 @@
  - date_published: 2024-09-16T04:17:29.004777+00:00
 
  ## Crown Insurance Group Providing Personal and Commercial Insurance
- - [http://crowninsgroup.com](http://crowninsgroup.com)
+ - [https://crowninsgroup.com](https://crowninsgroup.com)
  - date_published: 2024-08-19T21:03:03.561316+00:00
 
  ## CrownPanel
@@ -2874,6 +2890,10 @@
  ## Crownpeak Community
  - [https://community.crownpeak.com](https://community.crownpeak.com)
  - date_published: 2024-06-25T21:45:16.205711+00:00
+
+ ## Homepage | Crownpeak
+ - [https://crownpeak.com](https://crownpeak.com)
+ - date_published: 2024-05-06T17:47:16.826259+00:00
 
  ## Crownpeak Technology - The Crownpeak developer center delivers information about our API libraries, allowing developers direct access across the Crownpeak platform.
  - [https://developer.crownpeak.com](https://developer.crownpeak.com)
@@ -2890,10 +2910,6 @@
  ## Crownpeak
  - [https://partnerportal.crownpeak.com](https://partnerportal.crownpeak.com)
  - date_published: 2024-06-25T21:45:10.523261+00:00
-
- ## Homepage | Crownpeak
- - [https://www.crownpeak.com](https://www.crownpeak.com)
- - date_published: 2024-05-06T17:47:16.826259+00:00
 
  ## Crown Point Press
  - [https://crownpoint.com](https://crownpoint.com)
@@ -2936,11 +2952,11 @@
  - date_published: 2024-06-27T05:46:39.948056+00:00
 
  ## Crozdesk | Business Software Search
- - [https://trk.crozdesk.com](https://trk.crozdesk.com)
+ - [http://trk.crozdesk.com](http://trk.crozdesk.com)
  - date_published: 2024-06-16T09:21:52.736834+00:00
 
  ## Crozier Fine Arts | Art Moving, Art Shipping, and Art Storage
- - [https://www.crozierfinearts.com](https://www.crozierfinearts.com)
+ - [https://crozierfinearts.com](https://crozierfinearts.com)
  - date_published: 2024-07-15T09:58:40.143399+00:00
 
  ## Homepage - C.R. Plastics
@@ -2948,7 +2964,7 @@
  - date_published: 2024-04-26T00:00:00+00:00
 
  ## cr-rev
- - [http://crrev.com](http://crrev.com)
+ - [https://crrev.com](https://crrev.com)
  - date_published: 2024-08-18T16:25:17.125923+00:00
 
  ## Home - Crrow777 Radio
@@ -2960,11 +2976,11 @@
  - date_published: 2024-12-26T10:58:42.435434+00:00
 
  ## FNGRS CRSSD
- - [https://www.crssd.com](https://www.crssd.com)
+ - [https://crssd.com](https://crssd.com)
  - date_published: 2024-07-08T11:26:49.626717+00:00
 
  ## CRTVCHURCH Jobs
- - [http://jobs.crtvchurch.com](http://jobs.crtvchurch.com)
+ - [https://jobs.crtvchurch.com](https://jobs.crtvchurch.com)
  - date_published: 2024-09-16T23:04:23.065004+00:00
 
  ## DRAM, Solid State Drive (SSD) & Memory Upgrades
@@ -2985,7 +3001,7 @@
  - date_published: 2024-07-14T22:28:32.876990+00:00
 
  ## cruessence
- - [https://www.cru-essence.com](https://www.cru-essence.com)
+ - [https://cru-essence.com](https://cru-essence.com)
  - date_published: 2024-07-03T08:28:51.661182+00:00
 
  ## Commodity Market Analysis | Commodity Prices, News, Consulting & Events | CRU
@@ -3009,19 +3025,20 @@
  - date_published: 2024-12-14T13:59:42.986119+00:00
 
  ## Cruise Reviews, Cruise Deals and Cruises - Cruise Critic
- - [https://www.cruisecritic.com](https://www.cruisecritic.com)
+ - [https://cruisecritic.com](https://cruisecritic.com)
  - date_published: 2024-06-23T20:31:26.180705+00:00
 
  ## Cruise Tracker: Real-Time Cruise Ship Tracking & Voyage Details
  - [https://cruisetracker.com](https://cruisetracker.com)
  - date_published: 2024-06-17T01:03:53.209893+00:00
+ - date_dead_since: 2025-01-05T10:12:14.963630+00:00
 
  ## Cruise Vacations | Cruise Deals | Cheap Cruises | CruiseVacationCenter.com
  - [http://www.cruisevacationcenter.com](http://www.cruisevacationcenter.com)
  - date_published: 2024-11-16T19:58:32.662269+00:00
 
  ## CruiseWorld
- - [https://www.cruiseworldshow.com](https://www.cruiseworldshow.com)
+ - [https://cruiseworldshow.com](https://cruiseworldshow.com)
  - date_published: 2024-07-03T20:46:09.430871+00:00
 
  ## CruisingPower.com
@@ -3065,7 +3082,7 @@
  - date_published: 2014-11-11T16:00:36+00:00
 
  ## Best Gym Membership - Top-Rated Fitness Centers & Health Clubs | Crunch Fitness
- - [https://www.crunch.com](https://www.crunch.com)
+ - [https://crunch.com](https://crunch.com)
  - date_published: 2024-10-11T13:57:58.972900+00:00
 
  ## Home
@@ -3073,7 +3090,7 @@
  - date_published: 2017-06-27T00:00:00+00:00
 
  ## Crunchbase: Discover innovative companies and the people behind them
- - [https://crunchbase.com](https://crunchbase.com)
+ - [http://crunchbase.com](http://crunchbase.com)
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## Welcome to Crunchbase Data!
@@ -3085,15 +3102,15 @@
  - date_published: 2023-10-25T13:37:26.877787+00:00
 
  ## Crunchbase | Knowledge Center
- - [https://support.crunchbase.com](https://support.crunchbase.com)
+ - [http://support.crunchbase.com](http://support.crunchbase.com)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Tech, Startup and Engineering Jobs  - Crunchboard Job Board
- - [https://www.crunchboard.com](https://www.crunchboard.com)
+ - [http://crunchboard.com](http://crunchboard.com)
  - date_published: 2024-09-05T16:25:26.645654+00:00
 
  ## Crunch - Budapest, 2024
- - [https://www.crunchconf.com](https://www.crunchconf.com)
+ - [https://crunchconf.com](https://crunchconf.com)
  - date_published: 2024-07-20T05:37:26.579983+00:00
 
  ## Crunch Foundation
@@ -3117,7 +3134,7 @@
  - date_published: 2024-07-12T08:24:10.440489+00:00
 
  ## CrunchLabs: Where Kids Learn to Think like Engineers
- - [https://www.crunchlabs.com](https://www.crunchlabs.com)
+ - [https://crunchlabs.com](https://crunchlabs.com)
  - date_published: 2024-07-01T07:39:24.080673+00:00
 
  ## Crunchy Bagel
@@ -3153,7 +3170,7 @@
  - date_published: 2024-05-08T07:02:19.090399+00:00
 
  ## Crunchyroll logo
- - [https://crunchyroll.com](https://crunchyroll.com)
+ - [http://crunchyroll.com](http://crunchyroll.com)
  - date_published: 2024-03-01T20:33:10.293733+00:00
  - tags: ['anime', 'video streaming']
 
@@ -3172,7 +3189,7 @@
  - tags: ['wargames', 'tabletop games', 'miniatures']
 
  ## Crush Apps – Handy apps for your iPhone and iPad.
- - [http://crushapps.com](http://crushapps.com)
+ - [https://crushapps.com](https://crushapps.com)
  - date_published: 2024-06-05T12:12:00+00:00
 
  ## CrushFTP - Enterprise Grade File Transfer for Everyone
@@ -3185,7 +3202,7 @@
  - date_published: 2024-03-02T00:00:00+00:00
 
  ## Live Poker Training Videos, Podcasts, and Articles
- - [http://www.crushlivepoker.com](http://www.crushlivepoker.com)
+ - [https://crushlivepoker.com](https://crushlivepoker.com)
  - date_published: 2024-02-13T00:00:00+00:00
 
  ## Crush Music
@@ -3193,7 +3210,7 @@
  - date_published: 2024-12-23T12:58:16.403641+00:00
 
  ## Crush Music
- - [http://www.crushmusic.com](http://www.crushmusic.com)
+ - [https://www.crushmusic.com](https://www.crushmusic.com)
  - date_published: 2024-07-01T14:18:21.381807+00:00
 
  ## Orange, Grape, Strawberry & More | Crush Soda
@@ -3201,7 +3218,7 @@
  - date_published: 2024-12-22T21:54:10.449399+00:00
 
  ## home
- - [https://www.crushyourmoneygoals.com](https://www.crushyourmoneygoals.com)
+ - [https://crushyourmoneygoals.com](https://crushyourmoneygoals.com)
  - date_published: 2024-06-19T23:06:29.812791+00:00
 
  ## Crusino Casino Australia Review 2024 - Exciting Online Gambling
@@ -3213,7 +3230,7 @@
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## Crusoe
- - [https://www.crusoeenergy.com](https://www.crusoeenergy.com)
+ - [https://crusoeenergy.com](https://crusoeenergy.com)
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## Crust / Punk / Hardcore with String Instruments
@@ -3225,7 +3242,7 @@
  - date_published: 2024-08-06T00:00:00+00:00
 
  ## Crutchfield: Car Stereo and Audio, Speakers, Home Theater, Pro Audio, TVs
- - [https://www.crutchfield.com](https://www.crutchfield.com)
+ - [https://crutchfield.com](https://crutchfield.com)
  - date_published: 2024-08-18T07:27:42.250724+00:00
 
  ## Crux | Taking the Catholic Pulse
@@ -3241,15 +3258,15 @@
  - date_published: 2024-12-20T01:33:30+00:00
 
  ## Chevrolet Cruze Forums
- - [https://www.cruzetalk.com](https://www.cruzetalk.com)
+ - [http://cruzetalk.com](http://cruzetalk.com)
  - date_published: 2024-06-29T17:58:19+00:00
 
  ## 96.3 Cruz FM
- - [https://www.cruzfm.com](https://www.cruzfm.com)
+ - [https://cruzfm.com](https://cruzfm.com)
  - date_published: 2024-06-27T12:52:50+00:00
 
  ## Cruz Foam - Sustainable Foam Packaging Solutions
- - [https://www.cruzfoam.com](https://www.cruzfoam.com)
+ - [https://cruzfoam.com](https://cruzfoam.com)
  - date_published: 2024-08-19T04:48:27.709699+00:00
 
  ## Jaime Alejandro Cruz
@@ -3257,19 +3274,19 @@
  - date_published: 2024-04-03T00:00:00+00:00
 
  ## 100.5 Cruz FM
- - [https://www.cruzradio.com](https://www.cruzradio.com)
+ - [https://cruzradio.com](https://cruzradio.com)
  - date_published: 2024-06-27T12:56:38+00:00
 
  ## Attention Required! | Cloudflare
- - [http://www.cruzyorkton.com](http://www.cruzyorkton.com)
+ - [https://cruzyorkton.com](https://cruzyorkton.com)
  - date_published: 2024-06-27T12:52:39.787249+00:00
 
  ## Charlotte Regional Visitors Authority | CRVA
- - [http://www.crva.com](http://www.crva.com)
+ - [https://crva.com](https://crva.com)
  - date_published: 2024-06-21T22:40:51.511932+00:00
 
  ## Submission Error
- - [https://www.crvppasettlement.com](https://www.crvppasettlement.com)
+ - [https://crvppasettlement.com](https://crvppasettlement.com)
  - date_published: 2024-03-02T19:55:36.180914+00:00
 
  ## CRW Flags Inc. Store in Glen Burnie, Maryland
@@ -3310,7 +3327,7 @@
  - date_published: 2024-05-08T07:02:57.977732+00:00
 
  ## Crye Precision
- - [http://www.cryeprecision.com](http://www.cryeprecision.com)
+ - [https://cryeprecision.com](https://cryeprecision.com)
  - date_published: 2024-08-06T18:14:14.349221+00:00
 
  ## PostHog
@@ -3338,7 +3355,7 @@
  - date_published: 2024-07-03T18:01:26.758117+00:00
 
  ## Cryogenic Control Systems, Inc. Home Page
- - [https://www.cryocon.com](https://www.cryocon.com)
+ - [https://cryocon.com](https://cryocon.com)
  - date_published: 2024-07-24T07:30:39.921172+00:00
 
  ## CRYOCO LLC
@@ -3346,24 +3363,24 @@
  - date_published: 2024-07-24T07:26:56.618312+00:00
 
  ## Home
- - [https://www.cryoedge.com](https://www.cryoedge.com)
+ - [https://cryoedge.com](https://cryoedge.com)
  - date_published: 2024-07-24T07:29:34.053600+00:00
 
  ## Cryogenic Equipment Solutions | Cryogenic Dewars | Cryogenic Tanks | Cryogenic Hose
- - [https://www.cryofab.com](https://www.cryofab.com)
+ - [https://cryofab.com](https://cryofab.com)
  - date_published: 2024-01-08T00:00:00+00:00
 
  ## Cry of Fear on Steam
- - [http://www.cry-of-fear.com](http://www.cry-of-fear.com)
+ - [https://cry-of-fear.com](https://cry-of-fear.com)
  - date_published: 2024-10-25T10:48:47.646139+00:00
  - tags: ['video game']
 
  ## Continuous monitoring of cryopreserved specimens, blood samples, Covid-19 vaccines, biologics, and premixed adhesives.
- - [https://www.cryoguard.com](https://www.cryoguard.com)
+ - [https://cryoguard.com](https://cryoguard.com)
  - date_published: 2024-07-24T00:00:00+00:00
 
  ## Superconducting Magnet Manufacturer - Cryomagnetics, inc.
- - [https://www.cryomagnetics.com](https://www.cryomagnetics.com)
+ - [https://cryomagnetics.com](https://cryomagnetics.com)
  - date_published: 2024-07-24T07:28:41.232488+00:00
 
  ## CryoNova
@@ -3391,31 +3408,31 @@
  - date_published: 2024-07-24T07:26:58.147972+00:00
 
  ## CryoTechnics Home
- - [https://www.cryotechnicsus.com](https://www.cryotechnicsus.com)
+ - [https://cryotechnicsus.com](https://cryotechnicsus.com)
  - date_published: 2024-07-24T07:28:07.566899+00:00
 
  ## Android News & All the Bytes - Mobile, Gadgets & Tech Reviews
- - [https://cryovex.com](https://cryovex.com)
+ - [http://cryovex.com](http://cryovex.com)
  - date_published: 2024-01-10T00:00:00+00:00
 
  ## Cyber Threat Intelligence and Detection
- - [http://www.cryptam.com](http://www.cryptam.com)
+ - [http://cryptam.com](http://cryptam.com)
  - date_published: 2023-06-17T13:19:56+00:00
 
  ## Cryptape
  - [https://cryptape.com](https://cryptape.com)
- - date_published: 2024-09-25T14:34:15.603591+00:00
+ - date_published: 2024-08-24T00:39:34+00:00
 
  ## Crypterium.com | Now we are Choise.com
  - [https://crypterium.com](https://crypterium.com)
  - date_published: 2024-03-20T12:21:57+00:00
 
  ## Cryptic Sea
- - [http://www.crypticsea.com](http://www.crypticsea.com)
+ - [https://crypticsea.com](https://crypticsea.com)
  - date_published: 2022-03-25T23:18:34+00:00
 
  ## Cryptic Singh Indian Crossword League
- - [https://www.crypticsingh.com](https://www.crypticsingh.com)
+ - [https://crypticsingh.com](https://crypticsingh.com)
  - date_published: 2024-07-04T16:43:01.569927+00:00
 
  ## The Comic Book Yeti Cryptid Creator Corner podcast
@@ -3425,6 +3442,7 @@
  ## Home
  - [https://cryptlib.com](https://cryptlib.com)
  - date_published: 2024-07-22T00:00:00+00:00
+ - date_dead_since: 2025-01-05T10:35:16.335994+00:00
 
  ## Product News | Crypto.com
  - [https://blog.crypto.com](https://blog.crypto.com)
@@ -3453,13 +3471,14 @@
  ## Crypto12
  - [https://trade.crypto12.com](https://trade.crypto12.com)
  - date_published: 2024-07-24T15:46:52+00:00
+ - date_dead_since: 2025-01-05T10:35:35.484488+00:00
 
  ## Crypto 306
  - [https://crypto306.com](https://crypto306.com)
  - date_published: 2024-09-23T17:03:21+00:00
 
  ## Crypto Banter Bitcoin & Crypto News Lives Broadcast
- - [https://www.cryptobanter.com](https://www.cryptobanter.com)
+ - [https://cryptobanter.com](https://cryptobanter.com)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## The Best Crypto Sports Betting Sites for 2025🎖️
@@ -3467,7 +3486,7 @@
  - date_published: 2025-01-02T19:44:18.211932+00:00
 
  ## Crypto Breaking News | Latest Crypto & Bitcoin News
- - [https://www.cryptobreaking.com](https://www.cryptobreaking.com)
+ - [https://cryptobreaking.com](https://cryptobreaking.com)
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## Crypto Briefing
@@ -3485,6 +3504,7 @@
  ## Home
  - [http://www.cryptocanucks.com](http://www.cryptocanucks.com)
  - date_published: 2024-08-19T00:00:00+00:00
+ - date_dead_since: 2025-01-05T10:36:06.663976+00:00
 
  ## 9 Best Crypto & Bitcoin Casinos in 2024
  - [https://cryptocasinos.com](https://cryptocasinos.com)
@@ -3559,7 +3579,7 @@
  - date_published: 2021-03-13T09:11:24+00:00
 
  ## CryptoCurrency News Service - CryptoCurrencyWire
- - [https://www.cryptocurrencywire.com](https://www.cryptocurrencywire.com)
+ - [https://cryptocurrencywire.com](https://cryptocurrencywire.com)
  - date_published: 2024-09-24T21:30:42.555350+00:00
 
  ## Crypto Data Space | Cryptocurrency News & Analysis
@@ -3567,7 +3587,7 @@
  - date_published: 2022-09-21T08:05:50+00:00
 
  ## Cryptoducation  is  L3arn.BTC – Education & Consulting Services about Bitcoin
- - [http://cryptoducation.com](http://cryptoducation.com)
+ - [https://cryptoducation.com](https://cryptoducation.com)
  - date_published: 2024-06-16T04:16:40.318901+00:00
 
  ## Leading Cryptocurrency and Bitcoin Exchange | Crypto Exchange
@@ -3591,7 +3611,7 @@
  - date_published: 2024-09-24T20:46:14.362291+00:00
 
  ## Home
- - [https://www.crypto-finance.com](https://www.crypto-finance.com)
+ - [https://crypto-finance.com](https://crypto-finance.com)
  - date_published: 2024-08-14T00:00:00+00:00
 
  ## Crypto Fireside
@@ -3611,7 +3631,7 @@
  - date_published: 2024-05-29T00:00:00+00:00
 
  ## Crypto for Grandparents: Cryptocurrency Simplified | Crypto for Grandparents
- - [https://www.cryptoforgrandparents.com](https://www.cryptoforgrandparents.com)
+ - [https://cryptoforgrandparents.com](https://cryptoforgrandparents.com)
  - date_published: 2024-07-20T00:17:48+00:00
 
  ## Homepage
@@ -3619,15 +3639,15 @@
  - date_published: 2024-01-09T02:33:13.686398+00:00
 
  ## Bitcoin, Ethereum and Blockchain News
- - [https://www.cryptoglobe.com](https://www.cryptoglobe.com)
+ - [https://cryptoglobe.com](https://cryptoglobe.com)
  - date_published: 2024-06-16T00:00:00+00:00
 
  ## cryptogon.com
- - [https://www.cryptogon.com](https://www.cryptogon.com)
+ - [https://cryptogon.com](https://cryptogon.com)
  - date_published: 2024-09-13T17:36:36.099309+00:00
 
  ## ©ryptogram
- - [http://www.cryptogram.com](http://www.cryptogram.com)
+ - [https://cryptogram.com](https://cryptogram.com)
  - date_published: 2023-02-22T02:11:01+00:00
 
  ## A Few Thoughts on Cryptographic Engineering – Some random thoughts about crypto. Notes from a course I teach. Pictures of my dachshunds.
@@ -3640,12 +3660,16 @@
  - tags: ['cryptography']
 
  ## Cryptohedonology
- - [http://www.cryptohedonology.com](http://www.cryptohedonology.com)
+ - [https://cryptohedonology.com](https://cryptohedonology.com)
  - date_published: 2024-10-19T07:44:45.001475+00:00
 
  ## Cryptohopper
- - [http://cdn.cryptohopper.com](http://cdn.cryptohopper.com)
+ - [https://cdn.cryptohopper.com](https://cdn.cryptohopper.com)
  - date_published: 2017-10-23T08:56:40+00:00
+
+ ## The Most Powerful Crypto Trading Bot
+ - [https://cryptohopper.com](https://cryptohopper.com)
+ - date_published: 2024-05-04T07:58:57.051586+00:00
 
  ## Cryptohopper Documentation
  - [https://docs.cryptohopper.com](https://docs.cryptohopper.com)
@@ -3653,15 +3677,11 @@
 
  ## Status - Cryptohopper
  - [https://status.cryptohopper.com](https://status.cryptohopper.com)
- - date_published: 2024-06-20T05:08:57.122408+00:00
+ - date_published: 2024-04-02T09:13:18+00:00
 
  ## Cryptohopper Help Center
  - [https://support.cryptohopper.com](https://support.cryptohopper.com)
  - date_published: 2024-06-20T05:09:06.449350+00:00
-
- ## The Most Powerful Crypto Trading Bot
- - [https://www.cryptohopper.com](https://www.cryptohopper.com)
- - date_published: 2024-05-04T07:58:57.051586+00:00
 
  ## Cryptocurrency Jobs and Blockchain Jobs (524 new) Jul 2024 | Crypto Jobs List
  - [https://cryptojoblist.com](https://cryptojoblist.com)
@@ -3672,7 +3692,7 @@
  - date_published: 2024-01-23T00:00:00+00:00
 
  ## Home - Crypto Key Media | Web3 Gaming, NFTS, Metaverse, Stablecoins and AI
- - [http://www.cryptokeymedia.com](http://www.cryptokeymedia.com)
+ - [https://cryptokeymedia.com](https://cryptokeymedia.com)
  - date_published: 2021-01-29T16:11:39+00:00
 
  ## Crypto Law Hub - Top Crypto Lawyers & Blockchain Attorneys
@@ -3680,7 +3700,7 @@
  - date_published: 2024-04-16T03:26:16+00:00
 
  ## Crypto Lists Ltd - News, Coins, Blockchain Comparison, Brokers & Exchanges
- - [https://www.cryptolists.com](https://www.cryptolists.com)
+ - [https://cryptolists.com](https://cryptolists.com)
  - date_published: 1970-01-01T00:00:00+00:00
 
  ## Crypto Loko Casino | 505% Welcome Bonus, Official Website
@@ -3724,23 +3744,23 @@
  - date_published: 2024-05-13T00:00:00+00:00
 
  ## اخبار العملات الرقمية | آخر تطورات الكريبتو اليوم | Cryptonews.com
- - [https://ar.cryptonews.com](https://ar.cryptonews.com)
+ - [http://ar.cryptonews.com](http://ar.cryptonews.com)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## 加密货币新闻 | 今日最新加密货币消息 | Cryptonews.com
- - [https://cn.cryptonews.com](https://cn.cryptonews.com)
+ - [http://cn.cryptonews.com](http://cn.cryptonews.com)
  - date_published: 2024-06-21T12:33:08+00:00
 
  ## Crypto News: Bitcoin, Ethereum, Cryptocurrency News & NFT Updates
- - [https://cryptonews.com](https://cryptonews.com)
+ - [http://cryptonews.com](http://cryptonews.com)
  - date_published: 2024-05-04T14:26:14.002444+00:00
 
  ## Kryptowährungen News | Krypto News heute | Cryptonews.com
- - [https://de.cryptonews.com](https://de.cryptonews.com)
+ - [http://de.cryptonews.com](http://de.cryptonews.com)
  - date_published: 2024-06-21T13:44:02+00:00
 
  ## Kryptonyheder: Bitcoin, Ethereum: Kryptovalutanyheder & NFT opdateringer
- - [https://dk.cryptonews.com](https://dk.cryptonews.com)
+ - [http://dk.cryptonews.com](http://dk.cryptonews.com)
  - date_published: 2024-06-19T14:17:48+00:00
 
  ## Noticias de criptomonedas | Últimas noticias sobre criptomonedas hoy | Cryptonews.com
@@ -3752,43 +3772,43 @@
  - date_published: 2024-06-21T20:32:21+00:00
 
  ## Cryptonews Suomi - Kaikki kryptovaluutoista
- - [https://fi.cryptonews.com](https://fi.cryptonews.com)
+ - [http://fi.cryptonews.com](http://fi.cryptonews.com)
  - date_published: 2024-06-21T18:23:56+00:00
 
  ## Crypto News | Actu Crypto, Bitcoin, Web3 et Blockchain | fr.cryptonews.com
- - [https://fr.cryptonews.com](https://fr.cryptonews.com)
+ - [http://fr.cryptonews.com](http://fr.cryptonews.com)
  - date_published: 2024-06-21T18:02:13+00:00
 
  ## Cryptonews Indonesia (Berita Kripto Indonesia) | Aset Kripto (mata uang virtual) dan media Bitcoin
- - [https://id.cryptonews.com](https://id.cryptonews.com)
+ - [http://id.cryptonews.com](http://id.cryptonews.com)
  - date_published: 2024-06-21T13:50:34+00:00
 
  ## Notizie sulle Criptovalute | Aggiornamenti giornalieri sul mondo delle Crypto
- - [https://it.cryptonews.com](https://it.cryptonews.com)
+ - [http://it.cryptonews.com](http://it.cryptonews.com)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## CryptoNews Japan（クリプトニュース・ジャパン）｜暗号資産（仮想通貨）とビットコインのWeb3ニュースメディア
- - [https://jp.cryptonews.com](https://jp.cryptonews.com)
+ - [http://jp.cryptonews.com](http://jp.cryptonews.com)
  - date_published: 2024-06-21T22:28:37+00:00
 
  ## 크립토 뉴스: 가장 빠른 크립토 & NFT & 메타버스 소식
- - [https://kr.cryptonews.com](https://kr.cryptonews.com)
+ - [http://kr.cryptonews.com](http://kr.cryptonews.com)
  - date_published: 2024-06-21T20:35:40+00:00
 
  ## Crypto Nieuws | Laatste Crypto Nieuws vandaag | nl.cryptonews.com
- - [https://nl.cryptonews.com](https://nl.cryptonews.com)
+ - [http://nl.cryptonews.com](http://nl.cryptonews.com)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Kryptonyheter: Bitcoin, Ethereum, kryptovaluta-nyheter og NFT oppdateringer
- - [https://no.cryptonews.com](https://no.cryptonews.com)
+ - [http://no.cryptonews.com](http://no.cryptonews.com)
  - date_published: 2024-06-21T12:04:37+00:00
 
  ## CryptoNews Brasil | Notícias sobre criptomoedas | Cryptonews.com
- - [https://pt.cryptonews.com](https://pt.cryptonews.com)
+ - [http://pt.cryptonews.com](http://pt.cryptonews.com)
  - date_published: 2024-06-21T20:48:00+00:00
 
  ## CN3
- - [https://rapi.cryptonews.com](https://rapi.cryptonews.com)
+ - [http://rapi.cryptonews.com](http://rapi.cryptonews.com)
  - date_published: 2024-06-21T23:11:36.647595+00:00
 
  ## CryptoNews: Последние Новости Криптовалют, Прогнозы и Анализ Рынка
@@ -3800,15 +3820,15 @@
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Crypto News: Bitcoin, Ethereum, ข่าวคริปโต และอัปเดต NFT ใหม่ๆ
- - [https://th.cryptonews.com](https://th.cryptonews.com)
+ - [http://th.cryptonews.com](http://th.cryptonews.com)
  - date_published: 2024-06-21T15:49:07+00:00
 
  ## Kripto Para Haberleri | Günlük En Son Kripto Haberleri | Cryptonews.com
- - [https://tr.cryptonews.com](https://tr.cryptonews.com)
+ - [http://tr.cryptonews.com](http://tr.cryptonews.com)
  - date_published: 2024-02-05T00:00:00+00:00
 
  ## Tin tức crypto: Bitcoin, Ethereum, Tiền điện tử khác & Cập nhật NFT
- - [https://vn.cryptonews.com](https://vn.cryptonews.com)
+ - [http://vn.cryptonews.com](http://vn.cryptonews.com)
  - date_published: 2024-06-21T08:49:25+00:00
 
  ## Home page
@@ -3820,7 +3840,7 @@
  - date_published: 2024-09-24T21:38:26.879474+00:00
 
  ## CryptoNewsZ: Bitcoin, Altcoins, Crypto News & Updates
- - [http://cryptonewsz.com](http://cryptonewsz.com)
+ - [https://cryptonewsz.com](https://cryptonewsz.com)
  - date_published: 2024-05-16T00:00:00+00:00
 
  ## Home - Cryptonite Capital
@@ -3828,7 +3848,7 @@
  - date_published: 2022-09-20T15:49:53+00:00
 
  ## Crypto Oceans – All the latest cryptocurrency news & discussion forums
- - [https://www.cryptooceans.com](https://www.cryptooceans.com)
+ - [https://cryptooceans.com](https://cryptooceans.com)
  - date_published: 2024-08-06T00:00:00+00:00
 
  ## The Cryptopals Crypto Challenges
@@ -3844,7 +3864,7 @@
  - date_published: 2024-02-11T00:00:00+00:00
 
  ## Cryptocurrency News | Cryptopolitan
- - [https://cryptopolitan.com](https://cryptopolitan.com)
+ - [http://cryptopolitan.com](http://cryptopolitan.com)
  - date_published: 2024-03-05T00:00:00+00:00
 
  ## CryptoPotato
@@ -3854,18 +3874,20 @@
  ## Crypto++ Library 8.9 | Free C++ Class Library of Cryptographic Schemes
  - [http://www.cryptopp.com](http://www.cryptopp.com)
  - date_published: 2023-10-08T13:40:45+00:00
+ - date_dead_since: 2025-01-05T11:08:27.501989+00:00
 
  ## Cryptocurrency Payment Gateway & Processor - CryptoProcessing.com
  - [https://en.cryptoprocessing.com](https://en.cryptoprocessing.com)
  - date_published: 2023-03-29T08:35:25+00:00
 
  ## Crypto Reporter
- - [https://www.crypto-reporter.com](https://www.crypto-reporter.com)
+ - [https://crypto-reporter.com](https://crypto-reporter.com)
  - date_published: 2024-06-16T04:14:10.984790+00:00
 
  ## Cryptorobin.com - THE Place for Crypto News
  - [https://cryptorobin.com](https://cryptorobin.com)
  - date_published: 2024-09-24T11:14:16+00:00
+ - date_dead_since: 2025-01-05T11:09:50.326269+00:00
 
  ## CryptoRunner – The leading cryptocurrency comparison service
  - [https://cryptorunner.com](https://cryptorunner.com)
@@ -3928,15 +3950,15 @@
  - date_published: 2024-12-16T13:03:01.640435+00:00
 
  ## International Cryptozoology Museum - 32 Resurgam Place, Thompson's Point, Portland, Maine
- - [http://www.cryptozoologymuseum.com](http://www.cryptozoologymuseum.com)
+ - [https://cryptozoologymuseum.com](https://cryptozoologymuseum.com)
  - date_published: 2020-09-24T14:51:15+00:00
 
  ## CryptoZooNews: Posts by Loren Coleman
- - [http://www.cryptozoonews.com](http://www.cryptozoonews.com)
+ - [http://cryptozoonews.com](http://cryptozoonews.com)
  - date_published: 2024-08-06T15:28:00.960250+00:00
 
  ## Cryptsoft
- - [http://cryptsoft.com](http://cryptsoft.com)
+ - [https://cryptsoft.com](https://cryptsoft.com)
  - date_published: 2024-08-14T08:59:56+00:00
 
  ## Cryptwerk
@@ -3949,15 +3971,15 @@
  - tags: ['video game']
 
  ## artwork and curiosities by crystala armagost, printmaker and painter
- - [http://crystalaart.com](http://crystalaart.com)
+ - [https://crystalaart.com](https://crystalaart.com)
  - date_published: 2021-08-11T19:37:47+00:00
 
  ## Live Events & Concerts Near Boston | The Crystal Ballroom
- - [https://www.crystalballroomboston.com](https://www.crystalballroomboston.com)
+ - [https://crystalballroomboston.com](https://crystalballroomboston.com)
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## Crystal Bennes | Artist, Writer, Researcher
- - [https://www.crystalbennes.com](https://www.crystalbennes.com)
+ - [https://crystalbennes.com](https://crystalbennes.com)
  - date_published: 2024-05-06T20:00:10.891811+00:00
 
  ## Grand Adventures Comics & Games
@@ -3978,7 +4000,7 @@
  - tags: ['soul reaver', 'tomb raider', 'legacy of kain', 'video game developer']
 
  ## Crystal Dynamics – Crystal Dynamics Corporate Site
- - [https://www.crystaldynamics.com](https://www.crystaldynamics.com)
+ - [https://crystaldynamics.com](https://crystaldynamics.com)
  - date_published: 2024-06-20T11:40:45.102430+00:00
 
  ## Home
@@ -3990,21 +4012,25 @@
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Steven Universe PSA
- - [https://www.crystalgemsspeakup.com](https://www.crystalgemsspeakup.com)
+ - [https://crystalgemsspeakup.com](https://crystalgemsspeakup.com)
  - date_published: 2021-04-12T16:03:22+00:00
+
+ ## Singapore Chinese Restaurant
+ - [https://crystaljade.com](https://crystaljade.com)
+ - date_published: 2024-05-06T13:20:06.340483+00:00
 
  ## Crystal Jade
  - [https://kh.crystaljade.com](https://kh.crystaljade.com)
  - date_published: 2024-06-23T02:15:30.614741+00:00
 
- ## Singapore Chinese Restaurant
- - [https://www.crystaljade.com](https://www.crystaljade.com)
- - date_published: 2024-05-06T13:20:06.340483+00:00
-
  ## Crystal Lee (she/她)
  - [https://crystaljjlee.com](https://crystaljjlee.com)
  - date_published: 2024-01-06T09:05:11.908675+00:00
  - tags: ['personal']
+
+ ## Crystal | The Personality Data Platform - DISC Personality Profiles for Any Buyer
+ - [https://crystalknows.com](https://crystalknows.com)
+ - date_published: 2024-06-19T19:10:29.268731+00:00
 
  ## Crystal Developer API
  - [https://developers.crystalknows.com](https://developers.crystalknows.com)
@@ -4014,27 +4040,7 @@
  - [https://docs.crystalknows.com](https://docs.crystalknows.com)
  - date_published: 2024-10-25T08:11:52+00:00
 
- ## Crystal | The Personality Data Platform - DISC Personality Profiles for Any Buyer
- - [https://www.crystalknows.com](https://www.crystalknows.com)
- - date_published: 2024-06-19T19:10:29.268731+00:00
-
  ## Transform any location into an idyllic beach paradise
- - [https://www.crystal-lagoons.com](https://www.crystal-lagoons.com)
+ - [https://crystal-lagoons.com](https://crystal-lagoons.com)
  - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home - Crystal Lake Entertainment
- - [http://www.crystallakepub.com](http://www.crystallakepub.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Headless eCommerce | PIM | GraphQL API | Subscription eCommerce | Crystallize
- - [https://crystallize.com](https://crystallize.com)
- - date_published: 2024-08-06T21:12:29.193284+00:00
-
- ## Crystallized Skins
- - [http://crystallizedskins.com](http://crystallizedskins.com)
- - date_published: 2021-04-13T10:33:17+00:00
-
- ## Crystal Lotus Chronicles – Demons, faeries, and humans clash following the deaths of millions at the hands of a man-made epidemic.
- - [https://www.crystallotuschronicles.com](https://www.crystallotuschronicles.com)
- - date_published: 2024-07-17T08:34:16.783289+00:00
 

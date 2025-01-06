@@ -1,3 +1,19 @@
+ ## Little Birdie Secrets
+ - [http://littlebirdiesecrets.blogspot.com](http://littlebirdiesecrets.blogspot.com)
+ - date_published: 2025-01-01T11:08:12+00:00
+
+ ## Blogger
+ - [http://littlebitintexas.blogspot.com](http://littlebitintexas.blogspot.com)
+ - date_published: 2024-12-19T10:04:14.768066+00:00
+
+ ## Little Blog In The Big Woods
+ - [https://littlebloginthebigwoods.blogspot.com](https://littlebloginthebigwoods.blogspot.com)
+ - date_published: 2024-06-26T07:40:32+00:00
+
+ ## Blogger
+ - [http://littlecountrylost.blogspot.com](http://littlecountrylost.blogspot.com)
+ - date_published: 2024-10-29T19:14:07.048275+00:00
+
  ## Little Devices That Could
  - [http://littledevicesthatcould.blogspot.com](http://littledevicesthatcould.blogspot.com)
  - date_published: 2024-05-11T13:33:31+00:00
@@ -3990,20 +4006,4 @@
  ## Lovin' Life
  - [http://mkhawks.blogspot.com](http://mkhawks.blogspot.com)
  - date_published: 2024-07-03T01:57:04+00:00
-
- ## The Maps and Geo Blog
- - [https://ml4711.blogspot.com](https://ml4711.blogspot.com)
- - date_published: 2024-07-11T14:26:04+00:00
-
- ## Marko Lalic
- - [http://mlalic.blogspot.com](http://mlalic.blogspot.com)
- - date_published: 2024-02-20T17:51:26+00:00
-
- ## Orange Crate Art
- - [https://mleddy.blogspot.com](https://mleddy.blogspot.com)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## My Little World Of Dementia
- - [http://mlwodementia.blogspot.com](http://mlwodementia.blogspot.com)
- - date_published: 2024-03-13T14:29:54+00:00
 

@@ -1,3 +1,95 @@
+ ## Attention Required! | Cloudflare
+ - [http://www.campaignfinance.in.gov](http://www.campaignfinance.in.gov)
+ - date_published: 2024-07-21T02:48:24.818283+00:00
+
+ ## Factsheets | About INL
+ - [https://factsheets.inl.gov](https://factsheets.inl.gov)
+ - date_published: 2024-08-18T06:49:23+00:00
+
+ ## Gateway for Accelerated Innovation in Nuclear
+ - [https://gain.inl.gov](https://gain.inl.gov)
+ - date_published: 2024-10-26T12:11:26+00:00
+
+ ## Home
+ - [https://inl.gov](https://inl.gov)
+ - date_published: 2024-10-26T13:08:29+00:00
+
+ ## RAVEN - Overview
+ - [https://raven.inl.gov](https://raven.inl.gov)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Home | InsureKidsNow.gov
+ - [https://www.insurekidsnow.gov](https://www.insurekidsnow.gov)
+ - date_published: 2024-07-11T16:07:03+00:00
+
+ ## INTEL - Home
+ - [https://www.intel.gov](https://www.intel.gov)
+ - date_published: 2024-06-16T13:06:02+00:00
+
+ ## INTEL - Home
+ - [https://intelligence.gov](https://intelligence.gov)
+ - date_published: 2024-04-22T15:42:05+00:00
+
+ ## Join the Intelligence Community
+ - [https://www.intelligencecareers.gov](https://www.intelligencecareers.gov)
+ - date_published: 2024-07-03T14:04:41.050529+00:00
+
+ ## Home | Internet for All
+ - [https://internetforall.gov](https://internetforall.gov)
+ - date_published: 2024-07-05T17:32:02+00:00
+
+ ## National Invasive Species Information Center (NISIC)
+ - [https://invasivespeciesinfo.gov](https://invasivespeciesinfo.gov)
+ - date_published: 2024-09-18T19:00:27+00:00
+
+ ## Home | Investor.gov
+ - [https://investor.gov](https://investor.gov)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Iowa State Patrol Crash Reports
+ - [https://accidentreports.iowa.gov](https://accidentreports.iowa.gov)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Welcome - State of Iowa Directory
+ - [https://directory.iowa.gov](https://directory.iowa.gov)
+ - date_published: 2024-06-20T16:18:12+00:00
+
+ ## Iowa Department of Public Safety
+ - [https://dps.iowa.gov](https://dps.iowa.gov)
+ - date_published: 2024-05-12T05:10:45.214183+00:00
+
+ ## Iowa Department of Education Homepage
+ - [https://educate.iowa.gov](https://educate.iowa.gov)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## List Elections
+ - [https://electionresults.iowa.gov](https://electionresults.iowa.gov)
+ - date_published: 2024-06-11T21:08:03+00:00
+
+ ## Elections 101 - Official Elections Education Curriculum
+ - [https://elections101.iowa.gov](https://elections101.iowa.gov)
+ - date_published: 2015-07-15T20:42:22+00:00
+
+ ## Fast Track Filing
+ - [https://filings.sos.iowa.gov](https://filings.sos.iowa.gov)
+ - date_published: 2024-07-15T02:57:12.155873+00:00
+
+ ## Welcome to the Governor of the State of Iowa
+ - [https://governor.iowa.gov](https://governor.iowa.gov)
+ - date_published: 2024-12-20T17:32:01+00:00
+
+ ## Home | Fast Track Filing Resource Center
+ - [https://help.sos.iowa.gov](https://help.sos.iowa.gov)
+ - date_published: 2024-07-05T14:24:35+00:00
+
+ ## Health and Human Services
+ - [https://hhs.iowa.gov](https://hhs.iowa.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Iowa Businesses Against Trafficking | Iowa Secretary of State
+ - [https://ibat.iowa.gov](https://ibat.iowa.gov)
+ - date_published: 2024-05-09T00:00:00+00:00
+
  ## Welcome
  - [http://iowa.gov](http://iowa.gov)
  - date_published: 2024-05-28T00:00:00+00:00
@@ -3928,96 +4020,4 @@
  ## নিউ ইয়র্ক স্টেটের অফিসিয়াল ওয়েবসাইট
  - [https://bn.ny.gov](https://bn.ny.gov)
  - date_published: 2024-07-14T04:44:59.003515+00:00
-
- ## অস্থায়ী এবং প্রতিবন্ধী সহায়তা অফিস
- - [https://bn.otda.ny.gov](https://bn.otda.ny.gov)
- - date_published: 2024-10-28T00:28:15.522191+00:00
-
- ## NYS DCSS | New York Child Support
- - [https://childsupport.ny.gov](https://childsupport.ny.gov)
- - date_published: 2024-10-28T00:27:43.485471+00:00
-
- ## NYS Clean Heat
- - [https://cleanheat.ny.gov](https://cleanheat.ny.gov)
- - date_published: 2024-07-04T13:01:21.484475+00:00
-
- ## New York's Climate Leadership & Community Protection Act - New York's Climate Leadership & Community Protection Act
- - [https://climate.ny.gov](https://climate.ny.gov)
- - date_published: 2024-07-04T13:01:29.002283+00:00
-
- ## COVID-19
- - [https://coronavirus.health.ny.gov](https://coronavirus.health.ny.gov)
- - date_published: 2024-05-06T20:40:30.862940+00:00
-
- ## Sign in - Google Accounts
- - [https://covid19tracker.health.ny.gov](https://covid19tracker.health.ny.gov)
- - date_published: 2024-05-07T14:01:57.032934+00:00
-
- ## COVID-19
- - [https://covid19vaccine.health.ny.gov](https://covid19vaccine.health.ny.gov)
- - date_published: 2024-06-21T20:54:34+00:00
-
- ## State of New York | Open Data | State of New York
- - [https://data.ny.gov](https://data.ny.gov)
- - date_published: 2024-05-06T20:35:09.294406+00:00
-
- ## Home
- - [https://dec.ny.gov](https://dec.ny.gov)
- - date_published: 2024-05-11T09:25:27.207623+00:00
-
- ## New York DMV
- - [https://dmv.ny.gov](https://dmv.ny.gov)
- - date_published: 2024-06-26T12:57:21+00:00
-
- ## Department of Labor Home Page
- - [https://dol.ny.gov](https://dol.ny.gov)
- - date_published: 2024-07-02T17:30:25+00:00
-
- ## Register to Become an Organ and Tissue Donor Today
- - [https://donatelife.ny.gov](https://donatelife.ny.gov)
- - date_published: 2024-09-18T04:22:00.478474+00:00
-
- ## Department of State
- - [https://dos.ny.gov](https://dos.ny.gov)
- - date_published: 2024-08-02T19:38:24+00:00
-
- ## Cierpliwości...
- - [https://elections.ny.gov](https://elections.ny.gov)
- - date_published: 2024-06-20T11:43:04.162706+00:00
-
- ## Success
- - [https://encryption.ny.gov](https://encryption.ny.gov)
- - date_published: 2024-05-11T09:25:31.152395+00:00
-
- ## Homepage | NY Energy Advisor
- - [https://energyadvisor.ny.gov](https://energyadvisor.ny.gov)
- - date_published: 2024-07-04T12:52:25+00:00
-
- ## New York State New Energy Plan - New York State New Energy Plan
- - [https://energyplan.ny.gov](https://energyplan.ny.gov)
- - date_published: 2024-07-04T13:01:20.121278+00:00
-
- ## Agricultura y Mercados
- - [https://es.agriculture.ny.gov](https://es.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:08.210398+00:00
-
- ## COVID-19
- - [https://es.coronavirus.health.ny.gov](https://es.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:18.821934+00:00
-
- ## Casa
- - [https://es.dec.ny.gov](https://es.dec.ny.gov)
- - date_published: 2024-07-14T04:45:31.702114+00:00
-
- ## ESD Homepage | Empire State Development
- - [https://esd.ny.gov](https://esd.ny.gov)
- - date_published: 2024-07-22T03:38:07+00:00
-
- ## El sitio web oficial de la Gobernadora Kathy Hochul
- - [https://es.governor.ny.gov](https://es.governor.ny.gov)
- - date_published: 2024-08-06T07:09:58.859544+00:00
-
- ## El sitio web oficial del estado de Nueva York
- - [https://es.ny.gov](https://es.ny.gov)
- - date_published: 2024-07-14T04:45:01.902540+00:00
 

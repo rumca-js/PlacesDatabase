@@ -1,3 +1,11 @@
+ ## iROZHLAS
+ - [https://irozhl.as](https://irozhl.as)
+ - date_published: 2024-07-17T07:16:59.707178+00:00
+
+ ## Jeremias Pettinen
+ - [https://jeremi.as](https://jeremi.as)
+ - date_published: 2023-02-04T10:36:06+00:00
+
  ## Josias Marti
  - [https://josi.as](https://josi.as)
  - date_published: 2024-07-13T04:25:48.072040+00:00
@@ -4011,12 +4019,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## ooe.ORF.at
  - [https://ooe.orf.at](https://ooe.orf.at)
  - date_published: 2024-10-22T11:27:53.195624+00:00
-
- ## news.ORF.at
- - [https://orf.at](https://orf.at)
- - date_published: 2024-06-18T15:37:35.277210+00:00
-
- ## ORF Sound
- - [https://podcast.orf.at](https://podcast.orf.at)
- - date_published: 2024-06-17T14:13:20+00:00
 

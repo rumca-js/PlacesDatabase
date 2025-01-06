@@ -1,3 +1,95 @@
+ ## Happyfolks - Accounts
+ - [https://accounts.happyfolks.io](https://accounts.happyfolks.io)
+ - date_published: 2024-07-13T01:59:12+00:00
+
+ ## Happyfolks
+ - [https://blog.happyfolks.io](https://blog.happyfolks.io)
+ - date_published: 2024-07-19T00:00:49.980362+00:00
+
+ ## Happyfolks - Unified HRMS & People Platform
+ - [https://happyfolks.io](https://happyfolks.io)
+ - date_published: 2024-05-15T02:50:32.334034+00:00
+
+ ## Happy Marmots
+ - [https://happymarmots.io](https://happymarmots.io)
+ - date_published: 2024-09-24T11:21:22.573550+00:00
+
+ ## Software Solutions & Staff Augmentation - Happy Team
+ - [https://happyteam.io](https://happyteam.io)
+ - date_published: 2024-06-17T10:26:25+00:00
+
+ ## hardwear.io | Hardware Security Conference & Training | Netherlands, Germany & USA
+ - [https://hardwear.io](https://hardwear.io)
+ - date_published: 2023-10-25T19:56:22.144827+00:00
+
+ ## Media Center | hardwear.io - Secure your Hardware
+ - [https://media.hardwear.io](https://media.hardwear.io)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Hardwire.io is the IoT ecosystem that helps you to transform your products into Smart Objects
+ - [http://www.hardwire.io](http://www.hardwire.io)
+ - date_published: 2024-09-05T18:19:51.815395+00:00
+
+ ## The Programming Delusion
+ - [https://blog.hargrave.io](https://blog.hargrave.io)
+ - date_published: 2024-03-08T21:25:59+00:00
+
+ ## Harness API docs
+ - [https://apidocs.harness.io](https://apidocs.harness.io)
+ - date_published: 2024-06-12T10:29:24+00:00
+
+ ## Harness
+ - [https://app.harness.io](https://app.harness.io)
+ - date_published: 2024-09-05T19:01:38.977858+00:00
+
+ ## Harness
+ - [https://assessment.harness.io](https://assessment.harness.io)
+ - date_published: 2024-09-05T19:01:42.046670+00:00
+
+ ## Welcome to your Strapi app
+ - [https://cms.harness.io](https://cms.harness.io)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Harness Community | Harness Developer Hub
+ - [https://community.harness.io](https://community.harness.io)
+ - date_published: 2024-09-05T19:01:29.886634+00:00
+
+ ## Harness Developer Hub
+ - [https://developer.harness.io](https://developer.harness.io)
+ - date_published: 2024-06-14T15:00:34.522973+00:00
+
+ ## Harness | The Modern Software Delivery Platform - CI, CD, Feature Flags, Cloud Costs & more
+ - [https://harness.io](https://harness.io)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## harness - The Modern Software Delivery Platform® Feedback
+ - [https://ideas.harness.io](https://ideas.harness.io)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Privacy Request Center | DataGrail
+ - [https://preferences.harness.io](https://preferences.harness.io)
+ - date_published: 2024-06-10T12:25:38.837468+00:00
+
+ ## Harness University Registration
+ - [https://university-registration.harness.io](https://university-registration.harness.io)
+ - date_published: 2024-09-14T22:19:15.341043+00:00
+
+ ## HarperDB | Enterprise Application Platform
+ - [https://harperdb.io](https://harperdb.io)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Harpie: The On-Chain Firewall
+ - [https://harpie.io](https://harpie.io)
+ - date_published: 2024-06-16T04:45:33.086410+00:00
+
+ ## Haruko | Home
+ - [https://haruko.io](https://haruko.io)
+ - date_published: 2024-10-27T15:38:25+00:00
+
+ ## Harvester - Open-source hyperconverged infrastructure
+ - [https://harvesterhci.io](https://harvesterhci.io)
+ - date_published: 2024-06-13T15:02:33+00:00
+
  ## NFT Marketplace
  - [https://hascoin.io](https://hascoin.io)
  - date_published: 2024-08-11T16:50:06.287857+00:00
@@ -3939,97 +4031,4 @@
  ## KORTHO
  - [https://www.kortho.io](https://www.kortho.io)
  - date_published: 2022-09-21T02:41:43+00:00
-
- ## Kosmi - Online Hangouts Made Easy
- - [https://app.kosmi.io](https://app.kosmi.io)
- - date_published: 2024-06-07T12:11:44+00:00
-
- ## Kosmi - Online Hangouts Made Easy
- - [https://kosmi.io](https://kosmi.io)
- - date_published: 2023-09-19T16:39:50+00:00
-
- ## Kotest | Kotest
- - [https://kotest.io](https://kotest.io)
- - date_published: 2024-07-23T22:48:45.308240+00:00
-
- ## Kots.io
- - [https://kots.io](https://kots.io)
- - date_published: 2022-03-08T00:00:00+00:00
-
- ## Blog - Koin - Cloud-Inject.io
- - [https://blog.kotzilla.io](https://blog.kotzilla.io)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Kotzilla
- - [https://kotzilla.io](https://kotzilla.io)
- - date_published: 2024-06-29T05:35:19.097903+00:00
- - tags: ['kotlin', 'programming framework']
-
- ## Kour.io | FPS Game
- - [https://kour.io](https://kour.io)
- - date_published: 2024-06-20T17:25:57.291305+00:00
-
- ## Learn Go with Max | Golang Courses and Tutorials
- - [https://kovalevsky.io](https://kovalevsky.io)
- - date_published: 2024-08-03T14:42:31.050403+00:00
-
- ## GetData.IO - Get AI training data from the Web
- - [http://krake.io](http://krake.io)
- - date_published: 2024-09-04T10:52:25.426714+00:00
-
- ## KrakenDesigner - KrakenD configuration editor
- - [https://designer.krakend.io](https://designer.krakend.io)
- - date_published: 2024-05-14T04:04:59.761506+00:00
-
- ## High-performance Open Source API Gateway | KrakenD
- - [https://krakend.io](https://krakend.io)
- - date_published: 2024-04-08T19:31:42.298972+00:00
-
- ## KrakenD Certification
- - [https://training.krakend.io](https://training.krakend.io)
- - date_published: 2024-05-14T04:05:02.668263+00:00
-
- ## Docs Introduction | Kratix
- - [https://docs.kratix.io](https://docs.kratix.io)
- - date_published: 2024-07-02T15:58:18+00:00
-
- ## Kratix | The Open-source Platform Engineering Framework
- - [http://kratix.io](http://kratix.io)
- - date_published: 2024-07-04T11:59:52.103750+00:00
-
- ## cody krieger
- - [https://krieger.io](https://krieger.io)
- - date_published: 2020-08-24T00:00:00+00:00
-
- ## Kriptomat Help
- - [https://help.kriptomat.io](https://help.kriptomat.io)
- - date_published: 2024-09-23T12:51:08.152431+00:00
-
- ## Kriptomat – Buy, Trade, and Invest in Crypto
- - [https://kriptomat.io](https://kriptomat.io)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## kriptomat.io | status
- - [https://status.kriptomat.io](https://status.kriptomat.io)
- - date_published: 2024-09-23T12:52:33.093668+00:00
-
- ## Krishna Acondy | Lead Full-stack Software Engineer
- - [https://krishna-acondy.io](https://krishna-acondy.io)
- - date_published: 2023-08-21T19:41:00+00:00
-
- ## Kritique Whitelabel
- - [https://widget.kritique.io](https://widget.kritique.io)
- - date_published: 2024-09-30T05:40:24+00:00
-
- ## Kroki!
- - [https://kroki.io](https://kroki.io)
- - date_published: 2024-02-11T11:02:44+00:00
-
- ## blog.kroy.io – computers, tech, and whatever other random stuff crosses my mind.
- - [https://blog.kroy.io](https://blog.kroy.io)
- - date_published: 2021-08-11T16:09:56+00:00
-
- ## Krunch
- - [http://krunchdata.io](http://krunchdata.io)
- - date_published: 2024-09-04T03:58:16.305049+00:00
 

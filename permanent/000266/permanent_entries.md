@@ -1,3 +1,79 @@
+ ## word histories
+ - [https://wordhistories.wordpress.com](https://wordhistories.wordpress.com)
+ - date_published: 2024-08-17T23:14:08+00:00
+
+ ## Making All Things New
+ - [https://wordincarnate.wordpress.com](https://wordincarnate.wordpress.com)
+ - date_published: 2025-01-01T04:41:07.447076+00:00
+
+ ## WordPress, Your Way
+ - [https://wordpress.com](https://wordpress.com)
+ - date_published: 2023-10-25T08:33:01.720475+00:00
+
+ ## Words and Herbs
+ - [https://wordsandherbs.wordpress.com](https://wordsandherbs.wordpress.com)
+ - date_published: 2024-12-31T15:36:06.003115+00:00
+
+ ## words and music and stories
+ - [https://wordsmusicandstories.wordpress.com](https://wordsmusicandstories.wordpress.com)
+ - date_published: 2024-06-20T12:04:54.054303+00:00
+
+ ## Words Of Little Relevance
+ - [http://wordsoflittlerelevance.wordpress.com](http://wordsoflittlerelevance.wordpress.com)
+ - date_published: 2024-07-04T05:37:17.605113+00:00
+
+ ## wordsofmercury
+ - [http://wordsofmercury.wordpress.com](http://wordsofmercury.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Words of Reclamation
+ - [https://wordsofreclamation.wordpress.com](https://wordsofreclamation.wordpress.com)
+ - date_published: 2024-07-20T11:36:37.093831+00:00
+
+ ## Words that sing
+ - [http://wordsthatsing.wordpress.com](http://wordsthatsing.wordpress.com)
+ - date_published: 2024-12-31T17:20:24.612897+00:00
+
+ ## Workbench Warrior's Blog
+ - [http://workbenchwarriorsblog.wordpress.com](http://workbenchwarriorsblog.wordpress.com)
+ - date_published: 2024-12-14T17:44:25.400207+00:00
+
+ ## workhuman
+ - [https://workhuman.wordpress.com](https://workhuman.wordpress.com)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Murmuration
+ - [https://workmusing.wordpress.com](https://workmusing.wordpress.com)
+ - date_published: 2024-10-21T11:57:20.345461+00:00
+
+ ## World of Paleoanthropology
+ - [https://worldofpaleoanthropologyhome.wordpress.com](https://worldofpaleoanthropologyhome.wordpress.com)
+ - date_published: 2024-08-18T17:30:19.502064+00:00
+
+ ## worldphoto12
+ - [http://worldphoto12.wordpress.com](http://worldphoto12.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## The World SF Blog
+ - [https://worldsf.wordpress.com](https://worldsf.wordpress.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## The Books of the World Spectrum
+ - [http://worldspectrum.wordpress.com](http://worldspectrum.wordpress.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## P e d r o L
+ - [http://worldwidepedrol.wordpress.com](http://worldwidepedrol.wordpress.com)
+ - date_published: 2024-09-17T17:43:56.692810+00:00
+
+ ## Some Worrisome Memes...
+ - [https://worrisomememes.wordpress.com](https://worrisomememes.wordpress.com)
+ - date_published: 2024-10-21T11:55:07.538300+00:00
+
+ ## War of the Burning Sky Adventure Path
+ - [https://wotbsadventurepath.wordpress.com](https://wotbsadventurepath.wordpress.com)
+ - date_published: 2024-07-10T02:04:24+00:00
+
  ## Wott's Up With That?
  - [https://wotsupwiththat.wordpress.com](https://wotsupwiththat.wordpress.com)
  - date_published: 2024-06-30T02:41:18.730066+00:00
@@ -3957,81 +4033,4 @@
  ## Palmetto Conservation Foundation
  - [https://palmettocoprod.wpengine.com](https://palmettocoprod.wpengine.com)
  - date_published: 2024-06-17T11:43:02.485238+00:00
-
- ## The Church Law Firm
- - [https://patelaw.wpengine.com](https://patelaw.wpengine.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Your Path to Good Bone Health
- - [https://patientpathway.wpengine.com](https://patientpathway.wpengine.com)
- - date_published: 2024-10-15T06:18:32.284799+00:00
-
- ## Pendo.io - Product Experience and Digital Adoption Solutions
- - [https://pendoiostg.wpengine.com](https://pendoiostg.wpengine.com)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Homepage - Picturing Black History
- - [https://picturing.wpengine.com](https://picturing.wpengine.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Politics.co.uk
- - [https://politicscouk.wpengine.com](https://politicscouk.wpengine.com)
- - date_published: 2024-05-11T11:16:52.211408+00:00
-
- ## Corporate PR Newsroom Tools - Digital Newsroom Software - Presspage
- - [https://presspage1.wpengine.com](https://presspage1.wpengine.com)
- - date_published: 2024-07-12T19:18:36.443028+00:00
-
- ## Priceonomics - In Data We Trust
- - [https://priceonomics.wpengine.com](https://priceonomics.wpengine.com)
- - date_published: 2024-05-09T05:08:53.736725+00:00
-
- ## BlaBlaCar
- - [https://prod8bbl8cz.wpengine.com](https://prod8bbl8cz.wpengine.com)
- - date_published: 2024-12-13T22:25:38.869914+00:00
-
- ## BlaBlaCar
- - [https://prod8bbl8fr.wpengine.com](https://prod8bbl8fr.wpengine.com)
- - date_published: 2024-09-15T19:54:15.995667+00:00
-
- ## BlaBlaCar
- - [https://prod8bbl8in.wpengine.com](https://prod8bbl8in.wpengine.com)
- - date_published: 2024-12-25T09:05:53.776902+00:00
-
- ## BlaBlaCar
- - [https://prod8bbl8ua.wpengine.com](https://prod8bbl8ua.wpengine.com)
- - date_published: 2024-09-15T19:53:10.257782+00:00
-
- ## Oxford Languages | The Home of Language Data
- - [https://prododcorp.wpengine.com](https://prododcorp.wpengine.com)
- - date_published: 2024-05-10T05:56:42.721999+00:00
-
- ## Product Management Software | Productboard
- - [https://productboard1.wpengine.com](https://productboard1.wpengine.com)
- - date_published: 2023-11-01T10:18:51+00:00
-
- ## Homepage
- - [https://propsperopsstg.wpengine.com](https://propsperopsstg.wpengine.com)
- - date_published: 2024-04-02T00:00:00+00:00
- - date_dead_since: 2025-01-04T07:04:49.192340+00:00
-
- ## Public Good |
- - [https://publicgoodsw.wpengine.com](https://publicgoodsw.wpengine.com)
- - date_published: 2024-06-25T21:54:13.569323+00:00
-
- ## Home
- - [https://qbwholesaledev.wpengine.com](https://qbwholesaledev.wpengine.com)
- - date_published: 2024-12-26T16:35:27.954020+00:00
-
- ## Qualys Notifications | Product, API and Library Release Announcements
- - [https://qreleasenotes.wpengine.com](https://qreleasenotes.wpengine.com)
- - date_published: 2024-06-29T08:32:30.847935+00:00
-
- ## Home | Behind the Closing
- - [https://qualiabtc.wpengine.com](https://qualiabtc.wpengine.com)
- - date_published: 2024-12-26T12:04:35.281377+00:00
-
- ## Home - Quantic Electronics
- - [https://quanticnow.wpengine.com](https://quanticnow.wpengine.com)
- - date_published: 2024-12-26T13:00:44.191147+00:00
 

@@ -1,3 +1,103 @@
+ ## diaspora social network
+ - [https://diasp.org](https://diasp.org)
+ - date_published: 2024-05-10T06:28:11.494423+00:00
+
+ ## Submit a Ticket - Diasporg Support
+ - [https://support.diasp.org](https://support.diasp.org)
+ - date_published: 2024-07-12T22:10:30.987620+00:00
+
+ ## The diaspora* Project
+ - [https://diasporafoundation.org](https://diasporafoundation.org)
+ - date_published: 2024-06-19T22:13:34.553315+00:00
+
+ ## diaspora* Discourse
+ - [https://discourse.diasporafoundation.org](https://discourse.diasporafoundation.org)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Share to diaspora*
+ - [https://share.diasporafoundation.org](https://share.diasporafoundation.org)
+ - date_published: 2022-04-18T17:18:42+00:00
+
+ ## diaspora-fr*
+ - [https://diaspora-fr.org](https://diaspora-fr.org)
+ - date_published: 2024-07-10T06:24:47.091392+00:00
+
+ ## Diastema editrice Studi e ricerche
+ - [https://diastemastudiericerche.org](https://diastemastudiericerche.org)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Homepage - The Dibble Institute
+ - [https://www.dibbleinstitute.org](https://www.dibbleinstitute.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Le Dico des Ados
+ - [https://fr.dicoado.org](https://fr.dicoado.org)
+ - date_published: 2024-07-12T05:17:42+00:00
+
+ ## dict.org
+ - [https://dict.org](https://dict.org)
+ - date_published: 2024-05-24T08:08:32.893996+00:00
+
+ ## Dictionnaire des francophones
+ - [https://www.dictionnairedesfrancophones.org](https://www.dictionnairedesfrancophones.org)
+ - date_published: 2023-07-07T20:14:15+00:00
+
+ ## Welcome to Didactic Journals
+ - [http://didacticjournals.org](http://didacticjournals.org)
+ - date_published: 2024-10-29T16:59:51.133701+00:00
+
+ ## Die Bombe
+ - [https://www.diebombe.org](https://www.diebombe.org)
+ - date_published: 2015-12-21T12:12:20+00:00
+
+ ## DIEGO  VERA
+ - [https://diegovera.org](https://diegovera.org)
+ - date_published: 2023-10-25T21:14:18.082525+00:00
+
+ ## Bogleheads Investing Advice and Info
+ - [http://diehards.org](http://diehards.org)
+ - date_published: 2024-08-18T20:41:13.478450+00:00
+
+ ## GitHub - emeryberger/DieHard: DieHard: An error-resistant memory allocator for Windows, Linux, and Mac OS X
+ - [http://diehard-software.org](http://diehard-software.org)
+ - date_published: 2025-01-02T16:12:09.712179+00:00
+
+ ## GitHub - emeryberger/DieHard: DieHard: An error-resistant memory allocator for Windows, Linux, and Mac OS X
+ - [http://www.diehard-software.org](http://www.diehard-software.org)
+ - date_published: 2025-01-02T16:12:05.077152+00:00
+
+ ## DiEM25 - Democracy in Europe Movement 2025
+ - [https://diem25.org](https://diem25.org)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Internal - For DiEM25 Members Only - DiEM25
+ - [https://i.diem25.org](https://i.diem25.org)
+ - date_published: 2024-07-03T03:15:35.823225+00:00
+
+ ## Internal - For DiEM25 Members Only - DiEM25
+ - [https://internal.diem25.org](https://internal.diem25.org)
+ - date_published: 2024-07-03T03:15:36.471935+00:00
+
+ ## Christliche Hilfsorganisation Samaritan’s Purse
+ - [https://www.die-samariter.org](https://www.die-samariter.org)
+ - date_published: 2024-12-15T19:36:51.359936+00:00
+
+ ## Übersicht
+ - [https://community.dieselschrauber.org](https://community.dieselschrauber.org)
+ - date_published: 2024-07-16T17:48:22.428766+00:00
+
+ ## HomePage - DIFFERENT BRAINS
+ - [https://www.differentbrains.org](https://www.differentbrains.org)
+ - date_published: 2024-12-12T16:57:48.632378+00:00
+
+ ## diffoscope: in-depth comparison of files, archives, and directories
+ - [https://diffoscope.org](https://diffoscope.org)
+ - date_published: 2023-10-25T21:14:19.698212+00:00
+
+ ## trydiffoscope: in-depth comparison of files, archives, and directories
+ - [https://try.diffoscope.org](https://try.diffoscope.org)
+ - date_published: 2024-08-18T19:51:55.363349+00:00
+
  ## Archive - Diffractions Collective 2013-2023
  - [https://diffractionscollective.org](https://diffractionscollective.org)
  - date_published: 2024-09-23T13:31:44.932944+00:00
@@ -3926,104 +4026,4 @@
  ## Mastodon
  - [https://dznr.org](https://dznr.org)
  - date_published: 2024-08-07T17:45:01.089288+00:00
-
- ## Daphne Zepos Teaching Endowment
- - [https://www.dzte.org](https://www.dzte.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## e107 Bootstrap CMS Open Source
- - [https://e107.org](https://e107.org)
- - date_published: 2024-05-02T13:42:19.270139+00:00
-
- ## e107 Bootstrap CMS Open Source
- - [https://static.e107.org](https://static.e107.org)
- - date_published: 2024-06-18T15:49:06.359731+00:00
-
- ## Home
- - [https://www.e3g.org](https://www.e3g.org)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## EAA | Experimental Aircraft Association | Oshkosh, Wisconsin
- - [https://www.eaa.org](https://www.eaa.org)
- - date_published: 2024-06-23T06:12:15.405242+00:00
-
- ## EAAE - EAAE
- - [https://www.eaae-astronomy.org](https://www.eaae-astronomy.org)
- - date_published: 2024-06-22T19:11:46+00:00
-
- ## EABEX - Verifiable Sourcing for Products and Services in East Asia
- - [http://www.eabex.org](http://www.eabex.org)
- - date_published: 2024-12-21T11:52:48.608719+00:00
-
- ## Groei digitaal met onze e-learnings - e-Academy.org
- - [https://www.e-academy.org](https://www.e-academy.org)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Effective Altruism Cambridge
- - [https://eacambridge.org](https://eacambridge.org)
- - date_published: 2024-05-08T09:58:13.316265+00:00
-
- ## The 16th Conference of the European Chapter of the Association for Computational Linguistics
- - [https://2021.eacl.org](https://2021.eacl.org)
- - date_published: 2024-03-19T00:18:16+00:00
-
- ## The 17th Conference of the European Chapter of the Association for Computational LinguisticsMay 2-6, 2023
- - [https://2023.eacl.org](https://2023.eacl.org)
- - date_published: 2023-05-15T15:30:51+00:00
-
- ## The 18th Conference of the European Chapter of the Association for Computational LinguisticsMarch 17-22, 2024
- - [https://2024.eacl.org](https://2024.eacl.org)
- - date_published: 2024-03-22T10:23:21+00:00
-
- ## EACL
- - [http://eacl.org](http://eacl.org)
- - date_published: 2023-12-11T09:34:56+00:00
-
- ## European Academy of Dermatology and Venereology | EADV
- - [https://eadv.org](https://eadv.org)
- - date_published: 2022-06-21T12:26:40+00:00
-
- ## Home - European Association for the Education of Adults
- - [https://eaea.org](https://eaea.org)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Welcome to EAERE 2024!
- - [http://www.eaere-conferences.org](http://www.eaere-conferences.org)
- - date_published: 2024-07-01T20:06:53.965486+00:00
-
- ## EAEVE / AEEEV
- - [https://www.eaeve.org](https://www.eaeve.org)
- - date_published: 2024-08-11T06:39:57.191735+00:00
-
- ## Home - Effective Altruism Foundation
- - [https://ea-foundation.org](https://ea-foundation.org)
- - date_published: 2024-06-21T11:32:34+00:00
-
- ## eagereyes.org
- - [https://eagereyes.org](https://eagereyes.org)
- - date_published: 2024-12-14T22:19:25+00:00
-
- ## American Bureau of Shipping (ABS) Eagle.org
- - [https://absinfo.eagle.org](https://absinfo.eagle.org)
- - date_published: 2024-06-19T21:00:59+00:00
-
- ## American Bureau of Shipping (ABS) Eagle.org
- - [https://eagle.org](https://eagle.org)
- - date_published: 2024-10-31T20:31:07+00:00
-
- ## New Fluid Topics Tenant
- - [https://pub-rm20.apps.eagle.org](https://pub-rm20.apps.eagle.org)
- - date_published: 2024-06-20T02:14:46.551157+00:00
-
- ## American Bureau of Shipping (ABS) Eagle.org
- - [https://ww2.eagle.org](https://ww2.eagle.org)
- - date_published: 2024-06-19T21:37:01+00:00
-
- ## Cierpliwości...
- - [http://www.eagleforum.org](http://www.eagleforum.org)
- - date_published: 2024-07-03T22:35:17.485021+00:00
-
- ## Eagles Charitable Foundation
- - [http://eaglescharitablefoundation.org](http://eaglescharitablefoundation.org)
- - date_published: 2024-09-16T09:40:22.854454+00:00
 

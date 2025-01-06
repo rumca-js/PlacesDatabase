@@ -1,3 +1,115 @@
+ ## Brighton & Hove City Council
+ - [http://www.brighton-hove.gov.uk](http://www.brighton-hove.gov.uk)
+ - date_published: 2024-09-15T07:44:58+00:00
+
+ ## Home
+ - [http://www.bristol.gov.uk](http://www.bristol.gov.uk)
+ - date_published: 2024-06-30T01:49:18+00:00
+
+ ## Buy with confidence
+ - [https://www.buywithconfidence.gov.uk](https://www.buywithconfidence.gov.uk)
+ - date_published: 2024-09-05T23:40:36.756307+00:00
+
+ ## Cabinet Office
+ - [https://cabinetoffice.gov.uk](https://cabinetoffice.gov.uk)
+ - date_published: 2024-10-17T12:50:01.490351+00:00
+
+ ## Government Digital Service – GDS is leading the digital transformation of the UK government.
+ - [http://digital.cabinetoffice.gov.uk](http://digital.cabinetoffice.gov.uk)
+ - date_published: 2024-06-18T10:39:38.547899+00:00
+
+ ## Cafcass advises the family courts about the welfare of children and what is in their best interests
+ - [https://www.cafcass.gov.uk](https://www.cafcass.gov.uk)
+ - date_published: 2024-07-12T13:16:16+00:00
+
+ ## Home - Cambourne Town Council
+ - [https://cambournetowncouncil.gov.uk](https://cambournetowncouncil.gov.uk)
+ - date_published: 2017-06-13T00:00:00+00:00
+
+ ## Home
+ - [https://www.cambridge.gov.uk](https://www.cambridge.gov.uk)
+ - date_published: 2024-06-17T17:35:45.673707+00:00
+
+ ## Welcome to Cambridgeshire County Council
+ - [https://www.cambridgeshire.gov.uk](https://www.cambridgeshire.gov.uk)
+ - date_published: 2024-10-15T22:56:12.777925+00:00
+
+ ## Understanding accessibility requirements for public sector bodies
+ - [https://accessibility.campaign.gov.uk](https://accessibility.campaign.gov.uk)
+ - date_published: 2024-10-21T09:40:16.210452+00:00
+
+ ## Changes to UK company law
+ - [https://changestoukcompanylaw.campaign.gov.uk](https://changestoukcompanylaw.campaign.gov.uk)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Are you a disability confident employer? - Disability Confident
+ - [https://disabilityconfident.campaign.gov.uk](https://disabilityconfident.campaign.gov.uk)
+ - date_published: 2023-06-29T00:00:00+00:00
+
+ ## Don't get caught out - Tax advice - don’t get caught out
+ - [https://dontgetcaughtout.campaign.gov.uk](https://dontgetcaughtout.campaign.gov.uk)
+ - date_published: 2023-12-04T00:00:00+00:00
+
+ ## Do something big
+ - [https://earlyyearscareers.campaign.gov.uk](https://earlyyearscareers.campaign.gov.uk)
+ - date_published: 2024-10-20T03:47:58.800477+00:00
+
+ ## Farming for the future
+ - [https://farming.campaign.gov.uk](https://farming.campaign.gov.uk)
+ - date_published: 2024-10-21T09:50:56.979711+00:00
+
+ ## Petfished June 21 Update 2 - Petfished
+ - [https://getyourpetsafely.campaign.gov.uk](https://getyourpetsafely.campaign.gov.uk)
+ - date_published: 2021-06-09T00:00:00+00:00
+
+ ## Help is available for every household
+ - [https://helpforhouseholds.campaign.gov.uk](https://helpforhouseholds.campaign.gov.uk)
+ - date_published: 2024-10-20T05:08:13.068946+00:00
+
+ ## New report shows success of government's support for cultural sector during pandemic
+ - [https://hereforculture.campaign.gov.uk](https://hereforculture.campaign.gov.uk)
+ - date_published: 2024-10-21T07:58:25.523632+00:00
+
+ ## A Modern Civil Service — Skilled, Innovative and Ambitious
+ - [https://moderncivilservice.campaign.gov.uk](https://moderncivilservice.campaign.gov.uk)
+ - date_published: 2024-10-21T09:39:42.117384+00:00
+
+ ## Prepare - Prepare
+ - [https://prepare.campaign.gov.uk](https://prepare.campaign.gov.uk)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Ready to Pass? - How to pass your driving test
+ - [https://readytopass.campaign.gov.uk](https://readytopass.campaign.gov.uk)
+ - date_published: 2024-10-21T09:36:36.254644+00:00
+
+ ## Travel Aware
+ - [https://travelaware.campaign.gov.uk](https://travelaware.campaign.gov.uk)
+ - date_published: 2024-12-14T13:42:08.583046+00:00
+
+ ## The Charity Commission for England and Wales
+ - [http://apps.charitycommission.gov.uk](http://apps.charitycommission.gov.uk)
+ - date_published: 2012-12-05T00:00:00+00:00
+
+ ## About the register of charities
+ - [http://beta.charitycommission.gov.uk](http://beta.charitycommission.gov.uk)
+ - date_published: 2024-06-18T06:33:27.931844+00:00
+
+ ## About the register of charities
+ - [https://register-of-charities.charitycommission.gov.uk](https://register-of-charities.charitycommission.gov.uk)
+ - date_published: 2024-06-17T18:46:41.247562+00:00
+
+ ## Things to do - City of London
+ - [https://www.cityoflondon.gov.uk](https://www.cityoflondon.gov.uk)
+ - date_published: 2024-05-04T08:28:41.223048+00:00
+
+ ## Government Analysis Function – The Government Analysis Function is a network for all civil servants working in government analysis.
+ - [https://analysisfunction.civilservice.gov.uk](https://analysisfunction.civilservice.gov.uk)
+ - date_published: 2024-06-18T10:41:13.780062+00:00
+
+ ## Civil Service
+ - [http://www.civilservice.gov.uk](http://www.civilservice.gov.uk)
+ - date_published: 2024-10-21T14:06:20.577392+00:00
+
  ## Civil Service Careers
  - [https://www.civil-service-careers.gov.uk](https://www.civil-service-careers.gov.uk)
  - date_published: 2024-03-11T00:00:00+00:00
@@ -3918,116 +4030,4 @@ Edinburgh since 1840; When I last counted, at January 2010, there were about
  ## Home page - The Masonic Charitable Foundation
  - [https://mcf.org.uk](https://mcf.org.uk)
  - date_published: 2024-06-03T00:00:00+00:00
-
- ## Ocean T-shirts | Official Marine Conservation Society Shop
- - [https://mcsshop.org.uk](https://mcsshop.org.uk)
- - date_published: 2024-12-30T09:35:49.897907+00:00
-
- ## medecinsdumonde.org.uk
- - [http://www.medecinsdumonde.org.uk](http://www.medecinsdumonde.org.uk)
- - date_published: 2024-12-31T22:23:20.977166+00:00
-
- ## mediaed.org.uk
- - [https://mediaed.org.uk](https://mediaed.org.uk)
- - date_published: 2024-05-07T23:40:29.690257+00:00
-
- ## MediaWise
- - [http://mediawise.org.uk](http://mediawise.org.uk)
- - date_published: 2024-05-07T23:40:04.723747+00:00
-
- ## MedicAlertUK
- - [https://medicalert.org.uk](https://medicalert.org.uk)
- - date_published: 2024-06-18T08:51:35.733123+00:00
-
- ## Home - electronic medicines compendium (emc)
- - [https://www.medicines.org.uk](https://www.medicines.org.uk)
- - date_published: 2024-09-16T09:36:49.446821+00:00
-
- ## Home | Meditating In Safety
- - [https://meditatinginsafety.org.uk](https://meditatinginsafety.org.uk)
- - date_published: 2017-06-19T00:00:00+00:00
-
- ## medworth.org.uk
- - [http://www.medworth.org.uk](http://www.medworth.org.uk)
- - date_published: 2024-06-20T03:37:49.946674+00:00
-
- ## Home — Megan Baker House
- - [http://www.meganbakerhouse.org.uk](http://www.meganbakerhouse.org.uk)
- - date_published: 2024-12-27T21:06:06.159297+00:00
-
- ## Learning Disability - Autism - Down's Syndrome
- - [http://www.mencap.org.uk](http://www.mencap.org.uk)
- - date_published: 2024-12-27T20:42:31+00:00
-
- ## Tackling Islamophobia in the UK - Muslim Engagement and Development
- - [https://www.mend.org.uk](https://www.mend.org.uk)
- - date_published: 2024-12-12T03:46:42+00:00
-
- ## Home -  | Ménière’s Society
- - [https://www.menieres.org.uk](https://www.menieres.org.uk)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Mermaids Website
- - [https://www.mermaidsuk.org.uk](https://www.mermaidsuk.org.uk)
- - date_published: 2024-12-04T10:57:54.950187+00:00
-
- ## Programme on Photonic Metamaterials
- - [https://www.metamaterials.org.uk](https://www.metamaterials.org.uk)
- - date_published: 2024-05-02T12:38:50.548819+00:00
-
- ## Home - Methodist Church
- - [http://www.methodist.org.uk](http://www.methodist.org.uk)
- - date_published: 2024-10-21T10:18:39.555420+00:00
-
- ## MFAW Online
- - [http://www.mfaw.org.uk](http://www.mfaw.org.uk)
- - date_published: 2024-10-21T18:43:44.974369+00:00
-
- ## Home - Migrants' Rights Network
- - [https://migrantsrights.org.uk](https://migrantsrights.org.uk)
- - date_published: 2024-10-18T21:14:54.982936+00:00
-
- ## Mike Taylor - Home Page
- - [http://miketaylor.org.uk](http://miketaylor.org.uk)
- - date_published: 2023-02-21T23:57:26+00:00
-
- ## Milestones - Living History Museum in Hampshire
- - [https://www.milestonesmuseum.org.uk](https://www.milestonesmuseum.org.uk)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## MISRA Discussion Forums
- - [https://forum.misra.org.uk](https://forum.misra.org.uk)
- - date_published: 2023-12-17T17:43:18.968078+00:00
-
- ## MISRA
- - [https://misra.org.uk](https://misra.org.uk)
- - date_published: 2024-05-02T12:38:41.731664+00:00
-
- ## mkgmap
- - [http://www.mkgmap.org.uk](http://www.mkgmap.org.uk)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Martin Nail's Website
- - [http://www.mnail.org.uk](http://www.mnail.org.uk)
- - date_published: 2021-12-04T16:18:48+00:00
-
- ## www.modernpoetry.org.uk
- - [http://www.modernpoetry.org.uk](http://www.modernpoetry.org.uk)
- - date_published: 2019-11-14T21:15:12+00:00
-
- ## Moniack Mhor
- - [https://www.moniackmhor.org.uk](https://www.moniackmhor.org.uk)
- - date_published: 2024-10-21T17:31:53.110629+00:00
-
- ## Moorfields Eye Charity | Funding world-leading eye research
- - [https://moorfieldseyecharity.org.uk](https://moorfieldseyecharity.org.uk)
- - date_published: 2024-05-02T12:35:20.733742+00:00
-
- ## Welcome to More in Common UK
- - [https://www.moreincommon.org.uk](https://www.moreincommon.org.uk)
- - date_published: 2024-07-03T22:54:30.477815+00:00
-
- ## games.moria.org.uk
- - [https://games.moria.org.uk](https://games.moria.org.uk)
- - date_published: 2011-02-05T14:56:28+00:00
 

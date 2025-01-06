@@ -1,10 +1,123 @@
+ ## Attention Required! | Cloudflare
+ - [https://vecow.utrust.com.tw](https://vecow.utrust.com.tw)
+ - date_published: 2024-09-05T21:00:42.277897+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://visa.com.tw](https://visa.com.tw)
+ - date_published: 2024-05-12T03:59:40.742905+00:00
+
+ ## Vogue Taiwan
+ - [https://vogue.com.tw](https://vogue.com.tw)
+ - date_published: 2024-05-07T10:58:39.629872+00:00
+
+ ## 潮網科技｜行銷科技方案・電商數據科學・數位廣告投放・行銷整合策略
+ - [https://www.wavenet.com.tw](https://www.wavenet.com.tw)
+ - date_published: 2024-12-19T03:40:55+00:00
+
+ ## wicca
+ - [https://wicca.com.tw](https://wicca.com.tw)
+ - date_published: 2024-06-20T02:53:30+00:00
+
+ ## LCD Display, LCD Display Modules, Display LCD, LCD Panel Manufacturer, Supplier
+ - [https://www.winstar.com.tw](https://www.winstar.com.tw)
+ - date_published: 2024-06-20T17:30:54.372028+00:00
+
+ ## Professional PMOLED Display Manufacturer - WiseChip Semiconductor Inc.
+ - [https://www.wisechip.com.tw](https://www.wisechip.com.tw)
+ - date_published: 2024-06-20T17:33:20.856803+00:00
+
+ ## 智略市場研究
+ - [https://wmr.com.tw](https://wmr.com.tw)
+ - date_published: 2023-07-17T09:16:38+00:00
+
+ ## 建達國際
+ - [https://www.xander.com.tw](https://www.xander.com.tw)
+ - date_published: 2024-10-31T13:23:13.303754+00:00
+
+ ## Yelp
+ - [https://m.yelp.com.tw](https://m.yelp.com.tw)
+ - date_published: 2024-07-01T06:42:13.043604+00:00
+
+ ## Yelp
+ - [https://yelp.com.tw](https://yelp.com.tw)
+ - date_published: 2024-07-01T06:42:08.129585+00:00
+
+ ## LTN JOB X yes123求職網
+ - [https://ltn_jobs.yes123.com.tw](https://ltn_jobs.yes123.com.tw)
+ - date_published: 2024-10-07T22:10:36.249679+00:00
+
+ ## 求職網-人力銀行找工作、找人才，媒合快又有效率
+ - [https://yes123.com.tw](https://yes123.com.tw)
+ - date_published: 2024-10-07T22:11:08.340377+00:00
+
+ ## YUAN
+ - [https://yuan.com.tw](https://yuan.com.tw)
+ - date_published: 2024-09-05T22:58:34.446168+00:00
+
+ ## 元大銀行
+ - [https://yuantabank.com.tw](https://yuantabank.com.tw)
+ - date_published: 2024-06-21T15:22:59.543481+00:00
+
+ ## 蔡司台灣
+ - [https://zeiss.com.tw](https://zeiss.com.tw)
+ - date_published: 2024-09-16T07:56:11.384044+00:00
+
+ ## Zeroplus Logic Analyzers
+ - [http://www.zeroplus.com.tw](http://www.zeroplus.com.tw)
+ - date_published: 2025-01-02T13:52:07.579685+00:00
+
+ ## Asia University, Taiwan 歡迎光臨亞洲大學全球資訊網
+ - [http://asia.edu.tw](http://asia.edu.tw)
+ - date_published: 2024-10-30T20:30:29.030171+00:00
+
+ ## Chang Gung University of Science and Technology
+ - [https://english.cgust.edu.tw](https://english.cgust.edu.tw)
+ - date_published: 2024-10-30T20:25:49+00:00
+
+ ## 國際事務處
+ - [https://iaaec.cgust.edu.tw](https://iaaec.cgust.edu.tw)
+ - date_published: 2024-12-15T14:23:19+00:00
+
+ ## 教育部《重編國語辭典修訂本》2021
+ - [https://dict.revised.moe.edu.tw](https://dict.revised.moe.edu.tw)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## 教育部臺灣客語辭典
+ - [https://hakkadict.moe.edu.tw](https://hakkadict.moe.edu.tw)
+ - date_published: 2024-07-12T05:30:17.720490+00:00
+
+ ## Interconnection Networks and High-Performance Computation Laboratory (互連網路暨高效率運算實驗室)
+ - [https://algorithm.csie.ncku.edu.tw](https://algorithm.csie.ncku.edu.tw)
+ - date_published: 2024-09-11T06:42:34+00:00
+
+ ## Index of /
+ - [https://alpine.ccns.ncku.edu.tw](https://alpine.ccns.ncku.edu.tw)
+ - date_published: 2024-07-20T15:58:32.401826+00:00
+
+ ## NCKU, 成功大學-計算機與網路中心  - NCKU, 成功大學-計算機與網路中心
+ - [https://cc.ncku.edu.tw](https://cc.ncku.edu.tw)
+ - date_published: 2024-12-15T13:02:27+00:00
+
+ ## National Cheng Kung University - NCKU
+ - [https://highlights.ncku.edu.tw](https://highlights.ncku.edu.tw)
+ - date_published: 2024-12-15T13:02:10.424325+00:00
+
  ## NCKU, National Cheng Kung University  - NCKU, 國立成功大學 National Cheng Kung University
- - [https://www.ncku.edu.tw](https://www.ncku.edu.tw)
+ - [https://ncku.edu.tw](https://ncku.edu.tw)
  - date_published: 2024-06-21T00:00:00+00:00
+
+ ## NCKU, National Cheng Kung University  - NCKU, 國立成功大學 National Cheng Kung University
+ - [https://web.ncku.edu.tw](https://web.ncku.edu.tw)
+ - date_published: 2024-10-30T20:17:56+00:00
+
+ ## Wiki - 成功大學資工系(所) Wiki 系統
+ - [https://wiki.csie.ncku.edu.tw](https://wiki.csie.ncku.edu.tw)
+ - date_published: 2024-06-22T12:41:42.514452+00:00
 
  ## 故宮電子報
  - [https://enews.npm.edu.tw](https://enews.npm.edu.tw)
  - date_published: 2024-05-02T10:40:24.527107+00:00
+ - date_dead_since: 2025-01-05T19:31:07.820588+00:00
 
  ## 故宮線上學校
  - [https://ipalace.npm.edu.tw](https://ipalace.npm.edu.tw)
@@ -33,9 +146,10 @@
  ## Home - CGV | NTHU
  - [https://cgv.cs.nthu.edu.tw](https://cgv.cs.nthu.edu.tw)
  - date_published: 2024-06-22T07:30:50.710895+00:00
+ - date_dead_since: 2025-01-05T19:37:56.808410+00:00
 
  ## 國立清華大學
- - [http://www.nthu.edu.tw](http://www.nthu.edu.tw)
+ - [https://www.nthu.edu.tw](https://www.nthu.edu.tw)
  - date_published: 2024-10-22T03:47:41.368455+00:00
 
  ## Home - 台大國際事務處
@@ -47,7 +161,7 @@
  - date_published: 2024-07-14T10:38:05.006429+00:00
 
  ## 臺大電機之友 | 台大電機之友http://alumni.ee.ntu.edu.tw，於2001年八月一日正式啟用。為提供本系和已畢業系友的聯繫管道及系友間的資訊交流、報導系上的近況、協助提供系友求才或求職資訊。
- - [http://alumni.ee.ntu.edu.tw](http://alumni.ee.ntu.edu.tw)
+ - [https://alumni.ee.ntu.edu.tw](https://alumni.ee.ntu.edu.tw)
  - date_published: 2024-07-14T10:35:21.837099+00:00
 
  ## 校園公佈欄
@@ -58,13 +172,25 @@
  - [https://arts.ntu.edu.tw](https://arts.ntu.edu.tw)
  - date_published: 2024-07-14T10:38:38.028652+00:00
 
+ ## 台大寫作教學中心 – AWEC
+ - [https://awec.ntu.edu.tw](https://awec.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:26.367696+00:00
+
  ## 國立臺灣大學 學務處 | 學生職業生涯發展中心
  - [https://career.ntu.edu.tw](https://career.ntu.edu.tw)
  - date_published: 2024-07-14T10:35:49.174887+00:00
 
+ ## AIMM Research Group - NTU CMLab
+ - [https://cmlab.csie.ntu.edu.tw](https://cmlab.csie.ntu.edu.tw)
+ - date_published: 2023-03-02T14:13:56+00:00
+
  ## 國立臺灣大學資訊工程學系
  - [https://csie.ntu.edu.tw](https://csie.ntu.edu.tw)
  - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Home - CTLD x DLC
+ - [https://dlc.ntu.edu.tw](https://dlc.ntu.edu.tw)
+ - date_published: 2024-07-01T00:00:00+00:00
 
  ## NTU D-School – D School
  - [https://dschool.ntu.edu.tw](https://dschool.ntu.edu.tw)
@@ -81,6 +207,15 @@
  ## Document
  - [https://event.ntu.edu.tw](https://event.ntu.edu.tw)
  - date_published: 2020-09-22T08:20:24+00:00
+ - date_dead_since: 2025-01-05T19:39:25.876296+00:00
+
+ ## 國立臺灣大學生物資源暨農學院附設農業試驗場
+ - [https://farm.ntu.edu.tw](https://farm.ntu.edu.tw)
+ - date_published: 2024-07-14T10:39:06.712798+00:00
+
+ ## 未來大學開創未來 | Futurentu | 台北市
+ - [https://future.ntu.edu.tw](https://future.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:09.504854+00:00
 
  ## 臺大總務處 Office of General Affairs, NTU
  - [https://ga.ntu.edu.tw](https://ga.ntu.edu.tw)
@@ -98,9 +233,17 @@
  - [https://gsat.ntu.edu.tw](https://gsat.ntu.edu.tw)
  - date_published: 2024-07-14T10:35:41.283527+00:00
 
+ ## 國立臺灣大學 資訊網路與多媒體研究所
+ - [https://inm.ntu.edu.tw](https://inm.ntu.edu.tw)
+ - date_published: 2024-09-12T00:00:00+00:00
+
  ## Lab Spotlight, National Taiwan University | Lab Search
  - [https://labspotlight.ntu.edu.tw](https://labspotlight.ntu.edu.tw)
  - date_published: 2024-07-08T00:00:00+00:00
+
+ ## 歡迎來到 國立臺灣大學圖書館 | 國立臺灣大學圖書館
+ - [https://lib.ntu.edu.tw](https://lib.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:31.663613+00:00
 
  ## 國立臺灣大學 管理學院
  - [https://management.ntu.edu.tw](https://management.ntu.edu.tw)
@@ -109,6 +252,7 @@
  ## 首頁 - 臺大博物館群
  - [https://museums.ntu.edu.tw](https://museums.ntu.edu.tw)
  - date_published: 2021-08-18T06:49:26+00:00
+ - date_dead_since: 2025-01-05T19:40:18.665071+00:00
 
  ## myNTU臺大人入口網
  - [https://my.ntu.edu.tw](https://my.ntu.edu.tw)
@@ -127,7 +271,7 @@
  - date_published: 2024-07-04T07:07:24+00:00
 
  ## 403 - 禁止: 拒絕存取。
- - [https://ntuweb.cloud.ntu.edu.tw](https://ntuweb.cloud.ntu.edu.tw)
+ - [http://ntuweb.cloud.ntu.edu.tw](http://ntuweb.cloud.ntu.edu.tw)
  - date_published: 2024-07-14T10:37:54.338742+00:00
 
  ## 2023 NTU INTERNATIONAL MENTORSHIP PROGRAM 臺大國際引路人計畫
@@ -175,7 +319,7 @@
  - date_published: 2024-07-10T03:33:10+00:00
 
  ## VISION & LEARNING LAB
- - [http://vllab.ee.ntu.edu.tw](http://vllab.ee.ntu.edu.tw)
+ - [https://vllab.ee.ntu.edu.tw](https://vllab.ee.ntu.edu.tw)
  - date_published: 2024-06-22T00:00:00+00:00
 
  ## 國立臺灣大學 - 電機工程學系
@@ -186,37 +330,9 @@
  - [https://www.alumni.ntu.edu.tw](https://www.alumni.ntu.edu.tw)
  - date_published: 2024-07-14T10:37:59.102565+00:00
 
- ## 台大寫作教學中心 – AWEC
- - [https://www.awec.ntu.edu.tw](https://www.awec.ntu.edu.tw)
- - date_published: 2024-07-14T10:38:26.367696+00:00
-
- ## AIMM Research Group - NTU CMLab
- - [http://www.cmlab.csie.ntu.edu.tw](http://www.cmlab.csie.ntu.edu.tw)
- - date_published: 2023-03-02T14:13:56+00:00
-
- ## Home - CTLD x DLC
- - [https://www.dlc.ntu.edu.tw](https://www.dlc.ntu.edu.tw)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## 國立臺灣大學生物資源暨農學院附設農業試驗場
- - [https://www.farm.ntu.edu.tw](https://www.farm.ntu.edu.tw)
- - date_published: 2024-07-14T10:39:06.712798+00:00
-
- ## 未來大學開創未來 | Futurentu | 台北市
- - [https://www.future.ntu.edu.tw](https://www.future.ntu.edu.tw)
- - date_published: 2024-07-14T10:38:09.504854+00:00
-
- ## 國立臺灣大學 資訊網路與多媒體研究所
- - [https://www.inm.ntu.edu.tw](https://www.inm.ntu.edu.tw)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## 歡迎來到 國立臺灣大學圖書館 | 國立臺灣大學圖書館
- - [https://www.lib.ntu.edu.tw](https://www.lib.ntu.edu.tw)
- - date_published: 2024-07-14T10:38:31.663613+00:00
-
  ## 國立臺灣大學 學校分部總辦事處網站
- - [http://www.ntubca.ntu.edu.tw](http://www.ntubca.ntu.edu.tw)
- - date_published: 2024-01-18T03:06:29+00:00
+ - [https://www.ntubca.ntu.edu.tw](https://www.ntubca.ntu.edu.tw)
+ - date_published: 2021-05-31T05:50:02+00:00
 
  ## 國立臺灣大學
  - [https://www.ntu.edu.tw](https://www.ntu.edu.tw)
@@ -235,19 +351,27 @@
  - date_published: 2024-12-31T13:48:21.520125+00:00
 
  ## 國際電腦漢字及異體字知識庫
- - [http://chardb.iis.sinica.edu.tw](http://chardb.iis.sinica.edu.tw)
+ - [https://chardb.iis.sinica.edu.tw](https://chardb.iis.sinica.edu.tw)
  - date_published: 2024-07-12T05:06:01.916389+00:00
+
+ ## {{($state.current.data.pageTitleZH)?$state.current.data.pageTitleZH+' - '+title.zh:title.zh}}
+ - [https://citi.sinica.edu.tw](https://citi.sinica.edu.tw)
+ - date_published: 2024-05-21T07:42:49+00:00
 
  ## 中央研究院 資訊科學研究所
  - [https://homepage.iis.sinica.edu.tw](https://homepage.iis.sinica.edu.tw)
  - date_published: 2024-07-19T01:31:46+00:00
+
+ ## 中央研究院 資訊科學研究所
+ - [https://iis.sinica.edu.tw](https://iis.sinica.edu.tw)
+ - date_published: 2024-06-21T16:15:10+00:00
 
  ## - niche computing science
  - [https://scm.iis.sinica.edu.tw](https://scm.iis.sinica.edu.tw)
  - date_published: 2024-02-28T00:00:00+00:00
 
  ## 中央研究院 兩千年中西曆轉換
- - [http://sinocal.sinica.edu.tw](http://sinocal.sinica.edu.tw)
+ - [https://sinocal.sinica.edu.tw](https://sinocal.sinica.edu.tw)
  - date_published: 2024-07-12T05:05:58.043521+00:00
 
  ## TAOS II - Transneptunian Automated Occultation Survey
@@ -261,14 +385,6 @@
  ## Institute of Astronomy & Astrophysics, Academia Sinica
  - [https://www.asiaa.sinica.edu.tw](https://www.asiaa.sinica.edu.tw)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## {{($state.current.data.pageTitleZH)?$state.current.data.pageTitleZH+' - '+title.zh:title.zh}}
- - [https://www.citi.sinica.edu.tw](https://www.citi.sinica.edu.tw)
- - date_published: 2024-05-21T07:42:49+00:00
-
- ## 中央研究院 資訊科學研究所
- - [http://www.iis.sinica.edu.tw](http://www.iis.sinica.edu.tw)
- - date_published: 2024-06-21T16:15:10+00:00
 
  ## 臺北醫學大學 教務處
  - [https://aca.tmu.edu.tw](https://aca.tmu.edu.tw)
@@ -595,7 +711,7 @@
  - date_published: 2024-07-03T23:04:10.640812+00:00
 
  ## 外交部領事事務局全球資訊網
- - [https://www.boca.gov.tw](https://www.boca.gov.tw)
+ - [https://boca.gov.tw](https://boca.gov.tw)
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## 首頁-衛生福利部疾病管制署
@@ -603,16 +719,17 @@
  - date_published: 2024-07-14T10:35:46.063737+00:00
 
  ## 公務人員保障暨培訓委員會
- - [http://www.csptc.gov.tw](http://www.csptc.gov.tw)
+ - [https://www.csptc.gov.tw](https://www.csptc.gov.tw)
  - date_published: 2024-06-17T16:56:43.750124+00:00
 
  ## 403 - 禁止: 拒絕存取。
- - [https://cfcmweb.cy.gov.tw](https://cfcmweb.cy.gov.tw)
+ - [http://cfcmweb.cy.gov.tw](http://cfcmweb.cy.gov.tw)
  - date_published: 2024-07-16T20:57:44.068550+00:00
 
  ## 綠色生活
  - [https://greenliving.epa.gov.tw](https://greenliving.epa.gov.tw)
  - date_published: 2023-10-19T07:37:14+00:00
+ - date_dead_since: 2025-01-05T20:01:44.230527+00:00
 
  ## 首頁 - 行政院珍貴史料展示
  - [https://history.ey.gov.tw](https://history.ey.gov.tw)
@@ -635,15 +752,15 @@
  - date_published: 2024-06-17T16:54:56.583309+00:00
 
  ## 司法院全球資訊網
- - [https://www.judicial.gov.tw](https://www.judicial.gov.tw)
+ - [https://judicial.gov.tw](https://judicial.gov.tw)
  - date_published: 2024-10-19T22:35:51.826986+00:00
 
  ## 宜蘭博物館家族
- - [http://families.lym.gov.tw](http://families.lym.gov.tw)
+ - [https://families.lym.gov.tw](https://families.lym.gov.tw)
  - date_published: 2024-06-17T16:56:38+00:00
 
  ## 蘭陽博物館志工網站
- - [http://volunteer.lym.gov.tw](http://volunteer.lym.gov.tw)
+ - [https://volunteer.lym.gov.tw](https://volunteer.lym.gov.tw)
  - date_published: 2024-06-17T16:57:08.900313+00:00
 
  ## 蘭陽博物館
@@ -655,7 +772,7 @@
  - date_published: 2024-10-19T22:36:04.169818+00:00
 
  ## Cierpliwości...
- - [https://accessibility.moda.gov.tw](https://accessibility.moda.gov.tw)
+ - [http://accessibility.moda.gov.tw](http://accessibility.moda.gov.tw)
  - date_published: 2024-05-02T10:40:32.005882+00:00
 
  ## 首頁
@@ -667,35 +784,40 @@
  - date_published: 2024-07-07T10:16:39.707813+00:00
 
  ## 衛生福利部全球資訊網
- - [https://www.mohw.gov.tw](https://www.mohw.gov.tw)
+ - [https://mohw.gov.tw](https://mohw.gov.tw)
  - date_published: 2024-10-19T22:38:10.601067+00:00
 
  ## 全國法規資料庫
  - [http://law.moj.gov.tw](http://law.moj.gov.tw)
  - date_published: 2024-07-12T17:23:26.967208+00:00
+ - date_dead_since: 2025-01-05T20:05:20.488563+00:00
 
  ## 法務部廉政署中文網
  - [https://www.aac.moj.gov.tw](https://www.aac.moj.gov.tw)
  - date_published: 2024-06-11T00:00:00+00:00
+ - date_dead_since: 2025-01-05T20:06:21.279425+00:00
 
  ## 行政院洗錢防制辦公室中文網
  - [https://www.amlo.moj.gov.tw](https://www.amlo.moj.gov.tw)
  - date_published: 2024-10-19T22:36:14.535620+00:00
+ - date_dead_since: 2025-01-05T20:07:21.153625+00:00
 
  ## 人權大步走中文網
  - [https://www.humanrights.moj.gov.tw](https://www.humanrights.moj.gov.tw)
  - date_published: 2024-10-19T22:29:59.816592+00:00
+ - date_dead_since: 2025-01-05T20:08:20.638727+00:00
 
  ## 法務部全球資訊網中文網
  - [https://www.moj.gov.tw](https://www.moj.gov.tw)
  - date_published: 2024-10-19T22:31:16.545432+00:00
+ - date_dead_since: 2025-01-05T20:09:20.300340+00:00
 
  ## 行政院公報資訊網
  - [https://gazette.nat.gov.tw](https://gazette.nat.gov.tw)
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## 雙語資源網Bilingual Portal
- - [https://bilingual.ndc.gov.tw](https://bilingual.ndc.gov.tw)
+ - [http://bilingual.ndc.gov.tw](http://bilingual.ndc.gov.tw)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## 中華民國內政部消防署全球資訊網
@@ -740,7 +862,7 @@
  - date_published: 2024-10-19T22:34:40.506766+00:00
 
  ## 首頁 | 新北市立十三行博物館
- - [http://www.sshm.ntpc.gov.tw](http://www.sshm.ntpc.gov.tw)
+ - [https://www.sshm.ntpc.gov.tw](https://www.sshm.ntpc.gov.tw)
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## CRPD 身心障礙者權利公約 - 首頁
@@ -766,13 +888,14 @@
  ## 2024國慶焰火在雲林
  - [https://2024fireworks.yunlin.gov.tw](https://2024fireworks.yunlin.gov.tw)
  - date_published: 2024-10-07T22:06:47.334137+00:00
+ - date_dead_since: 2025-01-05T20:14:12.668090+00:00
 
  ## TWNIC 財團法人台灣網路資訊中心
- - [https://www.twnic.net.tw](https://www.twnic.net.tw)
+ - [https://twnic.net.tw](https://twnic.net.tw)
  - date_published: 2024-07-07T10:15:51.171269+00:00
 
  ## Homepage
- - [https://www.ait.org.tw](https://www.ait.org.tw)
+ - [https://ait.org.tw](https://ait.org.tw)
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## 財團法人日月光環保永續基金會
@@ -788,7 +911,7 @@
  - date_published: 2024-03-04T00:00:00+00:00
 
  ## CSROC中華民國電腦學會
- - [http://www.csroc.org.tw](http://www.csroc.org.tw)
+ - [https://csroc.org.tw](https://csroc.org.tw)
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## 節能標章全球資訊網-一般民眾
@@ -808,8 +931,8 @@
  - date_published: 2024-12-12T15:54:29.457379+00:00
 
  ## 財團法人林榮三文化公益基金會Lin Rong San Foundation of Culture and Social Welfare
- - [http://www.lrsf.org.tw](http://www.lrsf.org.tw)
- - date_published: 2024-10-07T22:12:38.731913+00:00
+ - [https://lrsf.org.tw](https://lrsf.org.tw)
+ - date_published: 2023-07-17T09:13:40+00:00
 
  ## MDRT Taiwan Chapter - 台灣國際百萬圓桌保險從業人員協會
  - [http://www.mdrt.org.tw](http://www.mdrt.org.tw)
@@ -820,31 +943,31 @@
  - date_published: 2024-12-24T16:08:59.619261+00:00
 
  ## NCHC | Main / HomePage
- - [http://free.nchc.org.tw](http://free.nchc.org.tw)
- - date_published: 2024-08-19T22:20:47.282550+00:00
+ - [https://free.nchc.org.tw](https://free.nchc.org.tw)
+ - date_published: 2018-07-23T12:30:35+00:00
 
  ## 無毒世界基金會網站：成人和青少年的毒品與藥物濫用真相、毒品書籍資訊、教育
- - [http://www.notodrugs.org.tw](http://www.notodrugs.org.tw)
+ - [https://notodrugs.org.tw](https://notodrugs.org.tw)
  - date_published: 2024-09-04T17:53:30.230190+00:00
 
  ## 財團法人陽明海運文化基金會
- - [http://www.ocam.org.tw](http://www.ocam.org.tw)
+ - [https://ocam.org.tw](https://ocam.org.tw)
  - date_published: 2024-06-01T00:00:00+00:00
 
  ## PMC
  - [http://www.pmc.org.tw](http://www.pmc.org.tw)
  - date_published: 2024-12-12T15:53:35.567401+00:00
 
+ ## 人格測試
+ - [https://oca.scientology.org.tw](https://oca.scientology.org.tw)
+ - date_published: 2024-06-17T16:40:49.163698+00:00
+
  ## 山達基教會：L. 羅恩 賀伯特、戴尼提、什麼是山達基？、書籍、信仰、大衛 密斯凱維吉
  - [https://scientology.org.tw](https://scientology.org.tw)
  - date_published: 0001-01-01T00:00:00+00:00
 
- ## 人格測試
- - [https://www.oca.scientology.org.tw](https://www.oca.scientology.org.tw)
- - date_published: 2024-06-17T16:40:49.163698+00:00
-
  ## 山達基宗教：背景、理論和宗教實踐
- - [https://www.scientologyreligion.org.tw](https://www.scientologyreligion.org.tw)
+ - [https://scientologyreligion.org.tw](https://scientologyreligion.org.tw)
  - date_published: 2024-06-06T19:41:35.098169+00:00
 
  ## 財團法人台灣建築中心 - TABC台灣建築中心
@@ -864,8 +987,8 @@
  - date_published: 2024-10-31T08:12:29.787872+00:00
 
  ## 台灣流體傳動工業全球資訊網
- - [https://www.tfpa.org.tw](https://www.tfpa.org.tw)
- - date_published: 2024-07-11T00:00:00+00:00
+ - [https://tfpa.org.tw](https://tfpa.org.tw)
+ - date_published: 2012-12-15T09:28:53+00:00
 
  ## TVCA中華民國創業投資商業同業公會
  - [https://www.tvca.org.tw](https://www.tvca.org.tw)
@@ -876,7 +999,7 @@
  - date_published: 2024-09-30T00:00:00+00:00
 
  ## 財團法人陽明海運文化基金會
- - [https://www.ymculture.org.tw](https://www.ymculture.org.tw)
+ - [https://ymculture.org.tw](https://ymculture.org.tw)
  - date_published: 2024-10-19T22:35:14.226977+00:00
 
  ## 13
@@ -884,7 +1007,7 @@
  - date_published: 2022-04-05T19:22:59+00:00
 
  ## 20th Century Studios Taiwan | Official Website
- - [https://www.20thcenturystudios.tw](https://www.20thcenturystudios.tw)
+ - [https://20thcenturystudios.tw](https://20thcenturystudios.tw)
  - date_published: 2024-02-25T00:00:00+00:00
 
  ## Gea-Suan Lin's Blog – This seems cool
@@ -916,19 +1039,19 @@
  - date_published: 2024-06-29T17:56:49.294194+00:00
 
  ## Apowersoft - 為您提供專業的商務辦公及日常生活的桌面軟體和線上應用
- - [https://www.apowersoft.tw](https://www.apowersoft.tw)
+ - [https://apowersoft.tw](https://apowersoft.tw)
  - date_published: 2024-06-23T16:06:15.736776+00:00
 
  ## Index of /
- - [http://mirror.archlinux.tw](http://mirror.archlinux.tw)
+ - [https://mirror.archlinux.tw](https://mirror.archlinux.tw)
  - date_published: 2024-07-13T17:34:46.097959+00:00
 
  ## Jasper | AI copilot for enterprise marketing teams
- - [https://www.ata.tw](https://www.ata.tw)
+ - [https://ata.tw](https://ata.tw)
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## BARE: The Google Reader experience for your Twitter timeline.
- - [https://bare.tw](https://bare.tw)
+ - [http://bare.tw](http://bare.tw)
  - date_published: 2024-07-20T03:10:14.193522+00:00
 
  ## 比特幣及虛擬通貨發展協會
@@ -937,7 +1060,7 @@
 
  ## 程式的窩
  - [https://blog.blackwhite.tw](https://blog.blackwhite.tw)
- - date_published: 2024-10-22T18:50:46.995099+00:00
+ - date_published: 2024-09-06T21:23:05+00:00
 
  ## 戴尼提和山達基的教材
  - [https://bridgepub.tw](https://bridgepub.tw)
@@ -960,7 +1083,7 @@
  - date_published: 2024-12-15T09:00:39+00:00
 
  ## 公民人權委員會首頁觀看影片。
- - [http://www.cchr.tw](http://www.cchr.tw)
+ - [https://cchr.tw](https://cchr.tw)
  - date_published: 0001-01-01T00:00:00+00:00
 
  ## 協會理念 | 臺灣區塊鏈愛好者年會
@@ -1012,6 +1135,7 @@
  ## 迪卡儂會員獎勵計畫 | 專屬禮遇，等你來解鎖！
  - [https://membership.decathlon.tw](https://membership.decathlon.tw)
  - date_published: 2024-09-19T13:37:20.324507+00:00
+ - date_dead_since: 2025-01-05T20:21:28.472810+00:00
 
  ## 支援
  - [https://support.decathlon.tw](https://support.decathlon.tw)
@@ -1034,11 +1158,11 @@
  - date_published: 2024-05-12T00:00:00+00:00
 
  ## Needs authentication
- - [https://bqxlf4ofmkzmq5ubzcvz2w-on.drv.tw](https://bqxlf4ofmkzmq5ubzcvz2w-on.drv.tw)
+ - [http://bqxlf4ofmkzmq5ubzcvz2w-on.drv.tw](http://bqxlf4ofmkzmq5ubzcvz2w-on.drv.tw)
  - date_published: 2024-07-18T22:33:30.746625+00:00
 
  ## 電競椅 | 家用遊戲椅 | 辦公人體工學椅 | DXRacer
- - [https://www.dxracer.tw](https://www.dxracer.tw)
+ - [https://dxracer.tw](https://dxracer.tw)
  - date_published: 2024-07-03T12:26:08.197060+00:00
 
  ## Enago英論閣英文論文編修公司 | 英文編修、論文編修、論文修改、英文修改、英文潤稿、學術英文編修、學術論文編修
@@ -1046,7 +1170,7 @@
  - date_published: 2024-12-15T04:13:20.330619+00:00
 
  ## Antivirus and Internet Security Solutions
- - [http://www.eset.tw](http://www.eset.tw)
+ - [https://eset.tw](https://eset.tw)
  - date_published: 2024-06-16T06:24:43.548025+00:00
 
  ## 哇哇3C日誌
@@ -1054,7 +1178,7 @@
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## HTTP Server Test Page powered by CentOS-WebPanel.com
- - [https://www.fng.tw](https://www.fng.tw)
+ - [https://fng.tw](https://fng.tw)
  - date_published: 2021-12-21T23:22:40+00:00
 
  ## Focus Taiwan - CNA English News
@@ -1071,11 +1195,11 @@
  - date_published: 2024-05-12T07:10:27.558537+00:00
 
  ## iPhone和Android數據恢復，Mac清潔，免費PDF壓縮器| FoneDog
- - [https://www.fonedog.tw](https://www.fonedog.tw)
+ - [https://fonedog.tw](https://fonedog.tw)
  - date_published: 2024-06-17T01:35:21+00:00
 
  ## 山達基內部──<br/>毫無保留的故事
- - [https://www.freedommag.tw](https://www.freedommag.tw)
+ - [https://freedommag.tw](https://freedommag.tw)
  - date_published: 0001-01-01T00:00:00+00:00
 
  ## Fur Times    獸時報 | 歡迎各位來到 Fur Times 獸時報官方網站！
@@ -1091,7 +1215,7 @@
  - date_published: 2024-08-27T00:00:00+00:00
 
  ## 首頁
- - [http://www.gousa.tw](http://www.gousa.tw)
+ - [http://gousa.tw](http://gousa.tw)
  - date_published: 2024-06-18T18:23:02+00:00
 
  ## 首頁｜無毒農
@@ -1099,7 +1223,7 @@
  - date_published: 2024-12-14T15:14:19.592402+00:00
 
  ## 首頁
- - [https://www.henkel.tw](https://www.henkel.tw)
+ - [https://henkel.tw](https://henkel.tw)
  - date_published: 2024-10-18T20:17:13.052822+00:00
 
  ## HIOKI 日置電機 | 世界級的測試與測量設備、儀器
@@ -1123,7 +1247,7 @@
  - date_published: 2024-09-05T00:00:00+00:00
 
  ## HPX 輕鬆聚
- - [https://www.hpx.tw](https://www.hpx.tw)
+ - [https://hpx.tw](https://hpx.tw)
  - date_published: 2024-07-04T12:49:56.340321+00:00
 
  ## 姆明台灣官方商城｜MOOMIN TW ONLINE
@@ -1131,7 +1255,7 @@
  - date_published: 2024-03-04T00:00:00+00:00
 
  ## Ignite Taipei
- - [http://ignitetaipei.tw](http://ignitetaipei.tw)
+ - [https://ignitetaipei.tw](https://ignitetaipei.tw)
  - date_published: 2024-08-18T09:34:24.208812+00:00
 
  ## The 26th Conference of the International Linear Algebra Society
@@ -1141,6 +1265,7 @@
  ## Warung168 🐣 Link Game Cek Khodam Online Terbaru
  - [https://ipv6launch.tw](https://ipv6launch.tw)
  - date_published: 2024-06-09T00:00:00+00:00
+ - date_dead_since: 2025-01-05T20:26:34.906555+00:00
 
  ## Google 翻譯修好了沒？ Has Google Fixed Translate Yet?
  - [https://isgooglefixed.tw](https://isgooglefixed.tw)
@@ -1160,11 +1285,11 @@
  - date_published: 2022-04-14T11:17:49+00:00
 
  ## Land Rover。四輪傳動車輛與奢華 SUV
- - [https://www.landrover.tw](https://www.landrover.tw)
+ - [https://landrover.tw](https://landrover.tw)
  - date_published: 2024-07-09T17:14:29.332190+00:00
 
  ## 《明日之後》暑期版本-藍潮狂湧上線，全新異變危機襲來！
- - [http://www.lifeafter.tw](http://www.lifeafter.tw)
+ - [https://www.lifeafter.tw](https://www.lifeafter.tw)
  - date_published: 2024-09-18T02:24:40.181929+00:00
 
  ## LINAK - 電動直線推桿運動技術系統
@@ -1176,15 +1301,15 @@
  - date_published: 2024-07-03T16:45:09.686001+00:00
 
  ## L. 羅恩 賀伯特：Scientology與Dianetics的創始人
- - [https://www.lronhubbard.tw](https://www.lronhubbard.tw)
+ - [https://lronhubbard.tw](https://lronhubbard.tw)
  - date_published: 2024-06-06T19:38:29.316801+00:00
 
  ## 瑪莎拉蒂官網 - 意大利瑪莎拉蒂豪華轎車-新款轎車 | Maserati TW
- - [http://www.maserati.tw](http://www.maserati.tw)
+ - [https://www.maserati.tw](https://www.maserati.tw)
  - date_published: 2024-07-12T05:40:55+00:00
 
  ## 邁萃斯精密股份有限公司 | Matrix Precision CO.,LTD.
- - [http://www.matrix-machine.tw](http://www.matrix-machine.tw)
+ - [https://www.matrix-machine.tw](https://www.matrix-machine.tw)
  - date_published: 2024-08-21T00:49:49+00:00
 
  ## ::: Medialand  Strategy x Digital x Creative x Media :::
@@ -1204,7 +1329,7 @@
  - date_published: 2024-07-02T08:52:14+00:00
 
  ## 半導體與電子元件代理商 - 貿澤電子Mouser Electronics 臺灣
- - [https://www.mouser.tw](https://www.mouser.tw)
+ - [https://mouser.tw](https://mouser.tw)
  - date_published: 2024-07-01T20:57:00.453643+00:00
 
  ## 免費家譜、族譜、家族史以及 DNA 檢測
@@ -1212,12 +1337,13 @@
  - date_published: 2024-10-30T07:56:29.801321+00:00
 
  ## 那可拿 | 毒品藥物戒除重建 | 毒品教育
- - [https://www.narconon.tw](https://www.narconon.tw)
+ - [https://narconon.tw](https://narconon.tw)
  - date_published: 2024-09-04T18:08:06.906700+00:00
 
  ## 403 - 禁止: 拒絕存取。
  - [http://awards.ndm.tw](http://awards.ndm.tw)
  - date_published: 2024-07-14T10:33:47.709154+00:00
+ - date_dead_since: 2025-01-05T20:31:01.845585+00:00
 
  ## NeoNetwork
  - [https://neocloud.tw](https://neocloud.tw)
@@ -1228,7 +1354,7 @@
  - date_published: 2024-06-16T00:00:00+00:00
 
  ## 任天堂官方網站(台灣)
- - [https://www.nintendo.tw](https://www.nintendo.tw)
+ - [https://nintendo.tw](https://nintendo.tw)
  - date_published: 2023-03-14T05:24:59+00:00
 
  ## 點心娛樂 - 娛樂平台
@@ -1240,11 +1366,11 @@
  - date_published: 2024-09-24T19:04:10+00:00
 
  ## Opel TW | 德藝放閃，新世代專屬德國車，就此啟動
- - [https://www.opel.tw](https://www.opel.tw)
+ - [https://opel.tw](https://opel.tw)
  - date_published: 2024-07-09T23:01:44+00:00
 
  ## Palo Alto Networks – 全球網路安全領導者 – 台灣
- - [https://www.paloaltonetworks.tw](https://www.paloaltonetworks.tw)
+ - [https://paloaltonetworks.tw](https://paloaltonetworks.tw)
  - date_published: 2024-10-19T17:40:43.178939+00:00
 
  ## Taiwan Public Holidays - PublicHolidays.tw
@@ -1276,7 +1402,7 @@
  - date_published: 2024-12-03T07:37:03.487164+00:00
 
  ## TAICCA 文化內容策進院
- - [https://taicca.tw](https://taicca.tw)
+ - [http://taicca.tw](http://taicca.tw)
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## STAGE@TAIPEI 101
@@ -1292,7 +1418,7 @@
  - date_published: 2024-01-19T00:00:00+00:00
 
  ## 《快樂之道》：道德教育，良好建議，品格價值觀，更快樂生活的美德
- - [http://www.thewaytohappiness.tw](http://www.thewaytohappiness.tw)
+ - [https://thewaytohappiness.tw](https://thewaytohappiness.tw)
  - date_published: 2024-09-04T17:53:25.091494+00:00
 
  ## 讓學生能夠盡其所能，完成原創作品 | Turnitin
@@ -1320,7 +1446,7 @@
  - date_published: 2024-12-10T18:16:37.044369+00:00
 
  ## 山達基志願牧師首頁，免費資訊。套裝組，志願牧師活動，線上免費研修，互動式資訊中心
- - [http://www.volunteerminister.tw](http://www.volunteerminister.tw)
+ - [https://volunteerminister.tw](https://volunteerminister.tw)
  - date_published: 2024-09-04T17:53:32.456525+00:00
 
  ## Vortex Keyboard
@@ -1332,7 +1458,7 @@
  - date_published: 2023-12-13T09:24:35+00:00
 
  ## WITTENSTEIN Taiwan
- - [https://www.wittenstein.tw](https://www.wittenstein.tw)
+ - [https://wittenstein.tw](https://wittenstein.tw)
  - date_published: 2024-07-15T04:09:58.575469+00:00
 
  ## 台灣女董事協會 | Empower Women For A Better World
@@ -1368,7 +1494,7 @@
  - date_published: 2023-10-25T22:47:55.846949+00:00
 
  ## XPPen 繪圖顯示器 | 繪圖板，繪圖更靈敏 | XPPen
- - [https://www.xppen.tw](https://www.xppen.tw)
+ - [https://xppen.tw](https://xppen.tw)
  - date_published: 2024-05-30T18:42:46.137956+00:00
 
  ## Custom Domain by Bitly
@@ -1376,11 +1502,11 @@
  - date_published: 2024-06-28T17:36:33+00:00
 
  ## 青少年人權協會組織：人權、歷史記錄片、資訊、新聞、教育套組和書籍
- - [http://www.youthforhumanrights.tw](http://www.youthforhumanrights.tw)
+ - [https://youthforhumanrights.tw](https://youthforhumanrights.tw)
  - date_published: 2024-08-29T11:27:31+00:00
 
  ## Zendesk： 完整的客戶服務解決方案
- - [https://www.zendesk.tw](https://www.zendesk.tw)
+ - [https://zendesk.tw](https://zendesk.tw)
  - date_published: 2020-10-15T12:00:00+00:00
 
  ## Zoetis
@@ -1395,13 +1521,13 @@
  - [https://dailynews.co.tz](https://dailynews.co.tz)
  - date_published: 2024-09-03T00:00:00+00:00
 
+ ## Google
+ - [https://google.co.tz](https://google.co.tz)
+ - date_published: 2024-06-21T22:22:58.790655+00:00
+
  ## Grafika Google
  - [https://images.google.co.tz](https://images.google.co.tz)
  - date_published: 2024-07-20T07:38:41.786291+00:00
-
- ## Google
- - [https://www.google.co.tz](https://www.google.co.tz)
- - date_published: 2024-06-21T22:22:58.790655+00:00
 
  ## Home - HabariLeo
  - [https://habarileo.co.tz](https://habarileo.co.tz)
@@ -1416,7 +1542,7 @@
  - date_published: 2024-06-17T17:22:44.960711+00:00
 
  ## Mwananchi
- - [https://www.mwananchi.co.tz](https://www.mwananchi.co.tz)
+ - [https://mwananchi.co.tz](https://mwananchi.co.tz)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## Mwananchi Scoop - Mwananchi Communications Ltd
@@ -1424,11 +1550,11 @@
  - date_published: 2024-10-20T00:02:23.144726+00:00
 
  ## Mwanaspoti
- - [https://www.mwanaspoti.co.tz](https://www.mwanaspoti.co.tz)
+ - [https://mwanaspoti.co.tz](https://mwanaspoti.co.tz)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## We are the world's leading testing, inspection and certification company.
- - [https://www.sgs.co.tz](https://www.sgs.co.tz)
+ - [https://sgs.co.tz](https://sgs.co.tz)
  - date_published: 2024-09-10T12:52:03.167613+00:00
 
  ## Home - SpotiLEO
@@ -1438,9 +1564,10 @@
  ## Swahilihub – Swahili Hub – Kitovu Cha Kiswahili
  - [https://swahilihub.co.tz](https://swahilihub.co.tz)
  - date_published: 2024-06-17T17:22:53.849825+00:00
+ - date_dead_since: 2025-01-05T20:38:31.394836+00:00
 
  ## The Citizen
- - [https://www.thecitizen.co.tz](https://www.thecitizen.co.tz)
+ - [https://thecitizen.co.tz](https://thecitizen.co.tz)
  - date_published: 2024-05-02T00:00:00+00:00
 
  ## Welcome to Vodacom Tanzania
@@ -1452,7 +1579,7 @@
  - date_published: 2024-06-27T09:52:47+00:00
 
  ## Ministry of Agriculture
- - [https://www.kilimo.go.tz](https://www.kilimo.go.tz)
+ - [https://kilimo.go.tz](https://kilimo.go.tz)
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## Login
@@ -1472,7 +1599,7 @@
  - date_published: 2024-09-10T11:07:12.109648+00:00
 
  ## East Africa PR Week Arusha 2024
- - [https://www.prweek.prst.or.tz](https://www.prweek.prst.or.tz)
+ - [https://prweek.prst.or.tz](https://prweek.prst.or.tz)
  - date_published: 2024-09-17T19:21:26.149831+00:00
 
  ## VERITAS |
@@ -1485,7 +1612,7 @@
  - date_published: 2019-05-03T11:29:18+00:00
 
  ## 3М Наука. Втілена в життя.™
- - [https://www.3m.com.ua](https://www.3m.com.ua)
+ - [https://3m.com.ua](https://3m.com.ua)
  - date_published: 2024-08-06T10:39:05.964100+00:00
 
  ## 4A Games
@@ -1517,11 +1644,11 @@
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## Атмосферна школа
- - [https://www.atschool.com.ua](https://www.atschool.com.ua)
+ - [https://atschool.com.ua](https://atschool.com.ua)
  - date_published: 2024-10-19T23:21:52.029267+00:00
 
  ## Интернет реклама и продвижение сайтов от Binet
- - [http://www.binet.com.ua](http://www.binet.com.ua)
+ - [https://binet.com.ua](https://binet.com.ua)
  - date_published: 2024-08-18T22:26:46.380560+00:00
 
  ## BlaBlaCar - пошук надійних попутників | BlaBlaCar
@@ -1545,11 +1672,11 @@
  - date_published: 2024-10-19T23:38:11.237163+00:00
 
  ## Побутова техніка Bosch: відчуйте якість, надійність і точність.
- - [https://www.bosch-home.com.ua](https://www.bosch-home.com.ua)
+ - [https://bosch-home.com.ua](https://bosch-home.com.ua)
  - date_published: 2024-06-16T21:35:26.985239+00:00
 
  ## Кафедра біотехнології і мікробіології - Національний університет харчових технологій
- - [http://btmb.com.ua](http://btmb.com.ua)
+ - [https://btmb.com.ua](https://btmb.com.ua)
  - date_published: 2024-06-17T16:59:52.845433+00:00
 
  ## Live Casino 2021 | Кращі живі казино, в які можна грати - Україна 2020 ✅
@@ -1557,7 +1684,7 @@
  - date_published: 2024-09-19T20:31:50.496477+00:00
 
  ## Cataloxy   - каталог фірм та організацій, безкоштовне створення сайтів-візиток в Украине
- - [https://www.cataloxy.com.ua](https://www.cataloxy.com.ua)
+ - [https://cataloxy.com.ua](https://cataloxy.com.ua)
  - date_published: 2024-06-29T19:39:31.651627+00:00
 
  ## Новини спорту на Чемпіоні ▷ спорт сьогодні онлайн
@@ -1566,10 +1693,10 @@
 
  ## Технології Smart Farming | Climate Fieldview™
  - [https://climatefieldview.com.ua](https://climatefieldview.com.ua)
- - date_published: 2024-10-22T21:35:51.745922+00:00
+ - date_published: 2024-09-20T07:55:01+00:00
 
  ## code-check.com.ua | Форма для перевiрки гарантiйних забов’язань щодо приладiв iмпортованих в Україну ТОВ «БСХ Побутова Техніка»
- - [https://www.code-check.com.ua](https://www.code-check.com.ua)
+ - [https://code-check.com.ua](https://code-check.com.ua)
  - date_published: 2024-01-30T00:00:00+00:00
 
  ## CrazyGames – Безкоштовні онлайн ігри на CrazyGames.com.ua
@@ -1597,7 +1724,7 @@
  - date_published: 2024-12-15T17:27:24.053188+00:00
 
  ## Dyson.com.ua
- - [https://www.dyson.com.ua](https://www.dyson.com.ua)
+ - [https://dyson.com.ua](https://dyson.com.ua)
  - date_published: 2024-07-07T01:56:52.404742+00:00
 
  ## Eltrino - веб-розробка рішень для електронної комерції - Eltrino
@@ -1605,11 +1732,11 @@
  - date_published: 2024-10-28T16:06:02+00:00
 
  ## Новини дня
- - [https://www.epochtimes.com.ua](https://www.epochtimes.com.ua)
+ - [https://epochtimes.com.ua](https://epochtimes.com.ua)
  - date_published: 2024-05-05T00:00:00+00:00
 
  ## Економічна правда
- - [https://www.epravda.com.ua](https://www.epravda.com.ua)
+ - [https://epravda.com.ua](https://epravda.com.ua)
  - date_published: 2024-05-02T10:41:25.084453+00:00
 
  ## Європейська правда
@@ -1629,11 +1756,11 @@
  - date_published: 2024-08-07T23:15:10.140932+00:00
 
  ## FranklinCovey Ukraine | The ultimate competitive advantage
- - [https://www.franklincovey.com.ua](https://www.franklincovey.com.ua)
+ - [https://franklincovey.com.ua](https://franklincovey.com.ua)
  - date_published: 2024-06-23T00:00:00+00:00
 
  ## Наймайте фрілансерів та знаходьте роботу для фрілансу онлайн
- - [https://www.freelancer.com.ua](https://www.freelancer.com.ua)
+ - [https://freelancer.com.ua](https://freelancer.com.ua)
  - date_published: 2024-06-16T12:00:16.491691+00:00
 
  ## Магазин игр
@@ -1652,20 +1779,20 @@
  - [http://golos.com.ua](http://golos.com.ua)
  - date_published: 2024-10-19T23:24:38.093208+00:00
 
+ ## Google
+ - [https://google.com.ua](https://google.com.ua)
+ - date_published: 2024-06-17T16:59:04.624712+00:00
+
  ## Grafika Google
  - [https://images.google.com.ua](https://images.google.com.ua)
  - date_published: 2024-07-20T07:38:08.391162+00:00
-
- ## Google
- - [https://www.google.com.ua](https://www.google.com.ua)
- - date_published: 2024-06-17T16:59:04.624712+00:00
 
  ## Web Hosting and domain name, from only for 1.99€ | Hostico
  - [https://hostico.com.ua](https://hostico.com.ua)
  - date_published: 2024-06-16T14:57:04.279823+00:00
 
  ## Увійдіть до Hostinger
- - [https://auth.hostinger.com.ua](https://auth.hostinger.com.ua)
+ - [http://auth.hostinger.com.ua](http://auth.hostinger.com.ua)
  - date_published: 2024-07-13T16:43:52.807085+00:00
 
  ## Хостинг від Hostinger Україна - Розмістіть сайт від 29₴/міс
@@ -1674,10 +1801,10 @@
 
  ## HR бек-офіс для вашого бізнесу
  - [https://hr-you.com.ua](https://hr-you.com.ua)
- - date_published: 2024-10-19T23:21:24.061900+00:00
+ - date_published: 2024-03-25T21:45:25+00:00
 
  ## Перевірка IBAN: перевірка міжнародного номера банківського рахунку
- - [https://www.iban.com.ua](https://www.iban.com.ua)
+ - [https://iban.com.ua](https://iban.com.ua)
  - date_published: 2024-08-30T00:00:00+00:00
 
  ## Exhibitions in Kyiv
@@ -1685,7 +1812,7 @@
  - date_published: 2024-06-15T21:19:27+00:00
 
  ## energy chains, polymer bearings, flexible cable, &amp; linear slides
- - [https://www.igus.com.ua](https://www.igus.com.ua)
+ - [https://igus.com.ua](https://igus.com.ua)
  - date_published: 2024-08-06T23:12:33.033003+00:00
 
  ## Главная | НПО "Инфотех" - Официальный дистрибьютор Hikvision в Украине.
@@ -1697,15 +1824,15 @@
  - date_published: 2024-05-08T09:02:45.195144+00:00
 
  ## Interfax-Ukraine - news from Ukraine and the world
- - [https://en.interfax.com.ua](https://en.interfax.com.ua)
+ - [http://en.interfax.com.ua](http://en.interfax.com.ua)
  - date_published: 2024-02-28T13:12:33.772179+00:00
 
  ## Attention Required! | Cloudflare
- - [https://interfax.com.ua](https://interfax.com.ua)
+ - [http://interfax.com.ua](http://interfax.com.ua)
  - date_published: 2024-05-02T10:41:31.084008+00:00
 
  ## Історична правда
- - [https://www.istpravda.com.ua](https://www.istpravda.com.ua)
+ - [https://istpravda.com.ua](https://istpravda.com.ua)
  - date_published: 2024-05-02T10:41:23.060881+00:00
 
  ## Jeep® SUVs & Crossovers - Official Jeep Site
@@ -1738,7 +1865,7 @@
 
  ## Український Медіа Дім
  - [https://mediadim.com.ua](https://mediadim.com.ua)
- - date_published: 2024-10-19T23:39:21.118137+00:00
+ - date_published: 2023-05-01T06:41:58+00:00
 
  ## Погода в Україні та світі
  - [https://meteofor.com.ua](https://meteofor.com.ua)
@@ -1753,7 +1880,7 @@
  - date_published: 2024-03-31T00:00:00+00:00
 
  ## Міжнародний виставковий центр | МВЦ Київ
- - [http://mvc-expo.com.ua](http://mvc-expo.com.ua)
+ - [https://mvc-expo.com.ua](https://mvc-expo.com.ua)
  - date_published: 2024-09-19T20:00:30.788636+00:00
 
  ## Безкоштовне родинне дерево, генеалогія, сімейна історія та ДНК-тестування
@@ -1781,7 +1908,7 @@
  - date_published: 2024-07-09T08:37:23.886748+00:00
 
  ## plusone social impact
- - [http://www.plusone.com.ua](http://www.plusone.com.ua)
+ - [https://plusone.com.ua](https://plusone.com.ua)
  - date_published: 2024-10-19T22:44:58.120105+00:00
 
  ## Все для татуажа в Украине, Киеве. Интернет магазин оборудования, материалов для перманентного макияжа
@@ -1801,7 +1928,7 @@
  - date_published: 2024-10-19T23:37:02.644046+00:00
 
  ## Платіжна система Portmone.com — оплати онлайн в Україні
- - [https://www.portmone.com.ua](https://www.portmone.com.ua)
+ - [https://portmone.com.ua](https://portmone.com.ua)
  - date_published: 2024-06-17T17:13:03.207817+00:00
 
  ## Цікаві новини та статті – Післязавтра
@@ -1832,6 +1959,11 @@
  - [https://life.pravda.com.ua](https://life.pravda.com.ua)
  - date_published: 2024-05-02T10:41:14.359297+00:00
 
+ ## Українська правда
+ - [https://pravda.com.ua](https://pravda.com.ua)
+ - date_published: 2023-10-31T19:10:45.452974+00:00
+ - tags: ['ukraine news']
+
  ## Промокоди на знижку до 60% ❤ Вигідні акції, бонуси та купони • Promokod.pravda.com.ua
  - [https://promokod.pravda.com.ua](https://promokod.pravda.com.ua)
  - date_published: 2024-05-02T10:41:41.535039+00:00
@@ -1840,17 +1972,12 @@
  - [https://tabloid.pravda.com.ua](https://tabloid.pravda.com.ua)
  - date_published: 2024-05-02T10:41:17.848192+00:00
 
- ## Українська правда
- - [https://www.pravda.com.ua](https://www.pravda.com.ua)
- - date_published: 2023-10-31T19:10:45.452974+00:00
- - tags: ['ukraine news']
-
  ## ПРАВЕКС БАНК | Офіційний сайт
- - [https://www.pravex.com.ua](https://www.pravex.com.ua)
+ - [https://pravex.com.ua](https://pravex.com.ua)
  - date_published: 2024-09-26T21:04:05.139942+00:00
 
  ## Cierpliwości...
- - [https://rozetka.com.ua](https://rozetka.com.ua)
+ - [http://rozetka.com.ua](http://rozetka.com.ua)
  - date_published: 2024-06-30T09:28:00.293698+00:00
 
  ## Заказать сайт Харьков, Киев - Разработка сайтов в Киеве, Харькове - Rubika
@@ -1858,15 +1985,15 @@
  - date_published: 2024-12-15T11:38:10.872239+00:00
 
  ## Консультации и тренинги по переговором по всему миру | Scotwork Украина
- - [https://www.scotwork.com.ua](https://www.scotwork.com.ua)
+ - [https://scotwork.com.ua](https://scotwork.com.ua)
  - date_published: 2024-06-18T09:42:48.593833+00:00
 
  ## We are the world's leading testing, inspection and certification company.
- - [https://www.sgsgroup.com.ua](https://www.sgsgroup.com.ua)
+ - [https://sgsgroup.com.ua](https://sgsgroup.com.ua)
  - date_published: 2024-06-26T10:38:36.419892+00:00
 
  ## Skyscanner
- - [https://www.skyscanner.com.ua](https://www.skyscanner.com.ua)
+ - [https://skyscanner.com.ua](https://skyscanner.com.ua)
  - date_published: 2024-05-14T10:10:11+00:00
 
  ## Soul of Soil
@@ -1900,9 +2027,10 @@
  ## Головні новини України - THE-NEWS.com.ua
  - [https://the-news.com.ua](https://the-news.com.ua)
  - date_published: 2023-11-03T17:12:53.092066+00:00
+ - date_dead_since: 2025-01-05T20:55:00.120051+00:00
 
  ## Tods Blog - Заработок в интернете и создание сайтов
- - [http://tods-blog.com.ua](http://tods-blog.com.ua)
+ - [https://tods-blog.com.ua](https://tods-blog.com.ua)
  - date_published: 2024-10-14T14:42:16.639716+00:00
 
  ## Онлайн казино Украины 2024 ⇒ ТОП рейтинг онлайн казино на реальные деньги
@@ -1922,7 +2050,7 @@
  - date_published: 2024-10-12T11:48:35+00:00
 
  ## Провідний інформаційний сайт в пакувальній індустрії | ІАЦ  Упаковка
- - [http://www.upakjour.com.ua](http://www.upakjour.com.ua)
+ - [https://upakjour.com.ua](https://upakjour.com.ua)
  - date_published: 2024-06-17T17:06:35.310810+00:00
 
  ## Україна За кермом ᐉ тест-драйви, автоновини, огляди
@@ -1938,7 +2066,7 @@
  - date_published: 2024-12-21T08:19:54.700492+00:00
 
  ## Тренажер з правопису української мови. Вправи онлайн (on-line).
- - [http://webpen.com.ua](http://webpen.com.ua)
+ - [https://webpen.com.ua](https://webpen.com.ua)
  - date_published: 2023-07-21T19:56:15+00:00
 
  ## Workfit - приложение для поиска фитнес тренера | UA
@@ -1962,15 +2090,15 @@
  - date_published: 2024-12-15T11:37:45.025182+00:00
 
  ## Львівський національний університет ветеринарної медицини та біотехнологій імені С. З. Ґжицького
- - [http://vstup.lvet.edu.ua](http://vstup.lvet.edu.ua)
+ - [https://vstup.lvet.edu.ua](https://vstup.lvet.edu.ua)
  - date_published: 2024-07-09T07:28:38.321245+00:00
 
  ## Факультет АКС НУХТ
- - [http://acs.nuft.edu.ua](http://acs.nuft.edu.ua)
+ - [https://acs.nuft.edu.ua](https://acs.nuft.edu.ua)
  - date_published: 2024-06-17T16:59:49.888824+00:00
 
  ## Кафедра БПБВ
- - [http://bpbv.nuft.edu.ua](http://bpbv.nuft.edu.ua)
+ - [https://bpbv.nuft.edu.ua](https://bpbv.nuft.edu.ua)
  - date_published: 2024-06-17T17:06:32.862180+00:00
 
  ## НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ ХАРЧОВИХ ТЕХНОЛОГІЙ
@@ -1982,11 +2110,11 @@
  - date_published: 2024-05-02T10:42:25.273704+00:00
 
  ## ННІ ЕіУ – Навчально-науковий інститут економіки і управління НУХТ
- - [http://eiu.nuft.edu.ua](http://eiu.nuft.edu.ua)
+ - [https://eiu.nuft.edu.ua](https://eiu.nuft.edu.ua)
  - date_published: 2024-06-17T17:05:56.363330+00:00
 
  ## ЕХП НУХТ
- - [http://expert.nuft.edu.ua](http://expert.nuft.edu.ua)
+ - [https://expert.nuft.edu.ua](https://expert.nuft.edu.ua)
  - date_published: 2024-06-17T17:06:30.323705+00:00
 
  ## ПІДГОТОВЧЕ ВІДДІЛЕННЯ
@@ -1994,15 +2122,15 @@
  - date_published: 2024-05-02T10:42:15.931219+00:00
 
  ## ГРС НУХТ
- - [http://grs.nuft.edu.ua](http://grs.nuft.edu.ua)
+ - [https://grs.nuft.edu.ua](https://grs.nuft.edu.ua)
  - date_published: 2024-06-17T16:59:33.603243+00:00
 
  ## hlib.nuft.edu.ua
- - [http://hlib.nuft.edu.ua](http://hlib.nuft.edu.ua)
+ - [https://hlib.nuft.edu.ua](https://hlib.nuft.edu.ua)
  - date_published: 2024-06-17T17:06:02.978254+00:00
 
  ## Кафедра ІТШІК НУХТ
- - [http://it.nuft.edu.ua](http://it.nuft.edu.ua)
+ - [https://it.nuft.edu.ua](https://it.nuft.edu.ua)
  - date_published: 2024-10-19T22:52:06.821910+00:00
 
  ## Національний університет харчових технологій | НУХТ
@@ -2010,7 +2138,7 @@
  - date_published: 2023-10-31T14:16:18+00:00
 
  ## nniti.nuft.edu.ua
- - [http://nniti.nuft.edu.ua](http://nniti.nuft.edu.ua)
+ - [https://nniti.nuft.edu.ua](https://nniti.nuft.edu.ua)
  - date_published: 2024-06-17T17:06:18.422322+00:00
 
  ## Національний університет харчових технологій
@@ -2018,7 +2146,7 @@
  - date_published: 2024-02-08T16:28:36.617149+00:00
 
  ## ПАХВ
- - [http://pahv.nuft.edu.ua](http://pahv.nuft.edu.ua)
+ - [https://pahv.nuft.edu.ua](https://pahv.nuft.edu.ua)
  - date_published: 2024-10-19T22:52:19.073566+00:00
 
  ## Gmail
@@ -2038,7 +2166,7 @@
  - date_published: 2024-05-03T08:38:15+00:00
 
  ## Велике банківське очищення
- - [http://badbanks.bank.gov.ua](http://badbanks.bank.gov.ua)
+ - [https://badbanks.bank.gov.ua](https://badbanks.bank.gov.ua)
  - date_published: 2023-12-19T12:36:09+00:00
 
  ## Національний банк України
@@ -2059,7 +2187,7 @@
 
  ## Експертна платформа | Аналітика, думки експертів
  - [https://expla.bank.gov.ua](https://expla.bank.gov.ua)
- - date_published: 2023-07-04T07:42:36+00:00
+ - date_published: 2020-02-05T11:43:03+00:00
 
  ## Форум з фінансової інклюзії
  - [https://fininclusion.bank.gov.ua](https://fininclusion.bank.gov.ua)
@@ -2094,8 +2222,8 @@
  - date_published: 2024-09-25T16:17:24.862296+00:00
 
  ## ПриватБанк під захистом держави
- - [http://pb.bank.gov.ua](http://pb.bank.gov.ua)
- - date_published: 2024-09-24T07:31:41+00:00
+ - [https://pb.bank.gov.ua](https://pb.bank.gov.ua)
+ - date_published: 2021-12-14T13:16:41+00:00
 
  ## Power Banking
  - [https://power.bank.gov.ua](https://power.bank.gov.ua)
@@ -2114,11 +2242,11 @@
  - date_published: 2024-06-17T16:14:26+00:00
 
  ## HTTP Server Test Page powered by CentOS
- - [https://sv1.ccu.gov.ua](https://sv1.ccu.gov.ua)
+ - [http://sv1.ccu.gov.ua](http://sv1.ccu.gov.ua)
  - date_published: 2021-07-03T13:48:21+00:00
 
  ## Головна - Центр адаптації державної служби до стандартів Європейського союзу
- - [http://www.center.gov.ua](http://www.center.gov.ua)
+ - [https://center.gov.ua](https://center.gov.ua)
  - date_published: 2024-10-19T23:07:55.709016+00:00
 
  ## CERT-UA
@@ -2126,7 +2254,7 @@
  - date_published: 2024-04-29T02:59:46.702609+00:00
 
  ## Портал відкритих даних
- - [http://data.gov.ua](http://data.gov.ua)
+ - [https://data.gov.ua](https://data.gov.ua)
  - date_published: 2021-01-26T00:00:00+00:00
 
  ## Дія.Відкриті дані
@@ -2175,10 +2303,10 @@
 
  ## Російсько-українська війна: докази
  - [https://dokaz.gov.ua](https://dokaz.gov.ua)
- - date_published: 2024-10-19T23:11:13.805688+00:00
+ - date_published: 2024-09-02T10:07:41+00:00
 
  ## Головна
- - [http://dpsu.gov.ua](http://dpsu.gov.ua)
+ - [https://dpsu.gov.ua](https://dpsu.gov.ua)
  - date_published: 2024-10-19T23:00:05.496999+00:00
 
  ## Державна служба України з питань праці - Державна служба України з питань праці
@@ -2202,15 +2330,15 @@
  - date_published: 2024-10-19T23:05:35.624131+00:00
 
  ## Diia.Business Trade With Ukraine
- - [https://imp.export.gov.ua](https://imp.export.gov.ua)
+ - [http://imp.export.gov.ua](http://imp.export.gov.ua)
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## Комісія з регулювання азартних ігор та лотерей
- - [https://www.gc.gov.ua](https://www.gc.gov.ua)
+ - [https://gc.gov.ua](https://gc.gov.ua)
  - date_published: 2024-10-13T08:29:41.162614+00:00
 
  ## Головне управління розвідки МО України
- - [https://gur.gov.ua](https://gur.gov.ua)
+ - [http://gur.gov.ua](http://gur.gov.ua)
  - date_published: 2024-07-01T10:30:08+00:00
 
  ## Вища школа публічного управління -
@@ -2226,7 +2354,7 @@
  - date_published: 2024-06-17T17:10:12.832413+00:00
 
  ## Головна
- - [https://www.inforesurs.gov.ua](https://www.inforesurs.gov.ua)
+ - [https://inforesurs.gov.ua](https://inforesurs.gov.ua)
  - date_published: 2024-10-19T23:05:34.550970+00:00
 
  ## Інвестиції в Київ та Україну, інвестиційні проекти Києва, пропозиції для бізнесу від України та Києва
@@ -2258,15 +2386,15 @@
  - date_published: 2024-10-19T23:13:36.376703+00:00
 
  ## Ukraine Facility Plan
- - [https://www.ukrainefacility.me.gov.ua](https://www.ukrainefacility.me.gov.ua)
+ - [https://ukrainefacility.me.gov.ua](https://ukrainefacility.me.gov.ua)
  - date_published: 2024-10-19T23:13:38.350408+00:00
 
  ## Attention Required! | Cloudflare
- - [https://czechia.mfa.gov.ua](https://czechia.mfa.gov.ua)
+ - [http://czechia.mfa.gov.ua](http://czechia.mfa.gov.ua)
  - date_published: 2024-07-17T08:37:26.215317+00:00
 
  ## Україна – НАТО - Головна
- - [http://ukraine-nato.mfa.gov.ua](http://ukraine-nato.mfa.gov.ua)
+ - [https://ukraine-nato.mfa.gov.ua](https://ukraine-nato.mfa.gov.ua)
  - date_published: 2024-09-19T19:47:56.600165+00:00
 
  ## Десантно-штурмові війська – Десантно-штурмові війська Збройних Сил України
@@ -2274,11 +2402,11 @@
  - date_published: 2024-09-19T19:47:51.719390+00:00
 
  ## Міністерство
- - [https://mil.gov.ua](https://mil.gov.ua)
+ - [http://mil.gov.ua](http://mil.gov.ua)
  - date_published: 2024-06-15T21:19:10.140758+00:00
 
  ## СИЛИ СПЕЦІАЛЬНИХ ОПЕРАЦІЙ ЗС УКРАЇНИ
- - [http://sof.mil.gov.ua](http://sof.mil.gov.ua)
+ - [https://sof.mil.gov.ua](https://sof.mil.gov.ua)
  - date_published: 2024-09-19T19:43:00+00:00
 
  ## Сили територіальної оборони ЗСУ: офіційна сторінка СТрО Збройних Сил України, тероборона ЗСУ України
@@ -2318,7 +2446,7 @@
  - date_published: 2024-06-17T17:10:04.156572+00:00
 
  ## Cierpliwości...
- - [https://moz.gov.ua](https://moz.gov.ua)
+ - [http://moz.gov.ua](http://moz.gov.ua)
  - date_published: 2024-06-17T17:13:11.775016+00:00
 
  ## МВС України
@@ -2334,7 +2462,7 @@
  - date_published: 2024-10-19T23:08:00.014129+00:00
 
  ## НАЗК | Національне агентство з питань запобігання корупції
- - [http://nazk.gov.ua](http://nazk.gov.ua)
+ - [https://nazk.gov.ua](https://nazk.gov.ua)
  - date_published: 2024-09-19T19:47:31.623032+00:00
 
  ## ПУНКТ НЕЗЛАМНОСТІ
@@ -2346,7 +2474,7 @@
  - date_published: 2024-10-19T23:37:46.856048+00:00
 
  ## Уповноважений Верховної Ради України з прав людини - Головна
- - [http://www.ombudsman.gov.ua](http://www.ombudsman.gov.ua)
+ - [https://ombudsman.gov.ua](https://ombudsman.gov.ua)
  - date_published: 2024-06-17T17:10:34.149085+00:00
 
  ## Електронні петиції — Офіційне інтернет-представництво Президента України
@@ -2358,11 +2486,11 @@
  - date_published: 2024-06-17T17:10:51.754134+00:00
 
  ## ПРОСТІР - Національна платіжна система України
- - [http://prostir.gov.ua](http://prostir.gov.ua)
+ - [https://prostir.gov.ua](https://prostir.gov.ua)
  - date_published: 2024-09-25T16:17:17.372230+00:00
 
  ## Open Public Finance
- - [https://www.publicfinance.gov.ua](https://www.publicfinance.gov.ua)
+ - [https://publicfinance.gov.ua](https://publicfinance.gov.ua)
  - date_published: 2024-10-19T23:11:37.121943+00:00
 
  ## Пульс - фідбек від бізнесу
@@ -2378,11 +2506,11 @@
  - date_published: 2024-03-13T15:01:21+00:00
 
  ## Електронний кабінет громадянина
- - [http://itd.rada.gov.ua](http://itd.rada.gov.ua)
+ - [https://itd.rada.gov.ua](https://itd.rada.gov.ua)
  - date_published: 2024-06-17T17:11:03.383101+00:00
 
  ## Бібліотечні ресурси
- - [http://lib.rada.gov.ua](http://lib.rada.gov.ua)
+ - [https://lib.rada.gov.ua](https://lib.rada.gov.ua)
  - date_published: 2024-06-17T17:10:50.290112+00:00
 
  ## Освітній центр
@@ -2390,11 +2518,11 @@
  - date_published: 2024-06-17T17:11:02.169185+00:00
 
  ## Офіційний портал Верховної Ради України
- - [http://portal.rada.gov.ua](http://portal.rada.gov.ua)
+ - [https://portal.rada.gov.ua](https://portal.rada.gov.ua)
  - date_published: 2024-09-19T19:47:45.396323+00:00
 
  ## Офіційний портал Верховної Ради України
- - [http://rada.gov.ua](http://rada.gov.ua)
+ - [https://rada.gov.ua](https://rada.gov.ua)
  - date_published: 2024-06-17T17:08:00.457907+00:00
 
  ## Дослідницька служба Верховної Ради України
@@ -2402,7 +2530,7 @@
  - date_published: 2024-06-17T17:11:04.571356+00:00
 
  ## Äèðåêö³ÿ Òåëåðàä³îïðîãðàì Âåðõîâíî¿ Ðàäè Óêðà¿íè
- - [http://tv.rada.gov.ua](http://tv.rada.gov.ua)
+ - [https://tv.rada.gov.ua](https://tv.rada.gov.ua)
  - date_published: 2023-11-24T14:55:18+00:00
 
  ## Управління кадрів
@@ -2410,12 +2538,13 @@
  - date_published: 2024-06-17T17:11:13.182205+00:00
 
  ## Управління з питань звернень громадян
- - [http://vzvernen.rada.gov.ua](http://vzvernen.rada.gov.ua)
+ - [https://vzvernen.rada.gov.ua](https://vzvernen.rada.gov.ua)
  - date_published: 2024-06-17T17:10:59.081958+00:00
 
  ## Про Реєстр НПА
  - [https://www.reestrnpa.gov.ua](https://www.reestrnpa.gov.ua)
  - date_published: 2024-05-02T10:41:57.724310+00:00
+ - date_dead_since: 2025-01-05T21:12:04.341208+00:00
 
  ## Рада національної безпеки і оборони України
  - [https://rnbo.gov.ua](https://rnbo.gov.ua)
@@ -2434,12 +2563,12 @@
  - date_published: 2024-08-07T15:00:40.581853+00:00
 
  ## Study in Ukraine – Ukrainian State Center for International Education
- - [http://studyinukraine.gov.ua](http://studyinukraine.gov.ua)
+ - [https://studyinukraine.gov.ua](https://studyinukraine.gov.ua)
  - date_published: 2024-06-17T17:06:15.807527+00:00
 
  ## Податкова карта України
  - [https://map.tax.gov.ua](https://map.tax.gov.ua)
- - date_published: 2024-10-19T23:19:19.134074+00:00
+ - date_published: 2024-10-16T09:54:26+00:00
 
  ## Державна податкова служба України
  - [https://tax.gov.ua](https://tax.gov.ua)
@@ -2450,7 +2579,7 @@
  - date_published: 2024-06-17T17:09:15.239058+00:00
 
  ## Pisa Ukraine - дослідження заради якості освіти
- - [http://pisa.testportal.gov.ua](http://pisa.testportal.gov.ua)
+ - [https://pisa.testportal.gov.ua](https://pisa.testportal.gov.ua)
  - date_published: 2024-06-17T17:10:05.191771+00:00
 
  ## Український центр оцінювання якості освіти
@@ -2495,10 +2624,10 @@
 
  ## EUКраїна – все, що ви хотіли знати про євроінтеграцію
  - [https://association4u.in.ua](https://association4u.in.ua)
- - date_published: 2024-10-19T23:13:40.206057+00:00
+ - date_published: 2023-11-19T17:39:40+00:00
 
  ## Благодійний фонд "Повернись живим" - допомoга ЗСУ
- - [https://www.comebackalive.in.ua](https://www.comebackalive.in.ua)
+ - [https://comebackalive.in.ua](https://comebackalive.in.ua)
  - date_published: 2024-06-27T12:48:30.940238+00:00
 
  ## Home — Debiania
@@ -2522,7 +2651,7 @@
  - date_published: 2024-06-17T17:10:18.311014+00:00
 
  ## ONLINE REGISTRATION
- - [http://www.iec-expo.in.ua](http://www.iec-expo.in.ua)
+ - [https://iec-expo.in.ua](https://iec-expo.in.ua)
  - date_published: 2024-09-19T20:00:32+00:00
 
  ## Розробка та просування сайтів в Україні – веб студія «Jam»
@@ -2542,7 +2671,7 @@
  - date_published: 2024-10-19T23:21:16.524941+00:00
 
  ## Home
- - [http://nuft.in.ua](http://nuft.in.ua)
+ - [https://nuft.in.ua](https://nuft.in.ua)
  - date_published: 2024-06-17T17:07:47.373489+00:00
 
  ## Онлайн казино Украины топ рейтинг казино на деньги 2024
@@ -2602,7 +2731,7 @@
  - date_published: 2024-06-15T19:40:38.753494+00:00
 
  ## Apache2 Ubuntu Default Page: It works
- - [http://aspirantura.imath.kiev.ua](http://aspirantura.imath.kiev.ua)
+ - [https://aspirantura.imath.kiev.ua](https://aspirantura.imath.kiev.ua)
  - date_published: 2022-08-26T17:27:19+00:00
 
  ## BigBlueButton
@@ -2618,7 +2747,7 @@
  - date_published: 2024-05-01T04:17:07.544790+00:00
 
  ## Первинна профспілкова організація Інституту математики НАН України | Інформація та новини
- - [http://profcom.imath.kiev.ua](http://profcom.imath.kiev.ua)
+ - [https://profcom.imath.kiev.ua](https://profcom.imath.kiev.ua)
  - date_published: 2024-06-15T19:40:36.210600+00:00
 
  ## IMATH Roundcube Webmail :: Ласкаво просимо до IMATH Roundcube Webmail
@@ -2626,11 +2755,11 @@
  - date_published: 2024-06-15T19:40:36+00:00
 
  ## Школа журналістики - Блоґ
- - [http://j-school.kiev.ua](http://j-school.kiev.ua)
+ - [https://j-school.kiev.ua](https://j-school.kiev.ua)
  - date_published: 2024-07-21T06:10:16.139891+00:00
 
  ## KitSoft - IT for government and business
- - [http://www.kitsoft.kiev.ua](http://www.kitsoft.kiev.ua)
+ - [https://kitsoft.kiev.ua](https://kitsoft.kiev.ua)
  - date_published: 2024-06-17T17:08:24.130023+00:00
 
  ## MAGNET · magic network · МАГНЕТ • magic network
@@ -2654,11 +2783,11 @@
  - date_published: 2024-10-19T23:25:33.870349+00:00
 
  ## Доступ заблоковано
- - [https://city-adm.lviv.ua](https://city-adm.lviv.ua)
+ - [http://city-adm.lviv.ua](http://city-adm.lviv.ua)
  - date_published: 2024-07-01T07:53:29.059221+00:00
 
  ## Коворкінг Львів | Оренда офісу Львів | CoMMuna
- - [http://communa.net.ua](http://communa.net.ua)
+ - [https://communa.net.ua](https://communa.net.ua)
  - date_published: 2024-09-02T12:48:07+00:00
 
  ## English Group | Home
@@ -2666,7 +2795,7 @@
  - date_published: 2024-12-15T10:26:48.373149+00:00
 
  ## Новини зі Львова від інтернет-видання Leopolis News
- - [http://leopolis.net.ua](http://leopolis.net.ua)
+ - [https://leopolis.net.ua](https://leopolis.net.ua)
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## Головна • Назарет
@@ -2698,7 +2827,7 @@
  - date_published: 2024-06-15T21:19:45.807331+00:00
 
  ## Головна сторінка - Центр демократії та верховенства права
- - [http://www.cedem.org.ua](http://www.cedem.org.ua)
+ - [https://cedem.org.ua](https://cedem.org.ua)
  - date_published: 2024-06-17T16:57:49.116602+00:00
 
  ## Common Help UA | гуманітарний проєкт підтримки України
@@ -2710,7 +2839,7 @@
  - date_published: 2024-06-17T16:58:03.611693+00:00
 
  ## DVV Eastern Neighbours
- - [https://www.dvv-international.org.ua](https://www.dvv-international.org.ua)
+ - [https://dvv-international.org.ua](https://dvv-international.org.ua)
  - date_published: 2024-10-19T23:21:47.571223+00:00
 
  ## Мережа Українських Освітніх Хабів
@@ -2718,11 +2847,11 @@
  - date_published: 2024-06-13T15:12:10+00:00
 
  ## Home | Фонд Східна Європа
- - [http://eef.org.ua](http://eef.org.ua)
+ - [https://eef.org.ua](https://eef.org.ua)
  - date_published: 2021-04-12T21:29:42+00:00
 
  ## Програма EGAP
- - [http://egap.org.ua](http://egap.org.ua)
+ - [https://egap.org.ua](https://egap.org.ua)
  - date_published: 2024-06-17T17:08:13.093533+00:00
 
  ## Ейдос центр політичних студій та аналітики
@@ -2730,7 +2859,7 @@
  - date_published: 2024-12-12T06:48:04.353037+00:00
 
  ## eurodesk.org.ua
- - [http://eurodesk.org.ua](http://eurodesk.org.ua)
+ - [https://eurodesk.org.ua](https://eurodesk.org.ua)
  - date_published: 2024-09-15T20:58:04.426982+00:00
 
  ## EWTN | Телебачення Віковічного Слова в Україні
@@ -2742,7 +2871,7 @@
  - date_published: 2024-10-30T20:33:58.928938+00:00
 
  ## GDG DevFest Ukraine 2022
- - [http://devfest.gdg.org.ua](http://devfest.gdg.org.ua)
+ - [https://devfest.gdg.org.ua](https://devfest.gdg.org.ua)
  - date_published: 2022-12-02T19:11:04+00:00
 
  ## Index of /
@@ -2754,7 +2883,7 @@
  - date_published: 2024-05-08T00:00:00+00:00
 
  ## Welcome [Puszcza]
- - [http://ps.gnu.org.ua](http://ps.gnu.org.ua)
+ - [https://ps.gnu.org.ua](https://ps.gnu.org.ua)
  - date_published: 2024-07-18T17:09:56.258795+00:00
 
  ## Welcome [Puszcza]
@@ -2762,7 +2891,7 @@
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Українська Гельсінська спілка з прав людини
- - [https://www.helsinki.org.ua](https://www.helsinki.org.ua)
+ - [https://helsinki.org.ua](https://helsinki.org.ua)
  - date_published: 2024-08-11T11:40:44.528501+00:00
 
  ## Національний музей Голодомору-геноциду
@@ -2790,7 +2919,7 @@
  - date_published: 2024-09-03T20:24:46.806124+00:00
 
  ## First Casino ᐈ Украина ⇒  Ферст казино онлайн | Бонусы и Промокоды
- - [http://lvivjs.org.ua](http://lvivjs.org.ua)
+ - [https://lvivjs.org.ua](https://lvivjs.org.ua)
  - date_published: 2024-07-14T10:54:28.153132+00:00
 
  ## Metro UI Components Library
@@ -2806,8 +2935,9 @@
  - date_published: 2024-06-17T16:58:02.391635+00:00
 
  ## Prometheus – Найбільша платформа онлайн-курсів в Україні
- - [https://prometheus.org.ua](https://prometheus.org.ua)
+ - [http://prometheus.org.ua](http://prometheus.org.ua)
  - date_published: 2024-09-19T00:00:00+00:00
+ - date_dead_since: 2025-01-05T21:27:53.969860+00:00
 
  ## Виявлення та протидія внутрішнім та зовнішнім загрозам економічній безпеці України
  - [https://reb.org.ua](https://reb.org.ua)
@@ -2854,7 +2984,7 @@
  - date_published: 2024-10-19T23:21:59.759059+00:00
 
  ## Home - UNHCR Україна
- - [http://unhcr.org.ua](http://unhcr.org.ua)
+ - [https://unhcr.org.ua](https://unhcr.org.ua)
  - date_published: 2024-10-19T23:00:15.870890+00:00
 
  ## UNIC — нова ініціатива для бізнесу в Україні
@@ -2870,7 +3000,7 @@
  - date_published: 2024-04-28T12:41:42+00:00
 
  ## Domain Default page
- - [http://html.te.ua](http://html.te.ua)
+ - [https://html.te.ua](https://html.te.ua)
  - date_published: 2024-05-15T07:17:11+00:00
 
  ## Новини - свіжі події в Україні та світі | 112.ua
@@ -2982,7 +3112,7 @@
  - date_published: 2024-06-27T11:20:02.248900+00:00
 
  ## Motorola EZX & MAGX site - Main page
- - [http://motoezx.at.ua](http://motoezx.at.ua)
+ - [https://motoezx.at.ua](https://motoezx.at.ua)
  - date_published: 1970-01-01T00:00:05+00:00
 
  ## Офіційний сайт Audi в Україні | Audi в Україні
@@ -3898,116 +4028,4 @@
  ## WWF-Україна
  - [https://wwf.ua](https://wwf.ua)
  - date_published: 2024-05-07T23:57:59.970151+00:00
-
- ## Центр прав людини ZMINA
- - [https://zmina.ua](https://zmina.ua)
- - date_published: 2019-03-15T12:17:06+00:00
-
- ## Інтернет магазин "Золотий Вік" - золото, ювелірні вироби - мережа ювелірних магазинів у Львові, Києві, Білій Церкві, Тернополі, Вінниці, Івано-Франківську. Каталог ювелірних виробів.
- - [https://zolotoyvek.ua](https://zolotoyvek.ua)
- - date_published: 2024-06-30T09:28:51.228700+00:00
-
- ## .:: Home | Kampala International University, Uganda
- - [http://www.kiu.ac.ug](http://www.kiu.ac.ug)
- - date_published: 2024-12-24T09:33:37.346993+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.co.ug](https://maps.google.co.ug)
- - date_published: 2024-07-20T07:39:05.080892+00:00
-
- ## Google
- - [https://www.google.co.ug](https://www.google.co.ug)
- - date_published: 2024-06-21T22:23:22.834781+00:00
-
- ## Home
- - [https://www.monitor.co.ug](https://www.monitor.co.ug)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home - The Microfinance Support Centre Ltd
- - [https://www.msc.co.ug](https://www.msc.co.ug)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## New Vision
- - [https://www.newvision.co.ug](https://www.newvision.co.ug)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## NTV Uganda
- - [https://www.ntv.co.ug](https://www.ntv.co.ug)
- - date_published: 2023-10-25T22:48:05.575547+00:00
-
- ## Home - National Water & Sewerage Corporation
- - [https://www.nwsc.co.ug](https://www.nwsc.co.ug)
- - date_published: 2023-11-29T14:35:30+00:00
-
- ## Climate Change Department
- - [http://ccd.go.ug](http://ccd.go.ug)
- - date_published: 2024-10-11T13:00:53.581933+00:00
-
- ## The Inspectorate of Government | Zero Tolerance to Corruption
- - [http://www.igg.go.ug](http://www.igg.go.ug)
- - date_published: 2024-10-11T13:00:26.116640+00:00
-
- ## Ministry of Water and Environment
- - [https://mwe.go.ug](https://mwe.go.ug)
- - date_published: 2024-06-16T15:36:04.640299+00:00
-
- ## NWQRL – National Water Quality Reference Laboratory
- - [https://nwqrl.mwe.go.ug](https://nwqrl.mwe.go.ug)
- - date_published: 2024-10-11T13:00:13.596672+00:00
-
- ## WFP DB | Ministry  of Water and Environment
- - [http://wfpdb.mwe.go.ug](http://wfpdb.mwe.go.ug)
- - date_published: 2024-10-11T13:00:55.377156+00:00
-
- ## Login to Webmin
- - [https://wis.mwe.go.ug](https://wis.mwe.go.ug)
- - date_published: 2024-10-11T12:59:42.772883+00:00
-
- ## Water Resource Institute
- - [http://wri.mwe.go.ug](http://wri.mwe.go.ug)
- - date_published: 2024-10-11T13:00:36.048947+00:00
-
- ## Uganda Water Supply Atlas
- - [http://wsdb.mwe.go.ug](http://wsdb.mwe.go.ug)
- - date_published: 2024-10-11T13:00:31.396588+00:00
-
- ## Uganda Trade Portal
- - [https://ugandatrades.go.ug](https://ugandatrades.go.ug)
- - date_published: 2024-10-11T12:59:59.292046+00:00
-
- ## Authorization
- - [https://mwe.umcs.go.ug](https://mwe.umcs.go.ug)
- - date_published: 2024-10-11T12:59:54.462261+00:00
-
- ## UNMA - Uganda National Meteorological Authority | Providing Meteorological, Hydrological & related services
- - [https://www.unma.go.ug](https://www.unma.go.ug)
- - date_published: 2024-10-11T13:00:29.452925+00:00
-
- ## NFA Uganda: A Guide to Uganda's Forests
- - [http://www.nfa.org.ug](http://www.nfa.org.ug)
- - date_published: 2022-07-26T17:25:22+00:00
-
- ## Hotfrog - Get found online
- - [https://www.hotfrog.ug](https://www.hotfrog.ug)
- - date_published: 2024-06-29T16:52:02.425831+00:00
-
- ## Hi Mom!‌
- - [https://omrelli.ug](https://omrelli.ug)
- - date_published: 2021-02-11T02:43:46+00:00
-
- ## PHP-UserGroup - One home for one community
- - [https://php.ug](https://php.ug)
- - date_published: 2024-05-12T06:38:34.986727+00:00
-
- ## Breaking News & Top Stories
- - [https://www.pulse.ug](https://www.pulse.ug)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Latest Sports News &amp; Updates
- - [https://www.pulsesports.ug](https://www.pulsesports.ug)
- - date_published: 2024-09-22T00:00:00+00:00
-
- ## AA School
- - [https://www.aaschool.ac.uk](https://www.aaschool.ac.uk)
- - date_published: 2024-05-06T21:16:15.785583+00:00
 

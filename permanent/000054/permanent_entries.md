@@ -1,3 +1,19 @@
+ ## The Intelligence Illusion: a practical guide to the business risks of Generative AI
+ - [https://illusion.baldurbjarnason.com](https://illusion.baldurbjarnason.com)
+ - date_published: 2024-04-30T02:18:24.560000+00:00
+
+ ## Baldur Bjarnason
+ - [https://notes.baldurbjarnason.com](https://notes.baldurbjarnason.com)
+ - date_published: 2024-05-29T15:13:30+00:00
+
+ ## Out of the Software Crisis: Systems-Thinking for Software Projects
+ - [https://softwarecrisis.baldurbjarnason.com](https://softwarecrisis.baldurbjarnason.com)
+ - date_published: 2024-04-30T02:18:25.962625+00:00
+
+ ## Baldur Bjarnason's Store
+ - [https://store.baldurbjarnason.com](https://store.baldurbjarnason.com)
+ - date_published: 2024-07-22T11:51:52.113943+00:00
+
  ## Baldur's Gate
  - [https://baldursgate.com](https://baldursgate.com)
  - date_published: 2024-07-01T12:39:03+00:00
@@ -3988,20 +4004,4 @@
  ## 猫 シ Corp.
  - [https://catsystemcorp.bandcamp.com](https://catsystemcorp.bandcamp.com)
  - date_published: 2024-12-22T07:35:47.317651+00:00
-
- ## Nineteen Eighty-Fur, by Cat Temper
- - [https://cattemper.bandcamp.com](https://cattemper.bandcamp.com)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Catton Arthur
- - [https://cattonarthur.bandcamp.com](https://cattonarthur.bandcamp.com)
- - date_published: 2024-12-26T22:37:17.607912+00:00
-
- ## Caural
- - [https://caural.bandcamp.com](https://caural.bandcamp.com)
- - date_published: 2024-12-27T06:06:59.348661+00:00
-
- ## The Medicine Is All Gone, by Caustic Resin
- - [https://causticresinburns.bandcamp.com](https://causticresinburns.bandcamp.com)
- - date_published: 2024-12-27T09:55:57.269515+00:00
 

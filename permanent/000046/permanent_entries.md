@@ -1,3 +1,15 @@
+ ## Boost Your Online Presence with Expert Digital Marketing
+ - [https://www.alternewmedia.com](https://www.alternewmedia.com)
+ - date_published: 2018-01-19T01:09:31+00:00
+
+ ## Alternative to popular SaaS products (Free/ OpenSource or with Great Deals) build by Indie, suggest by Indie
+ - [https://alteropen.com](https://alteropen.com)
+ - date_published: 2024-10-30T08:00:19.970858+00:00
+
+ ## Alterra Mountain Company
+ - [https://www.alterramtnco.com](https://www.alterramtnco.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
  ## ALTER TECHNOLOGY GROUP TÜV NORD
  - [https://www.altertechnology-group.com](https://www.altertechnology-group.com)
  - date_published: 2024-12-13T11:34:11+00:00
@@ -872,6 +884,10 @@
  ## Amantes Villas and Suites · Nikiti Halkidiki Greece
  - [https://amantesvillassuites.com](https://amantesvillassuites.com)
  - date_published: 2024-02-07T13:31:31+00:00
+
+ ## Amanvir Parhar | Builder, CS @ UMD
+ - [https://amanvir.com](https://amanvir.com)
+ - date_published: 2025-01-05T04:41:19.105096+00:00
 
  ## 高德地图车机版
  - [https://auto.amap.com](https://auto.amap.com)
@@ -4032,20 +4048,4 @@
  ## Taboo's Homepage
  - [https://analblaze.com](https://analblaze.com)
  - date_published: 2015-07-06T03:58:48+00:00
-
- ## Mixed-signal and digital signal processing ICs | Analog Devices
- - [https://analog.com](https://analog.com)
- - date_published: 2023-10-25T12:40:41.557402+00:00
-
- ## Shopping Cart | Analog Devices
- - [https://eshop.analog.com](https://eshop.analog.com)
- - date_published: 2024-08-19T10:49:56.564447+00:00
-
- ## EngineerZone
- - [https://ez.analog.com](https://ez.analog.com)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Analog Astronaut Conference 2025  May 1-4 at Biosphere 2, Arizona, USA.
- - [https://tickets.analog-astronaut.com](https://tickets.analog-astronaut.com)
- - date_published: 2024-10-19T20:05:32.455379+00:00
 

@@ -1,3 +1,95 @@
+ ## 당사는 세계 최고의 테스트, 검사 및 인증 회사입니다
+ - [https://www.sgsgroup.kr](https://www.sgsgroup.kr)
+ - date_published: 2024-09-10T12:52:27.999071+00:00
+
+ ## 전북특별자치도 소방본부
+ - [http://www.sobang.kr](http://www.sobang.kr)
+ - date_published: 2024-12-13T06:41:21.603016+00:00
+
+ ## BundleUp - Baby Clothing
+ - [https://bundleup-baby-clothing.softonic.kr](https://bundleup-baby-clothing.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## 챌린저스 - 뷰티 득템 앱
+ - [https://caelrinjeoseu-byuti-deugtem-aeb.softonic.kr](https://caelrinjeoseu-byuti-deugtem-aeb.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Crochet.Land
+ - [https://crochet-land.softonic.kr](https://crochet-land.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## デジラアプリ ～auのデータ残量確認とデータチャージ～
+ - [https://deziraapuri-aunodetacan-liang-que-ren-todetachiyazi.softonic.kr](https://deziraapuri-aunodetacan-liang-que-ren-todetachiyazi.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## FaceMagic - AI Face Editor
+ - [https://facemagic-ai-face-editor.softonic.kr](https://facemagic-ai-face-editor.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Football Story (by fructus temporum)
+ - [https://football-story-fructus-temporum.softonic.kr](https://football-story-fructus-temporum.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Forgotten Mines
+ - [https://forgotten-mines.softonic.kr](https://forgotten-mines.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## FreeStyle LibreLink  KW
+ - [https://freestyle-librelink-kw.softonic.kr](https://freestyle-librelink-kw.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## فیلتر شکن قوی پرسرعت Tiger VPN
+ - [https://fyltr-shkhn-qwy-prsr-t-tiger-vpn.softonic.kr](https://fyltr-shkhn-qwy-prsr-t-tiger-vpn.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Gamers Deal
+ - [https://gamers-deal.softonic.kr](https://gamers-deal.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Illuvium
+ - [https://illuvium.softonic.kr](https://illuvium.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Kids Games: Safety Education
+ - [https://kids-games-safety-education.softonic.kr](https://kids-games-safety-education.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Lilja and Natsuka Painting Lies
+ - [https://lilja-and-natsuka-painting-lies.softonic.kr](https://lilja-and-natsuka-painting-lies.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Linkito
+ - [https://linkito.softonic.kr](https://linkito.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## MCon K
+ - [https://mcon-k.softonic.kr](https://mcon-k.softonic.kr)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Microsoft Edge
+ - [https://microsoft-edge.softonic.kr](https://microsoft-edge.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Microsoft Teams
+ - [https://microsoft-teams.softonic.kr](https://microsoft-teams.softonic.kr)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## MoneyMe for windows
+ - [https://moneyme-for-windows.softonic.kr](https://moneyme-for-windows.softonic.kr)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Pochemeow Pro
+ - [https://pochemeow.softonic.kr](https://pochemeow.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Qjob - Helyi szakemberek
+ - [https://qjob-helyi-szakemberek.softonic.kr](https://qjob-helyi-szakemberek.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Rock Paper Scissors ULTIMATE
+ - [https://rock-paper-scissors-ultimate.softonic.kr](https://rock-paper-scissors-ultimate.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
  ## Roia
  - [https://roia.softonic.kr](https://roia.softonic.kr)
  - date_published: 2024-08-01T00:00:00+00:00
@@ -3028,6 +3120,10 @@
  - [https://snapp.li](https://snapp.li)
  - date_published: 2024-08-08T12:30:43.470637+00:00
 
+ ## soweli toki
+ - [https://sowe.li](https://sowe.li)
+ - date_published: 2024-12-10T18:48:11+00:00
+
  ## ᐉ Short URL service | Surli - FREE Short Links
  - [http://surl.li](http://surl.li)
  - date_published: 2024-11-09T17:41:00.172777+00:00
@@ -3933,100 +4029,4 @@
  ## Stock trading (zero commission) & investment app | Freetrade
  - [https://freetrade.app.link](https://freetrade.app.link)
  - date_published: 2024-04-23T00:00:00+00:00
-
- ## The Calories Expert: Health Experts Are Wrong About Calories & Diet Coke! Layne Norton
- - [https://g2ul0.app.link](https://g2ul0.app.link)
- - date_published: 2024-03-14T01:00:16+00:00
-
- ## GEICO's Mobile App ~ Free Insurance App | GEICO
- - [https://geico.app.link](https://geico.app.link)
- - date_published: 2024-06-16T10:53:13.838854+00:00
-
- ## Buy, Sell & Trade Bitcoin & Other Crypto Currencies with Gemini's Platform | Gemini
- - [https://geminiexchange.app.link](https://geminiexchange.app.link)
- - date_published: 2024-06-16T12:15:16.559078+00:00
-
- ## Flex | Pay Rent on Your Own Schedule
- - [https://getflex.app.link](https://getflex.app.link)
- - date_published: 2024-09-12T17:05:16+00:00
-
- ## Goodpods 🎧 | Discover, Play & Share Your Favorite Podcasts
- - [https://goodpods.app.link](https://goodpods.app.link)
- - date_published: 2024-07-03T21:20:25.004927+00:00
-
- ## Great Eastern App | Digital Services | Great Eastern Singapore
- - [https://greateasternsg.app.link](https://greateasternsg.app.link)
- - date_published: 2024-12-23T08:15:36+00:00
-
- ## GridRival
- - [https://gridrival.app.link](https://gridrival.app.link)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Portal
- - [https://hallow.app.link](https://hallow.app.link)
- - date_published: 2024-05-16T02:48:38.727309+00:00
-
- ## Meditation and Sleep Made Simple - Headspace
- - [https://headspace.app.link](https://headspace.app.link)
- - date_published: 2024-06-14T15:27:41.605095+00:00
-
- ## Meditation and Sleep Made Simple - Headspace
- - [https://headspace-web.app.link](https://headspace-web.app.link)
- - date_published: 2024-04-30T21:00:33.344062+00:00
-
- ## Hotels by Hilton - Book the Best Rates Across All Brands
- - [https://hilton.app.link](https://hilton.app.link)
- - date_published: 2024-06-28T11:40:40.216906+00:00
-
- ## hipages: Australia's Largest Online Tradie Marketplace - hipages.com.au
- - [https://hipagesconsumer.app.link](https://hipagesconsumer.app.link)
- - date_published: 2024-07-15T05:39:05.582351+00:00
-
- ## Ignite Tournaments | Esports in Your Pocket
- - [https://ignitetournaments.app.link](https://ignitetournaments.app.link)
- - date_published: 2024-08-29T19:01:49+00:00
-
- ## Invideo AI - Turn ideas into videos - AI video creator
- - [https://invideo-ai.app.link](https://invideo-ai.app.link)
- - date_published: 2024-10-30T10:10:04.956249+00:00
-
- ## Commons
- - [https://j09c5.app.link](https://j09c5.app.link)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Official JOANN™ Fabric and Craft Stores Online
- - [https://joann.app.link](https://joann.app.link)
- - date_published: 2024-06-30T09:55:56.974284+00:00
-
- ## Linktree: Link everything you are
- - [https://linktree.app.link](https://linktree.app.link)
- - date_published: 2024-05-07T22:55:27.351818+00:00
-
- ## Linq: meet, manage, and close more leads.
- - [https://linqapp.app.link](https://linqapp.app.link)
- - date_published: 2024-09-19T22:05:53.683736+00:00
-
- ## LTK | Fashion, Home, Beauty, Fitness and More
- - [https://ltk.app.link](https://ltk.app.link)
- - date_published: 2024-06-29T20:55:59.357347+00:00
-
- ## Your World of Fashion | Lyst
- - [https://lyst.app.link](https://lyst.app.link)
- - date_published: 2024-10-14T15:08:56.770052+00:00
-
- ## Online Bus Ticket Booking with Best Offers and Lowest Price - redBus
- - [https://m6pe.app.link](https://m6pe.app.link)
- - date_published: 2024-10-11T14:21:21.253927+00:00
-
- ## Credit Scores and Reports with Monitoring | SmartCredit
- - [https://m9186.app.link](https://m9186.app.link)
- - date_published: 2024-10-31T08:26:54.363026+00:00
-
- ## Turn emails into revenue | Mailchimp
- - [https://mailchimp.app.link](https://mailchimp.app.link)
- - date_published: 2024-06-16T17:20:43.165054+00:00
-
- ## Home
- - [https://mastersofscale.app.link](https://mastersofscale.app.link)
- - date_published: 2024-05-07T00:00:00+00:00
 

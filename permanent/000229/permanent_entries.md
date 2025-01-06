@@ -1,3 +1,81 @@
+ ## War Bird SERIES | tadstaxidermy
+ - [https://tadstaxidermy.com](https://tadstaxidermy.com)
+ - date_published: 2024-08-20T05:36:36.200823+00:00
+
+ ## Umami
+ - [https://analytics.taecontrol.com](https://analytics.taecontrol.com)
+ - date_published: 2024-07-22T12:50:14.960905+00:00
+
+ ## Total Annihilation Forever
+ - [https://taforever.com](https://taforever.com)
+ - date_published: 2024-07-09T21:32:27.062985+00:00
+
+ ## TAF Publications
+ - [http://www.tafpublications.com](http://www.tafpublications.com)
+ - date_published: 2024-10-29T17:11:54.553707+00:00
+
+ ## Professional Digital Services | Digital  Marketing Agency-TAFSOL
+ - [https://tafsol.com](https://tafsol.com)
+ - date_published: 2024-04-08T18:14:17+00:00
+
+ ## Taft | The Modern Law Firm
+ - [https://taftlaw.com](https://taftlaw.com)
+ - date_published: 2024-09-05T10:07:46.818084+00:00
+
+ ## Welcome
+ - [https://tag1consulting.com](https://tag1consulting.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## TAG3 – Bottom Line Medtech
+ - [https://tag3engineering.com](https://tag3engineering.com)
+ - date_published: 2024-09-05T21:21:48.895247+00:00
+
+ ## TagAirlines - Vuelos baratos, nacionales e internacionales
+ - [https://tagairlines.com](https://tagairlines.com)
+ - date_published: 2024-12-12T01:30:11+00:00
+
+ ## Home - Tagari Publications
+ - [https://tagaripublications.com](https://tagaripublications.com)
+ - date_published: 2024-07-10T05:57:44+00:00
+
+ ## Home Page
+ - [http://www.tagari-usa.com](http://www.tagari-usa.com)
+ - date_published: 2024-12-16T12:03:25.053956+00:00
+
+ ## Tagboard
+ - [https://account.tagboard.com](https://account.tagboard.com)
+ - date_published: 2024-06-14T16:12:38+00:00
+
+ ## Tagboard
+ - [https://landing.tagboard.com](https://landing.tagboard.com)
+ - date_published: 2024-06-15T03:20:54.244870+00:00
+
+ ## Tagboard
+ - [https://static.tagboard.com](https://static.tagboard.com)
+ - date_published: 2024-05-01T02:15:30.112609+00:00
+
+ ## Knowledge Base
+ - [https://support.tagboard.com](https://support.tagboard.com)
+ - date_published: 2024-06-13T00:12:01+00:00
+
+ ## Tagboard
+ - [https://tagboard.com](https://tagboard.com)
+ - date_published: 2024-06-15T03:20:45.071762+00:00
+
+ ## Commanders Act - Sign In
+ - [https://redirect227.tagcommander.com](https://redirect227.tagcommander.com)
+ - date_published: 2024-07-03T06:09:50.242944+00:00
+ - date_dead_since: 2024-12-16T12:05:21.480508+00:00
+
+ ## The Cookieless Marketing Data Platform by Commanders Act
+ - [http://www.tagcommander.com](http://www.tagcommander.com)
+ - date_published: 2024-02-15T10:28:32+00:00
+ - date_dead_since: 2024-12-16T12:10:22.948024+00:00
+
+ ## Deutsche Nachrichten - Aktuelle Nachrichten. Klar und Direkt
+ - [https://www.tagde24.com](https://www.tagde24.com)
+ - date_published: 2024-12-26T16:32:17.950984+00:00
+
  ## TAG-DS
  - [https://tagds.com](https://tagds.com)
  - date_published: 2024-07-20T06:10:34.521657+00:00
@@ -3974,82 +4052,4 @@
  ## U.S. Expat Tax Services | Tax Preperation Abroad | 1040 Abroad
  - [https://taxsamurai.com](https://taxsamurai.com)
  - date_published: 2024-06-30T04:03:58.448075+00:00
-
- ## Tayari Jones
- - [https://tayarijones.com](https://tayarijones.com)
- - date_published: 2024-06-23T07:09:26.461834+00:00
-
- ## Ben Taylor's Webosphere
- - [https://taybenlor.com](https://taybenlor.com)
- - date_published: 2024-04-30T02:14:29.119053+00:00
-
- ## Taygeta
- - [https://taygeta.com](https://taygeta.com)
- - date_published: 2022-05-03T17:19:15+00:00
-
- ## Strategy & Operations Consultancy | Transport Industry
- - [https://taylorairey.com](https://taylorairey.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Author Services | How to publish a journal article - step by step guides
- - [https://authorservices.taylorandfrancis.com](https://authorservices.taylorandfrancis.com)
- - date_published: 2024-10-19T10:41:39.675172+00:00
-
- ## Sign In | Taylor & Francis Author Portal
- - [https://authors.taylorandfrancis.com](https://authors.taylorandfrancis.com)
- - date_published: 2024-04-28T05:46:18.297280+00:00
-
- ## Taylor & Francis中国-提供专业的出版服务和全球网络支持
- - [https://china.taylorandfrancis.com](https://china.taylorandfrancis.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Research insights, expert analysis, and blogs - Taylor & Francis
- - [https://insights.taylorandfrancis.com](https://insights.taylorandfrancis.com)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Librarian Resources By Taylor and Francis
- - [https://librarianresources.taylorandfrancis.com](https://librarianresources.taylorandfrancis.com)
- - date_published: 2024-07-09T12:41:35.059813+00:00
-
- ## Taylor & Francis - Harnessing the Power of Knowledge
- - [https://taylorandfrancis.com](https://taylorandfrancis.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Front Page
- - [https://think.taylorandfrancis.com](https://think.taylorandfrancis.com)
- - date_published: 2024-10-18T17:51:38.217973+00:00
-
- ## Taylor & Francis Newsroom - Global research making the news
- - [https://newsroom.taylorandfrancisgroup.com](https://newsroom.taylorandfrancisgroup.com)
- - date_published: 2023-12-22T12:19:01.091178+00:00
-
- ## Taylor & Francis - Fostering human progress through knowledge
- - [https://taylorandfrancisgroup.com](https://taylorandfrancisgroup.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Conor Taylor
- - [https://taylorconor.com](https://taylorconor.com)
- - date_published: 2023-07-16T13:06:27+00:00
-
- ## Taylor County Chamber of Commerce
- - [https://taylorcountychamber.com](https://taylorcountychamber.com)
- - date_published: 2024-07-03T15:03:39.692836+00:00
-
- ## Welcome to Taylor County, FL
- - [https://www.taylorcountygov.com](https://www.taylorcountygov.com)
- - date_published: 2024-07-03T15:03:36.786604+00:00
- - date_dead_since: 2024-12-19T06:42:56.349136+00:00
-
- ## Taylorcraft :: America's Wings
- - [https://taylorcraft.com](https://taylorcraft.com)
- - date_published: 2019-10-22T00:48:32+00:00
-
- ## taylordrayson
- - [https://taylordrayson.com](https://taylordrayson.com)
- - date_published: 2024-05-07T14:12:01.108011+00:00
- - tags: ['personal']
-
- ## Help Center - Librarian/Institution
- - [https://help.taylorfrancis.com](https://help.taylorfrancis.com)
- - date_published: 2023-07-10T12:40:45+00:00
 

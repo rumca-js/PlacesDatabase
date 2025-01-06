@@ -1,3 +1,79 @@
+ ## METAXU | Hannah Close | Substack
+ - [https://hannahlclose.substack.com](https://hannahlclose.substack.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Sustainability by numbers | Hannah Ritchie | Substack
+ - [https://hannahritchie.substack.com](https://hannahritchie.substack.com)
+ - date_published: 2024-01-09T01:40:40.867001+00:00
+
+ ## Happy Chasing | Petter Haga | Substack
+ - [https://happychasing.substack.com](https://happychasing.substack.com)
+ - date_published: 2023-10-25T09:53:28.318342+00:00
+ - tags: ['substack']
+
+ ## HardFacts | Jeff Carlson & Hans Mahncke | Substack
+ - [https://hardfacts.substack.com](https://hardfacts.substack.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Hard Pivot | jeff tang | Substack
+ - [https://hardpivot.substack.com](https://hardpivot.substack.com)
+ - date_published: 2023-10-25T09:53:30.197949+00:00
+ - tags: ['substack']
+
+ ## Michael's Unreasonable Hope | Michael Hardt | Substack
+ - [https://hardt.substack.com](https://hardt.substack.com)
+ - date_published: 2024-09-15T12:16:23.580474+00:00
+
+ ## Hardware FYI | Substack
+ - [https://hardwarefyi.substack.com](https://hardwarefyi.substack.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Occasional Viewpoints | Peter Hargreaves | Substack
+ - [https://hargreavesp.substack.com](https://hargreavesp.substack.com)
+ - date_published: 2024-05-13T02:46:33.548468+00:00
+
+ ## Harry’s Substack | Harry Binswanger | Substack
+ - [https://harrybinswanger.substack.com](https://harrybinswanger.substack.com)
+ - date_published: 2024-10-31T22:40:00.832005+00:00
+
+ ## Harry’s Substack | Substack
+ - [https://harrytaussig.substack.com](https://harrytaussig.substack.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Harmony | Harshal Patil | Substack
+ - [https://harshalpatil.substack.com](https://harshalpatil.substack.com)
+ - date_published: 2024-05-04T09:19:08.135773+00:00
+
+ ## The Thom Hartmann Radio & TV Program | Substack
+ - [https://hartmannprogram.substack.com](https://hartmannprogram.substack.com)
+ - date_published: 2024-05-04T09:19:29.556838+00:00
+
+ ## Hasen Judi | Substack
+ - [https://hasen.substack.com](https://hasen.substack.com)
+ - date_published: 2023-10-25T09:53:32.676350+00:00
+ - tags: ['substack']
+
+ ## Hashed Emergent • Team Blog | Substack
+ - [https://hashedem.substack.com](https://hashedem.substack.com)
+ - date_published: 2024-06-16T04:35:51.253132+00:00
+
+ ## The Hat List | Kyle Lambert | Substack
+ - [https://hatlist.substack.com](https://hatlist.substack.com)
+ - date_published: 2024-09-04T04:11:14.704124+00:00
+
+ ## havemania | Roy Havemann | Substack
+ - [https://havemania.substack.com](https://havemania.substack.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Haver & Sparrow | Charlene Storey | Substack
+ - [https://haverandsparrow.substack.com](https://haverandsparrow.substack.com)
+ - date_published: 2024-08-19T05:03:11.448566+00:00
+
+ ## Headlines | Fitt Insider | Substack
+ - [https://headlineshq.substack.com](https://headlineshq.substack.com)
+ - date_published: 2023-10-25T09:53:34.487257+00:00
+ - tags: ['substack']
+
  ## The Healthy Dev | Tom White | Substack
  - [https://healthydev.substack.com](https://healthydev.substack.com)
  - date_published: 2024-06-01T04:51:57.145979+00:00
@@ -4007,78 +4083,4 @@
  ## Ravi Joseph | Substack
  - [http://ravijoseph1.substack.com](http://ravijoseph1.substack.com)
  - date_published: 2024-02-26T00:00:00+00:00
-
- ## Ravi Parikh’s Newsletter | Substack
- - [https://ravisparikh.substack.com](https://ravisparikh.substack.com)
- - date_published: 2024-01-09T01:43:34.420329+00:00
-
- ## Lazy Afternoons | Ravi Teja Kanta | Substack
- - [https://ravitejakanta.substack.com](https://ravitejakanta.substack.com)
- - date_published: 2023-10-25T10:01:35.638481+00:00
- - tags: ['substack']
-
- ## Beautiful Terrible Things | Ray Edwards | Substack
- - [https://rayedwards.substack.com](https://rayedwards.substack.com)
- - date_published: 2024-05-09T06:21:23.227157+00:00
-
- ## rants by razberry | Substack
- - [https://razberry.substack.com](https://razberry.substack.com)
- - date_published: 2023-11-15T18:40:37.968645+00:00
-
- ## Razib Khan's Unsupervised Learning | Substack
- - [https://razib.substack.com](https://razib.substack.com)
- - date_published: 2023-10-25T10:01:38.890917+00:00
- - tags: ['substack']
-
- ## Coding on Autopilot | Robert Brennan | Substack
- - [https://rbren.substack.com](https://rbren.substack.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## 2050 | Peter Havers | Substack
- - [https://read2050.substack.com](https://read2050.substack.com)
- - date_published: 2024-01-09T01:43:36.185877+00:00
-
- ## Home | Substack
- - [https://reader.substack.com](https://reader.substack.com)
- - date_published: 2024-09-09T23:05:14.717039+00:00
-
- ## The Wonderful Books of Oz | Substack
- - [https://readingoz.substack.com](https://readingoz.substack.com)
- - date_published: 2024-07-26T03:33:36.591925+00:00
-
- ## polymathematics | Substack
- - [https://readpolymathematics.substack.com](https://readpolymathematics.substack.com)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Lesser Tedium | Ernie Smith | Substack
- - [https://readtedium.substack.com](https://readtedium.substack.com)
- - date_published: 2024-04-30T07:05:03.975189+00:00
-
- ## Read. Write. Concurrently | Pham Nguyen Hung | Substack
- - [https://readwriteconcurrently.substack.com](https://readwriteconcurrently.substack.com)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## Reality 2.0 Newsletter | Substack
- - [https://reality2.substack.com](https://reality2.substack.com)
- - date_published: 2024-08-06T09:28:09.481777+00:00
-
- ## Real Kinetic | Substack
- - [https://realkinetic.substack.com](https://realkinetic.substack.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Real Progressives Substack | Substack
- - [https://realprogressives.substack.com](https://realprogressives.substack.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## By Reason Alone | Sam Enright | Substack
- - [https://reasonalone.substack.com](https://reasonalone.substack.com)
- - date_published: 2024-12-27T21:18:57.839776+00:00
-
- ## Reason for Living | Thomas Walker-Werth | Substack
- - [https://reasonforliving.substack.com](https://reasonforliving.substack.com)
- - date_published: 2024-10-31T22:38:49.028480+00:00
-
- ## The Reath Report | Jeff Carswell | Substack
- - [https://reathai.substack.com](https://reathai.substack.com)
- - date_published: 2024-04-24T00:00:00+00:00
 

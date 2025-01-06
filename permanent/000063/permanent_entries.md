@@ -1,3 +1,19 @@
+ ## Bitcoin ATMs - anonymous cryptocurrency ATMs ✅
+ - [http://www.bitomat.com](http://www.bitomat.com)
+ - date_published: 2024-09-22T00:00:00+00:00
+
+ ## Bitovi - Digital Product Consulting
+ - [https://bitovi.com](https://bitovi.com)
+ - date_published: 2024-07-14T10:11:08+00:00
+
+ ## Bitovi
+ - [https://forums.bitovi.com](https://forums.bitovi.com)
+ - date_published: 2024-07-14T11:08:52.098115+00:00
+
+ ## BitOwl Productions
+ - [http://bitowl.com](http://bitowl.com)
+ - date_published: 2024-07-11T16:54:18.166658+00:00
+
  ## BitPay: The Best Crypto App to Pay with Crypto + Accept Payments
  - [https://bitpay.com](https://bitpay.com)
  - date_published: 2024-04-30T06:29:41.216803+00:00
@@ -4041,20 +4057,4 @@
  - [https://blogofdrew.com](https://blogofdrew.com)
  - date_published: 2023-12-17T05:08:07.684561+00:00
  - tags: ['personal']
-
- ## Blog of Holding
- - [https://www.blogofholding.com](https://www.blogofholding.com)
- - date_published: 2024-07-15T09:44:05.656138+00:00
-
- ## Ex Real SJ- Define your world in a whole new way
- - [http://www.blogofthegods.com](http://www.blogofthegods.com)
- - date_published: 2023-04-04T19:16:54+00:00
-
- ## Home Page - Blog of the Planet of the Apes
- - [https://blogoftheplanetoftheapes.com](https://blogoftheplanetoftheapes.com)
- - date_published: 2024-07-18T11:26:21+00:00
-
- ## Blog Oh! Blog
- - [http://www.blogohblog.com](http://www.blogohblog.com)
- - date_published: 2024-06-22T23:19:03.916104+00:00
 

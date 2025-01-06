@@ -1,3 +1,84 @@
+ ## Tudock - Digital Commerce aus Hamburg
+ - [https://tudock.de](https://tudock.de)
+ - date_published: 2024-06-27T16:09:25.103270+00:00
+
+ ## Data Mining Group – TU Dortmund
+ - [https://dm.cs.tu-dortmund.de](https://dm.cs.tu-dortmund.de)
+ - date_published: 2024-10-31T15:18:00+00:00
+
+ ## Home - TU Dortmund, Informatik 2
+ - [http://ls2-www.cs.tu-dortmund.de](http://ls2-www.cs.tu-dortmund.de)
+ - date_published: 2024-06-30T08:55:53.996393+00:00
+ - date_dead_since: 2025-01-04T13:08:31.552180+00:00
+
+ ## Startseite - TU Dortmund
+ - [https://tu-dortmund.de](https://tu-dortmund.de)
+ - date_published: 2024-07-21T05:15:50+00:00
+
+ ## Scientific Understanding and Deep Neural Networks
+ - [https://udnn.tu-dortmund.de](https://udnn.tu-dortmund.de)
+ - date_published: 2024-07-01T05:47:38.455634+00:00
+
+ ## Professur für Privacy and Security
+ - [https://dud.inf.tu-dresden.de](https://dud.inf.tu-dresden.de)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Technische Universität Dresden
+ - [https://tu-dresden.de](https://tu-dresden.de)
+ - date_published: 2024-07-10T05:50:57.093759+00:00
+
+ ## Willkommen in Tübingen
+ - [https://tuebingen.de](https://tuebingen.de)
+ - date_published: 2024-08-11T22:00:07+00:00
+
+ ## Innentüren, Haustüren und mehr... einfach mal Türen kaufen!
+ - [https://tuerenheld.de](https://tuerenheld.de)
+ - date_published: 2024-07-12T16:55:19.487210+00:00
+
+ ## TÜV NORD | Wir machen die Welt sicherer.
+ - [https://tuev-nord.de](https://tuev-nord.de)
+ - date_published: 2024-12-13T14:21:44.021328+00:00
+
+ ## TÜV Saarland: Sicherheit & Neutralität für Industrie und Technik
+ - [https://tuev-saar.de](https://tuev-saar.de)
+ - date_published: 2024-08-11T04:22:56.087017+00:00
+
+ ## TÜV Thüringen: Qualität und Sicherheit aus dem Herzen Deutschlands
+ - [https://tuev-thueringen.de](https://tuev-thueringen.de)
+ - date_published: 2024-10-29T11:11:06.832407+00:00
+
+ ## tufee® Services & Grosklos
+ - [http://www.tufee.de](http://www.tufee.de)
+ - date_published: 2024-11-16T20:31:17.305972+00:00
+
+ ## Technik für die Menschen
+ - [https://tuhh.de](https://tuhh.de)
+ - date_published: 2024-07-01T11:37:57.983913+00:00
+
+ ## TU-Ideenwettbewerb 2024
+ - [https://tu-ideenwettbewerb.de](https://tu-ideenwettbewerb.de)
+ - date_published: 2024-07-24T04:23:20.642998+00:00
+
+ ## Weiterleitung
+ - [https://campus.tu-ilmenau.de](https://campus.tu-ilmenau.de)
+ - date_published: 2024-02-08T07:22:17+00:00
+
+ ## TU Ilmenau Cloud
+ - [https://cloud.tu-ilmenau.de](https://cloud.tu-ilmenau.de)
+ - date_published: 2024-06-19T15:37:55.346709+00:00
+
+ ## Search Home | Ilmenauer Discovery Tool
+ - [https://find.bibliothek.tu-ilmenau.de](https://find.bibliothek.tu-ilmenau.de)
+ - date_published: 2006-03-09T00:00:00+00:00
+
+ ## Sign In
+ - [https://intranet.tu-ilmenau.de](https://intranet.tu-ilmenau.de)
+ - date_published: 2024-06-19T15:37:46.880504+00:00
+
+ ## Startseite
+ - [https://ladon.patent-inf.tu-ilmenau.de](https://ladon.patent-inf.tu-ilmenau.de)
+ - date_published: 2024-10-29T11:11:14+00:00
+
  ## Mobility Online
  - [https://mobility.tu-ilmenau.de](https://mobility.tu-ilmenau.de)
  - date_published: 2020-05-28T09:14:43+00:00
@@ -3954,84 +4035,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## Institut für Psychologie - Institut für Psychologie
  - [https://psychologie.uni-wuerzburg.de](https://psychologie.uni-wuerzburg.de)
  - date_published: 2024-07-24T03:33:49.676635+00:00
-
- ## Rechenzentrum & IT-Dienste - Rechenzentrum
- - [https://rz.uni-wuerzburg.de](https://rz.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:01:39.299213+00:00
-
- ## Institut für Sonderpädagogik - Institut für Sonderpädagogik
- - [https://sonderpaedagogik.uni-wuerzburg.de](https://sonderpaedagogik.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:33:38.361949+00:00
-
- ## Sportwissenschaft
- - [https://sportwissenschaft.uni-wuerzburg.de](https://sportwissenschaft.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:33:45.661562+00:00
-
- ## Katholisch-Theologische Fakultät - Katholisch-Theologische Fakultät
- - [https://theologie.uni-wuerzburg.de](https://theologie.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:01:29.815347+00:00
-
- ## Startseite
- - [http://udi.germanistik.uni-wuerzburg.de](http://udi.germanistik.uni-wuerzburg.de)
- - date_published: 2016-03-19T20:30:14+00:00
-
- ## Universität Würzburg - Universität Würzburg
- - [https://uni-wuerzburg.de](https://uni-wuerzburg.de)
- - date_published: 2024-07-24T03:31:59.461709+00:00
-
- ## User Portal ifi
- - [https://user.informatik.uni-wuerzburg.de](https://user.informatik.uni-wuerzburg.de)
- - date_published: 2024-12-10T17:09:59.370102+00:00
-
- ## Sign In
- - [https://user-portal.rz.uni-wuerzburg.de](https://user-portal.rz.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:40:59.867026+00:00
-
- ## Virtuelle Bibliothek Würzburg
- - [http://vb.uni-wuerzburg.de](http://vb.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:31:57.044566+00:00
-
- ## Sign in to your account
- - [https://webstats.uni-wuerzburg.de](https://webstats.uni-wuerzburg.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## IfI Wiki | IfI - central IT systems
- - [https://wiki.informatik.uni-wuerzburg.de](https://wiki.informatik.uni-wuerzburg.de)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Wirtschaftswissenschaftl. Fakultät
- - [https://wiwi.uni-wuerzburg.de](https://wiwi.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:01:41.170563+00:00
-
- ## WueAddress
- - [https://wueaddress.uni-wuerzburg.de](https://wueaddress.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:01:37.303194+00:00
-
- ## Home | WueCampus
- - [https://wuecampus.uni-wuerzburg.de](https://wuecampus.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:02:01.568733+00:00
-
- ## Startseite | WueStart
- - [https://wuestart.uni-wuerzburg.de](https://wuestart.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:01:42.347308+00:00
-
- ## Weiterleitung
- - [https://wuestudy.uni-wuerzburg.de](https://wuestudy.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:02:02.712387+00:00
-
- ## Weiterleitung
- - [https://wuestudy.zv.uni-wuerzburg.de](https://wuestudy.zv.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:01:50.633519+00:00
-
- ## Micro Focus Vibe
- - [https://wueteams.uni-wuerzburg.de](https://wueteams.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:33:44.131393+00:00
-
- ## Würzburg University Press - Würzburg University Press
- - [https://wup.uni-wuerzburg.de](https://wup.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:01:45.121955+00:00
-
- ## UBWü - Go to Homepage
- - [https://www2.bibliothek.uni-wuerzburg.de](https://www2.bibliothek.uni-wuerzburg.de)
- - date_published: 2017-03-13T07:14:51+00:00
 

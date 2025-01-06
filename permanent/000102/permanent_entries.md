@@ -1,3 +1,19 @@
+ ## DeviceTalks West | Premier MedTech Events
+ - [https://west.devicetalks.com](https://west.devicetalks.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Devici | Smart Threat Modeling Tool
+ - [https://devici.com](https://devici.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Devicu
+ - [https://www.devicu.com](https://www.devicu.com)
+ - date_published: 2021-02-26T03:41:49+00:00
+
+ ## บาคาร่าผ่านเว็บ น่าเล่น บาคาร่าสมัครง่าย168 เว็บตรง
+ - [https://devil789.com](https://devil789.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
  ## Devildash - Das verrückte Magazin für Technik
  - [https://devildash.com](https://devildash.com)
  - date_published: 2024-05-02T00:00:00+00:00
@@ -4029,20 +4045,4 @@ A blog about programming, distributed systems and others
  ## DirectIndustry - The B2B marketplace for industrial equipment: sensors, automation, motors, pumps, handling materials, packaging, etc.
  - [https://www.directindustry.com](https://www.directindustry.com)
  - date_published: 2024-08-08T21:02:32.169781+00:00
-
- ## La seule source d’information en gestion des TI au Québec | Direction Informatique
- - [https://directioninformatique.com](https://directioninformatique.com)
- - date_published: 2022-05-22T18:03:57+00:00
-
- ## Optimize Your Microsoft Decisions
- - [https://directionsonmicrosoft.com](https://directionsonmicrosoft.com)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Berkey Drinking Water Purification Systems & More | 1-877-886-3653
- - [https://www.directive21.com](https://www.directive21.com)
- - date_published: 2024-05-06T17:14:26.596543+00:00
-
- ## Directive 8020
- - [https://directive8020.com](https://directive8020.com)
- - date_published: 2024-08-20T18:25:20+00:00
 

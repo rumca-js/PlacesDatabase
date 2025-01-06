@@ -1,3 +1,91 @@
+ ## Columbia Giving
+ - [https://artsideas.givenow.columbia.edu](https://artsideas.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:53.975579+00:00
+
+ ## Home - Arts Initiative at Columbia University
+ - [https://artsinitiative.columbia.edu](https://artsinitiative.columbia.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Columbia University Libraries Blogs
+ - [https://blogs.cul.columbia.edu](https://blogs.cul.columbia.edu)
+ - date_published: 2024-07-22T05:45:09.750235+00:00
+
+ ## State of the Planet – News from the Columbia Climate School
+ - [https://blogs.ei.columbia.edu](https://blogs.ei.columbia.edu)
+ - date_published: 2024-05-07T18:39:19.404820+00:00
+
+ ## Brown Institute
+ - [https://brown.columbia.edu](https://brown.columbia.edu)
+ - date_published: 2024-07-01T20:06:59.362349+00:00
+
+ ## Columbia University < Columbia University
+ - [http://bulletin.columbia.edu](http://bulletin.columbia.edu)
+ - date_published: 2024-07-21T12:10:44+00:00
+
+ ## BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment
+ - [https://busybot.cs.columbia.edu](https://busybot.cs.columbia.edu)
+ - date_published: 2023-03-15T15:01:31+00:00
+
+ ## About | Center for Spatial Research
+ - [https://c4sr.columbia.edu](https://c4sr.columbia.edu)
+ - date_published: 2024-07-08T14:27:09+00:00
+
+ ## Herbert Irving Comprehensive Cancer Center (HICCC) - New York
+ - [https://cancer.columbia.edu](https://cancer.columbia.edu)
+ - date_published: 2023-10-25T18:50:13.811298+00:00
+
+ ## Columbia University
+ - [https://cancerdynamics.columbia.edu](https://cancerdynamics.columbia.edu)
+ - date_published: 2024-07-20T21:54:45.449857+00:00
+
+ ## Careers at Columbia
+ - [https://careers.columbia.edu](https://careers.columbia.edu)
+ - date_published: 2024-04-30T03:56:52.760773+00:00
+
+ ## CaseWorks | CaseWorks
+ - [https://caseworks.business.columbia.edu](https://caseworks.business.columbia.edu)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Columbia College and Columbia Engineering
+ - [http://cc-seas.columbia.edu](http://cc-seas.columbia.edu)
+ - date_published: 2024-09-04T18:42:13+00:00
+
+ ## Columbia Financial Aid and Educational Financing
+ - [https://cc-seas.financialaid.columbia.edu](https://cc-seas.financialaid.columbia.edu)
+ - date_published: 2024-07-22T05:43:52.440817+00:00
+
+ ## Committee on Global Thought
+ - [https://cgt.columbia.edu](https://cgt.columbia.edu)
+ - date_published: 2024-10-21T12:48:09.571076+00:00
+
+ ## Hong Yen Chang Center for Chinese Legal Studies
+ - [https://chinese-legal-studies.law.columbia.edu](https://chinese-legal-studies.law.columbia.edu)
+ - date_published: 2024-06-11T17:04:07+00:00
+
+ ## Columbia Climate School
+ - [https://climate.columbia.edu](https://climate.columbia.edu)
+ - date_published: 2024-04-30T03:49:11.585183+00:00
+
+ ## Columbia Giving
+ - [https://climateresponse.givenow.columbia.edu](https://climateresponse.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:57.595929+00:00
+
+ ## CLIO
+ - [https://clio.columbia.edu](https://clio.columbia.edu)
+ - date_published: 2024-07-22T05:45:14.907746+00:00
+
+ ## Cloth Funnels: Canonicalized-Alignment for Multi-Purpose Garment Manipulation
+ - [https://clothfunnels.cs.columbia.edu](https://clothfunnels.cs.columbia.edu)
+ - date_published: 2023-04-14T17:40:54+00:00
+
+ ## CLS Blue Sky Blog | Columbia Law School's Blog on Corporations and the Capital Markets
+ - [https://clsbluesky.law.columbia.edu](https://clsbluesky.law.columbia.edu)
+ - date_published: 2024-09-04T20:19:45.437819+00:00
+
+ ## Columbia College
+ - [https://college.columbia.edu](https://college.columbia.edu)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## Columbia University in the City of New York
  - [https://columbia.edu](https://columbia.edu)
  - date_published: 2024-04-30T03:57:09.325913+00:00
@@ -3917,92 +4005,4 @@
  ## Home - Polis: Center for Politics
  - [https://polis.duke.edu](https://polis.duke.edu)
  - date_published: 2024-08-23T00:00:00+00:00
-
- ## Home | Duke Pratt School of Engineering
- - [https://pratt.duke.edu](https://pratt.duke.edu)
- - date_published: 2023-12-11T12:00:31.232853+00:00
-
- ## Home | Emergency Management
- - [https://prepare.duke.edu](https://prepare.duke.edu)
- - date_published: 2024-09-26T17:28:06+00:00
-
- ## Office of the President - Duke University | Office of the President
- - [https://president.duke.edu](https://president.duke.edu)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Front Page | Program II
- - [https://program2.duke.edu](https://program2.duke.edu)
- - date_published: 2024-07-21T08:25:02+00:00
-
- ## Office of The Provost | Office of the Provost
- - [https://provost.duke.edu](https://provost.duke.edu)
- - date_published: 2024-06-16T07:14:36+00:00
-
- ## Shibboleth Authentication Request
- - [https://proxy.lib.duke.edu](https://proxy.lib.duke.edu)
- - date_published: 2024-06-30T01:25:47.557797+00:00
-
- ## PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
- - [https://pulse.cs.duke.edu](https://pulse.cs.duke.edu)
- - date_published: 2024-07-22T05:54:06.970804+00:00
-
- ## QuadEx – The future of residential living & learning at Duke
- - [https://quadex.duke.edu](https://quadex.duke.edu)
- - date_published: 2024-09-26T17:58:15.282140+00:00
-
- ## Search Results | Duke University Libraries
- - [https://quicksearch.library.duke.edu](https://quicksearch.library.duke.edu)
- - date_published: 2024-09-26T18:01:47.579201+00:00
-
- ## Advancing Racial Equity at Duke
- - [https://racialequity.duke.edu](https://racialequity.duke.edu)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Duke Recreation & Physical Education | Recreation & Physical Education
- - [https://recreation.duke.edu](https://recreation.duke.edu)
- - date_published: 2024-09-04T18:18:42+00:00
-
- ## Homepage | Office of the University Registrar
- - [https://registrar.duke.edu](https://registrar.duke.edu)
- - date_published: 2024-06-16T07:09:46+00:00
-
- ## Front Page | Religious Studies
- - [https://religiousstudies.duke.edu](https://religiousstudies.duke.edu)
- - date_published: 2024-06-28T19:30:04+00:00
-
- ## Home | Remote Work
- - [https://remotework.duke.edu](https://remotework.duke.edu)
- - date_published: 2024-08-06T17:33:49+00:00
-
- ## Duke Digital Repository
- - [https://repository.duke.edu](https://repository.duke.edu)
- - date_published: 2024-09-26T18:01:49.895685+00:00
-
- ## Research Blog
- - [https://researchblog.duke.edu](https://researchblog.duke.edu)
- - date_published: 2024-06-16T07:18:15.680784+00:00
-
- ## Homepage | Duke Research & Innovation
- - [https://research.duke.edu](https://research.duke.edu)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Home | Research Funding
- - [https://researchfunding.duke.edu](https://researchfunding.duke.edu)
- - date_published: 2024-06-16T07:17:28.034961+00:00
-
- ## Front Page | Department of Romance Studies
- - [https://romancestudies.duke.edu](https://romancestudies.duke.edu)
- - date_published: 2024-09-26T15:49:27+00:00
-
- ## Duke Cvent
- - [https://rsvp.duke.edu](https://rsvp.duke.edu)
- - date_published: 2024-09-26T18:01:39.932632+00:00
-
- ## Homepage | Sanford School of Public Policy
- - [https://sanford.duke.edu](https://sanford.duke.edu)
- - date_published: 2024-05-22T02:44:42.656403+00:00
-
- ## Scholars@Duke Home Page
- - [https://scholars.duke.edu](https://scholars.duke.edu)
- - date_published: 2024-08-18T08:11:30.398986+00:00
 

@@ -1,3 +1,59 @@
+ ## Career Accelerator
+ - [https://alexander-yrocgkao.scoreapp.com](https://alexander-yrocgkao.scoreapp.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Meaningful Work Scorecard
+ - [https://alex-js05tpgt.scoreapp.com](https://alex-js05tpgt.scoreapp.com)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## The Well-being Pulse: Checking the Rhythm of Your Busy Life
+ - [https://be0cf73e-bf98-4f62-b2cf-798ac4b92c71.scoreapp.com](https://be0cf73e-bf98-4f62-b2cf-798ac4b92c71.scoreapp.com)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Practice Management Assessment for Lawyers
+ - [https://ernest-og7hpkkv.scoreapp.com](https://ernest-og7hpkkv.scoreapp.com)
+ - date_published: 2023-12-09T00:00:00+00:00
+
+ ## Understand your ADHD challenges and superpowers!
+ - [https://george-cm93x4mo.scoreapp.com](https://george-cm93x4mo.scoreapp.com)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Product Operations Self-Assessment
+ - [https://jake-klglm8zd.scoreapp.com](https://jake-klglm8zd.scoreapp.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## ScoreApp Manage
+ - [https://manage.scoreapp.com](https://manage.scoreapp.com)
+ - date_published: 2024-07-12T15:01:30+00:00
+
+ ## Are Your Professional Development Events Hitting the Mark?
+ - [https://sched-pd.scoreapp.com](https://sched-pd.scoreapp.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## SmartSite Quiz - How Smart is your Site?
+ - [https://smartsitequiz.scoreapp.com](https://smartsitequiz.scoreapp.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## ScoreApp: Advanced Quiz Funnel Marketing | Quiz Software
+ - [https://static-2.scoreapp.com](https://static-2.scoreapp.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## ScoreApp: Advanced Quiz Funnel Marketing | Quiz Software
+ - [https://static.scoreapp.com](https://static.scoreapp.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## The Well-being Pulse: Checking the Rhythm of Your Busy Life
+ - [https://venus-ooyd4hbv.scoreapp.com](https://venus-ooyd4hbv.scoreapp.com)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Get your free personalized DAM Implementation Success guide!
+ - [https://weareavp.scoreapp.com](https://weareavp.scoreapp.com)
+ - date_published: 2024-12-28T01:58:34.398466+00:00
+
+ ## ScoreApp: Advanced Quiz Funnel Marketing | Quiz Software
+ - [https://www.scoreapp.com](https://www.scoreapp.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
  ## Scorebird Single Game Widget
  - [https://widget.scorebird.com](https://widget.scorebird.com)
  - date_published: 2024-09-16T14:03:50+00:00
@@ -923,6 +979,11 @@
  ## Welcome to Official Homepage of Scrap Book Pages!
  - [http://www.scrapbookpages.com](http://www.scrapbookpages.com)
  - date_published: 2024-10-10T08:00:29+00:00
+
+ ## Scrape Creators | Scraping API for Social Media including Instagram and
+      TikTok 🙌
+ - [https://scrapecreators.com](https://scrapecreators.com)
+ - date_published: 2025-01-05T21:57:16.327704+00:00
 
  ## ScrapeGraphAI
  - [https://scrapegraphai.com](https://scrapegraphai.com)
@@ -3989,64 +4050,4 @@
  ## SecureTrust Portal
  - [https://portal.securetrust.com](https://portal.securetrust.com)
  - date_published: 2024-09-20T15:31:55.848708+00:00
-
- ## Digital Certificates | VikingCloud Digital CA
- - [https://seal.securetrust.com](https://seal.securetrust.com)
- - date_published: 2024-06-16T00:56:42.200692+00:00
-
- ## SecureTrust – the Leader in Security and Compliance Solutions
- - [https://securetrust.com](https://securetrust.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## SecureVideo - Log in
- - [https://luxsci.securevideo.com](https://luxsci.securevideo.com)
- - date_published: 2024-10-31T07:15:45.141601+00:00
-
- ## Login
- - [https://cloud.securew2.com](https://cloud.securew2.com)
- - date_published: 2024-07-27T14:23:39+00:00
-
- ## SecureW2 | Complete Platform for Passwordless Security
- - [https://go.securew2.com](https://go.securew2.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## SecureW2 | Complete Platform for Passwordless Security
- - [https://securew2.com](https://securew2.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Secureworks Brand Portal
- - [https://dam.secureworks.com](https://dam.secureworks.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Secureworks - Investor Relations
- - [https://investors.secureworks.com](https://investors.secureworks.com)
- - date_published: 2024-09-18T15:33:51.343602+00:00
-
- ## Secureworks: Cybersecurity Leader, Proven Threat Defense
- - [https://pages.secureworks.com](https://pages.secureworks.com)
- - date_published: 2024-09-18T15:33:47.545749+00:00
-
- ## Waiting for Identity Provider
- - [https://portal.secureworks.com](https://portal.secureworks.com)
- - date_published: 2024-09-18T15:33:42.742427+00:00
-
- ## Secureworks: Cybersecurity Leader, Proven Threat Defense
- - [http://secureworks.com](http://secureworks.com)
- - date_published: 2024-06-15T16:06:38.573734+00:00
-
- ## Securing Laravel | Stephen Rees-Carter | Substack
- - [https://securinglaravel.com](https://securinglaravel.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Securing Our Digital Future
- - [https://securingourdigitalfuture.com](https://securingourdigitalfuture.com)
- - date_published: 2024-07-16T20:51:57.701657+00:00
-
- ## Emerging markets research, data and news | EMIS Next
- - [http://www.securities.com](http://www.securities.com)
- - date_published: 2024-07-12T17:34:02+00:00
-
- ## Securities finance news and commentary - Securities Finance Times
- - [https://www.securitiesfinancetimes.com](https://www.securitiesfinancetimes.com)
- - date_published: 2024-09-25T12:23:53.142092+00:00
 

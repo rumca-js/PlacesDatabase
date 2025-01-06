@@ -1,3 +1,91 @@
+ ## Computer Forum
+ - [https://forum.stanford.edu](https://forum.stanford.edu)
+ - date_published: 2024-05-07T20:25:48.767557+00:00
+
+ ## Frosh 101 & Transfer 101
+ - [https://frosh101.stanford.edu](https://frosh101.stanford.edu)
+ - date_published: 2024-04-19T02:06:02+00:00
+
+ ## Faculty Search and Applicant Tracking
+ - [https://fsat.stanford.edu](https://fsat.stanford.edu)
+ - date_published: 2024-04-19T01:19:36+00:00
+
+ ## Freeman Spogli Institute for International Studies | FSI
+ - [https://fsi.stanford.edu](https://fsi.stanford.edu)
+ - date_published: 2024-04-30T06:34:30.351718+00:00
+
+ ## Neural Dynamics and Computation Lab
+ - [https://ganguli-gang.stanford.edu](https://ganguli-gang.stanford.edu)
+ - date_published: 2024-04-29T05:14:11.707254+00:00
+
+ ## Guibas Lab
+ - [https://geometry.stanford.edu](https://geometry.stanford.edu)
+ - date_published: 2023-08-18T01:31:08+00:00
+
+ ## Stanford Login
+ - [https://gfps.stanford.edu](https://gfps.stanford.edu)
+ - date_published: 2024-07-01T20:08:40.795395+00:00
+
+ ## Overview : Graduate Financial Support : Stanford University
+ - [https://gfs.stanford.edu](https://gfs.stanford.edu)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Gibson Environment | Stanford
+ - [http://gibsonenv.stanford.edu](http://gibsonenv.stanford.edu)
+ - date_published: 2019-11-24T06:46:20+00:00
+
+ ## Make a Gift to Stanford
+ - [https://give.stanford.edu](https://give.stanford.edu)
+ - date_published: 2024-07-01T19:37:16.214289+00:00
+
+ ## Giving to Stanford
+ - [https://giving.stanford.edu](https://giving.stanford.edu)
+ - date_published: 2024-05-07T20:31:07.160939+00:00
+
+ ## Graduate Life Office
+ - [https://glo.stanford.edu](https://glo.stanford.edu)
+ - date_published: 2024-05-17T16:41:49+00:00
+
+ ## Graduate Medical Education
+ - [https://gme.stanford.edu](https://gme.stanford.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Google Workspace | University IT
+ - [http://google.stanford.edu](http://google.stanford.edu)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## The Gordian Knot Center for National Security Innovation
+ - [https://gordianknot.stanford.edu](https://gordianknot.stanford.edu)
+ - date_published: 2024-06-22T17:14:59+00:00
+
+ ## Stanford University
+ - [https://goto.stanford.edu](https://goto.stanford.edu)
+ - date_published: 2024-05-11T11:23:51.995536+00:00
+
+ ## Graduate Admissions
+ - [https://gradadmissions.stanford.edu](https://gradadmissions.stanford.edu)
+ - date_published: 2024-04-19T01:55:50+00:00
+
+ ## Graduate Diversity
+ - [https://graddiversity.stanford.edu](https://graddiversity.stanford.edu)
+ - date_published: 2024-04-19T01:49:18+00:00
+
+ ## Computer Graphics at Stanford University
+ - [https://graphics.stanford.edu](https://graphics.stanford.edu)
+ - date_published: 2024-05-01T08:47:34.499825+00:00
+
+ ## Join Stanford Alumni Groups
+ - [https://groups.stanford.edu](https://groups.stanford.edu)
+ - date_published: 2024-05-07T20:31:24.482508+00:00
+
+ ## Home - GSB Courses Sites WordPress Network
+ - [https://gsb-courses.stanford.edu](https://gsb-courses.stanford.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Stanford Graduate School of Business
+ - [https://gsb.stanford.edu](https://gsb.stanford.edu)
+ - date_published: 2024-05-07T20:30:37.947776+00:00
+
  ## stan-x
  - [https://gsc.stanford.edu](https://gsc.stanford.edu)
  - date_published: 2024-05-11T10:40:37.394708+00:00
@@ -3923,92 +4011,4 @@
  ## Center for Faculty Excellence
  - [https://faculty.uams.edu](https://faculty.uams.edu)
  - date_published: 2024-06-20T23:30:10.858641+00:00
-
- ## Home Page
- - [http://giving.uams.edu](http://giving.uams.edu)
- - date_published: 2024-06-20T23:29:11.831157+00:00
-
- ## UAMS Graduate School
- - [https://gradschool.uams.edu](https://gradschool.uams.edu)
- - date_published: 2024-06-19T09:54:19+00:00
-
- ## College of Health Professions
- - [https://healthprofessions.uams.edu](https://healthprofessions.uams.edu)
- - date_published: 2024-06-20T23:30:08.109636+00:00
-
- ## Join Our Talent Community | UAMS Human Resources
- - [https://jobs.uams.edu](https://jobs.uams.edu)
- - date_published: 2024-06-20T23:30:47.405536+00:00
-
- ## UAMS Library
- - [http://library.uams.edu](http://library.uams.edu)
- - date_published: 2024-06-20T23:30:18.954256+00:00
-
- ## University of Arkansas for Medical Sciences
- - [https://maps.uams.edu](https://maps.uams.edu)
- - date_published: 2024-06-20T23:29:09.051126+00:00
-
- ## UAMS College of Medicine
- - [https://medicine.uams.edu](https://medicine.uams.edu)
- - date_published: 2024-06-18T09:57:25+00:00
-
- ## UAMS News
- - [https://news.uams.edu](https://news.uams.edu)
- - date_published: 2024-06-20T23:30:22.176485+00:00
-
- ## UAMS Northwest Regional Campus
- - [https://northwestcampus.uams.edu](https://northwestcampus.uams.edu)
- - date_published: 2024-06-03T10:12:57+00:00
-
- ## UAMS College of Nursing
- - [https://nursing.uams.edu](https://nursing.uams.edu)
- - date_published: 2024-05-29T08:56:19+00:00
-
- ## UAMS Office of Academic Services
- - [https://oas.uams.edu](https://oas.uams.edu)
- - date_published: 2024-06-20T23:29:46.637919+00:00
-
- ## UAMS College of Pharmacy
- - [https://pharmacy.uams.edu](https://pharmacy.uams.edu)
- - date_published: 2024-06-20T09:44:24+00:00
-
- ## UAMS Fay W. Boozman College of Public Health
- - [https://publichealth.uams.edu](https://publichealth.uams.edu)
- - date_published: 2024-06-17T09:16:36+00:00
-
- ## UAMS Regional Campuses
- - [https://regionalprograms.uams.edu](https://regionalprograms.uams.edu)
- - date_published: 2024-06-13T10:22:32+00:00
-
- ## Office of the University Registrar
- - [https://registrar.uams.edu](https://registrar.uams.edu)
- - date_published: 2024-06-20T23:30:14.755977+00:00
-
- ## UAMS Research and Innovation
- - [https://research.uams.edu](https://research.uams.edu)
- - date_published: 2024-06-19T09:54:19+00:00
-
- ## Student Financial Services | UAMS Students
- - [https://studentfinancialservices.uams.edu](https://studentfinancialservices.uams.edu)
- - date_published: 2024-06-20T23:30:33.932895+00:00
-
- ## Campus Life and Student Support Services | UAMS Students
- - [https://studentlife.uams.edu](https://studentlife.uams.edu)
- - date_published: 2024-06-20T23:30:51.014873+00:00
-
- ## UAMS Students
- - [https://students.uams.edu](https://students.uams.edu)
- - date_published: 2024-06-20T09:44:24+00:00
-
- ## Educational and Student Success Center | UAMS Students
- - [https://studentsuccess.uams.edu](https://studentsuccess.uams.edu)
- - date_published: 2024-06-20T23:29:02.253655+00:00
-
- ## University of Arkansas for Medical Sciences (UAMS)
- - [https://uams.edu](https://uams.edu)
- - date_published: 2024-01-16T21:32:23+00:00
-
- ## University of Arkansas for Medical Sciences (UAMS)
- - [https://web.uams.edu](https://web.uams.edu)
- - date_published: 2024-01-16T21:32:23+00:00
 

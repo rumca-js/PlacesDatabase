@@ -1,3 +1,81 @@
+ ## Ravi Parikh’s Newsletter | Substack
+ - [https://ravisparikh.substack.com](https://ravisparikh.substack.com)
+ - date_published: 2024-01-09T01:43:34.420329+00:00
+
+ ## Lazy Afternoons | Ravi Teja Kanta | Substack
+ - [https://ravitejakanta.substack.com](https://ravitejakanta.substack.com)
+ - date_published: 2023-10-25T10:01:35.638481+00:00
+ - tags: ['substack']
+
+ ## Beautiful Terrible Things | Ray Edwards | Substack
+ - [https://rayedwards.substack.com](https://rayedwards.substack.com)
+ - date_published: 2024-05-09T06:21:23.227157+00:00
+
+ ## rants by razberry | Substack
+ - [https://razberry.substack.com](https://razberry.substack.com)
+ - date_published: 2023-11-15T18:40:37.968645+00:00
+
+ ## Razib Khan's Unsupervised Learning | Substack
+ - [https://razib.substack.com](https://razib.substack.com)
+ - date_published: 2023-10-25T10:01:38.890917+00:00
+ - tags: ['substack']
+
+ ## Coding on Autopilot | Robert Brennan | Substack
+ - [https://rbren.substack.com](https://rbren.substack.com)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## 2050 | Peter Havers | Substack
+ - [https://read2050.substack.com](https://read2050.substack.com)
+ - date_published: 2024-01-09T01:43:36.185877+00:00
+
+ ## Home | Substack
+ - [https://reader.substack.com](https://reader.substack.com)
+ - date_published: 2024-09-09T23:05:14.717039+00:00
+
+ ## The Wonderful Books of Oz | Substack
+ - [https://readingoz.substack.com](https://readingoz.substack.com)
+ - date_published: 2024-07-26T03:33:36.591925+00:00
+
+ ## polymathematics | Substack
+ - [https://readpolymathematics.substack.com](https://readpolymathematics.substack.com)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Lesser Tedium | Ernie Smith | Substack
+ - [https://readtedium.substack.com](https://readtedium.substack.com)
+ - date_published: 2024-04-30T07:05:03.975189+00:00
+
+ ## Read with ai | Substack
+ - [https://readwithai.substack.com](https://readwithai.substack.com)
+ - date_published: 2025-01-05T02:37:23.232945+00:00
+
+ ## Read. Write. Concurrently | Pham Nguyen Hung | Substack
+ - [https://readwriteconcurrently.substack.com](https://readwriteconcurrently.substack.com)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## Reality 2.0 Newsletter | Substack
+ - [https://reality2.substack.com](https://reality2.substack.com)
+ - date_published: 2024-08-06T09:28:09.481777+00:00
+
+ ## Real Kinetic | Substack
+ - [https://realkinetic.substack.com](https://realkinetic.substack.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Real Progressives Substack | Substack
+ - [https://realprogressives.substack.com](https://realprogressives.substack.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## By Reason Alone | Sam Enright | Substack
+ - [https://reasonalone.substack.com](https://reasonalone.substack.com)
+ - date_published: 2024-12-27T21:18:57.839776+00:00
+
+ ## Reason for Living | Thomas Walker-Werth | Substack
+ - [https://reasonforliving.substack.com](https://reasonforliving.substack.com)
+ - date_published: 2024-10-31T22:38:49.028480+00:00
+
+ ## The Reath Report | Jeff Carswell | Substack
+ - [https://reathai.substack.com](https://reathai.substack.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
  ## Recast Investor | Will | Substack
  - [https://recastinvestor.substack.com](https://recastinvestor.substack.com)
  - date_published: 2024-09-09T21:56:32.798674+00:00
@@ -3980,80 +4058,4 @@
  ## Sui Explorer
  - [https://suiexplorer.com](https://suiexplorer.com)
  - date_published: 2024-07-09T11:34:29.400828+00:00
-
- ## Suika Game
- - [https://suikagame.com](https://suikagame.com)
- - date_published: 2023-10-30T15:27:06+00:00
-
- ## dung919 สล็อตเว็บตรง คาสิโนออนไลน์ รับโบนัสสูงสุด
- - [http://www.suikasuikasuika.com](http://www.suikasuikasuika.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## SuiPlay0X1 - Next-Gen Handheld Gaming Device Powered By Sui
- - [http://suiplay0x1.com](http://suiplay0x1.com)
- - date_published: 2024-12-04T17:57:30+00:00
-
- ## suitcasedragon – MULTIMEDIA PORTFOLIO
- - [https://suitcasedragon.com](https://suitcasedragon.com)
- - date_published: 2024-06-23T18:38:23.216429+00:00
-
- ## QQEMAS Link Daftar QQ Gaming Premium VIP
- - [http://suitcasestories.com](http://suitcasestories.com)
- - date_published: 2024-12-11T12:34:20.405043+00:00
-
- ## Suitcase Type Foundry
- - [http://suitcasetype.com](http://suitcasetype.com)
- - date_published: 2024-10-27T19:38:46.815099+00:00
-
- ## Find How-to instructions, Inspiration and Other Ideas to Try
- - [http://news.suite101.com](http://news.suite101.com)
- - date_published: 2024-07-09T18:36:37+00:00
-
- ## Suite 101 - How-tos, Inspiration and Other Ideas to Try
- - [http://vacations.suite101.com](http://vacations.suite101.com)
- - date_published: 2022-10-05T17:40:22+00:00
-
- ## Find How-to instructions, Inspiration and Other Ideas to Try
- - [http://www.suite101.com](http://www.suite101.com)
- - date_published: 2024-07-09T18:36:37+00:00
-
- ## SuiteApp.com
- - [https://www.suiteapp.com](https://www.suiteapp.com)
- - date_published: 2024-06-27T16:17:51.644537+00:00
-
- ## SuiteCRM
- - [https://community.suitecrm.com](https://community.suitecrm.com)
- - date_published: 2024-10-31T05:43:29.289182+00:00
-
- ## SuiteCRM Documentation
- - [http://docs.suitecrm.com](http://docs.suitecrm.com)
- - date_published: 2024-10-31T05:43:31.062898+00:00
-
- ## SuiteCRM Portal
- - [https://portal.suitecrm.com](https://portal.suitecrm.com)
- - date_published: 2024-10-31T05:43:26+00:00
-
- ## SuiteCRM Store | SuiteCRM Module, Themes, and Integrations
- - [https://store.suitecrm.com](https://store.suitecrm.com)
- - date_published: 2024-10-31T05:43:27.743120+00:00
-
- ## SuiteCRM - Open Source CRM Software Application for Businesses
- - [https://suitecrm.com](https://suitecrm.com)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## Suite Experience Group
- - [https://www.suiteexperiencegroup.com](https://www.suiteexperiencegroup.com)
- - date_published: 2024-12-31T02:46:44+00:00
-
- ## suitesparse : a suite of sparse matrix software
- - [http://suitesparse.com](http://suitesparse.com)
- - date_published: 2021-08-16T17:25:34+00:00
-
- ## Buy Sujata Home Appliances and Food Processors Online in India
- - [https://sujataappliances.com](https://sujataappliances.com)
- - date_published: 2021-08-26T15:12:08+00:00
-
- ## Sujoy.com
- - [https://www.sujoy.com](https://www.sujoy.com)
- - date_published: 2024-05-02T09:43:29.692606+00:00
 

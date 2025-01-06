@@ -1,3 +1,99 @@
+ ## iStem
+ - [https://istem.softonic.nl](https://istem.softonic.nl)
+ - date_published: 2024-08-03T14:47:17.383779+00:00
+
+ ## Jarfix
+ - [https://jarfix.softonic.nl](https://jarfix.softonic.nl)
+ - date_published: 2024-08-03T14:48:08.832353+00:00
+
+ ## Jester AI - Caption Writer
+ - [https://jester-ai-caption-writer.softonic.nl](https://jester-ai-caption-writer.softonic.nl)
+ - date_published: 2024-08-03T14:50:28.958872+00:00
+
+ ## カプコン アミューズメント
+ - [https://kapukon-amiyuzumento.softonic.nl](https://kapukon-amiyuzumento.softonic.nl)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Kids Games: Safety Education
+ - [https://kids-games-safety-education.softonic.nl](https://kids-games-safety-education.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Krisp
+ - [https://krisp.softonic.nl](https://krisp.softonic.nl)
+ - date_published: 2024-08-03T14:47:42.865356+00:00
+
+ ## LEGO Juniors Create & Cruise
+ - [https://lego-juniors-create-and-cruise.softonic.nl](https://lego-juniors-create-and-cruise.softonic.nl)
+ - date_published: 2024-08-03T14:45:33.489948+00:00
+
+ ## Linkito
+ - [https://linkito.softonic.nl](https://linkito.softonic.nl)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Lively Wallpaper
+ - [https://lively-wallpaper.softonic.nl](https://lively-wallpaper.softonic.nl)
+ - date_published: 2024-08-03T14:47:45.164832+00:00
+
+ ## LocalCooling
+ - [https://localcooling.softonic.nl](https://localcooling.softonic.nl)
+ - date_published: 2024-08-03T14:46:56.464946+00:00
+
+ ## Lycamobile
+ - [https://lycamobile.softonic.nl](https://lycamobile.softonic.nl)
+ - date_published: 2024-08-03T14:48:56.430426+00:00
+
+ ## macOS Big Sur
+ - [https://macosbigsur.softonic.nl](https://macosbigsur.softonic.nl)
+ - date_published: 2024-08-03T14:48:47.491642+00:00
+
+ ## macOS High Sierra
+ - [https://macos-high-sierra.softonic.nl](https://macos-high-sierra.softonic.nl)
+ - date_published: 2024-08-03T14:45:17.974529+00:00
+
+ ## Meridianbet Tanzania
+ - [https://meridianbet-tanzania.softonic.nl](https://meridianbet-tanzania.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Microsoft Edge
+ - [https://microsoft-edge.softonic.nl](https://microsoft-edge.softonic.nl)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Microsoft Excel
+ - [https://microsoft-excel.softonic.nl](https://microsoft-excel.softonic.nl)
+ - date_published: 2024-08-03T14:50:04.115902+00:00
+
+ ## Microsoft Silverlight
+ - [https://microsoft-silverlight.softonic.nl](https://microsoft-silverlight.softonic.nl)
+ - date_published: 2024-08-03T14:45:58.685690+00:00
+
+ ## Microsoft Teams
+ - [https://microsoft-teams.softonic.nl](https://microsoft-teams.softonic.nl)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Microsoft Word
+ - [https://microsoft-word.softonic.nl](https://microsoft-word.softonic.nl)
+ - date_published: 2024-08-03T14:49:58.219675+00:00
+
+ ## MSN Messenger 8.5
+ - [https://msn-messenger-8-5.softonic.nl](https://msn-messenger-8-5.softonic.nl)
+ - date_published: 2024-08-03T14:45:14.030290+00:00
+
+ ## Neat Download Manager Mac
+ - [https://neat-download-manager-mac.softonic.nl](https://neat-download-manager-mac.softonic.nl)
+ - date_published: 2024-08-03T14:46:34.871834+00:00
+
+ ## Neverness to Everness
+ - [https://neverness-to-everness.softonic.nl](https://neverness-to-everness.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## NOS Teletekst Browser
+ - [https://nos-teletekst-browser.softonic.nl](https://nos-teletekst-browser.softonic.nl)
+ - date_published: 2024-08-03T14:48:29.100322+00:00
+
+ ## Open Icon Library
+ - [https://open-icon-library.softonic.nl](https://open-icon-library.softonic.nl)
+ - date_published: 2024-08-03T14:48:04.926090+00:00
+
  ## OV-chipkaart
  - [https://ov-chipkaart.softonic.nl](https://ov-chipkaart.softonic.nl)
  - date_published: 2024-08-03T14:49:46.178375+00:00
@@ -3911,101 +4007,4 @@
  ## Legends of the North
  - [http://legendsofthenorth.blogspot.no](http://legendsofthenorth.blogspot.no)
  - date_published: 2024-08-29T06:04:14+00:00
-
- ## OUTTAKES
- - [http://michaelgrayouttakes.blogspot.no](http://michaelgrayouttakes.blogspot.no)
- - date_published: 2024-06-07T07:24:33+00:00
-
- ## A Thousand Highways
- - [http://thousandhighways.blogspot.no](http://thousandhighways.blogspot.no)
- - date_published: 2024-06-28T09:42:18+00:00
-
- ## CSUMC
- - [http://uppermidwesterncultures.blogspot.no](http://uppermidwesterncultures.blogspot.no)
- - date_published: 2024-02-19T18:48:43+00:00
-
- ## Web Reflection
- - [http://webreflection.blogspot.no](http://webreflection.blogspot.no)
- - date_published: 2024-03-07T08:11:15+00:00
-
- ## Gjør din bok til virkelighet! - bod.no
- - [https://www.bod.no](https://www.bod.no)
- - date_published: 2024-07-08T13:06:11.058144+00:00
-
- ## Boitano
- - [https://www.boitano.no](https://www.boitano.no)
- - date_published: 2024-08-17T23:49:58.543774+00:00
-
- ## Boots Apotek |  Resepter raskt og trygt på nett - Hent i apotek innen 1 time
- - [https://www.boots.no](https://www.boots.no)
- - date_published: 2024-10-20T23:00:02.752127+00:00
-
- ## Hjem
- - [https://www.bosch.no](https://www.bosch.no)
- - date_published: 2024-10-13T22:30:02+00:00
-
- ## Bærekraftige husholdningsprodukter av høy kvalitet | Bosch
- - [https://www.bosch-home.no](https://www.bosch-home.no)
- - date_published: 2024-06-16T21:36:49.002907+00:00
-
- ## Bouvet Norge
- - [https://www.bouvet.no](https://www.bouvet.no)
- - date_published: 2024-07-03T21:41:49.105965+00:00
-
- ## Bra Søk - Bransjerådet for Søkemotormarkedsføring
- - [https://brasok.no](https://brasok.no)
- - date_published: 2024-07-08T10:45:44.070111+00:00
-
- ## Bring | Transport av pakker, post og gods
- - [https://www.bring.no](https://www.bring.no)
- - date_published: 2024-06-20T12:17:23.945289+00:00
-
- ## Få mest mulig ut av ditt Brother produkt
- - [https://atyourside.brother.no](https://atyourside.brother.no)
- - date_published: 2024-06-17T20:19:15.867658+00:00
-
- ## Få mest mulig ut av ditt Brother produkt
- - [https://online.brother.no](https://online.brother.no)
- - date_published: 2024-06-17T20:19:18.689881+00:00
-
- ## Kontorskrivere | Forretningsløsninger | Rekvisita | Brother
- - [https://www.brother.no](https://www.brother.no)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Brother
- - [https://brothersy.no](https://brothersy.no)
- - date_published: 2024-06-17T20:24:42.008407+00:00
-
- ## Shopping og salg - Butikkene.no
- - [https://www.butikkene.no](https://www.butikkene.no)
- - date_published: 2020-02-04T11:15:44+00:00
-
- ## Timelapse
- - [https://kunde.byggekamera.no](https://kunde.byggekamera.no)
- - date_published: 2024-06-30T01:14:22.089980+00:00
-
- ## CAPA
- - [https://www.capa.no](https://www.capa.no)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Capterra Norge hjelper deg med å finne riktig programvare til din bedrift
- - [https://www.capterra.no](https://www.capterra.no)
- - date_published: 2024-07-20T19:26:48.689119+00:00
-
- ## Catharina Chen
- - [https://catharinachen.no](https://catharinachen.no)
- - date_published: 2024-04-29T05:14:52.343315+00:00
- - tags: ['personal']
-
- ## Citizens Commission on Human Rights, CCHRs, hjemmeside. Se videoene.
- - [http://www.cchr.no](http://www.cchr.no)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## CDON | Ting for livet
- - [https://cdon.no](https://cdon.no)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Censorship.no! - Browse Freely
- - [https://censorship.no](https://censorship.no)
- - date_published: 2024-06-13T18:23:30+00:00
 

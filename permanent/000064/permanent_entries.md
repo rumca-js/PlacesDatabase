@@ -1,3 +1,19 @@
+ ## Blog of Holding
+ - [https://www.blogofholding.com](https://www.blogofholding.com)
+ - date_published: 2024-07-15T09:44:05.656138+00:00
+
+ ## Ex Real SJ- Define your world in a whole new way
+ - [http://www.blogofthegods.com](http://www.blogofthegods.com)
+ - date_published: 2023-04-04T19:16:54+00:00
+
+ ## Home Page - Blog of the Planet of the Apes
+ - [https://blogoftheplanetoftheapes.com](https://blogoftheplanetoftheapes.com)
+ - date_published: 2024-07-18T11:26:21+00:00
+
+ ## Blog Oh! Blog
+ - [http://www.blogohblog.com](http://www.blogohblog.com)
+ - date_published: 2024-06-22T23:19:03.916104+00:00
+
  ## Morphex's blogologue (Life, technology, music, politics, business, mental health and more)
  - [https://blogologue.com](https://blogologue.com)
  - date_published: 2024-06-28T20:19:47+00:00
@@ -3995,20 +4011,4 @@
  ## Antysocjal bis
  - [http://antysocjalbis.blogspot.com](http://antysocjalbis.blogspot.com)
  - date_published: 2024-11-01T07:53:44+00:00
-
- ## An Urban Rambler
- - [http://anurbanrambler.blogspot.com](http://anurbanrambler.blogspot.com)
- - date_published: 2024-03-05T10:26:10+00:00
-
- ## Anvil of War
- - [http://anvilofwar.blogspot.com](http://anvilofwar.blogspot.com)
- - date_published: 2024-08-28T08:40:05+00:00
-
- ## ANXIETY WIZARD
- - [https://anxietywizard.blogspot.com](https://anxietywizard.blogspot.com)
- - date_published: 2024-10-07T03:16:39+00:00
-
- ## The Narrow Bridge
- - [http://anyakamenetz.blogspot.com](http://anyakamenetz.blogspot.com)
- - date_published: 2025-01-01T12:12:00+00:00
 

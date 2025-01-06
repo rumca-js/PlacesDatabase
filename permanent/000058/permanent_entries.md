@@ -1,3 +1,19 @@
+ ## Beyond the Drone, by SAINT RICH
+ - [https://saintrich.bandcamp.com](https://saintrich.bandcamp.com)
+ - date_published: 2024-12-27T09:14:53.664518+00:00
+
+ ## salami rose joe louis
+ - [https://salamirosejoelouismusic.bandcamp.com](https://salamirosejoelouismusic.bandcamp.com)
+ - date_published: 2024-12-26T23:05:37.513212+00:00
+
+ ## Salter Cane
+ - [https://saltercane.bandcamp.com](https://saltercane.bandcamp.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Push It, by SALT-N-PEPA
+ - [https://salt-n-pepa.bandcamp.com](https://salt-n-pepa.bandcamp.com)
+ - date_published: 2024-12-27T00:26:42.230655+00:00
+
  ## salute
  - [https://saluteaut.bandcamp.com](https://saluteaut.bandcamp.com)
  - date_published: 2024-07-19T22:25:14.431837+00:00
@@ -3981,20 +3997,4 @@
  ## Politics Versus the Erection, by Venomous Concept
  - [https://venomousconcept.bandcamp.com](https://venomousconcept.bandcamp.com)
  - date_published: 2024-12-26T23:44:57.758178+00:00
-
- ## Retroactive Abortion, by Venomous Concept
- - [https://venomousconcept-ipecac.bandcamp.com](https://venomousconcept-ipecac.bandcamp.com)
- - date_published: 2024-12-27T07:13:06.390166+00:00
-
- ## verbal delirium
- - [https://verbaldelirium.bandcamp.com](https://verbaldelirium.bandcamp.com)
- - date_published: 2024-12-27T00:52:48.552605+00:00
-
- ## Souls for Sale, by Verbena
- - [https://verbenamusic.bandcamp.com](https://verbenamusic.bandcamp.com)
- - date_published: 2024-12-27T05:20:17.475217+00:00
-
- ## Verity Den
- - [https://verityden.bandcamp.com](https://verityden.bandcamp.com)
- - date_published: 2024-12-27T08:50:30.534857+00:00
 

@@ -1,3 +1,63 @@
+ ## AI Presentation Generator - PPT Maker, AI Image & Copilot, PDF & Word to PPT, Free PowerPoint & Google Slides Templates | SlidesPilot
+ - [https://slidespilot.com](https://slidespilot.com)
+ - date_published: 2024-06-14T09:00:42.414265+00:00
+
+ ## Show HN: SlideSynth
+ - [https://slidesynth.com](https://slidesynth.com)
+ - date_published: 2024-02-28T13:56:04+00:00
+
+ ## Sliding Puzzle © 1530 design
+ - [http://www.slidingpuzzle.com](http://www.slidingpuzzle.com)
+ - date_published: 2007-05-23T21:59:41+00:00
+
+ ## Slido - Audience Interaction Made Easy
+ - [http://slido.com](http://slido.com)
+ - date_published: 2024-12-14T06:30:03.209732+00:00
+
+ ## Slido - Audience Interaction Made Easy
+ - [https://www.slido.com](https://www.slido.com)
+ - date_published: 2024-07-02T23:43:33.841070+00:00
+
+ ## Slightly East of New
+ - [https://slightlyeastofnew.com](https://slightlyeastofnew.com)
+ - date_published: 2024-07-03T22:26:35.649254+00:00
+
+ ## Slightly Theme for WordPress — miniminal, free WrodPress theme
+ - [https://slightlytheme.com](https://slightlytheme.com)
+ - date_published: 2024-05-06T14:27:15.537948+00:00
+
+ ## sligocki
+ - [https://www.sligocki.com](https://www.sligocki.com)
+ - date_published: 2023-10-25T17:06:31.034022+00:00
+
+ ## Fedora Slimbook II Available
+ - [https://fedora.slimbook.com](https://fedora.slimbook.com)
+ - date_published: 2024-04-25T16:26:11+00:00
+
+ ## Slimbook - The Best Linux Computers and Laptops
+ - [https://slimbook.com](https://slimbook.com)
+ - date_published: 2024-07-07T03:36:28.315822+00:00
+
+ ## Crickex Bangladesh - Login, Bet on ক্যাসিনো & Download App Today
+ - [http://www.slimcoincidence.com](http://www.slimcoincidence.com)
+ - date_published: 2024-09-09T11:21:52+00:00
+
+ ## XRAFSTAR 💜
+ - [https://slimedaughter.com](https://slimedaughter.com)
+ - date_published: 2024-07-10T10:33:39.285323+00:00
+
+ ## SLIME MOLD TIME MOLD – Mad Science Blogging
+ - [https://slimemoldtimemold.com](https://slimemoldtimemold.com)
+ - date_published: 2023-10-25T17:06:37.146392+00:00
+
+ ## Slim Framework
+ - [https://discourse.slimframework.com](https://discourse.slimframework.com)
+ - date_published: 2024-10-22T16:56:58.946494+00:00
+
+ ## Slim Framework
+ - [http://slimframework.com](http://slimframework.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## Fastest web browser that blocks all ads and protects your privacy - Slimjet
  - [https://slimjet.com](https://slimjet.com)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -3972,64 +4032,4 @@
  ## 대학신문
  - [http://www.snunews.com](http://www.snunews.com)
  - date_published: 2024-07-14T00:00:00+00:00
-
- ## Snurl : le Journal des Rédacteurs
- - [https://snurl.com](https://snurl.com)
- - date_published: 2024-09-20T14:40:22.682657+00:00
-
- ## Southern Nevada Water Authority
- - [https://www.snwa.com](https://www.snwa.com)
- - date_published: 2024-10-30T03:07:05.559432+00:00
-
- ## SNYPR - Reps Counted
- - [https://snypr.com](https://snypr.com)
- - date_published: 2024-12-12T08:05:57.561667+00:00
-
- ## SnyPy
- - [https://app.snypy.com](https://app.snypy.com)
- - date_published: 2024-04-01T20:17:57+00:00
-
- ## SnyPy - Open source on-prem code snippet manager
- - [https://snypy.com](https://snypy.com)
- - date_published: 2022-03-12T20:04:20+00:00
-
- ## Susquehanna & New York Railroad
- - [http://snyrr.com](http://snyrr.com)
- - date_published: 2024-08-11T22:55:31.460295+00:00
-
- ## 360百科 - 让求知更简单
- - [http://baike.so.com](http://baike.so.com)
- - date_published: 2024-07-17T09:17:19.508766+00:00
-
- ## 360地图 – 出门之前，搜一下
- - [http://ditu.so.com](http://ditu.so.com)
- - date_published: 2024-07-17T09:18:13.490148+00:00
-
- ## 360翻译
- - [http://fanyi.so.com](http://fanyi.so.com)
- - date_published: 2024-07-17T09:18:39.545961+00:00
-
- ## 360图片 - 网罗天下美图
- - [http://image.so.com](http://image.so.com)
- - date_published: 2024-07-17T09:17:47.918538+00:00
-
- ## 360趋势-大数据分享平台
- - [http://index.so.com](http://index.so.com)
- - date_published: 2024-07-17T09:18:32.160718+00:00
-
- ## 用户意见反馈_360搜索
- - [http://info.so.com](http://info.so.com)
- - date_published: 2024-07-17T09:18:25.635828+00:00
-
- ## 360良医_安全、干净、专业的医疗健康搜索引擎
- - [http://ly.so.com](http://ly.so.com)
- - date_published: 2023-05-15T03:16:21+00:00
-
- ## 【快资讯】你的专属资讯平台
- - [http://news.so.com](http://news.so.com)
- - date_published: 2023-09-05T00:00:00+00:00
-
- ## 360搜索，SO靠谱
- - [https://so.com](https://so.com)
- - date_published: 2024-05-13T00:00:00+00:00
 

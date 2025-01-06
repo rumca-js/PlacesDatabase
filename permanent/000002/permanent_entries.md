@@ -535,6 +535,10 @@
  - [https://incidentdatabase.ai](https://incidentdatabase.ai)
  - date_published: 2023-10-25T11:52:19.311811+00:00
 
+ ## Inferable - Open-source platform for creating AI agents
+ - [https://www.inferable.ai](https://www.inferable.ai)
+ - date_published: 2025-01-05T11:10:45.133147+00:00
+
  ## Infinity AI
  - [https://infinity.ai](https://infinity.ai)
  - date_published: 2024-04-30T05:24:19+00:00
@@ -4018,8 +4022,4 @@
  ## Pi, your personal AI
  - [https://pi.ai](https://pi.ai)
  - date_published: 2024-05-08T09:06:32.614593+00:00
-
- ## PIBBSS – Principles of Intelligent Behavior in Biological and Social Systems
- - [https://www.pibbss.ai](https://www.pibbss.ai)
- - date_published: 2024-06-21T11:27:23.872282+00:00
 

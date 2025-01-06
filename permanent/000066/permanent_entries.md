@@ -1,3 +1,19 @@
+ ## about:random
+ - [http://bokesan.blogspot.com](http://bokesan.blogspot.com)
+ - date_published: 2024-03-06T01:03:42+00:00
+
+ ## Barbarians of Lemuria
+ - [http://boldeutsch.blogspot.com](http://boldeutsch.blogspot.com)
+ - date_published: 2024-11-09T22:32:13+00:00
+
+ ## Bolivia Rising
+ - [http://boliviarising.blogspot.com](http://boliviarising.blogspot.com)
+ - date_published: 2024-10-21T18:33:30.800243+00:00
+
+ ## Il Bollalmanacco di Cinema
+ - [https://bollalmanacco.blogspot.com](https://bollalmanacco.blogspot.com)
+ - date_published: 2024-12-31T12:56:40+00:00
+
  ## Josie and her Pussy Cats
  - [http://bollywoodfreak.blogspot.com](http://bollywoodfreak.blogspot.com)
  - date_published: 2024-03-13T07:45:43+00:00
@@ -3989,20 +4005,4 @@
  ## The Compass Rose
  - [https://compassrosebooks.blogspot.com](https://compassrosebooks.blogspot.com)
  - date_published: 2024-10-18T16:03:11+00:00
-
- ## CompCondMat
- - [http://compcondmat.blogspot.com](http://compcondmat.blogspot.com)
- - date_published: 2024-03-05T12:25:41+00:00
-
- ## Competition Law Blog
- - [http://competitionlawblog.blogspot.com](http://competitionlawblog.blogspot.com)
- - date_published: 2024-03-19T10:26:09+00:00
-
- ## @WavesBlog
- - [https://competitionwave.blogspot.com](https://competitionwave.blogspot.com)
- - date_published: 2024-12-11T00:27:40+00:00
-
- ## Serendipity
- - [http://complementary.blogspot.com](http://complementary.blogspot.com)
- - date_published: 2024-09-27T18:12:34+00:00
 

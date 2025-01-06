@@ -1,3 +1,91 @@
+ ## Academic Catalog | Arizona State University
+ - [https://catalog.asu.edu](https://catalog.asu.edu)
+ - date_published: 2024-07-22T08:37:41.768609+00:00
+
+ ## Home - Cybersecurity and Trusted Foundations
+ - [https://cdf.asu.edu](https://cdf.asu.edu)
+ - date_published: 2023-12-20T00:00:00+00:00
+
+ ## Computer Engineering Graduate Program - ASU Engineering
+ - [https://cen.engineering.asu.edu](https://cen.engineering.asu.edu)
+ - date_published: 2023-09-22T00:00:00+00:00
+
+ ## Home | Center for Indian Education
+ - [https://center-for-indian-education.asu.edu](https://center-for-indian-education.asu.edu)
+ - date_published: 2024-07-09T15:15:59.414541+00:00
+
+ ## Welcome to Business and Finance | Arizona State University
+ - [https://cfo.asu.edu](https://cfo.asu.edu)
+ - date_published: 2024-04-30T03:11:42.763298+00:00
+
+ ## Home | Center for Gender Equity in Science and Technology
+ - [https://cgest.asu.edu](https://cgest.asu.edu)
+ - date_published: 2024-07-09T15:15:47.322275+00:00
+
+ ## Home - School of Computing and Augmented Intelligence
+ - [http://cidse.engineering.asu.edu](http://cidse.engineering.asu.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Corporate Engagement and Strategic Partnerships | Arizona State University
+ - [https://corporate.asu.edu](https://corporate.asu.edu)
+ - date_published: 2024-07-07T01:52:03.787178+00:00
+
+ ## Your future starts now
+ - [https://cronkite.asu.edu](https://cronkite.asu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Center for Science and the Imagination - Center for Science and the Imagination
+ - [https://csi.asu.edu](https://csi.asu.edu)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Home - Cybersecurity and Trusted Foundations
+ - [https://ctf.asu.edu](https://ctf.asu.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | ASU Center for Violence Prevention and Community Safety
+ - [https://cvpcs.asu.edu](https://cvpcs.asu.edu)
+ - date_published: 2024-05-09T06:51:20.596814+00:00
+
+ ## Home - Biodesign Europe
+ - [https://dcu.asu.edu](https://dcu.asu.edu)
+ - date_published: 2023-04-14T00:00:00+00:00
+
+ ## Search Academic Degrees and Programs | ASU
+ - [https://degrees.apps.asu.edu](https://degrees.apps.asu.edu)
+ - date_published: 2024-07-07T01:52:26.663959+00:00
+
+ ## Search Academic Degrees and Programs | ASU
+ - [https://degrees.asu.edu](https://degrees.asu.edu)
+ - date_published: 2024-07-22T08:37:44.652325+00:00
+
+ ## Home - Economic Development
+ - [https://economicdevelopment.asu.edu](https://economicdevelopment.asu.edu)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## EdPlus at ASU
+ - [http://edplus.asu.edu](http://edplus.asu.edu)
+ - date_published: 2024-08-11T04:49:59.783830+00:00
+
+ ## Home | Embryo Project Encyclopedia
+ - [https://embryo.asu.edu](https://embryo.asu.edu)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Ira A. Fulton Schools of Engineering at Arizona State University
+ - [http://engineering.asu.edu](http://engineering.asu.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home - J. Orin Edson Entrepreneurship + Innovation Institute
+ - [https://entrepreneurship.asu.edu](https://entrepreneurship.asu.edu)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Educational Outreach & Student Services | Educational Outreach and Student Services
+ - [https://eoss.asu.edu](https://eoss.asu.edu)
+ - date_published: 2024-07-09T15:16:00.449037+00:00
+
+ ## Home - The Frankenstein Bicentennial Project
+ - [http://frankenstein.asu.edu](http://frankenstein.asu.edu)
+ - date_published: 2024-12-22T06:03:58.707983+00:00
+
  ## Center for Global Discovery and Conservation Science
  - [https://gdcs.asu.edu](https://gdcs.asu.edu)
  - date_published: 2024-10-15T07:11:47.428046+00:00
@@ -3915,92 +4003,4 @@
  ## University at Buffalo Libraries
  - [https://library2.buffalo.edu](https://library2.buffalo.edu)
  - date_published: 2024-07-22T07:13:11.943298+00:00
-
- ## University at Buffalo Libraries
- - [https://library.buffalo.edu](https://library.buffalo.edu)
- - date_published: 2024-04-30T03:31:32.594127+00:00
-
- ## Listserv at UB
- - [http://listserv.buffalo.edu](http://listserv.buffalo.edu)
- - date_published: 2022-12-19T22:52:16+00:00
-
- ## School of Management
- - [https://management.buffalo.edu](https://management.buffalo.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Human Factors and Ergonomics Society Student Chapter – The University at Buffalo, State University of New York
- - [https://markelz.physics.buffalo.edu](https://markelz.physics.buffalo.edu)
- - date_published: 2024-01-09T02:58:27.946041+00:00
-
- ## Jacobs School of Medicine and Biomedical Sciences
- - [https://medicine.buffalo.edu](https://medicine.buffalo.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## School of Management
- - [https://mgt.buffalo.edu](https://mgt.buffalo.edu)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## About UB Mobile
- - [http://mobile.buffalo.edu](http://mobile.buffalo.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## School of Nursing
- - [https://nursing.buffalo.edu](https://nursing.buffalo.edu)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## OASIS – Operations research for Advancing Sustainable Infrastructure Systems
- - [http://oasis.eng.buffalo.edu](http://oasis.eng.buffalo.edu)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## IIS Windows Server
- - [https://pacs.buffalo.edu](https://pacs.buffalo.edu)
- - date_published: 2021-02-16T15:27:23+00:00
-
- ## UB School of Pharmacy and Pharmaceutical Sciences
- - [https://pharmacy.buffalo.edu](https://pharmacy.buffalo.edu)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Interdivisional Marketing and Communications
- - [https://prv-rhm.sens.buffalo.edu](https://prv-rhm.sens.buffalo.edu)
- - date_published: 2020-03-16T15:13:56+00:00
-
- ## School of Public Health and Health Professions
- - [https://publichealth.buffalo.edu](https://publichealth.buffalo.edu)
- - date_published: 2024-04-30T03:31:24.441502+00:00
-
- ## UB Office of the Registrar
- - [https://registrar.buffalo.edu](https://registrar.buffalo.edu)
- - date_published: 2024-04-30T03:31:06.394801+00:00
-
- ## Research and Economic Development
- - [https://research.buffalo.edu](https://research.buffalo.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Research Guides
- - [https://research.lib.buffalo.edu](https://research.lib.buffalo.edu)
- - date_published: 2024-07-22T07:13:13.422146+00:00
-
- ## Search - University at Buffalo
- - [https://search.buffalo.edu](https://search.buffalo.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## University at Buffalo School of Social Work
- - [https://socialwork.buffalo.edu](https://socialwork.buffalo.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Tesserae
- - [http://tesserae.caset.buffalo.edu](http://tesserae.caset.buffalo.edu)
- - date_published: 2021-11-08T18:39:29+00:00
-
- ## Computer Science [ and Engineering ] Timeline
- - [https://timeline.cse.buffalo.edu](https://timeline.cse.buffalo.edu)
- - date_published: 2022-01-28T21:26:15+00:00
-
- ## TPDP - redirecting
- - [https://tpdp.cse.buffalo.edu](https://tpdp.cse.buffalo.edu)
- - date_published: 2020-01-28T20:16:48+00:00
-
- ## AEM Sign In
- - [https://ubcms-author.buffalo.edu](https://ubcms-author.buffalo.edu)
- - date_published: 2024-08-11T09:59:02.645351+00:00
 

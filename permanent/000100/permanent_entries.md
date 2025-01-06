@@ -1,3 +1,19 @@
+ ## Domain-Driven Design Europe 2017
+ - [https://2017.dddeurope.com](https://2017.dddeurope.com)
+ - date_published: 2021-03-21T10:06:04+00:00
+
+ ## Domain-Driven Design Europe 2018
+ - [https://2018.dddeurope.com](https://2018.dddeurope.com)
+ - date_published: 2021-09-18T12:48:30+00:00
+
+ ## Domain-Driven Design Europe 2019
+ - [https://2019.dddeurope.com](https://2019.dddeurope.com)
+ - date_published: 2021-09-18T13:38:11+00:00
+
+ ## Domain-Driven Design Europe 2020
+ - [https://2020.dddeurope.com](https://2020.dddeurope.com)
+ - date_published: 2021-09-18T15:59:42+00:00
+
  ## DDD Europe 2022 - Software Modelling & Design Conference
  - [https://2022.dddeurope.com](https://2022.dddeurope.com)
  - date_published: 2022-09-23T09:42:54+00:00
@@ -4056,20 +4072,4 @@
  ## Denning Electronics
  - [http://www.denningelectronics.com](http://www.denningelectronics.com)
  - date_published: 2024-12-30T18:07:14.428439+00:00
-
- ## Home - Dennis Bottaro
- - [https://dennisbottaro.com](https://dennisbottaro.com)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Dennis Cassinelli
- - [https://denniscassinelli.com](https://denniscassinelli.com)
- - date_published: 2024-08-08T22:07:26+00:00
-
- ## Harmonica Entertainer Dennis M. Cooper
- - [https://dennis-cooper.com](https://dennis-cooper.com)
- - date_published: 2024-02-08T16:57:42.445755+00:00
-
- ## Communicate! - Helping you win loyal friends through your communications
- - [https://dennisfischman.com](https://dennisfischman.com)
- - date_published: 2024-07-02T00:00:00+00:00
 

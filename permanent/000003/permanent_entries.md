@@ -1,3 +1,7 @@
+ ## PIBBSS – Principles of Intelligent Behavior in Biological and Social Systems
+ - [https://www.pibbss.ai](https://www.pibbss.ai)
+ - date_published: 2024-06-21T11:27:23.872282+00:00
+
  ## PicFinder.AI - Unleash Your Creativity with AI-Generated Images
  - [https://picfinder.ai](https://picfinder.ai)
  - date_published: 2024-06-19T19:33:45.512798+00:00
@@ -4013,8 +4017,4 @@
  ## Typli.ai - AI Writing Tools with Superpowers.
  - [https://typli.ai](https://typli.ai)
  - date_published: 2024-03-09T00:00:00+00:00
-
- ## Uberduck - Generate speech from text
- - [https://app.uberduck.ai](https://app.uberduck.ai)
- - date_published: 2024-05-13T02:41:11.077330+00:00
 

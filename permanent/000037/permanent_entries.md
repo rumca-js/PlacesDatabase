@@ -1,3 +1,11 @@
+ ## Home | Fiducoldex
+ - [https://fiducoldex.com.co](https://fiducoldex.com.co)
+ - date_published: 2024-06-12T02:51:24.331446+00:00
+
+ ## Servicio al Cliente Fiducoldex
+ - [https://pqrsf.fiducoldex.com.co](https://pqrsf.fiducoldex.com.co)
+ - date_published: 2024-09-10T15:05:04.730735+00:00
+
  ## Fiduciaria Popular | Nueva Alternativa de Inversión - fidupopular.com.co
  - [https://www.fidupopular.com.co](https://www.fidupopular.com.co)
  - date_published: 2024-06-12T13:24:10.687966+00:00
@@ -4051,12 +4059,4 @@
  ## Escuela de Formación Virtual - Ministerio de Ambiente y Desarrollo Sostenible
  - [https://escueladeformacion.minambiente.gov.co](https://escueladeformacion.minambiente.gov.co)
  - date_published: 2024-09-10T16:02:06+00:00
-
- ## Edwin Sanabria
- - [https://especiales.minambiente.gov.co](https://especiales.minambiente.gov.co)
- - date_published: 2023-05-27T02:52:10+00:00
-
- ## Acceder < Intranet – Ministerio de Ambiente y Desarrollo Sostenible — WordPress
- - [https://intranet.minambiente.gov.co](https://intranet.minambiente.gov.co)
- - date_published: 2024-06-12T03:03:18.057974+00:00
 

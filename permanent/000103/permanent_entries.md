@@ -1,3 +1,19 @@
+ ## La seule source d’information en gestion des TI au Québec | Direction Informatique
+ - [https://directioninformatique.com](https://directioninformatique.com)
+ - date_published: 2022-05-22T18:03:57+00:00
+
+ ## Optimize Your Microsoft Decisions
+ - [https://directionsonmicrosoft.com](https://directionsonmicrosoft.com)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Berkey Drinking Water Purification Systems & More | 1-877-886-3653
+ - [https://www.directive21.com](https://www.directive21.com)
+ - date_published: 2024-05-06T17:14:26.596543+00:00
+
+ ## Directive 8020
+ - [https://directive8020.com](https://directive8020.com)
+ - date_published: 2024-08-20T18:25:20+00:00
+
  ## Job Search | DirectlyApply
  - [https://directlyapply.com](https://directlyapply.com)
  - date_published: 2023-11-07T16:06:41.136104+00:00
@@ -4017,20 +4033,4 @@
  ## Docebo - Sign In
  - [https://roi.docebo.com](https://roi.docebo.com)
  - date_published: 2024-05-01T05:43:34.813341+00:00
-
- ## Loading
- - [https://university.docebo.com](https://university.docebo.com)
- - date_published: 2024-09-04T11:30:25+00:00
-
- ## Loading
- - [https://threatlocker.docebosaas.com](https://threatlocker.docebosaas.com)
- - date_published: 2024-07-03T09:49:32+00:00
-
- ## Loading
- - [https://uab.docebosaas.com](https://uab.docebosaas.com)
- - date_published: 2024-07-03T09:49:32+00:00
-
- ## Docent Press – Thoughtful Reading in the History of Mathematics and Computing
- - [http://www.docentpress.com](http://www.docentpress.com)
- - date_published: 2024-08-11T14:50:50.500926+00:00
 

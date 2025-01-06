@@ -1,3 +1,115 @@
+ ## Home - AAJ
+ - [https://aaj.tv](https://aaj.tv)
+ - date_published: 2024-05-02T13:49:25.075860+00:00
+
+ ## Home - Aaj English TV
+ - [https://english.aaj.tv](https://english.aaj.tv)
+ - date_published: 2024-06-18T16:25:57.355599+00:00
+
+ ## Home - Aaj English TV
+ - [https://www.aajenglish.tv](https://www.aajenglish.tv)
+ - date_published: 2024-10-22T20:32:26.499054+00:00
+
+ ## Home - Aajentertainment.tv
+ - [https://www.aajentertainment.tv](https://www.aajentertainment.tv)
+ - date_published: 2024-06-18T16:25:55.230283+00:00
+
+ ## Aaron Parecki - aaronpk.tv
+ - [https://aaronpk.tv](https://aaronpk.tv)
+ - date_published: 2024-05-01T00:32:29.610114+00:00
+
+ ## Aaron Parecki
+ - [https://news.aaronpk.tv](https://news.aaronpk.tv)
+ - date_published: 2024-06-14T16:39:40.079009+00:00
+
+ ## Abavala.TV
+ - [https://www.abavala.tv](https://www.abavala.tv)
+ - date_published: 2024-09-05T13:51:29+00:00
+
+ ## ABEMA | 無料動画・話題の作品が楽しめる新しい未来のテレビ
+ - [https://abema.tv](https://abema.tv)
+ - date_published: 2024-05-09T02:40:03.545208+00:00
+
+ ## ABEMA TIMES | アベマタイムズ
+ - [https://times.abema.tv](https://times.abema.tv)
+ - date_published: 2024-07-08T20:29:34.516402+00:00
+
+ ## Abstract Factory
+ - [http://www.abstractfactory.tv](http://www.abstractfactory.tv)
+ - date_published: 2015-12-15T16:19:42+00:00
+
+ ## Admo.tv : Authentification
+ - [https://app.admo.tv](https://app.admo.tv)
+ - date_published: 2024-06-25T22:05:46.956926+00:00
+
+ ## Admo.tv | Admo.tv : première plateforme d'attribution TV
+ - [https://cdn-showcase.admo.tv](https://cdn-showcase.admo.tv)
+ - date_published: 2024-06-25T22:05:57.952928+00:00
+
+ ## Admo.tv | Admo.tv: the first TV attribution platform
+ - [https://www.admo.tv](https://www.admo.tv)
+ - date_published: 2024-05-06T17:49:55.018641+00:00
+
+ ## Advanced Television
+ - [https://advanced-television.tv](https://advanced-television.tv)
+ - date_published: 2024-10-20T16:56:29.315257+00:00
+
+ ## Homepage | A+E Networks EMEA
+ - [https://www.aenetworks.tv](https://www.aenetworks.tv)
+ - date_published: 2024-07-12T15:13:50.607959+00:00
+
+ ## Aggressive
+ - [https://aggressive.tv](https://aggressive.tv)
+ - date_published: 2024-07-13T14:26:22.646966+00:00
+
+ ## AI-Media: AI-Powered Captioning Technology & Solutions
+ - [https://www.ai-media.tv](https://www.ai-media.tv)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Aisle 3 - Video Production
+ - [http://aisle3.tv](http://aisle3.tv)
+ - date_published: 2023-12-19T00:00:00+00:00
+
+ ## Aitum | The best automation tool for streamers
+ - [https://aitum.tv](https://aitum.tv)
+ - date_published: 2024-07-09T18:48:05.894646+00:00
+
+ ## Breaking News, World News and Video from Al Jazeera
+ - [https://ajmn.tv](https://ajmn.tv)
+ - date_published: 2024-06-15T10:41:41.740357+00:00
+
+ ## TVアニメ「アカメが斬る！」公式サイト
+ - [http://akame.tv](http://akame.tv)
+ - date_published: 2024-02-13T07:39:32+00:00
+
+ ## All Dog Videos. All Day. Live on AKC.TV.
+ - [https://akc.tv](https://akc.tv)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## قناة الجديد | أخبار لبنان والعالم
+ - [https://aljadeed.tv](https://aljadeed.tv)
+ - date_published: 2024-05-10T04:47:58.431384+00:00
+
+ ## Home - Allen Media Group
+ - [https://allenmedia.tv](https://allenmedia.tv)
+ - date_published: 2024-06-21T00:01:41.190923+00:00
+
+ ## ÙÙØ§Ø© Ø§ÙÙÙØ§Ø¯ÙÙ
+ - [https://cdn.almayadeen.tv](https://cdn.almayadeen.tv)
+ - date_published: 2019-07-16T09:17:36+00:00
+
+ ## اخبار العراق من قناه السومرية العراقية
+ - [http://www.alsumaria.tv](http://www.alsumaria.tv)
+ - date_published: 2024-07-11T19:02:28.321190+00:00
+
+ ## Sign into
+ - [https://support.amagi.tv](https://support.amagi.tv)
+ - date_published: 2024-06-25T18:54:06.702059+00:00
+
+ ## AMERICAEAST.TV
+ - [http://americaeast.tv](http://americaeast.tv)
+ - date_published: 2024-09-04T19:09:15.305640+00:00
+
  ## HOME | America Uncovered
  - [https://www.americauncovered.tv](https://www.americauncovered.tv)
  - date_published: 2024-07-11T00:00:00+00:00
@@ -2052,7 +2164,7 @@
  - date_published: 2024-05-07T10:34:07.880978+00:00
 
  ## Elma Online
- - [http://recsource.tv](http://recsource.tv)
+ - [https://recsource.tv](https://recsource.tv)
  - date_published: 2024-05-29T18:43:00+00:00
 
  ## Red Ice | The Future is the Past
@@ -2072,11 +2184,11 @@
  - date_published: 2024-06-23T00:00:00+00:00
 
  ## ReligiousLiberty.TV / Founders' First Freedom®  - News and Updates on Religious Liberty and Freedom
- - [http://religiousliberty.tv](http://religiousliberty.tv)
+ - [https://religiousliberty.tv](https://religiousliberty.tv)
  - date_published: 2024-06-28T20:52:23.922735+00:00
 
  ## Новости — наше призвание
- - [https://ren.tv](https://ren.tv)
+ - [http://ren.tv](http://ren.tv)
  - date_published: 2019-12-03T12:45:47+00:00
 
  ## RETVRN.TV
@@ -2109,7 +2221,7 @@
  - date_published: 2024-10-29T20:05:31.147487+00:00
 
  ## SBJ Live: Managing the content explosion in live sports
- - [https://www.sbj.tv](https://www.sbj.tv)
+ - [https://sbj.tv](https://sbj.tv)
  - date_published: 2024-08-02T00:00:00+00:00
 
  ## SceneCity.TV
@@ -2128,17 +2240,18 @@
  ## scottott.tv - Ta strona jest na sprzedaż! - scottott Zasoby i informacje.
  - [https://scottott.tv](https://scottott.tv)
  - date_published: 2024-06-27T09:39:26+00:00
+ - date_dead_since: 2025-01-05T18:12:49.128298+00:00
 
  ## Script Network
  - [https://token.script.tv](https://token.script.tv)
  - date_published: 2024-09-23T12:18:44+00:00
 
  ## Seemore | Automagic Creator Pages
- - [https://www.seemore.tv](https://www.seemore.tv)
+ - [https://seemore.tv](https://seemore.tv)
  - date_published: 2024-07-21T04:53:11.952762+00:00
 
  ## Señal Colombia: una experiencia educativa y cultural.
- - [http://www.senalcolombia.tv](http://www.senalcolombia.tv)
+ - [https://senalcolombia.tv](https://senalcolombia.tv)
  - date_published: 2024-09-12T14:46:42+00:00
 
  ## Home
@@ -2154,11 +2267,11 @@
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## ShinyShiny
- - [http://www.shinyshiny.tv](http://www.shinyshiny.tv)
+ - [https://shinyshiny.tv](https://shinyshiny.tv)
  - date_published: 2024-08-11T02:02:54+00:00
 
  ## العاب باباس
- - [http://silentrunning.tv](http://silentrunning.tv)
+ - [https://silentrunning.tv](https://silentrunning.tv)
  - date_published: 2024-06-20T03:11:19.102734+00:00
 
  ## smartclip: Engineering the future of TV advertising
@@ -2170,7 +2283,7 @@
  - date_published: 2024-05-06T17:32:14.501867+00:00
 
  ## Level Up the Playlist - Indie Music Elevates Game Soundtracks
- - [https://www.smashcast.tv](https://www.smashcast.tv)
+ - [https://smashcast.tv](https://smashcast.tv)
  - date_published: 2024-07-02T20:12:11.996185+00:00
 
  ## Смотрёшка – интерактивное телевидение и онлайн-кинотеатр в одном приложении
@@ -2190,7 +2303,7 @@
  - date_published: 2024-05-15T02:51:22.384016+00:00
 
  ## socialstudios.tv - socialstudios Zasoby i informacje.
- - [https://www.socialstudios.tv](https://www.socialstudios.tv)
+ - [https://socialstudios.tv](https://socialstudios.tv)
  - date_published: 2024-06-23T07:57:31+00:00
 
  ## software-architektur.tv
@@ -2215,7 +2328,7 @@
  - date_published: 2024-01-15T00:00:00+00:00
 
  ## Before you continue to YouTube
- - [http://www.soundstage.tv](http://www.soundstage.tv)
+ - [https://soundstage.tv](https://soundstage.tv)
  - date_published: 2024-07-27T02:55:43.595518+00:00
 
  ## Soy Autónomo
@@ -2227,7 +2340,7 @@
  - date_published: 2018-11-02T10:26:21+00:00
 
  ## SPIEGEL TV - DER SPIEGEL
- - [https://www.spiegel.tv](https://www.spiegel.tv)
+ - [https://spiegel.tv](https://spiegel.tv)
  - date_published: 2024-02-27T00:00:00+00:00
 
  ## Home
@@ -2239,7 +2352,7 @@
  - date_published: 2024-04-05T18:56:11.260558+00:00
 
  ## Motion design - STASH
- - [https://www.stashmedia.tv](https://www.stashmedia.tv)
+ - [https://stashmedia.tv](https://stashmedia.tv)
  - date_published: 2024-09-14T09:30:42.947654+00:00
 
  ## steephill.tv bike travelogue and procycling live coverage
@@ -2267,11 +2380,11 @@
  - date_published: 2024-05-10T00:00:00+00:00
 
  ## Stumpt
- - [http://store.stumpt.tv](http://store.stumpt.tv)
+ - [https://store.stumpt.tv](https://store.stumpt.tv)
  - date_published: 2024-06-19T01:36:56.393645+00:00
 
  ## Stumpt
- - [http://stumpt.tv](http://stumpt.tv)
+ - [https://stumpt.tv](https://stumpt.tv)
  - date_published: 2024-06-19T01:36:55.044604+00:00
 
  ## Competitions
@@ -2279,11 +2392,11 @@
  - date_published: 2024-05-02T10:38:29.257216+00:00
 
  ## STV Player | Everything that’s on STV plus a whole lot more
- - [http://local.stv.tv](http://local.stv.tv)
+ - [https://local.stv.tv](https://local.stv.tv)
  - date_published: 2024-10-21T17:30:41.840789+00:00
 
  ## STV | The home of your favourite shows
- - [http://my.stv.tv](http://my.stv.tv)
+ - [https://my.stv.tv](https://my.stv.tv)
  - date_published: 2024-06-05T10:10:37+00:00
 
  ## STV News | The home of Scottish News, Sport & Weather
@@ -2311,11 +2424,11 @@
  - date_published: 2024-06-17T16:43:57+00:00
 
  ## STV Commercial
- - [https://www.stvcommercial.tv](https://www.stvcommercial.tv)
+ - [https://stvcommercial.tv](https://stvcommercial.tv)
  - date_published: 2024-06-17T16:43:56.945830+00:00
 
  ## STV Home
- - [http://www.stvplc.tv](http://www.stvplc.tv)
+ - [https://stvplc.tv](https://stvplc.tv)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## SunMedia
@@ -2323,7 +2436,7 @@
  - date_published: 2024-03-06T00:00:00+00:00
 
  ## SuperLatina TV
- - [http://superlatina.tv](http://superlatina.tv)
+ - [https://superlatina.tv](https://superlatina.tv)
  - date_published: 2024-10-19T20:38:38.027265+00:00
 
  ## sweet.tv - TV channels and movies online in high quality
@@ -2332,7 +2445,7 @@
  - tags: ['piracy']
 
  ## تلفزيون سوريا | أخر أخبار سوريا اليوم
- - [https://www.syria.tv](https://www.syria.tv)
+ - [https://syria.tv](https://syria.tv)
  - date_published: 2024-09-13T20:02:06+00:00
 
  ## Kacper Szurek - Blog
@@ -2361,7 +2474,7 @@
  - date_published: 2024-12-16T17:27:00.287242+00:00
 
  ## TDT colombia
- - [https://www.tdtparatodos.tv](https://www.tdtparatodos.tv)
+ - [https://tdtparatodos.tv](https://tdtparatodos.tv)
  - date_published: 2024-06-12T12:15:18.600593+00:00
 
  ## ▌│█║▌║▌║ тнe тeacнing мacнine ║▌║▌║█│▌
@@ -2381,7 +2494,7 @@
  - date_published: 2024-06-25T19:34:08.706378+00:00
 
  ## Techlive International - Latest Movies & TV Content for Hospitality
- - [https://www.techlive.tv](https://www.techlive.tv)
+ - [https://techlive.tv](https://techlive.tv)
  - date_published: 2024-08-16T00:00:00+00:00
 
  ## Home - Techstrong TV
@@ -2401,7 +2514,7 @@
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## TeleBärn | TeleBaern
- - [https://www.telebaern.tv](https://www.telebaern.tv)
+ - [https://telebaern.tv](https://telebaern.tv)
  - date_published: 2024-06-27T10:56:42.089108+00:00
 
  ## Baladodiffusion | Télé-Québec
@@ -2427,9 +2540,10 @@
  ## Formulaire: Dépôts de Projets
  - [https://depotprojet.telequebec.tv](https://depotprojet.telequebec.tv)
  - date_published: 2024-08-05T15:49:07.064621+00:00
+ - date_dead_since: 2025-01-05T18:19:20.596855+00:00
 
  ## Accueil - Télé Québec Publicité et médias
- - [http://performance.telequebec.tv](http://performance.telequebec.tv)
+ - [https://performance.telequebec.tv](https://performance.telequebec.tv)
  - date_published: 2021-04-01T13:24:51+00:00
 
  ## Squat | Télé-Québec
@@ -2449,7 +2563,7 @@
  - date_published: 2024-03-23T00:00:00+00:00
 
  ## Tella — Online Screen Recorder for Mac & Windows
- - [https://www.tella.tv](https://www.tella.tv)
+ - [https://tella.tv](https://tella.tv)
  - date_published: 2024-07-02T11:01:36+00:00
 
  ## Home - Tenderfoot TV
@@ -2457,7 +2571,7 @@
  - date_published: 2024-04-12T00:00:00+00:00
 
  ## The Big Issue TV
- - [https://www.thebigissue.tv](https://www.thebigissue.tv)
+ - [https://thebigissue.tv](https://thebigissue.tv)
  - date_published: 2024-06-18T15:27:21.656775+00:00
 
  ## The Chosen - Watch All Episodes Free
@@ -2469,7 +2583,7 @@
  - date_published: 2024-06-17T16:50:03.115625+00:00
 
  ## The Chosen - Help Center
- - [https://support.thechosen.tv](https://support.thechosen.tv)
+ - [http://support.thechosen.tv](http://support.thechosen.tv)
  - date_published: 2024-06-17T16:50:06.511328+00:00
 
  ## The Chosen TV Series | See the Videos & The Trailers with the Free Chosen App Today!
@@ -2490,7 +2604,7 @@
  - date_published: 2024-10-24T11:29:37.196399+00:00
 
  ## The Invaders Episode Reviews
- - [https://www.theinvaders.tv](https://www.theinvaders.tv)
+ - [https://theinvaders.tv](https://theinvaders.tv)
  - date_published: 2023-08-17T22:42:11+00:00
 
  ## The Kitchen
@@ -2498,7 +2612,7 @@
  - date_published: 2024-05-10T06:58:14.030841+00:00
 
  ## The Mel K Show – Welcome, Truth Seekers!
- - [https://www.themelkshow.tv](https://www.themelkshow.tv)
+ - [https://themelkshow.tv](https://themelkshow.tv)
  - date_published: 2024-07-03T18:46:13.406342+00:00
 
  ## The People's Voice
@@ -2508,6 +2622,7 @@
  ## The People's Voice Community
  - [https://community.thepeoplesvoice.tv](https://community.thepeoplesvoice.tv)
  - date_published: 2024-04-20T00:00:00+00:00
+ - date_dead_since: 2025-01-05T18:23:04.538542+00:00
 
  ## The People's Voice - Where Mainstream Fears to Tread
  - [https://thepeoplesvoice.tv](https://thepeoplesvoice.tv)
@@ -2523,7 +2638,7 @@
  - tags: ['satanism', 'satanic temple']
 
  ## Welcome – New
- - [http://www.thesecret.tv](http://www.thesecret.tv)
+ - [https://thesecret.tv](https://thesecret.tv)
  - date_published: 2024-04-25T00:00:00+00:00
 
  ## The Shelf | Ver Películas Online con tu Biblioteca
@@ -2531,11 +2646,11 @@
  - date_published: 2024-04-28T02:09:33.943934+00:00
 
  ## Propaganda EXPOSED! [UNCENSORED] Starts Nov 1
- - [http://www.thetruthaboutcancer.tv](http://www.thetruthaboutcancer.tv)
+ - [https://thetruthaboutcancer.tv](https://thetruthaboutcancer.tv)
  - date_published: 2024-07-03T08:30:35.570015+00:00
 
  ## Home | Thinkbox
- - [https://www.thinkbox.tv](https://www.thinkbox.tv)
+ - [https://thinkbox.tv](https://thinkbox.tv)
  - date_published: 2024-08-05T19:04:24.664099+00:00
 
  ## The Thom Hartmann Radio & TV Program | Substack
@@ -2543,7 +2658,7 @@
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Thoughtware.TV
- - [http://www.thoughtware.tv](http://www.thoughtware.tv)
+ - [https://thoughtware.tv](https://thoughtware.tv)
  - date_published: 2023-12-10T17:28:07+00:00
 
  ## Titan OS | Re-thinking TV
@@ -2564,7 +2679,7 @@
  - date_published: 2024-11-09T14:39:53+00:00
 
  ## ICI TOU.TV | Vos séries, films et documentaires préférés
- - [http://ici.tou.tv](http://ici.tou.tv)
+ - [https://ici.tou.tv](https://ici.tou.tv)
  - date_published: 2024-07-10T05:32:21.183942+00:00
 
  ## Trakt Blog
@@ -2596,11 +2711,11 @@
  - date_published: 2024-09-16T06:27:38.626639+00:00
 
  ## True North - making stand-out factual content for global audiences
- - [http://www.truenorth.tv](http://www.truenorth.tv)
+ - [https://truenorth.tv](https://truenorth.tv)
  - date_published: 2024-07-18T22:03:45.788798+00:00
 
  ## TrueNuff.tv  | Index
- - [https://www.truenuff.tv](https://www.truenuff.tv)
+ - [https://truenuff.tv](https://truenuff.tv)
  - date_published: 2024-07-12T22:22:00.815389+00:00
 
  ## Tubi is the largest free movie and TV streaming service in the US. We are not available in Europe due to changes in EU laws.
@@ -2612,7 +2727,7 @@
  - date_published: 2024-06-21T09:57:03+00:00
 
  ## TWiT Live Chat
- - [http://irc.twit.tv](http://irc.twit.tv)
+ - [https://irc.twit.tv](https://irc.twit.tv)
  - date_published: 2023-11-13T18:48:26+00:00
 
  ## Looking for Live Content? | TWiT.TV
@@ -2722,11 +2837,11 @@
  - date_published: 2024-05-11T09:05:56.155226+00:00
 
  ## UCSD-TV, UC San Diego Television
- - [http://www.ucsd.tv](http://www.ucsd.tv)
+ - [https://ucsd.tv](https://ucsd.tv)
  - date_published: 2024-07-02T01:24:10.217747+00:00
 
  ## Quad Split Sites:
- - [http://podcast.uctv.tv](http://podcast.uctv.tv)
+ - [https://podcast.uctv.tv](https://podcast.uctv.tv)
  - date_published: 2018-05-23T18:15:42+00:00
 
  ## UCTV, University of California Television
@@ -2734,7 +2849,7 @@
  - date_published: 2024-05-07T21:00:43.429278+00:00
 
  ## UEFA.tv
- - [https://www.uefa.tv](https://www.uefa.tv)
+ - [https://uefa.tv](https://uefa.tv)
  - date_published: 2024-06-10T10:23:26+00:00
 
  ## ufabet 191 แทงบอลออนไลน์ สมัครใหม่รับโบนัส 100% สูงสุด 1000 บาท ไม่มีขั้นต่ำ
@@ -2746,7 +2861,7 @@
  - date_published: 2024-11-16T20:25:56.097062+00:00
 
  ## Unicable home
- - [https://www.unicable.tv](https://www.unicable.tv)
+ - [https://unicable.tv](https://unicable.tv)
  - date_published: 2024-07-24T00:00:00+00:00
 
  ## UNIFYD TV - Join the Movement.
@@ -2754,11 +2869,11 @@
  - date_published: 2024-07-03T19:06:02.570077+00:00
 
  ## United Voices
- - [http://unitedvoices.tv](http://unitedvoices.tv)
+ - [https://unitedvoices.tv](https://unitedvoices.tv)
  - date_published: 2024-06-29T23:53:37+00:00
 
  ## Digital Signage Software | UPshow
- - [https://www.upshow.tv](https://www.upshow.tv)
+ - [https://upshow.tv](https://upshow.tv)
  - date_published: 2024-08-26T00:00:00+00:00
 
  ## Survive & Thrive as a Solopreneur
@@ -2790,7 +2905,7 @@
  - date_published: 2024-10-19T22:09:03.817998+00:00
 
  ## IBM Video Streaming
- - [http://ustream.tv](http://ustream.tv)
+ - [https://ustream.tv](https://ustream.tv)
  - date_published: 2024-07-13T10:11:39+00:00
 
  ## Vadoo AI Dashboard - Streamline Your Video Creation with Vadoo AI
@@ -2840,6 +2955,7 @@
  ## Vimeo OTT
  - [https://embed.vhx.tv](https://embed.vhx.tv)
  - date_published: 2024-07-26T05:14:05.020942+00:00
+ - date_dead_since: 2025-01-05T18:32:37.163169+00:00
 
  ## History Hit
  - [https://historyhit1.vhx.tv](https://historyhit1.vhx.tv)
@@ -2858,7 +2974,7 @@
  - date_published: 2024-07-17T08:19:26.127008+00:00
 
  ## Vimeo OTT Customer Support
- - [http://support.vhx.tv](http://support.vhx.tv)
+ - [https://support.vhx.tv](https://support.vhx.tv)
  - date_published: 2024-07-20T05:51:10.565580+00:00
 
  ## Watcher Membership
@@ -2894,8 +3010,8 @@
  - date_published: 2024-07-03T18:57:51.787054+00:00
 
  ## Телеканалы смотреть онлайн бесплатно в хорошем качестве hd в прямом эфире » Viks.tv
- - [http://ip.viks.tv](http://ip.viks.tv)
- - date_published: 2024-09-13T19:18:41.098071+00:00
+ - [https://ip.viks.tv](https://ip.viks.tv)
+ - date_published: 2022-11-06T07:06:46+00:00
 
  ## VizChoice
  - [https://console.vizchoice.tv](https://console.vizchoice.tv)
@@ -2910,7 +3026,7 @@
  - date_published: 2024-05-10T05:26:53.672802+00:00
 
  ## High-Speed Internet in Fort Johnson, LA
- - [http://www.warrior.tv](http://www.warrior.tv)
+ - [https://warrior.tv](https://warrior.tv)
  - date_published: 2024-06-29T16:20:25.187250+00:00
 
  ## WCJB Sales TV
@@ -2918,11 +3034,11 @@
  - date_published: 2024-12-27T23:54:15.803351+00:00
 
  ## WCTV | News, Weather and Sports | Tallahassee, FL
- - [https://www.wctv.tv](https://www.wctv.tv)
+ - [https://wctv.tv](https://wctv.tv)
  - date_published: 2024-07-08T19:52:33+00:00
 
  ## History of Weapons & War
- - [https://www.weaponsandwar.tv](https://www.weaponsandwar.tv)
+ - [https://weaponsandwar.tv](https://weaponsandwar.tv)
  - date_published: 2024-06-21T09:41:41.067522+00:00
 
  ## Home | WEAVR
@@ -2932,9 +3048,10 @@
  ## Sautv
  - [https://sautv.web.tv](https://sautv.web.tv)
  - date_published: 2024-10-19T14:41:07.031136+00:00
+ - date_dead_since: 2025-01-05T18:34:25.584025+00:00
 
  ## Web3tv.com - Coming Soon!
- - [http://web3.tv](http://web3.tv)
+ - [https://web3.tv](https://web3.tv)
  - date_published: 2024-03-19T04:28:26+00:00
 
  ## webcontrols.tv
@@ -2942,7 +3059,7 @@
  - date_published: 2024-11-16T20:37:15.948931+00:00
 
  ## Portal Home - Webhosting.tv
- - [http://www.webhosting.tv](http://www.webhosting.tv)
+ - [https://webhosting.tv](https://webhosting.tv)
  - date_published: 2024-07-12T18:51:14.914245+00:00
 
  ## Trigger the Wheel of Wishes Free Spins & Win Big with This Guide
@@ -3002,7 +3119,7 @@
  - date_published: 2024-12-30T01:57:15+00:00
 
  ## WVLT | East Tennessee News, Weather | Knoxville, TN
- - [https://www.wvlt.tv](https://www.wvlt.tv)
+ - [https://wvlt.tv](https://wvlt.tv)
  - date_published: 2024-07-09T22:48:13+00:00
 
  ## - Sarasota, Florida News and Weather | ABC7 WWSB | MySuncoast.com
@@ -3010,7 +3127,7 @@
  - date_published: 2024-12-25T12:55:21+00:00
 
  ## 西宁网络电视台 西宁新闻门户 西宁广播电
- - [https://www.xntv.tv](https://www.xntv.tv)
+ - [http://www.xntv.tv](http://www.xntv.tv)
  - date_published: 2024-06-30T18:19:35.006031+00:00
 
  ## Xoilac 365 Trực tiếp bóng đá - Link xem bóng đá chất lượng HD
@@ -3026,7 +3143,7 @@
  - date_published: 2024-05-20T07:56:12+00:00
 
  ## Home - Yella Umbrella Ltd.
- - [https://www.yellaumbrella.tv](https://www.yellaumbrella.tv)
+ - [https://yellaumbrella.tv](https://yellaumbrella.tv)
  - date_published: 2024-04-03T00:00:00+00:00
 
  ## HOME | yes Studios
@@ -3038,7 +3155,7 @@
  - date_published: 2023-12-02T13:10:45.706597+00:00
 
  ## Yikes | Haberdashery - Los Angeles & New York
- - [http://yikes.tv](http://yikes.tv)
+ - [https://yikes.tv](https://yikes.tv)
  - date_published: 2024-07-13T14:47:36.717660+00:00
 
  ## 一席
@@ -3110,11 +3227,11 @@
  - date_published: 2017-12-31T00:00:00+00:00
 
  ## 智家网-智能家居品牌加盟--和网络媒体
- - [http://www.znjj.tv](http://www.znjj.tv)
+ - [https://znjj.tv](https://znjj.tv)
  - date_published: 2024-10-25T11:57:06.982335+00:00
 
  ## 104人力銀行－不只找工作、幫你找方向的求職徵才平台
- - [https://www.104.com.tw](https://www.104.com.tw)
+ - [https://104.com.tw](https://104.com.tw)
  - date_published: 2024-06-21T15:29:30.333209+00:00
 
  ## 新通訊
@@ -3122,15 +3239,15 @@
  - date_published: 2024-10-31T12:02:09.481347+00:00
 
  ## 優質醫療保健資訊平台 - 39健康網
- - [https://www.39health.com.tw](https://www.39health.com.tw)
+ - [https://39health.com.tw](https://39health.com.tw)
  - date_published: 2024-10-25T10:28:07.886295+00:00
 
  ## 3M 科技 改善生活│3M 台灣
- - [https://www.3m.com.tw](https://www.3m.com.tw)
+ - [https://3m.com.tw](https://3m.com.tw)
  - date_published: 2024-08-06T10:39:18.957136+00:00
 
  ## 4Gamers
- - [https://www.4gamers.com.tw](https://www.4gamers.com.tw)
+ - [https://4gamers.com.tw](https://4gamers.com.tw)
  - date_published: 2024-08-18T06:58:02.510552+00:00
 
  ## Adecco 藝珂人事股份有限公司 | Adecco Taiwan
@@ -3138,7 +3255,7 @@
  - date_published: 2024-10-29T04:20:52.735605+00:00
 
  ## ADK TAIWAN | 觸動心消費，促動新價值
- - [https://www.adk.com.tw](https://www.adk.com.tw)
+ - [https://adk.com.tw](https://adk.com.tw)
  - date_published: 2024-10-15T14:15:07.768587+00:00
 
  ## Employee Portal - Homepage
@@ -3150,7 +3267,7 @@
  - date_published: 2024-09-05T21:53:37.350949+00:00
 
  ## 漢翔航空工業股份有限公司
- - [http://www.aidc.com.tw](http://www.aidc.com.tw)
+ - [https://www.aidc.com.tw](https://www.aidc.com.tw)
  - date_published: 2024-07-09T21:50:34.130857+00:00
 
  ## Airbnb | 度假屋、小木屋、海邊房源等
@@ -3158,7 +3275,7 @@
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Altair | Discover Continuously. Advance Infinitely - Only Forward.
- - [https://www.altair.com.tw](https://www.altair.com.tw)
+ - [https://altair.com.tw](https://altair.com.tw)
  - date_published: 2024-10-15T22:27:54+00:00
 
  ## 亞馬遜台灣 | 跨境電商網站 | Amazon 亞馬遜全球開店
@@ -3166,7 +3283,7 @@
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## 主頁 | Ambarella
- - [https://www.ambarella.com.tw](https://www.ambarella.com.tw)
+ - [https://ambarella.com.tw](https://ambarella.com.tw)
  - date_published: 2024-09-14T09:54:46.796660+00:00
 
  ## Home
@@ -3174,47 +3291,48 @@
  - date_published: 2024-06-15T10:44:11.823112+00:00
 
  ## Audi Taiwan
- - [http://www.audi.com.tw](http://www.audi.com.tw)
+ - [https://audi.com.tw](https://audi.com.tw)
  - date_published: 2024-07-19T20:24:15+00:00
 
  ## Blue Dragon Art Company
- - [http://www.bluedragonart.com.tw](http://www.bluedragonart.com.tw)
+ - [https://bluedragonart.com.tw](https://bluedragonart.com.tw)
  - date_published: 2024-06-17T16:53:58.153195+00:00
 
  ## 國家地理雜誌｜大石文化官方商城
- - [https://www.bmall.com.tw](https://www.bmall.com.tw)
+ - [https://bmall.com.tw](https://bmall.com.tw)
  - date_published: 2024-10-14T00:00:00+00:00
+
+ ## 數位時代 BusinessNext
+ - [https://bnext.com.tw](https://bnext.com.tw)
+ - date_published: 2024-06-27T00:00:00+00:00
 
  ## Web3+｜最好懂的區塊鏈媒體
  - [https://web3plus.bnext.com.tw](https://web3plus.bnext.com.tw)
  - date_published: 2024-12-16T13:05:10.265850+00:00
-
- ## 數位時代 BusinessNext
- - [https://www.bnext.com.tw](https://www.bnext.com.tw)
- - date_published: 2024-06-27T00:00:00+00:00
 
  ## Event Go活動平台 | 你學習新知的好夥伴
  - [https://eventgo.bnextmedia.com.tw](https://eventgo.bnextmedia.com.tw)
  - date_published: 2024-10-20T09:26:19.088764+00:00
 
  ## 歡迎光臨博客來
- - [http://www.books.com.tw](http://www.books.com.tw)
+ - [https://books.com.tw](https://books.com.tw)
  - date_published: 2024-06-30T03:49:29.046892+00:00
 
  ## 博世家電：品質、可靠與精確的美好體驗。
- - [https://www.bosch-home.com.tw](https://www.bosch-home.com.tw)
+ - [https://bosch-home.com.tw](https://bosch-home.com.tw)
  - date_published: 2024-06-16T21:35:17.259808+00:00
 
  ## 臺灣銀行 Bank of Taiwan
  - [https://www.bot.com.tw](https://www.bot.com.tw)
- - date_published: 2024-10-19T22:30:50.135408+00:00
+ - date_published: 2024-10-15T09:34:50+00:00
 
  ## CAPCOM TAIWAN
  - [https://capcom.com.tw](https://capcom.com.tw)
  - date_published: 2024-05-09T14:42:21.961851+00:00
+ - date_dead_since: 2025-01-05T18:44:31.688187+00:00
 
  ## 『ROCKMAN X DIVE』官方網站
- - [http://rxd.capcom.com.tw](http://rxd.capcom.com.tw)
+ - [https://rxd.capcom.com.tw](https://rxd.capcom.com.tw)
  - date_published: 2024-10-24T09:41:12.152878+00:00
 
  ## 醫級好膚 | 舒特膚®
@@ -3222,7 +3340,7 @@
  - date_published: 2024-10-30T23:02:34.359432+00:00
 
  ## CHALLENTECH INTERNATIONAL CORP.
- - [http://www.challentech.com.tw](http://www.challentech.com.tw)
+ - [https://challentech.com.tw](https://challentech.com.tw)
  - date_published: 2024-10-19T03:55:06.400480+00:00
 
  ## 中華電信 - 5G行動上網通話、HiNet光世代寬頻上網/市話、MOD影視娛樂及智慧生活應用 | 中華電信網路門市CHT.com.tw
@@ -3230,7 +3348,7 @@
  - date_published: 2024-07-07T10:16:07.952880+00:00
 
  ## 城邦讀書花園網路書店
- - [http://www.cite.com.tw](http://www.cite.com.tw)
+ - [https://cite.com.tw](https://cite.com.tw)
  - date_published: 2024-06-30T07:06:59.085507+00:00
 
  ## Citi 台灣
@@ -3266,7 +3384,7 @@
  - date_published: 2024-07-16T20:57:42.276407+00:00
 
  ## 403 - 禁止: 拒絕存取。
- - [https://imgcdn.cna.com.tw](https://imgcdn.cna.com.tw)
+ - [http://imgcdn.cna.com.tw](http://imgcdn.cna.com.tw)
  - date_published: 2024-05-12T07:10:21.433600+00:00
 
  ## 歡迎使用 CNA Web Mail
@@ -3282,7 +3400,7 @@
  - date_published: 2022-06-27T02:26:36+00:00
 
  ## 中央社客戶網頁 CNA NEWS
- - [http://service.cna.com.tw](http://service.cna.com.tw)
+ - [https://service.cna.com.tw](https://service.cna.com.tw)
  - date_published: 2024-07-16T20:57:58.639854+00:00
 
  ## 逗點文創結社
@@ -3290,11 +3408,11 @@
  - date_published: 2024-12-31T13:22:25+00:00
 
  ## COMPUTEX (含InnoVEX) 2024參觀登錄
- - [https://www.computexonline.com.tw](https://www.computexonline.com.tw)
- - date_published: 2024-06-19T23:05:41.587392+00:00
+ - [https://computexonline.com.tw](https://computexonline.com.tw)
+ - date_published: 2023-12-01T06:56:39+00:00
 
  ## 台北國際電腦展
- - [https://www.computextaipei.com.tw](https://www.computextaipei.com.tw)
+ - [https://computextaipei.com.tw](https://computextaipei.com.tw)
  - date_published: 2024-06-19T23:39:07.087463+00:00
 
  ## COMPUTEX Keynote & Forum 2024
@@ -3302,7 +3420,7 @@
  - date_published: 2024-10-31T12:03:07.192591+00:00
 
  ## Condé Nast TAIWAN | 康泰納仕
- - [https://www.condenast.com.tw](https://www.condenast.com.tw)
+ - [https://condenast.com.tw](https://condenast.com.tw)
  - date_published: 2024-04-19T03:34:48+00:00
 
  ## 網頁設計公司 - 網站設計公司 - Cubik
@@ -3318,15 +3436,15 @@
  - date_published: 2024-03-14T00:00:00+00:00
 
  ## DBS Bank | Taiwan
- - [https://www.dbs.com.tw](https://www.dbs.com.tw)
+ - [https://dbs.com.tw](https://dbs.com.tw)
  - date_published: 2024-10-07T22:39:28.976938+00:00
 
  ## DeviseTop響應式網頁設計，客製化量身訂做、專屬風格 - 禾太國際有限公司,勤美創意設計有限公司
- - [http://www.devisetop.com.tw](http://www.devisetop.com.tw)
+ - [https://devisetop.com.tw](https://devisetop.com.tw)
  - date_published: 2024-07-14T10:35:28.507426+00:00
 
  ## 大侑DIET-U官方網站｜你健康的好朋友
- - [https://www.diet-u.com.tw](https://www.diet-u.com.tw)
+ - [https://diet-u.com.tw](https://diet-u.com.tw)
  - date_published: 2024-07-04T17:32:22.645811+00:00
 
  ## Dell Technologies
@@ -3358,35 +3476,35 @@
  - date_published: 2024-10-29T20:42:45.127641+00:00
 
  ## 一元素科技股份有限公司 - 一元素科技股份有限公司
- - [http://www.e-elements.com.tw](http://www.e-elements.com.tw)
+ - [https://www.e-elements.com.tw](https://www.e-elements.com.tw)
  - date_published: 2021-05-13T04:59:26+00:00
 
  ## EF國際文教機構 | EF海外遊學留學 | EF台灣
- - [https://www.ef.com.tw](https://www.ef.com.tw)
+ - [https://ef.com.tw](https://ef.com.tw)
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## ELTA TECHNOLOGY
- - [https://www.elta.com.tw](https://www.elta.com.tw)
+ - [https://elta.com.tw](https://elta.com.tw)
  - date_published: 2024-07-07T10:16:18.705430+00:00
 
  ## Experian - 益博睿——企業徵信，決策分析，反詐欺與身分辨識
- - [https://www.experian.com.tw](https://www.experian.com.tw)
+ - [https://experian.com.tw](https://experian.com.tw)
  - date_published: 2024-06-25T21:31:54.279340+00:00
 
  ## 財團法人徐有庠紀念基金會
- - [http://yzhsu.feg.com.tw](http://yzhsu.feg.com.tw)
+ - [https://yzhsu.feg.com.tw](https://yzhsu.feg.com.tw)
  - date_published: 2024-07-14T10:35:19.243788+00:00
 
  ## 基金投資規劃 | 投資理財網 | 富達投信 | 富達台灣
- - [https://www.fidelity.com.tw](https://www.fidelity.com.tw)
+ - [https://fidelity.com.tw](https://fidelity.com.tw)
  - date_published: 2024-10-27T18:01:21.884714+00:00
 
  ## 火氣音樂｜Fire On Music
- - [https://www.fireonmusic.com.tw](https://www.fireonmusic.com.tw)
+ - [https://fireonmusic.com.tw](https://fireonmusic.com.tw)
  - date_published: 2024-03-09T00:00:00+00:00
 
  ## Fitness factory｜健身工廠
- - [https://www.fitnessfactory.com.tw](https://www.fitnessfactory.com.tw)
+ - [https://fitnessfactory.com.tw](https://fitnessfactory.com.tw)
  - date_published: 2024-05-25T00:00:00+00:00
 
  ## 台灣塑膠工業股份有限公司
@@ -3394,7 +3512,7 @@
  - date_published: 2024-12-15T14:23:10.755973+00:00
 
  ## FranklinCovey 富蘭克林柯維：全球最值得信賴的領導力公司
- - [https://www.franklincovey.com.tw](https://www.franklincovey.com.tw)
+ - [https://franklincovey.com.tw](https://franklincovey.com.tw)
  - date_published: 2024-05-13T00:00:00+00:00
 
  ## 403 - 禁止: 拒絕存取。
@@ -3409,6 +3527,10 @@
  - [https://fuli.gamer.com.tw](https://fuli.gamer.com.tw)
  - date_published: 2024-10-22T10:40:42.880638+00:00
 
+ ## 巴哈姆特電玩資訊站
+ - [https://gamer.com.tw](https://gamer.com.tw)
+ - date_published: 2024-10-18T03:43:27.940367+00:00
+
  ## 創作大廳 - 巴哈姆特
  - [https://home.gamer.com.tw](https://home.gamer.com.tw)
  - date_published: 2024-06-30T00:00:00+00:00
@@ -3421,24 +3543,20 @@
  - [https://prj.gamer.com.tw](https://prj.gamer.com.tw)
  - date_published: 2024-10-22T10:41:01.888925+00:00
 
- ## 巴哈姆特電玩資訊站
- - [https://www.gamer.com.tw](https://www.gamer.com.tw)
- - date_published: 2024-10-18T03:43:27.940367+00:00
-
  ## Home - GOLD APOLLO
- - [https://www.gapollo.com.tw](https://www.gapollo.com.tw)
+ - [https://gapollo.com.tw](https://gapollo.com.tw)
  - date_published: 2024-09-18T00:00:00+00:00
 
  ## Garmin SSO Portal
- - [https://buy.garmin.com.tw](https://buy.garmin.com.tw)
+ - [http://buy.garmin.com.tw](http://buy.garmin.com.tw)
  - date_published: 2024-06-20T01:45:41.332549+00:00
 
  ## Garmin 台灣
- - [https://www.garmin.com.tw](https://www.garmin.com.tw)
+ - [https://garmin.com.tw](https://garmin.com.tw)
  - date_published: 2024-05-04T07:27:51.438735+00:00
 
  ## Gilead Sciences
- - [https://www.gilead.com.tw](https://www.gilead.com.tw)
+ - [https://gilead.com.tw](https://gilead.com.tw)
  - date_published: 2024-07-02T04:08:37.675657+00:00
 
  ## Google
@@ -3449,6 +3567,10 @@
  - [https://maps.google.com.tw](https://maps.google.com.tw)
  - date_published: 2024-07-20T07:41:16.201689+00:00
 
+ ## GQ.com.tw 男人,時尚,生活,有型有款 引領潮流第一站
+ - [https://gq.com.tw](https://gq.com.tw)
+ - date_published: 2024-05-02T11:53:25.830106+00:00
+
  ## 會員登入 - GQ瀟灑男人網 ∣ 男人 時尚 生活　有型有款 引領潮流第一站
  - [https://member.gq.com.tw](https://member.gq.com.tw)
  - date_published: 2024-06-18T07:20:21.475398+00:00
@@ -3456,10 +3578,6 @@
  ## GQ SHOP 網路男性時尚與品味購物的朝聖地 | GQ瀟灑男人網
  - [https://shop.gq.com.tw](https://shop.gq.com.tw)
  - date_published: 2024-06-18T07:20:59.239983+00:00
-
- ## GQ.com.tw 男人,時尚,生活,有型有款 引領潮流第一站
- - [https://www.gq.com.tw](https://www.gq.com.tw)
- - date_published: 2024-05-02T11:53:25.830106+00:00
 
  ## 首頁 - 德鴻科技 Grandsys
  - [https://www.grandsys.com.tw](https://www.grandsys.com.tw)
@@ -3470,31 +3588,31 @@
  - date_published: 2024-06-16T01:16:51.447027+00:00
 
  ## Homepage
- - [https://www.hilti.com.tw](https://www.hilti.com.tw)
+ - [https://hilti.com.tw](https://hilti.com.tw)
  - date_published: 2024-06-20T07:26:06.230751+00:00
 
  ## 智慧居家 | Home Connect
- - [https://www.home-connect.com.tw](https://www.home-connect.com.tw)
+ - [https://home-connect.com.tw](https://home-connect.com.tw)
  - date_published: 2024-10-14T18:26:59.238848+00:00
 
  ## 欢迎指南
- - [https://www.hotfrog.com.tw](https://www.hotfrog.com.tw)
+ - [https://hotfrog.com.tw](https://hotfrog.com.tw)
  - date_published: 2024-06-29T16:51:55.989428+00:00
 
  ## HSBC Taiwan - Credit Cards, Accounts, Loans, Insurance
- - [https://www.hsbc.com.tw](https://www.hsbc.com.tw)
+ - [https://hsbc.com.tw](https://hsbc.com.tw)
  - date_published: 2024-08-19T09:12:44+00:00
 
  ## 人權團結聯盟、教育材料、影片
- - [http://www.humanrights.com.tw](http://www.humanrights.com.tw)
+ - [https://humanrights.com.tw](https://humanrights.com.tw)
  - date_published: 2024-09-04T17:53:18.884569+00:00
 
  ## 拖鏈,方形護管,耐移動電線,防油電纜,耐曲折超軟電纜線,自潤式軸承,抗腐蝕軸承, 自潤式線軌,直線滑軌
- - [https://www.igus.com.tw](https://www.igus.com.tw)
+ - [https://igus.com.tw](https://igus.com.tw)
  - date_published: 2024-08-06T23:11:51.677195+00:00
 
  ## Home Furniture and Home Design Inspirations | Furniture for your home | IKEA Taiwan Online
- - [https://www.ikea.com.tw](https://www.ikea.com.tw)
+ - [http://ikea.com.tw](http://ikea.com.tw)
  - date_published: 2024-07-19T23:51:16.176378+00:00
 
  ## InnoVEX
@@ -3502,7 +3620,7 @@
  - date_published: 2024-10-31T12:02:13.655230+00:00
 
  ## INSIDE - 社群媒體、行動網路、行銷、技術、創業
- - [https://www.inside.com.tw](https://www.inside.com.tw)
+ - [https://inside.com.tw](https://inside.com.tw)
  - date_published: 2024-10-07T22:10:17.041033+00:00
 
  ## Intel | 資料中心解決方案、物聯網和電腦創新
@@ -3512,6 +3630,7 @@
  ## Newsroom Home
  - [https://newsroom.intel.com.tw](https://newsroom.intel.com.tw)
  - date_published: 2024-07-01T00:00:00+00:00
+ - date_dead_since: 2025-01-05T19:03:02.912279+00:00
 
  ## 三立慈善基金會
  - [https://blogs.iset.com.tw](https://blogs.iset.com.tw)
@@ -3534,15 +3653,15 @@
  - date_published: 2024-12-30T18:01:53.176049+00:00
 
  ## 卡巴斯基家用和企業網路安全軟體 | Kaspersky台灣官網
- - [https://www.kaspersky.com.tw](https://www.kaspersky.com.tw)
+ - [https://kaspersky.com.tw](https://kaspersky.com.tw)
  - date_published: 2024-05-02T00:00:00+00:00
 
  ## ESG首頁 | Kenda ESG
- - [https://www.esg.kenda.com.tw](https://www.esg.kenda.com.tw)
+ - [https://esg.kenda.com.tw](https://esg.kenda.com.tw)
  - date_published: 2024-09-18T01:54:29.661732+00:00
 
  ## 金石堂：中文書、英文書、雜誌、文具、服飾、禮品、百貨購物
- - [https://www.kingstone.com.tw](https://www.kingstone.com.tw)
+ - [https://kingstone.com.tw](https://kingstone.com.tw)
  - date_published: 2024-05-04T13:01:08.454664+00:00
 
  ## 電腦王阿達
@@ -3600,6 +3719,7 @@
  ## Apache HTTP Server Test Page powered by CentOS
  - [https://cache.ltn.com.tw](https://cache.ltn.com.tw)
  - date_published: 2014-10-16T13:20:58+00:00
+ - date_dead_since: 2025-01-05T19:04:24.753982+00:00
 
  ## 自由軍武頻道
  - [https://def.ltn.com.tw](https://def.ltn.com.tw)
@@ -3633,6 +3753,10 @@
  - [https://istyle.ltn.com.tw](https://istyle.ltn.com.tw)
  - date_published: 2024-10-07T22:12:36.642468+00:00
 
+ ## 自由時報電子報
+ - [https://ltn.com.tw](https://ltn.com.tw)
+ - date_published: 2024-10-07T22:12:09.600368+00:00
+
  ## 熱門新訊 - 自由電子報
  - [https://market.ltn.com.tw](https://market.ltn.com.tw)
  - date_published: 2024-10-07T22:10:33.763018+00:00
@@ -3665,16 +3789,12 @@
  - [https://video.ltn.com.tw](https://video.ltn.com.tw)
  - date_published: 2024-10-07T22:13:11.989473+00:00
 
- ## 自由時報電子報
- - [https://www.ltn.com.tw](https://www.ltn.com.tw)
- - date_published: 2024-10-07T22:12:09.600368+00:00
-
  ## 聚陽實業股份有限公司
- - [http://www.makalot.com.tw](http://www.makalot.com.tw)
+ - [https://makalot.com.tw](https://makalot.com.tw)
  - date_published: 2024-06-19T23:05:53.571750+00:00
 
  ## 投資管理、基金策略 | 宏利投信
- - [https://www.manulifeim.com.tw](https://www.manulifeim.com.tw)
+ - [https://manulifeim.com.tw](https://manulifeim.com.tw)
  - date_published: 2024-10-07T19:20:43+00:00
 
  ## 新電子科技雜誌 Micro-electronics
@@ -3694,11 +3814,11 @@
  - date_published: 2024-12-11T04:47:05.342015+00:00
 
  ## 魔方網
- - [http://www.mofang.com.tw](http://www.mofang.com.tw)
+ - [https://mofang.com.tw](https://mofang.com.tw)
  - date_published: 2024-10-20T22:47:17.391973+00:00
 
  ## #當隻自由的狐狸 | 阻擋追蹤廣告，你可以更快更自由
- - [http://mozilla.com.tw](http://mozilla.com.tw)
+ - [https://mozilla.com.tw](https://mozilla.com.tw)
  - date_published: 2024-10-19T22:22:15.001036+00:00
 
  ## Taiwan Mynavi 台灣日商.日本正職.打工度假。免費赴日就職服務，日本工作，日本打工
@@ -3710,7 +3830,7 @@
  - date_published: 2024-10-29T09:02:11.469630+00:00
 
  ## Nestle: Good Food Good Life 首頁 | 雀巢台灣 Nestle Taiwan
- - [http://www.nestle.com.tw](http://www.nestle.com.tw)
+ - [https://www.nestle.com.tw](https://www.nestle.com.tw)
  - date_published: 2024-09-14T21:20:49+00:00
 
  ## 網管人
@@ -3718,7 +3838,7 @@
  - date_published: 2024-10-31T12:02:49.806594+00:00
 
  ## 新視野網頁設計，只做最划算的高CP值網站
- - [https://www.newscan.com.tw](https://www.newscan.com.tw)
+ - [https://newscan.com.tw](https://newscan.com.tw)
  - date_published: 2024-07-04T09:39:17.078497+00:00
 
  ## 新唐人亞太電視台
@@ -3726,15 +3846,15 @@
  - date_published: 2024-10-31T11:16:27+00:00
 
  ## 人工智慧運算的全球領袖
- - [http://www.nvidia.com.tw](http://www.nvidia.com.tw)
+ - [https://nvidia.com.tw](https://nvidia.com.tw)
  - date_published: 2024-09-12T00:00:00+00:00
 
  ## 歐米茄腕錶: 瑞士頂級腕錶製造商 | OMEGA TW®
- - [https://www.omegawatches.com.tw](https://www.omegawatches.com.tw)
+ - [https://omegawatches.com.tw](https://omegawatches.com.tw)
  - date_published: 2024-10-14T21:51:45.177541+00:00
 
  ## OpenTable・餐廳訂位｜餐廳・隨時一鍵訂位
- - [https://www.opentable.com.tw](https://www.opentable.com.tw)
+ - [https://opentable.com.tw](https://opentable.com.tw)
  - date_published: 2024-06-30T12:08:43.530983+00:00
 
  ## 寶寶 - 懷孕 - 孕兒 - 幫寶適
@@ -3750,7 +3870,7 @@
  - date_published: 2024-05-08T12:29:52.545937+00:00
 
  ## PieceMakers | Creates Piece of Mind
- - [http://www.piecemakers.com.tw](http://www.piecemakers.com.tw)
+ - [https://piecemakers.com.tw](https://piecemakers.com.tw)
  - date_published: 2023-08-13T16:05:53+00:00
 
  ## Prolific Technology Inc. (USB to UART / RS232 / Serial)
@@ -3758,7 +3878,7 @@
  - date_published: 2024-05-12T06:12:37.284090+00:00
 
  ## 最佳VPN資金可以購買-最快的VPN服務| PureVPN
- - [https://www.purevpn.com.tw](https://www.purevpn.com.tw)
+ - [https://purevpn.com.tw](https://purevpn.com.tw)
  - date_published: 2021-03-31T09:06:52+00:00
 
  ## QNAP 網路商城｜線上購買NAS ｜QNAP Store Taiwan
@@ -3766,11 +3886,11 @@
  - date_published: 2024-05-21T02:52:17.145568+00:00
 
  ## 樂天市場購物網- Rakuten日本最大線上購物網站
- - [https://www.rakuten.com.tw](https://www.rakuten.com.tw)
+ - [https://rakuten.com.tw](https://rakuten.com.tw)
  - date_published: 2024-09-15T21:17:02.411217+00:00
 
  ## Ralph Lauren® 台灣官方網站 | 美國時尚服裝品牌
- - [https://www.ralphlauren.com.tw](https://www.ralphlauren.com.tw)
+ - [https://ralphlauren.com.tw](https://ralphlauren.com.tw)
  - date_published: 2024-06-19T23:58:22.971519+00:00
 
  ## RAW Official Website
@@ -3802,7 +3922,7 @@
  - date_published: 2024-10-29T06:35:34.703305+00:00
 
  ## Skyscanner
- - [https://www.skyscanner.com.tw](https://www.skyscanner.com.tw)
+ - [https://skyscanner.com.tw](https://skyscanner.com.tw)
  - date_published: 2024-05-14T10:10:11+00:00
 
  ## 雪諾必克*Snow Peak
@@ -3810,11 +3930,11 @@
  - date_published: 2024-07-15T06:46:42.549315+00:00
 
  ## 台灣索尼 | 最新技術消息 | 電子產品 | 娛樂
- - [https://www.sony.com.tw](https://www.sony.com.tw)
+ - [https://sony.com.tw](https://sony.com.tw)
  - date_published: 2024-10-21T07:37:55.324784+00:00
 
  ## Sony Pictures Taiwan | 主頁 Homepage
- - [http://www.sonypictures.com.tw](http://www.sonypictures.com.tw)
+ - [https://www.sonypictures.com.tw](https://www.sonypictures.com.tw)
  - date_published: 2024-04-12T00:00:00+00:00
 
  ## Home - SPIL
@@ -3850,7 +3970,7 @@
  - date_published: 2024-05-02T10:39:51.243016+00:00
 
  ## Welcome to TATUNG-OKUMA CO.,LTD
- - [https://www.tatung-okuma.com.tw](https://www.tatung-okuma.com.tw)
+ - [https://tatung-okuma.com.tw](https://tatung-okuma.com.tw)
  - date_published: 2019-10-28T07:26:32+00:00
 
  ## TBMS 博而美國際
@@ -3874,15 +3994,15 @@
  - date_published: 2024-12-31T13:48:26.613638+00:00
 
  ## Toshiba Electronic Components Taiwan Corporation- Hard Disk Drive Division-Client Hard Disk Drive,Enterprise Hard Disk Drive, External Hard Disk Drive, SSD
- - [http://www.sdd.toshiba.com.tw](http://www.sdd.toshiba.com.tw)
+ - [https://www.sdd.toshiba.com.tw](https://www.sdd.toshiba.com.tw)
  - date_published: 2024-07-15T03:28:10.678894+00:00
 
  ## Tripadvisor： 超過 10 億則飯店、景點和餐廳及更多內容的評論
- - [https://www.tripadvisor.com.tw](https://www.tripadvisor.com.tw)
+ - [https://tripadvisor.com.tw](https://tripadvisor.com.tw)
  - date_published: 2024-06-23T09:27:01.079491+00:00
 
  ## trivago.com.tw - Compare hotel prices worldwide
- - [https://www.trivago.com.tw](https://www.trivago.com.tw)
+ - [https://trivago.com.tw](https://trivago.com.tw)
  - date_published: 2024-09-04T11:19:42.589836+00:00
 
  ## TSMC - Starting Page
@@ -3890,8 +4010,9 @@
  - date_published: 2020-12-22T01:46:33+00:00
 
  ## TSMC - Starting Page
- - [https://supply.tsmc.com.tw](https://supply.tsmc.com.tw)
+ - [http://supply.tsmc.com.tw](http://supply.tsmc.com.tw)
  - date_published: 2020-12-22T02:47:18+00:00
+ - date_dead_since: 2025-01-05T19:19:27.378945+00:00
 
  ## TVBS新聞網
  - [https://news.tvbs.com.tw](https://news.tvbs.com.tw)
@@ -3902,7 +4023,7 @@
  - date_published: 2024-11-08T13:06:50.194234+00:00
 
  ## TWCA - 臺灣網路認證 - 為資安把關，提供SSL憑證、身分識別、電子簽署等網路安全機制
- - [https://www.twca.com.tw](https://www.twca.com.tw)
+ - [https://twca.com.tw](https://twca.com.tw)
  - date_published: 2024-06-21T15:23:12.147780+00:00
 
  ## forward
@@ -3912,116 +4033,4 @@
  ## 聯邦銀行
  - [https://www.ubot.com.tw](https://www.ubot.com.tw)
  - date_published: 2024-10-04T08:00:49+00:00
-
- ## Attention Required! | Cloudflare
- - [http://vecow.utrust.com.tw](http://vecow.utrust.com.tw)
- - date_published: 2024-09-05T21:00:42.277897+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://visa.com.tw](https://visa.com.tw)
- - date_published: 2024-05-12T03:59:40.742905+00:00
-
- ## Vogue Taiwan
- - [https://vogue.com.tw](https://vogue.com.tw)
- - date_published: 2024-05-07T10:58:39.629872+00:00
-
- ## 潮網科技｜行銷科技方案・電商數據科學・數位廣告投放・行銷整合策略
- - [https://www.wavenet.com.tw](https://www.wavenet.com.tw)
- - date_published: 2024-12-19T03:40:55+00:00
-
- ## wicca
- - [http://www.wicca.com.tw](http://www.wicca.com.tw)
- - date_published: 2024-06-20T02:53:30+00:00
-
- ## LCD Display, LCD Display Modules, Display LCD, LCD Panel Manufacturer, Supplier
- - [https://www.winstar.com.tw](https://www.winstar.com.tw)
- - date_published: 2024-06-20T17:30:54.372028+00:00
-
- ## Professional PMOLED Display Manufacturer - WiseChip Semiconductor Inc.
- - [https://www.wisechip.com.tw](https://www.wisechip.com.tw)
- - date_published: 2024-06-20T17:33:20.856803+00:00
-
- ## 智略市場研究
- - [https://www.wmr.com.tw](https://www.wmr.com.tw)
- - date_published: 2024-06-17T16:54:04.604001+00:00
-
- ## 建達國際
- - [https://www.xander.com.tw](https://www.xander.com.tw)
- - date_published: 2024-10-31T13:23:13.303754+00:00
-
- ## Yelp
- - [https://m.yelp.com.tw](https://m.yelp.com.tw)
- - date_published: 2024-07-01T06:42:13.043604+00:00
-
- ## Yelp
- - [https://yelp.com.tw](https://yelp.com.tw)
- - date_published: 2024-07-01T06:42:08.129585+00:00
-
- ## LTN JOB X yes123求職網
- - [https://ltn_jobs.yes123.com.tw](https://ltn_jobs.yes123.com.tw)
- - date_published: 2024-10-07T22:10:36.249679+00:00
-
- ## 求職網-人力銀行找工作、找人才，媒合快又有效率
- - [https://www.yes123.com.tw](https://www.yes123.com.tw)
- - date_published: 2024-10-07T22:11:08.340377+00:00
-
- ## YUAN
- - [http://www.yuan.com.tw](http://www.yuan.com.tw)
- - date_published: 2024-09-05T22:58:34.446168+00:00
-
- ## 元大銀行
- - [https://www.yuantabank.com.tw](https://www.yuantabank.com.tw)
- - date_published: 2024-06-21T15:22:59.543481+00:00
-
- ## 蔡司台灣
- - [https://www.zeiss.com.tw](https://www.zeiss.com.tw)
- - date_published: 2024-09-16T07:56:11.384044+00:00
-
- ## Zeroplus Logic Analyzers
- - [http://www.zeroplus.com.tw](http://www.zeroplus.com.tw)
- - date_published: 2025-01-02T13:52:07.579685+00:00
-
- ## Asia University, Taiwan 歡迎光臨亞洲大學全球資訊網
- - [http://asia.edu.tw](http://asia.edu.tw)
- - date_published: 2024-10-30T20:30:29.030171+00:00
-
- ## Chang Gung University of Science and Technology
- - [https://english.cgust.edu.tw](https://english.cgust.edu.tw)
- - date_published: 2024-10-30T20:25:49+00:00
-
- ## 國際事務處
- - [https://iaaec.cgust.edu.tw](https://iaaec.cgust.edu.tw)
- - date_published: 2024-12-15T14:23:19+00:00
-
- ## 教育部《重編國語辭典修訂本》2021
- - [http://dict.revised.moe.edu.tw](http://dict.revised.moe.edu.tw)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## 教育部臺灣客語辭典
- - [https://hakkadict.moe.edu.tw](https://hakkadict.moe.edu.tw)
- - date_published: 2024-07-12T05:30:17.720490+00:00
-
- ## Interconnection Networks and High-Performance Computation Laboratory (互連網路暨高效率運算實驗室)
- - [https://algorithm.csie.ncku.edu.tw](https://algorithm.csie.ncku.edu.tw)
- - date_published: 2024-09-11T06:42:34+00:00
-
- ## Index of /
- - [http://alpine.ccns.ncku.edu.tw](http://alpine.ccns.ncku.edu.tw)
- - date_published: 2024-07-20T15:58:32.401826+00:00
-
- ## NCKU, 成功大學-計算機與網路中心  - NCKU, 成功大學-計算機與網路中心
- - [https://cc.ncku.edu.tw](https://cc.ncku.edu.tw)
- - date_published: 2024-12-15T13:02:27+00:00
-
- ## National Cheng Kung University - NCKU
- - [https://highlights.ncku.edu.tw](https://highlights.ncku.edu.tw)
- - date_published: 2024-12-15T13:02:10.424325+00:00
-
- ## NCKU, National Cheng Kung University  - NCKU, 國立成功大學 National Cheng Kung University
- - [https://web.ncku.edu.tw](https://web.ncku.edu.tw)
- - date_published: 2024-10-30T20:17:56+00:00
-
- ## Wiki - 成功大學資工系(所) Wiki 系統
- - [http://wiki.csie.ncku.edu.tw](http://wiki.csie.ncku.edu.tw)
- - date_published: 2024-06-22T12:41:42.514452+00:00
 

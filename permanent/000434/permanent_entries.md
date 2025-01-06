@@ -1,3 +1,103 @@
+ ## Science & Global Security
+ - [https://scienceandglobalsecurity.org](https://scienceandglobalsecurity.org)
+ - date_published: 2024-03-27T11:22:18+00:00
+
+ ## Science and Nature
+ - [http://scienceandnature.org](http://scienceandnature.org)
+ - date_published: 2024-10-29T17:44:30.049349+00:00
+
+ ## Toto Macau: Situs Togel Resmi & Agen Togel Online Terpercaya
+ - [https://scienceandpublicpolicy.org](https://scienceandpublicpolicy.org)
+ - date_published: 2024-09-16T21:03:00.657152+00:00
+
+ ## TOTO12 -> AGEN TOGEL RESMI MEMILIKI 82 PASARAN DENGAN HADIAH TERBESAR
+ - [https://scienceathon.org](https://scienceathon.org)
+ - date_published: 2024-10-19T04:44:03.202758+00:00
+
+ ## Science-Based Medicine
+ - [https://sciencebasedmedicine.org](https://sciencebasedmedicine.org)
+ - date_published: 2023-10-25T22:06:36.641943+00:00
+
+ ## Ambitious corporate climate action
+ - [https://sciencebasedtargets.org](https://sciencebasedtargets.org)
+ - date_published: 2024-05-08T05:36:46.470271+00:00
+
+ ## Science Bites – Have a bite of science!
+ - [https://sciencebites.org](https://sciencebites.org)
+ - date_published: 2020-07-12T00:00:00+00:00
+
+ ## Science Summer Camps at Discovery Place
+ - [https://www.sciencecamps.org](https://www.sciencecamps.org)
+ - date_published: 2024-06-21T22:42:05.555172+00:00
+
+ ## Spark Your Imagination | Science Central
+ - [https://sciencecentral.org](https://sciencecentral.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Open Science - Creative Commons
+ - [https://sciencecommons.org](https://sciencecommons.org)
+ - date_published: 2024-10-18T21:21:00.247188+00:00
+
+ ## Home
+ - [https://science-dao.org](https://science-dao.org)
+ - date_published: 2024-05-08T09:59:19.616974+00:00
+
+ ## SCIENCEDOMAIN International
+ - [https://sciencedomain.org](https://sciencedomain.org)
+ - date_published: 2024-04-26T10:47:22+00:00
+
+ ## SCIENCEDOMAIN International
+ - [https://sciencedomaine.org](https://sciencedomaine.org)
+ - date_published: 2024-04-26T10:47:22+00:00
+
+ ## SCIENCEDOMAIN International
+ - [https://sciencedomains.org](https://sciencedomains.org)
+ - date_published: 2024-04-26T10:47:22+00:00
+
+ ## Science Fictions | Stuart Ritchie | Substack
+ - [https://www.sciencefictions.org](https://www.sciencefictions.org)
+ - date_published: 2024-02-26T12:53:14.566139+00:00
+
+ ## Togel Hongkong ~ Togel Singapore ~ Situs Togel Online Hari Ini ~ Data Keluaran SGP HK Prize
+ - [http://scienceflora.org](http://scienceflora.org)
+ - date_published: 2024-10-25T15:23:07+00:00
+
+ ## The Nature Conservancy of California – Science for Conservation
+ - [https://www.scienceforconservation.org](https://www.scienceforconservation.org)
+ - date_published: 2025-01-01T14:22:43+00:00
+
+ ## Home Page - Science for Democracy
+ - [https://sciencefordemocracy.org](https://sciencefordemocracy.org)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Science Groove - science set to music
+ - [http://science-groove.org](http://science-groove.org)
+ - date_published: 2024-10-21T04:39:36.156614+00:00
+
+ ## Science History Institute Digital Collections
+ - [https://digital.sciencehistory.org](https://digital.sciencehistory.org)
+ - date_published: 2024-07-18T04:42:37.924491+00:00
+
+ ## Science History Institute
+ - [https://sciencehistory.org](https://sciencehistory.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Science in Public Research Network
+ - [https://scienceinpublic.org](https://scienceinpublic.org)
+ - date_published: 2024-10-28T11:00:48+00:00
+
+ ## Homepage – Science in School
+ - [https://scienceinschool.org](https://scienceinschool.org)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Science Jobs.Org - Science careers in biology, life sciences, chemistry, engineering and other scientific areas.
+ - [http://www.sciencejobs.org](http://www.sciencejobs.org)
+ - date_published: 2024-12-12T23:48:03.123946+00:00
+
+ ## Creating understanding in a complex world
+ - [https://scienceliteracyfoundation.org](https://scienceliteracyfoundation.org)
+ - date_published: 2024-07-22T18:49:07.219912+00:00
+
  ## Cierpliwości...
  - [https://advances.sciencemag.org](https://advances.sciencemag.org)
  - date_published: 2024-05-07T10:48:30.480163+00:00
@@ -645,15 +745,15 @@
  - date_published: 2024-01-01T00:00:00+00:00
 
  ## Scottish Economic Society
- - [https://www.scotecon.org](https://www.scotecon.org)
+ - [https://scotecon.org](https://scotecon.org)
  - date_published: 2024-07-09T14:06:28.250635+00:00
 
  ## The Official Gateway to Scotland | Scotland.org
- - [https://www.scotland.org](https://www.scotland.org)
+ - [https://scotland.org](https://scotland.org)
  - date_published: 2024-07-12T16:31:04+00:00
 
  ## Walcome — come awa ben
- - [http://scots-online.org](http://scots-online.org)
+ - [https://scots-online.org](https://scots-online.org)
  - date_published: 2024-07-02T06:26:29.415313+00:00
 
  ## The Scott Arboretum of Swarthmore College - Arboretum Explorer
@@ -673,15 +773,15 @@
  - date_published: 2024-12-05T00:00:00+00:00
 
  ## scottishpolitics.org - Ta strona jest na sprzedaż! - scotland Zasoby i informacje.
- - [http://www.scottishpolitics.org](http://www.scottishpolitics.org)
+ - [https://scottishpolitics.org](https://scottishpolitics.org)
  - date_published: 2024-10-21T14:44:59.419776+00:00
 
  ## Scottish Review of Books
- - [http://www.scottishreviewofbooks.org](http://www.scottishreviewofbooks.org)
+ - [https://scottishreviewofbooks.org](https://scottishreviewofbooks.org)
  - date_published: 2024-10-21T17:29:58.215560+00:00
 
  ## Pediatric Orthopedic Specialists | Scottish Rite for Children
- - [https://scottishritehospital.org](https://scottishritehospital.org)
+ - [http://scottishritehospital.org](http://scottishritehospital.org)
  - date_published: 2024-09-10T00:00:00+00:00
 
  ## 32° Scottish Rite Freemasonry
@@ -689,7 +789,7 @@
  - date_published: 2024-10-18T23:24:45.003915+00:00
 
  ## Scottish Socialist Party - For an Independent Socialist Scotland
- - [http://www.scottishsocialistparty.org](http://www.scottishsocialistparty.org)
+ - [https://scottishsocialistparty.org](https://scottishsocialistparty.org)
  - date_published: 2024-10-21T17:32:32.552919+00:00
 
  ## Scottish Vaccine Injury Group – Scottish Vaccine Injury Group
@@ -745,7 +845,7 @@
  - date_published: 2024-06-13T15:15:04+00:00
 
  ## Home
- - [http://scouting.org](http://scouting.org)
+ - [https://scouting.org](https://scouting.org)
  - date_published: 2024-04-17T00:00:00+00:00
 
  ## Home - Scouting America Alumni Association
@@ -777,7 +877,7 @@
  - date_published: 2024-10-23T06:00:43.602224+00:00
 
  ## Fishing by Scout Life - The Ultimate Kids Fishing Site
- - [http://fishing.scoutlife.org](http://fishing.scoutlife.org)
+ - [https://fishing.scoutlife.org](https://fishing.scoutlife.org)
  - date_published: 2024-10-23T06:00:00.512587+00:00
 
  ## Scout Life magazine, from the publisher of Boys' Life since 1911
@@ -820,6 +920,10 @@
  - [https://scp-centre.org](https://scp-centre.org)
  - date_published: 2024-05-06T00:00:00+00:00
 
+ ## Local and national news, NPR, things to do, food recommendations and guides to Los Angeles, Orange County and the Inland Empire | LAist
+ - [https://scpr.org](https://scpr.org)
+ - date_published: 2024-06-21T09:11:33.152046+00:00
+
  ## SCPR Corporate Sponsorship
  - [https://sponsorship.scpr.org](https://sponsorship.scpr.org)
  - date_published: 2024-03-11T00:00:00+00:00
@@ -828,16 +932,12 @@
  - [https://the-big-one.scpr.org](https://the-big-one.scpr.org)
  - date_published: 2024-06-23T05:57:13.434667+00:00
 
- ## Local and national news, NPR, things to do, food recommendations and guides to Los Angeles, Orange County and the Inland Empire | LAist
- - [https://www.scpr.org](https://www.scpr.org)
- - date_published: 2024-06-21T09:11:33.152046+00:00
-
  ## Home
- - [http://www.scpress.org](http://www.scpress.org)
+ - [https://scpress.org](https://scpress.org)
  - date_published: 2024-09-09T00:00:00+00:00
 
  ## SCRA: South Carolina Research Authority
- - [https://www.scra.org](https://www.scra.org)
+ - [https://scra.org](https://scra.org)
  - date_published: 2024-07-10T08:21:26+00:00
 
  ## Scrabble Word Finder - Online Scrabble Solver and Cheat Site
@@ -854,7 +954,7 @@
  - tags: ['web crawling', 'web scraping', 'open source']
 
  ## ScratchJr - Home
- - [https://www.scratchjr.org](https://www.scratchjr.org)
+ - [https://scratchjr.org](https://scratchjr.org)
  - date_published: 2023-07-19T13:49:39+00:00
 
  ## ScreenCraft
@@ -862,15 +962,15 @@
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## KOKO303 > Enjoy Best Mobile Gaming With High Quality Game 2024
- - [http://www.screenlets.org](http://www.screenlets.org)
+ - [https://screenlets.org](https://screenlets.org)
  - date_published: 2024-07-12T16:02:31+00:00
 
  ## Screenrights
- - [https://www.screenrights.org](https://www.screenrights.org)
+ - [https://screenrights.org](https://screenrights.org)
  - date_published: 2024-10-18T18:40:13.310350+00:00
 
  ## SCresearch.org
- - [http://scresearch.org](http://scresearch.org)
+ - [https://scresearch.org](https://scresearch.org)
  - date_published: 2024-07-13T11:58:12.724203+00:00
 
  ## Info Poker Online Terkini | scribesguildjournals
@@ -894,7 +994,7 @@
  - date_published: 2023-10-25T22:07:20.213921+00:00
 
  ## scroogle.org
- - [http://www.scroogle.org](http://www.scroogle.org)
+ - [https://scroogle.org](https://scroogle.org)
  - date_published: 2024-07-06T22:26:56.974335+00:00
 
  ## Yammering -
@@ -914,7 +1014,7 @@
  - date_published: 2024-05-08T05:14:11.644895+00:00
 
  ## Home | Scrum Guides
- - [http://www.scrumguides.org](http://www.scrumguides.org)
+ - [https://scrumguides.org](https://scrumguides.org)
  - date_published: 2024-06-20T15:45:37+00:00
 
  ## Scrum Master Toolbox Podcast
@@ -930,11 +1030,11 @@
  - date_published: 2024-07-08T12:28:36+00:00
 
  ## SCSMI Home - Society for Cognitive Studies of the Moving Image
- - [http://scsmi-online.org](http://scsmi-online.org)
+ - [https://scsmi-online.org](https://scsmi-online.org)
  - date_published: 2024-08-02T00:00:00+00:00
 
  ## Keluaran SGP Terbaru : Togel Singapore Pasti Tembus, Data SGP Terlengkap, Pengeluaran SGP Hari Ini
- - [https://www.scsmm.org](https://www.scsmm.org)
+ - [https://scsmm.org](https://scsmm.org)
  - date_published: 2024-08-27T01:37:42+00:00
 
  ## SCSN | Southern California Seismic Network
@@ -966,15 +1066,15 @@
  - date_published: 2024-05-28T00:00:00+00:00
 
  ## Sculpting Evolution
- - [http://www.sculptingevolution.org](http://www.sculptingevolution.org)
+ - [https://www.sculptingevolution.org](https://www.sculptingevolution.org)
  - date_published: 2024-09-05T12:58:39.219447+00:00
 
  ## SculptureCenter
- - [https://www.sculpture-center.org](https://www.sculpture-center.org)
+ - [https://sculpture-center.org](https://sculpture-center.org)
  - date_published: 2024-07-13T14:28:55.161050+00:00
 
  ## The Sculpture Center
- - [http://www.sculpturecenter.org](http://www.sculpturecenter.org)
+ - [https://sculpturecenter.org](https://sculpturecenter.org)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## ScummVM :: Bugs
@@ -1015,7 +1115,7 @@
  - date_published: 2023-06-18T10:15:22+00:00
 
  ## SCVJCC
- - [https://www.scvjcc.org](https://www.scvjcc.org)
+ - [https://scvjcc.org](https://scvjcc.org)
  - date_published: 2024-08-19T15:56:15.564874+00:00
 
  ## Volunteer Center of Santa Cruz County
@@ -1027,7 +1127,7 @@
  - date_published: 2024-10-30T04:41:06.564770+00:00
 
  ## EAP In Science SCWS2014
- - [http://www.scws2014.org](http://www.scws2014.org)
+ - [https://scws2014.org](https://scws2014.org)
  - date_published: 2024-07-30T15:59:34+00:00
 
  ## Login Page
@@ -1039,7 +1139,7 @@
  - date_published: 2023-10-25T22:07:25.829748+00:00
 
  ## South Dakota Education Association (SDEA) | South Dakota Education Association
- - [https://www.sdea.org](https://www.sdea.org)
+ - [https://sdea.org](https://sdea.org)
  - date_published: 2024-07-09T16:46:48.235347+00:00
 
  ## akrl
@@ -1047,7 +1147,7 @@
  - date_published: 1999-01-01T00:00:00+00:00
 
  ## Bravo Sierra Computers
- - [http://atarisales.sdf.org](http://atarisales.sdf.org)
+ - [https://atarisales.sdf.org](https://atarisales.sdf.org)
  - date_published: 2022-10-18T19:18:42+00:00
 
  ## Hi, SDF!
@@ -1059,7 +1159,7 @@
  - date_published: 2024-05-06T17:48:46+00:00
 
  ## Hello, I'm hs0ucy — hs0ucy.sdf.org
- - [http://hs0ucy.sdf.org](http://hs0ucy.sdf.org)
+ - [https://hs0ucy.sdf.org](https://hs0ucy.sdf.org)
  - date_published: 2024-02-24T22:44:56+00:00
 
  ## John Baber-Lucero
@@ -1092,6 +1192,7 @@
  - [https://nydel.sdf.org](https://nydel.sdf.org)
  - date_published: 2023-12-30T05:22:05.208407+00:00
  - tags: ['personal']
+ - date_dead_since: 2025-01-05T15:52:21.372575+00:00
 
  ## SDF Pixelfed
  - [https://pixelfed.sdf.org](https://pixelfed.sdf.org)
@@ -1104,6 +1205,7 @@
  ## Tim’s page on SDF
  - [http://seven1m.sdf.org](http://seven1m.sdf.org)
  - date_published: 2021-05-25T13:06:36+00:00
+ - date_dead_since: 2025-01-05T15:52:26.811693+00:00
 
  ## SDF Social
  - [https://social.sdf.org](https://social.sdf.org)
@@ -1118,11 +1220,11 @@
  - date_published: 2023-10-25T22:07:38.974474+00:00
 
  ## my sdf home
- - [http://utsuho.sdf.org](http://utsuho.sdf.org)
+ - [https://utsuho.sdf.org](https://utsuho.sdf.org)
  - date_published: 2024-07-03T12:06:49.479451+00:00
 
  ## Vito Van
- - [http://vito.sdf.org](http://vito.sdf.org)
+ - [https://vito.sdf.org](https://vito.sdf.org)
  - date_published: 2023-07-25T00:40:46+00:00
  - tags: ['personal']
 
@@ -1136,7 +1238,7 @@
  - tags: ['private resource']
 
  ## N0THANKY0U
- - [http://yuno.sdf.org](http://yuno.sdf.org)
+ - [https://yuno.sdf.org](https://yuno.sdf.org)
  - date_published: 2023-10-17T17:20:58+00:00
 
  ## https://geocar.sdf1.org
@@ -1164,7 +1266,7 @@
  - date_published: 2024-06-17T03:14:48.698682+00:00
 
  ## Software Development Forum | Be Part of the Software Revolution
- - [http://www.sdforum.org](http://www.sdforum.org)
+ - [https://sdforum.org](https://sdforum.org)
  - date_published: 2024-08-06T08:40:26.135846+00:00
 
  ## SDG2 Advocacy Hub | Bringing people together to achieve SDG2: Zero Hunger
@@ -1176,7 +1278,7 @@
  - date_published: 2024-10-19T14:51:55.021476+00:00
 
  ## SDG Accord
- - [https://www.sdgaccord.org](https://www.sdgaccord.org)
+ - [https://sdgaccord.org](https://sdgaccord.org)
  - date_published: 2024-07-22T08:18:24.688237+00:00
 
  ## Europe Sustainable Development Report 2023/24
@@ -1200,31 +1302,31 @@
  - date_published: 2024-12-16T15:13:19.007719+00:00
 
  ## South Dakota News Watch
- - [http://sdnewswatch.org](http://sdnewswatch.org)
+ - [https://sdnewswatch.org](https://sdnewswatch.org)
  - date_published: 2024-07-15T04:26:48.259208+00:00
 
  ## Shelley & Donald Rubin Foundation
- - [https://www.sdrubin.org](https://www.sdrubin.org)
+ - [https://sdrubin.org](https://sdrubin.org)
  - date_published: 2024-10-27T23:47:23.119545+00:00
 
  ## Home - Skyserver SDSS
- - [http://cas.sdss.org](http://cas.sdss.org)
+ - [https://cas.sdss.org](https://cas.sdss.org)
  - date_published: 2024-08-18T20:22:25.428775+00:00
 
  ## Sloan Digital Sky Survey-V: Pioneering Panoptic Spectroscopy - SDSS-V
- - [http://www.sdss.org](http://www.sdss.org)
+ - [https://sdss.org](https://sdss.org)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## SDSS-III
- - [https://www.sdss3.org](https://www.sdss3.org)
+ - [https://sdss3.org](https://sdss3.org)
  - date_published: 2024-08-18T20:10:53.080716+00:00
 
  ## SDVEC – VEC San Diego
- - [https://www.sdvec.org](https://www.sdvec.org)
+ - [https://sdvec.org](https://sdvec.org)
  - date_published: 2024-10-14T20:57:42.077577+00:00
 
  ## Home
- - [https://www.sdw.org](https://www.sdw.org)
+ - [https://sdw.org](https://sdw.org)
  - date_published: 2024-07-09T14:15:27.849764+00:00
 
  ## KeyNote
@@ -1236,7 +1338,7 @@
  - date_published: 2024-06-20T05:33:20.106436+00:00
 
  ## San Diego Zoo Wildlife Alliance Adventures
- - [http://adventures.sdzwa.org](http://adventures.sdzwa.org)
+ - [https://adventures.sdzwa.org](https://adventures.sdzwa.org)
  - date_published: 2024-06-11T20:23:53+00:00
 
  ## Home page
@@ -1260,11 +1362,11 @@
  - date_published: 2024-12-21T23:04:57.759195+00:00
 
  ## Seattle Commodore Computer Club – Dedicated to the world of Commodore retro computing and gaming. But ALL flavors are welcome.
- - [https://www.sea-ccc.org](https://www.sea-ccc.org)
+ - [https://sea-ccc.org](https://sea-ccc.org)
  - date_published: 2024-07-08T20:23:41.074204+00:00
 
  ## SeaComm Federal Credit Union
- - [https://www.seacomm.org](https://www.seacomm.org)
+ - [https://seacomm.org](https://seacomm.org)
  - date_published: 2024-07-06T21:33:54.945441+00:00
 
  ## Sea-Eye | Seenotrettung im Mittelmeer - Sea-Eye
@@ -1293,11 +1395,11 @@
  - date_published: 2024-05-08T10:57:40.090489+00:00
 
  ## Seattle Java User Group – SeaJUG
- - [https://www.seajug.org](https://www.seajug.org)
+ - [https://seajug.org](https://seajug.org)
  - date_published: 2024-07-01T05:19:06.341499+00:00
 
  ## Current & Historical Sea Levels Graph
- - [https://www.sealevels.org](https://www.sealevels.org)
+ - [https://sealevels.org](https://sealevels.org)
  - date_published: 2024-08-18T04:40:21.371999+00:00
 
  ## SeaMATE Store
@@ -1305,11 +1407,11 @@
  - date_published: 2024-07-09T08:58:36.517092+00:00
 
  ## SEAMEO Secretariat
- - [https://www.seameo.org](https://www.seameo.org)
+ - [https://seameo.org](https://seameo.org)
  - date_published: 2024-06-23T23:26:08.355451+00:00
 
  ## Seam Framework - JBoss Seam
- - [http://seamframework.org](http://seamframework.org)
+ - [https://seamframework.org](https://seamframework.org)
  - date_published: 2021-12-08T12:11:53+00:00
 
  ## SeamlessAccess Demo
@@ -1351,11 +1453,11 @@
  - date_published: 2024-07-01T08:48:43+00:00
 
  ## SeaQL
- - [https://www.sea-ql.org](https://www.sea-ql.org)
+ - [https://sea-ql.org](https://sea-ql.org)
  - date_published: 2024-07-02T08:06:12+00:00
 
  ## SEARCA - Southeast Asian Regional Center for Graduate Study and Research in Agriculture
- - [https://www.searca.org](https://www.searca.org)
+ - [https://searca.org](https://searca.org)
  - date_published: 2024-06-20T08:46:50.693857+00:00
 
  ## Search Atlas: Visualizing Divergent Search Results Across Geopolitical Borders
@@ -1383,7 +1485,7 @@
  - date_published: 2024-10-29T23:51:15+00:00
 
  ## WEB DIRECTORY Human Edited, Local Small Business Listing, Add Your Website Free, Google Backlinks, Networking and Social Media Builder
- - [https://www.searchmonster.org](https://www.searchmonster.org)
+ - [https://searchmonster.org](https://searchmonster.org)
  - date_published: 2024-06-29T01:46:54.770166+00:00
 
  ## SearQ
@@ -1420,7 +1522,7 @@
  - date_published: 2017-03-31T16:30:08.164331+00:00
 
  ## seaside institute home
- - [https://www.seasideinstitute.org](https://www.seasideinstitute.org)
+ - [https://seasideinstitute.org](https://seasideinstitute.org)
  - date_published: 2024-08-18T12:49:00.402641+00:00
 
  ## SEASON Aesthetic Conference
@@ -1436,11 +1538,11 @@
  - date_published: 2024-01-17T00:00:00+00:00
 
  ## SEASPIRACY DOCUMENTARY
- - [https://www.seaspiracy.org](https://www.seaspiracy.org)
+ - [https://seaspiracy.org](https://seaspiracy.org)
  - date_published: 2024-07-08T15:24:18.133729+00:00
 
  ## Royal Organics Bulk Wholesale Kratom – Your #1 Source for all Kratom
- - [http://seasr.org](http://seasr.org)
+ - [https://seasr.org](https://seasr.org)
  - date_published: 2024-08-19T04:44:24.872238+00:00
 
  ## Home
@@ -1487,24 +1589,24 @@
  - [https://seattlecca.org](https://seattlecca.org)
  - date_published: 2024-07-12T19:23:55+00:00
 
+ ## SeattleChannel.org
+ - [https://seattlechannel.org](https://seattlechannel.org)
+ - date_published: 2024-08-19T05:41:13.579541+00:00
+
  ## Take 21
  - [https://take21.seattlechannel.org](https://take21.seattlechannel.org)
  - date_published: 2024-07-27T02:13:34.057557+00:00
 
- ## SeattleChannel.org
- - [https://www.seattlechannel.org](https://www.seattlechannel.org)
- - date_published: 2024-08-19T05:41:13.579541+00:00
-
  ## Seattle Children's Hospital, Foundation, and Research
- - [https://www.seattlechildrens.org](https://www.seattlechildrens.org)
+ - [https://seattlechildrens.org](https://seattlechildrens.org)
  - date_published: 2024-07-15T03:41:31.421520+00:00
 
  ## SeattleDance.org | Seattle Folk Dancing
- - [http://seattledance.org](http://seattledance.org)
+ - [https://seattledance.org](https://seattledance.org)
  - date_published: 2024-08-20T05:18:04.358764+00:00
 
  ## Seattle Erotic Art Festival | Seattle Erotic Art Festival
- - [https://www.seattleerotic.org](https://www.seattleerotic.org)
+ - [https://seattleerotic.org](https://seattleerotic.org)
  - date_published: 2024-07-09T15:14:17.088161+00:00
 
  ## Neighborhood Farmers Markets
@@ -1516,7 +1618,7 @@
  - date_published: 2025-01-01T14:48:38.186190+00:00
 
  ## seattlegreendrinks.org - Ta strona jest na sprzedaż! - seattlegreendrinks Zasoby i informacje.
- - [http://www.seattlegreendrinks.org](http://www.seattlegreendrinks.org)
+ - [https://seattlegreendrinks.org](https://seattlegreendrinks.org)
  - date_published: 2024-07-11T15:35:33+00:00
 
  ## Seattle Worldcon 2025 – Building Yesterday’s Future–For Everyone
@@ -1524,7 +1626,7 @@
  - date_published: 2024-07-12T15:40:07.853400+00:00
 
  ## Redirecting
- - [https://www.seattleopera.org](https://www.seattleopera.org)
+ - [https://seattleopera.org](https://seattleopera.org)
  - date_published: 2024-08-19T05:41:24.529501+00:00
 
  ## Seattle Post Globe - Where you can read reviews of latest gadgets.
@@ -1536,15 +1638,15 @@
  - date_published: 2024-01-08T00:00:00+00:00
 
  ## Seattle Radio Field Day 2024 — Field Day 2024
- - [http://www.seattleradiofieldday.org](http://www.seattleradiofieldday.org)
+ - [https://seattleradiofieldday.org](https://seattleradiofieldday.org)
  - date_published: 2024-06-14T17:08:36+00:00
 
  ## Seattle.rb - parse_tree and ruby_parser
- - [http://docs.seattlerb.org](http://docs.seattlerb.org)
+ - [https://docs.seattlerb.org](https://docs.seattlerb.org)
  - date_published: 2011-08-25T00:46:43+00:00
 
  ## Seattle Rep
- - [https://seattlerep.org](https://seattlerep.org)
+ - [http://seattlerep.org](http://seattlerep.org)
  - date_published: 2024-04-29T05:28:55.210328+00:00
 
  ## Login | Seattle Rep
@@ -1556,7 +1658,7 @@
  - date_published: 2024-04-29T05:29:01.407401+00:00
 
  ## Home Page - Seattle Shakespeare Company
- - [https://www.seattleshakespeare.org](https://www.seattleshakespeare.org)
+ - [https://seattleshakespeare.org](https://seattleshakespeare.org)
  - date_published: 2024-06-05T00:00:00+00:00
 
  ## Home – Greater Seattle Choral Consortium
@@ -1568,7 +1670,7 @@
  - date_published: 2024-05-11T07:09:58.673740+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.seattlesymphonylegacy.org](https://www.seattlesymphonylegacy.org)
+ - [https://seattlesymphonylegacy.org](https://seattlesymphonylegacy.org)
  - date_published: 2024-07-13T11:25:03.546396+00:00
 
  ## Visit Seattle Washington | Travel & Tourism | Official Site
@@ -1592,15 +1694,15 @@
  - date_published: 2024-03-21T00:00:00+00:00
 
  ## Adoring Sebastian Stan   /   www.sebastian-stan.org
- - [http://sebastian-stan.org](http://sebastian-stan.org)
+ - [https://sebastian-stan.org](https://sebastian-stan.org)
  - date_published: 2024-09-04T02:46:33.208439+00:00
 
  ## Standards for Efficient Cryptography Group
- - [https://www.secg.org](https://www.secg.org)
+ - [https://secg.org](https://secg.org)
  - date_published: 2015-01-29T14:45:09+00:00
 
  ## Securities and Exchange Commission Historical Society
- - [https://www.sechistorical.org](https://www.sechistorical.org)
+ - [https://sechistorical.org](https://sechistorical.org)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## SecLists.Org Security Mailing List Archive
@@ -1628,7 +1730,7 @@
  - date_published: 2024-05-09T09:10:08.424284+00:00
 
  ## Secret Meals
- - [https://www.secretmeals.org](https://www.secretmeals.org)
+ - [https://secretmeals.org](https://secretmeals.org)
  - date_published: 2024-07-10T04:42:24.634370+00:00
 
  ## The Secret Working Group Social node
@@ -1640,7 +1742,7 @@
  - date_published: 2024-06-22T20:52:12+00:00
 
  ## 上海合作组织
- - [http://chn.sectsco.org](http://chn.sectsco.org)
+ - [https://chn.sectsco.org](https://chn.sectsco.org)
  - date_published: 2024-09-04T00:00:00+00:00
 
  ## Home - Secular Coalition for America
@@ -1648,11 +1750,11 @@
  - date_published: 2024-06-30T01:48:03.506239+00:00
 
  ## Home | Free Inquiry
- - [https://secularhumanism.org](https://secularhumanism.org)
+ - [http://secularhumanism.org](http://secularhumanism.org)
  - date_published: 2023-10-25T22:07:53.196476+00:00
 
  ## Secular Right | Reality & Reason
- - [http://secularright.org](http://secularright.org)
+ - [https://secularright.org](https://secularright.org)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## A National Network for Nonreligious Students
@@ -1660,7 +1762,7 @@
  - date_published: 2024-05-23T00:00:00+00:00
 
  ## Amplifying the voice, presence, and influence of non-religious women
- - [http://www.secularwoman.org](http://www.secularwoman.org)
+ - [https://secularwoman.org](https://secularwoman.org)
  - date_published: 2019-08-25T15:30:43+00:00
 
  ## SecureBio - Securing the future against catastrophic pandemics
@@ -1668,7 +1770,7 @@
  - date_published: 2024-08-20T05:21:38.059486+00:00
 
  ## Secure Coding: Learn the Fundamentals and Best Practices Today
- - [http://www.securecoding.org](http://www.securecoding.org)
+ - [https://securecoding.org](https://securecoding.org)
  - date_published: 2024-08-18T14:59:54+00:00
 
  ## SecureDNA - fast, free, and accurate DNA synthesis screening
@@ -1705,7 +1807,7 @@
  - date_published: 2024-07-10T04:10:48.961514+00:00
 
  ## Security.org: Security Doesn't Have to be Complicated
- - [https://www.security.org](https://www.security.org)
+ - [https://security.org](https://security.org)
  - date_published: 2024-02-06T00:00:00+00:00
 
  ## Security Alliance
@@ -1725,7 +1827,7 @@
  - date_published: 2016-10-27T16:25:15+00:00
 
  ## GitHub - matthewgream/www-securitydigest-org: Security Digest Archives Website (2002)
- - [http://securitydigest.org](http://securitydigest.org)
+ - [https://securitydigest.org](https://securitydigest.org)
  - date_published: 2024-08-18T18:41:55.431131+00:00
 
  ## Security Espresso
@@ -1761,7 +1863,7 @@
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## Cruising through complex data — Sedimental
- - [http://sedimental.org](http://sedimental.org)
+ - [https://sedimental.org](https://sedimental.org)
  - date_published: 2024-04-19T00:00:00+00:00
 
  ## SEDS USA
@@ -1773,7 +1875,7 @@
  - date_published: 2024-10-19T20:07:00.081048+00:00
 
  ## SEDS @ UCSD
- - [https://www.sedsucsd.org](https://www.sedsucsd.org)
+ - [https://sedsucsd.org](https://sedsucsd.org)
  - date_published: 2024-06-22T09:06:05.509126+00:00
 
  ## Home - SeedSavers
@@ -1781,7 +1883,7 @@
  - date_published: 2024-12-30T12:51:38+00:00
 
  ## SEE ICT | South-East Europe Information and Communication Technologies
- - [http://seeict.org](http://seeict.org)
+ - [https://seeict.org](https://seeict.org)
  - date_published: 2024-09-04T11:58:25.297315+00:00
 
  ## SeeingHappy
@@ -1789,7 +1891,7 @@
  - date_published: 2024-07-13T00:00:00+00:00
 
  ## Christian Search Engine
- - [https://www.seekfind.org](https://www.seekfind.org)
+ - [https://seekfind.org](https://seekfind.org)
  - date_published: 2024-07-01T16:45:10+00:00
 
  ## Home
@@ -1821,7 +1923,7 @@
  - date_published: 2024-09-02T12:28:58.564010+00:00
 
  ## Give to Sefaria
- - [https://donate.sefaria.org](https://donate.sefaria.org)
+ - [http://donate.sefaria.org](http://donate.sefaria.org)
  - date_published: 2024-07-10T00:00:00+00:00
 
  ## Sefaria: a Living Library of Jewish Texts Online
@@ -1837,7 +1939,7 @@
  - date_published: 2024-05-09T04:40:28.466135+00:00
 
  ## Home - SEG
- - [http://www.seg.org](http://www.seg.org)
+ - [https://seg.org](https://seg.org)
  - date_published: 2024-05-29T00:00:00+00:00
 
  ## Sega Retro
@@ -1865,7 +1967,7 @@
  - date_published: 2024-09-25T10:54:02.117865+00:00
 
  ## Science and Engineering Publishing Company
- - [http://www.seipub.org](http://www.seipub.org)
+ - [https://seipub.org](https://seipub.org)
  - date_published: 2023-10-19T16:17:41+00:00
 
  ## Annual Meeting 2025 - Annual Meeting
@@ -1897,11 +1999,11 @@
  - date_published: 2024-06-29T21:33:33.773016+00:00
 
  ## SEJ
- - [https://www.sej.org](https://www.sej.org)
+ - [https://sej.org](https://sej.org)
  - date_published: 2024-07-07T10:08:10+00:00
 
  ## Sekaipedia
- - [https://www.sekaipedia.org](https://www.sekaipedia.org)
+ - [https://sekaipedia.org](https://sekaipedia.org)
  - date_published: 2024-10-20T22:38:07.286683+00:00
 
  ## Getting Started | Select2 - The jQuery replacement for select boxes
@@ -1921,11 +2023,11 @@
  - date_published: 2024-07-25T00:00:00+00:00
 
  ## The Self-Development Lab
- - [http://www.selfdevelopmentlab.org](http://www.selfdevelopmentlab.org)
- - date_published: 2024-04-30T05:30:17.664465+00:00
+ - [https://selfdevelopmentlab.org](https://selfdevelopmentlab.org)
+ - date_published: 2023-12-19T00:21:02+00:00
 
  ## Alliance for Self-Directed Education | Home Page
- - [https://www.self-directed.org](https://www.self-directed.org)
+ - [https://self-directed.org](https://self-directed.org)
  - date_published: 2024-07-10T08:45:48.537795+00:00
 
  ## Home
@@ -1935,6 +2037,7 @@
  ## Self-Help Federal Credit Union | CA, IL, WA, WI Credit Union
  - [https://marketing.self-helpfcu.org](https://marketing.self-helpfcu.org)
  - date_published: 2024-07-10T04:38:02.826832+00:00
+ - date_dead_since: 2025-01-05T16:18:20.225196+00:00
 
  ## Home
  - [https://self-helpfcu.org](https://self-helpfcu.org)
@@ -1958,7 +2061,7 @@
  - date_published: 2024-04-29T03:11:26.677406+00:00
 
  ## Self | Welcome
- - [http://selflanguage.org](http://selflanguage.org)
+ - [https://selflanguage.org](https://selflanguage.org)
  - date_published: 2023-08-21T05:12:01+00:00
 
  ## SelfPrivacy.org
@@ -1978,15 +2081,15 @@
  - date_published: 2024-12-12T22:44:19.382341+00:00
 
  ## Self Storage Association | Home
- - [https://www.selfstorage.org](https://www.selfstorage.org)
+ - [https://selfstorage.org](https://selfstorage.org)
  - date_published: 2024-08-06T23:15:23.477257+00:00
 
  ## SELinux Wiki
  - [https://selinuxproject.org](https://selinuxproject.org)
- - date_published: 2024-04-29T07:27:04.290923+00:00
+ - date_published: 2023-02-23T01:38:20+00:00
 
  ## SellMyTextbooks.org: Sell us your used textbooks!
- - [http://www.sellmytextbooks.org](http://www.sellmytextbooks.org)
+ - [https://sellmytextbooks.org](https://sellmytextbooks.org)
  - date_published: 2024-07-09T16:37:56.487969+00:00
 
  ## The all-in-one Open Source project for a 100% automated SaaS company
@@ -1994,7 +2097,7 @@
  - date_published: 2023-08-25T00:00:00+00:00
 
  ## Wendy Seltzer's Home Page
- - [http://wendy.seltzer.org](http://wendy.seltzer.org)
+ - [https://wendy.seltzer.org](https://wendy.seltzer.org)
  - date_published: 2024-06-04T00:00:00+00:00
 
  ## Specialty Equipment Market Association (SEMA), SEMA JOBS|Find Your Career Here
@@ -2006,7 +2109,7 @@
  - date_published: 2024-10-27T12:38:45+00:00
 
  ## Semana del Español 2024 - Español en España
- - [http://semanaespanol.org](http://semanaespanol.org)
+ - [https://semanaespanol.org](https://semanaespanol.org)
  - date_published: 2024-08-11T11:08:16.951241+00:00
 
  ## Semantic Desktop[.]org
@@ -2042,7 +2145,7 @@
  - date_published: 2024-08-19T18:48:13.169573+00:00
 
  ## Semester at Sea | Multi-Country Study Abroad
- - [https://www.semesteratsea.org](https://www.semesteratsea.org)
+ - [https://semesteratsea.org](https://semesteratsea.org)
  - date_published: 2024-09-03T00:00:00+00:00
 
  ## Cierpliwości...
@@ -2062,7 +2165,7 @@
  - date_published: 2023-12-19T15:57:18+00:00
 
  ## SEMpdx | Search Engine Marketing Assoc. of Portland, OR
- - [https://www.sempdx.org](https://www.sempdx.org)
+ - [https://sempdx.org](https://sempdx.org)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Home - Semper Fi & America's Fund
@@ -2086,7 +2189,7 @@
  - date_published: 2023-10-25T22:07:58.320918+00:00
 
  ## Introduction - Semantic Versioning for TypeScript Types
- - [https://www.semver-ts.org](https://www.semver-ts.org)
+ - [https://semver-ts.org](https://semver-ts.org)
  - date_published: 2023-11-27T04:52:28+00:00
 
  ## Senate of Economy Europe
@@ -2099,11 +2202,11 @@
  - tags: ['personal']
 
  ## Senda Verde  – Wildlife Sanctuary
- - [http://www.sendaverde.org](http://www.sendaverde.org)
+ - [https://sendaverde.org](https://sendaverde.org)
  - date_published: 2024-06-24T09:37:26.582484+00:00
 
  ## Sender Network is the AI protocol designed to power the intent-centric vision of Web3 and accelerate the worldwide adoption of consumer crypto.
- - [https://www.sender.org](https://www.sender.org)
+ - [https://sender.org](https://sender.org)
  - date_published: 2024-09-25T03:58:31+00:00
 
  ## Senderos Guatemala - Formerly PEG Partners
@@ -2115,7 +2218,7 @@
  - date_published: 2024-03-22T00:00:00+00:00
 
  ## Sendmail Sentrion Open Source - Open Source Email Server | Proofpoint US
- - [http://www.sendmail.org](http://www.sendmail.org)
+ - [https://sendmail.org](https://sendmail.org)
  - date_published: 2020-07-21T03:48:58+00:00
 
  ## Home - Senior Connection Central Massachusetts
@@ -2133,6 +2236,7 @@
  ## Seniorsfestival - Berita Harian Game Mobile Terbaru Hari Ini
  - [https://seniorsfestival.org](https://seniorsfestival.org)
  - date_published: 2024-08-20T04:29:11.768322+00:00
+ - date_dead_since: 2025-01-05T16:24:54.093051+00:00
 
  ## SeniorsMeet – No “Youths” Allowed!
  - [https://seniorsmeet.org](https://seniorsmeet.org)
@@ -2151,7 +2255,7 @@
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## Home - Sense About Science USA
- - [http://www.senseaboutscienceusa.org](http://www.senseaboutscienceusa.org)
+ - [https://senseaboutscienceusa.org](https://senseaboutscienceusa.org)
  - date_published: 2024-07-16T21:50:02.660741+00:00
 
  ## www.sensi.org
@@ -2179,11 +2283,11 @@
  - date_published: 2024-02-21T00:00:00+00:00
 
  ## Sentience Institute
- - [https://www.sentienceinstitute.org](https://www.sentienceinstitute.org)
+ - [https://sentienceinstitute.org](https://sentienceinstitute.org)
  - date_published: 2024-05-22T15:37:44+00:00
 
  ## Sentimental Corporation
- - [http://sentimentalcorp.org](http://sentimentalcorp.org)
+ - [https://sentimentalcorp.org](https://sentimentalcorp.org)
  - date_published: 2023-12-27T00:15:03+00:00
 
  ## Sentinel minutes | Nuño Sempere | Substack
@@ -2203,7 +2307,7 @@
  - date_published: 2024-07-08T06:44:22+00:00
 
  ## FePSeM : Fédération des Professionnels du Search Marketing
- - [https://www.seo-camp.org](https://www.seo-camp.org)
+ - [https://seo-camp.org](https://seo-camp.org)
  - date_published: 2020-09-28T21:32:38+00:00
 
  ## SEO for the Rest of Us Products
@@ -2215,11 +2319,11 @@
  - date_published: 2024-12-27T21:42:01+00:00
 
  ## SEOPress - The Best SEO Tools for WordPress in 2024
- - [https://www.seopress.org](https://www.seopress.org)
+ - [https://seopress.org](https://seopress.org)
  - date_published: 2024-06-19T19:22:15.928970+00:00
 
  ## Seoul Accord
- - [https://www.seoulaccord.org](https://www.seoulaccord.org)
+ - [https://seoulaccord.org](https://seoulaccord.org)
  - date_published: 1970-01-01T00:00:00+00:00
 
  ## 도시건축비엔날레
@@ -2231,7 +2335,7 @@
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## Welcome to the National Plant Diagnostic Network Website | National Plant Diagnostic Network
- - [http://www.sepdn.org](http://www.sepdn.org)
+ - [https://sepdn.org](https://sepdn.org)
  - date_published: 2024-10-15T05:40:36.039936+00:00
 
  ## Sepia Search
@@ -2243,19 +2347,19 @@
  - date_published: 2024-07-12T08:23:38.556664+00:00
 
  ## SePP Home Page
- - [http://www.sepp.org](http://www.sepp.org)
+ - [https://sepp.org](https://sepp.org)
  - date_published: 2024-06-28T18:41:18.377111+00:00
 
  ## SEPTA
- - [http://septa.org](http://septa.org)
+ - [https://septa.org](https://septa.org)
  - date_published: 2024-01-23T20:30:35+00:00
 
  ## API Documentation
- - [http://www3.septa.org](http://www3.septa.org)
+ - [https://www3.septa.org](https://www3.septa.org)
  - date_published: 2023-04-18T19:02:42+00:00
 
  ## Southeastern Pennsylvania Transportation Authority (SEPTA)
- - [http://www4.septa.org](http://www4.septa.org)
+ - [https://www4.septa.org](https://www4.septa.org)
  - date_published: 2024-06-14T00:56:21+00:00
 
  ## Home
@@ -2267,7 +2371,7 @@
  - date_published: 2024-06-23T06:15:32.809378+00:00
 
  ## Sequential Artists Workshop
- - [http://www.sequentialartistsworkshop.org](http://www.sequentialartistsworkshop.org)
+ - [https://sequentialartistsworkshop.org](https://sequentialartistsworkshop.org)
  - date_published: 2024-07-17T10:55:14.285116+00:00
 
  ## sequoia_openpgp - Rust
@@ -2287,7 +2391,7 @@
  - date_published: 2024-10-15T03:11:13.436721+00:00
 
  ## Society for Ecological Restoration (SER)
- - [http://www.ser.org](http://www.ser.org)
+ - [https://ser.org](https://ser.org)
  - date_published: 2024-07-03T15:09:10.446267+00:00
 
  ## Šahovski savez Srbije | Serbia chess Federation
@@ -2311,7 +2415,7 @@
  - date_published: 2024-06-22T20:24:05.171745+00:00
 
  ## Serener.org
- - [http://www.serener.org](http://www.serener.org)
+ - [https://serener.org](https://serener.org)
  - date_published: 2024-07-13T00:00:00+00:00
 
  ## SerenityOS
@@ -2319,7 +2423,7 @@
  - date_published: 2023-10-11T04:40:04+00:00
 
  ## Home - Serenity Press
- - [https://www.serenitypress.org](https://www.serenitypress.org)
+ - [https://serenitypress.org](https://serenitypress.org)
  - date_published: 2024-10-27T18:30:22.867734+00:00
 
  ## Home - Serge Betsen Academy
@@ -2327,15 +2431,15 @@
  - date_published: 2024-10-30T05:13:51.564518+00:00
 
  ## I me mine
- - [http://blog.sergiusens.org](http://blog.sergiusens.org)
+ - [https://blog.sergiusens.org](https://blog.sergiusens.org)
  - date_published: 2020-04-28T20:00:59+00:00
 
  ## serialdeviant.org(y)
- - [http://serialdeviant.org](http://serialdeviant.org)
+ - [https://serialdeviant.org](https://serialdeviant.org)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Serialhacker.org
- - [http://serialhacker.org](http://serialhacker.org)
+ - [https://serialhacker.org](https://serialhacker.org)
  - date_published: 2024-06-22T10:15:42.662563+00:00
 
  ## ‘Serial’ Season 4: Guantánamo
@@ -2355,7 +2459,7 @@
  - date_published: 2023-10-25T22:08:05.962650+00:00
 
  ## MATS Program
- - [https://www.serimats.org](https://www.serimats.org)
+ - [https://serimats.org](https://serimats.org)
  - date_published: 2024-06-21T11:42:15.459286+00:00
 
  ## Inicio - Pueblos Originarios de Chile Ser Indigena
@@ -2367,7 +2471,7 @@
  - date_published: 2024-05-09T05:26:12.183604+00:00
 
  ## Serious Science
- - [http://serious-science.org](http://serious-science.org)
+ - [https://serious-science.org](https://serious-science.org)
  - date_published: 2024-07-03T22:21:31.861446+00:00
 
  ## Serlo Communitychat
@@ -2431,7 +2535,7 @@
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## The Serving Library
- - [https://www.servinglibrary.org](https://www.servinglibrary.org)
+ - [https://servinglibrary.org](https://servinglibrary.org)
  - date_published: 2024-06-23T00:00:00+00:00
 
  ## The Servo Book - The Servo Book
@@ -2464,7 +2568,7 @@
  - date_published: 2024-04-29T05:28:16.677244+00:00
 
  ## SeSeSe.org - Публикации
- - [https://www.sesese.org](https://www.sesese.org)
+ - [https://sesese.org](https://sesese.org)
  - date_published: 2024-07-09T09:13:30.654443+00:00
 
  ## SESP
@@ -2472,7 +2576,7 @@
  - date_published: 2024-12-27T16:08:16.677573+00:00
 
  ## FAJARTOTO: Bandar Toto Macau Resmi dengan Keluaran Tercepat
- - [http://www.sesrtcic.org](http://www.sesrtcic.org)
+ - [https://sesrtcic.org](https://sesrtcic.org)
  - date_published: 2024-09-24T21:39:13.052995+00:00
 
  ## Sest India - Exceptional Blogs
@@ -2480,11 +2584,11 @@
  - date_published: 2024-10-29T17:20:57.719123+00:00
 
  ## Home - Southeastern Trade Adjustment Assistance Center
- - [http://setaac.org](http://setaac.org)
+ - [https://setaac.org](https://setaac.org)
  - date_published: 2024-07-22T03:40:35.544717+00:00
 
  ## Madsci Network: Research
- - [http://family.sethi.org](http://family.sethi.org)
+ - [https://family.sethi.org](https://family.sethi.org)
  - date_published: 2024-07-07T07:03:08.313058+00:00
 
  ## Sethi Research and Professional Activities
@@ -2496,7 +2600,7 @@
  - date_published: 2024-05-08T09:50:07.612299+00:00
 
  ## Seth Thompson
- - [http://seththompson.org](http://seththompson.org)
+ - [https://seththompson.org](https://seththompson.org)
  - date_published: 2024-07-13T15:01:50.269168+00:00
 
  ## Drake Awards 2023
@@ -2521,7 +2625,7 @@
  - date_published: 2024-10-29T17:21:17.821846+00:00
 
  ## 説話文学会 - The Narrative Literary Society
- - [http://www.setsuwa.org](http://www.setsuwa.org)
+ - [https://setsuwa.org](https://setsuwa.org)
  - date_published: 2024-07-02T11:33:44+00:00
 
  ## Casa del Popolo di Settignano
@@ -2537,15 +2641,15 @@
  - date_published: 2001-04-11T23:25:02+00:00
 
  ## gBib
- - [http://gbib.seul.org](http://gbib.seul.org)
- - date_published: 2004-04-07T00:00:00+00:00
+ - [https://gbib.seul.org](https://gbib.seul.org)
+ - date_published: 2001-04-11T23:25:02+00:00
 
  ## The GDIS Home Page
- - [http://gdis.seul.org](http://gdis.seul.org)
- - date_published: 2003-11-13T01:39:26+00:00
+ - [https://gdis.seul.org](https://gdis.seul.org)
+ - date_published: 2001-04-11T23:25:02+00:00
 
  ## IPTraf - An IP Network Monitor
- - [http://iptraf.seul.org](http://iptraf.seul.org)
+ - [https://iptraf.seul.org](https://iptraf.seul.org)
  - date_published: 2000-06-30T00:00:00+00:00
 
  ## Pingus - Home
@@ -2553,7 +2657,7 @@
  - date_published: 2018-01-14T19:34:26+00:00
 
  ## Seul.org Home Page
- - [http://www.seul.org](http://www.seul.org)
+ - [https://seul.org](https://seul.org)
  - date_published: 2016-11-20T21:58:49+00:00
 
  ## XArchon
@@ -2561,7 +2665,7 @@
  - date_published: 2001-04-11T23:25:02+00:00
 
  ## | Sioux Empire United Way
- - [https://www.seuw.org](https://www.seuw.org)
+ - [https://seuw.org](https://seuw.org)
  - date_published: 2024-07-14T06:30:07+00:00
 
  ## Seven50 Vision - SFRPC
@@ -2569,7 +2673,7 @@
  - date_published: 2024-12-12T09:21:42.418797+00:00
 
  ## Север Реалии
- - [https://www.severreal.org](https://www.severreal.org)
+ - [https://severreal.org](https://severreal.org)
  - date_published: 2024-08-18T00:00:00+00:00
 
  ## Ayuntamiento de Sevilla
@@ -2577,7 +2681,7 @@
  - date_published: 2024-12-31T01:38:44.607672+00:00
 
  ## NAGA138: Link Slot Live Pasti WD Kemenangan 98% Semua Permainan
- - [http://www.sewerhistory.org](http://www.sewerhistory.org)
+ - [https://sewerhistory.org](https://sewerhistory.org)
  - date_published: 2024-10-18T15:43:23.951226+00:00
 
  ## SeyCCAT - The Seychelles Conservation and Climate Adaptation Trust - We strategically invest in ocean stakeholders to generate new learning, bold action and sustainable blue prosperity in Seychelles.
@@ -2589,11 +2693,11 @@
  - date_published: 2024-05-08T06:03:44.116239+00:00
 
  ## 311 Customer Service Center | San Francisco
- - [http://sf311.org](http://sf311.org)
+ - [https://sf311.org](https://sf311.org)
  - date_published: 2024-09-05T00:00:00+00:00
 
  ## Home - San Francisco AIDS Foundation
- - [https://www.sfaf.org](https://www.sfaf.org)
+ - [https://sfaf.org](https://sfaf.org)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## SEQUENCING TO FUNCTIONE
@@ -2601,15 +2705,15 @@
  - date_published: 2024-05-12T11:21:54+00:00
 
  ## Simons Foundation Autism Research Initiative | SFARI
- - [https://www.sfari.org](https://www.sfari.org)
+ - [https://sfari.org](https://sfari.org)
  - date_published: 2024-07-01T07:52:13+00:00
 
  ## HOME
- - [https://www.sfballet.org](https://www.sfballet.org)
+ - [https://sfballet.org](https://sfballet.org)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## SF Bay Area Renters’ Federation
- - [http://www.sfbarf.org](http://www.sfbarf.org)
+ - [https://sfbarf.org](https://sfbarf.org)
  - date_published: 2023-11-06T12:05:51+00:00
 
  ## Association for Computing Machinery
@@ -2633,7 +2737,7 @@
  - date_published: 2024-06-24T11:37:11+00:00
 
  ## Council of Community Housing Organizations
- - [http://www.sfccho.org](http://www.sfccho.org)
+ - [https://sfccho.org](https://sfccho.org)
  - date_published: 2024-06-23T10:01:11.656531+00:00
 
  ## Homepage - SF LGBT Center
@@ -2642,12 +2746,12 @@
  - tags: ['lgbt']
 
  ## Home
- - [http://sfcg.org](http://sfcg.org)
- - date_published: 2024-10-30T05:08:02.049078+00:00
+ - [https://sfcg.org](https://sfcg.org)
+ - date_published: 2024-06-19T18:12:39.537751+00:00
 
  ## Home
- - [https://www.sfcg.org](https://www.sfcg.org)
- - date_published: 2024-06-19T18:12:39.537751+00:00
+ - [http://sfcg.org](http://sfcg.org)
+ - date_published: 2024-10-30T05:08:02.049078+00:00
 
  ## Northern California Cherry Blossom Festival - Northern California Cherry Blossom Festival
  - [https://sfcherryblossom.org](https://sfcherryblossom.org)
@@ -2662,11 +2766,11 @@
  - date_published: 2024-05-08T09:28:53.455681+00:00
 
  ## SF City Guides – Free Walking Tours of San Francisco
- - [http://sfcityguides.org](http://sfcityguides.org)
+ - [https://sfcityguides.org](https://sfcityguides.org)
  - date_published: 2024-06-29T17:03:37.088691+00:00
 
  ## Spanish Fork Community Network
- - [http://www.sfcn.org](http://www.sfcn.org)
+ - [https://sfcn.org](https://sfcn.org)
  - date_published: 2024-06-29T16:23:41.417825+00:00
 
  ## San Francisco Community Health Center
@@ -2690,23 +2794,23 @@
  - date_published: 2024-05-02T12:54:27.603355+00:00
 
  ## Controller's Office | San Francisco
- - [http://sfcontroller.org](http://sfcontroller.org)
+ - [https://sfcontroller.org](https://sfcontroller.org)
  - date_published: 2024-06-23T10:01:33.878008+00:00
 
  ## Home - SF Creatives
- - [http://sfcreatives.org](http://sfcreatives.org)
+ - [https://sfcreatives.org](https://sfcreatives.org)
  - date_published: 2024-09-15T10:53:05.830675+00:00
 
- ## Uber and Lyft Trip Visualizer for San Francisco
- - [http://tncstoday.sfcta.org](http://tncstoday.sfcta.org)
- - date_published: 2019-04-26T19:12:49+00:00
-
  ## Home | San Francisco County Transportation Authority
- - [http://www.sfcta.org](http://www.sfcta.org)
+ - [https://sfcta.org](https://sfcta.org)
  - date_published: 2024-06-21T22:04:25+00:00
 
+ ## Uber and Lyft Trip Visualizer for San Francisco
+ - [https://tncstoday.sfcta.org](https://tncstoday.sfcta.org)
+ - date_published: 2019-04-26T19:12:49+00:00
+
  ## San Francisco Classical Voice | The Go-To Place for Classical Music in the Bay Area
- - [https://www.sfcv.org](https://www.sfcv.org)
+ - [https://sfcv.org](https://sfcv.org)
  - date_published: 2024-06-24T10:53:54.856451+00:00
 
  ## San Francisco Design Week
@@ -2724,6 +2828,7 @@
  ## SFE² - sfecologie.org
  - [https://sfecologie.org](https://sfecologie.org)
  - date_published: 2024-09-05T16:44:59.557131+00:00
+ - date_dead_since: 2025-01-05T16:49:43.982555+00:00
 
  ## Your Page Title
  - [https://sfelections.org](https://sfelections.org)
@@ -2734,11 +2839,11 @@
  - date_published: 2024-03-05T00:00:00+00:00
 
  ## SFEN - Sfen
- - [https://www.sfen.org](https://www.sfen.org)
+ - [https://sfen.org](https://sfen.org)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## Home - San Francisco Estuary Partnership
- - [https://www.sfestuary.org](https://www.sfestuary.org)
+ - [https://sfestuary.org](https://sfestuary.org)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## SFFILM
@@ -2758,15 +2863,15 @@
  - date_published: 2024-03-19T00:00:00+00:00
 
  ## SF Foundation Net About Science Fiction Journal
- - [http://www.sf-foundation.org](http://www.sf-foundation.org)
+ - [https://sf-foundation.org](https://sf-foundation.org)
  - date_published: 2024-06-24T10:18:09.729061+00:00
 
  ## Home - San Francisco FrontRunners
- - [https://www.sffr.org](https://www.sffr.org)
+ - [https://sffr.org](https://sffr.org)
  - date_published: 2024-06-22T18:52:24.425344+00:00
 
  ## Science Fiction & Fantasy Translation Awards – Bringing quality translated fiction to the English-speaking world
- - [http://www.sfftawards.org](http://www.sfftawards.org)
+ - [http://sfftawards.org](http://sfftawards.org)
  - date_published: 2024-07-04T13:21:42.904514+00:00
 
  ## San Francisco Open Data
@@ -2774,7 +2879,7 @@
  - date_published: 2024-06-21T23:02:01+00:00
 
  ## SFGov.Org Telephone Directory - City Employee Name Search
- - [http://mission.sfgov.org](http://mission.sfgov.org)
+ - [https://mission.sfgov.org](https://mission.sfgov.org)
  - date_published: 2024-06-29T17:03:30.353102+00:00
 
  ## City and County of San Francisco
@@ -2823,11 +2928,11 @@
  - date_published: 2008-01-01T00:00:00+00:00
 
  ## Japantown San Francisco | Explore, Shop, and Dine
- - [https://www.sfjapantown.org](https://www.sfjapantown.org)
+ - [https://sfjapantown.org](https://sfjapantown.org)
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## SFJAZZ.org
- - [https://www.sfjazz.org](https://www.sfjazz.org)
+ - [https://sfjazz.org](https://sfjazz.org)
  - date_published: 2024-07-07T05:00:22.661631+00:00
 
  ## Museum of Craft and Design - MCD
@@ -2839,7 +2944,7 @@
  - date_published: 2023-10-25T22:08:11.097236+00:00
 
  ## San Francisco-Marin Food Bank - Every $1 Donated Provides 2 Meals‎
- - [https://www.sfmfoodbank.org](https://www.sfmfoodbank.org)
+ - [https://sfmfoodbank.org](https://sfmfoodbank.org)
  - date_published: 2024-10-22T02:07:50.461948+00:00
 
  ## Home - Simple and Fast Multimedia Library
@@ -2912,11 +3017,11 @@
  - date_published: 2024-03-06T14:47:02.119832+00:00
 
  ## San Francisco Planning | SF Planning
- - [http://sf-planning.org](http://sf-planning.org)
+ - [https://sf-planning.org](https://sf-planning.org)
  - date_published: 2024-01-01T00:00:00+00:00
 
  ## San Francisco Planning
- - [http://commissions.sfplanning.org](http://commissions.sfplanning.org)
+ - [https://commissions.sfplanning.org](https://commissions.sfplanning.org)
  - date_published: 2023-12-13T17:07:39+00:00
 
  ## San Francisco Pride 2024: Beacon of Love
@@ -2932,7 +3037,7 @@
  - date_published: 2024-06-15T03:52:18+00:00
 
  ## Home | In the Works
- - [https://www.sfpublicworkstv.org](https://www.sfpublicworkstv.org)
+ - [https://sfpublicworkstv.org](https://sfpublicworkstv.org)
  - date_published: 2024-09-16T04:22:45.487467+00:00
 
  ## San Francisco Water Power Sewer
@@ -2952,7 +3057,7 @@
  - date_published: 2024-01-18T00:00:00+00:00
 
  ## SFTV.org
- - [http://www.sftv.org](http://www.sftv.org)
+ - [https://sftv.org](https://sftv.org)
  - date_published: 2020-12-14T02:39:31+00:00
 
  ## SF Video Technology Meetup
@@ -2960,7 +3065,7 @@
  - date_published: 2024-06-22T11:02:48.721104+00:00
 
  ## Home - Nebula Awards Conference Online
- - [http://events.sfwa.org](http://events.sfwa.org)
+ - [https://events.sfwa.org](https://events.sfwa.org)
  - date_published: 2024-03-20T00:00:00+00:00
 
  ## SFWA - Home
@@ -2972,7 +3077,7 @@
  - date_published: 2024-05-07T18:49:19.284642+00:00
 
  ## Home | Science Fiction & Fantasy Writers Association
- - [http://sfwa.org](http://sfwa.org)
+ - [https://sfwa.org](https://sfwa.org)
  - date_published: 2024-06-19T09:41:49.377144+00:00
 
  ## Home - SFWA Store
@@ -2992,7 +3097,7 @@
  - date_published: 2024-05-10T05:18:23.381508+00:00
 
  ## Home Page - San Francisco Zoo & Gardens
- - [https://www.sfzoo.org](https://www.sfzoo.org)
+ - [https://sfzoo.org](https://sfzoo.org)
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## SGAS – Society for German American Studies
@@ -3004,7 +3109,7 @@
  - date_published: 2024-07-10T10:34:26.300565+00:00
 
  ## SGN :: Seattle Gay/Lesbian/LGBTQ News
- - [https://www.sgn.org](https://www.sgn.org)
+ - [https://sgn.org](https://sgn.org)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Home - PBS National Corporate Sponsorships
@@ -3028,7 +3133,7 @@
  - date_published: 2022-08-04T21:26:08+00:00
 
  ## Shaam | شبكة شام الإخبارية
- - [http://www.shaam.org](http://www.shaam.org)
+ - [https://shaam.org](https://shaam.org)
  - date_published: 2024-09-13T20:04:42.626640+00:00
 
  ## Shaarli - The personal, minimalist, super fast, database-free, bookmarking service
@@ -3041,11 +3146,11 @@
  - tags: ['video game', 'pixel art', 'indie']
 
  ## Shadow Unit
- - [http://shadowunit.org](http://shadowunit.org)
+ - [https://shadowunit.org](https://shadowunit.org)
  - date_published: 2013-04-20T00:00:00+00:00
 
  ## Tubidy: Download Latest Music and Videos for Free - Fast & Easy
- - [https://www.shakacon.org](https://www.shakacon.org)
+ - [https://shakacon.org](https://shakacon.org)
  - date_published: 2024-05-04T14:32:02.634924+00:00
 
  ## Great ShakeOut Earthquake Drills
@@ -3053,7 +3158,7 @@
  - date_published: 2024-12-15T21:35:54.325193+00:00
 
  ## Great ShakeOut Earthquake Drills
- - [http://www.shakeout.org](http://www.shakeout.org)
+ - [https://www.shakeout.org](https://www.shakeout.org)
  - date_published: 2024-07-02T10:49:44.442129+00:00
 
  ## Home - Shakespeare & Company
@@ -3065,7 +3170,7 @@
  - date_published: 2024-05-02T10:21:48.302547+00:00
 
  ## Shakespeare Theatre Company
- - [https://www.shakespearetheatre.org](https://www.shakespearetheatre.org)
+ - [https://shakespearetheatre.org](https://shakespearetheatre.org)
  - date_published: 2024-07-20T22:45:08.886276+00:00
 
  ## Shakopee Mdewakanton Sioux Community in Scott County, MN
@@ -3077,7 +3182,7 @@
  - date_published: 2023-01-03T09:32:22+00:00
 
  ## Meditation Retreats and Mountain Retreats | Drala Mountain Center
- - [https://www.shambhalamountain.org](https://www.shambhalamountain.org)
+ - [https://shambhalamountain.org](https://shambhalamountain.org)
  - date_published: 2023-10-31T00:00:00+00:00
 
  ## Shame of Chicago, Shame of the Nation | a four-part documentary series that lays bare the true stories behind how Chicago and its suburbs devised the nation’s most sweeping system of racially segregated communities and how these policies diminished the lives of generations of Black families, creating the vast racial wealth gap that persists to this day.
@@ -3101,7 +3206,7 @@
  - date_published: 2024-10-21T20:58:35.072158+00:00
 
  ## 上海市公共卫生临床中心
- - [http://www.shaphc.org](http://www.shaphc.org)
+ - [https://www.shaphc.org](https://www.shaphc.org)
  - date_published: 2024-06-18T11:43:29.670815+00:00
 
  ## Home - shaping9
@@ -3109,11 +3214,11 @@
  - date_published: 2019-12-17T08:23:43+00:00
 
  ## Shaping San Francisco
- - [https://www.shapingsf.org](https://www.shapingsf.org)
+ - [https://shapingsf.org](https://shapingsf.org)
  - date_published: 2024-07-14T15:58:34+00:00
 
  ## Shaping Tomorrows World
- - [http://www.shapingtomorrowsworld.org](http://www.shapingtomorrowsworld.org)
+ - [https://shapingtomorrowsworld.org](https://shapingtomorrowsworld.org)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Shaping Youth
@@ -3137,7 +3242,7 @@
  - date_published: 2024-08-18T14:20:12+00:00
 
  ## SHARE
- - [http://www.share.org](http://www.share.org)
+ - [https://share.org](https://share.org)
  - date_published: 2024-07-08T14:23:52.760796+00:00
 
  ## SharedBranching.org | Access your credit union account at thousands of locations nationwide, thanks to Shared Branching.
@@ -3145,7 +3250,7 @@
  - date_published: 2023-08-02T17:21:46+00:00
 
  ## shareNice
- - [http://sharenice.org](http://sharenice.org)
+ - [https://sharenice.org](https://sharenice.org)
  - date_published: 2020-10-25T23:01:46+00:00
 
  ## ShareOpenly
@@ -3153,7 +3258,7 @@
  - date_published: 2024-05-06T14:50:01.526508+00:00
 
  ## Share the Experience 2024
- - [http://sharetheexperience.org](http://sharetheexperience.org)
+ - [https://sharetheexperience.org](https://sharetheexperience.org)
  - date_published: 2024-10-15T07:23:59.066837+00:00
 
  ## Feed people in need | ShareTheMeal | Charity donate
@@ -3169,11 +3274,11 @@
  - date_published: 2024-04-13T00:00:00+00:00
 
  ## SHARPS
- - [http://sharps.org](http://sharps.org)
+ - [https://sharps.org](https://sharps.org)
  - date_published: 2024-06-22T07:22:35.217868+00:00
 
  ## Home - Friends of the Shasta River
- - [http://shastariver.org](http://shastariver.org)
+ - [https://shastariver.org](https://shastariver.org)
  - date_published: 2022-03-02T08:00:00+00:00
 
  ## Home - Shattered Kingdoms
@@ -3185,11 +3290,11 @@
  - date_published: 2024-05-12T02:46:07.230151+00:00
 
  ## aftermath - a fanlisting collective
- - [http://fan.shattered-memories.org](http://fan.shattered-memories.org)
+ - [https://fan.shattered-memories.org](https://fan.shattered-memories.org)
  - date_published: 2024-07-08T09:35:59.564546+00:00
 
  ## shattered memories org ♦ the blue tears network
- - [http://shattered-memories.org](http://shattered-memories.org)
+ - [https://shattered-memories.org](https://shattered-memories.org)
  - date_published: 2024-07-12T16:39:33.363414+00:00
 
  ## Shawn The Baptist
@@ -3209,7 +3314,7 @@
  - date_published: 2024-05-09T06:20:41.480133+00:00
 
  ## Safe Haven Baby Boxes | safe haven law
- - [https://www.shbb.org](https://www.shbb.org)
+ - [https://shbb.org](https://shbb.org)
  - date_published: 2024-09-13T17:07:03.794955+00:00
 
  ## SHE CODE AFRICA
@@ -3221,11 +3326,11 @@
  - date_published: 2024-06-19T21:51:07.685073+00:00
 
  ## Shefi
- - [https://www.shefi.org](https://www.shefi.org)
+ - [https://shefi.org](https://shefi.org)
  - date_published: 2024-09-06T00:00:00+00:00
 
  ## SHE FLIES
- - [https://www.sheflies.org](https://www.sheflies.org)
+ - [https://sheflies.org](https://sheflies.org)
  - date_published: 2024-07-12T19:53:55.603289+00:00
 
  ## Shelburne Falls Memorial Hall
@@ -3250,7 +3355,7 @@
  - date_published: 2020-07-23T15:42:31+00:00
 
  ## Shell-Storm
- - [http://shell-storm.org](http://shell-storm.org)
+ - [https://shell-storm.org](https://shell-storm.org)
  - date_published: 2024-01-08T18:08:34+00:00
 
  ## Shenipsit Striders
@@ -3266,7 +3371,7 @@
  - date_published: 2024-06-24T07:38:23.249723+00:00
 
  ## Sheppard Pratt
- - [https://www.sheppardpratt.org](https://www.sheppardpratt.org)
+ - [https://sheppardpratt.org](https://sheppardpratt.org)
  - date_published: 2023-09-13T00:00:00+00:00
 
  ## Sherer Family Website .
@@ -3276,17 +3381,18 @@
  ## Citrus County Sheriff's Office, FL
  - [https://www.sheriffcitrus.org](https://www.sheriffcitrus.org)
  - date_published: 2024-06-19T17:49:26.882738+00:00
+ - date_dead_since: 2025-01-05T17:04:44.643505+00:00
 
  ## Juvenile Assessment Center |                                                                                                            of Lee County, Florida
  - [https://jac.sheriffleefl.org](https://jac.sheriffleefl.org)
  - date_published: 2024-07-03T14:36:17.637395+00:00
 
  ## Okaloosa County Sheriff's Office | Sheriff Eric Aden
- - [https://www.sheriff-okaloosa.org](https://www.sheriff-okaloosa.org)
+ - [https://sheriff-okaloosa.org](https://sheriff-okaloosa.org)
  - date_published: 2024-07-03T14:39:09.728445+00:00
 
  ## Welcome shesaiddestroy.org - Hostmonster.com
- - [http://shesaiddestroy.org](http://shesaiddestroy.org)
+ - [https://shesaiddestroy.org](https://shesaiddestroy.org)
  - date_published: 2024-04-29T06:33:06.817986+00:00
 
  ## shesaiddestroy.org
@@ -3294,11 +3400,11 @@
  - date_published: 2024-07-24T05:36:38.715815+00:00
 
  ## She Should Run
- - [http://www.sheshouldrun.org](http://www.sheshouldrun.org)
+ - [https://sheshouldrun.org](https://sheshouldrun.org)
  - date_published: 2024-09-26T00:00:00+00:00
 
  ## she_skin
- - [http://sheskin.org](http://sheskin.org)
+ - [https://sheskin.org](https://sheskin.org)
  - date_published: 2024-07-13T14:56:30.303167+00:00
 
  ## SHESL | Société d'histoire et d'épistémologie des sciences du langage
@@ -3314,7 +3420,7 @@
  - date_published: 2019-10-16T16:11:47+00:00
 
  ## Shieldify - Your security partner, for the long term
- - [https://www.shieldify.org](https://www.shieldify.org)
+ - [https://shieldify.org](https://shieldify.org)
  - date_published: 2024-08-28T00:00:00+00:00
 
  ## Chris Shiflett — Entrepreneur
@@ -3322,27 +3428,28 @@
  - date_published: 2024-05-12T04:14:52.218023+00:00
 
  ## Shift
- - [http://www.shift2bikes.org](http://www.shift2bikes.org)
+ - [https://shift2bikes.org](https://shift2bikes.org)
  - date_published: 2024-08-19T17:15:08.173571+00:00
 
  ## SHIFTboston
- - [http://blog.shiftboston.org](http://blog.shiftboston.org)
+ - [https://blog.shiftboston.org](https://blog.shiftboston.org)
  - date_published: 2024-01-16T00:00:00+00:00
 
  ## Transforming cities for people and planet | UrbanShift
- - [https://www.shiftcities.org](https://www.shiftcities.org)
+ - [https://shiftcities.org](https://shiftcities.org)
  - date_published: 2024-09-12T15:00:38.126189+00:00
 
  ## shiftinggrounds.org
  - [http://shiftinggrounds.org](http://shiftinggrounds.org)
  - date_published: 2024-10-21T17:47:52.867181+00:00
+ - date_dead_since: 2025-01-05T17:08:17.970730+00:00
 
  ## Shifting Vision
- - [https://www.shiftingvision.org](https://www.shiftingvision.org)
+ - [https://shiftingvision.org](https://shiftingvision.org)
  - date_published: 2024-02-23T00:00:00+00:00
 
  ## shiftleft.org — mike's papers
- - [https://www.shiftleft.org](https://www.shiftleft.org)
+ - [https://shiftleft.org](https://shiftleft.org)
  - date_published: 2023-06-30T18:34:44+00:00
 
  ## SHIFT YOUR JOB - Concilier Emploi & Climat
@@ -3358,7 +3465,7 @@
  - date_published: 2024-07-16T23:34:08+00:00
 
  ## Home
- - [https://www.shihang.org](https://www.shihang.org)
+ - [https://shihang.org](https://shihang.org)
  - date_published: 2024-06-29T02:02:34+00:00
 
  ## WELCOME! Official American Shih Tzu Club Website | American Shih Tzu Club
@@ -3370,7 +3477,7 @@
  - date_published: 2024-07-13T17:42:06.632124+00:00
 
  ## Shine Light on Depression
- - [https://www.shinelightondepression.org](https://www.shinelightondepression.org)
+ - [https://shinelightondepression.org](https://shinelightondepression.org)
  - date_published: 2024-09-19T00:00:00+00:00
 
  ## anarchy golf
@@ -3378,15 +3485,15 @@
  - date_published: 2024-08-18T13:35:02.596729+00:00
 
  ## Shinson Hapkido  | Herzlich Willkommen
- - [http://www.shinsonhapkido.org](http://www.shinsonhapkido.org)
+ - [https://shinsonhapkido.org](https://shinsonhapkido.org)
  - date_published: 2024-07-10T08:19:56.713028+00:00
 
  ## Home
- - [https://www.ship6.org](https://www.ship6.org)
+ - [https://ship6.org](https://ship6.org)
  - date_published: 2024-09-04T19:19:55.895913+00:00
 
  ## GitHub - shipkit/shipkit-changelog: Minimalistic Gradle plugin that generates changelog based on commit history and GitHub pull requests/issues
- - [http://shipkit.org](http://shipkit.org)
+ - [https://shipkit.org](https://shipkit.org)
  - date_published: 2024-01-24T00:00:00+00:00
 
  ## Shirakumo
@@ -3406,19 +3513,19 @@
  - date_published: 2024-05-08T10:17:27.013495+00:00
 
  ## Shlomi Fish’s Homepage: humour, articles and essays, puzzles and riddles, art, software and many links
- - [https://www.shlomifish.org](https://www.shlomifish.org)
+ - [https://shlomifish.org](https://shlomifish.org)
  - date_published: 2024-07-06T06:10:50+00:00
 
  ## SHM Career Center | jobs | Choose from 118 live job openings
- - [http://www.shmcareercenter.org](http://www.shmcareercenter.org)
+ - [https://shmcareercenter.org](https://shmcareercenter.org)
  - date_published: 2024-06-28T12:39:32.331586+00:00
 
  ## SHM Learning Portal |
- - [https://www.shmlearningportal.org](https://www.shmlearningportal.org)
+ - [https://shmlearningportal.org](https://shmlearningportal.org)
  - date_published: 2024-06-28T12:38:30+00:00
 
  ## South Haven Memorial Library
- - [https://www.shmlibrary.org](https://www.shmlibrary.org)
+ - [https://shmlibrary.org](https://shmlibrary.org)
  - date_published: 2024-09-17T21:23:30.374296+00:00
 
  ## ShmooCon – Less Moose Than Ever – Jan 12-14, 2024
@@ -3431,7 +3538,7 @@
  - date_published: 2024-06-23T23:17:25.212351+00:00
 
  ## Shodor: A National Resource for Computational Science Education
- - [http://www.shodor.org](http://www.shodor.org)
+ - [http://shodor.org](http://shodor.org)
  - date_published: 2024-07-04T14:58:55.185760+00:00
 
  ## الرئيسية - جامعة سامراء
@@ -3439,11 +3546,11 @@
  - date_published: 2024-12-12T12:22:57.324625+00:00
 
  ## Shogun Warriors
- - [https://www.shogunwarriors.org](https://www.shogunwarriors.org)
+ - [https://shogunwarriors.org](https://shogunwarriors.org)
  - date_published: 2024-09-15T00:32:18+00:00
 
  ## ホーム | 触媒学会
- - [http://www.shokubai.org](http://www.shokubai.org)
+ - [https://www.shokubai.org](https://www.shokubai.org)
  - date_published: 2024-06-23T23:16:13.458362+00:00
 
  ## Sholem Aleichem - Home
@@ -3455,7 +3562,7 @@
  - date_published: 2024-05-07T15:01:58.257465+00:00
 
  ## Shop Three Pillars
- - [https://www.shop3p.org](https://www.shop3p.org)
+ - [https://shop3p.org](https://shop3p.org)
  - date_published: 2024-10-19T09:49:16.967267+00:00
 
  ## Shop 4-H - Every purchase supports local 4-H kids.
@@ -3467,7 +3574,7 @@
  - date_published: 2024-04-15T00:00:00+00:00
 
  ## Home
- - [http://shopassociation.org](http://shopassociation.org)
+ - [https://shopassociation.org](https://shopassociation.org)
  - date_published: 2024-06-19T19:07:13.181368+00:00
 
  ## ShopDiabetes.org
@@ -3483,7 +3590,7 @@
  - date_published: 2024-06-17T18:03:36.468242+00:00
 
  ## Cierpliwości...
- - [https://shopjbs.org](https://shopjbs.org)
+ - [http://shopjbs.org](http://shopjbs.org)
  - date_published: 2024-05-06T17:13:29.456808+00:00
 
  ## KAXE Merch
@@ -3491,11 +3598,11 @@
  - date_published: 2024-05-08T12:16:43.633376+00:00
 
  ## Shop KDL | Kent District Library
- - [https://www.shopkdl.org](https://www.shopkdl.org)
+ - [https://shopkdl.org](https://shopkdl.org)
  - date_published: 2024-06-20T17:15:27.018000+00:00
 
  ## Home Page - Meals on Wheels Online Store
- - [http://www.shopmealsonwheels.org](http://www.shopmealsonwheels.org)
+ - [https://shopmealsonwheels.org](https://shopmealsonwheels.org)
  - date_published: 2024-06-18T17:07:57.384218+00:00
 
  ## The NMOA Shop | Gifts from The Newark Museum of Art
@@ -3507,7 +3614,7 @@
  - date_published: 2024-05-08T10:58:25.465357+00:00
 
  ## The National Wildlife Federation |
- - [http://www.shopnwf.org](http://www.shopnwf.org)
+ - [https://shopnwf.org](https://shopnwf.org)
  - date_published: 2024-09-25T18:18:45.188784+00:00
 
  ## Shop | Rainforest Alliance
@@ -3523,7 +3630,7 @@
  - date_published: 2024-07-07T03:34:56.107290+00:00
 
  ## ShopTPT
- - [https://www.shoptpt.org](https://www.shoptpt.org)
+ - [https://shoptpt.org](https://shoptpt.org)
  - date_published: 2024-07-01T23:40:40.916616+00:00
 
  ## Shorenstein Center on Media, Politics and Public Policy
@@ -3556,11 +3663,11 @@
  - tags: ['video editor', 'desktop program', 'open source']
 
  ## שוברים שתיקה
- - [https://www.shovrimshtika.org](https://www.shovrimshtika.org)
+ - [https://shovrimshtika.org](https://shovrimshtika.org)
  - date_published: 2024-10-22T20:24:38.522729+00:00
 
  ## Home
- - [http://www.showhope.org](http://www.showhope.org)
+ - [https://showhope.org](https://showhope.org)
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Show Up Utah
@@ -3568,7 +3675,7 @@
  - date_published: 2024-06-15T22:36:09.450286+00:00
 
  ## Home - Summer Health Professions Education Program
- - [http://www.shpep.org](http://www.shpep.org)
+ - [https://shpep.org](https://shpep.org)
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## GitHub - shred/cilla: Weblog and gallery software written in Java
@@ -3584,7 +3691,7 @@
  - date_published: 2023-11-09T19:00:05.108858+00:00
 
  ## Shriners International | 150 years of Fun, Fellowship & Philanthropy
- - [https://www.shrinersinternational.org](https://www.shrinersinternational.org)
+ - [https://shrinersinternational.org](https://shrinersinternational.org)
  - date_published: 2024-10-18T23:24:50.248896+00:00
 
  ## My SHRM
@@ -3632,11 +3739,11 @@
  - date_published: 2023-10-25T10:53:52.750732+00:00
 
  ## 书格
- - [http://shuge.org](http://shuge.org)
+ - [https://shuge.org](https://shuge.org)
  - date_published: 2024-05-22T08:00:51+00:00
 
  ## Shutter
- - [http://shutter-project.org](http://shutter-project.org)
+ - [https://shutter-project.org](https://shutter-project.org)
  - date_published: 2024-03-31T00:00:00+00:00
 
  ## Digiclub
@@ -3653,15 +3760,15 @@
  - date_published: 2024-12-11T11:03:09.094201+00:00
 
  ## SIAM: Society for Industrial and Applied Mathematics
- - [https://archive.siam.org](https://archive.siam.org)
+ - [http://archive.siam.org](http://archive.siam.org)
  - date_published: 2024-05-09T04:52:55.255308+00:00
 
  ## 2024 Travel Awards Program - Program Application and Nominator Portal
- - [https://awards.siam.org](https://awards.siam.org)
+ - [http://awards.siam.org](http://awards.siam.org)
  - date_published: 2024-06-30T11:21:05.965279+00:00
 
  ## Cierpliwości...
- - [https://bookstore.siam.org](https://bookstore.siam.org)
+ - [http://bookstore.siam.org](http://bookstore.siam.org)
  - date_published: 2024-05-09T04:53:11.287487+00:00
 
  ## Home - SIAM
@@ -3669,44 +3776,45 @@
  - date_published: 2024-05-09T04:53:02.840246+00:00
 
  ## Cierpliwości...
- - [https://epubs.siam.org](https://epubs.siam.org)
+ - [http://epubs.siam.org](http://epubs.siam.org)
  - date_published: 2024-03-03T23:24:56.260599+00:00
 
  ## The History of Numerical Analysis and Scientific Computing
- - [http://history.siam.org](http://history.siam.org)
+ - [https://history.siam.org](https://history.siam.org)
  - date_published: 2010-02-08T19:31:22+00:00
 
  ## SIAM: Career Center
- - [http://jobs.siam.org](http://jobs.siam.org)
+ - [https://jobs.siam.org](https://jobs.siam.org)
  - date_published: 2024-07-09T11:48:22.139311+00:00
 
  ## MathWorks Math Modeling Challenge (M3 Challenge)
- - [https://m3challenge.siam.org](https://m3challenge.siam.org)
+ - [http://m3challenge.siam.org](http://m3challenge.siam.org)
  - date_published: 2024-05-02T00:00:00+00:00
 
  ## SIAM | Home
- - [https://math.siam.org](https://math.siam.org)
+ - [http://math.siam.org](http://math.siam.org)
  - date_published: 2024-05-09T04:52:49.549425+00:00
 
  ## Conference Participation System
- - [http://meetings.siam.org](http://meetings.siam.org)
+ - [https://meetings.siam.org](https://meetings.siam.org)
  - date_published: 2024-07-15T02:38:26.466054+00:00
 
  ## My M3 Challenge | My M3 Challenge
- - [https://mym3challenge.siam.org](https://mym3challenge.siam.org)
+ - [http://mym3challenge.siam.org](http://mym3challenge.siam.org)
  - date_published: 2024-07-09T11:48:27.560898+00:00
+ - date_dead_since: 2025-01-05T17:20:03.369723+00:00
 
  ## Welcome to SIAM
  - [https://my.siam.org](https://my.siam.org)
  - date_published: 2024-05-09T04:53:06.129240+00:00
 
  ## SIAM | Home
- - [https://siam.org](https://siam.org)
+ - [http://siam.org](http://siam.org)
  - date_published: 2024-03-04T07:21:24+00:00
  - tags: ['math articles']
 
  ## SIAM News > Home
- - [https://sinews.siam.org](https://sinews.siam.org)
+ - [http://sinews.siam.org](http://sinews.siam.org)
  - date_published: 2024-05-09T04:52:52.563815+00:00
 
  ## Single Sign On
@@ -3722,7 +3830,7 @@
  - date_published: 2023-12-18T14:56:48.646089+00:00
 
  ## Sichos in English
- - [http://www.sichosinenglish.org](http://www.sichosinenglish.org)
+ - [https://sichosinenglish.org](https://sichosinenglish.org)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## SICSA Conference 2024 – SICSA promotes international excellence in University-led research, education, and knowledge exchange for Scottish Informatics and Computer Science. We are an SFC-funded Research Pool comprising all 14 Scottish Higher Education Computer Science & Informatics Schools and Departments.
@@ -3730,15 +3838,16 @@
  - date_published: 2024-07-04T18:54:59.585902+00:00
 
  ## Sic Transit Philadelphia
- - [http://sictransitphiladelphia.org](http://sictransitphiladelphia.org)
+ - [https://sictransitphiladelphia.org](https://sictransitphiladelphia.org)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## SID 2024 Annual Meeting | Society for Investigative Dermatology
  - [https://sidannualmeeting.org](https://sidannualmeeting.org)
  - date_published: 2024-05-09T05:39:53.361698+00:00
+ - date_dead_since: 2025-01-05T17:28:20.334988+00:00
 
  ## Inicio, Seminario Iberoamericano de Diversidad y Accesibilidad en la Red
- - [http://www.sidar.org](http://www.sidar.org)
+ - [https://sidar.org](https://sidar.org)
  - date_published: 2024-09-28T21:36:45.049576+00:00
 
  ## Homepage | Side Effects | Health and Medical News
@@ -3802,7 +3911,7 @@
  - date_published: 2024-04-29T03:12:27.906241+00:00
 
  ## Home
- - [https://www.sifma.org](https://www.sifma.org)
+ - [https://sifma.org](https://sifma.org)
  - date_published: 2024-09-25T00:00:00+00:00
 
  ## Sift Desk Publications
@@ -3811,7 +3920,7 @@
 
  ## About | sift - a fast and powerful alternative to grep
  - [https://sift-tool.org](https://sift-tool.org)
- - date_published: 2024-05-09T08:39:47.342105+00:00
+ - date_published: 2020-01-18T20:44:16+00:00
 
  ## HOME | ACM ASSETS 2020 - Online Event
  - [https://assets20.sigaccess.org](https://assets20.sigaccess.org)
@@ -3822,7 +3931,7 @@
  - date_published: 2022-10-22T11:28:48+00:00
 
  ## SIGACCESS
- - [http://www.sigaccess.org](http://www.sigaccess.org)
+ - [https://sigaccess.org](https://sigaccess.org)
  - date_published: 2024-06-22T11:45:29.769518+00:00
 
  ## ACM SIGACT
@@ -3830,11 +3939,11 @@
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## ACM SIGAda Home Page
- - [http://sigada.org](http://sigada.org)
+ - [https://sigada.org](https://sigada.org)
  - date_published: 2024-06-21T18:25:21+00:00
 
  ## ACM SIGAPP Page
- - [http://www.sigapp.org](http://www.sigapp.org)
+ - [https://sigapp.org](https://sigapp.org)
  - date_published: 2023-12-31T20:14:42+00:00
 
  ## SIGARCH | The ACM Special Interest Group on Computer Architecture
@@ -3879,12 +3988,12 @@
  - date_published: 2008-07-23T15:03:05+00:00
 
  ## SIGCOMM Conferences
- - [http://conferences2.sigcomm.org](http://conferences2.sigcomm.org)
+ - [https://conferences2.sigcomm.org](https://conferences2.sigcomm.org)
  - date_published: 2011-07-25T17:31:02+00:00
 
  ## SIGCOMM Conferences
  - [https://conferences.sigcomm.org](https://conferences.sigcomm.org)
- - date_published: 2024-04-29T06:11:02.240148+00:00
+ - date_published: 2011-07-25T17:31:02+00:00
 
  ## Welcome | acm sigcomm
  - [http://sigcomm.org](http://sigcomm.org)
@@ -3909,17 +4018,18 @@
  ## SIGCSE TS 2024
  - [https://www.sigcse2024.org](https://www.sigcse2024.org)
  - date_published: 2024-06-30T02:13:26.264043+00:00
+ - date_dead_since: 2025-01-05T17:32:20.827929+00:00
 
  ## About Us - SIGDA
  - [https://sigda.org](https://sigda.org)
  - date_published: 2024-04-30T03:26:40.004457+00:00
 
  ## ACL SIGDAT
- - [http://www.sigdat.org](http://www.sigdat.org)
+ - [https://sigdat.org](https://sigdat.org)
  - date_published: 2024-04-01T00:00:00+00:00
 
  ## Home - EC 2021
- - [http://ec21.sigecom.org](http://ec21.sigecom.org)
+ - [https://ec21.sigecom.org](https://ec21.sigecom.org)
  - date_published: 2024-05-30T00:00:00+00:00
 
  ## ACM SIGecom
@@ -3927,106 +4037,6 @@
  - date_published: 2024-02-15T00:00:00+00:00
 
  ## Local index - HTTrack Website Copier
- - [http://gecco-2016.sigevo.org](http://gecco-2016.sigevo.org)
+ - [https://gecco-2016.sigevo.org](https://gecco-2016.sigevo.org)
  - date_published: 2018-10-23T13:26:17+00:00
-
- ## GECCO 2021 | HomePage
- - [https://gecco-2021.sigevo.org](https://gecco-2021.sigevo.org)
- - date_published: 2024-08-19T18:39:04.275990+00:00
-
- ## GECCO 2024 | HomePage
- - [https://gecco-2024.sigevo.org](https://gecco-2024.sigevo.org)
- - date_published: 2024-07-07T09:19:18.915240+00:00
-
- ## Home - SIGGRAPH Asia 2024
- - [https://asia.siggraph.org](https://asia.siggraph.org)
- - date_published: 2023-10-30T10:23:33+00:00
-
- ## Latest Posts - ACM SIGGRAPH Blog
- - [https://blog.siggraph.org](https://blog.siggraph.org)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## RCDC@SIGGRAPH – SIGGRAPH Research Career Development Committee
- - [https://research.siggraph.org](https://research.siggraph.org)
- - date_published: 2024-08-07T14:14:34.590706+00:00
-
- ## Index of /
- - [http://s2015.siggraph.org](http://s2015.siggraph.org)
- - date_published: 2024-07-02T13:33:24.803789+00:00
-
- ## Home - SIGGRAPH 2018
- - [https://s2018.siggraph.org](https://s2018.siggraph.org)
- - date_published: 2019-04-25T21:39:52+00:00
-
- ## Home | SIGGRAPH 2019
- - [https://s2019.siggraph.org](https://s2019.siggraph.org)
- - date_published: 2024-04-30T05:42:57.692867+00:00
-
- ## SIGGRAPH 2020 - SIGGRAPH
- - [https://s2020.siggraph.org](https://s2020.siggraph.org)
- - date_published: 2024-07-11T14:32:21.408992+00:00
-
- ## Home Page | SIGGRAPH 2021
- - [https://s2021.siggraph.org](https://s2021.siggraph.org)
- - date_published: 2024-06-05T21:58:33+00:00
-
- ## Home Page | SIGGRAPH 2022
- - [https://s2022.siggraph.org](https://s2022.siggraph.org)
- - date_published: 2023-10-13T16:21:26+00:00
-
- ## SIGGRAPH 2023
- - [https://s2023.siggraph.org](https://s2023.siggraph.org)
- - date_published: 2024-06-22T08:50:29.707222+00:00
-
- ## SIGGRAPH 2024
- - [https://s2024.siggraph.org](https://s2024.siggraph.org)
- - date_published: 2024-07-03T02:06:55+00:00
-
- ## SIGGRAPH Asia 2018
- - [https://sa2018.siggraph.org](https://sa2018.siggraph.org)
- - date_published: 2019-12-27T12:31:46+00:00
-
- ## SIGGRAPH Asia 2019
- - [https://sa2019.siggraph.org](https://sa2019.siggraph.org)
- - date_published: 2020-04-24T15:59:40+00:00
-
- ## Home
- - [https://sa2021.siggraph.org](https://sa2021.siggraph.org)
- - date_published: 2024-07-03T04:40:12.065780+00:00
-
- ## Page has moved
- - [https://sa2022.siggraph.org](https://sa2022.siggraph.org)
- - date_published: 2023-08-02T18:48:04+00:00
-
- ## Home - ACM SIGGRAPH
- - [https://siggraph.org](https://siggraph.org)
- - date_published: 2021-10-19T23:47:50+00:00
-
- ## Meeting Your Needs
- - [https://www.sighpc.org](https://www.sighpc.org)
- - date_published: 2024-05-11T06:55:45.559562+00:00
-
- ## Home - Sightline Institute
- - [https://daily.sightline.org](https://daily.sightline.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home - Sightline Institute
- - [https://sightline.org](https://sightline.org)
- - date_published: 2023-10-25T22:08:21.247502+00:00
-
- ## Sightline Security
- - [https://sightlinesecurity.org](https://sightlinesecurity.org)
- - date_published: 2024-07-16T20:39:03.123543+00:00
-
- ## Sight and Sound - CVPR 2023
- - [https://sightsound.org](https://sightsound.org)
- - date_published: 2024-06-16T15:20:54+00:00
-
- ## SIGIR | Special Interest Group on Information Retrieval
- - [https://sigir.org](https://sigir.org)
- - date_published: 2013-07-18T00:00:00+00:00
-
- ## SIGIR-AP - ACM-SIGIR Information Retrieval in the Asia Pacific
- - [http://www.sigir-ap.org](http://www.sigir-ap.org)
- - date_published: 2024-08-06T07:25:28+00:00
 

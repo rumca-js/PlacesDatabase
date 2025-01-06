@@ -1,3 +1,31 @@
+ ## Google Workspace Updates JA
+ - [https://gsuiteupdates-ja.googleblog.com](https://gsuiteupdates-ja.googleblog.com)
+ - date_published: 2024-05-04T08:31:10.336856+00:00
+
+ ## Google Workspace Updates PT
+ - [https://gsuiteupdates-pt.googleblog.com](https://gsuiteupdates-pt.googleblog.com)
+ - date_published: 2024-05-04T08:31:01.931558+00:00
+
+ ## The Keyword India
+ - [https://india.googleblog.com](https://india.googleblog.com)
+ - date_published: 2024-05-04T09:41:03.989492+00:00
+
+ ## The Keyword Japan
+ - [https://japan.googleblog.com](https://japan.googleblog.com)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Maps
+ - [https://maps.googleblog.com](https://maps.googleblog.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Google Maps Platform
+ - [https://mapsplatform.googleblog.com](https://mapsplatform.googleblog.com)
+ - date_published: 2018-11-08T00:00:00+00:00
+
+ ## The Keyword Nederland
+ - [https://nederland.googleblog.com](https://nederland.googleblog.com)
+ - date_published: 2024-08-13T00:00:00+00:00
+
  ## Google Open Source Blog
  - [https://opensource.googleblog.com](https://opensource.googleblog.com)
  - date_published: 2023-10-25T14:47:58.744853+00:00
@@ -4033,32 +4061,4 @@
  ## Graphene-Info | Graphene News, Resources & Information
  - [https://graphene-info.com](https://graphene-info.com)
  - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home
- - [https://forum.graphene-theme.com](https://forum.graphene-theme.com)
- - date_published: 2017-10-14T20:13:16+00:00
-
- ## Graphene Themes Solutions
- - [https://graphene-theme.com](https://graphene-theme.com)
- - date_published: 2024-05-06T16:55:24.703036+00:00
-
- ## GraphHopper Forum
- - [https://discuss.graphhopper.com](https://discuss.graphhopper.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Documentation - GraphHopper Directions API
- - [https://docs.graphhopper.com](https://docs.graphhopper.com)
- - date_published: 2024-04-22T14:12:18+00:00
-
- ## GraphHopper API Explorer
- - [https://explorer.graphhopper.com](https://explorer.graphhopper.com)
- - date_published: 2023-12-31T08:14:28+00:00
-
- ## GraphHopper Directions API with Route Optimization
- - [https://graphhopper.com](https://graphhopper.com)
- - date_published: 2017-01-16T19:59:25+00:00
-
- ## Sign in - Matomo
- - [https://matomo.graphhopper.com](https://matomo.graphhopper.com)
- - date_published: 2024-05-04T08:44:05.112581+00:00
 

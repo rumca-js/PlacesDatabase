@@ -1,3 +1,31 @@
+ ## JASMINE LOW – creative journeys of a writer, producer & director
+ - [https://www.jasminelow.com](https://www.jasminelow.com)
+ - date_published: 2024-01-27T17:52:43.428577+00:00
+
+ ## Jasmine Rae Friedrich
+ - [https://www.jasminemadethis.com](https://www.jasminemadethis.com)
+ - date_published: 2024-08-06T23:38:02.161791+00:00
+
+ ## jasminericegirl
+ - [https://jasminericegirl.com](https://jasminericegirl.com)
+ - date_published: 2024-06-15T17:19:16.085760+00:00
+
+ ## Jasmine Star Blog: Advice and strategy for business and entrepreneurial encouragement
+ - [http://www.jasminestarblog.com](http://www.jasminestarblog.com)
+ - date_published: 2024-12-12T19:42:56.736580+00:00
+
+ ## Highway Desperado Tour_ - Jason Aldean
+ - [http://www.jasonaldean.com](http://www.jasonaldean.com)
+ - date_published: 2024-08-18T09:15:15.403657+00:00
+
+ ## My Kinda Party - Jason Aldean’s Kitchen + Rooftop Bar
+ - [https://jasonaldeansbar.com](https://jasonaldeansbar.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Jason Benn
+ - [https://jasonbenn.com](https://jasonbenn.com)
+ - date_published: 2024-07-04T06:09:59.101931+00:00
+
  ## Jason Bentsman
  - [https://jasonbentsman.com](https://jasonbentsman.com)
  - date_published: 2024-12-04T07:50:18.009278+00:00
@@ -1196,7 +1224,7 @@
  - date_published: 2021-06-18T13:22:19+00:00
 
  ## jstest
- - [http://jstest.jcoglan.com](http://jstest.jcoglan.com)
+ - [https://jstest.jcoglan.com](https://jstest.jcoglan.com)
  - date_published: 2018-05-24T19:56:28+00:00
 
  ## Products – shop.jcoglan.com
@@ -1204,19 +1232,19 @@
  - date_published: 2021-06-18T13:22:19+00:00
 
  ## Code Source, Formation Delphi, Développement Delphi, Articles techniques, Pascalissisme, Livres Delphi, Expert Delphi - Formations Delphi, Cours Delphi, Stage Delphi, Delphi Training
- - [http://www.jcolibri.com](http://www.jcolibri.com)
+ - [http://jcolibri.com](http://jcolibri.com)
  - date_published: 2024-10-16T11:04:23.028365+00:00
 
  ## CIDJ.COM : études, métiers, orientation, jobs, stages, formations,...
- - [http://www.jcomjeune.com](http://www.jcomjeune.com)
+ - [https://jcomjeune.com](https://jcomjeune.com)
  - date_published: 2024-05-01T01:57:16.745282+00:00
 
  ## JContin UD+A
- - [https://www.jcontin.com](https://www.jcontin.com)
+ - [https://jcontin.com](https://jcontin.com)
  - date_published: 2024-09-10T13:07:17.597014+00:00
 
  ## Home - JCore
- - [https://www.jcore.com](https://www.jcore.com)
+ - [https://jcore.com](https://jcore.com)
  - date_published: 2024-07-20T21:46:39.202862+00:00
 
  ## J. C. PHILLIPPS
@@ -1229,11 +1257,11 @@
  - date_published: 2018-11-26T01:45:37+00:00
 
  ## 检察日报社多媒体数字报刊平台
- - [http://newspaper.jcrb.com](http://newspaper.jcrb.com)
+ - [https://newspaper.jcrb.com](https://newspaper.jcrb.com)
  - date_published: 2024-06-29T22:50:01+00:00
 
  ## J.Crew: Clothes, Shoes & Accessories For Women, Men & Kids
- - [https://www.jcrew.com](https://www.jcrew.com)
+ - [https://jcrew.com](https://jcrew.com)
  - date_published: 2024-09-04T17:24:40.570837+00:00
 
  ## Cork Stoppers for Spirits Industry | J. C. Ribeiro | jcribeiro.com
@@ -1241,7 +1269,7 @@
  - date_published: 2024-04-10T00:00:00+00:00
 
  ## Your Total Quality and Safety Resource
- - [https://www.jcrinc.com](https://www.jcrinc.com)
+ - [https://jcrinc.com](https://jcrinc.com)
  - date_published: 2024-10-21T10:26:17.011815+00:00
 
  ## James Whittington
@@ -1330,14 +1358,14 @@
 
  ## 京采汇-京东旗下3C数码垂直类B2B电商平台
  - [https://itb2b.jd.com](https://itb2b.jd.com)
- - date_published: 2024-07-14T22:26:07.353834+00:00
+ - date_published: 2023-12-15T12:30:55+00:00
 
  ## 京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
  - [https://item.jd.com](https://item.jd.com)
  - date_published: 2024-05-12T04:11:36.478054+00:00
 
  ## 京东全球版-专业的综合网上购物商城
- - [http://jd.com](http://jd.com)
+ - [https://jd.com](https://jd.com)
  - date_published: 2024-09-18T17:22:30.117659+00:00
 
  ## 页面出错了～
@@ -1437,7 +1465,7 @@
  - date_published: 2024-07-13T10:40:44.079366+00:00
 
  ## JD3 Creative
- - [http://www.jd3creative.com](http://www.jd3creative.com)
+ - [https://jd3creative.com](https://jd3creative.com)
  - date_published: 2024-07-12T22:21:56.422432+00:00
 
  ## jaykdarvishian
@@ -1445,7 +1473,7 @@
  - date_published: 2024-12-14T09:10:16+00:00
 
  ## J. Dawgs | Hot Dog Restaurant in Utah
- - [http://www.jdawgs.com](http://www.jdawgs.com)
+ - [https://jdawgs.com](https://jdawgs.com)
  - date_published: 2024-10-18T05:53:16.158047+00:00
 
  ## Financial Markets and Electoral Systems
@@ -1453,11 +1481,11 @@
  - date_published: 2023-10-25T15:27:40.087215+00:00
 
  ## JD Bliss: Lawyer Career Change, Attorney Work Life Balance, Billable Hours and Associate Retention
- - [http://www.jdbliss.com](http://www.jdbliss.com)
+ - [https://jdbliss.com](https://jdbliss.com)
  - date_published: 2024-07-13T10:21:22.689463+00:00
 
  ## 请输入验证码
- - [http://www.jdcloud.com](http://www.jdcloud.com)
+ - [https://jdcloud.com](https://jdcloud.com)
  - date_published: 2024-07-14T22:26:05.452162+00:00
 
  ## About me
@@ -1465,7 +1493,7 @@
  - date_published: 2024-04-25T00:00:00+00:00
 
  ## Jim Dedman
- - [http://www.jdedman.com](http://www.jdedman.com)
+ - [https://jdedman.com](https://jdedman.com)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## JDG Sport | Digital sports consultant & journalist
@@ -1478,7 +1506,7 @@
  - date_published: 2024-08-08T22:15:32+00:00
 
  ## Bethel 42 Job's Daughters International of DelMar
- - [https://www.jdibethel42delmar.com](https://www.jdibethel42delmar.com)
+ - [https://jdibethel42delmar.com](https://jdibethel42delmar.com)
  - date_published: 2024-10-19T09:52:27.868975+00:00
 
  ## Joe Di Lillo
@@ -1506,7 +1534,7 @@
  - date_published: 2024-12-23T12:04:54.836325+00:00
 
  ## JDog Productions
- - [http://www.jdogproductions.com](http://www.jdogproductions.com)
+ - [https://jdogproductions.com](https://jdogproductions.com)
  - date_published: 2024-10-21T04:37:04.575332+00:00
 
  ## JDoodle - Online Compiler, Editor for Java, C/C++, etc
@@ -1519,7 +1547,7 @@
  - date_published: 2024-10-30T09:18:47+00:00
 
  ## 京东支付-网银在线
- - [https://www.jdpay.com](https://www.jdpay.com)
+ - [https://jdpay.com](https://jdpay.com)
  - date_published: 2022-10-11T11:51:41+00:00
 
  ## Attention Required! | Cloudflare
@@ -1531,7 +1559,7 @@
  - date_published: 2024-12-15T20:52:47.928521+00:00
 
  ## Welcome - J. Drew Brumbaugh
- - [http://www.jdrewbrumbaugh.com](http://www.jdrewbrumbaugh.com)
+ - [https://jdrewbrumbaugh.com](https://jdrewbrumbaugh.com)
  - date_published: 2024-04-27T00:00:00+00:00
 
  ## Home - JDriven Blog
@@ -1552,16 +1580,16 @@
  - tags: ['personal']
 
  ## JDS Labs Blog – Audio True to Sound
- - [http://blog.jdslabs.com](http://blog.jdslabs.com)
+ - [https://blog.jdslabs.com](https://blog.jdslabs.com)
  - date_published: 2024-08-19T21:49:07.313355+00:00
+
+ ## JD Sports | Sneakers, Clothing & Accessories | Nike, adidas, Jordan
+ - [https://jdsports.com](https://jdsports.com)
+ - date_published: 2024-10-21T02:18:56.790581+00:00
 
  ## JD Sports Global | Shop Online Now
  - [https://www.global.jdsports.com](https://www.global.jdsports.com)
  - date_published: 2024-10-21T02:18:53.865508+00:00
-
- ## JD Sports | Sneakers, Clothing & Accessories | Nike, adidas, Jordan
- - [https://www.jdsports.com](https://www.jdsports.com)
- - date_published: 2024-10-21T02:18:56.790581+00:00
 
  ## Need-to-Know News, Insights, & Intelligence for Business Leaders | JD Supra
  - [https://jdsupra.com](https://jdsupra.com)
@@ -1576,7 +1604,7 @@
  - date_published: 2024-08-19T08:24:37.826443+00:00
 
  ## JD Young Technologies | Business Solutions | Tulsa, OK
- - [https://www.jdyoung.com](https://www.jdyoung.com)
+ - [https://jdyoung.com](https://jdyoung.com)
  - date_published: 2024-07-12T18:59:13.221060+00:00
 
  ## Jean-Baptiste Audras
@@ -1604,11 +1632,11 @@
  - date_published: 2024-12-23T07:48:07.304820+00:00
 
  ## JeanettePurkis.com
- - [http://jeanettepurkis.com](http://jeanettepurkis.com)
+ - [https://jeanettepurkis.com](https://jeanettepurkis.com)
  - date_published: 2024-09-03T23:09:52.708070+00:00
 
  ## Jeaniene Frost – New York Times and USA Today Bestselling Author
- - [http://jeanienefrost.com](http://jeanienefrost.com)
+ - [https://jeanienefrost.com](https://jeanienefrost.com)
  - date_published: 2024-06-22T00:00:00+00:00
 
  ## Jean Lain Mobilités
@@ -1616,15 +1644,15 @@
  - date_published: 2024-07-03T06:33:19+00:00
 
  ## Bienvenue sur Jean-Marc Morandini
- - [https://www.jeanmarcmorandini.com](https://www.jeanmarcmorandini.com)
+ - [http://jeanmarcmorandini.com](http://jeanmarcmorandini.com)
  - date_published: 2024-09-15T20:51:06+00:00
 
  ## Share The Future
- - [https://www.jeanmicheljarre.com](https://www.jeanmicheljarre.com)
+ - [https://jeanmicheljarre.com](https://jeanmicheljarre.com)
  - date_published: 2024-07-19T00:00:00+00:00
 
  ## Jeanne Bataille
- - [http://jeannebataille.com](http://jeannebataille.com)
+ - [https://jeannebataille.com](https://jeannebataille.com)
  - date_published: 2024-07-13T15:32:46.251903+00:00
 
  ## Jeannen  – Cool and dumb stuff, mainly about AI
@@ -1640,7 +1668,7 @@
  - date_published: 2018-07-02T11:06:34+00:00
 
  ## autoslot สล็อตเว็บตรง รับ wallet เครดิตฟรี slot pg แตกง่าย ครบทุกค่าย
- - [https://www.jeannineswestlakevillage.com](https://www.jeannineswestlakevillage.com)
+ - [https://jeannineswestlakevillage.com](https://jeannineswestlakevillage.com)
  - date_published: 2024-01-18T00:00:00+00:00
 
  ## Jean Paul Gaultier - Site officiel Jean Paul Gaultier - Mode
@@ -1648,7 +1676,7 @@
  - date_published: 2024-03-08T00:00:00+00:00
 
  ## www.jeantaquet.com
- - [https://www.jeantaquet.com](https://www.jeantaquet.com)
+ - [https://jeantaquet.com](https://jeantaquet.com)
  - date_published: 2024-05-06T16:15:23.060684+00:00
 
  ## Home | Jean Tinland
@@ -1660,7 +1688,7 @@
  - date_published: 2024-07-14T00:00:00+00:00
 
  ## Jean Yang
- - [http://jeanyang.com](http://jeanyang.com)
+ - [https://jeanyang.com](https://jeanyang.com)
  - date_published: 2024-07-18T04:40:05.594048+00:00
 
  ## Jeaye's Blog
@@ -1669,7 +1697,7 @@
 
  ## Jeaye (Co-founder, CTO at OkLetsPlay)
  - [https://jeaye.com](https://jeaye.com)
- - date_published: 2024-07-23T23:33:28.013748+00:00
+ - date_published: 2021-06-22T03:23:56+00:00
 
  ## Jebbit Mobile Demo
  - [https://js.jebbit.com](https://js.jebbit.com)
@@ -1700,7 +1728,7 @@
  - date_published: 2024-05-11T10:10:44.389564+00:00
 
  ## Jed Gaylin – “Generous” is the word listeners and performers use time and again to describe conductor Jed Gaylin’s approach to the orchestra, the score, and the audience. His unselfconscious spirit and joyful abandon paired with a probing intellect result in cohesive, powerful programs, compelling interpretations, and evenings that are fresh and exuberant. George Szell said, “In music one must think with the heart and feel with the mind,” a maxim Jed Gaylin embodies abundantly and passionately.
- - [http://jedgaylin.com](http://jedgaylin.com)
+ - [https://jedgaylin.com](https://jedgaylin.com)
  - date_published: 2024-07-16T21:36:48.165852+00:00
 
  ## Jediah Porter
@@ -1731,11 +1759,11 @@
  - date_published: 2024-06-17T06:41:35.535951+00:00
 
  ## placeholder
- - [http://www.jedrea.com](http://www.jedrea.com)
+ - [https://www.jedrea.com](https://www.jedrea.com)
  - date_published: 2012-04-11T03:06:33+00:00
 
  ## JED Software
- - [http://jedsoftware.com](http://jedsoftware.com)
+ - [https://jedsoftware.com](https://jedsoftware.com)
  - date_published: 2024-04-09T00:00:00+00:00
 
  ## Andi - Search for the next generation
@@ -1766,9 +1794,17 @@
  - [https://es.jeep.com](https://es.jeep.com)
  - date_published: 2024-06-19T08:41:14.587213+00:00
 
+ ## Jeep apparel and merchandise from the official store - Jeep Gear
+ - [https://gear.jeep.com](https://gear.jeep.com)
+ - date_published: 2024-06-19T08:57:23.120536+00:00
+
  ## Jeep® SUVs & Crossovers - Official Jeep Site
  - [https://jeep.com](https://jeep.com)
  - date_published: 2024-10-28T21:36:51.743364+00:00
+
+ ## Jeep® SUVs & Crossovers - Official Jeep Site
+ - [https://mideast.jeep.com](https://mideast.jeep.com)
+ - date_published: 1940-11-11T00:00:00+00:00
 
  ## Jeep Wave - Maintenance program | Jeep UK
  - [https://ownersgroup.jeep.com](https://ownersgroup.jeep.com)
@@ -1782,14 +1818,6 @@
  - [https://store.jeep.com](https://store.jeep.com)
  - date_published: 2024-06-19T08:40:42.423417+00:00
 
- ## Jeep apparel and merchandise from the official store - Jeep Gear
- - [https://www.gear.jeep.com](https://www.gear.jeep.com)
- - date_published: 2024-06-19T08:57:23.120536+00:00
-
- ## Jeep® SUVs & Crossovers - Official Jeep Site
- - [https://www.mideast.jeep.com](https://www.mideast.jeep.com)
- - date_published: 1940-11-11T00:00:00+00:00
-
  ## Jeep SUV & 4x4 Models | Jeep® UAE ِAbu Dhabi Western Motors
  - [https://www.jeep-abudhabi.com](https://www.jeep-abudhabi.com)
  - date_published: 2024-10-28T19:34:27.780071+00:00
@@ -1799,7 +1827,7 @@
  - date_published: 2024-06-19T08:41:49.844269+00:00
 
  ## The Official Website of Jeep® Caribbean
- - [https://www.jeep-caribbean.com](https://www.jeep-caribbean.com)
+ - [https://jeep-caribbean.com](https://jeep-caribbean.com)
  - date_published: 2024-06-19T08:41:32.120010+00:00
 
  ## Jeep Club Egypt
@@ -1807,7 +1835,7 @@
  - date_published: 2024-10-28T15:55:26.097393+00:00
 
  ## home - Jeep Cyprus
- - [http://www.jeep-cyprus.com](http://www.jeep-cyprus.com)
+ - [https://jeep-cyprus.com](https://jeep-cyprus.com)
  - date_published: 2015-07-12T14:50:38+00:00
 
  ## Jeep SUV & 4x4 Models | Jeep® UAE Trading Enterprises
@@ -1815,15 +1843,15 @@
  - date_published: 2024-10-28T19:33:59.436851+00:00
 
  ## SUV y crossovers Jeep® - Sitio oficial de Jeep
- - [https://www.jeepelsalvador.com](https://www.jeepelsalvador.com)
+ - [https://jeepelsalvador.com](https://jeepelsalvador.com)
  - date_published: 1940-11-11T00:00:00+00:00
 
  ## SUV y crossovers Jeep® - Sitio oficial de Jeep
- - [https://www.jeepguatemala.com](https://www.jeepguatemala.com)
+ - [https://jeepguatemala.com](https://jeepguatemala.com)
  - date_published: 1940-11-11T00:00:00+00:00
 
  ## SUV y crossovers Jeep® - Sitio oficial de Jeep
- - [https://www.jeephonduras.com](https://www.jeephonduras.com)
+ - [https://jeephonduras.com](https://jeephonduras.com)
  - date_published: 1940-11-11T00:00:00+00:00
 
  ## Jeep® Indonesia SUV & Crossover Cars | Sports Utility Vehicle | Official Jeep®  Site
@@ -1831,7 +1859,7 @@
  - date_published: 2024-06-19T08:40:28.325875+00:00
 
  ## Jeep® India 4x4 SUVs & Crossover Cars - Explore Jeep Price, Interiors, Exteriors - Jeep India
- - [https://www.jeep-india.com](https://www.jeep-india.com)
+ - [https://jeep-india.com](https://jeep-india.com)
  - date_published: 2024-06-19T08:40:44.842621+00:00
 
  ## Jeep SUV & 4x4 Models | Jeep® in Iraq
@@ -1839,7 +1867,7 @@
  - date_published: 2024-06-19T08:40:31.913485+00:00
 
  ## Jeep Japan 公式サイト
- - [https://www.jeep-japan.com](https://www.jeep-japan.com)
+ - [https://jeep-japan.com](https://jeep-japan.com)
  - date_published: 2024-06-19T08:40:48.089333+00:00
 
  ## Jeep SUV & 4x4 Models | Jeep® Jordan Advanced Automotive Trading
@@ -1855,11 +1883,11 @@
  - date_published: 2024-06-19T08:41:39.505695+00:00
 
  ## home - Jeep Malta
- - [https://www.jeep-malta.com](https://www.jeep-malta.com)
+ - [https://jeep-malta.com](https://jeep-malta.com)
  - date_published: 2015-07-12T14:50:38+00:00
 
  ## Jeep® SUVs & Crossovers - Official Jeep Site
- - [https://www.jeep-martinique.com](https://www.jeep-martinique.com)
+ - [https://jeep-martinique.com](https://jeep-martinique.com)
  - date_published: 1940-11-11T00:00:00+00:00
 
  ## Jeep SUV & 4x4 Models | Jeep® Oman
@@ -1875,7 +1903,7 @@
  - date_published: 2024-06-19T08:40:12.759182+00:00
 
  ## SUV y Crossovers de Jeep® | Sitio Oficial de Jeep Puerto Rico
- - [https://www.jeeppr.com](https://www.jeeppr.com)
+ - [https://jeeppr.com](https://jeeppr.com)
  - date_published: 2024-06-19T08:42:12.686659+00:00
 
  ## Jeep SUV & 4x4 Models | Jeep® Qatar United Cars Almana
@@ -1887,7 +1915,7 @@
  - date_published: 2024-06-19T08:41:24.113927+00:00
 
  ## Jeep®  Vietnam SUV & Crossover Cars | Sports Utility Vehicle | Official Jeep®  Site
- - [https://www.jeep-vn.com](https://www.jeep-vn.com)
+ - [https://jeep-vn.com](https://jeep-vn.com)
  - date_published: 2024-06-19T08:42:16.574280+00:00
 
  ## Jeep® West Africa - Site Officiel
@@ -1912,7 +1940,7 @@
  - tags: ['personal']
 
  ## Jeff Bradberry
- - [http://jeffbradberry.com](http://jeffbradberry.com)
+ - [https://jeffbradberry.com](https://jeffbradberry.com)
  - date_published: 2023-08-26T23:45:38+00:00
 
  ## Jeff Bridgforth :: Front-end Developer in Chattanooga, Tennessee
@@ -1920,11 +1948,11 @@
  - date_published: 2024-01-18T00:00:00+00:00
 
  ## Jeff Brooks Fundraising
- - [https://www.jeff-brooks.com](https://www.jeff-brooks.com)
+ - [https://jeff-brooks.com](https://jeff-brooks.com)
  - date_published: 2024-07-04T12:51:20.486263+00:00
 
  ## Jeff Bullas | Win At Business And Life In An AI World
- - [https://www.jeffbullas.com](https://www.jeffbullas.com)
+ - [https://jeffbullas.com](https://jeffbullas.com)
  - date_published: 2024-05-20T00:00:00+00:00
 
  ## Jeff Clune - Professor - Computer Science - University of British Columbia
@@ -1936,7 +1964,7 @@
  - date_published: 2024-11-20T09:58:02+00:00
 
  ## Untitled
- - [http://www.jeffcoop.com](http://www.jeffcoop.com)
+ - [https://jeffcoop.com](https://jeffcoop.com)
  - date_published: 2006-03-08T04:02:42+00:00
 
  ## MySecureVault.ca - The world's safest password manager
@@ -1976,6 +2004,7 @@
  ## Web Access
  - [http://www.jeffhammerbacher.com](http://www.jeffhammerbacher.com)
  - date_published: 2022-06-22T13:43:56+00:00
+ - date_dead_since: 2025-01-05T05:13:19.557345+00:00
 
  ## Jeff Handley
  - [https://jeffhandley.com](https://jeffhandley.com)
@@ -2000,7 +2029,7 @@
  - date_published: 2024-12-17T23:37:42+00:00
 
  ## Dr. Jian Zhao @ WatVis
- - [https://www.jeffjianzhao.com](https://www.jeffjianzhao.com)
+ - [https://jeffjianzhao.com](https://jeffjianzhao.com)
  - date_published: 2024-07-12T02:33:19+00:00
 
  ## Jeff John, Publisher
@@ -2041,6 +2070,7 @@
  ## (no title)
  - [https://jeffmitchelldev.com](https://jeffmitchelldev.com)
  - date_published: 2024-05-07T15:16:32.069090+00:00
+ - date_dead_since: 2025-01-05T05:14:49.306719+00:00
 
  ## Jeff Morhous –
  - [https://jeffmorhous.com](https://jeffmorhous.com)
@@ -2070,7 +2100,7 @@
  - date_published: 2024-05-07T22:22:55.006521+00:00
 
  ## Thought Nursery › Big ideas start small.
- - [http://blog.jeffreyfredrick.com](http://blog.jeffreyfredrick.com)
+ - [https://blog.jeffreyfredrick.com](https://blog.jeffreyfredrick.com)
  - date_published: 2024-07-07T01:55:20.050374+00:00
 
  ## Fritz on the Web | My little corner of the web, full of my point of view
@@ -2091,11 +2121,11 @@
  - tags: ['personal']
 
  ## WORK - JEFFSCHEVEN
- - [http://jeffscheven.com](http://jeffscheven.com)
+ - [https://jeffscheven.com](https://jeffscheven.com)
  - date_published: 2024-09-03T21:57:27.819253+00:00
 
  ## Jeff Simmermon
- - [http://jeffsimmermon.com](http://jeffsimmermon.com)
+ - [https://jeffsimmermon.com](https://jeffsimmermon.com)
  - date_published: 2024-07-20T11:37:01.134780+00:00
 
  ## Jeff Stahler
@@ -2103,11 +2133,11 @@
  - date_published: 2024-07-20T18:25:13.729231+00:00
 
  ## Jeff Street
- - [http://www.jeffstreet.com](http://www.jeffstreet.com)
+ - [https://jeffstreet.com](https://jeffstreet.com)
  - date_published: 2024-06-20T02:24:04.479221+00:00
 
  ## Jeffsum | Text Generator
- - [http://jeffsum.com](http://jeffsum.com)
+ - [https://jeffsum.com](https://jeffsum.com)
  - date_published: 2024-09-14T23:25:50.018807+00:00
 
  ## Writing, Editing, and Historical Research | Jeff Sypeck | Maryland
@@ -2158,7 +2188,7 @@
  - date_published: 2024-06-17T21:12:55.595340+00:00
 
  ## Home
- - [https://www.jegdesign.com](https://www.jegdesign.com)
+ - [https://jegdesign.com](https://jegdesign.com)
  - date_published: 2024-10-19T02:18:29.964413+00:00
 
  ## Егор Нагель
@@ -2174,7 +2204,7 @@
  - date_published: 2024-06-28T11:23:06.214998+00:00
 
  ## Cierpliwości...
- - [https://www.jehsmith.com](https://www.jehsmith.com)
+ - [http://www.jehsmith.com](http://www.jehsmith.com)
  - date_published: 2024-04-30T06:33:50.304838+00:00
 
  ## Jeiryung Lee
@@ -2211,7 +2241,7 @@
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## Virtuozzo | Application Platform for DevOps
- - [http://jelastic.com](http://jelastic.com)
+ - [https://jelastic.com](https://jelastic.com)
  - date_published: 2024-09-04T00:00:00+00:00
 
  ## South Florida Real Estate Development - JEL Development
@@ -2219,7 +2249,7 @@
  - date_published: 2024-05-06T17:01:54.474632+00:00
 
  ## Home | Jell.com
- - [http://jell.com](http://jell.com)
+ - [https://jell.com](https://jell.com)
  - date_published: 2024-08-18T10:37:16.162717+00:00
 
  ## Brand Insights & Strategy Firm :: Jell Brand Strategy :: Chicago
@@ -2243,7 +2273,7 @@
  - date_published: 2024-06-27T03:35:50.737195+00:00
 
  ## We Give Brands a Platform to Perform - Jellyfish
- - [https://www.jellyfish.com](https://www.jellyfish.com)
+ - [https://jellyfish.com](https://jellyfish.com)
  - date_published: 2024-06-28T18:28:28.364154+00:00
 
  ## Subscription Marketing & Management Experts | Jellyfish Connect
@@ -2251,19 +2281,19 @@
  - date_published: 2024-05-06T23:31:22.827972+00:00
 
  ## Beachfront Restaurant | Jellyfish Restaurant | Punta Cana
- - [https://www.jellyfishrestaurant.com](https://www.jellyfishrestaurant.com)
+ - [https://jellyfishrestaurant.com](https://jellyfishrestaurant.com)
  - date_published: 1970-01-01T00:00:00+00:00
 
  ## Jelly Key | Artisan keycaps & Mechanical keyboards
- - [https://www.jellykey.com](https://www.jellykey.com)
+ - [https://jellykey.com](https://jellykey.com)
  - date_published: 2024-06-16T14:06:59+00:00
 
  ## Jellylade
- - [https://app.jellylade.com](https://app.jellylade.com)
+ - [http://app.jellylade.com](http://app.jellylade.com)
  - date_published: 2023-10-25T15:27:58.907008+00:00
 
  ## Jelly Roll Official
- - [http://www.jellyroll615.com](http://www.jellyroll615.com)
+ - [https://jellyroll615.com](https://jellyroll615.com)
  - date_published: 2024-06-21T00:02:11.754958+00:00
 
  ## JellyStyle
@@ -2271,7 +2301,7 @@
  - date_published: 2024-07-03T18:02:43.100330+00:00
 
  ## Jemimah Knight Studio
- - [https://www.jemimahknightstudio.com](https://www.jemimahknightstudio.com)
+ - [https://jemimahknightstudio.com](https://jemimahknightstudio.com)
  - date_published: 2024-06-21T11:28:55.705884+00:00
 
  ## JEMS Events & Training
@@ -2283,11 +2313,11 @@
  - date_published: 2024-04-16T00:00:00+00:00
 
  ## Jewish Educational Media (JEM) - Videos and more from JemStore.com
- - [http://jemstore.com](http://jemstore.com)
+ - [https://jemstore.com](https://jemstore.com)
  - date_published: 2024-09-02T11:25:17.284471+00:00
 
  ## Attention Required! | Cloudflare
- - [https://jemstraining.com](https://jemstraining.com)
+ - [http://jemstraining.com](http://jemstraining.com)
  - date_published: 2024-05-12T07:27:23.562507+00:00
 
  ## SEO Agency | Digital Marketing & Google Ads Experts
@@ -2299,7 +2329,7 @@
  - date_published: 2022-03-11T08:32:53+00:00
 
  ## Jennifer Ball   Homes for sale  Listing Agent  Real estate
- - [http://jenball.com](http://jenball.com)
+ - [https://jenball.com](https://jenball.com)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## Jen Cunnings
@@ -2312,7 +2342,7 @@
  - tags: ['personal']
 
  ## Jendrik Illner - 3D Programmer
- - [https://www.jendrikillner.com](https://www.jendrikillner.com)
+ - [https://jendrikillner.com](https://jendrikillner.com)
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## Literature Clock
@@ -2320,7 +2350,7 @@
  - date_published: 2023-10-25T15:27:59.485399+00:00
 
  ## Jen Goertzen
- - [https://www.jengoertzen.com](https://www.jengoertzen.com)
+ - [https://jengoertzen.com](https://jengoertzen.com)
  - date_published: 2024-07-09T19:04:15.817660+00:00
 
  ## Home - Jen Hewett
@@ -2328,7 +2358,7 @@
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## jen husz photography
- - [https://www.jenhuszphotography.com](https://www.jenhuszphotography.com)
+ - [https://jenhuszphotography.com](https://jenhuszphotography.com)
  - date_published: 2024-05-04T06:57:23.753205+00:00
 
  ## Jeni's Ice Creams
@@ -2336,7 +2366,7 @@
  - date_published: 2024-12-12T03:50:11.850056+00:00
 
  ## JENISE MILLER
- - [http://www.jenisemiller.com](http://www.jenisemiller.com)
+ - [http://jenisemiller.com](http://jenisemiller.com)
  - date_published: 2024-07-09T15:16:05.278750+00:00
 
  ## Jenius Bank - Online Banking
@@ -2348,7 +2378,7 @@
  - date_published: 2024-05-09T07:37:57.726110+00:00
 
  ## Jenkov.com Tech & Media Labs - Resources for Developers, IT Architects and Technopreneurs
- - [http://jenkov.com](http://jenkov.com)
+ - [https://jenkov.com](https://jenkov.com)
  - date_published: 2024-06-22T21:07:31.103490+00:00
 
  ## Jenkov.com Tech & Media Labs - Resources for Developers, IT Architects and Technopreneurs
@@ -2364,7 +2394,7 @@
  - date_published: 2024-01-18T16:42:20.541388+00:00
 
  ## Jennifer Lawrence Network
- - [http://jen-lawrence.com](http://jen-lawrence.com)
+ - [https://jen-lawrence.com](https://jen-lawrence.com)
  - date_published: 2024-08-31T00:00:00+00:00
 
  ## Home Page
@@ -2372,7 +2402,7 @@
  - date_published: 2024-10-15T20:23:16.844220+00:00
 
  ## African Safaris • Travel Packages • Tour Operator
- - [https://www.jenmansafaris.com](https://www.jenmansafaris.com)
+ - [https://jenmansafaris.com](https://jenmansafaris.com)
  - date_published: 2024-06-05T00:00:00+00:00
 
  ## Jenna Britton
@@ -2392,7 +2422,7 @@
  - date_published: 2024-05-11T10:21:03.596063+00:00
 
  ## Dr Jenner's House
- - [http://www.jennermuseum.com](http://www.jennermuseum.com)
+ - [https://jennermuseum.com](https://jennermuseum.com)
  - date_published: 2024-06-24T09:45:17.368937+00:00
 
  ## Jennifer Billock Creative Services
@@ -2400,7 +2430,7 @@
  - date_published: 2024-05-08T05:00:46.084371+00:00
 
  ## Jennifer Bland
- - [https://www.jenniferbland.com](https://www.jenniferbland.com)
+ - [https://jenniferbland.com](https://jenniferbland.com)
  - date_published: 2024-09-04T14:58:57.684021+00:00
 
  ## Jennifer Cluff
@@ -2413,7 +2443,7 @@
  - date_published: 2024-12-28T06:05:36.074548+00:00
 
  ## Comedian | Jen Fulwiler
- - [http://jenniferfulwiler.com](http://jenniferfulwiler.com)
+ - [https://jenniferfulwiler.com](https://jenniferfulwiler.com)
  - date_published: 2024-07-04T14:59:35.456854+00:00
 
  ## The Jennifer Hudson Show | JenniferHudsonShow.com
@@ -2421,15 +2451,15 @@
  - date_published: 2024-06-29T00:00:00+00:00
 
  ## Bot Verification
- - [http://jennifer-lawrence.com](http://jennifer-lawrence.com)
+ - [https://jennifer-lawrence.com](https://jennifer-lawrence.com)
  - date_published: 2024-07-02T13:45:06.682123+00:00
 
  ## Jennifer L. Knox
- - [https://www.jenniferlknox.com](https://www.jenniferlknox.com)
+ - [https://jenniferlknox.com](https://jenniferlknox.com)
  - date_published: 2024-08-11T05:36:59.353396+00:00
 
  ## Jennifer Loiselle jewellery to make you smile handmade in London
- - [https://www.jenniferloiselle.com](https://www.jenniferloiselle.com)
+ - [https://jenniferloiselle.com](https://jenniferloiselle.com)
  - date_published: 2024-06-29T10:18:51.156713+00:00
 
  ## Jennifer Marohasy - Scientist, Author and Speaker
@@ -2438,11 +2468,11 @@
  - tags: ['personal']
 
  ## Jennifer McCrea
- - [https://www.jennifermccrea.com](https://www.jennifermccrea.com)
+ - [https://jennifermccrea.com](https://jennifermccrea.com)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## Jennifer Nycz
- - [http://www.jennifernycz.com](http://www.jennifernycz.com)
+ - [https://www.jennifernycz.com](https://www.jennifernycz.com)
  - date_published: 2024-07-02T09:45:52.301208+00:00
 
  ## Jennifer Pepper—Marketing & Brand Leader
@@ -2454,7 +2484,7 @@
  - date_published: 2024-09-04T04:54:28.068694+00:00
 
  ## Jennifer Rosenfeld
- - [https://www.jenniferrosenfeld.com](https://www.jenniferrosenfeld.com)
+ - [https://jenniferrosenfeld.com](https://jenniferrosenfeld.com)
  - date_published: 2024-09-06T21:37:23.567236+00:00
 
  ## https://www.jenniferrossehamm.com
@@ -2464,7 +2494,7 @@
 
  ## Jenniverse, home of the works of Jennifer Diane Reitz, creatrix
    of Unicorn Jelly, Otakuworld, and the games of Accursed Toys
- - [http://jenniverse.com](http://jenniverse.com)
+ - [https://jenniverse.com](https://jenniverse.com)
  - date_published: 2024-06-30T01:08:13+00:00
 
  ## Jenn Lim
@@ -2476,7 +2506,7 @@
  - date_published: 2024-06-11T16:30:27+00:00
 
  ## JennyAbreu
- - [https://www.jennyabreu.com](https://www.jennyabreu.com)
+ - [https://jennyabreu.com](https://jennyabreu.com)
  - date_published: 2024-07-08T14:59:07.285269+00:00
 
  ## Jenny Brennan
@@ -2484,11 +2514,11 @@
  - date_published: 2024-04-24T21:51:42+00:00
 
  ## Jenny Bristol
- - [http://jennybristol.com](http://jennybristol.com)
+ - [https://jennybristol.com](https://jennybristol.com)
  - date_published: 2024-09-03T22:50:59.155732+00:00
 
  ## Jennifer Crusie | NYT Bestselling Author
- - [http://jennycrusie.com](http://jennycrusie.com)
+ - [https://jennycrusie.com](https://jennycrusie.com)
  - date_published: 2024-07-04T14:16:43.862075+00:00
 
  ## Welcome — Jenny Holzer
@@ -2496,15 +2526,15 @@
  - date_published: 2024-07-13T00:34:53+00:00
 
  ## Anti-Vaccine Body Count - Home
- - [http://www.jennymccarthybodycount.com](http://www.jennymccarthybodycount.com)
+ - [https://jennymccarthybodycount.com](https://jennymccarthybodycount.com)
  - date_published: 2007-06-03T00:00:00+00:00
 
  ## • jenny odell •
- - [http://jennyodell.com](http://jennyodell.com)
+ - [https://jennyodell.com](https://jennyodell.com)
  - date_published: 2022-12-26T06:06:48+00:00
 
  ## Jenny Singer
- - [https://www.jennysinger.com](https://www.jennysinger.com)
+ - [https://jennysinger.com](https://jennysinger.com)
  - date_published: 2024-09-19T19:43:07.018779+00:00
 
  ## Jenny the Baker
@@ -2512,12 +2542,12 @@
  - date_published: 2024-05-08T06:02:44.416459+00:00
 
  ## JENNY WREN AND HER BORROWED WINGS
- - [http://jennywrenandherborrowedwings.com](http://jennywrenandherborrowedwings.com)
- - date_published: 2024-12-27T07:31:03.110384+00:00
+ - [https://jennywrenandherborrowedwings.com](https://jennywrenandherborrowedwings.com)
+ - date_published: 2024-06-17T06:42:10.127032+00:00
 
  ## JENNY WREN AND HER BORROWED WINGS
- - [http://www.jennywrenandherborrowedwings.com](http://www.jennywrenandherborrowedwings.com)
- - date_published: 2024-06-17T06:42:10.127032+00:00
+ - [http://jennywrenandherborrowedwings.com](http://jennywrenandherborrowedwings.com)
+ - date_published: 2024-12-27T07:31:03.110384+00:00
 
  ## Jenny Zhang Zhuoting
  - [https://jennyzhangzt.com](https://jennyzhangzt.com)
@@ -2536,7 +2566,7 @@
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Jen Reviews: The Authority on Everything Fitness, Health and Home - Jen Reviews
- - [https://www.jenreviews.com](https://www.jenreviews.com)
+ - [https://jenreviews.com](https://jenreviews.com)
  - date_published: 2020-02-10T03:41:31+00:00
 
  ## Home
@@ -2544,7 +2574,7 @@
  - date_published: 2024-06-23T03:52:03.475576+00:00
 
  ## Web Design Experiments by Jen Simmons
- - [http://labs.jensimmons.com](http://labs.jensimmons.com)
+ - [https://labs.jensimmons.com](https://labs.jensimmons.com)
  - date_published: 2021-11-12T20:30:12+00:00
 
  ## Jen Simmons
@@ -2552,11 +2582,11 @@
  - date_published: 2024-04-29T07:43:09.739798+00:00
 
  ## Jens Keiner
- - [http://jenskeiner.com](http://jenskeiner.com)
+ - [https://jenskeiner.com](https://jenskeiner.com)
  - date_published: 2024-06-22T14:46:20.907924+00:00
 
  ## Jens Nikolaus - Designer and Facilitator
- - [http://jensnikolaus.com](http://jensnikolaus.com)
+ - [https://jensnikolaus.com](https://jensnikolaus.com)
  - date_published: 2023-07-03T19:40:28+00:00
 
  ## Jen Sorensen
@@ -2568,7 +2598,7 @@
  - date_published: 2024-07-18T00:00:00+00:00
 
  ## Jen Valentine
- - [http://jenvalentine.com](http://jenvalentine.com)
+ - [https://jenvalentine.com](https://jenvalentine.com)
  - date_published: 2020-12-08T22:50:42+00:00
 
  ## Jen Walker Team | Alexandria Real Estate Agent
@@ -2584,7 +2614,7 @@
  - date_published: 2024-05-06T23:05:01.383744+00:00
 
  ## JeopardyLabs - Online Jeopardy Template
- - [http://jeopardylabs.com](http://jeopardylabs.com)
+ - [https://jeopardylabs.com](https://jeopardylabs.com)
  - date_published: 2024-10-27T11:54:03.507854+00:00
 
  ## Jeparainternational – Aplikasi Game Penghasil Saldo DANA Terbaru 2024
@@ -2600,7 +2630,7 @@
  - date_published: 2024-07-21T09:55:19.484293+00:00
 
  ## Homepage
- - [http://shop.jeppesen.com](http://shop.jeppesen.com)
+ - [https://shop.jeppesen.com](https://shop.jeppesen.com)
  - date_published: 2024-07-21T09:55:12.815472+00:00
 
  ## Homepage - Jeppesen
@@ -2650,7 +2680,7 @@
  - date_published: 2024-07-12T16:36:13.382748+00:00
 
  ## Jeremiah Films – Christian Documentaries
- - [http://www.jeremiahfilms.com](http://www.jeremiahfilms.com)
+ - [https://jeremiahfilms.com](https://jeremiahfilms.com)
  - date_published: 2024-07-03T07:45:20+00:00
 
  ## Jeremiah Grossman
@@ -2662,7 +2692,7 @@
  - date_published: 2024-01-09T11:06:14.555745+00:00
 
  ## Jeremiah Shoaf
- - [http://jeremiahshoaf.com](http://jeremiahshoaf.com)
+ - [https://jeremiahshoaf.com](https://jeremiahshoaf.com)
  - date_published: 2024-01-13T19:39:25+00:00
 
  ## Facebook
@@ -2676,6 +2706,7 @@
  ## Loading...
  - [http://www.jeremiasbabini.com](http://www.jeremiasbabini.com)
  - date_published: 2024-06-20T21:42:53.960715+00:00
+ - date_dead_since: 2025-01-05T05:42:59.600733+00:00
 
  ## WHY EDIFY
  - [https://jeremyajorgensen.com](https://jeremyajorgensen.com)
@@ -2696,7 +2727,7 @@
  - date_published: 2024-05-06T13:10:24.154265+00:00
 
  ## Product Guy, Serverless Advocate & Startup Veteran - Jeremy Daly
- - [https://www.jeremydaly.com](https://www.jeremydaly.com)
+ - [https://jeremydaly.com](https://jeremydaly.com)
  - date_published: 2024-01-10T00:00:00+00:00
 
  ## JEREMY DEPRISCO - JEREMY DEPRISCO
@@ -2719,7 +2750,7 @@
  - tags: ['personal']
 
  ## JeremyJahns.com
- - [http://jeremyjahns.com](http://jeremyjahns.com)
+ - [https://jeremyjahns.com](https://jeremyjahns.com)
  - date_published: 2024-03-02T09:28:58+00:00
  - tags: ['movies']
 
@@ -2766,7 +2797,7 @@
  - date_published: 2023-10-25T15:28:08.983378+00:00
 
  ## MENU
- - [https://www.jeremypober.com](https://www.jeremypober.com)
+ - [https://jeremypober.com](https://jeremypober.com)
  - date_published: 2024-07-08T14:27:22.029790+00:00
 
  ## On Life & Scripture | Jeremy Sarber | Substack
@@ -2782,7 +2813,7 @@
  - date_published: 2024-06-15T13:26:36.417266+00:00
 
  ## Jeremy's Razors
- - [https://support.jeremysrazors.com](https://support.jeremysrazors.com)
+ - [http://support.jeremysrazors.com](http://support.jeremysrazors.com)
  - date_published: 2024-05-23T00:00:00+00:00
 
  ## 网络加速—彗星加速器
@@ -2790,7 +2821,7 @@
  - date_published: 2024-04-07T00:00:00+00:00
 
  ## Jérémy Vitté
- - [http://www.jeremyvitte.com](http://www.jeremyvitte.com)
+ - [https://jeremyvitte.com](https://jeremyvitte.com)
  - date_published: 2022-12-03T00:00:00+00:00
 
  ## Jeremy W. Richter - Jeremy W. Richter
@@ -2810,11 +2841,11 @@
  - date_published: 2024-07-03T05:49:50+00:00
 
  ## Natural Glow, Body Butters, Moisturizers & More | Jergens
- - [http://www.jergens.com](http://www.jergens.com)
+ - [https://jergens.com](https://jergens.com)
  - date_published: 2024-10-15T07:38:00.010495+00:00
 
  ## HR Consulting Services - JER HR Group
- - [https://www.jerhrgroup.com](https://www.jerhrgroup.com)
+ - [https://jerhrgroup.com](https://jerhrgroup.com)
  - date_published: 2024-09-27T00:00:00+00:00
 
  ## Jericho Writers - With you for every word – Jericho Writers
@@ -2834,7 +2865,7 @@
  - date_published: 2023-10-12T00:50:20+00:00
 
  ## Jerk Music Critic
- - [http://www.jerkmusiccritic.com](http://www.jerkmusiccritic.com)
+ - [https://jerkmusiccritic.com](https://jerkmusiccritic.com)
  - date_published: 2024-02-08T19:05:43+00:00
 
  ## Facebook
@@ -2875,7 +2906,7 @@
  - date_published: 2023-10-25T15:28:10.434639+00:00
 
  ## Jeroen Doorenweerd
- - [http://jeroendoorenweerd.com](http://jeroendoorenweerd.com)
+ - [https://jeroendoorenweerd.com](https://jeroendoorenweerd.com)
  - date_published: 2024-07-13T15:41:44.143648+00:00
 
  ## Jeroen Janssens
@@ -2894,9 +2925,10 @@
  ## jeromebonnet.com
  - [http://www.jeromebonnet.com](http://www.jeromebonnet.com)
  - date_published: 2024-07-10T07:42:51.372778+00:00
+ - date_dead_since: 2025-01-05T05:49:09.943489+00:00
 
  ## Jerome Leary
- - [http://www.jeromeleary.com](http://www.jeromeleary.com)
+ - [https://jeromeleary.com](https://jeromeleary.com)
  - date_published: 2022-10-14T11:43:46+00:00
 
  ## Jerome Leroy | Composer
@@ -2914,11 +2946,11 @@
  - tags: ['personal']
 
  ## Jerr Dan
- - [https://www.jerrdan.com](https://www.jerrdan.com)
+ - [https://jerrdan.com](https://jerrdan.com)
  - date_published: 2024-07-16T23:18:57.853405+00:00
 
  ## Jerrie Pelser
- - [http://www.jerriepelser.com](http://www.jerriepelser.com)
+ - [https://jerriepelser.com](https://jerriepelser.com)
  - date_published: 2024-06-28T16:02:54.287086+00:00
 
  ## Sales Leadership Training Programs, Best-selling Author & Speaker - Jerry Acuff
@@ -2926,7 +2958,7 @@
  - date_published: 2022-05-05T00:00:00+00:00
 
  ## Superstar Selling Academy
- - [http://jerryacuffvt.com](http://jerryacuffvt.com)
+ - [https://jerryacuffvt.com](https://jerryacuffvt.com)
  - date_published: 2020-08-12T06:37:44+00:00
 
  ## Jerry Ahern - Author and Columnist - Blog
@@ -2969,9 +3001,10 @@
  ## Jerry Pournelle's Chaos Manor
  - [https://jerrypournelle.com](https://jerrypournelle.com)
  - date_published: 2024-05-07T09:33:27.545833+00:00
+ - date_dead_since: 2025-01-05T05:49:44.981154+00:00
 
  ## Electrician| Panama City, Florida - Jerry Pybus Electric
- - [http://www.jerrypybuselectric.com](http://www.jerrypybuselectric.com)
+ - [https://jerrypybuselectric.com](https://jerrypybuselectric.com)
  - date_published: 2024-06-29T23:16:03.162656+00:00
 
  ## Jerry's Brain
@@ -2992,7 +3025,7 @@
  - date_published: 2024-12-16T01:16:36+00:00
 
  ## Jersey 4D
- - [http://www.jersey4d.com](http://www.jersey4d.com)
+ - [https://jersey4d.com](https://jersey4d.com)
  - date_published: 2024-06-17T20:15:07.588737+00:00
 
  ## Discover Jersey Arts
@@ -3000,7 +3033,7 @@
  - date_published: 2024-06-15T03:55:45.696439+00:00
 
  ## Jersey City Archery – Passion, Love, Archery
- - [https://www.jerseycityarchery.com](https://www.jerseycityarchery.com)
+ - [https://jerseycityarchery.com](https://jerseycityarchery.com)
  - date_published: 2024-06-27T09:47:17.188771+00:00
 
  ## The Jersey Doesn't Shrink, a Celtic Football Club community
@@ -3024,7 +3057,7 @@
  - date_published: 2024-06-20T13:42:18.705527+00:00
 
  ## HOME
- - [http://motors.jerseyeveningpost.com](http://motors.jerseyeveningpost.com)
+ - [https://motors.jerseyeveningpost.com](https://motors.jerseyeveningpost.com)
  - date_published: 2024-06-20T13:42:07.547162+00:00
 
  ## Picture Store
@@ -3032,15 +3065,15 @@
  - date_published: 2024-06-29T23:44:12.647381+00:00
 
  ## JEP Property | Buy or Rent in Jersey
- - [http://property.jerseyeveningpost.com](http://property.jerseyeveningpost.com)
+ - [https://property.jerseyeveningpost.com](https://property.jerseyeveningpost.com)
  - date_published: 2024-06-20T13:41:46.305874+00:00
 
  ## Jersey Mike's USA - Authentic Sub Sandwich Franchise Since 1956
- - [https://www.jerseymikes.com](https://www.jerseymikes.com)
+ - [https://jerseymikes.com](https://jerseymikes.com)
  - date_published: 2024-05-15T00:00:00+00:00
 
  ## Jersey's Best
- - [https://www.jerseysbest.com](https://www.jerseysbest.com)
+ - [https://jerseysbest.com](https://jerseysbest.com)
  - date_published: 2024-08-16T00:00:00+00:00
 
  ## Jerusalem Prophecy College | Endtime Ministries | Dave Robbins & Irvin Baxter
@@ -3060,11 +3093,11 @@
  - date_published: 2024-01-10T14:28:39.004546+00:00
 
  ## Jess Chandler
- - [http://jessachandler.com](http://jessachandler.com)
+ - [https://jessachandler.com](https://jessachandler.com)
  - date_published: 2024-01-27T00:00:00+00:00
 
  ## Jess Blandford
- - [https://www.jessblandford.com](https://www.jessblandford.com)
+ - [https://jessblandford.com](https://jessblandford.com)
  - date_published: 2024-09-14T22:52:09.269635+00:00
 
  ## jess is typing
@@ -3081,7 +3114,7 @@
  - date_published: 2023-10-25T15:28:22.799029+00:00
 
  ## Jesse Klein
- - [http://www.jesseerynklein.com](http://www.jesseerynklein.com)
+ - [https://jesseerynklein.com](https://jesseerynklein.com)
  - date_published: 2024-09-19T19:43:11.010508+00:00
 
  ## Jesse F. Simon
@@ -3094,15 +3127,15 @@
  - date_published: 2023-07-16T00:00:00+00:00
 
  ## Home | mysite
- - [https://www.jessekellerman.com](https://www.jessekellerman.com)
+ - [https://jessekellerman.com](https://jessekellerman.com)
  - date_published: 2024-07-17T06:25:15.775764+00:00
 
  ## Science Fiction | J.F. Lawrence
- - [http://www.jesselawrence.com](http://www.jesselawrence.com)
+ - [https://jesselawrence.com](https://jesselawrence.com)
  - date_published: 2024-06-29T08:16:41.146651+00:00
 
  ## Jesse Moynihan
- - [http://jessemoynihan.com](http://jessemoynihan.com)
+ - [https://jessemoynihan.com](https://jessemoynihan.com)
  - date_published: 2024-08-18T19:43:30.305284+00:00
 
  ## About
@@ -3126,7 +3159,7 @@
  - date_published: 2024-12-15T04:23:17.484367+00:00
 
  ## HOME | jesseasaperstein
- - [http://jessesaperstein.com](http://jessesaperstein.com)
+ - [https://jessesaperstein.com](https://jessesaperstein.com)
  - date_published: 2024-09-03T22:52:12.255307+00:00
 
  ## Jesse Squires
@@ -3134,7 +3167,7 @@
  - date_published: 2024-04-28T03:56:57.294753+00:00
 
  ## Jesse Sheidlower: jessesword.com
- - [http://www.jessesword.com](http://www.jessesword.com)
+ - [https://jessesword.com](https://jessesword.com)
  - date_published: 2024-05-06T16:26:46+00:00
 
  ## Jesse Walden
@@ -3147,7 +3180,7 @@
 
  ## Jesse Zhou - Business, Technology and Design
  - [https://jesse-zhou.com](https://jesse-zhou.com)
- - date_published: 2024-08-06T20:02:35.013705+00:00
+ - date_published: 2024-01-24T17:37:46+00:00
 
  ## Jess Fink - Artist, Illustrator
  - [https://jessfink.com](https://jessfink.com)
@@ -3170,19 +3203,19 @@
  - date_published: 2018-12-06T10:47:21+00:00
 
  ## Psychotherapy, Coaching & Mediation | Jessica Fern
- - [https://www.jessicafern.com](https://www.jessicafern.com)
+ - [https://jessicafern.com](https://jessicafern.com)
  - date_published: 2024-09-19T00:37:43.478579+00:00
 
  ## Jessica Hische - Awesome
- - [http://jessicahische.com](http://jessicahische.com)
+ - [https://jessicahische.com](https://jessicahische.com)
  - date_published: 2024-06-28T11:50:44.753265+00:00
 
  ## www.jessicahundley.com
- - [https://www.jessicahundley.com](https://www.jessicahundley.com)
+ - [https://jessicahundley.com](https://jessicahundley.com)
  - date_published: 2024-08-18T22:39:08.256252+00:00
 
  ## Artist | Jessica Joslin Sculpture
- - [http://www.jessicajoslin.com](http://www.jessicajoslin.com)
+ - [https://jessicajoslin.com](https://jessicajoslin.com)
  - date_published: 2024-06-24T09:50:35.629049+00:00
 
  ## Home - Jessica Minahan, Ph.D., BCBA
@@ -3190,7 +3223,7 @@
  - date_published: 2024-07-19T20:13:38.797317+00:00
 
  ## Jessica Nordell
- - [http://jessicanordell.com](http://jessicanordell.com)
+ - [https://jessicanordell.com](https://jessicanordell.com)
  - date_published: 2024-07-10T11:20:49.118979+00:00
 
  ## Jessica Perlstein Art
@@ -3198,7 +3231,7 @@
  - date_published: 2024-12-21T21:56:12.230824+00:00
 
  ## Jessica's Blooming Brain
- - [http://jessicasbloomingbrain.com](http://jessicasbloomingbrain.com)
+ - [https://jessicasbloomingbrain.com](https://jessicasbloomingbrain.com)
  - date_published: 2024-09-03T23:09:35.069529+00:00
 
  ## No Pithy Phrase
@@ -3206,7 +3239,7 @@
  - date_published: 2024-12-11T18:07:50+00:00
 
  ## Jessica's Well - A Midland, Texas Blog on Media and Government.
- - [http://www.jessicaswell.com](http://www.jessicaswell.com)
+ - [https://jessicaswell.com](https://jessicaswell.com)
  - date_published: 2024-06-20T03:11:52.463202+00:00
 
  ## jessiecarty.com - Ta strona jest na sprzedaż! - jessiecarty Zasoby i informacje.
@@ -3239,7 +3272,7 @@
  - tags: ['personal']
 
  ## What is Jessitron thinking?
- - [http://newsletter.jessitron.com](http://newsletter.jessitron.com)
+ - [https://newsletter.jessitron.com](https://newsletter.jessitron.com)
  - date_published: 2022-11-11T20:52:52+00:00
 
  ## Get more from jessitron on Patreon
@@ -3247,7 +3280,7 @@
  - date_published: 2024-08-19T08:23:05.385389+00:00
 
  ## JESS LANGLEY
- - [http://jesslangley.com](http://jesslangley.com)
+ - [https://jesslangley.com](https://jesslangley.com)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## foreXiv
@@ -3260,7 +3293,7 @@
  - date_published: 2013-01-01T00:00:00+00:00
 
  ## About Me and My Life - Marathon Running Blog - JessRunsBlessed
- - [http://jessrunsblessed.com](http://jessrunsblessed.com)
+ - [https://jessrunsblessed.com](https://jessrunsblessed.com)
  - date_published: 2024-07-20T16:11:07.500078+00:00
 
  ## HOME
@@ -3272,7 +3305,7 @@
  - date_published: 2024-07-14T09:21:57.125155+00:00
 
  ## Je suis un dev - Devenir un meilleur développeur et prendre le contrôle de sa carrière
- - [https://www.jesuisundev.com](https://www.jesuisundev.com)
+ - [https://jesuisundev.com](https://jesuisundev.com)
  - date_published: 2024-07-14T09:55:25.798356+00:00
 
  ## Jesuisuniquevetement
@@ -3286,9 +3319,10 @@
  ## 睡眠障害の基礎知識と睡眠障害に効く快眠グッズについて – ～睡眠障害の基礎知識やおすすめ快眠グッズ情報サイト～
  - [http://www.jesus21.com](http://www.jesus21.com)
  - date_published: 2024-06-28T21:24:46.072523+00:00
+ - date_dead_since: 2025-01-05T06:05:32.122874+00:00
 
  ## Home - Jesus Calling
- - [https://www.jesuscalling.com](https://www.jesuscalling.com)
+ - [https://jesuscalling.com](https://jesuscalling.com)
  - date_published: 2024-05-08T00:00:00+00:00
 
  ## Jesus: A Deaf Missions Film - in Theaters Beginning June 20
@@ -3308,7 +3342,7 @@
  - date_published: 2024-07-21T19:46:18+00:00
 
  ## SERP
- - [http://www.jesuswordsonly.com](http://www.jesuswordsonly.com)
+ - [https://jesuswordsonly.com](https://jesuswordsonly.com)
  - date_published: 2024-07-06T21:20:36.846415+00:00
 
  ## Walmart | Save Money. Live better.
@@ -3316,7 +3350,7 @@
  - date_published: 2024-05-11T08:23:50.192754+00:00
 
  ## All Inclusive Holidays and Package Holidays | Jet2holidays
- - [https://www.jet2holidays.com](https://www.jet2holidays.com)
+ - [https://jet2holidays.com](https://jet2holidays.com)
  - date_published: 2024-10-20T13:37:24.149272+00:00
 
  ## jetblacktravel
@@ -3332,7 +3366,7 @@
  - date_published: 2024-05-08T00:00:00+00:00
 
  ## JetBlue
- - [https://hola.jetblue.com](https://hola.jetblue.com)
+ - [http://hola.jetblue.com](http://hola.jetblue.com)
  - date_published: 2024-07-25T00:00:00+00:00
 
  ## JetBlue
@@ -3340,7 +3374,7 @@
  - date_published: 2024-03-07T00:00:00+00:00
 
  ## Maintenance+R9
- - [https://jbrest.jetblue.com](https://jbrest.jetblue.com)
+ - [http://jbrest.jetblue.com](http://jbrest.jetblue.com)
  - date_published: 2024-06-16T12:07:08.780634+00:00
 
  ## JetBlue
@@ -3362,6 +3396,7 @@
  ## Rendertron
  - [https://rendertron.jetblue.com](https://rendertron.jetblue.com)
  - date_published: 2022-10-13T17:16:32+00:00
+ - date_dead_since: 2025-01-05T06:07:41.136140+00:00
 
  ## JetBlue
  - [https://trueblue.jetblue.com](https://trueblue.jetblue.com)
@@ -3382,6 +3417,7 @@
  ## Attention Required! | Cloudflare
  - [http://www.mediaroom.jetblue.com](http://www.mediaroom.jetblue.com)
  - date_published: 2024-06-23T16:24:13.038991+00:00
+ - date_dead_since: 2025-01-05T06:14:02.933415+00:00
 
  ## JetBlue
  - [https://www-qa2.jetblue.com](https://www-qa2.jetblue.com)
@@ -3396,16 +3432,16 @@
  - date_published: 2024-03-08T00:00:00+00:00
 
  ## 502 bad gateway
- - [https://login.jetbluevacations.com](https://login.jetbluevacations.com)
+ - [http://jetbluevacations.com](http://jetbluevacations.com)
+ - date_published: 2024-06-16T12:07:20.274740+00:00
+
+ ## 502 bad gateway
+ - [http://login.jetbluevacations.com](http://login.jetbluevacations.com)
  - date_published: 2024-06-16T12:07:32.176387+00:00
 
  ## 502 bad gateway
- - [https://sdk.jetbluevacations.com](https://sdk.jetbluevacations.com)
+ - [http://sdk.jetbluevacations.com](http://sdk.jetbluevacations.com)
  - date_published: 2024-06-16T12:07:14.581790+00:00
-
- ## 502 bad gateway
- - [https://www.jetbluevacations.com](https://www.jetbluevacations.com)
- - date_published: 2024-06-16T12:07:20.274740+00:00
 
  ## Jetbolt Games
  - [https://jetbolt.com](https://jetbolt.com)
@@ -3441,7 +3477,7 @@
  - date_published: 2023-12-12T09:09:59.760112+00:00
 
  ## https://resources.jetbrains.com
- - [https://resources.jetbrains.com](https://resources.jetbrains.com)
+ - [http://resources.jetbrains.com](http://resources.jetbrains.com)
  - date_published: 2023-12-12T09:10:06.381602+00:00
 
  ## https://sales.jetbrains.com
@@ -3453,7 +3489,7 @@
  - date_published: 2023-12-12T09:04:30+00:00
 
  ## Home — JetBrains Merchandise Store
- - [https://www.jetbrainsmerchandise.com](https://www.jetbrainsmerchandise.com)
+ - [https://jetbrainsmerchandise.com](https://jetbrainsmerchandise.com)
  - date_published: 2024-07-19T15:36:15.177368+00:00
 
  ## GiveJet | Private Jet Charter
@@ -3461,7 +3497,7 @@
  - date_published: 2024-06-14T18:23:52.208469+00:00
 
  ## Products & Services For The Ice Making Industry | Jet Ice
- - [https://www.jetice.com](https://www.jetice.com)
+ - [https://jetice.com](https://jetice.com)
  - date_published: 2024-07-11T17:34:06+00:00
 
  ## Sign in to Jetify
@@ -3469,7 +3505,7 @@
  - date_published: 2024-06-22T15:15:32.332462+00:00
 
  ## Jetify (formerly jetpack.io)
- - [https://www.jetify.com](https://www.jetify.com)
+ - [https://jetify.com](https://jetify.com)
  - date_published: 2024-05-06T06:36:24.898660+00:00
 
  ## JetKVM - Control any computer remotely
@@ -3507,11 +3543,11 @@
  ## Forums - 
 		
 		JetPhotos Forums - The Friendly Way to Fly
- - [http://forums.jetphotos.com](http://forums.jetphotos.com)
+ - [https://forums.jetphotos.com](https://forums.jetphotos.com)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## Aviation photos - 6 million+ on JetPhotos
- - [https://www.jetphotos.com](https://www.jetphotos.com)
+ - [http://jetphotos.com](http://jetphotos.com)
  - date_published: 2024-05-06T22:12:45.340928+00:00
 
  ## Welcome - JETSET
@@ -3519,12 +3555,13 @@
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Jetsetter | Trip Ideas. Destinations. Food + Drink. Hotels. Style.
- - [https://www.jetsetter.com](https://www.jetsetter.com)
+ - [https://jetsetter.com](https://jetsetter.com)
  - date_published: 2024-06-03T15:03:23+00:00
 
  ## Find Your Jet Ski Adventure - jetskibeast.com
  - [https://jetskibeast.com](https://jetskibeast.com)
  - date_published: 2024-07-04T17:28:36.975200+00:00
+ - date_dead_since: 2025-01-05T06:27:46.242565+00:00
 
  ## Charter private jet flights globally through XO
  - [https://jetsmarter.com](https://jetsmarter.com)
@@ -3535,7 +3572,7 @@
  - date_published: 2024-05-11T15:22:00.673829+00:00
 
  ## Home | Jetson - Personal Electric Aerial Vehicle
- - [https://www.jetsonaero.com](https://www.jetsonaero.com)
+ - [https://jetsonaero.com](https://jetsonaero.com)
  - date_published: 2024-07-14T16:32:55.393514+00:00
 
  ## JetSpy - The #1 Private Jet Tracker
@@ -3555,11 +3592,11 @@
  - date_published: 2024-01-10T18:10:55.728176+00:00
 
  ## Jetty | Financial services for renters.
- - [https://www.jetty.com](https://www.jetty.com)
+ - [https://jetty.com](https://jetty.com)
  - date_published: 2024-10-17T05:45:57.045163+00:00
 
  ## Jetty Communication Management System
- - [http://www.jettyapp.com](http://www.jettyapp.com)
+ - [https://jettyapp.com](https://jettyapp.com)
  - date_published: 2024-07-15T03:59:24.418565+00:00
 
  ## Jetway-Home
@@ -3567,7 +3604,7 @@
  - date_published: 2024-08-05T00:00:00+00:00
 
  ## Jetwhine
- - [http://www.jetwhine.com](http://www.jetwhine.com)
+ - [https://jetwhine.com](https://jetwhine.com)
  - date_published: 2024-07-09T22:07:42.186729+00:00
 
  ## JetX Bet Game | Play JetX Casino For Real Money
@@ -3587,12 +3624,12 @@
  - date_published: 2024-10-02T13:55:17.530206+00:00
 
  ## JEUX GRATUITS : Jouer aux meilleurs Jeux Gratuits en ligne!
- - [https://m.jeux-gratuits.com](https://m.jeux-gratuits.com)
- - date_published: 2024-10-02T13:54:28.240321+00:00
+ - [https://jeux-gratuits.com](https://jeux-gratuits.com)
+ - date_published: 2024-06-16T11:19:09.701845+00:00
 
  ## JEUX GRATUITS : Jouer aux meilleurs Jeux Gratuits en ligne!
- - [https://www.jeux-gratuits.com](https://www.jeux-gratuits.com)
- - date_published: 2024-06-16T11:19:09.701845+00:00
+ - [https://m.jeux-gratuits.com](https://m.jeux-gratuits.com)
+ - date_published: 2024-10-02T13:54:28.240321+00:00
 
  ## Jouez gratuitement au Casino en Ligne | Jeux Gratuits Casino
  - [https://jeux-gratuits-casino.com](https://jeux-gratuits-casino.com)
@@ -3603,7 +3640,7 @@
  - date_published: 2024-05-09T08:43:03.148693+00:00
 
  ## jeuxvideo.com toute l'actualité du jeu vidéo et du hardware
- - [https://www.jeuxvideo.com](https://www.jeuxvideo.com)
+ - [http://jeuxvideo.com](http://jeuxvideo.com)
  - date_published: 2024-07-03T04:47:19.902268+00:00
 
  ## Vendre ses cheveux !? Votre acheteur est ICI
@@ -3615,11 +3652,11 @@
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## Jewcy is what matters now.
- - [http://www.jewcy.com](http://www.jewcy.com)
+ - [https://jewcy.com](https://jewcy.com)
  - date_published: 2022-01-25T00:00:00+00:00
 
  ## Experience Wonder at Jewel Changi Airport - Jewel Changi Airport
- - [https://www.jewelchangiairport.com](https://www.jewelchangiairport.com)
+ - [https://jewelchangiairport.com](https://jewelchangiairport.com)
  - date_published: 2024-06-20T01:33:17+00:00
 
  ## Luxury All Inclusive Resort Near Montego Bay Jamaica | Jewel Grande
@@ -3635,24 +3672,24 @@
  - date_published: 2024-12-27T23:11:35.572436+00:00
 
  ## Wholesale Jewelry, Wholesale Stainless Steel Jewelry, Silver Jewelry
- - [https://www.jewenoir.com](https://www.jewenoir.com)
+ - [https://jewenoir.com](https://jewenoir.com)
  - date_published: 2024-10-17T08:45:32.478989+00:00
+
+ ## Triks dan Panduan untuk Kendala Teknologi Anda
+ - [https://jewishblogging.com](https://jewishblogging.com)
+ - date_published: 2024-06-27T10:19:13.119020+00:00
 
  ## Triks dan Panduan untuk Kendala Teknologi Anda
  - [http://jewishblogging.com](http://jewishblogging.com)
  - date_published: 2024-12-22T21:34:13.078381+00:00
 
- ## Triks dan Panduan untuk Kendala Teknologi Anda
- - [http://www.jewishblogging.com](http://www.jewishblogging.com)
- - date_published: 2024-06-27T10:19:13.119020+00:00
+ ## Jewish Life in Boston | JewishBoston
+ - [https://jewishboston.com](https://jewishboston.com)
+ - date_published: 2024-07-16T21:34:38+00:00
 
  ## Jewish Life in Boston JewishBostonTeens
  - [https://teens.jewishboston.com](https://teens.jewishboston.com)
  - date_published: 2024-07-16T21:30:32+00:00
-
- ## Jewish Life in Boston | JewishBoston
- - [https://www.jewishboston.com](https://www.jewishboston.com)
- - date_published: 2024-07-16T21:34:38+00:00
 
  ## The Jewish Boxing Blog
  - [https://www.jewishboxingblog.com](https://www.jewishboxingblog.com)
@@ -3669,13 +3706,14 @@
  ## Home - Jewish Content Network
  - [https://jewishcontentnetwork.com](https://jewishcontentnetwork.com)
  - date_published: 2022-05-05T00:00:00+00:00
+ - date_dead_since: 2025-01-05T06:29:41.902474+00:00
 
  ## Jewish Content Network
  - [https://servedby.jewishcontentnetwork.com](https://servedby.jewishcontentnetwork.com)
  - date_published: 2024-05-07T10:48:40.904062+00:00
 
  ## Jewish Experience Radio show
- - [http://www.jewishexperienceradio.com](http://www.jewishexperienceradio.com)
+ - [https://jewishexperienceradio.com](https://jewishexperienceradio.com)
  - date_published: 2021-05-31T21:44:32+00:00
 
  ## Jewish-American History on the Web
@@ -3683,7 +3721,7 @@
  - date_published: 2023-01-01T01:13:33+00:00
 
  ## Jewish Ideas Daily
- - [http://jewishideasdaily.com](http://jewishideasdaily.com)
+ - [https://jewishideasdaily.com](https://jewishideasdaily.com)
  - date_published: 2024-08-18T15:31:21+00:00
 
  ## Jewish Insider
@@ -3691,7 +3729,7 @@
  - date_published: 2024-04-26T00:00:00+00:00
 
  ## Jewish Journal
- - [http://jewishjournal.com](http://jewishjournal.com)
+ - [https://jewishjournal.com](https://jewishjournal.com)
  - date_published: 2024-03-21T00:00:00+00:00
  - tags: ['israel news']
 
@@ -3700,8 +3738,8 @@
  - date_published: 2024-05-11T00:00:00+00:00
 
  ## Jewish Lights
- - [http://www.jewishlights.com](http://www.jewishlights.com)
- - date_published: 2024-10-21T17:56:47.014135+00:00
+ - [https://jewishlights.com](https://jewishlights.com)
+ - date_published: 2022-10-16T19:00:17+00:00
 
  ## The Jewish Press - JewishPress.com
  - [https://jewishpress.com](https://jewishpress.com)
@@ -3729,15 +3767,15 @@
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Jewlicious – Jewish stuff we love.
- - [http://www.jewlicious.com](http://www.jewlicious.com)
- - date_published: 2024-06-27T02:54:28+00:00
+ - [https://jewlicious.com](https://jewlicious.com)
+ - date_published: 2023-03-06T23:31:13+00:00
 
  ## Jewschool
  - [http://www.jewschool.com](http://www.jewschool.com)
  - date_published: 2024-12-22T21:19:08+00:00
 
  ## Home
- - [https://jezebel.com](https://jezebel.com)
+ - [http://jezebel.com](http://jezebel.com)
  - date_published: 2024-05-07T19:07:16.056283+00:00
 
  ## Attention Required! | Cloudflare
@@ -3759,10 +3797,10 @@
 
  ## Hello
  - [https://www.jezzamon.com](https://www.jezzamon.com)
- - date_published: 2024-04-29T07:10:54.793478+00:00
+ - date_published: 2020-11-19T01:31:32+00:00
 
  ## Jack Frost Big Boulder | Jack Frost Big Boulder Resort
- - [https://www.jfbb.com](https://www.jfbb.com)
+ - [https://jfbb.com](https://jfbb.com)
  - date_published: 2024-08-06T09:25:06.340911+00:00
 
  ## 解放网，上观新闻-站上海，观天下
@@ -3770,7 +3808,7 @@
  - date_published: 2024-11-27T06:28:09+00:00
 
  ## JFD Brokers | One-Stop Multi-Asset Trading and Investing Experience
- - [https://www.jfdbrokers.com](https://www.jfdbrokers.com)
+ - [https://jfdbrokers.com](https://jfdbrokers.com)
  - date_published: 2024-08-06T22:57:36.703978+00:00
 
  ## Hi there 👋
@@ -3794,7 +3832,7 @@
  - date_published: 2024-12-23T07:25:10+00:00
 
  ## Resource not found
- - [https://www2.jfmusicservices.com](https://www2.jfmusicservices.com)
+ - [http://www2.jfmusicservices.com](http://www2.jfmusicservices.com)
  - date_published: 2024-05-08T10:07:15.577531+00:00
 
  ## The Type Founders, LLC
@@ -3810,7 +3848,7 @@
  - date_published: 2024-08-18T06:29:18.650916+00:00
 
  ## Jonathan Frankle - Chief Neural network Scientist at Databricks
- - [http://www.jfrankle.com](http://www.jfrankle.com)
+ - [https://jfrankle.com](https://jfrankle.com)
  - date_published: 2024-04-29T01:02:58+00:00
 
  ## JFrog Academy
@@ -3818,7 +3856,7 @@
  - date_published: 2024-06-16T06:55:10.954649+00:00
 
  ## Attention Required! | Cloudflare
- - [https://investors.jfrog.com](https://investors.jfrog.com)
+ - [http://investors.jfrog.com](http://investors.jfrog.com)
  - date_published: 2024-06-16T06:55:46.580400+00:00
 
  ## Software Supply Chain Platform for DevOps & Security | JFrog
@@ -3866,7 +3904,7 @@
  - date_published: 2024-06-10T13:08:40.742074+00:00
 
  ## Site Directory
- - [https://www.jfsowa.com](https://www.jfsowa.com)
+ - [https://jfsowa.com](https://jfsowa.com)
  - date_published: 2006-11-05T00:03:54+00:00
 
  ## JFX-Central - Everything JavaFX
@@ -3890,15 +3928,15 @@
  - date_published: 2024-06-20T05:24:18.016022+00:00
 
  ## https://riscv.jghuff.com
- - [https://riscv.jghuff.com](https://riscv.jghuff.com)
+ - [http://riscv.jghuff.com](http://riscv.jghuff.com)
  - date_published: 2024-01-09T02:40:36.995426+00:00
 
  ## 集英社『週刊少年ジャンプ』公式サイト
- - [http://www.j-gintama.com](http://www.j-gintama.com)
- - date_published: 2024-10-24T18:01:20.559892+00:00
+ - [https://www.j-gintama.com](https://www.j-gintama.com)
+ - date_published: 2018-04-12T07:14:06+00:00
 
  ## JGive
- - [https://www.jgive.com](https://www.jgive.com)
+ - [https://jgive.com](https://jgive.com)
  - date_published: 2024-07-14T03:35:39.770530+00:00
 
  ## Jill Goulder
@@ -3914,7 +3952,7 @@
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## EDU 407
- - [http://edu407.jgregorymcverry.com](http://edu407.jgregorymcverry.com)
+ - [https://edu407.jgregorymcverry.com](https://edu407.jgregorymcverry.com)
  - date_published: 2019-04-24T00:00:00+00:00
 
  ## INTERTEXTrEVOLUTION
@@ -3922,7 +3960,7 @@
  - date_published: 2024-05-07T23:24:38.376680+00:00
 
  ## 吉安新闻网
- - [http://www.jgsdaily.com](http://www.jgsdaily.com)
+ - [https://www.jgsdaily.com](https://www.jgsdaily.com)
  - date_published: 2024-06-30T18:02:40.078227+00:00
 
  ## Jeremy Thomas – Frontend Designer and CSS Guru
@@ -3930,12 +3968,12 @@
  - date_published: 2024-05-06T06:36:07.642174+00:00
 
  ## JunYoung Gwak
- - [http://www.jgwak.com](http://www.jgwak.com)
+ - [https://jgwak.com](https://jgwak.com)
  - date_published: 2024-06-22T07:32:08.049283+00:00
 
  ## ハイキュー!!.com
- - [http://www.j-haikyu.com](http://www.j-haikyu.com)
- - date_published: 2019-09-26T09:28:31+00:00
+ - [https://j-haikyu.com](https://j-haikyu.com)
+ - date_published: 2018-04-12T07:14:06+00:00
 
  ## J. Alex Halderman
  - [https://jhalderm.com](https://jhalderm.com)
@@ -3946,19 +3984,19 @@
  - date_published: 2024-10-01T20:48:22+00:00
 
  ## John Hancock Individual Annuities Resources: Forms, Claims & More
- - [http://www.jhannuities.com](http://www.jhannuities.com)
+ - [https://jhannuities.com](https://jhannuities.com)
  - date_published: 2024-10-07T18:17:54+00:00
 
  ## John Hancock Group Annuities: Forms, Claims & More
- - [https://www.jhgroupannuities.com](https://www.jhgroupannuities.com)
+ - [https://jhgroupannuities.com](https://jhgroupannuities.com)
  - date_published: 2024-10-27T20:48:32+00:00
 
  ## John Hancock Investment Management
- - [https://www.jhinvestments.com](https://www.jhinvestments.com)
+ - [https://jhinvestments.com](https://jhinvestments.com)
  - date_published: 2024-10-07T17:33:31+00:00
 
  ## HVAC Lincoln & Omaha, NE | Plumbing | Electrical | John Henry’s
- - [https://www.jhlincoln.com](https://www.jhlincoln.com)
+ - [https://jhlincoln.com](https://jhlincoln.com)
  - date_published: 2024-05-24T00:00:00+00:00
 
  ## jhnewsandguide.com | Local and breaking news for Jackson Hole Wyoming.
@@ -3970,7 +4008,7 @@
  - date_published: 2024-09-21T22:54:11.654384+00:00
 
  ## Retirement plan services | John Hancock Retirement
- - [http://jhrps.com](http://jhrps.com)
+ - [https://jhrps.com](https://jhrps.com)
  - date_published: 2024-10-07T17:33:22+00:00
 
  ## Colloquium
@@ -3978,7 +4016,7 @@
  - date_published: 2025-01-01T13:30:59.238997+00:00
 
  ## The Johns Hopkins News-Letter
- - [https://www.jhunewsletter.com](https://www.jhunewsletter.com)
+ - [https://jhunewsletter.com](https://jhunewsletter.com)
  - date_published: 2024-09-10T00:00:00+00:00
 
  ## Joseph Hutchison
@@ -3987,7 +4025,7 @@
  - tags: ['personal']
 
  ## 齐家网-装修,建材团购,家居家具团购为一体的家装平台
- - [https://www.jia.com](https://www.jia.com)
+ - [https://jia.com](https://jia.com)
  - date_published: 2024-10-25T11:40:25.528539+00:00
 
  ## 【装修头条】装修、建材、家居海量资讯-齐家网
@@ -3999,7 +4037,7 @@
  - date_published: 2024-10-29T16:51:26.537849+00:00
 
  ## 琼中坑猎物流有限公司
- - [http://www.jiabinhuang.com](http://www.jiabinhuang.com)
+ - [http://jiabinhuang.com](http://jiabinhuang.com)
  - date_published: 2024-06-22T07:30:07.680178+00:00
 
  ## Chenyan Jia | Ph.D.
@@ -4023,7 +4061,7 @@
  - date_published: 2024-05-04T15:15:56.286936+00:00
 
  ## 全球加盟网--第一时间发布连锁加盟创业项目！
- - [http://www.jiameng.com](http://www.jiameng.com)
+ - [https://www.jiameng.com](https://www.jiameng.com)
  - date_published: 2024-10-25T12:15:52.839959+00:00
 
  ## Dongwei Jiang
@@ -4039,50 +4077,24 @@
  - date_published: 2024-07-12T08:51:14.295320+00:00
 
  ## 简历网_电子版个人简历免费在线制作,简历模板手机可编辑,个人简历设计网
- - [https://www.jianli.com](https://www.jianli.com)
+ - [https://jianli.com](https://jianli.com)
  - date_published: 2024-10-25T11:11:52.532544+00:00
 
  ## About me
- - [https://www.jianrenw.com](https://www.jianrenw.com)
+ - [https://jianrenw.com](https://jianrenw.com)
  - date_published: 2024-05-11T18:11:29+00:00
 
  ## 建设库_建筑施工企业资质查询_四库一平台业绩_中标_建造师证书查询网
  - [https://www.jiansheku.com](https://www.jiansheku.com)
- - date_published: 2024-10-25T11:55:22.467312+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-05T06:43:27.685381+00:00
 
  ## 简书 - 创作你的创作
- - [https://www.jianshu.com](https://www.jianshu.com)
+ - [https://jianshu.com](https://jianshu.com)
  - date_published: 2024-10-20T22:47:28.819819+00:00
 
  ## NameBright - Domain Expired
  - [http://www.jianxiongxiao.com](http://www.jianxiongxiao.com)
  - date_published: 2024-08-07T16:38:16.422527+00:00
-
- ## Home page - Have Fun
- - [http://jiaqiz.com](http://jiaqiz.com)
- - date_published: 2018-02-07T00:00:00+00:00
-
- ## 佳积智能科技-东莞无刷电机、航模电机、无刷气泵、风扇、滚筒生产厂家
- - [http://www.jiaxinjt.com](http://www.jiaxinjt.com)
- - date_published: 2024-09-04T11:04:05.472742+00:00
-
- ## Jiayuan Mao
- - [http://jiayuanm.com](http://jiayuanm.com)
- - date_published: 2024-06-14T21:35:57+00:00
-
- ## iCIMS | Recruiting Software Platform & #1 Applicant Tracking System
- - [https://jibe.com](https://jibe.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## undefined
- - [https://mountsinai.staging.jibeapply.com](https://mountsinai.staging.jibeapply.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Penfed Careers
- - [https://penfed.jibeapply.com](https://penfed.jibeapply.com)
- - date_published: 2024-10-07T00:00:00+00:00
-
- ## UF Health Careers
- - [https://ufhealth.jibeapply.com](https://ufhealth.jibeapply.com)
- - date_published: 2024-12-12T14:28:30.382483+00:00
+ - date_dead_since: 2025-01-05T06:44:45.799098+00:00
 

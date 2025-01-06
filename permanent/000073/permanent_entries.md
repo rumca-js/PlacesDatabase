@@ -1,3 +1,19 @@
+ ## The Maps and Geo Blog
+ - [https://ml4711.blogspot.com](https://ml4711.blogspot.com)
+ - date_published: 2024-07-11T14:26:04+00:00
+
+ ## Marko Lalic
+ - [http://mlalic.blogspot.com](http://mlalic.blogspot.com)
+ - date_published: 2024-02-20T17:51:26+00:00
+
+ ## Orange Crate Art
+ - [https://mleddy.blogspot.com](https://mleddy.blogspot.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## My Little World Of Dementia
+ - [http://mlwodementia.blogspot.com](http://mlwodementia.blogspot.com)
+ - date_published: 2024-03-13T14:29:54+00:00
+
  ## Michael's Declarative Programming Blog
  - [http://mmartedp.blogspot.com](http://mmartedp.blogspot.com)
  - date_published: 2024-02-20T21:56:40+00:00
@@ -3991,21 +4007,4 @@
  ## OLDHAMMER HERESY
  - [http://oldhammer30k.blogspot.com](http://oldhammer30k.blogspot.com)
  - date_published: 2024-07-04T06:32:59+00:00
-
- ## Oldhammer: 40k Quest
- - [https://oldhammer40kquest.blogspot.com](https://oldhammer40kquest.blogspot.com)
- - date_published: 2024-12-19T03:27:00+00:00
-
- ## Oldhammer as RPG
- - [https://oldhammerasrpg.blogspot.com](https://oldhammerasrpg.blogspot.com)
- - date_published: 2024-02-02T18:26:40+00:00
-
- ## Oldhammer Australia
- - [http://oldhammeraustralia.blogspot.com](http://oldhammeraustralia.blogspot.com)
- - date_published: 2024-08-31T13:19:57+00:00
-
- ## Oldhammer
- - [https://old-hammer.blogspot.com](https://old-hammer.blogspot.com)
- - date_published: 2024-05-17T13:13:00+00:00
- - tags: ['miniatures', 'warhammer', 'wargames']
 

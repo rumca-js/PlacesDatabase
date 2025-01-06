@@ -1,3 +1,103 @@
+ ## Laman Utamo - Wq/min - Wikimedia Incubator
+ - [https://min.wikiquote.org](https://min.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Викицитат - Wq/mk - Wikimedia Incubator
+ - [https://mk.wikiquote.org](https://mk.wikiquote.org)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## വിക്കിചൊല്ലുകൾ
+ - [https://ml.wikiquote.org](https://ml.wikiquote.org)
+ - date_published: 2024-06-19T16:18:18+00:00
+
+ ## ꯃꯔꯨꯑꯣꯏꯕ ꯂꯃꯥꯏ - Wq/mni - Wikimedia Incubator
+ - [https://mni.wikiquote.org](https://mni.wikiquote.org)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Нүүр хуудас - Wq/mn - Wikimedia Incubator
+ - [https://mn.wikiquote.org](https://mn.wikiquote.org)
+ - date_published: 2024-06-28T05:01:12+00:00
+
+ ## မုက်လိက်တမ် - Wq/mnw - Wikimedia Incubator
+ - [https://mnw.wikiquote.org](https://mnw.wikiquote.org)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Wikiquote
+ - [https://mr.wikiquote.org](https://mr.wikiquote.org)
+ - date_published: 2024-06-19T16:18:18+00:00
+
+ ## Il-Paġna prinċipali - Wq/mt - Wikimedia Incubator
+ - [https://mt.wikiquote.org](https://mt.wikiquote.org)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Mirandese Wikiquote - Wikimedia Incubator
+ - [https://mwl.wikiquote.org](https://mwl.wikiquote.org)
+ - date_published: 2024-07-12T04:30:50.587460+00:00
+
+ ## Erzya Wikiquote - Wikimedia Incubator
+ - [https://myv.wikiquote.org](https://myv.wikiquote.org)
+ - date_published: 2024-07-12T04:21:19.516184+00:00
+
+ ## ဗဟိုစာမျက်နှာ - Wq/my - Wikimedia Incubator
+ - [https://my.wikiquote.org](https://my.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wq/mzn - Wikimedia Incubator
+ - [https://mzn.wikiquote.org](https://mzn.wikiquote.org)
+ - date_published: 2024-07-09T09:56:24+00:00
+
+ ## Wq/nah - Wikimedia Incubator
+ - [https://nah.wikiquote.org](https://nah.wikiquote.org)
+ - date_published: 2024-06-28T03:28:03+00:00
+
+ ## Paggena prencepale - Wq/nap - Wikimedia Incubator
+ - [https://nap.wikiquote.org](https://nap.wikiquote.org)
+ - date_published: 2024-06-28T02:48:18+00:00
+
+ ## Wikiquote
+ - [https://nds.wikiquote.org](https://nds.wikiquote.org)
+ - date_published: 2024-06-08T23:19:27+00:00
+
+ ## मुख्य पृष्ठ - Wq/ne - Wikimedia Incubator
+ - [https://ne.wikiquote.org](https://ne.wikiquote.org)
+ - date_published: 2024-06-28T02:51:58+00:00
+
+ ## Olayama - Wq/nia - Wikimedia Incubator
+ - [https://nia.wikiquote.org](https://nia.wikiquote.org)
+ - date_published: 2024-06-28T05:00:37+00:00
+
+ ## Wikiquote
+ - [https://nl.wikiquote.org](https://nl.wikiquote.org)
+ - date_published: 2024-06-19T16:18:19+00:00
+
+ ## Wikifrasar
+ - [https://nn.wikiquote.org](https://nn.wikiquote.org)
+ - date_published: 2024-06-19T16:18:19+00:00
+
+ ## Novial Wikiquote - Wikimedia Incubator
+ - [https://nov.wikiquote.org](https://nov.wikiquote.org)
+ - date_published: 2024-07-12T03:04:07.851254+00:00
+
+ ## Wikiquote
+ - [https://no.wikiquote.org](https://no.wikiquote.org)
+ - date_published: 2024-06-19T16:18:19+00:00
+
+ ## Acuèlh - Wq/oc - Wikimedia Incubator
+ - [https://oc.wikiquote.org](https://oc.wikiquote.org)
+ - date_published: 2024-09-04T03:04:11+00:00
+
+ ## ପ୍ରଧାନ ପୃଷ୍ଠା - Wq/or - Wikimedia Incubator
+ - [https://or.wikiquote.org](https://or.wikiquote.org)
+ - date_published: 2024-06-28T04:12:33+00:00
+
+ ## Pangasinan Wikiquote - Wikimedia Incubator
+ - [https://pag.wikiquote.org](https://pag.wikiquote.org)
+ - date_published: 2024-07-12T05:15:33.993446+00:00
+
+ ## Pampanga Wikiquote - Wikimedia Incubator
+ - [https://pam.wikiquote.org](https://pam.wikiquote.org)
+ - date_published: 2024-07-12T05:03:49.030261+00:00
+
  ## Papiamento Wikiquote - Wikimedia Incubator
  - [https://pap.wikiquote.org](https://pap.wikiquote.org)
  - date_published: 2024-07-12T05:02:12.885007+00:00
@@ -3905,105 +4005,4 @@
  ## Wisconsin Watch | Independent investigative news
  - [http://wisconsinwatch.org](http://wisconsinwatch.org)
  - date_published: 2024-07-03T21:40:12+00:00
-
- ## Center for the History of Print and Digital Culture
- - [http://www.wiscprintdigital.org](http://www.wiscprintdigital.org)
- - date_published: 2024-10-29T18:28:10.695375+00:00
-
- ## Wisdom Library; The portal for Hinduism, Sanskrit, Buddhism, Jainism, Mesopotamia etc...
- - [https://www.wisdomlib.org](https://www.wisdomlib.org)
- - date_published: 2024-07-02T21:15:45.976596+00:00
-
- ## AWED — Alliance for Wise Energy Decisions
- - [https://wiseenergy.org](https://wiseenergy.org)
- - date_published: 2024-06-30T02:42:45.915875+00:00
-
- ## WiseGeek - Clear, Concise Answers to Your Questions
- - [http://www.wisegeek.org](http://www.wisegeek.org)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Home - WISE
- - [https://wiseuv.org](https://wiseuv.org)
- - date_published: 2019-11-28T00:16:08+00:00
-
- ## Home - WISE | Greater Orlando Chapter
- - [https://greaterorlando.wiseworks.org](https://greaterorlando.wiseworks.org)
- - date_published: 2024-12-23T11:17:42.689889+00:00
-
- ## WisconsinEye: Delivering unfiltered access to Wisconsin public policy
- - [https://wiseye.org](https://wiseye.org)
- - date_published: 2024-10-18T22:05:07.145233+00:00
-
- ## Make-A-Wish Foundation
- - [https://secure2.wish.org](https://secure2.wish.org)
- - date_published: 2024-09-04T16:45:38.631561+00:00
-
- ## Make-A-Wish America
- - [https://wish.org](https://wish.org)
- - date_published: 2024-06-05T20:32:38.302557+00:00
- - tags: ['crowdfunding']
-
- ## Home | Make-A-Wish Wishmakers Wanted
- - [https://wishmaker.org](https://wishmaker.org)
- - date_published: 2024-06-17T22:49:07+00:00
-
- ## Wish of a Lifetime
- - [https://wishofalifetime.org](https://wishofalifetime.org)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## witcraft.org
- - [https://witcraft.org](https://witcraft.org)
- - date_published: 2024-10-29T02:59:58+00:00
-
- ## DC's Home for Improv Comedy | Washington Improv Theater
- - [https://witdc.org](https://witdc.org)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## WITF
- - [https://www.witf.org](https://www.witf.org)
- - date_published: 2024-06-29T07:36:39.983391+00:00
-
- ## WithUkraine
- - [https://www.withukraine.org](https://www.withukraine.org)
- - date_published: 2024-05-06T22:40:40.450249+00:00
-
- ## WiX Toolset
- - [https://wixtoolset.org](https://wixtoolset.org)
- - date_published: 2024-05-12T04:47:12.224065+00:00
-
- ## Wizbridge | Crosschain erc20 tokens transfer between chains
- - [https://wizardbridge.org](https://wizardbridge.org)
- - date_published: 2024-10-24T15:59:45+00:00
-
- ## contigrator
- - [http://contigrator.wizznic.org](http://contigrator.wizznic.org)
- - date_published: 2014-09-02T00:00:00+00:00
-
- ## Wizznic.org :: Awesome puzzle game!
- - [http://wizznic.org](http://wizznic.org)
- - date_published: 2024-04-30T02:34:58.732727+00:00
-
- ## W J Niederkorn Library  Your Local Library, 316 W Grand Ave, Port Washington WI 53074 (262) 284-5031
- - [https://wjnlib.org](https://wjnlib.org)
- - date_published: 2024-05-07T15:19:31.377063+00:00
-
- ## 세계지식포럼
- - [http://www.wkforum.org](http://www.wkforum.org)
- - date_published: 2024-06-23T06:32:49.222938+00:00
-
- ## wkhtmltopdf
- - [https://wkhtmltopdf.org](https://wkhtmltopdf.org)
- - date_published: 2022-06-29T04:40:06+00:00
-
- ## Home - WKNC 88.1 FM - North Carolina State University Student Radio
- - [https://wknc.org](https://wknc.org)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Wake Up
- - [http://fr.wkup.org](http://fr.wkup.org)
- - date_published: 2024-09-12T19:17:10+00:00
-
- ## Home - Wake Up International
- - [https://wkup.org](https://wkup.org)
- - date_published: 2024-06-12T12:47:22.120758+00:00
 

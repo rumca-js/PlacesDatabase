@@ -1,3 +1,11 @@
+ ## Moda20 - Tendências de moda, beleza e estilo, com foco inclusivo em Plus Size. - Moda 20
+ - [https://moda20.com.br](https://moda20.com.br)
+ - date_published: 2024-12-26T14:14:17+00:00
+
+ ## Revista Educatrix – Editora Moderna – Estamos em constante transformação. Novas metodologias e tecnologias estão cada vez mais presentes no dia a dia. É fundamental explorar outras possibilidades em sala de aula, reforçando o papel transformador da escola para expandir as perspectivas e acompanhar as realizações dos alunos. Esse é o propósito da Educatrix!
+ - [https://educatrix.moderna.com.br](https://educatrix.moderna.com.br)
+ - date_published: 2024-09-12T22:39:56.020121+00:00
+
  ## Pedido Web Moderna
  - [https://loja.moderna.com.br](https://loja.moderna.com.br)
  - date_published: 2024-06-12T13:04:13.082783+00:00
@@ -3999,12 +4007,4 @@
  ## Міністэрства аховы здароўя Рэспублікі Беларусь
  - [http://minzdrav.gov.by](http://minzdrav.gov.by)
  - date_published: 2024-08-11T16:11:05.592845+00:00
-
- ## Главная - Министерство жилищно-коммунального хозяйства Республики Беларусь
- - [http://www.mjkx.gov.by](http://www.mjkx.gov.by)
- - date_published: 2024-08-11T15:52:56.504477+00:00
-
- ## Министерство лесного хозяйства Республики Беларусь
- - [http://www.mlh.gov.by](http://www.mlh.gov.by)
- - date_published: 2024-08-11T16:11:17.611258+00:00
 

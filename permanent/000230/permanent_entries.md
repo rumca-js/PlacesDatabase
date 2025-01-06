@@ -1,3 +1,81 @@
+ ## Tayari Jones
+ - [https://tayarijones.com](https://tayarijones.com)
+ - date_published: 2024-06-23T07:09:26.461834+00:00
+
+ ## Ben Taylor's Webosphere
+ - [https://taybenlor.com](https://taybenlor.com)
+ - date_published: 2024-04-30T02:14:29.119053+00:00
+
+ ## Taygeta
+ - [https://taygeta.com](https://taygeta.com)
+ - date_published: 2022-05-03T17:19:15+00:00
+
+ ## Strategy & Operations Consultancy | Transport Industry
+ - [https://taylorairey.com](https://taylorairey.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Author Services | How to publish a journal article - step by step guides
+ - [https://authorservices.taylorandfrancis.com](https://authorservices.taylorandfrancis.com)
+ - date_published: 2024-10-19T10:41:39.675172+00:00
+
+ ## Sign In | Taylor & Francis Author Portal
+ - [https://authors.taylorandfrancis.com](https://authors.taylorandfrancis.com)
+ - date_published: 2024-04-28T05:46:18.297280+00:00
+
+ ## Taylor & Francis中国-提供专业的出版服务和全球网络支持
+ - [https://china.taylorandfrancis.com](https://china.taylorandfrancis.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Research insights, expert analysis, and blogs - Taylor & Francis
+ - [https://insights.taylorandfrancis.com](https://insights.taylorandfrancis.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Librarian Resources By Taylor and Francis
+ - [https://librarianresources.taylorandfrancis.com](https://librarianresources.taylorandfrancis.com)
+ - date_published: 2024-07-09T12:41:35.059813+00:00
+
+ ## Taylor & Francis - Harnessing the Power of Knowledge
+ - [https://taylorandfrancis.com](https://taylorandfrancis.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Front Page
+ - [https://think.taylorandfrancis.com](https://think.taylorandfrancis.com)
+ - date_published: 2024-10-18T17:51:38.217973+00:00
+
+ ## Taylor & Francis Newsroom - Global research making the news
+ - [https://newsroom.taylorandfrancisgroup.com](https://newsroom.taylorandfrancisgroup.com)
+ - date_published: 2023-12-22T12:19:01.091178+00:00
+
+ ## Taylor & Francis - Fostering human progress through knowledge
+ - [https://taylorandfrancisgroup.com](https://taylorandfrancisgroup.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Conor Taylor
+ - [https://taylorconor.com](https://taylorconor.com)
+ - date_published: 2023-07-16T13:06:27+00:00
+
+ ## Taylor County Chamber of Commerce
+ - [https://taylorcountychamber.com](https://taylorcountychamber.com)
+ - date_published: 2024-07-03T15:03:39.692836+00:00
+
+ ## Welcome to Taylor County, FL
+ - [https://www.taylorcountygov.com](https://www.taylorcountygov.com)
+ - date_published: 2024-07-03T15:03:36.786604+00:00
+ - date_dead_since: 2024-12-19T06:42:56.349136+00:00
+
+ ## Taylorcraft :: America's Wings
+ - [https://taylorcraft.com](https://taylorcraft.com)
+ - date_published: 2019-10-22T00:48:32+00:00
+
+ ## taylordrayson
+ - [https://taylordrayson.com](https://taylordrayson.com)
+ - date_published: 2024-05-07T14:12:01.108011+00:00
+ - tags: ['personal']
+
+ ## Help Center - Librarian/Institution
+ - [https://help.taylorfrancis.com](https://help.taylorfrancis.com)
+ - date_published: 2023-07-10T12:40:45+00:00
+
  ## Home | Taylor & Francis eBooks, Reference Works and Collections
  - [https://taylorfrancis.com](https://taylorfrancis.com)
  - date_published: 2024-05-09T05:05:02.828026+00:00
@@ -3962,80 +4040,4 @@
  ## Telam Partners
  - [https://www.telampartners.com](https://www.telampartners.com)
  - date_published: 2024-09-04T02:18:04.752352+00:00
-
- ## Home - Tele2
- - [https://www.tele2.com](https://www.tele2.com)
- - date_published: 2024-05-01T07:14:24.066181+00:00
-
- ## Home
- - [https://tele2iot.com](https://tele2iot.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [http://www.telebay.com](http://www.telebay.com)
- - date_published: 2024-11-16T20:19:06.013139+00:00
-
- ## Home - Telecel Global Services
- - [https://telecelglobal.com](https://telecelglobal.com)
- - date_published: 2024-12-12T03:12:29+00:00
-
- ## Home - Telecel Group
- - [https://telecelgroup.com](https://telecelgroup.com)
- - date_published: 2024-10-31T11:00:04+00:00
-
- ## TeleCMI: All in one cloud communication solution for small business & enterprises
- - [https://www.telecmi.com](https://www.telecmi.com)
- - date_published: 2024-10-15T13:53:12+00:00
-
- ## Telecom Infra Project | Global Community Connectivity collaboration
- - [https://telecominfraproject.com](https://telecominfraproject.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Telecoming | MONETIZATION TECHNOLOGY
- - [https://www.telecoming.com](https://www.telecoming.com)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## PEAK - The Python Enterprise Application Kit
- - [http://peak.telecommunity.com](http://peak.telecommunity.com)
- - date_published: 2020-03-27T00:00:00+00:00
-
- ## Home - Telecompaper
- - [https://events.telecompaper.com](https://events.telecompaper.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Home - Telecompaper
- - [https://research.telecompaper.com](https://research.telecompaper.com)
- - date_published: 2022-01-11T00:00:00+00:00
-
- ## Telecompaper
- - [https://telecompaper.com](https://telecompaper.com)
- - date_published: 2024-02-24T18:23:27.782188+00:00
-
- ## Telecompetitor - Providing insight, analysis, and commentary on the evolving telecom competitive landscape
- - [https://www.telecompetitor.com](https://www.telecompetitor.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Telecom Ramblings - News, Analysis and Commentary for Telecom and Internet Infrastructure - 1
- - [https://www.telecomramblings.com](https://www.telecomramblings.com)
- - date_published: 2024-07-08T13:08:48.768649+00:00
-
- ## The telecom industry's leading ICT media platform - Telecom Review
- - [https://www.telecomreview.com](https://www.telecomreview.com)
- - date_published: 2024-09-24T10:10:39+00:00
-
- ## Magazine covering the telecoms and ICT sector in Africa - Telecom Review Africa
- - [https://www.telecomreviewafrica.com](https://www.telecomreviewafrica.com)
- - date_published: 2024-09-25T07:00:59+00:00
-
- ## Telecoms Europe 5G Virtual Event - 9-11 November 2021
- - [https://telecomseurope5g.com](https://telecomseurope5g.com)
- - date_published: 2021-11-11T00:00:00+00:00
-
- ## Home - Telecoms Europe
- - [https://telecomseuropeconference.com](https://telecomseuropeconference.com)
- - date_published: 2020-11-14T00:00:00+00:00
-
- ## Homepage - Telecoms Europe Events
- - [https://www.telecomseuropeevents.com](https://www.telecomseuropeevents.com)
- - date_published: 2024-03-26T00:00:00+00:00
 

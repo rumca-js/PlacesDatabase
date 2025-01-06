@@ -1,3 +1,19 @@
+ ## Mixed-signal and digital signal processing ICs | Analog Devices
+ - [https://analog.com](https://analog.com)
+ - date_published: 2023-10-25T12:40:41.557402+00:00
+
+ ## Shopping Cart | Analog Devices
+ - [https://eshop.analog.com](https://eshop.analog.com)
+ - date_published: 2024-08-19T10:49:56.564447+00:00
+
+ ## EngineerZone
+ - [https://ez.analog.com](https://ez.analog.com)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Analog Astronaut Conference 2025  May 1-4 at Biosphere 2, Arizona, USA.
+ - [https://tickets.analog-astronaut.com](https://tickets.analog-astronaut.com)
+ - date_published: 2024-10-19T20:05:32.455379+00:00
+
  ## Analog Astronaut Conference 2024
  - [http://www.analogastronaut.com](http://www.analogastronaut.com)
  - date_published: 2024-06-17T16:26:49.597594+00:00
@@ -4061,20 +4077,4 @@
  ## Antibody Software - Home of your favorite Windows utility applications
  - [https://antibody-software.com](https://antibody-software.com)
  - date_published: 2024-05-09T03:55:44.292284+00:00
-
- ## Antica Pizzeria & Market
- - [https://www.antica-pizzeria.com](https://www.antica-pizzeria.com)
- - date_published: 2024-06-27T16:52:48.750185+00:00
-
- ## ANTICHAT - Security online community
- - [https://forum.antichat.com](https://forum.antichat.com)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## anticultural.com
- - [https://anticultural.com](https://anticultural.com)
- - date_published: 2024-05-10T06:40:44.284411+00:00
-
- ## Anti-Empire
- - [https://anti-empire.com](https://anti-empire.com)
- - date_published: 2024-09-16T20:17:22.860903+00:00
 

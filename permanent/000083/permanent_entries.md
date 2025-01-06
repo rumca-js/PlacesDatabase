@@ -1,3 +1,19 @@
+ ## Bridgetown Brew Systems — Brewing & Distilling Equipment
+ - [https://www.bridgetownbrew.com](https://www.bridgetownbrew.com)
+ - date_published: 2024-06-24T06:06:50.409359+00:00
+
+ ## Bridgetown: Next-Generation Progressive Site Generator
+ - [https://bridgetownrb.com](https://bridgetownrb.com)
+ - date_published: 2024-05-01T16:49:05+00:00
+
+ ## Bridgeupp – Advertising and Monetization Platform
+ - [https://bridgeupp.com](https://bridgeupp.com)
+ - date_published: 2024-06-22T20:12:16.595062+00:00
+
+ ## Home — Bridgewater Associates
+ - [https://www.bridgewater.com](https://www.bridgewater.com)
+ - date_published: 2024-06-23T08:03:19.673491+00:00
+
  ## Bridgewell 宇匯知識科技
  - [https://www.bridgewell.com](https://www.bridgewell.com)
  - date_published: 2024-12-26T15:34:55.041019+00:00
@@ -4017,20 +4033,4 @@
  ## BuiltWith LeadsEye
  - [https://leadseye.builtwith.com](https://leadseye.builtwith.com)
  - date_published: 2024-06-16T14:17:35.187940+00:00
-
- ## Plans & Pricing
- - [https://pay.builtwith.com](https://pay.builtwith.com)
- - date_published: 2024-10-08T21:43:04.854243+00:00
-
- ## Log in to BuiltWith
- - [https://pro.builtwith.com](https://pro.builtwith.com)
- - date_published: 2024-06-16T14:17:39.765739+00:00
-
- ## BuiltWith Web Technology Usage Statistics
- - [https://trends.builtwith.com](https://trends.builtwith.com)
- - date_published: 2024-06-15T15:32:36.315405+00:00
-
- ## Darklang
- - [https://ops-corpsite.builtwithdark.com](https://ops-corpsite.builtwithdark.com)
- - date_published: 2024-06-17T19:27:03+00:00
 

@@ -1,3 +1,106 @@
+ ## The Roosevelt Institute
+ - [https://rooseveltinstitute.org](https://rooseveltinstitute.org)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## The Roosevelt Institute
+ - [https://support.rooseveltinstitute.org](https://support.rooseveltinstitute.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## rdist
+ - [https://rdist.root.org](https://rdist.root.org)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Root Cause
+ - [https://rootcause.org](https://rootcause.org)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## RootIO Radio -- a technology platorm for low cost, hyperlocal community radio stations.
+ - [https://rootio.org](https://rootio.org)
+ - date_published: 2024-11-08T11:39:20.441012+00:00
+
+ ## Rootless Garden: Nurturing Wanderlust
+ - [https://rootlessgarden.org](https://rootlessgarden.org)
+ - date_published: 2024-12-13T03:26:55.318389+00:00
+
+ ## Bienvenue
+[Root Me : pour les professionnels]
+ - [https://pro.root-me.org](https://pro.root-me.org)
+ - date_published: 2024-07-03T05:09:08+00:00
+
+ ## Bienvenue                                        
+[Root Me : plateforme d'apprentissage dédiée au Hacking et à la Sécurité de l'Information]
+ - [https://root-me.org](https://root-me.org)
+ - date_published: 2024-05-08T00:23:13.696268+00:00
+
+ ## | Now Here is Nowhere.
+ - [https://rootofpi.org](https://rootofpi.org)
+ - date_published: 2024-07-10T15:27:27+00:00
+
+ ## Roots of American Music
+ - [https://rootsofamericanmusic.org](https://rootsofamericanmusic.org)
+ - date_published: 2024-06-28T14:16:11.573863+00:00
+
+ ## The Roots of Progress Fellowship
+ - [https://api.fellowship.rootsofprogress.org](https://api.fellowship.rootsofprogress.org)
+ - date_published: 2024-06-19T10:02:13.856317+00:00
+ - date_dead_since: 2024-12-15T15:18:43.039054+00:00
+
+ ## The Roots of Progress
+ - [https://blog.rootsofprogress.org](https://blog.rootsofprogress.org)
+ - date_published: 2024-08-18T15:35:56.091125+00:00
+
+ ## The Roots of Progress Fellowship
+ - [https://fellowship.rootsofprogress.org](https://fellowship.rootsofprogress.org)
+ - date_published: 2024-05-04T06:03:06.957347+00:00
+
+ ## The Roots of Progress | Jason Crawford | Substack
+ - [https://newsletter.rootsofprogress.org](https://newsletter.rootsofprogress.org)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## The Roots of Progress
+ - [https://rootsofprogress.org](https://rootsofprogress.org)
+ - date_published: 2023-10-27T12:07:01.975017+00:00
+
+ ## rOpenSci Community Contributing Guide
+ - [https://contributing.ropensci.org](https://contributing.ropensci.org)
+ - date_published: 2024-12-10T13:10:34+00:00
+
+ ## rOpenSci Packages: Development, Maintenance, and Peer Review
+ - [https://devguide.ropensci.org](https://devguide.ropensci.org)
+ - date_published: 2024-12-15T12:29:01+00:00
+
+ ## rOpenSci Discuss
+ - [https://discuss.ropensci.org](https://discuss.ropensci.org)
+ - date_published: 2024-12-15T15:21:13.812168+00:00
+
+ ## rOpenSci
+ - [https://ropensci.org](https://ropensci.org)
+ - date_published: 2024-06-27T15:21:19.885144+00:00
+
+ ## ROR Request Form
+ - [https://curation-request.ror.org](https://curation-request.ror.org)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## Research Organization Registry (ROR)
+ - [https://ror.org](https://ror.org)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Research on Research - Research on Research Hub
+ - [https://ror-hub.org](https://ror-hub.org)
+ - date_published: 2024-08-11T16:24:25.288740+00:00
+
+ ## ROS Discourse
+ - [https://discourse.ros.org](https://discourse.ros.org)
+ - date_published: 2023-10-31T21:37:52.061749+00:00
+
+ ## ROS Documentation
+ - [https://docs.ros.org](https://docs.ros.org)
+ - date_published: 2024-05-23T14:17:15+00:00
+
+ ## ROS Index
+ - [https://index.ros.org](https://index.ros.org)
+ - date_published: 2024-05-24T00:00:00+00:00
+
  ## MoveIt Motion Planning Framework
  - [https://moveit.ros.org](https://moveit.ros.org)
  - date_published: 2024-07-08T13:45:41+00:00
@@ -3944,104 +4047,4 @@
  ## The Science Ambassador Scholarship
  - [https://scienceambassadorscholarship.org](https://scienceambassadorscholarship.org)
  - date_published: 2024-04-25T17:03:56+00:00
-
- ## Science & Global Security
- - [https://scienceandglobalsecurity.org](https://scienceandglobalsecurity.org)
- - date_published: 2024-03-27T11:22:18+00:00
-
- ## Science and Nature
- - [http://scienceandnature.org](http://scienceandnature.org)
- - date_published: 2024-10-29T17:44:30.049349+00:00
-
- ## Toto Macau: Situs Togel Resmi & Agen Togel Online Terpercaya
- - [https://scienceandpublicpolicy.org](https://scienceandpublicpolicy.org)
- - date_published: 2024-09-16T21:03:00.657152+00:00
-
- ## TOTO12 -> AGEN TOGEL RESMI MEMILIKI 82 PASARAN DENGAN HADIAH TERBESAR
- - [https://scienceathon.org](https://scienceathon.org)
- - date_published: 2024-10-19T04:44:03.202758+00:00
-
- ## Science-Based Medicine
- - [https://sciencebasedmedicine.org](https://sciencebasedmedicine.org)
- - date_published: 2023-10-25T22:06:36.641943+00:00
-
- ## Ambitious corporate climate action
- - [https://sciencebasedtargets.org](https://sciencebasedtargets.org)
- - date_published: 2024-05-08T05:36:46.470271+00:00
-
- ## Science Bites – Have a bite of science!
- - [https://sciencebites.org](https://sciencebites.org)
- - date_published: 2020-07-12T00:00:00+00:00
-
- ## Science Summer Camps at Discovery Place
- - [https://www.sciencecamps.org](https://www.sciencecamps.org)
- - date_published: 2024-06-21T22:42:05.555172+00:00
-
- ## Spark Your Imagination | Science Central
- - [https://sciencecentral.org](https://sciencecentral.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Open Science - Creative Commons
- - [https://sciencecommons.org](https://sciencecommons.org)
- - date_published: 2024-10-18T21:21:00.247188+00:00
-
- ## Home
- - [https://science-dao.org](https://science-dao.org)
- - date_published: 2024-05-08T09:59:19.616974+00:00
-
- ## SCIENCEDOMAIN International
- - [https://sciencedomain.org](https://sciencedomain.org)
- - date_published: 2024-04-26T10:47:22+00:00
-
- ## SCIENCEDOMAIN International
- - [https://sciencedomaine.org](https://sciencedomaine.org)
- - date_published: 2024-04-26T10:47:22+00:00
-
- ## SCIENCEDOMAIN International
- - [https://sciencedomains.org](https://sciencedomains.org)
- - date_published: 2024-04-26T10:47:22+00:00
-
- ## Science Fictions | Stuart Ritchie | Substack
- - [https://www.sciencefictions.org](https://www.sciencefictions.org)
- - date_published: 2024-02-26T12:53:14.566139+00:00
-
- ## Togel Hongkong ~ Togel Singapore ~ Situs Togel Online Hari Ini ~ Data Keluaran SGP HK Prize
- - [http://scienceflora.org](http://scienceflora.org)
- - date_published: 2024-10-25T15:23:07+00:00
-
- ## The Nature Conservancy of California – Science for Conservation
- - [https://www.scienceforconservation.org](https://www.scienceforconservation.org)
- - date_published: 2025-01-01T14:22:43+00:00
-
- ## Home Page - Science for Democracy
- - [https://sciencefordemocracy.org](https://sciencefordemocracy.org)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Science Groove - science set to music
- - [http://science-groove.org](http://science-groove.org)
- - date_published: 2024-10-21T04:39:36.156614+00:00
-
- ## Science History Institute Digital Collections
- - [https://digital.sciencehistory.org](https://digital.sciencehistory.org)
- - date_published: 2024-07-18T04:42:37.924491+00:00
-
- ## Science History Institute
- - [https://sciencehistory.org](https://sciencehistory.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Science in Public Research Network
- - [https://scienceinpublic.org](https://scienceinpublic.org)
- - date_published: 2024-10-28T11:00:48+00:00
-
- ## Homepage – Science in School
- - [https://scienceinschool.org](https://scienceinschool.org)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Science Jobs.Org - Science careers in biology, life sciences, chemistry, engineering and other scientific areas.
- - [http://www.sciencejobs.org](http://www.sciencejobs.org)
- - date_published: 2024-12-12T23:48:03.123946+00:00
-
- ## Creating understanding in a complex world
- - [https://scienceliteracyfoundation.org](https://scienceliteracyfoundation.org)
- - date_published: 2024-07-22T18:49:07.219912+00:00
 

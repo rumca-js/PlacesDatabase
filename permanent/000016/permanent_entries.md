@@ -1,3 +1,11 @@
+ ## random pictures/thoughts – rabbi ramrattan
+ - [https://rab.bi](https://rab.bi)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Revolt.BI | ♥ Business Intelligence, datová integrace, konzultace, data science, analýzy
+ - [https://revolt.bi](https://revolt.bi)
+ - date_published: 2023-07-03T13:32:39+00:00
+
  ## RTNB
  - [https://rtnb.bi](https://rtnb.bi)
  - date_published: 2024-06-19T18:12:34.460498+00:00
@@ -4091,12 +4099,4 @@
  ## BNP Paribas CIB - The Bank for a changing world
  - [https://cib.bnpparibas](https://cib.bnpparibas)
  - date_published: 2024-05-17T12:57:56+00:00
-
- ## Global Markets - The bank for a changing world
- - [https://globalmarkets.cib.bnpparibas](https://globalmarkets.cib.bnpparibas)
- - date_published: 2021-03-23T12:19:17+00:00
-
- ## BNP Paribas Securities Services - The bank for a changing world
- - [https://securities.cib.bnpparibas](https://securities.cib.bnpparibas)
- - date_published: 2021-03-18T18:22:17+00:00
 

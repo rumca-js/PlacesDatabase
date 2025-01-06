@@ -1,3 +1,23 @@
+ ## hackjakarta 2024
+ - [https://hackjakarta.eventbrite.com](https://hackjakarta.eventbrite.com)
+ - date_published: 2024-09-23T13:46:39.791666+00:00
+
+ ## hackmexico 2024
+ - [https://hackmexico.eventbrite.com](https://hackmexico.eventbrite.com)
+ - date_published: 2024-09-23T13:47:17.084494+00:00
+
+ ## hacknewyork 2024
+ - [https://hackny.eventbrite.com](https://hackny.eventbrite.com)
+ - date_published: 2024-09-23T13:46:25.906609+00:00
+
+ ## hackseoul 2024
+ - [https://hackseoul.eventbrite.com](https://hackseoul.eventbrite.com)
+ - date_published: 2024-09-23T13:47:12.735172+00:00
+
+ ## hacksingapore 2024
+ - [https://hacksg.eventbrite.com](https://hacksg.eventbrite.com)
+ - date_published: 2024-09-23T13:47:08.068933+00:00
+
  ## hackwarsaw 2024
  - [https://hackwarsaw.eventbrite.com](https://hackwarsaw.eventbrite.com)
  - date_published: 2024-09-23T13:47:22.443031+00:00
@@ -4005,24 +4025,4 @@ Foods | Vegan Egg Protein
  ## EXPO CHICAGO - Chicago International Contemporary Art Fair
  - [https://www.expochicago.com](https://www.expochicago.com)
  - date_published: 2024-06-16T23:13:01.284368+00:00
-
- ## Discover Expo City Dubai | The Human-centric City of the Future
- - [https://www.expocitydubai.com](https://www.expocitydubai.com)
- - date_published: 2024-07-15T07:32:00.226378+00:00
-
- ## EXPOCOMIC
- - [http://www.expocomic.com](http://www.expocomic.com)
- - date_published: 2024-07-13T20:25:50.110308+00:00
-
- ## Inicio 2024 - ADVA
- - [https://expoeva.com](https://expoeva.com)
- - date_published: 2024-07-04T14:54:21+00:00
-
- ## Cure - 345 Park Ave S, NY | May 22, 2024 | Wednesday
- - [https://kcdnewyork2024.expofp.com](https://kcdnewyork2024.expofp.com)
- - date_published: 2024-10-16T16:45:02+00:00
-
- ## ExpoFP Floor Plan
- - [https://wirl2025.expofp.com](https://wirl2025.expofp.com)
- - date_published: 2024-08-20T20:41:45+00:00
 

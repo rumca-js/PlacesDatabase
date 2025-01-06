@@ -1,3 +1,23 @@
+ ## Politics and War Wiki
+ - [https://politicsandwar.fandom.com](https://politicsandwar.fandom.com)
+ - date_published: 2024-05-02T14:48:12.799878+00:00
+
+ ## Polly Pocket (2018 TV series) Wiki
+ - [https://pollypocket2018.fandom.com](https://pollypocket2018.fandom.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Polly Pocket Wiki
+ - [https://pollypocket.fandom.com](https://pollypocket.fandom.com)
+ - date_published: 2024-10-22T09:53:39+00:00
+
+ ## My Little Pony: Pony Life Wiki
+ - [https://ponylife.fandom.com](https://ponylife.fandom.com)
+ - date_published: 2024-09-03T15:45:07+00:00
+
+ ## Pony Vs Pony Wiki
+ - [https://ponyvspony.fandom.com](https://ponyvspony.fandom.com)
+ - date_published: 2024-06-17T15:26:41+00:00
+
  ## Popeye the Sailorpedia
  - [https://popeye.fandom.com](https://popeye.fandom.com)
  - date_published: 2024-06-17T16:30:04+00:00
@@ -3979,24 +3999,4 @@
  ## The Ichinose Family's Deadly Sins Wiki
  - [https://the-ichinose-familys-deadly-sins.fandom.com](https://the-ichinose-familys-deadly-sins.fandom.com)
  - date_published: 2024-06-17T06:10:11+00:00
-
- ## The Incredible Machine Wiki
- - [https://the-incredible-machine.fandom.com](https://the-incredible-machine.fandom.com)
- - date_published: 2024-10-24T10:58:09+00:00
-
- ## The Incredibles Wiki
- - [https://the-incredibles.fandom.com](https://the-incredibles.fandom.com)
- - date_published: 2024-06-17T03:25:35+00:00
-
- ## Jade Cocoon Wiki
- - [https://thejadecocoonproject.fandom.com](https://thejadecocoonproject.fandom.com)
- - date_published: 2024-06-16T20:14:38+00:00
-
- ## The Jetsons Wiki
- - [https://thejetsons.fandom.com](https://thejetsons.fandom.com)
- - date_published: 2024-07-05T12:21:16+00:00
-
- ## The Karate Kid Wiki
- - [https://thekaratekid.fandom.com](https://thekaratekid.fandom.com)
- - date_published: 2024-06-16T21:09:45+00:00
 

@@ -1,3 +1,19 @@
+ ## COINS by coinpaprika | One App For Crypto
+ - [https://coins.coinpaprika.com](https://coins.coinpaprika.com)
+ - date_published: 2024-07-01T10:10:59.910865+00:00
+
+ ## Cryptocurrency Research Platform | Coin Market Capitalizations | Top 100 Cryptocurrencies | Coinpaprika
+ - [https://static.coinpaprika.com](https://static.coinpaprika.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Coinpayu: Earn Online in an Easy Way
+ - [https://www.coinpayu.com](https://www.coinpayu.com)
+ - date_published: 2024-06-21T15:17:10.637239+00:00
+
+ ## Latest News on Bitcoin Price, Ethereum Price, XRP Price, Digital Coins News | CoinsCapture
+ - [https://coinscapture.com](https://coinscapture.com)
+ - date_published: 2024-06-16T04:07:54.672141+00:00
+
  ## Leading Construction Software Solutions
  - [https://www.coins-global.com](https://www.coins-global.com)
  - date_published: 2024-05-04T08:13:28.133991+00:00
@@ -4024,20 +4040,4 @@ Colyvan's Homepage
  ## ComputorEdge Onine
  - [https://computoredge.com](https://computoredge.com)
  - date_published: 2023-06-29T11:28:19+00:00
-
- ## Managed IT Support Computronix CT - IT Services and Solutions
- - [https://computronixusa.com](https://computronixusa.com)
- - date_published: 2024-05-04T12:47:07.266020+00:00
-
- ## The Wolf Eel
- - [https://comraderadmila.com](https://comraderadmila.com)
- - date_published: 2024-10-29T19:25:03.766806+00:00
-
- ## Comrade's Wargames
- - [https://comradewargames.com](https://comradewargames.com)
- - date_published: 2024-12-13T05:55:11.096820+00:00
-
- ## COMRAD | Everyday Compression Socks with Benefits For Men & Women
- - [https://comradsocks.com](https://comradsocks.com)
- - date_published: 2024-04-29T04:31:37.550644+00:00
 

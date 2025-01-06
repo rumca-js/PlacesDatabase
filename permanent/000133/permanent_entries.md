@@ -1,3 +1,31 @@
+ ## Grumpy Gamer
+ - [https://grumpygamer.com](https://grumpygamer.com)
+ - date_published: 2024-02-25T20:35:06.814875+00:00
+
+ ## Grumpy Hacker – Delete Facebook; Bring back the blog
+ - [https://grumpyhacker.com](https://grumpyhacker.com)
+ - date_published: 2019-12-11T18:43:27+00:00
+
+ ## Grumpy Learning — Grumpy Learning — Where even the CSS is grumpy
+ - [https://grumpy-learning.com](https://grumpy-learning.com)
+ - date_published: 2024-03-03T00:00:00+00:00
+
+ ## Grumpy Old Dev
+ - [https://grumpyolddev.com](https://grumpyolddev.com)
+ - date_published: 2024-05-09T02:30:46.795334+00:00
+
+ ## 游戏世界网 - 探索游戏的无限世界
+ - [http://www.grumpyom.com](http://www.grumpyom.com)
+ - date_published: 2024-12-12T21:47:20.674010+00:00
+
+ ## Home - Grundage
+ - [https://grundage.com](https://grundage.com)
+ - date_published: 2021-03-04T00:00:00+00:00
+
+ ## Grundfos
+ - [https://www.grundfos.com](https://www.grundfos.com)
+ - date_published: 2024-06-25T16:54:39.034447+00:00
+
  ## Grundy Reporter
  - [https://grundyreporter.com](https://grundyreporter.com)
  - date_published: 2024-06-27T00:00:00+00:00
@@ -3997,32 +4025,4 @@
  ## HCB changelog
  - [https://changelog.hcb.hackclub.com](https://changelog.hcb.hackclub.com)
  - date_published: 2024-12-27T21:52:46.061785+00:00
-
- ## Counterspell
- - [https://counterspell.hackclub.com](https://counterspell.hackclub.com)
- - date_published: 2024-10-27T08:20:10+00:00
-
- ## Hack Club CSS
- - [https://css.hackclub.com](https://css.hackclub.com)
- - date_published: 2024-06-19T02:30:04.233698+00:00
-
- ## High School Hackathons in 2024 – Hack Club
- - [https://dash.hackathons.hackclub.com](https://dash.hackathons.hackclub.com)
- - date_published: 2024-05-04T09:12:53.045624+00:00
-
- ## Hackclubs Directory - Hackclub
- - [https://directory.hackclub.com](https://directory.hackclub.com)
- - date_published: 2024-05-04T09:13:20.165731+00:00
-
- ## Orpheus finds an easel in the mail – Orpheus' Hacky Guide to Writing a Programming Language
- - [https://easel.hackclub.com](https://easel.hackclub.com)
- - date_published: 2024-05-16T20:05:25.863656+00:00
-
- ## Editor
- - [https://editor.sprig.hackclub.com](https://editor.sprig.hackclub.com)
- - date_published: 2024-05-04T09:13:05.713124+00:00
-
- ## Events – Hack Club
- - [https://events.hackclub.com](https://events.hackclub.com)
- - date_published: 2020-07-24T00:00:00+00:00
 

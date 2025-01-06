@@ -1,3 +1,33 @@
+ ## Help Save Ukraine
+ - [https://helpsaveukraine.com](https://helpsaveukraine.com)
+ - date_published: 2024-10-26T03:02:25.802378+00:00
+
+ ## Help Scout Developers - API Documentation
+      
+      | Help Scout Developers
+ - [https://developer.helpscout.com](https://developer.helpscout.com)
+ - date_published: 2024-06-13T14:00:20+00:00
+
+ ## Help Scout Support
+ - [https://docs.helpscout.com](https://docs.helpscout.com)
+ - date_published: 2024-05-01T06:49:48.205193+00:00
+
+ ## Help Scout: Shared Inbox, Help Center, & Live Chat Software
+ - [https://helpscout.com](https://helpscout.com)
+ - date_published: 2024-05-01T06:19:11.601542+00:00
+
+ ## In the Works | The Ecommerce Issue
+ - [https://intheworks.helpscout.com](https://intheworks.helpscout.com)
+ - date_published: 2024-09-30T12:12:12.422403+00:00
+
+ ## Help Scout Status
+ - [https://status.helpscout.com](https://status.helpscout.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Our Help Scout Brand Guidelines
+ - [https://style.helpscout.com](https://style.helpscout.com)
+ - date_published: 2024-09-30T12:13:17.595791+00:00
+
  ## Knowledge Base
  - [https://accelerate.helpscoutdocs.com](https://accelerate.helpscoutdocs.com)
  - date_published: 2024-09-12T14:27:22.136351+00:00
@@ -4004,33 +4034,4 @@
  ## Hindustan Petroleum Corporation Ltd.
  - [https://www.hindustanpetroleum.com](https://www.hindustanpetroleum.com)
  - date_published: 2024-12-25T03:38:34.093265+00:00
-
- ## A Hindustan Times Group Website - One Network. One Account - java
- - [https://accounts.hindustantimes.com](https://accounts.hindustantimes.com)
- - date_published: 2024-05-23T13:39:37.094763+00:00
-
- ## HT Auto - Car and Bike News India, Reviews, Comparison, Upcoming Car & Bike Models Photos, Videos and Latest Updates
- - [https://auto.hindustantimes.com](https://auto.hindustantimes.com)
- - date_published: 2024-05-23T13:39:45.123874+00:00
-
- ## Bangla News, Latest Bengali News, News in Bangla, বাংলা নিউজ – HT Bangla
- - [https://bangla.hindustantimes.com](https://bangla.hindustantimes.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Hindustan Times ePaper, English News Paper, Today Newspaper, Online News Epaper
- - [https://epaper.hindustantimes.com](https://epaper.hindustantimes.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times
- - [https://hindustantimes.com](https://hindustantimes.com)
- - date_published: 2023-10-25T10:44:25.190390+00:00
- - tags: ['india news', 'tech news']
-
- ## Home - HT School
- - [https://htschool.hindustantimes.com](https://htschool.hindustantimes.com)
- - date_published: 2024-05-23T14:14:45.142727+00:00
-
- ## Kannada News, Kannada News Today, News in Kannada, ಕನ್ನಡ ಸುದ್ದಿ ಕನ್ನಡದಲ್ಲಿ ಸುದ್ದಿ – HT Kannada
- - [https://kannada.hindustantimes.com](https://kannada.hindustantimes.com)
- - date_published: 2024-05-23T14:15:03.416399+00:00
 

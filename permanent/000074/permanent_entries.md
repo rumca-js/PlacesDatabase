@@ -1,3 +1,20 @@
+ ## Oldhammer: 40k Quest
+ - [https://oldhammer40kquest.blogspot.com](https://oldhammer40kquest.blogspot.com)
+ - date_published: 2024-12-19T03:27:00+00:00
+
+ ## Oldhammer as RPG
+ - [https://oldhammerasrpg.blogspot.com](https://oldhammerasrpg.blogspot.com)
+ - date_published: 2024-02-02T18:26:40+00:00
+
+ ## Oldhammer Australia
+ - [http://oldhammeraustralia.blogspot.com](http://oldhammeraustralia.blogspot.com)
+ - date_published: 2024-08-31T13:19:57+00:00
+
+ ## Oldhammer
+ - [https://old-hammer.blogspot.com](https://old-hammer.blogspot.com)
+ - date_published: 2024-05-17T13:13:00+00:00
+ - tags: ['miniatures', 'warhammer', 'wargames']
+
  ## Oldhammer Finland
  - [http://oldhammerfinland.blogspot.com](http://oldhammerfinland.blogspot.com)
  - date_published: 2024-10-07T04:34:10+00:00
@@ -3989,20 +4006,4 @@
  ## POWER POP ACTION!
  - [http://powerpopaction.blogspot.com](http://powerpopaction.blogspot.com)
  - date_published: 2024-11-08T15:37:35+00:00
-
- ## PowerPop
- - [https://powerpop.blogspot.com](https://powerpop.blogspot.com)
- - date_published: 2024-06-28T08:05:00+00:00
-
- ## Power Pop Review
- - [http://powerpopreview.blogspot.com](http://powerpopreview.blogspot.com)
- - date_published: 2024-12-04T12:02:47+00:00
-
- ## PowerPopSquare
- - [https://powerpopsquare.blogspot.com](https://powerpopsquare.blogspot.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## POWERPOPULIST
- - [https://powerpopulist.blogspot.com](https://powerpopulist.blogspot.com)
- - date_published: 2020-01-01T00:00:00+00:00
 
