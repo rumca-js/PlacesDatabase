@@ -1,3 +1,124 @@
+ ## Банка Поштанска штедионица // Најдуже се знамо
+ - [https://www.posted.co.rs](https://www.posted.co.rs)
+ - date_published: 2024-10-16T09:38:14+00:00
+
+ ## IT kursevi programiranja - Cubes IT škola
+ - [https://cubes.edu.rs](https://cubes.edu.rs)
+ - date_published: 2024-10-19T02:02:01.837199+00:00
+
+ ## Izdavačka kuća Finesa
+ - [https://www.finesa.edu.rs](https://www.finesa.edu.rs)
+ - date_published: 2024-07-11T10:50:09.695377+00:00
+
+ ## Министарство науке, технолошког развоја и иновација
+ - [https://nitra.gov.rs](https://nitra.gov.rs)
+ - date_published: 2024-10-18T20:30:48.956680+00:00
+
+ ## Насловна
+ - [https://sec.gov.rs](https://sec.gov.rs)
+ - date_published: 2024-09-23T12:48:29+00:00
+
+ ## Stranica u pripremi / Coming soon
+ - [https://nle.in.rs](https://nle.in.rs)
+ - date_published: 2024-09-16T02:06:10.758026+00:00
+
+ ## ANEM :: Home
+ - [http://www.anem.org.rs](http://www.anem.org.rs)
+ - date_published: 2024-07-15T07:21:59.016569+00:00
+
+ ## Astra - Anti trafficking action
+ - [http://www.astra.org.rs](http://www.astra.org.rs)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Друштво за информатику Србије | Društvo za informatiku Srbije
+ - [https://dis.org.rs](https://dis.org.rs)
+ - date_published: 2024-10-18T20:29:53.881091+00:00
+
+ ## JKP Obrenovac
+ - [http://www.jkpobrenovac.org.rs](http://www.jkpobrenovac.org.rs)
+ - date_published: 2024-07-09T08:27:05.128531+00:00
+
+ ## 16colo.rs - ANSI/ASCII archive
+ - [https://16colo.rs](https://16colo.rs)
+ - date_published: 2024-07-02T21:30:30.759854+00:00
+
+ ## Abarth Srbija
+ - [http://www.abarthsrbija.rs](http://www.abarthsrbija.rs)
+ - date_published: 2024-10-28T21:35:10.606657+00:00
+
+ ## Actix
+ - [https://actix.rs](https://actix.rs)
+ - date_published: 2024-05-08T09:00:03.582198+00:00
+
+ ## Introduction - The Actoromicon
+ - [https://actoromicon.rs](https://actoromicon.rs)
+ - date_published: 2024-07-11T12:45:34+00:00
+
+ ## Najbolja platforma i saveti za traženje posla - Adecco
+ - [https://adecco.rs](https://adecco.rs)
+ - date_published: 2024-10-29T04:25:53.357044+00:00
+
+ ## Najbolji hosting u Srbiji i registracija domena
+ - [https://adriahost.rs](https://adriahost.rs)
+ - date_published: 2024-05-06T08:56:00.670122+00:00
+
+ ## Moj nalog
+ - [https://moj.adriahost.rs](https://moj.adriahost.rs)
+ - date_published: 2024-06-22T20:38:35.438902+00:00
+
+ ## Agromagazin
+ - [https://agromagazin.rs](https://agromagazin.rs)
+ - date_published: 2024-07-03T02:23:38.853547+00:00
+
+ ## Agronetto Srbija – online platforma za prodaju poljoprivrednih mašina i rezervnih delova
+ - [https://agronetto.rs](https://agronetto.rs)
+ - date_published: 2024-08-11T15:39:48.024213+00:00
+
+ ## Airbnb | Smeštaji za odmor, brvnare, kuće na plaži i još mnogo toga
+ - [https://airbnb.rs](https://airbnb.rs)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airmail
+ - [https://airmail.rs](https://airmail.rs)
+ - date_published: 2024-02-17T03:28:02.211764+00:00
+
+ ## home
+ - [https://www.alfaromeosrbija.rs](https://www.alfaromeosrbija.rs)
+ - date_published: 2024-06-03T14:42:06+00:00
+
+ ## Algotech Srbija
+ - [https://www.algotech.rs](https://www.algotech.rs)
+ - date_published: 2022-10-26T00:00:00+00:00
+
+ ## amethyst.rs
+ - [https://amethyst.rs](https://amethyst.rs)
+ - date_published: 2024-08-18T16:39:01.740436+00:00
+
+ ## Organisers
+ - [https://org.anize.rs](https://org.anize.rs)
+ - date_published: 2024-08-07T22:57:50+00:00
+
+ ## A+ programming moments · aplus.rs
+ - [https://aplus.rs](https://aplus.rs)
+ - date_published: 2024-03-16T00:00:00+00:00
+
+ ## Are we async yet?
+ - [https://areweasyncyet.rs](https://areweasyncyet.rs)
+ - date_published: 2023-05-11T09:38:38+00:00
+ - tags: ['rust', 'personal']
+
+ ## Are we game yet?
+ - [https://arewegameyet.rs](https://arewegameyet.rs)
+ - date_published: 2023-10-25T22:35:53.886030+00:00
+
+ ## Ashlanders
+ - [https://ashlande.rs](https://ashlande.rs)
+ - date_published: 2024-08-07T20:33:29.991518+00:00
+
+ ## About - aubrey.rs
+ - [https://aubrey.rs](https://aubrey.rs)
+ - date_published: 2024-07-10T09:44:14.514109+00:00
+
  ## Avokado - IT kompanija specijalizovana za SEO i web razvoj
  - [https://avokado.rs](https://avokado.rs)
  - date_published: 2024-03-16T00:00:00+00:00
@@ -1884,7 +2005,7 @@
  - date_published: 2024-06-07T13:59:44+00:00
 
  ## Интернет-эквайринг CloudPayments | Подключить прием онлайн-платежей
- - [http://cloudpayments.ru](http://cloudpayments.ru)
+ - [https://cloudpayments.ru](https://cloudpayments.ru)
  - date_published: 2024-10-29T09:37:55+00:00
 
  ## CloudTips – Чаевые картой моментально
@@ -3903,125 +4024,4 @@
  ## Женский журнал | Мода, красота и здоровье, светская жизнь, диеты и рецепты на сайте для женщин - Леди Mail.ru
  - [https://lady.mail.ru](https://lady.mail.ru)
  - date_published: 2024-06-02T18:43:27.646150+00:00
-
- ## Mail.ru: почта, поиск, новости, прогноз погоды, гороскоп, программа передач
- - [https://mail.ru](https://mail.ru)
- - date_published: 2024-05-01T06:48:28.144335+00:00
- - tags: ['mail server']
-
- ## Маруся — ваша голосовая помощница от Mail.ru
- - [https://marusia-web.go.mail.ru](https://marusia-web.go.mail.ru)
- - date_published: 2024-06-02T18:43:28.901784+00:00
-
- ## VK Cloud ☁ Облачная ИТ-платформа бизнес-класса от VK
- - [https://mcs.mail.ru](https://mcs.mail.ru)
- - date_published: 2024-06-20T13:29:23+00:00
-
- ## Mail: Почта, Облако, Календарь, Заметки, Покупки — сервисы для работы и жизни
- - [https://media-trend.mail.ru](https://media-trend.mail.ru)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Мой Мир
- - [https://m.my.mail.ru](https://m.my.mail.ru)
- - date_published: 2024-06-29T05:18:06.224953+00:00
-
- ## My World@Mail.Ru: stay in touch with your classmates and friends
- - [https://my.mail.ru](https://my.mail.ru)
- - date_published: 2024-06-29T05:18:32.241843+00:00
-
- ## Новости России и мира, последние события на сегодня
- - [https://news.mail.ru](https://news.mail.ru)
- - date_published: 2024-06-02T18:43:35.106972+00:00
-
- ## VK
- - [https://nonstandard.sales.mail.ru](https://nonstandard.sales.mail.ru)
- - date_published: 2024-09-04T06:21:29.157526+00:00
-
- ## Авторизация через OAuth 2.0 от Mail.ru
- - [https://o2.mail.ru](https://o2.mail.ru)
- - date_published: 2024-06-20T12:16:33+00:00
-
- ## Авторизация через OAuth 2.0 от Mail.ru
- - [https://oauth.mail.ru](https://oauth.mail.ru)
- - date_published: 2024-06-07T07:34:37+00:00
-
- ## Питомцы Mail.ru
- - [https://pets.mail.ru](https://pets.mail.ru)
- - date_published: 2024-06-02T18:43:52.147415+00:00
-
- ## В Гожув-Велькопольски (воскресенье, 2 июня 2024, 20:44) 21°C, гроза
- - [https://pogoda.mail.ru](https://pogoda.mail.ru)
- - date_published: 2024-06-02T18:44:04.146505+00:00
-
- ## Postmaster Mail.ru
- - [https://postmaster.mail.ru](https://postmaster.mail.ru)
- - date_published: 2025-01-02T13:05:39.949276+00:00
-
- ## Промокоды на hi-tech.mail.ru | Скидки, купоны, распродажи
- - [https://promocodes.hi-tech.mail.ru](https://promocodes.hi-tech.mail.ru)
- - date_published: 2024-09-04T06:27:27.780410+00:00
-
- ## Рекламная платформа myTarget — Сервис таргетированной рекламы
- - [https://r3.mail.ru](https://r3.mail.ru)
- - date_published: 2024-07-08T08:48:01.803325+00:00
-
- ## Рекламная платформа myTarget — Сервис таргетированной рекламы
- - [https://r.mail.ru](https://r.mail.ru)
- - date_published: 2024-06-16T12:57:14.088389+00:00
-
- ## Рекламная платформа myTarget — Сервис таргетированной рекламы
- - [https://rs.mail.ru](https://rs.mail.ru)
- - date_published: 2024-06-02T18:43:36.417422+00:00
-
- ## Статус работы | VK Cloud
- - [https://status.mcs.mail.ru](https://status.mcs.mail.ru)
- - date_published: 2024-06-23T12:45:27.143196+00:00
-
- ## ESMP CP
- - [https://support.mcs.mail.ru](https://support.mcs.mail.ru)
- - date_published: 2024-06-17T15:53:20+00:00
-
- ## Телепрограмма на сегодня —&nbsp;Москва
- - [https://tv.mail.ru](https://tv.mail.ru)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## ВФокусе - всё самое актуальное, интересное и необычное, что происходило в России и мире
- - [https://vfokuse.mail.ru](https://vfokuse.mail.ru)
- - date_published: 2024-06-02T18:43:47.916958+00:00
-
- ## Video Mail.Ru
- - [https://video.mail.ru](https://video.mail.ru)
- - date_published: 2024-05-07T09:19:09.352844+00:00
-
- ## Перенаправление
- - [https://vk.mail.ru](https://vk.mail.ru)
- - date_published: 2024-06-29T13:36:19.704008+00:00
-
- ## Блог Mail
- - [https://whatsnew.mail.ru](https://whatsnew.mail.ru)
- - date_published: 2024-09-04T06:29:59.521956+00:00
-
- ## Календарь Mail.ru
- - [https://x.calendar.mail.ru](https://x.calendar.mail.ru)
- - date_published: 2024-06-02T18:43:46.335421+00:00
-
- ## www.make-it-in-germany.com/ru
- - [https://www.make-it-in-germany.ru](https://www.make-it-in-germany.ru)
- - date_published: 2024-07-13T17:32:24.729285+00:00
-
- ## Центр лечения боли Тольятти
- - [https://managmentpain.ru](https://managmentpain.ru)
- - date_published: 2024-07-10T11:18:29+00:00
-
- ## Издательство МИФ
- - [https://www.mann-ivanov-ferber.ru](https://www.mann-ivanov-ferber.ru)
- - date_published: 2024-06-21T19:58:16.130020+00:00
-
- ## Авторизация
- - [https://intranet.marvel.ru](https://intranet.marvel.ru)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Мебельная фабрика Мария: кухни, шкафы, ванные, диваны на заказ
- - [https://perm.marya.ru](https://perm.marya.ru)
- - date_published: 2024-12-28T06:43:16.796647+00:00
 

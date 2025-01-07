@@ -1,3 +1,39 @@
+ ## Galbraith Communications
+ - [https://galbraithcommunications.com](https://galbraithcommunications.com)
+ - date_published: 2023-12-16T17:21:07+00:00
+
+ ## Galactic Civilizations III
+ - [https://www.galciv3.com](https://www.galciv3.com)
+ - date_published: 2024-12-30T18:24:18.542524+00:00
+
+ ## Galactic Civilizations IV Forums
+ - [https://forums.galciv4.com](https://forums.galciv4.com)
+ - date_published: 2024-09-28T21:22:47.206733+00:00
+
+ ## Galactic Civilizations IV: Supernova - Discover new adventures and rule the galaxy your way in this 4X sandbox game.
+ - [https://www.galciv4.com](https://www.galciv4.com)
+ - date_published: 2024-06-16T08:47:08.170481+00:00
+
+ ## Galco Home
+ - [http://www.galco.com](http://www.galco.com)
+ - date_published: 2024-07-09T23:33:36.352559+00:00
+
+ ## Home
+ - [https://galderma.com](https://galderma.com)
+ - date_published: 2024-06-15T15:17:37.325105+00:00
+
+ ## Gale Blog: Library & Educator News | K12, Academic & Public
+ - [https://blog.gale.com](https://blog.gale.com)
+ - date_published: 2024-10-20T10:59:05.818550+00:00
+
+ ## Scholarly Resources for Learning and Research | Gale
+ - [http://gale.com](http://gale.com)
+ - date_published: 2024-10-20T10:58:49.885559+00:00
+
+ ## The #1 AI voice note app
+ - [https://galeby.com](https://galeby.com)
+ - date_published: 2024-06-19T20:56:30.996154+00:00
+
  ## GALEGÓVSKI.com
  - [https://galegovski.com](https://galegovski.com)
  - date_published: 2024-05-27T07:01:29.977261+00:00
@@ -4017,40 +4053,4 @@
  ## Homepage | GCP Applied Technologies
  - [https://gcpat.com](https://gcpat.com)
  - date_published: 2024-12-21T11:33:11.930895+00:00
-
- ## Homepage | GCP Applied Technologies
- - [http://www.gcpat.com](http://www.gcpat.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Google Cloud Platform Podcast
- - [https://www.gcppodcast.com](https://www.gcppodcast.com)
- - date_published: 2024-05-06T13:33:29.531677+00:00
-
- ## General Counsel Sustainability Forum
- - [https://gcsforum.com](https://gcsforum.com)
- - date_published: 2024-09-12T17:15:53.070627+00:00
-
- ## Investor Relations | 8x8, Inc.
- - [https://8x8.gcs-web.com](https://8x8.gcs-web.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Investor Relations | Asana, Inc.
- - [https://asana.gcs-web.com](https://asana.gcs-web.com)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Investor Overview | Baidu Inc
- - [https://baidu.gcs-web.com](https://baidu.gcs-web.com)
- - date_published: 2024-07-14T04:10:44+00:00
-
- ## Investor Relations | Bang & Olufsen A/S
- - [http://bangandolufsen.gcs-web.com](http://bangandolufsen.gcs-web.com)
- - date_published: 2024-10-20T23:06:18.575013+00:00
-
- ## Dropbox Investor Relations | Dropbox
- - [https://dropbox.gcs-web.com](https://dropbox.gcs-web.com)
- - date_published: 2024-06-16T20:26:28+00:00
-
- ## Investor Relations | EnerSys
- - [https://enersysinc.gcs-web.com](https://enersysinc.gcs-web.com)
- - date_published: 2025-01-02T21:10:47+00:00
 

@@ -1,3 +1,91 @@
+ ## Institut für Informatik - Institut für Informatik
+ - [https://informatik.uni-wuerzburg.de](https://informatik.uni-wuerzburg.de)
+ - date_published: 2024-05-06T19:58:51.128516+00:00
+
+ ## Juristische Fakultät - Juristische Fakultät
+ - [https://jura.uni-wuerzburg.de](https://jura.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:52.681173+00:00
+
+ ## Katalog der Universitätsbibliothek Würzburg
+ - [https://katalog.bibliothek.uni-wuerzburg.de](https://katalog.bibliothek.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:09.318464+00:00
+
+ ## Institut für Klassische Philologie - Institut für klassische Philologie
+ - [https://klassphil.uni-wuerzburg.de](https://klassphil.uni-wuerzburg.de)
+ - date_published: 2024-07-19T23:09:55.940858+00:00
+
+ ## Login - KursShop
+ - [https://kursshop.rz.uni-wuerzburg.de](https://kursshop.rz.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:40:46.475925+00:00
+
+ ## Sign in to your account
+ - [https://lecture.uni-wuerzburg.de](https://lecture.uni-wuerzburg.de)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## JMU Mail
+ - [https://mail.uni-wuerzburg.de](https://mail.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:40:45.228610+00:00
+
+ ## Fakultät für Mathematik und Informatik - Fakultät für Mathematik und Informatik
+ - [https://mathematik-informatik.uni-wuerzburg.de](https://mathematik-informatik.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:34.925604+00:00
+
+ ## Institut für Mathematik - Institut für Mathematik
+ - [https://mathematik.uni-wuerzburg.de](https://mathematik.uni-wuerzburg.de)
+ - date_published: 2024-06-26T22:12:48.960789+00:00
+
+ ## Institut Mensch-Computer-Medien - Mensch-Computer-Medien
+ - [https://mcm.uni-wuerzburg.de](https://mcm.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:40.187166+00:00
+
+ ## Neuigkeiten
+ - [https://mcs.phil2.uni-wuerzburg.de](https://mcs.phil2.uni-wuerzburg.de)
+ - date_published: 2024-06-10T07:16:19+00:00
+
+ ## Medizinische Fakultät - Medizinische Fakultät
+ - [https://med.uni-wuerzburg.de](https://med.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:44.042071+00:00
+
+ ## Institut für Musikforschung - Institut für Musikforschung
+ - [https://musikwissenschaft.uni-wuerzburg.de](https://musikwissenschaft.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:41:39.461403+00:00
+
+ ## Neuphilologisches Institut - Neuphilologisches Institut – Moderne Fremdsprachen
+ - [https://neuphil.uni-wuerzburg.de](https://neuphil.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:06.418518+00:00
+
+ ## OPUS Würzburg | HOME
+ - [https://opus.bibliothek.uni-wuerzburg.de](https://opus.bibliothek.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:32:01.582452+00:00
+
+ ## Institut für Pädagogik - Institut für Pädagogik
+ - [https://paedagogik.uni-wuerzburg.de](https://paedagogik.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:34.811812+00:00
+
+ ## Institut für Pharmazie und Lebensmittelchemie - Institut für Pharmazie und Lebensmittelchemie
+ - [https://pharmazie.uni-wuerzburg.de](https://pharmazie.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:41:19.726003+00:00
+
+ ## Institut für Philosophie - Institut für Philosophie
+ - [https://philosophie.uni-wuerzburg.de](https://philosophie.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:47.157236+00:00
+
+ ## Philosophische Fakultät - Philosophische Fakultät
+ - [https://phil.uni-wuerzburg.de](https://phil.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:32.909215+00:00
+
+ ## Fakultät für Physik und Astronomie - Fakultät für Physik und Astronomie
+ - [https://physik.uni-wuerzburg.de](https://physik.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:11.493804+00:00
+
+ ## Institut für Politikwissenschaft und Soziologie - Institut für Politikwissenschaft und Soziologie
+ - [https://politikwissenschaft.uni-wuerzburg.de](https://politikwissenschaft.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:42.472987+00:00
+
+ ## Institut für Psychologie - Institut für Psychologie
+ - [https://psychologie.uni-wuerzburg.de](https://psychologie.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:49.676635+00:00
+
  ## Rechenzentrum & IT-Dienste - Rechenzentrum
  - [https://rz.uni-wuerzburg.de](https://rz.uni-wuerzburg.de)
  - date_published: 2024-04-29T07:01:39.299213+00:00
@@ -3984,93 +4072,4 @@ Bibliotheken / Z39.50
  ## DIE ZEIT Shop - Besondere Ideen, erlesene Geschenke
  - [https://shop.zeit.de](https://shop.zeit.de)
  - date_published: 2024-04-29T07:11:53.071897+00:00
-
- ## Spiele und Rätsel
- - [https://spiele.zeit.de](https://spiele.zeit.de)
- - date_published: 2024-04-29T07:12:18.003863+00:00
-
- ## 404 Fehler
- - [https://static.zeit.de](https://static.zeit.de)
- - date_published: 2024-04-29T07:11:43.281389+00:00
- - date_dead_since: 2024-12-10T23:13:25.911660+00:00
-
- ## Die besten Studiengänge finden mit HeyStudium
- - [https://studiengaenge.zeit.de](https://studiengaenge.zeit.de)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## KonsoleH Login
- - [https://studio.zeit.de](https://studio.zeit.de)
- - date_published: 2024-07-24T02:47:43.830922+00:00
-
- ## Sudoku online spielen | ZEIT Spiele
- - [https://sudoku.zeit.de](https://sudoku.zeit.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## ZEIT Talent - for visible Employer Brands
- - [https://talent.zeit.de](https://talent.zeit.de)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Freunde der ZEIT - Das Programm für alle Abonnentinnen und Abonnenten
- - [https://verlag.zeit.de](https://verlag.zeit.de)
- - date_published: 2024-04-29T07:12:57.977695+00:00
-
- ## ZEIT ONLINE Startseite
- - [https://zeit.de](https://zeit.de)
- - date_published: 2024-07-24T02:52:47.180641+00:00
-
- ## Startseite | ZEIT REISEN - Reiseprogramm der ZEIT
- - [https://zeitreisen.zeit.de](https://zeitreisen.zeit.de)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Die Zukunft des Lernens hat begonnen - Die ZEIT Akademie
- - [https://cdn.zeitakademie.de](https://cdn.zeitakademie.de)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Die Zukunft des Lernens hat begonnen - Die ZEIT Akademie
- - [https://img.zeitakademie.de](https://img.zeitakademie.de)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Laravel
- - [https://prod.v3.zeitakademie.de](https://prod.v3.zeitakademie.de)
- - date_published: 2024-08-11T07:41:57+00:00
-
- ## Die Zukunft des Lernens hat begonnen - Die ZEIT Akademie
- - [https://zeitakademie.de](https://zeitakademie.de)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## ZEIT für die Schule – Startseite
- - [https://www.zeitfuerdieschule.de](https://www.zeitfuerdieschule.de)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## ZEIT für X – Startseite
- - [https://zeitfuerx.de](https://zeitfuerx.de)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Uhrenmagazin ZEITGEFÜHL | Die besten Uhren und Uhrenmarken der Welt
- - [https://www.zeitgefuehl.de](https://www.zeitgefuehl.de)
- - date_published: 2024-10-14T17:44:20.586441+00:00
-
- ## Home
- - [http://www.zeitgewinn-hamburg.de](http://www.zeitgewinn-hamburg.de)
- - date_published: 2025-01-01T06:45:58.025807+00:00
-
- ## Home
- - [http://zeitgewinn-hamburg.de](http://zeitgewinn-hamburg.de)
- - date_published: 2025-01-01T06:45:59.025066+00:00
-
- ## ZEIT LEO – Das Kindermagazin der ZEIT für Mädchen und Jungen ab 7 Jahren.
- - [https://zeitleo.de](https://zeitleo.de)
- - date_published: 2024-12-10T23:04:53.537999+00:00
-
- ## Ganz einfach Sprachen lernen mit ZEIT SPRACHEN!
- - [https://angebot.zeit-sprachen.de](https://angebot.zeit-sprachen.de)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## ZEIT SPRACHEN Online-Shop - Abos und Einzelhefte bestellen
- - [https://shop.zeit-sprachen.de](https://shop.zeit-sprachen.de)
- - date_published: 2024-07-24T02:52:12.838786+00:00
-
- ## ZEIT SPRACHEN – effektives Sprachenlernen mit Genuss. Lesen, hören, üben.
- - [https://zeit-sprachen.de](https://zeit-sprachen.de)
- - date_published: 2024-09-20T15:34:57.522747+00:00
 

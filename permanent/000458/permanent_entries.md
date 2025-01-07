@@ -1,3 +1,123 @@
+ ## KAUST Discovery - From curiosity to innovation
+ - [https://discovery.kaust.edu.sa](https://discovery.kaust.edu.sa)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home | Winter Enrichment Program 2024 at KAUST
+ - [https://enrichment.kaust.edu.sa](https://enrichment.kaust.edu.sa)
+ - date_published: 2024-01-09T12:12:13+00:00
+
+ ## Home
+ - [https://facultylife.kaust.edu.sa](https://facultylife.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:14.628809+00:00
+
+ ## KAUST Innovation
+ - [https://innovation.kaust.edu.sa](https://innovation.kaust.edu.sa)
+ - date_published: 2015-04-01T20:00:49+00:00
+
+ ## Home - KAUST Insight
+ - [https://insight.kaust.edu.sa](https://insight.kaust.edu.sa)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Image and Video Understanding Lab | IVUL | Image and Video Understanding Lab
+ - [http://ivul.kaust.edu.sa](http://ivul.kaust.edu.sa)
+ - date_published: 2024-08-07T14:40:18+00:00
+
+ ## King Abdullah University of Science and Technology | KAUST
+ - [https://kaust.edu.sa](https://kaust.edu.sa)
+ - date_published: 2024-04-28T03:52:58.644832+00:00
+
+ ## HOME
+ - [https://kgfp.kaust.edu.sa](https://kgfp.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:22.244718+00:00
+
+ ## Community Map
+ - [https://maps.kaust.edu.sa](https://maps.kaust.edu.sa)
+ - date_published: 2024-07-02T06:48:05+00:00
+
+ ## Museum of Science & Technology in Islam
+ - [https://museum.kaust.edu.sa](https://museum.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:45.045140+00:00
+
+ ## Home
+ - [https://ora.kaust.edu.sa](https://ora.kaust.edu.sa)
+ - date_published: 2024-08-07T14:29:10.327897+00:00
+
+ ## PSE
+ - [https://pse.kaust.edu.sa](https://pse.kaust.edu.sa)
+ - date_published: 2024-08-07T14:29:06.588964+00:00
+
+ ## HOME
+ - [https://registrar.kaust.edu.sa](https://registrar.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:48.454046+00:00
+
+ ## Research Compliance
+ - [https://researchcompliance.kaust.edu.sa](https://researchcompliance.kaust.edu.sa)
+ - date_published: 2023-03-31T07:07:08+00:00
+
+ ## Home
+ - [https://rfs.kaust.edu.sa](https://rfs.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:58.353034+00:00
+
+ ## Home
+ - [https://rtp.kaust.edu.sa](https://rtp.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:16.376400+00:00
+
+ ## Home
+ - [https://smarthealth.kaust.edu.sa](https://smarthealth.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:13.148951+00:00
+
+ ## Home | Kaust Sustainability
+ - [https://sustainability.kaust.edu.sa](https://sustainability.kaust.edu.sa)
+ - date_published: 2024-08-07T14:38:29.458725+00:00
+
+ ## THE LENS | KAUST News & Updates
+ - [https://thelens.kaust.edu.sa](https://thelens.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:37.273992+00:00
+
+ ## HOME
+ - [https://tie.kaust.edu.sa](https://tie.kaust.edu.sa)
+ - date_published: 2024-04-01T19:01:15+00:00
+
+ ## Visual Computing Center | VCC | Visual Computing Center
+ - [http://vcc.kaust.edu.sa](http://vcc.kaust.edu.sa)
+ - date_published: 2024-08-07T11:28:41+00:00
+
+ ## Home
+ - [https://vsrp.kaust.edu.sa](https://vsrp.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:19.266166+00:00
+
+ ## الصفحة الرئيسية
+ - [https://admissions.kfupm.edu.sa](https://admissions.kfupm.edu.sa)
+ - date_published: 2024-09-04T05:31:22.769172+00:00
+
+ ## KFUPM Alum Portal
+ - [https://alum.kfupm.edu.sa](https://alum.kfupm.edu.sa)
+ - date_published: 2021-10-29T00:00:00+00:00
+
+ ## KFUPM Alum Portal
+ - [http://alumni.kfupm.edu.sa](http://alumni.kfupm.edu.sa)
+ - date_published: 2021-10-29T00:00:00+00:00
+
+ ## KFUPM
+ - [https://apply.kfupm.edu.sa](https://apply.kfupm.edu.sa)
+ - date_published: 2024-09-04T05:31:25.541394+00:00
+
+ ## Blackboard Learn
+ - [https://blackboard.kfupm.edu.sa](https://blackboard.kfupm.edu.sa)
+ - date_published: 2004-09-04T05:31:21+00:00
+
+ ## Home | CGIS
+ - [https://cgis.kfupm.edu.sa](https://cgis.kfupm.edu.sa)
+ - date_published: 2024-09-04T05:31:36.966618+00:00
+
+ ## Deanship of Academic Development
+ - [https://dad.kfupm.edu.sa](https://dad.kfupm.edu.sa)
+ - date_published: 2024-08-21T00:00:00+00:00
+
+ ## Dalil - King Fahd University of Petroleum and Minerals
+ - [https://dalil.kfupm.edu.sa](https://dalil.kfupm.edu.sa)
+ - date_published: 2024-09-04T05:31:20.167626+00:00
+
  ## Welcome to KFUPM ePrints - KFUPM ePrints
  - [https://eprints.kfupm.edu.sa](https://eprints.kfupm.edu.sa)
  - date_published: 2024-09-04T05:31:16.680105+00:00
@@ -3899,125 +4019,4 @@
  ## KB URN resolver
  - [https://urn.kb.se](https://urn.kb.se)
  - date_published: 2024-06-16T22:22:41.211156+00:00
-
- ## kebab-case
- - [https://blog.kebab-ca.se](https://blog.kebab-ca.se)
- - date_published: 2023-08-13T18:04:56+00:00
-
- ## Christoffer Lindahl Hassel - PHP, web, barcodes and receipt printers
- - [https://kekos.se](https://kekos.se)
- - date_published: 2024-05-09T07:46:03.200903+00:00
-
- ## Home | Kellogg's
- - [https://www.kelloggs.se](https://www.kelloggs.se)
- - date_published: 2024-12-16T10:44:51+00:00
-
- ## khalid.se
- - [https://khalid.se](https://khalid.se)
- - date_published: 2024-07-06T17:37:23+00:00
-
- ## Education at Karolinska Institutet
- - [https://education.ki.se](https://education.ki.se)
- - date_published: 2024-08-18T16:32:36+00:00
-
- ## Home | Face of AIDS Film Archive
- - [https://faceofaids.ki.se](https://faceofaids.ki.se)
- - date_published: 2024-07-02T19:42:03+00:00
-
- ## Karolinska Institutet - ett medicinskt universitet
- - [https://ki.se](https://ki.se)
- - date_published: 2024-07-10T11:37:09+00:00
-
- ## Medarbetarportalen
- - [https://medarbetare.ki.se](https://medarbetare.ki.se)
- - date_published: 2024-08-11T13:31:50+00:00
-
- ## Svensk MeSH
- - [https://mesh.kib.ki.se](https://mesh.kib.ki.se)
- - date_published: 2024-07-02T19:44:30.353942+00:00
-
- ## | Karolinska Institutet Nyheter
- - [https://news.ki.se](https://news.ki.se)
- - date_published: 2023-10-25T22:37:27.296477+00:00
-
- ## | Karolinska Institutet Nyheter
- - [https://nyheter.ki.se](https://nyheter.ki.se)
- - date_published: 2024-02-26T08:30:31.854521+00:00
-
- ## KI PLAY
- - [https://play.ki.se](https://play.ki.se)
- - date_published: 2024-07-02T19:44:35+00:00
-
- ## | Staff Portal
- - [https://staff.ki.se](https://staff.ki.se)
- - date_published: 2024-08-18T16:33:40+00:00
-
- ## Studera på Karolinska Institutet
- - [https://utbildning.ki.se](https://utbildning.ki.se)
- - date_published: 2024-08-11T13:35:31+00:00
-
- ## Köksredskap & kökstillbehör för foodies | KitchenLab
- - [https://www.kitchenlab.se](https://www.kitchenlab.se)
- - date_published: 2024-06-16T11:30:27.146554+00:00
-
- ## Väder Sverige - Klart.se
- - [https://www.klart.se](https://www.klart.se)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Enhanced knowledge with E-Learning - KlickData
- - [https://klickdata.se](https://klickdata.se)
- - date_published: 2024-10-30T09:03:36+00:00
-
- ## Klimatpolitiska Rådet | Swedish Climate Policy Council
- - [https://www.klimatpolitiskaradet.se](https://www.klimatpolitiskaradet.se)
- - date_published: 2024-12-12T09:57:03.540984+00:00
-
- ## Home | klippel.se
- - [https://klippel.se](https://klippel.se)
- - date_published: 2025-01-05T08:56:59.128778+00:00
- - tags: ['personal']
-
- ## Parked at Loopia
- - [http://klockren.se](http://klockren.se)
- - date_published: 2024-06-23T17:51:14.516634+00:00
-
- ## Klokskap i Väst AB
- - [http://klokskap.se](http://klokskap.se)
- - date_published: 2024-06-21T13:47:13.845499+00:00
-
- ## Knackeriet Coworking Space - Old Town - Stockholm
- - [http://knackeriet.se](http://knackeriet.se)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Knowits it-konsulter säkerställer digital transformation
- - [http://knowit.se](http://knowit.se)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Kobler | Kontekstuell markedsføring
- - [https://kobler.se](https://kobler.se)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## @kockumsjernverk
- - [https://www.kockumsjernverk.se](https://www.kockumsjernverk.se)
- - date_published: 2024-10-03T08:43:58.136518+00:00
-
- ## B3 Kodify AB - Ett Konsultbolag i Malmö & Stockholm
- - [https://www.kodify.se](https://www.kodify.se)
- - date_published: 2024-10-17T21:50:45.658419+00:00
-
- ## Sergei Kolesnikov's home page
- - [https://kolesnikov.se](https://kolesnikov.se)
- - date_published: 2024-04-19T00:52:11+00:00
-
- ## Home page - Antirio Supplier Hub
- - [https://www.kommersannons.se](https://www.kommersannons.se)
- - date_published: 2024-06-16T22:22:43.938194+00:00
-
- ## Konditori Jakobsdahl - Traditionellt Bageri i Sverige
- - [https://konditorijakobsdahl.se](https://konditorijakobsdahl.se)
- - date_published: 2024-08-07T21:17:56.284302+00:00
-
- ## Konecranes
- - [https://www.konecranes.se](https://www.konecranes.se)
- - date_published: 2024-06-20T23:03:15.978542+00:00
 

@@ -1,3 +1,28 @@
+ ## Chromium
+ - [https://crbug.com](https://crbug.com)
+ - date_published: 2024-04-23T15:29:15+00:00
+ - tags: ['chromium', 'bug reporting']
+
+ ## The Costa Rica Daily: Costa Rica News & Travel | Alejandro Zúñiga | Substack
+ - [https://www.crcdaily.com](https://www.crcdaily.com)
+ - date_published: 2023-10-25T13:36:13.040529+00:00
+
+ ## CRC Home Page
+ - [https://crcfirm.com](https://crcfirm.com)
+ - date_published: 2021-05-21T00:00:00+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://support.crcnetbase.com](http://support.crcnetbase.com)
+ - date_published: 2022-04-19T02:00:59+00:00
+
+ ## Routledge - Publisher of Professional & Academic Books
+ - [https://crcpress.com](https://crcpress.com)
+ - date_published: 2024-05-07T15:03:07.657658+00:00
+
+ ## Charles River Investment Management Solution I Charles River IMS
+ - [https://www.crd.com](https://www.crd.com)
+ - date_published: 2015-12-15T19:01:53+00:00
+
  ## Cre8d Design: Award-winning Custom Wordpress Theme Designers
  - [http://www.cre8d-design.com](http://www.cre8d-design.com)
  - date_published: 2024-03-20T00:00:00+00:00
@@ -4018,29 +4043,4 @@
  ## Singapore Chinese Restaurant
  - [https://crystaljade.com](https://crystaljade.com)
  - date_published: 2024-05-06T13:20:06.340483+00:00
-
- ## Crystal Jade
- - [https://kh.crystaljade.com](https://kh.crystaljade.com)
- - date_published: 2024-06-23T02:15:30.614741+00:00
-
- ## Crystal Lee (she/她)
- - [https://crystaljjlee.com](https://crystaljjlee.com)
- - date_published: 2024-01-06T09:05:11.908675+00:00
- - tags: ['personal']
-
- ## Crystal | The Personality Data Platform - DISC Personality Profiles for Any Buyer
- - [https://crystalknows.com](https://crystalknows.com)
- - date_published: 2024-06-19T19:10:29.268731+00:00
-
- ## Crystal Developer API
- - [https://developers.crystalknows.com](https://developers.crystalknows.com)
- - date_published: 2024-10-30T10:12:49.374453+00:00
-
- ## Help Center
- - [https://docs.crystalknows.com](https://docs.crystalknows.com)
- - date_published: 2024-10-25T08:11:52+00:00
-
- ## Transform any location into an idyllic beach paradise
- - [https://crystal-lagoons.com](https://crystal-lagoons.com)
- - date_published: 2024-06-27T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## Department of Education
+ - [https://www.education.gov.au](https://www.education.gov.au)
+ - date_published: 2024-06-06T00:00:00+00:00
+
  ## | energy.gov.au
  - [https://www.energy.gov.au](https://www.energy.gov.au)
  - date_published: 2024-06-15T09:13:43+00:00
@@ -4006,8 +4010,4 @@
  ## Vrijeme & Radar Bosna i Hercegovina
  - [https://vrijemeradar.ba](https://vrijemeradar.ba)
  - date_published: 2024-05-07T13:25:20.099072+00:00
-
- ## Izbor jezika
- - [https://mod.gov.ba](https://mod.gov.ba)
- - date_published: 1999-01-01T00:00:00+00:00
 

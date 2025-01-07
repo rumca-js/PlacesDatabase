@@ -1,3 +1,115 @@
+ ## SP DX Club – Stowarzyszenie Miłośników Dalekosiężnych Łączności Radiowych
+ - [http://www.spdxc.org](http://www.spdxc.org)
+ - date_published: 2024-07-15T04:11:40.766383+00:00
+
+ ## Society of Petroleum Engineers (SPE) | Oil & Gas Membership Association
+ - [http://www.spe.org](http://www.spe.org)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## SPEAKEZEE.ORG
+ - [https://speakezee.org](https://speakezee.org)
+ - date_published: 2024-06-29T02:57:45.918687+00:00
+
+ ## Speakit – Film & TV Production
+ - [https://www.speakit.org](https://www.speakit.org)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Welcome to ICPE2020: ICPE 2020
+ - [https://icpe2020.spec.org](https://icpe2020.spec.org)
+ - date_published: 2021-03-09T14:22:10+00:00
+
+ ## SPEC Research Group
+ - [https://research.spec.org](https://research.spec.org)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Abu Simbel: Secret of Ramses
+ - [http://abusimbel2.speccy.org](http://abusimbel2.speccy.org)
+ - date_published: 2006-06-25T11:55:50+00:00
+
+ ## Akton Films
+ - [http://aktonfilms.speccy.org](http://aktonfilms.speccy.org)
+ - date_published: 2007-10-22T21:20:07+00:00
+
+ ## Bacteria, el emulador mas pequeño del mundo
+ - [http://bacteria.speccy.org](http://bacteria.speccy.org)
+ - date_published: 2012-11-06T12:30:39+00:00
+
+ ## B.A.S.E.
+ - [http://base.speccy.org](http://base.speccy.org)
+ - date_published: 2008-03-01T20:06:18+00:00
+
+ ## Página de Bibosoft
+ - [http://bibosoft.speccy.org](http://bibosoft.speccy.org)
+ - date_published: 2014-11-26T22:37:21+00:00
+
+ ## Alexander Podzhunas ZX-Projects/TAP VERSION
+ - [http://biotoxin.speccy.org](http://biotoxin.speccy.org)
+ - date_published: 2011-01-11T16:52:26+00:00
+
+ ## Documento sin título
+ - [http://canadul.speccy.org](http://canadul.speccy.org)
+ - date_published: 2023-10-31T11:23:01+00:00
+
+ ## CargandoLeches
+ - [http://cargandoleches.speccy.org](http://cargandoleches.speccy.org)
+ - date_published: 2012-06-09T14:18:02+00:00
+
+ ## Compiler Software
+ - [https://compiler.speccy.org](https://compiler.speccy.org)
+ - date_published: 2024-05-09T09:07:05.232781+00:00
+
+ ## Curso de Código Máquina del ZX-Spectrum
+ - [http://curso-cm.speccy.org](http://curso-cm.speccy.org)
+ - date_published: 2003-09-25T08:53:47+00:00
+
+ ## CZArg -Sitio dedicado al Spectrum Argentino y su familia.
+ - [http://czarg.speccy.org](http://czarg.speccy.org)
+ - date_published: 2021-06-01T00:00:00+00:00
+
+ ## CZ Spectrum
+ - [http://czspectrum.speccy.org](http://czspectrum.speccy.org)
+ - date_published: 2002-10-24T18:44:32+00:00
+
+ ## ESpectrum: La página web de los programas españoles para Spectrum
+ - [http://espectrum.speccy.org](http://espectrum.speccy.org)
+ - date_published: 2024-08-07T08:59:35.134862+00:00
+
+ ## foro.speccy.org - Página principal
+ - [http://foro.speccy.org](http://foro.speccy.org)
+ - date_published: 2024-08-07T08:59:46.564864+00:00
+
+ ## El hardware del spectrum
+ - [http://hardware.speccy.org](http://hardware.speccy.org)
+ - date_published: 2023-03-21T22:31:46+00:00
+
+ ## JaS - A Java Spectrum emulator
+ - [http://jas.speccy.org](http://jas.speccy.org)
+ - date_published: 2011-03-19T22:25:11+00:00
+
+ ## JSpeccy, empieza a jugar sin tener que compilar
+ - [http://jspeccy.speccy.org](http://jspeccy.speccy.org)
+ - date_published: 2015-08-08T16:12:57+00:00
+
+ ## K y Enter, la página de los listados MicroHobby
+ - [http://kyenter.speccy.org](http://kyenter.speccy.org)
+ - date_published: 2003-07-07T21:13:11+00:00
+
+ ## La ColecciÃ³n de LoadÂ´nÂ´Run
+ - [http://loadnrun.speccy.org](http://loadnrun.speccy.org)
+ - date_published: 2023-09-18T11:13:10+00:00
+
+ ## Magazine ZX - Lista de Revistas
+ - [http://magazinezx.speccy.org](http://magazinezx.speccy.org)
+ - date_published: 2023-08-22T12:23:16+00:00
+
+ ## Los Manuales del Spectrum
+ - [http://manuales.speccy.org](http://manuales.speccy.org)
+ - date_published: 2004-12-08T13:05:18+00:00
+
+ ## SevenuP
+ - [http://metalbrain.speccy.org](http://metalbrain.speccy.org)
+ - date_published: 2006-12-17T13:30:29+00:00
+
  ## MHOnline
  - [http://mhonline.speccy.org](http://mhonline.speccy.org)
  - date_published: 2024-08-07T08:59:09.970518+00:00
@@ -3919,116 +4031,4 @@ photonics applied research.
  ## Development [Jenkins]
  - [https://ci.swift.org](https://ci.swift.org)
  - date_published: 2024-07-06T00:00:00+00:00
-
- ## Swift.org - Download Swift
- - [https://download.swift.org](https://download.swift.org)
- - date_published: 2023-10-25T22:12:17.993310+00:00
-
- ## Swift Forums
- - [https://forums.swift.org](https://forums.swift.org)
- - date_published: 2023-10-25T11:33:15.178785+00:00
-
- ## Swift.org
- - [https://swift.org](https://swift.org)
- - date_published: 2024-04-28T03:54:40.044764+00:00
-
- ## Swift Centre
- - [https://swiftcentre.org](https://swiftcentre.org)
- - date_published: 2023-10-25T22:12:20.577681+00:00
-
- ## SWIFT RIVER VALLEY HISTORICAL SOCIETY – The historical society for the towns of Dana, Enfield, Greenwich and Prescott
- - [https://swiftrivermuseum.org](https://swiftrivermuseum.org)
- - date_published: 2024-08-18T17:46:23.522777+00:00
-
- ## Swift Teacher
- - [https://www.swiftteacher.org](https://www.swiftteacher.org)
- - date_published: 2024-06-23T15:34:03.441837+00:00
-
- ## SwiftWave Graphql Docs
- - [https://graphql.docs.swiftwave.org](https://graphql.docs.swiftwave.org)
- - date_published: 2024-09-04T00:48:15.035736+00:00
-
- ## Join swiftwave on Slack
- - [http://slack.swiftwave.org](http://slack.swiftwave.org)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Status page
- - [https://status.swiftwave.org](https://status.swiftwave.org)
- - date_published: 2024-08-26T03:21:19+00:00
-
- ## SwiftWave
- - [https://swiftwave.org](https://swiftwave.org)
- - date_published: 2024-05-30T20:49:04.458980+00:00
-
- ## Simplified Wrapper and Interface Generator
- - [https://swig.org](https://swig.org)
- - date_published: 2023-10-25T22:12:22.341015+00:00
-
- ## Blog.SwimISCA.org a new site for information, education and coaches interaction about swimming and water sports
- - [https://blog.swimisca.org](https://blog.swimisca.org)
- - date_published: 2020-05-06T13:09:18+00:00
-
- ## Home to the Learning Management System of ISCA and CurrentWave | Read.SwimISCA.org
- - [https://read.swimisca.org](https://read.swimisca.org)
- - date_published: 2020-06-04T18:44:01+00:00
-
- ## ISCA, home page as of 2024 October - International Swim Coaches Association (ISCA)
- - [https://swimisca.org](https://swimisca.org)
- - date_published: 2024-10-08T10:51:01+00:00
-
- ## Swing Into Summer
- - [http://swingintosummer.org](http://swingintosummer.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Help Democrats win | Swing Left
- - [https://swingleft.org](https://swingleft.org)
- - date_published: 2024-09-04T06:39:48.173304+00:00
-
- ## SWI-Prolog
- - [https://www.swi-prolog.org](https://www.swi-prolog.org)
- - date_published: 2024-08-18T23:06:48.438313+00:00
-
- ## SWIP UK
- - [http://www.swipuk.org](http://www.swipuk.org)
- - date_published: 2024-09-18T08:40:27.625259+00:00
-
- ## Home | Swiss AI
- - [https://www.swiss-ai.org](https://www.swiss-ai.org)
- - date_published: 2024-08-19T18:47:57.341063+00:00
-
- ## swissjournals.org
- - [http://www.swissjournals.org](http://www.swissjournals.org)
- - date_published: 2024-10-29T16:46:20.378504+00:00
-
- ## swiss made. it works. - swiss made software
- - [https://swissmadesoftware.org](https://swissmadesoftware.org)
- - date_published: 2024-06-15T15:52:11+00:00
-
- ## Connecting Tomorrow - Swissnex
- - [https://swissnex.org](https://swissnex.org)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Connecting Tomorrow - Swissnex in Boston and New York
- - [http://www.swissnexboston.org](http://www.swissnexboston.org)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Connecting Tomorrow - Swissnex in China
- - [https://swissnexchina.org](https://swissnexchina.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## swisspolitics.org - Portal für politische Kommunikation und Information, News und Wirtschaft.
- - [http://www.swisspolitics.org](http://www.swisspolitics.org)
- - date_published: 2024-12-30T05:03:31+00:00
-
- ## Swisspreneur - Empowering Entrepreneurship and Startups
- - [https://swisspreneur.org](https://swisspreneur.org)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Swiss Re Foundation | Swiss Re
- - [https://www.swissrefoundation.org](https://www.swissrefoundation.org)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Home
- - [https://switch2osm.org](https://switch2osm.org)
- - date_published: 2024-07-15T03:37:39+00:00
 

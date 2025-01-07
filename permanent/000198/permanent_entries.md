@@ -1,3 +1,60 @@
+ ## Python Wheels
+ - [https://pythonwheels.com](https://pythonwheels.com)
+ - date_published: 2023-10-25T16:43:05.526351+00:00
+ - tags: ['python']
+
+ ## Python Workout
+ - [https://pythonworkout.com](https://pythonworkout.com)
+ - date_published: 2024-08-18T15:38:43.521189+00:00
+
+ ## PyVibe: Easily create styled web pages with Python
+ - [https://pyvibe.com](https://pyvibe.com)
+ - date_published: 2023-04-18T00:44:14+00:00
+
+ ## PyVmMonitor by brainwy
+ - [https://pyvmmonitor.com](https://pyvmmonitor.com)
+ - date_published: 2021-05-17T17:30:10+00:00
+
+ ## Pyxel Edit: pixel art and tileset creation tool
+ - [https://pyxeledit.com](https://pyxeledit.com)
+ - date_published: 2024-09-04T06:46:19.201887+00:00
+
+ ## pyzam.com
+ - [http://www.pyzam.com](http://www.pyzam.com)
+ - date_published: 2024-07-04T15:04:08.848356+00:00
+
+ ## Sacredbee Greeting Cards by Pamela Zagarenski
+ - [http://www.pzagarenski.com](http://www.pzagarenski.com)
+ - date_published: 2024-08-18T11:17:01.406715+00:00
+
+ ## Piotr Zakrzewski on Data
+ - [https://blog.pzakrzewski.com](https://blog.pzakrzewski.com)
+ - date_published: 2023-11-21T09:09:37.768225+00:00
+
+ ## Tłumacz Online - PZG Oddział Mazowiecki
+ - [https://pzgomaz.com](https://pzgomaz.com)
+ - date_published: 2024-06-22T20:11:15+00:00
+
+ ## Pzizz App | Sleep at the push of a button
+ - [http://www.pzizz.com](http://www.pzizz.com)
+ - date_published: 2024-11-16T00:01:11+00:00
+
+ ## pzuraq
+ - [https://www.pzuraq.com](https://www.pzuraq.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Get Blazing Fast Fiber Internet for Your Home or Business
+ - [http://q.com](http://q.com)
+ - date_published: 2024-12-26T13:20:39.694424+00:00
+
+ ## Iniciar sesión
+ - [https://site.q10.com](https://site.q10.com)
+ - date_published: 2024-12-09T15:53:42.968563+00:00
+
+ ## FOX 13 Seattle
+ - [https://www.q13fox.com](https://www.q13fox.com)
+ - date_published: 2024-12-22T17:32:37.764087+00:00
+
  ## Q2 | Digital Banking Solutions
  - [https://www.q2.com](https://www.q2.com)
  - date_published: 2024-10-18T17:28:36.346831+00:00
@@ -2700,7 +2757,7 @@
  - date_published: 2024-05-01T01:57:51.947448+00:00
 
  ## Motion capture – Mocap
- - [https://www.qualisys.com](https://www.qualisys.com)
+ - [https://qualisys.com](https://qualisys.com)
  - date_published: 2024-10-28T23:45:50.360220+00:00
 
  ## Quality Cablevision
@@ -3984,61 +4041,4 @@
  ## Online Survey Software and Tools | QuestionPro
  - [https://questionpro.com](https://questionpro.com)
  - date_published: 2024-05-14T03:53:29.254002+00:00
-
- ## UCInetID Secure Web Login - Loading Session Information
- - [https://uci.questionpro.com](https://uci.questionpro.com)
- - date_published: 2024-07-09T22:35:50.881966+00:00
-
- ## Trouvez la réponse à toutes vos questions - Question-reponse.com
- - [https://question-reponse.com](https://question-reponse.com)
- - date_published: 2024-05-09T08:00:56.010653+00:00
-
- ## QuestPDF
- - [https://www.questpdf.com](https://www.questpdf.com)
- - date_published: 2024-05-07T16:04:33.150859+00:00
-
- ## Life sciences
- - [https://www.questpharmasolutions.com](https://www.questpharmasolutions.com)
- - date_published: 2024-12-26T14:30:20+00:00
-
- ## Business Starters | QuestPort Domain Names, SSL, Wordpress & Web Hosting
- - [https://questport.com](https://questport.com)
- - date_published: 2024-12-14T16:12:57+00:00
-
- ## Quest Software Public Sector
- - [http://questpublicsector.com](http://questpublicsector.com)
- - date_published: 2024-12-26T14:27:26.304529+00:00
-
- ## Questrade Canadian Discount Broker | Online Stock Trading | Education
- - [https://cdn.questrade.com](https://cdn.questrade.com)
- - date_published: 2022-11-12T03:01:39+00:00
-
- ## Keep More Of Your Money | Questrade
- - [https://questrade.com](https://questrade.com)
- - date_published: 2024-12-26T14:39:51+00:00
-
- ## Keep More Of Your Money | Questrade
- - [https://www.questrade.com](https://www.questrade.com)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Quest Television Network | Home
- - [https://questtv.com](https://questtv.com)
- - date_published: 2016-06-14T23:45:52+00:00
-
- ## QuestWiz
- - [https://app.questwiz.com](https://app.questwiz.com)
- - date_published: 2024-12-30T19:50:52.115432+00:00
-
- ## Get a Personalized AI Assistant for small business - QuestWiz
- - [https://questwiz.com](https://questwiz.com)
- - date_published: 2024-12-09T23:19:36+00:00
-
- ## Data Recovery Software and Services - QueTek™ Consulting Corporation
- - [https://quetek.com](https://quetek.com)
- - date_published: 2024-02-08T17:36:25.533399+00:00
- - date_dead_since: 2024-12-26T14:46:19.074761+00:00
-
- ## The Best Events Platform to Sell Concert Tickets Online
- - [http://red7.queueapp.com](http://red7.queueapp.com)
- - date_published: 2024-12-31T05:42:37.608525+00:00
 

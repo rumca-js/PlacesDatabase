@@ -1,3 +1,7 @@
+ ## Prophecy, by Gost
+ - [https://gost1980s.bandcamp.com](https://gost1980s.bandcamp.com)
+ - date_published: 2024-12-27T01:54:09.311025+00:00
+
  ## Goteki
  - [https://goteki.bandcamp.com](https://goteki.bandcamp.com)
  - date_published: 2024-12-26T21:26:37.531651+00:00
@@ -3993,8 +3997,4 @@
  ## Versions, by The Members
  - [https://membersthe.bandcamp.com](https://membersthe.bandcamp.com)
  - date_published: 2024-12-27T00:29:23.168932+00:00
-
- ## MEMORIALS
- - [https://memorialsmusic.bandcamp.com](https://memorialsmusic.bandcamp.com)
- - date_published: 2025-01-01T06:10:19.886117+00:00
 

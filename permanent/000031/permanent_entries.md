@@ -1,3 +1,7 @@
+ ## 本科生院创新创业教育处
+ - [http://cxcyc.hfut.edu.cn](http://cxcyc.hfut.edu.cn)
+ - date_published: 2024-07-11T03:24:40+00:00
+
  ## 合工大党代会
  - [https://ddh9.hfut.edu.cn](https://ddh9.hfut.edu.cn)
  - date_published: 2024-07-12T13:22:46+00:00
@@ -3999,8 +4003,4 @@
  ## 辽宁省文化和旅游厅
  - [http://whly.ln.gov.cn](http://whly.ln.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## 辽宁省人民政府外事办公室
- - [https://wsb.ln.gov.cn](https://wsb.ln.gov.cn)
- - date_published: 2024-06-26T00:00:00+00:00
 

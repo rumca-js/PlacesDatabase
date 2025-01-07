@@ -1,3 +1,95 @@
+ ## Syofyan Zuhad
+ - [https://syofyanzuhad.my.id](https://syofyanzuhad.my.id)
+ - date_published: 2024-07-14T09:42:08.908367+00:00
+
+ ## Index of /
+ - [http://kartolo.sby.datautama.net.id](http://kartolo.sby.datautama.net.id)
+ - date_published: 2024-08-19T22:20:53.329722+00:00
+
+ ## :: FooBar Repository | Turbo Internet
+ - [http://foobar.turbo.net.id](http://foobar.turbo.net.id)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## WOWNET Wireless/Fiberoptic ISP Internet Provider Surabaya
+ - [https://wow.net.id](https://wow.net.id)
+ - date_published: 2020-06-06T03:26:25+00:00
+
+ ## Home - AMSI (Asosiasi Media Siber Indonesia)
+ - [https://www.amsi.or.id](https://www.amsi.or.id)
+ - date_published: 2024-10-30T06:12:23.741314+00:00
+
+ ## Asosiasi Pilot Garuda |
+ - [https://apg.or.id](https://apg.or.id)
+ - date_published: 2024-10-11T11:26:16.949926+00:00
+
+ ## Domain Expired
+ - [http://australiaawardsindo.or.id](http://australiaawardsindo.or.id)
+ - date_published: 2020-04-27T16:40:31+00:00
+
+ ## Paus188 - Platform Game Online Resmi Gampang JP Maxwin
+ - [http://balitourismboard.or.id](http://balitourismboard.or.id)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Badan Akreditasi Nasional Perguruan Tinggi – BANPT
+ - [https://banpt.or.id](https://banpt.or.id)
+ - date_published: 2024-06-19T18:38:36.664888+00:00
+
+ ## BAN-PT | SAPTO BAN PT
+ - [https://sapto.banpt.or.id](https://sapto.banpt.or.id)
+ - date_published: 2024-10-30T06:23:13.886553+00:00
+
+ ## BITRA Indonesia
+ - [https://bitra.or.id](https://bitra.or.id)
+ - date_published: 2024-10-11T11:28:20.570856+00:00
+
+ ## cicak.or.id
+ - [http://cicak.or.id](http://cicak.or.id)
+ - date_published: 2024-06-30T04:34:24.180769+00:00
+
+ ## Centre for Strategic and International Studies
+ - [https://www.csis.or.id](https://www.csis.or.id)
+ - date_published: 2024-07-13T16:28:56.241938+00:00
+
+ ## Dewan Pers
+ - [https://dewanpers.or.id](https://dewanpers.or.id)
+ - date_published: 2024-10-30T06:12:20.464674+00:00
+
+ ## ELSAM | Lembaga Studi dan Advokasi Masyarakat
+ - [https://elsam.or.id](https://elsam.or.id)
+ - date_published: 2024-06-28T21:49:23.159275+00:00
+
+ ## Home | Ikatan Akuntan Indonesia
+ - [https://web.iaiglobal.or.id](https://web.iaiglobal.or.id)
+ - date_published: 2024-10-30T06:21:58.704390+00:00
+
+ ## ICJR | Institute for Criminal Justice Reform
+ - [https://icjr.or.id](https://icjr.or.id)
+ - date_published: 2024-06-28T21:42:44.692694+00:00
+
+ ## 9c93ab72-b0cb-4706-96bf-9f5be09e507a
+ - [http://kopertais4.or.id](http://kopertais4.or.id)
+ - date_published: 2024-09-12T07:19:30+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://jatim.nu.or.id](https://jatim.nu.or.id)
+ - date_published: 2024-06-19T18:38:37.290302+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://nu.or.id](http://nu.or.id)
+ - date_published: 2024-10-11T12:58:58.815869+00:00
+
+ ## Index of /
+ - [https://adipala.pramukacilacap.or.id](https://adipala.pramukacilacap.or.id)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Index of /
+ - [https://binangun.pramukacilacap.or.id](https://binangun.pramukacilacap.or.id)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Pramuka Cimanggu - Portal Layanan Pramuka Cimanggu | Sayaku Ku Darmakan Darmaku Ku Baktikan
+ - [https://cimanggu.pramukacilacap.or.id](https://cimanggu.pramukacilacap.or.id)
+ - date_published: 2024-09-10T13:47:44.765579+00:00
+
  ## Index of /
  - [https://cipari.pramukacilacap.or.id](https://cipari.pramukacilacap.or.id)
  - date_published: 2024-08-31T00:00:00+00:00
@@ -2005,7 +2097,7 @@
  - date_published: 2024-09-04T18:05:16.660394+00:00
 
  ## NARS Cosmetics | The Official Store | Makeup and Skincare
- - [http://www.narscosmetics.ie](http://www.narscosmetics.ie)
+ - [https://narscosmetics.ie](https://narscosmetics.ie)
  - date_published: 2024-10-29T08:58:36+00:00
 
  ## Home
@@ -3919,98 +4011,4 @@
  ## סקירה כללית
  - [https://downdetector.co.il](https://downdetector.co.il)
  - date_published: 2024-05-12T00:00:00+00:00
-
- ## דרושים IL- חיפוש עבודה בחינם, גיוס עובדים
- - [https://www.drushim.co.il](https://www.drushim.co.il)
- - date_published: 2024-09-17T17:54:54.875462+00:00
- - date_dead_since: 2025-01-05T23:25:26.779116+00:00
-
- ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
- - [https://duracell.co.il](https://duracell.co.il)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## דייסון ישראל | האתר הרשמי | Dyson Israel
- - [https://dyson.co.il](https://dyson.co.il)
- - date_published: 2024-07-07T01:57:31.342083+00:00
-
- ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
- - [https://epochtimes.co.il](https://epochtimes.co.il)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## דף הבית - ערן שטרן
- - [http://eranstern.co.il](http://eranstern.co.il)
- - date_published: 2023-11-17T15:06:30+00:00
- - tags: ['personal']
-
- ## אתר הקורסים של ערן שטרן
- - [http://school.eranstern.co.il](http://school.eranstern.co.il)
- - date_published: 2024-08-18T13:06:28.173922+00:00
-
- ## אשכולות | שומרים על זכויות האמנים המבצעים בישראל
- - [https://eshkolot.co.il](https://eshkolot.co.il)
- - date_published: 2024-08-11T13:52:36.456896+00:00
-
- ## חנות אינטרנטית עם ממשק ידידותי בעברית ופיצ'רים מתקדמים | E-shop
- - [https://e-shop.co.il](https://e-shop.co.il)
- - date_published: 2024-07-14T03:35:18.373421+00:00
-
- ## כרטיסים להופעות, מופעים, בידור, תאטרון וספורט - Eventim
- - [https://eventim.co.il](https://eventim.co.il)
- - date_published: 2024-07-20T14:52:44.665232+00:00
-
- ## face 2 face - פתרונות אינטרנט מתקדמים - בניית אתרים | פרסום ושיווק באינטרנט
- - [https://f2f.co.il](https://f2f.co.il)
- - date_published: 2024-06-21T19:04:31.608608+00:00
-
- ## Home - FANUC Academy
- - [https://fanuc-academy.co.il](https://fanuc-academy.co.il)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## פיתוח אתרים ומערכות ידע | Fatfish
- - [https://fatfish.co.il](https://fatfish.co.il)
- - date_published: 2024-07-01T08:37:44+00:00
-
- ## FATLADY | A boutique home for websites and apps by Elad Ziv
- - [https://www.fatlady.co.il](https://www.fatlady.co.il)
- - date_published: 2024-06-28T19:26:39.556919+00:00
-
- ## Point of View
- - [http://blog.fdesign.co.il](http://blog.fdesign.co.il)
- - date_published: 2024-03-19T21:24:46+00:00
-
- ## Feuerstein Design – Visual Branding
- - [https://cdn.fdesign.co.il](https://cdn.fdesign.co.il)
- - date_published: 2024-06-20T16:51:29+00:00
-
- ## Feuerstein Design – Visual Branding
- - [https://fdesign.co.il](https://fdesign.co.il)
- - date_published: 2024-05-04T14:44:39.067585+00:00
-
- ## פיאט ישראל האתר הרשמי | Fiat Israel Official Website
- - [https://fiat.co.il](https://fiat.co.il)
- - date_published: 2024-06-16T09:36:02+00:00
-
- ## פורבס ישראל - המגזין העסקי המוביל בעולם
- - [https://forbes.co.il](https://forbes.co.il)
- - date_published: 2024-05-08T05:59:02.261728+00:00
-
- ## אתר הנוער של ישראל
- - [https://frogi.co.il](https://frogi.co.il)
- - date_published: 2024-05-09T04:02:31.227539+00:00
-
- ## אתר הנוער של ישראל
- - [https://s.frogi.co.il](https://s.frogi.co.il)
- - date_published: 2024-07-09T07:16:29.056501+00:00
-
- ## גל עיצוב, הקמה וקידום אתרי אינטרנט
- - [https://gald.co.il](https://gald.co.il)
- - date_published: 2024-08-11T23:59:36.467090+00:00
-
- ## גלעד לזכרם - אוניברסיטת בר אילן
- - [https://biu.gal-ed.co.il](https://biu.gal-ed.co.il)
- - date_published: 2024-08-07T15:12:06.566990+00:00
-
- ## גרנייה ישראל - Garnier | צבעי שיער, ניקוי וטיפוח הפנים והגוף
- - [https://garnier.co.il](https://garnier.co.il)
- - date_published: 2024-10-30T17:02:30.361049+00:00
 

@@ -1,3 +1,19 @@
+ ## Home
+ - [https://clinical.catalent.com](https://clinical.catalent.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Consumer Health CDMO | Catalent Consumer Health
+ - [https://consumerhealth.catalent.com](https://consumerhealth.catalent.com)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Citrix Gateway
+ - [https://fusion.catalent.com](https://fusion.catalent.com)
+ - date_published: 2024-09-20T03:00:01+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://investor.catalent.com](https://investor.catalent.com)
+ - date_published: 2024-10-16T18:43:05.323622+00:00
+
  ## ホーム - Catalent Japan
  - [http://japan.catalent.com](http://japan.catalent.com)
  - date_published: 2024-09-06T00:00:00+00:00
@@ -4016,21 +4032,4 @@
  ## Home - CGMagazine Store
  - [https://store.cgmagonline.com](https://store.cgmagonline.com)
  - date_published: 2017-01-31T15:54:17+00:00
-
- ## CGPEN
- - [https://www.cgpen.com](https://www.cgpen.com)
- - date_published: 2023-09-02T08:42:24+00:00
-
- ## CGP Grey
- - [http://blog.cgpgrey.com](http://blog.cgpgrey.com)
- - date_published: 2024-10-19T04:32:38.565538+00:00
-
- ## CGP Grey
- - [https://cgpgrey.com](https://cgpgrey.com)
- - date_published: 2024-12-04T11:43:47+00:00
- - tags: ['youtuber', 'education', 'knowledge']
-
- ## Building a Better Tomorrow, Today | CG Schmidt
- - [http://www.cgschmidt.com](http://www.cgschmidt.com)
- - date_published: 2019-03-14T00:00:00+00:00
 

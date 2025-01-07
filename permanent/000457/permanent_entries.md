@@ -1,3 +1,124 @@
+ ## Mail.ru: почта, поиск, новости, прогноз погоды, гороскоп, программа передач
+ - [https://mail.ru](https://mail.ru)
+ - date_published: 2024-05-01T06:48:28.144335+00:00
+ - tags: ['mail server']
+
+ ## Маруся — ваша голосовая помощница от Mail.ru
+ - [https://marusia-web.go.mail.ru](https://marusia-web.go.mail.ru)
+ - date_published: 2024-06-02T18:43:28.901784+00:00
+
+ ## VK Cloud ☁ Облачная ИТ-платформа бизнес-класса от VK
+ - [https://mcs.mail.ru](https://mcs.mail.ru)
+ - date_published: 2024-06-20T13:29:23+00:00
+
+ ## Mail: Почта, Облако, Календарь, Заметки, Покупки — сервисы для работы и жизни
+ - [https://media-trend.mail.ru](https://media-trend.mail.ru)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Мой Мир
+ - [https://m.my.mail.ru](https://m.my.mail.ru)
+ - date_published: 2024-06-29T05:18:06.224953+00:00
+
+ ## My World@Mail.Ru: stay in touch with your classmates and friends
+ - [https://my.mail.ru](https://my.mail.ru)
+ - date_published: 2024-06-29T05:18:32.241843+00:00
+
+ ## Новости России и мира, последние события на сегодня
+ - [https://news.mail.ru](https://news.mail.ru)
+ - date_published: 2024-06-02T18:43:35.106972+00:00
+
+ ## VK
+ - [https://nonstandard.sales.mail.ru](https://nonstandard.sales.mail.ru)
+ - date_published: 2024-09-04T06:21:29.157526+00:00
+
+ ## Авторизация через OAuth 2.0 от Mail.ru
+ - [https://o2.mail.ru](https://o2.mail.ru)
+ - date_published: 2024-06-20T12:16:33+00:00
+
+ ## Авторизация через OAuth 2.0 от Mail.ru
+ - [https://oauth.mail.ru](https://oauth.mail.ru)
+ - date_published: 2024-06-07T07:34:37+00:00
+
+ ## Питомцы Mail.ru
+ - [https://pets.mail.ru](https://pets.mail.ru)
+ - date_published: 2024-06-02T18:43:52.147415+00:00
+
+ ## В Гожув-Велькопольски (воскресенье, 2 июня 2024, 20:44) 21°C, гроза
+ - [https://pogoda.mail.ru](https://pogoda.mail.ru)
+ - date_published: 2024-06-02T18:44:04.146505+00:00
+
+ ## Postmaster Mail.ru
+ - [https://postmaster.mail.ru](https://postmaster.mail.ru)
+ - date_published: 2025-01-02T13:05:39.949276+00:00
+
+ ## Промокоды на hi-tech.mail.ru | Скидки, купоны, распродажи
+ - [https://promocodes.hi-tech.mail.ru](https://promocodes.hi-tech.mail.ru)
+ - date_published: 2024-09-04T06:27:27.780410+00:00
+
+ ## Рекламная платформа myTarget — Сервис таргетированной рекламы
+ - [https://r3.mail.ru](https://r3.mail.ru)
+ - date_published: 2024-07-08T08:48:01.803325+00:00
+
+ ## Рекламная платформа myTarget — Сервис таргетированной рекламы
+ - [https://r.mail.ru](https://r.mail.ru)
+ - date_published: 2024-06-16T12:57:14.088389+00:00
+
+ ## Рекламная платформа myTarget — Сервис таргетированной рекламы
+ - [https://rs.mail.ru](https://rs.mail.ru)
+ - date_published: 2024-06-02T18:43:36.417422+00:00
+
+ ## Статус работы | VK Cloud
+ - [https://status.mcs.mail.ru](https://status.mcs.mail.ru)
+ - date_published: 2024-06-23T12:45:27.143196+00:00
+
+ ## ESMP CP
+ - [https://support.mcs.mail.ru](https://support.mcs.mail.ru)
+ - date_published: 2024-06-17T15:53:20+00:00
+
+ ## Телепрограмма на сегодня —&nbsp;Москва
+ - [https://tv.mail.ru](https://tv.mail.ru)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## ВФокусе - всё самое актуальное, интересное и необычное, что происходило в России и мире
+ - [https://vfokuse.mail.ru](https://vfokuse.mail.ru)
+ - date_published: 2024-06-02T18:43:47.916958+00:00
+
+ ## Video Mail.Ru
+ - [https://video.mail.ru](https://video.mail.ru)
+ - date_published: 2024-05-07T09:19:09.352844+00:00
+
+ ## Перенаправление
+ - [https://vk.mail.ru](https://vk.mail.ru)
+ - date_published: 2024-06-29T13:36:19.704008+00:00
+
+ ## Блог Mail
+ - [https://whatsnew.mail.ru](https://whatsnew.mail.ru)
+ - date_published: 2024-09-04T06:29:59.521956+00:00
+
+ ## Календарь Mail.ru
+ - [https://x.calendar.mail.ru](https://x.calendar.mail.ru)
+ - date_published: 2024-06-02T18:43:46.335421+00:00
+
+ ## www.make-it-in-germany.com/ru
+ - [https://www.make-it-in-germany.ru](https://www.make-it-in-germany.ru)
+ - date_published: 2024-07-13T17:32:24.729285+00:00
+
+ ## Центр лечения боли Тольятти
+ - [https://managmentpain.ru](https://managmentpain.ru)
+ - date_published: 2024-07-10T11:18:29+00:00
+
+ ## Издательство МИФ
+ - [https://www.mann-ivanov-ferber.ru](https://www.mann-ivanov-ferber.ru)
+ - date_published: 2024-06-21T19:58:16.130020+00:00
+
+ ## Авторизация
+ - [https://intranet.marvel.ru](https://intranet.marvel.ru)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Мебельная фабрика Мария: кухни, шкафы, ванные, диваны на заказ
+ - [https://perm.marya.ru](https://perm.marya.ru)
+ - date_published: 2024-12-28T06:43:16.796647+00:00
+
  ## Master of Orion - Официальный Сайт: игра о космосе
  - [http://master-of-orion.ru](http://master-of-orion.ru)
  - date_published: 2024-05-29T06:17:06+00:00
@@ -3843,7 +3964,7 @@
  - date_published: 2024-06-19T10:27:27.952462+00:00
 
  ## Home Page
- - [https://www.stc.com.sa](https://www.stc.com.sa)
+ - [https://stc.com.sa](https://stc.com.sa)
  - date_published: 2024-10-29T06:51:15+00:00
 
  ## Home
@@ -3897,124 +4018,4 @@
  ## Curriculum Management
  - [https://courses.kaust.edu.sa](https://courses.kaust.edu.sa)
  - date_published: 2024-01-08T16:46:30+00:00
-
- ## KAUST Discovery - From curiosity to innovation
- - [https://discovery.kaust.edu.sa](https://discovery.kaust.edu.sa)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Home | Winter Enrichment Program 2024 at KAUST
- - [https://enrichment.kaust.edu.sa](https://enrichment.kaust.edu.sa)
- - date_published: 2024-01-09T12:12:13+00:00
-
- ## Home
- - [https://facultylife.kaust.edu.sa](https://facultylife.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:14.628809+00:00
-
- ## KAUST Innovation
- - [https://innovation.kaust.edu.sa](https://innovation.kaust.edu.sa)
- - date_published: 2015-04-01T20:00:49+00:00
-
- ## Home - KAUST Insight
- - [https://insight.kaust.edu.sa](https://insight.kaust.edu.sa)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Image and Video Understanding Lab | IVUL | Image and Video Understanding Lab
- - [http://ivul.kaust.edu.sa](http://ivul.kaust.edu.sa)
- - date_published: 2024-08-07T14:40:18+00:00
-
- ## King Abdullah University of Science and Technology | KAUST
- - [https://kaust.edu.sa](https://kaust.edu.sa)
- - date_published: 2024-04-28T03:52:58.644832+00:00
-
- ## HOME
- - [https://kgfp.kaust.edu.sa](https://kgfp.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:22.244718+00:00
-
- ## Community Map
- - [https://maps.kaust.edu.sa](https://maps.kaust.edu.sa)
- - date_published: 2024-07-02T06:48:05+00:00
-
- ## Museum of Science & Technology in Islam
- - [https://museum.kaust.edu.sa](https://museum.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:45.045140+00:00
-
- ## Home
- - [https://ora.kaust.edu.sa](https://ora.kaust.edu.sa)
- - date_published: 2024-08-07T14:29:10.327897+00:00
-
- ## PSE
- - [https://pse.kaust.edu.sa](https://pse.kaust.edu.sa)
- - date_published: 2024-08-07T14:29:06.588964+00:00
-
- ## HOME
- - [https://registrar.kaust.edu.sa](https://registrar.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:48.454046+00:00
-
- ## Research Compliance
- - [https://researchcompliance.kaust.edu.sa](https://researchcompliance.kaust.edu.sa)
- - date_published: 2023-03-31T07:07:08+00:00
-
- ## Home
- - [https://rfs.kaust.edu.sa](https://rfs.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:58.353034+00:00
-
- ## Home
- - [https://rtp.kaust.edu.sa](https://rtp.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:16.376400+00:00
-
- ## Home
- - [https://smarthealth.kaust.edu.sa](https://smarthealth.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:13.148951+00:00
-
- ## Home | Kaust Sustainability
- - [https://sustainability.kaust.edu.sa](https://sustainability.kaust.edu.sa)
- - date_published: 2024-08-07T14:38:29.458725+00:00
-
- ## THE LENS | KAUST News & Updates
- - [https://thelens.kaust.edu.sa](https://thelens.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:37.273992+00:00
-
- ## HOME
- - [https://tie.kaust.edu.sa](https://tie.kaust.edu.sa)
- - date_published: 2024-04-01T19:01:15+00:00
-
- ## Visual Computing Center | VCC | Visual Computing Center
- - [http://vcc.kaust.edu.sa](http://vcc.kaust.edu.sa)
- - date_published: 2024-08-07T11:28:41+00:00
-
- ## Home
- - [https://vsrp.kaust.edu.sa](https://vsrp.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:19.266166+00:00
-
- ## الصفحة الرئيسية
- - [https://admissions.kfupm.edu.sa](https://admissions.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:22.769172+00:00
-
- ## KFUPM Alum Portal
- - [https://alum.kfupm.edu.sa](https://alum.kfupm.edu.sa)
- - date_published: 2021-10-29T00:00:00+00:00
-
- ## KFUPM Alum Portal
- - [http://alumni.kfupm.edu.sa](http://alumni.kfupm.edu.sa)
- - date_published: 2021-10-29T00:00:00+00:00
-
- ## KFUPM
- - [https://apply.kfupm.edu.sa](https://apply.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:25.541394+00:00
-
- ## Blackboard Learn
- - [https://blackboard.kfupm.edu.sa](https://blackboard.kfupm.edu.sa)
- - date_published: 2004-09-04T05:31:21+00:00
-
- ## Home | CGIS
- - [https://cgis.kfupm.edu.sa](https://cgis.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:36.966618+00:00
-
- ## Deanship of Academic Development
- - [https://dad.kfupm.edu.sa](https://dad.kfupm.edu.sa)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## Dalil - King Fahd University of Petroleum and Minerals
- - [https://dalil.kfupm.edu.sa](https://dalil.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:20.167626+00:00
 

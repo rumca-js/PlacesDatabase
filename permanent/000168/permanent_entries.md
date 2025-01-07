@@ -1,3 +1,56 @@
+ ## Dataduck – Medium
+ - [https://dataduck.medium.com](https://dataduck.medium.com)
+ - date_published: 2024-10-29T13:31:12.750162+00:00
+
+ ## DataFinnovation - ChainArgos - 4AC – Medium
+ - [https://datafinnovation.medium.com](https://datafinnovation.medium.com)
+ - date_published: 2023-10-25T10:19:24.661478+00:00
+
+ ## DataStax – Medium
+ - [https://datastax.medium.com](https://datastax.medium.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## DS - VRP – Medium
+ - [https://datavrpscience.medium.com](https://datavrpscience.medium.com)
+ - date_published: 2024-02-08T16:32:00.203010+00:00
+
+ ## Dave On Cyber – Medium
+ - [https://daveoncyber.medium.com](https://daveoncyber.medium.com)
+ - date_published: 2024-05-01T04:10:40.079101+00:00
+
+ ## David Delassus – Medium
+ - [https://david-delassus.medium.com](https://david-delassus.medium.com)
+ - date_published: 2023-10-25T10:19:26.852264+00:00
+
+ ## Davide Wiest – Medium
+ - [https://davidewiest.medium.com](https://davidewiest.medium.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## David Gilbertson – Medium
+ - [https://david-gilbertson.medium.com](https://david-gilbertson.medium.com)
+ - date_published: 2023-10-25T10:19:29.708680+00:00
+
+ ## David Golumbia – Medium
+ - [https://davidgolumbia.medium.com](https://davidgolumbia.medium.com)
+ - date_published: 2024-11-25T20:49:30.913167+00:00
+
+ ## David Mokotoff, MD – Medium
+ - [https://davidmokotoff.medium.com](https://davidmokotoff.medium.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## David Fu – Medium
+ - [https://davidthefu.medium.com](https://davidthefu.medium.com)
+ - date_published: 2024-04-30T06:35:07.660414+00:00
+ - tags: ['personal']
+
+ ## David Varghese – Medium
+ - [https://david-varghese.medium.com](https://david-varghese.medium.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## DC Palter – Medium
+ - [https://dcpalter.medium.com](https://dcpalter.medium.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
  ## Debbie Widjaja – Medium
  - [https://debbiewidjaja.medium.com](https://debbiewidjaja.medium.com)
  - date_published: 2024-08-17T06:47:01.028154+00:00
@@ -3972,56 +4025,4 @@
  ## Home | MeggnoApps
  - [https://www.meggnoapps.com](https://www.meggnoapps.com)
  - date_published: 2024-07-07T03:51:29.254904+00:00
-
- ## Health Science Publications | Journal | Journals | Online journal | Elsevier Journals
- - [http://meghanapublications.com](http://meghanapublications.com)
- - date_published: 2024-10-29T17:10:01.889507+00:00
-
- ## Meghan Gordon
- - [http://www.meghangordon.com](http://www.meghangordon.com)
- - date_published: 2024-09-06T21:51:45.969313+00:00
-
- ## Meghan Telpner
- - [http://www.meghantelpner.com](http://www.meghantelpner.com)
- - date_published: 2024-12-23T11:54:36.917344+00:00
-
- ## Yes, hello, this is Meghna Rao
- - [https://www.meghna-rao.com](https://www.meghna-rao.com)
- - date_published: 2024-07-01T05:01:53.788186+00:00
-
- ## Megnut
- - [http://megnut.com](http://megnut.com)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## Mego Museum
- - [http://megomuseum.com](http://megomuseum.com)
- - date_published: 2024-12-12T19:25:18.758888+00:00
-
- ## Mego Museum
- - [https://www.megomuseum.com](https://www.megomuseum.com)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Photographer Miami, Photographers Miami, Photography Miami, Wedding photography Miami. Wedding photographers Miami, Wedding photography Miami, Portrait photographer Miami, Portrait photographers Miami, Portrait photography Miami, Miami maternity photography, newborn photography Miami, Miami baby photographer, Baby photographers Miami, Miami family photographers, Photography studios Miami, Miami proposal photographer, Wedding videography Miami, Event Photographer Miami, Events Miami, Fashion photography Miami, Fine art photography Miami, Bar Mitzvah Photos Miami, Food Photography Miami, Corporate Photography Miami, Family Portraits Miami, People photographer Miami, Interior Photographer Miami, Architecture Photography Miami, Branding Photography Miami, Marketing Photography Miami, Interior Photographer portfolio,Buildings Photography Miami, Stock photography Miami, Miami landscapes Photography, Stock Photos Miami, Miami Stock Photography,meg-pukel-miami-photographer-wedding-photograph
- - [https://www.megpukel.com](https://www.megpukel.com)
- - date_published: 2013-10-08T20:48:26+00:00
-
- ## MegunoLink Pro | The swiss army knife for Arduino
- - [https://megunolink.com](https://megunolink.com)
- - date_published: 2014-08-14T00:00:00+00:00
-
- ## megustaescribir, la red social literaria para publicar libros
- - [http://megustaescribir.com](http://megustaescribir.com)
- - date_published: 2024-12-09T17:21:39.093574+00:00
-
- ## Face⁺⁺ - Face⁺⁺ Cognitive Services
- - [https://en.facepp.megvii.com](https://en.facepp.megvii.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Megvii
- - [https://en.megvii.com](https://en.megvii.com)
- - date_published: 2024-04-28T03:52:47.394908+00:00
-
- ## New Generation Material Handling | Megvii Robotics | Pallet Shuttle Robot | Automated Warehouse Systems - Megvii Automation & Robotics
- - [https://en-robotics.megvii.com](https://en-robotics.megvii.com)
- - date_published: 2024-08-07T14:43:16.917328+00:00
 

@@ -1,3 +1,7 @@
+ ## Politics Versus the Erection, by Venomous Concept
+ - [https://venomousconcept.bandcamp.com](https://venomousconcept.bandcamp.com)
+ - date_published: 2024-12-26T23:44:57.758178+00:00
+
  ## Retroactive Abortion, by Venomous Concept
  - [https://venomousconcept-ipecac.bandcamp.com](https://venomousconcept-ipecac.bandcamp.com)
  - date_published: 2024-12-27T07:13:06.390166+00:00
@@ -3059,7 +3063,7 @@ rain or shine
  - date_published: 2024-05-21T04:24:18+00:00
 
  ## Basement Professionals | Basement Builders | Basement Renovations | Basement Contractor | Basement Reno | Basement Companies | Finished Basement
- - [https://www.basement-professionals.com](https://www.basement-professionals.com)
+ - [https://basement-professionals.com](https://basement-professionals.com)
  - date_published: 2024-10-28T23:10:48.566714+00:00
 
  ## Basepath NIL Operations Software for Student Athletes
@@ -4015,8 +4019,4 @@ rain or shine
  ## Home
  - [https://bayevskitchen.com](https://bayevskitchen.com)
  - date_published: 2022-08-09T13:20:30+00:00
-
- ## BAYFOLIO : Mutual Fund Investment Services
- - [https://bayfolio.com](https://bayfolio.com)
- - date_published: 2024-05-30T08:55:18+00:00
 

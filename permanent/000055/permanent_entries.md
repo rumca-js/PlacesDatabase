@@ -1,3 +1,7 @@
+ ## 猫 シ Corp.
+ - [https://catsystemcorp.bandcamp.com](https://catsystemcorp.bandcamp.com)
+ - date_published: 2024-12-22T07:35:47.317651+00:00
+
  ## Nineteen Eighty-Fur, by Cat Temper
  - [https://cattemper.bandcamp.com](https://cattemper.bandcamp.com)
  - date_published: 2024-03-01T00:00:00+00:00
@@ -3993,8 +3997,4 @@
  ## Gorguts
  - [https://gorguts.bandcamp.com](https://gorguts.bandcamp.com)
  - date_published: 2024-12-26T23:44:44.077683+00:00
-
- ## Prophecy, by Gost
- - [https://gost1980s.bandcamp.com](https://gost1980s.bandcamp.com)
- - date_published: 2024-12-27T01:54:09.311025+00:00
 

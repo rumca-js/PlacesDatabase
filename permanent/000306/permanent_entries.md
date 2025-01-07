@@ -1,3 +1,91 @@
+ ## Computer & Information Sciences at the University of Delaware
+ - [https://www.cis.udel.edu](https://www.cis.udel.edu)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Home | Electrical & Computer Engineering
+ - [http://www.ece.udel.edu](http://www.ece.udel.edu)
+ - date_published: 2024-09-02T10:41:10.359822+00:00
+
+ ## ECE/CIS
+ - [https://www.eecis.udel.edu](https://www.eecis.udel.edu)
+ - date_published: 2024-05-24T22:39:08.772559+00:00
+
+ ## UD College of Engineering
+ - [http://www.engr.udel.edu](http://www.engr.udel.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## OEIP | University of Delaware
+ - [http://www.oeip.udel.edu](http://www.oeip.udel.edu)
+ - date_published: 2024-07-01T23:40:16+00:00
+
+ ## Join us at OLLI! - Osher Lifelong Learning Institute %
+ - [https://www.olli.udel.edu](https://www.olli.udel.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Home - Undergraduate Research Program
+ - [https://www.urp.udel.edu](https://www.urp.udel.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Universitat de Girona > UdG
+ - [http://www.udg.edu](http://www.udg.edu)
+ - date_published: 2024-07-02T10:36:06.638771+00:00
+
+ ## ONE.UF
+ - [https://one.uf.edu](https://one.uf.edu)
+ - date_published: 2024-06-13T11:20:58+00:00
+
+ ## Accessibility at UF
+ - [https://accessibility.ufl.edu](https://accessibility.ufl.edu)
+ - date_published: 2024-05-07T21:11:08.489230+00:00
+
+ ## UF ADA Compliance
+ - [https://ada.ufl.edu](https://ada.ufl.edu)
+ - date_published: 2024-07-02T02:17:54.009807+00:00
+
+ ## University of Florida Office of Admissions
+ - [https://admissions.ufl.edu](https://admissions.ufl.edu)
+ - date_published: 2024-07-02T02:06:22.599170+00:00
+
+ ## Welcome
+ - [https://advancement.clas.ufl.edu](https://advancement.clas.ufl.edu)
+ - date_published: 2024-07-07T08:12:01.425998+00:00
+
+ ## Agricultural Education and Communication - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://aec.ifas.ufl.edu](https://aec.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:21.398370+00:00
+
+ ## Welcome to the Center for African Studies
+ - [http://africa.ufl.edu](http://africa.ufl.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Web Services » UF Health » University of Florida
+ - [https://ahc-webservices-a2.sites.medinfo.ufl.edu](https://ahc-webservices-a2.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T20:14:03+00:00
+
+ ## AI - University of Florida
+ - [https://ai.ufl.edu](https://ai.ufl.edu)
+ - date_published: 2024-07-02T02:11:02.126501+00:00
+
+ ## UF IT Alerts Dashboard
+ - [https://alerts.it.ufl.edu](https://alerts.it.ufl.edu)
+ - date_published: 2024-07-02T02:07:54.283886+00:00
+
+ ## Alumni & Giving » College of Public Health and Health Professions » University of Florida
+ - [https://alumni-giving.phhp.ufl.edu](https://alumni-giving.phhp.ufl.edu)
+ - date_published: 2024-07-01T21:22:22+00:00
+
+ ## Home
+ - [https://antiracism.ufl.edu](https://antiracism.ufl.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Welcome
+ - [https://asq.africa.ufl.edu](https://asq.africa.ufl.edu)
+ - date_published: 2024-05-08T10:03:56.364600+00:00
+
+ ## Baker County - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://baker.ifas.ufl.edu](http://baker.ifas.ufl.edu)
+ - date_published: 2024-12-21T17:36:57.026164+00:00
+
  ## Biotility - Biotech Professional Development & Credentialing
  - [https://biotility.research.ufl.edu](https://biotility.research.ufl.edu)
  - date_published: 2024-10-22T03:51:42.004239+00:00
@@ -3916,92 +4004,4 @@
  ## Home | University of Maryland Strategic Plan
  - [https://strategicplan.umd.edu](https://strategicplan.umd.edu)
  - date_published: 2024-04-25T00:00:00+00:00
-
- ## Home | Division of Student Affairs
- - [http://studentaffairs.umd.edu](http://studentaffairs.umd.edu)
- - date_published: 2024-07-02T03:37:32.471413+00:00
-
- ## Summer Session | University of Maryland Extended Studies
- - [https://summer.umd.edu](https://summer.umd.edu)
- - date_published: 2024-07-01T22:04:17+00:00
-
- ## Homepage | SustainableUMD
- - [https://sustainability.umd.edu](https://sustainability.umd.edu)
- - date_published: 2024-07-02T03:36:19+00:00
-
- ## Talks
- - [https://talks.cs.umd.edu](https://talks.cs.umd.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Theatre, Dance, & Performance Studies | School of Theatre, Dance, and Performance Studies
- - [http://tdps.umd.edu](http://tdps.umd.edu)
- - date_published: 2024-07-01T19:38:03+00:00
-
- ## - TerpLink
- - [https://terplink.umd.edu](https://terplink.umd.edu)
- - date_published: 2024-07-02T03:38:02.804319+00:00
-
- ## Home
- - [https://terp.umd.edu](https://terp.umd.edu)
- - date_published: 2024-05-09T05:19:45.983807+00:00
-
- ## Unit Homepage
- - [https://terrapinstrong.umd.edu](https://terrapinstrong.umd.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## The Clarice Smith Performing Arts Center
- - [http://theclarice.umd.edu](http://theclarice.umd.edu)
- - date_published: 2024-07-02T03:35:57+00:00
-
- ## Home | Adele H. Stamp Student Union
- - [http://thestamp.umd.edu](http://thestamp.umd.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Teaching and Learning Transformation Center
- - [https://tltc.umd.edu](https://tltc.umd.edu)
- - date_published: 2024-07-02T03:37:52.113368+00:00
-
- ## Maryland Today | Latest News, Stories & Announcements - University of…
- - [https://today.umd.edu](https://today.umd.edu)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## NSF Institute for Trustworthy AI in Law & Society (TRAILS)
- - [http://trails.umd.edu](http://trails.umd.edu)
- - date_published: 2024-07-21T23:37:46.785132+00:00
-
- ## Home | Transportation Services University of Maryland
- - [https://transportation.umd.edu](https://transportation.umd.edu)
- - date_published: 2024-07-02T03:37:59.928052+00:00
-
- ## Office of Undergraduate Studies
- - [https://ugst.umd.edu](https://ugst.umd.edu)
- - date_published: 2024-05-07T18:43:05+00:00
-
- ## University Human Resources | University Human Resources
- - [https://uhr.umd.edu](https://uhr.umd.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home | The University of Maryland
- - [https://umd.edu](https://umd.edu)
- - date_published: 2024-07-02T01:35:39+00:00
-
- ## University of Maryland
- - [https://umd-header.umd.edu](https://umd-header.umd.edu)
- - date_published: 2020-04-17T11:16:51+00:00
-
- ## UMD Department of Physics - UMD Physics
- - [https://umdphysics.umd.edu](https://umdphysics.umd.edu)
- - date_published: 2024-12-24T10:09:25.708297+00:00
-
- ## UMD Right Now | UMD | UMD Right Now
- - [https://umdrightnow.umd.edu](https://umdrightnow.umd.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## University of Maryland Institute for Advanced Computer Studies | UMIACS
- - [https://umiacs.umd.edu](https://umiacs.umd.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | UMPD News
- - [https://umpdnews.umd.edu](https://umpdnews.umd.edu)
- - date_published: 2024-06-17T00:00:00+00:00
 

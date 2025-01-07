@@ -1,3 +1,8 @@
+ ## Ben Christel’s Homepage
+ - [https://benchristel.com](https://benchristel.com)
+ - date_published: 2024-09-29T20:03:49.454968+00:00
+ - tags: ['personal']
+
  ## Ben Cowgill
  - [https://bencowgill.com](https://bencowgill.com)
  - date_published: 2024-01-11T17:08:58.451572+00:00
@@ -222,7 +227,7 @@
  - date_published: 2023-12-12T08:35:22.223621+00:00
 
  ## ACCUEIL
- - [https://www.benevoles-beauregard.com](https://www.benevoles-beauregard.com)
+ - [https://benevoles-beauregard.com](https://benevoles-beauregard.com)
  - date_published: 2024-10-29T09:10:59.810208+00:00
 
  ## Home
@@ -372,6 +377,10 @@
  ## Musician | Benjamin Hunter Music | United States
  - [https://www.benjaminhuntermusic.com](https://www.benjaminhuntermusic.com)
  - date_published: 2024-07-04T16:30:25.840515+00:00
+
+ ## BJL - Posts on economics, CS, and ML
+ - [https://benjaminlabaschin.com](https://benjaminlabaschin.com)
+ - date_published: 2025-01-06T18:45:45.149596+00:00
 
  ## Benjamin Breen
  - [https://benjaminpbreen.com](https://benjaminpbreen.com)
@@ -4028,12 +4037,4 @@
  ## bidadoo | Online Auctions Every Tuesday
  - [https://www.bidadoo.com](https://www.bidadoo.com)
  - date_published: 2024-07-15T04:00:20.085000+00:00
-
- ## Softaculous Webuzo | Default Website Page
- - [http://www.bidalaka.com](http://www.bidalaka.com)
- - date_published: 2024-07-04T13:32:42.778732+00:00
-
- ## Home
- - [http://v2.bidberrymedia.com](http://v2.bidberrymedia.com)
- - date_published: 2024-06-25T06:00:04+00:00
 

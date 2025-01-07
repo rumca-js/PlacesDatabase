@@ -1,3 +1,7 @@
+ ## Appstle - Grow your E-Commerce Journey with Compelling Apps
+ - [https://appstle.com](https://appstle.com)
+ - date_published: 2024-08-20T00:00:00+00:00
+
  ## loyalty
  - [https://loyalty-admin.appstle.com](https://loyalty-admin.appstle.com)
  - date_published: 2024-04-30T05:43:54.395535+00:00
@@ -19,11 +23,11 @@
  - date_published: 2025-01-02T18:54:13.500761+00:00
 
  ## App Store
- - [http://www.appstore.com](http://www.appstore.com)
+ - [https://www.appstore.com](https://www.appstore.com)
  - date_published: 2024-06-24T00:00:00+00:00
 
  ## App Store Review Guidelines History
- - [http://www.appstorereviewguidelineshistory.com](http://www.appstorereviewguidelineshistory.com)
+ - [https://appstorereviewguidelineshistory.com](https://appstorereviewguidelineshistory.com)
  - date_published: 2024-04-10T00:00:00+00:00
 
  ## Browse software deals for your business. | AppSumo
@@ -47,7 +51,7 @@
  - date_published: 2024-10-31T07:31:43.314706+00:00
 
  ## Apps Web Social : Digital Marketing & More For Business in Sarasota, Florida
- - [https://www.appswebsocial.com](https://www.appswebsocial.com)
+ - [https://appswebsocial.com](https://appswebsocial.com)
  - date_published: 2022-01-26T00:00:00+00:00
 
  ## Apps Without Code
@@ -55,7 +59,7 @@
  - date_published: 2024-05-09T08:46:26.346144+00:00
 
  ## Mobile video ads, app store videos and game trailers - Apptamin
- - [https://www.apptamin.com](https://www.apptamin.com)
+ - [https://apptamin.com](https://apptamin.com)
  - date_published: 2022-10-11T00:00:00+00:00
 
  ## Mobile App Development Agency | Hampshire | Apptaura
@@ -63,7 +67,7 @@
  - date_published: 2024-05-07T09:28:46.937036+00:00
 
  ## AppTek Official Website - AI Language Technology Solutions
- - [https://www.apptek.com](https://www.apptek.com)
+ - [https://apptek.com](https://apptek.com)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Apptension - Product Design & Development Company
@@ -75,11 +79,11 @@
  - date_published: 2024-07-10T11:16:28.266677+00:00
 
  ## Apptentive is now Alchemer Mobile
- - [https://www.apptentive.com](https://www.apptentive.com)
+ - [https://apptentive.com](https://apptentive.com)
  - date_published: 2024-05-04T07:50:06.507654+00:00
 
  ## AppThemes
- - [https://www.appthemes.com](https://www.appthemes.com)
+ - [https://appthemes.com](https://appthemes.com)
  - date_published: 2024-10-19T07:58:55.093882+00:00
 
  ## Trusted Technology Investment Decisions | Apptio
@@ -111,7 +115,7 @@
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Apptorium – Here we create your Mac apps
- - [https://www.apptorium.com](https://www.apptorium.com)
+ - [https://apptorium.com](https://apptorium.com)
  - date_published: 2024-07-09T15:51:26.149072+00:00
 
  ## Plausible · Web analytics
@@ -123,11 +127,11 @@
  - date_published: 2024-06-20T13:00:07.269740+00:00
 
  ## Apptunix | Leading App Development Company
- - [https://www.apptunix.com](https://www.apptunix.com)
+ - [https://apptunix.com](https://apptunix.com)
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## AppTweak - Increase app store visibility & drive downloads
- - [https://www.apptweak.com](https://www.apptweak.com)
+ - [http://apptweak.com](http://apptweak.com)
  - date_published: 2024-06-24T00:00:00+00:00
 
  ## Appuals
@@ -163,6 +167,10 @@
  - [https://www.appverticals.com](https://www.appverticals.com)
  - date_published: 2024-11-12T11:51:42.270757+00:00
 
+ ## Continuous Integration and Deployment service for Windows, Linux and macOS
+ - [https://appveyor.com](https://appveyor.com)
+ - date_published: 2022-03-07T02:02:24+00:00
+
  ## AppVeyor
  - [https://ci.appveyor.com](https://ci.appveyor.com)
  - date_published: 2024-05-09T05:54:37.616195+00:00
@@ -175,10 +183,6 @@
  - [https://status.appveyor.com](https://status.appveyor.com)
  - date_published: 2024-06-16T12:32:05.646911+00:00
 
- ## Continuous Integration and Deployment service for Windows, Linux and macOS
- - [https://www.appveyor.com](https://www.appveyor.com)
- - date_published: 2022-03-07T02:02:24+00:00
-
  ## News and Advice on the World's Latest Innovations
  - [http://www.appwatch.com](http://www.appwatch.com)
  - date_published: 2024-07-07T09:08:23.251950+00:00
@@ -190,6 +194,10 @@
  ## Login | Appy Pie
  - [https://accounts.appypie.com](https://accounts.appypie.com)
  - date_published: 2024-05-04T12:10:50.274368+00:00
+
+ ## No-code development & workflow automation platform | Appy Pie
+ - [https://appypie.com](https://appypie.com)
+ - date_published: 2019-12-10T00:00:00+00:00
 
  ## انشاء التطبيق مع القوالب المتوفرة عبر الموقع , اختار ميزات التطبيق المتعددة . صمم التطبيق الآن
  - [https://arsnappy.appypie.com](https://arsnappy.appypie.com)
@@ -243,10 +251,6 @@
  - [https://snappy.appypie.com](https://snappy.appypie.com)
  - date_published: 2024-05-04T12:11:16.292542+00:00
 
- ## No-code development & workflow automation platform | Appy Pie
- - [https://www.appypie.com](https://www.appypie.com)
- - date_published: 2019-12-10T00:00:00+00:00
-
  ## AppZen AI for Modern Finance Teams | Measure Your Returns
  - [https://appzen.com](https://appzen.com)
  - date_published: 2024-10-06T09:09:34+00:00
@@ -259,24 +263,24 @@
  - [https://info.appzen.com](https://info.appzen.com)
  - date_published: 2024-10-06T09:09:34+00:00
 
- ## Summary | April Brother Wiki
- - [http://wiki.aprbrother.com](http://wiki.aprbrother.com)
- - date_published: 2024-08-23T06:14:38+00:00
-
  ## April Brother
- - [https://www.aprbrother.com](https://www.aprbrother.com)
+ - [https://aprbrother.com](https://aprbrother.com)
  - date_published: 2024-09-05T18:30:38.455254+00:00
+
+ ## Summary | April Brother Wiki
+ - [https://wiki.aprbrother.com](https://wiki.aprbrother.com)
+ - date_published: 2024-08-23T06:14:38+00:00
 
  ## Aprende a Tejer | Beagle Knits – Cursos y patrones para aprender a tejer
  - [https://aprendeatejer.com](https://aprendeatejer.com)
  - date_published: 2024-09-19T19:24:52.347332+00:00
 
  ## Store - AprendeXojo
- - [https://www.aprendexojo.com](https://www.aprendexojo.com)
+ - [https://aprendexojo.com](https://aprendexojo.com)
  - date_published: 2024-07-18T06:53:25.478229+00:00
 
  ## Prentiss Riddle: aprendiz de todo, maestro de nada
- - [http://aprendizdetodo.com](http://aprendizdetodo.com)
+ - [https://aprendizdetodo.com](https://aprendizdetodo.com)
  - date_published: 2024-07-02T06:37:38.579515+00:00
 
  ## Apress Home
@@ -288,7 +292,7 @@
  - date_published: 2024-05-02T00:00:00+00:00
 
  ## April D. DeConick
- - [http://aprildeconick.com](http://aprildeconick.com)
+ - [https://aprildeconick.com](https://aprildeconick.com)
  - date_published: 2024-06-28T21:07:23.534157+00:00
 
  ## April Dunford - Positioning for B2B Tech Companies
@@ -304,7 +308,7 @@
  - date_published: 2023-11-29T14:26:02.757803+00:00
 
  ## One Post Home - April Winchell
- - [http://www.aprilwinchell.com](http://www.aprilwinchell.com)
+ - [https://aprilwinchell.com](https://aprilwinchell.com)
  - date_published: 2024-10-21T05:08:11.026080+00:00
 
  ## A P R I L Z E R O
@@ -320,7 +324,7 @@
  - date_published: 2024-07-03T10:09:59.397306+00:00
 
  ## Apronus.com
- - [https://www.apronus.com](https://www.apronus.com)
+ - [https://apronus.com](https://apronus.com)
  - date_published: 2024-06-20T01:58:41.005816+00:00
 
  ## Log In
@@ -338,19 +342,19 @@
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## Arizona Public Service
- - [https://www.aps.com](https://www.aps.com)
+ - [https://aps.com](https://aps.com)
  - date_published: 2024-07-09T23:07:49.003476+00:00
 
  ## APSCC 2024 - Bringing Together Space
- - [http://www.apsccsat.com](http://www.apsccsat.com)
+ - [https://apsccsat.com](https://apsccsat.com)
  - date_published: 2024-10-23T06:30:06.322456+00:00
 
  ## A Psicóloga
- - [http://www.apsicologa.com](http://www.apsicologa.com)
+ - [http://apsicologa.com](http://apsicologa.com)
  - date_published: 2024-07-03T03:40:08+00:00
 
  ## Apsisware - The Machine Learning Company
- - [https://www.apsisware.com](https://www.apsisware.com)
+ - [https://apsisware.com](https://apsisware.com)
  - date_published: 2024-07-14T14:48:07+00:00
 
  ## Catsy | Product Information Management (PIM) System
@@ -358,7 +362,7 @@
  - date_published: 2024-11-16T19:51:13.479890+00:00
 
  ## Apsom Technology India Pvt Ltd
- - [http://www.apsomtechnologies.com](http://www.apsomtechnologies.com)
+ - [https://apsomtechnologies.com](https://apsomtechnologies.com)
  - date_published: 2024-10-15T21:36:59.976949+00:00
 
  ## APS Physics Jobs | jobs | Choose from 140 live job openings
@@ -366,12 +370,12 @@
  - date_published: 2024-08-18T20:54:37.874859+00:00
 
  ## Associated Press Stylebook
- - [https://attachments.apstylebook.com](https://attachments.apstylebook.com)
- - date_published: 2024-10-30T00:24:43.560288+00:00
+ - [https://apstylebook.com](https://apstylebook.com)
+ - date_published: 2024-06-19T17:48:02.354025+00:00
 
  ## Associated Press Stylebook
- - [https://www.apstylebook.com](https://www.apstylebook.com)
- - date_published: 2024-06-19T17:48:02.354025+00:00
+ - [https://attachments.apstylebook.com](https://attachments.apstylebook.com)
+ - date_published: 2024-10-30T00:24:43.560288+00:00
 
  ## APsystems USA | The global leader in multi-platform MLPE technology -
  - [https://usa.apsystems.com](https://usa.apsystems.com)
@@ -386,19 +390,20 @@
  - date_published: 2025-01-01T15:41:49.111731+00:00
 
  ## Home - American Public Transportation Association
- - [http://passengertransport.apta.com](http://passengertransport.apta.com)
- - date_published: 2024-07-01T00:00:00+00:00
+ - [https://apta.com](https://apta.com)
+ - date_published: 2024-06-27T00:00:00+00:00
 
  ## Home - American Public Transportation Association
- - [https://www.apta.com](https://www.apta.com)
- - date_published: 2024-06-27T00:00:00+00:00
+ - [https://passengertransport.apta.com](https://passengertransport.apta.com)
+ - date_published: 2024-07-01T00:00:00+00:00
 
  ## Aptabase • Analytics for Mobile, Desktop and Web apps
  - [https://aptabase.com](https://aptabase.com)
  - date_published: 2024-06-19T22:35:01.108789+00:00
+ - date_dead_since: 2025-01-06T08:16:24.655959+00:00
 
  ## Aptana.com
- - [http://aptana.com](http://aptana.com)
+ - [https://aptana.com](https://aptana.com)
  - date_published: 2024-07-02T12:32:10+00:00
 
  ## Login | The ACM Publishing System (TAPS)
@@ -410,11 +415,11 @@
  - date_published: 2024-05-14T00:00:00+00:00
 
  ## Workspace ONE® Intelligence™
- - [http://www.apteligent.com](http://www.apteligent.com)
+ - [https://www.apteligent.com](https://www.apteligent.com)
  - date_published: 2024-06-26T07:09:55+00:00
 
  ## Wholesale Cleaning Products that “Just Work Better” - Apter Industries
- - [http://www.apterindustries.com](http://www.apterindustries.com)
+ - [https://apterindustries.com](https://apterindustries.com)
  - date_published: 2024-09-03T00:00:00+00:00
 
  ## Aptible
@@ -447,7 +452,7 @@
  - date_published: 2024-07-15T00:00:00+00:00
 
  ## Attention Required! | Cloudflare
- - [https://ir.aptiv.com](https://ir.aptiv.com)
+ - [http://ir.aptiv.com](http://ir.aptiv.com)
  - date_published: 2024-07-19T20:42:28.471556+00:00
 
  ## Aptoide - The alternative Android app store
@@ -460,7 +465,7 @@
  - date_published: 2024-12-12T22:29:43.170945+00:00
 
  ## Apto Payments | The leading-edge card issuance platform
- - [https://www.aptopayments.com](https://www.aptopayments.com)
+ - [https://aptopayments.com](https://aptopayments.com)
  - date_published: 2024-06-22T07:50:00+00:00
 
  ## Aptos Ascend | Customizable Blockchain Technology
@@ -476,7 +481,7 @@
  - date_published: 2024-09-25T10:29:39.354405+00:00
 
  ## Aptos Names
- - [https://www.aptosnames.com](https://www.aptosnames.com)
+ - [https://aptosnames.com](https://aptosnames.com)
  - date_published: 2024-09-25T10:29:48.982971+00:00
 
  ## Procure | Venture Capital
@@ -500,7 +505,7 @@
  - date_published: 2024-08-28T00:00:00+00:00
 
  ## 立命館アジア太平洋大学 孔子学院 | APU 孔子学院
- - [http://apu-confucius.com](http://apu-confucius.com)
+ - [https://apu-confucius.com](https://apu-confucius.com)
  - date_published: 2013-08-26T05:18:16+00:00
 
  ## ApuestasCol - Tu Portal de Apuestas Deportivas Online
@@ -508,11 +513,11 @@
  - date_published: 2024-08-07T21:20:26.993587+00:00
 
  ## APU Nordic Ski Center - World-class nordic training center in Alaska
- - [http://apunordic.com](http://apunordic.com)
+ - [https://apunordic.com](https://apunordic.com)
  - date_published: 2024-08-28T00:00:00+00:00
 
  ## Secure Crypto-Backed Loans | Bitcoin & Ethereum Backed Loans - APX Lending
- - [https://www.apxlending.com](https://www.apxlending.com)
+ - [https://apxlending.com](https://apxlending.com)
  - date_published: 2024-09-24T00:00:00+00:00
 
  ## Best Free Website Design Software
@@ -529,7 +534,7 @@
  - tags: ['mmorpg', 'video game']
 
  ## AQ2D on Adventure Quest 2D
- - [http://aq2d.com](http://aq2d.com)
+ - [https://aq2d.com](https://aq2d.com)
  - date_published: 2024-10-27T02:51:28.612032+00:00
 
  ## AdventureQuest 3D: Immerse Yourself in a Vast Multiplayer Crossplay RPG World
@@ -537,7 +542,7 @@
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## AqabaIX
- - [https://www.aqabaix.com](https://www.aqabaix.com)
+ - [https://aqabaix.com](https://aqabaix.com)
  - date_published: 2024-06-22T12:37:18.166550+00:00
 
  ## nhà cái uy tín PG88
@@ -557,15 +562,15 @@
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## Adventure Quest Dragons - A Cookie Clicker collaboration game ...with Dragons!
- - [https://www.aqdragons.com](https://www.aqdragons.com)
+ - [https://aqdragons.com](https://aqdragons.com)
  - date_published: 2023-06-21T18:58:24+00:00
 
  ## AQLSoft: AQL Secure Password Generator, AQL .htpasswd and .htaccess Password Manager, provides secure software/tools
- - [http://www.aqlsoft.com](http://www.aqlsoft.com)
+ - [http://aqlsoft.com](http://aqlsoft.com)
  - date_published: 2015-09-19T10:33:36+00:00
 
  ## Outdoor air quality monitoring system for fenceline monitoring
- - [https://www.aqmesh.com](https://www.aqmesh.com)
+ - [https://aqmesh.com](https://aqmesh.com)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## atractivoquenobello
@@ -573,7 +578,7 @@
  - date_published: 2025-01-01T11:21:38+00:00
 
  ## Alex Nichol
- - [http://aqnichol.com](http://aqnichol.com)
+ - [https://aqnichol.com](https://aqnichol.com)
  - date_published: 2021-09-16T14:19:09+00:00
 
  ## Pickled ML – Documenting my eccentric Machine Learning projects
@@ -581,7 +586,7 @@
  - date_published: 2023-10-25T12:43:28.339043+00:00
 
  ## AQ Stream - Live TV Channels
- - [http://aqstream.com](http://aqstream.com)
+ - [https://aqstream.com](https://aqstream.com)
  - date_published: 2024-02-28T03:36:49+00:00
 
  ## Aqtual
@@ -589,12 +594,13 @@
  - date_published: 2024-05-28T00:44:38.477387+00:00
 
  ## AQUA4D [Swiss efficiency.]
- - [https://www.aqua4d.com](https://www.aqua4d.com)
+ - [https://aqua4d.com](https://aqua4d.com)
  - date_published: 2024-07-08T11:58:27.161824+00:00
 
  ## Aqua Art Miami
- - [http://www.aquaartmiami.com](http://www.aquaartmiami.com)
+ - [https://aquaartmiami.com](https://aquaartmiami.com)
  - date_published: 2024-06-18T13:35:20.158297+00:00
+ - date_dead_since: 2025-01-06T08:21:59.139756+00:00
 
  ## Commercial Cleaning Experts Croydon | Aqua Blue Services
  - [https://aquablueservices.com](https://aquablueservices.com)
@@ -613,19 +619,19 @@
  - date_published: 2024-07-04T13:03:29.045473+00:00
 
  ## Database IDE | Aqua Data Studio - Database IDE | Aquafold
- - [https://www.aquafold.com](https://www.aquafold.com)
+ - [https://aquafold.com](https://aquafold.com)
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## Home - Aquamarine Fund
- - [https://www.aquamarinefund.com](https://www.aquamarinefund.com)
+ - [https://aquamarinefund.com](https://aquamarinefund.com)
  - date_published: 2024-04-10T00:00:00+00:00
 
  ## NoteTaker 4
- - [http://www.aquaminds.com](http://www.aquaminds.com)
+ - [https://aquaminds.com](https://aquaminds.com)
  - date_published: 2023-07-16T17:27:07+00:00
 
  ## Aquanima - Conoce Aquanima
- - [https://www.aquanima.com](https://www.aquanima.com)
+ - [https://aquanima.com](https://aquanima.com)
  - date_published: 2024-09-28T23:59:20.051100+00:00
 
  ## AQUAOSO | Location-based Climate Intelligence for Ag Lenders
@@ -633,7 +639,7 @@
  - date_published: 2022-10-20T00:00:00+00:00
 
  ## Specialists in cloud based ad server hosting, systems and technology - Aqua Platform
- - [http://www.aquaplatform.com](http://www.aquaplatform.com)
+ - [https://www.aquaplatform.com](https://www.aquaplatform.com)
  - date_published: 2024-09-19T22:54:12+00:00
 
  ## Water Testing Equipment & Water Analysis Devices
@@ -641,7 +647,7 @@
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## Aquarian Drumheads | Helping Drummers Make Music Worldwide
- - [https://www.aquariandrumheads.com](https://www.aquariandrumheads.com)
+ - [https://aquariandrumheads.com](https://aquariandrumheads.com)
  - date_published: 2024-08-19T16:00:52.898213+00:00
 
  ## Aquarium Drunkard
@@ -651,6 +657,10 @@
  ## Aqua Security Aquademy
  - [https://aquademy.aquasec.com](https://aquademy.aquasec.com)
  - date_published: 2024-06-22T12:26:19.414902+00:00
+
+ ## Aqua Cloud Native Security, Container & Serverless Security
+ - [https://aquasec.com](https://aquasec.com)
+ - date_published: 2024-04-21T00:00:00+00:00
 
  ## Cloud native applications security
  - [https://blog.aquasec.com](https://blog.aquasec.com)
@@ -672,16 +682,12 @@
  - [https://support.aquasec.com](https://support.aquasec.com)
  - date_published: 2024-06-22T12:26:14.261223+00:00
 
- ## Aqua Cloud Native Security, Container & Serverless Security
- - [https://www.aquasec.com](https://www.aquasec.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
  ## Real-Time Water Quality Monitoring | Aquasend
- - [http://aquasend.com](http://aquasend.com)
+ - [https://aquasend.com](https://aquasend.com)
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## Aquatech | All eyes on water technology
- - [https://www.aquatechtrade.com](https://www.aquatechtrade.com)
+ - [https://aquatechtrade.com](https://aquatechtrade.com)
  - date_published: 2024-10-15T01:51:15.845122+00:00
 
  ## Tactical Gear & Equipment Supplier | Aquaterro Tactical Gear
@@ -697,7 +703,7 @@
  - date_published: 2024-07-09T09:49:52.995406+00:00
 
  ## Aquatic Plant Forum
- - [https://www.aquaticplantcentral.com](https://www.aquaticplantcentral.com)
+ - [http://aquaticplantcentral.com](http://aquaticplantcentral.com)
  - date_published: 2024-07-09T09:53:53+00:00
 
  ## Aquent: Global Work Solutions Company
@@ -725,7 +731,7 @@
  - date_published: 2024-10-14T00:00:00+00:00
 
  ## aquireside
- - [https://www.aquireside.com](https://www.aquireside.com)
+ - [https://aquireside.com](https://aquireside.com)
  - date_published: 2024-07-16T17:56:04.690578+00:00
 
  ## Aquoid – Photonic, Suffusion and Other Premium-for-Free Projects
@@ -733,7 +739,7 @@
  - date_published: 2024-05-29T09:12:48.745147+00:00
 
  ## ar15.com - Your Firearm Resource. (AR-15, AR-10, M4, M16, AK-47, and More!)
- - [https://www.ar15.com](https://www.ar15.com)
+ - [https://ar15.com](https://ar15.com)
  - date_published: 2024-07-04T00:01:55.306564+00:00
 
  ## American River 50 Mile Endurance Run | NorCalUltras
@@ -741,11 +747,11 @@
  - date_published: 2024-12-19T10:36:06.240015+00:00
 
  ## Arab Advisors Group - Homepage
- - [http://www.arabadvisors.com](http://www.arabadvisors.com)
+ - [https://arabadvisors.com](https://arabadvisors.com)
  - date_published: 2024-07-07T01:28:22.993442+00:00
 
  ## Arab-Afro Digital Payment Symposium & Awards | Bii World
- - [https://www.arabafrodigipaysymposium.com](https://www.arabafrodigipaysymposium.com)
+ - [https://arabafrodigipaysymposium.com](https://arabafrodigipaysymposium.com)
  - date_published: 2024-09-24T22:53:55.996674+00:00
 
  ## Home
@@ -765,7 +771,7 @@
  - date_published: 2024-06-27T15:27:30.822285+00:00
 
  ## ARABELLA PROFFER
- - [http://www.arabellaproffer.com](http://www.arabellaproffer.com)
+ - [https://arabellaproffer.com](https://arabellaproffer.com)
  - date_published: 2024-06-28T14:17:52.262416+00:00
 
  ## عرب جيمرز  – عرب جيمرز
@@ -777,7 +783,7 @@
  - date_published: 2024-12-24T21:22:24.086365+00:00
 
  ## Arab Herald - Arab Nations & Region News
- - [http://www.arabherald.com](http://www.arabherald.com)
+ - [https://arabherald.com](https://arabherald.com)
  - date_published: 2024-07-13T22:47:47.598565+00:00
 
  ## Dubai News, Abu Dhabi News, Middle East Business News, Gulf Financial & Industry Events and Information - ArabianBusiness.com
@@ -813,7 +819,7 @@
  - date_published: 2024-09-25T00:00:00+00:00
 
  ## Pizza Time
- - [https://arabiclarouche.com](https://arabiclarouche.com)
+ - [http://arabiclarouche.com](http://arabiclarouche.com)
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## Arab Online Casino | 100٪ مراجعات موثوقة كازينو اون لاين
@@ -829,7 +835,7 @@
  - date_published: 2024-10-29T13:33:58+00:00
 
  ## Arabic Typography – Type Foundry specialising in Arabic Typedesign & multilingual fonts
- - [http://www.arabictypography.com](http://www.arabictypography.com)
+ - [https://arabictypography.com](https://arabictypography.com)
  - date_published: 2024-07-02T05:39:32.753074+00:00
 
  ## العربي موبايل
@@ -837,7 +843,7 @@
  - date_published: 2024-10-19T01:44:17.723772+00:00
 
  ## Arab Media & Society
- - [http://www.arabmediasociety.com](http://www.arabmediasociety.com)
+ - [https://arabmediasociety.com](https://arabmediasociety.com)
  - date_published: 2024-10-21T18:35:49.201029+00:00
 
  ## Arab News | Worldwide News, Latest Breaking News & Updates
@@ -845,7 +851,7 @@
  - date_published: 2023-10-25T10:12:38.174591+00:00
 
  ## Arab News Jobs - Arab News - Arab News
- - [http://jobs.arabnews.com](http://jobs.arabnews.com)
+ - [https://jobs.arabnews.com](https://jobs.arabnews.com)
  - date_published: 2024-06-24T02:30:42.205752+00:00
 
  ## TherapyMantra | Online Therapy for the Middle East/ Arab
@@ -870,11 +876,11 @@
  - date_published: 2024-05-02T13:42:49.961593+00:00
 
  ## Arachsys Internet Services Ltd: contact information
- - [http://www.arachsys.com](http://www.arachsys.com)
+ - [http://arachsys.com](http://arachsys.com)
  - date_published: 2018-08-04T13:11:48+00:00
 
  ## Aracnet; Internet Services. Hotel bookings online
- - [http://www.aracnet.com](http://www.aracnet.com)
+ - [https://aracnet.com](https://aracnet.com)
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Aradia Collective for Magical Girl Comics - Home
@@ -882,7 +888,7 @@
  - date_published: 2024-08-06T04:57:41.183711+00:00
 
  ## Araelium — Home
- - [https://www.araelium.com](https://www.araelium.com)
+ - [https://araelium.com](https://araelium.com)
  - date_published: 2024-06-23T04:00:30.012061+00:00
 
  ## Personal Portfolio - Arafat Tehsin
@@ -907,7 +913,7 @@
  - date_published: 2024-07-02T19:58:19.329982+00:00
 
  ## Aramark - Food, Facilities, and Uniform Services - Aramark
- - [https://www.aramark.com](https://www.aramark.com)
+ - [https://aramark.com](https://aramark.com)
  - date_published: 2024-07-20T04:54:01+00:00
 
  ## Where Energy is Opportunity
@@ -982,7 +988,7 @@
  - date_published: 2023-04-26T21:55:10+00:00
 
  ## Arthritis and Rheumatology Treatment in Palm Beach, Florida
- - [http://arapb.com](http://arapb.com)
+ - [https://arapb.com](https://arapb.com)
  - date_published: 2024-06-28T11:55:03.204430+00:00
 
  ## Aras Developer | Your Innovator PLM Expert
@@ -1026,7 +1032,7 @@
  - date_published: 2024-03-05T15:01:34.150058+00:00
 
  ## Arbitrage | Official Site | In Theaters SEPTEMBER 14
- - [http://www.arbitrage-film.com](http://www.arbitrage-film.com)
+ - [https://arbitrage-film.com](https://arbitrage-film.com)
  - date_published: 2013-04-06T04:21:06+00:00
 
  ## Arbitrary Awards - Best Website Awards Website Site Period
@@ -1050,7 +1056,7 @@
  - date_published: 2024-09-04T04:12:01.194390+00:00
 
  ## Manage AR and VR Devices - VR Device Management | ArborXR
- - [https://arborxr.com](https://arborxr.com)
+ - [http://arborxr.com](http://arborxr.com)
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## ArborXR Help Center
@@ -1076,13 +1082,14 @@
  ## Plywood C++ Framework
  - [https://plywood.arc80.com](https://plywood.arc80.com)
  - date_published: 2024-05-07T09:14:38.563003+00:00
+ - date_dead_since: 2025-01-06T08:42:31.995961+00:00
 
  ## Arcade1Up | Officially Licensed Arcade Cabinets
  - [https://arcade1up.com](https://arcade1up.com)
  - date_published: 2024-10-29T23:57:42.386965+00:00
 
  ## Arcade Art Shop – Reproduction & Custom Artwork Printing for Arcade Games in the UK
- - [https://www.arcadeartshop.com](https://www.arcadeartshop.com)
+ - [https://arcadeartshop.com](https://arcadeartshop.com)
  - date_published: 2024-08-20T19:37:43.278349+00:00
 
  ## Flexible Belts | Outdoor Adventure Belts | Arcade Belts
@@ -1098,11 +1105,11 @@
  - date_published: 2019-01-21T15:32:11+00:00
 
  ## An Error Has Occurred!
- - [http://forum.arcadecontrols.com](http://forum.arcadecontrols.com)
+ - [https://forum.arcadecontrols.com](https://forum.arcadecontrols.com)
  - date_published: 2024-09-03T00:00:00+00:00
 
  ## The Massive Mame Project - Your One Stop Arcade Cabinet Resource!
- - [http://mameys.arcadecontrols.com](http://mameys.arcadecontrols.com)
+ - [https://mameys.arcadecontrols.com](https://mameys.arcadecontrols.com)
  - date_published: 2009-03-05T05:20:01+00:00
 
  ## ArcadeDB - MultiModel and Graph Database
@@ -1119,7 +1126,7 @@
  - tags: ['music band']
 
  ## The Arcade Flyer Archive - Home
- - [http://www.arcadeflyers.com](http://www.arcadeflyers.com)
+ - [http://arcadeflyers.com](http://arcadeflyers.com)
  - date_published: 2024-07-11T20:56:26.889178+00:00
 
  ## Arcade Guns!
@@ -1127,7 +1134,7 @@
  - date_published: 2024-06-14T15:53:05.205824+00:00
 
  ## Arcade ROM Heaven
- - [http://www.arcadeheaven.com](http://www.arcadeheaven.com)
+ - [https://arcadeheaven.com](https://arcadeheaven.com)
  - date_published: 2024-03-11T23:36:57+00:00
 
  ## Gaming History: arcade games, slots, consoles, computers, video games and more...
@@ -1159,11 +1166,11 @@
  - date_published: 2024-09-15T08:54:49.351158+00:00
 
  ## MOLD-A-RAMA (moldarama) machine made in 1964 by Mold-A-Rama, Inc. for New York World's Fair, and Seattle World's Fair in 1962, is restored to its original glory to reissue souvenirs last seen half a century ago. MOLD-A-RAMA machine made in 1964 by Mold-A-Rama, Inc. for New York World's Fair,
- - [http://moldville.arcade-museum.com](http://moldville.arcade-museum.com)
+ - [https://moldville.arcade-museum.com](https://moldville.arcade-museum.com)
  - date_published: 2020-09-23T04:21:23+00:00
 
  ## Arcade Parts UK |
- - [https://www.arcadepartsuk.com](https://www.arcadepartsuk.com)
+ - [https://arcadepartsuk.com](https://arcadepartsuk.com)
  - date_published: 2024-07-08T19:03:09.545251+00:00
 
  ## ArcadePod.Com: Free Online Games
@@ -1171,11 +1178,11 @@
  - date_published: 2024-11-16T21:25:01.165093+00:00
 
  ## Play Hacked Games Online | ArcadePreHacks.com
- - [http://www.arcadeprehacks.com](http://www.arcadeprehacks.com)
+ - [https://arcadeprehacks.com](https://arcadeprehacks.com)
  - date_published: 2024-06-23T18:20:48.391277+00:00
 
  ## Arcade Punks: Retro Gaming, DIY Arcade Builds, and Loaded Retro Front Ends
- - [https://www.arcadepunks.com](https://www.arcadepunks.com)
+ - [https://arcadepunks.com](https://arcadepunks.com)
  - date_published: 2024-06-29T03:32:50.075722+00:00
 
  ## Arcader | Free Retro Arcade Games
@@ -1189,11 +1196,11 @@
  - tags: ['demoscene']
 
  ## Louisville Arcade Expo
- - [http://www.arcaderx.com](http://www.arcaderx.com)
+ - [https://arcaderx.com](https://arcaderx.com)
  - date_published: 2024-03-28T05:39:26+00:00
 
  ## arcadeshopper.com - arcade games, pinball, classic computers, buy sell trade
- - [http://www.arcadeshopper.com](http://www.arcadeshopper.com)
+ - [https://arcadeshopper.com](https://arcadeshopper.com)
  - date_published: 2021-03-08T02:06:18+00:00
 
  ## Arcade Games - Play Free Online Games - Arcade Spot
@@ -1207,6 +1214,10 @@
  ## Arcadezentrum - Dein ArcadeFunBoard
  - [https://arcadezentrum.com](https://arcadezentrum.com)
  - date_published: 2023-09-16T15:50:59+00:00
+
+ ## Arcadia: Connecting the clean energy future.
+ - [https://arcadia.com](https://arcadia.com)
+ - date_published: 2024-06-16T08:18:47.947651+00:00
 
  ## Arcadia Power Legal Center
  - [https://arc-legal.arcadia.com](https://arc-legal.arcadia.com)
@@ -1229,27 +1240,23 @@
  - date_published: 2024-06-14T10:48:39+00:00
 
  ## Arcadia Support Center
- - [https://support.arcadia.com](https://support.arcadia.com)
+ - [http://support.arcadia.com](http://support.arcadia.com)
  - date_published: 2024-09-27T20:33:41.025754+00:00
-
- ## Arcadia: Connecting the clean energy future.
- - [https://www.arcadia.com](https://www.arcadia.com)
- - date_published: 2024-06-16T08:18:47.947651+00:00
 
  ## Arcadia: Connecting the clean energy future.
  - [https://arcadiapower.com](https://arcadiapower.com)
  - date_published: 2024-04-17T00:00:00+00:00
 
  ## Arcadia Publishing | Local and Regional History Books
- - [http://www.arcadiapublishing.com](http://www.arcadiapublishing.com)
+ - [https://arcadiapublishing.com](https://arcadiapublishing.com)
  - date_published: 2024-07-04T05:03:08.107313+00:00
 
  ## Home - Arcadia Reptile
- - [https://www.arcadiareptile.com](https://www.arcadiareptile.com)
+ - [https://arcadiareptile.com](https://arcadiareptile.com)
  - date_published: 2024-06-24T05:21:40.508071+00:00
 
  ## Arcadia Science
- - [https://www.arcadiascience.com](https://www.arcadiascience.com)
+ - [https://arcadiascience.com](https://arcadiascience.com)
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## Soluciones web para Fotógrafos 📸 | Arcadina ®
@@ -1269,7 +1276,7 @@
  - date_published: 2024-08-11T15:12:28.276792+00:00
 
  ## News & Entertainment by Email | ArcaMax Publishing
- - [https://www.arcamax.com](https://www.arcamax.com)
+ - [https://arcamax.com](https://arcamax.com)
  - date_published: 2024-05-03T00:00:00+00:00
 
  ## Arcana Wildcraft
@@ -1277,7 +1284,7 @@
  - date_published: 2024-09-06T13:13:41.670546+00:00
 
  ## Leo ArcanaXIX's Tubular Website
- - [http://www.arcanaxix.com](http://www.arcanaxix.com)
+ - [https://arcanaxix.com](https://arcanaxix.com)
  - date_published: 2024-03-21T04:38:42+00:00
 
  ## Arcane: League of Legends
@@ -1294,19 +1301,20 @@
  - date_published: 2024-04-05T00:00:00+00:00
 
  ## Arcane Kids
- - [http://arcanekids.com](http://arcanekids.com)
+ - [https://arcanekids.com](https://arcanekids.com)
  - date_published: 2024-09-19T21:32:09.193149+00:00
 
  ## NameBright - Coming Soon
  - [http://arcanenites.com](http://arcanenites.com)
  - date_published: 2024-06-23T18:30:18.292774+00:00
+ - date_dead_since: 2025-01-06T08:47:39.162028+00:00
 
  ## Arcane Sciences
  - [https://arcanesciences.com](https://arcanesciences.com)
- - date_published: 2024-05-26T06:16:03.949220+00:00
+ - date_published: 2023-06-25T23:37:34+00:00
 
  ## Arcane Wonders Home - Arcane Wonders
- - [https://www.arcanewonders.com](https://www.arcanewonders.com)
+ - [https://arcanewonders.com](https://arcanewonders.com)
  - date_published: 2022-01-15T14:10:22+00:00
 
  ## Arcan | IRC: #arcan @ irc.libera.chat
@@ -1322,11 +1330,11 @@
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Home - Arca Noae
- - [https://www.arcanoae.com](https://www.arcanoae.com)
+ - [https://arcanoae.com](https://arcanoae.com)
  - date_published: 2024-05-06T15:59:21.369869+00:00
 
  ## Arcanor | Real Time Hyper Analytics
- - [https://www.arcanor.com](https://www.arcanor.com)
+ - [https://arcanor.com](https://arcanor.com)
  - date_published: 2024-05-06T17:56:39.464199+00:00
 
  ## Arcanum Newspapers
@@ -1358,11 +1366,11 @@
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Arccos Golf. Golf’s #1 Game Tracker.
- - [https://www.arccosgolf.com](https://www.arccosgolf.com)
+ - [https://arccosgolf.com](https://arccosgolf.com)
  - date_published: 2024-09-09T13:57:38.200335+00:00
 
  ## Arc Dream Publishing – delta green—the black company—godlike—and more
- - [http://arcdream.com](http://arcdream.com)
+ - [https://arcdream.com](https://arcdream.com)
  - date_published: 2024-07-14T20:36:49.821635+00:00
 
  ## ArcelorMittal é Aço | ArcelorMittal
@@ -1378,8 +1386,8 @@
  - date_published: 2024-07-14T05:28:09.612642+00:00
 
  ## Parlay4d - Bandar Agen Judi Online SBOBET88 Terbaik 2024
- - [https://www.arcelts.com](https://www.arcelts.com)
- - date_published: 2024-10-17T23:31:35.282521+00:00
+ - [https://arcelts.com](https://arcelts.com)
+ - date_published: 2024-10-12T16:17:25+00:00
 
  ## Arcem Tene
  - [https://arcemtene.com](https://arcemtene.com)
@@ -1395,7 +1403,7 @@
  - date_published: 2024-06-28T19:50:59.037048+00:00
 
  ## Arc Games Support
- - [https://support.arcgames.com](https://support.arcgames.com)
+ - [http://support.arcgames.com](http://support.arcgames.com)
  - date_published: 2024-06-11T00:00:00+00:00
 
  - [https://arcgis.com](https://arcgis.com)
@@ -4033,9 +4041,4 @@
  ## Armin Unruh develops Websites
  - [http://arminunruh.com](http://arminunruh.com)
  - date_published: 2024-06-24T11:20:05+00:00
-
- ## Armin van Buuren
- - [https://arminvanbuuren.com](https://arminvanbuuren.com)
- - date_published: 2023-11-13T10:22:59.517128+00:00
- - tags: ['music band']
 

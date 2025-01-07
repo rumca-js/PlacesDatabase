@@ -1,3 +1,51 @@
+ ## 關於「 jf 字體口袋書」 | jf 字體口袋書
+ - [https://learn.justfont.com](https://learn.justfont.com)
+ - date_published: 2024-12-13T00:33:41.923795+00:00
+
+ ## 登入、註冊 justfont 會員
+ - [https://my.justfont.com](https://my.justfont.com)
+ - date_published: 2024-12-11T04:09:39+00:00
+
+ ## justfont 年終優惠 12/11–1/02，帶你用字體回顧即將結束的這年🥹
+ - [https://store.justfont.com](https://store.justfont.com)
+ - date_published: 2024-12-12T10:27:49+00:00
+
+ ## 最高品質中文 web font | justfont
+ - [https://webfont.justfont.com](https://webfont.justfont.com)
+ - date_published: 2024-12-13T00:34:11.447364+00:00
+
+ ## Just Food -Global Food Industry News | Market Research and Reports
+ - [https://just-food.com](https://just-food.com)
+ - date_published: 2023-10-25T15:33:19.932258+00:00
+
+ ## HOME - JUST FOR GAMES
+ - [https://www.justforgames.com](https://www.justforgames.com)
+ - date_published: 2024-10-26T06:03:45+00:00
+
+ ## Just For Men: Hair Color For Men | Beard Dye | Gray Reduction
+ - [https://www.justformen.com](https://www.justformen.com)
+ - date_published: 2024-12-11T17:26:49+00:00
+
+ ## Just For Real Girls
+ - [http://www.justforrealgirls.com](http://www.justforrealgirls.com)
+ - date_published: 2024-11-06T02:43:27+00:00
+
+ ## WPShout - Your Website, Sorted
+ - [https://justfreethemes.com](https://justfreethemes.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Just Fun Facts – Fun and interesting site
+ - [https://justfunfacts.com](https://justfunfacts.com)
+ - date_published: 2024-04-29T02:20:33.986830+00:00
+
+ ## Just Games Retro – Classic console and computer game reviews
+ - [http://www.justgamesretro.com](http://www.justgamesretro.com)
+ - date_published: 2024-07-01T10:27:36.376653+00:00
+
+ ## f.lux forum
+ - [https://forum.justgetflux.com](https://forum.justgetflux.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
  ## f.lux
  - [https://justgetflux.com](https://justgetflux.com)
  - date_published: 2024-05-10T05:41:29.276469+00:00
@@ -1201,6 +1249,10 @@
  - [https://kady3dprinting.com](https://kady3dprinting.com)
  - date_published: 2024-12-14T21:21:08.029215+00:00
 
+ ## Kaedim App
+ - [https://app.kaedim3d.com](https://app.kaedim3d.com)
+ - date_published: 2024-10-29T06:56:05+00:00
+
  ## Kaedim Documentation | Kaedim
  - [https://docs.kaedim3d.com](https://docs.kaedim3d.com)
  - date_published: 2024-10-30T19:12:28.698314+00:00
@@ -1208,10 +1260,6 @@
  ## Kaedim | AI-powered Art Outsourcing
  - [https://kaedim3d.com](https://kaedim3d.com)
  - date_published: 2024-10-30T19:12:22.874002+00:00
-
- ## Kaedim App
- - [https://www.app.kaedim3d.com](https://www.app.kaedim3d.com)
- - date_published: 2024-10-29T06:56:05+00:00
 
  ## Kælan Mikla
  - [http://www.kaelanmikla.com](http://www.kaelanmikla.com)
@@ -1433,7 +1481,7 @@
  - date_published: 2024-10-27T05:34:40.086199+00:00
 
  ## トップページ - 怪獣酒場
- - [http://kaiju-sakaba.com](http://kaiju-sakaba.com)
+ - [https://kaiju-sakaba.com](https://kaiju-sakaba.com)
  - date_published: 2024-10-28T23:59:01.896985+00:00
 
  ## Kaiju United
@@ -3993,54 +4041,4 @@ Paradox Audios
  ## KATOFLIX - Chrześcijańskie VOD
  - [https://katoflix.com](https://katoflix.com)
  - date_published: 2024-10-19T21:59:57.715131+00:00
-
- ## Blog Katowice Airport
- - [https://blog.katowice-airport.com](https://blog.katowice-airport.com)
- - date_published: 2024-12-22T14:52:58+00:00
-
- ## General Aviation Handler / Katowice Airport
- - [http://ga.katowice-airport.com](http://ga.katowice-airport.com)
- - date_published: 2024-12-22T14:53:00.831927+00:00
-
- ## Program inwestycyjny Katowice Airport 2024–2032
- - [https://inwestycje.katowice-airport.com](https://inwestycje.katowice-airport.com)
- - date_published: 2024-12-22T14:53:07.185191+00:00
-
- ## Katowice Airport
- - [https://katowice-airport.com](https://katowice-airport.com)
- - date_published: 2024-07-14T05:29:16.686959+00:00
-
- ## Katowice Airport - Nowe kierunki / #fly KTW
- - [http://nowekierunki.katowice-airport.com](http://nowekierunki.katowice-airport.com)
- - date_published: 2024-12-22T14:53:08.535858+00:00
-
- ## Home of Shopping in Vaishno Devi Katra Jammu and Kashmir - KatraBazaar
- - [https://katrabazaar.com](https://katrabazaar.com)
- - date_published: 2024-08-08T12:18:51.046684+00:00
-
- ## Katrina Goldsaito
- - [https://katrinagoldsaito.com](https://katrinagoldsaito.com)
- - date_published: 2020-08-22T16:25:04+00:00
- - tags: ['personal']
-
- ## Katrine Mehl | Kommunikation, strategi og koncept
- - [https://katrinemehl.com](https://katrinemehl.com)
- - date_published: 2021-03-23T20:33:35+00:00
-
- ## Katrin Erk
- - [http://www.katrinerk.com](http://www.katrinerk.com)
- - date_published: 2024-12-10T15:56:42.458559+00:00
-
- ## Welcome - Katrin Schumann
- - [https://katrinschumann.com](https://katrinschumann.com)
- - date_published: 2025-01-01T21:22:40.686577+00:00
-
- ## Katrum (Coming Soon)
- - [https://www.katrum.com](https://www.katrum.com)
- - date_published: 2024-08-17T23:47:52.535221+00:00
-
- ## Blender Game, Design and Editing tutorials and tools : KatsBits.com
- - [http://katsbits.com](http://katsbits.com)
- - date_published: 2023-10-28T20:34:38.257298+00:00
- - tags: ['blog', 'gaming']
 

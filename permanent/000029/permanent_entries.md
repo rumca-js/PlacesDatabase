@@ -1,3 +1,7 @@
+ ## eBay跨境出口信息门户网站
+ - [https://www.ebay.cn](https://www.ebay.cn)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## China News Service Website - Headlines, stories, photos and videos | Ecns.cn
  - [https://ecns.cn](https://ecns.cn)
  - date_published: 2023-11-29T19:10:25.826354+00:00
@@ -22,6 +26,7 @@
  ## EDITION 艾迪逊酒店
  - [http://www.edition-hotels.cn](http://www.edition-hotels.cn)
  - date_published: 2024-10-29T07:07:30.274977+00:00
+ - date_dead_since: 2025-01-06T15:30:36.806211+00:00
 
  ## 绘制精美的流程图、思维导图、信息图等 - 亿图软件官网
  - [https://www.edrawsoft.cn](https://www.edrawsoft.cn)
@@ -3057,7 +3062,7 @@
  - date_published: 2024-10-21T06:23:57.832929+00:00
 
  ## Westin Hotel Store | Hotel Bed, Bedding, Linens, White Tea Bath and Home Fragrance
- - [http://www.westinstore.cn](http://www.westinstore.cn)
+ - [https://westinstore.cn](https://westinstore.cn)
  - date_published: 2024-10-29T07:07:01.094340+00:00
 
  ## 案例库
@@ -4005,8 +4010,4 @@
  ## 中国环境出版集团
  - [http://www.cesp.com.cn](http://www.cesp.com.cn)
  - date_published: 2024-06-30T16:00:28.824079+00:00
-
- ## 中国金融期货交易所
- - [http://www.cffex.com.cn](http://www.cffex.com.cn)
- - date_published: 2024-06-26T00:00:00+00:00
 

@@ -1,3 +1,36 @@
+ ## Dario Amodei
+ - [https://darioamodei.com](https://darioamodei.com)
+ - date_published: 2024-10-11T21:24:25.954930+00:00
+
+ ## Dario Tordoni
+ - [https://www.dariotordoni.com](https://www.dariotordoni.com)
+ - date_published: 2024-07-16T23:55:13.197671+00:00
+ - tags: ['personal']
+
+ ## مشاوره رایگان تکنولوژی بتن آزمایشگاه بتن و تولید افزودنی بتن - داریس آزما
+ - [https://darisazma.com](https://darisazma.com)
+ - date_published: 2024-06-30T07:40:50+00:00
+
+ ## Darius’ Thoughts
+ - [https://darius.com](https://darius.com)
+ - date_published: 2024-07-04T02:26:13.884143+00:00
+
+ ## Darius Foroux | Weekly ideas to become smarter and wealthier
+ - [https://dariusforoux.com](https://dariusforoux.com)
+ - date_published: 2023-10-25T13:43:22.766378+00:00
+
+ ## DariusForoux.com Members
+ - [https://members.dariusforoux.com](https://members.dariusforoux.com)
+ - date_published: 2024-05-01T04:01:41.015922+00:00
+
+ ## Dariusz Semba
+ - [https://dariuszsemba.com](https://dariuszsemba.com)
+ - date_published: 2023-10-25T13:43:24.609905+00:00
+
+ ## Dariusz Winkler
+ - [https://dariuszwinkler.com](https://dariuszwinkler.com)
+ - date_published: 2023-02-13T09:24:17+00:00
+
  ## صدای امریکا دری
  - [https://www.darivoa.com](https://www.darivoa.com)
  - date_published: 2024-06-29T00:00:00+00:00
@@ -4021,37 +4054,4 @@
  ## DC Velocity Home Page
  - [https://dcvelocity.com](https://dcvelocity.com)
  - date_published: 2024-08-19T00:00:00+00:00
-
- ## DD12 - Home
- - [https://dd12streams.com](https://dd12streams.com)
- - date_published: 2024-11-12T17:05:46.053548+00:00
-
- ## ddanieltan.com - 🤔
- - [https://ddanieltan.com](https://ddanieltan.com)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## D-Day Overlord - Débarquement et bataille de Normandie
- - [https://www.dday-overlord.com](https://www.dday-overlord.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## D Day tours. Private tours of D Day landings and Normandy Invasion
- - [https://www.d-daytoursnormandy.com](https://www.d-daytoursnormandy.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## DDB – Highly ranked, worldwide advertising agency. Includes company information and philosophy, clients and global contact information.
- - [https://www.ddb.com](https://www.ddb.com)
- - date_published: 2024-09-10T12:19:39.904852+00:00
-
- ## DDC FPO | Logistics BPO Services
- - [https://ddcfpo.com](https://ddcfpo.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://ddc-web.com](https://ddc-web.com)
- - date_published: 2024-04-25T13:03:16+00:00
- - tags: ['data device corporation', 'company']
-
- ## Domain-Driven Design Europe
- - [https://2016.dddeurope.com](https://2016.dddeurope.com)
- - date_published: 2021-03-20T22:26:50+00:00
 

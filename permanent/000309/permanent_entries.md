@@ -1,3 +1,91 @@
+ ## CMES Earth - The University of Utah
+ - [https://earth.utah.edu](https://earth.utah.edu)
+ - date_published: 2024-07-02T11:41:58.711779+00:00
+
+ ## David Eccles School of Business | University of Utah
+ - [https://eccles.utah.edu](https://eccles.utah.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Department of Economics - The University of Utah
+ - [https://economics.utah.edu](https://economics.utah.edu)
+ - date_published: 2024-07-02T11:21:23.738137+00:00
+
+ ## Home
+ - [https://egi.utah.edu](https://egi.utah.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Employee Wellness
+ - [https://employeewellness.utah.edu](https://employeewellness.utah.edu)
+ - date_published: 2024-07-02T11:33:13.115417+00:00
+
+ ## Jobs | University of Utah
+ - [https://employment.utah.edu](https://employment.utah.edu)
+ - date_published: 2024-07-01T12:11:40+00:00
+
+ ## Engineering Entrepreneurship Certificate | University of Utah
+ - [https://entrepreneurship.coe.utah.edu](https://entrepreneurship.coe.utah.edu)
+ - date_published: 2024-07-02T11:30:05.215361+00:00
+
+ ## School of Environment, Society, and Sustainability - The University of Utah
+ - [https://ess.utah.edu](https://ess.utah.edu)
+ - date_published: 2024-07-02T11:21:26.008247+00:00
+
+ ## Campus Events
+ - [https://events.utah.edu](https://events.utah.edu)
+ - date_published: 2024-05-07T22:11:11.232801+00:00
+
+ ## University of Utah - Portal
+ - [https://faculty.apps.utah.edu](https://faculty.apps.utah.edu)
+ - date_published: 2024-03-14T20:34:52+00:00
+
+ ## Virtual Server List
+ - [https://faculty.cs.utah.edu](https://faculty.cs.utah.edu)
+ - date_published: 2023-10-26T13:20:22+00:00
+
+ ## Faculty Activity Reporting (FAR) - University Faculty Information & Support
+ - [https://faculty.utah.edu](https://faculty.utah.edu)
+ - date_published: 2024-07-02T11:20:18.851941+00:00
+
+ ## Financial Services
+ - [http://fbs.admin.utah.edu](http://fbs.admin.utah.edu)
+ - date_published: 2024-07-02T11:30:47.600014+00:00
+
+ ## Family and Consumer Studies Department - Department of Family and Consumer Studies - The University of Utah
+ - [https://fcs.utah.edu](https://fcs.utah.edu)
+ - date_published: 2024-07-02T11:27:24.971371+00:00
+
+ ## Financial Aid and Scholarships - The University of Utah
+ - [https://financialaid.utah.edu](https://financialaid.utah.edu)
+ - date_published: 2024-07-02T11:19:17.995713+00:00
+
+ ## Financial Wellness Center - The University of Utah
+ - [https://financialwellness.utah.edu](https://financialwellness.utah.edu)
+ - date_published: 2024-07-02T11:32:54.387124+00:00
+
+ ## COE Research & Staff MultiSite Install | Just another WordPress site
+ - [https://flame.coe.utah.edu](https://flame.coe.utah.edu)
+ - date_published: 2024-07-02T11:32:26.650278+00:00
+
+ ## Utah Admissions
+ - [https://futureu.admissions.utah.edu](https://futureu.admissions.utah.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Utah Games
+ - [https://games.utah.edu](https://games.utah.edu)
+ - date_published: 2024-07-02T11:29:16.402157+00:00
+
+ ## Kem C. Gardner Policy Institute | David Eccles School of Business
+ - [https://gardner.utah.edu](https://gardner.utah.edu)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Google Workspace - The University of Utah
+ - [https://gcloud.utah.edu](https://gcloud.utah.edu)
+ - date_published: 2024-07-14T05:11:26.269002+00:00
+
+ ## Search The University of Utah
+ - [https://gcse.search.utah.edu](https://gcse.search.utah.edu)
+ - date_published: 2024-07-02T11:20:21.620781+00:00
+
  ## - Campus Connect
  - [https://getinvolved.utah.edu](https://getinvolved.utah.edu)
  - date_published: 2024-05-07T22:10:39.477753+00:00
@@ -3910,92 +3998,4 @@
  ## Commitment to Privacy
  - [https://pharmegr.vcu.edu](https://pharmegr.vcu.edu)
  - date_published: 2024-07-02T12:46:07.294784+00:00
-
- ## Commitment to Privacy
- - [https://pharmtox.vcu.edu](https://pharmtox.vcu.edu)
- - date_published: 2024-07-02T12:48:27.941353+00:00
-
- ## Commitment to Privacy
- - [https://phd.chp.vcu.edu](https://phd.chp.vcu.edu)
- - date_published: 2024-07-02T12:57:54.397086+00:00
-
- ## Commitment to Privacy
- - [https://phikappaphi.vcu.edu](https://phikappaphi.vcu.edu)
- - date_published: 2024-07-02T12:48:15.084514+00:00
-
- ## Commitment to Privacy
- - [https://philipsinstitute.vcu.edu](https://philipsinstitute.vcu.edu)
- - date_published: 2024-07-02T12:48:32.265670+00:00
-
- ## Commitment to Privacy
- - [https://philosophy.vcu.edu](https://philosophy.vcu.edu)
- - date_published: 2024-07-02T12:51:05.418876+00:00
-
- ## Commitment to Privacy
- - [https://phonebook.vcu.edu](https://phonebook.vcu.edu)
- - date_published: 2024-05-07T22:23:54.415047+00:00
-
- ## Commitment to Privacy
- - [https://physics.vcu.edu](https://physics.vcu.edu)
- - date_published: 2024-07-02T12:43:33.558331+00:00
-
- ## Commitment to Privacy
- - [https://physiology.vcu.edu](https://physiology.vcu.edu)
- - date_published: 2024-07-02T12:49:04.801946+00:00
-
- ## Commitment to Privacy
- - [https://pilabs.vcu.edu](https://pilabs.vcu.edu)
- - date_published: 2024-07-02T12:50:07.808358+00:00
-
- ## Leaving a legacy with planned giving | Office of Planned Giving | VCU Development and Alumni Relations
- - [https://plannedgiving.vcu.edu](https://plannedgiving.vcu.edu)
- - date_published: 2024-07-02T12:35:17.876450+00:00
-
- ## Commitment to Privacy
- - [https://plantevodevo.bio.vcu.edu](https://plantevodevo.bio.vcu.edu)
- - date_published: 2024-07-02T12:51:27.857762+00:00
-
- ## Commitment to Privacy
- - [https://pmg.vcu.edu](https://pmg.vcu.edu)
- - date_published: 2024-07-02T12:48:40.696553+00:00
-
- ## Commitment to Privacy
- - [https://pmr.vcu.edu](https://pmr.vcu.edu)
- - date_published: 2024-07-02T12:49:45.055216+00:00
-
- ## Commitment to Privacy
- - [http://poison.vcu.edu](http://poison.vcu.edu)
- - date_published: 2024-07-02T12:50:58.484204+00:00
-
- ## Commitment to Privacy
- - [https://police.vcu.edu](https://police.vcu.edu)
- - date_published: 2024-07-02T12:44:14.251108+00:00
-
- ## VCU Policy Program
- - [https://policy.vcu.edu](https://policy.vcu.edu)
- - date_published: 2024-07-02T12:58:21.296083+00:00
-
- ## Commitment to Privacy
- - [https://politicalscience.vcu.edu](https://politicalscience.vcu.edu)
- - date_published: 2024-07-02T12:47:45.170364+00:00
-
- ## VCU - Central Authentication Service - Login
- - [https://portal.ush.vcu.edu](https://portal.ush.vcu.edu)
- - date_published: 2024-07-02T12:57:16.554796+00:00
-
- ## VCU - Central Authentication Service - Login
- - [https://portman.vcu.edu](https://portman.vcu.edu)
- - date_published: 2024-07-02T12:58:30.317744+00:00
-
- ## Commitment to Privacy
- - [https://president.vcu.edu](https://president.vcu.edu)
- - date_published: 2024-05-07T22:22:59.857284+00:00
-
- ## Commitment to Privacy
- - [https://procurement.vcu.edu](https://procurement.vcu.edu)
- - date_published: 2024-07-02T12:41:58.342594+00:00
-
- ## Commitment to Privacy
- - [https://progress.vcu.edu](https://progress.vcu.edu)
- - date_published: 2024-07-02T12:46:47.299796+00:00
 

@@ -1,3 +1,7 @@
+ ## Міністэрства аховы здароўя Рэспублікі Беларусь
+ - [http://minzdrav.gov.by](http://minzdrav.gov.by)
+ - date_published: 2024-08-11T16:11:05.592845+00:00
+
  ## Главная - Министерство жилищно-коммунального хозяйства Республики Беларусь
  - [http://www.mjkx.gov.by](http://www.mjkx.gov.by)
  - date_published: 2024-08-11T15:52:56.504477+00:00
@@ -304,7 +308,7 @@
  - date_published: 2024-10-18T21:56:57.763595+00:00
 
  ## Mining Association of BC
- - [http://www.mining.bc.ca](http://www.mining.bc.ca)
+ - [https://mining.bc.ca](https://mining.bc.ca)
  - date_published: 2024-10-29T04:42:51.589895+00:00
 
  ## Home - Musqueam Indian Band
@@ -1565,7 +1569,7 @@
  - date_published: 2024-10-02T06:32:05+00:00
 
  ## Historien.nes de la santé
- - [http://histoiresante.blogspot.ca](http://histoiresante.blogspot.ca)
+ - [https://histoiresante.blogspot.ca](https://histoiresante.blogspot.ca)
  - date_published: 2024-10-29T10:01:31+00:00
 
  ## THE HOCKEY SCHTICK
@@ -2079,7 +2083,7 @@
  - date_published: 2024-08-09T03:52:53.757567+00:00
 
  ## Cabela's Canada - Hunting Fishing Camping Clothing GPS Optics & Outdoor Gear
- - [https://www.cabelas.ca](https://www.cabelas.ca)
+ - [https://cabelas.ca](https://cabelas.ca)
  - date_published: 2024-10-28T23:04:58.440707+00:00
 
  ## CADDAC: Canadian ADHD Awareness | Education | Advocacy
@@ -3583,7 +3587,7 @@
  - date_published: 2024-12-12T04:33:33.048027+00:00
 
  ## Canadian Jewelry Designer Dean Davidson
- - [https://www.deandavidson.ca](https://www.deandavidson.ca)
+ - [https://deandavidson.ca](https://deandavidson.ca)
  - date_published: 2024-10-29T04:18:40.721865+00:00
 
  ## Death Matters – Planning Together for End of Life
@@ -4015,8 +4019,4 @@
  ## Home | Ontario Extend
  - [https://extend.ecampusontario.ca](https://extend.ecampusontario.ca)
  - date_published: 2024-06-05T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://piwik.ecchi.ca](https://piwik.ecchi.ca)
- - date_published: 2024-05-08T11:42:35.654064+00:00
 

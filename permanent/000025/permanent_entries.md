@@ -1,3 +1,7 @@
+ ## Faculty Affairs
+ - [https://professeurs.epfl.ch](https://professeurs.epfl.ch)
+ - date_published: 2024-07-16T22:33:03+00:00
+
  ## epfl
  - [https://rapport-annuel.epfl.ch](https://rapport-annuel.epfl.ch)
  - date_published: 2024-05-12T07:17:26.729285+00:00
@@ -2513,7 +2517,7 @@
  - date_published: 2024-05-06T09:21:29.115331+00:00
 
  ## Startseite
- - [https://www.lebenwieduundich.ch](https://www.lebenwieduundich.ch)
+ - [https://lebenwieduundich.ch](https://lebenwieduundich.ch)
  - date_published: 2024-10-29T08:27:51+00:00
 
  ## Le Cazard - Residence, logement pour étudiants, Salle de séminaire & conférence sur Lausanne
@@ -4009,8 +4013,4 @@
  ## Weiterbildung für Fach- und Führungskräfte
  - [https://www.praxisseminare.ch](https://www.praxisseminare.ch)
  - date_published: 2024-07-21T05:48:31.780798+00:00
-
- ## privatim – privatim, Konferenz der Schweizer Datenschutz-Beauftragten
- - [https://www.privatim.ch](https://www.privatim.ch)
- - date_published: 2024-09-05T23:44:00.855148+00:00
 

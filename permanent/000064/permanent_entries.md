@@ -1,3 +1,16 @@
+ ## BlogNomic: The Fifth Dynasty of JonathanDark
+ - [http://blognomic.com](http://blognomic.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Blognone | ข่าวไอที เทคโนโลยี มือถือ เกม ความปลอดภัย โอเพนซอร์ส
+ - [http://blognone.com](http://blognone.com)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## Blog of Drew
+ - [https://blogofdrew.com](https://blogofdrew.com)
+ - date_published: 2023-12-17T05:08:07.684561+00:00
+ - tags: ['personal']
+
  ## Blog of Holding
  - [https://www.blogofholding.com](https://www.blogofholding.com)
  - date_published: 2024-07-15T09:44:05.656138+00:00
@@ -3845,7 +3858,7 @@
  - date_published: 2024-12-18T23:33:36+00:00
 
  ## Another Slippery Slope
- - [http://anotherslipperyslope.blogspot.com](http://anotherslipperyslope.blogspot.com)
+ - [https://anotherslipperyslope.blogspot.com](https://anotherslipperyslope.blogspot.com)
  - date_published: 2024-10-29T08:56:27+00:00
 
  ## Another such victory
@@ -3999,16 +4012,4 @@
  ## L'antre de Jehan
  - [http://antre-de-jehan.blogspot.com](http://antre-de-jehan.blogspot.com)
  - date_published: 2024-06-26T22:10:33+00:00
-
- ## Antro Della Strega
- - [https://antrodellastrega2.blogspot.com](https://antrodellastrega2.blogspot.com)
- - date_published: 2024-09-01T22:54:00+00:00
-
- ## L' ANTRO DELLO SHAMANO
- - [https://antrodelloshamano.blogspot.com](https://antrodelloshamano.blogspot.com)
- - date_published: 2024-12-06T11:16:14+00:00
-
- ## Antysocjal bis
- - [http://antysocjalbis.blogspot.com](http://antysocjalbis.blogspot.com)
- - date_published: 2024-11-01T07:53:44+00:00
 

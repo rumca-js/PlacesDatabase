@@ -1,3 +1,91 @@
+ ## Welcome to CEDAR
+ - [https://cedar.buffalo.edu](https://cedar.buffalo.edu)
+ - date_published: 2023-12-11T19:56:29+00:00
+
+ ## Center for Cognitive Science
+ - [https://cogsci.buffalo.edu](https://cogsci.buffalo.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Department of Computer Science and Engineering
+ - [https://cse.buffalo.edu](https://cse.buffalo.edu)
+ - date_published: 2024-02-10T17:55:00.406166+00:00
+
+ ## OnCore - Login
+ - [https://ctms.buffalo.edu](https://ctms.buffalo.edu)
+ - date_published: 2024-08-11T09:59:01.143901+00:00
+
+ ## Center for Unified Biometrics and Sensors
+ - [https://cubs.buffalo.edu](https://cubs.buffalo.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## School of Dental Medicine
+ - [https://dental.buffalo.edu](https://dental.buffalo.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Digital Commons @ University at Buffalo School of Law
+ - [https://digitalcommons.law.buffalo.edu](https://digitalcommons.law.buffalo.edu)
+ - date_published: 2024-06-29T08:56:41.954783+00:00
+
+ ## Digital Collections - University at Buffalo Libraries
+ - [http://digital.lib.buffalo.edu](http://digital.lib.buffalo.edu)
+ - date_published: 2024-07-22T07:13:15.470191+00:00
+
+ ## Home | UB Early Childhood Research Center (ECRC)
+ - [https://ecrc.buffalo.edu](https://ecrc.buffalo.edu)
+ - date_published: 2024-08-11T03:36:01.827082+00:00
+
+ ## Graduate School of Education at the University at Buffalo
+ - [https://ed.buffalo.edu](https://ed.buffalo.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## UB Alert Information
+ - [https://emergency.buffalo.edu](https://emergency.buffalo.edu)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## School of Engineering and Applied Sciences
+ - [https://engineering.buffalo.edu](https://engineering.buffalo.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Financial Aid – State University of New York
+ - [https://financialaid.buffalo.edu](https://financialaid.buffalo.edu)
+ - date_published: 2024-07-22T07:20:11.756905+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://gate.lib.buffalo.edu](https://gate.lib.buffalo.edu)
+ - date_published: 2024-06-30T01:30:22.306752+00:00
+
+ ## Home | UB Gifted Math Program
+ - [https://giftedmath.buffalo.edu](https://giftedmath.buffalo.edu)
+ - date_published: 2024-08-11T03:35:54.787012+00:00
+
+ ## The Graduate School
+ - [https://grad.buffalo.edu](https://grad.buffalo.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Graduate Student Association
+ - [http://gsa.buffalo.edu](http://gsa.buffalo.edu)
+ - date_published: 2024-08-11T03:35:59.572311+00:00
+
+ ## Center of Excellence on Human Capital, Technology Transfer, & Economic Growth and Development :: University at Buffalo ::
+ - [http://head.buffalo.edu](http://head.buffalo.edu)
+ - date_published: 2024-08-08T22:53:05.303498+00:00
+
+ ## SACS Reference Implementation
+ - [https://json.webservices.buffalo.edu](https://json.webservices.buffalo.edu)
+ - date_published: 2018-07-02T00:00:00+00:00
+
+ ## School of Law
+ - [https://law.buffalo.edu](https://law.buffalo.edu)
+ - date_published: 2024-05-07T10:05:18.014673+00:00
+
+ ## Charles B. Sears Law Library - University at Buffalo Libraries
+ - [https://law.lib.buffalo.edu](https://law.lib.buffalo.edu)
+ - date_published: 2024-06-29T08:56:40.164925+00:00
+
+ ## University at Buffalo Libraries
+ - [https://library2.buffalo.edu](https://library2.buffalo.edu)
+ - date_published: 2024-07-22T07:13:11.943298+00:00
+
  ## University at Buffalo Libraries
  - [https://library.buffalo.edu](https://library.buffalo.edu)
  - date_published: 2024-04-30T03:31:32.594127+00:00
@@ -3928,92 +4016,4 @@ Mellon University
  ## Department of Biochemistry and Molecular Biology | CSU – Department of Biochemistry and Molecular Biology at Colorado State University
  - [https://www.bmb.colostate.edu](https://www.bmb.colostate.edu)
  - date_published: 2017-07-12T00:00:00+00:00
-
- ## Department of Chemistry | CSU – Department of Chemistry at Colorado State University
- - [https://www.chem.colostate.edu](https://www.chem.colostate.edu)
- - date_published: 2017-07-12T00:00:00+00:00
-
- ## Home
- - [https://www.chhs.colostate.edu](https://www.chhs.colostate.edu)
- - date_published: 2024-07-22T06:03:11.758417+00:00
-
- ## Home - Walter Scott, Jr. College of Engineering
- - [https://www.engr.colostate.edu](https://www.engr.colostate.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Facilities Management | Colorado State University
- - [https://www.fm.colostate.edu](https://www.fm.colostate.edu)
- - date_published: 2024-04-30T03:48:10.626843+00:00
-
- ## College of Liberal Arts | Colorado State University
- - [https://www.libarts.colostate.edu](https://www.libarts.colostate.edu)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Department of Mathematics | CSU – Department of Mathematics at Colorado State University
- - [https://www.math.colostate.edu](https://www.math.colostate.edu)
- - date_published: 2017-07-12T00:00:00+00:00
-
- ## College of Natural Sciences | Colorado State University – College of Natural Sciences | Colorado State University site
- - [http://www.natsci.colostate.edu](http://www.natsci.colostate.edu)
- - date_published: 2016-10-26T00:00:00+00:00
-
- ## Department of Physics | CSU – Department of Physics at Colorado State University
- - [https://www.physics.colostate.edu](https://www.physics.colostate.edu)
- - date_published: 2017-07-12T00:00:00+00:00
-
- ## Vice President For Research - Colorado State University
- - [https://www.research.colostate.edu](https://www.research.colostate.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## School of Social Work
- - [http://www.ssw.chhs.colostate.edu](http://www.ssw.chhs.colostate.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Academic Commons
- - [https://academiccommons.columbia.edu](https://academiccommons.columbia.edu)
- - date_published: 2024-04-30T03:57:21.442622+00:00
-
- ## Academic Degree Programs | Columbia Business School Academics
- - [https://academics.gsb.columbia.edu](https://academics.gsb.columbia.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Columbia | Accessibility
- - [https://accessibility.columbia.edu](https://accessibility.columbia.edu)
- - date_published: 2024-04-30T03:55:49.884523+00:00
-
- ## AdaGrasp: Learning an Adaptive Gripper-Aware Grasping Policy
- - [https://adagrasp.cs.columbia.edu](https://adagrasp.cs.columbia.edu)
- - date_published: 2023-02-28T20:29:59+00:00
-
- ## Columbia Alumni Association
- - [https://alumni.columbia.edu](https://alumni.columbia.edu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Home | Columbia Undergraduate Admissions
- - [https://apply.college.columbia.edu](https://apply.college.columbia.edu)
- - date_published: 2024-07-22T05:44:00.242372+00:00
-
- ## Graduate Admissions
- - [https://apply.engineering.columbia.edu](https://apply.engineering.columbia.edu)
- - date_published: 2018-02-13T20:54:31+00:00
-
- ## Thinking About Applying - Columbia GSAPP
- - [https://apply.gsapp.columbia.edu](https://apply.gsapp.columbia.edu)
- - date_published: 2024-07-08T14:56:41.552953+00:00
-
- ## Become a Student
- - [https://apply.mailman.columbia.edu](https://apply.mailman.columbia.edu)
- - date_published: 2022-11-03T15:11:43+00:00
-
- ## Columbia University School of Professional Studies
- - [https://apply.sps.columbia.edu](https://apply.sps.columbia.edu)
- - date_published: 2024-07-22T00:55:28+00:00
-
- ## Columbia Giving
- - [https://arch.givenow.columbia.edu](https://arch.givenow.columbia.edu)
- - date_published: 2024-07-08T14:55:40.871008+00:00
-
- ## School of the Arts
- - [https://arts.columbia.edu](https://arts.columbia.edu)
- - date_published: 2024-04-30T00:00:00+00:00
 

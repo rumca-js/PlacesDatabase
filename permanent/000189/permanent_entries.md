@@ -1,3 +1,60 @@
+ ## Home — Patreon
+ - [https://patreon.com](https://patreon.com)
+ - date_published: 2023-12-11T17:25:04.928912+00:00
+ - tags: ['crowdfunding']
+
+ ## Patreon Help Center
+ - [https://support.patreon.com](https://support.patreon.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Patreon | News | Home
+ - [https://patreonhq.com](https://patreonhq.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Stark et al. vs. Patreon, Inc. Class Action Settlement
+ - [https://www.patreonsettlement.com](https://www.patreonsettlement.com)
+ - date_published: 2024-10-18T23:59:43+00:00
+
+ ## Welcome to patricescheidt.com
+ - [https://patricescheidt.com](https://patricescheidt.com)
+ - date_published: 2023-04-14T19:10:08+00:00
+
+ ## Patricia BT |
+ - [https://cdn.patriciabt.com](https://cdn.patriciabt.com)
+ - date_published: 2021-03-20T00:00:00+00:00
+
+ ## Home
+ - [https://patriciabt.com](https://patriciabt.com)
+ - date_published: 2021-03-20T13:59:17+00:00
+
+ ## Patricia Cleveland-Peck
+ - [https://patriciaclevelandpeck.com](https://patriciaclevelandpeck.com)
+ - date_published: 2024-07-13T12:27:54.692771+00:00
+
+ ## Holding the Light
+ - [http://patriciadubrava.com](http://patriciadubrava.com)
+ - date_published: 2024-07-20T13:03:37.670456+00:00
+
+ ## Patricia Duncker | Home
+ - [http://www.patriciaduncker.com](http://www.patriciaduncker.com)
+ - date_published: 2024-11-15T08:40:23+00:00
+
+ ## Home | Nowhere Bound
+ - [http://www.patriciali.com](http://www.patriciali.com)
+ - date_published: 2024-08-19T15:43:00.159662+00:00
+
+ ## Patricia McLinn: USA Today Bestselling Author | USA Today Bestselling Author
+ - [https://www.patriciamclinn.com](https://www.patriciamclinn.com)
+ - date_published: 2024-07-04T13:34:50.810705+00:00
+
+ ## Inicio
+ - [https://www.patriciapaizal.com](https://www.patriciapaizal.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## PATRICIA SWEETOW GALLERY- LOS ANGELES
+ - [http://www.patriciasweetowgallery.com](http://www.patriciasweetowgallery.com)
+ - date_published: 2024-12-13T04:59:12.447567+00:00
+
  ## PATRICIA VILLALOBOS ECHEVERRÍA
  - [http://www.patriciavillalobos.com](http://www.patriciavillalobos.com)
  - date_published: 2024-06-28T14:16:59.633009+00:00
@@ -3995,61 +4052,4 @@
  ## Pelican State Credit Union
  - [https://my.pelicanstatecu.com](https://my.pelicanstatecu.com)
  - date_published: 2024-04-16T00:00:00+00:00
-
- ## Home Page | Pelican State Credit Union
- - [https://pelicanstatecu.com](https://pelicanstatecu.com)
- - date_published: 2024-07-10T04:26:00.837298+00:00
-
- ## Pelican State of Mind - Family, fun and finance, y'all.
- - [https://pelicanstateofmind.com](https://pelicanstateofmind.com)
- - date_published: 2024-07-10T04:26:06.019107+00:00
-
- ## Luotettavat suomenkieliset nettikasinot - Pelipiste.com
- - [https://pelipiste.com](https://pelipiste.com)
- - date_published: 2024-07-17T04:25:11.080088+00:00
-
- ## Rahapelit netissä - Parhaat suomalaiset pelisivut 2024
- - [https://www.pelisivut.com](https://www.pelisivut.com)
- - date_published: 2024-07-18T03:14:38+00:00
-
- ## Pella Pressroom
- - [https://pressroom.pella.com](https://pressroom.pella.com)
- - date_published: 2024-10-17T21:18:02.507549+00:00
-
- ## Pella Windows & Doors
- - [https://www.pella.com](https://www.pella.com)
- - date_published: 2024-06-14T17:18:03+00:00
-
- ## Tech @ Pelmorex Corp.
- - [https://tech.pelmorex.com](https://tech.pelmorex.com)
- - date_published: 2024-06-25T17:25:08.516354+00:00
-
- ## Pelmorex Corp.
- - [https://www.pelmorex.com](https://www.pelmorex.com)
- - date_published: 2023-11-10T17:16:14+00:00
-
- ## Pelmorex Corp
- - [https://www.pelmorexsolutions.com](https://www.pelmorexsolutions.com)
- - date_published: 2024-05-06T17:25:35.042693+00:00
-
- ## PELock Software Protection & Software License Key System
- - [https://pelock.com](https://pelock.com)
- - date_published: 2024-03-19T15:09:07+00:00
- - tags: ['reverse engineering']
-
- ## Find, Plan & Share Group Rides | Pelofy | Social Group Cycling
- - [https://pelofy.com](https://pelofy.com)
- - date_published: 2018-02-27T01:48:39+00:00
-
- ## PelotonCal
- - [https://pelotoncal.com](https://pelotoncal.com)
- - date_published: 2023-10-25T16:32:06.386585+00:00
-
- ## VELO - Competitive Cycling News, Race Results and Bike Reviews
- - [https://pelotonmagazine.com](https://pelotonmagazine.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Peloton Technology | Truck Platooning & Automation
- - [https://peloton-tech.com](https://peloton-tech.com)
- - date_published: 2024-07-12T07:20:20.929457+00:00
 

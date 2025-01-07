@@ -1,3 +1,69 @@
+ ## Airmail’s Newsletter | Substack
+ - [https://airmailapp.substack.com](https://airmailapp.substack.com)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Airways NOTAM | Substack
+ - [https://airwaysmagazine.substack.com](https://airwaysmagazine.substack.com)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## AI with Aish | Aishwarya Srinivasan | Substack
+ - [https://aishwaryasrinivasan.substack.com](https://aishwaryasrinivasan.substack.com)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## AI Snake Oil | Sayash Kapoor | Substack
+ - [https://aisnakeoil.substack.com](https://aisnakeoil.substack.com)
+ - date_published: 2023-10-25T09:41:27.444440+00:00
+ - tags: ['substack']
+
+ ## AI Supremacy  | Michael Spencer | Substack
+ - [https://aisupremacy.substack.com](https://aisupremacy.substack.com)
+ - date_published: 2023-11-20T15:43:53.277002+00:00
+
+ ## ~ajhalili2006's blog | Andrei Jiroh Halili | Substack
+ - [https://ajhalili2006.substack.com](https://ajhalili2006.substack.com)
+ - date_published: 2024-08-07T23:13:59.921409+00:00
+
+ ## Elite Human Capital 💯 | Anatoly Karlin | Substack
+ - [https://akarlin.substack.com](https://akarlin.substack.com)
+ - date_published: 2024-06-17T04:01:34.489500+00:00
+
+ ## Cambridge Ladies' Dining Society | Ann Kennedy Smith | Substack
+ - [https://akennedysmith.substack.com](https://akennedysmith.substack.com)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## A Lady on Fire | Substack
+ - [https://aladyonfire.substack.com](https://aladyonfire.substack.com)
+ - date_published: 2024-10-31T22:40:30.401221+00:00
+
+ ## Low Down and Dirty | Alan Paul | Substack
+ - [https://alanpaul.substack.com](https://alanpaul.substack.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Alan Stein's Substack | Substack
+ - [https://alanstein.substack.com](https://alanstein.substack.com)
+ - date_published: 2024-08-11T02:35:44.461500+00:00
+
+ ## The Newsletter of Alastair Johnston | Substack
+ - [https://alastairjohnston.substack.com](https://alastairjohnston.substack.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Life Since the Baby Boom | Albert Cory | Substack
+ - [https://albertcory50.substack.com](https://albertcory50.substack.com)
+ - date_published: 2023-10-25T09:41:35.577450+00:00
+ - tags: ['substack']
+
+ ## Algorithmically Speaking | Alberto Gonzalez Rosales | Substack
+ - [https://albexl.substack.com](https://albexl.substack.com)
+ - date_published: 2024-10-20T13:50:03.617924+00:00
+
+ ## The Alchemy of Money | Frederik Gieschen | Substack
+ - [https://alchemy.substack.com](https://alchemy.substack.com)
+ - date_published: 2023-12-04T15:57:22.523973+00:00
+
+ ## Arts & Letters Daily | Substack
+ - [https://aldaily.substack.com](https://aldaily.substack.com)
+ - date_published: 2024-05-15T03:01:58.895682+00:00
+
  ## La alegria de programar | Xaviuzz | Substack
  - [https://alegriadeprogramar.substack.com](https://alegriadeprogramar.substack.com)
  - date_published: 2024-03-27T00:00:00+00:00
@@ -2692,6 +2758,10 @@
  - [https://dm13450.substack.com](https://dm13450.substack.com)
  - date_published: 2024-02-09T00:00:00+00:00
 
+ ## Tech Stories by Dmitry Kan | Substack
+ - [https://dmitrykan.substack.com](https://dmitrykan.substack.com)
+ - date_published: 2025-01-06T21:52:23.748778+00:00
+
  ## Documentally | Substack
  - [https://documentally.substack.com](https://documentally.substack.com)
  - date_published: 2024-09-09T23:05:15.445130+00:00
@@ -4029,73 +4099,4 @@
  ## Guerre di Rete | Carola Frediani | Substack
  - [https://guerredirete.substack.com](https://guerredirete.substack.com)
  - date_published: 2024-07-10T09:44:45.936293+00:00
-
- ## The Prism | Gurwinder | Substack
- - [https://gurwinder.substack.com](https://gurwinder.substack.com)
- - date_published: 2023-10-25T11:46:58.520291+00:00
- - tags: ['substack']
-
- ## The Gutter | Guttermouth | Substack
- - [https://guttermouth.substack.com](https://guttermouth.substack.com)
- - date_published: 2024-10-31T22:38:58.636577+00:00
-
- ## Guy James' Substack | Substack
- - [https://guyjames.substack.com](https://guyjames.substack.com)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Gwendal Brossard’s Newsletter | Substack
- - [https://gwendalbrossard.substack.com](https://gwendalbrossard.substack.com)
- - date_published: 2024-12-15T07:38:11.903146+00:00
-
- ## Gwern.net Newsletter | Substack
- - [https://gwern.substack.com](https://gwern.substack.com)
- - date_published: 2024-02-25T20:35:20.331613+00:00
-
- ## Memos to Nobody | Greg Wester | Substack
- - [https://gwestr.substack.com](https://gwestr.substack.com)
- - date_published: 2024-06-24T05:20:30.888332+00:00
-
- ## HackBoyFly | Pontus | Substack
- - [https://hackboyfly.substack.com](https://hackboyfly.substack.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Hacker Stations Newsletter | Substack
- - [https://hackerstations.substack.com](https://hackerstations.substack.com)
- - date_published: 2024-05-04T09:13:51.420911+00:00
-
- ## The Hagakure | Paulo André | Substack
- - [https://hagakure.substack.com](https://hagakure.substack.com)
- - date_published: 2024-01-09T01:40:36.254592+00:00
-
- ## Punishingly Haimona | Haimona Gray | Substack
- - [https://haimona.substack.com](https://haimona.substack.com)
- - date_published: 2024-10-31T22:51:03.985062+00:00
-
- ## Trial and error | Hakan Koklu | Substack
- - [https://hakann.substack.com](https://hakann.substack.com)
- - date_published: 2025-01-02T21:14:10.864181+00:00
-
- ## Maybe Baby | Haley Nahman | Substack
- - [https://haleynahman.substack.com](https://haleynahman.substack.com)
- - date_published: 2024-01-09T01:40:38.764256+00:00
-
- ## Half-Page Essays | Ken Lane | Substack
- - [https://halfpageessays.substack.com](https://halfpageessays.substack.com)
- - date_published: 2024-05-10T04:55:31.204265+00:00
-
- ## Hal Johnson Books | Substack
- - [https://haljohnsonbooks.substack.com](https://haljohnsonbooks.substack.com)
- - date_published: 2024-10-27T17:52:47.920977+00:00
-
- ## Hamamreh - Wislabi.com | Dr. Jehad M. Hamamreh | Substack
- - [https://hamamreh.substack.com](https://hamamreh.substack.com)
- - date_published: 2024-07-08T16:37:43.908101+00:00
-
- ## Mike Taylor | Substack
- - [https://hammermt.substack.com](https://hammermt.substack.com)
- - date_published: 2024-10-28T05:42:55.987690+00:00
-
- ## Hands-on Agile by Stefan Wolpers | Substack
- - [https://handsonagile.substack.com](https://handsonagile.substack.com)
- - date_published: 2024-04-11T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## BNP Paribas CIB - The Bank for a changing world
+ - [https://cib.bnpparibas](https://cib.bnpparibas)
+ - date_published: 2024-05-17T12:57:56+00:00
+
  ## Global Markets - The bank for a changing world
  - [https://globalmarkets.cib.bnpparibas](https://globalmarkets.cib.bnpparibas)
  - date_published: 2021-03-23T12:19:17+00:00
@@ -4007,8 +4011,4 @@ Educação
  ## Mixmag Brasil - The World's Biggest Dance Music and Clubbing Destination
  - [https://mixmag.com.br](https://mixmag.com.br)
  - date_published: 2024-08-15T22:46:21+00:00
-
- ## Mix Vale - Portal de Notícias do Brasil
- - [https://www.mixvale.com.br](https://www.mixvale.com.br)
- - date_published: 2024-10-16T03:14:04+00:00
 

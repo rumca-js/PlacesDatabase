@@ -1,3 +1,92 @@
+ ## Corley Institute
+ - [https://corleyinstitute.gmu.edu](https://corleyinstitute.gmu.edu)
+ - date_published: 2024-07-21T23:20:35.938553+00:00
+
+ ## Home
+ - [https://cpe.gmu.edu](https://cpe.gmu.edu)
+ - date_published: 2024-08-11T12:13:40.192708+00:00
+
+ ## Corner Pocket - George Mason University Student Centers
+ - [https://cp.gmu.edu](https://cp.gmu.edu)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Yotam Gingold - Computational Reality, Creativity and Graphics Lab (CraGL)
+ - [https://cragl.cs.gmu.edu](https://cragl.cs.gmu.edu)
+ - date_published: 2024-04-28T03:54:50.045737+00:00
+
+ ## Home |
+             George Mason Department of Computer Science
+ - [https://cs.gmu.edu](https://cs.gmu.edu)
+ - date_published: 2024-01-09T02:59:13.641642+00:00
+
+ ## MASON ARTS EVENT CALENDAR
+ - [https://cvpa.calendar.gmu.edu](https://cvpa.calendar.gmu.edu)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Home
+ - [https://cvpa.gmu.edu](https://cvpa.gmu.edu)
+ - date_published: 2024-04-30T04:28:49.181719+00:00
+
+ ## Home
+ - [https://dance.gmu.edu](https://dance.gmu.edu)
+ - date_published: 2024-07-21T20:19:04+00:00
+
+ ## Home
+ - [https://diversity.gmu.edu](https://diversity.gmu.edu)
+ - date_published: 2024-04-30T04:26:08.756307+00:00
+
+ ## Home
+ - [https://diversity.sitemasonry.gmu.edu](https://diversity.sitemasonry.gmu.edu)
+ - date_published: 2024-07-21T22:51:47+00:00
+
+ ## Data & Digital Scholarship Services
+ - [https://dsc.gmu.edu](https://dsc.gmu.edu)
+ - date_published: 2024-07-22T02:59:47.763202+00:00
+
+ ## Home - Disability Services
+ - [http://ds.gmu.edu](http://ds.gmu.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Center for Discovery Science and Health Informatics at George Mason University
+ - [https://dshi.gmu.edu](https://dshi.gmu.edu)
+ - date_published: 2024-04-30T04:27:41.542619+00:00
+
+ ## Server Maintenance - George Mason University
+ - [https://eagle.gmu.edu](https://eagle.gmu.edu)
+ - date_published: 2015-07-28T14:45:46+00:00
+
+ ## home
+ - [https://economics.gmu.edu](https://economics.gmu.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## School of Education - Home | George Mason University
+ - [https://education.gmu.edu](https://education.gmu.edu)
+ - date_published: 2024-08-11T12:20:09.474784+00:00
+
+ ## Early Identification Program - EIP
+ - [https://eip.gmu.edu](https://eip.gmu.edu)
+ - date_published: 2024-07-22T00:20:17+00:00
+
+ ## University Events
+ - [https://events.gmu.edu](https://events.gmu.edu)
+ - date_published: 2024-07-21T04:51:39+00:00
+
+ ## Patriots Brave & Bold
+ - [https://facilities.gmu.edu](https://facilities.gmu.edu)
+ - date_published: 2024-08-11T12:19:34.919563+00:00
+
+ ## Home
+ - [https://faculty.gmu.edu](https://faculty.gmu.edu)
+ - date_published: 2024-04-30T04:28:26.008796+00:00
+
+ ## Home
+ - [https://film.gmu.edu](https://film.gmu.edu)
+ - date_published: 2024-07-21T20:52:03+00:00
+
+ ## Financial Aid
+ - [http://financialaid.gmu.edu](http://financialaid.gmu.edu)
+ - date_published: 2024-08-08T20:52:30+00:00
+
  ## First-Gen+ Center
  - [https://firstgen.gmu.edu](https://firstgen.gmu.edu)
  - date_published: 2024-08-08T00:00:00+00:00
@@ -3919,92 +4008,4 @@ Action
  ## Home - Brand Guidelines
  - [https://brand.illinois.edu](https://brand.illinois.edu)
  - date_published: 2024-03-28T00:00:00+00:00
-
- ## Bretl Research Group
- - [http://bretl.csl.illinois.edu](http://bretl.csl.illinois.edu)
- - date_published: 2024-06-22T10:03:46.676392+00:00
-
- ## Home
- - [http://business.illinois.edu](http://business.illinois.edu)
- - date_published: 2024-07-21T22:48:18.597738+00:00
-
- ## ILLINOIS | University of Illinois Urbana-Champaign
- - [http://calendars.illinois.edu](http://calendars.illinois.edu)
- - date_published: 2024-05-30T15:51:42+00:00
-
- ## Campus Administrative Manual – Campus Administrative Manual
- - [https://cam.illinois.edu](https://cam.illinois.edu)
- - date_published: 2024-07-21T21:56:18.749367+00:00
-
- ## Home | Campus Recreation | UIUC
- - [http://campusrec.illinois.edu](http://campusrec.illinois.edu)
- - date_published: 2024-07-07T05:30:51.633511+00:00
-
- ## Cancer Center at Illinois | At the Cancer Center at Illinois, we’re advancing knowledge in science, technology, and engineering to develop game-changing interventions.
- - [https://cancer.illinois.edu](https://cancer.illinois.edu)
- - date_published: 2024-07-07T05:29:21.598077+00:00
-
- ## Sign in to your account
- - [https://canvas.illinois.edu](https://canvas.illinois.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## CAP Seminar | UIUC CS
- - [https://capseminar.cs.illinois.edu](https://capseminar.cs.illinois.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## University of Illinois Urbana-Champaign | University of Illinois Urbana-Champaign
- - [http://catalog.illinois.edu](http://catalog.illinois.edu)
- - date_published: 2024-07-03T18:17:13+00:00
-
- ## FrontPage | Counseling Center | UIUC
- - [https://cc2023.web.illinois.edu](https://cc2023.web.illinois.edu)
- - date_published: 2024-07-21T22:07:14.315442+00:00
-
- ## Hosted Brand Assets | University of Illinois Urbana-Champaign
- - [https://cdn.brand.illinois.edu](https://cdn.brand.illinois.edu)
- - date_published: 2024-04-30T04:57:17.599308+00:00
-
- ## Test Access
- - [https://cdn.toolkit.illinois.edu](https://cdn.toolkit.illinois.edu)
- - date_published: 2022-05-18T17:34:52+00:00
-
- ## Home
- - [https://cee.illinois.edu](https://cee.illinois.edu)
- - date_published: 2024-07-10T03:50:56.359317+00:00
-
- ## Office of the Chancellor | University of Illinois Urbana-Champaign
- - [https://chancellor.illinois.edu](https://chancellor.illinois.edu)
- - date_published: 2023-09-26T15:52:58+00:00
-
- ## Charith Mendis
- - [https://charithm.web.illinois.edu](https://charithm.web.illinois.edu)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Chandra Chekuri
- - [https://chekuri.cs.illinois.edu](https://chekuri.cs.illinois.edu)
- - date_published: 2024-08-08T18:27:31+00:00
-
- ## Home - Chez Veterans Center
- - [https://chezveteranscenter.ahs.illinois.edu](https://chezveteranscenter.ahs.illinois.edu)
- - date_published: 2024-04-30T04:57:43.259140+00:00
-
- ## The Graduate College at the University of Illinois at Urbana-Champaign
- - [https://choose.illinois.edu](https://choose.illinois.edu)
- - date_published: 2024-07-21T20:45:11+00:00
-
- ## CITL
- - [https://citl.illinois.edu](https://citl.illinois.edu)
- - date_published: 2024-08-19T04:43:43.429705+00:00
-
- ## City Scholars
- - [https://cityscholars.engineering.illinois.edu](https://cityscholars.engineering.illinois.edu)
- - date_published: 2024-04-30T04:58:44.182490+00:00
-
- ## City Scholars
- - [https://cityscholars.grainger.illinois.edu](https://cityscholars.grainger.illinois.edu)
- - date_published: 2024-07-21T22:10:21.155249+00:00
-
- ## Home | CodingSpectator
- - [http://codingspectator.cs.illinois.edu](http://codingspectator.cs.illinois.edu)
- - date_published: 2014-02-19T15:57:01+00:00
 

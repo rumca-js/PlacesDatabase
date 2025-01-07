@@ -1,30 +1,172 @@
+ ## Cyberduck
+ - [https://cyberduck.softonic.nl](https://cyberduck.softonic.nl)
+ - date_published: 2024-08-03T14:48:07.079004+00:00
+ - date_dead_since: 2025-01-07T03:14:54.765558+00:00
+
+ ## Desktop Facebook
+ - [https://desktop-facebook.softonic.nl](https://desktop-facebook.softonic.nl)
+ - date_published: 2024-08-03T14:46:18.157891+00:00
+ - date_dead_since: 2025-01-07T03:15:15.206926+00:00
+
+ ## デジラアプリ ～auのデータ残量確認とデータチャージ～
+ - [https://deziraapuri-aunodetacan-liang-que-ren-todetachiyazi.softonic.nl](https://deziraapuri-aunodetacan-liang-que-ren-todetachiyazi.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+ - date_dead_since: 2025-01-07T03:15:45.056243+00:00
+
+ ## Dream League Soccer 2019
+ - [https://dream-league-soccer-2017.softonic.nl](https://dream-league-soccer-2017.softonic.nl)
+ - date_published: 2024-08-03T14:48:40.633100+00:00
+ - date_dead_since: 2025-01-07T03:21:48.505411+00:00
+
+ ## Origin
+ - [https://ea-origin.softonic.nl](https://ea-origin.softonic.nl)
+ - date_published: 2024-08-03T14:50:22.764793+00:00
+ - date_dead_since: 2025-01-07T03:22:46.098802+00:00
+
+ ## EdjSports
+ - [https://edjsports.softonic.nl](https://edjsports.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+ - date_dead_since: 2025-01-07T03:23:24.993285+00:00
+
+ ## Escape Game: Rainy Day House
+ - [https://escape-game-rainy-day-house.softonic.nl](https://escape-game-rainy-day-house.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+ - date_dead_since: 2025-01-07T03:24:08.024234+00:00
+
+ ## FaceMagic - AI Face Editor
+ - [https://facemagic-ai-face-editor.softonic.nl](https://facemagic-ai-face-editor.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+ - date_dead_since: 2025-01-07T03:24:39.122714+00:00
+
+ ## FlekStore
+ - [https://flekstore.softonic.nl](https://flekstore.softonic.nl)
+ - date_published: 2024-08-03T14:45:05.894704+00:00
+ - date_dead_since: 2025-01-07T03:25:04.246357+00:00
+
+ ## Fliqlo
+ - [https://fliqlo.softonic.nl](https://fliqlo.softonic.nl)
+ - date_published: 2024-08-03T14:45:42.165562+00:00
+ - date_dead_since: 2025-01-07T03:26:19.662955+00:00
+
+ ## Football Story (by fructus temporum)
+ - [https://football-story-fructus-temporum.softonic.nl](https://football-story-fructus-temporum.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+ - date_dead_since: 2025-01-07T03:27:51.355708+00:00
+
+ ## Forgotten Mines
+ - [https://forgotten-mines.softonic.nl](https://forgotten-mines.softonic.nl)
+ - date_published: 2024-08-02T00:00:00+00:00
+ - date_dead_since: 2025-01-07T03:28:56.979949+00:00
+
+ ## FortiClient
+ - [https://forticlient.softonic.nl](https://forticlient.softonic.nl)
+ - date_published: 2024-08-03T14:46:54.002836+00:00
+ - date_dead_since: 2025-01-07T03:29:38.201161+00:00
+
+ ## فیلتر شکن قوی پرسرعت Tiger VPN
+ - [https://fyltr-shkhn-qwy-prsr-t-tiger-vpn.softonic.nl](https://fyltr-shkhn-qwy-prsr-t-tiger-vpn.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+ - date_dead_since: 2025-01-07T03:30:22.315761+00:00
+
+ ## Garmin Express
+ - [https://garmin-express.softonic.nl](https://garmin-express.softonic.nl)
+ - date_published: 2024-08-03T14:49:59.909071+00:00
+ - date_dead_since: 2025-01-07T03:31:01.555469+00:00
+
+ ## Google Earth Pro
+ - [https://google-earth-pro.softonic.nl](https://google-earth-pro.softonic.nl)
+ - date_published: 2024-08-03T14:45:07.919956+00:00
+ - date_dead_since: 2025-01-07T03:31:47.618250+00:00
+
+ ## GoPartner
+ - [https://gopartner.softonic.nl](https://gopartner.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+ - date_dead_since: 2025-01-07T03:34:34.413688+00:00
+
+ ## GS Auto Clicker
+ - [https://gs-auto-clicker.softonic.nl](https://gs-auto-clicker.softonic.nl)
+ - date_published: 2024-08-03T14:48:26.451270+00:00
+ - date_dead_since: 2025-01-07T03:35:05.845785+00:00
+
+ ## Harmony OS
+ - [https://harmony-os.softonic.nl](https://harmony-os.softonic.nl)
+ - date_published: 2024-08-03T14:49:09.598907+00:00
+ - date_dead_since: 2025-01-07T03:35:42.382364+00:00
+
+ ## HD Movies 2024 All MovieBox
+ - [https://hd-movies-2024-all-moviebox-m6p.softonic.nl](https://hd-movies-2024-all-moviebox-m6p.softonic.nl)
+ - date_published: 2024-08-03T14:50:54.442125+00:00
+ - date_dead_since: 2025-01-07T03:36:18.045290+00:00
+
+ ## Illuvium
+ - [https://illuvium.softonic.nl](https://illuvium.softonic.nl)
+ - date_published: 2024-08-01T00:00:00+00:00
+ - date_dead_since: 2025-01-07T03:37:22.373270+00:00
+
+ ## Imagen
+ - [https://imagen.softonic.nl](https://imagen.softonic.nl)
+ - date_published: 2024-08-03T14:45:44.680395+00:00
+ - date_dead_since: 2025-01-07T03:38:21.650107+00:00
+
+ ## InstaNova - Easy Instant Loans
+ - [https://instanova-easy-instant-loans.softonic.nl](https://instanova-easy-instant-loans.softonic.nl)
+ - date_published: 2024-08-03T14:50:43.540870+00:00
+ - date_dead_since: 2025-01-07T03:38:49.513501+00:00
+
+ ## Internet Explorer 8
+ - [https://internet-explorer.softonic.nl](https://internet-explorer.softonic.nl)
+ - date_published: 2024-08-03T14:46:58.490248+00:00
+ - date_dead_since: 2025-01-07T03:39:33.475263+00:00
+
+ ## iOS 11
+ - [https://ios-11.softonic.nl](https://ios-11.softonic.nl)
+ - date_published: 2024-08-03T14:50:02.323281+00:00
+ - date_dead_since: 2025-01-07T03:50:45.470082+00:00
+
+ ## iOS 15 Beta
+ - [https://ios-15-beta.softonic.nl](https://ios-15-beta.softonic.nl)
+ - date_published: 2024-08-03T14:44:57.711506+00:00
+ - date_dead_since: 2025-01-07T03:51:21.072315+00:00
+
+ ## iOS 16
+ - [https://ios-16.softonic.nl](https://ios-16.softonic.nl)
+ - date_published: 2024-08-03T14:49:48.593140+00:00
+ - date_dead_since: 2025-01-07T03:53:30.944020+00:00
+
  ## iStem
  - [https://istem.softonic.nl](https://istem.softonic.nl)
  - date_published: 2024-08-03T14:47:17.383779+00:00
+ - date_dead_since: 2025-01-07T03:54:28.554827+00:00
 
  ## Jarfix
  - [https://jarfix.softonic.nl](https://jarfix.softonic.nl)
  - date_published: 2024-08-03T14:48:08.832353+00:00
+ - date_dead_since: 2025-01-07T03:55:09.898990+00:00
 
  ## Jester AI - Caption Writer
  - [https://jester-ai-caption-writer.softonic.nl](https://jester-ai-caption-writer.softonic.nl)
  - date_published: 2024-08-03T14:50:28.958872+00:00
+ - date_dead_since: 2025-01-07T03:55:46.973715+00:00
 
  ## カプコン アミューズメント
  - [https://kapukon-amiyuzumento.softonic.nl](https://kapukon-amiyuzumento.softonic.nl)
  - date_published: 2024-07-31T00:00:00+00:00
+ - date_dead_since: 2025-01-07T03:56:29.734187+00:00
 
  ## Kids Games: Safety Education
  - [https://kids-games-safety-education.softonic.nl](https://kids-games-safety-education.softonic.nl)
  - date_published: 2024-08-01T00:00:00+00:00
+ - date_dead_since: 2025-01-07T03:59:32.740887+00:00
 
  ## Krisp
  - [https://krisp.softonic.nl](https://krisp.softonic.nl)
  - date_published: 2024-08-03T14:47:42.865356+00:00
+ - date_dead_since: 2025-01-07T04:00:01.282662+00:00
 
  ## LEGO Juniors Create & Cruise
  - [https://lego-juniors-create-and-cruise.softonic.nl](https://lego-juniors-create-and-cruise.softonic.nl)
  - date_published: 2024-08-03T14:45:33.489948+00:00
+ - date_dead_since: 2025-01-07T04:11:36.312786+00:00
 
  ## Linkito
  - [https://linkito.softonic.nl](https://linkito.softonic.nl)
@@ -1432,7 +1574,7 @@
  - date_published: 2023-10-25T12:28:42+00:00
 
  ## Twentse Piraten Party 2024 - Twentse Piraten Party
- - [https://www.twentsepiratenparty.nl](https://www.twentsepiratenparty.nl)
+ - [https://twentsepiratenparty.nl](https://twentsepiratenparty.nl)
  - date_published: 2024-10-28T23:39:12.753317+00:00
 
  ## fedi.tyil.nl
@@ -3898,113 +4040,4 @@
  ## Ballade.no
  - [https://ballade.no](https://ballade.no)
  - date_published: 2024-04-29T05:14:53.734379+00:00
-
- ## Banorama
- - [https://banorama.banenor.no](https://banorama.banenor.no)
- - date_published: 2024-10-13T22:10:16.293730+00:00
-
- ## Bane NOR EPA Start
- - [https://epa.banenor.no](https://epa.banenor.no)
- - date_published: 2024-10-07T05:17:56+00:00
-
- ## Bane NOR
- - [https://www.banenor.no](https://www.banenor.no)
- - date_published: 2024-06-16T19:55:58.362416+00:00
-
- ## Bane NOR Eiendom
- - [https://www.banenoreiendom.no](https://www.banenoreiendom.no)
- - date_published: 2024-10-13T22:10:26.675175+00:00
-
- ## BarentsWatch
- - [https://www.barentswatch.no](https://www.barentswatch.no)
- - date_published: 2024-06-24T04:54:04.414581+00:00
-
- ## ! Cannabis & Marihuana Frø  | BARNEYS FARM® Seed Bank
- - [https://www.barneysfarm.no](https://www.barneysfarm.no)
- - date_published: 2024-12-11T11:58:35.327970+00:00
-
- ## For deg
- - [https://bate.no](https://bate.no)
- - date_published: 2024-08-08T20:25:20.241788+00:00
-
- ## Bekk
- - [https://www.bekk.no](https://www.bekk.no)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Bengler
- - [http://bengler.no](http://bengler.no)
- - date_published: 2024-07-10T10:35:16.697795+00:00
-
- ## Bergen Assembly
- - [http://bergenassembly.no](http://bergenassembly.no)
- - date_published: 2024-07-13T15:45:10.933711+00:00
-
- ## Bergen Kino
- - [https://www.bergenkino.no](https://www.bergenkino.no)
- - date_published: 2024-07-12T15:43:57.685552+00:00
-
- ## Bergesenstiftelsen
- - [https://bergesenstiftelsen.no](https://bergesenstiftelsen.no)
- - date_published: 2024-08-02T23:34:25.341550+00:00
-
- ## Pause
- - [https://www.bergfreunde.no](https://www.bergfreunde.no)
- - date_published: 2024-07-14T12:11:25.723398+00:00
-
- ## Bibelen åpen for alle
- - [https://bibel.no](https://bibel.no)
- - date_published: 2024-09-10T08:07:20.986150+00:00
-
- ## Bibliotekutvikling
- - [https://bibliotekutvikling.no](https://bibliotekutvikling.no)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Startside - Biblioteksøk
- - [https://bibsok.no](https://bibsok.no)
- - date_published: 2024-07-15T04:22:50.270728+00:00
-
- ## BIFF 2024
- - [https://www.biff.no](https://www.biff.no)
- - date_published: 2024-07-12T15:44:07.963687+00:00
-
- ## Enterprise netthandel, forenklet. | BigCommerce
- - [https://www.bigcommerce.no](https://www.bigcommerce.no)
- - date_published: 2024-07-08T12:41:01.901325+00:00
-
- ## Binary Security Home
- - [https://binarysecurity.no](https://binarysecurity.no)
- - date_published: 2024-10-31T07:38:32.918895+00:00
-
- ## Home | Biosphere
- - [https://www.biosphere.no](https://www.biosphere.no)
- - date_published: 2024-06-24T09:57:37+00:00
-
- ## Birken | Birken - skiing, terrain run and mountain bike
- - [https://birkebeiner.no](https://birkebeiner.no)
- - date_published: 2024-04-28T03:36:50.177558+00:00
-
- ## Birken
- - [https://tiur.birkebeiner.no](https://tiur.birkebeiner.no)
- - date_published: 2024-08-07T16:57:38.890610+00:00
-
- ## Bitraf – Oslos største makerspace
- - [https://bitraf.no](https://bitraf.no)
- - date_published: 2024-08-17T23:50:36.067430+00:00
-
- ## Blabla - Forsiden
- - [http://blabla.no](http://blabla.no)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Epsilon's Amiga Blog
- - [https://amigax1000.blogspot.no](https://amigax1000.blogspot.no)
- - date_published: 2023-10-27T14:40:11.976750+00:00
- - tags: ['amiga']
-
- ## EU Law Analysis
- - [http://eulawanalysis.blogspot.no](http://eulawanalysis.blogspot.no)
- - date_published: 2024-06-16T07:24:23+00:00
-
- ## Legends of the North
- - [http://legendsofthenorth.blogspot.no](http://legendsofthenorth.blogspot.no)
- - date_published: 2024-08-29T06:04:14+00:00
 

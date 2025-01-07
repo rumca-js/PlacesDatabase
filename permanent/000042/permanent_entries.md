@@ -1,9 +1,13 @@
+ ## AI
+ - [https://adapteva.com](https://adapteva.com)
+ - date_published: 2024-08-19T17:32:34.969545+00:00
+
  ## Adaptimmune
- - [https://www.adaptimmune.com](https://www.adaptimmune.com)
+ - [https://adaptimmune.com](https://adaptimmune.com)
  - date_published: 2024-07-15T03:41:40.832018+00:00
 
  ## UR | Secure & Fast Web Browser. Optimized For Privacy. European.
- - [http://www.adaptivebee.com](http://www.adaptivebee.com)
+ - [https://adaptivebee.com](https://adaptivebee.com)
  - date_published: 2024-06-21T10:50:12.662670+00:00
 
  ## HOME
@@ -23,7 +27,7 @@
  - date_published: 2024-05-08T00:00:58.376195+00:00
 
  ## Adaptive Curmudgeon
- - [http://adaptivecurmudgeon.com](http://adaptivecurmudgeon.com)
+ - [https://adaptivecurmudgeon.com](https://adaptivecurmudgeon.com)
  - date_published: 2024-07-03T23:48:36.709712+00:00
 
  ## Adaptive Images in HTML
@@ -39,11 +43,11 @@
  - date_published: 2024-12-27T12:38:03.236730+00:00
 
  ## Adaptive Object Model — Anything you can do, I can do meta…
- - [http://adaptiveobjectmodel.com](http://adaptiveobjectmodel.com)
+ - [https://adaptiveobjectmodel.com](https://adaptiveobjectmodel.com)
  - date_published: 2024-07-07T05:33:55.839558+00:00
 
  ## adaptivethemes.com
- - [http://adaptivethemes.com](http://adaptivethemes.com)
+ - [https://adaptivethemes.com](https://adaptivethemes.com)
  - date_published: 2024-07-01T09:11:00.056822+00:00
 
  ## AdaptMX – Adaptive technologies for creative optimization and targeting
@@ -73,25 +77,26 @@
  ## Homepage - ADARA
  - [https://adara.com](https://adara.com)
  - date_published: 2024-04-24T00:00:00+00:00
+ - date_dead_since: 2025-01-06T10:10:17.968254+00:00
 
  ## La Tribuna del País Vasco | El gran periódico digital del País Vasco
  - [http://adaraga.com](http://adaraga.com)
  - date_published: 2024-12-23T16:25:06+00:00
 
  ## Together we've got this
- - [https://www.adarma.com](https://www.adarma.com)
+ - [https://adarma.com](https://adarma.com)
  - date_published: 2024-08-01T00:00:00+00:00
 
  ## Adarsh DK - Design Engineer
- - [https://www.adarshdk.com](https://www.adarshdk.com)
- - date_published: 2024-07-08T22:23:29.665896+00:00
+ - [https://adarshdk.com](https://adarshdk.com)
+ - date_published: 2024-06-22T15:52:33+00:00
 
  ## ADA Website Compliance | Web Accessibility & WCAG Solution
- - [https://www.adasitecompliance.com](https://www.adasitecompliance.com)
+ - [https://adasitecompliance.com](https://adasitecompliance.com)
  - date_published: 2024-02-22T00:00:00+00:00
 
  ## ADASTEC Corp.
- - [http://adastec.com](http://adastec.com)
+ - [https://adastec.com](https://adastec.com)
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## AdAstra | Jeffersonian style dinners
@@ -112,6 +117,7 @@
  ## Announcements
  - [https://forums.adastrafanfic.com](https://forums.adastrafanfic.com)
  - date_published: 2024-05-01T02:26:20.890695+00:00
+ - date_dead_since: 2025-01-06T10:13:19.502694+00:00
 
  ## Ad Astra Games
  - [https://adastragames.com](https://adastragames.com)
@@ -119,15 +125,15 @@
  - tags: ['tabletop game developer']
 
  ## Ad Astra
- - [https://www.adastraspace.com](https://www.adastraspace.com)
+ - [https://adastraspace.com](https://adastraspace.com)
  - date_published: 2024-09-13T00:00:00+00:00
 
  ## AdatoSystems
- - [https://www.adatosystems.com](https://www.adatosystems.com)
+ - [https://adatosystems.com](https://adatosystems.com)
  - date_published: 2024-09-09T16:41:05+00:00
 
  ## ADA TRAY® | #1 ADA Title III and WCAG Web Accessibility Widget
- - [https://www.adatray.com](https://www.adatray.com)
+ - [https://adatray.com](https://adatray.com)
  - date_published: 2024-08-18T11:19:45.130614+00:00
 
  ## Ad Aures
@@ -159,7 +165,7 @@
  - date_published: 2024-06-16T05:03:36.903568+00:00
 
  ## adbalancer Werbeagentur GmbH |
- - [https://www.adbalancer.com](https://www.adbalancer.com)
+ - [https://adbalancer.com](https://adbalancer.com)
  - date_published: 2024-05-06T17:45:47.061817+00:00
 
  ## adbalits
@@ -167,19 +173,19 @@
  - date_published: 2024-01-12T21:01:32.090225+00:00
 
  ## Latest ADB Driver Installer- 1.5.6
- - [https://www.adbandroid.com](https://www.adbandroid.com)
+ - [https://adbandroid.com](https://adbandroid.com)
  - date_published: 2024-03-20T17:25:47+00:00
 
  ## adbility media GmbH | Zeit, digitale Vermarktung neu zu denken
- - [https://www.adbility-media.com](https://www.adbility-media.com)
+ - [https://adbility-media.com](https://adbility-media.com)
  - date_published: 2024-01-22T00:00:00+00:00
 
  ## ADBRO Marketing Solutions
- - [https://www.adbro.com](https://www.adbro.com)
+ - [https://adbro.com](https://adbro.com)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Adcanvas is now NEXD
- - [https://www.adcanvas.com](https://www.adcanvas.com)
+ - [https://adcanvas.com](https://adcanvas.com)
  - date_published: 2022-08-29T10:30:12+00:00
 
  ## Adcetera – A Digital Marketing Agency
@@ -197,13 +203,14 @@
  ## AdColony
  - [https://clients.adcolony.com](https://clients.adcolony.com)
  - date_published: 2019-11-20T00:00:00+00:00
+ - date_dead_since: 2025-01-06T10:15:19.238824+00:00
 
  ## Adcombi - Local Digital Solutions at Scale
  - [https://www.adcombi.com](https://www.adcombi.com)
  - date_published: 2024-12-19T13:08:58.743399+00:00
 
  ## adcon.com
- - [https://www.adcon.com](https://www.adcon.com)
+ - [https://adcon.com](https://adcon.com)
  - date_published: 2024-07-09T09:50:42.041674+00:00
 
  ## | Adcour
@@ -211,7 +218,7 @@
  - date_published: 2024-06-10T13:11:22.937987+00:00
 
  ## CTV (Connected TV) and OTT (Over The Top) Advertising Companies | ADCTV
- - [https://www.adctv.com](https://www.adctv.com)
+ - [https://adctv.com](https://adctv.com)
  - date_published: 2024-06-25T22:53:15.590212+00:00
 
  ## Alex Dean Cybulski, PhD Human Risk and Information Security Culture Specialist
@@ -223,7 +230,7 @@
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## News - ADDAC System | Instruments for Sonic Expression
- - [https://www.addacsystem.com](https://www.addacsystem.com)
+ - [https://addacsystem.com](https://addacsystem.com)
  - date_published: 2024-07-25T00:00:00+00:00
 
  ## AddALL Price Comparison: New & Used books, Textbooks
@@ -231,7 +238,7 @@
  - date_published: 2024-05-08T10:27:43.849269+00:00
 
  ## AddALL used book and out of print book finder
- - [http://used.addall.com](http://used.addall.com)
+ - [https://used.addall.com](https://used.addall.com)
  - date_published: 2024-08-08T19:39:42.981545+00:00
 
  ## Added Bytes – Get More Out Of Your Writing Tools
@@ -279,24 +286,24 @@
  - date_published: 2020-07-24T02:35:06+00:00
 
  ## Addicted.com
- - [http://addicted.com](http://addicted.com)
+ - [https://addicted.com](https://addicted.com)
  - date_published: 2024-06-23T12:30:36.093495+00:00
 
  ## an Oregon Ducks community
- - [https://www.addictedtoquack.com](https://www.addictedtoquack.com)
+ - [https://addictedtoquack.com](https://addictedtoquack.com)
  - date_published: 2024-06-29T01:57:27.865609+00:00
 
  ## Addicted To Vinyl – Musical thoughts from the open road, with headphones on
- - [http://addictedtovinyl.com](http://addictedtovinyl.com)
+ - [https://addictedtovinyl.com](https://addictedtovinyl.com)
  - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Games - Free Online Games at Addicting Games
+ - [https://addictinggames.com](https://addictinggames.com)
+ - date_published: 2024-06-19T14:48:42.360005+00:00
 
  ## Shockwave Store
  - [https://shop.addictinggames.com](https://shop.addictinggames.com)
  - date_published: 2024-06-20T17:25:39.665699+00:00
-
- ## Games - Free Online Games at Addicting Games
- - [https://www.addictinggames.com](https://www.addictinggames.com)
- - date_published: 2024-06-19T14:48:42.360005+00:00
 
  ## Homepage
  - [https://addictivetips.com](https://addictivetips.com)
@@ -347,11 +354,11 @@
  - date_published: 2024-04-01T00:00:00+00:00
 
  ## ADDitude
- - [https://www.additudemag.com](https://www.additudemag.com)
+ - [https://additudemag.com](https://additudemag.com)
  - date_published: 2024-08-19T15:16:07.697594+00:00
 
  ## Addleshaw Goddard LLP
- - [https://www.addleshawgoddard.com](https://www.addleshawgoddard.com)
+ - [https://addleshawgoddard.com](https://addleshawgoddard.com)
  - date_published: 2024-09-15T11:17:21.891470+00:00
 
  ## ADDMAN - Advanced Manufacturing Service Provider
@@ -360,7 +367,8 @@
 
  ## Customer Review Management Software | AddMe Reviews
  - [http://www.addme.com](http://www.addme.com)
- - date_published: 2024-10-21T22:59:57.360991+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T10:21:46.689183+00:00
 
  ## addmy-sites.com | IT & Business
  - [https://addmy-sites.com](https://addmy-sites.com)
@@ -445,6 +453,7 @@
  ## Get more likes, shares and follows with smart website tools - AddThis
  - [https://ct5.addthis.com](https://ct5.addthis.com)
  - date_published: 2023-05-31T00:00:00+00:00
+ - date_dead_since: 2025-01-06T10:24:35.082328+00:00
 
  ## AddEvent
  - [https://addthisevent.com](https://addthisevent.com)
@@ -452,7 +461,8 @@
 
  ## AddToAny: Share Buttons by the Universal Sharing Platform
  - [https://www.addtoany.com](https://www.addtoany.com)
- - date_published: 2024-10-14T20:15:59+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T10:24:38.124174+00:00
 
  ## AddToCalendar - free button for event page and email. Calendar widget to add event to calendar. Event RSVP. MailChimp compatible. Use CalendarX for Mac.
  - [https://addtocalendar.com](https://addtocalendar.com)
@@ -508,15 +518,15 @@
  - date_published: 2024-07-02T17:13:59.279268+00:00
 
  ## 德科集团
- - [https://www.adeccogroupcn.com](https://www.adeccogroupcn.com)
+ - [https://adeccogroupcn.com](https://adeccogroupcn.com)
  - date_published: 2024-04-22T00:00:00+00:00
 
  ## North America | The Adecco Group
- - [https://www.adeccogroupna.com](https://www.adeccogroupna.com)
+ - [https://adeccogroupna.com](https://adeccogroupna.com)
  - date_published: 2024-06-26T22:51:12.131150+00:00
 
  ## Outsourcing Companies in UAE, KSA | Manpower Supply UAE | Headhunters in Dubai | Adecco
- - [http://www.adeccome.com](http://www.adeccome.com)
+ - [https://adeccome.com](https://adeccome.com)
  - date_published: 2024-10-29T04:29:07.606568+00:00
 
  ## Adecco : Cabinet de recrutement dirigeant, cadre, ingénieur, intérimaire
@@ -524,11 +534,11 @@
  - date_published: 2024-10-29T04:26:25.917094+00:00
 
  ## ADEE ROBERSON
- - [http://www.adeeroberson.com](http://www.adeeroberson.com)
+ - [https://adeeroberson.com](https://adeeroberson.com)
  - date_published: 2024-09-06T21:33:38.977498+00:00
 
  ## California Community Colleges - Enroll Today
- - [http://www.adegreewithaguarantee.com](http://www.adegreewithaguarantee.com)
+ - [https://adegreewithaguarantee.com](https://adegreewithaguarantee.com)
  - date_published: 2024-06-22T09:04:43+00:00
 
  ## Industrial Computers | Industrial PC | ADEK
@@ -544,11 +554,11 @@
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Buy138: Main Disini Auto Buyspin Terus Gampang Beli Mobil
- - [http://www.adelaider.com](http://www.adelaider.com)
+ - [https://adelaider.com](https://adelaider.com)
  - date_published: 2024-07-04T11:32:42+00:00
 
  ## Des experts en moteurs de recherche pour vos projets
- - [https://www.adelean.com](https://www.adelean.com)
+ - [https://adelean.com](https://adelean.com)
  - date_published: 2024-06-27T16:09:43.431445+00:00
 
  ## Adèle H.
@@ -558,6 +568,7 @@
  ## AdElement | Digital Ad Personalization
  - [https://adelement.com](https://adelement.com)
  - date_published: 2024-05-06T17:56:31.451567+00:00
+ - date_dead_since: 2025-01-06T10:26:57.017435+00:00
 
  ## adelement_admin
  - [https://ae2.adelement.com](https://ae2.adelement.com)
@@ -600,7 +611,7 @@
  - date_published: 2024-05-20T00:00:00+00:00
 
  ## Resware | Qualia
- - [https://www.adeptivesw.com](https://www.adeptivesw.com)
+ - [https://adeptivesw.com](https://adeptivesw.com)
  - date_published: 2024-08-02T16:20:07+00:00
 
  ## Adept Roll Warhammer 40K MathHammer App
@@ -612,7 +623,7 @@
  - date_published: 2015-03-26T22:42:47+00:00
 
  ## Adequate Records
- - [https://www.adequaterecords.com](https://www.adequaterecords.com)
+ - [https://adequaterecords.com](https://adequaterecords.com)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## Ihr Partner für die Digitalisierung Ihrer Fertigung | AdeQuate
@@ -628,7 +639,7 @@
  - date_published: 2023-04-17T18:01:49+00:00
 
  ## A. Derstine
- - [https://www.aderstine.com](https://www.aderstine.com)
+ - [https://aderstine.com](https://aderstine.com)
  - date_published: 2024-10-11T13:20:25.023900+00:00
 
  ## A' Design Award and Competition
@@ -636,7 +647,7 @@
  - date_published: 2024-12-23T07:26:15.285469+00:00
 
  ## ERC Federal Relief Funds | Business Loans | Adesso Capital
- - [https://www.adessocapital.com](https://www.adessocapital.com)
+ - [https://adessocapital.com](https://adessocapital.com)
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Multi-Channel Marketing Automation Software | Upland Adestra
@@ -644,7 +655,7 @@
  - date_published: 2024-12-30T17:34:52.986297+00:00
 
  ## Lifecycle Marketing Automation Software | Upland Adestra
- - [http://www.adestra.com](http://www.adestra.com)
+ - [https://www.adestra.com](https://www.adestra.com)
  - date_published: 2024-04-26T00:00:00+00:00
 
  ## Adeva - Hire the Worlds’s Best Independent Talent
@@ -680,7 +691,7 @@
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## Adfinis Mirror
- - [http://pkg.adfinis.com](http://pkg.adfinis.com)
+ - [https://pkg.adfinis.com](https://pkg.adfinis.com)
  - date_published: 2024-07-01T18:58:06+00:00
 
  ## Header Bidding with Adflare - Adflare
@@ -697,22 +708,23 @@
 
  ## Adform FLOW - Adform
  - [https://site.adform.com](https://site.adform.com)
- - date_published: 2024-10-16T03:11:51+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T10:29:08.823281+00:00
 
  ## The best and largest global advertising agency directory & creative library - AdForum
- - [https://adforum.com](https://adforum.com)
+ - [http://adforum.com](http://adforum.com)
  - date_published: 2024-05-07T13:56:49.786790+00:00
 
  ## The best and largest global advertising agency directory & creative library - AdForum
- - [https://br.adforum.com](https://br.adforum.com)
+ - [http://br.adforum.com](http://br.adforum.com)
  - date_published: 2024-06-29T19:50:43.745824+00:00
 
  ## The best and largest global advertising agency directory & creative library - AdForum
- - [https://cn.adforum.com](https://cn.adforum.com)
+ - [http://cn.adforum.com](http://cn.adforum.com)
  - date_published: 2024-06-29T19:50:48.044928+00:00
 
  ## The best and largest global advertising agency directory & creative library - AdForum
- - [https://de.adforum.com](https://de.adforum.com)
+ - [http://de.adforum.com](http://de.adforum.com)
  - date_published: 2024-06-29T19:50:53.043829+00:00
 
  ## AdForum: Advertising Agencies, TV Commercials, Commercial Ads, Award Winning Ads
@@ -720,7 +732,7 @@
  - date_published: 2024-06-29T19:50:59.686267+00:00
 
  ## Guide des agences de communication et médiathèque des meilleures publicités et campagnes dans  le monde
- - [https://fr.adforum.com](https://fr.adforum.com)
+ - [http://fr.adforum.com](http://fr.adforum.com)
  - date_published: 2024-06-29T19:50:50.697019+00:00
 
  ## The best and largest global advertising agency directory & creative library - AdForum
@@ -728,31 +740,32 @@
  - date_published: 2024-06-29T19:50:57.406882+00:00
 
  ## The best and largest global advertising agency directory & creative library - AdForum
- - [https://ru.adforum.com](https://ru.adforum.com)
+ - [http://ru.adforum.com](http://ru.adforum.com)
  - date_published: 2024-06-29T19:50:55.038507+00:00
 
  ## The best and largest global advertising agency directory & creative library - AdForum
- - [https://tr.adforum.com](https://tr.adforum.com)
+ - [http://tr.adforum.com](http://tr.adforum.com)
  - date_published: 2024-06-29T19:50:46.032748+00:00
+ - date_dead_since: 2025-01-06T10:34:13.264519+00:00
 
  ## HOME | adfwga
  - [https://adfwga.com](https://adfwga.com)
  - date_published: 2024-05-09T05:23:42.549268+00:00
 
  ## Digital Marketing Agency  | ADG Marketing & Advertising
- - [https://www.adgadvertising.com](https://www.adgadvertising.com)
+ - [https://adgadvertising.com](https://adgadvertising.com)
  - date_published: 2024-06-27T06:33:53.316355+00:00
 
  ## ADGENSITE
- - [https://www.adgensite.com](https://www.adgensite.com)
+ - [https://adgensite.com](https://adgensite.com)
  - date_published: 2020-12-15T07:58:12+00:00
 
  ## ADGM, Abu Dhabi's International Financial Centre
- - [https://www.adgm.com](https://www.adgm.com)
+ - [https://adgm.com](https://adgm.com)
  - date_published: 2024-03-28T12:28:45+00:00
 
  ## ADGM Academy
- - [https://www.adgmacademy.com](https://www.adgmacademy.com)
+ - [https://adgmacademy.com](https://adgmacademy.com)
  - date_published: 2024-08-29T00:00:00+00:00
 
  ## Web Login Service - Loading Session Information
@@ -760,7 +773,7 @@
  - date_published: 2024-07-01T22:10:08.706155+00:00
 
  ## Arkansas Democrat Gazette Coupons, Rewards and Savings
- - [https://www.adgrewards.com](https://www.adgrewards.com)
+ - [https://adgrewards.com](https://adgrewards.com)
  - date_published: 2024-06-27T06:34:11.612752+00:00
 
  ## AdGuard — World's most advanced adblocker!
@@ -809,7 +822,7 @@
  - date_published: 2024-10-27T14:53:07+00:00
 
  ## ADHD reWired - Podcast, Coaching, Community - ADHD reWired
- - [https://www.adhdrewired.com](https://www.adhdrewired.com)
+ - [https://adhdrewired.com](https://adhdrewired.com)
  - date_published: 2024-08-09T00:00:00+00:00
 
  ## Show HN: ADHD STASH. A curated collection of ADHD friendly products and services
@@ -817,11 +830,11 @@
  - date_published: 2024-03-14T17:13:32+00:00
 
  ## Advertising Operations
- - [http://www.adhelpnews.com](http://www.adhelpnews.com)
+ - [https://adhelpnews.com](https://adhelpnews.com)
  - date_published: 2024-06-18T09:56:53.734985+00:00
 
  ## adhesiontext – A Dynamic Dummy Text Generator
- - [http://www.adhesiontext.com](http://www.adhesiontext.com)
+ - [https://adhesiontext.com](https://adhesiontext.com)
  - date_published: 2024-07-04T14:46:02.716050+00:00
 
  ## adhiv dhar
@@ -838,7 +851,7 @@
  - date_published: 2024-02-08T14:16:17+00:00
 
  ## Hire temp workers or find temp jobs | Adia
- - [http://www.adia.com](http://www.adia.com)
+ - [https://adia.com](https://adia.com)
  - date_published: 2024-07-02T17:14:22.752922+00:00
 
  ## Ayu's Notes On Blog
@@ -851,11 +864,11 @@
  - tags: ['personal']
 
  ## Adictel - responsible gambling
- - [https://www.adictel.com](https://www.adictel.com)
+ - [https://adictel.com](https://adictel.com)
  - date_published: 2024-09-15T22:23:19.142918+00:00
 
  ## Home - Adictos al trabajo
- - [https://www.adictosaltrabajo.com](https://www.adictosaltrabajo.com)
+ - [https://adictosaltrabajo.com](https://adictosaltrabajo.com)
  - date_published: 2024-07-02T16:48:51.653830+00:00
 
  ## Oficjalna strona adidas Polska | Sklep sportowy
@@ -874,16 +887,16 @@
  - [https://news.adidas.com](https://news.adidas.com)
  - date_published: 2024-07-14T12:14:23.019690+00:00
 
+ ## Home - adidas Group
+ - [https://adidas-group.com](https://adidas-group.com)
+ - date_published: 2024-07-14T12:13:58.046156+00:00
+
  ## adidas Careers – Through sport, we have the power to change lives.
  - [https://careers.adidas-group.com](https://careers.adidas-group.com)
  - date_published: 2024-07-12T00:00:00+00:00
 
- ## Home - adidas Group
- - [https://www.adidas-group.com](https://www.adidas-group.com)
- - date_published: 2024-07-14T12:13:58.046156+00:00
-
  ## adidas Training Equipment
- - [https://www.adidashardware.com](https://www.adidashardware.com)
+ - [https://adidashardware.com](https://adidashardware.com)
  - date_published: 2024-07-14T12:14:44.617717+00:00
 
  ## Home
@@ -895,11 +908,11 @@
  - date_published: 2024-02-13T00:00:00+00:00
 
  ## Leading Pros Rely on ADI Global Distribution
- - [https://www.adiglobal.com](https://www.adiglobal.com)
+ - [http://www.adiglobal.com](http://www.adiglobal.com)
  - date_published: 2024-07-14T22:45:29.753362+00:00
 
  ## Home | A Dignified Life | Personal Assistance for Elder Care
- - [http://www.adignifiedlife.com](http://www.adignifiedlife.com)
+ - [https://adignifiedlife.com](https://adignifiedlife.com)
  - date_published: 2019-09-16T14:48:22+00:00
 
  ## aDiJas
@@ -919,7 +932,7 @@
  - date_published: 2024-05-11T10:20:11.366296+00:00
 
  ## Adimian: Sustainable Python Software Development
- - [https://www.adimian.com](https://www.adimian.com)
+ - [https://adimian.com](https://adimian.com)
  - date_published: 2024-07-20T17:51:26.661979+00:00
 
  ## Adim. Better together.
@@ -930,24 +943,24 @@
  - [https://adincebic.com](https://adincebic.com)
  - date_published: 2024-03-07T04:55:52+00:00
 
+ ## Home - AdInMo: InGamePlay brand advertising
+ - [https://adinmo.com](https://adinmo.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
  ## AdInMo | Portal
  - [https://portal.adinmo.com](https://portal.adinmo.com)
  - date_published: 2024-05-31T16:08:05+00:00
-
- ## Home - AdInMo: InGamePlay brand advertising
- - [https://www.adinmo.com](https://www.adinmo.com)
- - date_published: 2024-03-26T00:00:00+00:00
 
  ## adiolisha
  - [http://adiolisha.com](http://adiolisha.com)
  - date_published: 2024-12-27T21:02:41.882030+00:00
 
  ## ADIPEC 2024 Exhibition & Conference | 4 - 7 November 2024
- - [https://www.adipec.com](https://www.adipec.com)
+ - [https://adipec.com](https://adipec.com)
  - date_published: 2024-08-18T21:58:04.492576+00:00
 
  ## A Direct Solution – Monthly giving consulting for nonprofits with Erica Waasdorp
- - [https://www.adirectsolution.com](https://www.adirectsolution.com)
+ - [https://adirectsolution.com](https://adirectsolution.com)
  - date_published: 2024-07-04T12:51:06.011306+00:00
 
  ## Adirondack Arts & Entertainment
@@ -955,11 +968,11 @@
  - date_published: 2020-04-16T11:53:18+00:00
 
  ## Adirondack Almanack
- - [https://www.adirondackalmanack.com](https://www.adirondackalmanack.com)
+ - [https://adirondackalmanack.com](https://adirondackalmanack.com)
  - date_published: 2024-07-08T22:52:32.977120+00:00
 
  ## Home - The Adirondack Hotel on Long Lake
- - [http://adirondackhotel.com](http://adirondackhotel.com)
+ - [https://adirondackhotel.com](https://adirondackhotel.com)
  - date_published: 2024-06-24T09:31:20.057626+00:00
 
  ## Affordable Saratoga Springs Lodging: Rooms, Cottages, Guest Houses
@@ -979,7 +992,7 @@
  - date_published: 2024-06-02T00:00:00+00:00
 
  ## A Disorder 4 Everyone! | Challenging the Culture of Psychiatric Diagnosis
- - [http://www.adisorder4everyone.com](http://www.adisorder4everyone.com)
+ - [https://adisorder4everyone.com](https://adisorder4everyone.com)
  - date_published: 2024-06-21T19:42:25.701675+00:00
 
  ## ADITION adserving
@@ -993,9 +1006,10 @@
  ## Programmatic Advertising Solutions | Virtual Minds GmbH
  - [https://www.adition.com](https://www.adition.com)
  - date_published: 2024-05-06T17:29:33.687574+00:00
+ - date_dead_since: 2025-01-06T10:41:32.853605+00:00
 
  ## Supercharged Ad Ops Technology For Publishers
- - [https://www.aditude.com](https://www.aditude.com)
+ - [https://aditude.com](https://aditude.com)
  - date_published: 2024-07-13T03:22:57.975914+00:00
 
  ## Hi, I'm Aditya Athalye.
@@ -1016,7 +1030,7 @@
  - date_published: 2024-05-11T08:19:46.050530+00:00
 
  ## index
- - [http://adityaramesh.com](http://adityaramesh.com)
+ - [https://adityaramesh.com](https://adityaramesh.com)
  - date_published: 2022-04-28T09:30:03+00:00
 
  ## Aditya Ravi Shankar – Journey to Perfection
@@ -1032,7 +1046,7 @@
  - date_published: 2020-01-10T12:35:14+00:00
 
  ## Adium - Xtras - Home
- - [https://www.adiumxtras.com](https://www.adiumxtras.com)
+ - [https://adiumxtras.com](https://adiumxtras.com)
  - date_published: 2024-08-20T19:35:54.764363+00:00
 
  ## Home | Adiuvo Engineering
@@ -1044,7 +1058,7 @@
  - date_published: 2024-12-27T19:12:38.979537+00:00
 
  ## Home | Adixion Music
- - [https://www.adixionmusic.com](https://www.adixionmusic.com)
+ - [https://adixionmusic.com](https://adixionmusic.com)
  - date_published: 2024-09-25T12:37:34.973150+00:00
 
  ## Adjust Help Center
@@ -1052,7 +1066,7 @@
  - date_published: 2024-10-14T12:04:29.500881+00:00
 
  ## Adjust Status
- - [http://status.adjust.com](http://status.adjust.com)
+ - [https://status.adjust.com](https://status.adjust.com)
  - date_published: 2024-05-25T00:00:00+00:00
 
  ## Adjust
@@ -1076,11 +1090,11 @@
  - date_published: 2024-11-16T20:47:36+00:00
 
  ## HOME
- - [https://www.adkamerica.com](https://www.adkamerica.com)
+ - [https://adkamerica.com](https://adkamerica.com)
  - date_published: 2018-08-03T23:46:37+00:00
 
  ## Home | ADK Australia
- - [https://www.adkaustralia.com](https://www.adkaustralia.com)
+ - [https://adkaustralia.com](https://adkaustralia.com)
  - date_published: 2023-02-27T00:00:00+00:00
 
  ## ADK Global Website
@@ -1102,9 +1116,10 @@
  ## AdKernel – Universal Ad Technology Platform
  - [https://adkernel.com](https://adkernel.com)
  - date_published: 2024-05-06T17:48:32.122373+00:00
+ - date_dead_since: 2025-01-06T10:43:51.243969+00:00
 
  ## ADK India I The Challenger Network
- - [https://www.adk-india.com](https://www.adk-india.com)
+ - [https://adk-india.com](https://adk-india.com)
  - date_published: 2024-10-15T14:15:00.080525+00:00
 
  ## ADK Rage: Award-Winning Digital Marketing Agency
@@ -1112,11 +1127,11 @@
  - date_published: 2024-08-30T10:09:15+00:00
 
  ## ADK Thai Website – Customer Experience Agency
- - [http://www.adk-thai.com](http://www.adk-thai.com)
+ - [https://adk-thai.com](https://adk-thai.com)
  - date_published: 2024-10-15T00:00:00+00:00
 
  ## Adkymia, ou la première plateforme d'achat programmatique TV de campagnes vidéos
- - [https://www.adkymia.com](https://www.adkymia.com)
+ - [https://adkymia.com](https://adkymia.com)
  - date_published: 2022-05-12T00:00:00+00:00
 
  ## AdLarge Media
@@ -1132,7 +1147,7 @@
  - date_published: 2022-07-12T20:25:25+00:00
 
  ## ADLER: Online passt's - alles passt
- - [https://www.adlermode.com](https://www.adlermode.com)
+ - [https://adlermode.com](https://adlermode.com)
  - date_published: 2024-06-25T22:29:42.756955+00:00
 
  ## Home
@@ -1144,7 +1159,7 @@
  - date_published: 2024-12-28T05:15:32.317776+00:00
 
  ## The Adler Theatre
- - [http://www.adlertheatre.com](http://www.adlertheatre.com)
+ - [https://adlertheatre.com](https://adlertheatre.com)
  - date_published: 2024-07-14T15:22:15+00:00
 
  ## AM Collectie online |
@@ -1157,11 +1172,11 @@
  - date_published: 2021-12-02T11:38:06+00:00
 
  ## Threat Protection - Request Blocked
- - [https://www.adlibris.com](https://www.adlibris.com)
+ - [http://adlibris.com](http://adlibris.com)
  - date_published: 2024-06-17T03:00:13.952140+00:00
 
  ## Our Products | Security & Protection • Adlice Software
- - [https://www.adlice.com](https://www.adlice.com)
+ - [https://adlice.com](https://adlice.com)
  - date_published: 2024-09-02T16:01:39+00:00
 
  ## Digital Ad Security and Privacy Compliance for Advertisers and Publishers
@@ -1169,19 +1184,19 @@
  - date_published: 2024-12-07T00:28:48+00:00
 
  ## Edge Computing | IoT Solutions | ADLINK
- - [https://www.adlinktech.com](https://www.adlinktech.com)
+ - [https://adlinktech.com](https://adlinktech.com)
  - date_published: 2024-07-07T02:57:03.659453+00:00
 
  ## Adlin
- - [https://www.adlin-science.com](https://www.adlin-science.com)
+ - [https://adlin-science.com](https://adlin-science.com)
  - date_published: 2024-10-17T10:52:19.852264+00:00
 
  ## - Radical thinking for the brand advice business
- - [http://www.adliterate.com](http://www.adliterate.com)
+ - [https://adliterate.com](https://adliterate.com)
  - date_published: 2024-09-09T13:20:01.996182+00:00
 
  ## Arthur D. Little
- - [http://www.adlittle.com](http://www.adlittle.com)
+ - [https://adlittle.com](https://adlittle.com)
  - date_published: 2024-08-18T02:28:17.161473+00:00
 
  ## adlogomosaic
@@ -1189,7 +1204,7 @@
  - date_published: 2023-08-13T00:00:00+00:00
 
  ## Adlook | Brand Growth Platform for Consumer Marketers
- - [https://www.adlook.com](https://www.adlook.com)
+ - [https://adlook.com](https://adlook.com)
  - date_published: 2024-10-22T21:16:56.574128+00:00
 
  ## Adloox, la plateforme d'Ad Verification premium
@@ -1203,25 +1218,26 @@
  ## Adludio - Smarter Mobile Advertising
  - [https://adludio.com](https://adludio.com)
  - date_published: 2024-06-03T00:00:00+00:00
+ - date_dead_since: 2025-01-06T10:47:44.460834+00:00
 
  ## Adludio Ad Unit Preview
  - [https://preview.adludio.com](https://preview.adludio.com)
  - date_published: 2021-08-09T09:29:41+00:00
 
  ## Adlytic Marketing — We Design Great Squarespace Websites
- - [https://www.adlyticmarketing.com](https://www.adlyticmarketing.com)
+ - [https://adlyticmarketing.com](https://adlyticmarketing.com)
  - date_published: 2024-08-18T07:31:38.390720+00:00
 
  ## Human, Pet and Animal Nutrition Company
- - [https://www.adm.com](https://www.adm.com)
+ - [https://adm.com](https://adm.com)
  - date_published: 2024-06-26T10:38:51.833778+00:00
 
  ## Architectural Digest México y Latinoamérica
- - [https://www.admagazine.com](https://www.admagazine.com)
+ - [https://admagazine.com](https://admagazine.com)
  - date_published: 2024-06-18T07:24:14.235539+00:00
 
  ## Admation Marketing Project Management and Approval Workflow software
- - [https://www.admation.com](https://www.admation.com)
+ - [https://admation.com](https://admation.com)
  - date_published: 2024-06-21T11:38:27+00:00
 
  ## Home-New
@@ -1233,15 +1249,15 @@
  - date_published: 2024-05-29T00:00:00+00:00
 
  ## Admetricks | Análisis de la Competencia en Publicidad Digital
- - [https://www.admetricks.com](https://www.admetricks.com)
+ - [https://admetricks.com](https://admetricks.com)
  - date_published: 2024-09-10T12:20:58+00:00
 
  ## Homepage
- - [https://www.admiddleeast.com](https://www.admiddleeast.com)
+ - [https://admiddleeast.com](https://admiddleeast.com)
  - date_published: 2024-07-15T11:03:04.700798+00:00
 
  ## A5站长网 - 站长必看的网站-站长信息和服务中心
- - [https://www.admin5.com](https://www.admin5.com)
+ - [https://admin5.com](https://admin5.com)
  - date_published: 2024-10-25T11:13:20.214625+00:00
 
  ## Admin Apparel
@@ -1257,15 +1273,15 @@
  - date_published: 2024-06-05T07:28:57.856753+00:00
 
  ## Home » ADMIN Magazine
- - [https://www.admin-magazine.com](https://www.admin-magazine.com)
+ - [https://admin-magazine.com](https://admin-magazine.com)
  - date_published: 2024-06-21T13:42:27+00:00
 
  ## 完美世界电竞官方网站
  - [http://admirablylegal.com](http://admirablylegal.com)
- - date_published: 2024-07-12T22:35:18.858016+00:00
+ - date_published: 2017-04-26T08:03:47+00:00
 
  ## Car, MultiCar and MultiCover Insurance Quotes – Admiral
- - [https://www.admiral.com](https://www.admiral.com)
+ - [https://admiral.com](https://admiral.com)
  - date_published: 2024-08-19T09:14:11+00:00
 
  ## AdmiralBumbleBee
@@ -1291,6 +1307,7 @@
  ## Help Center
  - [https://help.admiralmarkets.com](https://help.admiralmarkets.com)
  - date_published: 2024-06-15T01:34:34.526236+00:00
+ - date_dead_since: 2025-01-06T10:48:42.041275+00:00
 
  ## WebTrader - Admiral Markets
  - [https://web.admiralmarkets.com](https://web.admiralmarkets.com)
@@ -1305,7 +1322,7 @@
  - date_published: 2024-06-15T01:34:36.947624+00:00
 
  ## Admission Mart
- - [http://admissionmart.com](http://admissionmart.com)
+ - [https://admissionmart.com](https://admissionmart.com)
  - date_published: 2024-10-14T16:28:25.041529+00:00
 
  ## Loading Portal...
@@ -1349,11 +1366,11 @@
  - date_published: 2024-05-08T10:58:09.448480+00:00
 
  ## AdMonsters Job Board
- - [http://jobs.admonsters.com](http://jobs.admonsters.com)
+ - [https://jobs.admonsters.com](https://jobs.admonsters.com)
  - date_published: 2024-07-08T11:17:58.324060+00:00
 
  ## Bienvenue à YUL
- - [http://www.admtl.com](http://www.admtl.com)
+ - [https://admtl.com](https://admtl.com)
  - date_published: 2024-09-06T21:13:23.160207+00:00
 
  ## Anchorage Daily News
@@ -1403,6 +1420,7 @@
  ## AdNow - native advertising network - native advertising
  - [https://adnow.com](https://adnow.com)
  - date_published: 2024-02-28T00:00:00+00:00
+ - date_dead_since: 2025-01-06T10:53:10.568703+00:00
 
  ## AdNow - нейтив рекламна мрежа - native advertising
  - [https://bg.adnow.com](https://bg.adnow.com)
@@ -1473,7 +1491,7 @@
  - date_published: 2024-06-16T16:52:27.188855+00:00
 
  ## adnsx.com
- - [http://ww12.adnsx.com](http://ww12.adnsx.com)
+ - [https://ww12.adnsx.com](https://ww12.adnsx.com)
  - date_published: 2024-10-12T09:25:11.468001+00:00
 
  ## Adnuntius
@@ -1483,6 +1501,7 @@
  ## Adnuntius - Curated Marketplace, Retail Media, Adserver
  - [https://adnuntius.com](https://adnuntius.com)
  - date_published: 2024-05-06T17:59:24.383711+00:00
+ - date_dead_since: 2025-01-06T10:53:40.570291+00:00
 
  ## Adnuntius Documentation | ADNUNTIUS
  - [https://docs.adnuntius.com](https://docs.adnuntius.com)
@@ -1542,7 +1561,7 @@
  - date_published: 2023-10-25T12:33:04.951350+00:00
 
  ## Adobe Tech Blog
- - [http://blog.developer.adobe.com](http://blog.developer.adobe.com)
+ - [https://blog.developer.adobe.com](https://blog.developer.adobe.com)
  - date_published: 2024-07-10T00:00:00+00:00
 
  ## Adobe Business: Products & Services with Adobe Experience Cloud
@@ -1574,7 +1593,7 @@
  - date_published: 2024-05-01T02:27:52.778486+00:00
 
  ## Adobe Developer Website
- - [http://developer.adobe.com](http://developer.adobe.com)
+ - [https://developer.adobe.com](https://developer.adobe.com)
  - date_published: 2024-05-15T20:42:01+00:00
 
  ## Adobe Enterprise Documentation
@@ -1622,11 +1641,11 @@
  - date_published: 2024-04-16T00:00:00+00:00
 
  ## Adobe Help Center
- - [http://helpx.adobe.com](http://helpx.adobe.com)
+ - [https://helpx.adobe.com](https://helpx.adobe.com)
  - date_published: 2023-10-25T12:33:18.128561+00:00
 
  ## Adobe products: desktop, web, and mobile applications | Adobe
- - [http://html.adobe.com](http://html.adobe.com)
+ - [https://html.adobe.com](https://html.adobe.com)
  - date_published: 2024-10-20T08:50:42.935732+00:00
 
  ## Publish Online
@@ -1634,10 +1653,11 @@
  - date_published: 2024-05-24T10:39:48+00:00
 
  ## Adobe: Creative, marketing and document management solutions
- - [http://kb.adobe.com](http://kb.adobe.com)
+ - [https://kb.adobe.com](https://kb.adobe.com)
  - date_published: 2024-04-16T00:00:00+00:00
 
- - [https://kuler.adobe.com](https://kuler.adobe.com)
+ ## kuler.adobe.com
+ - [http://kuler.adobe.com](http://kuler.adobe.com)
  - date_published: 2000-01-01T00:00:00+00:00
 
  ## Adobe Labs
@@ -1711,6 +1731,7 @@
  ## Imagine. Explore. Invent.
  - [https://research.adobe.com](https://research.adobe.com)
  - date_published: 2024-05-02T12:55:34.475902+00:00
+ - date_dead_since: 2025-01-06T11:03:40.499258+00:00
 
  ## Adobe Express
  - [https://schedule.adobe.com](https://schedule.adobe.com)
@@ -1719,6 +1740,7 @@
  ## Files | Adobe
  - [https://shared-assets.adobe.com](https://shared-assets.adobe.com)
  - date_published: 2024-06-30T11:47:15.134049+00:00
+ - date_dead_since: 2025-01-06T11:03:55.602174+00:00
 
  ## Home
  - [https://solutionpartners.adobe.com](https://solutionpartners.adobe.com)
@@ -1737,7 +1759,7 @@
  - date_published: 2024-05-01T02:27:49.926382+00:00
 
  ## Kolekcja zdjęć; obrazy, grafiki, wektory i filmy bez tantiem | Adobe Stock
- - [https://stock.adobe.com](https://stock.adobe.com)
+ - [http://stock.adobe.com](http://stock.adobe.com)
  - date_published: 2024-05-09T05:40:05.664106+00:00
 
  ## 3D and AR software - Adobe Substance 3D
@@ -1753,7 +1775,7 @@
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## Adobe Help Center
- - [http://tv.adobe.com](http://tv.adobe.com)
+ - [https://tv.adobe.com](https://tv.adobe.com)
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## Adobe XD Learn & Support
@@ -1789,11 +1811,11 @@
  - date_published: 2024-10-21T22:22:20.032994+00:00
 
  ## Adobe & Teardrops – In Music We Trust. In Music We Believe.
- - [http://www.adobeandteardrops.com](http://www.adobeandteardrops.com)
+ - [https://adobeandteardrops.com](https://adobeandteardrops.com)
  - date_published: 2024-08-18T06:50:54.529036+00:00
 
  ## Adobe Connect Central Login
- - [http://eseminars.adobeconnect.com](http://eseminars.adobeconnect.com)
+ - [https://eseminars.adobeconnect.com](https://eseminars.adobeconnect.com)
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## Adobe Connect Central Login
@@ -1801,7 +1823,7 @@
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## Adobe Connect Central Login
- - [http://momentum.adobeconnect.com](http://momentum.adobeconnect.com)
+ - [https://momentum.adobeconnect.com](https://momentum.adobeconnect.com)
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## https://assets.adobedtm.com
@@ -1813,7 +1835,7 @@
  - date_published: 2024-08-13T10:22:23+00:00
 
  ## Extraordinary is just the beginning. | 2025 Adobe Experience Maker Awards
- - [https://www.adobeexperienceawards.com](https://www.adobeexperienceawards.com)
+ - [https://adobeexperienceawards.com](https://adobeexperienceawards.com)
  - date_published: 2024-09-16T07:15:28.578160+00:00
 
  ## Adobe Creative Cloud 2024 Release books, eBooks, and Web Editions | Peachpit
@@ -1833,11 +1855,11 @@
  - date_published: 2024-04-29T05:27:51.885553+00:00
 
  ## adobetm.com
- - [http://ww38.assets.adobetm.com](http://ww38.assets.adobetm.com)
+ - [https://ww38.assets.adobetm.com](https://ww38.assets.adobetm.com)
  - date_published: 2024-07-27T02:52:04.775329+00:00
 
  ## Adobe XD Platform - Home
- - [http://www.adobexdplatform.com](http://www.adobexdplatform.com)
+ - [https://adobexdplatform.com](https://adobexdplatform.com)
  - date_published: 2020-10-16T14:12:10+00:00
 
  ## adobo Magazine
@@ -1885,11 +1907,11 @@
  - date_published: 2024-06-26T17:35:15+00:00
 
  ## Ad Ops Insider | How Online Advertising Works
- - [http://www.adopsinsider.com](http://www.adopsinsider.com)
+ - [https://adopsinsider.com](https://adopsinsider.com)
  - date_published: 2024-08-07T18:58:37.172260+00:00
 
  ## THE ANNUAL ADOPT A SCHOOL GOLF TOURNAMENT AT REFLECTION RIDGE GOLF CLUB – Adopt-a-School. Adopt a Cause.
- - [http://www.adoptaschoolkansas.com](http://www.adoptaschoolkansas.com)
+ - [https://adoptaschoolkansas.com](https://adoptaschoolkansas.com)
  - date_published: 2024-06-19T18:10:38.363955+00:00
 
  ## Adoptimadigital
@@ -1897,11 +1919,11 @@
  - date_published: 2024-12-19T13:05:14.016230+00:00
 
  ## Logan County Humane Society - Animal Shelter in Russellville
- - [https://www.adoptlcpets.com](https://www.adoptlcpets.com)
+ - [https://adoptlcpets.com](https://adoptlcpets.com)
  - date_published: 2024-07-08T16:55:37.722502+00:00
 
  ## adorablethemes.com
- - [http://adorablethemes.com](http://adorablethemes.com)
+ - [https://adorablethemes.com](https://adorablethemes.com)
  - date_published: 2024-06-27T05:02:33.842208+00:00
 
  ## Student Bridge
@@ -1913,7 +1935,7 @@
  - date_published: 2025-01-02T00:25:37.170082+00:00
 
  ## Access to this page has been denied
- - [http://www.adorama.com](http://www.adorama.com)
+ - [https://www.adorama.com](https://www.adorama.com)
  - date_published: 2024-09-16T06:21:08.625653+00:00
 
  ## Raja188 - Topbos Situs Raja Slot Online Scatter Hitam Bet 200 Perak
@@ -1927,6 +1949,7 @@
  ## A customized journey that turns visitors into customers
  - [https://adoric.com](https://adoric.com)
  - date_published: 2024-06-14T15:54:45.815481+00:00
+ - date_dead_since: 2025-01-06T11:08:08.485985+00:00
 
  ## Adoric
  - [https://help.adoric.com](https://help.adoric.com)
@@ -1941,11 +1964,11 @@
  - date_published: 2024-10-30T05:09:29+00:00
 
  ## Home - ADOTAT with Pesach Lattin !
- - [https://www.adotat.com](https://www.adotat.com)
+ - [https://adotat.com](https://adotat.com)
  - date_published: 2024-03-13T18:04:14+00:00
 
  ## ADP Official Site | Payroll, HR and Tax Services
- - [http://adp.com](http://adp.com)
+ - [https://adp.com](https://adp.com)
  - date_published: 2024-06-16T14:39:25.734304+00:00
 
  ## Sign In | ADP
@@ -1984,6 +2007,10 @@
  - [https://es.adp.com](https://es.adp.com)
  - date_published: 2024-06-16T10:08:09.784893+00:00
 
+ ## ADP France | Fournisseur de Solutions de Paie et de RH
+ - [https://fr.adp.com](https://fr.adp.com)
+ - date_published: 2024-06-16T10:07:44.887797+00:00
+
  ## ADP Hong Kong | Payroll and HR Systems Provider for Every Business
  - [https://hk.adp.com](https://hk.adp.com)
  - date_published: 2024-06-16T10:08:23.588620+00:00
@@ -1999,9 +2026,10 @@
  ## Page No Longer Available | ADP
  - [https://info.adp.com](https://info.adp.com)
  - date_published: 2024-06-16T10:08:14.652213+00:00
+ - date_dead_since: 2025-01-06T11:11:31.393320+00:00
 
  ## Attention Required! | Cloudflare
- - [https://investors.adp.com](https://investors.adp.com)
+ - [http://investors.adp.com](http://investors.adp.com)
  - date_published: 2024-06-16T10:08:04.982076+00:00
 
  ## ADP Italia | Software per il payroll e servizi HR pluripremiati per ogni azienda
@@ -2033,7 +2061,7 @@
  - date_published: 2024-06-16T10:07:55.341223+00:00
 
  ## ADP
- - [https://online.adp.com](https://online.adp.com)
+ - [http://online.adp.com](http://online.adp.com)
  - date_published: 2024-06-06T20:07:06+00:00
 
  ## Pay Insights Report
@@ -2086,18 +2114,14 @@
 
  ## Federation Redirector
  - [https://workforcenow.adp.com](https://workforcenow.adp.com)
- - date_published: 2022-04-10T03:10:52+00:00
-
- ## ADP France | Fournisseur de Solutions de Paie et de RH
- - [http://www.fr.adp.com](http://www.fr.adp.com)
- - date_published: 2024-06-16T10:07:44.887797+00:00
+ - date_published: 2022-04-10T03:06:44+00:00
 
  ## - Error
  - [https://secure.adpay.com](https://secure.adpay.com)
  - date_published: 2024-05-06T22:05:10.601607+00:00
 
  ## ADP 中国 | 可供每个公司使用的薪酬服务与人力资源软件
- - [http://www.adpchina.com](http://www.adpchina.com)
+ - [https://adpchina.com](https://adpchina.com)
  - date_published: 2024-06-16T10:07:35.195796+00:00
 
  ## ADP Employment Reports
@@ -2105,20 +2129,23 @@
  - date_published: 2024-06-16T10:07:30.939648+00:00
 
  ## ad pepper media International N.V. – digital pioneers since 1999
- - [http://www.adpeppergroup.com](http://www.adpeppergroup.com)
+ - [https://adpeppergroup.com](https://adpeppergroup.com)
  - date_published: 2024-04-16T00:00:00+00:00
 
  ## Austin Chronicle Classifieds | Place an ad
  - [https://austinchronicle.adperfect.com](https://austinchronicle.adperfect.com)
- - date_published: 2024-10-14T17:18:08.487230+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T11:13:59.098767+00:00
 
  ## Edmonton Journal Classifieds | Place an ad
  - [https://edmontonjournal.adperfect.com](https://edmontonjournal.adperfect.com)
- - date_published: 2024-10-15T14:58:56.972898+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T11:14:00.004814+00:00
 
  ## Jackson Hole News&Guide Classifieds | Place an ad
  - [https://jhnewsandguide.adperfect.com](https://jhnewsandguide.adperfect.com)
- - date_published: 2024-10-16T01:44:31.533307+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T11:14:00.839440+00:00
 
  ## Las Vegas Review-Journal
  - [https://lasvegasreviewjournal.adperfect.com](https://lasvegasreviewjournal.adperfect.com)
@@ -2126,11 +2153,13 @@
 
  ## National Post Classifieds | Place an ad
  - [https://nationalpost.adperfect.com](https://nationalpost.adperfect.com)
- - date_published: 2024-10-15T14:53:28.837239+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T11:14:01.598995+00:00
 
  ## Edmonton Journal Remembering Classifieds | Place an ad
  - [https://obituariesedmontonjournal.adperfect.com](https://obituariesedmontonjournal.adperfect.com)
- - date_published: 2024-10-15T14:59:09.868993+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T11:14:02.437430+00:00
 
  ## AdPerfect - A Tribute Technology Company
  - [https://www.adperfect.com](https://www.adperfect.com)
@@ -2143,34 +2172,38 @@
  ## AdPlugg | Ad Server & Ad Manager Combined with Ad Plugin for Blog Advertising
  - [https://www.adplugg.com](https://www.adplugg.com)
  - date_published: 2024-07-04T15:18:45+00:00
+ - date_dead_since: 2025-01-06T11:14:07.290795+00:00
 
  ## Adpone - Advertising made easy
  - [https://adpone.com](https://adpone.com)
  - date_published: 2024-05-06T17:42:40.141374+00:00
+ - date_dead_since: 2025-01-06T11:14:09.119080+00:00
 
  ## AdponeReportingTool
  - [http://publishers.adpone.com](http://publishers.adpone.com)
  - date_published: 2024-06-25T20:23:07.339034+00:00
+ - date_dead_since: 2025-01-06T11:14:10.581727+00:00
 
  ## A D Porter & Sons Funeral Home
- - [https://www.adporters.com](https://www.adporters.com)
+ - [https://adporters.com](https://adporters.com)
  - date_published: 2024-08-11T00:00:00+00:00
 
  ## Money Group
- - [https://www.adpractitioners.com](https://www.adpractitioners.com)
+ - [https://adpractitioners.com](https://adpractitioners.com)
  - date_published: 2024-09-10T09:03:43.376865+00:00
 
  ## AdQuick - Billboards, Out-Of-Home Advertising & Attribution
- - [https://www.adquick.com](https://www.adquick.com)
+ - [https://adquick.com](https://adquick.com)
  - date_published: 2024-06-26T23:55:26.026577+00:00
 
  ## Marketing, Advertising and Social Media News With Attitude by Steve Hall
- - [http://www.adrants.com](http://www.adrants.com)
+ - [https://adrants.com](https://adrants.com)
  - date_published: 2024-08-18T03:40:00.112979+00:00
 
  ## graphics.adrecord.com (1×1)
  - [https://graphics.adrecord.com](https://graphics.adrecord.com)
  - date_published: 2024-07-20T19:45:21.227654+00:00
+ - date_dead_since: 2025-01-06T11:16:45.298955+00:00
 
  ## Adrelien ⭕ Every Pulse Count
  - [https://adrelien.com](https://adrelien.com)
@@ -2185,15 +2218,15 @@
  - date_published: 2024-05-06T17:01:43+00:00
 
  ## Ad Results Media | Digital Audio & Podcast Advertising Agency
- - [https://www.adresultsmedia.com](https://www.adresultsmedia.com)
+ - [https://adresultsmedia.com](https://adresultsmedia.com)
  - date_published: 2023-09-26T09:33:48+00:00
 
  ## AdRetro - Vintage Print Ads
- - [https://adretro.com](https://adretro.com)
+ - [http://adretro.com](http://adretro.com)
  - date_published: 2024-09-02T09:46:54.481003+00:00
 
  ## Alternative Dispute Resolution | FORUM
- - [https://www.adrforum.com](https://www.adrforum.com)
+ - [https://adrforum.com](https://adrforum.com)
  - date_published: 2024-09-30T11:32:50.375743+00:00
 
  ## Media Minds by Adriana Lacy Consulting
@@ -2205,7 +2238,7 @@
  - date_published: 2024-07-04T01:44:23.419556+00:00
 
  ## Home - Adriana Tica
- - [https://www.adrianatica.com](https://www.adrianatica.com)
+ - [https://adrianatica.com](https://adrianatica.com)
  - date_published: 2024-04-12T00:00:00+00:00
 
  ## Home
@@ -2222,7 +2255,7 @@
  - date_published: 2023-05-31T13:57:35+00:00
 
  ## Adrian Holliday
- - [http://adrianholliday.com](http://adrianholliday.com)
+ - [https://adrianholliday.com](https://adrianholliday.com)
  - date_published: 2024-06-17T14:09:10.514449+00:00
  - tags: ['personal']
 
@@ -2250,7 +2283,7 @@
  - [https://adrianpreda.com](https://adrianpreda.com)
  - date_published: 2024-05-01T02:27:57.977609+00:00
 
- - [https://adrianriv.com](https://adrianriv.com)
+ - [http://adrianriv.com](http://adrianriv.com)
  - date_published: 2024-02-22T13:05:19.514220+00:00
 
  ## Adrian Roselli — Consultant, Writer, Speaker
@@ -2270,7 +2303,7 @@
  - date_published: 2000-01-01T00:00:00+00:00
 
  ## Adrian Swinscoe | Customer Service | Customer Experience
- - [https://www.adrianswinscoe.com](https://www.adrianswinscoe.com)
+ - [https://adrianswinscoe.com](https://adrianswinscoe.com)
  - date_published: 2020-01-10T21:14:52+00:00
 
  ## 🥑 Adrian Marin - Product-Minded Software Engineer
@@ -2282,7 +2315,7 @@
  - date_published: 2024-04-07T00:00:00+00:00
 
  ## Adrian Utley Official Website
- - [https://www.adrianutley.com](https://www.adrianutley.com)
+ - [https://adrianutley.com](https://adrianutley.com)
  - date_published: 2024-05-02T12:11:44.249946+00:00
 
  ## Hey, my name is Adrian Valenzuela | Your awesome title
@@ -2298,11 +2331,11 @@
  - date_published: 2024-07-04T01:46:08.258147+00:00
 
  ## Adriatic Metals plc
- - [https://www.adriaticmetals.com](https://www.adriaticmetals.com)
+ - [https://adriaticmetals.com](https://adriaticmetals.com)
  - date_published: 2024-09-16T22:04:57.392127+00:00
 
  ## Adriatic Restoration
- - [https://www.adriaticrestoration.com](https://www.adriaticrestoration.com)
+ - [https://adriaticrestoration.com](https://adriaticrestoration.com)
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## Adrien Gaidon, PhD
@@ -2333,6 +2366,7 @@
  ## Digital Advertising Platform for Brands and Agencies | AdRoll
  - [https://pages.adroll.com](https://pages.adroll.com)
  - date_published: 2024-06-23T07:14:59.040263+00:00
+ - date_dead_since: 2025-01-06T11:21:20.727162+00:00
 
  ## AdRoll
  - [https://partners.adroll.com](https://partners.adroll.com)
@@ -2345,6 +2379,7 @@
  ## Digital Advertising Platform for Brands and Agencies | AdRoll
  - [https://www.adroll.com](https://www.adroll.com)
  - date_published: 2024-06-17T02:23:36.385033+00:00
+ - date_dead_since: 2025-01-06T11:21:28.753452+00:00
 
  ## WordPress and ClassicPress plugins trusted by over 50000 users.
  - [http://www.adrotateplugin.com](http://www.adrotateplugin.com)
@@ -4012,8 +4047,4 @@
  ## american entertainment virtuals,inc. : AEVINC.COM
  - [http://aevinc.com](http://aevinc.com)
  - date_published: 2021-04-16T20:31:12+00:00
-
- ## Get AFAA Certified! Group Fitness, Nutrition & Personal Training
- - [https://www.afaa.com](https://www.afaa.com)
- - date_published: 2024-08-07T12:54:52+00:00
 

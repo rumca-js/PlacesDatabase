@@ -1,3 +1,71 @@
+ ## The Man In the Yellow Jacket
+ - [https://deg99.tumblr.com](https://deg99.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Untitled
+ - [https://delicious-trash-tree.tumblr.com](https://delicious-trash-tree.tumblr.com)
+ - date_published: 2024-06-20T22:32:06.783494+00:00
+
+ ## Delta Breezes...
+ - [https://delta-breezes.tumblr.com](https://delta-breezes.tumblr.com)
+ - date_published: 2024-10-23T08:08:26.899578+00:00
+
+ ## Remastered Edition
+ - [https://demilypyro.tumblr.com](https://demilypyro.tumblr.com)
+ - date_published: 2024-06-27T02:59:46.640892+00:00
+
+ ## Demonac
+ - [https://demonac.tumblr.com](https://demonac.tumblr.com)
+ - date_published: 2024-05-13T03:24:08.204598+00:00
+
+ ## Slifer's Den
+ - [http://demonatemu.tumblr.com](http://demonatemu.tumblr.com)
+ - date_published: 2024-10-27T04:06:17.131414+00:00
+
+ ## Dixdy Duo
+ - [https://demondesigner.tumblr.com](https://demondesigner.tumblr.com)
+ - date_published: 2024-12-13T10:57:52.759304+00:00
+
+ ## Tumblr
+ - [http://demonszy.tumblr.com](http://demonszy.tumblr.com)
+ - date_published: 2024-06-30T06:17:35.423313+00:00
+
+ ## Sarah Schanze
+ - [https://depleti.tumblr.com](https://depleti.tumblr.com)
+ - date_published: 2024-12-22T08:40:07.813843+00:00
+
+ ## Tumblr
+ - [https://depsidase.tumblr.com](https://depsidase.tumblr.com)
+ - date_published: 2024-06-27T03:21:34.660118+00:00
+
+ ## deptofwellbeing
+ - [http://deptofwellbeing.tumblr.com](http://deptofwellbeing.tumblr.com)
+ - date_published: 2016-06-30T00:00:00+00:00
+
+ ## ☀︎ ₊˚⋆ Daydream ⋆˚₊ ☁︎
+ - [https://deputyjuyeon.tumblr.com](https://deputyjuyeon.tumblr.com)
+ - date_published: 2024-12-13T11:19:37.810729+00:00
+
+ ## Untitled
+ - [http://derelictimagination.tumblr.com](http://derelictimagination.tumblr.com)
+ - date_published: 2024-12-13T05:21:09.400901+00:00
+
+ ## Website promotion and online marketing
+ - [https://derharlekin.tumblr.com](https://derharlekin.tumblr.com)
+ - date_published: 2024-05-06T20:34:42.169276+00:00
+
+ ## Addicted to red herrings
+ - [https://derinthescarletpescatarian.tumblr.com](https://derinthescarletpescatarian.tumblr.com)
+ - date_published: 2024-12-13T11:12:14.886662+00:00
+
+ ## Copy and paste my image description into your post :)
+ - [https://describe-things.tumblr.com](https://describe-things.tumblr.com)
+ - date_published: 2024-06-27T02:35:08.615026+00:00
+
+ ## Design at Wikipedia
+ - [https://designatwikipedia.tumblr.com](https://designatwikipedia.tumblr.com)
+ - date_published: 2024-07-13T23:53:52.461180+00:00
+
  ## DesignByHumans
  - [https://designbyhumans.tumblr.com](https://designbyhumans.tumblr.com)
  - date_published: 2015-08-17T00:00:00+00:00
@@ -3933,73 +4001,4 @@ is being bad
  ## Jess Fink
  - [https://jessfink.tumblr.com](https://jessfink.tumblr.com)
  - date_published: 2024-07-14T10:46:22.839487+00:00
-
- ## saint jimmy (@jesterbots)
- - [https://jesterbots.tumblr.com](https://jesterbots.tumblr.com)
- - date_published: 2024-06-27T04:16:27.043130+00:00
-
- ## random musings
- - [https://jestingmaniac.tumblr.com](https://jestingmaniac.tumblr.com)
- - date_published: 2024-06-27T03:06:08.180163+00:00
-
- ## JettSchae
- - [https://jettschae.tumblr.com](https://jettschae.tumblr.com)
- - date_published: 2024-10-23T08:06:08.321031+00:00
-
- ## Ji'hyn does a Tumbl
- - [https://jihyncelestis.tumblr.com](https://jihyncelestis.tumblr.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## jillian.kaye
- - [https://jilliankayeart.tumblr.com](https://jilliankayeart.tumblr.com)
- - date_published: 2024-08-19T21:04:34.382106+00:00
-
- ## trekkie side blog
- - [https://jim-kirks-bubble-butt.tumblr.com](https://jim-kirks-bubble-butt.tumblr.com)
- - date_published: 2024-06-27T03:01:22.937220+00:00
-
- ## Jimmy Dipthong’s Sweaty Longposts
- - [https://jimmy-dipthong.tumblr.com](https://jimmy-dipthong.tumblr.com)
- - date_published: 2024-07-02T08:57:43.201705+00:00
- - date_dead_since: 2025-01-05T13:37:50.518009+00:00
-
- ## What Works on Wall Street
- - [https://jimoshaughnessy.tumblr.com](https://jimoshaughnessy.tumblr.com)
- - date_published: 2018-06-21T00:00:00+00:00
-
- ## Tumblr
- - [https://jiraidanshi.tumblr.com](https://jiraidanshi.tumblr.com)
- - date_published: 2024-12-13T11:32:43.724838+00:00
-
- ## 7 Days to Die Blog
- - [https://joelhuenink.tumblr.com](https://joelhuenink.tumblr.com)
- - date_published: 2024-10-25T10:50:55.026678+00:00
-
- ## Well Who knows
- - [https://johanirae.tumblr.com](https://johanirae.tumblr.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## John Byrne Draws...
- - [https://johnbyrnedraws.tumblr.com](https://johnbyrnedraws.tumblr.com)
- - date_published: 2024-09-04T17:20:09.522520+00:00
-
- ## Staying silly through it all
- - [https://jointpainfaggot.tumblr.com](https://jointpainfaggot.tumblr.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## sims, spice and everything nice
- - [https://joliebean.tumblr.com](https://joliebean.tumblr.com)
- - date_published: 2024-10-23T08:02:53.310218+00:00
-
- ## Tumblr
- - [https://jonjos-library.tumblr.com](https://jonjos-library.tumblr.com)
- - date_published: 2024-12-13T10:09:12.349067+00:00
-
- ## The Jorb Zone
- - [https://jorbs-palace.tumblr.com](https://jorbs-palace.tumblr.com)
- - date_published: 2024-05-06T20:32:57.714315+00:00
-
- ## When you gaze long into an abyss the abyss also gazes into you.
- - [https://josefstaedterstrasse.tumblr.com](https://josefstaedterstrasse.tumblr.com)
- - date_published: 2024-05-11T07:10:59.246070+00:00
 

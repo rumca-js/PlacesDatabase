@@ -1,3 +1,7 @@
+ ## No IHRA
+ - [https://www.noihra.ca](https://www.noihra.ca)
+ - date_published: 2024-10-21T19:06:52.427259+00:00
+
  ## Website | Graphic design Surrey, Langley, Vancouver
  - [http://www.nolimitproductions.ca](http://www.nolimitproductions.ca)
  - date_published: 2024-12-12T11:24:13.047886+00:00
@@ -21,6 +25,7 @@
  ## Edmonton's community college. See yourself here. | NorQuest College
  - [https://www.norquest.ca](https://www.norquest.ca)
  - date_published: 2024-10-29T04:19:12.312088+00:00
+ - date_dead_since: 2025-01-06T14:54:12.330269+00:00
 
  ## Luxury Wide Plank Hardwood Floors; Specialty Reclaimed Wood Flooring
  - [https://northernwideplank.ca](https://northernwideplank.ca)
@@ -1169,7 +1174,7 @@
  - date_published: 2024-02-14T01:17:43+00:00
 
  ## Oil Change, Tires, Service & Repair  | Quick Lane® Tire & Auto Centre
- - [http://quicklane.ca](http://quicklane.ca)
+ - [https://quicklane.ca](https://quicklane.ca)
  - date_published: 2024-10-29T10:45:00+00:00
 
  ## Fun Corporate Team Building Trivia Events | Quiz Coconut Canada
@@ -1392,15 +1397,18 @@
 
  ## Read recent and archived obituaries and memorial notices from Edmonton Sun.
  - [https://edmontonsun.remembering.ca](https://edmontonsun.remembering.ca)
- - date_published: 2024-10-29T03:36:58.319615+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T14:44:19.304588+00:00
 
  ## Read recent and archived obituaries and memorial notices from Regina Leader-Post.
  - [https://leaderpost.remembering.ca](https://leaderpost.remembering.ca)
- - date_published: 2024-10-29T04:12:01.778220+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T14:53:26.114407+00:00
 
  ## Read recent and archived obituaries and memorial notices from London Free Press.
  - [https://lfpress.remembering.ca](https://lfpress.remembering.ca)
- - date_published: 2024-10-29T04:51:06.376449+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T15:03:33.655177+00:00
 
  ## Read recent and archived obituaries and memorial notices from National Post.
  - [http://nationalpost.remembering.ca](http://nationalpost.remembering.ca)
@@ -1408,27 +1416,33 @@
 
  ## Read recent and archived obituaries and memorial notices from Ottawa Sun.
  - [http://ottawasun.remembering.ca](http://ottawasun.remembering.ca)
- - date_published: 2024-10-29T04:53:07.023193+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T15:03:35.573758+00:00
 
  ## Read recent and archived obituaries and memorial notices from Saskatoon StarPhoenix.
  - [https://thestarphoenix.remembering.ca](https://thestarphoenix.remembering.ca)
- - date_published: 2024-10-29T03:33:39.360188+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T14:44:18.559529+00:00
 
  ## Read recent and archived obituaries and memorial notices from Vancouver Sun and Province.
  - [https://vancouversunandprovince.remembering.ca](https://vancouversunandprovince.remembering.ca)
- - date_published: 2024-10-29T03:53:03.875677+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T14:44:26.302281+00:00
 
  ## Read recent and archived obituaries and memorial notices from Windsor Star.
  - [https://windsorstar.remembering.ca](https://windsorstar.remembering.ca)
- - date_published: 2024-10-29T03:41:30.810042+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T14:44:20.109522+00:00
 
  ## Read recent and archived obituaries and memorial notices from Winnipeg Sun.
  - [https://winnipegsun.remembering.ca](https://winnipegsun.remembering.ca)
- - date_published: 2024-10-29T04:07:08.761219+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T14:53:25.796993+00:00
 
  ## Read recent and archived obituaries and memorial notices from Postmedia Obituaries.
  - [https://www.remembering.ca](https://www.remembering.ca)
- - date_published: 2024-10-29T04:46:40.136687+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T15:03:25.738982+00:00
 
  ## Remorquage Stevy, Steven Grondin Transport et remorquage en Beauce
  - [https://remorquagestevy.ca](https://remorquagestevy.ca)
@@ -4027,8 +4041,4 @@
  ## OpenAthens Login
  - [https://openathens.library.ubc.ca](https://openathens.library.ubc.ca)
  - date_published: 2024-07-21T09:07:59.522689+00:00
-
- ## Open Collections - UBC Library Open Collections
- - [https://open.library.ubc.ca](https://open.library.ubc.ca)
- - date_published: 2024-07-13T19:26:17.214817+00:00
 

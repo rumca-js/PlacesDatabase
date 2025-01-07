@@ -1,3 +1,15 @@
+ ## ComparativeLawBlog
+ - [http://comparativelawblog.blogspot.com](http://comparativelawblog.blogspot.com)
+ - date_published: 2024-10-18T20:41:45.075787+00:00
+
+ ## Nie znaleziono bloga
+ - [http://compartilhandoleituras.blogspot.com](http://compartilhandoleituras.blogspot.com)
+ - date_published: 2024-12-20T07:51:37.953158+00:00
+
+ ## The Compass Rose
+ - [https://compassrosebooks.blogspot.com](https://compassrosebooks.blogspot.com)
+ - date_published: 2024-10-18T16:03:11+00:00
+
  ## CompCondMat
  - [http://compcondmat.blogspot.com](http://compcondmat.blogspot.com)
  - date_published: 2024-03-05T12:25:41+00:00
@@ -2030,7 +2042,7 @@
  - date_published: 2024-10-21T17:00:29.367169+00:00
 
  ## Darwinian Conservatism by Larry Arnhart
- - [http://darwinianconservatism.blogspot.com](http://darwinianconservatism.blogspot.com)
+ - [https://darwinianconservatism.blogspot.com](https://darwinianconservatism.blogspot.com)
  - date_published: 2024-10-29T09:45:37+00:00
 
  ## Blogger
@@ -2332,7 +2344,7 @@
  - date_published: 2024-03-14T07:57:50+00:00
 
  ## Twin methods in OpenMx
- - [http://dbtemp.blogspot.com](http://dbtemp.blogspot.com)
+ - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
  - date_published: 2024-08-30T03:11:07+00:00
 
  ## 20011
@@ -2596,7 +2608,7 @@
  - date_published: 2024-08-28T13:11:47+00:00
 
  ## BishopBlog
- - [http://deevybee.blogspot.com](http://deevybee.blogspot.com)
+ - [https://deevybee.blogspot.com](https://deevybee.blogspot.com)
  - date_published: 2024-11-04T11:03:34+00:00
 
  ## Blogger
@@ -3994,16 +4006,4 @@
  ## Land War in Asia
  - [https://donoghmccarthy.blogspot.com](https://donoghmccarthy.blogspot.com)
  - date_published: 2024-07-03T03:09:07+00:00
-
- ## pyx
- - [https://donovanpreston.blogspot.com](https://donovanpreston.blogspot.com)
- - date_published: 2013-03-19T08:28:00+00:00
-
- ## Blogger
- - [https://donsurber.blogspot.com](https://donsurber.blogspot.com)
- - date_published: 2024-12-31T17:56:10.710064+00:00
-
- ## Don't Ask Me ... I Don't Know
- - [http://dontaskmeidontknow.blogspot.com](http://dontaskmeidontknow.blogspot.com)
- - date_published: 2024-12-13T00:15:58+00:00
 

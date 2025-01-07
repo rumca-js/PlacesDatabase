@@ -1,3 +1,63 @@
+ ## Sperry Canada | Official Sperry Site - Easy Shipping & Returns! Wide selections for Men, Women & Kids, exceptional quality with all your classic looks.
+ - [https://www.sperry.com](https://www.sperry.com)
+ - date_published: 2024-10-11T13:57:27.983763+00:00
+
+ ## Jason Sperske
+ - [http://jason.sperske.com](http://jason.sperske.com)
+ - date_published: 2021-02-15T01:44:22+00:00
+
+ ## Special Projects
+ - [https://mastodon.spesh.com](https://mastodon.spesh.com)
+ - date_published: 2024-08-17T22:29:31.809986+00:00
+
+ ## Special Projects
+ - [https://spesh.com](https://spesh.com)
+ - date_published: 2006-12-18T23:09:32+00:00
+
+ ## Spesoft - Home
+ - [https://spesoft.com](https://spesoft.com)
+ - date_published: 2024-09-15T07:44:25+00:00
+
+ ## spf13
+ - [https://spf13.com](https://spf13.com)
+ - date_published: 2023-10-25T17:10:00.325400+00:00
+
+ ## spf13-vim - The Ultimate Vim Distribution
+ - [https://vim.spf13.com](https://vim.spf13.com)
+ - date_published: 2024-04-29T05:42:30.051121+00:00
+
+ ## Specialty Products Group (SPG) – Sustainable Solutions for Construction
+ - [http://www.spggogreen.com](http://www.spggogreen.com)
+ - date_published: 2024-07-04T06:23:55+00:00
+
+ ## S&P Global Apply
+ - [https://careers.spglobal.com](https://careers.spglobal.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Contact Us
+ - [https://commodityinsights.spglobal.com](https://commodityinsights.spglobal.com)
+ - date_published: 2024-10-22T16:44:37.949962+00:00
+
+ ## Investor Relations Overview - S&P Global
+ - [https://investor.spglobal.com](https://investor.spglobal.com)
+ - date_published: 2024-06-18T16:01:13.288818+00:00
+
+ ## S&P Global Market Intelligence
+ - [https://marketintelligence.spglobal.com](https://marketintelligence.spglobal.com)
+ - date_published: 2024-08-19T08:47:10.551667+00:00
+
+ ## News Release Archive - Press Releases
+ - [https://press.spglobal.com](https://press.spglobal.com)
+ - date_published: 2012-01-04T00:00:00+00:00
+
+ ## Essential Intelligence
+ - [https://prod.spglobal.com](https://prod.spglobal.com)
+ - date_published: 2024-08-07T23:00:21+00:00
+
+ ## Essential Intelligence
+ - [https://spgi-mkto.spglobal.com](https://spgi-mkto.spglobal.com)
+ - date_published: 2024-06-18T15:45:01+00:00
+
  ## Essential Intelligence
  - [https://spglobal.com](https://spglobal.com)
  - date_published: 2024-07-08T10:00:41+00:00
@@ -2899,7 +2959,7 @@
  - date_published: 2024-03-20T13:37:23+00:00
 
  ## Sprott Homepage
- - [https://www.sprott.com](https://www.sprott.com)
+ - [https://sprott.com](https://sprott.com)
  - date_published: 2024-10-29T04:18:19.167010+00:00
 
  ## Buy Silver & Gold Bullion Online | Sprott Money Ltd.
@@ -3996,64 +4056,4 @@
  ## Bear Brook
  - [https://apple-gar-t3x8.squarespace.com](https://apple-gar-t3x8.squarespace.com)
  - date_published: 2024-07-08T10:30:14.386133+00:00
-
- ## Kindred Restaurant | Restaurant & Event Space in Davidson, NC
- - [https://apple-pomegranate-sbt9.squarespace.com](https://apple-pomegranate-sbt9.squarespace.com)
- - date_published: 2024-06-21T23:03:57.754134+00:00
-
- ## Dartmouth Together
- - [https://apricot-haddock-8k3d.squarespace.com](https://apricot-haddock-8k3d.squarespace.com)
- - date_published: 2024-07-22T04:41:32.400342+00:00
-
- ## Vuono Group – The Digital Process Consultancy
- - [https://apricot-pufferfish-4rhp.squarespace.com](https://apricot-pufferfish-4rhp.squarespace.com)
- - date_published: 2024-12-14T16:54:59.366105+00:00
-
- ## Arielle | Singer - Songwriter & Guitarist
- - [https://apricots-mouse-swgn.squarespace.com](https://apricots-mouse-swgn.squarespace.com)
- - date_published: 2024-10-17T12:03:10.177553+00:00
-
- ## Patient Zero
- - [https://apricots-owl-rzzt.squarespace.com](https://apricots-owl-rzzt.squarespace.com)
- - date_published: 2024-07-08T10:30:05.675696+00:00
-
- ## Compassionate Coding
- - [https://april-wensel.squarespace.com](https://april-wensel.squarespace.com)
- - date_published: 2024-10-21T09:22:08.540189+00:00
-
- ## Autism Action Network
- - [https://aqua-shark-p9ls.squarespace.com](https://aqua-shark-p9ls.squarespace.com)
- - date_published: 2024-09-15T12:13:50.442888+00:00
-
- ## Architecture 00
- - [https://architecture00.squarespace.com](https://architecture00.squarespace.com)
- - date_published: 2024-07-21T06:42:53.591174+00:00
-
- ## Arch Mission Foundation - Preserving humanity forever, in space and on Earth.
- - [https://archmission.squarespace.com](https://archmission.squarespace.com)
- - date_published: 2024-08-18T14:52:26.328153+00:00
-
- ## Arduboy
- - [https://arduboy.squarespace.com](https://arduboy.squarespace.com)
- - date_published: 2024-08-06T22:42:40.756286+00:00
-
- ## Ari Gold Films - Official Website of Filmmaker Ari Gold
- - [https://arigoldfilms.squarespace.com](https://arigoldfilms.squarespace.com)
- - date_published: 2024-05-10T06:13:54.416227+00:00
-
- ## Origins Game Fair
- - [https://armadillo-finch-b2hk.squarespace.com](https://armadillo-finch-b2hk.squarespace.com)
- - date_published: 2024-06-18T06:58:15.125729+00:00
-
- ## ALIANTE | Bridging the Intellectual Property Gap
- - [https://armadillo-pumpkin-b5t9.squarespace.com](https://armadillo-pumpkin-b5t9.squarespace.com)
- - date_published: 2024-06-27T13:26:16.298557+00:00
-
- ## Strong Product People
- - [https://armadillo-sapphire-ttwa.squarespace.com](https://armadillo-sapphire-ttwa.squarespace.com)
- - date_published: 2024-06-28T16:45:02.884802+00:00
-
- ## ARON WIESENFELD
- - [https://aron-wiesenfeld.squarespace.com](https://aron-wiesenfeld.squarespace.com)
- - date_published: 2024-06-25T23:30:16.014625+00:00
 

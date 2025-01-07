@@ -1,3 +1,112 @@
+ ## Care & Share of East Lyme, Inc.
+ - [http://www.careandshareofel.org](http://www.careandshareofel.org)
+ - date_published: 2025-01-02T12:23:25.238542+00:00
+
+ ## CAREC Program
+ - [http://www.carecprogram.org](http://www.carecprogram.org)
+ - date_published: 2024-07-16T22:50:31.812441+00:00
+
+ ## Home – Care Division
+ - [https://caredivision.org](https://caredivision.org)
+ - date_published: 2024-09-25T11:39:56.428249+00:00
+
+ ## Career Core
+ - [https://www.careercore.org](https://www.careercore.org)
+ - date_published: 2024-07-01T06:39:42.331500+00:00
+
+ ## Web Site Blocked
+ - [http://careerinfonet.org](http://careerinfonet.org)
+ - date_published: 2024-10-07T21:00:09.120167+00:00
+
+ ## Careers and Career Information - CareerOneStop
+ - [https://www.careeronestop.org](https://www.careeronestop.org)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Welcome | Career Placement Center
+ - [https://www.careerplacement.org](https://www.careerplacement.org)
+ - date_published: 2024-07-14T03:48:29.840245+00:00
+
+ ## Home
+ - [https://careerspring.org](https://careerspring.org)
+ - date_published: 2024-09-20T10:56:43.624543+00:00
+
+ ## Care For The Aging
+ - [https://carefortheaging.org](https://carefortheaging.org)
+ - date_published: 2024-07-07T07:49:10.997349+00:00
+
+ ## Massachusetts – Care for the Aging
+ - [https://massachusetts.carefortheaging.org](https://massachusetts.carefortheaging.org)
+ - date_published: 2024-05-08T10:02:25.163123+00:00
+
+ ## public
+ - [https://bpc.caregiver.org](https://bpc.caregiver.org)
+ - date_published: 2024-05-10T18:48:00+00:00
+
+ ## Home - Family Caregiver Alliance
+ - [https://www.caregiver.org](https://www.caregiver.org)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Caregiver Action Network
+ - [https://www.caregiveraction.org](https://www.caregiveraction.org)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Caregiver Support | Caregiver Resource Center OC | Fullerton
+ - [http://www.caregiveroc.org](http://www.caregiveroc.org)
+ - date_published: 2024-07-01T22:47:34.801503+00:00
+
+ ## Charlie Arehart Server Troubleshooting Tuning Configuration Support
+ - [https://carehart.org](https://carehart.org)
+ - date_published: 2023-10-25T21:05:43.266786+00:00
+
+ ## CARE works to fight poverty and achieve social justice.
+ - [http://www.careinternational.org](http://www.careinternational.org)
+ - date_published: 2024-07-14T13:11:38+00:00
+
+ ## Care of Souls Conference - Home Page - 2024
+ - [https://www.careofsoulsconference.org](https://www.careofsoulsconference.org)
+ - date_published: 2024-06-22T05:51:52.036554+00:00
+
+ ## Cargo Airline Association
+ - [http://www.cargoair.org](http://www.cargoair.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Center for Automotive Research
+ - [http://www.cargroup.org](http://www.cargroup.org)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Fabrizio Cariani
+ - [http://cariani.org](http://cariani.org)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Caribbean Association for Rheumatology:
+      Home
+ - [http://www.caribrheum.org](http://www.caribrheum.org)
+ - date_published: 2024-06-28T11:56:32.326989+00:00
+
+ ## International Peer Reviewed Journals Database - CARI Journals
+ - [http://www.carijournals.org](http://www.carijournals.org)
+ - date_published: 2024-10-29T16:55:10+00:00
+
+ ## Carilion Clinic | Hospitals & Physicians in Virginia | Carilion Clinic
+ - [https://carilionclinic.org](https://carilionclinic.org)
+ - date_published: 2024-10-02T09:27:27+00:00
+
+ ## Personal Health Journals for Recovery, Cancer & More | CaringBridge
+ - [http://www.caringbridge.org](http://www.caringbridge.org)
+ - date_published: 2024-06-18T12:07:00.303269+00:00
+
+ ## Hospice & Grief Support | CaringMatters | Gaithersburg, MD
+ - [https://www.caringmatters.org](https://www.caringmatters.org)
+ - date_published: 2024-07-20T05:41:13.712429+00:00
+
+ ## Pastoral social Cáritas Colombiana - Caritas
+ - [https://caritascolombiana.org](https://caritascolombiana.org)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Caritas Germany - See a Need and Act on it
+ - [http://www.caritas-germany.org](http://www.caritas-germany.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
  ## Cáritas América Latina y el Caribe
  - [https://caritaslatinoamerica.org](https://caritaslatinoamerica.org)
  - date_published: 2024-09-11T01:52:25.441597+00:00
@@ -3937,112 +4046,4 @@ feel and do
  ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
  - [https://news-ca.churchofjesuschrist.org](https://news-ca.churchofjesuschrist.org)
  - date_published: 2024-05-11T09:03:04.497630+00:00
-
- ## news-europe.churchofjesuschrist.org
- - [https://news-europe.churchofjesuschrist.org](https://news-europe.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:04:03.730218+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-gh.churchofjesuschrist.org](https://news-gh.churchofjesuschrist.org)
- - date_published: 2024-05-11T08:56:40.080466+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-gu.churchofjesuschrist.org](https://news-gu.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:02:30.143124+00:00
-
- ## 後期聖徒教會新聞室（LDS Newsroom） | 摩爾門新聞室 - 教會的官方新聞室
- - [https://news-hk.churchofjesuschrist.org](https://news-hk.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:03:23.598404+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-ie.churchofjesuschrist.org](https://news-ie.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:01:53.728480+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-in.churchofjesuschrist.org](https://news-in.churchofjesuschrist.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-jm.churchofjesuschrist.org](https://news-jm.churchofjesuschrist.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## ニュースルーム－末日聖徒イエス・キリスト教会
- - [https://news-jp.churchofjesuschrist.org](https://news-jp.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:04:10.205181+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-ke.churchofjesuschrist.org](https://news-ke.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:04:35.731070+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-kh.churchofjesuschrist.org](https://news-kh.churchofjesuschrist.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## 뉴스룸 - 예수 그리스도 후기 성도 교회
- - [https://news-kr.churchofjesuschrist.org](https://news-kr.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:03:07.919743+00:00
-
- ## Newsroom - The Church of Jesus Christ of Latter-day Saints
- - [https://news-middleeast.churchofjesuschrist.org](https://news-middleeast.churchofjesuschrist.org)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## news-mn.churchofjesuschrist.org
- - [https://news-mn.churchofjesuschrist.org](https://news-mn.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:02:12.449467+00:00
-
- ## Church Newsroom - Official Newsroom of The Church of Jesus Christ of Latter-day Saints
- - [https://news-my.churchofjesuschrist.org](https://news-my.churchofjesuschrist.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-ng.churchofjesuschrist.org](https://news-ng.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:04:38.399825+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-nz.churchofjesuschrist.org](https://news-nz.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:03:55.235393+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-pacific.churchofjesuschrist.org](https://news-pacific.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:02:46.361137+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-pg.churchofjesuschrist.org](https://news-pg.churchofjesuschrist.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-ph.churchofjesuschrist.org](https://news-ph.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:01:58.789670+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://newsroom.churchofjesuschrist.org](https://newsroom.churchofjesuschrist.org)
- - date_published: 2024-03-21T06:47:23.294697+00:00
-
- ## Official Newsroom of the Church in Singapore
- - [https://news-sg.churchofjesuschrist.org](https://news-sg.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:02:50.112265+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-sl.churchofjesuschrist.org](https://news-sl.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:04:33.046951+00:00
-
- ## news-th.churchofjesuschrist.org
- - [https://news-th.churchofjesuschrist.org](https://news-th.churchofjesuschrist.org)
- - date_published: 2024-05-11T08:56:41.471830+00:00
-
- ## 後期聖徒教會新聞室（LDS Newsroom） | 摩爾門新聞室 - 教會的官方新聞室
- - [https://news-tw.churchofjesuschrist.org](https://news-tw.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:04:02.517730+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-ug.churchofjesuschrist.org](https://news-ug.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:03:18.005027+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-uk.churchofjesuschrist.org](https://news-uk.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:03:53.949839+00:00
-
- ## Church Newsroom - Official Newsroom of the Church of Jesus Christ of Latter-day Saints
- - [https://news-za.churchofjesuschrist.org](https://news-za.churchofjesuschrist.org)
- - date_published: 2024-05-11T09:03:09.380465+00:00
 

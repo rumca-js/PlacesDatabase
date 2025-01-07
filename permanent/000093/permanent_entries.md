@@ -1,3 +1,19 @@
+ ## Coinpaper.com - Information is the asset - Coinpaper
+ - [https://coinpaper.com](https://coinpaper.com)
+ - date_published: 2023-10-25T13:30:03.297371+00:00
+
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [https://res.coinpaper.com](https://res.coinpaper.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## coinpaprika.com
+ - [https://blog.coinpaprika.com](https://blog.coinpaprika.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Cryptocurrency Research Platform | Coin Market Capitalizations | Top 100 Cryptocurrencies | Coinpaprika
+ - [https://coinpaprika.com](https://coinpaprika.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## COINS by coinpaprika | One App For Crypto
  - [https://coins.coinpaprika.com](https://coins.coinpaprika.com)
  - date_published: 2024-07-01T10:10:59.910865+00:00
@@ -397,7 +413,7 @@
  - date_published: 2024-05-29T02:58:28+00:00
 
  ## Cole Fine Guns and Gunsmithing
- - [https://www.shop.colegun.com](https://www.shop.colegun.com)
+ - [https://shop.colegun.com](https://shop.colegun.com)
  - date_published: 2024-10-28T23:05:38.640403+00:00
 
  ## Colemak
@@ -729,7 +745,7 @@
  - date_published: 2024-05-06T18:15:45.803605+00:00
 
  ## Collector Model |
- - [http://www.collectormodel.com](http://www.collectormodel.com)
+ - [https://collectormodel.com](https://collectormodel.com)
  - date_published: 2024-10-29T00:58:45.799627+00:00
 
  ## Collector Online...Antiques, Books, Coins, Jewelry, Clothing, Pottery,
@@ -3276,7 +3292,7 @@ Colyvan's Homepage
  - date_published: 2023-10-13T10:52:50+00:00
 
  ## Home
- - [https://www.compass-canada.com](https://www.compass-canada.com)
+ - [https://compass-canada.com](https://compass-canada.com)
  - date_published: 2024-10-29T04:18:32.488058+00:00
 
  ## Compass Games – New Directions In Gaming
@@ -3661,6 +3677,10 @@ Colyvan's Homepage
  - [https://composable.com](https://composable.com)
  - date_published: 2024-06-29T10:31:04.597704+00:00
 
+ ## Compose Craft
+ - [https://composecraft.com](https://composecraft.com)
+ - date_published: 2025-01-06T20:41:36.475437+00:00
+
  ## CompoSecure | The leader in premium metal payment cards and security solutions.
  - [https://www.composecure.com](https://www.composecure.com)
  - date_published: 2024-10-28T17:37:08+00:00
@@ -3778,7 +3798,7 @@ Colyvan's Homepage
  - date_published: 2024-06-06T14:20:33+00:00
 
  ## COMPROMATH
- - [https://www.compromath.com](https://www.compromath.com)
+ - [https://compromath.com](https://compromath.com)
  - date_published: 2024-10-29T08:56:44+00:00
 
  ## comproDLS™ | An exostructure based edtech ecosystem that transforms eLearning
@@ -4020,24 +4040,4 @@ Colyvan's Homepage
  ## Computing Den
  - [https://computing-den.com](https://computing-den.com)
  - date_published: 2024-06-11T21:27:30.293665+00:00
-
- ## Unforget
- - [https://unforget.computing-den.com](https://unforget.computing-den.com)
- - date_published: 2024-06-11T15:48:35.568510+00:00
-
- ## Home | ComputingForGeeks
- - [https://computingforgeeks.com](https://computingforgeeks.com)
- - date_published: 2016-06-01T17:14:20+00:00
-
- ## Computing Reviews, the leading online review service for computing literature.
- - [http://computingreviews.com](http://computingreviews.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Home - Computing School
- - [https://computingschool.com](https://computingschool.com)
- - date_published: 2023-05-28T00:00:00+00:00
-
- ## ComputorEdge Onine
- - [https://computoredge.com](https://computoredge.com)
- - date_published: 2023-06-29T11:28:19+00:00
 

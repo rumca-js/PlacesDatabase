@@ -1,3 +1,15 @@
+ ## Having Two Legs
+ - [http://havingtwolegs.blogspot.com](http://havingtwolegs.blogspot.com)
+ - date_published: 2024-03-23T18:22:45+00:00
+
+ ## Having Writ
+ - [http://havingwrit.blogspot.com](http://havingwrit.blogspot.com)
+ - date_published: 2024-11-06T02:48:37+00:00
+
+ ## Cry Havoc - and let loose the Bugs of War!
+ - [http://havocbugsofwar.blogspot.com](http://havocbugsofwar.blogspot.com)
+ - date_published: 2024-10-25T08:18:46+00:00
+
  ## Furniture Ideas
  - [http://hawkprey.blogspot.com](http://hawkprey.blogspot.com)
  - date_published: 2024-12-19T03:31:23+00:00
@@ -3990,17 +4002,4 @@
  ## dennett days
  - [http://jldennett.blogspot.com](http://jldennett.blogspot.com)
  - date_published: 2024-05-06T11:39:33+00:00
-
- ## JLOUIS Ramblings
- - [https://jlouisramblings.blogspot.com](https://jlouisramblings.blogspot.com)
- - date_published: 2024-02-20T19:40:51.773282+00:00
- - tags: ['personal']
-
- ## JLPmaquetas
- - [http://jlpmaquetas.blogspot.com](http://jlpmaquetas.blogspot.com)
- - date_published: 2024-11-08T15:19:11+00:00
-
- ## J's Miniature Civil War
- - [http://jmartin1.blogspot.com](http://jmartin1.blogspot.com)
- - date_published: 2024-10-07T06:04:28+00:00
 

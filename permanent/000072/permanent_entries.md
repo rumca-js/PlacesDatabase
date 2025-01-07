@@ -1,3 +1,15 @@
+ ## Literature Reviews: A Blog for the Exasperated
+ - [https://litreviewsfortheexasperated.blogspot.com](https://litreviewsfortheexasperated.blogspot.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## My 40k stuff
+ - [http://littlbitz.blogspot.com](http://littlbitz.blogspot.com)
+ - date_published: 2024-03-13T09:08:16+00:00
+
+ ## Little Big Wars
+ - [http://littlebigwars.blogspot.com](http://littlebigwars.blogspot.com)
+ - date_published: 2024-03-06T03:06:10+00:00
+
  ## Little Birdie Secrets
  - [http://littlebirdiesecrets.blogspot.com](http://littlebirdiesecrets.blogspot.com)
  - date_published: 2025-01-01T11:08:12+00:00
@@ -3994,16 +4006,4 @@
  ## CARPE DIEM
  - [http://mjperry.blogspot.com](http://mjperry.blogspot.com)
  - date_published: 2024-06-29T11:03:45+00:00
-
- ## mokelly's devlog
- - [http://mjtokelly.blogspot.com](http://mjtokelly.blogspot.com)
- - date_published: 2024-03-16T01:10:07+00:00
-
- ## Girl: Outnumbered!
- - [http://mkdollarfamily.blogspot.com](http://mkdollarfamily.blogspot.com)
- - date_published: 2024-12-19T03:18:01+00:00
-
- ## Lovin' Life
- - [http://mkhawks.blogspot.com](http://mkhawks.blogspot.com)
- - date_published: 2024-07-03T01:57:04+00:00
 

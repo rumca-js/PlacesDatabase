@@ -1,3 +1,117 @@
+ ## ASSETS 2022 | Home Page
+ - [https://assets22.sigaccess.org](https://assets22.sigaccess.org)
+ - date_published: 2022-10-22T11:28:48+00:00
+
+ ## SIGACCESS
+ - [https://sigaccess.org](https://sigaccess.org)
+ - date_published: 2024-06-22T11:45:29.769518+00:00
+
+ ## ACM SIGACT
+ - [https://sigact.org](https://sigact.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## ACM SIGAda Home Page
+ - [https://sigada.org](https://sigada.org)
+ - date_published: 2024-06-21T18:25:21+00:00
+
+ ## ACM SIGAPP Page
+ - [https://sigapp.org](https://sigapp.org)
+ - date_published: 2023-12-31T20:14:42+00:00
+
+ ## SIGARCH | The ACM Special Interest Group on Computer Architecture
+ - [https://sigarch.org](https://sigarch.org)
+ - date_published: 2023-10-25T22:08:17.795553+00:00
+
+ ## Home
+ - [https://chase23.sigbed.org](https://chase23.sigbed.org)
+ - date_published: 2023-06-30T00:30:19+00:00
+
+ ## ACM SIGBED – Special Interest Group on Embedded Systems
+ - [https://sigbed.org](https://sigbed.org)
+ - date_published: 2024-08-07T17:23:20.432566+00:00
+
+ ## Soroptimist International GBI (SIGBI) - a women's organisation
+ - [https://sigbi.org](https://sigbi.org)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## The Association for Computational Heresy
+ - [https://sigbovik.org](https://sigbovik.org)
+ - date_published: 2024-06-20T05:53:55.940473+00:00
+ - tags: ['parody', 'comedy', 'programming']
+
+ ## Conference Programs
+ - [https://programs.sigchi.org](https://programs.sigchi.org)
+ - date_published: 2024-06-26T11:05:38+00:00
+
+ ## Home
+ - [https://sigchi.org](https://sigchi.org)
+ - date_published: 2024-05-07T20:27:59.905722+00:00
+
+ ## lists.sigcis.org Mailing Lists
+ - [http://lists.sigcis.org](http://lists.sigcis.org)
+ - date_published: 2024-09-14T23:12:48.894208+00:00
+
+ ## SIGCIS Meetings
+ - [http://meetings.sigcis.org](http://meetings.sigcis.org)
+ - date_published: 2024-10-29T18:25:38.461210+00:00
+
+ ## Computer Communication Review
+ - [http://ccr.sigcomm.org](http://ccr.sigcomm.org)
+ - date_published: 2008-07-23T15:03:05+00:00
+
+ ## SIGCOMM Conferences
+ - [https://conferences2.sigcomm.org](https://conferences2.sigcomm.org)
+ - date_published: 2011-07-25T17:31:02+00:00
+
+ ## SIGCOMM Conferences
+ - [https://conferences.sigcomm.org](https://conferences.sigcomm.org)
+ - date_published: 2011-07-25T17:31:02+00:00
+
+ ## Welcome | acm sigcomm
+ - [http://sigcomm.org](http://sigcomm.org)
+ - date_published: 2024-07-16T23:04:40+00:00
+
+ ## SIGCSE TS 2023
+ - [https://sigcse2023.sigcse.org](https://sigcse2023.sigcse.org)
+ - date_published: 2024-06-30T02:13:25.329105+00:00
+
+ ## SIGCSE TS 2024
+ - [https://sigcse2024.sigcse.org](https://sigcse2024.sigcse.org)
+ - date_published: 2024-05-07T14:56:36.809759+00:00
+
+ ## SIGCSE TS 2025
+ - [https://sigcse2025.sigcse.org](https://sigcse2025.sigcse.org)
+ - date_published: 2024-06-30T02:13:31.048302+00:00
+
+ ## ACM SIGCSE
+ - [https://sigcse.org](https://sigcse.org)
+ - date_published: 2024-06-18T18:28:56+00:00
+
+ ## SIGCSE TS 2024
+ - [https://www.sigcse2024.org](https://www.sigcse2024.org)
+ - date_published: 2024-06-30T02:13:26.264043+00:00
+ - date_dead_since: 2025-01-05T17:32:20.827929+00:00
+
+ ## About Us - SIGDA
+ - [https://sigda.org](https://sigda.org)
+ - date_published: 2024-04-30T03:26:40.004457+00:00
+
+ ## ACL SIGDAT
+ - [https://sigdat.org](https://sigdat.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Home - EC 2021
+ - [https://ec21.sigecom.org](https://ec21.sigecom.org)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## ACM SIGecom
+ - [https://sigecom.org](https://sigecom.org)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Local index - HTTrack Website Copier
+ - [https://gecco-2016.sigevo.org](https://gecco-2016.sigevo.org)
+ - date_published: 2018-10-23T13:26:17+00:00
+
  ## GECCO 2021 | HomePage
  - [https://gecco-2021.sigevo.org](https://gecco-2021.sigevo.org)
  - date_published: 2024-08-19T18:39:04.275990+00:00
@@ -1870,7 +1984,7 @@
  - date_published: 2024-10-29T05:51:25.668927+00:00
 
  ## Homepage - SmartLabel
- - [http://www.smartlabel.org](http://www.smartlabel.org)
+ - [https://www.smartlabel.org](https://www.smartlabel.org)
  - date_published: 2024-10-29T05:50:58.415090+00:00
 
  ## SmartMenus jQuery Website Menu Plugin - Mobile first, Responsive and Accessible List-Based JavaScript Menu
@@ -3023,7 +3137,7 @@ Santa Rosa Veterans Building, Santa Rosa, CA |
  - date_published: 2024-10-21T17:27:09.186016+00:00
 
  ## 奇客资讯网
- - [http://www.solidot.org](http://www.solidot.org)
+ - [https://solidot.org](https://solidot.org)
  - date_published: 2024-10-29T07:52:00.484976+00:00
 
  ## Home · Solid
@@ -3919,116 +4033,4 @@ Santa Rosa Veterans Building, Santa Rosa, CA |
  ## SPDX Online Tool
  - [https://tools.spdx.org](https://tools.spdx.org)
  - date_published: 2024-07-22T17:24:36.348915+00:00
-
- ## SP DX Club – Stowarzyszenie Miłośników Dalekosiężnych Łączności Radiowych
- - [http://www.spdxc.org](http://www.spdxc.org)
- - date_published: 2024-07-15T04:11:40.766383+00:00
-
- ## Society of Petroleum Engineers (SPE) | Oil & Gas Membership Association
- - [http://www.spe.org](http://www.spe.org)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## SPEAKEZEE.ORG
- - [https://speakezee.org](https://speakezee.org)
- - date_published: 2024-06-29T02:57:45.918687+00:00
-
- ## Speakit – Film & TV Production
- - [https://www.speakit.org](https://www.speakit.org)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Welcome to ICPE2020: ICPE 2020
- - [https://icpe2020.spec.org](https://icpe2020.spec.org)
- - date_published: 2021-03-09T14:22:10+00:00
-
- ## SPEC Research Group
- - [https://research.spec.org](https://research.spec.org)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Abu Simbel: Secret of Ramses
- - [http://abusimbel2.speccy.org](http://abusimbel2.speccy.org)
- - date_published: 2006-06-25T11:55:50+00:00
-
- ## Akton Films
- - [http://aktonfilms.speccy.org](http://aktonfilms.speccy.org)
- - date_published: 2007-10-22T21:20:07+00:00
-
- ## Bacteria, el emulador mas pequeño del mundo
- - [http://bacteria.speccy.org](http://bacteria.speccy.org)
- - date_published: 2012-11-06T12:30:39+00:00
-
- ## B.A.S.E.
- - [http://base.speccy.org](http://base.speccy.org)
- - date_published: 2008-03-01T20:06:18+00:00
-
- ## Página de Bibosoft
- - [http://bibosoft.speccy.org](http://bibosoft.speccy.org)
- - date_published: 2014-11-26T22:37:21+00:00
-
- ## Alexander Podzhunas ZX-Projects/TAP VERSION
- - [http://biotoxin.speccy.org](http://biotoxin.speccy.org)
- - date_published: 2011-01-11T16:52:26+00:00
-
- ## Documento sin título
- - [http://canadul.speccy.org](http://canadul.speccy.org)
- - date_published: 2023-10-31T11:23:01+00:00
-
- ## CargandoLeches
- - [http://cargandoleches.speccy.org](http://cargandoleches.speccy.org)
- - date_published: 2012-06-09T14:18:02+00:00
-
- ## Compiler Software
- - [https://compiler.speccy.org](https://compiler.speccy.org)
- - date_published: 2024-05-09T09:07:05.232781+00:00
-
- ## Curso de Código Máquina del ZX-Spectrum
- - [http://curso-cm.speccy.org](http://curso-cm.speccy.org)
- - date_published: 2003-09-25T08:53:47+00:00
-
- ## CZArg -Sitio dedicado al Spectrum Argentino y su familia.
- - [http://czarg.speccy.org](http://czarg.speccy.org)
- - date_published: 2021-06-01T00:00:00+00:00
-
- ## CZ Spectrum
- - [http://czspectrum.speccy.org](http://czspectrum.speccy.org)
- - date_published: 2002-10-24T18:44:32+00:00
-
- ## ESpectrum: La página web de los programas españoles para Spectrum
- - [http://espectrum.speccy.org](http://espectrum.speccy.org)
- - date_published: 2024-08-07T08:59:35.134862+00:00
-
- ## foro.speccy.org - Página principal
- - [http://foro.speccy.org](http://foro.speccy.org)
- - date_published: 2024-08-07T08:59:46.564864+00:00
-
- ## El hardware del spectrum
- - [http://hardware.speccy.org](http://hardware.speccy.org)
- - date_published: 2023-03-21T22:31:46+00:00
-
- ## JaS - A Java Spectrum emulator
- - [http://jas.speccy.org](http://jas.speccy.org)
- - date_published: 2011-03-19T22:25:11+00:00
-
- ## JSpeccy, empieza a jugar sin tener que compilar
- - [http://jspeccy.speccy.org](http://jspeccy.speccy.org)
- - date_published: 2015-08-08T16:12:57+00:00
-
- ## K y Enter, la página de los listados MicroHobby
- - [http://kyenter.speccy.org](http://kyenter.speccy.org)
- - date_published: 2003-07-07T21:13:11+00:00
-
- ## La ColecciÃ³n de LoadÂ´nÂ´Run
- - [http://loadnrun.speccy.org](http://loadnrun.speccy.org)
- - date_published: 2023-09-18T11:13:10+00:00
-
- ## Magazine ZX - Lista de Revistas
- - [http://magazinezx.speccy.org](http://magazinezx.speccy.org)
- - date_published: 2023-08-22T12:23:16+00:00
-
- ## Los Manuales del Spectrum
- - [http://manuales.speccy.org](http://manuales.speccy.org)
- - date_published: 2004-12-08T13:05:18+00:00
-
- ## SevenuP
- - [http://metalbrain.speccy.org](http://metalbrain.speccy.org)
- - date_published: 2006-12-17T13:30:29+00:00
 

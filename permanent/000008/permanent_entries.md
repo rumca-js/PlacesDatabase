@@ -1,3 +1,7 @@
+ ## Waseem Ilyas - Graphic Design and Web Development Portfolio
+ - [https://ily.as](https://ily.as)
+ - date_published: 2022-02-14T14:17:58+00:00
+
  ## iROZHLAS
  - [https://irozhl.as](https://irozhl.as)
  - date_published: 2024-07-17T07:16:59.707178+00:00
@@ -1140,7 +1144,7 @@ October 2024 in Singapore
  - date_published: 2024-08-06T10:42:02.803622+00:00
 
  ## 90 Minuten - Fußball-Magazin Österreich
- - [https://www.90minuten.at](https://www.90minuten.at)
+ - [https://90minuten.at](https://90minuten.at)
  - date_published: 2024-10-29T10:04:34.765475+00:00
 
  ## A1 digital.campus
@@ -1184,7 +1188,7 @@ October 2024 in Singapore
  - date_published: 2024-06-20T16:06:26.476623+00:00
 
  ## Adecco Personaldienstleistungen
- - [http://www.adecco.at](http://www.adecco.at)
+ - [https://adecco.at](https://adecco.at)
  - date_published: 2024-10-29T04:23:41.936701+00:00
 
  ## adidas offizielle Website Österreich | Sportbekleidung
@@ -1958,11 +1962,11 @@ October 2024 in Singapore
  - date_published: 2024-10-22T12:20:10.933896+00:00
 
  ## Home DE
- - [http://www.designaustria.at](http://www.designaustria.at)
+ - [https://designaustria.at](https://designaustria.at)
  - date_published: 2024-09-10T00:00:00+00:00
 
  ## Dianetik: Der Leitfaden für den menschlichen Verstand
- - [https://www.dianetics.at](https://www.dianetics.at)
+ - [https://dianetics.at](https://dianetics.at)
  - date_published: 2024-09-04T18:09:16.453820+00:00
 
  ## DigiKey
@@ -1974,7 +1978,7 @@ October 2024 in Singapore
  - date_published: 2015-05-24T14:01:18+00:00
 
  ## Digitaler Kompass - Institut für Nachrichtenkompetenz und digitale Bildung
- - [https://www.digitalerkompass.at](https://www.digitalerkompass.at)
+ - [https://digitalerkompass.at](https://digitalerkompass.at)
  - date_published: 2024-07-02T22:28:23.699396+00:00
 
  ## Digital Hunter Österreich
@@ -1982,11 +1986,11 @@ October 2024 in Singapore
  - date_published: 2024-01-18T00:00:00+00:00
 
  ## Home | DigitAlly
- - [http://www.digitally.at](http://www.digitally.at)
+ - [https://digitally.at](https://digitally.at)
  - date_published: 2024-07-13T11:35:21.659064+00:00
 
  ## WERBEAGENTUR Wien - Digital Rockstars: Die Online Marketing Agentur
- - [https://www.digitalrockstars.at](https://www.digitalrockstars.at)
+ - [https://digitalrockstars.at](https://digitalrockstars.at)
  - date_published: 2024-01-05T00:00:00+00:00
 
  ## Home
@@ -1998,7 +2002,7 @@ October 2024 in Singapore
  - date_published: 2024-07-13T11:29:35.288349+00:00
 
  ## Domäne Wachau
- - [https://www.domaene-wachau.at](https://www.domaene-wachau.at)
+ - [https://domaene-wachau.at](https://domaene-wachau.at)
  - date_published: 2024-04-26T00:00:00+00:00
 
  ## Client XSS Introduction - DomGoat
@@ -2010,7 +2014,7 @@ October 2024 in Singapore
  - date_published: 2024-09-15T08:39:16.880559+00:00
 
  ## DORIS interMAP - Startseite
- - [https://www.doris.at](https://www.doris.at)
+ - [https://doris.at](https://doris.at)
  - date_published: 2024-09-13T16:18:58.934167+00:00
 
  ## Dosenkiwi
@@ -2031,7 +2035,7 @@ October 2024 in Singapore
  - date_published: 2024-10-28T15:03:44+00:00
 
  ## Duracell Batterien Deutschland | Das weltweit führende Unternehmen für Verbraucherbatterien
- - [https://www.duracell.at](https://www.duracell.at)
+ - [https://duracell.at](https://duracell.at)
  - date_published: 1970-01-01T00:00:00+00:00
 
  ## DVDFab Offizielle Website | Der weltführende Multimedia-Lösungsanbieter
@@ -2039,11 +2043,11 @@ October 2024 in Singapore
  - date_published: 2024-09-03T19:40:42.596281+00:00
 
  ## Dyson | Offizielle Webseite
- - [https://www.dyson.at](https://www.dyson.at)
+ - [https://dyson.at](https://dyson.at)
  - date_published: 2024-05-28T00:00:00+00:00
 
  ## Crowdsourcing Österreich
- - [https://www.e3lab.at](https://www.e3lab.at)
+ - [https://e3lab.at](https://e3lab.at)
  - date_published: 2024-07-13T11:26:44.591605+00:00
 
  ## Schulungen | easybank Börsen-Führerschein
@@ -2067,40 +2071,41 @@ October 2024 in Singapore
  - date_published: 2024-06-06T14:00:09+00:00
 
  ## easylease Login
- - [https://www.easylease.at](https://www.easylease.at)
+ - [https://easylease.at](https://easylease.at)
  - date_published: 2024-09-27T09:30:11.398609+00:00
+
+ ## easyleasing - Like it. Lease it. | easyleasing-at
+ - [https://easyleasing.at](https://easyleasing.at)
+ - date_published: 2024-06-16T08:06:19.301159+00:00
 
  ## Easy Leasing
  - [https://hbf.easyleasing.at](https://hbf.easyleasing.at)
  - date_published: 2024-07-24T04:52:43+00:00
 
- ## easyleasing - Like it. Lease it. | easyleasing-at
- - [https://www.easyleasing.at](https://www.easyleasing.at)
- - date_published: 2024-06-16T08:06:19.301159+00:00
+ ## easyname - Webhosting, Website Builder und Domains
+ - [https://easyname.at](https://easyname.at)
+ - date_published: 2024-07-16T17:45:41.348010+00:00
 
  ## Index of /
  - [https://mirror.easyname.at](https://mirror.easyname.at)
  - date_published: 2024-08-19T00:00:00+00:00
-
- ## easyname - Webhosting, Website Builder und Domains
- - [https://www.easyname.at](https://www.easyname.at)
- - date_published: 2024-07-16T17:45:41.348010+00:00
 
  ## eBay shopping cart
  - [https://cart.ebay.at](https://cart.ebay.at)
  - date_published: 2024-06-16T23:21:58.743534+00:00
 
  ## Elektronik, Autos, Mode, Sammlerstücke, Gutscheine und mehr Online-Shopping | eBay
- - [http://ebay.at](http://ebay.at)
+ - [https://ebay.at](https://ebay.at)
  - date_published: 2024-06-16T23:21:44.123551+00:00
 
  ## Elektronik, Autos, Mode, Sammlerstücke, Gutscheine und mehr Online-Shopping | eBay
- - [http://m.ebay.at](http://m.ebay.at)
+ - [https://m.ebay.at](https://m.ebay.at)
  - date_published: 2024-06-16T23:21:41.125311+00:00
 
  ## Electronics, Cars, Fashion, Collectibles & More | eBay
  - [https://mesg.ebay.at](https://mesg.ebay.at)
  - date_published: 2024-06-16T23:21:49.290655+00:00
+ - date_dead_since: 2025-01-06T20:37:15.771165+00:00
 
  ## Elektronik, Autos, Mode, Sammlerstücke, Gutscheine und mehr Online-Shopping | eBay
  - [https://pages.ebay.at](https://pages.ebay.at)
@@ -2115,7 +2120,7 @@ October 2024 in Singapore
  - date_published: 2024-06-16T23:21:46.397546+00:00
 
  ## echonet communication - Eine Idee mehr. Österreich
- - [http://www.echonet.at](http://www.echonet.at)
+ - [https://echonet.at](https://echonet.at)
  - date_published: 2024-07-04T03:15:39.850778+00:00
 
  ## Ecommerce Bridge Österreich
@@ -2127,7 +2132,7 @@ October 2024 in Singapore
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Webhosting Österreich | Domain registrieren | EDIS seit 1999
- - [http://www.edis.at](http://www.edis.at)
+ - [https://edis.at](https://edis.at)
  - date_published: 2024-07-04T00:00:00+00:00
 
  ## EduGroup.at - EduGroup
@@ -2139,11 +2144,11 @@ October 2024 in Singapore
  - date_published: 2024-07-02T22:21:06.398907+00:00
 
  ## EDV-Service Robert Repp in Salzburg
- - [https://www.edv-repp.at](https://www.edv-repp.at)
+ - [https://edv-repp.at](https://edv-repp.at)
  - date_published: 2024-09-05T16:23:04.596564+00:00
 
  ## EF Education First | Österreich
- - [https://www.ef.at](https://www.ef.at)
+ - [https://ef.at](https://ef.at)
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## Egger Apps: Database software for macOS
@@ -2159,7 +2164,7 @@ October 2024 in Singapore
  - date_published: 2024-02-26T00:00:00+00:00
 
  ## Idea
- - [https://www.egger-gis.at](https://www.egger-gis.at)
+ - [https://egger-gis.at](https://egger-gis.at)
  - date_published: 2024-09-13T16:20:02.566495+00:00
 
  ## EIZO | High-end Monitore
@@ -2167,7 +2172,7 @@ October 2024 in Singapore
  - date_published: 2024-12-14T03:45:03.640632+00:00
 
  ## Möchten Sie mehr über KI erfahren?
- - [https://www.elementsofai.at](https://www.elementsofai.at)
+ - [https://elementsofai.at](https://elementsofai.at)
  - date_published: 2024-07-01T08:47:00.205251+00:00
 
  ## Elevate Festival - Elevate Festival
@@ -2183,7 +2188,7 @@ October 2024 in Singapore
  - date_published: 2024-03-17T16:37:54+00:00
 
  ## EMP | Music, Movie, TV & Gaming Merch | Alternative Clothing
- - [https://www.emp.at](https://www.emp.at)
+ - [https://emp.at](https://emp.at)
  - date_published: 2024-07-24T06:35:02.913470+00:00
 
  ## en|crypted.at – Private tech and tutorial blog
@@ -2195,27 +2200,27 @@ October 2024 in Singapore
  - date_published: 2022-03-08T13:50:13+00:00
 
  ## Austrian Development Agency
- - [https://www.entwicklung.at](https://www.entwicklung.at)
+ - [https://entwicklung.at](https://entwicklung.at)
  - date_published: 2024-10-14T07:54:09+00:00
 
  ## Andreas Ernhofer
- - [https://www.ernhofer.at](https://www.ernhofer.at)
+ - [https://ernhofer.at](https://ernhofer.at)
  - date_published: 2024-09-27T08:15:36.552522+00:00
 
  ## Privatkund:innen
- - [http://www.erstebank.at](http://www.erstebank.at)
+ - [https://erstebank.at](https://erstebank.at)
  - date_published: 2024-10-17T18:10:15.307199+00:00
 
  ## Home
- - [https://www.sponsoring.erstebank.at](https://www.sponsoring.erstebank.at)
+ - [https://sponsoring.erstebank.at](https://sponsoring.erstebank.at)
  - date_published: 2024-07-01T08:05:53.246838+00:00
 
  ## ESF: Europäischer Sozialfonds in Österreich
- - [http://www.esf.at](http://www.esf.at)
+ - [https://esf.at](https://esf.at)
  - date_published: 2024-07-18T08:12:29.035198+00:00
 
  ## Startseite - e-sieben
- - [https://www.e-sieben.at](https://www.e-sieben.at)
+ - [https://e-sieben.at](https://e-sieben.at)
  - date_published: 2024-09-18T14:48:12.115269+00:00
 
  ## esskultur | kulinarische notizen von katharina seiser
@@ -2235,7 +2240,7 @@ October 2024 in Singapore
  - date_published: 2024-09-27T09:31:41.571176+00:00
 
  ## Rent a Car & Van with Europcar
- - [https://www.europcar.at](https://www.europcar.at)
+ - [https://europcar.at](https://europcar.at)
  - date_published: 2024-10-20T14:12:50.497925+00:00
 
  ## Eventbrite
@@ -2251,7 +2256,7 @@ October 2024 in Singapore
  - date_published: 2024-09-02T15:47:34.194667+00:00
 
  ## Energieversorger Wels | Energieversorgung - eww GruppeEnergieversorger Wels | Energieversorgung - eww Gruppe
- - [https://www.eww.at](https://www.eww.at)
+ - [https://eww.at](https://eww.at)
  - date_published: 2024-10-22T09:02:36.013248+00:00
 
  ## EXAA - Die Strombörse mit vier Auktionen in AT und DE
@@ -2263,7 +2268,7 @@ October 2024 in Singapore
  - date_published: 2024-09-27T08:15:28.915673+00:00
 
  ## Experian Austria
- - [https://www.experian.at](https://www.experian.at)
+ - [https://experian.at](https://experian.at)
  - date_published: 2024-06-25T21:32:03.806366+00:00
 
  ## Experts Live Austria - Experts Live Austria
@@ -2279,7 +2284,7 @@ October 2024 in Singapore
  - date_published: 2024-09-18T14:47:57.504293+00:00
 
  ## Gallneukirchen | Home - Fahrschule Mayr
- - [http://www.fahrschule-mayr.at](http://www.fahrschule-mayr.at)
+ - [https://fahrschule-mayr.at](https://fahrschule-mayr.at)
  - date_published: 2024-10-22T09:02:33.509999+00:00
 
  ## FALTER-Abo bestellen - faltershop.at - faltershop.at
@@ -2293,6 +2298,7 @@ October 2024 in Singapore
  ## IOAM
  - [https://data-ecb5249bb2.falter.at](https://data-ecb5249bb2.falter.at)
  - date_published: 2024-01-17T09:13:53+00:00
+ - date_dead_since: 2025-01-06T20:42:19.157304+00:00
 
  ## Falter
  - [https://epaper.falter.at](https://epaper.falter.at)
@@ -2306,20 +2312,20 @@ October 2024 in Singapore
  - [https://shop.falter.at](https://shop.falter.at)
  - date_published: 2024-09-02T11:13:20.316783+00:00
 
+ ## falterverlag.at
+ - [https://falterverlag.at](https://falterverlag.at)
+ - date_published: 2024-09-02T11:13:07.946603+00:00
+
  ## Corporate Publishing im Falter Verlag
  - [https://publishing.falterverlag.at](https://publishing.falterverlag.at)
  - date_published: 2024-08-20T00:00:00+00:00
 
- ## falterverlag.at
- - [https://www.falterverlag.at](https://www.falterverlag.at)
- - date_published: 2024-09-02T11:13:07.946603+00:00
-
  ## Herzlich Willkommen | Familie Buchner
- - [https://www.familie-buchner.at](https://www.familie-buchner.at)
+ - [https://familie-buchner.at](https://familie-buchner.at)
  - date_published: 2024-10-19T21:04:40.656650+00:00
 
  ## Familie und Beruf |
- - [https://www.familieundberuf.at](https://www.familieundberuf.at)
+ - [https://familieundberuf.at](https://familieundberuf.at)
  - date_published: 2024-08-06T20:17:58+00:00
 
  ## familiii - Österreichs bunteste Familienplattform
@@ -2327,7 +2333,7 @@ October 2024 in Singapore
  - date_published: 2024-10-30T12:52:33+00:00
 
  ## Fan Arena auf dem Wiener Rathausplatz
- - [https://www.fanarena-rathausplatz.at](https://www.fanarena-rathausplatz.at)
+ - [https://fanarena-rathausplatz.at](https://fanarena-rathausplatz.at)
  - date_published: 2024-06-27T09:09:14+00:00
 
  ## Home - FANUC Academy
@@ -2339,59 +2345,59 @@ October 2024 in Singapore
  - date_published: 2024-10-28T16:20:38.281358+00:00
 
  ## Felix's Blog
- - [http://felixc.at](http://felixc.at)
+ - [https://felixc.at](https://felixc.at)
  - date_published: 2024-09-02T12:11:18.271301+00:00
 
  ## Komm zu unseren StudyGroups! | Förderung von Frauen in der IT
- - [https://www.female-coders.at](https://www.female-coders.at)
+ - [https://female-coders.at](https://female-coders.at)
  - date_published: 2024-07-24T16:25:57.798672+00:00
 
  ## Festspiele Stockerau 2024 der Stadtgemeinde Stockerau
- - [https://www.festspiele-stockerau.at](https://www.festspiele-stockerau.at)
+ - [https://festspiele-stockerau.at](https://festspiele-stockerau.at)
  - date_published: 2024-07-13T11:27:20.473889+00:00
 
  ## F.A.T.
  - [https://fffff.at](https://fffff.at)
  - date_published: 2024-06-14T15:13:46+00:00
 
+ ## F.A.T 5 GOLD
+ - [http://gold.fffff.at](http://gold.fffff.at)
+ - date_published: 2013-11-05T15:59:39+00:00
+
  ## tokyo.fffff.at is almost here!
  - [http://tokyo.fffff.at](http://tokyo.fffff.at)
  - date_published: 2024-09-13T21:16:11+00:00
 
- ## F.A.T 5 GOLD
- - [http://www.gold.fffff.at](http://www.gold.fffff.at)
- - date_published: 2013-11-05T15:59:39+00:00
-
  ## Die Österreichische Forschungsförderungsgesellschaft FFG! | FFG
- - [https://www.ffg.at](https://www.ffg.at)
+ - [https://ffg.at](https://ffg.at)
  - date_published: 2024-09-28T18:02:17+00:00
 
  ## FHV - Vorarlberg University of Applied Sciences
- - [https://www.fhv.at](https://www.fhv.at)
+ - [https://fhv.at](https://fhv.at)
  - date_published: 2024-09-04T10:50:39.953994+00:00
 
  ## Fiat Österreich | Neue Hybrid- und Elektroautos kaufen
- - [https://www.fiat.at](https://www.fiat.at)
+ - [https://fiat.at](https://fiat.at)
  - date_published: 2024-06-19T09:01:14.663907+00:00
 
  ## FilmBooster.at
- - [https://www.filmbooster.at](https://www.filmbooster.at)
+ - [https://filmbooster.at](https://filmbooster.at)
  - date_published: 2024-10-03T08:26:07.934274+00:00
 
  ## Filmcasino
- - [https://www.filmcasino.at](https://www.filmcasino.at)
+ - [https://filmcasino.at](https://filmcasino.at)
  - date_published: 2024-09-02T15:47:16.508436+00:00
 
  ## Filmgarten
- - [https://www.filmgarten.at](https://www.filmgarten.at)
+ - [https://filmgarten.at](https://filmgarten.at)
  - date_published: 2024-10-28T07:41:36.445457+00:00
 
  ## Jobs für Finance-Experten – financejobs.at
- - [https://www.financejobs.at](https://www.financejobs.at)
+ - [https://financejobs.at](https://financejobs.at)
  - date_published: 2024-06-16T08:46:37.891907+00:00
 
  ## FINANZEN.AT: Börse | Aktienkurse | Finanzen
- - [https://www.finanzen.at](https://www.finanzen.at)
+ - [https://finanzen.at](https://finanzen.at)
  - date_published: 2024-07-03T20:38:43.822793+00:00
 
  ## (c) 2005 EDIS.AT Internet Services
@@ -2399,23 +2405,23 @@ October 2024 in Singapore
  - date_published: 2005-06-23T20:19:02+00:00
 
  ## Sparen, Handeln & Anlegen bei den Profis | flatex.at
- - [https://www.flatex.at](https://www.flatex.at)
+ - [https://flatex.at](https://flatex.at)
  - date_published: 2024-06-16T13:43:09+00:00
 
  ## Flatio - Vermietungen für digitale Nomaden
- - [https://www.flatio.at](https://www.flatio.at)
+ - [https://flatio.at](https://flatio.at)
  - date_published: 2024-06-25T17:35:23.105515+00:00
 
  ## FlixBus → Günstig mit dem Fernbus reisen
- - [https://www.flixbus.at](https://www.flixbus.at)
+ - [https://flixbus.at](https://flixbus.at)
  - date_published: 2024-06-28T10:09:28+00:00
 
  ## Stills - Florian Hoflehner Fotografie
- - [https://www.florianhoflehner.at](https://www.florianhoflehner.at)
+ - [https://florianhoflehner.at](https://florianhoflehner.at)
  - date_published: 2024-06-18T14:30:17.223207+00:00
 
  ## Home
- - [https://www.forbes.at](https://www.forbes.at)
+ - [https://forbes.at](https://forbes.at)
  - date_published: 2024-06-15T00:00:00+00:00
 
  ## Betriebskostenvergleich | Ford AT
@@ -2423,7 +2429,7 @@ October 2024 in Singapore
  - date_published: 2024-10-29T21:40:26.965890+00:00
 
  ## Die offizielle Homepage von Ford Österreich | Ford AT
- - [https://www.ford.at](https://www.ford.at)
+ - [https://ford.at](https://ford.at)
  - date_published: 2024-06-19T14:37:47+00:00
 
  ## Ford Pro™: Nutzfahrzeuge, Services & Telematik | Ford Pro™ AT
@@ -2452,11 +2458,11 @@ October 2024 in Singapore
  - date_published: 2021-05-29T00:00:00+00:00
 
  ## Frauen* beraten Frauen* – Frauen*spezifische Beratung in Wien
- - [https://www.frauenberatenfrauen.at](https://www.frauenberatenfrauen.at)
+ - [https://frauenberatenfrauen.at](https://frauenberatenfrauen.at)
  - date_published: 2024-06-18T15:38:15.797918+00:00
 
  ## Fraunhofer Austria Research GmbH
- - [http://www.fraunhofer.at](http://www.fraunhofer.at)
+ - [https://www.fraunhofer.at](https://www.fraunhofer.at)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Fredmansky Werbeagentur
@@ -2464,15 +2470,15 @@ October 2024 in Singapore
  - date_published: 2024-02-28T00:00:00+00:00
 
  ## Inside Scientology – Die unzensierte Geschichte
- - [https://www.freedommag.at](https://www.freedommag.at)
+ - [https://freedommag.at](https://freedommag.at)
  - date_published: 0001-01-01T00:00:00+00:00
 
  ## Home › Freewave - Ihr Komplettanbieter
- - [https://www.freewave.at](https://www.freewave.at)
+ - [https://freewave.at](https://freewave.at)
  - date_published: 2024-09-13T15:36:25+00:00
 
  ## Sigmund Freud Museum
- - [http://www.freud-museum.at](http://www.freud-museum.at)
+ - [https://freud-museum.at](https://freud-museum.at)
  - date_published: 2024-06-24T09:47:05.987119+00:00
 
  ## Versandantiquariat Wolfgang Friebes – Dietrichsteinplatz 1, 8010 Graz
@@ -2480,7 +2486,7 @@ October 2024 in Singapore
  - date_published: 2024-07-11T19:54:14.481642+00:00
 
  ## Startseite - Friedhöfe Wien
- - [https://www.friedhoefewien.at](https://www.friedhoefewien.at)
+ - [https://friedhoefewien.at](https://friedhoefewien.at)
  - date_published: 2024-09-13T16:19:12.926153+00:00
 
  ## Home
@@ -2504,7 +2510,7 @@ October 2024 in Singapore
  - date_published: 2024-05-07T23:53:31.848426+00:00
 
  ## Gaijin.at - Freeware and Online Tools
- - [https://www.gaijin.at](https://www.gaijin.at)
+ - [https://gaijin.at](https://gaijin.at)
  - date_published: 2024-06-28T21:41:28.200187+00:00
 
  ## galaxus.at – more than an online shop
@@ -2512,15 +2518,15 @@ October 2024 in Singapore
  - date_published: 2024-04-30T06:03:47.845076+00:00
 
  ## Galaxus Helpcenter
- - [https://helpcenter.galaxus.at](https://helpcenter.galaxus.at)
+ - [http://helpcenter.galaxus.at](http://helpcenter.galaxus.at)
  - date_published: 2024-07-21T05:56:27.505464+00:00
 
  ## Gallery Guide Austria
- - [http://galleryguidevienna.at](http://galleryguidevienna.at)
+ - [https://galleryguidevienna.at](https://galleryguidevienna.at)
  - date_published: 2024-07-12T12:13:32+00:00
 
  ## Gamers.at - Spielemagazin mit News & Tests zu PC- und Konsolenspielen
- - [https://www.gamers.at](https://www.gamers.at)
+ - [https://gamers.at](https://gamers.at)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Call of Duty: Black Ops 6, Dead Rising, Dragon Age: The Veilguard, Silent Hill 2 Remake, Dead Island 2, STALKER 2, Alan Wake 2, Dying Light 2, Warhammer 40.000: Space Marine 2, Kingdom Come: Deliverance II
@@ -2532,11 +2538,11 @@ October 2024 in Singapore
  - date_published: 2023-07-31T10:51:24+00:00
 
  ## gameware.at: Die besten Spiele mit superschnellem, sicherem Versand
- - [http://www.gameware.at](http://www.gameware.at)
+ - [https://gameware.at](https://gameware.at)
  - date_published: 2024-01-31T00:00:00+00:00
 
  ## Test Page for the Apache HTTP Server
- - [https://www.gastromatic.at](https://www.gastromatic.at)
+ - [http://gastromatic.at](http://gastromatic.at)
  - date_published: 2023-10-26T20:08:08+00:00
 
  ## GDP-Forum - Foren-Übersicht
@@ -2548,7 +2554,7 @@ October 2024 in Singapore
  - date_published: 2024-07-24T16:25:51.106541+00:00
 
  ## Wien Steinhof | gedenkstättesteinhof.at
- - [https://www.gedenkstaettesteinhof.at](https://www.gedenkstaettesteinhof.at)
+ - [https://gedenkstaettesteinhof.at](https://gedenkstaettesteinhof.at)
  - date_published: 2024-07-13T11:27:23.162988+00:00
 
  ## Geizhals - Der Blog - Geizhals - Der Blog
@@ -2568,7 +2574,7 @@ October 2024 in Singapore
  - date_published: 2023-10-09T00:00:00+00:00
 
  ## Geo Explorer - Österreich auf einen Blick!
- - [https://www.geo-explorer.at](https://www.geo-explorer.at)
+ - [https://geo-explorer.at](https://geo-explorer.at)
  - date_published: 2024-09-05T16:23:06.458161+00:00
 
  ## GeoSphere Austria Data Hub
@@ -2580,23 +2586,23 @@ October 2024 in Singapore
  - date_published: 2024-04-03T00:00:00+00:00
 
  ## Wie gut kennst Du Dich in Österreich aus? - GeoTraining.at
- - [https://www.geo-training.at](https://www.geo-training.at)
+ - [https://geo-training.at](https://geo-training.at)
  - date_published: 2021-11-21T21:54:29+00:00
 
  ## Wiener Gesundheitsverbund | Rund um die Uhr für Sie da!
- - [http://gesundheitsverbund.at](http://gesundheitsverbund.at)
+ - [https://gesundheitsverbund.at](https://gesundheitsverbund.at)
  - date_published: 2024-07-09T20:13:26.176142+00:00
 
  ## Startseite - gesundheitswirtschaft.at - Das Informations- und Serviceportal von Springer Medizin für Health Professionals
- - [https://www.gesundheitswirtschaft.at](https://www.gesundheitswirtschaft.at)
+ - [https://gesundheitswirtschaft.at](https://gesundheitswirtschaft.at)
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## Finde auf GetApp Österreich die besten Anwendungen für dein Unternehmen
- - [https://www.getapp.at](https://www.getapp.at)
+ - [https://getapp.at](https://getapp.at)
  - date_published: 2024-08-08T18:06:59.211196+00:00
 
  ## Geniuslink - URL Shortener for Creators and Affiliates
- - [http://getbook.at](http://getbook.at)
+ - [https://getbook.at](https://getbook.at)
  - date_published: 2024-05-31T16:11:02+00:00
 
  ## gettalong EDV-Dienstleistungen e.U. - gettalong.at
@@ -2604,31 +2610,32 @@ October 2024 in Singapore
  - date_published: 2024-01-22T15:10:40+00:00
 
  ## Lizenzfreie Stock-Fotos, Creative-Bilder und -Vektoren | Bildmaterial aus den Bereichen News, Fashion und Entertainment - Getty Images
- - [https://www.gettyimages.at](https://www.gettyimages.at)
+ - [https://gettyimages.at](https://gettyimages.at)
  - date_published: 2024-06-20T01:48:56.668612+00:00
 
  ## Gilead – Creating Possible | Gilead Österreich
- - [https://www.gilead.at](https://www.gilead.at)
+ - [https://gilead.at](https://gilead.at)
  - date_published: 2024-07-02T04:08:34.851381+00:00
+
+ ## OBS – ORF Beitrag
+ - [https://gis.at](https://gis.at)
+ - date_published: 2024-06-18T15:41:27.695237+00:00
 
  ## Sign in - Matomo
  - [https://matomo.gis.at](https://matomo.gis.at)
  - date_published: 2024-10-22T12:16:57.028735+00:00
 
- ## OBS – ORF Beitrag
- - [https://www.gis.at](https://www.gis.at)
- - date_published: 2024-06-18T15:41:27.695237+00:00
-
  ## WILLKOMMEN AUF DER NEUEN HOMEPAGE von Labor GIVE
  - [http://www.give.at](http://www.give.at)
  - date_published: 2008-01-18T19:09:40+00:00
+ - date_dead_since: 2025-01-06T20:51:59.009082+00:00
 
  ## Glassdoor-Jobsuche
- - [https://www.glassdoor.at](https://www.glassdoor.at)
+ - [http://glassdoor.at](http://glassdoor.at)
  - date_published: 2024-06-22T21:19:44.386726+00:00
 
  ## Die Umweltschutzorganisation | GLOBAL 2000
- - [https://www.global2000.at](https://www.global2000.at)
+ - [https://global2000.at](https://global2000.at)
  - date_published: 2024-09-13T16:20:05+00:00
 
  ## GMX: E-Mail, FreeMail & Nachrichten
@@ -2640,8 +2647,12 @@ October 2024 in Singapore
  - date_published: 2024-06-10T06:54:19.334419+00:00
 
  ## Gomibo.at - Alle Handys und Zubehör
- - [https://www.gomibo.at](https://www.gomibo.at)
+ - [https://gomibo.at](https://gomibo.at)
  - date_published: 2024-10-21T22:25:38.672735+00:00
+
+ ## Google
+ - [https://google.at](https://google.at)
+ - date_published: 2024-06-21T22:25:18.430030+00:00
 
  ## Grafika Google
  - [https://images.google.at](https://images.google.at)
@@ -2651,16 +2662,12 @@ October 2024 in Singapore
  - [https://scholar.google.at](https://scholar.google.at)
  - date_published: 2024-06-22T07:37:02.685135+00:00
 
- ## Google
- - [https://www.google.at](https://www.google.at)
- - date_published: 2024-06-21T22:25:18.430030+00:00
-
  ## Grätzloase
- - [https://www.graetzloase.at](https://www.graetzloase.at)
+ - [https://graetzloase.at](https://graetzloase.at)
  - date_published: 2024-09-04T02:51:16.948601+00:00
 
  ## Online-Datenbank für Stipendien und Forschungsförderung – grants.at
- - [http://grants.at](http://grants.at)
+ - [https://grants.at](https://grants.at)
  - date_published: 2024-10-14T23:59:55.148170+00:00
 
  ## Zertifizieren Sie Ihre Unternehmenskultur | Great Place to Work®
@@ -2668,19 +2675,19 @@ October 2024 in Singapore
  - date_published: 2024-06-12T10:40:57.710821+00:00
 
  ## Greenpeace Österreich
- - [https://www.greenpeace.at](https://www.greenpeace.at)
+ - [https://greenpeace.at](https://greenpeace.at)
  - date_published: 2024-10-22T09:02:23.725946+00:00
 
  ## Greulonline - Greul Onlineshop
- - [https://www.greulonline.at](https://www.greulonline.at)
+ - [https://greulonline.at](https://greulonline.at)
  - date_published: 2024-07-10T09:21:21.010210+00:00
 
  ## Willkommen bei Grünenthal Österreich Home
- - [https://www.grunenthal.at](https://www.grunenthal.at)
+ - [https://grunenthal.at](https://grunenthal.at)
  - date_published: 2024-10-16T18:49:46.489733+00:00
 
  ## Home
- - [https://www.guetezeichen.at](https://www.guetezeichen.at)
+ - [https://guetezeichen.at](https://guetezeichen.at)
  - date_published: 2024-06-25T19:06:59.763984+00:00
 
  ## contentpass
@@ -2708,7 +2715,7 @@ October 2024 in Singapore
  - date_published: 2024-08-28T00:00:00+00:00
 
  ## Alexander Stocker
- - [https://www.hairup.at](https://www.hairup.at)
+ - [https://hairup.at](https://hairup.at)
  - date_published: 2024-07-18T06:13:35.363661+00:00
 
  ## Handelsverband Österreich
@@ -2724,7 +2731,7 @@ October 2024 in Singapore
  - date_published: 2024-07-13T07:32:09+00:00
 
  ## Heid und Partner Rechtsanwälte
- - [https://www.heid-partner.at](https://www.heid-partner.at)
+ - [https://heid-partner.at](https://heid-partner.at)
  - date_published: 2024-09-06T00:00:00+00:00
 
  ## HELION REAL ESTATE - Ihr Partner bei der Vermittlung von Immobilien
@@ -2736,11 +2743,11 @@ October 2024 in Singapore
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## HelloFresh: Österreichs Nummer 1 Kochbox
- - [https://www.hellofresh.at](https://www.hellofresh.at)
+ - [https://hellofresh.at](https://hellofresh.at)
  - date_published: 2024-05-02T14:01:02.244963+00:00
 
  ## Home
- - [https://www.henkel.at](https://www.henkel.at)
+ - [https://henkel.at](https://henkel.at)
  - date_published: 2024-10-18T20:18:38.445055+00:00
 
  ## Heute
@@ -2757,15 +2764,15 @@ October 2024 in Singapore
  - date_published: 2024-10-27T12:13:48.456249+00:00
 
  ## Kunst Galerie HAAS & GSCHWANDTNER in Salzburg
- - [https://www.hg-art.at](https://www.hg-art.at)
+ - [https://hg-art.at](https://hg-art.at)
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## Connected Care vorantreiben
- - [https://www.hillrom.at](https://www.hillrom.at)
+ - [https://hillrom.at](https://hillrom.at)
  - date_published: 2024-10-17T21:28:16.919455+00:00
 
  ## Hilti
- - [https://www.hilti.at](https://www.hilti.at)
+ - [https://hilti.at](https://hilti.at)
  - date_published: 2024-06-20T07:26:09.008232+00:00
 
  ## Samuel Hobl
@@ -2776,9 +2783,10 @@ October 2024 in Singapore
  ## GoatCounter
  - [https://stats.hobl.at](https://stats.hobl.at)
  - date_published: 2024-05-12T06:23:29.726882+00:00
+ - date_dead_since: 2025-01-06T20:56:52.537595+00:00
 
  ## Home - Nationalpark Hohe Tauern
- - [http://www.hohetauern.at](http://www.hohetauern.at)
+ - [https://hohetauern.at](https://hohetauern.at)
  - date_published: 2024-09-13T16:19:15+00:00
 
  ## hokify - deine mobile Job-Plattform | Jobbörse | Stellenangebote
@@ -2786,7 +2794,7 @@ October 2024 in Singapore
  - date_published: 2024-02-02T00:00:00+00:00
 
  ## Entdecke Graz - Holding Graz
- - [https://www.holding-graz.at](https://www.holding-graz.at)
+ - [https://holding-graz.at](https://holding-graz.at)
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## Beste Online Casinos Österreich 2024 🥇| Top 1060 Glücksspielseiten | HolyMolyCasinos 🎰
@@ -2799,11 +2807,11 @@ October 2024 in Singapore
  - date_published: 2021-07-22T11:18:42+00:00
 
  ## Vom Macher zum Mut-Macher - honestlead
- - [https://www.honestlead.at](https://www.honestlead.at)
+ - [https://honestlead.at](https://honestlead.at)
  - date_published: 2023-05-31T15:58:26+00:00
 
  ## HORIZONT | Marketing, Werbung und Medien für Österreich
- - [https://www.horizont.at](https://www.horizont.at)
+ - [https://horizont.at](https://horizont.at)
  - date_published: 2024-07-08T19:36:40.628500+00:00
 
  ## Horv.at | A blog by Matjaž Horvat
@@ -2815,31 +2823,31 @@ October 2024 in Singapore
  - date_published: 2024-06-16T14:57:17.822853+00:00
 
  ## Home [en]
- - [https://www.hoststar.at](https://www.hoststar.at)
+ - [https://hoststar.at](https://hoststar.at)
  - date_published: 2013-12-19T08:21:07+00:00
 
  ## Webhosting & Webhoster auf HOSTtest finden
- - [https://www.hosttest.at](https://www.hosttest.at)
+ - [https://hosttest.at](https://hosttest.at)
  - date_published: 2024-09-25T18:57:02.747319+00:00
 
  ## Pension in Wien Zentrum - Hotel-Pension Bleckmann - Innenstadt
- - [https://www.hotelbleckmann.at](https://www.hotelbleckmann.at)
+ - [https://hotelbleckmann.at](https://hotelbleckmann.at)
  - date_published: 2024-06-22T07:50:20.302975+00:00
 
  ## Hotel Regina
- - [https://www.hotelregina.at](https://www.hotelregina.at)
+ - [https://hotelregina.at](https://hotelregina.at)
  - date_published: 2024-06-22T07:50:23.055967+00:00
 
  ## Sporthotel ROYAL X - Sportaufenthalt für jeden Geschmack am Millstätter See
- - [https://www.hotelroyalx.at](https://www.hotelroyalx.at)
+ - [https://hotelroyalx.at](https://hotelroyalx.at)
  - date_published: 2024-08-29T00:00:00+00:00
 
  ## Hotels und Pensionen - Österreich
- - [https://www.hotels-und-pensionen.at](https://www.hotels-und-pensionen.at)
+ - [https://hotels-und-pensionen.at](https://hotels-und-pensionen.at)
  - date_published: 2024-09-13T16:19:56.704955+00:00
 
  ## Willkommen bei Hotfrog
- - [https://www.hotfrog.at](https://www.hotfrog.at)
+ - [https://hotfrog.at](https://hotfrog.at)
  - date_published: 2024-06-29T16:51:59.880185+00:00
 
  ## House of Habsburg Tour
@@ -2851,11 +2859,11 @@ October 2024 in Singapore
  - date_published: 2024-05-14T03:34:22.191314+00:00
 
  ## IAB Austria - IAB Austria
- - [https://www.iab-austria.at](https://www.iab-austria.at)
+ - [https://iab-austria.at](https://iab-austria.at)
  - date_published: 2024-05-28T00:00:00+00:00
 
  ## IBA_Wien - Neues soziales Wohnen
- - [http://www.iba-wien.at](http://www.iba-wien.at)
+ - [https://iba-wien.at](https://iba-wien.at)
  - date_published: 2024-09-13T16:19:07.703359+00:00
 
  ## ICB Galerie
@@ -2867,19 +2875,19 @@ October 2024 in Singapore
  - date_published: 2024-09-02T14:37:28+00:00
 
  ## idealo – Österreichs großer Preisvergleich
- - [https://www.idealo.at](https://www.idealo.at)
+ - [https://idealo.at](https://idealo.at)
  - date_published: 2024-07-09T07:53:54.074174+00:00
 
  ## IDM Vienna - Institut für den Donauraum und Mitteleuropa
- - [https://www.idm.at](https://www.idm.at)
+ - [https://idm.at](https://idm.at)
  - date_published: 2023-03-20T08:45:31+00:00
 
  ## Institut 17 Elektronische Musik und Akustik
- - [http://iem.at](http://iem.at)
+ - [https://iem.at](https://iem.at)
  - date_published: 2024-06-22T06:31:34.595091+00:00
 
  ## igus® – Hochleistungspolymere für Bewegung
- - [https://www.igus.at](https://www.igus.at)
+ - [https://igus.at](https://igus.at)
  - date_published: 2024-08-06T23:13:03.192248+00:00
 
  ## IICP
@@ -2891,15 +2899,15 @@ October 2024 in Singapore
  - date_published: 2024-10-22T11:28:08.808837+00:00
 
  ## Immobilien, Wohnungen und Häuser auf ImmoScout24
- - [https://www.immobilienscout24.at](https://www.immobilienscout24.at)
+ - [https://immobilienscout24.at](https://immobilienscout24.at)
  - date_published: 2024-06-16T07:31:29.431837+00:00
 
  ## Home
- - [http://independentspaceindex.at](http://independentspaceindex.at)
+ - [https://independentspaceindex.at](https://independentspaceindex.at)
  - date_published: 2024-07-13T14:49:33.557580+00:00
 
  ## Klimaticket – Wir erforschen das Klimaticket | infas & TRICONSULT
- - [https://www.infas.at](https://www.infas.at)
+ - [https://infas.at](https://infas.at)
  - date_published: 2024-07-14T23:12:14.329313+00:00
 
  ## Erlebe Musik, Emotion & Geschmack! | Gasteiner Infinity Music Tour
@@ -2907,19 +2915,20 @@ October 2024 in Singapore
  - date_published: 2024-07-17T09:44:14+00:00
 
  ## Infotech - Ein Haus voller Möglichkeiten.
- - [https://www.infotech.at](https://www.infotech.at)
+ - [https://infotech.at](https://infotech.at)
  - date_published: 2021-12-14T08:38:29+00:00
 
  ## INiTS | Vienna's High-Tech Incubator
- - [https://www.inits.at](https://www.inits.at)
+ - [http://www.inits.at](http://www.inits.at)
  - date_published: 2020-07-21T21:34:00+00:00
+ - date_dead_since: 2025-01-06T21:06:42.846074+00:00
 
  ## Sign in - Matomo
  - [https://piwik.inlupus.at](https://piwik.inlupus.at)
  - date_published: 2024-07-23T22:15:05.353422+00:00
 
  ## Intersport
- - [https://www.intersport.at](https://www.intersport.at)
+ - [https://intersport.at](https://intersport.at)
  - date_published: 2024-07-03T16:43:20.074054+00:00
 
  ## Domain kaufen | Willkommen bei INWX.at
@@ -2927,23 +2936,23 @@ October 2024 in Singapore
  - date_published: 2024-09-29T20:52:43.742131+00:00
 
  ## IPTS – Institut für Posttayloristische Studien
- - [http://www.ipts.at](http://www.ipts.at)
+ - [https://ipts.at](https://ipts.at)
  - date_published: 2024-09-18T22:31:07.983615+00:00
 
  ## IQOQI
- - [https://www.iqoqi-vienna.at](https://www.iqoqi-vienna.at)
+ - [https://iqoqi-vienna.at](https://iqoqi-vienna.at)
  - date_published: 2024-07-01T05:46:57.800190+00:00
 
  ## Iris Ehrlich – Psychologische Praxis für Gesundheit und Prävention – Just another WordPress weblog
- - [http://www.irisehrlich.at](http://www.irisehrlich.at)
+ - [https://irisehrlich.at](https://irisehrlich.at)
  - date_published: 2024-06-26T23:29:27.655750+00:00
 
  ## Startseite
- - [https://www.ischlerwoche.at](https://www.ischlerwoche.at)
+ - [https://ischlerwoche.at](https://ischlerwoche.at)
  - date_published: 2024-07-13T11:29:16.442924+00:00
 
  ## österreichischer Verband: ISPA- ISPA
- - [https://www.ispa.at](https://www.ispa.at)
+ - [https://ispa.at](https://ispa.at)
  - date_published: 2024-07-02T22:20:07.425606+00:00
 
  ## IT Futures – Where ambition meets opportunity
@@ -2951,23 +2960,23 @@ October 2024 in Singapore
  - date_published: 2024-07-14T10:08:18.284089+00:00
 
  ## ITPRO - Consulting & Software GmbH
- - [https://www.itpro.at](https://www.itpro.at)
+ - [https://itpro.at](https://itpro.at)
  - date_published: 2024-10-22T09:02:38.553007+00:00
 
  ## Jobs für IT-Fachkräfte – itstellen.at
- - [https://www.itstellen.at](https://www.itstellen.at)
+ - [https://itstellen.at](https://itstellen.at)
  - date_published: 2024-06-16T08:46:39.533324+00:00
 
  ## IVB - Innsbrucker Verkehrsbetriebe und Stubaitalbahn GmbH
- - [https://www.ivb.at](https://www.ivb.at)
+ - [https://ivb.at](https://ivb.at)
  - date_published: 2024-07-14T23:12:28.105588+00:00
 
  ## Main | IWM WEBSITE
- - [https://www.iwm.at](https://www.iwm.at)
+ - [https://iwm.at](https://iwm.at)
  - date_published: 2024-07-21T17:11:37+00:00
 
  ## iX Kunst im Raum
- - [http://www.ix-tischlerei.at](http://www.ix-tischlerei.at)
+ - [https://ix-tischlerei.at](https://ix-tischlerei.at)
  - date_published: 2023-08-03T11:16:50+00:00
 
  ## XMPP servers
@@ -2975,11 +2984,11 @@ October 2024 in Singapore
  - date_published: 2024-09-03T23:14:57.505123+00:00
 
  ## Outdoor Bekleidung, Schuhe und Ausrüstung – JACK WOLFSKIN
- - [https://www.jack-wolfskin.at](https://www.jack-wolfskin.at)
+ - [https://jack-wolfskin.at](https://jack-wolfskin.at)
  - date_published: 2024-07-14T12:15:43.324949+00:00
 
  ## Jailshop – Handwerk, das sitzt.
- - [https://www.jailshop.at](https://www.jailshop.at)
+ - [https://jailshop.at](https://jailshop.at)
  - date_published: 2024-07-13T11:35:06.786457+00:00
 
  ## Home | Jakob Maier
@@ -2991,7 +3000,7 @@ October 2024 in Singapore
  - date_published: 2024-10-21T02:21:20.415632+00:00
 
  ## Jeep® Österreich | SUV´s mit Abenteuer-Feeling
- - [https://www.jeep.at](https://www.jeep.at)
+ - [https://jeep.at](https://jeep.at)
  - date_published: 2024-06-19T08:41:11.413877+00:00
 
  ## Jeep | Stellantis
@@ -2999,43 +3008,43 @@ October 2024 in Singapore
  - date_published: 2024-10-28T16:20:42.750820+00:00
 
  ## Jessica Taylor
- - [http://jessic.at](http://jessic.at)
+ - [https://jessic.at](https://jessic.at)
  - date_published: 2023-06-01T21:59:56+00:00
 
  ## Institute for Formal Models and Verification
- - [http://fmv.jku.at](http://fmv.jku.at)
+ - [https://fmv.jku.at](https://fmv.jku.at)
  - date_published: 2024-01-19T11:40:53+00:00
+
+ ## JKU - Johannes Kepler Universität Linz
+ - [https://jku.at](https://jku.at)
+ - date_published: 2024-05-06T19:58:56.930233+00:00
 
  ## Infoniqa
  - [https://karriere.jku.at](https://karriere.jku.at)
  - date_published: 2024-06-05T13:55:32+00:00
 
  ## KUSSS | Welcome
- - [http://kusss.jku.at](http://kusss.jku.at)
+ - [https://kusss.jku.at](https://kusss.jku.at)
  - date_published: 2024-06-26T22:13:31.499468+00:00
 
- ## System Software
- - [http://ssw.jku.at](http://ssw.jku.at)
- - date_published: 2024-07-24T07:26:29.306482+00:00
-
- ## JKU - Johannes Kepler Universität Linz
- - [https://www.jku.at](https://www.jku.at)
- - date_published: 2024-05-06T19:58:56.930233+00:00
-
  ## ÖH JKU
- - [https://www.oeh.jku.at](https://www.oeh.jku.at)
+ - [https://oeh.jku.at](https://oeh.jku.at)
  - date_published: 2024-06-26T22:00:14+00:00
 
  ## Home - RISC - Johannes Kepler University
- - [http://www.risc.jku.at](http://www.risc.jku.at)
+ - [https://risc.jku.at](https://risc.jku.at)
  - date_published: 2024-07-17T05:49:59.566771+00:00
+
+ ## System Software
+ - [https://ssw.jku.at](https://ssw.jku.at)
+ - date_published: 2024-07-24T07:26:29.306482+00:00
 
  ## jobs.at - Deine Jobbörse in Österreich - Jobs Österreich
  - [https://jobs.at](https://jobs.at)
  - date_published: 2024-09-28T21:19:45.356232+00:00
 
  ## Joyn - Live-TV, Serien, Filme & Sport kostenlos streamen
- - [https://www.joyn.at](https://www.joyn.at)
+ - [https://joyn.at](https://joyn.at)
  - date_published: 2024-07-20T15:07:16.474641+00:00
 
  ## juedische.at
@@ -3043,7 +3052,7 @@ October 2024 in Singapore
  - date_published: 2024-02-08T16:32:07.438690+00:00
 
  ## Jugendinfo – Bundesnetzwerk Österreichische Jugendinfos
- - [http://www.jugendinfo.at](http://www.jugendinfo.at)
+ - [https://jugendinfo.at](https://jugendinfo.at)
  - date_published: 2024-09-15T20:58:12.909861+00:00
 
  ## Jérôme Velociter – General Purpose Hacker
@@ -3051,7 +3060,7 @@ October 2024 in Singapore
  - date_published: 2024-07-23T23:31:26.018219+00:00
 
  ## Karntner linien
- - [https://www.kaerntner-linien.at](https://www.kaerntner-linien.at)
+ - [https://kaerntner-linien.at](https://kaerntner-linien.at)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## Kafatec - Ihre Sicherheit ist unsere Kompetenz.
@@ -3059,7 +3068,7 @@ October 2024 in Singapore
  - date_published: 2022-07-13T00:00:00+00:00
 
  ## KAHLES: Home US
- - [https://www.kahles.at](https://www.kahles.at)
+ - [https://kahles.at](https://kahles.at)
  - date_published: 2024-06-26T11:44:39.006237+00:00
 
  ## Home of KaiRo: Home of KaiRo
@@ -3100,7 +3109,7 @@ October 2024 in Singapore
  - date_published: 2020-06-25T10:00:44+00:00
 
  ## ObjektDB
- - [http://bilddatenbank.khm.at](http://bilddatenbank.khm.at)
+ - [https://bilddatenbank.khm.at](https://bilddatenbank.khm.at)
  - date_published: 2024-04-02T00:00:00+00:00
 
  ## KHM B2B - Start
@@ -3141,11 +3150,11 @@ October 2024 in Singapore
  - date_published: 2024-03-28T00:00:00+00:00
 
  ## Kinderbüro Universität Wien gGmbH
- - [http://kinderbuero-uniwien.at](http://kinderbuero-uniwien.at)
+ - [https://kinderbuero-uniwien.at](https://kinderbuero-uniwien.at)
  - date_published: 2024-10-14T23:42:39+00:00
 
  ## Kinderuni - kinderuni.at
- - [http://www.kinderuni.at](http://www.kinderuni.at)
+ - [https://kinderuni.at](https://kinderuni.at)
  - date_published: 2024-10-02T00:00:00+00:00
 
  ## Alex Kirk
@@ -3157,11 +3166,11 @@ October 2024 in Singapore
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## Klangforum Wien
- - [https://www.klangforum.at](https://www.klangforum.at)
+ - [https://klangforum.at](https://klangforum.at)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## klassikticket.at - Österreichs größtes Ticket Angebot an klassischen Events
- - [https://www.klassikticket.at](https://www.klassikticket.at)
+ - [https://klassikticket.at](https://klassikticket.at)
  - date_published: 2024-07-24T05:12:00.622673+00:00
 
  ## Kleine Zeitung
@@ -3185,23 +3194,24 @@ October 2024 in Singapore
  - date_published: 2021-05-20T00:00:00+00:00
 
  ## Konecranes
- - [https://www.konecranes.at](https://www.konecranes.at)
+ - [https://konecranes.at](https://konecranes.at)
  - date_published: 2024-06-20T23:01:11.974351+00:00
 
  ## Media Technology Solutions delivered by KLT | kraftwerk.at
- - [http://www.kraftwerk.at](http://www.kraftwerk.at)
+ - [https://kraftwerk.at](https://kraftwerk.at)
  - date_published: 2024-01-11T00:00:00+00:00
 
  ## Kriesi.at Jobs – Just another WordPress site
  - [http://jobs.kriesi.at](http://jobs.kriesi.at)
  - date_published: 2024-06-26T23:29:24.959696+00:00
+ - date_dead_since: 2025-01-06T21:46:54.799304+00:00
 
  ## Home - Kriesi.at - Premium WordPress Themes
  - [https://kriesi.at](https://kriesi.at)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Kronen Zeitung | Aktuelle Nachrichten | krone.at
- - [https://www.krone.at](https://www.krone.at)
+ - [https://krone.at](https://krone.at)
  - date_published: 2024-06-25T22:03:08.635531+00:00
 
  ## Kufgem | Gemeinsam. Digital. Erfolgreich.
@@ -3209,7 +3219,7 @@ October 2024 in Singapore
  - date_published: 2024-12-10T20:32:48.713676+00:00
 
  ## Kultur. Region. Niederösterreich
- - [https://www.kulturregionnoe.at](https://www.kulturregionnoe.at)
+ - [https://kulturregionnoe.at](https://kulturregionnoe.at)
  - date_published: 2024-09-04T02:51:45.345036+00:00
 
  ## Kulturvernetzung Niederösterreich
@@ -3225,7 +3235,7 @@ October 2024 in Singapore
  - date_published: 2024-07-15T00:00:00+00:00
 
  ## Flugblätter und Angebote | Kupino.at
- - [https://www.kupino.at](https://www.kupino.at)
+ - [https://kupino.at](https://kupino.at)
  - date_published: 2024-09-05T17:08:36.940490+00:00
 
  ## kurier.at
@@ -3233,7 +3243,7 @@ October 2024 in Singapore
  - date_published: 2024-07-03T01:41:10+00:00
 
  ## Christian Kastner
- - [https://www.kvr.at](https://www.kvr.at)
+ - [https://kvr.at](https://kvr.at)
  - date_published: 2020-04-11T11:10:04+00:00
 
  ## Touren Blog - touren.labut.at
@@ -3241,19 +3251,19 @@ October 2024 in Singapore
  - date_published: 2024-09-13T16:19:22+00:00
 
  ## Lancia Services, Ersatzteile und Zubehör | Mopar Österreich
- - [http://www.lancia.at](http://www.lancia.at)
+ - [https://lancia.at](https://lancia.at)
  - date_published: 2024-05-15T09:00:14+00:00
 
  ## Land Rover. 4x4-Fahrzeuge und Luxus-SUVs
- - [https://www.landrover.at](https://www.landrover.at)
+ - [https://landrover.at](https://landrover.at)
  - date_published: 2024-07-09T17:13:27.585374+00:00
 
  ## LAOLA1 - Sportnachrichten, LIVE-Ticker, Streams und Videos
- - [https://www.laola1.at](https://www.laola1.at)
+ - [https://laola1.at](https://laola1.at)
  - date_published: 2024-06-19T15:20:38.424551+00:00
 
  ## LAWIS
- - [https://www.lawis.at](https://www.lawis.at)
+ - [https://lawis.at](https://lawis.at)
  - date_published: 2024-09-13T16:18:56.933166+00:00
 
  ## LEAN-CODERS | Create value without waste
@@ -3269,7 +3279,7 @@ October 2024 in Singapore
  - date_published: 2024-05-06T09:20:49.013150+00:00
 
  ## www.lechat.atwebsite in der Warteschleife
- - [https://www.lechat.at](https://www.lechat.at)
+ - [https://lechat.at](https://lechat.at)
  - date_published: 2024-07-18T06:13:30.032487+00:00
 
  ## e-comm
@@ -3277,7 +3287,7 @@ October 2024 in Singapore
  - date_published: 2024-10-18T20:56:35.371301+00:00
 
  ## Andrea Lehsiak - Gebrauchsgrafik und Mediengestaltung
- - [http://www.lehsiak.at](http://www.lehsiak.at)
+ - [https://lehsiak.at](https://lehsiak.at)
  - date_published: 2020-05-06T16:35:16+00:00
 
  ## Victor Le Pochat
@@ -3289,23 +3299,24 @@ October 2024 in Singapore
  - date_published: 2024-06-25T09:24:21+00:00
 
  ## LEUCHTTURM1917
- - [https://www.leuchtturm1917.at](https://www.leuchtturm1917.at)
+ - [https://leuchtturm1917.at](https://leuchtturm1917.at)
  - date_published: 2024-06-21T23:24:10.455536+00:00
 
  ## LEVEL UP – The Gaming Festival
- - [https://www.levelup-salzburg.at](https://www.levelup-salzburg.at)
+ - [https://levelup-salzburg.at](https://levelup-salzburg.at)
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Libreboot – Free your BIOS today!
  - [https://libreboot.at](https://libreboot.at)
  - date_published: 2023-06-19T17:24:54+00:00
+ - date_dead_since: 2025-01-06T21:49:35.000694+00:00
 
  ## Lidl Österreich | Lidl.at
- - [https://www.lidl.at](https://www.lidl.at)
+ - [https://lidl.at](https://lidl.at)
  - date_published: 2024-06-25T19:02:11.848726+00:00
 
  ## Start zu mehr Lebensfreude
- - [https://www.liebedasleben.at](https://www.liebedasleben.at)
+ - [https://liebedasleben.at](https://liebedasleben.at)
  - date_published: 2024-07-18T08:12:30.285517+00:00
 
  ## Liechtenecker UX Design Studio | Gute UX ist gutes Business‎
@@ -3317,7 +3328,7 @@ October 2024 in Singapore
  - date_published: 2024-06-13T05:28:42+00:00
 
  ## Startseite
- - [https://www.liferadio.at](https://www.liferadio.at)
+ - [https://liferadio.at](https://liferadio.at)
  - date_published: 2024-07-13T11:29:06.849463+00:00
 
  ## LINAK – Elektrische Linearantriebssysteme, die für Bewegung sorgen
@@ -3349,7 +3360,7 @@ October 2024 in Singapore
  - date_published: 2024-09-13T16:21:18.759752+00:00
 
  ## LINZ AG
- - [https://www.linzag.at](https://www.linzag.at)
+ - [https://linzag.at](https://linzag.at)
  - date_published: 2024-07-14T23:12:34.082639+00:00
 
  ## Warndienst der Landwirtschaftskammern | Warndienst - Startseite
@@ -3359,13 +3370,14 @@ October 2024 in Singapore
  ## Lnk.at - the cutest link in bio
  - [https://lnk.at](https://lnk.at)
  - date_published: 2024-07-13T03:44:46.898059+00:00
+ - date_dead_since: 2025-01-06T21:50:36.848818+00:00
 
  ## Lobby4Kids - Kinderlobbys
  - [https://lobby4kids.at](https://lobby4kids.at)
  - date_published: 2024-05-06T23:56:48.102818+00:00
 
  ## Fashion Magazine | L'OFFICIEL Austria
- - [https://www.lofficiel.at](https://www.lofficiel.at)
+ - [https://lofficiel.at](https://lofficiel.at)
  - date_published: 2024-09-16T09:58:49.898041+00:00
 
  ## LogiCS | Degree Programs in Logic and Computer Science at TU Vienna
@@ -3373,11 +3385,11 @@ October 2024 in Singapore
  - date_published: 2024-07-16T22:22:58.420032+00:00
 
  ## Österreichische Lotterien » Spiele, Gewinnabfragen & mehr
- - [https://www.lotterien.at](https://www.lotterien.at)
+ - [https://lotterien.at](https://lotterien.at)
  - date_published: 2024-10-22T11:33:10.981220+00:00
 
  ## Partnersuche bei LoveScout24 | Singles finden in Österreich
- - [https://www.lovescout24.at](https://www.lovescout24.at)
+ - [https://lovescout24.at](https://lovescout24.at)
  - date_published: 2024-09-04T11:50:01.715730+00:00
 
  ## Lukas Prokop's homepage
@@ -3385,7 +3397,7 @@ October 2024 in Singapore
  - date_published: 2024-11-18T23:26:35+00:00
 
  ## Männerabend - Der männliche Freizeitblog aus Wien!
- - [http://www.maennerabend.at](http://www.maennerabend.at)
+ - [https://maennerabend.at](https://maennerabend.at)
  - date_published: 2024-07-16T17:46:58.899964+00:00
 
  ## MAK Wien  - MAK Museum Wien
@@ -3397,20 +3409,24 @@ October 2024 in Singapore
  - date_published: 2024-06-17T10:32:16.438775+00:00
 
  ## MAK Onlineshop - Museum für angewandte Kunst
- - [https://www.makdesignshop.at](https://www.makdesignshop.at)
+ - [https://makdesignshop.at](https://makdesignshop.at)
  - date_published: 2024-10-18T15:52:52.571743+00:00
 
  ## Makita Werkzeug GmbH - Startseite
- - [https://www.makita.at](https://www.makita.at)
+ - [https://makita.at](https://makita.at)
  - date_published: 2024-07-20T15:07:45.885428+00:00
 
  ## #sagwas und verhindere Gewalt im Internet. #mannsprichtsan
- - [https://www.mannsprichtsan.at](https://www.mannsprichtsan.at)
+ - [https://mannsprichtsan.at](https://mannsprichtsan.at)
  - date_published: 2024-07-03T01:43:08.294803+00:00
 
  ## Manuka Doctor: Neuseeländischer Manuka Honig
- - [https://www.manukadoctor.at](https://www.manukadoctor.at)
+ - [https://manukadoctor.at](https://manukadoctor.at)
  - date_published: 2024-10-20T14:06:57.730034+00:00
+
+ ## MANZ Verlag & Buchhandlung: MANZ
+ - [https://manz.at](https://manz.at)
+ - date_published: 2024-07-09T20:13:36.082634+00:00
 
  ## Lecture Casts - Bürgerliches Recht
  - [https://psk.manz.at](https://psk.manz.at)
@@ -3424,12 +3440,8 @@ October 2024 in Singapore
  - [https://shop.manz.at](https://shop.manz.at)
  - date_published: 2024-05-09T06:26:15.372557+00:00
 
- ## MANZ Verlag & Buchhandlung: MANZ
- - [https://www.manz.at](https://www.manz.at)
- - date_published: 2024-07-09T20:13:36.082634+00:00
-
  ## Marina Sallaberger
- - [http://marinasallaberger.at](http://marinasallaberger.at)
+ - [https://marinasallaberger.at](https://marinasallaberger.at)
  - date_published: 2024-07-16T17:46:12.513428+00:00
 
  ## Martin Schwarzl
@@ -3437,7 +3449,7 @@ October 2024 in Singapore
  - date_published: 2023-01-01T00:00:00+00:00
 
  ## Maserati Österreich Startseite | Maserati AT
- - [http://www.maserati.at](http://www.maserati.at)
+ - [https://www.maserati.at](https://www.maserati.at)
  - date_published: 2024-06-19T09:07:39+00:00
 
  ## mass:werk <home>
@@ -3445,7 +3457,7 @@ October 2024 in Singapore
  - date_published: 2023-10-25T11:26:47.402439+00:00
 
  ## re:use - Altes neu interpretieren
- - [https://www.materialnomaden.at](https://www.materialnomaden.at)
+ - [https://materialnomaden.at](https://materialnomaden.at)
  - date_published: 2024-05-25T00:00:00+00:00
 
  ## Home - Manuel Matuzovic
@@ -3454,7 +3466,7 @@ October 2024 in Singapore
  - tags: ['personal']
 
  ## Home - Med Austron
- - [http://www.medaustron.at](http://www.medaustron.at)
+ - [https://medaustron.at](https://medaustron.at)
  - date_published: 2024-06-20T00:00:00+00:00
 
  ## Promedia Verlag
@@ -3462,11 +3474,11 @@ October 2024 in Singapore
  - date_published: 2024-12-10T17:27:39.008563+00:00
 
  ## Campus Mariannengasse | MedUni Wien
- - [https://www.medunicampus-mariannengasse.at](https://www.medunicampus-mariannengasse.at)
+ - [https://medunicampus-mariannengasse.at](https://medunicampus-mariannengasse.at)
  - date_published: 2024-07-09T20:12:53.450847+00:00
 
  ## Lokalnachrichten aus ganz Österreich auf meinbezirk.at
- - [https://www.meinbezirk.at](https://www.meinbezirk.at)
+ - [https://meinbezirk.at](https://meinbezirk.at)
  - date_published: 2024-07-13T11:27:30.710523+00:00
 
  ## meinereifen.at » Reifen & Händler finden leicht gemacht
@@ -3474,7 +3486,7 @@ October 2024 in Singapore
  - date_published: 2024-10-28T16:20:40.100766+00:00
 
  ## MeineSV
- - [https://www.meinesv.at](https://www.meinesv.at)
+ - [https://meinesv.at](https://meinesv.at)
  - date_published: 2024-07-13T00:00:00+00:00
 
  ## Welcome in MPZ
@@ -3482,7 +3494,7 @@ October 2024 in Singapore
  - date_published: 2024-06-25T22:24:22.404763+00:00
 
  ## Messe Wien Exhibition & Congress Center | Veranstaltungslocation
- - [https://www.messecongress.at](https://www.messecongress.at)
+ - [https://messecongress.at](https://messecongress.at)
  - date_published: 2024-05-29T00:00:00+00:00
 
  ## metalab
@@ -3524,7 +3536,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-09-07T22:19:31.752323+00:00
 
  ## Molindo
- - [http://www.molindo.at](http://www.molindo.at)
+ - [https://molindo.at](https://molindo.at)
  - date_published: 2024-06-20T15:50:22.716304+00:00
 
  ## MOMENT.at
@@ -3532,19 +3544,19 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-10-22T11:32:35.706586+00:00
 
  ## Home | momentum afz
- - [https://www.momentum-afz.at](https://www.momentum-afz.at)
+ - [https://momentum-afz.at](https://momentum-afz.at)
  - date_published: 2024-07-03T01:59:00.655362+00:00
 
  ## Momentum Institut | Momentum Institut
- - [https://www.momentum-institut.at](https://www.momentum-institut.at)
+ - [https://momentum-institut.at](https://momentum-institut.at)
  - date_published: 2024-06-18T15:38:17.582838+00:00
 
  ## Karriere | Jobbörse | Jobs | Jobsuche | Monster.at
- - [https://www.monster.at](https://www.monster.at)
+ - [https://monster.at](https://monster.at)
  - date_published: 2024-06-16T14:03:23.438896+00:00
 
  ## Ihr Anbieter für ganzheitliche Energiekonzepte in Österreich
- - [https://www.moon-power.at](https://www.moon-power.at)
+ - [https://moon-power.at](https://moon-power.at)
  - date_published: 2024-06-28T19:28:06.808145+00:00
 
  ## Moonshiner GmbH
@@ -3556,7 +3568,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-06-10T07:08:46.896920+00:00
 
  ## Distributor für elektronische Bauteile - Mouser Electronics Österreich
- - [https://www.mouser.at](https://www.mouser.at)
+ - [https://mouser.at](https://mouser.at)
  - date_published: 2024-07-01T20:55:48.942273+00:00
 
  ## Unternehmens- & Personalentwicklung I Beratung I Coaching
@@ -3564,7 +3576,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-12-25T12:01:20+00:00
 
  ## MuseumsQuartier Wien
- - [https://www.mqw.at](https://www.mqw.at)
+ - [https://mqw.at](https://mqw.at)
  - date_published: 2024-08-11T14:28:28.347402+00:00
 
  ## esc medien kunst labor | Initiiert und ermöglicht Kunstprojekte, sammelt, verarbeitet und veröffentlicht kulturelle Daten.
@@ -3572,11 +3584,11 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-05-31T19:49:27.394280+00:00
 
  ## lists.mur.at Mailing Lists
- - [http://lists.mur.at](http://lists.mur.at)
+ - [https://lists.mur.at](https://lists.mur.at)
  - date_published: 2019-10-07T00:00:00+00:00
 
  ## Willkommen
- - [https://www.museumsbund.at](https://www.museumsbund.at)
+ - [https://museumsbund.at](https://museumsbund.at)
  - date_published: 2024-09-02T15:48:00.422209+00:00
 
  ## Museum gemeinsam weiterdenken
@@ -3614,6 +3626,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## AmigaOS Merchandising
  - [https://amigaos.myspreadshop.at](https://amigaos.myspreadshop.at)
  - date_published: 2024-07-20T13:16:20.462027+00:00
+ - date_dead_since: 2025-01-06T22:02:28.096674+00:00
 
  ## Mautic Community Swag Shop | Spreadshop
  - [https://mautic-community-swag-shop.myspreadshop.at](https://mautic-community-swag-shop.myspreadshop.at)
@@ -3624,7 +3637,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-07-03T00:00:44.946047+00:00
 
  ## Home - nachhaltigeuniversitaeten.at
- - [http://nachhaltigeuniversitaeten.at](http://nachhaltigeuniversitaeten.at)
+ - [https://nachhaltigeuniversitaeten.at](https://nachhaltigeuniversitaeten.at)
  - date_published: 2024-05-28T00:00:00+00:00
 
  ## OÖNachrichten Digital Days
@@ -3684,7 +3697,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-07-13T11:29:18.989244+00:00
 
  ## OÖNachrichten FORUM
- - [https://www.nachrichtenforum.at](https://www.nachrichtenforum.at)
+ - [https://nachrichtenforum.at](https://nachrichtenforum.at)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Napapijri Offizieller Online Shop
@@ -3692,23 +3705,23 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-12-25T18:30:26.357411+00:00
 
  ## narrenturm.at
- - [http://www.narrenturm.at](http://www.narrenturm.at)
+ - [https://narrenturm.at](https://narrenturm.at)
  - date_published: 2024-06-24T09:47:32.419755+00:00
 
  ## Home - Naturkalender ZAMG
- - [https://www.naturkalender.at](https://www.naturkalender.at)
+ - [https://naturkalender.at](https://naturkalender.at)
  - date_published: 2024-07-08T12:51:54.115355+00:00
 
  ## Viel verbautes Österreich!
- - [https://www.natur-statt-beton.at](https://www.natur-statt-beton.at)
+ - [https://natur-statt-beton.at](https://natur-statt-beton.at)
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## NCM - Ihr Erfolg im Internet! Web Agentur in Salzburg
- - [http://ncm.at](http://ncm.at)
+ - [https://ncm.at](https://ncm.at)
  - date_published: 2024-06-28T18:18:47.477719+00:00
 
  ## NEBA: Home
- - [http://www.neba.at](http://www.neba.at)
+ - [https://neba.at](https://neba.at)
  - date_published: 2024-07-18T08:12:35+00:00
 
  ## Hilfe bei Gewalt | Startseite
@@ -3716,39 +3729,40 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-07-03T01:43:04.778741+00:00
 
  ## Kampagne für ein Lieferkettengesetz in Österreich & in der EU! | NeSoVe
- - [https://www.nesove.at](https://www.nesove.at)
+ - [https://nesove.at](https://nesove.at)
  - date_published: 2024-01-08T00:00:00+00:00
 
  ## NEST: Nest
- - [http://www.nest.at](http://www.nest.at)
+ - [https://nest.at](https://nest.at)
  - date_published: 2024-10-17T18:06:36.466086+00:00
 
  ## Nestlé Österreich - Home
- - [http://www.nestle.at](http://www.nestle.at)
+ - [https://www.nestle.at](https://www.nestle.at)
  - date_published: 2024-09-14T22:40:14+00:00
 
  ## netzeffekt | Digitalagentur für messbare Erfolge
- - [https://www.netzeffekt.at](https://www.netzeffekt.at)
+ - [https://netzeffekt.at](https://netzeffekt.at)
  - date_published: 2024-06-25T18:53:59.112452+00:00
 
  ## Home - RTR-NetTest
- - [http://www.netztest.at](http://www.netztest.at)
+ - [https://netztest.at](https://netztest.at)
  - date_published: 2024-01-08T09:17:07+00:00
 
  ## Netzwerk BGF Betriebliche Gesundheitsförderung
- - [https://www.netzwerk-bgf.at](https://www.netzwerk-bgf.at)
+ - [https://netzwerk-bgf.at](https://netzwerk-bgf.at)
  - date_published: 2024-08-06T00:00:00+00:00
 
  ## IOAM
  - [https://data-1c70f16ae2.newsflix.at](https://data-1c70f16ae2.newsflix.at)
  - date_published: 2024-01-17T09:13:53+00:00
+ - date_dead_since: 2025-01-06T22:06:59.980589+00:00
 
  ## Newsflix
  - [https://newsflix.at](https://newsflix.at)
  - date_published: 2024-05-11T07:10:23.862769+00:00
 
  ## Offizielle Nintendo-Webseite für Österreich
- - [https://www.nintendo.at](https://www.nintendo.at)
+ - [https://nintendo.at](https://nintendo.at)
  - date_published: 2024-05-06T15:46:35.192251+00:00
 
  ## Noctua.at - Premium cooling components designed in Austria
@@ -3756,15 +3770,15 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-05-11T11:40:49.599274+00:00
 
  ## frontpage - NÖN.at
- - [http://www.noen.at](http://www.noen.at)
+ - [https://noen.at](https://noen.at)
  - date_published: 2024-07-20T15:05:08+00:00
 
  ## Noosh - home
- - [https://www.noosh.at](https://www.noosh.at)
+ - [https://noosh.at](https://noosh.at)
  - date_published: 2024-07-10T09:21:45.322237+00:00
 
  ## Home | THQ Nordic GmbH
- - [https://www.nordicgames.at](https://www.nordicgames.at)
+ - [http://nordicgames.at](http://nordicgames.at)
  - date_published: 2024-07-11T17:08:01+00:00
 
  ## njump - the nostr static gateway
@@ -3797,15 +3811,15 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2023-10-25T11:52:53.837734+00:00
 
  ## OBI Baumarkt & Online-Shop - alles für Heim, Haus, Garten und Bau
- - [https://www.obi.at](https://www.obi.at)
+ - [https://obi.at](https://obi.at)
  - date_published: 2024-07-18T00:00:00+00:00
 
  ## ICDCS 2018 – 38th IEEE International Conference on Distributed Computing Systems, July 2 – 5, 2018, Vienna, Austria
- - [http://icdcs2018.ocg.at](http://icdcs2018.ocg.at)
+ - [https://icdcs2018.ocg.at](https://icdcs2018.ocg.at)
  - date_published: 2024-06-22T09:22:48.552813+00:00
 
  ## Ö3-Jugendstudie
- - [https://www.oe3jugendstudie.at](https://www.oe3jugendstudie.at)
+ - [https://oe3jugendstudie.at](https://oe3jugendstudie.at)
  - date_published: 2024-10-22T12:13:31.606468+00:00
 
  ## OeAD-GmbH — Agentur für Bildung und Internationalisierung
@@ -3813,7 +3827,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## Willkommen | ÖAMTC
- - [https://www.oeamtc.at](https://www.oeamtc.at)
+ - [https://oeamtc.at](https://oeamtc.at)
  - date_published: 2024-09-13T16:22:03.439436+00:00
 
  ## ÖBB
@@ -3845,19 +3859,19 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-07-14T10:08:04.905184+00:00
 
  ## Faustball Austria - Faustball in Österreich - ÖFBB
- - [https://www.oefbb.at](https://www.oefbb.at)
+ - [https://oefbb.at](https://oefbb.at)
  - date_published: 2024-10-22T12:14:31.914151+00:00
 
  ## Logfile Upload
- - [http://iaru.oevsv.at](http://iaru.oevsv.at)
+ - [https://iaru.oevsv.at](https://iaru.oevsv.at)
  - date_published: 2024-07-15T04:11:36.761886+00:00
 
  ## Home - OHB Digital Solutions
- - [https://www.ohb-digital.at](https://www.ohb-digital.at)
+ - [https://ohb-digital.at](https://ohb-digital.at)
  - date_published: 2024-01-16T00:00:00+00:00
 
  ## Österreichisches Institut für angewandte Telekommunikation
- - [http://www.oiat.at](http://www.oiat.at)
+ - [https://oiat.at](https://oiat.at)
  - date_published: 2024-07-02T22:20:10.082223+00:00
 
  ## OMV in Österreich | OMV.at
@@ -3865,7 +3879,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-04-02T00:00:00+00:00
 
  ## Peloton® | Workouts Streamen, Live & On-Demand
- - [https://www.onepeloton.at](https://www.onepeloton.at)
+ - [https://onepeloton.at](https://onepeloton.at)
  - date_published: 2024-03-20T00:00:00+00:00
 
  ## OÖNow Radio | Startseite
@@ -3873,15 +3887,15 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-07-13T11:29:05.990352+00:00
 
  ## Home - OÖVV Der Verkehrsverbund
- - [https://www.ooevv.at](https://www.ooevv.at)
+ - [https://ooevv.at](https://ooevv.at)
  - date_published: 2024-07-14T23:12:26.971331+00:00
 
  ## Opel Österreich | Neue Fahrzeuge und Angebote
- - [https://www.opel.at](https://www.opel.at)
+ - [https://opel.at](https://opel.at)
  - date_published: 2024-07-11T07:55:39+00:00
 
  ## Parlamentspodcast Offen gesagt: Brauchen wir mehr Transparenz?
- - [https://www.open3.at](https://www.open3.at)
+ - [https://open3.at](https://open3.at)
  - date_published: 2024-09-13T16:20:52.576708+00:00
 
  ## Open Doors - Home
@@ -3889,7 +3903,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-05-08T11:13:15.579833+00:00
 
  ## Homepage - Brillenmode und Kontaktlinsen
- - [http://www.optiker.at](http://www.optiker.at)
+ - [https://optiker.at](https://optiker.at)
  - date_published: 2024-04-25T00:00:00+00:00
 
  ## ORF ON
@@ -3901,7 +3915,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-10-22T12:16:42.207059+00:00
 
  ## - der.ORF.at
- - [http://backstage.orf.at](http://backstage.orf.at)
+ - [https://backstage.orf.at](https://backstage.orf.at)
  - date_published: 2024-10-22T11:25:39.372905+00:00
 
  ## burgenland.ORF.at
@@ -3915,6 +3929,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## IOAM
  - [https://data-d6e13c60e8.orf.at](https://data-d6e13c60e8.orf.at)
  - date_published: 2024-01-17T09:13:53+00:00
+ - date_dead_since: 2025-01-06T22:12:12.660174+00:00
 
  ## debatte.ORF.at
  - [https://debatte.orf.at](https://debatte.orf.at)
@@ -3949,7 +3964,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-06-18T15:41:16.699407+00:00
 
  ## Jobs im ORF - für dich und mich und alle - der.ORF.at
- - [http://jobs.orf.at](http://jobs.orf.at)
+ - [https://jobs.orf.at](https://jobs.orf.at)
  - date_published: 2024-10-22T11:25:53.811488+00:00
 
  ## kaernten.ORF.at
@@ -3961,7 +3976,7 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-10-22T11:26:10.066275+00:00
 
  ## Kundendienst-Startseite - der.ORF.at
- - [http://kundendienst.orf.at](http://kundendienst.orf.at)
+ - [https://kundendienst.orf.at](https://kundendienst.orf.at)
  - date_published: 2024-10-22T11:26:11.326909+00:00
 
  ## Licht ins Dunkel - lichtinsdunkel.ORF.at
@@ -3969,11 +3984,11 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-06-18T15:41:30.006385+00:00
 
  ## ORF Medienforschung - der.ORF.at
- - [http://medienforschung.orf.at](http://medienforschung.orf.at)
+ - [https://medienforschung.orf.at](https://medienforschung.orf.at)
  - date_published: 2024-10-22T11:26:24.620622+00:00
 
  ## musikprotokoll
- - [http://musikprotokoll.orf.at](http://musikprotokoll.orf.at)
+ - [https://musikprotokoll.orf.at](https://musikprotokoll.orf.at)
  - date_published: 2024-10-22T11:26:05.102898+00:00
 
  ## Muttererde - muttererde.ORF.at
@@ -4015,8 +4030,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## ORF ON
  - [https://on.orf.at](https://on.orf.at)
  - date_published: 2024-06-18T15:37:45.324610+00:00
-
- ## ooe.ORF.at
- - [https://ooe.orf.at](https://ooe.orf.at)
- - date_published: 2024-10-22T11:27:53.195624+00:00
 

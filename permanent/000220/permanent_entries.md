@@ -1,3 +1,63 @@
+ ## Goblin King Games
+ - [https://maracas-gold-9c9j.squarespace.com](https://maracas-gold-9c9j.squarespace.com)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Steven Levy
+ - [https://maracas-lettuce-k4gx.squarespace.com](https://maracas-lettuce-k4gx.squarespace.com)
+ - date_published: 2024-07-11T16:14:06.554576+00:00
+
+ ## Marge Piercy
+ - [https://marge-piercy.squarespace.com](https://marge-piercy.squarespace.com)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## KUNR Business Support
+ - [https://marigold-chimes-wf2a.squarespace.com](https://marigold-chimes-wf2a.squarespace.com)
+ - date_published: 2024-07-07T05:16:32.981420+00:00
+
+ ## Snarling Badger Studios
+ - [https://marigold-kumquat-gdc6.squarespace.com](https://marigold-kumquat-gdc6.squarespace.com)
+ - date_published: 2024-05-08T13:23:17.409485+00:00
+
+ ## Beach Chalet - San Francisco's Best Ocean View Restaurant and Brewery.
+ - [https://marketing-manager-i3z2.squarespace.com](https://marketing-manager-i3z2.squarespace.com)
+ - date_published: 2024-06-24T05:23:52.148950+00:00
+
+ ## Blog - Get Everything Done
+ - [http://markforster.squarespace.com](http://markforster.squarespace.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## MIT Digital Currency Initiative
+ - [https://mark-weber-rmlj.squarespace.com](https://mark-weber-rmlj.squarespace.com)
+ - date_published: 2024-06-22T11:08:09.703167+00:00
+
+ ## PJCC
+ - [https://marlin-begonia-kthj.squarespace.com](https://marlin-begonia-kthj.squarespace.com)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Miles Hermann
+ - [https://marlin-endive-j2m5.squarespace.com](https://marlin-endive-j2m5.squarespace.com)
+ - date_published: 2024-07-08T10:46:29.220801+00:00
+
+ ## Basic Apple Guy
+ - [https://marlin-giraffe-w59l.squarespace.com](https://marlin-giraffe-w59l.squarespace.com)
+ - date_published: 2024-08-19T17:43:12.003639+00:00
+
+ ## De-Dollarization Facts: Up-To-Date Facts About The U.S. Dollar In The World
+ - [https://marlin-lavender-5sx9.squarespace.com](https://marlin-lavender-5sx9.squarespace.com)
+ - date_published: 2024-08-18T19:54:26.856405+00:00
+
+ ## Product Leaders
+ - [https://marlin-minnow-k38e.squarespace.com](https://marlin-minnow-k38e.squarespace.com)
+ - date_published: 2024-06-09T20:48:00.092978+00:00
+
+ ## Felix Stocker
+ - [https://marsilius-1999.squarespace.com](https://marsilius-1999.squarespace.com)
+ - date_published: 2024-07-28T00:00:00+00:00
+
+ ## Spark Innovation – Martin Ferfers
+ - [https://martin-ferfers-af6j.squarespace.com](https://martin-ferfers-af6j.squarespace.com)
+ - date_published: 2024-04-29T06:45:00.076018+00:00
+
  ## Halcyon Maps
  - [https://martin-vargic.squarespace.com](https://martin-vargic.squarespace.com)
  - date_published: 2024-07-19T04:11:02.811601+00:00
@@ -3619,7 +3679,7 @@
  - date_published: 2024-07-04T17:19:24.627227+00:00
 
  ## Scholar Science Journals: A Gateway to Global Health Research
- - [http://www.ssjournals.com](http://www.ssjournals.com)
+ - [https://ssjournals.com](https://ssjournals.com)
  - date_published: 2024-10-29T08:43:11+00:00
 
  ## 総合スポーツ用品のSSK
@@ -3953,65 +4013,4 @@
  ## Stack Docs
  - [https://docs.stack-auth.com](https://docs.stack-auth.com)
  - date_published: 2024-05-20T02:48:26.073144+00:00
-
- ## Stack
- - [https://stack-auth.com](https://stack-auth.com)
- - date_published: 2024-04-14T18:32:14.319309+00:00
- - tags: ['node.js', 'user authentication', 'javascript library']
-
- ## About StackAuth - Stack Auth
- - [https://stackauth.com](https://stackauth.com)
- - date_published: 2024-04-29T03:17:46.142677+00:00
-
- ## Stackbear
- - [https://stackbear.com](https://stackbear.com)
- - date_published: 2024-06-14T08:51:40.928279+00:00
-
- ## Stackbear
- - [https://widget.stackbear.com](https://widget.stackbear.com)
- - date_published: 2024-09-13T20:30:32.812238+00:00
-
- ## Netlify Create
- - [https://app.stackbit.com](https://app.stackbit.com)
- - date_published: 2024-07-14T08:06:45.341162+00:00
-
- ## Stackbit: The Visual Editor for Composable Websites
- - [https://stackbit.com](https://stackbit.com)
- - date_published: 2024-07-02T18:44:42.561354+00:00
-
- ## StackBlitz Blog
- - [https://blog.stackblitz.com](https://blog.stackblitz.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## StackBlitz Docs
- - [https://developers.stackblitz.com](https://developers.stackblitz.com)
- - date_published: 2024-06-23T16:18:31.890073+00:00
-
- ## StackBlitz Docs
- - [https://developer.stackblitz.com](https://developer.stackblitz.com)
- - date_published: 2024-05-06T14:48:12.479625+00:00
-
- ## StackBlitz | Instant Dev Environments | Click. Code. Done.
- - [https://services.stackblitz.com](https://services.stackblitz.com)
- - date_published: 2024-09-04T01:55:49.742938+00:00
-
- ## StackBlitz | Instant Dev Environments | Click. Code. Done.
- - [https://stackblitz.com](https://stackblitz.com)
- - date_published: 2024-04-28T02:37:18.611008+00:00
-
- ## Your Mindful Browser | Stack
- - [https://stackbrowser.com](https://stackbrowser.com)
- - date_published: 2024-06-16T09:49:48.301076+00:00
-
- ## Stack Builders - Software Consultancy company
- - [https://stackbuilders.com](https://stackbuilders.com)
- - date_published: 2023-12-27T22:37:04.603102+00:00
-
- ## StackCommerce Insider - Peek Inside the World of Native Commerce
- - [https://blog.stackcommerce.com](https://blog.stackcommerce.com)
- - date_published: 2024-09-26T11:17:10.269666+00:00
-
- ## StackCommerce - Partners
- - [https://cdn.stackcommerce.com](https://cdn.stackcommerce.com)
- - date_published: 2024-09-26T11:16:34.096146+00:00
 

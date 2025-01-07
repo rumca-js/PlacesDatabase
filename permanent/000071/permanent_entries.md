@@ -1,3 +1,16 @@
+ ## JLOUIS Ramblings
+ - [https://jlouisramblings.blogspot.com](https://jlouisramblings.blogspot.com)
+ - date_published: 2024-02-20T19:40:51.773282+00:00
+ - tags: ['personal']
+
+ ## JLPmaquetas
+ - [http://jlpmaquetas.blogspot.com](http://jlpmaquetas.blogspot.com)
+ - date_published: 2024-11-08T15:19:11+00:00
+
+ ## J's Miniature Civil War
+ - [http://jmartin1.blogspot.com](http://jmartin1.blogspot.com)
+ - date_published: 2024-10-07T06:04:28+00:00
+
  ## J.M. DeMatteis's CREATION POINT
  - [http://jmdematteis.blogspot.com](http://jmdematteis.blogspot.com)
  - date_published: 2024-12-19T10:58:05.891394+00:00
@@ -1070,7 +1083,7 @@
  - date_published: 2024-10-17T02:19:54+00:00
 
  ## kate rothwell
- - [http://katerothwell.blogspot.com](http://katerothwell.blogspot.com)
+ - [https://katerothwell.blogspot.com](https://katerothwell.blogspot.com)
  - date_published: 2024-10-29T01:59:06+00:00
 
  ## Kate's American Life
@@ -3039,7 +3052,7 @@
  - date_published: 2024-10-09T14:13:22+00:00
 
  ## lefthandpalm
- - [http://lefthandpalm.blogspot.com](http://lefthandpalm.blogspot.com)
+ - [https://lefthandpalm.blogspot.com](https://lefthandpalm.blogspot.com)
  - date_published: 2024-10-29T08:43:54+00:00
 
  ## Left I on the News
@@ -3995,16 +4008,4 @@
  ## Lithyscaphe
  - [https://lithyscaphe.blogspot.com](https://lithyscaphe.blogspot.com)
  - date_published: 2024-10-05T02:03:47+00:00
-
- ## Literature Reviews: A Blog for the Exasperated
- - [https://litreviewsfortheexasperated.blogspot.com](https://litreviewsfortheexasperated.blogspot.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## My 40k stuff
- - [http://littlbitz.blogspot.com](http://littlbitz.blogspot.com)
- - date_published: 2024-03-13T09:08:16+00:00
-
- ## Little Big Wars
- - [http://littlebigwars.blogspot.com](http://littlebigwars.blogspot.com)
- - date_published: 2024-03-06T03:06:10+00:00
 

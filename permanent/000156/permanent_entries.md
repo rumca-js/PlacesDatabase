@@ -1,3 +1,55 @@
+ ## Last Week in AWS Store
+ - [https://store.lastweekinaws.com](https://store.lastweekinaws.com)
+ - date_published: 2024-05-04T11:58:20.822061+00:00
+
+ ## The Last Word On Nothing | "Science says the first word on everything, and the last word on nothing"  - Victor Hugo
+ - [https://www.lastwordonnothing.com](https://www.lastwordonnothing.com)
+ - date_published: 2023-10-25T15:42:16.452959+00:00
+
+ ## La Sueur - La Sueur
+ - [https://podcast.lasueur.com](https://podcast.lasueur.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Las Vegas Herald | Source for Las Vegas, U.S. & Global News
+ - [http://www.lasvegasherald.com](http://www.lasvegasherald.com)
+ - date_published: 2024-07-13T22:48:56.354037+00:00
+
+ ## Homepage - Las Vegas Lights FC
+ - [https://www.lasvegaslightsfc.com](https://www.lasvegaslightsfc.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Las Vegas Magazine
+ - [https://lasvegasmagazine.com](https://lasvegasmagazine.com)
+ - date_published: 2024-05-08T12:20:08.959973+00:00
+
+ ## Home - Sunshield Awning Co.
+ - [http://www.lasvegaspatiocovers.com](http://www.lasvegaspatiocovers.com)
+ - date_published: 2024-11-16T21:38:31.447044+00:00
+
+ ## Las Vegas Sun
+ - [https://lasvegassun.com](https://lasvegassun.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Las Vegas Sun
+ - [https://m.lasvegassun.com](https://m.lasvegassun.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Vegas Inc
+ - [https://vegasinc.lasvegassun.com](https://vegasinc.lasvegassun.com)
+ - date_published: 2024-05-08T12:20:02.693738+00:00
+
+ ## Las Vegas Weekly
+ - [https://lasvegasweekly.com](https://lasvegasweekly.com)
+ - date_published: 2024-05-08T12:19:52.230392+00:00
+
+ ## Accueil | Les traiteurs de La Table De Cana
+ - [https://latabledecana.com](https://latabledecana.com)
+ - date_published: 2024-12-30T22:13:03.579875+00:00
+
+ ## L.A. Taco - Celebrating The Taco Lifestyle in Los Angeles
+ - [https://lataco.com](https://lataco.com)
+ - date_published: 2024-06-15T21:10:32.523219+00:00
+
  ## L.A. Taco - Celebrating The Taco Lifestyle in Los Angeles
  - [https://lede-admin.lataco.com](https://lede-admin.lataco.com)
  - date_published: 2024-09-19T19:42:04.289730+00:00
@@ -2105,7 +2157,8 @@ Chamber Music, Symphony
 
  ## Regina Leader-Post | Classifieds
  - [https://classifieds.leaderpost.com](https://classifieds.leaderpost.com)
- - date_published: 2024-10-29T04:13:11.674978+00:00
+ - date_published: 2024-09-12T07:03:34+00:00
+ - date_dead_since: 2025-01-06T14:53:37.498086+00:00
 
  ## Leader-Post ePaper
  - [http://epaper.leaderpost.com](http://epaper.leaderpost.com)
@@ -3982,56 +4035,4 @@ LearnWorlds
  ## A Uniform System of Citation.
  - [https://www.legalbluebook.com](https://www.legalbluebook.com)
  - date_published: 2024-03-16T00:00:00+00:00
-
- ## News for In-House Counsel at Corporations | Legal Dive
- - [https://legaldive.com](https://legaldive.com)
- - date_published: 2024-05-07T10:05:09.650764+00:00
-
- ## LegalDockets.com-Federal Court Docket Search
- - [http://www.legaldockets.com](http://www.legaldockets.com)
- - date_published: 2024-07-13T10:29:28.416733+00:00
-
- ## Instantly Interpret Free: Legalese Decoder - AI Lawyer Translate Legal Docs To Plain English
- - [https://legalesedecoder.com](https://legalesedecoder.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Abuse Guardian Legal News | A Legal Examiner Affiliate
- - [https://abuseguardian.legalexaminer.com](https://abuseguardian.legalexaminer.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## The Legal Examiner Affiliate Network
- - [https://affiliates.legalexaminer.com](https://affiliates.legalexaminer.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Atlanta Injury Law News | A Legal Examiner Affiliate
- - [https://atlanta.legalexaminer.com](https://atlanta.legalexaminer.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Detroit Personal Injury Lawyer | A Legal Examiner Affiliate
- - [https://detroit.legalexaminer.com](https://detroit.legalexaminer.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## The Disability Guys Legal Examiner | A Legal Examiner Affiliate
- - [https://injurybenefits.legalexaminer.com](https://injurybenefits.legalexaminer.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Legal News by Jason D. Lazarus, Esq. | A Legal Examiner Affiliate
- - [https://jasondlazarusesq.legalexaminer.com](https://jasondlazarusesq.legalexaminer.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Lansing Injury Law News | A Legal Examiner Affiliate
- - [https://lansing.legalexaminer.com](https://lansing.legalexaminer.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Content Marketing for Lawyers
- - [https://marketing.legalexaminer.com](https://marketing.legalexaminer.com)
- - date_published: 2024-05-04T12:13:36.680329+00:00
-
- ## New Orleans Injury Law News | A Legal Examiner Affiliate
- - [https://neworleans.legalexaminer.com](https://neworleans.legalexaminer.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## New York Injury Law News | A Legal Examiner Affiliate
- - [https://newyork.legalexaminer.com](https://newyork.legalexaminer.com)
- - date_published: 2024-02-23T00:00:00+00:00
 

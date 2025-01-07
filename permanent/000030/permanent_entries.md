@@ -1,3 +1,7 @@
+ ## 中国金融期货交易所
+ - [http://www.cffex.com.cn](http://www.cffex.com.cn)
+ - date_published: 2024-06-26T00:00:00+00:00
+
  ## CFORCE - 官方网站
  - [http://cforce.com.cn](http://cforce.com.cn)
  - date_published: 2024-05-11T11:40:00.052294+00:00
@@ -1701,7 +1705,7 @@ _中国网
  - date_published: 2024-06-30T17:15:33.752540+00:00
 
  ## 万豪旅享家酒店 | 直接预订 & 获取专享价格
- - [https://www.marriott.com.cn](https://www.marriott.com.cn)
+ - [https://marriott.com.cn](https://marriott.com.cn)
  - date_published: 2024-10-29T07:02:13.242217+00:00
 
  ## Maserati-玛莎拉蒂中国官网丨生而无界,定义意式态度先锋
@@ -2427,7 +2431,7 @@ _中国网
  - date_published: 2024-06-29T12:39:58+00:00
 
  ## 深信服 - 让每个用户的数字化更简单、更安全-深信服
- - [https://www.sangfor.com.cn](https://www.sangfor.com.cn)
+ - [https://sangfor.com.cn](https://sangfor.com.cn)
  - date_published: 2024-10-29T07:33:43.307720+00:00
 
  ## Bioprocess, Lab Equipment & Supplies Online | Sartorius eShop
@@ -2647,7 +2651,7 @@ _中国网
  - date_published: 2024-07-07T09:03:17.941531+00:00
 
  ## SK-II 中国官网 | 汇聚美白护肤产品 - 让肌肤更晶莹剔透
- - [https://www.skii.com.cn](https://www.skii.com.cn)
+ - [https://skii.com.cn](https://skii.com.cn)
  - date_published: 2024-10-29T06:35:23.410572+00:00
 
  ## 全国重点实验室--人民网
@@ -4001,8 +4005,4 @@ _中国网
  ## 合肥工业大学财务处
  - [http://cwc.hfut.edu.cn](http://cwc.hfut.edu.cn)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## 本科生院创新创业教育处
- - [http://cxcyc.hfut.edu.cn](http://cxcyc.hfut.edu.cn)
- - date_published: 2024-07-11T03:24:40+00:00
 

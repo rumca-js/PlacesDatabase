@@ -1,3 +1,15 @@
+ ## Cape Cod Bike Guide: Essential Guide To Bicycling On The Cape
+ - [https://capecodbikeguide.com](https://capecodbikeguide.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Entertainment - Hyannis, MA | Cape Cod Times
+ - [http://www.capecodonline.com](http://www.capecodonline.com)
+ - date_published: 2025-01-01T11:19:21.326857+00:00
+
+ ## Cape Cod Times: Local News, Politics & Sports in Hyannis, MA
+ - [https://www.capecodtimes.com](https://www.capecodtimes.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
  ## Cape Cod Today - Discover Cape Cod Massachusetts
  - [http://www.capecodtoday.com](http://www.capecodtoday.com)
  - date_published: 2025-01-01T11:21:10.156228+00:00
@@ -196,6 +208,10 @@
  ## Capitalism - Create the Change
  - [http://capitalism.com](http://capitalism.com)
  - date_published: 2024-12-11T18:00:11+00:00
+
+ ## Capitalism Lab – World's #1 Business Simulation Game
+ - [https://www.capitalismlab.com](https://www.capitalismlab.com)
+ - date_published: 2025-01-06T05:18:08+00:00
 
  ## Capitalism Magazine
  - [http://capitalismmagazine.com](http://capitalismmagazine.com)
@@ -2417,7 +2433,7 @@
  - date_published: 2017-10-08T00:00:00+00:00
 
  ## Carpet Installers | Carpet Repair | Custom Rugs | Carpet Runners | Carpet Company | Carpet Installers | Carpet Removal
- - [https://www.carpet-installers.com](https://www.carpet-installers.com)
+ - [https://carpet-installers.com](https://carpet-installers.com)
  - date_published: 2024-10-28T23:13:08.638030+00:00
 
  ## Carpet Majesty -
@@ -3724,7 +3740,7 @@
  - tags: ['video game engine', 'open source']
 
  ## castaliahouse.com
- - [http://www.castaliahouse.com](http://www.castaliahouse.com)
+ - [http://castaliahouse.com](http://castaliahouse.com)
  - date_published: 2024-10-29T02:56:27.617671+00:00
 
  ## Castanet Kelowna Automall
@@ -4009,20 +4025,4 @@
  ## Catalent 中国
  - [http://china.catalent.com](http://china.catalent.com)
  - date_published: 2024-07-26T00:00:00+00:00
-
- ## Home
- - [https://clinical.catalent.com](https://clinical.catalent.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Consumer Health CDMO | Catalent Consumer Health
- - [https://consumerhealth.catalent.com](https://consumerhealth.catalent.com)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Citrix Gateway
- - [https://fusion.catalent.com](https://fusion.catalent.com)
- - date_published: 2024-09-20T03:00:01+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investor.catalent.com](https://investor.catalent.com)
- - date_published: 2024-10-16T18:43:05.323622+00:00
 

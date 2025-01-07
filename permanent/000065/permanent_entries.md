@@ -1,3 +1,15 @@
+ ## Antro Della Strega
+ - [https://antrodellastrega2.blogspot.com](https://antrodellastrega2.blogspot.com)
+ - date_published: 2024-09-01T22:54:00+00:00
+
+ ## L' ANTRO DELLO SHAMANO
+ - [https://antrodelloshamano.blogspot.com](https://antrodelloshamano.blogspot.com)
+ - date_published: 2024-12-06T11:16:14+00:00
+
+ ## Antysocjal bis
+ - [http://antysocjalbis.blogspot.com](http://antysocjalbis.blogspot.com)
+ - date_published: 2024-11-01T07:53:44+00:00
+
  ## An Urban Rambler
  - [http://anurbanrambler.blogspot.com](http://anurbanrambler.blogspot.com)
  - date_published: 2024-03-05T10:26:10+00:00
@@ -2234,7 +2246,7 @@
  - date_published: 2024-10-21T14:26:57.978402+00:00
 
  ## [BB-Blog]
- - [http://bblinks.blogspot.com](http://bblinks.blogspot.com)
+ - [https://bblinks.blogspot.com](https://bblinks.blogspot.com)
  - date_published: 2024-10-29T08:41:51+00:00
 
  ## Brilliant at Breakfast Rebooted
@@ -3998,16 +4010,4 @@
  ## O My Ruritania!
  - [http://bogdanwaz.blogspot.com](http://bogdanwaz.blogspot.com)
  - date_published: 2024-07-15T11:00:51+00:00
-
- ## BoghieOnYourSix
- - [http://boghieonyoursix.blogspot.com](http://boghieonyoursix.blogspot.com)
- - date_published: 2024-10-07T05:44:19+00:00
-
- ## mystique of the proletariat
- - [http://bogong-moth.blogspot.com](http://bogong-moth.blogspot.com)
- - date_published: 2024-11-01T10:35:19+00:00
-
- ## Boisterous Exuberance
- - [https://boisterous-exuberance.blogspot.com](https://boisterous-exuberance.blogspot.com)
- - date_published: 2024-07-05T21:13:52+00:00
 

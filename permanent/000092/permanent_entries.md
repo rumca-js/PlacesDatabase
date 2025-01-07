@@ -1,3 +1,19 @@
+ ## Cox Media Group Local Solutions
+ - [https://cmglocalsolutions.com](https://cmglocalsolutions.com)
+ - date_published: 2023-11-13T21:56:54.029619+00:00
+
+ ## atomic14
+ - [https://cmgresearch.com](https://cmgresearch.com)
+ - date_published: 2024-07-28T17:44:54+00:00
+
+ ## Build Customer Relationships That Matter | Marigold
+ - [https://cmgroup.com](https://cmgroup.com)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Who we are | Concurrency Deep Dives
+ - [https://cmhteixeira.com](https://cmhteixeira.com)
+ - date_published: 2024-01-08T23:56:08.591916+00:00
+
  ## Central Michigan University Press
  - [https://cmichpress.com](https://cmichpress.com)
  - date_published: 2024-07-09T14:29:56.016214+00:00
@@ -4023,20 +4039,4 @@
  ## Coin News: Latest News on Coins and Bitcoin News, Just in Crypto News
  - [https://en.coinotag.com](https://en.coinotag.com)
  - date_published: 2024-06-15T18:53:51.233607+00:00
-
- ## Coinpaper.com - Information is the asset - Coinpaper
- - [https://coinpaper.com](https://coinpaper.com)
- - date_published: 2023-10-25T13:30:03.297371+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://res.coinpaper.com](https://res.coinpaper.com)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## coinpaprika.com
- - [https://blog.coinpaprika.com](https://blog.coinpaprika.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Cryptocurrency Research Platform | Coin Market Capitalizations | Top 100 Cryptocurrencies | Coinpaprika
- - [https://coinpaprika.com](https://coinpaprika.com)
- - date_published: 2024-05-07T00:00:00+00:00
 

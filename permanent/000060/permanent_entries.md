@@ -1,3 +1,7 @@
+ ## BAYFOLIO : Mutual Fund Investment Services
+ - [https://bayfolio.com](https://bayfolio.com)
+ - date_published: 2024-05-30T08:55:18+00:00
+
  ## Bayfront Chocolates
  - [http://bayfrontchocolates.com](http://bayfrontchocolates.com)
  - date_published: 2024-12-21T22:07:28.346262+00:00
@@ -2018,7 +2022,7 @@
  - date_published: 2024-09-14T20:18:51+00:00
 
  ## Captain Beefheart Radar Station – Captain Beefheart / Don Van Vliet fan site
- - [http://www.beefheart.com](http://www.beefheart.com)
+ - [https://beefheart.com](https://beefheart.com)
  - date_published: 2024-10-29T09:27:01+00:00
 
  ## Beef - It's What's For Dinner
@@ -4007,9 +4011,4 @@
  ## Benchrest Central
  - [http://benchrest.com](http://benchrest.com)
  - date_published: 2024-07-03T23:58:10.962663+00:00
-
- ## Ben Christel’s Homepage
- - [https://benchristel.com](https://benchristel.com)
- - date_published: 2024-09-29T20:03:49.454968+00:00
- - tags: ['personal']
 

@@ -1,3 +1,19 @@
+ ## Standing Small
+ - [http://standing-small.blogspot.com](http://standing-small.blogspot.com)
+ - date_published: 2024-07-04T05:50:21+00:00
+
+ ## Didcot Wargames Club
+ - [http://standwargaming.blogspot.com](http://standwargaming.blogspot.com)
+ - date_published: 2024-06-17T08:07:10+00:00
+
+ ## Stan Erickson's Alien Civilization Blog
+ - [http://stanericksonsblog.blogspot.com](http://stanericksonsblog.blogspot.com)
+ - date_published: 2024-07-28T18:13:28+00:00
+
+ ## Heretic
+ - [https://stan-heretic.blogspot.com](https://stan-heretic.blogspot.com)
+ - date_published: 2024-10-15T07:28:10+00:00
+
  ## STANLEY STORIES
  - [http://stanleystories.blogspot.com](http://stanleystories.blogspot.com)
  - date_published: 2024-12-10T22:50:51+00:00
@@ -244,7 +260,7 @@
  - date_published: 2024-07-04T05:43:19+00:00
 
  ## SteveAudio
- - [http://steveaudio.blogspot.com](http://steveaudio.blogspot.com)
+ - [https://steveaudio.blogspot.com](https://steveaudio.blogspot.com)
  - date_published: 2024-10-29T08:26:16+00:00
 
  ## Steve Does Comics
@@ -3994,20 +4010,4 @@
  ## The Riders of Lohan
  - [http://theridersoflohan.blogspot.com](http://theridersoflohan.blogspot.com)
  - date_published: 2024-09-01T06:38:39+00:00
-
- ## The Right Coast
- - [http://therightcoast.blogspot.com](http://therightcoast.blogspot.com)
- - date_published: 2006-03-30T00:00:00+00:00
-
- ## The Right Guy
- - [http://the-right-guy.blogspot.com](http://the-right-guy.blogspot.com)
- - date_published: 2024-03-14T05:41:58+00:00
-
- ## Counting Rivets
- - [http://therivetcounter.blogspot.com](http://therivetcounter.blogspot.com)
- - date_published: 2024-12-18T11:26:54+00:00
-
- ## Blogger
- - [http://therobertsroost.blogspot.com](http://therobertsroost.blogspot.com)
- - date_published: 2025-01-01T12:28:40.891251+00:00
 

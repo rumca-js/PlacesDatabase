@@ -1,3 +1,39 @@
+ ## Pocket Club Manager Wiki
+ - [https://pocketclubmanager.fandom.com](https://pocketclubmanager.fandom.com)
+ - date_published: 2024-06-17T04:57:47+00:00
+
+ ## Pocoyo Wiki
+ - [https://pocoyoworld.fandom.com](https://pocoyoworld.fandom.com)
+ - date_published: 2024-06-16T22:23:38+00:00
+
+ ## Points of Light Wiki
+ - [https://pointsoflight.fandom.com](https://pointsoflight.fandom.com)
+ - date_published: 2024-06-17T08:57:28+00:00
+
+ ## Pokémon Wiki
+ - [https://pokemon.fandom.com](https://pokemon.fandom.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## PokéFanon
+ - [https://pokemonfanon.fandom.com](https://pokemonfanon.fandom.com)
+ - date_published: 2024-06-17T08:14:42+00:00
+
+ ## Pokémon GO Wiki
+ - [https://pokemongo.fandom.com](https://pokemongo.fandom.com)
+ - date_published: 2024-06-18T18:23:28+00:00
+
+ ## Pokémon Let's Play Wiki
+ - [https://pokemonlp.fandom.com](https://pokemonlp.fandom.com)
+ - date_published: 2024-06-17T16:38:32+00:00
+
+ ## The Polar Express Wiki
+ - [https://polarexpress.fandom.com](https://polarexpress.fandom.com)
+ - date_published: 2024-06-16T23:26:23+00:00
+
+ ## Police Quest Omnipedia
+ - [https://policequest.fandom.com](https://policequest.fandom.com)
+ - date_published: 2024-06-17T19:44:24+00:00
+
  ## Politics and War Wiki
  - [https://politicsandwar.fandom.com](https://politicsandwar.fandom.com)
  - date_published: 2024-05-02T14:48:12.799878+00:00
@@ -91,7 +127,7 @@
  - date_published: 2024-06-17T22:25:07+00:00
 
  ## Pirates of the Caribbean Trilogy Wiki
- - [http://potc-trilogy.fandom.com](http://potc-trilogy.fandom.com)
+ - [https://potc-trilogy.fandom.com](https://potc-trilogy.fandom.com)
  - date_published: 2024-06-17T08:51:47+00:00
 
  ## Phantom of the Opera
@@ -183,8 +219,9 @@
  - date_published: 2024-06-17T10:42:14+00:00
 
  ## KPopp Pregnant Challenge Wiki
- - [https://pregnantchallenge.fandom.com](https://pregnantchallenge.fandom.com)
+ - [http://pregnantchallenge.fandom.com](http://pregnantchallenge.fandom.com)
  - date_published: 2024-06-18T01:29:25+00:00
+ - date_dead_since: 2025-01-06T01:53:27.303282+00:00
 
  ## Prehistoric Kingdom Wiki
  - [https://prehistorickingdom.fandom.com](https://prehistorickingdom.fandom.com)
@@ -287,7 +324,7 @@
  - date_published: 2024-06-17T20:04:38+00:00
 
  ## Programming Database Wiki
- - [https://programming-database.fandom.com](https://programming-database.fandom.com)
+ - [http://programming-database.fandom.com](http://programming-database.fandom.com)
  - date_published: 2024-06-20T20:24:00+00:00
 
  ## AppPedia
@@ -880,8 +917,9 @@
  - date_published: 2024-06-17T08:17:26+00:00
 
  ## RiceGum Wiki
- - [https://rice.fandom.com](https://rice.fandom.com)
+ - [http://rice.fandom.com](http://rice.fandom.com)
  - date_published: 2024-06-17T07:52:49+00:00
+ - date_dead_since: 2025-01-06T02:38:00.432734+00:00
 
  ## Rick and Morty Wiki
  - [https://rickandmorty.fandom.com](https://rickandmorty.fandom.com)
@@ -1248,7 +1286,7 @@
  - date_published: 2024-06-17T19:17:10+00:00
 
  ## Rusty Rivets Wiki
- - [http://rustyrivets.fandom.com](http://rustyrivets.fandom.com)
+ - [https://rustyrivets.fandom.com](https://rustyrivets.fandom.com)
  - date_published: 2024-10-22T08:46:17+00:00
 
  ## Red vs. Blue Wiki
@@ -1548,8 +1586,9 @@
  - date_published: 2024-08-17T02:21:53+00:00
 
  ## Seaweed Wiki
- - [https://seaweed.fandom.com](https://seaweed.fandom.com)
+ - [http://seaweed.fandom.com](http://seaweed.fandom.com)
  - date_published: 2024-06-17T08:39:20+00:00
+ - date_dead_since: 2025-01-06T03:01:51.461486+00:00
 
  ## The Secret Life of the American Teenager
  - [https://secretlife.fandom.com](https://secretlife.fandom.com)
@@ -1652,7 +1691,7 @@
  - date_published: 2024-06-19T01:50:34.864399+00:00
 
  ## Noisy Tenant Wiki
- - [http://seriouslytheworst.fandom.com](http://seriouslytheworst.fandom.com)
+ - [https://seriouslytheworst.fandom.com](https://seriouslytheworst.fandom.com)
  - date_published: 2024-09-02T16:06:32+00:00
 
  ## Serious Sam Wiki
@@ -2220,7 +2259,7 @@
  - date_published: 2024-05-02T14:59:01.620903+00:00
 
  ## SML Fanon Wiki
- - [http://smlfanon.fandom.com](http://smlfanon.fandom.com)
+ - [https://smlfanon.fandom.com](https://smlfanon.fandom.com)
  - date_published: 2024-06-18T01:35:17+00:00
 
  ## SMLYTP Wiki
@@ -2334,6 +2373,7 @@
  ## SomethingElseYT Wiki
  - [https://somethingelseytcomm.fandom.com](https://somethingelseytcomm.fandom.com)
  - date_published: 2024-05-02T14:56:48.300890+00:00
+ - date_dead_since: 2025-01-06T03:25:12.431609+00:00
 
  ## Something Positive Wiki
  - [https://somethingpositive.fandom.com](https://somethingpositive.fandom.com)
@@ -3963,40 +4003,4 @@
  ## The Haunting of Bly Manor Wiki
  - [https://the-haunting.fandom.com](https://the-haunting.fandom.com)
  - date_published: 2024-06-17T09:03:48+00:00
-
- ## The Heiresses Wiki
- - [https://theheiresses.fandom.com](https://theheiresses.fandom.com)
- - date_published: 2024-06-17T01:54:44+00:00
-
- ## The Heroic Quest of the Valiant Prince Ivandoe Wiki
- - [https://the-heroic-quest-of-the-valiant-prince-ivandoe.fandom.com](https://the-heroic-quest-of-the-valiant-prince-ivandoe.fandom.com)
- - date_published: 2024-06-17T13:13:50+00:00
-
- ## The High Fructose Adventures of Annoying Orange Wiki
- - [https://thehighfructoseadventuresofannoyingorange.fandom.com](https://thehighfructoseadventuresofannoyingorange.fandom.com)
- - date_published: 2024-06-17T08:20:47+00:00
-
- ## House of Anubis Wiki
- - [https://the-house-of-anubis.fandom.com](https://the-house-of-anubis.fandom.com)
- - date_published: 2024-06-17T10:26:57+00:00
-
- ## The Wiki of the Dead
- - [https://thehouseofthedead.fandom.com](https://thehouseofthedead.fandom.com)
- - date_published: 2024-06-16T21:37:33+00:00
-
- ## The Hunger Games Wiki
- - [https://thehungergames.fandom.com](https://thehungergames.fandom.com)
- - date_published: 2024-06-17T02:10:58+00:00
-
- ## Hungry Joker Wiki
- - [https://thehungryjoker.fandom.com](https://thehungryjoker.fandom.com)
- - date_published: 2024-10-23T21:04:20+00:00
-
- ## The Hunters Guild Wiki
- - [https://the-hunters-guild.fandom.com](https://the-hunters-guild.fandom.com)
- - date_published: 2024-06-17T08:39:25+00:00
-
- ## The Ichinose Family's Deadly Sins Wiki
- - [https://the-ichinose-familys-deadly-sins.fandom.com](https://the-ichinose-familys-deadly-sins.fandom.com)
- - date_published: 2024-06-17T06:10:11+00:00
 

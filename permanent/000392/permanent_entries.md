@@ -1,3 +1,113 @@
+ ## Simplescraper — Scrape Websites and turn them into APIs
+ - [https://scrape.new](https://scrape.new)
+ - date_published: 2024-08-02T18:03:00.113384+00:00
+
+ ## List an item | eBay
+ - [https://sell.new](https://sell.new)
+ - date_published: 2024-07-12T17:39:48.108283+00:00
+
+ ## Partizion Dashboard
+ - [https://main.session.new](https://main.session.new)
+ - date_published: 2024-09-13T17:47:49+00:00
+
+ ## Google Sheets: Sign-in
+ - [https://sheet.new](https://sheet.new)
+ - date_published: 2024-07-12T17:40:09.163325+00:00
+
+ ## Google Sheets: Sign-in
+ - [https://sheets.new](https://sheets.new)
+ - date_published: 2024-07-12T17:40:00.450311+00:00
+
+ ## Sign in or Register | eBay
+ - [https://shop.new](https://shop.new)
+ - date_published: 2024-07-12T17:41:12.113910+00:00
+
+ ## Google Slides: Sign-in
+ - [https://slide.new](https://slide.new)
+ - date_published: 2024-07-12T17:39:40.216012+00:00
+
+ ## Google Slides: Sign-in
+ - [https://slides.new](https://slides.new)
+ - date_published: 2024-07-12T17:39:56.596716+00:00
+
+ ## Medium
+ - [https://story.new](https://story.new)
+ - date_published: 2024-07-12T17:41:05.372072+00:00
+
+ ## Stripe Login | Sign in to the Stripe Dashboard
+ - [https://subscription.new](https://subscription.new)
+ - date_published: 2024-07-12T17:40:13.076473+00:00
+
+ ## SvelteKit Default Template - StackBlitz
+ - [https://sveltekit.new](https://sveltekit.new)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Do Something .new | A Domain Exclusively for Shortcuts
+ - [https://whats.new](https://whats.new)
+ - date_published: 2024-07-12T17:40:47.817841+00:00
+
+ ## 68k.news: Headlines From the Future
+ - [https://68k.news](https://68k.news)
+ - date_published: 2024-01-09T03:37:29.968899+00:00
+
+ ## 500
+ - [https://i2-prod.aberdeenlive.news](https://i2-prod.aberdeenlive.news)
+ - date_published: 2024-06-17T05:54:53.167279+00:00
+
+ ## Abortions News | Abortions News – Abortion Information
+ - [http://www.abortions.news](http://www.abortions.news)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Coming Soon
+ - [https://pub.adn.news](https://pub.adn.news)
+ - date_published: 2016-01-25T19:53:04+00:00
+
+ ## AEM News
+ - [https://aem.news](https://aem.news)
+ - date_published: 2024-06-20T20:57:39.693544+00:00
+
+ ## Africa Business News | Home to Africa's top business brands
+ - [https://africabusiness.news](https://africabusiness.news)
+ - date_published: 2024-05-04T06:41:34.898810+00:00
+
+ ## AI PANIC  | Nirit Weiss-Blatt | Substack
+ - [https://www.aipanic.news](https://www.aipanic.news)
+ - date_published: 2023-11-18T01:49:17.235532+00:00
+ - tags: ['substack', 'artificial intelligence']
+
+ ## Air Freight News | Air cargo transportation-focused news and report resource for air-based trade and transportation professionals
+ - [https://airfreight.news](https://airfreight.news)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Air Mail
+ - [https://airmail.news](https://airmail.news)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## From the Desk of Alicia Kennedy | Substack
+ - [https://aliciakennedy.news](https://aliciakennedy.news)
+ - date_published: 2023-10-25T20:42:12.893955+00:00
+
+ ## All Arab News | Tracking news and events impacting the Middle East
+ - [https://allarab.news](https://allarab.news)
+ - date_published: 2024-05-01T03:16:28.323770+00:00
+
+ ## alnasr.news
+ - [https://en.alnasr.news](https://en.alnasr.news)
+ - date_published: 2024-01-01T05:28:42.256100+00:00
+
+ ## America, America | Steven Beschloss | Substack
+ - [https://www.americaamerica.news](https://www.americaamerica.news)
+ - date_published: 2024-12-25T18:51:05.054154+00:00
+
+ ## America Out Loud
+ - [https://americaoutloud.news](https://americaoutloud.news)
+ - date_published: 2023-12-26T09:50:17+00:00
+
+ ## Apple News
+ - [https://apple.news](https://apple.news)
+ - date_published: 2024-03-25T16:45:42.150123+00:00
+ - tags: ['news']
+
  ## Arseblog News
  - [https://arseblog.news](https://arseblog.news)
  - date_published: 2024-10-21T13:05:42.204210+00:00
@@ -3035,7 +3145,7 @@
  - date_published: 2024-06-17T12:18:36.106581+00:00
 
  ## Sallands Bakfeest
- - [https://www.bakfeest.nl](https://www.bakfeest.nl)
+ - [https://bakfeest.nl](https://bakfeest.nl)
  - date_published: 2024-10-28T23:38:28.037830+00:00
 
  ## Bakfiets en Meer
@@ -3456,7 +3566,7 @@
  - date_published: 2018-12-06T19:57:00+00:00
 
  ## Religion in American History
- - [http://usreligion.blogspot.nl](http://usreligion.blogspot.nl)
+ - [https://usreligion.blogspot.nl](https://usreligion.blogspot.nl)
  - date_published: 2024-10-29T09:01:22+00:00
 
  ## wargames ramblings
@@ -3919,112 +4029,4 @@
  ## Chefkokweb.nl is de website voor al je kookartikelen
  - [https://chefkokweb.nl](https://chefkokweb.nl)
  - date_published: 2024-09-15T13:05:24+00:00
-
- ## TOP kookproducten 2023 | De beste volgens de Chef
- - [https://chefreview.nl](https://chefreview.nl)
- - date_published: 2022-11-10T00:00:00+00:00
-
- ## Chilit, IT Professionals
- - [https://www.chilit.nl](https://www.chilit.nl)
- - date_published: 2024-06-12T14:27:15+00:00
-
- ## Chocoa | Trade Fair, Conference, Forum and Masterclasses
- - [https://www.chocoa.nl](https://www.chocoa.nl)
- - date_published: 2024-12-21T22:10:02.482791+00:00
-
- ## Christine Alberts . Collection
- - [http://www.christinealberts.nl](http://www.christinealberts.nl)
- - date_published: 2024-07-13T14:31:52.731624+00:00
-
- ## Cinekid - Platform for children’s film and media
- - [http://www.cinekid.nl](http://www.cinekid.nl)
- - date_published: 2024-08-19T17:10:24.728256+00:00
-
- ## Cinema Context  -
- - [http://www.cinemacontext.nl](http://www.cinemacontext.nl)
- - date_published: 2024-08-08T19:38:11.887577+00:00
-
- ## CinePilot | FPV | DRONE | CINEMATIC
- - [https://cinepilot.nl](https://cinepilot.nl)
- - date_published: 2024-06-18T16:09:53.202515+00:00
-
- ## PR-Software, Media Monitoring, Social Media software | Cision
- - [https://www.cision.nl](https://www.cision.nl)
- - date_published: 2024-06-28T02:29:57+00:00
-
- ## Citroën Bedrijfswagens | Businessmodellen | Zakelijk rijden
- - [https://business.citroen.nl](https://business.citroen.nl)
- - date_published: 2024-05-10T04:43:55.093895+00:00
-
- ## Officiële Citroën website | Nieuwe & Tweedehands auto's | Citroën NL
- - [https://carstore.citroen.nl](https://carstore.citroen.nl)
- - date_published: 2024-05-10T04:43:52.399317+00:00
-
- ## Officiële Citroën website | Nieuwe & Tweedehands auto's | Citroën NL
- - [https://citroen.nl](https://citroen.nl)
- - date_published: 2024-05-10T04:43:59.329891+00:00
-
- ## Citroën Betaalplan
- - [https://finance.citroen.nl](https://finance.citroen.nl)
- - date_published: 2024-07-12T06:47:27.578529+00:00
-
- ## CITROËN Lifestyle | CITROËN Official Store
- - [https://lifestyle.citroen.nl](https://lifestyle.citroen.nl)
- - date_published: 2024-05-10T04:43:40.607591+00:00
-
- ## Onderhoud volgens de voorschriften van de fabrikant - Citroen
- - [https://onlineafspraak.citroen.nl](https://onlineafspraak.citroen.nl)
- - date_published: 2024-05-10T04:43:13.952162+00:00
-
- ## Citroën Private Lease | Snel geregeld | Citroën Nederland
- - [https://privatelease.citroen.nl](https://privatelease.citroen.nl)
- - date_published: 2024-05-10T04:43:56.042064+00:00
-
- ## Citroën
- - [https://services-store.citroen.nl](https://services-store.citroen.nl)
- - date_published: 2024-05-10T04:43:12.758452+00:00
-
- ## Direct beschikbare voorraadmodellen | Citroën Nederland
- - [https://voorraad.citroen.nl](https://voorraad.citroen.nl)
- - date_published: 2024-07-12T06:47:25.058030+00:00
-
- ## Citroën Financial Lease
- - [https://zakelijkelease.citroen.nl](https://zakelijkelease.citroen.nl)
- - date_published: 2024-05-10T04:43:48.643920+00:00
-
- ## Citroën Origins
- - [https://citroenorigins.nl](https://citroenorigins.nl)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## Samen komen wij op voor de dieren in de veehouderij
- - [https://www.ciwf.nl](https://www.ciwf.nl)
- - date_published: 2024-10-23T05:42:23.962520+00:00
-
- ## ClassPass | Book Fitness Classes & Salon Appointments
- - [https://classpass.nl](https://classpass.nl)
- - date_published: 2024-07-13T02:25:02.935809+00:00
-
- ## Climategate Klimaat – Onthullend over natuur milieu wetenschap energie en economie
- - [https://www.climategate.nl](https://www.climategate.nl)
- - date_published: 2024-05-20T13:53:21.633868+00:00
-
- ## Constructing the Limes | Investigating the border of the Roman Empire in the Netherlands
- - [https://c-limes.nl](https://c-limes.nl)
- - date_published: 2024-10-18T19:55:40.576085+00:00
-
- ## The Dutch Clinical NLP Workshop | Universiteit Utrecht
- - [https://clinicalnlp.nl](https://clinicalnlp.nl)
- - date_published: 2024-10-18T19:48:59.078395+00:00
-
- ## Clintel staat voor Climate Intelligence, opgericht in 2019 om objectief  te berichten over klimaatverandering en klimaatbeleid.
- - [https://clintel.nl](https://clintel.nl)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## CloudBilling - Automate your cloud billing: Fast, accurate, complete
- - [https://cloudbilling.nl](https://cloudbilling.nl)
- - date_published: 2024-10-01T19:43:36+00:00
-
- ## Werk slimmer met Cloudcarrier - Jouw betrouwbare ICT-partner
- - [https://cloudcarrier.nl](https://cloudcarrier.nl)
- - date_published: 2024-10-28T23:28:28.744804+00:00
 

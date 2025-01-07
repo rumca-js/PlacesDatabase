@@ -1,3 +1,91 @@
+ ## SHOP! Awards 2025 – Concours des SHOP! Awards 2025
+ - [https://shop-awards.fr](https://shop-awards.fr)
+ - date_published: 2024-10-30T09:36:33.348542+00:00
+
+ ## Disney Store FR | Nouveau Site Officiel | Boutique Disney
+ - [https://www.shopdisney.fr](https://www.shopdisney.fr)
+ - date_published: 2024-09-20T20:21:17.546543+00:00
+
+ ## Accueil - SIAE
+ - [http://www.siae.fr](http://www.siae.fr)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## SIAL Paris
+ - [https://badge.sialparis.fr](https://badge.sialparis.fr)
+ - date_published: 2024-09-11T18:11:55.839923+00:00
+
+ ## Blog d'Eric SIBER
+ - [https://eric.siber.fr](https://eric.siber.fr)
+ - date_published: 2024-07-08T10:51:03.455457+00:00
+
+ ## Siècle Digital
+ - [https://abonnement.siecledigital.fr](https://abonnement.siecledigital.fr)
+ - date_published: 2024-05-08T00:39:16.036900+00:00
+
+ ## Siècle Digital - L'actualité internationale de l'économie du numérique
+ - [https://siecledigital.fr](https://siecledigital.fr)
+ - date_published: 2023-10-25T19:15:41.666599+00:00
+
+ ## / [sieg.fr/ied]
+ - [https://sieg.fr](https://sieg.fr)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Cyprien Heusse
+ - [https://sigmaserv.fr](https://sigmaserv.fr)
+ - date_published: 2024-08-18T04:34:24.862896+00:00
+
+ ## Page d'accueil ⋆ Signal Spam
+ - [https://www.signal-spam.fr](https://www.signal-spam.fr)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Siick's services
+ - [https://services.siick.fr](https://services.siick.fr)
+ - date_published: 2024-07-08T10:49:55.058879+00:00
+
+ ## Silae pour la productivité des gestionnaires de paie : logiciel de paye, solutions RH et dématérialisation.
+ - [https://www.silae.fr](https://www.silae.fr)
+ - date_published: 2024-12-15T09:44:58+00:00
+
+ ## Silicon
+ - [https://www.silicon.fr](https://www.silicon.fr)
+ - date_published: 2024-06-23T12:33:02.937163+00:00
+
+ ## Simon Rodriguez
+ - [http://simonrodriguez.fr](http://simonrodriguez.fr)
+ - date_published: 2024-08-10T17:56:38+00:00
+
+ ## simons_fr – Convivialisme, communs et citoyenneté
+ - [https://simons.fr](https://simons.fr)
+ - date_published: 2024-07-08T11:00:28.965368+00:00
+
+ ## Simperfit – A story of web developpement
+ - [http://simperfit.fr](http://simperfit.fr)
+ - date_published: 2024-07-08T10:50:52.171218+00:00
+
+ ## Afi Esca -
+ - [https://www.simulation-assurance-de-prets.fr](https://www.simulation-assurance-de-prets.fr)
+ - date_published: 2024-07-03T05:19:00.111719+00:00
+
+ ## Sinners
+ - [http://sinners.fr](http://sinners.fr)
+ - date_published: 2024-07-03T06:36:15.719799+00:00
+
+ ## Siosm’s blog
+ - [https://tim.siosm.fr](https://tim.siosm.fr)
+ - date_published: 2023-12-20T01:47:50.797689+00:00
+
+ ## SixMania
+ - [http://www.sixmania.fr](http://www.sixmania.fr)
+ - date_published: 2024-06-21T14:57:33.886878+00:00
+
+ ## SIXT Location de Voiture | Pour tous vos déplacements
+ - [https://sixt.fr](https://sixt.fr)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Libérez votre pouvoir d'achat avec Skarlett ! | Skarlett
+ - [https://www.skarlett.fr](https://www.skarlett.fr)
+ - date_published: 2024-09-15T20:54:01.981103+00:00
+
  ## Skaze Tools - Log in
  - [https://sts.skaze.fr](https://sts.skaze.fr)
  - date_published: 2024-06-25T22:36:25.700254+00:00
@@ -2245,6 +2333,10 @@
  - [https://www.vichy-communaute.fr](https://www.vichy-communaute.fr)
  - date_published: 2024-10-19T15:28:53.037080+00:00
 
+ ## Victor Poughon
+ - [https://victorpoughon.fr](https://victorpoughon.fr)
+ - date_published: 2025-01-06T18:36:55.735013+00:00
+
  ## Victron Energy
  - [https://www.victronenergy.fr](https://www.victronenergy.fr)
  - date_published: 2024-06-21T18:32:14+00:00
@@ -3675,7 +3767,7 @@ Secrétariat d'État chargé de la Mer
  - date_published: 2024-07-08T12:52:30+00:00
 
  ## The hottest games right now! | Pocket Gamer Fun
- - [https://www.pocketgamer.fun](https://www.pocketgamer.fun)
+ - [https://pocketgamer.fun](https://pocketgamer.fun)
  - date_published: 2024-10-29T08:36:07+00:00
 
  ## PokeSocial
@@ -3918,97 +4010,4 @@ Secrétariat d'État chargé de la Mer
  ## Home - Unitary Fund
  - [https://unitary.fund](https://unitary.fund)
  - date_published: 2024-07-31T16:28:48+00:00
-
- ## About – Variant
- - [https://variant.fund](https://variant.fund)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## w3.fund – Fueling Web3
- - [https://w3.fund](https://w3.fund)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Weekend Fund
- - [http://weekend.fund](http://weekend.fund)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Whiskey Web and Whatnot
- - [https://whiskey.fund](https://whiskey.fund)
- - date_published: 2024-09-04T12:35:49.505444+00:00
-
- ## METALWORKS
- - [https://metalworks.furniture](https://metalworks.furniture)
- - date_published: 2024-07-13T14:26:07.194195+00:00
-
- ## 2c.fyi
- - [https://2c.fyi](https://2c.fyi)
- - date_published: 2020-10-17T14:14:14+00:00
-
- ## Above the fold is a myth.
- - [http://abovethefold.fyi](http://abovethefold.fyi)
- - date_published: 2024-06-23T04:00:23.736054+00:00
-
- ## Adriano Caloiaro's personal blog
- - [https://adriano.fyi](https://adriano.fyi)
- - date_published: 2023-10-25T08:59:03.095518+00:00
- - tags: ['personal']
-
- ## Your Roadmap to the AI Revolution - AIModels.fyi
- - [https://aimodels.fyi](https://aimodels.fyi)
- - date_published: 2024-08-18T14:27:15.066908+00:00
-
- ## aitools.fyi - Find Best AI Tools That Make Your Life Easy!
- - [https://aitools.fyi](https://aitools.fyi)
- - date_published: 2024-10-30T15:24:14.505574+00:00
-
- ## Tiny AI Tools - aitools.fyi
- - [https://tiny.aitools.fyi](https://tiny.aitools.fyi)
- - date_published: 2024-12-15T06:11:40.037629+00:00
-
- ## Alessandro Mingione · Designer
- - [https://ale.fyi](https://ale.fyi)
- - date_published: 2024-05-09T06:19:59.436489+00:00
-
- ## Your one stop shop to risk free APY savings accounts.
- - [https://apy.fyi](https://apy.fyi)
- - date_published: 2024-05-09T07:36:26.030768+00:00
-
- ## Babu88: Bangladesh Cricket Login Website Babu88 ক্যাসিনো
- - [https://babu88.fyi](https://babu88.fyi)
- - date_published: 2024-09-03T11:14:15+00:00
-
- ## Better
- - [https://better.fyi](https://better.fyi)
- - date_published: 2021-12-15T18:39:58+00:00
-
- ## Blog Prompts
- - [https://blogprompts.fyi](https://blogprompts.fyi)
- - date_published: 2024-09-09T18:15:07+00:00
-
- ## Brody Smith • Information Design
- - [https://brody.fyi](https://brody.fyi)
- - date_published: 2024-01-04T08:11:51.602420+00:00
-
- ## brr
- - [https://brr.fyi](https://brr.fyi)
- - date_published: 2023-10-25T19:15:50.754055+00:00
-
- ## HTTP Caching Tests
- - [https://cache-tests.fyi](https://cache-tests.fyi)
- - date_published: 2024-08-13T00:59:16+00:00
-
- ## carbon.fyi
- - [https://carbon.fyi](https://carbon.fyi)
- - date_published: 2024-06-21T22:35:49.137911+00:00
-
- ## Caro Appleby - Indie programmer, textile artist, musician, endlessly curious
- - [https://caro.fyi](https://caro.fyi)
- - date_published: 2024-05-11T10:22:05.701580+00:00
-
- ## Caro's Notes
- - [https://notes.caro.fyi](https://notes.caro.fyi)
- - date_published: 2024-07-14T09:54:24.852615+00:00
-
- ## CDR.fyi
- - [https://cdr.fyi](https://cdr.fyi)
- - date_published: 2024-05-08T00:40:25.404761+00:00
 

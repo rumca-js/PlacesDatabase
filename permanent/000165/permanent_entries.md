@@ -1,3 +1,55 @@
+ ## Usage
+ - [https://helm.manticoresearch.com](https://helm.manticoresearch.com)
+ - date_published: 2024-05-04T14:13:59.266878+00:00
+
+ ## Manticore Search
+ - [https://manticoresearch.com](https://manticoresearch.com)
+ - date_published: 2023-10-25T15:55:23.433035+00:00
+
+ ## Manticore Search Manual:
+ - [https://manual.manticoresearch.com](https://manual.manticoresearch.com)
+ - date_published: 2024-05-04T14:13:58.127449+00:00
+
+ ## Manticore Search interactive courses
+ - [https://play.manticoresearch.com](https://play.manticoresearch.com)
+ - date_published: 2024-04-26T11:50:15+00:00
+
+ ## Join Manticore Search Community on Slack
+ - [https://slack.manticoresearch.com](https://slack.manticoresearch.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## The Mantis-Eye Experiment - The Original Venture Bros. News & Information Site
+ - [http://mantiseye.com](http://mantiseye.com)
+ - date_published: 2025-01-01T04:50:04.236384+00:00
+
+ ## Article brand safety classification | Mantis Documentation
+ - [https://api.mantis-intelligence.com](https://api.mantis-intelligence.com)
+ - date_published: 2024-05-02T11:14:45.546995+00:00
+
+ ## Mantis NLP | Generative AI | AI Development | AI Consulting | AI Due Dilligence
+ - [https://mantisnlp.com](https://mantisnlp.com)
+ - date_published: 2024-07-10T10:36:51.788102+00:00
+
+ ## Mantis Photonics |
+ - [https://mantis-photonics.com](https://mantis-photonics.com)
+ - date_published: 2024-09-24T11:02:55.590714+00:00
+
+ ## Navigate Online Advertising with Confidence | Mantis
+ - [https://www.mantissolutions.com](https://www.mantissolutions.com)
+ - date_published: 2024-10-20T10:36:06.910092+00:00
+
+ ## Welcome to Mantis World
+ - [https://www.mantisworld.com](https://www.mantisworld.com)
+ - date_published: 2024-10-21T08:56:35.700153+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://cdn.mantl.com](https://cdn.mantl.com)
+ - date_published: 2024-07-10T04:20:16.178646+00:00
+
+ ## Mantle Ridge
+ - [https://mantleridge.com](https://mantleridge.com)
+ - date_published: 2024-04-30T04:43:16.970389+00:00
+
  ## Home - Manto Retreat
  - [http://manto-corfu.com](http://manto-corfu.com)
  - date_published: 2024-06-30T10:07:36.159063+00:00
@@ -3473,7 +3525,7 @@
  - date_published: 2024-01-04T00:00:00+00:00
 
  ## Marriott Bonvoy Hotels | Book Directly & Get Exclusive Rates
- - [http://deals.marriott.com](http://deals.marriott.com)
+ - [https://deals.marriott.com](https://deals.marriott.com)
  - date_published: 2024-10-29T07:07:59.626310+00:00
 
  ## Find & Book Hotels | Delta Hotels by Marriott
@@ -3492,6 +3544,10 @@
  - [https://element-hotels.marriott.com](https://element-hotels.marriott.com)
  - date_published: 2024-06-19T10:15:16.697785+00:00
 
+ ## Unlock Your Next Destination with Marriott Bonvoy™
+ - [https://emea.marriott.com](https://emea.marriott.com)
+ - date_published: 2024-10-29T07:23:04.374278+00:00
+
  ## Fairfield by Marriott | Business Hotels
  - [https://fairfield.marriott.com](https://fairfield.marriott.com)
  - date_published: 2024-04-24T00:00:00+00:00
@@ -3501,7 +3557,7 @@
  - date_published: 2024-02-28T00:00:00+00:00
 
  ## Marriott Bonvoy Hotels | Book Directly & Get Exclusive Rates
- - [http://goldenrule.marriott.com](http://goldenrule.marriott.com)
+ - [https://goldenrule.marriott.com](https://goldenrule.marriott.com)
  - date_published: 2024-10-29T07:21:18.725653+00:00
 
  ## Homes & Villas by Marriott Bonvoy | Book Directly and Save
@@ -3635,10 +3691,6 @@
  ## W Hotels Worldwide | Luxury Lifestyle Hotels - W Hotels
  - [https://w-hotels.marriott.com](https://w-hotels.marriott.com)
  - date_published: 2024-05-21T00:00:00+00:00
-
- ## Unlock Your Next Destination with Marriott Bonvoy™
- - [https://www.emea.marriott.com](https://www.emea.marriott.com)
- - date_published: 2024-10-29T07:23:04.374278+00:00
 
  ## The Marriott Vacation Clubs™ | More Vacations to Love
  - [https://www.themarriottvacationclubs.marriott.com](https://www.themarriottvacationclubs.marriott.com)
@@ -3980,56 +4032,4 @@
  ## Marten – The pragmatic web framework
  - [https://martenframework.com](https://martenframework.com)
  - date_published: 2023-10-25T15:57:13.770826+00:00
-
- ## Martha Colburn
- - [http://www.marthacolburn.com](http://www.marthacolburn.com)
- - date_published: 2025-01-01T16:41:07.915024+00:00
-
- ## Martha's Bloomers - Home Store, Garden Center and Cafe
- - [https://marthasbloomers.com](https://marthasbloomers.com)
- - date_published: 2024-12-26T07:01:33.654477+00:00
-
- ## Recipes, DIY, Home Decor & Crafts
- - [http://marthastewart.com](http://marthastewart.com)
- - date_published: 2024-07-04T04:47:42.086570+00:00
-
- ## Martha Stewart Weddings
- - [https://www.marthastewartweddings.com](https://www.marthastewartweddings.com)
- - date_published: 2024-06-29T21:27:39.177894+00:00
-
- ## Martha's Vineyard Bike Rentals - Bicycles Rental Island-Wide
- - [https://marthasvineyardbike.com](https://marthasvineyardbike.com)
- - date_published: 2023-08-10T16:24:47+00:00
-
- ## Martha Wells -- Worlds of Fantasy
- - [http://www.marthawells.com](http://www.marthawells.com)
- - date_published: 2024-08-25T13:43:48+00:00
-
- ## Promoting Martial Arts & Action Entertainment - Martial Arts Enterprises
- - [https://www.martialartscontact.com](https://www.martialartscontact.com)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Promoting Martial Arts & Action Entertainment - Martial Arts Enterprises
- - [https://martialartsenterprises.com](https://martialartsenterprises.com)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Martial Arts Entertainment - Martial Arts & Action Entertainment
- - [https://martialartsentertainment.com](https://martialartsentertainment.com)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Martial Arts Schools and Businesses Directory
- - [https://martialartsschoolsdirectory.com](https://martialartsschoolsdirectory.com)
- - date_published: 2024-06-15T10:04:38.891631+00:00
-
- ## Martial Arts School Software - Martialytics
- - [https://www.martialytics.com](https://www.martialytics.com)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Made by MartianCraft.
- - [https://martiancraft.com](https://martiancraft.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## LinkedIn Login, Sign in | LinkedIn
- - [https://www.martiansreunited.com](https://www.martiansreunited.com)
- - date_published: 2024-10-18T20:33:43.158214+00:00
 

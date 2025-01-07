@@ -1,3 +1,91 @@
+ ## SAP NetWeaver Portal
+ - [https://my.olemiss.edu](https://my.olemiss.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Welcome - Now & Ever the Campaign for Ole Miss
+ - [https://nowandever.olemiss.edu](https://nowandever.olemiss.edu)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Redirecting...
+ - [https://office365.olemiss.edu](https://office365.olemiss.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## University of  Mississippi | Ole Miss
+ - [https://olemiss.edu](https://olemiss.edu)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Policy Directory | University of Mississippi
+ - [https://policies.olemiss.edu](https://policies.olemiss.edu)
+ - date_published: 2024-07-18T07:24:06.581560+00:00
+
+ ## Student Housing | Ole Miss
+ - [https://studenthousing.olemiss.edu](https://studenthousing.olemiss.edu)
+ - date_published: 2024-07-18T07:23:47.380957+00:00
+
+ ## Study Abroad Office
+ - [https://studyabroad.olemiss.edu](https://studyabroad.olemiss.edu)
+ - date_published: 2024-07-18T07:24:15.245630+00:00
+
+ ## Division of Outreach and Continuing Education | Ole Miss
+ - [http://www.outreach.olemiss.edu](http://www.outreach.olemiss.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Admission + Financial Aid | Olin College of Engineering
+ - [https://admission.olin.edu](https://admission.olin.edu)
+ - date_published: 2024-09-17T18:47:51+00:00
+
+ ## The Olin Art Gallery
+ - [https://art.olin.edu](https://art.olin.edu)
+ - date_published: 2024-06-15T10:52:53.120653+00:00
+
+ ## Sign in to your account
+ - [https://canvas.olin.edu](https://canvas.olin.edu)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Olin College Library | Home
+ - [https://library.olin.edu](https://library.olin.edu)
+ - date_published: 2024-06-15T10:52:40.625997+00:00
+
+ ## The Shop
+ - [https://machineshop.olin.edu](https://machineshop.olin.edu)
+ - date_published: 2024-06-15T10:53:01+00:00
+
+ ## Home | Welcome to my.olin.edu
+ - [https://my.olin.edu](https://my.olin.edu)
+ - date_published: 2024-06-15T10:52:44.721872+00:00
+
+ ## Home | OLIN MERCH
+ - [https://olingear.olin.edu](https://olingear.olin.edu)
+ - date_published: 2024-06-15T10:52:55.700584+00:00
+
+ ## Welcome to Olin College Library Repository | Olin College Library Repository
+ - [https://phoenixfiles.olin.edu](https://phoenixfiles.olin.edu)
+ - date_published: 2024-09-17T19:00:30+00:00
+
+ ## Home | Olin College of Engineering
+ - [https://wikis.olin.edu](https://wikis.olin.edu)
+ - date_published: 2024-06-14T15:33:05+00:00
+
+ ## Home | Olin College of Engineering
+ - [https://www.olin.edu](https://www.olin.edu)
+ - date_published: 2024-05-01T03:16:17.468469+00:00
+
+ ## Home
+ - [https://www.omsi.edu](https://www.omsi.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Distance Learning Courses and Adult Education - The Open University
+ - [https://open.edu](https://open.edu)
+ - date_published: 2023-10-25T18:56:29.084298+00:00
+
+ ## Accessibility
+ - [https://accessibility.oregonstate.edu](https://accessibility.oregonstate.edu)
+ - date_published: 2024-06-16T22:19:14+00:00
+
+ ## Access OSU
+ - [https://accessosu.oregonstate.edu](https://accessosu.oregonstate.edu)
+ - date_published: 2023-07-13T13:30:20+00:00
+
  ## Undergraduate Admissions
  - [https://admissions.oregonstate.edu](https://admissions.oregonstate.edu)
  - date_published: 2024-06-14T17:57:12+00:00
@@ -3918,92 +4006,4 @@
  ## Rice Computational Imaging Group | Veeraraghavan Lab
  - [https://computationalimaging.rice.edu](https://computationalimaging.rice.edu)
  - date_published: 2024-08-07T16:09:46+00:00
-
- ## Rice
- - [https://controller.rice.edu](https://controller.rice.edu)
- - date_published: 2024-07-01T17:57:29.288688+00:00
-
- ## CORISE
- - [https://corise.rice.edu](https://corise.rice.edu)
- - date_published: 2024-05-04T12:45:03+00:00
-
- ## Coronavirus
- - [https://coronavirus.rice.edu](https://coronavirus.rice.edu)
- - date_published: 2024-06-03T23:28:41+00:00
-
- ## Corporate
- - [https://corporate.rice.edu](https://corporate.rice.edu)
- - date_published: 2024-05-07T20:05:15.885783+00:00
-
- ## Course Schedule
- - [https://courses.rice.edu](https://courses.rice.edu)
- - date_published: 2024-05-07T20:06:25.443687+00:00
-
- ## Rice CS
- - [https://cs.rice.edu](https://cs.rice.edu)
- - date_published: 2024-05-07T20:06:13.694490+00:00
-
- ## Rice CS
- - [https://csweb.rice.edu](https://csweb.rice.edu)
- - date_published: 2024-05-07T20:06:20.038814+00:00
-
- ## CSWGS Home
- - [https://cswgs.rice.edu](https://cswgs.rice.edu)
- - date_published: 2024-06-10T16:48:28+00:00
-
- ## Rice
- - [https://ctbp.rice.edu](https://ctbp.rice.edu)
- - date_published: 2024-07-01T17:57:34.354454+00:00
-
- ## CTE
- - [https://cte.rice.edu](https://cte.rice.edu)
- - date_published: 2024-05-24T21:16:01+00:00
-
- ## MCLC Home
- - [https://cultures.rice.edu](https://cultures.rice.edu)
- - date_published: 2024-05-15T15:44:43+00:00
-
- ## Rice
- - [https://dar.rice.edu](https://dar.rice.edu)
- - date_published: 2024-05-07T20:05:56.969117+00:00
-
- ## Rice
- - [https://data.rice.edu](https://data.rice.edu)
- - date_published: 2024-07-01T18:02:34.855628+00:00
-
- ## Welcome | Delivery Services
- - [https://delivery.rice.edu](https://delivery.rice.edu)
- - date_published: 2024-07-01T18:01:36.735616+00:00
-
- ## Inauguration
- - [https://desrochesinauguration.rice.edu](https://desrochesinauguration.rice.edu)
- - date_published: 2024-05-06T08:42:03+00:00
-
- ## Home - Rice University Digital Collections
- - [https://digitalcollections.rice.edu](https://digitalcollections.rice.edu)
- - date_published: 2024-07-01T18:01:28.894730+00:00
-
- ## Home
- - [https://dining.rice.edu](https://dining.rice.edu)
- - date_published: 2024-05-07T20:04:56.671140+00:00
-
- ## DEI
- - [https://diversity.rice.edu](https://diversity.rice.edu)
- - date_published: 2024-05-04T09:12:56+00:00
-
- ## Dean of Undergraduates
- - [https://dou.rice.edu](https://dou.rice.edu)
- - date_published: 2024-05-07T20:05:09.018776+00:00
-
- ## ERROR: HTTP 403
- - [https://ebank.rice.edu](https://ebank.rice.edu)
- - date_published: 2012-06-27T14:07:44+00:00
-
- ## Rice
- - [https://economics.rice.edu](https://economics.rice.edu)
- - date_published: 2024-06-20T17:42:20+00:00
-
- ## Electron Microscopy Center: Rice EMC Website
- - [http://emc.rice.edu](http://emc.rice.edu)
- - date_published: 2024-07-01T17:19:17+00:00
 

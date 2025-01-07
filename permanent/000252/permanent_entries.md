@@ -1,3 +1,71 @@
+ ## VideoSift: Online Video *Quality Control
+ - [https://videosift.com](https://videosift.com)
+ - date_published: 2024-06-29T08:07:36.617726+00:00
+
+ ## Reduce Video File Size Online, Make Video Smaller (MP4, AVI, MOV, MPEG) | VideoSmaller
+ - [https://www.videosmaller.com](https://www.videosmaller.com)
+ - date_published: 2024-10-31T07:31:32.424407+00:00
+
+ ## Home Page
+ - [https://content.videostep.com](https://content.videostep.com)
+ - date_published: 2024-10-02T13:49:27.070267+00:00
+
+ ## Corel VideoStudio | Easy & Fun Video Editing
+ - [https://www.videostudiopro.com](https://www.videostudiopro.com)
+ - date_published: 2024-07-04T10:15:45.195533+00:00
+
+ ## Video Tap
+ - [https://videotap.com](https://videotap.com)
+ - date_published: 2024-06-23T11:28:49.958715+00:00
+
+ ## VideoToTextAI - Transcriptions, ChatGPT for Your Video and Audio
+ - [https://www.videototextai.com](https://www.videototextai.com)
+ - date_published: 2024-09-02T09:55:42.217561+00:00
+
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [https://contact.videotron.com](https://contact.videotron.com)
+ - date_published: 2021-07-12T19:36:32+00:00
+
+ ## Vidéotron, complice de votre vie connectée | Vidéotron
+ - [https://corpo.videotron.com](https://corpo.videotron.com)
+ - date_published: 2024-08-28T19:32:16+00:00
+
+ ## Courriel Web
+ - [https://courrielweb.videotron.com](https://courrielweb.videotron.com)
+ - date_published: 2024-09-17T18:52:07.561673+00:00
+
+ ## Français
+ - [https://forum.videotron.com](https://forum.videotron.com)
+ - date_published: 2024-09-17T18:52:04.215688+00:00
+
+ ## Trouver un magasin Vidéotron à proximité | Vidéotron
+ - [https://magasins.videotron.com](https://magasins.videotron.com)
+ - date_published: 2024-09-17T18:52:35.290830+00:00
+
+ ## WSC UI
+ - [https://moncompte.videotron.com](https://moncompte.videotron.com)
+ - date_published: 2024-09-13T06:37:34+00:00
+
+ ## Vidéotron : fournisseur Internet, Mobile, Télévision et Téléphonie
+ - [https://monespace.videotron.com](https://monespace.videotron.com)
+ - date_published: 2024-09-17T18:51:46+00:00
+
+ ## Vidéotron : fournisseur Internet, Mobile, Télévision et Téléphonie
+ - [https://videotron.com](https://videotron.com)
+ - date_published: 2024-06-15T10:39:52+00:00
+
+ ## Home
+ - [https://www.videousermanuals.com](https://www.videousermanuals.com)
+ - date_published: 2018-10-29T00:00:00+00:00
+
+ ## Video Village · We make apps so you can make movies.
+ - [https://videovillage.com](https://videovillage.com)
+ - date_published: 2024-04-30T07:12:57.044866+00:00
+
+ ## VideoWeek
+ - [https://videoweek.com](https://videoweek.com)
+ - date_published: 2024-12-11T16:34:36+00:00
+
  ## VidePress | Vide Press
  - [https://videpress.com](https://videpress.com)
  - date_published: 2024-05-08T05:16:35.657967+00:00
@@ -681,7 +749,7 @@
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## Login | Shiftmove
- - [http://apps.vimcar.com](http://apps.vimcar.com)
+ - [https://apps.vimcar.com](https://apps.vimcar.com)
  - date_published: 2024-10-29T11:08:41.776086+00:00
 
  ## VimConfig - Sane and simple Vim configuration
@@ -1586,7 +1654,7 @@
  - date_published: 2024-10-20T09:09:18.979609+00:00
 
  ## Virgin Pulse is now Personify Health | Personalized Health Platform
- - [https://www.virginpulse.com](https://www.virginpulse.com)
+ - [https://virginpulse.com](https://virginpulse.com)
  - date_published: 2024-10-29T08:07:51.092566+00:00
 
  ## Virgin Radio Dubai - The UAE's No. 1 Hit Music Station on 104.4 FM
@@ -2925,7 +2993,7 @@
  - date_published: 2024-07-14T07:13:58.414392+00:00
 
  ## Visit Richmond VA | Information for Visiting the Richmond, VA Region
- - [https://www.visitrichmondva.com](https://www.visitrichmondva.com)
+ - [https://visitrichmondva.com](https://visitrichmondva.com)
  - date_published: 2024-10-29T02:48:24+00:00
 
  ## Discover Rochester, NY
@@ -3013,7 +3081,7 @@
  - date_published: 2024-10-28T15:28:01+00:00
 
  ## Visit St. Pete-Clearwater | Visit St Petersburg Clearwater Florida
- - [https://www.visitstpeteclearwater.com](https://www.visitstpeteclearwater.com)
+ - [https://visitstpeteclearwater.com](https://visitstpeteclearwater.com)
  - date_published: 2024-10-29T04:21:05+00:00
 
  ## Home - Visit United Arab Emirates
@@ -3957,73 +4025,4 @@
  ## Viva.com - najlepsza akceptacja płatności i obsługa kasowa
  - [https://www.vivapayments.com](https://www.vivapayments.com)
  - date_published: 2024-07-03T03:15:46.742365+00:00
-
- ## Viva WordPress Theme
- - [https://www.vivatheme.com](https://www.vivatheme.com)
- - date_published: 2024-12-22T22:49:25.731623+00:00
-
- ## Simple, Clean and Beautiful WordPress Themes - Viva Themes
- - [http://www.vivathemes.com](http://www.vivathemes.com)
- - date_published: 2024-06-29T18:08:23.699289+00:00
-
- ## Viva Translate: AI-powered real time translation
- - [https://www.vivatranslate.com](https://www.vivatranslate.com)
- - date_published: 2024-07-02T23:42:30.395549+00:00
-
- ## Viva Wallet
- - [https://pay.vivawallet.com](https://pay.vivawallet.com)
- - date_published: 2024-06-25T09:12:58+00:00
-
- ## Home VIVE™ | VIVE Arts
- - [https://arts.vive.com](https://arts.vive.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## VIVE Blog - Inside Views & Breakthroughs from HTC
- - [https://blog.vive.com](https://blog.vive.com)
- - date_published: 2024-06-20T22:00:12.937021+00:00
-
- ## VIVE Business European Union - VR for Business
- - [https://business.vive.com](https://business.vive.com)
- - date_published: 2024-06-20T21:59:34.098939+00:00
-
- ## VIVE Developers | Get started developing for VIVE
- - [https://developer.vive.com](https://developer.vive.com)
- - date_published: 2024-06-20T21:59:47.029088+00:00
-
- ## VIVE Forum
- - [https://forum.vive.com](https://forum.vive.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## VIVE X Batch5
- - [https://hub.vive.com](https://hub.vive.com)
- - date_published: 2024-10-11T11:28:54.156397+00:00
-
- ## VIVE Mars CamTrack - Your VR Companion in Virtual Production
- - [https://mars.vive.com](https://mars.vive.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Smartfony | HTC Polska
- - [https://myhtcstore.vive.com](https://myhtcstore.vive.com)
- - date_published: 2024-06-20T21:59:21.731531+00:00
-
- ## VIVE European Union | Discover Virtual Reality Beyond Imagination
- - [https://myshop-apac.vive.com](https://myshop-apac.vive.com)
- - date_published: 2024-06-20T21:59:50.817738+00:00
-
- ## VIVE European Union | Discover Virtual Reality Beyond Imagination
- - [https://myshop-us.vive.com](https://myshop-us.vive.com)
- - date_published: 2024-06-20T22:00:03.144524+00:00
-
- ## VIVE European Union | Discover Virtual Reality Beyond Imagination
- - [https://myshop.vive.com](https://myshop.vive.com)
- - date_published: 2024-06-20T21:59:42.089636+00:00
-
- ## VIVE Sync | THE FUTURE OF MEETINGS
- - [https://sync.vive.com](https://sync.vive.com)
- - date_published: 2024-06-20T21:59:57.934420+00:00
-
- ## VIVE European Union | Discover Virtual Reality Beyond Imagination
- - [https://vive.com](https://vive.com)
- - date_published: 2024-06-20T20:51:28+00:00
- - tags: ['virtual reality']
 

@@ -1,3 +1,7 @@
+ ## MB Presents | Creators & Promotors
+ - [https://mbpresents.be](https://mbpresents.be)
+ - date_published: 2024-06-18T15:21:25+00:00
+
  ## La première mutualité santé en Belgique | Mutualité chrétienne
  - [https://www.mc.be](https://www.mc.be)
  - date_published: 2024-07-02T21:25:29+00:00
@@ -297,7 +301,7 @@
  - date_published: 2024-12-25T18:30:23.421806+00:00
 
  ## NARS Cosmetics | La boutique officielle | Maquillage et soin
- - [https://www.narscosmetics.be](https://www.narscosmetics.be)
+ - [https://narscosmetics.be](https://narscosmetics.be)
  - date_published: 2024-10-29T08:59:30+00:00
 
  ## Accueil
@@ -321,7 +325,7 @@
  - date_published: 2024-07-10T09:00:48.582332+00:00
 
  ## Bureau d'études en communication – Communication d'entreprise – NC Communication
- - [https://www.nccommunication.be](https://www.nccommunication.be)
+ - [https://nccommunication.be](https://nccommunication.be)
  - date_published: 2024-10-29T09:48:45+00:00
 
  ## Filip Němeček | Personal site
@@ -490,7 +494,7 @@
  - date_published: 2024-09-02T11:18:40.707446+00:00
 
  ## Page d'accueil - Optique Point de Mire
- - [http://www.optiquepointdemire.be](http://www.optiquepointdemire.be)
+ - [https://optiquepointdemire.be](https://optiquepointdemire.be)
  - date_published: 2024-10-29T09:48:03.221423+00:00
 
  ## Ordina | A Sopra Steria Company
@@ -1190,7 +1194,7 @@
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Soralia
- - [https://www.soralia.be](https://www.soralia.be)
+ - [https://soralia.be](https://soralia.be)
  - date_published: 2024-10-29T09:48:40.817219+00:00
 
  ## Sorodha
@@ -2554,7 +2558,7 @@
  - date_published: 2024-09-02T11:10:46.249214+00:00
 
  ## Zin in meer: tips voor elke dag
- - [https://www.zininmeer.be](https://www.zininmeer.be)
+ - [https://zininmeer.be](https://zininmeer.be)
  - date_published: 2024-10-29T05:55:31.647748+00:00
 
  ## Classic Web - Embracing Open-Source and Privacy
@@ -4017,8 +4021,4 @@
  ## CDN LNK BI
  - [https://cdn2.lnk.bi](https://cdn2.lnk.bi)
  - date_published: 2022-10-25T01:28:14+00:00
-
- ## Actionable Analytics for Growth teams | Narrative BI
- - [http://narrative.bi](http://narrative.bi)
- - date_published: 2023-10-25T11:59:36.984588+00:00
 

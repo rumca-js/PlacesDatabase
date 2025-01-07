@@ -1,3 +1,91 @@
+ ## Sign in to your account
+ - [https://iris.louisville.edu](https://iris.louisville.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## ThinkIR: The University of Louisville's Institutional Repository
+ - [https://ir.library.louisville.edu](https://ir.library.louisville.edu)
+ - date_published: 2024-05-19T02:41:08.119153+00:00
+
+ ## UofL Libraries: University of Louisville Libraries: Home
+ - [https://library.louisville.edu](https://library.louisville.edu)
+ - date_published: 2024-06-22T07:13:49.040806+00:00
+
+ ## University of Louisville
+ - [https://louisville.edu](https://louisville.edu)
+ - date_published: 2024-05-02T14:48:53+00:00
+
+ ## Sign in to your account
+ - [https://otms.louisville.edu](https://otms.louisville.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Search UofL
+ - [https://search.louisville.edu](https://search.louisville.edu)
+ - date_published: 2024-01-25T00:58:45+00:00
+
+ ## ULink Portal
+ - [https://ulink.louisville.edu](https://ulink.louisville.edu)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## College of Law | Loyola University New Orleans
+ - [http://law.loyno.edu](http://law.loyno.edu)
+ - date_published: 2024-06-17T10:26:49+00:00
+
+ ## My Apps
+ - [https://sso.loyno.edu](https://sso.loyno.edu)
+ - date_published: 2024-10-18T22:34:12.007731+00:00
+
+ ## Welcome to Loyola University | Loyola University New Orleans
+ - [https://www.loyno.edu](https://www.loyno.edu)
+ - date_published: 2024-10-14T18:07:51+00:00
+
+ ## Events Calendar
+ - [https://calendar.lr.edu](https://calendar.lr.edu)
+ - date_published: 2024-08-07T16:53:12.606705+00:00
+
+ ## Log In to Canvas
+ - [https://canvas.lr.edu](https://canvas.lr.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home | Lenoir-Rhyne University
+ - [https://lr.edu](https://lr.edu)
+ - date_published: 2024-04-28T03:37:48.331975+00:00
+
+ ## Sign in to your account
+ - [https://portal.lr.edu](https://portal.lr.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Homepage | Lake Region State College
+ - [https://www.lrsc.edu](https://www.lrsc.edu)
+ - date_published: 2024-07-01T15:48:42+00:00
+
+ ## Home - Lake-Sumter State College
+ - [https://www.lssc.edu](https://www.lssc.edu)
+ - date_published: 2024-12-23T11:14:33.040757+00:00
+
+ ## Lake Superior State University – Superior Education. Superior Experience
+ - [https://www.lssu.edu](https://www.lssu.edu)
+ - date_published: 2025-01-01T21:16:26.678789+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions.lsu.edu](https://admissions.lsu.edu)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Online Tech Bootcamps | Louisiana State University
+ - [https://bootcamp.online.lsu.edu](https://bootcamp.online.lsu.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## LSU E. J. Ourso College of Business
+ - [https://business.lsu.edu](https://business.lsu.edu)
+ - date_published: 2024-07-01T14:41:13.321824+00:00
+
+ ## Events Calendar - Louisiana State University
+ - [https://calendar.lsu.edu](https://calendar.lsu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Louisiana State University - Acalog ACMS™
+ - [https://catalog.lsu.edu](https://catalog.lsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## Center for Computation & Technology | Interdisciplinary  |  Innovative  | Inventive
  - [https://cct.lsu.edu](https://cct.lsu.edu)
  - date_published: 2024-05-08T09:32:45.803687+00:00
@@ -3917,92 +4005,4 @@
  ## Clay County Center | N.C. Cooperative Extension
  - [https://clay.ces.ncsu.edu](https://clay.ces.ncsu.edu)
  - date_published: 2024-10-15T05:32:24.503539+00:00
-
- ## Cleveland County Center | N.C. Cooperative Extension
- - [https://cleveland.ces.ncsu.edu](https://cleveland.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:30.647687+00:00
-
- ## Technology Services
- - [https://clubs.ncsu.edu](https://clubs.ncsu.edu)
- - date_published: 2024-04-29T03:46:42.276134+00:00
-
- ## The College of Natural Resources at NC State
- - [https://cnr.ncsu.edu](https://cnr.ncsu.edu)
- - date_published: 2024-06-16T22:26:52+00:00
-
- ## Columbus County Center | N.C. Cooperative Extension
- - [https://columbus.ces.ncsu.edu](https://columbus.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:39.330518+00:00
-
- ## Community Development | NC State Extension
- - [https://communitydevelopment.ces.ncsu.edu](https://communitydevelopment.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:17.479803+00:00
-
- ## Composting | NC State Extension
- - [https://composting.ces.ncsu.edu](https://composting.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:59.986078+00:00
-
- ## Extension Resource Catalog - NC State Extension
- - [https://content.ces.ncsu.edu](https://content.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:57.878377+00:00
-
- ## Corn | NC State Extension
- - [https://corn.ces.ncsu.edu](https://corn.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:35.023343+00:00
-
- ## Cotton | NC State Extension
- - [https://cotton.ces.ncsu.edu](https://cotton.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:57.033337+00:00
-
- ## Cover Crops | NC State Extension
- - [https://covercrops.ces.ncsu.edu](https://covercrops.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:26.536100+00:00
-
- ## Craven County Center | N.C. Cooperative Extension
- - [https://craven.ces.ncsu.edu](https://craven.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:40.322613+00:00
-
- ## Cucurbits | NC State Extension
- - [https://cucurbits.ces.ncsu.edu](https://cucurbits.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:05.312897+00:00
-
- ## Cumberland County Center | N.C. Cooperative Extension
- - [https://cumberland.ces.ncsu.edu](https://cumberland.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:52.488926+00:00
-
- ## Currituck County Center | N.C. Cooperative Extension
- - [https://currituck.ces.ncsu.edu](https://currituck.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:08.392603+00:00
-
- ## Cut Flowers | NC State Extension
- - [https://cutflowers.ces.ncsu.edu](https://cutflowers.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:23.131749+00:00
-
- ## Dairy | NC State Extension
- - [https://dairy.ces.ncsu.edu](https://dairy.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:31.943535+00:00
-
- ## Dare County Center | N.C. Cooperative Extension
- - [https://dare.ces.ncsu.edu](https://dare.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:00.405302+00:00
-
- ## NC State Academic and Student Affairs
- - [https://dasa.ncsu.edu](https://dasa.ncsu.edu)
- - date_published: 2024-08-05T23:58:50.633801+00:00
-
- ## Davidson County Center | N.C. Cooperative Extension
- - [https://davidson.ces.ncsu.edu](https://davidson.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:46.382340+00:00
-
- ## Davie County Center | N.C. Cooperative Extension
- - [https://davie.ces.ncsu.edu](https://davie.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:02.468280+00:00
-
- ## NC State Day of Giving
- - [https://dayofgiving.ncsu.edu](https://dayofgiving.ncsu.edu)
- - date_published: 2024-10-15T05:33:20.176819+00:00
-
- ## Campus Directory | NC State University
- - [https://directory.ncsu.edu](https://directory.ncsu.edu)
- - date_published: 2024-08-07T16:55:01.510932+00:00
 

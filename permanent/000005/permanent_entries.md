@@ -1,3 +1,8 @@
+ ## Dateforce | Salesforce, but for dating
+ - [https://dateforce.app](https://dateforce.app)
+ - date_published: 2023-10-25T11:45:57.324167+00:00
+ - tags: ['dating']
+
  ## Hello from Dawarich | Dawarich
  - [https://dawarich.app](https://dawarich.app)
  - date_published: 2024-08-18T13:06:54.877394+00:00
@@ -4030,8 +4035,4 @@ The Album
  ## YUJUN CAI
  - [https://yujuncai.netlify.app](https://yujuncai.netlify.app)
  - date_published: 2021-07-22T00:00:00+00:00
-
- ## Zachariah Dellimore
- - [https://zachariahdellimore.netlify.app](https://zachariahdellimore.netlify.app)
- - date_published: 2024-08-18T04:33:39.489752+00:00
 

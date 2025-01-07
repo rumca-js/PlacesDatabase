@@ -1,3 +1,55 @@
+ ## ログイン - まぐまぐ！
+ - [https://regist.mag2.com](https://regist.mag2.com)
+ - date_published: 2024-05-04T11:49:15.731367+00:00
+
+ ## 404 お探しのページは移動、削除もしくはURLの入力間違いの可能性があります - まぐまぐ！
+ - [https://search.mag2.com](https://search.mag2.com)
+ - date_published: 2023-09-28T02:15:59+00:00
+
+ ## Homepage | Manchester Airports Group
+ - [https://www.magairports.com](https://www.magairports.com)
+ - date_published: 2024-10-21T19:32:22.521132+00:00
+
+ ## Magalí Druscovich | Photojournalist | Argentina
+ - [https://magalidruscovich.com](https://magalidruscovich.com)
+ - date_published: 2024-10-29T23:04:06.103604+00:00
+
+ ## Magari Poa
+ - [https://magaripoa.com](https://magaripoa.com)
+ - date_published: 2024-03-10T02:17:31.132740+00:00
+
+ ## Magasins Généraux
+ - [http://magasinsgeneraux.com](http://magasinsgeneraux.com)
+ - date_published: 2024-07-11T12:55:31+00:00
+
+ ## Super U, Hyper U, Supermarché, Hypermarché, U Express | Magasin U
+ - [https://www.magasins-u.com](https://www.magasins-u.com)
+ - date_published: 2024-09-26T12:42:33.386917+00:00
+
+ ## Magatte Wade | African Prosperity Activist
+ - [https://www.magattewade.com](https://www.magattewade.com)
+ - date_published: 2024-07-14T19:23:52.642991+00:00
+
+ ## Магазета — Китай и китайский язык
+ - [https://magazeta.com](https://magazeta.com)
+ - date_published: 2024-08-18T04:03:59.021680+00:00
+
+ ## National Magazine Awards
+ - [https://magazine-awards.com](https://magazine-awards.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Portal
+ - [https://portal.magazinecloner.com](https://portal.magazinecloner.com)
+ - date_published: 2024-05-06T23:31:20.974201+00:00
+
+ ## Magazinejardins.com
+ - [https://magazinejardins.com](https://magazinejardins.com)
+ - date_published: 2024-07-10T07:42:56.651778+00:00
+
+ ## Lire Magazine, la passion des livres et des écrivains
+ - [http://www.magazine-litteraire.com](http://www.magazine-litteraire.com)
+ - date_published: 2024-12-22T10:05:33.002599+00:00
+
  ## Magazine Newsstand Digital Magazines
  - [https://magazinenewsstand.com](https://magazinenewsstand.com)
  - date_published: 2024-06-17T12:33:02.977758+00:00
@@ -403,7 +455,7 @@
  - date_published: 2024-07-04T00:00:00+00:00
 
  ## Free Online Video Editor | Easy Editing with AI
- - [http://magisto.com](http://magisto.com)
+ - [https://magisto.com](https://magisto.com)
  - date_published: 2024-10-29T09:14:58.016466+00:00
 
  ## MagiStream - Welcome to MagiStream!
@@ -880,7 +932,7 @@
  - date_published: 2024-07-02T17:05:50.014053+00:00
 
  ## Cleaning Services | House Cleaning & Maid Service Near Me | The Maids
- - [https://www.maids.com](https://www.maids.com)
+ - [https://maids.com](https://maids.com)
  - date_published: 2024-10-29T06:11:22.882366+00:00
 
  ## Trusted House & Airbnb Cleaning Service in Los Angeles | MaidThis 🥇
@@ -3977,56 +4029,4 @@
  ## Manticore
  - [https://forum.manticoresearch.com](https://forum.manticoresearch.com)
  - date_published: 2024-05-04T14:13:55.784226+00:00
-
- ## Usage
- - [https://helm.manticoresearch.com](https://helm.manticoresearch.com)
- - date_published: 2024-05-04T14:13:59.266878+00:00
-
- ## Manticore Search
- - [https://manticoresearch.com](https://manticoresearch.com)
- - date_published: 2023-10-25T15:55:23.433035+00:00
-
- ## Manticore Search Manual:
- - [https://manual.manticoresearch.com](https://manual.manticoresearch.com)
- - date_published: 2024-05-04T14:13:58.127449+00:00
-
- ## Manticore Search interactive courses
- - [https://play.manticoresearch.com](https://play.manticoresearch.com)
- - date_published: 2024-04-26T11:50:15+00:00
-
- ## Join Manticore Search Community on Slack
- - [https://slack.manticoresearch.com](https://slack.manticoresearch.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## The Mantis-Eye Experiment - The Original Venture Bros. News & Information Site
- - [http://mantiseye.com](http://mantiseye.com)
- - date_published: 2025-01-01T04:50:04.236384+00:00
-
- ## Article brand safety classification | Mantis Documentation
- - [https://api.mantis-intelligence.com](https://api.mantis-intelligence.com)
- - date_published: 2024-05-02T11:14:45.546995+00:00
-
- ## Mantis NLP | Generative AI | AI Development | AI Consulting | AI Due Dilligence
- - [https://mantisnlp.com](https://mantisnlp.com)
- - date_published: 2024-07-10T10:36:51.788102+00:00
-
- ## Mantis Photonics |
- - [https://mantis-photonics.com](https://mantis-photonics.com)
- - date_published: 2024-09-24T11:02:55.590714+00:00
-
- ## Navigate Online Advertising with Confidence | Mantis
- - [https://www.mantissolutions.com](https://www.mantissolutions.com)
- - date_published: 2024-10-20T10:36:06.910092+00:00
-
- ## Welcome to Mantis World
- - [https://www.mantisworld.com](https://www.mantisworld.com)
- - date_published: 2024-10-21T08:56:35.700153+00:00
-
- ## Attention Required! | Cloudflare
- - [https://cdn.mantl.com](https://cdn.mantl.com)
- - date_published: 2024-07-10T04:20:16.178646+00:00
-
- ## Mantle Ridge
- - [https://mantleridge.com](https://mantleridge.com)
- - date_published: 2024-04-30T04:43:16.970389+00:00
 

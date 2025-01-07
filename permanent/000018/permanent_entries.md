@@ -1,3 +1,7 @@
+ ## Mix Vale - Portal de Notícias do Brasil
+ - [https://www.mixvale.com.br](https://www.mixvale.com.br)
+ - date_published: 2024-10-16T03:14:04+00:00
+
  ## Moda20 - Tendências de moda, beleza e estilo, com foco inclusivo em Plus Size. - Moda 20
  - [https://moda20.com.br](https://moda20.com.br)
  - date_published: 2024-12-26T14:14:17+00:00
@@ -107,7 +111,7 @@
  - date_published: 2024-06-16T17:37:25.626174+00:00
 
  ## NARS Cosmetics | Loja Oficial
- - [https://www.narscosmetics.com.br](https://www.narscosmetics.com.br)
+ - [https://narscosmetics.com.br](https://narscosmetics.com.br)
  - date_published: 2024-10-29T09:02:51.636308+00:00
 
  ## ND Mais - Portal de Notícias de Santa Catarina e do Brasil
@@ -356,7 +360,7 @@
  - date_published: 2021-05-30T17:08:16+00:00
 
  ## Conselhos para pais | Pampers® Brasil
- - [https://www.pampers.com.br](https://www.pampers.com.br)
+ - [https://pampers.com.br](https://pampers.com.br)
  - date_published: 2024-10-28T23:02:00+00:00
 
  ## Panografias
@@ -2021,7 +2025,7 @@
  - date_published: 2024-07-13T18:13:21+00:00
 
  ## Faculdade em São Paulo: veja os cursos presenciais | UNICID
- - [https://www.unicid.edu.br](https://www.unicid.edu.br)
+ - [https://unicid.edu.br](https://unicid.edu.br)
  - date_published: 2024-10-28T23:34:13.540293+00:00
 
  ## Unifeob EAD
@@ -3127,7 +3131,7 @@
  - date_published: 2024-06-20T07:07:54.339815+00:00
 
  ## Accueil < Commission communautaire française (COCOF) - Francophones Bruxelles
- - [https://www.spfb.brussels](https://www.spfb.brussels)
+ - [https://spfb.brussels](https://spfb.brussels)
  - date_published: 2024-10-29T09:51:07.362253+00:00
 
  ## Wikimedia Europe
@@ -4003,8 +4007,4 @@
  ## Главная - Министерство транспорта и коммуникаций Республики Беларусь
  - [http://www.mintrans.gov.by](http://www.mintrans.gov.by)
  - date_published: 2024-08-11T16:11:15.340151+00:00
-
- ## Міністэрства аховы здароўя Рэспублікі Беларусь
- - [http://minzdrav.gov.by](http://minzdrav.gov.by)
- - date_published: 2024-08-11T16:11:05.592845+00:00
 

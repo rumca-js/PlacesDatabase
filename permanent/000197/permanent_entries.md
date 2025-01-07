@@ -1,3 +1,59 @@
+ ## Global Leader in Product Lifecycle Management Software | PTC
+ - [https://www.ptc.com](https://www.ptc.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Welcome to Catalyst Group ...
+ - [https://ptere.com](https://ptere.com)
+ - date_published: 2018-07-03T10:29:42+00:00
+
+ ## Featured Apps and Games for Windows, Mac and Android
+ - [http://ptf.com](http://ptf.com)
+ - date_published: 2024-07-11T12:31:55.277588+00:00
+
+ ## Visit Providence Park - Home of the Timbers & Thorns
+ - [https://www.ptfcmap.com](https://www.ptfcmap.com)
+ - date_published: 2024-10-18T16:29:28.116701+00:00
+
+ ## PTGlobal.com
+ - [http://www.ptglobal.com](http://www.ptglobal.com)
+ - date_published: 2024-08-06T09:29:21.168536+00:00
+
+ ## Machine Vision – Area Scan Cameras | Teledyne FLIR
+ - [https://www.ptgrey.com](https://www.ptgrey.com)
+ - date_published: 2024-06-17T04:59:29.486472+00:00
+
+ ## Photo stitching software 360 degree Panorama image software - PTGui Stitching Software
+ - [https://www.ptgui.com](https://www.ptgui.com)
+ - date_published: 2024-06-23T11:03:20.370480+00:00
+
+ ## Pieter Taks Holding B.V. | Operating Internet Corporations
+ - [http://www.ptholding.com](http://www.ptholding.com)
+ - date_published: 2024-07-16T19:52:29+00:00
+
+ ## P3 Media – E-Commerce Marketing & Media Agency
+ - [https://pthreemedia.com](https://pthreemedia.com)
+ - date_published: 2024-12-16T12:43:16.850025+00:00
+
+ ## Pavel Timofeev
+ - [https://ptimofeev.com](https://ptimofeev.com)
+ - date_published: 2023-07-04T00:00:00+00:00
+
+ ## HTTP Server Test Page powered by CentOS
+ - [https://old.ptinews.com](https://old.ptinews.com)
+ - date_published: 2021-06-27T23:47:13+00:00
+
+ ## Press Trust Of India
+ - [http://www.ptinews.com](http://www.ptinews.com)
+ - date_published: 2024-06-19T05:03:41+00:00
+
+ ## Portugal. The Man l Official Store
+ - [https://ptmmercado.com](https://ptmmercado.com)
+ - date_published: 2024-05-06T23:43:09.811287+00:00
+
+ ## Home
+ - [https://ptmoney.com](https://ptmoney.com)
+ - date_published: 2024-01-16T17:03:51.125006+00:00
+
  ## Pioneer Network
  - [https://ptnnow.com](https://ptnnow.com)
  - date_published: 2024-06-25T16:04:36.141516+00:00
@@ -19,7 +75,7 @@
  - date_published: 2024-08-18T17:43:55.248567+00:00
 
  ## PTPA | Parent Tested Parent Approved | Seal Of Approval
- - [https://www.ptpa.com](https://www.ptpa.com)
+ - [https://ptpa.com](https://ptpa.com)
  - date_published: 2024-10-29T06:23:51.890434+00:00
 
  ## Ptrace Security GmbH - Hands-On Workshops for Ethical Hackers
@@ -3977,61 +4033,4 @@
  ## Python Weekly: A Free, Weekly Python E-mail Newsletter
  - [https://www.pythonweekly.com](https://www.pythonweekly.com)
  - date_published: 2020-04-21T17:38:39+00:00
-
- ## Python Wheels
- - [https://pythonwheels.com](https://pythonwheels.com)
- - date_published: 2023-10-25T16:43:05.526351+00:00
- - tags: ['python']
-
- ## Python Workout
- - [https://pythonworkout.com](https://pythonworkout.com)
- - date_published: 2024-08-18T15:38:43.521189+00:00
-
- ## PyVibe: Easily create styled web pages with Python
- - [https://pyvibe.com](https://pyvibe.com)
- - date_published: 2023-04-18T00:44:14+00:00
-
- ## PyVmMonitor by brainwy
- - [https://pyvmmonitor.com](https://pyvmmonitor.com)
- - date_published: 2021-05-17T17:30:10+00:00
-
- ## Pyxel Edit: pixel art and tileset creation tool
- - [https://pyxeledit.com](https://pyxeledit.com)
- - date_published: 2024-09-04T06:46:19.201887+00:00
-
- ## pyzam.com
- - [http://www.pyzam.com](http://www.pyzam.com)
- - date_published: 2024-07-04T15:04:08.848356+00:00
-
- ## Sacredbee Greeting Cards by Pamela Zagarenski
- - [http://www.pzagarenski.com](http://www.pzagarenski.com)
- - date_published: 2024-08-18T11:17:01.406715+00:00
-
- ## Piotr Zakrzewski on Data
- - [https://blog.pzakrzewski.com](https://blog.pzakrzewski.com)
- - date_published: 2023-11-21T09:09:37.768225+00:00
-
- ## Tłumacz Online - PZG Oddział Mazowiecki
- - [https://pzgomaz.com](https://pzgomaz.com)
- - date_published: 2024-06-22T20:11:15+00:00
-
- ## Pzizz App | Sleep at the push of a button
- - [http://www.pzizz.com](http://www.pzizz.com)
- - date_published: 2024-11-16T00:01:11+00:00
-
- ## pzuraq
- - [https://www.pzuraq.com](https://www.pzuraq.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Get Blazing Fast Fiber Internet for Your Home or Business
- - [http://q.com](http://q.com)
- - date_published: 2024-12-26T13:20:39.694424+00:00
-
- ## Iniciar sesión
- - [https://site.q10.com](https://site.q10.com)
- - date_published: 2024-12-09T15:53:42.968563+00:00
-
- ## FOX 13 Seattle
- - [https://www.q13fox.com](https://www.q13fox.com)
- - date_published: 2024-12-22T17:32:37.764087+00:00
 

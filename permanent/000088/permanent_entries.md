@@ -1,9 +1,26 @@
+ ## CGPEN
+ - [https://www.cgpen.com](https://www.cgpen.com)
+ - date_published: 2023-09-02T08:42:24+00:00
+
+ ## CGP Grey
+ - [http://blog.cgpgrey.com](http://blog.cgpgrey.com)
+ - date_published: 2024-10-19T04:32:38.565538+00:00
+
+ ## CGP Grey
+ - [https://cgpgrey.com](https://cgpgrey.com)
+ - date_published: 2024-12-04T11:43:47+00:00
+ - tags: ['youtuber', 'education', 'knowledge']
+
+ ## Building a Better Tomorrow, Today | CG Schmidt
+ - [http://www.cgschmidt.com](http://www.cgschmidt.com)
+ - date_published: 2019-03-14T00:00:00+00:00
+
  ## CGScholar
  - [https://cgscholar.com](https://cgscholar.com)
  - date_published: 2024-08-19T07:06:20.349470+00:00
 
  ## Global Entity Management | Computershare GEMS
- - [http://www.cgs-gems.com](http://www.cgs-gems.com)
+ - [https://cgs-gems.com](https://cgs-gems.com)
  - date_published: 2024-10-29T08:43:39.626951+00:00
 
  ## The Largest Banks - ​​How to Transfer Money With Only Card Number and CVV (2024)
@@ -4017,20 +4034,4 @@ Challonge
  ## Working at Chevron | Home
  - [https://careers.chevron.com](https://careers.chevron.com)
  - date_published: 2024-07-22T04:01:13.437235+00:00
-
- ## Chevron Corporation - Human Energy
- - [https://www.chevron.com](https://www.chevron.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## ChevsLife
- - [https://chevslife.com](https://chevslife.com)
- - date_published: 2024-09-03T22:50:53.091067+00:00
-
- ## Chevy Drives the Motor City - Chevy Detroit
- - [https://chevydetroit.com](https://chevydetroit.com)
- - date_published: 2024-05-07T16:30:07.999035+00:00
-
- ## Home - Chevy Hardcore
- - [https://www.chevyhardcore.com](https://www.chevyhardcore.com)
- - date_published: 2024-02-20T00:00:00+00:00
 

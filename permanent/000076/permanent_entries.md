@@ -1,3 +1,19 @@
+ ## Delusions of Grandeur
+ - [https://rumorsofheresy.blogspot.com](https://rumorsofheresy.blogspot.com)
+ - date_published: 2024-10-05T01:59:10+00:00
+
+ ## Nie znaleziono bloga
+ - [http://rumplification.blogspot.com](http://rumplification.blogspot.com)
+ - date_published: 2024-12-31T06:28:30.094679+00:00
+
+ ## Blogger
+ - [http://run4may.blogspot.com](http://run4may.blogspot.com)
+ - date_published: 2024-12-19T10:00:03.977346+00:00
+
+ ## Hello, My Name is Chris and I'm a Runaholic
+ - [https://runaholic-chris.blogspot.com](https://runaholic-chris.blogspot.com)
+ - date_published: 2024-09-15T05:04:13+00:00
+
  ## Blogger
  - [http://run-a-roundranch.blogspot.com](http://run-a-roundranch.blogspot.com)
  - date_published: 2024-10-29T19:36:20.103725+00:00
@@ -1425,7 +1441,7 @@
  - date_published: 2025-01-01T05:57:51.888045+00:00
 
  ## The Secret Science Club
- - [http://secretscienceclub.blogspot.com](http://secretscienceclub.blogspot.com)
+ - [https://secretscienceclub.blogspot.com](https://secretscienceclub.blogspot.com)
  - date_published: 2024-10-29T08:05:06+00:00
 
  ## Tell Me a Secret
@@ -3989,20 +4005,4 @@
  ## Standing - Looking
  - [http://standinglooking.blogspot.com](http://standinglooking.blogspot.com)
  - date_published: 2024-07-04T05:29:58+00:00
-
- ## Standing Small
- - [http://standing-small.blogspot.com](http://standing-small.blogspot.com)
- - date_published: 2024-07-04T05:50:21+00:00
-
- ## Didcot Wargames Club
- - [http://standwargaming.blogspot.com](http://standwargaming.blogspot.com)
- - date_published: 2024-06-17T08:07:10+00:00
-
- ## Stan Erickson's Alien Civilization Blog
- - [http://stanericksonsblog.blogspot.com](http://stanericksonsblog.blogspot.com)
- - date_published: 2024-07-28T18:13:28+00:00
-
- ## Heretic
- - [https://stan-heretic.blogspot.com](https://stan-heretic.blogspot.com)
- - date_published: 2024-10-15T07:28:10+00:00
 

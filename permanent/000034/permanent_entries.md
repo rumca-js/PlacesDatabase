@@ -1,3 +1,7 @@
+ ## Deck9 - Ethical Software Company
+ - [https://deck9.co](https://deck9.co)
+ - date_published: 2024-08-25T00:35:14+00:00
+
  ## MinIO Console
  - [https://s3.deck9.co](https://s3.deck9.co)
  - date_published: 2024-10-31T04:31:19+00:00
@@ -111,7 +115,7 @@
  - date_published: 2024-08-17T23:54:05.976654+00:00
 
  ## Design DB
- - [https://www.designdb.co](https://www.designdb.co)
+ - [https://designdb.co](https://designdb.co)
  - date_published: 2024-10-29T08:55:21.891529+00:00
 
  ## Learn UX/UI and Product Design Online | DesignerUp
@@ -4035,8 +4039,4 @@ It’s what you do.
  ## Kudeo
  - [https://plugin.kudeo.co](https://plugin.kudeo.co)
  - date_published: 2024-07-03T05:39:10.724284+00:00
-
- ## Kukuruku Hub
- - [https://kukuruku.co](https://kukuruku.co)
- - date_published: 2024-12-25T10:29:37.399572+00:00
 

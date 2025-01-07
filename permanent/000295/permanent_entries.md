@@ -1,3 +1,91 @@
+ ## Department of Chemistry | CSU – Department of Chemistry at Colorado State University
+ - [https://www.chem.colostate.edu](https://www.chem.colostate.edu)
+ - date_published: 2017-07-12T00:00:00+00:00
+
+ ## Home
+ - [https://www.chhs.colostate.edu](https://www.chhs.colostate.edu)
+ - date_published: 2024-07-22T06:03:11.758417+00:00
+
+ ## Home - Walter Scott, Jr. College of Engineering
+ - [https://www.engr.colostate.edu](https://www.engr.colostate.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Facilities Management | Colorado State University
+ - [https://www.fm.colostate.edu](https://www.fm.colostate.edu)
+ - date_published: 2024-04-30T03:48:10.626843+00:00
+
+ ## College of Liberal Arts | Colorado State University
+ - [https://www.libarts.colostate.edu](https://www.libarts.colostate.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Department of Mathematics | CSU – Department of Mathematics at Colorado State University
+ - [https://www.math.colostate.edu](https://www.math.colostate.edu)
+ - date_published: 2017-07-12T00:00:00+00:00
+
+ ## College of Natural Sciences | Colorado State University – College of Natural Sciences | Colorado State University site
+ - [http://www.natsci.colostate.edu](http://www.natsci.colostate.edu)
+ - date_published: 2016-10-26T00:00:00+00:00
+
+ ## Department of Physics | CSU – Department of Physics at Colorado State University
+ - [https://www.physics.colostate.edu](https://www.physics.colostate.edu)
+ - date_published: 2017-07-12T00:00:00+00:00
+
+ ## Vice President For Research - Colorado State University
+ - [https://www.research.colostate.edu](https://www.research.colostate.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## School of Social Work
+ - [http://www.ssw.chhs.colostate.edu](http://www.ssw.chhs.colostate.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Academic Commons
+ - [https://academiccommons.columbia.edu](https://academiccommons.columbia.edu)
+ - date_published: 2024-04-30T03:57:21.442622+00:00
+
+ ## Academic Degree Programs | Columbia Business School Academics
+ - [https://academics.gsb.columbia.edu](https://academics.gsb.columbia.edu)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Columbia | Accessibility
+ - [https://accessibility.columbia.edu](https://accessibility.columbia.edu)
+ - date_published: 2024-04-30T03:55:49.884523+00:00
+
+ ## AdaGrasp: Learning an Adaptive Gripper-Aware Grasping Policy
+ - [https://adagrasp.cs.columbia.edu](https://adagrasp.cs.columbia.edu)
+ - date_published: 2023-02-28T20:29:59+00:00
+
+ ## Columbia Alumni Association
+ - [https://alumni.columbia.edu](https://alumni.columbia.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Home | Columbia Undergraduate Admissions
+ - [https://apply.college.columbia.edu](https://apply.college.columbia.edu)
+ - date_published: 2024-07-22T05:44:00.242372+00:00
+
+ ## Graduate Admissions
+ - [https://apply.engineering.columbia.edu](https://apply.engineering.columbia.edu)
+ - date_published: 2018-02-13T20:54:31+00:00
+
+ ## Thinking About Applying - Columbia GSAPP
+ - [https://apply.gsapp.columbia.edu](https://apply.gsapp.columbia.edu)
+ - date_published: 2024-07-08T14:56:41.552953+00:00
+
+ ## Become a Student
+ - [https://apply.mailman.columbia.edu](https://apply.mailman.columbia.edu)
+ - date_published: 2022-11-03T15:11:43+00:00
+
+ ## Columbia University School of Professional Studies
+ - [https://apply.sps.columbia.edu](https://apply.sps.columbia.edu)
+ - date_published: 2024-07-22T00:55:28+00:00
+
+ ## Columbia Giving
+ - [https://arch.givenow.columbia.edu](https://arch.givenow.columbia.edu)
+ - date_published: 2024-07-08T14:55:40.871008+00:00
+
+ ## School of the Arts
+ - [https://arts.columbia.edu](https://arts.columbia.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Columbia Giving
  - [https://artsideas.givenow.columbia.edu](https://artsideas.givenow.columbia.edu)
  - date_published: 2024-07-22T05:44:53.975579+00:00
@@ -3917,92 +4005,4 @@
  ## Experiential Education
  - [https://my.experientialed.duke.edu](https://my.experientialed.duke.edu)
  - date_published: 2024-02-01T00:00:00+00:00
-
- ## My Giving to Duke
- - [https://my.giving.duke.edu](https://my.giving.duke.edu)
- - date_published: 2024-09-26T18:01:04.303870+00:00
-
- ## Homepage | myResearchPath
- - [https://myresearchpath.duke.edu](https://myresearchpath.duke.edu)
- - date_published: 2024-09-26T18:02:30.359431+00:00
-
- ## Home - Nasher Museum of Art at Duke University
- - [https://nasher.duke.edu](https://nasher.duke.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Duke Department of Neurosurgery
- - [https://neurosurgery.duke.edu](https://neurosurgery.duke.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Duke News
- - [https://news.duke.edu](https://news.duke.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Let me tell you a story... - Communications and Marketing
- - [https://newsoffice.duke.edu](https://newsoffice.duke.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Nicholas School of the Environment | Duke University
- - [https://nicholas.duke.edu](https://nicholas.duke.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Nicholas Institute for Energy, Environment & Sustainability | The Nicholas Institute for Energy, Environment & Sustainability
- - [https://nicholasinstitute.duke.edu](https://nicholasinstitute.duke.edu)
- - date_published: 2024-06-15T23:37:25+00:00
-
- ## OTC Annual Report – Duke's Office for Translation & Commercialization annual report
- - [https://numbers.otc.duke.edu](https://numbers.otc.duke.edu)
- - date_published: 2024-09-26T18:00:22.118862+00:00
-
- ## Duke University School of Nursing
- - [https://nursing.duke.edu](https://nursing.duke.edu)
- - date_published: 2024-06-16T07:15:52.788627+00:00
-
- ## Duke | OARC | Office of Audit, Risk and Compliance
- - [https://oarc.duke.edu](https://oarc.duke.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## About - Office of Global Health and Safety
- - [https://oghs.duke.edu](https://oghs.duke.edu)
- - date_published: 2023-12-12T00:00:00+00:00
-
- ## Welcome | Office of Information Technology
- - [https://oit.duke.edu](https://oit.duke.edu)
- - date_published: 2024-06-16T13:30:15+00:00
-
- ## Office of Research Support (ORS) | Duke Research & Innovation
- - [https://ors.duke.edu](https://ors.duke.edu)
- - date_published: 2024-06-16T07:03:32+00:00
-
- ## Home Page — Duke OTC
- - [https://otc.duke.edu](https://otc.duke.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Office of University Scholars & Fellows | Office of University Scholars and Fellows
- - [https://ousf.duke.edu](https://ousf.duke.edu)
- - date_published: 2024-09-26T17:34:09+00:00
-
- ## Duke Medical Center Library Payments
- - [https://payments.mclibrary.duke.edu](https://payments.mclibrary.duke.edu)
- - date_published: 2024-10-16T09:16:48.753360+00:00
-
- ## people.duke.edu
- - [https://people.duke.edu](https://people.duke.edu)
- - date_published: 2023-08-16T14:45:47+00:00
-
- ## Faculty
- - [https://people.ee.duke.edu](https://people.ee.duke.edu)
- - date_published: 2024-06-22T04:46:26+00:00
-
- ## Front Page | Department of Physics
- - [https://physics.duke.edu](https://physics.duke.edu)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Home | Campus Police
- - [https://police.duke.edu](https://police.duke.edu)
- - date_published: 2024-09-26T17:15:03+00:00
-
- ## Home - Polis: Center for Politics
- - [https://polis.duke.edu](https://polis.duke.edu)
- - date_published: 2024-08-23T00:00:00+00:00
 

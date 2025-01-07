@@ -1,3 +1,91 @@
+ ## itratos - Ihre eCommerce & eBusiness Agentur für OXID eShop, TYPO3, xt:Commerce Shops, Drupal und Joomla Projekte - Modul Entwicklung für openERP und Ihr Partner für ausgereifte Deployment Lösungen
+ - [http://www.itratos.de](http://www.itratos.de)
+ - date_published: 2024-04-29T07:11:28.139813+00:00
+
+ ## IT-Recht Kanzlei - "TOP WIRTSCHAFTSKANZLEI 2023" (Focus 09/2023)
+ - [https://www.it-recht-kanzlei.de](https://www.it-recht-kanzlei.de)
+ - date_published: 2024-07-11T22:06:37.878093+00:00
+
+ ## it republik - Das umfassende Portal zu allen IT-Themen
+ - [https://it-republik.de](https://it-republik.de)
+ - date_published: 2024-06-15T16:43:39.721711+00:00
+
+ ## it-sa 365 I Die ganzjährige Dialogplattform der IT-Security Branche
+ - [https://www.itsa365.de](https://www.itsa365.de)
+ - date_published: 2024-09-28T23:26:17.777281+00:00
+
+ ## Das Magazin für alle Security-Themen
+ - [http://www.itseccity.de](http://www.itseccity.de)
+ - date_published: 2024-07-11T13:54:43.463377+00:00
+
+ ## IT Security Bootcamp mit Christian Schneider | Startseite
+ - [https://it-security-camp.de](https://it-security-camp.de)
+ - date_published: 2024-08-07T23:28:35+00:00
+
+ ## IT Security Summit - The ultimate training event
+ - [https://it-security-summit.de](https://it-security-summit.de)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Marktplatz IT-Sicherheit - gemeinsam mehr erreichen
+ - [http://www.it-sicherheit.de](http://www.it-sicherheit.de)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## IT-Sicherheit in der Wirtschaft
+ - [http://www.it-sicherheit-in-der-wirtschaft.de](http://www.it-sicherheit-in-der-wirtschaft.de)
+ - date_published: 2024-08-06T18:40:10.332001+00:00
+
+ ## Willkommen - IT Solutions Neef
+ - [https://it-solutions-neef.de](https://it-solutions-neef.de)
+ - date_published: 2024-05-02T13:34:01.551864+00:00
+
+ ## Home - Hamburger IT-Strategietage
+ - [https://www.it-strategietage.de](https://www.it-strategietage.de)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## www.IT-Visions.de - die besten .NET-, Web-, Java- und Microsoft-Experten in Deutschland
+ - [https://www.it-visions.de](https://www.it-visions.de)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Dein Studium an der IU | IU Internationale Hochschule
+ - [https://www.iu.de](https://www.iu.de)
+ - date_published: 2024-12-10T22:23:33.598909+00:00
+
+ ## Duales Studium für Bachelor | IU Duales Studium
+ - [https://www.iubh-dualesstudium.de](https://www.iubh-dualesstudium.de)
+ - date_published: 2024-10-22T05:34:01.425842+00:00
+
+ ## IVO-BAU
+ - [http://ivo-bau.de](http://ivo-bau.de)
+ - date_published: 2024-07-02T18:44:17.432100+00:00
+
+ ## IVU - Software für den öffentlichen Verkehr
+ - [https://www.ivu.de](https://www.ivu.de)
+ - date_published: 2024-07-08T17:21:40.146198+00:00
+
+ ## Startseite | Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V.
+ - [https://ivw.de](https://ivw.de)
+ - date_published: 2024-04-29T06:48:52.129626+00:00
+
+ ## IVW – Ausweisung Paid Content
+ - [https://paid-content-ausweisung.ivw.de](https://paid-content-ausweisung.ivw.de)
+ - date_published: 2024-07-24T04:32:27.586113+00:00
+
+ ## IVW - Quartalsausweisung
+ - [https://quartalsausweisung.ivw.de](https://quartalsausweisung.ivw.de)
+ - date_published: 2024-07-24T04:32:25.128724+00:00
+
+ ## IVW – ONIX
+ - [http://www.onix.ivw.de](http://www.onix.ivw.de)
+ - date_published: 2024-07-24T04:32:26.663866+00:00
+
+ ## Digital lnside
+ - [http://blog.ivw-digital.de](http://blog.ivw-digital.de)
+ - date_published: 2024-07-24T04:32:24.031174+00:00
+
+ ## IVW
+ - [https://www.ivwonline.de](https://www.ivwonline.de)
+ - date_published: 2024-07-24T04:32:25.759062+00:00
+
  ## Leibniz-Institut für Wirtschaftsforschung Halle (IWH)
  - [https://www.iwh-halle.de](https://www.iwh-halle.de)
  - date_published: 2024-12-10T20:04:04.338124+00:00
@@ -359,7 +447,7 @@
  - date_published: 2024-07-03T17:12:20+00:00
 
  ## Deine externe Marketing-Abteilung - jonas-strambach.de
- - [https://www.jonas-strambach.de](https://www.jonas-strambach.de)
+ - [https://jonas-strambach.de](https://jonas-strambach.de)
  - date_published: 2024-10-28T23:30:47.781383+00:00
 
  ## almereyda
@@ -1867,7 +1955,7 @@
  - date_published: 2024-06-22T09:37:52+00:00
 
  ## Startseite - Kulturrat Thüringen e.V.
- - [https://www.kulturrat-thueringen.de](https://www.kulturrat-thueringen.de)
+ - [https://kulturrat-thueringen.de](https://kulturrat-thueringen.de)
  - date_published: 2024-10-29T11:12:46.899663+00:00
 
  ## Niederrhein-Kult
@@ -3931,92 +4019,4 @@
  ## maxsommer.de | me
  - [https://maxsommer.de](https://maxsommer.de)
  - date_published: 2024-06-16T09:45:40+00:00
-
- ## max-wissen.de
- - [https://max-wissen.de](https://max-wissen.de)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## maxziebell
- - [https://maxziebell.de](https://maxziebell.de)
- - date_published: 2024-05-09T08:06:44.185092+00:00
-
- ## Welcome to Mazak
- - [https://www.mazakeu.de](https://www.mazakeu.de)
- - date_published: 2024-07-16T17:31:32.639832+00:00
-
- ## Willkommen | Mazda Deutschland
- - [https://www.mazda.de](https://www.mazda.de)
- - date_published: 2024-06-25T22:39:03.743809+00:00
-
- ## Dem Matthias Rustler seine Homepage
- - [http://www.mazze-online.de](http://www.mazze-online.de)
- - date_published: 2017-07-29T00:00:00+00:00
-
- ## Friendica Social Network | Home
- - [https://friendica.mbbit.de](https://friendica.mbbit.de)
- - date_published: 2024-07-10T07:28:41.906906+00:00
-
- ## MBExC – Multiscale Bioimaging – Cluster of Excellence
- - [https://mbexc.de](https://mbexc.de)
- - date_published: 2024-04-29T07:00:28.607552+00:00
-
- ## Agentur für digitale Medien - m-bient Mediadesign Essen-Rüttenscheid
- - [https://m-bient.de](https://m-bient.de)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## m box
- - [https://www.m-box.de](https://www.m-box.de)
- - date_published: 2024-07-09T22:30:08.808960+00:00
-
- ## MBR
- - [http://www.mbr-berlin.de](http://www.mbr-berlin.de)
- - date_published: 2021-02-18T16:01:45+00:00
-
- ## MDA 2023 International Conference on Mass Data Analysis of Images and Signals with Applications in Medicine, r/g/b Biotechnology, Food Industries and Dietetics, Biometry, Securitry and Agriculture
- - [http://www.mda-signals.de](http://www.mda-signals.de)
- - date_published: 2024-12-12T20:08:38.999951+00:00
-
- ## Max Delbrück Center
- - [https://mdc-berlin.de](https://mdc-berlin.de)
- - date_published: 2023-10-25T18:32:02.264905+00:00
-
- ## Shiny Server provided by MDC/BIMSB
- - [http://shiny.mdc-berlin.de](http://shiny.mdc-berlin.de)
- - date_published: 2024-02-07T14:07:29+00:00
-
- ## MDM Online: Aktuelles
- - [https://www.mdm-online.de](https://www.mdm-online.de)
- - date_published: 2024-07-13T16:18:11.030459+00:00
-
- ## Martins Schmierzettel
- - [https://blog.mdosch.de](https://blog.mdosch.de)
- - date_published: 2024-02-22T20:21:22+00:00
-
- ## mdr.de – Radio, Fernsehen, Nachrichten für Mitteldeutschland                                                          | MDR.DE
- - [https://avw.mdr.de](https://avw.mdr.de)
- - date_published: 2024-07-01T10:56:07.580399+00:00
-
- ## mdr.de – Radio, Fernsehen, Nachrichten für Mitteldeutschland                                                          | MDR.DE
- - [https://cdn.mdr.de](https://cdn.mdr.de)
- - date_published: 2024-07-14T02:30:44.226025+00:00
-
- ## mdr.de – Radio, Fernsehen, Nachrichten für Mitteldeutschland                                          | MDR.DE
- - [https://mdr.de](https://mdr.de)
- - date_published: 2024-05-11T08:55:56.720493+00:00
-
- ## MDR JUMP Startseite | MDRJUMP.DE
- - [https://www.mdrjump.de](https://www.mdrjump.de)
- - date_published: 2024-07-14T02:30:40.219403+00:00
-
- ## Medau-Schule | Ausbildung & Studium auf dem Campus | Coburg
- - [http://www.medau-schule.de](http://www.medau-schule.de)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## funky
- - [https://mediacampus-projekt.de](https://mediacampus-projekt.de)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## MEDIA DIVISION Homepage
- - [https://www.media-division.de](https://www.media-division.de)
- - date_published: 2020-10-21T14:56:53+00:00
 

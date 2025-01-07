@@ -780,7 +780,7 @@
  - date_published: 2024-10-27T12:50:22.530910+00:00
 
  ## Dubai Future Foundation | Shaping The Future of Dubai
- - [https://www.dubaifuture.ae](https://www.dubaifuture.ae)
+ - [https://dubaifuture.ae](https://dubaifuture.ae)
  - date_published: 2024-10-28T23:46:17.390961+00:00
 
  ## Dubai Medical Tourism | Medical Tourism Agency in Dubai - DXH
@@ -1326,7 +1326,7 @@
  - date_published: 2024-05-09T02:34:55.219153+00:00
 
  ## هيئة كهرباء ومياه دبي (ديوا) | الصفحة الرئيسية
- - [https://www.dewa.gov.ae](https://www.dewa.gov.ae)
+ - [https://dewa.gov.ae](https://dewa.gov.ae)
  - date_published: 2024-10-28T23:45:34.325244+00:00
 
  ## دبي للإعلام
@@ -1350,7 +1350,7 @@
  - date_published: 2024-09-19T00:00:00+00:00
 
  ## Emirates Nuclear Energy Corporation
- - [https://www.enec.gov.ae](https://www.enec.gov.ae)
+ - [https://enec.gov.ae](https://enec.gov.ae)
  - date_published: 2024-10-28T23:44:55+00:00
 
  ## الصفحة الرئيسية
@@ -2926,7 +2926,7 @@
  - date_published: 2024-10-30T19:08:04.096769+00:00
 
  ## Alvin - Maximise Data Impact, Slash Cloud Spend
- - [https://www.alvin.ai](https://www.alvin.ai)
+ - [https://alvin.ai](https://alvin.ai)
  - date_published: 2024-10-29T08:42:04+00:00
 
  ## Login -  AlwaysOn

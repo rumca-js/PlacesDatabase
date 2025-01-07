@@ -1,3 +1,72 @@
+ ## The Prism | Gurwinder | Substack
+ - [https://gurwinder.substack.com](https://gurwinder.substack.com)
+ - date_published: 2023-10-25T11:46:58.520291+00:00
+ - tags: ['substack']
+
+ ## The Gutter | Guttermouth | Substack
+ - [https://guttermouth.substack.com](https://guttermouth.substack.com)
+ - date_published: 2024-10-31T22:38:58.636577+00:00
+
+ ## Guy James' Substack | Substack
+ - [https://guyjames.substack.com](https://guyjames.substack.com)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Gwendal Brossard’s Newsletter | Substack
+ - [https://gwendalbrossard.substack.com](https://gwendalbrossard.substack.com)
+ - date_published: 2024-12-15T07:38:11.903146+00:00
+
+ ## Gwern.net Newsletter | Substack
+ - [https://gwern.substack.com](https://gwern.substack.com)
+ - date_published: 2024-02-25T20:35:20.331613+00:00
+
+ ## Memos to Nobody | Greg Wester | Substack
+ - [https://gwestr.substack.com](https://gwestr.substack.com)
+ - date_published: 2024-06-24T05:20:30.888332+00:00
+
+ ## HackBoyFly | Pontus | Substack
+ - [https://hackboyfly.substack.com](https://hackboyfly.substack.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Hacker Stations Newsletter | Substack
+ - [https://hackerstations.substack.com](https://hackerstations.substack.com)
+ - date_published: 2024-05-04T09:13:51.420911+00:00
+
+ ## The Hagakure | Paulo André | Substack
+ - [https://hagakure.substack.com](https://hagakure.substack.com)
+ - date_published: 2024-01-09T01:40:36.254592+00:00
+
+ ## Punishingly Haimona | Haimona Gray | Substack
+ - [https://haimona.substack.com](https://haimona.substack.com)
+ - date_published: 2024-10-31T22:51:03.985062+00:00
+
+ ## Trial and error | Hakan Koklu | Substack
+ - [https://hakann.substack.com](https://hakann.substack.com)
+ - date_published: 2025-01-02T21:14:10.864181+00:00
+
+ ## Maybe Baby | Haley Nahman | Substack
+ - [https://haleynahman.substack.com](https://haleynahman.substack.com)
+ - date_published: 2024-01-09T01:40:38.764256+00:00
+
+ ## Half-Page Essays | Ken Lane | Substack
+ - [https://halfpageessays.substack.com](https://halfpageessays.substack.com)
+ - date_published: 2024-05-10T04:55:31.204265+00:00
+
+ ## Hal Johnson Books | Substack
+ - [https://haljohnsonbooks.substack.com](https://haljohnsonbooks.substack.com)
+ - date_published: 2024-10-27T17:52:47.920977+00:00
+
+ ## Hamamreh - Wislabi.com | Dr. Jehad M. Hamamreh | Substack
+ - [https://hamamreh.substack.com](https://hamamreh.substack.com)
+ - date_published: 2024-07-08T16:37:43.908101+00:00
+
+ ## Mike Taylor | Substack
+ - [https://hammermt.substack.com](https://hammermt.substack.com)
+ - date_published: 2024-10-28T05:42:55.987690+00:00
+
+ ## Hands-on Agile by Stefan Wolpers | Substack
+ - [https://handsonagile.substack.com](https://handsonagile.substack.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
  ## METAXU | Hannah Close | Substack
  - [https://hannahlclose.substack.com](https://hannahlclose.substack.com)
  - date_published: 2024-02-09T00:00:00+00:00
@@ -4013,74 +4082,4 @@
  ## RadioFarSide’s Teletype | Radio Far Side | Substack
  - [https://radiofarside.substack.com](https://radiofarside.substack.com)
  - date_published: 2024-08-04T00:00:00+00:00
-
- ## The Watch | Radley Balko | Substack
- - [https://radleybalko.substack.com](https://radleybalko.substack.com)
- - date_published: 2024-01-09T01:43:26.643609+00:00
-
- ## Rafal’s Notes | Substack
- - [https://rafalzawadzki.substack.com](https://rafalzawadzki.substack.com)
- - date_published: 2024-07-12T20:03:03.917168+00:00
-
- ## Rahul’s Renaissance Quest  | Substack
- - [https://rahulmajumdar.substack.com](https://rahulmajumdar.substack.com)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## The Morning Star | Rain Morningstar | Substack
- - [https://rainmorningstar.substack.com](https://rainmorningstar.substack.com)
- - date_published: 2024-07-20T21:33:12.403672+00:00
-
- ## Raising Dust  | Toby Tremlett | Substack
- - [https://raisingdust.substack.com](https://raisingdust.substack.com)
- - date_published: 2024-08-18T19:40:15.201328+00:00
-
- ## Rajan’s Substack | Rajan Sheth | Substack
- - [https://rajansheth.substack.com](https://rajansheth.substack.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Imperfect Information | Rajiv Sethi | Substack
- - [https://rajivsethi.substack.com](https://rajivsethi.substack.com)
- - date_published: 2024-12-25T16:18:22.403885+00:00
-
- ## Rak's Facts | Rak Garg | Substack
- - [https://rakgarg.substack.com](https://rakgarg.substack.com)
- - date_published: 2024-10-16T19:24:36.892604+00:00
-
- ## Identity Revive | Rakkhi Joy | Substack
- - [https://rakkhi.substack.com](https://rakkhi.substack.com)
- - date_published: 2023-10-25T10:01:24.275651+00:00
- - tags: ['substack']
-
- ## A Blog For The Anthropocene | Rama Pascala | Substack
- - [https://ramapascala.substack.com](https://ramapascala.substack.com)
- - date_published: 2024-01-09T01:43:29.182979+00:00
-
- ## Rambleware | Matthew Carlson | Substack
- - [https://rambleware.substack.com](https://rambleware.substack.com)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Constant Commoner | Ramona Grigg | Substack
- - [https://ramonagrigg.substack.com](https://ramonagrigg.substack.com)
- - date_published: 2024-10-29T19:59:43.975792+00:00
-
- ## Random Acts of Medicine | Chris Worsham | Substack
- - [https://randomactsofmedicine.substack.com](https://randomactsofmedicine.substack.com)
- - date_published: 2023-10-25T10:01:28.416412+00:00
- - tags: ['substack']
-
- ## Random Minds by Katherine Brodsky | Substack
- - [https://randomminds.substack.com](https://randomminds.substack.com)
- - date_published: 2024-01-09T01:43:32.377862+00:00
-
- ## Randy Hoback, MP | Substack
- - [https://randyhoback.substack.com](https://randyhoback.substack.com)
- - date_published: 2024-12-25T21:51:14.631445+00:00
-
- ## The Rate of Change | Aatish Bhatia | Substack
- - [https://rateofchange.substack.com](https://rateofchange.substack.com)
- - date_published: 2024-05-01T00:33:10.672490+00:00
-
- ## Ravi Joseph | Substack
- - [http://ravijoseph1.substack.com](http://ravijoseph1.substack.com)
- - date_published: 2024-02-26T00:00:00+00:00
 

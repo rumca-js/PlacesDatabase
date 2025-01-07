@@ -1,3 +1,91 @@
+ ## My Giving to Duke
+ - [https://my.giving.duke.edu](https://my.giving.duke.edu)
+ - date_published: 2024-09-26T18:01:04.303870+00:00
+
+ ## Homepage | myResearchPath
+ - [https://myresearchpath.duke.edu](https://myresearchpath.duke.edu)
+ - date_published: 2024-09-26T18:02:30.359431+00:00
+
+ ## Home - Nasher Museum of Art at Duke University
+ - [https://nasher.duke.edu](https://nasher.duke.edu)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Duke Department of Neurosurgery
+ - [https://neurosurgery.duke.edu](https://neurosurgery.duke.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Duke News
+ - [https://news.duke.edu](https://news.duke.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Let me tell you a story... - Communications and Marketing
+ - [https://newsoffice.duke.edu](https://newsoffice.duke.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Nicholas School of the Environment | Duke University
+ - [https://nicholas.duke.edu](https://nicholas.duke.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Nicholas Institute for Energy, Environment & Sustainability | The Nicholas Institute for Energy, Environment & Sustainability
+ - [https://nicholasinstitute.duke.edu](https://nicholasinstitute.duke.edu)
+ - date_published: 2024-06-15T23:37:25+00:00
+
+ ## OTC Annual Report – Duke's Office for Translation & Commercialization annual report
+ - [https://numbers.otc.duke.edu](https://numbers.otc.duke.edu)
+ - date_published: 2024-09-26T18:00:22.118862+00:00
+
+ ## Duke University School of Nursing
+ - [https://nursing.duke.edu](https://nursing.duke.edu)
+ - date_published: 2024-06-16T07:15:52.788627+00:00
+
+ ## Duke | OARC | Office of Audit, Risk and Compliance
+ - [https://oarc.duke.edu](https://oarc.duke.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## About - Office of Global Health and Safety
+ - [https://oghs.duke.edu](https://oghs.duke.edu)
+ - date_published: 2023-12-12T00:00:00+00:00
+
+ ## Welcome | Office of Information Technology
+ - [https://oit.duke.edu](https://oit.duke.edu)
+ - date_published: 2024-06-16T13:30:15+00:00
+
+ ## Office of Research Support (ORS) | Duke Research & Innovation
+ - [https://ors.duke.edu](https://ors.duke.edu)
+ - date_published: 2024-06-16T07:03:32+00:00
+
+ ## Home Page — Duke OTC
+ - [https://otc.duke.edu](https://otc.duke.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Office of University Scholars & Fellows | Office of University Scholars and Fellows
+ - [https://ousf.duke.edu](https://ousf.duke.edu)
+ - date_published: 2024-09-26T17:34:09+00:00
+
+ ## Duke Medical Center Library Payments
+ - [https://payments.mclibrary.duke.edu](https://payments.mclibrary.duke.edu)
+ - date_published: 2024-10-16T09:16:48.753360+00:00
+
+ ## people.duke.edu
+ - [https://people.duke.edu](https://people.duke.edu)
+ - date_published: 2023-08-16T14:45:47+00:00
+
+ ## Faculty
+ - [https://people.ee.duke.edu](https://people.ee.duke.edu)
+ - date_published: 2024-06-22T04:46:26+00:00
+
+ ## Front Page | Department of Physics
+ - [https://physics.duke.edu](https://physics.duke.edu)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Home | Campus Police
+ - [https://police.duke.edu](https://police.duke.edu)
+ - date_published: 2024-09-26T17:15:03+00:00
+
+ ## Home - Polis: Center for Politics
+ - [https://polis.duke.edu](https://polis.duke.edu)
+ - date_published: 2024-08-23T00:00:00+00:00
+
  ## Home | Duke Pratt School of Engineering
  - [https://pratt.duke.edu](https://pratt.duke.edu)
  - date_published: 2023-12-11T12:00:31.232853+00:00
@@ -3915,93 +4003,4 @@
  ## Home
  - [https://content.sitemasonry.gmu.edu](https://content.sitemasonry.gmu.edu)
  - date_published: 2024-04-30T04:28:19.070514+00:00
-
- ## Corley Institute
- - [https://corleyinstitute.gmu.edu](https://corleyinstitute.gmu.edu)
- - date_published: 2024-07-21T23:20:35.938553+00:00
-
- ## Home
- - [https://cpe.gmu.edu](https://cpe.gmu.edu)
- - date_published: 2024-08-11T12:13:40.192708+00:00
-
- ## Corner Pocket - George Mason University Student Centers
- - [https://cp.gmu.edu](https://cp.gmu.edu)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Yotam Gingold - Computational Reality, Creativity and Graphics Lab (CraGL)
- - [https://cragl.cs.gmu.edu](https://cragl.cs.gmu.edu)
- - date_published: 2024-04-28T03:54:50.045737+00:00
-
- ## Home |
-             George Mason Department of Computer Science
- - [https://cs.gmu.edu](https://cs.gmu.edu)
- - date_published: 2024-01-09T02:59:13.641642+00:00
-
- ## MASON ARTS EVENT CALENDAR
- - [https://cvpa.calendar.gmu.edu](https://cvpa.calendar.gmu.edu)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Home
- - [https://cvpa.gmu.edu](https://cvpa.gmu.edu)
- - date_published: 2024-04-30T04:28:49.181719+00:00
-
- ## Home
- - [https://dance.gmu.edu](https://dance.gmu.edu)
- - date_published: 2024-07-21T20:19:04+00:00
-
- ## Home
- - [https://diversity.gmu.edu](https://diversity.gmu.edu)
- - date_published: 2024-04-30T04:26:08.756307+00:00
-
- ## Home
- - [https://diversity.sitemasonry.gmu.edu](https://diversity.sitemasonry.gmu.edu)
- - date_published: 2024-07-21T22:51:47+00:00
-
- ## Data & Digital Scholarship Services
- - [https://dsc.gmu.edu](https://dsc.gmu.edu)
- - date_published: 2024-07-22T02:59:47.763202+00:00
-
- ## Home - Disability Services
- - [http://ds.gmu.edu](http://ds.gmu.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Center for Discovery Science and Health Informatics at George Mason University
- - [https://dshi.gmu.edu](https://dshi.gmu.edu)
- - date_published: 2024-04-30T04:27:41.542619+00:00
-
- ## Server Maintenance - George Mason University
- - [https://eagle.gmu.edu](https://eagle.gmu.edu)
- - date_published: 2015-07-28T14:45:46+00:00
-
- ## home
- - [https://economics.gmu.edu](https://economics.gmu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## School of Education - Home | George Mason University
- - [https://education.gmu.edu](https://education.gmu.edu)
- - date_published: 2024-08-11T12:20:09.474784+00:00
-
- ## Early Identification Program - EIP
- - [https://eip.gmu.edu](https://eip.gmu.edu)
- - date_published: 2024-07-22T00:20:17+00:00
-
- ## University Events
- - [https://events.gmu.edu](https://events.gmu.edu)
- - date_published: 2024-07-21T04:51:39+00:00
-
- ## Patriots Brave & Bold
- - [https://facilities.gmu.edu](https://facilities.gmu.edu)
- - date_published: 2024-08-11T12:19:34.919563+00:00
-
- ## Home
- - [https://faculty.gmu.edu](https://faculty.gmu.edu)
- - date_published: 2024-04-30T04:28:26.008796+00:00
-
- ## Home
- - [https://film.gmu.edu](https://film.gmu.edu)
- - date_published: 2024-07-21T20:52:03+00:00
-
- ## Financial Aid
- - [http://financialaid.gmu.edu](http://financialaid.gmu.edu)
- - date_published: 2024-08-08T20:52:30+00:00
 

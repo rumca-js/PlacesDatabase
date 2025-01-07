@@ -1,3 +1,124 @@
+ ## SilverStone
+ - [https://www.silverstonetek.com.tw](https://www.silverstonetek.com.tw)
+ - date_published: 2024-07-04T09:29:13.204523+00:00
+
+ ## SK-II: 讓您的肌膚更加年輕透亮的專業美肌護膚品牌 | SK-II 台灣
+ - [https://sk-ii.com.tw](https://sk-ii.com.tw)
+ - date_published: 2024-10-29T06:35:34.703305+00:00
+
+ ## Skyscanner
+ - [https://skyscanner.com.tw](https://skyscanner.com.tw)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## 雪諾必克*Snow Peak
+ - [https://www.snowpeak.com.tw](https://www.snowpeak.com.tw)
+ - date_published: 2024-07-15T06:46:42.549315+00:00
+
+ ## 台灣索尼 | 最新技術消息 | 電子產品 | 娛樂
+ - [https://sony.com.tw](https://sony.com.tw)
+ - date_published: 2024-10-21T07:37:55.324784+00:00
+
+ ## Sony Pictures Taiwan | 主頁 Homepage
+ - [https://www.sonypictures.com.tw](https://www.sonypictures.com.tw)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Home - SPIL
+ - [https://www.spil.com.tw](https://www.spil.com.tw)
+ - date_published: 2024-12-30T17:56:58.253298+00:00
+
+ ## 微熱山丘 Sunnyhills
+ - [https://sunnyhills.com.tw](https://sunnyhills.com.tw)
+ - date_published: 2024-03-28T03:38:34+00:00
+
+ ## 南港展覽館
+ - [https://tainex.com.tw](https://tainex.com.tw)
+ - date_published: 2021-12-20T07:34:02+00:00
+
+ ## Taipei 101 台北101
+ - [https://www.taipei-101.com.tw](https://www.taipei-101.com.tw)
+ - date_published: 2024-10-31T12:01:05.223827+00:00
+
+ ## STAGE@TAIPEI 101
+ - [https://stage.taipei101mall.com.tw](https://stage.taipei101mall.com.tw)
+ - date_published: 2024-12-14T15:15:46.133934+00:00
+
+ ## 台灣彩券
+ - [http://www.taiwanlottery.com.tw](http://www.taiwanlottery.com.tw)
+ - date_published: 2024-07-22T06:00:56+00:00
+
+ ## Directory of Taiwan | 台灣指南
+ - [https://directory.taiwannews.com.tw](https://directory.taiwannews.com.tw)
+ - date_published: 2024-05-02T10:39:47.994459+00:00
+
+ ## Taiwan News - Voice of the People, Bridge to the World
+ - [https://taiwannews.com.tw](https://taiwannews.com.tw)
+ - date_published: 2024-05-02T10:39:51.243016+00:00
+
+ ## Welcome to TATUNG-OKUMA CO.,LTD
+ - [https://tatung-okuma.com.tw](https://tatung-okuma.com.tw)
+ - date_published: 2019-10-28T07:26:32+00:00
+
+ ## TBMS 博而美國際
+ - [https://www.tbms.com.tw](https://www.tbms.com.tw)
+ - date_published: 2024-10-07T22:10:25.297996+00:00
+
+ ## Terasic Inc. - Expertise in FPGA/ASIC Design
+ - [https://terasic.com.tw](https://terasic.com.tw)
+ - date_published: 2024-05-07T15:42:59.769265+00:00
+
+ ## TEX
+ - [https://tex.com.tw](https://tex.com.tw)
+ - date_published: 2024-12-22T22:45:51.240922+00:00
+
+ ## TIGAX台北國際印刷機材展
+ - [https://www.tigax.com.tw](https://www.tigax.com.tw)
+ - date_published: 2024-12-14T15:12:01.308833+00:00
+
+ ## 台灣東販
+ - [https://www.tohan.com.tw](https://www.tohan.com.tw)
+ - date_published: 2024-12-31T13:48:26.613638+00:00
+
+ ## Toshiba Electronic Components Taiwan Corporation- Hard Disk Drive Division-Client Hard Disk Drive,Enterprise Hard Disk Drive, External Hard Disk Drive, SSD
+ - [https://www.sdd.toshiba.com.tw](https://www.sdd.toshiba.com.tw)
+ - date_published: 2024-07-15T03:28:10.678894+00:00
+
+ ## Tripadvisor： 超過 10 億則飯店、景點和餐廳及更多內容的評論
+ - [https://tripadvisor.com.tw](https://tripadvisor.com.tw)
+ - date_published: 2024-06-23T09:27:01.079491+00:00
+
+ ## trivago.com.tw - Compare hotel prices worldwide
+ - [https://trivago.com.tw](https://trivago.com.tw)
+ - date_published: 2024-09-04T11:19:42.589836+00:00
+
+ ## TSMC - Starting Page
+ - [https://supplyonline.tsmc.com.tw](https://supplyonline.tsmc.com.tw)
+ - date_published: 2020-12-22T01:46:33+00:00
+
+ ## TSMC - Starting Page
+ - [http://supply.tsmc.com.tw](http://supply.tsmc.com.tw)
+ - date_published: 2020-12-22T02:47:18+00:00
+ - date_dead_since: 2025-01-05T19:19:27.378945+00:00
+
+ ## TVBS新聞網
+ - [https://news.tvbs.com.tw](https://news.tvbs.com.tw)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## 普雷伊電視遊樂器專賣店
+ - [https://www.tvgame.com.tw](https://www.tvgame.com.tw)
+ - date_published: 2024-11-08T13:06:50.194234+00:00
+
+ ## TWCA - 臺灣網路認證 - 為資安把關，提供SSL憑證、身分識別、電子簽署等網路安全機制
+ - [https://twca.com.tw](https://twca.com.tw)
+ - date_published: 2024-06-21T15:23:12.147780+00:00
+
+ ## forward
+ - [https://emops.twse.com.tw](https://emops.twse.com.tw)
+ - date_published: 2019-05-31T09:47:58+00:00
+
+ ## 聯邦銀行
+ - [https://www.ubot.com.tw](https://www.ubot.com.tw)
+ - date_published: 2024-10-04T08:00:49+00:00
+
  ## Attention Required! | Cloudflare
  - [https://vecow.utrust.com.tw](https://vecow.utrust.com.tw)
  - date_published: 2024-09-05T21:00:42.277897+00:00
@@ -991,7 +1112,7 @@
  - date_published: 2012-12-15T09:28:53+00:00
 
  ## TVCA中華民國創業投資商業同業公會
- - [https://www.tvca.org.tw](https://www.tvca.org.tw)
+ - [https://tvca.org.tw](https://tvca.org.tw)
  - date_published: 2024-10-29T05:56:56+00:00
 
  ## iWIN網路內容防護機構 - 首頁
@@ -3908,124 +4029,4 @@
  ## Онлайн казино СлотоКінг - номер 1 в Україні
  - [https://slotoking.ua](https://slotoking.ua)
  - date_published: 2024-06-16T19:42:22.592236+00:00
-
- ## Slots City®  Казино — Найкраще онлайн казино України 2024
- - [https://slotscity.ua](https://slotscity.ua)
- - date_published: 2024-09-09T20:53:58.756851+00:00
-
- ## Головна
- - [https://smak.ua](https://smak.ua)
- - date_published: 2017-04-10T21:00:00+00:00
-
- ## Sony Україна | Новини про останні технології | Електроніка | Розваги
- - [https://www.sony.ua](https://www.sony.ua)
- - date_published: 2024-10-21T07:37:40.234019+00:00
-
- ## Судово-юридична газета
- - [https://sud.ua](https://sud.ua)
- - date_published: 2023-12-24T14:29:22.262220+00:00
-
- ## Интернет-магазин Телемарт — магазин  комплектующих для ПК, игровой периферии и техники в Украине | Киев, Днепр, Харьков, Одесса, Львов, Хмельницкий - Telemart
- - [https://telemart.ua](https://telemart.ua)
- - date_published: 2024-07-13T13:39:54.694183+00:00
-
- ## Сувенірна продукція | Toyota Україна
- - [https://collection.toyota.ua](https://collection.toyota.ua)
- - date_published: 2024-10-16T15:39:33.710120+00:00
-
- ## Тойота з пробігом купити в Україні
- - [https://usedcars.toyota.ua](https://usedcars.toyota.ua)
- - date_published: 2024-10-16T15:39:31.313649+00:00
-
- ## Офіційний сайт Toyota : Ціни на автомобілі Toyota
- - [https://www.toyota.ua](https://www.toyota.ua)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Новини України і світу сьогодні • Головні і останні новини дня на ТСН
- - [https://tsn.ua](https://tsn.ua)
- - date_published: 2024-07-27T02:47:54.575886+00:00
-
- ## Головна
- - [https://tv.ua](https://tv.ua)
- - date_published: 2016-12-31T22:00:00+00:00
-
- ## Головна - Український тиждень
- - [https://tyzhden.ua](https://tyzhden.ua)
- - date_published: 2022-09-23T12:24:13+00:00
-
- ## Future Ukraine: відкрий Україну майбутнього
- - [https://future.ukraine.ua](https://future.ukraine.ua)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## I’m Fine Installation | Ukraine at Burning Man 2024
- - [https://imfine.ukraine.ua](https://imfine.ukraine.ua)
- - date_published: 2024-08-20T10:11:22+00:00
-
- ## Official website of Ukraine
- - [https://ukraine.ua](https://ukraine.ua)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Russia’s war in Ukraine: official website | MFA of Ukraine
- - [https://war.ukraine.ua](https://war.ukraine.ua)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Укрінформ - актуальні новини України та світу
- - [https://www.ukrinform.ua](https://www.ukrinform.ua)
- - date_published: 2024-01-30T01:45:45.408583+00:00
-
- ## Укрпошта | Головна пошта країни
- - [https://www.ukrposhta.ua](https://www.ukrposhta.ua)
- - date_published: 2024-06-30T09:28:47.079706+00:00
-
- ## Оперативні новини України та Світу | Українські Національні Новини УНН
- - [https://unn.ua](https://unn.ua)
- - date_published: 2024-08-11T18:54:47+00:00
-
- ## Ліцензовані онлайн-казино та БК для ставок в Україні — VBET ✌️
- - [https://www.vbet.ua](https://www.vbet.ua)
- - date_published: 2024-10-29T08:55:41+00:00
-
- ## Новини Києва, афіша, довідник, карта онлайн - Київ - Vgorode.ua
- - [https://kiev.vgorode.ua](https://kiev.vgorode.ua)
- - date_published: 2024-08-07T19:51:47+00:00
-
- ## Мережа міських сайтів vgorode.ua | Останні події та новини сьогодні  - Vgorode.ua
- - [https://vgorode.ua](https://vgorode.ua)
- - date_published: 2024-08-07T19:52:42+00:00
-
- ## Головна сторінка
- - [https://kb.viatec.ua](https://kb.viatec.ua)
- - date_published: 2024-10-19T23:27:03.597591+00:00
-
- ## Viatec - Системи безпеки та камери відеоспостереження
- - [https://viatec.ua](https://viatec.ua)
- - date_published: 2024-05-02T10:42:51.424363+00:00
-
- ## Victron Energy
- - [https://www.victronenergy.ua](https://www.victronenergy.ua)
- - date_published: 2024-06-21T15:27:13+00:00
-
- ## Vodafone Україна - Мобільний зв'язок, Інтернет, Тарифи та Послуги
- - [https://www.vodafone.ua](https://www.vodafone.ua)
- - date_published: 2024-10-19T23:20:08.204592+00:00
-
- ## Vogue UA - жіночий журнал про моду, красу і стиль. Vogue Ukraine - fashion, beauty, arts, society and living
- - [https://vogue.ua](https://vogue.ua)
- - date_published: 2024-05-07T10:59:22.211011+00:00
-
- ## Благодійний фонд - WEBSPARK CHARITY
- - [https://webspark.ua](https://webspark.ua)
- - date_published: 2024-09-23T09:10:38+00:00
-
- ## WoMo — видання для дивовижних жінок
- - [https://womo.ua](https://womo.ua)
- - date_published: 2024-10-19T15:55:50.525277+00:00
-
- ## Home
- - [https://specials.wwf.ua](https://specials.wwf.ua)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## WWF-Україна
- - [https://wwf.ua](https://wwf.ua)
- - date_published: 2024-05-07T23:57:59.970151+00:00
 

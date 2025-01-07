@@ -1,3 +1,39 @@
+ ## First Round Capital
+ - [https://firstround.com](https://firstround.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Product-Market Fit Method
+ - [https://pmf.firstround.com](https://pmf.firstround.com)
+ - date_published: 2024-04-16T14:47:27.785568+00:00
+
+ ## First Round Review
+ - [https://review.firstround.com](https://review.firstround.com)
+ - date_published: 2023-10-25T14:32:10.606183+00:00
+
+ ## Home - First Second Books
+ - [https://firstsecondbooks.com](https://firstsecondbooks.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## First Sight By Galls
+ - [https://firstsightbygalls.com](https://firstsightbygalls.com)
+ - date_published: 2023-02-28T19:52:01+00:00
+
+ ## FirstSkisport.com
+ - [https://firstskisport.com](https://firstskisport.com)
+ - date_published: 2024-10-28T05:27:43.291467+00:00
+
+ ## Tactical Military Gear, Equipment and Accessories Supply - Online Store - FirstSpear
+ - [https://www.first-spear.com](https://www.first-spear.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## First Stop Cosplay - Home
+ - [https://firststopcosplay.com](https://firststopcosplay.com)
+ - date_published: 2024-05-13T09:28:06.546116+00:00
+
+ ## Cierpliwości...
+ - [https://banking.firsttechfed.com](https://banking.firsttechfed.com)
+ - date_published: 2024-06-16T06:13:43.123604+00:00
+
  ## First Tech Federal Credit Union | Banking, Loans, Insurance & Investments
  - [https://www.firsttechfed.com](https://www.firsttechfed.com)
  - date_published: 2024-04-01T00:00:00+00:00
@@ -618,7 +654,7 @@
  - date_published: 2024-06-19T14:52:14.097467+00:00
 
  ## Fiverr Answers | Learn from the freelance community
- - [https://answers.fiverr.com](https://answers.fiverr.com)
+ - [http://answers.fiverr.com](http://answers.fiverr.com)
  - date_published: 2024-10-29T08:54:56+00:00
 
  ## Fiverr Enterprise
@@ -1803,7 +1839,7 @@
  - date_published: 2024-07-19T07:52:04.810978+00:00
 
  ## Frontpage - Fleet Management Weekly
- - [https://www.fleetmanagementweekly.com](https://www.fleetmanagementweekly.com)
+ - [https://fleetmanagementweekly.com](https://fleetmanagementweekly.com)
  - date_published: 2024-10-29T11:06:43.814497+00:00
 
  ## Fleetwood Fernandez
@@ -3299,7 +3335,7 @@
  - date_published: 2024-12-26T15:45:32.827468+00:00
 
  ## Flourishing Minds Fund
- - [http://flourishingmindsfund.com](http://flourishingmindsfund.com)
+ - [https://flourishingmindsfund.com](https://flourishingmindsfund.com)
  - date_published: 2024-10-29T05:16:09.409731+00:00
 
  ## Floutwork
@@ -3843,7 +3879,7 @@
  - date_published: 2024-10-30T00:39:52.566773+00:00
 
  ## Drones, artificial intelligence and robotics - Fly4Future
- - [https://www.fly4future.com](https://www.fly4future.com)
+ - [https://fly4future.com](https://fly4future.com)
  - date_published: 2024-10-28T23:46:19+00:00
 
  ## On-Demand Charters | Alaska Air Transit | Anchorage
@@ -3985,40 +4021,4 @@
  ## Tunnels & Trolls - Rebellion Unplugged
  - [http://www.flyingbuffalo.com](http://www.flyingbuffalo.com)
  - date_published: 2024-12-13T08:04:05.983408+00:00
-
- ## Flying Car Computer
- - [https://flyingcarcomputer.com](https://flyingcarcomputer.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## FlyingCDN
- - [https://flyingcdn.com](https://flyingcdn.com)
- - date_published: 2024-06-15T03:10:18+00:00
-
- ## Hackatoshi's Flying Circuit
- - [https://flyingcircuit.com](https://flyingcircuit.com)
- - date_published: 2021-11-15T15:59:51+00:00
-
- ## Home - Flying Cork
- - [https://flyingcork.com](https://flyingcork.com)
- - date_published: 2024-02-15T16:51:15+00:00
-
- ## Flying Cross Official Site |  Premier Uniform Store
- - [https://flyingcross.com](https://flyingcross.com)
- - date_published: 2025-01-02T01:12:15.855710+00:00
-
- ## Crushable Canned Cocktails & Hard Kombucha | Flying Embers
- - [https://www.flyingembers.com](https://www.flyingembers.com)
- - date_published: 2024-09-16T06:51:53.343608+00:00
-
- ## FLYING Finance - Fastest and Easiest Aircraft Financing
- - [https://flyingfinance.com](https://flyingfinance.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## FlyingGiants
- - [https://www.flyinggiants.com](https://www.flyinggiants.com)
- - date_published: 2024-09-05T19:34:43.152936+00:00
-
- ## Flying Heritage & Combat Armor Museum | Flying Heritage & Combat Armor Museum
- - [http://www.flyingheritage.com](http://www.flyingheritage.com)
- - date_published: 2024-07-09T22:17:07.205574+00:00
 

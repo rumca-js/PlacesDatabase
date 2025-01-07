@@ -3846,6 +3846,10 @@ Creative Solutions
  - [https://cozzo.app](https://cozzo.app)
  - date_published: 2024-07-12T00:00:00+00:00
 
+ ## CrackMy.App - Share and Solve Crackmes
+ - [https://crackmy.app](https://crackmy.app)
+ - date_published: 2025-01-06T15:21:58.566309+00:00
+
  ## CreateLogo | AI logo generator
  - [https://createlogo.app](https://createlogo.app)
  - date_published: 2024-06-14T08:55:58.325305+00:00
@@ -4017,9 +4021,4 @@ Creative Solutions
  ## DataPulse - Simple, fun & lightweight web analytics solution
  - [https://datapulse.app](https://datapulse.app)
  - date_published: 2024-06-16T20:49:07.461191+00:00
-
- ## Dateforce | Salesforce, but for dating
- - [https://dateforce.app](https://dateforce.app)
- - date_published: 2023-10-25T11:45:57.324167+00:00
- - tags: ['dating']
 

@@ -1,3 +1,19 @@
+ ## The Right Coast
+ - [http://therightcoast.blogspot.com](http://therightcoast.blogspot.com)
+ - date_published: 2006-03-30T00:00:00+00:00
+
+ ## The Right Guy
+ - [http://the-right-guy.blogspot.com](http://the-right-guy.blogspot.com)
+ - date_published: 2024-03-14T05:41:58+00:00
+
+ ## Counting Rivets
+ - [http://therivetcounter.blogspot.com](http://therivetcounter.blogspot.com)
+ - date_published: 2024-12-18T11:26:54+00:00
+
+ ## Blogger
+ - [http://therobertsroost.blogspot.com](http://therobertsroost.blogspot.com)
+ - date_published: 2025-01-01T12:28:40.891251+00:00
+
  ## Da Rollin Waaagh
  - [http://therollinwaaagh.blogspot.com](http://therollinwaaagh.blogspot.com)
  - date_published: 2024-09-26T03:14:57+00:00
@@ -83,7 +99,7 @@
  - date_published: 2024-08-30T15:33:02+00:00
 
  ## Blogger
- - [http://thesilentpictureshow.blogspot.com](http://thesilentpictureshow.blogspot.com)
+ - [https://thesilentpictureshow.blogspot.com](https://thesilentpictureshow.blogspot.com)
  - date_published: 2024-10-29T00:55:26.863064+00:00
 
  ## The Silicon Graybeard
@@ -2076,7 +2092,7 @@
  - date_published: 2024-12-19T03:11:10+00:00
 
  ## 21 Wits, by Karen
- - [http://twincitiesblather.blogspot.com](http://twincitiesblather.blogspot.com)
+ - [https://twincitiesblather.blogspot.com](https://twincitiesblather.blogspot.com)
  - date_published: 2024-10-29T08:56:46+00:00
 
  ## Twin Cities Gamer
@@ -3490,7 +3506,7 @@
  - date_published: 2024-11-01T10:32:49+00:00
 
  ## Viewing nature with Eileen
- - [http://viewingnaturewitheileen.blogspot.com](http://viewingnaturewitheileen.blogspot.com)
+ - [https://viewingnaturewitheileen.blogspot.com](https://viewingnaturewitheileen.blogspot.com)
  - date_published: 2024-10-29T10:43:02+00:00
 
  ## Viewing the Eclipse
@@ -3671,7 +3687,7 @@
  - date_published: 2024-08-29T02:17:12+00:00
 
  ## Strangely Blogged
- - [http://vixenstrangelymakesuncommonsense.blogspot.com](http://vixenstrangelymakesuncommonsense.blogspot.com)
+ - [https://vixenstrangelymakesuncommonsense.blogspot.com](https://vixenstrangelymakesuncommonsense.blogspot.com)
  - date_published: 2024-10-29T08:57:08+00:00
 
  ## Neeka's Backlog
@@ -3985,20 +4001,4 @@
  ## Walking to China.
  - [http://walkingtochina.blogspot.com](http://walkingtochina.blogspot.com)
  - date_published: 2012-10-07T00:00:00+00:00
-
- ## A Walk in the WoRds
- - [https://walkinthewords.blogspot.com](https://walkinthewords.blogspot.com)
- - date_published: 2024-05-07T21:55:22.707048+00:00
-
- ## Walk with Chan
- - [https://walkwithchan.blogspot.com](https://walkwithchan.blogspot.com)
- - date_published: 2019-04-09T00:00:00+00:00
-
- ## Walled Gardens
- - [http://walledgardens15mm.blogspot.com](http://walledgardens15mm.blogspot.com)
- - date_published: 2024-06-28T14:54:39+00:00
-
- ## Walled-In Pond
- - [http://walled-in-pond.blogspot.com](http://walled-in-pond.blogspot.com)
- - date_published: 2024-12-23T08:25:58+00:00
 

@@ -1,3 +1,92 @@
+ ## Home - Arizona Christian University
+ - [https://www.arizonachristian.edu](https://www.arizonachristian.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## USAWC Press
+ - [https://press.armywarcollege.edu](https://press.armywarcollege.edu)
+ - date_published: 2023-10-25T18:46:57.063005+00:00
+
+ ## Home
+ - [https://publications.armywarcollege.edu](https://publications.armywarcollege.edu)
+ - date_published: 2024-07-22T08:39:15.436484+00:00
+
+ ## War Room - U.S. Army War College
+ - [https://warroom.armywarcollege.edu](https://warroom.armywarcollege.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Army War College Homepage
+ - [https://www.armywarcollege.edu](https://www.armywarcollege.edu)
+ - date_published: 2024-04-30T03:05:26.956008+00:00
+
+ ## Documentation | Art Institute of Chicago API
+ - [https://api.artic.edu](https://api.artic.edu)
+ - date_published: 2023-04-07T16:14:44+00:00
+
+ ## Home | The Art Institute of Chicago
+ - [https://artic.edu](https://artic.edu)
+ - date_published: 2024-07-22T08:38:47.121929+00:00
+ - tags: ['museum']
+
+ ## Enter your username and password
+ - [http://proxy.artic.edu](http://proxy.artic.edu)
+ - date_published: 2024-06-30T01:26:14.452735+00:00
+
+ ## Buy & Join | The Art Institute of Chicago
+ - [https://sales.artic.edu](https://sales.artic.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Museum Shop | The Art Institute of Chicago
+ - [https://shop.artic.edu](https://shop.artic.edu)
+ - date_published: 2024-04-30T03:10:43.859699+00:00
+
+ ## Closed School Information Page |
+ - [http://www.artinstitutes.edu](http://www.artinstitutes.edu)
+ - date_published: 2023-09-30T00:00:00+00:00
+
+ ## Ashland University Home | Ashland
+ - [https://www.ashland.edu](https://www.ashland.edu)
+ - date_published: 2024-09-18T17:09:18+00:00
+
+ ## A-State
+ - [http://www.astate.edu](http://www.astate.edu)
+ - date_published: 2024-12-21T11:26:56.809463+00:00
+
+ ## ASU IT Accessibility
+ - [https://accessibility.asu.edu](https://accessibility.asu.edu)
+ - date_published: 2024-08-28T14:17:19+00:00
+
+ ## Admission | Arizona State University
+ - [https://admission.asu.edu](https://admission.asu.edu)
+ - date_published: 2024-07-07T00:38:56+00:00
+
+ ## ASU Homepage | Arizona State University
+ - [https://asu.edu](https://asu.edu)
+ - date_published: 2024-05-08T08:51:52.549056+00:00
+
+ ## Home | ASU Events
+ - [https://asuevents.asu.edu](https://asuevents.asu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Home | ASU for You
+ - [https://asuforyou.asu.edu](https://asuforyou.asu.edu)
+ - date_published: 2024-06-19T20:30:27+00:00
+
+ ## Home | ASU News
+ - [https://asunow.asu.edu](https://asunow.asu.edu)
+ - date_published: 2024-07-07T02:50:34+00:00
+
+ ## Explore ASU Online Degrees | Arizona State University
+ - [https://asuonline.asu.edu](https://asuonline.asu.edu)
+ - date_published: 2024-07-07T01:52:22.479108+00:00
+
+ ## Home - Biodesign Institute
+ - [https://biodesign.asu.edu](https://biodesign.asu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## ASU in California | ASU in California
+ - [https://california.asu.edu](https://california.asu.edu)
+ - date_published: 2024-07-07T01:52:28.973319+00:00
+
  ## Academic Catalog | Arizona State University
  - [https://catalog.asu.edu](https://catalog.asu.edu)
  - date_published: 2024-07-22T08:37:41.768609+00:00
@@ -3915,92 +4004,4 @@
  ## University at Buffalo - Acalog ACMS™
  - [https://catalogs.buffalo.edu](https://catalogs.buffalo.edu)
  - date_published: 2024-04-29T00:00:00+00:00
-
- ## Welcome to CEDAR
- - [https://cedar.buffalo.edu](https://cedar.buffalo.edu)
- - date_published: 2023-12-11T19:56:29+00:00
-
- ## Center for Cognitive Science
- - [https://cogsci.buffalo.edu](https://cogsci.buffalo.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Department of Computer Science and Engineering
- - [https://cse.buffalo.edu](https://cse.buffalo.edu)
- - date_published: 2024-02-10T17:55:00.406166+00:00
-
- ## OnCore - Login
- - [https://ctms.buffalo.edu](https://ctms.buffalo.edu)
- - date_published: 2024-08-11T09:59:01.143901+00:00
-
- ## Center for Unified Biometrics and Sensors
- - [https://cubs.buffalo.edu](https://cubs.buffalo.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## School of Dental Medicine
- - [https://dental.buffalo.edu](https://dental.buffalo.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Digital Commons @ University at Buffalo School of Law
- - [https://digitalcommons.law.buffalo.edu](https://digitalcommons.law.buffalo.edu)
- - date_published: 2024-06-29T08:56:41.954783+00:00
-
- ## Digital Collections - University at Buffalo Libraries
- - [http://digital.lib.buffalo.edu](http://digital.lib.buffalo.edu)
- - date_published: 2024-07-22T07:13:15.470191+00:00
-
- ## Home | UB Early Childhood Research Center (ECRC)
- - [https://ecrc.buffalo.edu](https://ecrc.buffalo.edu)
- - date_published: 2024-08-11T03:36:01.827082+00:00
-
- ## Graduate School of Education at the University at Buffalo
- - [https://ed.buffalo.edu](https://ed.buffalo.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## UB Alert Information
- - [https://emergency.buffalo.edu](https://emergency.buffalo.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## School of Engineering and Applied Sciences
- - [https://engineering.buffalo.edu](https://engineering.buffalo.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Financial Aid – State University of New York
- - [https://financialaid.buffalo.edu](https://financialaid.buffalo.edu)
- - date_published: 2024-07-22T07:20:11.756905+00:00
-
- ## Shibboleth Authentication Request
- - [https://gate.lib.buffalo.edu](https://gate.lib.buffalo.edu)
- - date_published: 2024-06-30T01:30:22.306752+00:00
-
- ## Home | UB Gifted Math Program
- - [https://giftedmath.buffalo.edu](https://giftedmath.buffalo.edu)
- - date_published: 2024-08-11T03:35:54.787012+00:00
-
- ## The Graduate School
- - [https://grad.buffalo.edu](https://grad.buffalo.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Graduate Student Association
- - [http://gsa.buffalo.edu](http://gsa.buffalo.edu)
- - date_published: 2024-08-11T03:35:59.572311+00:00
-
- ## Center of Excellence on Human Capital, Technology Transfer, & Economic Growth and Development :: University at Buffalo ::
- - [http://head.buffalo.edu](http://head.buffalo.edu)
- - date_published: 2024-08-08T22:53:05.303498+00:00
-
- ## SACS Reference Implementation
- - [https://json.webservices.buffalo.edu](https://json.webservices.buffalo.edu)
- - date_published: 2018-07-02T00:00:00+00:00
-
- ## School of Law
- - [https://law.buffalo.edu](https://law.buffalo.edu)
- - date_published: 2024-05-07T10:05:18.014673+00:00
-
- ## Charles B. Sears Law Library - University at Buffalo Libraries
- - [https://law.lib.buffalo.edu](https://law.lib.buffalo.edu)
- - date_published: 2024-06-29T08:56:40.164925+00:00
-
- ## University at Buffalo Libraries
- - [https://library2.buffalo.edu](https://library2.buffalo.edu)
- - date_published: 2024-07-22T07:13:11.943298+00:00
 

@@ -1,3 +1,108 @@
+ ## Napoli notizie e approfondimenti: Repubblica.it
+ - [https://napoli.repubblica.it](https://napoli.repubblica.it)
+ - date_published: 2024-05-12T06:44:39.778570+00:00
+
+ ## Necrologi - Necrologie defunti e annunci funebri - Annunci mortuari
+ - [https://necrologie.repubblica.it](https://necrologie.repubblica.it)
+ - date_published: 2024-05-12T06:44:33.227179+00:00
+
+ ## la Repubblica
+ - [http://newsletter.repubblica.it](http://newsletter.repubblica.it)
+ - date_published: 2024-07-16T19:03:53.576876+00:00
+
+ ## Noi e i robot - Blog - Le Scienze
+ - [http://oldani-lescienze.blogautore.espresso.repubblica.it](http://oldani-lescienze.blogautore.espresso.repubblica.it)
+ - date_published: 2024-07-16T18:55:50.736590+00:00
+
+ ## Oroscopo - la Repubblica
+ - [https://oroscopo.d.repubblica.it](https://oroscopo.d.repubblica.it)
+ - date_published: 2024-05-12T06:44:43.101606+00:00
+
+ ## Palermo notizie e approfondimenti - Repubblica.it
+ - [https://palermo.repubblica.it](https://palermo.repubblica.it)
+ - date_published: 2024-05-12T06:44:57.432485+00:00
+
+ ## Parma notizie e approfondimenti: Repubblica.it
+ - [https://parma.repubblica.it](https://parma.repubblica.it)
+ - date_published: 2024-05-12T06:44:45.380897+00:00
+
+ ## IL KYOTO FISSO - Blog - Le Scienze
+ - [http://pasini-lescienze.blogautore.espresso.repubblica.it](http://pasini-lescienze.blogautore.espresso.repubblica.it)
+ - date_published: 2024-07-16T18:55:52.561749+00:00
+
+ ## Playground
+ - [http://playground.blogautore.repubblica.it](http://playground.blogautore.repubblica.it)
+ - date_published: 2024-07-09T09:10:03.559614+00:00
+
+ ## Gedi Digital Srl
+ - [https://quotidiano.repubblica.it](https://quotidiano.repubblica.it)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Premium - la Repubblica
+ - [https://rep.repubblica.it](https://rep.repubblica.it)
+ - date_published: 2024-05-12T06:45:09.863684+00:00
+
+ ## la Repubblica - News in tempo reale - Le notizie e i video di politica, cronaca, economia, sport
+ - [https://repubblica.it](https://repubblica.it)
+ - date_published: 2024-04-04T13:27:32.869193+00:00
+
+ ## - Archivio - la Repubblica.it
+ - [https://ricerca.repubblica.it](https://ricerca.repubblica.it)
+ - date_published: 2024-06-29T23:50:23.606139+00:00
+
+ ## Roma: notizie e approfondimenti - Repubblica.it
+ - [https://roma.repubblica.it](https://roma.repubblica.it)
+ - date_published: 2024-05-12T06:43:59.321369+00:00
+
+ ## Rudi Matematici - Blog - Le Scienze
+ - [http://rudimatematici-lescienze.blogautore.espresso.repubblica.it](http://rudimatematici-lescienze.blogautore.espresso.repubblica.it)
+ - date_published: 2024-07-16T18:55:55.529206+00:00
+
+ ## Repubblica Scuola
+ - [https://scuola.repubblica.it](https://scuola.repubblica.it)
+ - date_published: 2024-05-12T06:45:37.953975+00:00
+
+ ## Torino notizie e approfondimenti: Repubblica.it
+ - [https://torino.repubblica.it](https://torino.repubblica.it)
+ - date_published: 2024-05-12T06:44:23.127153+00:00
+
+ ## Video - la Repubblica
+ - [https://video.repubblica.it](https://video.repubblica.it)
+ - date_published: 2024-05-03T18:03:26+00:00
+
+ ## Home IT - ResQ - people saving people
+ - [https://resq.it](https://resq.it)
+ - date_published: 2024-12-21T06:31:16+00:00
+
+ ## ReteIngegneri.it il portale degli ingegneri
+ - [https://www.reteingegneri.it](https://www.reteingegneri.it)
+ - date_published: 2024-10-15T16:47:34+00:00
+
+ ## Home - Progetto Binit
+ - [https://retroedicola-binit.it](https://retroedicola-binit.it)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Retroedicola Videoludica Editore
+ - [https://retroedicola-iskandar.it](https://retroedicola-iskandar.it)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Home - Retro-Gamers.it
+ - [https://retro-gamers.it](https://retro-gamers.it)
+ - date_published: 2023-12-11T18:59:38.730308+00:00
+ - tags: ['commodore', 'amiga']
+
+ ## REUMAPED – Società Italiana di Reumatologia Pediatrica
+ - [https://reumaped.it](https://reumaped.it)
+ - date_published: 2024-06-28T12:06:56.899510+00:00
+
+ ## Società Italiana di Reumatologia
+ - [https://www.reumatologia.it](https://www.reumatologia.it)
+ - date_published: 2024-06-28T12:07:42.500543+00:00
+
+ ## Rev3rse Security
+ - [https://rev3rse.it](https://rev3rse.it)
+ - date_published: 2024-06-06T13:05:34+00:00
+
  ## Reveland
  - [https://www.reveland.it](https://www.reveland.it)
  - date_published: 2024-05-28T00:00:00+00:00
@@ -148,7 +253,7 @@
  - date_published: 2024-07-01T05:12:21.400274+00:00
 
  ## Assicurazione auto, moto, casa e persone | Sara
- - [https://www.sara.it](https://www.sara.it)
+ - [https://sara.it](https://sara.it)
  - date_published: 2024-10-29T02:03:15+00:00
 
  ## Sardegna 1
@@ -3897,108 +4002,4 @@
  ## KYUSHU UNIVERSITY
  - [https://www.kyushu-u.ac.jp](https://www.kyushu-u.ac.jp)
  - date_published: 2024-04-04T00:00:00+00:00
-
- ## Kyushu University Library
- - [https://www.lib.kyushu-u.ac.jp](https://www.lib.kyushu-u.ac.jp)
- - date_published: 2024-06-23T22:23:49+00:00
-
- ## Top Global University Project Type A- Kyushu University
- - [http://www.share.kyushu-u.ac.jp](http://www.share.kyushu-u.ac.jp)
- - date_published: 2021-10-13T00:00:00+00:00
-
- ## 九州工業大学 | 九州工業大学
- - [https://www.kyutech.ac.jp](https://www.kyutech.ac.jp)
- - date_published: 2024-10-23T07:02:15.161281+00:00
-
- ## Meikei High School 茗溪学園中学校高等学校
- - [http://www.meikei.ac.jp](http://www.meikei.ac.jp)
- - date_published: 2024-06-23T23:27:32.973699+00:00
-
- ## 三重大学 研究基盤推進機構
- - [https://www.crc.mie-u.ac.jp](https://www.crc.mie-u.ac.jp)
- - date_published: 2024-05-30T13:14:16+00:00
-
- ## 三重大学
- - [https://www.mie-u.ac.jp](https://www.mie-u.ac.jp)
- - date_published: 2024-06-21T07:06:35+00:00
-
- ## 長崎大学
- - [http://www.nagasaki-u.ac.jp](http://www.nagasaki-u.ac.jp)
- - date_published: 2024-06-23T23:15:09.605779+00:00
-
- ## 名古屋文理大学｜NAGOYA BUNRI UNIVERSITY
- - [http://www.nagoya-bunri.ac.jp](http://www.nagoya-bunri.ac.jp)
- - date_published: 2024-06-23T22:11:35.453927+00:00
-
- ## 名古屋市立大学
- - [http://www.nagoya-cu.ac.jp](http://www.nagoya-cu.ac.jp)
- - date_published: 2024-06-23T15:01:18+00:00
-
- ## 実学と就職の名古屋経済大学 - 4つの学部と5つの学科で一人ひとりの学生を仕事へとつなぐ大学です
- - [https://www.nagoya-ku.ac.jp](https://www.nagoya-ku.ac.jp)
- - date_published: 2024-06-23T22:15:53.308479+00:00
-
- ## Nagoya University Global 30 International Programs
- - [https://admissions.g30.nagoya-u.ac.jp](https://admissions.g30.nagoya-u.ac.jp)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## 愛知学長懇話会
- - [https://aichi-gakuchou.jimu.nagoya-u.ac.jp](https://aichi-gakuchou.jimu.nagoya-u.ac.jp)
- - date_published: 2024-06-23T22:12:08.733568+00:00
-
- ## Nagoya University Asian Satellite Campuses Institute
- - [http://asci.nagoya-u.ac.jp](http://asci.nagoya-u.ac.jp)
- - date_published: 2024-06-23T22:13:12.755394+00:00
-
- ## 名古屋大学　法政国際教育協力研究センター
- - [https://cale.law.nagoya-u.ac.jp](https://cale.law.nagoya-u.ac.jp)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## マテリアルイノベーション研究所
- - [https://chem.material.nagoya-u.ac.jp](https://chem.material.nagoya-u.ac.jp)
- - date_published: 2024-06-23T22:03:30.177777+00:00
-
- ## 日本法教育研究センター
- - [https://cjl.law.nagoya-u.ac.jp](https://cjl.law.nagoya-u.ac.jp)
- - date_published: 2024-06-23T22:10:45.635224+00:00
-
- ## Nagoya University
- - [https://cn.nagoya-u.ac.jp](https://cn.nagoya-u.ac.jp)
- - date_published: 2023-12-31T17:00:23+00:00
-
- ## 名古屋大学 博士課程教育推進機構-Doctoral Education Consortium
- - [https://dec.nagoya-u.ac.jp](https://dec.nagoya-u.ac.jp)
- - date_published: 2024-05-06T15:27:31.916324+00:00
-
- ## Login - Central Authentication Service
- - [https://eiadbbs.adm.nagoya-u.ac.jp](https://eiadbbs.adm.nagoya-u.ac.jp)
- - date_published: 2024-06-23T22:01:28.477394+00:00
-
- ## Nagoya University
- - [https://en.nagoya-u.ac.jp](https://en.nagoya-u.ac.jp)
- - date_published: 2024-05-06T15:28:53.341640+00:00
-
- ## 名古屋大学減災連携研究センター | 最先端の減災研究に基づいて中京圏における地域全体の様々な連携を深め、減災社会モデルをつくります
- - [https://gensai.nagoya-u.ac.jp](https://gensai.nagoya-u.ac.jp)
- - date_published: 2024-06-23T22:02:31.230102+00:00
-
- ## Nagoya University on HeForShe campaign
- - [http://heforshe.provost.nagoya-u.ac.jp](http://heforshe.provost.nagoya-u.ac.jp)
- - date_published: 2021-06-14T06:48:13+00:00
-
- ## 名古屋大学 COI-NEXT共創分野 セキュアでユビキタスな資源・エネルギー共創拠点
- - [https://henkan.mirai.nagoya-u.ac.jp](https://henkan.mirai.nagoya-u.ac.jp)
- - date_published: 2024-06-23T22:09:48.970674+00:00
-
- ## 名古屋大学共創スタジオ「Idea Stoa」公式ウェブサイト　共創・協働から 新たな価値が生まれる場所。
- - [https://ideastoa.aip.nagoya-u.ac.jp](https://ideastoa.aip.nagoya-u.ac.jp)
- - date_published: 2024-06-23T22:09:56.236902+00:00
-
- ## 名古屋大学グローバルエンゲージメントセンター : トップページ
- - [http://ieec.iee.nagoya-u.ac.jp](http://ieec.iee.nagoya-u.ac.jp)
- - date_published: 2024-06-23T22:13:10.468418+00:00
-
- ## 名古屋大学 インキュベーション施設
- - [https://incubation.aip.nagoya-u.ac.jp](https://incubation.aip.nagoya-u.ac.jp)
- - date_published: 2024-06-23T22:09:45.374007+00:00
 

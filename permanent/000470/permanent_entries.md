@@ -1,3 +1,123 @@
+ ## Slots City®  Казино — Найкраще онлайн казино України 2024
+ - [https://slotscity.ua](https://slotscity.ua)
+ - date_published: 2024-09-09T20:53:58.756851+00:00
+
+ ## Головна
+ - [https://smak.ua](https://smak.ua)
+ - date_published: 2017-04-10T21:00:00+00:00
+
+ ## Sony Україна | Новини про останні технології | Електроніка | Розваги
+ - [https://www.sony.ua](https://www.sony.ua)
+ - date_published: 2024-10-21T07:37:40.234019+00:00
+
+ ## Судово-юридична газета
+ - [https://sud.ua](https://sud.ua)
+ - date_published: 2023-12-24T14:29:22.262220+00:00
+
+ ## Интернет-магазин Телемарт — магазин  комплектующих для ПК, игровой периферии и техники в Украине | Киев, Днепр, Харьков, Одесса, Львов, Хмельницкий - Telemart
+ - [https://telemart.ua](https://telemart.ua)
+ - date_published: 2024-07-13T13:39:54.694183+00:00
+
+ ## Сувенірна продукція | Toyota Україна
+ - [https://collection.toyota.ua](https://collection.toyota.ua)
+ - date_published: 2024-10-16T15:39:33.710120+00:00
+
+ ## Тойота з пробігом купити в Україні
+ - [https://usedcars.toyota.ua](https://usedcars.toyota.ua)
+ - date_published: 2024-10-16T15:39:31.313649+00:00
+
+ ## Офіційний сайт Toyota : Ціни на автомобілі Toyota
+ - [https://www.toyota.ua](https://www.toyota.ua)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Новини України і світу сьогодні • Головні і останні новини дня на ТСН
+ - [https://tsn.ua](https://tsn.ua)
+ - date_published: 2024-07-27T02:47:54.575886+00:00
+
+ ## Головна
+ - [https://tv.ua](https://tv.ua)
+ - date_published: 2016-12-31T22:00:00+00:00
+
+ ## Головна - Український тиждень
+ - [https://tyzhden.ua](https://tyzhden.ua)
+ - date_published: 2022-09-23T12:24:13+00:00
+
+ ## Future Ukraine: відкрий Україну майбутнього
+ - [https://future.ukraine.ua](https://future.ukraine.ua)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## I’m Fine Installation | Ukraine at Burning Man 2024
+ - [https://imfine.ukraine.ua](https://imfine.ukraine.ua)
+ - date_published: 2024-08-20T10:11:22+00:00
+
+ ## Official website of Ukraine
+ - [https://ukraine.ua](https://ukraine.ua)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Russia’s war in Ukraine: official website | MFA of Ukraine
+ - [https://war.ukraine.ua](https://war.ukraine.ua)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Укрінформ - актуальні новини України та світу
+ - [https://www.ukrinform.ua](https://www.ukrinform.ua)
+ - date_published: 2024-01-30T01:45:45.408583+00:00
+
+ ## Укрпошта | Головна пошта країни
+ - [https://www.ukrposhta.ua](https://www.ukrposhta.ua)
+ - date_published: 2024-06-30T09:28:47.079706+00:00
+
+ ## Оперативні новини України та Світу | Українські Національні Новини УНН
+ - [https://unn.ua](https://unn.ua)
+ - date_published: 2024-08-11T18:54:47+00:00
+
+ ## Ліцензовані онлайн-казино та БК для ставок в Україні — VBET ✌️
+ - [https://vbet.ua](https://vbet.ua)
+ - date_published: 2024-10-29T08:55:41+00:00
+
+ ## Новини Києва, афіша, довідник, карта онлайн - Київ - Vgorode.ua
+ - [https://kiev.vgorode.ua](https://kiev.vgorode.ua)
+ - date_published: 2024-08-07T19:51:47+00:00
+
+ ## Мережа міських сайтів vgorode.ua | Останні події та новини сьогодні  - Vgorode.ua
+ - [https://vgorode.ua](https://vgorode.ua)
+ - date_published: 2024-08-07T19:52:42+00:00
+
+ ## Головна сторінка
+ - [https://kb.viatec.ua](https://kb.viatec.ua)
+ - date_published: 2024-10-19T23:27:03.597591+00:00
+
+ ## Viatec - Системи безпеки та камери відеоспостереження
+ - [https://viatec.ua](https://viatec.ua)
+ - date_published: 2024-05-02T10:42:51.424363+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.ua](https://www.victronenergy.ua)
+ - date_published: 2024-06-21T15:27:13+00:00
+
+ ## Vodafone Україна - Мобільний зв'язок, Інтернет, Тарифи та Послуги
+ - [https://www.vodafone.ua](https://www.vodafone.ua)
+ - date_published: 2024-10-19T23:20:08.204592+00:00
+
+ ## Vogue UA - жіночий журнал про моду, красу і стиль. Vogue Ukraine - fashion, beauty, arts, society and living
+ - [https://vogue.ua](https://vogue.ua)
+ - date_published: 2024-05-07T10:59:22.211011+00:00
+
+ ## Благодійний фонд - WEBSPARK CHARITY
+ - [https://webspark.ua](https://webspark.ua)
+ - date_published: 2024-09-23T09:10:38+00:00
+
+ ## WoMo — видання для дивовижних жінок
+ - [https://womo.ua](https://womo.ua)
+ - date_published: 2024-10-19T15:55:50.525277+00:00
+
+ ## Home
+ - [https://specials.wwf.ua](https://specials.wwf.ua)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## WWF-Україна
+ - [https://wwf.ua](https://wwf.ua)
+ - date_published: 2024-05-07T23:57:59.970151+00:00
+
  ## Центр прав людини ZMINA
  - [https://zmina.ua](https://zmina.ua)
  - date_published: 2019-03-15T12:17:06+00:00
@@ -3887,124 +4007,4 @@
  ## Home The Bate Collection of Musical Instruments
  - [https://bate.web.ox.ac.uk](https://bate.web.ox.ac.uk)
  - date_published: 2024-10-20T06:47:30.522763+00:00
-
- ## Bennett Institute for Applied Data Science - University of Oxford
- - [https://bennett.ox.ac.uk](https://bennett.ox.ac.uk)
- - date_published: 2024-05-08T11:17:03.329283+00:00
-
- ## Beyond Antibiotics: A Programme Grant funded by the Engineering and Physical Sciences Research Council (EPSRC), Institute of Biomedical Engineering, University of Oxford
- - [https://beyondantibiotics.ox.ac.uk](https://beyondantibiotics.ox.ac.uk)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Home
- - [https://blog.politics.ox.ac.uk](https://blog.politics.ox.ac.uk)
- - date_published: 2024-06-24T07:39:08+00:00
-
- ## Practical Ethics
- - [https://blog.practicalethics.ox.ac.uk](https://blog.practicalethics.ox.ac.uk)
- - date_published: 2023-10-25T22:49:17.344700+00:00
-
- ## Bodleian Libraries blogs
- - [https://blogs.bodleian.ox.ac.uk](https://blogs.bodleian.ox.ac.uk)
- - date_published: 2023-12-22T21:18:28.167479+00:00
-
- ## IT Services Blogs | thoughts from University of Oxford IT Services
- - [https://blogs.it.ox.ac.uk](https://blogs.it.ox.ac.uk)
- - date_published: 2024-06-17T18:19:46.475557+00:00
-
- ## Blog Homepage | Oxford Law Blogs
- - [https://blogs.law.ox.ac.uk](https://blogs.law.ox.ac.uk)
- - date_published: 2024-06-17T18:23:05.336311+00:00
-
- ## Blogs from the Museum of the History of Science - MHS Blogs
- - [https://blogs.mhs.ox.ac.uk](https://blogs.mhs.ox.ac.uk)
- - date_published: 2015-08-02T00:00:00+00:00
-
- ## Index
- - [http://blogs.some.ox.ac.uk](http://blogs.some.ox.ac.uk)
- - date_published: 2024-06-17T18:18:06.239818+00:00
-
- ## Digital Bodleian
- - [http://bodley30.bodley.ox.ac.uk](http://bodley30.bodley.ox.ac.uk)
- - date_published: 2024-10-20T05:28:21.179328+00:00
-
- ## Language and Brain Laboratory
- - [http://brainlab.clp.ox.ac.uk](http://brainlab.clp.ox.ac.uk)
- - date_published: 2024-06-17T17:19:06+00:00
-
- ## Homepage | Blavatnik School of Government
- - [https://bsg.ox.ac.uk](https://bsg.ox.ac.uk)
- - date_published: 2024-10-29T05:16:53.412541+00:00
-
- ## Login to Canvas - University of Oxford
- - [https://canvas.ox.ac.uk](https://canvas.ox.ac.uk)
- - date_published: 2024-06-17T18:33:06.673535+00:00
-
- ## Catherine's Correspondence / Home
- - [https://catcor.seh.ox.ac.uk](https://catcor.seh.ox.ac.uk)
- - date_published: 2024-10-20T06:38:34.248388+00:00
-
- ## Home
- - [https://chem.web.ox.ac.uk](https://chem.web.ox.ac.uk)
- - date_published: 2024-06-17T09:04:02+00:00
-
- ## Home
- - [https://childcare.admin.ox.ac.uk](https://childcare.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:39:11+00:00
-
- ## Home
- - [https://clasoutreach.web.ox.ac.uk](https://clasoutreach.web.ox.ac.uk)
- - date_published: 2024-06-13T20:38:41+00:00
-
- ## Centre for Manuscript and Text Cultures
- - [https://cmtc.queens.ox.ac.uk](https://cmtc.queens.ox.ac.uk)
- - date_published: 2024-06-17T18:58:51.204382+00:00
-
- ## home
- - [https://collegevacancies.web.ox.ac.uk](https://collegevacancies.web.ox.ac.uk)
- - date_published: 2024-06-17T16:15:14+00:00
-
- ## Home
- - [https://communications.admin.ox.ac.uk](https://communications.admin.ox.ac.uk)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Home
- - [https://compliance.admin.ox.ac.uk](https://compliance.admin.ox.ac.uk)
- - date_published: 2024-05-02T10:58:44.978006+00:00
-
- ## Home
- - [https://compliance.web.ox.ac.uk](https://compliance.web.ox.ac.uk)
- - date_published: 2024-05-02T10:59:09.942716+00:00
-
- ## Keble College Oxford - Conferences, Events & Accommodation
- - [https://conference.keble.ox.ac.uk](https://conference.keble.ox.ac.uk)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Oxford University Department for Continuing Education
- - [https://conted.ox.ac.uk](https://conted.ox.ac.uk)
- - date_published: 2024-06-17T18:20:09.492748+00:00
-
- ## Home
- - [https://core.web.ox.ac.uk](https://core.web.ox.ac.uk)
- - date_published: 2024-06-17T15:06:24+00:00
-
- ## IT training and digital skills
- - [https://courses.it.ox.ac.uk](https://courses.it.ox.ac.uk)
- - date_published: 2024-06-15T21:03:36+00:00
-
- ## Home
- - [https://csae.web.ox.ac.uk](https://csae.web.ox.ac.uk)
- - date_published: 2024-10-20T06:16:33.852292+00:00
-
- ## Home
- - [https://ctl.ox.ac.uk](https://ctl.ox.ac.uk)
- - date_published: 2024-06-11T09:42:12+00:00
-
- ## Digital Bodleian
- - [https://digital2.bodleian.ox.ac.uk](https://digital2.bodleian.ox.ac.uk)
- - date_published: 2024-10-20T05:31:08.574131+00:00
-
- ## Digital Bodleian
- - [https://digital.bodleian.ox.ac.uk](https://digital.bodleian.ox.ac.uk)
- - date_published: 2024-06-17T18:17:58.988745+00:00
 

@@ -1,4 +1,8 @@
  ## road.cc
+ - [https://cdn.road.cc](https://cdn.road.cc)
+ - date_published: 2024-04-30T05:45:27.303491+00:00
+
+ ## road.cc
  - [https://deals.road.cc](https://deals.road.cc)
  - date_published: 2024-04-30T05:45:33.747135+00:00
 
@@ -2645,7 +2649,7 @@
  - date_published: 2024-07-16T22:07:48.977979+00:00
 
  ## Home - Clean Cameras | Markus Säuberli
- - [http://www.clean-cameras.ch](http://www.clean-cameras.ch)
+ - [https://clean-cameras.ch](https://clean-cameras.ch)
  - date_published: 2024-10-29T09:22:39+00:00
 
  ## Satellite electrical ground support equipment specialists
@@ -2697,7 +2701,7 @@
  - date_published: 2024-10-22T08:50:58.284279+00:00
 
  ## Fotos, Fotobücher, Kalender und mehr
- - [http://www.colordrack.ch](http://www.colordrack.ch)
+ - [https://colordrack.ch](https://colordrack.ch)
  - date_published: 2024-10-29T11:13:03.696209+00:00
 
  ## Comedia – Die Genossenschaftsbuchhandlung
@@ -4008,8 +4012,4 @@
  ## Polylex
  - [http://polylex.epfl.ch](http://polylex.epfl.ch)
  - date_published: 2024-07-16T22:23:40+00:00
-
- ## Faculty Affairs
- - [https://professeurs.epfl.ch](https://professeurs.epfl.ch)
- - date_published: 2024-07-16T22:33:03+00:00
 

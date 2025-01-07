@@ -1,3 +1,112 @@
+ ## Frank Y. Wang
+ - [https://frankwang.org](https://frankwang.org)
+ - date_published: 2023-03-05T19:00:42+00:00
+
+ ## Fraser Institute
+ - [http://fraserinstitute.org](http://fraserinstitute.org)
+ - date_published: 2023-10-25T21:22:27.402641+00:00
+
+ ## Fraud
+ - [https://fraud.org](https://fraud.org)
+ - date_published: 2020-10-30T00:00:00+00:00
+
+ ## FrauenLoop Women in Tech Europe
+ - [https://frauenloop.org](https://frauenloop.org)
+ - date_published: 2024-06-21T21:36:36.626426+00:00
+
+ ## fray media foundation  | Women in Media
+ - [https://fraymediafoundation.org](https://fraymediafoundation.org)
+ - date_published: 2024-10-22T21:43:39.241560+00:00
+
+ ## Discount Window
+ - [https://frbdiscountwindow.org](https://frbdiscountwindow.org)
+ - date_published: 2024-07-08T09:17:55.071662+00:00
+
+ ## The Federal Reserve - FRBservices.org
+ - [https://frbservices.org](https://frbservices.org)
+ - date_published: 2024-07-08T09:17:52.440593+00:00
+
+ ## Federal Reserve Bank of San Francisco
+ - [https://frbsf.org](https://frbsf.org)
+ - date_published: 2024-01-17T15:40:24.538988+00:00
+
+ ## FRC | Pro Marriage & Pro Life Organization in Washington DC
+ - [https://frc.org](https://frc.org)
+ - date_published: 2024-06-27T06:49:12.856286+00:00
+
+ ## FRC Action
+ - [https://www.frcaction.org](https://www.frcaction.org)
+ - date_published: 2024-12-22T06:10:09.674746+00:00
+
+ ## Free Range Priest
+ - [http://frcathie.org](http://frcathie.org)
+ - date_published: 2024-12-23T11:21:02+00:00
+
+ ## Netsukuku - P2P mesh routing
+ - [https://netsukuku.freaknet.org](https://netsukuku.freaknet.org)
+ - date_published: 2014-11-11T00:54:48+00:00
+
+ ## Fred Hutchinson Cancer Center
+ - [https://engage.fredhutch.org](https://engage.fredhutch.org)
+ - date_published: 2001-01-08T16:26:47+00:00
+
+ ## Fred Hutchinson Cancer Center
+ - [https://fredhutch.org](https://fredhutch.org)
+ - date_published: 2024-03-14T18:39:56.925973+00:00
+
+ ## Fred Hutchinson Cancer Center
+ - [https://secure.fredhutch.org](https://secure.fredhutch.org)
+ - date_published: 2024-05-10T06:03:23.976185+00:00
+
+ ## Index of /
+ - [https://ftp.free.org](https://ftp.free.org)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Free60.org Wiki - Free60 Wiki
+ - [https://free60.org](https://free60.org)
+ - date_published: 2023-08-12T10:39:11+00:00
+
+ ## FreeAIChatbot.org
+ - [https://freeaichatbot.org](https://freeaichatbot.org)
+ - date_published: 2024-09-13T20:25:54.139446+00:00
+
+ ## Allegiance – Space Combat Game
+ - [https://freeallegiance.org](https://freeallegiance.org)
+ - date_published: 2024-05-09T08:59:49.258250+00:00
+
+ ## Free Bible Commentaries and Bible Study Tools
+ - [https://freebiblecommentary.org](https://freebiblecommentary.org)
+ - date_published: 2024-02-27T05:33:01+00:00
+
+ ## オンラインカジノ
+ - [https://freebradley.org](https://freebradley.org)
+ - date_published: 2024-10-21T18:28:54.844749+00:00
+
+ ## 免费下载自由浏览 app，了解墙外最新资讯 - 自由浏览
+ - [https://freebrowser.org](https://freebrowser.org)
+ - date_published: 2024-06-06T14:16:52+00:00
+
+ ## FreeBSD Bugzilla Main Page
+ - [https://bugs.freebsd.org](https://bugs.freebsd.org)
+ - date_published: 2024-05-11T10:03:21.093443+00:00
+
+ ## FreeBSD Git repositories
+ - [http://cgit.freebsd.org](http://cgit.freebsd.org)
+ - date_published: 2023-10-25T21:22:28.105203+00:00
+ - date_dead_since: 2024-12-22T06:13:36.028068+00:00
+
+ ## FreeBSD [Jenkins]
+ - [https://ci.freebsd.org](https://ci.freebsd.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## FreeBSD Documentation Archive
+ - [https://docs-archive.freebsd.org](https://docs-archive.freebsd.org)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## https://docs.freebsd.org/en/
+ - [https://docs.freebsd.org](https://docs.freebsd.org)
+ - date_published: 2023-10-25T21:22:28.573567+00:00
+
  ## download.FreeBSD.org
  - [https://download.freebsd.org](https://download.freebsd.org)
  - date_published: 2024-09-15T14:12:22.028419+00:00
@@ -201,11 +310,11 @@
  - date_published: 2024-05-04T09:16:54.040486+00:00
 
  ## Cul-Tur Efree
- - [http://free-culture.org](http://free-culture.org)
+ - [https://free-culture.org](https://free-culture.org)
  - date_published: 2024-07-23T13:10:54+00:00
 
  ## Freecycle: Front Door
- - [http://www.freecycle.org](http://www.freecycle.org)
+ - [https://freecycle.org](https://freecycle.org)
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## Bugzilla Main Page
@@ -300,7 +409,7 @@
  - date_published: 2024-03-02T21:47:09+00:00
 
  ## Mirror for Open Source Projects
- - [http://freedif.org](http://freedif.org)
+ - [https://freedif.org](https://freedif.org)
  - date_published: 2024-05-10T14:33:34+00:00
 
  ## Index of /
@@ -308,7 +417,7 @@
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## Home
- - [http://www.freedomandprosperity.org](http://www.freedomandprosperity.org)
+ - [https://freedomandprosperity.org](https://freedomandprosperity.org)
  - date_published: 2024-10-21T14:10:22.938893+00:00
 
  ## FreedomBox Forum
@@ -336,7 +445,7 @@
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Freedom from the FDA
- - [http://www.freedomfromfda.org](http://www.freedomfromfda.org)
+ - [https://freedomfromfda.org](https://freedomfromfda.org)
  - date_published: 2014-06-02T00:00:00+00:00
 
  ## Expanding Freedom and Democracy
@@ -364,11 +473,11 @@
  - date_published: 2021-01-17T22:28:28+00:00
 
  ## | Freedom to Marry
- - [http://www.freedomtomarry.org](http://www.freedomtomarry.org)
+ - [https://freedomtomarry.org](https://freedomtomarry.org)
  - date_published: 2015-06-26T00:00:00+00:00
 
  ## Our future. Our votes. Our democracy.
- - [https://www.freedomtovoteact.org](https://www.freedomtovoteact.org)
+ - [https://freedomtovoteact.org](https://freedomtovoteact.org)
  - date_published: 2024-07-20T21:47:25.662903+00:00
 
  ## readable.css
@@ -376,7 +485,7 @@
  - date_published: 2022-06-15T00:00:00+00:00
 
  ## The FreeDOS Project
- - [https://www.freedos.org](https://www.freedos.org)
+ - [https://freedos.org](https://freedos.org)
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## Entdecken Sie die besten App-Downloads für Mac OS X auf FDM
@@ -396,7 +505,7 @@
  - date_published: 2024-07-17T14:56:56.884199+00:00
 
  ## Free Download Manager - download everything from the internet
- - [http://freedownloadmanager.org](http://freedownloadmanager.org)
+ - [https://freedownloadmanager.org](https://freedownloadmanager.org)
  - date_published: 2024-09-04T06:01:21.470494+00:00
 
  ## Découvrez les meilleurs logiciels pour Win en téléchargement sur FDM
@@ -436,7 +545,7 @@
  - date_published: 2024-12-31T09:13:11.168231+00:00
 
  ## Space dwarfs online
- - [http://spacedwarfsonline.freeforums.org](http://spacedwarfsonline.freeforums.org)
+ - [https://spacedwarfsonline.freeforums.org](https://spacedwarfsonline.freeforums.org)
  - date_published: 2024-07-20T06:35:41.693405+00:00
 
  ## Tapatalk - error
@@ -444,7 +553,7 @@
  - date_published: 2025-01-01T11:17:57.525057+00:00
 
  ## FreeGaza
- - [http://www.freegaza.org](http://www.freegaza.org)
+ - [https://freegaza.org](https://freegaza.org)
  - date_published: 2024-05-28T18:53:05+00:00
 
  ## Freehackers
@@ -452,7 +561,7 @@
  - date_published: 2024-06-12T12:07:02+00:00
 
  ## Freehand Arts Project
- - [https://www.freehandartsproject.org](https://www.freehandartsproject.org)
+ - [https://freehandartsproject.org](https://freehandartsproject.org)
  - date_published: 2024-07-04T04:36:17.933162+00:00
 
  ## Free Hit Counters » Fast, Simple and FREE HTML Hit Counter for YOU!
@@ -460,15 +569,15 @@
  - date_published: 2024-07-08T09:36:13.282567+00:00
 
  ## FreeIPA - Identity, Policy, Audit — FreeIPA  documentation
- - [https://www.freeipa.org](https://www.freeipa.org)
+ - [https://freeipa.org](https://freeipa.org)
  - date_published: 2024-08-22T07:17:37+00:00
 
  ## Free Journal Network – Nurturing an ecosystem of high quality, open access, scholar-controlled journals with no author-facing charges
- - [http://freejournals.org](http://freejournals.org)
+ - [https://freejournals.org](https://freejournals.org)
  - date_published: 2024-07-07T10:25:01.844368+00:00
 
  ## freeke.org, y’all
- - [http://www.freeke.org](http://www.freeke.org)
+ - [https://freeke.org](https://freeke.org)
  - date_published: 2024-05-30T18:23:24+00:00
 
  ## Freelancers Union Blog
@@ -497,7 +606,7 @@
  - tags: ['freemasonry']
 
  ## Freemason Network
- - [https://www.freemasonnetwork.org](https://www.freemasonnetwork.org)
+ - [https://freemasonnetwork.org](https://freemasonnetwork.org)
  - date_published: 2024-06-17T00:00:00+00:00
  - tags: ['freemason']
 
@@ -507,11 +616,11 @@
  - tags: ['freemasonry']
 
  ## Index of /
- - [https://www.freemasonrytasmania.org](https://www.freemasonrytasmania.org)
+ - [https://freemasonrytasmania.org](https://freemasonrytasmania.org)
  - date_published: 2024-06-17T14:04:51.226109+00:00
 
  ## Freemasons Foundation Victoria
- - [https://www.freemasonsfoundation.org](https://www.freemasonsfoundation.org)
+ - [https://freemasonsfoundation.org](https://freemasonsfoundation.org)
  - date_published: 2024-10-19T10:05:57.260345+00:00
 
  ## Home
@@ -528,11 +637,11 @@
  - date_published: 2024-03-13T13:07:26+00:00
 
  ## Freemount
- - [https://www.freemount.org](https://www.freemount.org)
+ - [https://freemount.org](https://freemount.org)
  - date_published: 2014-02-22T00:00:00+00:00
 
  ## Royalty free music and 'free to download' music - Free Music Archive
- - [http://freemusicarchive.org](http://freemusicarchive.org)
+ - [https://freemusicarchive.org](https://freemusicarchive.org)
  - date_published: 2024-06-20T01:18:44.252042+00:00
 
  ## FreeNAS Community
@@ -561,7 +670,7 @@
  - date_published: 2024-02-20T20:58:45.327219+00:00
 
  ## Free Online Phone | Receive SMS Online
- - [https://www.freeonlinephone.org](https://www.freeonlinephone.org)
+ - [https://freeonlinephone.org](https://freeonlinephone.org)
  - date_published: 2024-06-23T18:17:32.199117+00:00
 
  ## Free Open Source Software
@@ -575,7 +684,7 @@
  - tags: ['open source', 'video game']
 
  ## FreeOurWorld.Org Home
- - [http://freeourworld.org](http://freeourworld.org)
+ - [https://freeourworld.org](https://freeourworld.org)
  - date_published: 2022-07-28T19:17:59+00:00
 
  ## Lazarus - Index
@@ -615,13 +724,13 @@
  - [https://community.freepbx.org](https://community.freepbx.org)
  - date_published: 2024-10-31T04:47:07.471330+00:00
 
+ ## FreePBX | Open source, web-based, IP PBX management tool.
+ - [https://freepbx.org](https://freepbx.org)
+ - date_published: 2024-02-22T00:00:00+00:00
+
  ## FreePBX
  - [https://git.freepbx.org](https://git.freepbx.org)
  - date_published: 2024-06-19T00:00:00+00:00
-
- ## FreePBX | Open source, web-based, IP PBX management tool.
- - [https://www.freepbx.org](https://www.freepbx.org)
- - date_published: 2024-02-22T00:00:00+00:00
 
  ## Free Press Unlimited
  - [https://freepressunlimited.org](https://freepressunlimited.org)
@@ -653,20 +762,20 @@
  - date_published: 2024-01-09T03:40:21.225501+00:00
 
  ## Freedom Is Your Choice - Take Back Your Freedom Today!
- - [http://fr33d0m.freeshell.org](http://fr33d0m.freeshell.org)
+ - [https://fr33d0m.freeshell.org](https://fr33d0m.freeshell.org)
  - date_published: 2021-05-29T18:10:20+00:00
 
+ ## SDF Public Access UNIX System - Free Shell Account and Shell Access
+ - [https://freeshell.org](https://freeshell.org)
+ - date_published: 2024-08-18T08:34:00.272496+00:00
+
  ## John Baber-Lucero
- - [http://jbaber.freeshell.org](http://jbaber.freeshell.org)
+ - [https://jbaber.freeshell.org](https://jbaber.freeshell.org)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## Rick Umali's SDF Homepage
  - [https://rgu.freeshell.org](https://rgu.freeshell.org)
  - date_published: 2023-04-21T01:30:47+00:00
-
- ## SDF Public Access UNIX System - Free Shell Account and Shell Access
- - [http://www.freeshell.org](http://www.freeshell.org)
- - date_published: 2024-08-18T08:34:00.272496+00:00
 
  ## Freeside Atlanta
  - [https://wiki.freesideatlanta.org](https://wiki.freesideatlanta.org)
@@ -679,13 +788,14 @@
  ## FreeSO Beta – Join now: It’s free and awesome
  - [http://beta.freeso.org](http://beta.freeso.org)
  - date_published: 2024-07-11T11:38:31.789020+00:00
+ - date_dead_since: 2025-01-06T17:09:49.578261+00:00
 
  ## FreeSO -
  - [https://freeso.org](https://freeso.org)
  - date_published: 2024-04-01T00:00:00+00:00
 
  ## Free Software
- - [http://www.free-soft.org](http://www.free-soft.org)
+ - [https://free-soft.org](https://free-soft.org)
  - date_published: 2014-12-12T09:22:50+00:00
 
  ## freesoft.org
@@ -693,7 +803,7 @@
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## myslot ไม่ผ่านเอเยนต์ ไม่มีขั้นต่ำ เข้าสู่ระบบแตกง่าย ฟรีเครดิตทางเข้า
- - [http://www.freesoftwareseries.org](http://www.freesoftwareseries.org)
+ - [https://freesoftwareseries.org](https://freesoftwareseries.org)
  - date_published: 2024-08-19T14:28:14+00:00
 
  ## Plausible · Web analytics
@@ -807,7 +917,7 @@
  - date_published: 2024-12-05T14:33:26+00:00
 
  ## Home - Free West Papua Campaign
- - [http://www.freewestpapua.org](http://www.freewestpapua.org)
+ - [https://freewestpapua.org](https://freewestpapua.org)
  - date_published: 2024-10-21T17:57:44.469481+00:00
 
  ## 首页 - 自由知乎
@@ -819,7 +929,7 @@
  - date_published: 2021-04-08T22:10:38+00:00
 
  ## Friedrich Naumann Foundation for Freedom
- - [https://www.freiheit.org](https://www.freiheit.org)
+ - [https://freiheit.org](https://freiheit.org)
  - date_published: 2024-07-09T14:15:24.218034+00:00
 
  ## GFF – Gesellschaft für Freiheitsrechte e.V.
@@ -851,7 +961,7 @@
  - date_published: 2024-06-20T00:53:25+00:00
 
  ## Fréquence écoles
- - [https://www.frequence-ecoles.org](https://www.frequence-ecoles.org)
+ - [https://frequence-ecoles.org](https://frequence-ecoles.org)
  - date_published: 2024-07-13T02:34:17.799455+00:00
 
  ## Advanced AI Song Lyrics Generator | Songwriting Inspiration Engine
@@ -859,7 +969,7 @@
  - date_published: 2024-10-30T14:06:48.832846+00:00
 
  ## FreshBSD
- - [https://www.freshbsd.org](https://www.freshbsd.org)
+ - [https://freshbsd.org](https://freshbsd.org)
  - date_published: 2024-08-18T00:00:00+00:00
 
  ## Bold policy for a just, carbon-free future. - Fresh Energy
@@ -892,19 +1002,19 @@
  - date_published: 2024-07-08T15:29:49+00:00
 
  ## Frets On Fire Fan Forum - Index page
- - [https://www.fretsonfire.org](https://www.fretsonfire.org)
+ - [https://fretsonfire.org](https://fretsonfire.org)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## The Frick Collection
- - [https://www.frick.org](https://www.frick.org)
+ - [https://frick.org](https://frick.org)
  - date_published: 2024-06-26T21:13:25+00:00
 
  ## Top 6 trang Casino Trực Tuyến hợp pháp, uy tín nhất Việt Nam 2024
- - [http://www.frickart.org](http://www.frickart.org)
+ - [https://frickart.org](https://frickart.org)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## Friday Night Dancers
- - [http://fridaynightdance.org](http://fridaynightdance.org)
+ - [https://fridaynightdance.org](https://fridaynightdance.org)
  - date_published: 2024-08-20T05:21:12.873212+00:00
 
  ## Actions on Climate Emergency
@@ -916,7 +1026,7 @@
  - date_published: 2024-06-12T12:35:42.623000+00:00
 
  ## Friend of SPEEA
- - [https://www.friendofspeea.org](https://www.friendofspeea.org)
+ - [https://friendofspeea.org](https://friendofspeea.org)
  - date_published: 2024-07-09T22:29:45.594041+00:00
 
  ## Home
@@ -924,11 +1034,11 @@
  - date_published: 2024-01-19T00:00:00+00:00
 
  ## HOME | friendship
- - [http://friendship-pgh.org](http://friendship-pgh.org)
+ - [https://friendship-pgh.org](https://friendship-pgh.org)
  - date_published: 2024-06-28T14:30:10.149799+00:00
 
  ## Friendship Baptist Church - Raleigh, North Carolina
- - [https://www.friendshipraleigh.org](https://www.friendshipraleigh.org)
+ - [https://friendshipraleigh.org](https://friendshipraleigh.org)
  - date_published: 2024-04-25T00:00:00+00:00
 
  ## Friends Institute | "Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance, and friendship."— Universal Declaration of Human Rights
@@ -936,8 +1046,9 @@
  - date_published: 2024-07-10T06:02:04.035959+00:00
 
  ## Friends-International | Together, building futures
- - [https://friends-international.org](https://friends-international.org)
+ - [http://friends-international.org](http://friends-international.org)
  - date_published: 2024-07-12T09:02:21+00:00
+ - date_dead_since: 2025-01-06T17:23:11.886088+00:00
 
  ## Friends of Acadia - Conservation Organization in Maine
  - [https://friendsofacadia.org](https://friendsofacadia.org)
@@ -948,12 +1059,12 @@
  - date_published: 2024-10-20T11:22:02.450091+00:00
 
  ## Friends of The Wildflower Garden Home Page
- - [https://www.friendsofeloisebutler.org](https://www.friendsofeloisebutler.org)
+ - [https://friendsofeloisebutler.org](https://friendsofeloisebutler.org)
  - date_published: 2024-07-23T14:35:17+00:00
 
  ## Friends of Greenfield Dance
- - [http://www.friendsofgreenfielddance.org](http://www.friendsofgreenfielddance.org)
- - date_published: 2024-04-04T00:00:00+00:00
+ - [https://friendsofgreenfielddance.org](https://friendsofgreenfielddance.org)
+ - date_published: 2015-07-09T21:37:24+00:00
 
  ## The Friends of Hall's Pond
  - [https://friendsofhallspond.org](https://friendsofhallspond.org)
@@ -968,7 +1079,7 @@
  - date_published: 2024-05-13T00:00:00+00:00
 
  ## New Orleans Friends of Music | Friendsofmusic | Chamber Music
- - [http://friendsofmusic.org](http://friendsofmusic.org)
+ - [https://friendsofmusic.org](https://friendsofmusic.org)
  - date_published: 2024-07-12T14:20:58.927354+00:00
 
  ## Home – Friends of Pier Park
@@ -988,7 +1099,7 @@
  - date_published: 2024-10-15T07:20:00.928995+00:00
 
  ## Support Friends of Wehr Nature Center | Milwaukee
- - [https://www.friendsofwehr.org](https://www.friendsofwehr.org)
+ - [https://friendsofwehr.org](https://friendsofwehr.org)
  - date_published: 2024-06-29T02:23:42.673771+00:00
 
  ## Friends of White: Embracing Unity in Diversity
@@ -996,15 +1107,15 @@
  - date_published: 2024-12-13T03:35:15.745361+00:00
 
  ## The Original Friends Site
- - [https://www.friends-tv.org](https://www.friends-tv.org)
+ - [https://friends-tv.org](https://friends-tv.org)
  - date_published: 2023-09-16T00:00:00+00:00
 
  ## friisk.org
- - [http://www.friisk.org](http://www.friisk.org)
+ - [https://friisk.org](https://friisk.org)
  - date_published: 2024-07-12T03:32:53.832640+00:00
 
  ## Φρικηπαίδεια
- - [http://frikipaideia.org](http://frikipaideia.org)
+ - [https://frikipaideia.org](https://frikipaideia.org)
  - date_published: 2024-07-14T05:52:56.727443+00:00
 
  ## Frink
@@ -1028,23 +1139,24 @@
  - date_published: 2024-08-18T00:00:00+00:00
 
  ## Cierpliwości...
- - [https://fritzing.org](https://fritzing.org)
+ - [http://fritzing.org](http://fritzing.org)
  - date_published: 2024-05-09T04:19:36.822934+00:00
 
  ## frizzylogic.org
  - [http://www.frizzylogic.org](http://www.frizzylogic.org)
  - date_published: 2024-07-02T06:34:34.241258+00:00
+ - date_dead_since: 2025-01-06T17:32:34.477110+00:00
 
  ## FrodoKEM
  - [https://frodokem.org](https://frodokem.org)
  - date_published: 2024-06-26T13:58:30+00:00
 
  ## FROG PEAK MUSIC (a composers\' collective)
- - [http://frogpeak.org](http://frogpeak.org)
+ - [https://frogpeak.org](https://frogpeak.org)
  - date_published: 2023-10-25T21:23:03.243812+00:00
 
  ## From Earth to the Universe Exhibition
- - [http://www.fromearthtotheuniverse.org](http://www.fromearthtotheuniverse.org)
+ - [https://fromearthtotheuniverse.org](https://fromearthtotheuniverse.org)
  - date_published: 2024-09-07T23:14:52.625403+00:00
 
  ## คาสิโนออนไลน์ได้เงินจริง
@@ -1058,22 +1170,24 @@
  ## From The Square
  - [https://fromthesquare.org](https://fromthesquare.org)
  - date_published: 2024-05-12T04:30:17.663373+00:00
+ - date_dead_since: 2025-01-06T17:34:36.795155+00:00
 
  ## The Frontier Fellowship
  - [http://www.frontierfellowship.org](http://www.frontierfellowship.org)
  - date_published: 2024-12-15T17:27:57.253498+00:00
 
  ## Home - Frontier Group
- - [https://frontiergroup.org](https://frontiergroup.org)
+ - [http://frontiergroup.org](http://frontiergroup.org)
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## Frontier Imaginaries
- - [http://frontierimaginaries.org](http://frontierimaginaries.org)
+ - [https://frontierimaginaries.org](https://frontierimaginaries.org)
  - date_published: 2024-07-13T15:44:02.802024+00:00
 
  ## Frontierkernel - Membagikan Tips & Trik Judi Online Hingga Tuntas
  - [http://frontierkernel.org](http://frontierkernel.org)
  - date_published: 2024-01-29T00:00:00+00:00
+ - date_dead_since: 2025-01-06T17:35:02.967990+00:00
 
  ## Frontiers Planet Prize - Home
  - [https://www.frontiersfoundation.org](https://www.frontiersfoundation.org)
@@ -1094,6 +1208,7 @@
  ## Frontiers Editorial Board
  - [https://editor-application.frontiersin.org](https://editor-application.frontiersin.org)
  - date_published: 2024-07-19T17:33:22.585171+00:00
+ - date_dead_since: 2025-01-06T17:35:23.334659+00:00
 
  ## Frontiers Planet Prize
  - [https://events.frontiersin.org](https://events.frontiersin.org)
@@ -1141,15 +1256,15 @@
  - date_published: 2024-07-19T17:33:19.268587+00:00
 
  ## Frontiers in Retreat
- - [http://www.frontiersinretreat.org](http://www.frontiersinretreat.org)
+ - [http://frontiersinretreat.org](http://frontiersinretreat.org)
  - date_published: 2024-07-13T14:34:44.726028+00:00
 
  ## Home - Frontiers Magazine
- - [http://frontiersmagazine.org](http://frontiersmagazine.org)
+ - [https://frontiersmagazine.org](https://frontiersmagazine.org)
  - date_published: 2024-10-21T17:31:34.125689+00:00
 
  ## Frontier Technologies Hub
- - [https://www.frontiertechhub.org](https://www.frontiertechhub.org)
+ - [https://frontiertechhub.org](https://frontiertechhub.org)
  - date_published: 2024-07-11T14:28:31.675035+00:00
 
  ## Introduction | API Reference
@@ -1193,11 +1308,11 @@
  - date_published: 2024-03-16T00:00:00+00:00
 
  ## Blog - Headstones, American Congress on Surveying and Mapping, Boundary survey
- - [http://www.frontlinevoices.org](http://www.frontlinevoices.org)
+ - [https://frontlinevoices.org](https://frontlinevoices.org)
  - date_published: 2020-04-06T00:00:00+00:00
 
  ## Toto SDY Pools: Live SDY, Live Draw SDY Prize, Result SDY Hari Ini, Live Draw Sidney
- - [https://www.frontorient14-18.org](https://www.frontorient14-18.org)
+ - [https://frontorient14-18.org](https://frontorient14-18.org)
  - date_published: 2024-06-21T06:56:09+00:00
 
  ## Front Seat - building tech for good.
@@ -1225,7 +1340,7 @@
  - date_published: 2024-12-19T11:55:12.151741+00:00
 
  ## Frozen Niki
- - [http://frozen-niki.org](http://frozen-niki.org)
+ - [https://frozen-niki.org](https://frozen-niki.org)
  - date_published: 2005-09-28T12:12:34+00:00
 
  ## Home |  Mastercard Foundation Fund for Resilience and Prosperity
@@ -1237,7 +1352,7 @@
  - date_published: 2024-12-22T19:13:21.391982+00:00
 
  ## FRRL
- - [http://www.frrl.org](http://www.frrl.org)
+ - [https://frrl.org](https://frrl.org)
  - date_published: 2024-06-17T14:36:32+00:00
 
  ## FRRouting User Guide — FRR latest documentation
@@ -1277,11 +1392,11 @@
  - date_published: 2024-07-26T20:03:40.311502+00:00
 
  ## Index of /
- - [http://fsa-bg.org](http://fsa-bg.org)
+ - [https://fsa-bg.org](https://fsa-bg.org)
  - date_published: 2024-07-14T05:44:48.696530+00:00
 
  ## SBOBET : AGEN SITUS JUDI BOLA ONLINE RESMI & DAFTAR SBOBET88 LOGIN WAP
- - [https://www.fsapubs.org](https://www.fsapubs.org)
+ - [https://fsapubs.org](https://fsapubs.org)
  - date_published: 2022-06-07T14:14:43+00:00
 
  ## FSArchiver - Filesystem Archiver for Linux
@@ -1366,7 +1481,7 @@ encryption
  ## Welcome to GPLv3
         —
         GPLv3
- - [http://gplv3.fsf.org](http://gplv3.fsf.org)
+ - [https://gplv3.fsf.org](https://gplv3.fsf.org)
  - date_published: 2021-07-14T20:35:42+00:00
 
  ## Jitsi Meet
@@ -1392,6 +1507,7 @@ encryption
  ## FSF Shop
  - [https://shop.fsf.org](https://shop.fsf.org)
  - date_published: 2024-07-07T04:12:14+00:00
+ - date_dead_since: 2025-01-06T17:43:24.274317+00:00
 
  - [https://static.fsf.org](https://static.fsf.org)
  - date_published: 2020-07-02T22:39:09+00:00
@@ -1453,7 +1569,7 @@ encryption
  - date_published: 2020-11-29T00:00:00+00:00
 
  ## FSF France
- - [http://www.fsffrance.org](http://www.fsffrance.org)
+ - [https://fsffrance.org](https://fsffrance.org)
  - date_published: 2023-06-26T12:46:22+00:00
 
  ## ::[FSFLA]:: Free Software Foundation Latin America
@@ -1465,7 +1581,7 @@ encryption
  - date_published: 2021-10-14T16:24:38+00:00
 
  ## FSGW - Home
- - [http://fsgw.org](http://fsgw.org)
+ - [https://fsgw.org](https://fsgw.org)
  - date_published: 2024-08-20T00:00:00+00:00
 
  ## User Groups
@@ -1505,7 +1621,7 @@ encryption
  - date_published: 2023-05-01T04:32:25+00:00
 
  ## Free Software Movement Karnataka
- - [http://fsmk.org](http://fsmk.org)
+ - [https://fsmk.org](https://fsmk.org)
  - date_published: 2023-09-28T08:35:29+00:00
 
  ## Home - FSNebula
@@ -1521,7 +1637,7 @@ encryption
  - date_published: 2024-12-11T02:00:43+00:00
 
  ## Bank Policy Institute - Home Page
- - [http://www.fsroundtable.org](http://www.fsroundtable.org)
+ - [https://fsroundtable.org](https://fsroundtable.org)
  - date_published: 2024-08-07T00:00:00+00:00
 
  ## Thai Researcher
@@ -1529,7 +1645,7 @@ encryption
  - date_published: 2024-10-29T17:31:26.084676+00:00
 
  ## 澳洲幸运5|澳洲幸运5|宾果28|澳洲幸运5预测网站
- - [http://www.fsssc.org](http://www.fsssc.org)
+ - [https://fsssc.org](https://fsssc.org)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## F*: A Proof-Oriented Programming Language
@@ -1538,7 +1654,7 @@ encryption
  - tags: ['programming language']
 
  ## Viasat Internet  | Satellite Internet Providers
- - [http://www.fstc.org](http://www.fstc.org)
+ - [https://fstc.org](https://fstc.org)
  - date_published: 2024-06-23T20:38:12.780270+00:00
 
  ## FSU Credit Union | A Credit Union For Everyone
@@ -1546,7 +1662,7 @@ encryption
  - date_published: 2022-07-12T04:00:39+00:00
 
  ## Fundación Salud y Comunidad - Fomentando Servicios de Calidad
- - [https://www.fsyc.org](https://www.fsyc.org)
+ - [https://fsyc.org](https://fsyc.org)
  - date_published: 2024-10-18T21:24:52.381535+00:00
 
  ## FTBI | Foundation for Technology & Business Incubation
@@ -1558,19 +1674,19 @@ encryption
  - date_published: 2024-09-20T00:00:00+00:00
 
  ## fteproxy | protocol misidentification made easy
- - [http://fteproxy.org](http://fteproxy.org)
+ - [https://fteproxy.org](https://fteproxy.org)
  - date_published: 2015-03-07T00:00:00+00:00
 
  ## Hudson's FTM Resource Guide
- - [https://www.ftmguide.org](https://www.ftmguide.org)
+ - [https://ftmguide.org](https://ftmguide.org)
  - date_published: 2017-06-09T19:11:47+00:00
 
  ## FTSC - FidoNet Technical Standards Committee
- - [http://www.ftsc.org](http://www.ftsc.org)
+ - [http://ftsc.org](http://ftsc.org)
  - date_published: 2024-05-02T12:54:13.588808+00:00
 
  ## The Freethought Society -
- - [https://www.ftsociety.org](https://www.ftsociety.org)
+ - [https://ftsociety.org](https://ftsociety.org)
  - date_published: 2024-06-30T01:47:55.178077+00:00
 
  ## Free Fuck Buddy Sites to Meet and Fuck | Fuckbook
@@ -1578,11 +1694,11 @@ encryption
  - date_published: 2024-12-12T20:53:28.058511+00:00
 
  ## Fundación para el Desarrollo de los Pueblos de Andalucía.
- - [http://www.fudepa.org](http://www.fudepa.org)
+ - [https://fudepa.org](https://fudepa.org)
  - date_published: 2024-07-02T17:43:11.431160+00:00
 
  ## FUDforum: Welcome to the forum
- - [http://fudforum.org](http://fudforum.org)
+ - [https://fudforum.org](https://fudforum.org)
  - date_published: 2024-01-13T00:00:00+00:00
 
  ## 复旦大学教育发展基金会网站
@@ -1590,11 +1706,11 @@ encryption
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## Fuerza De Amor
- - [https://www.fuerzadeamor.org](https://www.fuerzadeamor.org)
+ - [https://fuerzadeamor.org](https://fuerzadeamor.org)
  - date_published: 2024-09-12T18:53:30.633306+00:00
 
  ## Home page - FuGet Gallery
- - [https://www.fuget.org](https://www.fuget.org)
+ - [https://fuget.org](https://fuget.org)
  - date_published: 2024-05-08T11:50:12.556118+00:00
 
  ## US Fulbright Program - Home Page
@@ -1606,11 +1722,11 @@ encryption
  - date_published: 2024-10-19T11:06:18.463978+00:00
 
  ## Fullahead » The design and code of Pat Heard
- - [http://fullahead.org](http://fullahead.org)
+ - [https://fullahead.org](https://fullahead.org)
  - date_published: 2024-07-11T11:24:26.377220+00:00
 
  ## Full Circle Fund
- - [http://www.fullcirclefund.org](http://www.fullcirclefund.org)
+ - [https://www.fullcirclefund.org](https://www.fullcirclefund.org)
  - date_published: 2024-09-18T18:55:13.123913+00:00
 
  ## File Not Found « Full Circle Magazine
@@ -1634,7 +1750,7 @@ encryption
  - date_published: 2023-10-25T21:23:20.334750+00:00
 
  ## Home - Full Frame Documentary Film Festival
- - [https://www.fullframefest.org](https://www.fullframefest.org)
+ - [https://fullframefest.org](https://fullframefest.org)
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## FF Conf 🌟 UK web conference since 2009
@@ -1654,7 +1770,7 @@ encryption
  - date_published: 2024-12-15T18:18:39.751515+00:00
 
  ## Home Page | Superior Court of Fulton County
- - [http://www.fultoncourt.org](http://www.fultoncourt.org)
+ - [https://fultoncourt.org](https://fultoncourt.org)
  - date_published: 2024-07-22T02:27:13.869249+00:00
 
  ## Home |  Paraprogramming Dispatches
@@ -1663,7 +1779,7 @@ encryption
  - tags: ['tech', 'interesting', 'personal', 'programming']
 
  ## Workshop on Functional Art, Music, Modeling and Design (FARM)
- - [http://functional-art.org](http://functional-art.org)
+ - [https://functional-art.org](https://functional-art.org)
  - date_published: 2024-05-23T09:47:23+00:00
 
  ## Bioethics - Víctor Grífols i Lucas Foundation
@@ -1675,23 +1791,24 @@ encryption
  - date_published: 2024-12-22T05:34:16.220914+00:00
 
  ## La Fundación del agua
- - [https://www.fundacionaquae.org](https://www.fundacionaquae.org)
+ - [https://fundacionaquae.org](https://fundacionaquae.org)
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## Fundación Banco Popular
- - [https://www.fundacionbancopopular.org](https://www.fundacionbancopopular.org)
+ - [https://fundacionbancopopular.org](https://fundacionbancopopular.org)
  - date_published: 2024-10-18T05:17:52.648028+00:00
 
  ## Primeros Auxilios
  - [https://demo.fundacionbatuta.org](https://demo.fundacionbatuta.org)
  - date_published: 2024-06-12T11:25:57.796674+00:00
+ - date_dead_since: 2025-01-06T17:53:37.605562+00:00
 
  ## Batuta
  - [https://fundacionbatuta.org](https://fundacionbatuta.org)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## Fundación Corona
- - [https://www.fundacioncorona.org](https://www.fundacioncorona.org)
+ - [https://fundacioncorona.org](https://fundacioncorona.org)
  - date_published: 2024-07-26T00:00:00+00:00
 
  ## Home | CTIC
@@ -1699,11 +1816,11 @@ encryption
  - date_published: 2024-06-12T11:10:18.615824+00:00
 
  ## Inicio | CTIC-CT
- - [http://petras.fundacionctic.org](http://petras.fundacionctic.org)
+ - [https://petras.fundacionctic.org](https://petras.fundacionctic.org)
  - date_published: 2024-09-11T15:05:16+00:00
 
  ## Fundació de les Arts i els Artistes
- - [http://www.fundaciondelasartes.org](http://www.fundaciondelasartes.org)
+ - [https://fundaciondelasartes.org](https://fundaciondelasartes.org)
  - date_published: 2024-07-14T11:25:19.177384+00:00
 
  ## Home Fundación
@@ -1711,7 +1828,7 @@ encryption
  - date_published: 2024-12-09T18:21:01+00:00
 
  ## Inicio
- - [http://www.fundaciones.org](http://www.fundaciones.org)
+ - [https://fundaciones.org](https://fundaciones.org)
  - date_published: 2024-10-15T05:10:08.161057+00:00
 
  ## Home - Fundación Felipe Segovia
@@ -1719,7 +1836,7 @@ encryption
  - date_published: 2024-10-15T17:54:47.984917+00:00
 
  ## Inicio | Fundación Puertorriqueña de Enfermedades Reumáticas
- - [http://www.fundacionfer.org](http://www.fundacionfer.org)
+ - [https://fundacionfer.org](https://fundacionfer.org)
  - date_published: 2024-06-28T12:09:16.157335+00:00
 
  ## Home Spain - Fundación Global Nature
@@ -1727,11 +1844,11 @@ encryption
  - date_published: 2024-04-05T00:00:00+00:00
 
  ## Home - Fundación Konecta
- - [http://www.fundacionkonecta.org](http://www.fundacionkonecta.org)
+ - [https://fundacionkonecta.org](https://fundacionkonecta.org)
  - date_published: 2024-09-05T00:00:00+00:00
 
  ## Attention Required! | Cloudflare
- - [https://fundacionlacaixa.org](https://fundacionlacaixa.org)
+ - [http://fundacionlacaixa.org](http://fundacionlacaixa.org)
  - date_published: 2024-08-07T15:27:16.687923+00:00
 
  ## Fundación MTP
@@ -1759,7 +1876,7 @@ encryption
  - date_published: 2024-12-26T16:02:38.273629+00:00
 
  ## INICIO | FSA
- - [http://www.fundacionsanantonio.org](http://www.fundacionsanantonio.org)
+ - [https://fundacionsanantonio.org](https://fundacionsanantonio.org)
  - date_published: 2024-09-11T01:46:44.658754+00:00
 
  ## Página de inicio
@@ -1767,7 +1884,7 @@ encryption
  - date_published: 2024-06-12T12:11:32.741139+00:00
 
  ## Santuario Gaia | Por un mundo Vegano
- - [http://www.fundacionsantuariogaia.org](http://www.fundacionsantuariogaia.org)
+ - [https://fundacionsantuariogaia.org](https://fundacionsantuariogaia.org)
  - date_published: 2023-04-03T09:02:24+00:00
 
  ## FUNDACIÓN SUSANA MONSMA
@@ -1775,7 +1892,7 @@ encryption
  - date_published: 2024-12-22T05:34:42.882770+00:00
 
  ## Home
- - [http://fundaciontrinidadalfonso.org](http://fundaciontrinidadalfonso.org)
+ - [https://fundaciontrinidadalfonso.org](https://fundaciontrinidadalfonso.org)
  - date_published: 2024-10-15T00:32:53+00:00
 
  ## Home - Fundacja Drzewo Jutro
@@ -1783,7 +1900,7 @@ encryption
  - date_published: 2022-05-14T19:30:26+00:00
 
  ## Aktualności - Fundacja Służby Rodzinie “Nadzieja” Łódź | csr.org.pl
- - [https://www.fundacjanadzieja.org](https://www.fundacjanadzieja.org)
+ - [https://fundacjanadzieja.org](https://fundacjanadzieja.org)
  - date_published: 2024-09-20T18:53:29.467597+00:00
 
  ## fundacjanowemedia.org
@@ -1791,7 +1908,7 @@ encryption
  - date_published: 2024-05-07T23:42:40.617133+00:00
 
  ## fundacjanowemedia.org
- - [http://ww38.fundacjanowemedia.org](http://ww38.fundacjanowemedia.org)
+ - [https://ww38.fundacjanowemedia.org](https://ww38.fundacjanowemedia.org)
  - date_published: 2024-07-02T23:12:57.936047+00:00
 
  ## home - Fundacja Olandia
@@ -1831,11 +1948,11 @@ encryption
  - date_published: 2024-05-20T14:58:35+00:00
 
  ## Moonshot | FundFutureFood
- - [http://www.fundfuturefood.org](http://www.fundfuturefood.org)
+ - [https://fundfuturefood.org](https://fundfuturefood.org)
  - date_published: 2024-06-20T04:32:57.496545+00:00
 
  ## Join | Bridge Michigan
- - [https://bridge.fundjournalism.org](https://bridge.fundjournalism.org)
+ - [http://bridge.fundjournalism.org](http://bridge.fundjournalism.org)
  - date_published: 2024-05-08T03:32:05.254130+00:00
 
  ## Thank you for supporting Brookline.News - Brookline.News
@@ -1843,31 +1960,31 @@ encryption
  - date_published: 2023-12-11T00:00:00+00:00
 
  ## Join | Bucks County Beacon
- - [https://bucks-county-beacon.fundjournalism.org](https://bucks-county-beacon.fundjournalism.org)
+ - [http://bucks-county-beacon.fundjournalism.org](http://bucks-county-beacon.fundjournalism.org)
  - date_published: 2024-05-11T07:17:07.748348+00:00
 
  ## Join | The Cap Times
- - [https://capitaltimes.fundjournalism.org](https://capitaltimes.fundjournalism.org)
+ - [http://capitaltimes.fundjournalism.org](http://capitaltimes.fundjournalism.org)
  - date_published: 2024-06-21T19:45:54.238443+00:00
 
  ## Join | News Revenue Hub
- - [https://checkout.fundjournalism.org](https://checkout.fundjournalism.org)
+ - [http://checkout.fundjournalism.org](http://checkout.fundjournalism.org)
  - date_published: 2024-04-28T06:23:16.626774+00:00
 
  ## Join | Chicago Public Square
- - [https://chicago-public-square.fundjournalism.org](https://chicago-public-square.fundjournalism.org)
+ - [http://chicago-public-square.fundjournalism.org](http://chicago-public-square.fundjournalism.org)
  - date_published: 2024-05-09T06:41:43.349925+00:00
 
  ## Join | Reveal
- - [https://cir.fundjournalism.org](https://cir.fundjournalism.org)
+ - [http://cir.fundjournalism.org](http://cir.fundjournalism.org)
  - date_published: 2024-07-07T04:46:27.868700+00:00
 
  ## Join | CleanTechnica
- - [https://cleantechnica.fundjournalism.org](https://cleantechnica.fundjournalism.org)
+ - [http://cleantechnica.fundjournalism.org](http://cleantechnica.fundjournalism.org)
  - date_published: 2024-05-08T05:33:42.785480+00:00
 
  ## Join | Cleveland Scene
- - [https://clevelandscene.fundjournalism.org](https://clevelandscene.fundjournalism.org)
+ - [http://clevelandscene.fundjournalism.org](http://clevelandscene.fundjournalism.org)
  - date_published: 2024-05-08T05:35:20.474044+00:00
 
  ## Join | Coda Story
@@ -1879,11 +1996,11 @@ encryption
  - date_published: 2024-06-28T17:00:21.210877+00:00
 
  ## Join | Denver Westword
- - [https://denver-westword.fundjournalism.org](https://denver-westword.fundjournalism.org)
+ - [http://denver-westword.fundjournalism.org](http://denver-westword.fundjournalism.org)
  - date_published: 2024-06-21T23:50:06.587057+00:00
 
  ## Join | EdSource
- - [https://edsource.fundjournalism.org](https://edsource.fundjournalism.org)
+ - [http://edsource.fundjournalism.org](http://edsource.fundjournalism.org)
  - date_published: 2024-09-10T08:33:48.043949+00:00
 
  ## Join | Floodlight
@@ -1891,11 +2008,11 @@ encryption
  - date_published: 2024-12-22T00:36:47.965248+00:00
 
  ## Support our nonprofit newsroom | Fort Worth Report
- - [https://fortworthreport.fundjournalism.org](https://fortworthreport.fundjournalism.org)
+ - [http://fortworthreport.fundjournalism.org](http://fortworthreport.fundjournalism.org)
  - date_published: 2024-09-18T11:47:28.122964+00:00
 
  ## Join | Forward
- - [https://forward.fundjournalism.org](https://forward.fundjournalism.org)
+ - [http://forward.fundjournalism.org](http://forward.fundjournalism.org)
  - date_published: 2024-05-04T06:47:44.889798+00:00
 
  ## Home - News Revenue Hub
@@ -1903,11 +2020,11 @@ encryption
  - date_published: 2024-05-29T00:00:00+00:00
 
  ## Join | Inside Climate News
- - [https://insideclimate.fundjournalism.org](https://insideclimate.fundjournalism.org)
+ - [http://insideclimate.fundjournalism.org](http://insideclimate.fundjournalism.org)
  - date_published: 2024-05-08T08:46:49.585581+00:00
 
  ## Join | The Lenfest Institute for Journalism
- - [https://lenfestinstitute.fundjournalism.org](https://lenfestinstitute.fundjournalism.org)
+ - [http://lenfestinstitute.fundjournalism.org](http://lenfestinstitute.fundjournalism.org)
  - date_published: 2024-05-08T09:34:30.407876+00:00
 
  ## Support the Maine Trust for Local News
@@ -1919,7 +2036,7 @@ encryption
  - date_published: 2024-12-30T14:20:40.235594+00:00
 
  ## Join | Miami + Broward
- - [https://miami-broward.fundjournalism.org](https://miami-broward.fundjournalism.org)
+ - [http://miami-broward.fundjournalism.org](http://miami-broward.fundjournalism.org)
  - date_published: 2024-06-28T17:01:09.829206+00:00
 
  ## Join | Milwaukee Neighborhood News Service
@@ -1927,19 +2044,19 @@ encryption
  - date_published: 2024-12-30T14:35:10.229970+00:00
 
  ## Support MinnPost’s nonprofit journalism | MinnPost
- - [https://minnpost.fundjournalism.org](https://minnpost.fundjournalism.org)
+ - [http://minnpost.fundjournalism.org](http://minnpost.fundjournalism.org)
  - date_published: 2024-07-12T21:43:49.213441+00:00
 
  ## Join | Nevada Independent
- - [https://nevadaindependent.fundjournalism.org](https://nevadaindependent.fundjournalism.org)
+ - [http://nevadaindependent.fundjournalism.org](http://nevadaindependent.fundjournalism.org)
  - date_published: 2024-05-06T17:12:30.560552+00:00
 
  ## Join | OCCRP
- - [https://occrp.fundjournalism.org](https://occrp.fundjournalism.org)
+ - [http://occrp.fundjournalism.org](http://occrp.fundjournalism.org)
  - date_published: 2024-05-08T11:01:10.606941+00:00
 
  ## Join Us | Orlando Weekly
- - [https://orlandoweekly.fundjournalism.org](https://orlandoweekly.fundjournalism.org)
+ - [http://orlandoweekly.fundjournalism.org](http://orlandoweekly.fundjournalism.org)
  - date_published: 2024-05-06T22:11:39.620844+00:00
 
  ## Join | Phoenix New Times
@@ -1955,19 +2072,19 @@ encryption
  - date_published: 2024-07-02T16:05:17.902796+00:00
 
  ## Join | Sahan Journal
- - [https://sahanjournal.fundjournalism.org](https://sahanjournal.fundjournalism.org)
+ - [http://sahanjournal.fundjournalism.org](http://sahanjournal.fundjournalism.org)
  - date_published: 2024-04-28T06:23:11.244466+00:00
 
  ## Join Us | San Antonio Current
- - [https://sanantoniocurrent.fundjournalism.org](https://sanantoniocurrent.fundjournalism.org)
+ - [http://sanantoniocurrent.fundjournalism.org](http://sanantoniocurrent.fundjournalism.org)
  - date_published: 2024-06-27T16:52:07.169024+00:00
 
  ## Join | The Sprawl
- - [https://sprawlcalgary.fundjournalism.org](https://sprawlcalgary.fundjournalism.org)
+ - [http://sprawlcalgary.fundjournalism.org](http://sprawlcalgary.fundjournalism.org)
  - date_published: 2024-07-13T03:48:46.155545+00:00
 
  ## Join Us | Creative Loafing Tampa Bay
- - [https://tampabaycreativeloafing.fundjournalism.org](https://tampabaycreativeloafing.fundjournalism.org)
+ - [http://tampabaycreativeloafing.fundjournalism.org](http://tampabaycreativeloafing.fundjournalism.org)
  - date_published: 2024-06-27T16:49:19.389394+00:00
 
  ## Donate | Voice of San Diego
@@ -1983,7 +2100,7 @@ encryption
  - date_published: 2024-10-31T23:56:48.373705+00:00
 
  ## Funeral Service Foundation - Strengthening Funeral Service
- - [https://www.funeralservicefoundation.org](https://www.funeralservicefoundation.org)
+ - [https://funeralservicefoundation.org](https://funeralservicefoundation.org)
  - date_published: 2021-03-04T19:47:26+00:00
 
  ## Linus’s Blog - Linus’s Blog
@@ -2005,6 +2122,7 @@ encryption
  ## Public Repositories - Bitbucket
  - [https://code.funtoo.org](https://code.funtoo.org)
  - date_published: 2024-05-01T05:29:55.099115+00:00
+ - date_dead_since: 2025-01-06T18:26:08.685223+00:00
 
  ## funtoo forums
  - [https://forums.funtoo.org](https://forums.funtoo.org)
@@ -2017,6 +2135,7 @@ encryption
  ## Funtoo Infrastructure Status
  - [https://status.funtoo.org](https://status.funtoo.org)
  - date_published: 2024-08-18T19:14:45.789575+00:00
+ - date_dead_since: 2025-01-06T18:27:17.639732+00:00
 
  ## furbo.org by Craig Hockenberry
  - [https://furbo.org](https://furbo.org)
@@ -2024,7 +2143,7 @@ encryption
  - tags: ['personal']
 
  ## FF Gambling
- - [https://www.furfright.org](https://www.furfright.org)
+ - [https://furfright.org](https://furfright.org)
  - date_published: 2024-09-02T12:25:23.188240+00:00
 
  ## Furnace Creek Software
@@ -2032,7 +2151,7 @@ encryption
  - date_published: 2024-06-23T15:15:34.218760+00:00
 
  ## Furniture History Society
- - [https://www.furniturehistorysociety.org](https://www.furniturehistorysociety.org)
+ - [https://furniturehistorysociety.org](https://furniturehistorysociety.org)
  - date_published: 2024-06-26T21:38:07.163628+00:00
 
  ## Home | furriesunleashed
@@ -2042,9 +2161,10 @@ encryption
  ## The Furry Fediverse
  - [https://furryfediverse.org](https://furryfediverse.org)
  - date_published: 2024-07-18T17:27:55.160840+00:00
+ - date_dead_since: 2025-01-06T18:29:44.182705+00:00
 
  ## FurryStudies.org – Fuzzy Logic for the Curious
- - [https://www.furrystudies.org](https://www.furrystudies.org)
+ - [https://furrystudies.org](https://furrystudies.org)
  - date_published: 2024-06-30T06:01:20.987800+00:00
 
  ## Furtheon - Fur the decentralized future
@@ -2052,7 +2172,7 @@ encryption
  - date_published: 2024-02-29T00:00:00+00:00
 
  ## Homepage - Furtherfield
- - [http://www.furtherfield.org](http://www.furtherfield.org)
+ - [https://furtherfield.org](https://furtherfield.org)
  - date_published: 2024-09-12T00:00:00+00:00
 
  ## https://www.furyio.org
@@ -2070,9 +2190,10 @@ encryption
  ## fusionforge / FusionForge · GitLab
  - [http://fusionforge.org](http://fusionforge.org)
  - date_published: 2024-10-16T00:00:00+00:00
+ - date_dead_since: 2025-01-06T18:32:16.604482+00:00
 
  ## Home - Fusion Industry Association
- - [https://www.fusionindustryassociation.org](https://www.fusionindustryassociation.org)
+ - [https://fusionindustryassociation.org](https://fusionindustryassociation.org)
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## Hello from Fusio | Fusio
@@ -2084,7 +2205,7 @@ encryption
  - date_published: 1970-01-01T00:00:00+00:00
 
  ## Fussy.org
- - [http://www.fussy.org](http://www.fussy.org)
+ - [https://fussy.org](https://fussy.org)
  - date_published: 2024-07-13T09:57:42.344082+00:00
 
  ## Why Futhark?
@@ -2092,7 +2213,7 @@ encryption
  - date_published: 2023-10-25T21:23:28.010255+00:00
 
  ## Futhark Playground
- - [http://playground.futhark-lang.org](http://playground.futhark-lang.org)
+ - [https://playground.futhark-lang.org](https://playground.futhark-lang.org)
  - date_published: 2024-08-18T19:14:11.219133+00:00
 
  ## FUTO Chat
@@ -2121,15 +2242,16 @@ encryption
  - date_published: 2024-09-10T08:05:21.364373+00:00
 
  ## Future Architecture Platform
- - [http://futurearchitectureplatform.org](http://futurearchitectureplatform.org)
+ - [https://futurearchitectureplatform.org](https://futurearchitectureplatform.org)
  - date_published: 2024-07-13T14:47:31.611525+00:00
 
  ## Future Congress
  - [https://www.futurecongress.org](https://www.futurecongress.org)
  - date_published: 2024-07-16T20:40:20.701378+00:00
+ - date_dead_since: 2025-01-06T18:32:55.772793+00:00
 
  ## Future Craft
- - [http://futurecraft.org](http://futurecraft.org)
+ - [https://futurecraft.org](https://futurecraft.org)
  - date_published: 2024-06-20T04:03:58.731220+00:00
 
  ## Home | Future Earth
@@ -2137,7 +2259,7 @@ encryption
  - date_published: 2024-07-03T12:49:24.117043+00:00
 
  ## Future Forces 2024 – International Exhibition
- - [https://www.future-forces.org](https://www.future-forces.org)
+ - [https://future-forces.org](https://future-forces.org)
  - date_published: 2024-07-02T22:01:10.582452+00:00
 
  ## Future Forces Forum
@@ -2149,7 +2271,7 @@ encryption
  - date_published: 2024-07-01T08:04:41.634716+00:00
 
  ## FutureHouse
- - [http://www.futurehouse.org](http://www.futurehouse.org)
+ - [https://futurehouse.org](https://futurehouse.org)
  - date_published: 2024-10-27T11:28:09+00:00
 
  ## FutureMe: Write a Letter to your Future Self
@@ -2162,11 +2284,11 @@ encryption
  - date_published: 2024-05-26T09:45:56.941644+00:00
 
  ## FutureMe
- - [https://support.futureme.org](https://support.futureme.org)
+ - [http://support.futureme.org](http://support.futureme.org)
  - date_published: 2024-09-02T13:24:57.143889+00:00
 
  ## Future Non Stop
- - [http://future-nonstop.org](http://future-nonstop.org)
+ - [https://future-nonstop.org](https://future-nonstop.org)
  - date_published: 2024-07-12T20:29:26.883380+00:00
 
  ## Welcome
@@ -2186,7 +2308,7 @@ encryption
  - date_published: 2024-05-11T10:25:35.705828+00:00
 
  ## สล็อตเว็บตรง เว็บใหญ่มาตรฐาน มาแรง 2024 ปั่นสล็อตแตกทุกเกม​
- - [http://www.futureofflight.org](http://www.futureofflight.org)
+ - [https://futureofflight.org](https://futureofflight.org)
  - date_published: 2024-07-09T18:19:48+00:00
 
  ## Future of Health Grant – The first digital health startup grant for early stage or advanced startups
@@ -2208,21 +2330,22 @@ encryption
  ## Pause Giant Superconductor Experiments
  - [https://futureofliff.org](https://futureofliff.org)
  - date_published: 2023-10-25T21:23:37.964754+00:00
+ - date_dead_since: 2025-01-06T18:37:14.012980+00:00
 
  ## Future of Roswell Society
- - [http://futureofroswell.org](http://futureofroswell.org)
+ - [https://futureofroswell.org](https://futureofroswell.org)
  - date_published: 2024-09-16T11:12:28.019691+00:00
 
  ## Institute for the Future of the Book
- - [http://www.futureofthebook.org](http://www.futureofthebook.org)
+ - [https://futureofthebook.org](https://futureofthebook.org)
  - date_published: 2014-01-03T17:46:02+00:00
 
  ## Home | Future of Tourism
- - [https://www.futureoftourism.org](https://www.futureoftourism.org)
+ - [https://futureoftourism.org](https://futureoftourism.org)
  - date_published: 2024-07-08T13:28:46.279615+00:00
 
  ## futurepicture.org
- - [http://www.futurepicture.org](http://www.futurepicture.org)
+ - [https://futurepicture.org](https://futurepicture.org)
  - date_published: 2024-06-30T05:41:52.277092+00:00
 
  ## 未来科学大奖
@@ -2230,23 +2353,24 @@ encryption
  - date_published: 2024-12-21T16:59:12.013764+00:00
 
  ## Future Programming Workshop
- - [http://www.future-programming.org](http://www.future-programming.org)
+ - [http://future-programming.org](http://future-programming.org)
  - date_published: 2016-02-03T00:52:19+00:00
 
  ## NFA
- - [http://www.nfa.futures.org](http://www.nfa.futures.org)
+ - [https://www.nfa.futures.org](https://www.nfa.futures.org)
  - date_published: 2024-06-12T19:26:20+00:00
 
  ## Futures Fundamentals
  - [https://www.futuresfundamentals.org](https://www.futuresfundamentals.org)
  - date_published: 2024-09-09T13:58:14.581797+00:00
+ - date_dead_since: 2025-01-06T18:45:07.613541+00:00
 
  ## Future Forces Admin | Přihlášení
  - [https://admin.future-soldier.org](https://admin.future-soldier.org)
  - date_published: 2024-07-02T22:01:17.215564+00:00
 
  ## Buy Somatropin Online USA - HGH Online Store
- - [http://www.futureurbanregions.org](http://www.futureurbanregions.org)
+ - [https://futureurbanregions.org](https://futureurbanregions.org)
  - date_published: 2023-07-20T16:51:25+00:00
 
  ## Futurewise - Planning for Washington’s Future
@@ -2262,7 +2386,7 @@ encryption
  - date_published: 2024-08-18T06:00:00+00:00
 
  ## Homepage - The Futuro Media Group
- - [https://www.futuromediagroup.org](https://www.futuromediagroup.org)
+ - [https://futuromediagroup.org](https://futuromediagroup.org)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## Homepage - Futuro Studios
@@ -2278,7 +2402,7 @@ encryption
  - date_published: 2024-06-26T15:34:49+00:00
 
  ## The Fuzzing Book
- - [https://www.fuzzingbook.org](https://www.fuzzingbook.org)
+ - [https://fuzzingbook.org](https://fuzzingbook.org)
  - date_published: 2024-05-16T13:55:53+00:00
 
  ## The Fuzzing Project
@@ -2286,15 +2410,15 @@ encryption
  - date_published: 2024-09-18T14:09:33.291144+00:00
 
  ## FAVR - The Florida Alliance for Vacation Rentals
- - [http://fvrma.org](http://fvrma.org)
+ - [https://fvrma.org](https://fvrma.org)
  - date_published: 2024-07-14T12:34:40.149583+00:00
 
  ## Flathead Valley Ski
- - [https://www.fvsef.org](https://www.fvsef.org)
+ - [https://fvsef.org](https://fvsef.org)
  - date_published: 2024-09-18T02:06:13.959693+00:00
 
  ## F? Virtual Window Manager
- - [http://www.fvwm.org](http://www.fvwm.org)
+ - [https://fvwm.org](https://fvwm.org)
  - date_published: 2024-05-12T18:26:31+00:00
 
  ## Home Page - Fort Worth Botanic Garden
@@ -2302,7 +2426,7 @@ encryption
  - date_published: 2024-09-12T00:00:00+00:00
 
  ## FWD-DOC: Documentary Filmmakers With Disabilities
- - [https://www.fwd-doc.org](https://www.fwd-doc.org)
+ - [https://fwd-doc.org](https://fwd-doc.org)
  - date_published: 2024-09-15T09:40:53.431248+00:00
 
  ## FWD.us Education Fund - Home
@@ -2318,11 +2442,11 @@ encryption
  - date_published: 2024-10-19T10:07:47.074718+00:00
 
  ## Home
- - [https://www.fwpride.org](https://www.fwpride.org)
+ - [https://fwpride.org](https://fwpride.org)
  - date_published: 2024-07-13T18:58:47+00:00
 
  ## Freshwater Railway - Welcome Aboard
- - [http://www.fwrail.org](http://www.fwrail.org)
+ - [https://fwrail.org](https://fwrail.org)
  - date_published: 2013-04-01T21:16:36+00:00
 
  ## firewall
@@ -2338,7 +2462,7 @@ encryption
  - date_published: 2023-10-25T21:23:45.839751+00:00
 
  ## Homepage | YMCA Camp Potawotami
- - [http://www.fwycamp.org](http://www.fwycamp.org)
+ - [https://fwycamp.org](https://fwycamp.org)
  - date_published: 2024-07-21T02:45:53+00:00
 
  ## YMCA of Greater Fort Wayne | The Y. For a better us.™
@@ -2350,11 +2474,11 @@ encryption
  - date_published: 2024-04-18T00:00:00+00:00
 
  ## Home - FYCCN Website & Store
- - [http://fyccn.org](http://fyccn.org)
+ - [https://fyccn.org](https://fyccn.org)
  - date_published: 2024-07-15T07:04:18.848964+00:00
 
  ## Home - FyPower
- - [http://www.fypower.org](http://www.fypower.org)
+ - [https://fypower.org](https://fypower.org)
  - date_published: 2022-10-17T07:03:13+00:00
 
  ## GlobalHomes Network: Discover Your Dream Home Worldwide
@@ -2382,7 +2506,7 @@ encryption
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## G3 Genes|Genomes|Genetics | Oxford Academic
- - [https://www.g3journal.org](https://www.g3journal.org)
+ - [http://g3journal.org](http://g3journal.org)
  - date_published: 2024-07-09T07:14:29.131157+00:00
 
  ## Mastodon G3L
@@ -2390,7 +2514,7 @@ encryption
  - date_published: 2024-07-08T10:50:43.376571+00:00
 
  ## Home
- - [https://www.ga4gh.org](https://www.ga4gh.org)
+ - [https://ga4gh.org](https://ga4gh.org)
  - date_published: 2024-09-03T22:08:58+00:00
 
  ## Georgia Council for the Arts
@@ -2442,7 +2566,7 @@ encryption
  - date_published: 2024-07-09T08:04:46.452509+00:00
 
  ## GABV - Global Alliance for Banking on Values
- - [https://www.gabv.org](https://www.gabv.org)
+ - [https://gabv.org](https://gabv.org)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## The site of the retirees of CERN and ESO – GAC – EPA
@@ -2458,19 +2582,19 @@ encryption
  - date_published: 2024-07-09T16:45:28.475192+00:00
 
  ## GAfutures.org | Georgia Student Finance Commission
- - [https://www.gafutures.org](https://www.gafutures.org)
+ - [https://gafutures.org](https://gafutures.org)
  - date_published: 2024-07-22T02:14:14.099417+00:00
 
  ## GA-HERO
- - [http://ga-hero.org](http://ga-hero.org)
+ - [https://ga-hero.org](https://ga-hero.org)
  - date_published: 2024-08-06T17:39:36.596500+00:00
 
  ## Sustainable Education Courses | Gaia Education - Transforming Communities
- - [https://www.gaiaeducation.org](https://www.gaiaeducation.org)
+ - [https://gaiaeducation.org](https://gaiaeducation.org)
  - date_published: 2024-09-12T17:39:35.954957+00:00
 
  ## GAIN | GAIN – German Academic International Network
- - [https://www.gain-network.org](https://www.gain-network.org)
+ - [https://gain-network.org](https://gain-network.org)
  - date_published: 2024-08-18T20:42:56.126460+00:00
 
  ## GAIN - Group for Autism, Insurance, Investment and Neurodiversity
@@ -2503,11 +2627,11 @@ encryption
  - date_published: 2024-05-08T06:36:59.576405+00:00
 
  ## GALA Global
- - [https://www.gala-global.org](https://www.gala-global.org)
+ - [https://gala-global.org](https://gala-global.org)
  - date_published: 2024-06-27T14:52:39.908197+00:00
 
  ## Galapagos Science Center – GSC
- - [https://www.galapagosscience.org](https://www.galapagosscience.org)
+ - [https://galapagosscience.org](https://galapagosscience.org)
  - date_published: 2024-07-01T02:54:11.895952+00:00
 
  ## Federation of Galaxy Explorers | Space and Rocketry education | United States
@@ -2515,7 +2639,7 @@ encryption
  - date_published: 2024-12-21T13:44:13.960985+00:00
 
  ## Galaxy Forum – 21st Century Education
- - [http://galaxyforum.org](http://galaxyforum.org)
+ - [https://galaxyforum.org](https://galaxyforum.org)
  - date_published: 2024-08-18T20:25:51.874099+00:00
 
  ## Galaxypedia
@@ -2535,7 +2659,7 @@ encryption
  - date_published: 2024-12-16T13:09:54+00:00
 
  ## Galena City School District
- - [https://www.galenaalaska.org](https://www.galenaalaska.org)
+ - [https://galenaalaska.org](https://galenaalaska.org)
  - date_published: 2024-09-16T07:09:46.898104+00:00
 
  ## Galène videoconference server
@@ -2555,7 +2679,7 @@ encryption
  - date_published: 2024-12-14T17:14:52.363312+00:00
 
  ## GAMA: THE GAME MANUFACTURERS ASSOCIATION
- - [http://gama.org](http://gama.org)
+ - [https://gama.org](https://gama.org)
  - date_published: 2024-06-18T06:58:12.867369+00:00
 
  ## Home
@@ -2563,7 +2687,7 @@ encryption
  - date_published: 2024-08-19T19:32:41+00:00
 
  ## Gamberi Fantasy  » Gamberi statici
- - [http://fantasy.gamberi.org](http://fantasy.gamberi.org)
+ - [https://fantasy.gamberi.org](https://fantasy.gamberi.org)
  - date_published: 2024-07-20T07:08:22.644947+00:00
 
  ## GambleAware®: Gambling Help & Gambling Addiction
@@ -2583,11 +2707,11 @@ encryption
  - date_published: 2024-10-13T07:59:28+00:00
 
  ## Gambling Awareness Connecticut
- - [http://www.gamblingawarenessct.org](http://www.gamblingawarenessct.org)
+ - [https://gamblingawarenessct.org](https://gamblingawarenessct.org)
  - date_published: 2024-08-19T19:32:37.286086+00:00
 
  ## Welcome to The Alderney Gambling Control Commission
- - [https://www.gamblingcontrol.org](https://www.gamblingcontrol.org)
+ - [https://gamblingcontrol.org](https://gamblingcontrol.org)
  - date_published: 2024-06-18T06:58:05.375085+00:00
 
  ## MA Gambling Helpline
@@ -2595,15 +2719,15 @@ encryption
  - date_published: 2024-04-29T02:15:20.805534+00:00
 
  ## Asia Pacific Association for Gambling Studies
- - [https://www.gamblingstudies.org](https://www.gamblingstudies.org)
+ - [https://gamblingstudies.org](https://gamblingstudies.org)
  - date_published: 2024-10-21T15:04:39.720366+00:00
 
  ## Gambling Therapy - Practical advice and support for problem gambling
- - [http://gamblingtherapy.org](http://gamblingtherapy.org)
+ - [https://gamblingtherapy.org](https://gamblingtherapy.org)
  - date_published: 2024-06-20T16:25:07.351988+00:00
 
  ## Artificial Intelligence and Games – A Springer Textbook | By Georgios N. Yannakakis and Julian Togelius
- - [http://gameaibook.org](http://gameaibook.org)
+ - [https://gameaibook.org](https://gameaibook.org)
  - date_published: 2024-06-22T08:06:58.601530+00:00
 
  ## Join the Star Citizen Polska / Game Armada Discord Server!
@@ -2656,24 +2780,24 @@ encryption
  ## GameHacking.org Forums - 
 		
 		Forums
- - [https://forum.gamehacking.org](https://forum.gamehacking.org)
+ - [http://forum.gamehacking.org](http://forum.gamehacking.org)
  - date_published: 2024-05-11T08:32:40.608717+00:00
 
  ## GameHacking.org | Home
- - [https://gamehacking.org](https://gamehacking.org)
+ - [http://gamehacking.org](http://gamehacking.org)
  - date_published: 1999-03-19T00:00:00+00:00
  - tags: ['game hacking']
 
  ## I Am Error
- - [https://iamerror.gamehacking.org](https://iamerror.gamehacking.org)
+ - [http://iamerror.gamehacking.org](http://iamerror.gamehacking.org)
  - date_published: 2024-05-11T08:32:57.607948+00:00
 
  ## WiiRd forum - Index
- - [https://wiird.gamehacking.org](https://wiird.gamehacking.org)
+ - [http://wiird.gamehacking.org](http://wiird.gamehacking.org)
  - date_published: 2024-05-11T00:00:00+00:00
 
  ## Wiki - GameHacking.org
- - [https://wiki.gamehacking.org](https://wiki.gamehacking.org)
+ - [http://wiki.gamehacking.org](http://wiki.gamehacking.org)
  - date_published: 2024-04-14T17:58:24+00:00
 
  ## Gameheads : Home
@@ -2694,7 +2818,7 @@ encryption
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Georgia Manufacturing Extension Partnership (GaMEP) at Georgia Tech
- - [http://gamep.org](http://gamep.org)
+ - [https://gamep.org](https://gamep.org)
  - date_published: 2017-06-26T15:31:55+00:00
 
  ## GameReplays.org - Replays, Strategies, News, Tips and Tricks for Multiplayer Games
@@ -2732,11 +2856,11 @@ encryption
  - date_published: 2024-08-07T14:54:52.848777+00:00
 
  ## Journal of Games Criticism
- - [http://www.gamescriticism.org](http://www.gamescriticism.org)
+ - [https://gamescriticism.org](https://gamescriticism.org)
  - date_published: 2024-06-23T20:16:50.583633+00:00
 
  ## Games Database - Online Games System Repository
- - [https://www.gamesdatabase.org](https://www.gamesdatabase.org)
+ - [https://gamesdatabase.org](https://gamesdatabase.org)
  - date_published: 2024-06-20T01:18:38+00:00
 
  ## GameSec 2024 - Conference on Game Theory and AI for Security
@@ -2764,7 +2888,7 @@ encryption
  - date_published: 2024-08-07T21:30:39.566603+00:00
 
  ## GamesTV.org :: Overview
- - [http://www.gamestv.org](http://www.gamestv.org)
+ - [https://gamestv.org](https://gamestv.org)
  - date_published: 2024-06-21T13:55:43.384235+00:00
 
  ## GamesWithWords
@@ -2772,7 +2896,7 @@ encryption
  - date_published: 2024-07-02T09:42:42.359610+00:00
 
  ## Games With Words
- - [http://gameswithwords.org](http://gameswithwords.org)
+ - [https://gameswithwords.org](https://gameswithwords.org)
  - date_published: 2024-02-19T21:47:31+00:00
 
  ## Game Theory Society
@@ -2780,7 +2904,7 @@ encryption
  - date_published: 2024-12-31T08:35:15.152879+00:00
 
  ## Online Therapeutic Video Game Guide
- - [http://gametherapy.org](http://gametherapy.org)
+ - [https://gametherapy.org](https://gametherapy.org)
  - date_published: 2024-07-14T11:33:12.535275+00:00
 
  ## Welcome to Game to Grow - Game to Grow
@@ -2805,7 +2929,7 @@ encryption
  - date_published: 2024-06-04T20:15:47.819220+00:00
 
  ## Gaming Masters
- - [https://www.gamingmasters.org](https://www.gamingmasters.org)
+ - [https://gamingmasters.org](https://gamingmasters.org)
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Gaming Wiki Network
@@ -2823,6 +2947,7 @@ encryption
  ## GamLight
  - [http://www.gamlight.org](http://www.gamlight.org)
  - date_published: 2024-08-18T12:51:12.737242+00:00
+ - date_dead_since: 2025-01-06T19:02:54.566902+00:00
 
  ## Gancio Demo Instance
  - [https://demo.gancio.org](https://demo.gancio.org)
@@ -2833,7 +2958,7 @@ encryption
  - date_published: 2024-04-21T00:00:00+00:00
 
  ## Gandhi Heritage Portal: Repository of Authentic Information on the life and thoughts of Mahatma Gandhi
- - [https://www.gandhiheritageportal.org](https://www.gandhiheritageportal.org)
+ - [https://gandhiheritageportal.org](https://gandhiheritageportal.org)
  - date_published: 2024-08-08T11:46:55+00:00
 
  ## Asuransi PeliharaanKu: Perlindungan Terbaik untuk Sahabat Berbulu
@@ -2841,7 +2966,7 @@ encryption
  - date_published: 2024-12-13T03:34:20.624654+00:00
 
  ## Home
- - [https://www.gangaji.org](https://www.gangaji.org)
+ - [https://gangaji.org](https://gangaji.org)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Gangsters Inc. | www.gangstersinc.org
@@ -2853,11 +2978,11 @@ encryption
  - date_published: 2024-10-29T19:38:31.215854+00:00
 
  ## Gantry 5 | Gantry Documentation
- - [http://docs.gantry.org](http://docs.gantry.org)
+ - [https://docs.gantry.org](https://docs.gantry.org)
  - date_published: 2024-07-08T14:10:04.054972+00:00
 
  ## Gantry - Next Generation Theme Framework | Gantry
- - [http://www.gantry.org](http://www.gantry.org)
+ - [https://gantry.org](https://gantry.org)
  - date_published: 2024-07-19T23:11:25.383565+00:00
 
  ## The Gantt Golden Year
@@ -2865,11 +2990,11 @@ encryption
  - date_published: 2024-06-21T22:55:08.336114+00:00
 
  ## Home
- - [https://www.ganttcenter.org](https://www.ganttcenter.org)
+ - [https://ganttcenter.org](https://ganttcenter.org)
  - date_published: 2024-05-04T14:19:43.899695+00:00
 
  ## Startseite - Ganztagsschulen:
- - [https://www.ganztagsschulen.org](https://www.ganztagsschulen.org)
+ - [https://ganztagsschulen.org](https://ganztagsschulen.org)
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## Gaphor documentation
@@ -2901,7 +3026,7 @@ encryption
  - date_published: 2020-04-21T14:09:01+00:00
 
  ## Garagestudio | Sito web di Garagestudio
- - [http://www.garagestudio.org](http://www.garagestudio.org)
+ - [https://garagestudio.org](https://garagestudio.org)
  - date_published: 2024-07-13T09:29:54.171595+00:00
 
  ## Garamonpatrimoine (Graphê) : Sauver le patrimoine de l'Imprimerie
@@ -2913,13 +3038,13 @@ encryption
  - [https://gardearts.org](https://gardearts.org)
  - date_published: 2024-06-30T01:16:53.608032+00:00
 
+ ## IrisBG Web Explorer
+ - [https://gardenexplorer.org](https://gardenexplorer.org)
+ - date_published: 2024-07-02T23:42:37+00:00
+
  ## Garden Explorer | Santa Fe Botanical Garden
  - [https://santafebotanicalgarden.gardenexplorer.org](https://santafebotanicalgarden.gardenexplorer.org)
  - date_published: 2024-05-18T02:48:29.842346+00:00
-
- ## IrisBG Web Explorer
- - [https://www.gardenexplorer.org](https://www.gardenexplorer.org)
- - date_published: 2024-07-02T23:42:37+00:00
 
  ## The Fling | Formerly: The Garden Bloggers Fling
  - [https://www.gardenfling.org](https://www.gardenfling.org)
@@ -2934,7 +3059,7 @@ encryption
  - date_published: 2024-07-19T23:40:05.181287+00:00
 
  ## GRA
- - [https://www.garestaurants.org](https://www.garestaurants.org)
+ - [https://garestaurants.org](https://garestaurants.org)
  - date_published: 2024-09-03T00:00:00+00:00
 
  ## Home - Garfield Weston Foundation
@@ -2942,7 +3067,7 @@ encryption
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## Georgia Society of Rheumatology
- - [http://www.garheumatology.org](http://www.garheumatology.org)
+ - [https://garheumatology.org](https://garheumatology.org)
  - date_published: 2024-06-28T12:10:35.182643+00:00
 
  ## Garminlogin – RekRekomendasi Game Online Terbaru
@@ -2950,7 +3075,7 @@ encryption
  - date_published: 2024-08-20T03:56:48.619677+00:00
 
  ## Global Alliance for the Rights of Nature (GARN)
- - [https://www.garn.org](https://www.garn.org)
+ - [https://garn.org](https://garn.org)
  - date_published: 2020-10-12T19:05:53+00:00
 
  ## This page has moved!
@@ -2967,7 +3092,7 @@ encryption
  - tags: ['operating system', 'linux']
 
  ## Cierpliwości...
- - [https://r2.garudalinux.org](https://r2.garudalinux.org)
+ - [http://r2.garudalinux.org](http://r2.garudalinux.org)
  - date_published: 2024-04-30T08:00:42.281663+00:00
 
  ## Garuda's Mastodon
@@ -2983,7 +3108,7 @@ encryption
  - date_published: 2020-09-17T00:00:00+00:00
 
  ## Garvan Woodland Gardens – 550 Arkridge Rd | Hot Springs, AR 71913
- - [https://www.garvangardens.org](https://www.garvangardens.org)
+ - [https://garvangardens.org](https://garvangardens.org)
  - date_published: 2024-07-08T14:18:42+00:00
 
  ## GARY KING
@@ -2991,7 +3116,7 @@ encryption
  - date_published: 2024-07-14T14:18:36+00:00
 
  ## Protecting Consumers Worldwide from Scams | Global Anti-Scam Alliance (GASA)
- - [https://www.gasa.org](https://www.gasa.org)
+ - [https://gasa.org](https://gasa.org)
  - date_published: 2024-06-29T18:08:14.084062+00:00
 
  ## wolfgang gassler
@@ -3003,11 +3128,11 @@ encryption
  - date_published: 2024-07-09T17:37:36+00:00
 
  ## Gate of Trust
- - [http://gateoftrust.org](http://gateoftrust.org)
+ - [https://gateoftrust.org](https://gateoftrust.org)
  - date_published: 2024-02-21T00:00:00+00:00
 
  ## Dashboard - GateChain Explorer
- - [https://www.gatescan.org](https://www.gatescan.org)
+ - [https://gatescan.org](https://gatescan.org)
  - date_published: 2024-09-23T00:00:00+00:00
 
  ## Bill & Melinda Gates Foundation
@@ -3016,7 +3141,7 @@ encryption
  - tags: ['foundation']
 
  ## Gates Philanthropy Partners
- - [https://www.gatesphilanthropypartners.org](https://www.gatesphilanthropypartners.org)
+ - [https://gatesphilanthropypartners.org](https://gatesphilanthropypartners.org)
  - date_published: 2024-07-19T22:30:17.445130+00:00
 
  ## Gatestone Institute - Français
@@ -3024,7 +3149,7 @@ encryption
  - date_published: 2024-12-23T19:59:15.609719+00:00
 
  ## Gatestone Institute
- - [https://www.gatestoneinstitute.org](https://www.gatestoneinstitute.org)
+ - [https://gatestoneinstitute.org](https://gatestoneinstitute.org)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## GateWay MUD
@@ -3032,7 +3157,7 @@ encryption
  - date_published: 2019-01-29T00:00:00+00:00
 
  ## Home - Gateway Program
- - [https://www.gatewayprogram.org](https://www.gatewayprogram.org)
+ - [https://gatewayprogram.org](https://gatewayprogram.org)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Gateways Organization - Gateways
@@ -3061,15 +3186,15 @@ encryption
  - date_published: 2024-07-15T00:00:00+00:00
 
  ## Gathering 4 Gardner
+ - [https://gathering4gardner.org](https://gathering4gardner.org)
+ - date_published: 2024-07-01T14:45:41.788558+00:00
+
+ ## Gathering 4 Gardner
  - [http://gathering4gardner.org](http://gathering4gardner.org)
  - date_published: 2024-12-30T04:27:41+00:00
 
- ## Gathering 4 Gardner
- - [https://www.gathering4gardner.org](https://www.gathering4gardner.org)
- - date_published: 2024-07-01T14:45:41.788558+00:00
-
  ## The Gathering For Justice
- - [https://www.gatheringforjustice.org](https://www.gatheringforjustice.org)
+ - [https://gatheringforjustice.org](https://gatheringforjustice.org)
  - date_published: 2024-06-28T15:25:57.964058+00:00
 
  ## https://gatlinburgumc.org คาสิโนออนไลน์ ค่าตอบแทนสูง เกมมากมาย อันดับ 1 ในใจ
@@ -3077,7 +3202,7 @@ encryption
  - date_published: 2024-10-22T14:51:09.930973+00:00
 
  ## Georgia Transfer
- - [https://www.gatransfer.org](https://www.gatransfer.org)
+ - [https://gatransfer.org](https://gatransfer.org)
  - date_published: 2024-07-22T02:13:57+00:00
 
  ## The Best React-Based Framework | Gatsby
@@ -3094,7 +3219,7 @@ encryption
  - date_published: 2019-06-11T00:00:00+00:00
 
  ## Home | GRSF
- - [http://www.gatumbasurvivors.org](http://www.gatumbasurvivors.org)
+ - [https://gatumbasurvivors.org](https://gatumbasurvivors.org)
  - date_published: 2022-11-15T20:04:45+00:00
 
  ## Open Source Test Automation Framework | Gauge
@@ -3134,7 +3259,7 @@ encryption
  - date_published: 2024-12-19T14:10:00+00:00
 
  ## Gameboy Advance Development
- - [http://gbadev.org](http://gbadev.org)
+ - [https://gbadev.org](https://gbadev.org)
  - date_published: 2024-06-23T20:20:50.825855+00:00
 
  ## ROM-NEWS/GBA | RELEASELiST
@@ -3157,6 +3282,10 @@ encryption
  - [https://edge.gbci.org](https://edge.gbci.org)
  - date_published: 2024-06-20T13:09:40.368570+00:00
 
+ ## Green Business Certification Inc.
+ - [https://gbci.org](https://gbci.org)
+ - date_published: 2024-05-04T08:47:51.463797+00:00
+
  ## Home | GBCI | Guiding Principles
  - [https://guidingprinciples.gbci.org](https://guidingprinciples.gbci.org)
  - date_published: 2024-06-20T13:09:33.489703+00:00
@@ -3166,7 +3295,7 @@ encryption
  - date_published: 2024-06-20T13:04:28.506296+00:00
 
  ## Home | PEER
- - [http://peer.gbci.org](http://peer.gbci.org)
+ - [https://peer.gbci.org](https://peer.gbci.org)
  - date_published: 2024-06-20T13:04:31.797318+00:00
 
  ## Sustainability Excellence
@@ -3177,16 +3306,12 @@ encryption
  - [https://true.gbci.org](https://true.gbci.org)
  - date_published: 2024-06-20T13:00:45.214518+00:00
 
- ## Green Business Certification Inc.
- - [https://www.gbci.org](https://www.gbci.org)
- - date_published: 2024-05-04T08:47:51.463797+00:00
-
  ## GBH.org
  - [https://gbh.org](https://gbh.org)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Homepage | Global Brain Health Institute
- - [https://www.gbhi.org](https://www.gbhi.org)
+ - [https://gbhi.org](https://gbhi.org)
  - date_published: 2024-07-01T13:59:14+00:00
 
  ## GBIF API
@@ -3226,7 +3351,7 @@ encryption
  - date_published: 2023-12-19T12:18:18+00:00
 
  ## Home | Greater Boston Legal Services
- - [https://www.gbls.org](https://www.gbls.org)
+ - [https://gbls.org](https://gbls.org)
  - date_published: 2024-10-03T20:38:06+00:00
 
  ## Home
@@ -3247,11 +3372,11 @@ encryption
  - date_published: 2024-07-07T01:25:29.081578+00:00
 
  ## G-CAN
- - [http://www.g-can.org](http://www.g-can.org)
+ - [https://g-can.org](https://g-can.org)
  - date_published: 2024-06-28T11:55:32.947240+00:00
 
  ## Home - The Governing Council of the Cat Fancy
- - [https://www.gccfcats.org](https://www.gccfcats.org)
+ - [https://gccfcats.org](https://gccfcats.org)
  - date_published: 2024-10-21T11:46:00.900824+00:00
 
  ## Home - ACGC | Accreditation Council for Genetic Counseling
@@ -3259,7 +3384,7 @@ encryption
  - date_published: 2024-12-12T04:34:53.590214+00:00
 
  ## Welcome to GCentral
- - [http://gcentral.org](http://gcentral.org)
+ - [https://gcentral.org](https://gcentral.org)
  - date_published: 2024-05-02T01:09:50+00:00
 
  ## Home | Greater Cincinnati Foundation
@@ -3292,7 +3417,7 @@ encryption
  - tags: ['library', 'geoinformatics', 'open street map']
 
  ## GDELT Analysis Service: The Global Database of Events, Language, and Tone
- - [http://analysis.gdeltproject.org](http://analysis.gdeltproject.org)
+ - [https://analysis.gdeltproject.org](https://analysis.gdeltproject.org)
  - date_published: 2020-09-12T23:03:33+00:00
 
  ## The GDELT Project
@@ -3312,19 +3437,19 @@ encryption
  - date_published: 2024-08-11T01:59:54+00:00
 
  ## GDP
- - [https://www.gdp-planetarium.org](https://www.gdp-planetarium.org)
+ - [https://gdp-planetarium.org](https://gdp-planetarium.org)
  - date_published: 2022-11-07T12:58:23+00:00
 
  ## GDPR: General Data Protection Regulation
- - [https://www.gdpreu.org](https://www.gdpreu.org)
+ - [https://gdpreu.org](https://gdpreu.org)
  - date_published: 2020-07-10T09:25:50+00:00
 
  ## 广东省直机关党建网
- - [http://www.gdszjgdj.org](http://www.gdszjgdj.org)
+ - [https://gdszjgdj.org](https://gdszjgdj.org)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## GÉANT CONNECT Online
- - [http://connect.geant.org](http://connect.geant.org)
+ - [https://connect.geant.org](https://connect.geant.org)
  - date_published: 2019-05-17T13:54:43+00:00
 
  ## GÉANT
@@ -3354,7 +3479,7 @@ encryption
  - date_published: 2024-07-03T11:52:32.385286+00:00
 
  ## GameHacking.org | Home
- - [http://geckocodes.org](http://geckocodes.org)
+ - [https://geckocodes.org](https://geckocodes.org)
  - date_published: 2024-07-13T00:00:00+00:00
 
  ## GECODE - An open, free, efficient constraint solving toolkit
@@ -3362,12 +3487,13 @@ encryption
  - date_published: 2023-11-15T06:44:58+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.gecu-ep.org](https://www.gecu-ep.org)
+ - [http://gecu-ep.org](http://gecu-ep.org)
  - date_published: 2024-07-10T04:09:56.749547+00:00
 
  ## gEDA Project's Homepage
  - [http://www.geda-project.org](http://www.geda-project.org)
  - date_published: 2012-11-01T16:12:18+00:00
+ - date_dead_since: 2025-01-06T19:25:55.401946+00:00
 
  ## Geds-to-phds - Daftar Game Android Terbaik Google Play Best of 2024
  - [https://geds-to-phds.org](https://geds-to-phds.org)
@@ -3382,7 +3508,7 @@ encryption
  - date_published: 2024-07-02T17:58:05.235994+00:00
 
  ## Andreas Thorstensson | bds
- - [http://www.geekboys.org](http://www.geekboys.org)
+ - [http://geekboys.org](http://geekboys.org)
  - date_published: 2023-09-19T19:08:10+00:00
 
  ## b’s buzz
@@ -3394,7 +3520,7 @@ encryption
  - date_published: 2024-08-07T20:32:44.670204+00:00
 
  ## Geek Feminism Blog
- - [http://geekfeminism.org](http://geekfeminism.org)
+ - [https://geekfeminism.org](https://geekfeminism.org)
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## geekhack - Index
@@ -3406,7 +3532,7 @@ encryption
  - date_published: 2024-05-08T00:00:00+00:00
 
  ## GeekHackWiki
- - [http://wiki.geekhack.org](http://wiki.geekhack.org)
+ - [https://wiki.geekhack.org](https://wiki.geekhack.org)
  - date_published: 2022-12-30T18:44:47+00:00
 
  ## Forrest Cameranesi – Geek of All Trades
@@ -3426,7 +3552,7 @@ encryption
  - date_published: 2024-04-28T00:00:00+00:00
 
  ## Geek Studies
- - [http://www.geekstudies.org](http://www.geekstudies.org)
+ - [https://geekstudies.org](https://geekstudies.org)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## geeky NEWS - geeky NEWS: Navigating the New Age of Cutting-Edge Technology in AI, Robotics, Space, and the latest tech Gadgets
@@ -3439,7 +3565,7 @@ encryption
  - date_published: 2024-04-29T02:19:18.266185+00:00
 
  ## Geffen Playhouse
- - [https://www.geffenplayhouse.org](https://www.geffenplayhouse.org)
+ - [https://geffenplayhouse.org](https://geffenplayhouse.org)
  - date_published: 2024-07-06T20:37:04+00:00
 
  ## GEFIRA
@@ -3451,7 +3577,7 @@ encryption
  - date_published: 2024-07-08T11:02:57.976558+00:00
 
  ## GEGL
- - [https://www.gegl.org](https://www.gegl.org)
+ - [https://gegl.org](https://gegl.org)
  - date_published: 2024-02-11T21:14:20+00:00
 
  ## gem5: The gem5 simulator system
@@ -3464,7 +3590,7 @@ encryption
  - date_published: 2024-02-28T02:54:47+00:00
 
  ## Accueil | AIGx
- - [https://www.gembloux-alumni.org](https://www.gembloux-alumni.org)
+ - [https://gembloux-alumni.org](https://gembloux-alumni.org)
  - date_published: 2024-06-19T18:26:06.692770+00:00
 
  ## Gem Chain
@@ -3476,7 +3602,7 @@ encryption
  - date_published: 2024-09-23T23:16:44.111438+00:00
 
  ## RubyGems.org | your community gem host
- - [http://gemcutter.org](http://gemcutter.org)
+ - [https://gemcutter.org](https://gemcutter.org)
  - date_published: 2024-06-17T02:19:46.389325+00:00
 
  ## 3.2.Aktionstag - Hand in Hand
@@ -3484,7 +3610,7 @@ encryption
  - date_published: 2024-01-16T00:16:52+00:00
 
  ## Home Page - GEM Fellowship
- - [http://www.gemfellowship.org](http://www.gemfellowship.org)
+ - [https://gemfellowship.org](https://gemfellowship.org)
  - date_published: 2024-07-02T11:29:27.714852+00:00
 
  ## GEMM: Home Page
@@ -3531,6 +3657,10 @@ encryption
  - [https://fi.geneanet.org](https://fi.geneanet.org)
  - date_published: 2024-07-15T07:07:22.110757+00:00
 
+ ## Geneanet: Your family history
+ - [https://geneanet.org](https://geneanet.org)
+ - date_published: 2024-07-15T00:00:00+00:00
+
  ## Join Geneanet
  - [https://gw.geneanet.org](https://gw.geneanet.org)
  - date_published: 2024-05-12T05:41:34.579761+00:00
@@ -3559,20 +3689,16 @@ encryption
  - [https://tech.geneanet.org](https://tech.geneanet.org)
  - date_published: 2024-07-08T00:00:00+00:00
 
- ## Geneanet: Your family history
- - [https://www.geneanet.org](https://www.geneanet.org)
- - date_published: 2024-07-15T00:00:00+00:00
-
  ## Geneastar: Genealogy of famous people
  - [https://en.geneastar.org](https://en.geneastar.org)
  - date_published: 2024-07-15T07:07:24.005055+00:00
 
  ## Gene-callahan.org | Situs Informasi Populer Di Indonesia
- - [http://www.gene-callahan.org](http://www.gene-callahan.org)
+ - [https://gene-callahan.org](https://gene-callahan.org)
  - date_published: 2024-07-03T22:07:09.677871+00:00
 
  ## MASTER88 > Play Real Game and Win Real Money
- - [http://geneculture.org](http://geneculture.org)
+ - [https://geneculture.org](https://geneculture.org)
  - date_published: 2024-06-13T16:11:54+00:00
 
  ## genehack.org
@@ -3585,11 +3711,11 @@ encryption
  - date_published: 2023-06-19T00:00:00+00:00
 
  ## Home | HUGO Gene Nomenclature Committee
- - [http://www.genenames.org](http://www.genenames.org)
+ - [https://genenames.org](https://genenames.org)
  - date_published: 2024-05-24T14:06:58+00:00
 
  ## Gene Ontology Resource
- - [http://www.geneontology.org](http://www.geneontology.org)
+ - [https://geneontology.org](https://geneontology.org)
  - date_published: 2024-07-03T23:09:15+00:00
 
  ## Generation180
@@ -3597,7 +3723,7 @@ encryption
  - date_published: 2024-07-18T00:00:00+00:00
 
  ## Home - Generation Atomic
- - [https://www.generationatomic.org](https://www.generationatomic.org)
+ - [https://generationatomic.org](https://generationatomic.org)
  - date_published: 2023-09-25T21:40:16+00:00
 
  ## Real-World Democracy Education
@@ -3637,7 +3763,7 @@ encryption
  - date_published: 2024-10-19T04:10:25.176266+00:00
 
  ## Genesee County Historical Society
- - [http://geneseehistory.org](http://geneseehistory.org)
+ - [https://geneseehistory.org](https://geneseehistory.org)
  - date_published: 2024-08-06T08:29:07.998351+00:00
 
  ## Genesis Digital Audio Workstation Development Blog
@@ -3645,7 +3771,7 @@ encryption
  - date_published: 2015-10-27T00:00:00+00:00
 
  ## Attention Required! | Cloudflare
- - [http://www.genesisgift.org](http://www.genesisgift.org)
+ - [https://genesisgift.org](https://genesisgift.org)
  - date_published: 2024-08-08T15:38:07.902033+00:00
 
  ## GenesisL1 blockchain
@@ -3661,7 +3787,7 @@ encryption
  - date_published: 2024-12-12T04:33:48.221106+00:00
 
  ## GBIRd - Genetic Biocontrol of Invasive Rodents
- - [http://www.geneticbiocontrol.org](http://www.geneticbiocontrol.org)
+ - [https://geneticbiocontrol.org](https://geneticbiocontrol.org)
  - date_published: 2021-05-25T00:00:00+00:00
 
  ## Genetic Literacy Project | Science Not Ideology
@@ -3669,7 +3795,7 @@ encryption
  - date_published: 2023-10-25T21:24:26.578613+00:00
 
  ## Homepage - Genetics Society of America
- - [http://www.genetics-gsa.org](http://www.genetics-gsa.org)
+ - [https://genetics-gsa.org](https://genetics-gsa.org)
  - date_published: 2024-07-22T08:22:55.240036+00:00
 
  ## Home - Gene Cuisine: satisfying your appetite for genetic news and information
@@ -3677,7 +3803,7 @@ encryption
  - date_published: 2024-08-19T00:00:00+00:00
 
  ## Geneva Environment Network
- - [https://www.genevaenvironmentnetwork.org](https://www.genevaenvironmentnetwork.org)
+ - [https://genevaenvironmentnetwork.org](https://genevaenvironmentnetwork.org)
  - date_published: 2024-06-18T14:23:48.594689+00:00
 
  ## hotbot.fr – RECHERCHE | SHOPPING
@@ -3714,7 +3840,7 @@ encryption
  - date_published: 2020-12-17T00:00:00+00:00
 
  ## Genopole, Vivre l'innovation - Bienvenue sur notre biocluster - Genopole
- - [http://www.genopole.org](http://www.genopole.org)
+ - [https://genopole.org](https://genopole.org)
  - date_published: 2024-04-02T00:00:00+00:00
 
  ## GENO
@@ -3722,7 +3848,7 @@ encryption
  - date_published: 2022-10-14T00:00:00+00:00
 
  ## 原水禁 - 核と人類は共存できない
- - [http://www.gensuikin.org](http://www.gensuikin.org)
+ - [https://gensuikin.org](https://gensuikin.org)
  - date_published: 2024-07-11T15:53:16.278885+00:00
 
  ## Gentoo Mailing List Archives
@@ -3799,8 +3925,8 @@ encryption
  - date_published: 2024-06-20T08:47:36.941430+00:00
 
  ## 医局からの円満退局。 – 医局外転職の成功と失敗事例
- - [http://geochangemag.org](http://geochangemag.org)
- - date_published: 2024-09-16T19:47:31.256114+00:00
+ - [https://geochangemag.org](https://geochangemag.org)
+ - date_published: 2017-12-25T03:41:33+00:00
 
  ## geocompx
  - [https://geocompx.org](https://geocompx.org)
@@ -3814,20 +3940,20 @@ encryption
  - [https://r.geocompx.org](https://r.geocompx.org)
  - date_published: 2024-06-09T00:00:00+00:00
 
+ ## Geotechnical Engineering News & Technical Resources for Geotech Professionals
+ - [https://geoengineer.org](https://geoengineer.org)
+ - date_published: 2024-08-18T19:12:03.983466+00:00
+
  ## Professor Peck
  - [https://peck.geoengineer.org](https://peck.geoengineer.org)
  - date_published: 2023-10-25T21:24:33.960963+00:00
 
- ## Geotechnical Engineering News & Technical Resources for Geotech Professionals
- - [http://www.geoengineer.org](http://www.geoengineer.org)
- - date_published: 2024-08-18T19:12:03.983466+00:00
-
  ## Geoengineering Monitor
- - [http://www.geoengineeringmonitor.org](http://www.geoengineeringmonitor.org)
+ - [https://geoengineeringmonitor.org](https://geoengineeringmonitor.org)
  - date_published: 2024-08-11T16:41:13.754278+00:00
 
  ## Geoengineering Affects You, Your Environment, and Your Loved Ones
- - [https://www.geoengineeringwatch.org](https://www.geoengineeringwatch.org)
+ - [https://geoengineeringwatch.org](https://geoengineeringwatch.org)
  - date_published: 2024-09-16T19:57:38.638350+00:00
 
  ## Geoffrey Brown | Design & Innovation
@@ -3843,27 +3969,28 @@ encryption
  - date_published: 2024-04-30T07:34:52.293034+00:00
 
  ## Help Center
- - [https://help.geogebra.org](https://help.geogebra.org)
+ - [http://help.geogebra.org](http://help.geogebra.org)
  - date_published: 2024-07-21T02:17:12.158098+00:00
 
  ## Sign in - Matomo
  - [https://matomo.geogebra.org](https://matomo.geogebra.org)
  - date_published: 2024-07-21T02:17:13.283166+00:00
+ - date_dead_since: 2025-01-06T20:07:10.434835+00:00
 
  ## GEOGRAPHY 2050
- - [http://2020.geography2050.org](http://2020.geography2050.org)
+ - [https://2020.geography2050.org](https://2020.geography2050.org)
  - date_published: 2024-08-18T21:04:14.916083+00:00
 
  ## GEOGRAPHY 2050
- - [https://www.geography2050.org](https://www.geography2050.org)
+ - [https://geography2050.org](https://geography2050.org)
  - date_published: 2024-06-21T01:54:41.711902+00:00
 
  ## Geoscience Information Society – Professional society for geoscience librarians
- - [http://www.geoinfo.org](http://www.geoinfo.org)
+ - [https://geoinfo.org](https://geoinfo.org)
  - date_published: 2020-01-17T00:00:00+00:00
 
  ## geojournalism.org
- - [http://geojournalism.org](http://geojournalism.org)
+ - [https://geojournalism.org](https://geojournalism.org)
  - date_published: 2024-08-18T05:26:06.041749+00:00
 
  ## GeoJSON
@@ -3871,7 +3998,7 @@ encryption
  - date_published: 2019-05-07T15:34:25+00:00
 
  ## Geomagnetism
- - [http://geomag.org](http://geomag.org)
+ - [https://geomag.org](https://geomag.org)
  - date_published: 2024-07-10T05:47:48.138858+00:00
 
  ## GeoMapApp
@@ -3888,7 +4015,7 @@ encryption
  - date_published: 2024-07-10T03:10:21.625196+00:00
 
  ## GeoNames Forum
- - [http://forum.geonames.org](http://forum.geonames.org)
+ - [https://forum.geonames.org](https://forum.geonames.org)
  - date_published: 2024-07-10T03:10:05.785847+00:00
 
  ## GeoNames
@@ -3909,11 +4036,11 @@ encryption
  - tags: ['personal']
 
  ## Home | The George Institute for Global Health
- - [https://www.georgeinstitute.org](https://www.georgeinstitute.org)
+ - [https://georgeinstitute.org](https://georgeinstitute.org)
  - date_published: 2024-09-13T17:17:48.022969+00:00
 
  ## Home - George J. Pappas
- - [https://www.georgejpappas.org](https://www.georgejpappas.org)
+ - [https://georgejpappas.org](https://georgejpappas.org)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## George Orwell - Complete works, Biography, Quotes, Essays
@@ -3926,11 +4053,11 @@ encryption
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## Home - Georgetown Center on Poverty and Inequality
- - [https://www.georgetownpoverty.org](https://www.georgetownpoverty.org)
+ - [https://georgetownpoverty.org](https://georgetownpoverty.org)
  - date_published: 2024-01-11T00:00:00+00:00
 
  ## Institute for Technology Law & Policy
- - [https://www.georgetowntech.org](https://www.georgetowntech.org)
+ - [https://georgetowntech.org](https://georgetowntech.org)
  - date_published: 2024-07-16T20:40:19.868288+00:00
 
  ## MedStar Georgetown University Hospital
@@ -3938,7 +4065,7 @@ encryption
  - date_published: 2025-01-01T05:22:56.984089+00:00
 
  ## Home - Friends of Georgetown Waterfront Park
- - [http://georgetownwaterfrontpark.org](http://georgetownwaterfrontpark.org)
+ - [https://georgetownwaterfrontpark.org](https://georgetownwaterfrontpark.org)
  - date_published: 2024-03-05T00:00:00+00:00
 
  ## Georgia Department of Economic Development | #1 State for Business
@@ -3948,112 +4075,4 @@ encryption
  ## Home - Georgia 4-H
  - [https://georgia4h.org](https://georgia4h.org)
  - date_published: 2024-05-23T00:00:00+00:00
-
- ## Georgia Artificial Intelligence in Manufacturing Georgia AI in Manufacturing
- - [https://georgiaaim.org](https://georgiaaim.org)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Georgia Aquarium | Open to the Public | Buy your tickets online | Visit Today
- - [https://www.georgiaaquarium.org](https://www.georgiaaquarium.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Georgia Archives
- - [https://www.georgiaarchives.org](https://www.georgiaarchives.org)
- - date_published: 2024-07-22T02:14:19+00:00
-
- ## GeorgiaCarry.org – The Leader in the Fight to Reclaim and Expand our Right to Bear Arms
- - [http://www.georgiacarry.org](http://www.georgiacarry.org)
- - date_published: 2024-07-03T23:57:14.548249+00:00
-
- ## Film Industry Training & Education in GA - Georgia Film Academy
- - [https://www.georgiafilmacademy.org](https://www.georgiafilmacademy.org)
- - date_published: 2024-07-22T02:13:53.545192+00:00
-
- ## Home - Georgia MBDA Business Center
- - [http://georgiambdabusinesscenter.org](http://georgiambdabusinesscenter.org)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Find Online Degrees and Certificates - Georgia ONmyLINE
- - [https://www.georgiaonmyline.org](https://www.georgiaonmyline.org)
- - date_published: 2024-07-22T02:14:21.484118+00:00
-
- ## Home - GeoScienceWorld
- - [https://community.geoscienceworld.org](https://community.geoscienceworld.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## GeoScienceWorld
- - [http://geoscienceworld.org](http://geoscienceworld.org)
- - date_published: 2024-07-15T03:01:47.034408+00:00
-
- ## GeoScienceWorld
- - [https://pubs.geoscienceworld.org](https://pubs.geoscienceworld.org)
- - date_published: 2023-10-25T21:24:38.489509+00:00
-
- ## GeoServer Documentation
- - [http://docs.geoserver.org](http://docs.geoserver.org)
- - date_published: 2024-08-18T07:54:14+00:00
-
- ## GeoServer
- - [https://geoserver.org](https://geoserver.org)
- - date_published: 2023-10-25T21:24:39.577688+00:00
-
- ## Home - Geological Society of America
- - [https://community.geosociety.org](https://community.geosociety.org)
- - date_published: 2022-12-05T00:00:00+00:00
-
- ## Geological Society of America
- - [https://rock.geosociety.org](https://rock.geosociety.org)
- - date_published: 2024-07-02T14:48:34.087263+00:00
-
- ## Store
- - [https://store.geosociety.org](https://store.geosociety.org)
- - date_published: 2024-07-02T14:48:32.485838+00:00
-
- ## Geological Society of America
- - [https://www.geosociety.org](https://www.geosociety.org)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Gephi - The Open Graph Viz Platform
- - [http://gephi.org](http://gephi.org)
- - date_published: 2023-06-25T16:11:38+00:00
-
- ## Gerald R. Ford Presidential Foundation
- - [https://geraldrfordfoundation.org](https://geraldrfordfoundation.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## news-id.gerejayesuskristus.org
- - [https://news-id.gerejayesuskristus.org](https://news-id.gerejayesuskristus.org)
- - date_published: 2024-05-11T09:04:13.757872+00:00
-
- ## Geriatrics Care | Geriatric Resources | Online events | Updates - Geriatrics Care Online
- - [http://geriatricscareonline.org](http://geriatricscareonline.org)
- - date_published: 2024-12-14T21:03:28.722095+00:00
-
- ## A Geriatrics and Palliative Care Podcast for Every Healthcare Professional
- - [http://www.geripal.org](http://www.geripal.org)
- - date_published: 2025-01-01T18:25:59.983777+00:00
-
- ## GERiT: German Research Institutions | DFG
- - [https://www.gerit.org](https://www.gerit.org)
- - date_published: 2024-07-24T03:43:31.554255+00:00
-
- ## Startseite | Germanwatch e.V.
- - [https://germanwatch.org](https://germanwatch.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://statistik.germanwatch.org](https://statistik.germanwatch.org)
- - date_published: 2024-07-02T17:59:28.485852+00:00
-
- ## AHCA/NCAL Gerontological Nurse Certification Prep Course
- - [http://www.geronurseprep.org](http://www.geronurseprep.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Info Omi88 - Fact About Casino Rate - Casino Games Online
- - [http://www.ges2015.org](http://www.ges2015.org)
- - date_published: 2024-11-08T11:36:32.849150+00:00
-
- ## GESAMP | Home
- - [http://www.gesamp.org](http://www.gesamp.org)
- - date_published: 2024-10-14T23:13:01.115739+00:00
 

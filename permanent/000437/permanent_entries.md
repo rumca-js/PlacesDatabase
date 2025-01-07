@@ -1,3 +1,115 @@
+ ## Swift.org - Download Swift
+ - [https://download.swift.org](https://download.swift.org)
+ - date_published: 2023-10-25T22:12:17.993310+00:00
+
+ ## Swift Forums
+ - [https://forums.swift.org](https://forums.swift.org)
+ - date_published: 2023-10-25T11:33:15.178785+00:00
+
+ ## Swift.org
+ - [https://swift.org](https://swift.org)
+ - date_published: 2024-04-28T03:54:40.044764+00:00
+
+ ## Swift Centre
+ - [https://swiftcentre.org](https://swiftcentre.org)
+ - date_published: 2023-10-25T22:12:20.577681+00:00
+
+ ## SWIFT RIVER VALLEY HISTORICAL SOCIETY – The historical society for the towns of Dana, Enfield, Greenwich and Prescott
+ - [https://swiftrivermuseum.org](https://swiftrivermuseum.org)
+ - date_published: 2024-08-18T17:46:23.522777+00:00
+
+ ## Swift Teacher
+ - [https://www.swiftteacher.org](https://www.swiftteacher.org)
+ - date_published: 2024-06-23T15:34:03.441837+00:00
+
+ ## SwiftWave Graphql Docs
+ - [https://graphql.docs.swiftwave.org](https://graphql.docs.swiftwave.org)
+ - date_published: 2024-09-04T00:48:15.035736+00:00
+
+ ## Join swiftwave on Slack
+ - [http://slack.swiftwave.org](http://slack.swiftwave.org)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Status page
+ - [https://status.swiftwave.org](https://status.swiftwave.org)
+ - date_published: 2024-08-26T03:21:19+00:00
+
+ ## SwiftWave
+ - [https://swiftwave.org](https://swiftwave.org)
+ - date_published: 2024-05-30T20:49:04.458980+00:00
+
+ ## Simplified Wrapper and Interface Generator
+ - [https://swig.org](https://swig.org)
+ - date_published: 2023-10-25T22:12:22.341015+00:00
+
+ ## Blog.SwimISCA.org a new site for information, education and coaches interaction about swimming and water sports
+ - [https://blog.swimisca.org](https://blog.swimisca.org)
+ - date_published: 2020-05-06T13:09:18+00:00
+
+ ## Home to the Learning Management System of ISCA and CurrentWave | Read.SwimISCA.org
+ - [https://read.swimisca.org](https://read.swimisca.org)
+ - date_published: 2020-06-04T18:44:01+00:00
+
+ ## ISCA, home page as of 2024 October - International Swim Coaches Association (ISCA)
+ - [https://swimisca.org](https://swimisca.org)
+ - date_published: 2024-10-08T10:51:01+00:00
+
+ ## Swing Into Summer
+ - [http://swingintosummer.org](http://swingintosummer.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Help Democrats win | Swing Left
+ - [https://swingleft.org](https://swingleft.org)
+ - date_published: 2024-09-04T06:39:48.173304+00:00
+
+ ## SWI-Prolog
+ - [https://www.swi-prolog.org](https://www.swi-prolog.org)
+ - date_published: 2024-08-18T23:06:48.438313+00:00
+
+ ## SWIP UK
+ - [http://www.swipuk.org](http://www.swipuk.org)
+ - date_published: 2024-09-18T08:40:27.625259+00:00
+
+ ## Home | Swiss AI
+ - [https://www.swiss-ai.org](https://www.swiss-ai.org)
+ - date_published: 2024-08-19T18:47:57.341063+00:00
+
+ ## swissjournals.org
+ - [http://www.swissjournals.org](http://www.swissjournals.org)
+ - date_published: 2024-10-29T16:46:20.378504+00:00
+
+ ## swiss made. it works. - swiss made software
+ - [https://swissmadesoftware.org](https://swissmadesoftware.org)
+ - date_published: 2024-06-15T15:52:11+00:00
+
+ ## Connecting Tomorrow - Swissnex
+ - [https://swissnex.org](https://swissnex.org)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Connecting Tomorrow - Swissnex in Boston and New York
+ - [http://www.swissnexboston.org](http://www.swissnexboston.org)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Connecting Tomorrow - Swissnex in China
+ - [https://swissnexchina.org](https://swissnexchina.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## swisspolitics.org - Portal für politische Kommunikation und Information, News und Wirtschaft.
+ - [http://www.swisspolitics.org](http://www.swisspolitics.org)
+ - date_published: 2024-12-30T05:03:31+00:00
+
+ ## Swisspreneur - Empowering Entrepreneurship and Startups
+ - [https://swisspreneur.org](https://swisspreneur.org)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Swiss Re Foundation | Swiss Re
+ - [https://www.swissrefoundation.org](https://www.swissrefoundation.org)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Home
+ - [https://switch2osm.org](https://switch2osm.org)
+ - date_published: 2024-07-15T03:37:39+00:00
+
  ## Switch4Good | Give up dairy and make the switch for good!
  - [https://switch4good.org](https://switch4good.org)
  - date_published: 2020-03-04T10:23:18+00:00
@@ -3923,119 +4035,4 @@ by technology
  ## Themself
  - [http://www.themself.org](http://www.themself.org)
  - date_published: 2024-07-09T14:07:34.029840+00:00
-
- ## The MSFF
- - [http://www.themsff.org](http://www.themsff.org)
- - date_published: 2024-07-12T20:19:28.431922+00:00
-
- ## Transformative UK Manufacturing Technologies
- - [https://www.the-mtc.org](https://www.the-mtc.org)
- - date_published: 2024-09-05T21:53:00.698770+00:00
-
- ## Home - NAI: Network Advertising Initiative
- - [https://thenai.org](https://thenai.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Thenanotechnologygroup - Straight ahead
- - [http://www.thenanotechnologygroup.org](http://www.thenanotechnologygroup.org)
- - date_published: 2024-06-29T22:27:24.579986+00:00
-
- ## About Our Specialty Associations - The National Trial Lawyers
- - [https://thenationaladvocates.org](https://thenationaladvocates.org)
- - date_published: 2024-08-18T23:10:49.111075+00:00
-
- ## Homepage
- - [https://www.thenationalcouncil.org](https://www.thenationalcouncil.org)
- - date_published: 2024-12-30T11:32:30.381915+00:00
-
- ## The National Trial Lawyers
- - [http://thenationaltriallawyers.org](http://thenationaltriallawyers.org)
- - date_published: 2024-08-05T23:59:09.541261+00:00
-
- ## Homepage – The Nation Fund for Independent Journalism
- - [https://thenationfund.org](https://thenationfund.org)
- - date_published: 2024-05-06T17:03:55.510666+00:00
-
- ## The Nerds of Color
- - [https://thenerdsofcolor.org](https://thenerdsofcolor.org)
- - date_published: 2024-08-19T22:00:25+00:00
-
- ## Jainja
- - [https://jainja.thenesis.org](https://jainja.thenesis.org)
- - date_published: 2024-11-22T19:32:19.154111+00:00
-
- ## The Network: TUFH
- - [https://thenetworktufh.org](https://thenetworktufh.org)
- - date_published: 2024-09-11T16:05:24.530805+00:00
-
- ## Bob Dylan - The Never Ending Pool
- - [http://www.theneverendingpool.org](http://www.theneverendingpool.org)
- - date_published: 2024-06-30T01:13:43+00:00
-
- ## Home - .ORG
- - [https://thenew.org](https://thenew.org)
- - date_published: 2024-02-21T00:00:00+00:00
- - tags: ['organisations']
-
- ## Home | The New Centre for Research & Practice
- - [https://thenewcentre.org](https://thenewcentre.org)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## the New Dynamic
- - [https://www.thenewdynamic.org](https://www.thenewdynamic.org)
- - date_published: 2021-10-06T00:00:00+00:00
-
- ## The New Humanitarian • humanitarian news and analysis from Africa, Asia and the Middle East - updated daily
- - [https://thenewhumanitarian.org](https://thenewhumanitarian.org)
- - date_published: 2023-10-25T22:14:18.022538+00:00
-
- ## The New Lede
- - [https://thenewlede.org](https://thenewlede.org)
- - date_published: 2023-10-25T22:14:19.999816+00:00
-
- ## The New Oil
- - [https://blog.thenewoil.org](https://blog.thenewoil.org)
- - date_published: 2024-04-21T11:01:09.369893+00:00
- - tags: ['data privacy', 'cybersecurity']
-
- ## Mastodon
- - [https://mastodon.thenewoil.org](https://mastodon.thenewoil.org)
- - date_published: 2024-08-10T23:15:22.381853+00:00
-
- ## The New Oil | Home
- - [https://thenewoil.org](https://thenewoil.org)
- - date_published: 2024-04-21T18:24:27+00:00
- - tags: ['education', 'data privacy', 'cybersecurity']
-
- ## Home - The Next Apollo
- - [https://thenextapollo.org](https://thenextapollo.org)
- - date_published: 2024-10-18T17:29:50.977230+00:00
-
- ## The Next HOPE, July 16-18, 2010
- - [http://www.thenexthope.org](http://www.thenexthope.org)
- - date_published: 2013-09-11T14:43:46+00:00
-
- ## The NFT Bay is the galaxy's most resilient NFT BitTorrent site!
- - [https://thenftbay.org](https://thenftbay.org)
- - date_published: 2021-11-29T03:51:31+00:00
-
- ## National Museum of the United States Army
- - [https://www.thenmusa.org](https://www.thenmusa.org)
- - date_published: 2024-09-16T14:43:57.320247+00:00
-
- ## The NODE Institute – connecting the nodes
- - [https://thenodeinstitute.org](https://thenodeinstitute.org)
- - date_published: 2024-07-09T22:30:29.754023+00:00
-
- ## Homepage
- - [https://the-oasis.org](https://the-oasis.org)
- - date_published: 2024-05-08T10:28:45.806141+00:00
-
- ## The Occupied Times
- - [https://theoccupiedtimes.org](https://theoccupiedtimes.org)
- - date_published: 2024-08-19T22:11:41.636352+00:00
-
- ## Online Dating Association (ODA)
- - [https://theodda.org](https://theodda.org)
- - date_published: 2024-02-14T00:00:00+00:00
 

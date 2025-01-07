@@ -1,3 +1,91 @@
+ ## Startseite FiF
+ - [https://www.fif.tu-darmstadt.de](https://www.fif.tu-darmstadt.de)
+ - date_published: 2024-06-22T11:54:17.164385+00:00
+
+ ## Startseite
+ - [https://www.freunde.tu-darmstadt.de](https://www.freunde.tu-darmstadt.de)
+ - date_published: 2024-04-29T06:56:12.861105+00:00
+
+ ## Graphisch-Interaktive Systeme
+ - [https://www.gris.informatik.tu-darmstadt.de](https://www.gris.informatik.tu-darmstadt.de)
+ - date_published: 2024-06-22T07:29:08.550406+00:00
+
+ ## Gründungen – xchange
+ - [https://www.highest.tu-darmstadt.de](https://www.highest.tu-darmstadt.de)
+ - date_published: 2024-04-29T06:56:08.986181+00:00
+
+ ## HIGHWAY | Innovation Platform of TU Darmstadt
+ - [https://www.highway.tu-darmstadt.de](https://www.highway.tu-darmstadt.de)
+ - date_published: 2024-07-24T04:23:14.409133+00:00
+
+ ## Home
+ - [https://www.hrz.tu-darmstadt.de](https://www.hrz.tu-darmstadt.de)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Intelligent Autonomous Systems | Main / Home Page
+ - [https://www.ias.informatik.tu-darmstadt.de](https://www.ias.informatik.tu-darmstadt.de)
+ - date_published: 2024-07-12T08:05:00.543317+00:00
+
+ ## FB Informatik
+ - [https://www.informatik.tu-darmstadt.de](https://www.informatik.tu-darmstadt.de)
+ - date_published: 2024-05-04T15:43:58.931142+00:00
+
+ ## Infoportal Startseite
+ - [https://www.intern.tu-darmstadt.de](https://www.intern.tu-darmstadt.de)
+ - date_published: 2024-04-29T06:56:13.976258+00:00
+
+ ## Kommunikationsnetze / Multimedia Kommunikation – TU Darmstadt – Fachgebiete Multimedia Kommunikation / Kommunikationsnetze (KOM)
+ - [https://www.kom.tu-darmstadt.de](https://www.kom.tu-darmstadt.de)
+ - date_published: 2024-07-07T10:45:56.708486+00:00
+
+ ## Sonderforschungsbereich 1053 MAKI – Multi-Mechanismen-Adaption für das künftige Internet
+ - [https://www.maki.tu-darmstadt.de](https://www.maki.tu-darmstadt.de)
+ - date_published: 2024-07-07T10:45:54.449084+00:00
+
+ ## Fachbereich Mathematik
+ - [https://www.mathematik.tu-darmstadt.de](https://www.mathematik.tu-darmstadt.de)
+ - date_published: 2024-11-22T00:00:00+00:00
+
+ ## Startseite
+ - [https://wwwopt.mathematik.tu-darmstadt.de](https://wwwopt.mathematik.tu-darmstadt.de)
+ - date_published: 2024-10-16T06:09:38.406389+00:00
+
+ ## Startseite
+ - [https://www.personalrat.tu-darmstadt.de](https://www.personalrat.tu-darmstadt.de)
+ - date_published: 2024-04-29T06:56:18.893471+00:00
+
+ ## PTW
+ - [https://www.ptw.tu-darmstadt.de](https://www.ptw.tu-darmstadt.de)
+ - date_published: 2024-12-12T15:52:56.200830+00:00
+
+ ## Die Vertrauensperson
+ - [https://www.schwbv.tu-darmstadt.de](https://www.schwbv.tu-darmstadt.de)
+ - date_published: 2022-11-14T00:00:00+00:00
+
+ ## Sonderforschungsbereich 805
+ - [https://www.sfb805.tu-darmstadt.de](https://www.sfb805.tu-darmstadt.de)
+ - date_published: 2024-12-16T09:24:48.455825+00:00
+
+ ## Sprachenzentrum
+ - [https://www.spz.tu-darmstadt.de](https://www.spz.tu-darmstadt.de)
+ - date_published: 2024-07-24T04:22:13.197256+00:00
+
+ ## Home
+ - [https://www.tu-darmstadt.de](https://www.tu-darmstadt.de)
+ - date_published: 2023-12-02T05:46:14.228323+00:00
+
+ ## UKP
+ - [https://www.ukp.tu-darmstadt.de](https://www.ukp.tu-darmstadt.de)
+ - date_published: 2024-10-28T00:21:03.128653+00:00
+
+ ## Die Bibliothek
+ - [https://www.ulb.tu-darmstadt.de](https://www.ulb.tu-darmstadt.de)
+ - date_published: 2024-04-29T06:56:10.585144+00:00
+
+ ## Webseiten mit FirstSpirit
+ - [https://www.webteam.tu-darmstadt.de](https://www.webteam.tu-darmstadt.de)
+ - date_published: 2024-06-30T00:00:00+00:00
+
  ## Tudock - Digital Commerce aus Hamburg
  - [https://tudock.de](https://tudock.de)
  - date_published: 2024-06-27T16:09:25.103270+00:00
@@ -3947,92 +4035,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## Weiterleitung…
  - [https://ifm.mathematik.uni-wuerzburg.de](https://ifm.mathematik.uni-wuerzburg.de)
  - date_published: 2022-10-28T11:29:11+00:00
-
- ## Institut für Informatik - Institut für Informatik
- - [https://informatik.uni-wuerzburg.de](https://informatik.uni-wuerzburg.de)
- - date_published: 2024-05-06T19:58:51.128516+00:00
-
- ## Juristische Fakultät - Juristische Fakultät
- - [https://jura.uni-wuerzburg.de](https://jura.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:01:52.681173+00:00
-
- ## Katalog der Universitätsbibliothek Würzburg
- - [https://katalog.bibliothek.uni-wuerzburg.de](https://katalog.bibliothek.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:02:09.318464+00:00
-
- ## Institut für Klassische Philologie - Institut für klassische Philologie
- - [https://klassphil.uni-wuerzburg.de](https://klassphil.uni-wuerzburg.de)
- - date_published: 2024-07-19T23:09:55.940858+00:00
-
- ## Login - KursShop
- - [https://kursshop.rz.uni-wuerzburg.de](https://kursshop.rz.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:40:46.475925+00:00
-
- ## Sign in to your account
- - [https://lecture.uni-wuerzburg.de](https://lecture.uni-wuerzburg.de)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## JMU Mail
- - [https://mail.uni-wuerzburg.de](https://mail.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:40:45.228610+00:00
-
- ## Fakultät für Mathematik und Informatik - Fakultät für Mathematik und Informatik
- - [https://mathematik-informatik.uni-wuerzburg.de](https://mathematik-informatik.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:01:34.925604+00:00
-
- ## Institut für Mathematik - Institut für Mathematik
- - [https://mathematik.uni-wuerzburg.de](https://mathematik.uni-wuerzburg.de)
- - date_published: 2024-06-26T22:12:48.960789+00:00
-
- ## Institut Mensch-Computer-Medien - Mensch-Computer-Medien
- - [https://mcm.uni-wuerzburg.de](https://mcm.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:33:40.187166+00:00
-
- ## Neuigkeiten
- - [https://mcs.phil2.uni-wuerzburg.de](https://mcs.phil2.uni-wuerzburg.de)
- - date_published: 2024-06-10T07:16:19+00:00
-
- ## Medizinische Fakultät - Medizinische Fakultät
- - [https://med.uni-wuerzburg.de](https://med.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:01:44.042071+00:00
-
- ## Institut für Musikforschung - Institut für Musikforschung
- - [https://musikwissenschaft.uni-wuerzburg.de](https://musikwissenschaft.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:41:39.461403+00:00
-
- ## Neuphilologisches Institut - Neuphilologisches Institut – Moderne Fremdsprachen
- - [https://neuphil.uni-wuerzburg.de](https://neuphil.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:02:06.418518+00:00
-
- ## OPUS Würzburg | HOME
- - [https://opus.bibliothek.uni-wuerzburg.de](https://opus.bibliothek.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:32:01.582452+00:00
-
- ## Institut für Pädagogik - Institut für Pädagogik
- - [https://paedagogik.uni-wuerzburg.de](https://paedagogik.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:33:34.811812+00:00
-
- ## Institut für Pharmazie und Lebensmittelchemie - Institut für Pharmazie und Lebensmittelchemie
- - [https://pharmazie.uni-wuerzburg.de](https://pharmazie.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:41:19.726003+00:00
-
- ## Institut für Philosophie - Institut für Philosophie
- - [https://philosophie.uni-wuerzburg.de](https://philosophie.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:33:47.157236+00:00
-
- ## Philosophische Fakultät - Philosophische Fakultät
- - [https://phil.uni-wuerzburg.de](https://phil.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:01:32.909215+00:00
-
- ## Fakultät für Physik und Astronomie - Fakultät für Physik und Astronomie
- - [https://physik.uni-wuerzburg.de](https://physik.uni-wuerzburg.de)
- - date_published: 2024-04-29T07:02:11.493804+00:00
-
- ## Institut für Politikwissenschaft und Soziologie - Institut für Politikwissenschaft und Soziologie
- - [https://politikwissenschaft.uni-wuerzburg.de](https://politikwissenschaft.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:33:42.472987+00:00
-
- ## Institut für Psychologie - Institut für Psychologie
- - [https://psychologie.uni-wuerzburg.de](https://psychologie.uni-wuerzburg.de)
- - date_published: 2024-07-24T03:33:49.676635+00:00
 

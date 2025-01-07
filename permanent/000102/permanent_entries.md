@@ -1,3 +1,35 @@
+ ## About the DeviceGuru Blog Network | DeviceGuru
+ - [http://deviceguru.com](http://deviceguru.com)
+ - date_published: 2023-02-03T03:11:00+00:00
+
+ ## Playground
+ - [https://playground.devicehive.com](https://playground.devicehive.com)
+ - date_published: 2018-03-20T16:11:31+00:00
+
+ ## DeviceHive - Open Source IoT Data Platform with the wide range of integration options.
+ - [https://www.devicehive.com](https://www.devicehive.com)
+ - date_published: 2019-10-11T10:41:56+00:00
+
+ ## Find unknown devices using a vendor and device ID. | Device Hunt
+ - [https://devicehunt.com](https://devicehunt.com)
+ - date_published: 2024-07-10T08:59:31.694315+00:00
+
+ ## Device Shots — Free Device Mockup Design Generator
+ - [https://deviceshots.com](https://deviceshots.com)
+ - date_published: 2024-10-22T19:25:16.313719+00:00
+
+ ## DeviceTalks Boston | Premier MedTech Events
+ - [https://boston.devicetalks.com](https://boston.devicetalks.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## DeviceTalks | MedTech Events & Podcasts
+ - [http://devicetalks.com](http://devicetalks.com)
+ - date_published: 2024-10-17T17:39:44.665323+00:00
+
+ ## DeviceTalks Minnesota | Premier MedTech Events
+ - [https://minnesota.devicetalks.com](https://minnesota.devicetalks.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
  ## DeviceTalks West | Premier MedTech Events
  - [https://west.devicetalks.com](https://west.devicetalks.com)
  - date_published: 2024-06-06T00:00:00+00:00
@@ -4013,36 +4045,4 @@ A blog about programming, distributed systems and others
  ## DirectAdmin Forums
  - [http://forum.directadmin.com](http://forum.directadmin.com)
  - date_published: 2024-06-02T00:00:00+00:00
-
- ## | Directadmin Docs
- - [https://help.directadmin.com](https://help.directadmin.com)
- - date_published: 2024-06-13T11:38:54+00:00
-
- ## DirectAdmin
- - [https://translate.directadmin.com](https://translate.directadmin.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## The Direct Booking Summit
- - [https://www.directbookingsummit.com](https://www.directbookingsummit.com)
- - date_published: 2024-07-23T21:23:03.094429+00:00
-
- ## Attention Required! | Cloudflare
- - [http://www.directcom.com](http://www.directcom.com)
- - date_published: 2024-06-29T16:11:44.940451+00:00
-
- ## dan goods
- - [https://directedplay.com](https://directedplay.com)
- - date_published: 2023-10-25T13:52:55.965582+00:00
-
- ## Direct Flight Solutions - M54 Airport - Lebanon TN
- - [https://directflightsolutions.com](https://directflightsolutions.com)
- - date_published: 2024-10-29T11:40:13.852984+00:00
-
- ## Direct Home Medical
- - [http://www.directhomemedical.com](http://www.directhomemedical.com)
- - date_published: 2024-11-16T20:26:41.067047+00:00
-
- ## DirectIndustry - The B2B marketplace for industrial equipment: sensors, automation, motors, pumps, handling materials, packaging, etc.
- - [https://www.directindustry.com](https://www.directindustry.com)
- - date_published: 2024-08-08T21:02:32.169781+00:00
 

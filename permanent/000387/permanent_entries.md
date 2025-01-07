@@ -1,3 +1,113 @@
+ ## Retro Ramblings | Musings on FPGA and Retro Computing
+ - [https://retroramblings.net](https://retroramblings.net)
+ - date_published: 2024-06-14T05:12:53.035745+00:00
+ - tags: ['fpga', 'personal']
+
+ ## Retrospring
+ - [https://retrospring.net](https://retrospring.net)
+ - date_published: 2024-05-04T08:01:15.407344+00:00
+
+ ## Retro Tech Geneva
+ - [https://www.retrotechgeneva.net](https://www.retrotechgeneva.net)
+ - date_published: 2024-06-29T11:15:08+00:00
+
+ ## Fine Artist and Commercial Illustrator – Craig LaRotonda
+ - [http://www.revelationart.net](http://www.revelationart.net)
+ - date_published: 2016-08-05T21:23:31+00:00
+
+ ## Revenuemax - Yayıncılar İçin Header Bidding Teknolojisi
+ - [https://revenuemax.net](https://revenuemax.net)
+ - date_published: 2021-04-28T14:25:21+00:00
+
+ ## Find the words given Wordle pattern and the solution word.
+ - [https://reversle.net](https://reversle.net)
+ - date_published: 2024-05-06T06:38:38.343517+00:00
+
+ ## English verb conjugation: past tense, participle, present perfect, past perfect | Reverso Conjugator
+ - [https://conjugator.reverso.net](https://conjugator.reverso.net)
+ - date_published: 2024-07-09T15:43:33.044280+00:00
+
+ ## Reverso Context | Translation in context - Arabic, German, Spanish, French, Hebrew, Italian, Japanese, Korean, Dutch, Polish, Portuguese, Romanian, Russian, Swedish, Turkish, Ukrainian, Chinese, English
+ - [https://context.reverso.net](https://context.reverso.net)
+ - date_published: 2024-07-09T15:43:15.297240+00:00
+
+ ## Dictionary, translation | French, Spanish, German | Reverso
+ - [https://dictionary.reverso.net](https://dictionary.reverso.net)
+ - date_published: 2024-07-09T15:43:21.735164+00:00
+
+ ## Document translation: Word, PDF, PowerPoint, Excel
+ - [https://documents.reverso.net](https://documents.reverso.net)
+ - date_published: 2024-07-09T15:43:20.002780+00:00
+
+ ## Grammaire Française Interactive, Orthographe et Conjugaison | La Grammaire Reverso
+ - [https://grammaire.reverso.net](https://grammaire.reverso.net)
+ - date_published: 2024-07-09T15:43:17.985105+00:00
+
+ ## English Grammar: article, syntax, adjective, conjugation, past tense, nouns | English grammar with Reverso
+ - [https://grammar.reverso.net](https://grammar.reverso.net)
+ - date_published: 2024-07-09T15:43:25.450638+00:00
+
+ ## Reverso | Free translation, dictionary
+ - [https://reverso.net](https://reverso.net)
+ - date_published: 2024-05-09T05:38:44.538757+00:00
+
+ ## Synonyms and analogies in English | Reverso Dictionary
+ - [https://synonyms.reverso.net](https://synonyms.reverso.net)
+ - date_published: 2024-07-09T15:43:35.512013+00:00
+
+ ## ReviewGPT
+ - [https://reviewgpt.net](https://reviewgpt.net)
+ - date_published: 2024-10-30T08:23:50.232819+00:00
+
+ ## Welcome | REVISION 2011 - The Easterparty. April 22nd to 25th of 2011 in Saarbruecken, Germany
+ - [http://2011.revision-party.net](http://2011.revision-party.net)
+ - date_published: 2023-02-17T17:52:54+00:00
+
+ ## Welcome | REVISION 2012 - The Easterparty. April 6th to 9th of 2012 in Saarbruecken, Germany
+ - [http://2012.revision-party.net](http://2012.revision-party.net)
+ - date_published: 2023-02-17T17:52:54+00:00
+
+ ## Home | Revision 2013
+ - [http://2013.revision-party.net](http://2013.revision-party.net)
+ - date_published: 2023-02-17T17:52:54+00:00
+
+ ## Start | Revision 2014 - 18th to 21st of April 2014 - Saarbrücken, Germany
+ - [http://2014.revision-party.net](http://2014.revision-party.net)
+ - date_published: 2023-02-17T17:52:54+00:00
+
+ ## Start | Revision 2015 - 3rd to 6th of April 2015 - Saarbrücken, Germany
+ - [https://2015.revision-party.net](https://2015.revision-party.net)
+ - date_published: 2023-02-17T17:52:54+00:00
+
+ ## Start | Revision 2016 - 25th to 28th of March - Saarbrücken, Germany
+ - [https://2016.revision-party.net](https://2016.revision-party.net)
+ - date_published: 2023-02-17T17:52:54+00:00
+
+ ## Start | Revision 2017 - 14th to 17th of April - Saarbrücken, Germany
+ - [https://2017.revision-party.net](https://2017.revision-party.net)
+ - date_published: 2023-02-17T17:52:55+00:00
+
+ ## Start | Revision 2020 - 10th to 13th of April - On a sofa near you
+ - [https://2020.revision-party.net](https://2020.revision-party.net)
+ - date_published: 2023-02-17T17:52:58+00:00
+
+ ## Revision 2024 - March 29th to April 1st
+ - [https://2024.revision-party.net](https://2024.revision-party.net)
+ - date_published: 2024-05-24T18:54:05.508689+00:00
+
+ ## Revision 2024 - March 29th to April 1st
+ - [https://revision-party.net](https://revision-party.net)
+ - date_published: 2024-02-06T13:54:22.381675+00:00
+ - tags: ['demoscene']
+
+ ## Revive Adserver Hosted edition
+ - [https://www.revive-adserver.net](https://www.revive-adserver.net)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## revolutionsoccer.net
+ - [https://www.revolutionsoccer.net](https://www.revolutionsoccer.net)
+ - date_published: 2024-02-21T00:00:00+00:00
+
  ## Revora Forums
  - [https://forums.revora.net](https://forums.revora.net)
  - date_published: 2024-01-15T00:00:00+00:00
@@ -3955,114 +4065,4 @@
  ## snaomiscott.net
  - [http://snaomiscott.net](http://snaomiscott.net)
  - date_published: 2024-12-23T07:24:35.658004+00:00
-
- ## Accounts • Snapchat
- - [https://accounts.snap-dev.net](https://accounts.snap-dev.net)
- - date_published: 2024-07-15T02:33:56.433026+00:00
-
- ## Snapdrop
- - [https://snapdrop.net](https://snapdrop.net)
- - date_published: 2024-02-17T19:05:28+00:00
- - tags: ['file send']
-
- ## Podcast | NETfrix - Network Science Podcast | Data Science Podcast
- - [https://en.snapod.net](https://en.snapod.net)
- - date_published: 2024-08-17T22:14:43.364017+00:00
-
- ## w     w     w     .     s     n     a    p     p     i     n     g     t     u     r     t     l     e     .     n     e     t
- - [http://www.snappingturtle.net](http://www.snappingturtle.net)
- - date_published: 2005-05-30T03:07:27+00:00
-
- ## SndUp | A simple audio sharing service!
- - [https://sndup.net](https://sndup.net)
- - date_published: 2024-12-22T09:57:36.632672+00:00
-
- ## Show HN: Huewords, a Word and Logic Puzzle
- - [https://huewords.snellman.net](https://huewords.snellman.net)
- - date_published: 2024-06-04T07:01:58+00:00
-
- ## Juho Snellman
- - [https://www.snellman.net](https://www.snellman.net)
- - date_published: 2024-05-09T22:32:56+00:00
-
- ## snes-roms – Kumpulan Berbagai Situs Judi Slot Online Terbaik 2022
- - [https://snes-roms.net](https://snes-roms.net)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Snew
- - [https://snewdraws.net](https://snewdraws.net)
- - date_published: 2024-09-12T05:00:25+00:00
-
- ## Sniffnet — comfortably monitor your Internet traffic 🕵️‍♂️
- - [https://sniffnet.net](https://sniffnet.net)
- - date_published: 2023-10-25T20:37:40.707759+00:00
-
- ## Downworthy: A browser plugin to turn hyperbolic viral headlines into what they really mean
- - [https://downworthy.snipe.net](https://downworthy.snipe.net)
- - date_published: 2014-11-17T21:25:20+00:00
-
- ## Home - Snipe.Net
- - [https://snipe.net](https://snipe.net)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## แทงบอล ราคาบอลสูง+ต่ํา+ล่าสุด วิเคราะห์บอล บอลล้มโต๊ะวันนี้
- - [https://snippetsource.net](https://snippetsource.net)
- - date_published: 2024-06-15T15:52:34.362344+00:00
-
- ## The Snowflake AI Data Cloud - Mobilize Data, Apps, and AI
- - [https://www.snowflake.net](https://www.snowflake.net)
- - date_published: 2024-07-02T17:09:08+00:00
-
- ## D E A R E S T · · ·                       ❤                       — a one true pairing (otp) clique                       — version ii
- - [http://dearest.snow-heart.net](http://dearest.snow-heart.net)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## W O N D E R L A N D                 a fanlisting collective
- - [https://love.snow-heart.net](https://love.snow-heart.net)
- - date_published: 2024-06-20T21:15:48.582792+00:00
-
- ## patron : website guardians
- - [http://patron.snow-heart.net](http://patron.snow-heart.net)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## s n o w - h e a r t . n e t                          the vanilla lace studio                          v.oo1                           Moonlit Sonata feat. Hatsune Miku
- - [https://snow-heart.net](https://snow-heart.net)
- - date_published: 2024-07-12T16:40:29.635599+00:00
-
- ## Matthias Monroy
- - [https://digit.so36.net](https://digit.so36.net)
- - date_published: 2023-10-25T08:54:06.996729+00:00
- - tags: ['personal']
-
- ## Home | Soaring Roc Studio
- - [https://soaringrocstudio.net](https://soaringrocstudio.net)
- - date_published: 2024-05-06T21:15:51.491065+00:00
-
- ## SoByte
- - [https://sobyte.net](https://sobyte.net)
- - date_published: 2023-10-25T20:37:41.884513+00:00
-
- ## Socel: Social for the Animation Arts
- - [https://socel.net](https://socel.net)
- - date_published: 2024-05-08T04:34:25.327543+00:00
-
- ## Atelier JR
- - [https://www.social-animals.net](https://www.social-animals.net)
- - date_published: 2024-06-16T21:34:49.158666+00:00
-
- ## Social Capital Markets - Your Partner in Crypto Trading Journey
- - [https://socialcapitalmarkets.net](https://socialcapitalmarkets.net)
- - date_published: 2024-05-23T07:08:26+00:00
-
- ## Socialeo - Association √† loi 1901
- - [https://socialeo.net](https://socialeo.net)
- - date_published: 2024-05-09T08:21:13.689839+00:00
-
- ## Social Ink | Web expertise for non-profits, advocates & educators
- - [https://www.social-ink.net](https://www.social-ink.net)
- - date_published: 2024-08-18T18:15:05+00:00
-
- ## Socialist Action - Website
- - [http://www.socialistaction.net](http://www.socialistaction.net)
- - date_published: 2024-10-21T17:32:38.851556+00:00
 

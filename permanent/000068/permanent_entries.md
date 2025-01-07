@@ -1,3 +1,15 @@
+ ## pyx
+ - [https://donovanpreston.blogspot.com](https://donovanpreston.blogspot.com)
+ - date_published: 2013-03-19T08:28:00+00:00
+
+ ## Blogger
+ - [https://donsurber.blogspot.com](https://donsurber.blogspot.com)
+ - date_published: 2024-12-31T17:56:10.710064+00:00
+
+ ## Don't Ask Me ... I Don't Know
+ - [http://dontaskmeidontknow.blogspot.com](http://dontaskmeidontknow.blogspot.com)
+ - date_published: 2024-12-13T00:15:58+00:00
+
  ## Don't Call Me Ishmael
  - [http://dontcallmeishmael.blogspot.com](http://dontcallmeishmael.blogspot.com)
  - date_published: 2024-09-07T20:45:48+00:00
@@ -243,7 +255,7 @@
  - date_published: 2024-05-28T00:00:00+00:00
 
  ## Diego Quijano Scaleworks
- - [http://dqscaleworks.blogspot.com](http://dqscaleworks.blogspot.com)
+ - [https://dqscaleworks.blogspot.com](https://dqscaleworks.blogspot.com)
  - date_published: 2024-10-28T23:04:04+00:00
 
  ## Nie znaleziono bloga
@@ -564,7 +576,7 @@
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## The Debate Link
- - [http://dsadevil.blogspot.com](http://dsadevil.blogspot.com)
+ - [https://dsadevil.blogspot.com](https://dsadevil.blogspot.com)
  - date_published: 2024-10-29T08:33:30+00:00
 
  ## DSBBFL
@@ -964,7 +976,7 @@
  - date_published: 2024-06-14T06:07:29+00:00
 
  ## E a r t h    G o a t
- - [http://earthgoat.blogspot.com](http://earthgoat.blogspot.com)
+ - [https://earthgoat.blogspot.com](https://earthgoat.blogspot.com)
  - date_published: 2024-10-29T00:48:06+00:00
 
  ## earwig sandwich
@@ -2199,7 +2211,7 @@
  - date_published: 2024-12-31T17:35:38.398926+00:00
 
  ## En tierra de nadie
- - [http://entierradenadie40k.blogspot.com](http://entierradenadie40k.blogspot.com)
+ - [https://entierradenadie40k.blogspot.com](https://entierradenadie40k.blogspot.com)
  - date_published: 2024-10-29T06:31:20+00:00
 
  ## Entity Crisis
@@ -3995,16 +4007,4 @@
  ## fireChangeEvent()
  - [https://fire-change-event.blogspot.com](https://fire-change-event.blogspot.com)
  - date_published: 2024-03-21T20:02:06+00:00
-
- ## Firefly The Travel Guy
- - [http://fireflyafrica.blogspot.com](http://fireflyafrica.blogspot.com)
- - date_published: 2024-12-08T08:19:19+00:00
-
- ## Fire Megan McArdle
- - [http://firemeganmcardle.blogspot.com](http://firemeganmcardle.blogspot.com)
- - date_published: 2024-10-28T21:48:13+00:00
-
- ## Fire on the Mountain
- - [http://firemtn.blogspot.com](http://firemtn.blogspot.com)
- - date_published: 2024-12-30T09:46:58+00:00
 

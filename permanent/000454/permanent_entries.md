@@ -1,3 +1,123 @@
+ ## Eptoliva – Escola Profissional
+ - [https://eptoliva.pt](https://eptoliva.pt)
+ - date_published: 2024-09-05T15:05:55.358948+00:00
+
+ ## Equifax Portugal - Empresas
+ - [https://equifax.pt](https://equifax.pt)
+ - date_published: 2024-08-05T22:02:26.829406+00:00
+
+ ## Data centers globais e colocation para redes empresariais | Equinix Portugal
+ - [https://equinix.pt](https://equinix.pt)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Dona Ermelinda
+ - [http://blog.ermelindafreitas.pt](http://blog.ermelindafreitas.pt)
+ - date_published: 2024-12-20T15:50:39.267320+00:00
+
+ ## Casa Ermelinda Freitas
+ - [https://ermelindafreitas.pt](https://ermelindafreitas.pt)
+ - date_published: 2024-09-05T15:41:39.304807+00:00
+
+ ## Escolha Sustentável
+ - [https://escolhasustentavel.pt](https://escolhasustentavel.pt)
+ - date_published: 2024-12-20T12:07:48.257482+00:00
+
+ ## Livros usados | Livraria Alfarrabista
+ - [https://esconderijodoslivros.pt](https://esconderijodoslivros.pt)
+ - date_published: 2024-12-23T02:37:18+00:00
+
+ ## A Esfera dos Livros – Os livros são feitos para serem lidos
+ - [https://esferadoslivros.pt](https://esferadoslivros.pt)
+ - date_published: 2024-07-12T20:56:16.745130+00:00
+
+ ## ESOP
+ - [https://esop.pt](https://esop.pt)
+ - date_published: 2024-06-27T00:03:05+00:00
+
+ ## ESTAMO – Participações Imobiliárias, SA.
+ - [http://www.estamo.pt](http://www.estamo.pt)
+ - date_published: 2023-08-17T14:37:59+00:00
+
+ ## estampa.pt
+ - [http://www.estampa.pt](http://www.estampa.pt)
+ - date_published: 2024-12-31T19:36:33.380074+00:00
+
+ ## EUROC | EUROPEAN ROCKETRY CHALLENGE
+ - [https://euroc.pt](https://euroc.pt)
+ - date_published: 2024-10-14T21:16:53.818404+00:00
+
+ ## Eurogamer.pt
+ - [https://eurogamer.pt](https://eurogamer.pt)
+ - date_published: 2024-06-30T02:19:48.552768+00:00
+
+ ## Home - Europa-América Livros
+ - [http://europa-america.pt](http://europa-america.pt)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home - Europa-América Livros
+ - [https://europaamerica.pt](https://europaamerica.pt)
+ - date_published: 2024-12-20T15:51:48.748871+00:00
+
+ ## Alugue um automóvel ou carrinha comercial em todo o Mundo com a Europcar
+ - [https://europcar.pt](https://europcar.pt)
+ - date_published: 2024-10-20T14:12:52.114765+00:00
+
+ ## FAQ: Frequently Asked Questions - Europcar
+ - [https://faq.europcar.pt](https://faq.europcar.pt)
+ - date_published: 2024-12-20T08:07:57+00:00
+
+ ## Eventbrite
+ - [https://eventbrite.pt](https://eventbrite.pt)
+ - date_published: 2024-05-12T05:55:29.207508+00:00
+
+ ## Everything Is New | Um Mundo de Espetáculos a pensar em ti!
+ - [https://everythingisnew.pt](https://everythingisnew.pt)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## AdEvolutio | For Expansion
+ - [https://evolutio.pt](https://evolutio.pt)
+ - date_published: 2024-06-11T09:07:51.049071+00:00
+
+ ## Evolutio Pretix
+ - [https://pretix.evolutio.pt](https://pretix.evolutio.pt)
+ - date_published: 2024-06-11T09:08:01.134574+00:00
+
+ ## Notícia
+ - [https://www.exercito.pt](https://www.exercito.pt)
+ - date_published: 2024-12-20T15:51:12.673445+00:00
+
+ ## Boa Cama Boa Mesa
+ - [https://boacamaboamesa.expresso.pt](https://boacamaboamesa.expresso.pt)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Expresso
+ - [https://expresso.pt](https://expresso.pt)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Leitor Expresso
+ - [https://leitor.expresso.pt](https://leitor.expresso.pt)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## | Tribuna Expresso
+ - [https://tribuna.expresso.pt](https://tribuna.expresso.pt)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Expresso Emprego | A sua Carreira é o nosso Trabalho |
+ - [http://expressoemprego.pt](http://expressoemprego.pt)
+ - date_published: 2024-07-12T21:24:36.751121+00:00
+
+ ## Ezata Grupo - Seguros, Credit e Contabilidade
+ - [https://www.ezata.pt](https://www.ezata.pt)
+ - date_published: 2023-10-26T00:00:00+00:00
+
+ ## fabula-urbis.pt
+ - [https://fabula-urbis.pt](https://fabula-urbis.pt)
+ - date_published: 2024-12-23T14:13:33.584662+00:00
+
+ ## fabula-urbis.pt
+ - [http://www.fabula-urbis.pt](http://www.fabula-urbis.pt)
+ - date_published: 2024-12-23T14:11:44.198074+00:00
+
  ## Fundação Dr. António Cupertino de Miranda - Início
  - [http://www.facm.pt](http://www.facm.pt)
  - date_published: 2024-07-12T20:56:00.491303+00:00
@@ -391,7 +511,7 @@
  - date_published: 2024-07-04T00:00:00+00:00
 
  ## INESC TEC
- - [https://www.inesctec.pt](https://www.inesctec.pt)
+ - [https://inesctec.pt](https://inesctec.pt)
  - date_published: 2024-10-28T23:45:10.404281+00:00
 
  ## Infocasa - Líder na Informação Imobiliária
@@ -3888,127 +4008,4 @@
  ## iPhone Pre-order
  - [https://preorder.ooredoo.qa](https://preorder.ooredoo.qa)
  - date_published: 2024-09-12T07:44:24+00:00
-
- ## Login - Ooredoo
- - [https://selfcare.ooredoo.qa](https://selfcare.ooredoo.qa)
- - date_published: 2024-09-17T18:43:39.826155+00:00
-
- ## VDP
- - [https://vdp.ooredoo.qa](https://vdp.ooredoo.qa)
- - date_published: 2024-09-17T18:43:58.688405+00:00
-
- ## openQA, automated testing for operating systems
- - [http://open.qa](http://open.qa)
- - date_published: 2024-06-19T08:08:08+00:00
-
- ## PERI Qatar
- - [https://www.peri.qa](https://www.peri.qa)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Pink Lady® Apples | Pink Lady® Apples | النور واضح عليكِ، والطعم ساكن…
- - [https://www.pinkladyapples.qa](https://www.pinkladyapples.qa)
- - date_published: 2024-10-31T08:57:06.770983+00:00
-
- ## Women's Fashion Clothing & Dresses
- - [https://www.prettylittlething.qa](https://www.prettylittlething.qa)
- - date_published: 2024-10-20T14:11:30.056779+00:00
-
- ## Qatar Visa Check Online 2024 | QVC Qatar Visa Status Check
- - [https://qatarvisastatuscheck.qa](https://qatarvisastatuscheck.qa)
- - date_published: 2024-10-19T10:25:34.549754+00:00
-
- ## Qatar Digital Library
- - [https://qdl.qa](https://qdl.qa)
- - date_published: 2023-12-12T09:52:14.722364+00:00
- - tags: ['digital library']
-
- ## International School - SEK Qatar
- - [https://www.sek.qa](https://www.sek.qa)
- - date_published: 2024-10-15T17:54:17.267543+00:00
-
- ## Skyscanner
- - [https://www.skyscanner.qa](https://www.skyscanner.qa)
- - date_published: 2024-05-14T10:10:11+00:00
-
- ## Starlink Online - Your Link to Technology!
- - [https://www.starlink.qa](https://www.starlink.qa)
- - date_published: 2024-09-17T18:42:49.902626+00:00
-
- ## Careers - Virtuoso
- - [https://careers.virtuoso.qa](https://careers.virtuoso.qa)
- - date_published: 2024-10-30T20:55:52.236670+00:00
-
- ## Virtuoso Guide
- - [https://docs.virtuoso.qa](https://docs.virtuoso.qa)
- - date_published: 2024-10-30T07:46:23+00:00
-
- ## Virtuoso
- - [https://training.virtuoso.qa](https://training.virtuoso.qa)
- - date_published: 2024-10-30T20:56:07.694395+00:00
-
- ## QA Automation Testing Tool based on NLP, AI & Machine Learning | Virtuoso QA
- - [https://www.virtuoso.qa](https://www.virtuoso.qa)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Vodafone Qatar Telecom | Home Internet, Postpaid, Prepaid & more
- - [https://www.vodafone.qa](https://www.vodafone.qa)
- - date_published: 2024-09-17T18:42:25+00:00
-
- ## A2C | Association des Agences de Communication Créative
- - [https://a2c.quebec](https://a2c.quebec)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Forums du libre du Québec
- - [https://forumsdulibre.quebec](https://forumsdulibre.quebec)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Accueil - Mila
- - [https://mila.quebec](https://mila.quebec)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## http://www.okla.quebec
- - [https://okla.quebec](https://okla.quebec)
- - date_published: 2024-12-03T21:10:18+00:00
- - tags: ['art']
-
- ## Akkoma
- - [https://pouet.quebec](https://pouet.quebec)
- - date_published: 2024-07-10T08:51:54.574708+00:00
-
- ## 0xai.quest - Ta strona jest na sprzedaż! - 0xai Zasoby i informacje.
- - [https://0xai.quest](https://0xai.quest)
- - date_published: 2024-10-30T07:23:22+00:00
-
- ## Show HN: Android Dev Quest – A puzzle game solvable only using developer tools
- - [https://www.androiddev.quest](https://www.androiddev.quest)
- - date_published: 2024-11-16T13:49:53+00:00
-
- ## Arranger: A Role Puzzling Adventure
- - [https://arranger.quest](https://arranger.quest)
- - date_published: 2024-06-27T12:50:15.599811+00:00
-
- ## La Búsqueda del Escritor
- - [https://escritor.quest](https://escritor.quest)
- - date_published: 2024-05-10T05:28:59.701785+00:00
-
- ## The Forest
- - [https://forest.quest](https://forest.quest)
- - date_published: 2024-06-14T07:46:23.830699+00:00
- - tags: ['personal']
-
- ## .Quest Domain Names
- - [https://go.quest](https://go.quest)
- - date_published: 2024-06-17T07:45:06.530140+00:00
-
- ## GPU Quest
- - [https://gpu.quest](https://gpu.quest)
- - date_published: 2024-05-20T18:17:54.291379+00:00
-
- ## Hack the Treasure
- - [https://hackthetreasure.quest](https://hackthetreasure.quest)
- - date_published: 2024-06-20T15:20:39.169095+00:00
-
- ## HarleQuest!
- - [https://harle.quest](https://harle.quest)
- - date_published: 2024-04-07T13:45:43+00:00
 

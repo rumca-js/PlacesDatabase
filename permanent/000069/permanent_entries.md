@@ -1,3 +1,15 @@
+ ## Firefly The Travel Guy
+ - [http://fireflyafrica.blogspot.com](http://fireflyafrica.blogspot.com)
+ - date_published: 2024-12-08T08:19:19+00:00
+
+ ## Fire Megan McArdle
+ - [http://firemeganmcardle.blogspot.com](http://firemeganmcardle.blogspot.com)
+ - date_published: 2024-10-28T21:48:13+00:00
+
+ ## Fire on the Mountain
+ - [http://firemtn.blogspot.com](http://firemtn.blogspot.com)
+ - date_published: 2024-12-30T09:46:58+00:00
+
  ## Fires of Advent
  - [https://firesofadvent.blogspot.com](https://firesofadvent.blogspot.com)
  - date_published: 2024-10-07T04:56:08+00:00
@@ -4001,16 +4013,4 @@
  ## Have To Explode
  - [http://havetoexplode.blogspot.com](http://havetoexplode.blogspot.com)
  - date_published: 2024-10-21T04:00:53.218803+00:00
-
- ## Having Two Legs
- - [http://havingtwolegs.blogspot.com](http://havingtwolegs.blogspot.com)
- - date_published: 2024-03-23T18:22:45+00:00
-
- ## Having Writ
- - [http://havingwrit.blogspot.com](http://havingwrit.blogspot.com)
- - date_published: 2024-11-06T02:48:37+00:00
-
- ## Cry Havoc - and let loose the Bugs of War!
- - [http://havocbugsofwar.blogspot.com](http://havocbugsofwar.blogspot.com)
- - date_published: 2024-10-25T08:18:46+00:00
 

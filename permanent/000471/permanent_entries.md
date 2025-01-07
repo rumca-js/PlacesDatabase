@@ -1,3 +1,123 @@
+ ## Bennett Institute for Applied Data Science - University of Oxford
+ - [https://bennett.ox.ac.uk](https://bennett.ox.ac.uk)
+ - date_published: 2024-05-08T11:17:03.329283+00:00
+
+ ## Beyond Antibiotics: A Programme Grant funded by the Engineering and Physical Sciences Research Council (EPSRC), Institute of Biomedical Engineering, University of Oxford
+ - [https://beyondantibiotics.ox.ac.uk](https://beyondantibiotics.ox.ac.uk)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Home
+ - [https://blog.politics.ox.ac.uk](https://blog.politics.ox.ac.uk)
+ - date_published: 2024-06-24T07:39:08+00:00
+
+ ## Practical Ethics
+ - [https://blog.practicalethics.ox.ac.uk](https://blog.practicalethics.ox.ac.uk)
+ - date_published: 2023-10-25T22:49:17.344700+00:00
+
+ ## Bodleian Libraries blogs
+ - [https://blogs.bodleian.ox.ac.uk](https://blogs.bodleian.ox.ac.uk)
+ - date_published: 2023-12-22T21:18:28.167479+00:00
+
+ ## IT Services Blogs | thoughts from University of Oxford IT Services
+ - [https://blogs.it.ox.ac.uk](https://blogs.it.ox.ac.uk)
+ - date_published: 2024-06-17T18:19:46.475557+00:00
+
+ ## Blog Homepage | Oxford Law Blogs
+ - [https://blogs.law.ox.ac.uk](https://blogs.law.ox.ac.uk)
+ - date_published: 2024-06-17T18:23:05.336311+00:00
+
+ ## Blogs from the Museum of the History of Science - MHS Blogs
+ - [https://blogs.mhs.ox.ac.uk](https://blogs.mhs.ox.ac.uk)
+ - date_published: 2015-08-02T00:00:00+00:00
+
+ ## Index
+ - [http://blogs.some.ox.ac.uk](http://blogs.some.ox.ac.uk)
+ - date_published: 2024-06-17T18:18:06.239818+00:00
+
+ ## Digital Bodleian
+ - [http://bodley30.bodley.ox.ac.uk](http://bodley30.bodley.ox.ac.uk)
+ - date_published: 2024-10-20T05:28:21.179328+00:00
+
+ ## Language and Brain Laboratory
+ - [http://brainlab.clp.ox.ac.uk](http://brainlab.clp.ox.ac.uk)
+ - date_published: 2024-06-17T17:19:06+00:00
+
+ ## Homepage | Blavatnik School of Government
+ - [https://bsg.ox.ac.uk](https://bsg.ox.ac.uk)
+ - date_published: 2024-10-29T05:16:53.412541+00:00
+
+ ## Login to Canvas - University of Oxford
+ - [https://canvas.ox.ac.uk](https://canvas.ox.ac.uk)
+ - date_published: 2024-06-17T18:33:06.673535+00:00
+
+ ## Catherine's Correspondence / Home
+ - [https://catcor.seh.ox.ac.uk](https://catcor.seh.ox.ac.uk)
+ - date_published: 2024-10-20T06:38:34.248388+00:00
+
+ ## Home
+ - [https://chem.web.ox.ac.uk](https://chem.web.ox.ac.uk)
+ - date_published: 2024-06-17T09:04:02+00:00
+
+ ## Home
+ - [https://childcare.admin.ox.ac.uk](https://childcare.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:39:11+00:00
+
+ ## Home
+ - [https://clasoutreach.web.ox.ac.uk](https://clasoutreach.web.ox.ac.uk)
+ - date_published: 2024-06-13T20:38:41+00:00
+
+ ## Centre for Manuscript and Text Cultures
+ - [https://cmtc.queens.ox.ac.uk](https://cmtc.queens.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:51.204382+00:00
+
+ ## home
+ - [https://collegevacancies.web.ox.ac.uk](https://collegevacancies.web.ox.ac.uk)
+ - date_published: 2024-06-17T16:15:14+00:00
+
+ ## Home
+ - [https://communications.admin.ox.ac.uk](https://communications.admin.ox.ac.uk)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home
+ - [https://compliance.admin.ox.ac.uk](https://compliance.admin.ox.ac.uk)
+ - date_published: 2024-05-02T10:58:44.978006+00:00
+
+ ## Home
+ - [https://compliance.web.ox.ac.uk](https://compliance.web.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:09.942716+00:00
+
+ ## Keble College Oxford - Conferences, Events & Accommodation
+ - [https://conference.keble.ox.ac.uk](https://conference.keble.ox.ac.uk)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Oxford University Department for Continuing Education
+ - [https://conted.ox.ac.uk](https://conted.ox.ac.uk)
+ - date_published: 2024-06-17T18:20:09.492748+00:00
+
+ ## Home
+ - [https://core.web.ox.ac.uk](https://core.web.ox.ac.uk)
+ - date_published: 2024-06-17T15:06:24+00:00
+
+ ## IT training and digital skills
+ - [https://courses.it.ox.ac.uk](https://courses.it.ox.ac.uk)
+ - date_published: 2024-06-15T21:03:36+00:00
+
+ ## Home
+ - [https://csae.web.ox.ac.uk](https://csae.web.ox.ac.uk)
+ - date_published: 2024-10-20T06:16:33.852292+00:00
+
+ ## Home
+ - [https://ctl.ox.ac.uk](https://ctl.ox.ac.uk)
+ - date_published: 2024-06-11T09:42:12+00:00
+
+ ## Digital Bodleian
+ - [https://digital2.bodleian.ox.ac.uk](https://digital2.bodleian.ox.ac.uk)
+ - date_published: 2024-10-20T05:31:08.574131+00:00
+
+ ## Digital Bodleian
+ - [https://digital.bodleian.ox.ac.uk](https://digital.bodleian.ox.ac.uk)
+ - date_published: 2024-06-17T18:17:58.988745+00:00
+
  ## OxDNA
  - [https://dna.physics.ox.ac.uk](https://dna.physics.ox.ac.uk)
  - date_published: 2024-04-25T13:25:18+00:00
@@ -3894,124 +4014,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## Creative, Marketing & Digital Recruitment Agency | Aquent UK
  - [https://aquent.co.uk](https://aquent.co.uk)
  - date_published: 2023-02-22T15:58:03+00:00
-
- ## Arbigland Estate - Dumfries & Galloway Scotland
- - [http://www.arbiglandestate.co.uk](http://www.arbiglandestate.co.uk)
- - date_published: 2024-10-21T22:55:25.174398+00:00
-
- ## Arcadia – Homepage
- - [https://www.arcadia-books.co.uk](https://www.arcadia-books.co.uk)
- - date_published: 2024-10-21T03:16:22.699891+00:00
-
- ## Home - Arca Preservation
- - [https://arcapreservation.co.uk](https://arcapreservation.co.uk)
- - date_published: 2024-10-20T05:35:42.545650+00:00
-
- ## Arcas Web Design Edinburgh
- - [https://arcas.co.uk](https://arcas.co.uk)
- - date_published: 2024-10-20T04:05:48.070741+00:00
-
- ## Private baby scanning businesses now offer early pregnancy scans
- - [https://archealthrewards.co.uk](https://archealthrewards.co.uk)
- - date_published: 2023-04-26T10:34:42+00:00
-
- ## Shopify Experts Manchester | Archer Cooper
- - [https://www.archercooper.co.uk](https://www.archercooper.co.uk)
- - date_published: 2024-12-22T17:58:35.054340+00:00
-
- ## The complete directory of UK housing architects.
- - [https://architectdirectory.co.uk](https://architectdirectory.co.uk)
- - date_published: 2024-09-14T22:57:01.152618+00:00
-
- ## ArchitectHer
- - [https://www.architecther.co.uk](https://www.architecther.co.uk)
- - date_published: 2024-10-20T09:09:52.328266+00:00
-
- ## The Architects’ Journal
- - [http://www.architectsjournal.co.uk](http://www.architectsjournal.co.uk)
- - date_published: 2024-09-14T22:41:39.687534+00:00
-
- ## Homepage - Architecture Today
- - [http://www.architecturetoday.co.uk](http://www.architecturetoday.co.uk)
- - date_published: 2024-10-21T16:37:01.397771+00:00
-
- ## Archive - the magazine for RISC OS users
- - [https://www.archivemag.co.uk](https://www.archivemag.co.uk)
- - date_published: 2024-06-06T11:23:01+00:00
-
- ## Argos | Order online today for fast home delivery
- - [https://www.argos.co.uk](https://www.argos.co.uk)
- - date_published: 2024-06-25T19:24:27.058428+00:00
-
- ## Aria PC - Message to our customers
- - [https://www.aria.co.uk](https://www.aria.co.uk)
- - date_published: 2024-01-22T12:10:10+00:00
-
- ## https://www.ariababu.co.uk
- - [https://www.ariababu.co.uk](https://www.ariababu.co.uk)
- - date_published: 2024-01-29T23:01:39.484598+00:00
-
- ## Ariel Washing & Clothing Care Products | Ariel UK
- - [https://www.ariel.co.uk](https://www.ariel.co.uk)
- - date_published: 2024-06-18T09:10:36+00:00
-
- ## Armed Forces - Defence Suppliers Directory - Defence And Security Consultancy - Military Books - Armed Forces of Europe - Royal Navy - British Army - Royal Air Force - RAF - Defence News - Defence Projects
- - [http://www.armedforces.co.uk](http://www.armedforces.co.uk)
- - date_published: 2024-09-19T19:45:13.646555+00:00
-
- ## Shop | ARMREG
- - [https://armreg.co.uk](https://armreg.co.uk)
- - date_published: 2025-01-01T18:04:03+00:00
-
- ## Home
- - [https://www.armstrongwatson.co.uk](https://www.armstrongwatson.co.uk)
- - date_published: 2024-06-18T08:56:26.636333+00:00
-
- ## Next Project Coming Soon!
- - [https://chromium.arnoldthebat.co.uk](https://chromium.arnoldthebat.co.uk)
- - date_published: 2024-08-19T18:59:38+00:00
-
- ## Homepage - ARNS
- - [https://arns.co.uk](https://arns.co.uk)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Aroma King: Relaxing And Enjoyable Experience
- - [https://www.aromakingvape.co.uk](https://www.aromakingvape.co.uk)
- - date_published: 2024-10-28T07:27:46.297440+00:00
-
- ## Arora Medical Education | Pass UKMLA, PLAB, MSRA, MRCGP
- - [https://aroramedicaleducation.co.uk](https://aroramedicaleducation.co.uk)
- - date_published: 2024-04-16T10:18:41+00:00
-
- ## Around My Kitchen Table
- - [http://www.aroundmykitchentable.co.uk](http://www.aroundmykitchentable.co.uk)
- - date_published: 2024-11-22T00:00:00+00:00
-
- ## Search & Buy Train Tickets with Arriva Trains Wales for travel in Wales and UK
- - [http://www.arrivatrainswales.co.uk](http://www.arrivatrainswales.co.uk)
- - date_published: 2024-06-25T08:26:56+00:00
-
- ## Ars Technica
- - [https://arstechnica.co.uk](https://arstechnica.co.uk)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Paintings for Sale | Buy Original Art Online | Art2Arts
- - [https://www.art2arts.co.uk](https://www.art2arts.co.uk)
- - date_published: 2024-12-25T11:20:19.046735+00:00
-
- ## Arterton London | The Art of Desiderata
- - [https://arterton.co.uk](https://arterton.co.uk)
- - date_published: 2024-09-04T18:02:50.117850+00:00
-
- ## art-e-zine, play with art
- - [http://www.art-e-zine.co.uk](http://www.art-e-zine.co.uk)
- - date_published: 2023-12-19T13:01:30+00:00
-
- ## The Artificial Plants Shop
- - [https://artificialplants.co.uk](https://artificialplants.co.uk)
- - date_published: 2024-12-04T20:22:00.783852+00:00
-
- ## The Artists' Bond
- - [https://www.artistsbond.co.uk](https://www.artistsbond.co.uk)
- - date_published: 2024-07-10T09:42:36.504398+00:00
 

@@ -1,3 +1,36 @@
+ ## David Pereira, Product Leader with 15+ Years of Experience
+ - [https://d-pereira.com](https://d-pereira.com)
+ - date_published: 2024-06-15T09:30:06.109691+00:00
+
+ ## {DPHacks}
+ - [https://dphacks.com](https://dphacks.com)
+ - date_published: 2024-01-23T16:02:22+00:00
+ - tags: ['hardware tinkering', 'hardware hacking']
+
+ ## EA Gear Store | Official EA Gear Store | EA Store Merchandise
+ - [https://gear.dpipromo.com](https://gear.dpipromo.com)
+ - date_published: 2024-11-11T09:47:37.139534+00:00
+
+ ## DPI Merchandising, Inc. Newsroom
+ - [http://news.dpipromo.com](http://news.dpipromo.com)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Diederik P. (Durk) Kingma
+ - [http://dpkingma.com](http://dpkingma.com)
+ - date_published: 2024-05-17T10:30:59+00:00
+
+ ## DPL Home
+ - [http://www.dplwireless.com](http://www.dplwireless.com)
+ - date_published: 2024-12-11T06:26:53+00:00
+
+ ## Homepage
+ - [https://www.dpr.com](https://www.dpr.com)
+ - date_published: 2024-12-20T16:23:53+00:00
+
+ ## Digital Photography Review
+ - [https://dpreview.com](https://dpreview.com)
+ - date_published: 2023-10-25T13:58:06.498473+00:00
+
  ## Digital Photography Review
  - [http://forums.dpreview.com](http://forums.dpreview.com)
  - date_published: 2024-07-02T03:03:59.549626+00:00
@@ -1376,7 +1409,7 @@ Home Page, Genealogy, The Road News and Rumors, and Other Web sites  by Laurie M
  - date_published: 2024-08-05T19:15:48.761983+00:00
 
  ## 佛跳墙加速器(永久免费)
- - [http://www.dressandsuit.com](http://www.dressandsuit.com)
+ - [https://dressandsuit.com](https://dressandsuit.com)
  - date_published: 2024-10-29T08:10:01+00:00
 
  ## Dressrious - AI Outfit Planner And Fashion Advisor Managing Your Clothes, Outfits, Lookbook And Events |
@@ -3609,7 +3642,7 @@ Home Page, Genealogy, The Road News and Rumors, and Other Web sites  by Laurie M
  - date_published: 2024-08-03T00:00:00+00:00
 
  ## Duct Cleaning Experts | Air Duct Cleaning | Duct Cleaners | Dryer Vent Cleaning | Duct Cleaning | Ductwork | Ventilation Cleaning
- - [https://www.duct-cleaning-experts.com](https://www.duct-cleaning-experts.com)
+ - [https://duct-cleaning-experts.com](https://duct-cleaning-experts.com)
  - date_published: 2024-10-28T23:15:10.939145+00:00
 
  ## The L.E.A.D Flow Framework Course | Duct Tape Marketing Agency Network
@@ -4012,39 +4045,4 @@ Home Page, Genealogy, The Road News and Rumors, and Other Web sites  by Laurie M
  ## Dundurn
  - [https://www.dundurn.com](https://www.dundurn.com)
  - date_published: 2024-12-12T08:22:38.143725+00:00
-
- ## Attention Required! | Cloudflare
- - [https://dune.com](https://dune.com)
- - date_published: 2024-04-30T06:29:48.276829+00:00
- - tags: ['crypto', 'shady']
-
- ## Arrakis - The DUNE 2 page by Stefan Hendriks, hosted on FED2k
- - [https://arrakis.dune2k.com](https://arrakis.dune2k.com)
- - date_published: 2016-04-20T04:20:09+00:00
- - tags: ['dune 2', 'video game port', 'dune', 'open source', 'retro games']
-
- ## FED2k »
- - [https://dune2k.com](https://dune2k.com)
- - date_published: 2024-05-13T03:46:25.246507+00:00
- - tags: ['fan page', 'dune game', 'dune']
-
- ## FED2k Discussion
- - [http://forum.dune2k.com](http://forum.dune2k.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Dune2k.com Wiki
- - [http://wiki.dune2k.com](http://wiki.dune2k.com)
- - date_published: 2022-02-16T06:44:59+00:00
-
- ## Dune404
- - [https://www.dune404.com](https://www.dune404.com)
- - date_published: 2024-08-06T16:20:37.432504+00:00
-
- ## Silo Bleu | Résidence pour étudiants à Rennens
- - [https://web184fr-gerofinance.dunegestion.com](https://web184fr-gerofinance.dunegestion.com)
- - date_published: 2024-07-16T22:18:08.559801+00:00
-
- ## Student Place 4u - Logements pour étudiants
- - [https://web308fr-gerofinance.dunegestion.com](https://web308fr-gerofinance.dunegestion.com)
- - date_published: 2024-07-16T22:05:51.655170+00:00
 

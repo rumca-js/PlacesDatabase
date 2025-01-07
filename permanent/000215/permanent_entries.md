@@ -1,3 +1,63 @@
+ ## SlidePlayer - Upload and Share your PowerPoint presentations
+ - [https://slideplayer.com](https://slideplayer.com)
+ - date_published: 2024-05-06T13:27:53.658178+00:00
+
+ ## SliderUI
+ - [https://sliderui.com](https://sliderui.com)
+ - date_published: 2024-09-16T04:07:54.697073+00:00
+
+ ## International Slide Rule Museum
+ - [https://www.sliderulemuseum.com](https://www.sliderulemuseum.com)
+ - date_published: 2024-05-02T12:58:00.315576+00:00
+
+ ## Slides Help
+ - [https://help.slides.com](https://help.slides.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Log in | Slides
+ - [https://nikola-mitrovic.slides.com](https://nikola-mitrovic.slides.com)
+ - date_published: 2024-06-23T08:31:49.251110+00:00
+
+ ## Create and Share Presentations for Free | Slides
+ - [https://nuxtjs.slides.com](https://nuxtjs.slides.com)
+ - date_published: 2024-09-04T15:05:25.808535+00:00
+
+ ## Create and Share Presentations for Free | Slides
+ - [https://slides.com](https://slides.com)
+ - date_published: 2024-04-29T03:11:02.530078+00:00
+
+ ## SlideServe - Upload and Share Presentations Online
+ - [https://www.slideserve.com](https://www.slideserve.com)
+ - date_published: 2024-07-02T20:05:21.710235+00:00
+
+ ## Free Google Slides themes and Powerpoint templates | Slidesgo
+ - [https://slidesgo.com](https://slidesgo.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## SlideShare.net
+ - [https://slideshare.com](https://slideshare.com)
+ - date_published: 2024-04-30T06:05:04.449286+00:00
+
+ ## Home - Slide SJS
+ - [http://slidesjs.com](http://slidesjs.com)
+ - date_published: 2024-12-05T12:49:11+00:00
+
+ ## Home - Slide SJS
+ - [http://www.slidesjs.com](http://www.slidesjs.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## SlidesLive Recorder
+ - [https://recorder-v3.slideslive.com](https://recorder-v3.slideslive.com)
+ - date_published: 2024-07-13T03:20:35.310804+00:00
+
+ ## SlidesLive
+ - [https://slideslive.com](https://slideslive.com)
+ - date_published: 2024-06-20T05:55:16.642106+00:00
+
+ ## SlidesPilot
+ - [https://blog.slidespilot.com](https://blog.slidespilot.com)
+ - date_published: 2024-09-10T09:21:00+00:00
+
  ## AI Presentation Generator - PPT Maker, AI Image & Copilot, PDF & Word to PPT, Free PowerPoint & Google Slides Templates | SlidesPilot
  - [https://slidespilot.com](https://slidespilot.com)
  - date_published: 2024-06-14T09:00:42.414265+00:00
@@ -1906,7 +1966,7 @@
  - date_published: 2024-10-16T09:02:07.365461+00:00
 
  ## Smart Sleep Coach by Pampers™ | Baby Sleep Coach App
- - [https://www.smartsleepcoach.com](https://www.smartsleepcoach.com)
+ - [https://smartsleepcoach.com](https://smartsleepcoach.com)
  - date_published: 2024-10-29T06:13:11+00:00
 
  ## Smartstore E-Commerce Software Community
@@ -2235,7 +2295,7 @@
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## Action Figure Blues Forum
- - [http://actionfigureblues.smfforfree.com](http://actionfigureblues.smfforfree.com)
+ - [https://actionfigureblues.smfforfree.com](https://actionfigureblues.smfforfree.com)
  - date_published: 2024-10-29T00:57:39+00:00
 
  ## SMF Tricks - Free & Premium Themes & Mods for SMF
@@ -3971,65 +4031,4 @@
  ## Snowprint Studios - rich experiences for the everyday gamer
  - [https://snowprintstudios.com](https://snowprintstudios.com)
  - date_published: 2021-02-18T16:47:13+00:00
-
- ## Tacticus
- - [https://tacticus.help.snowprintstudios.com](https://tacticus.help.snowprintstudios.com)
- - date_published: 2024-07-06T23:04:15.663061+00:00
-
- ## SnowRunner Mods | SnowRunner Modhub PC
- - [https://snowrunnermods.com](https://snowrunnermods.com)
- - date_published: 2024-06-08T18:35:11+00:00
- - tags: ['video game mods']
-
- ## Snow Globe Community
- - [https://community.snowsoftware.com](https://community.snowsoftware.com)
- - date_published: 2023-10-10T14:46:37+00:00
-
- ## Complete Visibility for Modern IT
- - [https://www.snowsoftware.com](https://www.snowsoftware.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Home - Snow Valley Lodging
- - [https://snowvalleylodging.com](https://snowvalleylodging.com)
- - date_published: 2022-05-30T01:54:30+00:00
-
- ## Michael Snoyman - Strong Typing Advocate
- - [https://www.snoyman.com](https://www.snoyman.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## SnoZ Music - Beats and instrumentals for hip hop and focus
- - [https://snozmusic.com](https://snozmusic.com)
- - date_published: 2024-07-02T19:50:23.202679+00:00
-
- ## snpp.com
- - [http://snpp.com](http://snpp.com)
- - date_published: 2024-04-29T04:17:50.169363+00:00
-
- ## Prajwal S N
- - [https://snprajwal.com](https://snprajwal.com)
- - date_published: 2024-04-29T05:04:22.082491+00:00
-
- ## snptacticalvoting.com
- - [http://www.snptacticalvoting.com](http://www.snptacticalvoting.com)
- - date_published: 2024-10-21T12:47:36.529544+00:00
-
- ## Secured Network Services
- - [https://sns.com](https://sns.com)
- - date_published: 2024-10-13T08:36:18+00:00
-
- ## Welcome
- - [https://www.snstelecom.com](https://www.snstelecom.com)
- - date_published: 2024-09-14T09:59:40.116544+00:00
-
- ## SNTL Publishing: Wissenswerte bilden
- - [http://www.sntl-publishing.com](http://www.sntl-publishing.com)
- - date_published: 2024-07-24T07:56:11.087808+00:00
-
- ## Bushcraft, Military & Tactical Camping & Adventure Equipment | Snugpak
- - [https://snugpak.com](https://snugpak.com)
- - date_published: 2024-07-02T17:34:11.093583+00:00
-
- ## 대학신문
- - [http://www.snunews.com](http://www.snunews.com)
- - date_published: 2024-07-14T00:00:00+00:00
 

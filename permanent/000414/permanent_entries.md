@@ -1,3 +1,111 @@
+ ## Georgia Artificial Intelligence in Manufacturing Georgia AI in Manufacturing
+ - [https://georgiaaim.org](https://georgiaaim.org)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Georgia Aquarium | Open to the Public | Buy your tickets online | Visit Today
+ - [https://georgiaaquarium.org](https://georgiaaquarium.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Georgia Archives
+ - [https://georgiaarchives.org](https://georgiaarchives.org)
+ - date_published: 2024-07-22T02:14:19+00:00
+
+ ## GeorgiaCarry.org – The Leader in the Fight to Reclaim and Expand our Right to Bear Arms
+ - [https://georgiacarry.org](https://georgiacarry.org)
+ - date_published: 2024-07-03T23:57:14.548249+00:00
+
+ ## Film Industry Training & Education in GA - Georgia Film Academy
+ - [https://georgiafilmacademy.org](https://georgiafilmacademy.org)
+ - date_published: 2024-07-22T02:13:53.545192+00:00
+
+ ## Home - Georgia MBDA Business Center
+ - [https://georgiambdabusinesscenter.org](https://georgiambdabusinesscenter.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Find Online Degrees and Certificates - Georgia ONmyLINE
+ - [https://georgiaonmyline.org](https://georgiaonmyline.org)
+ - date_published: 2024-07-22T02:14:21.484118+00:00
+
+ ## Home - GeoScienceWorld
+ - [https://community.geoscienceworld.org](https://community.geoscienceworld.org)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## GeoScienceWorld
+ - [https://geoscienceworld.org](https://geoscienceworld.org)
+ - date_published: 2024-07-15T03:01:47.034408+00:00
+
+ ## GeoScienceWorld
+ - [http://pubs.geoscienceworld.org](http://pubs.geoscienceworld.org)
+ - date_published: 2023-10-25T21:24:38.489509+00:00
+
+ ## GeoServer Documentation
+ - [https://docs.geoserver.org](https://docs.geoserver.org)
+ - date_published: 2024-08-18T07:54:14+00:00
+
+ ## GeoServer
+ - [https://geoserver.org](https://geoserver.org)
+ - date_published: 2023-10-25T21:24:39.577688+00:00
+
+ ## Home - Geological Society of America
+ - [https://community.geosociety.org](https://community.geosociety.org)
+ - date_published: 2022-12-05T00:00:00+00:00
+
+ ## Geological Society of America
+ - [https://geosociety.org](https://geosociety.org)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Geological Society of America
+ - [https://rock.geosociety.org](https://rock.geosociety.org)
+ - date_published: 2024-07-02T14:48:34.087263+00:00
+
+ ## Store
+ - [https://store.geosociety.org](https://store.geosociety.org)
+ - date_published: 2024-07-02T14:48:32.485838+00:00
+
+ ## Gephi - The Open Graph Viz Platform
+ - [https://gephi.org](https://gephi.org)
+ - date_published: 2023-06-25T16:11:38+00:00
+
+ ## Gerald R. Ford Presidential Foundation
+ - [https://geraldrfordfoundation.org](https://geraldrfordfoundation.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## news-id.gerejayesuskristus.org
+ - [https://news-id.gerejayesuskristus.org](https://news-id.gerejayesuskristus.org)
+ - date_published: 2024-05-11T09:04:13.757872+00:00
+
+ ## Geriatrics Care | Geriatric Resources | Online events | Updates - Geriatrics Care Online
+ - [http://geriatricscareonline.org](http://geriatricscareonline.org)
+ - date_published: 2024-12-14T21:03:28.722095+00:00
+
+ ## A Geriatrics and Palliative Care Podcast for Every Healthcare Professional
+ - [http://www.geripal.org](http://www.geripal.org)
+ - date_published: 2025-01-01T18:25:59.983777+00:00
+
+ ## GERiT: German Research Institutions | DFG
+ - [https://gerit.org](https://gerit.org)
+ - date_published: 2024-07-24T03:43:31.554255+00:00
+
+ ## Startseite | Germanwatch e.V.
+ - [https://germanwatch.org](https://germanwatch.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://statistik.germanwatch.org](https://statistik.germanwatch.org)
+ - date_published: 2024-07-02T17:59:28.485852+00:00
+
+ ## AHCA/NCAL Gerontological Nurse Certification Prep Course
+ - [https://geronurseprep.org](https://geronurseprep.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Info Omi88 - Fact About Casino Rate - Casino Games Online
+ - [http://www.ges2015.org](http://www.ges2015.org)
+ - date_published: 2024-11-08T11:36:32.849150+00:00
+
+ ## GESAMP | Home
+ - [https://gesamp.org](https://gesamp.org)
+ - date_published: 2024-10-14T23:13:01.115739+00:00
+
  ## Global enabling Sustainability Initiative (GeSI)
  - [https://www.gesi.org](https://www.gesi.org)
  - date_published: 2024-12-16T13:11:55.687257+00:00
@@ -7,7 +115,7 @@
  - date_published: 2024-07-21T02:17:23.948611+00:00
 
  ## Home - Get a Game Plan
- - [http://getagameplan.org](http://getagameplan.org)
+ - [https://getagameplan.org](https://getagameplan.org)
  - date_published: 2020-02-27T00:00:00+00:00
 
  ## Index | Blades
@@ -32,7 +140,7 @@
  - date_published: 2024-01-24T20:53:45.077098+00:00
 
  ## A tool to claim the Advance Child Tax Credit
- - [https://www.getctc.org](https://www.getctc.org)
+ - [https://getctc.org](https://getctc.org)
  - date_published: 2024-08-19T10:49:14.785183+00:00
 
  ## Doks – Build a Docs Site
@@ -52,8 +160,8 @@
  - date_published: 2024-09-02T13:05:35.397369+00:00
 
  ## Flamingo - Nostr browser extension
- - [https://www.getflamingo.org](https://www.getflamingo.org)
- - date_published: 2024-08-18T22:04:35.848310+00:00
+ - [https://getflamingo.org](https://getflamingo.org)
+ - date_published: 2024-01-25T04:43:44+00:00
 
  ## Get Glasgow Moving
  - [https://getglasgowmoving.org](https://getglasgowmoving.org)
@@ -137,7 +245,7 @@
  - date_published: 2024-07-09T10:03:35.151387+00:00
 
  ## Tracks
- - [https://www.getontracks.org](https://www.getontracks.org)
+ - [https://getontracks.org](https://getontracks.org)
  - date_published: 2024-06-17T10:39:34+00:00
 
  ## Outline VPN - Access to the free and open internet
@@ -149,7 +257,7 @@
  - date_published: 2024-07-24T07:12:53.128349+00:00
 
  ## Gato GraphQL
- - [https://getpop.org](https://getpop.org)
+ - [http://getpop.org](http://getpop.org)
  - date_published: 2024-06-23T02:01:40.282941+00:00
 
  ## Welcome    [POPFile Documentation Project]
@@ -165,7 +273,7 @@
  - date_published: 2024-10-29T11:20:26+00:00
 
  ## GetReligion
- - [http://www.getreligion.org](http://www.getreligion.org)
+ - [https://getreligion.org](https://getreligion.org)
  - date_published: 2024-06-28T20:53:49.841365+00:00
 
  ## Get Rich Slowly - Personal finance that makes sense
@@ -173,7 +281,7 @@
  - date_published: 2018-10-16T21:17:05+00:00
 
  ## Get Safe Online | The UK's leading Online Safety Advice Resource
- - [http://www.getsafeonline.org](http://www.getsafeonline.org)
+ - [https://getsafeonline.org](https://getsafeonline.org)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## Session | Send Messages, Not Metadata. | Private Messenger
@@ -213,7 +321,7 @@
  - date_published: 2024-10-17T17:28:56.154816+00:00
 
  ## Get Your Shit Together -
- - [http://getyourshittogether.org](http://getyourshittogether.org)
+ - [https://getyourshittogether.org](https://getyourshittogether.org)
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## Zola
@@ -226,7 +334,7 @@
  - date_published: 2024-04-30T04:56:39.707370+00:00
 
  ## GFA World
- - [http://www.gfa.org](http://www.gfa.org)
+ - [https://gfa.org](https://gfa.org)
  - date_published: 2024-07-04T18:09:31.864938+00:00
  - tags: ['organisation', 'charity']
 
@@ -273,7 +381,7 @@
  - date_published: 2020-12-09T20:13:33+00:00
 
  ## The Good Food Institute Asia Pacific
- - [https://www.gfi-apac.org](https://www.gfi-apac.org)
+ - [https://gfi-apac.org](https://gfi-apac.org)
  - date_published: 2022-04-27T21:26:04+00:00
 
  ## GFI Europe – the Good Food Institute Europe - GFI Europe
@@ -301,7 +409,7 @@
  - date_published: 2024-12-13T03:30:32.555855+00:00
 
  ## Chamber of Commerce for Businesses in Montgomery County, MD
- - [http://www.ggchamber.org](http://www.ggchamber.org)
+ - [https://ggchamber.org](https://ggchamber.org)
  - date_published: 2024-07-20T05:43:19.841354+00:00
 
  ## Gardens of Golden Gate Park: Official
@@ -309,11 +417,11 @@
  - date_published: 2024-09-03T00:00:00+00:00
 
  ## Home
- - [https://ggjnext.org](https://ggjnext.org)
+ - [http://ggjnext.org](http://ggjnext.org)
  - date_published: 2024-01-28T00:00:00+00:00
 
  ## GGOS - Global Geodetic Observing System
- - [http://www.ggos.org](http://www.ggos.org)
+ - [https://ggos.org](https://ggos.org)
  - date_published: 2024-07-08T11:14:40+00:00
 
  ## ggplot2: Elegant Graphics for Data Analysis (3e)
@@ -321,11 +429,11 @@
  - date_published: 2024-05-08T09:34:36.816163+00:00
 
  ## GGSoft start page
- - [https://ggsoft.org](https://ggsoft.org)
+ - [http://ggsoft.org](http://ggsoft.org)
  - date_published: 2024-05-09T08:46:47.237718+00:00
 
  ## Greater Greater Washington
- - [https://ggwash.org](https://ggwash.org)
+ - [http://ggwash.org](http://ggwash.org)
  - date_published: 2024-05-01T08:40:15.890155+00:00
 
  ## Home
@@ -337,15 +445,15 @@
  - date_published: 2024-07-18T05:22:12+00:00
 
  ## GH Archive
- - [https://www.gharchive.org](https://www.gharchive.org)
+ - [https://gharchive.org](https://gharchive.org)
  - date_published: 2024-05-06T09:08:04.770332+00:00
 
  ## ghazali.org – a virtual online library
- - [http://www.ghazali.org](http://www.ghazali.org)
+ - [https://ghazali.org](https://ghazali.org)
  - date_published: 2024-07-02T05:39:54.130873+00:00
 
  ## Ghetto Film School | Home
- - [https://www.ghettofilm.org](https://www.ghettofilm.org)
+ - [https://ghettofilm.org](https://ghettofilm.org)
  - date_published: 2024-09-15T09:41:05.044312+00:00
 
  ## Ghidra
@@ -354,15 +462,15 @@
  - tags: ['reverse engineering', 'nsa', 'windows']
 
  ## Paulo Ghiraldelli
- - [http://ghiraldelli.org](http://ghiraldelli.org)
+ - [https://ghiraldelli.org](https://ghiraldelli.org)
  - date_published: 2024-07-01T06:41:17+00:00
 
  ## GHI World Congress 2025 – Connecting Food Security, Safety, Health and Sustainability – Challenges Ahead
- - [https://www.ghiworldcongress.org](https://www.ghiworldcongress.org)
+ - [https://ghiworldcongress.org](https://ghiworldcongress.org)
  - date_published: 2024-10-19T23:05:24.342106+00:00
 
  ## Home - GHLF.org
- - [https://www.ghlf.org](https://www.ghlf.org)
+ - [https://ghlf.org](https://ghlf.org)
  - date_published: 2024-03-20T00:00:00+00:00
 
  ## Ghost: Sign up
@@ -438,11 +546,11 @@
  - date_published: 2023-10-25T21:24:45.901586+00:00
 
  ## Governors Highway Safety Association
- - [http://my.ghsa.org](http://my.ghsa.org)
+ - [https://my.ghsa.org](https://my.ghsa.org)
  - date_published: 2024-08-18T19:06:15.445297+00:00
 
  ## Governors Highway Safety Association | GHSA Annual Meeting
- - [https://www.ghsameeting.org](https://www.ghsameeting.org)
+ - [https://ghsameeting.org](https://ghsameeting.org)
  - date_published: 2024-08-18T19:06:12.768290+00:00
 
  ## Cyber Security Certifications | GIAC Certifications
@@ -454,7 +562,7 @@
  - date_published: 2024-01-09T00:00:00+00:00
 
  ## Science is Cool : Les actions scolaires scientifiques du campus GIANT
- - [http://www.giantatschool.org](http://www.giantatschool.org)
+ - [https://giantatschool.org](https://giantatschool.org)
  - date_published: 2024-07-03T05:37:37.184400+00:00
 
  ## GIANT campus
@@ -462,7 +570,7 @@
  - date_published: 2024-05-08T00:27:01.865279+00:00
 
  ## For expertise in digital preservation
- - [http://www.giaretta.org](http://www.giaretta.org)
+ - [http://giaretta.org](http://giaretta.org)
  - date_published: 2024-07-17T03:05:11.255870+00:00
 
  ## Gibberfish Social
@@ -478,7 +586,7 @@
  - date_published: 2024-05-21T04:09:31+00:00
 
  ## Gibiris, by Éibhear Ó hAnluain
- - [https://www.gibiris.org](https://www.gibiris.org)
+ - [https://gibiris.org](https://gibiris.org)
  - date_published: 2024-07-27T21:11:32+00:00
 
  ## Marek Gibney
@@ -486,11 +594,11 @@
  - date_published: 2023-10-13T12:53:46+00:00
 
  ## Gibson Foundation|Gibson Gives
- - [https://www.gibsonfoundation.org](https://www.gibsonfoundation.org)
+ - [https://gibsonfoundation.org](https://gibsonfoundation.org)
  - date_published: 2024-08-11T03:51:50.681440+00:00
 
  ## GIC Homepage
- - [https://www.gic.org](https://www.gic.org)
+ - [https://gic.org](https://gic.org)
  - date_published: 2024-06-23T07:54:00+00:00
 
  ## Who's That Pokemon?
@@ -498,7 +606,7 @@
  - date_published: 2024-09-01T22:53:38+00:00
 
  ## Global Indigenous Data Alliance
- - [https://www.gida-global.org](https://www.gida-global.org)
+ - [https://gida-global.org](https://gida-global.org)
  - date_published: 2024-06-28T22:10:12.033016+00:00
 
  ## gifcities.org by Internet Archive – search for GIFs scraped off geocities sites
@@ -511,7 +619,7 @@
  - date_published: 2024-06-06T15:34:54+00:00
 
  ## ArtículosGiffmex —
- - [http://recursos.giffmex.org](http://recursos.giffmex.org)
+ - [https://recursos.giffmex.org](https://recursos.giffmex.org)
  - date_published: 2019-09-13T19:47:03+00:00
 
  ## Home
@@ -523,7 +631,7 @@
  - date_published: 2024-10-29T17:31:52.895233+00:00
 
  ## Gift of Jazz Home Page | Colorado Jazz Nonprofit since 1995
- - [http://www.giftofjazz.org](http://www.giftofjazz.org)
+ - [https://giftofjazz.org](https://giftofjazz.org)
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## Cornell Lab of Ornithology Planned Giving :: Welcome to Gift Planning
@@ -567,7 +675,7 @@
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## GIGA！無料通信
- - [https://www.gigafree.org](https://www.gigafree.org)
+ - [https://gigafree.org](https://gigafree.org)
  - date_published: 2024-04-30T06:13:14+00:00
 
  ## (no title)
@@ -949,7 +1057,7 @@
  - date_published: 2024-04-15T00:00:00+00:00
 
  ## Home
- - [http://www.gjournals.org](http://www.gjournals.org)
+ - [https://gjournals.org](https://gjournals.org)
  - date_published: 2024-10-29T01:56:37+00:00
 
  ## Georgia Justice Project - Transforming Our Community
@@ -1141,7 +1249,7 @@
  - date_published: 2024-12-30T03:02:49+00:00
 
  ## GAAD
- - [http://globalaccessibilityawarenessday.org](http://globalaccessibilityawarenessday.org)
+ - [https://globalaccessibilityawarenessday.org](https://globalaccessibilityawarenessday.org)
  - date_published: 2024-10-29T10:20:25.311715+00:00
 
  ## The GAIN Summit
@@ -3941,113 +4049,4 @@
  ## TechForge Academy: Forging Futures in Technology
  - [https://griftec.org](https://griftec.org)
  - date_published: 2024-12-13T03:29:43.242035+00:00
-
- ## Pavel Grinfeld
- - [https://grinfeld.org](https://grinfeld.org)
- - date_published: 2023-01-05T22:12:08+00:00
-
- ## GripTape Challenge - Learn How and What You Want
- - [https://griptape.org](https://griptape.org)
- - date_published: 2023-10-25T21:27:16.108644+00:00
-
- ## Duncan Grisby
- - [https://grisby.org](https://grisby.org)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Join me in supporting Grist’s award-winning reporting
- - [https://donate.grist.org](https://donate.grist.org)
- - date_published: 2024-07-14T13:42:21.371261+00:00
-
- ## Grist.org: Climate. Justice. Solutions. | Grist
- - [https://grist.org](https://grist.org)
- - date_published: 2023-10-25T21:27:20.287221+00:00
-
- ## Project Explorer
- - [https://grit-benchmark.org](https://grit-benchmark.org)
- - date_published: 2024-02-07T21:49:10+00:00
-
- ## Alumni
- - [https://grizalum.org](https://grizalum.org)
- - date_published: 2024-07-07T10:43:13.049098+00:00
-
- ## HOME
- - [https://www.grizzlydiscoveryctr.org](https://www.grizzlydiscoveryctr.org)
- - date_published: 2024-09-26T18:07:33.857602+00:00
-
- ## Grml Blog
- - [https://blog.grml.org](https://blog.grml.org)
- - date_published: 2023-10-25T08:32:20.640698+00:00
-
- ## grml.org: daily grml snapshots / builds
- - [https://daily.grml.org](https://daily.grml.org)
- - date_published: 2024-08-17T17:10:33+00:00
-
- ## grml.org - Debian Live system / CD for sysadmins and texttool-users
- - [https://grml.org](https://grml.org)
- - date_published: 2024-04-02T14:52:16+00:00
- - tags: ['debian']
-
- ## planet grml
- - [https://planet.grml.org](https://planet.grml.org)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## start [GrmlWiki]
- - [https://wiki.grml.org](https://wiki.grml.org)
- - date_published: 2024-07-09T14:44:54.083925+00:00
-
- ## Green Software Foundation
- - [https://grnsft.org](https://grnsft.org)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Chào mừng bạn đến TCSN
- - [http://www.grobots.org](http://www.grobots.org)
- - date_published: 2024-06-29T22:27:32.126187+00:00
-
- ## Gronert Lab
- - [https://gronertlabberkeley.org](https://gronertlabberkeley.org)
- - date_published: 2024-07-22T07:36:34.734690+00:00
-
- ## The Apache Groovy programming language
- - [https://groovy-lang.org](https://groovy-lang.org)
- - date_published: 2024-07-23T22:48:46.930576+00:00
-
- ## Welcome to grothoff.org!
- - [https://grothoff.org](https://grothoff.org)
- - date_published: 2018-12-16T17:22:24+00:00
-
- ## Ground Game Los Angeles
- - [https://groundgamela.org](https://groundgamela.org)
- - date_published: 2024-05-11T11:25:33.893055+00:00
-
- ## Home Page - Grounds For Sculpture
- - [http://www.groundsforsculpture.org](http://www.groundsforsculpture.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Our energy futures...
- - [https://groundswell.org](https://groundswell.org)
- - date_published: 2024-08-19T05:54:07.872744+00:00
-
- ## Groundwater Exchange
- - [https://groundwaterexchange.org](https://groundwaterexchange.org)
- - date_published: 2024-07-08T11:55:03.488162+00:00
-
- ## Groundwork Collaborative
- - [https://groundworkcollaborative.org](https://groundworkcollaborative.org)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Président du Groupe de la Banque mondiale : Ajay Banga
- - [https://president.groupebanquemondiale.org](https://president.groupebanquemondiale.org)
- - date_published: 2024-07-15T15:06:34+00:00
-
- ## Entreprendre au profit de tous - Groupe SOS
- - [https://www.groupe-sos.org](https://www.groupe-sos.org)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Home - Inatai Foundation
- - [https://grouphealthfoundation.org](https://grouphealthfoundation.org)
- - date_published: 2023-06-05T17:46:09+00:00
-
- ## GroupLens
- - [http://grouplens.org](http://grouplens.org)
- - date_published: 2024-06-30T10:05:10.952366+00:00
 

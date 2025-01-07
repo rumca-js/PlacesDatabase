@@ -1,3 +1,7 @@
+ ## alternatyves Art and Creative direction Portfolio
+ - [https://alternatyves.com](https://alternatyves.com)
+ - date_published: 2024-01-16T00:00:00+00:00
+
  ## Boost Your Online Presence with Expert Digital Marketing
  - [https://www.alternewmedia.com](https://www.alternewmedia.com)
  - date_published: 2018-01-19T01:09:31+00:00
@@ -1107,7 +1111,7 @@
  - date_published: 2024-06-19T09:43:57.378974+00:00
 
  ## Home - Amazing Stories
- - [http://amazingstoriesmag.com](http://amazingstoriesmag.com)
+ - [https://amazingstoriesmag.com](https://amazingstoriesmag.com)
  - date_published: 2024-10-29T02:50:56.283896+00:00
 
  ## Amazing Travel News – for Amazing Travelers looking for Amazing Travel Experiences
@@ -4044,8 +4048,4 @@
  ## Anagram Laboratories operated by Thomas A. Berson
  - [https://www.anagram.com](https://www.anagram.com)
  - date_published: 2024-07-04T18:42:50.138889+00:00
-
- ## Taboo's Homepage
- - [https://analblaze.com](https://analblaze.com)
- - date_published: 2015-07-06T03:58:48+00:00
 

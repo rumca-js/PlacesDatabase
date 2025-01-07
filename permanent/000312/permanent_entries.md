@@ -1,3 +1,91 @@
+ ## Loodus- ja täppisteaduste valdkond
+ - [http://reaalteadused.ut.ee](http://reaalteadused.ut.ee)
+ - date_published: 2024-12-11T01:00:48+00:00
+
+ ## Sandbox
+ - [https://sandbox.cs.ut.ee](https://sandbox.cs.ut.ee)
+ - date_published: 2024-12-11T16:23:11.737629+00:00
+
+ ## Software Engineering Group
+ - [https://sep.cs.ut.ee](https://sep.cs.ut.ee)
+ - date_published: 2024-07-07T10:18:06.874093+00:00
+
+ ## Sisu@UT
+ - [https://sisu.ut.ee](https://sisu.ut.ee)
+ - date_published: 2024-07-02T22:22:14+00:00
+
+ ## Skytte avaleht
+ - [https://skytte.ut.ee](https://skytte.ut.ee)
+ - date_published: 2024-12-11T01:55:43+00:00
+
+ ## Esileht
+ - [https://sotsiaalteadused.ut.ee](https://sotsiaalteadused.ut.ee)
+ - date_published: 2024-12-11T02:01:06+00:00
+
+ ## Sporditeaduste ja füsioteraapia instituut
+ - [https://sporditeadused.ut.ee](https://sporditeadused.ut.ee)
+ - date_published: 2024-12-11T02:00:30+00:00
+
+ ## Teaduskool
+ - [https://teaduskool.ut.ee](https://teaduskool.ut.ee)
+ - date_published: 2022-03-05T13:53:00+00:00
+
+ ## Peremeditsiini ja rahvatervishoiu instituut
+ - [https://tervis.ut.ee](https://tervis.ut.ee)
+ - date_published: 2021-11-23T12:57:00+00:00
+
+ ## Esileht
+ - [https://tuit.ut.ee](https://tuit.ut.ee)
+ - date_published: 2024-10-19T06:21:25.694770+00:00
+
+ ## Tartu Ülikooli molekulaar- ja rakubioloogia instituut
+ - [https://tymri.ut.ee](https://tymri.ut.ee)
+ - date_published: 2024-12-11T01:57:48+00:00
+
+ ## Avaleht
+ - [https://tyye.ut.ee](https://tyye.ut.ee)
+ - date_published: 2024-12-11T01:54:40+00:00
+
+ ## Avaleht
+ - [https://uhiskond.ut.ee](https://uhiskond.ut.ee)
+ - date_published: 2024-12-11T01:45:24+00:00
+
+ ## Usuteaduskond
+ - [https://usuteaduskond.ut.ee](https://usuteaduskond.ut.ee)
+ - date_published: 2021-11-30T15:54:00+00:00
+
+ ## Avaleht
+ - [https://ut.ee](https://ut.ee)
+ - date_published: 2024-12-11T00:05:09+00:00
+
+ ## Avaleht
+ - [https://utlib.ut.ee](https://utlib.ut.ee)
+ - date_published: 2024-12-11T01:55:13+00:00
+
+ ## VKA esileht
+ - [https://viljandi.ut.ee](https://viljandi.ut.ee)
+ - date_published: 2024-12-11T01:57:28+00:00
+
+ ## University of Tartu Virtual Tour
+ - [https://virtualtour.ut.ee](https://virtualtour.ut.ee)
+ - date_published: 2024-12-11T01:57:29.627615+00:00
+
+ ## Dashboard - TÜ Wiki
+ - [https://wiki.ut.ee](https://wiki.ut.ee)
+ - date_published: 2024-06-19T07:43:56.623452+00:00
+
+ ## Avaleht
+ - [https://yti.ut.ee](https://yti.ut.ee)
+ - date_published: 2024-12-11T01:45:24+00:00
+
+ ## Vaimupuu - Vaimupuu ühendab Vaimustavaid Inimesi
+ - [https://vaimupuu.ee](https://vaimupuu.ee)
+ - date_published: 2020-11-08T02:18:14+00:00
+
+ ## https://raport.valisluureamet.ee
+ - [https://raport.valisluureamet.ee](https://raport.valisluureamet.ee)
+ - date_published: 2024-01-09T03:29:09.650872+00:00
+
  ## Avaleht – EIS
  - [https://eelnoud.valitsus.ee](https://eelnoud.valitsus.ee)
  - date_published: 2024-07-02T16:58:32.159226+00:00
@@ -3946,92 +4034,4 @@
  ## Cataloxy Las Palmas  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en  provincia de Las Palmas
  - [https://las-palmas-provincia.cataloxy.es](https://las-palmas-provincia.cataloxy.es)
  - date_published: 2024-12-11T13:30:34.462145+00:00
-
- ## Cataloxy Lucena  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Lucena
- - [https://lucena.cataloxy.es](https://lucena.cataloxy.es)
- - date_published: 2024-12-11T13:31:33.051778+00:00
-
- ## Cataloxy Lugo  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Lugo
- - [https://lugo.cataloxy.es](https://lugo.cataloxy.es)
- - date_published: 2024-12-11T13:31:34.836575+00:00
-
- ## Cataloxy Madrid  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Madrid
- - [https://madrid.cataloxy.es](https://madrid.cataloxy.es)
- - date_published: 2024-12-11T13:30:04.087824+00:00
-
- ## Cataloxy Madrid  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en  provincia de Madrid
- - [https://madrid-provincia.cataloxy.es](https://madrid-provincia.cataloxy.es)
- - date_published: 2024-12-11T13:31:47.124431+00:00
-
- ## Cataloxy Mairena del Aljarafe  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Mairena del Aljarafe
- - [https://mairena-del-aljarafe.cataloxy.es](https://mairena-del-aljarafe.cataloxy.es)
- - date_published: 2024-12-11T13:30:50.325579+00:00
-
- ## Cataloxy Majadahonda  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Majadahonda
- - [https://majadahonda.cataloxy.es](https://majadahonda.cataloxy.es)
- - date_published: 2024-12-11T13:29:25.768389+00:00
-
- ## Cataloxy Málaga  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Málaga
- - [https://malaga.cataloxy.es](https://malaga.cataloxy.es)
- - date_published: 2024-12-11T13:30:01.250272+00:00
-
- ## Cataloxy Málaga  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en  provincia de Málaga
- - [https://malaga-provincia.cataloxy.es](https://malaga-provincia.cataloxy.es)
- - date_published: 2024-12-11T13:30:36.291146+00:00
-
- ## Cataloxy Marbella  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Marbella
- - [https://marbella.cataloxy.es](https://marbella.cataloxy.es)
- - date_published: 2024-12-11T13:29:24.342656+00:00
-
- ## Cataloxy Molina de Segura  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Molina de Segura
- - [https://molina-de-segura.cataloxy.es](https://molina-de-segura.cataloxy.es)
- - date_published: 2024-12-11T13:31:15.566620+00:00
-
- ## Cataloxy Montcada i Reixac  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Montcada i Reixac
- - [https://montcada-i-reixac.cataloxy.es](https://montcada-i-reixac.cataloxy.es)
- - date_published: 2024-12-11T13:31:21.573692+00:00
-
- ## Cataloxy Móstoles  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Móstoles
- - [https://mostoles.cataloxy.es](https://mostoles.cataloxy.es)
- - date_published: 2024-12-11T13:29:51.584028+00:00
-
- ## Cataloxy Murcia  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Murcia
- - [https://murcia.cataloxy.es](https://murcia.cataloxy.es)
- - date_published: 2024-12-11T13:31:26.642274+00:00
-
- ## Cataloxy Murcia  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en  provincia de Murcia
- - [https://murcia-provincia.cataloxy.es](https://murcia-provincia.cataloxy.es)
- - date_published: 2024-12-11T13:29:44.958739+00:00
-
- ## Cataloxy Naron  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Naron
- - [https://naron.cataloxy.es](https://naron.cataloxy.es)
- - date_published: 2024-12-11T13:30:56.787143+00:00
-
- ## Cataloxy Navarra  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en  provincia de Navarra
- - [https://navarra-provincia.cataloxy.es](https://navarra-provincia.cataloxy.es)
- - date_published: 2024-12-11T13:29:41.536281+00:00
-
- ## Cataloxy Oliva  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Oliva
- - [https://oliva.cataloxy.es](https://oliva.cataloxy.es)
- - date_published: 2024-12-11T13:29:35.341824+00:00
-
- ## Cataloxy Onda  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Onda
- - [https://onda.cataloxy.es](https://onda.cataloxy.es)
- - date_published: 2024-12-11T13:30:26.539354+00:00
-
- ## Cataloxy O Porriño  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en O Porriño
- - [https://o-porrino.cataloxy.es](https://o-porrino.cataloxy.es)
- - date_published: 2024-12-11T13:31:28.225216+00:00
-
- ## Cataloxy Oviedo  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Oviedo
- - [https://oviedo.cataloxy.es](https://oviedo.cataloxy.es)
- - date_published: 2024-12-11T13:29:27.601573+00:00
-
- ## Cataloxy Palma de Mallorca  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Palma de Mallorca
- - [https://palma-de-mallorca.cataloxy.es](https://palma-de-mallorca.cataloxy.es)
- - date_published: 2024-12-11T13:30:09.996300+00:00
-
- ## Cataloxy Pamplona / Iruña  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Pamplona / Iruña
- - [https://pamplona--iruna.cataloxy.es](https://pamplona--iruna.cataloxy.es)
- - date_published: 2024-12-11T13:31:42.811039+00:00
 

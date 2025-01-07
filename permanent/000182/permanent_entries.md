@@ -1,3 +1,59 @@
+ ## నాస్ట్ అడ్రస్ (NIP-05) ఐడెంటిఫైయర్ & రిలే
+ - [https://te.nostraddress.com](https://te.nostraddress.com)
+ - date_published: 2024-09-17T07:06:05+00:00
+
+ ## Суроғаи Nostr (NIP-05) Идентификатор ва реле
+ - [https://tg.nostraddress.com](https://tg.nostraddress.com)
+ - date_published: 2024-09-18T00:33:55+00:00
+
+ ## ตัวระบุและรีเลย์ที่อยู่ Nostr (NIP-05)
+ - [https://th.nostraddress.com](https://th.nostraddress.com)
+ - date_published: 2024-09-17T07:06:05+00:00
+
+ ## Nostr Address (NIP-05) Identifier at Relay
+ - [https://tl.nostraddress.com](https://tl.nostraddress.com)
+ - date_published: 2024-09-17T07:06:05+00:00
+
+ ## Nostr Adres (NIP-05) Tanımlayıcı ve Röle
+ - [https://tr.nostraddress.com](https://tr.nostraddress.com)
+ - date_published: 2024-09-17T07:06:05+00:00
+
+ ## Ідентифікатор і ретранслятор адреси Nostr (NIP-05).
+ - [https://uk.nostraddress.com](https://uk.nostraddress.com)
+ - date_published: 2024-09-18T00:33:55+00:00
+
+ ## نوسٹر ایڈریس (NIP-05) شناخت کنندہ اور ریلے
+ - [https://ur.nostraddress.com](https://ur.nostraddress.com)
+ - date_published: 2024-09-17T07:06:05+00:00
+
+ ## Nostr manzili (NIP-05) identifikatori va o'rni
+ - [https://uz.nostraddress.com](https://uz.nostraddress.com)
+ - date_published: 2024-09-17T07:06:05+00:00
+
+ ## Địa chỉ Nostr (NIP-05) Mã định danh & Rơ le
+ - [https://vi.nostraddress.com](https://vi.nostraddress.com)
+ - date_published: 2024-09-17T07:06:05+00:00
+
+ ## נאָסטר אַדרעס (NIP-05) אידענטיפֿיער & רעלע
+ - [https://yi.nostraddress.com](https://yi.nostraddress.com)
+ - date_published: 2024-09-18T00:33:55+00:00
+
+ ## Adirẹsi Nostr (NIP-05) Idanimọ & Yiyi
+ - [https://yo.nostraddress.com](https://yo.nostraddress.com)
+ - date_published: 2024-09-17T07:06:05+00:00
+
+ ## Nostr 地址 (NIP-05) 标识符和中继
+ - [https://zh-cn.nostraddress.com](https://zh-cn.nostraddress.com)
+ - date_published: 2024-09-17T07:06:05+00:00
+
+ ## Nostr 位址 (NIP-05) 識別碼和中繼
+ - [https://zh-tw.nostraddress.com](https://zh-tw.nostraddress.com)
+ - date_published: 2024-09-17T07:06:05+00:00
+
+ ## Ikheli le-Nostr (NIP-05) Inkomba & I-Relay
+ - [https://zu.nostraddress.com](https://zu.nostraddress.com)
+ - date_published: 2024-09-18T00:33:55+00:00
+
  ## Nostrage.com - Home
  - [https://nostrage.com](https://nostrage.com)
  - date_published: 2024-08-18T22:05:18.225167+00:00
@@ -3981,60 +4037,4 @@ a simple way
  - [https://nysc-cds.com](https://nysc-cds.com)
  - date_published: 2000-01-01T00:00:00+00:00
  - tags: ['personal']
-
- ## Listing Manager
- - [https://listingmanager.nyse.com](https://listingmanager.nyse.com)
- - date_published: 2024-09-13T15:22:04.746285+00:00
-
- ## The New York Stock Exchange | NYSE
- - [https://nyse.com](https://nyse.com)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## New York Focus
- - [https://nysfocus.com](https://nysfocus.com)
- - date_published: 2024-06-15T08:36:22.873941+00:00
-
- ## NYS Music - New York State's Music News Source
- - [https://nysmusic.com](https://nysmusic.com)
- - date_published: 2023-10-25T10:17:28.556912+00:00
-
- ## Spectrum News | NY State of Politics
- - [https://nystateofpolitics.com](https://nystateofpolitics.com)
- - date_published: 2024-05-12T07:13:23.887018+00:00
-
- ## Consulting, Branding, Design, Development
- - [https://nystudio107.com](https://nystudio107.com)
- - date_published: 2024-05-06T13:43:56.329522+00:00
-
- ## The New York Sun
- - [https://nysun.com](https://nysun.com)
- - date_published: 2023-11-15T15:36:07.334176+00:00
-
- ## The New York Sun Store
- - [https://shop.nysun.com](https://shop.nysun.com)
- - date_published: 2024-08-18T13:23:27.017502+00:00
-
- ## The New York Sun
- - [https://wp.nysun.com](https://wp.nysun.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## The New York Times - Breaking News, US News, World News and Videos
- - [https://nyt.com](https://nyt.com)
- - date_published: 2024-10-31T04:51:51+00:00
-
- ## Featured Videos
- - [https://vp.nyt.com](https://vp.nyt.com)
- - date_published: 2024-08-11T23:56:48+00:00
-
- ## The New York Times Company | The New York Times Company
- - [https://nytco.com](https://nytco.com)
- - date_published: 2024-04-29T02:42:35.433139+00:00
-
- ## New York Times Advertising
- - [https://advertising.nytimes.com](https://advertising.nytimes.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## The New York Times Web Archive
- - [https://archive.nytimes.com](https://archive.nytimes.com)
- - date_published: 2023-10-25T16:23:44.901744+00:00
 

@@ -1,3 +1,15 @@
+ ## mokelly's devlog
+ - [http://mjtokelly.blogspot.com](http://mjtokelly.blogspot.com)
+ - date_published: 2024-03-16T01:10:07+00:00
+
+ ## Girl: Outnumbered!
+ - [http://mkdollarfamily.blogspot.com](http://mkdollarfamily.blogspot.com)
+ - date_published: 2024-12-19T03:18:01+00:00
+
+ ## Lovin' Life
+ - [http://mkhawks.blogspot.com](http://mkhawks.blogspot.com)
+ - date_published: 2024-07-03T01:57:04+00:00
+
  ## The Maps and Geo Blog
  - [https://ml4711.blogspot.com](https://ml4711.blogspot.com)
  - date_published: 2024-07-11T14:26:04+00:00
@@ -2780,6 +2792,10 @@
  - [http://noemi-nothingsgoingon.blogspot.com](http://noemi-nothingsgoingon.blogspot.com)
  - date_published: 2024-10-09T02:21:26+00:00
 
+ ## NoFo
+ - [https://nofo.blogspot.com](https://nofo.blogspot.com)
+ - date_published: 2024-10-29T02:40:46+00:00
+
  ## west africa wins always
  - [http://nofoodforlazyman.blogspot.com](http://nofoodforlazyman.blogspot.com)
  - date_published: 2024-02-08T10:48:08+00:00
@@ -3125,7 +3141,7 @@
  - date_published: 2024-10-05T02:40:52+00:00
 
  ## You Might Notice a Trend
- - [http://noticeatrend.blogspot.com](http://noticeatrend.blogspot.com)
+ - [https://noticeatrend.blogspot.com](https://noticeatrend.blogspot.com)
  - date_published: 2024-10-29T11:15:04+00:00
 
  ## noticias arquitectura / blog
@@ -3137,7 +3153,7 @@
  - date_published: 2024-03-08T03:37:14+00:00
 
  ## Notitia Metallicum
- - [http://notitiametallicum.blogspot.com](http://notitiametallicum.blogspot.com)
+ - [https://notitiametallicum.blogspot.com](https://notitiametallicum.blogspot.com)
  - date_published: 2024-10-29T08:56:22+00:00
 
  ## Nie znaleziono bloga
@@ -3991,20 +4007,4 @@
  ## oldfoolrn
  - [http://oldfoolrn.blogspot.com](http://oldfoolrn.blogspot.com)
  - date_published: 2024-12-11T22:23:03+00:00
-
- ## Old Guard Gaming
- - [http://oldguardgamingaccoutrements.blogspot.com](http://oldguardgamingaccoutrements.blogspot.com)
- - date_published: 2024-07-08T08:09:09+00:00
-
- ## ChicagoWiz's RPG Blog
- - [http://oldguyrpg.blogspot.com](http://oldguyrpg.blogspot.com)
- - date_published: 2024-06-29T15:01:39+00:00
-
- ## Oldhammer15
- - [http://oldhammer15.blogspot.com](http://oldhammer15.blogspot.com)
- - date_published: 2024-08-30T00:11:29+00:00
-
- ## OLDHAMMER HERESY
- - [http://oldhammer30k.blogspot.com](http://oldhammer30k.blogspot.com)
- - date_published: 2024-07-04T06:32:59+00:00
 

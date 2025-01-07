@@ -1,3 +1,19 @@
+ ## Power to the People
+ - [https://power-2-people.blogspot.com](https://power-2-people.blogspot.com)
+ - date_published: 2024-10-21T18:06:02.792434+00:00
+
+ ## Power and Control
+ - [https://powerandcontrol.blogspot.com](https://powerandcontrol.blogspot.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Once Upon a Time...
+ - [https://powerofnarrative.blogspot.com](https://powerofnarrative.blogspot.com)
+ - date_published: 2024-02-20T22:40:30+00:00
+
+ ## POWER POP ACTION!
+ - [http://powerpopaction.blogspot.com](http://powerpopaction.blogspot.com)
+ - date_published: 2024-11-08T15:37:35+00:00
+
  ## PowerPop
  - [https://powerpop.blogspot.com](https://powerpop.blogspot.com)
  - date_published: 2024-06-28T08:05:00+00:00
@@ -4012,20 +4028,4 @@
  ## Rullsenberg Rules
  - [https://rullsenbergrules.blogspot.com](https://rullsenbergrules.blogspot.com)
  - date_published: 2024-10-21T12:02:50.277851+00:00
-
- ## Delusions of Grandeur
- - [https://rumorsofheresy.blogspot.com](https://rumorsofheresy.blogspot.com)
- - date_published: 2024-10-05T01:59:10+00:00
-
- ## Nie znaleziono bloga
- - [http://rumplification.blogspot.com](http://rumplification.blogspot.com)
- - date_published: 2024-12-31T06:28:30.094679+00:00
-
- ## Blogger
- - [http://run4may.blogspot.com](http://run4may.blogspot.com)
- - date_published: 2024-12-19T10:00:03.977346+00:00
-
- ## Hello, My Name is Chris and I'm a Runaholic
- - [https://runaholic-chris.blogspot.com](https://runaholic-chris.blogspot.com)
- - date_published: 2024-09-15T05:04:13+00:00
 

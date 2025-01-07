@@ -1,3 +1,7 @@
+ ## Fiducoldex
+ - [https://fics.fiducoldex.com.co](https://fics.fiducoldex.com.co)
+ - date_published: 2024-09-10T15:05:03.401742+00:00
+
  ## Home | Fiducoldex
  - [https://fiducoldex.com.co](https://fiducoldex.com.co)
  - date_published: 2024-06-12T02:51:24.331446+00:00
@@ -4055,8 +4059,4 @@
  ## Economía Circular – Economía Circular
  - [https://economiacircular.minambiente.gov.co](https://economiacircular.minambiente.gov.co)
  - date_published: 2024-06-12T03:03:35.208165+00:00
-
- ## Escuela de Formación Virtual - Ministerio de Ambiente y Desarrollo Sostenible
- - [https://escueladeformacion.minambiente.gov.co](https://escueladeformacion.minambiente.gov.co)
- - date_published: 2024-09-10T16:02:06+00:00
 

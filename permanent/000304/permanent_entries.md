@@ -1,3 +1,91 @@
+ ## UAF Center for Teaching and Learning – Teaching and Learning Resources at UAF CTL
+ - [https://iteachu.uaf.edu](https://iteachu.uaf.edu)
+ - date_published: 2024-07-01T22:04:28.514270+00:00
+
+ ## How Do I ..... - How Do I .....
+ - [https://libanswers.library.uaf.edu](https://libanswers.library.uaf.edu)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Guides: Elmer E. Rasmuson Library: Home
+ - [https://library.uaf.edu](https://library.uaf.edu)
+ - date_published: 2024-05-07T20:42:02.630962+00:00
+
+ ## Home | UAF news and information
+ - [http://news.uaf.edu](http://news.uaf.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## UAF North – Alaska's Community Learning Catalog
+ - [https://north.open.uaf.edu](https://north.open.uaf.edu)
+ - date_published: 2024-07-01T22:04:21.412952+00:00
+
+ ## Historical Sea Ice Atlas
+ - [https://seaiceatlas.snap.uaf.edu](https://seaiceatlas.snap.uaf.edu)
+ - date_published: 2024-05-06T23:32:58.174081+00:00
+
+ ## UAF Home | University of Alaska Fairbanks
+ - [https://uaf.edu](https://uaf.edu)
+ - date_published: 2024-05-07T20:41:16.792968+00:00
+
+ ## umami
+ - [https://umami.snap.uaf.edu](https://umami.snap.uaf.edu)
+ - date_published: 2024-06-28T18:42:09.854767+00:00
+
+ ## Home | IARC
+ - [http://www.iarc.uaf.edu](http://www.iarc.uaf.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Accredited Online College | UAGC | University of Arizona Global Campus
+ - [https://www.uagc.edu](https://www.uagc.edu)
+ - date_published: 2024-06-19T01:24:25+00:00
+
+ ## IdeaExchange@UAkron
+ - [https://ideaexchange.uakron.edu](https://ideaexchange.uakron.edu)
+ - date_published: 2024-05-06T18:31:01.062758+00:00
+
+ ## Wayne College Campus
+ - [https://wayne.uakron.edu](https://wayne.uakron.edu)
+ - date_published: 2024-07-02T03:47:03.114350+00:00
+
+ ## The University of Akron : YOU BELONG HERE!
+ - [http://www.uakron.edu](http://www.uakron.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://blackboard.ualr.edu](https://blackboard.ualr.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Welcome to the University of Arkansas at Little Rock
+ - [https://boss.ualr.edu](https://boss.ualr.edu)
+ - date_published: 2024-07-09T20:30:37.402270+00:00
+
+ ## UA Little Rock Directory
+ - [https://directory.ualr.edu](https://directory.ualr.edu)
+ - date_published: 2024-07-09T20:30:52.041202+00:00
+
+ ## Sign in to your account
+ - [https://mail.ualr.edu](https://mail.ualr.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Undergraduate Admissions - Admissions - UA Little Rock
+ - [https://slate.ualr.edu](https://slate.ualr.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## University of Arkansas at Little Rock
+ - [https://ualr.edu](https://ualr.edu)
+ - date_published: 2024-05-09T06:34:25.789119+00:00
+
+ ## Academic Affairs
+ - [https://academicaffairs.uams.edu](https://academicaffairs.uams.edu)
+ - date_published: 2024-06-20T23:29:55.225980+00:00
+
+ ## UAMS Office of Continuing Education
+ - [https://ce.uams.edu](https://ce.uams.edu)
+ - date_published: 2024-06-20T23:29:14.455614+00:00
+
+ ## Center for Faculty Excellence
+ - [https://faculty.uams.edu](https://faculty.uams.edu)
+ - date_published: 2024-06-20T23:30:10.858641+00:00
+
  ## Home Page
  - [http://giving.uams.edu](http://giving.uams.edu)
  - date_published: 2024-06-20T23:29:11.831157+00:00
@@ -3619,6 +3707,10 @@
  - [https://lgbtqstudies.ucla.edu](https://lgbtqstudies.ucla.edu)
  - date_published: 2024-10-29T11:44:56.942880+00:00
 
+ ## UCLA Library
+ - [https://library.ucla.edu](https://library.ucla.edu)
+ - date_published: 2024-10-29T09:13:44.538331+00:00
+
  ## Home - Department of Linguistics - UCLA
  - [https://linguistics.ucla.edu](https://linguistics.ucla.edu)
  - date_published: 2024-07-02T09:18:05.787206+00:00
@@ -3871,10 +3963,6 @@
  - [http://www.gseis.ucla.edu](http://www.gseis.ucla.edu)
  - date_published: 2024-12-31T11:22:09.025305+00:00
 
- ## UCLA Library
- - [https://www.library.ucla.edu](https://www.library.ucla.edu)
- - date_published: 2024-10-29T09:13:44.538331+00:00
-
  ## UCLA Nursing School
  - [https://www.nursing.ucla.edu](https://www.nursing.ucla.edu)
  - date_published: 2024-12-11T22:39:07+00:00
@@ -3938,93 +4026,4 @@
  ## Apply Now | Graduate Division
  - [https://applygrad.ucmerced.edu](https://applygrad.ucmerced.edu)
  - date_published: 2024-05-07T20:56:30.115935+00:00
-
- ## Basic Needs
- - [https://basicneeds.ucmerced.edu](https://basicneeds.ucmerced.edu)
- - date_published: 2024-07-01T23:18:46.497349+00:00
-
- ## Biological Engineering and Small-Scale Technologies
- - [https://best.ucmerced.edu](https://best.ucmerced.edu)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Bioengineering
- - [https://bioe.ucmerced.edu](https://bioe.ucmerced.edu)
- - date_published: 2024-05-07T20:56:24.812623+00:00
-
- ## University of California Merced - Acalog ACMS™
- - [https://catalog.ucmerced.edu](https://catalog.ucmerced.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Center for Cellular and Biomolecular Machines | National Science Foundation Center of Research Excellence in Science and Technology (CREST)
- - [https://ccbm.ucmerced.edu](https://ccbm.ucmerced.edu)
- - date_published: 2024-07-01T23:18:13.753480+00:00
-
- ## Center for Educational Partnerships
- - [https://cep.ucmerced.edu](https://cep.ucmerced.edu)
- - date_published: 2024-07-01T23:17:41.329936+00:00
-
- ## Office of the Chancellor
- - [https://chancellor.ucmerced.edu](https://chancellor.ucmerced.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## UC Merced Community and Labor Center
- - [https://clc.ucmerced.edu](https://clc.ucmerced.edu)
- - date_published: 2024-07-01T20:55:14+00:00
-
- ## Convergence of Nano-engineered Devices for Environmental and Sustainable Applications (CONDESA) | A National Science Foundation Research Traineeship Program
- - [https://condesa.ucmerced.edu](https://condesa.ucmerced.edu)
- - date_published: 2024-07-01T23:18:34+00:00
-
- ## SIR UCMerced Admission
- - [https://decision.ucmerced.edu](https://decision.ucmerced.edu)
- - date_published: 2024-06-04T07:03:18+00:00
-
- ## Division of Finance and Administration
- - [https://dfa.ucmerced.edu](https://dfa.ucmerced.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Directory
- - [https://directory.ucmerced.edu](https://directory.ucmerced.edu)
- - date_published: 2024-06-25T07:05:06+00:00
-
- ## Division of Equity, Justice, & Inclusive Excellence
- - [https://diversity.ucmerced.edu](https://diversity.ucmerced.edu)
- - date_published: 2024-07-01T22:53:32+00:00
- - tags: ['dei']
-
- ## Home | Emergency Preparedness
- - [https://emergency.ucmerced.edu](https://emergency.ucmerced.edu)
- - date_published: 2024-07-01T22:30:37+00:00
-
- ## Engineering Service Learning | School of Engineering
- - [https://engineeringservicelearning.ucmerced.edu](https://engineeringservicelearning.ucmerced.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## School of Engineering
- - [https://engineering.ucmerced.edu](https://engineering.ucmerced.edu)
- - date_published: 2024-07-01T22:40:53+00:00
-
- ## School of Engineering
- - [https://eng.ucmerced.edu](https://eng.ucmerced.edu)
- - date_published: 2024-06-22T06:19:46+00:00
-
- ## Environmental Systems Graduate Group
- - [https://es.ucmerced.edu](https://es.ucmerced.edu)
- - date_published: 2024-07-01T23:19:09.391442+00:00
-
- ## Events Calendar
- - [https://events.ucmerced.edu](https://events.ucmerced.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home | University Extension
- - [https://extension.ucmerced.edu](https://extension.ucmerced.edu)
- - date_published: 2024-07-01T22:54:36+00:00
-
- ## External Relations & Strategic Communications
- - [https://externalrelations.ucmerced.edu](https://externalrelations.ucmerced.edu)
- - date_published: 2024-07-01T22:30:58+00:00
-
- ## Financial Aid | Helping Students Succeed
- - [https://financialaid.ucmerced.edu](https://financialaid.ucmerced.edu)
- - date_published: 2024-07-01T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## Baldur Bjarnason – Baldur Bjarnason
+ - [https://baldurbjarnason.com](https://baldurbjarnason.com)
+ - date_published: 2023-10-25T12:52:03.128142+00:00
+
  ## The Intelligence Illusion: a practical guide to the business risks of Generative AI
  - [https://illusion.baldurbjarnason.com](https://illusion.baldurbjarnason.com)
  - date_published: 2024-04-30T02:18:24.560000+00:00
@@ -4000,8 +4004,4 @@
  ## Catholic Spit
  - [https://catholicspit.bandcamp.com](https://catholicspit.bandcamp.com)
  - date_published: 2024-07-19T00:00:00+00:00
-
- ## 猫 シ Corp.
- - [https://catsystemcorp.bandcamp.com](https://catsystemcorp.bandcamp.com)
- - date_published: 2024-12-22T07:35:47.317651+00:00
 

@@ -1,3 +1,91 @@
+ ## Events Calendar
+ - [https://events.stanford.edu](https://events.stanford.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Spotlight at Stanford
+ - [https://exhibits.stanford.edu](https://exhibits.stanford.edu)
+ - date_published: 2024-06-15T07:22:20.610754+00:00
+
+ ## Stanford University Explore Courses
+ - [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
+ - date_published: 2024-05-06T23:12:41.668136+00:00
+
+ ## Stanford University Bulletin
+ - [https://exploredegrees.stanford.edu](https://exploredegrees.stanford.edu)
+ - date_published: 2024-05-07T20:25:19.667900+00:00
+
+ ## Explore Energy
+ - [https://explore-energy.stanford.edu](https://explore-energy.stanford.edu)
+ - date_published: 2024-07-01T02:25:12+00:00
+
+ ## Office of External Relations
+ - [https://externalrelations.sites.stanford.edu](https://externalrelations.sites.stanford.edu)
+ - date_published: 2024-05-15T23:56:40+00:00
+
+ ## Office of External Relations
+ - [https://externalrelations.stanford.edu](https://externalrelations.stanford.edu)
+ - date_published: 2024-05-15T23:56:40+00:00
+
+ ## FACET - II | Facility for Advanced Accelerator Experimental Tests
+ - [https://facet-ii.slac.stanford.edu](https://facet-ii.slac.stanford.edu)
+ - date_published: 2024-07-06T22:34:08+00:00
+
+ ## Facts
+ - [https://facts.stanford.edu](https://facts.stanford.edu)
+ - date_published: 2024-05-07T20:31:11.947829+00:00
+
+ ## Faculty Affairs
+ - [https://facultyaffairs-humsci.stanford.edu](https://facultyaffairs-humsci.stanford.edu)
+ - date_published: 2024-05-07T20:28:15.011247+00:00
+
+ ## Faculty Affairs Office of the Provost
+ - [https://facultyaffairs.stanford.edu](https://facultyaffairs.stanford.edu)
+ - date_published: 2024-06-26T00:00:13+00:00
+
+ ## Office of Faculty Development, Diversity and Engagement
+ - [https://facultydevelopment.stanford.edu](https://facultydevelopment.stanford.edu)
+ - date_published: 2024-06-28T12:57:42+00:00
+
+ ## Stanford | Faculty Positions
+ - [https://facultypositions.stanford.edu](https://facultypositions.stanford.edu)
+ - date_published: 2024-05-07T20:30:55.775515+00:00
+
+ ## Homepage | SLAC Faculty
+ - [https://faculty.slac.stanford.edu](https://faculty.slac.stanford.edu)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Home
+ - [http://fairuse.stanford.edu](http://fairuse.stanford.edu)
+ - date_published: 2013-04-02T07:58:15+00:00
+
+ ## Stanford Login
+ - [https://fasa.stanford.edu](https://fasa.stanford.edu)
+ - date_published: 2024-07-01T20:08:47.915865+00:00
+
+ ## Future of Digital Currency Initiative
+ - [https://fdc.stanford.edu](https://fdc.stanford.edu)
+ - date_published: 2024-05-30T06:34:25+00:00
+
+ ## FFIT Home Page
+ - [https://ffit.stanford.edu](https://ffit.stanford.edu)
+ - date_published: 2022-10-07T23:36:19+00:00
+
+ ## Log in | Finance
+ - [https://finance-humsci.stanford.edu](https://finance-humsci.stanford.edu)
+ - date_published: 2024-05-07T20:28:13.020990+00:00
+
+ ## Financial Aid : Stanford University
+ - [https://financialaid.stanford.edu](https://financialaid.stanford.edu)
+ - date_published: 2024-05-07T20:31:00.088096+00:00
+
+ ## Flash Teams | Home
+ - [https://flashteams.stanford.edu](https://flashteams.stanford.edu)
+ - date_published: 2024-05-07T20:27:57.915742+00:00
+
+ ## First Generation and/or Low-Income Student Success Center
+ - [https://fli.stanford.edu](https://fli.stanford.edu)
+ - date_published: 2024-06-10T23:20:37+00:00
+
  ## Computer Forum
  - [https://forum.stanford.edu](https://forum.stanford.edu)
  - date_published: 2024-05-07T20:25:48.767557+00:00
@@ -3923,92 +4011,4 @@
  ## INE University of Alaska Fairbanks
  - [http://ine.uaf.edu](http://ine.uaf.edu)
  - date_published: 2024-07-20T20:57:06.332261+00:00
-
- ## UAF Center for Teaching and Learning – Teaching and Learning Resources at UAF CTL
- - [https://iteachu.uaf.edu](https://iteachu.uaf.edu)
- - date_published: 2024-07-01T22:04:28.514270+00:00
-
- ## How Do I ..... - How Do I .....
- - [https://libanswers.library.uaf.edu](https://libanswers.library.uaf.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Guides: Elmer E. Rasmuson Library: Home
- - [https://library.uaf.edu](https://library.uaf.edu)
- - date_published: 2024-05-07T20:42:02.630962+00:00
-
- ## Home | UAF news and information
- - [http://news.uaf.edu](http://news.uaf.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## UAF North – Alaska's Community Learning Catalog
- - [https://north.open.uaf.edu](https://north.open.uaf.edu)
- - date_published: 2024-07-01T22:04:21.412952+00:00
-
- ## Historical Sea Ice Atlas
- - [https://seaiceatlas.snap.uaf.edu](https://seaiceatlas.snap.uaf.edu)
- - date_published: 2024-05-06T23:32:58.174081+00:00
-
- ## UAF Home | University of Alaska Fairbanks
- - [https://uaf.edu](https://uaf.edu)
- - date_published: 2024-05-07T20:41:16.792968+00:00
-
- ## umami
- - [https://umami.snap.uaf.edu](https://umami.snap.uaf.edu)
- - date_published: 2024-06-28T18:42:09.854767+00:00
-
- ## Home | IARC
- - [http://www.iarc.uaf.edu](http://www.iarc.uaf.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Accredited Online College | UAGC | University of Arizona Global Campus
- - [https://www.uagc.edu](https://www.uagc.edu)
- - date_published: 2024-06-19T01:24:25+00:00
-
- ## IdeaExchange@UAkron
- - [https://ideaexchange.uakron.edu](https://ideaexchange.uakron.edu)
- - date_published: 2024-05-06T18:31:01.062758+00:00
-
- ## Wayne College Campus
- - [https://wayne.uakron.edu](https://wayne.uakron.edu)
- - date_published: 2024-07-02T03:47:03.114350+00:00
-
- ## The University of Akron : YOU BELONG HERE!
- - [http://www.uakron.edu](http://www.uakron.edu)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Sign in to your account
- - [https://blackboard.ualr.edu](https://blackboard.ualr.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Welcome to the University of Arkansas at Little Rock
- - [https://boss.ualr.edu](https://boss.ualr.edu)
- - date_published: 2024-07-09T20:30:37.402270+00:00
-
- ## UA Little Rock Directory
- - [https://directory.ualr.edu](https://directory.ualr.edu)
- - date_published: 2024-07-09T20:30:52.041202+00:00
-
- ## Sign in to your account
- - [https://mail.ualr.edu](https://mail.ualr.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Undergraduate Admissions - Admissions - UA Little Rock
- - [https://slate.ualr.edu](https://slate.ualr.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## University of Arkansas at Little Rock
- - [https://ualr.edu](https://ualr.edu)
- - date_published: 2024-05-09T06:34:25.789119+00:00
-
- ## Academic Affairs
- - [https://academicaffairs.uams.edu](https://academicaffairs.uams.edu)
- - date_published: 2024-06-20T23:29:55.225980+00:00
-
- ## UAMS Office of Continuing Education
- - [https://ce.uams.edu](https://ce.uams.edu)
- - date_published: 2024-06-20T23:29:14.455614+00:00
-
- ## Center for Faculty Excellence
- - [https://faculty.uams.edu](https://faculty.uams.edu)
- - date_published: 2024-06-20T23:30:10.858641+00:00
 

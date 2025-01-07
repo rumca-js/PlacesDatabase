@@ -1,3 +1,99 @@
+ ## Portavita Devblog
+ - [https://portavita.github.io](https://portavita.github.io)
+ - date_published: 2023-10-29T06:20:24.653388+00:00
+
+ ## DisCO
+ - [https://portrait-disco.github.io](https://portrait-disco.github.io)
+ - date_published: 2023-08-07T13:58:05+00:00
+
+ ## Portrait Neural Radiance Fields from a Single Image
+ - [https://portrait-nerf.github.io](https://portrait-nerf.github.io)
+ - date_published: 2020-12-12T19:40:38+00:00
+
+ ## Consistent View Synthesis with Pose-Guided Diffusion Models
+ - [https://poseguided-diffusion.github.io](https://poseguided-diffusion.github.io)
+ - date_published: 2023-06-02T05:13:04+00:00
+
+ ## Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN
+ - [https://pose-with-style.github.io](https://pose-with-style.github.io)
+ - date_published: 2024-03-13T20:45:07+00:00
+
+ ## Alex Potanin
+ - [https://potanin.github.io](https://potanin.github.io)
+ - date_published: 2024-10-10T21:57:45+00:00
+
+ ## POtO Software
+ - [https://potosoftware.github.io](https://potosoftware.github.io)
+ - date_published: 2023-07-30T17:18:22+00:00
+
+ ## Pouya Pezeshkpour
+ - [https://pouyapez.github.io](https://pouyapez.github.io)
+ - date_published: 2024-06-13T15:57:16+00:00
+
+ ## Generative Powers of Ten
+ - [https://powers-of-10.github.io](https://powers-of-10.github.io)
+ - date_published: 2024-05-22T22:49:42+00:00
+
+ ## PPDP 2021
+ - [https://ppdp2021.github.io](https://ppdp2021.github.io)
+ - date_published: 2021-11-16T19:28:02+00:00
+
+ ## Tom Hulton-Harrop | A programming blog
+ - [https://pr0g.github.io](https://pr0g.github.io)
+ - date_published: 2023-10-25T19:51:17.054227+00:00
+
+ ## Prakash Sellathurai
+ - [https://prakashsellathurai.github.io](https://prakashsellathurai.github.io)
+ - date_published: 2024-07-23T23:32:35.708796+00:00
+
+ ## Pramesh Bajracharya's Portfolio and Blog
+ - [https://prameshbajra.github.io](https://prameshbajra.github.io)
+ - date_published: 2024-05-07T23:11:44.186363+00:00
+
+ ## Groups of Loops – a mathematics blog
+ - [https://pranavchinmay.github.io](https://pranavchinmay.github.io)
+ - date_published: 2021-10-13T15:21:39+00:00
+
+ ## Pranav Khadpe
+ - [https://pranavkhadpe.github.io](https://pranavkhadpe.github.io)
+ - date_published: 2024-04-02T02:31:00+00:00
+
+ ## prantlf.github.io
+ - [https://prantlf.github.io](https://prantlf.github.io)
+ - date_published: 2017-10-08T11:53:28+00:00
+
+ ## Prashant Pandey
+ - [https://prashantpandey.github.io](https://prashantpandey.github.io)
+ - date_published: 2024-05-24T00:21:20+00:00
+
+ ## Prateek Sahu
+ - [https://prateeksahu.github.io](https://prateeksahu.github.io)
+ - date_published: 2023-06-16T17:11:02+00:00
+
+ ## Pratik Chaudhari
+ - [https://pratikac.github.io](https://pratikac.github.io)
+ - date_published: 2024-05-10T07:02:10.387213+00:00
+
+ ## Pratul Srinivasan
+ - [https://pratulsrinivasan.github.io](https://pratulsrinivasan.github.io)
+ - date_published: 2023-12-13T00:31:37+00:00
+
+ ## hacking with praydog
+ - [https://praydog.github.io](https://praydog.github.io)
+ - date_published: 2023-07-13T19:07:23+00:00
+
+ ## Redirecting to https://humantorch.github.io/
+ - [https://prayingmadness.github.io](https://prayingmadness.github.io)
+ - date_published: 2022-07-05T01:52:37+00:00
+
+ ## precondition
+ - [https://precondition.github.io](https://precondition.github.io)
+ - date_published: 2023-12-03T17:58:27.872171+00:00
+
+ ## Pradyumna Reddy
+ - [https://preddy5.github.io](https://preddy5.github.io)
+ - date_published: 2024-06-27T09:49:55+00:00
+
  ## Learning Dexterous Manipulation from Exemplar Object Trajectories and Pre-Grasps
  - [https://pregrasps.github.io](https://pregrasps.github.io)
  - date_published: 2023-07-12T14:14:40+00:00
@@ -3941,102 +4037,4 @@ Visualization
  ## Tristan de Cacqueray – Tristan's Zettelkasten
  - [https://tristancacqueray.github.io](https://tristancacqueray.github.io)
  - date_published: 2023-10-25T19:55:02.459044+00:00
-
- ## trofi's blog: /
- - [https://trofi.github.io](https://trofi.github.io)
- - date_published: 2023-10-25T08:59:17.032313+00:00
- - tags: ['personal']
-
- ## Home | TroisJS
- - [https://troisjs.github.io](https://troisjs.github.io)
- - date_published: 2021-11-16T19:41:11+00:00
-
- ## Gianluca Oldani's website
- - [https://trolloldem.github.io](https://trolloldem.github.io)
- - date_published: 2023-11-08T16:49:09+00:00
-
- ## John  Tromp HomePage
- - [https://tromp.github.io](https://tromp.github.io)
- - date_published: 2023-10-25T19:55:03.866969+00:00
-
- ## Hello from Trunk Recorder | Trunk Recorder
- - [https://trunkrecorder.github.io](https://trunkrecorder.github.io)
- - date_published: 2023-11-13T03:07:33+00:00
-
- ## ICLR 2020 Workshop on Towards Trustworthy ML: Rethinking Security and Privacy for ML
- - [https://trustworthyiclr20.github.io](https://trustworthyiclr20.github.io)
- - date_published: 2020-04-28T11:57:09+00:00
-
- ## Set up Git - GitHub Docs
- - [https://try.github.io](https://try.github.io)
- - date_published: 2024-06-23T06:01:32.411321+00:00
-
- ## Projects of TMR – Science × Programming
- - [https://trygvrad.github.io](https://trygvrad.github.io)
- - date_published: 2024-06-09T10:22:25+00:00
-
- ## Nikolaos Tsagkas
- - [https://tsagkas.github.io](https://tsagkas.github.io)
- - date_published: 2024-07-05T08:54:03+00:00
-
- ## https://tschatzl.github.io
- - [https://tschatzl.github.io](https://tschatzl.github.io)
- - date_published: 2024-01-09T03:33:02.519471+00:00
-
- ## Taeksang Peter Kim
- - [https://tspeterkim.github.io](https://tspeterkim.github.io)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Tsung-Han (Patrick) Wu - 吳宗翰
- - [https://tsunghan-wu.github.io](https://tsunghan-wu.github.io)
- - date_published: 2024-07-21T22:10:37+00:00
-
- ## Deyao Zhu
- - [https://tsutikgiau.github.io](https://tsutikgiau.github.io)
- - date_published: 2023-06-17T11:19:52+00:00
-
- ## Tsvetomila Mihaylova - Academic Resume
- - [https://tsvm.github.io](https://tsvm.github.io)
- - date_published: 2023-12-11T07:58:56+00:00
-
- ## Ta-Ying Cheng | University of Oxford
- - [https://ttchengab.github.io](https://ttchengab.github.io)
- - date_published: 2024-07-12T16:04:59+00:00
-
- ## Pieter's Pages
- - [https://tttapa.github.io](https://tttapa.github.io)
- - date_published: 2024-03-09T13:43:58+00:00
- - tags: ['personal']
-
- ## Tuanfeng Y. Wang
- - [https://tuanfeng.github.io](https://tuanfeng.github.io)
- - date_published: 2024-07-24T05:51:32.207805+00:00
-
- ## Tune-A-Video
- - [https://tuneavideo.github.io](https://tuneavideo.github.io)
- - date_published: 2023-10-19T08:16:24+00:00
-
- ## Tung Chou
- - [https://tungchou.github.io](https://tungchou.github.io)
- - date_published: 2024-06-06T08:57:36+00:00
-
- ## Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models
- - [https://tuning-encoder.github.io](https://tuning-encoder.github.io)
- - date_published: 2023-02-25T21:52:52+00:00
-
- ## Artur`s homepage | Artur Riazanov
- - [https://tunyash.github.io](https://tunyash.github.io)
- - date_published: 2024-06-12T15:36:30+00:00
-
- ## turborium.github.io
- - [https://turborium.github.io](https://turborium.github.io)
- - date_published: 2024-06-03T11:19:47.530598+00:00
-
- ## Mika's Clojure
- - [http://turkia.github.io](http://turkia.github.io)
- - date_published: 2015-07-20T11:42:57+00:00
-
- ## TurkingTest: A Tournament Among Web-based Agents
- - [https://turkingbench.github.io](https://turkingbench.github.io)
- - date_published: 2024-03-19T02:53:42+00:00
 

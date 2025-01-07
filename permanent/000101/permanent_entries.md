@@ -1,3 +1,36 @@
+ ## Deniz Akşimşek
+ - [https://denizaksimsek.com](https://denizaksimsek.com)
+ - date_published: 2023-10-25T13:49:01.779557+00:00
+
+ ## 6-7 KASIM 2025
+ - [http://www.denizsistemlerisemineri.com](http://www.denizsistemlerisemineri.com)
+ - date_published: 2024-11-04T09:13:44+00:00
+
+ ## DENKRIESEN - Wir machen die Spiele! - Spare jetzt 20% mit VOLLPFOSTEN!
+ - [https://denkriesen.com](https://denkriesen.com)
+ - date_published: 2024-07-03T15:46:56.709151+00:00
+
+ ## Homepage - Denmark&Me
+ - [https://denmarkandme.com](https://denmarkandme.com)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Den McHenry
+ - [https://denmchenry.com](https://denmchenry.com)
+ - date_published: 2023-03-14T00:00:00+00:00
+ - tags: ['personal']
+
+ ## micropub
+ - [https://micropub.denmchenry.com](https://micropub.denmchenry.com)
+ - date_published: 2024-06-17T19:10:35.827387+00:00
+
+ ## Dennaton
+ - [https://dennatongames.com](https://dennatongames.com)
+ - date_published: 2024-01-24T18:23:51+00:00
+
+ ## Denning Electronics
+ - [http://www.denningelectronics.com](http://www.denningelectronics.com)
+ - date_published: 2024-12-30T18:07:14.428439+00:00
+
  ## Home - Dennis Bottaro
  - [https://dennisbottaro.com](https://dennisbottaro.com)
  - date_published: 2024-05-24T00:00:00+00:00
@@ -173,11 +206,11 @@
  - date_published: 2023-04-19T01:33:02+00:00
 
  ## Dental Care Information for Professionals | Dentalcare.com
- - [https://www.dentalcare.com](https://www.dentalcare.com)
+ - [https://dentalcare.com](https://dentalcare.com)
  - date_published: 2024-10-29T05:57:12.312289+00:00
 
  ## Home - Barrett Dental Care
- - [https://www.dentalcarelouisville.com](https://www.dentalcarelouisville.com)
+ - [https://dentalcarelouisville.com](https://dentalcarelouisville.com)
  - date_published: 2024-10-29T06:29:29.020295+00:00
 
  ## Dentalcompare.com | Top Products. Best Practices.
@@ -1431,7 +1464,7 @@
  - date_published: 2024-06-19T21:13:20+00:00
 
  ## Design Hotels™ - Boutique & Luxury Design Hotel Collection
- - [https://www.designhotels.com](https://www.designhotels.com)
+ - [http://designhotels.com](http://designhotels.com)
  - date_published: 2024-10-29T04:30:21+00:00
 
  ## Designify - Turn any photo into awesome
@@ -3985,36 +4018,4 @@
  ## Home - Ultimate Mac
  - [https://deviceforge.com](https://deviceforge.com)
  - date_published: 2024-05-08T00:09:45.769014+00:00
-
- ## About the DeviceGuru Blog Network | DeviceGuru
- - [http://deviceguru.com](http://deviceguru.com)
- - date_published: 2023-02-03T03:11:00+00:00
-
- ## Playground
- - [https://playground.devicehive.com](https://playground.devicehive.com)
- - date_published: 2018-03-20T16:11:31+00:00
-
- ## DeviceHive - Open Source IoT Data Platform with the wide range of integration options.
- - [https://www.devicehive.com](https://www.devicehive.com)
- - date_published: 2019-10-11T10:41:56+00:00
-
- ## Find unknown devices using a vendor and device ID. | Device Hunt
- - [https://devicehunt.com](https://devicehunt.com)
- - date_published: 2024-07-10T08:59:31.694315+00:00
-
- ## Device Shots — Free Device Mockup Design Generator
- - [https://deviceshots.com](https://deviceshots.com)
- - date_published: 2024-10-22T19:25:16.313719+00:00
-
- ## DeviceTalks Boston | Premier MedTech Events
- - [https://boston.devicetalks.com](https://boston.devicetalks.com)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## DeviceTalks | MedTech Events & Podcasts
- - [http://devicetalks.com](http://devicetalks.com)
- - date_published: 2024-10-17T17:39:44.665323+00:00
-
- ## DeviceTalks Minnesota | Premier MedTech Events
- - [https://minnesota.devicetalks.com](https://minnesota.devicetalks.com)
- - date_published: 2024-05-15T00:00:00+00:00
 

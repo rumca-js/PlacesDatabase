@@ -1,3 +1,125 @@
+ ## Instytut Zachodni
+ - [https://iz.poznan.pl](https://iz.poznan.pl)
+ - date_published: 2024-05-09T04:03:44.974159+00:00
+
+ ## Jarmark Świąteczny na Targach 16.11-31.12.2024
+ - [https://jarmark.poznan.pl](https://jarmark.poznan.pl)
+ - date_published: 2024-12-30T02:01:05.812923+00:00
+
+ ## Kuratorium Oświaty w Poznaniu – Kuratorium Oświaty w Poznaniu – Oficjalny serwis Kuratorium Oświaty w Poznaniu
+ - [http://ko.poznan.pl](http://ko.poznan.pl)
+ - date_published: 2024-09-03T19:24:57.700720+00:00
+
+ ## Kultura Poznań - Wydarzenia Kulturalne, Informacje i Aktualności | Poznan.pl
+ - [https://kultura.poznan.pl](https://kultura.poznan.pl)
+ - date_published: 2024-06-13T17:04:38.035322+00:00
+
+ ## PUT-CS Home Page
+ - [http://libra.cs.put.poznan.pl](http://libra.cs.put.poznan.pl)
+ - date_published: 2010-12-14T09:35:13+00:00
+
+ ## methane2pha project
+ - [https://methane2pha.put.poznan.pl](https://methane2pha.put.poznan.pl)
+ - date_published: 2024-09-02T14:18:39.363656+00:00
+
+ ## Mechanik Lotniczy Politechniki Poznańskiej
+ - [https://mlpp.put.poznan.pl](https://mlpp.put.poznan.pl)
+ - date_published: 2024-09-02T14:18:50.240341+00:00
+
+ ## Mobilna Politechnika Poznańska
+ - [https://mobile.put.poznan.pl](https://mobile.put.poznan.pl)
+ - date_published: 2024-09-02T14:01:14.089437+00:00
+
+ ## Witaj - Poznanski Budzet Obywatelski - 2016
+ - [https://pbo2016.um.poznan.pl](https://pbo2016.um.poznan.pl)
+ - date_published: 2015-07-09T00:00:00+00:00
+
+ ## Witaj - Poznański Budżet Obywatelski 2025
+ - [https://pbo25.um.poznan.pl](https://pbo25.um.poznan.pl)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## PEKA
+ - [https://peka.poznan.pl](https://peka.poznan.pl)
+ - date_published: 2024-03-14T08:46:20+00:00
+
+ ## Strona główna | Szkoła Doktorska Politechniki Poznańskiej
+ - [https://phdschool.put.poznan.pl](https://phdschool.put.poznan.pl)
+ - date_published: 2024-05-26T18:41:43.925860+00:00
+
+ ## Strona główna | Wydział Inżynierii Materiałowej i Fizyki Technicznej
+ - [https://phys.put.poznan.pl](https://phys.put.poznan.pl)
+ - date_published: 2024-05-26T18:41:13.132764+00:00
+
+ ## Welcome to nginx!
+ - [http://piwik.man.poznan.pl](http://piwik.man.poznan.pl)
+ - date_published: 2019-04-09T13:24:36+00:00
+
+ ## Poznan University of Technology
+ - [https://poczta.put.poznan.pl](https://poczta.put.poznan.pl)
+ - date_published: 2024-09-02T14:06:49.701029+00:00
+
+ ## Politechnika Poznańska, Dział Obsługi i Eksploatacji
+ - [https://pomoc.put.poznan.pl](https://pomoc.put.poznan.pl)
+ - date_published: 2024-09-02T14:18:56.977132+00:00
+
+ ## Strona główna | Poznan.pl
+ - [https://poznan.pl](https://poznan.pl)
+ - date_published: 2024-06-13T17:01:02+00:00
+ - tags: ['city']
+
+ ## PROJEKTOWANIE UNIWERSALNE W STRATEGII PODNOSZENIA EFEKTYWNOŚCI KSZTAŁCENIA NA POLITECHNICE POZNAŃSKIEJ – POWR.03.05.00-00-PU21/19
+ - [https://pu.put.poznan.pl](https://pu.put.poznan.pl)
+ - date_published: 2024-09-02T14:18:40.813122+00:00
+
+ ## Strona główna | Politechnika Poznańska
+ - [https://put.poznan.pl](https://put.poznan.pl)
+ - date_published: 2023-10-27T13:02:27.240844+00:00
+ - tags: ['university']
+
+ ## Politechnika Poznańska Portal Kandydata (Rekrutacja kandydatów na studia w Politechnice Poznańskiej)
+ - [https://rekrutacja.put.poznan.pl](https://rekrutacja.put.poznan.pl)
+ - date_published: 2024-09-02T13:57:28.281253+00:00
+
+ ## SSPP – Samorząd Studentów Politechniki Poznańskiej – Samorząd Studentów Politechniki Poznańskiej
+ - [https://samorzad.put.poznan.pl](https://samorzad.put.poznan.pl)
+ - date_published: 2024-09-02T14:03:55.102067+00:00
+
+ ## Odmowa dostępu | Senat Politechniki Poznańskiej
+ - [https://senat.put.poznan.pl](https://senat.put.poznan.pl)
+ - date_published: 2024-05-26T18:41:31.586425+00:00
+
+ ## Scientific Information System
+ - [https://sin.put.poznan.pl](https://sin.put.poznan.pl)
+ - date_published: 2024-09-02T13:58:51.927928+00:00
+
+ ## Page Redirection
+ - [http://sip.poznan.pl](http://sip.poznan.pl)
+ - date_published: 2016-06-13T11:57:29+00:00
+
+ ## SIREN project site – Integrated system for SImultaneousRecovery of Energy, organics and Nutrients and generation of valuable products from municipal wastewater
+ - [https://siren.put.poznan.pl](https://siren.put.poznan.pl)
+ - date_published: 2024-09-02T14:18:44.102476+00:00
+
+ ## Straż Miejska Miasta Poznania | Poznan.pl
+ - [https://sm.poznan.pl](https://sm.poznan.pl)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://stat.put.poznan.pl](https://stat.put.poznan.pl)
+ - date_published: 2024-09-02T14:02:32.511425+00:00
+
+ ## Strona główna | Poznan.pl
+ - [https://um.poznan.pl](https://um.poznan.pl)
+ - date_published: 2024-09-13T17:55:50.786093+00:00
+
+ ## Uroczystości Politechniki Poznańskiej – Organizatorem uroczystości jest Uczelniane Centrum Kultury
+ - [https://uroczystosci.put.poznan.pl](https://uroczystosci.put.poznan.pl)
+ - date_published: 2024-05-26T18:42:08.442402+00:00
+
+ ## Video Poznań | Platforma Streamingowa Video Miasta Poznania – video.poznan.pl
+ - [https://video.poznan.pl](https://video.poznan.pl)
+ - date_published: 2024-09-13T17:52:13+00:00
+
  ## WasteValue
  - [https://wastevalue.put.poznan.pl](https://wastevalue.put.poznan.pl)
  - date_published: 2024-09-02T14:18:46.949313+00:00
@@ -3976,126 +4098,4 @@
  ## Nowe konstelacje, by Drekoty
  - [https://drekoty.thinman.pl](https://drekoty.thinman.pl)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## Czas dla siebie, by Egipcjanie
- - [https://egipcjanie.thinman.pl](https://egipcjanie.thinman.pl)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## With Love, by Eric Shoves Them In His Pockets
- - [https://ericshoves.thinman.pl](https://ericshoves.thinman.pl)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Horor, by Hoszpital
- - [https://hoszpital.thinman.pl](https://hoszpital.thinman.pl)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Podarte sukienki, by Kobiety
- - [https://kobiety.thinman.pl](https://kobiety.thinman.pl)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Bez pożegnania, by Komety
- - [https://komety.thinman.pl](https://komety.thinman.pl)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Tańcz, by Maki i Chłopaki
- - [https://maki.thinman.pl](https://maki.thinman.pl)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Perła Wszechświata, by Muzyka Końca Lata
- - [https://mkl.thinman.pl](https://mkl.thinman.pl)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Artists | Thin Man Records
- - [https://mp3.thinman.pl](https://mp3.thinman.pl)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Moja mama ma depresję i siedem innych piosenek o mi​ł​o​ś​ci, by Nawrocki
- - [https://nawrocki.thinman.pl](https://nawrocki.thinman.pl)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Plaża Babel, by ORGANIZM
- - [https://organizm.thinman.pl](https://organizm.thinman.pl)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Kenia, by Ryby
- - [https://ryby.thinman.pl](https://ryby.thinman.pl)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Thin Man Records
- - [https://thinman.pl](https://thinman.pl)
- - date_published: 2024-05-07T15:31:31.128204+00:00
-
- ## Thomann - Witamy w sklepie Thomann!
- - [https://thomann.pl](https://thomann.pl)
- - date_published: 2024-08-19T12:32:41.070543+00:00
-
- ## Kupuj bilety na koncerty i imprezy przez internet - Ticketclub.pl
- - [https://ticketclub.pl](https://ticketclub.pl)
- - date_published: 2024-07-18T12:12:15.150650+00:00
-
- ## Home | Ticketmaster PL Blog
- - [https://blog.ticketmaster.pl](https://blog.ticketmaster.pl)
- - date_published: 2024-12-21T07:25:03.178673+00:00
-
- ## TicketOS - Twój bilet do świata rozrywki. Bilety na koncerty i imprezy.
- - [https://ticketos.pl](https://ticketos.pl)
- - date_published: 2024-09-02T13:50:34.611698+00:00
-
- ## Tic Tac® - Refresh the moment and unleash your creativity
- - [https://tictac.pl](https://tictac.pl)
- - date_published: 2024-05-24T09:40:29+00:00
-
- ## Biletomat.pl x Time For Friends
- - [https://praca.timefor.pl](https://praca.timefor.pl)
- - date_published: 2024-06-06T14:29:49+00:00
-
- ## Time For Friends - Grupa Mediowa
- - [https://timefor.pl](https://timefor.pl)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://tiny.pl](https://tiny.pl)
- - date_published: 2024-12-03T08:35:52+00:00
- - tags: ['link service']
-
- ## Tipply.pl • System płatności na Twoim streamie
- - [http://tipply.pl](http://tipply.pl)
- - date_published: 2024-02-23T23:28:18.057042+00:00
-
- ## TLC Polska
- - [https://tlcpolska.pl](https://tlcpolska.pl)
- - date_published: 2024-06-16T01:40:21.607804+00:00
-
- ## Start - Airsoft Total Freaks
- - [https://atf.tm44.pl](https://atf.tm44.pl)
- - date_published: 2024-06-21T13:54:26.234006+00:00
-
- ## Start - RetRozrywka
- - [https://retrozrywka.tm44.pl](https://retrozrywka.tm44.pl)
- - date_published: 2024-06-21T13:54:21.661543+00:00
-
- ## Simi - Home Page
- - [https://simi.tm44.pl](https://simi.tm44.pl)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Main Page
- - [https://t-master.pl](https://t-master.pl)
- - date_published: 2024-07-14T05:37:18.792552+00:00
-
- ## TMK Studio - Profesjonalne strony i sklepy internetowe Bydgoszcz
- - [https://tmkstudio.pl](https://tmkstudio.pl)
- - date_published: 2024-08-17T22:30:25.335217+00:00
-
- ## Show HN: Upload a CSV file, get a Machine Learning model in 1 minute
- - [https://lukasiewicz.tmlc.pl](https://lukasiewicz.tmlc.pl)
- - date_published: 2024-03-27T18:52:42+00:00
- - date_dead_since: 2024-12-29T19:26:17.881326+00:00
-
- ## Telefony, Tablety, Laptopy, Szybki Internet - Dołącz do T-Mobile
- - [https://t-mobile.pl](https://t-mobile.pl)
- - date_published: 2024-10-06T17:46:21.647623+00:00
-
- ## Web Server's Default Page
- - [https://wolneslowo.tnb.pl](https://wolneslowo.tnb.pl)
- - date_published: 2021-03-25T03:52:02+00:00
 

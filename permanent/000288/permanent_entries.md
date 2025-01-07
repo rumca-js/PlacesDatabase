@@ -1,3 +1,94 @@
+ ## Convex Labs
+ - [https://labs.convex.dev](https://labs.convex.dev)
+ - date_published: 2024-04-29T07:31:41.165775+00:00
+
+ ## Convex News
+ - [https://news.convex.dev](https://news.convex.dev)
+ - date_published: 2024-04-29T07:30:41.753180+00:00
+
+ ## Convex Developer Search
+ - [https://search.convex.dev](https://search.convex.dev)
+ - date_published: 2024-07-23T22:46:20.958927+00:00
+
+ ## Stack: A collection of good ideas for developers building with Convex.
+ - [https://stack.convex.dev](https://stack.convex.dev)
+ - date_published: 2023-10-25T18:36:52.175996+00:00
+
+ ## Cookbook - Find any Smart Contract
+ - [https://cookbook.dev](https://cookbook.dev)
+ - date_published: 2024-01-09T02:56:55.040438+00:00
+
+ ## Cookbook Overview | Cookbook Docs
+ - [https://docs.cookbook.dev](https://docs.cookbook.dev)
+ - date_published: 2024-04-29T07:33:52.323363+00:00
+
+ ## Cookie though
+ - [https://cookiethough.dev](https://cookiethough.dev)
+ - date_published: 2024-10-20T22:19:33.050446+00:00
+
+ ## Core Dumped
+ - [https://coredumped.dev](https://coredumped.dev)
+ - date_published: 2023-10-25T18:36:55.902823+00:00
+
+ ## Corrode Rust Consulting
+ - [https://corrode.dev](https://corrode.dev)
+ - date_published: 2023-10-25T08:58:25.029322+00:00
+ - tags: ['personal']
+
+ ## Cory Dransfeldt
+ - [https://coryd.dev](https://coryd.dev)
+ - date_published: 2023-10-25T18:37:02.718460+00:00
+ - tags: ['personal']
+
+ ## Speedlify
+ - [https://speedlify.coryd.dev](https://speedlify.coryd.dev)
+ - date_published: 2024-05-04T14:15:16.586593+00:00
+
+ ## cosmicqbit.dev
+ - [https://cosmicqbit.dev](https://cosmicqbit.dev)
+ - date_published: 2024-05-11T10:21:48.028291+00:00
+
+ ## Inicio
+ - [https://costas.dev](https://costas.dev)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Page Redirection
+ - [https://cdn.counter.dev](https://cdn.counter.dev)
+ - date_published: 2024-04-28T03:26:28.582855+00:00
+
+ ## Counter: Simple Web Analytics
+ - [https://counter.dev](https://counter.dev)
+ - date_published: 2023-10-25T18:37:03.893973+00:00
+
+ ## Counterscale
+ - [https://counterscale.dev](https://counterscale.dev)
+ - date_published: 2024-06-23T05:59:31.267420+00:00
+
+ ## Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs
+ - [https://countless.dev](https://countless.dev)
+ - date_published: 2024-12-07T09:42:59+00:00
+ - tags: ['ranking page']
+
+ ## Coval
+ - [https://www.coval.dev](https://www.coval.dev)
+ - date_published: 2024-12-06T20:19:47+00:00
+
+ ## cpx
+ - [https://cpx.dev](https://cpx.dev)
+ - date_published: 2024-10-17T10:07:02.729661+00:00
+
+ ## CrabNebula
+ - [https://crabnebula.dev](https://crabnebula.dev)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Craigory Coppola
+ - [https://craigory.dev](https://craigory.dev)
+ - date_published: 2024-07-18T02:09:50+00:00
+
+ ## Cranelift
+ - [https://cranelift.dev](https://cranelift.dev)
+ - date_published: 2023-05-03T16:16:09+00:00
+
  ## Crawlee · Build reliable crawlers. Fast. | Crawlee
  - [https://crawlee.dev](https://crawlee.dev)
  - date_published: 2024-05-06T06:26:26.985096+00:00
@@ -2788,6 +2879,7 @@
  ## Ogbonna Henry | Full Stack Software Developer
  - [https://hen8y.dev](https://hen8y.dev)
  - date_published: 2024-10-28T23:32:45.080838+00:00
+ - date_dead_since: 2025-01-06T14:12:02.468975+00:00
 
  ## Henrique Vicente
  - [https://henvic.dev](https://henvic.dev)
@@ -3986,95 +4078,4 @@
  ## Water.css
  - [https://watercss.kognise.dev](https://watercss.kognise.dev)
  - date_published: 2024-05-06T14:02:30.229805+00:00
-
- ## Gitea
- - [https://kolaente.dev](https://kolaente.dev)
- - date_published: 2024-04-08T19:29:17.559682+00:00
- - tags: ['self-host', 'git']
-
- ## kotatsuyaki’s site
- - [https://blog.kotatsu.dev](https://blog.kotatsu.dev)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Sign In | KVH Analytics
- - [https://analytics.kovah.dev](https://analytics.kovah.dev)
- - date_published: 2024-07-17T23:08:39.995980+00:00
-
- ## Home | blog.kronis.dev
- - [https://blog.kronis.dev](https://blog.kronis.dev)
- - date_published: 2024-06-01T04:57:33.461854+00:00
- - tags: ['personal']
-
- ## Hacker News Personal Blogs | About Site
- - [https://hn-blogs.kronis.dev](https://hn-blogs.kronis.dev)
- - date_published: 2023-07-17T08:00:16+00:00
-
- ## Home | kronis.dev
- - [https://kronis.dev](https://kronis.dev)
- - date_published: 2024-06-23T19:05:15.544819+00:00
-
- ## Welcome to my link shortener
- - [https://links.kronis.dev](https://links.kronis.dev)
- - date_published: 2022-08-29T10:01:13+00:00
-
- ## Spotube
- - [https://spotube.krtirtho.dev](https://spotube.krtirtho.dev)
- - date_published: 2024-09-02T11:00:01.901394+00:00
-
- ## K-Scale Labs
- - [https://kscale.dev](https://kscale.dev)
- - date_published: 2024-12-15T07:37:09+00:00
-
- ## Home
- - [https://kubeapps.dev](https://kubeapps.dev)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Kubernetes Contributors
- - [https://kubernetes.dev](https://kubernetes.dev)
- - date_published: 2023-10-25T18:38:59.480703+00:00
-
- ## Kubero
- - [https://demo.kubero.dev](https://demo.kubero.dev)
- - date_published: 2024-08-30T08:13:26+00:00
-
- ## Quickstart | Kubero Docs
- - [https://docs.kubero.dev](https://docs.kubero.dev)
- - date_published: 2024-09-02T10:43:59.648736+00:00
-
- ## Kubero Kubernetes CI/CD PaaS
- - [https://www.kubero.dev](https://www.kubero.dev)
- - date_published: 2024-09-02T10:43:58.349691+00:00
-
- ## Show HN: Kubernetes Spec Explorer
- - [https://kubespec.dev](https://kubespec.dev)
- - date_published: 2024-12-12T15:02:14+00:00
-
- ## Kubito
- - [https://kubito.dev](https://kubito.dev)
- - date_published: 2024-11-15T21:30:14+00:00
-
- ## The Twenty Percent
- - [https://kuenzi.dev](https://kuenzi.dev)
- - date_published: 2023-10-25T18:39:00.164249+00:00
-
- ## kulbe dot dev — Portland techie.
- - [https://kulbe.dev](https://kulbe.dev)
- - date_published: 2024-06-18T16:15:45.280531+00:00
- - tags: ['personal']
-
- ## Plausible · Web analytics
- - [https://plausible.kulpinski.dev](https://plausible.kulpinski.dev)
- - date_published: 2024-05-09T05:54:54.325595+00:00
-
- ## kunat.dev
- - [https://kunat.dev](https://kunat.dev)
- - date_published: 2024-06-23T14:49:53.190595+00:00
-
- ## KUnit — KUnit  documentation
- - [https://kunit.dev](https://kunit.dev)
- - date_published: 2024-01-25T07:13:11+00:00
-
- ## kunoichi labs
- - [https://kunoichilabs.dev](https://kunoichilabs.dev)
- - date_published: 2024-05-22T20:58:02+00:00
 

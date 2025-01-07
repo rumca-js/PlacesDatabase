@@ -1,3 +1,91 @@
+ ## Rice
+ - [https://controller.rice.edu](https://controller.rice.edu)
+ - date_published: 2024-07-01T17:57:29.288688+00:00
+
+ ## CORISE
+ - [https://corise.rice.edu](https://corise.rice.edu)
+ - date_published: 2024-05-04T12:45:03+00:00
+
+ ## Coronavirus
+ - [https://coronavirus.rice.edu](https://coronavirus.rice.edu)
+ - date_published: 2024-06-03T23:28:41+00:00
+
+ ## Corporate
+ - [https://corporate.rice.edu](https://corporate.rice.edu)
+ - date_published: 2024-05-07T20:05:15.885783+00:00
+
+ ## Course Schedule
+ - [https://courses.rice.edu](https://courses.rice.edu)
+ - date_published: 2024-05-07T20:06:25.443687+00:00
+
+ ## Rice CS
+ - [https://cs.rice.edu](https://cs.rice.edu)
+ - date_published: 2024-05-07T20:06:13.694490+00:00
+
+ ## Rice CS
+ - [https://csweb.rice.edu](https://csweb.rice.edu)
+ - date_published: 2024-05-07T20:06:20.038814+00:00
+
+ ## CSWGS Home
+ - [https://cswgs.rice.edu](https://cswgs.rice.edu)
+ - date_published: 2024-06-10T16:48:28+00:00
+
+ ## Rice
+ - [https://ctbp.rice.edu](https://ctbp.rice.edu)
+ - date_published: 2024-07-01T17:57:34.354454+00:00
+
+ ## CTE
+ - [https://cte.rice.edu](https://cte.rice.edu)
+ - date_published: 2024-05-24T21:16:01+00:00
+
+ ## MCLC Home
+ - [https://cultures.rice.edu](https://cultures.rice.edu)
+ - date_published: 2024-05-15T15:44:43+00:00
+
+ ## Rice
+ - [https://dar.rice.edu](https://dar.rice.edu)
+ - date_published: 2024-05-07T20:05:56.969117+00:00
+
+ ## Rice
+ - [https://data.rice.edu](https://data.rice.edu)
+ - date_published: 2024-07-01T18:02:34.855628+00:00
+
+ ## Welcome | Delivery Services
+ - [https://delivery.rice.edu](https://delivery.rice.edu)
+ - date_published: 2024-07-01T18:01:36.735616+00:00
+
+ ## Inauguration
+ - [https://desrochesinauguration.rice.edu](https://desrochesinauguration.rice.edu)
+ - date_published: 2024-05-06T08:42:03+00:00
+
+ ## Home - Rice University Digital Collections
+ - [https://digitalcollections.rice.edu](https://digitalcollections.rice.edu)
+ - date_published: 2024-07-01T18:01:28.894730+00:00
+
+ ## Home
+ - [https://dining.rice.edu](https://dining.rice.edu)
+ - date_published: 2024-05-07T20:04:56.671140+00:00
+
+ ## DEI
+ - [https://diversity.rice.edu](https://diversity.rice.edu)
+ - date_published: 2024-05-04T09:12:56+00:00
+
+ ## Dean of Undergraduates
+ - [https://dou.rice.edu](https://dou.rice.edu)
+ - date_published: 2024-05-07T20:05:09.018776+00:00
+
+ ## ERROR: HTTP 403
+ - [https://ebank.rice.edu](https://ebank.rice.edu)
+ - date_published: 2012-06-27T14:07:44+00:00
+
+ ## Rice
+ - [https://economics.rice.edu](https://economics.rice.edu)
+ - date_published: 2024-06-20T17:42:20+00:00
+
+ ## Electron Microscopy Center: Rice EMC Website
+ - [http://emc.rice.edu](http://emc.rice.edu)
+ - date_published: 2024-07-01T17:19:17+00:00
+
  ## Home
  - [https://emergency.rice.edu](https://emergency.rice.edu)
  - date_published: 2024-05-07T20:05:39.392827+00:00
@@ -3916,92 +4004,4 @@
  ## Events Help
  - [https://events-help.stanford.edu](https://events-help.stanford.edu)
  - date_published: 2024-07-01T20:24:54.024806+00:00
-
- ## Events Calendar
- - [https://events.stanford.edu](https://events.stanford.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Spotlight at Stanford
- - [https://exhibits.stanford.edu](https://exhibits.stanford.edu)
- - date_published: 2024-06-15T07:22:20.610754+00:00
-
- ## Stanford University Explore Courses
- - [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
- - date_published: 2024-05-06T23:12:41.668136+00:00
-
- ## Stanford University Bulletin
- - [https://exploredegrees.stanford.edu](https://exploredegrees.stanford.edu)
- - date_published: 2024-05-07T20:25:19.667900+00:00
-
- ## Explore Energy
- - [https://explore-energy.stanford.edu](https://explore-energy.stanford.edu)
- - date_published: 2024-07-01T02:25:12+00:00
-
- ## Office of External Relations
- - [https://externalrelations.sites.stanford.edu](https://externalrelations.sites.stanford.edu)
- - date_published: 2024-05-15T23:56:40+00:00
-
- ## Office of External Relations
- - [https://externalrelations.stanford.edu](https://externalrelations.stanford.edu)
- - date_published: 2024-05-15T23:56:40+00:00
-
- ## FACET - II | Facility for Advanced Accelerator Experimental Tests
- - [https://facet-ii.slac.stanford.edu](https://facet-ii.slac.stanford.edu)
- - date_published: 2024-07-06T22:34:08+00:00
-
- ## Facts
- - [https://facts.stanford.edu](https://facts.stanford.edu)
- - date_published: 2024-05-07T20:31:11.947829+00:00
-
- ## Faculty Affairs
- - [https://facultyaffairs-humsci.stanford.edu](https://facultyaffairs-humsci.stanford.edu)
- - date_published: 2024-05-07T20:28:15.011247+00:00
-
- ## Faculty Affairs Office of the Provost
- - [https://facultyaffairs.stanford.edu](https://facultyaffairs.stanford.edu)
- - date_published: 2024-06-26T00:00:13+00:00
-
- ## Office of Faculty Development, Diversity and Engagement
- - [https://facultydevelopment.stanford.edu](https://facultydevelopment.stanford.edu)
- - date_published: 2024-06-28T12:57:42+00:00
-
- ## Stanford | Faculty Positions
- - [https://facultypositions.stanford.edu](https://facultypositions.stanford.edu)
- - date_published: 2024-05-07T20:30:55.775515+00:00
-
- ## Homepage | SLAC Faculty
- - [https://faculty.slac.stanford.edu](https://faculty.slac.stanford.edu)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Home
- - [http://fairuse.stanford.edu](http://fairuse.stanford.edu)
- - date_published: 2013-04-02T07:58:15+00:00
-
- ## Stanford Login
- - [https://fasa.stanford.edu](https://fasa.stanford.edu)
- - date_published: 2024-07-01T20:08:47.915865+00:00
-
- ## Future of Digital Currency Initiative
- - [https://fdc.stanford.edu](https://fdc.stanford.edu)
- - date_published: 2024-05-30T06:34:25+00:00
-
- ## FFIT Home Page
- - [https://ffit.stanford.edu](https://ffit.stanford.edu)
- - date_published: 2022-10-07T23:36:19+00:00
-
- ## Log in | Finance
- - [https://finance-humsci.stanford.edu](https://finance-humsci.stanford.edu)
- - date_published: 2024-05-07T20:28:13.020990+00:00
-
- ## Financial Aid : Stanford University
- - [https://financialaid.stanford.edu](https://financialaid.stanford.edu)
- - date_published: 2024-05-07T20:31:00.088096+00:00
-
- ## Flash Teams | Home
- - [https://flashteams.stanford.edu](https://flashteams.stanford.edu)
- - date_published: 2024-05-07T20:27:57.915742+00:00
-
- ## First Generation and/or Low-Income Student Success Center
- - [https://fli.stanford.edu](https://fli.stanford.edu)
- - date_published: 2024-06-10T23:20:37+00:00
 

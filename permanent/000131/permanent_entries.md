@@ -1,3 +1,43 @@
+ ## Blogger Status
+ - [https://blogger-status.googleblog.com](https://blogger-status.googleblog.com)
+ - date_published: 2024-10-02T05:22:13+00:00
+
+ ## Chrome Releases
+ - [https://chromereleases.googleblog.com](https://chromereleases.googleblog.com)
+ - date_published: 2023-10-25T08:40:21.923612+00:00
+
+ ## Google Cloud
+ - [https://cloud.googleblog.com](https://cloud.googleblog.com)
+ - date_published: 2024-05-04T08:29:07.448768+00:00
+
+ ## Google Cloud | Google Cloud Blog
+ - [https://cloudplatform.googleblog.com](https://cloudplatform.googleblog.com)
+ - date_published: 2024-09-18T22:23:39.059606+00:00
+
+ ## Programmable Search Engine Blog
+ - [https://customsearch.googleblog.com](https://customsearch.googleblog.com)
+ - date_published: 2024-04-27T08:26:31.715284+00:00
+
+ ## Google for Developers Blog - News about Web, Mobile, AI and Cloud
+ - [https://developers.googleblog.com](https://developers.googleblog.com)
+ - date_published: 2023-10-25T14:47:51.773508+00:00
+
+ ## Google Workspace Blog
+ - [https://gsuite-developers.googleblog.com](https://gsuite-developers.googleblog.com)
+ - date_published: 2024-05-04T09:35:05.871728+00:00
+
+ ## Google Workspace Updates ES
+ - [https://gsuiteupdates-es.googleblog.com](https://gsuiteupdates-es.googleblog.com)
+ - date_published: 2024-05-04T08:31:07.371970+00:00
+
+ ## Google Workspace Updates FR
+ - [https://gsuiteupdates-fr.googleblog.com](https://gsuiteupdates-fr.googleblog.com)
+ - date_published: 2024-05-04T08:31:04.247257+00:00
+
+ ## Google Workspace Updates
+ - [https://gsuiteupdates.googleblog.com](https://gsuiteupdates.googleblog.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Google Workspace Updates JA
  - [https://gsuiteupdates-ja.googleblog.com](https://gsuiteupdates-ja.googleblog.com)
  - date_published: 2024-05-04T08:31:10.336856+00:00
@@ -4021,44 +4061,4 @@
  ## Grapefruit Records - An Independent Label & Record Shop
  - [http://www.grapefruitrecordclub.com](http://www.grapefruitrecordclub.com)
  - date_published: 2024-12-26T22:02:14.302134+00:00
-
- ## grapenotes: The Complete Graper Stories
- - [http://grapenotes.com](http://grapenotes.com)
- - date_published: 2003-07-26T00:26:32+00:00
-
- ## GrapesJS - Free and Open Source Web Template Editor Framework
- - [https://grapesjs.com](https://grapesjs.com)
- - date_published: 2024-10-31T11:53:07+00:00
-
- ## Grapevine Video - silent movies and classic cinema on DVD
- - [http://www.grapevinevideo.com](http://www.grapevinevideo.com)
- - date_published: 2024-05-15T21:48:02+00:00
-
- ## dtype_dispatch: a most beautiful hack - Graph All The Things
- - [https://graphallthethings.com](https://graphallthethings.com)
- - date_published: 2024-11-16T18:19:03.377223+00:00
-
- ## graphapi® - Build enterprise-scale apps with no-code.
- - [https://graphapi.com](https://graphapi.com)
- - date_published: 2024-10-26T16:21:52+00:00
-
- ## Free design resources, Mockups, PSD web templates, Icons
- - [https://graphberry.com](https://graphberry.com)
- - date_published: 2024-05-01T05:01:03.019344+00:00
-
- ## The Next Generation GraphQL Headless CMS
- - [https://graphcms.com](https://graphcms.com)
- - date_published: 2024-06-22T15:49:47.879914+00:00
-
- ## Agence de communication
- - [https://grapheine.com](https://grapheine.com)
- - date_published: 2024-07-04T14:51:14.938717+00:00
-
- ## graphemica · l♥ve letters
- - [https://graphemica.com](https://graphemica.com)
- - date_published: 2024-07-03T18:02:56.888501+00:00
-
- ## Graphene-Info | Graphene News, Resources & Information
- - [https://graphene-info.com](https://graphene-info.com)
- - date_published: 2024-06-20T00:00:00+00:00
 

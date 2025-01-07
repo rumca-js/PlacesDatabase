@@ -1,3 +1,7 @@
+ ## Actionable Analytics for Growth teams | Narrative BI
+ - [http://narrative.bi](http://narrative.bi)
+ - date_published: 2023-10-25T11:59:36.984588+00:00
+
  ## random pictures/thoughts – rabbi ramrattan
  - [https://rab.bi](https://rab.bi)
  - date_published: 2024-07-11T00:00:00+00:00
@@ -4095,8 +4099,4 @@
  ## Are you ready to jumpstart your career? - CIB Early Career
  - [https://careers.cib.bnpparibas](https://careers.cib.bnpparibas)
  - date_published: 2022-10-19T13:11:39+00:00
-
- ## BNP Paribas CIB - The Bank for a changing world
- - [https://cib.bnpparibas](https://cib.bnpparibas)
- - date_published: 2024-05-17T12:57:56+00:00
 

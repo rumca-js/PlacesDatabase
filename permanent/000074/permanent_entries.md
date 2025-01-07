@@ -1,3 +1,19 @@
+ ## Old Guard Gaming
+ - [http://oldguardgamingaccoutrements.blogspot.com](http://oldguardgamingaccoutrements.blogspot.com)
+ - date_published: 2024-07-08T08:09:09+00:00
+
+ ## ChicagoWiz's RPG Blog
+ - [http://oldguyrpg.blogspot.com](http://oldguyrpg.blogspot.com)
+ - date_published: 2024-06-29T15:01:39+00:00
+
+ ## Oldhammer15
+ - [http://oldhammer15.blogspot.com](http://oldhammer15.blogspot.com)
+ - date_published: 2024-08-30T00:11:29+00:00
+
+ ## OLDHAMMER HERESY
+ - [http://oldhammer30k.blogspot.com](http://oldhammer30k.blogspot.com)
+ - date_published: 2024-07-04T06:32:59+00:00
+
  ## Oldhammer: 40k Quest
  - [https://oldhammer40kquest.blogspot.com](https://oldhammer40kquest.blogspot.com)
  - date_published: 2024-12-19T03:27:00+00:00
@@ -2618,7 +2634,7 @@
  - date_published: 2024-05-08T19:31:46+00:00
 
  ## Stop Phe
- - [http://phe800.blogspot.com](http://phe800.blogspot.com)
+ - [https://phe800.blogspot.com](https://phe800.blogspot.com)
  - date_published: 2024-10-29T08:16:23+00:00
 
  ## Crossing the Lines
@@ -3907,7 +3923,7 @@
  - date_published: 2024-06-27T22:10:27+00:00
 
  ## positive check
- - [http://positivecheck.blogspot.com](http://positivecheck.blogspot.com)
+ - [https://positivecheck.blogspot.com](https://positivecheck.blogspot.com)
  - date_published: 2024-10-29T06:10:48+00:00
 
  ## Positive Letters ... inspirational stories ...
@@ -3990,20 +4006,4 @@
  ## Powder Burns & Bullets
  - [http://powderburnsandbullets.blogspot.com](http://powderburnsandbullets.blogspot.com)
  - date_published: 2024-12-19T03:21:48+00:00
-
- ## Power to the People
- - [https://power-2-people.blogspot.com](https://power-2-people.blogspot.com)
- - date_published: 2024-10-21T18:06:02.792434+00:00
-
- ## Power and Control
- - [https://powerandcontrol.blogspot.com](https://powerandcontrol.blogspot.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Once Upon a Time...
- - [https://powerofnarrative.blogspot.com](https://powerofnarrative.blogspot.com)
- - date_published: 2024-02-20T22:40:30+00:00
-
- ## POWER POP ACTION!
- - [http://powerpopaction.blogspot.com](http://powerpopaction.blogspot.com)
- - date_published: 2024-11-08T15:37:35+00:00
 

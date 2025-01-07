@@ -1,3 +1,127 @@
+ ## Civil Service Quarterly – Expert guidance for civil servants
+ - [https://quarterly.blog.gov.uk](https://quarterly.blog.gov.uk)
+ - date_published: 2024-06-18T10:38:56.398134+00:00
+
+ ## The King’s Awards for Enterprise – News and updates about The King's Awards for Enterprise
+ - [https://queensawards.blog.gov.uk](https://queensawards.blog.gov.uk)
+ - date_published: 2024-10-21T09:39:23.579083+00:00
+
+ ## Regulatory Policy Committee – RPC – the independent better regulation watchdog
+ - [https://rpc.blog.gov.uk](https://rpc.blog.gov.uk)
+ - date_published: 2024-06-18T10:38:44.086552+00:00
+
+ ## Responsible Technology Adoption Unit Blog – Ideas, updates and news about the RTAU
+ - [https://rtau.blog.gov.uk](https://rtau.blog.gov.uk)
+ - date_published: 2024-06-18T10:35:46.209232+00:00
+
+ ## Rural payments – News and updates from the team.
+ - [https://ruralpayments.blog.gov.uk](https://ruralpayments.blog.gov.uk)
+ - date_published: 2024-06-18T10:27:44.190662+00:00
+
+ ## Government security – This blog will bring you updates about what’s happening in the Security Profession across Government.
+ - [https://securityprofession.blog.gov.uk](https://securityprofession.blog.gov.uk)
+ - date_published: 2024-06-18T10:27:48.781497+00:00
+
+ ## Services in government – A blog for people who are transforming services across the public sector
+ - [https://services.blog.gov.uk](https://services.blog.gov.uk)
+ - date_published: 2024-05-02T12:28:33.930988+00:00
+
+ ## ESFA Digital
+ - [https://sfadigital.blog.gov.uk](https://sfadigital.blog.gov.uk)
+ - date_published: 2024-06-18T10:37:53.220711+00:00
+
+ ## Government Shared Services – News and updates from Shared Services
+ - [https://sharedservices.blog.gov.uk](https://sharedservices.blog.gov.uk)
+ - date_published: 2024-06-18T10:35:57.553078+00:00
+
+ ## Social care – This blog from the Department of Health and Social Care shares news, views and information updates for anyone working in – or receiving support from – the care and support sector.
+ - [https://socialcare.blog.gov.uk](https://socialcare.blog.gov.uk)
+ - date_published: 2024-10-21T09:29:36.730794+00:00
+
+ ## Ofsted: social care – News and updates in children's social care and early years regulation
+ - [https://socialcareinspection.blog.gov.uk](https://socialcareinspection.blog.gov.uk)
+ - date_published: 2024-06-18T10:35:52.143087+00:00
+
+ ## Children’s social care – News, views and advice written by your peers in the sector, who share their personal or professional experience of children's social care.   Find out more about the blog and sign up to receive email updates when new posts are added.
+ - [https://socialworkers.blog.gov.uk](https://socialworkers.blog.gov.uk)
+ - date_published: 2024-10-21T09:31:03.842273+00:00
+
+ ## Social work with adults – Insights, updates and reflections from the Chief Social Worker for Adults and others working in the field
+ - [https://socialworkwithadults.blog.gov.uk](https://socialworkwithadults.blog.gov.uk)
+ - date_published: 2024-06-18T10:37:04.366422+00:00
+
+ ## UK Space Agency blog – We boost UK prosperity, understand the Universe, and protect our planet and outer space.
+ - [https://space.blog.gov.uk](https://space.blog.gov.uk)
+ - date_published: 2024-06-18T10:38:22.111963+00:00
+
+ ## Social Security Advisory Committee – News and updates from the Social Security Advisory Committee
+ - [https://ssac.blog.gov.uk](https://ssac.blog.gov.uk)
+ - date_published: 2024-06-18T10:38:40.346798+00:00
+
+ ## Strategic Command – News and updates from the MOD UK Strategic Command
+ - [https://stratcommand.blog.gov.uk](https://stratcommand.blog.gov.uk)
+ - date_published: 2024-06-18T10:36:01.282826+00:00
+
+ ## Supporting Families Programme – News and updates from the Supporting Families Programme
+ - [https://supportingfamilies.blog.gov.uk](https://supportingfamilies.blog.gov.uk)
+ - date_published: 2024-06-18T10:35:48.776103+00:00
+
+ ## UK Government Sustainable ICT – News and updates from Defra's Sustainable ICT Team working with, for, and on behalf of UK Government
+ - [https://sustainableict.blog.gov.uk](https://sustainableict.blog.gov.uk)
+ - date_published: 2024-06-18T10:28:25.792507+00:00
+
+ ## Systems thinking – News and updates from the Systems Unit
+ - [https://systemsthinking.blog.gov.uk](https://systemsthinking.blog.gov.uk)
+ - date_published: 2024-10-21T09:29:19.442621+00:00
+
+ ## Teaching – News and updates on teaching from DfE
+ - [https://teaching.blog.gov.uk](https://teaching.blog.gov.uk)
+ - date_published: 2024-06-18T10:38:13.027800+00:00
+
+ ## Technology in government – About digital and technology projects in government.
+ - [https://technology.blog.gov.uk](https://technology.blog.gov.uk)
+ - date_published: 2024-05-02T12:28:45.041810+00:00
+
+ ## Trade Remedies Authority – News and updates from the Trade Remedies Authority.
+ - [https://traderemedies.blog.gov.uk](https://traderemedies.blog.gov.uk)
+ - date_published: 2024-06-18T10:37:06.184878+00:00
+
+ ## UK Hydrographic Office – News and updates from the UKHO
+ - [https://ukhodigital.blog.gov.uk](https://ukhodigital.blog.gov.uk)
+ - date_published: 2024-06-18T10:37:34.893444+00:00
+
+ ## UK Health Security Agency – The official blog of the UK Health Security Agency, providing expert insight on the organisation's work and all aspects of health security
+ - [https://ukhsa.blog.gov.uk](https://ukhsa.blog.gov.uk)
+ - date_published: 2024-06-18T10:39:21.170567+00:00
+
+ ## User research in government – User research news and case studies from across government
+ - [https://userresearch.blog.gov.uk](https://userresearch.blog.gov.uk)
+ - date_published: 2024-05-02T12:28:30.493132+00:00
+
+ ## Valuation Office Agency – News and updates from the Valuation Office Agency
+ - [https://valuationoffice.blog.gov.uk](https://valuationoffice.blog.gov.uk)
+ - date_published: 2024-06-18T10:38:53.123867+00:00
+
+ ## Veterans Today – News, updates and information for veterans
+ - [https://veteranstoday.blog.gov.uk](https://veteranstoday.blog.gov.uk)
+ - date_published: 2024-06-18T10:35:29.564424+00:00
+
+ ## Government Vets – The blog of vets working in UK government
+ - [https://vets.blog.gov.uk](https://vets.blog.gov.uk)
+ - date_published: 2024-06-18T10:38:03.367368+00:00
+
+ ## Surveillance Camera Commissioner’s Office – News and updates on video surveillance
+ - [https://videosurveillance.blog.gov.uk](https://videosurveillance.blog.gov.uk)
+ - date_published: 2024-06-18T10:37:45.380678+00:00
+
+ ## Veterinary Medicines Directorate – News and updates about veterinary medicines
+ - [https://vmd.blog.gov.uk](https://vmd.blog.gov.uk)
+ - date_published: 2024-06-18T10:36:04.339123+00:00
+
+ ## GOV.UK blogs
+ - [https://www.blog.gov.uk](https://www.blog.gov.uk)
+ - date_published: 2024-05-02T12:28:37.124510+00:00
+
  ## Brighton & Hove City Council
  - [http://www.brighton-hove.gov.uk](http://www.brighton-hove.gov.uk)
  - date_published: 2024-09-15T07:44:58+00:00
@@ -3905,129 +4029,4 @@ Edinburgh since 1840; When I last counted, at January 2010, there were about
  ## London Air Quality Network
  - [https://www.londonair.org.uk](https://www.londonair.org.uk)
  - date_published: 2024-07-02T05:55:41.122880+00:00
-
- ## London Art History Society
- - [https://londonarthistorysociety.org.uk](https://londonarthistorysociety.org.uk)
- - date_published: 2024-07-03T21:21:38.362507+00:00
-
- ## London Masons | Freemasons | What is Freemasonry
- - [https://www.londonmasons.org.uk](https://www.londonmasons.org.uk)
- - date_published: 2023-01-03T00:00:00+00:00
- - tags: ['freemasonry']
-
- ## Exploring the importance of maritime safety
- - [https://hec.lrfoundation.org.uk](https://hec.lrfoundation.org.uk)
- - date_published: 2024-06-21T09:43:49.906135+00:00
-
- ## L. Ron Hubbard - Scientology & Dianetics Founder
- - [https://www.lronhubbard.org.uk](https://www.lronhubbard.org.uk)
- - date_published: 2024-06-06T19:39:07.500454+00:00
-
- ## ClubSpark / Home
- - [https://clubspark.lta.org.uk](https://clubspark.lta.org.uk)
- - date_published: 2024-07-13T11:49:56.842058+00:00
-
- ## Welcome to lug.org.uk
- - [https://lug.org.uk](https://lug.org.uk)
- - date_published: 2024-09-08T16:10:06+00:00
-
- ## PLUG - Portsmouth Linux User Group
- - [http://portsmouth.lug.org.uk](http://portsmouth.lug.org.uk)
- - date_published: 2022-01-15T17:12:14+00:00
-
- ## LUPUS UK - The National Charity for People Affected by Lupus
- - [https://lupusuk.org.uk](https://lupusuk.org.uk)
- - date_published: 2024-06-28T12:07:36.252128+00:00
-
- ## Luton Rising
- - [https://lutonrising.org.uk](https://lutonrising.org.uk)
- - date_published: 2024-06-21T16:25:00.120784+00:00
-
- ## LUU Engage
- - [https://engage.luu.org.uk](https://engage.luu.org.uk)
- - date_published: 2024-06-17T18:09:18.561266+00:00
-
- ## LUU Intranet
- - [https://intranet.luu.org.uk](https://intranet.luu.org.uk)
- - date_published: 2024-06-17T18:09:11.929089+00:00
-
- ## Leeds University Union
- - [https://luu.org.uk](https://luu.org.uk)
- - date_published: 2024-10-20T05:11:05.610946+00:00
-
- ## Better Forums & Policy at LUU
- - [https://policy.luu.org.uk](https://policy.luu.org.uk)
- - date_published: 2024-06-17T18:09:17.523754+00:00
-
- ## Home | Royal Lyceum Theatre Edinburgh
- - [https://lyceum.org.uk](https://lyceum.org.uk)
- - date_published: 2024-12-28T06:38:53.978167+00:00
-
- ## Macmillan Cancer Support | The UK's leading cancer care charity
- - [https://www.macmillan.org.uk](https://www.macmillan.org.uk)
- - date_published: 2024-07-03T15:25:22.211940+00:00
-
- ## mainlymorrisdancing.org.uk
- - [http://www.mainlymorrisdancing.org.uk](http://www.mainlymorrisdancing.org.uk)
- - date_published: 2024-08-08T03:39:55.650742+00:00
-
- ## Children's charity, granting wishes to seriously ill children | Make-A-Wish UK
- - [https://www.make-a-wish.org.uk](https://www.make-a-wish.org.uk)
- - date_published: 2024-08-18T23:07:45.039097+00:00
-
- ## makemyvotecount.org.uk
- - [http://www.makemyvotecount.org.uk](http://www.makemyvotecount.org.uk)
- - date_published: 2024-07-03T21:54:55.198669+00:00
-
- ## Home
- - [https://managers.org.uk](https://managers.org.uk)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## MANCENT – The Manchester Continuing Education Network – Adult Education in Greater Manchester and Online
- - [https://mancent.org.uk](https://mancent.org.uk)
- - date_published: 2024-06-24T10:31:07.370611+00:00
-
- ## Delivering medical care to Palestinians living under occupation and as refugees in the Palestinian Territories and in Lebanon.
- - [https://www.map.org.uk](https://www.map.org.uk)
- - date_published: 2024-07-08T16:28:40.256056+00:00
-
- ## Marc Morris
- - [http://www.marcmorris.org.uk](http://www.marcmorris.org.uk)
- - date_published: 2024-05-30T07:44:13+00:00
-
- ## Marie Curie | The UK’s leading end of life charity
- - [https://www.mariecurie.org.uk](https://www.mariecurie.org.uk)
- - date_published: 2024-10-20T10:43:11.226900+00:00
-
- ## Dr Mark Pack's blog
- - [https://www.markpack.org.uk](https://www.markpack.org.uk)
- - date_published: 2024-06-18T09:37:24+00:00
-
- ## Gareth Marlow – Home Tech, Climate Crisis
- - [http://www.marlow.org.uk](http://www.marlow.org.uk)
- - date_published: 2024-07-08T09:16:00.544970+00:00
-
- ## Marxism 2024 — a festival of socialist ideas
- - [http://www.marxismfestival.org.uk](http://www.marxismfestival.org.uk)
- - date_published: 2024-10-21T17:09:21.456539+00:00
-
- ## Masonic Great War Project
- - [https://www.masonicgreatwarproject.org.uk](https://www.masonicgreatwarproject.org.uk)
- - date_published: 2024-06-21T09:40:56.854934+00:00
-
- ## Mastodon.org.uk
- - [https://mastodon.org.uk](https://mastodon.org.uk)
- - date_published: 2024-06-22T06:35:08.203530+00:00
-
- ## Peter Oliver
- - [https://www.mavit.org.uk](https://www.mavit.org.uk)
- - date_published: 2024-10-15T23:41:54+00:00
-
- ## Muslim Council of Britain (MCB): Empowering British Muslims
- - [http://www.mcb.org.uk](http://www.mcb.org.uk)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home page - The Masonic Charitable Foundation
- - [https://mcf.org.uk](https://mcf.org.uk)
- - date_published: 2024-06-03T00:00:00+00:00
 

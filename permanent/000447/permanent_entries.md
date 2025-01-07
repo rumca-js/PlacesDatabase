@@ -1,3 +1,123 @@
+ ## Najwyższa Izba Kontroli
+ - [https://nik.gov.pl](https://nik.gov.pl)
+ - date_published: 2023-11-16T16:54:09.383687+00:00
+
+ ## FINA strona główna
+ - [https://nina.gov.pl](https://nina.gov.pl)
+ - date_published: 2024-05-21T03:04:50.101497+00:00
+
+ ## Strona główna - Narodowy Instytut Wolności
+ - [https://niw.gov.pl](https://niw.gov.pl)
+ - date_published: 2021-03-27T07:35:03+00:00
+
+ ## OBYWATEL.GOV.PL - Informacje i usługi przyjazne obywatelom | obywatel.gov.pl
+ - [https://obywatel.gov.pl](https://obywatel.gov.pl)
+ - date_published: 2024-05-29T08:33:34.806119+00:00
+
+ ## OSE - Ogólnopolska Sieć Edukacyjna
+ - [https://ose.gov.pl](https://ose.gov.pl)
+ - date_published: 2024-05-26T17:01:11.556553+00:00
+
+ ## Strona główna | Pacjent
+ - [https://pacjent.gov.pl](https://pacjent.gov.pl)
+ - date_published: 2024-05-12T04:01:48.009966+00:00
+
+ ## Strona główna
+ - [https://www.paih.gov.pl](https://www.paih.gov.pl)
+ - date_published: 2024-07-14T05:24:43.367244+00:00
+
+ ## Strona główna - PARP - Centrum Rozwoju MŚP
+ - [https://www.parp.gov.pl](https://www.parp.gov.pl)
+ - date_published: 2024-06-25T18:35:58+00:00
+
+ ## Państwowa Komisja Wyborcza
+ - [https://www.pkw.gov.pl](https://www.pkw.gov.pl)
+ - date_published: 2025-01-02T04:44:44.235746+00:00
+
+ ## podatki.gov.pl
+ - [https://podatki.gov.pl](https://podatki.gov.pl)
+ - date_published: 2024-12-10T19:17:47.441811+00:00
+
+ ## Infrastruktura i Środowisko - Ministerstwo Funduszy i Polityki Regionalnej
+ - [https://www.pois.gov.pl](https://www.pois.gov.pl)
+ - date_published: 2024-10-25T10:22:47.401529+00:00
+
+ ## Centralne Biuro Zwalczania Cyberprzestępczości
+ - [https://cbzc.policja.gov.pl](https://cbzc.policja.gov.pl)
+ - date_published: 2024-09-15T19:19:51.204168+00:00
+
+ ## MAPA - POLSA - Mapa infrastruktury
+ - [https://mapainfrastruktury.polsa.gov.pl](https://mapainfrastruktury.polsa.gov.pl)
+ - date_published: 2021-11-16T11:39:03+00:00
+
+ ## Platforma NSIS
+ - [https://nsisplatforma.polsa.gov.pl](https://nsisplatforma.polsa.gov.pl)
+ - date_published: 2024-10-04T07:52:50+00:00
+
+ ## Polska Agencja Kosmiczna (POLSA)
+ - [https://polsa.gov.pl](https://polsa.gov.pl)
+ - date_published: 2021-10-09T07:09:53+00:00
+
+ ## #PomagamUkrainie
+ - [https://pomagamukrainie.gov.pl](https://pomagamukrainie.gov.pl)
+ - date_published: 2023-03-15T10:40:20+00:00
+
+ ## Serwis Polskiej Organizacji Turystycznej
+ - [https://www.pot.gov.pl](https://www.pot.gov.pl)
+ - date_published: 2024-12-29T23:10:33+00:00
+
+ ## Wiedza Edukacja Rozwój - Ministerstwo Funduszy i Polityki Regionalnej
+ - [http://www.power.gov.pl](http://www.power.gov.pl)
+ - date_published: 2024-07-13T19:04:55.960252+00:00
+
+ ## Strona główna | WORTAL
+ - [https://wupkrakow.praca.gov.pl](https://wupkrakow.praca.gov.pl)
+ - date_published: 2024-07-09T13:23:47.132733+00:00
+
+ ## Strona główna | WORTAL
+ - [http://wuppoznan.praca.gov.pl](http://wuppoznan.praca.gov.pl)
+ - date_published: 2024-07-13T19:04:39.587956+00:00
+
+ ## Premier - Kancelaria Prezesa Rady Ministrów - Portal Gov.pl
+ - [https://www.premier.gov.pl](https://www.premier.gov.pl)
+ - date_published: 2024-08-18T07:19:55.766848+00:00
+
+ ## Strona główna - Profil zaufany
+ - [https://pz.gov.pl](https://pz.gov.pl)
+ - date_published: 2024-07-13T19:11:47.141372+00:00
+
+ ## NCEZ - strona główna - Narodowe Centrum Edukacji Żywieniowej
+ - [https://ncez.pzh.gov.pl](https://ncez.pzh.gov.pl)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Szczepienia.Info - Strona główna
+ - [https://szczepienia.pzh.gov.pl](https://szczepienia.pzh.gov.pl)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Narodowy Instytut Zdrowia Publicznego - Państwowy Zakład Higieny
+ - [https://www.pzh.gov.pl](https://www.pzh.gov.pl)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Rządowe Centrum Legislacji |
+ - [http://www.rcl.gov.pl](http://www.rcl.gov.pl)
+ - date_published: 2024-06-22T09:13:33.034758+00:00
+
+ ## Rzecznik Finansowy
+ - [https://bip.rf.gov.pl](https://bip.rf.gov.pl)
+ - date_published: 2024-07-09T20:14:59.362380+00:00
+
+ ## Rzecznik Finansowy
+ - [https://rf.gov.pl](https://rf.gov.pl)
+ - date_published: 2024-05-09T06:27:00.284532+00:00
+
+ ## Fundusze Europejskie dla Rozwoju Społecznego - Ministerstwo Funduszy i Polityki Regionalnej
+ - [https://www.rozwojspoleczny.gov.pl](https://www.rozwojspoleczny.gov.pl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Biuletyn Informacji Publicznej RPO | Rzecznik Praw Obywatelskich
+ - [https://rpo.gov.pl](https://rpo.gov.pl)
+ - date_published: 2024-05-09T06:26:51.443967+00:00
+
  ## Biuro Rzecznika Małych i Średnich Przedsiębiorców
  - [https://en.rzecznikmsp.gov.pl](https://en.rzecznikmsp.gov.pl)
  - date_published: 2024-07-09T20:14:52.968810+00:00
@@ -3977,127 +4097,4 @@ Polska 1939
  ## Stwórz CV, dzieki któremu znajdziesz wymarzoną pracę
  - [https://cveasy.pl](https://cveasy.pl)
  - date_published: 2024-05-06T09:21:14.631564+00:00
-
- ## CVeasy.pl FAQ
- - [https://help.cveasy.pl](https://help.cveasy.pl)
- - date_published: 2024-06-22T22:12:08.358804+00:00
-
- ## Strona główna | CyberDefence24
- - [https://cyberdefence24.pl](https://cyberdefence24.pl)
- - date_published: 2023-10-25T22:26:39.035498+00:00
-
- ## cyber_Folks - logowanie do panelu administratora
- - [https://s143.cyber-folks.pl](https://s143.cyber-folks.pl)
- - date_published: 2022-04-26T13:14:51+00:00
-
- ## cyber_Folks - logowanie do panelu administratora
- - [https://s149.cyber-folks.pl](https://s149.cyber-folks.pl)
- - date_published: 2022-04-26T13:39:09+00:00
-
- ## cyber_Folks - logowanie do panelu administratora
- - [https://s162.cyber-folks.pl](https://s162.cyber-folks.pl)
- - date_published: 2022-04-26T13:16:14+00:00
-
- ## cyber_Folks - logowanie do panelu administratora
- - [https://s168.cyber-folks.pl](https://s168.cyber-folks.pl)
- - date_published: 2022-04-26T12:43:00+00:00
-
- ## cyber_Folks - logowanie do panelu administratora
- - [https://s44.cyber-folks.pl](https://s44.cyber-folks.pl)
- - date_published: 2023-11-30T13:34:20+00:00
-
- ## hosting | domeny | e-marketing
- - [https://cyberfolks.pl](https://cyberfolks.pl)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## cyber_Folks Investors
- - [https://investors.cyberfolks.pl](https://investors.cyberfolks.pl)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## PHP Live! Support
- - [https://livechat.cyberfolks.pl](https://livechat.cyberfolks.pl)
- - date_published: 2024-07-15T04:09:32+00:00
-
- ## _Now - narzędzia do stron 🛠 Kreator i migrator stron www
- - [https://now.cyberfolks.pl](https://now.cyberfolks.pl)
- - date_published: 2024-07-10T07:19:04+00:00
-
- ## _Partners - Marketplace usług cyfrowych
- - [https://partners.cyberfolks.pl](https://partners.cyberfolks.pl)
- - date_published: 2024-07-15T04:09:27.264969+00:00
-
- ## Cyberprofilaktyka NASK
- - [https://cyberprofilaktyka.pl](https://cyberprofilaktyka.pl)
- - date_published: 2024-07-14T18:17:32.315151+00:00
-
- ## Konfigurator sklepu cyber_Stores
- - [https://kreator.cyberstores.pl](https://kreator.cyberstores.pl)
- - date_published: 2024-07-15T04:09:35.897438+00:00
-
- ## CyberSzpieg - Toplista gier online, MMO i MMORPG na Smartfony
- - [http://www.cyberszpieg.pl](http://www.cyberszpieg.pl)
- - date_published: 2024-07-10T02:05:49.812272+00:00
-
- ## Lepsza fotografia lepszy film - Blog o fotografii i filmowaniu
- - [https://blog.cyfrowe.pl](https://blog.cyfrowe.pl)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Aparaty cyfrowe, kamery cyfrowe i akcesoria - Fotograficzny sklep internetowy Cyfrowe.pl
- - [https://cyfrowe.pl](https://cyfrowe.pl)
- - date_published: 2024-05-29T14:03:18.282114+00:00
- - tags: ['photography shop']
-
- ## Strona główna - Polsat Box
- - [http://www.cyfrowypolsat.pl](http://www.cyfrowypolsat.pl)
- - date_published: 2024-07-09T17:48:16.292573+00:00
-
- ## Łukasz Adamczak
- - [http://czak.pl](http://czak.pl)
- - date_published: 2023-12-14T10:20:36+00:00
-
- ## Czarny Kamień RESORT&SPA – hotel w Szklarskiej Porębie, hotel z basenem, apartamenty w Karkonoszach - Czarny Kamień Resort & SPA
- - [https://www.czarnykamien.pl](https://www.czarnykamien.pl)
- - date_published: 2024-08-18T17:10:23.529944+00:00
-
- ## Strona główna - Czas Kultury
- - [http://www.czaskultury.pl](http://www.czaskultury.pl)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Magazyn o stylowych wnętrzach
- - [https://czasnawnetrze.pl](https://czasnawnetrze.pl)
- - date_published: 2023-12-13T14:58:22.574147+00:00
- - tags: ['home articles']
-
- ## Fundacja Cząstka Ciebie - wspieramy charytatywnie
- - [https://czastkaciebie.pl](https://czastkaciebie.pl)
- - date_published: 2024-08-19T23:57:30.875634+00:00
-
- ## Zautomatyzuj marketing i obsługę klienta – Czater
- - [https://www.czater.pl](https://www.czater.pl)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Porównywarka pożyczek i kredytów Czerwona Skarbonka
- - [https://www.czerwona-skarbonka.pl](https://www.czerwona-skarbonka.pl)
- - date_published: 2024-08-19T11:10:05+00:00
-
- ## Części samochodowe » sklep internetowy. Kupić tanie auto części online
- - [http://www.czesciauto24.pl](http://www.czesciauto24.pl)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## CZIX | Budowa Dzierżawa Sieci Światłowodowych Transmisja INTERNET Kolokacja Serwerownia
- - [http://www.czix.pl](http://www.czix.pl)
- - date_published: 2024-09-17T18:54:37.357620+00:00
-
- ## Człowiek w Zagrożeniu – Festiwal Mediów
- - [https://czlowiekwzagrozeniu.pl](https://czlowiekwzagrozeniu.pl)
- - date_published: 2024-06-28T19:23:14.783699+00:00
-
- ## CzteryKaty.pl
- - [https://czterykaty.pl](https://czterykaty.pl)
- - date_published: 2024-08-18T11:29:12.386939+00:00
-
- ## Tramwaje i Autobusy na mapie - lokalizacja na żywo
- - [https://czynaczas.pl](https://czynaczas.pl)
- - date_published: 2023-12-06T13:08:46+00:00
- - tags: ['public transport', 'service maps']
 

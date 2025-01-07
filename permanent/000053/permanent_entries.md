@@ -1,3 +1,7 @@
+ ## Award Winning Fjords « Thomas Reynolds
+ - [https://awardwinningfjords.com](https://awardwinningfjords.com)
+ - date_published: 2024-07-08T10:45:07.794486+00:00
+
  ## Aware
  - [https://awaremac.com](https://awaremac.com)
  - date_published: 2019-10-07T05:34:15+00:00
@@ -273,7 +277,7 @@
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Awning Experts | Retractable Awnings | Awning | Metal Awnings | Patio Awnings | Awning Company | Awning Repairs
- - [https://www.awning-experts.com](https://www.awning-experts.com)
+ - [https://awning-experts.com](https://awning-experts.com)
  - date_published: 2024-10-28T23:14:59.883286+00:00
 
  ## Hi, I'm Andrew
@@ -4021,8 +4025,4 @@
  ## บาคาร่า เกมไพ่ที่กำลังมาแรง สร้างรายได้เยอะที่สุด
  - [https://www.baldingsworld.com](https://www.baldingsworld.com)
  - date_published: 2024-05-01T05:46:05.775661+00:00
-
- ## Baldur Bjarnason – Baldur Bjarnason
- - [https://baldurbjarnason.com](https://baldurbjarnason.com)
- - date_published: 2023-10-25T12:52:03.128142+00:00
 

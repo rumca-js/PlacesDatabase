@@ -1,3 +1,7 @@
+ ## privatim – privatim, Konferenz der Schweizer Datenschutz-Beauftragten
+ - [https://www.privatim.ch](https://www.privatim.ch)
+ - date_published: 2024-09-05T23:44:00.855148+00:00
+
  ## Page d'accueil
  - [https://www.profelia.ch](https://www.profelia.ch)
  - date_published: 2024-09-15T00:03:21.143537+00:00
@@ -19,7 +23,7 @@
  - date_published: 2024-06-15T16:56:49.660159+00:00
 
  ## PRO JUNIOR
- - [https://www.projunior.ch](https://www.projunior.ch)
+ - [https://projunior.ch](https://projunior.ch)
  - date_published: 2024-10-29T11:15:31.242572+00:00
 
  ## proks.ch: Home
@@ -1074,7 +1078,7 @@
  - date_published: 2024-06-18T08:50:08+00:00
 
  ## Gemeinsam machen wir Musik möglich
- - [https://www.suisa.ch](https://www.suisa.ch)
+ - [https://suisa.ch](https://suisa.ch)
  - date_published: 2024-10-29T10:51:13+00:00
 
  ## SuisseEnergie
@@ -4018,8 +4022,4 @@ Fakultät | Universität Basel
  - [https://ichi.city](https://ichi.city)
  - date_published: 2023-10-26T06:39:33.548897+00:00
  - tags: ['indie web', 'personal sites source']
-
- ## images's homepage
- - [https://images.ichi.city](https://images.ichi.city)
- - date_published: 2022-10-04T18:04:01+00:00
 

@@ -1,3 +1,36 @@
+ ## DD12 - Home
+ - [https://dd12streams.com](https://dd12streams.com)
+ - date_published: 2024-11-12T17:05:46.053548+00:00
+
+ ## ddanieltan.com - 🤔
+ - [https://ddanieltan.com](https://ddanieltan.com)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## D-Day Overlord - Débarquement et bataille de Normandie
+ - [https://www.dday-overlord.com](https://www.dday-overlord.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## D Day tours. Private tours of D Day landings and Normandy Invasion
+ - [https://www.d-daytoursnormandy.com](https://www.d-daytoursnormandy.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## DDB – Highly ranked, worldwide advertising agency. Includes company information and philosophy, clients and global contact information.
+ - [https://www.ddb.com](https://www.ddb.com)
+ - date_published: 2024-09-10T12:19:39.904852+00:00
+
+ ## DDC FPO | Logistics BPO Services
+ - [https://ddcfpo.com](https://ddcfpo.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://ddc-web.com](https://ddc-web.com)
+ - date_published: 2024-04-25T13:03:16+00:00
+ - tags: ['data device corporation', 'company']
+
+ ## Domain-Driven Design Europe
+ - [https://2016.dddeurope.com](https://2016.dddeurope.com)
+ - date_published: 2021-03-20T22:26:50+00:00
+
  ## Domain-Driven Design Europe 2017
  - [https://2017.dddeurope.com](https://2017.dddeurope.com)
  - date_published: 2021-03-21T10:06:04+00:00
@@ -1705,7 +1738,7 @@
  - date_published: 2024-06-26T20:11:47+00:00
 
  ## Deep Cleaning Service | Moving Cleaning Services | Deep Cleaning Service | One Off Cleaning | BBQ Cleaning | Same Day Cleaning Service | Spring Cleaning
- - [https://www.deep-cleaning-service.com](https://www.deep-cleaning-service.com)
+ - [https://deep-cleaning-service.com](https://deep-cleaning-service.com)
  - date_published: 2024-10-28T23:12:49.022007+00:00
 
  ## Deep-Cut Studio - home of battlefields
@@ -2775,7 +2808,7 @@
  - date_published: 2024-12-26T15:48:00.707426+00:00
 
  ## DEKRA | On the safe side
- - [https://www.dekra.com](https://www.dekra.com)
+ - [https://dekra.com](https://dekra.com)
  - date_published: 2024-10-29T11:06:55.244905+00:00
 
  ## HOME | Delafieldcontra
@@ -4039,37 +4072,4 @@
  ## Biber
  - [https://biber.denizaksimsek.com](https://biber.denizaksimsek.com)
  - date_published: 2024-05-01T04:42:45.421320+00:00
-
- ## Deniz Akşimşek
- - [https://denizaksimsek.com](https://denizaksimsek.com)
- - date_published: 2023-10-25T13:49:01.779557+00:00
-
- ## 6-7 KASIM 2025
- - [http://www.denizsistemlerisemineri.com](http://www.denizsistemlerisemineri.com)
- - date_published: 2024-11-04T09:13:44+00:00
-
- ## DENKRIESEN - Wir machen die Spiele! - Spare jetzt 20% mit VOLLPFOSTEN!
- - [https://denkriesen.com](https://denkriesen.com)
- - date_published: 2024-07-03T15:46:56.709151+00:00
-
- ## Homepage - Denmark&Me
- - [https://denmarkandme.com](https://denmarkandme.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Den McHenry
- - [https://denmchenry.com](https://denmchenry.com)
- - date_published: 2023-03-14T00:00:00+00:00
- - tags: ['personal']
-
- ## micropub
- - [https://micropub.denmchenry.com](https://micropub.denmchenry.com)
- - date_published: 2024-06-17T19:10:35.827387+00:00
-
- ## Dennaton
- - [https://dennatongames.com](https://dennatongames.com)
- - date_published: 2024-01-24T18:23:51+00:00
-
- ## Denning Electronics
- - [http://www.denningelectronics.com](http://www.denningelectronics.com)
- - date_published: 2024-12-30T18:07:14.428439+00:00
 

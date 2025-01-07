@@ -1,3 +1,7 @@
+ ## Antibody Software - Home of your favorite Windows utility applications
+ - [https://antibody-software.com](https://antibody-software.com)
+ - date_published: 2024-05-09T03:55:44.292284+00:00
+
  ## Antica Pizzeria & Market
  - [https://www.antica-pizzeria.com](https://www.antica-pizzeria.com)
  - date_published: 2024-06-27T16:52:48.750185+00:00
@@ -1138,15 +1142,15 @@
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Apartments near UGA - Athens, GA - ApartmentsForAthens
- - [https://www.apartmentsforathens.com](https://www.apartmentsforathens.com)
+ - [https://apartmentsforathens.com](https://apartmentsforathens.com)
  - date_published: 2024-06-24T00:00:00+00:00
 
  ## Apartments near USF | Catered to Students - ApartmentsForBulls
- - [https://www.apartmentsforbulls.com](https://www.apartmentsforbulls.com)
+ - [https://apartmentsforbulls.com](https://apartmentsforbulls.com)
  - date_published: 2024-06-05T00:00:00+00:00
 
  ## Tuscaloosa Apartments | UA Apartments - ApartmentsForLegends
- - [https://www.apartmentsforlegends.com](https://www.apartmentsforlegends.com)
+ - [https://apartmentsforlegends.com](https://apartmentsforlegends.com)
  - date_published: 2024-06-05T00:00:00+00:00
 
  ## Premium Apartments Konta - Perfect Stay in Croatia
@@ -1162,7 +1166,7 @@
  - date_published: 2024-12-12T19:32:43.838460+00:00
 
  ## Apartment Therapy Media
- - [https://www.apartmenttherapymedia.com](https://www.apartmenttherapymedia.com)
+ - [https://apartmenttherapymedia.com](https://apartmenttherapymedia.com)
  - date_published: 2024-06-28T16:19:33+00:00
 
  ## Student Accommodation | UK, Dublin, Milan & Barcelona | aparto
@@ -1195,23 +1199,23 @@
  - date_published: 2024-07-29T17:03:11.578931+00:00
 
  ## APC, a flagship brand of Schneider Electric
- - [https://www.apc.com](https://www.apc.com)
+ - [https://apc.com](https://apc.com)
  - date_published: 2024-10-18T20:24:20.544534+00:00
 
  ## APCA
  - [https://git.apcacontrast.com](https://git.apcacontrast.com)
- - date_published: 2024-07-29T17:03:01.913927+00:00
+ - date_published: 2024-05-28T00:40:17+00:00
 
  ## APCO
  - [https://apcoworldwide.com](https://apcoworldwide.com)
  - date_published: 2024-12-22T07:21:36+00:00
 
  ## APC Postal Logistics
- - [https://www.apc-pli.com](https://www.apc-pli.com)
+ - [https://apc-pli.com](https://apc-pli.com)
  - date_published: 2024-06-23T06:01:37.568339+00:00
 
  ## APD Online | The mission of the Albuquerque Police Department is to preserve the peace and protect our community through community oriented policing, with fairness, integrity, pride and respect.
- - [http://apdonline.com](http://apdonline.com)
+ - [https://apdonline.com](https://apdonline.com)
  - date_published: 2024-10-15T07:04:14.649085+00:00
 
  ## Bienvenidos | APEAJAL
@@ -1231,7 +1235,7 @@
  - date_published: 2024-09-21T23:47:32.072714+00:00
 
  ## ApeCoin DAO
- - [http://forum.apecoin.com](http://forum.apecoin.com)
+ - [https://forum.apecoin.com](https://forum.apecoin.com)
  - date_published: 2024-09-09T00:00:00+00:00
 
  ## Apeel | Food Gone Good
@@ -1239,7 +1243,7 @@
  - date_published: 2024-05-08T03:18:32.344250+00:00
 
  ## Cloud Native Services | Cloud Operations | ape factory
- - [https://www.apefactory.com](https://www.apefactory.com)
+ - [https://apefactory.com](https://apefactory.com)
  - date_published: 2024-10-17T15:33:38+00:00
 
  ## ApeFest 2024 in Lisbon
@@ -1247,8 +1251,8 @@
  - date_published: 2024-07-12T19:58:02+00:00
 
  ## Vets: The Superheros for Pets
- - [http://www.apeonaut.com](http://www.apeonaut.com)
- - date_published: 2024-10-21T05:21:34.774251+00:00
+ - [https://apeonaut.com](https://apeonaut.com)
+ - date_published: 2024-10-09T14:30:28+00:00
 
  ## APE OUT
  - [https://apeout.com](https://apeout.com)
@@ -1264,7 +1268,7 @@
  - date_published: 2023-10-25T12:42:31.903480+00:00
 
  ## Aperol - The Spritz aperitivo brand since 1919 | Aperol
- - [https://www.aperol.com](https://www.aperol.com)
+ - [https://aperol.com](https://aperol.com)
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## A Personal Anthology
@@ -1276,7 +1280,7 @@
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## ApertureScience
- - [https://www.aperturescience.com](https://www.aperturescience.com)
+ - [https://aperturescience.com](https://aperturescience.com)
  - date_published: 2010-12-21T16:07:32+00:00
 
  ## Digital Experience Platform - Apester.com
@@ -1300,7 +1304,7 @@
  - date_published: 2024-07-11T15:24:28.279419+00:00
 
  ## Cierpliwości...
- - [https://apexcontrols.com](https://apexcontrols.com)
+ - [http://apexcontrols.com](http://apexcontrols.com)
  - date_published: 2024-05-07T11:15:37.357841+00:00
 
  ## Denver Parkour and Circus Training | APEX
@@ -1308,15 +1312,15 @@
  - date_published: 2024-07-16T17:02:08.296212+00:00
 
  ## Planetary Gearbox Manufacturer | Apex Dynamics USA
- - [http://apexdynamicsusa.com](http://apexdynamicsusa.com)
+ - [https://apexdynamicsusa.com](https://apexdynamicsusa.com)
  - date_published: 2024-08-28T00:00:00+00:00
 
  ## Apex Group - Single Source Financial Solution Provider
- - [https://www.apexgroup.com](https://www.apexgroup.com)
+ - [https://apexgroup.com](https://apexgroup.com)
  - date_published: 2024-09-18T12:47:14.968268+00:00
 
  ## Home | Apex Learning
- - [http://support.apexlearning.com](http://support.apexlearning.com)
+ - [https://support.apexlearning.com](https://support.apexlearning.com)
  - date_published: 2024-07-07T07:26:27+00:00
 
  ## Apex Courses
@@ -1324,7 +1328,7 @@
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## Cierpliwości...
- - [https://apex-magazine.com](https://apex-magazine.com)
+ - [http://apex-magazine.com](http://apex-magazine.com)
  - date_published: 2024-04-28T01:36:52.855436+00:00
 
  ## Apex Mobile Media | Data driven ACCURATE mobile advertising | Toronto
@@ -1340,7 +1344,7 @@
  - date_published: 2024-07-16T17:02:11.988582+00:00
 
  ## Apex Website Hosting
- - [http://www.apexonline.com](http://www.apexonline.com)
+ - [https://apexonline.com](https://apexonline.com)
  - date_published: 2013-08-21T02:26:53+00:00
 
  ## We Buy & Sell New, Used & Surplus Steel Pipe | Apex Steel Pipe
@@ -1348,7 +1352,7 @@
  - date_published: 2024-06-03T10:07:01.907159+00:00
 
  ## Apex - Satellite Buses
- - [https://www.apexspace.com](https://www.apexspace.com)
+ - [https://apexspace.com](https://apexspace.com)
  - date_published: 2024-07-03T00:00:00+00:00
 
  ## SQL Server tools for DBAs and Developers | ApexSQL
@@ -1364,7 +1368,7 @@
  - date_published: 2024-07-26T22:09:16+00:00
 
  ## Homepage | Apex Tool Group
- - [https://www.apextoolgroup.com](https://www.apextoolgroup.com)
+ - [https://apextoolgroup.com](https://apextoolgroup.com)
  - date_published: 2024-09-03T17:55:23+00:00
 
  ## Sign In - Apex Learning
@@ -1382,17 +1386,18 @@
  ## Apfel Project: Online
  - [https://online.apfelproject.com](https://online.apfelproject.com)
  - date_published: 2024-02-26T00:28:20+00:00
+ - date_dead_since: 2025-01-06T06:42:44.619167+00:00
 
  ## Apfelwein Wagner – Frankfurt am Main
- - [http://www.apfelwein-wagner.com](http://www.apfelwein-wagner.com)
+ - [https://apfelwein-wagner.com](https://apfelwein-wagner.com)
  - date_published: 2024-06-20T21:40:06.170289+00:00
 
  ## //andy hall | chatter from an indie dev in Tokyo
- - [http://aphall.com](http://aphall.com)
+ - [https://aphall.com](https://aphall.com)
  - date_published: 2024-04-28T00:00:00+00:00
 
  ## Home | Under The Sea
- - [https://www.aphmeow.com](https://www.aphmeow.com)
+ - [https://aphmeow.com](https://aphmeow.com)
  - date_published: 2024-06-19T01:59:04.103293+00:00
 
  ## Daily Computer & Technology News, Reviews, Discussion | APH Networks
@@ -1404,7 +1409,7 @@
  - date_published: 2024-09-03T00:00:00+00:00
 
  ## APhone
- - [http://aphone.com](http://aphone.com)
+ - [https://aphone.com](https://aphone.com)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Aphotic Ink – Words by Frances Rowat
@@ -1452,11 +1457,11 @@
  - date_published: 2024-05-08T03:06:03.258342+00:00
 
  ## Development and Consulting for Web, AI and Their Binding Infrastructure | Apidemia
- - [https://www.apidemia.com](https://www.apidemia.com)
+ - [https://apidemia.com](https://apidemia.com)
  - date_published: 2024-10-21T22:23:34.688106+00:00
 
  ## apiDoc - Inline Documentation for RESTful web APIs
- - [http://apidocjs.com](http://apidocjs.com)
+ - [https://apidocjs.com](https://apidocjs.com)
  - date_published: 2023-04-27T12:45:50+00:00
 
  ## Front page - APIdock
@@ -1472,7 +1477,7 @@
  - date_published: 2024-07-03T10:10:57+00:00
 
  ## Bikepacking Bags - Apidura.com
- - [https://www.apidura.com](https://www.apidura.com)
+ - [https://apidura.com](https://apidura.com)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## ApiEconomist.com is for sale | HugeDomains
@@ -1480,12 +1485,13 @@
  - date_published: 2024-12-25T15:46:20.951611+00:00
 
  ## API Evangelist
- - [http://apievangelist.com](http://apievangelist.com)
+ - [https://apievangelist.com](https://apievangelist.com)
  - date_published: 2024-06-19T13:52:25+00:00
 
  ## API Evangelist - Patents
  - [https://patents.apievangelist.com](https://patents.apievangelist.com)
  - date_published: 2019-07-28T10:21:10+00:00
+ - date_dead_since: 2025-01-06T06:43:46.466844+00:00
 
  ## API-Fiddle Blog
  - [https://blog.api-fiddle.com](https://blog.api-fiddle.com)
@@ -1538,7 +1544,7 @@
  - date_published: 2024-07-04T18:16:27.821873+00:00
 
  ## Apigee API Management
- - [http://apigee.com](http://apigee.com)
+ - [https://apigee.com](https://apigee.com)
  - date_published: 2024-06-29T06:02:26.400924+00:00
 
  ## Home
@@ -1574,7 +1580,7 @@
  - date_published: 2024-06-19T17:48:10.391806+00:00
 
  ## APIMONDIA
- - [https://www.apimondia.com](https://www.apimondia.com)
+ - [https://apimondia.com](https://apimondia.com)
  - date_published: 2024-07-08T13:23:42.364810+00:00
 
  ## Apinatbio - Berita Terbaru Game Hari Ini
@@ -1610,7 +1616,7 @@
  - date_published: 2024-05-05T09:57:56.169263+00:00
 
  ## ApisCP Docs
- - [http://docs.apiscp.com](http://docs.apiscp.com)
+ - [https://docs.apiscp.com](https://docs.apiscp.com)
  - date_published: 2024-06-16T21:45:24+00:00
 
  ## ApisCP
@@ -1658,7 +1664,7 @@
  - date_published: 2024-10-31T05:05:31.007476+00:00
 
  ## Spectrum Control - RF Components, EMI filters, RF Assemblies and RF Subsystems to control the electromagnetic spectrum
- - [https://www.apitech.com](https://www.apitech.com)
+ - [https://apitech.com](https://apitech.com)
  - date_published: 2024-07-24T07:27:01.043111+00:00
 
  ## Anders' little corner of the internet
@@ -1668,6 +1674,7 @@
  ## apitman_com – GoatCounter
  - [https://stats.apitman.com](https://stats.apitman.com)
  - date_published: 2006-01-02T00:00:00+00:00
+ - date_dead_since: 2025-01-06T06:47:37.084126+00:00
 
  ## Software Development Courses | Apium Academy
  - [https://apiumacademy.com](https://apiumacademy.com)
@@ -1678,7 +1685,7 @@
  - date_published: 2021-03-18T16:02:19+00:00
 
  ## APIs your consumers will love – API-University
- - [http://api-university.com](http://api-university.com)
+ - [https://api-university.com](https://api-university.com)
  - date_published: 2024-06-29T06:01:54+00:00
 
  ## COMMISSIONTHEATRE Email Marketing
@@ -1771,44 +1778,44 @@
  - tags: ['app store', 'apk downloader']
 
  ## Download Android App Apks Free
- - [https://apkmonk.com](https://apkmonk.com)
+ - [http://apkmonk.com](http://apkmonk.com)
  - date_published: 2024-05-29T17:57:45.487714+00:00
 
  ## BestForAndroid APK Downloads
- - [https://apkpicker.com](https://apkpicker.com)
+ - [http://apkpicker.com](http://apkpicker.com)
  - date_published: 2024-05-09T08:01:15.558076+00:00
 
  ## Download APK on Android with Free Online APK Downloader - APKPure
- - [https://apkpure.com](https://apkpure.com)
+ - [http://apkpure.com](http://apkpure.com)
  - date_published: 2023-10-24T20:11:28.883069+00:00
  - tags: ['app store', 'apk downloader']
 
  ## APKPure Developer
- - [https://developer.apkpure.com](https://developer.apkpure.com)
+ - [http://developer.apkpure.com](http://developer.apkpure.com)
  - date_published: 2024-05-19T02:46:22.353338+00:00
 
  ## Redirecting
- - [https://download.apkpure.com](https://download.apkpure.com)
+ - [http://download.apkpure.com](http://download.apkpure.com)
  - date_published: 2024-05-19T02:46:26.940659+00:00
 
  ## Download iPhone Apps Free Online, Discover iPhone iPad iOS Apps at AppPure
- - [https://iphone.apkpure.com](https://iphone.apkpure.com)
+ - [http://iphone.apkpure.com](http://iphone.apkpure.com)
  - date_published: 2024-05-19T02:46:19.905050+00:00
 
  ## Download APK on Android with Free Online APK Downloader - APKPure
- - [https://m.apkpure.com](https://m.apkpure.com)
+ - [http://m.apkpure.com](http://m.apkpure.com)
  - date_published: 2023-10-24T20:11:35.556956+00:00
 
  ## APKPure Online Game Top Up Store ｜ Free Fire PUBG MLBB Genshin
- - [https://store.apkpure.com](https://store.apkpure.com)
+ - [http://store.apkpure.com](http://store.apkpure.com)
  - date_published: 2024-05-19T02:46:25.103659+00:00
 
  ## Windows App Download - Find the best apps for your Windows devices
- - [https://windows.apkpure.com](https://windows.apkpure.com)
+ - [http://windows.apkpure.com](http://windows.apkpure.com)
  - date_published: 2024-05-19T02:46:21.637296+00:00
 
  ## APL2000 » Home
- - [http://www.apl2000.com](http://www.apl2000.com)
+ - [http://apl2000.com](http://apl2000.com)
  - date_published: 2024-07-11T14:27:16.852243+00:00
 
  ## A Place Between The Trees
@@ -1816,7 +1823,7 @@
  - date_published: 2024-07-13T12:37:48.074615+00:00
 
  ## Half-Life: A Place in the West - Half-Life: A Place in the West
- - [https://www.aplaceinthewest.com](https://www.aplaceinthewest.com)
+ - [https://aplaceinthewest.com](https://aplaceinthewest.com)
  - date_published: 2024-06-17T10:59:50.969450+00:00
 
  ## ゆるとりっぷ | 混雑苦手ママのための、子連れ旅行＆お出掛けレポブログ
@@ -1832,7 +1839,7 @@
  - date_published: 2021-02-05T23:21:19+00:00
 
  ## A Playful Path: The Book, The Spirit, The Experience
- - [https://www.aplayfulpath.com](https://www.aplayfulpath.com)
+ - [https://aplayfulpath.com](https://aplayfulpath.com)
  - date_published: 2017-11-07T00:00:00+00:00
 
  ## Aplazame
@@ -1844,7 +1851,7 @@
  - date_published: 2024-12-20T18:32:20.143073+00:00
 
  ## Home
- - [https://www.aplogroup.com](https://www.aplogroup.com)
+ - [https://aplogroup.com](https://aplogroup.com)
  - date_published: 2024-07-09T00:00:00+00:00
 
  ## Online Nonprofit & Church Software | Aplos
@@ -1852,7 +1859,7 @@
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## Online Nonprofit & Church Software | Aplos
- - [https://app.aplos.com](https://app.aplos.com)
+ - [http://app.aplos.com](http://app.aplos.com)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Online Nonprofit & Church Software | Aplos
@@ -1864,7 +1871,7 @@
  - date_published: 2024-09-17T00:00:00+00:00
 
  ## Online Nonprofit & Church Software | Aplos
- - [https://app-sandbox.aplos.com](https://app-sandbox.aplos.com)
+ - [http://app-sandbox.aplos.com](http://app-sandbox.aplos.com)
  - date_published: 2024-09-11T00:00:00+00:00
 
  ## Online Nonprofit & Church Software | Aplos
@@ -1880,7 +1887,7 @@
  - date_published: 2024-09-11T00:00:00+00:00
 
  ## Online Nonprofit & Church Software | Aplos
- - [https://www-sandbox.aplos.com](https://www-sandbox.aplos.com)
+ - [http://www-sandbox.aplos.com](http://www-sandbox.aplos.com)
  - date_published: 2024-09-11T00:00:00+00:00
 
  ## A+B Solutions - Die MES- und PLM-Spezialisten für Prozessketten
@@ -1892,7 +1899,7 @@
  - date_published: 2023-12-06T08:18:50+00:00
 
  ## Home
- - [https://www.apm.com](https://www.apm.com)
+ - [https://apm.com](https://apm.com)
  - date_published: 2024-08-08T16:47:56.935683+00:00
 
  ## Augusta Precious Metals - Affiliate Portal
@@ -1907,17 +1914,18 @@
  - [https://apmg-international.com](https://apmg-international.com)
  - date_published: 2024-06-30T01:49:05+00:00
 
- ## Web App - Unavailable
- - [https://cd1.apmterminals.com](https://cd1.apmterminals.com)
- - date_published: 2024-06-21T19:52:57.460761+00:00
-
  ## Home - APM Terminals
- - [https://www.apmterminals.com](https://www.apmterminals.com)
+ - [https://apmterminals.com](https://apmterminals.com)
  - date_published: 2024-05-04T13:50:07.478563+00:00
+
+ ## Web App - Unavailable
+ - [http://cd1.apmterminals.com](http://cd1.apmterminals.com)
+ - date_published: 2024-06-21T19:52:57.460761+00:00
 
  ## BlueConic: Log In
  - [https://apcdp.apnews.com](https://apcdp.apnews.com)
  - date_published: 2024-06-19T17:48:08.746654+00:00
+ - date_dead_since: 2025-01-06T07:04:34.547683+00:00
 
  ## Associated Press News: Breaking News | Latest News Today
  - [https://apnews.com](https://apnews.com)
@@ -1937,7 +1945,7 @@
  - date_published: 2024-07-17T12:13:09.360227+00:00
 
  ## Apocalypteaca – Apocalyptica Tea by RELeaSeTea
- - [http://www.apocalypteaca.com](http://www.apocalypteaca.com)
+ - [https://apocalypteaca.com](https://apocalypteaca.com)
  - date_published: 2024-07-01T14:25:06.369231+00:00
 
  ## Apocalyptica | Official homepage
@@ -1966,7 +1974,7 @@
  - date_published: 2024-12-15T09:21:47+00:00
 
  ## Homepage
- - [https://www.apogeonline.com](https://www.apogeonline.com)
+ - [https://apogeonline.com](https://apogeonline.com)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## —
@@ -1976,11 +1984,11 @@ my personal blog
  - tags: ['personal']
 
  ## Apokalypse Software – Global IT Solutions
- - [http://apokalypsesoftware.com](http://apokalypsesoftware.com)
+ - [https://apokalypsesoftware.com](https://apokalypsesoftware.com)
  - date_published: 2024-07-07T06:28:51.886670+00:00
 
  ## Apollo Global Management
- - [http://apollo.com](http://apollo.com)
+ - [https://apollo.com](https://apollo.com)
  - date_published: 2024-08-18T04:08:18.593027+00:00
 
  ## Apollo 11 Mission Report : Relaunched
@@ -1996,7 +2004,7 @@ my personal blog
  - date_published: 2024-01-09T13:02:16.965527+00:00
 
  ## Home - Apollo Games Info
- - [https://www.apollo-accelerators.com](https://www.apollo-accelerators.com)
+ - [https://apollo-accelerators.com](https://apollo-accelerators.com)
  - date_published: 2024-09-02T15:53:37.826071+00:00
 
  ## Apollo Automation | A Community Automation Solution
@@ -2022,20 +2030,20 @@ my personal blog
  - tags: ['apollo 68080', 'retro hardware']
 
  ## Apollo Creative Co. | Graphic Design Hampshire
- - [http://apollocreativeco.com](http://apollocreativeco.com)
+ - [https://apollocreativeco.com](https://apollocreativeco.com)
  - date_published: 2024-10-23T06:22:57.535972+00:00
 
+ ## Streamlining APIs, Databases, & Microservices | Apollo GraphQL
+ - [https://apollodata.com](https://apollodata.com)
+ - date_published: 2024-06-23T06:09:56.615752+00:00
+
  ## Introduction to Apollo Client
- - [http://dev.apollodata.com](http://dev.apollodata.com)
+ - [https://dev.apollodata.com](https://dev.apollodata.com)
  - date_published: 2024-06-23T06:01:17.801909+00:00
 
  ## Apollo GraphQL Blog – latest insights and news on API and GraphQL solutions
  - [https://dev-blog.apollodata.com](https://dev-blog.apollodata.com)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Streamlining APIs, Databases, & Microservices | Apollo GraphQL
- - [http://www.apollodata.com](http://www.apollodata.com)
- - date_published: 2024-06-23T06:09:56.615752+00:00
 
  ## Streamlining APIs, Databases, & Microservices | Apollo GraphQL
  - [https://apollographql.com](https://apollographql.com)
@@ -2098,7 +2106,7 @@ my personal blog
  - date_published: 2024-06-30T06:02:06.253579+00:00
 
  ## Apollo Technical: IT & Engineering Staffing and Recruiting
- - [https://www.apollotechnical.com](https://www.apollotechnical.com)
+ - [https://apollotechnical.com](https://apollotechnical.com)
  - date_published: 2024-08-30T00:00:00+00:00
 
  ## Find Car Tyres, SUV Tyres & Van Tyres | Apollo Tyres
@@ -2110,7 +2118,7 @@ my personal blog
  - date_published: 2024-07-02T20:57:25.251642+00:00
 
  ## Home
- - [https://www.apologia.com](https://www.apologia.com)
+ - [https://apologia.com](https://apologia.com)
  - date_published: 2024-09-20T11:04:10+00:00
 
  ## Weaponized Fluff
@@ -2134,7 +2142,7 @@ my personal blog
  - date_published: 2024-06-17T09:09:02.789319+00:00
 
  ## danah boyd
- - [http://www.apophenia.com](http://www.apophenia.com)
+ - [https://www.apophenia.com](https://www.apophenia.com)
  - date_published: 2024-07-31T18:55:53+00:00
 
  ## Aporia | Substack
@@ -2174,7 +2182,7 @@ my personal blog
  - date_published: 2024-10-31T03:42:08.320669+00:00
 
  ## 名古屋で買ったクリスマスプレゼントの時計
- - [http://www.apostropher.com](http://www.apostropher.com)
+ - [https://apostropher.com](https://apostropher.com)
  - date_published: 2014-05-20T05:22:05+00:00
 
  ## Köp Cialis Receptfritt - Köpa Cialis Utan Recept
@@ -2182,19 +2190,19 @@ my personal blog
  - date_published: 2024-07-03T23:47:22.083285+00:00
 
  ## Cierpliwości...
- - [https://apothecarium.com](https://apothecarium.com)
+ - [http://apothecarium.com](http://apothecarium.com)
  - date_published: 2024-05-07T11:14:07.789350+00:00
 
  ## Apowersoft - Multimedia Solutions for Business and Daily Needs
- - [https://www.apowersoft.com](https://www.apowersoft.com)
+ - [https://apowersoft.com](https://apowersoft.com)
  - date_published: 2024-05-06T14:47:10.559737+00:00
 
  ## Apowersoft – Multimedialøsninger for firmaer og daglige behov
- - [https://www.apowersoft-no.com](https://www.apowersoft-no.com)
+ - [https://apowersoft-no.com](https://apowersoft-no.com)
  - date_published: 2024-06-23T16:05:29.760139+00:00
 
  ## Apowersoft - İş ve Günlük İhtiyaçlar için Multimedya Çözümleri
- - [https://www.apowersoft-tr.com](https://www.apowersoft-tr.com)
+ - [https://apowersoft-tr.com](https://apowersoft-tr.com)
  - date_published: 2024-06-23T16:05:35.392075+00:00
 
  ## Asbury Park - Home
@@ -2202,7 +2210,7 @@ my personal blog
  - date_published: 2024-08-11T00:00:00+00:00
 
  ## App2Track: dé chauffeurs app voor transport en home delivery - App2Track
- - [https://www.app2track.com](https://www.app2track.com)
+ - [https://app2track.com](https://app2track.com)
  - date_published: 2024-03-08T00:00:00+00:00
 
  ## Lexzur
@@ -2218,7 +2226,7 @@ my personal blog
  - date_published: 2024-09-06T01:03:48.161261+00:00
 
  ## Home | AppalachiaStarseedReunion
- - [https://www.appalachiastarseedreunion.com](https://www.appalachiastarseedreunion.com)
+ - [https://appalachiastarseedreunion.com](https://appalachiastarseedreunion.com)
  - date_published: 2024-08-19T05:02:39.648758+00:00
 
  ## Mobile Market Data and App Insights | data.ai (fka App Annie)
@@ -2230,7 +2238,7 @@ my personal blog
  - date_published: 2025-01-02T00:34:28.251436+00:00
 
  ## Apparent Software - Useful, friendly and unique software for Mac
- - [https://www.apparentsoft.com](https://www.apparentsoft.com)
+ - [https://apparentsoft.com](https://apparentsoft.com)
  - date_published: 2024-10-14T15:52:17.108805+00:00
 
  ## Home - Apparition Literary Magazine
@@ -2250,19 +2258,19 @@ my personal blog
  - date_published: 2024-08-07T00:00:00+00:00
 
  ## Top Android Apps and Games on Google Play | AppBrain.com
- - [https://developers.appbrain.com](https://developers.appbrain.com)
- - date_published: 2024-10-31T20:16:00.389407+00:00
+ - [https://appbrain.com](https://appbrain.com)
+ - date_published: 2024-06-20T01:57:07.817547+00:00
 
  ## Top Android Apps and Games on Google Play | AppBrain.com
- - [https://www.appbrain.com](https://www.appbrain.com)
- - date_published: 2024-06-20T01:57:07.817547+00:00
+ - [https://developers.appbrain.com](https://developers.appbrain.com)
+ - date_published: 2024-10-31T20:16:00.389407+00:00
 
  ## Best Apps Bundle - Top iPhone Apps
  - [https://appbundles.com](https://appbundles.com)
  - date_published: 2024-05-09T03:51:13.791961+00:00
 
  ## The Appcelerator Offering Has been Discontinued
- - [http://www.appcelerator.com](http://www.appcelerator.com)
+ - [https://appcelerator.com](https://appcelerator.com)
  - date_published: 2024-07-11T21:00:25+00:00
 
  ## Home - Appcharge
@@ -2270,11 +2278,11 @@ my personal blog
  - date_published: 2024-04-03T00:00:00+00:00
 
  ## 应用汇安卓市场_海量安卓软件,安卓游戏免费下载 - Appchina安卓手机应用官网商店
- - [http://www.appchina.com](http://www.appchina.com)
+ - [https://appchina.com](https://appchina.com)
  - date_published: 2024-10-25T11:33:49.825517+00:00
 
  ## Kriket va Kabaddi Pul Tikishining O'zgaruvchan Dunyosi
- - [http://appchronicles.com](http://appchronicles.com)
+ - [https://appchronicles.com](https://appchronicles.com)
  - date_published: 2024-05-10T03:48:36.326085+00:00
 
  ## AppCove, Inc.
@@ -2282,8 +2290,12 @@ my personal blog
  - date_published: 2024-08-19T17:53:23.144618+00:00
 
  ## Android Creator | Create your real android app | Your Android app maker
- - [https://www.appcreator24.com](https://www.appcreator24.com)
+ - [https://appcreator24.com](https://appcreator24.com)
  - date_published: 2024-09-13T19:28:46.231260+00:00
+
+ ## Appcues | Product adoption made easy
+ - [https://appcues.com](https://appcues.com)
+ - date_published: 2024-05-02T00:00:00+00:00
 
  ## Appcues
  - [https://auth.appcues.com](https://auth.appcues.com)
@@ -2312,10 +2324,6 @@ my personal blog
  ## Security at Appcues
  - [https://trust.appcues.com](https://trust.appcues.com)
  - date_published: 2024-01-25T00:00:00+00:00
-
- ## Appcues | Product adoption made easy
- - [https://www.appcues.com](https://www.appcues.com)
- - date_published: 2024-05-02T00:00:00+00:00
 
  ## A p p D e c e n t r a l
  - [https://appdecentral.com](https://appdecentral.com)
@@ -2359,7 +2367,7 @@ my personal blog
  - date_published: 2024-05-11T08:24:00.062208+00:00
 
  ## Appdome Support
- - [https://support.appdome.com](https://support.appdome.com)
+ - [http://support.appdome.com](http://support.appdome.com)
  - date_published: 2024-07-13T19:55:17.488769+00:00
 
  ## AppDoze - THE TRUSTED APPLICATION STORE
@@ -2391,12 +2399,16 @@ my personal blog
  - date_published: 2024-07-10T00:00:00+00:00
 
  ## Custom Software Development | Fast, Reliable & Cost Effective
- - [https://www.appdrawn.com](https://www.appdrawn.com)
+ - [https://appdrawn.com](https://appdrawn.com)
  - date_published: 2024-06-26T14:17:55.973252+00:00
 
  ## AppDynamics
  - [https://accounts.appdynamics.com](https://accounts.appdynamics.com)
  - date_published: 2024-10-12T20:51:05.057521+00:00
+
+ ## Observability Platform | Cloud Monitoring | Free Trial
+ - [https://appdynamics.com](https://appdynamics.com)
+ - date_published: 2024-07-02T17:31:46.989650+00:00
 
  ## Cisco AppDynamics Community
  - [https://community.appdynamics.com](https://community.appdynamics.com)
@@ -2417,10 +2429,6 @@ my personal blog
  ## University | AppDynamics
  - [https://university.appdynamics.com](https://university.appdynamics.com)
  - date_published: 2024-03-08T06:43:40+00:00
-
- ## Observability Platform | Cloud Monitoring | Free Trial
- - [https://www.appdynamics.com](https://www.appdynamics.com)
- - date_published: 2024-07-02T17:31:46.989650+00:00
 
  ## Real estate appeal management software CSC AppealTrack® helps teams quickly assess the appeal strength of properties and parcels, prepare and track appeals,
         and serves as a single, secure source for documents, payments, task tracking, tax data, and more.
@@ -2462,6 +2470,7 @@ my personal blog
  ## AIライフサイクルのデータ分野における信頼されるパートナー - アッペン
  - [https://japan.appen.com](https://japan.appen.com)
  - date_published: 2024-07-13T02:32:14.396961+00:00
+ - date_dead_since: 2025-01-06T07:18:50.918374+00:00
 
  ## Appen - The Leader in Data for AI Lifecycle
  - [https://kr.appen.com](https://kr.appen.com)
@@ -2476,7 +2485,7 @@ my personal blog
  - date_published: 2024-07-13T02:32:56.805592+00:00
 
  ## 澳鹏appen_全球AI训练数据服务领军者 | 数据标注与采集
- - [https://www.appendata.com](https://www.appendata.com)
+ - [https://appendata.com](https://appendata.com)
  - date_published: 2024-07-13T02:32:53.380518+00:00
 
  ## Appendix N Book Club
@@ -2488,11 +2497,11 @@ my personal blog
  - date_published: 2024-05-08T10:45:37.177933+00:00
 
  ## Appenzeller Gurte, Halsbänder & Accessoires - handgemacht in Appenzell
- - [https://www.appenzeller-gurt.com](https://www.appenzeller-gurt.com)
+ - [https://appenzeller-gurt.com](https://appenzeller-gurt.com)
  - date_published: 2024-09-29T00:00:00+00:00
 
  ## Menu
- - [http://www.apperceptual.com](http://www.apperceptual.com)
+ - [https://www.apperceptual.com](https://www.apperceptual.com)
  - date_published: 2024-06-30T10:05:23.703558+00:00
 
  ## AppEsteem Portal
@@ -2536,7 +2545,7 @@ my personal blog
  - date_published: 2024-09-09T16:32:58.378670+00:00
 
  ## Hire the best IT & Marketing companies | AppFutura
- - [https://www.appfutura.com](https://www.appfutura.com)
+ - [https://appfutura.com](https://appfutura.com)
  - date_published: 2024-01-23T00:00:00+00:00
 
  ## Appfyl. Mobile apps development.
@@ -2544,7 +2553,7 @@ my personal blog
  - date_published: 2024-07-31T11:59:35+00:00
 
  ## Business Calendar 2 - Your daily calendar planner on Android
- - [https://www.appgenix-software.com](https://www.appgenix-software.com)
+ - [https://appgenix-software.com](https://appgenix-software.com)
  - date_published: 2024-07-09T15:51:21.343973+00:00
 
  ## Comprehensive Geospatial Solutions, Aerial Mapping
@@ -2552,7 +2561,7 @@ my personal blog
  - date_published: 2024-12-22T04:52:02.113518+00:00
 
  ## Home | All-Party Parliamentary Group for Future Generations
- - [https://www.appgfuturegenerations.com](https://www.appgfuturegenerations.com)
+ - [https://appgfuturegenerations.com](https://appgfuturegenerations.com)
  - date_published: 2024-06-21T11:41:08.068427+00:00
 
  ## Build Business Growth with Higher-Quality New Users - AppGrowth
@@ -2564,7 +2573,7 @@ my personal blog
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## The App Icon Book
- - [https://www.appiconbook.com](https://www.appiconbook.com)
+ - [https://appiconbook.com](https://appiconbook.com)
  - date_published: 2024-07-09T19:16:22.393720+00:00
 
  ## Appier | Full-Funnel Marketing Made Smarter with AI
@@ -2581,7 +2590,7 @@ my personal blog
  - date_published: 2024-10-29T16:12:36+00:00
 
  ## Appinium | The ONLY Native Salesforce Enterprise Content Enablement Platform
- - [http://www.appinium.com](http://www.appinium.com)
+ - [https://appinium.com](https://appinium.com)
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## 小众软件 - 分享免费、小巧、实用、有趣、绿色的软件
@@ -2601,11 +2610,11 @@ my personal blog
  - date_published: 2022-12-30T07:12:56+00:00
 
  ## AppInSys: Applied Information systems
- - [http://appinsys.com](http://appinsys.com)
+ - [https://appinsys.com](https://appinsys.com)
  - date_published: 2019-05-03T04:13:52+00:00
 
  ## App in the Air
- - [https://appintheair.com](https://appintheair.com)
+ - [http://appintheair.com](http://appintheair.com)
  - date_published: 2024-09-13T10:18:00+00:00
 
  ## 株式会社アピリッツ｜ECサイト構築・Webシステム開発
@@ -2615,6 +2624,7 @@ my personal blog
  ## Push Tracker
  - [https://pt.appirits.com](https://pt.appirits.com)
  - date_published: 2024-07-04T08:39:53.998541+00:00
+ - date_dead_since: 2025-01-06T07:24:00.351376+00:00
 
  ## サイト内検索ツール「Advantage Search」
  - [https://search.appirits.com](https://search.appirits.com)
@@ -2662,7 +2672,7 @@ my personal blog
  - date_published: 2024-10-15T20:22:32.338861+00:00
 
  ## Apple Search Ads
- - [http://advertising.apple.com](http://advertising.apple.com)
+ - [https://advertising.apple.com](https://advertising.apple.com)
  - date_published: 2024-08-06T17:29:12+00:00
 
  ## Apple
@@ -2689,7 +2699,7 @@ my personal blog
  - tags: ['web browser', 'gatekeeper']
 
  ## Error
- - [https://apptrailers.itunes.apple.com](https://apptrailers.itunes.apple.com)
+ - [http://apptrailers.itunes.apple.com](http://apptrailers.itunes.apple.com)
  - date_published: 2024-07-04T06:32:47.942541+00:00
 
  ## Apple Music for Artists
@@ -2789,7 +2799,7 @@ my personal blog
  - date_published: 2024-05-01T08:42:26.093950+00:00
 
  ## Attention Required! | Cloudflare
- - [https://investor.apple.com](https://investor.apple.com)
+ - [http://investor.apple.com](http://investor.apple.com)
  - date_published: 2024-04-30T06:28:25.875133+00:00
 
  ## iTunes
@@ -2823,7 +2833,7 @@ my personal blog
  - tags: ['machine learning', 'apple']
 
  ## Maps
- - [http://maps.apple.com](http://maps.apple.com)
+ - [https://maps.apple.com](https://maps.apple.com)
  - date_published: 2024-06-19T02:26:40.140537+00:00
 
  ## MFi Program
@@ -2852,7 +2862,7 @@ my personal blog
  - date_published: 2024-05-11T05:33:07.697039+00:00
 
  ## Error
- - [https://osxapps.itunes.apple.com](https://osxapps.itunes.apple.com)
+ - [http://osxapps.itunes.apple.com](http://osxapps.itunes.apple.com)
  - date_published: 2024-07-04T06:32:17.034692+00:00
 
  ## Apple Podcasts - Apple
@@ -2908,7 +2918,7 @@ my personal blog
  - date_published: 2024-10-30T22:01:42.071932+00:00
 
  ## Movie Trailers - Apple TV
- - [http://trailers.apple.com](http://trailers.apple.com)
+ - [https://trailers.apple.com](https://trailers.apple.com)
  - date_published: 2024-06-28T13:52:21.722337+00:00
 
  ## Apple TV+
@@ -2923,6 +2933,7 @@ my personal blog
  ## Apple and Biscuit Recordings
  - [https://appleandbiscuit.com](https://appleandbiscuit.com)
  - date_published: 2024-07-14T00:00:00+00:00
+ - date_dead_since: 2025-01-06T07:32:17.811391+00:00
 
  ## Applied Engineering Repository
  - [https://ae.applearchives.com](https://ae.applearchives.com)
@@ -2951,33 +2962,39 @@ my personal blog
  ## Apple Beard Condom
  - [https://applebeardcondom.com](https://applebeardcondom.com)
  - date_published: 2024-06-15T10:56:22.667203+00:00
+ - date_dead_since: 2025-01-06T07:32:39.697280+00:00
 
  ## Annapolis Valley Apple Blossom Festival
  - [https://appleblossom.com](https://appleblossom.com)
  - date_published: 2024-02-08T17:47:05.402057+00:00
+ - date_dead_since: 2025-01-06T07:32:42.187092+00:00
 
  ## Appleby Pharmacy - Pharmacy Drug Store in Burlington | Open 7 Days a Week & Free Delivery
  - [https://applebypharmacy.com](https://applebypharmacy.com)
  - date_published: 2024-06-22T22:09:39+00:00
+ - date_dead_since: 2025-01-06T07:32:45.873917+00:00
 
  ## Apple Card for YNAB
  - [https://applecardforynab.com](https://applecardforynab.com)
  - date_published: 2024-10-02T11:49:59.693812+00:00
+ - date_dead_since: 2025-01-06T07:32:46.978602+00:00
 
  ## Apple Censorship – Keeping Apple Accountable Globally
  - [https://applecensorship.com](https://applecensorship.com)
  - date_published: 2023-10-25T12:42:40.043424+00:00
+ - date_dead_since: 2025-01-06T07:32:48.106090+00:00
 
  ## AAPL Ch.
  - [https://applech2.com](https://applech2.com)
  - date_published: 2024-07-10T18:44:45+00:00
+ - date_dead_since: 2025-01-06T07:32:55.217179+00:00
 
  ## Apple Daily
  - [https://hk.appledaily.com](https://hk.appledaily.com)
  - date_published: 2024-06-28T08:11:43+00:00
 
  ## Welcome
- - [http://www.applefool.com](http://www.applefool.com)
+ - [https://applefool.com](https://applefool.com)
  - date_published: 2014-07-16T06:03:05+00:00
 
  ## Home - Gaming on M1 Apple silicon Macs and MacBooks, bugs, fixes, compatiblity and troubleshooting guides - AppleGamingWiki
@@ -2985,7 +3002,7 @@ my personal blog
  - date_published: 2024-09-03T23:48:47+00:00
 
  ## Apple Gazette Homepage - Latest Apple News
- - [http://www.applegazette.com](http://www.applegazette.com)
+ - [https://www.applegazette.com](https://www.applegazette.com)
  - date_published: 2024-06-30T00:00:00+00:00
 
  ## Author Apple Gidley's Home Page
@@ -2999,10 +3016,12 @@ my personal blog
  ## Homepage - Apple Hints
  - [https://applehints.com](https://applehints.com)
  - date_published: 2024-05-08T04:06:24.377671+00:00
+ - date_dead_since: 2025-01-06T07:34:13.976907+00:00
 
  ## apple-history.com / specs for every apple computer, established 1996
  - [https://apple-history.com](https://apple-history.com)
  - date_published: 2024-01-09T02:29:45.944627+00:00
+ - date_dead_since: 2025-01-06T07:34:20.266989+00:00
 
  ## Apple News, Rumors, Reviews, Prices & Deals | AppleInsider
  - [https://appleinsider.com](https://appleinsider.com)
@@ -3019,25 +3038,28 @@ my personal blog
  ## iPhoneA2
  - [https://applelizados.com](https://applelizados.com)
  - date_published: 2024-06-20T20:53:15.117226+00:00
+ - date_dead_since: 2025-01-06T07:36:16.842335+00:00
 
  ## AppleMagazine.com | The Latest Apple News, Every Day
  - [https://applemagazine.com](https://applemagazine.com)
  - date_published: 2023-10-25T12:42:52.057825+00:00
+ - date_dead_since: 2025-01-06T07:36:19.574118+00:00
 
  ## Marketing Tools and Resources - Apple Services
  - [https://tools.applemediaservices.com](https://tools.applemediaservices.com)
  - date_published: 2024-05-01T03:15:57.333566+00:00
 
  ## Google
- - [http://www.applemuseum.com](http://www.applemuseum.com)
+ - [https://applemuseum.com](https://applemuseum.com)
  - date_published: 2024-08-18T05:07:31.976152+00:00
 
  ## Apple Must - Great Apple tips and useful insights
  - [https://applemust.com](https://applemust.com)
  - date_published: 2023-10-25T12:42:54.674971+00:00
+ - date_dead_since: 2025-01-06T07:36:32.204621+00:00
 
  ## Apple Pay Merchant Supplies
- - [https://www.applepaysupplies.com](https://www.applepaysupplies.com)
+ - [https://applepaysupplies.com](https://applepaysupplies.com)
  - date_published: 2024-04-10T20:38:51+00:00
 
  ## Apple-Pine
@@ -3051,14 +3073,17 @@ my personal blog
  ## Apple Privacy Letter: An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology
  - [https://appleprivacyletter.com](https://appleprivacyletter.com)
  - date_published: 2021-08-29T19:44:02+00:00
+ - date_dead_since: 2025-01-06T07:36:41.512145+00:00
 
  ## Home - Apple Rankings by The Appleist Brian Frange - Comedian Brian Frange
  - [https://applerankings.com](https://applerankings.com)
  - date_published: 2023-10-25T12:43:01.450881+00:00
+ - date_dead_since: 2025-01-06T07:36:45.554708+00:00
 
  ## applesauce – The Ultimate Floppy Disk Preservation and Analysis Toolkit
  - [https://applesaucefdc.com](https://applesaucefdc.com)
  - date_published: 2024-05-06T00:00:00+00:00
+ - date_dead_since: 2025-01-06T07:36:48.236428+00:00
 
  ## start [The Official Wiki for the Applesauce Floppy Drive Controller]
  - [https://wiki.applesaucefdc.com](https://wiki.applesaucefdc.com)
@@ -3071,6 +3096,7 @@ my personal blog
  ## Apple Serial Number Info // Decode your Mac's serial number!
  - [http://appleserialnumberinfo.com](http://appleserialnumberinfo.com)
  - date_published: 2024-06-21T18:56:14.155297+00:00
+ - date_dead_since: 2025-01-06T07:36:54.283062+00:00
 
  ## Applesfera - Apple: iPhone, iPad, MacBook, iMac, Watch, TV, Music
  - [https://www.applesfera.com](https://www.applesfera.com)
@@ -3079,6 +3105,7 @@ my personal blog
  ## AppleToolBox
  - [https://appletoolbox.com](https://appletoolbox.com)
  - date_published: 2024-06-07T00:00:00+00:00
+ - date_dead_since: 2025-01-06T07:36:59.552989+00:00
 
  ## applevalleynewsnow.com
  - [https://www.applevalleynewsnow.com](https://www.applevalleynewsnow.com)
@@ -3087,22 +3114,23 @@ my personal blog
  ## AppleVis
  - [https://applevis.com](https://applevis.com)
  - date_published: 2023-10-25T12:43:07.072216+00:00
+ - date_dead_since: 2025-01-06T07:37:04.695728+00:00
 
  ## AppleVis - Web Analytics Reports - Matomo
- - [http://matomo.applevis.com](http://matomo.applevis.com)
+ - [https://matomo.applevis.com](https://matomo.applevis.com)
  - date_published: 2024-08-18T00:00:00+00:00
 
  ## Applicant AI
  - [https://applicantai.com](https://applicantai.com)
  - date_published: 2024-02-09T00:00:00+00:00
 
+ ## ApplicantPool - Applicant Tracking System
+ - [https://applicantpool.com](https://applicantpool.com)
+ - date_published: 2024-09-30T12:25:00.285440+00:00
+
  ## Current Career Opportunities at First Community Bank
  - [https://firstcommunitybank.applicantpool.com](https://firstcommunitybank.applicantpool.com)
  - date_published: 2024-06-16T09:42:57.060129+00:00
-
- ## ApplicantPool - Applicant Tracking System
- - [http://www.applicantpool.com](http://www.applicantpool.com)
- - date_published: 2024-09-30T12:25:00.285440+00:00
 
  ## Current Career Opportunities at Washington Center for Equitable Growth
  - [https://equitablegrowth.applicantpro.com](https://equitablegrowth.applicantpro.com)
@@ -3137,7 +3165,7 @@ my personal blog
  - date_published: 2024-06-30T08:08:47.199772+00:00
 
  ## Applicant Tracking Software
- - [http://docs.applicant-tracking.com](http://docs.applicant-tracking.com)
+ - [https://docs.applicant-tracking.com](https://docs.applicant-tracking.com)
  - date_published: 2024-08-10T23:07:19.834863+00:00
 
  ## Applicant Tracking Software Status
@@ -3145,7 +3173,7 @@ my personal blog
  - date_published: 2024-05-13T00:00:00+00:00
 
  ## Application AI
- - [http://application.com](http://application.com)
+ - [https://application.com](https://application.com)
  - date_published: 2024-10-22T16:26:25.807064+00:00
 
  ## Application Rémunératrice
@@ -3153,7 +3181,7 @@ my personal blog
  - date_published: 2024-04-20T07:11:01+00:00
 
  ## Applico | B2B Distribution Tech Advisor | Platform Experts
- - [https://www.applicoinc.com](https://www.applicoinc.com)
+ - [https://applicoinc.com](https://applicoinc.com)
  - date_published: 2024-08-11T20:29:06.483032+00:00
 
  ## Applied Abstractions
@@ -3161,7 +3189,7 @@ my personal blog
  - date_published: 2024-07-14T12:42:26.119356+00:00
 
  ## AAS—Instruments, synthesizer, and effect plug-ins based on physical modeling VST AU AAX
- - [https://www.applied-acoustics.com](https://www.applied-acoustics.com)
+ - [https://applied-acoustics.com](https://applied-acoustics.com)
  - date_published: 2024-09-06T21:41:07.538577+00:00
 
  ## https://www.applied-cartography.com
@@ -3177,7 +3205,7 @@ my personal blog
  - date_published: 2024-02-09T00:00:00+00:00
 
  ## Existential Risk | Centre for Applied Eschatology
- - [https://www.appliedeschatology.com](https://www.appliedeschatology.com)
+ - [https://appliedeschatology.com](https://appliedeschatology.com)
  - date_published: 2024-07-07T07:19:01.416389+00:00
 
  ## AppliedHE | Skills and Job Ready. Future Proof
@@ -3189,7 +3217,7 @@ my personal blog
  - date_published: 2024-05-11T08:17:59.974641+00:00
 
  ## Vehicle software supplier | Applied Intuition
- - [https://www.appliedintuition.com](https://www.appliedintuition.com)
+ - [https://appliedintuition.com](https://appliedintuition.com)
  - date_published: 2024-07-10T00:00:00+00:00
 
  ## Autonomy software for the warfighter | Applied Intuition Defense
@@ -3197,27 +3225,27 @@ my personal blog
  - date_published: 2024-12-30T00:20:24+00:00
 
  ## Home - Applied Ion Systems
- - [http://appliedionsystems.com](http://appliedionsystems.com)
+ - [https://appliedionsystems.com](https://appliedionsystems.com)
  - date_published: 2021-07-21T01:29:14+00:00
 
  ## AIS - Home
- - [https://www.appliedis.com](https://www.appliedis.com)
+ - [https://appliedis.com](https://appliedis.com)
  - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Applied Materials | Semiconductor, Display and Solar
+ - [https://appliedmaterials.com](https://appliedmaterials.com)
+ - date_published: 2024-05-03T00:00:00+00:00
 
  ## Careers at Applied Materials
  - [https://careers.appliedmaterials.com](https://careers.appliedmaterials.com)
  - date_published: 2024-12-23T12:15:06.218731+00:00
-
- ## Applied Materials | Semiconductor, Display and Solar
- - [https://www.appliedmaterials.com](https://www.appliedmaterials.com)
- - date_published: 2024-05-03T00:00:00+00:00
 
  ## Applied Meta Projects
  - [https://appliedmetaprojects.com](https://appliedmetaprojects.com)
  - date_published: 2024-01-16T10:20:40+00:00
 
  ## Applied Rational Philosophy; Objectivism and its identification
- - [http://www.appliedphilosophyonline.com](http://www.appliedphilosophyonline.com)
+ - [https://appliedphilosophyonline.com](https://appliedphilosophyonline.com)
  - date_published: 2024-02-22T12:18:18+00:00
 
  ## Home
@@ -3225,7 +3253,7 @@ my personal blog
  - date_published: 2024-05-17T00:00:00+00:00
 
  ## Home - Applied Scholastics Online
- - [http://www.appliedscholasticsonline.com](http://www.appliedscholasticsonline.com)
+ - [https://appliedscholasticsonline.com](https://appliedscholasticsonline.com)
  - date_published: 2023-04-05T00:00:00+00:00
 
  ## ASI
@@ -3241,7 +3269,7 @@ my personal blog
  - date_published: 2024-06-22T00:00:00+00:00
 
  ## Applied Technology Review: Magazine for Enterprise Technology
- - [https://www.appliedtechnologyreview.com](https://www.appliedtechnologyreview.com)
+ - [https://appliedtechnologyreview.com](https://appliedtechnologyreview.com)
  - date_published: 2024-09-25T13:01:48.717413+00:00
 
  ## applied
@@ -3274,7 +3302,7 @@ my personal blog
  - date_published: 2024-08-11T04:38:56.342604+00:00
 
  ## Applitools
- - [https://help.applitools.com](https://help.applitools.com)
+ - [http://help.applitools.com](http://help.applitools.com)
  - date_published: 2018-05-03T00:00:00+00:00
 
  ## Test Automation University | Applitools
@@ -3282,7 +3310,7 @@ my personal blog
  - date_published: 2024-08-02T02:42:30+00:00
 
  ## Applicant Tracking
- - [https://www.applitrack.com](https://www.applitrack.com)
+ - [https://applitrack.com](https://applitrack.com)
  - date_published: 2024-08-07T00:00:00+00:00
 
  ## Accueil - Appliwave - Opérateur d’infrastructures cloud sécurisées et solutions télécoms en 100% indirect
@@ -3294,7 +3322,7 @@ my personal blog
  - date_published: 2024-10-30T07:37:06.267436+00:00
 
  ## Attention Required! | Cloudflare
- - [https://investors.applovin.com](https://investors.applovin.com)
+ - [http://investors.applovin.com](http://investors.applovin.com)
  - date_published: 2024-06-25T20:31:47.478381+00:00
 
  ## Don’t Fall Behind: Use In-App Bidding to Maximize Revenue
@@ -3304,6 +3332,7 @@ my personal blog
  ## The Suite of Solutions for Your Mobile Games | AppLovin
  - [https://www.applovin.com](https://www.applovin.com)
  - date_published: 2024-05-02T00:00:00+00:00
+ - date_dead_since: 2025-01-06T07:44:46.576819+00:00
 
  ## Hire better tech. - ApplyByAPI
  - [https://app.applybyapi.com](https://app.applybyapi.com)
@@ -3314,7 +3343,7 @@ my personal blog
  - date_published: 2021-09-03T10:22:04+00:00
 
  ## Renter Reports
- - [https://www.applyconnect.com](https://www.applyconnect.com)
+ - [https://applyconnect.com](https://applyconnect.com)
  - date_published: 2022-08-03T18:32:35+00:00
 
  ## ArangoDB - Career Page
@@ -3350,7 +3379,7 @@ my personal blog
  - date_published: 2024-06-22T15:29:24.896387+00:00
 
  ## Emazing Group: iHeartRaves / INTO THE AM - Career Page
- - [http://emazinggroup.applytojob.com](http://emazinggroup.applytojob.com)
+ - [https://emazinggroup.applytojob.com](https://emazinggroup.applytojob.com)
  - date_published: 2024-07-08T17:56:39.442620+00:00
 
  ## Expertise LLC - Career Page
@@ -3438,11 +3467,11 @@ my personal blog
  - date_published: 2024-05-08T03:31:56+00:00
 
  ## Apply | Admission
- - [http://applyuk.com](http://applyuk.com)
+ - [https://applyuk.com](https://applyuk.com)
  - date_published: 2024-06-16T22:21:11.150863+00:00
 
  ## ApplyWeb
- - [https://www.applyweb.com](https://www.applyweb.com)
+ - [http://applyweb.com](http://applyweb.com)
  - date_published: 2024-07-01T02:43:09.501237+00:00
 
  ## ApplyYourself Application Network
@@ -3458,16 +3487,20 @@ my personal blog
  - date_published: 2024-06-13T06:40:30.976664+00:00
 
  ## Appmixer: Embedded iPaaS and Workflow Automation System
- - [https://www.appmixer.com](https://www.appmixer.com)
+ - [https://appmixer.com](https://appmixer.com)
  - date_published: 2024-08-12T00:00:00+00:00
 
  ## Appmobi
- - [http://www.appmobi.com](http://www.appmobi.com)
+ - [https://appmobi.com](https://appmobi.com)
  - date_published: 2023-02-08T05:52:16+00:00
 
  ## Home
  - [https://appnet.com](https://appnet.com)
  - date_published: 2024-12-23T13:03:28.901255+00:00
+
+ ## Appointlet Homepage
+ - [https://appointlet.com](https://appointlet.com)
+ - date_published: 2021-04-22T06:36:37+00:00
 
  ## Skinner Auctioneers and Appraisers
  - [https://skinner.appointlet.com](https://skinner.appointlet.com)
@@ -3480,10 +3513,6 @@ my personal blog
  ## UW International Students & Scholars
  - [https://uw-international.appointlet.com](https://uw-international.appointlet.com)
  - date_published: 2024-05-11T11:34:37.238741+00:00
-
- ## Appointlet Homepage
- - [https://www.appointlet.com](https://www.appointlet.com)
- - date_published: 2021-04-22T06:36:37+00:00
 
  ## ...
  - [https://app.appointmed.com](https://app.appointmed.com)
@@ -3522,11 +3551,11 @@ my personal blog
  - date_published: 2024-06-15T17:06:49.460907+00:00
 
  ## App Radar by SplitMetrics
- - [https://help.appradar.com](https://help.appradar.com)
+ - [http://help.appradar.com](http://help.appradar.com)
  - date_published: 2024-09-18T18:14:21.496560+00:00
 
  ## App Radar
- - [https://web.appradar.com](https://web.appradar.com)
+ - [http://web.appradar.com](http://web.appradar.com)
  - date_published: 2024-08-30T12:09:15+00:00
 
  ## RadioFM: Internet Radio Live Stream for Android, iPhone, Web
@@ -3542,7 +3571,7 @@ my personal blog
  - date_published: 2024-12-13T03:35:19.856041+00:00
 
  ## Xoilac TV trực tiếp bóng đá 4K | Xem TTBD Xôi Lạc HD 2024
- - [http://www.apprentice-engineer.com](http://www.apprentice-engineer.com)
+ - [https://apprentice-engineer.com](https://apprentice-engineer.com)
  - date_published: 2024-09-11T11:54:05+00:00
 
  ## Private tutor to learn language, music or school tutoring at home
@@ -3550,7 +3579,7 @@ my personal blog
  - date_published: 2024-05-01T01:59:12.529155+00:00
 
  ## Home - Apprien.com
- - [https://www.apprien.com](https://www.apprien.com)
+ - [https://apprien.com](https://apprien.com)
  - date_published: 2024-10-17T21:50:52.656660+00:00
 
  ## Appriss Retail
@@ -3566,7 +3595,7 @@ my personal blog
  - date_published: 2024-10-11T12:45:36.291794+00:00
 
  ## Home
- - [http://www.approvaltests.com](http://www.approvaltests.com)
+ - [https://approvaltests.com](https://approvaltests.com)
  - date_published: 2024-05-10T16:08:53+00:00
 
  ## Approved Industries | Advanced Ceramic Coatings & Thermal Protective Systems for Chinmey Restoration & Lining.
@@ -3574,7 +3603,7 @@ my personal blog
  - date_published: 2019-11-27T00:00:00+00:00
 
  ## Custom Precision Machining Services | Approved Machining
- - [https://www.approvedmachining.com](https://www.approvedmachining.com)
+ - [https://approvedmachining.com](https://approvedmachining.com)
  - date_published: 2024-07-18T15:22:13+00:00
 
  ## Custom Sheet Metal Fabricator, Prototypes | Approved Sheet Metal
@@ -3582,7 +3611,7 @@ my personal blog
  - date_published: 2024-06-10T13:09:28.749989+00:00
 
  ## Approximately Correct
- - [http://approximatelycorrect.com](http://approximatelycorrect.com)
+ - [https://approximatelycorrect.com](https://approximatelycorrect.com)
  - date_published: 2024-06-30T09:23:47.450034+00:00
 
  ## Test Page for the Nginx HTTP Server on Fedora
@@ -3598,7 +3627,7 @@ my personal blog
  - date_published: 2024-07-09T06:59:49+00:00
 
  ## Apps Dissected
- - [https://www.appsdissected.com](https://www.appsdissected.com)
+ - [https://appsdissected.com](https://appsdissected.com)
  - date_published: 2024-06-23T15:23:15.275338+00:00
 
  ## In-App Protection | No Coding Required | AppSealing
@@ -3614,7 +3643,7 @@ my personal blog
  - date_published: 2024-06-13T08:36:32+00:00
 
  ## AppSealing Help Center
- - [https://helpcenter.appsealing.com](https://helpcenter.appsealing.com)
+ - [http://helpcenter.appsealing.com](http://helpcenter.appsealing.com)
  - date_published: 2024-07-13T19:55:36.051623+00:00
 
  ## Appsecco | The Application Security Company
@@ -3626,7 +3655,7 @@ my personal blog
  - date_published: 2024-10-31T07:38:19.770633+00:00
 
  ## OWASP AppSec NYC 2004 - OWASP
- - [http://appsecusa.com](http://appsecusa.com)
+ - [https://appsecusa.com](https://appsecusa.com)
  - date_published: 2020-05-04T01:02:58+00:00
 
  ## Application Security Wiki
@@ -3648,10 +3677,15 @@ my personal blog
  ## AppsFlyer | Make good data-driven choices
  - [https://www.appsflyer.com](https://www.appsflyer.com)
  - date_published: 2024-03-31T00:00:00+00:00
+ - date_dead_since: 2025-01-06T07:53:34.646212+00:00
 
  ## Google AppSheet | Build apps with no code
  - [https://about.appsheet.com](https://about.appsheet.com)
  - date_published: 2024-04-27T08:27:10.639536+00:00
+
+ ## Google AppSheet | Build apps with no code
+ - [https://appsheet.com](https://appsheet.com)
+ - date_published: 2024-05-06T14:13:44.552819+00:00
 
  ## AppSheet
  - [https://community.appsheet.com](https://community.appsheet.com)
@@ -3660,10 +3694,6 @@ my personal blog
  ## AppSheet Help
  - [https://help.appsheet.com](https://help.appsheet.com)
  - date_published: 2024-05-04T08:30:57.431208+00:00
-
- ## Google AppSheet | Build apps with no code
- - [https://www.appsheet.com](https://www.appsheet.com)
- - date_published: 2024-05-06T14:13:44.552819+00:00
 
  ## Application Monitoring for Ruby on Rails, Elixir, Node.js & Python
  - [https://appsignal.com](https://appsignal.com)
@@ -3752,6 +3782,7 @@ my personal blog
  Monorail
  - [https://67629-4fc710d-dot-monorail-prod.appspot.com](https://67629-4fc710d-dot-monorail-prod.appspot.com)
  - date_published: 2024-08-18T20:07:38.651572+00:00
+ - date_dead_since: 2025-01-06T07:56:31.023204+00:00
 
  ## Aksharamukha
  - [https://aksharamukha.appspot.com](https://aksharamukha.appspot.com)
@@ -3780,6 +3811,7 @@ my personal blog
  ## Sign in - Google Accounts
  - [https://chromiumbugs.appspot.com](https://chromiumbugs.appspot.com)
  - date_published: 2024-06-27T16:10:16.961014+00:00
+ - date_dead_since: 2025-01-06T07:57:05.182355+00:00
 
  ## Code Review
  - [https://chromiumcodereview.appspot.com](https://chromiumcodereview.appspot.com)
@@ -3798,7 +3830,7 @@ my personal blog
  - date_published: 2023-10-27T18:41:22+00:00
 
  ## Code Review
- - [http://codereview.appspot.com](http://codereview.appspot.com)
+ - [https://codereview.appspot.com](https://codereview.appspot.com)
  - date_published: 2024-06-20T17:13:14.967580+00:00
 
  ## The Common Knowledge Project
@@ -3826,16 +3858,16 @@ my personal blog
  - date_published: 2024-10-18T07:12:38.617244+00:00
 
  ## FormulaPassion | Tutto sul mondo dei motori: news, live campionati
- - [http://formulapassion-pro.ey.r.appspot.com](http://formulapassion-pro.ey.r.appspot.com)
+ - [https://formulapassion-pro.ey.r.appspot.com](https://formulapassion-pro.ey.r.appspot.com)
  - date_published: 2024-07-16T18:41:32.254895+00:00
 
  ## Forth Haiku Salon
- - [http://forthsalon.appspot.com](http://forthsalon.appspot.com)
+ - [https://forthsalon.appspot.com](https://forthsalon.appspot.com)
  - date_published: 2024-07-14T10:31:51.829555+00:00
 
  ## Fuchsia
  - [https://fuchsia-dot-devsite-v2-prod-3p.appspot.com](https://fuchsia-dot-devsite-v2-prod-3p.appspot.com)
- - date_published: 2024-04-29T07:45:16.302192+00:00
+ - date_published: 2022-09-13T18:32:23+00:00
 
  ## Beginner's Quest 2023
  - [https://gctf-2023.uc.r.appspot.com](https://gctf-2023.uc.r.appspot.com)
@@ -3872,6 +3904,7 @@ my personal blog
  ## Ipsum Image - Placeholder Image Generator Hosted on Google App Engine
  - [https://ipsumimage.appspot.com](https://ipsumimage.appspot.com)
  - date_published: 2024-07-22T17:40:15.177296+00:00
+ - date_dead_since: 2025-01-06T07:58:39.583881+00:00
 
  ## jquery.jpostal.js sample html
  - [https://jpostal-1006.appspot.com](https://jpostal-1006.appspot.com)
@@ -3880,6 +3913,7 @@ my personal blog
  ## Lazy-Like FBB0t
  - [https://lazylikefb.appspot.com](https://lazylikefb.appspot.com)
  - date_published: 2024-08-19T10:47:22.627973+00:00
+ - date_dead_since: 2025-01-06T07:58:49.156554+00:00
 
  ## LowPriority
  - [https://low-priority.appspot.com](https://low-priority.appspot.com)
@@ -3894,12 +3928,13 @@ my personal blog
  - date_published: 2024-06-12T11:25:53.927467+00:00
 
  ## mention.tech
- - [http://mention-tech.appspot.com](http://mention-tech.appspot.com)
+ - [https://mention-tech.appspot.com](https://mention-tech.appspot.com)
  - date_published: 2024-06-15T00:00:00+00:00
 
  ## Deterministic variants of the Miller-Rabin primality test. Miller-Rabin SPRP bases records
  - [https://miller-rabin.appspot.com](https://miller-rabin.appspot.com)
  - date_published: 2024-08-18T14:29:06.463384+00:00
+ - date_dead_since: 2025-01-06T08:01:30.036724+00:00
 
  ## FAQPrime CDN
  - [https://myfaqprime.appspot.com](https://myfaqprime.appspot.com)
@@ -3914,8 +3949,9 @@ my personal blog
  - date_published: 2024-07-08T17:35:54.838446+00:00
 
  ## A World of Change: Climate change through the lens of Google search
- - [http://news-lab-trends-experiment.appspot.com](http://news-lab-trends-experiment.appspot.com)
+ - [https://news-lab-trends-experiment.appspot.com](https://news-lab-trends-experiment.appspot.com)
  - date_published: 2024-08-06T20:04:14.773177+00:00
+ - date_dead_since: 2025-01-06T08:01:48.224901+00:00
 
  ## Npackd
  - [https://npackd.appspot.com](https://npackd.appspot.com)
@@ -3942,12 +3978,13 @@ my personal blog
  - date_published: 2024-03-21T19:37:52+00:00
 
  ## Rahul Garg
- - [http://rahuldotgarg.appspot.com](http://rahuldotgarg.appspot.com)
+ - [https://rahuldotgarg.appspot.com](https://rahuldotgarg.appspot.com)
  - date_published: 2007-02-11T00:00:00+00:00
 
  ## RDF Translator
  - [http://rdf-translator.appspot.com](http://rdf-translator.appspot.com)
  - date_published: 2020-10-23T00:00:00+00:00
+ - date_dead_since: 2025-01-06T08:02:17.490368+00:00
 
  ## Air Mail Pioneers Checkerboard Field Maywood IL
  - [https://read-the-plaque.appspot.com](https://read-the-plaque.appspot.com)
@@ -4003,7 +4040,7 @@ my personal blog
  - date_published: 2024-04-30T07:44:28.546391+00:00
 
  ## Vim: help.txt
- - [http://vimhelp.appspot.com](http://vimhelp.appspot.com)
+ - [https://vimhelp.appspot.com](https://vimhelp.appspot.com)
  - date_published: 2024-05-27T00:00:00+00:00
 
  ## Москва против Путина
@@ -4029,16 +4066,13 @@ my personal blog
  ## Li Xuanji
  - [https://xuanji.appspot.com](https://xuanji.appspot.com)
  - date_published: 2024-08-19T15:13:30.674170+00:00
+ - date_dead_since: 2025-01-06T08:02:54.813100+00:00
 
  ## Elisa Chat
  - [https://zefzhat-eu.appspot.com](https://zefzhat-eu.appspot.com)
  - date_published: 2024-05-10T06:01:10.161468+00:00
 
  ## Latest Articles | iPhone & iPad Game Reviews | AppSpy.com
- - [http://www.appspy.com](http://www.appspy.com)
+ - [https://appspy.com](https://appspy.com)
  - date_published: 2024-10-22T18:21:58.774488+00:00
-
- ## Appstle - Grow your E-Commerce Journey with Compelling Apps
- - [https://appstle.com](https://appstle.com)
- - date_published: 2024-08-20T00:00:00+00:00
 

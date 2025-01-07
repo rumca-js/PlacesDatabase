@@ -1,3 +1,44 @@
+ ## Find & Organize Hackathons Worldwide - Mobile, Web & IoT
+ - [https://www.hackathon.com](https://www.hackathon.com)
+ - date_published: 2024-07-08T17:34:23.027660+00:00
+
+ ## Hackathons Australia
+ - [https://www.hackathonsaustralia.com](https://www.hackathonsaustralia.com)
+ - date_published: 2019-08-26T11:31:55+00:00
+
+ ## HOME - Hackboard
+ - [https://hackboard.com](https://hackboard.com)
+ - date_published: 2024-05-07T06:45:09+00:00
+ - tags: ['single board computer']
+
+ ## HackBulgaria - общността на IT хората - HackBulgaria
+ - [https://www.hackbulgaria.com](https://www.hackbulgaria.com)
+ - date_published: 2024-09-24T11:15:28.796324+00:00
+
+ ## Apocalypse: Toronto's zombified high school hackathon!
+ - [https://apocalypse.hackclub.com](https://apocalypse.hackclub.com)
+ - date_published: 2024-05-04T09:13:09.198084+00:00
+
+ ## Apply to Hack Club
+ - [https://apply.hackclub.com](https://apply.hackclub.com)
+ - date_published: 2024-05-04T09:13:31.277264+00:00
+
+ ## Files within /
+ - [https://assets.hackclub.com](https://assets.hackclub.com)
+ - date_published: 2024-05-04T09:12:50.022090+00:00
+
+ ## Blot
+ - [https://blot.hackclub.com](https://blot.hackclub.com)
+ - date_published: 2024-04-27T19:35:33.731387+00:00
+
+ ## The Boreal Express – Hack Club
+ - [https://boreal.hackclub.com](https://boreal.hackclub.com)
+ - date_published: 2024-06-19T05:39:57.783178+00:00
+
+ ## HCB changelog
+ - [https://changelog.hcb.hackclub.com](https://changelog.hcb.hackclub.com)
+ - date_published: 2024-12-27T21:52:46.061785+00:00
+
  ## Counterspell
  - [https://counterspell.hackclub.com](https://counterspell.hackclub.com)
  - date_published: 2024-10-27T08:20:10+00:00
@@ -4002,44 +4043,4 @@
  ## Hatchly - Start an LLC from Anywhere
  - [https://www.hatchly.com](https://www.hatchly.com)
  - date_published: 2024-10-30T04:39:32+00:00
-
- ## hatebranding.com
- - [http://hatebranding.com](http://hatebranding.com)
- - date_published: 2024-07-13T15:04:15.741652+00:00
-
- ## Hatebreed - Weight Of The False Self | The Official Hatebreed Website
- - [https://hatebreed.com](https://hatebreed.com)
- - date_published: 2024-06-15T03:58:24.569441+00:00
-
- ## Martyr Hardcore Metal Online Store
- - [http://www.hatebreedstore.com](http://www.hatebreedstore.com)
- - date_published: 2024-09-16T03:38:24.945780+00:00
-
- ## Taste of Tech Topics
- - [https://acro-engineer.hatenablog.com](https://acro-engineer.hatenablog.com)
- - date_published: 2024-07-04T07:07:13.832824+00:00
-
- ## 週刊はてなブログ
- - [https://blog.hatenablog.com](https://blog.hatenablog.com)
- - date_published: 2024-07-04T07:09:06.440968+00:00
-
- ## Carpe Diem
- - [https://christina04.hatenablog.com](https://christina04.hatenablog.com)
- - date_published: 2024-07-10T01:53:41.594863+00:00
-
- ## Close To The Wall
- - [https://closetothewall.hatenablog.com](https://closetothewall.hatenablog.com)
- - date_published: 2024-07-04T07:06:50.079015+00:00
-
- ## はてなブログ | 無料ブログを作成しよう
- - [https://hatenablog.com](https://hatenablog.com)
- - date_published: 2024-07-04T07:08:24.684695+00:00
-
- ## はてなブログ ヘルプ
- - [https://help.hatenablog.com](https://help.hatenablog.com)
- - date_published: 2024-08-07T14:06:17.327643+00:00
-
- ## Challenge Engineer Life !
- - [https://kikutaro777.hatenablog.com](https://kikutaro777.hatenablog.com)
- - date_published: 2024-07-02T16:48:48.168397+00:00
 

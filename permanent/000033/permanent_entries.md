@@ -1,3 +1,7 @@
+ ## FlightGear飞行模拟器论坛-飞行仿真技术精英由此开始!
+ - [https://flightgear.org.cn](https://flightgear.org.cn)
+ - date_published: 2024-04-01T00:00:00+00:00
+
  ## 飞行宝-Prepar3D,P3D,MSFS2020,X-Plane微软模拟飞行插件下载
  - [http://www.fsx.org.cn](http://www.fsx.org.cn)
  - date_published: 2024-09-05T00:00:00+00:00
@@ -4019,8 +4023,4 @@
  ## Decathlon trabaja con nosotros
  - [https://trabajaconnosotros.decathlon.co](https://trabajaconnosotros.decathlon.co)
  - date_published: 2024-06-07T19:37:11+00:00
-
- ## Deck9 - Ethical Software Company
- - [https://deck9.co](https://deck9.co)
- - date_published: 2024-08-25T00:35:14+00:00
 

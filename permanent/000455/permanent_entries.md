@@ -1,3 +1,126 @@
+ ## Login - Ooredoo
+ - [https://selfcare.ooredoo.qa](https://selfcare.ooredoo.qa)
+ - date_published: 2024-09-17T18:43:39.826155+00:00
+
+ ## VDP
+ - [https://vdp.ooredoo.qa](https://vdp.ooredoo.qa)
+ - date_published: 2024-09-17T18:43:58.688405+00:00
+
+ ## openQA, automated testing for operating systems
+ - [http://open.qa](http://open.qa)
+ - date_published: 2024-06-19T08:08:08+00:00
+
+ ## PERI Qatar
+ - [https://www.peri.qa](https://www.peri.qa)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Pink Lady® Apples | Pink Lady® Apples | النور واضح عليكِ، والطعم ساكن…
+ - [https://www.pinkladyapples.qa](https://www.pinkladyapples.qa)
+ - date_published: 2024-10-31T08:57:06.770983+00:00
+
+ ## Women's Fashion Clothing & Dresses
+ - [https://www.prettylittlething.qa](https://www.prettylittlething.qa)
+ - date_published: 2024-10-20T14:11:30.056779+00:00
+
+ ## Qatar Visa Check Online 2024 | QVC Qatar Visa Status Check
+ - [https://qatarvisastatuscheck.qa](https://qatarvisastatuscheck.qa)
+ - date_published: 2024-10-19T10:25:34.549754+00:00
+
+ ## Qatar Digital Library
+ - [https://qdl.qa](https://qdl.qa)
+ - date_published: 2023-12-12T09:52:14.722364+00:00
+ - tags: ['digital library']
+
+ ## International School - SEK Qatar
+ - [https://www.sek.qa](https://www.sek.qa)
+ - date_published: 2024-10-15T17:54:17.267543+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.qa](https://www.skyscanner.qa)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## Starlink Online - Your Link to Technology!
+ - [https://www.starlink.qa](https://www.starlink.qa)
+ - date_published: 2024-09-17T18:42:49.902626+00:00
+
+ ## Careers - Virtuoso
+ - [https://careers.virtuoso.qa](https://careers.virtuoso.qa)
+ - date_published: 2024-10-30T20:55:52.236670+00:00
+
+ ## Virtuoso Guide
+ - [https://docs.virtuoso.qa](https://docs.virtuoso.qa)
+ - date_published: 2024-10-30T07:46:23+00:00
+
+ ## Virtuoso
+ - [https://training.virtuoso.qa](https://training.virtuoso.qa)
+ - date_published: 2024-10-30T20:56:07.694395+00:00
+
+ ## QA Automation Testing Tool based on NLP, AI & Machine Learning | Virtuoso QA
+ - [https://www.virtuoso.qa](https://www.virtuoso.qa)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Vodafone Qatar Telecom | Home Internet, Postpaid, Prepaid & more
+ - [https://www.vodafone.qa](https://www.vodafone.qa)
+ - date_published: 2024-09-17T18:42:25+00:00
+
+ ## A2C | Association des Agences de Communication Créative
+ - [https://a2c.quebec](https://a2c.quebec)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Forums du libre du Québec
+ - [https://forumsdulibre.quebec](https://forumsdulibre.quebec)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Accueil - Mila
+ - [https://mila.quebec](https://mila.quebec)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## http://www.okla.quebec
+ - [https://okla.quebec](https://okla.quebec)
+ - date_published: 2024-12-03T21:10:18+00:00
+ - tags: ['art']
+
+ ## Akkoma
+ - [https://pouet.quebec](https://pouet.quebec)
+ - date_published: 2024-07-10T08:51:54.574708+00:00
+
+ ## 0xai.quest - Ta strona jest na sprzedaż! - 0xai Zasoby i informacje.
+ - [https://0xai.quest](https://0xai.quest)
+ - date_published: 2024-10-30T07:23:22+00:00
+
+ ## Show HN: Android Dev Quest – A puzzle game solvable only using developer tools
+ - [https://www.androiddev.quest](https://www.androiddev.quest)
+ - date_published: 2024-11-16T13:49:53+00:00
+
+ ## Arranger: A Role Puzzling Adventure
+ - [https://arranger.quest](https://arranger.quest)
+ - date_published: 2024-06-27T12:50:15.599811+00:00
+
+ ## La Búsqueda del Escritor
+ - [https://escritor.quest](https://escritor.quest)
+ - date_published: 2024-05-10T05:28:59.701785+00:00
+
+ ## The Forest
+ - [https://forest.quest](https://forest.quest)
+ - date_published: 2024-06-14T07:46:23.830699+00:00
+ - tags: ['personal']
+
+ ## .Quest Domain Names
+ - [https://go.quest](https://go.quest)
+ - date_published: 2024-06-17T07:45:06.530140+00:00
+
+ ## GPU Quest
+ - [https://gpu.quest](https://gpu.quest)
+ - date_published: 2024-05-20T18:17:54.291379+00:00
+
+ ## Hack the Treasure
+ - [https://hackthetreasure.quest](https://hackthetreasure.quest)
+ - date_published: 2024-06-20T15:20:39.169095+00:00
+
+ ## HarleQuest!
+ - [https://harle.quest](https://harle.quest)
+ - date_published: 2024-04-07T13:45:43+00:00
+
  ## OREN RAAB DOT NET | Hi.
  - [https://kamiset.quest](https://kamiset.quest)
  - date_published: 2023-09-08T18:53:19+00:00
@@ -1306,7 +1429,7 @@
  - date_published: 2024-09-17T16:04:52+00:00
 
  ## Găsește-ți acum viitorul tău job!
- - [https://www.adecco.ro](https://www.adecco.ro)
+ - [https://adecco.ro](https://adecco.ro)
  - date_published: 2024-10-29T04:23:43.866383+00:00
 
  ## Știri, ultima oră, știri locale, video, foto, comunitate
@@ -2354,7 +2477,7 @@
  - date_published: 2023-05-24T16:17:07+00:00
 
  ## Home
- - [https://www.infomusic.ro](https://www.infomusic.ro)
+ - [https://infomusic.ro](https://infomusic.ro)
  - date_published: 2024-10-29T08:47:24+00:00
 
  ## Parcurgi rapid sumarul știrilor şi vezi cum sunt tratate în diferite publicații
@@ -2817,7 +2940,7 @@
  - date_published: 2024-10-29T09:09:12.567220+00:00
 
  ## Asigurare de sanatate individuala sau pentru companii. Signal Iduna
- - [https://www.signal-iduna.ro](https://www.signal-iduna.ro)
+ - [https://signal-iduna.ro](https://signal-iduna.ro)
  - date_published: 2024-10-29T09:08:54.938638+00:00
 
  ## Agentie Web Design - Oferim Servicii De Marketing Pentru eCommerce
@@ -2961,7 +3084,7 @@
  - date_published: 2024-10-18T23:54:44.114511+00:00
 
  ## Tribuna.ro
- - [https://www.tribuna.ro](https://www.tribuna.ro)
+ - [https://tribuna.ro](https://tribuna.ro)
  - date_published: 2024-10-29T09:08:25.604444+00:00
 
  ## trivago.ro - Compare hotel prices worldwide
@@ -3916,125 +4039,4 @@ A slim and mobile-friendly IIIF document viewer
  ## Petrol | Energija za život
  - [https://www.petrol.co.rs](https://www.petrol.co.rs)
  - date_published: 2024-07-21T04:29:38.664312+00:00
-
- ## Банка Поштанска штедионица // Најдуже се знамо
- - [https://www.posted.co.rs](https://www.posted.co.rs)
- - date_published: 2024-10-16T09:38:14+00:00
-
- ## IT kursevi programiranja - Cubes IT škola
- - [https://cubes.edu.rs](https://cubes.edu.rs)
- - date_published: 2024-10-19T02:02:01.837199+00:00
-
- ## Izdavačka kuća Finesa
- - [https://www.finesa.edu.rs](https://www.finesa.edu.rs)
- - date_published: 2024-07-11T10:50:09.695377+00:00
-
- ## Министарство науке, технолошког развоја и иновација
- - [https://nitra.gov.rs](https://nitra.gov.rs)
- - date_published: 2024-10-18T20:30:48.956680+00:00
-
- ## Насловна
- - [https://sec.gov.rs](https://sec.gov.rs)
- - date_published: 2024-09-23T12:48:29+00:00
-
- ## Stranica u pripremi / Coming soon
- - [https://nle.in.rs](https://nle.in.rs)
- - date_published: 2024-09-16T02:06:10.758026+00:00
-
- ## ANEM :: Home
- - [http://www.anem.org.rs](http://www.anem.org.rs)
- - date_published: 2024-07-15T07:21:59.016569+00:00
-
- ## Astra - Anti trafficking action
- - [http://www.astra.org.rs](http://www.astra.org.rs)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Друштво за информатику Србије | Društvo za informatiku Srbije
- - [https://dis.org.rs](https://dis.org.rs)
- - date_published: 2024-10-18T20:29:53.881091+00:00
-
- ## JKP Obrenovac
- - [http://www.jkpobrenovac.org.rs](http://www.jkpobrenovac.org.rs)
- - date_published: 2024-07-09T08:27:05.128531+00:00
-
- ## 16colo.rs - ANSI/ASCII archive
- - [https://16colo.rs](https://16colo.rs)
- - date_published: 2024-07-02T21:30:30.759854+00:00
-
- ## Abarth Srbija
- - [http://www.abarthsrbija.rs](http://www.abarthsrbija.rs)
- - date_published: 2024-10-28T21:35:10.606657+00:00
-
- ## Actix
- - [https://actix.rs](https://actix.rs)
- - date_published: 2024-05-08T09:00:03.582198+00:00
-
- ## Introduction - The Actoromicon
- - [https://actoromicon.rs](https://actoromicon.rs)
- - date_published: 2024-07-11T12:45:34+00:00
-
- ## Najbolja platforma i saveti za traženje posla - Adecco
- - [https://www.adecco.rs](https://www.adecco.rs)
- - date_published: 2024-10-29T04:25:53.357044+00:00
-
- ## Najbolji hosting u Srbiji i registracija domena
- - [https://adriahost.rs](https://adriahost.rs)
- - date_published: 2024-05-06T08:56:00.670122+00:00
-
- ## Moj nalog
- - [https://moj.adriahost.rs](https://moj.adriahost.rs)
- - date_published: 2024-06-22T20:38:35.438902+00:00
-
- ## Agromagazin
- - [https://agromagazin.rs](https://agromagazin.rs)
- - date_published: 2024-07-03T02:23:38.853547+00:00
-
- ## Agronetto Srbija – online platforma za prodaju poljoprivrednih mašina i rezervnih delova
- - [https://agronetto.rs](https://agronetto.rs)
- - date_published: 2024-08-11T15:39:48.024213+00:00
-
- ## Airbnb | Smeštaji za odmor, brvnare, kuće na plaži i još mnogo toga
- - [https://airbnb.rs](https://airbnb.rs)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Airmail
- - [https://airmail.rs](https://airmail.rs)
- - date_published: 2024-02-17T03:28:02.211764+00:00
-
- ## home
- - [https://www.alfaromeosrbija.rs](https://www.alfaromeosrbija.rs)
- - date_published: 2024-06-03T14:42:06+00:00
-
- ## Algotech Srbija
- - [https://www.algotech.rs](https://www.algotech.rs)
- - date_published: 2022-10-26T00:00:00+00:00
-
- ## amethyst.rs
- - [https://amethyst.rs](https://amethyst.rs)
- - date_published: 2024-08-18T16:39:01.740436+00:00
-
- ## Organisers
- - [https://org.anize.rs](https://org.anize.rs)
- - date_published: 2024-08-07T22:57:50+00:00
-
- ## A+ programming moments · aplus.rs
- - [https://aplus.rs](https://aplus.rs)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## Are we async yet?
- - [https://areweasyncyet.rs](https://areweasyncyet.rs)
- - date_published: 2023-05-11T09:38:38+00:00
- - tags: ['rust', 'personal']
-
- ## Are we game yet?
- - [https://arewegameyet.rs](https://arewegameyet.rs)
- - date_published: 2023-10-25T22:35:53.886030+00:00
-
- ## Ashlanders
- - [https://ashlande.rs](https://ashlande.rs)
- - date_published: 2024-08-07T20:33:29.991518+00:00
-
- ## About - aubrey.rs
- - [https://aubrey.rs](https://aubrey.rs)
- - date_published: 2024-07-10T09:44:14.514109+00:00
 

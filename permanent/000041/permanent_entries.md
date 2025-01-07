@@ -1,3 +1,7 @@
+ ## Abundance London, environmental and educational community projects in Chiswick
+ - [https://abundancelondon.com](https://abundancelondon.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
  ## أبو أسامة
  - [https://abuosama.com](https://abuosama.com)
  - date_published: 2024-07-07T01:57:20+00:00
@@ -1981,19 +1985,20 @@ pcr testing for travel
  - date_published: 2023-10-07T17:53:22+00:00
 
  ## Loading
- - [https://www.acquiaacademy.com](https://www.acquiaacademy.com)
+ - [https://acquiaacademy.com](https://acquiaacademy.com)
  - date_published: 2024-06-13T09:02:12+00:00
 
  ## AllSides | Balanced news via media bias ratings for an unbiased news perspective
  - [https://allsidesprod.prod.acquia-sites.com](https://allsidesprod.prod.acquia-sites.com)
  - date_published: 2019-05-28T01:21:08+00:00
+ - date_dead_since: 2025-01-06T08:53:55.072855+00:00
 
  ## Charles River Laboratories | Boldly challenge scientific possibility
  - [https://charlesriver.prod.acquia-sites.com](https://charlesriver.prod.acquia-sites.com)
  - date_published: 2024-09-09T00:00:00+00:00
 
  ## California Institute of Integral Studies | CIIS
- - [http://ciiscloudprod.prod.acquia-sites.com](http://ciiscloudprod.prod.acquia-sites.com)
+ - [https://ciiscloudprod.prod.acquia-sites.com](https://ciiscloudprod.prod.acquia-sites.com)
  - date_published: 2024-07-15T02:11:10+00:00
 
  ## Georgia Public Broadcasting
@@ -2013,7 +2018,7 @@ pcr testing for travel
  - date_published: 2024-06-23T01:37:46.635185+00:00
 
  ## Apache HTTP Server Test Page powered by CentOS
- - [http://tca-media.acquiremedia.com](http://tca-media.acquiremedia.com)
+ - [https://tca-media.acquiremedia.com](https://tca-media.acquiremedia.com)
  - date_published: 2014-10-16T13:20:58+00:00
 
  ## The Acquirer's Multiple® | Absurdly Simple, Ridiculously Powerful Deep Value Stock Screener
@@ -2021,7 +2026,7 @@ pcr testing for travel
  - date_published: 2024-06-23T02:49:42+00:00
 
  ## Association of Computer Repair Business Owners | Site
- - [http://acrbo.com](http://acrbo.com)
+ - [https://acrbo.com](https://acrbo.com)
  - date_published: 2024-10-07T18:15:40.609993+00:00
 
  ## ACRCloud - Audio Recognition Services For Doers
@@ -2047,9 +2052,10 @@ pcr testing for travel
  ## Acredy
  - [https://acredyweb.com](https://acredyweb.com)
  - date_published: 2024-06-12T10:57:20.458114+00:00
+ - date_dead_since: 2025-01-06T09:03:22.076905+00:00
 
  ## ACRE Kitchen & Bar
- - [https://www.acrekitchenandbar.com](https://www.acrekitchenandbar.com)
+ - [https://acrekitchenandbar.com](https://acrekitchenandbar.com)
  - date_published: 2024-06-26T21:46:19.523275+00:00
 
  ## Acrelia News, Plataforma de email marketing multicuenta
@@ -2073,7 +2079,7 @@ pcr testing for travel
  - date_published: 2024-05-07T16:01:34.055661+00:00
 
  ## All Critch's Posts (2018-present)
- - [http://blog.acritch.com](http://blog.acritch.com)
+ - [https://blog.acritch.com](https://blog.acritch.com)
  - date_published: 2018-04-26T03:09:25+00:00
 
  ## A Critical Hit!
@@ -2081,7 +2087,7 @@ pcr testing for travel
  - date_published: 2024-06-20T01:18:24.167096+00:00
 
  ## ACRONYM® GmbH. Apparel and systems design.
- - [https://acrnm.com](https://acrnm.com)
+ - [http://acrnm.com](http://acrnm.com)
  - date_published: 2024-09-14T23:13:08.968123+00:00
 
  ## Adobe Acrobat
@@ -2133,7 +2139,7 @@ pcr testing for travel
  - date_published: 2024-07-01T15:33:18.311963+00:00
 
  ## Abbreviations and acronyms dictionary
- - [https://www.acronymattic.com](https://www.acronymattic.com)
+ - [https://acronymattic.com](https://acronymattic.com)
  - date_published: 2024-07-09T13:32:44+00:00
 
  ## Abbreviations and acronyms dictionary
@@ -2145,7 +2151,7 @@ pcr testing for travel
  - date_published: 2024-07-01T20:48:34+00:00
 
  ## Abbreviations and acronyms dictionary
- - [http://w1.acronymfinder.com](http://w1.acronymfinder.com)
+ - [https://w1.acronymfinder.com](https://w1.acronymfinder.com)
  - date_published: 2024-07-09T13:32:43.865224+00:00
 
  ## Acronymify! - Automatically generate fun acronyms for your project
@@ -2157,16 +2163,16 @@ pcr testing for travel
  - date_published: 2024-11-16T20:08:47.348483+00:00
 
  ## Bespoke Software Development Company — Acropolium
- - [http://acropolium.com](http://acropolium.com)
+ - [https://acropolium.com](https://acropolium.com)
  - date_published: 2024-10-11T20:54:30.208635+00:00
+
+ ## ACROS Security . Finding Your Digital Vulnerabilities Before Others Do
+ - [https://acrossecurity.com](https://acrossecurity.com)
+ - date_published: 2022-06-20T10:49:19+00:00
 
  ## ACROS Security Blog
  - [https://blog.acrossecurity.com](https://blog.acrossecurity.com)
  - date_published: 2024-02-07T04:48:24+00:00
-
- ## ACROS Security . Finding Your Digital Vulnerabilities Before Others Do
- - [https://www.acrossecurity.com](https://www.acrossecurity.com)
- - date_published: 2022-06-20T10:49:19+00:00
 
  ## Acrosstheatlanticband
  - [https://acrosstheatlanticband.com](https://acrosstheatlanticband.com)
@@ -2181,7 +2187,7 @@ pcr testing for travel
  - date_published: 2017-08-17T15:18:57+00:00
 
  ## Acrylicos Vallejo
- - [https://acrylicosvallejo.com](https://acrylicosvallejo.com)
+ - [http://acrylicosvallejo.com](http://acrylicosvallejo.com)
  - date_published: 2023-07-19T00:00:00+00:00
  - tags: ['miniatures paints']
 
@@ -2198,7 +2204,7 @@ pcr testing for travel
  - date_published: 2024-07-01T18:00:13.586990+00:00
 
  ## Home
- - [http://diversity.georgemasonusf.acsitefactory.com](http://diversity.georgemasonusf.acsitefactory.com)
+ - [https://diversity.georgemasonusf.acsitefactory.com](https://diversity.georgemasonusf.acsitefactory.com)
  - date_published: 2024-07-21T15:28:42+00:00
 
  ## Welcome to the FSU Drupal Site
@@ -2206,11 +2212,11 @@ pcr testing for travel
  - date_published: 2024-07-21T20:48:51+00:00
 
  ## University Registrar
- - [http://registrar.fsu.acsitefactory.com](http://registrar.fsu.acsitefactory.com)
+ - [https://registrar.fsu.acsitefactory.com](https://registrar.fsu.acsitefactory.com)
  - date_published: 2024-07-22T04:14:34+00:00
 
  ## Home | Harvard Trademark Program
- - [http://trademark.hwpiacsf.acsitefactory.com](http://trademark.hwpiacsf.acsitefactory.com)
+ - [https://trademark.hwpiacsf.acsitefactory.com](https://trademark.hwpiacsf.acsitefactory.com)
  - date_published: 2024-07-21T23:18:44.053069+00:00
 
  ## Welcome—TD Ameritrade Transition Overview
@@ -2222,15 +2228,15 @@ pcr testing for travel
  - date_published: 2024-10-19T08:06:27.664419+00:00
 
  ## Home
- - [http://community.act.com](http://community.act.com)
+ - [https://act.com](https://act.com)
  - date_published: 2024-02-15T00:00:00+00:00
 
  ## Home
- - [http://www.act.com](http://www.act.com)
+ - [https://community.act.com](https://community.act.com)
  - date_published: 2024-02-15T00:00:00+00:00
 
  ## Aufnahmetest Vorbereitung für Psychologie und Medizin
- - [https://www.act-act-act.com](https://www.act-act-act.com)
+ - [https://act-act-act.com](https://act-act-act.com)
  - date_published: 2024-07-13T11:35:55.054587+00:00
 
  ## Actapress Scientific Publishing Company Scientific & Technical Publications Journals, Proceedings & Papers
@@ -2270,23 +2276,28 @@ pcr testing for travel
  - date_published: 2024-12-30T22:13:42.378590+00:00
 
  ## Homepage - Act Global
- - [https://www.actglobal.com](https://www.actglobal.com)
+ - [https://actglobal.com](https://actglobal.com)
  - date_published: 2024-04-18T00:00:00+00:00
 
  ## Actian Academy
  - [https://academy.actian.com](https://academy.actian.com)
  - date_published: 2024-06-16T20:08:35.906948+00:00
 
+ ## Home
+ - [https://actian.com](https://actian.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
  ## Actian Corporation Home Page
  - [http://blogs.actian.com](http://blogs.actian.com)
  - date_published: 2024-09-24T00:00:00+00:00
+ - date_dead_since: 2025-01-06T09:08:04.404554+00:00
 
  ## Actian Communities
  - [https://communities.actian.com](https://communities.actian.com)
  - date_published: 2023-06-17T20:08:22+00:00
 
  ## Actian Communities
- - [http://community.actian.com](http://community.actian.com)
+ - [https://community.actian.com](https://community.actian.com)
  - date_published: 2023-10-14T23:02:50+00:00
 
  ## Actian Documentation
@@ -2296,6 +2307,7 @@ pcr testing for travel
  ## ESD - Electronic Software Distribution
  - [https://esd.actian.com](https://esd.actian.com)
  - date_published: 2024-06-16T20:08:39.253151+00:00
+ - date_dead_since: 2025-01-06T09:13:50.516813+00:00
 
  ## Search Results
  - [https://search.actian.com](https://search.actian.com)
@@ -2312,10 +2324,6 @@ pcr testing for travel
  ## Actian Communities
  - [https://supportservices.actian.com](https://supportservices.actian.com)
  - date_published: 2023-10-14T22:57:53+00:00
-
- ## Home
- - [https://www.actian.com](https://www.actian.com)
- - date_published: 2024-03-27T00:00:00+00:00
 
  ## Actian
  - [https://avalanche.actiandatacloud.com](https://avalanche.actiandatacloud.com)
@@ -2342,19 +2350,19 @@ pcr testing for travel
  - date_published: 2024-12-21T14:32:12.694877+00:00
 
  ## Leading LoRaWAN & LPWAN Solutions for Scalable IoT Networks – Actility
- - [https://www.actility.com](https://www.actility.com)
+ - [https://actility.com](https://actility.com)
  - date_published: 2024-06-19T23:20:44+00:00
 
  ## Die Personenschaden Spezialisten | ACTINEO
- - [https://www.actineogroup.com](https://www.actineogroup.com)
+ - [https://actineogroup.com](https://actineogroup.com)
  - date_published: 2024-07-14T16:08:07.442495+00:00
 
  ## Cierpliwości...
- - [https://action.com](https://action.com)
+ - [http://action.com](http://action.com)
  - date_published: 2024-04-29T03:59:37.188024+00:00
 
  ## Action 247 Sportsbook | Tennessee's Top Online Sports Betting
- - [https://www.action247.com](https://www.action247.com)
+ - [https://action247.com](https://action247.com)
  - date_published: 2021-09-09T16:17:54+00:00
 
  ## Books Summaries To Inspire Action | Actionable Books
@@ -2370,7 +2378,7 @@ pcr testing for travel
  - date_published: 2024-03-13T02:18:54+00:00
 
  ## Action-Ed Learning Resources: Making Education Meaningful
- - [http://action-ed.com](http://action-ed.com)
+ - [https://action-ed.com](https://action-ed.com)
  - date_published: 2024-07-09T14:16:39.529331+00:00
 
  ## Action Movie and TV News, Videos and More - ActioNewz.com
@@ -2378,7 +2386,7 @@ pcr testing for travel
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Action Figure Barbecue
- - [http://www.actionfigurebarbecue.com](http://www.actionfigurebarbecue.com)
+ - [https://actionfigurebarbecue.com](https://actionfigurebarbecue.com)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Homepage
@@ -2386,11 +2394,11 @@ pcr testing for travel
  - date_published: 2024-09-18T00:00:00+00:00
 
  ## My Blog – My WordPress Blog
- - [http://www.actionfigurejunkies.com](http://www.actionfigurejunkies.com)
+ - [https://actionfigurejunkies.com](https://actionfigurejunkies.com)
  - date_published: 2024-09-10T08:16:51+00:00
 
  ## Home - ActionFigurePics.com
- - [https://www.actionfigurepics.com](https://www.actionfigurepics.com)
+ - [https://actionfigurepics.com](https://actionfigurepics.com)
  - date_published: 2024-09-18T19:16:25.434682+00:00
 
  ## HOME - Action Horizons
@@ -2398,7 +2406,7 @@ pcr testing for travel
  - date_published: 2024-09-17T01:32:51.508708+00:00
 
  ## Action Network: Sports Betting Odds, News, Insights, & Analysis
- - [https://www.actionnetwork.com](https://www.actionnetwork.com)
+ - [https://actionnetwork.com](https://actionnetwork.com)
  - date_published: 2024-08-07T18:46:22.572524+00:00
 
  ## Action News 5 | WMC Memphis | Weather | Mid-South
@@ -2412,6 +2420,7 @@ pcr testing for travel
  ## actionnewsnow.com | Coverage You Can Count On!
  - [https://www.actionnewsnow.com](https://www.actionnewsnow.com)
  - date_published: 2023-12-27T20:12:26.526403+00:00
+ - date_dead_since: 2025-01-06T09:15:52.050305+00:00
 
  ## Action Retro
  - [https://actionretro.com](https://actionretro.com)
@@ -2422,15 +2431,15 @@ pcr testing for travel
  - date_published: 2024-07-17T07:50:23.963745+00:00
 
  ## Elastic
- - [https://www.actionsports-dealersupport.com](https://www.actionsports-dealersupport.com)
+ - [https://actionsports-dealersupport.com](https://actionsports-dealersupport.com)
  - date_published: 2024-09-17T19:28:48+00:00
 
  ## 炬芯科技股份有限公司 | 低功耗AIoT芯片设计厂商_炬芯科技
- - [http://www.actions-semi.com](http://www.actions-semi.com)
+ - [https://www.actions-semi.com](https://www.actions-semi.com)
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## 炬芯科技股份有限公司 | 领先的低功耗AIoT芯片设计厂商_炬芯官网
- - [https://www.actionstech.com](https://www.actionstech.com)
+ - [http://actionstech.com](http://actionstech.com)
  - date_published: 2024-10-17T12:33:27.364175+00:00
 
  ## Actiontec ... Superior WiFi Optimized for You
@@ -2438,7 +2447,7 @@ pcr testing for travel
  - date_published: 2024-12-24T11:48:26.009149+00:00
 
  ## Pest Control Phoenix | Over 5,000 5 Star Reviews | ACTION Termite & Pest Control
- - [https://www.actiontermitecontrol.com](https://www.actiontermitecontrol.com)
+ - [https://actiontermitecontrol.com](https://actiontermitecontrol.com)
  - date_published: 2015-12-04T09:08:06+00:00
 
  ## Actiontogetherma - Kumpulan Berita Game Android Terbaru Dan Terkini
@@ -2446,7 +2455,7 @@ pcr testing for travel
  - date_published: 2024-08-20T04:06:54.967764+00:00
 
  ## Actirise | Advertising Technology
- - [https://www.actirise.com](https://www.actirise.com)
+ - [https://actirise.com](https://actirise.com)
  - date_published: 2024-05-17T00:00:00+00:00
 
  ## ActiumAI™ - Transform complexity into simplicity
@@ -2454,7 +2463,7 @@ pcr testing for travel
  - date_published: 2024-12-20T17:47:39.989331+00:00
 
  ## Home - Activate Marketing Services
- - [http://www.activatems.com](http://www.activatems.com)
+ - [https://activatems.com](https://activatems.com)
  - date_published: 2024-09-26T17:33:11.782074+00:00
 
  ## Home - ActivationBoxx
@@ -2470,7 +2479,7 @@ pcr testing for travel
  - date_published: 2024-06-19T19:54:13.087876+00:00
 
  ## Rebrandly
- - [http://activblizzmedia.com](http://activblizzmedia.com)
+ - [https://activblizzmedia.com](https://activblizzmedia.com)
  - date_published: 2022-07-05T08:14:45+00:00
 
  ## Home - A3PI Documentation
@@ -2482,7 +2491,7 @@ pcr testing for travel
  - date_published: 2024-05-10T04:56:00.976019+00:00
 
  ## Find & Register for Races, Local Events & Things to Do
- - [http://beta.active.com](http://beta.active.com)
+ - [https://beta.active.com](https://beta.active.com)
  - date_published: 2024-07-12T07:35:09.754635+00:00
 
  ## ACTIVE Network API - The Active.com API
@@ -2501,13 +2510,13 @@ pcr testing for travel
  - [https://resultscui.active.com](https://resultscui.active.com)
  - date_published: 2024-03-11T02:50:12+00:00
 
+ ## Programmatic Advertising Solutions | Virtual Minds GmbH
+ - [https://active-agent.com](https://active-agent.com)
+ - date_published: 2024-06-25T13:16:04+00:00
+
  ## Active Agent
  - [https://my.active-agent.com](https://my.active-agent.com)
  - date_published: 2024-06-25T09:44:51+00:00
-
- ## Programmatic Advertising Solutions | Virtual Minds GmbH
- - [https://www.active-agent.com](https://www.active-agent.com)
- - date_published: 2024-06-25T13:16:04+00:00
 
  ## Homepage
  - [https://go.activecalendar.com](https://go.activecalendar.com)
@@ -2526,7 +2535,7 @@ pcr testing for travel
  - date_published: 2024-06-15T17:08:14.351657+00:00
 
  ## ActiveCampaign Help Center
- - [https://help.activecampaign.com](https://help.activecampaign.com)
+ - [http://help.activecampaign.com](http://help.activecampaign.com)
  - date_published: 2024-05-14T00:00:00+00:00
 
  ## Login - ActiveCampaign
@@ -2546,19 +2555,19 @@ pcr testing for travel
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## ACTIVEWorks Endurance | ACTIVE Network
- - [https://www.activeendurance.com](https://www.activeendurance.com)
+ - [https://activeendurance.com](https://activeendurance.com)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## Trust & Safety at Scale
- - [https://www.activefence.com](https://www.activefence.com)
+ - [https://activefence.com](https://activefence.com)
  - date_published: 2024-10-20T11:32:05.658841+00:00
 
  ## アクティブゲーミングメディア | ゲーム翻訳・ローカライズ
- - [https://www.activegamingmedia.com](https://www.activegamingmedia.com)
+ - [https://activegamingmedia.com](https://activegamingmedia.com)
  - date_published: 2024-08-19T10:24:28.260569+00:00
 
  ## Attention Required! | Cloudflare
- - [https://account.activehosted.com](https://account.activehosted.com)
+ - [http://account.activehosted.com](http://account.activehosted.com)
  - date_published: 2024-09-18T18:19:10.986447+00:00
 
  ## Marketing automation for any business
@@ -2608,6 +2617,7 @@ pcr testing for travel
  ## BUOYANT Email Marketing
  - [https://buoyant.activehosted.com](https://buoyant.activehosted.com)
  - date_published: 2024-08-08T20:06:25.551298+00:00
+ - date_dead_since: 2025-01-06T09:22:25.898022+00:00
 
  ## Camerfirma Email Marketing
  - [https://camerfirma.activehosted.com](https://camerfirma.activehosted.com)
@@ -2704,6 +2714,7 @@ pcr testing for travel
  ## Email Marketing
  - [https://hubcoworkinghawaii.activehosted.com](https://hubcoworkinghawaii.activehosted.com)
  - date_published: 2024-06-23T09:40:14.637354+00:00
+ - date_dead_since: 2025-01-06T09:23:15.632957+00:00
 
  ## ICONCOLLECTIVE Email Marketing
  - [https://iconcollective.activehosted.com](https://iconcollective.activehosted.com)
@@ -2722,7 +2733,7 @@ pcr testing for travel
  - date_published: 2024-07-14T03:12:43.383493+00:00
 
  ## Platform Pricing & Features
- - [https://janelleshane.activehosted.com](https://janelleshane.activehosted.com)
+ - [http://janelleshane.activehosted.com](http://janelleshane.activehosted.com)
  - date_published: 2024-06-15T00:00:00+00:00
 
  ## JEFFREYSHERMAN Email Marketing
@@ -2734,7 +2745,7 @@ pcr testing for travel
  - date_published: 2024-09-24T10:59:11.198319+00:00
 
  ## Attention Required! | Cloudflare
- - [https://jumper.activehosted.com](https://jumper.activehosted.com)
+ - [http://jumper.activehosted.com](http://jumper.activehosted.com)
  - date_published: 2024-10-06T03:28:15.275519+00:00
 
  ## Email Marketing
@@ -2922,7 +2933,7 @@ pcr testing for travel
  - date_published: 2024-05-04T12:03:31.594609+00:00
 
  ## Attention Required! | Cloudflare
- - [https://wildark.activehosted.com](https://wildark.activehosted.com)
+ - [http://wildark.activehosted.com](http://wildark.activehosted.com)
  - date_published: 2024-07-04T10:38:37.619814+00:00
 
  ## WUWM-MILWAUKEE-PUBLIC-RADIO Email Marketing
@@ -2965,17 +2976,21 @@ pcr testing for travel
  - [https://activemapllc.com](https://activemapllc.com)
  - date_published: 2024-05-06T21:34:56.605611+00:00
 
+ ## Race, Activity and Event Management Software | ACTIVE Network
+ - [https://activenetwork.com](https://activenetwork.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## Open Opportunities & Careers | ACTIVE Network
- - [http://careers.activenetwork.com](http://careers.activenetwork.com)
+ - [https://careers.activenetwork.com](https://careers.activenetwork.com)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## Race, Activity and Event Management Software | ACTIVE Network
  - [https://info.activenetwork.com](https://info.activenetwork.com)
  - date_published: 2024-07-11T00:00:00+00:00
 
- ## Race, Activity and Event Management Software | ACTIVE Network
- - [https://www.activenetwork.com](https://www.activenetwork.com)
- - date_published: 2024-07-11T00:00:00+00:00
+ ## Open source no-code business automation · Zapier open source alternative
+ - [https://activepieces.com](https://activepieces.com)
+ - date_published: 2024-06-19T22:22:20+00:00
 
  ## Activepieces Community
  - [https://community.activepieces.com](https://community.activepieces.com)
@@ -2984,10 +2999,6 @@ pcr testing for travel
  ## Activepieces Status
  - [https://status.activepieces.com](https://status.activepieces.com)
  - date_published: 2024-10-31T05:08:14.736848+00:00
-
- ## Open source no-code business automation · Zapier open source alternative
- - [https://www.activepieces.com](https://www.activepieces.com)
- - date_published: 2024-06-19T22:22:20+00:00
 
  ## Real Estate Blog Community for Professionals - ActiveRain
  - [https://activerain.com](https://activerain.com)
@@ -2998,8 +3009,12 @@ pcr testing for travel
  - date_published: 2024-06-20T21:01:43+00:00
  - tags: ['search engine']
 
+ ## Open source security developers will love - ActiveState
+ - [https://activestate.com](https://activestate.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
  ## ActiveState Community
- - [http://aspn.activestate.com](http://aspn.activestate.com)
+ - [https://aspn.activestate.com](https://aspn.activestate.com)
  - date_published: 2024-08-01T00:00:00+00:00
 
  ## Tame Open Source Complexity - ActiveState
@@ -3010,16 +3025,12 @@ pcr testing for travel
  - [https://docs.activestate.com](https://docs.activestate.com)
  - date_published: 2024-08-01T21:37:22+00:00
 
- ## Open source security developers will love - ActiveState
- - [http://www.activestate.com](http://www.activestate.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
  ## Sustainability for all | ACCIONA
  - [https://activesustainability.com](https://activesustainability.com)
  - date_published: 2024-02-24T18:06:52.235015+00:00
 
  ## ActiveTrail Email Marketing
- - [https://www.activetrail.com](https://www.activetrail.com)
+ - [https://activetrail.com](https://activetrail.com)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## Activision | Home
@@ -3084,11 +3095,11 @@ pcr testing for travel
  - date_published: 2023-04-11T00:00:00+00:00
 
  ## ActivTrak: Work Wiser with Workforce Analytics & Productivity Insights
- - [https://www.activtrak.com](https://www.activtrak.com)
+ - [https://activtrak.com](https://activtrak.com)
  - date_published: 2024-08-29T00:00:00+00:00
 
  ## ACT LABS Home Arcade Controller - Everything Else Is Just A Toy!
- - [http://act-labs.com](http://act-labs.com)
+ - [https://act-labs.com](https://act-labs.com)
  - date_published: 2014-08-06T16:53:03+00:00
 
  ## Leadership Coaching Certification | Leadership Coaching - ACT Leader
@@ -3096,7 +3107,7 @@ pcr testing for travel
  - date_published: 2024-06-13T00:00:00+00:00
 
  ## Home
- - [http://www.actmusic.com](http://www.actmusic.com)
+ - [https://actmusic.com](https://actmusic.com)
  - date_published: 2024-09-17T01:01:19.570091+00:00
 
  ## Acton Academy Fort Lauderdale - K-12 Alternative School
@@ -3104,20 +3115,22 @@ pcr testing for travel
  - date_published: 2024-05-09T00:00:00+00:00
 
  ## Acton Academy Journey - On Being an Acton Academy Parent
- - [https://www.actonacademyparents.com](https://www.actonacademyparents.com)
+ - [https://actonacademyparents.com](https://actonacademyparents.com)
  - date_published: 2024-04-22T00:00:00+00:00
 
  ## Act on axial SpA - reducing time to diagnosis
- - [https://www.actonaxialspa.com](https://www.actonaxialspa.com)
+ - [https://actonaxialspa.com](https://actonaxialspa.com)
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## The smartest, easiest to use marketing automation platform
  - [https://a43246.actonservice.com](https://a43246.actonservice.com)
  - date_published: 2024-06-27T00:00:00+00:00
+ - date_dead_since: 2025-01-06T09:37:56.359216+00:00
 
  ## The smartest, easiest to use marketing automation platform
  - [http://mediasource.actonservice.com](http://mediasource.actonservice.com)
  - date_published: 2024-05-16T00:00:00+00:00
+ - date_dead_since: 2025-01-06T09:38:01.506778+00:00
 
  ## Résumés Breakdown Express
  - [https://resumes.actorsaccess.com](https://resumes.actorsaccess.com)
@@ -3132,7 +3145,7 @@ pcr testing for travel
  - date_published: 2024-06-16T13:15:40+00:00
 
  ## Home
- - [http://www.actorsofdionysus.com](http://www.actorsofdionysus.com)
+ - [https://actorsofdionysus.com](https://actorsofdionysus.com)
  - date_published: 2024-06-24T10:17:28+00:00
 
  ## New Jersey's Premiere Acting School | Actors Playground School of Theatre
@@ -3144,7 +3157,7 @@ pcr testing for travel
  - date_published: 2024-06-15T03:54:46.819643+00:00
 
  ## Actronika | Do it, sense it - Upgrade to HD Haptics
- - [https://www.actronika.com](https://www.actronika.com)
+ - [https://actronika.com](https://actronika.com)
  - date_published: 2024-06-24T00:00:00+00:00
 
  ## Acts Not Facts
@@ -3152,7 +3165,7 @@ pcr testing for travel
  - date_published: 2024-05-08T08:47:59.554800+00:00
 
  ## Acts of Gord: Love the Gord, Fear the Gord
- - [http://www.actsofgord.com](http://www.actsofgord.com)
+ - [https://actsofgord.com](https://actsofgord.com)
  - date_published: 2024-06-23T17:19:55.587024+00:00
 
  ## Acts of Volition
@@ -3160,11 +3173,11 @@ pcr testing for travel
  - date_published: 2024-05-11T09:06:32.006227+00:00
 
  ## Actua : TV production + transmission
- - [https://www.actuafilms.com](https://www.actuafilms.com)
+ - [https://actuafilms.com](https://actuafilms.com)
  - date_published: 2024-06-07T12:49:26+00:00
 
  ## Actual Anarchy - The Real Deal Anarchy - No Rulers, Not No Rules
- - [http://www.actualanarchy.com](http://www.actualanarchy.com)
+ - [https://actualanarchy.com](https://actualanarchy.com)
  - date_published: 2023-03-07T15:13:32+00:00
 
  ## Actual
@@ -3178,37 +3191,38 @@ pcr testing for travel
  ## Join Actual on Slack!
  - [https://slack.actualbudget.com](https://slack.actualbudget.com)
  - date_published: 2018-11-30T00:00:00+00:00
+ - date_dead_since: 2025-01-06T09:39:39.383216+00:00
 
  ## - Actualidad Aeroespacial
  - [https://actualidadaeroespacial.com](https://actualidadaeroespacial.com)
  - date_published: 2024-05-31T22:00:13+00:00
 
  ## Actualidad Económica. Noticias de Economía Nacional e Internacional | EL MUNDO
- - [http://www.actualidadeconomica.com](http://www.actualidadeconomica.com)
+ - [http://actualidadeconomica.com](http://actualidadeconomica.com)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## Actualidad Gadget
- - [https://www.actualidadgadget.com](https://www.actualidadgadget.com)
+ - [https://actualidadgadget.com](https://actualidadgadget.com)
  - date_published: 2024-06-20T20:47:49.615897+00:00
 
  ## Actualidad iPhone
- - [https://www.actualidadiphone.com](https://www.actualidadiphone.com)
+ - [https://actualidadiphone.com](https://actualidadiphone.com)
  - date_published: 2024-06-20T20:53:04.696244+00:00
 
  ## Actualidad Motor
- - [https://www.actualidadmotor.com](https://www.actualidadmotor.com)
+ - [https://actualidadmotor.com](https://actualidadmotor.com)
  - date_published: 2024-06-20T20:47:38.416770+00:00
 
  ## AMP - Actualidad Marítima y Portuaria
- - [http://actualidadmp.com](http://actualidadmp.com)
+ - [https://actualidadmp.com](https://actualidadmp.com)
  - date_published: 2024-09-04T00:00:00+00:00
 
  ## Actu-Environnement : l'actualité de l'Environnement
- - [https://www.actu-environnement.com](https://www.actu-environnement.com)
+ - [https://actu-environnement.com](https://actu-environnement.com)
  - date_published: 2024-08-17T22:31:07.069665+00:00
 
  ## Actu IA : Toute l'actualité de l'intelligence artificielle
- - [https://www.actuia.com](https://www.actuia.com)
+ - [https://actuia.com](https://actuia.com)
  - date_published: 2024-08-07T00:00:00+00:00
 
  ## Micro Linear Actuators | Actuonix Motion Devices
@@ -3228,7 +3242,7 @@ pcr testing for travel
  - date_published: 2024-06-22T00:00:00+00:00
 
  ## ACU Insurance Group - Home Insurance and more
- - [https://www.acuinsurancegroup.com](https://www.acuinsurancegroup.com)
+ - [https://acuinsurancegroup.com](https://acuinsurancegroup.com)
  - date_published: 2024-07-10T04:42:28.688201+00:00
 
  ## Medical Device Sales Software | AcuityMD
@@ -3250,13 +3264,14 @@ pcr testing for travel
  ## Welcome to nginx!
  - [https://origin.acuityplatform.com](https://origin.acuityplatform.com)
  - date_published: 2018-04-17T15:48:00+00:00
+ - date_dead_since: 2025-01-06T09:42:51.002193+00:00
 
  ## Online Appointment Scheduling Software - Acuity Scheduling
  - [https://acuityscheduling.com](https://acuityscheduling.com)
  - date_published: 2024-05-06T19:55:43.265503+00:00
 
  ## Not Found
- - [https://app.acuityscheduling.com](https://app.acuityscheduling.com)
+ - [http://app.acuityscheduling.com](http://app.acuityscheduling.com)
  - date_published: 2024-09-15T10:11:35.953217+00:00
 
  ## Brother International Singapore Pte Ltd
@@ -3284,7 +3299,7 @@ pcr testing for travel
  - date_published: 2024-06-26T22:03:49.005384+00:00
 
  ## Acuity Scheduling Status
- - [http://status.acuityscheduling.com](http://status.acuityscheduling.com)
+ - [https://status.acuityscheduling.com](https://status.acuityscheduling.com)
  - date_published: 2024-03-29T00:00:00+00:00
 
  ## AC-U-KWIK | Global Airport Data | FBO and Handler Data | Flight Planning
@@ -3292,7 +3307,7 @@ pcr testing for travel
  - date_published: 2024-07-14T15:34:09.133576+00:00
 
  ## Home
- - [https://www.acumatica.com](https://www.acumatica.com)
+ - [https://acumatica.com](https://acumatica.com)
  - date_published: 2024-07-23T00:00:00+00:00
 
  ## Acumbamail: email marketing, SMS y landing pages
@@ -3303,28 +3318,28 @@ pcr testing for travel
  - [https://soporte.acumbamail.com](https://soporte.acumbamail.com)
  - date_published: 2024-08-07T02:53:09.338713+00:00
 
+ ## Home
+ - [https://acumera.com](https://acumera.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## Acumera BranchSDO
  - [https://connect.acumera.com](https://connect.acumera.com)
  - date_published: 2024-01-10T10:25:16+00:00
 
- ## Home
- - [https://www.acumera.com](https://www.acumera.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
  ## Acunetix | Web Application and API Security Scanner
- - [https://www.acunetix.com](https://www.acunetix.com)
+ - [https://acunetix.com](https://acunetix.com)
  - date_published: 2024-07-22T00:00:00+00:00
 
- ## MyGarage
- - [http://owners.acura.com](http://owners.acura.com)
- - date_published: 2023-08-19T14:45:30+00:00
-
  ## Premium Sedans and SUVs | Acura.com
- - [http://www.acura.com](http://www.acura.com)
+ - [https://acura.com](https://acura.com)
  - date_published: 2024-08-18T14:45:24.030490+00:00
 
+ ## MyGarage
+ - [https://owners.acura.com](https://owners.acura.com)
+ - date_published: 2023-08-19T14:45:30+00:00
+
  ## AHFC Customer
- - [http://www.acurafinancialservices.com](http://www.acurafinancialservices.com)
+ - [https://acurafinancialservices.com](https://acurafinancialservices.com)
  - date_published: 2023-08-19T14:45:07+00:00
 
  ## Acura Newsroom
@@ -3340,7 +3355,7 @@ pcr testing for travel
  - date_published: 2024-05-10T06:18:28.308208+00:00
 
  ## Register a New Domain | WordPress.com Support
- - [http://acustomdomain.com](http://acustomdomain.com)
+ - [https://acustomdomain.com](https://acustomdomain.com)
  - date_published: 2009-06-29T12:25:22+00:00
 
  ## Double-A Chain
@@ -3348,7 +3363,7 @@ pcr testing for travel
  - date_published: 2023-09-05T21:18:25+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.acuwealth.com](https://www.acuwealth.com)
+ - [http://acuwealth.com](http://acuwealth.com)
  - date_published: 2024-07-10T04:42:45.589465+00:00
 
  ## Online Car Auction | Auto Dealer Vehicle Auctions | ACV Auctions
@@ -3372,11 +3387,11 @@ pcr testing for travel
  - date_published: 2024-08-20T04:09:21.496586+00:00
 
  ## ACX
- - [https://www.acx.com](https://www.acx.com)
+ - [https://acx.com](https://acx.com)
  - date_published: 2024-05-02T11:12:09.971970+00:00
 
  ## Better customer experiences through the ethical use of data and technology.
- - [https://www.acxiom.com](https://www.acxiom.com)
+ - [https://acxiom.com](https://acxiom.com)
  - date_published: 2024-08-16T00:00:00+00:00
 
  ## Home - ACZoom
@@ -3388,7 +3403,7 @@ pcr testing for travel
  - date_published: 2024-12-19T12:57:10.299682+00:00
 
  ## Adabankia
- - [https://www.adabankia.com](https://www.adabankia.com)
+ - [https://adabankia.com](https://adabankia.com)
  - date_published: 2024-08-20T04:11:46.714231+00:00
 
  ## Ada Beat - Awesome software, less code
@@ -3396,7 +3411,7 @@ pcr testing for travel
  - date_published: 2024-07-10T01:55:42.131494+00:00
 
  ## Порно онлайн - смотреть порно видео, секс ролики и ххх фильмы
- - [http://www.adabmag.com](http://www.adabmag.com)
+ - [http://adabmag.com](http://adabmag.com)
  - date_published: 2024-10-21T12:54:31.023009+00:00
 
  ## AdaBox : Adafruit Industries, Unique & fun DIY electronics and kits
@@ -3410,6 +3425,7 @@ pcr testing for travel
  ## Adacado DIY Advertising | Do It Yourself Digital Advertising
  - [https://adacado.com](https://adacado.com)
  - date_published: 2024-05-03T00:00:00+00:00
+ - date_dead_since: 2025-01-06T09:46:31.384190+00:00
 
  ## Home | Adacen
  - [https://adacen.com](https://adacen.com)
@@ -3466,7 +3482,7 @@ pcr testing for travel
  - date_published: 2023-10-25T12:31:55.789084+00:00
 
  ## adafruit industries - Forums Index
- - [https://forums.adafruit.com](https://forums.adafruit.com)
+ - [http://forums.adafruit.com](http://forums.adafruit.com)
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## Adafruit IO
@@ -3482,7 +3498,7 @@ pcr testing for travel
  - date_published: 2024-04-28T04:12:51.997534+00:00
 
  ## Adafruit Daily
- - [https://www.adafruitdaily.com](https://www.adafruitdaily.com)
+ - [https://adafruitdaily.com](https://adafruitdaily.com)
  - date_published: 2024-07-19T17:30:08.718789+00:00
 
  ## Adafy - näkemyksellinen teknologiakumppani
@@ -3490,11 +3506,11 @@ pcr testing for travel
  - date_published: 2024-11-21T00:00:00+00:00
 
  ## https://adage.com
- - [https://adage.com](https://adage.com)
+ - [http://adage.com](http://adage.com)
  - date_published: 2023-10-25T12:31:57.417942+00:00
 
  ## Ad Age
- - [https://help.adage.com](https://help.adage.com)
+ - [http://help.adage.com](http://help.adage.com)
  - date_published: 2024-09-15T11:44:34.373470+00:00
 
  ## Ad Age
@@ -3502,19 +3518,19 @@ pcr testing for travel
  - date_published: 2024-08-12T12:43:26+00:00
 
  ## Agentur für Online und Performance Marketing| ad agents
- - [https://www.ad-agents.com](https://www.ad-agents.com)
+ - [https://ad-agents.com](https://ad-agents.com)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Loose Tea | Buy Online | Free shipping over $49
- - [https://www.adagio.com](https://www.adagio.com)
+ - [https://adagio.com](https://adagio.com)
  - date_published: 2024-06-29T18:09:46.364176+00:00
 
  ## Appart hotel : trouvez votre appartement hôtel sur Adagio n°1 en Europe
- - [https://www.adagio-city.com](https://www.adagio-city.com)
+ - [https://adagio-city.com](https://adagio-city.com)
  - date_published: 2024-07-15T09:49:57+00:00
 
  ## Ada Hoffmann – Spec fic writer, poet, autist
- - [http://ada-hoffmann.com](http://ada-hoffmann.com)
+ - [https://ada-hoffmann.com](https://ada-hoffmann.com)
  - date_published: 2024-09-03T23:08:50.693019+00:00
 
  ## Home | ADA
@@ -3522,7 +3538,7 @@ pcr testing for travel
  - date_published: 2024-07-04T05:23:25.890297+00:00
 
  ## AIR EXPO ABU DHABI 2024 - AVIATION & AEROSPACE EXHIBITION
- - [https://www.adairexpo.com](https://www.adairexpo.com)
+ - [https://adairexpo.com](https://adairexpo.com)
  - date_published: 2024-10-23T06:18:13.162616+00:00
 
  ## Home - Adair County Community Voice
@@ -3539,11 +3555,11 @@ pcr testing for travel
  - tags: ['ada', 'programming language']
 
  ## Tero's Arduino blog
- - [http://arduino.ada-language.com](http://arduino.ada-language.com)
+ - [https://arduino.ada-language.com](https://arduino.ada-language.com)
  - date_published: 2017-06-20T00:00:00+00:00
 
  ## Tero Koskinen's homepage
- - [http://build.ada-language.com](http://build.ada-language.com)
+ - [https://build.ada-language.com](https://build.ada-language.com)
  - date_published: 2016-05-02T21:27:20+00:00
 
  ## adalberth | frontend developer | copenhagen
@@ -3603,12 +3619,13 @@ pcr testing for travel
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## Big Data, Cloud, DevOps and container orchestration
- - [https://www.adaltas.com](https://www.adaltas.com)
+ - [https://adaltas.com](https://adaltas.com)
  - date_published: 2023-12-19T13:12:07+00:00
 
  ## The Complete TV Advertising Platform | Adalyser
  - [https://adalyser.com](https://adalyser.com)
  - date_published: 2023-06-16T19:31:29+00:00
+ - date_dead_since: 2025-01-06T09:51:41.576200+00:00
 
  ## Adalyst Media | Podcast Ad Sales, Podcasts for Moms
  - [https://adalystmedia.com](https://adalystmedia.com)
@@ -3627,7 +3644,7 @@ pcr testing for travel
  - date_published: 2021-03-03T20:46:52+00:00
 
  ## Adam Atomic
- - [http://adamatomic.com](http://adamatomic.com)
+ - [https://adamatomic.com](https://adamatomic.com)
  - date_published: 2022-09-11T20:35:07+00:00
 
  ## ADAM Audio - High Precision Studio Monitors from Berlin, Germany
@@ -3656,7 +3673,7 @@ pcr testing for travel
  - date_published: 2024-11-07T12:44:14+00:00
 
  ## Adam Barth
- - [https://www.adambarth.com](https://www.adambarth.com)
+ - [https://adambarth.com](https://adambarth.com)
  - date_published: 2018-01-17T06:42:29+00:00
  - tags: ['personal']
 
@@ -3665,7 +3682,7 @@ pcr testing for travel
  - date_published: 2024-10-31T22:39:39.718832+00:00
 
  ## Adam Bien's Homepage
- - [http://www.adam-bien.com](http://www.adam-bien.com)
+ - [https://adam-bien.com](https://adam-bien.com)
  - date_published: 2024-01-08T03:37:13+00:00
 
  ## https://www.adamblades.com
@@ -3723,7 +3740,7 @@ pcr testing for travel
  - date_published: 2019-08-16T00:00:00+00:00
 
  ## Adamed – tu polska innowacja ma swój początek
- - [https://www.adamed.com](https://www.adamed.com)
+ - [https://adamed.com](https://adamed.com)
  - date_published: 2024-07-14T05:28:57.894502+00:00
 
  ## Adam Enfroy: Start and Scale a Profitable Blog with AI
@@ -3735,7 +3752,7 @@ pcr testing for travel
  - date_published: 2024-08-29T00:00:00+00:00
 
  ## adamesterline.com
- - [http://adamesterline.com](http://adamesterline.com)
+ - [https://adamesterline.com](https://adamesterline.com)
  - date_published: 2021-03-28T00:00:00+00:00
 
  ## Adam Faliq
@@ -3752,7 +3769,7 @@ pcr testing for travel
  - date_published: 2024-01-09T02:29:07.213553+00:00
 
  ## Adam Fishman - Growth & Product Leader and Advisor
- - [https://www.adamfishman.com](https://www.adamfishman.com)
+ - [https://adamfishman.com](https://adamfishman.com)
  - date_published: 2023-12-21T00:00:00+00:00
 
  ## AdamFortuna.com
@@ -3760,7 +3777,7 @@ pcr testing for travel
  - date_published: 2000-01-01T00:00:00+00:00
 
  ## Adam Frank
- - [https://www.adamfrankscience.com](https://www.adamfrankscience.com)
+ - [https://adamfrankscience.com](https://adamfrankscience.com)
  - date_published: 2024-07-21T21:50:48.376677+00:00
 
  ## Adam Fuhrer | Frontend Engineer
@@ -3772,15 +3789,15 @@ pcr testing for travel
  - date_published: 2024-05-06T21:16:57.871825+00:00
 
  ## Adam Gleiss
- - [https://www.adamgleiss.com](https://www.adamgleiss.com)
+ - [https://adamgleiss.com](https://adamgleiss.com)
  - date_published: 2023-01-24T15:00:38+00:00
 
  ## adam's cool website
- - [http://www.adamgryu.com](http://www.adamgryu.com)
+ - [https://adamgryu.com](https://adamgryu.com)
  - date_published: 2024-01-20T19:09:52+00:00
 
  ## Adam Ho, I.S.P. — Independent Studio Practice
- - [https://www.adamho.com](https://www.adamho.com)
+ - [https://adamho.com](https://adamho.com)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Adam Horne Creative Services — Stockholm, Sweden
@@ -3788,23 +3805,23 @@ pcr testing for travel
  - date_published: 2023-01-01T00:00:00+00:00
 
  ## Adam Spooner’s Résumé
- - [http://adamjspooner.com](http://adamjspooner.com)
+ - [https://adamjspooner.com](https://adamjspooner.com)
  - date_published: 2024-09-15T23:33:35+00:00
 
  ## Adam Koford's Illustration Portfolio
- - [http://www.adamkoford.com](http://www.adamkoford.com)
+ - [https://adamkoford.com](https://adamkoford.com)
  - date_published: 2024-09-10T08:40:10.354863+00:00
 
  ## Site is created successfully!
  - [https://adamkortylewski.com](https://adamkortylewski.com)
- - date_published: 2024-05-16T03:07:38+00:00
+ - date_published: 2024-01-03T09:28:05+00:00
 
  ## Adam Krogh
  - [https://adamkrogh.com](https://adamkrogh.com)
  - date_published: 2024-09-25T16:05:21.684697+00:00
 
  ## Adam Larson Jazz
- - [https://www.adamlarsonjazz.com](https://www.adamlarsonjazz.com)
+ - [https://adamlarsonjazz.com](https://adamlarsonjazz.com)
  - date_published: 2024-07-15T06:06:21.424167+00:00
 
  ## Home - Adam Lee Rosenfeld
@@ -3825,7 +3842,7 @@ pcr testing for travel
  - date_published: 2024-12-15T01:59:14.993422+00:00
 
  ## Adam Mastroianni
- - [https://www.adammastroianni.com](https://www.adammastroianni.com)
+ - [https://adammastroianni.com](https://adammastroianni.com)
  - date_published: 2024-06-30T08:08:27.263884+00:00
 
  ## Adam Mattis - Technology & Operations Exec
@@ -3841,7 +3858,7 @@ pcr testing for travel
  - date_published: 2024-09-04T05:20:14.888454+00:00
 
  ## Hydrogen
- - [https://www.adamnathanielfurman.com](https://www.adamnathanielfurman.com)
+ - [https://adamnathanielfurman.com](https://adamnathanielfurman.com)
  - date_published: 2024-09-14T22:50:58.544509+00:00
 
  ## Adam Obeng
@@ -3854,11 +3871,11 @@ pcr testing for travel
  - tags: ['personal']
 
  ## Adam Pike Portfolio
- - [https://www.adampikeportfolio.com](https://www.adampikeportfolio.com)
+ - [https://adampikeportfolio.com](https://adampikeportfolio.com)
  - date_published: 2023-03-18T22:05:05+00:00
 
  ## Adam Prudhomme
- - [http://adamprudhomme.com](http://adamprudhomme.com)
+ - [https://adamprudhomme.com](https://adamprudhomme.com)
  - date_published: 2024-08-11T16:38:00.797885+00:00
 
  ## Adam Ralph – adamralph.com
@@ -3867,11 +3884,11 @@ pcr testing for travel
  - tags: ['personal']
 
  ## ADAM RIDGEWAY OFFICE
- - [https://www.adamridgeway.com](https://www.adamridgeway.com)
+ - [https://adamridgeway.com](https://adamridgeway.com)
  - date_published: 2024-07-09T19:12:22.261102+00:00
 
  ## Home - Ada mR Oberts
- - [https://www.adamroberts.com](https://www.adamroberts.com)
+ - [https://adamroberts.com](https://adamroberts.com)
  - date_published: 2024-05-28T14:46:58+00:00
 
  ## Adam Safron
@@ -3904,7 +3921,7 @@ pcr testing for travel
  - date_published: 2024-02-05T00:00:00+00:00
 
  ## Adams Economics – Staying One Step Ahead in a Dangerous and Uncertain World
- - [https://www.adamseconomics.com](https://www.adamseconomics.com)
+ - [https://adamseconomics.com](https://adamseconomics.com)
  - date_published: 2024-09-11T03:15:38+00:00
 
  ## Adams-Green Funeral Home | Herndon, VA Funerals & Cremation
@@ -3946,11 +3963,11 @@ pcr testing for travel
  - date_published: 2024-10-02T12:38:52.077825+00:00
 
  ## ADA - Worldwide Music Distribution & Services
- - [http://ada-music.com](http://ada-music.com)
+ - [https://ada-music.com](https://ada-music.com)
  - date_published: 2024-08-20T04:37:44+00:00
 
  ## Articles about bootstrapping a business in tech, web development, and leadership. | Adam Waselnuk
- - [https://www.adamwaselnuk.com](https://www.adamwaselnuk.com)
+ - [https://adamwaselnuk.com](https://adamwaselnuk.com)
  - date_published: 2023-09-02T12:46:42+00:00
 
  ## Adam Weigand
@@ -3968,7 +3985,7 @@ pcr testing for travel
  - tags: ['personal']
 
  ## Home - Adam White Law
- - [http://adamwlaw.com](http://adamwlaw.com)
+ - [https://adamwlaw.com](https://adamwlaw.com)
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## Adam Wolpert
@@ -3977,11 +3994,11 @@ pcr testing for travel
 
  ## Wanted by US Marshals
 Service - ADAM MARK ZACHS - Convicted Murderer and Fugitive
- - [http://adamzachs.com](http://adamzachs.com)
+ - [https://adamzachs.com](https://adamzachs.com)
  - date_published: 2011-06-30T17:37:08+00:00
 
  ## Adana Twins
- - [http://www.adanatwins.com](http://www.adanatwins.com)
+ - [https://adanatwins.com](https://adanatwins.com)
  - date_published: 2024-10-27T23:12:13.944039+00:00
 
  ## Three Spectrums: N° 1 to 200
@@ -3997,7 +4014,7 @@ Service - ADAM MARK ZACHS - Convicted Murderer and Fugitive
  - date_published: 2024-12-25T09:04:06.628340+00:00
 
  ## Home - Ada Palmer
- - [https://www.adapalmer.com](https://www.adapalmer.com)
+ - [https://adapalmer.com](https://adapalmer.com)
  - date_published: 2024-01-25T00:00:00+00:00
 
  ## AdapTable Tools - we build AdapTable, the AG Grid extension
@@ -4005,16 +4022,16 @@ Service - ADAM MARK ZACHS - Convicted Murderer and Fugitive
  - date_published: 2024-12-16T19:59:19+00:00
 
  ## Home - adaptAI
- - [https://www.adaptai.com](https://www.adaptai.com)
+ - [https://adaptai.com](https://adaptai.com)
  - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Adaptavist: A digital transformation company like no other
+ - [https://adaptavist.com](https://adaptavist.com)
+ - date_published: 2024-06-16T12:36:39.826326+00:00
 
  ## The Adaptavist Group Documentation
  - [https://docs.adaptavist.com](https://docs.adaptavist.com)
  - date_published: 2024-09-09T00:00:00+00:00
-
- ## Adaptavist: A digital transformation company like no other
- - [https://www.adaptavist.com](https://www.adaptavist.com)
- - date_published: 2024-06-16T12:36:39.826326+00:00
 
  ## Adapt.
  - [https://adaptclothing.com](https://adaptclothing.com)
@@ -4023,8 +4040,4 @@ Service - ADAM MARK ZACHS - Convicted Murderer and Fugitive
  ## The world, adapted to you.
  - [https://adapter.com](https://adapter.com)
  - date_published: 2024-12-21T15:23:15.941162+00:00
-
- ## AI
- - [http://www.adapteva.com](http://www.adapteva.com)
- - date_published: 2024-08-19T17:32:34.969545+00:00
 

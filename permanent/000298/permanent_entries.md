@@ -1,3 +1,91 @@
+ ## Bretl Research Group
+ - [http://bretl.csl.illinois.edu](http://bretl.csl.illinois.edu)
+ - date_published: 2024-06-22T10:03:46.676392+00:00
+
+ ## Home
+ - [http://business.illinois.edu](http://business.illinois.edu)
+ - date_published: 2024-07-21T22:48:18.597738+00:00
+
+ ## ILLINOIS | University of Illinois Urbana-Champaign
+ - [http://calendars.illinois.edu](http://calendars.illinois.edu)
+ - date_published: 2024-05-30T15:51:42+00:00
+
+ ## Campus Administrative Manual – Campus Administrative Manual
+ - [https://cam.illinois.edu](https://cam.illinois.edu)
+ - date_published: 2024-07-21T21:56:18.749367+00:00
+
+ ## Home | Campus Recreation | UIUC
+ - [http://campusrec.illinois.edu](http://campusrec.illinois.edu)
+ - date_published: 2024-07-07T05:30:51.633511+00:00
+
+ ## Cancer Center at Illinois | At the Cancer Center at Illinois, we’re advancing knowledge in science, technology, and engineering to develop game-changing interventions.
+ - [https://cancer.illinois.edu](https://cancer.illinois.edu)
+ - date_published: 2024-07-07T05:29:21.598077+00:00
+
+ ## Sign in to your account
+ - [https://canvas.illinois.edu](https://canvas.illinois.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## CAP Seminar | UIUC CS
+ - [https://capseminar.cs.illinois.edu](https://capseminar.cs.illinois.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## University of Illinois Urbana-Champaign | University of Illinois Urbana-Champaign
+ - [http://catalog.illinois.edu](http://catalog.illinois.edu)
+ - date_published: 2024-07-03T18:17:13+00:00
+
+ ## FrontPage | Counseling Center | UIUC
+ - [https://cc2023.web.illinois.edu](https://cc2023.web.illinois.edu)
+ - date_published: 2024-07-21T22:07:14.315442+00:00
+
+ ## Hosted Brand Assets | University of Illinois Urbana-Champaign
+ - [https://cdn.brand.illinois.edu](https://cdn.brand.illinois.edu)
+ - date_published: 2024-04-30T04:57:17.599308+00:00
+
+ ## Test Access
+ - [https://cdn.toolkit.illinois.edu](https://cdn.toolkit.illinois.edu)
+ - date_published: 2022-05-18T17:34:52+00:00
+
+ ## Home
+ - [https://cee.illinois.edu](https://cee.illinois.edu)
+ - date_published: 2024-07-10T03:50:56.359317+00:00
+
+ ## Office of the Chancellor | University of Illinois Urbana-Champaign
+ - [https://chancellor.illinois.edu](https://chancellor.illinois.edu)
+ - date_published: 2023-09-26T15:52:58+00:00
+
+ ## Charith Mendis
+ - [https://charithm.web.illinois.edu](https://charithm.web.illinois.edu)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Chandra Chekuri
+ - [https://chekuri.cs.illinois.edu](https://chekuri.cs.illinois.edu)
+ - date_published: 2024-08-08T18:27:31+00:00
+
+ ## Home - Chez Veterans Center
+ - [https://chezveteranscenter.ahs.illinois.edu](https://chezveteranscenter.ahs.illinois.edu)
+ - date_published: 2024-04-30T04:57:43.259140+00:00
+
+ ## The Graduate College at the University of Illinois at Urbana-Champaign
+ - [https://choose.illinois.edu](https://choose.illinois.edu)
+ - date_published: 2024-07-21T20:45:11+00:00
+
+ ## CITL
+ - [https://citl.illinois.edu](https://citl.illinois.edu)
+ - date_published: 2024-08-19T04:43:43.429705+00:00
+
+ ## City Scholars
+ - [https://cityscholars.engineering.illinois.edu](https://cityscholars.engineering.illinois.edu)
+ - date_published: 2024-04-30T04:58:44.182490+00:00
+
+ ## City Scholars
+ - [https://cityscholars.grainger.illinois.edu](https://cityscholars.grainger.illinois.edu)
+ - date_published: 2024-07-21T22:10:21.155249+00:00
+
+ ## Home | CodingSpectator
+ - [http://codingspectator.cs.illinois.edu](http://codingspectator.cs.illinois.edu)
+ - date_published: 2014-02-19T15:57:01+00:00
+
  ## Lewis Lab
  - [http://colloids.matse.illinois.edu](http://colloids.matse.illinois.edu)
  - date_published: 2024-11-08T11:34:41+00:00
@@ -3921,92 +4009,4 @@ Data Services
  ## Identity Self-Service Login
  - [https://identity.louisville.edu](https://identity.louisville.edu)
  - date_published: 2024-06-27T12:01:55.879184+00:00
-
- ## Sign in to your account
- - [https://iris.louisville.edu](https://iris.louisville.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## ThinkIR: The University of Louisville's Institutional Repository
- - [https://ir.library.louisville.edu](https://ir.library.louisville.edu)
- - date_published: 2024-05-19T02:41:08.119153+00:00
-
- ## UofL Libraries: University of Louisville Libraries: Home
- - [https://library.louisville.edu](https://library.louisville.edu)
- - date_published: 2024-06-22T07:13:49.040806+00:00
-
- ## University of Louisville
- - [https://louisville.edu](https://louisville.edu)
- - date_published: 2024-05-02T14:48:53+00:00
-
- ## Sign in to your account
- - [https://otms.louisville.edu](https://otms.louisville.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Search UofL
- - [https://search.louisville.edu](https://search.louisville.edu)
- - date_published: 2024-01-25T00:58:45+00:00
-
- ## ULink Portal
- - [https://ulink.louisville.edu](https://ulink.louisville.edu)
- - date_published: 2024-03-10T00:00:00+00:00
-
- ## College of Law | Loyola University New Orleans
- - [http://law.loyno.edu](http://law.loyno.edu)
- - date_published: 2024-06-17T10:26:49+00:00
-
- ## My Apps
- - [https://sso.loyno.edu](https://sso.loyno.edu)
- - date_published: 2024-10-18T22:34:12.007731+00:00
-
- ## Welcome to Loyola University | Loyola University New Orleans
- - [https://www.loyno.edu](https://www.loyno.edu)
- - date_published: 2024-10-14T18:07:51+00:00
-
- ## Events Calendar
- - [https://calendar.lr.edu](https://calendar.lr.edu)
- - date_published: 2024-08-07T16:53:12.606705+00:00
-
- ## Log In to Canvas
- - [https://canvas.lr.edu](https://canvas.lr.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Home | Lenoir-Rhyne University
- - [https://lr.edu](https://lr.edu)
- - date_published: 2024-04-28T03:37:48.331975+00:00
-
- ## Sign in to your account
- - [https://portal.lr.edu](https://portal.lr.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Homepage | Lake Region State College
- - [https://www.lrsc.edu](https://www.lrsc.edu)
- - date_published: 2024-07-01T15:48:42+00:00
-
- ## Home - Lake-Sumter State College
- - [https://www.lssc.edu](https://www.lssc.edu)
- - date_published: 2024-12-23T11:14:33.040757+00:00
-
- ## Lake Superior State University – Superior Education. Superior Experience
- - [https://www.lssu.edu](https://www.lssu.edu)
- - date_published: 2025-01-01T21:16:26.678789+00:00
-
- ## Undergraduate Admissions
- - [https://admissions.lsu.edu](https://admissions.lsu.edu)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Online Tech Bootcamps | Louisiana State University
- - [https://bootcamp.online.lsu.edu](https://bootcamp.online.lsu.edu)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## LSU E. J. Ourso College of Business
- - [https://business.lsu.edu](https://business.lsu.edu)
- - date_published: 2024-07-01T14:41:13.321824+00:00
-
- ## Events Calendar - Louisiana State University
- - [https://calendar.lsu.edu](https://calendar.lsu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Louisiana State University - Acalog ACMS™
- - [https://catalog.lsu.edu](https://catalog.lsu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
 

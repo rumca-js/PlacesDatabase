@@ -1,3 +1,7 @@
+ ## SAINT PEPSI
+ - [https://saintpepsi.bandcamp.com](https://saintpepsi.bandcamp.com)
+ - date_published: 2024-12-22T07:35:36.774506+00:00
+
  ## Beyond the Drone, by SAINT RICH
  - [https://saintrich.bandcamp.com](https://saintrich.bandcamp.com)
  - date_published: 2024-12-27T09:14:53.664518+00:00
@@ -3993,8 +3997,4 @@
  ## Venetian Snares
  - [https://venetiansnares.bandcamp.com](https://venetiansnares.bandcamp.com)
  - date_published: 2024-12-10T23:54:34.345542+00:00
-
- ## Politics Versus the Erection, by Venomous Concept
- - [https://venomousconcept.bandcamp.com](https://venomousconcept.bandcamp.com)
- - date_published: 2024-12-26T23:44:57.758178+00:00
 

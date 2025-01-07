@@ -1,3 +1,111 @@
+ ## The Physics Room
+ - [https://physicsroom.org.nz](https://physicsroom.org.nz)
+ - date_published: 2024-07-13T16:16:00.753479+00:00
+
+ ## Powerswitch: Compare and find cheap energy plans
+ - [https://www.powerswitch.org.nz](https://www.powerswitch.org.nz)
+ - date_published: 2024-10-28T08:39:38.426513+00:00
+
+ ## https://www.privacy.org.nz
+ - [https://privacy.org.nz](https://privacy.org.nz)
+ - date_published: 2024-01-09T03:38:02.730564+00:00
+
+ ## Home | QEII National Trust
+ - [https://qeiinationaltrust.org.nz](https://qeiinationaltrust.org.nz)
+ - date_published: 2024-10-29T19:12:23.472919+00:00
+
+ ## Royal Astronomical Society of New Zealand
+ - [https://rasnz.org.nz](https://rasnz.org.nz)
+ - date_published: 2024-09-16T06:21:56.597365+00:00
+
+ ## Repair Network Aotearoa
+ - [https://repairnetworkaotearoa.org.nz](https://repairnetworkaotearoa.org.nz)
+ - date_published: 2024-05-29T20:28:15.667518+00:00
+
+ ## New Zealand Republic
+ - [http://www.republic.org.nz](http://www.republic.org.nz)
+ - date_published: 2024-10-29T19:38:24.164931+00:00
+
+ ## Smart on Crime
+ - [http://blog.rethinking.org.nz](http://blog.rethinking.org.nz)
+ - date_published: 2024-12-14T14:01:26+00:00
+
+ ## New Zealand Rheumatology Association
+ - [https://www.rheumatology.org.nz](https://www.rheumatology.org.nz)
+ - date_published: 2024-06-28T12:04:00.628983+00:00
+
+ ## Ernest Rutherford - Scientist Supreme
+ - [http://www.rutherford.org.nz](http://www.rutherford.org.nz)
+ - date_published: 2024-02-24T22:42:25+00:00
+
+ ## Seafriends home page
+ - [http://www.seafriends.org.nz](http://www.seafriends.org.nz)
+ - date_published: 2018-10-01T09:27:11+00:00
+
+ ## Future website of splice.org.nz
+ - [http://www.splice.org.nz](http://www.splice.org.nz)
+ - date_published: 2024-07-04T06:19:29.422021+00:00
+
+ ## Starship
+ - [https://starship.org.nz](https://starship.org.nz)
+ - date_published: 2024-07-19T23:16:46.276567+00:00
+
+ ## Stats Chat
+ - [https://www.statschat.org.nz](https://www.statschat.org.nz)
+ - date_published: 2024-10-31T22:43:41.509664+00:00
+
+ ## Hato Hone St John | Here for Life
+ - [https://www.stjohn.org.nz](https://www.stjohn.org.nz)
+ - date_published: 2024-08-18T21:20:15.795315+00:00
+
+ ## takahē - Bringing literature and art from Aotearoa New Zealand to the world.
+ - [https://takahe.org.nz](https://takahe.org.nz)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Welcome to the Divisional Websites of Freemasons New Zealand
+ - [http://www.themasons.org.nz](http://www.themasons.org.nz)
+ - date_published: 2023-01-29T00:47:16+00:00
+
+ ## The Standard
+ - [https://thestandard.org.nz](https://thestandard.org.nz)
+ - date_published: 2024-10-31T22:40:30+00:00
+
+ ## Non-Religious Moral Code of Ethics & Common Decency - 21 Ways to be Happy - The Way To Happiness
+ - [http://www.thewaytohappiness.org.nz](http://www.thewaytohappiness.org.nz)
+ - date_published: 2024-09-04T17:54:11.460356+00:00
+
+ ## Manaaki Tāngata | Victim Support
+ - [http://www.victimsupport.org.nz](http://www.victimsupport.org.nz)
+ - date_published: 2024-10-25T01:36:41+00:00
+
+ ## Scientology Volunteer Ministers: Humanitarian Organization & Aid, Disaster Response
+ - [http://www.volunteerministers.org.nz](http://www.volunteerministers.org.nz)
+ - date_published: 2024-09-04T17:54:05.471217+00:00
+
+ ## Waiheke Radio | Waiheke Island Radio
+ - [http://www.waihekeradio.org.nz](http://www.waihekeradio.org.nz)
+ - date_published: 2024-12-19T10:18:55.134509+00:00
+
+ ## WasteNet Southland
+ - [https://www.wastenet.org.nz](https://www.wastenet.org.nz)
+ - date_published: 2024-02-08T17:46:48.890625+00:00
+
+ ## Home - Webstock
+ - [https://webstock.org.nz](https://webstock.org.nz)
+ - date_published: 2024-05-11T10:54:26.727367+00:00
+
+ ## Women's Refuge - Gift a Safe Night
+ - [https://www.womensrefuge.org.nz](https://www.womensrefuge.org.nz)
+ - date_published: 2024-10-20T11:44:32.811636+00:00
+
+ ## Send a WWF Wildlife eCard
+ - [https://wwf.org.nz](https://wwf.org.nz)
+ - date_published: 2024-05-07T23:58:32.194496+00:00
+
+ ## What Are Human Rights? Defined • Youth for Human Rights Campaign
+ - [http://www.youthforhumanrights.org.nz](http://www.youthforhumanrights.org.nz)
+ - date_published: 2024-09-04T17:54:03.840995+00:00
+
  ## Ombudsman New Zealand
  - [https://www.ombudsman.parliament.nz](https://www.ombudsman.parliament.nz)
  - date_published: 2024-10-29T18:45:24+00:00
@@ -3942,113 +4050,4 @@ I post about Tech, Privacy, Games...
  ## OPTYCs
  - [http://optycs.aapt.org](http://optycs.aapt.org)
  - date_published: 2024-06-30T04:18:21.004461+00:00
-
- ## Portal Home
- - [https://portal.aapt.org](https://portal.aapt.org)
- - date_published: 2024-06-30T04:18:34.081728+00:00
-
- ## AAQEP – Always improving together
- - [https://aaqep.org](https://aaqep.org)
- - date_published: 2024-10-14T23:29:41.230355+00:00
-
- ## The Association of American Railroads (AAR)
- - [https://aar.org](https://aar.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## AAR.Org
- - [https://my.aar.org](https://my.aar.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Autoimmune Disease Awareness, Advocacy, Education & Research - Autoimmune Association
- - [http://www.aarda.org](http://www.aarda.org)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Aard 2
- - [http://aarddict.org](http://aarddict.org)
- - date_published: 2024-07-24T06:09:14.776845+00:00
-
- ## Aardwolf MUD - Web Client
- - [https://aardmud.org](https://aardmud.org)
- - date_published: 2023-07-16T18:41:50+00:00
-
- ## Home | American Academy in Rome
- - [https://aarome.org](https://aarome.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Aaron Simpson
- - [https://aaronsimpson.org](https://aaronsimpson.org)
- - date_published: 2024-01-05T21:35:51.217748+00:00
-
- ## Home | Adam Aaronson
- - [https://aaronson.org](https://aaronson.org)
- - date_published: 2023-10-25T20:53:01.643487+00:00
-
- ## AARP® Official Site - Join & Explore the Benefits
- - [https://aarp.org](https://aarp.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Your Source for Politics, Advocacy and History
- - [https://action.aarp.org](https://action.aarp.org)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## AARP | Media Advertising Network
- - [https://advertise.aarp.org](https://advertise.aarp.org)
- - date_published: 2024-06-28T08:31:13.841232+00:00
-
- ## Site Not Available
- - [https://appsec.aarp.org](https://appsec.aarp.org)
- - date_published: 2017-06-01T00:00:00+00:00
-
- ## Find a Rewarding Career at AARP
- - [https://careers.aarp.org](https://careers.aarp.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## AARP樂齡會™
- - [https://chinese.aarp.org](https://chinese.aarp.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## AARP Online Community
- - [https://community.aarp.org](https://community.aarp.org)
- - date_published: 2024-06-28T08:31:46.671239+00:00
-
- ## Games
- - [https://games.aarp.org](https://games.aarp.org)
- - date_published: 2023-10-30T11:59:48.224688+00:00
- - tags: ['games', 'atari']
-
- ## AARP Help
- - [https://help.aarp.org](https://help.aarp.org)
- - date_published: 2023-06-29T08:30:52+00:00
-
- ## AARP Membership – Join or Renew
- - [https://join.aarp.org](https://join.aarp.org)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## AARP Local: Events Near You, Volunteering, Things To Do
- - [https://local.aarp.org](https://local.aarp.org)
- - date_published: 2023-02-23T00:00:00+00:00
-
- ## AARP.ORG log in - Register Free Online
- - [https://login.aarp.org](https://login.aarp.org)
- - date_published: 2024-06-28T08:31:30.551775+00:00
-
- ## Rewards Star
- - [https://memberoffers.aarp.org](https://memberoffers.aarp.org)
- - date_published: 2024-06-28T08:31:36.006802+00:00
-
- ## AARP Money Map™
- - [https://moneymap.aarp.org](https://moneymap.aarp.org)
- - date_published: 2024-06-26T19:45:48+00:00
-
- ## MediaRoom - AARP Press Room
- - [https://press.aarp.org](https://press.aarp.org)
- - date_published: 2024-06-28T08:31:24+00:00
-
- ## Site Not Available
- - [https://secure.aarp.org](https://secure.aarp.org)
- - date_published: 2017-06-01T00:00:00+00:00
-
- ## Site Not Available
- - [https://secure-pi.aarp.org](https://secure-pi.aarp.org)
- - date_published: 2024-12-12T08:15:23.565037+00:00
 

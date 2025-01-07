@@ -1,3 +1,7 @@
+ ## MEMORIALS
+ - [https://memorialsmusic.bandcamp.com](https://memorialsmusic.bandcamp.com)
+ - date_published: 2025-01-01T06:10:19.886117+00:00
+
  ## Memorials of Distinction
  - [https://memorialsofdistinction.bandcamp.com](https://memorialsofdistinction.bandcamp.com)
  - date_published: 2024-12-26T20:57:21.134395+00:00
@@ -3995,8 +3999,4 @@
  ## Saint and Kings
  - [https://saintandkings.bandcamp.com](https://saintandkings.bandcamp.com)
  - date_published: 2024-08-06T00:00:00+00:00
-
- ## SAINT PEPSI
- - [https://saintpepsi.bandcamp.com](https://saintpepsi.bandcamp.com)
- - date_published: 2024-12-22T07:35:36.774506+00:00
 

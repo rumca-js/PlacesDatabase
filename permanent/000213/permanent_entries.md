@@ -1,3 +1,64 @@
+ ## AI Platform for Identity-Centric Fraud | Sift
+ - [https://sift.com](https://sift.com)
+ - date_published: 2024-04-29T04:05:47.016736+00:00
+
+ ## Sift Status
+ - [https://status.sift.com](https://status.sift.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## siftrss | Filter your RSS feeds and throw away the junk
+ - [https://siftrss.com](https://siftrss.com)
+ - date_published: 2020-08-16T00:00:00+00:00
+ - tags: ['rss']
+
+ ## AI-Powered Fraud Decisioning | Sift
+ - [https://siftscience.com](https://siftscience.com)
+ - date_published: 2024-07-01T19:40:24.181028+00:00
+
+ ## Unified Observability for Modern Hardware
+ - [https://siftstack.com](https://siftstack.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## PHP Development & Support
+ - [https://siftware.com](https://siftware.com)
+ - date_published: 2024-08-18T10:03:16.254900+00:00
+
+ ## SIG | Susquehanna International Group, LLP
+ - [https://sig.com](https://sig.com)
+ - date_published: 2024-06-22T13:10:42.634399+00:00
+
+ ## Sports Interactive Community
+ - [https://community.sigames.com](https://community.sigames.com)
+ - date_published: 2024-07-10T10:49:38+00:00
+
+ ## Sports Interactive Games
+ - [https://sigames.com](https://sigames.com)
+ - date_published: 2024-05-09T08:37:09.444198+00:00
+
+ ## SIGA - Level Zero OT Resilience
+ - [https://sigasec.com](https://sigasec.com)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Home
+ - [https://www.sigcon.com](https://www.sigcon.com)
+ - date_published: 2019-01-22T19:28:24+00:00
+
+ ## Residential ESS | Commercial Solar Solution | Sigenergy
+ - [https://www.sigenergy.com](https://www.sigenergy.com)
+ - date_published: 2024-12-22T19:39:50.167132+00:00
+
+ ## SigFig - Reimagining Wealth Management
+ - [https://www.sigfig.com](https://www.sigfig.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## SIGforum P365 P228 P220 P226 P320 sigtalk SIG-Sauer
+ - [http://sigforum.com](http://sigforum.com)
+ - date_published: 2019-09-07T16:29:32+00:00
+
+ ## A Neighborhood of Infinity
+ - [http://blog.sigfpe.com](http://blog.sigfpe.com)
+ - date_published: 2023-10-25T17:04:10.840798+00:00
+
  ## Content Moderation and Image Analysis
  - [https://sightengine.com](https://sightengine.com)
  - date_published: 2024-10-20T11:32:03.819658+00:00
@@ -344,7 +405,7 @@
  - date_published: 2024-09-04T17:21:54.632385+00:00
 
  ## Signiant | Fast, secure file transfer software
- - [http://signiant.com](http://signiant.com)
+ - [https://signiant.com](https://signiant.com)
  - date_published: 2024-10-29T09:15:33.932778+00:00
 
  ## Significant Bits – a videogame design blog
@@ -3138,7 +3199,7 @@ for Many Brands - SingleKey ID
  - date_published: 2024-12-04T22:26:25+00:00
 
  ## Sinister Visions: Dark Art and Visual Design
- - [https://www.sinistervisions.com](https://www.sinistervisions.com)
+ - [https://sinistervisions.com](https://sinistervisions.com)
  - date_published: 2024-10-29T02:58:36.921390+00:00
 
  ## Sinjin Drowning
@@ -3978,64 +4039,4 @@ for Many Brands - SingleKey ID
  ## Log In - Jabio by Sitejabber
  - [https://biz.sitejabber.com](https://biz.sitejabber.com)
  - date_published: 2024-07-09T07:03:44.972566+00:00
-
- ## Check Ratings of Businesses, Read Reviews & Buy - Sitejabber
- - [https://sitejabber.com](https://sitejabber.com)
- - date_published: 2024-05-09T03:56:01.646863+00:00
-
- ## Siteleaf - A friendly CMS for your static site
- - [https://www.siteleaf.com](https://www.siteleaf.com)
- - date_published: 2024-05-21T19:59:54+00:00
-
- ## Site search - siteLevel
- - [https://www.sitelevel.com](https://www.sitelevel.com)
- - date_published: 2024-05-02T11:51:15.356645+00:00
-
- ## Siteline | Construction Billing Software
- - [https://siteline.com](https://siteline.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## The Website Security And Monitoring Leader
- - [https://www.sitelock.com](https://www.sitelock.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Sitemile
- - [https://sitemile.com](https://sitemile.com)
- - date_published: 2024-12-28T03:23:26.017679+00:00
-
- ## SiteOrigin Background Generator
- - [https://bg.siteorigin.com](https://bg.siteorigin.com)
- - date_published: 2024-07-03T01:53:08.609514+00:00
-
- ## SiteOrigin - Free WordPress Themes and Plugins
- - [https://siteorigin.com](https://siteorigin.com)
- - date_published: 2015-12-07T00:00:00+00:00
-
- ## Kickstart your TYPO3 template development - TYPO3 Sitepackage Builder
- - [https://www.sitepackagebuilder.com](https://www.sitepackagebuilder.com)
- - date_published: 2024-08-06T07:39:45.698004+00:00
-
- ## SitePad – SitePad Website Builder
- - [https://sitepad.com](https://sitepad.com)
- - date_published: 2024-06-28T11:22:47.213529+00:00
-
- ## TalkScript - A podcast about TypeScript | SitePen
- - [https://talkscript.sitepen.com](https://talkscript.sitepen.com)
- - date_published: 2024-06-23T08:42:51.941693+00:00
-
- ## Enterprise Level Software Development Company | SitePen
- - [https://www.sitepen.com](https://www.sitepen.com)
- - date_published: 2024-05-06T13:56:33.162034+00:00
-
- ## Website Monitoring | SitePing by 500apps
- - [https://siteping.com](https://siteping.com)
- - date_published: 2024-10-30T18:43:17.733386+00:00
-
- ## SitePoint Blog – The Best Web Development & Design Blog
- - [https://blogs.sitepoint.com](https://blogs.sitepoint.com)
- - date_published: 2024-05-07T09:20:12.680747+00:00
-
- ## SitePoint Blog – The Best Web Development & Design Blog
- - [http://reference.sitepoint.com](http://reference.sitepoint.com)
- - date_published: 2024-12-21T01:02:25+00:00
 

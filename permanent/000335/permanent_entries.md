@@ -1,3 +1,97 @@
+ ## דרושים IL- חיפוש עבודה בחינם, גיוס עובדים
+ - [https://www.drushim.co.il](https://www.drushim.co.il)
+ - date_published: 2024-09-17T17:54:54.875462+00:00
+ - date_dead_since: 2025-01-05T23:25:26.779116+00:00
+
+ ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
+ - [https://duracell.co.il](https://duracell.co.il)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## דייסון ישראל | האתר הרשמי | Dyson Israel
+ - [https://dyson.co.il](https://dyson.co.il)
+ - date_published: 2024-07-07T01:57:31.342083+00:00
+
+ ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
+ - [https://epochtimes.co.il](https://epochtimes.co.il)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## דף הבית - ערן שטרן
+ - [http://eranstern.co.il](http://eranstern.co.il)
+ - date_published: 2023-11-17T15:06:30+00:00
+ - tags: ['personal']
+
+ ## אתר הקורסים של ערן שטרן
+ - [http://school.eranstern.co.il](http://school.eranstern.co.il)
+ - date_published: 2024-08-18T13:06:28.173922+00:00
+
+ ## אשכולות | שומרים על זכויות האמנים המבצעים בישראל
+ - [https://eshkolot.co.il](https://eshkolot.co.il)
+ - date_published: 2024-08-11T13:52:36.456896+00:00
+
+ ## חנות אינטרנטית עם ממשק ידידותי בעברית ופיצ'רים מתקדמים | E-shop
+ - [https://e-shop.co.il](https://e-shop.co.il)
+ - date_published: 2024-07-14T03:35:18.373421+00:00
+
+ ## כרטיסים להופעות, מופעים, בידור, תאטרון וספורט - Eventim
+ - [https://eventim.co.il](https://eventim.co.il)
+ - date_published: 2024-07-20T14:52:44.665232+00:00
+
+ ## face 2 face - פתרונות אינטרנט מתקדמים - בניית אתרים | פרסום ושיווק באינטרנט
+ - [https://f2f.co.il](https://f2f.co.il)
+ - date_published: 2024-06-21T19:04:31.608608+00:00
+
+ ## Home - FANUC Academy
+ - [https://fanuc-academy.co.il](https://fanuc-academy.co.il)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## פיתוח אתרים ומערכות ידע | Fatfish
+ - [https://fatfish.co.il](https://fatfish.co.il)
+ - date_published: 2024-07-01T08:37:44+00:00
+
+ ## FATLADY | A boutique home for websites and apps by Elad Ziv
+ - [https://www.fatlady.co.il](https://www.fatlady.co.il)
+ - date_published: 2024-06-28T19:26:39.556919+00:00
+
+ ## Point of View
+ - [http://blog.fdesign.co.il](http://blog.fdesign.co.il)
+ - date_published: 2024-03-19T21:24:46+00:00
+
+ ## Feuerstein Design – Visual Branding
+ - [https://cdn.fdesign.co.il](https://cdn.fdesign.co.il)
+ - date_published: 2024-06-20T16:51:29+00:00
+
+ ## Feuerstein Design – Visual Branding
+ - [https://fdesign.co.il](https://fdesign.co.il)
+ - date_published: 2024-05-04T14:44:39.067585+00:00
+
+ ## פיאט ישראל האתר הרשמי | Fiat Israel Official Website
+ - [https://fiat.co.il](https://fiat.co.il)
+ - date_published: 2024-06-16T09:36:02+00:00
+
+ ## פורבס ישראל - המגזין העסקי המוביל בעולם
+ - [https://forbes.co.il](https://forbes.co.il)
+ - date_published: 2024-05-08T05:59:02.261728+00:00
+
+ ## אתר הנוער של ישראל
+ - [https://frogi.co.il](https://frogi.co.il)
+ - date_published: 2024-05-09T04:02:31.227539+00:00
+
+ ## אתר הנוער של ישראל
+ - [https://s.frogi.co.il](https://s.frogi.co.il)
+ - date_published: 2024-07-09T07:16:29.056501+00:00
+
+ ## גל עיצוב, הקמה וקידום אתרי אינטרנט
+ - [https://gald.co.il](https://gald.co.il)
+ - date_published: 2024-08-11T23:59:36.467090+00:00
+
+ ## גלעד לזכרם - אוניברסיטת בר אילן
+ - [https://biu.gal-ed.co.il](https://biu.gal-ed.co.il)
+ - date_published: 2024-08-07T15:12:06.566990+00:00
+
+ ## גרנייה ישראל - Garnier | צבעי שיער, ניקוי וטיפוח הפנים והגוף
+ - [https://garnier.co.il](https://garnier.co.il)
+ - date_published: 2024-10-30T17:02:30.361049+00:00
+
  ## דף הבית - Gav-Yam Negev
  - [https://gavyam-negev.co.il](https://gavyam-negev.co.il)
  - date_published: 2024-01-31T00:00:00+00:00
@@ -427,7 +521,7 @@
  - date_published: 2024-09-17T17:58:49.529720+00:00
 
  ## NARS Cosmetics | החנות הרשמית | חנויות איפור וטיפוח
- - [http://www.narscosmetics.co.il](http://www.narscosmetics.co.il)
+ - [https://narscosmetics.co.il](https://narscosmetics.co.il)
  - date_published: 2024-10-29T09:02:54.158643+00:00
 
  ## נשיונל ג'יאוגרפיק ישראל - טיולים, בעלי חיים, צילום, מדע ותרבויות
@@ -3938,97 +4032,4 @@ Indian Institute of Science, Bangalore
  ## The office of the Dean International, Alumni and Corporate Relations (IACR)
  - [https://iacr.nitc.ac.in](https://iacr.nitc.ac.in)
  - date_published: 2024-12-24T18:32:01.391725+00:00
-
- ## Knowledge Resource Portal | NITC
- - [https://krp.nitc.ac.in](https://krp.nitc.ac.in)
- - date_published: 2024-12-24T18:32:47.909630+00:00
-
- ## National Institute of Technology
- - [https://nitc.ac.in](https://nitc.ac.in)
- - date_published: 2024-09-11T17:47:05.381978+00:00
-
- ## Research and Consultancy
- - [https://randc.nitc.ac.in](https://randc.nitc.ac.in)
- - date_published: 2024-12-24T18:32:37.201222+00:00
-
- ## NIT Calicut - Support Desk
- - [https://ticket.nitc.ac.in](https://ticket.nitc.ac.in)
- - date_published: 2024-12-24T18:32:51.307576+00:00
-
- ## Welcome To NIT Goa
- - [https://nitgoa.ac.in](https://nitgoa.ac.in)
- - date_published: 2024-09-11T14:33:26+00:00
-
- ## Dr. B.R. Ambedkar National Institute of Technology, Jalandhar
- - [https://nitj.ac.in](https://nitj.ac.in)
- - date_published: 2024-05-29T11:27:17+00:00
-
- ## NIT Jamshedpur | राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर
- - [https://nitjsr.ac.in](https://nitjsr.ac.in)
- - date_published: 2024-09-10T17:02:49+00:00
-
- ## IRIS
- - [https://iris.nitk.ac.in](https://iris.nitk.ac.in)
- - date_published: 2024-12-24T18:35:37.624704+00:00
-
- ## Central Library NITK Surathkal
- - [http://library.nitk.ac.in](http://library.nitk.ac.in)
- - date_published: 2024-12-24T18:36:13.631923+00:00
-
- ## NITK Surathkal
- - [http://nitk.ac.in](http://nitk.ac.in)
- - date_published: 2024-09-11T17:43:11.271249+00:00
-
- ## NITK Surathkal Virtual Tour | Virtual tour generated by Panotour
- - [http://vtour.nitk.ac.in](http://vtour.nitk.ac.in)
- - date_published: 2024-12-24T18:34:11.963808+00:00
-
- ## National Institute of Technology, Kurukshetra – India, the land of seekers, is at the cusp of becoming Vishwa Guru all over again after 1100 years of subjugation, wars, annexures and humiliation. It is again a free country due to the sacrifices made by our leaders, freedom fighters and has learnt the art of standing tall in the midst of many a challenge of building the nation with its rich diversity, cultures, languages all over again since the last 75 years. Unity in Diversity is our mantra while making our nation stronger in every sphere.
- - [http://www.nitkkr.ac.in](http://www.nitkkr.ac.in)
- - date_published: 2024-12-25T00:04:28.212258+00:00
-
- ## National Institute of Technology, Meghalaya
- - [https://nitm.ac.in](https://nitm.ac.in)
- - date_published: 2024-09-11T17:43:28.496777+00:00
-
- ## Home
- - [https://uba.nitm.ac.in](https://uba.nitm.ac.in)
- - date_published: 2024-12-24T18:41:54.713919+00:00
-
- ## IIS Windows Server
- - [https://nitmanipur.ac.in](https://nitmanipur.ac.in)
- - date_published: 2024-09-05T09:22:34+00:00
-
- ## National Institute of Technology - Mizoram Alumni
- - [http://alumni.nitmz.ac.in](http://alumni.nitmz.ac.in)
- - date_published: 2024-12-24T18:42:46.810721+00:00
-
- ## IIS Windows Server
- - [https://nitmz.ac.in](https://nitmz.ac.in)
- - date_published: 2024-09-05T09:22:34+00:00
-
- ## NIT PATNA | National Institute of Technology Patna
- - [http://www.nitp.ac.in](http://www.nitp.ac.in)
- - date_published: 2024-12-25T00:03:33.832508+00:00
-
- ## AIIR :: NIT Rourkela
- - [https://alum.nitrkl.ac.in](https://alum.nitrkl.ac.in)
- - date_published: 2024-12-24T18:44:11.030953+00:00
-
- ## Zimbra Web Client Sign In
- - [https://mail.nitrkl.ac.in](https://mail.nitrkl.ac.in)
- - date_published: 2024-12-24T18:45:21.740999+00:00
-
- ## NIT Rourkela
- - [https://nitrkl.ac.in](https://nitrkl.ac.in)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## NIT Rourkela
- - [https://website.nitrkl.ac.in](https://website.nitrkl.ac.in)
- - date_published: 2024-12-24T18:43:51.376968+00:00
-
- ## Codeutsava 8.0 - Central India's Largest Coding Event
- - [https://codeutsava.nitrr.ac.in](https://codeutsava.nitrr.ac.in)
- - date_published: 2024-09-21T13:09:02+00:00
- - date_dead_since: 2024-12-24T18:53:37.972639+00:00
 

@@ -1,5 +1,5 @@
  ## PIBBSS – Principles of Intelligent Behavior in Biological and Social Systems
- - [https://www.pibbss.ai](https://www.pibbss.ai)
+ - [https://pibbss.ai](https://pibbss.ai)
  - date_published: 2024-06-21T11:27:23.872282+00:00
 
  ## PicFinder.AI - Unleash Your Creativity with AI-Generated Images
@@ -27,7 +27,7 @@
  - date_published: 2023-10-25T11:41:19.824898+00:00
 
  ## Free AI Photo Editor: Online Image Editing Tools｜Picsman
- - [https://www.picsman.ai](https://www.picsman.ai)
+ - [https://picsman.ai](https://picsman.ai)
  - date_published: 2024-09-11T19:42:06+00:00
 
  ## PicSo AI Art Generator
@@ -67,7 +67,7 @@
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Pirr
- - [https://www.pirr.ai](https://www.pirr.ai)
+ - [https://pirr.ai](https://pirr.ai)
  - date_published: 2024-09-13T20:36:05.471293+00:00
 
  ## AI Pitch Deck Generator | Pitches.ai
@@ -87,7 +87,7 @@
  - date_published: 2024-02-14T00:00:00+00:00
 
  ## Unlock the power of modern Procurement | Pivot
- - [https://www.pivotapp.ai](https://www.pivotapp.ai)
+ - [https://pivotapp.ai](https://pivotapp.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## PixaBot - AI Avatars for D-ID video
@@ -117,6 +117,7 @@
  ## Pixelmind - AI-powered art & minting to NFTs
  - [https://beta.pixelmind.ai](https://beta.pixelmind.ai)
  - date_published: 2022-12-28T14:45:22+00:00
+ - date_dead_since: 2025-01-06T12:18:56.113061+00:00
 
  ## Pixel+: AI-Powered Photo Repair & Restoration
  - [https://pixelplus.ai](https://pixelplus.ai)
@@ -189,6 +190,7 @@
  ## Plausible · Web analytics
  - [https://plausy.pixu.ai](https://plausy.pixu.ai)
  - date_published: 2024-09-13T20:34:18.116040+00:00
+ - date_dead_since: 2025-01-06T12:22:38.698590+00:00
 
  ## PixVerse - Create breath-taking videos with PixVerse AI
  - [https://pixverse.ai](https://pixverse.ai)
@@ -237,9 +239,10 @@
  ## Plato
  - [https://platoeducation.ai](https://platoeducation.ai)
  - date_published: 2023-04-02T01:27:48+00:00
+ - date_dead_since: 2025-01-06T12:22:51.384079+00:00
 
  ## PLAUD NOTE: ChatGPT Empowered AI Voice Recorder | PLAUD
- - [https://www.plaud.ai](https://www.plaud.ai)
+ - [https://plaud.ai](https://plaud.ai)
  - date_published: 2024-08-06T19:31:02.602197+00:00
 
  ## PlayAI
@@ -253,21 +256,23 @@
  ## PlayFi Era Block Explorer
  - [https://albireo-explorer.playfi.ai](https://albireo-explorer.playfi.ai)
  - date_published: 2024-05-27T15:38:05+00:00
+ - date_dead_since: 2025-01-06T12:22:58.346939+00:00
+
+ ## PlayFi - Build on the world's most popular games
+ - [https://playfi.ai](https://playfi.ai)
+ - date_published: 2024-09-20T00:00:00+00:00
 
  ## PlayFi Bridge | Transfer funds between zkSync and Ethereum
  - [https://portal.playfi.ai](https://portal.playfi.ai)
  - date_published: 2024-08-07T14:06:18+00:00
-
- ## PlayFi - Build on the world's most popular games
- - [https://www.playfi.ai](https://www.playfi.ai)
- - date_published: 2024-09-20T00:00:00+00:00
+ - date_dead_since: 2025-01-06T12:22:58.949080+00:00
 
  ## Playlist Genius AI
  - [https://www.playlistgenius.ai](https://www.playlistgenius.ai)
  - date_published: 2024-10-30T12:21:56.243336+00:00
 
  ## Pleasures.ai | Realistic NSFW AI Image Generator
- - [https://www.pleasures.ai](https://www.pleasures.ai)
+ - [https://pleasures.ai](https://pleasures.ai)
  - date_published: 2024-09-14T08:00:02.286043+00:00
 
  ## PlotNotes - Home
@@ -283,7 +288,7 @@
  - date_published: 2024-10-24T12:32:00+00:00
 
  ## Plugger - Automate your design work with AI and increase your growth!
- - [https://www.plugger.ai](https://www.plugger.ai)
+ - [https://plugger.ai](https://plugger.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Driver Assist and Autonomous Driving Technologies and Solutions | Plus
@@ -307,7 +312,7 @@
  - date_published: 2024-06-19T19:05:11.386894+00:00
 
  ## PodEngine.ai
- - [https://www.podengine.ai](https://www.podengine.ai)
+ - [https://podengine.ai](https://podengine.ai)
  - date_published: 2024-09-14T22:56:26.465933+00:00
 
  ## Podfy.ai - AI-powered Video Repurposing
@@ -359,7 +364,7 @@
  - date_published: 2022-03-31T00:00:00+00:00
 
  ## Pooks.ai - Your Free Personalized Book Awaits
- - [https://www.pooks.ai](https://www.pooks.ai)
+ - [https://pooks.ai](https://pooks.ai)
  - date_published: 2024-09-14T07:57:17.809416+00:00
 
  ## poolside
@@ -395,7 +400,7 @@
  - date_published: 2024-12-23T04:49:06.871584+00:00
 
  ## PortrAIt | French Digital Pathology Consortium
- - [https://www.portraitpathology.ai](https://www.portraitpathology.ai)
+ - [https://portraitpathology.ai](https://portraitpathology.ai)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## Postersession.ai
@@ -407,7 +412,7 @@
  - date_published: 2024-07-30T14:58:16+00:00
 
  ## PosterStudio
- - [https://www.posterstudio.ai](https://www.posterstudio.ai)
+ - [https://posterstudio.ai](https://posterstudio.ai)
  - date_published: 2024-05-22T08:35:46+00:00
 
  ## Dashboard
@@ -467,7 +472,7 @@
  - date_published: 2024-09-14T10:01:12.821063+00:00
 
  ## Predian Inventory - Dealership made simple
- - [https://www.predian.ai](https://www.predian.ai)
+ - [https://predian.ai](https://predian.ai)
  - date_published: 2024-06-29T14:50:22.439880+00:00
 
  ## Predis.ai | App
@@ -499,15 +504,15 @@
  - date_published: 2024-09-12T19:09:38.842459+00:00
 
  ## Prime Intellect - Commoditizing Compute & Intelligence
- - [http://primeintellect.ai](http://primeintellect.ai)
+ - [https://primeintellect.ai](https://primeintellect.ai)
  - date_published: 2024-09-09T00:00:00+00:00
 
  ## Prioris.ai Inc. When predictions matter
- - [https://www.prioris.ai](https://www.prioris.ai)
+ - [https://prioris.ai](https://prioris.ai)
  - date_published: 2024-02-22T19:22:19+00:00
 
  ## PRISM Eval
- - [https://www.prism-eval.ai](https://www.prism-eval.ai)
+ - [https://prism-eval.ai](https://prism-eval.ai)
  - date_published: 2024-06-21T11:42:20.193874+00:00
 
  ## Prisms
@@ -515,7 +520,7 @@
  - date_published: 2024-06-19T19:03:57.102094+00:00
 
  ## Privasea - Verify your Human Liveness
- - [https://www.privasea.ai](https://www.privasea.ai)
+ - [https://privasea.ai](https://privasea.ai)
  - date_published: 2024-09-23T00:00:00+00:00
 
  ## Processor.AI
@@ -523,11 +528,11 @@
  - date_published: 2024-10-30T17:30:05.236679+00:00
 
  ## Commercial real estate software - PRODA
- - [https://www.proda.ai](https://www.proda.ai)
+ - [https://proda.ai](https://proda.ai)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## productkit.ai
- - [http://productkit.ai](http://productkit.ai)
+ - [https://productkit.ai](https://productkit.ai)
  - date_published: 2024-07-03T16:45:50.436442+00:00
 
  ## Product Lab AI
@@ -563,7 +568,7 @@
  - date_published: 2024-02-24T07:27:58+00:00
 
  ## Cognee - We help you build deterministic AI memory
- - [https://www.prometh.ai](https://www.prometh.ai)
+ - [https://prometh.ai](https://prometh.ai)
  - date_published: 2024-06-19T19:50:46.126889+00:00
 
  ## PromptBox : Save, Share & Paste Repetative Text
@@ -579,7 +584,7 @@
  - date_published: 2024-06-17T01:47:09.248648+00:00
 
  ## Promtify - Your Gateway to AI-Powered Content Generation
- - [https://www.promtify.ai](https://www.promtify.ai)
+ - [https://promtify.ai](https://promtify.ai)
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## Pronto.ai – Autonomous Haulage Systems
@@ -623,7 +628,7 @@
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## Proton Engineering Blog
- - [https://blog.dev.proton.ai](https://blog.dev.proton.ai)
+ - [http://blog.dev.proton.ai](http://blog.dev.proton.ai)
  - date_published: 2022-02-01T00:00:00+00:00
 
  ## Proton CRM Home
@@ -643,7 +648,7 @@
  - date_published: 2023-10-25T11:41:38.149007+00:00
 
  ## เว็บสล็อต PunPro777 สล็อตเว็บตรง เว็บใหญ่ที่แตกง่าย แจกเครดิตฟรีทุกวัน
- - [https://www.punpro777.ai](https://www.punpro777.ai)
+ - [https://punpro777.ai](https://punpro777.ai)
  - date_published: 2024-10-22T14:54:33.645371+00:00
 
  ## Quackcheck
@@ -657,13 +662,14 @@
  ## Purple Wave
  - [https://purplewave.ai](https://purplewave.ai)
  - date_published: 2023-04-23T22:05:55+00:00
+ - date_dead_since: 2025-01-06T12:32:49.893219+00:00
 
  ## Create Custom Jigsaw Puzzles Online | PuzzleGenerator.ai
- - [https://www.puzzlegenerator.ai](https://www.puzzlegenerator.ai)
+ - [https://puzzlegenerator.ai](https://puzzlegenerator.ai)
  - date_published: 2024-05-16T00:00:00+00:00
 
  ## Puzzle Studio
- - [https://www.puzzlelabs.ai](https://www.puzzlelabs.ai)
+ - [https://puzzlelabs.ai](https://puzzlelabs.ai)
  - date_published: 2024-06-19T19:48:36.812433+00:00
 
  ## Pwnagotchi - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
@@ -672,7 +678,7 @@
  - tags: ['wifi', 'hardware hacking']
 
  ## Homepage
- - [https://www.pymetrics.ai](https://www.pymetrics.ai)
+ - [https://pymetrics.ai](https://pymetrics.ai)
  - date_published: 2023-12-11T00:00:00+00:00
 
  ## Pyoneer
@@ -684,15 +690,15 @@
  - date_published: 2024-05-23T19:40:56.457405+00:00
 
  ## Pyro Documentation — Pyro  documentation
- - [http://docs.pyro.ai](http://docs.pyro.ai)
+ - [https://docs.pyro.ai](https://docs.pyro.ai)
  - date_published: 2024-06-02T00:32:54+00:00
 
  ## Pyro Discussion Forum
- - [http://forum.pyro.ai](http://forum.pyro.ai)
+ - [https://forum.pyro.ai](https://forum.pyro.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Funsor is a tensor-like library for functions and distributions — Funsor 0.0 documentation
- - [http://funsor.pyro.ai](http://funsor.pyro.ai)
+ - [https://funsor.pyro.ai](https://funsor.pyro.ai)
  - date_published: 2023-08-31T18:40:33+00:00
 
  ## NumPyro documentation — NumPyro  documentation
@@ -729,7 +735,7 @@
  - date_published: 2024-05-01T07:59:27.994905+00:00
 
  ## 轻舟智航 - 将无人驾驶带进现实
- - [http://qcraft.ai](http://qcraft.ai)
+ - [https://qcraft.ai](https://qcraft.ai)
  - date_published: 2024-07-12T07:18:21.166298+00:00
 
  ## qlip
@@ -737,11 +743,11 @@
  - date_published: 2024-10-22T14:17:45+00:00
 
  ## Extract short clips from your videos in a flash.
- - [https://www.qlip.ai](https://www.qlip.ai)
+ - [https://qlip.ai](https://qlip.ai)
  - date_published: 2024-05-16T16:19:17+00:00
 
  ## QMR – QMR
- - [https://qmr.ai](https://qmr.ai)
+ - [http://qmr.ai](http://qmr.ai)
  - date_published: 2023-10-25T11:41:43.521292+00:00
 
  ## QnA Maker
@@ -749,11 +755,11 @@
  - date_published: 2024-05-02T12:44:28.817311+00:00
 
  ## Quality-first Generative AI Coding Platform | Qodo (CodiumAI)
- - [https://www.qodo.ai](https://www.qodo.ai)
+ - [https://qodo.ai](https://qodo.ai)
  - date_published: 2024-10-14T00:00:00+00:00
 
  ## Generative AI Tools | GPT4| SDXL | Qolaba AI Studio
- - [https://www.qolaba.ai](https://www.qolaba.ai)
+ - [https://qolaba.ai](https://qolaba.ai)
  - date_published: 2024-09-13T20:25:49.719131+00:00
 
  ## QoQo Blog - Your UX research AI-companion
@@ -825,7 +831,7 @@
  - date_published: 2024-10-30T22:44:20.754867+00:00
 
  ## Quickchat AI | Custom AI Assistant for your business
- - [https://www.quickchat.ai](https://www.quickchat.ai)
+ - [https://quickchat.ai](https://quickchat.ai)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## Quickcode
@@ -847,6 +853,7 @@
  ## Instant AI Clip Generation | QuickVid
  - [https://quickvid.ai](https://quickvid.ai)
  - date_published: 2024-06-10T00:00:00+00:00
+ - date_dead_since: 2025-01-06T12:37:32.400557+00:00
 
  ## QuillNow - AI Writing Assistant
  - [https://quillnow.ai](https://quillnow.ai)
@@ -891,6 +898,7 @@
  ## Radix - Superpowering People with Artificial Intelligence
  - [https://radix.ai](https://radix.ai)
  - date_published: 2024-04-29T04:02:24.291363+00:00
+ - date_dead_since: 2025-01-06T12:42:43.137173+00:00
 
  ## Raffle Insights
  - [https://app.raffle.ai](https://app.raffle.ai)
@@ -945,11 +953,11 @@
  - date_published: 2024-05-19T02:41:25.554932+00:00
 
  ## RAPIDS | GPU Accelerated Data Science
- - [http://rapids.ai](http://rapids.ai)
+ - [https://rapids.ai](https://rapids.ai)
  - date_published: 2024-07-20T11:03:12.024064+00:00
 
  ## Rapid Visual: AI-Powered Visual Prototyping for Innovation Teams
- - [https://www.rapidvisual.ai](https://www.rapidvisual.ai)
+ - [https://rapidvisual.ai](https://rapidvisual.ai)
  - date_published: 2024-10-21T14:33:44+00:00
 
  ## Login or Sign up | Rask
@@ -1037,12 +1045,13 @@
  - date_published: 2024-05-04T09:19:01.175170+00:00
 
  ## Automated Meeting Reports, Transcripts, Notes, Video, Coaching, Scheduling | Read
- - [https://www.read.ai](https://www.read.ai)
+ - [https://read.ai](https://read.ai)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## RealChar.
  - [https://realchar.ai](https://realchar.ai)
  - date_published: 2024-06-19T19:34:44.206513+00:00
+ - date_dead_since: 2025-01-06T12:44:00.158600+00:00
 
  ## Realistics AI
  - [https://realistics.ai](https://realistics.ai)
@@ -1168,6 +1177,7 @@
  ## Refraction AI
  - [https://refraction.ai](https://refraction.ai)
  - date_published: 2024-07-12T07:19:51.847202+00:00
+ - date_dead_since: 2025-01-06T12:47:28.940918+00:00
 
  ## Regex.ai - Artificial Intelligence Regular Expression Generator
  - [https://regex.ai](https://regex.ai)
@@ -1182,11 +1192,11 @@
  - date_published: 2024-10-29T17:24:17+00:00
 
  ## Regie.ai: Generative AI for Sales Teams
- - [https://www.regie.ai](https://www.regie.ai)
+ - [https://regie.ai](https://regie.ai)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Home
- - [http://www.regulativity.ai](http://www.regulativity.ai)
+ - [https://regulativity.ai](https://regulativity.ai)
  - date_published: 2024-09-06T00:00:00+00:00
 
  ## REimagine Home
@@ -1230,7 +1240,7 @@
  - date_published: 2024-03-08T15:45:20.667037+00:00
 
  ## RelationalAI | a knowledge graph coprocessor for your data cloud.
- - [http://relational.ai](http://relational.ai)
+ - [https://relational.ai](https://relational.ai)
  - date_published: 2024-10-14T16:28:12.353043+00:00
 
  ## Encode Social Relationships on Web3​
@@ -1242,7 +1252,7 @@
  - date_published: 2024-04-17T00:00:00+00:00
 
  ## Relyance AI |  360 Data Governance and Trust.  Prove Trust.  Every Time.
- - [https://www.relyance.ai](https://www.relyance.ai)
+ - [https://relyance.ai](https://relyance.ai)
  - date_published: 2024-09-07T00:00:00+00:00
 
  ## Remail API
@@ -1288,6 +1298,7 @@
  ## Rephrase.ai: Convert Text into Engaging AI Videos in Minutes
  - [https://www.rephrase.ai](https://www.rephrase.ai)
  - date_published: 2024-02-26T00:00:00+00:00
+ - date_dead_since: 2025-01-06T12:48:21.179953+00:00
 
  ## Replicate
  - [https://replicate.ai](https://replicate.ai)
@@ -1386,7 +1397,7 @@
  - date_published: 2024-10-30T07:45:29.497221+00:00
 
  ## The Perfect Resignation Letter in Minutes, Generated by AI Just Resignation Letters
- - [https://www.resign.ai](https://www.resign.ai)
+ - [https://resign.ai](https://resign.ai)
  - date_published: 2022-12-09T20:45:00+00:00
 
  ## Document Fraud Detection Software | Resistant AI
@@ -1402,11 +1413,11 @@
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Resolvd - Document Your Cloud/IT Workflows in seconds
- - [https://www.resolvd.ai](https://www.resolvd.ai)
+ - [https://resolvd.ai](https://resolvd.ai)
  - date_published: 2024-09-11T00:00:00+00:00
 
  ## Home - Responsible AI
- - [https://www.responsible.ai](https://www.responsible.ai)
+ - [https://responsible.ai](https://responsible.ai)
  - date_published: 2024-05-09T00:00:00+00:00
 
  ## The best AI Resume Builder in the world trusted by 1.4M+
@@ -1426,11 +1437,11 @@
  - date_published: 2024-12-13T04:20:07+00:00
 
  ## Speech to Text API | Speech Recognition Service - Rev AI
- - [https://www.rev.ai](https://www.rev.ai)
+ - [https://rev.ai](https://rev.ai)
  - date_published: 2024-08-18T02:38:08.317928+00:00
 
  ## revid.ai - Create viral short videos, fast.
- - [https://www.revid.ai](https://www.revid.ai)
+ - [https://revid.ai](https://revid.ai)
  - date_published: 2024-06-23T14:22:44.100008+00:00
 
  ## ReviewWriter.AI
@@ -1442,11 +1453,11 @@
  - date_published: 2024-10-30T15:18:50.024465+00:00
 
  ## Revocalize AI – Studio-Level AI Voice Generation Toolkit
- - [https://www.revocalize.ai](https://www.revocalize.ai)
+ - [https://revocalize.ai](https://revocalize.ai)
  - date_published: 2024-06-19T19:54:58.945606+00:00
 
  ## revrite.ai | Context aware, powerful paraphrasing tool with rich text, multilanguage support
- - [https://www.revrite.ai](https://www.revrite.ai)
+ - [https://revrite.ai](https://revrite.ai)
  - date_published: 2024-06-19T19:08:57.533102+00:00
 
  ## Full Funnel Attribution for High Growth Marketing Teams | RevSure
@@ -1492,7 +1503,7 @@
  - date_published: 2024-10-30T06:17:13+00:00
 
  ## RGo Robotics - Vision & AI Perception for Mobile Machines
- - [https://www.rgorobotics.ai](https://www.rgorobotics.ai)
+ - [https://rgorobotics.ai](https://rgorobotics.ai)
  - date_published: 2024-09-05T21:10:44.424338+00:00
 
  ## RhetorAI
@@ -1508,7 +1519,7 @@
  - date_published: 2024-10-30T20:01:44.159389+00:00
 
  ## DANAGG | Situs Taruhan Judi Online Paling Aman Terpercaya Saat Ini
- - [https://www.rideos.ai](https://www.rideos.ai)
+ - [http://rideos.ai](http://rideos.ai)
  - date_published: 2024-07-12T07:25:43.445663+00:00
 
  ## Riku.AI | Build No-code Prompts & Datasets for AI Models
@@ -1529,7 +1540,7 @@
  - tags: ['artificial intelligence', 'robotics']
 
  ## roadstar.ai
- - [http://roadstar.ai](http://roadstar.ai)
+ - [https://roadstar.ai](https://roadstar.ai)
  - date_published: 2024-07-12T07:31:26.553519+00:00
 
  ## ROASTED
@@ -1549,7 +1560,7 @@
  - date_published: 2024-04-28T05:22:32.381547+00:00
 
  ## RoboSense | World Leader in LiDAR and Perception Solutions
- - [http://www.robosense.ai](http://www.robosense.ai)
+ - [https://robosense.ai](https://robosense.ai)
  - date_published: 2024-07-12T07:23:20.259443+00:00
 
  ## robosuite
@@ -1589,11 +1600,11 @@
  - date_published: 2024-04-28T05:29:14.209448+00:00
 
  ## ROC | Computer Vision
- - [https://www.roc.ai](https://www.roc.ai)
+ - [https://roc.ai](https://roc.ai)
  - date_published: 2024-08-12T00:00:00+00:00
 
  ## Make your customers happier with the AimHappy Zendesk app
- - [https://www.rocksolidknowledge.ai](https://www.rocksolidknowledge.ai)
+ - [https://rocksolidknowledge.ai](https://rocksolidknowledge.ai)
  - date_published: 2024-09-18T15:58:47.240814+00:00
 
  ## Character AI Chat | Rofan AI
@@ -1601,7 +1612,7 @@
  - date_published: 2024-09-02T10:09:03.645656+00:00
 
  ## AI Interior Design, Virtual Staging with AI & Room GPT AI Room Generator  - RoomDeco AI
- - [https://www.roomdeco.ai](https://www.roomdeco.ai)
+ - [https://roomdeco.ai](https://roomdeco.ai)
  - date_published: 2024-08-18T08:00:52.072675+00:00
 
  ## LLM Driven Testing Copilot | Test Case Generation & Code Scanning
@@ -1615,6 +1626,7 @@
  ## ROQ.dev - Data & api layer for SaaS apps
  - [https://www.roq.ai](https://www.roq.ai)
  - date_published: 2023-11-29T00:00:00+00:00
+ - date_dead_since: 2025-01-06T12:57:18.405239+00:00
 
  ## Play and Create Games on Rosebud — AI-Powered Game Development
  - [https://play.rosebud.ai](https://play.rosebud.ai)
@@ -1625,7 +1637,7 @@
  - date_published: 2024-01-04T16:19:02.132824+00:00
 
  ## Roshi - Custom Lessons in Seconds
- - [https://www.roshi.ai](https://www.roshi.ai)
+ - [https://roshi.ai](https://roshi.ai)
  - date_published: 2024-06-19T20:11:59.756521+00:00
 
  ## Rossum - Registration
@@ -1649,7 +1661,7 @@
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## RTutor 0.98
- - [http://rtutor.ai](http://rtutor.ai)
+ - [https://rtutor.ai](https://rtutor.ai)
  - date_published: 2024-06-19T20:38:38.314157+00:00
 
  ## Rusher.AI | The AI Copilot for Modern Marketers
@@ -1657,7 +1669,7 @@
  - date_published: 2024-06-14T08:59:26.894377+00:00
 
  ## RXRX
- - [https://www.rxrx.ai](https://www.rxrx.ai)
+ - [https://rxrx.ai](https://rxrx.ai)
  - date_published: 2024-06-06T00:00:00+00:00
 
  ## Ryne AI | Best AI Humanizer for Students
@@ -1689,8 +1701,8 @@
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Sagen AI - Your Very Own Personal AI Assistant
- - [https://www.sagen.ai](https://www.sagen.ai)
- - date_published: 2024-08-10T23:29:31.344655+00:00
+ - [https://sagen.ai](https://sagen.ai)
+ - date_published: 2024-07-03T02:59:15+00:00
 
  ## Sahara AI: The Decentralized AI Blockchain Platform for a Collaborative Economy
  - [https://saharalabs.ai](https://saharalabs.ai)
@@ -1789,7 +1801,7 @@
  - date_published: 2024-12-12T00:47:40.088775+00:00
 
  ## Scenarium AI
- - [http://www.scenarium.ai](http://www.scenarium.ai)
+ - [https://scenarium.ai](https://scenarium.ai)
  - date_published: 2024-05-13T00:00:00+00:00
 
  ## Schedule in Seconds with Scheduler AI
@@ -1797,7 +1809,7 @@
  - date_published: 2024-10-30T10:58:50.980879+00:00
 
  ## Schedule in Seconds
- - [https://www.scheduler.ai](https://www.scheduler.ai)
+ - [https://scheduler.ai](https://scheduler.ai)
  - date_published: 2024-05-20T00:00:00+00:00
 
  ## SchemaKit
@@ -1809,7 +1821,7 @@
  - date_published: 2023-10-25T11:42:32.506316+00:00
 
  ## Home | Sciox Ai
- - [https://www.sciox.ai](https://www.sciox.ai)
+ - [https://sciox.ai](https://sciox.ai)
  - date_published: 2024-10-29T01:33:44+00:00
 
  ## Introduction - The open source AI powered answer engine.
@@ -1826,7 +1838,7 @@
  - tags: ['artificial intelligence', 'artificial intelligence bot']
 
  ## Buy and Sell Domain Names | Dan.com
- - [http://scotty.ai](http://scotty.ai)
+ - [https://scotty.ai](https://scotty.ai)
  - date_published: 2024-07-12T07:20:01.145159+00:00
 
  ## ScrappyChef
@@ -1834,12 +1846,13 @@
  - date_published: 2024-06-19T20:37:50+00:00
 
  ## Scribbly – AI-powered Email Writing
- - [https://www.scribbly.ai](https://www.scribbly.ai)
+ - [https://scribbly.ai](https://scribbly.ai)
  - date_published: 2024-06-19T19:57:13.435693+00:00
 
  ## Scribe — Transform meetings into instantly searchable and shareable video & text
  - [https://get.scribe.ai](https://get.scribe.ai)
  - date_published: 2021-05-27T00:00:00+00:00
+ - date_dead_since: 2025-01-06T13:02:49.375937+00:00
 
  ## Scriv documentation
  - [https://docs.scriv.ai](https://docs.scriv.ai)
@@ -1870,7 +1883,7 @@
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## Homepage - SCSP
- - [https://www.scsp.ai](https://www.scsp.ai)
+ - [https://scsp.ai](https://scsp.ai)
  - date_published: 2024-05-29T00:00:00+00:00
 
  ## How to Use an AI Image Generator | How to SeaArt AI - Office Tutorial
@@ -1886,7 +1899,7 @@
  - date_published: 2024-08-02T00:00:00+00:00
 
  ## searchable.ai
- - [https://www.searchable.ai](https://www.searchable.ai)
+ - [https://searchable.ai](https://searchable.ai)
  - date_published: 2024-06-19T18:56:27.989488+00:00
 
  ## Sales Training Software: Upskill with AI Role-Play - Second Nature
@@ -1898,7 +1911,7 @@
  - date_published: 2024-06-19T20:03:05.982202+00:00
 
  ## Join me at SECtember.ai 2024
- - [https://www.sectember.ai](https://www.sectember.ai)
+ - [https://sectember.ai](https://sectember.ai)
  - date_published: 2024-06-18T13:40:29.678153+00:00
 
  ## Securechain Mainnet blockchain explorer - View Securechain Mainnet stats
@@ -1916,6 +1929,7 @@
  ## Securechain Testnet blockchain explorer | Blockscout
  - [https://testnet.securechain.ai](https://testnet.securechain.ai)
  - date_published: 2024-09-24T05:50:43.857949+00:00
+ - date_dead_since: 2025-01-06T13:06:13.629581+00:00
 
  ## Secure Privacy
  - [https://app.secureprivacy.ai](https://app.secureprivacy.ai)
@@ -1950,7 +1964,7 @@
  - date_published: 2024-02-08T00:00:00+00:00
 
  ## Seek AI - Generative AI for Data
- - [https://www.seek.ai](https://www.seek.ai)
+ - [https://seek.ai](https://seek.ai)
  - date_published: 2024-06-15T00:00:00+00:00
 
  ## SeekmeAI - Unleash the power of AI tools
@@ -1962,7 +1976,7 @@
  - date_published: 2024-05-17T18:51:44+00:00
 
  ## SeeTree | Make the most of every tree
- - [https://www.seetree.ai](https://www.seetree.ai)
+ - [https://seetree.ai](https://seetree.ai)
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## Segmed | Real-World Data for Health Innovation
@@ -1990,7 +2004,7 @@
  - date_published: 2024-10-25T15:38:06+00:00
 
  ## Document Processing Infrastructure | Send AI
- - [https://www.send.ai](https://www.send.ai)
+ - [https://send.ai](https://send.ai)
  - date_published: 2024-08-28T00:00:00+00:00
 
  ## Home
@@ -2022,7 +2036,7 @@
  - date_published: 2024-10-30T07:44:25.291752+00:00
 
  ## Sequens.ai - AI contents at scale checked by B2B marketers
- - [https://www.sequens.ai](https://www.sequens.ai)
+ - [https://sequens.ai](https://sequens.ai)
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## Sereact -  Embodied AI for robotics
@@ -2048,6 +2062,7 @@
  ## Attention Required! | Cloudflare
  - [https://sexy.ai](https://sexy.ai)
  - date_published: 2024-06-19T19:12:34.641807+00:00
+ - date_dead_since: 2025-01-06T13:07:04.319241+00:00
 
  ## Introduction - Shadeform Documentation
  - [https://docs.shadeform.ai](https://docs.shadeform.ai)
@@ -2144,6 +2159,7 @@
  ## Shop That Look - the search engine for fashion
  - [https://shopthatlook.ai](https://shopthatlook.ai)
  - date_published: 2024-06-27T10:51:36.494540+00:00
+ - date_dead_since: 2025-01-06T13:07:33.839802+00:00
 
  ## Shortbread | Create comics with AI in minutes
  - [https://create.shortbread.ai](https://create.shortbread.ai)
@@ -2166,7 +2182,7 @@
  - date_published: 2024-10-30T15:09:41.920564+00:00
 
  ## Sider: ChatGPT Sidebar + GPT-4o, Claude 3, Gemini 1.5 & AI Tools
- - [https://sider.ai](https://sider.ai)
+ - [http://sider.ai](http://sider.ai)
  - date_published: 2024-06-19T19:19:09.433730+00:00
 
  ## Sierra - The Conversational AI Platform
@@ -2208,6 +2224,7 @@
  ## Create a Simple Blog in seconds, Post From Google Docs, Office 365.
  - [https://simpleblog.ai](https://simpleblog.ai)
  - date_published: 2023-10-25T11:42:46.174552+00:00
+ - date_dead_since: 2025-01-06T13:20:26.050865+00:00
 
  ## SimpleMail
  - [https://simplemail.ai](https://simplemail.ai)
@@ -2218,11 +2235,11 @@
  - date_published: 2024-10-17T15:32:28+00:00
 
  ## Simplismart: Easiest and Fastest ML Model Training and Deployment
- - [https://www.simplismart.ai](https://www.simplismart.ai)
+ - [https://simplismart.ai](https://simplismart.ai)
  - date_published: 2024-08-28T00:00:00+00:00
 
  ## Show HN: NoteTech – Create personal automations by writing notes
- - [https://www.simpltech.ai](https://www.simpltech.ai)
+ - [https://simpltech.ai](https://simpltech.ai)
  - date_published: 2024-07-24T18:00:17+00:00
 
  ## Sinan Ozdemir
@@ -2262,7 +2279,7 @@
  - date_published: 2024-06-16T01:16:14.273292+00:00
 
  ## Attention Required! | Cloudflare
- - [https://widget.sitegpt.ai](https://widget.sitegpt.ai)
+ - [http://widget.sitegpt.ai](http://widget.sitegpt.ai)
  - date_published: 2024-09-20T17:18:09.131552+00:00
 
  ## AI Landing Page Generator & Website Builder
@@ -2298,7 +2315,7 @@
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Sixfold | Generative AI Tools for Insurance Underwriters
- - [https://www.sixfold.ai](https://www.sixfold.ai)
+ - [https://sixfold.ai](https://sixfold.ai)
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## Sketch Logo AI
@@ -2326,12 +2343,13 @@
  - date_published: 2024-09-03T07:23:26+00:00
 
  ## Slides
- - [https://www.slideas.ai](https://www.slideas.ai)
+ - [https://slideas.ai](https://slideas.ai)
  - date_published: 2024-06-19T21:11:20.927804+00:00
 
  ## SmartflowAI - Simplify Workflows with generative AI
  - [https://slidemaker.ai](https://slidemaker.ai)
  - date_published: 2023-03-13T14:38:22+00:00
+ - date_dead_since: 2025-01-06T13:21:43.034497+00:00
 
  ## SlideSense - PowerPoint Automation
  - [https://slidesense.ai](https://slidesense.ai)
@@ -2355,11 +2373,11 @@
 
  ## Home
  — SMC
- - [https://www.smallcloud.ai](https://www.smallcloud.ai)
+ - [https://smallcloud.ai](https://smallcloud.ai)
  - date_published: 2024-08-19T12:09:38.260075+00:00
 
  ## Cold Email Outreach Tool | Unlimited Mailboxes & Warmups
- - [https://www.smartlead.ai](https://www.smartlead.ai)
+ - [https://smartlead.ai](https://smartlead.ai)
  - date_published: 2024-10-29T10:58:01+00:00
 
  ## Test your Skill Level on Any Topic - SmartLifeSkills.AI
@@ -2371,7 +2389,7 @@
  - date_published: 2024-10-19T23:41:13.130010+00:00
 
  ## Smart Tools AI - Help You Find or Build Your Suitable AI
- - [https://www.smart-tools.ai](https://www.smart-tools.ai)
+ - [https://smart-tools.ai](https://smart-tools.ai)
  - date_published: 2024-08-19T07:13:24.952509+00:00
 
  ## SMARTWRITER.AI
@@ -2379,7 +2397,7 @@
  - date_published: 2024-10-30T18:49:41.578192+00:00
 
  ## SmartWriter | Personalised AI Cold Emails
- - [https://www.smartwriter.ai](https://www.smartwriter.ai)
+ - [https://smartwriter.ai](https://smartwriter.ai)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Custom Domain by Bitly
@@ -2413,6 +2431,7 @@
  ## Snorkel AI | Data-centric AI for the enterprise
  - [https://cdn.snorkel.ai](https://cdn.snorkel.ai)
  - date_published: 2024-06-06T00:00:00+00:00
+ - date_dead_since: 2025-01-06T13:26:52.467767+00:00
 
  ## The Future of Data-Centric AI 2023 - Free virtual conference
  - [https://future.snorkel.ai](https://future.snorkel.ai)
@@ -2443,7 +2462,7 @@
  - date_published: 2024-03-25T00:00:00+00:00
 
  ## Socap.ai
- - [http://socap.ai](http://socap.ai)
+ - [https://socap.ai](https://socap.ai)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Ecommerce Stores shouldn't be static | Loup
@@ -2457,6 +2476,7 @@
  ## SoCool
  - [https://socool.ai](https://socool.ai)
  - date_published: 2024-07-16T16:13:55+00:00
+ - date_dead_since: 2025-01-06T13:30:11.818957+00:00
 
  ## Soffos Platform
  - [https://soffos.ai](https://soffos.ai)
@@ -2467,7 +2487,7 @@
  - date_published: 2023-10-25T11:42:48.387434+00:00
 
  ## Socratic Lab
- - [https://www.solab.ai](https://www.solab.ai)
+ - [https://solab.ai](https://solab.ai)
  - date_published: 2024-07-10T01:49:32.090990+00:00
 
  ## SolidPoint
@@ -2498,6 +2518,7 @@
  ## Song Demo AI - AI Music Generator｜Creation
  - [https://songdemo.ai](https://songdemo.ai)
  - date_published: 2024-09-13T20:28:56.381925+00:00
+ - date_dead_since: 2025-01-06T13:30:40.995337+00:00
 
  ## Sonix Help
  - [https://help.sonix.ai](https://help.sonix.ai)
@@ -2514,9 +2535,10 @@
  ## SOREAL - AI Studio | Cloud hosted Stable Diffusion 1.5 & Dreambooth Studio
  - [https://www.soreal.ai](https://www.soreal.ai)
  - date_published: 2024-06-19T19:24:25.465819+00:00
+ - date_dead_since: 2025-01-06T13:30:44.439340+00:00
 
  ## SoulGen: Free AI Magic Tool to Create Art from Text Online
- - [https://www.soulgen.ai](https://www.soulgen.ai)
+ - [https://soulgen.ai](https://soulgen.ai)
  - date_published: 2024-06-19T19:40:38.307425+00:00
 
  ## Soundry AI
@@ -2545,7 +2567,7 @@
  - date_published: 2024-10-30T11:59:07.849436+00:00
 
  ## AI Rendering Solutions for Interior, Room and Home Design | Spacely AI
- - [https://www.spacely.ai](https://www.spacely.ai)
+ - [https://spacely.ai](https://spacely.ai)
  - date_published: 2024-06-19T19:50:40.383023+00:00
 
  ## SpamCheck.ai - AI-Powered Spam Detection & Prevention
@@ -2626,7 +2648,7 @@
  - date_published: 2023-10-05T05:48:35+00:00
 
  ## Spoke.ai | Communicate better, build faster ⚡
- - [https://www.spoke.ai](https://www.spoke.ai)
+ - [https://spoke.ai](https://spoke.ai)
  - date_published: 2024-05-13T00:00:00+00:00
 
  ## POKEIT - Drawing the Future with AI
@@ -2642,7 +2664,7 @@
  - date_published: 2024-10-12T22:32:52.425761+00:00
 
  ## Spot AI Help Center
- - [http://help.spot.ai](http://help.spot.ai)
+ - [https://help.spot.ai](https://help.spot.ai)
  - date_published: 2024-10-12T22:31:35.669793+00:00
 
  ## Spot AI
@@ -2650,7 +2672,7 @@
  - date_published: 2018-03-28T00:00:00+00:00
 
  ## Spot AI: Video Intelligence for Better Decision-Making
- - [https://www.spot.ai](https://www.spot.ai)
+ - [https://spot.ai](https://spot.ai)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Spot On Chain - Platform
@@ -2674,15 +2696,15 @@
  - date_published: 2024-05-10T05:01:52.474733+00:00
 
  ## SPY Lab
- - [https://www.spylab.ai](https://www.spylab.ai)
+ - [https://spylab.ai](https://spylab.ai)
  - date_published: 2024-10-23T08:04:06+00:00
 
  ## Home
- - [https://www.spyne.ai](https://www.spyne.ai)
+ - [https://spyne.ai](https://spyne.ai)
  - date_published: 2024-06-04T00:00:00+00:00
 
  ## Generate SQL Queries in Seconds for Free - SQLAI.ai
- - [https://www.sqlai.ai](https://www.sqlai.ai)
+ - [https://sqlai.ai](https://sqlai.ai)
  - date_published: 2024-07-10T00:03:12.088909+00:00
 
  ## SQL Chat
@@ -2692,6 +2714,7 @@
  ## Squeaky | The privacy friendly analytics platform
  - [https://squeaky.ai](https://squeaky.ai)
  - date_published: 2023-10-25T11:42:53.549367+00:00
+ - date_dead_since: 2025-01-06T13:37:18.772795+00:00
 
  ## Introducing Squigl AI™ by TruScribe®, a Microsoft Partner
  - [https://squigl.ai](https://squigl.ai)
@@ -2745,13 +2768,13 @@
  - [https://stargazr.ai](https://stargazr.ai)
  - date_published: 2024-08-18T02:38:33.147524+00:00
 
+ ## Starmind | AI-Powered, Organization-Wide Expertise Directory
+ - [https://starmind.ai](https://starmind.ai)
+ - date_published: 2024-06-16T20:43:49+00:00
+
  ## Trust Center
  - [https://trust.starmind.ai](https://trust.starmind.ai)
  - date_published: 2024-10-30T07:46:11.900526+00:00
-
- ## Starmind | AI-Powered, Organization-Wide Expertise Directory
- - [https://www.starmind.ai](https://www.starmind.ai)
- - date_published: 2024-06-16T20:43:49+00:00
 
  ## StartupDream.ai
  - [https://www.startupdream.ai](https://www.startupdream.ai)
@@ -2790,11 +2813,11 @@
  - date_published: 2024-10-30T09:35:48+00:00
 
  ## Stenomatic: Live Translation Platform
- - [https://www.stenomatic.ai](https://www.stenomatic.ai)
+ - [https://stenomatic.ai](https://stenomatic.ai)
  - date_published: 2024-04-14T00:00:00+00:00
 
  ## Steve.AI | AI Video Generator Tool to create videos using Text
- - [https://www.steve.ai](https://www.steve.ai)
+ - [https://steve.ai](https://steve.ai)
  - date_published: 2024-06-11T12:49:18+00:00
 
  ## ✨ Introduction | xChat - Build and control your chatbot
@@ -2840,9 +2863,10 @@
  ## StoriesForKids.ai
  - [https://blog.storiesforkids.ai](https://blog.storiesforkids.ai)
  - date_published: 2024-06-15T06:53:40.028069+00:00
+ - date_dead_since: 2025-01-06T13:41:25.192710+00:00
 
  ## StoriesForKids.ai: Personalized Kid's Books using AI
- - [https://www.storiesforkids.ai](https://www.storiesforkids.ai)
+ - [https://storiesforkids.ai](https://storiesforkids.ai)
  - date_published: 2024-05-01T02:44:13.132052+00:00
 
  ## AI App Directory & Marketplace
@@ -2852,6 +2876,7 @@
  ## Story.com | Storytelling Meets AI
  - [https://storybird.ai](https://storybird.ai)
  - date_published: 2024-03-07T00:00:00+00:00
+ - date_dead_since: 2025-01-06T13:41:48.338752+00:00
 
  ## AI Storyboard Generator - Create Storyboards in Minutes - Storyboard Hero
  - [https://storyboardhero.ai](https://storyboardhero.ai)
@@ -2866,7 +2891,7 @@
  - date_published: 2024-10-30T09:11:09.706969+00:00
 
  ## STORYD - Business presentations leaders love, in seconds
- - [https://www.storyd.ai](https://www.storyd.ai)
+ - [https://storyd.ai](https://storyd.ai)
  - date_published: 2024-01-16T00:00:00+00:00
 
  ## Content Creation with AI
@@ -2898,7 +2923,7 @@
  - date_published: 2024-10-04T07:11:32.678002+00:00
 
  ## Strongbytes – Data knows best
- - [http://strongbytes.ai](http://strongbytes.ai)
+ - [https://strongbytes.ai](https://strongbytes.ai)
  - date_published: 2024-08-19T16:34:33.472197+00:00
 
  ## Log in | Struct Global ID
@@ -2968,7 +2993,7 @@
  - date_published: 2024-10-30T19:25:16.284120+00:00
 
  ## Home - Suki AI
- - [https://www.suki.ai](https://www.suki.ai)
+ - [https://suki.ai](https://suki.ai)
  - date_published: 2024-06-05T00:00:00+00:00
 
  ## Suno
@@ -2997,7 +3022,7 @@
  - date_published: 2024-10-22T19:18:49.208969+00:00
 
  ## SuperCopy.ai
- - [https://www.app.supercopy.ai](https://www.app.supercopy.ai)
+ - [https://app.supercopy.ai](https://app.supercopy.ai)
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## SuperCopy.ai Help Center
@@ -3021,7 +3046,7 @@
  - date_published: 2024-06-21T15:47:15+00:00
 
  ## SuperFocus
- - [http://superfocus.ai](http://superfocus.ai)
+ - [https://superfocus.ai](https://superfocus.ai)
  - date_published: 2024-03-01T00:00:00+00:00
 
  ## Curb API spend. Before you get an invoice.
@@ -3106,11 +3131,11 @@
  - date_published: 2024-07-03T23:22:41.656599+00:00
 
  ## AI Support Agent for Help Scout
- - [https://www.supportagent.ai](https://www.supportagent.ai)
+ - [https://supportagent.ai](https://supportagent.ai)
  - date_published: 2024-06-19T20:06:32.724071+00:00
 
  ## Supportzeal AI Chatbot
- - [https://www.supportzeal.ai](https://www.supportzeal.ai)
+ - [https://supportzeal.ai](https://supportzeal.ai)
  - date_published: 2024-05-31T00:00:00+00:00
 
  ## SurfingTech | Leading Provider of AI Data Solutions in Multimodal Datasets
@@ -3150,11 +3175,11 @@
  - date_published: 2024-10-30T07:01:51+00:00
 
  ## Sybill: Your Personal AI Sales Assistant
- - [https://www.sybill.ai](https://www.sybill.ai)
+ - [https://sybill.ai](https://sybill.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Light — LightRAG  documentation
- - [https://lightrag.sylph.ai](https://lightrag.sylph.ai)
+ - [http://lightrag.sylph.ai](http://lightrag.sylph.ai)
  - date_published: 2024-07-15T23:29:11+00:00
 
  ## SylphAI
@@ -3170,7 +3195,7 @@
  - date_published: 2024-07-10T00:00:00+00:00
 
  ## Symbolica
- - [https://www.symbolica.ai](https://www.symbolica.ai)
+ - [https://symbolica.ai](https://symbolica.ai)
  - date_published: 2024-07-01T07:39:02.694914+00:00
 
  ## Symmetrical.ai. Lepszy sposób na prowadzenie listy płac i HR.
@@ -3184,9 +3209,10 @@
  ## https://synesthesia.ai
  - [https://synesthesia.ai](https://synesthesia.ai)
  - date_published: 2024-01-09T02:23:20.593035+00:00
+ - date_dead_since: 2025-01-06T13:55:00.151501+00:00
 
  ## 深信科创
- - [https://www.synkrotron.ai](https://www.synkrotron.ai)
+ - [https://synkrotron.ai](https://synkrotron.ai)
  - date_published: 2024-02-18T09:01:00+00:00
 
  ## Convert your code to different languages by AI  — Syntha AI
@@ -3204,6 +3230,7 @@
  ## TableTalk - a better way to interact with your database
  - [https://www.tabletalk.ai](https://www.tabletalk.ai)
  - date_published: 2024-05-11T14:12:34+00:00
+ - date_dead_since: 2025-01-06T13:55:06.127061+00:00
 
  ## Aktana: Pharma/Life Sciences AI & Mobile Intelligence
  - [https://tact.ai](https://tact.ai)
@@ -3222,7 +3249,7 @@
  - date_published: 2024-06-14T08:55:13.726788+00:00
 
  ## TalkBerry - Your personal English tutor, powered by AI
- - [https://www.talkberry.ai](https://www.talkberry.ai)
+ - [https://talkberry.ai](https://talkberry.ai)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## AI Phone Automation for Better Patient Access
@@ -3238,7 +3265,7 @@
  - date_published: 2024-10-30T16:37:36.828236+00:00
 
  ## AI Language Teacher - Talkpal
- - [http://talkpal.ai](http://talkpal.ai)
+ - [https://talkpal.ai](https://talkpal.ai)
  - date_published: 2024-06-19T18:30:57+00:00
 
  ## Talpa Search | Talpa
@@ -3248,9 +3275,10 @@
  ## Tammy AI
  - [https://tammy.ai](https://tammy.ai)
  - date_published: 2024-06-19T20:05:12.672295+00:00
+ - date_dead_since: 2025-01-06T13:55:27.567790+00:00
 
  ## Creator Studio | TaoLabs.ai
- - [https://www.taolabs.ai](https://www.taolabs.ai)
+ - [https://taolabs.ai](https://taolabs.ai)
  - date_published: 2024-08-18T06:14:15.091329+00:00
 
  ## tap4.ai
@@ -3282,7 +3310,7 @@
  - date_published: 2024-01-17T00:00:00+00:00
 
  ## Tarteel
- - [https://support.tarteel.ai](https://support.tarteel.ai)
+ - [http://support.tarteel.ai](http://support.tarteel.ai)
  - date_published: 2024-08-19T12:07:43.988816+00:00
 
  ## Tarteel - Recite the Quran Confidently
@@ -3294,7 +3322,7 @@
  - date_published: 2024-10-30T21:25:02.273191+00:00
 
  ## TAWNY
- - [https://www.tawny.ai](https://www.tawny.ai)
+ - [https://tawny.ai](https://tawny.ai)
  - date_published: 2024-06-20T15:38:32.738108+00:00
 
  ## teachology.ai - The Ultimate for AI Lesson Plans
@@ -3315,6 +3343,7 @@
 
  - [http://technomancers.ai](http://technomancers.ai)
  - date_published: 2023-10-25T11:44:12.511907+00:00
+ - date_dead_since: 2025-01-06T13:59:12.822121+00:00
 
  ## Home - Techstrong.ai
  - [https://techstrong.ai](https://techstrong.ai)
@@ -3327,6 +3356,7 @@
  ## Machine Learning Resources | Tecton
  - [https://resources.tecton.ai](https://resources.tecton.ai)
  - date_published: 2024-08-18T11:19:37.673251+00:00
+ - date_dead_since: 2025-01-06T13:59:25.089088+00:00
 
  ## Feature Platform for Machine Learning | Tecton
  - [https://tecton.ai](https://tecton.ai)
@@ -3354,7 +3384,7 @@
  - date_published: 2024-05-08T04:51:42.482776+00:00
 
  ## Autonomous AI agent that runs expert B2B blog to generate leads
- - [https://app.tely.ai](https://app.tely.ai)
+ - [http://app.tely.ai](http://app.tely.ai)
  - date_published: 2024-09-14T07:46:53.943464+00:00
 
  ## Sign up
@@ -3370,7 +3400,7 @@
  - date_published: 2024-10-30T17:57:05.103331+00:00
 
  ## Tended.ai - RFP automation platform powered by AI
- - [https://www.tended.ai](https://www.tended.ai)
+ - [https://tended.ai](https://tended.ai)
  - date_published: 2024-06-19T20:41:07.323768+00:00
 
  ## Tendi | Your Personal AI Financial Advisor
@@ -3378,7 +3408,7 @@
  - date_published: 2024-04-08T00:00:00+00:00
 
  ## TensorOps | Your AI Partners
- - [https://www.tensorops.ai](https://www.tensorops.ai)
+ - [https://tensorops.ai](https://tensorops.ai)
  - date_published: 2024-09-04T19:13:26.258247+00:00
 
  ## Tesseract Analytics & AI – For Data-Driven Decisions
@@ -3390,7 +3420,7 @@
  - date_published: 2024-08-16T00:00:00+00:00
 
  ## Teton - Advanced Patient Monitoring
- - [https://www.teton.ai](https://www.teton.ai)
+ - [https://teton.ai](https://teton.ai)
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## TEXT2SQL.AI - Generate SQL queries with AI - Try for free
@@ -3473,7 +3503,7 @@
  - date_published: 2024-12-21T22:20:54.479755+00:00
 
  ## theGist | Unified AI Workspace to supercharge your enterprise
- - [https://www.thegist.ai](https://www.thegist.ai)
+ - [https://thegist.ai](https://thegist.ai)
  - date_published: 2024-06-19T19:37:53.324330+00:00
 
  ## The Inside View

@@ -1,3 +1,112 @@
+ ## Banorama
+ - [https://banorama.banenor.no](https://banorama.banenor.no)
+ - date_published: 2024-10-13T22:10:16.293730+00:00
+
+ ## Bane NOR EPA Start
+ - [https://epa.banenor.no](https://epa.banenor.no)
+ - date_published: 2024-10-07T05:17:56+00:00
+
+ ## Bane NOR
+ - [https://www.banenor.no](https://www.banenor.no)
+ - date_published: 2024-06-16T19:55:58.362416+00:00
+
+ ## Bane NOR Eiendom
+ - [https://www.banenoreiendom.no](https://www.banenoreiendom.no)
+ - date_published: 2024-10-13T22:10:26.675175+00:00
+
+ ## BarentsWatch
+ - [https://www.barentswatch.no](https://www.barentswatch.no)
+ - date_published: 2024-06-24T04:54:04.414581+00:00
+
+ ## ! Cannabis & Marihuana Frø  | BARNEYS FARM® Seed Bank
+ - [https://www.barneysfarm.no](https://www.barneysfarm.no)
+ - date_published: 2024-12-11T11:58:35.327970+00:00
+
+ ## For deg
+ - [https://bate.no](https://bate.no)
+ - date_published: 2024-08-08T20:25:20.241788+00:00
+
+ ## Bekk
+ - [https://www.bekk.no](https://www.bekk.no)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Bengler
+ - [http://bengler.no](http://bengler.no)
+ - date_published: 2024-07-10T10:35:16.697795+00:00
+
+ ## Bergen Assembly
+ - [http://bergenassembly.no](http://bergenassembly.no)
+ - date_published: 2024-07-13T15:45:10.933711+00:00
+
+ ## Bergen Kino
+ - [https://www.bergenkino.no](https://www.bergenkino.no)
+ - date_published: 2024-07-12T15:43:57.685552+00:00
+
+ ## Bergesenstiftelsen
+ - [https://bergesenstiftelsen.no](https://bergesenstiftelsen.no)
+ - date_published: 2024-08-02T23:34:25.341550+00:00
+
+ ## Pause
+ - [https://www.bergfreunde.no](https://www.bergfreunde.no)
+ - date_published: 2024-07-14T12:11:25.723398+00:00
+
+ ## Bibelen åpen for alle
+ - [https://bibel.no](https://bibel.no)
+ - date_published: 2024-09-10T08:07:20.986150+00:00
+
+ ## Bibliotekutvikling
+ - [https://bibliotekutvikling.no](https://bibliotekutvikling.no)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Startside - Biblioteksøk
+ - [https://bibsok.no](https://bibsok.no)
+ - date_published: 2024-07-15T04:22:50.270728+00:00
+
+ ## BIFF 2024
+ - [https://www.biff.no](https://www.biff.no)
+ - date_published: 2024-07-12T15:44:07.963687+00:00
+
+ ## Enterprise netthandel, forenklet. | BigCommerce
+ - [https://www.bigcommerce.no](https://www.bigcommerce.no)
+ - date_published: 2024-07-08T12:41:01.901325+00:00
+
+ ## Binary Security Home
+ - [https://binarysecurity.no](https://binarysecurity.no)
+ - date_published: 2024-10-31T07:38:32.918895+00:00
+
+ ## Home | Biosphere
+ - [https://www.biosphere.no](https://www.biosphere.no)
+ - date_published: 2024-06-24T09:57:37+00:00
+
+ ## Birken | Birken - skiing, terrain run and mountain bike
+ - [https://birkebeiner.no](https://birkebeiner.no)
+ - date_published: 2024-04-28T03:36:50.177558+00:00
+
+ ## Birken
+ - [https://tiur.birkebeiner.no](https://tiur.birkebeiner.no)
+ - date_published: 2024-08-07T16:57:38.890610+00:00
+
+ ## Bitraf – Oslos største makerspace
+ - [https://bitraf.no](https://bitraf.no)
+ - date_published: 2024-08-17T23:50:36.067430+00:00
+
+ ## Blabla - Forsiden
+ - [http://blabla.no](http://blabla.no)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Epsilon's Amiga Blog
+ - [https://amigax1000.blogspot.no](https://amigax1000.blogspot.no)
+ - date_published: 2023-10-27T14:40:11.976750+00:00
+ - tags: ['amiga']
+
+ ## EU Law Analysis
+ - [http://eulawanalysis.blogspot.no](http://eulawanalysis.blogspot.no)
+ - date_published: 2024-06-16T07:24:23+00:00
+
+ ## Legends of the North
+ - [http://legendsofthenorth.blogspot.no](http://legendsofthenorth.blogspot.no)
+ - date_published: 2024-08-29T06:04:14+00:00
+
  ## OUTTAKES
  - [http://michaelgrayouttakes.blogspot.no](http://michaelgrayouttakes.blogspot.no)
  - date_published: 2024-06-07T07:24:33+00:00
@@ -2892,6 +3001,7 @@
  ## Umble – Taking startups from MVP to mighty products
  - [https://umble.no](https://umble.no)
  - date_published: 2024-10-28T23:26:36+00:00
+ - date_dead_since: 2025-01-06T14:08:29.405907+00:00
 
  ## Underworld
  - [https://www.underworld.no](https://www.underworld.no)
@@ -3919,118 +4029,4 @@ marginalia.nu
  ## Emotion ✦ a directory of anime, manga and video game shrines
  - [https://emotion.oubliette.nu](https://emotion.oubliette.nu)
  - date_published: 2024-12-21T11:40:17.771565+00:00
-
- ## oubliette [ .nu ]     ✻     the wither and bloom network
- - [https://oubliette.nu](https://oubliette.nu)
- - date_published: 2024-11-17T19:36:57.100045+00:00
- - tags: ['personal']
-
- ## Parabola Issue Tracker
- - [https://labs.parabola.nu](https://labs.parabola.nu)
- - date_published: 2024-07-20T12:07:54.087125+00:00
-
- ## lists.parabola.nu Mailing Lists
- - [https://lists.parabola.nu](https://lists.parabola.nu)
- - date_published: 2024-07-20T12:07:50.519538+00:00
-
- ## Parabola GNU/Linux-libre
- - [https://parabola.nu](https://parabola.nu)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Parabola git repositories
- - [https://projects.parabola.nu](https://projects.parabola.nu)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## ParabolaWiki
- - [https://wiki.parabola.nu](https://wiki.parabola.nu)
- - date_published: 2023-02-07T20:46:59+00:00
-
- ## Pick Up Lines
- - [https://www.pickuplines.nu](https://www.pickuplines.nu)
- - date_published: 2024-07-02T21:29:52.224260+00:00
-
- ## The Fluffy Squirrel (( A Fanlisting Collective ))
- - [https://fan.psyche.nu](https://fan.psyche.nu)
- - date_published: 2024-07-07T01:52:43.944240+00:00
-
- ## PSYCHE.NU v6.0 Project YoRHa ... VIRTUE & cruelty
- - [https://psyche.nu](https://psyche.nu)
- - date_published: 2024-05-08T08:51:57.318763+00:00
-
- ## QuakeWorld GFX - Download QW graphics & custom maps
- - [https://gfx.quakeworld.nu](https://gfx.quakeworld.nu)
- - date_published: 2024-06-12T21:07:30.919673+00:00
- - tags: ['quake']
-
- ## Goldrush - QuakeWorld betting
- - [http://goldrush.quakeworld.nu](http://goldrush.quakeworld.nu)
- - date_published: 2024-09-13T16:55:39.567943+00:00
-
- ## QuakeWorld Hub
- - [https://hub.quakeworld.nu](https://hub.quakeworld.nu)
- - date_published: 2024-07-10T12:12:38+00:00
- - tags: ['quake']
-
- ## Index of /
- - [https://maps.quakeworld.nu](https://maps.quakeworld.nu)
- - date_published: 2024-11-08T21:02:53+00:00
- - tags: ['quake']
-
- ## QuakeWorld Hub
- - [https://qtv.quakeworld.nu](https://qtv.quakeworld.nu)
- - date_published: 2024-06-12T21:07:32.200246+00:00
- - tags: ['quake']
-
- ## QuakeWorld.nu
- - [https://quakeworld.nu](https://quakeworld.nu)
- - date_published: 2024-06-06T11:45:44+00:00
- - tags: ['quake']
-
- ## qwdrama - QuakeWorld news, interviews, events, tutorials and more
- - [http://qwdrama.quakeworld.nu](http://qwdrama.quakeworld.nu)
- - date_published: 2024-09-13T16:55:41.649563+00:00
-
- ## QWiki
- - [https://wiki.quakeworld.nu](https://wiki.quakeworld.nu)
- - date_published: 2024-06-06T11:48:19.600363+00:00
-
- ## in the fade: an RPG shrine database
- - [https://fade.quicksilver.nu](https://fade.quicksilver.nu)
- - date_published: 2024-12-30T12:47:21.107654+00:00
-
- ## Riddles and Answers - Riddles.nu
- - [https://riddles.nu](https://riddles.nu)
- - date_published: 2024-05-07T23:30:04.591503+00:00
-
- ## Röda dagar 2024: kalender med årets alla röda dagar
- - [https://rodadagar.nu](https://rodadagar.nu)
- - date_published: 2024-04-09T19:17:56+00:00
-
- ## ROFUS - Register Over Frivilligt Udelukkede Spillere
- - [https://rofus.nu](https://rofus.nu)
- - date_published: 2024-08-26T09:21:30+00:00
-
- ## rollspel.nu
- - [http://www.rollspel.nu](http://www.rollspel.nu)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Royalty.nu – The World of Royalty
- - [http://www.royalty.nu](http://www.royalty.nu)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Skelters | Berg skelters | Trampolines | Buitenspeelgoed - Ruhl.nu
- - [http://www.ruhl.nu](http://www.ruhl.nu)
- - date_published: 2024-09-13T19:12:50.552968+00:00
-
- ## Among the Stars at Hearted.nu
- - [http://sakura.nu](http://sakura.nu)
- - date_published: 2024-06-20T21:26:49.459498+00:00
-
- ## SALVAGED dot NU
- - [https://salvaged.nu](https://salvaged.nu)
- - date_published: 2024-08-06T04:44:34.690375+00:00
-
- ## Shantnu's Silent Site
- - [https://shant.nu](https://shant.nu)
- - date_published: 2023-10-25T20:49:02.194922+00:00
 

@@ -2153,11 +2153,11 @@
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## Gen AI Workspace - Magicflow
- - [https://www.magicflow.ai](https://www.magicflow.ai)
+ - [https://magicflow.ai](https://magicflow.ai)
  - date_published: 2024-05-15T00:00:00+00:00
 
  ## MagicForm
- - [https://www.magicform.ai](https://www.magicform.ai)
+ - [https://magicform.ai](https://magicform.ai)
  - date_published: 2024-01-05T00:00:00+00:00
 
  ## MagicPort - Empowering Smart and Sustainable Shipping
@@ -2167,6 +2167,7 @@
  ## Reach - Generate more sales pipeline with lead and account based triggers across multiple data sources
  - [https://www.magicreach.ai](https://www.magicreach.ai)
  - date_published: 2024-02-08T00:00:00+00:00
+ - date_dead_since: 2025-01-06T11:23:09.023698+00:00
 
  ## MagicSchool AI
  - [https://app.magicschool.ai](https://app.magicschool.ai)
@@ -2187,10 +2188,12 @@
  ## PropertyPen
  - [https://try.magictools.ai](https://try.magictools.ai)
  - date_published: 2024-06-19T20:41:26.313209+00:00
+ - date_dead_since: 2025-01-06T11:23:09.287283+00:00
 
  ## MagicType.AI - Discover the Magic in you
  - [https://magictype.ai](https://magictype.ai)
  - date_published: 2024-06-19T20:05:40.194589+00:00
+ - date_dead_since: 2025-01-06T11:23:39.834438+00:00
 
  ## Speed Up Software Quality Assurance with AI | MagnifAI
  - [https://magnif.ai](https://magnif.ai)
@@ -2246,7 +2249,7 @@
 
  ## Mapless AI - Driverless Remote Vehicle Operations
  - [https://mapless.ai](https://mapless.ai)
- - date_published: 2024-07-23T23:26:31.936582+00:00
+ - date_published: 2023-04-03T15:12:34+00:00
 
  ## Rapid Editor
  - [https://mapwith.ai](https://mapwith.ai)
@@ -2261,7 +2264,7 @@
  - date_published: 2024-09-15T13:47:56.591416+00:00
 
  ## Marketology.ai
- - [https://www.marketology.ai](https://www.marketology.ai)
+ - [https://marketology.ai](https://marketology.ai)
  - date_published: 2023-05-13T09:06:35+00:00
 
  ## Launch Your All-in-One Creator Storefront | Marketsy.ai
@@ -2277,7 +2280,7 @@
  - date_published: 2024-08-13T09:17:14+00:00
 
  ## Markopolo - eCommerce growth platform
- - [https://www.markopolo.ai](https://www.markopolo.ai)
+ - [https://markopolo.ai](https://markopolo.ai)
  - date_published: 2024-06-09T00:00:00+00:00
 
  ## Marqo
@@ -2311,6 +2314,7 @@
  ## Maskr.AI - Instant famous with our AI generated photos
  - [https://maskr.ai](https://maskr.ai)
  - date_published: 2023-05-09T19:58:21+00:00
+ - date_dead_since: 2025-01-06T11:24:40.859330+00:00
 
  ## MasNet  Explorer
  - [https://explorer.masnet.ai](https://explorer.masnet.ai)
@@ -2338,7 +2342,7 @@
  - date_published: 2024-03-19T06:28:21+00:00
 
  ## mbodi - enabling internet scale learning in robotics
- - [https://www.mbodi.ai](https://www.mbodi.ai)
+ - [https://mbodi.ai](https://mbodi.ai)
  - date_published: 2024-08-15T00:00:00+00:00
 
  ## MCML - Munich Center for Machine Learning
@@ -2380,6 +2384,7 @@
  ## Run perfect meetings. Every. Single. Time. | Meetrics
  - [https://meetrics.ai](https://meetrics.ai)
  - date_published: 2024-01-28T00:00:00+00:00
+ - date_dead_since: 2025-01-06T11:26:42.101724+00:00
 
  ## Meetz.ai
  - [https://app.meetz.ai](https://app.meetz.ai)
@@ -2434,7 +2439,7 @@
  - date_published: 2024-07-19T19:32:18.818078+00:00
 
  ## Mendel AI - Revolutionizing Clinical Data with AI-Powered Insights
- - [http://mendel.ai](http://mendel.ai)
+ - [https://mendel.ai](https://mendel.ai)
  - date_published: 2024-10-15T00:00:00+00:00
 
  ## Mender.AI | Mender.AI
@@ -2454,16 +2459,17 @@
  - date_published: 2024-10-30T23:05:38.684095+00:00
 
  ## Mentioned - Automating email outreach for your blog
- - [https://www.mentioned.ai](https://www.mentioned.ai)
+ - [https://mentioned.ai](https://mentioned.ai)
  - date_published: 2023-01-03T00:00:00+00:00
 
  ## Mento
- - [https://www.mento.ai](https://www.mento.ai)
+ - [https://mento.ai](https://mento.ai)
  - date_published: 2024-07-11T16:50:25.053669+00:00
 
  ## Menu Bot | AI-powered Meal Planner
  - [https://www.menubot.ai](https://www.menubot.ai)
  - date_published: 2024-06-19T19:26:22.648798+00:00
+ - date_dead_since: 2025-01-06T11:27:52.683186+00:00
 
  ## Hello from Mephisto | Mephisto
  - [https://mephisto.ai](https://mephisto.ai)
@@ -2481,6 +2487,7 @@
  ## Blog - Metaphysic.ai
  - [https://blog.metaphysic.ai](https://blog.metaphysic.ai)
  - date_published: 2023-11-28T13:23:04.184625+00:00
+ - date_dead_since: 2025-01-06T11:28:06.143071+00:00
 
  ## Home - Metaphysic.ai
  - [https://metaphysic.ai](https://metaphysic.ai)
@@ -2511,7 +2518,7 @@
  - date_published: 2024-08-05T00:00:00+00:00
 
  ## MgrWorkbench.ai
- - [https://www.mgrworkbench.ai](https://www.mgrworkbench.ai)
+ - [https://mgrworkbench.ai](https://mgrworkbench.ai)
  - date_published: 2024-06-19T20:07:40.810712+00:00
 
  ## Show HN: Midday – Run your business smarter (open-source)
@@ -2523,7 +2530,7 @@
  - date_published: 2024-09-04T00:00:00+00:00
 
  ## Mid Journey AI
- - [https://mid-journey.ai](https://mid-journey.ai)
+ - [http://mid-journey.ai](http://mid-journey.ai)
  - date_published: 2023-12-22T14:57:29.032690+00:00
 
  ## MidReal - Free AI Story Generator
@@ -2567,7 +2574,7 @@
  - date_published: 2023-08-12T23:24:29+00:00
 
  ## HOME | Mindmasters
- - [https://www.mindmasters.ai](https://www.mindmasters.ai)
+ - [https://mindmasters.ai](https://mindmasters.ai)
  - date_published: 2024-07-24T00:00:00+00:00
 
  ## Mind Matters | Natural and Artificial Intelligence News and Analysis
@@ -2629,7 +2636,7 @@
  - date_published: 2024-09-14T07:45:31.861615+00:00
 
  ## Mixedbread
- - [https://www.mixedbread.ai](https://www.mixedbread.ai)
+ - [https://mixedbread.ai](https://mixedbread.ai)
  - date_published: 2024-08-12T00:00:00+00:00
 
  ## MK1
@@ -2673,7 +2680,7 @@
  - date_published: 2024-06-16T03:53:04.703109+00:00
 
  ## Modelia
- - [https://www.modelia.ai](https://www.modelia.ai)
+ - [https://modelia.ai](https://modelia.ai)
  - date_published: 2024-07-03T19:27:12+00:00
 
  ## ModelZ
@@ -2681,7 +2688,7 @@
  - date_published: 2023-10-25T11:40:34.578938+00:00
 
  ## Modulate | Leader in the Fight Against Toxic Online Behavior
- - [https://www.modulate.ai](https://www.modulate.ai)
+ - [https://modulate.ai](https://modulate.ai)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## AI Audio Models to Power Your Music Business
@@ -2689,7 +2696,7 @@
  - date_published: 2024-09-13T20:35:56.704827+00:00
 
  ## moises.ai
- - [https://help.moises.ai](https://help.moises.ai)
+ - [http://help.moises.ai](http://help.moises.ai)
  - date_published: 2024-09-04T00:00:00+00:00
 
  ## Moises App: The Musician's App | Vocal Remover & much more
@@ -2729,11 +2736,11 @@
  - date_published: 2024-05-11T07:23:47.525260+00:00
 
  ## Monterey AI - Copilot for Product Insights
- - [http://monterey.ai](http://monterey.ai)
+ - [https://monterey.ai](https://monterey.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Home
- - [https://www.monterra.ai](https://www.monterra.ai)
+ - [https://monterra.ai](https://monterra.ai)
  - date_published: 2024-06-26T00:00:00+00:00
 
  ## The AI Ethics Brief | Montreal AI Ethics Institute | Substack
@@ -2844,21 +2851,25 @@
  ## mutable.ai | Omar Shams | Substack
  - [https://blog.mutable.ai](https://blog.mutable.ai)
  - date_published: 2024-03-16T00:00:00+00:00
+ - date_dead_since: 2025-01-06T11:46:14.335733+00:00
 
  ## Welcome to Mutable.ai! | Mutable.ai User Guide
  - [https://docs.mutable.ai](https://docs.mutable.ai)
  - date_published: 2024-06-11T00:00:00+00:00
+ - date_dead_since: 2025-01-06T11:46:15.163779+00:00
 
  ## mutable.ai
  - [https://mutable.ai](https://mutable.ai)
  - date_published: 2024-06-14T09:00:16.860086+00:00
+ - date_dead_since: 2025-01-06T11:46:16.023662+00:00
 
  ## Auto Wiki by Mutable.ai — High-Quality Generated Code Documentation
  - [https://wiki.mutable.ai](https://wiki.mutable.ai)
  - date_published: 2024-01-08T19:01:50.485594+00:00
+ - date_dead_since: 2025-01-06T11:46:17.197096+00:00
 
  ## App Publishing Partner & AI Apps Pioneer - MWM
- - [https://www.mwm.ai](https://www.mwm.ai)
+ - [https://mwm.ai](https://mwm.ai)
  - date_published: 2024-09-02T12:50:14.019199+00:00
 
  ## Webchat Stage - ALICE
@@ -2906,7 +2917,7 @@
  - date_published: 2024-06-19T18:52:51.357524+00:00
 
  ## My Hacker News
- - [https://www.myhackernews.ai](https://www.myhackernews.ai)
+ - [https://myhackernews.ai](https://myhackernews.ai)
  - date_published: 2024-07-16T18:17:51.846953+00:00
 
  ## KIN | Yngvi Karlson | Substack
@@ -2919,7 +2930,7 @@
 
  ## Mylinks | Bio pages made for creators.
  - [https://mylinks.ai](https://mylinks.ai)
- - date_published: 2024-08-18T11:59:46.433424+00:00
+ - date_published: 2024-06-21T18:48:10+00:00
 
  ## mylogo.ai - AI Logo Designer
  - [https://mylogo.ai](https://mylogo.ai)
@@ -2930,11 +2941,11 @@
  - date_published: 2024-12-23T10:57:45+00:00
 
  ## Mapping Ideas That Change the World
- - [https://www.mymap.ai](https://www.mymap.ai)
+ - [https://mymap.ai](https://mymap.ai)
  - date_published: 2024-09-13T20:28:33.493716+00:00
 
  ## Marky - Powerful AI Social Media Marketing
- - [https://www.mymarky.ai](https://www.mymarky.ai)
+ - [https://mymarky.ai](https://mymarky.ai)
  - date_published: 2024-09-04T00:00:00+00:00
 
  ## AI Math Solver Powered by Math GPT Free Online
@@ -2942,7 +2953,7 @@
  - date_published: 2024-07-10T00:02:57.170500+00:00
 
  ## MyMealPlan - Home
- - [https://www.mymealplan.ai](https://www.mymealplan.ai)
+ - [https://mymealplan.ai](https://mymealplan.ai)
  - date_published: 2024-06-19T19:27:23.501384+00:00
 
  ## Minutes - AI Note Taking & Transcription
@@ -2962,7 +2973,7 @@
  - date_published: 2024-10-30T21:18:28.369706+00:00
 
  ## Cierpliwości...
- - [https://app.myshell.ai](https://app.myshell.ai)
+ - [http://app.myshell.ai](http://app.myshell.ai)
  - date_published: 2024-06-19T19:06:55.062010+00:00
 
  ## MyShell AI | Build, Share, and Own AI Chat.
@@ -2978,7 +2989,7 @@
  - date_published: 2024-09-13T20:26:32.346485+00:00
 
  ## Mystic.ai
- - [https://www.mystic.ai](https://www.mystic.ai)
+ - [https://mystic.ai](https://mystic.ai)
  - date_published: 2024-10-17T05:51:19.267119+00:00
 
  ## ChaturGPT- Get answers from your documents using AI
@@ -3022,15 +3033,15 @@
  - date_published: 2024-06-19T18:56:30.741653+00:00
 
  ## nanosaur
- - [http://nanosaur.ai](http://nanosaur.ai)
- - date_published: 2024-07-27T02:48:01.494978+00:00
+ - [https://nanosaur.ai](https://nanosaur.ai)
+ - date_published: 2023-06-27T12:34:59+00:00
 
  ## Nansen | Onchain Analytics for Crypto Investors & Teams
  - [https://nansen.ai](https://nansen.ai)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Nansen | Crypto, Defi & NFT Analytics
- - [https://pro.nansen.ai](https://pro.nansen.ai)
+ - [http://pro.nansen.ai](http://pro.nansen.ai)
  - date_published: 2024-09-12T19:22:05.015353+00:00
 
  ## Napkin AI - The visual AI for business storytelling
@@ -3050,7 +3061,7 @@
  - date_published: 2024-09-13T17:58:43.598950+00:00
 
  ## Nastia | The Uncensored AI Companion
- - [https://www.nastia.ai](https://www.nastia.ai)
+ - [https://nastia.ai](https://nastia.ai)
  - date_published: 2024-06-12T14:20:42+00:00
 
  ## Natasha Jaques
@@ -3082,7 +3093,7 @@
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## NeroBot - The LLM powered scraper for your LLM Apps
- - [https://www.nero.ai](https://www.nero.ai)
+ - [https://nero.ai](https://nero.ai)
  - date_published: 2024-02-06T00:00:00+00:00
 
  ## NetMind AI, an AI solutions company, AI powerhouse for the future
@@ -3090,7 +3101,7 @@
  - date_published: 2024-09-24T02:11:55+00:00
 
  ## Neural Voice: Realistic AI Conversations
- - [https://www.neural-voice.ai](https://www.neural-voice.ai)
+ - [https://neural-voice.ai](https://neural-voice.ai)
  - date_published: 2023-08-31T07:33:11+00:00
 
  ## NeurochainAI | Ultimate Web3 + Decentralized AI Infrastructure
@@ -3151,7 +3162,7 @@
  - date_published: 2024-10-17T15:38:55.563085+00:00
 
  ## NextStarterAI
- - [https://www.nextstarter.ai](https://www.nextstarter.ai)
+ - [https://nextstarter.ai](https://nextstarter.ai)
  - date_published: 2024-08-17T06:47:16.059333+00:00
 
  ## nference - Unlocking Real-World Data with Clinical AI
@@ -3159,7 +3170,7 @@
  - date_published: 2024-07-17T00:00:00+00:00
 
  ## Home - NFPs.AI
- - [http://nfps.ai](http://nfps.ai)
+ - [https://nfps.ai](https://nfps.ai)
  - date_published: 2023-01-23T20:45:42+00:00
 
  ## NFTBank | Make NFT Portfolio Management Smart
@@ -3192,7 +3203,7 @@
  - date_published: 2024-06-25T12:05:42+00:00
 
  ## NoCode.ai: Build AI solutions without code
- - [https://www.nocode.ai](https://www.nocode.ai)
+ - [http://nocode.ai](http://nocode.ai)
  - date_published: 2024-07-09T17:41:35.065467+00:00
 
  ## Noctie.ai
@@ -3244,7 +3255,7 @@
  - date_published: 2024-12-15T06:14:31.504368+00:00
 
  ## Nooks | AI Powered Parallel Dialer and Virtual Salesfloor
- - [https://www.nooks.ai](https://www.nooks.ai)
+ - [https://nooks.ai](https://nooks.ai)
  - date_published: 2024-08-05T00:00:00+00:00
 
  ## NOOZ AI
@@ -3252,7 +3263,7 @@
  - date_published: 2023-12-12T20:12:10+00:00
 
  ## Home - NORA - Norwegian Artificial Intelligence Research Consortium
- - [https://www.nora.ai](https://www.nora.ai)
+ - [https://nora.ai](https://nora.ai)
  - date_published: 2024-06-22T08:46:35.666221+00:00
 
  ## The Normal Blog - System Two: The Normal Computing Blog
@@ -3280,7 +3291,7 @@
  - date_published: 2024-06-19T19:35:13.614935+00:00
 
  ## Notion AI | Now with Q&A
- - [https://www.notion.ai](https://www.notion.ai)
+ - [https://notion.ai](https://notion.ai)
  - date_published: 2024-08-18T13:10:25.406427+00:00
 
  ## Notionsmith
@@ -3320,11 +3331,11 @@
  - date_published: 2024-06-19T19:19:40+00:00
 
  ## Unlock the True Potential of AI With World-Class Data
- - [https://www.nukl.ai](https://www.nukl.ai)
+ - [https://nukl.ai](https://nukl.ai)
  - date_published: 2024-10-29T06:19:20+00:00
 
  ## Secure software development with AI agents.
- - [https://www.nullify.ai](https://www.nullify.ai)
+ - [https://nullify.ai](https://nullify.ai)
  - date_published: 2024-06-15T00:00:00+00:00
 
  ## Home - NumberEight
@@ -3352,7 +3363,7 @@
  - date_published: 2023-10-25T11:41:01.005627+00:00
 
  ## NVIDIA Venture Capital: NVentures
- - [https://www.nventures.ai](https://www.nventures.ai)
+ - [https://nventures.ai](https://nventures.ai)
  - date_published: 2024-05-06T00:00:00+00:00
 
  ## ObjectivePersonality.ai
@@ -3376,11 +3387,11 @@
  - date_published: 2024-10-30T21:21:14.538641+00:00
 
  ## Data Science without Code | Obviously AI
- - [https://www.obviously.ai](https://www.obviously.ai)
+ - [https://obviously.ai](https://obviously.ai)
  - date_published: 2024-05-10T00:00:00+00:00
 
  ## Occam AI
- - [https://www.occam.ai](https://www.occam.ai)
+ - [https://occam.ai](https://occam.ai)
  - date_published: 2024-06-22T09:51:08.498296+00:00
 
  ## Efficient, Customizable, and Reliable GenAI Inferences | OctoAI
@@ -3388,7 +3399,7 @@
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## GPT-powered AI chatbot for eCommerce SMEs
- - [https://www.octocom.ai](https://www.octocom.ai)
+ - [https://octocom.ai](https://octocom.ai)
  - date_published: 2024-06-19T21:10:39.377134+00:00
 
  ## Efficient, Customizable, and Reliable GenAI Inferences | OctoAI
@@ -3416,7 +3427,7 @@
  - date_published: 2024-10-14T11:50:01.649561+00:00
 
  ## Ohai.ai
- - [https://www.ohai.ai](https://www.ohai.ai)
+ - [https://ohai.ai](https://ohai.ai)
  - date_published: 2024-07-09T19:30:53.882945+00:00
 
  ## Oho Explorer | powered by $OHO
@@ -3428,7 +3439,7 @@
  - date_published: 2023-10-25T11:41:02.281456+00:00
 
  ## GovDash - AI business developer for GovCon
- - [https://www.olli.ai](https://www.olli.ai)
+ - [https://olli.ai](https://olli.ai)
  - date_published: 2024-05-24T00:00:00+00:00
 
  ## Omnic.AI | Game Smarter with AI
@@ -3448,7 +3459,7 @@
  - date_published: 2024-06-29T08:46:17.957240+00:00
 
  ## Onesight - Plug and Play Ecommerce Analytics
- - [https://www.onesight.ai](https://www.onesight.ai)
+ - [https://onesight.ai](https://onesight.ai)
  - date_published: 2024-02-15T00:00:00+00:00
 
  ## OneTone.ai
@@ -3456,7 +3467,7 @@
  - date_published: 2024-06-19T19:48:35.802734+00:00
 
  ## OnlyBabes.ai
- - [https://www.onlybabes.ai](https://www.onlybabes.ai)
+ - [https://onlybabes.ai](https://onlybabes.ai)
  - date_published: 2024-06-19T20:11:02.529593+00:00
 
  ## OnlyWaifus.ai
@@ -3485,7 +3496,7 @@
  - date_published: 2024-08-06T00:00:00+00:00
 
  ## OpenDAN - Empower Open-source AI OS & Apps | Unite Minds for a Transparent AI Ecosystem
- - [https://www.opendan.ai](https://www.opendan.ai)
+ - [https://opendan.ai](https://opendan.ai)
  - date_published: 2024-08-06T09:28:25.736045+00:00
 
  ## OpenDoc AI - Next Gen AI for Productivity
@@ -3513,7 +3524,7 @@
  - date_published: 2024-05-07T18:54:22.109527+00:00
 
  ## Home - Open Paws
- - [https://www.openpaws.ai](https://www.openpaws.ai)
+ - [https://openpaws.ai](https://openpaws.ai)
  - date_published: 2024-07-06T19:51:05.119636+00:00
 
  ## OpenPipe: Fine-tuning for production apps
@@ -3562,11 +3573,11 @@
  - date_published: 2024-10-29T20:26:17+00:00
 
  ## Opnbx.ai - Take Action on the Right Accounts at the Right Time.
- - [https://www.opnbx.ai](https://www.opnbx.ai)
+ - [https://opnbx.ai](https://opnbx.ai)
  - date_published: 2024-06-18T00:00:00+00:00
 
  ## Optech
- - [https://www.optech.ai](https://www.optech.ai)
+ - [https://optech.ai](https://optech.ai)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## Artificial Intelligence for Online Stores - Optimus Price
@@ -3610,7 +3621,7 @@
  - date_published: 2024-08-13T07:29:46+00:00
 
  ## Gen AI-powered automation to mechanize repetitive back-office processes
- - [https://www.orby.ai](https://www.orby.ai)
+ - [https://orby.ai](https://orby.ai)
  - date_published: 2024-06-17T10:21:42+00:00
 
  ## Orifice.ai
@@ -3643,7 +3654,7 @@
 
  ## Ottic - Evaluate LLM-powered applications
  - [https://ottic.ai](https://ottic.ai)
- - date_published: 2024-04-29T00:00:00+00:00
+ - date_published: 1980-01-01T00:00:01+00:00
 
  ## outdraw.ai
  - [https://outdraw.ai](https://outdraw.ai)
@@ -3674,11 +3685,11 @@
  - date_published: 2024-10-28T18:04:14+00:00
 
  ## Overland AI
- - [https://www.overland.ai](https://www.overland.ai)
+ - [https://overland.ai](https://overland.ai)
  - date_published: 2024-05-20T00:00:00+00:00
 
  ## Overview.ai - Next-Gen AI Industrial Vision Systems
- - [https://www.overview.ai](https://www.overview.ai)
+ - [https://overview.ai](https://overview.ai)
  - date_published: 2024-06-21T02:11:17.905556+00:00
 
  ## Overwatch = real-time, global understanding
@@ -3686,11 +3697,11 @@
  - date_published: 2024-04-11T00:00:00+00:00
 
  ## Owlbot | One of the most advanced AI Chatbot platforms in the world
- - [https://www.owlbot.ai](https://www.owlbot.ai)
+ - [https://owlbot.ai](https://owlbot.ai)
  - date_published: 2024-07-08T16:21:03.522822+00:00
 
  ## Homepage - Oxa
- - [https://www.oxbotica.ai](https://www.oxbotica.ai)
+ - [https://oxbotica.ai](https://oxbotica.ai)
  - date_published: 2024-04-25T00:00:00+00:00
 
  ## Oxen.ai
@@ -3742,11 +3753,11 @@
  - date_published: 2024-12-09T03:10:29+00:00
 
  ## PANTA RHAI | KI-basierte Technologien
- - [https://www.panta-rh.ai](https://www.panta-rh.ai)
+ - [https://panta-rh.ai](https://panta-rh.ai)
  - date_published: 2024-07-12T08:39:53.391636+00:00
 
  ## PaperGen
- - [https://www.papergen.ai](https://www.papergen.ai)
+ - [https://papergen.ai](https://papergen.ai)
  - date_published: 2024-09-11T00:00:00+00:00
 
  ## Papers Read on AI | Rob
@@ -3754,7 +3765,7 @@
  - date_published: 2024-12-24T04:19:30.951715+00:00
 
  ## Parabrain.ai | Expert AI trained by your knowledge
- - [https://www.parabrain.ai](https://www.parabrain.ai)
+ - [https://parabrain.ai](https://parabrain.ai)
  - date_published: 2024-06-19T20:11:54.838721+00:00
 
  ## Olivia
@@ -3774,7 +3785,7 @@
  - date_published: 2024-06-18T13:52:20.421988+00:00
 
  ## Parafin – AI-Powered Real Estate Development
- - [http://parafin.ai](http://parafin.ai)
+ - [https://parafin.ai](https://parafin.ai)
  - date_published: 2024-06-28T13:23:08.771801+00:00
 
  ## Trusted Identity AI | Paravision
@@ -3814,7 +3825,7 @@
  - date_published: 2024-02-14T00:00:00+00:00
 
  ## Patterned AI
- - [http://patterned.ai](http://patterned.ai)
+ - [https://patterned.ai](https://patterned.ai)
  - date_published: 2024-06-19T20:38:58.486282+00:00
 
  ## Pattern | Airport Ground Handling
@@ -3838,7 +3849,7 @@
  - date_published: 2024-12-22T13:23:34.595547+00:00
 
  ## Peak - Game-changing AI is here.
- - [https://www.peak.ai](https://www.peak.ai)
+ - [https://peak.ai](https://peak.ai)
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## Penelope.ai
@@ -3846,7 +3857,7 @@
  - date_published: 2024-05-08T03:01:32.442324+00:00
 
  ## Penelope.ai
- - [https://www.penelope.ai](https://www.penelope.ai)
+ - [https://penelope.ai](https://penelope.ai)
  - date_published: 2024-07-03T15:33:46.386616+00:00
 
  ## Penly AI: Custom Anime & Real Girl Art Generator - Free Trial
@@ -3866,7 +3877,7 @@
  - date_published: 2024-10-30T11:27:42.466509+00:00
 
  ## Unlock your GTM's complete story with SalesAI
- - [https://www.people.ai](https://www.people.ai)
+ - [https://people.ai](https://people.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## AI Chatbot Online(Include NSFW Character) - PepHop AI
@@ -3875,7 +3886,7 @@
  - tags: ['nsfw']
 
  ## Peppertype.ai | Create Quality Content Faster
- - [https://www.peppertype.ai](https://www.peppertype.ai)
+ - [https://peppertype.ai](https://peppertype.ai)
  - date_published: 2024-06-19T21:08:35.206919+00:00
 
  ## PerfAI
@@ -3890,13 +3901,13 @@
  - [https://perfai.ai](https://perfai.ai)
  - date_published: 2023-10-25T11:41:16.602552+00:00
 
+ ## AI Essay Writer & AI Writing Tools | Essay Generator
+ - [https://perfectessaywriter.ai](https://perfectessaywriter.ai)
+ - date_published: 2024-06-19T20:08:08.973466+00:00
+
  ## Free Essay Writer | AI Essay Writer with Citations
  - [https://staging.perfectessaywriter.ai](https://staging.perfectessaywriter.ai)
  - date_published: 2024-10-30T16:20:16.475671+00:00
-
- ## AI Essay Writer & AI Writing Tools | Essay Generator
- - [https://www.perfectessaywriter.ai](https://www.perfectessaywriter.ai)
- - date_published: 2024-06-19T20:08:08.973466+00:00
 
  ## AI-Powered GIFT IDEAS Generator - PerfectGift.AI
  - [https://perfectgift.ai](https://perfectgift.ai)
@@ -3907,15 +3918,16 @@
  - date_published: 2024-05-24T19:35:03.475932+00:00
 
  ## Perplexity Labs Playground
- - [https://labs.perplexity.ai](https://labs.perplexity.ai)
+ - [http://labs.perplexity.ai](http://labs.perplexity.ai)
  - date_published: 2023-12-19T17:44:33+00:00
 
  ## Cierpliwości...
  - [https://llama.perplexity.ai](https://llama.perplexity.ai)
  - date_published: 2024-06-19T20:41:12.774235+00:00
+ - date_dead_since: 2025-01-06T12:13:11.795131+00:00
 
  ## Perplexity AI
- - [https://perplexity.ai](https://perplexity.ai)
+ - [http://perplexity.ai](http://perplexity.ai)
  - date_published: 2024-05-14T03:37:40+00:00
  - tags: ['artificial intelligence', 'artificial intelligence bot', 'search engine']
 
@@ -3944,7 +3956,7 @@
  - date_published: 2023-10-25T08:25:31.233721+00:00
 
  ## Pgslot เว็บตรงที่แจกเครดิตฟรีมากที่สุด PGHENG99 พีจีสล็อตแตกหนัก
- - [https://www.pgheng99.ai](https://www.pgheng99.ai)
+ - [https://pgheng99.ai](https://pgheng99.ai)
  - date_published: 2024-10-22T13:32:57.286796+00:00
 
  ## Home
@@ -4012,14 +4024,14 @@
  - date_published: 2024-06-27T10:51:49.917233+00:00
 
  ## Phrasly: Best AI Detection Remover | Bypass AI Detection
- - [https://phrasly.ai](https://phrasly.ai)
+ - [http://phrasly.ai](http://phrasly.ai)
  - date_published: 2024-06-19T19:26:14.461338+00:00
 
  ## http://hello.pi.ai/
- - [https://hello.pi.ai](https://hello.pi.ai)
+ - [http://hello.pi.ai](http://hello.pi.ai)
  - date_published: 1999-01-01T00:00:00+00:00
 
  ## Pi, your personal AI
- - [https://pi.ai](https://pi.ai)
+ - [http://pi.ai](http://pi.ai)
  - date_published: 2024-05-08T09:06:32.614593+00:00
 
