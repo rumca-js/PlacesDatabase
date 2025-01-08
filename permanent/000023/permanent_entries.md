@@ -1,3 +1,123 @@
+ ## Collège de Maisonneuve|Cégep à Montréal
+ - [https://cmaisonneuve.qc.ca](https://cmaisonneuve.qc.ca)
+ - date_published: 2023-03-21T00:00:00+00:00
+
+ ## Accueil - Communauté métropolitaine de Montréal - CMM
+ - [http://cmm.qc.ca](http://cmm.qc.ca)
+ - date_published: 2024-12-20T10:40:08+00:00
+
+ ## ffq.qc.ca
+ - [http://www.ffq.qc.ca](http://www.ffq.qc.ca)
+ - date_published: 2024-10-21T18:16:39.115557+00:00
+
+ ## La Francofête
+ - [https://www.francofete.qc.ca](https://www.francofete.qc.ca)
+ - date_published: 2024-12-15T07:48:25.285442+00:00
+
+ ## La Vitrine linguistique de l’Office québécois de la langue française
+ - [http://bdl.oqlf.gouv.qc.ca](http://bdl.oqlf.gouv.qc.ca)
+ - date_published: 2024-12-12T09:37:53.149424+00:00
+
+ ## Accueil
+ - [https://frq.gouv.qc.ca](https://frq.gouv.qc.ca)
+ - date_published: 2024-06-22T07:30:03+00:00
+
+ ## La Vitrine linguistique de l’Office québécois de la langue française
+ - [https://gdt.oqlf.gouv.qc.ca](https://gdt.oqlf.gouv.qc.ca)
+ - date_published: 2024-10-30T16:51:19.866244+00:00
+
+ ## Ministère des Relations internationales et de la Francophonie
+ - [http://mri.gouv.qc.ca](http://mri.gouv.qc.ca)
+ - date_published: 2024-12-10T20:04:45.862079+00:00
+
+ ## Commission de toponymie
+ - [https://toponymie.gouv.qc.ca](https://toponymie.gouv.qc.ca)
+ - date_published: 2024-12-15T07:48:22.746204+00:00
+
+ ## La Vitrine linguistique de l’Office québécois de la langue française
+ - [https://vitrinelinguistique.oqlf.gouv.qc.ca](https://vitrinelinguistique.oqlf.gouv.qc.ca)
+ - date_published: 2024-12-15T07:48:20.156013+00:00
+
+ ## Accueil
+ - [http://www.calq.gouv.qc.ca](http://www.calq.gouv.qc.ca)
+ - date_published: 2024-12-10T20:16:21.347340+00:00
+
+ ## Ministère de la Culture et des Communications
+ - [https://www.mcc.gouv.qc.ca](https://www.mcc.gouv.qc.ca)
+ - date_published: 2023-08-07T11:36:23+00:00
+
+ ## Accueil - Office québécois de la langue française
+ - [https://www.oqlf.gouv.qc.ca](https://www.oqlf.gouv.qc.ca)
+ - date_published: 2024-10-19T15:30:55.536326+00:00
+
+ ## | Grenier aux nouvelles
+ - [https://www.grenier.qc.ca](https://www.grenier.qc.ca)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Trouver une décision | SOQUIJ
+ - [https://jugements.qc.ca](https://jugements.qc.ca)
+ - date_published: 2024-04-30T05:33:19.515573+00:00
+
+ ## Accueil | les amis de la montagne
+ - [http://www.lemontroyal.qc.ca](http://www.lemontroyal.qc.ca)
+ - date_published: 2024-07-10T11:01:26.676342+00:00
+
+ ## Index
+ - [https://www.mbam.qc.ca](https://www.mbam.qc.ca)
+ - date_published: 2024-10-18T06:57:05.579519+00:00
+
+ ## Un avenir à égalité | Oxfam-Québec
+ - [https://oxfam.qc.ca](https://oxfam.qc.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Québec Science - L'heure est à la science
+ - [https://www.quebecscience.qc.ca](https://www.quebecscience.qc.ca)
+ - date_published: 2018-06-18T22:31:43+00:00
+
+ ## Recettes du Québec
+ - [https://www.recettes.qc.ca](https://www.recettes.qc.ca)
+ - date_published: 2024-08-19T08:10:35.935042+00:00
+
+ ## Centre d'aide SOQUIJ
+ - [https://aide.soquij.qc.ca](https://aide.soquij.qc.ca)
+ - date_published: 2023-07-22T07:50:13+00:00
+
+ ## Accueil
+ - [https://aristote.soquij.qc.ca](https://aristote.soquij.qc.ca)
+ - date_published: 2024-04-30T05:33:10.583218+00:00
+
+ ## Accueil
+ - [https://blogue.soquij.qc.ca](https://blogue.soquij.qc.ca)
+ - date_published: 2024-04-30T05:33:59.647746+00:00
+
+ ## Nos postes ouverts à Montréal, Québec | SOQUIJ Carrières
+ - [https://carrieres.soquij.qc.ca](https://carrieres.soquij.qc.ca)
+ - date_published: 2024-07-21T07:54:53.717013+00:00
+
+ ## Trouver une décision | SOQUIJ
+ - [https://citoyens.soquij.qc.ca](https://citoyens.soquij.qc.ca)
+ - date_published: 2023-10-25T12:09:44.985607+00:00
+
+ ## Centre de formation SOQUIJ
+ - [https://formations.soquij.qc.ca](https://formations.soquij.qc.ca)
+ - date_published: 2024-07-21T07:54:55.119535+00:00
+
+ ## Accueil
+ - [https://soquij.qc.ca](https://soquij.qc.ca)
+ - date_published: 2024-04-30T05:33:12.499235+00:00
+
+ ## Home - Health Quality Council
+ - [http://www.hqc.sk.ca](http://www.hqc.sk.ca)
+ - date_published: 2025-01-01T18:32:35.044473+00:00
+
+ ## Law Society of Saskatchewan
+ - [http://www.lawsociety.sk.ca](http://www.lawsociety.sk.ca)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## Welcome to the Johnson Shoyama Graduate School of Public Policy - Graduate School of Public Policy
+ - [https://www.schoolofpublicpolicy.sk.ca](https://www.schoolofpublicpolicy.sk.ca)
+ - date_published: 2024-09-02T13:05:47.749362+00:00
+
  ## ashur.cab/rera
  - [https://ashur.cab](https://ashur.cab)
  - date_published: 2024-07-08T22:19:26.725704+00:00
@@ -948,6 +1068,10 @@
  ## MantraCare: Therapy, EAP, Physio, Yoga, Nutrition & More
  - [https://mantra.care](https://mantra.care)
  - date_published: 2024-12-30T05:11:26.308341+00:00
+
+ ## WEPE Token Crypto Presale | Wall Street Pepe Token
+ - [https://bs_83e1ed0c.mooncoin.care](https://bs_83e1ed0c.mooncoin.care)
+ - date_published: 2025-01-07T18:20:20.618961+00:00
 
  ## Keto Diet App | What is your weight loss goal?
  - [https://app.myketo.care](https://app.myketo.care)
@@ -3907,130 +4031,4 @@
  ## Icecast Streaming Media Server
  - [https://relay.rainwave.cc](https://relay.rainwave.cc)
  - date_published: 1999-01-01T00:00:00+00:00
-
- ## The world’s finest cycling clothing | Rapha
- - [https://content.rapha.cc](https://content.rapha.cc)
- - date_published: 2024-06-22T21:30:34.984408+00:00
-
- ## RAPHA UK | Rapha Events
- - [https://events.rapha.cc](https://events.rapha.cc)
- - date_published: 2024-06-22T21:30:36.759701+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://media.rapha.cc](https://media.rapha.cc)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## The world’s finest cycling clothing | Rapha
- - [https://rapha.cc](https://rapha.cc)
- - date_published: 2024-06-22T21:30:41.121153+00:00
-
- ## Search | Rapha
- - [https://search.rapha.cc](https://search.rapha.cc)
- - date_published: 2024-06-22T21:30:35.872220+00:00
-
- ## RCKT
- - [https://rckt.cc](https://rckt.cc)
- - date_published: 2024-08-07T20:16:14.458604+00:00
-
- ## React Native Newsletter
- - [https://reactnative.cc](https://reactnative.cc)
- - date_published: 2023-07-05T20:51:21+00:00
-
- ## Redditsport.cc - Live Sports Streaming
- - [https://redditsport.cc](https://redditsport.cc)
- - date_published: 2024-11-12T17:07:54.269638+00:00
-
- ## Red Velvet
- - [https://redvelvet.cc](https://redvelvet.cc)
- - date_published: 2024-06-15T12:13:16.127024+00:00
-
- ## Boost your Sales with ReferralCandy – #1 eCommerce Referral Program Software
- - [http://harvesthosts.refr.cc](http://harvesthosts.refr.cc)
- - date_published: 2024-12-24T06:20:52+00:00
-
- ## ReferralCandy Portal
- - [https://keepgo.refr.cc](https://keepgo.refr.cc)
- - date_published: 2024-12-18T08:40:00+00:00
-
- ## ReferralCandy Portal
- - [http://radioddity.refr.cc](http://radioddity.refr.cc)
- - date_published: 2024-06-28T03:53:57+00:00
-
- ## ReferralCandy Portal
- - [https://shopsystem.refr.cc](https://shopsystem.refr.cc)
- - date_published: 2024-06-21T05:26:14+00:00
-
- ## ReferralCandy Portal
- - [http://takearecess.refr.cc](http://takearecess.refr.cc)
- - date_published: 2024-10-03T22:54:24+00:00
-
- ## Boost your Sales with ReferralCandy – #1 eCommerce Referral Program Software
- - [http://ubiome.refr.cc](http://ubiome.refr.cc)
- - date_published: 2024-12-11T11:53:57+00:00
-
- ## ReimaginedCollective | The MENA region's first EdTech Venture Studio
- - [https://www.reimagined.cc](https://www.reimagined.cc)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Careers page
- - [https://jobs.relive.cc](https://jobs.relive.cc)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Relive | Run, Ride, Hike & more
- - [https://relive.cc](https://relive.cc)
- - date_published: 2024-06-21T21:36:41.142083+00:00
-
- ## Relive Support
- - [https://support.relive.cc](https://support.relive.cc)
- - date_published: 2024-06-13T10:47:56+00:00
-
- ## Re:plain — The Best Facebook Messenger, WhatsApp and Telegram live chat service
- - [https://replain.cc](https://replain.cc)
- - date_published: 2022-11-11T05:50:07+00:00
-
- ## Re:plain — The Best Facebook Messenger, WhatsApp and Telegram live chat service
- - [https://storage.replain.cc](https://storage.replain.cc)
- - date_published: 2022-11-11T05:50:07+00:00
-
- ## Re:plain — The Best Facebook Messenger, WhatsApp and Telegram live chat service
- - [https://widget.replain.cc](https://widget.replain.cc)
- - date_published: 2022-11-11T05:50:07+00:00
-
- ## RetroGames.cc - Play retro games online in your browser
- - [https://retrogames.cc](https://retrogames.cc)
- - date_published: 2023-10-26T18:49:17.261251+00:00
- - tags: ['retro game']
-
- ## Retroshare
- - [https://retroshare.cc](https://retroshare.cc)
- - date_published: 2024-01-15T10:35:56+00:00
-
- ## URL Shortener - reurl
- - [https://reurl.cc](https://reurl.cc)
- - date_published: 2024-12-03T08:36:11+00:00
- - tags: ['link service']
-
- ## Revision | Revision
- - [https://revi.cc](https://revi.cc)
- - date_published: 2024-04-28T02:36:52.722449+00:00
-
- ## ricochet.cc
- - [http://ricochet.cc](http://ricochet.cc)
- - date_published: 2024-07-13T14:47:50+00:00
-
- ## Hello World
- - [https://blog.riemann.cc](https://blog.riemann.cc)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Laura Rimell
- - [http://www.rimell.cc](http://www.rimell.cc)
- - date_published: 2021-03-15T21:35:28+00:00
-
- ## Reinforcement Learning Conference 2024
- - [https://rl-conference.cc](https://rl-conference.cc)
- - date_published: 2024-08-12T14:57:56+00:00
-
- ## Bike Live |
- - [https://bikelive.road.cc](https://bikelive.road.cc)
- - date_published: 2024-04-30T05:45:35.363184+00:00
 

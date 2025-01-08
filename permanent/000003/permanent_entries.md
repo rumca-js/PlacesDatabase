@@ -1,3 +1,23 @@
+ ## Phot.AI: AI Photo Editing | Visual Content Creation Platform
+ - [https://phot.ai](https://phot.ai)
+ - date_published: 2024-10-30T18:34:02.177374+00:00
+
+ ## Every photo has a story to tell, unearth yours.
+ - [https://photojourney.ai](https://photojourney.ai)
+ - date_published: 2024-06-27T10:51:49.917233+00:00
+
+ ## Phrasly: Best AI Detection Remover | Bypass AI Detection
+ - [http://phrasly.ai](http://phrasly.ai)
+ - date_published: 2024-06-19T19:26:14.461338+00:00
+
+ ## http://hello.pi.ai/
+ - [http://hello.pi.ai](http://hello.pi.ai)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Pi, your personal AI
+ - [http://pi.ai](http://pi.ai)
+ - date_published: 2024-05-08T09:06:32.614593+00:00
+
  ## PIBBSS – Principles of Intelligent Behavior in Biological and Social Systems
  - [https://pibbss.ai](https://pibbss.ai)
  - date_published: 2024-06-21T11:27:23.872282+00:00
@@ -2651,6 +2671,10 @@
  - [https://spoke.ai](https://spoke.ai)
  - date_published: 2024-05-13T00:00:00+00:00
 
+ ## SpoofSense
+ - [https://spoofsense.ai](https://spoofsense.ai)
+ - date_published: 2025-01-07T13:59:31.015290+00:00
+
  ## POKEIT - Drawing the Future with AI
  - [https://sporky.ai](https://sporky.ai)
  - date_published: 2024-10-30T07:04:38.131032+00:00
@@ -3320,6 +3344,10 @@
  ## Taskaid AI - Free AI task management tool
  - [https://taskaid.ai](https://taskaid.ai)
  - date_published: 2024-10-30T21:25:02.273191+00:00
+
+ ## Show HN: I Built an AI Tattoo Generator Using Flux
+ - [https://www.tattoopro.ai](https://www.tattoopro.ai)
+ - date_published: 2025-01-07T20:39:40+00:00
 
  ## TAWNY
  - [https://tawny.ai](https://tawny.ai)
@@ -4019,32 +4047,4 @@
  ## Twogether.ai - AI Generated Couple Photographs
  - [https://twogether.ai](https://twogether.ai)
  - date_published: 2023-11-13T19:48:22.481817+00:00
-
- ## Tyba — Develop and Operate with Confidence
- - [https://tyba.ai](https://tyba.ai)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## The AI-powered document generator and editor.
- - [https://type.ai](https://type.ai)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## AI Voice Generator with Emotional Text to Speech
- - [https://typecast.ai](https://typecast.ai)
- - date_published: 2024-06-19T12:08:01+00:00
-
- ## Typedef - A New Paradigm in Data Infrastructure and Data Engineering Tools
- - [https://www.typedef.ai](https://www.typedef.ai)
- - date_published: 2024-10-17T14:48:02.907842+00:00
-
- ## Typeface | Personalized AI Content for Work
- - [https://app.typeface.ai](https://app.typeface.ai)
- - date_published: 2024-10-30T10:09:03+00:00
-
- ## Typeface | Personalized AI Storytelling for Work
- - [https://typeface.ai](https://typeface.ai)
- - date_published: 2024-10-28T17:45:23+00:00
-
- ## Typli.ai - AI Writing Tools with Superpowers.
- - [https://typli.ai](https://typli.ai)
- - date_published: 2024-03-09T00:00:00+00:00
 

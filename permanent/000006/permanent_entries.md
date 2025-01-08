@@ -1,3 +1,43 @@
+ ## ☕️ Wild Rocket - Landing Page
+ - [https://wildrocket.netlify.app](https://wildrocket.netlify.app)
+ - date_published: 2024-09-16T09:52:51.199749+00:00
+
+ ## Weight Tracker App | [ NICKipedia ]
+ - [https://wizardly-booth-2a48d0.netlify.app](https://wizardly-booth-2a48d0.netlify.app)
+ - date_published: 2024-06-29T09:49:39.997423+00:00
+
+ ## Home page | Wolfree - Free WolframAlpha step-by-step solution
+ - [https://wolfree.netlify.app](https://wolfree.netlify.app)
+ - date_published: 2024-12-22T08:50:51.869373+00:00
+
+ ## Workout Journey
+ - [https://workoutschedule.netlify.app](https://workoutschedule.netlify.app)
+ - date_published: 2024-07-02T18:28:23.344955+00:00
+
+ ## Would you rather?
+ - [https://would-you-rather-2020.netlify.app](https://would-you-rather-2020.netlify.app)
+ - date_published: 2024-07-14T10:22:08.643372+00:00
+
+ ## Xiaochen Zhao's Homepage
+ - [https://xiaochen-zhao.netlify.app](https://xiaochen-zhao.netlify.app)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Yanbo Xu's Homepage
+ - [https://yanbo-xu.netlify.app](https://yanbo-xu.netlify.app)
+ - date_published: 2024-06-22T10:02:00.126505+00:00
+
+ ## Yifan Wang
+ - [https://yifita.netlify.app](https://yifita.netlify.app)
+ - date_published: 2024-08-07T16:08:29.523051+00:00
+
+ ## YIFY CLONE
+ - [https://yify.netlify.app](https://yify.netlify.app)
+ - date_published: 2024-11-12T17:13:15.815909+00:00
+
+ ## YUJUN CAI
+ - [https://yujuncai.netlify.app](https://yujuncai.netlify.app)
+ - date_published: 2021-07-22T00:00:00+00:00
+
  ## Zachariah Dellimore
  - [https://zachariahdellimore.netlify.app](https://zachariahdellimore.netlify.app)
  - date_published: 2024-08-18T04:33:39.489752+00:00
@@ -204,6 +244,7 @@
  ## Omnivore
  - [https://omnivore.app](https://omnivore.app)
  - date_published: 2023-10-25T11:48:07.019044+00:00
+ - tags: ['bookmark manager', 'self-host']
 
  ## Image captioning tool
  - [https://coral-app-qdy8z.ondigitalocean.app](https://coral-app-qdy8z.ondigitalocean.app)
@@ -3985,44 +4026,4 @@
  ## Mitul Shah
  - [https://mitul-h724a14h4-mituls-projects-b6e53694.vercel.app](https://mitul-h724a14h4-mituls-projects-b6e53694.vercel.app)
  - date_published: 2024-07-09T19:16:34.644172+00:00
-
- ## Moddermore
- - [https://moddermore.vercel.app](https://moddermore.vercel.app)
- - date_published: 2024-05-15T02:48:31.617481+00:00
-
- ## A Modern Web for Hacker News – Open-Source and Seeking Feedback
- - [https://modern-hacker-news.vercel.app](https://modern-hacker-news.vercel.app)
- - date_published: 2023-12-31T14:00:00+00:00
-
- ## Moments: Personalised Meditations in Seconds
- - [https://momentsai.vercel.app](https://momentsai.vercel.app)
- - date_published: 2024-06-19T20:50:51.727960+00:00
-
- ## Moments: Personalised Meditations in Seconds
- - [https://moments-ember-nc2vl9o10-momentsai.vercel.app](https://moments-ember-nc2vl9o10-momentsai.vercel.app)
- - date_published: 2024-10-30T18:29:40.013125+00:00
-
- ## Moments
- - [https://moments-shift-6bp8k5rku-momentsai.vercel.app](https://moments-shift-6bp8k5rku-momentsai.vercel.app)
- - date_published: 2024-12-15T09:56:48.942361+00:00
-
- ## Show HN: I made a Pinterest clone using SigLIP image embeddings
- - [https://mood-amber.vercel.app](https://mood-amber.vercel.app)
- - date_published: 2024-02-16T02:52:01+00:00
-
- ## Moogle: Semantic search over mathlib4
- - [https://moogle-morphlabs.vercel.app](https://moogle-morphlabs.vercel.app)
- - date_published: 2024-05-07T15:57:45.618859+00:00
-
- ## Moonwith
- - [https://moonwith-3qa70izm1-malik-piaras-projects.vercel.app](https://moonwith-3qa70izm1-malik-piaras-projects.vercel.app)
- - date_published: 2024-09-14T10:24:39.173230+00:00
-
- ## Movie/Book Recommender
- - [https://movie-and-book-recommender.vercel.app](https://movie-and-book-recommender.vercel.app)
- - date_published: 2024-06-19T21:38:47.595790+00:00
-
- ## movie-web
- - [https://movie-web-alpha-eight.vercel.app](https://movie-web-alpha-eight.vercel.app)
- - date_published: 2024-05-08T10:44:20.844587+00:00
 

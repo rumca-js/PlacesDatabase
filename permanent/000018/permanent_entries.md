@@ -1,3 +1,107 @@
+ ## Mediastream | Impulsione sua estratégia de áudio e vídeo
+ - [https://www.mediastream.com.br](https://www.mediastream.com.br)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Megacombo Consórcios — Sua independência financeira. Automática.
+ - [http://www.megacombo.com.br](http://www.megacombo.com.br)
+ - date_published: 2016-04-02T00:00:00+00:00
+
+ ## MegaContador: Contador de visitas e acessos grátis para seu site!
+ - [http://megacontador.com.br](http://megacontador.com.br)
+ - date_published: 2024-12-31T06:58:20.537468+00:00
+
+ ## MegaDriver
+ - [https://bandcamp.megadriver.com.br](https://bandcamp.megadriver.com.br)
+ - date_published: 2024-12-27T09:12:00.455146+00:00
+
+ ## Home
+ - [http://www.megadriver.com.br](http://www.megadriver.com.br)
+ - date_published: 2024-12-27T09:12:12.443136+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://blog.mercadobitcoin.com.br](https://blog.mercadobitcoin.com.br)
+ - date_published: 2024-06-16T14:16:58.017179+00:00
+
+ ## Mercado Bitcoin - Status
+ - [https://status.mercadobitcoin.com.br](https://status.mercadobitcoin.com.br)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Mercado Bitcoin
+ - [https://suporte.mercadobitcoin.com.br](https://suporte.mercadobitcoin.com.br)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.mercadobitcoin.com.br](https://www.mercadobitcoin.com.br)
+ - date_published: 2024-05-01T06:55:39.097619+00:00
+
+ ## Mercado Livre Brasil - Frete Grátis no mesmo dia
+ - [https://produto.mercadolivre.com.br](https://produto.mercadolivre.com.br)
+ - date_published: 2024-12-23T21:31:05.984977+00:00
+
+ ## Mercado Livre Brasil - Frete Grátis no mesmo dia
+ - [https://www.mercadolivre.com.br](https://www.mercadolivre.com.br)
+ - date_published: 2024-06-16T12:56:09.354105+00:00
+
+ ## Error! - Mercado Pago
+ - [https://www.mercadopago.com.br](https://www.mercadopago.com.br)
+ - date_published: 2020-07-20T03:12:17+00:00
+
+ ## Processadores de refrigeração de PC de alta qualidade - MARCELOSOFTH
+ - [https://marcelosofth.mercadoshops.com.br](https://marcelosofth.mercadoshops.com.br)
+ - date_published: 2024-08-11T19:52:42.186592+00:00
+
+ ## Metamucil: A superfibra que melhora a sua saúde | Metamucil BR
+ - [https://metamucil.com.br](https://metamucil.com.br)
+ - date_published: 2024-09-17T11:23:44+00:00
+
+ ## Seguros de vida e planos odontológicos | MetLife
+ - [https://www.metlife.com.br](https://www.metlife.com.br)
+ - date_published: 2024-07-19T16:37:42+00:00
+
+ ## Carro por assinatura é na Flua! | Flua!
+ - [https://www.meuflua.com.br](https://www.meuflua.com.br)
+ - date_published: 2024-10-25T13:44:53+00:00
+
+ ## MeuPlayStation
+ - [https://meups.com.br](https://meups.com.br)
+ - date_published: 2024-06-26T21:57:19.355478+00:00
+
+ ## Migalhas é o maior e mais importante veículo jurídico do Brasil.
+ - [https://migalhas.com.br](https://migalhas.com.br)
+ - date_published: 2024-12-20T08:17:50.338723+00:00
+
+ ## Minas Faz Ciência
+ - [http://minasfazciencia.com.br](http://minasfazciencia.com.br)
+ - date_published: 2021-03-03T00:00:00+00:00
+
+ ## Minertam | Nutrição Animal
+ - [https://minertam.com.br](https://minertam.com.br)
+ - date_published: 2024-07-17T07:35:30.325010+00:00
+
+ ## Jogo Mines - Aposta para ganhar 💰 Vença no cassino Jogos Minas!
+ - [https://mines-aposta.com.br](https://mines-aposta.com.br)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Minhas Marés – Navegar é preciso!
+ - [http://minhasmares.com.br](http://minhasmares.com.br)
+ - date_published: 2024-07-12T20:58:16.030480+00:00
+
+ ## Tecnologias de reprodução animal assistida | Minitube
+ - [https://minitube.com.br](https://minitube.com.br)
+ - date_published: 2024-08-18T12:22:27.554128+00:00
+
+ ## A Aliança de Misericórdia
+ - [https://misericordia.com.br](https://misericordia.com.br)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Mission Chocolate | O chocolate mais premiado do Brasil
+ - [https://www.missionchocolate.com.br](https://www.missionchocolate.com.br)
+ - date_published: 2024-12-21T22:08:00.361970+00:00
+
+ ## Mixmag Brasil - The World's Biggest Dance Music and Clubbing Destination
+ - [https://mixmag.com.br](https://mixmag.com.br)
+ - date_published: 2024-08-15T22:46:21+00:00
+
  ## Mix Vale - Portal de Notícias do Brasil
  - [https://www.mixvale.com.br](https://www.mixvale.com.br)
  - date_published: 2024-10-16T03:14:04+00:00
@@ -1191,6 +1295,10 @@
  ## O melhor catálogo de cinema em streaming
  - [https://www.telecineplay.com.br](https://www.telecineplay.com.br)
  - date_published: 2024-06-19T08:27:49.826141+00:00
+
+ ## Terra - Seu Portal de Notícias, Diversão e Esportes
+ - [https://terra.com.br](https://terra.com.br)
+ - date_published: 2025-01-07T11:35:04.411775+00:00
 
  ## Terra - Seu Portal de Notícias, Diversão e Esportes
  - [https://www.terra.com.br](https://www.terra.com.br)
@@ -2454,6 +2562,10 @@
  ## Aduff-SSind - Associação dos Docentes da UFF
  - [http://www.aduff.org.br](http://www.aduff.org.br)
  - date_published: 2024-09-03T22:25:51+00:00
+
+ ## Ajor - Associação de Jornalismo Digital
+ - [https://ajor.org.br](https://ajor.org.br)
+ - date_published: 2025-01-07T11:35:01.659891+00:00
 
  ## Alana
  - [https://alana.org.br](https://alana.org.br)
@@ -3895,116 +4007,4 @@
  ## Новости Беларуси | белорусские новости | новости сегодня | последние новости | события в Беларуси и мире | темы дня | фото | видео | инфографика
  - [https://sb.by](https://sb.by)
  - date_published: 2024-05-07T15:11:50.507081+00:00
-
- ## Спецпроекты
- - [http://sp.sb.by](http://sp.sb.by)
- - date_published: 2024-03-29T10:27:17+00:00
-
- ## Беларусь помнит
- - [https://storyofvictory.sb.by](https://storyofvictory.sb.by)
- - date_published: 2024-05-06T13:38:14+00:00
-
- ## Программа передач на все каналы. ТВ программа Беларуси. Телепрограмма
- - [https://tv.sb.by](https://tv.sb.by)
- - date_published: 2024-06-30T03:40:22.183372+00:00
-
- ## неОБЫЧАЙные деревни
- - [http://veski.sb.by](http://veski.sb.by)
- - date_published: 2023-01-05T11:13:59+00:00
-
- ## Каталог товаров Shop.by – сравнение цен в интернет-магазинах Минска и Беларуси
- - [http://shop.by](http://shop.by)
- - date_published: 2024-10-17T07:03:51.377071+00:00
-
- ## Shor. Instagram Bio Supercharger
- - [https://shor.by](https://shor.by)
- - date_published: 2021-08-18T09:43:27+00:00
-
- ## Слуцк. Информационный сайт Слуцка. - Слуцк | сайт Слуцка
- - [http://slutsk-gorod.by](http://slutsk-gorod.by)
- - date_published: 2024-12-28T06:38:34+00:00
-
- ## Навіны Беларусі і свету на беларускай мове | bel.sputnik.by
- - [https://bel.sputnik.by](https://bel.sputnik.by)
- - date_published: 2024-06-15T08:47:22.249199+00:00
-
- ## Sputnik Беларусь - последние новости и главные события. Новости Беларуси сегодня.
- - [https://sputnik.by](https://sputnik.by)
- - date_published: 2024-09-16T18:49:26.107932+00:00
-
- ## Taxidermy Eyes | Taxidermy.by. Mammal eyes, bird eyes, fish eyes, reptile eyes
- - [http://www.taxidermy.by](http://www.taxidermy.by)
- - date_published: 2024-08-20T05:36:18.237565+00:00
-
- ## TopTweets.by
- - [https://toptweets.by](https://toptweets.by)
- - date_published: 2024-05-10T04:55:23.138340+00:00
-
- ## Beste casinoer i Norge 2024
- - [https://trd.by](https://trd.by)
- - date_published: 2024-07-12T22:42:44.106573+00:00
-
- ## VEG.BY — VEG's Blog
- - [https://veg.by](https://veg.by)
- - date_published: 2023-11-26T12:56:13.830280+00:00
-
- ## The Welby Family's Blogs
- - [https://wel.by](https://wel.by)
- - date_published: 2024-07-13T04:13:15.094318+00:00
-
- ## 403
- - [https://metrika.yandex.by](https://metrika.yandex.by)
- - date_published: 2024-08-11T15:55:46.036919+00:00
-
- ## Мобильный оператор life:)
- - [http://life.com.by](http://life.com.by)
- - date_published: 2024-07-13T14:57:23.640595+00:00
-
- ## Национальный статистический комитет Республики Беларусь
- - [http://www.belstat.gov.by](http://www.belstat.gov.by)
- - date_published: 2024-08-11T15:56:39.319587+00:00
-
- ## Официальный сайт Брестского облисполкома - Русская версия
- - [http://brest-region.gov.by](http://brest-region.gov.by)
- - date_published: 2024-08-11T16:20:38.408627+00:00
-
- ## Министерство экономики Республики Беларусь
- - [http://www.economy.gov.by](http://www.economy.gov.by)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Министерство образования Республики Беларусь
- - [http://edu.gov.by](http://edu.gov.by)
- - date_published: 2024-08-11T16:19:43.765953+00:00
-
- ## Государственный пограничный комитет Республики Беларусь
- - [http://gpk.gov.by](http://gpk.gov.by)
- - date_published: 2024-08-11T16:20:41.095020+00:00
-
- ## Министерство по чрезвычайным ситуациям
- - [http://mchs.gov.by](http://mchs.gov.by)
- - date_published: 2024-08-11T16:11:12.492321+00:00
-
- ## Министерство иностранных дел  Республики Беларусь
- - [http://mfa.gov.by](http://mfa.gov.by)
- - date_published: 2024-08-11T16:06:13.376324+00:00
-
- ## Министерство финансов Республики Беларусь
- - [http://www.minfin.gov.by](http://www.minfin.gov.by)
- - date_published: 2024-08-11T16:14:32.247128+00:00
-
- ## Министерство информации Республики Беларусь
- - [http://www.mininform.gov.by](http://www.mininform.gov.by)
- - date_published: 2024-08-11T15:52:54.507908+00:00
-
- ## Министерство природных ресурсов и охраны окружающей среды Республики Беларусь
- - [http://minpriroda.gov.by](http://minpriroda.gov.by)
- - date_published: 2024-08-11T15:58:32.806494+00:00
-
- ## Home – Министерство промышленности РБ
- - [http://www.minprom.gov.by](http://www.minprom.gov.by)
- - date_published: 2024-08-07T06:44:25+00:00
-
- ## Главная - Министерство транспорта и коммуникаций Республики Беларусь
- - [http://www.mintrans.gov.by](http://www.mintrans.gov.by)
- - date_published: 2024-08-11T16:11:15.340151+00:00
 

@@ -1,3 +1,140 @@
+ ## ChezMoi - Pilet & Renaud
+ - [https://chezmoi.pilet-renaud.ch](https://chezmoi.pilet-renaud.ch)
+ - date_published: 2024-07-16T22:36:37.297998+00:00
+
+ ## WHATEVER YOU HAVE IN MIND, WE HOLD THE KEY.
+ - [https://pilet-renaud.ch](https://pilet-renaud.ch)
+ - date_published: 2024-05-12T07:24:22.510964+00:00
+
+ ## Professionnels, inspirations et conseils pour votre projet
+ - [https://www.piloti-sia.ch](https://www.piloti-sia.ch)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Pinterest
+ - [https://pinterest.ch](https://pinterest.ch)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Raspberry Pi - Willkommen im Raspberry Pi-Shop.ch
+ - [http://www.pi-shop.ch](http://www.pi-shop.ch)
+ - date_published: 2024-07-01T07:38:45.837229+00:00
+
+ ## Pixelverse GmbH
+ - [https://pixelverse.ch](https://pixelverse.ch)
+ - date_published: 2024-05-06T12:59:34.328969+00:00
+ - tags: ['software developer', 'company']
+
+ ## Pixinside - Web, Motion Design, Drone
+ - [http://www.pixinside.ch](http://www.pixinside.ch)
+ - date_published: 2024-07-16T22:15:21.512684+00:00
+
+ ## Placid C (Mathias Nöthiger): Music - WebArt - WebDesign - About me
+ - [https://www.placid-c.ch](https://www.placid-c.ch)
+ - date_published: 2023-08-24T06:29:58+00:00
+
+ ## Schule für Gestaltung Basel | Plakatsammlung der SfG Basel
+ - [http://plakatsammlungbasel.ch](http://plakatsammlungbasel.ch)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Your source of geek knowledge
+ - [https://planetgeek.ch](https://planetgeek.ch)
+ - date_published: 2017-03-31T13:50:09+00:00
+
+ ## Die intelligente Personaleinsatzplanung | Planik – Dienstpläne auf Knopfdruck
+ - [https://about.planik.ch](https://about.planik.ch)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Login
+ - [https://app.planik.ch](https://app.planik.ch)
+ - date_published: 2024-09-18T17:01:46.882274+00:00
+
+ ## Die intelligente Personaleinsatzplanung | Planik – Dienstpläne auf Knopfdruck
+ - [https://planik.ch](https://planik.ch)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Pacman Canvas in HTML5
+ - [https://pacman.platzh1rsch.ch](https://pacman.platzh1rsch.ch)
+ - date_published: 2021-03-22T00:00:00+00:00
+
+ ## Platzh1rsch
+ - [http://platzh1rsch.ch](http://platzh1rsch.ch)
+ - date_published: 2024-05-08T21:50:22+00:00
+
+ ## Play Suisse
+ - [https://playsuisse.ch](https://playsuisse.ch)
+ - date_published: 2024-04-30T06:12:12.270623+00:00
+
+ ## mesPledaris
+ - [http://www.pledari.ch](http://www.pledari.ch)
+ - date_published: 2018-11-18T07:51:54+00:00
+
+ ## PLEDARI GROND
+ - [http://www.pledarigrond.ch](http://www.pledarigrond.ch)
+ - date_published: 2023-11-20T19:18:52+00:00
+
+ ## Tinker, Tamper, Alter, Fry - Random musings
+ - [https://blog.ploetzli.ch](https://blog.ploetzli.ch)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## !cloud
+ - [https://cloud.ploetzli.ch](https://cloud.ploetzli.ch)
+ - date_published: 2024-07-13T20:11:53.926814+00:00
+
+ ## PMOD/WRC
+ - [https://aai-login.pmodwrc.ch](https://aai-login.pmodwrc.ch)
+ - date_published: 2015-09-05T10:23:16+00:00
+
+ ## Startseite - PMOD/WRC
+ - [http://pmodwrc.ch](http://pmodwrc.ch)
+ - date_published: 2024-07-16T22:03:19.136494+00:00
+
+ ## PocketBook guarantees a perfect reading experience
+ - [https://pocketbook.ch](https://pocketbook.ch)
+ - date_published: 2024-05-21T02:47:08.412519+00:00
+
+ ## Polympiads
+ - [https://polympiads.ch](https://polympiads.ch)
+ - date_published: 2024-04-29T13:43:17+00:00
+
+ ## Porte Aperte - Aiuto Umanitario
+ - [https://www.porteaperte.ch](https://www.porteaperte.ch)
+ - date_published: 2024-07-08T12:20:32.288244+00:00
+
+ ## Portes Ouvertes Suisse
+ - [https://portesouvertes.ch](https://portesouvertes.ch)
+ - date_published: 2024-05-08T11:13:12.275111+00:00
+
+ ## Home page - Comune di Porza
+ - [http://www.porza.ch](http://www.porza.ch)
+ - date_published: 2024-09-14T09:28:58.917365+00:00
+
+ ## Посмотре.ли
+ - [https://posmotre.ch](https://posmotre.ch)
+ - date_published: 2024-07-14T01:41:34+00:00
+
+ ## Swiss Post Design System
+ - [https://design-system.post.ch](https://design-system.post.ch)
+ - date_published: 2024-07-20T02:29:38.546614+00:00
+
+ ## Die Schweizerische Post
+ - [https://www.post.ch](https://www.post.ch)
+ - date_published: 2024-06-22T21:40:18.011766+00:00
+
+ ## PostFinance - Payment Service Provider
+ - [https://e-payment.postfinance.ch](https://e-payment.postfinance.ch)
+ - date_published: 2024-09-16T03:00:21.592616+00:00
+
+ ## Private customers
+ - [https://postfinance.ch](https://postfinance.ch)
+ - date_published: 2024-07-10T03:23:20.582382+00:00
+
+ ## Power Vision Engineering | Expertise, services and softwares for hydro engineering.
+ - [https://powervision-eng.ch](https://powervision-eng.ch)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Weiterbildung für Fach- und Führungskräfte
+ - [https://www.praxisseminare.ch](https://www.praxisseminare.ch)
+ - date_published: 2024-07-21T05:48:31.780798+00:00
+
  ## privatim – privatim, Konferenz der Schweizer Datenschutz-Beauftragten
  - [https://www.privatim.ch](https://www.privatim.ch)
  - date_published: 2024-09-05T23:44:00.855148+00:00
@@ -1344,6 +1481,10 @@
  ## Opto-electronic instrumentation for Space and Industrial Applications :: GA-Synopta GmbH
  - [http://www.synopta.ch](http://www.synopta.ch)
  - date_published: 2024-07-16T22:03:16.529401+00:00
+
+ ## Laser Systems for Metal, Diamond and Semiconductor industries | Synova - Synova SA
+ - [https://www.synova.ch](https://www.synova.ch)
+ - date_published: 2025-01-07T22:36:16+00:00
 
  ## Stellen bei der Schwyzer Kantonalbank
  - [https://jobs.szkb.ch](https://jobs.szkb.ch)
@@ -3878,148 +4019,4 @@ Fakultät | Universität Basel
  ## 中信集团
  - [https://www.group.citic](https://www.group.citic)
  - date_published: 2024-06-28T08:48:13+00:00
-
- ## 中信金属
- - [http://www.metal.citic](http://www.metal.citic)
- - date_published: 2024-12-12T07:10:01+00:00
-
- ## 404.city - XMPP server
- - [https://404.city](https://404.city)
- - date_published: 2024-10-27T12:20:12.686591+00:00
-
- ## Argon City
- - [https://argon.city](https://argon.city)
- - date_published: 2024-08-06T03:53:49.531174+00:00
-
- ## asumu.city | asumu.city
- - [https://asumu.city](https://asumu.city)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## bigshoulders.city
- - [https://bigshoulders.city](https://bigshoulders.city)
- - date_published: 2024-05-02T10:05:18.708758+00:00
-
- ## For individual customers | blinkee.city
- - [https://blinkee.city](https://blinkee.city)
- - date_published: 2024-10-16T19:15:28.949187+00:00
-
- ## Cabin
- - [https://cabin.city](https://cabin.city)
- - date_published: 2024-06-15T19:18:38.804155+00:00
-
- ## Cabin
- - [https://forum.cabin.city](https://forum.cabin.city)
- - date_published: 2024-09-07T00:00:00+00:00
-
- ## Cabin General Store
- - [https://store.cabin.city](https://store.cabin.city)
- - date_published: 2024-09-19T00:38:42.753655+00:00
-
- ## Calibration City
- - [https://calibration.city](https://calibration.city)
- - date_published: 2024-07-07T07:16:00.812704+00:00
-
- ## Car Free City
- - [https://carfree.city](https://carfree.city)
- - date_published: 2024-08-19T15:29:36.310264+00:00
-
- ## CC35 | The Climate Integration of the Americas
- - [https://cc35.city](https://cc35.city)
- - date_published: 2024-04-20T13:24:47+00:00
-
- ## Energy Inclusion
- - [https://energyinclusion.cc35.city](https://energyinclusion.cc35.city)
- - date_published: 2022-03-29T16:35:06+00:00
-
- ## 3° Foro 2021 | Autoridades Locales del Ambiente de las Américas
- - [http://environmentalauthorities.cc35.city](http://environmentalauthorities.cc35.city)
- - date_published: 2021-11-24T14:04:36+00:00
-
- ## Green Capital of the Americas
- - [http://greencapital.cc35.city](http://greencapital.cc35.city)
- - date_published: 2022-10-27T16:35:42+00:00
-
- ## a zorua's personal planet
- - [https://crisis.city](https://crisis.city)
- - date_published: 2024-12-22T07:22:56.349527+00:00
-
- ## Yastodon
- - [https://cutie.city](https://cutie.city)
- - date_published: 2024-06-17T09:16:56.387632+00:00
-
- ## Cutie City Guide
- - [https://guide.cutie.city](https://guide.cutie.city)
- - date_published: 2023-08-14T00:44:50+00:00
-
- ## Zarabiaj na ładowaniu samochodów elektrycznych
- - [https://elo.city](https://elo.city)
- - date_published: 2024-12-22T19:39:18.611014+00:00
-
- ## FX RUINS
- - [https://end.city](https://end.city)
- - date_published: 2024-09-14T23:33:00.406319+00:00
-
- ## Floofy City
- - [https://floofy.city](https://floofy.city)
- - date_published: 2024-07-15T06:32:48.431656+00:00
-
- ## ETH Floripa | Where governance takes root
- - [https://eth.floripa.city](https://eth.floripa.city)
- - date_published: 2024-09-24T20:46:23.478989+00:00
-
- ## Gamedev.city
- - [https://gamedev.city](https://gamedev.city)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Build with Grove — A robust decentralized RPC infrastructure
- - [https://auth.grove.city](https://auth.grove.city)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Christopher Hatton | Portfolio
- - [https://www.hatton.city](https://www.hatton.city)
- - date_published: 2024-06-21T21:17:42.713544+00:00
- - tags: ['personal']
-
- ## Alix's Homepage
- - [https://alixx.ichi.city](https://alixx.ichi.city)
- - date_published: 2024-04-17T15:58:57+00:00
-
- ## anoldnet's homepage
- - [https://anoldnet.ichi.city](https://anoldnet.ichi.city)
- - date_published: 2023-02-08T23:23:42+00:00
-
- ## Aral's Heart
- - [https://aralsheart.ichi.city](https://aralsheart.ichi.city)
- - date_published: 2024-06-10T19:51:32.847268+00:00
- - tags: ['personal']
-
- ## [arandomsite]
- - [https://arandomsite.ichi.city](https://arandomsite.ichi.city)
- - date_published: 2024-04-30T06:16:35.552335+00:00
-
- ## * BET.ICHI.CITY *
- - [https://bet.ichi.city](https://bet.ichi.city)
- - date_published: 2024-04-30T06:16:28.796350+00:00
-
- ## WE'RE IN SPACE!!!!!
- - [https://dee-g.ichi.city](https://dee-g.ichi.city)
- - date_published: 2024-06-10T11:07:18+00:00
- - tags: ['personal']
-
- ## Dropodo Index
- - [https://dropodo.ichi.city](https://dropodo.ichi.city)
- - date_published: 2024-04-30T06:16:39.222020+00:00
-
- ## Florrie's Garden
- - [https://florrie.ichi.city](https://florrie.ichi.city)
- - date_published: 2024-04-28T16:54:46+00:00
-
- ## huffelduff's homepage
- - [https://huffelduff.ichi.city](https://huffelduff.ichi.city)
- - date_published: 2024-04-29T02:38:24+00:00
-
- ## Ichi: Your home on the Internet
- - [https://ichi.city](https://ichi.city)
- - date_published: 2023-10-26T06:39:33.548897+00:00
- - tags: ['indie web', 'personal sites source']
 

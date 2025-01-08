@@ -1,3 +1,31 @@
+ ## Tyba — Develop and Operate with Confidence
+ - [https://tyba.ai](https://tyba.ai)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## The AI-powered document generator and editor.
+ - [https://type.ai](https://type.ai)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## AI Voice Generator with Emotional Text to Speech
+ - [https://typecast.ai](https://typecast.ai)
+ - date_published: 2024-06-19T12:08:01+00:00
+
+ ## Typedef - A New Paradigm in Data Infrastructure and Data Engineering Tools
+ - [https://www.typedef.ai](https://www.typedef.ai)
+ - date_published: 2024-10-17T14:48:02.907842+00:00
+
+ ## Typeface | Personalized AI Content for Work
+ - [https://app.typeface.ai](https://app.typeface.ai)
+ - date_published: 2024-10-30T10:09:03+00:00
+
+ ## Typeface | Personalized AI Storytelling for Work
+ - [https://typeface.ai](https://typeface.ai)
+ - date_published: 2024-10-28T17:45:23+00:00
+
+ ## Typli.ai - AI Writing Tools with Superpowers.
+ - [https://typli.ai](https://typli.ai)
+ - date_published: 2024-03-09T00:00:00+00:00
+
  ## Uberduck - Generate speech from text
  - [https://app.uberduck.ai](https://app.uberduck.ai)
  - date_published: 2024-05-13T02:41:11.077330+00:00
@@ -3057,6 +3085,10 @@ Creative Solutions
  - [https://arcwise.app](https://arcwise.app)
  - date_published: 2024-05-08T17:00:09+00:00
 
+ ## Article — Read & Write
+ - [https://article.app](https://article.app)
+ - date_published: 2025-01-07T14:37:48.974115+00:00
+
  ## Aryan Naraghi's personal website
  - [https://aryan.app](https://aryan.app)
  - date_published: 2024-07-23T23:28:12.744802+00:00
@@ -3342,6 +3374,10 @@ Creative Solutions
  ## BrandBird - Powerful image, mockup & screenshot editor for entrepreneurs
  - [https://brandbird.app](https://brandbird.app)
  - date_published: 2024-08-19T18:14:07.337813+00:00
+
+ ## Brand Logo — Make your brand logo in 5 minutes.
+ - [https://brandlogo.app](https://brandlogo.app)
+ - date_published: 2024-12-26T16:12:02+00:00
 
  ## Blockchain Analytics: Crypto Tracker | Breadcrumbs Crypto
  - [https://www.breadcrumbs.app](https://www.breadcrumbs.app)
@@ -3985,40 +4021,4 @@ Creative Solutions
  ## Cycle | Your feedback hub, on autopilot
  - [https://www.cycle.app](https://www.cycle.app)
  - date_published: 2024-07-02T00:00:00+00:00
-
- ## CYNCROCITY
- - [https://cyncrocity.app](https://cyncrocity.app)
- - date_published: 2024-06-19T21:05:43.609986+00:00
-
- ## D3 - Official Identity Service For Top Web3 Communities
- - [https://d3.app](https://d3.app)
- - date_published: 2024-09-24T21:14:31.489143+00:00
-
- ## Daily Dune - Quotes from Frank Herbert's Dune Books
- - [https://dailydune.app](https://dailydune.app)
- - date_published: 2022-07-18T02:52:31+00:00
-
- ## Umami
- - [https://web-analytics.danielroelfs.app](https://web-analytics.danielroelfs.app)
- - date_published: 2024-05-09T07:43:24.619656+00:00
-
- ## DarkSite - tworzenie stron internetowych
- - [https://darksite.app](https://darksite.app)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Dataloop
- - [https://www.dataloop.app](https://www.dataloop.app)
- - date_published: 2024-07-14T23:16:15.671819+00:00
-
- ## Welcome to datapage.app
- - [https://datapage.app](https://datapage.app)
- - date_published: 2024-09-04T14:32:28.467786+00:00
-
- ## SQLPage: SQL to web pages
- - [https://sql.datapage.app](https://sql.datapage.app)
- - date_published: 2024-09-04T14:32:29.248843+00:00
-
- ## DataPulse - Simple, fun & lightweight web analytics solution
- - [https://datapulse.app](https://datapulse.app)
- - date_published: 2024-06-16T20:49:07.461191+00:00
 

@@ -3562,6 +3562,10 @@
  - [https://www.baseplate.ai](https://www.baseplate.ai)
  - date_published: 2023-06-06T00:00:00+00:00
 
+ ## Basis
+ - [https://basis.ai](https://basis.ai)
+ - date_published: 2025-01-07T10:33:43.642916+00:00
+
  ## Crypto Trading Agents | AI-powered Automated Trading | b-cube.ai
  - [https://b-cube.ai](https://b-cube.ai)
  - date_published: 2024-06-19T21:13:35.705452+00:00
@@ -3895,6 +3899,10 @@
  - [https://bogar.ai](https://bogar.ai)
  - date_published: 2024-10-01T07:13:47+00:00
 
+ ## Bolster | AI Security, Domain Monitoring & Takedowns
+ - [https://bolster.ai](https://bolster.ai)
+ - date_published: 2024-05-18T10:12:42+00:00
+
  ## Bonsai Robotics – Home
  - [https://www.bonsairobotics.ai](https://www.bonsairobotics.ai)
  - date_published: 2024-12-15T15:27:39+00:00
@@ -4010,12 +4018,4 @@
  ## Brask: AI Video and Audio Localization. Creating Digital Doubles for Global Markets
  - [https://brask.ai](https://brask.ai)
  - date_published: 2024-10-17T15:34:17+00:00
-
- ## brawl.ai | Brawl Artifical Intelligence
- - [https://brawl.ai](https://brawl.ai)
- - date_published: 2024-09-04T07:51:02.627560+00:00
-
- ## Breadcrumb.ai - Persuade with AI Data Analytic Dashboards
- - [https://www.breadcrumb.ai](https://www.breadcrumb.ai)
- - date_published: 2024-09-13T20:26:12.379820+00:00
 

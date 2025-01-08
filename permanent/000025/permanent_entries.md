@@ -1,3 +1,139 @@
+ ## Initiative MAKE
+ - [https://make.epfl.ch](https://make.epfl.ch)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## EPFL - PLAN
+ - [https://map.epfl.ch](https://map.epfl.ch)
+ - date_published: 2024-05-12T07:14:55.666598+00:00
+
+ ## Master's studies
+ - [http://master.epfl.ch](http://master.epfl.ch)
+ - date_published: 2024-07-16T13:17:32+00:00
+
+ ## Mediacom
+ - [http://mediacom.epfl.ch](http://mediacom.epfl.ch)
+ - date_published: 2024-07-10T08:31:41+00:00
+
+ ## News & Media
+ - [http://medias.epfl.ch](http://medias.epfl.ch)
+ - date_published: 2024-07-16T11:33:19+00:00
+
+ ## Media Library - EPFL
+ - [http://mediatheque.epfl.ch](http://mediatheque.epfl.ch)
+ - date_published: 2024-07-16T22:23:52.108035+00:00
+
+ ## Memento EPFL | EPFL - EPFL
+ - [https://memento.epfl.ch](https://memento.epfl.ch)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Middle East: help and support
+ - [https://middleeast.epfl.ch](https://middleeast.epfl.ch)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## MoleculARweb
+ - [https://molecularweb.epfl.ch](https://molecularweb.epfl.ch)
+ - date_published: 2023-08-16T09:07:08+00:00
+
+ ## MOOCs Catalogue
+ - [http://moocs.epfl.ch](http://moocs.epfl.ch)
+ - date_published: 2024-07-16T22:29:27+00:00
+
+ ## Moodle Archive | CEDE | EPFL
+ - [https://moodlearchive.epfl.ch](https://moodlearchive.epfl.ch)
+ - date_published: 2024-07-15T09:04:09+00:00
+
+ ## Home | Moodle
+ - [https://moodle.epfl.ch](https://moodle.epfl.ch)
+ - date_published: 2024-05-12T07:14:30.256940+00:00
+
+ ## Online Mass Spectrometry Tools: The ISIC- EPFL mstoolbox
+ - [https://ms.epfl.ch](https://ms.epfl.ch)
+ - date_published: 2019-10-16T15:11:47+00:00
+
+ ## MT180 - Ma thèse en 180 secondes
+ - [https://mt180.epfl.ch](https://mt180.epfl.ch)
+ - date_published: 2024-07-16T22:35:03.394224+00:00
+
+ ## MUSÉE DE PHYSIQUE
+ - [https://museephysique.epfl.ch](https://museephysique.epfl.ch)
+ - date_published: 2024-07-16T22:33:23.254703+00:00
+
+ ## Musical – THE Music Association at EPFL
+ - [https://musical.epfl.ch](https://musical.epfl.ch)
+ - date_published: 2024-07-16T22:30:06.037565+00:00
+
+ ## Login Card Services
+ - [https://mycamipro.epfl.ch](https://mycamipro.epfl.ch)
+ - date_published: 2024-05-12T07:14:03.951781+00:00
+
+ ## EPFL Neuchâtel
+ - [http://neuchatel.epfl.ch](http://neuchatel.epfl.ch)
+ - date_published: 2024-07-16T22:23:42+00:00
+
+ ## NeuroMorph
+ - [https://neuromorph.epfl.ch](https://neuromorph.epfl.ch)
+ - date_published: 2024-05-12T07:17:29.327904+00:00
+
+ ## - Neuro-X The alliance of neurosciences, neurotechnology and computational neurosciences for medicine
+ - [https://neuro-x.epfl.ch](https://neuro-x.epfl.ch)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## News - EPFL
+ - [https://news.epfl.ch](https://news.epfl.ch)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Home —  EPFL Newsletter Authoring tool
+ - [https://newsletter.epfl.ch](https://newsletter.epfl.ch)
+ - date_published: 2024-07-16T22:18:15.402446+00:00
+
+ ## EPFL's NLP Lab
+ - [https://nlp.epfl.ch](https://nlp.epfl.ch)
+ - date_published: 2024-08-08T15:26:47+00:00
+
+ ## Nuit des musées @EPFL
+ - [https://nuitmusees.epfl.ch](https://nuitmusees.epfl.ch)
+ - date_published: 2024-07-16T22:34:58.921895+00:00
+
+ ## OACT
+ - [https://oact.epfl.ch](https://oact.epfl.ch)
+ - date_published: 2024-07-16T22:49:16.464672+00:00
+
+ ## COLLÈGE DES HUMANITÉS - CULTURE | Les sorties et les concours
+ - [https://offres-culturelles.epfl.ch](https://offres-culturelles.epfl.ch)
+ - date_published: 2024-05-12T07:22:54.315639+00:00
+
+ ## Open Science in Practice
+ - [https://osip2019.epfl.ch](https://osip2019.epfl.ch)
+ - date_published: 2019-09-06T00:00:00+00:00
+
+ ## Proteomics Core Facility
+ - [https://pcf-ptp.epfl.ch](https://pcf-ptp.epfl.ch)
+ - date_published: 2024-05-12T07:24:07.766735+00:00
+
+ ## People - EPFL
+ - [https://people.epfl.ch](https://people.epfl.ch)
+ - date_published: 2024-09-05T13:37:53.796388+00:00
+
+ ## Doctorate
+ - [https://phd.epfl.ch](https://phd.epfl.ch)
+ - date_published: 2024-05-12T07:24:31.145546+00:00
+
+ ## Club Photo EPFL
+ - [https://photo.epfl.ch](https://photo.epfl.ch)
+ - date_published: 2024-07-16T22:49:06.768437+00:00
+
+ ## EPFL - PLAN
+ - [https://plan.epfl.ch](https://plan.epfl.ch)
+ - date_published: 2024-05-12T07:22:46.702630+00:00
+
+ ## Accueil · Plume fr · Plume
+ - [https://plume.epfl.ch](https://plume.epfl.ch)
+ - date_published: 2024-07-16T22:31:52.183257+00:00
+
+ ## Polylex
+ - [http://polylex.epfl.ch](http://polylex.epfl.ch)
+ - date_published: 2024-07-16T22:23:40+00:00
+
  ## Faculty Affairs
  - [https://professeurs.epfl.ch](https://professeurs.epfl.ch)
  - date_published: 2024-07-16T22:33:03+00:00
@@ -3876,141 +4012,4 @@
  ## Home
  - [https://pietroalberti.ch](https://pietroalberti.ch)
  - date_published: 2024-10-27T19:32:19.568604+00:00
-
- ## ChezMoi - Pilet & Renaud
- - [https://chezmoi.pilet-renaud.ch](https://chezmoi.pilet-renaud.ch)
- - date_published: 2024-07-16T22:36:37.297998+00:00
-
- ## WHATEVER YOU HAVE IN MIND, WE HOLD THE KEY.
- - [https://pilet-renaud.ch](https://pilet-renaud.ch)
- - date_published: 2024-05-12T07:24:22.510964+00:00
-
- ## Professionnels, inspirations et conseils pour votre projet
- - [https://www.piloti-sia.ch](https://www.piloti-sia.ch)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Pinterest
- - [https://pinterest.ch](https://pinterest.ch)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Raspberry Pi - Willkommen im Raspberry Pi-Shop.ch
- - [http://www.pi-shop.ch](http://www.pi-shop.ch)
- - date_published: 2024-07-01T07:38:45.837229+00:00
-
- ## Pixelverse GmbH
- - [https://pixelverse.ch](https://pixelverse.ch)
- - date_published: 2024-05-06T12:59:34.328969+00:00
- - tags: ['software developer', 'company']
-
- ## Pixinside - Web, Motion Design, Drone
- - [http://www.pixinside.ch](http://www.pixinside.ch)
- - date_published: 2024-07-16T22:15:21.512684+00:00
-
- ## Placid C (Mathias Nöthiger): Music - WebArt - WebDesign - About me
- - [https://www.placid-c.ch](https://www.placid-c.ch)
- - date_published: 2023-08-24T06:29:58+00:00
-
- ## Schule für Gestaltung Basel | Plakatsammlung der SfG Basel
- - [http://plakatsammlungbasel.ch](http://plakatsammlungbasel.ch)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Your source of geek knowledge
- - [https://planetgeek.ch](https://planetgeek.ch)
- - date_published: 2017-03-31T13:50:09+00:00
-
- ## Die intelligente Personaleinsatzplanung | Planik – Dienstpläne auf Knopfdruck
- - [https://about.planik.ch](https://about.planik.ch)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Login
- - [https://app.planik.ch](https://app.planik.ch)
- - date_published: 2024-09-18T17:01:46.882274+00:00
-
- ## Die intelligente Personaleinsatzplanung | Planik – Dienstpläne auf Knopfdruck
- - [https://planik.ch](https://planik.ch)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Pacman Canvas in HTML5
- - [https://pacman.platzh1rsch.ch](https://pacman.platzh1rsch.ch)
- - date_published: 2021-03-22T00:00:00+00:00
-
- ## Platzh1rsch
- - [http://platzh1rsch.ch](http://platzh1rsch.ch)
- - date_published: 2024-05-08T21:50:22+00:00
-
- ## Play Suisse
- - [https://playsuisse.ch](https://playsuisse.ch)
- - date_published: 2024-04-30T06:12:12.270623+00:00
-
- ## mesPledaris
- - [http://www.pledari.ch](http://www.pledari.ch)
- - date_published: 2018-11-18T07:51:54+00:00
-
- ## PLEDARI GROND
- - [http://www.pledarigrond.ch](http://www.pledarigrond.ch)
- - date_published: 2023-11-20T19:18:52+00:00
-
- ## Tinker, Tamper, Alter, Fry - Random musings
- - [https://blog.ploetzli.ch](https://blog.ploetzli.ch)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## !cloud
- - [https://cloud.ploetzli.ch](https://cloud.ploetzli.ch)
- - date_published: 2024-07-13T20:11:53.926814+00:00
-
- ## PMOD/WRC
- - [https://aai-login.pmodwrc.ch](https://aai-login.pmodwrc.ch)
- - date_published: 2015-09-05T10:23:16+00:00
-
- ## Startseite - PMOD/WRC
- - [http://pmodwrc.ch](http://pmodwrc.ch)
- - date_published: 2024-07-16T22:03:19.136494+00:00
-
- ## PocketBook guarantees a perfect reading experience
- - [https://pocketbook.ch](https://pocketbook.ch)
- - date_published: 2024-05-21T02:47:08.412519+00:00
-
- ## Polympiads
- - [https://polympiads.ch](https://polympiads.ch)
- - date_published: 2024-04-29T13:43:17+00:00
-
- ## Porte Aperte - Aiuto Umanitario
- - [https://www.porteaperte.ch](https://www.porteaperte.ch)
- - date_published: 2024-07-08T12:20:32.288244+00:00
-
- ## Portes Ouvertes Suisse
- - [https://portesouvertes.ch](https://portesouvertes.ch)
- - date_published: 2024-05-08T11:13:12.275111+00:00
-
- ## Home page - Comune di Porza
- - [http://www.porza.ch](http://www.porza.ch)
- - date_published: 2024-09-14T09:28:58.917365+00:00
-
- ## Посмотре.ли
- - [https://posmotre.ch](https://posmotre.ch)
- - date_published: 2024-07-14T01:41:34+00:00
-
- ## Swiss Post Design System
- - [https://design-system.post.ch](https://design-system.post.ch)
- - date_published: 2024-07-20T02:29:38.546614+00:00
-
- ## Die Schweizerische Post
- - [https://www.post.ch](https://www.post.ch)
- - date_published: 2024-06-22T21:40:18.011766+00:00
-
- ## PostFinance - Payment Service Provider
- - [https://e-payment.postfinance.ch](https://e-payment.postfinance.ch)
- - date_published: 2024-09-16T03:00:21.592616+00:00
-
- ## Private customers
- - [https://postfinance.ch](https://postfinance.ch)
- - date_published: 2024-07-10T03:23:20.582382+00:00
-
- ## Power Vision Engineering | Expertise, services and softwares for hydro engineering.
- - [https://powervision-eng.ch](https://powervision-eng.ch)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Weiterbildung für Fach- und Führungskräfte
- - [https://www.praxisseminare.ch](https://www.praxisseminare.ch)
- - date_published: 2024-07-21T05:48:31.780798+00:00
 

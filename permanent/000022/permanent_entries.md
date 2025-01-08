@@ -1,3 +1,124 @@
+ ## Home Page | PHAS EDI Committee
+ - [https://equity-inclusion.phas.ubc.ca](https://equity-inclusion.phas.ubc.ca)
+ - date_published: 2024-08-06T10:27:21.984027+00:00
+
+ ## UBC Okanagan Events Calendar
+ - [https://events.ok.ubc.ca](https://events.ok.ubc.ca)
+ - date_published: 2024-07-21T09:06:33.857606+00:00
+
+ ## Home | UBC Experts Guide
+ - [https://experts.news.ubc.ca](https://experts.news.ubc.ca)
+ - date_published: 2024-04-30T05:18:48.209797+00:00
+
+ ## French, Hispanic and Italian Studies | University of British Columbia (UBC)
+ - [https://fhis.ubc.ca](https://fhis.ubc.ca)
+ - date_published: 2024-10-19T10:39:40.850510+00:00
+
+ ## UBC Forestry | Faculty of Forestry, University of British Columbia
+ - [https://forestry.ubc.ca](https://forestry.ubc.ca)
+ - date_published: 2024-12-03T18:46:49.264259+00:00
+
+ ## UBC Botanical Garden Forums
+ - [https://forums.botanicalgarden.ubc.ca](https://forums.botanicalgarden.ubc.ca)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Home - give UBC
+ - [https://give.ubc.ca](https://give.ubc.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Research Guides
+ - [https://guides.library.ubc.ca](https://guides.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:56.214143+00:00
+
+ ## Get Research Help | UBC Library Research Help
+ - [https://help.library.ubc.ca](https://help.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:44.017229+00:00
+
+ ## Allard School of Law History Project | historyproject.allard.ubc.ca
+ - [https://historyproject.allard.ubc.ca](https://historyproject.allard.ubc.ca)
+ - date_published: 2024-10-18T21:57:15.425485+00:00
+
+ ## University of British Columbia Library | UBC Library Home
+ - [https://home-uat.library.ubc.ca](https://home-uat.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:25.528707+00:00
+
+ ## Hours and Locations | UBC Library Hours and Locations
+ - [https://hours.library.ubc.ca](https://hours.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:33.328032+00:00
+
+ ## Home | housingresearch.ubc.ca
+ - [https://housingresearch.ubc.ca](https://housingresearch.ubc.ca)
+ - date_published: 2024-04-30T05:03:50.222590+00:00
+
+ ## Welcome | UBC Human Resources
+ - [https://hr.ubc.ca](https://hr.ubc.ca)
+ - date_published: 2024-07-20T04:59:26+00:00
+
+ ## School of Information | University of British Columbia | Vancouver, Canada
+ - [https://ischool.ubc.ca](https://ischool.ubc.ca)
+ - date_published: 2024-07-11T12:56:18.937678+00:00
+
+ ## Homepage | Latin American Studies
+ - [https://las2019.sites.olt.ubc.ca](https://las2019.sites.olt.ubc.ca)
+ - date_published: 2024-10-19T10:39:43.247875+00:00
+
+ ## Homepage | Latin American Studies
+ - [http://las.arts.ubc.ca](http://las.arts.ubc.ca)
+ - date_published: 2024-06-17T14:09:48.631110+00:00
+
+ ## Law Library | UBC Law Library
+ - [https://law.library.ubc.ca](https://law.library.ubc.ca)
+ - date_published: 2024-10-18T21:57:01.451908+00:00
+
+ ## LibCal -
+        University of British Columbia
+ - [https://libcal.library.ubc.ca](https://libcal.library.ubc.ca)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## University of British Columbia Library | UBC Library Home
+ - [https://library.ubc.ca](https://library.ubc.ca)
+ - date_published: 2024-04-30T05:18:35.690145+00:00
+
+ ## UBC Dept of Physics and Astronomy Webmail :: Welcome to UBC Dept of Physics and Astronomy Webmail
+ - [https://mail.phas.ubc.ca](https://mail.phas.ubc.ca)
+ - date_published: 2024-08-06T10:27:23+00:00
+
+ ## Wayfinding at UBC - Vancouver Campus | UBC Map
+ - [http://maps.ubc.ca](http://maps.ubc.ca)
+ - date_published: 2024-06-25T17:11:07+00:00
+
+ ## Home - UBC Faculty of Medicine
+ - [https://med.ubc.ca](https://med.ubc.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home | UBC Centre for Migration Studies
+ - [https://migration.ubc.ca](https://migration.ubc.ca)
+ - date_published: 2024-10-19T10:39:37.315601+00:00
+
+ ## Home - UBC Okanagan News
+ - [https://newsbuild.ok.ubc.ca](https://newsbuild.ok.ubc.ca)
+ - date_published: 2024-07-21T09:06:24.415186+00:00
+
+ ## Home - UBC Okanagan News
+ - [https://news.ok.ubc.ca](https://news.ok.ubc.ca)
+ - date_published: 2024-04-30T05:18:50.696380+00:00
+
+ ## UBC News: News from the University of British Columbia
+ - [https://news.ubc.ca](https://news.ubc.ca)
+ - date_published: 2023-10-25T12:08:34.236560+00:00
+
+ ## UBC Okanagan
+ - [https://okmain.cms.ok.ubc.ca](https://okmain.cms.ok.ubc.ca)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## CMS at UBC Okanagan
+ - [http://ok.ubc.ca](http://ok.ubc.ca)
+ - date_published: 2024-07-21T09:06:28.456843+00:00
+
+ ## OpenAthens Login
+ - [https://openathens.library.ubc.ca](https://openathens.library.ubc.ca)
+ - date_published: 2024-07-21T09:07:59.522689+00:00
+
  ## Open Collections - UBC Library Open Collections
  - [https://open.library.ubc.ca](https://open.library.ubc.ca)
  - date_published: 2024-07-13T19:26:17.214817+00:00
@@ -3894,124 +4015,4 @@
  ## La Cinémathèque québécoise
  - [https://www.cinematheque.qc.ca](https://www.cinematheque.qc.ca)
  - date_published: 2024-12-21T21:15:38.178226+00:00
-
- ## Collège de Maisonneuve|Cégep à Montréal
- - [https://cmaisonneuve.qc.ca](https://cmaisonneuve.qc.ca)
- - date_published: 2023-03-21T00:00:00+00:00
-
- ## Accueil - Communauté métropolitaine de Montréal - CMM
- - [http://cmm.qc.ca](http://cmm.qc.ca)
- - date_published: 2024-12-20T10:40:08+00:00
-
- ## ffq.qc.ca
- - [http://www.ffq.qc.ca](http://www.ffq.qc.ca)
- - date_published: 2024-10-21T18:16:39.115557+00:00
-
- ## La Francofête
- - [https://www.francofete.qc.ca](https://www.francofete.qc.ca)
- - date_published: 2024-12-15T07:48:25.285442+00:00
-
- ## La Vitrine linguistique de l’Office québécois de la langue française
- - [http://bdl.oqlf.gouv.qc.ca](http://bdl.oqlf.gouv.qc.ca)
- - date_published: 2024-12-12T09:37:53.149424+00:00
-
- ## Accueil
- - [https://frq.gouv.qc.ca](https://frq.gouv.qc.ca)
- - date_published: 2024-06-22T07:30:03+00:00
-
- ## La Vitrine linguistique de l’Office québécois de la langue française
- - [https://gdt.oqlf.gouv.qc.ca](https://gdt.oqlf.gouv.qc.ca)
- - date_published: 2024-10-30T16:51:19.866244+00:00
-
- ## Ministère des Relations internationales et de la Francophonie
- - [http://mri.gouv.qc.ca](http://mri.gouv.qc.ca)
- - date_published: 2024-12-10T20:04:45.862079+00:00
-
- ## Commission de toponymie
- - [https://toponymie.gouv.qc.ca](https://toponymie.gouv.qc.ca)
- - date_published: 2024-12-15T07:48:22.746204+00:00
-
- ## La Vitrine linguistique de l’Office québécois de la langue française
- - [https://vitrinelinguistique.oqlf.gouv.qc.ca](https://vitrinelinguistique.oqlf.gouv.qc.ca)
- - date_published: 2024-12-15T07:48:20.156013+00:00
-
- ## Accueil
- - [http://www.calq.gouv.qc.ca](http://www.calq.gouv.qc.ca)
- - date_published: 2024-12-10T20:16:21.347340+00:00
-
- ## Ministère de la Culture et des Communications
- - [https://www.mcc.gouv.qc.ca](https://www.mcc.gouv.qc.ca)
- - date_published: 2023-08-07T11:36:23+00:00
-
- ## Accueil - Office québécois de la langue française
- - [https://www.oqlf.gouv.qc.ca](https://www.oqlf.gouv.qc.ca)
- - date_published: 2024-10-19T15:30:55.536326+00:00
-
- ## | Grenier aux nouvelles
- - [https://www.grenier.qc.ca](https://www.grenier.qc.ca)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Trouver une décision | SOQUIJ
- - [https://jugements.qc.ca](https://jugements.qc.ca)
- - date_published: 2024-04-30T05:33:19.515573+00:00
-
- ## Accueil | les amis de la montagne
- - [http://www.lemontroyal.qc.ca](http://www.lemontroyal.qc.ca)
- - date_published: 2024-07-10T11:01:26.676342+00:00
-
- ## Index
- - [https://www.mbam.qc.ca](https://www.mbam.qc.ca)
- - date_published: 2024-10-18T06:57:05.579519+00:00
-
- ## Un avenir à égalité | Oxfam-Québec
- - [https://oxfam.qc.ca](https://oxfam.qc.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Québec Science - L'heure est à la science
- - [https://www.quebecscience.qc.ca](https://www.quebecscience.qc.ca)
- - date_published: 2018-06-18T22:31:43+00:00
-
- ## Recettes du Québec
- - [https://www.recettes.qc.ca](https://www.recettes.qc.ca)
- - date_published: 2024-08-19T08:10:35.935042+00:00
-
- ## Centre d'aide SOQUIJ
- - [https://aide.soquij.qc.ca](https://aide.soquij.qc.ca)
- - date_published: 2023-07-22T07:50:13+00:00
-
- ## Accueil
- - [https://aristote.soquij.qc.ca](https://aristote.soquij.qc.ca)
- - date_published: 2024-04-30T05:33:10.583218+00:00
-
- ## Accueil
- - [https://blogue.soquij.qc.ca](https://blogue.soquij.qc.ca)
- - date_published: 2024-04-30T05:33:59.647746+00:00
-
- ## Nos postes ouverts à Montréal, Québec | SOQUIJ Carrières
- - [https://carrieres.soquij.qc.ca](https://carrieres.soquij.qc.ca)
- - date_published: 2024-07-21T07:54:53.717013+00:00
-
- ## Trouver une décision | SOQUIJ
- - [https://citoyens.soquij.qc.ca](https://citoyens.soquij.qc.ca)
- - date_published: 2023-10-25T12:09:44.985607+00:00
-
- ## Centre de formation SOQUIJ
- - [https://formations.soquij.qc.ca](https://formations.soquij.qc.ca)
- - date_published: 2024-07-21T07:54:55.119535+00:00
-
- ## Accueil
- - [https://soquij.qc.ca](https://soquij.qc.ca)
- - date_published: 2024-04-30T05:33:12.499235+00:00
-
- ## Home - Health Quality Council
- - [http://www.hqc.sk.ca](http://www.hqc.sk.ca)
- - date_published: 2025-01-01T18:32:35.044473+00:00
-
- ## Law Society of Saskatchewan
- - [http://www.lawsociety.sk.ca](http://www.lawsociety.sk.ca)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## Welcome to the Johnson Shoyama Graduate School of Public Policy - Graduate School of Public Policy
- - [https://www.schoolofpublicpolicy.sk.ca](https://www.schoolofpublicpolicy.sk.ca)
- - date_published: 2024-09-02T13:05:47.749362+00:00
 
