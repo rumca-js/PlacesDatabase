@@ -691,6 +691,10 @@
  - [https://conagro.ae](https://conagro.ae)
  - date_published: 2024-12-12T20:58:28.001520+00:00
 
+ ## متجر الهدايا الفريدة والأدوات الرائعة | Cool Mania E-Shop
+ - [https://www.cool-mania.ae](https://www.cool-mania.ae)
+ - date_published: 2025-01-08T23:33:25.813471+00:00
+
  ## Costa Coffee | UAE
  - [https://www.costacoffee.ae](https://www.costacoffee.ae)
  - date_published: 2024-07-04T08:06:02+00:00
@@ -1902,6 +1906,10 @@
  - [https://www.datatree.ag](https://www.datatree.ag)
  - date_published: 2024-04-26T00:00:00+00:00
 
+ ## Home - DesignM.ag
+ - [http://designm.ag](http://designm.ag)
+ - date_published: 2025-01-08T23:43:44.856178+00:00
+
  ## Web Server's Default Page
  - [https://domain.ag](https://domain.ag)
  - date_published: 2021-06-08T02:26:57+00:00
@@ -2430,6 +2438,10 @@
  ## 10W.AI
  - [https://10w.ai](https://10w.ai)
  - date_published: 2024-02-29T02:11:21+00:00
+
+ ## 10xEngineers
+ - [https://10xengineers.ai](https://10xengineers.ai)
+ - date_published: 2025-01-08T17:56:28.333129+00:00
 
  ## 1PX.AI
  - [https://1px.ai](https://1px.ai)
@@ -3466,6 +3478,10 @@
  - [https://awards.ai](https://awards.ai)
  - date_published: 2024-07-13T23:25:50.806101+00:00
 
+ ## Axelera AI - Extreme Performance, Excellent Efficiency. Accelerating Inference at the Edge.
+ - [https://www.axelera.ai](https://www.axelera.ai)
+ - date_published: 2025-01-08T17:55:11.188401+00:00
+
  ## No code browser automation | axiom.ai
  - [https://axiom.ai](https://axiom.ai)
  - date_published: 2024-06-17T15:57:01+00:00
@@ -3891,6 +3907,10 @@
  - [https://blush.ai](https://blush.ai)
  - date_published: 2024-04-09T10:46:08+00:00
 
+ ## Bobble AI
+ - [https://www.bobble.ai](https://www.bobble.ai)
+ - date_published: 2024-12-17T07:27:04+00:00
+
  ## Bodo | Extremely efficient data processing in SQL and Python
  - [https://www.bodo.ai](https://www.bodo.ai)
  - date_published: 2024-08-01T00:00:00+00:00
@@ -3998,24 +4018,4 @@
  ## Brancher.ai
  - [https://brancher.ai](https://brancher.ai)
  - date_published: 2024-10-04T21:55:43+00:00
-
- ## Empower Your Brand with AI Technology ~ Brandmate
- - [https://brandmate.ai](https://brandmate.ai)
- - date_published: 2023-05-30T12:13:52+00:00
-
- ## AI Social Media Management for Healthcare & Agencies | BrandSocial
- - [https://www.brandsocial.ai](https://www.brandsocial.ai)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## BrandWell | Brand Growth, Made Easy
- - [https://brandwell.ai](https://brandwell.ai)
- - date_published: 2024-10-30T14:49:22.316345+00:00
-
- ## Brandwise | Social Engagement Manager
- - [https://brandwise.ai](https://brandwise.ai)
- - date_published: 2024-07-10T11:15:45.132110+00:00
-
- ## Brask: AI Video and Audio Localization. Creating Digital Doubles for Global Markets
- - [https://brask.ai](https://brask.ai)
- - date_published: 2024-10-17T15:34:17+00:00
 

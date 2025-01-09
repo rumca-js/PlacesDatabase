@@ -1,3 +1,306 @@
+ ## Jogadores Anônimos
+ - [https://jogadoresanonimos.com.br](https://jogadoresanonimos.com.br)
+ - date_published: 2024-10-31T02:19:07.685673+00:00
+
+ ## Jogo de Dados Apostas | Jogar craps em Cassinos Online com dinheiro real
+ - [https://jogododadoaposta.com.br](https://jogododadoaposta.com.br)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Jogo Fortune Rabbit lll▷ Fortune Rabbit PG Soft
+ - [https://jogo-fortune-rabbit.com.br](https://jogo-fortune-rabbit.com.br)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Revista Jogos 80
+ - [https://www.jogos80.com.br](https://www.jogos80.com.br)
+ - date_published: 2024-07-02T23:58:02.929047+00:00
+
+ ## Jogo do Tiger Fortune ᐈ Fortune Tiger PG Soft【Site Oficial】
+ - [https://jogo-tiger-fortune.com.br](https://jogo-tiger-fortune.com.br)
+ - date_published: 2023-09-22T15:01:30+00:00
+
+ ## Jo Nakashima
+ - [https://jonakashima.com.br](https://jonakashima.com.br)
+ - date_published: 2024-05-02T09:39:51.879042+00:00
+ - tags: ['origami', 'personal']
+
+ ## Jonas Galvez
+ - [https://hire.jonasgalvez.com.br](https://hire.jonasgalvez.com.br)
+ - date_published: 2024-05-24T05:16:21.080512+00:00
+
+ ## Jornal de Brasília
+ - [https://jornaldebrasilia.com.br](https://jornaldebrasilia.com.br)
+ - date_published: 2024-12-26T18:28:56.689174+00:00
+
+ ## Jornal Opção
+ - [https://www.jornalopcao.com.br](https://www.jornalopcao.com.br)
+ - date_published: 2024-12-20T09:12:34.811768+00:00
+
+ ## Jovem Pan – Esportes, entretenimento, notícias e vídeos com credibilidade
+ - [https://jovempan.com.br](https://jovempan.com.br)
+ - date_published: 2024-10-28T12:13:24.379783+00:00
+
+ ## J.P. Morgan Brasil | Sobre nós
+ - [https://jpmorgan.com.br](https://jpmorgan.com.br)
+ - date_published: 2024-06-14T19:31:31+00:00
+
+ ## Justos: Seguro Auto Mensal
+ - [https://justos.com.br](https://justos.com.br)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## KaBuM! | Maior E-commerce de Tecnologia e Games da América Latina
+ - [https://www.kabum.com.br](https://www.kabum.com.br)
+ - date_published: 2024-07-13T13:39:39.607132+00:00
+
+ ## Nota Bene | Blog Oficial De Eugene Kaspersky
+ - [https://eugene.kaspersky.com.br](https://eugene.kaspersky.com.br)
+ - date_published: 2024-10-20T23:08:56.115717+00:00
+
+ ## Kaspersky Base de conhecimento
+ - [https://support.kaspersky.com.br](https://support.kaspersky.com.br)
+ - date_published: 2024-08-06T08:00:56.081926+00:00
+
+ ## Cibersegurança para residências e empresas | Kaspersky
+ - [https://www.kaspersky.com.br](https://www.kaspersky.com.br)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Pesquise voos, hotéis e aluguel de carros | KAYAK
+ - [https://www.kayak.com.br](https://www.kayak.com.br)
+ - date_published: 2024-12-22T15:21:02.244573+00:00
+
+ ## Levamos a nutrição direto para a sua mesa l Kellogg's® Masterbrand | Kellogg's®
+ - [https://www.kelloggs.com.br](https://www.kelloggs.com.br)
+ - date_published: 2024-12-22T05:21:24+00:00
+
+ ## Início - Key Produções
+ - [https://www.keyproducoes.com.br](https://www.keyproducoes.com.br)
+ - date_published: 2024-12-23T08:07:57.120559+00:00
+
+ ## King of Code - Solving problems with intelligence
+ - [https://kingofcode.com.br](https://kingofcode.com.br)
+ - date_published: 2024-09-03T23:34:07.620125+00:00
+
+ ## Feira | Koelnmesse Brasil
+ - [https://www.koelnmesse.com.br](https://www.koelnmesse.com.br)
+ - date_published: 2024-06-26T15:11:12+00:00
+
+ ## Home
+ - [https://kokku.com.br](https://kokku.com.br)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Konecranes
+ - [https://www.konecranes.com.br](https://www.konecranes.com.br)
+ - date_published: 2024-06-20T23:13:18.773028+00:00
+
+ ## Kovi | Aluguel de carros sem aprovação de crédito
+ - [https://loja.kovi.com.br](https://loja.kovi.com.br)
+ - date_published: 2024-10-28T13:53:00+00:00
+
+ ## Kovi | Aluguel de carros sem aprovação de crédito
+ - [https://www.kovi.com.br](https://www.kovi.com.br)
+ - date_published: 2024-06-19T08:26:32+00:00
+
+ ## Kube Arquitetura - Varejo Elevado ao Cubo
+ - [http://kubearquitetura.com.br](http://kubearquitetura.com.br)
+ - date_published: 2022-05-19T13:36:06+00:00
+
+ ## Jogos Online Grátis - Lagged.com.br
+ - [https://lagged.com.br](https://lagged.com.br)
+ - date_published: 2024-05-04T11:46:07.653485+00:00
+
+ ## Landerson Gomes - Delphi, Android e Tecnologia
+ - [https://landersongomes.com.br](https://landersongomes.com.br)
+ - date_published: 2024-06-17T03:35:37.511081+00:00
+
+ ## Land Rover. Veículos 4x4 e SUVs de Luxo
+ - [https://www.landrover.com.br](https://www.landrover.com.br)
+ - date_published: 2024-07-09T17:13:12.193124+00:00
+
+ ## Inglês, Alemão, Chinês e Muitos Outros Cursos de Línguas | Aulas Personalizadas de Idiomas
+ - [https://www.languagetrainersbrasil.com.br](https://www.languagetrainersbrasil.com.br)
+ - date_published: 2024-07-02T09:21:25.824085+00:00
+
+ ## Las Magrelas | Bicicletaria
+ - [https://lasmagrelas.com.br](https://lasmagrelas.com.br)
+ - date_published: 2019-02-09T01:26:45+00:00
+
+ ## Legião dos Heróis
+ - [https://www.legiaodosherois.com.br](https://www.legiaodosherois.com.br)
+ - date_published: 2024-12-26T17:29:20+00:00
+
+ ## Leiturinha | O maior clube de livros infantis do Brasil
+ - [https://leiturinha.com.br](https://leiturinha.com.br)
+ - date_published: 2024-12-27T23:18:55.645894+00:00
+
+ ## LETRAS - Letras de músicas e músicas para ouvir
+ - [https://www.letras.com.br](https://www.letras.com.br)
+ - date_published: 2024-12-26T17:54:54.731940+00:00
+
+ ## LexisNexis Risk Solutions | Transforme sua tomada de decisão de risco
+ - [https://risk.lexisnexis.com.br](https://risk.lexisnexis.com.br)
+ - date_published: 2024-06-16T17:26:20.136282+00:00
+
+ ## LINAK - Tecnologia de sistemas de atuadores elétricos para movimento
+ - [https://www.linak.com.br](https://www.linak.com.br)
+ - date_published: 2024-09-05T21:36:00.178683+00:00
+
+ ## Lindt Brasil
+ - [https://www.lindt.com.br](https://www.lindt.com.br)
+ - date_published: 2024-12-20T16:59:30.846843+00:00
+
+ ## Liti Saúde
+ - [https://www.litisaude.com.br](https://www.litisaude.com.br)
+ - date_published: 2024-10-29T22:05:49+00:00
+
+ ## LiveAgent | Software simples de suporte ao cliente para equipes
+ - [https://www.liveagent.com.br](https://www.liveagent.com.br)
+ - date_published: 2024-10-19T20:27:14.339827+00:00
+
+ ## Homepage
+ - [https://liverampbrasil.com.br](https://liverampbrasil.com.br)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Livraria Cultura: Experiências que transformam
+ - [http://www.livrariacultura.com.br](http://www.livrariacultura.com.br)
+ - date_published: 2024-06-20T05:22:05.083853+00:00
+
+ ## UM LIVRO NO CHÁ DAS CINCO
+ - [http://www.livronochadascinco.com.br](http://www.livronochadascinco.com.br)
+ - date_published: 2024-12-06T10:45:48+00:00
+
+ ## Grupo Editorial Record
+ - [https://livrosbestbusiness.com.br](https://livrosbestbusiness.com.br)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Marmitas fitness e comida congelada | Experimente Liv Up
+ - [https://www.livup.com.br](https://www.livup.com.br)
+ - date_published: 2024-10-28T12:06:34.417613+00:00
+
+ ## LkSvn
+ - [https://lksvn.com.br](https://lksvn.com.br)
+ - date_published: 2021-04-30T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Ajuda Locaweb: Tire suas dúvidas sobre nossos produtos
+ - [http://wiki.locaweb.com.br](http://wiki.locaweb.com.br)
+ - date_published: 2024-09-01T00:00:00+00:00
+
+ ## Hospedagem de Site com Domínio Grátis - Locaweb
+ - [https://www.locaweb.com.br](https://www.locaweb.com.br)
+ - date_published: 2024-06-22T21:22:57.442362+00:00
+
+ ## LojaDoMecanico.com.br - Maior Loja de Máquinas e Ferramentas do Brasil
+ - [https://busca.lojadomecanico.com.br](https://busca.lojadomecanico.com.br)
+ - date_published: 2024-10-28T12:26:29.320155+00:00
+
+ ## Curriculo Web
+ - [https://vemcomagente.lojadomecanico.com.br](https://vemcomagente.lojadomecanico.com.br)
+ - date_published: 2024-09-25T17:01:57+00:00
+
+ ## LojaDoMecanico.com.br - Maior Loja de Máquinas e Ferramentas do Brasil
+ - [https://www.lojadomecanico.com.br](https://www.lojadomecanico.com.br)
+ - date_published: 2024-06-19T08:25:12.911368+00:00
+
+ ## Loja Editora Petra
+ - [https://www.lojaeditorapetra.com.br](https://www.lojaeditorapetra.com.br)
+ - date_published: 2024-05-10T07:03:20.738014+00:00
+ - tags: ['books', 'shop']
+
+ ## Loja da Editora Trama
+ - [https://www.lojaeditoratrama.com.br](https://www.lojaeditoratrama.com.br)
+ - date_published: 2024-05-10T07:03:24.470610+00:00
+
+ ## Fauna
+ - [https://www.lojafauna.com.br](https://www.lojafauna.com.br)
+ - date_published: 2024-07-03T02:16:11.550966+00:00
+
+ ## Editora Girassol
+ - [https://www.lojagirassolbrasil.com.br](https://www.lojagirassolbrasil.com.br)
+ - date_published: 2024-07-03T02:16:16.033382+00:00
+
+ ## Criar loja virtual  I Venda online com a Loja Integrada
+ - [https://www.lojaintegrada.com.br](https://www.lojaintegrada.com.br)
+ - date_published: 2024-05-07T14:20:48+00:00
+
+ ## Universal Music Store - Produtos Oficiais
+ - [https://www.lojaqueen.com.br](https://www.lojaqueen.com.br)
+ - date_published: 2024-06-30T23:38:55.871138+00:00
+
+ ## Loja online de EDIÇÕES GLOBO CONDE NAST
+ - [https://edicoesglobocondenast.lojavirtualnuvem.com.br](https://edicoesglobocondenast.lojavirtualnuvem.com.br)
+ - date_published: 2024-10-20T19:16:06.690329+00:00
+
+ ## Loja Oficial Warner Bros
+ - [https://www.lojawarnerbros.com.br](https://www.lojawarnerbros.com.br)
+ - date_published: 2024-06-29T15:12:21.338179+00:00
+
+ ## Lolja - Vista o Extraordinário
+ - [https://lolja.com.br](https://lolja.com.br)
+ - date_published: 2024-07-17T16:57:43.859138+00:00
+
+ ## Luciano Pires - Palestras Provocacionais
+ - [http://www.lucianopires.com.br](http://www.lucianopires.com.br)
+ - date_published: 2024-12-20T07:34:41.169255+00:00
+
+ ## Lucky Jet ✈️ Jogue, Baixe e Ganhe Grande com LuckyJet Online!
+ - [https://luckyjetz.com.br](https://luckyjetz.com.br)
+ - date_published: 2024-09-10T13:35:30.026278+00:00
+
+ ## John Deere MachineFinder Used Equipment
+ - [https://machinefinder.com.br](https://machinefinder.com.br)
+ - date_published: 2024-06-15T21:09:32.666441+00:00
+
+ ## Madrid Open Mall – Madrid Open Mall
+ - [https://madridopenmall.com.br](https://madridopenmall.com.br)
+ - date_published: 2024-09-06T19:18:54.093545+00:00
+
+ ## MaisCuidado
+ - [https://admin.maiscuidado.com.br](https://admin.maiscuidado.com.br)
+ - date_published: 2024-06-03T23:46:17+00:00
+
+ ## Mais Esports - Notícias de LoL, CS, VALORANT, e outros Esports
+ - [https://maisesports.com.br](https://maisesports.com.br)
+ - date_published: 2024-08-06T03:58:44.101607+00:00
+
+ ## Mais Novela
+ - [https://maisnovela.com.br](https://maisnovela.com.br)
+ - date_published: 2024-07-11T17:33:20.706587+00:00
+
+ ## Home - Manequim
+ - [https://manequim.com.br](https://manequim.com.br)
+ - date_published: 2024-07-11T17:33:24.129126+00:00
+
+ ## Mapa Múndi Blog
+ - [http://www.mapamundiblog.com.br](http://www.mapamundiblog.com.br)
+ - date_published: 2024-07-03T23:08:24+00:00
+
+ ## Márcia Piovesan - Home
+ - [https://marciapiovesan.com.br](https://marciapiovesan.com.br)
+ - date_published: 2024-07-11T17:33:17.337170+00:00
+
+ ## Marcon Numismática
+ - [https://www.marconnumismatica.com.br](https://www.marconnumismatica.com.br)
+ - date_published: 2024-12-23T21:31:17.913824+00:00
+
+ ## Bem vindo ao nosso website
+ - [https://mariocontabilidade.com.br](https://mariocontabilidade.com.br)
+ - date_published: 2024-12-23T08:04:02.860175+00:00
+
+ ## Marte Científica – 70 anos líder de mercado
+ - [https://www.marte.com.br](https://www.marte.com.br)
+ - date_published: 2024-09-05T21:00:57.269039+00:00
+
+ ## Mary Kay do Brasil: Skincare, Maquiagens, Fragrâncias e Mais
+ - [https://www.marykay.com.br](https://www.marykay.com.br)
+ - date_published: 2024-06-30T09:56:12.642405+00:00
+
+ ## MASP - Exposição Virtual DEGAS
+ - [https://www.maspdegas.com.br](https://www.maspdegas.com.br)
+ - date_published: 2021-08-02T19:35:36+00:00
+
+ ## Mastercard - Uma empresa global de tenologia da indústria de meios de pagamento
+ - [https://www.mastercard.com.br](https://www.mastercard.com.br)
+ - date_published: 2024-10-11T18:25:23+00:00
+
  ## Mediastream | Impulsione sua estratégia de áudio e vídeo
  - [https://www.mediastream.com.br](https://www.mediastream.com.br)
  - date_published: 2024-09-05T00:00:00+00:00
@@ -2016,6 +2319,10 @@
  - [https://yelp.com.br](https://yelp.com.br)
  - date_published: 2024-07-01T06:58:50.323933+00:00
 
+ ## Segurança TI Campinas, Jundiaí e Região - Yes Security
+ - [https://yessecurity.com.br](https://yessecurity.com.br)
+ - date_published: 2025-01-08T15:04:25.389332+00:00
+
  ## YouTube
  - [https://youtube.com.br](https://youtube.com.br)
  - date_published: 2024-03-06T00:00:00+00:00
@@ -2825,6 +3132,10 @@
  ## Home - Open Knowledge Brasil
  - [https://ok.org.br](https://ok.org.br)
  - date_published: 2024-06-12T06:03:34.762017+00:00
+
+ ## Apache OpenOffice - A Suíte de Produtividade Aberta e Gratuíta
+ - [http://www.openoffice.org.br](http://www.openoffice.org.br)
+ - date_published: 2025-01-08T18:44:29.782883+00:00
 
  ## Home - Oxfam Brasil
  - [https://www.oxfam.org.br](https://www.oxfam.org.br)
@@ -3697,314 +4008,4 @@
  ## pr.business | blog
  - [https://blog.pr.business](https://blog.pr.business)
  - date_published: 2024-06-29T19:06:35.927276+00:00
-
- ## PR.Business
- - [https://dash.pr.business](https://dash.pr.business)
- - date_published: 2023-01-18T08:56:36+00:00
-
- ## pr.business (dir)
- - [https://dir.pr.business](https://dir.pr.business)
- - date_published: 2022-04-22T00:00:00+00:00
-
- ## Online Marketing – Reviews & Listings | PR.Business
- - [https://pr.business](https://pr.business)
- - date_published: 2024-05-07T13:46:51.482719+00:00
-
- ## pr.business (Rev)
- - [https://rev.pr.business](https://rev.pr.business)
- - date_published: 2022-04-22T00:00:00+00:00
-
- ## pr.business (Soc)
- - [https://soc.pr.business](https://soc.pr.business)
- - date_published: 2022-04-22T00:00:00+00:00
-
- ## pr.business (Web)
- - [https://web.pr.business](https://web.pr.business)
- - date_published: 2022-04-22T00:00:00+00:00
-
- ## Adam Wood
-		- Syzygy Business
- - [https://syzygy.business](https://syzygy.business)
- - date_published: 2024-06-30T17:20:10+00:00
-
- ## 🅈🄸🄿🄿🅈 BUSINESS: Startups and Beyond!
- - [https://yippy.business](https://yippy.business)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## BlabberBuzz News & Media - Here Ye!
- - [https://www.blabber.buzz](https://www.blabber.buzz)
- - date_published: 2024-09-16T20:10:42.350441+00:00
-
- ## Buzzy - Idea to app in minutes
- - [https://buzzy.buzz](https://buzzy.buzz)
- - date_published: 2024-10-30T15:13:29.118608+00:00
-
- ## Welcome to Buzzy | Buzzy Documentation
- - [https://docs.buzzy.buzz](https://docs.buzzy.buzz)
- - date_published: 2024-10-30T15:13:22.469870+00:00
-
- ## Huebee
- - [https://huebee.buzz](https://huebee.buzz)
- - date_published: 2024-06-12T03:29:49.262892+00:00
-
- ## آیس بت - icebet | اپلیکیشن سایت شرط بندی بدون فیلتر
- - [http://icebet.buzz](http://icebet.buzz)
- - date_published: 2024-08-08T11:51:04.530819+00:00
-
- ## Andrew Chou
- - [https://andrew.nonetoohappy.buzz](https://andrew.nonetoohappy.buzz)
- - date_published: 2024-05-09T07:47:30.977953+00:00
-
- ## none too happy
- - [https://nonetoohappy.buzz](https://nonetoohappy.buzz)
- - date_published: 2024-07-10T06:23:58.204838+00:00
-
- ## پارس نود (Pars90): بهترین سایت شرط بندی
- - [http://pars90bet.buzz](http://pars90bet.buzz)
- - date_published: 2024-08-08T11:50:43.215780+00:00
-
- ## the Free Movie
- - [https://thefreemovie.buzz](https://thefreemovie.buzz)
- - date_published: 2023-10-25T12:03:03.337705+00:00
-
- ## Time Flies – A game about our limited time in this world.
- - [https://timeflies.buzz](https://timeflies.buzz)
- - date_published: 2023-12-20T01:12:51+00:00
-
- ## Mmegi Online - Home
- - [http://www.mmegi.bw](http://www.mmegi.bw)
- - date_published: 2024-12-13T09:54:02.874114+00:00
-
- ## Grafika Google
- - [https://images.google.co.bw](https://images.google.co.bw)
- - date_published: 2024-07-20T07:36:20.965301+00:00
-
- ## Google
- - [https://www.google.co.bw](https://www.google.co.bw)
- - date_published: 2024-06-21T22:25:47.128173+00:00
-
- ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover
- - [https://www.landrover.co.bw](https://www.landrover.co.bw)
- - date_published: 2024-07-09T17:13:39.778943+00:00
-
- ## Webtickets Online
- - [https://www.webtickets.co.bw](https://www.webtickets.co.bw)
- - date_published: 2024-09-02T11:46:51.011246+00:00
-
- ## Home | BWCirt
- - [https://www.cirt.org.bw](https://www.cirt.org.bw)
- - date_published: 2024-07-01T05:13:42+00:00
-
- ## Svarichevsky Mikhail
- - [https://14.by](https://14.by)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Svarichevsky Mikhail
- - [https://3.14.by](https://3.14.by)
- - date_published: 2024-01-16T06:21:34.423774+00:00
-
- ## 185.by Найти адреса, телефоны в Беларуси, справочная информация. Справочник контактов, товаров и услуг, Минск.
- - [http://www.185.by](http://www.185.by)
- - date_published: 2024-07-19T16:35:21.644846+00:00
-
- ## 1С-Битрикс - сервисы и инструменты для бизнеса
- - [https://www.1c-bitrix.by](https://www.1c-bitrix.by)
- - date_published: 2024-10-17T14:43:24.263592+00:00
-
- ## Четверть века государственности Беларуси
- - [http://25.by](http://25.by)
- - date_published: 2023-01-05T11:13:29+00:00
-
- ## Ales Tsurko | Home
- - [https://alestsurko.by](https://alestsurko.by)
- - date_published: 2023-10-25T09:02:09.768428+00:00
- - tags: ['personal']
-
- ## Атлант-М: Купить авто онлайн, доставка по всей Беларуси
- - [https://www.atlant-m.by](https://www.atlant-m.by)
- - date_published: 2024-10-29T21:31:18.926859+00:00
-
- ## Атлант-М: Купить авто онлайн, доставка по всей Беларуси
- - [https://atlantm.by](https://atlantm.by)
- - date_published: 2024-10-29T21:31:11.531991+00:00
-
- ## B2B.BY - желтые страницы Беларуси: справочник, каталог, база данных предприятий, заводов, организаций, компании, фирм, ип, адреса, номера телефонов
- - [https://www.b2b.by](https://www.b2b.by)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Купить коммерческий транспорт, продажа коммерческих автомобилей — Атлант-М
- - [https://b2b-atlantm.by](https://b2b-atlantm.by)
- - date_published: 2024-10-29T21:31:29.290447+00:00
-
- ## @baddesigner
- - [http://baddesigner.by](http://baddesigner.by)
- - date_published: 2024-07-13T15:55:41.185957+00:00
-
- ## Музыкальный фестиваль "Большая бард-рыбалка"
- - [https://bard-rybalka.by](https://bard-rybalka.by)
- - date_published: 2024-06-28T08:04:48+00:00
-
- ## Free Lead Magnet Software - eBooks, Workbooks etc - Beacon
- - [https://beacon.by](https://beacon.by)
- - date_published: 2024-07-14T20:48:19.396213+00:00
-
- ## Канал Беларусь 24: новости страны и мира, программа передач
- - [https://belarus24.by](https://belarus24.by)
- - date_published: 2024-06-30T03:40:43.972739+00:00
-
- ## Игровые приставки и видеоигры - купить в Минске консоль | Доставка приставок и игр по всей Беларуси
- - [http://www.belconsole.by](http://www.belconsole.by)
- - date_published: 2024-06-17T05:42:10.089583+00:00
-
- ## Новости Беларуси|БелТА
- - [https://belta.by](https://belta.by)
- - date_published: 2024-08-11T16:08:09.433512+00:00
-
- ## Навіны Беларусі | Беларускія навіны | Беларусь - афіцыйныя навіны | Мінск | БелТА
- - [https://blr.belta.by](https://blr.belta.by)
- - date_published: 2024-08-11T16:07:59.698299+00:00
-
- ## 白俄罗斯新闻
- - [https://chn.belta.by](https://chn.belta.by)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Nachrichten aus Belarus | Belarussische Nachrichten | Belarus – offizielle Nachrichten | Minsk | BelTA
- - [https://deu.belta.by](https://deu.belta.by)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Belarus News | Belarusian news | Belarus today | news in Belarus | Minsk news | BELTA
- - [https://eng.belta.by](https://eng.belta.by)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Noticias de Belarús | Noticias belarusas | Belarús - noticias oficiales | Minsk | BelTA
- - [https://esp.belta.by](https://esp.belta.by)
- - date_published: 2024-08-11T16:19:42.181561+00:00
-
- ## Białoruś Wiadomości | wiadomości białoruskie | Białoruś dzisiaj | aktualności na Białorusi | wiadomości z Mińska | BELTA
- - [https://pol.belta.by](https://pol.belta.by)
- - date_published: 2024-08-11T15:58:20.545435+00:00
-
- ## Создание интернет-магазина, Создать интернет-магазин самостоятельно и бесплатно в Минске, Беларуси
- - [https://beseller.by](https://beseller.by)
- - date_published: 2024-10-17T07:04:03.104309+00:00
-
- ## Custom Domain by Bitly
- - [http://blur.by](http://blur.by)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Купить Форд новый в Минске | Официальный дилер Атлант-М Боровая в Беларуси
- - [https://borovaya.by](https://borovaya.by)
- - date_published: 2024-10-29T21:31:33.560722+00:00
-
- ## БСХ Бытовые Приборы
- - [https://www.bosch-home.by](https://www.bosch-home.by)
- - date_published: 2024-05-27T08:46:55+00:00
-
- ## Официальный дилер Citroën в Беларуси – ПарадАвто
- - [https://www.citroen.by](https://www.citroen.by)
- - date_published: 2024-05-08T05:30:20.015900+00:00
-
- ## CoreHard
- - [https://corehard.by](https://corehard.by)
- - date_published: 2024-05-25T09:50:35.254380+00:00
-
- ## Index of /
- - [http://mirror.datacenter.by](http://mirror.datacenter.by)
- - date_published: 2024-08-19T22:19:56.673011+00:00
-
- ## Ремонт квартир в Минске
- - [https://domremont.by](https://domremont.by)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Купить Форд новый в Минске | Официальный дилер Атлант-М Боровая в Беларуси
- - [http://www.ford.by](http://www.ford.by)
- - date_published: 2024-06-19T17:00:48.390964+00:00
-
- ## Игровые приставки, игры и аксессуары купить в Минске - gameclub.by
- - [http://gameclub.by](http://gameclub.by)
- - date_published: 2024-06-17T05:41:42.907759+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.by](https://maps.google.by)
- - date_published: 2024-07-20T07:40:31.401680+00:00
-
- ## Google
- - [https://www.google.by](https://www.google.by)
- - date_published: 2024-06-21T22:23:47.483648+00:00
-
- ## Гродненский областной исполнительный комитет
- - [http://www.region.grodno.by](http://www.region.grodno.by)
- - date_published: 2024-08-11T16:11:08.534933+00:00
-
- ## Главная страница
- - [https://www.hilti.by](https://www.hilti.by)
- - date_published: 2024-06-20T07:27:26.364546+00:00
-
- ## Создать интернет-магазин бесплатно – Готовый интернет-магазин с нуля на Insales
- - [https://insales.by](https://insales.by)
- - date_published: 2024-06-18T15:30:25+00:00
-
- ## Защитные решения кибербезопасности для дома и бизнеса | Лаборатория Касперского
- - [http://www.kaspersky.by](http://www.kaspersky.by)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Услуги таможженного оформления, оформление таможенных деклараций  - транспортно-экспедиционная компания КРАФТТРАНС
- - [http://declarant.krafttrans.by](http://declarant.krafttrans.by)
- - date_published: 2024-12-28T06:24:17.519205+00:00
-
- ## Главная
- - [http://www.kultura.by](http://www.kultura.by)
- - date_published: 2024-08-08T11:40:12+00:00
-
- ## Министерство архитектуры и строительства Республики Беларусь
- - [http://www.mas.by](http://www.mas.by)
- - date_published: 2024-08-11T15:51:05.738301+00:00
-
- ## Онлайн-магазин TiwiT.by
- - [http://megaopt.by](http://megaopt.by)
- - date_published: 2024-12-28T06:48:49.193270+00:00
-
- ## Наша Ніва: першая беларуская газета
- - [http://nn.by](http://nn.by)
- - date_published: 2024-08-19T21:19:05.506444+00:00
-
- ## Официальный дилер Opel в Беларуси – ПарадАвто
- - [https://www.opel.by](https://www.opel.by)
- - date_published: 2024-07-10T12:39:53+00:00
-
- ## Партизаны Беларуси
- - [https://partizany.by](https://partizany.by)
- - date_published: 2024-06-30T03:40:24.019135+00:00
-
- ## PERI - Опалубка и строительные леса
- - [https://www.peri.by](https://www.peri.by)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Philips -  Беларусь
- - [https://www.philips.by](https://www.philips.by)
- - date_published: 2024-10-30T09:58:42+00:00
-
- ## Русская версия
- - [https://photobelta.by](https://photobelta.by)
- - date_published: 2024-08-11T15:58:15.836772+00:00
-
- ## pocketbook
- - [https://company.pocketbook.by](https://company.pocketbook.by)
- - date_published: 2024-07-20T16:13:21.398506+00:00
-
- ## Что приготовить на ужин, на завтрак, на обед
- - [https://eda.sb.by](https://eda.sb.by)
- - date_published: 2024-06-30T03:40:39.570597+00:00
-
- ## Издательский дом «Беларусь сегодня»
- - [https://org.sb.by](https://org.sb.by)
- - date_published: 2024-06-30T03:40:19.537784+00:00
-
- ## Спецпроекты
- - [http://photo.sb.by](http://photo.sb.by)
- - date_published: 2024-03-29T10:27:18+00:00
-
- ## Новости Беларуси | белорусские новости | новости сегодня | последние новости | события в Беларуси и мире | темы дня | фото | видео | инфографика
- - [https://sb.by](https://sb.by)
- - date_published: 2024-05-07T15:11:50.507081+00:00
 

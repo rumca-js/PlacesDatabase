@@ -1,3 +1,23 @@
+ ## Empower Your Brand with AI Technology ~ Brandmate
+ - [https://brandmate.ai](https://brandmate.ai)
+ - date_published: 2023-05-30T12:13:52+00:00
+
+ ## AI Social Media Management for Healthcare & Agencies | BrandSocial
+ - [https://www.brandsocial.ai](https://www.brandsocial.ai)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## BrandWell | Brand Growth, Made Easy
+ - [https://brandwell.ai](https://brandwell.ai)
+ - date_published: 2024-10-30T14:49:22.316345+00:00
+
+ ## Brandwise | Social Engagement Manager
+ - [https://brandwise.ai](https://brandwise.ai)
+ - date_published: 2024-07-10T11:15:45.132110+00:00
+
+ ## Brask: AI Video and Audio Localization. Creating Digital Doubles for Global Markets
+ - [https://brask.ai](https://brask.ai)
+ - date_published: 2024-10-17T15:34:17+00:00
+
  ## brawl.ai | Brawl Artifical Intelligence
  - [https://brawl.ai](https://brawl.ai)
  - date_published: 2024-09-04T07:51:02.627560+00:00
@@ -560,6 +580,10 @@ Welcome
  - [https://chetty.ai](https://chetty.ai)
  - date_published: 2024-12-14T00:53:31.244443+00:00
 
+ ## Digital Twin Toolkit Available | Chiaha
+ - [https://chiaha.ai](https://chiaha.ai)
+ - date_published: 2024-01-30T20:16:20+00:00
+
  ## Welcome to children's book ai generator!
  - [https://childbook.ai](https://childbook.ai)
  - date_published: 2024-10-30T20:41:13.598472+00:00
@@ -595,6 +619,10 @@ Welcome
  ## Modern Market Research for Networking Communications | Cignal AI
  - [https://cignal.ai](https://cignal.ai)
  - date_published: 2024-09-14T10:09:24+00:00
+
+ ## CipherData
+ - [https://www.cipherdata.ai](https://www.cipherdata.ai)
+ - date_published: 2024-12-13T23:51:23+00:00
 
  ## Circleback
  - [https://app.circleback.ai](https://app.circleback.ai)
@@ -3633,6 +3661,10 @@ Welcome
  - [https://gochitchat.ai](https://gochitchat.ai)
  - date_published: 2024-06-19T19:11:40.892147+00:00
 
+ ## dabbL | AI-powered College Admissions Counselor
+ - [https://go-dabbl.ai](https://go-dabbl.ai)
+ - date_published: 2025-01-08T07:33:06.546984+00:00
+
  ## Show HN: Map with an LLM
  - [https://godview.ai](https://godview.ai)
  - date_published: 2024-12-27T02:50:56+00:00
@@ -3985,36 +4017,4 @@ Welcome
  ## Haye AI - In-context AI writing assistant for macOS
  - [https://haye.ai](https://haye.ai)
  - date_published: 2024-05-15T02:44:53.979260+00:00
-
- ## H Company
- - [https://www.hcompany.ai](https://www.hcompany.ai)
- - date_published: 2024-09-18T22:18:29.281906+00:00
-
- ## Professional AI generated headshots | HeadshotBooth.ai
- - [https://www.headshotbooth.ai](https://www.headshotbooth.ai)
- - date_published: 2024-09-13T20:25:09.729934+00:00
-
- ## Healthmax AI
- - [https://www.healthmax.ai](https://www.healthmax.ai)
- - date_published: 2024-09-13T20:28:16.847505+00:00
-
- ## Heatseeker: AI Market Experiments, Benefit & Feature Tests.
- - [https://www.heatseeker.ai](https://www.heatseeker.ai)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Hebbia
- - [https://www.hebbia.ai](https://www.hebbia.ai)
- - date_published: 2024-10-30T07:06:03.001746+00:00
-
- ## Introduction - Helicone
- - [https://docs.helicone.ai](https://docs.helicone.ai)
- - date_published: 2024-05-11T07:39:44.274489+00:00
-
- ## Helicone
- - [https://helicone.ai](https://helicone.ai)
- - date_published: 2024-07-13T14:17:06.145646+00:00
-
- ## Helicone
- - [https://us.helicone.ai](https://us.helicone.ai)
- - date_published: 2024-07-13T14:17:07.801907+00:00
 
