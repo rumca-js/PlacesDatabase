@@ -1898,6 +1898,10 @@
  - [https://chir.ag](https://chir.ag)
  - date_published: 2024-12-23T00:37:01.987725+00:00
 
+ ## Cryptix - Web3 Venture Builder and end-to-end service provider
+ - [https://cryptix.ag](https://cryptix.ag)
+ - date_published: 2025-01-09T14:01:40+00:00
+
  ## Datenschutz - Mit Praxisnähe, Professionalität und Leidenschaft › DATATREE
  - [https://cdn.datatree.ag](https://cdn.datatree.ag)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -2202,6 +2206,10 @@
  ## JUST — Onafhankelijke ontwerp- en productiestudio uit Den Haag
  - [https://just.agency](https://just.agency)
  - date_published: 2024-07-16T16:59:15.305259+00:00
+
+ ## Kalapa Design Studio - Designing the Future of Cryptocurrency
+ - [https://kalapa.agency](https://kalapa.agency)
+ - date_published: 2025-01-09T18:45:21.921719+00:00
 
  ## SEO Agency - International Digital Marketing | .kloos Vienna, Europe
  - [https://kloos.agency](https://kloos.agency)
@@ -2699,6 +2707,10 @@
  ## Adversa AI
  - [https://adversa.ai](https://adversa.ai)
  - date_published: 2019-09-18T22:42:54+00:00
+
+ ## Sign in - ADXL
+ - [https://analytics.adxl.ai](https://analytics.adxl.ai)
+ - date_published: 2025-01-09T09:47:07.398316+00:00
 
  ## 4Sight Intelligent Sensing Platform
  - [https://aeye.ai](https://aeye.ai)
@@ -3386,6 +3398,10 @@
  - [https://www.authorvoices.ai](https://www.authorvoices.ai)
  - date_published: 2024-09-14T07:57:20.337847+00:00
 
+ ## Autoblocks: GenAI product workspace
+ - [https://www.autoblocks.ai](https://www.autoblocks.ai)
+ - date_published: 2025-01-09T19:55:21.747664+00:00
+
  ## Generate Articles Optimized To Rank in One-Click! | Best AI Writer - Autoblogging.ai
  - [https://autoblogging.ai](https://autoblogging.ai)
  - date_published: 2023-08-03T13:35:55+00:00
@@ -4002,20 +4018,4 @@
  ## Brainjar - A human approach to artificial intelligence
  - [https://brainjar.ai](https://brainjar.ai)
  - date_published: 2024-09-14T08:14:27.076753+00:00
-
- ## Home
- - [https://brainsave.ai](https://brainsave.ai)
- - date_published: 2024-06-21T19:53:48.081921+00:00
-
- ## Brainstory | AI powered think-out-loud tool
- - [https://brainstory.ai](https://brainstory.ai)
- - date_published: 2024-07-22T22:20:31+00:00
-
- ## AI-Powered Online Store Builder - branchbob
- - [https://branchbob.ai](https://branchbob.ai)
- - date_published: 2024-10-30T06:55:30.470256+00:00
-
- ## Brancher.ai
- - [https://brancher.ai](https://brancher.ai)
- - date_published: 2024-10-04T21:55:43+00:00
 
