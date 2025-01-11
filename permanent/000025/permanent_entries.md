@@ -1,3 +1,103 @@
+ ## Deep Impact: Wir erobern die digitale Welt.
+ - [https://www.deep-impact.ch](https://www.deep-impact.ch)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Online Wertpapierhandel | Günstige Gebühren | Broker DEGIRO
+ - [https://www.degiro.ch](https://www.degiro.ch)
+ - date_published: 2024-05-31T14:24:30+00:00
+
+ ## deletescape
+ - [https://deletescape.ch](https://deletescape.ch)
+ - date_published: 2024-05-07T23:22:59.313232+00:00
+
+ ## Delirium Magazin
+ - [http://delirium-magazin.ch](http://delirium-magazin.ch)
+ - date_published: 2024-07-13T14:46:51.530153+00:00
+
+ ## ▷ DELL’ANGELO in Piazza Grande a Locarno » Sito Ufficiale «
+ - [https://www.dellangelo.ch](https://www.dellangelo.ch)
+ - date_published: 2024-08-18T10:28:22.033560+00:00
+
+ ## Dennis Moya Raza.
+ - [http://dennismoya.ch](http://dennismoya.ch)
+ - date_published: 2024-10-29T14:09:01.644946+00:00
+
+ ## Agenda - Der Bund
+ - [https://agenda.derbund.ch](https://agenda.derbund.ch)
+ - date_published: 2024-07-22T17:38:27.696281+00:00
+
+ ## Der Bund | Ihre Traditionszeitung aus Bern.
+ - [https://derbund.ch](https://derbund.ch)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Der Bund
+ - [https://helpcenter.derbund.ch](https://helpcenter.derbund.ch)
+ - date_published: 2023-07-23T17:38:29+00:00
+
+ ## Design Preis Schweiz
+ - [http://www.designpreis.ch](http://www.designpreis.ch)
+ - date_published: 2024-06-25T23:28:06.228483+00:00
+
+ ## Developer Academy Switzerland - Web courses and Workshops with ASP.NET Core, Angular, Azure and more...
+ - [https://developer-academy.ch](https://developer-academy.ch)
+ - date_published: 2018-06-04T00:00:00+00:00
+
+ ## Accueil - Devenir famille d'accueil
+ - [https://devenir-famille-accueil.ch](https://devenir-famille-accueil.ch)
+ - date_published: 2024-07-21T06:27:58.200742+00:00
+
+ ## Tampere Dev Lunch
+ - [https://tampere.devlun.ch](https://tampere.devlun.ch)
+ - date_published: 2022-10-27T00:00:00+00:00
+
+ ## d-fens GmbH
+ - [https://d-fens.ch](https://d-fens.ch)
+ - date_published: 2024-06-15T16:56:53.294076+00:00
+
+ ## dfir.ch | dfir.ch
+ - [https://dfir.ch](https://dfir.ch)
+ - date_published: 2024-10-19T12:15:04+00:00
+
+ ## -
+ - [https://dialectic.ch](https://dialectic.ch)
+ - date_published: 2024-12-14T19:24:21.685529+00:00
+
+ ## Diane Friedli - pasteure à Colombier
+ - [https://dianefriedli.ch](https://dianefriedli.ch)
+ - date_published: 2024-07-10T04:39:35+00:00
+
+ ## FairSocialNet · La vie privée numérique en Suisse Romande
+ - [https://diasporing.ch](https://diasporing.ch)
+ - date_published: 2024-08-18T22:13:17.162526+00:00
+
+ ## dieci | Pizza Delivery & Restaurants - dieci.ch
+ - [https://dieci.ch](https://dieci.ch)
+ - date_published: 2024-04-30T06:02:13.643038+00:00
+
+ ## Dieci Natura AG - Login
+ - [http://natura.dieci.ch](http://natura.dieci.ch)
+ - date_published: 2024-07-21T06:06:54.014115+00:00
+
+ ## RDC Gelato AG - Login
+ - [https://shop.diecigelato.ch](https://shop.diecigelato.ch)
+ - date_published: 2024-07-21T06:06:51.055562+00:00
+
+ ## Home  — Die Mitte
+ - [https://die-mitte.ch](https://die-mitte.ch)
+ - date_published: 2024-10-31T04:48:34.190137+00:00
+
+ ## Die Sonnenstube
+ - [https://admin.diesonnenstube.ch](https://admin.diesonnenstube.ch)
+ - date_published: 2024-09-14T09:29:23.560268+00:00
+
+ ## Die Sonnenstube
+ - [https://diesonnenstube.ch](https://diesonnenstube.ch)
+ - date_published: 2024-06-14T11:59:44.754244+00:00
+
+ ## DigiKey
+ - [https://digikey.ch](https://digikey.ch)
+ - date_published: 2024-03-03T11:40:25.990835+00:00
+
  ## Digital Integrity GmbH - Home
  - [https://digint.ch](https://digint.ch)
  - date_published: 2023-03-25T16:45:16+00:00
@@ -3912,104 +4012,4 @@
  ## MDes Basel
  - [http://mdesbasel.ch](http://mdesbasel.ch)
  - date_published: 2024-07-13T14:59:48.773552+00:00
-
- ## MDTURP | MDTURP
- - [https://blog.mdturp.ch](https://blog.mdturp.ch)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Willkommen bei MediaMarkt Schweiz
- - [https://www.mediamarkt.ch](https://www.mediamarkt.ch)
- - date_published: 2024-07-13T13:39:11.250633+00:00
-
- ## Media One Contact - 1# Régie publicitaire Radio en Suisse Romande
- - [https://www.mediaone.ch](https://www.mediaone.ch)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Urgences Vaud by medigo - Les urgences à portée de main
- - [https://medigo.ch](https://medigo.ch)
- - date_published: 2024-04-30T05:59:25.869431+00:00
-
- ## Site de rencontre suisse pour célibataires sérieux ­| Meetic
- - [https://fr.meetic.ch](https://fr.meetic.ch)
- - date_published: 2024-09-04T11:50:24.187260+00:00
-
- ## Welcome in MPZ
- - [https://meinungsplatz.ch](https://meinungsplatz.ch)
- - date_published: 2024-06-25T22:24:35.815349+00:00
-
- ## Unterhaltungs- & Haushaltselektronik | melectronics
- - [https://www.melectronics.ch](https://www.melectronics.ch)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Mental Groove Records / Musique Pour La Danse
- - [https://shop.mentalgroove.ch](https://shop.mentalgroove.ch)
- - date_published: 2024-10-22T20:17:44.003860+00:00
-
- ## Venir en aide aux plus démuni·e·s, sans discrimination. - Fondation Mère Sofia
- - [https://www.meresofia.ch](https://www.meresofia.ch)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home
- - [https://mesh.ch](https://mesh.ch)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Mesh – Festival für Kunst und Technologie – 16.–20. Oktober 2024
- - [https://meshfestival.ch](https://meshfestival.ch)
- - date_published: 2024-09-14T09:27:52.918437+00:00
-
- ## Météo & Radar Suisse
- - [https://meteoetradar.ch](https://meteoetradar.ch)
- - date_published: 2024-05-07T12:52:58.197087+00:00
-
- ## METOKI – Marketing, Digitalisierung, Wissensmanagement
- - [https://www.metoki.ch](https://www.metoki.ch)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Bienvenue sur meute.ch
- - [http://www.meute.ch](http://www.meute.ch)
- - date_published: 2023-04-24T08:01:44+00:00
-
- ## Massgeschneidertes Software Engineering
- - [https://www.m-f.ch](https://www.m-f.ch)
- - date_published: 2024-09-18T17:58:48.121310+00:00
-
- ## Michel Egger
- - [https://www.michelegger.ch](https://www.michelegger.ch)
- - date_published: 2023-06-15T08:10:32+00:00
-
- ## Michelle Gisin - Home
- - [https://michellegisin.ch](https://michellegisin.ch)
- - date_published: 2024-09-28T23:44:34.320999+00:00
-
- ## Micos Engineering GmbH
- - [http://www.micos.ch](http://www.micos.ch)
- - date_published: 2020-05-27T12:18:46+00:00
-
- ## Interdiscount - Der Elektronik-Shop Nr. 1
- - [https://www.microspot.ch](https://www.microspot.ch)
- - date_published: 2024-07-20T16:13:13.575215+00:00
-
- ## Migros
- - [http://www.migros.ch](http://www.migros.ch)
- - date_published: 2024-07-02T06:48:58+00:00
-
- ## Miler.ch – Casa d’Arte Miler
- - [https://miler.ch](https://miler.ch)
- - date_published: 2024-06-14T11:59:26.055050+00:00
-
- ## Grafana
- - [https://monitoring.minetest.ch](https://monitoring.minetest.ch)
- - date_published: 2024-07-11T12:26:55.686879+00:00
-
- ## minetest.ch status
- - [https://status.minetest.ch](https://status.minetest.ch)
- - date_published: 2024-07-11T12:26:56.803875+00:00
-
- ## Mingye Chen
- - [https://mingye.ch](https://mingye.ch)
- - date_published: 2024-01-01T04:06:13+00:00
-
- ## minimum.ch – Minimum Boulder, Bar und Restaurant in Zürich
- - [http://minimum.ch](http://minimum.ch)
- - date_published: 2024-07-21T02:22:51.914338+00:00
 

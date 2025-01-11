@@ -1,3 +1,23 @@
+ ## Halist AI
+ - [https://halist.ai](https://halist.ai)
+ - date_published: 2023-03-01T00:00:00+00:00
+
+ ## Hallidai
+ - [https://hallid.ai](https://hallid.ai)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Introduction - Hamming
+ - [https://docs.hamming.ai](https://docs.hamming.ai)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Hamming - Eval-driven development made simple
+ - [https://hamming.ai](https://hamming.ai)
+ - date_published: 2024-06-12T11:04:18.172529+00:00
+
+ ## Handy 5.0 | Handy 2024
+ - [https://handy.ai](https://handy.ai)
+ - date_published: 2024-06-21T02:12:27.948532+00:00
+
  ## 毫末智行
  - [http://www.haomo.ai](http://www.haomo.ai)
  - date_published: 2024-06-04T06:14:36+00:00
@@ -1409,6 +1429,10 @@
  ## Kodiak Robotics is safely driving an autonomous future – Kodiak
  - [https://kodiak.ai](https://kodiak.ai)
  - date_published: 2024-05-20T00:00:00+00:00
+
+ ## KOGO AI
+ - [https://www.kogo.ai](https://www.kogo.ai)
+ - date_published: 2025-01-10T10:43:23.694037+00:00
 
  ## ControlMeme
  - [https://meme.koll.ai](https://meme.koll.ai)
@@ -4007,29 +4031,4 @@
  ## People.ai All Rights Reserved
  - [https://help.people.ai](https://help.people.ai)
  - date_published: 2024-10-30T11:27:24.826473+00:00
-
- ## People.ai University | People.ai All Rights Reserved
- - [https://learn.people.ai](https://learn.people.ai)
- - date_published: 2024-10-30T11:27:42.466509+00:00
-
- ## Unlock your GTM's complete story with SalesAI
- - [https://people.ai](https://people.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## AI Chatbot Online(Include NSFW Character) - PepHop AI
- - [https://pephop.ai](https://pephop.ai)
- - date_published: 2024-06-18T04:24:33+00:00
- - tags: ['nsfw']
-
- ## Peppertype.ai | Create Quality Content Faster
- - [https://peppertype.ai](https://peppertype.ai)
- - date_published: 2024-06-19T21:08:35.206919+00:00
-
- ## PerfAI
- - [https://app.perfai.ai](https://app.perfai.ai)
- - date_published: 2024-07-24T07:30:36+00:00
-
- ## PerfAI
- - [https://cloud.perfai.ai](https://cloud.perfai.ai)
- - date_published: 2024-07-24T07:30:36+00:00
 

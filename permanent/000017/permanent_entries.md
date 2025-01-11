@@ -1,3 +1,98 @@
+ ## Prashanth's Blog
+ - [https://prashanths.blog](https://prashanths.blog)
+ - date_published: 2023-12-17T05:07:12.878570+00:00
+ - tags: ['personal']
+
+ ## Privacy World | Data Privacy, Security and Innovation News
+ - [https://privacyworld.blog](https://privacyworld.blog)
+ - date_published: 2024-09-15T23:34:12.139500+00:00
+
+ ## Reason #48: Strangers on a Train - George, Probably Blogs
+ - [https://probably.blog](https://probably.blog)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Product Leaders
+ - [https://productleaders.blog](https://productleaders.blog)
+ - date_published: 2024-06-09T20:46:29+00:00
+ - tags: ['business']
+
+ ## coldhearted scientist وداد
+ - [https://profacero.blog](https://profacero.blog)
+ - date_published: 2024-10-19T08:03:46.738660+00:00
+
+ ## James Mills
+		- James Mills
+ - [https://prologic.blog](https://prologic.blog)
+ - date_published: 2024-03-06T08:45:28+00:00
+ - tags: ['personal']
+
+ ## The Stream of Thought That Waters the Garden
+ - [https://quantumgardener.blog](https://quantumgardener.blog)
+ - date_published: 2023-11-29T14:25:56.871546+00:00
+ - tags: ['personal']
+
+ ## Questions Considered
+ - [https://questionsconsidered.blog](https://questionsconsidered.blog)
+ - date_published: 2024-08-25T00:00:00+00:00
+
+ ## Quigs.blog
+ - [https://quigs.blog](https://quigs.blog)
+ - date_published: 2023-12-18T01:34:04.013330+00:00
+ - tags: ['personal']
+
+ ## Simple Analytics
+ - [https://readers.quigs.blog](https://readers.quigs.blog)
+ - date_published: 2020-01-10T12:35:14+00:00
+
+ ## Raku Advent Calendar – Raku is a multi-paradigm language where there's more than one way to do it
+ - [https://raku-advent.blog](https://raku-advent.blog)
+ - date_published: 2023-10-25T12:00:54.086156+00:00
+
+ ## Rakudo Weekly News
+ - [https://rakudoweekly.blog](https://rakudoweekly.blog)
+ - date_published: 2024-07-04T03:52:35.365604+00:00
+
+ ## The Rattlin' Blog
+ - [https://rattlin.blog](https://rattlin.blog)
+ - date_published: 2023-03-28T00:32:12+00:00
+
+ ## Jeannette Goon
+ - [https://realhumangirl.blog](https://realhumangirl.blog)
+ - date_published: 2023-12-02T10:25:54.865102+00:00
+ - tags: ['personal']
+
+ ## Realize Engineering | An engineering commentary for everyone every Wednesday since 2012
+ - [https://realizeengineering.blog](https://realizeengineering.blog)
+ - date_published: 2023-10-25T12:01:02.147552+00:00
+
+ ## The REAPER Blog
+ - [https://reaper.blog](https://reaper.blog)
+ - date_published: 2024-08-08T16:08:57+00:00
+
+ ## (no title)
+ - [https://redcrossplus.blog](https://redcrossplus.blog)
+ - date_published: 2024-09-13T16:51:46.691349+00:00
+
+ ## Re-enchantment Of The World
+ - [https://reenchantmentoftheworld.blog](https://reenchantmentoftheworld.blog)
+ - date_published: 2024-09-17T17:49:31.101995+00:00
+
+ ## Reese Richardson
+ - [https://reeserichardson.blog](https://reeserichardson.blog)
+ - date_published: 2024-02-04T02:18:53.099471+00:00
+
+ ## regenbogenfabrik 40
+ - [https://regenbogenfabrik40.blog](https://regenbogenfabrik40.blog)
+ - date_published: 2024-07-14T03:13:21.017828+00:00
+
+ ## Research Degree Insiders
+ - [https://researchinsiders.blog](https://researchinsiders.blog)
+ - date_published: 2024-05-02T10:13:36.139493+00:00
+
+ ## Retro365
+ - [https://retro365.blog](https://retro365.blog)
+ - date_published: 2024-07-13T05:03:42.714717+00:00
+
  ## Cooking Pancakes | revi
  - [https://revi.blog](https://revi.blog)
  - date_published: 2024-06-10T07:07:48.083451+00:00
@@ -3940,92 +4035,4 @@ Educação
  ## Home | ICBC 2024
  - [https://icbc2024.galoa.com.br](https://icbc2024.galoa.com.br)
  - date_published: 2024-10-19T23:00:43.311356+00:00
-
- ## GameHall - Top Notícias e Lançamentos de Videogames
- - [https://gamehall.com.br](https://gamehall.com.br)
- - date_published: 2024-12-26T17:32:33+00:00
-
- ## Participate in one of the biggest B2B events in the gaming industry
- - [https://gamescom.com.br](https://gamescom.com.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Garnier | Skincare e coloração para todos
- - [http://www.garnier.com.br](http://www.garnier.com.br)
- - date_published: 2024-10-20T22:52:18.127182+00:00
-
- ## Aprenda a Fazer Falta Livro PDF Ebook Editora Ramos
- - [http://www.garotait.com.br](http://www.garotait.com.br)
- - date_published: 2023-08-16T14:58:38+00:00
-
- ## Gazeta da Semana - Portal de Notícias e Negócios GRÁTIS
- - [https://gazetadasemana.com.br](https://gazetadasemana.com.br)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Portal GCMAIS | Últimas notícias de Fortaleza, Ceará e Brasil
- - [https://gcmais.com.br](https://gcmais.com.br)
- - date_published: 2024-12-26T17:59:51.810846+00:00
-
- ## Genera - Ancestralidade, Saúde e Bem-Estar
- - [https://www.genera.com.br](https://www.genera.com.br)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Gênio Quiz
- - [https://genioquiz.com.br](https://genioquiz.com.br)
- - date_published: 2024-12-26T15:27:33+00:00
-
- ## GERMINA - REVISTA DE LITERATURA & ARTE
- - [http://www.germinaliteratura.com.br](http://www.germinaliteratura.com.br)
- - date_published: 2022-12-22T17:21:42+00:00
-
- ## Descubra os melhores apps no GetApp Brasil para expandir sua empresa
- - [https://www.getapp.com.br](https://www.getapp.com.br)
- - date_published: 2024-08-08T18:07:17.777717+00:00
-
- ## Fotos de stock, imagens criativas e vetores royalty-free | Imagens de notícias, moda e entretenimento - Getty Images
- - [https://gettyimages.com.br](https://gettyimages.com.br)
- - date_published: 2024-10-31T20:05:40.887742+00:00
-
- ## Glami.com.br - Nós amamos moda
- - [https://www.glami.com.br](https://www.glami.com.br)
- - date_published: 2024-12-14T05:24:56.672269+00:00
-
- ## Glassdoor Help Center
- - [https://ajuda.glassdoor.com.br](https://ajuda.glassdoor.com.br)
- - date_published: 2023-07-12T20:05:46+00:00
-
- ## Busca de vagas no Glassdoor
- - [https://www.glassdoor.com.br](https://www.glassdoor.com.br)
- - date_published: 2024-05-06T09:09:46.730024+00:00
-
- ## Google
- - [https://google.com.br](https://google.com.br)
- - date_published: 2024-06-18T12:08:11.684347+00:00
-
- ## Grafika Google
- - [https://images.google.com.br](https://images.google.com.br)
- - date_published: 2024-07-20T07:38:45.468430+00:00
-
- ## Google Scholar
- - [https://scholar.google.com.br](https://scholar.google.com.br)
- - date_published: 2024-07-10T03:50:52.556232+00:00
-
- ## Certificadas Great Place to Work (Brasil)
- - [https://certificadas.gptw.com.br](https://certificadas.gptw.com.br)
- - date_published: 2024-07-30T20:31:29+00:00
-
- ## Home - GPTW
- - [https://gptw.com.br](https://gptw.com.br)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Certificação GPTW
- - [https://jornada-certificacao.gptw.com.br](https://jornada-certificacao.gptw.com.br)
- - date_published: 2024-09-10T23:52:34.136531+00:00
-
- ## GPTW - Sistema de Pesquisas
- - [https://monitor.gptw.com.br](https://monitor.gptw.com.br)
- - date_published: 2024-09-06T23:34:23+00:00
-
- ## Home - Partners GPTW
- - [https://www.gptwpartners.com.br](https://www.gptwpartners.com.br)
- - date_published: 2024-03-14T00:00:00+00:00
 

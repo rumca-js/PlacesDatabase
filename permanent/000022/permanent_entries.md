@@ -1,3 +1,109 @@
+ ## The Tyee | Home
+ - [https://thetyee.ca](https://thetyee.ca)
+ - date_published: 2024-06-29T06:14:02.957860+00:00
+
+ ## The UWSA
+ - [https://theuwsa.ca](https://theuwsa.ca)
+ - date_published: 2024-09-13T20:01:10.127221+00:00
+
+ ## The Walrus
+ - [https://secure.thewalrus.ca](https://secure.thewalrus.ca)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## The Walrus Store
+ - [https://store.thewalrus.ca](https://store.thewalrus.ca)
+ - date_published: 2024-07-21T09:25:16.337235+00:00
+
+ ## The Walrus | Canada's Conversation
+ - [https://thewalrus.ca](https://thewalrus.ca)
+ - date_published: 2023-10-25T12:12:23.582516+00:00
+
+ ## Non-Religious Moral Code of Ethics & Common Decency - 21 Ways to be Happy - The Way To Happiness
+ - [http://www.thewaytohappiness.ca](http://www.thewaytohappiness.ca)
+ - date_published: 2024-09-04T17:53:45.991504+00:00
+
+ ## ThinkPol - Free the news
+ - [https://thinkpol.ca](https://thinkpol.ca)
+ - date_published: 2023-10-25T12:08:24.491426+00:00
+
+ ## Thomas Anderson
+ - [https://thomasanderson.ca](https://thomasanderson.ca)
+ - date_published: 2024-04-03T06:25:45.635825+00:00
+ - tags: ['personal']
+
+ ## Thomson Reuters online store
+ - [https://store.thomsonreuters.ca](https://store.thomsonreuters.ca)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Thomson Reuters Canada
+ - [https://www.thomsonreuters.ca](https://www.thomsonreuters.ca)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## ThoroldToday.ca - Local News Headlines for Thorold Ontario
+ - [https://www.thoroldtoday.ca](https://www.thoroldtoday.ca)
+ - date_published: 2024-12-26T13:51:04+00:00
+
+ ## Workwear and Menswear Sewing Patterns and Supplies | Thread Theory Designs
+ - [https://threadtheory.ca](https://threadtheory.ca)
+ - date_published: 2024-07-10T03:36:48.678061+00:00
+
+ ## Three Acres - Shopify Expert for Online Store Success
+ - [https://threeacres.ca](https://threeacres.ca)
+ - date_published: 2024-12-22T17:56:59.424540+00:00
+
+ ## Finding the best business, It's that easy - ThreeBestRated.ca
+ - [https://threebestrated.ca](https://threebestrated.ca)
+ - date_published: 2024-05-02T09:53:04.963128+00:00
+
+ ## dayder
+ - [https://dayder.thume.ca](https://dayder.thume.ca)
+ - date_published: 2024-04-30T05:16:58.353294+00:00
+
+ ## dayder
+ - [https://hnblogs.thume.ca](https://hnblogs.thume.ca)
+ - date_published: 2024-04-30T05:16:53.652654+00:00
+
+ ## Tristan's Site - Tristan Hume
+ - [https://thume.ca](https://thume.ca)
+ - date_published: 2023-10-25T08:43:07.236288+00:00
+ - tags: ['personal']
+
+ ## Thunder Bay Regional Health Sciences Foundation - Thunder Bay 50/50
+ - [https://www.thunderbay5050.ca](https://www.thunderbay5050.ca)
+ - date_published: 2025-01-10T07:58:30.222941+00:00
+
+ ## TIAO - Tourism Counts
+ - [https://www.tiaontario.ca](https://www.tiaontario.ca)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Let's Get Your Identity Verified
+ - [https://www.ticketmaster.ca](https://www.ticketmaster.ca)
+ - date_published: 2024-07-19T05:00:01.344837+00:00
+
+ ## TicketWeb - independent music concert tickets and more
+ - [https://www.ticketweb.ca](https://www.ticketweb.ca)
+ - date_published: 2024-07-01T05:01:18.417896+00:00
+
+ ## Directory
+ - [https://members.tico.ca](https://members.tico.ca)
+ - date_published: 2024-07-17T10:26:22.622257+00:00
+
+ ## Home - Tidal Commerce
+ - [https://tidalcommerce.ca](https://tidalcommerce.ca)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Laundry Detergent and Fabric Care Products - Tide
+ - [https://tide.ca](https://tide.ca)
+ - date_published: 2024-10-04T08:32:10+00:00
+
+ ## Tidewater Press | Canadian publishers - Tidewater Press
+ - [https://www.tidewaterpress.ca](https://www.tidewaterpress.ca)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## This is the default server vhost
+ - [http://www.tiles.ca](http://www.tiles.ca)
+ - date_published: 2024-06-24T11:23:01+00:00
+
  ## Tilray
  - [https://www.tilraymedical.ca](https://www.tilraymedical.ca)
  - date_published: 2024-07-16T23:46:47.159020+00:00
@@ -3910,109 +4016,4 @@
  ## Welcome to the Alternate Exam/Test Scheduling Website | Alternate Exam/Test Scheduling | York University
  - [https://altexams.students.yorku.ca](https://altexams.students.yorku.ca)
  - date_published: 2024-07-21T07:57:13.910511+00:00
-
- ## Passport York Login
- - [https://apps5.sis.yorku.ca](https://apps5.sis.yorku.ca)
- - date_published: 2024-07-21T07:57:36.783442+00:00
-
- ## Passport York Login
- - [https://apps7.sis.yorku.ca](https://apps7.sis.yorku.ca)
- - date_published: 2024-07-21T07:57:30.153220+00:00
-
- ## IIS Windows Server
- - [https://as.students.yorku.ca](https://as.students.yorku.ca)
- - date_published: 2020-12-07T16:39:18+00:00
-
- ## atlas
- - [https://atlas.cafe.uit.yorku.ca](https://atlas.cafe.uit.yorku.ca)
- - date_published: 2018-11-14T19:13:13+00:00
-
- ## York Atlas - Phone and E-mail Directory
- - [https://atlas.yorku.ca](https://atlas.yorku.ca)
- - date_published: 2024-04-30T05:32:21.381565+00:00
-
- ## Topology Atlas
- - [http://at.yorku.ca](http://at.yorku.ca)
- - date_published: 2020-12-23T20:50:16+00:00
-
- ## Home | Becoming YU | York University
- - [https://becomingyu.yorku.ca](https://becomingyu.yorku.ca)
- - date_published: 2024-07-21T07:57:53.361490+00:00
-
- ## blockchain.lab
- - [https://blockchain.lab.yorku.ca](https://blockchain.lab.yorku.ca)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## WordPress at York |
- - [https://blog.yorku.ca](https://blog.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## 2024-2025 Academic Calendar | Academic Calendars | York University
- - [https://calendars.students.yorku.ca](https://calendars.students.yorku.ca)
- - date_published: 2024-07-21T08:03:28.530189+00:00
-
- ## Calumet College
- - [http://calumet.yorku.ca](http://calumet.yorku.ca)
- - date_published: 2024-07-21T08:04:47.828687+00:00
-
- ## Career Centre | We help connect York University students and new graduates with career opportunities!
- - [https://careers.yorku.ca](https://careers.yorku.ca)
- - date_published: 2024-05-09T06:47:47.200130+00:00
-
- ## Welcome - Department of Chemistry
- - [http://chemistry.info.yorku.ca](http://chemistry.info.yorku.ca)
- - date_published: 2024-10-19T04:50:12.728346+00:00
-
- ## University Information Technology (UIT) | Something goes here....
- - [http://computing.yorku.ca](http://computing.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Homepage
- - [https://continue.yorku.ca](https://continue.yorku.ca)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Student Counselling, Health & Well-being | Division of Students | York University
- - [https://counselling.students.yorku.ca](https://counselling.students.yorku.ca)
- - date_published: 2024-07-09T21:37:03.374255+00:00
-
- ## Passport York Login
- - [https://coursestatus.yorku.ca](https://coursestatus.yorku.ca)
- - date_published: 2024-07-09T21:37:05.659224+00:00
-
- ## Current Students | Division of Students | York University
- - [https://currentstudents.yorku.ca](https://currentstudents.yorku.ca)
- - date_published: 2024-04-30T05:32:23.896619+00:00
-
- ## Organizational Unit and Designate List
- - [http://designates.apps06.yorku.ca](http://designates.apps06.yorku.ca)
- - date_published: 2024-07-21T08:03:45.097874+00:00
-
- ## Osgoode Hall Law School Digital Commons
- - [https://digitalcommons.osgoode.yorku.ca](https://digitalcommons.osgoode.yorku.ca)
- - date_published: 2024-10-18T22:18:03.056403+00:00
-
- ## York University - Shibboleth - Loading Session Information
- - [https://eclass.yorku.ca](https://eclass.yorku.ca)
- - date_published: 2024-04-30T05:32:18.223282+00:00
-
- ## Upcoming Events at York University
- - [https://events.yorku.ca](https://events.yorku.ca)
- - date_published: 2024-03-12T17:42:35.149483+00:00
-
- ## MachForm Admin Panel
- - [https://forms.students.yorku.ca](https://forms.students.yorku.ca)
- - date_published: 2024-07-21T07:57:11.379215+00:00
-
- ## Your Future Starts Here | Future Students | York University
- - [https://futurestudents.yorku.ca](https://futurestudents.yorku.ca)
- - date_published: 2024-04-30T05:31:58.274621+00:00
-
- ## Google Apps at York
- - [https://google.info.yorku.ca](https://google.info.yorku.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Welcome to the Snowden Digital Surveillance Archive · Snowden Archive
- - [https://grid.glendon.yorku.ca](https://grid.glendon.yorku.ca)
- - date_published: 2024-05-29T08:29:45+00:00
- - tags: ['surveillance', 'edward snowden']
 

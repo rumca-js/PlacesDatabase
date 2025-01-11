@@ -1,3 +1,91 @@
+ ## GameHall - Top Notícias e Lançamentos de Videogames
+ - [https://gamehall.com.br](https://gamehall.com.br)
+ - date_published: 2024-12-26T17:32:33+00:00
+
+ ## Participate in one of the biggest B2B events in the gaming industry
+ - [https://gamescom.com.br](https://gamescom.com.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Garnier | Skincare e coloração para todos
+ - [http://www.garnier.com.br](http://www.garnier.com.br)
+ - date_published: 2024-10-20T22:52:18.127182+00:00
+
+ ## Aprenda a Fazer Falta Livro PDF Ebook Editora Ramos
+ - [http://www.garotait.com.br](http://www.garotait.com.br)
+ - date_published: 2023-08-16T14:58:38+00:00
+
+ ## Gazeta da Semana - Portal de Notícias e Negócios GRÁTIS
+ - [https://gazetadasemana.com.br](https://gazetadasemana.com.br)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Portal GCMAIS | Últimas notícias de Fortaleza, Ceará e Brasil
+ - [https://gcmais.com.br](https://gcmais.com.br)
+ - date_published: 2024-12-26T17:59:51.810846+00:00
+
+ ## Genera - Ancestralidade, Saúde e Bem-Estar
+ - [https://www.genera.com.br](https://www.genera.com.br)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Gênio Quiz
+ - [https://genioquiz.com.br](https://genioquiz.com.br)
+ - date_published: 2024-12-26T15:27:33+00:00
+
+ ## GERMINA - REVISTA DE LITERATURA & ARTE
+ - [http://www.germinaliteratura.com.br](http://www.germinaliteratura.com.br)
+ - date_published: 2022-12-22T17:21:42+00:00
+
+ ## Descubra os melhores apps no GetApp Brasil para expandir sua empresa
+ - [https://www.getapp.com.br](https://www.getapp.com.br)
+ - date_published: 2024-08-08T18:07:17.777717+00:00
+
+ ## Fotos de stock, imagens criativas e vetores royalty-free | Imagens de notícias, moda e entretenimento - Getty Images
+ - [https://gettyimages.com.br](https://gettyimages.com.br)
+ - date_published: 2024-10-31T20:05:40.887742+00:00
+
+ ## Glami.com.br - Nós amamos moda
+ - [https://www.glami.com.br](https://www.glami.com.br)
+ - date_published: 2024-12-14T05:24:56.672269+00:00
+
+ ## Glassdoor Help Center
+ - [https://ajuda.glassdoor.com.br](https://ajuda.glassdoor.com.br)
+ - date_published: 2023-07-12T20:05:46+00:00
+
+ ## Busca de vagas no Glassdoor
+ - [https://www.glassdoor.com.br](https://www.glassdoor.com.br)
+ - date_published: 2024-05-06T09:09:46.730024+00:00
+
+ ## Google
+ - [https://google.com.br](https://google.com.br)
+ - date_published: 2024-06-18T12:08:11.684347+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.br](https://images.google.com.br)
+ - date_published: 2024-07-20T07:38:45.468430+00:00
+
+ ## Google Scholar
+ - [https://scholar.google.com.br](https://scholar.google.com.br)
+ - date_published: 2024-07-10T03:50:52.556232+00:00
+
+ ## Certificadas Great Place to Work (Brasil)
+ - [https://certificadas.gptw.com.br](https://certificadas.gptw.com.br)
+ - date_published: 2024-07-30T20:31:29+00:00
+
+ ## Home - GPTW
+ - [https://gptw.com.br](https://gptw.com.br)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Certificação GPTW
+ - [https://jornada-certificacao.gptw.com.br](https://jornada-certificacao.gptw.com.br)
+ - date_published: 2024-09-10T23:52:34.136531+00:00
+
+ ## GPTW - Sistema de Pesquisas
+ - [https://monitor.gptw.com.br](https://monitor.gptw.com.br)
+ - date_published: 2024-09-06T23:34:23+00:00
+
+ ## Home - Partners GPTW
+ - [https://www.gptwpartners.com.br](https://www.gptwpartners.com.br)
+ - date_published: 2024-03-14T00:00:00+00:00
+
  ## Granado | Granado Pharmácias
  - [https://www.granado.com.br](https://www.granado.com.br)
  - date_published: 2024-07-13T02:16:21.420663+00:00
@@ -3921,92 +4009,4 @@
  ## Starlight 🌟 Build documentation sites with Astro
  - [https://starlight.astro.build](https://starlight.astro.build)
  - date_published: 2024-06-23T06:01:29.647481+00:00
-
- ## Log in | Astro Studio
- - [https://studio.astro.build](https://studio.astro.build)
- - date_published: 2024-09-09T16:18:18.256880+00:00
-
- ## Bazel
- - [https://bazel.build](https://bazel.build)
- - date_published: 2022-11-23T21:10:38+00:00
-
- ## Bazel Blog - Bazel
- - [https://blog.bazel.build](https://blog.bazel.build)
- - date_published: 2024-04-29T18:14:56+00:00
-
- ## Join Bazel on Slack
- - [https://slack.bazel.build](https://slack.bazel.build)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Built Environment - Smarter Transformation
- - [https://be-st.build](https://be-st.build)
- - date_published: 2024-04-30T05:56:27.290621+00:00
-
- ## Bob - Lightning fast build platform
- - [https://bob.build](https://bob.build)
- - date_published: 2024-04-29T05:49:29.587217+00:00
-
- ## Show HN: Brisa Framework – Unifying server and client using the Web Platform
- - [https://brisa.build](https://brisa.build)
- - date_published: 2024-10-05T11:19:56+00:00
-
- ## A fast build tool
- - [https://buck.build](https://buck.build)
- - date_published: 2023-04-22T01:36:21+00:00
-
- ## Buck2 build system website | Buck2
- - [https://buck2.build](https://buck2.build)
- - date_published: 2024-09-18T16:30:53+00:00
-
- ## Buf
- - [https://buf.build](https://buf.build)
- - date_published: 2023-10-25T12:02:56.971684+00:00
-
- ## Caliber Venture Builder
- - [https://caliber.build](https://caliber.build)
- - date_published: 2024-06-12T05:35:17+00:00
-
- ## Unauthorized Access
- - [https://dknetwork.chorus.build](https://dknetwork.chorus.build)
- - date_published: 2024-08-06T11:54:46.768021+00:00
-
- ## Vrbs [DAO]
- - [https://co.build](https://co.build)
- - date_published: 2024-10-22T16:51:41.679731+00:00
-
- ## Code.Build 💻
- - [https://code.build](https://code.build)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Aleph, Ciudad de crecimiento
- - [https://www.aleph.crecimiento.build](https://www.aleph.crecimiento.build)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Deal With It GIF emoji generator
- - [https://emoji.build](https://emoji.build)
- - date_published: 2024-10-15T14:58:23.293793+00:00
-
- ## ETH.Build - Educational Sandbox For Web3
- - [http://eth.build](http://eth.build)
- - date_published: 2020-05-26T22:35:03+00:00
-
- ## Flaky Build
- - [https://flaky.build](https://flaky.build)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Fox.Build Makerspace, Hackerspace & Coworking St Charles IL
- - [https://fox.build](https://fox.build)
- - date_published: 2024-04-28T04:56:21.931399+00:00
-
- ## Fractal
- - [https://fractal.build](https://fractal.build)
- - date_published: 2024-07-10T07:17:12.410890+00:00
-
- ## HedgeDoc - Ideas grow better together
- - [https://notes.infinite.build](https://notes.infinite.build)
- - date_published: 2024-09-23T12:19:22.014993+00:00
-
- ## Ko: Easy Go Containers
- - [https://ko.build](https://ko.build)
- - date_published: 2023-11-08T00:37:54+00:00
 

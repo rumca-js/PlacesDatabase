@@ -1,3 +1,23 @@
+ ## BotSquare
+ - [https://www.botsquare.ai](https://www.botsquare.ai)
+ - date_published: 2024-06-19T19:22:25.673812+00:00
+
+ ## Boxing Stream - Reddit Boxing Streams #1
+ - [https://boxingstream.ai](https://boxingstream.ai)
+ - date_published: 2024-11-12T17:22:59+00:00
+
+ ## Braina - Artificial General Intelligence (AGI) Software for PC
+ - [https://braina.ai](https://braina.ai)
+ - date_published: 2024-09-27T03:43:35+00:00
+
+ ## 🧠🍏 BrainBite - Leerplatform
+ - [https://www.brainbite.ai](https://www.brainbite.ai)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Brainjar - A human approach to artificial intelligence
+ - [https://brainjar.ai](https://brainjar.ai)
+ - date_published: 2024-09-14T08:14:27.076753+00:00
+
  ## Home
  - [https://brainsave.ai](https://brainsave.ai)
  - date_published: 2024-06-21T19:53:48.081921+00:00
@@ -3997,24 +4017,4 @@ Welcome
  ## AISST
  - [https://haist.ai](https://haist.ai)
  - date_published: 2024-05-08T09:51:36.201282+00:00
-
- ## Halist AI
- - [https://halist.ai](https://halist.ai)
- - date_published: 2023-03-01T00:00:00+00:00
-
- ## Hallidai
- - [https://hallid.ai](https://hallid.ai)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Introduction - Hamming
- - [https://docs.hamming.ai](https://docs.hamming.ai)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Hamming - Eval-driven development made simple
- - [https://hamming.ai](https://hamming.ai)
- - date_published: 2024-06-12T11:04:18.172529+00:00
-
- ## Handy 5.0 | Handy 2024
- - [https://handy.ai](https://handy.ai)
- - date_published: 2024-06-21T02:12:27.948532+00:00
 

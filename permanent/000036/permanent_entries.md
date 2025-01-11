@@ -1,3 +1,199 @@
+ ## Home - Khoury College of Computer Sciences
+ - [https://s32615.pcdn.co](https://s32615.pcdn.co)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Transmission Digest News
+ - [https://s32667.pcdn.co](https://s32667.pcdn.co)
+ - date_published: 2024-05-11T08:48:03.974597+00:00
+
+ ## SQL Shack - articles about database auditing, server performance, data recovery, and more
+ - [https://s33046.pcdn.co](https://s33046.pcdn.co)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Service Credit Union Impact Foundation - Improving Lives
+ - [https://s33187.pcdn.co](https://s33187.pcdn.co)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Cranky Daily
+ - [https://s33721.pcdn.co](https://s33721.pcdn.co)
+ - date_published: 2024-07-04T15:48:26.494464+00:00
+
+ ## Database Security Governance with Cyral
+ - [https://s34378.pcdn.co](https://s34378.pcdn.co)
+ - date_published: 2024-02-12T07:27:24+00:00
+
+ ## Talisman Mining | Mineral Development and Exploration
+ - [https://s34779.pcdn.co](https://s34779.pcdn.co)
+ - date_published: 2024-12-21T05:38:32.689639+00:00
+
+ ## Aldridge Foundation - Empowering future generations
+ - [https://s34937.pcdn.co](https://s34937.pcdn.co)
+ - date_published: 2024-05-01T03:01:17.309402+00:00
+
+ ## Home - NSL Archive
+ - [https://s36124.pcdn.co](https://s36124.pcdn.co)
+ - date_published: 2021-09-15T00:00:00+00:00
+
+ ## Yoga with Adriene
+ - [https://s37280.pcdn.co](https://s37280.pcdn.co)
+ - date_published: 2024-08-06T19:35:23.419224+00:00
+
+ ## Tomorrow's Technician University
+ - [https://s37322.pcdn.co](https://s37322.pcdn.co)
+ - date_published: 2024-07-13T23:42:31.082387+00:00
+
+ ## The Buzz - Electric Vehicle News - Cutting through the static to deliver you the latest electric vehicle news & innovations
+ - [https://s37629.pcdn.co](https://s37629.pcdn.co)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Soft Skull Press
+ - [https://s37710.pcdn.co](https://s37710.pcdn.co)
+ - date_published: 2024-07-01T07:25:42.879467+00:00
+
+ ## Gravity Forms | The Best WordPress Form Plugin | Form Builder
+ - [https://s38924.pcdn.co](https://s38924.pcdn.co)
+ - date_published: 2024-09-28T21:09:59.352187+00:00
+
+ ## BJSM Live Concussion in Sport Webinar
+ - [https://s39925.pcdn.co](https://s39925.pcdn.co)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Practical 365
+ - [https://s40823.pcdn.co](https://s40823.pcdn.co)
+ - date_published: 1192-01-22T00:00:00+00:00
+
+ ## VELCRO® Brand Fastening Solutions | Velcro Companies
+ - [https://s41512.pcdn.co](https://s41512.pcdn.co)
+ - date_published: 2024-06-27T13:33:11.859914+00:00
+
+ ## AI for Good
+ - [https://s41721.pcdn.co](https://s41721.pcdn.co)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## uConnect: The first ever all-in-one virtual career center platform
+ - [https://s41911.pcdn.co](https://s41911.pcdn.co)
+ - date_published: 2022-09-26T21:31:25+00:00
+
+ ## AI for Good
+ - [https://s42316.pcdn.co](https://s42316.pcdn.co)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home Page - Advertising.tech
+ - [https://s43551.pcdn.co](https://s43551.pcdn.co)
+ - date_published: 2023-08-17T00:00:00+00:00
+
+ ## Genius Sports – Official Sports Data, Technology and Feeds
+ - [https://s43854.pcdn.co](https://s43854.pcdn.co)
+ - date_published: 2024-02-21T03:35:52+00:00
+
+ ## Global Finance Magazine
+ - [https://s44650.pcdn.co](https://s44650.pcdn.co)
+ - date_published: 2024-06-21T15:17:16+00:00
+
+ ## Home - 150 | #CreativeImpact
+ - [https://s44751.pcdn.co](https://s44751.pcdn.co)
+ - date_published: 2023-02-28T00:00:00+00:00
+
+ ## Aerospace Testing International | Aviation & Engineering News | MAG
+ - [https://s44864.pcdn.co](https://s44864.pcdn.co)
+ - date_published: 2024-05-01T02:31:05.258583+00:00
+
+ ## Traffic Technology Today | Planning | Safety | Data Modeling | Smart Cities
+ - [https://s44873.pcdn.co](https://s44873.pcdn.co)
+ - date_published: 2024-05-06T20:15:17.964072+00:00
+
+ ## Aircraft Interiors International | interior design | cabin development news
+ - [https://s44875.pcdn.co](https://s44875.pcdn.co)
+ - date_published: 2024-05-11T09:54:48.585351+00:00
+
+ ## Business Aviation News | Business Airport International Magazine | MAG
+ - [https://s44876.pcdn.co](https://s44876.pcdn.co)
+ - date_published: 2024-07-14T07:23:52.201025+00:00
+
+ ## Business Jet Interiors | Private Plane & Aviation News | Magazine | MAG
+ - [https://s45166.pcdn.co](https://s45166.pcdn.co)
+ - date_published: 2024-06-15T05:30:06.156374+00:00
+
+ ## The Teaching Professor
+ - [https://s45271.pcdn.co](https://s45271.pcdn.co)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Index Exchange - Accelerating the Evolution of Ad Technology
+ - [https://s45280.pcdn.co](https://s45280.pcdn.co)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Home
+ - [https://s45588.pcdn.co](https://s45588.pcdn.co)
+ - date_published: 2024-04-29T05:31:47.441829+00:00
+
+ ## Home - Multiverse Media
+ - [https://s45589.pcdn.co](https://s45589.pcdn.co)
+ - date_published: 2024-07-26T05:19:49.213982+00:00
+
+ ## Home - The Polar Express by Chris Van Allsburg
+ - [https://s45870.pcdn.co](https://s45870.pcdn.co)
+ - date_published: 2024-10-25T18:58:38.671609+00:00
+
+ ## Bureau
+ - [https://s46630.pcdn.co](https://s46630.pcdn.co)
+ - date_published: 2024-12-11T21:12:16.471645+00:00
+
+ ## All Things API: News, Tutorials & More | Postman Blog
+ - [https://s47089.pcdn.co](https://s47089.pcdn.co)
+ - date_published: 2025-01-02T10:18:16.875888+00:00
+
+ ## Cranky Flier – An Airline Industry Blog
+ - [https://s6331.pcdn.co](https://s6331.pcdn.co)
+ - date_published: 2024-05-08T06:49:26.718551+00:00
+
+ ## Life is NOYOKE: The Vitamix Experts
+ - [https://s7300.pcdn.co](https://s7300.pcdn.co)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Lenny Gale
+ - [https://s8948.pcdn.co](https://s8948.pcdn.co)
+ - date_published: 2024-05-04T12:16:01.583927+00:00
+
+ ## CRA
+ - [https://s8968.pcdn.co](https://s8968.pcdn.co)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## PdaNet+ -- Internet Sharing for Android
+ - [https://pdanet.co](https://pdanet.co)
+ - date_published: 2024-09-10T08:08:30.836551+00:00
+
+ ## Peach’s – #1 Squarespace Plugins for Word of Mouth Marketing
+ - [https://peachs.co](https://peachs.co)
+ - date_published: 2024-06-20T20:53:28.300346+00:00
+
+ ## Pearly » #1 Dental Revenue Cycle Automation Software
+ - [https://www.pearly.co](https://www.pearly.co)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Conversion Rate Optimization Agency (CRO) - Peek Insights
+ - [https://peekinsights.co](https://peekinsights.co)
+ - date_published: 2024-12-27T06:24:38+00:00
+
+ ## La plataforma para eventos más fácil de usar | Peewah
+ - [https://peewah.co](https://peewah.co)
+ - date_published: 2024-07-03T11:56:16.195428+00:00
+
+ ## Pelican Party Studios
+ - [http://pelicanparty.co](http://pelicanparty.co)
+ - date_published: 2024-04-05T10:12:54+00:00
+
+ ## Perfeggt: Das Ei ohne Henne
+ - [https://www.perfeggt.co](https://www.perfeggt.co)
+ - date_published: 2024-06-23T11:48:13.055888+00:00
+
+ ## Periodex
+ - [https://periodex.co](https://periodex.co)
+ - date_published: 2024-07-23T23:41:56.262578+00:00
+
+ ## Permify | Open Source Fine-Grained Authorization
+ - [https://permify.co](https://permify.co)
+ - date_published: 2024-07-19T23:01:28.565420+00:00
+
  ## Permify Playground
  - [https://play.permify.co](https://play.permify.co)
  - date_published: 2024-06-25T09:36:02+00:00
@@ -2097,6 +2293,10 @@
  - [https://spacesquirrel.co](https://spacesquirrel.co)
  - date_published: 2024-11-26T09:42:24+00:00
 
+ ## Spades - Play online now | 100% Free
+ - [https://spades.co](https://spades.co)
+ - date_published: 2025-01-10T11:51:25.409143+00:00
+
  ## Fabric
  - [https://sparkfabric.co](https://sparkfabric.co)
  - date_published: 2024-05-22T14:38:04+00:00
@@ -2823,6 +3023,10 @@
  ## Telecaribe
  - [http://www.telecaribe.co](http://www.telecaribe.co)
  - date_published: 2024-08-23T00:00:00+00:00
+
+ ## Telefónica Colombia | Innovación en Telecomunicaciones
+ - [https://www.telefonica.co](https://www.telefonica.co)
+ - date_published: 2023-01-09T18:27:29+00:00
 
  ## Konto pacjenta
  - [https://doz.telemedi.co](https://doz.telemedi.co)
@@ -3815,209 +4019,4 @@
  - [https://untools.co](https://untools.co)
  - date_published: 2020-05-08T04:33:09+00:00
  - tags: ['curated list', 'personal', 'programs']
-
- ## Untranslatable
- - [https://untranslatable.co](https://untranslatable.co)
- - date_published: 2019-01-01T00:00:00+00:00
-
- ## Free Bootstrap Templates 2022 - Untree
- - [https://untree.co](https://untree.co)
- - date_published: 2024-05-07T20:46:45.533550+00:00
-
- ## Help Center | Upmetrics
- - [https://help.upmetrics.co](https://help.upmetrics.co)
- - date_published: 2024-10-30T13:51:07.916942+00:00
-
- ## 400+ Business Plan Templates PDF to Inspire Your Own
- - [https://static-web.upmetrics.co](https://static-web.upmetrics.co)
- - date_published: 2024-10-17T11:58:37+00:00
-
- ## Upmetrics: Business Plan Software with Automated Financials
- - [https://upmetrics.co](https://upmetrics.co)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Uppercut Network – Affiliate Network for B2B SaaS
- - [https://uppercut.co](https://uppercut.co)
- - date_published: 2024-10-09T12:47:58+00:00
-
- ## Upvest
- - [https://engineering.upvest.co](https://engineering.upvest.co)
- - date_published: 2023-07-17T00:00:00+00:00
-
- ## One Investment API, to build any investment experience.
- - [https://upvest.co](https://upvest.co)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Purpose-Built Evolution - Upward.
- - [https://up-ward.co](https://up-ward.co)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## URosario Radio
- - [https://www.urosarioradio.co](https://www.urosarioradio.co)
- - date_published: 2024-09-10T11:03:11+00:00
-
- ## Consume less & stack sats instead - UseLessShit.co
- - [https://uselessshit.co](https://uselessshit.co)
- - date_published: 2024-06-15T22:32:09.831431+00:00
-
- ## Uudet Nettikasinot [Lokakuu 2023] - Parhaat Uudet Kasinot
- - [https://www.uusinettikasino.co](https://www.uusinettikasino.co)
- - date_published: 2024-07-20T23:12:14.310588+00:00
-
- ## Get an awesome UX design job
- - [https://uxbuddy.co](https://uxbuddy.co)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Home | uxmichael.co
- - [https://www.uxmichael.co](https://www.uxmichael.co)
- - date_published: 2024-12-19T21:03:15+00:00
-
- ## Labioplastia en Cali by Dr. GIOVANNY ALVARADO - Labioplastia by Dr. Alvarado
- - [https://vaginoplastia.co](https://vaginoplastia.co)
- - date_published: 2019-11-02T02:47:27+00:00
-
- ## Van Holtz Co
- - [http://vanholtz.co](http://vanholtz.co)
- - date_published: 2019-02-16T05:58:25+00:00
-
- ## CCTV Pipe Inspection Software Powered with AI
- - [https://vapar.co](https://vapar.co)
- - date_published: 2024-12-20T23:21:53.477744+00:00
-
- ## VCET - Vermont Center for Emerging Technologies
- - [https://vcet.co](https://vcet.co)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## VCInsights.co - Every VC investment memo in one spot
- - [https://vcinsights.co](https://vcinsights.co)
- - date_published: 2023-10-25T12:24:43.103005+00:00
-
- ## https://ve42.co
- - [https://ve42.co](https://ve42.co)
- - date_published: 2017-02-21T22:03:29+00:00
- - tags: ['veritasium']
-
- ## Home Vectorial
- - [https://www.vectorial.co](https://www.vectorial.co)
- - date_published: 2024-12-09T15:44:03.725188+00:00
-
- ## vectormaker | Convert PNG-to-SVG Vectors
- - [https://vectormaker.co](https://vectormaker.co)
- - date_published: 2024-07-19T18:33:29.161344+00:00
-
- ## Vegan Monkey
- - [https://app.veganmonkey.co](https://app.veganmonkey.co)
- - date_published: 2024-06-28T21:50:49+00:00
-
- ## Welcome to Vegan Monkey
- - [https://veganmonkey.co](https://veganmonkey.co)
- - date_published: 2024-05-07T10:46:15.556174+00:00
-
- ## Velg #1 Partner monday.com w Polsce | szkolenia, wdrożenie, wsparcie techniczne.
- - [https://www.velg.co](https://www.velg.co)
- - date_published: 2024-06-28T19:22:22.952359+00:00
-
- ## Verbit
- - [https://users.verbit.co](https://users.verbit.co)
- - date_published: 2024-05-29T11:41:05+00:00
-
- ## Home - Caption & Transcribe Your Content Easily
- - [https://verbit.co](https://verbit.co)
- - date_published: 2024-07-17T02:44:03.860403+00:00
-
- ## Vercel: Build and deploy the best web experiences with the Frontend Cloud – Vercel
- - [https://www.vercel.co](https://www.vercel.co)
- - date_published: 2024-07-20T18:41:38.855360+00:00
-
- ## Veridian Club Music | Retrospective Production from Miami Florida
- - [https://veridianclub.co](https://veridianclub.co)
- - date_published: 2024-05-07T18:38:43.015887+00:00
-
- ## VERO — True Social
- - [https://brand.vero.co](https://brand.vero.co)
- - date_published: 2024-06-18T07:22:54.982261+00:00
-
- ## Download VERO — VERO™
- - [https://get.vero.co](https://get.vero.co)
- - date_published: 2024-06-18T07:22:50.950182+00:00
-
- ## VERO — True Social
- - [https://vero.co](https://vero.co)
- - date_published: 2024-05-02T11:53:38.497570+00:00
-
- ## Vertiq
- - [https://vertiq.co](https://vertiq.co)
- - date_published: 2024-05-08T03:58:14.741458+00:00
-
- ## Vexillo
- - [https://vexillo.co](https://vexillo.co)
- - date_published: 2024-06-18T13:54:23.870097+00:00
-
- ## VGen | Commission human artists
- - [https://vgen.co](https://vgen.co)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Vi Labs - AI for tomorrow's health
- - [https://vi.co](https://vi.co)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## https://api.viafoura.co
- - [https://api.viafoura.co](https://api.viafoura.co)
- - date_published: 2023-12-12T09:04:16.386361+00:00
-
- ## Viafoura Login
- - [https://auth2.viafoura.co](https://auth2.viafoura.co)
- - date_published: 2024-05-09T09:25:17.992415+00:00
-
- ## Vibe: Streaming & Connected TV Advertising Platform
- - [https://vibe.co](https://vibe.co)
- - date_published: 2024-06-25T22:38:46.212570+00:00
-
- ## Registro Comunidad Vibra - Inscríbete a la Comunidad Vibra
- - [https://comunidad.vibra.co](https://comunidad.vibra.co)
- - date_published: 2024-09-13T11:33:28.100335+00:00
-
- ## Cierpliwości...
- - [https://vibra.co](https://vibra.co)
- - date_published: 2024-06-12T13:07:52.595787+00:00
-
- ## Show HN: VideoGist – Useful YouTube video summaries
- - [https://videogist.co](https://videogist.co)
- - date_published: 2023-12-07T12:30:15+00:00
-
- ## VideoScribe Blog
- - [https://blog.videoscribe.co](https://blog.videoscribe.co)
- - date_published: 2024-10-30T16:03:31+00:00
-
- ## Help home
- - [https://help.videoscribe.co](https://help.videoscribe.co)
- - date_published: 2024-10-25T15:16:54+00:00
-
- ## VideoScribe - Animated Video Maker - Animation Made Easy | Videoscribe
- - [https://www.videoscribe.co](https://www.videoscribe.co)
- - date_published: 2024-06-19T15:11:06+00:00
-
- ## Video Village · We make apps so you can make movies.
- - [https://videovillage.co](https://videovillage.co)
- - date_published: 2023-10-25T12:24:51.172519+00:00
-
- ## VidToBlogs | Youtube To Blog | Effortless Content Creation
- - [https://vidtoblogs.co](https://vidtoblogs.co)
- - date_published: 2024-09-06T05:43:28+00:00
-
- ## Brown Alpert Medical School
- - [https://alpertmedschool.viewin360.co](https://alpertmedschool.viewin360.co)
- - date_published: 2024-07-09T12:54:33.780384+00:00
-
- ## itasiri
- - [https://itasiri.viewin360.co](https://itasiri.viewin360.co)
- - date_published: 2024-09-04T05:28:29.789141+00:00
-
- ## Viewport
- - [https://app.viewport.co](https://app.viewport.co)
- - date_published: 2024-07-09T15:57:58+00:00
-
- ## Viewport — Catalog your creative process with ease
- - [https://viewport.co](https://viewport.co)
- - date_published: 2024-05-06T00:00:00+00:00
 

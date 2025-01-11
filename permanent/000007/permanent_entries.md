@@ -1,3 +1,50 @@
+ ## Hinge Trends
+ - [https://hinge-wrap-up.vercel.app](https://hinge-wrap-up.vercel.app)
+ - date_published: 2024-10-20T13:20:50.087406+00:00
+
+ ## Find Hacker News candidates and jobs powered by ChatGPT
+ - [https://hn-hiring-tpipr43zp-u-turn.vercel.app](https://hn-hiring-tpipr43zp-u-turn.vercel.app)
+ - date_published: 2024-04-30T02:25:43.297259+00:00
+
+ ## Hoarder
+ - [https://hoarder-website.vercel.app](https://hoarder-website.vercel.app)
+ - date_published: 2024-09-23T12:19:35.685324+00:00
+
+ ## Holograph
+ - [https://holograph-1.vercel.app](https://holograph-1.vercel.app)
+ - date_published: 2024-07-14T10:31:59.880001+00:00
+
+ ## Nomic
+ - [https://homepage-gw3wguthh-nomic-ai.vercel.app](https://homepage-gw3wguthh-nomic-ai.vercel.app)
+ - date_published: 2024-07-20T19:55:12.281035+00:00
+
+ - [https://honeyy.vercel.app](https://honeyy.vercel.app)
+ - date_published: 2024-04-08T19:28:58.472118+00:00
+
+ ## We're Building a better future with humans.
+ - [https://hushl.vercel.app](https://hushl.vercel.app)
+ - date_published: 2024-12-03T21:17:38+00:00
+
+ ## 정현수 포트폴리오
+ - [https://hyeonsu-jung.vercel.app](https://hyeonsu-jung.vercel.app)
+ - date_published: 2024-06-20T17:12:21.116394+00:00
+
+ ## HyperIN : The Ultra Pure HyperOS ROM
+ - [https://hyperin.vercel.app](https://hyperin.vercel.app)
+ - date_published: 2024-11-08T12:15:57.312664+00:00
+
+ ## ICPC | IIITDM Kancheepuram
+ - [https://icpc-iiitdm.vercel.app](https://icpc-iiitdm.vercel.app)
+ - date_published: 2024-12-24T13:41:50.384274+00:00
+
+ ## Idosell pages test react componnents
+ - [https://idosell-pages.vercel.app](https://idosell-pages.vercel.app)
+ - date_published: 2024-07-14T20:35:27.724746+00:00
+
+ ## FieldPRO Previsão
+ - [https://iframe-forecast.vercel.app](https://iframe-forecast.vercel.app)
+ - date_published: 2024-10-20T18:45:20.162409+00:00
+
  ## ImageWise
  - [https://imagewise-oqkz.vercel.app](https://imagewise-oqkz.vercel.app)
  - date_published: 2024-06-19T20:04:24.420090+00:00
@@ -909,6 +956,10 @@
  ## Shiny Button
  - [https://shiny-button.vercel.app](https://shiny-button.vercel.app)
  - date_published: 2023-10-25T08:31:31.559328+00:00
+
+ ## ShitGit
+ - [https://shitgit.vercel.app](https://shitgit.vercel.app)
+ - date_published: 2025-01-10T22:47:44.577679+00:00
 
  ## Ecommerce Store with Typesense + Next.js + Vercel
  - [https://showcase-nextjs-typesense-ecommerce-store.vercel.app](https://showcase-nextjs-typesense-ecommerce-store.vercel.app)
@@ -3972,56 +4023,4 @@
  ## Places - NEWEAST
  - [https://neweast.art](https://neweast.art)
  - date_published: 2024-07-01T08:05:48.177346+00:00
-
- ## NEX: Controllable AI Image Generation for All
- - [https://www.nex.art](https://www.nex.art)
- - date_published: 2024-12-12T11:14:04+00:00
-
- ## The best AI tools for creatives | NextGen.art
- - [https://www.nextgen.art](https://www.nextgen.art)
- - date_published: 2024-09-13T20:25:30.281454+00:00
-
- ## Nicholas Hall
- - [https://www.nicholashall.art](https://www.nicholashall.art)
- - date_published: 2024-12-12T04:58:56+00:00
-
- ## Nicholas Kole
- - [https://www.nicholaskole.art](https://www.nicholaskole.art)
- - date_published: 2024-06-21T19:59:36.354223+00:00
-
- ## niklasgoeke.com - Lessons from life outside the comfort zone
- - [https://nik.art](https://nik.art)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Ника Мавроди
- - [http://nikamavrody.art](http://nikamavrody.art)
- - date_published: 2024-08-19T08:35:54.373492+00:00
-
- ## New Masters Academy's Beyond the Frame
- - [https://blog.nma.art](https://blog.nma.art)
- - date_published: 2024-06-21T19:59:48.291655+00:00
-
- ## NMA Coaching Program
- - [https://coaching.nma.art](https://coaching.nma.art)
- - date_published: 2024-06-21T19:59:47.079968+00:00
-
- ## New Masters Academy | Live Classes
- - [https://live.nma.art](https://live.nma.art)
- - date_published: 2024-06-14T06:10:23+00:00
-
- ## New Masters Academy
- - [https://nma.art](https://nma.art)
- - date_published: 2024-06-18T16:16:49.524477+00:00
-
- ## nonkiru.art
- - [https://nonkiru.art](https://nonkiru.art)
- - date_published: 2024-04-30T02:56:29+00:00
-
- ## Nucleart | Make Art Not War
- - [https://nucle.art](https://nucle.art)
- - date_published: 2024-07-04T04:23:38.628485+00:00
-
- ## Art, technology, and NFTs - Outland
- - [https://outland.art](https://outland.art)
- - date_published: 2023-10-25T11:52:36.812240+00:00
 

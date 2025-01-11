@@ -1,3 +1,71 @@
+ ## UWA Impact : The University of Western Australia
+ - [https://news.uwa.edu.au](https://news.uwa.edu.au)
+ - date_published: 2024-01-25T11:14:20.098611+00:00
+
+ ## the UWA Profiles and Research Repository
+ - [https://research-repository.uwa.edu.au](https://research-repository.uwa.edu.au)
+ - date_published: 2024-07-03T17:58:11.320099+00:00
+
+ ## The University of Western Australia - Seek wisdom with a leading university for employability
+ - [https://uwa.edu.au](https://uwa.edu.au)
+ - date_published: 2024-08-17T23:04:13.313195+00:00
+
+ ## School of Physics, Mathematics and Computing | UWA
+ - [https://www.csse.uwa.edu.au](https://www.csse.uwa.edu.au)
+ - date_published: 2024-05-08T03:29:42.514229+00:00
+
+ ## Indigenous portfolio
+ - [https://www.indigenous.uwa.edu.au](https://www.indigenous.uwa.edu.au)
+ - date_published: 2024-07-03T17:58:08.199664+00:00
+
+ ## University IT : University IT : The University of Western Australia
+ - [https://www.it.uwa.edu.au](https://www.it.uwa.edu.au)
+ - date_published: 2024-07-03T17:58:45.240919+00:00
+
+ ## Jobs at UWA : Jobs at UWA : The University of Western Australia
+ - [https://www.jobs.uwa.edu.au](https://www.jobs.uwa.edu.au)
+ - date_published: 2024-07-03T17:58:30.015597+00:00
+
+ ## Lawrence Wilson Art Gallery | Home
+ - [http://www.lwgallery.uwa.edu.au](http://www.lwgallery.uwa.edu.au)
+ - date_published: 2024-12-20T18:16:46.437351+00:00
+
+ ## Research at UWA : Research : The University of Western Australia
+ - [https://www.research.uwa.edu.au](https://www.research.uwa.edu.au)
+ - date_published: 2014-11-04T08:36:06+00:00
+
+ ## Safety
+ - [https://www.safety.uwa.edu.au](https://www.safety.uwa.edu.au)
+ - date_published: 2024-07-03T17:58:20.960589+00:00
+
+ ## Find all the information you need on scholarships and fees while studying at UWA.
+ - [https://www.scholarships.uwa.edu.au](https://www.scholarships.uwa.edu.au)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Student Hub | The University of Western Australia
+ - [http://www.student.uwa.edu.au](http://www.student.uwa.edu.au)
+ - date_published: 2024-08-17T23:04:08.612222+00:00
+
+ ## Transport and parking
+ - [https://www.transport.uwa.edu.au](https://www.transport.uwa.edu.au)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## UniPrint  : UniPrint : The University of Western Australia
+ - [https://www.uniprint.uwa.edu.au](https://www.uniprint.uwa.edu.au)
+ - date_published: 2017-02-27T02:09:49+00:00
+
+ ## The University of Western Australia - Seek wisdom with a leading university for employability
+ - [http://www.web.uwa.edu.au](http://www.web.uwa.edu.au)
+ - date_published: 2024-07-03T17:58:15.452260+00:00
+
+ ## Walter and Eliza Hall Institute of Medical Research | WEHI
+ - [https://www.wehi.edu.au](https://www.wehi.edu.au)
+ - date_published: 2024-11-11T20:40:01.641290+00:00
+
+ ## Western Sydney University
+ - [https://give.westernsydney.edu.au](https://give.westernsydney.edu.au)
+ - date_published: 2024-07-19T03:20:26.332369+00:00
+
  ## Western Sydney University Library
  - [https://library.westernsydney.edu.au](https://library.westernsydney.edu.au)
  - date_published: 2022-07-08T07:15:24+00:00
@@ -3952,72 +4020,4 @@
  ## 智能驾驶系统-百度智能驾驶解决方案及汽车智能化产品-百度Apollo|Baidu阿波罗
  - [https://apollo.auto](https://apollo.auto)
  - date_published: 2024-07-12T08:49:21.266940+00:00
-
- ## Атом
- - [http://atom.auto](http://atom.auto)
- - date_published: 2024-10-17T15:17:11.675386+00:00
-
- ## Autonomous Visualization System
- - [http://avs.auto](http://avs.auto)
- - date_published: 2024-10-17T15:15:21.442110+00:00
-
- ## Casi - the complete flexible fleet platform
- - [http://casi.auto](http://casi.auto)
- - date_published: 2024-10-17T15:17:40.050591+00:00
-
- ## DriveU.auto - Superior connectivity platform for autonomous vehicle teleoperation
- - [https://driveu.auto](https://driveu.auto)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## EV Personal Car Leasing Deals & Offers | PCH | ElectricAuto
- - [https://electric.auto](https://electric.auto)
- - date_published: 2024-06-16T10:53:37.657186+00:00
-
- ## .Auto Domains | Find Your Perfect Domain Name
- - [https://go.auto](https://go.auto)
- - date_published: 2024-06-17T07:44:09.705886+00:00
-
- ## Hi Auto - Voice AI for QSR
- - [http://hi.auto](http://hi.auto)
- - date_published: 2024-10-17T15:15:19.690604+00:00
-
- ## Mieten Sie ein Auto bei Oscar Autovermietung | oscar.auto
- - [http://oscar.auto](http://oscar.auto)
- - date_published: 2024-10-17T15:17:14.732224+00:00
-
- ## Phantom Auto - Drivers Can Work Remotely
- - [https://phantom.auto](https://phantom.auto)
- - date_published: 2024-07-07T14:24:30+00:00
-
- ## Renew Approved Used Vehicles For Sale
- - [https://uk.renew.auto](https://uk.renew.auto)
- - date_published: 2024-06-12T20:52:56.130085+00:00
-
- ## 斯年智驾官网_全球场景物流无人驾驶领军者
- - [http://senior.auto](http://senior.auto)
- - date_published: 2024-10-17T15:01:11.283175+00:00
-
- ## Stable Auto - Predict ROI for EV Charging
- - [https://stable.auto](https://stable.auto)
- - date_published: 2024-08-19T17:33:57.508947+00:00
-
- ## 白犀牛自动驾驶
- - [http://www.white-rhino.auto](http://www.white-rhino.auto)
- - date_published: 2024-07-12T07:31:25.845005+00:00
-
- ## ZenAuto: Personal & Business Car Leasing | Contract Hire UK
- - [https://zen.auto](https://zen.auto)
- - date_published: 2024-06-16T10:53:45.102591+00:00
-
- ## .Autos Domain Names | The .Autos Registry
- - [https://nic.autos](https://nic.autos)
- - date_published: 2024-10-17T14:59:50.863162+00:00
-
- ## .Autos Domain Names
- - [https://xyz.autos](https://xyz.autos)
- - date_published: 2024-06-17T07:44:03.966556+00:00
-
- ## BIOMES | CRYPTO-NATIVE EXPERIENCES USING ONCHAIN SANDBOXES
- - [https://biomes.aw](https://biomes.aw)
- - date_published: 2024-05-03T21:25:57+00:00
 

@@ -1,3 +1,91 @@
+ ## Log in | Astro Studio
+ - [https://studio.astro.build](https://studio.astro.build)
+ - date_published: 2024-09-09T16:18:18.256880+00:00
+
+ ## Bazel
+ - [https://bazel.build](https://bazel.build)
+ - date_published: 2022-11-23T21:10:38+00:00
+
+ ## Bazel Blog - Bazel
+ - [https://blog.bazel.build](https://blog.bazel.build)
+ - date_published: 2024-04-29T18:14:56+00:00
+
+ ## Join Bazel on Slack
+ - [https://slack.bazel.build](https://slack.bazel.build)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Built Environment - Smarter Transformation
+ - [https://be-st.build](https://be-st.build)
+ - date_published: 2024-04-30T05:56:27.290621+00:00
+
+ ## Bob - Lightning fast build platform
+ - [https://bob.build](https://bob.build)
+ - date_published: 2024-04-29T05:49:29.587217+00:00
+
+ ## Show HN: Brisa Framework – Unifying server and client using the Web Platform
+ - [https://brisa.build](https://brisa.build)
+ - date_published: 2024-10-05T11:19:56+00:00
+
+ ## A fast build tool
+ - [https://buck.build](https://buck.build)
+ - date_published: 2023-04-22T01:36:21+00:00
+
+ ## Buck2 build system website | Buck2
+ - [https://buck2.build](https://buck2.build)
+ - date_published: 2024-09-18T16:30:53+00:00
+
+ ## Buf
+ - [https://buf.build](https://buf.build)
+ - date_published: 2023-10-25T12:02:56.971684+00:00
+
+ ## Caliber Venture Builder
+ - [https://caliber.build](https://caliber.build)
+ - date_published: 2024-06-12T05:35:17+00:00
+
+ ## Unauthorized Access
+ - [https://dknetwork.chorus.build](https://dknetwork.chorus.build)
+ - date_published: 2024-08-06T11:54:46.768021+00:00
+
+ ## Vrbs [DAO]
+ - [https://co.build](https://co.build)
+ - date_published: 2024-10-22T16:51:41.679731+00:00
+
+ ## Code.Build 💻
+ - [https://code.build](https://code.build)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Aleph, Ciudad de crecimiento
+ - [https://www.aleph.crecimiento.build](https://www.aleph.crecimiento.build)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Deal With It GIF emoji generator
+ - [https://emoji.build](https://emoji.build)
+ - date_published: 2024-10-15T14:58:23.293793+00:00
+
+ ## ETH.Build - Educational Sandbox For Web3
+ - [http://eth.build](http://eth.build)
+ - date_published: 2020-05-26T22:35:03+00:00
+
+ ## Flaky Build
+ - [https://flaky.build](https://flaky.build)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Fox.Build Makerspace, Hackerspace & Coworking St Charles IL
+ - [https://fox.build](https://fox.build)
+ - date_published: 2024-04-28T04:56:21.931399+00:00
+
+ ## Fractal
+ - [https://fractal.build](https://fractal.build)
+ - date_published: 2024-07-10T07:17:12.410890+00:00
+
+ ## HedgeDoc - Ideas grow better together
+ - [https://notes.infinite.build](https://notes.infinite.build)
+ - date_published: 2024-09-23T12:19:22.014993+00:00
+
+ ## Ko: Easy Go Containers
+ - [https://ko.build](https://ko.build)
+ - date_published: 2023-11-08T00:37:54+00:00
+
  ## Linea Bridge
  - [https://bridge.linea.build](https://bridge.linea.build)
  - date_published: 2024-09-24T05:14:27.164122+00:00
@@ -382,6 +470,10 @@
  ## Mmegi Online - Home
  - [http://www.mmegi.bw](http://www.mmegi.bw)
  - date_published: 2024-12-13T09:54:02.874114+00:00
+
+ ## BoFiNet
+ - [http://www.bofinet.co.bw](http://www.bofinet.co.bw)
+ - date_published: 2025-01-10T17:43:25.799125+00:00
 
  ## Grafika Google
  - [https://images.google.co.bw](https://images.google.co.bw)
@@ -1772,6 +1864,10 @@
  ## Top 5 Toronto Plumbers and Plumbing Contractors for 2020 | Autoglass.ca
  - [http://www.autoglass.ca](http://www.autoglass.ca)
  - date_published: 2024-06-29T17:35:12.234752+00:00
+
+ ## Avalon Jazz - Mobilizon
+ - [https://avalonjazz.ca](https://avalonjazz.ca)
+ - date_published: 2025-01-10T17:44:45.959926+00:00
 
  ## Car Rentals from Avis, Book Online Now & Save
  - [https://www.avis.ca](https://www.avis.ca)
@@ -3921,100 +4017,4 @@
  ## Law Practice Management Software | CosmoLex Canada
  - [https://www.cosmolex.ca](https://www.cosmolex.ca)
  - date_published: 2019-12-19T01:55:27+00:00
-
- ## Welcome! - CoSocial Community Cooperative
- - [https://blog.cosocial.ca](https://blog.cosocial.ca)
- - date_published: 2023-04-07T21:25:17+00:00
-
- ## CoSocial
- - [https://cosocial.ca](https://cosocial.ca)
- - date_published: 2024-05-06T14:49:26.495813+00:00
-
- ## Hudson's Bay Company - The Country Of Adventurers
- - [http://www.countryofadventurers.ca](http://www.countryofadventurers.ca)
- - date_published: 2024-09-14T09:58:20.588075+00:00
-
- ## Canada's Marketplace for Education | CourseCompare.ca
- - [https://coursecompare.ca](https://coursecompare.ca)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## COVID-19 Resources Canada
- - [https://covid19resources.ca](https://covid19resources.ca)
- - date_published: 2024-08-11T04:06:35.120937+00:00
-
- ## CPAC.ca
- - [https://www.cpac.ca](https://www.cpac.ca)
- - date_published: 2024-06-27T11:51:46.269941+00:00
-
- ## CPA Canada
- - [https://cpacanada.ca](https://cpacanada.ca)
- - date_published: 2024-06-16T00:56:48.372499+00:00
-
- ## Home
- - [https://cpastore-boutiquecpa.cpacanada.ca](https://cpastore-boutiquecpa.cpacanada.ca)
- - date_published: 2024-08-29T15:01:32+00:00
-
- ## Public sector conference 2024 - CPA Canada
- - [https://psc.cpacanada.ca](https://psc.cpacanada.ca)
- - date_published: 2024-09-20T15:31:20.350274+00:00
-
- ## CPA Canada | The ONE Conference 2024
- - [https://theone.cpacanada.ca](https://theone.cpacanada.ca)
- - date_published: 2024-09-20T15:31:22.441618+00:00
-
- ## CPA Manitoba
- - [https://cpamb.ca](https://cpamb.ca)
- - date_published: 2024-09-20T15:31:24.537481+00:00
-
- ## Bookstore – CPS Member Centre
- - [https://bookstore.cps.ca](https://bookstore.cps.ca)
- - date_published: 2024-08-17T23:02:34.407467+00:00
-
- ## Home
- - [https://caringforkids.cps.ca](https://caringforkids.cps.ca)
- - date_published: 2024-08-17T23:02:29+00:00
-
- ## Protecting and promoting the health and well-being of children and youth | Canadian Paediatric Society
- - [https://cps.ca](https://cps.ca)
- - date_published: 2024-01-26T10:31:49.585956+00:00
-
- ## Home - CPSP
- - [https://cpsp.cps.ca](https://cpsp.cps.ca)
- - date_published: 2024-08-17T23:02:39+00:00
-
- ## Restricted Access – CPS Member Centre
- - [https://members.cps.ca](https://members.cps.ca)
- - date_published: 2024-08-17T23:02:27.653661+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.cps.ca](https://plausible.cps.ca)
- - date_published: 2024-08-17T23:02:32.148648+00:00
-
- ## Home - CPS
- - [https://www.cps-ecp.ca](https://www.cps-ecp.ca)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Canadian Public Transit Discussion Board
- - [https://cptdb.ca](https://cptdb.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## craigslist | canada
- - [https://toronto.craigslist.ca](https://toronto.craigslist.ca)
- - date_published: 2024-08-05T20:41:10+00:00
-
- ## Crandall University – A Proud Tradition of Academic Excellence and Faith
- - [https://www.crandallu.ca](https://www.crandallu.ca)
- - date_published: 2025-01-08T21:58:15.863218+00:00
-
- ## CRAQ | Comprendre l'Univers
- - [https://craq-astro.ca](https://craq-astro.ca)
- - date_published: 2024-09-16T00:58:01.002259+00:00
-
- ## Observatoire du Mont-Mégantic – Page d'accueil
- - [http://omm.craq-astro.ca](http://omm.craq-astro.ca)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Modern Furniture Store, Kitchen & Home Decor Canada | Crate & Barrel Canada
- - [https://www.crateandbarrel.ca](https://www.crateandbarrel.ca)
- - date_published: 2024-08-05T22:42:08.940719+00:00
 

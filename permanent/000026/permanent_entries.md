@@ -1,3 +1,103 @@
+ ## MDTURP | MDTURP
+ - [https://blog.mdturp.ch](https://blog.mdturp.ch)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Willkommen bei MediaMarkt Schweiz
+ - [https://www.mediamarkt.ch](https://www.mediamarkt.ch)
+ - date_published: 2024-07-13T13:39:11.250633+00:00
+
+ ## Media One Contact - 1# Régie publicitaire Radio en Suisse Romande
+ - [https://www.mediaone.ch](https://www.mediaone.ch)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Urgences Vaud by medigo - Les urgences à portée de main
+ - [https://medigo.ch](https://medigo.ch)
+ - date_published: 2024-04-30T05:59:25.869431+00:00
+
+ ## Site de rencontre suisse pour célibataires sérieux ­| Meetic
+ - [https://fr.meetic.ch](https://fr.meetic.ch)
+ - date_published: 2024-09-04T11:50:24.187260+00:00
+
+ ## Welcome in MPZ
+ - [https://meinungsplatz.ch](https://meinungsplatz.ch)
+ - date_published: 2024-06-25T22:24:35.815349+00:00
+
+ ## Unterhaltungs- & Haushaltselektronik | melectronics
+ - [https://www.melectronics.ch](https://www.melectronics.ch)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Mental Groove Records / Musique Pour La Danse
+ - [https://shop.mentalgroove.ch](https://shop.mentalgroove.ch)
+ - date_published: 2024-10-22T20:17:44.003860+00:00
+
+ ## Venir en aide aux plus démuni·e·s, sans discrimination. - Fondation Mère Sofia
+ - [https://www.meresofia.ch](https://www.meresofia.ch)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home
+ - [https://mesh.ch](https://mesh.ch)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Mesh – Festival für Kunst und Technologie – 16.–20. Oktober 2024
+ - [https://meshfestival.ch](https://meshfestival.ch)
+ - date_published: 2024-09-14T09:27:52.918437+00:00
+
+ ## Météo & Radar Suisse
+ - [https://meteoetradar.ch](https://meteoetradar.ch)
+ - date_published: 2024-05-07T12:52:58.197087+00:00
+
+ ## METOKI – Marketing, Digitalisierung, Wissensmanagement
+ - [https://www.metoki.ch](https://www.metoki.ch)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Bienvenue sur meute.ch
+ - [http://www.meute.ch](http://www.meute.ch)
+ - date_published: 2023-04-24T08:01:44+00:00
+
+ ## Massgeschneidertes Software Engineering
+ - [https://www.m-f.ch](https://www.m-f.ch)
+ - date_published: 2024-09-18T17:58:48.121310+00:00
+
+ ## Michel Egger
+ - [https://www.michelegger.ch](https://www.michelegger.ch)
+ - date_published: 2023-06-15T08:10:32+00:00
+
+ ## Michelle Gisin - Home
+ - [https://michellegisin.ch](https://michellegisin.ch)
+ - date_published: 2024-09-28T23:44:34.320999+00:00
+
+ ## Micos Engineering GmbH
+ - [http://www.micos.ch](http://www.micos.ch)
+ - date_published: 2020-05-27T12:18:46+00:00
+
+ ## Interdiscount - Der Elektronik-Shop Nr. 1
+ - [https://www.microspot.ch](https://www.microspot.ch)
+ - date_published: 2024-07-20T16:13:13.575215+00:00
+
+ ## Migros
+ - [http://www.migros.ch](http://www.migros.ch)
+ - date_published: 2024-07-02T06:48:58+00:00
+
+ ## Miler.ch – Casa d’Arte Miler
+ - [https://miler.ch](https://miler.ch)
+ - date_published: 2024-06-14T11:59:26.055050+00:00
+
+ ## Grafana
+ - [https://monitoring.minetest.ch](https://monitoring.minetest.ch)
+ - date_published: 2024-07-11T12:26:55.686879+00:00
+
+ ## minetest.ch status
+ - [https://status.minetest.ch](https://status.minetest.ch)
+ - date_published: 2024-07-11T12:26:56.803875+00:00
+
+ ## Mingye Chen
+ - [https://mingye.ch](https://mingye.ch)
+ - date_published: 2024-01-01T04:06:13+00:00
+
+ ## minimum.ch – Minimum Boulder, Bar und Restaurant in Zürich
+ - [http://minimum.ch](http://minimum.ch)
+ - date_published: 2024-07-21T02:22:51.914338+00:00
+
  ## Salon MINT Vaud - Du 24 février au 2 mars 2025 à l’EPFL
  - [https://mint-vaud.ch](https://mint-vaud.ch)
  - date_published: 2024-07-04T00:00:00+00:00
@@ -3917,104 +4017,4 @@ Fakultät | Universität Basel
  ## Benvenuti Zeltwelt
  - [https://it.zeltwelt.ch](https://it.zeltwelt.ch)
  - date_published: 2024-10-29T11:16:55.626910+00:00
-
- ## Herzlich willkommen bei Zeltwelt
- - [https://zeltwelt.ch](https://zeltwelt.ch)
- - date_published: 2024-10-29T11:16:53.848012+00:00
-
- ## ZEM CES - Im Dienst der Sek II
- - [https://www.zemces.ch](https://www.zemces.ch)
- - date_published: 2024-10-29T13:50:14.124447+00:00
-
- ## Zurich Graduate School
- - [http://www.zgsm.ch](http://www.zgsm.ch)
- - date_published: 2024-06-20T13:59:31.672344+00:00
-
- ## Startseite
- - [https://blog.zhaw.ch](https://blog.zhaw.ch)
- - date_published: 2024-06-22T10:28:45.685271+00:00
-
- ## ZHAW-Impact 03/23: Digital Health
- - [https://impact.zhaw.ch](https://impact.zhaw.ch)
- - date_published: 2024-06-22T10:28:44.143158+00:00
-
- ## Home | Moodle ZHAW
- - [https://moodle.zhaw.ch](https://moodle.zhaw.ch)
- - date_published: 2024-06-22T10:28:41+00:00
-
- ## Watching the World
- - [https://webcamaze.engineering.zhaw.ch](https://webcamaze.engineering.zhaw.ch)
- - date_published: 2023-12-23T00:58:53.598471+00:00
-
- ## Willkommen an der ZHAW | ZHAW Zürcher Hochschule für Angewandte Wissenschaften
- - [https://www.zhaw.ch](https://www.zhaw.ch)
- - date_published: 2024-05-04T15:31:58.714036+00:00
-
- ## Zürcher Hochschule der Künste | ZHdK.ch
- - [https://www.zhdk.ch](https://www.zhdk.ch)
- - date_published: 2024-06-27T12:49:13.746220+00:00
-
- ## Webcast «Gewusst wie: Immobilien im dritten Lebensabschnitt»
- - [https://immobilien-pension.events.zkb.ch](https://immobilien-pension.events.zkb.ch)
- - date_published: 2024-05-24T08:59:54+00:00
-
- ## Zürcher Kantonalbank – wir sind die nahe Bank seit über 150 Jahren.
- - [https://zkb.ch](https://zkb.ch)
- - date_published: 2024-09-26T13:05:13+00:00
-
- ## ZOA CITY
- - [https://zoacity.ch](https://zoacity.ch)
- - date_published: 2024-05-08T00:39:50.937721+00:00
-
- ## Zoetis
- - [https://www2.zoetis.ch](https://www2.zoetis.ch)
- - date_published: 2024-06-27T09:52:50+00:00
-
- ## Zondax: Code. Create. Connect
- - [https://auth.zondax.ch](https://auth.zondax.ch)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Beryx: Blockchain Explorer, Dashboards, Faucet and Tools
- - [https://beryx.zondax.ch](https://beryx.zondax.ch)
- - date_published: 2024-09-21T23:55:52.456669+00:00
-
- ## Zondax Documentation | Zondax Documentation
- - [https://docs.zondax.ch](https://docs.zondax.ch)
- - date_published: 2024-09-21T23:49:15.508229+00:00
-
- ## Zondax hub: Install unreleased and released assets on your hardware wallet
- - [https://hub.zondax.ch](https://hub.zondax.ch)
- - date_published: 2024-09-21T23:56:47.256451+00:00
-
- ## Zondax: Secure Blockchain R&D Solutions
- - [https://zondax.ch](https://zondax.ch)
- - date_published: 2024-06-16T03:37:43.933481+00:00
-
- ## Support
- - [https://support.zooplus.ch](https://support.zooplus.ch)
- - date_published: 2024-09-26T11:26:07.801397+00:00
-
- ## Tierbedarf, Tierfutter, Tiernahrung günstig kaufen bei zooplus.ch
- - [https://www.zooplus.ch](https://www.zooplus.ch)
- - date_published: 2024-06-16T06:27:59.149895+00:00
-
- ## ZSIG - Zürcherische Seidenindustrie Gesellschaft
- - [https://zsig.ch](https://zsig.ch)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Agenda - Zürichsee-Zeitung
- - [https://agenda.zsz.ch](https://agenda.zsz.ch)
- - date_published: 2024-07-22T17:39:20.050511+00:00
-
- ## Zürichsee-Zeitung
- - [https://helpcenter.zsz.ch](https://helpcenter.zsz.ch)
- - date_published: 2023-07-22T05:29:56+00:00
-
- ## Die Regionalzeitung für die See-Region | Zürichsee-Zeitung
- - [https://zsz.ch](https://zsz.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Züri wie neu
- - [https://www.zueriwieneu.ch](https://www.zueriwieneu.ch)
- - date_published: 2024-12-21T23:24:18.140061+00:00
 

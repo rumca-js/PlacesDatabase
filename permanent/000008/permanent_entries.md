@@ -1,3 +1,55 @@
+ ## NEX: Controllable AI Image Generation for All
+ - [https://www.nex.art](https://www.nex.art)
+ - date_published: 2024-12-12T11:14:04+00:00
+
+ ## The best AI tools for creatives | NextGen.art
+ - [https://www.nextgen.art](https://www.nextgen.art)
+ - date_published: 2024-09-13T20:25:30.281454+00:00
+
+ ## Nicholas Hall
+ - [https://www.nicholashall.art](https://www.nicholashall.art)
+ - date_published: 2024-12-12T04:58:56+00:00
+
+ ## Nicholas Kole
+ - [https://www.nicholaskole.art](https://www.nicholaskole.art)
+ - date_published: 2024-06-21T19:59:36.354223+00:00
+
+ ## niklasgoeke.com - Lessons from life outside the comfort zone
+ - [https://nik.art](https://nik.art)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Ника Мавроди
+ - [http://nikamavrody.art](http://nikamavrody.art)
+ - date_published: 2024-08-19T08:35:54.373492+00:00
+
+ ## New Masters Academy's Beyond the Frame
+ - [https://blog.nma.art](https://blog.nma.art)
+ - date_published: 2024-06-21T19:59:48.291655+00:00
+
+ ## NMA Coaching Program
+ - [https://coaching.nma.art](https://coaching.nma.art)
+ - date_published: 2024-06-21T19:59:47.079968+00:00
+
+ ## New Masters Academy | Live Classes
+ - [https://live.nma.art](https://live.nma.art)
+ - date_published: 2024-06-14T06:10:23+00:00
+
+ ## New Masters Academy
+ - [https://nma.art](https://nma.art)
+ - date_published: 2024-06-18T16:16:49.524477+00:00
+
+ ## nonkiru.art
+ - [https://nonkiru.art](https://nonkiru.art)
+ - date_published: 2024-04-30T02:56:29+00:00
+
+ ## Nucleart | Make Art Not War
+ - [https://nucle.art](https://nucle.art)
+ - date_published: 2024-07-04T04:23:38.628485+00:00
+
+ ## Art, technology, and NFTs - Outland
+ - [https://outland.art](https://outland.art)
+ - date_published: 2023-10-25T11:52:36.812240+00:00
+
  ## Owl AI - Logo generator powered by gpt-4o
  - [https://app.owlai.art](https://app.owlai.art)
  - date_published: 2024-06-14T08:55:01.621965+00:00
@@ -1465,6 +1517,10 @@ October 2024 in Singapore
  ## Zentraler Informatikdienst
  - [http://zid.univie.ac.at](http://zid.univie.ac.at)
  - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Webster Vienna Private University
+ - [https://www.webster.ac.at](https://www.webster.ac.at)
+ - date_published: 2025-01-10T04:07:08.245655+00:00
 
  ## The Vienna Institute for International Economic Studies (wiiw)
  - [https://wiiw.ac.at](https://wiiw.ac.at)
@@ -3977,61 +4033,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Max Böck
  - [https://mxb.at](https://mxb.at)
  - date_published: 2024-05-07T23:16:33.200925+00:00
-
- ## The Yocto Project | Spreadshop
- - [https://100785105.myspreadshop.at](https://100785105.myspreadshop.at)
- - date_published: 2024-12-25T12:11:45.235799+00:00
-
- ## GameMaker Merchandise - Shirts Hoodies & Caps | GameMaker | Spreadshop
- - [https://100945308.myspreadshop.at](https://100945308.myspreadshop.at)
- - date_published: 2024-09-15T23:51:57.870937+00:00
-
- ## Melon & Finn Shop | Spreadshop
- - [https://101002615.myspreadshop.at](https://101002615.myspreadshop.at)
- - date_published: 2024-12-25T12:07:28.177473+00:00
-
- ## Cults official store | Spreadshop
- - [https://101037123.myspreadshop.at](https://101037123.myspreadshop.at)
- - date_published: 2024-07-04T17:56:19.834891+00:00
-
- ## AmigaOS Merchandising
- - [https://amigaos.myspreadshop.at](https://amigaos.myspreadshop.at)
- - date_published: 2024-07-20T13:16:20.462027+00:00
- - date_dead_since: 2025-01-06T22:02:28.096674+00:00
-
- ## Mautic Community Swag Shop | Spreadshop
- - [https://mautic-community-swag-shop.myspreadshop.at](https://mautic-community-swag-shop.myspreadshop.at)
- - date_published: 2024-07-18T15:08:11.815254+00:00
-
- ## Linux Foundation Europe Swag Store | Spreadshop
- - [https://shop-linuxfoundation.myspreadshop.at](https://shop-linuxfoundation.myspreadshop.at)
- - date_published: 2024-07-03T00:00:44.946047+00:00
-
- ## Home - nachhaltigeuniversitaeten.at
- - [https://nachhaltigeuniversitaeten.at](https://nachhaltigeuniversitaeten.at)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## OÖNachrichten Digital Days
- - [https://corporate-publishing.nachrichten.at](https://corporate-publishing.nachrichten.at)
- - date_published: 2024-07-13T11:28:54.265601+00:00
-
- ## OÖNachrichten Digital Days
- - [https://digitaldays.nachrichten.at](https://digitaldays.nachrichten.at)
- - date_published: 2024-07-13T11:29:24.211805+00:00
-
- ## Immobilien in Linz und Oberösterreich | immobilien.nachrichten.at
- - [https://immobilien.nachrichten.at](https://immobilien.nachrichten.at)
- - date_published: 2024-07-13T11:28:58.255375+00:00
-
- ## Jobbörse für Oberösterreich | jobs.nachrichten.at
- - [https://jobs.nachrichten.at](https://jobs.nachrichten.at)
- - date_published: 2024-07-13T11:29:25.626896+00:00
-
- ## Karriere
- - [https://karriere.nachrichten.at](https://karriere.nachrichten.at)
- - date_published: 2024-07-13T11:29:04.992418+00:00
-
- ## Oberösterreichische Nachrichten | OÖN
- - [https://nachrichten.at](https://nachrichten.at)
- - date_published: 2024-05-11T07:10:49.233055+00:00
 
