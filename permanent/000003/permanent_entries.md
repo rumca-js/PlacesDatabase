@@ -1,3 +1,23 @@
+ ## Penelope.ai
+ - [https://app.penelope.ai](https://app.penelope.ai)
+ - date_published: 2024-05-08T03:01:32.442324+00:00
+
+ ## Penelope.ai
+ - [https://penelope.ai](https://penelope.ai)
+ - date_published: 2024-07-03T15:33:46.386616+00:00
+
+ ## Penly AI: Custom Anime & Real Girl Art Generator - Free Trial
+ - [https://penly.ai](https://penly.ai)
+ - date_published: 2024-01-01T05:10:32+00:00
+
+ ## PennyLane
+ - [https://pennylane.ai](https://pennylane.ai)
+ - date_published: 2024-06-19T14:40:25+00:00
+
+ ## People.ai All Rights Reserved
+ - [https://help.people.ai](https://help.people.ai)
+ - date_published: 2024-10-30T11:27:24.826473+00:00
+
  ## People.ai University | People.ai All Rights Reserved
  - [https://learn.people.ai](https://learn.people.ai)
  - date_published: 2024-10-30T11:27:42.466509+00:00
@@ -4029,24 +4049,4 @@
  ## Trainy
  - [https://trainy.ai](https://trainy.ai)
  - date_published: 2024-08-22T22:12:43.231520+00:00
-
- ## Transformer | Shakeel Hashim | Substack
- - [https://www.transformernews.ai](https://www.transformernews.ai)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Traveltalk: Hotel and travel advice using AI
- - [https://traveltalk.ai](https://traveltalk.ai)
- - date_published: 2025-01-10T16:39:26.492963+00:00
-
- ## AI-Ready iPaaS, Composable AI Integration & Automation Platform
- - [https://tray.ai](https://tray.ai)
- - date_published: 2024-12-24T08:34:37.788008+00:00
-
- ## Treble | The most effective WhatsApp Marketing Platform
- - [http://treble.ai](http://treble.ai)
- - date_published: 2023-03-08T19:51:00+00:00
-
- ## Auto Dialer
- - [https://www.trellus.ai](https://www.trellus.ai)
- - date_published: 2024-06-03T00:00:00+00:00
 

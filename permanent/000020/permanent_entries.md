@@ -1,3 +1,144 @@
+ ## Collingwood News - Local News for Collingwood and the Blue Mountain Region
+ - [https://www.collingwoodtoday.ca](https://www.collingwoodtoday.ca)
+ - date_published: 2024-12-26T13:51:37+00:00
+
+ ## Colorprinter - Colorprinter©
+ - [https://colorprinter.ca](https://colorprinter.ca)
+ - date_published: 2024-02-04T18:52:43+00:00
+
+ ## Cometdust.ca Published web page entry point
+ - [http://cometdust.ca](http://cometdust.ca)
+ - date_published: 2024-07-04T13:31:21.291849+00:00
+
+ ## CRC - Home Page / Accueil
+ - [https://www.comiterepubliquecanada.ca](https://www.comiterepubliquecanada.ca)
+ - date_published: 2024-07-13T17:55:45+00:00
+
+ ## CRC - Home Page / Accueil
+ - [https://committeerepubliccanada.ca](https://committeerepubliccanada.ca)
+ - date_published: 2024-05-11T08:05:30.094739+00:00
+
+ ## Commodore Computers: C64 VIC20 PET C128 Plus4 – 8 Bit PC's – Commodore: Inventor of the Personal Computer
+ - [https://www.commodore.ca](https://www.commodore.ca)
+ - date_published: 2024-07-14T12:26:40.418924+00:00
+
+ ## Mark Surman
+ - [http://marksurman.commons.ca](http://marksurman.commons.ca)
+ - date_published: 2024-07-07T10:29:26.629431+00:00
+
+ ## Life Insurance Quotes | Insurance Broker | Comox Valley BC
+ - [https://www.comoxvalleylifeinsurance.ca](https://www.comoxvalleylifeinsurance.ca)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Steve Szentesi Law Professional Corporation
+ - [https://competitionlawyer.ca](https://competitionlawyer.ca)
+ - date_published: 2024-10-18T19:12:21.001241+00:00
+
+ ## Status | Alliance
+ - [https://www.computecanada.ca](https://www.computecanada.ca)
+ - date_published: 2022-04-01T00:00:00+00:00
+
+ ## AAMAS 2019 - Home
+ - [http://aamas2019.encs.concordia.ca](http://aamas2019.encs.concordia.ca)
+ - date_published: 2019-05-18T21:46:49+00:00
+
+ ## Index Page
+ - [https://campus.concordia.ca](https://campus.concordia.ca)
+ - date_published: 2023-03-14T23:30:30+00:00
+
+ ## Centre for Digital Arts - Concordia University
+ - [http://cda.concordia.ca](http://cda.concordia.ca)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Concordia University
+ - [https://concordia.ca](https://concordia.ca)
+ - date_published: 2023-10-25T11:21:43.402681+00:00
+
+ ## Explore Concordia is Temporarily Unavailable - Concordia University
+ - [https://explore.concordia.ca](https://explore.concordia.ca)
+ - date_published: 2024-08-19T12:33:02+00:00
+
+ ## Upcoming Events
+         · greymatter Portal
+ - [https://go.concordia.ca](https://go.concordia.ca)
+ - date_published: 2024-08-19T12:41:09.787433+00:00
+
+ ## Sign In
+ - [https://hub.concordia.ca](https://hub.concordia.ca)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Hybrid
+ - [https://hybrid.concordia.ca](https://hybrid.concordia.ca)
+ - date_published: 2023-10-04T19:59:35+00:00
+
+ ## Concordia University Library
+ - [https://library.concordia.ca](https://library.concordia.ca)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Madiba Security Research Group - Concordia University
+ - [https://madiba.encs.concordia.ca](https://madiba.encs.concordia.ca)
+ - date_published: 2022-12-06T00:00:00+00:00
+
+ ## Home - Milieux
+ - [http://milieux.concordia.ca](http://milieux.concordia.ca)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## users.encs.concordia.ca
+ - [http://users.encs.concordia.ca](http://users.encs.concordia.ca)
+ - date_published: 2021-06-26T18:36:09+00:00
+
+ ## Concours Idéa
+ - [https://concoursidea.ca](https://concoursidea.ca)
+ - date_published: 2025-01-02T08:38:35+00:00
+
+ ## Concrete
+ - [https://concrete.ca](https://concrete.ca)
+ - date_published: 2024-10-27T12:25:57.562901+00:00
+
+ ## Travel Expense Management - SAP Concur
+ - [https://concur.ca](https://concur.ca)
+ - date_published: 2024-05-01T04:19:36.238347+00:00
+
+ ## Montreal 2024 | ConFoo.ca
+ - [https://confoo.ca](https://confoo.ca)
+ - date_published: 2024-04-29T06:28:37.246643+00:00
+
+ ## ConocoPhillips Canada
+ - [https://www.conocophillips.ca](https://www.conocophillips.ca)
+ - date_published: 2024-09-16T07:03:51.885084+00:00
+
+ ## consteval
+ - [https://consteval.ca](https://consteval.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Consultants in Canada, Canada
+ - [http://www.consultants.ca](http://www.consultants.ca)
+ - date_published: 2024-06-29T17:28:19.147363+00:00
+
+ ## Consumed by Ink
+ - [https://consumedbyink.ca](https://consumedbyink.ca)
+ - date_published: 2024-06-15T10:20:10.347161+00:00
+
+ ## Converse Canada - Official Store  - Converse Canada
+ - [https://www.converse.ca](https://www.converse.ca)
+ - date_published: 2025-01-08T22:20:19.933234+00:00
+
+ ## COPPUL – Council of Prairie and Pacific University Libraries
+ - [https://coppul.ca](https://coppul.ca)
+ - date_published: 2022-03-05T19:43:08+00:00
+
+ ## Correo
+ - [https://www.correo.ca](https://www.correo.ca)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Top 5 Top 5 Toronto CosmeticSurgeons for 2020 | CosmeticSurgeons.ca Plumbers and Plumbing Contractors for 2020 | CosmeticSurgeons.ca
+ - [http://www.cosmeticsurgeons.ca](http://www.cosmeticsurgeons.ca)
+ - date_published: 2024-06-29T17:33:37.911067+00:00
+
+ ## Law Practice Management Software | CosmoLex Canada
+ - [https://www.cosmolex.ca](https://www.cosmolex.ca)
+ - date_published: 2019-12-19T01:55:27+00:00
+
  ## Welcome! - CoSocial Community Cooperative
  - [https://blog.cosocial.ca](https://blog.cosocial.ca)
  - date_published: 2023-04-07T21:25:17+00:00
@@ -3675,6 +3816,10 @@
  - [https://professional.masimo.ca](https://professional.masimo.ca)
  - date_published: 2024-06-22T05:36:44.457229+00:00
 
+ ## Masimo - Home
+ - [https://www.masimo.ca](https://www.masimo.ca)
+ - date_published: 2025-01-11T18:07:47.225183+00:00
+
  ## Masonry in Canada, Canada
  - [http://www.masonry.ca](http://www.masonry.ca)
  - date_published: 2024-06-29T17:36:01.006332+00:00
@@ -3887,150 +4032,4 @@
  ## Home - Research & Innovation
  - [https://research.mcmaster.ca](https://research.mcmaster.ca)
  - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home - University Secretariat
- - [https://secretariat.mcmaster.ca](https://secretariat.mcmaster.ca)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Home - Faculty of Social Sciences
- - [https://socialsciences.mcmaster.ca](https://socialsciences.mcmaster.ca)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Welcome to Student Success Centre
- - [http://studentsuccess.mcmaster.ca](http://studentsuccess.mcmaster.ca)
- - date_published: 2024-08-17T05:31:13+00:00
-
- ## Student Wellness Centre - Student Wellness Centre
- - [https://wellness.mcmaster.ca](https://wellness.mcmaster.ca)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Department of Computing and Software – FACULTY OF ENGINEERING
- - [https://www.cas.mcmaster.ca](https://www.cas.mcmaster.ca)
- - date_published: 2024-01-04T00:51:18.377090+00:00
-
- ## Home
- - [http://www.eng.mcmaster.ca](http://www.eng.mcmaster.ca)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Faculty of Humanities | Humanities Degree | McMaster University
- - [http://www.humanities.mcmaster.ca](http://www.humanities.mcmaster.ca)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home - Department of Physics & Astronomy - Faculty of Science - McMaster University
- - [http://www.physics.mcmaster.ca](http://www.physics.mcmaster.ca)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Home - Faculty of Science - McMaster University
- - [http://www.science.mcmaster.ca](http://www.science.mcmaster.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home - McMaster Continuing Education
- - [https://www.mcmastercce.ca](https://www.mcmastercce.ca)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## McMaster Computer Science Society
- - [https://mcmastercs.ca](https://mcmastercs.ca)
- - date_published: 2024-08-18T07:34:51.873996+00:00
-
- ## National NewsMedia Council
- - [https://www.mediacouncil.ca](https://www.mediacouncil.ca)
- - date_published: 2024-12-25T18:46:55.766797+00:00
-
- ## Медиазона Центральная Азия
- - [https://mediazona.ca](https://mediazona.ca)
- - date_published: 2024-06-28T21:49:15.781258+00:00
-
- ## MedicAlert Foundation Canada | We Speak When You Can't
- - [https://www.medicalert.ca](https://www.medicalert.ca)
- - date_published: 2023-07-24T00:00:00+00:00
-
- ## Diabetes Treatment
- - [http://www.medtronicdiabetes.ca](http://www.medtronicdiabetes.ca)
- - date_published: 2024-08-08T14:21:43+00:00
-
- ## meejah.ca
- - [https://meejah.ca](https://meejah.ca)
- - date_published: 2024-06-28T19:56:29.927774+00:00
-
- ## Mental Disorder | Jonah Davids | Substack
- - [https://www.mentaldisorder.ca](https://www.mentaldisorder.ca)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Goodbye from Peer Resources
- - [http://www.mentors.ca](http://www.mentors.ca)
- - date_published: 2024-06-27T08:27:32.442003+00:00
-
- ## About – Monica Dinculescu
- - [https://meowni.ca](https://meowni.ca)
- - date_published: 2024-05-15T21:46:02+00:00
-
- ## Luxury Cars - Sedans, SUVs, Coupes & Wagons
- - [https://www.mercedes-benz.ca](https://www.mercedes-benz.ca)
- - date_published: 2024-06-20T11:28:36+00:00
-
- ## MCU - Appointment Booking
- - [https://appt-booking.meridiancu.ca](https://appt-booking.meridiancu.ca)
- - date_published: 2024-06-16T09:55:57.847666+00:00
-
- ## Sign in to online banking
- - [https://banking.meridiancu.ca](https://banking.meridiancu.ca)
- - date_published: 2024-06-16T09:55:54.531797+00:00
-
- ## Login - Meridian Credit Union
- - [https://businessbanking.meridiancu.ca](https://businessbanking.meridiancu.ca)
- - date_published: 2024-06-16T09:55:51.613820+00:00
-
- ## Meridian Lending Digital
- - [https://lendingdigital.meridiancu.ca](https://lendingdigital.meridiancu.ca)
- - date_published: 2024-04-16T13:21:48+00:00
-
- ## Meridian Personal Banking, Credit Cards, Mortgages | Meridian
- - [https://meridiancu.ca](https://meridiancu.ca)
- - date_published: 2024-09-30T13:54:40.002771+00:00
-
- ## Home | Meridian OneCap | Meridian OneCap | Meridian Credit Union
- - [https://www.meridianonecap.ca](https://www.meridianonecap.ca)
- - date_published: 2024-06-16T09:55:56.265102+00:00
-
- ## Robert Merki
- - [https://merki.ca](https://merki.ca)
- - date_published: 2024-05-07T14:15:08.111872+00:00
- - tags: ['personal']
-
- ## Home - City of Merritt
- - [https://www.merritt.ca](https://www.merritt.ca)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Mersenne factoring software download
- - [https://download.mersenne.ca](https://download.mersenne.ca)
- - date_published: 2024-05-16T02:46:20.056156+00:00
-
- ## GIMPS (Prime95) mersenne.ca stats
- - [https://mersenne.ca](https://mersenne.ca)
- - date_published: 2024-04-10T08:11:23.744834+00:00
- - tags: ['math']
-
- ## MES Hybrid Document Systems | Document Management & Scanning Solutions
- - [https://www.mesltd.ca](https://www.mesltd.ca)
- - date_published: 2024-06-22T22:54:54+00:00
-
- ## Metamucil Fibre Supplements | Metamucil
- - [https://metamucil.ca](https://metamucil.ca)
- - date_published: 2024-09-12T09:32:00+00:00
-
- ## Video Call SDK and Screen Sharing API | Metered
- - [https://www.metered.ca](https://www.metered.ca)
- - date_published: 2024-07-22T17:10:52.690531+00:00
-
- ## Metroscapes
- - [https://metroscapes.ca](https://metroscapes.ca)
- - date_published: 2024-08-14T05:20:27+00:00
-
- ## Textbooks | Digital Learning Solutions | McGraw Hill Canada
- - [https://www.mheducation.ca](https://www.mheducation.ca)
- - date_published: 2024-08-18T12:38:15.634527+00:00
-
- ## Mental Health Research Canada
- - [https://www.mhrc.ca](https://www.mhrc.ca)
- - date_published: 2024-07-11T14:58:05.474855+00:00
 

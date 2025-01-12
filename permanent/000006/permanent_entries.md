@@ -1,3 +1,35 @@
+ ## Global Situation Room
+ - [https://situation-earth.netlify.app](https://situation-earth.netlify.app)
+ - date_published: 2024-07-10T09:05:04.178315+00:00
+
+ ## Sizhuo Ma
+ - [https://sizhuoma.netlify.app](https://sizhuoma.netlify.app)
+ - date_published: 2024-06-22T07:32:15.295789+00:00
+
+ ## Smashing Conf: View Transitions
+ - [https://smashing-transitions.netlify.app](https://smashing-transitions.netlify.app)
+ - date_published: 2024-04-30T02:02:38.070604+00:00
+
+ ## Smol 11ty Starter
+ - [https://smol-11ty-starter.netlify.app](https://smol-11ty-starter.netlify.app)
+ - date_published: 2024-07-22T12:50:40.618281+00:00
+
+ ## Machine Control Simulator
+ - [https://sparkling-douhua-057157.netlify.app](https://sparkling-douhua-057157.netlify.app)
+ - date_published: 2024-09-09T22:07:15.149112+00:00
+
+ ## Presence with Convex
+ - [https://spectacular-beijinho-ccf8ab.netlify.app](https://spectacular-beijinho-ccf8ab.netlify.app)
+ - date_published: 2024-04-29T07:32:23.071226+00:00
+
+ ## TechnoraxV10.0
+ - [https://spectacular-pony-ad2228.netlify.app](https://spectacular-pony-ad2228.netlify.app)
+ - date_published: 2024-09-23T13:44:30.491133+00:00
+
+ ## Specter Ops companion app
+ - [https://specter-ops.netlify.app](https://specter-ops.netlify.app)
+ - date_published: 2024-07-02T20:58:15.096533+00:00
+
  ## Imagine a place that hasn't changed in a very long time ...
  - [https://spect.netlify.app](https://spect.netlify.app)
  - date_published: 2024-07-10T09:05:12.537124+00:00
@@ -810,6 +842,10 @@ The Album
  ## Petrichoir 🌧️
  - [https://petrichoir.app](https://petrichoir.app)
  - date_published: 2024-11-13T15:04:37+00:00
+
+ ## หน้าแรก
+ - [https://pgslot99.app](https://pgslot99.app)
+ - date_published: 2025-01-11T13:49:54.139657+00:00
 
  ## Phantom — Crypto & NFT Wallet — Solana | Ethereum | Polygon
  - [https://phantom.app](https://phantom.app)
@@ -2070,9 +2106,21 @@ The Album
  - date_published: 2024-03-23T02:19:13+00:00
  - tags: ['static websites']
 
+ ## Sovryn
+ - [https://alpha.sovryn.app](https://alpha.sovryn.app)
+ - date_published: 2025-01-11T21:41:40.454431+00:00
+
+ ## Sovryn
+ - [https://forum.sovryn.app](https://forum.sovryn.app)
+ - date_published: 2025-01-11T21:39:56.616389+00:00
+
  ## Sovryn - DeFi for bitcoin
  - [https://sovryn.app](https://sovryn.app)
  - date_published: 2024-09-23T07:44:04.356207+00:00
+
+ ## Overview of Sovryn
+ - [https://wiki.sovryn.app](https://wiki.sovryn.app)
+ - date_published: 2025-01-11T21:41:24.771697+00:00
 
  ## Space Capsule
  - [https://spacecapsule.app](https://spacecapsule.app)
@@ -3842,6 +3890,10 @@ The Album
  - [https://express-auth-example.vercel.app](https://express-auth-example.vercel.app)
  - date_published: 2024-04-29T07:20:01.999198+00:00
 
+ ## FakeData
+ - [https://fakedata-mu.vercel.app](https://fakedata-mu.vercel.app)
+ - date_published: 2025-01-11T20:19:00.954797+00:00
+
  ## Welcome | Faku
  - [https://faku-web.vercel.app](https://faku-web.vercel.app)
  - date_published: 2024-05-02T13:56:37.170105+00:00
@@ -3978,56 +4030,4 @@ The Album
  ## GreenHome — Next.js Real Estate Website Template
  - [https://greenhome-next.vercel.app](https://greenhome-next.vercel.app)
  - date_published: 2024-09-30T17:27:03+00:00
-
- ## AI Greeting Card Generator
- - [https://greetingcardgenerator.vercel.app](https://greetingcardgenerator.vercel.app)
- - date_published: 2024-06-19T19:54:48.154366+00:00
-
- ## greg — a small replacement for cal
- - [https://greg-calendar.vercel.app](https://greg-calendar.vercel.app)
- - date_published: 2024-05-08T10:46:41.196847+00:00
-
- ## Gruntwork - The Modern Alternative to Devops Consultants
- - [https://gruntwork-marketing-site-nncslb7co-gruntwork.vercel.app](https://gruntwork-marketing-site-nncslb7co-gruntwork.vercel.app)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Evidence
- - [https://hackernews-insight.vercel.app](https://hackernews-insight.vercel.app)
- - date_published: 2023-10-25T11:50:22.132412+00:00
-
- ## https://hackernews-semafor-duhw.vercel.app
- - [https://hackernews-semafor-duhw.vercel.app](https://hackernews-semafor-duhw.vercel.app)
- - date_published: 2024-01-09T02:23:40.160327+00:00
-
- ## HackerNews Readings: Thinking, Fast and Slow
- - [https://hacker-recommended-books.vercel.app](https://hacker-recommended-books.vercel.app)
- - date_published: 2024-05-06T14:03:40.761356+00:00
-
- ## Hackreels
- - [https://hackreels-f6j7ah3uf-davidtparks-s-team.vercel.app](https://hackreels-f6j7ah3uf-davidtparks-s-team.vercel.app)
- - date_published: 2024-05-04T09:14:19.706401+00:00
-
- ## Happy Mama
- - [https://happy-mama.vercel.app](https://happy-mama.vercel.app)
- - date_published: 2024-06-19T19:23:58.058715+00:00
-
- ## Heavy Habits
- - [https://heavy-habits-front.vercel.app](https://heavy-habits-front.vercel.app)
- - date_published: 2024-07-11T17:34:47.643206+00:00
-
- ## Hello Wallet
- - [https://hello-wallet.vercel.app](https://hello-wallet.vercel.app)
- - date_published: 2024-07-09T19:16:49.262168+00:00
-
- ## HEN DJ
- - [https://hen-dj.vercel.app](https://hen-dj.vercel.app)
- - date_published: 2024-05-06T23:12:06.631278+00:00
-
- ## highlight.io: The open source monitoring platform.
- - [https://highlight-landing-79rzcxb86-highlight-run.vercel.app](https://highlight-landing-79rzcxb86-highlight-run.vercel.app)
- - date_published: 2024-05-04T15:50:23.907835+00:00
-
- ## highlight.io: The open source monitoring platform.
- - [https://highlight-landing-b1fcgfh7d-highlight-run.vercel.app](https://highlight-landing-b1fcgfh7d-highlight-run.vercel.app)
- - date_published: 2024-06-21T08:19:19.505459+00:00
 

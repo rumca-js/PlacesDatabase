@@ -4,6 +4,22 @@
         "category_name": "New",
         "enabled": false,
         "export_to_cms": true,
+        "favicon": "https://s0.wp.com/i/buttonw-com.png",
+        "fetch_period": 900,
+        "id": 5112,
+        "language": "en",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/places/source-json/7834",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "New",
+        "title": "Merlin Star's Website",
+        "url": "https://merlinjstar.com/feed"
+    },
+    {
+        "age": 0,
+        "category_name": "New",
+        "enabled": false,
+        "export_to_cms": true,
         "favicon": "https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67babcd5-6e39-4178-bebf-79c0a3dc8997_364x364.png",
         "fetch_period": 900,
         "id": 11506,
@@ -15982,21 +15998,5 @@
         "subcategory_name": "New",
         "title": "pagetable.com",
         "url": "https://www.pagetable.com/?feed=rss2"
-    },
-    {
-        "age": 0,
-        "category_name": "New",
-        "enabled": false,
-        "export_to_cms": true,
-        "favicon": null,
-        "fetch_period": 900,
-        "id": 9874,
-        "language": "es-ES",
-        "proxy_location": "",
-        "remove_after_days": 2,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
-        "title": "P\u00e1ginas - Donaci\u00f3n, transfusi\u00f3n y trasplantes",
-        "url": "https://www.minsalud.gov.co/salud/MT/Paginas/sangre-componentes-anatomicos.aspx"
     }
 ]

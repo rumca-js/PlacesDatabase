@@ -1,3 +1,124 @@
+ ## Resource Booker
+ - [https://uqbookit.uq.edu.au](https://uqbookit.uq.edu.au)
+ - date_published: 2024-07-09T18:18:48+00:00
+
+ ## UQ College
+ - [https://uqcollege.uq.edu.au](https://uqcollege.uq.edu.au)
+ - date_published: 2024-09-02T15:49:48.553632+00:00
+
+ ## The University of Queensland
+ - [https://uq.edu.au](https://uq.edu.au)
+ - date_published: 2024-05-11T08:09:59.002609+00:00
+ - tags: ['university']
+
+ ## UQ Library
+ - [https://web.library.uq.edu.au](https://web.library.uq.edu.au)
+ - date_published: 2024-05-11T08:09:28.123278+00:00
+
+ ## Faculty of Engineering, Architecture and Information Technology
+ - [https://www.eait.uq.edu.au](https://www.eait.uq.edu.au)
+ - date_published: 2024-09-02T15:48:55.971694+00:00
+
+ ## School of Electrical Engineering and Computer Science
+ - [http://www.itee.uq.edu.au](http://www.itee.uq.edu.au)
+ - date_published: 2024-08-19T17:00:16.382940+00:00
+
+ ## School of Mathematics and Physics
+ - [http://www.physics.uq.edu.au](http://www.physics.uq.edu.au)
+ - date_published: 2024-06-17T12:11:48.103653+00:00
+
+ ## Enter your username and password - The University of Queensland, Australia
+ - [https://www.sinet.uq.edu.au](https://www.sinet.uq.edu.au)
+ - date_published: 2024-07-13T18:26:52.657382+00:00
+
+ ## www.usc.edu.au
+ - [https://usc.edu.au](https://usc.edu.au)
+ - date_published: 2024-05-08T09:59:29.801146+00:00
+
+ ## University of Southern Queensland | UniSQ
+ - [https://usq.edu.au](https://usq.edu.au)
+ - date_published: 2024-10-30T20:25:56.392322+00:00
+
+ ## Magma Computational Algebra System
+ - [https://magma.maths.usyd.edu.au](https://magma.maths.usyd.edu.au)
+ - date_published: 2024-06-30T09:07:21.681299+00:00
+
+ ## School of Mathematics and Statistics, University of Sydney
+ - [https://maths.usyd.edu.au](https://maths.usyd.edu.au)
+ - date_published: 2024-01-17T04:45:24+00:00
+
+ ## SeS Home page
+ - [https://ses.library.usyd.edu.au](https://ses.library.usyd.edu.au)
+ - date_published: 2024-06-16T05:52:32.419519+00:00
+
+ ## The University of Sydney
+ - [http://www.usyd.edu.au](http://www.usyd.edu.au)
+ - date_published: 2024-10-19T07:31:31.364646+00:00
+
+ ## University of Tasmania research repository - Browse
+ - [https://figshare.utas.edu.au](https://figshare.utas.edu.au)
+ - date_published: 2024-07-04T13:16:29.870113+00:00
+
+ ## Sign in to your account
+ - [https://mylo.utas.edu.au](https://mylo.utas.edu.au)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://my.utas.edu.au](https://my.utas.edu.au)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## University of Tasmania
+ - [https://utas.edu.au](https://utas.edu.au)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Home
+ - [https://www.imas.utas.edu.au](https://www.imas.utas.edu.au)
+ - date_published: 2024-06-14T03:28:05+00:00
+
+ ## Homepage | UTS Library
+ - [https://lib.uts.edu.au](https://lib.uts.edu.au)
+ - date_published: 2024-08-18T08:01:16+00:00
+
+ ## University of Technology Sydney
+ - [http://maps.uts.edu.au](http://maps.uts.edu.au)
+ - date_published: 2024-08-18T09:12:29.594161+00:00
+
+ ## Home - UTS Open
+ - [https://open.uts.edu.au](https://open.uts.edu.au)
+ - date_published: 2024-08-18T09:12:32.540270+00:00
+
+ ## Plus UTS
+ - [https://plus.uts.edu.au](https://plus.uts.edu.au)
+ - date_published: 2024-08-18T09:12:10.349762+00:00
+
+ ## University of Technology Sydney
+ - [https://profiles.uts.edu.au](https://profiles.uts.edu.au)
+ - date_published: 2024-08-18T09:12:11.844741+00:00
+
+ ## Home | RES Hub
+ - [https://reshub.uts.edu.au](https://reshub.uts.edu.au)
+ - date_published: 2024-08-18T09:01:15+00:00
+
+ ## University of Technology Sydney - Sign In
+ - [https://staff.uts.edu.au](https://staff.uts.edu.au)
+ - date_published: 2024-08-18T09:12:09.086921+00:00
+
+ ## University of Technology Sydney
+ - [https://uts.edu.au](https://uts.edu.au)
+ - date_published: 2023-12-25T11:46:43.534554+00:00
+
+ ## Alumni Home
+ - [https://alumni.uwa.edu.au](https://alumni.uwa.edu.au)
+ - date_published: 2024-07-03T17:58:36.506806+00:00
+
+ ## $name
+ - [https://giving.uwa.edu.au](https://giving.uwa.edu.au)
+ - date_published: 2024-07-03T17:58:40.692905+00:00
+
+ ## Mots Pluriels
+ - [https://motspluriels.arts.uwa.edu.au](https://motspluriels.arts.uwa.edu.au)
+ - date_published: 2005-01-01T00:00:00+00:00
+
  ## UWA Impact : The University of Western Australia
  - [https://news.uwa.edu.au](https://news.uwa.edu.au)
  - date_published: 2024-01-25T11:14:20.098611+00:00
@@ -3899,125 +4020,4 @@
  ## Gilded Audio
  - [https://gilded.audio](https://gilded.audio)
  - date_published: 2024-09-21T23:05:03.444270+00:00
-
- ## Home | GPU Audio
- - [https://www.gpu.audio](https://www.gpu.audio)
- - date_published: 2024-09-02T12:50:15.108194+00:00
-
- ## Forum
- - [https://forum.hise.audio](https://forum.hise.audio)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## HISE - The open source toolkit for building virtual instruments and audio effects
- - [http://www.hise.audio](http://www.hise.audio)
- - date_published: 2024-06-12T22:26:59+00:00
-
- ## Wie Wat Bewaart (@wiewatbewaart) • Activity
- - [https://podcast.horens.audio](https://podcast.horens.audio)
- - date_published: 2024-07-01T10:38:30.740878+00:00
-
- ## Hunchpig
- - [http://hunchpig.audio](http://hunchpig.audio)
- - date_published: 2019-11-05T18:40:11+00:00
-
- ## Lidarr
- - [https://lidarr.audio](https://lidarr.audio)
- - date_published: 2024-05-14T03:32:09.235900+00:00
- - tags: ['media collection', 'self-host']
-
- ## MANIFEST AUDIO
- - [https://manifest.audio](https://manifest.audio)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Moonshot
- - [http://moonshot.audio](http://moonshot.audio)
- - date_published: 2024-10-22T21:57:20.779614+00:00
-
- ## Mytek Audio - Superior Dacs and Amps
- - [https://mytek.audio](https://mytek.audio)
- - date_published: 2024-12-25T13:09:01.406981+00:00
-
- ## .Audio Domain Names | The .Audio Registry
- - [https://nic.audio](https://nic.audio)
- - date_published: 2024-10-17T15:10:23.766591+00:00
-
- ## North Meets South Web Podcast
- - [https://northmeetssouth.audio](https://northmeetssouth.audio)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Centova Cast
- - [https://cdn4.onstream.audio](https://cdn4.onstream.audio)
- - date_published: 2024-07-09T18:22:20.825211+00:00
-
- ## Funkwhale
- - [https://open.audio](https://open.audio)
- - date_published: 2023-12-12T13:26:14+00:00
-
- ## insert credit
- - [https://insertcredit.podcast.audio](https://insertcredit.podcast.audio)
- - date_published: 2024-07-01T10:38:19.518793+00:00
-
- ## Pulsar Audio | High-end audio software
- - [https://pulsar.audio](https://pulsar.audio)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Resurface - The Audio Console Marketplace
- - [https://resurface.audio](https://resurface.audio)
- - date_published: 2016-06-27T00:00:00+00:00
-
- ## Rozen
- - [https://music.rozen.audio](https://music.rozen.audio)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## SALT
- - [https://salt.audio](https://salt.audio)
- - date_published: 2024-07-13T03:46:33.017542+00:00
-
- ## scribble.audio
- - [http://scribble.audio](http://scribble.audio)
- - date_published: 2024-09-14T23:26:50.463378+00:00
-
- ## Soft Skills Engineering
- - [https://softskills.audio](https://softskills.audio)
- - date_published: 2024-05-06T14:17:06.572831+00:00
-
- ## Home - Starburns Audio
- - [https://starburns.audio](https://starburns.audio)
- - date_published: 2022-01-11T00:00:00+00:00
-
- ## turtle.audio
- - [http://turtle.audio](http://turtle.audio)
- - date_published: 2024-06-16T21:13:45.268891+00:00
-
- ## Blog - TYPE III AUDIO
- - [https://blog.type3.audio](https://blog.type3.audio)
- - date_published: 2024-07-29T17:56:40+00:00
-
- ## TYPE III AUDIO
- - [https://feeds.type3.audio](https://feeds.type3.audio)
- - date_published: 2024-10-29T05:14:10.147629+00:00
-
- ## TYPE III AUDIO
- - [https://preview.type3.audio](https://preview.type3.audio)
- - date_published: 2024-06-19T10:02:02.622490+00:00
-
- ## TYPE III AUDIO
- - [https://type3.audio](https://type3.audio)
- - date_published: 2024-10-29T05:14:17.544101+00:00
-
- ## Vital - Spectral Warping Wavetable Synth
- - [https://vital.audio](https://vital.audio)
- - date_published: 2024-12-16T16:01:33.329658+00:00
-
- ## .Audio Domain Names
- - [https://xyz.audio](https://xyz.audio)
- - date_published: 2024-06-17T07:44:56.034169+00:00
-
- ## Home
- - [https://www.acea.auto](https://www.acea.auto)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## 智能驾驶系统-百度智能驾驶解决方案及汽车智能化产品-百度Apollo|Baidu阿波罗
- - [https://apollo.auto](https://apollo.auto)
- - date_published: 2024-07-12T08:49:21.266940+00:00
 

@@ -1,3 +1,131 @@
+ ## Assine Folha de S.Paulo
+ - [https://assinaturas.folha.com.br](https://assinaturas.folha.com.br)
+ - date_published: 2024-08-18T13:04:42.636122+00:00
+
+ ## Login - Folha de S.Paulo
+ - [https://atendimento.folha.com.br](https://atendimento.folha.com.br)
+ - date_published: 2024-08-18T13:03:37.334126+00:00
+
+ ## Home | Clube Folha
+ - [https://clube.folha.com.br](https://clube.folha.com.br)
+ - date_published: 2024-08-18T13:03:53.442918+00:00
+
+ ## Home | Clube Folha Gourmet
+ - [https://clubefolhagourmet.folha.com.br](https://clubefolhagourmet.folha.com.br)
+ - date_published: 2024-08-18T13:04:17.729838+00:00
+
+ ## Coleções | Folha
+ - [https://colecoes.folha.com.br](https://colecoes.folha.com.br)
+ - date_published: 2024-08-18T13:04:55.502496+00:00
+
+ ## Envie informações de interesse público que possam merecer investigação jornalística da Folha
+ - [https://folhaleaks.folha.com.br](https://folhaleaks.folha.com.br)
+ - date_published: 2024-08-18T13:03:00.679921+00:00
+
+ ## Folhapress
+ - [https://folhapress.folha.com.br](https://folhapress.folha.com.br)
+ - date_published: 2024-08-18T13:03:03.183364+00:00
+
+ ## Login - Folha de S.Paulo
+ - [https://login.folha.com.br](https://login.folha.com.br)
+ - date_published: 2024-08-18T13:03:06.140334+00:00
+
+ ## Assine Folha de S.Paulo
+ - [https://secure.folha.com.br](https://secure.folha.com.br)
+ - date_published: 2024-08-18T13:03:18.967568+00:00
+
+ ## Seminários Folha | Folha
+ - [https://seminariosfolha.folha.com.br](https://seminariosfolha.folha.com.br)
+ - date_published: 2024-08-18T13:05:06.359902+00:00
+
+ ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
+ - [https://www1.folha.com.br](https://www1.folha.com.br)
+ - date_published: 2024-08-18T13:05:04.152743+00:00
+
+ ## Portal Publicidade
+ - [http://www.publicidade.folha.com.br](http://www.publicidade.folha.com.br)
+ - date_published: 2024-08-18T13:04:02.734354+00:00
+
+ ## Folhapress
+ - [https://folhapress.com.br](https://folhapress.com.br)
+ - date_published: 2024-08-18T13:04:33.094785+00:00
+
+ ## - Revista de Negócios e Economia - Forbes Brasil
+ - [http://forbes.com.br](http://forbes.com.br)
+ - date_published: 2024-10-29T15:23:11+00:00
+
+ ## Forbes Brasil
+ - [https://loja.forbes.com.br](https://loja.forbes.com.br)
+ - date_published: 2024-10-29T15:23:30.935040+00:00
+
+ ## HOME
+ - [https://www.forbes.com.br](https://www.forbes.com.br)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Forma Legno
+ - [https://formalegno.com.br](https://formalegno.com.br)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Jogar Fortune OX ▷ Jogo do Touro (PG Soft)
+ - [https://fortuneoxdemopg.com.br](https://fortuneoxdemopg.com.br)
+ - date_published: 2023-12-08T11:11:12+00:00
+
+ ## Home - Fortune Tiger: Jogo do Tigre Aposta
+ - [https://fortune-tiger-bet777.com.br](https://fortune-tiger-bet777.com.br)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Revista FOSSGIS Brasil - Georreferenciando o Conhecimento
+ - [http://fossgisbrasil.com.br](http://fossgisbrasil.com.br)
+ - date_published: 2018-10-03T23:18:29+00:00
+
+ ## FotoInFoco
+ - [http://www.fotografiaetc.com.br](http://www.fotografiaetc.com.br)
+ - date_published: 2024-06-24T03:55:25+00:00
+
+ ## A Foxbit te ensina como começar a investir em criptomoedas
+ - [https://foxbit.com.br](https://foxbit.com.br)
+ - date_published: 2025-01-09T16:33:05+00:00
+
+ ## FranklinCovey Brasil | Aprimoramento de Performance
+ - [https://www.franklincovey.com.br](https://www.franklincovey.com.br)
+ - date_published: 2024-06-21T10:44:36+00:00
+
+ ## BeFranq - Franq Open Banking
+ - [https://be.franq.com.br](https://be.franq.com.br)
+ - date_published: 2024-10-24T19:20:18+00:00
+
+ ## Franq | Mais autonomia financeira com Bancário Autônomo
+ - [https://franq.com.br](https://franq.com.br)
+ - date_published: 2024-10-28T13:54:12.103705+00:00
+
+ ## Franq | Mais autonomia financeira com Bancário Autônomo
+ - [https://site.franq.com.br](https://site.franq.com.br)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## FCC - Fundação Cultural de Curitiba
+ - [http://fundacaoculturaldecuritiba.com.br](http://fundacaoculturaldecuritiba.com.br)
+ - date_published: 2024-06-12T11:18:30.371953+00:00
+
+ ## Página Inicial - Fundação Santillana
+ - [http://www.fundacaosantillana.com.br](http://www.fundacaosantillana.com.br)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Gabriel
+ - [https://gabriel.com.br](https://gabriel.com.br)
+ - date_published: 2024-10-28T12:19:58+00:00
+
+ ## Gabriel
+ - [https://mkt.gabriel.com.br](https://mkt.gabriel.com.br)
+ - date_published: 2024-10-28T12:19:56+00:00
+
+ ## Galera - Grupo Editorial Record
+ - [http://www.galerarecord.com.br](http://www.galerarecord.com.br)
+ - date_published: 2024-07-13T02:29:04.705015+00:00
+
+ ## Home | ICBC 2024
+ - [https://icbc2024.galoa.com.br](https://icbc2024.galoa.com.br)
+ - date_published: 2024-10-19T23:00:43.311356+00:00
+
  ## GameHall - Top Notícias e Lançamentos de Videogames
  - [https://gamehall.com.br](https://gamehall.com.br)
  - date_published: 2024-12-26T17:32:33+00:00
@@ -861,6 +989,10 @@
  ## Money Report
  - [https://www.moneyreport.com.br](https://www.moneyreport.com.br)
  - date_published: 2024-12-19T10:46:03.768863+00:00
+
+ ## Monkeybuzz
+ - [https://monkeybuzz.com.br](https://monkeybuzz.com.br)
+ - date_published: 2025-01-11T13:55:14.949115+00:00
 
  ## Moura Dubeux
  - [https://www.mouradubeux.com.br](https://www.mouradubeux.com.br)
@@ -3210,6 +3342,10 @@
  - [https://www.mpf.mp.br](https://www.mpf.mp.br)
  - date_published: 2024-08-19T07:33:22.624570+00:00
 
+ ## 1Win Brasil ᐈ Apostas desportivas e slots & casino
+ - [https://1-win.net.br](https://1-win.net.br)
+ - date_published: 2023-03-28T19:38:05+00:00
+
  ## Consequência Editora. Livros de Geografia, História, Ciências Sociais, Educação, Política, Humanas..
  - [https://consequenciaeditora.net.br](https://consequenciaeditora.net.br)
  - date_published: 2024-05-10T06:57:20.058367+00:00
@@ -3873,140 +4009,4 @@
  ## BANCO BRADESCO | Desafie o futuro
  - [https://banco.bradesco](https://banco.bradesco)
  - date_published: 2024-07-09T19:15:33.297619+00:00
-
- ## Darmowe szablony do wydrukowania i dostosowywania | Creative Center
- - [https://www.creativecenter.brother](https://www.creativecenter.brother)
- - date_published: 2024-05-02T11:28:15.164126+00:00
-
- ## Industrial Garment Printer | Brother
- - [https://garmentprinter.global.brother](https://garmentprinter.global.brother)
- - date_published: 2024-05-02T11:35:25.463119+00:00
-
- ## Welcome to Brother Global
- - [https://global.brother](https://global.brother)
- - date_published: 2024-05-02T11:25:26.280633+00:00
-
- ## Industrial Sewing Machine | Brother
- - [https://industrialsewingmachine.global.brother](https://industrialsewingmachine.global.brother)
- - date_published: 2024-05-02T11:29:39.596747+00:00
-
- ## Machine Tools | Brother
- - [https://machinetool.global.brother](https://machinetool.global.brother)
- - date_published: 2024-05-02T11:22:53.110007+00:00
-
- ## Machine Tools | Brother | Machine Tools |  Brother
- - [https://mt.global.brother](https://mt.global.brother)
- - date_published: 2024-10-20T11:33:57.794146+00:00
-
- ## Brother Group SDGs Special Site: Brother SDGs story
- - [https://sdgsstory.global.brother](https://sdgsstory.global.brother)
- - date_published: 2024-06-17T21:02:35.762480+00:00
-
- ## Agenda
- - [https://agenda.brussels](https://agenda.brussels)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Home
- - [http://ing.arena.brussels](http://ing.arena.brussels)
- - date_published: 2024-10-22T10:53:10.378108+00:00
-
- ## Welcome on the website of the Brussels Capital-Region
- - [https://be.brussels](https://be.brussels)
- - date_published: 2024-07-02T23:04:50.140871+00:00
-
- ## Le site officiel de Bruxelles Environnement
- - [https://environnement.brussels](https://environnement.brussels)
- - date_published: 2024-10-18T23:41:03.438957+00:00
-
- ## FEDER - Feder BXL
- - [https://feder.brussels](https://feder.brussels)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Handy.Brussels - Bruxelles Pour Tous !
- - [https://handy.brussels](https://handy.brussels)
- - date_published: 2024-12-14T09:09:44+00:00
-
- ## Brussels Agency for Entrepreneurship | Home | hub.brussels
- - [https://hub.brussels](https://hub.brussels)
- - date_published: 2024-10-18T23:40:58.895752+00:00
-
- ## Innoviris
- - [https://innoviris.brussels](https://innoviris.brussels)
- - date_published: 2024-07-07T09:21:41+00:00
-
- ## Homepage
- - [https://kanal.brussels](https://kanal.brussels)
- - date_published: 2019-06-05T08:29:09+00:00
-
- ## Parlement bruxellois
- - [https://www.parlement.brussels](https://www.parlement.brussels)
- - date_published: 2024-10-18T23:38:30.033017+00:00
-
- ## React Brussels | Brussels & Online
- - [https://www.react.brussels](https://www.react.brussels)
- - date_published: 2024-06-20T07:07:54.339815+00:00
-
- ## Accueil < Commission communautaire française (COCOF) - Francophones Bruxelles
- - [https://spfb.brussels](https://spfb.brussels)
- - date_published: 2024-10-29T09:51:07.362253+00:00
-
- ## Wikimedia Europe
- - [https://wikimedia.brussels](https://wikimedia.brussels)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Deposit Insurance Corporation
- - [http://www.dic.bs](http://www.dic.bs)
- - date_published: 2024-09-28T21:39:45.331575+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.bs](https://maps.google.bs)
- - date_published: 2024-07-20T07:39:27.116520+00:00
-
- ## Google
- - [https://www.google.bs](https://www.google.bs)
- - date_published: 2024-06-21T22:23:48.282701+00:00
-
- ## https://www.bahamas.gov.bs
- - [https://bahamas.gov.bs](https://bahamas.gov.bs)
- - date_published: 2022-11-04T10:38:51+00:00
-
- ## Grafika Google
- - [https://images.google.bt](https://images.google.bt)
- - date_published: 2024-07-20T07:41:25.555968+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.bt](https://maps.google.bt)
- - date_published: 2024-07-20T07:39:44.213000+00:00
-
- ## Google
- - [https://www.google.bt](https://www.google.bt)
- - date_published: 2024-06-21T22:23:04.587235+00:00
-
- ## Home
- - [http://www.bfl.org.bt](http://www.bfl.org.bt)
- - date_published: 2024-07-03T02:41:48.679991+00:00
-
- ## Home
- - [https://www.wwfbhutan.org.bt](https://www.wwfbhutan.org.bt)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Astro
- - [https://astro.build](https://astro.build)
- - date_published: 2023-10-25T12:02:53.334268+00:00
-
- ## Astro Community
- - [https://community.astro.build](https://community.astro.build)
- - date_published: 2024-09-09T16:18:15.837166+00:00
-
- ## Getting Started
- - [https://docs.astro.build](https://docs.astro.build)
- - date_published: 2024-05-09T07:21:42.980431+00:00
-
- ## Time to suit up | Astro Shop
- - [https://shop.astro.build](https://shop.astro.build)
- - date_published: 2024-06-23T03:46:59.217572+00:00
-
- ## Starlight 🌟 Build documentation sites with Astro
- - [https://starlight.astro.build](https://starlight.astro.build)
- - date_published: 2024-06-23T06:01:29.647481+00:00
 

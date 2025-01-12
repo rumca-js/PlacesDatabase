@@ -6,6 +6,22 @@
         "export_to_cms": true,
         "favicon": null,
         "fetch_period": 900,
+        "id": 1509,
+        "language": "en",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/places/source-json/6710",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "New",
+        "title": "Comentarios en Andr\u00e9s Bianciotto",
+        "url": "https://andresb.net/blog/comments/feed"
+    },
+    {
+        "age": 0,
+        "category_name": "New",
+        "enabled": false,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 900,
         "id": 9960,
         "language": "",
         "proxy_location": "",
@@ -15982,21 +15998,5 @@
         "subcategory_name": "New",
         "title": "Comments for Slate Star Codex",
         "url": "https://slatestarcodex.com/comments/feed"
-    },
-    {
-        "age": 0,
-        "category_name": "New",
-        "enabled": false,
-        "export_to_cms": true,
-        "favicon": null,
-        "fetch_period": 900,
-        "id": 1994,
-        "language": "en",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/places/source-json/6370",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
-        "title": "Comments for Sloww",
-        "url": "https://www.sloww.co/comments/feed"
     }
 ]

@@ -4,6 +4,22 @@
         "category_name": "New",
         "enabled": false,
         "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 900,
+        "id": 4306,
+        "language": "en-US",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/places/source-json/2007",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "New",
+        "title": "Kevin Burke",
+        "url": "https://kevin.burke.dev/feed"
+    },
+    {
+        "age": 0,
+        "category_name": "New",
+        "enabled": false,
+        "export_to_cms": true,
         "favicon": "https://i0.wp.com/www.kevincarrelfooter.com/wp-content/uploads/2014/11/kcf-block-v2-50x100.png?fit=32%2C15&ssl=1",
         "fetch_period": 900,
         "id": 4307,
@@ -3302,14 +3318,14 @@
         "export_to_cms": true,
         "favicon": null,
         "fetch_period": 900,
-        "id": 11746,
+        "id": 11747,
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 2,
         "source_type": "BaseRssPlugin",
         "subcategory_name": "New",
         "title": "Latest  News | FOX 10",
-        "url": "https://www.fox10phoenix.com/rss/category/local-news"
+        "url": "https://www.fox10phoenix.com/rss/category/shows,azam"
     },
     {
         "age": 0,
@@ -3334,14 +3350,14 @@
         "export_to_cms": true,
         "favicon": null,
         "fetch_period": 900,
-        "id": 11747,
+        "id": 11746,
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 2,
         "source_type": "BaseRssPlugin",
         "subcategory_name": "New",
         "title": "Latest  News | FOX 10",
-        "url": "https://www.fox10phoenix.com/rss/category/shows,azam"
+        "url": "https://www.fox10phoenix.com/rss/category/local-news"
     },
     {
         "age": 0,
@@ -15982,21 +15998,5 @@
         "subcategory_name": "New",
         "title": "Merit",
         "url": "https://blog.get-merit.com/rss"
-    },
-    {
-        "age": 0,
-        "category_name": "New",
-        "enabled": false,
-        "export_to_cms": true,
-        "favicon": "https://s0.wp.com/i/buttonw-com.png",
-        "fetch_period": 900,
-        "id": 5112,
-        "language": "en",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/places/source-json/7834",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
-        "title": "Merlin Star's Website",
-        "url": "https://merlinjstar.com/feed"
     }
 ]

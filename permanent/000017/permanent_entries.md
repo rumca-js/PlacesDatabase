@@ -1,3 +1,135 @@
+ ## COGITO
+ - [https://oecdcogito.blog](https://oecdcogito.blog)
+ - date_published: 2025-01-08T06:48:18.888506+00:00
+
+ ## ECOSCOPE
+ - [https://oecdecoscope.blog](https://oecdecoscope.blog)
+ - date_published: 2025-01-06T11:16:32+00:00
+
+ ## Oh Hello Ana
+ - [https://ohhelloana.blog](https://ohhelloana.blog)
+ - date_published: 2024-01-03T04:05:44.287778+00:00
+
+ ## OldLady With Autism
+ - [https://oldladywithautism.blog](https://oldladywithautism.blog)
+ - date_published: 2024-09-03T23:02:06.728939+00:00
+
+ ## Om Malik
+ - [https://om.blog](https://om.blog)
+ - date_published: 2024-05-10T03:47:47.138641+00:00
+
+ ## OncoBites
+ - [https://oncobites.blog](https://oncobites.blog)
+ - date_published: 2024-12-21T13:33:19.630444+00:00
+
+ ## Blogging On Rails
+ - [https://onrails.blog](https://onrails.blog)
+ - date_published: 2024-04-28T05:57:03.045256+00:00
+ - tags: ['ruby', 'ruby on rails']
+
+ ## Open Notes
+ - [https://opennotes.blog](https://opennotes.blog)
+ - date_published: 2024-07-06T16:43:55+00:00
+
+ ## OSINT Team
+ - [https://osintteam.blog](https://osintteam.blog)
+ - date_published: 2024-12-22T13:05:30.255251+00:00
+
+ ## Outside the Asylum
+ - [https://outsidetheasylum.blog](https://outsidetheasylum.blog)
+ - date_published: 2024-05-08T09:57:24.649518+00:00
+
+ ## overcast blog
+ - [https://overcast.blog](https://overcast.blog)
+ - date_published: 2024-10-22T08:19:34.456972+00:00
+
+ - [https://overemployee.blog](https://overemployee.blog)
+ - date_published: 2024-01-09T02:26:42.986613+00:00
+ - date_dead_since: 2025-01-04T21:45:00.233090+00:00
+
+ ## Andrew Ozz on WordPress
+ - [https://ozz.blog](https://ozz.blog)
+ - date_published: 2024-06-30T10:13:50.300772+00:00
+
+ ## Padlet Gazette
+ - [https://padlet.blog](https://padlet.blog)
+ - date_published: 2024-05-06T15:25:23.339273+00:00
+
+ ## Painting In The Dark
+ - [https://paintinginthedark.blog](https://paintinginthedark.blog)
+ - date_published: 2024-06-18T23:30:07.623393+00:00
+
+ ## p410n3 blog – Palone's Blog. I sometimes write stuff about technology here.
+ - [https://palone.blog](https://palone.blog)
+ - date_published: 2021-06-06T00:00:00+00:00
+
+ ## Paperless
+ - [https://paperless.blog](https://paperless.blog)
+ - date_published: 2023-10-25T08:57:53.071595+00:00
+ - tags: ['personal']
+
+ ## Pat’s Substack | Pat Murphy | Substack
+ - [https://www.patmurphy.blog](https://www.patmurphy.blog)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Paul's Picks
+ - [https://paulspicks.blog](https://paulspicks.blog)
+ - date_published: 2024-12-12T06:03:14.586986+00:00
+
+ ## Pensions and Benefits
+ - [https://pensionsandbenefits.blog](https://pensionsandbenefits.blog)
+ - date_published: 2024-09-15T23:33:49.216420+00:00
+
+ ## Perceiving Systems Blog
+ - [https://perceiving-systems.blog](https://perceiving-systems.blog)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Petros Amoiridis
+ - [https://petros.blog](https://petros.blog)
+ - date_published: 2023-12-15T21:43:49.329150+00:00
+ - tags: ['personal']
+
+ ## Pine.blog – The Official Blog of Pine.blog | A Feed Reader Like Never Before
+ - [https://blog.pine.blog](https://blog.pine.blog)
+ - date_published: 2024-05-08T03:30:27.711793+00:00
+
+ ## Pine.blog
+ - [https://pine.blog](https://pine.blog)
+ - date_published: 2024-05-08T03:30:24.768222+00:00
+
+ ## Captcha Page
+ - [https://p.pine.blog](https://p.pine.blog)
+ - date_published: 2024-07-03T18:04:31.621596+00:00
+
+ ## Niklas's blog
+ - [https://pivic.blog](https://pivic.blog)
+ - date_published: 2024-01-22T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Pixelfed Blog
+ - [https://pixelfed.blog](https://pixelfed.blog)
+ - date_published: 2023-10-25T12:00:46.045454+00:00
+
+ ## pixiv inside
+ - [https://inside.pixiv.blog](https://inside.pixiv.blog)
+ - date_published: 2024-06-18T22:08:57.141279+00:00
+
+ ## PJ Onori’s blog
+ - [https://pjonori.blog](https://pjonori.blog)
+ - date_published: 2024-07-12T21:38:20.048676+00:00
+
+ ## Plastic Craic
+ - [https://plasticcraic.blog](https://plasticcraic.blog)
+ - date_published: 2024-10-26T17:53:44.537968+00:00
+
+ ## Power Moves
+ - [https://powermoves.blog](https://powermoves.blog)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Pragmatic Environmentalist of New  York
+ - [https://pragmaticenvironmentalistofnewyork.blog](https://pragmaticenvironmentalistofnewyork.blog)
+ - date_published: 2024-08-19T08:08:13.859421+00:00
+
  ## Prashanth's Blog
  - [https://prashanths.blog](https://prashanths.blog)
  - date_published: 2023-12-17T05:07:12.878570+00:00
@@ -3907,132 +4039,4 @@ Educação
  ## Acervo - Folha de São Paulo
  - [https://acervo.folha.com.br](https://acervo.folha.com.br)
  - date_published: 2024-08-18T13:04:23.630789+00:00
-
- ## Assine Folha de S.Paulo
- - [https://assinaturas.folha.com.br](https://assinaturas.folha.com.br)
- - date_published: 2024-08-18T13:04:42.636122+00:00
-
- ## Login - Folha de S.Paulo
- - [https://atendimento.folha.com.br](https://atendimento.folha.com.br)
- - date_published: 2024-08-18T13:03:37.334126+00:00
-
- ## Home | Clube Folha
- - [https://clube.folha.com.br](https://clube.folha.com.br)
- - date_published: 2024-08-18T13:03:53.442918+00:00
-
- ## Home | Clube Folha Gourmet
- - [https://clubefolhagourmet.folha.com.br](https://clubefolhagourmet.folha.com.br)
- - date_published: 2024-08-18T13:04:17.729838+00:00
-
- ## Coleções | Folha
- - [https://colecoes.folha.com.br](https://colecoes.folha.com.br)
- - date_published: 2024-08-18T13:04:55.502496+00:00
-
- ## Envie informações de interesse público que possam merecer investigação jornalística da Folha
- - [https://folhaleaks.folha.com.br](https://folhaleaks.folha.com.br)
- - date_published: 2024-08-18T13:03:00.679921+00:00
-
- ## Folhapress
- - [https://folhapress.folha.com.br](https://folhapress.folha.com.br)
- - date_published: 2024-08-18T13:03:03.183364+00:00
-
- ## Login - Folha de S.Paulo
- - [https://login.folha.com.br](https://login.folha.com.br)
- - date_published: 2024-08-18T13:03:06.140334+00:00
-
- ## Assine Folha de S.Paulo
- - [https://secure.folha.com.br](https://secure.folha.com.br)
- - date_published: 2024-08-18T13:03:18.967568+00:00
-
- ## Seminários Folha | Folha
- - [https://seminariosfolha.folha.com.br](https://seminariosfolha.folha.com.br)
- - date_published: 2024-08-18T13:05:06.359902+00:00
-
- ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
- - [https://www1.folha.com.br](https://www1.folha.com.br)
- - date_published: 2024-08-18T13:05:04.152743+00:00
-
- ## Portal Publicidade
- - [http://www.publicidade.folha.com.br](http://www.publicidade.folha.com.br)
- - date_published: 2024-08-18T13:04:02.734354+00:00
-
- ## Folhapress
- - [https://folhapress.com.br](https://folhapress.com.br)
- - date_published: 2024-08-18T13:04:33.094785+00:00
-
- ## - Revista de Negócios e Economia - Forbes Brasil
- - [http://forbes.com.br](http://forbes.com.br)
- - date_published: 2024-10-29T15:23:11+00:00
-
- ## Forbes Brasil
- - [https://loja.forbes.com.br](https://loja.forbes.com.br)
- - date_published: 2024-10-29T15:23:30.935040+00:00
-
- ## HOME
- - [https://www.forbes.com.br](https://www.forbes.com.br)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Forma Legno
- - [https://formalegno.com.br](https://formalegno.com.br)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Jogar Fortune OX ▷ Jogo do Touro (PG Soft)
- - [https://fortuneoxdemopg.com.br](https://fortuneoxdemopg.com.br)
- - date_published: 2023-12-08T11:11:12+00:00
-
- ## Home - Fortune Tiger: Jogo do Tigre Aposta
- - [https://fortune-tiger-bet777.com.br](https://fortune-tiger-bet777.com.br)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Revista FOSSGIS Brasil - Georreferenciando o Conhecimento
- - [http://fossgisbrasil.com.br](http://fossgisbrasil.com.br)
- - date_published: 2018-10-03T23:18:29+00:00
-
- ## FotoInFoco
- - [http://www.fotografiaetc.com.br](http://www.fotografiaetc.com.br)
- - date_published: 2024-06-24T03:55:25+00:00
-
- ## A Foxbit te ensina como começar a investir em criptomoedas
- - [https://foxbit.com.br](https://foxbit.com.br)
- - date_published: 2025-01-09T16:33:05+00:00
-
- ## FranklinCovey Brasil | Aprimoramento de Performance
- - [https://www.franklincovey.com.br](https://www.franklincovey.com.br)
- - date_published: 2024-06-21T10:44:36+00:00
-
- ## BeFranq - Franq Open Banking
- - [https://be.franq.com.br](https://be.franq.com.br)
- - date_published: 2024-10-24T19:20:18+00:00
-
- ## Franq | Mais autonomia financeira com Bancário Autônomo
- - [https://franq.com.br](https://franq.com.br)
- - date_published: 2024-10-28T13:54:12.103705+00:00
-
- ## Franq | Mais autonomia financeira com Bancário Autônomo
- - [https://site.franq.com.br](https://site.franq.com.br)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## FCC - Fundação Cultural de Curitiba
- - [http://fundacaoculturaldecuritiba.com.br](http://fundacaoculturaldecuritiba.com.br)
- - date_published: 2024-06-12T11:18:30.371953+00:00
-
- ## Página Inicial - Fundação Santillana
- - [http://www.fundacaosantillana.com.br](http://www.fundacaosantillana.com.br)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Gabriel
- - [https://gabriel.com.br](https://gabriel.com.br)
- - date_published: 2024-10-28T12:19:58+00:00
-
- ## Gabriel
- - [https://mkt.gabriel.com.br](https://mkt.gabriel.com.br)
- - date_published: 2024-10-28T12:19:56+00:00
-
- ## Galera - Grupo Editorial Record
- - [http://www.galerarecord.com.br](http://www.galerarecord.com.br)
- - date_published: 2024-07-13T02:29:04.705015+00:00
-
- ## Home | ICBC 2024
- - [https://icbc2024.galoa.com.br](https://icbc2024.galoa.com.br)
- - date_published: 2024-10-19T23:00:43.311356+00:00
 

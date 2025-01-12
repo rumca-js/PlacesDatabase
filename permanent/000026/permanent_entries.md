@@ -1,3 +1,176 @@
+ ## Home page - Lugano Eventi
+ - [https://luganoeventi.ch](https://luganoeventi.ch)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Homepage | Lugano Region
+ - [https://luganoturismo.ch](https://luganoturismo.ch)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Linux / LUGS
+ - [https://www.lugs.ch](https://www.lugs.ch)
+ - date_published: 2024-09-16T13:09:01.248673+00:00
+
+ ## lukasfischer.ch
+ - [https://lukasfischer.ch](https://lukasfischer.ch)
+ - date_published: 2024-10-28T03:50:55.626768+00:00
+
+ ## Global
+ - [https://boersenundmaerkte.lukb.ch](https://boersenundmaerkte.lukb.ch)
+ - date_published: 2024-07-21T06:37:33.115902+00:00
+
+ ## LUKB E-Banking Login
+ - [https://ebanking.lukb.ch](https://ebanking.lukb.ch)
+ - date_published: 2024-06-18T14:58:10+00:00
+
+ ## Luzerner Kantonalbank – führend, solide, persönlich
+ - [https://lukb.ch](https://lukb.ch)
+ - date_published: 2024-04-30T05:58:31.210695+00:00
+
+ ## Amateurfunk ist unsere Passion – Lutz-Electronics, Grindel, Schweiz
+ - [https://lutz-electronics.ch](https://lutz-electronics.ch)
+ - date_published: 2024-06-28T22:46:54.592201+00:00
+
+ ## Luzerner Zeitung | Nachrichten Luzern & Zentralschweiz
+ - [http://www.luzernerzeitung.ch](http://www.luzernerzeitung.ch)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Agentur für Tourismusmarketing- Mabeo GmbH
+ - [https://mabeo.ch](https://mabeo.ch)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Ferienwohnungen, Chalets und Unterkünfte im Goms
+ - [https://www.mabeo-ferien.ch](https://www.mabeo-ferien.ch)
+ - date_published: 2024-08-11T04:35:40.127204+00:00
+
+ ## MB&F M.A.D.Gallery e-shop
+ - [https://shop.madgallery.ch](https://shop.madgallery.ch)
+ - date_published: 2024-07-09T08:43:20.774121+00:00
+
+ ## Magic Heidi: Swiss invoicing made easy
+ - [https://magicheidi.ch](https://magicheidi.ch)
+ - date_published: 2024-10-30T12:11:12.595644+00:00
+
+ ## Magma Branding – Mehr Kraft für Ihre Marke – Konzept & Design
+ - [https://www.magma-branding.ch](https://www.magma-branding.ch)
+ - date_published: 2024-08-18T11:59:59.699623+00:00
+
+ ## mailweaver
+ - [https://mailweaver.ch](https://mailweaver.ch)
+ - date_published: 2024-09-26T14:31:24.614439+00:00
+
+ ## La Maison de la Bible Suisse - votre librairie chrétienne
+ - [https://maisonbible.ch](https://maisonbible.ch)
+ - date_published: 2024-07-08T12:20:33.948866+00:00
+
+ ## Home FR | À venir maison emilie
+ - [https://maisonemilie.ch](https://maisonemilie.ch)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Maison Shift
+ - [https://maisonshift.ch](https://maisonshift.ch)
+ - date_published: 2024-05-06T18:10:50.760547+00:00
+
+ ## MAMCO Genève
+ - [https://mamco.ch](https://mamco.ch)
+ - date_published: 2024-05-07T12:51:47.788635+00:00
+
+ ## Manido Studios  / Branding & Immobilien - marketing Agentur / Zurich
+ - [http://manido.ch](http://manido.ch)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Marcus Fischer
+ - [https://mapmap.ch](https://mapmap.ch)
+ - date_published: 2024-06-22T07:01:51.192608+00:00
+
+ ## Home
+ - [https://marcelhauri.ch](https://marcelhauri.ch)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Marcel Waldvogel
+ - [https://marcel-waldvogel.ch](https://marcel-waldvogel.ch)
+ - date_published: 2024-06-23T17:15:18.050079+00:00
+
+ ## Mario Winkler Company
+ - [http://mariowinkler.ch](http://mariowinkler.ch)
+ - date_published: 2019-05-13T21:33:52+00:00
+
+ ## Marketplus
+ - [http://www.marketplus.ch](http://www.marketplus.ch)
+ - date_published: 2024-09-25T10:23:05.823270+00:00
+
+ ## Markus Mächler
+ - [http://markusmaechler.ch](http://markusmaechler.ch)
+ - date_published: 2023-09-09T09:48:50+00:00
+
+ ## Markustinner – Design, Music, Plugins
+ - [http://www.markustinner.ch](http://www.markustinner.ch)
+ - date_published: 2024-06-24T05:18:18.170323+00:00
+
+ ## Marlen Büchi — Visuelle Kommunikation
+ - [http://marlenbuechi.ch](http://marlenbuechi.ch)
+ - date_published: 2021-08-16T06:27:43+00:00
+
+ ## Martin Grandjean | Digital humanities, Data visualization, Network analysis
+ - [http://www.martingrandjean.ch](http://www.martingrandjean.ch)
+ - date_published: 2024-07-14T13:14:53.500810+00:00
+
+ ## Methods & Tools Editor Blog
+ - [http://blog.martinig.ch](http://blog.martinig.ch)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Martinig & Associates | Home
+ - [https://www.martinig.ch](https://www.martinig.ch)
+ - date_published: 2024-06-23T06:48:02.342865+00:00
+
+ ## WORK - Martin Panchaud
+ - [https://martinpanchaud.ch](https://martinpanchaud.ch)
+ - date_published: 2023-03-09T00:00:00+00:00
+
+ ## Martin Richi Photography
+ - [http://martinrichi.ch](http://martinrichi.ch)
+ - date_published: 2018-12-14T00:00:00+00:00
+
+ ## Maserati Schweiz – Luxus-SUVs, Sportwagen & mehr | Maserati CH
+ - [http://www.maserati.ch](http://www.maserati.ch)
+ - date_published: 2024-07-12T04:56:38+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo-com-unige.ch](https://matomo-com-unige.ch)
+ - date_published: 2024-08-06T18:39:45.459564+00:00
+
+ ## Matthew Buchanan
+ - [http://mattbu.ch](http://mattbu.ch)
+ - date_published: 2024-09-20T14:48:48.972825+00:00
+
+ ## Start - matthiaszehnder.ch
+ - [https://www.matthiaszehnder.ch](https://www.matthiaszehnder.ch)
+ - date_published: 2024-08-18T10:28:31.265480+00:00
+
+ ## Pasar Jalan Petaling
+ - [https://maurits.ch](https://maurits.ch)
+ - date_published: 2023-10-25T08:43:18.862210+00:00
+ - tags: ['personal']
+
+ ## Umami
+ - [https://umami.maurits.ch](https://umami.maurits.ch)
+ - date_published: 2024-09-05T13:59:48.696908+00:00
+
+ ## Gilbert Maystre
+ - [https://gilbert.maystre.ch](https://gilbert.maystre.ch)
+ - date_published: 2024-02-23T00:26:46+00:00
+
+ ## Mazepin-Fanpage
+ - [https://mazepin.ch](https://mazepin.ch)
+ - date_published: 2024-07-12T14:34:37+00:00
+
+ ## Home page
+ - [https://mclean.ch](https://mclean.ch)
+ - date_published: 2020-06-06T14:00:00+00:00
+
+ ## MDes Basel
+ - [http://mdesbasel.ch](http://mdesbasel.ch)
+ - date_published: 2024-07-13T14:59:48.773552+00:00
+
  ## MDTURP | MDTURP
  - [https://blog.mdturp.ch](https://blog.mdturp.ch)
  - date_published: 2024-04-05T00:00:00+00:00
@@ -2060,6 +2233,10 @@
  - [https://starfish.ch](https://starfish.ch)
  - date_published: 2021-01-16T08:38:06+00:00
 
+ ## Startseite - Stars in Town 2025
+ - [https://starsintown.ch](https://starsintown.ch)
+ - date_published: 2025-01-11T23:39:48.897442+00:00
+
  ## Startups | Startfeld | Switzerland Innovation Park Ost
  - [http://www.startfeld.ch](http://www.startfeld.ch)
  - date_published: 2024-08-20T00:00:00+00:00
@@ -3839,182 +4016,4 @@ Fakultät | Universität Basel
  ## Witt - Ihr Online Shop für Damenmode & Wäsche
  - [https://www.witt-weiden.ch](https://www.witt-weiden.ch)
  - date_published: 2024-12-10T20:59:30.232440+00:00
-
- ## World Meteorological Organization
- - [http://www.wmo.ch](http://www.wmo.ch)
- - date_published: 2024-06-30T16:51:29+00:00
-
- ## Fathom - simple website analytics
- - [https://stats.wnx.ch](https://stats.wnx.ch)
- - date_published: 2024-07-14T08:45:27+00:00
-
- ## World of Games
- - [https://wog.ch](https://wog.ch)
- - date_published: 2024-06-15T03:43:58.551985+00:00
-
- ## workbytale - Produkte für eine positive Zukunft. Kreislauffähig, lokal und transparent.
- - [https://workbytale.ch](https://workbytale.ch)
- - date_published: 2022-05-24T00:00:00+00:00
-
- ## Home
- - [https://workshoptage.ch](https://workshoptage.ch)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Jürgen Wothke
- - [https://wothke.ch](https://wothke.ch)
- - date_published: 2019-03-10T12:48:08+00:00
- - tags: ['personal']
-
- ## Alexandre Kaspar's homepage
- - [http://www.wox-xion.ch](http://www.wox-xion.ch)
- - date_published: 2023-04-03T17:16:07+00:00
-
- ## WOZ – Die Wochenzeitung
- - [https://woz.ch](https://woz.ch)
- - date_published: 2024-04-30T06:03:02.279661+00:00
-
- ## William Lachance's Log
- - [https://wrla.ch](https://wrla.ch)
- - date_published: 2024-07-07T10:29:31.534695+00:00
- - tags: ['personal']
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://aai-logon.wsl.ch](https://aai-logon.wsl.ch)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## Sign in · GitLab
- - [https://code.wsl.ch](https://code.wsl.ch)
- - date_published: 2024-07-04T08:19:21.921996+00:00
-
- ## Swiss Federal Research Institute WSL
- - [http://www.wsl.ch](http://www.wsl.ch)
- - date_published: 2024-06-22T08:03:53.905169+00:00
-
- ## WUNDERBLOCK
- - [http://wunderblock.ch](http://wunderblock.ch)
- - date_published: 2010-06-21T20:29:32+00:00
-
- ## ArtCore Projects
- - [http://www.wurzeltod.ch](http://www.wurzeltod.ch)
- - date_published: 2024-06-24T09:50:51.788666+00:00
-
- ## WWF-Events - Raus in die Natur
- - [https://events.wwf.ch](https://events.wwf.ch)
- - date_published: 2024-07-03T02:15:53.548924+00:00
-
- ## Organisation für Natur - und Umweltschutz | WWF Schweiz
- - [https://wwf.ch](https://wwf.ch)
- - date_published: 2024-05-07T23:56:52.558832+00:00
-
- ## Alexandre Kaspar's homepage
- - [http://w-x.ch](http://w-x.ch)
- - date_published: 2023-04-03T17:16:07+00:00
-
- ## Übersicht aller Störungen
- - [https://xn--allestrungen-9ib.ch](https://xn--allestrungen-9ib.ch)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## www.xyz.ch
- - [https://xyz.ch](https://xyz.ch)
- - date_published: 2024-05-04T06:34:15.044834+00:00
-
- ## GitHub - jens-maus/yam: :mailbox_with_mail: YAM (short for 'Yet Another Mailer') is a MIME-compliant open-source Internet email client written for Amiga-based computer systems (AmigaOS4, AmigaOS3, MorphOS, AROS). It supports POP3, SMTP, TLSv1/SSLv3 connection security, multiple users, multiple identities, PGPv2/v5 encryption, unlimited hierarchical folders, an ARexx interface, etc...
- - [http://yam.ch](http://yam.ch)
- - date_published: 2024-07-08T19:13:25.874660+00:00
-
- ## Yannick de Kalbermatten
- - [https://yannickdekalbermatten.ch](https://yannickdekalbermatten.ch)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## The official Yello Site
- - [http://www.yello.ch](http://www.yello.ch)
- - date_published: 2024-04-03T07:37:02+00:00
-
- ## Yelp
- - [https://de.m.yelp.ch](https://de.m.yelp.ch)
- - date_published: 2024-07-01T07:10:45.720622+00:00
-
- ## Yelp
- - [https://de.yelp.ch](https://de.yelp.ch)
- - date_published: 2024-07-01T07:07:41.935444+00:00
-
- ## Yelp
- - [https://en.m.yelp.ch](https://en.m.yelp.ch)
- - date_published: 2024-07-01T06:44:10.590851+00:00
-
- ## Yelp
- - [https://en.yelp.ch](https://en.yelp.ch)
- - date_published: 2024-07-01T06:44:05.370549+00:00
-
- ## Yelp
- - [https://fr.m.yelp.ch](https://fr.m.yelp.ch)
- - date_published: 2024-07-01T06:42:51.209013+00:00
-
- ## Yelp
- - [https://fr.yelp.ch](https://fr.yelp.ch)
- - date_published: 2024-07-01T06:42:46.482215+00:00
-
- ## Yelp
- - [https://it.m.yelp.ch](https://it.m.yelp.ch)
- - date_published: 2024-07-01T07:10:24.821302+00:00
-
- ## Yelp
- - [https://it.yelp.ch](https://it.yelp.ch)
- - date_published: 2024-07-01T07:06:31.269033+00:00
-
- ## YOTAVIS | Communication Quality and Control
- - [https://yotavis.ch](https://yotavis.ch)
- - date_published: 2024-05-11T10:04:14.586444+00:00
-
- ## Wir sind yunikon. Ihr Partner für den digitalen Auftritt.
- - [https://yunikon.ch](https://yunikon.ch)
- - date_published: 2024-10-22T17:52:26.236398+00:00
-
- ## Home - LaserWeb / CNCWeb
- - [https://laserweb.yurl.ch](https://laserweb.yurl.ch)
- - date_published: 2024-08-19T08:33:58+00:00
-
- ## Commune d'Yverdon-les-Bains - Site officiel de la Commune
- - [https://www.yverdon-les-bains.ch](https://www.yverdon-les-bains.ch)
- - date_published: 2024-07-09T07:42:23.525922+00:00
-
- ## Zaa.ch - JSON formatting
- - [http://zaa.ch](http://zaa.ch)
- - date_published: 2023-08-08T15:40:11+00:00
-
- ## Zahnärztekasse AG – Honorar-Management im Outsourcing
- - [https://www.zakag.ch](https://www.zakag.ch)
- - date_published: 2024-09-27T09:30:05.007287+00:00
-
- ## Lounge by Zalando: Bis zu -75%* in deinem Online-Outlet Schweiz
- - [https://www.zalando-lounge.ch](https://www.zalando-lounge.ch)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Home — Robert Zaremba blog
- - [http://blog.zaremba.ch](http://blog.zaremba.ch)
- - date_published: 2023-07-11T08:18:24+00:00
-
- ## ZbW Zentrum für berufliche Weiterbildung, St. Gallen
- - [https://www.zbw.ch](https://www.zbw.ch)
- - date_published: 2024-07-09T15:26:17.674813+00:00
-
- ## ZefixWebApp
- - [https://www.zefix.ch](https://www.zefix.ch)
- - date_published: 2023-11-14T15:24:07+00:00
-
- ## Splashpage
- - [https://www.zeiss.ch](https://www.zeiss.ch)
- - date_published: 2024-09-16T07:56:28.123959+00:00
-
- ## Welcome to Zeltwelt
- - [https://en.zeltwelt.ch](https://en.zeltwelt.ch)
- - date_published: 2024-10-29T11:16:57.170814+00:00
-
- ## Bienvenue à Zeltwelt
- - [https://fr.zeltwelt.ch](https://fr.zeltwelt.ch)
- - date_published: 2024-10-29T11:16:52.702310+00:00
-
- ## Benvenuti Zeltwelt
- - [https://it.zeltwelt.ch](https://it.zeltwelt.ch)
- - date_published: 2024-10-29T11:16:55.626910+00:00
 

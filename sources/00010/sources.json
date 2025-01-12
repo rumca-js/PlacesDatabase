@@ -4,6 +4,22 @@
         "category_name": "New",
         "enabled": false,
         "export_to_cms": true,
+        "favicon": "https://blog.appcensus.io/wp-content/uploads/cropped-appcensus_logo_square-32x32.png",
+        "fetch_period": 900,
+        "id": 7549,
+        "language": "en-US",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/places/source-json/2285",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "New",
+        "title": "The AppCensus Blog",
+        "url": "https://blog.appcensus.io/feed"
+    },
+    {
+        "age": 0,
+        "category_name": "New",
+        "enabled": false,
+        "export_to_cms": true,
         "favicon": null,
         "fetch_period": 900,
         "id": 7550,
@@ -15982,21 +15998,5 @@
         "subcategory_name": "New",
         "title": "Useful Fictions",
         "url": "https://usefulfictions.substack.com/feed"
-    },
-    {
-        "age": 0,
-        "category_name": "New",
-        "enabled": false,
-        "export_to_cms": true,
-        "favicon": "https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8826649d-90f9-40d7-8b1e-0ba286861d0e_144x144.png",
-        "fetch_period": 900,
-        "id": 8407,
-        "language": "en",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/places/source-json/8627",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
-        "title": "Useful Fictions",
-        "url": "http://usefulfictions.substack.com/feed"
     }
 ]

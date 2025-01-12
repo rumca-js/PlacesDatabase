@@ -1,3 +1,174 @@
+ ## Home - The Cryptonomist
+ - [https://de.cryptonomist.ch](https://de.cryptonomist.ch)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Home - The Cryptonomist
+ - [https://en.cryptonomist.ch](https://en.cryptonomist.ch)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Home - The Cryptonomist
+ - [https://es.cryptonomist.ch](https://es.cryptonomist.ch)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Home - The Cryptonomist
+ - [https://fr.cryptonomist.ch](https://fr.cryptonomist.ch)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Home - The Cryptonomist
+ - [https://jp.cryptonomist.ch](https://jp.cryptonomist.ch)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Home - The Cryptonomist
+ - [https://ko.cryptonomist.ch](https://ko.cryptonomist.ch)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Home - The Cryptonomist
+ - [https://pt.cryptonomist.ch](https://pt.cryptonomist.ch)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Home - The Cryptonomist
+ - [https://ru.cryptonomist.ch](https://ru.cryptonomist.ch)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Cryptowatch to sunset: Kraken Pro to integrate Cryptowatch features
+ - [http://cryptowat.ch](http://cryptowat.ch)
+ - date_published: 2023-07-31T20:11:11+00:00
+
+ ## Industrial Research and Development | Technological Innovation
+ - [https://www.csem.ch](https://www.csem.ch)
+ - date_published: 2024-07-16T22:03:52.641026+00:00
+
+ ## Au Pair USA | Cultural Care
+ - [https://www.culturalcare.ch](https://www.culturalcare.ch)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Crypto Valley Journal - Kryptowährungen, Blockchain, Bitcoin & Co.
+ - [https://cvj.ch](https://cvj.ch)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Revive Adserver
+ - [https://ww.cvj.ch](https://ww.cvj.ch)
+ - date_published: 2024-08-06T17:30:16.009803+00:00
+
+ ## CV Summit - Where blockchain meets the world
+ - [https://www.cvsummit.ch](https://www.cvsummit.ch)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## Cyberduck | Libre server and cloud storage browser for Mac and
+            Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure &
+            OneDrive, Google Drive and Dropbox
+ - [http://cyberduck.ch](http://cyberduck.ch)
+ - date_published: 2024-08-18T16:59:34+00:00
+
+ ## cyon | Nachhaltiges Webhosting, Domains, E-Mails & herzlicher Support
+ - [http://cyon.ch](http://cyon.ch)
+ - date_published: 2024-10-11T20:11:08.901894+00:00
+
+ ## my.cyon :: Login
+ - [https://my.cyon.ch](https://my.cyon.ch)
+ - date_published: 2024-06-16T16:11:20.499740+00:00
+
+ ## cyon Webhosting | Hosting und Domains
+ - [https://order.cyon.ch](https://order.cyon.ch)
+ - date_published: 2024-06-16T16:11:21.996680+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.cyon.ch](https://stats.cyon.ch)
+ - date_published: 2024-06-16T16:11:25.174902+00:00
+
+ ## cyon Webmail :: [Login]
+ - [https://webmail.cyon.ch](https://webmail.cyon.ch)
+ - date_published: 2024-06-16T16:11:25+00:00
+
+ ## Daniel Baumann
+ - [https://blog.daniel-baumann.ch](https://blog.daniel-baumann.ch)
+ - date_published: 2024-06-02T16:33:15+00:00
+
+ ## Daniel Kirsch
+ - [http://danielkirs.ch](http://danielkirs.ch)
+ - date_published: 2023-08-30T23:47:05+00:00
+
+ ## Daniel Rautenbach
+ - [http://danielrautenba.ch](http://danielrautenba.ch)
+ - date_published: 2024-07-13T15:44:42.639947+00:00
+
+ ## Energie sparen und Fördergelder erhalten | Das Gebäudeprogramm
+ - [http://www.dasgebaeudeprogramm.ch](http://www.dasgebaeudeprogramm.ch)
+ - date_published: 2024-10-22T08:58:58.989092+00:00
+
+ ## Das Magazin: Spannende Geschichten und tiefgründige Reportagen | Tages-Anzeiger
+ - [https://dasmagazin.ch](https://dasmagazin.ch)
+ - date_published: 2024-04-30T06:12:58.033996+00:00
+
+ ## Datak
+ - [https://www.datak.ch](https://www.datak.ch)
+ - date_published: 2024-06-17T15:43:13.053247+00:00
+
+ ## The Swiss Data Science Center
+ - [https://datascience.ch](https://datascience.ch)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Datatrans: Advanced Payment Solutions for companies who demand the maximum from their payment solution.
+ - [https://www.datatrans.ch](https://www.datatrans.ch)
+ - date_published: 2024-08-06T21:10:44.815158+00:00
+
+ ## Generiere dein Datenauskunftsbegehren
+ - [https://datenauskunftsbegehren.ch](https://datenauskunftsbegehren.ch)
+ - date_published: 2024-07-24T16:25:22.343432+00:00
+
+ ## Academy, Datenschutz-Generator und EU-Datenschutz-Vertretung gemäss Art. 27 DSGVO / GDPR
+ - [https://www.datenschutzpartner.ch](https://www.datenschutzpartner.ch)
+ - date_published: 2024-07-11T10:32:47.227532+00:00
+
+ ## Docu + Design Daube
+ - [https://daube.ch](https://daube.ch)
+ - date_published: 2019-07-23T12:57:30+00:00
+
+ ## Mirjam Daube / video works
+ - [http://mir.daube.ch](http://mir.daube.ch)
+ - date_published: 2024-04-30T06:00:24.177864+00:00
+
+ ## Home | David Sidler
+ - [https://davidsidler.ch](https://davidsidler.ch)
+ - date_published: 2024-05-04T15:44:17.470695+00:00
+
+ ## Davos Klosters Tourismus | Ferien in Graubünden / Schweiz
+ - [https://davos.ch](https://davos.ch)
+ - date_published: 2024-11-21T15:49:29+00:00
+ - tags: ['new world order']
+
+ ## Online Ferienshop Destination Davos Klosters
+ - [https://ferienshop.davos.ch](https://ferienshop.davos.ch)
+ - date_published: 2024-11-21T15:50:53.142796+00:00
+
+ ## Davos Klosters Tourismus | Ferien in Graubünden / Schweiz
+ - [https://services.davos.ch](https://services.davos.ch)
+ - date_published: 2024-11-21T15:49:58+00:00
+
+ ## blog.dbrgn.ch
+ - [https://blog.dbrgn.ch](https://blog.dbrgn.ch)
+ - date_published: 2024-06-29T22:53:55+00:00
+
+ ## Home | DCAF – Geneva Centre for Security Sector Governance
+ - [https://www.dcaf.ch](https://www.dcaf.ch)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## debian.ch
+ - [https://debian.ch](https://debian.ch)
+ - date_published: 2024-06-15T06:55:24.573478+00:00
+
+ ## DECATHLON | Wo dein Sport anfängt | Über 100 Sportarten
+ - [https://decathlon.ch](https://decathlon.ch)
+ - date_published: 2024-06-15T20:10:14.403883+00:00
+
+ ## Homepage
+ - [https://de.support.decathlon.ch](https://de.support.decathlon.ch)
+ - date_published: 2024-09-19T15:24:57.978601+00:00
+
+ ## Homepage
+ - [https://fr.support.decathlon.ch](https://fr.support.decathlon.ch)
+ - date_published: 2024-09-19T14:49:18.088747+00:00
+
  ## Deep Impact: Wir erobern die digitale Welt.
  - [https://www.deep-impact.ch](https://www.deep-impact.ch)
  - date_published: 2024-04-17T00:00:00+00:00
@@ -2589,6 +2760,10 @@
  - [http://harpe45.ch](http://harpe45.ch)
  - date_published: 2017-09-03T00:00:00+00:00
 
+ ## heap.ch
+ - [https://heap.ch](https://heap.ch)
+ - date_published: 2020-08-08T18:57:37+00:00
+
  ## Accueil - Haute-Ecole Arc
  - [https://www.he-arc.ch](https://www.he-arc.ch)
  - date_published: 2024-12-12T14:59:21+00:00
@@ -3839,177 +4014,4 @@
  ## Home - Lugano's Plan ₿
  - [https://planb.lugano.ch](https://planb.lugano.ch)
  - date_published: 2024-09-04T00:00:00+00:00
-
- ## Home page - Lugano Eventi
- - [https://luganoeventi.ch](https://luganoeventi.ch)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Homepage | Lugano Region
- - [https://luganoturismo.ch](https://luganoturismo.ch)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Linux / LUGS
- - [https://www.lugs.ch](https://www.lugs.ch)
- - date_published: 2024-09-16T13:09:01.248673+00:00
-
- ## lukasfischer.ch
- - [https://lukasfischer.ch](https://lukasfischer.ch)
- - date_published: 2024-10-28T03:50:55.626768+00:00
-
- ## Global
- - [https://boersenundmaerkte.lukb.ch](https://boersenundmaerkte.lukb.ch)
- - date_published: 2024-07-21T06:37:33.115902+00:00
-
- ## LUKB E-Banking Login
- - [https://ebanking.lukb.ch](https://ebanking.lukb.ch)
- - date_published: 2024-06-18T14:58:10+00:00
-
- ## Luzerner Kantonalbank – führend, solide, persönlich
- - [https://lukb.ch](https://lukb.ch)
- - date_published: 2024-04-30T05:58:31.210695+00:00
-
- ## Amateurfunk ist unsere Passion – Lutz-Electronics, Grindel, Schweiz
- - [https://lutz-electronics.ch](https://lutz-electronics.ch)
- - date_published: 2024-06-28T22:46:54.592201+00:00
-
- ## Luzerner Zeitung | Nachrichten Luzern & Zentralschweiz
- - [http://www.luzernerzeitung.ch](http://www.luzernerzeitung.ch)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Agentur für Tourismusmarketing- Mabeo GmbH
- - [https://mabeo.ch](https://mabeo.ch)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Ferienwohnungen, Chalets und Unterkünfte im Goms
- - [https://www.mabeo-ferien.ch](https://www.mabeo-ferien.ch)
- - date_published: 2024-08-11T04:35:40.127204+00:00
-
- ## MB&F M.A.D.Gallery e-shop
- - [https://shop.madgallery.ch](https://shop.madgallery.ch)
- - date_published: 2024-07-09T08:43:20.774121+00:00
-
- ## Magic Heidi: Swiss invoicing made easy
- - [https://magicheidi.ch](https://magicheidi.ch)
- - date_published: 2024-10-30T12:11:12.595644+00:00
-
- ## Magma Branding – Mehr Kraft für Ihre Marke – Konzept & Design
- - [https://www.magma-branding.ch](https://www.magma-branding.ch)
- - date_published: 2024-08-18T11:59:59.699623+00:00
-
- ## mailweaver
- - [https://mailweaver.ch](https://mailweaver.ch)
- - date_published: 2024-09-26T14:31:24.614439+00:00
-
- ## La Maison de la Bible Suisse - votre librairie chrétienne
- - [https://maisonbible.ch](https://maisonbible.ch)
- - date_published: 2024-07-08T12:20:33.948866+00:00
-
- ## Home FR | À venir maison emilie
- - [https://maisonemilie.ch](https://maisonemilie.ch)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Maison Shift
- - [https://maisonshift.ch](https://maisonshift.ch)
- - date_published: 2024-05-06T18:10:50.760547+00:00
-
- ## MAMCO Genève
- - [https://mamco.ch](https://mamco.ch)
- - date_published: 2024-05-07T12:51:47.788635+00:00
-
- ## Manido Studios  / Branding & Immobilien - marketing Agentur / Zurich
- - [http://manido.ch](http://manido.ch)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Marcus Fischer
- - [https://mapmap.ch](https://mapmap.ch)
- - date_published: 2024-06-22T07:01:51.192608+00:00
-
- ## Home
- - [https://marcelhauri.ch](https://marcelhauri.ch)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Marcel Waldvogel
- - [https://marcel-waldvogel.ch](https://marcel-waldvogel.ch)
- - date_published: 2024-06-23T17:15:18.050079+00:00
-
- ## Mario Winkler Company
- - [http://mariowinkler.ch](http://mariowinkler.ch)
- - date_published: 2019-05-13T21:33:52+00:00
-
- ## Marketplus
- - [http://www.marketplus.ch](http://www.marketplus.ch)
- - date_published: 2024-09-25T10:23:05.823270+00:00
-
- ## Markus Mächler
- - [http://markusmaechler.ch](http://markusmaechler.ch)
- - date_published: 2023-09-09T09:48:50+00:00
-
- ## Markustinner – Design, Music, Plugins
- - [http://www.markustinner.ch](http://www.markustinner.ch)
- - date_published: 2024-06-24T05:18:18.170323+00:00
-
- ## Marlen Büchi — Visuelle Kommunikation
- - [http://marlenbuechi.ch](http://marlenbuechi.ch)
- - date_published: 2021-08-16T06:27:43+00:00
-
- ## Martin Grandjean | Digital humanities, Data visualization, Network analysis
- - [http://www.martingrandjean.ch](http://www.martingrandjean.ch)
- - date_published: 2024-07-14T13:14:53.500810+00:00
-
- ## Methods & Tools Editor Blog
- - [http://blog.martinig.ch](http://blog.martinig.ch)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Martinig & Associates | Home
- - [https://www.martinig.ch](https://www.martinig.ch)
- - date_published: 2024-06-23T06:48:02.342865+00:00
-
- ## WORK - Martin Panchaud
- - [https://martinpanchaud.ch](https://martinpanchaud.ch)
- - date_published: 2023-03-09T00:00:00+00:00
-
- ## Martin Richi Photography
- - [http://martinrichi.ch](http://martinrichi.ch)
- - date_published: 2018-12-14T00:00:00+00:00
-
- ## Maserati Schweiz – Luxus-SUVs, Sportwagen & mehr | Maserati CH
- - [http://www.maserati.ch](http://www.maserati.ch)
- - date_published: 2024-07-12T04:56:38+00:00
-
- ## Sign in - Matomo
- - [https://matomo-com-unige.ch](https://matomo-com-unige.ch)
- - date_published: 2024-08-06T18:39:45.459564+00:00
-
- ## Matthew Buchanan
- - [http://mattbu.ch](http://mattbu.ch)
- - date_published: 2024-09-20T14:48:48.972825+00:00
-
- ## Start - matthiaszehnder.ch
- - [https://www.matthiaszehnder.ch](https://www.matthiaszehnder.ch)
- - date_published: 2024-08-18T10:28:31.265480+00:00
-
- ## Pasar Jalan Petaling
- - [https://maurits.ch](https://maurits.ch)
- - date_published: 2023-10-25T08:43:18.862210+00:00
- - tags: ['personal']
-
- ## Umami
- - [https://umami.maurits.ch](https://umami.maurits.ch)
- - date_published: 2024-09-05T13:59:48.696908+00:00
-
- ## Gilbert Maystre
- - [https://gilbert.maystre.ch](https://gilbert.maystre.ch)
- - date_published: 2024-02-23T00:26:46+00:00
-
- ## Mazepin-Fanpage
- - [https://mazepin.ch](https://mazepin.ch)
- - date_published: 2024-07-12T14:34:37+00:00
-
- ## Home page
- - [https://mclean.ch](https://mclean.ch)
- - date_published: 2020-06-06T14:00:00+00:00
-
- ## MDes Basel
- - [http://mdesbasel.ch](http://mdesbasel.ch)
- - date_published: 2024-07-13T14:59:48.773552+00:00
 

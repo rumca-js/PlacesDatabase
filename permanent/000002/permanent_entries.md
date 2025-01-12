@@ -1,3 +1,19 @@
+ ## HaiHai Labs
+ - [https://haihai.ai](https://haihai.ai)
+ - date_published: 2024-06-23T11:29:31.920182+00:00
+
+ ## Haiper - AI Video Generator
+ - [https://haiper.ai](https://haiper.ai)
+ - date_published: 2024-09-06T21:52:04.276207+00:00
+
+ ## Preview your FUE/FUT hair transplant using AI | Hairgen.ai
+ - [https://www.hairgen.ai](https://www.hairgen.ai)
+ - date_published: 2024-06-19T20:41:52.035180+00:00
+
+ ## AISST
+ - [https://haist.ai](https://haist.ai)
+ - date_published: 2024-05-08T09:51:36.201282+00:00
+
  ## Halist AI
  - [https://halist.ai](https://halist.ai)
  - date_published: 2023-03-01T00:00:00+00:00
@@ -1297,6 +1313,10 @@
  ## Home - KDB.AI
  - [https://kdb.ai](https://kdb.ai)
  - date_published: 2024-03-06T11:51:49+00:00
+
+ ## Online Matchmaking Service - AI Matchmaker | Keeper
+ - [https://keeper.ai](https://keeper.ai)
+ - date_published: 2024-12-18T03:05:49+00:00
 
  ## Leverage Human Intelligence | Kern AI
  - [https://kern.ai](https://kern.ai)
@@ -4011,24 +4031,4 @@
  ## Peak - Game-changing AI is here.
  - [https://peak.ai](https://peak.ai)
  - date_published: 2024-06-10T00:00:00+00:00
-
- ## Penelope.ai
- - [https://app.penelope.ai](https://app.penelope.ai)
- - date_published: 2024-05-08T03:01:32.442324+00:00
-
- ## Penelope.ai
- - [https://penelope.ai](https://penelope.ai)
- - date_published: 2024-07-03T15:33:46.386616+00:00
-
- ## Penly AI: Custom Anime & Real Girl Art Generator - Free Trial
- - [https://penly.ai](https://penly.ai)
- - date_published: 2024-01-01T05:10:32+00:00
-
- ## PennyLane
- - [https://pennylane.ai](https://pennylane.ai)
- - date_published: 2024-06-19T14:40:25+00:00
-
- ## People.ai All Rights Reserved
- - [https://help.people.ai](https://help.people.ai)
- - date_published: 2024-10-30T11:27:24.826473+00:00
 
