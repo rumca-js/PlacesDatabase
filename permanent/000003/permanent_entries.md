@@ -1,3 +1,15 @@
+ ## PDF.ai | Chat with your PDF documents
+ - [https://pdf.ai](https://pdf.ai)
+ - date_published: 2024-06-19T19:35:49.500635+00:00
+
+ ## PDFTranslate.ai | Translate PDF for Free | PDF Translator Online
+ - [https://pdftranslate.ai](https://pdftranslate.ai)
+ - date_published: 2024-12-22T13:23:34.595547+00:00
+
+ ## Peak - Game-changing AI is here.
+ - [https://peak.ai](https://peak.ai)
+ - date_published: 2024-06-10T00:00:00+00:00
+
  ## Penelope.ai
  - [https://app.penelope.ai](https://app.penelope.ai)
  - date_published: 2024-05-08T03:01:32.442324+00:00
@@ -2388,6 +2400,10 @@
  - [http://sider.ai](http://sider.ai)
  - date_published: 2024-06-19T19:19:09.433730+00:00
 
+ ## SideShift.ai - Direct to Wallet Trading
+ - [https://sideshift.ai](https://sideshift.ai)
+ - date_published: 2025-01-12T10:02:24.503835+00:00
+
  ## Sierra - The Conversational AI Platform
  - [https://sierra.ai](https://sierra.ai)
  - date_published: 2024-04-28T01:59:56.176696+00:00
@@ -4033,20 +4049,4 @@
  ## Tracksy - Worlds Leading AI Music Assistant.
  - [https://tracksy.ai](https://tracksy.ai)
  - date_published: 2024-06-19T18:53:33.387046+00:00
-
- ## The speed and accuracy of AI. Now applied to visual assessment.
- - [https://tractable.ai](https://tractable.ai)
- - date_published: 2024-07-09T21:19:41.237395+00:00
-
- ## Train Fitness - Automatic Exercise Tracking
- - [https://trainfitness.ai](https://trainfitness.ai)
- - date_published: 2024-12-15T07:20:36.830792+00:00
-
- ## Train Fitness - Automatic Exercise Tracking
- - [http://www.trainfitness.ai](http://www.trainfitness.ai)
- - date_published: 2024-12-15T07:20:26.179603+00:00
-
- ## Trainy
- - [https://trainy.ai](https://trainy.ai)
- - date_published: 2024-08-22T22:12:43.231520+00:00
 

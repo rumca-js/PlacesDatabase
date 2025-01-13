@@ -1,3 +1,31 @@
+ ## Hospitality & Restaurant Marketing & Operations Software | SevenRooms
+ - [https://sevenrooms-marketing-site.netlify.app](https://sevenrooms-marketing-site.netlify.app)
+ - date_published: 2024-06-30T12:09:50.860955+00:00
+
+ ## Shahid Shaikh
+ - [https://shahid-old.netlify.app](https://shahid-old.netlify.app)
+ - date_published: 2024-07-02T19:02:02.576733+00:00
+
+ ## Shahid Shaikh - UI Developer
+ - [https://shahid-v2.netlify.app](https://shahid-v2.netlify.app)
+ - date_published: 2024-07-02T19:01:48.355769+00:00
+
+ ## sb-website-widgets
+ - [https://shopbox-app.netlify.app](https://shopbox-app.netlify.app)
+ - date_published: 2024-08-06T10:44:23.518538+00:00
+
+ ## Siddharth Roy
+ - [https://siddharthroy.netlify.app](https://siddharthroy.netlify.app)
+ - date_published: 2024-05-07T23:13:34.470688+00:00
+
+ ## Simon Pixels
+ - [https://simon-pixels.netlify.app](https://simon-pixels.netlify.app)
+ - date_published: 2024-07-14T07:53:21.751772+00:00
+
+ ## The Single File Philosophy
+ - [https://single-file.netlify.app](https://single-file.netlify.app)
+ - date_published: 2024-07-10T06:24:02.402895+00:00
+
  ## Global Situation Room
  - [https://situation-earth.netlify.app](https://situation-earth.netlify.app)
  - date_published: 2024-07-10T09:05:04.178315+00:00
@@ -598,6 +626,10 @@ The Album
  - date_published: 2024-06-19T19:57:21.581224+00:00
  - tags: ['nsfw']
 
+ ## ONTO
+ - [https://onto.app](https://onto.app)
+ - date_published: 2025-01-12T11:07:56.911809+00:00
+
  ## Web Opac App
  - [https://opac.app](https://opac.app)
  - date_published: 2024-04-28T18:12:09+00:00
@@ -782,6 +814,10 @@ The Album
  ## Earn effortlessly with the ultimate passive income app - Pawns
  - [https://pawns.app](https://pawns.app)
  - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Paybrise
+ - [https://paybrise.app](https://paybrise.app)
+ - date_published: 2023-09-06T18:06:53+00:00
 
  ## Everything About printed Circuit Board Assembly
  - [http://pcba.app](http://pcba.app)
@@ -3369,6 +3405,14 @@ The Album
  - [https://basedlabs-docs.vercel.app](https://basedlabs-docs.vercel.app)
  - date_published: 2024-09-13T20:37:47.556675+00:00
 
+ ## GYM Website
+ - [https://bato-gym-website.vercel.app](https://bato-gym-website.vercel.app)
+ - date_published: 2025-01-12T05:22:54.442461+00:00
+
+ ## BitcoinBlack — No-Limit Black Card (VIP Members Club)
+ - [https://bblack.vercel.app](https://bblack.vercel.app)
+ - date_published: 2025-01-12T10:09:16.687460+00:00
+
  ## BeardMen Website
  - [https://beardmen.vercel.app](https://beardmen.vercel.app)
  - date_published: 2024-07-14T10:06:26.811963+00:00
@@ -3585,6 +3629,10 @@ The Album
  ## Code Sound
  - [https://code-sound.vercel.app](https://code-sound.vercel.app)
  - date_published: 2024-08-07T19:29:25.158751+00:00
+
+ ## Cohabi
+ - [http://cohabi.vercel.app](http://cohabi.vercel.app)
+ - date_published: 2025-01-12T13:04:27+00:00
 
  ## CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
  - [https://coindesk-edge-dqvual6tg-coindesk.vercel.app](https://coindesk-edge-dqvual6tg-coindesk.vercel.app)
@@ -3982,52 +4030,4 @@ The Album
  ## getavatar.vercel.app: Get unified user gvatar from Twitter, GitHub, Intagram, Reddit, etc.
  - [https://getavatar.vercel.app](https://getavatar.vercel.app)
  - date_published: 2018-10-20T01:46:40+00:00
-
- ## Create Next App
- - [https://gh-3doors.vercel.app](https://gh-3doors.vercel.app)
- - date_published: 2024-12-23T11:42:55.549974+00:00
-
- ## Gemini Code Editor - A Google Gemini based Code Editor
- - [https://gide.vercel.app](https://gide.vercel.app)
- - date_published: 2024-10-27T04:44:58+00:00
-
- ## GitGood
- - [https://gitgood.vercel.app](https://gitgood.vercel.app)
- - date_published: 2024-12-16T18:10:13+00:00
-
- ## GitHub Business Card · Sebastien Castiel
- - [https://github-business-card.vercel.app](https://github-business-card.vercel.app)
- - date_published: 2023-10-25T11:50:14.049241+00:00
-
- ## GitHub-Guessr
- - [https://github-guessr.vercel.app](https://github-guessr.vercel.app)
- - date_published: 2023-10-25T11:50:17.091291+00:00
-
- ## GitHub - anuraghazra/github-readme-stats: :zap: Dynamically generated stats for your github readmes
- - [https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app)
- - date_published: 2024-05-12T05:30:01.478808+00:00
-
- ## Google Waitlist
- - [https://google-waitlist.vercel.app](https://google-waitlist.vercel.app)
- - date_published: 2023-10-25T11:50:18.710006+00:00
-
- ## GPT-Minus1
- - [https://gptminus1.vercel.app](https://gptminus1.vercel.app)
- - date_published: 2023-10-25T11:50:20.308138+00:00
-
- ## TodoGPT
- - [https://gptnotes.vercel.app](https://gptnotes.vercel.app)
- - date_published: 2024-09-15T21:44:16+00:00
-
- ## Rayst Gradients
- - [https://gradients-csxh8hjkq-rayst.vercel.app](https://gradients-csxh8hjkq-rayst.vercel.app)
- - date_published: 2024-08-24T23:19:58+00:00
-
- ## Grainy Gradients playground
- - [https://grainy-gradients.vercel.app](https://grainy-gradients.vercel.app)
- - date_published: 2024-05-06T18:19:16.483544+00:00
-
- ## GreenHome — Next.js Real Estate Website Template
- - [https://greenhome-next.vercel.app](https://greenhome-next.vercel.app)
- - date_published: 2024-09-30T17:27:03+00:00
 

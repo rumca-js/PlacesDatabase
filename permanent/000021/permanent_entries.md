@@ -1,3 +1,108 @@
+ ## Phylo DNA Puzzle
+ - [https://phylo.cs.mcgill.ca](https://phylo.cs.mcgill.ca)
+ - date_published: 2024-05-06T23:01:07+00:00
+
+ ## Index of /
+ - [http://profs-polisci.mcgill.ca](http://profs-polisci.mcgill.ca)
+ - date_published: 2010-08-13T00:00:00+00:00
+
+ ## Reasoning and Learning Lab
+ - [http://rl.cs.mcgill.ca](http://rl.cs.mcgill.ca)
+ - date_published: 2023-10-29T01:21:12+00:00
+
+ ## Sable Research Group
+ - [https://sable.mcgill.ca](https://sable.mcgill.ca)
+ - date_published: 2014-07-21T18:26:14+00:00
+
+ ## Incomplete Web Address
+ - [https://shibboleth.mcgill.ca](https://shibboleth.mcgill.ca)
+ - date_published: 2022-05-13T00:48:20+00:00
+
+ ## Department of Biology - McGill University
+ - [http://www.biology.mcgill.ca](http://www.biology.mcgill.ca)
+ - date_published: 2020-05-06T16:05:19+00:00
+
+ ## Centre for Intelligent Machines
+ - [http://www.cim.mcgill.ca](http://www.cim.mcgill.ca)
+ - date_published: 2024-07-20T04:30:55+00:00
+
+ ## McGill Physics: Home
+ - [http://www.physics.mcgill.ca](http://www.physics.mcgill.ca)
+ - date_published: 2024-09-16T20:27:55.465630+00:00
+
+ ## The Factory
+ - [https://factory.mcgilleus.ca](https://factory.mcgilleus.ca)
+ - date_published: 2022-03-23T15:49:54+00:00
+
+ ## Home - McKesson  Canada - McKesson
+ - [https://www.mckesson.ca](https://www.mckesson.ca)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Brighter World – Research focused on the health and well-being of all.
+ - [https://brighterworld.mcmaster.ca](https://brighterworld.mcmaster.ca)
+ - date_published: 2024-02-24T18:06:26.440821+00:00
+
+ ## Home Page
+ - [https://dailynews.mcmaster.ca](https://dailynews.mcmaster.ca)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Home - Directories
+ - [https://directories.mcmaster.ca](https://directories.mcmaster.ca)
+ - date_published: 2024-08-18T07:35:30.076207+00:00
+
+ ## Discover McMaster | University Student Life | McMaster
+ - [https://discover.mcmaster.ca](https://discover.mcmaster.ca)
+ - date_published: 2023-08-02T00:00:00+00:00
+
+ ## Experts
+ - McMaster Experts
+ - [https://experts.mcmaster.ca](https://experts.mcmaster.ca)
+ - date_published: 2024-08-11T15:08:27.750778+00:00
+
+ ## Welcome to The McMaster Engineering Fireball Academy | Fireball Academy
+ - [https://fireballacademy.mcmaster.ca](https://fireballacademy.mcmaster.ca)
+ - date_published: 2024-08-18T07:35:28.414229+00:00
+
+ ## Future Students - McMaster University
+ - [https://future.mcmaster.ca](https://future.mcmaster.ca)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## International and Exchange Student Experience
+ - [https://iss.mcmaster.ca](https://iss.mcmaster.ca)
+ - date_published: 2024-08-10T00:35:44+00:00
+
+ ## Welcome | McMaster University Library
+ - [http://library.mcmaster.ca](http://library.mcmaster.ca)
+ - date_published: 2024-08-18T07:35:31+00:00
+
+ ## Home
+ - [https://mcmaster.ca](https://mcmaster.ca)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Index Page
+ - [http://mosaic.mcmaster.ca](http://mosaic.mcmaster.ca)
+ - date_published: 2024-05-01T16:43:55+00:00
+
+ ## Home - Mathematics & Statistics - Faculty of Science - McMaster University
+ - [https://ms.mcmaster.ca](https://ms.mcmaster.ca)
+ - date_published: 2024-06-30T03:03:28.537176+00:00
+
+ ## Home - McMaster Global
+ - [http://oia.mcmaster.ca](http://oia.mcmaster.ca)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Welcome to Office of the Registrar
+ - [http://registrar.mcmaster.ca](http://registrar.mcmaster.ca)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Faculty and Research | DeGroote School of Business | McMaster University
+ - [https://research.degroote.mcmaster.ca](https://research.degroote.mcmaster.ca)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Home - Research & Innovation
+ - [https://research.mcmaster.ca](https://research.mcmaster.ca)
+ - date_published: 2024-07-02T00:00:00+00:00
+
  ## Home - University Secretariat
  - [https://secretariat.mcmaster.ca](https://secretariat.mcmaster.ca)
  - date_published: 2024-08-16T00:00:00+00:00
@@ -1702,6 +1807,10 @@
  - [https://www.pcoptimum.ca](https://www.pcoptimum.ca)
  - date_published: 2024-06-12T16:39:45+00:00
 
+ ## The Prospectors & Developers Association of Canada (PDAC)
+ - [https://pdac.ca](https://pdac.ca)
+ - date_published: 2025-01-12T03:39:48.215204+00:00
+
  ## Welcome
  - [https://www.peachland.ca](https://www.peachland.ca)
  - date_published: 2024-07-16T00:00:00+00:00
@@ -2009,6 +2118,10 @@
  - [http://www.presidentschoice.ca](http://www.presidentschoice.ca)
  - date_published: 2024-06-16T09:41:31.566263+00:00
 
+ ## Home - Press For Truth
+ - [https://pressfortruth.ca](https://pressfortruth.ca)
+ - date_published: 2025-01-11T21:56:44+00:00
+
  ## Hello PRESTO | PRESTO Card
  - [https://www.prestocard.ca](https://www.prestocard.ca)
  - date_published: 2024-12-23T02:08:50.362439+00:00
@@ -2249,6 +2362,10 @@
  ## Race Face | Mountain Bike Parts From Shore to the Core | Canada
  - [https://raceface.ca](https://raceface.ca)
  - date_published: 2024-06-15T11:57:39.640573+00:00
+
+ ## Épicerie santé | Rachelle Béry
+ - [https://www.rachellebery.ca](https://www.rachellebery.ca)
+ - date_published: 2025-01-12T12:06:19.087127+00:00
 
  ## RACK911 Labs – Penetration Testing | IOT Security | Tech Security | Server Auditing | Incident Response | Secure Hosting
  - [https://rack911labs.ca](https://rack911labs.ca)
@@ -3927,122 +4044,4 @@
  ## Personal Banking | Tangerine
  - [https://tangerine.ca](https://tangerine.ca)
  - date_published: 2024-01-17T00:00:00+00:00
-
- ## Hiya, I'm Tan · TanHo.ca
- - [https://tanho.ca](https://tanho.ca)
- - date_published: 2024-02-11T05:02:26.143775+00:00
- - tags: ['personal']
-
- ## Tapestry Hall
- - [https://www.tapestryhall.ca](https://www.tapestryhall.ca)
- - date_published: 2024-12-16T10:55:39+00:00
-
- ## Tarzana and Tarzana Ranch, California
- - [https://tarzana.ca](https://tarzana.ca)
- - date_published: 2019-01-24T20:47:24+00:00
-
- ## Tasos Stamadianos
- - [https://tasos.ca](https://tasos.ca)
- - date_published: 2024-07-23T23:39:58.947796+00:00
-
- ## Tau Games
- - [https://taugames.ca](https://taugames.ca)
- - date_published: 2023-10-04T18:07:10+00:00
-
- ## Victoria Free-Net Association
- - [http://victoria.tc.ca](http://victoria.tc.ca)
- - date_published: 2015-09-10T08:14:51+00:00
-
- ## TeleCommunities Canada - TéléCommunautés Canada
- - [http://www.tc.ca](http://www.tc.ca)
- - date_published: 2024-07-01T15:32:03.005239+00:00
-
- ## TCAE
- - [https://tcae.ca](https://tcae.ca)
- - date_published: 2024-09-24T21:30:46.624355+00:00
-
- ## Charter Bus Transportation Services by TCS Canada
- - [https://www.tcscharterbus.ca](https://www.tcscharterbus.ca)
- - date_published: 2024-08-22T12:52:26+00:00
-
- ## TEACH ENGLISH IN JAPAN – A Webcomic by Jeffrey Ellis and Jonathon Dalton
- - [http://www.teachenglishinjapan.ca](http://www.teachenglishinjapan.ca)
- - date_published: 2024-08-19T06:13:02.658901+00:00
-
- ## Achieve English Fluency and Confidence with Expert Coaching
- - [https://teachersean.ca](https://teachersean.ca)
- - date_published: 2024-10-30T18:28:02.689266+00:00
-
- ## Safe Technical Systems. Everywhere | Technical Safety BC
- - [https://www.technicalsafetybc.ca](https://www.technicalsafetybc.ca)
- - date_published: 2024-12-18T11:31:31.730510+00:00
-
- ## Telefilm Canada | Partner of choice
- - [https://telefilm.ca](https://telefilm.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home Page - Teletoon Plus
- - [https://teletoonplus.ca](https://teletoonplus.ca)
- - date_published: 2025-01-09T05:21:25.353470+00:00
-
- ## Université TÉLUQ
- - [https://www.teluq.ca](https://www.teluq.ca)
- - date_published: 2024-12-12T17:22:43.123070+00:00
-
- ## Hassle-free returns
- - [https://returns.tentree.ca](https://returns.tentree.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Sustainable Clothing by tentree® | Shop Organic + Plant Trees
- - [https://tentree.ca](https://tentree.ca)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## article_acceuil
- - [https://terrabelladesign.ca](https://terrabelladesign.ca)
- - date_published: 2024-09-10T11:07:43+00:00
-
- ## Free Driving Test Practice | Driver's License 2024 Canada - Tests.ca
- - [https://tests.ca](https://tests.ca)
- - date_published: 2024-09-02T06:38:40+00:00
-
- ## HomePage - TFO Canada
- - [https://tfocanada.ca](https://tfocanada.ca)
- - date_published: 2024-12-09T16:04:17.930475+00:00
-
- ## ThatGeoGuy - Home
- - [https://www.thatgeoguy.ca](https://www.thatgeoguy.ca)
- - date_published: 2024-06-19T21:58:24+00:00
-
- ## The ADCC
- - [https://theadcc.ca](https://theadcc.ca)
- - date_published: 2025-01-02T08:40:36.795303+00:00
-
- ## The Big Carrot - Health Food Store in Toronto Since 1983
- - [http://www.thebigcarrot.ca](http://www.thebigcarrot.ca)
- - date_published: 2024-12-23T11:55:49.239535+00:00
-
- ## The Big Story Podcast
- - [https://thebigstorypodcast.ca](https://thebigstorypodcast.ca)
- - date_published: 2024-02-24T18:20:54.908441+00:00
-
- ## The Bridgehead | From the front lines of the culture wars.
- - [https://thebridgehead.ca](https://thebridgehead.ca)
- - date_published: 2023-10-25T12:07:41.693718+00:00
-
- ## Home | The Canadian Encyclopedia
- - [https://www.thecanadianencyclopedia.ca](https://www.thecanadianencyclopedia.ca)
- - date_published: 2024-09-12T18:46:53.675499+00:00
-
- ## thecanadianpressnews.ca
- - [https://thecanadianpressnews.ca](https://thecanadianpressnews.ca)
- - date_published: 2023-11-08T21:50:08.227809+00:00
- - tags: ['canada news']
-
- ## Craigdarroch Castle | Visit Canada's Castle | Victoria BC
- - [https://thecastle.ca](https://thecastle.ca)
- - date_published: 2024-09-05T16:02:02.804217+00:00
-
- ## Welcome to Centre for Digital Media
- - [http://thecdm.ca](http://thecdm.ca)
- - date_published: 2024-07-19T22:10:13+00:00
 

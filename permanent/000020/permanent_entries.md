@@ -1,3 +1,103 @@
+ ## STRATEGIES Games Lab home of Close Quarter Battle the tabletop wargame
+ - [http://www.closequarterbattle.ca](http://www.closequarterbattle.ca)
+ - date_published: 2024-12-15T00:03:54.678556+00:00
+
+ ## Top 5 Top 5 Toronto Closets for 2020 | Closets.ca Plumbers and Plumbing Contractors for 2020 | Closets.ca
+ - [http://www.closets.ca](http://www.closets.ca)
+ - date_published: 2024-06-29T17:33:41.537766+00:00
+
+ ## Clothing in Canada, Canada
+ - [http://www.clothing.ca](http://www.clothing.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Workload-Optimized Cloud Services - IaaS | Hypertec Cloud
+ - [https://cloud.ca](https://cloud.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Clubs in Canada, Canada
+ - [http://www.clubs.ca](http://www.clubs.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## CMAJ
+ - [https://cmaj.ca](https://cmaj.ca)
+ - date_published: 2023-10-25T10:45:45.207661+00:00
+
+ ## CMDC
+ - [https://www.cmdc.ca](https://www.cmdc.ca)
+ - date_published: 2024-09-16T03:09:28.492721+00:00
+
+ ## Home | Canada Media Fund
+ - [https://www.cmf-fmc.ca](https://www.cmf-fmc.ca)
+ - date_published: 2024-10-22T19:32:19+00:00
+
+ ## Welcome to CMRRA
+ - [https://www.cmrra.ca](https://www.cmrra.ca)
+ - date_published: 2024-07-04T18:43:57.114262+00:00
+
+ ## Canadian Manufacturing Technology Show
+ - [https://cmts.ca](https://cmts.ca)
+ - date_published: 2024-09-13T19:39:45.741504+00:00
+
+ ## CN - Transportation Services - Rail Shipping, Intermodal, trucking, warehousing and international transportation
+ - [https://www.cn.ca](https://www.cn.ca)
+ - date_published: 2024-06-19T09:55:44.749736+00:00
+
+ ## Stronger Canadian Health Care System | Canadian Nurses Foundation
+ - [https://cnf-fiic.ca](https://cnf-fiic.ca)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Home - Canadian Nuclear Laboratories
+ - [https://www.cnl.ca](https://www.cnl.ca)
+ - date_published: 2024-07-24T07:27:52.343793+00:00
+
+ ## CNMC - Le Conseil national des musulmans Canadiens
+ - [https://cnmc.ca](https://cnmc.ca)
+ - date_published: 2024-06-13T17:07:16+00:00
+
+ ## Coal Car Studio
+ - [https://www.coalcar.ca](https://www.coalcar.ca)
+ - date_published: 2024-09-23T05:57:40+00:00
+
+ ## Town of Cochrane
+ - [https://www.cochrane.ca](https://www.cochrane.ca)
+ - date_published: 2024-06-27T09:00:11+00:00
+
+ ## Cochrane News - Daily Local News for Cochrane, Alberta
+ - [https://cochraneeagle.ca](https://cochraneeagle.ca)
+ - date_published: 2024-04-28T05:10:01.422489+00:00
+
+ ## Cochrane News - Daily Local News for Cochrane, Alberta
+ - [https://www.cochranetoday.ca](https://www.cochranetoday.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Cocoon | Tailored for you
+ - [https://www.cocoonapp.ca](https://www.cocoonapp.ca)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home | Code to Career
+ - [https://codetocareer.ca](https://codetocareer.ca)
+ - date_published: 2024-11-21T02:19:02.306230+00:00
+
+ ## Coffrages Goliath
+ - [https://coffragegoliath.ca](https://coffragegoliath.ca)
+ - date_published: 2024-09-10T11:09:04+00:00
+
+ ## Redirecting…
+ - [https://www.coldhak.ca](https://www.coldhak.ca)
+ - date_published: 2021-05-11T22:41:45+00:00
+
+ ## Collabria - Collabria
+ - [https://www.collabriacreditcards.ca](https://www.collabriacreditcards.ca)
+ - date_published: 2024-09-28T22:58:35.332088+00:00
+
+ ## Making it Possible - Collabria Financial
+ - [http://www.collabriafinancial.ca](http://www.collabriafinancial.ca)
+ - date_published: 2024-09-28T22:58:37.934006+00:00
+
+ ## Colleges and Institutes Canada | Home
+ - [https://www.collegesinstitutes.ca](https://www.collegesinstitutes.ca)
+ - date_published: 2024-09-18T00:00:00+00:00
+
  ## Collingwood News - Local News for Collingwood and the Blue Mountain Region
  - [https://www.collingwoodtoday.ca](https://www.collingwoodtoday.ca)
  - date_published: 2024-12-26T13:51:37+00:00
@@ -1505,6 +1605,10 @@
  ## fitzhugh
  - [https://fitzhugh.ca](https://fitzhugh.ca)
  - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Mobile and Internet plans | Fizz
+ - [https://fizz.ca](https://fizz.ca)
+ - date_published: 2025-01-12T09:51:23+00:00
 
  ## Fjallraven Online Store
  - [https://fjallraven.ca](https://fjallraven.ca)
@@ -3927,109 +4031,4 @@
  ## Incomplete Web Address
  - [https://nimbus-ssl.mcgill.ca](https://nimbus-ssl.mcgill.ca)
  - date_published: 2020-01-03T23:22:42+00:00
-
- ## Phylo DNA Puzzle
- - [https://phylo.cs.mcgill.ca](https://phylo.cs.mcgill.ca)
- - date_published: 2024-05-06T23:01:07+00:00
-
- ## Index of /
- - [http://profs-polisci.mcgill.ca](http://profs-polisci.mcgill.ca)
- - date_published: 2010-08-13T00:00:00+00:00
-
- ## Reasoning and Learning Lab
- - [http://rl.cs.mcgill.ca](http://rl.cs.mcgill.ca)
- - date_published: 2023-10-29T01:21:12+00:00
-
- ## Sable Research Group
- - [https://sable.mcgill.ca](https://sable.mcgill.ca)
- - date_published: 2014-07-21T18:26:14+00:00
-
- ## Incomplete Web Address
- - [https://shibboleth.mcgill.ca](https://shibboleth.mcgill.ca)
- - date_published: 2022-05-13T00:48:20+00:00
-
- ## Department of Biology - McGill University
- - [http://www.biology.mcgill.ca](http://www.biology.mcgill.ca)
- - date_published: 2020-05-06T16:05:19+00:00
-
- ## Centre for Intelligent Machines
- - [http://www.cim.mcgill.ca](http://www.cim.mcgill.ca)
- - date_published: 2024-07-20T04:30:55+00:00
-
- ## McGill Physics: Home
- - [http://www.physics.mcgill.ca](http://www.physics.mcgill.ca)
- - date_published: 2024-09-16T20:27:55.465630+00:00
-
- ## The Factory
- - [https://factory.mcgilleus.ca](https://factory.mcgilleus.ca)
- - date_published: 2022-03-23T15:49:54+00:00
-
- ## Home - McKesson  Canada - McKesson
- - [https://www.mckesson.ca](https://www.mckesson.ca)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Brighter World – Research focused on the health and well-being of all.
- - [https://brighterworld.mcmaster.ca](https://brighterworld.mcmaster.ca)
- - date_published: 2024-02-24T18:06:26.440821+00:00
-
- ## Home Page
- - [https://dailynews.mcmaster.ca](https://dailynews.mcmaster.ca)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Home - Directories
- - [https://directories.mcmaster.ca](https://directories.mcmaster.ca)
- - date_published: 2024-08-18T07:35:30.076207+00:00
-
- ## Discover McMaster | University Student Life | McMaster
- - [https://discover.mcmaster.ca](https://discover.mcmaster.ca)
- - date_published: 2023-08-02T00:00:00+00:00
-
- ## Experts
- - McMaster Experts
- - [https://experts.mcmaster.ca](https://experts.mcmaster.ca)
- - date_published: 2024-08-11T15:08:27.750778+00:00
-
- ## Welcome to The McMaster Engineering Fireball Academy | Fireball Academy
- - [https://fireballacademy.mcmaster.ca](https://fireballacademy.mcmaster.ca)
- - date_published: 2024-08-18T07:35:28.414229+00:00
-
- ## Future Students - McMaster University
- - [https://future.mcmaster.ca](https://future.mcmaster.ca)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## International and Exchange Student Experience
- - [https://iss.mcmaster.ca](https://iss.mcmaster.ca)
- - date_published: 2024-08-10T00:35:44+00:00
-
- ## Welcome | McMaster University Library
- - [http://library.mcmaster.ca](http://library.mcmaster.ca)
- - date_published: 2024-08-18T07:35:31+00:00
-
- ## Home
- - [https://mcmaster.ca](https://mcmaster.ca)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Index Page
- - [http://mosaic.mcmaster.ca](http://mosaic.mcmaster.ca)
- - date_published: 2024-05-01T16:43:55+00:00
-
- ## Home - Mathematics & Statistics - Faculty of Science - McMaster University
- - [https://ms.mcmaster.ca](https://ms.mcmaster.ca)
- - date_published: 2024-06-30T03:03:28.537176+00:00
-
- ## Home - McMaster Global
- - [http://oia.mcmaster.ca](http://oia.mcmaster.ca)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Welcome to Office of the Registrar
- - [http://registrar.mcmaster.ca](http://registrar.mcmaster.ca)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Faculty and Research | DeGroote School of Business | McMaster University
- - [https://research.degroote.mcmaster.ca](https://research.degroote.mcmaster.ca)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Home - Research & Innovation
- - [https://research.mcmaster.ca](https://research.mcmaster.ca)
- - date_published: 2024-07-02T00:00:00+00:00
 

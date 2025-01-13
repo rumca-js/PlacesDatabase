@@ -1,3 +1,87 @@
+ ## Portal do Servidor de Curitiba
+ - [https://servidor.curitiba.pr.gov.br](https://servidor.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:57.625983+00:00
+
+ ## Trânsito - Secretaria Municipal de Defesa Social e Trânsito
+ - [https://transito.curitiba.pr.gov.br](https://transito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:28.545524+00:00
+
+ ## Instituto Municipal de Turismo de Curitiba
+ - [https://turismo.curitiba.pr.gov.br](https://turismo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:47.891023+00:00
+
+ ## URBS - Urbanização de Curitiba
+ - [https://urbs.curitiba.pr.gov.br](https://urbs.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:58.059160+00:00
+
+ ## Portal da Transparência da Prefeitura de Curitiba
+ - [https://www.transparencia.curitiba.pr.gov.br](https://www.transparencia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:16.818256+00:00
+
+ ## Home
+ - [https://emanoel.pro.br](https://emanoel.pro.br)
+ - date_published: 2024-06-10T12:02:18+00:00
+
+ ## Eriberto Mota
+ - [https://eriberto.pro.br](https://eriberto.pro.br)
+ - date_published: 2024-07-09T07:56:43.300230+00:00
+
+ ## Paulo Ghiraldelli
+ - [https://ghiraldelli.pro.br](https://ghiraldelli.pro.br)
+ - date_published: 2024-05-07T18:22:04.178518+00:00
+
+ ## Sérgio Ferreira de Lima, Sérgio F. Lima, Sérgio Lima, oigreslima
+ - [https://sfl.pro.br](https://sfl.pro.br)
+ - date_published: 2024-07-28T21:02:03+00:00
+
+ ## SHOUTcast Server
+ - [https://nos.radio.br](https://nos.radio.br)
+ - date_published: 2017-08-24T00:00:00+00:00
+
+ ## Portal do Estado do Rio Grande do Sul
+ - [http://www.estado.rs.gov.br](http://www.estado.rs.gov.br)
+ - date_published: 2024-12-31T16:24:58.449442+00:00
+
+ ## Expointer
+ - [https://www.expointer.rs.gov.br](https://www.expointer.rs.gov.br)
+ - date_published: 2024-08-18T12:22:01.415893+00:00
+
+ ## Plano Rio Grande
+ - [https://planoriogrande.rs.gov.br](https://planoriogrande.rs.gov.br)
+ - date_published: 2024-10-22T12:34:20.119779+00:00
+
+ ## Início - Prefeitura de São Paulo - Prefeitura
+ - [https://www.capital.sp.gov.br](https://www.capital.sp.gov.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Investe SP - Portal de Investimentos do Estado de São Paulo
+ - [https://www.investe.sp.gov.br](https://www.investe.sp.gov.br)
+ - date_published: 2024-06-26T21:57:36.307248+00:00
+
+ ## Início - Prefeitura de São Paulo - Prefeitura
+ - [https://www.prefeitura.sp.gov.br](https://www.prefeitura.sp.gov.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | Governo do Estado de São Paulo
+ - [https://www.saopaulo.sp.gov.br](https://www.saopaulo.sp.gov.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Baffa-2+ Computer
+ - [https://baffa-2p.baffa.tec.br](https://baffa-2p.baffa.tec.br)
+ - date_published: 2023-11-23T03:00:00+00:00
+
+ ## Baffa Homebrew Projects
+ - [https://computers.baffa.tec.br](https://computers.baffa.tec.br)
+ - date_published: 2023-11-23T03:00:00+00:00
+
+ ## Login  - Mídia de Impacto
+ - [http://painel.sintonizar.tv.br](http://painel.sintonizar.tv.br)
+ - date_published: 2024-08-11T19:59:20.739428+00:00
+
+ ## BANCO BRADESCO | Desafie o futuro
+ - [https://banco.bradesco](https://banco.bradesco)
+ - date_published: 2024-07-09T19:15:33.297619+00:00
+
  ## Darmowe szablony do wydrukowania i dostosowywania | Creative Center
  - [https://www.creativecenter.brother](https://www.creativecenter.brother)
  - date_published: 2024-05-02T11:28:15.164126+00:00
@@ -578,6 +662,10 @@
  ## Welcome to Buzzy | Buzzy Documentation
  - [https://docs.buzzy.buzz](https://docs.buzzy.buzz)
  - date_published: 2024-10-30T15:13:22.469870+00:00
+
+ ## Freedom.Tube
+ - [https://tube.freedom.buzz](https://tube.freedom.buzz)
+ - date_published: 2025-01-12T09:53:35.845754+00:00
 
  ## Huebee
  - [https://huebee.buzz](https://huebee.buzz)
@@ -2261,6 +2349,10 @@
  - [https://www.bellmedia.ca](https://www.bellmedia.ca)
  - date_published: 2023-12-12T08:43:45.676684+00:00
 
+ ## Beneva | Insurance & Financial Services
+ - [https://www.beneva.ca](https://www.beneva.ca)
+ - date_published: 2025-01-12T12:06:14+00:00
+
  ## Benjamin Rancourt
  - [https://benjaminrancourt.ca](https://benjaminrancourt.ca)
  - date_published: 2023-04-11T00:00:00+00:00
@@ -2369,6 +2461,10 @@
  ## billie | Tendances mode, tutoriels beauté & potins crunchy
  - [https://www.billie.ca](https://www.billie.ca)
  - date_published: 2024-08-19T08:11:12.010790+00:00
+
+ ## Home - BIOAGE
+ - [http://bioage.ca](http://bioage.ca)
+ - date_published: 2025-01-12T06:13:57.585318+00:00
 
  ## Canadian Journal of Arthropod Identification – A product of the biological Survey of Canada & the Entomological Society of Canada
  - [http://cjai.biologicalsurvey.ca](http://cjai.biologicalsurvey.ca)
@@ -3775,6 +3871,10 @@
  - [https://cifar.ca](https://cifar.ca)
  - date_published: 2024-06-14T00:00:00+00:00
 
+ ## Home » CIFF
+ - [https://www.ciffcalgary.ca](https://www.ciffcalgary.ca)
+ - date_published: 2025-01-12T11:55:44.639534+00:00
+
  ## CIFST | Canadian Institute of Food Science & Technology
  - [https://cifst.ca](https://cifst.ca)
  - date_published: 2024-05-01T07:56:02.118511+00:00
@@ -3916,104 +4016,4 @@
  ## Clin d'œil | Accueil
  - [https://www.clindoeil.ca](https://www.clindoeil.ca)
  - date_published: 2024-08-19T08:10:55.910858+00:00
-
- ## STRATEGIES Games Lab home of Close Quarter Battle the tabletop wargame
- - [http://www.closequarterbattle.ca](http://www.closequarterbattle.ca)
- - date_published: 2024-12-15T00:03:54.678556+00:00
-
- ## Top 5 Top 5 Toronto Closets for 2020 | Closets.ca Plumbers and Plumbing Contractors for 2020 | Closets.ca
- - [http://www.closets.ca](http://www.closets.ca)
- - date_published: 2024-06-29T17:33:41.537766+00:00
-
- ## Clothing in Canada, Canada
- - [http://www.clothing.ca](http://www.clothing.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Workload-Optimized Cloud Services - IaaS | Hypertec Cloud
- - [https://cloud.ca](https://cloud.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Clubs in Canada, Canada
- - [http://www.clubs.ca](http://www.clubs.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## CMAJ
- - [https://cmaj.ca](https://cmaj.ca)
- - date_published: 2023-10-25T10:45:45.207661+00:00
-
- ## CMDC
- - [https://www.cmdc.ca](https://www.cmdc.ca)
- - date_published: 2024-09-16T03:09:28.492721+00:00
-
- ## Home | Canada Media Fund
- - [https://www.cmf-fmc.ca](https://www.cmf-fmc.ca)
- - date_published: 2024-10-22T19:32:19+00:00
-
- ## Welcome to CMRRA
- - [https://www.cmrra.ca](https://www.cmrra.ca)
- - date_published: 2024-07-04T18:43:57.114262+00:00
-
- ## Canadian Manufacturing Technology Show
- - [https://cmts.ca](https://cmts.ca)
- - date_published: 2024-09-13T19:39:45.741504+00:00
-
- ## CN - Transportation Services - Rail Shipping, Intermodal, trucking, warehousing and international transportation
- - [https://www.cn.ca](https://www.cn.ca)
- - date_published: 2024-06-19T09:55:44.749736+00:00
-
- ## Stronger Canadian Health Care System | Canadian Nurses Foundation
- - [https://cnf-fiic.ca](https://cnf-fiic.ca)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Home - Canadian Nuclear Laboratories
- - [https://www.cnl.ca](https://www.cnl.ca)
- - date_published: 2024-07-24T07:27:52.343793+00:00
-
- ## CNMC - Le Conseil national des musulmans Canadiens
- - [https://cnmc.ca](https://cnmc.ca)
- - date_published: 2024-06-13T17:07:16+00:00
-
- ## Coal Car Studio
- - [https://www.coalcar.ca](https://www.coalcar.ca)
- - date_published: 2024-09-23T05:57:40+00:00
-
- ## Town of Cochrane
- - [https://www.cochrane.ca](https://www.cochrane.ca)
- - date_published: 2024-06-27T09:00:11+00:00
-
- ## Cochrane News - Daily Local News for Cochrane, Alberta
- - [https://cochraneeagle.ca](https://cochraneeagle.ca)
- - date_published: 2024-04-28T05:10:01.422489+00:00
-
- ## Cochrane News - Daily Local News for Cochrane, Alberta
- - [https://www.cochranetoday.ca](https://www.cochranetoday.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Cocoon | Tailored for you
- - [https://www.cocoonapp.ca](https://www.cocoonapp.ca)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Home | Code to Career
- - [https://codetocareer.ca](https://codetocareer.ca)
- - date_published: 2024-11-21T02:19:02.306230+00:00
-
- ## Coffrages Goliath
- - [https://coffragegoliath.ca](https://coffragegoliath.ca)
- - date_published: 2024-09-10T11:09:04+00:00
-
- ## Redirecting…
- - [https://www.coldhak.ca](https://www.coldhak.ca)
- - date_published: 2021-05-11T22:41:45+00:00
-
- ## Collabria - Collabria
- - [https://www.collabriacreditcards.ca](https://www.collabriacreditcards.ca)
- - date_published: 2024-09-28T22:58:35.332088+00:00
-
- ## Making it Possible - Collabria Financial
- - [http://www.collabriafinancial.ca](http://www.collabriafinancial.ca)
- - date_published: 2024-09-28T22:58:37.934006+00:00
-
- ## Colleges and Institutes Canada | Home
- - [https://www.collegesinstitutes.ca](https://www.collegesinstitutes.ca)
- - date_published: 2024-09-18T00:00:00+00:00
 

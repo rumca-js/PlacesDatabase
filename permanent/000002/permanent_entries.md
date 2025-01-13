@@ -1,3 +1,11 @@
+ ## Support
+ - [https://support.h2o.ai](https://support.h2o.ai)
+ - date_published: 2024-09-14T07:45:19.871839+00:00
+
+ ## AI + HADR 2023
+ - [https://www.hadr.ai](https://www.hadr.ai)
+ - date_published: 2024-07-22T05:42:13.575660+00:00
+
  ## HaiHai Labs
  - [https://haihai.ai](https://haihai.ai)
  - date_published: 2024-06-23T11:29:31.920182+00:00
@@ -1925,6 +1933,10 @@
  ## LifeCoachDaily - #1 AI Life Coach
  - [https://www.lifecoachdaily.ai](https://www.lifecoachdaily.ai)
  - date_published: 2024-12-19T11:15:50.331172+00:00
+
+ ## Lightchain Protocol AI - Lightchain.ai
+ - [https://lightchain.ai](https://lightchain.ai)
+ - date_published: 2025-01-12T10:21:26.207371+00:00
 
  ## Lightning AI
  - [https://lightning.ai](https://lightning.ai)
@@ -4019,16 +4031,4 @@
  ## Paxton is your Legal AI Assistant | Paxton
  - [https://www.paxton.ai](https://www.paxton.ai)
  - date_published: 2024-10-30T07:17:03+00:00
-
- ## PDF.ai | Chat with your PDF documents
- - [https://pdf.ai](https://pdf.ai)
- - date_published: 2024-06-19T19:35:49.500635+00:00
-
- ## PDFTranslate.ai | Translate PDF for Free | PDF Translator Online
- - [https://pdftranslate.ai](https://pdftranslate.ai)
- - date_published: 2024-12-22T13:23:34.595547+00:00
-
- ## Peak - Game-changing AI is here.
- - [https://peak.ai](https://peak.ai)
- - date_published: 2024-06-10T00:00:00+00:00
 

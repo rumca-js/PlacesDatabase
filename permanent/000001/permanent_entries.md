@@ -1,3 +1,7 @@
+ ## Bosun
+ - [https://bosun.ai](https://bosun.ai)
+ - date_published: 2025-01-10T19:01:36+00:00
+
  ## Botify AI
  - [https://botif.ai](https://botif.ai)
  - date_published: 2024-06-19T14:25:14+00:00
@@ -1286,6 +1290,10 @@ Welcome
  ## Virtual Assistant for LIC
  - [https://lic.corover.ai](https://lic.corover.ai)
  - date_published: 2024-06-12T13:54:20+00:00
+
+ ## Corsight AI - Facial Intelligence
+ - [https://corsight.ai](https://corsight.ai)
+ - date_published: 2025-01-12T07:24:31.021300+00:00
 
  ## Corsight AI - Facial Intelligence
  - [https://www.corsight.ai](https://www.corsight.ai)
@@ -4009,12 +4017,4 @@ Welcome
  ## H2O.ai Cloud's Status page Powered by Freshstatus | Live status
  - [https://status.cloud.h2o.ai](https://status.cloud.h2o.ai)
  - date_published: 2024-09-14T07:45:16.024502+00:00
-
- ## Support
- - [https://support.h2o.ai](https://support.h2o.ai)
- - date_published: 2024-09-14T07:45:19.871839+00:00
-
- ## AI + HADR 2023
- - [https://www.hadr.ai](https://www.hadr.ai)
- - date_published: 2024-07-22T05:42:13.575660+00:00
 

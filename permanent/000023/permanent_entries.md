@@ -1,3 +1,123 @@
+ ## EVC Viewing Tool | WiiLink
+ - [https://evc.wiilink.ca](https://evc.wiilink.ca)
+ - date_published: 2024-08-19T16:18:37+00:00
+
+ ## WiiLink
+ - [https://forum.wiilink.ca](https://forum.wiilink.ca)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## CMOC Viewing Tool | WiiLink
+ - [https://miicontest.wiilink.ca](https://miicontest.wiilink.ca)
+ - date_published: 2024-08-24T22:30:16+00:00
+
+ ## Wikimedia Canada
+ - [https://www.wikimedia.ca](https://www.wikimedia.ca)
+ - date_published: 2024-07-16T21:38:02.902390+00:00
+
+ ## WILD Awakenings | Camp WILD | Experiential Education  | Canada
+ - [https://www.wildawakenings.ca](https://www.wildawakenings.ca)
+ - date_published: 2024-06-22T13:52:38.951242+00:00
+
+ ## Wildfire Studios
+ - [https://wildfirestudios.ca](https://wildfirestudios.ca)
+ - date_published: 2024-08-17T23:47:21.956147+00:00
+
+ ## WILDHORSE SALOON CALGARY
+ - [http://www.wildhorsesaloon.ca](http://www.wildhorsesaloon.ca)
+ - date_published: 2024-06-17T08:46:37.733664+00:00
+
+ ## Will Tennyson Official Store
+ - [https://www.willtennyson.ca](https://www.willtennyson.ca)
+ - date_published: 2024-07-13T12:51:13.512180+00:00
+
+ ## Web Site Under Construction
+ - [http://windowseat.ca](http://windowseat.ca)
+ - date_published: 2024-03-25T23:54:04+00:00
+
+ ## Steven Wingfelder – STUDENT OF LIFE, TECHNO-GEEK, FORWARD THINKER.
+ - [https://wingfelder.ca](https://wingfelder.ca)
+ - date_published: 2024-01-11T13:28:46.842673+00:00
+
+ ## City of Winnipeg
+ - [http://winnipeg.ca](http://winnipeg.ca)
+ - date_published: 2025-01-01T08:01:53+00:00
+
+ ## City of Winnipeg
+ - [http://www.winnipeg.ca](http://www.winnipeg.ca)
+ - date_published: 2025-01-01T08:01:53+00:00
+
+ ## Winnipeg School Division
+ - [https://www.winnipegsd.ca](https://www.winnipegsd.ca)
+ - date_published: 2024-07-01T17:26:26.020205+00:00
+
+ ## Wireless Netware Technology: Canada's Leading MikroTik Store & Training Hub
+ - [https://wirelessnetware.ca](https://wirelessnetware.ca)
+ - date_published: 2024-05-09T04:09:20.500703+00:00
+
+ ## MikroTik Value Added Distributor, MikroTik Canada, First MikroTik Certified Trainer in Canada
+ - [https://www.shop.wirelessnetware.ca](https://www.shop.wirelessnetware.ca)
+ - date_published: 2024-07-09T08:38:39.608693+00:00
+
+ ## Wireless Victoria
+ - [http://wirelessvictoria.ca](http://wirelessvictoria.ca)
+ - date_published: 2009-10-17T16:12:07+00:00
+
+ ## Unforetold: Witchstone
+ - [https://www.witchstone.ca](https://www.witchstone.ca)
+ - date_published: 2024-07-10T11:05:25.935941+00:00
+
+ ## Digital Marketing Agency Toronto | Internet Marketing Company | WIT Digital Inc.
+ - [https://witsolution.ca](https://witsolution.ca)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Physics & Computer Science
+ - [https://bohr.wlu.ca](https://bohr.wlu.ca)
+ - date_published: 2022-06-25T00:00:00+00:00
+
+ ## Physics & Computer Science
+ - [http://cri.wlu.ca](http://cri.wlu.ca)
+ - date_published: 2022-06-25T00:00:00+00:00
+
+ ## ICWIP 2014
+ - [http://icwip2014.wlu.ca](http://icwip2014.wlu.ca)
+ - date_published: 2016-10-16T17:33:00+00:00
+
+ ## Laurier Photonics
+ - [http://photonics.wlu.ca](http://photonics.wlu.ca)
+ - date_published: 2024-07-14T16:24:54.997185+00:00
+
+ ## Students Homepage
+ - [https://students.wlu.ca](https://students.wlu.ca)
+ - date_published: 2024-07-14T16:24:34.786268+00:00
+
+ ## Theory Canada 9 - HOME
+ - [http://theorycanada9.wlu.ca](http://theorycanada9.wlu.ca)
+ - date_published: 2016-08-25T16:49:50+00:00
+
+ ## Wilfrid Laurier University
+ - [https://www.wlu.ca](https://www.wlu.ca)
+ - date_published: 2024-07-14T16:24:49.840706+00:00
+
+ ## Western Manufacturing Technology Show
+ - [https://wmts.ca](https://wmts.ca)
+ - date_published: 2024-09-13T19:39:56.720114+00:00
+
+ ## GEMS Vancouver
+ - [https://www.womeninfilm.ca](https://www.womeninfilm.ca)
+ - date_published: 2024-08-18T09:50:45.667675+00:00
+
+ ## Women in Renewable Energy WiRE
+ - [https://www.womeninrenewableenergy.ca](https://www.womeninrenewableenergy.ca)
+ - date_published: 2024-06-19T18:25:30.574452+00:00
+
+ ## Women of Influence –
+ - [https://womenofinfluence.ca](https://womenofinfluence.ca)
+ - date_published: 2023-10-25T12:09:32.572588+00:00
+
+ ## Women’s College Hospital
+ - [http://www.womenscollegehospital.ca](http://www.womenscollegehospital.ca)
+ - date_published: 2024-07-21T08:23:23.736741+00:00
+
  ## Wonder Pens: Fountain Pens, Inks, and Paper Store in Toronto, Canada.
  - [https://wonderpens.ca](https://wonderpens.ca)
  - date_published: 2024-06-16T07:32:13.214727+00:00
@@ -3893,125 +4013,5 @@
 
  ## dict.cc | German-Portuguese dictionary | Dicionário Alemão-Português
  - [https://dept.dict.cc](https://dept.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Romanian dictionary | Dicţionar german-român
- - [https://dero.dict.cc](https://dero.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Russian dictionary | Немецко-русский словарь
- - [https://deru.dict.cc](https://deru.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Slovak dictionary | Nemecko-slovenský slovník
- - [https://desk.dict.cc](https://desk.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Albanian dictionary | Fjalor Gjermanisht-Shqip
- - [https://desq.dict.cc](https://desq.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Serbian dictionary | Немачко-српски речник
- - [https://desr.dict.cc](https://desr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Swedish dictionary | Tysk-svensk ordbok
- - [https://desv.dict.cc](https://desv.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Turkish dictionary | Almanca-Türkçe Sözlük
- - [https://detr.dict.cc](https://detr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Ukrainian dictionary | Німецько-український словник
- - [https://deuk.contribute.dict.cc](https://deuk.contribute.dict.cc)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## dict.cc | German-Ukrainian dictionary | Німецько-український словник
- - [https://deuk.dict.cc](https://deuk.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-English dictionary
- - [https://dict.cc](https://dict.cc)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## dict.cc | Greek-English dictionary | Αγγλο-ελληνικό Λεξικό
- - [https://elen.dict.cc](https://elen.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Esperanto dictionary | Angla-esperanta vortaro
- - [https://eneo.dict.cc](https://eneo.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Spanish dictionary | Diccionario Inglés-Español
- - [https://enes.dict.cc](https://enes.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Finnish dictionary | Englanti-suomi sanakirja
- - [https://enfi.dict.cc](https://enfi.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-French dictionary | Dictionnaire Anglais-Français
- - [https://enfr.dict.cc](https://enfr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Croatian dictionary | Englesko-hrvatski rječnik
- - [https://enhr.dict.cc](https://enhr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Hungarian dictionary | Angol-magyar szótár
- - [https://enhu.dict.cc](https://enhu.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Icelandic dictionary | ensk-íslensk orðabók
- - [https://enis.dict.cc](https://enis.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Italian dictionary | Dizionario inglese-italiano
- - [https://enit.dict.cc](https://enit.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Latin dictionary | Dictionarium latino-anglicum
- - [https://enla.dict.cc](https://enla.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Dutch dictionary | Engels-Nederlands woordenboek
- - [https://ennl.dict.cc](https://ennl.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Norwegian dictionary | Engelsk-norsk (Bokmål) ordbok
- - [https://enno.dict.cc](https://enno.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Polish dictionary | Słownik polsko-angielski
- - [https://enpl.dict.cc](https://enpl.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Portuguese dictionary | Dicionário Inglês-Português
- - [https://enpt.dict.cc](https://enpt.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Romanian dictionary | Dicţionar englez-român
- - [https://enro.dict.cc](https://enro.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Russian dictionary | Англо-русский словарь
- - [https://enru.dict.cc](https://enru.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Slovak dictionary | Anglicko-slovenský slovník
- - [https://ensk.dict.cc](https://ensk.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Albanian dictionary | Fjalor Anglisht-Shqip
- - [https://ensq.dict.cc](https://ensq.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Serbian dictionary | Енглеско-српски речник
- - [https://ensr.dict.cc](https://ensr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Swedish dictionary | Engelsk-svensk ordbok
- - [https://ensv.dict.cc](https://ensv.dict.cc)
  - date_published: 2024-07-09T00:00:00+00:00
 

@@ -1,3 +1,123 @@
+ ## dict.cc | German-Romanian dictionary | Dicţionar german-român
+ - [https://dero.dict.cc](https://dero.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Russian dictionary | Немецко-русский словарь
+ - [https://deru.dict.cc](https://deru.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Slovak dictionary | Nemecko-slovenský slovník
+ - [https://desk.dict.cc](https://desk.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Albanian dictionary | Fjalor Gjermanisht-Shqip
+ - [https://desq.dict.cc](https://desq.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Serbian dictionary | Немачко-српски речник
+ - [https://desr.dict.cc](https://desr.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Swedish dictionary | Tysk-svensk ordbok
+ - [https://desv.dict.cc](https://desv.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Turkish dictionary | Almanca-Türkçe Sözlük
+ - [https://detr.dict.cc](https://detr.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Ukrainian dictionary | Німецько-український словник
+ - [https://deuk.contribute.dict.cc](https://deuk.contribute.dict.cc)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## dict.cc | German-Ukrainian dictionary | Німецько-український словник
+ - [https://deuk.dict.cc](https://deuk.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-English dictionary
+ - [https://dict.cc](https://dict.cc)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## dict.cc | Greek-English dictionary | Αγγλο-ελληνικό Λεξικό
+ - [https://elen.dict.cc](https://elen.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Esperanto dictionary | Angla-esperanta vortaro
+ - [https://eneo.dict.cc](https://eneo.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Spanish dictionary | Diccionario Inglés-Español
+ - [https://enes.dict.cc](https://enes.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Finnish dictionary | Englanti-suomi sanakirja
+ - [https://enfi.dict.cc](https://enfi.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-French dictionary | Dictionnaire Anglais-Français
+ - [https://enfr.dict.cc](https://enfr.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Croatian dictionary | Englesko-hrvatski rječnik
+ - [https://enhr.dict.cc](https://enhr.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Hungarian dictionary | Angol-magyar szótár
+ - [https://enhu.dict.cc](https://enhu.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Icelandic dictionary | ensk-íslensk orðabók
+ - [https://enis.dict.cc](https://enis.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Italian dictionary | Dizionario inglese-italiano
+ - [https://enit.dict.cc](https://enit.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Latin dictionary | Dictionarium latino-anglicum
+ - [https://enla.dict.cc](https://enla.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Dutch dictionary | Engels-Nederlands woordenboek
+ - [https://ennl.dict.cc](https://ennl.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Norwegian dictionary | Engelsk-norsk (Bokmål) ordbok
+ - [https://enno.dict.cc](https://enno.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Polish dictionary | Słownik polsko-angielski
+ - [https://enpl.dict.cc](https://enpl.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Portuguese dictionary | Dicionário Inglês-Português
+ - [https://enpt.dict.cc](https://enpt.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Romanian dictionary | Dicţionar englez-român
+ - [https://enro.dict.cc](https://enro.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Russian dictionary | Англо-русский словарь
+ - [https://enru.dict.cc](https://enru.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Slovak dictionary | Anglicko-slovenský slovník
+ - [https://ensk.dict.cc](https://ensk.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Albanian dictionary | Fjalor Anglisht-Shqip
+ - [https://ensq.dict.cc](https://ensq.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Serbian dictionary | Енглеско-српски речник
+ - [https://ensr.dict.cc](https://ensr.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | English-Swedish dictionary | Engelsk-svensk ordbok
+ - [https://ensv.dict.cc](https://ensv.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## dict.cc | English-Turkish dictionary | İngilizce-Türkçe Sözlük
  - [https://entr.dict.cc](https://entr.dict.cc)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -1500,6 +1620,10 @@
  ## Samuel Tulach
  - [https://tulach.cc](https://tulach.cc)
  - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Tumbleweed Bicycle Co.
+ - [https://tumbleweed.cc](https://tumbleweed.cc)
+ - date_published: 2025-01-12T03:46:01.411317+00:00
 
  ## CC: Tweaked
  - [https://tweaked.cc](https://tweaked.cc)
@@ -3072,6 +3196,10 @@
  - [https://helpcenter.bilan.ch](https://helpcenter.bilan.ch)
  - date_published: 2023-07-23T17:33:42+00:00
 
+ ## Bilendi
+ - [https://www.bilendi.ch](https://www.bilendi.ch)
+ - date_published: 2025-01-12T04:11:33.723576+00:00
+
  ## Biodiversitätsinitiative – JA zur Biodiversität
  - [https://www.biodiversitaetsinitiative.ch](https://www.biodiversitaetsinitiative.ch)
  - date_published: 2024-10-29T11:15:50.608714+00:00
@@ -3900,132 +4028,4 @@
  ## Bitcoin und Kryptowährungen - Wissen, Kurse & Nachrichten
  - [https://www.coinpro.ch](https://www.coinpro.ch)
  - date_published: 2022-01-11T01:53:58+00:00
-
- ## Agence de Communication 360 Genève - colegram
- - [http://www.colegram.ch](http://www.colegram.ch)
- - date_published: 2024-10-22T08:50:58.284279+00:00
-
- ## Fotos, Fotobücher, Kalender und mehr
- - [https://colordrack.ch](https://colordrack.ch)
- - date_published: 2024-10-29T11:13:03.696209+00:00
-
- ## Comedia – Die Genossenschaftsbuchhandlung
- - [https://comedia-sg.ch](https://comedia-sg.ch)
- - date_published: 2024-07-21T05:50:40.590630+00:00
-
- ## Comparitech
- - [https://comparite.ch](https://comparite.ch)
- - date_published: 2024-10-03T00:00:00+00:00
-
- ## Composed GmbH
- - [https://composed.ch](https://composed.ch)
- - date_published: 2024-04-12T13:53:30+00:00
-
- ## Computerworld.ch - News und Analysen für die ICT-Branche
- - [http://computerworld.ch](http://computerworld.ch)
- - date_published: 2024-07-24T17:41:51.272395+00:00
-
- ## Veranstalter - Kursaal Interlaken
- - [https://www.congress-interlaken.ch](https://www.congress-interlaken.ch)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Accesso alle vendite online - Connected Retail di Zalando
- - [https://it.connectedretail.ch](https://it.connectedretail.ch)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Conrad Electronic – Alle Teile des Erfolgs
- - [https://www.conrad.ch](https://www.conrad.ch)
- - date_published: 2024-07-20T16:12:59.648138+00:00
-
- ## Contactpointnano – The Swiss national platform for regulatory knowledge and expertise on synthetic nanomaterials
- - [https://contactpointnano.ch](https://contactpointnano.ch)
- - date_published: 2024-09-05T23:44:01.845964+00:00
-
- ## Startseite
- - [https://convotis.ch](https://convotis.ch)
- - date_published: 2025-01-08T22:44:11.322796+00:00
-
- ## E-Shop mit einzigartigen Geschenken und Gadgets | Cool Mania E-Shop
- - [https://www.cool-mania.ch](https://www.cool-mania.ch)
- - date_published: 2025-01-08T23:33:54.640614+00:00
-
- ## Der Online-Supermarkt von Coop | coop.ch
- - [https://www.coop.ch](https://www.coop.ch)
- - date_published: 2024-07-14T16:43:17.281234+00:00
-
- ## Helpdesk
- - [https://helpdesk.coresystems.ch](https://helpdesk.coresystems.ch)
- - date_published: 2024-07-24T07:12:42.177585+00:00
-
- ## Coresystems Partner
- - [https://partner.coresystems.ch](https://partner.coresystems.ch)
- - date_published: 2024-07-24T07:12:44.456391+00:00
-
- ## Welcome to Coresystems
- - [https://www.coresystems.ch](https://www.coresystems.ch)
- - date_published: 2024-07-24T07:12:46.327818+00:00
-
- ## FONDATION COROMANDEL
- - [http://www.coromandel.ch](http://www.coromandel.ch)
- - date_published: 2024-07-04T04:08:05.702846+00:00
-
- ## Hauptseite
- - [https://cosin.ch](https://cosin.ch)
- - date_published: 2024-08-12T21:32:31+00:00
-
- ## Cosmos-Club | Raumschiff
- - [http://www.cosmosclub.ch](http://www.cosmosclub.ch)
- - date_published: 2022-07-19T14:25:38+00:00
-
- ## Festival
- - [https://www.coverfestival.ch](https://www.coverfestival.ch)
- - date_published: 2024-11-21T15:50:13.982691+00:00
-
- ## Caisse de prévoyance de l'Etat de Fribourg
- - [https://cpef.ch](https://cpef.ch)
- - date_published: 2024-07-21T06:27:18.655534+00:00
-
- ## Bienvenue au coeur des Alpes suisses!
- - [https://www.crans-montana.ch](https://www.crans-montana.ch)
- - date_published: 2024-07-14T12:11:51.253007+00:00
-
- ## Créateur de site, Agence de création de sites internet à Gland, Nyon et romandie
- - [https://www.createur-de-site.ch](https://www.createur-de-site.ch)
- - date_published: 2024-06-19T09:13:29+00:00
-
- ## Biblioteca Digitala
- - [http://www.crestomazia.ch](http://www.crestomazia.ch)
- - date_published: 2024-07-12T02:46:35.733658+00:00
-
- ## Crésus
- - [https://cresus.ch](https://cresus.ch)
- - date_published: 2024-07-11T22:22:30.566717+00:00
-
- ## crispsandwi.ch 🥪🐘
- - [https://crispsandwi.ch](https://crispsandwi.ch)
- - date_published: 2024-05-02T13:43:14.469653+00:00
-
- ## Frogfish book / Teresa (Zubi) Zuberbühler / Anglerfisch-Buch
- - [http://www.critter.ch](http://www.critter.ch)
- - date_published: 2023-03-31T08:50:04+00:00
-
- ## CROSS, votre partenaire Data & Digital en Suisse - CROSS by Micropole
- - [https://cross-systems.ch](https://cross-systems.ch)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Cruncher
- - [https://cruncher.ch](https://cruncher.ch)
- - date_published: 2024-04-30T21:35:16.699071+00:00
-
- ## Crypto-Education Masterclass
- - [https://crypto-education.ch](https://crypto-education.ch)
- - date_published: 2024-09-25T10:32:03.400318+00:00
-
- ## Home - The Cryptonomist
- - [https://cn.cryptonomist.ch](https://cn.cryptonomist.ch)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Home - The Cryptonomist
- - [https://cryptonomist.ch](https://cryptonomist.ch)
- - date_published: 2024-08-26T00:00:00+00:00
 

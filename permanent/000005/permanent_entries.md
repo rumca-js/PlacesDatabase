@@ -1,3 +1,28 @@
+ ## Create New Certificate | Commited Marketplace
+ - [https://corendon.commited.app](https://corendon.commited.app)
+ - date_published: 2025-01-09T02:17:34.720420+00:00
+
+ ## COMP/CON
+ - [https://compcon.app](https://compcon.app)
+ - date_published: 2024-10-31T19:15:48.044512+00:00
+
+ ## Monitor Competitors' Marketing Strategy with AI - Competitors App
+ - [https://competitors.app](https://competitors.app)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Show HN: CompressX, my FFmpeg wrapper for macOS, made $9k in the last 4 months
+ - [https://compressx.app](https://compressx.app)
+ - date_published: 2024-04-10T06:32:18+00:00
+ - tags: ['propietary', 'monetization']
+
+ ## Welcome to CompressX | CompressX Documentation
+ - [https://docs.compressx.app](https://docs.compressx.app)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Comun - checking account, VISA debit card, remittances
+ - [https://en.comun.app](https://en.comun.app)
+ - date_published: 2024-10-08T00:00:00+00:00
+
  ## Concentration - Minimalistic Pomodoro timer for iPhone and Android
  - [https://concentration.app](https://concentration.app)
  - date_published: 2024-09-09T21:48:39.507537+00:00
@@ -1660,6 +1685,10 @@
  ## HostAI | AI tools for hotels and short-term rentals
  - [https://www.hostai.app](https://www.hostai.app)
  - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Text-to-speech, Document-to-speech - Nodsgy
+ - [http://nodsgy-backend--nodsgy-fd9fa.us-central1.hosted.app](http://nodsgy-backend--nodsgy-fd9fa.us-central1.hosted.app)
+ - date_published: 2025-01-12T23:48:45.379008+00:00
 
  ## Humanatomy - The interactive 3D human anatomy model
  - [https://www.humanatomy.app](https://www.humanatomy.app)
@@ -4004,32 +4033,4 @@
  ## Conway’s Game of Life
  - [https://segdelife.netlify.app](https://segdelife.netlify.app)
  - date_published: 2024-09-03T22:13:21.726299+00:00
-
- ## Hospitality & Restaurant Marketing & Operations Software | SevenRooms
- - [https://sevenrooms-marketing-site.netlify.app](https://sevenrooms-marketing-site.netlify.app)
- - date_published: 2024-06-30T12:09:50.860955+00:00
-
- ## Shahid Shaikh
- - [https://shahid-old.netlify.app](https://shahid-old.netlify.app)
- - date_published: 2024-07-02T19:02:02.576733+00:00
-
- ## Shahid Shaikh - UI Developer
- - [https://shahid-v2.netlify.app](https://shahid-v2.netlify.app)
- - date_published: 2024-07-02T19:01:48.355769+00:00
-
- ## sb-website-widgets
- - [https://shopbox-app.netlify.app](https://shopbox-app.netlify.app)
- - date_published: 2024-08-06T10:44:23.518538+00:00
-
- ## Siddharth Roy
- - [https://siddharthroy.netlify.app](https://siddharthroy.netlify.app)
- - date_published: 2024-05-07T23:13:34.470688+00:00
-
- ## Simon Pixels
- - [https://simon-pixels.netlify.app](https://simon-pixels.netlify.app)
- - date_published: 2024-07-14T07:53:21.751772+00:00
-
- ## The Single File Philosophy
- - [https://single-file.netlify.app](https://single-file.netlify.app)
- - date_published: 2024-07-10T06:24:02.402895+00:00
 

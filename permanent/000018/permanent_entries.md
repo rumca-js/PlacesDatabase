@@ -1,3 +1,87 @@
+ ## Fiorino | FIAT
+ - [https://fiorino.fiat.com.br](https://fiorino.fiat.com.br)
+ - date_published: 2024-10-25T14:23:33+00:00
+
+ ## Um verdadeiro desbravador das ruas | Fiat
+ - [https://mobi.fiat.com.br](https://mobi.fiat.com.br)
+ - date_published: 2024-10-28T22:46:01.605740+00:00
+
+ ## Ofertas Fiat | FIAT
+ - [https://ofertas.fiat.com.br](https://ofertas.fiat.com.br)
+ - date_published: 2024-10-25T13:44:56+00:00
+
+ ## Pulse | FIAT
+ - [https://pulse.fiat.com.br](https://pulse.fiat.com.br)
+ - date_published: 2024-10-28T22:39:01.243092+00:00
+
+ ## Reparador | FIAT
+ - [https://reparador.fiat.com.br](https://reparador.fiat.com.br)
+ - date_published: 2024-10-25T13:40:12+00:00
+
+ ## Conheça a van Fiat Scudo | Fiat
+ - [https://scudo.fiat.com.br](https://scudo.fiat.com.br)
+ - date_published: 2024-10-28T22:38:05.442831+00:00
+
+ ## Serviços | FIAT
+ - [https://servicos.fiat.com.br](https://servicos.fiat.com.br)
+ - date_published: 2024-10-25T13:50:34+00:00
+
+ ## Nova Fiat Strada | Fiat
+ - [https://strada.fiat.com.br](https://strada.fiat.com.br)
+ - date_published: 2024-10-28T22:40:37.655975+00:00
+
+ ## Conheça a nova Fiat Titano | FIAT
+ - [https://titano.fiat.com.br](https://titano.fiat.com.br)
+ - date_published: 2024-10-28T22:44:40.408315+00:00
+
+ ## Nova Fiat Toro | FIAT
+ - [https://toro.fiat.com.br](https://toro.fiat.com.br)
+ - date_published: 2024-10-28T22:44:57.286315+00:00
+
+ ## Carros 0km, Sedans, Hatchs, Pickups e Minivans | FIAT
+ - [https://www.fiat.com.br](https://www.fiat.com.br)
+ - date_published: 2024-06-17T11:54:04+00:00
+
+ ## fiatwear - Linha de produtos oficiais Fiat!
+ - [https://www.fiatwear.com.br](https://www.fiatwear.com.br)
+ - date_published: 2024-10-28T22:46:35.941219+00:00
+
+ ## FieldPRO | A evolução da modelagem climática para o novo tempo.
+ - [https://fieldpro.com.br](https://fieldpro.com.br)
+ - date_published: 2024-10-20T18:44:07.315709+00:00
+
+ ## FILMICCA
+ - [https://www.filmicca.com.br](https://www.filmicca.com.br)
+ - date_published: 2024-10-22T20:48:39.189093+00:00
+
+ ## Início - Grupo Finger
+ - [https://fingerdigital.com.br](https://fingerdigital.com.br)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Fiquem Sabendo
+ - [https://fiquemsabendo.com.br](https://fiquemsabendo.com.br)
+ - date_published: 2024-06-28T21:49:29.808218+00:00
+
+ ## FireBase - o maior portal sobre banco de dados Firebird em português
+ - [http://firebase.com.br](http://firebase.com.br)
+ - date_published: 2024-10-16T11:00:01.344138+00:00
+
+ ## Firebird Developers Day
+ - [https://www.firebirddevelopersday.com.br](https://www.firebirddevelopersday.com.br)
+ - date_published: 2024-10-15T19:05:04+00:00
+
+ ## FlixBus: Affordable Global Bus Travel
+ - [https://www.flixbus.com.br](https://www.flixbus.com.br)
+ - date_published: 2024-06-27T15:43:02+00:00
+
+ ## Um podcast sobre acessibilidade, diversidade e inclusão na tecnologia
+ - [https://focoacessivel.com.br](https://focoacessivel.com.br)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Acervo - Folha de São Paulo
+ - [https://acervo.folha.com.br](https://acervo.folha.com.br)
+ - date_published: 2024-08-18T13:04:23.630789+00:00
+
  ## Assine Folha de S.Paulo
  - [https://assinaturas.folha.com.br](https://assinaturas.folha.com.br)
  - date_published: 2024-08-18T13:04:42.636122+00:00
@@ -3925,88 +4009,4 @@
  ## Saúde Já Curitiba - Prefeitura de Curitiba
  - [https://saudeja.curitiba.pr.gov.br](https://saudeja.curitiba.pr.gov.br)
  - date_published: 2024-09-12T12:27:14.080221+00:00
-
- ## Portal do Servidor de Curitiba
- - [https://servidor.curitiba.pr.gov.br](https://servidor.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:57.625983+00:00
-
- ## Trânsito - Secretaria Municipal de Defesa Social e Trânsito
- - [https://transito.curitiba.pr.gov.br](https://transito.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:28.545524+00:00
-
- ## Instituto Municipal de Turismo de Curitiba
- - [https://turismo.curitiba.pr.gov.br](https://turismo.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:47.891023+00:00
-
- ## URBS - Urbanização de Curitiba
- - [https://urbs.curitiba.pr.gov.br](https://urbs.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:17:58.059160+00:00
-
- ## Portal da Transparência da Prefeitura de Curitiba
- - [https://www.transparencia.curitiba.pr.gov.br](https://www.transparencia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:16.818256+00:00
-
- ## Home
- - [https://emanoel.pro.br](https://emanoel.pro.br)
- - date_published: 2024-06-10T12:02:18+00:00
-
- ## Eriberto Mota
- - [https://eriberto.pro.br](https://eriberto.pro.br)
- - date_published: 2024-07-09T07:56:43.300230+00:00
-
- ## Paulo Ghiraldelli
- - [https://ghiraldelli.pro.br](https://ghiraldelli.pro.br)
- - date_published: 2024-05-07T18:22:04.178518+00:00
-
- ## Sérgio Ferreira de Lima, Sérgio F. Lima, Sérgio Lima, oigreslima
- - [https://sfl.pro.br](https://sfl.pro.br)
- - date_published: 2024-07-28T21:02:03+00:00
-
- ## SHOUTcast Server
- - [https://nos.radio.br](https://nos.radio.br)
- - date_published: 2017-08-24T00:00:00+00:00
-
- ## Portal do Estado do Rio Grande do Sul
- - [http://www.estado.rs.gov.br](http://www.estado.rs.gov.br)
- - date_published: 2024-12-31T16:24:58.449442+00:00
-
- ## Expointer
- - [https://www.expointer.rs.gov.br](https://www.expointer.rs.gov.br)
- - date_published: 2024-08-18T12:22:01.415893+00:00
-
- ## Plano Rio Grande
- - [https://planoriogrande.rs.gov.br](https://planoriogrande.rs.gov.br)
- - date_published: 2024-10-22T12:34:20.119779+00:00
-
- ## Início - Prefeitura de São Paulo - Prefeitura
- - [https://www.capital.sp.gov.br](https://www.capital.sp.gov.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Investe SP - Portal de Investimentos do Estado de São Paulo
- - [https://www.investe.sp.gov.br](https://www.investe.sp.gov.br)
- - date_published: 2024-06-26T21:57:36.307248+00:00
-
- ## Início - Prefeitura de São Paulo - Prefeitura
- - [https://www.prefeitura.sp.gov.br](https://www.prefeitura.sp.gov.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home | Governo do Estado de São Paulo
- - [https://www.saopaulo.sp.gov.br](https://www.saopaulo.sp.gov.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Baffa-2+ Computer
- - [https://baffa-2p.baffa.tec.br](https://baffa-2p.baffa.tec.br)
- - date_published: 2023-11-23T03:00:00+00:00
-
- ## Baffa Homebrew Projects
- - [https://computers.baffa.tec.br](https://computers.baffa.tec.br)
- - date_published: 2023-11-23T03:00:00+00:00
-
- ## Login  - Mídia de Impacto
- - [http://painel.sintonizar.tv.br](http://painel.sintonizar.tv.br)
- - date_published: 2024-08-11T19:59:20.739428+00:00
-
- ## BANCO BRADESCO | Desafie o futuro
- - [https://banco.bradesco](https://banco.bradesco)
- - date_published: 2024-07-09T19:15:33.297619+00:00
 

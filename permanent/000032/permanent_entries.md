@@ -1,3 +1,287 @@
+ ## 国家税务总局大连市税务局
+ - [http://dalian.chinatax.gov.cn](http://dalian.chinatax.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 国家税务总局政策法规库
+ - [https://fgk.chinatax.gov.cn](https://fgk.chinatax.gov.cn)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## 国家税务总局福建省税务局
+ - [http://fujian.chinatax.gov.cn](http://fujian.chinatax.gov.cn)
+ - date_published: 2024-06-30T18:53:03.674217+00:00
+
+ ## 国家税务总局广东省税务局
+ - [http://guangdong.chinatax.gov.cn](http://guangdong.chinatax.gov.cn)
+ - date_published: 2025-01-11T18:51:34.746060+00:00
+
+ ## 国家税务总局广西壮族自治区税务局-guangxi.chinatax.gov.cn
+ - [https://guangxi.chinatax.gov.cn](https://guangxi.chinatax.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 国家税务总局海南省税务局
+ - [http://hainan.chinatax.gov.cn](http://hainan.chinatax.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 国家税务总局黑龙江省税务局
+ - [http://heilongjiang.chinatax.gov.cn](http://heilongjiang.chinatax.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 国家税务总局全国增值税发票查验平台
+ - [https://inv-veri.chinatax.gov.cn](https://inv-veri.chinatax.gov.cn)
+ - date_published: 2024-05-31T03:20:14+00:00
+
+ ## 国家税务总局江苏省税务局网站
+ - [http://jiangsu.chinatax.gov.cn](http://jiangsu.chinatax.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 国家税务总局吉林省税务局
+ - [http://jilin.chinatax.gov.cn](http://jilin.chinatax.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 国家税务总局内蒙古自治区税务局
+ - [http://neimenggu.chinatax.gov.cn](http://neimenggu.chinatax.gov.cn)
+ - date_published: 2024-06-28T04:01:15+00:00
+
+ ## 国家税务总局宁夏回族自治区税务局
+ - [http://ningxia.chinatax.gov.cn](http://ningxia.chinatax.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 国家税务总局青岛市税务局
+ - [http://qingdao.chinatax.gov.cn](http://qingdao.chinatax.gov.cn)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## 国家税务总局山东省税务局
+ - [http://shandong.chinatax.gov.cn](http://shandong.chinatax.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 国家税务总局上海市税务局
+ - [http://shanghai.chinatax.gov.cn](http://shanghai.chinatax.gov.cn)
+ - date_published: 2024-06-30T18:54:33.812386+00:00
+
+ ## 国家税务总局深圳市税务局
+ - [https://shenzhen.chinatax.gov.cn](https://shenzhen.chinatax.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 国家税务总局
+ - [https://www.chinatax.gov.cn](https://www.chinatax.gov.cn)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## 国家税务总局新疆维吾尔自治区税务局
+ - [https://xinjiang.chinatax.gov.cn](https://xinjiang.chinatax.gov.cn)
+ - date_published: 2024-06-28T12:04:15+00:00
+
+ ## 国家税务总局浙江省税务局
+ - [http://zhejiang.chinatax.gov.cn](http://zhejiang.chinatax.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 川汇区人民政府
+ - [http://www.chuanhui.gov.cn](http://www.chuanhui.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 北京市气象局
+ - [http://bj.cma.gov.cn](http://bj.cma.gov.cn)
+ - date_published: 2024-06-30T16:53:35.100253+00:00
+
+ ## 重庆市气象局
+ - [http://cq.cma.gov.cn](http://cq.cma.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 福建省气象局
+ - [http://fj.cma.gov.cn](http://fj.cma.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 广东省气象局
+ - [http://gd.cma.gov.cn](http://gd.cma.gov.cn)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## 甘肃省气象局
+ - [http://gs.cma.gov.cn](http://gs.cma.gov.cn)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## 广西壮族自治区气象局
+ - [http://gx.cma.gov.cn](http://gx.cma.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 贵州省气象局首页
+ - [http://gz.cma.gov.cn](http://gz.cma.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 河南省气象局
+ - [http://ha.cma.gov.cn](http://ha.cma.gov.cn)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## 湖北气象局
+ - [http://hb.cma.gov.cn](http://hb.cma.gov.cn)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## 河北省气象局
+ - [http://he.cma.gov.cn](http://he.cma.gov.cn)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## 海南气象局
+ - [http://hi.cma.gov.cn](http://hi.cma.gov.cn)
+ - date_published: 2024-06-30T16:52:39.036657+00:00
+
+ ## 黑龙江省气象局
+ - [http://hl.cma.gov.cn](http://hl.cma.gov.cn)
+ - date_published: 2024-06-30T16:54:59.680662+00:00
+
+ ## 湖南省气象局
+ - [http://hn.cma.gov.cn](http://hn.cma.gov.cn)
+ - date_published: 2024-06-30T16:51:27.778650+00:00
+
+ ## 吉林省气象局
+ - [http://jl.cma.gov.cn](http://jl.cma.gov.cn)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## 江苏省气象局门户网站
+ - [http://js.cma.gov.cn](http://js.cma.gov.cn)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## 江西省气象局政府网站
+ - [http://jx.cma.gov.cn](http://jx.cma.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 辽宁省气象局
+ - [http://ln.cma.gov.cn](http://ln.cma.gov.cn)
+ - date_published: 2024-06-30T17:01:29.188680+00:00
+
+ ## 内蒙古自治区气象局
+ - [http://nm.cma.gov.cn](http://nm.cma.gov.cn)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## 宁夏气象局-宁夏气象政府网站
+ - [http://nx.cma.gov.cn](http://nx.cma.gov.cn)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## 青海气象局
+ - [http://qh.cma.gov.cn](http://qh.cma.gov.cn)
+ - date_published: 2024-06-30T16:55:05.436185+00:00
+
+ ## -四川省气象局
+ - [http://sc.cma.gov.cn](http://sc.cma.gov.cn)
+ - date_published: 2024-06-30T17:01:16.849479+00:00
+
+ ## 山东省气象局
+ - [http://sd.cma.gov.cn](http://sd.cma.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 首页-上海市气象局
+ - [http://sh.cma.gov.cn](http://sh.cma.gov.cn)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## 陕西省气象局
+ - [http://sn.cma.gov.cn](http://sn.cma.gov.cn)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## 山西省气象局--首页
+ - [http://sx.cma.gov.cn](http://sx.cma.gov.cn)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 天津市气象局
+ - [http://tj.cma.gov.cn](http://tj.cma.gov.cn)
+ - date_published: 2024-06-30T17:01:06.694186+00:00
+
+ ## 中国气象网-中国气象局政府门户网站
+ - [https://www.cma.gov.cn](https://www.cma.gov.cn)
+ - date_published: 2024-05-07T16:42:55.154121+00:00
+
+ ## 新疆维吾尔自治区气象局
+ - [http://xj.cma.gov.cn](http://xj.cma.gov.cn)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## 西藏自治区气象局
+ - [http://xz.cma.gov.cn](http://xz.cma.gov.cn)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## 云南省气象局官方网站、森林火险、气象监测、农业气象、旅游气象、交通气象、地质灾害
+ - [http://yn.cma.gov.cn](http://yn.cma.gov.cn)
+ - date_published: 2024-06-30T17:01:10.735948+00:00
+
+ ## 浙江气象局外网门户
+ - [http://zj.cma.gov.cn](http://zj.cma.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 中国气象局一体化政务服务平台
+ - [https://zwfw.cma.gov.cn](https://zwfw.cma.gov.cn)
+ - date_published: 2024-06-30T16:51:14.531989+00:00
+
+ ## 中国载人航天官方网站
+ - [http://www.cmse.gov.cn](http://www.cmse.gov.cn)
+ - date_published: 2024-06-30T23:21:57.178915+00:00
+
+ ## 国家认证认可监督管理委员会
+ - [https://www.cnca.gov.cn](https://www.cnca.gov.cn)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## 国家应急广播
+ - [http://www.cneb.gov.cn](http://www.cneb.gov.cn)
+ - date_published: 2024-06-30T06:47:22+00:00
+
+ ## 国家知识产权局专利代理师资格考试系统
+ - [https://agent.cnipa.gov.cn](https://agent.cnipa.gov.cn)
+ - date_published: 2024-06-04T16:00:01+00:00
+
+ ## 专利业务办理系统
+ - [http://cponline.cnipa.gov.cn](http://cponline.cnipa.gov.cn)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## 国家知识产权-公共服务网
+ - [https://ggfw.cnipa.gov.cn](https://ggfw.cnipa.gov.cn)
+ - date_published: 2024-06-22T12:10:43.322757+00:00
+
+ ## 中国知识产权宣传周
+ - [http://kfr.cnipa.gov.cn](http://kfr.cnipa.gov.cn)
+ - date_published: 2024-04-19T13:12:40+00:00
+
+ ## 国家知识产权局商标局 中国商标网
+ - [https://sbj.cnipa.gov.cn](https://sbj.cnipa.gov.cn)
+ - date_published: 2024-06-24T02:17:19+00:00
+
+ ## 集成电路布图设计电子申请平台
+ - [http://vlsi.cnipa.gov.cn](http://vlsi.cnipa.gov.cn)
+ - date_published: 2024-06-30T15:04:06.627809+00:00
+
+ ## 国家知识产权局
+ - [https://www.cnipa.gov.cn](https://www.cnipa.gov.cn)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## 智能问答平台
+ - [https://znwd.cnipa.gov.cn](https://znwd.cnipa.gov.cn)
+ - date_published: 2024-01-27T01:23:37+00:00
+
+ ## 国家航天局
+ - [https://www.cnsa.gov.cn](https://www.cnsa.gov.cn)
+ - date_published: 2024-05-07T16:55:40.445002+00:00
+
+ ## 国际商事法庭 | CICC
+ - [https://cicc.court.gov.cn](https://cicc.court.gov.cn)
+ - date_published: 2024-06-28T06:56:42+00:00
+
+ ## 中国海事审判
+ - [https://cmt.court.gov.cn](https://cmt.court.gov.cn)
+ - date_published: 2024-10-21T05:58:47.155943+00:00
+
+ ## The Supreme People's Court Of The People's Republic Of China
+ - [https://english.court.gov.cn](https://english.court.gov.cn)
+ - date_published: 2024-06-30T04:02:14.727712+00:00
+
+ ## 最高人民法院知识产权法庭
+ - [https://ipc.court.gov.cn](https://ipc.court.gov.cn)
+ - date_published: 2024-06-30T03:58:58.244296+00:00
+
+ ## 首页 - 人民法院案例库
+ - [http://rmfyalk.court.gov.cn](http://rmfyalk.court.gov.cn)
+ - date_published: 2024-06-28T09:41:07+00:00
+
+ ## 中国庭审公开网
+ - [https://tingshen.court.gov.cn](https://tingshen.court.gov.cn)
+ - date_published: 2024-06-30T03:59:25.035155+00:00
+
+ ## 首页
+ - [https://wenshu.court.gov.cn](https://wenshu.court.gov.cn)
+ - date_published: 2023-08-25T01:50:24+00:00
+
  ## 中国应用法学网
  - [http://yyfx.court.gov.cn](http://yyfx.court.gov.cn)
  - date_published: 2024-06-30T04:01:43.762807+00:00
@@ -165,6 +449,10 @@
  ## Guangzhou
  - [http://www.eguangzhou.gov.cn](http://www.eguangzhou.gov.cn)
  - date_published: 2024-07-09T18:20:07.776995+00:00
+
+ ## 二连浩特市人民政府
+ - [http://www.elht.gov.cn](http://www.elht.gov.cn)
+ - date_published: 2025-01-12T14:13:16.766427+00:00
 
  ## The State Council of the People's Republic of China
  - [https://english.gov.cn](https://english.gov.cn)
@@ -366,6 +654,10 @@
  - [http://www.jcy.gansu.gov.cn](http://www.jcy.gansu.gov.cn)
  - date_published: 2024-05-15T00:00:00+00:00
 
+ ## 中国人民政治协商会议南京市高淳区委员会
+ - [http://www.gcqzx.gov.cn](http://www.gcqzx.gov.cn)
+ - date_published: 2024-11-13T09:50:28+00:00
+
  ## 广东省疾病预防控制中心网站
  - [http://cdcp.gd.gov.cn](http://cdcp.gd.gov.cn)
  - date_published: 2024-10-21T05:52:59.514291+00:00
@@ -401,6 +693,10 @@
  ## 广东省广播电视局网站
  - [http://gbdsj.gd.gov.cn](http://gbdsj.gd.gov.cn)
  - date_published: 2024-06-30T21:43:23.969573+00:00
+
+ ## 广东省审计厅网站
+ - [http://gdaudit.gd.gov.cn](http://gdaudit.gd.gov.cn)
+ - date_published: 2025-01-12T13:07:02.725525+00:00
 
  ## 广东省人民政府参事室网站
  - [http://gdcss.gd.gov.cn](http://gdcss.gd.gov.cn)
@@ -497,6 +793,10 @@
  ## 广东省文化和旅游厅
  - [http://whly.gd.gov.cn](http://whly.gd.gov.cn)
  - date_published: 2024-06-30T19:32:16.833684+00:00
+
+ ## 广东省卫生健康委员会门户网站，广东省卫生健康委官方网站
+ - [http://wsjkw.gd.gov.cn](http://wsjkw.gd.gov.cn)
+ - date_published: 2025-01-12T18:25:01.352021+00:00
 
  ## 广东省人民政府外事办公室
  - [http://www.gdfao.gd.gov.cn](http://www.gdfao.gd.gov.cn)
@@ -658,6 +958,10 @@
  - [http://jgswj.gxzf.gov.cn](http://jgswj.gxzf.gov.cn)
  - date_published: 2024-06-29T00:00:00+00:00
 
+ ## 广西壮族自治区交通运输厅
+ - [http://jtt.gxzf.gov.cn](http://jtt.gxzf.gov.cn)
+ - date_published: 2025-01-12T14:25:19.106398+00:00
+
  ## 广西壮族自治区粮食和物资储备局网站 -
 			lshwzcbj.gxzf.gov.cn
  - [http://lshwzcbj.gxzf.gov.cn](http://lshwzcbj.gxzf.gov.cn)
@@ -786,6 +1090,10 @@
  - [https://www.gzwxb.gov.cn](https://www.gzwxb.gov.cn)
  - date_published: 2024-07-01T00:00:00+00:00
 
+ ## 贵州宣传网
+ - [http://gzxc.gov.cn](http://gzxc.gov.cn)
+ - date_published: 2025-01-13T00:42:34.155263+00:00
+
  ## 中国人民政治协商会议广州市委员会
  - [https://www.gzzx.gov.cn](https://www.gzzx.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -909,6 +1217,10 @@
  ## 湖北机关党建网
  - [http://www.hbjgdj.gov.cn](http://www.hbjgdj.gov.cn)
  - date_published: 2024-06-30T14:53:01.417350+00:00
+
+ ## 中共湖北省委统一战线工作部
+ - [http://www.hbtyzx.gov.cn](http://www.hbtyzx.gov.cn)
+ - date_published: 2025-01-13T00:09:38.824731+00:00
 
  ## 湖北文明网
  - [http://www.hbwmw.gov.cn](http://www.hbwmw.gov.cn)
@@ -1037,6 +1349,10 @@
  ## 河南省医疗保障局
  - [http://ylbz.henan.gov.cn](http://ylbz.henan.gov.cn)
  - date_published: 2024-06-30T13:32:21.179704+00:00
+
+ ## 中共呼和浩特市委统一战线工作部
+ - [http://hhhttzb.gov.cn](http://hhhttzb.gov.cn)
+ - date_published: 2025-01-13T00:05:22.224268+00:00
 
  ## 省发展和改革委员会
  - [http://drc.hlj.gov.cn](http://drc.hlj.gov.cn)
@@ -1174,6 +1490,18 @@
  - [http://wlt.hubei.gov.cn](http://wlt.hubei.gov.cn)
  - date_published: 2024-06-26T00:00:00+00:00
 
+ ## 呼和浩特市民族事务委员会
+ - [http://mw.huhhot.gov.cn](http://mw.huhhot.gov.cn)
+ - date_published: 2025-01-10T02:12:42+00:00
+
+ ## 呼和浩特市退役军人事务局
+ - [http://tyjrswj.huhhot.gov.cn](http://tyjrswj.huhhot.gov.cn)
+ - date_published: 2025-01-10T07:35:05+00:00
+
+ ## 呼和浩特市应急管理局
+ - [http://yjglj.huhhot.gov.cn](http://yjglj.huhhot.gov.cn)
+ - date_published: 2025-01-03T08:19:45+00:00
+
  ## 湖南省农业农村厅
  - [http://agri.hunan.gov.cn](http://agri.hunan.gov.cn)
  - date_published: 2024-06-29T00:00:00+00:00
@@ -1193,6 +1521,10 @@
  ## 湖南省机关事务管理局
  - [http://jgswj.hunan.gov.cn](http://jgswj.hunan.gov.cn)
  - date_published: 2024-06-29T00:00:00+00:00
+
+ ## 湖南省交通运输厅
+ - [http://jtt.hunan.gov.cn](http://jtt.hunan.gov.cn)
+ - date_published: 2025-01-12T14:33:03.749870+00:00
 
  ## 湖南省粮食和物资储备局
  - [http://lshwzcbj.hunan.gov.cn](http://lshwzcbj.hunan.gov.cn)
@@ -1501,6 +1833,10 @@
  ## 吉林省生态环境厅
  - [http://sthjt.jl.gov.cn](http://sthjt.jl.gov.cn)
  - date_published: 2024-06-28T01:10:24+00:00
+
+ ## 吉林省统计局-吉林省统计局
+ - [http://tjj.jl.gov.cn](http://tjj.jl.gov.cn)
+ - date_published: 2025-01-10T07:03:23+00:00
 
  ## 吉林省文化和旅游厅
  - [http://whhlyt.jl.gov.cn](http://whhlyt.jl.gov.cn)
@@ -3043,139 +3379,252 @@
  - date_published: 2022-10-17T09:33:59+00:00
 
  ## 天津出入境边防检查总站
- - [http://tianjin.nia.gov.cn](http://tianjin.nia.gov.cn)
+ - [https://tianjin.nia.gov.cn](https://tianjin.nia.gov.cn)
  - date_published: 2023-11-17T10:53:55+00:00
 
+ ## 宁波市财政局
+ - [http://czj.ningbo.gov.cn](http://czj.ningbo.gov.cn)
+ - date_published: 2025-01-12T05:43:35+00:00
+
  ## 宁波市人民政府外事办公室
- - [http://fao.ningbo.gov.cn](http://fao.ningbo.gov.cn)
+ - [https://fao.ningbo.gov.cn](https://fao.ningbo.gov.cn)
  - date_published: 2024-09-09T00:00:00+00:00
 
  ## 宁波市发展和改革委员会
- - [http://fgw.ningbo.gov.cn](http://fgw.ningbo.gov.cn)
+ - [https://fgw.ningbo.gov.cn](https://fgw.ningbo.gov.cn)
  - date_published: 2024-06-30T00:00:00+00:00
 
  ## 宁波市商务局
- - [http://swj.ningbo.gov.cn](http://swj.ningbo.gov.cn)
+ - [https://swj.ningbo.gov.cn](https://swj.ningbo.gov.cn)
  - date_published: 2024-06-30T00:00:00+00:00
 
+ ## 宁波市自然资源和规划局
+ - [http://zgj.ningbo.gov.cn](http://zgj.ningbo.gov.cn)
+ - date_published: 2025-01-12T05:38:24+00:00
+
  ## 宁德市人民政府门户网站
- - [http://www.ningde.gov.cn](http://www.ningde.gov.cn)
+ - [https://ningde.gov.cn](https://ningde.gov.cn)
  - date_published: 2024-07-17T09:42:18.782174+00:00
 
  ## 宁远新闻网_主流媒体,党政门户
- - [http://www.ningyuan.gov.cn](http://www.ningyuan.gov.cn)
+ - [https://ningyuan.gov.cn](https://ningyuan.gov.cn)
  - date_published: 2024-10-21T06:46:02.714267+00:00
 
+ ## 六合区政协
+ - [http://njlhzx.gov.cn](http://njlhzx.gov.cn)
+ - date_published: 2025-01-12T12:50:23.752445+00:00
+
  ## 南京政协
- - [http://www.njzx.gov.cn](http://www.njzx.gov.cn)
+ - [https://www.njzx.gov.cn](https://www.njzx.gov.cn)
  - date_published: 2024-06-30T23:08:59.367086+00:00
 
  ## 网页无法访问
  - [http://nmc.gov.cn](http://nmc.gov.cn)
  - date_published: 2024-06-30T20:38:18+00:00
+ - date_dead_since: 2025-01-12T13:05:35.676539+00:00
 
  ## 内蒙古自治区审计厅
- - [http://audit.nmg.gov.cn](http://audit.nmg.gov.cn)
+ - [https://audit.nmg.gov.cn](https://audit.nmg.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## 内蒙古自治区发展和改革委员会
- - [http://fgw.nmg.gov.cn](http://fgw.nmg.gov.cn)
+ - [https://fgw.nmg.gov.cn](https://fgw.nmg.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## 内蒙古自治区广播电视局
- - [http://gbdsj.nmg.gov.cn](http://gbdsj.nmg.gov.cn)
+ - [https://gbdsj.nmg.gov.cn](https://gbdsj.nmg.gov.cn)
  - date_published: 2024-06-28T01:01:28+00:00
 
  ## 内蒙古自治区工业和信息化厅
  - [http://gxt.nmg.gov.cn](http://gxt.nmg.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 
+ ## 内蒙古自治区国有资产监督管理委员会
+ - [http://gzw.nmg.gov.cn](http://gzw.nmg.gov.cn)
+ - date_published: 2025-01-10T08:44:20+00:00
+
  ## 内蒙古自治区机关事务管理局
- - [http://jgsw.nmg.gov.cn](http://jgsw.nmg.gov.cn)
+ - [https://jgsw.nmg.gov.cn](https://jgsw.nmg.gov.cn)
  - date_published: 2024-06-30T22:06:02.821031+00:00
 
  ## 内蒙古自治区交通运输厅
  - [https://jtyst.nmg.gov.cn](https://jtyst.nmg.gov.cn)
  - date_published: 2024-06-29T00:00:00+00:00
 
+ ## 内蒙古自治区科学技术厅
+ - [http://kjt.nmg.gov.cn](http://kjt.nmg.gov.cn)
+ - date_published: 2025-01-10T16:24:41+00:00
+
  ## 内蒙古自治区林业和草原局
- - [http://lcj.nmg.gov.cn](http://lcj.nmg.gov.cn)
+ - [https://lcj.nmg.gov.cn](https://lcj.nmg.gov.cn)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## 内蒙古自治区粮食和物资储备局
- - [http://lsj.nmg.gov.cn](http://lsj.nmg.gov.cn)
+ - [https://lsj.nmg.gov.cn](https://lsj.nmg.gov.cn)
  - date_published: 2024-04-18T00:00:00+00:00
 
+ ## 内蒙古自治区药品监督管理局
+ - [http://mpa.nmg.gov.cn](http://mpa.nmg.gov.cn)
+ - date_published: 2025-01-11T02:20:28+00:00
+
  ## 内蒙古自治区民族事务委员会
- - [http://mw.nmg.gov.cn](http://mw.nmg.gov.cn)
+ - [https://mw.nmg.gov.cn](https://mw.nmg.gov.cn)
  - date_published: 2024-06-30T00:00:06+00:00
 
  ## 内蒙古自治区农牧厅
- - [http://nmt.nmg.gov.cn](http://nmt.nmg.gov.cn)
+ - [https://nmt.nmg.gov.cn](https://nmt.nmg.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## 内蒙古自治区能源局
- - [http://nyj.nmg.gov.cn](http://nyj.nmg.gov.cn)
+ - [https://nyj.nmg.gov.cn](https://nyj.nmg.gov.cn)
  - date_published: 2024-06-29T00:00:00+00:00
 
  ## 内蒙古自治区人力资源和社会保障厅
- - [http://rst.nmg.gov.cn](http://rst.nmg.gov.cn)
+ - [https://rst.nmg.gov.cn](https://rst.nmg.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## 内蒙古自治区司法厅
- - [http://sft.nmg.gov.cn](http://sft.nmg.gov.cn)
+ - [https://sft.nmg.gov.cn](https://sft.nmg.gov.cn)
  - date_published: 2024-06-05T00:00:00+00:00
 
  ## 内蒙古自治区生态环境厅
- - [http://sthjt.nmg.gov.cn](http://sthjt.nmg.gov.cn)
+ - [https://sthjt.nmg.gov.cn](https://sthjt.nmg.gov.cn)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## 内蒙古自治区商务厅
- - [http://swt.nmg.gov.cn](http://swt.nmg.gov.cn)
+ - [https://swt.nmg.gov.cn](https://swt.nmg.gov.cn)
  - date_published: 2024-06-30T12:35:21+00:00
 
  ## 内蒙古自治区统计局
- - [http://tj.nmg.gov.cn](http://tj.nmg.gov.cn)
+ - [https://tj.nmg.gov.cn](https://tj.nmg.gov.cn)
  - date_published: 2024-06-28T08:38:32+00:00
 
  ## 内蒙古自治区退役军人事务厅
- - [http://tyjrswt.nmg.gov.cn](http://tyjrswt.nmg.gov.cn)
+ - [https://tyjrswt.nmg.gov.cn](https://tyjrswt.nmg.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## 内蒙古自治区卫生健康委员会
- - [http://wjw.nmg.gov.cn](http://wjw.nmg.gov.cn)
+ - [https://wjw.nmg.gov.cn](https://wjw.nmg.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## 内蒙古自治区文化和旅游厅
- - [http://wlt.nmg.gov.cn](http://wlt.nmg.gov.cn)
+ - [https://wlt.nmg.gov.cn](https://wlt.nmg.gov.cn)
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## 内蒙古自治区人民政府
- - [http://www.nmg.gov.cn](http://www.nmg.gov.cn)
+ - [https://www.nmg.gov.cn](https://www.nmg.gov.cn)
  - date_published: 2024-06-30T03:52:29+00:00
 
  ## 内蒙古自治区应急管理厅
- - [http://yjglt.nmg.gov.cn](http://yjglt.nmg.gov.cn)
+ - [https://yjglt.nmg.gov.cn](https://yjglt.nmg.gov.cn)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## 内蒙古自治区医疗保障局
- - [http://ylbzj.nmg.gov.cn](http://ylbzj.nmg.gov.cn)
+ - [https://ylbzj.nmg.gov.cn](https://ylbzj.nmg.gov.cn)
  - date_published: 2024-06-27T00:00:00+00:00
 
+ ## 内蒙古自治区住房和城乡建设厅_首页
+ - [http://zjt.nmg.gov.cn](http://zjt.nmg.gov.cn)
+ - date_published: 2025-01-10T03:19:29+00:00
+
+ ## 内蒙古自治区政务服务与数据管理局
+ - [https://zsj.nmg.gov.cn](https://zsj.nmg.gov.cn)
+ - date_published: 2025-01-10T04:28:57+00:00
+
+ ## 内蒙古自治区地震局
+ - [http://www.nmgdzj.gov.cn](http://www.nmgdzj.gov.cn)
+ - date_published: 2025-01-09T09:26:59+00:00
+
  ## 内蒙古自治区人民政府外事办公室|内蒙古自治区人民政府港澳办公室
- - [http://www.nmgfao.gov.cn](http://www.nmgfao.gov.cn)
+ - [http://nmgfao.gov.cn](http://nmgfao.gov.cn)
  - date_published: 2024-06-30T16:21:21.824630+00:00
 
+ ## 内蒙古阿拉善盟纪委监委网站
+ - [http://alsm.nmgjjjc.gov.cn](http://alsm.nmgjjjc.gov.cn)
+ - date_published: 2025-01-10T01:23:13+00:00
+
+ ## 内蒙古阿拉善盟纪委监委网站
+ - [http://als.nmgjjjc.gov.cn](http://als.nmgjjjc.gov.cn)
+ - date_published: 2025-01-10T01:23:13+00:00
+
+ ## 内蒙古包头市纪委监委网站
+ - [http://bts.nmgjjjc.gov.cn](http://bts.nmgjjjc.gov.cn)
+ - date_published: 2025-01-10T01:48:12+00:00
+
+ ## 内蒙古巴彦淖尔市纪委监委网站
+ - [http://bynes.nmgjjjc.gov.cn](http://bynes.nmgjjjc.gov.cn)
+ - date_published: 2025-01-07T07:44:12+00:00
+
+ ## 内蒙古赤峰市纪委监委网站
+ - [http://cfs.nmgjjjc.gov.cn](http://cfs.nmgjjjc.gov.cn)
+ - date_published: 2025-01-10T09:33:08+00:00
+
+ ## 内蒙古二连浩特市纪委监委网站
+ - [http://elhts.nmgjjjc.gov.cn](http://elhts.nmgjjjc.gov.cn)
+ - date_published: 2025-01-07T07:46:45+00:00
+
+ ## 内蒙古呼和浩特市纪委监委网站
+ - [http://hhht.nmgjjjc.gov.cn](http://hhht.nmgjjjc.gov.cn)
+ - date_published: 2025-01-09T12:40:24+00:00
+
+ ## 内蒙古呼和浩特市纪委监委网站
+ - [http://hhhts.nmgjjjc.gov.cn](http://hhhts.nmgjjjc.gov.cn)
+ - date_published: 2025-01-09T12:40:24+00:00
+
+ ## 内蒙古鄂尔多斯市杭锦旗纪委监委网站
+ - [http://hjq.nmgjjjc.gov.cn](http://hjq.nmgjjjc.gov.cn)
+ - date_published: 2025-01-07T07:45:52+00:00
+
+ ## 内蒙古呼伦贝尔市纪委监委网站
+ - [http://hlbes.nmgjjjc.gov.cn](http://hlbes.nmgjjjc.gov.cn)
+ - date_published: 2025-01-08T13:53:27+00:00
+
+ ## 内蒙古满洲里市纪委监委网站
+ - [http://mzl.nmgjjjc.gov.cn](http://mzl.nmgjjjc.gov.cn)
+ - date_published: 2025-01-07T07:46:45+00:00
+
+ ## 内蒙古通辽市纪委监委网站
+ - [http://tls.nmgjjjc.gov.cn](http://tls.nmgjjjc.gov.cn)
+ - date_published: 2025-01-10T07:55:54+00:00
+
+ ## 内蒙古乌海市纪委监委网站
+ - [http://wh.nmgjjjc.gov.cn](http://wh.nmgjjjc.gov.cn)
+ - date_published: 2025-01-09T01:09:52+00:00
+
+ ## 内蒙古乌海市纪委监委网站
+ - [http://whs.nmgjjjc.gov.cn](http://whs.nmgjjjc.gov.cn)
+ - date_published: 2025-01-09T01:09:52+00:00
+
+ ## 内蒙古乌兰察布市纪委监委网站
+ - [http://wlcb.nmgjjjc.gov.cn](http://wlcb.nmgjjjc.gov.cn)
+ - date_published: 2025-01-10T01:06:59+00:00
+
+ ## 内蒙古乌兰察布市纪委监委网站
+ - [http://wlcbs.nmgjjjc.gov.cn](http://wlcbs.nmgjjjc.gov.cn)
+ - date_published: 2025-01-10T01:06:59+00:00
+
  ## 内蒙古纪委监委网站
- - [http://www.nmgjjjc.gov.cn](http://www.nmgjjjc.gov.cn)
+ - [https://www.nmgjjjc.gov.cn](https://www.nmgjjjc.gov.cn)
  - date_published: 2024-06-30T12:44:13+00:00
 
+ ## 内蒙古兴安盟纪委监委网站
+ - [http://xam.nmgjjjc.gov.cn](http://xam.nmgjjjc.gov.cn)
+ - date_published: 2025-01-07T07:40:05+00:00
+
+ ## 内蒙古锡林郭勒盟纪委监委网站
+ - [http://xlglm.nmgjjjc.gov.cn](http://xlglm.nmgjjjc.gov.cn)
+ - date_published: 2025-01-10T02:19:08+00:00
+
+ ## 内蒙古鄂尔多斯市伊金霍洛旗纪委监委网站
+ - [http://yjhlq.nmgjjjc.gov.cn](http://yjhlq.nmgjjjc.gov.cn)
+ - date_published: 2025-01-07T07:42:05+00:00
+
  ## 内蒙古统一战线
- - [http://www.nmgtzb.gov.cn](http://www.nmgtzb.gov.cn)
+ - [https://nmgtzb.gov.cn](https://nmgtzb.gov.cn)
  - date_published: 2024-06-30T20:38:47.204250+00:00
 
  ## 全国哲学社会科学工作办公室
- - [http://www.nopss.gov.cn](http://www.nopss.gov.cn)
+ - [https://www.nopss.gov.cn](https://www.nopss.gov.cn)
  - date_published: 2024-06-28T07:39:51+00:00
 
  ## 国家法律法规数据库
@@ -3187,28 +3636,34 @@
  - date_published: 2024-05-07T16:34:11.503909+00:00
 
  ## 视频新闻—中国人大网
- - [http://v.npc.gov.cn](http://v.npc.gov.cn)
+ - [https://v.npc.gov.cn](https://v.npc.gov.cn)
  - date_published: 2024-06-30T13:49:46.192260+00:00
 
  ## Welcome to nginx!
  - [https://zhbg.npc.gov.cn](https://zhbg.npc.gov.cn)
  - date_published: 2021-02-16T05:00:59+00:00
 
+ ## 国家社会科学基金科研创新服务管理平台
+ - [https://xm.npopss-cn.gov.cn](https://xm.npopss-cn.gov.cn)
+ - date_published: 2025-01-13T01:09:31.537908+00:00
+
+ ## 国家新闻出版署
+ - [https://nppa.gov.cn](https://nppa.gov.cn)
+ - date_published: 2024-04-12T00:00:00+00:00
+
  ## 中国记者网
  - [https://press.nppa.gov.cn](https://press.nppa.gov.cn)
  - date_published: 2024-06-06T00:00:00+00:00
 
- ## 国家新闻出版署
- - [https://www.nppa.gov.cn](https://www.nppa.gov.cn)
- - date_published: 2024-04-12T00:00:00+00:00
-
  ## 广播电视统计信息网上直报管理系统
  - [http://gdtj.nrta.gov.cn](http://gdtj.nrta.gov.cn)
  - date_published: 2024-06-30T21:50:23.965570+00:00
+ - date_dead_since: 2025-01-12T22:12:49.840207+00:00
 
  ## 国家广播电视总局科技项目管理系统
  - [http://kjxm.nrta.gov.cn](http://kjxm.nrta.gov.cn)
  - date_published: 2023-08-03T07:16:27+00:00
+ - date_dead_since: 2025-01-12T22:22:21.314157+00:00
 
  ## 智慧广电学院点播课堂
  - [https://training.nrta.gov.cn](https://training.nrta.gov.cn)
@@ -3219,12 +3674,13 @@
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## welcome
- - [http://zgks.nrta.gov.cn](http://zgks.nrta.gov.cn)
+ - [https://zgks.nrta.gov.cn](https://zgks.nrta.gov.cn)
  - date_published: 2020-08-18T07:27:08+00:00
 
  ## 国家广播电视总局政务服务平台
  - [https://zwfw.nrta.gov.cn](https://zwfw.nrta.gov.cn)
  - date_published: 2024-06-26T09:02:16+00:00
+ - date_dead_since: 2025-01-12T22:30:36.330093+00:00
 
  ## 国家自然科学基金委员会 > 首页
  - [http://www.nsfc.gov.cn](http://www.nsfc.gov.cn)
@@ -3238,6 +3694,10 @@
  - [http://fao.nx.gov.cn](http://fao.nx.gov.cn)
  - date_published: 2024-06-20T00:00:00+00:00
 
+ ## 宁夏回族自治区发展和改革委员会
+ - [https://fzggw.nx.gov.cn](https://fzggw.nx.gov.cn)
+ - date_published: 2025-01-12T12:28:11.569586+00:00
+
  ## 自治区广播电视局
  - [http://gdj.nx.gov.cn](http://gdj.nx.gov.cn)
  - date_published: 2024-06-21T00:00:00+00:00
@@ -3249,6 +3709,10 @@
  ## 宁夏回族自治区人力资源和社会保障厅
  - [http://hrss.nx.gov.cn](http://hrss.nx.gov.cn)
  - date_published: 2024-06-30T17:47:27.925275+00:00
+
+ ## 宁夏回族自治区交通运输厅
+ - [https://jtt.nx.gov.cn](https://jtt.nx.gov.cn)
+ - date_published: 2025-01-12T14:35:34.074275+00:00
 
  ## 宁夏回族自治区林业和草原局
  - [http://lcj.nx.gov.cn](http://lcj.nx.gov.cn)
@@ -3282,6 +3746,10 @@
  - [https://sthjt.nx.gov.cn](https://sthjt.nx.gov.cn)
  - date_published: 2024-06-27T00:00:00+00:00
 
+ ## 宁夏回族自治区统计局
+ - [http://tj.nx.gov.cn](http://tj.nx.gov.cn)
+ - date_published: 2025-01-12T17:38:00.898526+00:00
+
  ## 退役军人事务厅
  - [http://tyjrt.nx.gov.cn](http://tyjrt.nx.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3289,6 +3757,10 @@
  ## 宁夏回族自治区文化和旅游厅
  - [http://whhlyt.nx.gov.cn](http://whhlyt.nx.gov.cn)
  - date_published: 2024-06-30T19:31:04.065629+00:00
+
+ ## 宁夏回族自治区卫生健康委员会
+ - [http://wsjkw.nx.gov.cn](http://wsjkw.nx.gov.cn)
+ - date_published: 2025-01-12T18:33:35.587012+00:00
 
  ## 宁夏医疗保障局
  - [https://ylbz.nx.gov.cn](https://ylbz.nx.gov.cn)
@@ -3309,6 +3781,10 @@
  ## 宁夏政协网
  - [http://www.nxzx.gov.cn](http://www.nxzx.gov.cn)
  - date_published: 2024-06-30T23:09:50.504564+00:00
+
+ ## 内蒙古鄂尔多斯市纪委监委网站
+ - [http://www.ordoslz.gov.cn](http://www.ordoslz.gov.cn)
+ - date_published: 2025-01-09T02:22:35+00:00
 
  ## 国家密码管理局
  - [http://www.oscca.gov.cn](http://www.oscca.gov.cn)
@@ -3529,476 +4005,4 @@
  ## 上海市教育委员会
  - [https://edu.sh.gov.cn](https://edu.sh.gov.cn)
  - date_published: 2024-05-09T06:05:04.390218+00:00
-
- ## 上海市发展和改革委员会
- - [http://fgw.sh.gov.cn](http://fgw.sh.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 上海市规划和自然资源局
- - [https://ghzyj.sh.gov.cn](https://ghzyj.sh.gov.cn)
- - date_published: 2024-10-21T21:23:01.753123+00:00
-
- ## 政民互动
- - [http://hd.sh.gov.cn](http://hd.sh.gov.cn)
- - date_published: 2023-10-26T02:22:03+00:00
-
- ## 上海城市法规全书
- - [https://law.sfj.sh.gov.cn](https://law.sfj.sh.gov.cn)
- - date_published: 2024-09-09T15:01:14.271162+00:00
-
- ## 上海市粮食和物资储备局
- - [http://lswzj.sh.gov.cn](http://lswzj.sh.gov.cn)
- - date_published: 2024-06-28T08:13:20+00:00
-
- ## 上海市民族和宗教事务局
- - [http://mzzj.sh.gov.cn](http://mzzj.sh.gov.cn)
- - date_published: 2024-06-30T20:36:36+00:00
-
- ## 上海市农业农村委员会
- - [https://nyncw.sh.gov.cn](https://nyncw.sh.gov.cn)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## qrcode
- - [https://qrcode.sh.gov.cn](https://qrcode.sh.gov.cn)
- - date_published: 2024-05-30T16:26:09+00:00
-
- ## 上海市人力资源和社会保障局
- - [http://rsj.sh.gov.cn](http://rsj.sh.gov.cn)
- - date_published: 2024-06-28T07:35:18+00:00
-
- ## 上海市人民政府
- - [https://search.sh.gov.cn](https://search.sh.gov.cn)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## 上海市司法局
- - [http://sfj.sh.gov.cn](http://sfj.sh.gov.cn)
- - date_published: 2024-06-21T09:35:17+00:00
-
- ## 首页
- - [https://shrxbm.edu.sh.gov.cn](https://shrxbm.edu.sh.gov.cn)
- - date_published: 2024-07-09T18:33:13.626076+00:00
-
- ## 上海市审计局
- - [http://sjj.sh.gov.cn](http://sjj.sh.gov.cn)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Apache Tomcat/9.0.90
- - [http://sqswweb.sh.gov.cn](http://sqswweb.sh.gov.cn)
- - date_published: 2024-09-09T15:02:50.056643+00:00
-
- ## 上海市科学技术委员会
- - [https://stcsm.sh.gov.cn](https://stcsm.sh.gov.cn)
- - date_published: 2024-10-21T20:57:23.428172+00:00
-
- ## 上海市生态环境局
- - [http://sthj.sh.gov.cn](http://sthj.sh.gov.cn)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## 上海市商务委员会
- - [http://sww.sh.gov.cn](http://sww.sh.gov.cn)
- - date_published: 2024-06-28T07:52:40+00:00
-
- ## 上海市统计局
- - [http://tjj.sh.gov.cn](http://tjj.sh.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 上海市退役军人事务局
- - [http://tyjr.sh.gov.cn](http://tyjr.sh.gov.cn)
- - date_published: 2024-06-28T07:39:28+00:00
-
- ## 上海市文化和旅游局
- - [http://whlyj.sh.gov.cn](http://whlyj.sh.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 上海市人民政府外事办公室
- - [https://wsb.sh.gov.cn](https://wsb.sh.gov.cn)
- - date_published: 2024-06-29T07:16:06+00:00
-
- ## 上海市机关事务管理局
- - [http://www.jgj.sh.gov.cn](http://www.jgj.sh.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 上海市经济和信息化委员会
- - [http://www.sheitc.sh.gov.cn](http://www.sheitc.sh.gov.cn)
- - date_published: 2024-06-27T01:33:22+00:00
-
- ## 上海市企业服务云
- - [http://www.ssme.sh.gov.cn](http://www.ssme.sh.gov.cn)
- - date_published: 2024-09-09T15:01:04.582962+00:00
-
- ## 上海市医疗保障局
- - [http://ybj.sh.gov.cn](http://ybj.sh.gov.cn)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 上海应急管理
- - [http://yjglj.sh.gov.cn](http://yjglj.sh.gov.cn)
- - date_published: 2024-06-28T09:08:38+00:00
-
- ## 上海市住房和城乡建设管理委员会
- - [http://zjw.sh.gov.cn](http://zjw.sh.gov.cn)
- - date_published: 2024-10-21T21:22:41.342212+00:00
-
- ## 一网通办
- - [https://zwdtuser.sh.gov.cn](https://zwdtuser.sh.gov.cn)
- - date_published: 2024-07-09T18:18:49.990264+00:00
-
- ## 陕西省中医药管理局
- - [http://atcm.shaanxi.gov.cn](http://atcm.shaanxi.gov.cn)
- - date_published: 2024-06-30T13:45:30.582007+00:00
-
- ## 陕西省退役军人事务厅
- - [http://dva.shaanxi.gov.cn](http://dva.shaanxi.gov.cn)
- - date_published: 2024-06-11T11:50:39+00:00
-
- ## 陕西省广播电视局
- - [http://gdj.shaanxi.gov.cn](http://gdj.shaanxi.gov.cn)
- - date_published: 2024-06-28T00:47:53+00:00
-
- ## 首页 - 陕西省工业和信息化厅
- - [http://gxt.shaanxi.gov.cn](http://gxt.shaanxi.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 陕西省粮食和物资储备局
- - [http://lswz.shaanxi.gov.cn](http://lswz.shaanxi.gov.cn)
- - date_published: 2024-06-30T13:22:30.857176+00:00
-
- ## 陕西省林业局
- - [http://lyj.shaanxi.gov.cn](http://lyj.shaanxi.gov.cn)
- - date_published: 2024-06-30T22:59:15.568224+00:00
-
- ## 陕西省民族宗教事务委员会
- - [http://mzzj.shaanxi.gov.cn](http://mzzj.shaanxi.gov.cn)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## 陕西省农业农村厅门户网站
- - [http://nynct.shaanxi.gov.cn](http://nynct.shaanxi.gov.cn)
- - date_published: 2024-06-29T11:51:49+00:00
-
- ## 陕西省司法厅
- - [http://sft.shaanxi.gov.cn](http://sft.shaanxi.gov.cn)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## 陕西省审计厅
- - [http://sjt.shaanxi.gov.cn](http://sjt.shaanxi.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 陕西省统计局
- - [http://tjj.shaanxi.gov.cn](http://tjj.shaanxi.gov.cn)
- - date_published: 2024-06-30T20:24:41.145971+00:00
-
- ## 陕西省文化和旅游厅官网
- - [http://whhlyt.shaanxi.gov.cn](http://whhlyt.shaanxi.gov.cn)
- - date_published: 2023-07-31T00:00:00+00:00
-
- ## 陕西省文物局
- - [http://wwj.shaanxi.gov.cn](http://wwj.shaanxi.gov.cn)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## 陕西省人民政府
- - [http://www.shaanxi.gov.cn](http://www.shaanxi.gov.cn)
- - date_published: 2024-06-30T15:38:36.740701+00:00
-
- ## 欢迎访问陕西省医疗保障局
- - [http://ybj.shaanxi.gov.cn](http://ybj.shaanxi.gov.cn)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## 陕西省应急管理厅
- - [http://yjt.shaanxi.gov.cn](http://yjt.shaanxi.gov.cn)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## 山东省商务厅
- - [http://commerce.shandong.gov.cn](http://commerce.shandong.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 山东省工业和信息化厅
- - [http://gxt.shandong.gov.cn](http://gxt.shandong.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 山东省机关事务管理局
- - [http://jgswj.shandong.gov.cn](http://jgswj.shandong.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 山东省粮食和物资储备局
- - [http://lscb.shandong.gov.cn](http://lscb.shandong.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 山东省统计局
- - [http://tjj.shandong.gov.cn](http://tjj.shandong.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 山东省文化和旅游厅
- - [http://whhly.shandong.gov.cn](http://whhly.shandong.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 山东省人民政府
- - [http://www.shandong.gov.cn](http://www.shandong.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 山东省医疗保障局
- - [http://ybj.shandong.gov.cn](http://ybj.shandong.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## شانغهاي الصين-الخدمات الدولية شانغهاي
- - [https://arabic.shanghai.gov.cn](https://arabic.shanghai.gov.cn)
- - date_published: 2024-09-06T11:00:21+00:00
-
- ## SHANGHAI CHINA-International Services Shanghai
- - [https://english.shanghai.gov.cn](https://english.shanghai.gov.cn)
- - date_published: 2024-05-09T06:04:29.174460+00:00
-
- ## SHANGHAI CHINE-Services Internationaux de Shanghai
- - [https://french.shanghai.gov.cn](https://french.shanghai.gov.cn)
- - date_published: 2024-09-09T03:13:34+00:00
-
- ## SHANGHAI CHINA-International Services Shanghai
- - [https://german.shanghai.gov.cn](https://german.shanghai.gov.cn)
- - date_published: 2024-09-09T10:11:20+00:00
-
- ## 中国上海-上海国際サービス
- - [https://japanese.shanghai.gov.cn](https://japanese.shanghai.gov.cn)
- - date_published: 2024-09-09T09:31:26+00:00
-
- ## 중국 상하이-상하이 국제 서비스
- - [https://korean.shanghai.gov.cn](https://korean.shanghai.gov.cn)
- - date_published: 2024-09-09T09:23:26+00:00
-
- ## "中国上海"政务邮箱
- - [https://mail.shanghai.gov.cn](https://mail.shanghai.gov.cn)
- - date_published: 2024-09-09T14:58:46.530032+00:00
-
- ## Xangai, China-Serviços internacionais de Xangai
- - [https://portuguese.shanghai.gov.cn](https://portuguese.shanghai.gov.cn)
- - date_published: 2024-09-06T07:39:01+00:00
-
- ## Шанхай, Китай-Международный сервис Шанхая
- - [https://russian.shanghai.gov.cn](https://russian.shanghai.gov.cn)
- - date_published: 2024-09-09T09:46:30+00:00
-
- ## 上海市人民政府
- - [https://shanghai.gov.cn](https://shanghai.gov.cn)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## SHANGHAI CHINA-Servicios Internacionales de Shanghai
- - [https://spanish.shanghai.gov.cn](https://spanish.shanghai.gov.cn)
- - date_published: 2024-09-09T13:35:23+00:00
-
- ## Welcome To Shantou
- - [https://english.shantou.gov.cn](https://english.shantou.gov.cn)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## 中国扫黄打非网
- - [https://www.shdf.gov.cn](https://www.shdf.gov.cn)
- - date_published: 2024-06-25T03:08:23+00:00
-
- ## 沈阳市发展和改革委员会
- - [http://fgw.shenyang.gov.cn](http://fgw.shenyang.gov.cn)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## 沈阳市人民政府外事办公室
- - [http://wb.shenyang.gov.cn](http://wb.shenyang.gov.cn)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## 沈阳市人民政府
- - [http://www.shenyang.gov.cn](http://www.shenyang.gov.cn)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Shanghai Sheshan National Tourist Resort
- - [http://en.sheshantravel.gov.cn](http://en.sheshantravel.gov.cn)
- - date_published: 2024-05-09T06:04:25.645750+00:00
-
- ## 上海佘山国家旅游度假区
- - [http://www.sheshantravel.gov.cn](http://www.sheshantravel.gov.cn)
- - date_published: 2024-07-09T18:21:16.547929+00:00
-
- ## 上海市机关党建
- - [http://www.shjgdj.gov.cn](http://www.shjgdj.gov.cn)
- - date_published: 2024-06-30T15:03:29.838181+00:00
-
- ## 中共上海市纪律检查委员会 上海市监察委员会
- - [https://www.shjjjc.gov.cn](https://www.shjjjc.gov.cn)
- - date_published: 2024-06-30T13:53:35.639769+00:00
-
- ## 上海政协
- - [http://www.shszx.gov.cn](http://www.shszx.gov.cn)
- - date_published: 2024-06-30T23:09:58.607250+00:00
-
- ## 四川长安网-四川政法综治门户网站
- - [http://www.sichuanpeace.gov.cn](http://www.sichuanpeace.gov.cn)
- - date_published: 2024-07-03T03:27:13+00:00
-
- ## 三明市财政局
- - [http://cz.sm.gov.cn](http://cz.sm.gov.cn)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## 三明市发展和改革委员会
- - [http://fgw.sm.gov.cn](http://fgw.sm.gov.cn)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## 三明市公安局
- - [http://gaj.sm.gov.cn](http://gaj.sm.gov.cn)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## 三明市市场监督管理局
- - [http://gsj.sm.gov.cn](http://gsj.sm.gov.cn)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## 三明市交通运输局
- - [http://jtj.sm.gov.cn](http://jtj.sm.gov.cn)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## 三明市工业和信息化局
- - [http://jxw.sm.gov.cn](http://jxw.sm.gov.cn)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## 三明市民政局
- - [http://mzj.sm.gov.cn](http://mzj.sm.gov.cn)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## 三明市国防动员办公室
- - [http://rfb.sm.gov.cn](http://rfb.sm.gov.cn)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## 三明市人力资源和社会保障局
- - [http://rsj.sm.gov.cn](http://rsj.sm.gov.cn)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## 三明市生态环境局
- - [http://shb.sm.gov.cn](http://shb.sm.gov.cn)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## 三明市审计局
- - [http://sjj.sm.gov.cn](http://sjj.sm.gov.cn)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## 三明市教育局
- - [http://smjy.sm.gov.cn](http://smjy.sm.gov.cn)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## 三明市科学技术局
- - [http://smkj.sm.gov.cn](http://smkj.sm.gov.cn)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## 三明市民族与宗教事务局
- - [http://smmz.sm.gov.cn](http://smmz.sm.gov.cn)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## 三明市应急管理局
- - [http://smsajj.sm.gov.cn](http://smsajj.sm.gov.cn)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## 三明市司法局
- - [http://smsfj.sm.gov.cn](http://smsfj.sm.gov.cn)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## 三明市国资委
- - [http://smsgzw.sm.gov.cn](http://smsgzw.sm.gov.cn)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## 三明水利信息网
- - [http://smsl.sm.gov.cn](http://smsl.sm.gov.cn)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## 三明市农业农村局
- - [http://smsnyj.sm.gov.cn](http://smsnyj.sm.gov.cn)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## 三明市体育局
- - [http://smstyj.sm.gov.cn](http://smstyj.sm.gov.cn)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## 三明市政务服务中心
- - [http://smzwzx.sm.gov.cn](http://smzwzx.sm.gov.cn)
- - date_published: 2024-07-17T07:33:08+00:00
-
- ## 三明市商务局
- - [http://swj.sm.gov.cn](http://swj.sm.gov.cn)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## 三明市统计局
- - [http://tjj.sm.gov.cn](http://tjj.sm.gov.cn)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## 三明市卫生健康委员会
- - [http://wjw.sm.gov.cn](http://wjw.sm.gov.cn)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## 三明市文化和旅游局
- - [http://wlj.sm.gov.cn](http://wlj.sm.gov.cn)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## 三明市人民政府门户网站
- - [https://www.sm.gov.cn](https://www.sm.gov.cn)
- - date_published: 2024-05-13T03:25:30.281387+00:00
-
- ## 数据分析
- - [https://yhxwfx.sm.gov.cn](https://yhxwfx.sm.gov.cn)
- - date_published: 2024-05-30T03:36:27+00:00
-
- ## 三明市住房和城乡建设局
- - [http://zjj.sm.gov.cn](http://zjj.sm.gov.cn)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## 三明市自然资源局
- - [http://zrzyj.sm.gov.cn](http://zrzyj.sm.gov.cn)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## 三明市纪委监委门户网站
- - [http://www.smcdi.gov.cn](http://www.smcdi.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 三明机关党建网站
- - [https://www.smjgdj.gov.cn](https://www.smjgdj.gov.cn)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## 三明人大
- - [http://www.smrd.gov.cn](http://www.smrd.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 三元区人民政府门户网站
- - [http://www.smsy.gov.cn](http://www.smsy.gov.cn)
- - date_published: 2024-07-17T09:44:11.401331+00:00
-
- ## 三明市政协
- - [http://www.smszx.gov.cn](http://www.smszx.gov.cn)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## 三门峡市人民政府
- - [http://www.smx.gov.cn](http://www.smx.gov.cn)
- - date_published: 2024-06-28T00:41:28+00:00
-
- ## 安徽省邮政管理局
- - [http://ah.spb.gov.cn](http://ah.spb.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 北京市邮政管理局
- - [http://bj.spb.gov.cn](http://bj.spb.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 重庆市邮政管理局
- - [http://cq.spb.gov.cn](http://cq.spb.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 福建省邮政管理局
- - [http://fj.spb.gov.cn](http://fj.spb.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 广东省邮政管理局
- - [http://gd.spb.gov.cn](http://gd.spb.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 甘肃省邮政管理局
- - [http://gs.spb.gov.cn](http://gs.spb.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 广西壮族自治区邮政管理局
- - [http://gx.spb.gov.cn](http://gx.spb.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 贵州省邮政管理局
- - [http://gz.spb.gov.cn](http://gz.spb.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 河南省邮政管理局
- - [http://ha.spb.gov.cn](http://ha.spb.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
 

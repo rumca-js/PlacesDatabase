@@ -1,3 +1,132 @@
+ ## LINAK: tecnologia negli attuatori lineari elettrici
+ - [https://www.it.linak.ch](https://www.it.linak.ch)
+ - date_published: 2024-09-05T21:34:10.196816+00:00
+
+ ## LINAK – Elektrische Linearantriebssysteme, die für Bewegung sorgen
+ - [https://www.linak.ch](https://www.linak.ch)
+ - date_published: 2024-09-05T21:36:16.065396+00:00
+
+ ## Functionality Testing Of Autonomous Systems | Lina | Dübendorf
+ - [https://www.lina-switzerland.ch](https://www.lina-switzerland.ch)
+ - date_published: 2024-06-19T07:41:25.297756+00:00
+ - tags: ['autonomous systems', 'autonomous vehicles']
+
+ ## Lindt Schokolade seit 1845 | Lindt CH
+ - [https://www.lindt.ch](https://www.lindt.ch)
+ - date_published: 2024-07-14T16:43:09.688572+00:00
+
+ ## YouGov Schweiz
+ - [https://link.ch](https://link.ch)
+ - date_published: 2024-05-10T05:11:44.825406+00:00
+
+ ## Linux Tipps – Linux Tutorials, Tipps und Tricks
+ - [https://linuxtipps.ch](https://linuxtipps.ch)
+ - date_published: 2022-11-13T00:00:00+00:00
+
+ ## list24.ch
+ - [https://list24.ch](https://list24.ch)
+ - date_published: 2024-05-16T02:46:03.115275+00:00
+
+ ## Liste Expedition
+ - [https://expedition.liste.ch](https://expedition.liste.ch)
+ - date_published: 2024-07-24T04:31:22.377174+00:00
+
+ ## Willkommen - Liste Art Fair Basel
+ - [https://liste.ch](https://liste.ch)
+ - date_published: 2024-04-29T06:49:33.994358+00:00
+
+ ## Liste Showtime
+ - [https://showtime.liste.ch](https://showtime.liste.ch)
+ - date_published: 2024-07-24T04:31:13.022676+00:00
+
+ ## Litecom AG – Ihr Full-Service-Provider
+ - [https://litecom.ch](https://litecom.ch)
+ - date_published: 2024-07-21T06:18:54.740451+00:00
+
+ ## Glasfaser-Anschluss für Privatpersonen
+ - [https://litexchange.ch](https://litexchange.ch)
+ - date_published: 2024-04-30T06:00:32.686394+00:00
+
+ ## Ticketcorner Live Club
+ - [https://www.live-club.ch](https://www.live-club.ch)
+ - date_published: 2024-07-20T14:53:27.917420+00:00
+
+ ## io.livecode.ch
+ - [http://io.livecode.ch](http://io.livecode.ch)
+ - date_published: 2024-07-07T05:27:05.070711+00:00
+
+ ## Livit AG - Real Estate Management
+ - [https://www.livit.ch](https://www.livit.ch)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Legacy Launcher for Minecraft
+ - [https://llaun.ch](https://llaun.ch)
+ - date_published: 2024-11-14T08:35:38.468345+00:00
+
+ ## git.LMAO.ch
+ - [https://git.lmao.ch](https://git.lmao.ch)
+ - date_published: 2024-07-10T06:15:20.255587+00:00
+
+ ## Home - Ludovic Mermod
+ - [https://lmermod.ch](https://lmermod.ch)
+ - date_published: 2024-04-30T06:02:15.274945+00:00
+
+ ## local.ch – the booking platform for Switzerland
+ - [https://www.local.ch](https://www.local.ch)
+ - date_published: 2024-09-26T18:16:05.203567+00:00
+
+ ## Home - Localcities
+ - [https://www.localcities.ch](https://www.localcities.ch)
+ - date_published: 2024-09-05T16:26:02.145552+00:00
+
+ ## Kundencenter | localsearch
+ - [https://cc.localsearch.ch](https://cc.localsearch.ch)
+ - date_published: 2023-09-06T16:25:59+00:00
+
+ ## Erfolg für KMU in der digitalen Welt - localsearch
+ - [https://www.localsearch.ch](https://www.localsearch.ch)
+ - date_published: 2023-11-20T13:32:20+00:00
+
+ ## Hof Lochstadol Staldenried • Bergbauernhof Familie Hitz
+ - [https://lochstadol.ch](https://lochstadol.ch)
+ - date_published: 2024-07-10T07:44:57.518373+00:00
+
+ ## L'Officiel Schweiz/Suisse
+ - [https://www.lofficiel.ch](https://www.lofficiel.ch)
+ - date_published: 2024-09-16T09:58:59.480076+00:00
+
+ ## LONGLAKE
+ - [https://longlake.ch](https://longlake.ch)
+ - date_published: 2024-07-15T12:25:46.904605+00:00
+
+ ## Offres d'emploi | Loterie Romande
+ - [https://job.loro.ch](https://job.loro.ch)
+ - date_published: 2024-07-21T06:27:04.813732+00:00
+
+ ## Page d'accueil | Loterie Romande
+ - [https://loro.ch](https://loro.ch)
+ - date_published: 2024-04-30T06:00:04.024684+00:00
+
+ ## Rapport annuel 2023 de la Loterie Romande
+ - [https://ra.loro.ch](https://ra.loro.ch)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Partnersuche | Schweizer Singles finden mit LoveScout24
+ - [https://www.lovescout24.ch](https://www.lovescout24.ch)
+ - date_published: 2024-09-04T11:50:05.532785+00:00
+
+ ## LS Partner – Patentanwaltskanzlei in Basel
+ - [https://www.lspartner.ch](https://www.lspartner.ch)
+ - date_published: 2024-06-19T15:39:44.293177+00:00
+
+ ## home
+ - [https://luck-cbs.ch](https://luck-cbs.ch)
+ - date_published: 2024-06-17T15:59:02+00:00
+
+ ## Home - Lugano's Plan ₿
+ - [https://planb.lugano.ch](https://planb.lugano.ch)
+ - date_published: 2024-09-04T00:00:00+00:00
+
  ## Home page - Lugano Eventi
  - [https://luganoeventi.ch](https://luganoeventi.ch)
  - date_published: 2024-05-12T00:00:00+00:00
@@ -564,6 +693,10 @@
  ## Neuchâtel International Fantastic Film Festival
  - [https://nifff.ch](https://nifff.ch)
  - date_published: 2024-10-17T22:13:38.491786+00:00
+
+ ## Braun Publishing AG Niggli Verlag - Schweizer Fachbuchverlag
+ - [http://www.niggli.ch](http://www.niggli.ch)
+ - date_published: 2020-11-30T10:39:25+00:00
 
  ## Nils Mango - Creating things & eliminating errors.
  - [https://nilsmango.ch](https://nilsmango.ch)
@@ -3884,136 +4017,4 @@ Fakultät | Universität Basel
  ## watson - News ohne Bla Bla
  - [https://www.watson.ch](https://www.watson.ch)
  - date_published: 2024-07-11T10:32:39.437956+00:00
-
- ## werk, bauen+wohnen
- - [https://www.wbw.ch](https://www.wbw.ch)
- - date_published: 2024-08-06T17:31:15.751359+00:00
-
- ## Mailweaver™ v3.4 - Login
- - [https://mw.weaver.ch](https://mw.weaver.ch)
- - date_published: 2024-06-16T06:49:56.496993+00:00
-
- ## Webseiten & Apps mit Pfiff | webfolio gmbh
- - [https://webfolio.ch](https://webfolio.ch)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Hackteria
- - [http://wlu18www30.webland.ch](http://wlu18www30.webland.ch)
- - date_published: 2024-07-09T08:53:32.531945+00:00
-
- ## Digital marketing agency | Webrepublic
- - [https://webrepublic.ch](https://webrepublic.ch)
- - date_published: 2024-06-14T15:19:11.083577+00:00
-
- ## ASTARA | Abarth CH
- - [https://www.webstore-abarth.ch](https://www.webstore-abarth.ch)
- - date_published: 2024-10-28T20:57:04.596375+00:00
-
- ## ASTARA | Alfa Romeo CH
- - [https://www.webstore-alfaromeo.ch](https://www.webstore-alfaromeo.ch)
- - date_published: 2024-10-28T22:15:53.529705+00:00
-
- ## ASTARA | Fiat Switzerland
- - [https://www.webstore-fiat.ch](https://www.webstore-fiat.ch)
- - date_published: 2024-10-28T19:36:51.656917+00:00
-
- ## ASTARA | Jeep CH
- - [https://www.webstore-jeep.ch](https://www.webstore-jeep.ch)
- - date_published: 2024-10-28T16:39:05.260759+00:00
-
- ## Webwiki.ch - Die Website Suche mit Bewertungen für die Schweiz
- - [https://www.webwiki.ch](https://www.webwiki.ch)
- - date_published: 2024-06-29T16:56:12.622214+00:00
-
- ## Software ERP & CRM für smartes Teamwork | weclapp
- - [https://www.weclapp.ch](https://www.weclapp.ch)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## WEKA AG
- - [https://weka-ag.ch](https://weka-ag.ch)
- - date_published: 2024-07-24T07:28:50.332269+00:00
-
- ## Festival
- - [https://weltformat-festival.ch](https://weltformat-festival.ch)
- - date_published: 2024-10-29T13:48:45.555964+00:00
-
- ## wemfbox.ch
- - [https://finan-ssl.wemfbox.ch](https://finan-ssl.wemfbox.ch)
- - date_published: 2024-07-03T20:39:16.964605+00:00
-
- ## wemfbox.ch
- - [https://tvai-ssl.wemfbox.ch](https://tvai-ssl.wemfbox.ch)
- - date_published: 2024-09-26T18:16:30.210290+00:00
-
- ## Handballshop | Dein Online-Experte - weplayhandball.ch
- - [https://www.weplayhandball.ch](https://www.weplayhandball.ch)
- - date_published: 2024-12-10T20:00:46.553708+00:00
-
- ## Ihr Möbel & Interior Online-Shop | Westwing.ch
- - [https://www.westwing.ch](https://www.westwing.ch)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Wetter aktuell, Wettervorhersage und Wetterbericht - WetterOnline
- - [https://www.wetteronline.ch](https://www.wetteronline.ch)
- - date_published: 2024-06-29T16:37:21.067537+00:00
-
- ## ▶ ▷ Agence communication digitale Genève - WIDE | Switzerland
- - [https://www.wideagency.ch](https://www.wideagency.ch)
- - date_published: 2024-08-07T08:47:30+00:00
-
- ## Widewalls | Modern & Contemporary Art Resource
- - [https://www.widewalls.ch](https://www.widewalls.ch)
- - date_published: 2024-10-22T06:05:22.122904+00:00
-
- ## Wikimedia CH - Donate
- - [https://donate.wikimedia.ch](https://donate.wikimedia.ch)
- - date_published: 2024-05-29T12:53:04+00:00
-
- ## Home - Wikimedia
- - [https://wikimedia.ch](https://wikimedia.ch)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Wilhelm AG: Personalberatung, Assessment und Outplacement
- - [http://www.wilhelm.ch](http://www.wilhelm.ch)
- - date_published: 2024-07-21T05:48:59.773848+00:00
-
- ## Winbiz
- - [https://www.winbiz.ch](https://www.winbiz.ch)
- - date_published: 2024-07-21T05:38:28.724934+00:00
-
- ## Wincasa
- - [https://www.wincasa.ch](https://www.wincasa.ch)
- - date_published: 2024-06-28T14:35:48.431557+00:00
-
- ## Schweizer Blasmusikverband SBV | ASM | ABS | USM
- - [https://www.windband.ch](https://www.windband.ch)
- - date_published: 2024-10-31T04:48:28+00:00
-
- ## Wings Foundation
- - [https://wingsfoundation.ch](https://wingsfoundation.ch)
- - date_published: 2021-04-21T00:00:00+00:00
-
- ## Winterkongress 2024
- - [https://winterkongress.ch](https://winterkongress.ch)
- - date_published: 2024-07-24T16:25:16.730291+00:00
-
- ## Stadt Winterthur
- - [https://jobs.winterthur.ch](https://jobs.winterthur.ch)
- - date_published: 2024-07-21T05:48:28.395204+00:00
-
- ## Stadt Winterthur
- - [https://stadt.winterthur.ch](https://stadt.winterthur.ch)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Innovation Zurich | Vernetzung, Orientierung und Neuigkeiten
- - [http://www.wir-arbeiten-fuer-sie.ch](http://www.wir-arbeiten-fuer-sie.ch)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## WITTENSTEIN Schweiz
- - [https://www.wittenstein.ch](https://www.wittenstein.ch)
- - date_published: 2024-07-15T04:10:02.626844+00:00
-
- ## Witt - Ihr Online Shop für Damenmode & Wäsche
- - [https://www.witt-weiden.ch](https://www.witt-weiden.ch)
- - date_published: 2024-12-10T20:59:30.232440+00:00
 

@@ -1,3 +1,19 @@
+ ## The speed and accuracy of AI. Now applied to visual assessment.
+ - [https://tractable.ai](https://tractable.ai)
+ - date_published: 2024-07-09T21:19:41.237395+00:00
+
+ ## Train Fitness - Automatic Exercise Tracking
+ - [https://trainfitness.ai](https://trainfitness.ai)
+ - date_published: 2024-12-15T07:20:36.830792+00:00
+
+ ## Train Fitness - Automatic Exercise Tracking
+ - [http://www.trainfitness.ai](http://www.trainfitness.ai)
+ - date_published: 2024-12-15T07:20:26.179603+00:00
+
+ ## Trainy
+ - [https://trainy.ai](https://trainy.ai)
+ - date_published: 2024-08-22T22:12:43.231520+00:00
+
  ## Transformer | Shakeel Hashim | Substack
  - [https://www.transformernews.ai](https://www.transformernews.ai)
  - date_published: 2024-07-15T00:00:00+00:00
@@ -3221,6 +3237,10 @@ Creative Solutions
  - [https://docs.allquiet.app](https://docs.allquiet.app)
  - date_published: 2024-08-19T11:57:27.392081+00:00
 
+ ## Set up your bitcoin life - AmberApp
+ - [https://amber.app](https://amber.app)
+ - date_published: 2022-05-06T10:46:30+00:00
+
  ## Show HN: Ambulate – Detailed Trip Planning
  - [https://ambulate.app](https://ambulate.app)
  - date_published: 2024-10-22T12:19:43+00:00
@@ -3507,6 +3527,10 @@ Creative Solutions
  ## bigWav.app - Free audio transcription | Private audio transcription & annotation
  - [https://bigwav.app](https://bigwav.app)
  - date_published: 2023-04-07T14:09:04+00:00
+
+ ## Expert Buffer Designer
+ - [https://bioprocess-tools.app](https://bioprocess-tools.app)
+ - date_published: 2024-07-06T14:43:31+00:00
 
  ## Sign in
  - [https://btcpayserver.bitcoinjungle.app](https://btcpayserver.bitcoinjungle.app)
@@ -3997,29 +4021,4 @@ Creative Solutions
  ## Developers Community and Resources | Commerce Layer
  - [https://slack.commercelayer.app](https://slack.commercelayer.app)
  - date_published: 2024-01-30T00:00:00+00:00
-
- ## Create New Certificate | Commited Marketplace
- - [https://corendon.commited.app](https://corendon.commited.app)
- - date_published: 2025-01-09T02:17:34.720420+00:00
-
- ## COMP/CON
- - [https://compcon.app](https://compcon.app)
- - date_published: 2024-10-31T19:15:48.044512+00:00
-
- ## Monitor Competitors' Marketing Strategy with AI - Competitors App
- - [https://competitors.app](https://competitors.app)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Show HN: CompressX, my FFmpeg wrapper for macOS, made $9k in the last 4 months
- - [https://compressx.app](https://compressx.app)
- - date_published: 2024-04-10T06:32:18+00:00
- - tags: ['propietary', 'monetization']
-
- ## Welcome to CompressX | CompressX Documentation
- - [https://docs.compressx.app](https://docs.compressx.app)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Comun - checking account, VISA debit card, remittances
- - [https://en.comun.app](https://en.comun.app)
- - date_published: 2024-10-08T00:00:00+00:00
 
