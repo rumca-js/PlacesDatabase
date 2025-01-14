@@ -1,3 +1,7 @@
+ ## Paxton is your Legal AI Assistant | Paxton
+ - [https://www.paxton.ai](https://www.paxton.ai)
+ - date_published: 2024-10-30T07:17:03+00:00
+
  ## PDF.ai | Chat with your PDF documents
  - [https://pdf.ai](https://pdf.ai)
  - date_published: 2024-06-19T19:35:49.500635+00:00
@@ -4045,8 +4049,4 @@
  ## Brand Protection Software | Anti-Counterfeit Technology
  - [https://www.tracer.ai](https://www.tracer.ai)
  - date_published: 2024-05-13T00:00:00+00:00
-
- ## Tracksy - Worlds Leading AI Music Assistant.
- - [https://tracksy.ai](https://tracksy.ai)
- - date_published: 2024-06-19T18:53:33.387046+00:00
 

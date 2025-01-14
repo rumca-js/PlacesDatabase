@@ -2,6 +2,11 @@
  - [https://2.4.22](https://2.4.22)
  - date_published: 2024-07-21T16:10:43.667854+00:00
 
+ ## Disco Elysium Explorer
+ - [http://134.0.119.41](http://134.0.119.41)
+ - date_published: 2025-01-13T08:31:47+00:00
+ - tags: ['disco elysium']
+
  ## ABB Group. Leading digital technologies for industry
  - [https://global.abb](https://global.abb)
  - date_published: 2024-07-01T08:13:31+00:00
@@ -4014,8 +4019,4 @@
  ## RevOps Masterclass by BoostUp
  - [https://masterclass.boostup.ai](https://masterclass.boostup.ai)
  - date_published: 2024-10-30T18:38:54.430350+00:00
-
- ## Booth AI - Custom AI at Your Fingertips
- - [https://booth.ai](https://booth.ai)
- - date_published: 2024-06-19T00:00:00+00:00
 

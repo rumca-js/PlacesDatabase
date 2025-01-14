@@ -1,3 +1,19 @@
+ ## Kidz Fun Art - Make drawing fun
+ - [https://kidzfun.art](https://kidzfun.art)
+ - date_published: 2024-05-07T15:41:07.994191+00:00
+
+ ## Kreyda | UX/UI design & development
+ - [https://www.kreyda.art](https://www.kreyda.art)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Kuliszu Art
+ - [https://www.kuliszu.art](https://www.kuliszu.art)
+ - date_published: 2024-12-04T10:59:53.724062+00:00
+
+ ## Laboratoria.art
+ - [https://laboratoria.art](https://laboratoria.art)
+ - date_published: 2024-05-06T22:12:16.517408+00:00
+
  ## LA ESCUELA___
  - [https://laescuela.art](https://laescuela.art)
  - date_published: 2024-09-12T13:32:23.301604+00:00
@@ -4017,21 +4033,4 @@ October 2024 in Singapore
  ## re:use - Altes neu interpretieren
  - [https://materialnomaden.at](https://materialnomaden.at)
  - date_published: 2024-05-25T00:00:00+00:00
-
- ## Home - Manuel Matuzovic
- - [https://matuzo.at](https://matuzo.at)
- - date_published: 2024-01-05T10:25:13.748351+00:00
- - tags: ['personal']
-
- ## Home - Med Austron
- - [https://medaustron.at](https://medaustron.at)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Promedia Verlag
- - [http://www.mediashop.at](http://www.mediashop.at)
- - date_published: 2024-12-10T17:27:39.008563+00:00
-
- ## Campus Mariannengasse | MedUni Wien
- - [https://medunicampus-mariannengasse.at](https://medunicampus-mariannengasse.at)
- - date_published: 2024-07-09T20:12:53.450847+00:00
 

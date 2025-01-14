@@ -1,3 +1,31 @@
+ ## User Login
+ - [https://horizon.mcgill.ca](https://horizon.mcgill.ca)
+ - date_published: 2024-09-06T21:13:21.154338+00:00
+
+ ## OpenPhylo
+ - [http://kovik.cs.mcgill.ca](http://kovik.cs.mcgill.ca)
+ - date_published: 2022-09-15T20:55:49+00:00
+
+ ## Computer Science Webmail :: Welcome to Computer Science Webmail
+ - [http://mail.cs.mcgill.ca](http://mail.cs.mcgill.ca)
+ - date_published: 2024-08-19T10:55:19+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [https://math.mcgill.ca](https://math.mcgill.ca)
+ - date_published: 2023-10-25T11:21:45.075447+00:00
+
+ ## McGill University
+ - [http://mcgill.ca](http://mcgill.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## myCourses - McGill University Online Courses
+ - [https://mycourses2.mcgill.ca](https://mycourses2.mcgill.ca)
+ - date_published: 2020-01-15T15:05:27+00:00
+
+ ## Incomplete Web Address
+ - [https://nimbus-ssl.mcgill.ca](https://nimbus-ssl.mcgill.ca)
+ - date_published: 2020-01-03T23:22:42+00:00
+
  ## Phylo DNA Puzzle
  - [https://phylo.cs.mcgill.ca](https://phylo.cs.mcgill.ca)
  - date_published: 2024-05-06T23:01:07+00:00
@@ -4016,32 +4044,4 @@
  ## SurveyMonkey: The World’s Most Popular Free Online Survey Tool
  - [https://www.surveymonkey.ca](https://www.surveymonkey.ca)
  - date_published: 2024-06-16T15:46:16.894915+00:00
-
- ## Home - Sustainable Canada Dialogues – Sustainability, viability
- - [http://www.sustainablecanadadialogues.ca](http://www.sustainablecanadadialogues.ca)
- - date_published: 2025-01-01T17:10:18+00:00
-
- ## Fathom Analytics: A Better Google Analytics Alternative
- - [https://compass.swordandsource.ca](https://compass.swordandsource.ca)
- - date_published: 2024-06-14T13:42:57+00:00
-
- ## Sword & Source
- - [https://swordandsource.ca](https://swordandsource.ca)
- - date_published: 2024-05-01T02:26:09.696203+00:00
-
- ## Syngenta Canada
- - [https://www.syngenta.ca](https://www.syngenta.ca)
- - date_published: 2024-10-31T10:15:43.761408+00:00
-
- ## Marco Tabini's Blog · Marco Tabini's Blog
- - [https://blog.tabini.ca](https://blog.tabini.ca)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Tamarack Institute | Empowering Change in Canada & Beyond
- - [https://www.tamarackcommunity.ca](https://www.tamarackcommunity.ca)
- - date_published: 2024-09-12T16:17:12+00:00
-
- ## Personal Banking | Tangerine
- - [https://tangerine.ca](https://tangerine.ca)
- - date_published: 2024-01-17T00:00:00+00:00
 

@@ -1,3 +1,31 @@
+ ## Okotoks Local News
+ - [https://westernwheel.ca](https://westernwheel.ca)
+ - date_published: 2024-04-28T05:09:49.792079+00:00
+
+ ## Homepage
+ - [https://www.westkelownacity.ca](https://www.westkelownacity.ca)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Member365
+ - [https://members.wfim.ca](https://members.wfim.ca)
+ - date_published: 2024-06-16T17:26:08+00:00
+
+ ## Home Page - Women in Food Industry Management
+ - [https://wfim.ca](https://wfim.ca)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Discover WFN - Westbank First Nation
+ - [https://www.wfn.ca](https://www.wfn.ca)
+ - date_published: 2024-08-18T12:20:09.798107+00:00
+
+ ## Whatbox - App hosting
+ - [https://whatbox.ca](https://whatbox.ca)
+ - date_published: 2024-05-01T02:10:40.450221+00:00
+
+ ## Which Mortgage - Find the Best Home Loan in Canada
+ - [http://www.whichmortgage.ca](http://www.whichmortgage.ca)
+ - date_published: 2024-12-22T22:54:56.946613+00:00
+
  ## EVC Viewing Tool | WiiLink
  - [https://evc.wiilink.ca](https://evc.wiilink.ca)
  - date_published: 2024-08-19T16:18:37+00:00
@@ -3985,33 +4013,5 @@
 
  ## dict.cc | German-Hungarian dictionary | Német-magyar szótár
  - [https://dehu.dict.cc](https://dehu.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Icelandic dictionary | þýsk-íslensk orðabók
- - [https://deis.dict.cc](https://deis.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Italian dictionary | Dizionario tedesco-italiano
- - [https://deit.dict.cc](https://deit.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Latin dictionary | Dictionarium latino-germanicum
- - [https://dela.dict.cc](https://dela.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Dutch dictionary | Duits-Nederlands woordenboek
- - [https://denl.dict.cc](https://denl.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Norwegian dictionary | Tysk-norsk (Bokmål) ordbok
- - [https://deno.dict.cc](https://deno.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Polish dictionary | Słownik polsko-niemiecki
- - [https://depl.dict.cc](https://depl.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Portuguese dictionary | Dicionário Alemão-Português
- - [https://dept.dict.cc](https://dept.dict.cc)
  - date_published: 2024-07-09T00:00:00+00:00
 

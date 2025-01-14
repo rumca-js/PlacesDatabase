@@ -1,3 +1,31 @@
+ ## mid-guia.curitiba.pr.gov.br - /
+ - [https://mid-guia.curitiba.pr.gov.br](https://mid-guia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:43.588967+00:00
+
+ ## mid-servidor.curitiba.pr.gov.br - /
+ - [https://mid-servidor.curitiba.pr.gov.br](https://mid-servidor.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:19:55.374914+00:00
+
+ ## Turismo - Prefeitura de Curitiba
+ - [https://mid-turismo.curitiba.pr.gov.br](https://mid-turismo.curitiba.pr.gov.br)
+ - date_published: 2014-11-03T12:35:14+00:00
+
+ ## Orçamento e Planejamento
+ - [https://orcamentos.curitiba.pr.gov.br](https://orcamentos.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:01.327323+00:00
+
+ ## Portal dos Conselhos
+ - [https://portaldosconselhos.curitiba.pr.gov.br](https://portaldosconselhos.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:05.549511+00:00
+
+ ## Secretaria Municipal da Saúde de Curitiba
+ - [https://saude.curitiba.pr.gov.br](https://saude.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:26:45.599666+00:00
+
+ ## Saúde Já Curitiba - Prefeitura de Curitiba
+ - [https://saudeja.curitiba.pr.gov.br](https://saudeja.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:27:14.080221+00:00
+
  ## Portal do Servidor de Curitiba
  - [https://servidor.curitiba.pr.gov.br](https://servidor.curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:57.625983+00:00
@@ -3988,32 +4016,4 @@
  ## Top 5 Top 5 Toronto Cleaning for 2020 | Cleaning.ca Plumbers and Plumbing Contractors for 2020 | Cleaning.ca
  - [http://www.cleaning.ca](http://www.cleaning.ca)
  - date_published: 2024-04-03T00:00:00+00:00
-
- ## Clean Technology Canada -
- - [https://www.cleantechnology.ca](https://www.cleantechnology.ca)
- - date_published: 2024-10-02T00:00:00+00:00
-
- ## Canada's #1 Glasses and Contact Lenses Store | Clearly
- - [https://clearly.ca](https://clearly.ca)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Learn about the Climate Change discussion | Climate Change 101
- - [https://climatechange101.ca](https://climatechange101.ca)
- - date_published: 2024-06-15T09:05:08.951304+00:00
-
- ## Digital Farming decisions and insights to maximize every acre
- - [https://climatefieldview.ca](https://climatefieldview.ca)
- - date_published: 2024-10-22T21:34:15.576202+00:00
-
- ## Canadian Climate Institute: Climate Change Canada Policy Research
- - [https://climateinstitute.ca](https://climateinstitute.ca)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Who are we? - Climate Realists of British Columbia
- - [https://climaterealists.ca](https://climaterealists.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Clin d'œil | Accueil
- - [https://www.clindoeil.ca](https://www.clindoeil.ca)
- - date_published: 2024-08-19T08:10:55.910858+00:00
 

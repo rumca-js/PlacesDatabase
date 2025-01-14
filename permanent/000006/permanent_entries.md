@@ -1,3 +1,7 @@
+ ## Conway’s Game of Life
+ - [https://segdelife.netlify.app](https://segdelife.netlify.app)
+ - date_published: 2024-09-03T22:13:21.726299+00:00
+
  ## Hospitality & Restaurant Marketing & Operations Software | SevenRooms
  - [https://sevenrooms-marketing-site.netlify.app](https://sevenrooms-marketing-site.netlify.app)
  - date_published: 2024-06-30T12:09:50.860955+00:00
@@ -1761,6 +1765,10 @@ The Album
  ## ryu.app
  - [https://ryu.app](https://ryu.app)
  - date_published: 2024-12-12T11:36:38.356209+00:00
+
+ ## S3Drive - Zero Knowledge E2E Encrypted Storage
+ - [https://s3drive.app](https://s3drive.app)
+ - date_published: 2025-01-13T10:43:05.502645+00:00
 
  ## Sales & Dungeons
  - [https://sales-and-dungeons.app](https://sales-and-dungeons.app)
@@ -4022,12 +4030,4 @@ The Album
  ## Real-World Democracy Education
  - [https://generationcitizen-prod.vercel.app](https://generationcitizen-prod.vercel.app)
  - date_published: 2024-08-08T17:53:48.169339+00:00
-
- ## Geniea| It's Magic!
- - [https://geniea-supabase-next-426g3r1y3-theabsurdco-s-team.vercel.app](https://geniea-supabase-next-426g3r1y3-theabsurdco-s-team.vercel.app)
- - date_published: 2024-10-30T09:43:39.113410+00:00
-
- ## getavatar.vercel.app: Get unified user gvatar from Twitter, GitHub, Intagram, Reddit, etc.
- - [https://getavatar.vercel.app](https://getavatar.vercel.app)
- - date_published: 2018-10-20T01:46:40+00:00
 

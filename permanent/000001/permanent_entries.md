@@ -1,3 +1,7 @@
+ ## Booth AI - Custom AI at Your Fingertips
+ - [https://booth.ai](https://booth.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
  ## Bosun
  - [https://bosun.ai](https://bosun.ai)
  - date_published: 2025-01-10T19:01:36+00:00
@@ -4013,8 +4017,4 @@ Welcome
  ## H2O.ai - GenAI - Sign In
  - [https://id.public.h2o.ai](https://id.public.h2o.ai)
  - date_published: 2024-09-14T07:45:24.517216+00:00
-
- ## H2O.ai Cloud's Status page Powered by Freshstatus | Live status
- - [https://status.cloud.h2o.ai](https://status.cloud.h2o.ai)
- - date_published: 2024-09-14T07:45:16.024502+00:00
 

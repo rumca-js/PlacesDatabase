@@ -1,3 +1,7 @@
+ ## H2O.ai Cloud's Status page Powered by Freshstatus | Live status
+ - [https://status.cloud.h2o.ai](https://status.cloud.h2o.ai)
+ - date_published: 2024-09-14T07:45:16.024502+00:00
+
  ## Support
  - [https://support.h2o.ai](https://support.h2o.ai)
  - date_published: 2024-09-14T07:45:19.871839+00:00
@@ -4027,8 +4031,4 @@
  ## Paxo: AI meeting notes for the real world
  - [https://paxo.ai](https://paxo.ai)
  - date_published: 2023-09-22T00:00:00+00:00
-
- ## Paxton is your Legal AI Assistant | Paxton
- - [https://www.paxton.ai](https://www.paxton.ai)
- - date_published: 2024-10-30T07:17:03+00:00
 

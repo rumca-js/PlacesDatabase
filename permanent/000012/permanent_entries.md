@@ -1,3 +1,19 @@
+ ## SEEK - Australia's no. 1 jobs, employment, career and recruitment site
+ - [https://seek.com.au](https://seek.com.au)
+ - date_published: 2024-05-10T05:55:46.654296+00:00
+
+ ## SEEK Employer: Login & Find Talent
+ - [https://talent.seek.com.au](https://talent.seek.com.au)
+ - date_published: 2024-07-09T00:08:39+00:00
+
+ ## Employment Contracts | Know Your Rights
+ - [https://video.seek.com.au](https://video.seek.com.au)
+ - date_published: 2024-07-12T18:28:33.988151+00:00
+
+ ## SEEK Business - Business & Franchise for Sale
+ - [https://seekbusiness.com.au](https://seekbusiness.com.au)
+ - date_published: 2024-07-12T18:29:01.682163+00:00
+
  ## Superannuation
  - [https://www.selectingsuper.com.au](https://www.selectingsuper.com.au)
  - date_published: 2024-12-21T07:58:08.182576+00:00
@@ -3990,20 +4006,4 @@ University of Technology
  ## UQ Life
  - [https://life.uq.edu.au](https://life.uq.edu.au)
  - date_published: 2024-05-28T03:18:55.389803+00:00
-
- ## Marketing and Communication
- - [https://marketing-communication.uq.edu.au](https://marketing-communication.uq.edu.au)
- - date_published: 2024-09-02T15:52:39.763225+00:00
-
- ## Faculty of Medicine
- - [https://medicine.uq.edu.au](https://medicine.uq.edu.au)
- - date_published: 2024-09-02T15:49:08.018703+00:00
-
- ## Enter your username and password - The University of Queensland, Australia
- - [http://myaurion.hr.uq.edu.au](http://myaurion.hr.uq.edu.au)
- - date_published: 2024-07-13T18:27:15.182387+00:00
-
- ## my.UQ
- - [https://my.uq.edu.au](https://my.uq.edu.au)
- - date_published: 2024-05-11T08:09:44.909085+00:00
 

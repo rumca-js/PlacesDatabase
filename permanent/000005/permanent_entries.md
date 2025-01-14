@@ -1,3 +1,7 @@
+ ## Developers Community and Resources | Commerce Layer
+ - [https://slack.commercelayer.app](https://slack.commercelayer.app)
+ - date_published: 2024-01-30T00:00:00+00:00
+
  ## Create New Certificate | Commited Marketplace
  - [https://corendon.commited.app](https://corendon.commited.app)
  - date_published: 2025-01-09T02:17:34.720420+00:00
@@ -4029,8 +4033,4 @@
  ## San Diego Development
  - [https://sd-dev-list.netlify.app](https://sd-dev-list.netlify.app)
  - date_published: 2024-05-12T05:43:30.807301+00:00
-
- ## Conway’s Game of Life
- - [https://segdelife.netlify.app](https://segdelife.netlify.app)
- - date_published: 2024-09-03T22:13:21.726299+00:00
 

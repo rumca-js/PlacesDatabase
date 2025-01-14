@@ -1,3 +1,31 @@
+ ## dict.cc | German-Icelandic dictionary | þýsk-íslensk orðabók
+ - [https://deis.dict.cc](https://deis.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Italian dictionary | Dizionario tedesco-italiano
+ - [https://deit.dict.cc](https://deit.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Latin dictionary | Dictionarium latino-germanicum
+ - [https://dela.dict.cc](https://dela.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Dutch dictionary | Duits-Nederlands woordenboek
+ - [https://denl.dict.cc](https://denl.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Norwegian dictionary | Tysk-norsk (Bokmål) ordbok
+ - [https://deno.dict.cc](https://deno.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Polish dictionary | Słownik polsko-niemiecki
+ - [https://depl.dict.cc](https://depl.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-Portuguese dictionary | Dicionário Alemão-Português
+ - [https://dept.dict.cc](https://dept.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## dict.cc | German-Romanian dictionary | Dicţionar german-român
  - [https://dero.dict.cc](https://dero.dict.cc)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -3865,6 +3893,10 @@
  - [https://www.chimia.ch](https://www.chimia.ch)
  - date_published: 2024-07-03T09:00:17.971108+00:00
 
+ ## 中华人民共和国常驻联合国日内瓦办事处和瑞士其他国际组织代表团
+ - [http://www.china-un.ch](http://www.china-un.ch)
+ - date_published: 2025-01-13T11:19:39.783685+00:00
+
  ## Chindernetz Kanton Schwyz
  - [https://chindernetz-sz.ch](https://chindernetz-sz.ch)
  - date_published: 2024-09-26T09:48:04.077014+00:00
@@ -3996,36 +4028,4 @@
  ## Professor Dr Max Cloëtta Foundation - Prof. Dr. Max Cloëtta Foundation
  - [https://cloetta-foundation.ch](https://cloetta-foundation.ch)
  - date_published: 2024-10-13T00:00:00+00:00
-
- ## Cloud Migration
- - [https://www.cloud-migration.ch](https://www.cloud-migration.ch)
- - date_published: 2023-12-19T00:00:00+00:00
-
- ## cloudscale.ch API Documentation
- - [https://api.cloudscale.ch](https://api.cloudscale.ch)
- - date_published: 2024-06-24T12:17:45+00:00
-
- ## Swiss-Based Cloud Servers - For Developers Who Care
- - [https://cloudscale.ch](https://cloudscale.ch)
- - date_published: 2024-06-28T14:37:56+00:00
-
- ## creative media
- - [https://c-media.ch](https://c-media.ch)
- - date_published: 2024-09-14T23:57:46.275583+00:00
-
- ## Accueil
- - [https://coaching-epfl.ch](https://coaching-epfl.ch)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Code Camp | Programmieren für Kinder
- - [https://codecampworld.ch](https://codecampworld.ch)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Coelis Sagl
- - [https://coelis.ch](https://coelis.ch)
- - date_published: 2024-05-14T03:45:18.506642+00:00
-
- ## Bitcoin und Kryptowährungen - Wissen, Kurse & Nachrichten
- - [https://www.coinpro.ch](https://www.coinpro.ch)
- - date_published: 2022-01-11T01:53:58+00:00
 

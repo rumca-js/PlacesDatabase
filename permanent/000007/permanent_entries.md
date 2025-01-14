@@ -1,3 +1,11 @@
+ ## Geniea| It's Magic!
+ - [https://geniea-supabase-next-426g3r1y3-theabsurdco-s-team.vercel.app](https://geniea-supabase-next-426g3r1y3-theabsurdco-s-team.vercel.app)
+ - date_published: 2024-10-30T09:43:39.113410+00:00
+
+ ## getavatar.vercel.app: Get unified user gvatar from Twitter, GitHub, Intagram, Reddit, etc.
+ - [https://getavatar.vercel.app](https://getavatar.vercel.app)
+ - date_published: 2018-10-20T01:46:40+00:00
+
  ## Create Next App
  - [https://gh-3doors.vercel.app](https://gh-3doors.vercel.app)
  - date_published: 2024-12-23T11:42:55.549974+00:00
@@ -388,6 +396,10 @@
  ## mebo Live2Dサンプル
  - [https://mebo-live2d-sample.vercel.app](https://mebo-live2d-sample.vercel.app)
  - date_published: 2024-07-12T18:05:42.077005+00:00
+
+ ## Meeting Cost Calculator
+ - [https://meeting-cost-ten.vercel.app](https://meeting-cost-ten.vercel.app)
+ - date_published: 2025-01-13T19:57:51.845428+00:00
 
  ## MessageKit
  - [https://message-kit.vercel.app](https://message-kit.vercel.app)
@@ -1288,6 +1300,10 @@
  ## 太微中文教程 — 中文社区共建的TiddlyWiki教程，体验从入门到知识管理大师之路
  - [https://tiddly-wiki-chinese-tutorial.vercel.app](https://tiddly-wiki-chinese-tutorial.vercel.app)
  - date_published: 2024-09-06T20:05:32.087994+00:00
+
+ ## TimeShift
+ - [https://timeline-five-plum.vercel.app](https://timeline-five-plum.vercel.app)
+ - date_published: 2025-01-13T05:51:51+00:00
 
  ## TizenTube | Ad-free experience on your Samsung TV.
  - [https://tizentube.vercel.app](https://tizentube.vercel.app)
@@ -4004,20 +4020,4 @@
  ## Juan Silva
  - [https://juansilva.art](https://juansilva.art)
  - date_published: 2024-02-26T08:26:28.279964+00:00
-
- ## Kidz Fun Art - Make drawing fun
- - [https://kidzfun.art](https://kidzfun.art)
- - date_published: 2024-05-07T15:41:07.994191+00:00
-
- ## Kreyda | UX/UI design & development
- - [https://www.kreyda.art](https://www.kreyda.art)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Kuliszu Art
- - [https://www.kuliszu.art](https://www.kuliszu.art)
- - date_published: 2024-12-04T10:59:53.724062+00:00
-
- ## Laboratoria.art
- - [https://laboratoria.art](https://laboratoria.art)
- - date_published: 2024-05-06T22:12:16.517408+00:00
 

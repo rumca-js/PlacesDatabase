@@ -1,3 +1,31 @@
+ ## Clean Technology Canada -
+ - [https://www.cleantechnology.ca](https://www.cleantechnology.ca)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## Canada's #1 Glasses and Contact Lenses Store | Clearly
+ - [https://clearly.ca](https://clearly.ca)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Learn about the Climate Change discussion | Climate Change 101
+ - [https://climatechange101.ca](https://climatechange101.ca)
+ - date_published: 2024-06-15T09:05:08.951304+00:00
+
+ ## Digital Farming decisions and insights to maximize every acre
+ - [https://climatefieldview.ca](https://climatefieldview.ca)
+ - date_published: 2024-10-22T21:34:15.576202+00:00
+
+ ## Canadian Climate Institute: Climate Change Canada Policy Research
+ - [https://climateinstitute.ca](https://climateinstitute.ca)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Who are we? - Climate Realists of British Columbia
+ - [https://climaterealists.ca](https://climaterealists.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Clin d'œil | Accueil
+ - [https://www.clindoeil.ca](https://www.clindoeil.ca)
+ - date_published: 2024-08-19T08:10:55.910858+00:00
+
  ## STRATEGIES Games Lab home of Close Quarter Battle the tabletop wargame
  - [http://www.closequarterbattle.ca](http://www.closequarterbattle.ca)
  - date_published: 2024-12-15T00:03:54.678556+00:00
@@ -4003,32 +4031,4 @@
  ## Data Mining and Security Lab @ McGill
  - [http://dmas.lab.mcgill.ca](http://dmas.lab.mcgill.ca)
  - date_published: 2022-11-12T02:33:40+00:00
-
- ## User Login
- - [https://horizon.mcgill.ca](https://horizon.mcgill.ca)
- - date_published: 2024-09-06T21:13:21.154338+00:00
-
- ## OpenPhylo
- - [http://kovik.cs.mcgill.ca](http://kovik.cs.mcgill.ca)
- - date_published: 2022-09-15T20:55:49+00:00
-
- ## Computer Science Webmail :: Welcome to Computer Science Webmail
- - [http://mail.cs.mcgill.ca](http://mail.cs.mcgill.ca)
- - date_published: 2024-08-19T10:55:19+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://math.mcgill.ca](https://math.mcgill.ca)
- - date_published: 2023-10-25T11:21:45.075447+00:00
-
- ## McGill University
- - [http://mcgill.ca](http://mcgill.ca)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## myCourses - McGill University Online Courses
- - [https://mycourses2.mcgill.ca](https://mycourses2.mcgill.ca)
- - date_published: 2020-01-15T15:05:27+00:00
-
- ## Incomplete Web Address
- - [https://nimbus-ssl.mcgill.ca](https://nimbus-ssl.mcgill.ca)
- - date_published: 2020-01-03T23:22:42+00:00
 

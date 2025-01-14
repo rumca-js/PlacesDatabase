@@ -1,3 +1,31 @@
+ ## FIAP - O Novo é aqui
+ - [https://fiap.com.br](https://fiap.com.br)
+ - date_published: 2024-07-14T08:20:24.431622+00:00
+
+ ## 500e: Novo Fiat 500 Elétrico | Fiat
+ - [https://500e.fiat.com.br](https://500e.fiat.com.br)
+ - date_published: 2024-10-28T22:39:11.171365+00:00
+
+ ## Abarth
+ - [https://abarth.fiat.com.br](https://abarth.fiat.com.br)
+ - date_published: 2024-04-08T09:41:59+00:00
+
+ ## Fiat Argo
+ - [https://argo.fiat.com.br](https://argo.fiat.com.br)
+ - date_published: 2024-10-28T22:44:11.383348+00:00
+
+ ## Cronos | FIAT
+ - [https://cronos.fiat.com.br](https://cronos.fiat.com.br)
+ - date_published: 2024-10-28T22:40:36.671141+00:00
+
+ ## Novo Fiat Ducato | Fiat
+ - [https://ducato.fiat.com.br](https://ducato.fiat.com.br)
+ - date_published: 2024-10-25T13:43:34+00:00
+
+ ## Fiat Lovers | FIAT
+ - [https://fiatlovers.fiat.com.br](https://fiatlovers.fiat.com.br)
+ - date_published: 2024-10-25T13:47:05+00:00
+
  ## Fiorino | FIAT
  - [https://fiorino.fiat.com.br](https://fiorino.fiat.com.br)
  - date_published: 2024-10-25T14:23:33+00:00
@@ -3981,32 +4009,4 @@
  ## Consulta Externa de Atos
  - [https://legisladocexterno.curitiba.pr.gov.br](https://legisladocexterno.curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:27.832937+00:00
-
- ## mid-guia.curitiba.pr.gov.br - /
- - [https://mid-guia.curitiba.pr.gov.br](https://mid-guia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:43.588967+00:00
-
- ## mid-servidor.curitiba.pr.gov.br - /
- - [https://mid-servidor.curitiba.pr.gov.br](https://mid-servidor.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:19:55.374914+00:00
-
- ## Turismo - Prefeitura de Curitiba
- - [https://mid-turismo.curitiba.pr.gov.br](https://mid-turismo.curitiba.pr.gov.br)
- - date_published: 2014-11-03T12:35:14+00:00
-
- ## Orçamento e Planejamento
- - [https://orcamentos.curitiba.pr.gov.br](https://orcamentos.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:01.327323+00:00
-
- ## Portal dos Conselhos
- - [https://portaldosconselhos.curitiba.pr.gov.br](https://portaldosconselhos.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:05.549511+00:00
-
- ## Secretaria Municipal da Saúde de Curitiba
- - [https://saude.curitiba.pr.gov.br](https://saude.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:26:45.599666+00:00
-
- ## Saúde Já Curitiba - Prefeitura de Curitiba
- - [https://saudeja.curitiba.pr.gov.br](https://saudeja.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:27:14.080221+00:00
 

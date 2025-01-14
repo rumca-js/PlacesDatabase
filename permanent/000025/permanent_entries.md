@@ -1,3 +1,35 @@
+ ## Cloud Migration
+ - [https://www.cloud-migration.ch](https://www.cloud-migration.ch)
+ - date_published: 2023-12-19T00:00:00+00:00
+
+ ## cloudscale.ch API Documentation
+ - [https://api.cloudscale.ch](https://api.cloudscale.ch)
+ - date_published: 2024-06-24T12:17:45+00:00
+
+ ## Swiss-Based Cloud Servers - For Developers Who Care
+ - [https://cloudscale.ch](https://cloudscale.ch)
+ - date_published: 2024-06-28T14:37:56+00:00
+
+ ## creative media
+ - [https://c-media.ch](https://c-media.ch)
+ - date_published: 2024-09-14T23:57:46.275583+00:00
+
+ ## Accueil
+ - [https://coaching-epfl.ch](https://coaching-epfl.ch)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Code Camp | Programmieren für Kinder
+ - [https://codecampworld.ch](https://codecampworld.ch)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Coelis Sagl
+ - [https://coelis.ch](https://coelis.ch)
+ - date_published: 2024-05-14T03:45:18.506642+00:00
+
+ ## Bitcoin und Kryptowährungen - Wissen, Kurse & Nachrichten
+ - [https://www.coinpro.ch](https://www.coinpro.ch)
+ - date_published: 2022-01-11T01:53:58+00:00
+
  ## Agence de Communication 360 Genève - colegram
  - [http://www.colegram.ch](http://www.colegram.ch)
  - date_published: 2024-10-22T08:50:58.284279+00:00
@@ -3981,36 +4013,4 @@
  ## Pagina iniziala
  - [http://www.liarumantscha.ch](http://www.liarumantscha.ch)
  - date_published: 2024-07-11T22:03:22+00:00
-
- ## DORA 4RI
- - [https://www.dora.lib4ri.ch](https://www.dora.lib4ri.ch)
- - date_published: 2024-07-16T22:03:02.356303+00:00
-
- ## Lidl Schweiz – Aktuelle Aktionen – www.lidl.ch
- - [https://www.lidl.ch](https://www.lidl.ch)
- - date_published: 2024-06-25T19:03:06.358825+00:00
-
- ## Life @ Home - Life at Home
- - [http://lifeathome.ch](http://lifeathome.ch)
- - date_published: 2024-07-13T15:00:16.465032+00:00
-
- ## Ligature
- - [http://ligature.ch](http://ligature.ch)
- - date_published: 2024-06-19T16:20:57.770934+00:00
-
- ## Die führende Kassensystem- und Bezahlplattform - Lightspeed Commerce
- - [https://de.lightspeedhq.ch](https://de.lightspeedhq.ch)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Logiciel de caisse enregistreuse & commerce | Lightspeed
- - [https://www.lightspeedhq.ch](https://www.lightspeedhq.ch)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Building the right products · Liip
- - [https://www.liip.ch](https://www.liip.ch)
- - date_published: 2024-10-30T05:31:48.947687+00:00
-
- ## LINAK – la technologie du vérin électrique au service du mouvement
- - [https://www.fr.linak.ch](https://www.fr.linak.ch)
- - date_published: 2024-09-05T21:38:00.546832+00:00
 

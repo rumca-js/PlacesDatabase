@@ -1,3 +1,35 @@
+ ## DORA 4RI
+ - [https://www.dora.lib4ri.ch](https://www.dora.lib4ri.ch)
+ - date_published: 2024-07-16T22:03:02.356303+00:00
+
+ ## Lidl Schweiz – Aktuelle Aktionen – www.lidl.ch
+ - [https://www.lidl.ch](https://www.lidl.ch)
+ - date_published: 2024-06-25T19:03:06.358825+00:00
+
+ ## Life @ Home - Life at Home
+ - [http://lifeathome.ch](http://lifeathome.ch)
+ - date_published: 2024-07-13T15:00:16.465032+00:00
+
+ ## Ligature
+ - [http://ligature.ch](http://ligature.ch)
+ - date_published: 2024-06-19T16:20:57.770934+00:00
+
+ ## Die führende Kassensystem- und Bezahlplattform - Lightspeed Commerce
+ - [https://de.lightspeedhq.ch](https://de.lightspeedhq.ch)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Logiciel de caisse enregistreuse & commerce | Lightspeed
+ - [https://www.lightspeedhq.ch](https://www.lightspeedhq.ch)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Building the right products · Liip
+ - [https://www.liip.ch](https://www.liip.ch)
+ - date_published: 2024-10-30T05:31:48.947687+00:00
+
+ ## LINAK – la technologie du vérin électrique au service du mouvement
+ - [https://www.fr.linak.ch](https://www.fr.linak.ch)
+ - date_published: 2024-09-05T21:38:00.546832+00:00
+
  ## LINAK: tecnologia negli attuatori lineari elettrici
  - [https://www.it.linak.ch](https://www.it.linak.ch)
  - date_published: 2024-09-05T21:34:10.196816+00:00
@@ -3985,36 +4017,4 @@ Fakultät | Universität Basel
  ## VNV SA That's IT
  - [https://vnv.ch](https://vnv.ch)
  - date_published: 2024-10-17T22:13:48.446579+00:00
-
- ## Volkswagen Schweiz | Starten Sie Ihre Fahrt hier!
- - [https://www.volkswagen.ch](https://www.volkswagen.ch)
- - date_published: 2024-12-10T16:32:17+00:00
-
- ## Michael Vorburger's Blog v2
- - [http://blog2.vorburger.ch](http://blog2.vorburger.ch)
- - date_published: 2024-03-19T21:08:03+00:00
-
- ## Michael Vorburger's Homepage
- - [http://www.vorburger.ch](http://www.vorburger.ch)
- - date_published: 2024-02-18T18:27:57+00:00
-
- ## VQF.ch
- - [https://www.vqf.ch](https://www.vqf.ch)
- - date_published: 2022-01-28T10:49:38+00:00
-
- ## Verena Schorn's Homepage
- - [https://www.vschorn.ch](https://www.vschorn.ch)
- - date_published: 2024-07-11T15:30:14.800222+00:00
-
- ## Opérateur fibre, téléphonie, cloud et cybersécurité en suisse
- - [https://www.vtx.ch](https://www.vtx.ch)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Damen- und Herrenmode online bestellen | Walbusch
- - [https://www.walbusch.ch](https://www.walbusch.ch)
- - date_published: 2024-12-10T19:03:29.357157+00:00
-
- ## watson - News ohne Bla Bla
- - [https://www.watson.ch](https://www.watson.ch)
- - date_published: 2024-07-11T10:32:39.437956+00:00
 

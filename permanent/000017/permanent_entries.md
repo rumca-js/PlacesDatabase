@@ -1,3 +1,32 @@
+ ## The Music Aficionado
+ - [https://musicaficionado.blog](https://musicaficionado.blog)
+ - date_published: 2024-06-22T12:04:24+00:00
+
+ ## <mxstbr/>
+ - [https://mxstbr.blog](https://mxstbr.blog)
+ - date_published: 2018-02-21T00:00:00+00:00
+ - date_dead_since: 2025-01-04T21:41:41.473015+00:00
+
+ ## Zondax
+ - [https://zondax.mymidnight.blog](https://zondax.mymidnight.blog)
+ - date_published: 2024-09-21T23:55:53.478352+00:00
+
+ ## my silent voice/ my stil stem
+ - [https://mysilentvoice.blog](https://mysilentvoice.blog)
+ - date_published: 2024-09-03T23:07:36.422957+00:00
+
+ ## Jessica's Nature Blog
+ - [https://natureinfocus.blog](https://natureinfocus.blog)
+ - date_published: 2024-06-30T01:45:26.030894+00:00
+
+ ## NBMG
+ - [https://nbmg.blog](https://nbmg.blog)
+ - date_published: 2024-06-24T07:37:33+00:00
+
+ ## near.blog | personal website
+ - [https://near.blog](https://near.blog)
+ - date_published: 2024-05-11T10:54:48.598948+00:00
+
  ## Neil Madden
  - [https://neilmadden.blog](https://neilmadden.blog)
  - date_published: 2023-10-25T09:01:51.726758+00:00
@@ -4013,32 +4042,4 @@ Educação
  ## Website Oficial da Ferrero do Brasil
  - [https://www.ferrero.com.br](https://www.ferrero.com.br)
  - date_published: 2024-06-07T19:25:30+00:00
-
- ## FIAP - O Novo é aqui
- - [https://fiap.com.br](https://fiap.com.br)
- - date_published: 2024-07-14T08:20:24.431622+00:00
-
- ## 500e: Novo Fiat 500 Elétrico | Fiat
- - [https://500e.fiat.com.br](https://500e.fiat.com.br)
- - date_published: 2024-10-28T22:39:11.171365+00:00
-
- ## Abarth
- - [https://abarth.fiat.com.br](https://abarth.fiat.com.br)
- - date_published: 2024-04-08T09:41:59+00:00
-
- ## Fiat Argo
- - [https://argo.fiat.com.br](https://argo.fiat.com.br)
- - date_published: 2024-10-28T22:44:11.383348+00:00
-
- ## Cronos | FIAT
- - [https://cronos.fiat.com.br](https://cronos.fiat.com.br)
- - date_published: 2024-10-28T22:40:36.671141+00:00
-
- ## Novo Fiat Ducato | Fiat
- - [https://ducato.fiat.com.br](https://ducato.fiat.com.br)
- - date_published: 2024-10-25T13:43:34+00:00
-
- ## Fiat Lovers | FIAT
- - [https://fiatlovers.fiat.com.br](https://fiatlovers.fiat.com.br)
- - date_published: 2024-10-25T13:47:05+00:00
 
