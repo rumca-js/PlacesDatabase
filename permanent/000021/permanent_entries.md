@@ -1,3 +1,339 @@
+ ## livier.ca
+ - [http://www.livier.ca](http://www.livier.ca)
+ - date_published: 2022-01-03T16:11:55+00:00
+
+ ## Toronto Lobbyist Registry Database: lobbyist_registry
+ - [https://lobbyingintoronto.ca](https://lobbyingintoronto.ca)
+ - date_published: 2024-09-04T04:38:08.048079+00:00
+
+ ## Loblaw Companies Ltd. | Live Life Well®
+ - [https://loblaw.ca](https://loblaw.ca)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Local Green Fees- Canada's definitive green fee directory
+ - [https://www.localgreenfees.ca](https://www.localgreenfees.ca)
+ - date_published: 2024-07-12T17:59:30.132263+00:00
+
+ ## Local Integrative Health Clinic in East Vancouver, BC
+ - [https://localhealthclinic.ca](https://localhealthclinic.ca)
+ - date_published: 2024-06-12T19:25:19+00:00
+
+ ## LocalWork.ca | Employer Services
+ - [https://employers.localwork.ca](https://employers.localwork.ca)
+ - date_published: 2024-06-26T22:36:30.872374+00:00
+
+ ## LocalWork.ca | jobs
+ - [https://www.localwork.ca](https://www.localwork.ca)
+ - date_published: 2024-05-06T20:01:58.481788+00:00
+
+ ## East Vancouver Yoga Studio | Local Yoga Studio | Yoga + more
+ - [https://localyogastudio.ca](https://localyogastudio.ca)
+ - date_published: 2024-09-18T18:42:59+00:00
+
+ ## Charcoal — Web framework and content management system
+ - [https://charcoal.locomotive.ca](https://charcoal.locomotive.ca)
+ - date_published: 2024-10-29T13:28:47.013333+00:00
+
+ ## Explore with Locomotive
+ - [https://explore.locomotive.ca](https://explore.locomotive.ca)
+ - date_published: 2024-10-29T13:28:49.094871+00:00
+
+ ## Locomotive | Montreal web agency
+ - [https://locomotive.ca](https://locomotive.ca)
+ - date_published: 2024-06-19T16:15:15.418837+00:00
+
+ ## Locomotive Dynasty - 2018 to 2023
+ - [https://six.locomotive.ca](https://six.locomotive.ca)
+ - date_published: 2024-09-12T14:58:24+00:00
+
+ ## Locomotive Store®
+ - [https://store.locomotive.ca](https://store.locomotive.ca)
+ - date_published: 2024-10-29T13:28:34.002408+00:00
+
+ ## lolcat's git serber
+ - [https://git.lolcat.ca](https://git.lolcat.ca)
+ - date_published: 2024-10-20T22:39:45.354239+00:00
+
+ ## lolcat's website
+ - [https://lolcat.ca](https://lolcat.ca)
+ - date_published: 2024-10-27T12:11:52.621388+00:00
+
+ ## Commercial Real Estate for Sale & Lease in Canada | LoopNet.ca
+ - [https://loopnet.ca](https://loopnet.ca)
+ - date_published: 2024-05-12T07:41:00.330334+00:00
+
+ ## Lorimer
+ - [http://www.lorimer.ca](http://www.lorimer.ca)
+ - date_published: 2024-08-17T11:36:40+00:00
+
+ ## Lotus Goddess' Mirror - A DoMO Fansite
+ - [http://domo.lotusgoddess.ca](http://domo.lotusgoddess.ca)
+ - date_published: 2025-01-10T22:56:26.495816+00:00
+
+ ## Low Profile Keyboards - lowprokb.ca
+ - [https://lowprokb.ca](https://lowprokb.ca)
+ - date_published: 2024-12-30T18:26:41.005144+00:00
+
+ ## L. Ron Hubbard - Scientology & Dianetics Founder
+ - [https://www.lronhubbard.ca](https://www.lronhubbard.ca)
+ - date_published: 2024-06-06T19:38:31.754675+00:00
+
+ ## Law Society of Ontario Home | Law Society of Ontario
+ - [https://lso.ca](https://lso.ca)
+ - date_published: 2024-09-02T13:02:39.708237+00:00
+
+ ## @luqman
+ - [https://luqman.ca](https://luqman.ca)
+ - date_published: 2022-11-15T03:27:24+00:00
+
+ ## Luuk van Baars - Portfolio
+ - [http://luuk.ca](http://luuk.ca)
+ - date_published: 2023-07-06T13:04:26+00:00
+
+ ## Lost Wizard Enterprises Incorporated
+ - [http://www.l-w.ca](http://www.l-w.ca)
+ - date_published: 2021-11-02T18:41:36+00:00
+
+ ## The Macdonald-Laurier Institute
+ - [https://macdonaldlaurier.ca](https://macdonaldlaurier.ca)
+ - date_published: 2023-10-25T12:05:29.853121+00:00
+
+ ## ezProxy Login Redirect
+ - [https://ezproxy.macewan.ca](https://ezproxy.macewan.ca)
+ - date_published: 2024-06-30T01:30:38.353424+00:00
+
+ ## Macleans.ca - Canada’s magazine
+ - [https://macleans.ca](https://macleans.ca)
+ - date_published: 2023-10-25T12:05:41.174712+00:00
+
+ ## Mactracker - Get info on any Mac
+ - [https://mactracker.ca](https://mactracker.ca)
+ - date_published: 2024-08-04T02:44:11+00:00
+
+ ## Madrona Grove
+ - [https://madrona.ca](https://madrona.ca)
+ - date_published: 2024-01-09T01:36:41.563745+00:00
+
+ ## Magenta Health
+ - [https://www.magentahealth.ca](https://www.magentahealth.ca)
+ - date_published: 2024-07-12T20:29:49.279552+00:00
+
+ ## Fabian Rodriguez, « MagicFab » | GNU/Linux and free open source software consulting, training and conferences in Montreal, Quebec, Canada
+ - [https://magicfab.ca](https://magicfab.ca)
+ - date_published: 2022-07-10T23:07:57+00:00
+
+ ## Top 5 Top 5 Toronto Maids for 2020 | Maids.ca Plumbers and Plumbing Contractors for 2020 | Maids.ca
+ - [http://www.maids.ca](http://www.maids.ca)
+ - date_published: 2024-06-29T17:36:38.307913+00:00
+
+ ## Writer | Filmmaker • Mailyne K. Briggs
+ - [https://mailyne.ca](https://mailyne.ca)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## Homepage - Mainframe Studios
+ - [https://www.mainframe.ca](https://www.mainframe.ca)
+ - date_published: 2024-10-26T15:06:26.957988+00:00
+
+ ## First to be published
+ - [https://makevotesequal.ca](https://makevotesequal.ca)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## The Malahat Review | Poetry, Fiction, and Creative Nonfiction
+ - [http://www.malahatreview.ca](http://www.malahatreview.ca)
+ - date_published: 2024-11-21T23:53:11+00:00
+
+ ## Malevolent
+ - [https://www.malevolent.ca](https://www.malevolent.ca)
+ - date_published: 2025-01-01T22:52:10.911970+00:00
+
+ ## Apps & Websites - Chris Mallinson
+ - [http://mallinson.ca](http://mallinson.ca)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Province of Manitoba | Home Page
+ - [https://manitoba.ca](https://manitoba.ca)
+ - date_published: 2024-04-30T05:32:54.961213+00:00
+
+ ## Manitoba 511
+ - [https://www.manitoba511.ca](https://www.manitoba511.ca)
+ - date_published: 2024-07-21T07:55:21.570601+00:00
+
+ ## Manitoba Advocate
+ - [http://manitobaadvocate.ca](http://manitobaadvocate.ca)
+ - date_published: 2024-08-06T18:02:56.873489+00:00
+
+ ## Manitoba Lieutenant Governor
+ - [http://manitobalg.ca](http://manitobalg.ca)
+ - date_published: 2024-08-10T23:03:06.390420+00:00
+
+ ## Best Manitoba Online Casinos – Top 20+ Casino Sites 2025
+ - [http://manitobia.ca](http://manitobia.ca)
+ - date_published: 2025-01-01T14:07:24.404891+00:00
+
+ ## Manna Food Bank
+ - [https://mannafoodbank.ca](https://mannafoodbank.ca)
+ - date_published: 2024-10-17T23:22:57.834377+00:00
+
+ ## Manufacturing Jobs Canada Dev
+ - [https://www.manufacturingjobsite.ca](https://www.manufacturingjobsite.ca)
+ - date_published: 2024-10-15T17:36:47.227016+00:00
+
+ ## Public landing page | Manulife Advisors
+ - [https://advisor.manulife.ca](https://advisor.manulife.ca)
+ - date_published: 2024-10-07T19:22:58.854976+00:00
+
+ ## Manulife CIAM
+ - [https://id.manulife.ca](https://id.manulife.ca)
+ - date_published: 1985-10-26T08:15:00+00:00
+
+ ## Manulife Securities
+ - [https://manulifesecurities.manulife.ca](https://manulifesecurities.manulife.ca)
+ - date_published: 2024-10-07T19:26:20.302119+00:00
+
+ ## Manulife Customer Portal
+ - [https://portal.manulife.ca](https://portal.manulife.ca)
+ - date_published: 2024-06-16T13:09:10.118765+00:00
+
+ ## Manulife - Insurance & investment solutions for you
+ - [https://www.manulife.ca](https://www.manulife.ca)
+ - date_published: 2024-05-01T06:47:53.869054+00:00
+
+ ## Online Personal Banking | Manulife Bank
+ - [https://www.manulifebank.ca](https://www.manulifebank.ca)
+ - date_published: 2024-05-01T07:04:12.173605+00:00
+
+ ## Health insurance | Manulife
+ - [https://www.manulife-insurance.ca](https://www.manulife-insurance.ca)
+ - date_published: 2024-07-12T13:51:39+00:00
+
+ ## Manulife Securities - Client Login
+ - [https://secure.manulifesecurities.ca](https://secure.manulifesecurities.ca)
+ - date_published: 2024-10-07T19:25:57.324494+00:00
+
+ ## Manulife Financial Travel Insurance | SISIP
+ - [https://www.manulife-travel.ca](https://www.manulife-travel.ca)
+ - date_published: 2024-10-14T18:03:31.567961+00:00
+
+ ## Wealth Management and Protection | Manulife Wealth
+ - [https://www.manulifewealth.ca](https://www.manulifewealth.ca)
+ - date_published: 2024-10-07T19:21:00.162933+00:00
+
+ ## Manulife Securities
+ - [https://placementsmanuvie.manuvie.ca](https://placementsmanuvie.manuvie.ca)
+ - date_published: 2024-10-07T19:27:30.126327+00:00
+
+ ## Manulife Customer Portal
+ - [https://portail.manuvie.ca](https://portail.manuvie.ca)
+ - date_published: 2024-10-07T19:27:31.211875+00:00
+
+ ## Manuvie – Des solutions d’assurance et de placement pour vous
+ - [https://www.manuvie.ca](https://www.manuvie.ca)
+ - date_published: 2024-06-14T21:07:07+00:00
+
+ ## Marcel Goh
+ - [https://marcelgoh.ca](https://marcelgoh.ca)
+ - date_published: 2024-09-04T14:26:47+00:00
+
+ ## Toronto Marlies
+ - [https://marlies.ca](https://marlies.ca)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Marsha Lederman
+ - [http://www.marshalederman.ca](http://www.marshalederman.ca)
+ - date_published: 2022-05-03T00:00:00+00:00
+
+ ## Maserati Official Website - Italian Luxury Cars | Maserati CA-EN
+ - [https://www.maserati.ca](https://www.maserati.ca)
+ - date_published: 2024-06-19T08:47:16+00:00
+
+ ## Masimo - Home
+ - [https://professional.masimo.ca](https://professional.masimo.ca)
+ - date_published: 2024-06-22T05:36:44.457229+00:00
+
+ ## Masimo - Home
+ - [https://www.masimo.ca](https://www.masimo.ca)
+ - date_published: 2025-01-11T18:07:47.225183+00:00
+
+ ## Masonry in Canada, Canada
+ - [http://www.masonry.ca](http://www.masonry.ca)
+ - date_published: 2024-06-29T17:36:01.006332+00:00
+
+ ## Canadian Discrete and Algorithmic Mathematics Conference (CanaDAM)
+ - [http://canadam.math.ca](http://canadam.math.ca)
+ - date_published: 2024-08-11T22:06:48.015069+00:00
+
+ ## CMS-SMC
+ - [http://cms.math.ca](http://cms.math.ca)
+ - date_published: 2024-06-30T03:01:07.862445+00:00
+
+ ## Home | PIMS - Pacific Institute for the Mathematical Sciences
+ - [https://pims.math.ca](https://pims.math.ca)
+ - date_published: 2024-06-30T07:02:12+00:00
+
+ ## CMS-SMC
+ - [http://www.math.ca](http://www.math.ca)
+ - date_published: 2024-06-30T09:20:11.721967+00:00
+
+ ## Skin + Beauty - Mathilde Langevin
+ - [https://mathilde.ca](https://mathilde.ca)
+ - date_published: 2024-09-16T23:05:22.833452+00:00
+
+ ## matilde park
+ - [https://matildepark.ca](https://matildepark.ca)
+ - date_published: 2024-08-08T03:07:13.027488+00:00
+
+ ## Matthew Brehmer, Ubietous Information Experiences: Human-Computer Interaction Research and Data Visualization at the University of Waterloo
+ - [https://mattbrehmer.ca](https://mattbrehmer.ca)
+ - date_published: 2024-12-02T14:50:07+00:00
+
+ ## Moving people forward | Maximus Canada
+ - [https://www.maximuscanada.ca](https://www.maximuscanada.ca)
+ - date_published: 2024-07-14T15:04:23+00:00
+
+ ## Max LL
+ - [http://www.maxll.ca](http://www.maxll.ca)
+ - date_published: 2024-12-27T09:09:07.899256+00:00
+
+ ## Home
+ - [http://mayfairtheatre.ca](http://mayfairtheatre.ca)
+ - date_published: 2024-07-03T03:55:28.016149+00:00
+
+ ## Home | Manitoba Liquor & Lotteries
+ - [http://www.mbll.ca](http://www.mbll.ca)
+ - date_published: 2024-08-06T18:02:59.140162+00:00
+
+ ## Bootstrap TD Login
+ - [https://service.mbna.ca](https://service.mbna.ca)
+ - date_published: 2024-06-16T07:44:52.481256+00:00
+
+ ## Offering both rewards credit cards with no annual fee as well as low interest credit card options | MBNA Canada
+ - [https://www.mbna.ca](https://www.mbna.ca)
+ - date_published: 2024-05-01T06:00:16.802370+00:00
+
+ ## Home - McConnell Foundation
+ - [https://mcconnellfoundation.ca](https://mcconnellfoundation.ca)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## McDonald's Kerwin Frost Box Appstakes
+ - [https://www.mcdonaldspromotion.ca](https://www.mcdonaldspromotion.ca)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Computational Geometry Lab at McGill
+ - [http://cgm.cs.mcgill.ca](http://cgm.cs.mcgill.ca)
+ - date_published: 2011-12-20T21:35:31+00:00
+
+ ## Computation and Logic Group, School of Computer Science, McGill University -- Home
+ - [http://complogic.cs.mcgill.ca](http://complogic.cs.mcgill.ca)
+ - date_published: 2024-06-20T18:12:18+00:00
+
+ ## McGill School Of Computer Science
+ - [https://cs.mcgill.ca](https://cs.mcgill.ca)
+ - date_published: 2023-10-25T12:06:01.879709+00:00
+
+ ## Data Mining and Security Lab @ McGill
+ - [http://dmas.lab.mcgill.ca](http://dmas.lab.mcgill.ca)
+ - date_published: 2022-11-12T02:33:40+00:00
+
  ## User Login
  - [https://horizon.mcgill.ca](https://horizon.mcgill.ca)
  - date_published: 2024-09-06T21:13:21.154338+00:00
@@ -211,6 +547,10 @@
  - [https://www.mercedes-benz.ca](https://www.mercedes-benz.ca)
  - date_published: 2024-06-20T11:28:36+00:00
 
+ ## Home | Merck Canada
+ - [http://www.merck.ca](http://www.merck.ca)
+ - date_published: 2025-01-14T23:41:51.592512+00:00
+
  ## MCU - Appointment Booking
  - [https://appt-booking.meridiancu.ca](https://appt-booking.meridiancu.ca)
  - date_published: 2024-06-16T09:55:57.847666+00:00
@@ -276,6 +616,10 @@
  ## Mental Health Research Canada
  - [https://www.mhrc.ca](https://www.mhrc.ca)
  - date_published: 2024-07-11T14:58:05.474855+00:00
+
+ ## Issue Four
+ - [http://micemagazine.ca](http://micemagazine.ca)
+ - date_published: 2025-01-14T21:03:04.818420+00:00
 
  ## Michael Geist -
  - [https://www.michaelgeist.ca](https://www.michaelgeist.ca)
@@ -1350,6 +1694,10 @@
  ## Mind of Dan
  - [http://mind.ofdan.ca](http://mind.ofdan.ca)
  - date_published: 2024-06-30T02:43:43.697252+00:00
+
+ ## Office/Bureau
+ - [https://officebureau.ca](https://officebureau.ca)
+ - date_published: 2025-01-14T21:02:51.275077+00:00
 
  ## Under Construction officecatering.ca
  - [http://www.officecatering.ca](http://www.officecatering.ca)
@@ -3695,353 +4043,4 @@
  ## South Park Canada Shop | Official Merchandise Store
  - [https://southparkshop.ca](https://southparkshop.ca)
  - date_published: 2024-07-27T02:51:23.474528+00:00
-
- ## So Yummy - Video Recipes, Easy Dinner Ideas & Healthy Snacks | So Yummy
- - [https://soyummy.ca](https://soyummy.ca)
- - date_published: 2024-09-14T07:44:46.702447+00:00
-
- ## This is the default server vhost
- - [http://www.spa.ca](http://www.spa.ca)
- - date_published: 2024-06-24T11:23:01+00:00
-
- ## Simon Carpentier
- - [https://spacebar.ca](https://spacebar.ca)
- - date_published: 2024-05-09T07:39:47.297678+00:00
-
- ## SpaceQ
- - [https://spaceq.ca](https://spaceq.ca)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## SPACES at SooToday.com
- - [https://soo.spaces.ca](https://soo.spaces.ca)
- - date_published: 2025-01-11T15:55:44+00:00
-
- ## Spacing | Canadian Urbanism Uncovered
- - [https://spacing.ca](https://spacing.ca)
- - date_published: 2024-05-22T12:49:56.686769+00:00
-
- ## Toronto's City Gift Store
- - [https://spacingstore.ca](https://spacingstore.ca)
- - date_published: 2024-04-30T05:10:42.771291+00:00
-
- ## SPC | Discounts and Promo Codes | Canadian Students
- - [https://spccard.ca](https://spccard.ca)
- - date_published: 2024-09-14T22:34:00.596431+00:00
-
- ## Home - Speak for Ourselves
- - [https://speakforourselves.ca](https://speakforourselves.ca)
- - date_published: 2024-08-19T10:55:27.750343+00:00
-
- ## Spearhead Games
- - [https://spearheadgames.ca](https://spearheadgames.ca)
- - date_published: 2024-05-09T08:37:59.515345+00:00
-
- ## Special K* | Cereal
- - [https://www.specialk.ca](https://www.specialk.ca)
- - date_published: 2024-12-18T05:38:56+00:00
-
- ## Home - Spicy Riffs Hot Sauce
- - [https://spicyriffshotsauce.ca](https://spicyriffshotsauce.ca)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Agence Web à Montréal Experte Wordpress et SEO - Spinat
- - [https://www.spinat.ca](https://www.spinat.ca)
- - date_published: 2024-10-20T23:31:27.285230+00:00
-
- ## Spirasolaris
- - [https://www.spirasolaris.ca](https://www.spirasolaris.ca)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Home - Canadian Spondyloarthritis Association
- - [https://www.spondylitis.ca](https://www.spondylitis.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## News, Scores and Live Streaming
- - [https://www.sportsnet.ca](https://www.sportsnet.ca)
- - date_published: 2024-06-23T13:08:34.037314+00:00
-
- ## Home | Sportstats
- - [https://www.sportstats.ca](https://www.sportstats.ca)
- - date_published: 2024-06-27T13:06:52.532392+00:00
-
- ## Pet Insurance Plans for Dogs & Cats in Canada Get a free Quote for your Pet | Spot Canada
- - [https://spotpetinsurance.ca](https://spotpetinsurance.ca)
- - date_published: 2024-08-11T16:36:12.833281+00:00
-
- ## My Spreadshirt
- - [https://my.spreadshirt.ca](https://my.spreadshirt.ca)
- - date_published: 2024-10-21T08:59:40.943129+00:00
-
- ## Custom T-Shirts and T-Shirt Printing | Spreadshirt
- - [https://www.spreadshirt.ca](https://www.spreadshirt.ca)
- - date_published: 2024-06-18T10:20:03.940471+00:00
-
- ## Sprinklers in Canada, Canada
- - [http://www.sprinklers.ca](http://www.sprinklers.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Buy Silver & Gold Bullion Online | Sprott Money Canada
- - [https://www.sprottmoney.ca](https://www.sprottmoney.ca)
- - date_published: 2024-10-19T23:57:34.110660+00:00
-
- ## Sprout Family
- - [https://sproutfamily.ca](https://sproutfamily.ca)
- - date_published: 2024-10-16T21:07:05.863712+00:00
-
- ## SQO – group
- - [https://sqogroup.ca](https://sqogroup.ca)
- - date_published: 2024-06-30T23:04:01+00:00
-
- ## Emanote
- - [https://emanote.srid.ca](https://emanote.srid.ca)
- - date_published: 2023-10-25T12:07:25.720455+00:00
-
- ## Sridhar Ratnakumar
- - [https://www.srid.ca](https://www.srid.ca)
- - date_published: 2024-08-06T14:21:05+00:00
-
- ## Canada's No.1 SSL Certificate Provider with Dedicated Support Team
- - [https://www.ssltrust.ca](https://www.ssltrust.ca)
- - date_published: 2024-06-16T08:31:41.489264+00:00
-
- ## ST. STEPHEN'S UNIVERSITY  |  A graduate school of theology, peace and reconciliation
- - [https://www.ssu.ca](https://www.ssu.ca)
- - date_published: 2024-10-19T10:46:31.775518+00:00
-
- ## Digital Money Infrastructure for the Next Billion Users
- - [https://www.stablecorp.ca](https://www.stablecorp.ca)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## STACKTV - New Shows Streaming Every Day. TRY IT FREE!
- - [https://www.stacktv.ca](https://www.stacktv.ca)
- - date_published: 2025-01-09T05:18:20.948085+00:00
-
- ## Stagecoach Performing Arts Canada - Acting, Dancing and Singing Classes for Kids
- - [http://www.stagecoachschools.ca](http://www.stagecoachschools.ca)
- - date_published: 2024-10-21T07:57:46.032801+00:00
-
- ## St. Albert Local News
- - [https://www.stalberttoday.ca](https://www.stalberttoday.ca)
- - date_published: 2024-08-08T19:10:35+00:00
-
- ## Stallion Express - Canada's #1 eCommerce Shipping Service
- - [https://stallionexpress.ca](https://stallionexpress.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Stance | Socks, Underwear & Apparel | Shop Now
- - [https://www.stance.ca](https://www.stance.ca)
- - date_published: 2024-08-17T23:12:56.541327+00:00
-
- ## Agence marketing, Web et de design à Sherbrooke | Standish
- - [https://www.standish.ca](https://www.standish.ca)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.staples.ca](https://www.staples.ca)
- - date_published: 2024-08-05T21:54:56.390589+00:00
-
- ## Starbucks®
- - [https://app.starbucks.ca](https://app.starbucks.ca)
- - date_published: 2024-06-16T10:54:08.039100+00:00
-
- ## Starbucks Help - Starbucks Portal
- - [https://customerservice.starbucks.ca](https://customerservice.starbucks.ca)
- - date_published: 2024-10-02T11:36:48.536244+00:00
-
- ## Starbucks Coffee Company
- - [https://fr.starbucks.ca](https://fr.starbucks.ca)
- - date_published: 2024-06-16T10:54:38.076488+00:00
-
- ## Credit or Debit Card Details
- - [https://securepaymentform.starbucks.ca](https://securepaymentform.starbucks.ca)
- - date_published: 2024-07-29T17:15:24+00:00
-
- ## Starbucks Help - Starbucks Portal
- - [https://serviceclientele.starbucks.ca](https://serviceclientele.starbucks.ca)
- - date_published: 2024-10-02T11:44:06.809613+00:00
-
- ## Starbucks Coffee Company
- - [https://starbucks.ca](https://starbucks.ca)
- - date_published: 2024-10-02T11:44:04.117070+00:00
-
- ## : : : Welcome to stargrunt.ca! : : :
- - [http://www.stargrunt.ca](http://www.stargrunt.ca)
- - date_published: 2006-03-20T08:23:44+00:00
-
- ## Canadian Starmaker Fund
- - [https://www.starmaker.ca](https://www.starmaker.ca)
- - date_published: 2024-09-11T16:22:42+00:00
-
- ## STARS Lab | Space and Terrestrial Autonomous Robotic Systems Lab at the University of Toronto
- - [http://www.starslab.ca](http://www.starslab.ca)
- - date_published: 2024-06-22T11:42:02.956904+00:00
-
- ## Shop the Toronto Star Store | StarStore
- - [https://starstore.ca](https://starstore.ca)
- - date_published: 2024-06-23T13:34:47.418957+00:00
-
- ## State of the City Inc.
- - [http://www.stateofthecity.ca](http://www.stateofthecity.ca)
- - date_published: 2025-01-01T14:07:52.430002+00:00
-
- ## Learn about the project
- - [https://www.statlewdistrict.ca](https://www.statlewdistrict.ca)
- - date_published: 2024-07-15T06:10:33.188443+00:00
-
- ## Gitea: Git with a cup of tea
- - [https://git.staur.ca](https://git.staur.ca)
- - date_published: 2024-12-02T20:56:23.426859+00:00
-
- ## Adrian Unger — Staydecent
- - [https://staydecent.ca](https://staydecent.ca)
- - date_published: 2023-11-29T14:42:31.811010+00:00
- - tags: ['personal']
-
- ## Home - St. Catharines Stamp Club
- - [http://stcatharinesstampclub.ca](http://stcatharinesstampclub.ca)
- - date_published: 2024-12-15T16:29:30.594082+00:00
-
- ## St. Clement's Anglican Church
- - [https://www.stclementschurch.ca](https://www.stclementschurch.ca)
- - date_published: 2024-08-18T09:51:05.208905+00:00
-
- ## Construction Sylvain Tremblay
- - [https://stconstruction.ca](https://stconstruction.ca)
- - date_published: 2024-12-23T12:07:10+00:00
-
- ## Home • Douglas Stebila
- - [https://www.douglas.stebila.ca](https://www.douglas.stebila.ca)
- - date_published: 2024-06-16T15:53:59+00:00
-
- ## Jeep apparel and merchandise from the official store - Jeep Gear
- - [https://jeep.stellantisgear.ca](https://jeep.stellantisgear.ca)
- - date_published: 2024-10-28T16:03:20.968898+00:00
-
- ## Stephanie Hobson
- - [https://stephaniehobson.ca](https://stephaniehobson.ca)
- - date_published: 2023-02-16T06:08:28+00:00
-
- ## Steve Munro
- - [https://stevemunro.ca](https://stevemunro.ca)
- - date_published: 2024-06-26T13:00:52.779885+00:00
-
- ## Stewart Grant's Personal Page
- - [https://www.stewartgrant.ca](https://www.stewartgrant.ca)
- - date_published: 2024-05-08T22:51:00+00:00
-
- ## Stingers.ca | Official Website of the Concordia Stingers
- - [https://stingers.ca](https://stingers.ca)
- - date_published: 2024-08-19T12:41:15.642827+00:00
-
- ## This is the default server vhost
- - [http://www.stonework.ca](http://www.stonework.ca)
- - date_published: 2024-06-24T11:23:01+00:00
-
- ## Best Canadian Self Storage Facilities | Compare & Reserve Storage Units on Storage.ca
- - [http://www.storage.ca](http://www.storage.ca)
- - date_published: 2024-06-29T17:27:55.342160+00:00
-
- ## Storybooks Canada
- - [https://www.storybookscanada.ca](https://www.storybookscanada.ca)
- - date_published: 2024-06-26T16:25:40+00:00
-
- ## StraightGoods.ca
- - [http://straightgoods.ca](http://straightgoods.ca)
- - date_published: 2015-07-04T01:32:16+00:00
-
- ## Blueprint Beacon - Find Electrical Professionals in Texas
- - [http://strange-aeons.ca](http://strange-aeons.ca)
- - date_published: 2023-12-01T11:21:11+00:00
-
- ## STRATEGIES Games Lab home of Close Quarter Battle the tabletop wargame
- - [https://strategiesgameslab.ca](https://strategiesgameslab.ca)
- - date_published: 2024-12-15T00:03:56.623618+00:00
-
- ## Strategy
- - [https://www.strategyonline.ca](https://www.strategyonline.ca)
- - date_published: 2024-12-25T22:34:46+00:00
-
- ## Stratford News
- - [https://www.stratfordtoday.ca](https://www.stratfordtoday.ca)
- - date_published: 2024-12-26T13:51:26.160284+00:00
-
- ## Stream Safely - Watch Without Worry
- - [https://streamsafely.ca](https://streamsafely.ca)
- - date_published: 2024-10-30T04:20:44.544279+00:00
-
- ## HOME | Struts Gallery | Sackville NB
- - [http://www.strutsgallery.ca](http://www.strutsgallery.ca)
- - date_published: 2025-01-09T09:08:39.056208+00:00
-
- ## Buy sports, concert and theater tickets on StubHub!
- - [https://www.stubhub.ca](https://www.stubhub.ca)
- - date_published: 2024-07-12T13:10:22.732850+00:00
-
- ## Home - Student Association of George Brown College
- - [https://www.studentassociation.ca](https://www.studentassociation.ca)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Online courses and programs Ontario
- - [https://studyonline.ca](https://studyonline.ca)
- - date_published: 2024-10-30T22:44:33.139364+00:00
-
- ## Christopher Stumm
- - [http://stumm.ca](http://stumm.ca)
- - date_published: 2014-05-19T03:14:05+00:00
-
- ## Subaru Canada
- - [https://subaru.ca](https://subaru.ca)
- - date_published: 2024-06-27T13:06:38.110186+00:00
-
- ## Home | Subhadip Mukherjee
- - [https://subhadip.ca](https://subhadip.ca)
- - date_published: 2023-10-25T12:07:28.405618+00:00
-
- ## District of Summerland
- - [https://www.summerland.ca](https://www.summerland.ca)
- - date_published: 2024-08-18T12:19:46.719854+00:00
-
- ## Home
- - [https://www.sunlife.ca](https://www.sunlife.ca)
- - date_published: 2024-09-06T21:15:50.557464+00:00
-
- ## Welcome to Synteq! | Synteq
- - [https://sunnysideinc.ca](https://sunnysideinc.ca)
- - date_published: 2024-09-24T15:43:27+00:00
-
- ## Top 5 Top 5 Toronto Sunrooms Contractors for 2020 | Sunrooms.ca Plumbers and Plumbing Contractors for 2020 | Sunrooms.ca
- - [http://www.sunrooms.ca](http://www.sunrooms.ca)
- - date_published: 2024-06-29T17:27:43.013013+00:00
-
- ## Sunset City Canada - Psychedelics & Magic Mushrooms
- - [https://www.sunsetcity.ca](https://www.sunsetcity.ca)
- - date_published: 2020-03-19T22:16:08+00:00
-
- ## Sunwing Vacations - Book Your Next Vacation Today
- - [https://www.sunwing.ca](https://www.sunwing.ca)
- - date_published: 2024-09-26T10:14:44.252062+00:00
-
- ## Superprof - The Tutoring Community
- - [https://superprof.ca](https://superprof.ca)
- - date_published: 2024-06-15T01:27:38.619438+00:00
-
- ## Supply Professional
- - [https://www.supplypro.ca](https://www.supplypro.ca)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Get Involved. Be Part of the Movement.
- - [http://www.supportcamh.ca](http://www.supportcamh.ca)
- - date_published: 2024-07-12T07:38:45.853507+00:00
-
- ## Support Locc |
- - [http://supportmichaelocc.ca](http://supportmichaelocc.ca)
- - date_published: 2024-07-13T09:57:47.657499+00:00
-
- ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
- - [https://supreme33.ca](https://supreme33.ca)
- - date_published: 2024-10-19T02:38:02.383737+00:00
-
- ## SurveyMonkey: The World’s Most Popular Free Online Survey Tool
- - [https://www.surveymonkey.ca](https://www.surveymonkey.ca)
- - date_published: 2024-06-16T15:46:16.894915+00:00
 

@@ -1,3 +1,99 @@
+ ## Clean Share
+ - [https://cleanshare.app](https://cleanshare.app)
+ - date_published: 2024-03-19T09:49:59+00:00
+
+ ## Clickety
+ - [https://clickety.app](https://clickety.app)
+ - date_published: 2024-08-19T18:23:27.911249+00:00
+
+ ## Show HN: A keyboard-centric clipboard history app for macOS
+ - [https://clipbook.app](https://clipbook.app)
+ - date_published: 2024-06-11T16:40:12+00:00
+
+ ## CloudClarity | Azure Governance, Bulk Tagging and Live Cost Allocation
+ - [https://portal.cloudclarity.app](https://portal.cloudclarity.app)
+ - date_published: 2024-04-11T03:01:07+00:00
+
+ ## Cloudlift Shopify Apps
+ - [https://assets.cloudlift.app](https://assets.cloudlift.app)
+ - date_published: 2024-06-27T15:41:00.786169+00:00
+
+ ## ClubHopr
+ - [https://clubhopr.app](https://clubhopr.app)
+ - date_published: 2023-10-25T11:45:50.679185+00:00
+
+ ## Log in | CMDC
+ - [https://stocknotifier.cmdcbv.app](https://stocknotifier.cmdcbv.app)
+ - date_published: 2024-07-14T03:22:18.911073+00:00
+
+ ## Cmder | Console Emulator
+ - [https://cmder.app](https://cmder.app)
+ - date_published: 2024-07-23T22:48:13.266299+00:00
+
+ ## Cmd J — ChatGPT extension for Google, StackOverflow, Gmail
+ - [https://cmdj.app](https://cmdj.app)
+ - date_published: 2023-03-21T18:37:33+00:00
+
+ ## Cmd J – ChatGPT for Chrome
+ - [https://install.cmdj.app](https://install.cmdj.app)
+ - date_published: 2024-06-19T19:10:04.477105+00:00
+
+ ## Create code documentation using AI | CodexAtlas
+ - [https://codedocumentation.app](https://codedocumentation.app)
+ - date_published: 2024-06-19T09:30:24.755588+00:00
+
+ ## Create code documentation using AI | Code Documentation
+ - [https://demo.codedocumentation.app](https://demo.codedocumentation.app)
+ - date_published: 2024-10-28T23:33:33.442845+00:00
+
+ ## codefund.app
+ - [https://codefund.app](https://codefund.app)
+ - date_published: 2024-05-06T21:42:14.099150+00:00
+
+ ## Show HN: CodeRev.app – Code Review as Interview
+ - [https://coderev.app](https://coderev.app)
+ - date_published: 2024-02-19T11:46:49+00:00
+
+ ## Coinbits – You can bitcoin
+ - [https://coinbits.app](https://coinbits.app)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## CoinFund - Crypto Crowdfunding & Donations
+ - [https://coinfund.app](https://coinfund.app)
+ - date_published: 2024-09-18T02:53:00+00:00
+
+ ## Crypto Tracker Trusted by 1 Million People Worldwide
+ - [https://coinstats.app](https://coinstats.app)
+ - date_published: 2024-07-03T10:45:02.219103+00:00
+
+ ## ColorHub.app
+ - [https://www.colorhub.app](https://www.colorhub.app)
+ - date_published: 2024-07-14T09:43:32.376488+00:00
+
+ ## ColorMagic | AI Color Palette Generator
+ - [https://colormagic.app](https://colormagic.app)
+ - date_published: 2024-06-19T19:19:07.523354+00:00
+
+ ## Columns — checklists arranged in columns
+ - [http://columns.app](http://columns.app)
+ - date_published: 2024-07-08T14:19:58.472607+00:00
+
+ ## Comentario Demo
+ - [https://demo.comentario.app](https://demo.comentario.app)
+ - date_published: 2024-05-05T11:53:32.531441+00:00
+
+ ## https://docs.comentario.app/en/
+ - [https://docs.comentario.app](https://docs.comentario.app)
+ - date_published: 2024-05-05T11:53:31.791677+00:00
+
+ ## Comentario
+ - [https://edge.comentario.app](https://edge.comentario.app)
+ - date_published: 2024-06-22T14:19:26.866677+00:00
+
+ ## DiscussBot
+ - [https://comments.app](https://comments.app)
+ - date_published: 2024-07-10T07:15:59.517823+00:00
+
  ## Developers Community and Resources | Commerce Layer
  - [https://slack.commercelayer.app](https://slack.commercelayer.app)
  - date_published: 2024-01-30T00:00:00+00:00
@@ -960,6 +1056,10 @@
  ## Thomson Reuters - FindLaw
  - [https://reviewplatform.findlaw.app](https://reviewplatform.findlaw.app)
  - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Finger on the App
+ - [https://fingeronthe.app](https://fingeronthe.app)
+ - date_published: 2025-01-14T23:26:11.652981+00:00
 
  ## Sign in - Google Accounts
  - [https://ilh-prod-firebase-default-rtdb.europe-west1.firebasedatabase.app](https://ilh-prod-firebase-default-rtdb.europe-west1.firebasedatabase.app)
@@ -1973,6 +2073,10 @@
  - [https://blog.kaleidoscope.app](https://blog.kaleidoscope.app)
  - date_published: 2024-06-23T15:32:52.679759+00:00
 
+ ## Git Diff and Merge Tool and Text Comparison | Kaleidoscope
+ - [https://kaleidoscope.app](https://kaleidoscope.app)
+ - date_published: 2025-01-14T22:45:58.472798+00:00
+
  ## Infinite Mac
  - [https://kanjitalk7.app](https://kanjitalk7.app)
  - date_published: 2024-05-08T08:45:20.501830+00:00
@@ -1988,6 +2092,10 @@
  ## Keplr Wallet | Your Interchain Gateway
  - [https://www.keplr.app](https://www.keplr.app)
  - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Trang cá độ bóng đá - Trực tiếp kết quả bóng đá hôm nay
+ - [https://ketquabongda.app](https://ketquabongda.app)
+ - date_published: 2025-01-14T20:24:04.459194+00:00
 
  ## KeyLimePie
  - [https://keylimepie.app](https://keylimepie.app)
@@ -3925,112 +4033,4 @@
  ## Up — Upgrade Your Banking
  - [https://rainbowup.netlify.app](https://rainbowup.netlify.app)
  - date_published: 2024-12-21T08:07:58.722358+00:00
-
- ## CSS transitions
- - [https://react-css-transitions-demo.netlify.app](https://react-css-transitions-demo.netlify.app)
- - date_published: 2024-08-18T10:16:14.400030+00:00
-
- ## Show HN: DataSheetGrid, an Airtable-like React component
- - [https://react-datasheet-grid.netlify.app](https://react-datasheet-grid.netlify.app)
- - date_published: 2023-11-11T09:36:04+00:00
-
- ## React Projects || John Smilga
- - [https://react-projects.netlify.app](https://react-projects.netlify.app)
- - date_published: 2024-06-19T06:57:47.996395+00:00
-
- ## Search Github User
- - [https://react-search-github-users.netlify.app](https://react-search-github-users.netlify.app)
- - date_published: 2024-10-28T05:34:21.054496+00:00
-
- ## React TypeScript Cheatsheets | React TypeScript Cheatsheets
- - [https://react-typescript-cheatsheet.netlify.app](https://react-typescript-cheatsheet.netlify.app)
- - date_published: 2024-05-06T13:12:08.260620+00:00
-
- ## Real About Instagram | Compare, Compete, & Invalidate Authenticity
- - [https://realaboutinstagram.netlify.app](https://realaboutinstagram.netlify.app)
- - date_published: 2023-10-25T11:47:47.931192+00:00
-
- ## https://reddark.netlify.app
- - [https://reddark.netlify.app](https://reddark.netlify.app)
- - date_published: 2024-01-09T02:23:31.980088+00:00
-
- ## Jobster Development
- - [https://redux-toolkit-jobster.netlify.app](https://redux-toolkit-jobster.netlify.app)
- - date_published: 2024-10-28T05:34:12.866907+00:00
-
- ## Flowise - Low code LLM Apps Builder
- - [https://remarkable-smakager-ddb2b7.netlify.app](https://remarkable-smakager-ddb2b7.netlify.app)
- - date_published: 2024-07-09T17:41:37.147189+00:00
-
- ## Minneapolis / St. Paul Restaurant Week
- - [https://restaurantweek.netlify.app](https://restaurantweek.netlify.app)
- - date_published: 2024-07-13T19:55:04.264569+00:00
-
- ## Restitution Cartes Grises Quipux Afrique
- - [https://restitutioncartesgrisesquipux.netlify.app](https://restitutioncartesgrisesquipux.netlify.app)
- - date_published: 2024-12-26T15:55:45.830577+00:00
-
- ## Homepage | Create React App Blog
- - [https://reverent-carson-67c52e.netlify.app](https://reverent-carson-67c52e.netlify.app)
- - date_published: 2024-07-02T19:03:47.257018+00:00
-
- ## Document
- - [https://riley-uses.netlify.app](https://riley-uses.netlify.app)
- - date_published: 2024-05-11T10:18:02.857196+00:00
-
- ## RIMdev Likes Food!
- - [https://rimdev-likes-food.netlify.app](https://rimdev-likes-food.netlify.app)
- - date_published: 2024-07-02T18:30:27.995337+00:00
-
- ## Ripple Plastic
- - [https://rippleplastic.netlify.app](https://rippleplastic.netlify.app)
- - date_published: 2024-07-16T21:42:58.981468+00:00
-
- ## Ryan's Blog
- - [https://rmooreblog.netlify.app](https://rmooreblog.netlify.app)
- - date_published: 2024-05-09T08:20:03.321312+00:00
-
- ## My Travel Journal
- - [https://roamingjournal.netlify.app](https://roamingjournal.netlify.app)
- - date_published: 2024-07-02T18:28:19.440222+00:00
-
- ## Rock,paper & scissor
- - [https://rock-paper-scissors-game0302.netlify.app](https://rock-paper-scissors-game0302.netlify.app)
- - date_published: 2024-09-14T10:23:06.914603+00:00
-
- ## Nerdy Coder Clones
- - [https://romantic-archimedes-d17c38.netlify.app](https://romantic-archimedes-d17c38.netlify.app)
- - date_published: 2024-07-02T18:36:25.331630+00:00
-
- ## rssed - a collection of developer RSS feeds - blogroll
- - [https://rssed.netlify.app](https://rssed.netlify.app)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## R Stories
- - [https://rstories.netlify.app](https://rstories.netlify.app)
- - date_published: 2024-06-27T15:21:21.472949+00:00
-
- ## RTK Query Overview | Redux Toolkit
- - [https://rtk-query-docs.netlify.app](https://rtk-query-docs.netlify.app)
- - date_published: 2024-06-23T05:58:09.472084+00:00
-
- ## Sahat Jaldu
- - [https://sahatjaldu.netlify.app](https://sahatjaldu.netlify.app)
- - date_published: 2024-04-04T19:29:53.874468+00:00
-
- ## Sales Emails | Lodestone Studio
- - [https://sales-emails.netlify.app](https://sales-emails.netlify.app)
- - date_published: 2024-07-02T20:50:17.239388+00:00
-
- ## Sapwood Financial Advisors
- - [https://sapwood.netlify.app](https://sapwood.netlify.app)
- - date_published: 2024-07-02T20:50:23.583508+00:00
-
- ## Netlify Screenshot Proxy
- - [https://screenshot-proxy.netlify.app](https://screenshot-proxy.netlify.app)
- - date_published: 2024-06-23T07:12:02.845816+00:00
-
- ## San Diego Development
- - [https://sd-dev-list.netlify.app](https://sd-dev-list.netlify.app)
- - date_published: 2024-05-12T05:43:30.807301+00:00
 

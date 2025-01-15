@@ -1,3 +1,356 @@
+ ## So Yummy - Video Recipes, Easy Dinner Ideas & Healthy Snacks | So Yummy
+ - [https://soyummy.ca](https://soyummy.ca)
+ - date_published: 2024-09-14T07:44:46.702447+00:00
+
+ ## This is the default server vhost
+ - [http://www.spa.ca](http://www.spa.ca)
+ - date_published: 2024-06-24T11:23:01+00:00
+
+ ## Simon Carpentier
+ - [https://spacebar.ca](https://spacebar.ca)
+ - date_published: 2024-05-09T07:39:47.297678+00:00
+
+ ## SpaceQ
+ - [https://spaceq.ca](https://spaceq.ca)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## SPACES at SooToday.com
+ - [https://soo.spaces.ca](https://soo.spaces.ca)
+ - date_published: 2025-01-11T15:55:44+00:00
+
+ ## Spacing | Canadian Urbanism Uncovered
+ - [https://spacing.ca](https://spacing.ca)
+ - date_published: 2024-05-22T12:49:56.686769+00:00
+
+ ## Toronto's City Gift Store
+ - [https://spacingstore.ca](https://spacingstore.ca)
+ - date_published: 2024-04-30T05:10:42.771291+00:00
+
+ ## SPC | Discounts and Promo Codes | Canadian Students
+ - [https://spccard.ca](https://spccard.ca)
+ - date_published: 2024-09-14T22:34:00.596431+00:00
+
+ ## Home - Speak for Ourselves
+ - [https://speakforourselves.ca](https://speakforourselves.ca)
+ - date_published: 2024-08-19T10:55:27.750343+00:00
+
+ ## Spearhead Games
+ - [https://spearheadgames.ca](https://spearheadgames.ca)
+ - date_published: 2024-05-09T08:37:59.515345+00:00
+
+ ## Special K* | Cereal
+ - [https://www.specialk.ca](https://www.specialk.ca)
+ - date_published: 2024-12-18T05:38:56+00:00
+
+ ## Home - Spicy Riffs Hot Sauce
+ - [https://spicyriffshotsauce.ca](https://spicyriffshotsauce.ca)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Agence Web à Montréal Experte Wordpress et SEO - Spinat
+ - [https://www.spinat.ca](https://www.spinat.ca)
+ - date_published: 2024-10-20T23:31:27.285230+00:00
+
+ ## Spirasolaris
+ - [https://www.spirasolaris.ca](https://www.spirasolaris.ca)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Home - Canadian Spondyloarthritis Association
+ - [https://www.spondylitis.ca](https://www.spondylitis.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## News, Scores and Live Streaming
+ - [https://www.sportsnet.ca](https://www.sportsnet.ca)
+ - date_published: 2024-06-23T13:08:34.037314+00:00
+
+ ## Home | Sportstats
+ - [https://www.sportstats.ca](https://www.sportstats.ca)
+ - date_published: 2024-06-27T13:06:52.532392+00:00
+
+ ## Pet Insurance Plans for Dogs & Cats in Canada Get a free Quote for your Pet | Spot Canada
+ - [https://spotpetinsurance.ca](https://spotpetinsurance.ca)
+ - date_published: 2024-08-11T16:36:12.833281+00:00
+
+ ## My Spreadshirt
+ - [https://my.spreadshirt.ca](https://my.spreadshirt.ca)
+ - date_published: 2024-10-21T08:59:40.943129+00:00
+
+ ## Custom T-Shirts and T-Shirt Printing | Spreadshirt
+ - [https://www.spreadshirt.ca](https://www.spreadshirt.ca)
+ - date_published: 2024-06-18T10:20:03.940471+00:00
+
+ ## Sprinklers in Canada, Canada
+ - [http://www.sprinklers.ca](http://www.sprinklers.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Buy Silver & Gold Bullion Online | Sprott Money Canada
+ - [https://www.sprottmoney.ca](https://www.sprottmoney.ca)
+ - date_published: 2024-10-19T23:57:34.110660+00:00
+
+ ## Sprout Family
+ - [https://sproutfamily.ca](https://sproutfamily.ca)
+ - date_published: 2024-10-16T21:07:05.863712+00:00
+
+ ## SQO – group
+ - [https://sqogroup.ca](https://sqogroup.ca)
+ - date_published: 2024-06-30T23:04:01+00:00
+
+ ## Emanote
+ - [https://emanote.srid.ca](https://emanote.srid.ca)
+ - date_published: 2023-10-25T12:07:25.720455+00:00
+
+ ## Sridhar Ratnakumar
+ - [https://www.srid.ca](https://www.srid.ca)
+ - date_published: 2024-08-06T14:21:05+00:00
+
+ ## Canada's No.1 SSL Certificate Provider with Dedicated Support Team
+ - [https://www.ssltrust.ca](https://www.ssltrust.ca)
+ - date_published: 2024-06-16T08:31:41.489264+00:00
+
+ ## ST. STEPHEN'S UNIVERSITY  |  A graduate school of theology, peace and reconciliation
+ - [https://www.ssu.ca](https://www.ssu.ca)
+ - date_published: 2024-10-19T10:46:31.775518+00:00
+
+ ## Digital Money Infrastructure for the Next Billion Users
+ - [https://www.stablecorp.ca](https://www.stablecorp.ca)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## STACKTV - New Shows Streaming Every Day. TRY IT FREE!
+ - [https://www.stacktv.ca](https://www.stacktv.ca)
+ - date_published: 2025-01-09T05:18:20.948085+00:00
+
+ ## Stagecoach Performing Arts Canada - Acting, Dancing and Singing Classes for Kids
+ - [http://www.stagecoachschools.ca](http://www.stagecoachschools.ca)
+ - date_published: 2024-10-21T07:57:46.032801+00:00
+
+ ## St. Albert Local News
+ - [https://www.stalberttoday.ca](https://www.stalberttoday.ca)
+ - date_published: 2024-08-08T19:10:35+00:00
+
+ ## Stallion Express - Canada's #1 eCommerce Shipping Service
+ - [https://stallionexpress.ca](https://stallionexpress.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Stance | Socks, Underwear & Apparel | Shop Now
+ - [https://www.stance.ca](https://www.stance.ca)
+ - date_published: 2024-08-17T23:12:56.541327+00:00
+
+ ## Agence marketing, Web et de design à Sherbrooke | Standish
+ - [https://www.standish.ca](https://www.standish.ca)
+ - date_published: 2024-08-21T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.staples.ca](https://www.staples.ca)
+ - date_published: 2024-08-05T21:54:56.390589+00:00
+
+ ## Starbucks®
+ - [https://app.starbucks.ca](https://app.starbucks.ca)
+ - date_published: 2024-06-16T10:54:08.039100+00:00
+
+ ## Starbucks Help - Starbucks Portal
+ - [https://customerservice.starbucks.ca](https://customerservice.starbucks.ca)
+ - date_published: 2024-10-02T11:36:48.536244+00:00
+
+ ## Starbucks Coffee Company
+ - [https://fr.starbucks.ca](https://fr.starbucks.ca)
+ - date_published: 2024-06-16T10:54:38.076488+00:00
+
+ ## Credit or Debit Card Details
+ - [https://securepaymentform.starbucks.ca](https://securepaymentform.starbucks.ca)
+ - date_published: 2024-07-29T17:15:24+00:00
+
+ ## Starbucks Help - Starbucks Portal
+ - [https://serviceclientele.starbucks.ca](https://serviceclientele.starbucks.ca)
+ - date_published: 2024-10-02T11:44:06.809613+00:00
+
+ ## Starbucks Coffee Company
+ - [https://starbucks.ca](https://starbucks.ca)
+ - date_published: 2024-10-02T11:44:04.117070+00:00
+
+ ## : : : Welcome to stargrunt.ca! : : :
+ - [http://www.stargrunt.ca](http://www.stargrunt.ca)
+ - date_published: 2006-03-20T08:23:44+00:00
+
+ ## Canadian Starmaker Fund
+ - [https://www.starmaker.ca](https://www.starmaker.ca)
+ - date_published: 2024-09-11T16:22:42+00:00
+
+ ## STARS Lab | Space and Terrestrial Autonomous Robotic Systems Lab at the University of Toronto
+ - [http://www.starslab.ca](http://www.starslab.ca)
+ - date_published: 2024-06-22T11:42:02.956904+00:00
+
+ ## Shop the Toronto Star Store | StarStore
+ - [https://starstore.ca](https://starstore.ca)
+ - date_published: 2024-06-23T13:34:47.418957+00:00
+
+ ## State of the City Inc.
+ - [http://www.stateofthecity.ca](http://www.stateofthecity.ca)
+ - date_published: 2025-01-01T14:07:52.430002+00:00
+
+ ## Learn about the project
+ - [https://www.statlewdistrict.ca](https://www.statlewdistrict.ca)
+ - date_published: 2024-07-15T06:10:33.188443+00:00
+
+ ## Gitea: Git with a cup of tea
+ - [https://git.staur.ca](https://git.staur.ca)
+ - date_published: 2024-12-02T20:56:23.426859+00:00
+
+ ## Adrian Unger — Staydecent
+ - [https://staydecent.ca](https://staydecent.ca)
+ - date_published: 2023-11-29T14:42:31.811010+00:00
+ - tags: ['personal']
+
+ ## Home - St. Catharines Stamp Club
+ - [http://stcatharinesstampclub.ca](http://stcatharinesstampclub.ca)
+ - date_published: 2024-12-15T16:29:30.594082+00:00
+
+ ## St. Clement's Anglican Church
+ - [https://www.stclementschurch.ca](https://www.stclementschurch.ca)
+ - date_published: 2024-08-18T09:51:05.208905+00:00
+
+ ## Construction Sylvain Tremblay
+ - [https://stconstruction.ca](https://stconstruction.ca)
+ - date_published: 2024-12-23T12:07:10+00:00
+
+ ## Home • Douglas Stebila
+ - [https://www.douglas.stebila.ca](https://www.douglas.stebila.ca)
+ - date_published: 2024-06-16T15:53:59+00:00
+
+ ## Jeep apparel and merchandise from the official store - Jeep Gear
+ - [https://jeep.stellantisgear.ca](https://jeep.stellantisgear.ca)
+ - date_published: 2024-10-28T16:03:20.968898+00:00
+
+ ## Stephanie Hobson
+ - [https://stephaniehobson.ca](https://stephaniehobson.ca)
+ - date_published: 2023-02-16T06:08:28+00:00
+
+ ## Steve Munro
+ - [https://stevemunro.ca](https://stevemunro.ca)
+ - date_published: 2024-06-26T13:00:52.779885+00:00
+
+ ## Stewart Grant's Personal Page
+ - [https://www.stewartgrant.ca](https://www.stewartgrant.ca)
+ - date_published: 2024-05-08T22:51:00+00:00
+
+ ## Stingers.ca | Official Website of the Concordia Stingers
+ - [https://stingers.ca](https://stingers.ca)
+ - date_published: 2024-08-19T12:41:15.642827+00:00
+
+ ## This is the default server vhost
+ - [http://www.stonework.ca](http://www.stonework.ca)
+ - date_published: 2024-06-24T11:23:01+00:00
+
+ ## Best Canadian Self Storage Facilities | Compare & Reserve Storage Units on Storage.ca
+ - [http://www.storage.ca](http://www.storage.ca)
+ - date_published: 2024-06-29T17:27:55.342160+00:00
+
+ ## Storybooks Canada
+ - [https://www.storybookscanada.ca](https://www.storybookscanada.ca)
+ - date_published: 2024-06-26T16:25:40+00:00
+
+ ## StraightGoods.ca
+ - [http://straightgoods.ca](http://straightgoods.ca)
+ - date_published: 2015-07-04T01:32:16+00:00
+
+ ## Blueprint Beacon - Find Electrical Professionals in Texas
+ - [http://strange-aeons.ca](http://strange-aeons.ca)
+ - date_published: 2023-12-01T11:21:11+00:00
+
+ ## STRATEGIES Games Lab home of Close Quarter Battle the tabletop wargame
+ - [https://strategiesgameslab.ca](https://strategiesgameslab.ca)
+ - date_published: 2024-12-15T00:03:56.623618+00:00
+
+ ## Strategy
+ - [https://www.strategyonline.ca](https://www.strategyonline.ca)
+ - date_published: 2024-12-25T22:34:46+00:00
+
+ ## Stratford News
+ - [https://www.stratfordtoday.ca](https://www.stratfordtoday.ca)
+ - date_published: 2024-12-26T13:51:26.160284+00:00
+
+ ## Stream Safely - Watch Without Worry
+ - [https://streamsafely.ca](https://streamsafely.ca)
+ - date_published: 2024-10-30T04:20:44.544279+00:00
+
+ ## HOME | Struts Gallery | Sackville NB
+ - [http://www.strutsgallery.ca](http://www.strutsgallery.ca)
+ - date_published: 2025-01-09T09:08:39.056208+00:00
+
+ ## Buy sports, concert and theater tickets on StubHub!
+ - [https://www.stubhub.ca](https://www.stubhub.ca)
+ - date_published: 2024-07-12T13:10:22.732850+00:00
+
+ ## Home - Student Association of George Brown College
+ - [https://www.studentassociation.ca](https://www.studentassociation.ca)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## FEED
+ - [https://www.studiofeed.ca](https://www.studiofeed.ca)
+ - date_published: 2025-01-14T21:00:40.828147+00:00
+
+ ## Online courses and programs Ontario
+ - [https://studyonline.ca](https://studyonline.ca)
+ - date_published: 2024-10-30T22:44:33.139364+00:00
+
+ ## Christopher Stumm
+ - [http://stumm.ca](http://stumm.ca)
+ - date_published: 2014-05-19T03:14:05+00:00
+
+ ## Subaru Canada
+ - [https://subaru.ca](https://subaru.ca)
+ - date_published: 2024-06-27T13:06:38.110186+00:00
+
+ ## Home | Subhadip Mukherjee
+ - [https://subhadip.ca](https://subhadip.ca)
+ - date_published: 2023-10-25T12:07:28.405618+00:00
+
+ ## District of Summerland
+ - [https://www.summerland.ca](https://www.summerland.ca)
+ - date_published: 2024-08-18T12:19:46.719854+00:00
+
+ ## Home
+ - [https://www.sunlife.ca](https://www.sunlife.ca)
+ - date_published: 2024-09-06T21:15:50.557464+00:00
+
+ ## Welcome to Synteq! | Synteq
+ - [https://sunnysideinc.ca](https://sunnysideinc.ca)
+ - date_published: 2024-09-24T15:43:27+00:00
+
+ ## Top 5 Top 5 Toronto Sunrooms Contractors for 2020 | Sunrooms.ca Plumbers and Plumbing Contractors for 2020 | Sunrooms.ca
+ - [http://www.sunrooms.ca](http://www.sunrooms.ca)
+ - date_published: 2024-06-29T17:27:43.013013+00:00
+
+ ## Sunset City Canada - Psychedelics & Magic Mushrooms
+ - [https://www.sunsetcity.ca](https://www.sunsetcity.ca)
+ - date_published: 2020-03-19T22:16:08+00:00
+
+ ## Sunwing Vacations - Book Your Next Vacation Today
+ - [https://www.sunwing.ca](https://www.sunwing.ca)
+ - date_published: 2024-09-26T10:14:44.252062+00:00
+
+ ## Superprof - The Tutoring Community
+ - [https://superprof.ca](https://superprof.ca)
+ - date_published: 2024-06-15T01:27:38.619438+00:00
+
+ ## Supply Professional
+ - [https://www.supplypro.ca](https://www.supplypro.ca)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Get Involved. Be Part of the Movement.
+ - [http://www.supportcamh.ca](http://www.supportcamh.ca)
+ - date_published: 2024-07-12T07:38:45.853507+00:00
+
+ ## Support Locc |
+ - [http://supportmichaelocc.ca](http://supportmichaelocc.ca)
+ - date_published: 2024-07-13T09:57:47.657499+00:00
+
+ ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
+ - [https://supreme33.ca](https://supreme33.ca)
+ - date_published: 2024-10-19T02:38:02.383737+00:00
+
+ ## SurveyMonkey: The World’s Most Popular Free Online Survey Tool
+ - [https://www.surveymonkey.ca](https://www.surveymonkey.ca)
+ - date_published: 2024-06-16T15:46:16.894915+00:00
+
  ## Home - Sustainable Canada Dialogues – Sustainability, viability
  - [http://www.sustainablecanadadialogues.ca](http://www.sustainablecanadadialogues.ca)
  - date_published: 2025-01-01T17:10:18+00:00
@@ -2305,6 +2658,10 @@
  - [http://carte.uqam.ca](http://carte.uqam.ca)
  - date_published: 2024-12-15T13:36:33+00:00
 
+ ## Accueil - 2024 - École de design - UQAM
+ - [https://design.uqam.ca](https://design.uqam.ca)
+ - date_published: 2025-01-14T21:00:38.540141+00:00
+
  ## Bureau des diplômés
  - [https://diplomes.uqam.ca](https://diplomes.uqam.ca)
  - date_published: 2024-12-15T13:37:02.300996+00:00
@@ -3661,362 +4018,4 @@
  ## Celebrating 50 Years
  - [https://www.edu.uwo.ca](https://www.edu.uwo.ca)
  - date_published: 2024-04-04T00:00:00+00:00
-
- ## Faculty of Engineering - Western University
- - [https://www.eng.uwo.ca](https://www.eng.uwo.ca)
- - date_published: 2024-06-24T05:32:25+00:00
-
- ## Faculty of Information & Media Studies - Western University
- - [https://www.fims.uwo.ca](https://www.fims.uwo.ca)
- - date_published: 2024-06-24T08:21:15.404170+00:00
-
- ## Ivey Business School
- - [https://www.ivey.uwo.ca](https://www.ivey.uwo.ca)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Faculty of Law - Western University
- - [https://www.law.uwo.ca](https://www.law.uwo.ca)
- - date_published: 2024-06-24T04:00:23+00:00
-
- ## Western Libraries - Western University
- - [https://www.lib.uwo.ca](https://www.lib.uwo.ca)
- - date_published: 2024-06-21T11:30:12+00:00
-
- ## Schulich School of Medicine & Dentistry - Western University
- - [https://www.schulich.uwo.ca](https://www.schulich.uwo.ca)
- - date_published: 2024-06-20T19:20:43+00:00
-
- ## Faculty of Social Science - Western University
- - [https://www.ssc.uwo.ca](https://www.ssc.uwo.ca)
- - date_published: 2024-06-20T13:40:51+00:00
-
- ## Academic Calendar - Western University
- - [https://www.westerncalendar.uwo.ca](https://www.westerncalendar.uwo.ca)
- - date_published: 2024-06-24T08:22:31.512238+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://assets.vacationvaults.ca](https://assets.vacationvaults.ca)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Home | Vanguard Canada
- - [https://www.vanguard.ca](https://www.vanguard.ca)
- - date_published: 2024-10-17T13:57:32.001618+00:00
-
- ## Leading Vape Wholesaler & E-Juice Distributor | VapeDaddy Canada
- - [http://www.vapedaddy.ca](http://www.vapedaddy.ca)
- - date_published: 2024-05-11T02:44:10+00:00
-
- ## About
- - [https://varun.ca](https://varun.ca)
- - date_published: 2023-10-25T09:02:48.656185+00:00
- - tags: ['personal']
-
- ## Home - Vancouver Cherry Blossom Festival
- - [https://www.vcbf.ca](https://www.vcbf.ca)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Venera Arnaoudova – Associate Professor at Washington State University
- - [http://veneraarnaoudova.ca](http://veneraarnaoudova.ca)
- - date_published: 2024-09-04T18:59:54.638841+00:00
-
- ## City of Vernon
- - [https://www.vernon.ca](https://www.vernon.ca)
- - date_published: 2024-08-17T19:15:51+00:00
-
- ## Home | VersaFi
- - [https://versafi.ca](https://versafi.ca)
- - date_published: 2024-10-02T02:04:31+00:00
-
- ## Vervex ⋆ Business Consulting & Art Direction ⋆ Free Consultation
- - [http://vervex.ca](http://vervex.ca)
- - date_published: 2024-08-06T00:00:21.332337+00:00
-
- ## Wind turbine manufacturing and service | Vestas CA
- - [https://vestas.ca](https://vestas.ca)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
- - [https://www.viagogo.ca](https://www.viagogo.ca)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## VIA Rail Canada
- - [http://viarail.ca](http://viarail.ca)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Vibrant Content
- - [https://www.vibrantcontent.ca](https://www.vibrantcontent.ca)
- - date_published: 2024-09-12T19:00:54.140817+00:00
-
- ## Cough Medicine, Cold Medicine, Flu Relief & Allergy Medicine  - Vicks
- - [https://vicks.ca](https://vicks.ca)
- - date_published: 2024-10-08T08:54:20+00:00
-
- ## Have Your Say
- - [https://engage.victoria.ca](https://engage.victoria.ca)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## City of Victoria
- - [https://victoria.ca](https://victoria.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Victoria Festival of Authors
- - [https://victoriafestivalofauthors.ca](https://victoriafestivalofauthors.ca)
- - date_published: 2024-08-18T09:50:11.654665+00:00
-
- ## VIDEOGAMESPLUS.CA
- - [https://videogamesplus.ca](https://videogamesplus.ca)
- - date_published: 2024-07-17T12:18:14.032378+00:00
-
- ## Videographers in Canada, Canada
- - [http://www.videographers.ca](http://www.videographers.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Transformative Learning & Leadership - Viewpoint Leadership
- - [http://viewpointleadership.ca](http://viewpointleadership.ca)
- - date_published: 2021-06-20T00:00:00+00:00
-
- ## Vijay P
- - [https://www.vijayp.ca](https://www.vijayp.ca)
- - date_published: 2024-08-19T11:01:42.983310+00:00
-
- ## Village Life - Ontario Lifestyle News
- - [https://www.village-life.ca](https://www.village-life.ca)
- - date_published: 2024-12-26T13:51:19+00:00
-
- ## Strengthening the communities we serve
- - [https://www.villagemedia.ca](https://www.villagemedia.ca)
- - date_published: 2024-12-26T13:50:16.486238+00:00
-
- ## Village Report - Canada's News Aggregator
- - [https://www.villagereport.ca](https://www.villagereport.ca)
- - date_published: 2024-12-26T13:52:50.263333+00:00
-
- ## VinAudit Canada Official Site - VIN Check | Canadian Vehicle History Reports
- - [https://www.vinaudit.ca](https://www.vinaudit.ca)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## VintageComputer.ca – A vintage computer virtual exhibit in Canada
- - [https://vintagecomputer.ca](https://vintagecomputer.ca)
- - date_published: 2024-08-07T02:21:03+00:00
-
- ## Mobile Phones, Plans, Internet & More - Virgin Plus
- - [http://www.virginmobile.ca](http://www.virginmobile.ca)
- - date_published: 2023-06-09T23:10:19+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://visa.ca](https://visa.ca)
- - date_published: 2024-03-28T07:01:27.954091+00:00
-
- ## Page d’accueil VisitTheUSA.com
- - [https://fr.visittheusa.ca](https://fr.visittheusa.ca)
- - date_published: 2024-07-08T14:22:09.005181+00:00
-
- ## VisitTheUSA.com Homepage
- - [https://www.visittheusa.ca](https://www.visittheusa.ca)
- - date_published: 2024-12-10T02:41:46+00:00
-
- ## Vistek is Canada's Camera Store, Shop for Mirrorless Cameras, Digital Cameras, 4k Video Cameras and more - Toronto, Calgary, Edmonton, Canada
- - [https://www.vistek.ca](https://www.vistek.ca)
- - date_published: 2024-06-30T11:47:39.898458+00:00
-
- ## Vitalik Buterin's website
- - [https://vitalik.ca](https://vitalik.ca)
- - date_published: 2023-10-25T09:03:03.847296+00:00
- - tags: ['personal']
-
- ## VITA Digital Collections Software
- - [http://vitatoolkit.ca](http://vitatoolkit.ca)
- - date_published: 2022-04-11T00:00:00+00:00
-
- ## Home
- - [https://vividata.ca](https://vividata.ca)
- - date_published: 2024-12-26T13:47:52.665002+00:00
-
- ## vKey
- - [https://vkey.ca](https://vkey.ca)
- - date_published: 2024-09-29T00:41:29.894780+00:00
-
- ## Village Media
- - [https://vmcdn.ca](https://vmcdn.ca)
- - date_published: 2020-01-27T17:45:32+00:00
-
- ## Valeurs mobilières Desjardins (VMD)
- - [https://www.vmdconseil.ca](https://www.vmdconseil.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## VM Web Solutions
- - [https://reviews.vmwebsolutions.ca](https://reviews.vmwebsolutions.ca)
- - date_published: 2024-07-13T19:10:59.064881+00:00
-
- ## Scientology Volunteer Ministers: Humanitarian Organization & Aid, Disaster Response
- - [http://www.volunteerministers.ca](http://www.volunteerministers.ca)
- - date_published: 2024-09-04T17:53:49.732408+00:00
-
- ## V · Home
- - [https://v-os.ca](https://v-os.ca)
- - date_published: 2024-08-08T03:07:05.544697+00:00
-
- ## Home » WAG
- - [http://wag.ca](http://wag.ca)
- - date_published: 2024-12-12T00:00:40+00:00
-
- ## Working at Walmart Canada | Jobs and Careers at Walmart Canada
- - [https://careers.walmart.ca](https://careers.walmart.ca)
- - date_published: 2024-07-09T12:52:09.019882+00:00
-
- ## Walmart Pharmacy
- - [https://pharmacy.walmart.ca](https://pharmacy.walmart.ca)
- - date_published: 2024-10-17T07:08:46.689381+00:00
-
- ## Untitled Electrode Web Application
- - [https://seller.walmart.ca](https://seller.walmart.ca)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Online Shopping Canada: Everyday Low Prices at Walmart.ca!
- - [https://www.walmart.ca](https://www.walmart.ca)
- - date_published: 2024-06-17T05:42:29+00:00
-
- ## Walmart Canada Corporate News and Information
- - [https://www.walmartcanada.ca](https://www.walmartcanada.ca)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## The Warbard
- - [http://www.warbard.ca](http://www.warbard.ca)
- - date_published: 2024-07-20T06:20:26.462004+00:00
-
- ## WarGamer Eric's Hobby and Gaming Emporium
- - [https://wargamer-eric.ca](https://wargamer-eric.ca)
- - date_published: 2024-10-26T17:56:11.387137+00:00
-
- ## Warner Music Canada Online Store
- - [https://store.warnermusic.ca](https://store.warnermusic.ca)
- - date_published: 2024-05-13T03:42:21.998285+00:00
-
- ## Home | Warner Music Canada
- - [https://www.warnermusic.ca](https://www.warnermusic.ca)
- - date_published: 2024-07-17T11:28:27.048301+00:00
-
- ## Wasted Talent - a webcomic by jam
- - [http://wastedtalent.ca](http://wastedtalent.ca)
- - date_published: 2024-12-27T20:35:14.638107+00:00
-
- ## Wasted Talent - a webcomic by jam
- - [http://www.wastedtalent.ca](http://www.wastedtalent.ca)
- - date_published: 2024-07-17T08:20:45.928938+00:00
-
- ## Homepage | Waterfront Toronto
- - [https://www.waterfrontoronto.ca](https://www.waterfrontoronto.ca)
- - date_published: 2024-08-16T17:55:34+00:00
-
- ## Waterpower Canada | Canada’s largest electricity sector
- - [https://waterpowercanada.ca](https://waterpowercanada.ca)
- - date_published: 2024-12-25T19:51:30+00:00
-
- ## Basement Waterproofing in Toronto, the GTA & Across Canada | Waterproofing.ca by N49
- - [http://www.waterproofing.ca](http://www.waterproofing.ca)
- - date_published: 2024-06-29T17:27:01.066373+00:00
-
- ## Waye Mason
- - [https://wayemason.ca](https://wayemason.ca)
- - date_published: 2024-08-19T11:02:23.925926+00:00
-
- ## Wayfair.ca – Online Home Store for Furniture, Decor, Outdoors & More | Wayfair.ca
- - [https://secure.wayfair.ca](https://secure.wayfair.ca)
- - date_published: 2024-09-17T21:43:49.267781+00:00
-
- ## Wayfair Canada - Online Home Store for Furniture, Decor, Outdoors & More
- - [https://wayfair.ca](https://wayfair.ca)
- - date_published: 2024-06-15T11:13:22.069839+00:00
-
- ## Wayne Beaton
- - [http://blog.waynebeaton.ca](http://blog.waynebeaton.ca)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Canadian Investment News | Wealth Professional
- - [http://www.wealthprofessional.ca](http://www.wealthprofessional.ca)
- - date_published: 2024-12-22T22:55:48.757699+00:00
-
- ## Weather forecast Canada : The best FREE weather 15 day forecast - Weather Crave
- - [https://www.weathercrave.ca](https://www.weathercrave.ca)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Canadian Web3 Council
- - [http://web3canada.ca](http://web3canada.ca)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Web3TO - Welcome to Web3 Toronto
- - [https://www.web3to.ca](https://www.web3to.ca)
- - date_published: 2024-06-16T04:07:49.613432+00:00
-
- ## WebDev - Index
- - [https://web-develop.ca](https://web-develop.ca)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Centova Cast
- - [https://radio01.websavers.ca](https://radio01.websavers.ca)
- - date_published: 2024-05-01T00:28:39.340823+00:00
-
- ## Canadian Web Hosting by Websavers: Hassle Free Web Hosting
- - [https://websavers.ca](https://websavers.ca)
- - date_published: 2024-08-20T14:41:41+00:00
-
- ## Ottawa SEO Services & Conversion Optimization - WebSearchGuide
- - [http://www.websearchguide.ca](http://www.websearchguide.ca)
- - date_published: 2020-10-26T03:20:50+00:00
-
- ## Affordable Web Design in Canada, Canadian Business Websites
- - [https://websites.ca](https://websites.ca)
- - date_published: 2024-10-30T18:36:23+00:00
-
- ## Let's find your wedding team
- - [https://www.weddingwire.ca](https://www.weddingwire.ca)
- - date_published: 2024-10-17T08:46:53.269178+00:00
-
- ## Top 5 Top 5 Toronto Weight Loss for 2020 | WeightLoss.ca Plumbers and Plumbing Contractors for 2020 | WeightLoss.ca
- - [http://www.weightloss.ca](http://www.weightloss.ca)
- - date_published: 2024-06-29T17:37:54.235836+00:00
-
- ## Well.ca - A Healthier lifestyle, Just One Click Away.
- - [https://well.ca](https://well.ca)
- - date_published: 2024-10-17T05:53:39.233166+00:00
-
- ## Wellwise by Shoppers: Home health care solutions
- - [https://www.wellwise.ca](https://www.wellwise.ca)
- - date_published: 2024-09-30T12:16:27.118590+00:00
-
- ## Wes Cook, Developer
- - [https://wescook.ca](https://wescook.ca)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Westbridge Capital
- - [https://www.westbridgecapital.ca](https://www.westbridgecapital.ca)
- - date_published: 2024-12-27T12:43:29.420714+00:00
-
- ## Training in Research Computing – Research Computing
- - [https://mint.westdri.ca](https://mint.westdri.ca)
- - date_published: 2024-12-27T14:03:13.962033+00:00
-
- ## Western Alumni
- - [https://alumni.westernu.ca](https://alumni.westernu.ca)
- - date_published: 2024-06-24T08:21:45.105621+00:00
-
- ## Events Calendar - Events Calendar - Western University
- - [http://events.westernu.ca](http://events.westernu.ca)
- - date_published: 2024-06-24T08:22:27.784340+00:00
-
- ## Home - Western Alumni Magazine | Western Alumni Magazine
- - [https://magazine.westernu.ca](https://magazine.westernu.ca)
- - date_published: 2024-06-24T08:21:30.182246+00:00
-
- ## Western News
- - [https://news.westernu.ca](https://news.westernu.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Western Giving
- - [https://www.giving.westernu.ca](https://www.giving.westernu.ca)
- - date_published: 2024-06-24T08:21:17.452735+00:00
-
- ## Home - Western USC
- - [https://westernusc.ca](https://westernusc.ca)
- - date_published: 2024-04-15T00:00:00+00:00
 

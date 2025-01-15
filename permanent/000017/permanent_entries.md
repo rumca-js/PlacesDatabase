@@ -1,3 +1,300 @@
+ ## melkat.blog - hi there! please enjoy my blog of things i think are interesting
+ - [https://melkat.blog](https://melkat.blog)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## The Metamodel Blog
+ - [https://metamodel.blog](https://metamodel.blog)
+ - date_published: 2023-07-06T13:54:31+00:00
+
+ ## Michele Neylon :: Pensieri
+ - [https://michele.blog](https://michele.blog)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Aaron Aiken
+		- Aaron Aiken
+ - [https://aaronaiken.micro.blog](https://aaronaiken.micro.blog)
+ - date_published: 2024-07-07T04:27:07+00:00
+
+ ## Lisa Sieverts
+ - [https://agilelisa.micro.blog](https://agilelisa.micro.blog)
+ - date_published: 2023-11-29T15:29:38.973597+00:00
+ - tags: ['personal']
+
+ ## alex ink
+ - [https://alexink.micro.blog](https://alexink.micro.blog)
+ - date_published: 2024-08-07T20:15:53+00:00
+
+ ## Life is an Experiment and I’m not in the Control Group
+ - [https://alligator.micro.blog](https://alligator.micro.blog)
+ - date_published: 2024-06-08T13:02:23+00:00
+
+ ## Lou Plummer's Obsidian Posts
+		- Lou Plummer's Obsidian Posts
+ - [https://amerpie2.micro.blog](https://amerpie2.micro.blog)
+ - date_published: 2024-07-03T23:53:38+00:00
+
+ ## Lou Plummer
+ - [https://amerpiegateway.micro.blog](https://amerpiegateway.micro.blog)
+ - date_published: 2024-06-11T23:48:23+00:00
+
+ ## Amerpie by Lou Plummer
+ - [https://amerpie.micro.blog](https://amerpie.micro.blog)
+ - date_published: 2024-08-08T11:43:19+00:00
+
+ ## annie mueller
+ - [https://annie.micro.blog](https://annie.micro.blog)
+ - date_published: 2024-06-19T14:19:45+00:00
+
+ ## bapsi
+ - [https://bapsi.micro.blog](https://bapsi.micro.blog)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Bill Bennett
+ - [https://billbennett.micro.blog](https://billbennett.micro.blog)
+ - date_published: 2024-07-07T05:40:40+00:00
+
+ ## Micro.blog
+ - [https://cdn.micro.blog](https://cdn.micro.blog)
+ - date_published: 2024-07-07T07:34:02.570535+00:00
+
+ ## Micro.blog Community Challenges
+ - [https://challenges.micro.blog](https://challenges.micro.blog)
+ - date_published: 2024-05-02T04:04:42+00:00
+
+ ## Dave Winer
+ - [https://dave.micro.blog](https://dave.micro.blog)
+ - date_published: 2024-04-29T02:42:34.726615+00:00
+
+ ## Diplomatic Diva
+		- Diplomatic Diva
+ - [https://diplomaticdiva.micro.blog](https://diplomaticdiva.micro.blog)
+ - date_published: 2024-07-06T22:14:35+00:00
+
+ ## Frank Meeuwsen
+ - [https://frank.micro.blog](https://frank.micro.blog)
+ - date_published: 2024-08-06T06:57:15+00:00
+
+ ## Hey, Gabz!
+ - [https://gabz.micro.blog](https://gabz.micro.blog)
+ - date_published: 2024-07-03T20:30:28+00:00
+
+ ## Greg Morris
+ - [https://greg-morris.micro.blog](https://greg-morris.micro.blog)
+ - date_published: 2024-12-21T16:20:15+00:00
+
+ ## John Gruber
+ - [https://gruber.micro.blog](https://gruber.micro.blog)
+ - date_published: 2024-02-11T23:29:19+00:00
+
+ ## Micro.blog Help Center
+ - [https://help.micro.blog](https://help.micro.blog)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Jarrod Blundy —
+ - [https://jarrod.micro.blog](https://jarrod.micro.blog)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Jacob Graudin
+		- Jacob Graudin
+ - [https://jbgraudin.micro.blog](https://jbgraudin.micro.blog)
+ - date_published: 2024-07-06T18:29:04+00:00
+
+ ## JP Camara
+ - [https://jpcamara.micro.blog](https://jpcamara.micro.blog)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## The Art Of Not Asking Why
+ - [https://jtr-test.micro.blog](https://jtr-test.micro.blog)
+ - date_published: 2024-06-26T17:37:39+00:00
+
+ ## Ken Kocienda
+ - [https://kocienda.micro.blog](https://kocienda.micro.blog)
+ - date_published: 2024-04-11T17:12:36+00:00
+
+ ## Lex Friedman
+ - [https://lex.micro.blog](https://lex.micro.blog)
+ - date_published: 2024-07-03T20:17:38+00:00
+
+ ## Link Punk: A Linkblog
+ - [https://linkpunk.micro.blog](https://linkpunk.micro.blog)
+ - date_published: 2024-06-17T22:01:16+00:00
+
+ ## Manton Reece
+ - [https://manton.micro.blog](https://manton.micro.blog)
+ - date_published: 2024-07-02T15:57:08+00:00
+
+ ## mattypenny
+ - [https://mattypenny.micro.blog](https://mattypenny.micro.blog)
+ - date_published: 2024-07-07T00:10:58+00:00
+
+ ## Merson the Person
+ - [https://mersontheperson.micro.blog](https://mersontheperson.micro.blog)
+ - date_published: 2024-06-28T19:41:21+00:00
+
+ ## Micro.blog
+ - [https://micro.blog](https://micro.blog)
+ - date_published: 2023-11-29T15:49:12.955798+00:00
+
+ ## Micro Monday
+		- Micro Monday
+ - [https://monday.micro.blog](https://monday.micro.blog)
+ - date_published: 2023-08-14T16:09:38+00:00
+
+ ## Mythical Type
+ - [https://mythicaltype.micro.blog](https://mythicaltype.micro.blog)
+ - date_published: 2024-12-12T01:31:55+00:00
+
+ ## NRH
+ - [https://nathanrhale.micro.blog](https://nathanrhale.micro.blog)
+ - date_published: 2024-06-15T04:23:57+00:00
+
+ ## ner3y
+ - [https://ner3y.micro.blog](https://ner3y.micro.blog)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Micro.blog News
+ - [https://news.micro.blog](https://news.micro.blog)
+ - date_published: 2024-08-16T22:26:50+00:00
+
+ ## Paul Kafasis
+ - [https://pbones.micro.blog](https://pbones.micro.blog)
+ - date_published: 2024-03-22T21:04:24+00:00
+
+ ## Bask in the glow
+ - [https://peroty.micro.blog](https://peroty.micro.blog)
+ - date_published: 2024-08-04T13:30:28+00:00
+
+ ## P in the wild
+ - [https://pinthewild.micro.blog](https://pinthewild.micro.blog)
+ - date_published: 2024-07-04T10:48:22+00:00
+
+ ## Pukerua Bay boy
+ - [https://pkboi.micro.blog](https://pkboi.micro.blog)
+ - date_published: 2024-10-22T19:02:31.869608+00:00
+
+ ## podiboq's thoughts - just another microBlog
+ - [https://podiboq.micro.blog](https://podiboq.micro.blog)
+ - date_published: 2020-11-22T00:00:00+00:00
+
+ ## Scott Jeffries
+ - [https://scottjeffries.micro.blog](https://scottjeffries.micro.blog)
+ - date_published: 2024-07-01T21:48:54+00:00
+
+ ## Sidebar For Tiny Theme
+ - [https://sidebar-for-tiny-theme.micro.blog](https://sidebar-for-tiny-theme.micro.blog)
+ - date_published: 2024-04-06T02:02:05+00:00
+
+ ## Micro.blog Status
+ - [https://status.micro.blog](https://status.micro.blog)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Sumo Theme
+ - [https://sumo.micro.blog](https://sumo.micro.blog)
+ - date_published: 2024-10-25T14:31:37+00:00
+
+ ## tbc aka tbc0 aka Tim Chambers
+ - [https://tbc.micro.blog](https://tbc.micro.blog)
+ - date_published: 2024-06-22T04:49:21+00:00
+
+ ## Tiny Theme for Micro.blog
+ - [https://tiny.micro.blog](https://tiny.micro.blog)
+ - date_published: 2024-05-04T09:41:08.873707+00:00
+
+ ## Undamned One
+ - [https://undamnedone.micro.blog](https://undamnedone.micro.blog)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Maurice Parker
+    - Maurice Parker
+ - [https://vincode.micro.blog](https://vincode.micro.blog)
+ - date_published: 2023-04-28T20:52:33+00:00
+
+ ## Welcome to Micro.blog
+ - [https://welcome.micro.blog](https://welcome.micro.blog)
+ - date_published: 2024-05-30T14:01:51+00:00
+
+ ## wings open wide
+ - [https://wow.micro.blog](https://wow.micro.blog)
+ - date_published: 2024-03-29T15:43:43+00:00
+
+ ## Will Stone
+ - [https://ws.micro.blog](https://ws.micro.blog)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## alt-ctrl-zb
+ - [https://zakb.micro.blog](https://zakb.micro.blog)
+ - date_published: 2024-07-21T05:21:22+00:00
+
+ ## Zachary Hamed
+ - [https://zmh.micro.blog](https://zmh.micro.blog)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Micro.publish
+ - [https://micropublish.blog](https://micropublish.blog)
+ - date_published: 2024-06-16T07:05:42+00:00
+
+ ## mikeshafer.blog
+ - [https://mikeshafer.blog](https://mikeshafer.blog)
+ - date_published: 2023-12-20T05:39:06.849238+00:00
+ - tags: ['personal']
+
+ ## Doing Our Bit
+ - [https://militaryandfamilyhistory.blog](https://militaryandfamilyhistory.blog)
+ - date_published: 2024-06-21T09:41:14.325834+00:00
+
+ ## Mindsers Courses - Tous les cours en ligne du Mindsers Blog
+ - [https://courses.mindsers.blog](https://courses.mindsers.blog)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Mindsers Blog: Inspirer les devs, un article à la fois
+ - [https://mindsers.blog](https://mindsers.blog)
+ - date_published: 2024-05-11T10:18:14.861792+00:00
+
+ ## Mindsers Shop - Merchandising, T-Shirt, Sticker pour les développeurs
+ - [https://shop.mindsers.blog](https://shop.mindsers.blog)
+ - date_published: 2024-07-14T09:11:40.742663+00:00
+
+ - [https://miris.blog](https://miris.blog)
+ - date_published: 2024-02-26T09:12:32.456732+00:00
+ - date_dead_since: 2025-01-04T21:41:29.386898+00:00
+
+ ## mixable Blog | A mix of digital topics.
+ - [https://mixable.blog](https://mixable.blog)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Cosmic Column | Kai Christensen | Substack
+ - [https://mkaic.blog](https://mkaic.blog)
+ - date_published: 2024-02-25T19:26:35.474528+00:00
+
+ ## mkaz.blog
+ - [https://mkaz.blog](https://mkaz.blog)
+ - date_published: 2024-08-07T19:30:52.016844+00:00
+
+ ## (no title)
+ - [https://mlatgt.blog](https://mlatgt.blog)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## mmap(blog)
+ - [https://mmapped.blog](https://mmapped.blog)
+ - date_published: 2023-10-25T09:25:23.417879+00:00
+ - tags: ['personal']
+
+ ## moku.blog
+ - [https://moku.blog](https://moku.blog)
+ - date_published: 2024-10-29T09:26:45.180771+00:00
+
+ ## More is Different | Dan Elton | Substack
+ - [https://moreisdifferent.blog](https://moreisdifferent.blog)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## moviescape.blog
+ - [https://moviescape.blog](https://moviescape.blog)
+ - date_published: 2024-07-02T18:00:53.637864+00:00
+
+ ## Museum of Health Care Blog
+ - [https://museumofhealthcare.blog](https://museumofhealthcare.blog)
+ - date_published: 2024-02-24T18:08:23.471594+00:00
+
  ## The Music Aficionado
  - [https://musicaficionado.blog](https://musicaficionado.blog)
  - date_published: 2024-06-22T12:04:24+00:00
@@ -3753,293 +4050,4 @@ Educação
  ## Loja Editora Pixel
  - [https://www.editorapixel.com.br](https://www.editorapixel.com.br)
  - date_published: 2024-05-10T07:03:34.263956+00:00
-
- ## Fundação Editora Unesp
- - [http://www.editoraunesp.com.br](http://www.editoraunesp.com.br)
- - date_published: 2024-07-15T07:34:34.755944+00:00
-
- ## Blog do Edivaldo
- - [https://www.edivaldobrito.com.br](https://www.edivaldobrito.com.br)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Edgard Kozlowski
- - [http://edkf.com.br](http://edkf.com.br)
- - date_published: 2024-07-13T14:55:34.207791+00:00
-
- ## eduK
- - [https://www.eduk.com.br](https://www.eduk.com.br)
- - date_published: 2024-12-24T09:04:42.552648+00:00
-
- ## EF Education First | Brasil
- - [https://www.ef.com.br](https://www.ef.com.br)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## EGTC Infra – Engenharia em Evolução
- - [https://egtc.com.br](https://egtc.com.br)
- - date_published: 2024-07-13T02:15:32+00:00
-
- ## Home - ✸ Ei, Bonita
- - [https://eibonita.com.br](https://eibonita.com.br)
- - date_published: 2024-07-03T23:18:02.791350+00:00
-
- ## Ei Nerd - O portal do multiverso Nerd!
- - [https://www.einerd.com.br](https://www.einerd.com.br)
- - date_published: 2024-12-26T17:32:42.056592+00:00
-
- ## Brasil | Elecnor Brasil
- - [http://elecnor.com.br](http://elecnor.com.br)
- - date_published: 2024-10-14T21:20:43.328848+00:00
-
- ## Mods GTA San Andreas
- - [http://elitegta.com.br](http://elitegta.com.br)
- - date_published: 2023-10-09T14:31:23+00:00
-
- ## Bem-Vindo à ELIXIR Strings | Elixir® Strings
- - [https://www.elixirstrings.com.br](https://www.elixirstrings.com.br)
- - date_published: 2024-05-21T06:03:29+00:00
-
- ## Elo7 | Produtos Especiais e Personalizados
- - [https://www.elo7.com.br](https://www.elo7.com.br)
- - date_published: 2024-08-07T20:56:01.880116+00:00
-
- ## Cursos | Emagister
- - [https://www.emagister.com.br](https://www.emagister.com.br)
- - date_published: 2024-09-11T16:03:57.231489+00:00
-
- ## Revista de Gestão Social e Ambiental
- - [https://rgsa.emnuvens.com.br](https://rgsa.emnuvens.com.br)
- - date_published: 2024-12-24T09:33:16.483522+00:00
-
- ## GRUPO EP - Empresas Pioneiras
- - [https://www.empresaspioneiras.com.br](https://www.empresaspioneiras.com.br)
- - date_published: 2024-10-28T12:13:28.372386+00:00
-
- ## Empréstimo Online e Rápido | Empréstimo Sim
- - [https://emprestimosim.com.br](https://emprestimosim.com.br)
- - date_published: 2024-06-14T19:05:45+00:00
-
- ## Revisão de Inglês, correção de inglês para trabalhos acadêmicos, pesquisas e artigos científicos | Enago™ - Serviços de Edição, Correção e Revisão de Inglês
- - [https://www.enago.com.br](https://www.enago.com.br)
- - date_published: 2024-12-15T04:13:08.689803+00:00
-
- ## Enel Brasil
- - [https://www.enel.com.br](https://www.enel.com.br)
- - date_published: 2025-01-02T20:34:29+00:00
-
- ## Plataforma Enem - Blog do QG do Enem
- - [https://blog.enem.com.br](https://blog.enem.com.br)
- - date_published: 2024-06-16T15:36:12.077530+00:00
-
- ## Plataforma Enem - Blog do QG do Enem
- - [https://enem.com.br](https://enem.com.br)
- - date_published: 2024-10-11T13:01:38.800537+00:00
-
- ## Plataforma ENEM
- - [https://plataforma.enem.com.br](https://plataforma.enem.com.br)
- - date_published: 2024-09-26T13:16:21+00:00
-
- ## Engesat - Soluções em imagens de satélite e georreferenciamento
- - [https://www.engesat.com.br](https://www.engesat.com.br)
- - date_published: 2024-05-04T08:13:47.489655+00:00
-
- ## ENGIE Brasil
- - [http://engie.com.br](http://engie.com.br)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Enjoei - Venda Rápida e Segura | Comece a Vender Agora
- - [https://photos.enjoei.com.br](https://photos.enjoei.com.br)
- - date_published: 2024-10-28T13:56:01+00:00
-
- ## Enjoei - Venda Rápida e Segura | Comece a Vender Agora
- - [https://www.enjoei.com.br](https://www.enjoei.com.br)
- - date_published: 2024-06-19T08:27:10.237939+00:00
-
- ## ENTELCO TELECOM
- - [https://entelco.com.br](https://entelco.com.br)
- - date_published: 2024-05-09T04:09:14.544901+00:00
-
- ## Epoch Times Brasil - Verdade e Tradição
- - [https://www.epochtimes.com.br](https://www.epochtimes.com.br)
- - date_published: 2024-05-06T16:44:02.632996+00:00
-
- ## Epoch Tv Brasil - Verdade e tradição
- - [https://epochtv.com.br](https://epochtv.com.br)
- - date_published: 2024-06-24T07:35:14.137710+00:00
-
- ## Epoch TV
- - [https://plataforma.epochtv.com.br](https://plataforma.epochtv.com.br)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Pagina Inicial | Equifax
- - [https://www.equifax.com.br](https://www.equifax.com.br)
- - date_published: 2024-08-05T22:08:23.169243+00:00
-
- ## Empresa de Data Center e Tecnologias de Rede Corporativa | Equinix
- - [https://www.equinix.com.br](https://www.equinix.com.br)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Eriksen Costa
- - [https://blog.eriksen.com.br](https://blog.eriksen.com.br)
- - date_published: 2024-10-08T00:00:00+00:00
-
- ## Electric Guitar Strings, Acoustic Guitar Strings, Bass Strings, and Guitar Accessories
- - [https://www.ernieball.com.br](https://www.ernieball.com.br)
- - date_published: 2024-09-02T13:37:17.313478+00:00
-
- ## ERRÁTICA
- - [http://www.erratica.com.br](http://www.erratica.com.br)
- - date_published: 2024-12-17T21:48:13+00:00
-
- ## Escola do Teatro Bolshoi no Brasil
- - [https://www.escolabolshoi.com.br](https://www.escolabolshoi.com.br)
- - date_published: 2024-09-16T03:57:30.057620+00:00
-
- ## Nova home
- - [https://escolaeducacao.com.br](https://escolaeducacao.com.br)
- - date_published: 2024-12-26T17:20:45+00:00
-
- ## EscolhaVeg
- - [https://escolhaveg.com.br](https://escolhaveg.com.br)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Página de inicio
- - [http://www.espaciosantillanaespanol.com.br](http://www.espaciosantillanaespanol.com.br)
- - date_published: 2024-09-13T10:31:20.370347+00:00
-
- ## ESPN Brasil - Tudo Pelo Esporte
- - [https://www.espn.com.br](https://www.espn.com.br)
- - date_published: 2024-05-02T09:41:45.101053+00:00
-
- ## Revista Movimento
- - [https://esquerdasocialista.com.br](https://esquerdasocialista.com.br)
- - date_published: 2024-12-26T19:15:51.454512+00:00
-
- ## Você está aprendendo com a Estácio
- - [https://www.estaciocursoslivres.com.br](https://www.estaciocursoslivres.com.br)
- - date_published: 2024-05-10T06:56:12.651588+00:00
-
- ## Estadão E-Investidor - As principais notícias do mercado financeiro - Fique por dentro das últimas notícias sobre a Bolsa, Mercado Financeiro e dinheiro. Confira também dicas de investimentos e educação financeira no E-Investidor.
- - [https://einvestidor.estadao.com.br](https://einvestidor.estadao.com.br)
- - date_published: 2024-10-28T12:21:56+00:00
-
- ## E+ | Notícias do Entretenimento na Internet
- - [https://emais.estadao.com.br](https://emais.estadao.com.br)
- - date_published: 2025-01-02T08:38:23+00:00
-
- ## Mobilidade urbana | Estadão
- - [https://mobilidade.estadao.com.br](https://mobilidade.estadao.com.br)
- - date_published: 2024-10-28T14:34:43.527492+00:00
-
- ## Estadão | As Últimas Notícias do Brasil e do Mundo
- - [https://www.estadao.com.br](https://www.estadao.com.br)
- - date_published: 2024-09-25T15:34:01+00:00
-
- ## estileras
- - [http://estileras.com.br](http://estileras.com.br)
- - date_published: 2024-02-05T22:29:49+00:00
-
- ## Estrelando
- - [http://estrelando.com.br](http://estrelando.com.br)
- - date_published: 2024-12-26T17:59:06.876436+00:00
-
- ## Estrelando
- - [https://www.estrelando.com.br](https://www.estrelando.com.br)
- - date_published: 2024-12-26T17:32:27.004309+00:00
-
- ## Estuda.com para escolas | Ferramenta para criação de provas
- - [https://estudaescolas.com.br](https://estudaescolas.com.br)
- - date_published: 2024-10-28T11:10:54+00:00
-
- ## Home | ETINERÂNCIAS
- - [https://etinerancias.com.br](https://etinerancias.com.br)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## emdia - sua parceira na negociação de dívidas
- - [https://euemdia.com.br](https://euemdia.com.br)
- - date_published: 2024-06-16T09:15:40.402474+00:00
-
- ## Crie seus eventos e venda inscrições online - A plataforma de Eventos | Even3
- - [https://www.even3.com.br](https://www.even3.com.br)
- - date_published: 2024-08-06T17:28:12.950663+00:00
-
- ## Eventbrite
- - [https://eventbrite.com.br](https://eventbrite.com.br)
- - date_published: 2024-05-12T05:55:36.829100+00:00
-
- ## Ingressos para Shows, Teatros e outros eventos - EVENTIM
- - [https://www.eventim.com.br](https://www.eventim.com.br)
- - date_published: 2024-07-20T14:52:25.577696+00:00
-
- ## Agência de Marketing Digital em Curitiba | Evonline
- - [http://www.evonline.com.br](http://www.evonline.com.br)
- - date_published: 2024-06-20T07:30:33.471366+00:00
-
- ## Eximport | Sistemas de lubrificação
- - [https://eximport.com.br](https://eximport.com.br)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## EY Brasil - Home | Construindo um mundo de negócios melhor
- - [https://www.ey.com.br](https://www.ey.com.br)
- - date_published: 2024-07-13T02:17:54.686855+00:00
-
- ## Fábrica de Ideias Brasileiras
- - [https://fabricadeideiasbrasileiras.com.br](https://fabricadeideiasbrasileiras.com.br)
- - date_published: 2024-09-12T16:55:39.934315+00:00
-
- ## Fabricio Stefani Peruzzo
- - [https://fabricioperuzzo.com.br](https://fabricioperuzzo.com.br)
- - date_published: 2023-12-23T07:30:31.973271+00:00
- - tags: ['personal']
-
- ## Facebook
- - [http://facebook.com.br](http://facebook.com.br)
- - date_published: 2024-09-18T21:54:48.871363+00:00
-
- ## Factorial | Software de RH e DP
- - [https://factorialhr.com.br](https://factorialhr.com.br)
- - date_published: 2024-08-10T23:22:07.002577+00:00
-
- ## Fala! Universidades - As últimas notícias do Brasil e do mundo
- - [https://falauniversidades.com.br](https://falauniversidades.com.br)
- - date_published: 2024-12-26T17:30:38.396755+00:00
-
- ## Faro editorial
- - [https://faroeditorial.com.br](https://faroeditorial.com.br)
- - date_published: 2024-05-10T06:58:04.190042+00:00
-
- ## Farol Santander
- - [https://www.farolsantander.com.br](https://www.farolsantander.com.br)
- - date_published: 2024-06-16T09:16:09.867842+00:00
-
- ## Fast Tecnologia Industrial – Sistemas de Tratamento de Efluentes, ETE Compacta, ETA Compacta, Decanter Centrífugo
- - [https://fastindustria.com.br](https://fastindustria.com.br)
- - date_published: 2024-06-12T01:50:45.094015+00:00
-
- ## Homepage | Stellantis
- - [http://www.fcapress.com.br](http://www.fcapress.com.br)
- - date_published: 2024-10-28T15:34:34.479743+00:00
-
- ## Sistema Fecomércio - Federação do Comércio do Espírito Santo
- - [https://fecomercio-es.com.br](https://fecomercio-es.com.br)
- - date_published: 2024-02-06T13:54:14+00:00
-
- ## FeedClub
- - [https://www.feedclub.com.br](https://www.feedclub.com.br)
- - date_published: 2024-09-01T01:15:54+00:00
-
- ## Felipe Zorzo
- - [https://felipezorzo.com.br](https://felipezorzo.com.br)
- - date_published: 2024-07-19T16:22:45.182543+00:00
-
- ## Fenasucro
- - [http://www.fenasucro.com.br](http://www.fenasucro.com.br)
- - date_published: 2024-08-06T19:28:19+00:00
-
- ## Fernando Quadro
- - [https://fernandoquadro.com.br](https://fernandoquadro.com.br)
- - date_published: 2015-03-19T19:46:09+00:00
-
- ## Website Oficial da Ferrero do Brasil
- - [https://www.ferrero.com.br](https://www.ferrero.com.br)
- - date_published: 2024-06-07T19:25:30+00:00
 

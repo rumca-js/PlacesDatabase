@@ -1,3 +1,23 @@
+ ## Boomerangs - Exit made easy
+ - [https://springworksalumni.boomerangs.ai](https://springworksalumni.boomerangs.ai)
+ - date_published: 2024-10-30T12:14:12.627943+00:00
+
+ ## Conversational AI Platform for Enterprise | boost.ai
+ - [https://boost.ai](https://boost.ai)
+ - date_published: 2024-10-30T16:01:30+00:00
+
+ ## Trust Center
+ - [https://trustcenter.boost.ai](https://trustcenter.boost.ai)
+ - date_published: 2024-10-30T18:32:18.073671+00:00
+
+ ## BoostUp | Forecasting | Revenue Insights | Deal Inspection
+ - [https://boostup.ai](https://boostup.ai)
+ - date_published: 2024-10-29T14:58:43+00:00
+
+ ## RevOps Masterclass by BoostUp
+ - [https://masterclass.boostup.ai](https://masterclass.boostup.ai)
+ - date_published: 2024-10-30T18:38:54.430350+00:00
+
  ## Booth AI - Custom AI at Your Fingertips
  - [https://booth.ai](https://booth.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -648,6 +668,14 @@ Welcome
  - [https://www.chilli.ai](https://www.chilli.ai)
  - date_published: 2024-04-13T00:00:00+00:00
 
+ ## Chipp.ai
+ - [https://app.chipp.ai](https://app.chipp.ai)
+ - date_published: 2025-01-14T21:55:01.661057+00:00
+
+ ## Chipp | Build & Sell Custom ChatGPT & AI on Your Website
+ - [http://chipp.ai](http://chipp.ai)
+ - date_published: 2025-01-14T21:54:53.106928+00:00
+
  ## Chipper AI day
  - [https://www.chipper.ai](https://www.chipper.ai)
  - date_published: 2024-07-12T16:55:02.320376+00:00
@@ -833,6 +861,10 @@ Welcome
  ## CODE19 Racing
  - [https://code19.ai](https://code19.ai)
  - date_published: 2024-09-05T19:57:14.155363+00:00
+
+ ## CodeAnt AI
+ - [https://www.codeant.ai](https://www.codeant.ai)
+ - date_published: 2025-01-14T21:35:10.919162+00:00
 
  ## Codebay - Learning Python on phone with AI tutoring
  - [https://codebay.ai](https://codebay.ai)
@@ -1318,6 +1350,10 @@ Welcome
  ## Corvidae
  - [https://corvidae.ai](https://corvidae.ai)
  - date_published: 2021-06-15T10:52:01+00:00
+
+ ## AI Course Creator
+ - [https://www.coursebox.ai](https://www.coursebox.ai)
+ - date_published: 2025-01-14T21:37:31.876570+00:00
 
  ## CourseGen
  - [https://coursegen.ai](https://coursegen.ai)
@@ -1806,6 +1842,10 @@ Welcome
  - [https://faq.deep-image.ai](https://faq.deep-image.ai)
  - date_published: 2024-10-30T19:44:14.801152+00:00
 
+ ## The Batch | DeepLearning.AI | AI News & Insights
+ - [https://blog.deeplearning.ai](https://blog.deeplearning.ai)
+ - date_published: 2025-01-15T00:02:05.023609+00:00
+
  ## DeepLearning.AI
  - [https://community.deeplearning.ai](https://community.deeplearning.ai)
  - date_published: 2024-08-07T00:00:00+00:00
@@ -2243,6 +2283,10 @@ Welcome
  - [https://duck.ai](https://duck.ai)
  - date_published: 2024-07-02T20:20:30.408207+00:00
 
+ ## Duckie - AI Customer Support for B2B SaaS Companies
+ - [https://www.duckie.ai](https://www.duckie.ai)
+ - date_published: 2025-01-14T21:35:34.885511+00:00
+
  ## DUI开放平台-全链路智能对话开放平台-思必驰AISpeech
  - [http://www.dui.ai](http://www.dui.ai)
  - date_published: 2024-10-21T06:59:01.571348+00:00
@@ -2433,6 +2477,10 @@ Welcome
  ## Ellie - Accelerating Your Data Projects
  - [https://ellie.ai](https://ellie.ai)
  - date_published: 2025-01-09T07:15:28+00:00
+
+ ## ELLIS
+ - [https://www.ellismunich.ai](https://www.ellismunich.ai)
+ - date_published: 2024-12-15T00:00:00+00:00
 
  ## Elo AI | RFP AI & Intelligent Sales Enablement Platform
  - [https://www.elo.ai](https://www.elo.ai)
@@ -3969,52 +4017,4 @@ Welcome
  ## Guides.ai - Tutorials for Artificial Intelligence (AI)
  - [https://guides.ai](https://guides.ai)
  - date_published: 2023-11-12T22:06:18.850956+00:00
-
- ## Guild AI - Better models by measuring
- - [https://guild.ai](https://guild.ai)
- - date_published: 2024-12-03T21:21:02.639066+00:00
-
- ## GuildForge - Autonomous Intelligence for Al
- - [http://guildforge.ai](http://guildforge.ai)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Guru: Your ultimate AI friend right inside WhatsApp
- - [https://www.gurubot.ai](https://www.gurubot.ai)
- - date_published: 2024-06-19T19:20:15.843319+00:00
-
- ## GURU Network - Multi-Chain AI Compute Layer
- - [https://gurunetwork.ai](https://gurunetwork.ai)
- - date_published: 2024-09-24T04:48:28.047492+00:00
-
- ## Guru Sepolia Testnet Block Explorer
- - [https://scan.gurunetwork.ai](https://scan.gurunetwork.ai)
- - date_published: 2024-09-24T00:21:46.533399+00:00
-
- ## GymBuddy.ai - A.I workout planning for gym users
- - [https://gymbuddy.ai](https://gymbuddy.ai)
- - date_published: 2024-10-30T22:30:23.975831+00:00
-
- ## H2O.ai Documentation
- - [https://docs.h2o.ai](https://docs.h2o.ai)
- - date_published: 2024-08-23T09:28:59+00:00
-
- ## H2O AI Cloud
- - [https://genai.h2o.ai](https://genai.h2o.ai)
- - date_published: 2024-09-14T07:45:23.206640+00:00
-
- ## H2O.ai | Convergence of The World's Best Predictive & Generative AI
- - [https://h2o.ai](https://h2o.ai)
- - date_published: 2024-06-14T08:56:57.568098+00:00
-
- ## H2O.ai - GenAI - Sign In
- - [https://h2ogpte.genai.h2o.ai](https://h2ogpte.genai.h2o.ai)
- - date_published: 2024-09-14T07:45:27.865473+00:00
-
- ## H2O.ai - Sign In
- - [https://id.cloud.h2o.ai](https://id.cloud.h2o.ai)
- - date_published: 2024-09-14T07:45:21.554391+00:00
-
- ## H2O.ai - GenAI - Sign In
- - [https://id.public.h2o.ai](https://id.public.h2o.ai)
- - date_published: 2024-09-14T07:45:24.517216+00:00
 

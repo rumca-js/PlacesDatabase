@@ -1,3 +1,67 @@
+ ## Conversational hiring software that gets work done for you — Paradox
+ - [https://paradox.ai](https://paradox.ai)
+ - date_published: 2024-10-28T15:21:35+00:00
+
+ ## Olivia
+ - [https://stg.eu1.paradox.ai](https://stg.eu1.paradox.ai)
+ - date_published: 2024-10-22T07:05:00.987321+00:00
+
+ ## Olivia
+ - [https://stg.paradox.ai](https://stg.paradox.ai)
+ - date_published: 2024-06-18T13:52:20.421988+00:00
+
+ ## Parafin – AI-Powered Real Estate Development
+ - [https://parafin.ai](https://parafin.ai)
+ - date_published: 2024-06-28T13:23:08.771801+00:00
+
+ ## Trusted Identity AI | Paravision
+ - [https://paravision.ai](https://paravision.ai)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Parea AI
+ - [https://app.parea.ai](https://app.parea.ai)
+ - date_published: 2024-05-14T03:30:30.504971+00:00
+
+ ## What is Parea AI? - Parea AI
+ - [https://docs.parea.ai](https://docs.parea.ai)
+ - date_published: 2024-04-08T18:21:57.413194+00:00
+
+ ## Parea AI
+ - [https://parea.ai](https://parea.ai)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Parrot AI: Share recordings, notes, and important moments
+ - [https://app.parrot.ai](https://app.parrot.ai)
+ - date_published: 2024-10-24T01:45:22+00:00
+
+ ## Parrot AI
+ - [https://parrot.ai](https://parrot.ai)
+ - date_published: 2024-04-26T14:36:09+00:00
+
+ ## Pascalcase AI
+ - [https://pascalcase.ai](https://pascalcase.ai)
+ - date_published: 2024-09-13T20:44:24.909061+00:00
+
+ ## Passed.ai
+ - [https://app.passed.ai](https://app.passed.ai)
+ - date_published: 2024-09-09T15:07:30+00:00
+
+ ## AI Content Detection & Plagiarism Checker for Educators
+ - [https://passed.ai](https://passed.ai)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Patterned AI
+ - [https://patterned.ai](https://patterned.ai)
+ - date_published: 2024-06-19T20:38:58.486282+00:00
+
+ ## Pattern | Airport Ground Handling
+ - [https://www.patternlabs.ai](https://www.patternlabs.ai)
+ - date_published: 2024-12-16T17:20:54.740160+00:00
+
+ ## Paxo: AI meeting notes for the real world
+ - [https://paxo.ai](https://paxo.ai)
+ - date_published: 2023-09-22T00:00:00+00:00
+
  ## Paxton is your Legal AI Assistant | Paxton
  - [https://www.paxton.ai](https://www.paxton.ai)
  - date_published: 2024-10-30T07:17:03+00:00
@@ -264,6 +328,10 @@
  ## pipl.ai - Master Cold Outreach with Smart Email Automation
  - [https://pipl.ai](https://pipl.ai)
  - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Piramidal Inc.
+ - [https://piramidal.ai](https://piramidal.ai)
+ - date_published: 2025-01-14T21:35:12.935706+00:00
 
  ## Pirr
  - [https://pirr.ai](https://pirr.ai)
@@ -3981,72 +4049,4 @@
  ## Tom Kemp | Author | Entrepreneur | Seed Investor | Policy Advisor
  - [https://tomkemp.ai](https://tomkemp.ai)
  - date_published: 2023-10-25T11:44:40.418637+00:00
-
- ## Text to Music: AI Song Maker & Lyric to Music Generator
- - [https://tomusic.ai](https://tomusic.ai)
- - date_published: 2024-10-30T23:07:59.286678+00:00
-
- ## Best AI Tools Directory & AI Tools List - Toolify
- - [https://toolify.ai](https://toolify.ai)
- - date_published: 2024-05-09T07:03:57.458916+00:00
-
- ## Tool listing for you and your business | Toolio
- - [https://www.toolio.ai](https://www.toolio.ai)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Best AI Tools & Websites - Toolnest
- - [https://toolnest.ai](https://toolnest.ai)
- - date_published: 2024-10-27T17:04:53+00:00
-
- ## ToolPilot AI - Navigate AI's Possibilities with AI Tools Directory
- - [https://toolpilot.ai](https://toolpilot.ai)
- - date_published: 2024-05-09T07:04:01.725395+00:00
-
- ## Tooltips.ai: AI-Augmented Reading Extension
- - [https://tooltips.ai](https://tooltips.ai)
- - date_published: 2024-06-19T19:20:50.251296+00:00
-
- ## The Ultimate AI tool search engine - TopApps.Ai
- - [https://topapps.ai](https://topapps.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## 斗象科技 - 让安全无法撼动
- - [https://www.tophant.ai](https://www.tophant.ai)
- - date_published: 2024-07-13T16:57:21.635115+00:00
-
- ## Topic Intelligence
- - [https://platform.topicintelligence.ai](https://platform.topicintelligence.ai)
- - date_published: 2024-08-02T14:13:51+00:00
-
- ## Topic Intelligence™ - Unlock your growth
- - [https://topicintelligence.ai](https://topicintelligence.ai)
- - date_published: 2024-08-11T07:06:02.639696+00:00
-
- ## TopTen.AI - All about the top rankings of AI and useful tools.
- - [https://topten.ai](https://topten.ai)
- - date_published: 2024-10-30T19:51:05+00:00
-
- ## Free Online AI Video Editor for Video Creation | TopView
- - [https://www.topview.ai](https://www.topview.ai)
- - date_published: 2024-06-20T07:24:27.037118+00:00
-
- ## Torc Robotics
- - [https://torc.ai](https://torc.ai)
- - date_published: 2024-06-25T18:11:17+00:00
-
- ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://content.to-teach.ai](https://content.to-teach.ai)
- - date_published: 2024-10-30T09:52:21+00:00
-
- ## Discover the future of education
- - [https://www.to-teach.ai](https://www.to-teach.ai)
- - date_published: 2024-06-19T19:08:54.846357+00:00
-
- ## Traceable: Intelligent API Security at Enterprise Scale
- - [https://www.traceable.ai](https://www.traceable.ai)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Brand Protection Software | Anti-Counterfeit Technology
- - [https://www.tracer.ai](https://www.tracer.ai)
- - date_published: 2024-05-13T00:00:00+00:00
 

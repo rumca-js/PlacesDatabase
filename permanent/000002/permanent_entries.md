@@ -1,3 +1,51 @@
+ ## Guild AI - Better models by measuring
+ - [https://guild.ai](https://guild.ai)
+ - date_published: 2024-12-03T21:21:02.639066+00:00
+
+ ## GuildForge - Autonomous Intelligence for Al
+ - [http://guildforge.ai](http://guildforge.ai)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Guru: Your ultimate AI friend right inside WhatsApp
+ - [https://www.gurubot.ai](https://www.gurubot.ai)
+ - date_published: 2024-06-19T19:20:15.843319+00:00
+
+ ## GURU Network - Multi-Chain AI Compute Layer
+ - [https://gurunetwork.ai](https://gurunetwork.ai)
+ - date_published: 2024-09-24T04:48:28.047492+00:00
+
+ ## Guru Sepolia Testnet Block Explorer
+ - [https://scan.gurunetwork.ai](https://scan.gurunetwork.ai)
+ - date_published: 2024-09-24T00:21:46.533399+00:00
+
+ ## GymBuddy.ai - A.I workout planning for gym users
+ - [https://gymbuddy.ai](https://gymbuddy.ai)
+ - date_published: 2024-10-30T22:30:23.975831+00:00
+
+ ## H2O.ai Documentation
+ - [https://docs.h2o.ai](https://docs.h2o.ai)
+ - date_published: 2024-08-23T09:28:59+00:00
+
+ ## H2O AI Cloud
+ - [https://genai.h2o.ai](https://genai.h2o.ai)
+ - date_published: 2024-09-14T07:45:23.206640+00:00
+
+ ## H2O.ai | Convergence of The World's Best Predictive & Generative AI
+ - [https://h2o.ai](https://h2o.ai)
+ - date_published: 2024-06-14T08:56:57.568098+00:00
+
+ ## H2O.ai - GenAI - Sign In
+ - [https://h2ogpte.genai.h2o.ai](https://h2ogpte.genai.h2o.ai)
+ - date_published: 2024-09-14T07:45:27.865473+00:00
+
+ ## H2O.ai - Sign In
+ - [https://id.cloud.h2o.ai](https://id.cloud.h2o.ai)
+ - date_published: 2024-09-14T07:45:21.554391+00:00
+
+ ## H2O.ai - GenAI - Sign In
+ - [https://id.public.h2o.ai](https://id.public.h2o.ai)
+ - date_published: 2024-09-14T07:45:24.517216+00:00
+
  ## H2O.ai Cloud's Status page Powered by Freshstatus | Live status
  - [https://status.cloud.h2o.ai](https://status.cloud.h2o.ai)
  - date_published: 2024-09-14T07:45:16.024502+00:00
@@ -916,6 +964,10 @@
  - [https://invariantlabs.ai](https://invariantlabs.ai)
  - date_published: 2024-10-16T04:03:03.790289+00:00
 
+ ## Inventive: AI-First RFP Automation Software
+ - [https://www.inventive.ai](https://www.inventive.ai)
+ - date_published: 2025-01-14T21:37:30.323256+00:00
+
  ## Home
  - [https://www.investmentmonitor.ai](https://www.investmentmonitor.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -1313,6 +1365,10 @@
  ## Krueger AI Safety Lab – Technical AI Safety Research
  - [https://kasl.ai](https://kasl.ai)
  - date_published: 2024-07-07T07:16:53.830605+00:00
+
+ ## Kater.ai | Turn Data Into Decisions
+ - [https://www.kater.ai](https://www.kater.ai)
+ - date_published: 2025-01-14T21:35:23.665802+00:00
 
  ## Nền tảng đóng gói và khai thác TÀI SẢN TRÍ TUỆ | Ka-Uni
  - [http://kauni.ai](http://kauni.ai)
@@ -3406,6 +3462,10 @@
  - [https://nodifi.ai](https://nodifi.ai)
  - date_published: 2024-09-24T08:07:00.875719+00:00
 
+ ## Top 10+ Cổng Game Nổ hũ Uy Tín - Nohu AI Tặng 668K Cực Đỉnh
+ - [https://nohu.ai](https://nohu.ai)
+ - date_published: 2025-01-14T20:37:05.581178+00:00
+
  ## Nolo - your AI images
  - [https://nolo.ai](https://nolo.ai)
  - date_published: 2024-10-30T12:28:20.976859+00:00
@@ -3840,6 +3900,10 @@
  - [https://bot.orimon.ai](https://bot.orimon.ai)
  - date_published: 2024-06-04T16:59:15+00:00
 
+ ## Ortege | Simplified Blockchain Analysis & Crypto Data Tools
+ - [https://www.ortege.ai](https://www.ortege.ai)
+ - date_published: 2025-01-14T22:15:03.883274+00:00
+
  ## Osmo
  - [https://osmo.ai](https://osmo.ai)
  - date_published: 2024-08-12T00:00:00+00:00
@@ -3967,68 +4031,4 @@
  ## Olivia
  - [https://olivia.paradox.ai](https://olivia.paradox.ai)
  - date_published: 2024-07-15T02:17:22.589261+00:00
-
- ## Conversational hiring software that gets work done for you — Paradox
- - [https://paradox.ai](https://paradox.ai)
- - date_published: 2024-10-28T15:21:35+00:00
-
- ## Olivia
- - [https://stg.eu1.paradox.ai](https://stg.eu1.paradox.ai)
- - date_published: 2024-10-22T07:05:00.987321+00:00
-
- ## Olivia
- - [https://stg.paradox.ai](https://stg.paradox.ai)
- - date_published: 2024-06-18T13:52:20.421988+00:00
-
- ## Parafin – AI-Powered Real Estate Development
- - [https://parafin.ai](https://parafin.ai)
- - date_published: 2024-06-28T13:23:08.771801+00:00
-
- ## Trusted Identity AI | Paravision
- - [https://paravision.ai](https://paravision.ai)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Parea AI
- - [https://app.parea.ai](https://app.parea.ai)
- - date_published: 2024-05-14T03:30:30.504971+00:00
-
- ## What is Parea AI? - Parea AI
- - [https://docs.parea.ai](https://docs.parea.ai)
- - date_published: 2024-04-08T18:21:57.413194+00:00
-
- ## Parea AI
- - [https://parea.ai](https://parea.ai)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Parrot AI: Share recordings, notes, and important moments
- - [https://app.parrot.ai](https://app.parrot.ai)
- - date_published: 2024-10-24T01:45:22+00:00
-
- ## Parrot AI
- - [https://parrot.ai](https://parrot.ai)
- - date_published: 2024-04-26T14:36:09+00:00
-
- ## Pascalcase AI
- - [https://pascalcase.ai](https://pascalcase.ai)
- - date_published: 2024-09-13T20:44:24.909061+00:00
-
- ## Passed.ai
- - [https://app.passed.ai](https://app.passed.ai)
- - date_published: 2024-09-09T15:07:30+00:00
-
- ## AI Content Detection & Plagiarism Checker for Educators
- - [https://passed.ai](https://passed.ai)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Patterned AI
- - [https://patterned.ai](https://patterned.ai)
- - date_published: 2024-06-19T20:38:58.486282+00:00
-
- ## Pattern | Airport Ground Handling
- - [https://www.patternlabs.ai](https://www.patternlabs.ai)
- - date_published: 2024-12-16T17:20:54.740160+00:00
-
- ## Paxo: AI meeting notes for the real world
- - [https://paxo.ai](https://paxo.ai)
- - date_published: 2023-09-22T00:00:00+00:00
 

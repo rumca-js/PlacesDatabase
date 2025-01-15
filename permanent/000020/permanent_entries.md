@@ -1,3 +1,326 @@
+ ## CDEACF
+ - [http://cdeacf.ca](http://cdeacf.ca)
+ - date_published: 2024-06-19T17:35:00+00:00
+
+ ## Canada Deposit Insurance Corporation
+ - [https://www.cdic.ca](https://www.cdic.ca)
+ - date_published: 2024-06-16T09:41:29.651739+00:00
+
+ ## CDMF Performing Arts Festival Society - Home
+ - [http://www.cdmffestival.ca](http://www.cdmffestival.ca)
+ - date_published: 2024-07-13T20:54:09.022556+00:00
+
+ ## Honouring Excellence | Preserving History | Inspiring Generations
+ - [https://www.cdnmedhall.ca](https://www.cdnmedhall.ca)
+ - date_published: 2024-12-11T14:45:36+00:00
+
+ ## https://cdrom.ca
+ - [https://cdrom.ca](https://cdrom.ca)
+ - date_published: 2023-01-01T00:00:00+00:00
+
+ ## Home - Canadian Environmental Law Association
+ - [http://www.cela.ca](http://www.cela.ca)
+ - date_published: 2024-10-19T10:39:28.259521+00:00
+
+ ## Celebration Generation
+ - [http://celebrationgeneration.ca](http://celebrationgeneration.ca)
+ - date_published: 2024-09-03T15:50:13+00:00
+
+ ## centre of the universe
+ - [http://www.cenobyte.ca](http://www.cenobyte.ca)
+ - date_published: 2024-10-19T10:50:47.267980+00:00
+
+ ## Centre Bell
+ - [http://www.centrebell.ca](http://www.centrebell.ca)
+ - date_published: 2024-07-10T11:02:29.334627+00:00
+
+ ## CertaPro Painters | Professional House Painting Contractors and Professional Commercial Painting Contractors
+ - [https://certapro.ca](https://certapro.ca)
+ - date_published: 2024-06-18T16:27:51.055478+00:00
+
+ ## Peintre professionnel Certapro Montréal
+ - [https://certapromontreal.ca](https://certapromontreal.ca)
+ - date_published: 2024-10-22T20:37:40.067536+00:00
+
+ ## Canada's #1 Certification Platform | Certificate.ca
+ - [http://certificate.ca](http://certificate.ca)
+ - date_published: 2025-01-08T14:16:44.630510+00:00
+
+ ## CESAR
+ - [http://cesarnet.ca](http://cesarnet.ca)
+ - date_published: 2024-07-21T06:07:48+00:00
+
+ ## Doctor-Recommended Gentle Skincare Brand | Cetaphil Canada
+ - [https://www.cetaphil.ca](https://www.cetaphil.ca)
+ - date_published: 2024-10-30T23:04:06.459311+00:00
+
+ ## CFES | FCEG |
+ - [https://cfes.ca](https://cfes.ca)
+ - date_published: 2024-07-21T09:11:03.285546+00:00
+
+ ## CFPCLearn – Online Education for Family Physicians
+ - [https://cfpclearn.ca](https://cfpclearn.ca)
+ - date_published: 2024-10-10T19:26:48.449107+00:00
+
+ ## Tel Aviv University Canada – Canadian Friends of Tel Aviv University
+ - [https://cftau.ca](https://cftau.ca)
+ - date_published: 2024-08-19T03:21:37.667871+00:00
+
+ ## Computational Geometry Lab - Index
+ - [https://cglab.ca](https://cglab.ca)
+ - date_published: 2023-04-26T11:00:03+00:00
+
+ ## Home | Challenge Factory
+ - [https://challengefactory.ca](https://challengefactory.ca)
+ - date_published: 2024-06-28T11:23:53.093122+00:00
+
+ ## CharityCAN - Canada's Prospect Research and Relationship Mapping Tool
+ - [http://www.charitycan.ca](http://www.charitycan.ca)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Information, research and resources for fundraisers and their leaders
+ - [http://www.charityinfo.ca](http://www.charityinfo.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Charlie Reese
+ - [https://charliereese.ca](https://charliereese.ca)
+ - date_published: 2024-11-14T06:10:34.287175+00:00
+
+ ## Home
+ - [https://www.charlottetown.ca](https://www.charlottetown.ca)
+ - date_published: 2024-07-07T03:37:27.583646+00:00
+
+ ## Charmaine Li
+ - [https://charmaineli.ca](https://charmaineli.ca)
+ - date_published: 2024-12-25T16:12:29.308908+00:00
+
+ ## Charter Challenge for Fair Voting
+ - [https://www.charterchallenge.ca](https://www.charterchallenge.ca)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Chase Payment Solutions | Chase Canada | chase.ca
+ - [https://merchantservices.chase.ca](https://merchantservices.chase.ca)
+ - date_published: 2024-10-22T01:26:09+00:00
+
+ ## Chase Payment Solutions | Chase Canada | chase.ca
+ - [https://www.chase.ca](https://www.chase.ca)
+ - date_published: 2024-05-04T06:12:33.436323+00:00
+
+ ## ISD2.0-AWS
+ - [https://chatterboxnorth.ca](https://chatterboxnorth.ca)
+ - date_published: 2021-12-30T00:43:55+00:00
+
+ ## Compass
+ - [https://checkcompass.ca](https://checkcompass.ca)
+ - date_published: 2024-08-09T04:27:29.997138+00:00
+
+ ## Cheez-It® Canada – Cheesy Crunchy Satisfaction. |
+ - [https://www.cheezit.ca](https://www.cheezit.ca)
+ - date_published: 2024-12-22T04:46:29+00:00
+
+ ## Experience the Best Private Chef Services in Calgary with Chef Igor
+ - [https://chefigor.ca](https://chefigor.ca)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## The Chemical Institute of Canada
+ - [https://www.cheminst.ca](https://www.cheminst.ca)
+ - date_published: 2024-12-13T02:16:35.022794+00:00
+
+ ## ChessCraft - Never play the same game of chess again
+ - [https://www.chesscraft.ca](https://www.chesscraft.ca)
+ - date_published: 2024-09-02T09:55:27.929441+00:00
+
+ ## Chevrolet Canada | Cars, Trucks, SUVs, Crossovers & Vans
+ - [https://www.chevrolet.ca](https://www.chevrolet.ca)
+ - date_published: 2024-06-20T07:45:15.310364+00:00
+
+ ## The Canadian Hydrogen and Fuel Cell Association
+ - [https://www.chfca.ca](https://www.chfca.ca)
+ - date_published: 2024-08-25T14:22:35+00:00
+
+ ## Childcare in Canada, Canada
+ - [http://www.childcare.ca](http://www.childcare.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Canadian Hockey League
+ - [https://chl.ca](https://chl.ca)
+ - date_published: 2024-12-12T23:49:37.888863+00:00
+
+ ## Manawan Kitotakan CHMK 93,1 fm | Manawan Kitotakan | 251 Rue Mahikan, Manawan (Qc), Canada
+ - [https://www.chmk.ca](https://www.chmk.ca)
+ - date_published: 2024-12-31T01:37:42.903064+00:00
+
+ ## Choice Properties - Canada's Preeminent REIT
+ - [http://www.choicereit.ca](http://www.choicereit.ca)
+ - date_published: 2024-12-12T15:20:36.900933+00:00
+
+ ## Choly's Blog
+ - [https://choly.ca](https://choly.ca)
+ - date_published: 2024-03-25T14:06:24+00:00
+ - tags: ['devlog', 'personal']
+
+ ## Alemany and Jensen Family Mastodon
+ - [https://mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca)
+ - date_published: 2024-06-23T17:15:02.754829+00:00
+
+ ## Chris Hunter
+ - [http://chrishunter.ca](http://chrishunter.ca)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Chris Penner's FP
+ - [https://chrispenner.ca](https://chrispenner.ca)
+ - date_published: 2020-12-10T04:13:07+00:00
+
+ ## Home Page | Christmas Cheer Board
+ - [https://www.christmascheerboard.ca](https://www.christmascheerboard.ca)
+ - date_published: 2024-06-19T09:54:25+00:00
+
+ ## Hacksonomy
+ - [https://blog.chriswoodford.ca](https://blog.chriswoodford.ca)
+ - date_published: 2024-12-25T10:17:48.058666+00:00
+
+ ## Discover Chrysler Canada | Chrysler Canada
+ - [https://www.chrysler.ca](https://www.chrysler.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Deals on New Chrysler, Dodge, Jeep & Ram in Canada
+ - [https://www.chryslerjeepdodgeramoffers.ca](https://www.chryslerjeepdodgeramoffers.ca)
+ - date_published: 2024-10-28T16:04:13.344532+00:00
+
+ ## Town of Churchill - Home
+ - [https://churchill.ca](https://churchill.ca)
+ - date_published: 2025-01-02T00:16:30.981763+00:00
+
+ ## Personal Banking and Financial Services | CIBC
+ - [https://cibc.ca](https://cibc.ca)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## CIBL 101,5 FM Montréal
+ - [https://www.cibl1015.ca](https://www.cibl1015.ca)
+ - date_published: 2024-07-01T10:07:05.843530+00:00
+
+ ## Home - CIFAR
+ - [https://cifar.ca](https://cifar.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home » CIFF
+ - [https://www.ciffcalgary.ca](https://www.ciffcalgary.ca)
+ - date_published: 2025-01-12T11:55:44.639534+00:00
+
+ ## CIFST | Canadian Institute of Food Science & Technology
+ - [https://cifst.ca](https://cifst.ca)
+ - date_published: 2024-05-01T07:56:02.118511+00:00
+
+ ## Canadian Institute for Health Information | CIHI
+ - [https://www.cihi.ca](https://www.cihi.ca)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Your Health System | CIHI
+ - [https://yourhealthsystem.cihi.ca](https://yourhealthsystem.cihi.ca)
+ - date_published: 2024-06-22T15:55:03.262223+00:00
+
+ ## Law Directory Canada - Cinch Law Canada
+ - [https://cinchlaw.ca](https://cinchlaw.ca)
+ - date_published: 2024-06-29T17:53:57.908903+00:00
+
+ ## Canadian Investor Protection Fund
+ - [https://cipf.ca](https://cipf.ca)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## CIPPIC | Canadian Internet Policy and Public Interest Clinic
+ - [http://cippic.ca](http://cippic.ca)
+ - date_published: 2024-10-22T21:48:34.556862+00:00
+
+ ## Centre for International Policy Studies – Canada's leading centre for analysis and debate of international affairs.
+ - [https://www.cips-cepi.ca](https://www.cips-cepi.ca)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Canadian Internet Registration Authority | CIRA
+ - [https://cira.ca](https://cira.ca)
+ - date_published: 2024-06-16T06:39:52.870868+00:00
+
+ ## Circos – Circular Visualization
+ - [https://circos.ca](https://circos.ca)
+ - date_published: 2024-07-09T11:44:40+00:00
+
+ ## Home
+ - [http://cirl.ca](http://cirl.ca)
+ - date_published: 2024-08-10T19:44:20+00:00
+
+ ## Homepage
+ - [https://ciro.ca](https://ciro.ca)
+ - date_published: 2022-10-12T19:35:27+00:00
+
+ ## Cision: PR Software & Marketing Platform
+ - [https://www.cision.ca](https://www.cision.ca)
+ - date_published: 2024-06-29T01:32:57+00:00
+
+ ## The Citizen Lab - University of Toronto
+ - [https://citizenlab.ca](https://citizenlab.ca)
+ - date_published: 2023-10-25T12:09:16.663748+00:00
+ - tags: ['human rights', 'privacy']
+
+ ## Citizens Commission on Human Rights, CCHR - Nonprofit Mental Health Watchdog
+ - [http://www.citizenscommissiononhumanrights.ca](http://www.citizenscommissiononhumanrights.ca)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Breaking News | Top Local Stories | CityNews Calgary
+ - [https://calgary.citynews.ca](https://calgary.citynews.ca)
+ - date_published: 2024-01-14T14:56:16.599498+00:00
+ - tags: ['canada', 'news']
+
+ ## Breaking News | Top Local Stories | CityNews Edmonton
+ - [https://edmonton.citynews.ca](https://edmonton.citynews.ca)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Breaking News | Top Local Stories | CityNews Halifax
+ - [https://halifax.citynews.ca](https://halifax.citynews.ca)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Breaking News | Top Local Stories | CityNews Kitchener
+ - [https://kitchener.citynews.ca](https://kitchener.citynews.ca)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Breaking News | Top Local Stories | CityNews Montreal
+ - [https://montreal.citynews.ca](https://montreal.citynews.ca)
+ - date_published: 2023-11-05T06:28:16.282544+00:00
+
+ ## Breaking News | Top Local Stories | CityNews Ottawa
+ - [https://ottawa.citynews.ca](https://ottawa.citynews.ca)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Breaking News | Top Local Stories | CityNews Toronto
+ - [https://toronto.citynews.ca](https://toronto.citynews.ca)
+ - date_published: 2023-12-04T13:48:22.408481+00:00
+
+ ## Breaking News | Top Local Stories | CityNews Vancouver
+ - [https://vancouver.citynews.ca](https://vancouver.citynews.ca)
+ - date_published: 2023-12-23T07:31:06.657092+00:00
+
+ ## Breaking News | Top Local Stories | CityNews Winnipeg
+ - [https://winnipeg.citynews.ca](https://winnipeg.citynews.ca)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## CKUW 95.9 FM
+ - [http://ckuw.ca](http://ckuw.ca)
+ - date_published: 2025-01-01T14:07:07+00:00
+
+ ## Canadian Crossword Puzzles
+ - [http://www.classicanadianxwords.ca](http://www.classicanadianxwords.ca)
+ - date_published: 2019-10-01T19:22:00+00:00
+
+ ## TORSTAR Classroom Connection
+ - [https://www.classroomconnection.ca](https://www.classroomconnection.ca)
+ - date_published: 2024-05-06T14:31:08.747813+00:00
+
+ ## Clawbies.ca
+ - [http://www.clawbies.ca](http://www.clawbies.ca)
+ - date_published: 2024-10-22T21:49:51.257518+00:00
+
+ ## Top 5 Top 5 Toronto Cleaning for 2020 | Cleaning.ca Plumbers and Plumbing Contractors for 2020 | Cleaning.ca
+ - [http://www.cleaning.ca](http://www.cleaning.ca)
+ - date_published: 2024-04-03T00:00:00+00:00
+
  ## Clean Technology Canada -
  - [https://www.cleantechnology.ca](https://www.cleantechnology.ca)
  - date_published: 2024-10-02T00:00:00+00:00
@@ -859,6 +1182,10 @@
  - [https://www.disney.ca](https://www.disney.ca)
  - date_published: 2024-04-24T00:00:00+00:00
 
+ ## Dispatch Coffee – Homepage
+ - [http://dispatchcoffee.ca](http://dispatchcoffee.ca)
+ - date_published: 2025-01-14T21:01:31.722547+00:00
+
  ## Distantia | Conception - Programmation - design et développement de site Internet - Gatineau Ottawa Montréal
  - [https://distantia.ca](https://distantia.ca)
  - date_published: 2024-10-21T11:45:28.152400+00:00
@@ -1565,6 +1892,10 @@
  - [https://fedecan.ca](https://fedecan.ca)
  - date_published: 2024-07-23T09:24:22+00:00
 
+ ## FEEDTYPE
+ - [https://feedtype.ca](https://feedtype.ca)
+ - date_published: 2025-01-14T21:03:10.263752+00:00
+
  ## blog.fejes.ca | A behind the scenes peak at building a biotech company.
  - [http://blog.fejes.ca](http://blog.fejes.ca)
  - date_published: 2024-05-28T00:43:39.163402+00:00
@@ -1814,6 +2145,10 @@
  - [https://friendi.ca](https://friendi.ca)
  - date_published: 2024-06-19T22:13:12.469601+00:00
 
+ ## Friendica
+ - [https://git.friendi.ca](https://git.friendi.ca)
+ - date_published: 2025-01-14T22:57:22.473128+00:00
+
  ## Friends of the Thunder Bay Public Library 50/50
  - [https://friends5050.ca](https://friends5050.ca)
  - date_published: 2025-01-02T20:44:44.805551+00:00
@@ -2037,6 +2372,10 @@
  ## Wheat
  - [https://getwheat.ca](https://getwheat.ca)
  - date_published: 2024-08-08T15:35:51+00:00
+
+ ## Governor General of Canada | Gouverneure générale du Canada
+ - [https://www.gg.ca](https://www.gg.ca)
+ - date_published: 2025-01-14T21:02:13.230050+00:00
 
  ## One Page Resume
  - [https://gianlu.ca](https://gianlu.ca)
@@ -3695,340 +4034,4 @@
  ## LiveCA - Canadian Online Accountant
  - [https://www.liveca.ca](https://www.liveca.ca)
  - date_published: 2024-11-21T19:08:32+00:00
-
- ## livier.ca
- - [http://www.livier.ca](http://www.livier.ca)
- - date_published: 2022-01-03T16:11:55+00:00
-
- ## Toronto Lobbyist Registry Database: lobbyist_registry
- - [https://lobbyingintoronto.ca](https://lobbyingintoronto.ca)
- - date_published: 2024-09-04T04:38:08.048079+00:00
-
- ## Loblaw Companies Ltd. | Live Life Well®
- - [https://loblaw.ca](https://loblaw.ca)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Local Green Fees- Canada's definitive green fee directory
- - [https://www.localgreenfees.ca](https://www.localgreenfees.ca)
- - date_published: 2024-07-12T17:59:30.132263+00:00
-
- ## Local Integrative Health Clinic in East Vancouver, BC
- - [https://localhealthclinic.ca](https://localhealthclinic.ca)
- - date_published: 2024-06-12T19:25:19+00:00
-
- ## LocalWork.ca | Employer Services
- - [https://employers.localwork.ca](https://employers.localwork.ca)
- - date_published: 2024-06-26T22:36:30.872374+00:00
-
- ## LocalWork.ca | jobs
- - [https://www.localwork.ca](https://www.localwork.ca)
- - date_published: 2024-05-06T20:01:58.481788+00:00
-
- ## East Vancouver Yoga Studio | Local Yoga Studio | Yoga + more
- - [https://localyogastudio.ca](https://localyogastudio.ca)
- - date_published: 2024-09-18T18:42:59+00:00
-
- ## Charcoal — Web framework and content management system
- - [https://charcoal.locomotive.ca](https://charcoal.locomotive.ca)
- - date_published: 2024-10-29T13:28:47.013333+00:00
-
- ## Explore with Locomotive
- - [https://explore.locomotive.ca](https://explore.locomotive.ca)
- - date_published: 2024-10-29T13:28:49.094871+00:00
-
- ## Locomotive | Montreal web agency
- - [https://locomotive.ca](https://locomotive.ca)
- - date_published: 2024-06-19T16:15:15.418837+00:00
-
- ## Locomotive Dynasty - 2018 to 2023
- - [https://six.locomotive.ca](https://six.locomotive.ca)
- - date_published: 2024-09-12T14:58:24+00:00
-
- ## Locomotive Store®
- - [https://store.locomotive.ca](https://store.locomotive.ca)
- - date_published: 2024-10-29T13:28:34.002408+00:00
-
- ## lolcat's git serber
- - [https://git.lolcat.ca](https://git.lolcat.ca)
- - date_published: 2024-10-20T22:39:45.354239+00:00
-
- ## lolcat's website
- - [https://lolcat.ca](https://lolcat.ca)
- - date_published: 2024-10-27T12:11:52.621388+00:00
-
- ## Commercial Real Estate for Sale & Lease in Canada | LoopNet.ca
- - [https://loopnet.ca](https://loopnet.ca)
- - date_published: 2024-05-12T07:41:00.330334+00:00
-
- ## Lorimer
- - [http://www.lorimer.ca](http://www.lorimer.ca)
- - date_published: 2024-08-17T11:36:40+00:00
-
- ## Lotus Goddess' Mirror - A DoMO Fansite
- - [http://domo.lotusgoddess.ca](http://domo.lotusgoddess.ca)
- - date_published: 2025-01-10T22:56:26.495816+00:00
-
- ## Low Profile Keyboards - lowprokb.ca
- - [https://lowprokb.ca](https://lowprokb.ca)
- - date_published: 2024-12-30T18:26:41.005144+00:00
-
- ## L. Ron Hubbard - Scientology & Dianetics Founder
- - [https://www.lronhubbard.ca](https://www.lronhubbard.ca)
- - date_published: 2024-06-06T19:38:31.754675+00:00
-
- ## Law Society of Ontario Home | Law Society of Ontario
- - [https://lso.ca](https://lso.ca)
- - date_published: 2024-09-02T13:02:39.708237+00:00
-
- ## @luqman
- - [https://luqman.ca](https://luqman.ca)
- - date_published: 2022-11-15T03:27:24+00:00
-
- ## Luuk van Baars - Portfolio
- - [http://luuk.ca](http://luuk.ca)
- - date_published: 2023-07-06T13:04:26+00:00
-
- ## Lost Wizard Enterprises Incorporated
- - [http://www.l-w.ca](http://www.l-w.ca)
- - date_published: 2021-11-02T18:41:36+00:00
-
- ## The Macdonald-Laurier Institute
- - [https://macdonaldlaurier.ca](https://macdonaldlaurier.ca)
- - date_published: 2023-10-25T12:05:29.853121+00:00
-
- ## ezProxy Login Redirect
- - [https://ezproxy.macewan.ca](https://ezproxy.macewan.ca)
- - date_published: 2024-06-30T01:30:38.353424+00:00
-
- ## Macleans.ca - Canada’s magazine
- - [https://macleans.ca](https://macleans.ca)
- - date_published: 2023-10-25T12:05:41.174712+00:00
-
- ## Mactracker - Get info on any Mac
- - [https://mactracker.ca](https://mactracker.ca)
- - date_published: 2024-08-04T02:44:11+00:00
-
- ## Madrona Grove
- - [https://madrona.ca](https://madrona.ca)
- - date_published: 2024-01-09T01:36:41.563745+00:00
-
- ## Magenta Health
- - [https://www.magentahealth.ca](https://www.magentahealth.ca)
- - date_published: 2024-07-12T20:29:49.279552+00:00
-
- ## Fabian Rodriguez, « MagicFab » | GNU/Linux and free open source software consulting, training and conferences in Montreal, Quebec, Canada
- - [https://magicfab.ca](https://magicfab.ca)
- - date_published: 2022-07-10T23:07:57+00:00
-
- ## Top 5 Top 5 Toronto Maids for 2020 | Maids.ca Plumbers and Plumbing Contractors for 2020 | Maids.ca
- - [http://www.maids.ca](http://www.maids.ca)
- - date_published: 2024-06-29T17:36:38.307913+00:00
-
- ## Writer | Filmmaker • Mailyne K. Briggs
- - [https://mailyne.ca](https://mailyne.ca)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## Homepage - Mainframe Studios
- - [https://www.mainframe.ca](https://www.mainframe.ca)
- - date_published: 2024-10-26T15:06:26.957988+00:00
-
- ## First to be published
- - [https://makevotesequal.ca](https://makevotesequal.ca)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## The Malahat Review | Poetry, Fiction, and Creative Nonfiction
- - [http://www.malahatreview.ca](http://www.malahatreview.ca)
- - date_published: 2024-11-21T23:53:11+00:00
-
- ## Malevolent
- - [https://www.malevolent.ca](https://www.malevolent.ca)
- - date_published: 2025-01-01T22:52:10.911970+00:00
-
- ## Apps & Websites - Chris Mallinson
- - [http://mallinson.ca](http://mallinson.ca)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Province of Manitoba | Home Page
- - [https://manitoba.ca](https://manitoba.ca)
- - date_published: 2024-04-30T05:32:54.961213+00:00
-
- ## Manitoba 511
- - [https://www.manitoba511.ca](https://www.manitoba511.ca)
- - date_published: 2024-07-21T07:55:21.570601+00:00
-
- ## Manitoba Advocate
- - [http://manitobaadvocate.ca](http://manitobaadvocate.ca)
- - date_published: 2024-08-06T18:02:56.873489+00:00
-
- ## Manitoba Lieutenant Governor
- - [http://manitobalg.ca](http://manitobalg.ca)
- - date_published: 2024-08-10T23:03:06.390420+00:00
-
- ## Best Manitoba Online Casinos – Top 20+ Casino Sites 2025
- - [http://manitobia.ca](http://manitobia.ca)
- - date_published: 2025-01-01T14:07:24.404891+00:00
-
- ## Manna Food Bank
- - [https://mannafoodbank.ca](https://mannafoodbank.ca)
- - date_published: 2024-10-17T23:22:57.834377+00:00
-
- ## Manufacturing Jobs Canada Dev
- - [https://www.manufacturingjobsite.ca](https://www.manufacturingjobsite.ca)
- - date_published: 2024-10-15T17:36:47.227016+00:00
-
- ## Public landing page | Manulife Advisors
- - [https://advisor.manulife.ca](https://advisor.manulife.ca)
- - date_published: 2024-10-07T19:22:58.854976+00:00
-
- ## Manulife CIAM
- - [https://id.manulife.ca](https://id.manulife.ca)
- - date_published: 1985-10-26T08:15:00+00:00
-
- ## Manulife Securities
- - [https://manulifesecurities.manulife.ca](https://manulifesecurities.manulife.ca)
- - date_published: 2024-10-07T19:26:20.302119+00:00
-
- ## Manulife Customer Portal
- - [https://portal.manulife.ca](https://portal.manulife.ca)
- - date_published: 2024-06-16T13:09:10.118765+00:00
-
- ## Manulife - Insurance & investment solutions for you
- - [https://www.manulife.ca](https://www.manulife.ca)
- - date_published: 2024-05-01T06:47:53.869054+00:00
-
- ## Online Personal Banking | Manulife Bank
- - [https://www.manulifebank.ca](https://www.manulifebank.ca)
- - date_published: 2024-05-01T07:04:12.173605+00:00
-
- ## Health insurance | Manulife
- - [https://www.manulife-insurance.ca](https://www.manulife-insurance.ca)
- - date_published: 2024-07-12T13:51:39+00:00
-
- ## Manulife Securities - Client Login
- - [https://secure.manulifesecurities.ca](https://secure.manulifesecurities.ca)
- - date_published: 2024-10-07T19:25:57.324494+00:00
-
- ## Manulife Financial Travel Insurance | SISIP
- - [https://www.manulife-travel.ca](https://www.manulife-travel.ca)
- - date_published: 2024-10-14T18:03:31.567961+00:00
-
- ## Wealth Management and Protection | Manulife Wealth
- - [https://www.manulifewealth.ca](https://www.manulifewealth.ca)
- - date_published: 2024-10-07T19:21:00.162933+00:00
-
- ## Manulife Securities
- - [https://placementsmanuvie.manuvie.ca](https://placementsmanuvie.manuvie.ca)
- - date_published: 2024-10-07T19:27:30.126327+00:00
-
- ## Manulife Customer Portal
- - [https://portail.manuvie.ca](https://portail.manuvie.ca)
- - date_published: 2024-10-07T19:27:31.211875+00:00
-
- ## Manuvie – Des solutions d’assurance et de placement pour vous
- - [https://www.manuvie.ca](https://www.manuvie.ca)
- - date_published: 2024-06-14T21:07:07+00:00
-
- ## Marcel Goh
- - [https://marcelgoh.ca](https://marcelgoh.ca)
- - date_published: 2024-09-04T14:26:47+00:00
-
- ## Toronto Marlies
- - [https://marlies.ca](https://marlies.ca)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Marsha Lederman
- - [http://www.marshalederman.ca](http://www.marshalederman.ca)
- - date_published: 2022-05-03T00:00:00+00:00
-
- ## Maserati Official Website - Italian Luxury Cars | Maserati CA-EN
- - [https://www.maserati.ca](https://www.maserati.ca)
- - date_published: 2024-06-19T08:47:16+00:00
-
- ## Masimo - Home
- - [https://professional.masimo.ca](https://professional.masimo.ca)
- - date_published: 2024-06-22T05:36:44.457229+00:00
-
- ## Masimo - Home
- - [https://www.masimo.ca](https://www.masimo.ca)
- - date_published: 2025-01-11T18:07:47.225183+00:00
-
- ## Masonry in Canada, Canada
- - [http://www.masonry.ca](http://www.masonry.ca)
- - date_published: 2024-06-29T17:36:01.006332+00:00
-
- ## Canadian Discrete and Algorithmic Mathematics Conference (CanaDAM)
- - [http://canadam.math.ca](http://canadam.math.ca)
- - date_published: 2024-08-11T22:06:48.015069+00:00
-
- ## CMS-SMC
- - [http://cms.math.ca](http://cms.math.ca)
- - date_published: 2024-06-30T03:01:07.862445+00:00
-
- ## Home | PIMS - Pacific Institute for the Mathematical Sciences
- - [https://pims.math.ca](https://pims.math.ca)
- - date_published: 2024-06-30T07:02:12+00:00
-
- ## CMS-SMC
- - [http://www.math.ca](http://www.math.ca)
- - date_published: 2024-06-30T09:20:11.721967+00:00
-
- ## Skin + Beauty - Mathilde Langevin
- - [https://mathilde.ca](https://mathilde.ca)
- - date_published: 2024-09-16T23:05:22.833452+00:00
-
- ## matilde park
- - [https://matildepark.ca](https://matildepark.ca)
- - date_published: 2024-08-08T03:07:13.027488+00:00
-
- ## Matthew Brehmer, Ubietous Information Experiences: Human-Computer Interaction Research and Data Visualization at the University of Waterloo
- - [https://mattbrehmer.ca](https://mattbrehmer.ca)
- - date_published: 2024-12-02T14:50:07+00:00
-
- ## Moving people forward | Maximus Canada
- - [https://www.maximuscanada.ca](https://www.maximuscanada.ca)
- - date_published: 2024-07-14T15:04:23+00:00
-
- ## Max LL
- - [http://www.maxll.ca](http://www.maxll.ca)
- - date_published: 2024-12-27T09:09:07.899256+00:00
-
- ## Home
- - [http://mayfairtheatre.ca](http://mayfairtheatre.ca)
- - date_published: 2024-07-03T03:55:28.016149+00:00
-
- ## Home | Manitoba Liquor & Lotteries
- - [http://www.mbll.ca](http://www.mbll.ca)
- - date_published: 2024-08-06T18:02:59.140162+00:00
-
- ## Bootstrap TD Login
- - [https://service.mbna.ca](https://service.mbna.ca)
- - date_published: 2024-06-16T07:44:52.481256+00:00
-
- ## Offering both rewards credit cards with no annual fee as well as low interest credit card options | MBNA Canada
- - [https://www.mbna.ca](https://www.mbna.ca)
- - date_published: 2024-05-01T06:00:16.802370+00:00
-
- ## Home - McConnell Foundation
- - [https://mcconnellfoundation.ca](https://mcconnellfoundation.ca)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## McDonald's Kerwin Frost Box Appstakes
- - [https://www.mcdonaldspromotion.ca](https://www.mcdonaldspromotion.ca)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Computational Geometry Lab at McGill
- - [http://cgm.cs.mcgill.ca](http://cgm.cs.mcgill.ca)
- - date_published: 2011-12-20T21:35:31+00:00
-
- ## Computation and Logic Group, School of Computer Science, McGill University -- Home
- - [http://complogic.cs.mcgill.ca](http://complogic.cs.mcgill.ca)
- - date_published: 2024-06-20T18:12:18+00:00
-
- ## McGill School Of Computer Science
- - [https://cs.mcgill.ca](https://cs.mcgill.ca)
- - date_published: 2023-10-25T12:06:01.879709+00:00
-
- ## Data Mining and Security Lab @ McGill
- - [http://dmas.lab.mcgill.ca](http://dmas.lab.mcgill.ca)
- - date_published: 2022-11-12T02:33:40+00:00
 
