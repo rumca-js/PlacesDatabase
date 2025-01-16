@@ -1,3 +1,19 @@
+ ## Bookclub.ai | Meet your next book
+ - [https://www.bookclub.ai](https://www.bookclub.ai)
+ - date_published: 2023-02-02T19:10:18+00:00
+
+ ## Booke AI
+ - [https://app.booke.ai](https://app.booke.ai)
+ - date_published: 2024-10-30T07:18:31+00:00
+
+ ## Automate your bookkeeping with an AI-driven single app | Booke AI
+ - [https://booke.ai](https://booke.ai)
+ - date_published: 2024-06-19T20:37:01.639968+00:00
+
+ ## BookHero
+ - [https://www.bookhero.ai](https://www.bookhero.ai)
+ - date_published: 2024-06-19T19:36:29.752423+00:00
+
  ## Boomerangs - Exit made easy
  - [https://springworksalumni.boomerangs.ai](https://springworksalumni.boomerangs.ai)
  - date_published: 2024-10-30T12:14:12.627943+00:00
@@ -619,6 +635,10 @@
  - [https://chavi.ai](https://chavi.ai)
  - date_published: 2024-12-24T15:27:54.381770+00:00
 
+ ## Blog over AI-copywriting, ChatGPT, Copy.ai
+ - [https://www.cheatgpt.ai](https://www.cheatgpt.ai)
+ - date_published: 2025-01-15T16:16:38.938119+00:00
+
  ## Checkbox - Leading Service Hub | Intake & Workflow Software
  - [https://www.checkbox.ai](https://www.checkbox.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -841,6 +861,10 @@ Welcome
  ## CLOVA
  - [https://clova.ai](https://clova.ai)
  - date_published: 2024-09-13T18:15:01.172827+00:00
+
+ ## Cluster Protocol
+ - [https://www.clusterprotocol.ai](https://www.clusterprotocol.ai)
+ - date_published: 2025-01-15T21:34:46.537792+00:00
 
  ## Coactive
  - [https://app.coactive.ai](https://app.coactive.ai)
@@ -3132,6 +3156,10 @@ Welcome
  - [https://security.fletch.ai](https://security.fletch.ai)
  - date_published: 2024-06-21T00:00:00+00:00
 
+ ## Flight Science AI - The future of flight operations software
+ - [https://flightscience.ai](https://flightscience.ai)
+ - date_published: 2025-01-15T19:28:35.597139+00:00
+
  ## Fliki - Turn text into videos with AI voices
  - [https://fliki.ai](https://fliki.ai)
  - date_published: 2024-08-19T07:13:47.251524+00:00
@@ -3989,32 +4017,4 @@ Welcome
  ## Graph Maker | Make any chart in seconds with AI
  - [https://www.graphmaker.ai](https://www.graphmaker.ai)
  - date_published: 2024-04-30T04:44:15+00:00
-
- ## Marketing expertise meets artificial intelligence
- - [https://greatheadlines.ai](https://greatheadlines.ai)
- - date_published: 2024-06-19T18:53:59.159476+00:00
-
- ## Greenbids - Less carbon from Ads
- - [https://www.greenbids.ai](https://www.greenbids.ai)
- - date_published: 2024-05-06T17:46:29.668329+00:00
-
- ## Gretel.ai — The synthetic data platform for developers
- - [https://gretel.ai](https://gretel.ai)
- - date_published: 2023-10-25T11:39:10.186534+00:00
-
- ## Groupt - Transform Data into Decisions
- - [https://www.groupt.ai](https://www.groupt.ai)
- - date_published: 2024-09-13T20:26:46.196503+00:00
-
- ## GTMGuy - AI Product Development Suite for Founders
- - [https://gtmguy.ai](https://gtmguy.ai)
- - date_published: 2024-12-15T11:48:28.376718+00:00
-
- ## GuestLab
- - [https://guestlab.ai](https://guestlab.ai)
- - date_published: 2024-09-04T16:08:08+00:00
-
- ## Guides.ai - Tutorials for Artificial Intelligence (AI)
- - [https://guides.ai](https://guides.ai)
- - date_published: 2023-11-12T22:06:18.850956+00:00
 
