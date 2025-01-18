@@ -218,7 +218,7 @@
         "language": "pl",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Security",
         "title": "Niebezpiecznik",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw"
