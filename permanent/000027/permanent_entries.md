@@ -1,3 +1,303 @@
+ ## Hostpoint | Domains, Webhosting, Managed Server, E-Mail und mehr!
+ - [https://kinder-lei.ch](https://kinder-lei.ch)
+ - date_published: 2024-06-13T13:53:27+00:00
+
+ ## kinderseele
+ - [https://www.kinderseele.ch](https://www.kinderseele.ch)
+ - date_published: 2024-10-29T11:16:08.006246+00:00
+
+ ## Programm | Kino Bourbaki Luzern
+ - [https://www.kinobourbaki.ch](https://www.kinobourbaki.ch)
+ - date_published: 2024-10-17T22:13:22.815803+00:00
+
+ ## KITRO - Automated food waste management solution
+ - [https://www.kitro.ch](https://www.kitro.ch)
+ - date_published: 2025-01-15T15:31:09.295609+00:00
+
+ ## Kleinheld
+ - [https://kleinheld.ch](https://kleinheld.ch)
+ - date_published: 2024-08-08T12:43:06.233953+00:00
+
+ ## Klein Report - kleinreport.ch
+ - [http://www.kleinreport.ch](http://www.kleinreport.ch)
+ - date_published: 2024-07-21T06:08:23+00:00
+
+ ## Luc Poupard · Designer front-end
+ - [https://www.kloh.ch](https://www.kloh.ch)
+ - date_published: 2024-04-01T07:51:58+00:00
+
+ ## Klosters – Urlaub in der Schweiz
+ - [https://klosters.ch](https://klosters.ch)
+ - date_published: 2024-11-21T15:49:01+00:00
+
+ ## Startseite
+ - [https://www.klostersanktgeorgen.ch](https://www.klostersanktgeorgen.ch)
+ - date_published: 2024-07-21T06:26:33.755881+00:00
+
+ ## KMU_today - News und Infos zu Businessthemen für KMU und Startups
+ - [https://www.kmutoday.ch](https://www.kmutoday.ch)
+ - date_published: 2024-07-21T05:49:46.771383+00:00
+
+ ## Startseite | Knecht Management
+ - [https://www.knecht.ch](https://www.knecht.ch)
+ - date_published: 2024-07-16T22:36:26.243662+00:00
+
+ ## Konecranes
+ - [https://de.konecranes.ch](https://de.konecranes.ch)
+ - date_published: 2024-06-20T23:02:37.344246+00:00
+
+ ## Konecranes
+ - [https://fr.konecranes.ch](https://fr.konecranes.ch)
+ - date_published: 2024-06-20T23:01:36.281870+00:00
+
+ ## Konecranes
+ - [https://it.konecranes.ch](https://it.konecranes.ch)
+ - date_published: 2024-06-20T23:14:46.032420+00:00
+
+ ## Koalition für Konzernverantwortung
+ - [https://konzern-initiative.ch](https://konzern-initiative.ch)
+ - date_published: 2024-07-03T02:09:14.463263+00:00
+
+ ## Swiss Sovereign AI Hyperscaler
+ - [https://kore-technologies.ch](https://kore-technologies.ch)
+ - date_published: 2025-01-09T16:08:49.924015+00:00
+
+ ## Mantis - Hexapod Testnet
+ - [https://mantis.kore-technologies.ch](https://mantis.kore-technologies.ch)
+ - date_published: 2022-05-26T06:50:27+00:00
+
+ ## jalu.ch Homepage
+ - [http://korn19.ch](http://korn19.ch)
+ - date_published: 2024-06-30T23:20:57.345709+00:00
+
+ ## Paulette Koronkevich
+ - [https://koronkevi.ch](https://koronkevi.ch)
+ - date_published: 2024-07-05T22:16:12+00:00
+
+ ## KPMG Schweiz
+ - [http://www.kpmg.ch](http://www.kpmg.ch)
+ - date_published: 2024-10-21T14:05:09.374069+00:00
+
+ ## Maloja
+ - [https://maloja.krateng.ch](https://maloja.krateng.ch)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Kreastudio - Creative Photography and Graphic Design Services
+ - [https://www.kreastudio.ch](https://www.kreastudio.ch)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Kreditkarten-guenstig.ch – Dein Kreditkarten-Ratgeber
+ - [http://www.kreditkarten-guenstig.ch](http://www.kreditkarten-guenstig.ch)
+ - date_published: 2024-11-16T20:02:27.118431+00:00
+
+ ## Kunstbulletin | Kunstbulletin
+ - [https://kunstbulletin.ch](https://kunstbulletin.ch)
+ - date_published: 2024-09-14T09:29:17.469202+00:00
+
+ ## %%sitename%%
+ - [http://kunsthallebasel.ch](http://kunsthallebasel.ch)
+ - date_published: 2024-09-06T21:42:40.546530+00:00
+
+ ## DYOR — Kunsthalle Zürich – Do Your Own Research
+ - [https://dyor.kunsthallezurich.ch](https://dyor.kunsthallezurich.ch)
+ - date_published: 2024-07-03T11:55:08.735258+00:00
+
+ ## Kunsthalle Zürich
+ - [http://kunsthallezurich.ch](http://kunsthallezurich.ch)
+ - date_published: 2024-07-13T14:18:40.969509+00:00
+
+ ## Kunsthaus Baselland
+ - [http://kunsthausbaselland.ch](http://kunsthausbaselland.ch)
+ - date_published: 2024-07-13T15:55:17.960806+00:00
+
+ ## Kunsthaus Glarus
+ - [http://www.kunsthausglarus.ch](http://www.kunsthausglarus.ch)
+ - date_published: 2025-01-08T20:15:27.271822+00:00
+
+ ## Kunstmuseum Solothurn
+ - [https://www.kunstmuseum-so.ch](https://www.kunstmuseum-so.ch)
+ - date_published: 2024-07-13T14:34:48.876358+00:00
+
+ ## Schweizer Kunstverein: Schweizer Kunstverein
+ - [https://www.kunstverein.ch](https://www.kunstverein.ch)
+ - date_published: 2024-09-14T09:29:15.567794+00:00
+
+ ## Startseite
+ - [https://www.kunstverein-biel.ch](https://www.kunstverein-biel.ch)
+ - date_published: 2024-09-14T09:27:41.779092+00:00
+
+ ## Kuoni Reisen - Traumhafte Ferien buchen & exzellente Reiseberatung
+ - [http://www.kuoni.ch](http://www.kuoni.ch)
+ - date_published: 2024-11-16T20:37:56.307316+00:00
+
+ ## Kyle Gospodnetich's Resume
+ - [https://kylegospodneti.ch](https://kylegospodneti.ch)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## la bonne heure - info@labonneheure.ch
+ - [https://labonneheure.ch](https://labonneheure.ch)
+ - date_published: 2024-09-14T08:53:16.253317+00:00
+
+ ## Météo Suisse : La meilleure info météo GRATUITE à 15 jours - La Chaîne Météo
+ - [https://www.lachainemeteo.ch](https://www.lachainemeteo.ch)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Agenda - Der Landbote
+ - [https://agenda.landbote.ch](https://agenda.landbote.ch)
+ - date_published: 2024-07-22T17:38:49.197429+00:00
+
+ ## Der Landbote
+ - [https://helpcenter.landbote.ch](https://helpcenter.landbote.ch)
+ - date_published: 2023-07-23T17:38:44+00:00
+
+ ## Der Landbote | Nachrichten aus Winterthur und der Welt
+ - [https://landbote.ch](https://landbote.ch)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## LANDI - angenehm anders
+ - [https://www.landi.ch](https://www.landi.ch)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Land Rover Switzerland
+ - [https://www.landrover.ch](https://www.landrover.ch)
+ - date_published: 2024-07-09T17:13:07.610580+00:00
+
+ ## Agenda - Langenthaler Tagblatt
+ - [https://agenda.langenthalertagblatt.ch](https://agenda.langenthalertagblatt.ch)
+ - date_published: 2024-08-06T17:27:31.019267+00:00
+
+ ## BZ Langenthaler Tagblatt | Nachrichten aus dem Oberaargau
+ - [https://langenthalertagblatt.ch](https://langenthalertagblatt.ch)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## La nuit des musées
+ - [https://lanuitdesmusees.ch](https://lanuitdesmusees.ch)
+ - date_published: 2024-07-09T08:25:46+00:00
+
+ ## La Télévision régionale Vaud & Fribourg
+ - [https://latele.ch](https://latele.ch)
+ - date_published: 2024-09-05T23:43:58.858472+00:00
+
+ ## Accueil | Hôpital de La Tour
+ - [https://www.la-tour.ch](https://www.la-tour.ch)
+ - date_published: 2024-07-19T14:00:31+00:00
+
+ ## Site officiel de l'administration communale de la Ville de Lausanne, capitale olympique
+ - [https://lausanne.ch](https://lausanne.ch)
+ - date_published: 2024-04-30T06:00:23.464752+00:00
+
+ ## GeoMapFish
+ - [https://map.lausanne.ch](https://map.lausanne.ch)
+ - date_published: 2024-07-21T06:19:16.310128+00:00
+
+ ## Lausanne à Table I Événements gourmands de mai à décembre
+ - [https://www.lausanneatable.ch](https://www.lausanneatable.ch)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Accueil - Lausanne Jardins 24
+ - [https://lausannejardins.ch](https://lausannejardins.ch)
+ - date_published: 2024-09-13T12:07:18+00:00
+
+ ## Lausanne musées
+ - [https://lausanne-musees.ch](https://lausanne-musees.ch)
+ - date_published: 2024-04-30T06:00:05.364221+00:00
+
+ ## Loading...
+ - [https://api.lausannemusees.ch](https://api.lausannemusees.ch)
+ - date_published: 2023-12-19T09:34:59+00:00
+
+ ## Connexion - client
+ - [https://cms.lausannemusees.ch](https://cms.lausannemusees.ch)
+ - date_published: 2024-07-21T06:26:42.899836+00:00
+
+ ## Strapi Admin
+ - [https://strapi.lausannemusees.ch](https://strapi.lausannemusees.ch)
+ - date_published: 2024-07-21T06:26:41.530828+00:00
+
+ ## Lausanne-répare
+ - [https://www.lausanne-repare.ch](https://www.lausanne-repare.ch)
+ - date_published: 2024-07-21T06:19:34.731901+00:00
+
+ ## Official website of Lausanne Tourism – Lausanne Tourisme - Official Website
+ - [https://www.lausanne-tourisme.ch](https://www.lausanne-tourisme.ch)
+ - date_published: 2024-06-22T10:28:58.765802+00:00
+
+ ## Lavaline Gastromöbel und Tischplatten nach Mass
+ - [https://lavaline.ch](https://lavaline.ch)
+ - date_published: 2024-10-21T09:23:52.800005+00:00
+
+ ## LavaDNS
+ - [https://dns.lavate.ch](https://dns.lavate.ch)
+ - date_published: 2021-08-13T15:43:19+00:00
+
+ ## LavaTech
+ - [https://lavate.ch](https://lavate.ch)
+ - date_published: 2022-04-03T01:14:01+00:00
+
+ ## Lebendige Traditionen
+ - [https://www.lebendige-traditionen.ch](https://www.lebendige-traditionen.ch)
+ - date_published: 2024-07-21T06:26:30.581864+00:00
+
+ ## Lebenslaufapp.ch FAQ
+ - [https://help.lebenslaufapp.ch](https://help.lebenslaufapp.ch)
+ - date_published: 2024-06-22T22:18:38.428421+00:00
+
+ ## Erstelle einen überzeugenden Lebenslauf – (Gratis-)Lebenslauf-Editor
+ - [https://lebenslaufapp.ch](https://lebenslaufapp.ch)
+ - date_published: 2024-05-06T09:21:29.115331+00:00
+
+ ## Startseite
+ - [https://lebenwieduundich.ch](https://lebenwieduundich.ch)
+ - date_published: 2024-10-29T08:27:51+00:00
+
+ ## Le Cazard - Residence, logement pour étudiants, Salle de séminaire & conférence sur Lausanne
+ - [https://lecazard.ch](https://lecazard.ch)
+ - date_published: 2024-02-15T14:21:06+00:00
+
+ ## Centre universitaire catholique de Lausanne, Bvd de Grancy 31, 1006 Lausanne
+ - [https://lecuc.ch](https://lecuc.ch)
+ - date_published: 2024-05-12T07:24:19.758490+00:00
+
+ ## Fondation Leenaards
+ - [https://www.leenaards.ch](https://www.leenaards.ch)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Le Matin: toute l'actualité en Suisse et dans le monde
+ - [http://www.lematin.ch](http://www.lematin.ch)
+ - date_published: 2024-07-03T06:43:26.951693+00:00
+
+ ## Conditions générales
+ - [https://cgv.lematindimanche.ch](https://cgv.lematindimanche.ch)
+ - date_published: 2024-07-21T05:27:20.492267+00:00
+
+ ## Einen Moment bitte, die Ausgabe wird geladen...
+ - [https://epaper.lematindimanche.ch](https://epaper.lematindimanche.ch)
+ - date_published: 2024-04-30T06:13:23.280229+00:00
+
+ ## LeMatinDimanche
+ - [https://helpcenter.lematindimanche.ch](https://helpcenter.lematindimanche.ch)
+ - date_published: 2023-07-22T05:27:21+00:00
+
+ ## Politique de confidentialité
+ - [https://privacypolicy.lematindimanche.ch](https://privacypolicy.lematindimanche.ch)
+ - date_published: 2024-07-21T05:27:18.815192+00:00
+
+ ## Le News
+ - [https://lenews.ch](https://lenews.ch)
+ - date_published: 2024-04-30T06:12:23.009665+00:00
+
+ ## Le Nouvelliste | Site d'informations régionales valaisannes, sportive, suisse et internationale
+ - [https://www.lenouvelliste.ch](https://www.lenouvelliste.ch)
+ - date_published: 2024-06-30T11:09:52.262101+00:00
+
+ ## Les Bisses du Valais
+ - [https://www.les-bisses-du-valais.ch](https://www.les-bisses-du-valais.ch)
+ - date_published: 2024-10-17T13:10:00.930754+00:00
+
+ ## Baeschlin Books in Glarus - Lesestoff
+ - [https://baeschlin.lesestoff.ch](https://baeschlin.lesestoff.ch)
+ - date_published: 2024-07-20T16:13:15.261304+00:00
+
  ## Lesetagebuch
  - [https://lesetagebu.ch](https://lesetagebu.ch)
  - date_published: 2024-07-08T19:36:38.220892+00:00
@@ -536,6 +836,10 @@
  ## Moneyhouse - Handelsregister- & Wirtschaftsinformationen
  - [https://www.moneyhouse.ch](https://www.moneyhouse.ch)
  - date_published: 2024-06-29T08:33:14.654363+00:00
+
+ ## Banken, Versicherungen & Telekom
+ - [https://www.moneyland.ch](https://www.moneyland.ch)
+ - date_published: 2025-01-17T21:09:06.739355+00:00
 
  ## Jobs | Stellenangebote | Jobsuche | Jobbörse | Monster.ch
  - [https://www.monster.ch](https://www.monster.ch)
@@ -1560,6 +1864,10 @@
  - [https://www.publiceye.ch](https://www.publiceye.ch)
  - date_published: 2024-08-11T03:52:53.846253+00:00
 
+ ## HOMEPAGE - Publimmo
+ - [https://logiciel.publimmo.ch](https://logiciel.publimmo.ch)
+ - date_published: 2025-01-17T21:09:10.745958+00:00
+
  ## Punkt.: minimalist design and enhanced data privacy
  - [https://www.punkt.ch](https://www.punkt.ch)
  - date_published: 2024-12-02T13:11:55.009385+00:00
@@ -1780,6 +2088,10 @@
  ## Accueil
  - [http://www.rhonefm.ch](http://www.rhonefm.ch)
  - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Ricardo - Sicher kaufen & verkaufen mit über 5 Mio. Nutzern
+ - [https://www.ricardo.ch](https://www.ricardo.ch)
+ - date_published: 2025-01-17T21:09:22.265661+00:00
 
  ## RiC-Communications
  - [https://www.ric-communications.ch](https://www.ric-communications.ch)
@@ -2542,6 +2854,10 @@
  ## Über STEG-Liquidation.ch
  - [https://www.steg-electronics.ch](https://www.steg-electronics.ch)
  - date_published: 2024-07-13T13:48:00.270932+00:00
+
+ ## Auktionen - Steinfels Weinauktionen AG
+ - [https://auktionen.steinfelsweine.ch](https://auktionen.steinfelsweine.ch)
+ - date_published: 2025-01-18T04:36:54.851607+00:00
 
  ## Steudler Press | Die Druckerei in Basel | Gleich ist nicht Gleich
  - [http://www.steudlerpress.ch](http://www.steudlerpress.ch)
@@ -3701,321 +4017,4 @@ Fakultät | Universität Basel
  ## Boutique UNIGE
  - [https://shop.unige.ch](https://shop.unige.ch)
  - date_published: 2024-06-04T00:00:00+00:00
-
- ## tecfaetu.unige.ch
- - [https://tecfaetu.unige.ch](https://tecfaetu.unige.ch)
- - date_published: 2020-06-26T10:33:44+00:00
-
- ## TECFA - Technologies pour la Formation et l'Apprentissage. Université de
-    Genève
- - [http://tecfa.unige.ch](http://tecfa.unige.ch)
- - date_published: 2024-05-29T07:39:47+00:00
-
- ## Université de Genève - Université de Genève
- - [https://unige.ch](https://unige.ch)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Vie de campus - Vie de campus - UNIGE
- - [https://vie-de-campus.unige.ch](https://vie-de-campus.unige.ch)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## UNIL > Annuaire en ligne
- - [https://annuaire.unil.ch](https://annuaire.unil.ch)
- - date_published: 2024-09-14T23:58:05.626855+00:00
-
- ## Redirection sur le menu principal...
- - [https://applicationspub.unil.ch](https://applicationspub.unil.ch)
- - date_published: 2024-09-14T23:58:07.667709+00:00
-
- ## av.unil.ch
- - [https://av.unil.ch](https://av.unil.ch)
- - date_published: 2011-04-21T16:11:14+00:00
-
- ## Planète UNIL
- - [https://planete.unil.ch](https://planete.unil.ch)
- - date_published: 2024-01-29T13:45:18+00:00
-
- ## Fedora UNIL - prd
- - [https://repopub.unil.ch](https://repopub.unil.ch)
- - date_published: 2022-02-07T10:54:09+00:00
-
- ## Serval
- - [https://serval.unil.ch](https://serval.unil.ch)
- - date_published: 2024-09-14T23:57:59.926895+00:00
-
- ## Accueil :: Service des Sports UNIL/EPFL
- - [https://sport.unil.ch](https://sport.unil.ch)
- - date_published: 2024-07-16T22:34:07.819584+00:00
-
- ## UNIL | Université de Lausanne - Suisse
- - [https://unil.ch](https://unil.ch)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Wordpress UNIL
- - [https://wp.unil.ch](https://wp.unil.ch)
- - date_published: 2024-05-04T15:31:41.589908+00:00
-
- ## UNIL - Erreur 404
- - [https://www2.unil.ch](https://www2.unil.ch)
- - date_published: 2022-08-22T08:42:20+00:00
-
- ## Université de Neuchâtel
- - [http://www.unine.ch](http://www.unine.ch)
- - date_published: 2024-06-22T09:22:33.193140+00:00
-
- ## HSG Publishing
- - [https://publishing.unisg.ch](https://publishing.unisg.ch)
- - date_published: 2024-10-29T16:19:54.157230+00:00
-
- ## SFS-HSG | Seminar für Soziologie | Universität St.Gallen
- - [https://sfs.unisg.ch](https://sfs.unisg.ch)
- - date_published: 2024-10-29T16:20:30.012873+00:00
-
- ## University of St.Gallen
- - [http://www.unisg.ch](http://www.unisg.ch)
- - date_published: 2024-07-01T14:34:18+00:00
-
- ## Universitätssport
- - [https://unisport.ch](https://unisport.ch)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Webdesign und Programmierung nach Mass – unlocked GmbH
- - [https://unlocked.ch](https://unlocked.ch)
- - date_published: 2024-04-30T06:49:05.829621+00:00
-
- ## Umami
- - [https://umami.upchur.ch](https://umami.upchur.ch)
- - date_published: 2024-08-18T03:28:46.091771+00:00
-
- ## Unlocking the Power of Data Initiative
- - [https://www.upd-initiative.ch](https://www.upd-initiative.ch)
- - date_published: 2024-07-16T22:16:49.625367+00:00
-
- ## Accueil
- - [https://uplausanne.ch](https://uplausanne.ch)
- - date_published: 2024-06-14T15:27:59.244840+00:00
-
- ## Neuigkeiten - VSV - AUPS
- - [https://www.up-vhs.ch](https://www.up-vhs.ch)
- - date_published: 2024-09-15T00:02:44.944947+00:00
-
- ## LES URBAINES
- - [http://urbaines.ch](http://urbaines.ch)
- - date_published: 2024-07-13T15:16:25.609184+00:00
-
- ## Urner Wochenblatt
- - [https://www.urnerwochenblatt.ch](https://www.urnerwochenblatt.ch)
- - date_published: 2024-06-27T10:56:57.511314+00:00
-
- ## BlueChilli Art Studio, Einfach Du & Best4Web: Kalligraphie und Kunst, Coaching und Begleitung, Webdesign und mehr by Ursi Spaltenstein
- - [https://ursispaltenstein.ch](https://ursispaltenstein.ch)
- - date_published: 2023-09-26T16:01:21+00:00
-
- ## USI – Informazioni pratiche
- - [https://desk.usi.ch](https://desk.usi.ch)
- - date_published: 2024-07-21T05:15:10+00:00
-
- ## Welcome to the Evaluate Collaboratory! | Evaluate Collaboratory
- - [http://evaluate.inf.usi.ch](http://evaluate.inf.usi.ch)
- - date_published: 2024-07-14T16:25:24.487395+00:00
-
- ## Home page site login2.usi.ch
- - [https://login2.usi.ch](https://login2.usi.ch)
- - date_published: 2016-07-28T09:17:22+00:00
-
- ## USI Newsletter System
- - [https://newsletter.usi.ch](https://newsletter.usi.ch)
- - date_published: 2024-07-21T06:08:58.408674+00:00
-
- ## Welcome! | Software and Programmer Efficiency Research Group
- - [https://sape.inf.usi.ch](https://sape.inf.usi.ch)
- - date_published: 2024-05-11T11:52:35.132268+00:00
-
- ## Search for people | Università della Svizzera italiana
- - [https://search.usi.ch](https://search.usi.ch)
- - date_published: 2024-04-30T06:01:39.110057+00:00
-
- ## Università della Svizzera italiana | USI
- - [https://usi.ch](https://usi.ch)
- - date_published: 2024-04-30T06:01:02.216739+00:00
-
- ## USI - Architettura
- - [http://www.arc.usi.ch](http://www.arc.usi.ch)
- - date_published: 2024-07-21T06:09:03.753925+00:00
-
- ## USI – Biomedicine
- - [https://www.biomed.usi.ch](https://www.biomed.usi.ch)
- - date_published: 2024-07-21T04:15:09+00:00
-
- ## USI - Comunicazione
- - [http://www.com.usi.ch](http://www.com.usi.ch)
- - date_published: 2024-07-21T04:15:09+00:00
-
- ## USI - Economia
- - [https://www.eco.usi.ch](https://www.eco.usi.ch)
- - date_published: 2024-07-21T04:08:46+00:00
-
- ## USI - Facoltà di Teologia di Lugano
- - [https://www.ftl.usi.ch](https://www.ftl.usi.ch)
- - date_published: 2024-07-21T04:06:49+00:00
-
- ## USI – Informatics
- - [http://www.inf.usi.ch](http://www.inf.usi.ch)
- - date_published: 2024-07-14T16:24:11+00:00
-
- ## DSEC – A Stereo Event Camera Dataset for Driving Scenarios
- - [https://dsec.ifi.uzh.ch](https://dsec.ifi.uzh.ch)
- - date_published: 2024-06-19T07:41:14.162566+00:00
-
- ## The UZH FPV Dataset
- - [https://fpv.ifi.uzh.ch](https://fpv.ifi.uzh.ch)
- - date_published: 2024-06-19T07:41:30.360754+00:00
-
- ## JES - Home
- - [https://jes.math.uzh.ch](https://jes.math.uzh.ch)
- - date_published: 2024-06-20T13:59:33.587899+00:00
-
- ## Jitsi Meet
- - [https://jitsi.math.uzh.ch](https://jitsi.math.uzh.ch)
- - date_published: 2024-06-20T13:59:37.229471+00:00
-
- ## Kommunikation
- - [https://kommunikation.uzh.ch](https://kommunikation.uzh.ch)
- - date_published: 2024-04-30T06:15:23.497622+00:00
-
- ## Zimbra Web Client Sign In
- - [https://mail.math.uzh.ch](https://mail.math.uzh.ch)
- - date_published: 2024-06-20T13:59:32.477847+00:00
-
- ## UZH - Institute of Mathematics - Home
- - [https://math.uzh.ch](https://math.uzh.ch)
- - date_published: 2024-08-18T12:26:05.613765+00:00
-
- ## Robotics and Perception Group
- - [https://rpg.ifi.uzh.ch](https://rpg.ifi.uzh.ch)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Universität Zürich
- - [https://uzh.ch](https://uzh.ch)
- - date_published: 2024-07-21T05:10:56.985032+00:00
-
- ## Sign in - Matomo
- - [https://webstats.uzh.ch](https://webstats.uzh.ch)
- - date_published: 2024-04-30T06:15:24.350890+00:00
-
- ## Corporate Design
- - [http://www.cd.uzh.ch](http://www.cd.uzh.ch)
- - date_published: 2024-07-21T05:10:54.375928+00:00
-
- ## de
- - [https://www.cl.uzh.ch](https://www.cl.uzh.ch)
- - date_published: 2024-06-30T09:23:24.328443+00:00
-
- ## Digital Society Initiative | Digital Society Initiative | UZH
- - [https://www.dsi.uzh.ch](https://www.dsi.uzh.ch)
- - date_published: 2024-10-28T07:08:39.410711+00:00
-
- ## HiFo
- - [https://www.hifo.uzh.ch](https://www.hifo.uzh.ch)
- - date_published: 2024-06-16T22:22:45.317388+00:00
-
- ## Department of Astrophysics
- - [https://www.ics.uzh.ch](https://www.ics.uzh.ch)
- - date_published: 2024-07-21T02:22:50.071652+00:00
-
- ## Department of Informatics
- - [http://www.ifi.uzh.ch](http://www.ifi.uzh.ch)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Welcome!
- - [http://www.ini.uzh.ch](http://www.ini.uzh.ch)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Internationals
- - [https://www.internationals.uzh.ch](https://www.internationals.uzh.ch)
- - date_published: 2024-07-21T05:10:53.179823+00:00
-
- ## | Institut für Politikwissenschaft | UZH
- - [https://www.ipz.uzh.ch](https://www.ipz.uzh.ch)
- - date_published: 2024-10-18T20:41:54.677892+00:00
-
- ## Willkommen
- - [http://www.irg.uzh.ch](http://www.irg.uzh.ch)
- - date_published: 2024-06-28T21:19:25.451698+00:00
-
- ## Media | Für Medien | UZH
- - [https://www.media.uzh.ch](https://www.media.uzh.ch)
- - date_published: 2023-10-25T12:14:48.655408+00:00
-
- ## News Mensen & Cafeterias
- - [https://www.mensa.uzh.ch](https://www.mensa.uzh.ch)
- - date_published: 2024-07-21T06:21:07.993433+00:00
-
- ## de
- - [https://www.mnf.uzh.ch](https://www.mnf.uzh.ch)
- - date_published: 2024-06-20T13:59:35.626057+00:00
-
- ## | Neuroscience Center Zurich  | UZH
- - [http://www.neuroscience.uzh.ch](http://www.neuroscience.uzh.ch)
- - date_published: 2024-10-14T23:48:31.959825+00:00
-
- ## News | UZH News | UZH
- - [https://www.news.uzh.ch](https://www.news.uzh.ch)
- - date_published: 2023-10-25T12:14:51.240907+00:00
-
- ## | Open Science | UZH
- - [https://www.openscience.uzh.ch](https://www.openscience.uzh.ch)
- - date_published: 2025-01-09T17:58:41.992503+00:00
-
- ## UZH - Universität Zürich - Telefon-Verzeichnis
- - [https://www.phonebook.uzh.ch](https://www.phonebook.uzh.ch)
- - date_published: 2024-07-21T06:21:15.305374+00:00
-
- ## Physik-Institut
- - [https://www.physik.uzh.ch](https://www.physik.uzh.ch)
- - date_published: 2024-07-21T02:22:42.209387+00:00
-
- ## UZH - Pläne und Orientierung
- - [http://www.plaene.uzh.ch](http://www.plaene.uzh.ch)
- - date_published: 2024-07-21T05:10:55.463078+00:00
-
- ## Herzlich Willkommen
- - [https://www.sciencepavilion.uzh.ch](https://www.sciencepavilion.uzh.ch)
- - date_published: 2024-06-20T13:59:30.262716+00:00
-
- ## Willkommen am Sprachenzentrum der UZH und der ETH Zürich
- - [http://www.sprachenzentrum.uzh.ch](http://www.sprachenzentrum.uzh.ch)
- - date_published: 2024-06-22T11:54:33.128961+00:00
-
- ## UZH für Mitarbeitende
- - [https://www.staff.uzh.ch](https://www.staff.uzh.ch)
- - date_published: 2024-07-21T06:21:11.394495+00:00
-
- ## de
- - [https://www.ub.uzh.ch](https://www.ub.uzh.ch)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Welcome to Zurich Open Repository and Archive - Zurich Open Repository and Archive
- - [https://www.zora.uzh.ch](https://www.zora.uzh.ch)
- - date_published: 2024-07-17T16:13:22.049836+00:00
-
- ## UZH Alumni - the alumni organisation of the University of Zurich
- - [https://uzhalumni.ch](https://uzhalumni.ch)
- - date_published: 2023-08-28T00:00:00+00:00
-
- ## Home
- - [https://www.uzhfoundation.ch](https://www.uzhfoundation.ch)
- - date_published: 2024-07-21T06:21:09.773456+00:00
-
- ## Séjours, Loisirs, Gastronomie, Cadre de Vie | Valais Suisse
- - [https://www.valais.ch](https://www.valais.ch)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Home - VALUEx Klosters
- - [https://valuex.ch](https://valuex.ch)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Plausible · Web analytics
- - [https://stats.varun.ch](https://stats.varun.ch)
- - date_published: 2024-04-30T06:15:25.860161+00:00
 

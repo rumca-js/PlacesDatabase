@@ -1,3 +1,119 @@
+ ## Flinders University
+ - [https://pay.flinders.edu.au](https://pay.flinders.edu.au)
+ - date_published: 2024-09-15T15:08:24.416460+00:00
+
+ ## Research @ Flinders
+ - [https://researchnow.flinders.edu.au](https://researchnow.flinders.edu.au)
+ - date_published: 2024-09-15T15:07:57.204742+00:00
+
+ ## Flinders Uni Shop
+ - [https://shop.flinders.edu.au](https://shop.flinders.edu.au)
+ - date_published: 2024-09-15T15:07:48.624172+00:00
+
+ ## Sites at Flinders University
+ - [https://sites.flinders.edu.au](https://sites.flinders.edu.au)
+ - date_published: 2023-10-25T11:21:12.768059+00:00
+
+ ## Flinders Uni Sliders
+ - [https://slider.flinders.edu.au](https://slider.flinders.edu.au)
+ - date_published: 2024-09-15T15:08:31.700348+00:00
+
+ ## Staff - Flinders University Staff
+ - [https://staff.flinders.edu.au](https://staff.flinders.edu.au)
+ - date_published: 2024-09-15T14:59:42+00:00
+
+ ## Students - Flinders University Students
+ - [https://students.flinders.edu.au](https://students.flinders.edu.au)
+ - date_published: 2024-09-15T14:58:42+00:00
+
+ ## The Florey | Advancing Brain Research
+ - [https://florey.edu.au](https://florey.edu.au)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Group of Eight
+ - [https://go8.edu.au](https://go8.edu.au)
+ - date_published: 2024-05-10T04:55:09.659249+00:00
+
+ ## Griffith University
+ - [https://experts.griffith.edu.au](https://experts.griffith.edu.au)
+ - date_published: 2024-08-19T11:18:04.596849+00:00
+
+ ## Griffith News – News and Events from Griffith University
+ - [https://news.griffith.edu.au](https://news.griffith.edu.au)
+ - date_published: 2023-10-25T11:56:44.667729+00:00
+
+ ## Griffith University
+ - [http://www.griffith.edu.au](http://www.griffith.edu.au)
+ - date_published: 2024-07-22T09:08:21.819992+00:00
+
+ ## Griffith University | ICT Staff Web Server (Hobbit)
+ - [https://www.ict.griffith.edu.au](https://www.ict.griffith.edu.au)
+ - date_published: 2024-04-29T06:00:46.510609+00:00
+
+ ## Home - Innovative Research Universities
+ - [http://www.iru.edu.au](http://www.iru.edu.au)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Index for / - James Cook University High Performance Computing
+ - [https://www.hpc.jcu.edu.au](https://www.hpc.jcu.edu.au)
+ - date_published: 2024-04-30T03:27:34.189824+00:00
+
+ ## JCU Australia
+ - [https://www.jcu.edu.au](https://www.jcu.edu.au)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## TAFE Courses Melbourne | Apprenticeships | Short Courses
+ - [https://www.kangan.edu.au](https://www.kangan.edu.au)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+ - [https://aaf.latrobe.edu.au](https://aaf.latrobe.edu.au)
+ - date_published: 2023-04-28T16:52:29+00:00
+
+ ## Home - La Trobe Career Practitioners
+ - [https://career-practitioner.blogs.latrobe.edu.au](https://career-practitioner.blogs.latrobe.edu.au)
+ - date_published: 2014-12-29T12:23:42+00:00
+
+ ## Home
+ - [https://latrobe.edu.au](https://latrobe.edu.au)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home / La Trobe Policy Library
+ - [https://policies.latrobe.edu.au](https://policies.latrobe.edu.au)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Home page
+ - [https://shortcourses.latrobe.edu.au](https://shortcourses.latrobe.edu.au)
+ - date_published: 2024-07-11T14:27:59.931602+00:00
+
+ ## LDaCA
+ - [https://www.ldaca.edu.au](https://www.ldaca.edu.au)
+ - date_published: 2024-06-14T04:29:30+00:00
+
+ ## Murdoch Children's Research Institute
+ - [https://www.mcri.edu.au](https://www.mcri.edu.au)
+ - date_published: 2024-12-19T06:31:38.340464+00:00
+
+ ## Menzies - School of Health Research
+ - [https://www.menzies.edu.au](https://www.menzies.edu.au)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Marine Education Society of Australasia
+ - [http://mesa.edu.au](http://mesa.edu.au)
+ - date_published: 2024-05-07T22:37:30.029995+00:00
+
+ ## Electrical and Computer Systems Engineering
+ - [https://ecse.monash.edu.au](https://ecse.monash.edu.au)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Faculty of Engineering | Monash University
+ - [https://eng.monash.edu.au](https://eng.monash.edu.au)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## User Web Pages
+ - [https://users.monash.edu.au](https://users.monash.edu.au)
+ - date_published: 2024-04-29T06:29:16.110633+00:00
+
  ## Home
  - [http://www.monash.edu.au](http://www.monash.edu.au)
  - date_published: 2024-12-20T18:27:02.467652+00:00
@@ -2625,6 +2741,10 @@ University of Technology
  - date_published: 2022-04-11T00:00:00+00:00
 
  ## Welcome to Blade's Place
+ - [https://bladesplace.id.au](https://bladesplace.id.au)
+ - date_published: 2025-01-17T22:58:23.388398+00:00
+
+ ## Welcome to Blade's Place
  - [https://www.bladesplace.id.au](https://www.bladesplace.id.au)
  - date_published: 2009-10-27T00:00:00+00:00
 
@@ -3902,125 +4022,4 @@ University of Technology
  ## Home - LINA
  - [https://lina.org.au](https://lina.org.au)
  - date_published: 2024-08-22T10:54:57+00:00
-
- ## Home - LINA
- - [http://www.lina.org.au](http://www.lina.org.au)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## Index of /
- - [https://mirror.linux.org.au](https://mirror.linux.org.au)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home - Linux Australia
- - [http://www.linux.org.au](http://www.linux.org.au)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## | Liquid Architecture
- - [http://liquidarchitecture.org.au](http://liquidarchitecture.org.au)
- - date_published: 2024-07-12T21:58:38.829158+00:00
-
- ## Lock the Gate
- - [https://www.lockthegate.org.au](https://www.lockthegate.org.au)
- - date_published: 2024-09-25T18:17:28.081682+00:00
-
- ## Logan Healthy Living - Bulk-Billed Type 2 Diabetes Program
- - [https://www.loganhealthyliving.org.au](https://www.loganhealthyliving.org.au)
- - date_published: 2024-12-21T08:08:16.475613+00:00
-
- ## Seeing Eye Dogs - Lucky Puppy Lottery
- - [https://luckypuppylottery.org.au](https://luckypuppylottery.org.au)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Macarthur Astronomical Society – astronomy in sydney's south west
- - [https://macastro.org.au](https://macastro.org.au)
- - date_published: 2024-06-21T13:01:58.730842+00:00
-
- ## Australian Marine Conservation Society - AMCS
- - [https://www.marineconservation.org.au](https://www.marineconservation.org.au)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Masonicare
- - [http://masonicare.org.au](http://masonicare.org.au)
- - date_published: 2024-10-19T10:03:08.983895+00:00
-
- ## Masonic Orders - masonic calendar
- - [https://www.masonicorders.org.au](https://www.masonicorders.org.au)
- - date_published: 2024-06-17T14:04:55+00:00
-
- ## Home
- - [https://mastermariners.org.au](https://mastermariners.org.au)
- - date_published: 2023-10-25T11:58:09.841193+00:00
-
- ## Attention Required! | Cloudflare
- - [https://fundraise.mater.org.au](https://fundraise.mater.org.au)
- - date_published: 2024-10-14T18:18:26.270902+00:00
-
- ## Mater Foundation | Mater Foundation
- - [https://www.materfoundation.org.au](https://www.materfoundation.org.au)
- - date_published: 2025-01-15T08:58:56.675061+00:00
-
- ## MATES - Industry Based Suicide Prevention - MATES
- - [https://mates.org.au](https://mates.org.au)
- - date_published: 2024-08-17T23:14:00.588457+00:00
- - date_dead_since: 2025-01-15T08:59:12.133254+00:00
-
- ## Home - AMSI
- - [https://maths.org.au](https://maths.org.au)
- - date_published: 2020-05-21T00:00:00+00:00
-
- ## Home - AMSI Careers
- - [https://mathscareers.org.au](https://mathscareers.org.au)
- - date_published: 2016-07-04T00:00:00+00:00
-
- ## Homepage - The Maths Store
- - [https://mathsstore.org.au](https://mathsstore.org.au)
- - date_published: 2025-01-15T09:01:07.279851+00:00
-
- ## Home - Mathematical Association of Western Australia (MAWA)
- - [https://mawainc.org.au](https://mawainc.org.au)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## MCERA – Media Centre for Education Research Australia
- - [https://mcera.org.au](https://mcera.org.au)
- - date_published: 2024-08-18T09:37:19.777789+00:00
-
- ## MOD.
- - [https://mod.org.au](https://mod.org.au)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Myositis Association Australia - Myositis Association Australia
- - [https://myositis.org.au](https://myositis.org.au)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Narconon | Drug Rehabilitation | Drug Education
- - [https://www.narconon.org.au](https://www.narconon.org.au)
- - date_published: 2024-09-04T18:07:17.555456+00:00
-
- ## 2022 Event Information | National Landcare Conference & Awards
- - [https://nationallandcareconference.org.au](https://nationallandcareconference.org.au)
- - date_published: 2025-01-15T09:27:29.718518+00:00
-
- ## Save Our Forests
- - [https://forests.nature.org.au](https://forests.nature.org.au)
- - date_published: 2025-01-15T09:10:24.586926+00:00
-
- ## Stand Up for Nature
- - [https://landclearing.nature.org.au](https://landclearing.nature.org.au)
- - date_published: 2025-01-15T09:10:30.612387+00:00
-
- ## Nature Conservation Council of NSW
- - [https://nature.org.au](https://nature.org.au)
- - date_published: 2024-09-25T18:18:02.565421+00:00
-
- ## Wildlife & Environmental Conservation Organisation - The Nature Conservancy Australia
- - [https://engage.natureaustralia.org.au](https://engage.natureaustralia.org.au)
- - date_published: 2024-07-08T07:32:55+00:00
-
- ## Wildlife & Environmental Conservation Organisation - The Nature Conservancy Australia
- - [https://natureaustralia.org.au](https://natureaustralia.org.au)
- - date_published: 2024-05-08T10:42:45.905767+00:00
-
- ## Home
- - [https://nbcf.org.au](https://nbcf.org.au)
- - date_published: 2024-12-06T13:03:47+00:00
 

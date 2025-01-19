@@ -1,3 +1,138 @@
+ ## In the Dark
+ - [https://telescoper.blog](https://telescoper.blog)
+ - date_published: 2024-06-29T03:40:58.824221+00:00
+
+ ## Ten Forward's Blog – The official blog of the Ten Forward Mastodon instance
+ - [https://tenforward.blog](https://tenforward.blog)
+ - date_published: 2024-06-10T14:03:33+00:00
+
+ ## Texts.blog, the blog of Texts.com
+ - [https://texts.blog](https://texts.blog)
+ - date_published: 2024-01-29T22:46:36.155318+00:00
+
+ ## Teylen's RPG Corner
+ - [https://teylen.blog](https://teylen.blog)
+ - date_published: 2025-01-16T14:50:32.140454+00:00
+
+ ## The Auditorium: a research culture and researcher development blog
+ - [http://theauditorium.blog](http://theauditorium.blog)
+ - date_published: 2024-06-17T14:06:53.639392+00:00
+
+ ## The Fizz - Gossip, Interviews, & Exclusive News from The Crush House
+ - [https://thefizz.blog](https://thefizz.blog)
+ - date_published: 2024-10-20T12:59:49.342075+00:00
+
+ ## The Gardens Trust
+ - [https://thegardenstrust.blog](https://thegardenstrust.blog)
+ - date_published: 2024-10-22T19:04:17+00:00
+
+ ## Theory Dish
+ - [https://theorydish.blog](https://theorydish.blog)
+ - date_published: 2024-06-21T03:52:55+00:00
+
+ ## The Overspill: when there's more that I want to say
+ - [https://theoverspill.blog](https://theoverspill.blog)
+ - date_published: 2024-05-08T10:43:11.660044+00:00
+
+ ## The Platform Law Blog
+ - [https://theplatformlaw.blog](https://theplatformlaw.blog)
+ - date_published: 2024-05-12T04:11:55.214912+00:00
+
+ ## Welcome to The Roaming Duo - The Roaming Duo
+ - [https://theroamingduo.blog](https://theroamingduo.blog)
+ - date_published: 2025-01-07T11:49:17+00:00
+
+ ## The Simple Catholic
+ - [http://thesimplecatholic.blog](http://thesimplecatholic.blog)
+ - date_published: 2024-09-03T23:02:51.297980+00:00
+
+ ## The Solopreneur Blog
+ - [https://thesolopreneur.blog](https://thesolopreneur.blog)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## A Spoonful of Poetry: A poetry collection by Saalik Lokhandwala
+ - [https://poetry.thespoonful.blog](https://poetry.thespoonful.blog)
+ - date_published: 2024-04-28T06:08:30.388290+00:00
+
+ ## The Spoonful | Saalik Lokhandwala | Substack
+ - [https://www.thespoonful.blog](https://www.thespoonful.blog)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## The Tech Trailblazer
+ - [https://thetechtrailblazer.blog](https://thetechtrailblazer.blog)
+ - date_published: 2023-10-25T09:01:58.683638+00:00
+ - tags: ['personal']
+
+ ## theunderground.blog
+ - [https://theunderground.blog](https://theunderground.blog)
+ - date_published: 2025-01-18T01:42:46.659700+00:00
+
+ ## This is Not Cool
+ - [https://thinc.blog](https://thinc.blog)
+ - date_published: 2024-06-30T02:30:07+00:00
+
+ ## Things I read
+ - [http://things-i-read.blog](http://things-i-read.blog)
+ - date_published: 2024-06-17T04:49:45.040086+00:00
+
+ ## Searching History
+ - [https://thoughtsfromafar.blog](https://thoughtsfromafar.blog)
+ - date_published: 2024-09-13T19:34:02.608919+00:00
+
+ ## Tiago Lopes
+ - [https://tiagolopes.blog](https://tiagolopes.blog)
+ - date_published: 2024-06-23T04:33:17+00:00
+
+ ## Tibz
+ - [https://tibz.blog](https://tibz.blog)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## The Blog of Author Tim Ferriss
+ - [https://tim.blog](https://tim.blog)
+ - date_published: 2023-10-25T09:02:05.192967+00:00
+ - tags: ['personal']
+
+ ## Home - Time Scavengers
+ - [https://timescavengers.blog](https://timescavengers.blog)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Tiny Theme for Micro.blog
+ - [https://tinyformicro.blog](https://tinyformicro.blog)
+ - date_published: 2024-05-04T14:42:55.366898+00:00
+
+ ## tiny poems
+ - [https://tinypoems.blog](https://tinypoems.blog)
+ - date_published: 2024-05-02T12:54:41.281272+00:00
+
+ ## tlohde
+ - [https://tlohde.blog](https://tlohde.blog)
+ - date_published: 2024-07-08T12:52:44.377915+00:00
+
+ ## Tony Dang's Blog
+ - [https://tonydang.blog](https://tonydang.blog)
+ - date_published: 2023-12-12T04:54:16.406463+00:00
+ - tags: ['personal']
+
+ ## top expert
+ - [https://topexpert.blog](https://topexpert.blog)
+ - date_published: 2024-07-10T02:40:59.207895+00:00
+
+ ## Total Eclipse
+ - [https://totaleclipse.blog](https://totaleclipse.blog)
+ - date_published: 2024-08-18T21:21:19.930189+00:00
+
+ ## Townsend Music Blog
+ - [https://www.townsendmusic.blog](https://www.townsendmusic.blog)
+ - date_published: 2024-06-25T17:02:36.967218+00:00
+
+ ## Scruffy's..Blurgh!
+ - [https://computersreallysuck.travel.blog](https://computersreallysuck.travel.blog)
+ - date_published: 2024-06-30T01:17:09.326742+00:00
+
+ ## Trent's World (the Blog)
+ - [https://trentsworld.blog](https://trentsworld.blog)
+ - date_published: 2024-12-30T22:51:37.911705+00:00
+
  ## | Troof
  - [https://troof.blog](https://troof.blog)
  - date_published: 2024-05-02T15:03:39.461851+00:00
@@ -301,6 +436,10 @@
  ## Home - Bermuda High School for Girls
  - [https://www.bhs.bm](https://www.bhs.bm)
  - date_published: 2024-09-03T21:49:06.332123+00:00
+
+ ## Regulatory, Monetary, and Financial Advisory Body of Bermuda - BMA
+ - [https://www.bma.bm](https://www.bma.bm)
+ - date_published: 2025-01-18T07:09:13.286591+00:00
 
  ## HSBC Bermuda - Credit Cards, Accounts, Mortgages, Loans
  - [https://www.hsbc.bm](https://www.hsbc.bm)
@@ -1919,6 +2058,10 @@ Educação
  - [https://guiadoestudante.abril.com.br](https://guiadoestudante.abril.com.br)
  - date_published: 2024-10-30T05:31:11.830990+00:00
 
+ ## Quatro Rodas
+ - [https://quatrorodas.abril.com.br](https://quatrorodas.abril.com.br)
+ - date_published: 2025-01-18T01:45:55.835882+00:00
+
  ## VEJA - Reportagens exclusivas, notícias, informação e opinião.
  - [https://veja.abril.com.br](https://veja.abril.com.br)
  - date_published: 2024-09-25T15:36:52.245523+00:00
@@ -2517,6 +2660,10 @@ Educação
  - [https://bonsfluidos.com.br](https://bonsfluidos.com.br)
  - date_published: 2024-07-11T17:33:22.414185+00:00
 
+ ## BP Money
+ - [https://bpmoney.com.br](https://bpmoney.com.br)
+ - date_published: 2025-01-18T01:41:54.566168+00:00
+
  ## Brasil de Fato
  - [https://www.brasildefato.com.br](https://www.brasildefato.com.br)
  - date_published: 2024-06-28T21:41:57.628853+00:00
@@ -2697,6 +2844,10 @@ Educação
  - [https://www.citroenorigins.com.br](https://www.citroenorigins.com.br)
  - date_published: 2018-04-18T13:00:13+00:00
 
+ ## CPG Click Petroleo e Gas | Empregos e Negócios
+ - [https://clickpetroleoegas.com.br](https://clickpetroleoegas.com.br)
+ - date_published: 2025-01-18T01:48:48.088130+00:00
+
  ## GZH - notícias, porto alegre, grêmio, inter, colunistas, jogos ao vivo e mais
  - [https://gauchazh.clicrbs.com.br](https://gauchazh.clicrbs.com.br)
  - date_published: 2024-10-30T05:31:41.697543+00:00
@@ -2829,6 +2980,10 @@ Educação
  - [https://conexaoplaneta.com.br](https://conexaoplaneta.com.br)
  - date_published: 2025-01-15T20:04:23.986013+00:00
 
+ ## Conexão Política
+ - [https://www.conexaopolitica.com.br](https://www.conexaopolitica.com.br)
+ - date_published: 2023-04-10T01:04:00+00:00
+
  ## Início | Confraria Web 3.0
  - [https://www.confrariaweb3.com.br](https://www.confrariaweb3.com.br)
  - date_published: 2024-09-25T12:06:13.745407+00:00
@@ -2840,6 +2995,10 @@ Educação
  ## Consultor Net | Implantação de Loja Virtuais
  - [https://www.consultornet.com.br](https://www.consultornet.com.br)
  - date_published: 2024-09-10T13:09:43.700873+00:00
+
+ ## Portal Contábeis - A maior comunidade de contabilidade da Internet Brasileira.
+ - [https://www.contabeis.com.br](https://www.contabeis.com.br)
+ - date_published: 2025-01-18T01:45:51.730666+00:00
 
  ## Contato Seguro - Contato Seguro - Canal de Denúncias
  - [https://contatoseguro.com.br](https://contatoseguro.com.br)
@@ -2908,6 +3067,10 @@ Educação
  ## Jogos grátis online aqui na CrazyGames | Jogue Agora!
  - [https://crazygames.com.br](https://crazygames.com.br)
  - date_published: 2024-05-08T06:51:36.310066+00:00
+
+ ## CRYPTO ID - O maior portal brasileiro sobre Identificação Digital
+ - [https://cryptoid.com.br](https://cryptoid.com.br)
+ - date_published: 2025-01-18T01:45:34.380931+00:00
 
  ## Cultura Acadêmica – E-books gratuitos
  - [https://culturaacademica.com.br](https://culturaacademica.com.br)
@@ -2989,6 +3152,14 @@ Educação
  - [https://diariodocomercio.com.br](https://diariodocomercio.com.br)
  - date_published: 2024-09-29T20:22:03.867467+00:00
 
+ ## Diário do Poder
+ - [https://diariodopoder.com.br](https://diariodopoder.com.br)
+ - date_published: 2025-01-18T01:43:54.957172+00:00
+
+ ## Diário do Transporte: Página destinada à cobertura jornalística dos principais fatos relacionados aos transportes, com notícias, informações de última hora, coberturas exclusivas, opinião, estudos técnicos e história.
+ - [https://diariodotransporte.com.br](https://diariodotransporte.com.br)
+ - date_published: 2025-01-18T01:46:04.050703+00:00
+
  ## Dicas Blogger
  - [http://www.dicasblogger.com.br](http://www.dicasblogger.com.br)
  - date_published: 2024-12-30T23:07:14+00:00
@@ -3022,6 +3193,10 @@ Educação
  ## Diogo Cortiz
  - [https://diogocortiz.com.br](https://diogocortiz.com.br)
  - date_published: 2024-06-09T17:27:41.530628+00:00
+
+ ## Diolinux Plus
+ - [https://plus.diolinux.com.br](https://plus.diolinux.com.br)
+ - date_published: 2025-01-18T01:44:33.495781+00:00
 
  ## Aniversário Mágico | Disney
  - [http://aniversariomagico.disney.com.br](http://aniversariomagico.disney.com.br)
@@ -3210,6 +3385,10 @@ Educação
  ## Elo7 | Produtos Especiais e Personalizados
  - [https://www.elo7.com.br](https://www.elo7.com.br)
  - date_published: 2024-08-07T20:56:01.880116+00:00
+
+ ## Estado de Minas: notícias e análises de MG, Brasil e do mundo
+ - [https://www.em.com.br](https://www.em.com.br)
+ - date_published: 2025-01-17T00:00:00+00:00
 
  ## Cursos | Emagister
  - [https://www.emagister.com.br](https://www.emagister.com.br)
@@ -3740,6 +3919,10 @@ Educação
  - [http://www.garotait.com.br](http://www.garotait.com.br)
  - date_published: 2023-08-16T14:58:38+00:00
 
+ ## Home - Gazeta Brasil- Notícias do Brasil e do Mundo
+ - [https://gazetabrasil.com.br](https://gazetabrasil.com.br)
+ - date_published: 2025-01-18T01:44:38.847381+00:00
+
  ## Gazeta da Semana - Portal de Notícias e Negócios GRÁTIS
  - [https://gazetadasemana.com.br](https://gazetadasemana.com.br)
  - date_published: 2024-09-25T00:00:00+00:00
@@ -3747,6 +3930,10 @@ Educação
  ## Gazeta do Cerrado | Notícias do Tocantins e do Brasil. Antes de ser notícia, tem que ser verdade
  - [https://gazetadocerrado.com.br](https://gazetadocerrado.com.br)
  - date_published: 2025-01-15T20:03:27.033352+00:00
+
+ ## Gazeta do Povo | Últimas notícias do Brasil e do Mundo
+ - [https://www.gazetadopovo.com.br](https://www.gazetadopovo.com.br)
+ - date_published: 2025-01-18T01:48:34.844033+00:00
 
  ## Portal GCMAIS | Últimas notícias de Fortaleza, Ceará e Brasil
  - [https://gcmais.com.br](https://gcmais.com.br)
@@ -3831,189 +4018,4 @@ Educação
  ## Home - GPTW
  - [https://greatplacetowork.com.br](https://greatplacetowork.com.br)
  - date_published: 2024-01-23T00:00:00+00:00
-
- ## greenMe
- - [https://www.greenme.com.br](https://www.greenme.com.br)
- - date_published: 2024-12-26T16:43:59+00:00
-
- ## Grünenthal do Brasil | Negócios Latinoamérica | Sobre nós |Grünenthal Latinoamérica
- - [http://www.grunenthal.com.br](http://www.grunenthal.com.br)
- - date_published: 2024-10-16T18:49:00.733559+00:00
-
- ## +A Educação: a maior plataforma de educação do Brasil
- - [http://www.grupoa.com.br](http://www.grupoa.com.br)
- - date_published: 2025-01-08T00:51:39+00:00
-
- ## Grupo Boticário | Bem-vindo ao futuro da beleza
- - [https://www.grupoboticario.com.br](https://www.grupoboticario.com.br)
- - date_published: 2024-12-24T10:41:35.441342+00:00
-
- ## Grupo CCR | 25 anos melhorando vidas com mobilidade
- - [https://www.grupoccr.com.br](https://www.grupoccr.com.br)
- - date_published: 2024-07-11T17:50:37+00:00
-
- ## Grupo Perfil
- - [https://grupoperfilbrasil.com.br](https://grupoperfilbrasil.com.br)
- - date_published: 2022-07-05T18:32:20+00:00
-
- ## Santillana
- - [https://gruposantillana.com.br](https://gruposantillana.com.br)
- - date_published: 2024-06-12T12:55:57.533717+00:00
-
- ## GTAall.com.br — GTA mods com installer
- - [https://www.gtaall.com.br](https://www.gtaall.com.br)
- - date_published: 2024-06-16T22:08:21+00:00
-
- ## GTA 5 - Grand Theft Auto V
- - [http://br.gtafive.com.br](http://br.gtafive.com.br)
- - date_published: 2024-07-02T06:04:12+00:00
-
- ## Mods GTA San Andreas
- - [https://gta-sa.com.br](https://gta-sa.com.br)
- - date_published: 2023-10-25T11:08:27.421230+00:00
-
- ## Guia do Boleiro
- - [https://guiadoboleiro.com.br](https://guiadoboleiro.com.br)
- - date_published: 2024-12-26T17:31:57.498419+00:00
-
- ## Guia Viajar Melhor - Dicas de viagens e turismo
- - [https://guiaviajarmelhor.com.br](https://guiaviajarmelhor.com.br)
- - date_published: 2024-12-26T17:29:56.829702+00:00
-
- ## Home
- - [https://www.guinnessworldrecords.com.br](https://www.guinnessworldrecords.com.br)
- - date_published: 2024-05-04T08:58:02.022916+00:00
-
- ## H2FOZ - Últimas Notícias de Foz do Iguaçu e Região - H2FOZ
- - [https://www.h2foz.com.br](https://www.h2foz.com.br)
- - date_published: 2025-01-15T20:22:15.391033+00:00
-
- ## Hack The Task
- - [https://hackthetask.com.br](https://hackthetask.com.br)
- - date_published: 2024-07-18T04:42:27.462596+00:00
-
- ## Harlequin Brasil
- - [https://harlequin.com.br](https://harlequin.com.br)
- - date_published: 2024-05-10T06:58:09.555415+00:00
-
- ## HarperCollins Brasil
- - [https://harpercollins.com.br](https://harpercollins.com.br)
- - date_published: 2024-05-10T06:56:36.060012+00:00
-
- ## Hashdex | Home
- - [https://www.hashdex.com.br](https://www.hashdex.com.br)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home
- - [https://www.henkel.com.br](https://www.henkel.com.br)
- - date_published: 2024-10-18T20:18:40.866367+00:00
-
- ## Hilti Brasil - Ferramentas Elétricas, Fixadores e Software de Construção
- - [https://www.hilti.com.br](https://www.hilti.com.br)
- - date_published: 2024-06-20T07:27:17.095247+00:00
-
- ## História Militar em Debate
- - [https://historiamilitaremdebate.com.br](https://historiamilitaremdebate.com.br)
- - date_published: 2024-12-20T08:58:19.232214+00:00
-
- ## HitPaw Editor De Vídeo Online - Editar Vídeo Online Grátis
- - [https://online.hitpaw.com.br](https://online.hitpaw.com.br)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Hoje em Dia
- - [https://www.hojeemdia.com.br](https://www.hojeemdia.com.br)
- - date_published: 2024-10-28T14:34:25.280470+00:00
-
- ## Hollywood Forever TV
- - [https://hollywoodforevertv.com.br](https://hollywoodforevertv.com.br)
- - date_published: 2024-07-11T17:33:41.918455+00:00
-
- ## HOLOBOX | Projetores e projetos de holograma | Brasil
- - [https://www.holobox.com.br](https://www.holobox.com.br)
- - date_published: 2024-09-25T12:04:08.574326+00:00
-
- ## A melhor plataforma de hospedagem para você e seu negócio! | HostGator
- - [https://www.hostgator.com.br](https://www.hostgator.com.br)
- - date_published: 2021-05-01T15:00:00+00:00
-
- ## Faça login na Hostinger
- - [https://auth.hostinger.com.br](https://auth.hostinger.com.br)
- - date_published: 2024-07-13T16:34:50.455996+00:00
-
- ## A Plataforma de Host Feita Para Você - Hostinger
- - [https://hostinger.com.br](https://hostinger.com.br)
- - date_published: 2024-05-11T07:49:48.244296+00:00
-
- ## Bem-vindo à Hotfrog
- - [https://www.hotfrog.com.br](https://www.hotfrog.com.br)
- - date_published: 2024-06-29T16:52:31.330952+00:00
-
- ## Agência de Marketing Digital e Comunicação Estratégia - Human2be
- - [http://www.human2be.com.br](http://www.human2be.com.br)
- - date_published: 2024-12-23T21:04:54.672526+00:00
-
- ## Iandé
- - [https://iandecultura.com.br](https://iandecultura.com.br)
- - date_published: 2024-08-18T05:25:47.698210+00:00
-
- ## IBM - Brasil
- - [http://ibm.com.br](http://ibm.com.br)
- - date_published: 2024-07-13T01:52:01+00:00
-
- ## International Business Times Brazil
- - [https://www.ibtimes.com.br](https://www.ibtimes.com.br)
- - date_published: 2024-06-30T06:57:06.468733+00:00
-
- ## iceBreaker
- - [http://www.icebreaker.com.br](http://www.icebreaker.com.br)
- - date_published: 2024-12-14T10:40:51+00:00
-
- ## blog.icons8.com
- - [https://blog.icons8.com.br](https://blog.icons8.com.br)
- - date_published: 2024-08-20T04:39:36.309869+00:00
-
- ## Ícones, ilustrações de clipart, fotos e músicas gratuitos
- - [https://icons8.com.br](https://icons8.com.br)
- - date_published: 2024-05-01T03:01:35.352072+00:00
-
- ## ESPIRITUAL-IDADE
- - [https://www.idade-espiritual.com.br](https://www.idade-espiritual.com.br)
- - date_published: 2024-12-20T08:53:31+00:00
-
- ## Notícias do Último Segundo: o que acontece no Brasil e no Mundo
- - [http://colunistas.ig.com.br](http://colunistas.ig.com.br)
- - date_published: 2024-12-22T08:20:23.522751+00:00
-
- ## iG - Últimas notícias, fotos, vídeos, esportes, entretenimento e mais.
- - [http://ricardolombardi.ig.com.br](http://ricardolombardi.ig.com.br)
- - date_published: 2024-12-20T09:54:38+00:00
-
- ## Esteiras porta cabos, cabos elétricos especiais, buchas autolubrificantes, guias lineares, robôs
- - [https://www.igus.com.br](https://www.igus.com.br)
- - date_published: 2024-08-06T23:12:43.331681+00:00
-
- ## LP Redação | Correção de Redação Enem e Vestibulares - Imaginie
- - [https://www.imaginie.com.br](https://www.imaginie.com.br)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Impactamidia - Criação e Desenvolvimento de Sites
- - [http://www.impactamidia.com.br](http://www.impactamidia.com.br)
- - date_published: 2024-07-13T02:30:04.230601+00:00
-
- ## Instituto Moreira Salles
- - [https://ims.com.br](https://ims.com.br)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## CARITOGEL > Link Situs Toto Togel Dan Toto Slot Online Paling Terpercaya Di Indonesia
- - [https://indicadorcongonhas.com.br](https://indicadorcongonhas.com.br)
- - date_published: 2024-05-11T10:50:35.835391+00:00
-
- ## Inferno3
- - [https://inferno3.com.br](https://inferno3.com.br)
- - date_published: 2024-03-27T20:50:41.342565+00:00
- - tags: ['mud game']
-
- ## Ferramentas Simples para Construir Produtos Incríveis - Inflectra Brasil
- - [http://www.inflectra.com.br](http://www.inflectra.com.br)
- - date_published: 2023-09-03T23:50:20+00:00
 

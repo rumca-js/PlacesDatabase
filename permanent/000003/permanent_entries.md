@@ -1,3 +1,35 @@
+ ## Otter.ai - AI Meeting Note Taker & Real-time AI Transcription
+ - [https://otter.ai](https://otter.ai)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Ottic - Evaluate LLM-powered applications
+ - [https://ottic.ai](https://ottic.ai)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## outdraw.ai
+ - [https://outdraw.ai](https://outdraw.ai)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Outlier
+ - [https://app.outlier.ai](https://app.outlier.ai)
+ - date_published: 2024-08-06T11:40:59.185229+00:00
+
+ ## Outline
+ - [https://outline.ai](https://outline.ai)
+ - date_published: 2024-06-19T19:07:41.417824+00:00
+
+ ## Autonomous Yard Operations & Yard Automation - Outrider
+ - [https://outrider.ai](https://outrider.ai)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Outropy
+ - [https://outropy.ai](https://outropy.ai)
+ - date_published: 2024-05-11T10:39:10.616026+00:00
+
+ ## Outset - The AI-Moderated Research Platform
+ - [https://landing.outset.ai](https://landing.outset.ai)
+ - date_published: 2024-10-28T18:04:14+00:00
+
  ## Outset - The AI-Moderated Research Platform
  - [https://outset.ai](https://outset.ai)
  - date_published: 2024-10-28T18:04:14+00:00
@@ -234,6 +266,10 @@
  ## AI-Powered GIFT IDEAS Generator - PerfectGift.AI
  - [https://perfectgift.ai](https://perfectgift.ai)
  - date_published: 2024-08-18T09:04:27+00:00
+
+ ## Peris.ai - Cybersecurity Platform. You build, we guard.
+ - [https://www.peris.ai](https://www.peris.ai)
+ - date_published: 2025-01-18T04:52:44.562947+00:00
 
  ## pplx-api
  - [https://docs.perplexity.ai](https://docs.perplexity.ai)
@@ -1880,6 +1916,10 @@
  ## Free AI Resume Builder Trusted by 2,938,179 Users: Rezi
  - [https://rezi.ai](https://rezi.ai)
  - date_published: 2024-10-30T06:17:13+00:00
+
+ ## ResearchFlow | AI-Powered Research Engine & Visual Knowledge Mapping
+ - [https://rflow.ai](https://rflow.ai)
+ - date_published: 2025-01-18T08:38:48.913607+00:00
 
  ## RGo Robotics - Vision & AI Perception for Mobile Machines
  - [https://rgorobotics.ai](https://rgorobotics.ai)
@@ -4008,44 +4048,4 @@
  ## Vadoo AI - All in one AI video platform
  - [https://news.thesamur.ai](https://news.thesamur.ai)
  - date_published: 2024-10-30T16:26:58+00:00
-
- ## Ritebot
- - [https://ritebot.thesamur.ai](https://ritebot.thesamur.ai)
- - date_published: 2024-10-27T15:54:00+00:00
-
- ## EmbedAI | Custom ChatGPT for your website
- - [https://thesamur.ai](https://thesamur.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Thesify - Academic Writing Coach - AI Essay Writing Tool
- - [https://app.thesify.ai](https://app.thesify.ai)
- - date_published: 2024-10-30T12:26:35+00:00
-
- ## Thesify - Ethical AI Tools That Improve Your Academic Writing
- - [https://www.thesify.ai](https://www.thesify.ai)
- - date_published: 2024-10-30T13:09:25.088631+00:00
-
- ## Streamline AI - Intelligent intake, triage, and workflow automation for in-house legal teams.
- - [https://www.thestreamline.ai](https://www.thestreamline.ai)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## TheXPlace
- - [https://www.blog.thexplace.ai](https://www.blog.thexplace.ai)
- - date_published: 2024-06-20T13:14:45.625769+00:00
-
- ## Thinkstack
- - [https://app.thinkstack.ai](https://app.thinkstack.ai)
- - date_published: 2024-06-13T10:14:45+00:00
-
- ## This Anime Does Not Exist
- - [https://thisanimedoesnotexist.ai](https://thisanimedoesnotexist.ai)
- - date_published: 2023-07-04T23:10:46+00:00
-
- ## Thonk From First Principles | Horace He | Substack
- - [https://www.thonking.ai](https://www.thonking.ai)
- - date_published: 2024-11-08T11:28:49.827522+00:00
-
- ## THORDRIVE
- - [https://www.thordrive.ai](https://www.thordrive.ai)
- - date_published: 2023-11-23T00:00:00+00:00
 

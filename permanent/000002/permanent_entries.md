@@ -1,3 +1,23 @@
+ ## Liquid cooled server - Comino Grando
+ - [https://grando.ai](https://grando.ai)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## AI Data Platform | Granica AI
+ - [https://docs.granica.ai](https://docs.granica.ai)
+ - date_published: 2024-10-30T14:35:58.592775+00:00
+
+ ## Data Readiness Platform | Granica AI
+ - [https://granica.ai](https://granica.ai)
+ - date_published: 2024-10-30T14:36:00+00:00
+
+ ## Assisted data exploration for everyone
+ - [https://grapha.ai](https://grapha.ai)
+ - date_published: 2024-06-14T08:55:05.828865+00:00
+
+ ## Graphable - Your Trusted Data Experts
+ - [https://graphable.ai](https://graphable.ai)
+ - date_published: 2021-05-07T05:42:30+00:00
+
  ## Graphable + Sherlock™
  - [https://sherlock.graphable.ai](https://sherlock.graphable.ai)
  - date_published: 2023-05-04T16:58:17+00:00
@@ -1597,6 +1617,10 @@
  ## AI Conversational ChatBots & AI Agents | Kong.ai
  - [https://kong.ai](https://kong.ai)
  - date_published: 2024-10-30T18:44:01.621988+00:00
+
+ ## Kontent.ai Learn
+ - [https://docs.kontent.ai](https://docs.kontent.ai)
+ - date_published: 2025-01-17T22:48:15.048303+00:00
 
  ## An unparalleled return on your content
  - [https://kontent.ai](https://kontent.ai)
@@ -3647,6 +3671,10 @@
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## NPi Cloud
+ - [https://npi.ai](https://npi.ai)
+ - date_published: 2025-01-18T08:39:01.406952+00:00
+
+ ## NPi Cloud
  - [https://www.npi.ai](https://www.npi.ai)
  - date_published: 2025-01-07T19:58:03.435174+00:00
 
@@ -4000,35 +4028,7 @@
  - [https://osmo.ai](https://osmo.ai)
  - date_published: 2024-08-12T00:00:00+00:00
 
- ## Otter.ai - AI Meeting Note Taker & Real-time AI Transcription
- - [https://otter.ai](https://otter.ai)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Ottic - Evaluate LLM-powered applications
- - [https://ottic.ai](https://ottic.ai)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## outdraw.ai
- - [https://outdraw.ai](https://outdraw.ai)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## Outlier
- - [https://app.outlier.ai](https://app.outlier.ai)
- - date_published: 2024-08-06T11:40:59.185229+00:00
-
- ## Outline
- - [https://outline.ai](https://outline.ai)
- - date_published: 2024-06-19T19:07:41.417824+00:00
-
- ## Autonomous Yard Operations & Yard Automation - Outrider
- - [https://outrider.ai](https://outrider.ai)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Outropy
- - [https://outropy.ai](https://outropy.ai)
- - date_published: 2024-05-11T10:39:10.616026+00:00
-
- ## Outset - The AI-Moderated Research Platform
- - [https://landing.outset.ai](https://landing.outset.ai)
- - date_published: 2024-10-28T18:04:14+00:00
+ ## Otonomi | Next Generation Insurance for Time-Critical Freight
+ - [https://www.otonomi.ai](https://www.otonomi.ai)
+ - date_published: 2025-01-18T04:55:05.828746+00:00
 
