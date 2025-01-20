@@ -1,3 +1,7 @@
+ ## Home
+ - [https://changelog.liveagent.com](https://changelog.liveagent.com)
+ - date_published: 2024-10-19T20:26:55.327789+00:00
+
  ## LiveAgent | Простое программное обеспечение для поддержки клиентов для команд
  - [https://ru.liveagent.com](https://ru.liveagent.com)
  - date_published: 2024-10-19T20:26:52.644760+00:00
@@ -4005,8 +4009,4 @@
  ## Unauthorized
  - [https://media.localnews8.com](https://media.localnews8.com)
  - date_published: 2024-06-21T15:21:57.452302+00:00
-
- ## Home
- - [https://www.localnewslive.com](https://www.localnewslive.com)
- - date_published: 2024-12-23T09:45:48+00:00
 

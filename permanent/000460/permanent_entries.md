@@ -1,3 +1,11 @@
+ ## Meta Wiki
+ - [https://meta.weirdgloop.org](https://meta.weirdgloop.org)
+ - date_published: 2024-05-02T13:31:55.980516+00:00
+
+ ## Weird Gloop
+ - [https://weirdgloop.org](https://weirdgloop.org)
+ - date_published: 2024-05-02T13:32:12.448992+00:00
+
  ## LOVECRAFT ARTS & SCIENCES
  - [http://www.weirdprovidence.org](http://www.weirdprovidence.org)
  - date_published: 2024-06-19T15:18:42.630454+00:00
@@ -4002,12 +4010,4 @@
  ## Vichipedie
  - [https://fur.wikipedia.org](https://fur.wikipedia.org)
  - date_published: 2024-05-10T04:30:50.808352+00:00
-
- ## Wikipedy
- - [https://fy.m.wikipedia.org](https://fy.m.wikipedia.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Wikipedy
- - [https://fy.wikipedia.org](https://fy.wikipedia.org)
- - date_published: 2024-05-10T04:27:25.432220+00:00
 

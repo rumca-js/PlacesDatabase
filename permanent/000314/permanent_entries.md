@@ -1,3 +1,7 @@
+ ## Search Page
+ - [https://jobs.nmsu.edu](https://jobs.nmsu.edu)
+ - date_published: 2024-07-01T16:14:05.022562+00:00
+
  ## Home
  - [https://kb.nmsu.edu](https://kb.nmsu.edu)
  - date_published: 2024-07-01T16:13:27.425676+00:00
@@ -3997,8 +4001,4 @@
  ## Creating Web Pages in your Account
  - [http://web.cecs.pdx.edu](http://web.cecs.pdx.edu)
  - date_published: 2024-01-01T00:00:00+00:00
-
- ## Peninsula College Official Blog
- - [http://blog.pencol.edu](http://blog.pencol.edu)
- - date_published: 2015-03-18T18:04:56+00:00
 

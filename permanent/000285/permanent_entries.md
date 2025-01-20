@@ -1,3 +1,7 @@
+ ## 众图网_专注精品设计素材模板,原创图库免费下载
+ - [https://www.ztupic.com](https://www.ztupic.com)
+ - date_published: 2024-10-25T11:31:51.778123+00:00
+
  ## Zero Trust World 2025
  - [https://ztw25.com](https://ztw25.com)
  - date_published: 2024-05-11T09:19:31.681557+00:00
@@ -4018,8 +4022,4 @@
  ## Zemědělství 4.0
  - [http://6zstabor.adt.cz](http://6zstabor.adt.cz)
  - date_published: 2024-12-14T04:31:07.147502+00:00
-
- ## FixScript
- - [http://fixscript.advel.cz](http://fixscript.advel.cz)
- - date_published: 2024-08-18T04:37:42.223511+00:00
 

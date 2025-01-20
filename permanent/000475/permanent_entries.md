@@ -1,3 +1,11 @@
+ ## DinaCard
+ - [https://dinacard.nbs.rs](https://dinacard.nbs.rs)
+ - date_published: 2024-10-17T06:59:04+00:00
+
+ ## IPS - НБС | Насловна
+ - [https://ips.nbs.rs](https://ips.nbs.rs)
+ - date_published: 2024-09-16T02:15:40.061206+00:00
+
  ## Народна банка Србије
  - [https://nbs.rs](https://nbs.rs)
  - date_published: 2024-09-23T12:48:24+00:00
@@ -4012,12 +4020,4 @@
  ## N + OFFLINE
  - [https://offline.nplus1.ru](https://offline.nplus1.ru)
  - date_published: 2024-08-07T15:26:17.249208+00:00
-
- ## N + 1 — главное издание о науке, технике и технологиях
- - [https://staticn1.nplus1.ru](https://staticn1.nplus1.ru)
- - date_published: 2024-08-07T15:26:19.475484+00:00
-
- ## ПАО «ОДК-Сатурн»
- - [http://www.npo-saturn.ru](http://www.npo-saturn.ru)
- - date_published: 2024-07-09T21:59:46.647111+00:00
 

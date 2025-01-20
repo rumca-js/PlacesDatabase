@@ -1,3 +1,7 @@
+ ## Home
+ - [http://namus.gov](http://namus.gov)
+ - date_published: 2024-06-14T07:56:03+00:00
+
  ## Home | National Nanotechnology Initiative
  - [http://www.nano.gov](http://www.nano.gov)
  - date_published: 2024-06-29T22:29:26.794912+00:00
@@ -4022,8 +4026,4 @@
  ## Committee on Homeland Security & Governmental Affairs
  - [https://hsgac.senate.gov](https://hsgac.senate.gov)
  - date_published: 2023-10-25T19:25:16.853062+00:00
-
- ## U.S. Senate Select Committee on Intelligence
- - [https://intelligence.senate.gov](https://intelligence.senate.gov)
- - date_published: 2024-05-06T22:26:42.528979+00:00
 

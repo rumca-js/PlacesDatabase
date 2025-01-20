@@ -1,3 +1,7 @@
+ ## Martin Hepp | Professor of Web Science and Digitalization | UniBw Munich
+ - [http://www.heppnetz.de](http://www.heppnetz.de)
+ - date_published: 2020-10-12T21:25:40+00:00
+
  ## Heraldik-Wiki
  - [https://heraldik-wiki.de](https://heraldik-wiki.de)
  - date_published: 2024-07-12T21:06:37+00:00
@@ -4008,8 +4012,4 @@
  ## kolaente's Blog
  - [https://blog.kolaente.de](https://blog.kolaente.de)
  - date_published: 2024-07-23T23:31:31.686452+00:00
-
- ## listmonk - Mailing list
- - [https://newsletter.kolaente.de](https://newsletter.kolaente.de)
- - date_published: 2024-07-18T05:37:50.245911+00:00
 

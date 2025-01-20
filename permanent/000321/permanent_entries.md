@@ -1,3 +1,7 @@
+ ## Kathryn A. Martin Library | UMN Duluth
+ - [https://lib.d.umn.edu](https://lib.d.umn.edu)
+ - date_published: 2024-07-13T16:50:48+00:00
+
  ## Home - UMN Libraries News & Events
  - [https://libnews.umn.edu](https://libnews.umn.edu)
  - date_published: 2024-02-07T00:00:00+00:00
@@ -4012,8 +4016,4 @@
  ## MSE in Data Science
  - [https://dats.seas.upenn.edu](https://dats.seas.upenn.edu)
  - date_published: 2024-05-07T21:58:43.441043+00:00
-
- ## Wharton Digital Content Archive
- - [https://dca.wharton.upenn.edu](https://dca.wharton.upenn.edu)
- - date_published: 2024-10-14T20:17:09.010291+00:00
 

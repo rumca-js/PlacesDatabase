@@ -1,3 +1,7 @@
+ ## Paved | All-in-one Platform For Newsletter Sponsorships
+ - [https://www.paved.com](https://www.paved.com)
+ - date_published: 2024-12-27T12:26:07.438854+00:00
+
  ## Pavel Fatin   - Blog about human and technology
  - [https://pavelfatin.com](https://pavelfatin.com)
  - date_published: 2024-05-11T09:06:47.636368+00:00
@@ -4023,8 +4027,4 @@
  ## Home - People Of Walmart
  - [http://www.peopleofwalmart.com](http://www.peopleofwalmart.com)
  - date_published: 2024-12-12T19:42:21.305286+00:00
-
- ## The Audience Intelligence Solution - People Pattern
- - [http://www.peoplepattern.com](http://www.peoplepattern.com)
- - date_published: 2024-12-23T20:22:26.272237+00:00
 

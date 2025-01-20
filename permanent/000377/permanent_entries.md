@@ -1,3 +1,7 @@
+ ## Scuole Manfredini SRL Società Benefit
+ - [https://varese.scuolemanfredini.it](https://varese.scuolemanfredini.it)
+ - date_published: 2024-10-02T00:00:00+00:00
+
  ## HomeSDAit
  - [https://www.sda.it](https://www.sda.it)
  - date_published: 2024-06-16T09:56:20.650460+00:00
@@ -3998,8 +4002,4 @@ tophost.it
  ## 名古屋大学附属図書館・トップページ
  - [http://www.nul.nagoya-u.ac.jp](http://www.nul.nagoya-u.ac.jp)
  - date_published: 2024-04-09T02:07:51+00:00
-
- ## 名古屋大学博物館
- - [https://www.num.nagoya-u.ac.jp](https://www.num.nagoya-u.ac.jp)
- - date_published: 2024-06-23T22:30:30.511911+00:00
 

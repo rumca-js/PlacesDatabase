@@ -1,3 +1,7 @@
+ ## Assistenza InfoCert
+ - [https://help.infocert.it](https://help.infocert.it)
+ - date_published: 2024-04-12T00:00:00+00:00
+
  ## SPID: Identità Digitale | InfoCert
  - [https://identitadigitale.infocert.it](https://identitadigitale.infocert.it)
  - date_published: 2024-06-13T00:00:00+00:00
@@ -4014,8 +4018,4 @@
  ## INTERACTIVE SCHOOL
  - [https://liceoclassicostatalepz.scuolainfo.it](https://liceoclassicostatalepz.scuolainfo.it)
  - date_published: 2024-10-13T07:09:09.392238+00:00
-
- ## Scuole Manfredini SRL Società Benefit
- - [https://varese.scuolemanfredini.it](https://varese.scuolemanfredini.it)
- - date_published: 2024-10-02T00:00:00+00:00
 

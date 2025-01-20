@@ -1,3 +1,11 @@
+ ## Wikipedy
+ - [https://fy.m.wikipedia.org](https://fy.m.wikipedia.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Wikipedy
+ - [https://fy.wikipedia.org](https://fy.wikipedia.org)
+ - date_published: 2024-05-10T04:27:25.432220+00:00
+
  ## Vikipediya
  - [https://gag.m.wikipedia.org](https://gag.m.wikipedia.org)
  - date_published: 2024-07-09T12:21:33+00:00
@@ -3991,12 +3999,4 @@
  ## Wikivoyage
  - [https://pt.wikivoyage.org](https://pt.wikivoyage.org)
  - date_published: 2024-06-11T12:31:48+00:00
-
- ## Wikivoyage
- - [https://ro.wikivoyage.org](https://ro.wikivoyage.org)
- - date_published: 2024-07-07T05:04:17+00:00
-
- ## Викигид — свободный путеводитель
- - [https://ru.m.wikivoyage.org](https://ru.m.wikivoyage.org)
- - date_published: 2024-06-30T00:00:00+00:00
 

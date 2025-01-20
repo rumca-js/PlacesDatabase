@@ -1,3 +1,7 @@
+ ## Louisiana State University
+ - [https://lsu.academia.edu](https://lsu.academia.edu)
+ - date_published: 2024-04-30T02:59:34.788657+00:00
+
  ## University of Hawaii at Manoa
  - [https://manoa-hawaii.academia.edu](https://manoa-hawaii.academia.edu)
  - date_published: 2024-04-30T02:58:49.746898+00:00
@@ -4003,8 +4007,4 @@
  ## Home | Office of Ethics
  - [https://ethics.berkeley.edu](https://ethics.berkeley.edu)
  - date_published: 2024-07-15T04:39:28+00:00
-
- ## Home | Executive Vice Chancellor and Provost
- - [https://evcp.berkeley.edu](https://evcp.berkeley.edu)
- - date_published: 2024-07-22T06:51:39+00:00
 

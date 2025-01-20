@@ -1,4 +1,8 @@
  ## Events Calendar
+ - [https://calendar.wvu.edu](https://calendar.wvu.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Events Calendar
  - [https://cal.wvu.edu](https://cal.wvu.edu)
  - date_published: 2024-07-02T00:00:00+00:00
 
@@ -4056,8 +4060,4 @@
  ## :: جامعة دمنهور - مصر ::
  - [http://www.damanhour.edu.eg](http://www.damanhour.edu.eg)
  - date_published: 2024-12-11T04:33:13.836271+00:00
-
- ## الرئيسية
- - [https://acuc.mans.edu.eg](https://acuc.mans.edu.eg)
- - date_published: 2024-12-11T04:15:38+00:00
 

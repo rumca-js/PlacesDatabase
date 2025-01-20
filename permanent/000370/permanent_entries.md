@@ -1,3 +1,7 @@
+ ## Welcome to OpenFX documentation — OpenFX 1.4 documentation
+ - [https://openfx.readthedocs.io](https://openfx.readthedocs.io)
+ - date_published: 2024-09-10T16:16:28+00:00
+
  ## OpenHV
  - [https://openhv.readthedocs.io](https://openhv.readthedocs.io)
  - date_published: 2024-07-10T00:00:00+00:00
@@ -4031,8 +4035,4 @@
  ## Venture Lab
  - [https://venturelab.smapply.io](https://venturelab.smapply.io)
  - date_published: 2024-10-14T20:12:17.156658+00:00
-
- ## Defi The Norm - SMARDEX
- - [https://smardex.io](https://smardex.io)
- - date_published: 2024-07-22T10:55:32+00:00
 

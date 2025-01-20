@@ -1,3 +1,7 @@
+ ## The Chancery Daily | Chance the Lawyer | Substack
+ - [https://thechancerydaily.substack.com](https://thechancerydaily.substack.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
  ## The Chip Letter | Babbage | Substack
  - [https://thechipletter.substack.com](https://thechipletter.substack.com)
  - date_published: 2023-10-25T10:05:37.013524+00:00
@@ -4038,8 +4042,4 @@
  ## simplecast's PubSubHubbub Hub
  - [https://simplecast.superfeedr.com](https://simplecast.superfeedr.com)
  - date_published: 2024-06-23T06:56:44.320640+00:00
-
- ## Superfeedr - RSS Feed API & jQuery RSS API | Push Service
- - [https://superfeedr.com](https://superfeedr.com)
- - date_published: 2024-06-23T16:20:26.435185+00:00
 

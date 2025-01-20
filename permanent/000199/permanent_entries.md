@@ -1,3 +1,7 @@
+ ## The Audience Intelligence Solution - People Pattern
+ - [http://www.peoplepattern.com](http://www.peoplepattern.com)
+ - date_published: 2024-12-23T20:22:26.272237+00:00
+
  ## Hire Freelancers Online & Find Freelance Work
  - [https://www.peopleperhour.com](https://www.peopleperhour.com)
  - date_published: 2024-10-22T19:23:01.439572+00:00
@@ -4033,8 +4037,4 @@
  ## Beautiful Free Images & Stock Photos for Download - photoAC
  - [https://jv.photo-ac.com](https://jv.photo-ac.com)
  - date_published: 2024-12-15T10:11:47.921856+00:00
-
- ## 다운로드를 위한 아름다운 무료 이미지 및 스톡 사진 - photoAC
- - [https://ko.photo-ac.com](https://ko.photo-ac.com)
- - date_published: 2024-12-15T10:12:07.242584+00:00
 

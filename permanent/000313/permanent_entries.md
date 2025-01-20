@@ -1,3 +1,7 @@
+ ## Homepage - MIT Initiative on the Digital Economy
+ - [https://ide.mit.edu](https://ide.mit.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## MIT IDM - Integrated Design & Management
  - [https://idm.mit.edu](https://idm.mit.edu)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -4000,8 +4004,4 @@
  ## IRD Home
  - [https://ird.nmsu.edu](https://ird.nmsu.edu)
  - date_published: 2024-07-01T16:23:58.439801+00:00
-
- ## Search Page
- - [https://jobs.nmsu.edu](https://jobs.nmsu.edu)
- - date_published: 2024-07-01T16:14:05.022562+00:00
 

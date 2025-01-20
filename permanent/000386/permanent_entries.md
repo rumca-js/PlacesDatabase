@@ -1,3 +1,7 @@
+ ## Kupiškio r. Alizavos pagrindinė mokykla
+ - [http://www.alizava.lt](http://www.alizava.lt)
+ - date_published: 2024-06-25T00:00:00+00:00
+
  ## Pradžia
  - [http://alkas.lt](http://alkas.lt)
  - date_published: 2021-01-09T13:26:26+00:00
@@ -4000,8 +4004,4 @@
  ## Sliced | Customer Segmentation for Growth-Stage Product Companies
  - [https://sliced.market](https://sliced.market)
  - date_published: 2024-05-10T05:18:10.838491+00:00
-
- ## Discover, Buy and Sell Gaming NFTs - Sphere
- - [https://sphere.market](https://sphere.market)
- - date_published: 2024-10-31T15:10:14.284968+00:00
 

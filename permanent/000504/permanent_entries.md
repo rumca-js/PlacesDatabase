@@ -1,3 +1,11 @@
+ ## Infinitely More | Joel David Hamkins | Substack
+ - [https://infinitelymore.xyz](https://infinitelymore.xyz)
+ - date_published: 2024-04-07T11:27:54.838998+00:00
+
+ ## Home - Inflection
+ - [https://inflection.xyz](https://inflection.xyz)
+ - date_published: 2024-07-04T00:00:00+00:00
+
  ## Home
  - [https://inherently.xyz](https://inherently.xyz)
  - date_published: 2024-02-04T10:12:00+00:00
@@ -4020,12 +4028,4 @@
  ## PIXEL . REVIVAL
  - [https://pixelrevival.xyz](https://pixelrevival.xyz)
  - date_published: 2023-07-01T22:30:11+00:00
-
- ## Pixels.xyz Lite Paper | Pixels Whitepaper
- - [https://docs.pixels.xyz](https://docs.pixels.xyz)
- - date_published: 2024-12-15T09:22:24.873067+00:00
-
- ## Pixels.xyz Lite Paper | Pixels Whitepaper - v2
- - [https://whitepaper.pixels.xyz](https://whitepaper.pixels.xyz)
- - date_published: 2024-12-14T22:00:41+00:00
 

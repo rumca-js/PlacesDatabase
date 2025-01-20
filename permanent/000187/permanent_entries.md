@@ -1,3 +1,7 @@
+ ## NETELLER - Cyfrowy portfel dla wszystkich
+ - [https://showcase.neteller.com](https://showcase.neteller.com)
+ - date_published: 2024-06-16T16:33:39.835401+00:00
+
  ## Neteller International Money Transfer
  - [https://transfers.neteller.com](https://transfers.neteller.com)
  - date_published: 2024-03-11T11:02:07+00:00
@@ -4020,8 +4024,4 @@
  ## News Minimalist
  - [https://newsletter.newsminimalist.com](https://newsletter.newsminimalist.com)
  - date_published: 2024-08-15T00:00:00+00:00
-
- ## News Minimalist — Only important news
- - [https://newsminimalist.com](https://newsminimalist.com)
- - date_published: 2023-10-25T16:17:25.270725+00:00
 

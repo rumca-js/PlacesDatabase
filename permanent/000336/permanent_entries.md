@@ -1,3 +1,7 @@
+ ## Offres d'emploi en Banque, Finance et Tech - France - eFinancialCareers
+ - [https://www.efinancialcareers.fr](https://www.efinancialcareers.fr)
+ - date_published: 2024-05-01T08:32:19.682321+00:00
+
  ## École d’Ingénieurs Généraliste du Numérique - EFREI
  - [https://www.efrei.fr](https://www.efrei.fr)
  - date_published: 2024-07-01T04:19:02+00:00
@@ -4003,8 +4007,4 @@ de Toulouse:::
  ## • Julie DRABER | Gestalt-Thérapie Nantes
  - [https://www.juliedraber.fr](https://www.juliedraber.fr)
  - date_published: 2024-07-10T08:20:20.024003+00:00
-
- ## Julienbesnier.fr
- - [https://julienbesnier.fr](https://julienbesnier.fr)
- - date_published: 2024-01-23T00:00:00+00:00
 

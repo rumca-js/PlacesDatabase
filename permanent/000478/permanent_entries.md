@@ -1,3 +1,11 @@
+ ## Mediehuset Life of Svea har det starkaste digitala erbjudandet i målgruppen kvinnor 18 - 45 år.
+ - [https://lifeofsvea.se](https://lifeofsvea.se)
+ - date_published: 2024-07-22T18:05:06+00:00
+
+ ## Liljevalchs
+ - [https://liljevalchs.se](https://liljevalchs.se)
+ - date_published: 2024-04-24T00:00:00+00:00
+
  ## LINAK – elektriska linjära ställdonssystem för rörelser
  - [https://www.linak.se](https://www.linak.se)
  - date_published: 2024-09-05T21:36:32.220122+00:00
@@ -4024,13 +4032,4 @@
  ## Fiat Professional - Commercial Vehicle in Singapore | Quality Service & Affordable Repairs
  - [https://www.fiatprofessional.com.sg](https://www.fiatprofessional.com.sg)
  - date_published: 2024-06-19T09:08:30.902140+00:00
-
- ## Home
-		 · FIDReC
- - [https://www.fidrec.com.sg](https://www.fidrec.com.sg)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Fishpond.com.sg - Shop Online with Free Delivery on 10 million Books, DVDs, Toys & More Worldwide
- - [https://www.fishpond.com.sg](https://www.fishpond.com.sg)
- - date_published: 2024-10-19T10:20:50.071751+00:00
 

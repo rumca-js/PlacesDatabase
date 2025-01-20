@@ -1,3 +1,7 @@
+ ## Talarian Trust Center | Powered by SafeBase
+ - [https://security.talarian.io](https://security.talarian.io)
+ - date_published: 2024-10-30T14:17:34.731803+00:00
+
  ## Talarian
  - [https://talarian.io](https://talarian.io)
  - date_published: 2024-09-25T14:45:20.316812+00:00
@@ -4030,8 +4034,4 @@ End-to-end typesafe APIs made easy. | tRPC
  ## Visual Studio Marketplace
  - [https://ssis.gallery.vsassets.io](https://ssis.gallery.vsassets.io)
  - date_published: 2024-05-09T06:05:51.919901+00:00
-
- ## Visual Studio Marketplace
- - [https://stevecadwallader.galleryppe.vsassets.io](https://stevecadwallader.galleryppe.vsassets.io)
- - date_published: 2024-07-22T11:13:49.923029+00:00
 

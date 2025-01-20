@@ -1,3 +1,11 @@
+ ## Aziz Tayob Architects – Architects
+ - [http://www.tayob.co.za](http://www.tayob.co.za)
+ - date_published: 2024-06-30T09:53:11.240833+00:00
+
+ ## TechCentral | Company Hubs
+ - [https://hub.techcentral.co.za](https://hub.techcentral.co.za)
+ - date_published: 2024-05-24T00:00:00+00:00
+
  ## TechCentral | Technology News Leader in South Africa
  - [https://techcentral.co.za](https://techcentral.co.za)
  - date_published: 2024-03-11T00:00:00+00:00

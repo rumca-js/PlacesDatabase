@@ -1,3 +1,7 @@
+ ## derwesten.de - Nachrichten für den Westen
+ - [https://www.derwesten.de](https://www.derwesten.de)
+ - date_published: 2024-06-25T22:36:45.142018+00:00
+
  ## Der Windows Papst - Windows Office Security Blog
  - [https://www.der-windows-papst.de](https://www.der-windows-papst.de)
  - date_published: 2014-09-15T16:22:38+00:00
@@ -4007,8 +4011,4 @@ Heinsohn
  ## finception - Unternehmenssoftware & Digitalisierung in 2024
  - [https://finception.de](https://finception.de)
  - date_published: 2024-04-29T06:15:49.124232+00:00
-
- ## Diese Domain wurde erfolgreich für den Höchstbieter der Auction registriert.
- - [http://findeen.de](http://findeen.de)
- - date_published: 2024-06-03T06:37:48.742485+00:00
 

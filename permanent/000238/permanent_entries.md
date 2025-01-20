@@ -1,3 +1,7 @@
+ ## Superfeedr - RSS Feed API & jQuery RSS API | Push Service
+ - [https://superfeedr.com](https://superfeedr.com)
+ - date_published: 2024-06-23T16:20:26.435185+00:00
+
  ## VoxPelli's PubSubHubbub Hub
  - [https://voxpelli.superfeedr.com](https://voxpelli.superfeedr.com)
  - date_published: 2024-07-12T02:17:47.750379+00:00
@@ -4027,8 +4031,4 @@
  ## Home
  - [https://www.sylsoccer.com](https://www.sylsoccer.com)
  - date_published: 2024-12-30T04:50:38.755664+00:00
-
- ## Cloud, Code Quality and Software Modernization Blog. – Blog by Sylvain Leroy about Cloud, Software Quality, Refactoring, Legacy Software Migration.
- - [https://sylvainleroy.com](https://sylvainleroy.com)
- - date_published: 2024-07-09T12:15:29.722465+00:00
 

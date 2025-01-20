@@ -1,3 +1,11 @@
+ ## Урядовий контактний центр »
+ - [https://ukc.gov.ua](https://ukc.gov.ua)
+ - date_published: 2024-06-17T17:08:16.691717+00:00
+
+ ## Урядовий контактний центр
+ - [https://video.ukc.gov.ua](https://video.ukc.gov.ua)
+ - date_published: 2024-10-19T23:11:12.619818+00:00
+
  ## Головна - UkraineInvest
  - [https://ukraineinvest.gov.ua](https://ukraineinvest.gov.ua)
  - date_published: 2021-09-30T12:16:59+00:00
@@ -4003,12 +4011,4 @@
  ## Welcome to Digital Education Resource Archive (DERA) - Digital Education Resource Archive (DERA)
  - [https://dera.ioe.ac.uk](https://dera.ioe.ac.uk)
  - date_published: 2024-05-07T10:13:20.710879+00:00
-
- ## Log in | Jisc Online Surveys
- - [https://app.onlinesurveys.jisc.ac.uk](https://app.onlinesurveys.jisc.ac.uk)
- - date_published: 2024-10-20T05:07:02.974993+00:00
-
- ## Home - Archives Hub
- - [https://archiveshub.jisc.ac.uk](https://archiveshub.jisc.ac.uk)
- - date_published: 2024-10-20T05:28:10.276486+00:00
 

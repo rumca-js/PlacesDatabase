@@ -1,3 +1,7 @@
+ ## Hazlitt
+ - [https://hazlitt.net](https://hazlitt.net)
+ - date_published: 2023-10-25T20:31:25.130401+00:00
+
  ## ホビーステーショントップページ - ホビーステーション
  - [https://www.hbst.net](https://www.hbst.net)
  - date_published: 2024-06-29T22:58:07.967183+00:00
@@ -4019,9 +4023,5 @@
 
  ## imgix - Image Processing On-Demand, Served By CDN
  - [https://cepsum.imgix.net](https://cepsum.imgix.net)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://cepsum-val.imgix.net](https://cepsum-val.imgix.net)
  - date_published: 2024-09-15T00:00:00+00:00
 

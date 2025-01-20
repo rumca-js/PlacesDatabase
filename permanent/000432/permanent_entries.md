@@ -1,3 +1,7 @@
+ ## GitAGI
+ - [https://gitagi.org](https://gitagi.org)
+ - date_published: 2024-05-10T08:50:54+00:00
+
  ## Fundación Secretariado Gitano
  - [https://www.gitanos.org](https://www.gitanos.org)
  - date_published: 2024-07-02T21:27:40.171012+00:00
@@ -4042,8 +4046,4 @@
  ## HackPGH
  - [http://www.hackpittsburgh.org](http://www.hackpittsburgh.org)
  - date_published: 2024-02-15T00:00:00+00:00
-
- ## HackPNW
- - [https://hackpnw.org](https://hackpnw.org)
- - date_published: 2024-06-20T15:18:34.310310+00:00
 

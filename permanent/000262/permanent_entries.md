@@ -1,3 +1,7 @@
+ ## Valerie D'Orazio
+ - [http://valeriedorazio.com](http://valeriedorazio.com)
+ - date_published: 2024-07-17T10:55:38.664787+00:00
+
  ## Valero | Advancing the Future of Energy
  - [https://www.valero.com](https://www.valero.com)
  - date_published: 2024-10-29T21:40:38+00:00
@@ -4030,8 +4034,4 @@
  ## Vertica is now part of OpenText Analytics & AI.
  - [https://www.vertica.com](https://www.vertica.com)
  - date_published: 2024-07-22T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investor.vertical-aerospace.com](https://investor.vertical-aerospace.com)
- - date_published: 2024-05-21T03:03:24.536360+00:00
 

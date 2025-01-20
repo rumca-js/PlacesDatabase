@@ -1,3 +1,7 @@
+ ## v.gd - The ethical URL shortener
+ - [https://v.gd](https://v.gd)
+ - date_published: 2024-06-22T11:01:33.790288+00:00
+
  ## URL短縮サービス X.gd
  - [https://x.gd](https://x.gd)
  - date_published: 2024-06-21T16:23:14+00:00
@@ -4015,8 +4019,4 @@
  ## AQMD - Home
  - [https://aqmd.gov](https://aqmd.gov)
  - date_published: 2024-05-09T05:36:33.391865+00:00
-
- ## Appalachian Regional Commission - Investing in Appalachia's economic future.
- - [https://arc.gov](https://arc.gov)
- - date_published: 2024-04-04T00:00:00+00:00
 

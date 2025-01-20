@@ -1,3 +1,7 @@
+ ## UTK LISTSERV | The University of Tennessee, Knoxville
+ - [http://listserv.utk.edu](http://listserv.utk.edu)
+ - date_published: 2023-04-18T23:43:18+00:00
+
  ## The University of Tennessee - Campus Map
  - [https://maps.utk.edu](https://maps.utk.edu)
  - date_published: 2024-05-07T22:14:32.247885+00:00
@@ -4004,8 +4008,4 @@
  ## Home
  - [https://vt.edu](https://vt.edu)
  - date_published: 2024-04-27T00:00:00+00:00
-
- ## Virginia Tech News
- - [https://vtnews.vt.edu](https://vtnews.vt.edu)
- - date_published: 2024-06-28T00:00:00+00:00
 

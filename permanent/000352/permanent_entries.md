@@ -1,3 +1,7 @@
+ ## IIITMG Uthaan
+ - [https://iiitmguthaan.blogspot.in](https://iiitmguthaan.blogspot.in)
+ - date_published: 2024-12-21T08:24:37+00:00
+
  ## MUSIC-FUNDAAZ
  - [http://music-fundaaz.blogspot.in](http://music-fundaaz.blogspot.in)
  - date_published: 2024-09-16T19:51:01+00:00
@@ -4027,8 +4031,4 @@ Studies  (IJELR), Indexed Journal
  ## About
  - [https://shud.in](https://shud.in)
  - date_published: 2024-05-01T02:01:11.877842+00:00
-
- ## Shu Ding
- - [https://works.shud.in](https://works.shud.in)
- - date_published: 2024-06-15T02:02:56.470135+00:00
 

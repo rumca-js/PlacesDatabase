@@ -1,3 +1,7 @@
+ ## Jeep® Israel | ג׳יפ ישראל
+ - [https://chrysler.co.il](https://chrysler.co.il)
+ - date_published: 2024-06-19T08:59:30.068763+00:00
+
  ## עמוד ראשי - סינמטק תל אביב
  - [https://cinema.co.il](https://cinema.co.il)
  - date_published: 2024-09-01T00:00:00+00:00
@@ -4028,8 +4032,4 @@ Indian Institute of Science, Bangalore
  ## Home - Martin Luther Christian University
  - [https://mlcu.ac.in](https://mlcu.ac.in)
  - date_published: 2024-12-15T13:38:22.716262+00:00
-
- ## Malaviya National Institute of Technology Jaipur
- - [https://couns-promo.mnit.ac.in](https://couns-promo.mnit.ac.in)
- - date_published: 2024-12-24T18:22:04.463144+00:00
 

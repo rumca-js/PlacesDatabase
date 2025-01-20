@@ -1,3 +1,7 @@
+ ## Attention Required! | Cloudflare
+ - [https://investor.vertical-aerospace.com](https://investor.vertical-aerospace.com)
+ - date_published: 2024-05-21T03:03:24.536360+00:00
+
  ## Vertical Aerospace · Pioneering Electric Aviation
  - [https://vertical-aerospace.com](https://vertical-aerospace.com)
  - date_published: 2024-03-21T00:00:00+00:00
@@ -4031,8 +4035,4 @@
  - [https://viruscomix.com](https://viruscomix.com)
  - date_published: 2020-10-28T15:22:33+00:00
  - tags: ['interesting', 'personal']
-
- ## Virus, the Beauty of the Beast
- - [http://viruspatterns.com](http://viruspatterns.com)
- - date_published: 2017-07-22T14:36:58+00:00
 

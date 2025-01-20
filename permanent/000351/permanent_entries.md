@@ -1,3 +1,7 @@
+ ## Malaviya National Institute of Technology Jaipur
+ - [https://couns-promo.mnit.ac.in](https://couns-promo.mnit.ac.in)
+ - date_published: 2024-12-24T18:22:04.463144+00:00
+
  ## MNIT Guest House
  - [https://guesthouse.mnit.ac.in](https://guesthouse.mnit.ac.in)
  - date_published: 2024-12-24T17:35:52.619024+00:00
@@ -4025,8 +4029,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## Ἡλληνιστεύκοντος
  - [https://hellenisteukontos.blogspot.in](https://hellenisteukontos.blogspot.in)
  - date_published: 2024-05-07T15:42:24.293166+00:00
-
- ## IIITMG Uthaan
- - [https://iiitmguthaan.blogspot.in](https://iiitmguthaan.blogspot.in)
- - date_published: 2024-12-21T08:24:37+00:00
 

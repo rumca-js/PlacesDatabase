@@ -1,3 +1,7 @@
+ ## ISRAEL21c
+ - [https://es.israel21c.org](https://es.israel21c.org)
+ - date_published: 2024-05-08T08:50:18.444543+00:00
+
  ## ISRAEL21c - STORIES THAT IMPACT OUR WORLD
  - [https://israel21c.org](https://israel21c.org)
  - date_published: 2023-10-25T21:33:04.834653+00:00
@@ -4044,8 +4048,4 @@ jobs for science community
  ## JSPM - ES Module Package Manager and CDN
  - [https://jspm.org](https://jspm.org)
  - date_published: 2024-01-13T20:41:58+00:00
-
- ## Apache JSPWiki
- - [http://www.jspwiki.org](http://www.jspwiki.org)
- - date_published: 2024-06-23T20:00:08+00:00
 

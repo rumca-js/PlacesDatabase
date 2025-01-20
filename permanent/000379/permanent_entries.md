@@ -1,3 +1,7 @@
+ ## 神戸新聞松方ホール | matsukata hall
+ - [https://matsukata.kobe-np.co.jp](https://matsukata.kobe-np.co.jp)
+ - date_published: 2024-07-12T23:22:25.676295+00:00
+
  ## 神戸新聞NEXT
  - [https://publicity.kobe-np.co.jp](https://publicity.kobe-np.co.jp)
  - date_published: 2024-07-12T23:14:26.972319+00:00
@@ -4011,8 +4015,4 @@
  ## aniSearch ‒ We’re all about anime and manga!
  - [https://www.anisearch.jp](https://www.anisearch.jp)
  - date_published: 2024-06-19T07:57:25.505061+00:00
-
- ## ALLNIGHT NIPPON JAM / オールナイトニッポンJAM
- - [https://annjam.jp](https://annjam.jp)
- - date_published: 2024-04-01T09:09:09+00:00
 

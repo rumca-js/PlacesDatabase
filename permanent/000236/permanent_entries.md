@@ -1,3 +1,7 @@
+ ## Exploring Language Models | Maarten Grootendorst | Substack
+ - [https://maartengrootendorst.substack.com](https://maartengrootendorst.substack.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
  ## Mabel Lean | Substack
  - [https://mabellean.substack.com](https://mabellean.substack.com)
  - date_published: 2024-07-08T15:28:01.064339+00:00
@@ -4064,8 +4068,4 @@
  ## The Business Leader Daily | Josh at Business Leader Daily | Substack
  - [https://thebusinessleaderdaily.substack.com](https://thebusinessleaderdaily.substack.com)
  - date_published: 2024-04-03T00:00:00+00:00
-
- ## The Chancery Daily | Chance the Lawyer | Substack
- - [https://thechancerydaily.substack.com](https://thechancerydaily.substack.com)
- - date_published: 2024-04-22T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## Agora Industrie
+ - [https://www.agora-industrie.de](https://www.agora-industrie.de)
+ - date_published: 2024-07-02T17:19:36.709805+00:00
+
  ## Agora Verkehrswende
  - [https://www.agora-verkehrswende.de](https://www.agora-verkehrswende.de)
  - date_published: 2024-07-02T17:19:38.402923+00:00
@@ -4015,8 +4019,4 @@
  ## Bosch in Deutschland
  - [https://bosch.de](https://bosch.de)
  - date_published: 2024-04-29T06:57:24.354225+00:00
-
- ## Multimedia Exhibition Berlin | Bosch Beyond – Hieronymus Bosch – Das immersive Ausstellungserlebnis
- - [https://bosch-beyond.de](https://bosch-beyond.de)
- - date_published: 2024-09-23T13:40:18.513833+00:00
 

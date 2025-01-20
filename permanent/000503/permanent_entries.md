@@ -1,3 +1,11 @@
+ ## COWL: A Confinement System for the Web
+ - [http://cowl.ws](http://cowl.ws)
+ - date_published: 2022-04-18T23:25:32+00:00
+
+ ## Crusty Windows Wiki
+ - [https://crustywindo.ws](https://crustywindo.ws)
+ - date_published: 2023-10-25T23:01:57.735617+00:00
+
  ## Home
  - [http://daito.ws](http://daito.ws)
  - date_published: 2024-08-19T17:09:12.785460+00:00
@@ -4047,12 +4055,4 @@ VANCOUVER BC PROGRAMMER
  ## Infinite Capital
  - [https://infinite.xyz](https://infinite.xyz)
  - date_published: 2024-07-05T00:00:00+00:00
-
- ## Infinitely More | Joel David Hamkins | Substack
- - [https://infinitelymore.xyz](https://infinitelymore.xyz)
- - date_published: 2024-04-07T11:27:54.838998+00:00
-
- ## Home - Inflection
- - [https://inflection.xyz](https://inflection.xyz)
- - date_published: 2024-07-04T00:00:00+00:00
 

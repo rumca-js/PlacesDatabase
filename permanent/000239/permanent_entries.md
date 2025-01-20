@@ -1,3 +1,7 @@
+ ## Cloud, Code Quality and Software Modernization Blog. – Blog by Sylvain Leroy about Cloud, Software Quality, Refactoring, Legacy Software Migration.
+ - [https://sylvainleroy.com](https://sylvainleroy.com)
+ - date_published: 2024-07-09T12:15:29.722465+00:00
+
  ## Sylvania Township
  - [https://www.sylvaniatownship.com](https://www.sylvaniatownship.com)
  - date_published: 2024-07-17T00:00:00+00:00
@@ -4034,9 +4038,4 @@
  ## A comprehensible Input Generator | TaleTutor
  - [https://taletutor.com](https://taletutor.com)
  - date_published: 2024-12-21T16:36:10.222611+00:00
-
- ## Cierpliwości...
- - [https://forums.taleworlds.com](https://forums.taleworlds.com)
- - date_published: 2024-04-24T20:33:32+00:00
- - tags: ['mount and blade']
 

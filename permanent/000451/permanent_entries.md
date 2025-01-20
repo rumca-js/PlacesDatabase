@@ -1,3 +1,11 @@
+ ## Institute for Responsible Technology - Home
+ - [https://responsibletechnology.org](https://responsibletechnology.org)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## ResponsiveVoice Text To Speech - ResponsiveVoice.JS AI Text to Speech
+ - [https://responsivevoice.org](https://responsivevoice.org)
+ - date_published: 2024-05-28T00:00:00+00:00
+
  ## シーズを形に、臨床研究・臨床開発の未来人材をつくる 橋渡し研究推進センター
  - [https://resstplatform.org](https://resstplatform.org)
  - date_published: 2024-06-06T00:00:00+00:00
@@ -4045,12 +4053,4 @@
  ## Inici - Salut Mental Catalunya
  - [https://salutmental.org](https://salutmental.org)
  - date_published: 2024-09-18T19:06:36.047754+00:00
-
- ## Fundació Gala - Salvador Dalí
- - [https://salvador-dali.org](https://salvador-dali.org)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Teatre-Museu Dalí50 anys - Teatre-Museu Dalí - 50 anys
- - [https://tmd50.salvador-dali.org](https://tmd50.salvador-dali.org)
- - date_published: 2024-12-15T19:15:57.458599+00:00
 

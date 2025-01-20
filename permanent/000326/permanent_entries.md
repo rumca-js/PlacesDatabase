@@ -1,4 +1,8 @@
  ## الرئيسية
+ - [https://acuc.mans.edu.eg](https://acuc.mans.edu.eg)
+ - date_published: 2024-12-11T04:15:38+00:00
+
+ ## الرئيسية
  - [http://agrfac.mans.edu.eg](http://agrfac.mans.edu.eg)
  - date_published: 2024-12-11T03:17:34+00:00
 
@@ -4029,8 +4033,4 @@
  ## Institut Cervantes de Fès. Apprendre l´espagnol, cours d´espagnol et culture espagnole à Fès.
  - [https://fez.cervantes.es](https://fez.cervantes.es)
  - date_published: 2024-12-11T13:44:49.200232+00:00
-
- ## Start. Instituto Cervantes Frankfurt.
- - [https://frankfurt.cervantes.es](https://frankfurt.cervantes.es)
- - date_published: 2024-12-11T13:44:56.822929+00:00
 

@@ -1,3 +1,8 @@
+ ## Nerdrotic
+ - [https://www.youtube.com/channel/UC5T0tXJN5CrMZUEJuz4oovw](https://www.youtube.com/channel/UC5T0tXJN5CrMZUEJuz4oovw)
+ - date_published: 2024-12-04T21:23:31+00:00
+ - tags: ['movies']
+
  ## NASS
  - [https://www.youtube.com/channel/UC1W8ShdwtfgjRHdbl1Lctcw](https://www.youtube.com/channel/UC1W8ShdwtfgjRHdbl1Lctcw)
  - date_published: 2024-12-04T21:24:04+00:00
@@ -4211,8 +4216,4 @@
  ## HousingWire
  - [https://housingwire.zendesk.com](https://housingwire.zendesk.com)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Hypeddit
- - [https://hypeddit.zendesk.com](https://hypeddit.zendesk.com)
- - date_published: 2024-07-13T03:48:33.451129+00:00
 

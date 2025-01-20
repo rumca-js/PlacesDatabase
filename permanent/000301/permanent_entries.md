@@ -1,3 +1,7 @@
+ ## Boot.dev Blog
+ - [https://blog.boot.dev](https://blog.boot.dev)
+ - date_published: 2023-10-25T18:35:42.140501+00:00
+
  ## Learn Backend Development the Fun Way | Boot.dev
  - [https://boot.dev](https://boot.dev)
  - date_published: 2024-04-29T07:27:00.553362+00:00
@@ -4062,8 +4066,4 @@
  - [https://hvalls.dev](https://hvalls.dev)
  - date_published: 2024-06-01T05:04:30.405585+00:00
  - tags: ['personal']
-
- ## Home Page
- - [https://hybras.dev](https://hybras.dev)
- - date_published: 2024-07-06T01:29:13+00:00
 

@@ -1,3 +1,7 @@
+ ## Oregon Local News, Breaking News, Sports & Weather
+ - [https://www.oregonlive.com](https://www.oregonlive.com)
+ - date_published: 2023-10-25T11:06:13.645376+00:00
+
  ## Oregon Sports Awards
  - [http://www.oregonsportsawards.com](http://www.oregonsportsawards.com)
  - date_published: 2024-07-12T19:53:56.458448+00:00
@@ -4026,8 +4030,4 @@
  ## ownCloud Documentation Overview
  - [https://doc.owncloud.com](https://doc.owncloud.com)
  - date_published: 2024-05-14T03:53:16.993312+00:00
-
- ## download.owncloud.com
- - [https://download.owncloud.com](https://download.owncloud.com)
- - date_published: 2024-05-24T20:39:08.493331+00:00
 

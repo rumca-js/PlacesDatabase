@@ -1,3 +1,7 @@
+ ## Online Shopping Site India: Shop Online At Best Store | Buy Mobiles, T-Shirts, Power Banks - Rediff Shopping
+ - [https://shop.rediff.com](https://shop.rediff.com)
+ - date_published: 2024-08-07T12:23:41.921394+00:00
+
  ## Rediff Social: Stay connected to your friends and family
  - [https://socialimg.rediff.com](https://socialimg.rediff.com)
  - date_published: 2024-04-28T04:16:02.017955+00:00
@@ -4024,8 +4028,4 @@ TechPortal Login: The Online Dashboard for Computer Repair
  ## Attention Required! | Cloudflare
  - [https://cdn.replit.com](https://cdn.replit.com)
  - date_published: 2024-04-28T04:38:16.344602+00:00
-
- ## Replit
- - [https://devday.replit.com](https://devday.replit.com)
- - date_published: 2024-04-08T16:14:11+00:00
 

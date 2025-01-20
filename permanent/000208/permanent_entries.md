@@ -1,3 +1,7 @@
+ ## About Quentin – Quentin Stafford-Fraser
+ - [https://quentinsf.com](https://quentinsf.com)
+ - date_published: 2024-05-23T08:53:21+00:00
+
  ## Quentin Tarantino Fan Club
  - [https://quentintarantinofanclub.com](https://quentintarantinofanclub.com)
  - date_published: 2024-05-07T10:02:30.078084+00:00
@@ -4037,8 +4041,4 @@ Charlas de memoria para personas mayores-
  ## raincoaster
  - [http://raincoaster.com](http://raincoaster.com)
  - date_published: 2024-10-31T22:26:19.689722+00:00
-
- ## Mainframe to Cloud Native - Raincode
- - [https://www.raincode.com](https://www.raincode.com)
- - date_published: 2024-03-12T00:00:00+00:00
 

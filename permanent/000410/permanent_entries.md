@@ -1,3 +1,7 @@
+ ## Home
+ - [https://barryvanveen.nl](https://barryvanveen.nl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## Bart van Heukelom - AXA Studios | LinkedIn
  - [http://openwar.bartvanheukelom.nl](http://openwar.bartvanheukelom.nl)
  - date_published: 2024-07-12T17:35:51.839818+00:00
@@ -4006,8 +4010,4 @@
  ## Ontmoet Ons Bedrijf - Innovatief Design | IamDesign.nl
  - [https://iamdesign.nl](https://iamdesign.nl)
  - date_published: 2024-08-07T21:34:31.921818+00:00
-
- ## IamExpat in the Netherlands - For expats of all colours, shapes & sizes
- - [https://www.iamexpat.nl](https://www.iamexpat.nl)
- - date_published: 2024-12-11T17:29:11+00:00
 

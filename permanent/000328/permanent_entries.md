@@ -1,3 +1,7 @@
+ ## LA RAZÓN: diario de noticias, actualidad de España y el mundo hoy
+ - [https://www.larazon.es](https://www.larazon.es)
+ - date_published: 2024-09-02T13:32:28.608757+00:00
+
  ## by Lariosgin.es
  - [https://www.lariosgin.es](https://www.lariosgin.es)
  - date_published: 2024-10-27T23:46:37.207019+00:00
@@ -4003,8 +4007,4 @@
  ## University of Alicante
  - [https://www.ua.es](https://www.ua.es)
  - date_published: 2024-05-01T08:03:56.529989+00:00
-
- ## CVC Computer Vision Center - UAB
- - [http://www.cvc.uab.es](http://www.cvc.uab.es)
- - date_published: 2024-03-04T00:00:00+00:00
 

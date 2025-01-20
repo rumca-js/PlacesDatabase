@@ -1,3 +1,7 @@
+ ## Turn fleet operations into sustainable success
+ - [https://papayadash.com](https://papayadash.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
  ## Papaya Global
  - [https://papayaglobal.com](https://papayaglobal.com)
  - date_published: 2024-07-15T00:00:00+00:00
@@ -4071,8 +4075,4 @@
  ## Pave Bank
  - [https://pavebank.com](https://pavebank.com)
  - date_published: 2024-09-25T13:43:43.358769+00:00
-
- ## Paved | All-in-one Platform For Newsletter Sponsorships
- - [https://www.paved.com](https://www.paved.com)
- - date_published: 2024-12-27T12:26:07.438854+00:00
 

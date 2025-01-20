@@ -1,3 +1,7 @@
+ ## Home
+ - [https://codergals.github.io](https://codergals.github.io)
+ - date_published: 2020-04-26T15:51:42+00:00
+
  ## Patrick Fernandes · PhD Student @ CMU & IST
  - [https://coderpat.github.io](https://coderpat.github.io)
  - date_published: 2024-03-05T00:00:00+00:00
@@ -4031,8 +4035,4 @@ for Articulated Avatars
  ## itm4n’s blog
  - [https://itm4n.github.io](https://itm4n.github.io)
  - date_published: 2024-02-25T00:00:00+00:00
-
- ## Itzz Me - Main
- - [https://itzzcode.github.io](https://itzzcode.github.io)
- - date_published: 2024-04-08T00:00:00+00:00
 

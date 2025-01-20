@@ -1,3 +1,7 @@
+ ## Private Site
+ - [http://medializzy.wordpress.com](http://medializzy.wordpress.com)
+ - date_published: 2024-06-27T08:45:53.775005+00:00
+
  ## Media Myth Alert
  - [http://mediamythalert.wordpress.com](http://mediamythalert.wordpress.com)
  - date_published: 2024-07-01T08:06:40+00:00
@@ -4004,8 +4008,4 @@
  ## Program : Bytes : 48k
  - [http://programbytes48k.wordpress.com](http://programbytes48k.wordpress.com)
  - date_published: 2024-12-11T07:44:06.474438+00:00
-
- ## Pedagogik för programmering
- - [https://programmeringspedagogik.wordpress.com](https://programmeringspedagogik.wordpress.com)
- - date_published: 2024-07-13T00:00:00+00:00
 

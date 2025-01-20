@@ -1,3 +1,7 @@
+ ## Hopkins Bloomberg Public Health Magazine
+ - [https://magazine.publichealth.jhu.edu](https://magazine.publichealth.jhu.edu)
+ - date_published: 2024-05-11T07:26:22.367914+00:00
+
  ## User Login | Johns Hopkins Secure eCommerce
  - [https://makeagift.jhu.edu](https://makeagift.jhu.edu)
  - date_published: 2024-05-09T04:33:47.629379+00:00
@@ -3998,8 +4002,4 @@
  ## Welcome | MIT Human Resources
  - [https://hr.mit.edu](https://hr.mit.edu)
  - date_published: 2024-05-27T00:00:00+00:00
-
- ## Homepage - MIT Initiative on the Digital Economy
- - [https://ide.mit.edu](https://ide.mit.edu)
- - date_published: 2024-06-21T00:00:00+00:00
 

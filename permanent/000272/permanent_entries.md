@@ -1,3 +1,7 @@
+ ## British History 101
+ - [http://bh101.wordpress.com](http://bh101.wordpress.com)
+ - date_published: 2024-09-09T13:36:52.451259+00:00
+
  ## bhagmalpur
  - [https://bhagmalpur.wordpress.com](https://bhagmalpur.wordpress.com)
  - date_published: 2024-07-10T00:00:00+00:00
@@ -4004,8 +4008,4 @@
  ## dougallj
  - [https://dougallj.wordpress.com](https://dougallj.wordpress.com)
  - date_published: 2023-10-25T18:11:12.312963+00:00
-
- ## LBO News from Doug Henwood
- - [http://doughenwood.wordpress.com](http://doughenwood.wordpress.com)
- - date_published: 2024-06-15T00:00:00+00:00
 

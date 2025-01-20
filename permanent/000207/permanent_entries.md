@@ -1,3 +1,8 @@
+ ## Python Graph Gallery | The Python Graph Gallery
+ - [https://python-graph-gallery.com](https://python-graph-gallery.com)
+ - date_published: 2024-04-16T12:37:20.236899+00:00
+ - tags: ['programming', 'code snippets', 'python']
+
  ## Your Account
  - [https://account.pythonguis.com](https://account.pythonguis.com)
  - date_published: 2024-04-29T09:59:56.822539+00:00
@@ -4041,8 +4046,4 @@
  ## Quentin Romero Lauro
  - [https://quentinromerolauro.com](https://quentinromerolauro.com)
  - date_published: 2025-01-09T19:55:20.474748+00:00
-
- ## About Quentin – Quentin Stafford-Fraser
- - [https://quentinsf.com](https://quentinsf.com)
- - date_published: 2024-05-23T08:53:21+00:00
 

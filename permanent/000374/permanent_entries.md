@@ -1,3 +1,7 @@
+ ## Digital Transformation through Innovative Solutions
+ - [http://gangverk.is](http://gangverk.is)
+ - date_published: 2024-06-22T09:49:26.283778+00:00
+
  ## Geoship
  - [https://geoship.is](https://geoship.is)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -4023,8 +4027,4 @@
  ## Test Page for the HTTP Server on AlmaLinux
  - [https://avbo.it](https://avbo.it)
  - date_published: 2021-10-09T17:49:21+00:00
-
- ## AvellinoToday
- - [https://avellinotoday.it](https://avellinotoday.it)
- - date_published: 2024-05-11T09:56:32.534680+00:00
 

@@ -1,3 +1,7 @@
+ ## TOKEN2049 | The Premier Crypto Event
+ - [https://token2049.com](https://token2049.com)
+ - date_published: 2024-09-24T10:56:52.661052+00:00
+
  ## TOKEN2049 Week | 15-21 April 2024 | Dubai
  - [https://week.token2049.com](https://week.token2049.com)
  - date_published: 2024-04-21T00:00:00+00:00
@@ -4066,8 +4070,4 @@
  ## Access to this page has been denied.
  - [http://book.trabble.com](http://book.trabble.com)
  - date_published: 2024-06-16T16:48:55.336136+00:00
-
- ## Data Center & Hosting Solutions by Trabia
- - [https://trabia.com](https://trabia.com)
- - date_published: 2024-05-17T02:57:06.039292+00:00
 

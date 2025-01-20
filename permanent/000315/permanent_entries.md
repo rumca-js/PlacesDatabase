@@ -1,3 +1,7 @@
+ ## Peninsula College Official Blog
+ - [http://blog.pencol.edu](http://blog.pencol.edu)
+ - date_published: 2015-03-18T18:04:56+00:00
+
  ## Peninsula College | Peninsula College
  - [https://catalog.pencol.edu](https://catalog.pencol.edu)
  - date_published: 2024-06-24T17:30:21+00:00
@@ -4002,8 +4006,4 @@
  ## Home | Student Health - Division of Student Affairs | Rutgers University-New Brunswick
  - [http://health.rutgers.edu](http://health.rutgers.edu)
  - date_published: 2024-07-01T18:33:18.412798+00:00
-
- ## Honors College | Rutgers University-Camden
- - [https://honors.camden.rutgers.edu](https://honors.camden.rutgers.edu)
- - date_published: 2024-07-01T18:32:19.567884+00:00
 

@@ -1,3 +1,7 @@
+ ## FreshBSD
+ - [https://freshbsd.org](https://freshbsd.org)
+ - date_published: 2024-08-18T00:00:00+00:00
+
  ## Bold policy for a just, carbon-free future. - Fresh Energy
  - [https://fresh-energy.org](https://fresh-energy.org)
  - date_published: 2024-07-19T23:10:53.526997+00:00
@@ -4062,8 +4066,4 @@ encryption
  ## Where are we watching? | Global Information Society Watch
  - [https://giswatch.org](https://giswatch.org)
  - date_published: 2024-05-25T05:39:24.826480+00:00
-
- ## GitAGI
- - [https://gitagi.org](https://gitagi.org)
- - date_published: 2024-05-10T08:50:54+00:00
 

@@ -1,3 +1,7 @@
+ ## Virus, the Beauty of the Beast
+ - [http://viruspatterns.com](http://viruspatterns.com)
+ - date_published: 2017-07-22T14:36:58+00:00
+
  ## VirusShare.com
  - [https://virusshare.com](https://virusshare.com)
  - date_published: 2024-07-14T00:00:00+00:00
@@ -4027,8 +4031,4 @@
  ## VoodooPad
  - [https://www.voodoopad.com](https://www.voodoopad.com)
  - date_published: 2022-12-12T04:36:13+00:00
-
- ## 7 Steps to Unlock Complex Drone Airspace
- - [https://7steps.voomly.com](https://7steps.voomly.com)
- - date_published: 2024-07-20T09:52:46.357125+00:00
 

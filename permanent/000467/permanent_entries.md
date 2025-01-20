@@ -1,3 +1,11 @@
+ ## Dziennik Bałtycki - Wiadomości Trójmiasto, Wiadomości Pomorskie
+ - [https://dziennikbaltycki.pl](https://dziennikbaltycki.pl)
+ - date_published: 2023-10-25T22:27:19.284645+00:00
+
+ ## Wiadomości i ciekawostki ze świata nauki
+ - [https://dzienniknaukowy.pl](https://dzienniknaukowy.pl)
+ - date_published: 2024-09-03T22:37:55.037758+00:00
+
  ## Dziennik Polski - Wiadomości Kraków, Wiadomości Małopolskie
  - [https://dziennikpolski24.pl](https://dziennikpolski24.pl)
  - date_published: 2023-11-22T11:44:36.660000+00:00
@@ -4053,12 +4061,4 @@
  ## ISBtech.pl | Wiadomości, Technologia, Informatyka, Gaming.
  - [https://www.isbtech.pl](https://www.isbtech.pl)
  - date_published: 2024-06-25T21:01:06.787014+00:00
-
- ## ISEC
- - [http://www.isec.pl](http://www.isec.pl)
- - date_published: 2023-03-24T14:49:13+00:00
-
- ## Uprawnienia SEP | Sam wybierasz dokładną datę Egzaminu | Szkolenia 24h/7
- - [https://promocja.i-seep.pl](https://promocja.i-seep.pl)
- - date_published: 2024-09-03T20:00:33.193013+00:00
 

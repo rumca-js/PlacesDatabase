@@ -1,4 +1,8 @@
  ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://cepsum-val.imgix.net](https://cepsum-val.imgix.net)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
  - [https://cibccm.imgix.net](https://cibccm.imgix.net)
  - date_published: 2024-10-01T00:00:00+00:00
 
@@ -4037,8 +4041,4 @@ OpenJDK Wiki
  ## Konrad Hinsen
  - [https://khinsen.net](https://khinsen.net)
  - date_published: 2023-12-17T09:06:51+00:00
-
- ## Science in the digital era
- - [https://science-in-the-digital-era.khinsen.net](https://science-in-the-digital-era.khinsen.net)
- - date_published: 2024-05-27T12:33:40+00:00
 

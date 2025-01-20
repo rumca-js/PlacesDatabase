@@ -1,4 +1,8 @@
  ## pc
+ - [https://smallrig.com](https://smallrig.com)
+ - date_published: 2025-01-08T23:30:34.649605+00:00
+
+ ## pc
  - [https://www.smallrig.com](https://www.smallrig.com)
  - date_published: 2025-01-08T23:30:32.211354+00:00
 
@@ -4020,9 +4024,4 @@
  ## Home - SOCRadar® Cyber Intelligence Inc.
  - [http://www.socradar.com](http://www.socradar.com)
  - date_published: 2024-06-29T11:29:45+00:00
-
- ## Marcos Arrivillaga
- - [https://marcos.socraming.com](https://marcos.socraming.com)
- - date_published: 2023-12-29T03:11:34.370859+00:00
- - tags: ['personal']
 

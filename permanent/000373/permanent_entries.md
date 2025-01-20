@@ -1,4 +1,8 @@
  ## Visual Studio Marketplace
+ - [https://stevecadwallader.galleryppe.vsassets.io](https://stevecadwallader.galleryppe.vsassets.io)
+ - date_published: 2024-07-22T11:13:49.923029+00:00
+
+ ## Visual Studio Marketplace
  - [https://stevecadwallader.gallery.vsassets.io](https://stevecadwallader.gallery.vsassets.io)
  - date_published: 2024-05-09T06:05:30.373603+00:00
 
@@ -4020,8 +4024,4 @@
  ## Topplistar Gallup — Gallup
  - [https://topplistar.gallup.is](https://topplistar.gallup.is)
  - date_published: 2024-05-06T15:14:13.165433+00:00
-
- ## Digital Transformation through Innovative Solutions
- - [http://gangverk.is](http://gangverk.is)
- - date_published: 2024-06-22T09:49:26.283778+00:00
 

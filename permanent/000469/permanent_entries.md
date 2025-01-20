@@ -1,3 +1,11 @@
+ ## Księgarnia Niedziela - nowa oferta
+ - [https://ksiegarnia.niedziela.pl](https://ksiegarnia.niedziela.pl)
+ - date_published: 2024-08-18T16:56:16.075501+00:00
+
+ ## Niedziela legnicka | Niedziela.pl
+ - [https://legnica.niedziela.pl](https://legnica.niedziela.pl)
+ - date_published: 2024-08-18T17:01:50.692844+00:00
+
  ## Niedziela łódzka | Niedziela.pl
  - [https://lodz.niedziela.pl](https://lodz.niedziela.pl)
  - date_published: 2024-08-18T16:56:23.959655+00:00
@@ -4089,12 +4097,4 @@
  ## Polskie Radio Kierowców | Strona Główna
  - [https://radiokierowcow.pl](https://radiokierowcow.pl)
  - date_published: 2024-07-17T08:36:00.079441+00:00
-
- ## Radio Kraków
- - [http://www.radiokrakow.pl](http://www.radiokrakow.pl)
- - date_published: 2024-08-19T21:17:28.096146+00:00
-
- ## Radio Kultura
- - [https://radiokultura.pl](https://radiokultura.pl)
- - date_published: 2024-07-03T11:53:18.342640+00:00
 

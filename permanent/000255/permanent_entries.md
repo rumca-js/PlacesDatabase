@@ -1,3 +1,7 @@
+ ## MySTeRy SOuP
+ - [https://mysterysoup.tumblr.com](https://mysterysoup.tumblr.com)
+ - date_published: 2024-12-13T10:02:54.813819+00:00
+
  ## Honestly? No idea.
  - [https://mysticalalleycat.tumblr.com](https://mysticalalleycat.tumblr.com)
  - date_published: 2024-06-27T02:57:54.099720+00:00
@@ -4006,8 +4010,4 @@ Puppy95©️
  ## mumbo jumbo approved
  - [https://sleepyyghostt.tumblr.com](https://sleepyyghostt.tumblr.com)
  - date_published: 2024-06-27T04:30:54.082123+00:00
-
- ## Slides Theme
- - [https://slidestheme.tumblr.com](https://slidestheme.tumblr.com)
- - date_published: 2024-10-17T21:55:07.827137+00:00
 

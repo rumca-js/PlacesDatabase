@@ -1,3 +1,7 @@
+ ## Pomodoro® Technique - Time Management Method
+ - [http://pomodorotechnique.com](http://pomodorotechnique.com)
+ - date_published: 2024-12-16T11:59:10.402740+00:00
+
  ## Pomodoro® Timer - Pomodoro® Technique
  - [https://timer.pomodorotechnique.com](https://timer.pomodorotechnique.com)
  - date_published: 2024-01-19T15:40:10+00:00
@@ -4047,8 +4051,4 @@
  ## 2023
  - [https://next.preciousplastic.com](https://next.preciousplastic.com)
  - date_published: 2023-01-25T23:18:21+00:00
-
- ## Precious Plastic Open Source Fund
- - [https://pposf.preciousplastic.com](https://pposf.preciousplastic.com)
- - date_published: 2024-05-30T00:00:00+00:00
 

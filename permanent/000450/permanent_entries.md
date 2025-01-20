@@ -1,3 +1,11 @@
+ ## The PyTexas Foundation
+ - [http://pytexas.org](http://pytexas.org)
+ - date_published: 2024-06-27T14:23:49+00:00
+
+ ## Python Insider CN
+ - [http://blog-cn.python.org](http://blog-cn.python.org)
+ - date_published: 2024-03-13T18:24:35+00:00
+
  ## Python Insider DE
  - [http://blog-de.python.org](http://blog-de.python.org)
  - date_published: 2024-03-09T01:08:48+00:00
@@ -4045,12 +4053,4 @@
  ## Home - Responsible Statecraft
  - [https://responsiblestatecraft.org](https://responsiblestatecraft.org)
  - date_published: 2023-10-25T22:03:17.450852+00:00
-
- ## Institute for Responsible Technology - Home
- - [https://responsibletechnology.org](https://responsibletechnology.org)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## ResponsiveVoice Text To Speech - ResponsiveVoice.JS AI Text to Speech
- - [https://responsivevoice.org](https://responsivevoice.org)
- - date_published: 2024-05-28T00:00:00+00:00
 

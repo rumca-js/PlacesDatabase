@@ -1,3 +1,7 @@
+ ## Ethereum Lima Day 2024
+ - [http://ethlimaday.org](http://ethlimaday.org)
+ - date_published: 2024-06-16T04:00:55.710523+00:00
+
  ## ETH Lisbon 2023
  - [https://ethlisbon.org](https://ethlisbon.org)
  - date_published: 2023-11-15T12:32:53+00:00
@@ -4039,8 +4043,4 @@ International Federation of Digital Seismograph Networks
  ## Home - Fine Chocolate Industry Association
  - [https://finechocolateindustry.org](https://finechocolateindustry.org)
  - date_published: 2024-01-01T00:00:00+00:00
-
- ## Home - Fine Chocolate Industry Association
- - [https://members.finechocolateindustry.org](https://members.finechocolateindustry.org)
- - date_published: 2024-12-21T22:09:31.896238+00:00
 

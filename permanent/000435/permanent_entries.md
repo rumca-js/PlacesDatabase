@@ -1,3 +1,7 @@
+ ## Ikkepedia, den innholdsløse encyklopedi
+ - [https://ikkepedia.org](https://ikkepedia.org)
+ - date_published: 2024-05-11T09:37:52.785162+00:00
+
  ## Ekkipedia
  - [https://is.ikkepedia.org](https://is.ikkepedia.org)
  - date_published: 2024-07-14T05:51:20.995963+00:00
@@ -4018,8 +4022,4 @@
  ## Dedicated to Education, Safety, Training and Support of Illinois Firearm Owners | Illinois State Rifle Association
  - [http://isra.org](http://isra.org)
  - date_published: 2024-05-03T00:00:00+00:00
-
- ## ISRAEL21c
- - [https://es.israel21c.org](https://es.israel21c.org)
- - date_published: 2024-05-08T08:50:18.444543+00:00
 

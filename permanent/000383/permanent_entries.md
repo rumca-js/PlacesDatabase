@@ -1,3 +1,7 @@
+ ## 충북도정소식
+ - [http://news.chungbuk.go.kr](http://news.chungbuk.go.kr)
+ - date_published: 2024-07-04T00:00:00+00:00
+
  ## 충청남도소방본부
  - [http://www.cn119.go.kr](http://www.cn119.go.kr)
  - date_published: 2024-12-13T06:35:36.935030+00:00
@@ -4016,8 +4020,4 @@
  ## The Cat Fox Life – Photography, cats, computing, and anecdotes from an Oklahoman fox.
  - [https://catfox.life](https://catfox.life)
  - date_published: 2023-10-25T20:18:04.685223+00:00
-
- ## CIMPLE - A Curious Introvert's Musings & Photos about Life and Enjoyment
- - [https://cimple.life](https://cimple.life)
- - date_published: 2024-09-06T01:03:38.478198+00:00
 

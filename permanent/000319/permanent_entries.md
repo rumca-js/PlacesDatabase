@@ -1,3 +1,7 @@
+ ## Division of Social Sciences - UC Santa Barbara
+ - [https://socialsciences.ucsb.edu](https://socialsciences.ucsb.edu)
+ - date_published: 2024-06-02T00:00:00+00:00
+
  ## Department of Sociology - UC Santa Barbara
  - [https://soc.ucsb.edu](https://soc.ucsb.edu)
  - date_published: 2024-02-22T00:00:00+00:00
@@ -4002,8 +4006,4 @@
  ## School of Public Health | University of Illinois Chicago
  - [https://publichealth.uic.edu](https://publichealth.uic.edu)
  - date_published: 2024-07-02T02:47:58.485114+00:00
-
- ## Office of Preparedness and Response | University of Illinois Chicago
- - [https://ready.uic.edu](https://ready.uic.edu)
- - date_published: 2024-06-26T22:31:44.395958+00:00
 

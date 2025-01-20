@@ -1,3 +1,12 @@
+ ## Home
+		 · FIDReC
+ - [https://www.fidrec.com.sg](https://www.fidrec.com.sg)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Fishpond.com.sg - Shop Online with Free Delivery on 10 million Books, DVDs, Toys & More Worldwide
+ - [https://www.fishpond.com.sg](https://www.fishpond.com.sg)
+ - date_published: 2024-10-19T10:20:50.071751+00:00
+
  ## Food Republic Singapore
  - [https://foodrepublic.com.sg](https://foodrepublic.com.sg)
  - date_published: 2024-05-06T14:12:02.373947+00:00
@@ -4039,12 +4048,4 @@ Art Product Supply
  ## sell.flip.shop | Why Flip
  - [https://sell.flip.shop](https://sell.flip.shop)
  - date_published: 2024-10-04T16:47:21+00:00
-
- ## Bromance American Football
- - [https://www.footballbromance.shop](https://www.footballbromance.shop)
- - date_published: 2024-09-25T19:12:55.301238+00:00
-
- ## Fox News Shop | The Official Fox News Store | Gifts and More!
- - [https://foxnews.shop](https://foxnews.shop)
- - date_published: 2024-06-19T18:11:18.640997+00:00
 

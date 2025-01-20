@@ -1,3 +1,11 @@
+ ## A Rocha UK – Caring for creation
+ - [http://arocha.org.uk](http://arocha.org.uk)
+ - date_published: 2024-10-21T10:18:38.387931+00:00
+
+ ## Eco Church
+ - [https://ecochurch.arocha.org.uk](https://ecochurch.arocha.org.uk)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## Artangel
  - [https://www.artangel.org.uk](https://www.artangel.org.uk)
  - date_published: 2024-07-18T00:00:00+00:00
@@ -4010,12 +4018,4 @@ Edinburgh since 1840; When I last counted, at January 2010, there were about
  ## SOTA Reflector
  - [http://reflector.sota.org.uk](http://reflector.sota.org.uk)
  - date_published: 2024-09-05T00:00:00+00:00
-
- ## Summits on the Air
- - [https://www.sota.org.uk](https://www.sota.org.uk)
- - date_published: 2024-06-18T06:33:08.685451+00:00
-
- ## Soundart Radio 102.5 FM - An Arts Radio Station & licensed Community Radio station for Dartington and Totnes in South Devon | Independent & Non-commercial, we are one of the few specialist arts broadcasters in the UK
- - [https://www.soundartradio.org.uk](https://www.soundartradio.org.uk)
- - date_published: 2024-06-22T07:01:38+00:00
 

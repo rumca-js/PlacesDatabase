@@ -1,3 +1,7 @@
+ ## mixiニュース
+ - [http://news.mixi.jp](http://news.mixi.jp)
+ - date_published: 2024-07-06T00:00:00+00:00
+
  ## mixi日記 | 写真付き日記が無料で書けて、本にもできる
  - [https://open.mixi.jp](https://open.mixi.jp)
  - date_published: 2024-07-05T00:00:00+00:00
@@ -4002,8 +4006,4 @@
  ## よろず〜ニュース
  - [https://yorozoonews.jp](https://yorozoonews.jp)
  - date_published: 2024-07-12T23:21:20.320431+00:00
-
- ## 妖怪ウォッチ シリーズ
- - [https://www.youkai-watch.jp](https://www.youkai-watch.jp)
- - date_published: 2024-10-25T10:38:46.692350+00:00
 

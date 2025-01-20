@@ -1,3 +1,7 @@
+ ## LDS News | Temple Updates, Church News, & Daily Inspiration
+ - [https://www.ldsdaily.com](https://www.ldsdaily.com)
+ - date_published: 2024-07-18T00:00:00+00:00
+
  ## Home - LDS Living
  - [https://ldsliving.com](https://ldsliving.com)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -4039,8 +4043,4 @@ LearnWorlds
  ## LEO Weekly | Louisville Eccentric Observer
  - [https://leoweekly.com](https://leoweekly.com)
  - date_published: 2024-06-27T16:17:23+00:00
-
- ## Foundation Media Server
- - [https://media1.leoweekly.com](https://media1.leoweekly.com)
- - date_published: 2019-03-29T15:43:43+00:00
 

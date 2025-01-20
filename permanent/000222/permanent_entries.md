@@ -1,3 +1,7 @@
+ ## Shopbop - Designer Clothing, Shoes, Bags & Accessories
+ - [https://www.shopbop.com](https://www.shopbop.com)
+ - date_published: 2024-05-02T11:12:03.597933+00:00
+
  ## The internet's cutest curated headshop
  - [https://www.shopburninglove.com](https://www.shopburninglove.com)
  - date_published: 2024-06-10T00:00:00+00:00
@@ -4022,8 +4026,4 @@
  ## Home
  - [http://www.silveroakadvisors.com](http://www.silveroakadvisors.com)
  - date_published: 2025-01-10T17:32:20+00:00
-
- ## silverorange Blog
- - [https://blog.silverorange.com](https://blog.silverorange.com)
- - date_published: 2024-05-23T00:00:00+00:00
 

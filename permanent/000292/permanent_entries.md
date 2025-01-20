@@ -1,3 +1,7 @@
+ ## Diese Domain wurde erfolgreich für den Höchstbieter der Auction registriert.
+ - [http://findeen.de](http://findeen.de)
+ - date_published: 2024-06-03T06:37:48.742485+00:00
+
  ## Chance findings
  - [http://blog.find-method.de](http://blog.find-method.de)
  - date_published: 2024-12-25T10:18:09.845505+00:00
@@ -4009,8 +4013,4 @@
  ## Home
  - [https://www.henkel.de](https://www.henkel.de)
  - date_published: 2024-10-18T20:18:22.317670+00:00
-
- ## Martin Hepp | Professor of Web Science and Digitalization | UniBw Munich
- - [http://www.heppnetz.de](http://www.heppnetz.de)
- - date_published: 2020-10-12T21:25:40+00:00
 

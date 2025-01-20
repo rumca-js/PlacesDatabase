@@ -1,3 +1,7 @@
+ ## Steven Can Plan
+ - [https://www.stevencanplan.com](https://www.stevencanplan.com)
+ - date_published: 2024-06-28T13:47:38.275113+00:00
+
  ## Home
  - [https://stevenchoi.com](https://stevenchoi.com)
  - date_published: 2024-06-29T17:05:58.002068+00:00
@@ -4035,8 +4039,4 @@
  ## Web Design Houston TX, Akron Ohio/Canton Ohio | Studio1337
  - [https://studio1337.com](https://studio1337.com)
  - date_published: 2024-05-06T22:40:38.023367+00:00
-
- ## Custom Website Design & Branding for Online Businesses | Studio 1 Design
- - [https://studio1design.com](https://studio1design.com)
- - date_published: 2024-05-09T06:53:34.675156+00:00
 

@@ -1,3 +1,7 @@
+ ## Dada Drummer Almanach | Damon Krukowski | Substack
+ - [https://dadadrummer.substack.com](https://dadadrummer.substack.com)
+ - date_published: 2024-04-14T00:00:00+00:00
+
  ## Daily Detroit | Substack
  - [https://dailydetroit.substack.com](https://dailydetroit.substack.com)
  - date_published: 2024-10-15T20:24:48.363339+00:00
@@ -4065,8 +4069,4 @@
  ## Maarten Boudry’s Substack | Substack
  - [https://maartenboudry.substack.com](https://maartenboudry.substack.com)
  - date_published: 2024-05-10T00:00:00+00:00
-
- ## Exploring Language Models | Maarten Grootendorst | Substack
- - [https://maartengrootendorst.substack.com](https://maartengrootendorst.substack.com)
- - date_published: 2024-02-19T00:00:00+00:00
 

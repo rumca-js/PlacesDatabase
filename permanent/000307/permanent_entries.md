@@ -1,3 +1,7 @@
+ ## Home | Executive Vice Chancellor and Provost
+ - [https://evcp.berkeley.edu](https://evcp.berkeley.edu)
+ - date_published: 2024-07-22T06:51:39+00:00
+
  ## Events at UC Berkeley
  - [https://events.berkeley.edu](https://events.berkeley.edu)
  - date_published: 2024-04-30T03:17:51.013485+00:00
@@ -4043,8 +4047,4 @@
  ## Procurement Services
  - [https://procurement.caltech.edu](https://procurement.caltech.edu)
  - date_published: 2024-08-19T21:21:03.748288+00:00
-
- ## Office of the Provost
- - [https://provost70.sites.caltech.edu](https://provost70.sites.caltech.edu)
- - date_published: 2024-07-22T07:04:11.449318+00:00
 

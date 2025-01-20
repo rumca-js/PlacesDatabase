@@ -1,3 +1,8 @@
+ ## Jane Street Open Source
+ - [https://opensource.janestreet.com](https://opensource.janestreet.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+ - tags: ['open source', 'programming library']
+
  ## Janet A. Carr
  - [https://blog.janetacarr.com](https://blog.janetacarr.com)
  - date_published: 2024-05-24T00:00:00+00:00
@@ -4099,8 +4104,4 @@
  ## C. Jess Riedel
  - [https://jessriedel.com](https://jessriedel.com)
  - date_published: 2013-01-01T00:00:00+00:00
-
- ## About Me and My Life - Marathon Running Blog - JessRunsBlessed
- - [https://jessrunsblessed.com](https://jessrunsblessed.com)
- - date_published: 2024-07-20T16:11:07.500078+00:00
 

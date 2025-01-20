@@ -1,3 +1,7 @@
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://admin.my.harvard.edu](https://admin.my.harvard.edu)
+ - date_published: 2024-07-21T23:10:26.815962+00:00
+
  ## NASA/ADS
  - [https://adsabs.harvard.edu](https://adsabs.harvard.edu)
  - date_published: 2024-02-22T20:45:22+00:00
@@ -4006,8 +4010,4 @@ Data Services
  ## JHU Engineering Lifelong Learning
  - [https://lifelonglearning.jhu.edu](https://lifelonglearning.jhu.edu)
  - date_published: 2024-06-11T00:00:00+00:00
-
- ## Hopkins Bloomberg Public Health Magazine
- - [https://magazine.publichealth.jhu.edu](https://magazine.publichealth.jhu.edu)
- - date_published: 2024-05-11T07:26:22.367914+00:00
 

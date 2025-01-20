@@ -1,3 +1,7 @@
+ ## Akif Al Hakim | Freelance Frontend Developer
+ - [https://akif.my.id](https://akif.my.id)
+ - date_published: 2024-05-11T10:20:46.912736+00:00
+
  ## Alsha Tour & Travel – Penyedia Layanan Haji, Umroh dan Wisata
  - [https://alshatravel.my.id](https://alshatravel.my.id)
  - date_published: 2024-09-10T13:56:20.775798+00:00
@@ -4005,8 +4009,4 @@
  ## Mild dermocosmetics for face and body care
  - [https://www.cetaphil.co.il](https://www.cetaphil.co.il)
  - date_published: 2024-10-30T23:02:40.202160+00:00
-
- ## Jeep® Israel | ג׳יפ ישראל
- - [https://chrysler.co.il](https://chrysler.co.il)
- - date_published: 2024-06-19T08:59:30.068763+00:00
 

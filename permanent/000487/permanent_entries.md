@@ -1,3 +1,11 @@
+ ## ÖSYM Görevli İşlemleri Sistemi - Sisteme Giriş
+ - [https://gis.osym.gov.tr](https://gis.osym.gov.tr)
+ - date_published: 2024-10-19T17:18:40.120004+00:00
+
+ ## Uluslararası Ölçme, Seçme ve Yerleştirme Sempozyumu
+ - [https://symp2024.osym.gov.tr](https://symp2024.osym.gov.tr)
+ - date_published: 2024-10-19T14:39:13.937236+00:00
+
  ## T.C. Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı
  - [https://www.osym.gov.tr](https://www.osym.gov.tr)
  - date_published: 2024-06-17T16:08:17.862271+00:00
@@ -4073,12 +4081,4 @@
  ## TrueNuff.tv  | Index
  - [https://truenuff.tv](https://truenuff.tv)
  - date_published: 2024-07-12T22:22:00.815389+00:00
-
- ## Tubi is the largest free movie and TV streaming service in the US. We are not available in Europe due to changes in EU laws.
- - [https://gdpr.tubi.tv](https://gdpr.tubi.tv)
- - date_published: 2024-05-12T07:53:14.703600+00:00
-
- ## Log in
- - [https://elroy.twit.tv](https://elroy.twit.tv)
- - date_published: 2024-06-21T09:57:03+00:00
 

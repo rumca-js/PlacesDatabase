@@ -1,3 +1,7 @@
+ ## Richard Heinberg
+ - [https://richardheinberg.com](https://richardheinberg.com)
+ - date_published: 2024-07-13T09:32:09.768888+00:00
+
  ## Homepage | RichardHerring.com
  - [https://richardherring.com](https://richardherring.com)
  - date_published: 2024-04-28T04:55:46.246898+00:00
@@ -4047,8 +4051,4 @@ Robertson County Sheriff's Office
  ## Build Vision Models with Roboflow | Roboflow Docs
  - [https://docs.roboflow.com](https://docs.roboflow.com)
  - date_published: 2024-04-10T00:00:00+00:00
-
- ## What is Inference? - Roboflow Inference
- - [https://inference.roboflow.com](https://inference.roboflow.com)
- - date_published: 2024-08-09T16:51:02+00:00
 

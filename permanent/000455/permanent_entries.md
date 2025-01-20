@@ -1,3 +1,11 @@
+ ## In Praise of Excruciation
+ - [https://stilldrinking.org](https://stilldrinking.org)
+ - date_published: 2024-05-11T10:48:21.488927+00:00
+
+ ## 🌈♿️ Mutual Aid and Human-Centered Learning for Neurodivergent and Disabled People
+ - [https://stimpunks.org](https://stimpunks.org)
+ - date_published: 2024-07-08T00:00:00+00:00
+
  ## Home • Stimson Center
  - [https://www.stimson.org](https://www.stimson.org)
  - date_published: 2024-06-15T00:00:00+00:00
@@ -4025,12 +4033,4 @@ by technology
  ## Testcontainers for Java
  - [https://java.testcontainers.org](https://java.testcontainers.org)
  - date_published: 2024-05-09T07:22:32.691546+00:00
-
- ## Testcontainers for NodeJS
- - [https://node.testcontainers.org](https://node.testcontainers.org)
- - date_published: 2024-05-09T07:22:38.275193+00:00
-
- ## Join Testcontainers on Slack
- - [https://slack.testcontainers.org](https://slack.testcontainers.org)
- - date_published: 2024-04-04T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## Getting started
+ - [https://docs.join.com](https://docs.join.com)
+ - date_published: 2024-06-18T16:09:29.183901+00:00
+
  ## Free recruiting software & applicant tracking system | JOIN
  - [https://join.com](https://join.com)
  - date_published: 2024-01-05T00:00:00+00:00
@@ -4048,8 +4052,4 @@
  ## Juicy Crumb Systems – Welcome to the Juicy Crumb Systems homepage!
  - [https://juicycrumb.com](https://juicycrumb.com)
  - date_published: 2024-05-06T14:34:49.528037+00:00
-
- ## Facebook
- - [http://juicyfruit.com](http://juicyfruit.com)
- - date_published: 2024-07-08T19:36:26.619335+00:00
 

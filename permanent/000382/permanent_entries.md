@@ -1,3 +1,7 @@
+ ## 妖怪ウォッチ シリーズ
+ - [https://www.youkai-watch.jp](https://www.youkai-watch.jp)
+ - date_published: 2024-10-25T10:38:46.692350+00:00
+
  ## 週刊ヤングジャンプ公式サイト｜集英社
  - [http://youngjump.jp](http://youngjump.jp)
  - date_published: 2024-10-28T07:51:51.752826+00:00
@@ -3999,8 +4003,4 @@
  ## ë¬¸íì¬ì²­
  - [https://www.cha.go.kr](https://www.cha.go.kr)
  - date_published: 2024-05-16T13:26:29+00:00
-
- ## 충북도정소식
- - [http://news.chungbuk.go.kr](http://news.chungbuk.go.kr)
- - date_published: 2024-07-04T00:00:00+00:00
 

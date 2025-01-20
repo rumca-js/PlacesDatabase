@@ -1,3 +1,7 @@
+ ## Actes de la recherche en sciences sociales
+ - [http://www.arss.fr](http://www.arss.fr)
+ - date_published: 2024-10-18T21:53:01.863182+00:00
+
  ## Arsys - Comprar dominio y hosting
  - [https://www.arsys.fr](https://www.arsys.fr)
  - date_published: 2024-12-11T11:12:34.078329+00:00
@@ -4003,8 +4007,4 @@
  ## Efil - Agence de communication à Tours | Efil
  - [http://efil.fr](http://efil.fr)
  - date_published: 2024-06-26T15:41:50+00:00
-
- ## Offres d'emploi en Banque, Finance et Tech - France - eFinancialCareers
- - [https://www.efinancialcareers.fr](https://www.efinancialcareers.fr)
- - date_published: 2024-05-01T08:32:19.682321+00:00
 

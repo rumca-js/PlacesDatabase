@@ -1,3 +1,7 @@
+ ## Biological Sciences Collegiate Division
+ - [https://bscd.uchicago.edu](https://bscd.uchicago.edu)
+ - date_published: 2024-05-07T20:46:08.412983+00:00
+
  ## Office of Academic Affairs
  - [https://bsdacademicaffairs.uchicago.edu](https://bsdacademicaffairs.uchicago.edu)
  - date_published: 2024-07-01T19:03:59+00:00
@@ -4027,8 +4031,4 @@
  ## Home | UCSB Computer Science
  - [https://sites.cs.ucsb.edu](https://sites.cs.ucsb.edu)
  - date_published: 2024-08-18T14:09:27.164837+00:00
-
- ## Division of Social Sciences - UC Santa Barbara
- - [https://socialsciences.ucsb.edu](https://socialsciences.ucsb.edu)
- - date_published: 2024-06-02T00:00:00+00:00
 

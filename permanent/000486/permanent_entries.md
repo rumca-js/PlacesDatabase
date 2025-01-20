@@ -1,3 +1,12 @@
+ ## Truncate: A word-based strategy game
+ - [https://truncate.town](https://truncate.town)
+ - date_published: 2024-03-31T09:58:26+00:00
+
+ ## Val Town Blog
+ - [https://blog.val.town](https://blog.val.town)
+ - date_published: 2023-10-25T09:24:56.115382+00:00
+ - tags: ['personal']
+
  ## Val Town Docs
  - [https://docs.val.town](https://docs.val.town)
  - date_published: 2024-05-02T10:23:33.047684+00:00
@@ -3992,12 +4001,4 @@ NMHSs DIRECTORS
  ## Müze Kart resmi sayfası
  - [https://muze.gov.tr](https://muze.gov.tr)
  - date_published: 2024-10-19T12:48:20.115758+00:00
-
- ## ÖSYM Görevli İşlemleri Sistemi - Sisteme Giriş
- - [https://gis.osym.gov.tr](https://gis.osym.gov.tr)
- - date_published: 2024-10-19T17:18:40.120004+00:00
-
- ## Uluslararası Ölçme, Seçme ve Yerleştirme Sempozyumu
- - [https://symp2024.osym.gov.tr](https://symp2024.osym.gov.tr)
- - date_published: 2024-10-19T14:39:13.937236+00:00
 

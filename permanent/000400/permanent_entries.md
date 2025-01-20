@@ -1,3 +1,7 @@
+ ## Science in the digital era
+ - [https://science-in-the-digital-era.khinsen.net](https://science-in-the-digital-era.khinsen.net)
+ - date_published: 2024-05-27T12:33:40+00:00
+
  ## Sign in - Matomo
  - [https://stats.khoosys.net](https://stats.khoosys.net)
  - date_published: 2024-10-21T03:19:30.824981+00:00
@@ -4058,8 +4062,4 @@ script..Create or build Forms Online
  ## Contextual Advertising & Programmatic Platform - Media.net
  - [https://www.media.net](https://www.media.net)
  - date_published: 2024-05-06T17:43:45.869830+00:00
-
- ## media co-op | award-winning media production for social change
- - [https://www.mediaco-op.net](https://www.mediaco-op.net)
- - date_published: 2012-04-29T13:34:55+00:00
 

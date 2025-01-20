@@ -1,3 +1,11 @@
+ ## University of Westminster Press
+ - [https://www.uwestminsterpress.co.uk](https://www.uwestminsterpress.co.uk)
+ - date_published: 2024-07-10T09:41:11.945437+00:00
+
+ ## UX Glasgow - Informal, co-operative monthly meetup for everyone who cares about user experience.
+ - [http://uxglasgow.co.uk](http://uxglasgow.co.uk)
+ - date_published: 2024-07-10T09:42:23.768714+00:00
+
  ## Home - Vac Innovation
  - [https://vacinnovation.co.uk](https://vacinnovation.co.uk)
  - date_published: 2024-06-21T00:00:00+00:00
@@ -4019,12 +4027,4 @@
  ## Arnolfini - Bristol's International Centre for Contemporary Arts
  - [https://arnolfini.org.uk](https://arnolfini.org.uk)
  - date_published: 2024-10-31T10:17:44+00:00
-
- ## A Rocha UK – Caring for creation
- - [http://arocha.org.uk](http://arocha.org.uk)
- - date_published: 2024-10-21T10:18:38.387931+00:00
-
- ## Eco Church
- - [https://ecochurch.arocha.org.uk](https://ecochurch.arocha.org.uk)
- - date_published: 2024-06-13T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## Yahoo is part of the Yahoo family of brands
+ - [https://myyahoo.com](https://myyahoo.com)
+ - date_published: 2024-07-17T11:10:53.692354+00:00
+
  ## ZAKER - 传递价值资讯
  - [https://app.myzaker.com](https://app.myzaker.com)
  - date_published: 2024-07-07T09:02:38.822171+00:00
@@ -4039,8 +4043,4 @@
  ## Navegg | Soluções em big data, DMP e web analytics
  - [https://www2.navegg.com](https://www2.navegg.com)
  - date_published: 2024-06-25T21:22:42.653540+00:00
-
- ## Soluções em big data, DMP e web analytics | Navegg
- - [https://www.navegg.com](https://www.navegg.com)
- - date_published: 2024-05-06T17:45:33.565656+00:00
 

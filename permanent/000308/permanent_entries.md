@@ -1,4 +1,8 @@
  ## Office of the Provost
+ - [https://provost70.sites.caltech.edu](https://provost70.sites.caltech.edu)
+ - date_published: 2024-07-22T07:04:11.449318+00:00
+
+ ## Office of the Provost
  - [https://provost.caltech.edu](https://provost.caltech.edu)
  - date_published: 2024-04-30T03:33:25.641034+00:00
 
@@ -4001,8 +4005,4 @@ Mellon University
  ## College of Human Ecology
  - [https://www.human.cornell.edu](https://www.human.cornell.edu)
  - date_published: 2024-07-22T04:35:38+00:00
-
- ## Homepage
- - [https://www.johnson.cornell.edu](https://www.johnson.cornell.edu)
- - date_published: 2024-07-23T00:00:00+00:00
 

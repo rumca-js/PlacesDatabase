@@ -1,3 +1,11 @@
+ ## Valley Churches United
+ - [https://vcum.org](https://vcum.org)
+ - date_published: 2024-12-15T20:00:06.688023+00:00
+
+ ## Vald
+ - [https://vald.vdaas.org](https://vald.vdaas.org)
+ - date_published: 2024-06-26T23:25:50.503282+00:00
+
  ## Home - V-Day
  - [http://www.vday.org](http://www.vday.org)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -4038,12 +4046,4 @@
  ## www.weinstein.org
  - [https://www.weinstein.org](https://www.weinstein.org)
  - date_published: 2024-04-23T00:00:00+00:00
-
- ## Meta Wiki
- - [https://meta.weirdgloop.org](https://meta.weirdgloop.org)
- - date_published: 2024-05-02T13:31:55.980516+00:00
-
- ## Weird Gloop
- - [https://weirdgloop.org](https://weirdgloop.org)
- - date_published: 2024-05-02T13:32:12.448992+00:00
 

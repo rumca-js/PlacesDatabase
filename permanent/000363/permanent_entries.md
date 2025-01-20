@@ -1,3 +1,7 @@
+ ## Netflix Open Source Software Center
+ - [https://netflix.github.io](https://netflix.github.io)
+ - date_published: 2019-05-22T00:12:38+00:00
+
  ## Redirecting…
  - [http://netsys.github.io](http://netsys.github.io)
  - date_published: 2017-05-15T21:35:13+00:00
@@ -4033,8 +4037,4 @@
  ## Soransh Singh
  - [https://soransh-singh.github.io](https://soransh-singh.github.io)
  - date_published: 2021-11-19T07:20:36+00:00
-
- ## De-rendering the World's Revolutionary Artefacts.
- - [https://sorderender.github.io](https://sorderender.github.io)
- - date_published: 2021-11-25T10:14:24+00:00
 

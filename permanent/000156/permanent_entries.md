@@ -1,3 +1,7 @@
+ ## About Me and My Life - Marathon Running Blog - JessRunsBlessed
+ - [https://jessrunsblessed.com](https://jessrunsblessed.com)
+ - date_published: 2024-07-20T16:11:07.500078+00:00
+
  ## HOME
  - [https://jesteragency.com](https://jesteragency.com)
  - date_published: 2024-06-12T21:31:22.443923+00:00
@@ -4068,8 +4072,4 @@
  ## joiha/joinhandmade studio | We are handmade
  - [https://www.joiha.com](https://www.joiha.com)
  - date_published: 2023-12-28T00:00:00+00:00
-
- ## Getting started
- - [https://docs.join.com](https://docs.join.com)
- - date_published: 2024-06-18T16:09:29.183901+00:00
 

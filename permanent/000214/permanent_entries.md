@@ -1,3 +1,7 @@
+ ## What is Inference? - Roboflow Inference
+ - [https://inference.roboflow.com](https://inference.roboflow.com)
+ - date_published: 2024-08-09T16:51:02+00:00
+
  ## Roboflow: Give your software the power to see objects in images and video
  - [https://roboflow.com](https://roboflow.com)
  - date_published: 2023-10-25T16:53:10.075984+00:00
@@ -4060,8 +4064,4 @@ the largest Roswell Reference & Encyclopedia
  ## Route for Shoppers
  - [https://shoppers.help.route.com](https://shoppers.help.route.com)
  - date_published: 2024-10-09T00:00:00+00:00
-
- ## Route Optimization Blog
- - [http://blog.route4me.com](http://blog.route4me.com)
- - date_published: 2024-12-13T16:58:39+00:00
 

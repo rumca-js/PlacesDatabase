@@ -1,3 +1,7 @@
+ ## Save the Date for the Mercy For Animals 25th Anniversary Gala
+ - [https://mfagala.com](https://mfagala.com)
+ - date_published: 2024-10-18T14:53:56.259899+00:00
+
  ## The People’s Fund
  - [https://mfapeoplesfund.com](https://mfapeoplesfund.com)
  - date_published: 2024-10-18T14:53:45.294378+00:00
@@ -4066,8 +4070,4 @@
  ## miku86
  - [https://miku86.com](https://miku86.com)
  - date_published: 2024-03-11T00:00:00+00:00
-
- ## Mikvah RSVP
- - [https://www.mikvahrsvp.com](https://www.mikvahrsvp.com)
- - date_published: 2024-07-25T15:28:31+00:00
 

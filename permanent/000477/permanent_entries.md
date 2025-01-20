@@ -1,3 +1,11 @@
+ ## هيئة الاتصالات والفضاء والتقنية
+ - [http://www.ipv6.org.sa](http://www.ipv6.org.sa)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## | مركز الملك سلمان لأبحاث الإعاقة
+ - [https://www.kscdr.org.sa](https://www.kscdr.org.sa)
+ - date_published: 2024-12-13T20:12:44.548342+00:00
+
  ## الجمعية الخيرية لرعاية مرضى الروماتيزم‎
  - [https://rheumatism.org.sa](https://rheumatism.org.sa)
  - date_published: 2024-06-28T12:06:24.266160+00:00
@@ -4007,12 +4015,4 @@
  ## Heartflow - Låt dig ledas av ditt hjärta
  - [https://lifeguide.se](https://lifeguide.se)
  - date_published: 2024-01-02T00:00:00+00:00
-
- ## Mediehuset Life of Svea har det starkaste digitala erbjudandet i målgruppen kvinnor 18 - 45 år.
- - [https://lifeofsvea.se](https://lifeofsvea.se)
- - date_published: 2024-07-22T18:05:06+00:00
-
- ## Liljevalchs
- - [https://liljevalchs.se](https://liljevalchs.se)
- - date_published: 2024-04-24T00:00:00+00:00
 

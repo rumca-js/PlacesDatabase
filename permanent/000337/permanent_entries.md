@@ -1,3 +1,7 @@
+ ## Julienbesnier.fr
+ - [https://julienbesnier.fr](https://julienbesnier.fr)
+ - date_published: 2024-01-23T00:00:00+00:00
+
  ## Julien Brionne | Senior Product Manager
  - [https://julien-brionne.fr](https://julien-brionne.fr)
  - date_published: 2024-02-21T00:00:00+00:00
@@ -4010,8 +4014,4 @@
  ## Mairie du 13ᵉ arrondissement de Paris
  - [https://www.mairie13.paris.fr](https://www.mairie13.paris.fr)
  - date_published: 2025-01-01T11:21:55+00:00
-
- ## Paris.fr, site officiel de la Ville de Paris
- - [https://www.paris.fr](https://www.paris.fr)
- - date_published: 2024-08-18T17:17:07.437372+00:00
 

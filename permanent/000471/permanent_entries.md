@@ -1,3 +1,11 @@
+ ## Tygodnik Poradnik Rolniczy - portal rolniczy. Rolnictwo i wieś
+ - [https://tygodnikrolniczy.pl](https://tygodnikrolniczy.pl)
+ - date_published: 2024-08-11T16:36:56.206870+00:00
+
+ ## TylkoHity.pl
+ - [https://tylkohity.pl](https://tylkohity.pl)
+ - date_published: 2024-07-28T10:10:28.975739+00:00
+
  ## types.pl
  - [https://types.pl](https://types.pl)
  - date_published: 2024-04-30T06:04:57.310844+00:00
@@ -4070,13 +4078,4 @@
  ## Oban status
  - [https://uptime.getoban.pro](https://uptime.getoban.pro)
  - date_published: 2024-07-04T09:15:22.602353+00:00
-
- ## Bookmark manager for the wizards 🧙 | Grimoire
- - [https://grimoire.pro](https://grimoire.pro)
- - date_published: 2024-04-08T19:28:44.574160+00:00
- - tags: ['self-host', 'link aggregator', 'bookmark manager']
-
- ## Groot Music - The Ultimate Discord Music Bot
- - [https://grootbot.pro](https://grootbot.pro)
- - date_published: 2024-06-19T19:10:09.454043+00:00
 

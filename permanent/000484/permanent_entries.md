@@ -1,3 +1,11 @@
+ ## Microsoft Tech Community Speakers
+ - [https://communityspeakers.tech](https://communityspeakers.tech)
+ - date_published: 2024-05-10T17:22:24+00:00
+
+ ## GitHub - dev-cycles/contextive: Get on the same page.
+ - [https://contextive.tech](https://contextive.tech)
+ - date_published: 2024-09-04T01:49:52.690231+00:00
+
  ## Mary's Internet Realm
  - [https://coolmathgames.tech](https://coolmathgames.tech)
  - date_published: 2023-12-24T20:26:04+00:00
@@ -4030,12 +4038,4 @@
  ## Chevereto - Image and Video Hosting Software
  - [https://chv.to](https://chv.to)
  - date_published: 2024-05-14T03:36:14.207162+00:00
-
- ## clik.to
- - [http://clik.to](http://clik.to)
- - date_published: 2024-09-13T19:11:16.064014+00:00
-
- ## シネマカフェ cinemacafe.net
- - [https://coco.to](https://coco.to)
- - date_published: 2024-10-31T16:08:17.581824+00:00
 

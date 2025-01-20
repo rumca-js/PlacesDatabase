@@ -1,3 +1,7 @@
+ ## STOVE-스토브
+ - [https://member.onstove.com](https://member.onstove.com)
+ - date_published: 2024-07-29T07:53:28+00:00
+
  ## Stove Store - 스토브 스토어
  - [https://store.onstove.com](https://store.onstove.com)
  - date_published: 2024-08-07T18:06:12.654868+00:00
@@ -4032,8 +4036,4 @@
  ## Oregon Local News, Breaking News, Sports & Weather
  - [https://topics.oregonlive.com](https://topics.oregonlive.com)
  - date_published: 2024-06-27T16:40:11+00:00
-
- ## Oregon Local News, Breaking News, Sports & Weather
- - [https://www.oregonlive.com](https://www.oregonlive.com)
- - date_published: 2023-10-25T11:06:13.645376+00:00
 

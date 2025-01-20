@@ -1,3 +1,8 @@
+ ## Cierpliwości...
+ - [https://forums.taleworlds.com](https://forums.taleworlds.com)
+ - date_published: 2024-04-24T20:33:32+00:00
+ - tags: ['mount and blade']
+
  ## Home - TaleWorlds Entertainment
  - [https://taleworlds.com](https://taleworlds.com)
  - date_published: 2024-03-30T00:00:00+00:00
@@ -4043,8 +4048,4 @@
  ## Home - Teal Group
  - [https://tealgroup.com](https://tealgroup.com)
  - date_published: 2024-07-09T21:58:57+00:00
-
- ## Teal
- - [https://app.tealhq.com](https://app.tealhq.com)
- - date_published: 2025-01-07T21:39:45+00:00
 

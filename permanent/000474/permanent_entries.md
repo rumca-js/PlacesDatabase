@@ -1,3 +1,11 @@
+ ## Timur Fattahov
+ - [http://timur.red](http://timur.red)
+ - date_published: 2024-07-13T15:13:38.335414+00:00
+
+ ## We Are Code Red
+ - [https://wearecode.red](https://wearecode.red)
+ - date_published: 2022-12-05T09:42:04+00:00
+
  ## nullptr.rehab
  - [https://nullptr.rehab](https://nullptr.rehab)
  - date_published: 2024-05-13T02:38:54.696920+00:00
@@ -4016,12 +4024,4 @@ A slim and mobile-friendly IIIF document viewer
  ## National Geographic
  - [http://www.nationalgeographic.rs](http://www.nationalgeographic.rs)
  - date_published: 2024-06-16T00:00:00+00:00
-
- ## DinaCard
- - [https://dinacard.nbs.rs](https://dinacard.nbs.rs)
- - date_published: 2024-10-17T06:59:04+00:00
-
- ## IPS - НБС | Насловна
- - [https://ips.nbs.rs](https://ips.nbs.rs)
- - date_published: 2024-09-16T02:15:40.061206+00:00
 

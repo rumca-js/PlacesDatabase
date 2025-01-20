@@ -1,3 +1,7 @@
+ ## Home | Trucking's Frontline Heroes
+ - [http://heroes.ttnews.com](http://heroes.ttnews.com)
+ - date_published: 2024-05-11T11:32:59.180907+00:00
+
  ## https://influence.ttnews.com/
  - [https://influence.ttnews.com](https://influence.ttnews.com)
  - date_published: 2024-05-11T11:32:52.388321+00:00
@@ -4007,8 +4011,4 @@
  ## Tumblr
  - [https://clintfbarton.tumblr.com](https://clintfbarton.tumblr.com)
  - date_published: 2024-06-27T03:33:10.920963+00:00
-
- ## Lawyer Near Me
- - [http://clivethompson.tumblr.com](http://clivethompson.tumblr.com)
- - date_published: 2024-06-17T11:49:08.619865+00:00
 

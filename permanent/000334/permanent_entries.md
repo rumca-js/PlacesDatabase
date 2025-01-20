@@ -1,3 +1,7 @@
+ ## Hi, we're Backtracks. Nice to meet you.
+ - [https://backtracks.fm](https://backtracks.fm)
+ - date_published: 2024-06-19T19:28:03+00:00
+
  ## Batida.fm
  - [https://batida.fm](https://batida.fm)
  - date_published: 2024-12-24T12:00:45.057869+00:00
@@ -4005,8 +4009,4 @@
  ## Expertise ESN Craft I Conseil & Développement Logiciel | Arolla
  - [https://www.arolla.fr](https://www.arolla.fr)
  - date_published: 2024-06-12T00:00:00+00:00
-
- ## Actes de la recherche en sciences sociales
- - [http://www.arss.fr](http://www.arss.fr)
- - date_published: 2024-10-18T21:53:01.863182+00:00
 

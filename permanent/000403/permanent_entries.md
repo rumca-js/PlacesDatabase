@@ -1,3 +1,7 @@
+ ## Pierre Fouché
+ - [http://www.pierrefouche.net](http://www.pierrefouche.net)
+ - date_published: 2024-11-12T07:42:29+00:00
+
  ## Pietrangelo Masala — I like to expand my knowledge, I like me...
  - [https://www.pietrangelo.net](https://www.pietrangelo.net)
  - date_published: 2024-06-18T16:16:00.505288+00:00
@@ -4058,8 +4062,4 @@
  ## Home - Rock Port Telephone
  - [http://www.rptel.net](http://www.rptel.net)
  - date_published: 2024-04-04T00:00:00+00:00
-
- ## HOME
- - [https://www.rptools.net](https://www.rptools.net)
- - date_published: 2024-06-19T20:03:23.600580+00:00
 

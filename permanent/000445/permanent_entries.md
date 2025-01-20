@@ -1,3 +1,8 @@
+ ## nickd
+		- nickd
+ - [https://image.nickd.org](https://image.nickd.org)
+ - date_published: 2024-03-18T12:56:20+00:00
+
  ## Nick Disabato, Spring Regular 2024
  - [https://nickd.org](https://nickd.org)
  - date_published: 2024-05-06T02:00:01+00:00
@@ -4018,8 +4023,4 @@
  ## oddlama's blog
  - [https://oddlama.org](https://oddlama.org)
  - date_published: 2025-01-17T07:52:54.294160+00:00
-
- ## Oddmuse: Main Page
- - [https://oddmuse.org](https://oddmuse.org)
- - date_published: 2024-06-19T22:26:19.186956+00:00
 

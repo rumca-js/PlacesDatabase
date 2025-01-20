@@ -1,3 +1,11 @@
+ ## Edit Photo
+ - [https://edit.photo](https://edit.photo)
+ - date_published: 2024-09-13T07:04:47+00:00
+
+ ## EYESQUID: Photography by Dan Komoda
+ - [http://www.eyesquid.photo](http://www.eyesquid.photo)
+ - date_published: 2024-08-16T00:00:00+00:00
+
  ## 2024-05-03
  - [https://florian.photo](https://florian.photo)
  - date_published: 2024-05-03T00:00:00+00:00
@@ -4040,12 +4048,4 @@
  ## The Wisława Szymborska Foundation - Fundacja Wisławy Szymborskiej została założona w kwietniu 2012 roku, na mocy testamentu pozostawionego przez Noblistkę
  - [http://www.szymborska.org.pl](http://www.szymborska.org.pl)
  - date_published: 2024-08-08T19:39:45.516462+00:00
-
- ## Towarzystwo Michała Archanioła
- - [http://www.tma.org.pl](http://www.tma.org.pl)
- - date_published: 2014-01-26T21:13:45+00:00
-
- ## Polskie Uniwersum Total War
- - [http://forum.totalwar.org.pl](http://forum.totalwar.org.pl)
- - date_published: 2024-08-08T19:24:11.908439+00:00
 

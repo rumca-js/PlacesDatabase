@@ -1,3 +1,7 @@
+ ## Secure Technology Alliance Identity & Payments Summit – Trust, Security and Privacy in a Hyperconnected World
+ - [https://stapayments.com](https://stapayments.com)
+ - date_published: 2024-05-12T03:58:15.569323+00:00
+
  ## Find Jobs and Careers With Staples, Inc.
  - [https://careers.staples.com](https://careers.staples.com)
  - date_published: 2024-08-05T21:54:31.272504+00:00
@@ -4061,8 +4065,4 @@ building a startup nobody wants | Startupseocheck
  ## Steven Buccini | Loading next level…
  - [https://stevenbuccini.com](https://stevenbuccini.com)
  - date_published: 2023-10-25T17:17:14.635815+00:00
-
- ## Steven Can Plan
- - [https://www.stevencanplan.com](https://www.stevencanplan.com)
- - date_published: 2024-06-28T13:47:38.275113+00:00
 

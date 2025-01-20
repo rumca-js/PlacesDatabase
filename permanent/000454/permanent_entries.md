@@ -1,3 +1,11 @@
+ ## Science Museum of Virginia
+ - [https://www.smv.org](https://www.smv.org)
+ - date_published: 2024-12-21T13:23:37.687065+00:00
+
+ ## Social Networks and Archival Context
+ - [https://snaccooperative.org](https://snaccooperative.org)
+ - date_published: 2024-08-18T09:15:26.023514+00:00
+
  ## Home - SNAME Main Site
  - [https://communities.sname.org](https://communities.sname.org)
  - date_published: 2024-10-31T21:27:30.798765+00:00
@@ -4028,12 +4036,4 @@ photonics applied research.
  ## Still Creek Ranch - children's ministry, non-profit, volunteer, child rescue - Bryan, TX - 979-589-3206
  - [https://www.stillcreekranch.org](https://www.stillcreekranch.org)
  - date_published: 2024-12-22T15:53:51.151876+00:00
-
- ## In Praise of Excruciation
- - [https://stilldrinking.org](https://stilldrinking.org)
- - date_published: 2024-05-11T10:48:21.488927+00:00
-
- ## 🌈♿️ Mutual Aid and Human-Centered Learning for Neurodivergent and Disabled People
- - [https://stimpunks.org](https://stimpunks.org)
- - date_published: 2024-07-08T00:00:00+00:00
 

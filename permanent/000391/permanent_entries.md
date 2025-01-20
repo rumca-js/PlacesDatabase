@@ -1,3 +1,7 @@
+ ## ECSE Ecommerce Summit & Expo
+ - [https://www.ecse.mx](https://www.ecse.mx)
+ - date_published: 2024-09-17T23:55:32+00:00
+
  ## El Camino a la Felicidad: Enseñanza de Carácter Moral, Buen Consejo, Valores Éticos, Virtudes para una Vida Mejor.
  - [http://www.elcaminoalafelicidad.mx](http://www.elcaminoalafelicidad.mx)
  - date_published: 2024-09-04T17:58:34.934760+00:00
@@ -4044,8 +4048,4 @@
  ## The Official AFI website
  - [https://afireinside.net](https://afireinside.net)
  - date_published: 2024-05-16T00:00:00+00:00
-
- ## AFI US
- - [https://shop.afireinside.net](https://shop.afireinside.net)
- - date_published: 2024-09-17T16:38:00.457146+00:00
 

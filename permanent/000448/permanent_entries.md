@@ -1,3 +1,12 @@
+ ## Pauline Boty
+ - [https://paulineboty.org](https://paulineboty.org)
+ - date_published: 2024-09-14T22:42:33.580680+00:00
+
+ ## Paul Miller – Don't panic
+ - [https://paulmiller.org](https://paulmiller.org)
+ - date_published: 2024-02-12T16:24:57.717444+00:00
+ - tags: ['personal']
+
  ## Instituto Paulo Freire
  - [http://www.paulofreire.org](http://www.paulofreire.org)
  - date_published: 2024-12-12T23:40:33+00:00
@@ -4028,12 +4037,4 @@
  ## Home | Ponemon Institute
  - [https://www.ponemon.org](https://www.ponemon.org)
  - date_published: 2024-09-14T09:59:38.076329+00:00
-
- ## Pongo Poetry Project - Poetry Writing for Teens and Youth
- - [https://pongopoetryproject.org](https://pongopoetryproject.org)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## PongSat
- - [https://pongsat.org](https://pongsat.org)
- - date_published: 2024-05-20T02:49:33.192406+00:00
 

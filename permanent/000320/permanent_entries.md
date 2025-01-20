@@ -1,3 +1,7 @@
+ ## Office of Preparedness and Response | University of Illinois Chicago
+ - [https://ready.uic.edu](https://ready.uic.edu)
+ - date_published: 2024-06-26T22:31:44.395958+00:00
+
  ## Campus Recreation | University of Illinois Chicago
  - [https://recreation.uic.edu](https://recreation.uic.edu)
  - date_published: 2024-07-02T02:48:50.115600+00:00
@@ -4002,8 +4006,4 @@ Center for Information Technology Integration
  ## LATIS | CLA Neighborhood
  - [http://latis.umn.edu](http://latis.umn.edu)
  - date_published: 2024-07-01T21:26:53+00:00
-
- ## Kathryn A. Martin Library | UMN Duluth
- - [https://lib.d.umn.edu](https://lib.d.umn.edu)
- - date_published: 2024-07-13T16:50:48+00:00
 

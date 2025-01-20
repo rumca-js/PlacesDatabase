@@ -1,3 +1,7 @@
+ ## Open Robotics
+ - [https://tuba-puma-ksd5.squarespace.com](https://tuba-puma-ksd5.squarespace.com)
+ - date_published: 2024-05-08T11:17:02.281461+00:00
+
  ## Christine Ma-Kellams
  - [https://tulip-hexahedron-zsmj.squarespace.com](https://tulip-hexahedron-zsmj.squarespace.com)
  - date_published: 2024-08-06T11:39:23.149267+00:00
@@ -4017,8 +4021,4 @@
  ## Home - Stanwell
  - [https://www.stanwell.com](https://www.stanwell.com)
  - date_published: 2024-01-15T00:00:00+00:00
-
- ## Secure Technology Alliance Identity & Payments Summit – Trust, Security and Privacy in a Hyperconnected World
- - [https://stapayments.com](https://stapayments.com)
- - date_published: 2024-05-12T03:58:15.569323+00:00
 

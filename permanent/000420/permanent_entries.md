@@ -1,3 +1,8 @@
+ ## Cierpliwości...
+ - [https://aternos.org](https://aternos.org)
+ - date_published: 2024-05-01T07:19:28.650514+00:00
+ - tags: ['minecraft servers', 'minecraft']
+
  ## Join the Aternos Discord Server!
  - [https://discord.aternos.org](https://discord.aternos.org)
  - date_published: 2024-12-20T20:14:03+00:00
@@ -4026,8 +4031,4 @@
  ## BSD Hypervisor
  - [https://bhyve.org](https://bhyve.org)
  - date_published: 2023-05-13T08:14:51+00:00
-
- ## The Bialystoker Synagogue
- - [http://www.bialystoker.org](http://www.bialystoker.org)
- - date_published: 2023-01-08T12:11:49+00:00
 

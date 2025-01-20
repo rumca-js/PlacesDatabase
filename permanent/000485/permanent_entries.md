@@ -1,3 +1,11 @@
+ ## clik.to
+ - [http://clik.to](http://clik.to)
+ - date_published: 2024-09-13T19:11:16.064014+00:00
+
+ ## シネマカフェ cinemacafe.net
+ - [https://coco.to](https://coco.to)
+ - date_published: 2024-10-31T16:08:17.581824+00:00
+
  ## Coindrop - Accept payments and donations 100% Free with Zero Fees
  - [https://coindrop.to](https://coindrop.to)
  - date_published: 2024-07-10T07:44:22.911440+00:00
@@ -4056,13 +4064,4 @@ Introduction
  ## trivia.town
  - [https://trivia.town](https://trivia.town)
  - date_published: 2024-08-18T03:14:57.294215+00:00
-
- ## Truncate: A word-based strategy game
- - [https://truncate.town](https://truncate.town)
- - date_published: 2024-03-31T09:58:26+00:00
-
- ## Val Town Blog
- - [https://blog.val.town](https://blog.val.town)
- - date_published: 2023-10-25T09:24:56.115382+00:00
- - tags: ['personal']
 

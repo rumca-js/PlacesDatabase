@@ -1,3 +1,7 @@
+ ## トップページ｜Tellus
+ - [https://www.tellusxdp.com](https://www.tellusxdp.com)
+ - date_published: 2024-07-10T08:26:16+00:00
+
  ## Tv Advert Archive | Telly Ads
  - [http://www.tellyads.com](http://www.tellyads.com)
  - date_published: 2024-10-21T14:17:08.396343+00:00
@@ -4029,8 +4033,4 @@
  ## Kresley Cole – #1 New York Times Bestseller
  - [http://thearcanachronicles.com](http://thearcanachronicles.com)
  - date_published: 2024-09-04T05:40:03.919240+00:00
-
- ## Home - Arcane
- - [https://thearcane.com](https://thearcane.com)
- - date_published: 2024-07-09T19:05:45.150637+00:00
 

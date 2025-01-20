@@ -1,3 +1,7 @@
+ ## Resources | Climate Central
+ - [https://medialibrary.climatecentral.org](https://medialibrary.climatecentral.org)
+ - date_published: 2024-09-25T16:33:32.170065+00:00
+
  ## Picturing Our Future
  - [https://picturing.climatecentral.org](https://picturing.climatecentral.org)
  - date_published: 2024-06-16T05:35:27.762967+00:00
@@ -4026,8 +4030,4 @@
  ## February 4, 2019 | CopyleftConf 2019
  - [https://2019.copyleftconf.org](https://2019.copyleftconf.org)
  - date_published: 2019-02-04T00:00:00+00:00
-
- ## Home
- - [https://copyrightalliance.org](https://copyrightalliance.org)
- - date_published: 2020-09-21T05:21:51+00:00
 

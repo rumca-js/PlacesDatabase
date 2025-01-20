@@ -1,4 +1,8 @@
  ## United States Coast Guard (USCG)
+ - [https://www.mycg.uscg.mil](https://www.mycg.uscg.mil)
+ - date_published: 2024-07-03T13:55:43.845988+00:00
+
+ ## United States Coast Guard (USCG)
  - [https://www.news.uscg.mil](https://www.news.uscg.mil)
  - date_published: 2024-06-21T09:50:16.694768+00:00
 
@@ -4030,8 +4034,4 @@
  ## Cursos, especializaciones y diplomados en línea.
  - [https://ebac.mx](https://ebac.mx)
  - date_published: 2024-07-13T02:15:14.641247+00:00
-
- ## ECSE Ecommerce Summit & Expo
- - [https://www.ecse.mx](https://www.ecse.mx)
- - date_published: 2024-09-17T23:55:32+00:00
 

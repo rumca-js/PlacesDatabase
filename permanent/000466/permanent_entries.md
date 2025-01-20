@@ -1,3 +1,11 @@
+ ## Towarzystwo Michała Archanioła
+ - [http://www.tma.org.pl](http://www.tma.org.pl)
+ - date_published: 2014-01-26T21:13:45+00:00
+
+ ## Polskie Uniwersum Total War
+ - [http://forum.totalwar.org.pl](http://forum.totalwar.org.pl)
+ - date_published: 2024-08-08T19:24:11.908439+00:00
+
  ## TotalWar.org.pl - Polskie Uniwersum serii Total War
  - [https://totalwar.org.pl](https://totalwar.org.pl)
  - date_published: 2024-04-26T18:15:59+00:00
@@ -4086,12 +4094,4 @@ Polska 1939
  ## Plotki, gwiazdy i celebryci - Życie gwiazd w Dziennik.pl
  - [https://zyciegwiazd.dziennik.pl](https://zyciegwiazd.dziennik.pl)
  - date_published: 2024-08-18T17:06:00.457516+00:00
-
- ## Dziennik Bałtycki - Wiadomości Trójmiasto, Wiadomości Pomorskie
- - [https://dziennikbaltycki.pl](https://dziennikbaltycki.pl)
- - date_published: 2023-10-25T22:27:19.284645+00:00
-
- ## Wiadomości i ciekawostki ze świata nauki
- - [https://dzienniknaukowy.pl](https://dzienniknaukowy.pl)
- - date_published: 2024-09-03T22:37:55.037758+00:00
 

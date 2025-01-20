@@ -1,3 +1,11 @@
+ ## N + 1 — главное издание о науке, технике и технологиях
+ - [https://staticn1.nplus1.ru](https://staticn1.nplus1.ru)
+ - date_published: 2024-08-07T15:26:19.475484+00:00
+
+ ## ПАО «ОДК-Сатурн»
+ - [http://www.npo-saturn.ru](http://www.npo-saturn.ru)
+ - date_published: 2024-07-09T21:59:46.647111+00:00
+
  - [https://old.math.nsc.ru](https://old.math.nsc.ru)
  - date_published: 2024-02-06T07:00:43.931591+00:00
 
@@ -4015,12 +4023,4 @@
  ## اتحاد الغرف السعودية
  - [https://fsc.org.sa](https://fsc.org.sa)
  - date_published: 2024-09-25T10:00:48.953619+00:00
-
- ## هيئة الاتصالات والفضاء والتقنية
- - [http://www.ipv6.org.sa](http://www.ipv6.org.sa)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## | مركز الملك سلمان لأبحاث الإعاقة
- - [https://www.kscdr.org.sa](https://www.kscdr.org.sa)
- - date_published: 2024-12-13T20:12:44.548342+00:00
 

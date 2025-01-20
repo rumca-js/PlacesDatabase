@@ -1,3 +1,11 @@
+ ## ISEC
+ - [http://www.isec.pl](http://www.isec.pl)
+ - date_published: 2023-03-24T14:49:13+00:00
+
+ ## Uprawnienia SEP | Sam wybierasz dokładną datę Egzaminu | Szkolenia 24h/7
+ - [https://promocja.i-seep.pl](https://promocja.i-seep.pl)
+ - date_published: 2024-09-03T20:00:33.193013+00:00
+
  ## iSing.pl - śpiewaj karaoke
  - [https://ising.pl](https://ising.pl)
  - date_published: 2024-12-07T16:52:52.222063+00:00
@@ -4080,12 +4088,4 @@
  ## Niedziela małopolska | Niedziela.pl
  - [https://krakow.niedziela.pl](https://krakow.niedziela.pl)
  - date_published: 2024-08-18T17:01:47.540040+00:00
-
- ## Księgarnia Niedziela - nowa oferta
- - [https://ksiegarnia.niedziela.pl](https://ksiegarnia.niedziela.pl)
- - date_published: 2024-08-18T16:56:16.075501+00:00
-
- ## Niedziela legnicka | Niedziela.pl
- - [https://legnica.niedziela.pl](https://legnica.niedziela.pl)
- - date_published: 2024-08-18T17:01:50.692844+00:00
 

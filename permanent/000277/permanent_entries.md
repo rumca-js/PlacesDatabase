@@ -1,3 +1,7 @@
+ ## Tales to Astound!
+ - [https://talestoastound.wordpress.com](https://talestoastound.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## taliasplse
  - [https://taliasplse.wordpress.com](https://taliasplse.wordpress.com)
  - date_published: 2024-06-30T09:24:47.811951+00:00
@@ -4003,8 +4007,4 @@
  ## Sofhaallow
  - [http://www.sofhaallow.wordpress.com](http://www.sofhaallow.wordpress.com)
  - date_published: 2024-09-17T17:43:58.242471+00:00
-
- ## Southwark Notes - whose regeneration?
- - [http://www.southwarknotes.wordpress.com](http://www.southwarknotes.wordpress.com)
- - date_published: 2024-12-21T17:49:02.547992+00:00
 

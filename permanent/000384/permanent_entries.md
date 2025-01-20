@@ -1,3 +1,7 @@
+ ## CIMPLE - A Curious Introvert's Musings & Photos about Life and Enjoyment
+ - [https://cimple.life](https://cimple.life)
+ - date_published: 2024-09-06T01:03:38.478198+00:00
+
  ## Circolo
  - [https://circolo.life](https://circolo.life)
  - date_published: 2024-09-25T14:51:12.999180+00:00
@@ -4028,9 +4032,5 @@
 
  ## @mchal
  - [https://mchal.lol](https://mchal.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## @mcornick
- - [https://mcornick.lol](https://mcornick.lol)
  - date_published: 2024-01-09T00:00:00+00:00
 

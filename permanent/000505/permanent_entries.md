@@ -1,3 +1,11 @@
+ ## Pixels.xyz Lite Paper | Pixels Whitepaper
+ - [https://docs.pixels.xyz](https://docs.pixels.xyz)
+ - date_published: 2024-12-15T09:22:24.873067+00:00
+
+ ## Pixels.xyz Lite Paper | Pixels Whitepaper - v2
+ - [https://whitepaper.pixels.xyz](https://whitepaper.pixels.xyz)
+ - date_published: 2024-12-14T22:00:41+00:00
+
  ## Pixels - A New Type of Game
  - [https://www.pixels.xyz](https://www.pixels.xyz)
  - date_published: 2024-12-11T10:01:37+00:00
@@ -4033,12 +4041,4 @@
  ## Superprof - The Platform for Private Tutors
  - [https://superprof.co.za](https://superprof.co.za)
  - date_published: 2024-06-15T01:27:45.803927+00:00
-
- ## Aziz Tayob Architects – Architects
- - [http://www.tayob.co.za](http://www.tayob.co.za)
- - date_published: 2024-06-30T09:53:11.240833+00:00
-
- ## TechCentral | Company Hubs
- - [https://hub.techcentral.co.za](https://hub.techcentral.co.za)
- - date_published: 2024-05-24T00:00:00+00:00
 

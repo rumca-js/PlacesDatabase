@@ -1,3 +1,7 @@
+ ## FixScript
+ - [http://fixscript.advel.cz](http://fixscript.advel.cz)
+ - date_published: 2024-08-18T04:37:42.223511+00:00
+
  ## Výroba letounů založená na stoleté zkušenosti | Aero
  - [https://aero.cz](https://aero.cz)
  - date_published: 2024-06-25T00:00:00+00:00
@@ -4018,8 +4022,4 @@ Evanek Web Design Studio - webdesign, webové prezentace, publikační systémy,
  ## Ministry of Foreign Affairs of the Czech Republic
  - [https://mzv.gov.cz](https://mzv.gov.cz)
  - date_published: 2024-07-15T19:23:26+00:00
-
- ## Portál občana
- - [https://obcan.portal.gov.cz](https://obcan.portal.gov.cz)
- - date_published: 2024-06-14T14:26:13+00:00
 

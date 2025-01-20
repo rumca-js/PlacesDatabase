@@ -1,3 +1,7 @@
+ ## Defi The Norm - SMARDEX
+ - [https://smardex.io](https://smardex.io)
+ - date_published: 2024-07-22T10:55:32+00:00
+
  ## SmartFrame Admin Panel
  - [https://panel.smartframe.io](https://panel.smartframe.io)
  - date_published: 2024-06-24T10:26:04+00:00
@@ -4021,8 +4025,4 @@
  ## Take The Jump - Your blockchain creative studio
  - [https://takethejump.io](https://takethejump.io)
  - date_published: 2024-04-29T11:30:49+00:00
-
- ## Talarian Trust Center | Powered by SafeBase
- - [https://security.talarian.io](https://security.talarian.io)
- - date_published: 2024-10-30T14:17:34.731803+00:00
 

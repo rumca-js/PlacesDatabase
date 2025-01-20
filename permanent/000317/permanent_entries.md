@@ -1,3 +1,7 @@
+ ## Shahjalal University of Science & Technology
+ - [http://www.sust.edu](http://www.sust.edu)
+ - date_published: 2024-07-02T19:03:03.926347+00:00
+
  ## DSI / Social Design - School of Visual Arts | Homepage - Design for Social Innovation at SVA is the first MFA program in the rapidly growing field of social impact design.
  - [https://dsi.sva.edu](https://dsi.sva.edu)
  - date_published: 2024-12-22T14:32:50.451452+00:00
@@ -4005,8 +4009,4 @@
  ## UChicago Biosciences | The University of Chicago
  - [https://biosciences.uchicago.edu](https://biosciences.uchicago.edu)
  - date_published: 2024-05-07T20:46:05.638600+00:00
-
- ## Biological Sciences Collegiate Division
- - [https://bscd.uchicago.edu](https://bscd.uchicago.edu)
- - date_published: 2024-05-07T20:46:08.412983+00:00
 

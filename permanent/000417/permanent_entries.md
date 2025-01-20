@@ -1,3 +1,7 @@
+ ## Association des Développeurs et Utilisateurs de Logiciels Libres - adullact.org
+ - [https://adullact.org](https://adullact.org)
+ - date_published: 2024-07-08T11:11:54+00:00
+
  ## ADUnB - Associação dos Docentes da Universidade de Brasília - Seção Sindical do ANDES-SN
  - [https://adunb.org](https://adunb.org)
  - date_published: 2024-07-20T11:20:37.442037+00:00
@@ -4028,8 +4032,4 @@
  ## Academy | Arts and Science | American Academy of Arts and Science
  - [https://amacad.org](https://amacad.org)
  - date_published: 2024-04-30T04:56:26.662160+00:00
-
- ## AMA Credentialing Services | Physician Profiles and PA Profiles
- - [https://amacredentialingservices.org](https://amacredentialingservices.org)
- - date_published: 2024-07-09T03:27:10+00:00
 

@@ -1,3 +1,7 @@
+ ## Home
+ - [https://copyrightalliance.org](https://copyrightalliance.org)
+ - date_published: 2020-09-21T05:21:51+00:00
+
  ## Home | The Copyright Society We know copyright
  - [https://copyrightsociety.org](https://copyrightsociety.org)
  - date_published: 2024-10-27T18:57:54.362966+00:00
@@ -4032,8 +4036,4 @@ irc logs at libera.irclog.whitequark.org
  ## Darice de Cuba / Inclusive Design * Expert by Experience
  - [https://darice.org](https://darice.org)
  - date_published: 2024-08-31T00:00:00+00:00
-
- ## Dark-Alex.Org
- - [http://dark-alex.org](http://dark-alex.org)
- - date_published: 2022-02-26T16:13:19+00:00
 

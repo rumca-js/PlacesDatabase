@@ -1,3 +1,7 @@
+ ## Wharton Digital Content Archive
+ - [https://dca.wharton.upenn.edu](https://dca.wharton.upenn.edu)
+ - date_published: 2024-10-14T20:17:09.010291+00:00
+
  ## Digital.library server at Penn Libraries
  - [https://digital.library.upenn.edu](https://digital.library.upenn.edu)
  - date_published: 2022-07-29T17:55:35+00:00
@@ -3995,8 +3999,4 @@
  ## The Fern and Manfred Steinfeld Program in Judaic Studies | The University of Tennessee, Knoxville
  - [https://judaic.utk.edu](https://judaic.utk.edu)
  - date_published: 2024-05-07T22:15:05.438828+00:00
-
- ## UTK LISTSERV | The University of Tennessee, Knoxville
- - [http://listserv.utk.edu](http://listserv.utk.edu)
- - date_published: 2023-04-18T23:43:18+00:00
 

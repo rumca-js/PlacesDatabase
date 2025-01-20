@@ -1,3 +1,7 @@
+ ## Discover, Buy and Sell Gaming NFTs - Sphere
+ - [https://sphere.market](https://sphere.market)
+ - date_published: 2024-10-31T15:10:14.284968+00:00
+
  ## Sunday Market
  - [https://sunday.market](https://sunday.market)
  - date_published: 2024-04-15T17:35:16+00:00
@@ -4069,8 +4073,4 @@
  ## Houssein Djirdeh
  - [https://houssein.me](https://houssein.me)
  - date_published: 2019-12-25T01:38:06+00:00
-
- ## Howl | A new social commerce platform
- - [https://howl.me](https://howl.me)
- - date_published: 2024-04-24T00:00:00+00:00
 

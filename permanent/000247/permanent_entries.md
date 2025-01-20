@@ -1,3 +1,7 @@
+ ## Overview on Crypto, P2E, DeFi & Blockchain Games - Thirdwavelabs
+ - [https://thirdwavelabs.com](https://thirdwavelabs.com)
+ - date_published: 2024-07-24T00:00:00+00:00
+
  ## Donatuz: RPC and Chain Settings
  - [https://42026.rpc.thirdweb.com](https://42026.rpc.thirdweb.com)
  - date_published: 2024-12-24T02:05:56.885472+00:00
@@ -4045,8 +4049,4 @@ Press/Editor and Publisher Philip Shropshire
  ## Digital Economy Payment Solutions | Tilia
  - [https://www.tiliapay.com](https://www.tiliapay.com)
  - date_published: 2024-04-23T00:00:00+00:00
-
- ## B2B SaaS Agency That Builds & Optimizes Websites | Tiller Digital
- - [https://tillerdigital.com](https://tillerdigital.com)
- - date_published: 2024-08-17T22:23:02+00:00
 

@@ -1,3 +1,7 @@
+ ## Southwark Notes - whose regeneration?
+ - [http://www.southwarknotes.wordpress.com](http://www.southwarknotes.wordpress.com)
+ - date_published: 2024-12-21T17:49:02.547992+00:00
+
  ## TEXEIRA BLOGS
  - [http://www.texeira24348078598.wordpress.com](http://www.texeira24348078598.wordpress.com)
  - date_published: 2024-09-17T17:25:18.546603+00:00
@@ -4029,8 +4033,4 @@
  ## Your Path to Good Bone Health
  - [https://patientpathway.wpengine.com](https://patientpathway.wpengine.com)
  - date_published: 2024-10-15T06:18:32.284799+00:00
-
- ## Pendo.io - Product Experience and Digital Adoption Solutions
- - [https://pendoiostg.wpengine.com](https://pendoiostg.wpengine.com)
- - date_published: 2024-07-30T00:00:00+00:00
 

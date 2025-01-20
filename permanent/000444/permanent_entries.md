@@ -1,3 +1,7 @@
+ ## Neonriser
+ - [https://neonriser.neocities.org](https://neonriser.neocities.org)
+ - date_published: 2024-02-23T20:32:59+00:00
+
  ## neo's HEAVENWURLD ଘ(ˊ_ˋ)
  - [https://neoratz.neocities.org](https://neoratz.neocities.org)
  - date_published: 2023-03-30T02:37:50+00:00
@@ -4023,9 +4027,4 @@
  ## Nichols School | Private School in Buffalo NY for Grades 5-12
  - [https://www.nicholsschool.org](https://www.nicholsschool.org)
  - date_published: 2024-06-30T11:09:23.203345+00:00
-
- ## nickd
-		- nickd
- - [https://image.nickd.org](https://image.nickd.org)
- - date_published: 2024-03-18T12:56:20+00:00
 

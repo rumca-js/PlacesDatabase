@@ -1,3 +1,7 @@
+ ## High Res Theme
+ - [http://highrestheme.tumblr.com](http://highrestheme.tumblr.com)
+ - date_published: 2012-09-26T00:00:00+00:00
+
  ## Disney's The 7D
  - [https://hiho-the7d-blog.tumblr.com](https://hiho-the7d-blog.tumblr.com)
  - date_published: 2024-10-23T13:57:05.001691+00:00
@@ -4006,8 +4010,4 @@
  ## Mysterium Convention
  - [https://mysterium.tumblr.com](https://mysterium.tumblr.com)
  - date_published: 2024-05-13T09:33:06.736388+00:00
-
- ## MySTeRy SOuP
- - [https://mysterysoup.tumblr.com](https://mysterysoup.tumblr.com)
- - date_published: 2024-12-13T10:02:54.813819+00:00
 

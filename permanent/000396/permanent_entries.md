@@ -1,3 +1,7 @@
+ ## Daggerfall Workshop Forums - Index page
+ - [http://forums.dfworkshop.net](http://forums.dfworkshop.net)
+ - date_published: 2024-04-02T00:00:00+00:00
+
  ## Consult. Build. Operate.
  - [https://www.dg-i.net](https://www.dg-i.net)
  - date_published: 2024-07-12T12:55:06+00:00
@@ -4045,8 +4049,4 @@
  ## Tworzenie, projektowanie i obsługa stron www Katowice, Chorzów, Śląsk - Fdgstudio.net
  - [http://fdgstudio.net](http://fdgstudio.net)
  - date_published: 2024-08-06T22:41:01.737722+00:00
-
- ## Home | fdiv.net
- - [https://fdiv.net](https://fdiv.net)
- - date_published: 2024-05-24T22:29:20.876570+00:00
 

@@ -1,3 +1,7 @@
+ ## De-rendering the World's Revolutionary Artefacts.
+ - [https://sorderender.github.io](https://sorderender.github.io)
+ - date_published: 2021-11-25T10:14:24+00:00
+
  ## Soufflé | Soufflé • A Datalog Synthesis Tool for Static Analysis
  - [https://souffle-lang.github.io](https://souffle-lang.github.io)
  - date_published: 2023-10-25T19:54:24.056975+00:00
@@ -4024,8 +4028,4 @@ Visualization
  ## Home
  - [https://dmatis.gitlab.io](https://dmatis.gitlab.io)
  - date_published: 2021-03-15T06:32:32+00:00
-
- ## Domino-Chain
- - [https://domino-chain.gitlab.io](https://domino-chain.gitlab.io)
- - date_published: 2024-05-09T08:53:51.661672+00:00
 

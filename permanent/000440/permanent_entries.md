@@ -1,3 +1,7 @@
+ ## Marine's Memorial Association
+ - [https://ourmission.marinesmemorial.org](https://ourmission.marinesmemorial.org)
+ - date_published: 2024-12-30T05:46:49.693404+00:00
+
  ## WoRMS - World Register of Marine Species
  - [https://marinespecies.org](https://marinespecies.org)
  - date_published: 2024-09-05T00:00:00+00:00
@@ -4051,8 +4055,4 @@ Intro
  ## Milan Urban Food Policy Pact
  - [https://www.milanurbanfoodpolicypact.org](https://www.milanurbanfoodpolicypact.org)
  - date_published: 2025-01-15T13:03:12.818326+00:00
-
- ## Home - Archdiocese for the Military, USA
- - [http://www.milarch.org](http://www.milarch.org)
- - date_published: 2023-08-08T15:15:53+00:00
 

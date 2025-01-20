@@ -1,3 +1,11 @@
+ ## Home - Sense About Science USA
+ - [https://senseaboutscienceusa.org](https://senseaboutscienceusa.org)
+ - date_published: 2024-07-16T21:50:02.660741+00:00
+
+ ## www.sensi.org
+ - [https://sensi.org](https://sensi.org)
+ - date_published: 2023-03-27T12:35:42+00:00
+
  ## SensingKit mobile sensing framework
  - [https://sensingkit.org](https://sensingkit.org)
  - date_published: 2019-08-09T11:23:07+00:00
@@ -4027,12 +4035,4 @@ Computation (SMECC)
  ## Science Museum of Virginia
  - [https://smv.org](https://smv.org)
  - date_published: 2024-12-31T17:10:41.750748+00:00
-
- ## Science Museum of Virginia
- - [https://www.smv.org](https://www.smv.org)
- - date_published: 2024-12-21T13:23:37.687065+00:00
-
- ## Social Networks and Archival Context
- - [https://snaccooperative.org](https://snaccooperative.org)
- - date_published: 2024-08-18T09:15:26.023514+00:00
 

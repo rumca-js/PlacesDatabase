@@ -1,3 +1,7 @@
+ ## media co-op | award-winning media production for social change
+ - [https://www.mediaco-op.net](https://www.mediaco-op.net)
+ - date_published: 2012-04-29T13:34:55+00:00
+
  ## MDP: Media Design Practices - ArtCenter College of Design
  - [http://mediadesignpractices.net](http://mediadesignpractices.net)
  - date_published: 2020-12-09T23:07:44+00:00
@@ -4044,8 +4048,4 @@
  ## SOHO 54 HOTEL 3⋆ ::: NY, UNITED STATES ::: COMPARE HOTEL RATES
  - [https://hampton-inn-manhattan-soho.new-york-state.net](https://hampton-inn-manhattan-soho.new-york-state.net)
  - date_published: 2024-10-22T03:56:43.167585+00:00
-
- ## HAMPTON INN & SUITES BINGHAMTON/VESTAL 3⋆ ::: VESTAL, UNITED STATES ::: COMPARE HOTEL RATES
- - [https://hampton-inn-suites-binghamton.new-york-state.net](https://hampton-inn-suites-binghamton.new-york-state.net)
- - date_published: 2024-10-22T04:04:07.580503+00:00
 

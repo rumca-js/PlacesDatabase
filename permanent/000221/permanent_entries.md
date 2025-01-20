@@ -1,3 +1,7 @@
+ ## SuperAI | 3-9 June 2024 | Singapore
+ - [http://sgaiweek.com](http://sgaiweek.com)
+ - date_published: 2024-06-09T00:00:00+00:00
+
  ## SG Armaturen
  - [https://www.sg-as.com](https://www.sg-as.com)
  - date_published: 2024-12-15T10:06:17.677841+00:00
@@ -4026,8 +4030,4 @@
  ## Shopbop - Designer Clothing, Shoes, Bags & Accessories
  - [https://m.shopbop.com](https://m.shopbop.com)
  - date_published: 2024-06-17T19:46:11.946793+00:00
-
- ## Shopbop - Designer Clothing, Shoes, Bags & Accessories
- - [https://www.shopbop.com](https://www.shopbop.com)
- - date_published: 2024-05-02T11:12:03.597933+00:00
 

@@ -1,3 +1,7 @@
+ ## CVC Computer Vision Center - UAB
+ - [http://www.cvc.uab.es](http://www.cvc.uab.es)
+ - date_published: 2024-03-04T00:00:00+00:00
+
  ## Universitat Autònoma de Barcelona
  - [http://www.uab.es](http://www.uab.es)
  - date_published: 2024-10-30T09:32:20+00:00
@@ -4011,8 +4015,4 @@
  ## Homepage - creativity-innovation.eu
  - [https://creativity-innovation.eu](https://creativity-innovation.eu)
  - date_published: 2024-06-15T01:40:50+00:00
-
- ## crewpit
- - [https://crewpit.eu](https://crewpit.eu)
- - date_published: 2024-04-28T18:14:44+00:00
 

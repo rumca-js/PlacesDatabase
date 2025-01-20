@@ -1,3 +1,11 @@
+ ## Open Source Voices
+ - [https://www.opensourcevoices.org](https://www.opensourcevoices.org)
+ - date_published: 2022-11-08T00:45:06+00:00
+
+ ## OpenSouthCode 2024
+ - [https://opensouthcode.org](https://opensouthcode.org)
+ - date_published: 2024-07-14T03:07:58.627844+00:00
+
  ## Midpeninsula Regional Open Space District | Nature is Essential
  - [https://openspace.org](https://openspace.org)
  - date_published: 2024-05-06T16:29:08.326280+00:00
@@ -4058,13 +4066,4 @@ TECHNICAL SPEAKER — @p01
  ## Paul Harvey
  - [https://paulharvey.org](https://paulharvey.org)
  - date_published: 2024-06-28T20:40:34.084702+00:00
-
- ## Pauline Boty
- - [https://paulineboty.org](https://paulineboty.org)
- - date_published: 2024-09-14T22:42:33.580680+00:00
-
- ## Paul Miller – Don't panic
- - [https://paulmiller.org](https://paulmiller.org)
- - date_published: 2024-02-12T16:24:57.717444+00:00
- - tags: ['personal']
 

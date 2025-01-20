@@ -1,3 +1,7 @@
+ ## Shu Ding
+ - [https://works.shud.in](https://works.shud.in)
+ - date_published: 2024-06-15T02:02:56.470135+00:00
+
  ## CS Careers
  - [https://cscareers.shvbsle.in](https://cscareers.shvbsle.in)
  - date_published: 2024-07-19T23:26:37.982859+00:00
@@ -4020,8 +4024,4 @@
  ## GameMag - Latest Gaming News, Reviews, Tips and More.
  - [https://www.gamemag.info](https://www.gamemag.info)
  - date_published: 2024-06-22T00:00:00+00:00
-
- ## Gartersnake.info
- - [http://www.gartersnake.info](http://www.gartersnake.info)
- - date_published: 2024-08-12T05:02:03.575826+00:00
 

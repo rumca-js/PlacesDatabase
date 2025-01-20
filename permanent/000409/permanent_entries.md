@@ -1,3 +1,7 @@
+ ## Smart Layer
+ - [https://smartlayer.network](https://smartlayer.network)
+ - date_published: 2024-06-16T03:37:23.929820+00:00
+
  ## Snowbridge
  - [https://app.snowbridge.network](https://app.snowbridge.network)
  - date_published: 2024-12-15T08:41:16.052183+00:00
@@ -4027,8 +4031,4 @@
  ## Barracudateam Chat
  - [https://www.barracudateamchat.nl](https://www.barracudateamchat.nl)
  - date_published: 2024-09-13T19:19:01.817316+00:00
-
- ## Home
- - [https://barryvanveen.nl](https://barryvanveen.nl)
- - date_published: 2024-07-09T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## PlacetoPay :: Pasarela de Pagos en Latinoamérica
+ - [https://placetopay.dev](https://placetopay.dev)
+ - date_published: 2024-08-20T21:42:49+00:00
+
  ## plainweb
  - [https://www.plainweb.dev](https://www.plainweb.dev)
  - date_published: 2024-09-02T09:50:49.373633+00:00
@@ -4079,8 +4083,4 @@
  ## News, Resources and Articles, Templates about Web-Development
  - [https://wweb.dev](https://wweb.dev)
  - date_published: 2024-10-22T19:23:03.504263+00:00
-
- ## Next-gen Web Extension Framework – WXT
- - [https://wxt.dev](https://wxt.dev)
- - date_published: 2024-09-02T09:51:10.069893+00:00
 

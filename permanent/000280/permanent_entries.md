@@ -1,3 +1,7 @@
+ ## Jake Wynn - Public Historian
+ - [https://wynninghistory.com](https://wynninghistory.com)
+ - date_published: 2024-10-29T18:33:21.567020+00:00
+
  ## Home | Wynn Medical Center
  - [http://www.wynnmedcenter.com](http://www.wynnmedcenter.com)
  - date_published: 2024-06-23T00:00:00+00:00
@@ -4032,8 +4036,4 @@
  ## Premium Wines from the Heart of the Barossa Since 1849
  - [https://www.yalumba.com](https://www.yalumba.com)
  - date_published: 2024-10-21T03:32:11.649840+00:00
-
- ## Services | Locanto™ Services United States
- - [https://riverside.yalwa.com](https://riverside.yalwa.com)
- - date_published: 2024-12-28T07:48:33.591555+00:00
 

@@ -1,3 +1,7 @@
+ ## Woodshed: An Appalachian Joint
+ - [http://therevivalist.info](http://therevivalist.info)
+ - date_published: 2024-04-01T00:00:00+00:00
+
  ## Northern Information
  - [https://nor.the-rn.info](https://nor.the-rn.info)
  - date_published: 2024-08-07T17:09:49+00:00
@@ -4023,8 +4027,4 @@
  ## Offensive and Continuous Web Security Assessment | Ambionics Security
  - [https://ambionics.io](https://ambionics.io)
  - date_published: 2024-05-27T16:10:35.353584+00:00
-
- ## AME Chain | Quantum Secured Blockchain
- - [https://amechain.io](https://amechain.io)
- - date_published: 2024-09-23T22:27:10.322418+00:00
 

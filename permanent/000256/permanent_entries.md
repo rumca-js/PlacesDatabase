@@ -1,3 +1,7 @@
+ ## Slides Theme
+ - [https://slidestheme.tumblr.com](https://slidestheme.tumblr.com)
+ - date_published: 2024-10-17T21:55:07.827137+00:00
+
  ## Derailed Train of Thought
  - [https://slighlyconfused.tumblr.com](https://slighlyconfused.tumblr.com)
  - date_published: 2024-12-13T11:39:51.667302+00:00
@@ -4016,8 +4020,4 @@ Students
  ## Wordographic
  - [https://wordographic.tumblr.com](https://wordographic.tumblr.com)
  - date_published: 2024-06-20T05:11:23.277693+00:00
-
- ## Lexicon
- - [https://wordporn.tumblr.com](https://wordporn.tumblr.com)
- - date_published: 2024-05-07T21:54:51.622128+00:00
 

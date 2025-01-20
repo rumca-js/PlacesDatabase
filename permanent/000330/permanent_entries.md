@@ -1,3 +1,7 @@
+ ## crewpit
+ - [https://crewpit.eu](https://crewpit.eu)
+ - date_published: 2024-04-28T18:14:44+00:00
+
  ## Welcome - Crossrock case
  - [https://crossrockcase.eu](https://crossrockcase.eu)
  - date_published: 2024-07-12T07:33:30.585313+00:00
@@ -4019,8 +4023,4 @@ Portal
  - [https://ingo-blechschmidt.eu](https://ingo-blechschmidt.eu)
  - date_published: 2023-10-25T19:10:37.193734+00:00
  - tags: ['personal']
-
- ## IT distributor
- - [https://cz.ingrammicro.eu](https://cz.ingrammicro.eu)
- - date_published: 2024-09-15T09:59:03.297260+00:00
 

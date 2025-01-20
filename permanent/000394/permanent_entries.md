@@ -1,3 +1,7 @@
+ ## Home | Star-Crossed Lovers
+ - [http://starcrossedlovers.boards.net](http://starcrossedlovers.boards.net)
+ - date_published: 2024-10-25T07:30:59.066653+00:00
+
  ## Home | Sundog Resurrection Project Forum
  - [https://sundogresurrection.boards.net](https://sundogresurrection.boards.net)
  - date_published: 2024-04-17T00:00:00+00:00
@@ -4037,8 +4041,4 @@ Warburton’s Homepage
  ## EMP Cloth
  - [https://b661chvdz9z4m3carah9uijk90.hop.clickbank.net](https://b661chvdz9z4m3carah9uijk90.hop.clickbank.net)
  - date_published: 2024-05-13T13:11:48+00:00
-
- ## Home Doctor
- - [https://be20dv2z-32yfkf1wkl5y55kcn.hop.clickbank.net](https://be20dv2z-32yfkf1wkl5y55kcn.hop.clickbank.net)
- - date_published: 2024-05-21T10:37:43+00:00
 

@@ -1,3 +1,7 @@
+ ## Next-gen Web Extension Framework – WXT
+ - [https://wxt.dev](https://wxt.dev)
+ - date_published: 2024-09-02T09:51:10.069893+00:00
+
  ## Arx Chess
  - [https://arx.wyczawski.dev](https://arx.wyczawski.dev)
  - date_published: 2024-09-02T09:51:18.940391+00:00
@@ -4012,8 +4016,4 @@
  ## Faculty of Social Sciences – University of Copenhagen
  - [https://socialsciences.ku.dk](https://socialsciences.ku.dk)
  - date_published: 2024-07-17T00:00:00+00:00
-
- ## Copenhagen Center for Social Data Science – University of Copenhagen
- - [https://sodas.ku.dk](https://sodas.ku.dk)
- - date_published: 2024-07-01T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## News Minimalist — Only important news
+ - [https://newsminimalist.com](https://newsminimalist.com)
+ - date_published: 2023-10-25T16:17:25.270725+00:00
+
  ## https://www.newsmusicsearcharchive.com
  - [https://newsmusicsearcharchive.com](https://newsmusicsearcharchive.com)
  - date_published: 2024-01-09T02:44:57.098588+00:00
@@ -4047,8 +4051,4 @@ Isacsson
  ## 日刊ゲンダイDIGITAL
  - [https://www.nikkan-gendai.com](https://www.nikkan-gendai.com)
  - date_published: 2024-07-04T00:00:00+00:00
-
- ## Nikka Systems - IT-säkerhet för alla
- - [https://nikkasystems.com](https://nikkasystems.com)
- - date_published: 2024-06-29T04:23:08.327205+00:00
 

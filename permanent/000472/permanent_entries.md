@@ -1,3 +1,12 @@
+ ## Bookmark manager for the wizards 🧙 | Grimoire
+ - [https://grimoire.pro](https://grimoire.pro)
+ - date_published: 2024-04-08T19:28:44.574160+00:00
+ - tags: ['self-host', 'link aggregator', 'bookmark manager']
+
+ ## Groot Music - The Ultimate Discord Music Bot
+ - [https://grootbot.pro](https://grootbot.pro)
+ - date_published: 2024-06-19T19:10:09.454043+00:00
+
  ## Hamaki, booking made easy
  - [https://hamaki.pro](https://hamaki.pro)
  - date_published: 2024-07-20T19:09:08.581185+00:00
@@ -4005,12 +4014,4 @@
  ## Maserati PT Official Website - Automóveis de luxo italianos
  - [http://www.maserati.pt](http://www.maserati.pt)
  - date_published: 2024-07-12T05:10:01+00:00
-
- ## Master.D - Cursos e Formação Profissional
- - [https://www.masterd.pt](https://www.masterd.pt)
- - date_published: 2024-09-05T15:01:00.288223+00:00
-
- ## Mastodon (PT)
- - [https://masto.pt](https://masto.pt)
- - date_published: 2024-06-23T17:08:55.196272+00:00
 

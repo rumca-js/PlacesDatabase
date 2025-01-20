@@ -1,3 +1,7 @@
+ ## Home - Archdiocese for the Military, USA
+ - [http://www.milarch.org](http://www.milarch.org)
+ - date_published: 2023-08-08T15:15:53+00:00
+
  ## Home - Rusted Sky
  - [http://www.milblog.org](http://www.milblog.org)
  - date_published: 2013-08-27T13:32:09+00:00
@@ -4053,8 +4057,4 @@ ENERGY DEPARTMENT, Sports and Youth Welfare Department, MP, HOME DEPARTMENT, CUL
  ## Free music composition and notation software | MuseScore
  - [https://musescore.org](https://musescore.org)
  - date_published: 2023-10-25T21:45:30.331302+00:00
-
- ## museumblog.org
- - [http://british.museumblog.org](http://british.museumblog.org)
- - date_published: 2024-06-30T08:28:01.161297+00:00
 

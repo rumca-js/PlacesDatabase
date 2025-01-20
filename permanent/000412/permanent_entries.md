@@ -1,3 +1,8 @@
+ ## Radiocandykidzz
+ - [https://radiocandykidzz.nl](https://radiocandykidzz.nl)
+ - date_published: 2024-06-13T21:27:01.762742+00:00
+ - date_dead_since: 2025-01-07T01:42:15.413877+00:00
+
  ## Happy Radio Caroline 259 Gold.  Your Happy Rock and Album Station
  - [https://radiocaroline259.nl](https://radiocaroline259.nl)
  - date_published: 2023-08-23T19:23:11+00:00
@@ -4117,8 +4122,4 @@
  ## Visa, een van de vertrouwde leiders in digitale betalingen
  - [https://visa.nl](https://visa.nl)
  - date_published: 2024-05-12T03:59:27.644198+00:00
-
- ## De visdeurbel
- - [https://visdeurbel.nl](https://visdeurbel.nl)
- - date_published: 2024-05-10T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## Multimedia Exhibition Berlin | Bosch Beyond – Hieronymus Bosch – Das immersive Ausstellungserlebnis
+ - [https://bosch-beyond.de](https://bosch-beyond.de)
+ - date_published: 2024-09-23T13:40:18.513833+00:00
+
  ## Engineering
  - [http://www.bosch-engineering.de](http://www.bosch-engineering.de)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -4012,8 +4016,4 @@ home
  ## der tag und ich
  - [https://www.dertagundich.de](https://www.dertagundich.de)
  - date_published: 2024-07-02T18:31:31.249140+00:00
-
- ## derwesten.de - Nachrichten für den Westen
- - [https://www.derwesten.de](https://www.derwesten.de)
- - date_published: 2024-06-25T22:36:45.142018+00:00
 

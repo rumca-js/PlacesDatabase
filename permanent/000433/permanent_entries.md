@@ -1,3 +1,7 @@
+ ## HackPNW
+ - [https://hackpnw.org](https://hackpnw.org)
+ - date_published: 2024-06-20T15:18:34.310310+00:00
+
  ## Hack/Reduce
  - [http://hackreduce.org](http://hackreduce.org)
  - date_published: 2024-12-12T09:56:10.027534+00:00
@@ -4022,8 +4026,4 @@
  ## Hub - Human Trust Protocol
  - [https://hubtoken.org](https://hubtoken.org)
  - date_published: 2021-10-13T05:03:49+00:00
-
- ## Hubzilla - info@hubzilla.org
- - [https://hubzilla.org](https://hubzilla.org)
- - date_published: 2024-06-14T11:56:11.135122+00:00
 

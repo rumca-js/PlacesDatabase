@@ -1,3 +1,7 @@
+ ## Home · MPE - Events (Indico)
+ - [https://events.mpe.mpg.de](https://events.mpe.mpg.de)
+ - date_published: 2024-10-14T23:56:39.375243+00:00
+
  ## Embodied Vision - Max Planck Institute for Intelligent Systems
  - [https://ev.is.mpg.de](https://ev.is.mpg.de)
  - date_published: 2024-06-22T11:13:58.384458+00:00
@@ -4009,8 +4013,4 @@
  ## Primal Harvest
  - [https://primalharvest.de](https://primalharvest.de)
  - date_published: 2024-12-15T03:27:18.409848+00:00
-
- ## PRIMUSS
- - [https://www3.primuss.de](https://www3.primuss.de)
- - date_published: 2024-05-22T11:37:00+00:00
 

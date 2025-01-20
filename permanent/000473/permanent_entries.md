@@ -1,3 +1,11 @@
+ ## Master.D - Cursos e Formação Profissional
+ - [https://www.masterd.pt](https://www.masterd.pt)
+ - date_published: 2024-09-05T15:01:00.288223+00:00
+
+ ## Mastodon (PT)
+ - [https://masto.pt](https://masto.pt)
+ - date_published: 2024-06-23T17:08:55.196272+00:00
+
  ## Máxima: Moda, beleza, lifestyle e comportamento
  - [http://www.maxima.pt](http://www.maxima.pt)
  - date_published: 2024-06-25T18:51:41.608290+00:00
@@ -4020,12 +4028,4 @@
  ## Tancred
  - [https://tanc.red](https://tanc.red)
  - date_published: 2023-12-30T14:08:35+00:00
-
- ## Timur Fattahov
- - [http://timur.red](http://timur.red)
- - date_published: 2024-07-13T15:13:38.335414+00:00
-
- ## We Are Code Red
- - [https://wearecode.red](https://wearecode.red)
- - date_published: 2022-12-05T09:42:04+00:00
 

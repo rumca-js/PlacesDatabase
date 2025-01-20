@@ -1,3 +1,11 @@
+ ## Fundació Gala - Salvador Dalí
+ - [https://salvador-dali.org](https://salvador-dali.org)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Teatre-Museu Dalí50 anys - Teatre-Museu Dalí - 50 anys
+ - [https://tmd50.salvador-dali.org](https://tmd50.salvador-dali.org)
+ - date_published: 2024-12-15T19:15:57.458599+00:00
+
  ## Salvation Army Midwest - The Salvation Army USA Central Territory
  - [https://centralusa.salvationarmy.org](https://centralusa.salvationarmy.org)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -4030,12 +4038,4 @@
  ## Sense about Science
  - [https://senseaboutscience.org](https://senseaboutscience.org)
  - date_published: 2024-07-05T00:00:00+00:00
-
- ## Home - Sense About Science USA
- - [https://senseaboutscienceusa.org](https://senseaboutscienceusa.org)
- - date_published: 2024-07-16T21:50:02.660741+00:00
-
- ## www.sensi.org
- - [https://sensi.org](https://sensi.org)
- - date_published: 2023-03-27T12:35:42+00:00
 

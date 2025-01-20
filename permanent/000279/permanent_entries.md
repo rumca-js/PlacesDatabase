@@ -1,3 +1,7 @@
+ ## Pendo.io - Product Experience and Digital Adoption Solutions
+ - [https://pendoiostg.wpengine.com](https://pendoiostg.wpengine.com)
+ - date_published: 2024-07-30T00:00:00+00:00
+
  ## Homepage - Picturing Black History
  - [https://picturing.wpengine.com](https://picturing.wpengine.com)
  - date_published: 2024-07-02T00:00:00+00:00
@@ -4073,8 +4077,4 @@
  ## The Largest Banks - ​​How to Transfer Money With Only Card Number and CVV (2024)
  - [https://wynndanzur.com](https://wynndanzur.com)
  - date_published: 2024-12-16T11:56:41.873157+00:00
-
- ## Jake Wynn - Public Historian
- - [https://wynninghistory.com](https://wynninghistory.com)
- - date_published: 2024-10-29T18:33:21.567020+00:00
 

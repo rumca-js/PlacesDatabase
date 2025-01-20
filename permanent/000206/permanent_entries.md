@@ -1,3 +1,7 @@
+ ## eSupport | PTC
+ - [https://support.ptc.com](https://support.ptc.com)
+ - date_published: 2024-06-28T11:05:46.372528+00:00
+
  ## Global Leader in Product Lifecycle Management Software | PTC
  - [https://www.ptc.com](https://www.ptc.com)
  - date_published: 2024-04-24T00:00:00+00:00
@@ -4024,9 +4028,4 @@
  ## Python Merchandise for Developers with Style
  - [https://www.pythongear.com](https://www.pythongear.com)
  - date_published: 2024-06-26T22:40:25.199362+00:00
-
- ## Python Graph Gallery | The Python Graph Gallery
- - [https://python-graph-gallery.com](https://python-graph-gallery.com)
- - date_published: 2024-04-16T12:37:20.236899+00:00
- - tags: ['programming', 'code snippets', 'python']
 

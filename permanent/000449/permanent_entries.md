@@ -1,3 +1,11 @@
+ ## Pongo Poetry Project - Poetry Writing for Teens and Youth
+ - [https://pongopoetryproject.org](https://pongopoetryproject.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## PongSat
+ - [https://pongsat.org](https://pongsat.org)
+ - date_published: 2024-05-20T02:49:33.192406+00:00
+
  ## Ponte Jornalismo
  - [https://ponte.org](https://ponte.org)
  - date_published: 2025-01-15T20:19:01.239803+00:00
@@ -4017,12 +4025,4 @@ Ending Institutional America
  ## pytest: helps you write better programs — pytest documentation
  - [https://pytest.org](https://pytest.org)
  - date_published: 2024-05-08T10:50:48.289236+00:00
-
- ## The PyTexas Foundation
- - [http://pytexas.org](http://pytexas.org)
- - date_published: 2024-06-27T14:23:49+00:00
-
- ## Python Insider CN
- - [http://blog-cn.python.org](http://blog-cn.python.org)
- - date_published: 2024-03-13T18:24:35+00:00
 

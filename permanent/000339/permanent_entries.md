@@ -1,3 +1,7 @@
+ ## Study in the Best Hospitality Management School in France
+ - [https://www.vatel.fr](https://www.vatel.fr)
+ - date_published: 2024-07-01T04:48:37.685459+00:00
+
  ## Open Virtualization Platform - VM infrastructure made simple
  - [https://vates.fr](https://vates.fr)
  - date_published: 2024-06-21T21:50:00+00:00
@@ -4032,8 +4036,4 @@ Secrétariat d'État chargé de la Mer
  ## RISD Graphic Design
  - [https://risd.gd](https://risd.gd)
  - date_published: 2025-01-11T17:07:34.440699+00:00
-
- ## v.gd - The ethical URL shortener
- - [https://v.gd](https://v.gd)
- - date_published: 2024-06-22T11:01:33.790288+00:00
 

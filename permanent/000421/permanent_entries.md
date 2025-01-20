@@ -1,3 +1,7 @@
+ ## The Bialystoker Synagogue
+ - [http://www.bialystoker.org](http://www.bialystoker.org)
+ - date_published: 2023-01-08T12:11:49+00:00
+
  ## Biased BBC
  - [http://biasedbbc.org](http://biasedbbc.org)
  - date_published: 2024-06-28T18:49:21.778911+00:00
@@ -4025,8 +4029,4 @@
  ## Bubkes.Org
  - [http://www.bubkes.org](http://www.bubkes.org)
  - date_published: 2024-08-04T00:00:00+00:00
-
- ## Patrick J. Buchanan - Official Website
- - [http://buchanan.org](http://buchanan.org)
- - date_published: 2019-01-25T03:07:10+00:00
 

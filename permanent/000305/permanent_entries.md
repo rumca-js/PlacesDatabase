@@ -1,3 +1,7 @@
+ ## Copenhagen Center for Social Data Science – University of Copenhagen
+ - [https://sodas.ku.dk](https://sodas.ku.dk)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## Søgning – Københavns Universitet
  - [https://soeg.ku.dk](https://soeg.ku.dk)
  - date_published: 2024-04-30T02:42:28.327018+00:00
@@ -4005,8 +4009,4 @@ I box, ...
  ## London School of Economics and Political Science
  - [http://lse.academia.edu](http://lse.academia.edu)
  - date_published: 2024-06-18T11:21:42.097485+00:00
-
- ## Louisiana State University
- - [https://lsu.academia.edu](https://lsu.academia.edu)
- - date_published: 2024-04-30T02:59:34.788657+00:00
 

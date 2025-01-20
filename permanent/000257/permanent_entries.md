@@ -1,3 +1,7 @@
+ ## Lexicon
+ - [https://wordporn.tumblr.com](https://wordporn.tumblr.com)
+ - date_published: 2024-05-07T21:54:51.622128+00:00
+
  ## slowly we unfurl
  - [https://wordsinhaled.tumblr.com](https://wordsinhaled.tumblr.com)
  - date_published: 2024-04-30T00:00:00+00:00
@@ -4049,8 +4053,4 @@ Twitch Rivals
  - [https://tynan.com](https://tynan.com)
  - date_published: 2023-10-25T08:48:20.581559+00:00
  - tags: ['personal']
-
- ## Work · Tynan DeBold
- - [https://tynandebold.com](https://tynandebold.com)
- - date_published: 2023-09-23T16:30:44+00:00
 

@@ -1,3 +1,7 @@
+ ## HAMPTON INN & SUITES BINGHAMTON/VESTAL 3⋆ ::: VESTAL, UNITED STATES ::: COMPARE HOTEL RATES
+ - [https://hampton-inn-suites-binghamton.new-york-state.net](https://hampton-inn-suites-binghamton.new-york-state.net)
+ - date_published: 2024-10-22T04:04:07.580503+00:00
+
  ## HOLIDAY INN LAGUARDIA AIRPORT AT CITIFIELD / FLUSHING ::: NEW YORK, NY ::: COMPARE HOTEL RATES
  - [https://holiday-inn-laguardia-airport.new-york-state.net](https://holiday-inn-laguardia-airport.new-york-state.net)
  - date_published: 2024-10-22T04:05:33.353340+00:00
@@ -4043,8 +4047,4 @@
  ## PidgiWiki
  - [https://www.pidgi.net](https://www.pidgi.net)
  - date_published: 2024-06-22T00:00:00+00:00
-
- ## Pierre Fouché
- - [http://www.pierrefouche.net](http://www.pierrefouche.net)
- - date_published: 2024-11-12T07:42:29+00:00
 

@@ -1,3 +1,11 @@
+ ## Coming Soon
+ - [http://alistair.cockburn.us](http://alistair.cockburn.us)
+ - date_published: 2024-07-19T19:00:56.579620+00:00
+
+ ## The Dartmouth Boutique Bed and Breakfast
+ - [https://www.codecirc.us](https://www.codecirc.us)
+ - date_published: 2024-12-14T14:45:12.943988+00:00
+
  ## Software Engineering Services Company - CodeIT
  - [https://codeit.us](https://codeit.us)
  - date_published: 2025-01-02T05:05:31.824258+00:00
@@ -4015,12 +4023,4 @@ lucific.
  ## Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing - Zoom
  - [https://eclipse.zoom.us](https://eclipse.zoom.us)
  - date_published: 2024-07-18T12:27:54.542719+00:00
-
- ## Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing - Zoom
- - [https://efedu.zoom.us](https://efedu.zoom.us)
- - date_published: 2024-06-18T06:56:06.691050+00:00
-
- ## EPFL Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing - Zoom
- - [https://epfl.zoom.us](https://epfl.zoom.us)
- - date_published: 2024-07-16T22:02:12.620277+00:00
 

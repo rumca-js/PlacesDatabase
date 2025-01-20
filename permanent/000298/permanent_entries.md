@@ -1,3 +1,7 @@
+ ## Startseite - Steinbeis-Innovationszentrum Transferplattform Industrie 4.0 – TPBW I4.0
+ - [https://tpbw-i40.de](https://tpbw-i40.de)
+ - date_published: 2024-07-19T17:05:34.341715+00:00
+
  ## Thomas Pöppelmann
  - [http://tpoeppelmann.de](http://tpoeppelmann.de)
  - date_published: 2022-11-20T01:44:28+00:00
@@ -4033,8 +4037,4 @@
  ## Universitätsbibliothek Rostock
  - [https://find.ub.uni-rostock.de](https://find.ub.uni-rostock.de)
  - date_published: 2024-10-29T16:19:47.502495+00:00
-
- ## Start @ RosDok
- - [https://rosdok.uni-rostock.de](https://rosdok.uni-rostock.de)
- - date_published: 2024-10-29T16:19:52.206183+00:00
 

@@ -1,3 +1,7 @@
+ ## Old Trapper Smoked Snacks, Beef Jerky, Beef Sticks, Made In USA
+ - [https://oldtrapper.com](https://oldtrapper.com)
+ - date_published: 2025-01-16T11:48:46.986643+00:00
+
  ## Olduk Photos
  - [http://www.oldukphotos.com](http://www.oldukphotos.com)
  - date_published: 2024-10-18T19:01:42.084662+00:00
@@ -4019,8 +4023,4 @@
  ## STOVE
  - [https://indie.onstove.com](https://indie.onstove.com)
  - date_published: 2024-04-28T03:14:58.692621+00:00
-
- ## STOVE-스토브
- - [https://member.onstove.com](https://member.onstove.com)
- - date_published: 2024-07-29T07:53:28+00:00
 

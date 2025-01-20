@@ -1,3 +1,7 @@
+ ## ALLNIGHT NIPPON JAM / オールナイトニッポンJAM
+ - [https://annjam.jp](https://annjam.jp)
+ - date_published: 2024-04-01T09:09:09+00:00
+
  ## 安心車マガジン - 中古車買取・車購入の情報メディア -
  - [https://anshinkuruma.jp](https://anshinkuruma.jp)
  - date_published: 2024-06-19T11:33:37+00:00
@@ -4003,8 +4007,4 @@
  ## mixi(ミクシィ)
  - [http://m.mixi.jp](http://m.mixi.jp)
  - date_published: 2024-07-06T23:16:53.741161+00:00
-
- ## mixiニュース
- - [http://news.mixi.jp](http://news.mixi.jp)
- - date_published: 2024-07-06T00:00:00+00:00
 

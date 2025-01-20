@@ -1,3 +1,7 @@
+ ## Paris.fr, site officiel de la Ville de Paris
+ - [https://www.paris.fr](https://www.paris.fr)
+ - date_published: 2024-08-18T17:17:07.437372+00:00
+
  ## Les collections en ligne des musées de la Ville de Paris
  - [https://www.parismuseescollections.paris.fr](https://www.parismuseescollections.paris.fr)
  - date_published: 2024-10-20T06:39:01.979293+00:00
@@ -3997,8 +4001,4 @@
  ## Magazine Vanity Fair France
  - [https://www.vanityfair.fr](https://www.vanityfair.fr)
  - date_published: 2024-05-06T21:32:39.400442+00:00
-
- ## Study in the Best Hospitality Management School in France
- - [https://www.vatel.fr](https://www.vatel.fr)
- - date_published: 2024-07-01T04:48:37.685459+00:00
 

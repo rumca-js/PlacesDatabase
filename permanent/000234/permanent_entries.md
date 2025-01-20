@@ -1,3 +1,7 @@
+ ## Custom Website Design & Branding for Online Businesses | Studio 1 Design
+ - [https://studio1design.com](https://studio1design.com)
+ - date_published: 2024-05-09T06:53:34.675156+00:00
+
  ## Studio2 Design + Digital | St. Paul MN Graphic Design & Web Design
  - [https://studio2info.com](https://studio2info.com)
  - date_published: 2023-06-21T00:00:00+00:00
@@ -4089,8 +4093,4 @@
  ## Andelman Unleashed | David A. Andelman | Substack
  - [https://daandelman.substack.com](https://daandelman.substack.com)
  - date_published: 2024-10-19T11:57:29.170818+00:00
-
- ## Dada Drummer Almanach | Damon Krukowski | Substack
- - [https://dadadrummer.substack.com](https://dadadrummer.substack.com)
- - date_published: 2024-04-14T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## 名古屋大学博物館
+ - [https://www.num.nagoya-u.ac.jp](https://www.num.nagoya-u.ac.jp)
+ - date_published: 2024-06-23T22:30:30.511911+00:00
+
  ## 名古屋大学 教育基盤連携本部
  - [http://www.nuqa.nagoya-u.ac.jp](http://www.nuqa.nagoya-u.ac.jp)
  - date_published: 2023-11-14T01:36:33+00:00
@@ -4001,8 +4005,4 @@
  ## 神戸新聞NEXT
  - [https://kobe-np.co.jp](https://kobe-np.co.jp)
  - date_published: 2024-05-10T06:44:30.219484+00:00
-
- ## 神戸新聞松方ホール | matsukata hall
- - [https://matsukata.kobe-np.co.jp](https://matsukata.kobe-np.co.jp)
- - date_published: 2024-07-12T23:22:25.676295+00:00
 

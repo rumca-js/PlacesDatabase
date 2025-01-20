@@ -1,3 +1,7 @@
+ ## Kinderhilfswerk World Vision | Gemeinsam stark für Kinder
+ - [https://worldvision.de](https://worldvision.de)
+ - date_published: 2024-06-25T21:13:57+00:00
+
  ## WORTMANN AG - IT Made in Germany
  - [https://b2b.wortmann.de](https://b2b.wortmann.de)
  - date_published: 2024-07-13T13:52:35.736623+00:00
@@ -4045,8 +4049,4 @@ Bibliotheken / Z39.50
  ## Bondix Wiki
  - [https://wiki.bondix.dev](https://wiki.bondix.dev)
  - date_published: 2024-08-22T06:57:40+00:00
-
- ## Boot.dev Blog
- - [https://blog.boot.dev](https://blog.boot.dev)
- - date_published: 2023-10-25T18:35:42.140501+00:00
 

@@ -1,3 +1,7 @@
+ ## listmonk - Mailing list
+ - [https://newsletter.kolaente.de](https://newsletter.kolaente.de)
+ - date_published: 2024-07-18T05:37:50.245911+00:00
+
  ## CB Kollinger Metallbau, Memmingen, Metallverarbeitung
  - [https://www.kollinger.de](https://www.kollinger.de)
  - date_published: 2024-12-25T14:30:39.484139+00:00
@@ -4015,8 +4019,4 @@
  ## Startseite
  - [https://eth.mpg.de](https://eth.mpg.de)
  - date_published: 2024-01-18T00:00:00+00:00
-
- ## Home · MPE - Events (Indico)
- - [https://events.mpe.mpg.de](https://events.mpe.mpg.de)
- - date_published: 2024-10-14T23:56:39.375243+00:00
 

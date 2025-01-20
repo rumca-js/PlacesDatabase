@@ -1,3 +1,7 @@
+ ## Yovko Lambrev · Cloud & IT Infrastructure Architect
+ - [https://cv.yovko.net](https://cv.yovko.net)
+ - date_published: 2022-04-04T16:58:35+00:00
+
  ## Plausible · Web analytics
  - [https://stats.yovko.net](https://stats.yovko.net)
  - date_published: 2024-07-10T07:55:31.691385+00:00
@@ -4040,8 +4044,4 @@
  ## Zero Gas Fee EVM Blockchain - AppChains Built for Web3 Gaming | SKALE
  - [https://skale.network](https://skale.network)
  - date_published: 2024-09-25T00:00:00+00:00
-
- ## Smart Layer
- - [https://smartlayer.network](https://smartlayer.network)
- - date_published: 2024-06-16T03:37:23.929820+00:00
 

@@ -1,3 +1,11 @@
+ ## UCL Faculty of Laws
+ - [http://www.laws.ucl.ac.uk](http://www.laws.ucl.ac.uk)
+ - date_published: 2017-08-18T14:03:12+00:00
+
+ ## UCL School of Management
+ - [https://www.mgmt.ucl.ac.uk](https://www.mgmt.ucl.ac.uk)
+ - date_published: 2024-05-08T00:00:00+00:00
+
  ## Resources and Tools in Speech, Hearing and Phonetics
  - [http://www.phon.ucl.ac.uk](http://www.phon.ucl.ac.uk)
  - date_published: 2024-07-02T05:40:35.850541+00:00
@@ -4007,12 +4015,4 @@
  ## Shed Wars
  - [http://shedwars.blogspot.co.uk](http://shedwars.blogspot.co.uk)
  - date_published: 2024-12-31T23:35:02+00:00
-
- ## First World War on Film
- - [http://shootingthegreatwar.blogspot.co.uk](http://shootingthegreatwar.blogspot.co.uk)
- - date_published: 2024-07-14T20:59:48+00:00
-
- ## Blogger
- - [http://sibilantfricative.blogspot.co.uk](http://sibilantfricative.blogspot.co.uk)
- - date_published: 2025-01-01T03:06:14.087897+00:00
 

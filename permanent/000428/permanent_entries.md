@@ -1,3 +1,7 @@
+ ## ECOOP 2020
+ - [https://2020.ecoop.org](https://2020.ecoop.org)
+ - date_published: 2024-06-16T21:14:12.500440+00:00
+
  ## ECOOP 2021
  - [https://2021.ecoop.org](https://2021.ecoop.org)
  - date_published: 2024-06-16T21:15:01.199779+00:00
@@ -4031,8 +4035,4 @@ Home Page
  ## Ethereum Lima – Bienvenidos a la comunidad de Ethereum en Lima, Perú
  - [https://ethlima.org](https://ethlima.org)
  - date_published: 2024-04-25T00:00:00+00:00
-
- ## Ethereum Lima Day 2024
- - [http://ethlimaday.org](http://ethlimaday.org)
- - date_published: 2024-06-16T04:00:55.710523+00:00
 

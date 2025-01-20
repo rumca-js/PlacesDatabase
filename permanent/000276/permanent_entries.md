@@ -1,3 +1,7 @@
+ ## Pedagogik för programmering
+ - [https://programmeringspedagogik.wordpress.com](https://programmeringspedagogik.wordpress.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
  ## Programming Ideas With Jake
  - [https://programmingideaswithjake.wordpress.com](https://programmingideaswithjake.wordpress.com)
  - date_published: 2024-06-23T00:00:00+00:00
@@ -4004,8 +4008,4 @@
  ## Tales of One City
  - [https://talesofonecity.wordpress.com](https://talesofonecity.wordpress.com)
  - date_published: 2024-10-21T22:51:39.035641+00:00
-
- ## Tales to Astound!
- - [https://talestoastound.wordpress.com](https://talestoastound.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
 

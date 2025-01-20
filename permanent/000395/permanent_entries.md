@@ -1,3 +1,7 @@
+ ## Home Doctor
+ - [https://be20dv2z-32yfkf1wkl5y55kcn.hop.clickbank.net](https://be20dv2z-32yfkf1wkl5y55kcn.hop.clickbank.net)
+ - date_published: 2024-05-21T10:37:43+00:00
+
  ## Deliver Correct Real Estate Market Valuation and Property Tax Appeal Course for Residential and Business Real Estate
  - [https://c177aggkwcqeq51jgte8wp-5z7.hop.clickbank.net](https://c177aggkwcqeq51jgte8wp-5z7.hop.clickbank.net)
  - date_published: 2022-01-12T21:01:42+00:00
@@ -4043,8 +4047,4 @@
  - [https://dfworkshop.net](https://dfworkshop.net)
  - date_published: 2024-01-12T00:00:00+00:00
  - tags: ['video game port', 'open source']
-
- ## Daggerfall Workshop Forums - Index page
- - [http://forums.dfworkshop.net](http://forums.dfworkshop.net)
- - date_published: 2024-04-02T00:00:00+00:00
 

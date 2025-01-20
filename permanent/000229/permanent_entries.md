@@ -1,3 +1,7 @@
+ ## Supply Chain Management Jobs | Commerce Development | SPS Careers
+ - [https://jobs.spscommerce.com](https://jobs.spscommerce.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
  ## SPS Commerce | Retail Solutions For You
  - [https://spscommerce.com](https://spscommerce.com)
  - date_published: 2024-04-22T00:00:00+00:00
@@ -4012,8 +4016,4 @@
  ## Hot & Bothered
  - [https://hotandbotheredrompod.squarespace.com](https://hotandbotheredrompod.squarespace.com)
  - date_published: 2024-06-18T15:30:12.024612+00:00
-
- ## Hudson Crossing Park
- - [https://hudsoncrossing-park.squarespace.com](https://hudsoncrossing-park.squarespace.com)
- - date_published: 2024-05-08T07:32:48.417714+00:00
 

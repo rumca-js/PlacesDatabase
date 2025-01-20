@@ -1,3 +1,7 @@
+ ## Home
+ - [https://www.localnewslive.com](https://www.localnewslive.com)
+ - date_published: 2024-12-23T09:45:48+00:00
+
  ## Local Pages
  - [https://localpages.com](https://localpages.com)
  - date_published: 2024-06-29T01:42:30.178358+00:00
@@ -4007,8 +4011,4 @@
  ## GitHub - mmckegg/loop-drop-app: [unmaintained] MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs
  - [http://loopjs.com](http://loopjs.com)
  - date_published: 2025-01-09T16:35:25.163886+00:00
-
- ## Music Samples, Royalty Free Sounds And Loops
- - [http://www.loopmasters.com](http://www.loopmasters.com)
- - date_published: 2024-06-30T07:52:18.386523+00:00
 

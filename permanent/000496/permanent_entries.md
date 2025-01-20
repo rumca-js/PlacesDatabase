@@ -1,3 +1,11 @@
+ ## Home - Edinburgh Science
+ - [https://www.sciencefestival.co.uk](https://www.sciencefestival.co.uk)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Scifitness
+ - [http://scifitness.co.uk](http://scifitness.co.uk)
+ - date_published: 2023-11-10T08:11:22+00:00
+
  ## Scocha - Scottish Folk 'n' Roll
  - [https://www.scocha.co.uk](https://www.scocha.co.uk)
  - date_published: 1999-01-01T00:00:00+00:00
@@ -4013,12 +4021,4 @@ Bracknell
  ## Kingston Communications
  - [http://www.uwdcvideos.co.uk](http://www.uwdcvideos.co.uk)
  - date_published: 2024-10-21T14:49:03.241427+00:00
-
- ## University of Westminster Press
- - [https://www.uwestminsterpress.co.uk](https://www.uwestminsterpress.co.uk)
- - date_published: 2024-07-10T09:41:11.945437+00:00
-
- ## UX Glasgow - Informal, co-operative monthly meetup for everyone who cares about user experience.
- - [http://uxglasgow.co.uk](http://uxglasgow.co.uk)
- - date_published: 2024-07-10T09:42:23.768714+00:00
 

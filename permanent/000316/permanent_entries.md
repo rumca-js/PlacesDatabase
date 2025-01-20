@@ -1,3 +1,7 @@
+ ## Honors College | Rutgers University-Camden
+ - [https://honors.camden.rutgers.edu](https://honors.camden.rutgers.edu)
+ - date_published: 2024-07-01T18:32:19.567884+00:00
+
  ## Welcome to the Health Professions Office (HPO)
  - [https://hpo.rutgers.edu](https://hpo.rutgers.edu)
  - date_published: 2024-07-01T18:42:32+00:00
@@ -4003,8 +4007,4 @@
  ## Stony Brook University
  - [http://www.sunysb.edu](http://www.sunysb.edu)
  - date_published: 2024-06-23T20:38:32.041303+00:00
-
- ## Shahjalal University of Science & Technology
- - [http://www.sust.edu](http://www.sust.edu)
- - date_published: 2024-07-02T19:03:03.926347+00:00
 

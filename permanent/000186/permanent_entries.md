@@ -1,3 +1,7 @@
+ ## Soluções em big data, DMP e web analytics | Navegg
+ - [https://www.navegg.com](https://www.navegg.com)
+ - date_published: 2024-05-06T17:45:33.565656+00:00
+
  ## 네이버 학술정보
  - [https://academic.naver.com](https://academic.naver.com)
  - date_published: 2024-08-18T14:44:05.340096+00:00
@@ -4025,8 +4029,4 @@
  ## NETELLER | Signin
  - [https://member.neteller.com](https://member.neteller.com)
  - date_published: 2024-06-13T08:27:28+00:00
-
- ## NETELLER - Cyfrowy portfel dla wszystkich
- - [https://showcase.neteller.com](https://showcase.neteller.com)
- - date_published: 2024-06-16T16:33:39.835401+00:00
 

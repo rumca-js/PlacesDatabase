@@ -1,3 +1,7 @@
+ ## LBO News from Doug Henwood
+ - [http://doughenwood.wordpress.com](http://doughenwood.wordpress.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
  ## Doug's Archaeology
  - [https://dougsarchaeology.wordpress.com](https://dougsarchaeology.wordpress.com)
  - date_published: 2024-08-18T00:00:00+00:00
@@ -3999,8 +4003,4 @@
  ## Detour with Me by Ileana Alberti
  - [http://ileanaalberti.wordpress.com](http://ileanaalberti.wordpress.com)
  - date_published: 2024-06-26T07:33:16.202730+00:00
-
- ## Heather LeFevre
- - [http://illchangeyourlife.wordpress.com](http://illchangeyourlife.wordpress.com)
- - date_published: 2024-09-09T13:21:16.841833+00:00
 

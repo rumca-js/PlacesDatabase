@@ -1,4 +1,12 @@
  ## Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing - Zoom
+ - [https://efedu.zoom.us](https://efedu.zoom.us)
+ - date_published: 2024-06-18T06:56:06.691050+00:00
+
+ ## EPFL Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing - Zoom
+ - [https://epfl.zoom.us](https://epfl.zoom.us)
+ - date_published: 2024-07-16T22:02:12.620277+00:00
+
+ ## Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing - Zoom
  - [https://ethglobal.zoom.us](https://ethglobal.zoom.us)
  - date_published: 2024-09-23T11:55:04.992776+00:00
 
@@ -4006,12 +4014,4 @@ Sharing - Zoom
  ## CHI NHÁNH PHÂN PHỐI SẢN PHẨM LỌC DẦU NGHI SƠN (PVNDB)
  - [http://pvndb.vn](http://pvndb.vn)
  - date_published: 2024-10-22T08:44:38.385240+00:00
-
- ## TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP
- - [https://www.pvpower.vn](https://www.pvpower.vn)
- - date_published: 2024-10-22T08:47:55.673288+00:00
-
- ## Báo Quân đội nhân dân | Tin tức quân đội, quốc phòng | Bảo vệ Tổ quốc
- - [https://www.qdnd.vn](https://www.qdnd.vn)
- - date_published: 2024-10-22T08:15:41.150398+00:00
 

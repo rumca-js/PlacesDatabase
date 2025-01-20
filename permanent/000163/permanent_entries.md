@@ -1,3 +1,7 @@
+ ## Home - Lance Mindheim Custom Model Railroad Builder
+ - [http://lancemindheim.com](http://lancemindheim.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## LancerHacks VII
  - [https://lancerhacks.com](https://lancerhacks.com)
  - date_published: 2024-03-09T00:00:00+00:00
@@ -4020,8 +4024,4 @@ Chamber Music, Symphony
  - [https://ldpreload.com](https://ldpreload.com)
  - date_published: 2024-05-25T06:40:56.407439+00:00
  - tags: ['personal']
-
- ## LDS News | Temple Updates, Church News, & Daily Inspiration
- - [https://www.ldsdaily.com](https://www.ldsdaily.com)
- - date_published: 2024-07-18T00:00:00+00:00
 

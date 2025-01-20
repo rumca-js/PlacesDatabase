@@ -1,4 +1,8 @@
  ## Virginia Tech News
+ - [https://vtnews.vt.edu](https://vtnews.vt.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Virginia Tech News
  - [https://vtx.vt.edu](https://vtx.vt.edu)
  - date_published: 2024-09-16T00:00:00+00:00
 
@@ -4003,8 +4007,4 @@
  ## University Relations / Enrollment Management | Brand Guide
  - [http://brand.wvu.edu](http://brand.wvu.edu)
  - date_published: 2024-07-02T15:20:18.548946+00:00
-
- ## Events Calendar
- - [https://calendar.wvu.edu](https://calendar.wvu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
 

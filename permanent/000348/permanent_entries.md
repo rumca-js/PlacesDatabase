@@ -1,4 +1,8 @@
  ## Entering MPlayer homepage
+ - [https://lists.mplayerhq.hu](https://lists.mplayerhq.hu)
+ - date_published: 2011-04-22T00:49:13+00:00
+
+ ## Entering MPlayer homepage
  - [https://mplayerhq.hu](https://mplayerhq.hu)
  - date_published: 2011-04-22T00:49:13+00:00
  - tags: ['media player', 'video player']
@@ -4004,8 +4008,4 @@
  ## Koops Udara Nasional
  - [https://koopsudnas.tni-au.mil.id](https://koopsudnas.tni-au.mil.id)
  - date_published: 2024-02-02T00:00:00+00:00
-
- ## Akif Al Hakim | Freelance Frontend Developer
- - [https://akif.my.id](https://akif.my.id)
- - date_published: 2024-05-11T10:20:46.912736+00:00
 

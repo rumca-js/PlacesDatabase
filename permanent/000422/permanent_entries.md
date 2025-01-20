@@ -1,3 +1,7 @@
+ ## Patrick J. Buchanan - Official Website
+ - [http://buchanan.org](http://buchanan.org)
+ - date_published: 2019-01-25T03:07:10+00:00
+
  ## Jonathan Buchholz
  - [https://buchh.org](https://buchh.org)
  - date_published: 2024-05-18T03:09:36+00:00
@@ -4025,8 +4029,4 @@ The CCSDS Collaborative Work Environment (CWE)
  ## Center For Politics - The Center for Politics at UVA
  - [https://centerforpolitics.org](https://centerforpolitics.org)
  - date_published: 2024-12-13T02:36:40.580076+00:00
-
- ## Center For Politics - The Center for Politics at UVA
- - [http://www.centerforpolitics.org](http://www.centerforpolitics.org)
- - date_published: 2024-04-30T00:00:00+00:00
 

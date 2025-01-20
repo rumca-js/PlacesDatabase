@@ -1,3 +1,7 @@
+ ## Replit
+ - [https://devday.replit.com](https://devday.replit.com)
+ - date_published: 2024-04-08T16:14:11+00:00
+
  ## Home | Replit Docs
  - [https://docs.replit.com](https://docs.replit.com)
  - date_published: 2024-04-28T04:38:17.192676+00:00
@@ -4035,8 +4039,4 @@
  ## Richard Hartley
  - [http://www.richardhartley.com](http://www.richardhartley.com)
  - date_published: 2024-10-21T16:59:20.624672+00:00
-
- ## Richard Heinberg
- - [https://richardheinberg.com](https://richardheinberg.com)
- - date_published: 2024-07-13T09:32:09.768888+00:00
 

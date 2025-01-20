@@ -1,3 +1,7 @@
+ ## Center For Politics - The Center for Politics at UVA
+ - [http://www.centerforpolitics.org](http://www.centerforpolitics.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Center for Reducing Suffering
  - [https://centerforreducingsuffering.org](https://centerforreducingsuffering.org)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -4045,8 +4049,4 @@ feel and do
  ## Climate Central
  - [https://giving.climatecentral.org](https://giving.climatecentral.org)
  - date_published: 2024-09-25T16:32:48.045495+00:00
-
- ## Resources | Climate Central
- - [https://medialibrary.climatecentral.org](https://medialibrary.climatecentral.org)
- - date_published: 2024-09-25T16:33:32.170065+00:00
 
