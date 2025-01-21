@@ -1,3 +1,496 @@
+ ## agm
+ - [https://nomad.blog](https://nomad.blog)
+ - date_published: 2024-06-30T10:13:52.135456+00:00
+
+ ## Nomad Online
+ - [https://nomadonline.blog](https://nomadonline.blog)
+ - date_published: 2024-09-06T01:02:24+00:00
+
+ ## Notes From Pavis
+ - [https://notesfrompavis.blog](https://notesfrompavis.blog)
+ - date_published: 2025-01-01T11:53:59.464478+00:00
+
+ ## Nothing But The Truth
+ - [https://nothingbutthetruth.blog](https://nothingbutthetruth.blog)
+ - date_published: 2024-09-02T23:06:29+00:00
+
+ ## Nothing Radical
+ - [https://nothingradical.blog](https://nothingradical.blog)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## notizBlog
+ - [https://notiz.blog](https://notiz.blog)
+ - date_published: 2024-01-07T08:45:39.431652+00:00
+
+ ## NSMC Internship
+ - [https://nsmc.blog](https://nsmc.blog)
+ - date_published: 2024-06-28T11:51:32.290325+00:00
+
+ ## NTDEV
+ - [https://ntdev.blog](https://ntdev.blog)
+ - date_published: 2024-05-07T15:27:08.241538+00:00
+
+ ## NutriBites
+ - [https://nutribites.blog](https://nutribites.blog)
+ - date_published: 2024-08-18T20:45:09.332370+00:00
+
+ ## Something Odd!
+ - [https://odd.blog](https://odd.blog)
+ - date_published: 2024-06-30T10:13:30.320303+00:00
+
+ ## COGITO
+ - [https://oecdcogito.blog](https://oecdcogito.blog)
+ - date_published: 2025-01-08T06:48:18.888506+00:00
+
+ ## ECOSCOPE
+ - [https://oecdecoscope.blog](https://oecdecoscope.blog)
+ - date_published: 2025-01-06T11:16:32+00:00
+
+ ## Oh Hello Ana
+ - [https://ohhelloana.blog](https://ohhelloana.blog)
+ - date_published: 2024-01-03T04:05:44.287778+00:00
+
+ ## OldLady With Autism
+ - [https://oldladywithautism.blog](https://oldladywithautism.blog)
+ - date_published: 2024-09-03T23:02:06.728939+00:00
+
+ ## Om Malik
+ - [https://om.blog](https://om.blog)
+ - date_published: 2024-05-10T03:47:47.138641+00:00
+
+ ## OncoBites
+ - [https://oncobites.blog](https://oncobites.blog)
+ - date_published: 2024-12-21T13:33:19.630444+00:00
+
+ ## Blogging On Rails
+ - [https://onrails.blog](https://onrails.blog)
+ - date_published: 2024-04-28T05:57:03.045256+00:00
+ - tags: ['ruby', 'ruby on rails']
+
+ ## Open Notes
+ - [https://opennotes.blog](https://opennotes.blog)
+ - date_published: 2024-07-06T16:43:55+00:00
+
+ ## OSINT Team
+ - [https://osintteam.blog](https://osintteam.blog)
+ - date_published: 2024-12-22T13:05:30.255251+00:00
+
+ ## Outside the Asylum
+ - [https://outsidetheasylum.blog](https://outsidetheasylum.blog)
+ - date_published: 2024-05-08T09:57:24.649518+00:00
+
+ ## overcast blog
+ - [https://overcast.blog](https://overcast.blog)
+ - date_published: 2024-10-22T08:19:34.456972+00:00
+
+ - [https://overemployee.blog](https://overemployee.blog)
+ - date_published: 2024-01-09T02:26:42.986613+00:00
+ - date_dead_since: 2025-01-04T21:45:00.233090+00:00
+
+ ## Andrew Ozz on WordPress
+ - [https://ozz.blog](https://ozz.blog)
+ - date_published: 2024-06-30T10:13:50.300772+00:00
+
+ ## Padlet Gazette
+ - [https://padlet.blog](https://padlet.blog)
+ - date_published: 2024-05-06T15:25:23.339273+00:00
+
+ ## Painting In The Dark
+ - [https://paintinginthedark.blog](https://paintinginthedark.blog)
+ - date_published: 2024-06-18T23:30:07.623393+00:00
+
+ ## p410n3 blog – Palone's Blog. I sometimes write stuff about technology here.
+ - [https://palone.blog](https://palone.blog)
+ - date_published: 2021-06-06T00:00:00+00:00
+
+ ## Paperless
+ - [https://paperless.blog](https://paperless.blog)
+ - date_published: 2023-10-25T08:57:53.071595+00:00
+ - tags: ['personal']
+
+ ## Pat’s Substack | Pat Murphy | Substack
+ - [https://www.patmurphy.blog](https://www.patmurphy.blog)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Paul's Picks
+ - [https://paulspicks.blog](https://paulspicks.blog)
+ - date_published: 2024-12-12T06:03:14.586986+00:00
+
+ ## Penandpaper.blog
+ - [https://penandpaper.blog](https://penandpaper.blog)
+ - date_published: 2025-01-16T14:46:52.244884+00:00
+
+ ## Pensions and Benefits
+ - [https://pensionsandbenefits.blog](https://pensionsandbenefits.blog)
+ - date_published: 2024-09-15T23:33:49.216420+00:00
+
+ ## Perceiving Systems Blog
+ - [https://perceiving-systems.blog](https://perceiving-systems.blog)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Petros Amoiridis
+ - [https://petros.blog](https://petros.blog)
+ - date_published: 2023-12-15T21:43:49.329150+00:00
+ - tags: ['personal']
+
+ ## Pine.blog – The Official Blog of Pine.blog | A Feed Reader Like Never Before
+ - [https://blog.pine.blog](https://blog.pine.blog)
+ - date_published: 2024-05-08T03:30:27.711793+00:00
+
+ ## Pine.blog
+ - [https://pine.blog](https://pine.blog)
+ - date_published: 2024-05-08T03:30:24.768222+00:00
+
+ ## Captcha Page
+ - [https://p.pine.blog](https://p.pine.blog)
+ - date_published: 2024-07-03T18:04:31.621596+00:00
+
+ ## Niklas's blog
+ - [https://pivic.blog](https://pivic.blog)
+ - date_published: 2024-01-22T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Pixelfed Blog
+ - [https://pixelfed.blog](https://pixelfed.blog)
+ - date_published: 2023-10-25T12:00:46.045454+00:00
+
+ ## pixiv inside
+ - [https://inside.pixiv.blog](https://inside.pixiv.blog)
+ - date_published: 2024-06-18T22:08:57.141279+00:00
+
+ ## PJ Onori’s blog
+ - [https://pjonori.blog](https://pjonori.blog)
+ - date_published: 2024-07-12T21:38:20.048676+00:00
+
+ ## Plastic Craic
+ - [https://plasticcraic.blog](https://plasticcraic.blog)
+ - date_published: 2024-10-26T17:53:44.537968+00:00
+
+ ## Power Moves
+ - [https://powermoves.blog](https://powermoves.blog)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Pragmatic Environmentalist of New  York
+ - [https://pragmaticenvironmentalistofnewyork.blog](https://pragmaticenvironmentalistofnewyork.blog)
+ - date_published: 2024-08-19T08:08:13.859421+00:00
+
+ ## Prashanth's Blog
+ - [https://prashanths.blog](https://prashanths.blog)
+ - date_published: 2023-12-17T05:07:12.878570+00:00
+ - tags: ['personal']
+
+ ## Privacy World | Data Privacy, Security and Innovation News
+ - [https://privacyworld.blog](https://privacyworld.blog)
+ - date_published: 2024-09-15T23:34:12.139500+00:00
+
+ ## Reason #48: Strangers on a Train - George, Probably Blogs
+ - [https://probably.blog](https://probably.blog)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Product Leaders
+ - [https://productleaders.blog](https://productleaders.blog)
+ - date_published: 2024-06-09T20:46:29+00:00
+ - tags: ['business']
+
+ ## coldhearted scientist وداد
+ - [https://profacero.blog](https://profacero.blog)
+ - date_published: 2024-10-19T08:03:46.738660+00:00
+
+ ## James Mills
+		- James Mills
+ - [https://prologic.blog](https://prologic.blog)
+ - date_published: 2024-03-06T08:45:28+00:00
+ - tags: ['personal']
+
+ ## The Stream of Thought That Waters the Garden
+ - [https://quantumgardener.blog](https://quantumgardener.blog)
+ - date_published: 2023-11-29T14:25:56.871546+00:00
+ - tags: ['personal']
+
+ ## Questions Considered
+ - [https://questionsconsidered.blog](https://questionsconsidered.blog)
+ - date_published: 2024-08-25T00:00:00+00:00
+
+ ## Quigs.blog
+ - [https://quigs.blog](https://quigs.blog)
+ - date_published: 2023-12-18T01:34:04.013330+00:00
+ - tags: ['personal']
+
+ ## Simple Analytics
+ - [https://readers.quigs.blog](https://readers.quigs.blog)
+ - date_published: 2020-01-10T12:35:14+00:00
+
+ ## Raku Advent Calendar – Raku is a multi-paradigm language where there's more than one way to do it
+ - [https://raku-advent.blog](https://raku-advent.blog)
+ - date_published: 2023-10-25T12:00:54.086156+00:00
+
+ ## Rakudo Weekly News
+ - [https://rakudoweekly.blog](https://rakudoweekly.blog)
+ - date_published: 2024-07-04T03:52:35.365604+00:00
+
+ ## The Rattlin' Blog
+ - [https://rattlin.blog](https://rattlin.blog)
+ - date_published: 2023-03-28T00:32:12+00:00
+
+ ## Jeannette Goon
+ - [https://realhumangirl.blog](https://realhumangirl.blog)
+ - date_published: 2023-12-02T10:25:54.865102+00:00
+ - tags: ['personal']
+
+ ## Realize Engineering | An engineering commentary for everyone every Wednesday since 2012
+ - [https://realizeengineering.blog](https://realizeengineering.blog)
+ - date_published: 2023-10-25T12:01:02.147552+00:00
+
+ ## The REAPER Blog
+ - [https://reaper.blog](https://reaper.blog)
+ - date_published: 2024-08-08T16:08:57+00:00
+
+ ## (no title)
+ - [https://redcrossplus.blog](https://redcrossplus.blog)
+ - date_published: 2024-09-13T16:51:46.691349+00:00
+
+ ## Re-enchantment Of The World
+ - [https://reenchantmentoftheworld.blog](https://reenchantmentoftheworld.blog)
+ - date_published: 2024-09-17T17:49:31.101995+00:00
+
+ ## Reese Richardson
+ - [https://reeserichardson.blog](https://reeserichardson.blog)
+ - date_published: 2024-02-04T02:18:53.099471+00:00
+
+ ## regenbogenfabrik 40
+ - [https://regenbogenfabrik40.blog](https://regenbogenfabrik40.blog)
+ - date_published: 2024-07-14T03:13:21.017828+00:00
+
+ ## Research Degree Insiders
+ - [https://researchinsiders.blog](https://researchinsiders.blog)
+ - date_published: 2024-05-02T10:13:36.139493+00:00
+
+ ## Retro365
+ - [https://retro365.blog](https://retro365.blog)
+ - date_published: 2024-07-13T05:03:42.714717+00:00
+
+ ## Cooking Pancakes | revi
+ - [https://revi.blog](https://revi.blog)
+ - date_published: 2024-06-10T07:07:48.083451+00:00
+ - tags: ['personal']
+
+ ## home · Joseph Thacker
+ - [https://rez0.blog](https://rez0.blog)
+ - date_published: 2023-10-25T12:01:04.204782+00:00
+
+ ## Rich Tabor
+ - [https://rich.blog](https://rich.blog)
+ - date_published: 2024-04-03T12:46:23.521811+00:00
+ - tags: ['personal']
+
+ ## Richard Bloomfield's Blog • Technology, church music, bicycles, and life in Ireland
+ - [https://richardbloomfield.blog](https://richardbloomfield.blog)
+ - date_published: 2024-04-23T10:12:37.646980+00:00
+ - tags: ['personal']
+
+ ## Rightmove Tech Blog
+ - [https://rightmove.blog](https://rightmove.blog)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Riley Harris
+ - [https://rileyharris.blog](https://rileyharris.blog)
+ - date_published: 2024-01-19T13:02:00.009123+00:00
+
+ ## Rox’s Picks | Roxine Kee | Substack
+ - [https://roxine.blog](https://roxine.blog)
+ - date_published: 2024-08-08T22:50:04.278551+00:00
+
+ ## RTP Live JAGOANSPIN : Info Bocoran Slot Gacor Hari ini
+ - [https://rtpjsgacor.blog](https://rtpjsgacor.blog)
+ - date_published: 2024-12-29T03:07:46+00:00
+
+ ## RunSignup Blog
+ - [https://runsignup.blog](https://runsignup.blog)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## John Payne
+ - [https://jpayne.sackheads.blog](https://jpayne.sackheads.blog)
+ - date_published: 2024-07-25T19:39:05+00:00
+
+ ## Comunidad Saker Latinoamérica
+ - [https://sakerlatam.blog](https://sakerlatam.blog)
+ - date_published: 2024-12-20T09:12:43.118134+00:00
+
+ ## Saptak's Blog
+ - [https://saptaks.blog](https://saptaks.blog)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## sarah.blog
+ - [https://sarah.blog](https://sarah.blog)
+ - date_published: 2023-11-29T14:44:35.706152+00:00
+ - tags: ['personal']
+
+ ## Sawyer Stories - Tales of Oar locks, Eddies, and The Feel Of Water
+ - [https://sawyerstories.blog](https://sawyerstories.blog)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## Schneide Blog
+ - [https://schneide.blog](https://schneide.blog)
+ - date_published: 2024-07-09T12:15:44.546172+00:00
+
+ ## 100 Raspberry Pi labs
+ - [https://100pilabs.school.blog](https://100pilabs.school.blog)
+ - date_published: 2025-01-15T17:53:31.884821+00:00
+
+ ## JJ's Character Design Blog
+ - [https://jayscool.school.blog](https://jayscool.school.blog)
+ - date_published: 2024-12-31T06:08:34.768133+00:00
+
+ ## Longitudinal Science
+ - [https://longitudinal.science.blog](https://longitudinal.science.blog)
+ - date_published: 2024-10-27T11:27:39+00:00
+
+ ## Shtetl-Optimized
+ - [https://scottaaronson.blog](https://scottaaronson.blog)
+ - date_published: 2023-10-25T12:01:16.273400+00:00
+ - tags: ['personal']
+
+ ## Semantically Secure
+ - [https://scottarc.blog](https://scottarc.blog)
+ - date_published: 2024-04-13T07:41:59.654361+00:00
+ - tags: ['personal']
+
+ ## Scott Lamb – Medium
+ - [https://scottlamb.blog](https://scottlamb.blog)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Screwed Up Dice
+ - [https://www.screwedupdice.blog](https://www.screwedupdice.blog)
+ - date_published: 2024-03-19T18:15:33+00:00
+
+ ## i've felt worse
+ - [https://seraphim.blog](https://seraphim.blog)
+ - date_published: 2024-12-13T11:41:15.303905+00:00
+
+ ## Seth's Blog
+ - [https://seths.blog](https://seths.blog)
+ - date_published: 2023-10-25T09:01:55.034633+00:00
+ - tags: ['personal']
+
+ ## SHERPA Blog
+ - [https://sherpa.blog](https://sherpa.blog)
+ - date_published: 2024-07-04T12:49:53.379132+00:00
+
+ ## She Seeks Nonfiction
+ - [http://sheseeksnonfiction.blog](http://sheseeksnonfiction.blog)
+ - date_published: 2024-09-17T17:42:24.091234+00:00
+
+ ## A Place For My Head
+ - [https://shivjm.blog](https://shivjm.blog)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## Shyam's Blog
+ - [https://shyam.blog](https://shyam.blog)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## silv.blog
+ - [https://silv.blog](https://silv.blog)
+ - date_published: 2024-06-22T12:54:13+00:00
+
+ ## sixhours
+ - [https://sixhours.blog](https://sixhours.blog)
+ - date_published: 2024-10-20T15:03:45.496710+00:00
+
+ ## v0 App
+ - [https://sleepvoyage.blog](https://sleepvoyage.blog)
+ - date_published: 2024-12-19T06:34:26.905883+00:00
+
+ ## Smarter.Blog Newsletter | Mahesh | Substack
+ - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
+ - date_published: 2023-10-25T09:39:31.008633+00:00
+ - tags: ['substack']
+
+ ## Dhole Moments - Software, Security, Cryptography, and Furries
+ - [https://soatok.blog](https://soatok.blog)
+ - date_published: 2023-10-25T12:01:20.604773+00:00
+
+ ## Soder Blog Dot Blog – the films of director Steven Soderbergh examined through the lens of creative constraint
+ - [https://soderblog.blog](https://soderblog.blog)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## The Sorcerer's Blog
+ - [https://sorcerer.blog](https://sorcerer.blog)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## The Stack Overflow Blog - Stack Overflow
+ - [https://stackoverflow.blog](https://stackoverflow.blog)
+ - date_published: 2023-10-25T12:01:26.888673+00:00
+
+ ## Latest articles | State of Progress
+ - [https://stateofprogress.blog](https://stateofprogress.blog)
+ - date_published: 2024-10-20T22:06:11.541507+00:00
+
+ ## StefanPfeiffer.Blog
+ - [https://stefanpfeiffer.blog](https://stefanpfeiffer.blog)
+ - date_published: 2024-07-02T18:00:15.162803+00:00
+
+ ## Making an ass of myself
+ - [http://stevenhpape.blog](http://stevenhpape.blog)
+ - date_published: 2024-09-03T23:02:08.990283+00:00
+
+ ## Stormbirds
+ - [https://stormbirds.blog](https://stormbirds.blog)
+ - date_published: 2024-08-19T17:41:58.266486+00:00
+
+ ## Strongly Typed
+ - [https://stronglytyped.blog](https://stronglytyped.blog)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## stu.blog
+ - [https://stu.blog](https://stu.blog)
+ - date_published: 2024-07-13T23:54:57.081085+00:00
+
+ ## The Official StudioPress Blog
+ - [https://studiopress.blog](https://studiopress.blog)
+ - date_published: 2022-09-28T00:00:00+00:00
+
+ ## The Seven Deadly Stupidities | GP | Substack
+ - [https://stupid.blog](https://stupid.blog)
+ - date_published: 2023-12-16T16:48:24.781015+00:00
+
+ ## Executive Coaching with George Sudarkoff
+ - [https://sudarkoff.blog](https://sudarkoff.blog)
+ - date_published: 2023-10-25T09:39:42.624484+00:00
+ - tags: ['substack']
+
+ ## a critical discourse.
+ - [http://sunnyjreed.blog](http://sunnyjreed.blog)
+ - date_published: 2024-06-30T04:11:55.159779+00:00
+
+ ## SuperAngel.Fund | Ben Zises | Substack
+ - [https://www.superangel.blog](https://www.superangel.blog)
+ - date_published: 2024-05-07T11:16:38.192143+00:00
+
+ ## Surfing Complexity – Lorin Hochstein's ramblings about software, complex systems, and incidents.
+ - [https://surfingcomplexity.blog](https://surfingcomplexity.blog)
+ - date_published: 2023-10-25T12:01:31.469329+00:00
+
+ ## AGEN138 - Daftar Prediksi Keluaran Jawatogel Akurat Hk Sgp Sdy
+ - [https://www.swholocron.blog](https://www.swholocron.blog)
+ - date_published: 2024-08-25T11:33:31+00:00
+
+ ## Envestnet | Tamarac
+ - [http://www.tamaracinc.blog](http://www.tamaracinc.blog)
+ - date_published: 2024-12-16T16:19:35+00:00
+
+ ## Tanjas blog
+ - [https://tanjas.blog](https://tanjas.blog)
+ - date_published: 2024-04-03T12:42:58.498067+00:00
+ - tags: ['personal']
+
+ ## The Timothy Carey Experience
+ - [https://tcexperience.blog](https://tcexperience.blog)
+ - date_published: 2024-12-18T02:01:25+00:00
+
+ ## Gamer Tales · The First of Many
+ - [https://tekeous.blog](https://tekeous.blog)
+ - date_published: 2023-08-29T00:00:00+00:00
+
  ## In the Dark
  - [https://telescoper.blog](https://telescoper.blog)
  - date_published: 2024-06-29T03:40:58.824221+00:00
@@ -25,6 +518,14 @@
  ## The Gardens Trust
  - [https://thegardenstrust.blog](https://thegardenstrust.blog)
  - date_published: 2024-10-22T19:04:17+00:00
+
+ ## The High Frontier
+ - [http://thehighfrontier.blog](http://thehighfrontier.blog)
+ - date_published: 2025-01-20T09:00:00.783177+00:00
+
+ ## The Mindful Migraine
+ - [https://themindfulmigraine.blog](https://themindfulmigraine.blog)
+ - date_published: 2025-01-20T22:39:16.859692+00:00
 
  ## Theory Dish
  - [https://theorydish.blog](https://theorydish.blog)
@@ -755,6 +1256,10 @@
  - [https://bitcoinvoucher.bot](https://bitcoinvoucher.bot)
  - date_published: 2024-12-30T07:33:12.273506+00:00
 
+ ## DEBET - Cá Cược Bóng Đá - Nhà Cái Cá Độ Đá Banh Số 1 Châu Âu
+ - [https://debet.bot](https://debet.bot)
+ - date_published: 2025-01-20T19:01:42.686516+00:00
+
  ## Open Source Farming Robot
  - [https://farm.bot](https://farm.bot)
  - date_published: 2024-08-03T23:37:52+00:00
@@ -762,6 +1267,10 @@
  ## Show HN: Gobble Bot
  - [https://gobble.bot](https://gobble.bot)
  - date_published: 2023-12-03T12:57:13+00:00
+
+ ## ImmyBot | Deploy workstations in minutes
+ - [https://immy.bot](https://immy.bot)
+ - date_published: 2025-01-20T20:44:16.734616+00:00
 
  ## Innate
  - [https://innate.bot](https://innate.bot)
@@ -2480,6 +2989,10 @@ Educação
  - [https://event.bigfestival.com.br](https://event.bigfestival.com.br)
  - date_published: 2024-06-26T21:55:47.261806+00:00
 
+ ## Big Festival
+ - [http://games.bigfestival.com.br](http://games.bigfestival.com.br)
+ - date_published: 2025-01-20T23:40:03.763974+00:00
+
  ## Attention Required! | Cloudflare
  - [https://biglinux.com.br](https://biglinux.com.br)
  - date_published: 2024-07-20T12:52:44.192507+00:00
@@ -3525,497 +4038,4 @@ Educação
  ## Você está aprendendo com a Estácio
  - [https://www.estaciocursoslivres.com.br](https://www.estaciocursoslivres.com.br)
  - date_published: 2024-05-10T06:56:12.651588+00:00
-
- ## Estadão E-Investidor - As principais notícias do mercado financeiro - Fique por dentro das últimas notícias sobre a Bolsa, Mercado Financeiro e dinheiro. Confira também dicas de investimentos e educação financeira no E-Investidor.
- - [https://einvestidor.estadao.com.br](https://einvestidor.estadao.com.br)
- - date_published: 2024-10-28T12:21:56+00:00
-
- ## E+ | Notícias do Entretenimento na Internet
- - [https://emais.estadao.com.br](https://emais.estadao.com.br)
- - date_published: 2025-01-02T08:38:23+00:00
-
- ## Mobilidade urbana | Estadão
- - [https://mobilidade.estadao.com.br](https://mobilidade.estadao.com.br)
- - date_published: 2024-10-28T14:34:43.527492+00:00
-
- ## Estadão | As Últimas Notícias do Brasil e do Mundo
- - [https://www.estadao.com.br](https://www.estadao.com.br)
- - date_published: 2024-09-25T15:34:01+00:00
-
- ## Estée Lauder | Loja Oficial | Tratamentos Faciais, Maquiagem & Mais Cuidados
- - [https://www.esteelauder.com.br](https://www.esteelauder.com.br)
- - date_published: 2025-01-15T16:50:44.427998+00:00
-
- ## estileras
- - [http://estileras.com.br](http://estileras.com.br)
- - date_published: 2024-02-05T22:29:49+00:00
-
- ## Estrelando
- - [http://estrelando.com.br](http://estrelando.com.br)
- - date_published: 2024-12-26T17:59:06.876436+00:00
-
- ## Estrelando
- - [https://www.estrelando.com.br](https://www.estrelando.com.br)
- - date_published: 2024-12-26T17:32:27.004309+00:00
-
- ## Estuda.com para escolas | Ferramenta para criação de provas
- - [https://estudaescolas.com.br](https://estudaescolas.com.br)
- - date_published: 2024-10-28T11:10:54+00:00
-
- ## Home | ETINERÂNCIAS
- - [https://etinerancias.com.br](https://etinerancias.com.br)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## emdia - sua parceira na negociação de dívidas
- - [https://euemdia.com.br](https://euemdia.com.br)
- - date_published: 2024-06-16T09:15:40.402474+00:00
-
- ## Crie seus eventos e venda inscrições online - A plataforma de Eventos | Even3
- - [https://www.even3.com.br](https://www.even3.com.br)
- - date_published: 2024-08-06T17:28:12.950663+00:00
-
- ## Eventbrite
- - [https://eventbrite.com.br](https://eventbrite.com.br)
- - date_published: 2024-05-12T05:55:36.829100+00:00
-
- ## Ingressos para Shows, Teatros e outros eventos - EVENTIM
- - [https://www.eventim.com.br](https://www.eventim.com.br)
- - date_published: 2024-07-20T14:52:25.577696+00:00
-
- ## Agência de Marketing Digital em Curitiba | Evonline
- - [http://www.evonline.com.br](http://www.evonline.com.br)
- - date_published: 2024-06-20T07:30:33.471366+00:00
-
- ## Eximport | Sistemas de lubrificação
- - [https://eximport.com.br](https://eximport.com.br)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## EY Brasil - Home | Construindo um mundo de negócios melhor
- - [https://www.ey.com.br](https://www.ey.com.br)
- - date_published: 2024-07-13T02:17:54.686855+00:00
-
- ## Fábrica de Ideias Brasileiras
- - [https://fabricadeideiasbrasileiras.com.br](https://fabricadeideiasbrasileiras.com.br)
- - date_published: 2024-09-12T16:55:39.934315+00:00
-
- ## Fabricio Stefani Peruzzo
- - [https://fabricioperuzzo.com.br](https://fabricioperuzzo.com.br)
- - date_published: 2023-12-23T07:30:31.973271+00:00
- - tags: ['personal']
-
- ## Facebook
- - [http://facebook.com.br](http://facebook.com.br)
- - date_published: 2024-09-18T21:54:48.871363+00:00
-
- ## Factorial | Software de RH e DP
- - [https://factorialhr.com.br](https://factorialhr.com.br)
- - date_published: 2024-08-10T23:22:07.002577+00:00
-
- ## Fala! Universidades - As últimas notícias do Brasil e do mundo
- - [https://falauniversidades.com.br](https://falauniversidades.com.br)
- - date_published: 2024-12-26T17:30:38.396755+00:00
-
- ## Faro editorial
- - [https://faroeditorial.com.br](https://faroeditorial.com.br)
- - date_published: 2024-05-10T06:58:04.190042+00:00
-
- ## Farol Santander
- - [https://www.farolsantander.com.br](https://www.farolsantander.com.br)
- - date_published: 2024-06-16T09:16:09.867842+00:00
-
- ## Fast Tecnologia Industrial – Sistemas de Tratamento de Efluentes, ETE Compacta, ETA Compacta, Decanter Centrífugo
- - [https://fastindustria.com.br](https://fastindustria.com.br)
- - date_published: 2024-06-12T01:50:45.094015+00:00
-
- ## Fauna News - Portal de notícias especializado em animais silvestres
- - [http://faunanews.com.br](http://faunanews.com.br)
- - date_published: 2025-01-15T20:21:11.210001+00:00
-
- ## Homepage | Stellantis
- - [http://www.fcapress.com.br](http://www.fcapress.com.br)
- - date_published: 2024-10-28T15:34:34.479743+00:00
-
- ## FDR » Finanças, Direitos e Renda | Últimas Notícias
- - [https://fdr.com.br](https://fdr.com.br)
- - date_published: 2025-01-15T20:49:32.936324+00:00
-
- ## Sistema Fecomércio - Federação do Comércio do Espírito Santo
- - [https://fecomercio-es.com.br](https://fecomercio-es.com.br)
- - date_published: 2024-02-06T13:54:14+00:00
-
- ## FeedClub
- - [https://www.feedclub.com.br](https://www.feedclub.com.br)
- - date_published: 2024-09-01T01:15:54+00:00
-
- ## Felipe Zorzo
- - [https://felipezorzo.com.br](https://felipezorzo.com.br)
- - date_published: 2024-07-19T16:22:45.182543+00:00
-
- ## Fenasucro
- - [http://www.fenasucro.com.br](http://www.fenasucro.com.br)
- - date_published: 2024-08-06T19:28:19+00:00
-
- ## Fernando Quadro
- - [https://fernandoquadro.com.br](https://fernandoquadro.com.br)
- - date_published: 2015-03-19T19:46:09+00:00
-
- ## Website Oficial da Ferrero do Brasil
- - [https://www.ferrero.com.br](https://www.ferrero.com.br)
- - date_published: 2024-06-07T19:25:30+00:00
-
- ## FIAP - O Novo é aqui
- - [https://fiap.com.br](https://fiap.com.br)
- - date_published: 2024-07-14T08:20:24.431622+00:00
-
- ## 500e: Novo Fiat 500 Elétrico | Fiat
- - [https://500e.fiat.com.br](https://500e.fiat.com.br)
- - date_published: 2024-10-28T22:39:11.171365+00:00
-
- ## Abarth
- - [https://abarth.fiat.com.br](https://abarth.fiat.com.br)
- - date_published: 2024-04-08T09:41:59+00:00
-
- ## Fiat Argo
- - [https://argo.fiat.com.br](https://argo.fiat.com.br)
- - date_published: 2024-10-28T22:44:11.383348+00:00
-
- ## Cronos | FIAT
- - [https://cronos.fiat.com.br](https://cronos.fiat.com.br)
- - date_published: 2024-10-28T22:40:36.671141+00:00
-
- ## Novo Fiat Ducato | Fiat
- - [https://ducato.fiat.com.br](https://ducato.fiat.com.br)
- - date_published: 2024-10-25T13:43:34+00:00
-
- ## Fiat Lovers | FIAT
- - [https://fiatlovers.fiat.com.br](https://fiatlovers.fiat.com.br)
- - date_published: 2024-10-25T13:47:05+00:00
-
- ## Fiorino | FIAT
- - [https://fiorino.fiat.com.br](https://fiorino.fiat.com.br)
- - date_published: 2024-10-25T14:23:33+00:00
-
- ## Um verdadeiro desbravador das ruas | Fiat
- - [https://mobi.fiat.com.br](https://mobi.fiat.com.br)
- - date_published: 2024-10-28T22:46:01.605740+00:00
-
- ## Ofertas Fiat | FIAT
- - [https://ofertas.fiat.com.br](https://ofertas.fiat.com.br)
- - date_published: 2024-10-25T13:44:56+00:00
-
- ## Pulse | FIAT
- - [https://pulse.fiat.com.br](https://pulse.fiat.com.br)
- - date_published: 2024-10-28T22:39:01.243092+00:00
-
- ## Reparador | FIAT
- - [https://reparador.fiat.com.br](https://reparador.fiat.com.br)
- - date_published: 2024-10-25T13:40:12+00:00
-
- ## Conheça a van Fiat Scudo | Fiat
- - [https://scudo.fiat.com.br](https://scudo.fiat.com.br)
- - date_published: 2024-10-28T22:38:05.442831+00:00
-
- ## Serviços | FIAT
- - [https://servicos.fiat.com.br](https://servicos.fiat.com.br)
- - date_published: 2024-10-25T13:50:34+00:00
-
- ## Nova Fiat Strada | Fiat
- - [https://strada.fiat.com.br](https://strada.fiat.com.br)
- - date_published: 2024-10-28T22:40:37.655975+00:00
-
- ## Conheça a nova Fiat Titano | FIAT
- - [https://titano.fiat.com.br](https://titano.fiat.com.br)
- - date_published: 2024-10-28T22:44:40.408315+00:00
-
- ## Nova Fiat Toro | FIAT
- - [https://toro.fiat.com.br](https://toro.fiat.com.br)
- - date_published: 2024-10-28T22:44:57.286315+00:00
-
- ## Carros 0km, Sedans, Hatchs, Pickups e Minivans | FIAT
- - [https://www.fiat.com.br](https://www.fiat.com.br)
- - date_published: 2024-06-17T11:54:04+00:00
-
- ## fiatwear - Linha de produtos oficiais Fiat!
- - [https://www.fiatwear.com.br](https://www.fiatwear.com.br)
- - date_published: 2024-10-28T22:46:35.941219+00:00
-
- ## FieldPRO | A evolução da modelagem climática para o novo tempo.
- - [https://fieldpro.com.br](https://fieldpro.com.br)
- - date_published: 2024-10-20T18:44:07.315709+00:00
-
- ## FILMICCA
- - [https://www.filmicca.com.br](https://www.filmicca.com.br)
- - date_published: 2024-10-22T20:48:39.189093+00:00
-
- ## Início - Grupo Finger
- - [https://fingerdigital.com.br](https://fingerdigital.com.br)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Fiquem Sabendo
- - [https://fiquemsabendo.com.br](https://fiquemsabendo.com.br)
- - date_published: 2024-06-28T21:49:29.808218+00:00
-
- ## FireBase - o maior portal sobre banco de dados Firebird em português
- - [http://firebase.com.br](http://firebase.com.br)
- - date_published: 2024-10-16T11:00:01.344138+00:00
-
- ## Firebird Developers Day
- - [https://www.firebirddevelopersday.com.br](https://www.firebirddevelopersday.com.br)
- - date_published: 2024-10-15T19:05:04+00:00
-
- ## FlixBus: Affordable Global Bus Travel
- - [https://www.flixbus.com.br](https://www.flixbus.com.br)
- - date_published: 2024-06-27T15:43:02+00:00
-
- ## Um podcast sobre acessibilidade, diversidade e inclusão na tecnologia
- - [https://focoacessivel.com.br](https://focoacessivel.com.br)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Acervo - Folha de São Paulo
- - [https://acervo.folha.com.br](https://acervo.folha.com.br)
- - date_published: 2024-08-18T13:04:23.630789+00:00
-
- ## Assine Folha de S.Paulo
- - [https://assinaturas.folha.com.br](https://assinaturas.folha.com.br)
- - date_published: 2024-08-18T13:04:42.636122+00:00
-
- ## Login - Folha de S.Paulo
- - [https://atendimento.folha.com.br](https://atendimento.folha.com.br)
- - date_published: 2024-08-18T13:03:37.334126+00:00
-
- ## Home | Clube Folha
- - [https://clube.folha.com.br](https://clube.folha.com.br)
- - date_published: 2024-08-18T13:03:53.442918+00:00
-
- ## Home | Clube Folha Gourmet
- - [https://clubefolhagourmet.folha.com.br](https://clubefolhagourmet.folha.com.br)
- - date_published: 2024-08-18T13:04:17.729838+00:00
-
- ## Coleções | Folha
- - [https://colecoes.folha.com.br](https://colecoes.folha.com.br)
- - date_published: 2024-08-18T13:04:55.502496+00:00
-
- ## Envie informações de interesse público que possam merecer investigação jornalística da Folha
- - [https://folhaleaks.folha.com.br](https://folhaleaks.folha.com.br)
- - date_published: 2024-08-18T13:03:00.679921+00:00
-
- ## Folhapress
- - [https://folhapress.folha.com.br](https://folhapress.folha.com.br)
- - date_published: 2024-08-18T13:03:03.183364+00:00
-
- ## Login - Folha de S.Paulo
- - [https://login.folha.com.br](https://login.folha.com.br)
- - date_published: 2024-08-18T13:03:06.140334+00:00
-
- ## Assine Folha de S.Paulo
- - [https://secure.folha.com.br](https://secure.folha.com.br)
- - date_published: 2024-08-18T13:03:18.967568+00:00
-
- ## Seminários Folha | Folha
- - [https://seminariosfolha.folha.com.br](https://seminariosfolha.folha.com.br)
- - date_published: 2024-08-18T13:05:06.359902+00:00
-
- ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
- - [https://www1.folha.com.br](https://www1.folha.com.br)
- - date_published: 2024-08-18T13:05:04.152743+00:00
-
- ## Portal Publicidade
- - [http://www.publicidade.folha.com.br](http://www.publicidade.folha.com.br)
- - date_published: 2024-08-18T13:04:02.734354+00:00
-
- ## Folhapress
- - [https://folhapress.com.br](https://folhapress.com.br)
- - date_published: 2024-08-18T13:04:33.094785+00:00
-
- ## - Revista de Negócios e Economia - Forbes Brasil
- - [http://forbes.com.br](http://forbes.com.br)
- - date_published: 2024-10-29T15:23:11+00:00
-
- ## Forbes Brasil
- - [https://loja.forbes.com.br](https://loja.forbes.com.br)
- - date_published: 2024-10-29T15:23:30.935040+00:00
-
- ## HOME
- - [https://www.forbes.com.br](https://www.forbes.com.br)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Forma Legno
- - [https://formalegno.com.br](https://formalegno.com.br)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Jogar Fortune OX ▷ Jogo do Touro (PG Soft)
- - [https://fortuneoxdemopg.com.br](https://fortuneoxdemopg.com.br)
- - date_published: 2023-12-08T11:11:12+00:00
-
- ## Home - Fortune Tiger: Jogo do Tigre Aposta
- - [https://fortune-tiger-bet777.com.br](https://fortune-tiger-bet777.com.br)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Revista FOSSGIS Brasil - Georreferenciando o Conhecimento
- - [http://fossgisbrasil.com.br](http://fossgisbrasil.com.br)
- - date_published: 2018-10-03T23:18:29+00:00
-
- ## FotoInFoco
- - [http://www.fotografiaetc.com.br](http://www.fotografiaetc.com.br)
- - date_published: 2024-06-24T03:55:25+00:00
-
- ## A Foxbit te ensina como começar a investir em criptomoedas
- - [https://foxbit.com.br](https://foxbit.com.br)
- - date_published: 2025-01-09T16:33:05+00:00
-
- ## FranklinCovey Brasil | Aprimoramento de Performance
- - [https://www.franklincovey.com.br](https://www.franklincovey.com.br)
- - date_published: 2024-06-21T10:44:36+00:00
-
- ## BeFranq - Franq Open Banking
- - [https://be.franq.com.br](https://be.franq.com.br)
- - date_published: 2024-10-24T19:20:18+00:00
-
- ## Franq | Mais autonomia financeira com Bancário Autônomo
- - [https://franq.com.br](https://franq.com.br)
- - date_published: 2024-10-28T13:54:12.103705+00:00
-
- ## Franq | Mais autonomia financeira com Bancário Autônomo
- - [https://site.franq.com.br](https://site.franq.com.br)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## FCC - Fundação Cultural de Curitiba
- - [http://fundacaoculturaldecuritiba.com.br](http://fundacaoculturaldecuritiba.com.br)
- - date_published: 2024-06-12T11:18:30.371953+00:00
-
- ## Página Inicial - Fundação Santillana
- - [http://www.fundacaosantillana.com.br](http://www.fundacaosantillana.com.br)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Gabriel
- - [https://gabriel.com.br](https://gabriel.com.br)
- - date_published: 2024-10-28T12:19:58+00:00
-
- ## Gabriel
- - [https://mkt.gabriel.com.br](https://mkt.gabriel.com.br)
- - date_published: 2024-10-28T12:19:56+00:00
-
- ## Galera - Grupo Editorial Record
- - [http://www.galerarecord.com.br](http://www.galerarecord.com.br)
- - date_published: 2024-07-13T02:29:04.705015+00:00
-
- ## Home | ICBC 2024
- - [https://icbc2024.galoa.com.br](https://icbc2024.galoa.com.br)
- - date_published: 2024-10-19T23:00:43.311356+00:00
-
- ## GameHall - Top Notícias e Lançamentos de Videogames
- - [https://gamehall.com.br](https://gamehall.com.br)
- - date_published: 2024-12-26T17:32:33+00:00
-
- ## Participate in one of the biggest B2B events in the gaming industry
- - [https://gamescom.com.br](https://gamescom.com.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Garnier | Skincare e coloração para todos
- - [http://www.garnier.com.br](http://www.garnier.com.br)
- - date_published: 2024-10-20T22:52:18.127182+00:00
-
- ## Aprenda a Fazer Falta Livro PDF Ebook Editora Ramos
- - [http://www.garotait.com.br](http://www.garotait.com.br)
- - date_published: 2023-08-16T14:58:38+00:00
-
- ## Home - Gazeta Brasil- Notícias do Brasil e do Mundo
- - [https://gazetabrasil.com.br](https://gazetabrasil.com.br)
- - date_published: 2025-01-18T01:44:38.847381+00:00
-
- ## Gazeta da Semana - Portal de Notícias e Negócios GRÁTIS
- - [https://gazetadasemana.com.br](https://gazetadasemana.com.br)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Gazeta do Cerrado | Notícias do Tocantins e do Brasil. Antes de ser notícia, tem que ser verdade
- - [https://gazetadocerrado.com.br](https://gazetadocerrado.com.br)
- - date_published: 2025-01-15T20:03:27.033352+00:00
-
- ## Gazeta do Povo | Últimas notícias do Brasil e do Mundo
- - [https://www.gazetadopovo.com.br](https://www.gazetadopovo.com.br)
- - date_published: 2025-01-18T01:48:34.844033+00:00
-
- ## Portal GCMAIS | Últimas notícias de Fortaleza, Ceará e Brasil
- - [https://gcmais.com.br](https://gcmais.com.br)
- - date_published: 2024-12-26T17:59:51.810846+00:00
-
- ## Genera - Ancestralidade, Saúde e Bem-Estar
- - [https://www.genera.com.br](https://www.genera.com.br)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Gênio Quiz
- - [https://genioquiz.com.br](https://genioquiz.com.br)
- - date_published: 2024-12-26T15:27:33+00:00
-
- ## GERMINA - REVISTA DE LITERATURA & ARTE
- - [http://www.germinaliteratura.com.br](http://www.germinaliteratura.com.br)
- - date_published: 2022-12-22T17:21:42+00:00
-
- ## Descubra os melhores apps no GetApp Brasil para expandir sua empresa
- - [https://www.getapp.com.br](https://www.getapp.com.br)
- - date_published: 2024-08-08T18:07:17.777717+00:00
-
- ## Fotos de stock, imagens criativas e vetores royalty-free | Imagens de notícias, moda e entretenimento - Getty Images
- - [https://gettyimages.com.br](https://gettyimages.com.br)
- - date_published: 2024-10-31T20:05:40.887742+00:00
-
- ## Glami.com.br - Nós amamos moda
- - [https://www.glami.com.br](https://www.glami.com.br)
- - date_published: 2024-12-14T05:24:56.672269+00:00
-
- ## Glassdoor Help Center
- - [https://ajuda.glassdoor.com.br](https://ajuda.glassdoor.com.br)
- - date_published: 2023-07-12T20:05:46+00:00
-
- ## Busca de vagas no Glassdoor
- - [https://www.glassdoor.com.br](https://www.glassdoor.com.br)
- - date_published: 2024-05-06T09:09:46.730024+00:00
-
- ## Google
- - [https://google.com.br](https://google.com.br)
- - date_published: 2024-06-18T12:08:11.684347+00:00
-
- ## Grafika Google
- - [https://images.google.com.br](https://images.google.com.br)
- - date_published: 2024-07-20T07:38:45.468430+00:00
-
- ## Google Scholar
- - [https://scholar.google.com.br](https://scholar.google.com.br)
- - date_published: 2024-07-10T03:50:52.556232+00:00
-
- ## Certificadas Great Place to Work (Brasil)
- - [https://certificadas.gptw.com.br](https://certificadas.gptw.com.br)
- - date_published: 2024-07-30T20:31:29+00:00
-
- ## Home - GPTW
- - [https://gptw.com.br](https://gptw.com.br)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Certificação GPTW
- - [https://jornada-certificacao.gptw.com.br](https://jornada-certificacao.gptw.com.br)
- - date_published: 2024-09-10T23:52:34.136531+00:00
-
- ## GPTW - Sistema de Pesquisas
- - [https://monitor.gptw.com.br](https://monitor.gptw.com.br)
- - date_published: 2024-09-06T23:34:23+00:00
-
- ## Home - Partners GPTW
- - [https://www.gptwpartners.com.br](https://www.gptwpartners.com.br)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Granado | Granado Pharmácias
- - [https://www.granado.com.br](https://www.granado.com.br)
- - date_published: 2024-07-13T02:16:21.420663+00:00
-
- ## Gr@tis - GRATIS.COM.BR
- - [http://www.gratis.com.br](http://www.gratis.com.br)
- - date_published: 2024-06-24T04:03:12.915944+00:00
-
- ## GRAYSEG | Segurança e Tecnologia
- - [http://grayseg.com.br](http://grayseg.com.br)
- - date_published: 2024-10-22T20:48:25.860445+00:00
-
- ## Home - GPTW
- - [https://greatplacetowork.com.br](https://greatplacetowork.com.br)
- - date_published: 2024-01-23T00:00:00+00:00
 

@@ -1,3 +1,51 @@
+ ## Salah Eddin Alshaal Blog
+ - [https://made-in-syria.netlify.app](https://made-in-syria.netlify.app)
+ - date_published: 2024-05-09T07:50:44.870419+00:00
+
+ ## Mailto Link Generator
+ - [https://mailto-link-generator.netlify.app](https://mailto-link-generator.netlify.app)
+ - date_published: 2024-05-09T08:13:33.457203+00:00
+
+ ## Equals | The next-generation spreadsheet
+ - [https://main--affectionate-borg-319c7a.netlify.app](https://main--affectionate-borg-319c7a.netlify.app)
+ - date_published: 2024-08-19T11:50:21.671980+00:00
+
+ ## Luka Harambasic
+ - [https://main--harambasic.netlify.app](https://main--harambasic.netlify.app)
+ - date_published: 2024-02-11T00:00:00+00:00
+
+ ## Ibrahim NH: Personal Site
+ - [https://main--herbras.netlify.app](https://main--herbras.netlify.app)
+ - date_published: 2024-07-14T07:52:27.701811+00:00
+
+ ## Kyverno
+ - [https://main--kyverno.netlify.app](https://main--kyverno.netlify.app)
+ - date_published: 2025-01-15T21:16:53.451396+00:00
+
+ ## Matter
+ - [https://main--matter-website-e45df7.netlify.app](https://main--matter-website-e45df7.netlify.app)
+ - date_published: 2024-06-27T13:24:03.938752+00:00
+
+ ## Marten
+ - [https://marten-docs-v4.netlify.app](https://marten-docs-v4.netlify.app)
+ - date_published: 2024-08-07T18:46:41.553768+00:00
+
+ ## Marten
+ - [https://marten-docs-v5.netlify.app](https://marten-docs-v5.netlify.app)
+ - date_published: 2024-08-07T18:46:45.016402+00:00
+
+ ## Marten
+ - [https://marten-docs-v6.netlify.app](https://marten-docs-v6.netlify.app)
+ - date_published: 2024-08-07T18:46:45.822915+00:00
+
+ ## Massif Press
+ - [https://massif-press.netlify.app](https://massif-press.netlify.app)
+ - date_published: 2024-07-14T17:26:53.721310+00:00
+
+ ## AS SAVER
+ - [https://master--assaver.netlify.app](https://master--assaver.netlify.app)
+ - date_published: 2024-09-23T12:19:15.699633+00:00
+
  ## The Art of Not Asking Why
  - [https://master--taonaw-blog.netlify.app](https://master--taonaw-blog.netlify.app)
  - date_published: 2024-08-06T19:22:13.487915+00:00
@@ -2960,6 +3008,10 @@ The Album
  - [https://taranify.app](https://taranify.app)
  - date_published: 2024-06-27T10:52:46.492628+00:00
 
+ ## TaskCards
+ - [https://bildung-mv.taskcards.app](https://bildung-mv.taskcards.app)
+ - date_published: 2025-01-20T23:25:16.661470+00:00
+
  ## Tasmota - #1 Software for Smart Home Integration
  - [https://tasmota.app](https://tasmota.app)
  - date_published: 2023-01-26T11:15:23+00:00
@@ -3980,56 +4032,4 @@ The Album
  ## Celebrity Private Jet Flights & Environmental Impact | CelebrityFlight
  - [https://celebrity-flights-next-2kye83g3y-topa-team.vercel.app](https://celebrity-flights-next-2kye83g3y-topa-team.vercel.app)
  - date_published: 2024-06-23T00:00:00+00:00
-
- ## Celebrity Private Jet Flights & Environmental Impact | CelebrityFlight
- - [https://celebrity-flights-next-p06eue34w-topa-team.vercel.app](https://celebrity-flights-next-p06eue34w-topa-team.vercel.app)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Chat2Code
- - [https://chat2code-qsazx88nv-melvynx-s-team.vercel.app](https://chat2code-qsazx88nv-melvynx-s-team.vercel.app)
- - date_published: 2024-10-30T21:06:35.446290+00:00
-
- ## AI Joke Generator
- - [https://chat-gpt-practice.vercel.app](https://chat-gpt-practice.vercel.app)
- - date_published: 2024-06-19T20:08:58.967279+00:00
-
- ## Klu.ai Copilot
- - [https://chat-klu-docs-3kowrvm1v-klu.vercel.app](https://chat-klu-docs-3kowrvm1v-klu.vercel.app)
- - date_published: 2024-07-04T03:55:49.294005+00:00
-
- ## AI Checklist Generator
- - [https://checklist-generator.vercel.app](https://checklist-generator.vercel.app)
- - date_published: 2024-06-14T09:00:23.651034+00:00
-
- ## ChefJeePT
- - [https://chefjeept.vercel.app](https://chefjeept.vercel.app)
- - date_published: 2024-10-17T04:19:51+00:00
-
- ## Run Chromium on Vercel without external services
- - [https://chromium-on-vercel.vercel.app](https://chromium-on-vercel.vercel.app)
- - date_published: 2024-07-01T21:31:31+00:00
-
- ## Cinemaos
- - [https://cinemaos-v2.vercel.app](https://cinemaos-v2.vercel.app)
- - date_published: 2024-08-23T19:30:24+00:00
-
- ## circle clock
- - [https://circle-clock.vercel.app](https://circle-clock.vercel.app)
- - date_published: 2024-07-23T23:45:12.376665+00:00
-
- ## Clarity
- - [https://clarity-astro.vercel.app](https://clarity-astro.vercel.app)
- - date_published: 2025-01-16T10:27:38.528750+00:00
-
- ## Cleanshot | Developed By Visualway
- - [https://cleanshot.vercel.app](https://cleanshot.vercel.app)
- - date_published: 2024-07-02T20:58:24.226352+00:00
-
- ## Files within /
- - [https://cloud-35gbvrq0s.vercel.app](https://cloud-35gbvrq0s.vercel.app)
- - date_published: 2020-07-24T00:00:00+00:00
-
- ## Files within /
- - [https://cloud-a1hqcjanz.vercel.app](https://cloud-a1hqcjanz.vercel.app)
- - date_published: 2024-06-20T15:29:04.761577+00:00
 

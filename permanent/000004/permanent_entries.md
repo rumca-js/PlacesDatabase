@@ -1,3 +1,47 @@
+ ## The New Black | AI Clothing Fashion Design Generator
+ - [https://thenewblack.ai](https://thenewblack.ai)
+ - date_published: 2024-10-30T06:54:29.681838+00:00
+
+ ## Theoriq: Collaborative Autonomous Intelligence on a decentralized network
+ - [https://www.theoriq.ai](https://www.theoriq.ai)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## The Rundown AI
+ - [http://therundown.ai](http://therundown.ai)
+ - date_published: 2024-08-06T05:44:22+00:00
+
+ ## Camel AGI
+ - [https://camelagi.thesamur.ai](https://camelagi.thesamur.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## EmbedAI
+ - [https://embedai.thesamur.ai](https://embedai.thesamur.ai)
+ - date_published: 2024-06-19T19:04:04.835430+00:00
+
+ ## AutoGPT
+ - [https://gptagent.thesamur.ai](https://gptagent.thesamur.ai)
+ - date_published: 2024-10-30T17:09:02.987524+00:00
+
+ ## EmbedAI | Custom ChatGPT for your website
+ - [https://heybot.thesamur.ai](https://heybot.thesamur.ai)
+ - date_published: 2024-10-30T07:02:02+00:00
+
+ ## LangGPT
+ - [https://lang.thesamur.ai](https://lang.thesamur.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## MemeJourney
+ - [https://memegpt.thesamur.ai](https://memegpt.thesamur.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## MyGPT :  A better UI for ChatGPT for free
+ - [https://mygpt.thesamur.ai](https://mygpt.thesamur.ai)
+ - date_published: 2024-06-19T20:41:18.360880+00:00
+
+ ## Vadoo AI - All in one AI video platform
+ - [https://news.thesamur.ai](https://news.thesamur.ai)
+ - date_published: 2024-10-30T16:26:58+00:00
+
  ## Ritebot
  - [https://ritebot.thesamur.ai](https://ritebot.thesamur.ai)
  - date_published: 2024-10-27T15:54:00+00:00
@@ -3977,48 +4021,4 @@ Creative Solutions
  - [https://bsky.app](https://bsky.app)
  - date_published: 2023-10-24T20:12:24.937402+00:00
  - tags: ['social platform', 'gateway']
-
- ## Hey, I'm imgproxy!
- - [https://cdn.bsky.app](https://cdn.bsky.app)
- - date_published: 2024-06-15T04:24:02.451274+00:00
-
- ## Bluesky Documentation | Bluesky
- - [https://docs.bsky.app](https://docs.bsky.app)
- - date_published: 2024-06-18T00:31:46+00:00
-
- ## Bluesky Embed
- - [https://embed.bsky.app](https://embed.bsky.app)
- - date_published: 2024-07-04T02:55:25.988557+00:00
-
- ## Bluesky
- - [https://staging.bsky.app](https://staging.bsky.app)
- - date_published: 2024-04-28T05:29:44.625996+00:00
-
- ## Bubblic
- - [https://www.bubblic.app](https://www.bubblic.app)
- - date_published: 2024-04-24T22:53:01+00:00
-
- ## Budge - Get Out of Credit Card Debt Quickly
- - [http://www.budge.app](http://www.budge.app)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Budgetbuilder.app - An Easy Web Based Budgeting Tool
- - [https://budgetbuilder.app](https://budgetbuilder.app)
- - date_published: 2024-06-13T14:09:16.383988+00:00
-
- ## Budibase
- - [https://account.budibase.app](https://account.budibase.app)
- - date_published: 2024-05-14T03:35:49.198094+00:00
-
- ## Shopify Bundles App | Bundler
- - [https://bundler.app](https://bundler.app)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Buttrfly
- - [https://www.buttrfly.app](https://www.buttrfly.app)
- - date_published: 2024-06-30T00:02:18+00:00
-
- ## Buuky - Desk Sharing leicht gemacht
- - [https://www.buuky.app](https://www.buuky.app)
- - date_published: 2024-12-10T17:57:18.491494+00:00
 

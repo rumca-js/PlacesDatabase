@@ -1,3 +1,496 @@
+ ## Estadão E-Investidor - As principais notícias do mercado financeiro - Fique por dentro das últimas notícias sobre a Bolsa, Mercado Financeiro e dinheiro. Confira também dicas de investimentos e educação financeira no E-Investidor.
+ - [https://einvestidor.estadao.com.br](https://einvestidor.estadao.com.br)
+ - date_published: 2024-10-28T12:21:56+00:00
+
+ ## E+ | Notícias do Entretenimento na Internet
+ - [https://emais.estadao.com.br](https://emais.estadao.com.br)
+ - date_published: 2025-01-02T08:38:23+00:00
+
+ ## Mobilidade urbana | Estadão
+ - [https://mobilidade.estadao.com.br](https://mobilidade.estadao.com.br)
+ - date_published: 2024-10-28T14:34:43.527492+00:00
+
+ ## Estadão | As Últimas Notícias do Brasil e do Mundo
+ - [https://www.estadao.com.br](https://www.estadao.com.br)
+ - date_published: 2024-09-25T15:34:01+00:00
+
+ ## Estée Lauder | Loja Oficial | Tratamentos Faciais, Maquiagem & Mais Cuidados
+ - [https://www.esteelauder.com.br](https://www.esteelauder.com.br)
+ - date_published: 2025-01-15T16:50:44.427998+00:00
+
+ ## estileras
+ - [http://estileras.com.br](http://estileras.com.br)
+ - date_published: 2024-02-05T22:29:49+00:00
+
+ ## Estrelando
+ - [http://estrelando.com.br](http://estrelando.com.br)
+ - date_published: 2024-12-26T17:59:06.876436+00:00
+
+ ## Estrelando
+ - [https://www.estrelando.com.br](https://www.estrelando.com.br)
+ - date_published: 2024-12-26T17:32:27.004309+00:00
+
+ ## Estuda.com para escolas | Ferramenta para criação de provas
+ - [https://estudaescolas.com.br](https://estudaescolas.com.br)
+ - date_published: 2024-10-28T11:10:54+00:00
+
+ ## Home | ETINERÂNCIAS
+ - [https://etinerancias.com.br](https://etinerancias.com.br)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## emdia - sua parceira na negociação de dívidas
+ - [https://euemdia.com.br](https://euemdia.com.br)
+ - date_published: 2024-06-16T09:15:40.402474+00:00
+
+ ## Crie seus eventos e venda inscrições online - A plataforma de Eventos | Even3
+ - [https://www.even3.com.br](https://www.even3.com.br)
+ - date_published: 2024-08-06T17:28:12.950663+00:00
+
+ ## Eventbrite
+ - [https://eventbrite.com.br](https://eventbrite.com.br)
+ - date_published: 2024-05-12T05:55:36.829100+00:00
+
+ ## Ingressos para Shows, Teatros e outros eventos - EVENTIM
+ - [https://www.eventim.com.br](https://www.eventim.com.br)
+ - date_published: 2024-07-20T14:52:25.577696+00:00
+
+ ## Agência de Marketing Digital em Curitiba | Evonline
+ - [http://www.evonline.com.br](http://www.evonline.com.br)
+ - date_published: 2024-06-20T07:30:33.471366+00:00
+
+ ## Eximport | Sistemas de lubrificação
+ - [https://eximport.com.br](https://eximport.com.br)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## EY Brasil - Home | Construindo um mundo de negócios melhor
+ - [https://www.ey.com.br](https://www.ey.com.br)
+ - date_published: 2024-07-13T02:17:54.686855+00:00
+
+ ## Fábrica de Ideias Brasileiras
+ - [https://fabricadeideiasbrasileiras.com.br](https://fabricadeideiasbrasileiras.com.br)
+ - date_published: 2024-09-12T16:55:39.934315+00:00
+
+ ## Fabricio Stefani Peruzzo
+ - [https://fabricioperuzzo.com.br](https://fabricioperuzzo.com.br)
+ - date_published: 2023-12-23T07:30:31.973271+00:00
+ - tags: ['personal']
+
+ ## Facebook
+ - [http://facebook.com.br](http://facebook.com.br)
+ - date_published: 2024-09-18T21:54:48.871363+00:00
+
+ ## Factorial | Software de RH e DP
+ - [https://factorialhr.com.br](https://factorialhr.com.br)
+ - date_published: 2024-08-10T23:22:07.002577+00:00
+
+ ## Fala! Universidades - As últimas notícias do Brasil e do mundo
+ - [https://falauniversidades.com.br](https://falauniversidades.com.br)
+ - date_published: 2024-12-26T17:30:38.396755+00:00
+
+ ## Faro editorial
+ - [https://faroeditorial.com.br](https://faroeditorial.com.br)
+ - date_published: 2024-05-10T06:58:04.190042+00:00
+
+ ## Farol Santander
+ - [https://www.farolsantander.com.br](https://www.farolsantander.com.br)
+ - date_published: 2024-06-16T09:16:09.867842+00:00
+
+ ## Fast Tecnologia Industrial – Sistemas de Tratamento de Efluentes, ETE Compacta, ETA Compacta, Decanter Centrífugo
+ - [https://fastindustria.com.br](https://fastindustria.com.br)
+ - date_published: 2024-06-12T01:50:45.094015+00:00
+
+ ## Fauna News - Portal de notícias especializado em animais silvestres
+ - [http://faunanews.com.br](http://faunanews.com.br)
+ - date_published: 2025-01-15T20:21:11.210001+00:00
+
+ ## Homepage | Stellantis
+ - [http://www.fcapress.com.br](http://www.fcapress.com.br)
+ - date_published: 2024-10-28T15:34:34.479743+00:00
+
+ ## FDR » Finanças, Direitos e Renda | Últimas Notícias
+ - [https://fdr.com.br](https://fdr.com.br)
+ - date_published: 2025-01-15T20:49:32.936324+00:00
+
+ ## Sistema Fecomércio - Federação do Comércio do Espírito Santo
+ - [https://fecomercio-es.com.br](https://fecomercio-es.com.br)
+ - date_published: 2024-02-06T13:54:14+00:00
+
+ ## FeedClub
+ - [https://www.feedclub.com.br](https://www.feedclub.com.br)
+ - date_published: 2024-09-01T01:15:54+00:00
+
+ ## Felipe Zorzo
+ - [https://felipezorzo.com.br](https://felipezorzo.com.br)
+ - date_published: 2024-07-19T16:22:45.182543+00:00
+
+ ## Fenasucro
+ - [http://www.fenasucro.com.br](http://www.fenasucro.com.br)
+ - date_published: 2024-08-06T19:28:19+00:00
+
+ ## Fernando Quadro
+ - [https://fernandoquadro.com.br](https://fernandoquadro.com.br)
+ - date_published: 2015-03-19T19:46:09+00:00
+
+ ## Website Oficial da Ferrero do Brasil
+ - [https://www.ferrero.com.br](https://www.ferrero.com.br)
+ - date_published: 2024-06-07T19:25:30+00:00
+
+ ## FIAP - O Novo é aqui
+ - [https://fiap.com.br](https://fiap.com.br)
+ - date_published: 2024-07-14T08:20:24.431622+00:00
+
+ ## 500e: Novo Fiat 500 Elétrico | Fiat
+ - [https://500e.fiat.com.br](https://500e.fiat.com.br)
+ - date_published: 2024-10-28T22:39:11.171365+00:00
+
+ ## Abarth
+ - [https://abarth.fiat.com.br](https://abarth.fiat.com.br)
+ - date_published: 2024-04-08T09:41:59+00:00
+
+ ## Fiat Argo
+ - [https://argo.fiat.com.br](https://argo.fiat.com.br)
+ - date_published: 2024-10-28T22:44:11.383348+00:00
+
+ ## Cronos | FIAT
+ - [https://cronos.fiat.com.br](https://cronos.fiat.com.br)
+ - date_published: 2024-10-28T22:40:36.671141+00:00
+
+ ## Novo Fiat Ducato | Fiat
+ - [https://ducato.fiat.com.br](https://ducato.fiat.com.br)
+ - date_published: 2024-10-25T13:43:34+00:00
+
+ ## Fiat Lovers | FIAT
+ - [https://fiatlovers.fiat.com.br](https://fiatlovers.fiat.com.br)
+ - date_published: 2024-10-25T13:47:05+00:00
+
+ ## Fiorino | FIAT
+ - [https://fiorino.fiat.com.br](https://fiorino.fiat.com.br)
+ - date_published: 2024-10-25T14:23:33+00:00
+
+ ## Um verdadeiro desbravador das ruas | Fiat
+ - [https://mobi.fiat.com.br](https://mobi.fiat.com.br)
+ - date_published: 2024-10-28T22:46:01.605740+00:00
+
+ ## Ofertas Fiat | FIAT
+ - [https://ofertas.fiat.com.br](https://ofertas.fiat.com.br)
+ - date_published: 2024-10-25T13:44:56+00:00
+
+ ## Pulse | FIAT
+ - [https://pulse.fiat.com.br](https://pulse.fiat.com.br)
+ - date_published: 2024-10-28T22:39:01.243092+00:00
+
+ ## Reparador | FIAT
+ - [https://reparador.fiat.com.br](https://reparador.fiat.com.br)
+ - date_published: 2024-10-25T13:40:12+00:00
+
+ ## Conheça a van Fiat Scudo | Fiat
+ - [https://scudo.fiat.com.br](https://scudo.fiat.com.br)
+ - date_published: 2024-10-28T22:38:05.442831+00:00
+
+ ## Serviços | FIAT
+ - [https://servicos.fiat.com.br](https://servicos.fiat.com.br)
+ - date_published: 2024-10-25T13:50:34+00:00
+
+ ## Nova Fiat Strada | Fiat
+ - [https://strada.fiat.com.br](https://strada.fiat.com.br)
+ - date_published: 2024-10-28T22:40:37.655975+00:00
+
+ ## Conheça a nova Fiat Titano | FIAT
+ - [https://titano.fiat.com.br](https://titano.fiat.com.br)
+ - date_published: 2024-10-28T22:44:40.408315+00:00
+
+ ## Nova Fiat Toro | FIAT
+ - [https://toro.fiat.com.br](https://toro.fiat.com.br)
+ - date_published: 2024-10-28T22:44:57.286315+00:00
+
+ ## Carros 0km, Sedans, Hatchs, Pickups e Minivans | FIAT
+ - [https://www.fiat.com.br](https://www.fiat.com.br)
+ - date_published: 2024-06-17T11:54:04+00:00
+
+ ## fiatwear - Linha de produtos oficiais Fiat!
+ - [https://www.fiatwear.com.br](https://www.fiatwear.com.br)
+ - date_published: 2024-10-28T22:46:35.941219+00:00
+
+ ## FieldPRO | A evolução da modelagem climática para o novo tempo.
+ - [https://fieldpro.com.br](https://fieldpro.com.br)
+ - date_published: 2024-10-20T18:44:07.315709+00:00
+
+ ## FILMICCA
+ - [https://www.filmicca.com.br](https://www.filmicca.com.br)
+ - date_published: 2024-10-22T20:48:39.189093+00:00
+
+ ## Início - Grupo Finger
+ - [https://fingerdigital.com.br](https://fingerdigital.com.br)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Fiquem Sabendo
+ - [https://fiquemsabendo.com.br](https://fiquemsabendo.com.br)
+ - date_published: 2024-06-28T21:49:29.808218+00:00
+
+ ## FireBase - o maior portal sobre banco de dados Firebird em português
+ - [http://firebase.com.br](http://firebase.com.br)
+ - date_published: 2024-10-16T11:00:01.344138+00:00
+
+ ## Firebird Developers Day
+ - [https://www.firebirddevelopersday.com.br](https://www.firebirddevelopersday.com.br)
+ - date_published: 2024-10-15T19:05:04+00:00
+
+ ## FlixBus: Affordable Global Bus Travel
+ - [https://www.flixbus.com.br](https://www.flixbus.com.br)
+ - date_published: 2024-06-27T15:43:02+00:00
+
+ ## Um podcast sobre acessibilidade, diversidade e inclusão na tecnologia
+ - [https://focoacessivel.com.br](https://focoacessivel.com.br)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Acervo - Folha de São Paulo
+ - [https://acervo.folha.com.br](https://acervo.folha.com.br)
+ - date_published: 2024-08-18T13:04:23.630789+00:00
+
+ ## Assine Folha de S.Paulo
+ - [https://assinaturas.folha.com.br](https://assinaturas.folha.com.br)
+ - date_published: 2024-08-18T13:04:42.636122+00:00
+
+ ## Login - Folha de S.Paulo
+ - [https://atendimento.folha.com.br](https://atendimento.folha.com.br)
+ - date_published: 2024-08-18T13:03:37.334126+00:00
+
+ ## Home | Clube Folha
+ - [https://clube.folha.com.br](https://clube.folha.com.br)
+ - date_published: 2024-08-18T13:03:53.442918+00:00
+
+ ## Home | Clube Folha Gourmet
+ - [https://clubefolhagourmet.folha.com.br](https://clubefolhagourmet.folha.com.br)
+ - date_published: 2024-08-18T13:04:17.729838+00:00
+
+ ## Coleções | Folha
+ - [https://colecoes.folha.com.br](https://colecoes.folha.com.br)
+ - date_published: 2024-08-18T13:04:55.502496+00:00
+
+ ## Envie informações de interesse público que possam merecer investigação jornalística da Folha
+ - [https://folhaleaks.folha.com.br](https://folhaleaks.folha.com.br)
+ - date_published: 2024-08-18T13:03:00.679921+00:00
+
+ ## Folhapress
+ - [https://folhapress.folha.com.br](https://folhapress.folha.com.br)
+ - date_published: 2024-08-18T13:03:03.183364+00:00
+
+ ## Login - Folha de S.Paulo
+ - [https://login.folha.com.br](https://login.folha.com.br)
+ - date_published: 2024-08-18T13:03:06.140334+00:00
+
+ ## Assine Folha de S.Paulo
+ - [https://secure.folha.com.br](https://secure.folha.com.br)
+ - date_published: 2024-08-18T13:03:18.967568+00:00
+
+ ## Seminários Folha | Folha
+ - [https://seminariosfolha.folha.com.br](https://seminariosfolha.folha.com.br)
+ - date_published: 2024-08-18T13:05:06.359902+00:00
+
+ ## Notícias de hoje do Brasil e do Mundo | Folha de S.Paulo
+ - [https://www1.folha.com.br](https://www1.folha.com.br)
+ - date_published: 2024-08-18T13:05:04.152743+00:00
+
+ ## Portal Publicidade
+ - [http://www.publicidade.folha.com.br](http://www.publicidade.folha.com.br)
+ - date_published: 2024-08-18T13:04:02.734354+00:00
+
+ ## Folhapress
+ - [https://folhapress.com.br](https://folhapress.com.br)
+ - date_published: 2024-08-18T13:04:33.094785+00:00
+
+ ## - Revista de Negócios e Economia - Forbes Brasil
+ - [http://forbes.com.br](http://forbes.com.br)
+ - date_published: 2024-10-29T15:23:11+00:00
+
+ ## Forbes Brasil
+ - [https://loja.forbes.com.br](https://loja.forbes.com.br)
+ - date_published: 2024-10-29T15:23:30.935040+00:00
+
+ ## HOME
+ - [https://www.forbes.com.br](https://www.forbes.com.br)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Forma Legno
+ - [https://formalegno.com.br](https://formalegno.com.br)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Jogar Fortune OX ▷ Jogo do Touro (PG Soft)
+ - [https://fortuneoxdemopg.com.br](https://fortuneoxdemopg.com.br)
+ - date_published: 2023-12-08T11:11:12+00:00
+
+ ## Home - Fortune Tiger: Jogo do Tigre Aposta
+ - [https://fortune-tiger-bet777.com.br](https://fortune-tiger-bet777.com.br)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Revista FOSSGIS Brasil - Georreferenciando o Conhecimento
+ - [http://fossgisbrasil.com.br](http://fossgisbrasil.com.br)
+ - date_published: 2018-10-03T23:18:29+00:00
+
+ ## FotoInFoco
+ - [http://www.fotografiaetc.com.br](http://www.fotografiaetc.com.br)
+ - date_published: 2024-06-24T03:55:25+00:00
+
+ ## A Foxbit te ensina como começar a investir em criptomoedas
+ - [https://foxbit.com.br](https://foxbit.com.br)
+ - date_published: 2025-01-09T16:33:05+00:00
+
+ ## FranklinCovey Brasil | Aprimoramento de Performance
+ - [https://www.franklincovey.com.br](https://www.franklincovey.com.br)
+ - date_published: 2024-06-21T10:44:36+00:00
+
+ ## BeFranq - Franq Open Banking
+ - [https://be.franq.com.br](https://be.franq.com.br)
+ - date_published: 2024-10-24T19:20:18+00:00
+
+ ## Franq | Mais autonomia financeira com Bancário Autônomo
+ - [https://franq.com.br](https://franq.com.br)
+ - date_published: 2024-10-28T13:54:12.103705+00:00
+
+ ## Franq | Mais autonomia financeira com Bancário Autônomo
+ - [https://site.franq.com.br](https://site.franq.com.br)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## FCC - Fundação Cultural de Curitiba
+ - [http://fundacaoculturaldecuritiba.com.br](http://fundacaoculturaldecuritiba.com.br)
+ - date_published: 2024-06-12T11:18:30.371953+00:00
+
+ ## Página Inicial - Fundação Santillana
+ - [http://www.fundacaosantillana.com.br](http://www.fundacaosantillana.com.br)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Gabriel
+ - [https://gabriel.com.br](https://gabriel.com.br)
+ - date_published: 2024-10-28T12:19:58+00:00
+
+ ## Gabriel
+ - [https://mkt.gabriel.com.br](https://mkt.gabriel.com.br)
+ - date_published: 2024-10-28T12:19:56+00:00
+
+ ## Galera - Grupo Editorial Record
+ - [http://www.galerarecord.com.br](http://www.galerarecord.com.br)
+ - date_published: 2024-07-13T02:29:04.705015+00:00
+
+ ## Home | ICBC 2024
+ - [https://icbc2024.galoa.com.br](https://icbc2024.galoa.com.br)
+ - date_published: 2024-10-19T23:00:43.311356+00:00
+
+ ## GameHall - Top Notícias e Lançamentos de Videogames
+ - [https://gamehall.com.br](https://gamehall.com.br)
+ - date_published: 2024-12-26T17:32:33+00:00
+
+ ## Participate in one of the biggest B2B events in the gaming industry
+ - [https://gamescom.com.br](https://gamescom.com.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Garnier | Skincare e coloração para todos
+ - [http://www.garnier.com.br](http://www.garnier.com.br)
+ - date_published: 2024-10-20T22:52:18.127182+00:00
+
+ ## Aprenda a Fazer Falta Livro PDF Ebook Editora Ramos
+ - [http://www.garotait.com.br](http://www.garotait.com.br)
+ - date_published: 2023-08-16T14:58:38+00:00
+
+ ## Home - Gazeta Brasil- Notícias do Brasil e do Mundo
+ - [https://gazetabrasil.com.br](https://gazetabrasil.com.br)
+ - date_published: 2025-01-18T01:44:38.847381+00:00
+
+ ## Gazeta da Semana - Portal de Notícias e Negócios GRÁTIS
+ - [https://gazetadasemana.com.br](https://gazetadasemana.com.br)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Gazeta do Cerrado | Notícias do Tocantins e do Brasil. Antes de ser notícia, tem que ser verdade
+ - [https://gazetadocerrado.com.br](https://gazetadocerrado.com.br)
+ - date_published: 2025-01-15T20:03:27.033352+00:00
+
+ ## Gazeta do Povo | Últimas notícias do Brasil e do Mundo
+ - [https://www.gazetadopovo.com.br](https://www.gazetadopovo.com.br)
+ - date_published: 2025-01-18T01:48:34.844033+00:00
+
+ ## Portal GCMAIS | Últimas notícias de Fortaleza, Ceará e Brasil
+ - [https://gcmais.com.br](https://gcmais.com.br)
+ - date_published: 2024-12-26T17:59:51.810846+00:00
+
+ ## Genera - Ancestralidade, Saúde e Bem-Estar
+ - [https://www.genera.com.br](https://www.genera.com.br)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Gênio Quiz
+ - [https://genioquiz.com.br](https://genioquiz.com.br)
+ - date_published: 2024-12-26T15:27:33+00:00
+
+ ## GERMINA - REVISTA DE LITERATURA & ARTE
+ - [http://www.germinaliteratura.com.br](http://www.germinaliteratura.com.br)
+ - date_published: 2022-12-22T17:21:42+00:00
+
+ ## Descubra os melhores apps no GetApp Brasil para expandir sua empresa
+ - [https://www.getapp.com.br](https://www.getapp.com.br)
+ - date_published: 2024-08-08T18:07:17.777717+00:00
+
+ ## Fotos de stock, imagens criativas e vetores royalty-free | Imagens de notícias, moda e entretenimento - Getty Images
+ - [https://gettyimages.com.br](https://gettyimages.com.br)
+ - date_published: 2024-10-31T20:05:40.887742+00:00
+
+ ## Glami.com.br - Nós amamos moda
+ - [https://www.glami.com.br](https://www.glami.com.br)
+ - date_published: 2024-12-14T05:24:56.672269+00:00
+
+ ## Glassdoor Help Center
+ - [https://ajuda.glassdoor.com.br](https://ajuda.glassdoor.com.br)
+ - date_published: 2023-07-12T20:05:46+00:00
+
+ ## Busca de vagas no Glassdoor
+ - [https://www.glassdoor.com.br](https://www.glassdoor.com.br)
+ - date_published: 2024-05-06T09:09:46.730024+00:00
+
+ ## Google
+ - [https://google.com.br](https://google.com.br)
+ - date_published: 2024-06-18T12:08:11.684347+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.br](https://images.google.com.br)
+ - date_published: 2024-07-20T07:38:45.468430+00:00
+
+ ## Google Scholar
+ - [https://scholar.google.com.br](https://scholar.google.com.br)
+ - date_published: 2024-07-10T03:50:52.556232+00:00
+
+ ## Certificadas Great Place to Work (Brasil)
+ - [https://certificadas.gptw.com.br](https://certificadas.gptw.com.br)
+ - date_published: 2024-07-30T20:31:29+00:00
+
+ ## Home - GPTW
+ - [https://gptw.com.br](https://gptw.com.br)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Certificação GPTW
+ - [https://jornada-certificacao.gptw.com.br](https://jornada-certificacao.gptw.com.br)
+ - date_published: 2024-09-10T23:52:34.136531+00:00
+
+ ## GPTW - Sistema de Pesquisas
+ - [https://monitor.gptw.com.br](https://monitor.gptw.com.br)
+ - date_published: 2024-09-06T23:34:23+00:00
+
+ ## Home - Partners GPTW
+ - [https://www.gptwpartners.com.br](https://www.gptwpartners.com.br)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Granado | Granado Pharmácias
+ - [https://www.granado.com.br](https://www.granado.com.br)
+ - date_published: 2024-07-13T02:16:21.420663+00:00
+
+ ## Gr@tis - GRATIS.COM.BR
+ - [http://www.gratis.com.br](http://www.gratis.com.br)
+ - date_published: 2024-06-24T04:03:12.915944+00:00
+
+ ## GRAYSEG | Segurança e Tecnologia
+ - [http://grayseg.com.br](http://grayseg.com.br)
+ - date_published: 2024-10-22T20:48:25.860445+00:00
+
+ ## Home - GPTW
+ - [https://greatplacetowork.com.br](https://greatplacetowork.com.br)
+ - date_published: 2024-01-23T00:00:00+00:00
+
  ## greenMe
  - [https://www.greenme.com.br](https://www.greenme.com.br)
  - date_published: 2024-12-26T16:43:59+00:00
@@ -109,6 +602,10 @@
  ## A Plataforma de Host Feita Para Você - Hostinger
  - [https://hostinger.com.br](https://hostinger.com.br)
  - date_published: 2024-05-11T07:49:48.244296+00:00
+
+ ## Quer estudar no exterior? Consulte melhores universidades e cursos no exterior
+ - [https://www.hotcourses.com.br](https://www.hotcourses.com.br)
+ - date_published: 2025-01-21T02:00:37.291895+00:00
 
  ## Bem-vindo à Hotfrog
  - [https://www.hotfrog.com.br](https://www.hotfrog.com.br)
@@ -1571,6 +2068,10 @@
  ## REVIL | www.residentevil.com.br
  - [https://residentevil.com.br](https://residentevil.com.br)
  - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Encontre o melhor lugar para comer em Brasil - Restaurant Guru
+ - [https://restaurantguru.com.br](https://restaurantguru.com.br)
+ - date_published: 2025-01-20T23:31:17.163468+00:00
 
  ## Retrópolis - A cidade dos clássicos Atari Falcon 030 Microbox… Parece familiar?
  - [https://retropolis.com.br](https://retropolis.com.br)
@@ -3379,6 +3880,10 @@
  - [https://1-win.net.br](https://1-win.net.br)
  - date_published: 2023-03-28T19:38:05+00:00
 
+ ## 1Win Brasil ᐈ Apostas desportivas e slots & casino
+ - [https://1win-bet.net.br](https://1win-bet.net.br)
+ - date_published: 2025-01-20T17:41:36.789503+00:00
+
  ## Agência Tambor - Política, direitos humanos, cultura e muito mais
  - [https://agenciatambor.net.br](https://agenciatambor.net.br)
  - date_published: 2025-01-15T20:22:02.483259+00:00
@@ -3503,511 +4008,4 @@
  ## Central de Atendimento 156
  - [http://www.central156.org.br](http://www.central156.org.br)
  - date_published: 2024-06-12T11:19:42.908816+00:00
-
- ## Portal do Instituto das Cidades Inteligentes
- - [https://cidadesinteligentes.org.br](https://cidadesinteligentes.org.br)
- - date_published: 2024-06-12T11:17:39.012950+00:00
-
- ## Conselho Indigenista Missionário | Cimi
- - [http://cimi.org.br](http://cimi.org.br)
- - date_published: 2017-09-28T15:38:46+00:00
-
- ## IP Check: Tech News and Your IP Address
- - [http://www.cipsga.org.br](http://www.cipsga.org.br)
- - date_published: 2024-09-02T10:32:51.515380+00:00
-
- ## CONTRASP – Confederação Nacional dos Trabalhadores de Segurança Privada
- - [https://contrasp.org.br](https://contrasp.org.br)
- - date_published: 2024-07-17T07:37:07.903915+00:00
-
- ## ICI Carreiras - Instituto das Cidades Inteligentes
- - [https://carreiras.ici.curitiba.org.br](https://carreiras.ici.curitiba.org.br)
- - date_published: 2024-06-12T11:17:29.011098+00:00
-
- ## CDN ICI
- - [https://cdn.ici.curitiba.org.br](https://cdn.ici.curitiba.org.br)
- - date_published: 2019-02-06T16:17:26+00:00
-
- ## Portal do Instituto das Cidades Inteligentes
- - [https://ici.curitiba.org.br](https://ici.curitiba.org.br)
- - date_published: 2024-06-12T03:30:14.046448+00:00
-
- ## ICI - Instituto das Cidades Inteligentes
- - [http://servicedesk.ici.curitiba.org.br](http://servicedesk.ici.curitiba.org.br)
- - date_published: 2024-06-12T11:19:37.807369+00:00
-
- ## ICI | Login
- - [https://service.ici.curitiba.org.br](https://service.ici.curitiba.org.br)
- - date_published: 2024-06-12T11:19:25.802005+00:00
-
- ## Home — Debian Brasil
- - [https://debianbrasil.org.br](https://debianbrasil.org.br)
- - date_published: 2024-06-14T14:07:29+00:00
-
- ## Início - Coalizão Direitos na Rede
- - [https://direitosnarede.org.br](https://direitosnarede.org.br)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Escravo, nem pensar!
- - [https://escravonempensar.org.br](https://escravonempensar.org.br)
- - date_published: 2024-01-09T02:26:51.999598+00:00
-
- ## Home
- - [https://www.estrategiaods.org.br](https://www.estrategiaods.org.br)
- - date_published: 2024-06-12T11:17:25.476740+00:00
-
- ## Página Inicial - Every Home
- - [https://everyhome.org.br](https://everyhome.org.br)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Página Inicial EVIDA – Home - EVIDA - Assistencia à Saúde
- - [https://www.evida.org.br](https://www.evida.org.br)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## FADEX | Fundação Cultural e de Fomento à Pesquisa, Ensino, Extensão e Inovação
- - [https://www.fadex.org.br](https://www.fadex.org.br)
- - date_published: 2024-12-15T12:16:31.303985+00:00
-
- ## V Fórum do Conhecimento
- - [https://forumdoconhecimento.fdc.org.br](https://forumdoconhecimento.fdc.org.br)
- - date_published: 2023-09-28T20:26:27+00:00
-
- ## O Sistema Financiar divulga os agentes financiadores, nacionais e internacionais, que apoiam projetos de P,D&I no Brasil.
- - [https://www.financiar.org.br](https://www.financiar.org.br)
- - date_published: 2024-07-07T06:42:42+00:00
-
- ## Fogo cruzado
- - [http://www.fogocruzado.org.br](http://www.fogocruzado.org.br)
- - date_published: 2025-01-15T20:20:34.893540+00:00
-
- ## Página Inicial | FRM - Fundação Roberto Marinho
- - [https://frm.org.br](https://frm.org.br)
- - date_published: 2024-10-28T12:13:53.824179+00:00
-
- ## Página Inicial | FRM - Fundação Roberto Marinho
- - [http://www.frm.org.br](http://www.frm.org.br)
- - date_published: 2024-07-13T02:17:52.257720+00:00
-
- ## FEMAR - Fundação de Estudos do Mar
- - [https://fundacaofemar.org.br](https://fundacaofemar.org.br)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Página Inicial - Fundação Santillana
- - [https://fundacaosantillana.org.br](https://fundacaosantillana.org.br)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Fundunesp - Fundação para o Desenvolvimento da Unesp
- - [https://www.fundunesp.org.br](https://www.fundunesp.org.br)
- - date_published: 2024-07-15T07:34:11.285719+00:00
-
- ## 1. Home - GFI Brasil
- - [https://gfi.org.br](https://gfi.org.br)
- - date_published: 2024-06-20T17:52:44+00:00
-
- ## ICOM Brasil
- - [https://icom.org.br](https://icom.org.br)
- - date_published: 2024-05-29T00:37:52.847010+00:00
-
- ## Home - Inhotim
- - [https://inhotim.org.br](https://inhotim.org.br)
- - date_published: 2023-11-13T13:54:33.035629+00:00
- - tags: ['museum']
-
- ## Instituto Ricardo Brennand
- - [https://institutoricardobrennand.org.br](https://institutoricardobrennand.org.br)
- - date_published: 2023-11-13T13:53:50.117261+00:00
- - tags: ['museum']
-
- ## Home - IPAM Amazônia
- - [https://ipam.org.br](https://ipam.org.br)
- - date_published: 2024-05-10T02:49:03.266225+00:00
-
- ## pacing.space
- - [https://nst.ipam.org.br](https://nst.ipam.org.br)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## IIS Windows Server
- - [https://geocuritiba.ippuc.org.br](https://geocuritiba.ippuc.org.br)
- - date_published: 2022-02-24T12:30:33+00:00
-
- ## infocuritiba - IPPUC
- - [https://infocuritiba.ippuc.org.br](https://infocuritiba.ippuc.org.br)
- - date_published: 2024-09-12T12:32:55.366848+00:00
-
- ## IPPUC | Prefeitura Municipal de Curitiba
- - [https://ippuc.org.br](https://ippuc.org.br)
- - date_published: 2024-06-12T11:18:33.045868+00:00
-
- ## Utag –  Unidade Técnico-Administrativa de Gerenciamento
- - [https://utag.ippuc.org.br](https://utag.ippuc.org.br)
- - date_published: 2024-06-12T03:30:42.682396+00:00
-
- ## Portal Jesuítas Brasil – Companhia de Jesus, conhecida como Ordem dos Jesuítas, foi fundada por Santo Inácio de Loyola e aprovada oficialmente pelo Papa Paulo III, em 27 de setembro de 1540
- - [https://jesuitasbrasil.org.br](https://jesuitasbrasil.org.br)
- - date_published: 2024-07-07T06:43:05.375427+00:00
-
- ## Juntos!
- - [https://juntos.org.br](https://juntos.org.br)
- - date_published: 2024-12-26T19:16:06.502637+00:00
-
- ## Página Inicial
- - [https://www.labre.org.br](https://www.labre.org.br)
- - date_published: 2024-06-28T22:47:17.458043+00:00
-
- ## Observatório Internacional
- - [https://internacional.laurocampos.org.br](https://internacional.laurocampos.org.br)
- - date_published: 2024-12-20T08:58:21.821897+00:00
-
- ## - Home
- - [https://laut.org.br](https://laut.org.br)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Portal do Livro Acessível - Solicite seu livro em formato acessível
- - [http://livroacessivel.org.br](http://livroacessivel.org.br)
- - date_published: 2024-07-13T02:13:26.718092+00:00
-
- ## MASP
- - [https://masp.org.br](https://masp.org.br)
- - date_published: 2023-11-13T13:41:34.414087+00:00
- - tags: ['museum']
-
- ## MASP Loja
- - [https://www.masploja.org.br](https://www.masploja.org.br)
- - date_published: 2024-07-19T22:14:06.142964+00:00
-
- ## Mercy For Animals – Maior Organização do Mundo em Promoção do Veganismo e Defesa dos Direitos dos Animais Explorados para Consumo
- - [https://mercyforanimals.org.br](https://mercyforanimals.org.br)
- - date_published: 2024-05-10T06:58:15.910935+00:00
-
- ## Mises Brasil
- - [https://www.mises.org.br](https://www.mises.org.br)
- - date_published: 2024-12-19T10:43:07.283852+00:00
-
- ## Informação sobre Drogas Ilegais e Abuso de Álcool — Mundo sem Drogas
- - [https://www.mundosemdrogas.org.br](https://www.mundosemdrogas.org.br)
- - date_published: 2024-09-04T17:59:52.269900+00:00
-
- ## Home - Museu de Arte do Rio – MAR
- - [https://museudeartedorio.org.br](https://museudeartedorio.org.br)
- - date_published: 2024-06-16T05:05:02.469317+00:00
-
- ## Museu do Amanhã
- - [https://museudoamanha.org.br](https://museudoamanha.org.br)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## O Caminho para a Felicidade: Um Código Moral de Ética e Decência Não Religioso - 21 Caminhos para Ser Feliz
- - [https://www.ocaminhoparafelicidade.org.br](https://www.ocaminhoparafelicidade.org.br)
- - date_published: 2024-09-04T18:00:38.190119+00:00
-
- ## Jornalismo Ambiental
- - [https://www.oeco.org.br](https://www.oeco.org.br)
- - date_published: 2025-01-15T20:02:34.084793+00:00
-
- ## OEI | Brasil
- - [http://oei.org.br](http://oei.org.br)
- - date_published: 2024-08-25T00:00:00+00:00
-
- ## Home - Open Knowledge Brasil
- - [https://go.ok.org.br](https://go.ok.org.br)
- - date_published: 2024-06-12T12:34:04.833924+00:00
-
- ## Home - Open Knowledge Brasil
- - [https://ok.org.br](https://ok.org.br)
- - date_published: 2024-06-12T06:03:34.762017+00:00
-
- ## Apache OpenOffice - A Suíte de Produtividade Aberta e Gratuíta
- - [http://www.openoffice.org.br](http://www.openoffice.org.br)
- - date_published: 2025-01-08T18:44:29.782883+00:00
-
- ## Home - Oxfam Brasil
- - [https://www.oxfam.org.br](https://www.oxfam.org.br)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Pacto Global da ONU - Rede Brasil.
- - [https://www.pactoglobal.org.br](https://www.pactoglobal.org.br)
- - date_published: 2024-10-30T05:09:05+00:00
-
- ## PIME | PIME
- - [https://pime.org.br](https://pime.org.br)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Pivô
- - [https://pivo.org.br](https://pivo.org.br)
- - date_published: 2024-02-08T17:51:49.160299+00:00
-
- ## portacurtas.org.br
- - [http://portacurtas.org.br](http://portacurtas.org.br)
- - date_published: 2024-12-20T08:11:02.076793+00:00
-
- ## Portas Abertas – Tudo sobre cristãos perseguidos e a Igreja Perseguida
- - [https://portasabertas.org.br](https://portasabertas.org.br)
- - date_published: 2024-05-08T11:12:55.979392+00:00
-
- ## Planeta PythonBrasil
- - [https://planet.python.org.br](https://planet.python.org.br)
- - date_published: 2021-07-11T00:00:00+00:00
-
- ## PythonBrasil - PythonBrasil
- - [http://wiki.python.org.br](http://wiki.python.org.br)
- - date_published: 2024-06-28T19:57:47.783697+00:00
-
- ## Rede Foto – Rede de Produtores Culturais da Fotografia no Brasil
- - [https://redefoto.org.br](https://redefoto.org.br)
- - date_published: 2024-07-10T07:56:04.031089+00:00
-
- ## Comunicar para Mudar
- - [https://comunicarparamudar.reporterbrasil.org.br](https://comunicarparamudar.reporterbrasil.org.br)
- - date_published: 2024-01-09T02:27:01.376800+00:00
-
- ## Mapa da Água: O que sai da sua torneira?
- - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:32:28.275445+00:00
-
- ## Narcogarimpos – Especial – Narcogarimpos
- - [https://narcogarimpos.reporterbrasil.org.br](https://narcogarimpos.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:34:35.359408+00:00
-
- ## Nome aos Bois – Reporter Brasil
- - [https://nomeaosbois.reporterbrasil.org.br](https://nomeaosbois.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:34:47.478056+00:00
-
- ## Repórter Brasil
- - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
- - date_published: 2023-11-14T17:00:02.121596+00:00
-
- ## Ruralômetro - Medindo a febre ruralista dos candidatos
- - [https://ruralometro2018.reporterbrasil.org.br](https://ruralometro2018.reporterbrasil.org.br)
- - date_published: 2024-05-10T03:48:46.273300+00:00
-
- ## Ruralômetro 2022 - Ferramenta ajuda a escolher deputados
- - [https://ruralometro2022.reporterbrasil.org.br](https://ruralometro2022.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:31:35.115572+00:00
-
- ## Conexão Social em Ação
- - [https://ressoar.org.br](https://ressoar.org.br)
- - date_published: 2024-12-26T17:34:09.315464+00:00
-
- ## Página inicial - Sociedade Brasileira de Reumatologia
- - [https://www.reumatologia.org.br](https://www.reumatologia.org.br)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Rumar - Instituto Rumo ao Mar
- - [https://www.rumar.org.br](https://www.rumar.org.br)
- - date_published: 2020-07-15T00:00:00+00:00
-
- ## SAE BRASIL
- - [http://portal.saebrasil.org.br](http://portal.saebrasil.org.br)
- - date_published: 2024-12-15T18:19:52.627922+00:00
-
- ## CSBC 2023
- - [https://csbc.sbc.org.br](https://csbc.sbc.org.br)
- - date_published: 2023-10-02T18:11:44+00:00
-
- ## Home
- - [http://sintfub.org.br](http://sintfub.org.br)
- - date_published: 2024-07-20T11:20:10.784034+00:00
-
- ## SouJava – Sociedade de Usuários da Tecnologia Java
- - [https://soujava.org.br](https://soujava.org.br)
- - date_published: 2024-07-01T05:19:19.213935+00:00
-
- ## The Nature Conservancy
- - [https://tnc.org.br](https://tnc.org.br)
- - date_published: 2024-05-08T10:42:44.077294+00:00
-
- ## Home - Two Sides Brasil
- - [https://twosides.org.br](https://twosides.org.br)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Campanha da Declaração Universal dos Direitos Humanos: O que são Direitos Humanos? Definição
- - [https://www.unidospelosdireitoshumanos.org.br](https://www.unidospelosdireitoshumanos.org.br)
- - date_published: 2024-09-04T17:58:03.749796+00:00
-
- ## Página inicial - Vermelho
- - [https://vermelho.org.br](https://vermelho.org.br)
- - date_published: 2024-12-20T02:44:04+00:00
-
- ## Vocação - Você em Ação
- - [https://vocacao.org.br](https://vocacao.org.br)
- - date_published: 2024-05-07T14:58:15.444029+00:00
-
- ## WWF - Ficha de Doação
- - [https://doe.wwf.org.br](https://doe.wwf.org.br)
- - date_published: 2024-05-28T22:50:27+00:00
-
- ## WWF-Brasil
- - [https://wwf.org.br](https://wwf.org.br)
- - date_published: 2024-05-07T23:56:56.112200+00:00
-
- ## Portal de LAI – Portal da LAI do Governo de Pernambuco
- - [https://www.lai.pe.gov.br](https://www.lai.pe.gov.br)
- - date_published: 2024-10-11T12:52:11.159909+00:00
-
- ## PMPE
- - [https://portalpmpe.sistemas.pm.pe.gov.br](https://portalpmpe.sistemas.pm.pe.gov.br)
- - date_published: 2024-10-11T12:52:48.375132+00:00
-
- ## PMPE - Polícia Militar de Pernambuco
- - [https://www.pm.pe.gov.br](https://www.pm.pe.gov.br)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## SISMEPE – Sistema de Saúde dos Militares do Estado de Pernambuco
- - [http://www.sismepe.pe.gov.br](http://www.sismepe.pe.gov.br)
- - date_published: 2024-10-11T12:52:15.549860+00:00
-
- ## Página Inicial — Portal da Câmara Municipal de Curitiba
- - [https://www.cmc.pr.gov.br](https://www.cmc.pr.gov.br)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Central de Atendimento 156
- - [https://156.curitiba.pr.gov.br](https://156.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:24.570844+00:00
-
- ## Home - Agência Curitiba
- - [http://agencia.curitiba.pr.gov.br](http://agencia.curitiba.pr.gov.br)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Agenda Online Curitiba
- - [https://agendaonline.curitiba.pr.gov.br](https://agendaonline.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:27:33.960017+00:00
-
- ## e-Cidadão
- - [https://autenticacao-ecidadao.curitiba.pr.gov.br](https://autenticacao-ecidadao.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:32:44.085121+00:00
-
- ## Boletim de Acidente de Trânsito
- - [https://bat.curitiba.pr.gov.br](https://bat.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:32:35.447749+00:00
-
- ## CDN ICI
- - [https://cdn.curitiba.pr.gov.br](https://cdn.curitiba.pr.gov.br)
- - date_published: 2024-08-22T14:52:08+00:00
-
- ## Coleta de Lixo - Prefeitura de Curitiba
- - [https://coletalixo.curitiba.pr.gov.br](https://coletalixo.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:22.191362+00:00
-
- ## Comunicação Social - Prefeitura de Curitiba
- - [https://comunicacao.curitiba.pr.gov.br](https://comunicacao.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:03.685648+00:00
-
- ## Consulta de Protocolo
- - [http://consultaprotocolo.curitiba.pr.gov.br](http://consultaprotocolo.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:32:37.757201+00:00
-
- ## Controladoria - Prefeitura de Curitiba
- - [https://controladoria.curitiba.pr.gov.br](https://controladoria.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:06.297486+00:00
-
- ## ImunizaJáCuritiba - Prefeitura de Curitiba
- - [https://coronavirus.curitiba.pr.gov.br](https://coronavirus.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:17:53.636747+00:00
-
- ## Secretaria Municipal da Educação
- - [https://educacao.curitiba.pr.gov.br](https://educacao.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:18.932345+00:00
-
- ## Fala Curitiba - Prefeitura de Curitiba
- - [https://fala.curitiba.pr.gov.br](https://fala.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:10.734623+00:00
-
- ## Inicial - Feira do Largo da Ordem
- - [https://feiradolargo.curitiba.pr.gov.br](https://feiradolargo.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:27:18.628073+00:00
-
- ## Feiras Livres Curitiba
- - [https://feiraslivres.curitiba.pr.gov.br](https://feiraslivres.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:26:36.443759+00:00
-
- ## URBS - Urbanização de Curitiba
- - [https://files.urbs.curitiba.pr.gov.br](https://files.urbs.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:27:31.252801+00:00
-
- ## Gabinete do Prefeito - Prefeitura de Curitiba
- - [https://gabineteprefeito.curitiba.pr.gov.br](https://gabineteprefeito.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:53.608945+00:00
-
- ## Gabinete do Vice-Prefeito - Prefeitura de Curitiba
- - [https://gabineteviceprefeito.curitiba.pr.gov.br](https://gabineteviceprefeito.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:21.324685+00:00
-
- ## Guia - Prefeitura de Curitiba
- - [https://guia.curitiba.pr.gov.br](https://guia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:49.203800+00:00
-
- ## Home Page - ICICore.Servidor
- - [https://hubchat-siac156.curitiba.pr.gov.br](https://hubchat-siac156.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:23.930507+00:00
-
- ## IMAP
- - [https://imap.curitiba.pr.gov.br](https://imap.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:17:11.734092+00:00
-
- ## ImunizaJáCuritiba - Prefeitura de Curitiba
- - [https://imunizaja.curitiba.pr.gov.br](https://imunizaja.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:27:11.062792+00:00
-
- ## Consulta Externa de Atos
- - [https://legisladocexterno.curitiba.pr.gov.br](https://legisladocexterno.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:27.832937+00:00
-
- ## mid-guia.curitiba.pr.gov.br - /
- - [https://mid-guia.curitiba.pr.gov.br](https://mid-guia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:43.588967+00:00
-
- ## mid-servidor.curitiba.pr.gov.br - /
- - [https://mid-servidor.curitiba.pr.gov.br](https://mid-servidor.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:19:55.374914+00:00
-
- ## Turismo - Prefeitura de Curitiba
- - [https://mid-turismo.curitiba.pr.gov.br](https://mid-turismo.curitiba.pr.gov.br)
- - date_published: 2014-11-03T12:35:14+00:00
-
- ## Orçamento e Planejamento
- - [https://orcamentos.curitiba.pr.gov.br](https://orcamentos.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:01.327323+00:00
-
- ## Portal dos Conselhos
- - [https://portaldosconselhos.curitiba.pr.gov.br](https://portaldosconselhos.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:05.549511+00:00
-
- ## Secretaria Municipal da Saúde de Curitiba
- - [https://saude.curitiba.pr.gov.br](https://saude.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:26:45.599666+00:00
-
- ## Saúde Já Curitiba - Prefeitura de Curitiba
- - [https://saudeja.curitiba.pr.gov.br](https://saudeja.curitiba.pr.gov.br)
- - date_published: 2024-09-12T12:27:14.080221+00:00
-
- ## Portal do Servidor de Curitiba
- - [https://servidor.curitiba.pr.gov.br](https://servidor.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:57.625983+00:00
-
- ## Trânsito - Secretaria Municipal de Defesa Social e Trânsito
- - [https://transito.curitiba.pr.gov.br](https://transito.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:28.545524+00:00
-
- ## Instituto Municipal de Turismo de Curitiba
- - [https://turismo.curitiba.pr.gov.br](https://turismo.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:47.891023+00:00
-
- ## URBS - Urbanização de Curitiba
- - [https://urbs.curitiba.pr.gov.br](https://urbs.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:17:58.059160+00:00
-
- ## Portal da Transparência da Prefeitura de Curitiba
- - [https://www.transparencia.curitiba.pr.gov.br](https://www.transparencia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:16.818256+00:00
-
- ## Governo do Estado do Paraná
- - [https://www.parana.pr.gov.br](https://www.parana.pr.gov.br)
- - date_published: 2025-01-14T08:30:15.212944+00:00
-
- ## Home
- - [https://emanoel.pro.br](https://emanoel.pro.br)
- - date_published: 2024-06-10T12:02:18+00:00
-
- ## Eriberto Mota
- - [https://eriberto.pro.br](https://eriberto.pro.br)
- - date_published: 2024-07-09T07:56:43.300230+00:00
 

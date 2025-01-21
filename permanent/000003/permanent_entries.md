@@ -1,3 +1,39 @@
+ ## Gen AI-powered automation to mechanize repetitive back-office processes
+ - [https://orby.ai](https://orby.ai)
+ - date_published: 2024-06-17T10:21:42+00:00
+
+ ## Orifice.ai
+ - [https://orifice.ai](https://orifice.ai)
+ - date_published: 2024-04-14T14:19:34+00:00
+
+ ## AI Detector API Documentation - Originality.ai
+ - [https://docs.originality.ai](https://docs.originality.ai)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Originality.ai
+ - [https://help.originality.ai](https://help.originality.ai)
+ - date_published: 2024-08-19T12:11:23.304066+00:00
+
+ ## AI Content Checker and Plagiarism Check | GPT-4 | ChatGPT
+ - [https://originality.ai](https://originality.ai)
+ - date_published: 2023-10-25T11:41:12.986427+00:00
+
+ ## Chatbot
+ - [https://bot.orimon.ai](https://bot.orimon.ai)
+ - date_published: 2024-06-04T16:59:15+00:00
+
+ ## Ortege | Simplified Blockchain Analysis & Crypto Data Tools
+ - [https://www.ortege.ai](https://www.ortege.ai)
+ - date_published: 2025-01-14T22:15:03.883274+00:00
+
+ ## Osmo
+ - [https://osmo.ai](https://osmo.ai)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Otonomi | Next Generation Insurance for Time-Critical Freight
+ - [https://www.otonomi.ai](https://www.otonomi.ai)
+ - date_published: 2025-01-18T04:55:05.828746+00:00
+
  ## Otter.ai - AI Meeting Note Taker & Real-time AI Transcription
  - [https://otter.ai](https://otter.ai)
  - date_published: 2024-04-18T00:00:00+00:00
@@ -2321,6 +2357,10 @@
  - [https://scsp.ai](https://scsp.ai)
  - date_published: 2024-05-29T00:00:00+00:00
 
+ ## Compliance Automation Platform & Expert Services | Scytale
+ - [https://scytale.ai](https://scytale.ai)
+ - date_published: 2025-01-20T20:43:59.720024+00:00
+
  ## How to Use an AI Image Generator | How to SeaArt AI - Office Tutorial
  - [https://docs.seaart.ai](https://docs.seaart.ai)
  - date_published: 2024-08-13T00:00:00+00:00
@@ -3784,6 +3824,10 @@
  - [https://taskaid.ai](https://taskaid.ai)
  - date_published: 2024-10-30T21:25:02.273191+00:00
 
+ ## The #1 AI Tattoo Generator for creating professional tattoo designs
+ - [https://tattoopro.ai](https://tattoopro.ai)
+ - date_published: 2025-01-21T02:34:24.933251+00:00
+
  ## Show HN: I Built an AI Tattoo Generator Using Flux
  - [https://www.tattoopro.ai](https://www.tattoopro.ai)
  - date_published: 2025-01-07T20:39:40+00:00
@@ -4004,48 +4048,4 @@
  ## The Neuron - Make AI Work For You | AI Tools & Tutorials
  - [https://www.theneuron.ai](https://www.theneuron.ai)
  - date_published: 2025-01-16T12:01:25.768339+00:00
-
- ## The New Black | AI Clothing Fashion Design Generator
- - [https://thenewblack.ai](https://thenewblack.ai)
- - date_published: 2024-10-30T06:54:29.681838+00:00
-
- ## Theoriq: Collaborative Autonomous Intelligence on a decentralized network
- - [https://www.theoriq.ai](https://www.theoriq.ai)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## The Rundown AI
- - [http://therundown.ai](http://therundown.ai)
- - date_published: 2024-08-06T05:44:22+00:00
-
- ## Camel AGI
- - [https://camelagi.thesamur.ai](https://camelagi.thesamur.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## EmbedAI
- - [https://embedai.thesamur.ai](https://embedai.thesamur.ai)
- - date_published: 2024-06-19T19:04:04.835430+00:00
-
- ## AutoGPT
- - [https://gptagent.thesamur.ai](https://gptagent.thesamur.ai)
- - date_published: 2024-10-30T17:09:02.987524+00:00
-
- ## EmbedAI | Custom ChatGPT for your website
- - [https://heybot.thesamur.ai](https://heybot.thesamur.ai)
- - date_published: 2024-10-30T07:02:02+00:00
-
- ## LangGPT
- - [https://lang.thesamur.ai](https://lang.thesamur.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## MemeJourney
- - [https://memegpt.thesamur.ai](https://memegpt.thesamur.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## MyGPT :  A better UI for ChatGPT for free
- - [https://mygpt.thesamur.ai](https://mygpt.thesamur.ai)
- - date_published: 2024-06-19T20:41:18.360880+00:00
-
- ## Vadoo AI - All in one AI video platform
- - [https://news.thesamur.ai](https://news.thesamur.ai)
- - date_published: 2024-10-30T16:26:58+00:00
 

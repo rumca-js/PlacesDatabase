@@ -1,3 +1,510 @@
+ ## Portal do Instituto das Cidades Inteligentes
+ - [https://cidadesinteligentes.org.br](https://cidadesinteligentes.org.br)
+ - date_published: 2024-06-12T11:17:39.012950+00:00
+
+ ## Conselho Indigenista Missionário | Cimi
+ - [http://cimi.org.br](http://cimi.org.br)
+ - date_published: 2017-09-28T15:38:46+00:00
+
+ ## IP Check: Tech News and Your IP Address
+ - [http://www.cipsga.org.br](http://www.cipsga.org.br)
+ - date_published: 2024-09-02T10:32:51.515380+00:00
+
+ ## CONTRASP – Confederação Nacional dos Trabalhadores de Segurança Privada
+ - [https://contrasp.org.br](https://contrasp.org.br)
+ - date_published: 2024-07-17T07:37:07.903915+00:00
+
+ ## ICI Carreiras - Instituto das Cidades Inteligentes
+ - [https://carreiras.ici.curitiba.org.br](https://carreiras.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:17:29.011098+00:00
+
+ ## CDN ICI
+ - [https://cdn.ici.curitiba.org.br](https://cdn.ici.curitiba.org.br)
+ - date_published: 2019-02-06T16:17:26+00:00
+
+ ## Portal do Instituto das Cidades Inteligentes
+ - [https://ici.curitiba.org.br](https://ici.curitiba.org.br)
+ - date_published: 2024-06-12T03:30:14.046448+00:00
+
+ ## ICI - Instituto das Cidades Inteligentes
+ - [http://servicedesk.ici.curitiba.org.br](http://servicedesk.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:19:37.807369+00:00
+
+ ## ICI | Login
+ - [https://service.ici.curitiba.org.br](https://service.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:19:25.802005+00:00
+
+ ## Home — Debian Brasil
+ - [https://debianbrasil.org.br](https://debianbrasil.org.br)
+ - date_published: 2024-06-14T14:07:29+00:00
+
+ ## Início - Coalizão Direitos na Rede
+ - [https://direitosnarede.org.br](https://direitosnarede.org.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Escravo, nem pensar!
+ - [https://escravonempensar.org.br](https://escravonempensar.org.br)
+ - date_published: 2024-01-09T02:26:51.999598+00:00
+
+ ## Home
+ - [https://www.estrategiaods.org.br](https://www.estrategiaods.org.br)
+ - date_published: 2024-06-12T11:17:25.476740+00:00
+
+ ## Página Inicial - Every Home
+ - [https://everyhome.org.br](https://everyhome.org.br)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Página Inicial EVIDA – Home - EVIDA - Assistencia à Saúde
+ - [https://www.evida.org.br](https://www.evida.org.br)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## FADEX | Fundação Cultural e de Fomento à Pesquisa, Ensino, Extensão e Inovação
+ - [https://www.fadex.org.br](https://www.fadex.org.br)
+ - date_published: 2024-12-15T12:16:31.303985+00:00
+
+ ## V Fórum do Conhecimento
+ - [https://forumdoconhecimento.fdc.org.br](https://forumdoconhecimento.fdc.org.br)
+ - date_published: 2023-09-28T20:26:27+00:00
+
+ ## O Sistema Financiar divulga os agentes financiadores, nacionais e internacionais, que apoiam projetos de P,D&I no Brasil.
+ - [https://www.financiar.org.br](https://www.financiar.org.br)
+ - date_published: 2024-07-07T06:42:42+00:00
+
+ ## Fogo cruzado
+ - [http://www.fogocruzado.org.br](http://www.fogocruzado.org.br)
+ - date_published: 2025-01-15T20:20:34.893540+00:00
+
+ ## Página Inicial | FRM - Fundação Roberto Marinho
+ - [https://frm.org.br](https://frm.org.br)
+ - date_published: 2024-10-28T12:13:53.824179+00:00
+
+ ## Página Inicial | FRM - Fundação Roberto Marinho
+ - [http://www.frm.org.br](http://www.frm.org.br)
+ - date_published: 2024-07-13T02:17:52.257720+00:00
+
+ ## FEMAR - Fundação de Estudos do Mar
+ - [https://fundacaofemar.org.br](https://fundacaofemar.org.br)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Página Inicial - Fundação Santillana
+ - [https://fundacaosantillana.org.br](https://fundacaosantillana.org.br)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Fundunesp - Fundação para o Desenvolvimento da Unesp
+ - [https://www.fundunesp.org.br](https://www.fundunesp.org.br)
+ - date_published: 2024-07-15T07:34:11.285719+00:00
+
+ ## 1. Home - GFI Brasil
+ - [https://gfi.org.br](https://gfi.org.br)
+ - date_published: 2024-06-20T17:52:44+00:00
+
+ ## ICOM Brasil
+ - [https://icom.org.br](https://icom.org.br)
+ - date_published: 2024-05-29T00:37:52.847010+00:00
+
+ ## Home - Inhotim
+ - [https://inhotim.org.br](https://inhotim.org.br)
+ - date_published: 2023-11-13T13:54:33.035629+00:00
+ - tags: ['museum']
+
+ ## Instituto Ricardo Brennand
+ - [https://institutoricardobrennand.org.br](https://institutoricardobrennand.org.br)
+ - date_published: 2023-11-13T13:53:50.117261+00:00
+ - tags: ['museum']
+
+ ## Home - IPAM Amazônia
+ - [https://ipam.org.br](https://ipam.org.br)
+ - date_published: 2024-05-10T02:49:03.266225+00:00
+
+ ## pacing.space
+ - [https://nst.ipam.org.br](https://nst.ipam.org.br)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## IIS Windows Server
+ - [https://geocuritiba.ippuc.org.br](https://geocuritiba.ippuc.org.br)
+ - date_published: 2022-02-24T12:30:33+00:00
+
+ ## infocuritiba - IPPUC
+ - [https://infocuritiba.ippuc.org.br](https://infocuritiba.ippuc.org.br)
+ - date_published: 2024-09-12T12:32:55.366848+00:00
+
+ ## IPPUC | Prefeitura Municipal de Curitiba
+ - [https://ippuc.org.br](https://ippuc.org.br)
+ - date_published: 2024-06-12T11:18:33.045868+00:00
+
+ ## Utag –  Unidade Técnico-Administrativa de Gerenciamento
+ - [https://utag.ippuc.org.br](https://utag.ippuc.org.br)
+ - date_published: 2024-06-12T03:30:42.682396+00:00
+
+ ## Portal Jesuítas Brasil – Companhia de Jesus, conhecida como Ordem dos Jesuítas, foi fundada por Santo Inácio de Loyola e aprovada oficialmente pelo Papa Paulo III, em 27 de setembro de 1540
+ - [https://jesuitasbrasil.org.br](https://jesuitasbrasil.org.br)
+ - date_published: 2024-07-07T06:43:05.375427+00:00
+
+ ## Juntos!
+ - [https://juntos.org.br](https://juntos.org.br)
+ - date_published: 2024-12-26T19:16:06.502637+00:00
+
+ ## Página Inicial
+ - [https://www.labre.org.br](https://www.labre.org.br)
+ - date_published: 2024-06-28T22:47:17.458043+00:00
+
+ ## Observatório Internacional
+ - [https://internacional.laurocampos.org.br](https://internacional.laurocampos.org.br)
+ - date_published: 2024-12-20T08:58:21.821897+00:00
+
+ ## - Home
+ - [https://laut.org.br](https://laut.org.br)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Portal do Livro Acessível - Solicite seu livro em formato acessível
+ - [http://livroacessivel.org.br](http://livroacessivel.org.br)
+ - date_published: 2024-07-13T02:13:26.718092+00:00
+
+ ## MASP
+ - [https://masp.org.br](https://masp.org.br)
+ - date_published: 2023-11-13T13:41:34.414087+00:00
+ - tags: ['museum']
+
+ ## MASP Loja
+ - [https://www.masploja.org.br](https://www.masploja.org.br)
+ - date_published: 2024-07-19T22:14:06.142964+00:00
+
+ ## Mercy For Animals – Maior Organização do Mundo em Promoção do Veganismo e Defesa dos Direitos dos Animais Explorados para Consumo
+ - [https://mercyforanimals.org.br](https://mercyforanimals.org.br)
+ - date_published: 2024-05-10T06:58:15.910935+00:00
+
+ ## Mises Brasil
+ - [https://www.mises.org.br](https://www.mises.org.br)
+ - date_published: 2024-12-19T10:43:07.283852+00:00
+
+ ## Informação sobre Drogas Ilegais e Abuso de Álcool — Mundo sem Drogas
+ - [https://www.mundosemdrogas.org.br](https://www.mundosemdrogas.org.br)
+ - date_published: 2024-09-04T17:59:52.269900+00:00
+
+ ## Home - Museu de Arte do Rio – MAR
+ - [https://museudeartedorio.org.br](https://museudeartedorio.org.br)
+ - date_published: 2024-06-16T05:05:02.469317+00:00
+
+ ## Museu do Amanhã
+ - [https://museudoamanha.org.br](https://museudoamanha.org.br)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## O Caminho para a Felicidade: Um Código Moral de Ética e Decência Não Religioso - 21 Caminhos para Ser Feliz
+ - [https://www.ocaminhoparafelicidade.org.br](https://www.ocaminhoparafelicidade.org.br)
+ - date_published: 2024-09-04T18:00:38.190119+00:00
+
+ ## Jornalismo Ambiental
+ - [https://www.oeco.org.br](https://www.oeco.org.br)
+ - date_published: 2025-01-15T20:02:34.084793+00:00
+
+ ## OEI | Brasil
+ - [http://oei.org.br](http://oei.org.br)
+ - date_published: 2024-08-25T00:00:00+00:00
+
+ ## Home - Open Knowledge Brasil
+ - [https://go.ok.org.br](https://go.ok.org.br)
+ - date_published: 2024-06-12T12:34:04.833924+00:00
+
+ ## Home - Open Knowledge Brasil
+ - [https://ok.org.br](https://ok.org.br)
+ - date_published: 2024-06-12T06:03:34.762017+00:00
+
+ ## Apache OpenOffice - A Suíte de Produtividade Aberta e Gratuíta
+ - [http://www.openoffice.org.br](http://www.openoffice.org.br)
+ - date_published: 2025-01-08T18:44:29.782883+00:00
+
+ ## Home - Oxfam Brasil
+ - [https://www.oxfam.org.br](https://www.oxfam.org.br)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Pacto Global da ONU - Rede Brasil.
+ - [https://www.pactoglobal.org.br](https://www.pactoglobal.org.br)
+ - date_published: 2024-10-30T05:09:05+00:00
+
+ ## PIME | PIME
+ - [https://pime.org.br](https://pime.org.br)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Pivô
+ - [https://pivo.org.br](https://pivo.org.br)
+ - date_published: 2024-02-08T17:51:49.160299+00:00
+
+ ## portacurtas.org.br
+ - [http://portacurtas.org.br](http://portacurtas.org.br)
+ - date_published: 2024-12-20T08:11:02.076793+00:00
+
+ ## Portas Abertas – Tudo sobre cristãos perseguidos e a Igreja Perseguida
+ - [https://portasabertas.org.br](https://portasabertas.org.br)
+ - date_published: 2024-05-08T11:12:55.979392+00:00
+
+ ## Planeta PythonBrasil
+ - [https://planet.python.org.br](https://planet.python.org.br)
+ - date_published: 2021-07-11T00:00:00+00:00
+
+ ## PythonBrasil - PythonBrasil
+ - [http://wiki.python.org.br](http://wiki.python.org.br)
+ - date_published: 2024-06-28T19:57:47.783697+00:00
+
+ ## Rede Foto – Rede de Produtores Culturais da Fotografia no Brasil
+ - [https://redefoto.org.br](https://redefoto.org.br)
+ - date_published: 2024-07-10T07:56:04.031089+00:00
+
+ ## Comunicar para Mudar
+ - [https://comunicarparamudar.reporterbrasil.org.br](https://comunicarparamudar.reporterbrasil.org.br)
+ - date_published: 2024-01-09T02:27:01.376800+00:00
+
+ ## Mapa da Água: O que sai da sua torneira?
+ - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:32:28.275445+00:00
+
+ ## Narcogarimpos – Especial – Narcogarimpos
+ - [https://narcogarimpos.reporterbrasil.org.br](https://narcogarimpos.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:34:35.359408+00:00
+
+ ## Nome aos Bois – Reporter Brasil
+ - [https://nomeaosbois.reporterbrasil.org.br](https://nomeaosbois.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:34:47.478056+00:00
+
+ ## Repórter Brasil
+ - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
+ - date_published: 2023-11-14T17:00:02.121596+00:00
+
+ ## Ruralômetro - Medindo a febre ruralista dos candidatos
+ - [https://ruralometro2018.reporterbrasil.org.br](https://ruralometro2018.reporterbrasil.org.br)
+ - date_published: 2024-05-10T03:48:46.273300+00:00
+
+ ## Ruralômetro 2022 - Ferramenta ajuda a escolher deputados
+ - [https://ruralometro2022.reporterbrasil.org.br](https://ruralometro2022.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:31:35.115572+00:00
+
+ ## Conexão Social em Ação
+ - [https://ressoar.org.br](https://ressoar.org.br)
+ - date_published: 2024-12-26T17:34:09.315464+00:00
+
+ ## Página inicial - Sociedade Brasileira de Reumatologia
+ - [https://www.reumatologia.org.br](https://www.reumatologia.org.br)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Rumar - Instituto Rumo ao Mar
+ - [https://www.rumar.org.br](https://www.rumar.org.br)
+ - date_published: 2020-07-15T00:00:00+00:00
+
+ ## SAE BRASIL
+ - [http://portal.saebrasil.org.br](http://portal.saebrasil.org.br)
+ - date_published: 2024-12-15T18:19:52.627922+00:00
+
+ ## CSBC 2023
+ - [https://csbc.sbc.org.br](https://csbc.sbc.org.br)
+ - date_published: 2023-10-02T18:11:44+00:00
+
+ ## Home
+ - [http://sintfub.org.br](http://sintfub.org.br)
+ - date_published: 2024-07-20T11:20:10.784034+00:00
+
+ ## SouJava – Sociedade de Usuários da Tecnologia Java
+ - [https://soujava.org.br](https://soujava.org.br)
+ - date_published: 2024-07-01T05:19:19.213935+00:00
+
+ ## The Nature Conservancy
+ - [https://tnc.org.br](https://tnc.org.br)
+ - date_published: 2024-05-08T10:42:44.077294+00:00
+
+ ## Home - Two Sides Brasil
+ - [https://twosides.org.br](https://twosides.org.br)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Campanha da Declaração Universal dos Direitos Humanos: O que são Direitos Humanos? Definição
+ - [https://www.unidospelosdireitoshumanos.org.br](https://www.unidospelosdireitoshumanos.org.br)
+ - date_published: 2024-09-04T17:58:03.749796+00:00
+
+ ## Página inicial - Vermelho
+ - [https://vermelho.org.br](https://vermelho.org.br)
+ - date_published: 2024-12-20T02:44:04+00:00
+
+ ## Vocação - Você em Ação
+ - [https://vocacao.org.br](https://vocacao.org.br)
+ - date_published: 2024-05-07T14:58:15.444029+00:00
+
+ ## WWF - Ficha de Doação
+ - [https://doe.wwf.org.br](https://doe.wwf.org.br)
+ - date_published: 2024-05-28T22:50:27+00:00
+
+ ## WWF-Brasil
+ - [https://wwf.org.br](https://wwf.org.br)
+ - date_published: 2024-05-07T23:56:56.112200+00:00
+
+ ## Portal de LAI – Portal da LAI do Governo de Pernambuco
+ - [https://www.lai.pe.gov.br](https://www.lai.pe.gov.br)
+ - date_published: 2024-10-11T12:52:11.159909+00:00
+
+ ## PMPE
+ - [https://portalpmpe.sistemas.pm.pe.gov.br](https://portalpmpe.sistemas.pm.pe.gov.br)
+ - date_published: 2024-10-11T12:52:48.375132+00:00
+
+ ## PMPE - Polícia Militar de Pernambuco
+ - [https://www.pm.pe.gov.br](https://www.pm.pe.gov.br)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## SISMEPE – Sistema de Saúde dos Militares do Estado de Pernambuco
+ - [http://www.sismepe.pe.gov.br](http://www.sismepe.pe.gov.br)
+ - date_published: 2024-10-11T12:52:15.549860+00:00
+
+ ## Página Inicial — Portal da Câmara Municipal de Curitiba
+ - [https://www.cmc.pr.gov.br](https://www.cmc.pr.gov.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Central de Atendimento 156
+ - [https://156.curitiba.pr.gov.br](https://156.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:24.570844+00:00
+
+ ## Home - Agência Curitiba
+ - [http://agencia.curitiba.pr.gov.br](http://agencia.curitiba.pr.gov.br)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Agenda Online Curitiba
+ - [https://agendaonline.curitiba.pr.gov.br](https://agendaonline.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:27:33.960017+00:00
+
+ ## e-Cidadão
+ - [https://autenticacao-ecidadao.curitiba.pr.gov.br](https://autenticacao-ecidadao.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:32:44.085121+00:00
+
+ ## Boletim de Acidente de Trânsito
+ - [https://bat.curitiba.pr.gov.br](https://bat.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:32:35.447749+00:00
+
+ ## CDN ICI
+ - [https://cdn.curitiba.pr.gov.br](https://cdn.curitiba.pr.gov.br)
+ - date_published: 2024-08-22T14:52:08+00:00
+
+ ## Coleta de Lixo - Prefeitura de Curitiba
+ - [https://coletalixo.curitiba.pr.gov.br](https://coletalixo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:22.191362+00:00
+
+ ## Comunicação Social - Prefeitura de Curitiba
+ - [https://comunicacao.curitiba.pr.gov.br](https://comunicacao.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:03.685648+00:00
+
+ ## Consulta de Protocolo
+ - [http://consultaprotocolo.curitiba.pr.gov.br](http://consultaprotocolo.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:32:37.757201+00:00
+
+ ## Controladoria - Prefeitura de Curitiba
+ - [https://controladoria.curitiba.pr.gov.br](https://controladoria.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:06.297486+00:00
+
+ ## ImunizaJáCuritiba - Prefeitura de Curitiba
+ - [https://coronavirus.curitiba.pr.gov.br](https://coronavirus.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:53.636747+00:00
+
+ ## Secretaria Municipal da Educação
+ - [https://educacao.curitiba.pr.gov.br](https://educacao.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:18.932345+00:00
+
+ ## Fala Curitiba - Prefeitura de Curitiba
+ - [https://fala.curitiba.pr.gov.br](https://fala.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:10.734623+00:00
+
+ ## Inicial - Feira do Largo da Ordem
+ - [https://feiradolargo.curitiba.pr.gov.br](https://feiradolargo.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:27:18.628073+00:00
+
+ ## Feiras Livres Curitiba
+ - [https://feiraslivres.curitiba.pr.gov.br](https://feiraslivres.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:26:36.443759+00:00
+
+ ## URBS - Urbanização de Curitiba
+ - [https://files.urbs.curitiba.pr.gov.br](https://files.urbs.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:27:31.252801+00:00
+
+ ## Gabinete do Prefeito - Prefeitura de Curitiba
+ - [https://gabineteprefeito.curitiba.pr.gov.br](https://gabineteprefeito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:53.608945+00:00
+
+ ## Gabinete do Vice-Prefeito - Prefeitura de Curitiba
+ - [https://gabineteviceprefeito.curitiba.pr.gov.br](https://gabineteviceprefeito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:21.324685+00:00
+
+ ## Guia - Prefeitura de Curitiba
+ - [https://guia.curitiba.pr.gov.br](https://guia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:49.203800+00:00
+
+ ## Home Page - ICICore.Servidor
+ - [https://hubchat-siac156.curitiba.pr.gov.br](https://hubchat-siac156.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:23.930507+00:00
+
+ ## IMAP
+ - [https://imap.curitiba.pr.gov.br](https://imap.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:11.734092+00:00
+
+ ## ImunizaJáCuritiba - Prefeitura de Curitiba
+ - [https://imunizaja.curitiba.pr.gov.br](https://imunizaja.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:27:11.062792+00:00
+
+ ## Consulta Externa de Atos
+ - [https://legisladocexterno.curitiba.pr.gov.br](https://legisladocexterno.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:27.832937+00:00
+
+ ## mid-guia.curitiba.pr.gov.br - /
+ - [https://mid-guia.curitiba.pr.gov.br](https://mid-guia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:43.588967+00:00
+
+ ## mid-servidor.curitiba.pr.gov.br - /
+ - [https://mid-servidor.curitiba.pr.gov.br](https://mid-servidor.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:19:55.374914+00:00
+
+ ## Turismo - Prefeitura de Curitiba
+ - [https://mid-turismo.curitiba.pr.gov.br](https://mid-turismo.curitiba.pr.gov.br)
+ - date_published: 2014-11-03T12:35:14+00:00
+
+ ## Orçamento e Planejamento
+ - [https://orcamentos.curitiba.pr.gov.br](https://orcamentos.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:01.327323+00:00
+
+ ## Portal dos Conselhos
+ - [https://portaldosconselhos.curitiba.pr.gov.br](https://portaldosconselhos.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:05.549511+00:00
+
+ ## Secretaria Municipal da Saúde de Curitiba
+ - [https://saude.curitiba.pr.gov.br](https://saude.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:26:45.599666+00:00
+
+ ## Saúde Já Curitiba - Prefeitura de Curitiba
+ - [https://saudeja.curitiba.pr.gov.br](https://saudeja.curitiba.pr.gov.br)
+ - date_published: 2024-09-12T12:27:14.080221+00:00
+
+ ## Portal do Servidor de Curitiba
+ - [https://servidor.curitiba.pr.gov.br](https://servidor.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:57.625983+00:00
+
+ ## Trânsito - Secretaria Municipal de Defesa Social e Trânsito
+ - [https://transito.curitiba.pr.gov.br](https://transito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:28.545524+00:00
+
+ ## Instituto Municipal de Turismo de Curitiba
+ - [https://turismo.curitiba.pr.gov.br](https://turismo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:47.891023+00:00
+
+ ## URBS - Urbanização de Curitiba
+ - [https://urbs.curitiba.pr.gov.br](https://urbs.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:58.059160+00:00
+
+ ## Portal da Transparência da Prefeitura de Curitiba
+ - [https://www.transparencia.curitiba.pr.gov.br](https://www.transparencia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:16.818256+00:00
+
+ ## Governo do Estado do Paraná
+ - [https://www.parana.pr.gov.br](https://www.parana.pr.gov.br)
+ - date_published: 2025-01-14T08:30:15.212944+00:00
+
+ ## Home
+ - [https://emanoel.pro.br](https://emanoel.pro.br)
+ - date_published: 2024-06-10T12:02:18+00:00
+
+ ## Eriberto Mota
+ - [https://eriberto.pro.br](https://eriberto.pro.br)
+ - date_published: 2024-07-09T07:56:43.300230+00:00
+
  ## Paulo Ghiraldelli
  - [https://ghiraldelli.pro.br](https://ghiraldelli.pro.br)
  - date_published: 2024-05-07T18:22:04.178518+00:00
@@ -751,6 +1258,10 @@
  - [http://25.by](http://25.by)
  - date_published: 2023-01-05T11:13:29+00:00
 
+ ## Маркетинговое агентство полного цикла в Минске | Digital Agency Alekzo
+ - [https://alekzo.by](https://alekzo.by)
+ - date_published: 2025-01-20T21:33:47.053641+00:00
+
  ## Ales Tsurko | Home
  - [https://alestsurko.by](https://alestsurko.by)
  - date_published: 2023-10-25T09:02:09.768428+00:00
@@ -836,6 +1347,10 @@
  - [https://www.bosch-home.by](https://www.bosch-home.by)
  - date_published: 2024-05-27T08:46:55+00:00
 
+ ## Austin Web Design, WordPress Development & Digital Marketing | Bound By
+ - [https://www.bound.by](https://www.bound.by)
+ - date_published: 2025-01-20T21:01:22.736855+00:00
+
  ## Официальный дилер Citroën в Беларуси – ПарадАвто
  - [https://www.citroen.by](https://www.citroen.by)
  - date_published: 2024-05-08T05:30:20.015900+00:00
@@ -883,6 +1398,10 @@
  ## Создать интернет-магазин бесплатно – Готовый интернет-магазин с нуля на Insales
  - [https://insales.by](https://insales.by)
  - date_published: 2024-06-18T15:30:25+00:00
+
+ ## Журнал о букмекерских конторах, ставках на спорт и прогнозах Ironbets
+ - [https://ironbets.by](https://ironbets.by)
+ - date_published: 2025-01-20T21:39:02.680174+00:00
 
  ## Защитные решения кибербезопасности для дома и бизнеса | Лаборатория Касперского
  - [http://www.kaspersky.by](http://www.kaspersky.by)
@@ -1147,6 +1666,10 @@
  ## STACK – Library
  - [https://stack.cld.bz](https://stack.cld.bz)
  - date_published: 2024-06-16T17:23:03.102241+00:00
+
+ ## United States Conference of Catholic Bishops – Library
+ - [https://usccb.cld.bz](https://usccb.cld.bz)
+ - date_published: 2025-01-20T07:59:25.374978+00:00
 
  ## user-Jl6ZMuz – Library
  - [https://user-jl6zmuz.cld.bz](https://user-jl6zmuz.cld.bz)
@@ -1617,6 +2140,10 @@
  - [https://www.adp.ca](https://www.adp.ca)
  - date_published: 2024-06-16T10:08:13.105677+00:00
 
+ ## Aerial Visuals
+ - [http://www.aerialvisuals.ca](http://www.aerialvisuals.ca)
+ - date_published: 2025-01-20T08:53:08.041653+00:00
+
  ## A Few Good Minds Vancouver MBA Blog
  - [https://afewgoodminds.ca](https://afewgoodminds.ca)
  - date_published: 2024-07-15T00:00:00+00:00
@@ -1862,6 +2389,10 @@
  ## Alberta Machine Intelligence Institute | L'IA pour le bien et pour tous
  - [https://fr.amii.ca](https://fr.amii.ca)
  - date_published: 2024-08-19T11:02:32.861230+00:00
+
+ ## Association for Media Literacy (AML) | Toronto, Ontario
+ - [https://aml.ca](https://aml.ca)
+ - date_published: 2025-01-20T11:21:03.946563+00:00
 
  ## Ancestry® | Genealogy, Family Trees & Family History Records
  - [https://www.ancestry.ca](https://www.ancestry.ca)
@@ -2858,6 +3389,10 @@
  - [http://ritterkrieg.blogspot.ca](http://ritterkrieg.blogspot.ca)
  - date_published: 2024-12-19T03:26:17+00:00
 
+ ## Rob Sanders Speculative Fiction
+ - [http://rob-sanders.blogspot.ca](http://rob-sanders.blogspot.ca)
+ - date_published: 2025-01-20T17:06:37.463552+00:00
+
  ## Roll of Nickels
  - [http://rollofnickels.blogspot.ca](http://rollofnickels.blogspot.ca)
  - date_published: 2025-01-01T11:24:45+00:00
@@ -2933,6 +3468,10 @@
  ## Sons of Taurus
  - [http://www.sonsoftaurus.blogspot.ca](http://www.sonsoftaurus.blogspot.ca)
  - date_published: 2024-09-05T09:40:33+00:00
+
+ ## You Magnificent Bastard
+ - [http://youmagnificentbastard.blogspot.ca](http://youmagnificentbastard.blogspot.ca)
+ - date_published: 2025-01-20T17:06:14.749500+00:00
 
  ## Pacific Blue Cross - BC's #1 provider of health, dental and travel benefits
  - [https://www.pac.bluecross.ca](https://www.pac.bluecross.ca)
@@ -3476,544 +4015,4 @@
  ## Find Software
  - [https://capterra.ca](https://capterra.ca)
  - date_published: 2024-06-13T06:42:11.073248+00:00
-
- ## Capterra Canada vous aide à trouver le bon logiciel pour votre entreprise
- - [https://fr.capterra.ca](https://fr.capterra.ca)
- - date_published: 2024-07-20T19:26:39.650905+00:00
-
- ## Billetterie - Football 2024 - Carabins
- - [http://carabinsfootball.ca](http://carabinsfootball.ca)
- - date_published: 2024-08-06T17:05:13+00:00
-
- ## Imagination Toward a Thriving Society | Cardus
- - [https://www.cardus.ca](https://www.cardus.ca)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Dr. Carin Bondar - Biologist with a Twist
- - [https://carinbondar.ca](https://carinbondar.ca)
- - date_published: 2024-10-19T06:26:22.302932+00:00
-
- ## Home - Canadian Association of Research Libraries
- - [https://www.carl-abrc.ca](https://www.carl-abrc.ca)
- - date_published: 2024-10-22T21:49:47.733594+00:00
-
- ## Carleton 360
- - [https://360.carleton.ca](https://360.carleton.ca)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Undergraduate Admissions - Carleton University
- - [https://admissions.carleton.ca](https://admissions.carleton.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Carleton Alumni | Carleton University
- - [https://alumni.carleton.ca](https://alumni.carleton.ca)
- - date_published: 2024-07-08T16:37:07.342967+00:00
-
- ## Carleton Athletics | Carleton University
- - [https://athletics.carleton.ca](https://athletics.carleton.ca)
- - date_published: 2024-07-08T16:36:58.908517+00:00
-
- ## Sign In
- - [https://brightspace.carleton.ca](https://brightspace.carleton.ca)
- - date_published: 2024-07-08T16:37:14.924044+00:00
-
- ## Calendars < Carleton University
- - [https://calendar.carleton.ca](https://calendar.carleton.ca)
- - date_published: 2024-06-07T20:10:37+00:00
-
- ## Carleton University
- - [https://carleton.ca](https://carleton.ca)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Dining Services | Carleton University
- - [https://dining.carleton.ca](https://dining.carleton.ca)
- - date_published: 2024-07-08T16:37:03.593692+00:00
-
- ## Events Calendar - Carleton University
- - [https://events.carleton.ca](https://events.carleton.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Carleton FutureFunder
- - [https://futurefunder.carleton.ca](https://futurefunder.carleton.ca)
- - date_published: 2024-07-08T16:37:19.054705+00:00
-
- ## Current Grad Students | Carleton University
- - [https://gradstudents.carleton.ca](https://gradstudents.carleton.ca)
- - date_published: 2024-07-08T16:37:23.287082+00:00
-
- ## Graduate Admissions | Carleton University
- - [https://graduate.carleton.ca](https://graduate.carleton.ca)
- - date_published: 2024-07-08T16:37:26.661515+00:00
-
- ## HotSoft: Software as Interactive Media at Carleton University
- - [http://hotsoft.carleton.ca](http://hotsoft.carleton.ca)
- - date_published: 2024-06-23T20:38:14.826096+00:00
-
- ## Housing and Residence Life Services - Carleton University
- - [https://housing.carleton.ca](https://housing.carleton.ca)
- - date_published: 2024-07-08T16:36:55.808723+00:00
-
- ## Hub for Good - Carleton University
- - [https://hubforgood.carleton.ca](https://hubforgood.carleton.ca)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Sign In
- - [https://i.carleton.ca](https://i.carleton.ca)
- - date_published: 2024-07-08T16:37:12.748153+00:00
-
- ## MacOdrum Library | Carleton University
- - [https://library.carleton.ca](https://library.carleton.ca)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Carleton Newsroom | Carleton University
- - [https://newsroom.carleton.ca](https://newsroom.carleton.ca)
- - date_published: 2024-07-08T16:37:01.121040+00:00
-
- ## Research – Carleton University
- - [https://research.carleton.ca](https://research.carleton.ca)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Current Students - Carleton University : Current Students
- - [https://students.carleton.ca](https://students.carleton.ca)
- - date_published: 2024-07-08T16:36:53.357835+00:00
-
- ## Carleton Computer Security Lab (CCSL)
- - [https://www.ccsl.carleton.ca](https://www.ccsl.carleton.ca)
- - date_published: 2023-05-31T02:29:08+00:00
-
- ## Chris Carlier
- - [https://carlier.ca](https://carlier.ca)
- - date_published: 2023-12-28T18:49:41.221395+00:00
- - tags: ['personal']
-
- ## Carlo Franco
- - [http://www.carlofranco.ca](http://www.carlofranco.ca)
- - date_published: 2014-03-26T00:00:00+00:00
-
- ## Carson Brown
- - [https://carsonbrown.ca](https://carsonbrown.ca)
- - date_published: 2024-08-07T20:03:44.004535+00:00
-
- ## Tech Stuff and Notes
- - [http://blog.carsoncheng.ca](http://blog.carsoncheng.ca)
- - date_published: 2024-10-19T18:18:04+00:00
-
- ## Home | Cartoon Network
- - [http://www.cartoonnetwork.ca](http://www.cartoonnetwork.ca)
- - date_published: 2024-10-23T10:20:09.435032+00:00
-
- ## Cascade Automatic Dishwasher Detergent | Cascade Detergent
- - [https://cascadeclean.ca](https://cascadeclean.ca)
- - date_published: 2024-10-23T08:01:52+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.casimoose.ca](https://www.casimoose.ca)
- - date_published: 2024-07-01T05:41:03.615783+00:00
-
- ## Homepage
- - [https://casinoble.ca](https://casinoble.ca)
- - date_published: 2024-09-19T20:31:54.455229+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.casinobonusesindex.ca](https://www.casinobonusesindex.ca)
- - date_published: 2024-07-08T08:32:54.382099+00:00
-
- ## Casino En Ligne 2024, Les Meilleurs Casinos En Ligne Au Canada
- - [https://casinosfiables.ca](https://casinosfiables.ca)
- - date_published: 2024-12-30T05:24:45.885859+00:00
-
- ## Top 5 Top 5 Toronto Caterers for 2020 | Caterers.ca Plumbers and Plumbing Contractors for 2020 | Caterers.ca
- - [http://www.caterers.ca](http://www.caterers.ca)
- - date_published: 2024-06-29T17:26:18.620505+00:00
-
- ## Climate Action Coalition at the University of Alberta
- - [https://caua.ca](https://caua.ca)
- - date_published: 2024-07-20T15:44:30.046410+00:00
-
- ## CAUT Bulletin Archives 1995 - 2016
- - [https://bulletin-archives.caut.ca](https://bulletin-archives.caut.ca)
- - date_published: 2024-07-20T15:44:43.362844+00:00
-
- ## CAUT |
- - [https://www.caut.ca](https://www.caut.ca)
- - date_published: 2024-07-20T03:31:44+00:00
-
- ## cazander.ca
- - [https://cazander.ca](https://cazander.ca)
- - date_published: 2022-11-02T19:00:00+00:00
-
- ## Modern Furniture Store & Contemporary Home Decor for Canada | CB2 Canada
- - [https://www.cb2.ca](https://www.cb2.ca)
- - date_published: 2024-08-05T22:42:06.163847+00:00
-
- ## Home - Canadian Business Aviation Association
- - [https://www.cbaa-acaa.ca](https://www.cbaa-acaa.ca)
- - date_published: 2024-10-11T22:51:44.836302+00:00
-
- ## CBC Archives
- - [http://archives.cbc.ca](http://archives.cbc.ca)
- - date_published: 2024-12-23T21:32:51.547013+00:00
-
- ## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
- - [https://cbc.ca](https://cbc.ca)
- - date_published: 2024-06-15T21:05:27.624030+00:00
-
- ## CBC Help Centre
- - [https://cbchelp.cbc.ca](https://cbchelp.cbc.ca)
- - date_published: 2024-09-19T18:59:21.607636+00:00
-
- ## CBC Gem
- - [https://gem.cbc.ca](https://gem.cbc.ca)
- - date_published: 2024-09-19T18:59:25.171247+00:00
-
- ## Apache Tomcat/7.0.69 - Error report
- - [https://i.cbc.ca](https://i.cbc.ca)
- - date_published: 2024-08-20T05:38:56.397190+00:00
-
- ## Login Register And Forgot Password
- - [https://login.cbc.ca](https://login.cbc.ca)
- - date_published: 2024-09-19T18:59:28.119309+00:00
-
- ## Newsletter Subscriptions
- - [https://subscriptions.cbc.ca](https://subscriptions.cbc.ca)
- - date_published: 2024-09-19T18:59:29.475605+00:00
-
- ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
- - [https://thumbnails.cbc.ca](https://thumbnails.cbc.ca)
- - date_published: 2022-03-22T15:32:47+00:00
-
- ## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
- - [http://watch.cbc.ca](http://watch.cbc.ca)
- - date_published: 2024-07-11T17:20:21.101045+00:00
-
- ## Television, Radio, Web & Podcasts: Media Solutions is Canada's leader in creative campaigns - CBC & Radio-Canada Media Solutions
- - [https://solutionsmedia.cbcrc.ca](https://solutionsmedia.cbcrc.ca)
- - date_published: 2024-07-10T05:32:07.259669+00:00
-
- ## CBC Shop
- - [https://www.cbcshop.ca](https://www.cbcshop.ca)
- - date_published: 2024-09-19T18:59:23.248016+00:00
-
- ## CBD2HEAL | CBD Oil Canada | 100% THC FREE CBD Products
- - [https://cbd2heal.ca](https://cbd2heal.ca)
- - date_published: 2025-01-02T15:03:04+00:00
-
- ## Canadian Centre for DNA Barcoding – The sequencing facility of the Centre for Biodiversity Genomics
- - [http://ccdb.ca](http://ccdb.ca)
- - date_published: 2024-09-25T18:18:30.864544+00:00
-
- ## CCIRA | Central Coast Indigenous Resource Alliance
- - [https://www.ccira.ca](https://www.ccira.ca)
- - date_published: 2024-07-09T12:57:23.012831+00:00
-
- ## Accueil | National Collaborating Centre for Environmental Health | NCCEH - CCSNE | National Collaborating Centre for Environmental Health | NCCEH - CCSNE
- - [https://ccnse.ca](https://ccnse.ca)
- - date_published: 2024-06-18T14:56:16+00:00
-
- ## Canadian Common CV | Le cv commun canadien
- - [https://ccv-cvc.ca](https://ccv-cvc.ca)
- - date_published: 2024-05-07T13:10:08+00:00
-
- ## Home - Canadian Dam Association (CDA-ACB)
- - [https://www.cda.ca](https://www.cda.ca)
- - date_published: 2024-07-17T00:02:03.321993+00:00
-
- ## CDEACF
- - [http://cdeacf.ca](http://cdeacf.ca)
- - date_published: 2024-06-19T17:35:00+00:00
-
- ## Canada Deposit Insurance Corporation
- - [https://www.cdic.ca](https://www.cdic.ca)
- - date_published: 2024-06-16T09:41:29.651739+00:00
-
- ## CDMF Performing Arts Festival Society - Home
- - [http://www.cdmffestival.ca](http://www.cdmffestival.ca)
- - date_published: 2024-07-13T20:54:09.022556+00:00
-
- ## Honouring Excellence | Preserving History | Inspiring Generations
- - [https://www.cdnmedhall.ca](https://www.cdnmedhall.ca)
- - date_published: 2024-12-11T14:45:36+00:00
-
- ## https://cdrom.ca
- - [https://cdrom.ca](https://cdrom.ca)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## Home - Canadian Environmental Law Association
- - [http://www.cela.ca](http://www.cela.ca)
- - date_published: 2024-10-19T10:39:28.259521+00:00
-
- ## Celebration Generation
- - [http://celebrationgeneration.ca](http://celebrationgeneration.ca)
- - date_published: 2024-09-03T15:50:13+00:00
-
- ## centre of the universe
- - [http://www.cenobyte.ca](http://www.cenobyte.ca)
- - date_published: 2024-10-19T10:50:47.267980+00:00
-
- ## Centre Bell
- - [http://www.centrebell.ca](http://www.centrebell.ca)
- - date_published: 2024-07-10T11:02:29.334627+00:00
-
- ## CertaPro Painters | Professional House Painting Contractors and Professional Commercial Painting Contractors
- - [https://certapro.ca](https://certapro.ca)
- - date_published: 2024-06-18T16:27:51.055478+00:00
-
- ## Peintre professionnel Certapro Montréal
- - [https://certapromontreal.ca](https://certapromontreal.ca)
- - date_published: 2024-10-22T20:37:40.067536+00:00
-
- ## Canada's #1 Certification Platform | Certificate.ca
- - [http://certificate.ca](http://certificate.ca)
- - date_published: 2025-01-08T14:16:44.630510+00:00
-
- ## CESAR
- - [http://cesarnet.ca](http://cesarnet.ca)
- - date_published: 2024-07-21T06:07:48+00:00
-
- ## Doctor-Recommended Gentle Skincare Brand | Cetaphil Canada
- - [https://www.cetaphil.ca](https://www.cetaphil.ca)
- - date_published: 2024-10-30T23:04:06.459311+00:00
-
- ## CFES | FCEG |
- - [https://cfes.ca](https://cfes.ca)
- - date_published: 2024-07-21T09:11:03.285546+00:00
-
- ## CFPCLearn – Online Education for Family Physicians
- - [https://cfpclearn.ca](https://cfpclearn.ca)
- - date_published: 2024-10-10T19:26:48.449107+00:00
-
- ## Tel Aviv University Canada – Canadian Friends of Tel Aviv University
- - [https://cftau.ca](https://cftau.ca)
- - date_published: 2024-08-19T03:21:37.667871+00:00
-
- ## Computational Geometry Lab - Index
- - [https://cglab.ca](https://cglab.ca)
- - date_published: 2023-04-26T11:00:03+00:00
-
- ## Home | Challenge Factory
- - [https://challengefactory.ca](https://challengefactory.ca)
- - date_published: 2024-06-28T11:23:53.093122+00:00
-
- ## CharityCAN - Canada's Prospect Research and Relationship Mapping Tool
- - [http://www.charitycan.ca](http://www.charitycan.ca)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Information, research and resources for fundraisers and their leaders
- - [http://www.charityinfo.ca](http://www.charityinfo.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Charlie Reese
- - [https://charliereese.ca](https://charliereese.ca)
- - date_published: 2024-11-14T06:10:34.287175+00:00
-
- ## Home
- - [https://www.charlottetown.ca](https://www.charlottetown.ca)
- - date_published: 2024-07-07T03:37:27.583646+00:00
-
- ## Charmaine Li
- - [https://charmaineli.ca](https://charmaineli.ca)
- - date_published: 2024-12-25T16:12:29.308908+00:00
-
- ## Charter Challenge for Fair Voting
- - [https://www.charterchallenge.ca](https://www.charterchallenge.ca)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Chase Payment Solutions | Chase Canada | chase.ca
- - [https://merchantservices.chase.ca](https://merchantservices.chase.ca)
- - date_published: 2024-10-22T01:26:09+00:00
-
- ## Chase Payment Solutions | Chase Canada | chase.ca
- - [https://www.chase.ca](https://www.chase.ca)
- - date_published: 2024-05-04T06:12:33.436323+00:00
-
- ## ISD2.0-AWS
- - [https://chatterboxnorth.ca](https://chatterboxnorth.ca)
- - date_published: 2021-12-30T00:43:55+00:00
-
- ## Compass
- - [https://checkcompass.ca](https://checkcompass.ca)
- - date_published: 2024-08-09T04:27:29.997138+00:00
-
- ## Cheez-It® Canada – Cheesy Crunchy Satisfaction. |
- - [https://www.cheezit.ca](https://www.cheezit.ca)
- - date_published: 2024-12-22T04:46:29+00:00
-
- ## Experience the Best Private Chef Services in Calgary with Chef Igor
- - [https://chefigor.ca](https://chefigor.ca)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## The Chemical Institute of Canada
- - [https://www.cheminst.ca](https://www.cheminst.ca)
- - date_published: 2024-12-13T02:16:35.022794+00:00
-
- ## ChessCraft - Never play the same game of chess again
- - [https://www.chesscraft.ca](https://www.chesscraft.ca)
- - date_published: 2024-09-02T09:55:27.929441+00:00
-
- ## Chevrolet Canada | Cars, Trucks, SUVs, Crossovers & Vans
- - [https://www.chevrolet.ca](https://www.chevrolet.ca)
- - date_published: 2024-06-20T07:45:15.310364+00:00
-
- ## The Canadian Hydrogen and Fuel Cell Association
- - [https://www.chfca.ca](https://www.chfca.ca)
- - date_published: 2024-08-25T14:22:35+00:00
-
- ## Childcare in Canada, Canada
- - [http://www.childcare.ca](http://www.childcare.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Canadian Hockey League
- - [https://chl.ca](https://chl.ca)
- - date_published: 2024-12-12T23:49:37.888863+00:00
-
- ## Manawan Kitotakan CHMK 93,1 fm | Manawan Kitotakan | 251 Rue Mahikan, Manawan (Qc), Canada
- - [https://www.chmk.ca](https://www.chmk.ca)
- - date_published: 2024-12-31T01:37:42.903064+00:00
-
- ## Choice Properties - Canada's Preeminent REIT
- - [http://www.choicereit.ca](http://www.choicereit.ca)
- - date_published: 2024-12-12T15:20:36.900933+00:00
-
- ## Choly's Blog
- - [https://choly.ca](https://choly.ca)
- - date_published: 2024-03-25T14:06:24+00:00
- - tags: ['devlog', 'personal']
-
- ## Alemany and Jensen Family Mastodon
- - [https://mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca)
- - date_published: 2024-06-23T17:15:02.754829+00:00
-
- ## Chris Hunter
- - [http://chrishunter.ca](http://chrishunter.ca)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Chris Penner's FP
- - [https://chrispenner.ca](https://chrispenner.ca)
- - date_published: 2020-12-10T04:13:07+00:00
-
- ## Home Page | Christmas Cheer Board
- - [https://www.christmascheerboard.ca](https://www.christmascheerboard.ca)
- - date_published: 2024-06-19T09:54:25+00:00
-
- ## Hacksonomy
- - [https://blog.chriswoodford.ca](https://blog.chriswoodford.ca)
- - date_published: 2024-12-25T10:17:48.058666+00:00
-
- ## Discover Chrysler Canada | Chrysler Canada
- - [https://www.chrysler.ca](https://www.chrysler.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Deals on New Chrysler, Dodge, Jeep & Ram in Canada
- - [https://www.chryslerjeepdodgeramoffers.ca](https://www.chryslerjeepdodgeramoffers.ca)
- - date_published: 2024-10-28T16:04:13.344532+00:00
-
- ## Town of Churchill - Home
- - [https://churchill.ca](https://churchill.ca)
- - date_published: 2025-01-02T00:16:30.981763+00:00
-
- ## Personal Banking and Financial Services | CIBC
- - [https://cibc.ca](https://cibc.ca)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## CIBL 101,5 FM Montréal
- - [https://www.cibl1015.ca](https://www.cibl1015.ca)
- - date_published: 2024-07-01T10:07:05.843530+00:00
-
- ## Home - CIFAR
- - [https://cifar.ca](https://cifar.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home » CIFF
- - [https://www.ciffcalgary.ca](https://www.ciffcalgary.ca)
- - date_published: 2025-01-12T11:55:44.639534+00:00
-
- ## CIFST | Canadian Institute of Food Science & Technology
- - [https://cifst.ca](https://cifst.ca)
- - date_published: 2024-05-01T07:56:02.118511+00:00
-
- ## Canadian Institute for Health Information | CIHI
- - [https://www.cihi.ca](https://www.cihi.ca)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Your Health System | CIHI
- - [https://yourhealthsystem.cihi.ca](https://yourhealthsystem.cihi.ca)
- - date_published: 2024-06-22T15:55:03.262223+00:00
-
- ## Law Directory Canada - Cinch Law Canada
- - [https://cinchlaw.ca](https://cinchlaw.ca)
- - date_published: 2024-06-29T17:53:57.908903+00:00
-
- ## Canadian Investor Protection Fund
- - [https://cipf.ca](https://cipf.ca)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## CIPPIC | Canadian Internet Policy and Public Interest Clinic
- - [http://cippic.ca](http://cippic.ca)
- - date_published: 2024-10-22T21:48:34.556862+00:00
-
- ## Centre for International Policy Studies – Canada's leading centre for analysis and debate of international affairs.
- - [https://www.cips-cepi.ca](https://www.cips-cepi.ca)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Canadian Internet Registration Authority | CIRA
- - [https://cira.ca](https://cira.ca)
- - date_published: 2024-06-16T06:39:52.870868+00:00
-
- ## Circos – Circular Visualization
- - [https://circos.ca](https://circos.ca)
- - date_published: 2024-07-09T11:44:40+00:00
-
- ## Home
- - [http://cirl.ca](http://cirl.ca)
- - date_published: 2024-08-10T19:44:20+00:00
-
- ## Homepage
- - [https://ciro.ca](https://ciro.ca)
- - date_published: 2022-10-12T19:35:27+00:00
-
- ## Cision: PR Software & Marketing Platform
- - [https://www.cision.ca](https://www.cision.ca)
- - date_published: 2024-06-29T01:32:57+00:00
-
- ## The Citizen Lab - University of Toronto
- - [https://citizenlab.ca](https://citizenlab.ca)
- - date_published: 2023-10-25T12:09:16.663748+00:00
- - tags: ['human rights', 'privacy']
-
- ## Citizens Commission on Human Rights, CCHR - Nonprofit Mental Health Watchdog
- - [http://www.citizenscommissiononhumanrights.ca](http://www.citizenscommissiononhumanrights.ca)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Breaking News | Top Local Stories | CityNews Calgary
- - [https://calgary.citynews.ca](https://calgary.citynews.ca)
- - date_published: 2024-01-14T14:56:16.599498+00:00
- - tags: ['canada', 'news']
-
- ## Breaking News | Top Local Stories | CityNews Edmonton
- - [https://edmonton.citynews.ca](https://edmonton.citynews.ca)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Breaking News | Top Local Stories | CityNews Halifax
- - [https://halifax.citynews.ca](https://halifax.citynews.ca)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Breaking News | Top Local Stories | CityNews Kitchener
- - [https://kitchener.citynews.ca](https://kitchener.citynews.ca)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Breaking News | Top Local Stories | CityNews Montreal
- - [https://montreal.citynews.ca](https://montreal.citynews.ca)
- - date_published: 2023-11-05T06:28:16.282544+00:00
-
- ## Breaking News | Top Local Stories | CityNews Ottawa
- - [https://ottawa.citynews.ca](https://ottawa.citynews.ca)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Breaking News | Top Local Stories | CityNews Toronto
- - [https://toronto.citynews.ca](https://toronto.citynews.ca)
- - date_published: 2023-12-04T13:48:22.408481+00:00
-
- ## Breaking News | Top Local Stories | CityNews Vancouver
- - [https://vancouver.citynews.ca](https://vancouver.citynews.ca)
- - date_published: 2023-12-23T07:31:06.657092+00:00
 

@@ -1,3 +1,434 @@
+ ## DevStyleR – Новини за разработчици от технологии до лайфстайл
+ - [https://devstyler.bg](https://devstyler.bg)
+ - date_published: 2024-09-24T03:44:31+00:00
+
+ ## DigiKey Home
+ - [https://digikey.bg](https://digikey.bg)
+ - date_published: 2024-05-01T05:02:22.515962+00:00
+
+ ## Digital Tarnovo - Home
+ - [https://digitaltarnovo.bg](https://digitaltarnovo.bg)
+ - date_published: 2024-09-09T13:13:20+00:00
+
+ ## Дисни България | Официалният сайт на Дисни
+ - [https://disney.bg](https://disney.bg)
+ - date_published: 2024-06-16T01:50:47.594390+00:00
+
+ ## Dnes.bg - Вече знаеш
+ - [https://dnes.bg](https://dnes.bg)
+ - date_published: 2024-10-14T21:18:24.090787+00:00
+
+ ## DSP law office
+ - [https://dsp.bg](https://dsp.bg)
+ - date_published: 2021-01-11T03:35:51+00:00
+
+ ## Ecard Landing
+ - [https://e-card.bg](https://e-card.bg)
+ - date_published: 2020-07-31T15:35:41+00:00
+
+ ## Ecommerce Bridge България
+ - [https://www.ecommercebridge.bg](https://www.ecommercebridge.bg)
+ - date_published: 2024-12-14T03:33:53.343719+00:00
+
+ ## Economic.bg | За да разбереш: икономика, бизнес новини
+ - [https://economic.bg](https://economic.bg)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Economy.bg - бизнесът в България
+ - [https://economy.bg](https://economy.bg)
+ - date_published: 2024-09-24T11:15:51.531129+00:00
+
+ ## eDesign | Уеб дизайн и дигитална агенция
+ - [https://edesign.bg](https://edesign.bg)
+ - date_published: 2024-10-28T07:20:05.895600+00:00
+
+ ## Extreme Digital Kapcsolat | eMAG Help
+ - [https://edigital.bg](https://edigital.bg)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## ELLE № 1 в света на модата | ELLE.bg
+ - [https://elle.bg](https://elle.bg)
+ - date_published: 2024-10-14T22:33:30.601809+00:00
+
+ ## eMAG.bg - Широка гама продукти
+ - [https://emag.bg](https://emag.bg)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Epoch Times Bulgaria: Истината и традицията
+ - [https://epochtimes.bg](https://epochtimes.bg)
+ - date_published: 2019-07-11T12:32:40+00:00
+
+ ## Free Background Image Remover: Remove BG from HD Images Online - Erase.bg
+ - [https://erase.bg](https://erase.bg)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Euractiv Bulgaria
+ - [https://euractiv.bg](https://euractiv.bg)
+ - date_published: 2024-05-02T09:58:45.077706+00:00
+
+ ## eurodesk.bg - Начало
+ - [https://eurodesk.bg](https://eurodesk.bg)
+ - date_published: 2024-09-15T20:57:28.693061+00:00
+
+ ## Концерти, спорт, културни и други събития ~ Твоят билет е тук EVENTIM.bg
+ - [https://eventim.bg](https://eventim.bg)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## За Experian България
+ - [https://experian.bg](https://experian.bg)
+ - date_published: 2024-06-25T21:32:08.642373+00:00
+
+ ## Home - FANUC Academy
+ - [https://fanuc-academy.bg](https://fanuc-academy.bg)
+ - date_published: 2019-08-20T13:57:53+00:00
+
+ ## Българската страница на Ferrero
+ - [https://ferrero.bg](https://ferrero.bg)
+ - date_published: 2024-06-19T08:38:11.181695+00:00
+
+ ## FIAT BG | SFA AUTOMOTIVE | Нови автомобили - хибридни и електрически
+ - [https://fiat.bg](https://fiat.bg)
+ - date_published: 2024-06-14T15:18:46+00:00
+
+ ## FIAT BG | SFA AUTOMOTIVE | Нови автомобили - хибридни и електрически
+ - [https://fiatprofessional.bg](https://fiatprofessional.bg)
+ - date_published: 2024-06-14T15:18:46+00:00
+
+ ## Flatio - Short, mid and long-term rentals for digital nomads
+ - [https://flatio.bg](https://flatio.bg)
+ - date_published: 2024-06-25T17:49:15.856168+00:00
+
+ ## Flip.bg - Продайте телефона си без усилие!
+ - [https://flip.bg](https://flip.bg)
+ - date_published: 2024-09-16T02:24:18.433253+00:00
+
+ ## Изгодни автобусни превози в Европа → FlixBus
+ - [https://flixbus.bg](https://flixbus.bg)
+ - date_published: 2024-06-28T10:09:43+00:00
+
+ ## Ford Bulgaria | Ford България
+ - [https://ford.bg](https://ford.bg)
+ - date_published: 2024-10-29T21:39:41.802259+00:00
+
+ ## Ford | Налични автомобили
+ - [https://sale.ford.bg](https://sale.ford.bg)
+ - date_published: 2024-10-27T08:57:15+00:00
+
+ ## Ford Bulgaria | Ford България
+ - [https://www.ford.bg](https://www.ford.bg)
+ - date_published: 2024-06-19T17:00:57.177017+00:00
+
+ ## Фондация
+ - [https://frgi.bg](https://frgi.bg)
+ - date_published: 2024-12-15T15:05:02.376667+00:00
+
+ ## GamingGear - Онлайн магазин за геймърска периферия, компютри и аксесоари
+ - [https://gaminggear.bg](https://gaminggear.bg)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Gani Georgiev
+ - [https://gani.bg](https://gani.bg)
+ - date_published: 2022-08-14T20:50:32+00:00
+
+ ## Cierpliwości...
+ - [http://gdbop.bg](http://gdbop.bg)
+ - date_published: 2024-06-21T11:44:12.269625+00:00
+
+ ## Glami.bg - Ние обичаме модата!
+ - [https://www.glami.bg](https://www.glami.bg)
+ - date_published: 2024-12-14T05:24:19.141425+00:00
+
+ ## Glamour
+ - [https://glamour.bg](https://glamour.bg)
+ - date_published: 2024-05-04T08:12:37.419091+00:00
+
+ ## Футбол, гол, мачове, спорт, спортни новини
+ - [https://gol.bg](https://gol.bg)
+ - date_published: 2024-10-14T21:17:48.880427+00:00
+
+ ## Google
+ - [https://google.bg](https://google.bg)
+ - date_published: 2024-06-21T22:24:43.114824+00:00
+
+ ## Grafika Google
+ - [https://images.google.bg](https://images.google.bg)
+ - date_published: 2024-07-20T07:39:08.825490+00:00
+
+ ## Министерски съвет
+ - [https://gov.bg](https://gov.bg)
+ - date_published: 2024-08-18T06:50:09.406144+00:00
+
+ ## Начална страница
+ - [https://umispublic.government.bg](https://umispublic.government.bg)
+ - date_published: 2024-09-12T14:53:08.981753+00:00
+
+ ## Homepage
+ - [https://hilti.bg](https://hilti.bg)
+ - date_published: 2024-06-20T07:27:00.802602+00:00
+
+ ## Web Hosting and domain name, from only for 1.99€ | Hostico
+ - [https://hostico.bg](https://hostico.bg)
+ - date_published: 2024-06-16T14:57:27.478310+00:00
+
+ ## IBAN Проверка: Валидиране на международен номер на банкова сметка
+ - [https://iban.bg](https://iban.bg)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Auctions
+ - [https://auctions.ibex.bg](https://auctions.ibex.bg)
+ - date_published: 2024-06-04T11:43:04+00:00
+
+ ## CASS
+ - [https://clearing.ibex.bg](https://clearing.ibex.bg)
+ - date_published: 2024-05-27T06:27:50+00:00
+
+ ## IBEX – Your Most Trusted Partner
+ - [https://ibex.bg](https://ibex.bg)
+ - date_published: 2024-05-20T02:45:42.686692+00:00
+
+ ## Intraday - Ibex
+ - [https://intraday.ibex.bg](https://intraday.ibex.bg)
+ - date_published: 2024-06-06T08:44:04+00:00
+
+ ## начало :: Българска независима Енергийна Борса
+ - [https://umm.ibex.bg](https://umm.ibex.bg)
+ - date_published: 2024-07-20T13:59:00.841505+00:00
+
+ ## За компанията
+ - [https://ibg.bg](https://ibg.bg)
+ - date_published: 2024-10-14T21:18:03.676066+00:00
+
+ ## Investor Media Group – Investor Media Group
+ - [https://portfolio.ibg.bg](https://portfolio.ibg.bg)
+ - date_published: 2024-10-14T21:18:01.550029+00:00
+
+ ## Borislav Stanimirov
+ - [https://ibob.bg](https://ibob.bg)
+ - date_published: 2023-10-25T09:01:22.391586+00:00
+ - tags: ['personal']
+
+ ## energy chains, polymer bearings, flexible cable, &amp; linear slides
+ - [https://igus.bg](https://igus.bg)
+ - date_published: 2024-08-06T23:12:22.861623+00:00
+
+ ## Начална страница
+ - [https://www.ikea.bg](https://www.ikea.bg)
+ - date_published: 2024-07-19T23:44:14.879912+00:00
+ - date_dead_since: 2025-01-04T19:20:50.562530+00:00
+
+ ## Начало - Издателска къща Хермес
+ - [https://ikhermes.bg](https://ikhermes.bg)
+ - date_published: 2024-07-11T10:48:55.292793+00:00
+
+ ## Новини Благоевград, Региона, Югозапада-Илинден Прес
+ - [https://ilindenpres.bg](https://ilindenpres.bg)
+ - date_published: 2024-06-21T11:55:11.115109+00:00
+
+ ## Платформа #1 За Финансови Обучения | Investclub
+ - [https://investclub.bg](https://investclub.bg)
+ - date_published: 2024-09-24T11:15:04.542003+00:00
+
+ ## Медия в движение
+ - [https://automedia.investor.bg](https://automedia.investor.bg)
+ - date_published: 2024-10-14T21:18:25.877859+00:00
+
+ ## Финанси, Бизнес, Имоти, Фондова борса, Валутна търговия
+ - [https://investor.bg](https://investor.bg)
+ - date_published: 2024-10-14T21:17:46.516766+00:00
+
+ ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
+ - [https://jack-wolfskin.bg](https://jack-wolfskin.bg)
+ - date_published: 2024-07-14T12:16:03.712293+00:00
+
+ ## Обувки, дрехи и аксесоари | Магазин JD Sports България
+ - [https://jdsports.bg](https://jdsports.bg)
+ - date_published: 2024-10-21T02:15:36.781857+00:00
+
+ ## Jeep® BG | SFA AUTOMOTIVE | Нови автомобили - SUV, кросоувър и 4х4
+ - [https://jeep.bg](https://jeep.bg)
+ - date_published: 2015-07-12T12:50:38+00:00
+
+ ## Обяви за работа - JobTiger - HR компания и кариерен сайт
+ - [https://jobtiger.bg](https://jobtiger.bg)
+ - date_published: 2024-06-21T11:50:27+00:00
+
+ ## Хостинг и домейни - премиум услуги на конкурентни цени! | Jump.bg
+ - [https://jump.bg](https://jump.bg)
+ - date_published: 2024-06-21T11:50:44.429292+00:00
+
+ ## Решения за киберсигурност на Kaspersky за дома и бизнеса | Kaspersky
+ - [https://kaspersky.bg](https://kaspersky.bg)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Начало
+ - [https://kaufland.bg](https://kaufland.bg)
+ - date_published: 2024-06-25T19:02:03.274615+00:00
+
+ ## Комисия за защита на потребителите
+ - [https://kzp.bg](https://kzp.bg)
+ - date_published: 2024-10-05T22:53:00.290640+00:00
+
+ ## Безплатни онлайн игри - Lagged.bg
+ - [https://lagged.bg](https://lagged.bg)
+ - date_published: 2024-05-04T11:46:17.725410+00:00
+
+ ## Land Rover | Разгледайте луксозните SUV и 4x4 автомобили | Land Rover
+ - [https://landrover.bg](https://landrover.bg)
+ - date_published: 2024-07-09T17:15:52.728812+00:00
+
+ ## Уроците на успеха от първа ръка | Leader Class
+ - [https://leaderclass.bg](https://leaderclass.bg)
+ - date_published: 2022-09-05T17:44:16+00:00
+
+ ## Актуални бизнес новини от България и света
+ - [https://lider.bg](https://lider.bg)
+ - date_published: 2024-06-20T22:28:21+00:00
+
+ ## Lidl. Верига от любими продукти
+ - [https://lidl.bg](https://lidl.bg)
+ - date_published: 2024-06-25T19:03:36.439040+00:00
+
+ ## Chocolates, Truffles, and Delicious Gifts: Buy Online | Lindt Shop Bulgaria
+ - [https://www.lindt.bg](https://www.lindt.bg)
+ - date_published: 2024-12-20T16:59:01.236913+00:00
+
+ ## LION Rent-A-Car автомобили под наем
+ - [https://lionrentacar.bg](https://lionrentacar.bg)
+ - date_published: 2024-07-04T07:36:59.048297+00:00
+
+ ## Начална страница
+ - [https://liveagent.bg](https://liveagent.bg)
+ - date_published: 2024-10-19T20:27:01.460255+00:00
+
+ ## Mail.bg: Вход
+ - [https://mail.bg](https://mail.bg)
+ - date_published: 2024-06-21T11:50:22.747161+00:00
+
+ ## Сайт за запознанства: намерете сериозни необвързани ­| Meetic
+ - [https://meetic.bg](https://meetic.bg)
+ - date_published: 2024-09-04T11:49:52.617099+00:00
+
+ ## Мегавселена - Моят свят на науката
+ - [https://megavselena.bg](https://megavselena.bg)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Начало - Mencare
+ - [http://mencare.bg](http://mencare.bg)
+ - date_published: 2024-12-15T15:05:00.722389+00:00
+
+ ## Начало
+ - [https://metlife.bg](https://metlife.bg)
+ - date_published: 2024-07-19T16:34:30+00:00
+
+ ## Miss Hosting
+ - [https://misshosting.bg](https://misshosting.bg)
+ - date_published: 2014-11-05T00:00:00+00:00
+
+ ## Моето дете | Moetodete.bg
+ - [https://moetodete.bg](https://moetodete.bg)
+ - date_published: 2024-10-14T22:33:12.632292+00:00
+
+ ## Бизнес, икономически и финансови новини от България и света
+ - [https://money.bg](https://money.bg)
+ - date_published: 2024-06-21T11:55:08.766458+00:00
+
+ ## Употребявани автомобили » MOTO-PFOHE Select
+ - [https://usedcars.motopfohe.bg](https://usedcars.motopfohe.bg)
+ - date_published: 2024-10-29T21:39:44.025501+00:00
+
+ ## Electronic Components Distributor - Mouser Electronics Bulgaria
+ - [https://mouser.bg](https://mouser.bg)
+ - date_published: 2024-07-01T20:55:43.408073+00:00
+
+ ## National Geographic България
+ - [https://nationalgeographic.bg](https://nationalgeographic.bg)
+ - date_published: 2024-06-16T22:11:09.383026+00:00
+
+ ## Начална страница
+ - [https://nbu.bg](https://nbu.bg)
+ - date_published: 2024-06-21T11:52:11.476925+00:00
+
+ ## Нестле България. NESTLÉ – Добра храна, Добър живот
+ - [https://www.nestle.bg](https://www.nestle.bg)
+ - date_published: 2024-09-14T18:35:47+00:00
+
+ ## ONLINE ADVERTISING BULGARIA
+ - [https://oa.netpeak.bg](https://oa.netpeak.bg)
+ - date_published: 2025-01-17T20:16:51.283445+00:00
+
+ ## Cierpliwości...
+ - [https://offnews.bg](https://offnews.bg)
+ - date_published: 2024-07-02T22:16:23.931310+00:00
+
+ ## OLX.bg - безплатни обяви
+ - [https://olx.bg](https://olx.bg)
+ - date_published: 2024-08-19T18:04:34.109716+00:00
+
+ ## Bg Online Casino ᑕ❤️ᑐ Най-добрите Казина в България
+ - [https://www.online-casino.bg](https://www.online-casino.bg)
+ - date_published: 2024-12-19T20:44:43+00:00
+
+ ## Opel България | Нови автомобили | opel bg
+ - [https://opel.bg](https://opel.bg)
+ - date_published: 2024-07-11T09:42:55+00:00
+
+ ## Mагазин за игри, книги, геймърски аксесоари и играчки | Ozone.bg
+ - [https://ozone.bg](https://ozone.bg)
+ - date_published: 2024-06-17T05:42:42.455399+00:00
+
+ ## ПЕРИ България ЕООД - Кофраж Скеле Компоненти Инженеринг
+ - [https://peri.bg](https://peri.bg)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Philips - България
+ - [https://www.philips.bg](https://www.philips.bg)
+ - date_published: 2024-10-29T10:08:06+00:00
+
+ ## pocketbook
+ - [https://pocketbook.bg](https://pocketbook.bg)
+ - date_published: 2024-07-20T16:12:33.379858+00:00
+
+ ## Качествени, устойчиви домакински уреди | Bosch
+ - [https://promotion-bshhome.bg](https://promotion-bshhome.bg)
+ - date_published: 2024-10-14T18:46:28.925563+00:00
+
+ ## Web Design & Custom Software Development Agency
+ - [https://provision.bg](https://provision.bg)
+ - date_published: 2021-05-20T00:00:00+00:00
+
+ ## A Media Company
+ - [https://publico.bg](https://publico.bg)
+ - date_published: 2024-05-08T03:51:26.143455+00:00
+
+ ## publics.bg - public services knowledge network - мрежа за знания в публичните услуги
+ - [https://publics.bg](https://publics.bg)
+ - date_published: 2024-06-21T11:55:18.084177+00:00
+
+ ## Puls.bg - всичко за здравето, Портал за Здраве, Медицина, Болести и Лекарства | Puls.bg | Puls.bg
+ - [https://puls.bg](https://puls.bg)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Обяви за работа - всеки ден нови обяви за работа в Rabota.bg
+ - [https://rabota.bg](https://rabota.bg)
+ - date_published: 2024-10-14T21:17:43.000654+00:00
+
+ ## Modern CSS
+ - [https://css.rado.bg](https://css.rado.bg)
+ - date_published: 2023-11-27T09:02:09+00:00
+
+ ## tourist wannabe
+ - [https://rado.bg](https://rado.bg)
+ - date_published: 2024-02-13T17:36:00.453841+00:00
+ - tags: ['personal']
+
+ ## Новини от Благоевград и страната
+ - [https://regiona.bg](https://regiona.bg)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Remove Background from Image for Free – remove.bg
+ - [https://remove.bg](https://remove.bg)
+ - date_published: 2024-06-14T00:00:00+00:00
+
  ## Наръчник за видовете онлайн тормоз
  - [https://cyberbullying.safenet.bg](https://cyberbullying.safenet.bg)
  - date_published: 2020-01-24T21:16:29+00:00
@@ -532,6 +963,10 @@
  ## Ismail Elouafiq
  - [https://ismail.bio](https://ismail.bio)
  - date_published: 2024-08-18T13:07:36.607084+00:00
+
+ ## iWin | iWin Club - Sòng Bạc Thượng Lưu 2024, Tải Game +50K
+ - [https://iwin.bio](https://iwin.bio)
+ - date_published: 2025-01-20T19:01:13.030245+00:00
 
  ## Jacob Bennett
  - [https://jacob.bio](https://jacob.bio)
@@ -1858,6 +2293,10 @@
  - [https://aaron.blog](https://aaron.blog)
  - date_published: 2024-08-18T16:11:44.240702+00:00
 
+ ## AAS Art + Concept
+ - [https://aasartconcept.blog](https://aasartconcept.blog)
+ - date_published: 2025-01-21T00:50:28.350978+00:00
+
  ## Abbe's Road
  - [https://abbesroad.blog](https://abbesroad.blog)
  - date_published: 2023-12-08T09:38:25.844834+00:00
@@ -1866,6 +2305,10 @@
  ## About Blank®
  - [https://aboutblank.blog](https://aboutblank.blog)
  - date_published: 2024-09-09T23:17:27.522857+00:00
+
+ ## about photography
+ - [https://aboutphotography.blog](https://aboutphotography.blog)
+ - date_published: 2025-01-20T21:08:17.129281+00:00
 
  ## achyut
  - [https://achyut.blog](https://achyut.blog)
@@ -1930,6 +2373,10 @@
  ## Always Processing
  - [https://alwaysprocessing.blog](https://alwaysprocessing.blog)
  - date_published: 2024-06-23T15:05:04.782308+00:00
+
+ ## AMAG Blog | AMAG Group AG
+ - [https://www.amag-group.blog](https://www.amag-group.blog)
+ - date_published: 2025-01-20T18:52:16.033832+00:00
 
  ## Jottings on an Envelope
  - [https://amitg.blog](https://amitg.blog)
@@ -2167,6 +2614,10 @@
  ## Canion dot Blog
  - [https://canion.blog](https://canion.blog)
  - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Carmelite Quotes
+ - [http://carmelitequotes.blog](http://carmelitequotes.blog)
+ - date_published: 2025-01-20T09:18:32.743756+00:00
 
  ## Hi, I'm Caroline.
  - [https://caroline.blog](https://caroline.blog)
@@ -2443,6 +2894,10 @@
  - [https://eliot.blog](https://eliot.blog)
  - date_published: 2023-10-25T12:00:04.356787+00:00
 
+ ## Emperor's Notepad
+ - [http://emperorponders.blog](http://emperorponders.blog)
+ - date_published: 2025-01-20T09:00:12.794805+00:00
+
  ## Emily Short's Interactive Storytelling
  - [https://emshort.blog](https://emshort.blog)
  - date_published: 2024-05-11T00:00:00+00:00
@@ -2490,6 +2945,10 @@
  ## Autistically Me
  - [https://autisticallyme.family.blog](https://autisticallyme.family.blog)
  - date_published: 2024-09-03T23:08:03.791552+00:00
+
+ ## Fantastische Antike - Antikenrezeption in Science Fiction, Horror und Fantasy
+ - [https://fantastischeantike.blog](https://fantastischeantike.blog)
+ - date_published: 2025-01-21T00:41:31.714724+00:00
 
  ## Fediverse.blog ⋅ Plume
  - [https://fediverse.blog](https://fediverse.blog)
@@ -2550,6 +3009,10 @@
  ## Galileo Unbound
  - [https://galileo-unbound.blog](https://galileo-unbound.blog)
  - date_published: 2024-07-15T22:20:44+00:00
+
+ ## Cypher Daygame
+ - [https://cypher.game.blog](https://cypher.game.blog)
+ - date_published: 2025-01-20T22:58:25.588364+00:00
 
  ## Playful Void
  - [https://playfulvoid.game.blog](https://playfulvoid.game.blog)
@@ -2668,6 +3131,10 @@
  ## Haikal Kushahrin
  - [https://haikal.blog](https://haikal.blog)
  - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Handstands Around the World
+ - [http://handstandsaroundtheworld.blog](http://handstandsaroundtheworld.blog)
+ - date_published: 2025-01-20T18:50:45.569155+00:00
 
  ## handwritten.blog
  - [https://handwritten.blog](https://handwritten.blog)
@@ -2821,6 +3288,10 @@
  ## ✨🌈 Squelfland 🌈✨
  - [https://marinaneira.home.blog](https://marinaneira.home.blog)
  - date_published: 2024-08-06T05:11:45+00:00
+
+ ## More Odds Than Ends
+ - [https://moreoddsthanends.home.blog](https://moreoddsthanends.home.blog)
+ - date_published: 2025-01-20T09:19:44.242416+00:00
 
  ## Neues aus Mythantika
  - [https://mythantika.home.blog](https://mythantika.home.blog)
@@ -3466,6 +3937,10 @@
  - date_published: 2023-12-20T05:39:06.849238+00:00
  - tags: ['personal']
 
+ ## CSMMI MILART
+ - [https://milart.blog](https://milart.blog)
+ - date_published: 2025-01-20T08:57:22.943428+00:00
+
  ## Doing Our Bit
  - [https://militaryandfamilyhistory.blog](https://militaryandfamilyhistory.blog)
  - date_published: 2024-06-21T09:41:14.325834+00:00
@@ -3597,497 +4072,4 @@
  ## noisybrain
  - [https://noisybrain.blog](https://noisybrain.blog)
  - date_published: 2024-06-30T05:02:41.389045+00:00
-
- ## agm
- - [https://nomad.blog](https://nomad.blog)
- - date_published: 2024-06-30T10:13:52.135456+00:00
-
- ## Nomad Online
- - [https://nomadonline.blog](https://nomadonline.blog)
- - date_published: 2024-09-06T01:02:24+00:00
-
- ## Notes From Pavis
- - [https://notesfrompavis.blog](https://notesfrompavis.blog)
- - date_published: 2025-01-01T11:53:59.464478+00:00
-
- ## Nothing But The Truth
- - [https://nothingbutthetruth.blog](https://nothingbutthetruth.blog)
- - date_published: 2024-09-02T23:06:29+00:00
-
- ## Nothing Radical
- - [https://nothingradical.blog](https://nothingradical.blog)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## notizBlog
- - [https://notiz.blog](https://notiz.blog)
- - date_published: 2024-01-07T08:45:39.431652+00:00
-
- ## NSMC Internship
- - [https://nsmc.blog](https://nsmc.blog)
- - date_published: 2024-06-28T11:51:32.290325+00:00
-
- ## NTDEV
- - [https://ntdev.blog](https://ntdev.blog)
- - date_published: 2024-05-07T15:27:08.241538+00:00
-
- ## NutriBites
- - [https://nutribites.blog](https://nutribites.blog)
- - date_published: 2024-08-18T20:45:09.332370+00:00
-
- ## Something Odd!
- - [https://odd.blog](https://odd.blog)
- - date_published: 2024-06-30T10:13:30.320303+00:00
-
- ## COGITO
- - [https://oecdcogito.blog](https://oecdcogito.blog)
- - date_published: 2025-01-08T06:48:18.888506+00:00
-
- ## ECOSCOPE
- - [https://oecdecoscope.blog](https://oecdecoscope.blog)
- - date_published: 2025-01-06T11:16:32+00:00
-
- ## Oh Hello Ana
- - [https://ohhelloana.blog](https://ohhelloana.blog)
- - date_published: 2024-01-03T04:05:44.287778+00:00
-
- ## OldLady With Autism
- - [https://oldladywithautism.blog](https://oldladywithautism.blog)
- - date_published: 2024-09-03T23:02:06.728939+00:00
-
- ## Om Malik
- - [https://om.blog](https://om.blog)
- - date_published: 2024-05-10T03:47:47.138641+00:00
-
- ## OncoBites
- - [https://oncobites.blog](https://oncobites.blog)
- - date_published: 2024-12-21T13:33:19.630444+00:00
-
- ## Blogging On Rails
- - [https://onrails.blog](https://onrails.blog)
- - date_published: 2024-04-28T05:57:03.045256+00:00
- - tags: ['ruby', 'ruby on rails']
-
- ## Open Notes
- - [https://opennotes.blog](https://opennotes.blog)
- - date_published: 2024-07-06T16:43:55+00:00
-
- ## OSINT Team
- - [https://osintteam.blog](https://osintteam.blog)
- - date_published: 2024-12-22T13:05:30.255251+00:00
-
- ## Outside the Asylum
- - [https://outsidetheasylum.blog](https://outsidetheasylum.blog)
- - date_published: 2024-05-08T09:57:24.649518+00:00
-
- ## overcast blog
- - [https://overcast.blog](https://overcast.blog)
- - date_published: 2024-10-22T08:19:34.456972+00:00
-
- - [https://overemployee.blog](https://overemployee.blog)
- - date_published: 2024-01-09T02:26:42.986613+00:00
- - date_dead_since: 2025-01-04T21:45:00.233090+00:00
-
- ## Andrew Ozz on WordPress
- - [https://ozz.blog](https://ozz.blog)
- - date_published: 2024-06-30T10:13:50.300772+00:00
-
- ## Padlet Gazette
- - [https://padlet.blog](https://padlet.blog)
- - date_published: 2024-05-06T15:25:23.339273+00:00
-
- ## Painting In The Dark
- - [https://paintinginthedark.blog](https://paintinginthedark.blog)
- - date_published: 2024-06-18T23:30:07.623393+00:00
-
- ## p410n3 blog – Palone's Blog. I sometimes write stuff about technology here.
- - [https://palone.blog](https://palone.blog)
- - date_published: 2021-06-06T00:00:00+00:00
-
- ## Paperless
- - [https://paperless.blog](https://paperless.blog)
- - date_published: 2023-10-25T08:57:53.071595+00:00
- - tags: ['personal']
-
- ## Pat’s Substack | Pat Murphy | Substack
- - [https://www.patmurphy.blog](https://www.patmurphy.blog)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Paul's Picks
- - [https://paulspicks.blog](https://paulspicks.blog)
- - date_published: 2024-12-12T06:03:14.586986+00:00
-
- ## Penandpaper.blog
- - [https://penandpaper.blog](https://penandpaper.blog)
- - date_published: 2025-01-16T14:46:52.244884+00:00
-
- ## Pensions and Benefits
- - [https://pensionsandbenefits.blog](https://pensionsandbenefits.blog)
- - date_published: 2024-09-15T23:33:49.216420+00:00
-
- ## Perceiving Systems Blog
- - [https://perceiving-systems.blog](https://perceiving-systems.blog)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Petros Amoiridis
- - [https://petros.blog](https://petros.blog)
- - date_published: 2023-12-15T21:43:49.329150+00:00
- - tags: ['personal']
-
- ## Pine.blog – The Official Blog of Pine.blog | A Feed Reader Like Never Before
- - [https://blog.pine.blog](https://blog.pine.blog)
- - date_published: 2024-05-08T03:30:27.711793+00:00
-
- ## Pine.blog
- - [https://pine.blog](https://pine.blog)
- - date_published: 2024-05-08T03:30:24.768222+00:00
-
- ## Captcha Page
- - [https://p.pine.blog](https://p.pine.blog)
- - date_published: 2024-07-03T18:04:31.621596+00:00
-
- ## Niklas's blog
- - [https://pivic.blog](https://pivic.blog)
- - date_published: 2024-01-22T00:00:00+00:00
- - tags: ['personal']
-
- ## Pixelfed Blog
- - [https://pixelfed.blog](https://pixelfed.blog)
- - date_published: 2023-10-25T12:00:46.045454+00:00
-
- ## pixiv inside
- - [https://inside.pixiv.blog](https://inside.pixiv.blog)
- - date_published: 2024-06-18T22:08:57.141279+00:00
-
- ## PJ Onori’s blog
- - [https://pjonori.blog](https://pjonori.blog)
- - date_published: 2024-07-12T21:38:20.048676+00:00
-
- ## Plastic Craic
- - [https://plasticcraic.blog](https://plasticcraic.blog)
- - date_published: 2024-10-26T17:53:44.537968+00:00
-
- ## Power Moves
- - [https://powermoves.blog](https://powermoves.blog)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Pragmatic Environmentalist of New  York
- - [https://pragmaticenvironmentalistofnewyork.blog](https://pragmaticenvironmentalistofnewyork.blog)
- - date_published: 2024-08-19T08:08:13.859421+00:00
-
- ## Prashanth's Blog
- - [https://prashanths.blog](https://prashanths.blog)
- - date_published: 2023-12-17T05:07:12.878570+00:00
- - tags: ['personal']
-
- ## Privacy World | Data Privacy, Security and Innovation News
- - [https://privacyworld.blog](https://privacyworld.blog)
- - date_published: 2024-09-15T23:34:12.139500+00:00
-
- ## Reason #48: Strangers on a Train - George, Probably Blogs
- - [https://probably.blog](https://probably.blog)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Product Leaders
- - [https://productleaders.blog](https://productleaders.blog)
- - date_published: 2024-06-09T20:46:29+00:00
- - tags: ['business']
-
- ## coldhearted scientist وداد
- - [https://profacero.blog](https://profacero.blog)
- - date_published: 2024-10-19T08:03:46.738660+00:00
-
- ## James Mills
-		- James Mills
- - [https://prologic.blog](https://prologic.blog)
- - date_published: 2024-03-06T08:45:28+00:00
- - tags: ['personal']
-
- ## The Stream of Thought That Waters the Garden
- - [https://quantumgardener.blog](https://quantumgardener.blog)
- - date_published: 2023-11-29T14:25:56.871546+00:00
- - tags: ['personal']
-
- ## Questions Considered
- - [https://questionsconsidered.blog](https://questionsconsidered.blog)
- - date_published: 2024-08-25T00:00:00+00:00
-
- ## Quigs.blog
- - [https://quigs.blog](https://quigs.blog)
- - date_published: 2023-12-18T01:34:04.013330+00:00
- - tags: ['personal']
-
- ## Simple Analytics
- - [https://readers.quigs.blog](https://readers.quigs.blog)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## Raku Advent Calendar – Raku is a multi-paradigm language where there's more than one way to do it
- - [https://raku-advent.blog](https://raku-advent.blog)
- - date_published: 2023-10-25T12:00:54.086156+00:00
-
- ## Rakudo Weekly News
- - [https://rakudoweekly.blog](https://rakudoweekly.blog)
- - date_published: 2024-07-04T03:52:35.365604+00:00
-
- ## The Rattlin' Blog
- - [https://rattlin.blog](https://rattlin.blog)
- - date_published: 2023-03-28T00:32:12+00:00
-
- ## Jeannette Goon
- - [https://realhumangirl.blog](https://realhumangirl.blog)
- - date_published: 2023-12-02T10:25:54.865102+00:00
- - tags: ['personal']
-
- ## Realize Engineering | An engineering commentary for everyone every Wednesday since 2012
- - [https://realizeengineering.blog](https://realizeengineering.blog)
- - date_published: 2023-10-25T12:01:02.147552+00:00
-
- ## The REAPER Blog
- - [https://reaper.blog](https://reaper.blog)
- - date_published: 2024-08-08T16:08:57+00:00
-
- ## (no title)
- - [https://redcrossplus.blog](https://redcrossplus.blog)
- - date_published: 2024-09-13T16:51:46.691349+00:00
-
- ## Re-enchantment Of The World
- - [https://reenchantmentoftheworld.blog](https://reenchantmentoftheworld.blog)
- - date_published: 2024-09-17T17:49:31.101995+00:00
-
- ## Reese Richardson
- - [https://reeserichardson.blog](https://reeserichardson.blog)
- - date_published: 2024-02-04T02:18:53.099471+00:00
-
- ## regenbogenfabrik 40
- - [https://regenbogenfabrik40.blog](https://regenbogenfabrik40.blog)
- - date_published: 2024-07-14T03:13:21.017828+00:00
-
- ## Research Degree Insiders
- - [https://researchinsiders.blog](https://researchinsiders.blog)
- - date_published: 2024-05-02T10:13:36.139493+00:00
-
- ## Retro365
- - [https://retro365.blog](https://retro365.blog)
- - date_published: 2024-07-13T05:03:42.714717+00:00
-
- ## Cooking Pancakes | revi
- - [https://revi.blog](https://revi.blog)
- - date_published: 2024-06-10T07:07:48.083451+00:00
- - tags: ['personal']
-
- ## home · Joseph Thacker
- - [https://rez0.blog](https://rez0.blog)
- - date_published: 2023-10-25T12:01:04.204782+00:00
-
- ## Rich Tabor
- - [https://rich.blog](https://rich.blog)
- - date_published: 2024-04-03T12:46:23.521811+00:00
- - tags: ['personal']
-
- ## Richard Bloomfield's Blog • Technology, church music, bicycles, and life in Ireland
- - [https://richardbloomfield.blog](https://richardbloomfield.blog)
- - date_published: 2024-04-23T10:12:37.646980+00:00
- - tags: ['personal']
-
- ## Rightmove Tech Blog
- - [https://rightmove.blog](https://rightmove.blog)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Riley Harris
- - [https://rileyharris.blog](https://rileyharris.blog)
- - date_published: 2024-01-19T13:02:00.009123+00:00
-
- ## Rox’s Picks | Roxine Kee | Substack
- - [https://roxine.blog](https://roxine.blog)
- - date_published: 2024-08-08T22:50:04.278551+00:00
-
- ## RTP Live JAGOANSPIN : Info Bocoran Slot Gacor Hari ini
- - [https://rtpjsgacor.blog](https://rtpjsgacor.blog)
- - date_published: 2024-12-29T03:07:46+00:00
-
- ## RunSignup Blog
- - [https://runsignup.blog](https://runsignup.blog)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## John Payne
- - [https://jpayne.sackheads.blog](https://jpayne.sackheads.blog)
- - date_published: 2024-07-25T19:39:05+00:00
-
- ## Comunidad Saker Latinoamérica
- - [https://sakerlatam.blog](https://sakerlatam.blog)
- - date_published: 2024-12-20T09:12:43.118134+00:00
-
- ## Saptak's Blog
- - [https://saptaks.blog](https://saptaks.blog)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## sarah.blog
- - [https://sarah.blog](https://sarah.blog)
- - date_published: 2023-11-29T14:44:35.706152+00:00
- - tags: ['personal']
-
- ## Sawyer Stories - Tales of Oar locks, Eddies, and The Feel Of Water
- - [https://sawyerstories.blog](https://sawyerstories.blog)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Schneide Blog
- - [https://schneide.blog](https://schneide.blog)
- - date_published: 2024-07-09T12:15:44.546172+00:00
-
- ## 100 Raspberry Pi labs
- - [https://100pilabs.school.blog](https://100pilabs.school.blog)
- - date_published: 2025-01-15T17:53:31.884821+00:00
-
- ## JJ's Character Design Blog
- - [https://jayscool.school.blog](https://jayscool.school.blog)
- - date_published: 2024-12-31T06:08:34.768133+00:00
-
- ## Longitudinal Science
- - [https://longitudinal.science.blog](https://longitudinal.science.blog)
- - date_published: 2024-10-27T11:27:39+00:00
-
- ## Shtetl-Optimized
- - [https://scottaaronson.blog](https://scottaaronson.blog)
- - date_published: 2023-10-25T12:01:16.273400+00:00
- - tags: ['personal']
-
- ## Semantically Secure
- - [https://scottarc.blog](https://scottarc.blog)
- - date_published: 2024-04-13T07:41:59.654361+00:00
- - tags: ['personal']
-
- ## Scott Lamb – Medium
- - [https://scottlamb.blog](https://scottlamb.blog)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Screwed Up Dice
- - [https://www.screwedupdice.blog](https://www.screwedupdice.blog)
- - date_published: 2024-03-19T18:15:33+00:00
-
- ## i've felt worse
- - [https://seraphim.blog](https://seraphim.blog)
- - date_published: 2024-12-13T11:41:15.303905+00:00
-
- ## Seth's Blog
- - [https://seths.blog](https://seths.blog)
- - date_published: 2023-10-25T09:01:55.034633+00:00
- - tags: ['personal']
-
- ## SHERPA Blog
- - [https://sherpa.blog](https://sherpa.blog)
- - date_published: 2024-07-04T12:49:53.379132+00:00
-
- ## She Seeks Nonfiction
- - [http://sheseeksnonfiction.blog](http://sheseeksnonfiction.blog)
- - date_published: 2024-09-17T17:42:24.091234+00:00
-
- ## A Place For My Head
- - [https://shivjm.blog](https://shivjm.blog)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## Shyam's Blog
- - [https://shyam.blog](https://shyam.blog)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## silv.blog
- - [https://silv.blog](https://silv.blog)
- - date_published: 2024-06-22T12:54:13+00:00
-
- ## sixhours
- - [https://sixhours.blog](https://sixhours.blog)
- - date_published: 2024-10-20T15:03:45.496710+00:00
-
- ## v0 App
- - [https://sleepvoyage.blog](https://sleepvoyage.blog)
- - date_published: 2024-12-19T06:34:26.905883+00:00
-
- ## Smarter.Blog Newsletter | Mahesh | Substack
- - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
- - date_published: 2023-10-25T09:39:31.008633+00:00
- - tags: ['substack']
-
- ## Dhole Moments - Software, Security, Cryptography, and Furries
- - [https://soatok.blog](https://soatok.blog)
- - date_published: 2023-10-25T12:01:20.604773+00:00
-
- ## Soder Blog Dot Blog – the films of director Steven Soderbergh examined through the lens of creative constraint
- - [https://soderblog.blog](https://soderblog.blog)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## The Sorcerer's Blog
- - [https://sorcerer.blog](https://sorcerer.blog)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## The Stack Overflow Blog - Stack Overflow
- - [https://stackoverflow.blog](https://stackoverflow.blog)
- - date_published: 2023-10-25T12:01:26.888673+00:00
-
- ## Latest articles | State of Progress
- - [https://stateofprogress.blog](https://stateofprogress.blog)
- - date_published: 2024-10-20T22:06:11.541507+00:00
-
- ## StefanPfeiffer.Blog
- - [https://stefanpfeiffer.blog](https://stefanpfeiffer.blog)
- - date_published: 2024-07-02T18:00:15.162803+00:00
-
- ## Making an ass of myself
- - [http://stevenhpape.blog](http://stevenhpape.blog)
- - date_published: 2024-09-03T23:02:08.990283+00:00
-
- ## Stormbirds
- - [https://stormbirds.blog](https://stormbirds.blog)
- - date_published: 2024-08-19T17:41:58.266486+00:00
-
- ## Strongly Typed
- - [https://stronglytyped.blog](https://stronglytyped.blog)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## stu.blog
- - [https://stu.blog](https://stu.blog)
- - date_published: 2024-07-13T23:54:57.081085+00:00
-
- ## The Official StudioPress Blog
- - [https://studiopress.blog](https://studiopress.blog)
- - date_published: 2022-09-28T00:00:00+00:00
-
- ## The Seven Deadly Stupidities | GP | Substack
- - [https://stupid.blog](https://stupid.blog)
- - date_published: 2023-12-16T16:48:24.781015+00:00
-
- ## Executive Coaching with George Sudarkoff
- - [https://sudarkoff.blog](https://sudarkoff.blog)
- - date_published: 2023-10-25T09:39:42.624484+00:00
- - tags: ['substack']
-
- ## a critical discourse.
- - [http://sunnyjreed.blog](http://sunnyjreed.blog)
- - date_published: 2024-06-30T04:11:55.159779+00:00
-
- ## SuperAngel.Fund | Ben Zises | Substack
- - [https://www.superangel.blog](https://www.superangel.blog)
- - date_published: 2024-05-07T11:16:38.192143+00:00
-
- ## Surfing Complexity – Lorin Hochstein's ramblings about software, complex systems, and incidents.
- - [https://surfingcomplexity.blog](https://surfingcomplexity.blog)
- - date_published: 2023-10-25T12:01:31.469329+00:00
-
- ## AGEN138 - Daftar Prediksi Keluaran Jawatogel Akurat Hk Sgp Sdy
- - [https://www.swholocron.blog](https://www.swholocron.blog)
- - date_published: 2024-08-25T11:33:31+00:00
-
- ## Envestnet | Tamarac
- - [http://www.tamaracinc.blog](http://www.tamaracinc.blog)
- - date_published: 2024-12-16T16:19:35+00:00
-
- ## Tanjas blog
- - [https://tanjas.blog](https://tanjas.blog)
- - date_published: 2024-04-03T12:42:58.498067+00:00
- - tags: ['personal']
-
- ## The Timothy Carey Experience
- - [https://tcexperience.blog](https://tcexperience.blog)
- - date_published: 2024-12-18T02:01:25+00:00
-
- ## Gamer Tales · The First of Many
- - [https://tekeous.blog](https://tekeous.blog)
- - date_published: 2023-08-29T00:00:00+00:00
 
