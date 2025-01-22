@@ -1,3 +1,96 @@
+ ## Boardgame Lab - Software to Prototype and Playtest Tabletop Games
+ - [https://boardgamelab.app](https://boardgamelab.app)
+ - date_published: 2024-08-19T07:02:48.108070+00:00
+
+ ## Free WhatsApp Chat with Bollywood's biggest stars | BOLLYWOODAI
+ - [https://www.bollywoodai.app](https://www.bollywoodai.app)
+ - date_published: 2024-01-25T05:36:25+00:00
+
+ ## Books by AI
+ - [https://booksbyai.app](https://booksbyai.app)
+ - date_published: 2023-11-16T14:14:55.138763+00:00
+
+ ## Bopple - Order pick-up, delivery & dine-in.
+ - [https://bopple.app](https://bopple.app)
+ - date_published: 2024-06-18T06:31:55.025119+00:00
+
+ ## Borogove Snippet
+ - [https://embedded-snippet.borogove.app](https://embedded-snippet.borogove.app)
+ - date_published: 2020-10-19T07:28:04+00:00
+
+ ## Borogove
+ - [https://snippets.borogove.app](https://snippets.borogove.app)
+ - date_published: 2023-10-09T18:33:16+00:00
+
+ ## Braavos - a StarkNet Wallet
+ - [https://braavos.app](https://braavos.app)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Asisten AI - Brainy Buddy
+ - [https://brainybuddy.app](https://brainybuddy.app)
+ - date_published: 2024-04-27T16:47:03.988000+00:00
+
+ ## BrandBird - Powerful image, mockup & screenshot editor for entrepreneurs
+ - [https://brandbird.app](https://brandbird.app)
+ - date_published: 2024-08-19T18:14:07.337813+00:00
+
+ ## Brand Logo — Make your brand logo in 5 minutes.
+ - [https://brandlogo.app](https://brandlogo.app)
+ - date_published: 2024-12-26T16:12:02+00:00
+
+ ## Blockchain Analytics: Crypto Tracker | Breadcrumbs Crypto
+ - [https://www.breadcrumbs.app](https://www.breadcrumbs.app)
+ - date_published: 2024-06-17T09:08:43.926079+00:00
+
+ ## Three Lessons from Threema: Analysis of a Secure Messenger
+ - [https://breakingthe3ma.app](https://breakingthe3ma.app)
+ - date_published: 2023-10-25T11:45:41.239888+00:00
+
+ ## Personal shield against stress and anxiety
+ - [https://breathhh.app](https://breathhh.app)
+ - date_published: 2024-06-19T21:12:36.788863+00:00
+
+ ## Breathly | Free relaxation and breath training app
+ - [https://breathly.app](https://breathly.app)
+ - date_published: 2024-08-19T07:36:12.625592+00:00
+
+ ## Brickit — Build new things from your good old bricks
+ - [https://brickit.app](https://brickit.app)
+ - date_published: 2023-10-25T11:45:42.715788+00:00
+
+ ## Brickit for Classes
+ - [https://classes.brickit.app](https://classes.brickit.app)
+ - date_published: 2024-08-19T11:57:11.670225+00:00
+
+ ## Brick Search for LEGO Sets -- LEGO instructions app, LEGO collection app
+ - [https://bricksearch.app](https://bricksearch.app)
+ - date_published: 2024-05-11T08:49:34.149822+00:00
+
+ ## Bricksee: Helping Reorganise Your Bricks
+ - [https://bricksee.app](https://bricksee.app)
+ - date_published: 2024-10-30T22:02:02.661729+00:00
+
+ ## briefsky
+ - [https://briefsky.app](https://briefsky.app)
+ - date_published: 2023-10-25T11:45:43.143483+00:00
+
+ ## BRIET
+ - [https://briet.app](https://briet.app)
+ - date_published: 2025-01-18T06:39:56.486502+00:00
+
+ ## Bright Bits - Making remote work a little brighter
+ - [https://brightbits.app](https://brightbits.app)
+ - date_published: 2024-10-15T18:37:40.828105+00:00
+
+ ## Welcome to nginx!
+ - [https://static.browsed.app](https://static.browsed.app)
+ - date_published: 2023-04-11T01:45:34+00:00
+
+ ## Bluesky Social
+ - [https://bsky.app](https://bsky.app)
+ - date_published: 2023-10-24T20:12:24.937402+00:00
+ - tags: ['social platform', 'gateway']
+
  ## Hey, I'm imgproxy!
  - [https://cdn.bsky.app](https://cdn.bsky.app)
  - date_published: 2024-06-15T04:24:02.451274+00:00
@@ -306,6 +399,10 @@
  ## Coinbits – You can bitcoin
  - [https://coinbits.app](https://coinbits.app)
  - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Coindive: Revolutionizing Crypto Portfolio Tracking with Community Insights
+ - [https://coindive.app](https://coindive.app)
+ - date_published: 2025-01-21T15:52:26.318687+00:00
 
  ## CoinFund - Crypto Crowdfunding & Donations
  - [https://coinfund.app](https://coinfund.app)
@@ -1033,6 +1130,10 @@
  - [https://us.engagingnetworks.app](https://us.engagingnetworks.app)
  - date_published: 2024-06-28T15:17:20+00:00
 
+ ## Word Definitions | Englia
+ - [https://englia.app](https://englia.app)
+ - date_published: 2025-01-21T19:19:07.219860+00:00
+
  ## EpubKit
  - [https://epubkit.app](https://epubkit.app)
  - date_published: 2024-07-18T23:05:15.277956+00:00
@@ -1431,6 +1532,10 @@
  - [https://www.foodai.app](https://www.foodai.app)
  - date_published: 2024-01-24T19:43:43+00:00
 
+ ## Show HN: I made a app that uses NFC as a physical switch to block distractions
+ - [https://www.foqos.app](https://www.foqos.app)
+ - date_published: 2025-01-21T16:52:42+00:00
+
  ## AI-powered Resource and Project Management Software | Forecast App
  - [https://www.forecast.app](https://www.forecast.app)
  - date_published: 2024-06-19T19:08:25+00:00
@@ -1462,6 +1567,10 @@
  ## Formulaic: Create and test generative AI prompts. Share them with an open community.
  - [https://formulaic.app](https://formulaic.app)
  - date_published: 2024-07-06T20:56:30.517454+00:00
+
+ ## Formy — онлайн конструктор веб-форм с интеграцией для вашего сайта
+ - [https://ru.formy.app](https://ru.formy.app)
+ - date_published: 2025-01-21T22:44:52.829766+00:00
 
  ## Fornjot
  - [https://www.fornjot.app](https://www.fornjot.app)
@@ -1816,6 +1925,10 @@
  ## Guess The Book - Your daily book guessing puzzle!
  - [https://guessthebook.app](https://guessthebook.app)
  - date_published: 2024-05-08T00:42:38.698529+00:00
+
+ ## GuineaPig – Employee wellbeing in Slack and Microsoft Teams
+ - [https://www.guineapig.app](https://www.guineapig.app)
+ - date_published: 2025-01-21T15:52:06.657609+00:00
 
  ## guitos, a personal budgeting app
  - [https://guitos.app](https://guitos.app)
@@ -3013,6 +3126,10 @@
  - [https://member.app](https://member.app)
  - date_published: 2024-09-25T14:24:44.765484+00:00
 
+ ## MemeChat - Make Memes Earn Money
+ - [https://memechat.app](https://memechat.app)
+ - date_published: 2025-01-21T19:36:54.180978+00:00
+
  ## Memestr
  - [https://memestr.app](https://memestr.app)
  - date_published: 2024-07-02T14:14:53+00:00
@@ -3915,120 +4032,4 @@
  ## Interchain Foundation
  - [https://interchainio.netlify.app](https://interchainio.netlify.app)
  - date_published: 2025-01-09T16:07:15.868813+00:00
-
- ## Intrinsic Layout: A guide from web.dev
- - [https://intrinsic-css.netlify.app](https://intrinsic-css.netlify.app)
- - date_published: 2024-07-22T12:45:01.552767+00:00
-
- ## Is This Site Netlify?
- - [https://is-this.netlify.app](https://is-this.netlify.app)
- - date_published: 2024-05-06T13:33:32.286093+00:00
-
- ## Front-End Developer, UI/UX Designer
- - [https://jeffson.netlify.app](https://jeffson.netlify.app)
- - date_published: 2024-05-11T10:10:31.363817+00:00
-
- ## Jest
- - [https://jest-archive-august-2023.netlify.app](https://jest-archive-august-2023.netlify.app)
- - date_published: 2024-07-23T22:30:56.457851+00:00
-
- ## Feed – jhey.dev
- - [https://jhey.netlify.app](https://jhey.netlify.app)
- - date_published: 2024-07-22T12:29:56.681289+00:00
-
- ## Jialin Wu Homepage
- - [https://jialinwu.netlify.app](https://jialinwu.netlify.app)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## JOJX
- - [https://jojx.netlify.app](https://jojx.netlify.app)
- - date_published: 2024-06-20T07:57:24.075417+00:00
-
- ## Home
- - [https://jorgeruvalcaba-personalsite.netlify.app](https://jorgeruvalcaba-personalsite.netlify.app)
- - date_published: 2024-07-14T08:19:02.678616+00:00
-
- ## YNAB JSON Exporter
- - [https://json-exporter-for-ynab.netlify.app](https://json-exporter-for-ynab.netlify.app)
- - date_published: 2024-10-02T11:49:16.792975+00:00
-
- ## King Arthur Mega Menu
- - [https://kab-megamenu-prod.netlify.app](https://kab-megamenu-prod.netlify.app)
- - date_published: 2024-10-17T22:49:22.761194+00:00
-
- ## KAD - Przekręty
- - [https://kadantiscam.netlify.app](https://kadantiscam.netlify.app)
- - date_published: 2024-11-19T14:30:35.575291+00:00
-
- ## Kan Zhu
- - [https://kanzhu.netlify.app](https://kanzhu.netlify.app)
- - date_published: 2025-01-10T01:13:54.727864+00:00
-
- ## Academic
- - [https://kavitshah.netlify.app](https://kavitshah.netlify.app)
- - date_published: 2024-07-12T08:04:36.844668+00:00
-
- ## Karin's space
- - [https://khendrikse.netlify.app](https://khendrikse.netlify.app)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Speedlify
- - [https://kirillunlimited-speedlify.netlify.app](https://kirillunlimited-speedlify.netlify.app)
- - date_published: 2024-07-02T19:14:59.863261+00:00
-
- ## Kittens World
- - [https://kittens-world.netlify.app](https://kittens-world.netlify.app)
- - date_published: 2024-07-02T18:28:26.030897+00:00
-
- ## Marketing Automation for Email Marketing, SMS & CDP - Klaviyo
- - [https://klaviyo-marketing-site-us.netlify.app](https://klaviyo-marketing-site-us.netlify.app)
- - date_published: 2024-07-03T12:23:20.101167+00:00
-
- ## Krabby
- - [https://krabby.netlify.app](https://krabby.netlify.app)
- - date_published: 2019-11-20T00:00:00+00:00
-
- ## Ladies of Code Paris
- - [https://ladiesofcodeparis.netlify.app](https://ladiesofcodeparis.netlify.app)
- - date_published: 2024-10-27T23:13:14.395843+00:00
-
- ## LaunchDarkly: Feature Flags, Feature Management, and Experimentation
- - [https://launchdarkly-com.netlify.app](https://launchdarkly-com.netlify.app)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Linear easing generator
- - [https://linear-easing-generator.netlify.app](https://linear-easing-generator.netlify.app)
- - date_published: 2024-06-23T03:51:35.839244+00:00
-
- ## Lion
- - [https://lion-web.netlify.app](https://lion-web.netlify.app)
- - date_published: 2024-04-30T00:28:59.022783+00:00
-
- ## Edmond de Rothschild Heritage
- - [https://lively-cajeta-6df741.netlify.app](https://lively-cajeta-6df741.netlify.app)
- - date_published: 2024-10-19T08:42:19.414280+00:00
-
- ## London CSS 2020 - Talk by Adam Argyle
- - [https://london-css-2020.netlify.app](https://london-css-2020.netlify.app)
- - date_published: 2024-04-30T02:00:37.030981+00:00
-
- ## Website de L. O. J. A.
- - [https://loorjoal.netlify.app](https://loorjoal.netlify.app)
- - date_published: 2024-07-23T23:40:16.396887+00:00
-
- ## Healthy Workforce Designation - 2023
- - [https://lustrous-ganache-a06505.netlify.app](https://lustrous-ganache-a06505.netlify.app)
- - date_published: 2024-06-16T17:21:53.783067+00:00
-
- ## Design System
- - [https://lwjds.netlify.app](https://lwjds.netlify.app)
- - date_published: 2024-07-20T22:17:56.592213+00:00
-
- ## Weekly Statistics Dashboard
- - [https://lwj-modcss.netlify.app](https://lwj-modcss.netlify.app)
- - date_published: 2024-08-08T22:54:12.566516+00:00
-
- ## macOS Cursors
- - [https://mac-cursors.netlify.app](https://mac-cursors.netlify.app)
- - date_published: 2023-10-25T11:47:38.601906+00:00
 

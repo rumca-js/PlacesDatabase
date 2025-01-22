@@ -1,3 +1,727 @@
+ ## 北京交通大学
+ - [http://www.bjtu.edu.cn](http://www.bjtu.edu.cn)
+ - date_published: 2024-09-09T01:26:12+00:00
+
+ ## 北京语言大学
+ - [http://www.blcu.edu.cn](http://www.blcu.edu.cn)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## 北京师范大学留学生招生网
+ - [https://admission-is.bnu.edu.cn](https://admission-is.bnu.edu.cn)
+ - date_published: 2024-06-26T07:03:46+00:00
+
+ ## 北京师范大学人工智能学院
+ - [https://ai.bnu.edu.cn](https://ai.bnu.edu.cn)
+ - date_published: 2024-06-18T01:16:49+00:00
+
+ ## Beijing Normal University
+ - [https://english.bnu.edu.cn](https://english.bnu.edu.cn)
+ - date_published: 2024-05-12T04:29:02.514786+00:00
+
+ ## INTERNATIONAL STUDENTS OFFICE
+ - [http://iso.bnu.edu.cn](http://iso.bnu.edu.cn)
+ - date_published: 2024-07-14T23:33:40.217514+00:00
+
+ ## 北京师范大学法学院
+ - [https://law.bnu.edu.cn](https://law.bnu.edu.cn)
+ - date_published: 2024-06-29T06:41:57+00:00
+
+ ## 北京师范大学
+ - [https://www.bnu.edu.cn](https://www.bnu.edu.cn)
+ - date_published: 2024-07-14T17:13:46+00:00
+
+ ## 北京师范大学珠海校区英文网 | Beijing Normal University at Zhuhai
+ - [http://english.bnuzh.edu.cn](http://english.bnuzh.edu.cn)
+ - date_published: 2024-07-14T17:12:13+00:00
+
+ ## 北京航空航天大学法学院
+ - [https://fxy.buaa.edu.cn](https://fxy.buaa.edu.cn)
+ - date_published: 2024-06-30T03:59:00.321865+00:00
+
+ ## 北京航空航天大学
+ - [http://www.buaa.edu.cn](http://www.buaa.edu.cn)
+ - date_published: 2024-06-30T15:23:02+00:00
+
+ ## 北京中医药大学
+ - [http://www.bucm.edu.cn](http://www.bucm.edu.cn)
+ - date_published: 2024-09-09T13:31:19+00:00
+
+ ## 北京化工大学
+ - [http://www.buct.edu.cn](http://www.buct.edu.cn)
+ - date_published: 2024-09-09T15:20:32.199158+00:00
+
+ ## 北京邮电大学
+ - [http://www.bupt.edu.cn](http://www.bupt.edu.cn)
+ - date_published: 2024-09-09T15:22:47.642542+00:00
+
+ ## China Academy of Art
+ - [http://en.caa.edu.cn](http://en.caa.edu.cn)
+ - date_published: 2024-07-13T16:03:49.543522+00:00
+
+ ## 云上高博会-中国高等教育学会
+ - [https://heec.cahe.edu.cn](https://heec.cahe.edu.cn)
+ - date_published: 2024-06-21T23:09:09.540952+00:00
+
+ ## 首页_中国高等教育学会
+ - [https://www.cahe.edu.cn](https://www.cahe.edu.cn)
+ - date_published: 2024-06-21T23:08:45.739192+00:00
+
+ ## 中国农业大学经济管理学院
+ - [https://cem.cau.edu.cn](https://cem.cau.edu.cn)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 中国农业大学
+ - [http://www.cau.edu.cn](http://www.cau.edu.cn)
+ - date_published: 2024-09-09T06:36:22+00:00
+
+ ## 教育部中外人文交流中心
+ - [http://ppe.ccipe.edu.cn](http://ppe.ccipe.edu.cn)
+ - date_published: 2024-09-04T05:55:20+00:00
+
+ ## 资本市场学院
+ - [http://www.ccmi.edu.cn](http://www.ccmi.edu.cn)
+ - date_published: 2024-06-28T07:11:45+00:00
+
+ ## 华中师范大学
+ - [http://www.ccnu.edu.cn](http://www.ccnu.edu.cn)
+ - date_published: 2024-09-09T11:38:42+00:00
+
+ ## 华中师范大学外国语学院
+ - [http://wy.ccnu.edu.cn](http://wy.ccnu.edu.cn)
+ - date_published: 2025-01-09T10:24:32+00:00
+
+ ## 中央音乐学院
+ - [http://www.ccom.edu.cn](http://www.ccom.edu.cn)
+ - date_published: 2024-09-09T09:28:20+00:00
+
+ ## 成都中医药大学
+ - [http://www.cdutcm.edu.cn](http://www.cdutcm.edu.cn)
+ - date_published: 2025-01-14T19:16:06.933127+00:00
+
+ ## 中国教育国际交流协会
+ - [https://www.ceaie.edu.cn](https://www.ceaie.edu.cn)
+ - date_published: 2024-06-03T09:06:35+00:00
+
+ ## 教育部经费监管事务中心
+ - [https://fsac.cee.edu.cn](https://fsac.cee.edu.cn)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## 中国消防救援学院官网
+ - [https://www.cfri.edu.cn](https://www.cfri.edu.cn)
+ - date_published: 2024-06-28T07:18:58+00:00
+
+ ## Chang'an University
+ - [http://en.chd.edu.cn](http://en.chd.edu.cn)
+ - date_published: 2024-10-30T20:29:55.988529+00:00
+
+ ## 长安大学
+ - [http://www.chd.edu.cn](http://www.chd.edu.cn)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## 中国语言文字网
+ - [http://www.china-language.edu.cn](http://www.china-language.edu.cn)
+ - date_published: 2023-12-08T05:46:26+00:00
+
+ ## 教育部职业教育发展中心
+ - [http://www.civte.edu.cn](http://www.civte.edu.cn)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## CKGSB Knowledge Center - Leading business school China
+ - [http://knowledge.ckgsb.edu.cn](http://knowledge.ckgsb.edu.cn)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## 首页 - 中国教育科学研究院
+ - [https://www.cnaes.edu.cn](https://www.cnaes.edu.cn)
+ - date_published: 2024-09-09T15:19:45.267918+00:00
+
+ ## 教育部宣传教育中心
+ - [http://www.cpipe.edu.cn](http://www.cpipe.edu.cn)
+ - date_published: 2024-07-23T01:40:35+00:00
+
+ ## 中国药科大学
+ - [http://www.cpu.edu.cn](http://www.cpu.edu.cn)
+ - date_published: 2024-09-09T15:12:27.214573+00:00
+
+ ## 重庆大学
+ - [http://www.cqu.edu.cn](http://www.cqu.edu.cn)
+ - date_published: 2024-09-09T09:56:49+00:00
+
+ ## 教育部留学服务中心
+ - [https://portal.cscse.edu.cn](https://portal.cscse.edu.cn)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## 教育部学校规划建设发展中心
+ - [https://www.csdp.edu.cn](https://www.csdp.edu.cn)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## 中国教育学会
+ - [https://www.cse.edu.cn](https://www.cse.edu.cn)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## 教育电子政务平台
+ - [http://www.cseds.edu.cn](http://www.cseds.edu.cn)
+ - date_published: 2015-03-31T03:05:00+00:00
+
+ ## 中南大学
+ - [http://www.csu.edu.cn](http://www.csu.edu.cn)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## 中国传媒大学
+ - [http://by.cuc.edu.cn](http://by.cuc.edu.cn)
+ - date_published: 2024-09-09T15:17:07.323397+00:00
+
+ ## 中国传媒大学
+ - [http://www.cuc.edu.cn](http://www.cuc.edu.cn)
+ - date_published: 2025-01-13T01:17:37.161421+00:00
+
+ ## 中央财经大学
+ - [http://www.cufe.edu.cn](http://www.cufe.edu.cn)
+ - date_published: 2024-09-09T09:12:21+00:00
+
+ ## 欢迎访问中国地质大学！
+ - [http://www.cug.edu.cn](http://www.cug.edu.cn)
+ - date_published: 2024-09-09T12:12:29+00:00
+
+ ## 中国地质大学（北京）
+ - [https://www.cugb.edu.cn](https://www.cugb.edu.cn)
+ - date_published: 2024-09-09T15:18:22.130969+00:00
+
+ ## GAP Lab
+ - [https://gaplab.cuhk.edu.cn](https://gaplab.cuhk.edu.cn)
+ - date_published: 2022-12-28T06:40:27+00:00
+
+ ## 成都信息工程大学
+ - [https://www.cuit.edu.cn](https://www.cuit.edu.cn)
+ - date_published: 2024-06-28T09:41:59+00:00
+
+ ## 中国矿业大学-主页
+ - [http://www.cumt.edu.cn](http://www.cumt.edu.cn)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## 中国石油大学(北京)
+ - [http://www.cup.edu.cn](http://www.cup.edu.cn)
+ - date_published: 2024-09-09T15:20:01.894086+00:00
+
+ ## 体育人工智能研究院
+ - [https://iais.cupes.edu.cn](https://iais.cupes.edu.cn)
+ - date_published: 2024-09-05T22:59:22.469003+00:00
+
+ ## 中国政法大学-法律硕士学院
+ - [http://flssxy.cupl.edu.cn](http://flssxy.cupl.edu.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 法治政府网
+ - [http://fzzfyjy.cupl.edu.cn](http://fzzfyjy.cupl.edu.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 中国政法大学
+ - [http://www.cupl.edu.cn](http://www.cupl.edu.cn)
+ - date_published: 2024-09-09T11:04:17+00:00
+
+ ## 教育部高等学校科学研究发展中心
+ - [http://www.cutech.edu.cn](http://www.cutech.edu.cn)
+ - date_published: 2024-07-13T02:23:16+00:00
+
+ ## 东华大学
+ - [http://www.dhu.edu.cn](http://www.dhu.edu.cn)
+ - date_published: 2024-09-09T15:19:37.016173+00:00
+
+ ## Duke | Log In
+ - [https://dkuhub.dku.edu.cn](https://dkuhub.dku.edu.cn)
+ - date_published: 2024-09-26T17:55:11.943730+00:00
+
+ ## 大连理工大学
+ - [http://www.dlut.edu.cn](http://www.dlut.edu.cn)
+ - date_published: 2024-09-09T10:26:15+00:00
+
+ ## 东北财经大学
+ - [http://www.dufe.edu.cn](http://www.dufe.edu.cn)
+ - date_published: 2025-01-14T14:19:53.940578+00:00
+
+ ## Academic Advising | Duke Kunshan University
+ - [https://academic-advising.dukekunshan.edu.cn](https://academic-advising.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T07:56:08+00:00
+
+ ## 首页 - 本科 - 昆山杜克大学
+ - [https://admissions.dukekunshan.edu.cn](https://admissions.dukekunshan.edu.cn)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Home - Alumni | Duke Kunshan University
+ - [https://alumni.dukekunshan.edu.cn](https://alumni.dukekunshan.edu.cn)
+ - date_published: 2022-03-10T16:48:31+00:00
+
+ ## DKU Athletics | Duke Kunshan University
+ - [https://athletics.dukekunshan.edu.cn](https://athletics.dukekunshan.edu.cn)
+ - date_published: 2023-02-03T16:13:01+00:00
+
+ ## Duke | Log In
+ - [https://calendar.dukekunshan.edu.cn](https://calendar.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T17:56:19.191953+00:00
+
+ ## Career | Duke Kunshan University
+ - [https://career.dukekunshan.edu.cn](https://career.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T08:22:32+00:00
+
+ ## Clinic | Duke Kunshan University
+ - [http://clinic.dukekunshan.edu.cn](http://clinic.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Commencement | Duke Kunshan University
+ - [https://commencement.dukekunshan.edu.cn](https://commencement.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T17:54:53+00:00
+
+ ## Duke Kunshan University - 昆山杜克大学
+ - [https://dukekunshan.edu.cn](https://dukekunshan.edu.cn)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Master of Environmental Policy | Duke Kunshan University – iMEP | Master of Environmental Policy
+ - [https://env.dukekunshan.edu.cn](https://env.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T09:57:57+00:00
+
+ ## Executive Education | Duke Kunshan University
+ - [https://executive-education.dukekunshan.edu.cn](https://executive-education.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## 全体教职人员 | DKU Faculty
+ - [https://faculty.dukekunshan.edu.cn](https://faculty.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T17:54:16.170685+00:00
+
+ ## Global Education – Duke Kunshan's University Office of Global Education
+ - [https://globaled.dukekunshan.edu.cn](https://globaled.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Home - Global Health | Duke Kunshan University
+ - [https://globalhealth.dukekunshan.edu.cn](https://globalhealth.dukekunshan.edu.cn)
+ - date_published: 2023-12-15T13:13:31+00:00
+
+ ## Graduate Home | Graduate Programs | Duke Kunshan University
+ - [https://graduate.dukekunshan.edu.cn](https://graduate.dukekunshan.edu.cn)
+ - date_published: 2021-02-26T15:40:15+00:00
+
+ ## Global Summer Institute | Duke Kunshan University – Global Summer Institute Program
+ - [https://gsi.dukekunshan.edu.cn](https://gsi.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T13:57:27+00:00
+
+ ## Duke | Log In
+ - [https://hub.dukekunshan.edu.cn](https://hub.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T17:54:48.066118+00:00
+
+ ## Institute of Applied Physical Sciences and Engineering | Duke Kunshan University
+ - [https://iapse.dukekunshan.edu.cn](https://iapse.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T17:55:20.309088+00:00
+
+ ## Home
+ - [https://ine.dukekunshan.edu.cn](https://ine.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T09:08:46+00:00
+
+ ## IT | Duke Kunshan University
+ - [https://it.dukekunshan.edu.cn](https://it.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T17:56:34.086968+00:00
+
+ ## Library | Duke Kunshan University
+ - [https://library.dukekunshan.edu.cn](https://library.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T03:27:25+00:00
+
+ ## Master of Science in Medical Physics | Duke Kunshan University
+ - [https://medicalphysics.dukekunshan.edu.cn](https://medicalphysics.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Master of Management Studies | Duke Kunshan University
+ - [https://mms.dukekunshan.edu.cn](https://mms.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## News | Duke Kunshan University
+ - [https://news.dukekunshan.edu.cn](https://news.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T08:10:40+00:00
+
+ ## Office of Signature Work
+ - [https://signature-work.dukekunshan.edu.cn](https://signature-work.dukekunshan.edu.cn)
+ - date_published: 2024-09-26T17:57:29.777154+00:00
+
+ ## Undergraduate Studies | Duke Kunshan University – Undergraduate Studies
+ - [https://ugstudies.dukekunshan.edu.cn](https://ugstudies.dukekunshan.edu.cn)
+ - date_published: 2024-06-15T08:30:43+00:00
+
+ ## 数据科学与工程学院
+ - [http://dase.ecnu.edu.cn](http://dase.ecnu.edu.cn)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## 工会
+ - [https://gonghui.ecnu.edu.cn](https://gonghui.ecnu.edu.cn)
+ - date_published: 2025-01-14T18:23:33.959849+00:00
+
+ ## 华东师范大学
+ - [https://www.ecnu.edu.cn](https://www.ecnu.edu.cn)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## 华东政法大学
+ - [http://www.ecupl.edu.cn](http://www.ecupl.edu.cn)
+ - date_published: 2025-01-13T00:59:11.177800+00:00
+
+ ## 华东理工大学
+ - [http://www.ecust.edu.cn](http://www.ecust.edu.cn)
+ - date_published: 2024-09-09T15:09:15.008349+00:00
+
+ ## 教育部教育管理信息中心
+ - [http://www.emic.edu.cn](http://www.emic.edu.cn)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## 复旦大学第二附属学校
+ - [https://2fx.fudan.edu.cn](https://2fx.fudan.edu.cn)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## 复旦大学航空航天系
+ - [https://aero-mech.fudan.edu.cn](https://aero-mech.fudan.edu.cn)
+ - date_published: 2024-06-18T11:52:46.853433+00:00
+
+ ## 复旦大学校友会
+ - [https://alumni.fudan.edu.cn](https://alumni.fudan.edu.cn)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## 复旦大学招生网
+ - [https://ao.fudan.edu.cn](https://ao.fudan.edu.cn)
+ - date_published: 2024-06-18T11:51:05.840355+00:00
+
+ ## 复旦大学大气与海洋科学系/大气科学研究院 Department of Atmospheric and Oceanic Sciences, Fudan University/Institute of Atmospheric Sciences, Fudan University
+ - [https://aos.fudan.edu.cn](https://aos.fudan.edu.cn)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## 复旦大学天文与天体物理研究中心
+ - [http://astro.fudan.edu.cn](http://astro.fudan.edu.cn)
+ - date_published: 2024-10-21T21:43:41.619858+00:00
+
+ ## 生物学国家级实验教学示范中心（复旦大学）
+ - [http://bioc.fudan.edu.cn](http://bioc.fudan.edu.cn)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 复旦公共卫生学院生物医学统计中心
+ - [http://biostat.fudan.edu.cn](http://biostat.fudan.edu.cn)
+ - date_published: 2024-10-21T20:56:06.754765+00:00
+
+ ## 复旦大学“不忘初心、牢记使命”主题教育专题网站
+ - [https://bwcx.fudan.edu.cn](https://bwcx.fudan.edu.cn)
+ - date_published: 2024-10-21T21:00:31.018729+00:00
+
+ ## 复旦大学中国语言文学系
+ - [http://chinese.fudan.edu.cn](http://chinese.fudan.edu.cn)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## 首页 - 复旦大学国土与文化资源研究中心
+ - [http://clcrr.fudan.edu.cn](http://clcrr.fudan.edu.cn)
+ - date_published: 2024-10-21T21:18:56.368176+00:00
+
+ ## 复旦大学计算机科学技术学院
+ - [https://cs.fudan.edu.cn](https://cs.fudan.edu.cn)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## 复旦大学财务处
+ - [http://cwc.fudan.edu.cn](http://cwc.fudan.edu.cn)
+ - date_published: 2024-06-18T11:51:59.279104+00:00
+
+ ## 采购与招标管理中心
+ - [https://czzx.fudan.edu.cn](https://czzx.fudan.edu.cn)
+ - date_published: 2024-06-18T11:50:31.026775+00:00
+
+ ## 复旦大学外国语言文学学院
+ - [http://dfll.fudan.edu.cn](http://dfll.fudan.edu.cn)
+ - date_published: 2024-06-18T11:43:35.518149+00:00
+
+ ## 首页 - 复旦大学科学技术研究院
+ - [http://dst.fudan.edu.cn](http://dst.fudan.edu.cn)
+ - date_published: 2024-10-21T20:56:11.222065+00:00
+
+ ## 复旦大学信息化办公室
+ - [https://ecampus.fudan.edu.cn](https://ecampus.fudan.edu.cn)
+ - date_published: 2024-06-18T11:52:16.202706+00:00
+
+ ## 复旦大学经济学院教育发展中心
+ - [https://econedc.fudan.edu.cn](https://econedc.fudan.edu.cn)
+ - date_published: 2024-10-21T21:07:47.096594+00:00
+
+ ## 网上办事服务大厅
+ - [http://ehall.fudan.edu.cn](http://ehall.fudan.edu.cn)
+ - date_published: 2024-01-02T13:26:10+00:00
+
+ ## 复旦大学附属闵行实验学校
+ - [https://fdmhsy.fudan.edu.cn](https://fdmhsy.fudan.edu.cn)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## 复旦非学历教育
+ - [https://fdpx.fudan.edu.cn](https://fdpx.fudan.edu.cn)
+ - date_published: 2024-06-18T11:50:16.540595+00:00
+
+ ## 复旦大学枫林校区管理委员会
+ - [http://fenglin.fudan.edu.cn](http://fenglin.fudan.edu.cn)
+ - date_published: 2024-06-18T11:53:04.230631+00:00
+
+ ## 芯片与系统前沿技术研究院
+ - [https://fics.fudan.edu.cn](https://fics.fudan.edu.cn)
+ - date_published: 2024-10-21T20:59:07.511584+00:00
+
+ ## 复旦大学国际金融学院(FISF)｜最懂中国金融的国际化商学院
+ - [https://fisf.fudan.edu.cn](https://fisf.fudan.edu.cn)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## 复旦大学干部教育培训中心_上海干部继续教育培训基地-复旦大学国际金融学院
+ - [https://fisfgov.fudan.edu.cn](https://fisfgov.fudan.edu.cn)
+ - date_published: 2024-10-21T21:24:13.378638+00:00
+
+ ## 复旦大学 Fudan University
+ - [https://fudan.edu.cn](https://fudan.edu.cn)
+ - date_published: 2024-07-12T19:48:51.433805+00:00
+
+ ## 复旦大学教育发展基金会网站
+ - [http://fuedf.fudan.edu.cn](http://fuedf.fudan.edu.cn)
+ - date_published: 2024-10-21T21:41:18.364533+00:00
+
+ ## 复旦大学－高等代数－精品课程
+ - [http://gdds.jpkc.fudan.edu.cn](http://gdds.jpkc.fudan.edu.cn)
+ - date_published: 2024-10-21T21:09:49.746992+00:00
+
+ ## 复旦大学古籍所
+ - [http://gjs.fudan.edu.cn](http://gjs.fudan.edu.cn)
+ - date_published: 2024-10-21T21:38:22.510462+00:00
+
+ ## 复旦大学研究生招生网
+ - [https://gsao.fudan.edu.cn](https://gsao.fudan.edu.cn)
+ - date_published: 2024-10-21T21:14:57.620093+00:00
+
+ ## åå²å­¦ç³»
+ - [http://history.fudan.edu.cn](http://history.fudan.edu.cn)
+ - date_published: 2024-06-18T11:54:22.132513+00:00
+
+ ## 复旦大学人事处
+ - [https://hr.fudan.edu.cn](https://hr.fudan.edu.cn)
+ - date_published: 2024-10-21T20:59:00.559191+00:00
+
+ ## 类脑芯片与片上智能系统研究院
+ - [https://ibicas.fudan.edu.cn](https://ibicas.fudan.edu.cn)
+ - date_published: 2024-10-21T21:40:14.049434+00:00
+
+ ## 复旦大学信息化办公室
+ - [https://icampus.fudan.edu.cn](https://icampus.fudan.edu.cn)
+ - date_published: 2024-10-21T21:16:10.177408+00:00
+
+ ## 复旦大学|国际文化交流学院
+ - [https://ices.fudan.edu.cn](https://ices.fudan.edu.cn)
+ - date_published: 2024-10-21T21:12:36.022063+00:00
+
+ ## 复旦大学发育生物研究所
+ - [https://idm.fudan.edu.cn](https://idm.fudan.edu.cn)
+ - date_published: 2024-10-21T20:59:17.118570+00:00
+
+ ## 复旦大学马克思主义研究院
+ - [https://imarx.fudan.edu.cn](https://imarx.fudan.edu.cn)
+ - date_published: 2024-10-21T21:37:38.678638+00:00
+
+ ## 复旦大学代谢与整合生物学研究院
+ - [https://imib.fudan.edu.cn](https://imib.fudan.edu.cn)
+ - date_published: 2024-10-21T20:59:20.311656+00:00
+
+ ## å¤æ¦å¤§å­¦ç°ä»£ç©çç ç©¶æ-æ ¸ç§å­¦ä¸ææ¯ç³»
+ - [http://imp.fudan.edu.cn](http://imp.fudan.edu.cn)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## 复旦大学微纳电子器件与量子计算机研究院
+ - [https://inqc.fudan.edu.cn](https://inqc.fudan.edu.cn)
+ - date_published: 2024-10-21T20:58:54.232074+00:00
+
+ ## 复旦大学脑科学研究院
+ - [https://iobs.fudan.edu.cn](https://iobs.fudan.edu.cn)
+ - date_published: 2024-10-21T21:40:21.523332+00:00
+
+ ## 复旦大学-光电研究院
+ - [https://ioe.fudan.edu.cn](https://ioe.fudan.edu.cn)
+ - date_published: 2024-10-21T20:58:51.713845+00:00
+
+ ## 复旦大学放射医学研究所
+ - [https://irm.fudan.edu.cn](https://irm.fudan.edu.cn)
+ - date_published: 2024-10-21T21:14:50.989294+00:00
+
+ ## 复旦大学外国留学生工作处
+ - [https://iso.fudan.edu.cn](https://iso.fudan.edu.cn)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## 首页 - 复旦大学科学技术研究院
+ - [https://ist.fudan.edu.cn](https://ist.fudan.edu.cn)
+ - date_published: 2024-10-21T21:29:26.759003+00:00
+
+ ## 复旦大学基本建设处网站
+ - [https://jijian.fudan.edu.cn](https://jijian.fudan.edu.cn)
+ - date_published: 2024-10-21T21:00:14.613803+00:00
+
+ ## 复旦大学计算机实验教学中心
+ - [http://jszx.fudan.edu.cn](http://jszx.fudan.edu.cn)
+ - date_published: 2024-06-18T11:51:17.459070+00:00
+
+ ## 复旦大学江湾校区
+ - [http://jwb.fudan.edu.cn](http://jwb.fudan.edu.cn)
+ - date_published: 2024-10-21T20:59:03.782729+00:00
+
+ ## 复旦大学教务处
+ - [https://jwc.fudan.edu.cn](https://jwc.fudan.edu.cn)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 复旦大学纪检监察网
+ - [https://jwjc.fudan.edu.cn](https://jwjc.fudan.edu.cn)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## 复旦大学实验动物中心
+ - [http://labanimal.fudan.edu.cn](http://labanimal.fudan.edu.cn)
+ - date_published: 2024-10-21T21:14:44.337393+00:00
+
+ ## 复旦大学先进材料实验室
+ - [https://lam.fudan.edu.cn](https://lam.fudan.edu.cn)
+ - date_published: 2024-10-21T21:00:10.913992+00:00
+
+ ## 复旦大学法学院
+ - [https://law.fudan.edu.cn](https://law.fudan.edu.cn)
+ - date_published: 2024-10-21T21:00:18.574660+00:00
+
+ ## 复旦大学图书馆
+ - [http://library.fudan.edu.cn](http://library.fudan.edu.cn)
+ - date_published: 2024-10-21T21:17:41.749901+00:00
+
+ ## 复旦大学生命科学学院
+ - [http://life.fudan.edu.cn](http://life.fudan.edu.cn)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## 复旦大学非线性数学模型与方法教育部重点实验室网站
+ - [http://lmns.fudan.edu.cn](http://lmns.fudan.edu.cn)
+ - date_published: 2024-10-21T21:09:47.317630+00:00
+
+ ## 复旦大学电子邮件
+ - [http://mail.fudan.edu.cn](http://mail.fudan.edu.cn)
+ - date_published: 2024-06-18T11:50:49.985404+00:00
+
+ ## 首页 - 复旦大学数学科学学院
+ - [http://math.fudan.edu.cn](http://math.fudan.edu.cn)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 材料科学系
+ - [http://mse.fudan.edu.cn](http://mse.fudan.edu.cn)
+ - date_published: 2024-06-18T11:54:19.152560+00:00
+
+ ## 复旦大学-复旦新闻文化网
+ - [https://news.fudan.edu.cn](https://news.fudan.edu.cn)
+ - date_published: 2024-06-18T11:49:59.005213+00:00
+
+ ## 复旦大学自然语言处理实验室
+ - [https://nlp.fudan.edu.cn](https://nlp.fudan.edu.cn)
+ - date_published: 2024-07-12T19:49:10.047243+00:00
+
+ ## 复旦大学护理学院
+ - [http://nursing.fudan.edu.cn](http://nursing.fudan.edu.cn)
+ - date_published: 2024-06-18T11:50:20.741950+00:00
+
+ ## 复旦大学哲学学院
+ - [http://philosophy.fudan.edu.cn](http://philosophy.fudan.edu.cn)
+ - date_published: 2024-06-18T11:54:39.628167+00:00
+
+ ## [Fudan Physics Teaching Lab]
+ - [http://phylab.fudan.edu.cn](http://phylab.fudan.edu.cn)
+ - date_published: 2024-06-18T11:53:24.104653+00:00
+
+ ## 物理系
+ - [http://phys.fudan.edu.cn](http://phys.fudan.edu.cn)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## 复旦大学高分子科学系
+ - [http://polymer.fudan.edu.cn](http://polymer.fudan.edu.cn)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Shanghai Center for Mathematical Sciences SCMS
+ - [https://scms.fudan.edu.cn](https://scms.fudan.edu.cn)
+ - date_published: 2024-10-21T20:59:59.345959+00:00
+
+ ## 复旦大学大数据学院
+ - [http://sds.fudan.edu.cn](http://sds.fudan.edu.cn)
+ - date_published: 2024-10-21T20:57:12.143421+00:00
+
+ ## 复旦大学上海医学院
+ - [http://shmc.fudan.edu.cn](http://shmc.fudan.edu.cn)
+ - date_published: 2024-06-18T11:51:31.107445+00:00
+
+ ## 复旦大学-国际关系与公共事务学院
+ - [http://sirpa.fudan.edu.cn](http://sirpa.fudan.edu.cn)
+ - date_published: 2024-10-21T21:21:41.766725+00:00
+
+ ## 复旦大学审计处
+ - [http://sjc.fudan.edu.cn](http://sjc.fudan.edu.cn)
+ - date_published: 2024-06-18T11:54:14.759344+00:00
+
+ ## 上海市现代应用数学重点实验室网站
+ - [http://sklcam.fudan.edu.cn](http://sklcam.fudan.edu.cn)
+ - date_published: 2024-10-21T21:09:40.726291+00:00
+
+ ## 复旦大学微电子学院官网
+ - [https://sme.fudan.edu.cn](https://sme.fudan.edu.cn)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## 复旦大学软件学院—国家示范性软件学院
+ - [https://software.fudan.edu.cn](https://software.fudan.edu.cn)
+ - date_published: 2024-10-21T20:57:59.973607+00:00
+
+ ## 复旦大学马克思主义学院
+ - [https://som.fudan.edu.cn](https://som.fudan.edu.cn)
+ - date_published: 2024-06-18T11:53:31.431588+00:00
+
+ ## 复旦大学药学院
+ - [http://spfdu.fudan.edu.cn](http://spfdu.fudan.edu.cn)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 首页 - 复旦大学公共卫生学院
+ - [http://sph.fudan.edu.cn](http://sph.fudan.edu.cn)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 社会发展与公共政策学院
+ - [http://ssdpp.fudan.edu.cn](http://ssdpp.fudan.edu.cn)
+ - date_published: 2024-10-21T21:12:21.251309+00:00
+
+ ## 复旦大学人文社会科学网
+ - [http://wkkyc.fudan.edu.cn](http://wkkyc.fudan.edu.cn)
+ - date_published: 2024-10-21T20:56:14.999515+00:00
+
+ ## 复旦大学文明在线
+ - [http://wmzx.fudan.edu.cn](http://wmzx.fudan.edu.cn)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 化学系
+ - [http://www.chemistry.fudan.edu.cn](http://www.chemistry.fudan.edu.cn)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 文物与博物馆学系
+ - [http://www.chm.fudan.edu.cn](http://www.chm.fudan.edu.cn)
+ - date_published: 2024-06-18T11:51:02.573051+00:00
+
+ ## 孔子学院
+ - [http://www.ci.fudan.edu.cn](http://www.ci.fudan.edu.cn)
+ - date_published: 2024-10-21T21:33:39.551950+00:00
+
+ ## 复旦大学经济学院
+ - [http://www.econ.fudan.edu.cn](http://www.econ.fudan.edu.cn)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## å¤æ¦å¤§å­¦æ¡£æ¡ä¿¡æ¯ç½
+ - [http://www.fda.fudan.edu.cn](http://www.fda.fudan.edu.cn)
+ - date_published: 2024-06-18T11:49:43.106084+00:00
+
+ ## 复旦大学体育教学部
+ - [http://www.fdty.fudan.edu.cn](http://www.fdty.fudan.edu.cn)
+ - date_published: 2024-10-21T21:39:28.967182+00:00
+
+ ## 高等教育研究所
+ - [http://www.ihe.fudan.edu.cn](http://www.ihe.fudan.edu.cn)
+ - date_published: 2024-10-21T21:14:54.677329+00:00
+
+ ## 国际问题研究院
+ - [http://www.iis.fudan.edu.cn](http://www.iis.fudan.edu.cn)
+ - date_published: 2024-10-21T21:37:58.669102+00:00
+
+ ## 首页 - 复旦大学信息科学与工程学院
+ - [http://www.it.fudan.edu.cn](http://www.it.fudan.edu.cn)
+ - date_published: 2024-01-01T00:00:00+00:00
+
  ## 复旦大学MPA教育中心
  - [http://www.mpa.fudan.edu.cn](http://www.mpa.fudan.edu.cn)
  - date_published: 2024-10-21T21:21:47.481627+00:00
@@ -649,6 +1373,10 @@
  ## 南昌大学
  - [http://www.ncu.edu.cn](http://www.ncu.edu.cn)
  - date_published: 2025-01-13T00:44:08.552872+00:00
+
+ ## 宁波大学科学技术学院设计艺术学院/文化创意学院：首页
+ - [http://ys.ndky.edu.cn](http://ys.ndky.edu.cn)
+ - date_published: 2025-01-21T08:40:33.256498+00:00
 
  ## 首页 - 中国教育考试网
  - [https://www.neea.edu.cn](https://www.neea.edu.cn)
@@ -2952,6 +3680,10 @@
  - [http://www.ddknews.gov.cn](http://www.ddknews.gov.cn)
  - date_published: 2024-06-30T11:51:02+00:00
 
+ ## 东莞市发展和改革局
+ - [https://dgdp.dg.gov.cn](https://dgdp.dg.gov.cn)
+ - date_published: 2025-01-21T06:39:09.288886+00:00
+
  ## 东莞市生态环境局网站
  - [http://dgepb.dg.gov.cn](http://dgepb.dg.gov.cn)
  - date_published: 2025-01-13T20:24:33.905808+00:00
@@ -3266,741 +3998,5 @@
 
  ## 广东省粮食和物资储备局网站
  - [http://gdgrain.gd.gov.cn](http://gdgrain.gd.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 广东省工业和信息化厅
- - [http://gdii.gd.gov.cn](http://gdii.gd.gov.cn)
- - date_published: 2024-06-30T20:55:39.915826+00:00
-
- ## 广东省戒毒管理局
- - [http://gdjdj.gd.gov.cn](http://gdjdj.gd.gov.cn)
- - date_published: 2024-10-21T05:58:44.271592+00:00
-
- ## 广东省地方金融监督管理局
- - [http://gdjr.gd.gov.cn](http://gdjr.gd.gov.cn)
- - date_published: 2024-10-21T05:52:52.340340+00:00
-
- ## 广东省监狱管理局
- - [http://gdjyj.gd.gov.cn](http://gdjyj.gd.gov.cn)
- - date_published: 2024-10-21T05:54:03.151972+00:00
-
- ## 广东省海洋综合执法总队网站
- - [http://gdshyzhzfzd.gd.gov.cn](http://gdshyzhzfzd.gd.gov.cn)
- - date_published: 2024-10-21T05:54:08.594415+00:00
-
- ## 广东信访网
- - [http://gdwsxf.gd.gov.cn](http://gdwsxf.gd.gov.cn)
- - date_published: 2024-10-21T05:53:13.643314+00:00
-
- ## 广东省人民政府发展研究中心网站
- - [http://gdyjzx.gd.gov.cn](http://gdyjzx.gd.gov.cn)
- - date_published: 2024-10-21T05:52:56.568753+00:00
-
- ## 广东省人民政府国有资产监督管理委员会
- - [http://gzw.gd.gov.cn](http://gzw.gd.gov.cn)
- - date_published: 2024-10-21T05:49:34.107477+00:00
-
- ## 广东省港澳办_广东省人民政府港澳事务办公室
- - [http://hmo.gd.gov.cn](http://hmo.gd.gov.cn)
- - date_published: 2024-06-30T16:15:52.887027+00:00
-
- ## 广东省人力资源和社会保障厅
- - [http://hrss.gd.gov.cn](http://hrss.gd.gov.cn)
- - date_published: 2024-06-30T17:51:20.877963+00:00
-
- ## 广东省医疗保障局
- - [http://hsa.gd.gov.cn](http://hsa.gd.gov.cn)
- - date_published: 2024-06-30T13:24:50.397150+00:00
-
- ## 广东省机关事务管理局
- - [http://jgsw.gd.gov.cn](http://jgsw.gd.gov.cn)
- - date_published: 2024-06-30T21:59:44.531600+00:00
-
- ## 广东林业网_广东省林业局门户网站
- - [http://lyj.gd.gov.cn](http://lyj.gd.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 广东省民族宗教事务委员会网站
- - [http://mzzjw.gd.gov.cn](http://mzzjw.gd.gov.cn)
- - date_published: 2024-06-30T21:13:02.989859+00:00
-
- ## 广东省司法厅网站
- - [http://sft.gd.gov.cn](http://sft.gd.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 粤企政策通—广东涉企政策发布平台
- - [https://sqzc.gd.gov.cn](https://sqzc.gd.gov.cn)
- - date_published: 2024-10-21T05:52:23.839638+00:00
-
- ## 欢迎光临广东统计信息网
- - [http://stats.gd.gov.cn](http://stats.gd.gov.cn)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## 广东省中医药局网站
- - [http://szyyj.gd.gov.cn](http://szyyj.gd.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 广东省交通运输厅
- - [http://td.gd.gov.cn](http://td.gd.gov.cn)
- - date_published: 2024-10-21T05:52:44.336203+00:00
-
- ## 广东省体育局网站
- - [http://tyj.gd.gov.cn](http://tyj.gd.gov.cn)
- - date_published: 2024-10-21T05:48:47.982385+00:00
-
- ## 首页 - 广东政务服务网
- - [https://tyrz.gd.gov.cn](https://tyrz.gd.gov.cn)
- - date_published: 2025-01-13T20:37:03.498428+00:00
-
- ## 广东省文化和旅游厅
- - [http://whly.gd.gov.cn](http://whly.gd.gov.cn)
- - date_published: 2024-06-30T19:32:16.833684+00:00
-
- ## 广东省卫生健康委员会门户网站，广东省卫生健康委官方网站
- - [http://wsjkw.gd.gov.cn](http://wsjkw.gd.gov.cn)
- - date_published: 2025-01-12T18:25:01.352021+00:00
-
- ## 广东省人民政府外事办公室
- - [http://www.gdfao.gd.gov.cn](http://www.gdfao.gd.gov.cn)
- - date_published: 2024-09-09T15:36:27.736799+00:00
-
- ## 广东省人民政府门户网站
- - [http://www.gd.gov.cn](http://www.gd.gov.cn)
- - date_published: 2024-06-30T04:00:24.100826+00:00
-
- ## 南粤清风网
- - [http://www.gdjct.gd.gov.cn](http://www.gdjct.gd.gov.cn)
- - date_published: 2024-06-30T14:03:06.041269+00:00
-
- ## 广东省人民政府侨务办公室
- - [http://www.qb.gd.gov.cn](http://www.qb.gd.gov.cn)
- - date_published: 2024-06-30T20:39:04.429812+00:00
-
- ## 广东省应急管理厅网站
- - [http://yjgl.gd.gov.cn](http://yjgl.gd.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 广东省政务服务和数据管理局
- - [http://zfsg.gd.gov.cn](http://zfsg.gd.gov.cn)
- - date_published: 2024-10-21T05:52:49.363079+00:00
-
- ## Guangzhou Development District
- - [https://eng.gdd.gov.cn](https://eng.gdd.gov.cn)
- - date_published: 2024-05-09T06:04:47.250511+00:00
-
- ## 広州ハイテク産業開発区（黄埔区）
- - [http://jp.gdd.gov.cn](http://jp.gdd.gov.cn)
- - date_published: 2024-07-09T18:30:20.893387+00:00
-
- ## 광저우시 황푸구·개발구
- - [http://kr.gdd.gov.cn](http://kr.gdd.gov.cn)
- - date_published: 2024-07-09T18:30:36.023394+00:00
-
- ## 中共广东省委党校（广东行政学院）
- - [http://www.gddx.gov.cn](http://www.gddx.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 清远市人民政府门户网站
- - [http://www.gdqy.gov.cn](http://www.gdqy.gov.cn)
- - date_published: 2025-01-14T06:22:54.623136+00:00
-
- ## 广东人才网
- - [http://www.gdrc.gov.cn](http://www.gdrc.gov.cn)
- - date_published: 2025-01-14T14:04:59.003129+00:00
-
- ## 广东政协网 中国人民政治协商会议广东省委员会
- - [https://www.gdszx.gov.cn](https://www.gdszx.gov.cn)
- - date_published: 2024-06-30T23:12:19.611761+00:00
-
- ## 广东省招商引资对接平台_园区｜地块｜楼宇｜厂房｜项目_投资广东
- - [https://tzgd.gdzwfw.gov.cn](https://tzgd.gdzwfw.gov.cn)
- - date_published: 2025-01-14T06:22:11.978628+00:00
-
- ## 广东省公共资源交易平台
- - [https://ygp.gdzwfw.gov.cn](https://ygp.gdzwfw.gov.cn)
- - date_published: 2025-01-14T08:01:07.421550+00:00
-
- ## 粤政易
- - [https://yzy.gdzwfw.gov.cn](https://yzy.gdzwfw.gov.cn)
- - date_published: 2024-01-30T09:41:46+00:00
-
- ## 全国征兵网
- - [https://www.gfbzb.gov.cn](https://www.gfbzb.gov.cn)
- - date_published: 2024-06-30T15:33:13.578975+00:00
-
- ## 国家机关事务管理局
- - [http://bgs.ggj.gov.cn](http://bgs.ggj.gov.cn)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## 公共机构节约能源资源网
- - [http://ecpi.ggj.gov.cn](http://ecpi.ggj.gov.cn)
- - date_published: 2024-06-28T09:53:41+00:00
-
- ## 中央国家机关人民防空网
- - [https://gjjgrf.ggj.gov.cn](https://gjjgrf.ggj.gov.cn)
- - date_published: 2024-05-28T01:13:14+00:00
-
- ## 政府信息公开-国家机关事务管理局
- - [https://gkml.ggj.gov.cn](https://gkml.ggj.gov.cn)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## 国家机关事务管理局
- - [https://www.ggj.gov.cn](https://www.ggj.gov.cn)
- - date_published: 2024-05-07T16:49:21.148158+00:00
-
- ## 中央行政事业单位国有资产管理
- - [https://zc.ggj.gov.cn](https://zc.ggj.gov.cn)
- - date_published: 2024-03-20T13:37:23+00:00
-
- ## 全国公共资源交易平台
- - [http://www.ggzy.gov.cn](http://www.ggzy.gov.cn)
- - date_published: 2024-06-30T17:29:39+00:00
-
- ## 国家保密局网站--国家保密局互联网门户网站
- - [http://www.gjbmj.gov.cn](http://www.gjbmj.gov.cn)
- - date_published: 2024-06-28T00:16:36+00:00
-
- ## 甘肃文明网
- - [http://www.godppgs.gov.cn](http://www.godppgs.gov.cn)
- - date_published: 2024-06-30T17:07:14.468995+00:00
-
- ## 巩义市人民政府
- - [https://www.gongyishi.gov.cn](https://www.gongyishi.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 侨务工作研究
- - [http://qwgzyj.gqb.gov.cn](http://qwgzyj.gqb.gov.cn)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## 国务院侨务办公室
- - [https://www.gqb.gov.cn](https://www.gqb.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## 甘肃统一战线
- - [http://www.gsswtzb.gov.cn](http://www.gsswtzb.gov.cn)
- - date_published: 2024-06-30T20:38:49.489372+00:00
-
- ## 甘肃省人民政府台湾事务办公室
- - [http://www.gstb.gov.cn](http://www.gstb.gov.cn)
- - date_published: 2024-06-30T14:06:39.378073+00:00
-
- ## 中共甘肃省委网信办
- - [http://www.gswxb.gov.cn](http://www.gswxb.gov.cn)
- - date_published: 2024-05-13T10:39:58+00:00
-
- ## 特殊食品验证评价技术机构备案
- - [https://tsspjg.gsxt.gov.cn](https://tsspjg.gsxt.gov.cn)
- - date_published: 2023-11-28T03:12:24+00:00
-
- ## 全国个体私营经济发展服务网
- - [http://xwqy.gsxt.gov.cn](http://xwqy.gsxt.gov.cn)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Welcome to nginx!
- - [http://ypzsx.gsxt.gov.cn](http://ypzsx.gsxt.gov.cn)
- - date_published: 2019-06-27T10:54:58+00:00
-
- ## 301 Moved Permanently
- - [http://www.gszfw.gov.cn](http://www.gszfw.gov.cn)
- - date_published: 2024-07-03T05:51:28.429629+00:00
-
- ## Official website of Guiyang, China – Local news, investment, travel, living, services
- - [http://english.guiyang.gov.cn](http://english.guiyang.gov.cn)
- - date_published: 2024-09-09T12:54:11.069901+00:00
-
- ## 开封市鼓楼区人民政府
- - [http://www.gulou.gov.cn](http://www.gulou.gov.cn)
- - date_published: 2025-01-13T23:37:00.982960+00:00
-
- ## 国务院台湾事务办公室新闻发布会 记者报名入口
- - [http://apps.gwytb.gov.cn](http://apps.gwytb.gov.cn)
- - date_published: 2024-06-30T17:54:32.632142+00:00
-
- ## 中共中央台湾工作办公室、国务院台湾事务办公室
- - [http://www.gwytb.gov.cn](http://www.gwytb.gov.cn)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## 广西壮族自治区发展和改革委员会网站
- - [http://fgw.gxzf.gov.cn](http://fgw.gxzf.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 广西壮族自治区广播电视局网站
- - [http://gbdsj.gxzf.gov.cn](http://gbdsj.gxzf.gov.cn)
- - date_published: 2024-06-30T21:44:46.720011+00:00
-
- ## 广西壮族自治区退役军人事务厅网站
- - [http://gjw.gxzf.gov.cn](http://gjw.gxzf.gov.cn)
- - date_published: 2024-06-30T15:33:10.636687+00:00
-
- ## 广西壮族自治区工业和信息化厅网站
- - [http://gxt.gxzf.gov.cn](http://gxt.gxzf.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 广西壮族自治区机关事务管理局网站
- - [http://jgswj.gxzf.gov.cn](http://jgswj.gxzf.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 广西壮族自治区交通运输厅
- - [http://jtt.gxzf.gov.cn](http://jtt.gxzf.gov.cn)
- - date_published: 2025-01-12T14:25:19.106398+00:00
-
- ## 广西壮族自治区粮食和物资储备局网站 -
-			lshwzcbj.gxzf.gov.cn
- - [http://lshwzcbj.gxzf.gov.cn](http://lshwzcbj.gxzf.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 广西壮族自治区林业局网站
- - [http://lyj.gxzf.gov.cn](http://lyj.gxzf.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 广西壮族自治区民政厅网站
- - [http://mzt.gxzf.gov.cn](http://mzt.gxzf.gov.cn)
- - date_published: 2025-01-13T16:02:20.147208+00:00
-
- ## 广西壮族自治区民族宗教事务委员会网站
- - [http://mzw.gxzf.gov.cn](http://mzw.gxzf.gov.cn)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 广西壮族自治区农业农村厅
- - [http://nynct.gxzf.gov.cn](http://nynct.gxzf.gov.cn)
- - date_published: 2024-06-30T22:12:30.534017+00:00
-
- ## 广西壮族自治区人力资源和社会保障厅网站
- - [http://rst.gxzf.gov.cn](http://rst.gxzf.gov.cn)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## 广西壮族自治区司法厅网站
- - [http://sft.gxzf.gov.cn](http://sft.gxzf.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 广西壮族自治区审计厅网站
- - [http://sjt.gxzf.gov.cn](http://sjt.gxzf.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 广西壮族自治区生态环境厅网站
- - [http://sthjt.gxzf.gov.cn](http://sthjt.gxzf.gov.cn)
- - date_published: 2024-06-30T15:48:56.070097+00:00
-
- ## 广西壮族自治区商务厅网站
- - [http://swt.gxzf.gov.cn](http://swt.gxzf.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 广西壮族自治区统计局网站
- - [http://tjj.gxzf.gov.cn](http://tjj.gxzf.gov.cn)
- - date_published: 2024-06-30T20:23:18.953587+00:00
-
- ## 广西壮族自治区体育局网站
- - [http://tyj.gxzf.gov.cn](http://tyj.gxzf.gov.cn)
- - date_published: 2025-01-13T19:01:09.727761+00:00
-
- ## 广西壮族自治区文化和旅游厅网站
- - [http://wlt.gxzf.gov.cn](http://wlt.gxzf.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 广西壮族自治区外事办公室网站
- - [http://wsb.gxzf.gov.cn](http://wsb.gxzf.gov.cn)
- - date_published: 2024-06-30T16:22:15.036695+00:00
-
- ## 广西壮族自治区医疗保障局网站 -
-    http://ybj.gxzf.gov.cn
- - [http://ybj.gxzf.gov.cn](http://ybj.gxzf.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 广西壮族自治区应急管理厅网站
- - [http://yjglt.gxzf.gov.cn](http://yjglt.gxzf.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 广西壮族自治区中医药管理局网站
-        -
-        http://zyyj.gxzf.gov.cn/
- - [http://zyyj.gxzf.gov.cn](http://zyyj.gxzf.gov.cn)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## 广西政协网--中国人民政治协商会议广西壮族自治区委员会
- - [http://www.gxzx.gov.cn](http://www.gxzx.gov.cn)
- - date_published: 2024-06-28T01:42:06+00:00
-
- ## 固原纪委监委网
- - [http://www.gyjjjc.gov.cn](http://www.gyjjjc.gov.cn)
- - date_published: 2025-01-13T05:28:59.169429+00:00
-
- ## 广州市城市管理和综合执法局网站
- - [http://cg.gz.gov.cn](http://cg.gz.gov.cn)
- - date_published: 2024-10-21T05:48:18.514628+00:00
-
- ## 广州市发展和改革委员会网站
- - [http://fgw.gz.gov.cn](http://fgw.gz.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 广州住房公积金管理中心网站
- - [http://gjj.gz.gov.cn](http://gjj.gz.gov.cn)
- - date_published: 2024-10-21T05:55:53.445651+00:00
-
- ## 广州市工业和信息化局
- - [http://gxj.gz.gov.cn](http://gxj.gz.gov.cn)
- - date_published: 2024-10-21T05:53:08.566604+00:00
-
- ## 广州市市场监督管理局网站
- - [http://scjgj.gz.gov.cn](http://scjgj.gz.gov.cn)
- - date_published: 2024-10-21T05:49:57.151841+00:00
-
- ## 广州市司法局网站
- - [http://sfj.gz.gov.cn](http://sfj.gz.gov.cn)
- - date_published: 2024-10-21T05:49:47.236147+00:00
-
- ## 广州市生态环境局网站
- - [http://sthjj.gz.gov.cn](http://sthjj.gz.gov.cn)
- - date_published: 2024-08-18T20:54:10.955314+00:00
-
- ## 广州市人民政府门户网站
- - [http://www.gz.gov.cn](http://www.gz.gov.cn)
- - date_published: 2024-10-21T05:59:40.802103+00:00
-
- ## 广州市应急管理局网站
- - [http://yjglj.gz.gov.cn](http://yjglj.gz.gov.cn)
- - date_published: 2024-10-21T05:55:42.711726+00:00
-
- ## 贵阳市白云区人民政府
- - [http://www.gzbaiyun.gov.cn](http://www.gzbaiyun.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 中共贵州省委党校 贵州行政学院 中共贵州省委讲师团
- - [http://www.gzdx.gov.cn](http://www.gzdx.gov.cn)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## 广州市人民政府外事办公室
- - [http://www.gzfao.gov.cn](http://www.gzfao.gov.cn)
- - date_published: 2024-09-09T15:34:17.937201+00:00
-
- ## 广州市南沙区人民政府门户网站
- - [http://www.gzns.gov.cn](http://www.gzns.gov.cn)
- - date_published: 2024-07-09T18:21:07.463641+00:00
-
- ## 中国人民政治协商会议贵州省委员会
- - [http://www.gzszx.gov.cn](http://www.gzszx.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 广州市委网信办-中共广州市委网络安全和信息化委员会办公室-广州网信办
- - [https://www.gzwxb.gov.cn](https://www.gzwxb.gov.cn)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## 贵州宣传网
- - [http://gzxc.gov.cn](http://gzxc.gov.cn)
- - date_published: 2025-01-13T00:42:34.155263+00:00
-
- ## 中国人民政治协商会议广州市委员会
- - [https://www.gzzx.gov.cn](https://www.gzzx.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 甘孜州政协
- - [http://www.gzzzx.gov.cn](http://www.gzzzx.gov.cn)
- - date_published: 2025-01-13T11:32:38.663942+00:00
-
- ## 海陵试验区政务网站
- - [http://www.hailing.gov.cn](http://www.hailing.gov.cn)
- - date_published: 2025-01-14T06:25:49.457883+00:00
-
- ## 海南省农业农村厅
- - [http://agri.hainan.gov.cn](http://agri.hainan.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 海南省审计网
- - [http://audit.hainan.gov.cn](http://audit.hainan.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 海南省外事办公室
- - [http://dfoca.hainan.gov.cn](http://dfoca.hainan.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 海南省商务厅
- - [http://dofcom.hainan.gov.cn](http://dofcom.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南省生态环境厅
- - [http://hnsthb.hainan.gov.cn](http://hnsthb.hainan.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 海南省人力资源和社会保障厅
- - [http://hrss.hainan.gov.cn](http://hrss.hainan.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 海南省工业和信息化厅
- - [http://iitb.hainan.gov.cn](http://iitb.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南机关党建
- - [http://jgdj.hainan.gov.cn](http://jgdj.hainan.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 海南省机关事务管理局
- - [http://jgsw.hainan.gov.cn](http://jgsw.hainan.gov.cn)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## 海南省司法厅
- - [http://justice.hainan.gov.cn](http://justice.hainan.gov.cn)
- - date_published: 2024-06-30T17:31:16.223339+00:00
-
- ## 海南省旅游和文化广电体育厅——阳光海南网
- - [http://lwt.hainan.gov.cn](http://lwt.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南省林业局
- - [http://lyj.hainan.gov.cn](http://lyj.hainan.gov.cn)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## 海南省发展和改革委员会
- - [http://plan.hainan.gov.cn](http://plan.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南省民族事务委员会
- - [http://smzw.hainan.gov.cn](http://smzw.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南省统计局
- - [http://stats.hainan.gov.cn](http://stats.hainan.gov.cn)
- - date_published: 2024-06-30T20:21:46.484509+00:00
-
- ## 海南省退役军人事务厅
- - [http://tyt.hainan.gov.cn](http://tyt.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南省卫生健康委员会
- - [http://wst.hainan.gov.cn](http://wst.hainan.gov.cn)
- - date_published: 2024-06-30T13:46:11.811678+00:00
-
- ## 海南省人民政府网
- - [http://www.hainan.gov.cn](http://www.hainan.gov.cn)
- - date_published: 2023-11-08T01:31:16+00:00
-
- ## 海南省医疗保障局
- - [http://ybj.hainan.gov.cn](http://ybj.hainan.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 海南省应急管理厅
- - [http://yjglt.hainan.gov.cn](http://yjglt.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 政协海南省委员会
- - [http://www.hainanzx.gov.cn](http://www.hainanzx.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Haizhu, Guangzhou
- - [http://en.haizhu.gov.cn](http://en.haizhu.gov.cn)
- - date_published: 2024-07-09T18:20:10.647983+00:00
-
- ## 广州市海珠区人民政府门户网站
- - [http://www.haizhu.gov.cn](http://www.haizhu.gov.cn)
- - date_published: 2024-10-21T05:52:15.662041+00:00
-
- ## 杭州市发展和改革委员会
- - [http://drc.hangzhou.gov.cn](http://drc.hangzhou.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 杭州外事
- - [http://fao.hangzhou.gov.cn](http://fao.hangzhou.gov.cn)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## 哈尔滨市人民政府
- - [https://www.harbin.gov.cn](https://www.harbin.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 湖北网信网
- - [https://hbcac.gov.cn](https://hbcac.gov.cn)
- - date_published: 2024-06-30T18:08:30.742177+00:00
-
- ## 湖北长安网
- - [http://www.hbcaw.gov.cn](http://www.hbcaw.gov.cn)
- - date_published: 2024-07-03T05:50:30.947800+00:00
-
- ## 湖北档案信息网
- - [http://www.hbda.gov.cn](http://www.hbda.gov.cn)
- - date_published: 2025-01-13T10:19:34.612606+00:00
-
- ## 湖北省人民检察院
- - [http://www.hbjc.gov.cn](http://www.hbjc.gov.cn)
- - date_published: 2024-06-30T13:17:19.443952+00:00
-
- ## 湖北机关党建网
- - [http://www.hbjgdj.gov.cn](http://www.hbjgdj.gov.cn)
- - date_published: 2024-06-30T14:53:01.417350+00:00
-
- ## 中国民主建国会湖北省委员会 - 中国民主建国会湖北省委员会
- - [http://www.hbmj.gov.cn](http://www.hbmj.gov.cn)
- - date_published: 2025-01-14T16:06:16.993832+00:00
-
- ## 中共湖北省委统一战线工作部
- - [http://www.hbtyzx.gov.cn](http://www.hbtyzx.gov.cn)
- - date_published: 2025-01-13T00:09:38.824731+00:00
-
- ## 湖北文明网
- - [http://www.hbwmw.gov.cn](http://www.hbwmw.gov.cn)
- - date_published: 2024-06-30T17:07:08.543869+00:00
-
- ## 中国人民政治协商会议湖北省委员会
- - [http://www.hbzx.gov.cn](http://www.hbzx.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 重庆市合川区人民政府
- - [http://www.hc.gov.cn](http://www.hc.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 河北省纪委监委网站
- - [http://www.hebcdi.gov.cn](http://www.hebcdi.gov.cn)
- - date_published: 2024-06-30T13:55:00.135023+00:00
-
- ## 河北省生态环境厅
- - [http://hbepb.hebei.gov.cn](http://hbepb.hebei.gov.cn)
- - date_published: 2024-06-28T08:53:54+00:00
-
- ## 河北省人民政府外事办公室
- - [http://hebwb.hebei.gov.cn](http://hebwb.hebei.gov.cn)
- - date_published: 2024-06-30T16:08:39+00:00
-
- ## 河北省粮食和物资储备局
- - [http://lswz.hebei.gov.cn](http://lswz.hebei.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 河北省民族事务委员会
- - [http://mw.hebei.gov.cn](http://mw.hebei.gov.cn)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## 河北省司法厅
- - [http://sft.hebei.gov.cn](http://sft.hebei.gov.cn)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## 河北省审计厅门户网站
- - [http://sjt.hebei.gov.cn](http://sjt.hebei.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 河北省体育局
- - [http://sport.hebei.gov.cn](http://sport.hebei.gov.cn)
- - date_published: 2025-01-13T18:50:06.094564+00:00
-
- ## 河北省机关事务管理局欢迎您！
- - [http://swj.hebei.gov.cn](http://swj.hebei.gov.cn)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## 河北省统计局
- - [http://tjj.hebei.gov.cn](http://tjj.hebei.gov.cn)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## 河北省政协网
- - [http://www.hebzx.gov.cn](http://www.hebzx.gov.cn)
- - date_published: 2024-06-30T23:11:45.028526+00:00
-
- ## 河南省自然资源厅
- - [http://dnr.henan.gov.cn](http://dnr.henan.gov.cn)
- - date_published: 2025-01-14T08:15:52.791234+00:00
-
- ## 河南省发展和改革委员会
- - [http://fgw.henan.gov.cn](http://fgw.henan.gov.cn)
- - date_published: 2024-06-30T17:37:49.748849+00:00
-
- ## 河南省广播电视局
- - [https://gd.henan.gov.cn](https://gd.henan.gov.cn)
- - date_published: 2024-06-30T21:40:48.397037+00:00
-
- ## 河南省工业和信息化厅
- - [http://gxt.henan.gov.cn](http://gxt.henan.gov.cn)
- - date_published: 2024-06-30T20:56:44.755457+00:00
-
- ## 河南省文化和旅游厅
- - [https://hct.henan.gov.cn](https://hct.henan.gov.cn)
- - date_published: 2024-06-30T19:31:48.271984+00:00
-
- ## 河南省公安厅
- - [https://hnga.henan.gov.cn](https://hnga.henan.gov.cn)
- - date_published: 2025-01-14T08:18:36.540236+00:00
-
- ## 河南省民族宗教事务委员会
- - [http://hnsmzzjw.henan.gov.cn](http://hnsmzzjw.henan.gov.cn)
- - date_published: 2024-06-30T21:21:16.995143+00:00
-
- ## 河南省商务厅
- - [https://hnsswt.henan.gov.cn](https://hnsswt.henan.gov.cn)
- - date_published: 2024-06-30T14:21:28.790596+00:00
-
- ## 河南省人力资源和社会保障厅
- - [http://hrss.henan.gov.cn](http://hrss.henan.gov.cn)
- - date_published: 2024-06-30T17:51:18.503090+00:00
-
- ## 河南省粮食和物资储备局官网
- - [http://lswz.henan.gov.cn](http://lswz.henan.gov.cn)
- - date_published: 2024-06-30T17:17:44.818492+00:00
-
- ## 河南省林业局
- - [http://lyj.henan.gov.cn](http://lyj.henan.gov.cn)
- - date_published: 2024-06-30T23:06:02.375868+00:00
-
- ## 河南省民政厅
- - [http://mzt.henan.gov.cn](http://mzt.henan.gov.cn)
- - date_published: 2025-01-13T16:01:39.585139+00:00
-
- ## 河南省农业农村厅
- - [https://nynct.henan.gov.cn](https://nynct.henan.gov.cn)
- - date_published: 2024-06-30T22:09:26.217616+00:00
-
- ## 河南省人民防空办公室
- - [http://rfb.henan.gov.cn](http://rfb.henan.gov.cn)
- - date_published: 2025-01-14T08:19:33.013332+00:00
-
- ## 河南省司法厅
- - [http://sft.henan.gov.cn](http://sft.henan.gov.cn)
- - date_published: 2024-06-30T17:23:44.833468+00:00
-
- ## 河南省机关事务管理局
- - [http://sgj.henan.gov.cn](http://sgj.henan.gov.cn)
- - date_published: 2024-06-30T21:58:32.030787+00:00
-
- ## 河南省审计厅
- - [https://sjt.henan.gov.cn](https://sjt.henan.gov.cn)
- - date_published: 2024-06-30T15:39:18.528021+00:00
-
- ## 河南省水利厅
- - [http://slt.henan.gov.cn](http://slt.henan.gov.cn)
- - date_published: 2025-01-14T08:19:16.013680+00:00
-
- ## 河南省生态环境厅
- - [http://sthjt.henan.gov.cn](http://sthjt.henan.gov.cn)
- - date_published: 2024-06-30T15:50:57.669013+00:00
-
- ## 河南省统计局
- - [http://tjj.henan.gov.cn](http://tjj.henan.gov.cn)
- - date_published: 2024-06-30T20:26:31.840761+00:00
-
- ## 河南省退役军人事务厅
- - [http://tyjrswt.henan.gov.cn](http://tyjrswt.henan.gov.cn)
- - date_published: 2024-06-30T15:34:04.446980+00:00
-
- ## 河南省文物局
- - [http://wwj.henan.gov.cn](http://wwj.henan.gov.cn)
- - date_published: 2025-01-14T08:18:55.509991+00:00
-
- ## 河南省人民政府门户网站
- - [http://www.henan.gov.cn](http://www.henan.gov.cn)
- - date_published: 2024-06-30T15:33:07.255598+00:00
-
- ## 河南省应急管理厅
- - [http://yjglt.henan.gov.cn](http://yjglt.henan.gov.cn)
- - date_published: 2024-06-30T19:09:21.842419+00:00
-
- ## 河南省医疗保障局
- - [http://ylbz.henan.gov.cn](http://ylbz.henan.gov.cn)
- - date_published: 2024-06-30T13:32:21.179704+00:00
-
- ## 衡阳市人民政府门户网站
- - [http://www.hengyang.gov.cn](http://www.hengyang.gov.cn)
- - date_published: 2025-01-13T19:46:57.538715+00:00
-
- ## 中共呼和浩特市委统一战线工作部
- - [http://hhhttzb.gov.cn](http://hhhttzb.gov.cn)
- - date_published: 2025-01-13T00:05:22.224268+00:00
-
- ## 省发展和改革委员会
- - [http://drc.hlj.gov.cn](http://drc.hlj.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 省工业和信息化厅
- - [http://gxt.hlj.gov.cn](http://gxt.hlj.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 

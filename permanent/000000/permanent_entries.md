@@ -800,6 +800,10 @@
  - [https://downdetector.ae](https://downdetector.ae)
  - date_published: 2024-07-16T00:00:00+00:00
 
+ ## DRIVAR
+ - [https://drivar.ae](https://drivar.ae)
+ - date_published: 2025-01-21T15:20:18.623500+00:00
+
  ## Business Setup in Dubai, UAE | Dtec
  - [https://dtec.ae](https://dtec.ae)
  - date_published: 2024-09-25T10:12:17.784667+00:00
@@ -4015,8 +4019,4 @@
  ## bloop | Find Code. Fast.
  - [https://bloop.ai](https://bloop.ai)
  - date_published: 2023-10-25T11:36:42.110600+00:00
-
- ## Bluesight
- - [https://bluesight.ai](https://bluesight.ai)
- - date_published: 2024-09-11T19:20:21+00:00
 

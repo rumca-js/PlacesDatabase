@@ -1,3 +1,31 @@
+ ## Keys
+ - [https://www.thekeys.ai](https://www.thekeys.ai)
+ - date_published: 2023-11-30T00:00:00+00:00
+
+ ## Generate in-depth, SEO-focused content on any subject • Lede
+ - [https://thelede.ai](https://thelede.ai)
+ - date_published: 2024-06-14T09:00:03.674209+00:00
+
+ ## Artificial Intelligence Solutions for Call Centers | Level AI
+ - [https://thelevel.ai](https://thelevel.ai)
+ - date_published: 2024-06-19T20:39:30.576005+00:00
+
+ ## Get 40 Extra Headshots by Sharing Your Experience
+ - [https://reviews.themultiverse.ai](https://reviews.themultiverse.ai)
+ - date_published: 2024-10-30T15:40:48.976859+00:00
+
+ ## Turn your selfies into studio-quality professional headshots with AI
+ - [https://www.themultiverse.ai](https://www.themultiverse.ai)
+ - date_published: 2024-06-19T20:03:16.281962+00:00
+
+ ## The Neuron - Make AI Work For You | AI Tools & Tutorials
+ - [https://theneuron.ai](https://theneuron.ai)
+ - date_published: 2025-01-16T12:01:44.406747+00:00
+
+ ## The Neuron - Make AI Work For You | AI Tools & Tutorials
+ - [https://www.theneuron.ai](https://www.theneuron.ai)
+ - date_published: 2025-01-16T12:01:25.768339+00:00
+
  ## The New Black | AI Clothing Fashion Design Generator
  - [https://thenewblack.ai](https://thenewblack.ai)
  - date_published: 2024-10-30T06:54:29.681838+00:00
@@ -2605,6 +2633,10 @@ Creative Solutions
  - [http://www.arak29.am](http://www.arak29.am)
  - date_published: 2024-06-30T07:22:52+00:00
 
+ ## Առավոտ – Լուրեր Հայաստանից
+ - [https://www.aravot.am](https://www.aravot.am)
+ - date_published: 2025-01-21T14:31:17.998756+00:00
+
  ## Հայկական կրթական միջավայր
  - [http://armedu.am](http://armedu.am)
  - date_published: 2024-07-02T22:44:34.273075+00:00
@@ -2625,9 +2657,53 @@ Creative Solutions
  - [https://asbarez.am](https://asbarez.am)
  - date_published: 2024-12-30T17:31:10.650803+00:00
 
+ ## AUA Admissions
+ - [https://admissions.aua.am](https://admissions.aua.am)
+ - date_published: 2025-01-22T00:36:12.732682+00:00
+
  ## American University of Armenia -
  - [https://aua.am](https://aua.am)
  - date_published: 2025-01-08T12:26:23+00:00
+
+ ## Turpanjian College of Health Sciences
+ - [https://chs.aua.am](https://chs.aua.am)
+ - date_published: 2025-01-22T00:36:48.928327+00:00
+
+ ## College of Humanities & Social Sciences (CHSS) - College of Humanities & Social Sciences
+ - [https://chss.aua.am](https://chss.aua.am)
+ - date_published: 2025-01-22T00:36:08.818683+00:00
+
+ ## AUA Communications Department
+ - [https://communications.aua.am](https://communications.aua.am)
+ - date_published: 2025-01-22T00:35:51.560818+00:00
+
+ ## The Office of Financial Aid - The Office of Financial Aid
+ - [https://finaid.aua.am](https://finaid.aua.am)
+ - date_published: 2025-01-22T00:36:44.546770+00:00
+
+ ## General Education at AUA - General Education at AUA
+ - [https://gened.aua.am](https://gened.aua.am)
+ - date_published: 2025-01-22T00:35:36.048560+00:00
+
+ ## Program Chair's Message - LL.M. Program
+ - [https://law.aua.am](https://law.aua.am)
+ - date_published: 2025-01-22T00:36:34.538999+00:00
+
+ ## LIBRARY HOME - AUA's AGBU Papazian Library
+ - [https://library.aua.am](https://library.aua.am)
+ - date_published: 2025-01-22T00:35:38.260631+00:00
+
+ ## Home | AUA Media Lab
+ - [https://medialab.aua.am](https://medialab.aua.am)
+ - date_published: 2025-01-22T00:35:48.777778+00:00
+
+ ## AUA Newsroom
+ - [https://newsroom.aua.am](https://newsroom.aua.am)
+ - date_published: 2025-01-22T00:36:36.018948+00:00
+
+ ## Scholarship Program Support
+ - [https://scholarships.aua.am](https://scholarships.aua.am)
+ - date_published: 2025-01-22T00:35:53.561288+00:00
 
  ## Audi-ին Հայաստանում
  - [https://www.audi.am](https://www.audi.am)
@@ -3248,6 +3324,10 @@ Creative Solutions
  - date_published: 2024-04-11T19:49:17+00:00
  - tags: ['web spam']
 
+ ## Armenian Web Development Company - Armenian Web Design, Web Development, Graphic Design
+ - [https://www.studio-one.am](https://www.studio-one.am)
+ - date_published: 2025-01-22T00:50:07.932267+00:00
+
  ## syuneci
  - [https://syuneci.am](https://syuneci.am)
  - date_published: 2022-07-03T21:27:50+00:00
@@ -3586,6 +3666,18 @@ Creative Solutions
  ## Amplosion | A safari extension to automatically redirect from AMP links to normal websites.
  - [https://amplosion.app](https://amplosion.app)
  - date_published: 2021-09-29T15:30:55+00:00
+
+ ## Version control for artists - Anchorpoint
+ - [https://anchorpoint.app](https://anchorpoint.app)
+ - date_published: 2025-01-21T23:21:04.050956+00:00
+
+ ## Getting Started
+ - [https://docs.anchorpoint.app](https://docs.anchorpoint.app)
+ - date_published: 2025-01-21T23:20:59.771012+00:00
+
+ ## Sign in - Matomo
+ - [https://track.anchorpoint.app](https://track.anchorpoint.app)
+ - date_published: 2025-01-21T23:20:46.985791+00:00
 
  ## Version control for artists - Anchorpoint
  - [https://www.anchorpoint.app](https://www.anchorpoint.app)
@@ -3928,97 +4020,4 @@ Creative Solutions
  ## Blurweb.app ~ A browser extension to blur any element or ...blurweb
  - [https://blurweb.app](https://blurweb.app)
  - date_published: 2024-11-14T20:34:49+00:00
-
- ## Boardgame Lab - Software to Prototype and Playtest Tabletop Games
- - [https://boardgamelab.app](https://boardgamelab.app)
- - date_published: 2024-08-19T07:02:48.108070+00:00
-
- ## Free WhatsApp Chat with Bollywood's biggest stars | BOLLYWOODAI
- - [https://www.bollywoodai.app](https://www.bollywoodai.app)
- - date_published: 2024-01-25T05:36:25+00:00
-
- ## Books by AI
- - [https://booksbyai.app](https://booksbyai.app)
- - date_published: 2023-11-16T14:14:55.138763+00:00
-
- ## Bopple - Order pick-up, delivery & dine-in.
- - [https://bopple.app](https://bopple.app)
- - date_published: 2024-06-18T06:31:55.025119+00:00
-
- ## Borogove Snippet
- - [https://embedded-snippet.borogove.app](https://embedded-snippet.borogove.app)
- - date_published: 2020-10-19T07:28:04+00:00
-
- ## Borogove
- - [https://snippets.borogove.app](https://snippets.borogove.app)
- - date_published: 2023-10-09T18:33:16+00:00
-
- ## Braavos - a StarkNet Wallet
- - [https://braavos.app](https://braavos.app)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Asisten AI - Brainy Buddy
- - [https://brainybuddy.app](https://brainybuddy.app)
- - date_published: 2024-04-27T16:47:03.988000+00:00
-
- ## BrandBird - Powerful image, mockup & screenshot editor for entrepreneurs
- - [https://brandbird.app](https://brandbird.app)
- - date_published: 2024-08-19T18:14:07.337813+00:00
-
- ## Brand Logo — Make your brand logo in 5 minutes.
- - [https://brandlogo.app](https://brandlogo.app)
- - date_published: 2024-12-26T16:12:02+00:00
-
- ## Blockchain Analytics: Crypto Tracker | Breadcrumbs Crypto
- - [https://www.breadcrumbs.app](https://www.breadcrumbs.app)
- - date_published: 2024-06-17T09:08:43.926079+00:00
-
- ## Three Lessons from Threema: Analysis of a Secure Messenger
- - [https://breakingthe3ma.app](https://breakingthe3ma.app)
- - date_published: 2023-10-25T11:45:41.239888+00:00
-
- ## Personal shield against stress and anxiety
- - [https://breathhh.app](https://breathhh.app)
- - date_published: 2024-06-19T21:12:36.788863+00:00
-
- ## Breathly | Free relaxation and breath training app
- - [https://breathly.app](https://breathly.app)
- - date_published: 2024-08-19T07:36:12.625592+00:00
-
- ## Brickit — Build new things from your good old bricks
- - [https://brickit.app](https://brickit.app)
- - date_published: 2023-10-25T11:45:42.715788+00:00
-
- ## Brickit for Classes
- - [https://classes.brickit.app](https://classes.brickit.app)
- - date_published: 2024-08-19T11:57:11.670225+00:00
-
- ## Brick Search for LEGO Sets -- LEGO instructions app, LEGO collection app
- - [https://bricksearch.app](https://bricksearch.app)
- - date_published: 2024-05-11T08:49:34.149822+00:00
-
- ## Bricksee: Helping Reorganise Your Bricks
- - [https://bricksee.app](https://bricksee.app)
- - date_published: 2024-10-30T22:02:02.661729+00:00
-
- ## briefsky
- - [https://briefsky.app](https://briefsky.app)
- - date_published: 2023-10-25T11:45:43.143483+00:00
-
- ## BRIET
- - [https://briet.app](https://briet.app)
- - date_published: 2025-01-18T06:39:56.486502+00:00
-
- ## Bright Bits - Making remote work a little brighter
- - [https://brightbits.app](https://brightbits.app)
- - date_published: 2024-10-15T18:37:40.828105+00:00
-
- ## Welcome to nginx!
- - [https://static.browsed.app](https://static.browsed.app)
- - date_published: 2023-04-11T01:45:34+00:00
-
- ## Bluesky Social
- - [https://bsky.app](https://bsky.app)
- - date_published: 2023-10-24T20:12:24.937402+00:00
- - tags: ['social platform', 'gateway']
 

@@ -1,3 +1,465 @@
+ ## Home | OFFF2025
+ - [https://www.offf.barcelona](https://www.offf.barcelona)
+ - date_published: 2025-01-02T08:38:31.316196+00:00
+
+ ## Web oficial Park Güell | Barcelona
+ - [https://parkguell.barcelona](https://parkguell.barcelona)
+ - date_published: 2024-06-15T11:07:11.967560+00:00
+
+ ## Pla de Barris de l'Ajuntament de Barcelona: Pla de xoc vers les desigualtat dins la ciutat
+ - [https://pladebarris.barcelona](https://pladebarris.barcelona)
+ - date_published: 2024-07-07T01:34:03.568629+00:00
+
+ ## Inici
+ - [https://sportshub.barcelona](https://sportshub.barcelona)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Barclays Consumer Spending Index | Barclays
+ - [https://home.barclaycard](https://home.barclaycard)
+ - date_published: 2024-09-27T16:00:05+00:00
+
+ ## Investment Bank | Barclays
+ - [https://cib.barclays](https://cib.barclays)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Barclays Games and Creative
+ - [https://games.barclays](https://games.barclays)
+ - date_published: 2025-01-15T13:08:26.735768+00:00
+
+ ## Barclays Group corporate website | Barclays
+ - [https://home.barclays](https://home.barclays)
+ - date_published: 2024-09-30T10:39:10+00:00
+
+ ## Investment Bank | Barclays
+ - [https://ib.barclays](https://ib.barclays)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Barclays Indices
+ - [https://indices.barclays](https://indices.barclays)
+ - date_published: 2024-09-28T21:17:21.960116+00:00
+
+ ## Barclays Investment Managers
+ - [https://investmentmanagers.barclays](https://investmentmanagers.barclays)
+ - date_published: 2024-09-10T11:06:24+00:00
+
+ ## Barclays Careers
+ - [https://search.jobs.barclays](https://search.jobs.barclays)
+ - date_published: 2024-12-14T00:53:12.653712+00:00
+
+ ## Rise, created by Barclays
+ - [https://rise.barclays](https://rise.barclays)
+ - date_published: 2024-07-11T15:58:06+00:00
+
+ ## Eagle Labs Academy
+ - [https://academy.uk.barclays](https://academy.uk.barclays)
+ - date_published: 2025-01-15T13:08:11.860511+00:00
+
+ ## Cookies | Barclays
+ - [https://cookies.uk.barclays](https://cookies.uk.barclays)
+ - date_published: 2024-08-13T08:16:00+00:00
+
+ ## Barclays Digital Wings | Digital learning - your way
+ - [https://digital.wings.uk.barclays](https://digital.wings.uk.barclays)
+ - date_published: 2024-06-16T09:39:37.441310+00:00
+
+ ## Connect, innovate, grow
+ - [https://labs.uk.barclays](https://labs.uk.barclays)
+ - date_published: 2024-09-30T12:07:39.180817+00:00
+
+ ## System monitor and service status | Barclays
+ - [https://status.uk.barclays](https://status.uk.barclays)
+ - date_published: 2024-06-16T09:39:46.369257+00:00
+
+ ## The official home of Basketball Australia
+ - [https://www.australia.basketball](https://www.australia.basketball)
+ - date_published: 2024-12-20T19:42:51.698134+00:00
+
+ ## Basketball Champions League 2024-25 Official Website | FIBA Basketball
+ - [https://www.championsleague.basketball](https://www.championsleague.basketball)
+ - date_published: 2025-01-15T13:09:00.356508+00:00
+
+ ## The Institutional home of FIBA - International Basketball Federation | About FIBA
+ - [https://about.fiba.basketball](https://about.fiba.basketball)
+ - date_published: 2025-01-15T13:08:39.265704+00:00
+
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [http://assets.fiba.basketball](http://assets.fiba.basketball)
+ - date_published: 2025-01-15T13:08:55.175473+00:00
+
+ ## FIBA.basketball
+ - [https://fiba.basketball](https://fiba.basketball)
+ - date_published: 2024-07-12T15:04:04+00:00
+
+ ## Home | Basketball Queensland
+ - [https://www.queensland.basketball](https://www.queensland.basketball)
+ - date_published: 2024-12-20T14:07:18+00:00
+
+ ## Unrivaled | Official Site of the Unrivaled Basketball League
+ - [https://www.unrivaled.basketball](https://www.unrivaled.basketball)
+ - date_published: 2025-01-21T12:08:51.307428+00:00
+
+ ## Mit der Bolt durch Bayern
+ - [https://mit.der.bolt.durch.bayern](https://mit.der.bolt.durch.bayern)
+ - date_published: 2024-07-22T01:00:09+00:00
+
+ ## Login - BayernCollab
+ - [https://collab.dvb.bayern](https://collab.dvb.bayern)
+ - date_published: 2024-07-24T04:20:05.970934+00:00
+
+ ## Gründerland Bayern
+ - [https://gruenderland.bayern](https://gruenderland.bayern)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## mastodon.bayern – Mia san Mastodon.
+ - [https://mastodon.bayern](https://mastodon.bayern)
+ - date_published: 2024-07-18T05:35:50.372366+00:00
+
+ ## MINT Lehramt PLUS - Elite-Programm
+ - [https://mint-lehramt-plus.bayern](https://mint-lehramt-plus.bayern)
+ - date_published: 2024-07-24T03:32:31.066292+00:00
+
+ ## ROCK ANTENNE Bayern - Der beste Rock nonstop!
+ - [https://rockantenne.bayern](https://rockantenne.bayern)
+ - date_published: 2024-07-20T15:07:25.862453+00:00
+
+ ## Hilti Barbados
+ - [https://www.hilti.com.bb](https://www.hilti.com.bb)
+ - date_published: 2025-01-17T20:10:53.066858+00:00
+
+ ## BBC Mastodon
+ - [https://social.bbc](https://social.bbc)
+ - date_published: 2023-10-24T20:13:17.429474+00:00
+ - tags: ['mastodon']
+
+ ## Home | Ayesha Abed Library
+ - [https://library.bracu.ac.bd](https://library.bracu.ac.bd)
+ - date_published: 2025-01-15T13:11:30.599616+00:00
+
+ ## Brac University
+ - [https://www.bracu.ac.bd](https://www.bracu.ac.bd)
+ - date_published: 2024-07-22T07:48:34+00:00
+
+ ## Islamic University
+ - [https://iu.ac.bd](https://iu.ac.bd)
+ - date_published: 2024-10-30T20:15:17.473759+00:00
+
+ ## Audi Bangladesh
+ - [https://audi.com.bd](https://audi.com.bd)
+ - date_published: 2024-07-19T21:35:14+00:00
+
+ ## বাণী চিরন্তণী || bani.com.bd
+ - [http://bani.com.bd](http://bani.com.bd)
+ - date_published: 2024-10-18T06:06:55.333270+00:00
+
+ ## Hire Freelancers & Find Freelance Jobs Online
+ - [https://freelancer.com.bd](https://freelancer.com.bd)
+ - date_published: 2024-06-16T12:01:05.777075+00:00
+
+ ## Google
+ - [https://google.com.bd](https://google.com.bd)
+ - date_published: 2024-06-21T22:24:36.773082+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.bd](https://images.google.com.bd)
+ - date_published: 2024-07-20T07:39:52.186071+00:00
+
+ ## About HSBC | HSBC Bangladesh
+ - [http://www.about.hsbc.com.bd](http://www.about.hsbc.com.bd)
+ - date_published: 2025-01-15T13:14:37.324591+00:00
+
+ ## HSBC Bangladesh
+ - [https://www.business.hsbc.com.bd](https://www.business.hsbc.com.bd)
+ - date_published: 2025-01-15T13:14:41.968610+00:00
+
+ ## Corporate, Retail | HSBC Bank Bangladesh
+ - [https://www.hsbc.com.bd](https://www.hsbc.com.bd)
+ - date_published: 2019-08-01T03:30:12+00:00
+
+ ## Sponsor A Child - JAAGO Foundation
+ - [https://jaago.com.bd](https://jaago.com.bd)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Jeep® Bangladesh SUV & Crossover Cars | Sports Utility Vehicle | Official Jeep®  Site
+ - [https://www.jeep.com.bd](https://www.jeep.com.bd)
+ - date_published: 2024-06-19T08:41:43.936631+00:00
+
+ ## Konecranes
+ - [https://konecranes.com.bd](https://konecranes.com.bd)
+ - date_published: 2024-06-20T23:01:52.686425+00:00
+
+ ## Life Insurance, Health, group savings | MetLife Insurance Bangladesh
+ - [https://metlife.com.bd](https://metlife.com.bd)
+ - date_published: 2024-07-19T16:40:04+00:00
+
+ ## Home | Nestlé Bangladesh
+ - [https://www.nestle.com.bd](https://www.nestle.com.bd)
+ - date_published: 2024-09-14T23:54:03+00:00
+
+ ## প্যাভিলিয়ন
+ - [https://pavilion.com.bd](https://pavilion.com.bd)
+ - date_published: 2024-10-18T06:08:02.576889+00:00
+
+ ## Bangladesh Public Holidays - PublicHolidays.com.bd
+ - [https://publicholidays.com.bd](https://publicholidays.com.bd)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## We are the world's leading testing, inspection and certification company.
+ - [http://sgsgroup.com.bd](http://sgsgroup.com.bd)
+ - date_published: 2024-09-10T12:55:43.079524+00:00
+
+ ## Home - VBD | Volunteer for Bangladesh
+ - [https://vbd.com.bd](https://vbd.com.bd)
+ - date_published: 2017-02-23T08:47:42+00:00
+
+ ## Women's Corner
+ - [https://womenscorner.com.bd](https://womenscorner.com.bd)
+ - date_published: 2024-10-18T06:08:34.532971+00:00
+
+ ## অভিযোগ প্রতিকার ব্যবস্থা
+ - [https://www.grs.gov.bd](https://www.grs.gov.bd)
+ - date_published: 2024-12-15T12:23:19.935430+00:00
+
+ ## AT Computer
+ - [https://atcomputer.net.bd](https://atcomputer.net.bd)
+ - date_published: 2024-05-09T04:09:02.651392+00:00
+
+ ## Bangladesh Research and Education Network (BdREN)
+ - [https://bdren.net.bd](https://bdren.net.bd)
+ - date_published: 2024-07-09T09:05:37.756495+00:00
+
+ ## BeLISAC
+ - [https://belisac.bdren.net.bd](https://belisac.bdren.net.bd)
+ - date_published: 2025-01-15T13:19:00.497376+00:00
+
+ ## Asi@Connect DLE Project- fDLuDCf by BdREN and NORDUnet - fDLuDCf
+ - [http://dle.asiaconnect.bdren.net.bd](http://dle.asiaconnect.bdren.net.bd)
+ - date_published: 2025-01-15T13:18:41.629975+00:00
+
+ ## Bangladesh Bank
+ - [https://www.bb.org.bd](https://www.bb.org.bd)
+ - date_published: 2025-01-15T21:41:56.443747+00:00
+
+ ## SARSO - South Asian Regional Standards Organization
+ - [http://www.sarso.org.bd](http://www.sarso.org.bd)
+ - date_published: 2024-12-10T20:39:22+00:00
+
+ ## Welcome to the Royal Military Academy  | rma.ac.be
+ - [http://www.rma.ac.be](http://www.rma.ac.be)
+ - date_published: 2025-01-15T13:25:03.734134+00:00
+
+ ## Ingénierie informatique
+ - [https://info.ucl.ac.be](https://info.ucl.ac.be)
+ - date_published: 2024-07-02T06:03:05.341220+00:00
+
+ ## INL: IP Networking Lab | UCL, Louvain-la-Neuve, Belgium
+ - [https://inl.info.ucl.ac.be](https://inl.info.ucl.ac.be)
+ - date_published: 2021-12-03T09:35:52+00:00
+
+ ## Apache2 Debian Default Page: It works on sympa-2.sipr.ucl.ac.be
+ - [https://sympa-2.sipr.ucl.ac.be](https://sympa-2.sipr.ucl.ac.be)
+ - date_published: 2023-07-07T09:54:50+00:00
+ - date_dead_since: 2025-01-15T13:19:50.984046+00:00
+
+ ## DI-fusion Recherche simple
+ - [https://difusion.ulb.ac.be](https://difusion.ulb.ac.be)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Site web en construction - Web site under construction
+ - [https://homepages.ulb.ac.be](https://homepages.ulb.ac.be)
+ - date_published: 2022-02-28T11:26:48+00:00
+
+ ## Bienvenue à l'ULB
+ - [https://ulb.ac.be](https://ulb.ac.be)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Applied and Computational Electromagnetics (ACE)
+ - [http://ace.montefiore.ulg.ac.be](http://ace.montefiore.ulg.ac.be)
+ - date_published: 2024-07-05T14:29:19+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo-prod01.segi.ulg.ac.be](https://matomo-prod01.segi.ulg.ac.be)
+ - date_published: 2024-07-18T22:05:31.945088+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo-prod02.segi.ulg.ac.be](https://matomo-prod02.segi.ulg.ac.be)
+ - date_published: 2025-01-15T15:11:38.742927+00:00
+
+ ## Home
+ - [https://speculoos.ulg.ac.be](https://speculoos.ulg.ac.be)
+ - date_published: 2024-08-18T20:24:59.720218+00:00
+
+ ## Welcome on the BBEMG website - BBEMG - Belgian BioElectroMagnetics Group
+ - [http://www.bbemg.ulg.ac.be](http://www.bbemg.ulg.ac.be)
+ - date_published: 2025-01-15T13:23:35.083720+00:00
+
+ ## ULiège
+ - [http://www.ulg.ac.be](http://www.ulg.ac.be)
+ - date_published: 2024-12-03T21:11:59.219175+00:00
+
+ ## Artificial Intelligence Lab Brussels - VUB
+ - [https://ai.vub.ac.be](https://ai.vub.ac.be)
+ - date_published: 2025-01-15T13:26:06.664905+00:00
+
+ ## Vak- en onderzoeksgroepen
+ - [https://dinf.vub.ac.be](https://dinf.vub.ac.be)
+ - date_published: 2024-07-07T05:40:21.920016+00:00
+
+ ## ECOOP'98 Web Site
+ - [http://ecoop98.vub.ac.be](http://ecoop98.vub.ac.be)
+ - date_published: 2024-05-08T09:32:56.029084+00:00
+
+ ## Evolutionary & Hybrid AI
+ - [https://ehai.ai.vub.ac.be](https://ehai.ai.vub.ac.be)
+ - date_published: 2024-12-21T18:10:48.434442+00:00
+
+ ## Welcome to Principia Cybernetica Web
+ - [http://pespmc1.vub.ac.be](http://pespmc1.vub.ac.be)
+ - date_published: 2014-05-02T16:28:37+00:00
+
+ ## Press - Vrije Universiteit Brussel - Pressroom
+ - [https://press.vub.ac.be](https://press.vub.ac.be)
+ - date_published: 2024-08-11T05:53:13.441111+00:00
+
+ ## Home | Software Languages Lab
+ - [https://soft.vub.ac.be](https://soft.vub.ac.be)
+ - date_published: 2024-04-28T01:54:46.084192+00:00
+
+ ## WISE | Web & Information Systems Engineering Lab | VUB
+ - [https://wise.vub.ac.be](https://wise.vub.ac.be)
+ - date_published: 2025-01-15T13:26:47.414657+00:00
+
+ ## Vrije Universiteit Brussel
+ - [https://www.vub.ac.be](https://www.vub.ac.be)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## 0110.be
+ - [https://0110.be](https://0110.be)
+ - date_published: 2023-10-25T11:58:43.959963+00:00
+
+ ## Coin web de Frédéric Péters
+ - [https://0d.be](https://0d.be)
+ - date_published: 2024-07-14T03:21:27.918927+00:00
+
+ ## Hackerspace.Gent
+ - [http://0x20.be](http://0x20.be)
+ - date_published: 2024-09-14T08:50:06.103283+00:00
+
+ ## Home | 11.11.11
+ - [https://11.be](https://11.be)
+ - date_published: 2024-09-11T01:31:34.760314+00:00
+
+ ## Webshop 11-11-11
+ - [https://shop.11.be](https://shop.11.be)
+ - date_published: 2025-01-15T13:29:34.427862+00:00
+
+ ## Gentse 12urenloop
+ - [https://12urenloop.be](https://12urenloop.be)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Live Site
+ - [https://live.12urenloop.be](https://live.12urenloop.be)
+ - date_published: 2025-01-15T13:30:13.172258+00:00
+
+ ## Arrêt définitif du site 1307.be | Proximus
+ - [http://1307.be](http://1307.be)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## 1712
+ - [https://1712.be](https://1712.be)
+ - date_published: 2024-08-20T08:10:33+00:00
+
+ ## 1890.be - S\'informer pour entreprendre en Wallonie - 1890.be
+ - [https://www.1890.be](https://www.1890.be)
+ - date_published: 2025-01-15T16:25:38.937181+00:00
+
+ ## 30CC
+ - [https://30cc.be](https://30cc.be)
+ - date_published: 2024-09-16T03:59:19.121268+00:00
+
+ ## 3M Science. Applied to Life. | 3M België
+ - [https://3mbelgie.be](https://3mbelgie.be)
+ - date_published: 2024-08-06T10:41:40.167616+00:00
+
+ ## Command™ Brand! : 3M België
+ - [https://command.3mbelgie.be](https://command.3mbelgie.be)
+ - date_published: 2025-01-15T13:33:15.674829+00:00
+
+ ## FUTURO™ Merk : 3M België
+ - [https://futuro.3mbelgie.be](https://futuro.3mbelgie.be)
+ - date_published: 2025-01-15T13:33:05.868503+00:00
+
+ ## Littmann® Stethoscopen | 3M Littmann | 3M België
+ - [https://littmann.3mbelgie.be](https://littmann.3mbelgie.be)
+ - date_published: 2025-01-15T13:33:27.859782+00:00
+
+ ## Post-it® Brand - Producten, ideeën en aanbiedingen
+ - [https://post-it.3mbelgie.be](https://post-it.3mbelgie.be)
+ - date_published: 2025-01-02T10:10:55.656766+00:00
+
+ ## Scotch® tape, lijm, scharen en verpakkingsmaterialen
+ - [https://scotchbrand.3mbelgie.be](https://scotchbrand.3mbelgie.be)
+ - date_published: 2025-01-15T13:33:34.575527+00:00
+
+ ## 3M Science. Applied to Life. | 3M België
+ - [http://solutions.3mbelgie.be](http://solutions.3mbelgie.be)
+ - date_published: 2025-01-15T13:33:30.277659+00:00
+
+ ## Nexcare™ EHBO-producten | 3M België
+ - [https://www.nexcare.3mbelgie.be](https://www.nexcare.3mbelgie.be)
+ - date_published: 2025-01-15T13:33:23.715966+00:00
+
+ ## 3M Science. Applied to Life™ | 3M Belgique
+ - [https://3mbelgique.be](https://3mbelgique.be)
+ - date_published: 2024-08-06T10:39:58.226599+00:00
+
+ ## Marque Command™ : 3M Belgique
+ - [https://command.3mbelgique.be](https://command.3mbelgique.be)
+ - date_published: 2025-01-15T13:34:40.313863+00:00
+
+ ## Marque FUTURO™ : 3M Belgique
+ - [https://futuro.3mbelgique.be](https://futuro.3mbelgique.be)
+ - date_published: 2025-01-15T13:34:38.262525+00:00
+
+ ## Marque Post-it® - Produits, idées, offres
+ - [https://post-it.3mbelgique.be](https://post-it.3mbelgique.be)
+ - date_published: 2025-01-02T10:13:53.946320+00:00
+
+ ## Scotch® Brand Tape, Glue, Laminators, Scissors and Packing Supplies
+ - [https://scotchbrand.3mbelgique.be](https://scotchbrand.3mbelgique.be)
+ - date_published: 2025-01-15T13:34:24.874316+00:00
+
+ ## 3M Science. Applied to Life™ | 3M Belgique
+ - [http://solutions.3mbelgique.be](http://solutions.3mbelgique.be)
+ - date_published: 2025-01-15T13:33:55.700823+00:00
+
+ ## Stéthoscopes Littmann® | 3M Littmann | 3M Belgique
+ - [https://www.littmann.3mbelgique.be](https://www.littmann.3mbelgique.be)
+ - date_published: 2025-01-15T13:34:12.251712+00:00
+
+ ## Produits de premiers secours Nexcare™ | 3M Belgique
+ - [https://www.nexcare.3mbelgique.be](https://www.nexcare.3mbelgique.be)
+ - date_published: 2025-01-15T13:34:48.036515+00:00
+
+ ## 3Motion | the power of visual thinking
+ - [https://3motion.be](https://3motion.be)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 4DCu.be - programming, gaming, technology, ...
+ - [https://blog.4dcu.be](https://blog.4dcu.be)
+ - date_published: 2024-04-04T19:39:18+00:00
+
+ ## Value-added distributor 802 Networks: wireless & IP camera configuration, installation, and support
+ - [https://802.be](https://802.be)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Official Abarth | Select language | FCA
+ - [https://www.abarthbelgium.be](https://www.abarthbelgium.be)
+ - date_published: 2024-06-19T09:00:25.851324+00:00
+
+ ## ABB Benelux - Toonaangevende digitale technologieën voor de industrie
+ - [http://www.abb.be](http://www.abb.be)
+ - date_published: 2025-01-15T13:24:05.379158+00:00
+
  ## Home
  - [https://abc-groep.be](https://abc-groep.be)
  - date_published: 2024-07-17T13:58:40.676822+00:00
@@ -1110,6 +1572,10 @@
  ## Chiroux
  - [https://chiroux.be](https://chiroux.be)
  - date_published: 2024-07-02T23:04:41.385429+00:00
+
+ ## Welkom - Chris de Stoop
+ - [http://www.chrisdestoop.be](http://www.chrisdestoop.be)
+ - date_published: 2025-01-21T16:26:18.231984+00:00
 
  ## Christophe Clarijs
  - [https://christopheclarijs.be](https://christopheclarijs.be)
@@ -2435,6 +2901,10 @@
  - [https://incc.fgov.be](https://incc.fgov.be)
  - date_published: 2025-01-08T16:57:38.577938+00:00
 
+ ## NICC
+ - [http://nicc.fgov.be](http://nicc.fgov.be)
+ - date_published: 2025-01-22T00:54:32.560144+00:00
+
  ## Accueil
  - [https://fgtb.be](https://fgtb.be)
  - date_published: 2025-01-15T14:16:18.903660+00:00
@@ -3114,6 +3584,10 @@
  - [https://immovlan.be](https://immovlan.be)
  - date_published: 2024-08-19T11:14:09.042612+00:00
 
+ ## Enorme keuze in muziek en films
+ - [https://imusic.be](https://imusic.be)
+ - date_published: 2025-01-21T09:14:21.699157+00:00
+
  ## in BW
  - [https://www.inbw.be](https://www.inbw.be)
  - date_published: 2024-10-15T15:53:59.304300+00:00
@@ -3253,6 +3727,10 @@
  ## jeepeeonline
  - [http://www.jeepeeonline.be](http://www.jeepeeonline.be)
  - date_published: 2024-07-07T20:39:01+00:00
+
+ ## Jelle Vermeersch
+ - [http://www.jellevermeersch.be](http://www.jellevermeersch.be)
+ - date_published: 2025-01-21T16:27:07.057200+00:00
 
  ## Jellow - Het meest sympathieke freelancenetwerk
  - [https://www.jellow.be](https://www.jellow.be)
@@ -3550,483 +4028,4 @@
  ## Kruidvat-BEvl - Kruidvat folder 44 - 28 oktober 2024 t/m 3 november 2024 - MOBILE FIRST - Pagina 1
  - [https://folder.kruidvat.be](https://folder.kruidvat.be)
  - date_published: 2024-10-29T12:02:30.390847+00:00
-
- ## Bestel gemakkelijk op Kruidvat.be | Kruidvat BE
- - [https://www.kruidvat.be](https://www.kruidvat.be)
- - date_published: 2024-10-29T12:01:41.368547+00:00
-
- ## Algemene en ondersteunende diensten
- - [https://admin.kuleuven.be](https://admin.kuleuven.be)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Blijf verbonden met je alumninetwerk
- - [https://alum.kuleuven.be](https://alum.kuleuven.be)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## KU Leuven Bibliotheken
- - [https://bib.kuleuven.be](https://bib.kuleuven.be)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## COSIC - COmputer Security and Industrial Cryptography
- - [https://cosic.esat.kuleuven.be](https://cosic.esat.kuleuven.be)
- - date_published: 2013-08-06T13:17:03+00:00
-
- ## Shibboleth Authentication Request
- - [http://cwisdb.kuleuven.be](http://cwisdb.kuleuven.be)
- - date_published: 2024-08-19T11:15:15.226333+00:00
-
- ## DistriNet Research Unit
- - [https://distrinet.cs.kuleuven.be](https://distrinet.cs.kuleuven.be)
- - date_published: 2024-05-08T09:36:51.381946+00:00
-
- ## Central login - Loading Session Information
- - [https://drives.kuleuven.be](https://drives.kuleuven.be)
- - date_published: 2024-08-19T11:15:16.030691+00:00
-
- ## The DTAI website
- - [http://dtai.cs.kuleuven.be](http://dtai.cs.kuleuven.be)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Biomedical Sciences Group
- - [https://gbiomed.kuleuven.be](https://gbiomed.kuleuven.be)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Computer Graphics Research Group - KU Leuven
- - [http://graphics.cs.kuleuven.be](http://graphics.cs.kuleuven.be)
- - date_published: 2022-10-07T17:46:45+00:00
-
- ## Home pages of ESAT
- - [https://homes.esat.kuleuven.be](https://homes.esat.kuleuven.be)
- - date_published: 2004-11-23T15:16:28+00:00
-
- ## ICTS
- - [https://icts.kuleuven.be](https://icts.kuleuven.be)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## KU Leuven
- - [https://kuleuven.be](https://kuleuven.be)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Faculteit Rechtsgeleerdheid en Criminologische Wetenschappen
- - [https://law.kuleuven.be](https://law.kuleuven.be)
- - date_published: 2023-10-25T11:58:59.394268+00:00
-
- ## KU Leuven Research &amp; Development - Technology Transfer Office
- - [https://lrd.kuleuven.be](https://lrd.kuleuven.be)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Middleware 2008
- - [http://middleware2008.cs.kuleuven.be](http://middleware2008.cs.kuleuven.be)
- - date_published: 2024-06-22T09:32:32.762527+00:00
-
- ## Onderwijsaanbod - KU Leuven
- - [http://onderwijsaanbod.kuleuven.be](http://onderwijsaanbod.kuleuven.be)
- - date_published: 2024-08-19T11:15:13.465742+00:00
-
- ## Central login - Loading Session Information
- - [https://owa.groupware.kuleuven.be](https://owa.groupware.kuleuven.be)
- - date_published: 2024-08-19T11:15:17.250319+00:00
-
- ## Departement Computerwetenschappen
- - [https://people.cs.kuleuven.be](https://people.cs.kuleuven.be)
- - date_published: 2015-06-04T13:10:16+00:00
-
- ## KU Leuven Research
- - [https://research.kuleuven.be](https://research.kuleuven.be)
- - date_published: 2024-10-20T03:57:58.024643+00:00
-
- ## Redirect
- - [https://stijl.kuleuven.be](https://stijl.kuleuven.be)
- - date_published: 2007-05-18T13:44:06+00:00
-
- ## The power of wonder
- - [https://stories.kuleuven.be](https://stories.kuleuven.be)
- - date_published: 2024-07-07T06:21:56.483471+00:00
-
- ## Toledo
- - [https://toledo.kuleuven.be](https://toledo.kuleuven.be)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Central login - Loading Session Information
- - [https://webdoc.groupware.kuleuven.be](https://webdoc.groupware.kuleuven.be)
- - date_published: 2024-08-19T11:15:07.372182+00:00
-
- ## Department of Mathematics
- - [http://wis.kuleuven.be](http://wis.kuleuven.be)
- - date_published: 2024-06-30T09:15:02.672256+00:00
-
- ## Departement Computerwetenschappen
- - [https://wms.cs.kuleuven.be](https://wms.cs.kuleuven.be)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Departement Computerwetenschappen
- - [http://www.cs.kuleuven.be](http://www.cs.kuleuven.be)
- - date_published: 2015-06-04T13:10:16+00:00
-
- ## Home
- - [https://www.esat.kuleuven.be](https://www.esat.kuleuven.be)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Central login - Loading Session Information
- - [https://www.groupware.kuleuven.be](https://www.groupware.kuleuven.be)
- - date_published: 2024-08-19T11:15:08.408469+00:00
-
- ## Zakelijke ondersteuning voor de cultuursector. | Cultuurloket
- - [https://www.kunstenloket.be](https://www.kunstenloket.be)
- - date_published: 2024-07-12T09:16:38+00:00
-
- ## Unlock Your Potential | Accenture
- - [http://www.kunstmaan.be](http://www.kunstmaan.be)
- - date_published: 2024-08-07T21:12:53+00:00
-
- ## Home
- - [https://kunststofplaten.be](https://kunststofplaten.be)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Kunstwerkt
- - [http://www.kunstwerkt.be](http://www.kunstwerkt.be)
- - date_published: 2024-07-10T16:25:47+00:00
-
- ## Ontworpen met de volgende generatie in het achterhoofd | Kvik
- - [https://www.kvik.be](https://www.kvik.be)
- - date_published: 2024-09-19T20:35:25.912667+00:00
-
- ## Welkom bij KVV-Webdesign - Uw Website Specialist
- - [https://kvv-webdesign.be](https://kvv-webdesign.be)
- - date_published: 2024-08-07T21:32:29.456153+00:00
-
- ## KW.be
- - [https://kw.be](https://kw.be)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## My Ketchup Is Dead
- - [https://deadketchup.kyuran.be](https://deadketchup.kyuran.be)
- - date_published: 2024-07-02T23:57:24.032276+00:00
-
- ## l1x/dev
- - [https://dev.l1x.be](https://dev.l1x.be)
- - date_published: 2023-10-25T11:59:00.085955+00:00
-
- ## Météo Belgique : La meilleure info météo GRATUITE à 15 jours - La Chaîne Météo
- - [https://www.lachainemeteo.be](https://www.lachainemeteo.be)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## La Cousine. Graphic & Creative Partner - La Cousine
- - [https://lacousine.be](https://lacousine.be)
- - date_published: 2024-10-28T01:25:08+00:00
-
- ## laGeste
- - [https://www.lageste.be](https://www.lageste.be)
- - date_published: 2025-01-15T14:28:06.889687+00:00
-
- ## Centre d'Action Laïque - Le portail de la laïcité en Belgique
- - [https://www.laicite.be](https://www.laicite.be)
- - date_published: 2025-01-08T14:50:11+00:00
-
- ## Nos formules d’abonnement et promotions - Offres d’abonnement papier et digital
- - [https://aboshop.lalibre.be](https://aboshop.lalibre.be)
- - date_published: 2024-08-05T14:01:00+00:00
-
- ## L’actualité africaine. Libre et indépendante.
- - [https://afrique.lalibre.be](https://afrique.lalibre.be)
- - date_published: 2024-10-15T15:44:04.334184+00:00
-
- ## La Bourse - La Libre
- - [https://bourse.lalibre.be](https://bourse.lalibre.be)
- - date_published: 1915-02-01T00:00:00+00:00
-
- ## Live score - Football - La Libre Belgique - La Libre
- - [https://infosports.lalibre.be](https://infosports.lalibre.be)
- - date_published: 2024-10-15T14:24:42+00:00
-
- ## La Libre Belgique
- - [https://kiosque.lalibre.be](https://kiosque.lalibre.be)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Meteo - La Libre
- - [https://meteo.lalibre.be](https://meteo.lalibre.be)
- - date_published: 2024-10-15T15:58:46.100757+00:00
-
- ## Moustique
- - [https://moustique.lalibre.be](https://moustique.lalibre.be)
- - date_published: 2024-10-15T15:35:24.197237+00:00
-
- ## Programme TV
- - [https://tele.lalibre.be](https://tele.lalibre.be)
- - date_published: 2024-10-15T15:58:33.295985+00:00
-
- ## Programme TV
- - [https://tv.moustique.lalibre.be](https://tv.moustique.lalibre.be)
- - date_published: 2024-10-15T15:35:16.706518+00:00
-
- ## La Libre.be - Suivez en direct toute l'actualité belge et internationale, économique et culturelle.
- - [https://www.lalibre.be](https://www.lalibre.be)
- - date_published: 2024-06-16T23:59:01+00:00
-
- ## Lancia: stijlvolle auto's, compacte auto's, stadsauto's en nog veel meer | Lancia België
- - [http://www.lancia.be](http://www.lancia.be)
- - date_published: 2024-06-19T08:20:59+00:00
-
- ## Land Rover Belgium
- - [https://www.landrover.be](https://www.landrover.be)
- - date_published: 2024-07-09T17:14:02.879332+00:00
-
- ## Home page
- - [https://www.lannoocampus.be](https://www.lannoocampus.be)
- - date_published: 2024-08-19T19:02:24+00:00
-
- ## Lanterna Magica - Winter Lights | From 22 November 2024
- - [https://lanternamagica.be](https://lanternamagica.be)
- - date_published: 2024-10-22T10:54:38.824354+00:00
-
- ## EMP | Music, Movie, TV & Gaming Merch | Alternative Clothing
- - [https://www.large.be](https://www.large.be)
- - date_published: 2024-07-24T06:34:43.069132+00:00
-
- ## Activités numériques en Wallonie et à Bruxelles | La Semaine Numérique
- - [http://www.lasemainenumerique.be](http://www.lasemainenumerique.be)
- - date_published: 2023-01-28T19:21:19+00:00
-
- ## LastMinuteSauna.be - Zoek privé & publieke sauna, beauty, massage en wellness overnachtingen op LastMinute Sauna
- - [http://www.lastminutesauna.be](http://www.lastminutesauna.be)
- - date_published: 2025-01-15T16:43:53.775368+00:00
-
- ## Laurence Bibot
- - [http://www.laurencebibot.be](http://www.laurencebibot.be)
- - date_published: 2024-06-16T23:59:55.373407+00:00
-
- ## LDLC Belgique - High-Tech Expérience
- - [http://www.ldlc.be](http://www.ldlc.be)
- - date_published: 2024-07-14T03:21:12.776196+00:00
-
- ## LD WebDesign - Création & Design de site web - logo - lettrage
- - [https://ld-webdesign.be](https://ld-webdesign.be)
- - date_published: 2024-05-12T05:44:18.145887+00:00
-
- ## Accueil - Le Bureau International Jeunesse
- - [https://lebij.be](https://lebij.be)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## CDJ – Conseil de déontologie journalistique
- - [https://www.lecdj.be](https://www.lecdj.be)
- - date_published: 2024-07-02T23:02:18.243295+00:00
-
- ## L'Echo
- - [https://www.lecho.be](https://www.lecho.be)
- - date_published: 2024-08-06T16:24:36.578198+00:00
-
- ## Le cordon de Pierre Chemin
- - [https://lecordon.be](https://lecordon.be)
- - date_published: 2024-07-02T23:06:29+00:00
-
- ## Agence web Bruxelles - Création site Internet WordPress sans stress
- - [https://lefarweb.be](https://lefarweb.be)
- - date_published: 2025-01-15T17:12:15.840206+00:00
-
- ## Citoyens
- - [http://www.leforem.be](http://www.leforem.be)
- - date_published: 2025-01-15T15:00:42.279174+00:00
-
- ## lefred blog: tribulations of a MySQL Evangelist
- - [https://lefred.be](https://lefred.be)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Caluwaerts Uytterhoeven Advocaten | Caluwaerts Uytterhoeven Advocaten
- - [http://legaloffice.be](http://legaloffice.be)
- - date_published: 2025-01-15T16:43:30.514386+00:00
-
- ## Le JDE - Le seul journal d'actualité pour les enfants de 9 à 13 ans
- - [https://lejde.be](https://lejde.be)
- - date_published: 2025-01-15T16:42:04.971194+00:00
-
- ## Le Jouet Musical
- - [http://www.lejouetmusical.be](http://www.lejouetmusical.be)
- - date_published: 2024-07-02T23:05:16+00:00
-
- ## le Pharmacien
- - [https://www.lepharmacien.be](https://www.lepharmacien.be)
- - date_published: 2025-01-15T15:48:28.606355+00:00
-
- ## Accueil - Le Pont des Arts - Artistes en milieux de soins
- - [https://lepontdesarts.be](https://lepontdesarts.be)
- - date_published: 2021-02-19T13:43:21+00:00
-
- ## Kapsalon Les Ciseaux te Melle - Hét adres om u heerlijk te laten verwennen!
- - [https://www.lesciseaux.be](https://www.lesciseaux.be)
- - date_published: 2024-10-22T10:54:03.297507+00:00
-
- ## Accueil
- - [https://lesmarolles.be](https://lesmarolles.be)
- - date_published: 2024-07-02T23:05:19.416184+00:00
-
- ## Agenda le plus complet de Belgique - Le Soir
- - [https://agenda.lesoir.be](https://agenda.lesoir.be)
- - date_published: 2024-08-19T11:14:23.761847+00:00
-
- ## Be-Crypto | Toute l'actualité du monde des crytomonnaies, des NFT, du web 3.0 et des blockchains - Be-Crypto
- - [https://be-crypto.lesoir.be](https://be-crypto.lesoir.be)
- - date_published: 2024-08-19T11:14:53.142396+00:00
-
- ## Belgium iPhone | toute l'actualité du monde Apple - Belgium iPhone
- - [https://belgium-iphone.lesoir.be](https://belgium-iphone.lesoir.be)
- - date_published: 2024-08-19T11:13:56.357708+00:00
-
- ## BonSoir – le club des abonnés
- - [https://bonsoir.lesoir.be](https://bonsoir.lesoir.be)
- - date_published: 2024-08-19T11:14:27.507483+00:00
-
- ## - Le Soir
- - [https://bourse.lesoir.be](https://bourse.lesoir.be)
- - date_published: 2023-06-29T00:00:00+00:00
-
- ## BonSoir – le club des abonnés
- - [https://clubdusoir.lesoir.be](https://clubdusoir.lesoir.be)
- - date_published: 2024-08-19T11:14:37.733937+00:00
-
- ## Accueil
- - [https://espace-abonnement.lesoir.be](https://espace-abonnement.lesoir.be)
- - date_published: 2024-08-19T11:14:51.741774+00:00
-
- ## Geeko | Toute l'info Tech, Web, Jeux-Vidéo & Streaming - Geeko
- - [https://geeko.lesoir.be](https://geeko.lesoir.be)
- - date_published: 2024-08-19T11:14:30.783902+00:00
-
- ## Le Soir : Édition numérique
- - [https://journal.lesoir.be](https://journal.lesoir.be)
- - date_published: 2024-08-19T11:14:12.195754+00:00
-
- ## Le Soir – L’actualité en direct en Belgique et ailleurs
- - [https://lesoir.be](https://lesoir.be)
- - date_published: 2023-10-25T11:59:20.059469+00:00
-
- ## Login
- - [https://login.lesoir.be](https://login.lesoir.be)
- - date_published: 2024-08-19T11:14:03.445335+00:00
-
- ## Login
- - [https://mon-compte.lesoir.be](https://mon-compte.lesoir.be)
- - date_published: 2024-08-19T11:14:11.469239+00:00
-
- ## La Une
- - [https://plus.lesoir.be](https://plus.lesoir.be)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Podcasts Le Soir
- - [https://podcasts.lesoir.be](https://podcasts.lesoir.be)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Soirmag
- - [https://soirmag.lesoir.be](https://soirmag.lesoir.be)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## So Soir
- - [https://sosoir.lesoir.be](https://sosoir.lesoir.be)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## Accueil - Les Voyages de La Libre
- - [http://www.lesvoyagesdelalibre.be](http://www.lesvoyagesdelalibre.be)
- - date_published: 2024-10-15T15:43:50.985231+00:00
-
- ## Homepage | Stad Leuven
- - [http://www.leuven.be](http://www.leuven.be)
- - date_published: 2025-01-15T13:32:44.398810+00:00
-
- ## Home | Leuven Jazz
- - [https://www.leuvenjazz.be](https://www.leuvenjazz.be)
- - date_published: 2025-01-15T13:32:45.920520+00:00
-
- ## Level27 - Relaxed online.
- - [https://level27.be](https://level27.be)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Informations TIC - Data News
- - [https://datanews.levif.be](https://datanews.levif.be)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Focus Vif - cinéma, musique, livres-BD, télé, scènes, arts et multimédia
- - [https://focus.levif.be](https://focus.levif.be)
- - date_published: 2024-10-11T00:00:00+00:00
-
- ## Trends-Tendances - l'actualité économique en temps réel
- - [https://trends.levif.be](https://trends.levif.be)
- - date_published: 2024-10-11T00:00:00+00:00
-
- ## Le Vif - Tous les jours, toute l'info.
- - [https://www.levif.be](https://www.levif.be)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Plateforme du Volontariat
- - [https://www.levolontariat.be](https://www.levolontariat.be)
- - date_published: 2024-07-02T18:14:40+00:00
-
- ## Liege Hackerspace | Learn • Make • Share
- - [https://lghs.be](https://lghs.be)
- - date_published: 2024-04-10T16:14:35+00:00
-
- ## Libelle Mama
- - [https://mama.libelle.be](https://mama.libelle.be)
- - date_published: 2025-01-15T17:14:18.459115+00:00
-
- ## Graag leven, graag zien
- - [https://www.libelle.be](https://www.libelle.be)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Elke dag lekkere recepten met Libelle-lekker! -
-                        Libelle Lekker
- - [https://www.libelle-lekker.be](https://www.libelle-lekker.be)
- - date_published: 2025-01-15T17:14:23.322953+00:00
-
- ## BARON69: Situs Judi Slot Online Terkemuka dengan Bet Kecil dari Provider Slot Terkenal di Dunia di Indonesia
- - [https://librairie-ptyx.be](https://librairie-ptyx.be)
- - date_published: 2025-01-17T20:37:36.588213+00:00
-
- ## License2publish
- - [http://www.license2publish.be](http://www.license2publish.be)
- - date_published: 2024-07-13T09:54:07.060067+00:00
-
- ## MB Presents | Creators & Promotors
- - [https://lichtfestivalknokkeheist.be](https://lichtfestivalknokkeheist.be)
- - date_published: 2024-07-15T07:09:36.292984+00:00
-
- ## Vind altijd wat je zoekt op Lidl.be
- - [https://www.lidl.be](https://www.lidl.be)
- - date_published: 2024-06-25T19:01:51.096031+00:00
-
- ## Liège
- - [https://www.liege.be](https://www.liege.be)
- - date_published: 2025-01-15T15:11:08.054756+00:00
-
- ## LiègeTogether - Métamorphoses positives de la métropole liégeoise
- - [https://liegetogether.be](https://liegetogether.be)
- - date_published: 2025-01-20T11:44:25.297999+00:00
-
- ## Liero - Official website
- - [https://liero.be](https://liero.be)
- - date_published: 2023-06-01T22:10:43+00:00
- - tags: ['open source', 'video game', 'retro game']
-
- ## Liero Extreme
- - [https://lieroextreme.liero.be](https://lieroextreme.liero.be)
- - date_published: 2017-01-05T02:21:33+00:00
- - tags: ['liero']
-
- ## Lifelog.be - Gijs Nelissen
- - [https://lifelog.be](https://lifelog.be)
- - date_published: 2024-05-11T10:19:08.325283+00:00
-
- ## Homepage | Lifewatch
- - [http://www.lifewatch.be](http://www.lifewatch.be)
- - date_published: 2024-09-25T18:16:44.157675+00:00
-
- ## Logiciel de caisse enregistreuse & commerce | Lightspeed
- - [https://fr.lightspeedhq.be](https://fr.lightspeedhq.be)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Het toonaangevend kassa- en betaalplatform - Lightspeed
- - [https://www.lightspeedhq.be](https://www.lightspeedhq.be)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Ligue des familles
- - [https://liguedesfamilles.be](https://liguedesfamilles.be)
- - date_published: 2024-07-02T23:06:10.388924+00:00
 
