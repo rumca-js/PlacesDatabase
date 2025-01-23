@@ -1564,6 +1564,10 @@
  - [https://kodiakcare.aero](https://kodiakcare.aero)
  - date_published: 2024-12-26T14:29:26.211932+00:00
 
+ ## Lavion Aero - West Michigan Flight Training, Aircraft Rental, and Maintenance
+ - [https://www.lavion.aero](https://www.lavion.aero)
+ - date_published: 2025-01-22T18:38:47.478825+00:00
+
  ## LOOP - Private jets and helicopters business aviation
  - [http://www.loop.aero](http://www.loop.aero)
  - date_published: 2024-07-09T22:19:05.579810+00:00
@@ -3608,6 +3612,14 @@
  - date_published: 2024-07-13T23:25:50.806101+00:00
 
  ## Axelera AI - Extreme Performance, Excellent Efficiency. Accelerating Inference at the Edge.
+ - [https://axelera.ai](https://axelera.ai)
+ - date_published: 2025-01-22T02:33:44.593799+00:00
+
+ ## Axelera AI Store
+ - [https://store.axelera.ai](https://store.axelera.ai)
+ - date_published: 2025-01-22T02:33:45.970016+00:00
+
+ ## Axelera AI - Extreme Performance, Excellent Efficiency. Accelerating Inference at the Edge.
  - [https://www.axelera.ai](https://www.axelera.ai)
  - date_published: 2025-01-08T17:55:11.188401+00:00
 
@@ -4007,16 +4019,4 @@
  ## Blogify.ai — AI Tools for Quick, Quality Content Creation
  - [https://www.blogify.ai](https://www.blogify.ai)
  - date_published: 2024-12-15T06:36:59.198793+00:00
-
- ## Bloombot
- - [https://bloombot.ai](https://bloombot.ai)
- - date_published: 2024-06-14T09:00:07.066712+00:00
-
- ## Bloombot
- - [https://chat.bloombot.ai](https://chat.bloombot.ai)
- - date_published: 2024-09-14T08:01:15.607685+00:00
-
- ## bloop | Find Code. Fast.
- - [https://bloop.ai](https://bloop.ai)
- - date_published: 2023-10-25T11:36:42.110600+00:00
 

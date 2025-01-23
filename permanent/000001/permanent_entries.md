@@ -1,3 +1,15 @@
+ ## Bloombot
+ - [https://bloombot.ai](https://bloombot.ai)
+ - date_published: 2024-06-14T09:00:07.066712+00:00
+
+ ## Bloombot
+ - [https://chat.bloombot.ai](https://chat.bloombot.ai)
+ - date_published: 2024-09-14T08:01:15.607685+00:00
+
+ ## bloop | Find Code. Fast.
+ - [https://bloop.ai](https://bloop.ai)
+ - date_published: 2023-10-25T11:36:42.110600+00:00
+
  ## Bluesight
  - [https://bluesight.ai](https://bluesight.ai)
  - date_published: 2024-09-11T19:20:21+00:00
@@ -1938,6 +1950,10 @@ Welcome
  - [https://proposals.deepfunding.ai](https://proposals.deepfunding.ai)
  - date_published: 2024-06-25T18:24:25+00:00
 
+ ## Deep Hearing
+ - [https://deep-hearing.ai](https://deep-hearing.ai)
+ - date_published: 2025-01-22T02:39:25.428706+00:00
+
  ## Deep-Image.ai Upscale images, remove background, generate avatars, interiors and doodles
  - [https://deep-image.ai](https://deep-image.ai)
  - date_published: 2024-06-07T09:29:24+00:00
@@ -2468,6 +2484,10 @@ Welcome
  - [https://edenx.ai](https://edenx.ai)
  - date_published: 2024-12-12T11:09:04+00:00
 
+ ## Home - Edfinity
+ - [https://edfinity.ai](https://edfinity.ai)
+ - date_published: 2025-01-22T02:48:36.198874+00:00
+
  ## Kubernetes-native IoT and Edge AI Solutions
  - [https://edgenesis.ai](https://edgenesis.ai)
  - date_published: 2024-10-25T06:28:56+00:00
@@ -2585,6 +2605,10 @@ Welcome
  ## Elf Help
  - [https://www.elfhelp.ai](https://www.elfhelp.ai)
  - date_published: 2024-06-19T19:49:50.461354+00:00
+
+ ## elizaOS - The Operating System for AI Agents
+ - [https://elizaos.ai](https://elizaos.ai)
+ - date_published: 2025-01-22T22:52:23.011145+00:00
 
  ## Ellie - Accelerating Your Data Projects
  - [https://ellie.ai](https://ellie.ai)
@@ -3992,28 +4016,4 @@ Welcome
  ## Gooey.AI - The best of private & open source AI
  - [https://help.gooey.ai](https://help.gooey.ai)
  - date_published: 2024-10-30T09:57:48.316226+00:00
-
- ## Making AI helpful for everyone - Google AI – Google AI
- - [https://google.ai](https://google.ai)
- - date_published: 2024-07-23T21:23:42.674470+00:00
-
- ## GPTGO - ChatGPT Free combined Search Engine
- - [https://googpt.ai](https://googpt.ai)
- - date_published: 2024-06-19T20:58:29.985541+00:00
-
- ## GooseAI - Stop overpaying for your AI infrastructure.
- - [https://goose.ai](https://goose.ai)
- - date_published: 2024-06-19T19:21:43.768301+00:00
-
- ## GoSecure - Homepage
- - [https://gosecure.ai](https://gosecure.ai)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Centre for the Governance of AI | Home
- - [https://governance.ai](https://governance.ai)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## GovPro AI: AI Proposal Generator for Winning Government Contracts
- - [https://govpro.ai](https://govpro.ai)
- - date_published: 2024-12-23T04:48:56+00:00
 
