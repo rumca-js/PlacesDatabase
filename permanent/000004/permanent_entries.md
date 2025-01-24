@@ -1,3 +1,133 @@
+ ## The #1 AI Tattoo Generator for creating professional tattoo designs
+ - [https://tattoopro.ai](https://tattoopro.ai)
+ - date_published: 2025-01-21T02:34:24.933251+00:00
+
+ ## Show HN: I Built an AI Tattoo Generator Using Flux
+ - [https://www.tattoopro.ai](https://www.tattoopro.ai)
+ - date_published: 2025-01-07T20:39:40+00:00
+
+ ## TAWNY
+ - [https://tawny.ai](https://tawny.ai)
+ - date_published: 2024-06-20T15:38:32.738108+00:00
+
+ ## teachology.ai - The Ultimate for AI Lesson Plans
+ - [https://www.teachology.ai](https://www.teachology.ai)
+ - date_published: 2024-05-10T18:04:45+00:00
+
+ ## The ChatGPT Chrome extension - TeamSmart AI
+ - [https://teamsmart.ai](https://teamsmart.ai)
+ - date_published: 2023-10-25T11:43:23.768563+00:00
+
+ ## TechBar - Technology News Blog and Tech Guides
+ - [https://techbar.ai](https://techbar.ai)
+ - date_published: 2024-11-08T00:22:37+00:00
+
+ ## Tech Monitor - Navigating the horizon of business technology​
+ - [https://techmonitor.ai](https://techmonitor.ai)
+ - date_published: 2023-10-25T11:43:36.366924+00:00
+
+ - [http://technomancers.ai](http://technomancers.ai)
+ - date_published: 2023-10-25T11:44:12.511907+00:00
+ - date_dead_since: 2025-01-06T13:59:12.822121+00:00
+
+ ## Home - Techstrong.ai
+ - [https://techstrong.ai](https://techstrong.ai)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Tecton Documentation | Tecton
+ - [https://docs.tecton.ai](https://docs.tecton.ai)
+ - date_published: 2024-08-18T11:19:32.904053+00:00
+
+ ## Machine Learning Resources | Tecton
+ - [https://resources.tecton.ai](https://resources.tecton.ai)
+ - date_published: 2024-08-18T11:19:37.673251+00:00
+ - date_dead_since: 2025-01-06T13:59:25.089088+00:00
+
+ ## Feature Platform for Machine Learning | Tecton
+ - [https://tecton.ai](https://tecton.ai)
+ - date_published: 2023-12-06T00:28:48.196331+00:00
+
+ ## Accelerated: Book Summary App
+ - [https://tedapp.ai](https://tedapp.ai)
+ - date_published: 2024-12-23T19:11:57+00:00
+
+ ## Tegon documentation - Docs
+ - [https://docs.tegon.ai](https://docs.tegon.ai)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Tegon - The AI-first project management tool
+ - [https://tegon.ai](https://tegon.ai)
+ - date_published: 2024-04-30T00:00:00+00:00
+ - tags: ['open source', 'project management']
+
+ ## Telechat - Telegram Chatbot
+ - [https://telechat.ai](https://telechat.ai)
+ - date_published: 2024-10-30T06:48:41.896483+00:00
+
+ ## Telegram Bots AI — Supercharge Telegram with AI Bots ✨
+ - [https://telegrambots.ai](https://telegrambots.ai)
+ - date_published: 2024-05-08T04:51:42.482776+00:00
+
+ ## Autonomous AI agent that runs expert B2B blog to generate leads
+ - [http://app.tely.ai](http://app.tely.ai)
+ - date_published: 2024-09-14T07:46:53.943464+00:00
+
+ ## Sign up
+ - [https://partners.tely.ai](https://partners.tely.ai)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Home Sign up
+ - [https://tely.ai](https://tely.ai)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Tended.ai 📄 Your fractional RFP assistant
+ - [https://app.tended.ai](https://app.tended.ai)
+ - date_published: 2024-10-30T17:57:05.103331+00:00
+
+ ## Tended.ai - RFP automation platform powered by AI
+ - [https://tended.ai](https://tended.ai)
+ - date_published: 2024-06-19T20:41:07.323768+00:00
+
+ ## Tendi | Your Personal AI Financial Advisor
+ - [https://tendi.ai](https://tendi.ai)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## TensorOps | Your AI Partners
+ - [https://tensorops.ai](https://tensorops.ai)
+ - date_published: 2024-09-04T19:13:26.258247+00:00
+
+ ## Tesseract Analytics & AI – For Data-Driven Decisions
+ - [https://tesseractanalytics.ai](https://tesseractanalytics.ai)
+ - date_published: 2023-10-25T11:44:18.736977+00:00
+
+ ## TestDriver.ai - AI QA Agent
+ - [https://testdriver.ai](https://testdriver.ai)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Teton - Advanced Patient Monitoring
+ - [https://teton.ai](https://teton.ai)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## TEXT2SQL.AI - Generate SQL queries with AI - Try for free
+ - [https://text2sql.ai](https://text2sql.ai)
+ - date_published: 2024-10-17T17:37:07+00:00
+
+ ## Texta.ai Write marketing copy in Seconds
+ - [https://app.texta.ai](https://app.texta.ai)
+ - date_published: 2024-10-21T20:41:05+00:00
+
+ ## Texta - AI blog writer and article ideas generator.
+ - [https://texta.ai](https://texta.ai)
+ - date_published: 2024-06-19T18:48:21.441178+00:00
+
+ ## TextBrew: automated product description generator
+ - [https://textbrew.ai](https://textbrew.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Textero AI Essay Writer
+ - [https://textero.ai](https://textero.ai)
+ - date_published: 2024-06-08T00:00:00+00:00
+
  ## AI Humanizer and AI Remover Tool ⭐️ TextFlip
  - [https://textflip.ai](https://textflip.ai)
  - date_published: 2011-05-20T18:49:43+00:00
@@ -3893,134 +4023,4 @@ Creative Solutions
  ## AutomaticDocs
  - [https://automaticdocs.app](https://automaticdocs.app)
  - date_published: 2024-10-28T23:33:30.775924+00:00
-
- ## AutoWrite - The Best AI SEO Writer
- - [https://autowrite.app](https://autowrite.app)
- - date_published: 2024-06-19T21:07:34.671668+00:00
-
- ## Avain.app
- - [https://avain.app](https://avain.app)
- - date_published: 2024-03-31T16:29:17+00:00
-
- ## Avanty - AI assistant for data analysts in Metabase.
- - [https://avanty.app](https://avanty.app)
- - date_published: 2024-01-25T07:50:52+00:00
-
- ## Avanty Docs
- - [https://docs.avanty.app](https://docs.avanty.app)
- - date_published: 2024-10-19T00:32:59+00:00
-
- ## Avath App
- - [https://avath.app](https://avath.app)
- - date_published: 2024-10-30T07:02:33.917165+00:00
-
- ## Awtomic Subscriptions
- - [https://help.awtomatic.app](https://help.awtomatic.app)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Axel Go - Secure File Sharing, Document Management & Cloud Storage
- - [https://www.axelgo.app](https://www.axelgo.app)
- - date_published: 2019-12-05T12:24:05+00:00
-
- ## Youtube Summarizer - Summarize any YouTube Video
- - [http://yt.azen.app](http://yt.azen.app)
- - date_published: 2024-06-14T08:57:18.044415+00:00
-
- ## Azimutt · Database explorer and analyzer
- - [https://azimutt.app](https://azimutt.app)
- - date_published: 2024-06-19T22:21:49+00:00
-
- ## Hello from Azimutt documentation | Azimutt documentation
- - [https://docs.azimutt.app](https://docs.azimutt.app)
- - date_published: 2023-04-23T19:28:22+00:00
- - date_dead_since: 2024-12-12T20:20:28.530260+00:00
-
- ## Bally Live
- - [https://applink.ballylive.app](https://applink.ballylive.app)
- - date_published: 2023-03-28T21:55:08+00:00
-
- ## BananaBin
- - [https://bananabin.app](https://bananabin.app)
- - date_published: 2024-07-02T13:34:04+00:00
-
- ## Show HN: BandMatch – "Tinder" but for finding musicians to create bands/collab
- - [https://bandmatch.app](https://bandmatch.app)
- - date_published: 2024-05-03T18:11:25+00:00
-
- ## BanterAI
- - [https://banterai.app](https://banterai.app)
- - date_published: 2024-09-03T02:42:00+00:00
-
- ## Bar Assistant
- - [https://barassistant.app](https://barassistant.app)
- - date_published: 2024-04-08T19:27:06.124403+00:00
- - tags: ['self-host']
-
- ## Bar Assistant
- - [https://docs.barassistant.app](https://docs.barassistant.app)
- - date_published: 2024-06-30T09:57:17+00:00
-
- ## Bar Assistant
- - [https://my.barassistant.app](https://my.barassistant.app)
- - date_published: 2024-05-14T03:35:07.703869+00:00
-
- ## BarGPT, AI Generated Cocktail Recipes
- - [https://www.bargpt.app](https://www.bargpt.app)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Barista Bot | Coffee Ordering AI
- - [https://baristabot.app](https://baristabot.app)
- - date_published: 2024-04-19T16:01:00+00:00
-
- ## Bear
- - [https://bear.app](https://bear.app)
- - date_published: 2024-05-04T14:03:16.127978+00:00
-
- ## Bear: Flexible notes, beautiful writing on Mac, iPad, iPhone, and Apple Watch
- - [https://blog.bear.app](https://blog.bear.app)
- - date_published: 2024-06-21T20:53:58.531013+00:00
-
- ## Bear Community
- - [https://community.bear.app](https://community.bear.app)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Bearable Symptom Tracker App | Pain & Mental Health Journal
- - [https://bearable.app](https://bearable.app)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Beatmapper
- - [https://beatmapper.app](https://beatmapper.app)
- - date_published: 2023-11-20T03:27:41+00:00
-
- ## Winchester Beer Cheese Festival
- - [https://beercheesefestival.app](https://beercheesefestival.app)
- - date_published: 2024-10-19T18:04:48.377305+00:00
-
- ## BEEVIRAL | Account | Login
- - [https://sim.beeviral.app](https://sim.beeviral.app)
- - date_published: 2024-09-29T20:22:01.848357+00:00
-
- ## Air Quality Index (AQ) in the US - powered by Enhance
- - [https://invent-k6b.begin.app](https://invent-k6b.begin.app)
- - date_published: 2024-08-19T10:09:24.509530+00:00
-
- ## Muscle Body
- - [https://www.benefiit.app](https://www.benefiit.app)
- - date_published: 2024-12-01T08:09:59+00:00
-
- ## 6 Best Podcast Apps for Android, iOS & Web in 2023
- - [https://bestpodcast.app](https://bestpodcast.app)
- - date_published: 2024-12-11T19:34:05+00:00
-
- ## Bigcapital | Core Accounting Software
- - [https://bigcapital.app](https://bigcapital.app)
- - date_published: 2024-05-08T16:50:18.847614+00:00
-
- ## Bigcapital Community
- - [https://community.bigcapital.app](https://community.bigcapital.app)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Introduction | Bigcapital Learning Central
- - [https://docs.bigcapital.app](https://docs.bigcapital.app)
- - date_published: 2024-07-08T18:54:00.909740+00:00
 
