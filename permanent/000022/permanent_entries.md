@@ -1,3 +1,207 @@
+ ## Homepage
+ - [https://www.franklincovey.ca](https://www.franklincovey.ca)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Portal Home - FranTech
+ - [https://my.frantech.ca](https://my.frantech.ca)
+ - date_published: 2024-05-04T05:50:03.883976+00:00
+
+ ## Financial Reporting and Assurance Standards Canada
+ - [https://www.frascanada.ca](https://www.frascanada.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Select Language | City of Fredericton
+ - [https://fredericton.ca](https://fredericton.ca)
+ - date_published: 2024-05-10T02:41:14.415794+00:00
+
+ ## Welcome to Opioid, USA
+ - [https://www.freedommag.ca](https://www.freedommag.ca)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Hire Freelancers & Find Freelance Jobs Online
+ - [https://www.freelancer.ca](https://www.freelancer.ca)
+ - date_published: 2024-06-16T12:02:13.386225+00:00
+
+ ## Fraser Institute
+ - [https://freetheworld.ca](https://freetheworld.ca)
+ - date_published: 2024-12-22T06:05:54.468253+00:00
+
+ ## Freetrade - Soon launching in Canada
+ - [https://freetrade.ca](https://freetrade.ca)
+ - date_published: 2023-06-20T00:00:00+00:00
+
+ ## Freshdaily
+ - [http://www.freshdaily.ca](http://www.freshdaily.ca)
+ - date_published: 2024-09-10T08:27:19.000503+00:00
+
+ ## Fresh Prep | Meal Kit service delivering to Vancouver and Calgary
+ - [https://try.freshprep.ca](https://try.freshprep.ca)
+ - date_published: 2024-06-27T13:06:56.723203+00:00
+
+ ## friendica – A Decentralized Social Network
+ - [https://friendi.ca](https://friendi.ca)
+ - date_published: 2024-06-19T22:13:12.469601+00:00
+
+ ## Friendica
+ - [https://git.friendi.ca](https://git.friendi.ca)
+ - date_published: 2025-01-14T22:57:22.473128+00:00
+
+ ## Friends of the Thunder Bay Public Library 50/50
+ - [https://friends5050.ca](https://friends5050.ca)
+ - date_published: 2025-01-02T20:44:44.805551+00:00
+
+ ## froghat.ca
+ - [https://froghat.ca](https://froghat.ca)
+ - date_published: 2023-10-25T09:02:17.770370+00:00
+ - tags: ['personal']
+
+ ## FrogHeart | Commentary about nanotech, science policy and communication, society, and the arts
+ - [https://frogheart.ca](https://frogheart.ca)
+ - date_published: 2024-05-11T07:52:34.040651+00:00
+
+ ## Home
+ - [https://www.fslabs.ca](https://www.fslabs.ca)
+ - date_published: 2024-03-13T11:24:16+00:00
+
+ ## Application - Online Services Portal
+ - [https://onlineservicesportal.fsrao.ca](https://onlineservicesportal.fsrao.ca)
+ - date_published: 2024-09-30T13:53:43.481349+00:00
+
+ ## Enforcements and Warnings
+ - [https://teao.fsrao.ca](https://teao.fsrao.ca)
+ - date_published: 2024-09-30T13:53:36.464588+00:00
+
+ ## Financial Services Regulatory Authority of Ontario | FSRA | Financial Services Regulatory Authority of Ontario
+ - [https://www.fsrao.ca](https://www.fsrao.ca)
+ - date_published: 2024-06-16T06:19:41+00:00
+
+ ## Le FTA, festival international de danse et théâtre à Montréal
+ - [https://fta.ca](https://fta.ca)
+ - date_published: 2025-01-01T06:08:51.391915+00:00
+
+ ## FTFL.CA
+ - [http://ftfl.ca](http://ftfl.ca)
+ - date_published: 2022-11-17T21:43:13+00:00
+
+ ## Home
+ - [https://www.fulbright.ca](https://www.fulbright.ca)
+ - date_published: 2024-07-14T05:11:53.844102+00:00
+
+ ## Fund Our Health Care
+ - [http://www.fundhealthcare.ca](http://www.fundhealthcare.ca)
+ - date_published: 2024-07-08T16:52:44.200065+00:00
+
+ ## Funerals in Canada, Canada
+ - [http://www.funerals.ca](http://www.funerals.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Furius Enterprises
+ - [http://furius.ca](http://furius.ca)
+ - date_published: 2021-10-23T18:38:30+00:00
+ - tags: ['personal']
+
+ ## Future North
+ - [https://futurenorth.ca](https://futurenorth.ca)
+ - date_published: 2024-07-18T08:23:01+00:00
+
+ ## Find businesses and services in Canada
+ - [https://www.fyple.ca](https://www.fyple.ca)
+ - date_published: 2024-06-29T18:25:40.904229+00:00
+
+ ## Ontario G1 Practice Test Online
+ - [https://www.g1.ca](https://www.g1.ca)
+ - date_published: 2024-09-02T07:30:15+00:00
+
+ ## Tim Gadanidis - Home
+ - [https://gadanidis.ca](https://gadanidis.ca)
+ - date_published: 2023-10-25T08:42:54.581662+00:00
+ - tags: ['personal']
+
+ ## Galleries West — Your link to directories of art galleries, lists of art exhibitions and the visual arts scene in Western Canada.
+ - [https://www.gallerieswest.ca](https://www.gallerieswest.ca)
+ - date_published: 2024-07-20T17:54:46.315028+00:00
+
+ ## NGC Audio Tours | MBAC Visites Audio
+ - [https://digital.gallery.ca](https://digital.gallery.ca)
+ - date_published: 2024-07-19T22:13:48.235685+00:00
+
+ ## National Gallery of Canada
+ - [https://gallery.ca](https://gallery.ca)
+ - date_published: 2023-11-13T13:45:23.318113+00:00
+ - tags: ['museum']
+
+ ## Best Casino Bonus in Canada [ 2024 ] | Gamblizard.ca
+ - [https://gamblizard.ca](https://gamblizard.ca)
+ - date_published: 2024-12-12T10:09:46+00:00
+
+ ## Gamer Social Club
+ - [https://gamersocialclub.ca](https://gamersocialclub.ca)
+ - date_published: 2024-12-25T15:26:53+00:00
+
+ ## GameStop | The largest video game retailer in Canada. Play. Trade. Save.  - GameStop.ca
+ - [https://gamestop.ca](https://gamestop.ca)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Kahnawà:ke Gaming Commission
+ - [https://www.gamingcommission.ca](https://www.gamingcommission.ca)
+ - date_published: 2024-07-03T12:48:22.494784+00:00
+
+ ## This is the default server vhost
+ - [http://www.garagedoors.ca](http://www.garagedoors.ca)
+ - date_published: 2024-06-24T11:23:01+00:00
+
+ ## Garageland a book by Andrew Campbell
+ - [https://garageland.ca](https://garageland.ca)
+ - date_published: 2017-09-30T00:00:00+00:00
+
+ ## Homepage - Garnier.com
+ - [https://www.garnier.ca](https://www.garnier.ca)
+ - date_published: 2024-10-20T22:52:06.220529+00:00
+
+ ## Accueil
+ - [https://www.gatineau.ca](https://www.gatineau.ca)
+ - date_published: 2024-07-10T05:29:52.784558+00:00
+
+ ## Home
+ - [http://www.gbcicanada.ca](http://www.gbcicanada.ca)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Garett Brown
+ - [https://gbrown.ca](https://gbrown.ca)
+ - date_published: 2024-05-04T15:44:38.983462+00:00
+
+ ## wiki
+ - [https://wiki.gccollab.ca](https://wiki.gccollab.ca)
+ - date_published: 2023-05-03T00:00:00+00:00
+
+ ## Giorgio Delgado
+ - [https://gdelgado.ca](https://gdelgado.ca)
+ - date_published: 2022-01-08T00:00:00+00:00
+
+ ## GE Appliances Canada | Homepage
+ - [https://geappliances.ca](https://geappliances.ca)
+ - date_published: 2024-10-18T17:21:54.254071+00:00
+
+ ## playpto.xyz
+ - [https://token.gearzero.ca](https://token.gearzero.ca)
+ - date_published: 2022-08-26T10:08:08+00:00
+
+ ## Gee-Gees d'Ottawa
+ - [https://equipes.geegees.ca](https://equipes.geegees.ca)
+ - date_published: 2024-07-21T08:25:41.342522+00:00
+
+ ## Ottawa Gee-Gees
+ - [https://teams.geegees.ca](https://teams.geegees.ca)
+ - date_published: 2024-04-30T05:28:13.660472+00:00
+
+ ## Ottawa Gee-Gees
+ - [https://tickets.geegees.ca](https://tickets.geegees.ca)
+ - date_published: 2024-07-21T08:25:23.743842+00:00
+
+ ## GEEKOM Mini PC: Top, Powerful & Energy-Efficient Mini PCs
+ - [https://www.geekom.ca](https://www.geekom.ca)
+ - date_published: 2024-10-31T21:44:48.651819+00:00
+
  ## Homepage - GenomeCanada
  - [https://www.genomecanada.ca](https://www.genomecanada.ca)
  - date_published: 2024-07-10T11:37:42.790739+00:00
@@ -1883,6 +2087,10 @@
  ## Lotus Goddess' Mirror - A DoMO Fansite
  - [http://domo.lotusgoddess.ca](http://domo.lotusgoddess.ca)
  - date_published: 2025-01-10T22:56:26.495816+00:00
+
+ ## Eastern Morning Forums - Index
+ - [http://forum.lotusgoddess.ca](http://forum.lotusgoddess.ca)
+ - date_published: 2025-01-24T16:35:18.347846+00:00
 
  ## Low Profile Keyboards - lowprokb.ca
  - [https://lowprokb.ca](https://lowprokb.ca)
@@ -3831,209 +4039,4 @@
  - [https://pacc-ccap.ca](https://pacc-ccap.ca)
  - date_published: 2024-05-06T23:57:36.183235+00:00
  - tags: ['privacy']
-
- ## packetcat's Gitea
- - [https://git.packetcat.ca](https://git.packetcat.ca)
- - date_published: 2024-12-27T14:26:26.975548+00:00
-
- ## Pack Mule
- - [https://packmule.ca](https://packmule.ca)
- - date_published: 2024-04-28T03:26:27.765989+00:00
-
- ## ShakeDown
- - [https://shakedown.packmule.ca](https://shakedown.packmule.ca)
- - date_published: 2024-03-24T15:43:55+00:00
-
- ## Painters in Canada, Canada
- - [http://www.painting.ca](http://www.painting.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Bringing Value Beyond the Brush
- - [https://paintitall.ca](https://paintitall.ca)
- - date_published: 2023-02-02T05:24:57+00:00
-
- ## Palestine Central - an NCCM initiative
- - [https://www.palestinecentral.ca](https://www.palestinecentral.ca)
- - date_published: 2023-10-25T00:00:00+00:00
-
- ## Palo Alto Networks – Global Cybersecurity Leader – Canada
- - [https://www.paloaltonetworks.ca](https://www.paloaltonetworks.ca)
- - date_published: 2024-10-19T17:40:44.913867+00:00
-
- ## Baby Care, Diapers & Parenting Information | Pampers CA
- - [https://pampers.ca](https://pampers.ca)
- - date_published: 2024-12-19T09:50:36+00:00
-
- ## Baby Care, Diapers & Parenting Information | Pampers CA
- - [https://www.pampers.ca](https://www.pampers.ca)
- - date_published: 2024-10-28T22:56:14+00:00
-
- ## Couches, soins pour les bébés et renseignements pour les parents | Pampers Canada
- - [https://www.pampers-fr.ca](https://www.pampers-fr.ca)
- - date_published: 2024-10-28T22:47:14+00:00
-
- ## HOME - Pancreatic Cancer Canada
- - [https://pancreaticcancercanada.ca](https://pancreaticcancercanada.ca)
- - date_published: 2024-12-15T16:07:56.502001+00:00
-
- ## Les branchements du Roy
- - [https://panneau-solaire.ca](https://panneau-solaire.ca)
- - date_published: 2024-12-23T12:07:35+00:00
-
- ## Hair Products For All Hair Types. | Pantene
- - [https://pantene.ca](https://pantene.ca)
- - date_published: 2024-09-13T14:35:40+00:00
-
- ## the Papertrail Handmade Paper & Book Arts
- - [https://papertrail.ca](https://papertrail.ca)
- - date_published: 2023-06-22T13:06:44+00:00
-
- ## Paranoid Beavers
- - [https://paranoidbeavers.ca](https://paranoidbeavers.ca)
- - date_published: 2017-11-25T00:00:00+00:00
-
- ## Paratime Design | Old School RPGs | Cartography
- - [http://paratime.ca](http://paratime.ca)
- - date_published: 2024-12-27T17:56:47+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.parieraucanada.ca](https://www.parieraucanada.ca)
- - date_published: 2024-07-17T12:56:38.648713+00:00
-
- ## Pari Sportif Canada : Guide des meilleurs sites de paris en 2024
- - [https://www.parissportifcanada.ca](https://www.parissportifcanada.ca)
- - date_published: 2024-06-20T16:25:08+00:00
-
- ## Welcome! - paritybit.ca
- - [https://paritybit.ca](https://paritybit.ca)
- - date_published: 2024-07-23T23:27:18.774546+00:00
-
- ## Parkland Corporation: We deliver, serve and innovate | Parkland Corporation
- - [https://www.parkland.ca](https://www.parkland.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Parkland Institute
- - [https://www.parklandinstitute.ca](https://www.parklandinstitute.ca)
- - date_published: 2024-07-20T15:44:41.744817+00:00
-
- ## Parks Canada
- - [https://www.parkscanada.ca](https://www.parkscanada.ca)
- - date_published: 2024-06-19T04:52:08.260898+00:00
-
- ## Bibliothèque du Parlement du Canada
- - [https://bdp.parl.ca](https://bdp.parl.ca)
- - date_published: 2024-07-10T05:32:32.467327+00:00
-
- ## Employment at Parliament | Emplois au Parlement
- - [http://jobs-emplois.parl.ca](http://jobs-emplois.parl.ca)
- - date_published: 2024-07-10T05:30:23.778189+00:00
-
- ## Learn About Parliament
- - [https://learn.parl.ca](https://learn.parl.ca)
- - date_published: 2024-07-10T05:29:48.318102+00:00
-
- ## Library of the Canadian Parliament
- - [https://lop.parl.ca](https://lop.parl.ca)
- - date_published: 2024-07-10T05:29:45.489800+00:00
-
- ## Parliament of Canada - Parlement du Canada
- - [https://parl.ca](https://parl.ca)
- - date_published: 2024-05-09T07:39:30.010213+00:00
-
- ## Parliamentary Protective Service
- - [https://pps.parl.ca](https://pps.parl.ca)
- - date_published: 2024-07-10T05:29:57.024438+00:00
-
- ## Parliament of Canada Tours — Home
- - [https://rts.parl.ca](https://rts.parl.ca)
- - date_published: 2024-07-10T05:30:22.334976+00:00
-
- ## Visitez le parlement du Canada
- - [https://visitez.parl.ca](https://visitez.parl.ca)
- - date_published: 2024-07-10T05:32:29.812335+00:00
-
- ## Visit Canada's Parliament
- - [https://visit.parl.ca](https://visit.parl.ca)
- - date_published: 2024-07-10T05:30:15.969252+00:00
-
- ## Home | Town of Parry Sound
- - [https://www.parrysound.ca](https://www.parrysound.ca)
- - date_published: 2024-12-23T05:26:19.265948+00:00
-
- ## Partek I.T. Solutions — Managed Information Technology and Cybersecurity Solutions
- - [https://partek.ca](https://partek.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Townhome Builder in Calgary & Okotoks | Partners Development Group
- - [https://partnershomes.ca](https://partnershomes.ca)
- - date_published: 2024-04-30T05:14:18.749674+00:00
-
- ## Patagonia Outdoor Clothing & Gear
- - [https://patagonia.ca](https://patagonia.ca)
- - date_published: 2024-05-06T22:33:35.006597+00:00
-
- ## PataTaSocial - GoToSocial
- - [https://gotosocial.patatas.ca](https://gotosocial.patatas.ca)
- - date_published: 2024-07-13T03:42:14.029076+00:00
-
- ## Home - The Dabbler: a blog by @smallpatatas
- - [https://thedabbler.patatas.ca](https://thedabbler.patatas.ca)
- - date_published: 2024-05-10T07:02:36.153421+00:00
- - tags: ['personal']
-
- ## Pathways to Education Canada
- - [https://www.pathwaystoeducation.ca](https://www.pathwaystoeducation.ca)
- - date_published: 2024-08-09T03:53:37.024419+00:00
-
- ## Patrick Douglas
- - [https://patrickdouglas.ca](https://patrickdouglas.ca)
- - date_published: 2024-09-09T20:54:21+00:00
-
- ## Sam Pavot - Contact page
- - [https://sam.pavot.ca](https://sam.pavot.ca)
- - date_published: 2023-11-26T03:34:15+00:00
-
- ## Payday loans in Canada, Canada
- - [http://www.payday.ca](http://www.payday.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Payment Source - Empowering Inclusion
- - [https://www.paymentsource.ca](https://www.paymentsource.ca)
- - date_published: 2024-09-18T06:50:30+00:00
-
- ## Payper | Get in the fold
- - [https://www.payper.ca](https://www.payper.ca)
- - date_published: 2022-11-22T19:24:37+00:00
-
- ## https://paysync.ca
- - [https://paysync.ca](https://paysync.ca)
- - date_published: 2023-10-25T12:06:31.218287+00:00
-
- ## Patrick Boivin
- - [https://pboivin.ca](https://pboivin.ca)
- - date_published: 2024-01-24T17:59:32.974422+00:00
-
- ## Accueil - Partenariat des Bibliothèques universitaires du Québec
- - [https://pbuq.ca](https://pbuq.ca)
- - date_published: 2024-12-12T23:43:25.801531+00:00
-
- ## President’s Choice Children’s Charity | Feeding Hungry Minds
- - [https://pcchildrenscharity.ca](https://pcchildrenscharity.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## PC Financial | Canadian Rewards Credit Cards with No Annual Fee | Services financiers PC | Cartes de crédit canadiennes avec récompenses et sans frais annuels
- - [https://secure.pcfinancial.ca](https://secure.pcfinancial.ca)
- - date_published: 2024-05-29T11:20:47+00:00
-
- ## Earn PC Optimum™ points with PC® Mastercard® and PC Money™ Account | PC Financial
- - [https://www.pcfinancial.ca](https://www.pcfinancial.ca)
- - date_published: 2024-05-01T06:19:40.507262+00:00
-
- ## NamesPro.ca | Register with Confidence
- - [http://www.pcna.ca](http://www.pcna.ca)
- - date_published: 2024-07-01T15:32:00.163122+00:00
-
- ## PC Optimum
- - [https://www.pcoptimum.ca](https://www.pcoptimum.ca)
- - date_published: 2024-06-12T16:39:45+00:00
 

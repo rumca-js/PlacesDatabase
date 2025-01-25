@@ -1,3 +1,68 @@
+ ## Digital Society
+ - [https://digisociety.at](https://digisociety.at)
+ - date_published: 2015-05-24T14:01:18+00:00
+
+ ## Digitaler Kompass - Institut für Nachrichtenkompetenz und digitale Bildung
+ - [https://digitalerkompass.at](https://digitalerkompass.at)
+ - date_published: 2024-07-02T22:28:23.699396+00:00
+
+ ## Digital Hunter Österreich
+ - [https://digitalhunter.at](https://digitalhunter.at)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Home | DigitAlly
+ - [https://digitally.at](https://digitally.at)
+ - date_published: 2024-07-13T11:35:21.659064+00:00
+
+ ## WERBEAGENTUR Wien - Digital Rockstars: Die Online Marketing Agentur
+ - [https://digitalrockstars.at](https://digitalrockstars.at)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Home
+ - [https://digitalsportsfan.at](https://digitalsportsfan.at)
+ - date_published: 2024-10-29T10:04:46.286464+00:00
+
+ ## Di-mog-i.at - Die Singlebörse für Oberösterreich!
+ - [https://di-mog-i.at](https://di-mog-i.at)
+ - date_published: 2024-07-13T11:29:35.288349+00:00
+
+ ## Domäne Wachau
+ - [https://domaene-wachau.at](https://domaene-wachau.at)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Client XSS Introduction - DomGoat
+ - [https://domgo.at](https://domgo.at)
+ - date_published: 2024-06-19T22:53:03.848258+00:00
+
+ ## MESS SVN History
+ - [http://mess.dorando.at](http://mess.dorando.at)
+ - date_published: 2024-09-15T08:39:16.880559+00:00
+
+ ## DORIS interMAP - Startseite
+ - [https://doris.at](https://doris.at)
+ - date_published: 2024-09-13T16:18:58.934167+00:00
+
+ ## Dosenkiwi
+ - [https://dosenkiwi.at](https://dosenkiwi.at)
+ - date_published: 2024-05-11T07:10:28.258793+00:00
+
+ ## Tony Finch
+ - [https://dotat.at](https://dotat.at)
+ - date_published: 2023-10-25T09:07:46.063856+00:00
+ - tags: ['personal']
+
+ ## drkhsh
+ - [https://drkhsh.at](https://drkhsh.at)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## DS Automobiles: Premium-Autos aus Paris
+ - [https://www.dsautomobiles.at](https://www.dsautomobiles.at)
+ - date_published: 2024-10-28T15:03:44+00:00
+
+ ## Duracell Batterien Deutschland | Das weltweit führende Unternehmen für Verbraucherbatterien
+ - [https://duracell.at](https://duracell.at)
+ - date_published: 1970-01-01T00:00:00+00:00
+
  ## DVDFab Offizielle Website | Der weltführende Multimedia-Lösungsanbieter
  - [https://dvdfab.at](https://dvdfab.at)
  - date_published: 2024-09-03T19:40:42.596281+00:00
@@ -1658,6 +1723,10 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Unternehmens- & Personalentwicklung I Beratung I Coaching
  - [https://www.move-ment.at](https://www.move-ment.at)
  - date_published: 2024-12-25T12:01:20+00:00
+
+ ## Internationale Stiftung Mozarteum | Wolfgang Amadeus Mozart | Konzerte | Kulturvermittlung | Wissenschaftliche Forschung | Mozart Museen | Mozarts Geburtshaus | Mozart Wohnhaus | Mozart in Salzburg und der Welt
+ - [https://mozarteum.at](https://mozarteum.at)
+ - date_published: 2025-01-24T22:33:54.232938+00:00
 
  ## MuseumsQuartier Wien
  - [https://mqw.at](https://mqw.at)
@@ -3957,72 +4026,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## GeoDaten Burgenland Servicestelle
  - [https://geodaten.bgld.gv.at](https://geodaten.bgld.gv.at)
  - date_published: 2024-09-13T16:20:08.435701+00:00
-
- ## Bundesministerium für Arbeit und Wirtschaft
- - [https://bmafj.gv.at](https://bmafj.gv.at)
- - date_published: 2024-10-22T11:29:09.699373+00:00
-
- ## Bundesministerium für Arbeit und Wirtschaft
- - [https://www.bmaw.gv.at](https://www.bmaw.gv.at)
- - date_published: 2025-01-20T23:45:10.129346+00:00
-
- ## Bundesministerium für Bildung, Wissenschaft und Forschung
- - [https://bmbwf.gv.at](https://bmbwf.gv.at)
- - date_published: 2024-07-02T22:20:14.596957+00:00
-
- ## Startseite
- - [https://bmeia.gv.at](https://bmeia.gv.at)
- - date_published: 2024-06-30T05:49:01.142198+00:00
-
- ## Das Bundesministerium für Finanzen
- - [https://bmf.gv.at](https://bmf.gv.at)
- - date_published: 2024-05-11T07:10:18.851381+00:00
-
- ## Chatbot Fred
- - [https://chat.bmf.gv.at](https://chat.bmf.gv.at)
- - date_published: 2024-07-13T11:26:53.902396+00:00
-
- ## FinanzOnline Login
- - [https://finanzonline.bmf.gv.at](https://finanzonline.bmf.gv.at)
- - date_published: 2024-07-13T11:26:43.258874+00:00
-
- ## Error
- - [http://pendlerrechner.bmf.gv.at](http://pendlerrechner.bmf.gv.at)
- - date_published: 2024-09-13T16:20:55.085728+00:00
-
- ## Das Bundesministerium für Finanzen
- - [https://service.bmf.gv.at](https://service.bmf.gv.at)
- - date_published: 2024-07-13T11:26:46.510350+00:00
-
- ## Familie - Bundeskanzleramt Österreich
- - [https://bmfj.gv.at](https://bmfj.gv.at)
- - date_published: 2024-06-25T22:51:27.606371+00:00
-
- ## Bundesministerium für Justiz
- - [https://bmj.gv.at](https://bmj.gv.at)
- - date_published: 2024-07-13T11:35:15.043377+00:00
-
- ## Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK)
- - [https://www.bmk.gv.at](https://www.bmk.gv.at)
- - date_published: 2025-01-20T23:45:07.876599+00:00
-
- ## Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport - Startseite
- - [https://bmkoes.gv.at](https://bmkoes.gv.at)
- - date_published: 2024-09-02T15:47:57.895388+00:00
-
- ## Bundesministerium für Bildung, Wissenschaft und Forschung
- - [http://bmwf.gv.at](http://bmwf.gv.at)
- - date_published: 2024-06-30T11:17:47.778856+00:00
-
- ## Bundeskanzleramt der Republik Österreich - Startseite
- - [https://bundeskanzleramt.gv.at](https://bundeskanzleramt.gv.at)
- - date_published: 2024-07-02T22:20:02.885425+00:00
-
- ## data.gv.at - offene Daten Österreichs – lesbar für Mensch und Maschine
- - [https://data.gv.at](https://data.gv.at)
- - date_published: 2024-09-13T16:19:18.274035+00:00
-
- ## Willkommen auf der Website der Datenschutzbehörde
- - [https://dsb.gv.at](https://dsb.gv.at)
- - date_published: 2024-09-17T00:00:00+00:00
 

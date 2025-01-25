@@ -1,3 +1,208 @@
+ ## packetcat's Gitea
+ - [https://git.packetcat.ca](https://git.packetcat.ca)
+ - date_published: 2024-12-27T14:26:26.975548+00:00
+
+ ## Pack Mule
+ - [https://packmule.ca](https://packmule.ca)
+ - date_published: 2024-04-28T03:26:27.765989+00:00
+
+ ## ShakeDown
+ - [https://shakedown.packmule.ca](https://shakedown.packmule.ca)
+ - date_published: 2024-03-24T15:43:55+00:00
+
+ ## Painters in Canada, Canada
+ - [http://www.painting.ca](http://www.painting.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Bringing Value Beyond the Brush
+ - [https://paintitall.ca](https://paintitall.ca)
+ - date_published: 2023-02-02T05:24:57+00:00
+
+ ## Palestine Central - an NCCM initiative
+ - [https://www.palestinecentral.ca](https://www.palestinecentral.ca)
+ - date_published: 2023-10-25T00:00:00+00:00
+
+ ## Palo Alto Networks – Global Cybersecurity Leader – Canada
+ - [https://www.paloaltonetworks.ca](https://www.paloaltonetworks.ca)
+ - date_published: 2024-10-19T17:40:44.913867+00:00
+
+ ## Baby Care, Diapers & Parenting Information | Pampers CA
+ - [https://pampers.ca](https://pampers.ca)
+ - date_published: 2024-12-19T09:50:36+00:00
+
+ ## Baby Care, Diapers & Parenting Information | Pampers CA
+ - [https://www.pampers.ca](https://www.pampers.ca)
+ - date_published: 2024-10-28T22:56:14+00:00
+
+ ## Couches, soins pour les bébés et renseignements pour les parents | Pampers Canada
+ - [https://www.pampers-fr.ca](https://www.pampers-fr.ca)
+ - date_published: 2024-10-28T22:47:14+00:00
+
+ ## HOME - Pancreatic Cancer Canada
+ - [https://pancreaticcancercanada.ca](https://pancreaticcancercanada.ca)
+ - date_published: 2024-12-15T16:07:56.502001+00:00
+
+ ## Les branchements du Roy
+ - [https://panneau-solaire.ca](https://panneau-solaire.ca)
+ - date_published: 2024-12-23T12:07:35+00:00
+
+ ## Hair Products For All Hair Types. | Pantene
+ - [https://pantene.ca](https://pantene.ca)
+ - date_published: 2024-09-13T14:35:40+00:00
+
+ ## the Papertrail Handmade Paper & Book Arts
+ - [https://papertrail.ca](https://papertrail.ca)
+ - date_published: 2023-06-22T13:06:44+00:00
+
+ ## Paranoid Beavers
+ - [https://paranoidbeavers.ca](https://paranoidbeavers.ca)
+ - date_published: 2017-11-25T00:00:00+00:00
+
+ ## Paratime Design | Old School RPGs | Cartography
+ - [http://paratime.ca](http://paratime.ca)
+ - date_published: 2024-12-27T17:56:47+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.parieraucanada.ca](https://www.parieraucanada.ca)
+ - date_published: 2024-07-17T12:56:38.648713+00:00
+
+ ## Pari Sportif Canada : Guide des meilleurs sites de paris en 2024
+ - [https://www.parissportifcanada.ca](https://www.parissportifcanada.ca)
+ - date_published: 2024-06-20T16:25:08+00:00
+
+ ## Welcome! - paritybit.ca
+ - [https://paritybit.ca](https://paritybit.ca)
+ - date_published: 2024-07-23T23:27:18.774546+00:00
+
+ ## Parkland Corporation: We deliver, serve and innovate | Parkland Corporation
+ - [https://www.parkland.ca](https://www.parkland.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Parkland Institute
+ - [https://www.parklandinstitute.ca](https://www.parklandinstitute.ca)
+ - date_published: 2024-07-20T15:44:41.744817+00:00
+
+ ## Parks Canada
+ - [https://www.parkscanada.ca](https://www.parkscanada.ca)
+ - date_published: 2024-06-19T04:52:08.260898+00:00
+
+ ## Bibliothèque du Parlement du Canada
+ - [https://bdp.parl.ca](https://bdp.parl.ca)
+ - date_published: 2024-07-10T05:32:32.467327+00:00
+
+ ## Employment at Parliament | Emplois au Parlement
+ - [http://jobs-emplois.parl.ca](http://jobs-emplois.parl.ca)
+ - date_published: 2024-07-10T05:30:23.778189+00:00
+
+ ## Learn About Parliament
+ - [https://learn.parl.ca](https://learn.parl.ca)
+ - date_published: 2024-07-10T05:29:48.318102+00:00
+
+ ## Library of the Canadian Parliament
+ - [https://lop.parl.ca](https://lop.parl.ca)
+ - date_published: 2024-07-10T05:29:45.489800+00:00
+
+ ## Parliament of Canada - Parlement du Canada
+ - [https://parl.ca](https://parl.ca)
+ - date_published: 2024-05-09T07:39:30.010213+00:00
+
+ ## Parliamentary Protective Service
+ - [https://pps.parl.ca](https://pps.parl.ca)
+ - date_published: 2024-07-10T05:29:57.024438+00:00
+
+ ## Parliament of Canada Tours — Home
+ - [https://rts.parl.ca](https://rts.parl.ca)
+ - date_published: 2024-07-10T05:30:22.334976+00:00
+
+ ## Visitez le parlement du Canada
+ - [https://visitez.parl.ca](https://visitez.parl.ca)
+ - date_published: 2024-07-10T05:32:29.812335+00:00
+
+ ## Visit Canada's Parliament
+ - [https://visit.parl.ca](https://visit.parl.ca)
+ - date_published: 2024-07-10T05:30:15.969252+00:00
+
+ ## Home | Town of Parry Sound
+ - [https://www.parrysound.ca](https://www.parrysound.ca)
+ - date_published: 2024-12-23T05:26:19.265948+00:00
+
+ ## Partek I.T. Solutions — Managed Information Technology and Cybersecurity Solutions
+ - [https://partek.ca](https://partek.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Townhome Builder in Calgary & Okotoks | Partners Development Group
+ - [https://partnershomes.ca](https://partnershomes.ca)
+ - date_published: 2024-04-30T05:14:18.749674+00:00
+
+ ## Patagonia Outdoor Clothing & Gear
+ - [https://patagonia.ca](https://patagonia.ca)
+ - date_published: 2024-05-06T22:33:35.006597+00:00
+
+ ## PataTaSocial - GoToSocial
+ - [https://gotosocial.patatas.ca](https://gotosocial.patatas.ca)
+ - date_published: 2024-07-13T03:42:14.029076+00:00
+
+ ## Home - The Dabbler: a blog by @smallpatatas
+ - [https://thedabbler.patatas.ca](https://thedabbler.patatas.ca)
+ - date_published: 2024-05-10T07:02:36.153421+00:00
+ - tags: ['personal']
+
+ ## Pathways to Education Canada
+ - [https://www.pathwaystoeducation.ca](https://www.pathwaystoeducation.ca)
+ - date_published: 2024-08-09T03:53:37.024419+00:00
+
+ ## Patrick Douglas
+ - [https://patrickdouglas.ca](https://patrickdouglas.ca)
+ - date_published: 2024-09-09T20:54:21+00:00
+
+ ## Sam Pavot - Contact page
+ - [https://sam.pavot.ca](https://sam.pavot.ca)
+ - date_published: 2023-11-26T03:34:15+00:00
+
+ ## Payday loans in Canada, Canada
+ - [http://www.payday.ca](http://www.payday.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Payment Source - Empowering Inclusion
+ - [https://www.paymentsource.ca](https://www.paymentsource.ca)
+ - date_published: 2024-09-18T06:50:30+00:00
+
+ ## Payper | Get in the fold
+ - [https://www.payper.ca](https://www.payper.ca)
+ - date_published: 2022-11-22T19:24:37+00:00
+
+ ## https://paysync.ca
+ - [https://paysync.ca](https://paysync.ca)
+ - date_published: 2023-10-25T12:06:31.218287+00:00
+
+ ## Patrick Boivin
+ - [https://pboivin.ca](https://pboivin.ca)
+ - date_published: 2024-01-24T17:59:32.974422+00:00
+
+ ## Accueil - Partenariat des Bibliothèques universitaires du Québec
+ - [https://pbuq.ca](https://pbuq.ca)
+ - date_published: 2024-12-12T23:43:25.801531+00:00
+
+ ## President’s Choice Children’s Charity | Feeding Hungry Minds
+ - [https://pcchildrenscharity.ca](https://pcchildrenscharity.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## PC Financial | Canadian Rewards Credit Cards with No Annual Fee | Services financiers PC | Cartes de crédit canadiennes avec récompenses et sans frais annuels
+ - [https://secure.pcfinancial.ca](https://secure.pcfinancial.ca)
+ - date_published: 2024-05-29T11:20:47+00:00
+
+ ## Earn PC Optimum™ points with PC® Mastercard® and PC Money™ Account | PC Financial
+ - [https://www.pcfinancial.ca](https://www.pcfinancial.ca)
+ - date_published: 2024-05-01T06:19:40.507262+00:00
+
+ ## NamesPro.ca | Register with Confidence
+ - [http://www.pcna.ca](http://www.pcna.ca)
+ - date_published: 2024-07-01T15:32:00.163122+00:00
+
+ ## PC Optimum
+ - [https://www.pcoptimum.ca](https://www.pcoptimum.ca)
+ - date_published: 2024-06-12T16:39:45+00:00
+
  ## The Prospectors & Developers Association of Canada (PDAC)
  - [https://pdac.ca](https://pdac.ca)
  - date_published: 2025-01-12T03:39:48.215204+00:00
@@ -1919,6 +2124,10 @@
  - [https://soo.spaces.ca](https://soo.spaces.ca)
  - date_published: 2025-01-11T15:55:44+00:00
 
+ ## Find your community on SPACES
+ - [https://waitlist.spaces.ca](https://waitlist.spaces.ca)
+ - date_published: 2025-01-24T22:48:12.965697+00:00
+
  ## Spacing | Canadian Urbanism Uncovered
  - [https://spacing.ca](https://spacing.ca)
  - date_published: 2024-05-22T12:49:56.686769+00:00
@@ -3826,220 +4035,4 @@
  ## PeopleGrove
  - [https://mentorlink.ucalgary.ca](https://mentorlink.ucalgary.ca)
  - date_published: 2024-07-21T08:42:52+00:00
-
- ## ARCHIBUS
- - [https://myfacilities.ucalgary.ca](https://myfacilities.ucalgary.ca)
- - date_published: 2020-04-17T17:43:44+00:00
-
- ## PeopleSoft Single Signon
- - [https://my.ucalgary.ca](https://my.ucalgary.ca)
- - date_published: 2021-05-25T15:05:13+00:00
-
- ## BBIS Home Page - University of Calgary
- - [https://netcommunity.ucalgary.ca](https://netcommunity.ucalgary.ca)
- - date_published: 2024-07-21T08:42:40.017477+00:00
-
- ## News
- - [https://news.ucalgary.ca](https://news.ucalgary.ca)
- - date_published: 2024-07-19T16:19:11+00:00
-
- ## Visit - Nickle Galleries
- - [https://nickle.ucalgary.ca](https://nickle.ucalgary.ca)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home
- - [https://nursing.ucalgary.ca](https://nursing.ucalgary.ca)
- - date_published: 2024-04-30T05:20:27.627298+00:00
-
- ## Home
- - [https://obrieniph.ucalgary.ca](https://obrieniph.ucalgary.ca)
- - date_published: 2024-07-20T06:30:43+00:00
-
- ## Sign in to your account
- - [https://office365.ucalgary.ca](https://office365.ucalgary.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Welcome :: Password Management
- - [https://password.ucalgary.ca](https://password.ucalgary.ca)
- - date_published: 2024-07-21T08:57:24.196142+00:00
-
- ## PeopleSoft Single Signon
- - [https://portal.my.ucalgary.ca](https://portal.my.ucalgary.ca)
- - date_published: 2021-05-25T15:05:13+00:00
-
- ## Home - University of Calgary Press
- - [https://press.ucalgary.ca](https://press.ucalgary.ca)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## PRISM :: Home
- - [https://prism.ucalgary.ca](https://prism.ucalgary.ca)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## UCalgary Profiles
- - [https://profiles.ucalgary.ca](https://profiles.ucalgary.ca)
- - date_published: 2024-04-30T05:19:15.196115+00:00
-
- ## AINA Publications Server
- - [https://pubs.aina.ucalgary.ca](https://pubs.aina.ucalgary.ca)
- - date_published: 2023-10-17T19:17:49+00:00
-
- ## Home | ALBERTA CHILDREN'S HOSPITAL RESEARCH INSTITUTE
- - [http://research4kids.ucalgary.ca](http://research4kids.ucalgary.ca)
- - date_published: 2024-07-19T14:52:26+00:00
-
- ## Welcome to SAPL
- - [https://sapl.ucalgary.ca](https://sapl.ucalgary.ca)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Home
- - [https://schulich.ucalgary.ca](https://schulich.ucalgary.ca)
- - date_published: 2024-04-30T05:19:08.849087+00:00
-
- ## SCIENCE Home
- - [https://science.ucalgary.ca](https://science.ucalgary.ca)
- - date_published: 2024-04-30T05:19:20.857774+00:00
-
- ## Home - University of Calgary Bookstore
- - [https://shop.ucalgary.ca](https://shop.ucalgary.ca)
- - date_published: 2024-07-21T09:04:47.663303+00:00
-
- ## Home
- - [http://snyder.ucalgary.ca](http://snyder.ucalgary.ca)
- - date_published: 2024-07-21T06:06:38+00:00
-
- ## Home
- - [https://socialwork.ucalgary.ca](https://socialwork.ucalgary.ca)
- - date_published: 2024-07-21T08:09:15+00:00
-
- ## Home
- - [https://spp.ucalgary.ca](https://spp.ucalgary.ca)
- - date_published: 2024-04-30T05:25:37.161520+00:00
-
- ## Sign in to your account
- - [https://survey.ucalgary.ca](https://survey.ucalgary.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Home
- - [https://taylorinstitute.ucalgary.ca](https://taylorinstitute.ucalgary.ca)
- - date_published: 2024-07-21T07:58:18+00:00
-
- ## University of Calgary
- - [https://ucalgary.ca](https://ucalgary.ca)
- - date_published: 2023-10-25T12:08:42.919794+00:00
- - tags: ['university']
-
- ## Opportunities
-
-        
-            
-            
-
-            in the Faculty of Veterinary Medicine
- - [https://vetmed.careers.ucalgary.ca](https://vetmed.careers.ucalgary.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Home
- - [https://vet.ucalgary.ca](https://vet.ucalgary.ca)
- - date_published: 2024-04-30T05:25:39.359449+00:00
-
- ## Circuit Virtual Tours
- - [https://virtualtour.grad.ucalgary.ca](https://virtualtour.grad.ucalgary.ca)
- - date_published: 2024-08-09T20:35:06+00:00
-
- ## Home
- - [https://web.ucalgary.ca](https://web.ucalgary.ca)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Home
- - [https://werklund.ucalgary.ca](https://werklund.ucalgary.ca)
- - date_published: 2024-04-30T05:20:24.145947+00:00
-
- ## Libraries Booking System -
-        University of Calgary
- - [https://workrooms.ucalgary.ca](https://workrooms.ucalgary.ca)
- - date_published: 2024-07-21T08:53:00.541153+00:00
-
- ## CPSC Home
- - [http://www.cpsc.ucalgary.ca](http://www.cpsc.ucalgary.ca)
- - date_published: 2024-08-11T17:57:02+00:00
-
- ## Home - The Ukrainian Canadian Congress (UCC) official website
- - [https://www.ucc.ca](https://www.ucc.ca)
- - date_published: 2023-01-17T03:12:26+00:00
-
- ## uDiscover Music | Canada Store
- - [https://shop.udiscovermusic.ca](https://shop.udiscovermusic.ca)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## uDiscover Music: discover more about the world’s greatest music
- - [https://udiscovermusic.ca](https://udiscovermusic.ca)
- - date_published: 2024-05-06T21:11:24.115013+00:00
-
- ## Welcome to the Urban Exploration Resource! - Urban Exploration Resource
- - [https://uer.ca](https://uer.ca)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## UX Designer Corner
- - [https://uglyduck.ca](https://uglyduck.ca)
- - date_published: 2024-05-07T23:15:32.149187+00:00
-
- ## Welcome to the University Health Network
- - [https://www.uhn.ca](https://www.uhn.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## uhqs | photography by amanjeev
- - [https://uhqs.ca](https://uhqs.ca)
- - date_published: 2024-07-10T05:35:30.859640+00:00
-
- ## University of King's College | Halifax, Nova Scotia
- - [http://ukings.ca](http://ukings.ca)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## CERVIM
- - [http://cervim.ulaval.ca](http://cervim.ulaval.ca)
- - date_published: 2024-07-11T12:05:06.334445+00:00
-
- ## Accueil | Bibliothèque | ULaval
- - [https://drupal.bibl.ulaval.ca](https://drupal.bibl.ulaval.ca)
- - date_published: 2025-01-22T01:56:00.895227+00:00
-
- ## MIVIM- Accueil
- - [http://mivim.gel.ulaval.ca](http://mivim.gel.ulaval.ca)
- - date_published: 2024-07-11T12:04:56.298303+00:00
-
- ## Accueil
- - [https://observatoire-ia.ulaval.ca](https://observatoire-ia.ulaval.ca)
- - date_published: 2024-06-19T18:17:25+00:00
-
- ## REPARTI
- - [http://reparti.ulaval.ca](http://reparti.ulaval.ca)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## -| LVSN -Accueil |-
- - [https://vision.gel.ulaval.ca](https://vision.gel.ulaval.ca)
- - date_published: 2024-05-09T08:59:55.817645+00:00
-
- ## Accueil
- - [https://www4.fsa.ulaval.ca](https://www4.fsa.ulaval.ca)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Bureau du droit d'auteur - Bureau du droit d'auteur
- - [https://www.bda.ulaval.ca](https://www.bda.ulaval.ca)
- - date_published: 2025-01-22T01:55:03.820455+00:00
-
- ## Accueil | Bibliothèque | ULaval
- - [http://www.bibl.ulaval.ca](http://www.bibl.ulaval.ca)
- - date_published: 2025-01-07T00:00:00+00:00
-
- ## Accueil | CSTIP | UL
- - [https://www.cstip.ulaval.ca](https://www.cstip.ulaval.ca)
- - date_published: 2024-10-24T16:18:51+00:00
-
- ## Génie électrique et génie informatique
- - [http://www.gel.ulaval.ca](http://www.gel.ulaval.ca)
- - date_published: 2024-07-11T12:05:04.075442+00:00
-
- ## Bienvenue à l'Université Laval | ULaval | Ville de Québec, Canada
- - [http://www.ulaval.ca](http://www.ulaval.ca)
- - date_published: 2024-07-08T14:35:17.716279+00:00
 

@@ -1,3 +1,27 @@
+ ## Tarot Master | Chat With Your Personal AI Psychic
+ - [https://tarotmaster.ai](https://tarotmaster.ai)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Tarteel AI Quran Memorization
+ - [https://download.tarteel.ai](https://download.tarteel.ai)
+ - date_published: 2024-12-26T16:57:01.712643+00:00
+
+ ## Tarteel Feedback
+ - [https://feedback.tarteel.ai](https://feedback.tarteel.ai)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Tarteel
+ - [http://support.tarteel.ai](http://support.tarteel.ai)
+ - date_published: 2024-08-19T12:07:43.988816+00:00
+
+ ## Tarteel - Recite the Quran Confidently
+ - [https://tarteel.ai](https://tarteel.ai)
+ - date_published: 2023-10-25T11:43:16.959219+00:00
+
+ ## Taskaid AI - Free AI task management tool
+ - [https://taskaid.ai](https://taskaid.ai)
+ - date_published: 2024-10-30T21:25:02.273191+00:00
+
  ## The #1 AI Tattoo Generator for creating professional tattoo designs
  - [https://tattoopro.ai](https://tattoopro.ai)
  - date_published: 2025-01-21T02:34:24.933251+00:00
@@ -67,6 +91,10 @@
  ## Telegram Bots AI — Supercharge Telegram with AI Bots ✨
  - [https://telegrambots.ai](https://telegrambots.ai)
  - date_published: 2024-05-08T04:51:42.482776+00:00
+
+ ## Telmai - AI-based Data Observability for Open Architecture
+ - [https://www.telm.ai](https://www.telm.ai)
+ - date_published: 2025-01-24T22:00:26.929283+00:00
 
  ## Autonomous AI agent that runs expert B2B blog to generate leads
  - [http://app.tely.ai](http://app.tely.ai)
@@ -307,6 +335,10 @@
  - [https://www.thordrive.ai](https://www.thordrive.ai)
  - date_published: 2023-11-23T00:00:00+00:00
 
+ ## AI-Powered Revenue Cycle Automation | Thoughtful
+ - [https://www.thoughtful.ai](https://www.thoughtful.ai)
+ - date_published: 2025-01-25T00:56:58.893380+00:00
+
  ## Portal Login
  - [https://portal.threathunter.ai](https://portal.threathunter.ai)
  - date_published: 2024-07-09T17:17:33.762020+00:00
@@ -511,6 +543,10 @@
  ## The speed and accuracy of AI. Now applied to visual assessment.
  - [https://tractable.ai](https://tractable.ai)
  - date_published: 2024-07-09T21:19:41.237395+00:00
+
+ ## Trae: AI Code Editor from ByteDance
+ - [https://www.trae.ai](https://www.trae.ai)
+ - date_published: 2025-01-24T08:36:27+00:00
 
  ## Train Fitness - Automatic Exercise Tracking
  - [https://trainfitness.ai](https://trainfitness.ai)
@@ -3987,40 +4023,4 @@ Creative Solutions
  ## Free Online Apps for Most Popular File Formats
  - [https://products.aspose.app](https://products.aspose.app)
  - date_published: 2024-08-16T00:00:00+00:00
-
- ## Atopics
- - [https://atopic.app](https://atopic.app)
- - date_published: 2024-07-13T16:13:29.863133+00:00
-
- ## Device integrity monitoring
- - [https://attestation.app](https://attestation.app)
- - date_published: 2024-02-24T10:01:24.175770+00:00
-
- ## Auction Today
- - [https://admin.auctiontoday.app](https://admin.auctiontoday.app)
- - date_published: 2024-07-02T10:08:53+00:00
-
- ## Audiogest: Transcribe and summarize your audio and video
- - [https://audiogest.app](https://audiogest.app)
- - date_published: 2024-05-11T06:55:07.593290+00:00
-
- ## Loading…
- - [https://directus.audiogest.app](https://directus.audiogest.app)
- - date_published: 2024-07-13T09:07:06.013698+00:00
-
- ## Audiomatic
- - [https://www.audiomatic.app](https://www.audiomatic.app)
- - date_published: 2024-09-02T09:50:16.366912+00:00
-
- ## Audio writer
- - [https://audiowriter.app](https://audiowriter.app)
- - date_published: 2024-10-11T15:31:53+00:00
-
- ## Aumentur | The smart app, for smart destinations and smart travellers
- - [https://www.aumentur.app](https://www.aumentur.app)
- - date_published: 2024-09-12T11:43:18.842341+00:00
-
- ## AutomaticDocs
- - [https://automaticdocs.app](https://automaticdocs.app)
- - date_published: 2024-10-28T23:33:30.775924+00:00
 

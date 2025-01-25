@@ -1,3 +1,71 @@
+ ## Bundesministerium für Arbeit und Wirtschaft
+ - [https://bmafj.gv.at](https://bmafj.gv.at)
+ - date_published: 2024-10-22T11:29:09.699373+00:00
+
+ ## Bundesministerium für Arbeit und Wirtschaft
+ - [https://www.bmaw.gv.at](https://www.bmaw.gv.at)
+ - date_published: 2025-01-20T23:45:10.129346+00:00
+
+ ## Bundesministerium für Bildung, Wissenschaft und Forschung
+ - [https://bmbwf.gv.at](https://bmbwf.gv.at)
+ - date_published: 2024-07-02T22:20:14.596957+00:00
+
+ ## Startseite
+ - [https://bmeia.gv.at](https://bmeia.gv.at)
+ - date_published: 2024-06-30T05:49:01.142198+00:00
+
+ ## Das Bundesministerium für Finanzen
+ - [https://bmf.gv.at](https://bmf.gv.at)
+ - date_published: 2024-05-11T07:10:18.851381+00:00
+
+ ## Chatbot Fred
+ - [https://chat.bmf.gv.at](https://chat.bmf.gv.at)
+ - date_published: 2024-07-13T11:26:53.902396+00:00
+
+ ## FinanzOnline Login
+ - [https://finanzonline.bmf.gv.at](https://finanzonline.bmf.gv.at)
+ - date_published: 2024-07-13T11:26:43.258874+00:00
+
+ ## Error
+ - [http://pendlerrechner.bmf.gv.at](http://pendlerrechner.bmf.gv.at)
+ - date_published: 2024-09-13T16:20:55.085728+00:00
+
+ ## Das Bundesministerium für Finanzen
+ - [https://service.bmf.gv.at](https://service.bmf.gv.at)
+ - date_published: 2024-07-13T11:26:46.510350+00:00
+
+ ## Familie - Bundeskanzleramt Österreich
+ - [https://bmfj.gv.at](https://bmfj.gv.at)
+ - date_published: 2024-06-25T22:51:27.606371+00:00
+
+ ## Bundesministerium für Justiz
+ - [https://bmj.gv.at](https://bmj.gv.at)
+ - date_published: 2024-07-13T11:35:15.043377+00:00
+
+ ## Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK)
+ - [https://www.bmk.gv.at](https://www.bmk.gv.at)
+ - date_published: 2025-01-20T23:45:07.876599+00:00
+
+ ## Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport - Startseite
+ - [https://bmkoes.gv.at](https://bmkoes.gv.at)
+ - date_published: 2024-09-02T15:47:57.895388+00:00
+
+ ## Bundesministerium für Bildung, Wissenschaft und Forschung
+ - [http://bmwf.gv.at](http://bmwf.gv.at)
+ - date_published: 2024-06-30T11:17:47.778856+00:00
+
+ ## Bundeskanzleramt der Republik Österreich - Startseite
+ - [https://bundeskanzleramt.gv.at](https://bundeskanzleramt.gv.at)
+ - date_published: 2024-07-02T22:20:02.885425+00:00
+
+ ## data.gv.at - offene Daten Österreichs – lesbar für Mensch und Maschine
+ - [https://data.gv.at](https://data.gv.at)
+ - date_published: 2024-09-13T16:19:18.274035+00:00
+
+ ## Willkommen auf der Website der Datenschutzbehörde
+ - [https://dsb.gv.at](https://dsb.gv.at)
+ - date_published: 2024-09-17T00:00:00+00:00
+
  ## Startseite - FMA Österreich
  - [http://fma.gv.at](http://fma.gv.at)
  - date_published: 2024-02-29T00:00:00+00:00
@@ -2193,6 +2261,10 @@
  - [http://janessilverlining.blogspot.com.au](http://janessilverlining.blogspot.com.au)
  - date_published: 2024-12-31T10:55:37.553561+00:00
 
+ ## Jeromy Anglim's Blog: Psychology and Statistics
+ - [http://jeromyanglim.blogspot.com.au](http://jeromyanglim.blogspot.com.au)
+ - date_published: 2025-01-24T23:44:14.784832+00:00
+
  ## Jigsaw's Thoughts
  - [http://jigsawsthoughts.blogspot.com.au](http://jigsawsthoughts.blogspot.com.au)
  - date_published: 2025-01-20T08:58:05.421280+00:00
@@ -3458,6 +3530,10 @@
  - [https://www.crimestopperswa.com.au](https://www.crimestopperswa.com.au)
  - date_published: 2025-01-21T16:19:02.180658+00:00
 
+ ## Critical Role Australia Store
+ - [https://shop.critrole.com.au](https://shop.critrole.com.au)
+ - date_published: 2025-01-24T15:49:27.498967+00:00
+
  ## CRN Australia - Connecting the Australian Channel
  - [https://crn.com.au](https://crn.com.au)
  - date_published: 2024-08-19T11:20:42.613204+00:00
@@ -3958,81 +4034,4 @@
  ## Motorbike Hire - Motorcycle Tours | EagleRider
  - [https://eaglerider.com.au](https://eaglerider.com.au)
  - date_published: 2024-07-13T02:19:36.168766+00:00
-
- ## Earthmoving Equipment Magazine
- - [https://earthmovers-magazine.com.au](https://earthmovers-magazine.com.au)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Sydney Royal Easter Show
- - [https://eastershow.com.au](https://eastershow.com.au)
- - date_published: 2024-06-16T20:58:18.366921+00:00
-
- ## Home - Eatability
- - [https://eatability.com.au](https://eatability.com.au)
- - date_published: 2024-10-21T04:14:54.719412+00:00
-
- ## eBay shopping cart
- - [https://cart.payments.ebay.com.au](https://cart.payments.ebay.com.au)
- - date_published: 2024-06-16T23:21:00.247326+00:00
-
- ## The eBay Community
- - [https://community.ebay.com.au](https://community.ebay.com.au)
- - date_published: 2024-06-16T23:20:58.972275+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://ebay.com.au](https://ebay.com.au)
- - date_published: 2024-10-15T11:10:16.775319+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://m.ebay.com.au](https://m.ebay.com.au)
- - date_published: 2024-10-15T11:10:19.754432+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://mesg.ebay.com.au](https://mesg.ebay.com.au)
- - date_published: 2024-06-16T23:20:51.460891+00:00
- - date_dead_since: 2024-12-29T16:53:39.306077+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://pages.ebay.com.au](https://pages.ebay.com.au)
- - date_published: 2024-06-16T23:20:43.277149+00:00
-
- ## Home | Seller Centre
- - [https://sellercentre.ebay.com.au](https://sellercentre.ebay.com.au)
- - date_published: 2024-06-16T23:20:45.531446+00:00
-
- ## Shop by Category | eBay
- - [http://shop.ebay.com.au](http://shop.ebay.com.au)
- - date_published: 2024-12-31T13:02:30.219617+00:00
-
- ## Security measure
- - [https://signin.ebay.com.au](https://signin.ebay.com.au)
- - date_published: 2024-06-16T23:20:47.724321+00:00
-
- ## eBay Stores HUB - eBay AU
- - [http://www.ebaystores.com.au](http://www.ebaystores.com.au)
- - date_published: 2024-12-21T03:49:24.293600+00:00
-
- ## Cierpliwości...
- - [http://ebgames.com.au](http://ebgames.com.au)
- - date_published: 2024-05-01T06:33:52.689782+00:00
-
- ## Ecogeneration
- - [https://ecogeneration.com.au](https://ecogeneration.com.au)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## eDigital - Digital Marketing & Content Strategy Agency | Social Media Training | SEO Company | Tips | Logos | Templates | Sydney, Australia - eDigital Agency
- - [https://www.edigitalagency.com.au](https://www.edigitalagency.com.au)
- - date_published: 2024-12-22T08:37:24.404763+00:00
-
- ## EF Australia
- - [https://ef-australia.com.au](https://ef-australia.com.au)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Finance Jobs, Banking and Tech Jobs - Australia - eFinancialCareers
- - [https://efinancialcareers.com.au](https://efinancialcareers.com.au)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Efront Digital Melbourne
- - [https://efront.com.au](https://efront.com.au)
- - date_published: 2024-09-29T20:39:59.167084+00:00
 

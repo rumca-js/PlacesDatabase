@@ -1,3 +1,223 @@
+ ## Energy Data Hackdays 2024
+ - [http://hack.opendata.ch](http://hack.opendata.ch)
+ - date_published: 2024-09-12T14:50:31.631009+00:00
+
+ ## make.opendata.ch
+ - [http://make.opendata.ch](http://make.opendata.ch)
+ - date_published: 2024-09-12T14:50:34.420463+00:00
+
+ ## Home – Opendata.ch
+ - [https://opendata.ch](https://opendata.ch)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Opendata.ch
+ - [https://tickets.opendata.ch](https://tickets.opendata.ch)
+ - date_published: 2024-09-12T14:50:43.582531+00:00
+
+ ## Open Doors - Unterstützung weltweit
+ - [https://www.opendoors.ch](https://www.opendoors.ch)
+ - date_published: 2024-07-08T12:20:30.292745+00:00
+
+ ## OpenOlitor – CSAs einfacher organisieren
+ - [http://oo2018.open-olitor.ch](http://oo2018.open-olitor.ch)
+ - date_published: 2024-10-31T05:35:34.732882+00:00
+
+ ## Home
+ - [https://www.opernhaus.ch](https://www.opernhaus.ch)
+ - date_published: 2024-07-20T12:04:28.105984+00:00
+
+ ## O'Brien & Partners '
+ - [https://opsa.ch](https://opsa.ch)
+ - date_published: 2021-12-09T10:42:58+00:00
+
+ ## Sign in - Matomo
+ - [https://library-ethz.opsone-analytics.ch](https://library-ethz.opsone-analytics.ch)
+ - date_published: 2024-07-21T06:18:29.372282+00:00
+
+ ## Sign in - Matomo
+ - [https://opendata.opsone-analytics.ch](https://opendata.opsone-analytics.ch)
+ - date_published: 2024-06-12T06:02:48.280987+00:00
+
+ ## Sign in - Matomo
+ - [https://publica.opsone-analytics.ch](https://publica.opsone-analytics.ch)
+ - date_published: 2024-07-16T22:14:58.848013+00:00
+
+ ## Sign in - Matomo
+ - [https://swissmadesoftware.opsone-analytics.ch](https://swissmadesoftware.opsone-analytics.ch)
+ - date_published: 2024-09-18T14:53:39.939546+00:00
+
+ ## Optimo
+ - [https://optimo.ch](https://optimo.ch)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## Willkommen  |  Optor AG - Optimierungsspezialisten
+ - [https://optor.ch](https://optor.ch)
+ - date_published: 2024-05-01T03:47:44.359206+00:00
+
+ ## Opus One
+ - [https://www.opus-one.ch](https://www.opus-one.ch)
+ - date_published: 2024-07-03T06:43:14.024535+00:00
+
+ ## Myant X
+ - [http://www.osmotex.ch](http://www.osmotex.ch)
+ - date_published: 2024-07-11T13:07:05.835997+00:00
+
+ ## raumdigital: Blog Digitalisierung und Raum
+ - [https://raumdigital.ost.ch](https://raumdigital.ost.ch)
+ - date_published: 2024-12-10T17:17:57.994078+00:00
+
+ ## OST – Ostschweizer Fachhochschule
+ - [https://www.ost.ch](https://www.ost.ch)
+ - date_published: 2024-06-22T14:01:02.914702+00:00
+
+ ## Ihr Online-Portal für Immobilien | osthome
+ - [https://www.osthome.ch](https://www.osthome.ch)
+ - date_published: 2024-06-22T05:00:23+00:00
+
+ ## Ovidiu Cherecheș
+ - [https://ovidiu.ch](https://ovidiu.ch)
+ - date_published: 2024-01-03T01:13:12.518362+00:00
+
+ ## Homepage
+ - [https://owlper.ch](https://owlper.ch)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## paedubucher.ch
+ - [https://paedubucher.ch](https://paedubucher.ch)
+ - date_published: 2023-10-25T12:14:08.646235+00:00
+
+ ## Pages24 - Das Online-Marketing-Netzwerk für KMUs, Selbstständige und Freiberufler
+ - [https://www.pages24.ch](https://www.pages24.ch)
+ - date_published: 2020-04-04T00:00:00+00:00
+
+ ## Welcome to your Strapi app
+ - [https://admin.paixon.ch](https://admin.paixon.ch)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Die Schweizer Voice- und Chatbot Experten | Paixon
+ - [https://paixon.ch](https://paixon.ch)
+ - date_published: 2024-04-11T09:04:06+00:00
+
+ ## Mettre à jour l'application mobile | Paléo
+ - [http://app.paleo.ch](http://app.paleo.ch)
+ - date_published: 2024-07-01T11:53:46+00:00
+
+ ## Location de matériel | Paléo - location de matériel
+ - [https://location.paleo.ch](https://location.paleo.ch)
+ - date_published: 2024-07-03T06:43:20.142501+00:00
+
+ ## Paléo Festival Nyon - Merchandising
+ - [https://shop.paleo.ch](https://shop.paleo.ch)
+ - date_published: 2024-07-03T06:43:32.127709+00:00
+
+ ## Home | Paléo
+ - [https://yeah.paleo.ch](https://yeah.paleo.ch)
+ - date_published: 2024-05-08T00:40:11.152226+00:00
+
+ ## Babypflege, Baby und die ganze Babywelt bei Pampers
+ - [https://www.pampers.ch](https://www.pampers.ch)
+ - date_published: 2024-10-28T22:48:24+00:00
+
+ ## Papers - Web3 Venture Studio
+ - [https://papers.ch](https://papers.ch)
+ - date_published: 2025-01-20T11:36:25.841706+00:00
+
+ ## Swiss Parliament
+ - [http://www.parlament.ch](http://www.parlament.ch)
+ - date_published: 2024-06-18T14:29:57.216824+00:00
+
+ ## Bundeshaus Bern | Palais du Parlement Berne | Palazzo del Parlamento Berna | Parliament Building Bern
+ - [http://www.parliament-building.ch](http://www.parliament-building.ch)
+ - date_published: 2024-10-22T09:01:09.944559+00:00
+
+ ## Startpage
+ - [https://pasquart.ch](https://pasquart.ch)
+ - date_published: 2024-06-14T11:59:21.778755+00:00
+
+ ## Patrice's Weblog
+ - [https://weblog.patrice.ch](https://weblog.patrice.ch)
+ - date_published: 2022-11-10T18:58:42+00:00
+
+ ## Accueil
+ - [https://www.payot.ch](https://www.payot.ch)
+ - date_published: 2024-09-05T18:07:38.285915+00:00
+
+ ## Home
+ - [https://pbat.ch](https://pbat.ch)
+ - date_published: 2024-08-02T15:13:06+00:00
+
+ ## PC Engines home
+ - [https://pcengines.ch](https://pcengines.ch)
+ - date_published: 2023-05-19T08:00:06+00:00
+
+ ## Die Schweizer Plattform für Computer, Smartphones und Multimedia
+ - [https://www.pctipp.ch](https://www.pctipp.ch)
+ - date_published: 2024-07-11T10:32:42.470185+00:00
+
+ ## Perspectives pour le territoire
+ - [https://vd.pdcn.ch](https://vd.pdcn.ch)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Bienvenue au meilleur emplacement!
+ - [https://pension-bienvenue.ch](https://pension-bienvenue.ch)
+ - date_published: 2024-05-12T07:16:58.689765+00:00
+
+ ## Pentoo
+ - [https://www.pentoo.ch](https://www.pentoo.ch)
+ - date_published: 2022-07-25T17:05:34+00:00
+
+ ## Invidious - search
+ - [https://invidious.perennialte.ch](https://invidious.perennialte.ch)
+ - date_published: 2024-06-22T13:21:59.801422+00:00
+
+ ## PERI AG - Die Schalungs- und Gerüstspezialisten
+ - [https://www.peri.ch](https://www.peri.ch)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Zukunft des HR-Managements
+ - [https://www.personal-schweiz.ch](https://www.personal-schweiz.ch)
+ - date_published: 2024-07-21T05:48:23.688611+00:00
+
+ ## Personio. The People Operating System.
+ - [https://www.personio.ch](https://www.personio.ch)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Peter Hauser
+ - [http://peterhauser.ch](http://peterhauser.ch)
+ - date_published: 2024-10-29T13:48:46.729235+00:00
+
+ ## Associazione artistica PETRUSKA – associazione culturale svizzera senza scopo di lucro
+ - [https://petruska.ch](https://petruska.ch)
+ - date_published: 2024-07-14T19:42:41.569159+00:00
+
+ ## PETZI Swiss federation of music venues and festivals
+ - [https://www.petzi.ch](https://www.petzi.ch)
+ - date_published: 2025-01-15T12:46:34.900956+00:00
+
+ ## pfych
+ - [https://pfy.ch](https://pfy.ch)
+ - date_published: 2024-08-05T22:55:39+00:00
+
+ ## Pharmamas Blog
+ - [http://pharmama.ch](http://pharmama.ch)
+ - date_published: 2025-01-16T21:23:44.189914+00:00
+
+ ## Home
+ - [http://www.pharmaziemuseum.ch](http://www.pharmaziemuseum.ch)
+ - date_published: 2024-06-24T09:50:23.111571+00:00
+
+ ## Philipp Schaerer
+ - [https://philippschaerer.ch](https://philippschaerer.ch)
+ - date_published: 2024-08-29T00:00:00+00:00
+
+ ## Nachhaltige LED-Beleuchtungslösungen | Philips lighting CH
+ - [https://lighting.philips.ch](https://lighting.philips.ch)
+ - date_published: 2024-10-30T15:17:08+00:00
+
+ ## Philips Schweiz | Offizielle Webseite
+ - [https://www.philips.ch](https://www.philips.ch)
+ - date_published: 2024-10-30T04:04:34+00:00
+
  ## glorya – Login
  - [https://aai-login.phnmsbern.ch](https://aai-login.phnmsbern.ch)
  - date_published: 2024-07-21T05:16:24.916385+00:00
@@ -3798,225 +4018,4 @@ Fakultät | Universität Basel
  ## Rocket.Chat : Une plateforme de communication en laquelle vous pouvez avoir entièrement confiance
  - [https://fr.rocket.chat](https://fr.rocket.chat)
  - date_published: 2024-05-13T00:00:00+00:00
-
- ## Rocket.Chat Marketplace Publisher
- - [https://marketplace.rocket.chat](https://marketplace.rocket.chat)
- - date_published: 2024-05-13T21:25:12+00:00
-
- ## Rocket.Chat
- - [https://open.rocket.chat](https://open.rocket.chat)
- - date_published: 2024-05-14T04:01:17.606195+00:00
-
- ## Owncast
- - [https://owncast.rocket.chat](https://owncast.rocket.chat)
- - date_published: 2024-05-14T03:53:04.987253+00:00
-
- ## Rocket.Chat: a plataforma de comunicação em que você pode confiar plenamente
- - [https://pt-br.rocket.chat](https://pt-br.rocket.chat)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Rocket.Chat: Communications Platform You Can Fully Trust
- - [https://rocket.chat](https://rocket.chat)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Rory - Your Personal Journaling & Happiness AI
- - [https://rory.chat](https://rory.chat)
- - date_published: 2024-09-13T20:25:10.783469+00:00
-
- ## Sale Whale | AI-Powered Sales Rep Chatbot
- - [https://salewhale.chat](https://salewhale.chat)
- - date_published: 2024-06-19T18:48:04.103761+00:00
-
- ## Mattermost
- - [https://scenecity.chat](https://scenecity.chat)
- - date_published: 2024-04-12T14:10:05+00:00
-
- ## SchildiChat
- - [https://app.schildi.chat](https://app.schildi.chat)
- - date_published: 2024-02-26T18:52:41+00:00
-
- ## SchildiChat
- - [https://schildi.chat](https://schildi.chat)
- - date_published: 2024-03-08T10:16:16+00:00
-
- ## SEO.chat
- - [https://seo.chat](https://seo.chat)
- - date_published: 2024-07-20T03:02:22.592298+00:00
-
- ## SimpleX Chat: private and secure messenger without any user IDs (not even random)
- - [https://simplex.chat](https://simplex.chat)
- - date_published: 2023-10-25T12:15:07.475258+00:00
-
- ## Create Your Own No-code ChatGPT Chatbot in Minutes
- - [https://simplified.chat](https://simplified.chat)
- - date_published: 2024-10-30T04:19:21+00:00
-
- ## Join the SKALE Discord Server!
- - [https://skale.chat](https://skale.chat)
- - date_published: 2024-09-20T21:55:59+00:00
-
- ## Sopel - The Python IRC Bot - Sopel
- - [https://sopel.chat](https://sopel.chat)
- - date_published: 2024-07-17T22:16:02.332899+00:00
-
- ## SpatialChat
- - [https://app.spatial.chat](https://app.spatial.chat)
- - date_published: 2024-04-30T06:15:47.073284+00:00
-
- ## SpatialChat Blog
- - [https://blog.spatial.chat](https://blog.spatial.chat)
- - date_published: 2023-10-25T12:15:11.139856+00:00
-
- ## SpatialChat Center
- - [https://how.spatial.chat](https://how.spatial.chat)
- - date_published: 2024-04-30T06:15:39.758910+00:00
-
- ## SpatialChat Community
- - [https://meta.spatial.chat](https://meta.spatial.chat)
- - date_published: 2024-09-05T23:41:09.186586+00:00
-
- ## SpatialChat — Simple way to deliver engaging video meetings.
- - [https://spatial.chat](https://spatial.chat)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## GitHub Discussions · Developer Collaboration & Communication Tool ·  GitHub
- - [https://spectrum.chat](https://spectrum.chat)
- - date_published: 2024-05-01T02:17:16.368171+00:00
-
- ## Own Your Network
- - [https://sphinx.chat](https://sphinx.chat)
- - date_published: 2025-01-01T21:45:58.730640+00:00
-
- ## Join the Stacks Discord Server!
- - [https://stacks.chat](https://stacks.chat)
- - date_published: 2025-01-14T22:13:44.670869+00:00
-
- ## Your AI Dating Wingman
- - [https://swoon.chat](https://swoon.chat)
- - date_published: 2024-01-25T04:21:21+00:00
-
- ## Xoilac TV – Trực Tiếp Bóng Đá – Xem Bóng Đá Xôi Lạc TV
- - [https://taffy.chat](https://taffy.chat)
- - date_published: 2024-07-16T13:58:34+00:00
-
- ## ТамТам - чаты и каналы
- - [https://tamtam.chat](https://tamtam.chat)
- - date_published: 2024-06-29T13:36:20.205539+00:00
-
- ## A virtual office for remote teams
- - [https://tandem.chat](https://tandem.chat)
- - date_published: 2024-08-19T15:15:42.341282+00:00
-
- ## The Lounge
- - [https://demo.thelounge.chat](https://demo.thelounge.chat)
- - date_published: 2024-06-19T22:13:42.793104+00:00
-
- ## The Lounge
- - [https://thelounge.chat](https://thelounge.chat)
- - date_published: 2024-06-19T22:21:34.571327+00:00
-
- ## ~chat irc quote database
- - [https://quotes.tilde.chat](https://quotes.tilde.chat)
- - date_published: 2024-07-13T02:12:21.191134+00:00
-
- ## tilde.chat | irc network for tildes
- - [https://tilde.chat](https://tilde.chat)
- - date_published: 2024-05-10T06:55:17.711948+00:00
-
- ## tiptap.chat
- - [https://tiptap.chat](https://tiptap.chat)
- - date_published: 2024-06-22T15:14:14.219592+00:00
-
- ## Tox Blog – News regarding the Tox Project
- - [https://blog.tox.chat](https://blog.tox.chat)
- - date_published: 2024-09-14T08:59:57.510614+00:00
-
- ## lists.tox.chat Mailing Lists
- - [https://lists.tox.chat](https://lists.tox.chat)
- - date_published: 2024-09-14T08:59:59.620368+00:00
-
- ## A New Kind of Instant Messaging
- - [https://tox.chat](https://tox.chat)
- - date_published: 2024-03-31T03:09:43+00:00
-
- ## start - Tox Wiki
- - [https://wiki.tox.chat](https://wiki.tox.chat)
- - date_published: 2024-09-14T08:59:52.530214+00:00
-
- ## Unleashed Chat
- - [https://unleashed.chat](https://unleashed.chat)
- - date_published: 2024-05-25T01:40:54+00:00
-
- ## WIP
- - [https://wip.chat](https://wip.chat)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Wiz.chat | Chat with your favorite characters.
- - [https://wiz.chat](https://wiz.chat)
- - date_published: 2024-06-19T19:19:48.162064+00:00
-
- ## WP.Chat
- - [https://wp.chat](https://wp.chat)
- - date_published: 2025-01-17T17:39:26.256739+00:00
-
- ## ChatWP - The WordPress docs chatbot
- - [https://wpdocs.chat](https://wpdocs.chat)
- - date_published: 2024-06-19T21:07:11.371081+00:00
-
- ## Chat via XMTP
- - [https://demo.xmtp.chat](https://demo.xmtp.chat)
- - date_published: 2024-09-21T23:48:20.110557+00:00
-
- ## Chat via XMTP
- - [https://xmtp.chat](https://xmtp.chat)
- - date_published: 2024-09-04T12:28:25.572143+00:00
-
- ## YouGov Chat - What The World Thinks
- - [https://yougov.chat](https://yougov.chat)
- - date_published: 2024-05-10T05:11:26.409380+00:00
-
- ## benoit bonnemaison-fitte
- - [https://bonnefrite.cheap](https://bonnefrite.cheap)
- - date_published: 2024-07-13T02:34:19.010702+00:00
-
- ## EarthDAO
- - [https://earth.cheap](https://earth.cheap)
- - date_published: 2021-12-17T00:49:33+00:00
-
- ## Fast Good Cheap
- - [https://fastgood.cheap](https://fastgood.cheap)
- - date_published: 2021-08-19T17:56:26+00:00
-
- ## The "Cheap" Web
- - [https://potato.cheap](https://potato.cheap)
- - date_published: 2023-12-18T12:06:07+00:00
- - tags: ['personal']
-
- ## .Christmas Domain Names | The .Christmas Registry
- - [https://nic.christmas](https://nic.christmas)
- - date_published: 2024-10-17T15:03:45.772479+00:00
-
- ## .Christmas Domain Names
- - [https://xyz.christmas](https://xyz.christmas)
- - date_published: 2024-06-17T07:44:20.552363+00:00
-
- ## Find Apps for Work & Play - Google Chromebooks
- - [https://apps.chrome](https://apps.chrome)
- - date_published: 2024-06-26T04:30:00+00:00
-
- ## Cathode Church
- - [https://cathode.church](https://cathode.church)
- - date_published: 2024-12-12T09:49:02.118815+00:00
-
- ## Home
- - [http://www.des.church](http://www.des.church)
- - date_published: 2024-08-06T09:15:08+00:00
-
- ## Door Church
- - [https://door.church](https://door.church)
- - date_published: 2024-05-08T10:22:10.615388+00:00
-
- ## Dubbo Presbyterian Church - Home
- - [https://dubbo.church](https://dubbo.church)
- - date_published: 2024-09-18T22:04:23.944669+00:00
 

@@ -1,3 +1,117 @@
+ ## codingkaiser.blog
+ - [http://codingkaiser.blog](http://codingkaiser.blog)
+ - date_published: 2023-10-25T11:29:52.059875+00:00
+ - date_dead_since: 2025-01-04T20:56:18.747552+00:00
+
+ ## codingkaiser.blog
+ - [http://ww11.codingkaiser.blog](http://ww11.codingkaiser.blog)
+ - date_published: 2024-08-19T12:35:49.205954+00:00
+ - date_dead_since: 2025-01-04T20:56:18.945316+00:00
+
+ ## From a technical expert to a leader ☕️🛫
+ - [https://coffeejourneys.blog](https://coffeejourneys.blog)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Cole's Blog
+ - [https://coleb.blog](https://coleb.blog)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Colin Walker — Home
+ - [https://colinwalker.blog](https://colinwalker.blog)
+ - date_published: 2023-11-20T07:44:38.276818+00:00
+ - tags: ['personal']
+
+ ## Colonizing Animals
+ - [https://colonizinganimals.blog](https://colonizinganimals.blog)
+ - date_published: 2024-10-29T18:23:25.588254+00:00
+
+ ## Comparing Notes
+ - [https://comparingnotes.blog](https://comparingnotes.blog)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Koin50 : Situs Bandar Favorite 4D 3D 2D Terpercaya Full Pasti Lunas
+ - [https://compiled.blog](https://compiled.blog)
+ - date_published: 2024-06-20T06:01:33.623231+00:00
+ - date_dead_since: 2025-01-04T20:56:28.869666+00:00
+
+ ## (no title)
+ - [https://components4developers.blog](https://components4developers.blog)
+ - date_published: 2024-10-16T10:51:34.493556+00:00
+
+ ## ML and robotics notes | Tutorials and implementations of machine learning and robotics algorithms.
+ - [https://comsci.blog](https://comsci.blog)
+ - date_published: 2023-09-19T13:33:35+00:00
+
+ ## connectedcircuits
+ - [https://connectedcircuits.blog](https://connectedcircuits.blog)
+ - date_published: 2024-05-01T03:56:17.981018+00:00
+
+ ## https://contrarianliving.blog
+ - [https://contrarianliving.blog](https://contrarianliving.blog)
+ - date_published: 2024-01-26T22:22:59.653234+00:00
+
+ ## cool as heck
+ - [https://cool-as-heck.blog](https://cool-as-heck.blog)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Counting From Zero
+ - [https://countingfromzero.blog](https://countingfromzero.blog)
+ - date_published: 2025-01-01T20:01:48.493709+00:00
+
+ ## crazy-type.blog
+ - [https://crazy-type.blog](https://crazy-type.blog)
+ - date_published: 2024-07-15T11:30:09+00:00
+
+ ## Critique sociale du féminisme
+ - [https://critiquedufeminisme.blog](https://critiquedufeminisme.blog)
+ - date_published: 2024-12-23T19:59:38.339352+00:00
+
+ ## Mike Crittenden
+ - [https://critter.blog](https://critter.blog)
+ - date_published: 2024-06-21T19:30:48+00:00
+
+ ## nico’s blog · Job searching in 2024 is horribly broken
+ - [https://cropp.blog](https://cropp.blog)
+ - date_published: 2024-08-08T12:48:27.718327+00:00
+
+ ## CROSSVERTISE BLOG
+ - [https://crossvertise.blog](https://crossvertise.blog)
+ - date_published: 2024-06-25T02:52:36+00:00
+
+ ## CS 007: Personal Finance for Engineers | Stanford University 2017-22 (6th Year)
+ - [https://cs007.blog](https://cs007.blog)
+ - date_published: 2023-10-25T11:59:58.340140+00:00
+
+ ## Ctrl blog by Daniel Aleksandersen
+ - [https://ctrl.blog](https://ctrl.blog)
+ - date_published: 2023-10-25T09:01:41.317387+00:00
+ - tags: ['personal']
+
+ ## Ctrl blog newsletter delivery system
+ - [https://email.ctrl.blog](https://email.ctrl.blog)
+ - date_published: 2024-07-02T19:04:33.119754+00:00
+
+ ## Ctrl blog syndication server
+ - [https://feed.ctrl.blog](https://feed.ctrl.blog)
+ - date_published: 2021-06-02T12:19:40+00:00
+
+ ## Ctrl blog search
+ - [https://search.ctrl.blog](https://search.ctrl.blog)
+ - date_published: 2024-07-20T03:09:35.011509+00:00
+
+ ## Cyclostationary Signal Processing – Understanding and Using the Statistics of Communication Signals
+ - [https://cyclostationary.blog](https://cyclostationary.blog)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## Dagan.Blog – Education Futurist
+ - [https://dagan.blog](https://dagan.blog)
+ - date_published: 2024-01-09T02:26:37.338771+00:00
+ - tags: ['personal']
+
+ ## The Data to Value Blog
+ - [https://datatovalue.blog](https://datatovalue.blog)
+ - date_published: 2025-01-23T18:55:43.375367+00:00
+
  ## Da Techguy's (no longer backup) Blog
  - [https://datechguyblog.blog](https://datechguyblog.blog)
  - date_published: 2024-07-04T01:29:42+00:00
@@ -2682,6 +2796,10 @@
  - [http://www.salasaopaulo.art.br](http://www.salasaopaulo.art.br)
  - date_published: 2024-12-23T21:03:56.254328+00:00
 
+ ## seLecT
+ - [https://select.art.br](https://select.art.br)
+ - date_published: 2025-01-24T22:12:43.124671+00:00
+
  ## Transparência Bahia - Home
  - [http://www.transparencia.ba.gov.br](http://www.transparencia.ba.gov.br)
  - date_published: 2024-12-15T12:30:27+00:00
@@ -3961,116 +4079,4 @@ Educação
  ## Soluções para Agronegócios
  - [http://agrosatelite.com.br](http://agrosatelite.com.br)
  - date_published: 2024-07-26T00:00:00+00:00
-
- ## Airbnb | Locações por temporada, chalés, casas de praia e muito mais
- - [https://airbnb.com.br](https://airbnb.com.br)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Alefe Souza | Training and Consulting
- - [https://alefesouza.com.br](https://alefesouza.com.br)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## além da lenda
- - [http://www.alemdalenda.com.br](http://www.alemdalenda.com.br)
- - date_published: 2024-08-16T11:44:49+00:00
-
- ## Alguma Poesia
- - [http://www.algumapoesia.com.br](http://www.algumapoesia.com.br)
- - date_published: 2024-12-26T14:55:45+00:00
-
- ## Aliança - Especialista em Logística Integrada
- - [https://www.alianca.com.br](https://www.alianca.com.br)
- - date_published: 2024-05-04T13:50:03.029166+00:00
-
- ## Plano de saúde empresarial da Alice
- - [https://alice.com.br](https://alice.com.br)
- - date_published: 2024-10-25T19:47:16+00:00
-
- ## Plano de saúde empresarial da Alice
- - [https://staging.alice.com.br](https://staging.alice.com.br)
- - date_published: 2024-10-26T15:29:08+00:00
-
- ## Home
- - [https://www.allanramos.com.br](https://www.allanramos.com.br)
- - date_published: 2024-11-15T18:05:30+00:00
-
- ## Home - Allog
- - [https://www.allog.com.br](https://www.allog.com.br)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Principal - AlmaPreta
- - [https://almapreta.com.br](https://almapreta.com.br)
- - date_published: 2025-01-15T20:20:18.434288+00:00
-
- ## Editora Alta Books – O seu portal de conhecimento
- - [http://www.altabooks.com.br](http://www.altabooks.com.br)
- - date_published: 2024-08-02T18:45:04.442765+00:00
-
- ## Altruísmo Eficaz
- - [https://altruismoeficaz.com.br](https://altruismoeficaz.com.br)
- - date_published: 2024-06-29T22:26:31.275309+00:00
-
- ## Amazon.com.br | Tudo pra você, de A a Z.
- - [https://amazon.com.br](https://amazon.com.br)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## Portal de Associados da Amazon.com.br
- - [https://associados.amazon.com.br](https://associados.amazon.com.br)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Proteção de marca na Amazon: Proteja a marca que você desenvolveu
- - [https://brandservices.amazon.com.br](https://brandservices.amazon.com.br)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Amazon Kindle: sua biblioteca pessoal gratuita que você pode levar para qualquer lugar
- - [https://ler.amazon.com.br](https://ler.amazon.com.br)
- - date_published: 2024-06-24T04:14:40.378358+00:00
-
- ## Comece a vender na Amazon com mensalidade GRÁTIS por 1 ano | Venda na Amazon
- - [https://venda.amazon.com.br](https://venda.amazon.com.br)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## AMDB Soluções Digitais
- - [https://www.amdb.com.br](https://www.amdb.com.br)
- - date_published: 2019-03-01T14:30:28+00:00
-
- ## Americanas - passou, cestou.
- - [https://www.americanas.com.br](https://www.americanas.com.br)
- - date_published: 2024-11-08T13:04:50.529620+00:00
-
- ## Home
- - [https://ametek.com.br](https://ametek.com.br)
- - date_published: 2024-06-15T10:44:33.059141+00:00
-
- ## AnaMaria Receitas - Receitas Testadas e Aprovadas
- - [https://anamariareceitas.com.br](https://anamariareceitas.com.br)
- - date_published: 2024-06-28T15:30:58+00:00
-
- ## Institucional – ANBIMA
- - [https://www.anbima.com.br](https://www.anbima.com.br)
- - date_published: 2024-09-29T20:20:29.142748+00:00
-
- ## Annablume
- - [http://www.annablume.com.br](http://www.annablume.com.br)
- - date_published: 2024-07-12T20:44:08.355203+00:00
-
- ## ANSA Brasil
- - [https://ansabrasil.com.br](https://ansabrasil.com.br)
- - date_published: 2024-05-06T15:14:38.371552+00:00
-
- ## Loja AOC
- - [https://www.aoc.com.br](https://www.aoc.com.br)
- - date_published: 2024-06-19T23:49:15.120224+00:00
-
- ## HOME - Apema
- - [https://apema.com.br](https://apema.com.br)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Home | ApexBrasil
- - [https://apexbrasil.com.br](https://apexbrasil.com.br)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Melhores Casas de Apostas e Bônus do Brasil 2024
- - [https://apostasebonus.com.br](https://apostasebonus.com.br)
- - date_published: 2024-06-25T00:00:00+00:00
 
