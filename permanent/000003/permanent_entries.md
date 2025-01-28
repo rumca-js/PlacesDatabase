@@ -1,3 +1,55 @@
+ ## Conversation Intelligence for Contact Centers | Observe.AI
+ - [https://observe.ai](https://observe.ai)
+ - date_published: 2024-10-30T17:07:06+00:00
+
+ ## Conversation Intelligence for Contact Centers | Observe.AI
+ - [https://pages.observe.ai](https://pages.observe.ai)
+ - date_published: 2024-10-30T17:07:06+00:00
+
+ ## Introduction
+ - [https://developers.obviously.ai](https://developers.obviously.ai)
+ - date_published: 2024-10-30T21:21:14.538641+00:00
+
+ ## Data Science without Code | Obviously AI
+ - [https://obviously.ai](https://obviously.ai)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Occam AI
+ - [https://occam.ai](https://occam.ai)
+ - date_published: 2024-06-22T09:51:08.498296+00:00
+
+ ## Efficient, Customizable, and Reliable GenAI Inferences | OctoAI
+ - [https://octo.ai](https://octo.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## GPT-powered AI chatbot for eCommerce SMEs
+ - [https://octocom.ai](https://octocom.ai)
+ - date_published: 2024-06-19T21:10:39.377134+00:00
+
+ ## Efficient, Customizable, and Reliable GenAI Inferences | OctoAI
+ - [https://octoml.ai](https://octoml.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Fast & Lightweight RPA tool | Octoparse RPA
+ - [https://octoparse.ai](https://octoparse.ai)
+ - date_published: 2024-09-03T23:45:26.025919+00:00
+
+ ## Oda Moodboard
+ - [https://moodboard.odastudio.ai](https://moodboard.odastudio.ai)
+ - date_published: 2024-06-19T19:34:51.468579+00:00
+
+ ## Добро пожаловать на сайт сообщества Open Data Science! — Open Data Science
+ - [https://ods.ai](https://ods.ai)
+ - date_published: 2024-06-14T14:32:25.861520+00:00
+
+ ## The OECD Artificial Intelligence Policy Observatory - OECD.AI
+ - [https://oecd.ai](https://oecd.ai)
+ - date_published: 2024-05-02T13:45:45.773562+00:00
+
+ ## A/B Testing is Dead.
+ - [https://offerfit.ai](https://offerfit.ai)
+ - date_published: 2024-10-14T11:50:01.649561+00:00
+
  ## Ohai.ai
  - [https://ohai.ai](https://ohai.ai)
  - date_published: 2024-07-09T19:30:53.882945+00:00
@@ -554,6 +606,10 @@
  ## Pgslot เว็บตรงที่แจกเครดิตฟรีมากที่สุด PGHENG99 พีจีสล็อตแตกหนัก
  - [https://pgheng99.ai](https://pgheng99.ai)
  - date_published: 2024-10-22T13:32:57.286796+00:00
+
+ ## PHARMA.AI
+ - [https://pharma.ai](https://pharma.ai)
+ - date_published: 2025-01-25T11:22:24.025686+00:00
 
  ## Home
  - [https://phasechange.ai](https://phasechange.ai)
@@ -1719,6 +1775,10 @@
  - date_published: 2024-12-15T08:46:57.308638+00:00
 
  ## Reality Defender — Deepfake Detection
+ - [https://app.realitydefender.ai](https://app.realitydefender.ai)
+ - date_published: 2025-01-25T11:17:51.624836+00:00
+
+ ## Reality Defender — Deepfake Detection
  - [https://www.realitydefender.ai](https://www.realitydefender.ai)
  - date_published: 2025-01-16T08:08:17.952132+00:00
 
@@ -1963,6 +2023,10 @@
  ## AI Music Creation and Music Learning Platform - Remusic
  - [https://remusic.ai](https://remusic.ai)
  - date_published: 2024-10-30T18:26:48.479735+00:00
+
+ ## Home
+ - [https://rendered.ai](https://rendered.ai)
+ - date_published: 2025-01-25T04:36:04.414308+00:00
 
  ## Rephrase.ai: Convert Text into Engaging AI Videos in Minutes
  - [https://www.rephrase.ai](https://www.rephrase.ai)
@@ -2894,6 +2958,14 @@
  - [http://sider.ai](http://sider.ai)
  - date_published: 2024-06-19T19:19:09.433730+00:00
 
+ ## SideShift AI - HELP
+ - [https://help.sideshift.ai](https://help.sideshift.ai)
+ - date_published: 2025-01-25T12:57:28.394404+00:00
+
+ ## SideShift Research - SideShift Research
+ - [https://research.sideshift.ai](https://research.sideshift.ai)
+ - date_published: 2025-01-25T12:57:29.236099+00:00
+
  ## SideShift.ai - Direct to Wallet Trading
  - [https://sideshift.ai](https://sideshift.ai)
  - date_published: 2025-01-12T10:02:24.503835+00:00
@@ -3050,6 +3122,10 @@
  ## Skild AI
  - [https://skild.ai](https://skild.ai)
  - date_published: 2024-12-15T08:14:02.814314+00:00
+
+ ## Skillora: Best AI Interviewer Tool - Interview with AI
+ - [https://skillora.ai](https://skillora.ai)
+ - date_published: 2025-01-25T08:50:56.796782+00:00
 
  ## SkimIt.ai - Get an ai generated summary of any article delivered to your inbox
  - [https://skimit.ai](https://skimit.ai)
@@ -3967,82 +4043,4 @@
  ## Convert your code to different languages by AI  — Syntha AI
  - [https://syntha.ai](https://syntha.ai)
  - date_published: 2024-12-23T15:00:24.277184+00:00
-
- ## Sizzle - Free AI tutor for everyone
- - [https://web.szl.ai](https://web.szl.ai)
- - date_published: 2024-09-02T10:07:14.635775+00:00
-
- ## Tabby Checkout
- - [https://checkout.tabby.ai](https://checkout.tabby.ai)
- - date_published: 2024-09-17T08:21:54+00:00
-
- ## TableTalk - a better way to interact with your database
- - [https://www.tabletalk.ai](https://www.tabletalk.ai)
- - date_published: 2024-05-11T14:12:34+00:00
- - date_dead_since: 2025-01-06T13:55:06.127061+00:00
-
- ## Aktana: Pharma/Life Sciences AI & Mobile Intelligence
- - [https://tact.ai](https://tact.ai)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Tacto. Das Einkaufsbetriebssystem für den Mittelstand.
- - [https://tacto.ai](https://tacto.ai)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Tagshop | Full-Funnel UGC Platform for eCommerce
- - [https://tagshop.ai](https://tagshop.ai)
- - date_published: 2024-12-16T09:36:01+00:00
-
- ## Talefy
- - [https://talefy.ai](https://talefy.ai)
- - date_published: 2024-06-14T08:55:13.726788+00:00
-
- ## TalkBerry - Your personal English tutor, powered by AI
- - [https://talkberry.ai](https://talkberry.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## AI Phone Automation for Better Patient Access
- - [https://talkie.ai](https://talkie.ai)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Talkio AI | Practice Language with AI
- - [https://www.talkio.ai](https://www.talkio.ai)
- - date_published: 2024-12-27T12:05:49.650312+00:00
-
- ## Talkpal - AI Language Teacher
- - [https://app.talkpal.ai](https://app.talkpal.ai)
- - date_published: 2024-10-30T16:37:36.828236+00:00
-
- ## AI Language Teacher - Talkpal
- - [https://talkpal.ai](https://talkpal.ai)
- - date_published: 2024-06-19T18:30:57+00:00
-
- ## Talpa Search | Talpa
- - [https://www.talpa.ai](https://www.talpa.ai)
- - date_published: 2024-10-30T06:43:26.157134+00:00
-
- ## Tammy AI
- - [https://tammy.ai](https://tammy.ai)
- - date_published: 2024-06-19T20:05:12.672295+00:00
- - date_dead_since: 2025-01-06T13:55:27.567790+00:00
-
- ## Creator Studio | TaoLabs.ai
- - [https://taolabs.ai](https://taolabs.ai)
- - date_published: 2024-08-18T06:14:15.091329+00:00
-
- ## tap4.ai
- - [https://tap4.ai](https://tap4.ai)
- - date_published: 2024-09-14T07:48:13.089563+00:00
-
- ## The Tara Blog - Product delivery and engineering operations
- - [https://blog.tara.ai](https://blog.tara.ai)
- - date_published: 2024-10-30T12:02:32.211728+00:00
-
- ## Tara AI | The AI Platform for Software Engineering Best Practices
- - [https://tara.ai](https://tara.ai)
- - date_published: 2024-05-29T18:44:35+00:00
-
- ## Tarot Master | Free Personalized Readings & Cosmic Insights
- - [https://app.tarotmaster.ai](https://app.tarotmaster.ai)
- - date_published: 2024-09-13T20:40:13.435299+00:00
 

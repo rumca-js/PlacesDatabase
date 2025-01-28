@@ -1,3 +1,81 @@
+ ## Sizzle - Free AI tutor for everyone
+ - [https://web.szl.ai](https://web.szl.ai)
+ - date_published: 2024-09-02T10:07:14.635775+00:00
+
+ ## Tabby Checkout
+ - [https://checkout.tabby.ai](https://checkout.tabby.ai)
+ - date_published: 2024-09-17T08:21:54+00:00
+
+ ## TableTalk - a better way to interact with your database
+ - [https://www.tabletalk.ai](https://www.tabletalk.ai)
+ - date_published: 2024-05-11T14:12:34+00:00
+ - date_dead_since: 2025-01-06T13:55:06.127061+00:00
+
+ ## Aktana: Pharma/Life Sciences AI & Mobile Intelligence
+ - [https://tact.ai](https://tact.ai)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Tacto. Das Einkaufsbetriebssystem für den Mittelstand.
+ - [https://tacto.ai](https://tacto.ai)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Tagshop | Full-Funnel UGC Platform for eCommerce
+ - [https://tagshop.ai](https://tagshop.ai)
+ - date_published: 2024-12-16T09:36:01+00:00
+
+ ## Talefy
+ - [https://talefy.ai](https://talefy.ai)
+ - date_published: 2024-06-14T08:55:13.726788+00:00
+
+ ## TalkBerry - Your personal English tutor, powered by AI
+ - [https://talkberry.ai](https://talkberry.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## AI Phone Automation for Better Patient Access
+ - [https://talkie.ai](https://talkie.ai)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Talkio AI | Practice Language with AI
+ - [https://www.talkio.ai](https://www.talkio.ai)
+ - date_published: 2024-12-27T12:05:49.650312+00:00
+
+ ## Talkpal - AI Language Teacher
+ - [https://app.talkpal.ai](https://app.talkpal.ai)
+ - date_published: 2024-10-30T16:37:36.828236+00:00
+
+ ## AI Language Teacher - Talkpal
+ - [https://talkpal.ai](https://talkpal.ai)
+ - date_published: 2024-06-19T18:30:57+00:00
+
+ ## Talpa Search | Talpa
+ - [https://www.talpa.ai](https://www.talpa.ai)
+ - date_published: 2024-10-30T06:43:26.157134+00:00
+
+ ## Tammy AI
+ - [https://tammy.ai](https://tammy.ai)
+ - date_published: 2024-06-19T20:05:12.672295+00:00
+ - date_dead_since: 2025-01-06T13:55:27.567790+00:00
+
+ ## Creator Studio | TaoLabs.ai
+ - [https://taolabs.ai](https://taolabs.ai)
+ - date_published: 2024-08-18T06:14:15.091329+00:00
+
+ ## tap4.ai
+ - [https://tap4.ai](https://tap4.ai)
+ - date_published: 2024-09-14T07:48:13.089563+00:00
+
+ ## The Tara Blog - Product delivery and engineering operations
+ - [https://blog.tara.ai](https://blog.tara.ai)
+ - date_published: 2024-10-30T12:02:32.211728+00:00
+
+ ## Tara AI | The AI Platform for Software Engineering Best Practices
+ - [https://tara.ai](https://tara.ai)
+ - date_published: 2024-05-29T18:44:35+00:00
+
+ ## Tarot Master | Free Personalized Readings & Cosmic Insights
+ - [https://app.tarotmaster.ai](https://app.tarotmaster.ai)
+ - date_published: 2024-09-13T20:40:13.435299+00:00
+
  ## Tarot Master | Chat With Your Personal AI Psychic
  - [https://tarotmaster.ai](https://tarotmaster.ai)
  - date_published: 2024-03-19T00:00:00+00:00
@@ -1840,6 +1918,10 @@ Creative Solutions
  - [https://wevo.ai](https://wevo.ai)
  - date_published: 2024-10-30T07:04:42.190777+00:00
 
+ ## WhatGPT - AI on your WhatsApp
+ - [https://www.whatgpt.ai](https://www.whatgpt.ai)
+ - date_published: 2025-01-25T08:47:25.148491+00:00
+
  ## What-the-Diff – AI-powered code review assistant
  - [http://app.whatthediff.ai](http://app.whatthediff.ai)
  - date_published: 2024-10-30T11:28:29.259848+00:00
@@ -2842,6 +2924,10 @@ Creative Solutions
  - [https://www.1lurer.am](https://www.1lurer.am)
  - date_published: 2024-10-12T19:09:48.414253+00:00
 
+ ## 🎖️ 1win բուքմեյքերական & Կազինո ᐈ Խաղադրույք առցանց
+ - [https://1win-bet.am](https://1win-bet.am)
+ - date_published: 2025-01-25T04:12:03.933900+00:00
+
  ## Abraham Williams
  - [https://abrah.am](https://abrah.am)
  - date_published: 2024-03-10T22:41:31+00:00
@@ -3565,6 +3651,10 @@ Creative Solutions
  - date_published: 2024-04-11T19:49:17+00:00
  - tags: ['web spam']
 
+ ## Science & Technology Angels Network (STAN)
+ - [https://www.stan.am](https://www.stan.am)
+ - date_published: 2025-01-25T09:31:15.223602+00:00
+
  ## Armenian Web Development Company - Armenian Web Design, Web Development, Graphic Design
  - [https://www.studio-one.am](https://www.studio-one.am)
  - date_published: 2025-01-22T00:50:07.932267+00:00
@@ -3903,6 +3993,10 @@ Creative Solutions
  - [https://amber.app](https://amber.app)
  - date_published: 2022-05-06T10:46:30+00:00
 
+ ## AmberApp Help Center
+ - [https://help.amber.app](https://help.amber.app)
+ - date_published: 2025-01-25T13:03:04.310776+00:00
+
  ## Show HN: Ambulate – Detailed Trip Planning
  - [https://ambulate.app](https://ambulate.app)
  - date_published: 2024-10-22T12:19:43+00:00
@@ -3916,6 +4010,10 @@ Creative Solutions
  - [https://amplosion.app](https://amplosion.app)
  - date_published: 2021-09-29T15:30:55+00:00
 
+ ## The Most Loved Shopify Analytics App | Analyzify
+ - [https://analyzify.app](https://analyzify.app)
+ - date_published: 2025-01-25T01:02:26.313283+00:00
+
  ## Version control for artists - Anchorpoint
  - [https://anchorpoint.app](https://anchorpoint.app)
  - date_published: 2025-01-21T23:21:04.050956+00:00
@@ -3927,100 +4025,4 @@ Creative Solutions
  ## Sign in - Matomo
  - [https://track.anchorpoint.app](https://track.anchorpoint.app)
  - date_published: 2025-01-21T23:20:46.985791+00:00
-
- ## Version control for artists - Anchorpoint
- - [https://www.anchorpoint.app](https://www.anchorpoint.app)
- - date_published: 2025-01-06T19:34:50+00:00
-
- ## Anduin Transactions
- - [http://dataroom.anduin.app](http://dataroom.anduin.app)
- - date_published: 2024-07-15T06:21:46.501224+00:00
-
- ## Anduin Transactions
- - [https://fundsub.anduin.app](https://fundsub.anduin.app)
- - date_published: 2024-07-15T06:21:43.796819+00:00
-
- ## Anduin Transactions
- - [https://sign.anduin.app](https://sign.anduin.app)
- - date_published: 2024-07-15T06:21:45.104619+00:00
-
- ## Angelfish • Private & Secure Personal Finance App For People Who Want Financial Freedom | Private & Secure Personal Finance App For People Who Want Financial Freedom!
- - [https://angelfish.app](https://angelfish.app)
- - date_published: 2023-10-25T11:45:39.444875+00:00
-
- ## Animagic
- - [https://animagic.app](https://animagic.app)
- - date_published: 2023-12-06T07:19:40+00:00
-
- ## AnnounceKit
- - [https://announcekit.app](https://announcekit.app)
- - date_published: 2024-04-30T00:29:18.393879+00:00
-
- ## AnnounceKit Product Updates
- - [https://changelog.announcekit.app](https://changelog.announcekit.app)
- - date_published: 2024-07-22T17:21:25.052813+00:00
-
- ## AnnounceKit Help Center
- - [https://help.announcekit.app](https://help.announcekit.app)
- - date_published: 2024-07-22T17:21:22.938446+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://img.announcekit.app](https://img.announcekit.app)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## AnnounceKit
- - [https://status.announcekit.app](https://status.announcekit.app)
- - date_published: 2024-07-22T17:21:27.531417+00:00
-
- ## Log in · Ans
- - [https://ans.app](https://ans.app)
- - date_published: 2024-10-31T14:08:01.425378+00:00
-
- ## AnTran.App - All Posts
- - [https://antran.app](https://antran.app)
- - date_published: 2024-06-19T07:47:51+00:00
-
- ## AnySummary - Summarize any file with AI.
- - [https://anysummary.app](https://anysummary.app)
- - date_published: 2024-10-30T15:31:50.063081+00:00
-
- ## Anytime Podcast Player
- - [https://anytimeplayer.app](https://anytimeplayer.app)
- - date_published: 2024-04-10T15:11:08+00:00
-
- ## AppBlock - Stay focused on iOS and Android
- - [https://appblock.app](https://appblock.app)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Approximated.app
- - [https://approximated.app](https://approximated.app)
- - date_published: 2024-06-18T17:17:44+00:00
-
- ## AQI Apps - Mobile, Tablet & TV | Air Quality Index
- - [https://aqi.app](https://aqi.app)
- - date_published: 2024-12-25T07:03:13+00:00
-
- ## Arcwise
- - [https://arcwise.app](https://arcwise.app)
- - date_published: 2024-05-08T17:00:09+00:00
-
- ## Article — Read & Write
- - [https://article.app](https://article.app)
- - date_published: 2025-01-07T14:37:48.974115+00:00
-
- ## Aryan Naraghi's personal website
- - [https://aryan.app](https://aryan.app)
- - date_published: 2024-07-23T23:28:12.744802+00:00
-
- ## Overview
- - [https://asknotion.app](https://asknotion.app)
- - date_published: 2024-06-19T20:55:50.398579+00:00
-
- ## Socrates - Summarize and explain any PDF or DOCX
- - [https://asksocrates.app](https://asksocrates.app)
- - date_published: 2024-06-11T07:21:53+00:00
-
- ## Free Online Apps for Most Popular File Formats
- - [https://products.aspose.app](https://products.aspose.app)
- - date_published: 2024-08-16T00:00:00+00:00
 

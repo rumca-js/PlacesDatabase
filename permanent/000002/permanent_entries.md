@@ -1,3 +1,43 @@
+ ## Chat with AI - GitMind Chat
+ - [https://gitmind.ai](https://gitmind.ai)
+ - date_published: 2024-12-11T11:05:33.170216+00:00
+
+ ## Gizmo is the easiest way to learn
+ - [https://gizmo.ai](https://gizmo.ai)
+ - date_published: 2024-08-19T12:09:08.040624+00:00
+
+ ## Login | GIZZMO.AI
+ - [https://app.gizzmo.ai](https://app.gizzmo.ai)
+ - date_published: 2024-09-14T07:44:41.108783+00:00
+
+ ## Home - Gizzmo Ai
+ - [https://gizzmo.ai](https://gizzmo.ai)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Glaive - Language models for all
+ - [https://glaive.ai](https://glaive.ai)
+ - date_published: 2024-10-04T04:56:04.152012+00:00
+
+ ## ChatGPT for teams
+ - [https://glama.ai](https://glama.ai)
+ - date_published: 2024-10-17T23:13:03.043559+00:00
+
+ ## Glean.ai | Accounts Payable Spend Intelligence
+ - [https://glean.ai](https://glean.ai)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Log in to Gleen AI to change settings and administer your Gleen AI chatbot | Gleen
+ - [https://app.gleen.ai](https://app.gleen.ai)
+ - date_published: 2025-01-09T17:05:38.784511+00:00
+
+ ## Gleen AI Chatbot & Shopping Assistant for eCommerce & customer support
+ - [https://gleen.ai](https://gleen.ai)
+ - date_published: 2025-01-23T08:15:26.063277+00:00
+
+ ## Gling
+ - [https://app.gling.ai](https://app.gling.ai)
+ - date_published: 2024-10-29T09:23:38+00:00
+
  ## Gling - AI Video Editing Software for YouTube
  - [https://gling.ai](https://gling.ai)
  - date_published: 2024-10-25T09:05:40+00:00
@@ -619,6 +659,10 @@
  ## Offline GPT Store 😉
  - [https://uneven-macaw-bef2.hony.ai](https://uneven-macaw-bef2.hony.ai)
  - date_published: 2024-01-24T17:05:23.757347+00:00
+
+ ## HookAds AI
+ - [https://hookads.ai](https://hookads.ai)
+ - date_published: 2025-01-25T08:50:17.022804+00:00
 
  ## Monetize Your Fashion Influence with HopShop - Earn Commissions Effortlessly
  - [https://hopshop.ai](https://hopshop.ai)
@@ -2291,9 +2335,17 @@
  - [https://www.lifecoachdaily.ai](https://www.lifecoachdaily.ai)
  - date_published: 2024-12-19T11:15:50.331172+00:00
 
+ ## Introduction | Lightchain AI
+ - [https://docs.lightchain.ai](https://docs.lightchain.ai)
+ - date_published: 2025-01-25T13:05:35.060162+00:00
+
  ## Lightchain Protocol AI - Lightchain.ai
  - [https://lightchain.ai](https://lightchain.ai)
  - date_published: 2025-01-12T10:21:26.207371+00:00
+
+ ## Lightchain Protocol AI – Medium
+ - [https://news.lightchain.ai](https://news.lightchain.ai)
+ - date_published: 2025-01-25T13:05:33.302965+00:00
 
  ## Lightning AI
  - [https://lightning.ai](https://lightning.ai)
@@ -3978,56 +4030,4 @@
  ## Por el conocimiento de la Inteligencia Artificial | Observatorio IA
  - [https://observatorio-ametic.ai](https://observatorio-ametic.ai)
  - date_published: 2024-09-09T22:02:12+00:00
-
- ## Conversation Intelligence for Contact Centers | Observe.AI
- - [https://observe.ai](https://observe.ai)
- - date_published: 2024-10-30T17:07:06+00:00
-
- ## Conversation Intelligence for Contact Centers | Observe.AI
- - [https://pages.observe.ai](https://pages.observe.ai)
- - date_published: 2024-10-30T17:07:06+00:00
-
- ## Introduction
- - [https://developers.obviously.ai](https://developers.obviously.ai)
- - date_published: 2024-10-30T21:21:14.538641+00:00
-
- ## Data Science without Code | Obviously AI
- - [https://obviously.ai](https://obviously.ai)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Occam AI
- - [https://occam.ai](https://occam.ai)
- - date_published: 2024-06-22T09:51:08.498296+00:00
-
- ## Efficient, Customizable, and Reliable GenAI Inferences | OctoAI
- - [https://octo.ai](https://octo.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## GPT-powered AI chatbot for eCommerce SMEs
- - [https://octocom.ai](https://octocom.ai)
- - date_published: 2024-06-19T21:10:39.377134+00:00
-
- ## Efficient, Customizable, and Reliable GenAI Inferences | OctoAI
- - [https://octoml.ai](https://octoml.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Fast & Lightweight RPA tool | Octoparse RPA
- - [https://octoparse.ai](https://octoparse.ai)
- - date_published: 2024-09-03T23:45:26.025919+00:00
-
- ## Oda Moodboard
- - [https://moodboard.odastudio.ai](https://moodboard.odastudio.ai)
- - date_published: 2024-06-19T19:34:51.468579+00:00
-
- ## Добро пожаловать на сайт сообщества Open Data Science! — Open Data Science
- - [https://ods.ai](https://ods.ai)
- - date_published: 2024-06-14T14:32:25.861520+00:00
-
- ## The OECD Artificial Intelligence Policy Observatory - OECD.AI
- - [https://oecd.ai](https://oecd.ai)
- - date_published: 2024-05-02T13:45:45.773562+00:00
-
- ## A/B Testing is Dead.
- - [https://offerfit.ai](https://offerfit.ai)
- - date_published: 2024-10-14T11:50:01.649561+00:00
 
