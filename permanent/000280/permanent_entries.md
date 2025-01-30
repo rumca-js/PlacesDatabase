@@ -1,3 +1,43 @@
+ ## Windermere Real Estate
+ - [https://windermere.com](https://windermere.com)
+ - date_published: 2024-05-01T04:40:28.448749+00:00
+
+ ## Winder.ai - Your Partner for Enterprise AI Implementation
+ - [https://winderresearch.com](https://winderresearch.com)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## WINDEV 2025, Integrated DevOps environment
+ - [https://www.windev.com](https://www.windev.com)
+ - date_published: 2025-01-22T04:54:14.724209+00:00
+
+ ## Windfreak Technologies, LLC | RF Testing Equipment & Accessories
+ - [https://windfreaktech.com](https://windfreaktech.com)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Wind Power - Marketplace - Jobs - Windindustry
+ - [https://www.windindustry.com](https://www.windindustry.com)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Winding Oak
+ - [http://www.windingoak.com](http://www.windingoak.com)
+ - date_published: 2022-03-12T15:06:23+00:00
+
+ ## Home - Windlab
+ - [https://www.windlab.com](https://www.windlab.com)
+ - date_published: 2024-07-02T02:27:58+00:00
+
+ ## Phil Windley's Technometria
+ - [https://windley.com](https://windley.com)
+ - date_published: 2024-05-01T03:43:47.614355+00:00
+
+ ## Windmill Help Center
+ - [https://support.windmillair.com](https://support.windmillair.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home | Windmill Air | Modern, Smart Air Care Designed for You
+ - [https://windmillair.com](https://windmillair.com)
+ - date_published: 2024-04-29T04:28:15.017540+00:00
+
  ## Industrial Manufacturing Marketing Agency | Windmill Strategy
  - [https://windmillstrategy.com](https://windmillstrategy.com)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -4007,45 +4047,4 @@ Other Wolfram Products
  ## Wolfram|Alpha: Making the world’s knowledge computable
  - [https://fr.wolframalpha.com](https://fr.wolframalpha.com)
  - date_published: 2024-06-17T12:14:07.975702+00:00
-
- ## Wolfram|Alpha: 世界の知識を計算可能にする
- - [https://ja.wolframalpha.com](https://ja.wolframalpha.com)
- - date_published: 2024-06-17T12:13:52.794817+00:00
-
- ## Wolfram|Alpha: Products
- - [https://products.wolframalpha.com](https://products.wolframalpha.com)
- - date_published: 2024-05-11T11:23:31.573688+00:00
-
- ## Wolfram|Alpha: Making the world’s knowledge computable
- - [https://pt.wolframalpha.com](https://pt.wolframalpha.com)
- - date_published: 2024-06-17T12:14:15.836942+00:00
-
- ## Wolfram|Alpha: Making the world’s knowledge computable
- - [https://ru.wolframalpha.com](https://ru.wolframalpha.com)
- - date_published: 2024-06-17T12:14:03.220186+00:00
-
- ## Wolfram|Alpha: Making the world’s knowledge computable
- - [https://tw.wolframalpha.com](https://tw.wolframalpha.com)
- - date_published: 2024-06-17T12:14:05.709886+00:00
-
- ## Wolfram|Alpha: Making the world’s knowledge computable
- - [https://wolframalpha.com](https://wolframalpha.com)
- - date_published: 2024-05-16T02:46:11.105212+00:00
- - tags: ['science', 'search engine', 'knowledge']
-
- ## Wolfram|Alpha: Making the world’s knowledge computable
- - [https://zh.wolframalpha.com](https://zh.wolframalpha.com)
- - date_published: 2024-06-17T12:13:40.499906+00:00
-
- ## Wolfram Blockchain Labs: Computational Intelligence for Your DLT
- - [https://wolframblockchainlabs.com](https://wolframblockchainlabs.com)
- - date_published: 2025-01-22T14:34:50.055709+00:00
-
- ## Wolfram Challenges: Programming Puzzles for the Wolfram Language
- - [https://challenges.wolframcloud.com](https://challenges.wolframcloud.com)
- - date_published: 2025-01-22T14:34:38.311566+00:00
-
- ## Wolfram Data Drop: Universal Data Accumulator
- - [https://datadrop.wolframcloud.com](https://datadrop.wolframcloud.com)
- - date_published: 2024-05-11T11:23:17.787097+00:00
 

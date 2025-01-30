@@ -1,3 +1,67 @@
+ ## Voter Portal
+ - [https://voterportal.sos.la.gov](https://voterportal.sos.la.gov)
+ - date_published: 2024-09-16T18:14:04.592941+00:00
+
+ ## LaDOTD
+ - [http://www.dotd.la.gov](http://www.dotd.la.gov)
+ - date_published: 2024-08-18T05:00:12+00:00
+
+ ## Home | Louisiana Department of Agriculture and Forestry
+ - [https://www.ldaf.la.gov](https://www.ldaf.la.gov)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Page Redirection
+ - [https://www.legis.la.gov](https://www.legis.la.gov)
+ - date_published: 2020-02-27T01:21:00+00:00
+
+ ## Louisiana Housing Corporation (LHC)
+ - [https://www.lhc.la.gov](https://www.lhc.la.gov)
+ - date_published: 2024-08-17T06:38:20+00:00
+
+ ## LLA | Your Trusted Advisor
+ - [https://www.lla.la.gov](https://www.lla.la.gov)
+ - date_published: 2024-06-21T09:50:25.900703+00:00
+
+ ## Louisiana Secretary of State
+ - [http://www.sos.la.gov](http://www.sos.la.gov)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## John C. Fleming, MD Treasurer | Louisiana State Treasurer | Louisiana
+ - [https://www.treasury.la.gov](https://www.treasury.la.gov)
+ - date_published: 2024-08-18T05:00:46.370333+00:00
+
+ ## Louisiana Department of Veterans Affairs
+ - [http://www.vetaffairs.la.gov](http://www.vetaffairs.la.gov)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Home | Office of the City Clerk
+ - [https://clerk.lacity.gov](https://clerk.lacity.gov)
+ - date_published: 2024-10-12T00:14:10+00:00
+
+ ## Department of Cultural Affairs, City of Los Angeles
+ - [https://culture.lacity.gov](https://culture.lacity.gov)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## City of Los Angeles
+ - [https://disclaimer.lacity.gov](https://disclaimer.lacity.gov)
+ - date_published: 2023-09-07T17:02:15+00:00
+
+ ## Home | City of Los Angeles
+ - [https://lacity.gov](https://lacity.gov)
+ - date_published: 2024-10-12T18:00:07+00:00
+
+ ## Child Support Services – Los Angeles County
+ - [https://cssd.lacounty.gov](https://cssd.lacounty.gov)
+ - date_published: 2024-07-02T11:03:44.665404+00:00
+
+ ## Los Angeles County District Attorney's Office
+ - [https://da.lacounty.gov](https://da.lacounty.gov)
+ - date_published: 2023-10-25T19:22:42.028055+00:00
+
+ ## County of Los Angeles Open Data
+ - [https://data.lacounty.gov](https://data.lacounty.gov)
+ - date_published: 2024-08-15T00:00:00+00:00
+
  ## Consumer & Business – Los Angeles County
  - [https://dcba.lacounty.gov](https://dcba.lacounty.gov)
  - date_published: 2024-09-04T00:00:00+00:00
@@ -3959,68 +4023,4 @@
  ## Rolnictwo i rynki
  - [https://pl.agriculture.ny.gov](https://pl.agriculture.ny.gov)
  - date_published: 2024-09-18T20:18:01.122644+00:00
-
- ## COVID-19
- - [https://pl.coronavirus.health.ny.gov](https://pl.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:34.601017+00:00
-
- ## Dom
- - [https://pl.dec.ny.gov](https://pl.dec.ny.gov)
- - date_published: 2024-07-14T04:45:43.018570+00:00
-
- ## Oficjalna strona internetowa gubernator Kathy Hochul
- - [https://pl.governor.ny.gov](https://pl.governor.ny.gov)
- - date_published: 2024-08-06T07:10:00.444773+00:00
-
- ## Oficjalna strona internetowa stanu Nowy Jork
- - [https://pl.ny.gov](https://pl.ny.gov)
- - date_published: 2024-07-14T04:45:14.072658+00:00
-
- ## Biuro Pomocy Tymczasowej i Inwalidztwa
- - [https://pl.otda.ny.gov](https://pl.otda.ny.gov)
- - date_published: 2024-10-28T00:27:47.825331+00:00
-
- ## New York State Department of Health : Home
- - [https://profiles.health.ny.gov](https://profiles.health.ny.gov)
- - date_published: 2024-09-18T04:21:49.995857+00:00
-
- ## Сельское хозяйство и рынки
- - [https://ru.agriculture.ny.gov](https://ru.agriculture.ny.gov)
- - date_published: 2024-09-18T20:17:54.246801+00:00
-
- ## COVID-19
- - [https://ru.coronavirus.health.ny.gov](https://ru.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:10.558634+00:00
-
- ## Домой
- - [https://ru.dec.ny.gov](https://ru.dec.ny.gov)
- - date_published: 2024-07-14T04:45:45.166689+00:00
-
- ## Официальный сайт губернатора Кэти Хочул
- - [https://ru.governor.ny.gov](https://ru.governor.ny.gov)
- - date_published: 2024-08-06T07:09:50.031162+00:00
-
- ## Официальный сайт штата Нью-Йорк
- - [https://ru.ny.gov](https://ru.ny.gov)
- - date_published: 2024-07-14T04:45:12.822948+00:00
-
- ## Управление временной помощи и помощи инвалидам
- - [https://ru.otda.ny.gov](https://ru.otda.ny.gov)
- - date_published: 2024-10-28T00:27:56.502390+00:00
-
- ## Search Results
- - [https://search.health.ny.gov](https://search.health.ny.gov)
- - date_published: 2024-09-18T04:10:51.890240+00:00
-
- ## زراعت اور بازار
- - [https://ur.agriculture.ny.gov](https://ur.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:05.746827+00:00
-
- ## COVID-19
- - [https://ur.coronavirus.health.ny.gov](https://ur.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:26.785074+00:00
-
- ## گھر
- - [https://ur.dec.ny.gov](https://ur.dec.ny.gov)
- - date_published: 2024-07-14T04:45:47.338009+00:00
 

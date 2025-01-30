@@ -1,3 +1,7 @@
+ ## 祥符区人民政府门户网站  开封市祥符区人民政府办公室
+ - [https://xiangfuqu.gov.cn](https://xiangfuqu.gov.cn)
+ - date_published: 2024-06-25T00:00:00+00:00
+
  ## 湘潭廉政网
  - [http://lz.xiangtan.gov.cn](http://lz.xiangtan.gov.cn)
  - date_published: 2025-01-13T19:40:11.714767+00:00
@@ -4054,8 +4058,4 @@
  ## Post Listings to Multiple Sites | Free for Landlords
  - [https://info.avail.co](https://info.avail.co)
  - date_published: 2025-01-14T22:33:48.294912+00:00
-
- ## Cliente Web
- - [https://cliente.avanti-it.co](https://cliente.avanti-it.co)
- - date_published: 2024-07-12T21:03:46+00:00
 

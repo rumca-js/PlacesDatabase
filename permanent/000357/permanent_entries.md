@@ -1,3 +1,67 @@
+ ## Components
+ - [https://components.uspto.gov](https://components.uspto.gov)
+ - date_published: 2024-06-28T19:51:48.531904+00:00
+
+ ## Home | United States Patent and Trademark Office - Open Data Portal
+ - [https://developer.uspto.gov](https://developer.uspto.gov)
+ - date_published: 2024-07-03T10:42:22+00:00
+
+ ## USPTO. ESTTA. Electronic System for Trademark Trials and Appeals
+ - [http://estta.uspto.gov](http://estta.uspto.gov)
+ - date_published: 2024-06-28T19:51:46.708910+00:00
+
+ ## Assignment Center
+ - [http://etas.uspto.gov](http://etas.uspto.gov)
+ - date_published: 2024-06-28T19:52:07+00:00
+
+ ## TMNG | IDML Main Entry
+ - [https://idm-tmng.uspto.gov](https://idm-tmng.uspto.gov)
+ - date_published: 2024-06-28T19:52:16.014567+00:00
+
+ ## HTTP Status 404 – Not Found
+ - [https://image-ppubs.uspto.gov](https://image-ppubs.uspto.gov)
+ - date_published: 2024-01-09T03:31:39.680391+00:00
+
+ ## Public PAIR to be retired
+ - [http://portal.uspto.gov](http://portal.uspto.gov)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Trademark Status & Document Retrieval
+ - [https://tarr.uspto.gov](https://tarr.uspto.gov)
+ - date_published: 2024-05-06T23:44:36.407334+00:00
+
+ ## TBMP
+ - [https://tbmp.uspto.gov](https://tbmp.uspto.gov)
+ - date_published: 2024-06-28T19:52:17.826449+00:00
+
+ ## Search our trademark database
+ - [http://tess2.uspto.gov](http://tess2.uspto.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## TFSR
+ - [https://tfsr.uspto.gov](https://tfsr.uspto.gov)
+ - date_published: 2024-06-28T19:52:14.208439+00:00
+
+ ## Trademark Electronic Search System (TESS)
+ - [https://tmsearch.uspto.gov](https://tmsearch.uspto.gov)
+ - date_published: 2023-10-25T19:26:42.135004+00:00
+
+ ## Trademark Status & Document Retrieval
+ - [https://tsdr.uspto.gov](https://tsdr.uspto.gov)
+ - date_published: 2023-10-25T19:26:49.816767+00:00
+
+ ## USPTO TTABVUE. Trademark Trial and Appeal Board Inquiry System
+ - [https://ttabvue.uspto.gov](https://ttabvue.uspto.gov)
+ - date_published: 2024-06-28T19:52:00.780214+00:00
+
+ ## United States Patent and Trademark Office
+ - [https://uspto.gov](https://uspto.gov)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Homepage | United States Sentencing Commission
+ - [https://www.ussc.gov](https://www.ussc.gov)
+ - date_published: 2024-09-12T13:55:10+00:00
+
  ## Home
  - [https://ustr.gov](https://ustr.gov)
  - date_published: 2024-06-19T05:22:59+00:00
@@ -3699,6 +3763,10 @@ Nicolas Cilins 
  - [https://www.voyatzoglou.gr](https://www.voyatzoglou.gr)
  - date_published: 2024-12-11T11:07:14+00:00
 
+ ## Βρήκα Vrisko.gr - Κατάλογος Επαγγελματιών, Επιχειρήσεων, Υπηρεσιών. Στο www.vrisko.gr βρίσκεις ό,τι ψάχνεις!
+ - [https://www.vrisko.gr](https://www.vrisko.gr)
+ - date_published: 2025-01-29T20:59:46.433622+00:00
+
  ## Gitea: Git with a cup of tea
  - [https://git.walkero.gr](https://git.walkero.gr)
  - date_published: 2024-07-08T19:10:34.640057+00:00
@@ -3998,72 +4066,4 @@ Nicolas Cilins 
  ## BCW Group
  - [http://bcw.group](http://bcw.group)
  - date_published: 2024-09-12T19:21:48.205657+00:00
-
- ## Black Ink Group — The Collective
- - [https://blackink.group](https://blackink.group)
- - date_published: 2025-01-18T08:32:06.822713+00:00
-
- ## Booklet
- - [https://booklet.group](https://booklet.group)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Booklet Docs
- - [https://docs.booklet.group](https://docs.booklet.group)
- - date_published: 2025-01-17T19:21:08.338398+00:00
-
- ## Booklet HQ
- - [https://hq.booklet.group](https://hq.booklet.group)
- - date_published: 2025-01-17T19:21:05.820952+00:00
-
- ## Sign In
- - [https://index.booklet.group](https://index.booklet.group)
- - date_published: 2025-01-17T19:21:16.597071+00:00
-
- ## Proven and reliable supplier to the world's leading automotive manufacturers | BRANO GROUP, a.s.
- - [https://www.brano.group](https://www.brano.group)
- - date_published: 2024-12-13T02:01:01+00:00
-
- ## btn.group
- - [https://btn.group](https://btn.group)
- - date_published: 2024-07-03T03:23:49.989495+00:00
-
- ## Computerland Group – Computerland Group
- - [https://computerland.group](https://computerland.group)
- - date_published: 2024-09-16T02:06:42.150067+00:00
-
- ## elephant.crime.group
- - [https://elephant.crime.group](https://elephant.crime.group)
- - date_published: 2024-07-02T13:29:10.212113+00:00
-
- ## home - Cryptomind Group
- - [https://cryptomind.group](https://cryptomind.group)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## 中钨智造(厦门)科技有限公司
- - [https://cn.ctia.group](https://cn.ctia.group)
- - date_published: 2025-01-14T10:54:18.528664+00:00
-
- ## CTIA GROUP LTD
- - [https://en.ctia.group](https://en.ctia.group)
- - date_published: 2024-06-27T05:30:31.342073+00:00
-
- ## Daman Games
- - [https://damangames.group](https://damangames.group)
- - date_published: 2024-08-04T13:10:52+00:00
-
- ## DFG - An Investment Firm Empowering Blockchain & Web 3.0
- - [https://dfg.group](https://dfg.group)
- - date_published: 2024-07-04T09:53:53.763970+00:00
-
- ## ADSB Exchange
- - [https://adsbx.discourse.group](https://adsbx.discourse.group)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## C3 Language Forum
- - [https://c3lang.discourse.group](https://c3lang.discourse.group)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Chapel Programming Language
- - [https://chapel.discourse.group](https://chapel.discourse.group)
- - date_published: 2024-08-18T20:08:37.372564+00:00
 

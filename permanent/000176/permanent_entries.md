@@ -1,3 +1,27 @@
+ ## The Long Doge Challenge
+ - [https://longdogechallenge.com](https://longdogechallenge.com)
+ - date_published: 2024-09-14T23:27:55.650966+00:00
+
+ ## The Longest Poem in the World
+ - [https://www.longestpoemintheworld.com](https://www.longestpoemintheworld.com)
+ - date_published: 2017-03-12T21:54:49+00:00
+
+ ## LongeviQuest
+ - [https://longeviquest.com](https://longeviquest.com)
+ - date_published: 2025-01-04T10:08:36.616822+00:00
+
+ ## Home - Longevity Advice
+ - [https://www.longevityadvice.com](https://www.longevityadvice.com)
+ - date_published: 2024-12-05T00:00:00+00:00
+
+ ## The Longevity Prize
+ - [https://www.longevityprize.com](https://www.longevityprize.com)
+ - date_published: 2024-09-09T14:04:52.956147+00:00
+
+ ## Longevityreview
+ - [https://longevityreview.com](https://longevityreview.com)
+ - date_published: 2024-09-18T15:11:19.487716+00:00
+
  ## Longevity Wellness
  - [https://www.longevity-sports.com](https://www.longevity-sports.com)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -4003,28 +4027,4 @@
  - [https://lukebechtel.com](https://lukebechtel.com)
  - date_published: 2024-02-22T00:00:00+00:00
  - tags: ['personal']
-
- ## Luke Burgis | Builder, Author, Educator
- - [https://lukeburgis.com](https://lukeburgis.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Anti-Mimetic | Luke Burgis | Substack
- - [https://read.lukeburgis.com](https://read.lukeburgis.com)
- - date_published: 2023-10-25T15:52:17.870193+00:00
-
- ## Ride or Drive  | Luke Burgis | Substack
- - [https://ride.lukeburgis.com](https://ride.lukeburgis.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Luke Burrage - International Juggler and Entertainer - LukeBurrage.com
- - [https://lukeburrage.com](https://lukeburrage.com)
- - date_published: 2024-08-22T07:53:29+00:00
-
- ## Luke Combs Shop
- - [https://shop.lukecombs.com](https://shop.lukecombs.com)
- - date_published: 2024-06-30T12:34:38.581578+00:00
-
- ## Luke Conroy: Interdisciplinary Artist from Tasmania, Australia
- - [https://www.luke-conroy.com](https://www.luke-conroy.com)
- - date_published: 2024-06-21T11:34:42.251899+00:00
 

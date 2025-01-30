@@ -1,3 +1,56 @@
+ ## minus' blog
+ - [https://mnus.de](https://mnus.de)
+ - date_published: 2024-04-29T06:27:29.938896+00:00
+ - tags: ['personal']
+
+ ## Top-Handys und Tarife in allen Netzen | freenet-mobilfunk.de
+ - [https://www.mobilcom-debitel.de](https://www.mobilcom-debitel.de)
+ - date_published: 2024-09-30T16:28:38.710128+00:00
+
+ ## Mobile Fun - Smartphone - und Handyzubehör, Handyhüllen, Gadgets, Technik und mehr!  Kostenlose Lieferung!
+ - [https://www.mobilefun.de](https://www.mobilefun.de)
+ - date_published: 2024-12-20T18:59:29.646914+00:00
+
+ ## BASIC thinking – Online-Magazin für Social Media, Marketing und Business
+ - [https://mobilegeeks.de](https://mobilegeeks.de)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## SRH Fernhochschule | Bachelor und Master im Fernstudium
+ - [https://www.mobile-university.de](https://www.mobile-university.de)
+ - date_published: 2024-07-24T04:43:44.544742+00:00
+
+ ## Startseite - SRH Fernhochschule – The Mobile University
+ - [https://www.mobile-university-fernstudium.de](https://www.mobile-university-fernstudium.de)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Home - Deutscher Mobilitätspreis
+ - [https://mobilitaetspreis.de](https://mobilitaetspreis.de)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Mobility Ads
+ - [https://mobility-ads.de](https://mobility-ads.de)
+ - date_published: 2024-12-19T13:04:51.708744+00:00
+
+ ## mobilsicher.de
+ - [https://mobilsicher.de](https://mobilsicher.de)
+ - date_published: 2015-05-20T13:10:44+00:00
+
+ ## Mobilunity - Anbieter von Dedizierten Entwickler-Teams
+ - [https://mobilunity.de](https://mobilunity.de)
+ - date_published: 0207-11-11T16:31:36+00:00
+
+ ## The Web Design and Development agency from Berlin
+ - [https://mobiteam.de](https://mobiteam.de)
+ - date_published: 2024-06-20T16:05:34.442561+00:00
+
+ ## Startseite – VDV - Mobi-Wissen
+ - [https://www.mobi-wissen.de](https://www.mobi-wissen.de)
+ - date_published: 2015-11-20T12:32:14+00:00
+
+ ## KIT - Fakultät für Mathematik - Der Modellansatz Podcast
+ - [http://modellansatz.de](http://modellansatz.de)
+ - date_published: 2024-08-18T16:47:34.418880+00:00
+
  ## moderneREGIONAL
  - [https://www.moderne-regional.de](https://www.moderne-regional.de)
  - date_published: 2024-07-03T00:00:00+00:00
@@ -3960,57 +4013,4 @@
  ## Stockfotos kaufen zu fairen Preisen  – Bildagentur Photocase
  - [https://www.photocase.de](https://www.photocase.de)
  - date_published: 2024-10-22T11:43:18.467702+00:00
-
- ## Facebook
- - [https://www.photonicmusic.de](https://www.photonicmusic.de)
- - date_published: 2024-08-18T11:03:54.349114+00:00
-
- ## Welcome to OpticalLimits!
- - [http://www.photozone.de](http://www.photozone.de)
- - date_published: 2024-12-12T10:51:00+00:00
-
- ## phpBB.de - Willkommen auf phpBB.de
- - [https://phpbb.de](https://phpbb.de)
- - date_published: 2024-05-10T03:56:41.988354+00:00
-
- ## phpBB Style Design - Foren-Übersicht
- - [https://phpbb-style-design.de](https://phpbb-style-design.de)
- - date_published: 2024-07-08T15:21:50.346159+00:00
-
- ## phpMyFAQ - Open Source FAQ software
- - [https://www.phpmyfaq.de](https://www.phpmyfaq.de)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## PHPUnit: The PHP Testing Framework
- - [https://phpunit.de](https://phpunit.de)
- - date_published: 2024-02-02T00:00:00+00:00
- - tags: ['php', 'programming framework']
-
- ## phryneas.de
- - [https://phryneas.de](https://phryneas.de)
- - date_published: 1970-01-01T00:00:01+00:00
-
- ## Home - PhV BW
- - [https://www.phv-bw.de](https://www.phv-bw.de)
- - date_published: 2024-12-12T22:46:14.103518+00:00
-
- ## PHVV
- - [https://www.phv-verbindet.de](https://www.phv-verbindet.de)
- - date_published: 2024-07-24T03:47:00.063969+00:00
-
- ## University of Education Weingarten - Pädagogische Hochschule
- - [http://www.ph-weingarten.de](http://www.ph-weingarten.de)
- - date_published: 2024-08-11T22:27:05.389100+00:00
-
- ## Private Hochschule für Wirtschaft und Technik | PHWT
- - [https://www.phwt.de](https://www.phwt.de)
- - date_published: 2025-01-16T20:27:08.701849+00:00
-
- ## Physik Instrumente (PI) – Lösungen für präzise Bewegung und Positionierung
- - [https://www.physikinstrumente.de](https://www.physikinstrumente.de)
- - date_published: 2024-09-05T21:02:22.034093+00:00
-
- ## Ihre Physiotherapiepraxis im Zentrum der Stadt Bernau - Physiotherapie in Bernau
- - [https://physiotherapiebernau.de](https://physiotherapiebernau.de)
- - date_published: 2023-11-06T00:00:00+00:00
 

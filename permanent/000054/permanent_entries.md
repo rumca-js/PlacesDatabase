@@ -1,3 +1,7 @@
+ ## Aptos Labs | Accelerating the Future of Web3
+ - [https://aptoslabs.com](https://aptoslabs.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
  ## Aptos Explorer
  - [https://explorer.aptoslabs.com](https://explorer.aptoslabs.com)
  - date_published: 2024-09-25T10:29:39.354405+00:00
@@ -4035,8 +4039,4 @@
  ## Artwork and prints by Aron Wiesenfeld
  - [https://aronwiesenfeldshop.com](https://aronwiesenfeldshop.com)
  - date_published: 2024-05-06T18:11:08.926267+00:00
-
- ## A Room With A ZOO
- - [https://www.aroomwithazoo.com](https://www.aroomwithazoo.com)
- - date_published: 2025-01-15T15:47:07.681207+00:00
 

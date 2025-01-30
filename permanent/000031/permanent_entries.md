@@ -1,3 +1,7 @@
+ ## 中央文化和旅游管理干部学院（中共文化和旅游部党校）
+ - [http://www.cacta.cn](http://www.cacta.cn)
+ - date_published: 2024-06-26T00:31:27+00:00
+
  ## 全国文化和旅游干部网络学院
  - [https://www.cactatv.cn](https://www.cactatv.cn)
  - date_published: 2024-06-27T00:00:00+00:00
@@ -4005,8 +4009,4 @@
  ## Just Mark - AI Bookmark
  - [https://justmark.notelive.cn](https://justmark.notelive.cn)
  - date_published: 2024-05-15T02:44:56.133501+00:00
-
- ## 首页――核辐社
- - [http://www.nrspc.cn](http://www.nrspc.cn)
- - date_published: 2024-06-01T00:00:00+00:00
 

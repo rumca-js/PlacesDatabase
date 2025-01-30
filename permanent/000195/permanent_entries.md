@@ -1,3 +1,27 @@
+ ## Des Moines Register archive from 1871-2024 - Des Moines Register Archive
+ - [https://desmoinesregister.newspapers.com](https://desmoinesregister.newspapers.com)
+ - date_published: 2024-05-01T04:48:53.852482+00:00
+
+ ## Fresno Bee archive from 1876-2024 - Fresno Bee Archive
+ - [https://fresnobee.newspapers.com](https://fresnobee.newspapers.com)
+ - date_published: 2024-05-11T11:39:04.744396+00:00
+
+ ## Corvallis Gazette-Times archive from 1865-2024 - Corvallis Gazette-Times Archive
+ - [https://gazettetimes.newspapers.com](https://gazettetimes.newspapers.com)
+ - date_published: 2024-06-15T21:52:06.574257+00:00
+
+ ## Historical Newspapers from the 1700's-2000s - Newspapers.com
+ - [https://go.newspapers.com](https://go.newspapers.com)
+ - date_published: 2024-06-15T22:45:49.019858+00:00
+
+ ## Herald Online archive from 1880-2024 - Herald Online Archive
+ - [http://heraldonline.newspapers.com](http://heraldonline.newspapers.com)
+ - date_published: 2024-08-06T18:09:41.940201+00:00
+
+ ## Historical Newspapers from the 1700's-2000s
+ - [http://idahostatesman.newspapers.com](http://idahostatesman.newspapers.com)
+ - date_published: 2025-01-07T19:38:04.055796+00:00
+
  ## Historical Newspapers from the 1700's-2000s - Newspapers.com
  - [https://img.newspapers.com](https://img.newspapers.com)
  - date_published: 2024-06-15T22:45:50.909317+00:00
@@ -4025,28 +4049,4 @@ Isacsson
  ## Oficjalna strona internetowa Nike
  - [https://nike.com](https://nike.com)
  - date_published: 2024-07-04T00:00:00+00:00
-
- ## Nike TEAM Sports
- - [https://niketeam.nike.com](https://niketeam.nike.com)
- - date_published: 2024-06-27T15:43:14+00:00
-
- ## FY23 NIKE, Inc. Impact Report
- - [https://purpose.nike.com](https://purpose.nike.com)
- - date_published: 2025-01-22T05:26:52.713856+00:00
-
- ## Oficjalna strona internetowa Nike
- - [https://secure-store.nike.com](https://secure-store.nike.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://static.nike.com](https://static.nike.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Nike Sustainability. Move to Zero
- - [http://www.nikebetterworld.com](http://www.nikebetterworld.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Nike Savvas | Artist
- - [https://nikesavvas.com](https://nikesavvas.com)
- - date_published: 2018-03-12T07:41:45+00:00
 

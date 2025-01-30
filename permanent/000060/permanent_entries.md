@@ -1,3 +1,11 @@
+ ## Biosphere
+ - [https://biosphere.bandcamp.com](https://biosphere.bandcamp.com)
+ - date_published: 2024-10-17T22:15:44.689949+00:00
+
+ ## Biota
+ - [https://biota.bandcamp.com](https://biota.bandcamp.com)
+ - date_published: 2024-12-27T09:55:40.558002+00:00
+
  ## Best of the Decent, by Birch
  - [https://birch3.bandcamp.com](https://birch3.bandcamp.com)
  - date_published: 2024-12-26T23:07:35.588693+00:00
@@ -3989,12 +3997,4 @@
  ## essential abstractions
  - [https://essentialabstractions.bandcamp.com](https://essentialabstractions.bandcamp.com)
  - date_published: 2024-09-23T00:00:00+00:00
-
- ## Essential Audiobooks
- - [https://essentialaudiobooks.bandcamp.com](https://essentialaudiobooks.bandcamp.com)
- - date_published: 2024-12-27T09:50:00.655861+00:00
-
- ## Esteren
- - [http://esteren.bandcamp.com](http://esteren.bandcamp.com)
- - date_published: 2025-01-21T00:50:46.475274+00:00
 

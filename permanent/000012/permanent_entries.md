@@ -1,3 +1,7 @@
+ ## Fort Worth Report | Spreadshop
+ - [https://fort-worth-report.myspreadshop.com.au](https://fort-worth-report.myspreadshop.com.au)
+ - date_published: 2024-12-25T12:02:13.576325+00:00
+
  ## Futility Closet
  - [https://futility.myspreadshop.com.au](https://futility.myspreadshop.com.au)
  - date_published: 2024-12-25T12:02:37.905551+00:00
@@ -3998,8 +4002,4 @@
  ## Australia’s home of competition analysis  | The State of Competition
  - [https://thestateofcompetition.com.au](https://thestateofcompetition.com.au)
  - date_published: 2024-10-18T19:10:58.906592+00:00
-
- ## The Store
- - [https://thestore.com.au](https://thestore.com.au)
- - date_published: 2024-06-22T10:40:57.963811+00:00
 

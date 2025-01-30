@@ -1,3 +1,74 @@
+ ## Ján Drgoňa
+ - [https://drgona.github.io](https://drgona.github.io)
+ - date_published: 2024-11-26T18:35:21+00:00
+
+ ## Personal Github Page
+ - [https://drhyperion451.github.io](https://drhyperion451.github.io)
+ - date_published: 2023-10-21T22:21:59+00:00
+
+ ## – Ameya Prabhu – Seizing the means of prediction (robustly)!
+ - [https://drimpossible.github.io](https://drimpossible.github.io)
+ - date_published: 2024-06-15T12:19:50+00:00
+
+ ## Daniel Ritchie
+ - [https://dritchie.github.io](https://dritchie.github.io)
+ - date_published: 2024-06-21T20:32:43+00:00
+
+ ## DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset
+ - [https://droid-dataset.github.io](https://droid-dataset.github.io)
+ - date_published: 2024-03-20T02:00:36+00:00
+
+ ## Dropbox Open Source
+ - [https://dropbox.github.io](https://dropbox.github.io)
+ - date_published: 2024-03-19T19:57:07+00:00
+
+ ## Dr. Tomás Aragón - Population Health Blog
+ - [https://drtomasaragon.github.io](https://drtomasaragon.github.io)
+ - date_published: 2023-10-25T19:45:05.485671+00:00
+
+ ## Vince Knight
+ - [http://drvinceknight.github.io](http://drvinceknight.github.io)
+ - date_published: 2024-04-19T12:56:46+00:00
+
+ ## DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation
+ - [https://ds1000-code-gen.github.io](https://ds1000-code-gen.github.io)
+ - date_published: 2024-07-03T08:06:37+00:00
+
+ ## UCSD Data Science Course Websites
+ - [https://dsc-courses.github.io](https://dsc-courses.github.io)
+ - date_published: 2024-04-03T16:43:06+00:00
+
+ - [https://dsego.github.io](https://dsego.github.io)
+ - date_published: 2023-10-25T19:45:10.046408+00:00
+
+ ## DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion
+ - [https://ds-fusion.github.io](https://ds-fusion.github.io)
+ - date_published: 2023-10-25T19:45:06.310901+00:00
+
+ ## Redirecting to https://dsharpplus.github.io/DSharpPlus/
+ - [https://dsharpplus.github.io](https://dsharpplus.github.io)
+ - date_published: 2023-02-09T16:22:51+00:00
+
+ ## Dominic Skinnion
+ - [https://dskinnion.github.io](https://dskinnion.github.io)
+ - date_published: 2024-05-01T21:09:41+00:00
+
+ ## Data to Actionable Knowledge Lab
+ - [https://dtak.github.io](https://dtak.github.io)
+ - date_published: 2025-01-14T22:47:08.395771+00:00
+
+ ## David Trevascus
+ - [https://dtcupcakes.github.io](https://dtcupcakes.github.io)
+ - date_published: 2025-01-14T19:56:53.600967+00:00
+
+ ## dtinth.github.io
+ - [https://dtinth.github.io](https://dtinth.github.io)
+ - date_published: 2018-02-25T13:40:58+00:00
+
+ ## Damian Bogunowicz - dtransposed
+ - [https://dtransposed.github.io](https://dtransposed.github.io)
+ - date_published: 2023-11-06T13:53:20.330919+00:00
+
  ## Home | MoDS Seminars - DTU Compute
  - [https://dtumods.github.io](https://dtumods.github.io)
  - date_published: 2024-05-17T00:00:00+00:00
@@ -3962,76 +4033,4 @@
  ## Kibitzr
  - [https://kibitzr.github.io](https://kibitzr.github.io)
  - date_published: 2018-11-28T15:18:33+00:00
-
- ## KilledByAPixel.github.io
- - [https://killedbyapixel.github.io](https://killedbyapixel.github.io)
- - date_published: 2023-06-18T15:25:46+00:00
-
- ## Pascal Hertleif
- - [http://killercup.github.io](http://killercup.github.io)
- - date_published: 2019-11-10T13:49:53+00:00
-
- ## Killian Davitt
- - [https://killiandavitt.github.io](https://killiandavitt.github.io)
- - date_published: 2024-06-23T19:32:32+00:00
-
- ## KiL 2024: 4th International Workshop on Knowledge-infused Learning
- - [https://kil-workshop.github.io](https://kil-workshop.github.io)
- - date_published: 2024-08-22T15:58:34+00:00
-
- ## Kim H. Nguyen
- - [https://kim-nguyenkhn.github.io](https://kim-nguyenkhn.github.io)
- - date_published: 2024-09-24T04:09:16+00:00
-
- ## kimono koans' blog!
- - [https://kimono-koans.github.io](https://kimono-koans.github.io)
- - date_published: 2023-10-25T19:47:47.466658+00:00
-
- ## Ziming Liu
- - [https://kindxiaoming.github.io](https://kindxiaoming.github.io)
- - date_published: 2025-01-16T05:23:54.409710+00:00
-
- ## KingSora.github.io
- - [https://kingsora.github.io](https://kingsora.github.io)
- - date_published: 2023-08-24T13:22:14+00:00
-
- ## Caleb Kibet
- - [https://kipkurui.github.io](https://kipkurui.github.io)
- - date_published: 2021-11-24T03:28:31+00:00
-
- ## Kirill Vishniakov
- - [https://kirill-vish.github.io](https://kirill-vish.github.io)
- - date_published: 2024-06-10T15:49:33+00:00
-
- ## Kernel Security, Isolation, and Verification (KISV) Workshop
- - [https://kisv-workshop.github.io](https://kisv-workshop.github.io)
- - date_published: 2024-05-21T03:21:17+00:00
-
- ## Kitware, Inc.
- - [https://kitware.github.io](https://kitware.github.io)
- - date_published: 2022-05-12T21:10:33+00:00
-
- ## Katherine Izhikevich
- - [https://kizhikevich.github.io](https://kizhikevich.github.io)
- - date_published: 2024-05-04T15:11:50.028128+00:00
-
- ## Kyle J Brazil
- - [https://kjbrazil.github.io](https://kjbrazil.github.io)
- - date_published: 2019-11-30T01:13:02+00:00
-
- ## Kjellski.github.com by kjellski
- - [https://kjellski.github.io](https://kjellski.github.io)
- - date_published: 2024-07-24T05:46:22.616302+00:00
-
- ## Math Research Repository
- - [https://kl43b.github.io](https://kl43b.github.io)
- - date_published: 2021-08-31T22:03:56+00:00
-
- ## Klecko Blog
- - [https://klecko.github.io](https://klecko.github.io)
- - date_published: 2024-10-21T11:01:15+00:00
-
- ## KLEE
- - [https://klee.github.io](https://klee.github.io)
- - date_published: 2024-04-16T00:00:00+00:00
 

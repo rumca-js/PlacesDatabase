@@ -1,3 +1,63 @@
+ ## Home - WFU Family Weekend
+ - [https://familyweekend.wfu.edu](https://familyweekend.wfu.edu)
+ - date_published: 2025-01-09T21:16:21+00:00
+
+ ## Wake Forest Fellows | Wake Forest University
+ - [https://fellows.president.wfu.edu](https://fellows.president.wfu.edu)
+ - date_published: 2025-01-09T23:09:45+00:00
+
+ ## Financial Services | Wake Forest University
+ - [https://finance.wfu.edu](https://finance.wfu.edu)
+ - date_published: 2025-01-09T19:47:25+00:00
+
+ ## Financial Aid | Wake Forest School of Law
+ - [https://financialaid.law.wfu.edu](https://financialaid.law.wfu.edu)
+ - date_published: 2024-07-02T14:05:23.224543+00:00
+
+ ## Student Financial Aid | Wake Forest University
+ - [https://financialaid.wfu.edu](https://financialaid.wfu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## First in the Forest | Wake Forest University
+ - [https://firstintheforest.wfu.edu](https://firstintheforest.wfu.edu)
+ - date_published: 2025-01-10T00:58:05+00:00
+
+ ## Strategic Framework - Strategic Framework
+ - [https://framework.wfu.edu](https://framework.wfu.edu)
+ - date_published: 2025-01-09T19:53:00+00:00
+
+ ## Giving Opportunities - New | Giving Opportunities | Wake Forest University
+ - [https://giving.wfu.edu](https://giving.wfu.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Global Wake Forest - Global Wake Forest
+ - [https://global.wfu.edu](https://global.wfu.edu)
+ - date_published: 2024-06-27T17:06:26+00:00
+
+ ## Home - WFU Go Links
+ - [https://go.wfu.edu](https://go.wfu.edu)
+ - date_published: 2025-01-10T04:05:35+00:00
+
+ ## Graduate School of Arts & Sciences | Wake Forest University
+ - [https://graduate.wfu.edu](https://graduate.wfu.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Graduate Student Association | Wake Forest University
+ - [https://gsa.graduate.wfu.edu](https://gsa.graduate.wfu.edu)
+ - date_published: 2023-03-06T00:00:00+00:00
+
+ ## Home - Hazing Prevention
+ - [http://hazing.wfu.edu](http://hazing.wfu.edu)
+ - date_published: 2025-01-23T15:34:20.733896+00:00
+
+ ## Support Home | AskDeac
+ - [https://help.wfu.edu](https://help.wfu.edu)
+ - date_published: 2025-01-10T05:21:46.260735+00:00
+
+ ## WFU Homecoming and Reunion Weekend 2024
+ - [https://homecoming.wfu.edu](https://homecoming.wfu.edu)
+ - date_published: 2025-01-09T19:44:16+00:00
+
  ## Home - Honesty Project
  - [https://honestyproject.philosophy.wfu.edu](https://honestyproject.philosophy.wfu.edu)
  - date_published: 2025-01-10T05:34:06.676807+00:00
@@ -3949,70 +4009,4 @@
  ## Center for Collaborative Arts and Media |
  - [https://ccam.yale.edu](https://ccam.yale.edu)
  - date_published: 2024-07-08T14:37:47+00:00
-
- ## Welcome
- | Yale CCE Program
- - [http://cce.yalecollege.yale.edu](http://cce.yalecollege.yale.edu)
- - date_published: 2024-07-02T15:47:18+00:00
-
- ## Yale School of Medicine
- - [https://cdn1.medicine.yale.edu](https://cdn1.medicine.yale.edu)
- - date_published: 2024-05-07T22:41:39.972527+00:00
-
- ## About Yale Center Beijing | CenterBeijing-Yale
- - [http://centerbeijing.yale.edu](http://centerbeijing.yale.edu)
- - date_published: 2024-07-02T16:02:49.684385+00:00
-
- ## Chaplain's Office |
- - [http://chaplain.yale.edu](http://chaplain.yale.edu)
- - date_published: 2024-06-28T14:19:14+00:00
-
- ## Welcome
- | Department of Chemistry
- - [https://chem.yale.edu](https://chem.yale.edu)
- - date_published: 2024-10-03T20:49:24+00:00
-
- ## Phasing out CIPE | Center for International and Professional Experience | Yale University
- - [https://cipe.yale.edu](https://cipe.yale.edu)
- - date_published: 2024-06-30T14:37:31+00:00
-
- ## Welcome
- | Perspectives on Poverty and Human Development
- - [https://clais-udesa.yale.edu](https://clais-udesa.yale.edu)
- - date_published: 2024-07-02T16:02:42+00:00
-
- ## The Yale Program on Climate Change Communication
- - [https://climatecommunication.yale.edu](https://climatecommunication.yale.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## CMES Home
- | Yale MacMillan Center Council on Middle East Studies
- - [https://cmes.macmillan.yale.edu](https://cmes.macmillan.yale.edu)
- - date_published: 2024-07-02T15:43:52+00:00
-
- ## Cognitive & Neural Computation Laboratory
- - [http://cncl.yale.edu](http://cncl.yale.edu)
- - date_published: 2024-06-22T05:23:49+00:00
-
- ## Yale University Libraries - Digital Collections
- - [https://collections.library.yale.edu](https://collections.library.yale.edu)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Welcome
- | Residential College Renovations
- - [https://collegerenovations.yale.edu](https://collegerenovations.yale.edu)
- - date_published: 2024-07-02T13:16:34+00:00
-
- ## Welcome
- | Yale Commencement
- - [https://commencement.yale.edu](https://commencement.yale.edu)
- - date_published: 2024-05-07T22:44:32.915506+00:00
-
- ## Office of Public Affairs & Communications
- - [https://communications.yale.edu](https://communications.yale.edu)
- - date_published: 2024-05-07T22:42:29.173803+00:00
-
- ## Conference & Event Services in New Haven CT | Yale Conference Venues
- - [https://conferencesandevents.yale.edu](https://conferencesandevents.yale.edu)
- - date_published: 2024-07-02T10:00:10+00:00
 

@@ -1,3 +1,11 @@
+ ## PARAFRAME
+ - [https://paraframe.bandcamp.com](https://paraframe.bandcamp.com)
+ - date_published: 2024-12-26T22:06:27.366747+00:00
+
+ ## PARAGON CAUSE
+ - [https://paragoncause.bandcamp.com](https://paragoncause.bandcamp.com)
+ - date_published: 2024-12-26T21:25:50.738393+00:00
+
  ## Paralaxe Editions
  - [https://paralaxe-editions.bandcamp.com](https://paralaxe-editions.bandcamp.com)
  - date_published: 2024-12-26T21:33:22.761203+00:00
@@ -3989,12 +3997,4 @@
  ## Teeth Of The Sea
  - [http://teethofthesea.bandcamp.com](http://teethofthesea.bandcamp.com)
  - date_published: 2024-07-10T10:22:31.438508+00:00
-
- ## Tefo Mahola
- - [https://tefomahola.bandcamp.com](https://tefomahola.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Telekinesis
- - [https://telekinesis.bandcamp.com](https://telekinesis.bandcamp.com)
- - date_published: 2024-12-27T09:14:46.027414+00:00
 

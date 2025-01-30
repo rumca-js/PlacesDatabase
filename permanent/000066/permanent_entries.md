@@ -1,3 +1,11 @@
+ ## Download Type Beats For Rappers & Vocalists | Beatopia
+ - [https://www.beatopia.com](https://www.beatopia.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Our music for your ideas - Beatpick
+ - [http://www.beatpick.com](http://www.beatpick.com)
+ - date_published: 2021-10-30T21:31:05+00:00
+
  ## Company - About Beatport
  - [https://about.beatport.com](https://about.beatport.com)
  - date_published: 2024-08-18T11:03:35.329689+00:00
@@ -4014,12 +4022,4 @@
  ## Homepage
  - [http://www.berginsight.com](http://www.berginsight.com)
  - date_published: 2024-07-20T08:10:04+00:00
-
- ## Berglinde Briefing | Phil Lojacono | Substack
- - [https://news.berglinde.com](https://news.berglinde.com)
- - date_published: 2025-01-18T01:43:51.998922+00:00
-
- ## BERG
- - [https://berglondon.com](https://berglondon.com)
- - date_published: 2024-05-02T11:11:32.176835+00:00
 

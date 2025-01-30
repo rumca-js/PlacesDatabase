@@ -1,3 +1,113 @@
+ ## 教育部《重編國語辭典修訂本》2021
+ - [https://dict.revised.moe.edu.tw](https://dict.revised.moe.edu.tw)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## 教育部臺灣客語辭典
+ - [https://hakkadict.moe.edu.tw](https://hakkadict.moe.edu.tw)
+ - date_published: 2024-07-12T05:30:17.720490+00:00
+
+ ## Interconnection Networks and High-Performance Computation Laboratory (互連網路暨高效率運算實驗室)
+ - [https://algorithm.csie.ncku.edu.tw](https://algorithm.csie.ncku.edu.tw)
+ - date_published: 2024-09-11T06:42:34+00:00
+
+ ## Index of /
+ - [https://alpine.ccns.ncku.edu.tw](https://alpine.ccns.ncku.edu.tw)
+ - date_published: 2024-07-20T15:58:32.401826+00:00
+
+ ## NCKU, 成功大學-計算機與網路中心  - NCKU, 成功大學-計算機與網路中心
+ - [https://cc.ncku.edu.tw](https://cc.ncku.edu.tw)
+ - date_published: 2024-12-15T13:02:27+00:00
+
+ ## National Cheng Kung University - NCKU
+ - [https://highlights.ncku.edu.tw](https://highlights.ncku.edu.tw)
+ - date_published: 2024-12-15T13:02:10.424325+00:00
+
+ ## NCKU, National Cheng Kung University  - NCKU, 國立成功大學 National Cheng Kung University
+ - [https://ncku.edu.tw](https://ncku.edu.tw)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## NCKU, National Cheng Kung University  - NCKU, 國立成功大學 National Cheng Kung University
+ - [https://web.ncku.edu.tw](https://web.ncku.edu.tw)
+ - date_published: 2024-10-30T20:17:56+00:00
+
+ ## Wiki - 成功大學資工系(所) Wiki 系統
+ - [https://wiki.csie.ncku.edu.tw](https://wiki.csie.ncku.edu.tw)
+ - date_published: 2024-06-22T12:41:42.514452+00:00
+
+ ## 故宮電子報
+ - [https://enews.npm.edu.tw](https://enews.npm.edu.tw)
+ - date_published: 2024-05-02T10:40:24.527107+00:00
+ - date_dead_since: 2025-01-05T19:31:07.820588+00:00
+
+ ## 故宮線上學校
+ - [https://ipalace.npm.edu.tw](https://ipalace.npm.edu.tw)
+ - date_published: 2024-01-20T01:20:58+00:00
+
+ ## 清代檔案檢索系統-首頁
+ - [https://qingarchives.npm.edu.tw](https://qingarchives.npm.edu.tw)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## 古籍輿圖檢索系統-說明
+ - [https://rarebooks-maps.npm.edu.tw](https://rarebooks-maps.npm.edu.tw)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 國立故宮博物院 網路線上報名系統
+ - [https://signup.npm.edu.tw](https://signup.npm.edu.tw)
+ - date_published: 2024-06-17T16:53:51.428522+00:00
+
+ ## 國立故宮博物院-國立故宮博物院
+ - [https://www.npm.edu.tw](https://www.npm.edu.tw)
+ - date_published: 2024-10-19T22:22:37.185748+00:00
+
+ ## 308
+ - [https://asiaccs2020.cs.nthu.edu.tw](https://asiaccs2020.cs.nthu.edu.tw)
+ - date_published: 2022-11-21T01:58:58+00:00
+
+ ## Home - CGV | NTHU
+ - [https://cgv.cs.nthu.edu.tw](https://cgv.cs.nthu.edu.tw)
+ - date_published: 2024-06-22T07:30:50.710895+00:00
+ - date_dead_since: 2025-01-05T19:37:56.808410+00:00
+
+ ## 國立清華大學
+ - [https://www.nthu.edu.tw](https://www.nthu.edu.tw)
+ - date_published: 2024-10-22T03:47:41.368455+00:00
+
+ ## Home - 台大國際事務處
+ - [https://admissions.ntu.edu.tw](https://admissions.ntu.edu.tw)
+ - date_published: 2023-12-13T00:00:00+00:00
+
+ ## 臺大生輔組官方網站
+ - [https://advisory.ntu.edu.tw](https://advisory.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:05.006429+00:00
+
+ ## 臺大電機之友 | 台大電機之友http://alumni.ee.ntu.edu.tw，於2001年八月一日正式啟用。為提供本系和已畢業系友的聯繫管道及系友間的資訊交流、報導系上的近況、協助提供系友求才或求職資訊。
+ - [https://alumni.ee.ntu.edu.tw](https://alumni.ee.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:21.837099+00:00
+
+ ## 校園公佈欄
+ - [https://ann.cc.ntu.edu.tw](https://ann.cc.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:52.399748+00:00
+
+ ## 國立臺灣大學藝文中心
+ - [https://arts.ntu.edu.tw](https://arts.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:38.028652+00:00
+
+ ## 台大寫作教學中心 – AWEC
+ - [https://awec.ntu.edu.tw](https://awec.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:26.367696+00:00
+
+ ## 國立臺灣大學 學務處 | 學生職業生涯發展中心
+ - [https://career.ntu.edu.tw](https://career.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:49.174887+00:00
+
+ ## AIMM Research Group - NTU CMLab
+ - [https://cmlab.csie.ntu.edu.tw](https://cmlab.csie.ntu.edu.tw)
+ - date_published: 2023-03-02T14:13:56+00:00
+
+ ## 國立臺灣大學資訊工程學系
+ - [https://csie.ntu.edu.tw](https://csie.ntu.edu.tw)
+ - date_published: 2024-10-04T00:00:00+00:00
+
  ## Home - CTLD x DLC
  - [https://dlc.ntu.edu.tw](https://dlc.ntu.edu.tw)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3919,112 +4029,4 @@
  ## Офіційний сайт «Сільпо»
  - [https://silpo.ua](https://silpo.ua)
  - date_published: 2024-06-28T12:07:04+00:00
-
- ## Погода в Варшаве
- - [https://sinoptik.ua](https://sinoptik.ua)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Погода у Варшаві
- - [https://ua.sinoptik.ua](https://ua.sinoptik.ua)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Стоматология в Киеве Скайклиник ᐉ Качественно и недорого
- - [https://skyclinic.ua](https://skyclinic.ua)
- - date_published: 2024-05-08T09:13:07.093479+00:00
-
- ## Онлайн казино СлотоКінг - номер 1 в Україні
- - [https://slotoking.ua](https://slotoking.ua)
- - date_published: 2024-06-16T19:42:22.592236+00:00
-
- ## Slots City®  Казино — Найкраще онлайн казино України 2024
- - [https://slotscity.ua](https://slotscity.ua)
- - date_published: 2024-09-09T20:53:58.756851+00:00
-
- ## Головна
- - [https://smak.ua](https://smak.ua)
- - date_published: 2017-04-10T21:00:00+00:00
-
- ## Sony Україна | Новини про останні технології | Електроніка | Розваги
- - [https://www.sony.ua](https://www.sony.ua)
- - date_published: 2024-10-21T07:37:40.234019+00:00
-
- ## СПОРТ.UA ⇔ Свежие новости спорта онлайн ⋆ Все про спорт Украины и мира ⋆ Спортивные новости на сегодня
- - [https://sport.ua](https://sport.ua)
- - date_published: 2025-01-15T17:42:32.873700+00:00
-
- ## Судово-юридична газета
- - [https://sud.ua](https://sud.ua)
- - date_published: 2023-12-24T14:29:22.262220+00:00
-
- ## Интернет-магазин Телемарт — магазин  комплектующих для ПК, игровой периферии и техники в Украине | Киев, Днепр, Харьков, Одесса, Львов, Хмельницкий - Telemart
- - [https://telemart.ua](https://telemart.ua)
- - date_published: 2024-07-13T13:39:54.694183+00:00
-
- ## Головні новини України, новини політики, економіки, спорту - Today.ua
- - [https://today.ua](https://today.ua)
- - date_published: 2025-01-15T17:43:09.937091+00:00
-
- ## Сувенірна продукція | Toyota Україна
- - [https://collection.toyota.ua](https://collection.toyota.ua)
- - date_published: 2024-10-16T15:39:33.710120+00:00
-
- ## Тойота з пробігом купити в Україні
- - [https://usedcars.toyota.ua](https://usedcars.toyota.ua)
- - date_published: 2024-10-16T15:39:31.313649+00:00
-
- ## Офіційний сайт Toyota : Ціни на автомобілі Toyota
- - [https://www.toyota.ua](https://www.toyota.ua)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Новини України і світу сьогодні • Головні і останні новини дня на ТСН
- - [https://tsn.ua](https://tsn.ua)
- - date_published: 2024-07-27T02:47:54.575886+00:00
-
- ## Головна
- - [https://tv.ua](https://tv.ua)
- - date_published: 2016-12-31T22:00:00+00:00
-
- ## Головна - Український тиждень
- - [https://tyzhden.ua](https://tyzhden.ua)
- - date_published: 2022-09-23T12:24:13+00:00
-
- ## Новини УГКЦ
- - [http://news.ugcc.ua](http://news.ugcc.ua)
- - date_published: 2025-01-20T17:51:17.632796+00:00
-
- ## Future Ukraine: відкрий Україну майбутнього
- - [https://future.ukraine.ua](https://future.ukraine.ua)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## I’m Fine Installation | Ukraine at Burning Man 2024
- - [https://imfine.ukraine.ua](https://imfine.ukraine.ua)
- - date_published: 2024-08-20T10:11:22+00:00
-
- ## Official website of Ukraine
- - [https://ukraine.ua](https://ukraine.ua)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Russia’s war in Ukraine: official website | MFA of Ukraine
- - [https://war.ukraine.ua](https://war.ukraine.ua)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Укрінформ - актуальні новини України та світу
- - [https://www.ukrinform.ua](https://www.ukrinform.ua)
- - date_published: 2024-01-30T01:45:45.408583+00:00
-
- ## Укрпошта | Головна пошта країни
- - [https://www.ukrposhta.ua](https://www.ukrposhta.ua)
- - date_published: 2024-06-30T09:28:47.079706+00:00
-
- ## Новини України - останні новини України сьогодні - УНІАН
- - [https://www.unian.ua](https://www.unian.ua)
- - date_published: 2025-01-15T17:43:32.800897+00:00
-
- ## Оперативні новини України та Світу | Українські Національні Новини УНН
- - [https://unn.ua](https://unn.ua)
- - date_published: 2024-08-11T18:54:47+00:00
-
- ## Ліцензовані онлайн-казино та БК для ставок в Україні — VBET ✌️
- - [https://vbet.ua](https://vbet.ua)
- - date_published: 2024-10-29T08:55:41+00:00
 

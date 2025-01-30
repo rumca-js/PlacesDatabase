@@ -1,3 +1,91 @@
+ ## Ministry of Foreign Affairs, Malaysia - Portal
+ - [http://www.kln.gov.my](http://www.kln.gov.my)
+ - date_published: 2024-12-21T11:47:25.159979+00:00
+
+ ## Home
+ - [https://mydigitalinvestment.gov.my](https://mydigitalinvestment.gov.my)
+ - date_published: 2024-09-23T13:42:09.645381+00:00
+
+ ## Kementerian Peralihan Tenaga Dan Transformasi Air (PETRA)
+ - [https://www.petra.gov.my](https://www.petra.gov.my)
+ - date_published: 2024-09-04T02:08:02.895866+00:00
+
+ ## Energy Commission - Home
+ - [https://www.st.gov.my](https://www.st.gov.my)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Portal Rasmi Kementerian Kewangan
+ - [http://www.treasury.gov.my](http://www.treasury.gov.my)
+ - date_published: 2024-08-08T22:05:27+00:00
+
+ ## Bandai Namco Studios Malaysia
+ - [https://www.bandainamcostudios.my](https://www.bandainamcostudios.my)
+ - date_published: 2024-12-26T20:33:38.927528+00:00
+
+ ## BELLAMYBUDIMAN
+ - [https://bella.my](https://bella.my)
+ - date_published: 2024-07-13T04:04:12.360020+00:00
+
+ ## BFM: The Business Station - Home
+ - [http://www.bfm.my](http://www.bfm.my)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## 9Daily
+ - [http://9-daily.blogspot.my](http://9-daily.blogspot.my)
+ - date_published: 2024-02-20T17:30:45+00:00
+
+ ## Dark Gathering
+ - [http://darkgathering.blogspot.my](http://darkgathering.blogspot.my)
+ - date_published: 2021-02-22T00:00:00+00:00
+
+ ## Nie znaleziono bloga
+ - [http://heyojohere.blogspot.my](http://heyojohere.blogspot.my)
+ - date_published: 2024-09-18T02:37:47.661159+00:00
+
+ ## Questing GM
+ - [http://questinggm.blogspot.my](http://questinggm.blogspot.my)
+ - date_published: 2024-04-19T19:40:56+00:00
+
+ ## Ryu Blogger Themes
+ - [http://ryu-themes.blogspot.my](http://ryu-themes.blogspot.my)
+ - date_published: 2024-08-28T15:50:18+00:00
+
+ ## So Unbroken
+ - [http://so-unbroken.blogspot.my](http://so-unbroken.blogspot.my)
+ - date_published: 2024-09-01T16:21:06+00:00
+
+ ## Home | CarSifu
+ - [https://www.carsifu.my](https://www.carsifu.my)
+ - date_published: 2024-09-10T08:03:58.071307+00:00
+
+ ## CARSOME - #1 Online Used Cars Buying & Selling Platform
+ - [https://www.carsome.my](https://www.carsome.my)
+ - date_published: 2024-09-23T13:49:57.451915+00:00
+
+ ## Buy Converse Shoes, Clothing & Accessories | Converse Malaysia Online Store
+ - [https://www.converse.my](https://www.converse.my)
+ - date_published: 2025-01-08T22:20:36.976540+00:00
+
+ ## E-kedai hadiah unik dan gajet menarik | Cool Mania E-Shop
+ - [https://www.cool-mania.my](https://www.cool-mania.my)
+ - date_published: 2025-01-08T23:32:34.619608+00:00
+
+ ## Buy Domain and Hosting Packages for Your Website | Crazy Domain Malaysia
+ - [https://www.crazydomains.my](https://www.crazydomains.my)
+ - date_published: 2024-06-16T08:52:14.998924+00:00
+
+ ## DigiKey Home
+ - [https://digikey.my](https://digikey.my)
+ - date_published: 2024-05-01T05:03:35.566343+00:00
+
+ ## Disney.my | The official home for all things Disney
+ - [http://apps.disney.my](http://apps.disney.my)
+ - date_published: 2024-06-16T02:01:45.591829+00:00
+
+ ## Disney.my | The official home for all things Disney
+ - [http://characters.disney.my](http://characters.disney.my)
+ - date_published: 2024-06-16T02:01:59.421887+00:00
+
  ## Disney.my | The official home for all things Disney
  - [https://disney.my](https://disney.my)
  - date_published: 2024-06-16T02:00:49.418099+00:00
@@ -3961,92 +4049,4 @@
  ## HOTEL JAYAKARTA BALI | ⋆⋆⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $99
  - [https://jayakarta-bali-beach-resort-legian.all-balihotels.net](https://jayakarta-bali-beach-resort-legian.all-balihotels.net)
  - date_published: 2024-10-16T13:28:50.350971+00:00
-
- ## HOTEL J BOUTIQUE | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $30
- - [https://j-boutique-kuta.all-balihotels.net](https://j-boutique-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:36:15.882577+00:00
-
- ## JIMBARAN BAY BEACH RESORT & SPA | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $299
- - [https://jimbaran-bay-beach.all-balihotels.net](https://jimbaran-bay-beach.all-balihotels.net)
- - date_published: 2024-10-16T13:35:02.289610+00:00
-
- ## KAAMALA RESORT UBUD | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $44
- - [https://kaamala-resort-ubud.all-balihotels.net](https://kaamala-resort-ubud.all-balihotels.net)
- - date_published: 2024-10-16T13:25:21.187071+00:00
-
- ## ** KAK GARDEN INN, KUTA (BALI) **
- - [https://kak-garden-inn-80361.all-balihotels.net](https://kak-garden-inn-80361.all-balihotels.net)
- - date_published: 2024-10-16T13:27:41.701797+00:00
-
- ## HOTEL KAMANDALU UBUD | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $425
- - [https://kamandalu-ubud.all-balihotels.net](https://kamandalu-ubud.all-balihotels.net)
- - date_published: 2024-10-16T13:33:09.780243+00:00
-
- ## HOTEL KARMA KANDARA | ⋆⋆⋆⋆⋆ | UNGASAN, INDONESIA | SEASON DEALS FROM $430
- - [https://karma-kandara-ungasan.all-balihotels.net](https://karma-kandara-ungasan.all-balihotels.net)
- - date_published: 2024-10-16T13:30:29.516597+00:00
-
- ## HOTEL KUTA PARADISO | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $52
- - [https://karthi-kuta.all-balihotels.net](https://karthi-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:28:01.870330+00:00
-
- ## **** KAYUMAS SEMINYAK RESORT, SEMINYAK (BALI) ****
- - [https://kayumas-seminyak-resort.all-balihotels.net](https://kayumas-seminyak-resort.all-balihotels.net)
- - date_published: 2024-10-16T13:40:04.872763+00:00
-
- ## K CLUB UBUD | INDONESIA | SEASON DEALS FROM $210
- - [https://k-club-ubud-villa.all-balihotels.net](https://k-club-ubud-villa.all-balihotels.net)
- - date_published: 2024-10-16T13:25:09.812360+00:00
-
- ## HOTEL KEMUNING KUTA | ⋆⋆ | INDONESIA | SEASON DEALS FROM $18
- - [https://kemuning-kuta.all-balihotels.net](https://kemuning-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:41:15.601695+00:00
-
- ## KENANGA INN | ULUWATU, INDONESIA | SEASON DEALS FROM $16
- - [https://kenanga-inn-pecatu.all-balihotels.net](https://kenanga-inn-pecatu.all-balihotels.net)
- - date_published: 2024-10-16T13:35:10.642962+00:00
-
- ## ** KLUNGKUNG TOWER HOTEL, KLUNGKUNG **
- - [https://klungkung-tower.all-balihotels.net](https://klungkung-tower.all-balihotels.net)
- - date_published: 2024-10-16T13:26:55.726237+00:00
-
- ## HOTEL KUTA CENTRAL PARK | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $47
- - [https://kuta-central-park.all-balihotels.net](https://kuta-central-park.all-balihotels.net)
- - date_published: 2024-10-16T13:32:33.892335+00:00
-
- ## LAGUNA RESORT | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $287
- - [https://laguna-resort-nusa-dua.all-balihotels.net](https://laguna-resort-nusa-dua.all-balihotels.net)
- - date_published: 2024-10-16T13:28:28.215660+00:00
-
- ## LA JOYA BIU BIU RESORT | ⋆⋆⋆ | JIMBARAN, INDONESIA | SEASON DEALS FROM $145
- - [https://la-joya-ii-biu-biu-guest-house-jimbaran.all-balihotels.net](https://la-joya-ii-biu-biu-guest-house-jimbaran.all-balihotels.net)
- - date_published: 2024-10-16T13:32:41.743071+00:00
-
- ## LA JOYA BALANGAN RESORT | ⋆⋆⋆ | JIMBARAN, INDONESIA | SEASON DEALS FROM $449
- - [https://la-joya-villa-jimbaran.all-balihotels.net](https://la-joya-villa-jimbaran.all-balihotels.net)
- - date_published: 2024-10-16T13:41:04.933799+00:00
-
- ## LAKEVIEW HOTEL & RESTAURANT | ⋆⋆⋆ | KINTAMANI, INDONESIA | SEASON DEALS FROM $96
- - [https://lake-view-and-restaurant-kintamani.all-balihotels.net](https://lake-view-and-restaurant-kintamani.all-balihotels.net)
- - date_published: 2024-10-16T13:34:00.630933+00:00
-
- ## HOTEL LEGIAN BEACH | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $224
- - [https://legian-beach.all-balihotels.net](https://legian-beach.all-balihotels.net)
- - date_published: 2024-10-16T13:29:14.024759+00:00
-
- ## HOTEL LEGIAN PARADISO | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $39
- - [https://legian-paradiso.all-balihotels.net](https://legian-paradiso.all-balihotels.net)
- - date_published: 2024-10-16T13:30:22.321788+00:00
-
- ## LEGIAN VILLAGE BEACH RESORT | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $30
- - [https://legian-village-beach-resort-jalan-sahadewa.all-balihotels.net](https://legian-village-beach-resort-jalan-sahadewa.all-balihotels.net)
- - date_published: 2024-10-16T13:24:59.766936+00:00
-
- ## HOTEL LE MERIDIEN BALI JIMBARAN | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $200
- - [https://le-meridien-bali-jimbaran.all-balihotels.net](https://le-meridien-bali-jimbaran.all-balihotels.net)
- - date_published: 2024-10-16T13:35:14.405647+00:00
-
- ## KLAPA RESORT | ⋆⋆⋆⋆⋆ | ULUWATU, INDONESIA | SEASON DEALS FROM $79
- - [https://lexington-klapa-resort-uluwatu.all-balihotels.net](https://lexington-klapa-resort-uluwatu.all-balihotels.net)
- - date_published: 2024-10-16T13:40:33.390216+00:00
 

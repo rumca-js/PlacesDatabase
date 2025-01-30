@@ -1,3 +1,35 @@
+ ## Living Fossils | The Living Fossils | Substack
+ - [https://thelivingfossils.substack.com](https://thelivingfossils.substack.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## The Macro Compass | Alfonso Peccatiello (Alf) | Substack
+ - [https://themacrocompass.substack.com](https://themacrocompass.substack.com)
+ - date_published: 2024-01-09T01:45:22.656513+00:00
+
+ ## The Magnet | Mark Frauenfelder | Substack
+ - [https://themagnet.substack.com](https://themagnet.substack.com)
+ - date_published: 2024-04-03T06:41:26.030404+00:00
+
+ ## The Malarkey Musket | David Haggith | Substack
+ - [https://themalarkeymusket.substack.com](https://themalarkeymusket.substack.com)
+ - date_published: 2024-07-04T01:28:36.587732+00:00
+
+ ## Media Report | Janice | Substack
+ - [https://themediareport.substack.com](https://themediareport.substack.com)
+ - date_published: 2024-08-19T14:44:05.237205+00:00
+
+ ## Explorer's Guild Travel Log | The Middle Earth Companion | Substack
+ - [https://themiddleearthcompanion.substack.com](https://themiddleearthcompanion.substack.com)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## The Midst | Substack
+ - [https://themidst.substack.com](https://themidst.substack.com)
+ - date_published: 2025-01-25T00:00:04.762616+00:00
+
+ ## Misfits | Substack
+ - [https://themisfits.substack.com](https://themisfits.substack.com)
+ - date_published: 2024-08-18T02:58:34.793138+00:00
+
  ## The Most Endangered Species | Jeffrey Falk | Substack
  - [https://themostendangeredspecies.substack.com](https://themostendangeredspecies.substack.com)
  - date_published: 2024-10-31T22:49:53.148179+00:00
@@ -1357,6 +1389,10 @@
  ## The Xr0 Substack | Xr0 Team | Substack
  - [https://xr0blog.substack.com](https://xr0blog.substack.com)
  - date_published: 2024-01-06T00:00:00+00:00
+
+ ## XYZ Labs | Substack
+ - [https://xyzlabs.substack.com](https://xyzlabs.substack.com)
+ - date_published: 2025-01-28T18:55:22.551992+00:00
 
  ## El Balcón | Yaidel | Substack
  - [https://yaidel.substack.com](https://yaidel.substack.com)
@@ -4003,40 +4039,4 @@
  - [https://superhotgame.com](https://superhotgame.com)
  - date_published: 2023-12-06T08:03:27+00:00
  - tags: ['video game']
-
- ## Superhuman Blog
- - [https://blog.superhuman.com](https://blog.superhuman.com)
- - date_published: 2024-05-04T13:56:23.646560+00:00
-
- ## Superhuman Help Center
- - [https://help.superhuman.com](https://help.superhuman.com)
- - date_published: 2024-06-23T09:40:36.104094+00:00
-
- ## Superhuman
- - [https://mail.superhuman.com](https://mail.superhuman.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Superhuman | Blazingly fast email for teams and individuals
- - [https://superhuman.com](https://superhuman.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Суперх'юманс Центр
- - [https://superhumans.com](https://superhumans.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## 象山坠靥房产交易有限公司
- - [http://www.superhyperdemonchild.com](http://www.superhyperdemonchild.com)
- - date_published: 2024-07-13T10:24:57.840060+00:00
-
- ## Beyond your typical digital agency
- - [https://superinteractive.com](https://superinteractive.com)
- - date_published: 2024-10-16T10:24:33.210881+00:00
-
- ## Superior Choice Credit Union
- - [https://my.superiorchoice.com](https://my.superiorchoice.com)
- - date_published: 2024-07-10T03:56:27.840276+00:00
-
- ## Homepage
- - [https://superiorchoice.com](https://superiorchoice.com)
- - date_published: 2024-04-11T00:00:00+00:00
 

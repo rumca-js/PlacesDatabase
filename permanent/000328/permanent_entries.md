@@ -1,3 +1,63 @@
+ ## Autonomous Systems Laboratory
+ - [https://asl.stanford.edu](https://asl.stanford.edu)
+ - date_published: 2024-05-07T10:17:56.429005+00:00
+
+ ## Stanford Asset CDN
+ - [https://assets.stanford.edu](https://assets.stanford.edu)
+ - date_published: 2024-07-01T20:12:07.358516+00:00
+
+ ## Associated Students of Stanford University
+ - [https://assu.stanford.edu](https://assu.stanford.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## init
+ - [https://atcasbs.stanford.edu](https://atcasbs.stanford.edu)
+ - date_published: 2024-07-01T19:56:12.906323+00:00
+
+ ## Stanford | Axess
+ - [https://axess.sahr.stanford.edu](https://axess.sahr.stanford.edu)
+ - date_published: 2023-09-01T18:19:30+00:00
+
+ ## Stanford | Axess
+ - [https://axess.stanford.edu](https://axess.stanford.edu)
+ - date_published: 2023-09-01T18:19:30+00:00
+
+ ## SLAC-Stanford Battery Center | SLAC National Accelerator Laboratory
+ - [https://batterycenter.slac.stanford.edu](https://batterycenter.slac.stanford.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Bechtel International Center
+ - [https://bechtel.stanford.edu](https://bechtel.stanford.edu)
+ - date_published: 2024-07-01T17:10:36+00:00
+
+ ## BEHAVIOR – BEHAVIOR
+ - [https://behavior.stanford.edu](https://behavior.stanford.edu)
+ - date_published: 2024-05-13T22:21:37+00:00
+
+ ## Home - Stanford BeWell
+ - [https://bewell.stanford.edu](https://bewell.stanford.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## The Future of Health Care
+ - [https://biodesign.stanford.edu](https://biodesign.stanford.edu)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Department of Biology
+ - [https://biology.stanford.edu](https://biology.stanford.edu)
+ - date_published: 2024-05-07T20:29:32.574767+00:00
+
+ ## Welcome to Bio-X
+ - [https://biox.stanford.edu](https://biox.stanford.edu)
+ - date_published: 2024-07-01T20:17:37+00:00
+
+ ## Stanford Login
+ - [http://bi.stanford.edu](http://bi.stanford.edu)
+ - date_published: 2024-07-01T20:08:27.443247+00:00
+
+ ## The Book Haven
+ - [https://bookhaven.stanford.edu](https://bookhaven.stanford.edu)
+ - date_published: 2024-07-03T21:35:03.640765+00:00
+
  ## Bing Overseas Studies Programs
  - [https://bosp.stanford.edu](https://bosp.stanford.edu)
  - date_published: 2024-06-24T05:17:29+00:00
@@ -3951,64 +4011,4 @@
  ## First-Year Experience | Tulane First Year Experience
  - [https://firstyear.tulane.edu](https://firstyear.tulane.edu)
  - date_published: 2024-08-21T16:05:53+00:00
-
- ## Freeman School of Business | Freeman School of Business Tulane University
- - [https://freeman.tulane.edu](https://freeman.tulane.edu)
- - date_published: 2024-10-14T19:18:22+00:00
-
- ## Home - Gibson Online
- - [https://gibson.tulane.edu](https://gibson.tulane.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home Page
- - [https://giving.tulane.edu](https://giving.tulane.edu)
- - date_published: 2024-05-07T20:39:38.576831+00:00
-
- ## Tulane Office of Human Resources & Institutional Equity | Tulane University HR
- - [https://hr.tulane.edu](https://hr.tulane.edu)
- - date_published: 2024-05-07T20:39:35.202685+00:00
-
- ## Walter Isaacson Tulane |
- - [https://isaacson.tulane.edu](https://isaacson.tulane.edu)
- - date_published: 2024-09-14T23:02:42.008113+00:00
-
- ## Tulane Staff Positions
- - [https://jobs.tulane.edu](https://jobs.tulane.edu)
- - date_published: 2024-07-01T21:48:10.771076+00:00
-
- ## School of Liberal Arts at Tulane University
- - [https://liberalarts.tulane.edu](https://liberalarts.tulane.edu)
- - date_published: 2024-05-01T03:32:44.827662+00:00
-
- ## Home | TU Libraries
- - [http://library.tulane.edu](http://library.tulane.edu)
- - date_published: 2024-06-28T19:25:41+00:00
-
- ## Tulane News
- - [https://news.tulane.edu](https://news.tulane.edu)
- - date_published: 2023-10-25T18:59:42.065237+00:00
-
- ## Office of Assessment and Institutional Research | Office of Assessment and Institutional Research
- - [https://oair.tulane.edu](https://oair.tulane.edu)
- - date_published: 2024-07-30T20:49:44+00:00
-
- ## Office of Graduate and Postdoctoral Studies | Office Graduate and Postdoctoral Studies
- - [https://ogps.tulane.edu](https://ogps.tulane.edu)
- - date_published: 2024-09-10T15:22:02+00:00
-
- ## home | President
- - [https://president.tulane.edu](https://president.tulane.edu)
- - date_published: 2024-07-01T15:05:09+00:00
-
- ## Office of the Provost | Tulane University Provost
- - [https://provost.tulane.edu](https://provost.tulane.edu)
- - date_published: 2024-07-01T17:38:14+00:00
-
- ## Homepage | Tulane University - Office of the University Registrar
- - [https://registrar.tulane.edu](https://registrar.tulane.edu)
- - date_published: 2024-07-01T18:49:55+00:00
-
- ## Paving the Way for Research | Tulane Office of Research
- - [https://research.tulane.edu](https://research.tulane.edu)
- - date_published: 2024-06-28T14:54:20+00:00
 

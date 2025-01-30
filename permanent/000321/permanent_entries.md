@@ -1,3 +1,63 @@
+ ## Home | Margolis Institute for Health Policy
+ - [https://healthpolicy.duke.edu](https://healthpolicy.duke.edu)
+ - date_published: 2024-06-15T19:18:10+00:00
+
+ ## Front Page | History
+ - [https://history.duke.edu](https://history.duke.edu)
+ - date_published: 2024-09-26T17:15:02+00:00
+
+ ## Front Page | Center for the History of Political Economy
+ - [https://hope.econ.duke.edu](https://hope.econ.duke.edu)
+ - date_published: 2024-07-03T08:29:44+00:00
+
+ ## Home | Human Resources
+ - [https://hr.duke.edu](https://hr.duke.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## About the Duke Human Rights Center | Duke Human Rights Center at the Franklin Humanities Institute
+ - [https://humanrights.fhi.duke.edu](https://humanrights.fhi.duke.edu)
+ - date_published: 2024-09-26T17:54:57+00:00
+
+ ## INTERDISCIPLINARY BEHAVIORAL RESEARCH CENTER
+ - [https://ibrc.duke.edu](https://ibrc.duke.edu)
+ - date_published: 2024-09-26T18:02:48.034948+00:00
+
+ ## Duke | Log In
+ - [https://idms-mfa.oit.duke.edu](https://idms-mfa.oit.duke.edu)
+ - date_published: 2024-05-01T06:58:34.700524+00:00
+
+ ## Together, we are Forever Duke: Our 2021 Impact Report
+ - [https://impact.duke.edu](https://impact.duke.edu)
+ - date_published: 2024-09-26T18:01:02.962187+00:00
+
+ ## Log In | Inventions
+ - [https://innovate.olv.duke.edu](https://innovate.olv.duke.edu)
+ - date_published: 2024-09-26T18:00:19.875463+00:00
+
+ ## Welcome to the Pratt Intranet | Pratt Intranet
+ - [https://inside.pratt.duke.edu](https://inside.pratt.duke.edu)
+ - date_published: 2024-05-10T04:48:48.601253+00:00
+
+ ## Inside Sanford – The home for all things for and about the Sanford School of Public Policy
+ - [https://inside.sanford.duke.edu](https://inside.sanford.duke.edu)
+ - date_published: 2024-07-20T15:53:29+00:00
+
+ ## Homepage | Office of Interdisciplinary Studies
+ - [https://interdisciplinary.duke.edu](https://interdisciplinary.duke.edu)
+ - date_published: 2024-09-04T19:24:11+00:00
+
+ ## Duke | Log In
+ - [https://intranet.divinity.duke.edu](https://intranet.divinity.duke.edu)
+ - date_published: 2024-09-26T18:09:05.581759+00:00
+
+ ## Front Page | Information Science + Studies
+ - [https://iss.duke.edu](https://iss.duke.edu)
+ - date_published: 2024-09-26T15:09:02+00:00
+
+ ## Homepage | Information Technology Advisory Council ITAC
+ - [https://itac.duke.edu](https://itac.duke.edu)
+ - date_published: 2024-06-16T07:10:50+00:00
+
  ## DUKEHealth JA |
  - [https://ja.dh.duke.edu](https://ja.dh.duke.edu)
  - date_published: 2024-08-18T08:02:18+00:00
@@ -3943,64 +4003,4 @@
  ## News & Stories | Getty
  - [http://news.getty.edu](http://news.getty.edu)
  - date_published: 2024-07-09T00:00:00+00:00
-
- ## Collecting & Provenance Research (Getty Research Institute)
- - [http://piprod.getty.edu](http://piprod.getty.edu)
- - date_published: 2023-09-28T17:16:34+00:00
-
- ## The Getty Museum Store
- - [https://shop.getty.edu](https://shop.getty.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://subscriptions.getty.edu](https://subscriptions.getty.edu)
- - date_published: 2024-04-30T04:25:35.695582+00:00
-
- ## Gettysburg College Institutional Repository
- - [https://cupola.gettysburg.edu](https://cupola.gettysburg.edu)
- - date_published: 2024-07-02T10:48:07.071821+00:00
-
- ## Golden Gate University - Modern Campus Catalog™
- - [https://catalog.ggu.edu](https://catalog.ggu.edu)
- - date_published: 2024-10-18T22:01:44.538345+00:00
-
- ## Golden Gate University
- - [https://ggu.edu](https://ggu.edu)
- - date_published: 2024-10-18T22:01:42.245129+00:00
-
- ## School of Law | Golden Gate University
- - [http://law.ggu.edu](http://law.ggu.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Homepage - GGU Newsroom
- - [https://newsroom.ggu.edu](https://newsroom.ggu.edu)
- - date_published: 2024-10-18T22:01:46.981465+00:00
-
- ## Gemological Institute Of America | All About Gemstones - GIA
- - [https://www.gia.edu](https://www.gia.edu)
- - date_published: 2024-07-15T02:08:20.755086+00:00
-
- ## 1-12 Private Boarding School in Philadelphia - Girard College
- - [https://www.girardcollege.edu](https://www.girardcollege.edu)
- - date_published: 2025-01-02T12:02:20.338046+00:00
-
- ## home
- - [http://aaas.gmu.edu](http://aaas.gmu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## home
- - [https://academicaffairs.chss.gmu.edu](https://academicaffairs.chss.gmu.edu)
- - date_published: 2024-08-08T20:35:04.938286+00:00
-
- ## Speech Accent Archive
- - [https://accent.gmu.edu](https://accent.gmu.edu)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Accessibility @ Mason – George Mason University
- - [https://accessibility.gmu.edu](https://accessibility.gmu.edu)
- - date_published: 2024-04-30T04:25:54.131087+00:00
-
- ## The C. Boyden Gray Center
- - [https://administrativestate.gmu.edu](https://administrativestate.gmu.edu)
- - date_published: 2024-07-21T23:20:55.290857+00:00
 

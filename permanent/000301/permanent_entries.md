@@ -1,3 +1,55 @@
+ ## Lobbyregister beim Deutschen Bundestag
+ - [https://lobbyregister.bundestag.de](https://lobbyregister.bundestag.de)
+ - date_published: 2024-04-29T05:56:34.771274+00:00
+
+ ## OPAC: Katalog
+ - [https://opac.bundestag.de](https://opac.bundestag.de)
+ - date_published: 2024-04-29T05:56:20.460097+00:00
+
+ ## Ihr Besuchswunsch
+ - [https://visite.bundestag.de](https://visite.bundestag.de)
+ - date_published: 2024-04-29T05:56:35.712521+00:00
+
+ ## Deutscher Bundestag - Startseite
+ - [https://webtv.bundestag.de](https://webtv.bundestag.de)
+ - date_published: 2024-04-29T05:56:28.539670+00:00
+
+ ## Bundestagsshop
+ - [https://bundestagsshop.de](https://bundestagsshop.de)
+ - date_published: 2023-12-07T12:22:20.768351+00:00
+
+ ## Historische Souvenirs zum Thema Reichstagsgebäude - Bundestagsshop
+ - [https://info.bundestagsshop.de](https://info.bundestagsshop.de)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## BundesTelefonbuch Startseite
+ - [https://www.bundes-telefonbuch.de](https://www.bundes-telefonbuch.de)
+ - date_published: 2024-09-30T13:15:43.715362+00:00
+
+ ## Bundesverband Crowdfunding – Interessensvertretung der Crowdfunding-Plattformen
+ - [https://www.bundesverband-crowdfunding.de](https://www.bundesverband-crowdfunding.de)
+ - date_published: 2024-10-02T10:47:12.727176+00:00
+
+ ## Home | Bundesverband Mobile Beratung
+ - [https://bundesverband-mobile-beratung.de](https://bundesverband-mobile-beratung.de)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Start · Bundesverband Trans*
+ - [https://www.bundesverband-trans.de](https://www.bundesverband-trans.de)
+ - date_published: 2024-09-12T14:30:33+00:00
+
+ ## Bundesverfassungsgericht  -  Startseite
+ - [https://bundesverfassungsgericht.de](https://bundesverfassungsgericht.de)
+ - date_published: 2023-10-25T18:28:33.150667+00:00
+
+ ## Die Bundeswahlleiterin - Die Bundeswahlleiterin
+ - [https://www.bundeswahlleiterin.de](https://www.bundeswahlleiterin.de)
+ - date_published: 2024-12-29T11:53:23+00:00
+
+ ## Bundeswehr
+ - [https://www.bundeswehr.de](https://www.bundeswehr.de)
+ - date_published: 2024-07-09T14:17:30.268924+00:00
+
  ## Steuererklärung für Soldat*innen: Online in 17min machen
  - [https://bundeswehrsteuererklaerung.de](https://bundeswehrsteuererklaerung.de)
  - date_published: 2024-12-04T08:44:01+00:00
@@ -3964,57 +4016,4 @@ Heinsohn
  ## Aktuelle Stellenangebote | DFKI
  - [https://jobs.dfki.de](https://jobs.dfki.de)
  - date_published: 2024-07-24T00:00:00+00:00
-
- ## Home —
-    Multimedia Analysis and Data Mining Research Group
- - [http://madm.dfki.de](http://madm.dfki.de)
- - date_published: 2024-07-02T13:34:28.998296+00:00
-
- ## Sign in - Matomo
- - [https://webstat-kl.dfki.de](https://webstat-kl.dfki.de)
- - date_published: 2024-07-24T06:00:21.416021+00:00
-
- ## KI für den Menschen – Intelligente Lösungen für die Wissensgesellschaft
- - [https://www-live.dfki.de](https://www-live.dfki.de)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Startseite
- - [https://robotik.dfki-bremen.de](https://robotik.dfki-bremen.de)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Pexip Connect for Web
- - [https://conf.dfn.de](https://conf.dfn.de)
- - date_published: 2024-07-01T16:29:25+00:00
-
- ## Create your own polls - Terminplaner 4.1
- - [https://terminplaner2.dfn.de](https://terminplaner2.dfn.de)
- - date_published: 2024-05-08T12:15:13.693660+00:00
-
- ## Create and share meeting polls | DFN-Terminplaner
- - [https://terminplaner6.dfn.de](https://terminplaner6.dfn.de)
- - date_published: 2024-07-08T17:20:39.788808+00:00
-
- ## Create your own polls - Terminplaner 4.1
- - [https://terminplaner.dfn.de](https://terminplaner.dfn.de)
- - date_published: 2024-07-24T03:40:31.009224+00:00
-
- ## Startseite - DFN
- - [http://www.dfn.de](http://www.dfn.de)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Forschung, Beratung und Dienstleistung für mehr Sicherheit im Internet
- - [https://www.dfn-cert.de](https://www.dfn-cert.de)
- - date_published: 2024-08-10T15:30:04+00:00
-
- ## Startseite - Deutscher Fundraising Verband
- - [https://dfrv.de](https://dfrv.de)
- - date_published: 2025-01-21T00:01:37.397063+00:00
-
- ## Startseite - Deutscher Fundraising Verband
- - [https://www.dfrv.de](https://www.dfrv.de)
- - date_published: 2025-01-16T14:26:38.167782+00:00
-
- ## Wir sind der Deutsche Gewerkschaftsbund
- - [http://jugend-nord.dgb.de](http://jugend-nord.dgb.de)
- - date_published: 2024-09-12T15:59:17.879314+00:00
 

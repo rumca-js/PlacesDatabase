@@ -1,3 +1,83 @@
+ ## Istituto Istruzione Secondaria Superiore Gandhi Merano
+ - [https://www.iiss-gandhi-merano.it](https://www.iiss-gandhi-merano.it)
+ - date_published: 2024-10-13T07:01:11.616539+00:00
+
+ ## Istituti Tecnici Vito Sante Longo
+ - [https://www.iisstecnicomonopoli.it](https://www.iisstecnicomonopoli.it)
+ - date_published: 2024-10-13T06:59:31.042739+00:00
+
+ ## I.I.S.T.C.G. - DON GAVINO PES
+ - [https://www.iistcgdongavinopes.it](https://www.iistcgdongavinopes.it)
+ - date_published: 2024-10-13T06:52:33.387920+00:00
+
+ ## Polo Liceale "Pomponio Leto"
+ - [https://www.iisteggiano.it](https://www.iisteggiano.it)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## I.I.S. "Janello Torriani" | Cremona
+ - [https://www.iistorriani.it](https://www.iistorriani.it)
+ - date_published: 2024-10-13T06:53:52+00:00
+
+ ## IIS "Marzotto-Luzzatti" – Valdagno – Tecnologico – Economico – Professionale
+ - [https://www.iisvaldagno.it](https://www.iisvaldagno.it)
+ - date_published: 2024-10-13T07:06:28.256831+00:00
+
+ ## Istituto Italiano di Tecnologia - IIT
+ - [https://iit.it](https://iit.it)
+ - date_published: 2024-10-28T23:46:49.626052+00:00
+
+ ## Hosting, Domini, Server dedicati, VPS, Cloud | Ikoula Italia
+ - [https://www.ikoula.it](https://www.ikoula.it)
+ - date_published: 2024-07-07T05:18:34+00:00
+
+ ## Il Calderone Magico - (sito no profit)
+ - [http://www.ilcalderonemagico.it](http://www.ilcalderonemagico.it)
+ - date_published: 2015-10-31T10:27:56+00:00
+
+ ## Il Cerchio della Luna
+ - [http://www.ilcerchiodellaluna.it](http://www.ilcerchiodellaluna.it)
+ - date_published: 2021-02-17T16:12:34+00:00
+
+ ## Disqus Connect
+ - [https://comments.ilfattoquotidiano.it](https://comments.ilfattoquotidiano.it)
+ - date_published: 2024-07-15T03:15:08+00:00
+
+ ## Home - Community Web3
+ - [https://community.ilfattoquotidiano.it](https://community.ilfattoquotidiano.it)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Fatto da Voi
+ - [https://fattodavoi.ilfattoquotidiano.it](https://fattodavoi.ilfattoquotidiano.it)
+ - date_published: 2024-07-15T03:15:08+00:00
+
+ ## Il Fatto Quotidiano - News su politica, cronaca, giustizia ed economia
+ - [https://ilfattoquotidiano.it](https://ilfattoquotidiano.it)
+ - date_published: 2024-05-12T04:56:02.975121+00:00
+
+ ## Previsioni Meteo - Il Fatto Quotidiano
+ - [https://meteo.ilfattoquotidiano.it](https://meteo.ilfattoquotidiano.it)
+ - date_published: 2024-07-15T03:15:28.664261+00:00
+
+ ## Il Fatto Social Club
+ - [http://shop.ilfattoquotidiano.it](http://shop.ilfattoquotidiano.it)
+ - date_published: 2012-04-17T21:31:03+00:00
+
+ ## Le migliori offerte per il tuo shopping online - Codice Sconto IlFattoQuotidiano
+ - [https://www.codicesconto.ilfattoquotidiano.it](https://www.codicesconto.ilfattoquotidiano.it)
+ - date_published: 2024-07-15T03:15:48.085233+00:00
+
+ ## Il Foglio - Edizione Online
+ - [https://www.ilfoglio.it](https://www.ilfoglio.it)
+ - date_published: 2024-07-03T22:12:57+00:00
+
+ ## il Giornale
+ - [https://ilgiornale.it](https://ilgiornale.it)
+ - date_published: 2024-12-20T08:28:11.225356+00:00
+
+ ## il Giornale
+ - [http://www.ilgiornale.it](http://www.ilgiornale.it)
+ - date_published: 2024-07-03T22:20:22.112238+00:00
+
  ## Offerte mobile, fibra e smartphone
  - iliad
  - [https://www.iliad.it](https://www.iliad.it)
@@ -3936,84 +4016,4 @@
  ## Annunci - Repubblica.it - Il sito di annunci gratuiti
  - [https://annunci.napoli.repubblica.it](https://annunci.napoli.repubblica.it)
  - date_published: 2024-07-16T18:55:10.474330+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.palermo.repubblica.it](https://annunci.palermo.repubblica.it)
- - date_published: 2024-07-16T19:01:34.383048+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.repubblica.it](https://annunci.repubblica.it)
- - date_published: 2024-05-12T06:45:17.184828+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.roma.repubblica.it](https://annunci.roma.repubblica.it)
- - date_published: 2024-07-16T18:39:40.678576+00:00
-
- ## Bari notizie e approfondimenti - Repubblica.it
- - [https://bari.repubblica.it](https://bari.repubblica.it)
- - date_published: 2024-05-12T06:44:02.758373+00:00
-
- ## Bologna notizie e approfondimenti - Repubblica.it
- - [https://bologna.repubblica.it](https://bologna.repubblica.it)
- - date_published: 2024-05-12T06:44:35.603185+00:00
-
- ## Scienza in cucina - Blog - Le Scienze
- - [http://bressanini-lescienze.blogautore.espresso.repubblica.it](http://bressanini-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:55:58.582228+00:00
-
- ## Notizie, analisi, documenti sulla Chiesa cattolica, a cura di Sandro Magister
- - [http://chiesa.espresso.repubblica.it](http://chiesa.espresso.repubblica.it)
- - date_published: 2025-01-20T17:50:04.709554+00:00
-
- ## Design - la Repubblica
- - [https://design.repubblica.it](https://design.repubblica.it)
- - date_published: 2024-05-12T06:44:54.133306+00:00
-
- ## Salute e bugie - Blog - Le Scienze
- - [http://digrazia-lescienze.blogautore.espresso.repubblica.it](http://digrazia-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:55:43.984773+00:00
-
- ## Dizionari italiano, inglese e sinonimi
- - [https://dizionari.repubblica.it](https://dizionari.repubblica.it)
- - date_published: 2024-05-12T06:44:50.520598+00:00
-
- ## Moda e beauty - Tendenze fashion, bellezza, amore, relazioni e parenting
- - [https://d.repubblica.it](https://d.repubblica.it)
- - date_published: 2024-05-12T06:45:07.649197+00:00
-
- ## Elezioni
- - [https://elezioni.repubblica.it](https://elezioni.repubblica.it)
- - date_published: 2024-06-29T23:50:25.228960+00:00
-
- ## L'Espresso - News, inchieste e approfondimenti
- - [https://espresso.repubblica.it](https://espresso.repubblica.it)
- - date_published: 2024-05-25T01:49:50.260068+00:00
-
- ## Firenze notizie e approfondimenti: Repubblica.it
- - [https://firenze.repubblica.it](https://firenze.repubblica.it)
- - date_published: 2024-05-12T06:43:48.436720+00:00
-
- ## Genova notizie e approfondimenti: Repubblica.it
- - [https://genova.repubblica.it](https://genova.repubblica.it)
- - date_published: 2024-05-12T06:43:51.690255+00:00
-
- ## Il terzo pianeta - Blog - Le Scienze
- - [http://ilterzopianeta-lescienze.blogautore.espresso.repubblica.it](http://ilterzopianeta-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:55:42.842926+00:00
-
- ## Il luogo delle vostre storie
- - [https://invececoncita.blogautore.repubblica.it](https://invececoncita.blogautore.repubblica.it)
- - date_published: 2024-05-12T06:44:49.351614+00:00
-
- ## Visual Lab - Il laboratorio digitale del Gruppo Gedi
- - [https://lab.repubblica.it](https://lab.repubblica.it)
- - date_published: 2018-10-30T09:00:00+00:00
-
- ## la Repubblica - News in tempo reale - Le notizie e i video di politica, cronaca, economia, sport
- - [https://la.repubblica.it](https://la.repubblica.it)
- - date_published: 2024-05-12T06:44:19.796652+00:00
-
- ## L’orologiaio miope - Blog - Le Scienze
- - [http://lorologiaiomiope-lescienze.blogautore.espresso.repubblica.it](http://lorologiaiomiope-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:56:08.860952+00:00
 

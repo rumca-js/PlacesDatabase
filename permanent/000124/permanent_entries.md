@@ -1,3 +1,11 @@
+ ## Batman Anthology Wiki
+ - [https://batmananthology.fandom.com](https://batmananthology.fandom.com)
+ - date_published: 2024-10-24T10:34:45+00:00
+
+ ## Batman: Caped Crusader Wiki
+ - [https://batman-caped-crusader.fandom.com](https://batman-caped-crusader.fandom.com)
+ - date_published: 2024-06-17T08:39:50+00:00
+
  ## Batman Wiki
  - [https://batman.fandom.com](https://batman.fandom.com)
  - date_published: 2024-06-17T08:28:13+00:00
@@ -3991,12 +3999,4 @@
  ## End of Nations Wiki
  - [https://endofnations.fandom.com](https://endofnations.fandom.com)
  - date_published: 2024-05-02T14:47:02.939730+00:00
-
- ## EndWar Wiki
- - [https://endwar.fandom.com](https://endwar.fandom.com)
- - date_published: 2024-06-16T22:38:06+00:00
-
- ## Enlisted Wiki
- - [https://enlisted.fandom.com](https://enlisted.fandom.com)
- - date_published: 2024-05-02T14:13:56.991438+00:00
 

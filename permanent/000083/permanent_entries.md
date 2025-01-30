@@ -1,3 +1,11 @@
+ ## Schroedinger's rat
+ - [https://schroedingersrat.blogspot.com](https://schroedingersrat.blogspot.com)
+ - date_published: 2024-05-12T13:04:00+00:00
+
+ ## schuldei.org
+ - [http://schuldei.blogspot.com](http://schuldei.blogspot.com)
+ - date_published: 2024-03-13T10:03:48+00:00
+
  ## Prinzipalität des Schultze-Böhnstadt
  - [http://schultze-boehnstadt.blogspot.com](http://schultze-boehnstadt.blogspot.com)
  - date_published: 2024-11-22T11:00:47+00:00
@@ -3999,12 +4007,4 @@
  ## Superete
  - [http://superete.blogspot.com](http://superete.blogspot.com)
  - date_published: 2024-09-14T10:50:03+00:00
-
- ## Super Famicom RPGs
- - [https://superfamicomrpgs.blogspot.com](https://superfamicomrpgs.blogspot.com)
- - date_published: 2024-12-19T23:18:11+00:00
-
- ## Super Galactic Dreadnought
- - [http://supergalacticdreadnought.blogspot.com](http://supergalacticdreadnought.blogspot.com)
- - date_published: 2024-07-08T08:09:12+00:00
 

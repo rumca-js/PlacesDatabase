@@ -1,3 +1,7 @@
+ ## Home | Copyright at UBC
+ - [https://copyright.ubc.ca](https://copyright.ubc.ca)
+ - date_published: 2024-07-21T09:07:18.519394+00:00
+
  ## Home :: UBC Library Course Reserves
  - [https://courses.library.ubc.ca](https://courses.library.ubc.ca)
  - date_published: 2024-07-21T09:07:54.593034+00:00
@@ -4011,8 +4015,4 @@
  ## Arctic Energy Alliance - Saving Energy and Saving Money in the NWT
  - [https://aea.nt.ca](https://aea.nt.ca)
  - date_published: 2024-10-28T20:27:07.150603+00:00
-
- ## Home - The Law Society of the Northwest Territories (QA)
- - [http://www.lawsociety.nt.ca](http://www.lawsociety.nt.ca)
- - date_published: 2024-08-20T00:00:00+00:00
 

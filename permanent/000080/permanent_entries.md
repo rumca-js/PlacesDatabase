@@ -1,3 +1,11 @@
+ ## Mystery Fanfare
+ - [https://mysteryreadersinc.blogspot.com](https://mysteryreadersinc.blogspot.com)
+ - date_published: 2024-10-17T23:16:34.511002+00:00
+
+ ## mystery thought bomb
+ - [https://mysterythoughtbomb.blogspot.com](https://mysterythoughtbomb.blogspot.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
  ## Mystery Train Wreck
  - [http://mysterytrainwreck.blogspot.com](http://mysterytrainwreck.blogspot.com)
  - date_published: 2024-11-06T02:58:03+00:00
@@ -4000,12 +4008,4 @@
  ## Galpino's Miniatures
  - [https://paintandlead.blogspot.com](https://paintandlead.blogspot.com)
  - date_published: 2024-08-28T11:30:04+00:00
-
- ## Paint Bard
- - [https://paintbard.blogspot.com](https://paintbard.blogspot.com)
- - date_published: 2024-05-17T10:41:00+00:00
-
- ## Paintbrush and Superglue
- - [http://paintbrushandsuperglue.blogspot.com](http://paintbrushandsuperglue.blogspot.com)
- - date_published: 2024-11-21T23:19:23+00:00
 

@@ -1,3 +1,64 @@
+ ## CAS – Central Authentication Service
+ - [https://cas.byu.edu](https://cas.byu.edu)
+ - date_published: 2024-07-17T03:09:21.656635+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://cas-dev.byu.edu](https://cas-dev.byu.edu)
+ - date_published: 2024-07-17T03:09:30.956383+00:00
+ - date_dead_since: 2025-01-16T02:26:55.114637+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://cas-stg.byu.edu](https://cas-stg.byu.edu)
+ - date_published: 2024-07-17T03:09:28.611764+00:00
+
+ ## BYU Catalog
+ - [https://catalog.byu.edu](https://catalog.byu.edu)
+ - date_published: 2024-12-19T18:03:56.930682+00:00
+
+ ## Home
+ - [https://ccc.byu.edu](https://ccc.byu.edu)
+ - date_published: 2024-07-20T22:24:22.654486+00:00
+
+ ## Cell Biology & Physiology
+ - [https://cell.byu.edu](https://cell.byu.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Cloud Apps
+ - [https://cloudapps.byu.edu](https://cloudapps.byu.edu)
+ - date_published: 2024-07-17T03:06:13.978749+00:00
+
+ ## Integrity and Compliance
+ - [https://compliance.byu.edu](https://compliance.byu.edu)
+ - date_published: 2024-07-17T03:09:04.250869+00:00
+
+ ## General Education | BYU Catalog
+ - [http://core.byu.edu](http://core.byu.edu)
+ - date_published: 2025-01-16T02:13:36.855578+00:00
+
+ ## English Corpora: most widely used online corpora. Billions of words of data: free online access
+ - [https://corpus.byu.edu](https://corpus.byu.edu)
+ - date_published: 2024-07-01T14:46:51.645274+00:00
+
+ ## Home
+ - [https://cougarcash.byu.edu](https://cougarcash.byu.edu)
+ - date_published: 2024-07-22T07:13:03.067198+00:00
+
+ ## Home - Computing, Math, and Science
+ - [https://cpms.byu.edu](https://cpms.byu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## BYU | Design Exploration
+ - [https://design.byu.edu](https://design.byu.edu)
+ - date_published: 2024-07-01T19:50:16.690428+00:00
+
+ ## The BYU Design Review
+ - [https://designreview.byu.edu](https://designreview.byu.edu)
+ - date_published: 2025-01-16T02:32:44.739927+00:00
+
+ ## BYU Developer Portal | Home - Developer
+ - [https://developer.byu.edu](https://developer.byu.edu)
+ - date_published: 2024-07-17T03:06:02.917658+00:00
+
  ## DNA Sequencing Center
  - [https://dnasc.byu.edu](https://dnasc.byu.edu)
  - date_published: 2024-08-06T17:56:15.488719+00:00
@@ -3970,64 +4031,4 @@ Mellon University
  ## - RamLink
  - [http://ramlink.colostate.edu](http://ramlink.colostate.edu)
  - date_published: 2024-08-11T10:44:03.706333+00:00
-
- ## RAMMB/CIRA SLIDER: Satellite Loop Interactive Data Explorer in Real-time with GOES-16 and Himawari-8 Satellite Imagery
- - [https://rammb-slider.cira.colostate.edu](https://rammb-slider.cira.colostate.edu)
- - date_published: 2024-05-30T20:04:49+00:00
-
- ## Office of the Registrar | Colorado State University
- - [http://registrar.colostate.edu](http://registrar.colostate.edu)
- - date_published: 2024-08-11T10:43:20.224560+00:00
-
- ## Log In ‹ Office of the Vice President for Research — WordPress
- - [https://research.source.colostate.edu](https://research.source.colostate.edu)
- - date_published: 2024-04-30T03:48:14.756308+00:00
-
- ## Colorado State University - College of Business
- - [https://rp1.biz.colostate.edu](https://rp1.biz.colostate.edu)
- - date_published: 2024-08-11T09:24:39.640410+00:00
-
- ## Colorado State University - College of Business
- - [https://rp2.biz.colostate.edu](https://rp2.biz.colostate.edu)
- - date_published: 2024-08-11T09:25:29.978537+00:00
-
- ## Safety | Colorado State University
- - [https://safety.colostate.edu](https://safety.colostate.edu)
- - date_published: 2024-08-11T11:22:44.966090+00:00
-
- ## Home - Salazar Center for North American Conservation
- - [https://salazarcenter.colostate.edu](https://salazarcenter.colostate.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Office of Financial Aid | Colorado State University
- - [http://sfs.colostate.edu](http://sfs.colostate.edu)
- - date_published: 2024-08-11T10:42:37.405505+00:00
-
- ## Home - School of Music, Theatre and Dance
- - [https://smtd.colostate.edu](https://smtd.colostate.edu)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## School of Education
- - [http://soe.chhs.colostate.edu](http://soe.chhs.colostate.edu)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Colorado State University News - SOURCE
- - [https://source.colostate.edu](https://source.colostate.edu)
- - date_published: 2023-11-29T17:19:55.036565+00:00
-
- ## Department of Statistics | CSU – Department of Statistics at Colorado State University
- - [https://statistics.colostate.edu](https://statistics.colostate.edu)
- - date_published: 2017-07-12T00:00:00+00:00
-
- ## Collaborative for Student Achievement
- - [http://studentachievement.colostate.edu](http://studentachievement.colostate.edu)
- - date_published: 2024-06-30T02:34:10+00:00
-
- ## Home | CSU Summer 2024
- - [http://summer.colostate.edu](http://summer.colostate.edu)
- - date_published: 2024-08-11T10:43:54.631749+00:00
-
- ## Sustainability – Shaping a Sustainable Future
- - [https://sustainability.colostate.edu](https://sustainability.colostate.edu)
- - date_published: 2024-07-21T00:00:00+00:00
 

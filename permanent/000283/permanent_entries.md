@@ -1,3 +1,43 @@
+ ## Dan Berard
+ - [https://dberarddotcom.wordpress.com](https://dberarddotcom.wordpress.com)
+ - date_published: 2024-07-11T15:23:05.839631+00:00
+
+ ## DBKR Ally Database
+ - [http://dbkrblog.wordpress.com](http://dbkrblog.wordpress.com)
+ - date_published: 2024-06-19T01:17:45.087785+00:00
+
+ ## shadowplay
+ - [https://dcairns.wordpress.com](https://dcairns.wordpress.com)
+ - date_published: 2024-12-19T09:43:23.636326+00:00
+
+ ## DC House Cat Chiming In
+ - [https://dchousecat.wordpress.com](https://dchousecat.wordpress.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Dominique Dumont's Blog
+ - [https://ddumont.wordpress.com](https://ddumont.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Dead Homer Society
+ - [https://deadhomersociety.wordpress.com](https://deadhomersociety.wordpress.com)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## The Deadliest Blogger: Military History Page
+ - [https://deadliestblogpage.wordpress.com](https://deadliestblogpage.wordpress.com)
+ - date_published: 2025-01-01T16:50:33.381389+00:00
+
+ ## Deadliest Reports
+ - [https://deadliestreports.wordpress.com](https://deadliestreports.wordpress.com)
+ - date_published: 2024-06-20T03:46:55.453473+00:00
+
+ ## Dead Reckonings
+ - [https://deadreckonings.wordpress.com](https://deadreckonings.wordpress.com)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Deafblindcan
+ - [http://deafblindcan.wordpress.com](http://deafblindcan.wordpress.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
  ## Deanna-Cian's Blog
  - [http://deannatarpey.wordpress.com](http://deannatarpey.wordpress.com)
  - date_published: 2024-06-30T00:00:00+00:00
@@ -3961,44 +4001,4 @@
  ## The Hakluyt Society Blog
  - [https://hakluytsociety.wordpress.com](https://hakluytsociety.wordpress.com)
  - date_published: 2024-10-29T18:24:17.659226+00:00
-
- ## Hak Pak Sak
- - [http://hakpaksak.wordpress.com](http://hakpaksak.wordpress.com)
- - date_published: 2024-08-06T08:45:18.206982+00:00
-
- ## Half Genius
- - [https://halfgeniusblog.wordpress.com](https://halfgeniusblog.wordpress.com)
- - date_published: 2024-08-11T05:36:28.166432+00:00
-
- ## halfmuffled
- - [http://halfmuffled.wordpress.com](http://halfmuffled.wordpress.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## halfthought
- - [https://halfthought.wordpress.com](https://halfthought.wordpress.com)
- - date_published: 2024-02-08T16:43:21.423616+00:00
-
- ## Halley's Log
- - [http://halleyslog.wordpress.com](http://halleyslog.wordpress.com)
- - date_published: 2024-10-29T18:45:35+00:00
-
- ## Hal Mueller's Blog
- - [https://halmueller.wordpress.com](https://halmueller.wordpress.com)
- - date_published: 2024-06-23T15:06:51.552847+00:00
-
- ## haluise
- - [http://haluise.wordpress.com](http://haluise.wordpress.com)
- - date_published: 2024-06-30T04:14:09.017963+00:00
-
- ## Ham Radio Blog PD0AC
- - [https://hamgear.wordpress.com](https://hamgear.wordpress.com)
- - date_published: 2024-12-25T14:35:28.627540+00:00
-
- ## Hampshire Archives and Local Studies
- - [https://hampshirearchivesandlocalstudies.wordpress.com](https://hampshirearchivesandlocalstudies.wordpress.com)
- - date_published: 2024-10-29T18:22:23.752363+00:00
-
- ## Handstands Around the World
- - [http://handstandsaroundtheworld.wordpress.com](http://handstandsaroundtheworld.wordpress.com)
- - date_published: 2024-09-18T09:59:52.293799+00:00
 

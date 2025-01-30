@@ -1,3 +1,7 @@
+ ## Humans and Technology - Exploring Tech in Everyday Lives | Humans and Technology
+ - [https://www.erinkernohan.ca](https://www.erinkernohan.ca)
+ - date_published: 2024-05-15T00:00:00+00:00
+
  ## i:Create ~ Login
  - [https://ic15.esolg.ca](https://ic15.esolg.ca)
  - date_published: 2024-06-29T09:47:29.724473+00:00
@@ -4030,8 +4034,4 @@
  ## Niagara Falls News Headlines | The Review
  - [https://www.niagarafallsreview.ca](https://www.niagarafallsreview.ca)
  - date_published: 2024-12-25T18:05:27+00:00
-
- ## Nick's blog
- - [https://nickhuber.ca](https://nickhuber.ca)
- - date_published: 2023-12-12T05:21:05+00:00
 

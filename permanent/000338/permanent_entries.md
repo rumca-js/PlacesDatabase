@@ -1,3 +1,64 @@
+ ## ●●●●●✺✺✺✺✺✹✹✹✹✹✸✸✸✸✸✷✷✷✷✷✶✶✶✶✶
+ - [https://ritual.engineer](https://ritual.engineer)
+ - date_published: 2024-09-14T23:26:38.237025+00:00
+
+ ## ACV Tech Blog
+ - [https://acv.engineering](https://acv.engineering)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Moderne Schnittstellen für Maschinen - Adaept Engineering
+ - [https://adaept.engineering](https://adaept.engineering)
+ - date_published: 2024-12-12T15:33:06+00:00
+
+ ## The Atomic Engineer
+ - [https://atomic.engineering](https://atomic.engineering)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Back Engineering Labs
+ - [https://back.engineering](https://back.engineering)
+ - date_published: 2024-12-11T07:03:26.570544+00:00
+
+ ## Back Engineering Blog
+ - [https://blog.back.engineering](https://blog.back.engineering)
+ - date_published: 2023-05-11T13:17:56+00:00
+
+ ## Private Group Of Back Engineers
+ - [https://git.back.engineering](https://git.back.engineering)
+ - date_published: 2024-12-11T07:03:18.405752+00:00
+
+ ## Barstool Engineering
+ - [https://barstool.engineering](https://barstool.engineering)
+ - date_published: 2024-06-23T02:19:40.456817+00:00
+
+ ## Benchling Engineering
+ - [https://benchling.engineering](https://benchling.engineering)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Web Browser Engineering
+ - [https://browser.engineering](https://browser.engineering)
+ - date_published: 2024-05-06T22:45:51.461129+00:00
+
+ ## care engineering | Anthony Langham | Substack
+ - [https://news.care.engineering](https://news.care.engineering)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## care.engineering
+ - [https://www.care.engineering](https://www.care.engineering)
+ - date_published: 2024-05-01T21:07:41.840423+00:00
+ - date_dead_since: 2024-12-11T07:05:40.064914+00:00
+
+ ## Le site où je raconte comment j'essaie de faire du logiciel de qualité
+ - [https://christopher.engineering](https://christopher.engineering)
+ - date_published: 2024-06-11T09:08:04.210411+00:00
+
+ ## Down-to-earth
+ - [https://d2e.engineering](https://d2e.engineering)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## deliveroo.engineering
+ - [https://deliveroo.engineering](https://deliveroo.engineering)
+ - date_published: 2023-11-22T14:27:25+00:00
+
  ## DoorDash Engineering
  - [https://doordash.engineering](https://doordash.engineering)
  - date_published: 2023-10-25T19:07:47.207070+00:00
@@ -3958,64 +4019,4 @@
  ## Simurg | Inicio
  - [http://simurg.csic.es](http://simurg.csic.es)
  - date_published: 2024-12-11T14:41:09.722264+00:00
-
- ## Sign in - Matomo
- - [https://stats.sgai.csic.es](https://stats.sgai.csic.es)
- - date_published: 2024-10-14T23:52:11.972154+00:00
-
- ## Institut Botànic de Barcelona - Centre mixt CSIC
- - [https://www.ibb.csic.es](https://www.ibb.csic.es)
- - date_published: 2024-06-16T22:23:09.346839+00:00
-
- ## Home | IMB CNM
- - [https://www.imb-cnm.csic.es](https://www.imb-cnm.csic.es)
- - date_published: 2024-09-12T12:14:50+00:00
-
- ## CSIF
- - [https://www.csif.es](https://www.csif.es)
- - date_published: 2024-12-11T16:54:34.925320+00:00
-
- ## CSS Guidelines (2.2.5) – High-level advice and guidelines for writing sane, manageable, scalable CSS
- - [https://cssguidelin.es](https://cssguidelin.es)
- - date_published: 2022-09-01T10:44:37+00:00
-
- ## Cataloxy - crea tu página web en media hora gratis
- - [https://www.ctlx.es](https://www.ctlx.es)
- - date_published: 2015-02-02T10:09:24+00:00
-
- ## ctrlz
- - [https://ctrlz.es](https://ctrlz.es)
- - date_published: 2024-05-09T08:25:28.249882+00:00
-
- ## fedi.ctrlz.es - GoToSocial
- - [https://fedi.ctrlz.es](https://fedi.ctrlz.es)
- - date_published: 2024-07-10T10:01:31.266687+00:00
-
- ## Umami
- - [https://umami.ctrlz.es](https://umami.ctrlz.es)
- - date_published: 2024-07-10T10:01:32.089278+00:00
-
- ## ¡Suscríbete a CTXT!
- - [https://agora.ctxt.es](https://agora.ctxt.es)
- - date_published: 2018-01-30T17:41:30+00:00
-
- ## Ctxt.es
- - [https://ctxt.es](https://ctxt.es)
- - date_published: 2024-07-10T06:12:37.797508+00:00
-
- ## cuenca.es
- - [https://www.cuenca.es](https://www.cuenca.es)
- - date_published: 2025-01-15T20:54:20.535856+00:00
-
- ## Centro Universitario de la Guardia Civil
- - [https://cugc.es](https://cugc.es)
- - date_published: 2024-09-12T12:08:24+00:00
-
- ## Inicio
- - [https://cuidademi.es](https://cuidademi.es)
- - date_published: 2024-12-11T10:01:11.598757+00:00
-
- ## Cuidados Laburo
- - [https://cuidadoslaburo.es](https://cuidadoslaburo.es)
- - date_published: 2024-09-12T11:56:25.252547+00:00
 

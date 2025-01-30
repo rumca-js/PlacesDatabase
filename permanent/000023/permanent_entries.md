@@ -1,3 +1,7 @@
+ ## Nick's blog
+ - [https://nickhuber.ca](https://nickhuber.ca)
+ - date_published: 2023-12-12T05:21:05+00:00
+
  ## Nikhita Joshi
  - [https://nikhitajoshi.ca](https://nikhitajoshi.ca)
  - date_published: 2024-06-23T15:48:46+00:00
@@ -4037,8 +4041,4 @@
  ## Secure logon for UBC VPNLESS MFA
  - [https://confluence.it.ubc.ca](https://confluence.it.ubc.ca)
  - date_published: 2024-07-21T09:07:35.981145+00:00
-
- ## Home | Copyright at UBC
- - [https://copyright.ubc.ca](https://copyright.ubc.ca)
- - date_published: 2024-07-21T09:07:18.519394+00:00
 

@@ -1,4 +1,64 @@
  ## Commitment to Privacy
+ - [https://collaborate.vcu.edu](https://collaborate.vcu.edu)
+ - date_published: 2024-07-02T12:58:17.021387+00:00
+
+ ## Commitment to Privacy
+ - [https://commencement.vcu.edu](https://commencement.vcu.edu)
+ - date_published: 2024-06-16T06:31:16.901233+00:00
+
+ ## Commitment to Privacy
+ - [https://communications.semss.vcu.edu](https://communications.semss.vcu.edu)
+ - date_published: 2024-07-02T12:47:27.338367+00:00
+
+ ## Commitment to Privacy
+ - [https://community.pharmacy.vcu.edu](https://community.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:50:34.598080+00:00
+
+ ## Commitment to Privacy
+ - [https://community.vcu.edu](https://community.vcu.edu)
+ - date_published: 2024-05-07T22:23:15.462966+00:00
+
+ ## Commitment to Privacy
+ - [https://compass.vcu.edu](https://compass.vcu.edu)
+ - date_published: 2025-01-09T19:35:42.347587+00:00
+
+ ## Commitment to Privacy
+ - [https://compounding.pharmacy.vcu.edu](https://compounding.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:50:31.921591+00:00
+
+ ## Commitment to Privacy
+ - [https://conduct.students.vcu.edu](https://conduct.students.vcu.edu)
+ - date_published: 2024-07-02T12:49:18.538191+00:00
+
+ ## Commitment to Privacy
+ - [https://connect.business.vcu.edu](https://connect.business.vcu.edu)
+ - date_published: 2025-01-09T19:42:26.309770+00:00
+
+ ## Commitment to Privacy
+ - [https://connected.vcu.edu](https://connected.vcu.edu)
+ - date_published: 2024-07-02T12:50:03.496191+00:00
+
+ ## Commitment to Privacy
+ - [https://controller.vcu.edu](https://controller.vcu.edu)
+ - date_published: 2024-07-02T12:47:34.977521+00:00
+
+ ## Commitment to Privacy
+ - [https://council.vcu.edu](https://council.vcu.edu)
+ - date_published: 2024-07-02T12:57:45.745623+00:00
+
+ ## Commitment to Privacy
+ - [https://counseling.vcu.edu](https://counseling.vcu.edu)
+ - date_published: 2024-07-02T12:49:07.501075+00:00
+
+ ## Commitment to Privacy
+ - [https://cpel.vcu.edu](https://cpel.vcu.edu)
+ - date_published: 2024-07-02T12:44:24.396893+00:00
+
+ ## Commitment to Privacy
+ - [https://cpsd.vcu.edu](https://cpsd.vcu.edu)
+ - date_published: 2024-07-02T12:47:51.945495+00:00
+
+ ## Commitment to Privacy
  - [https://create.lab.vcu.edu](https://create.lab.vcu.edu)
  - date_published: 2024-07-02T12:44:08.130001+00:00
 
@@ -3952,64 +4012,4 @@
  ## Home - The Faith COMPASS Center
  - [https://faithcompass.wfu.edu](https://faithcompass.wfu.edu)
  - date_published: 2024-03-18T00:00:00+00:00
-
- ## Home - WFU Family Weekend
- - [https://familyweekend.wfu.edu](https://familyweekend.wfu.edu)
- - date_published: 2025-01-09T21:16:21+00:00
-
- ## Wake Forest Fellows | Wake Forest University
- - [https://fellows.president.wfu.edu](https://fellows.president.wfu.edu)
- - date_published: 2025-01-09T23:09:45+00:00
-
- ## Financial Services | Wake Forest University
- - [https://finance.wfu.edu](https://finance.wfu.edu)
- - date_published: 2025-01-09T19:47:25+00:00
-
- ## Financial Aid | Wake Forest School of Law
- - [https://financialaid.law.wfu.edu](https://financialaid.law.wfu.edu)
- - date_published: 2024-07-02T14:05:23.224543+00:00
-
- ## Student Financial Aid | Wake Forest University
- - [https://financialaid.wfu.edu](https://financialaid.wfu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## First in the Forest | Wake Forest University
- - [https://firstintheforest.wfu.edu](https://firstintheforest.wfu.edu)
- - date_published: 2025-01-10T00:58:05+00:00
-
- ## Strategic Framework - Strategic Framework
- - [https://framework.wfu.edu](https://framework.wfu.edu)
- - date_published: 2025-01-09T19:53:00+00:00
-
- ## Giving Opportunities - New | Giving Opportunities | Wake Forest University
- - [https://giving.wfu.edu](https://giving.wfu.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Global Wake Forest - Global Wake Forest
- - [https://global.wfu.edu](https://global.wfu.edu)
- - date_published: 2024-06-27T17:06:26+00:00
-
- ## Home - WFU Go Links
- - [https://go.wfu.edu](https://go.wfu.edu)
- - date_published: 2025-01-10T04:05:35+00:00
-
- ## Graduate School of Arts & Sciences | Wake Forest University
- - [https://graduate.wfu.edu](https://graduate.wfu.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Graduate Student Association | Wake Forest University
- - [https://gsa.graduate.wfu.edu](https://gsa.graduate.wfu.edu)
- - date_published: 2023-03-06T00:00:00+00:00
-
- ## Home - Hazing Prevention
- - [http://hazing.wfu.edu](http://hazing.wfu.edu)
- - date_published: 2025-01-23T15:34:20.733896+00:00
-
- ## Support Home | AskDeac
- - [https://help.wfu.edu](https://help.wfu.edu)
- - date_published: 2025-01-10T05:21:46.260735+00:00
-
- ## WFU Homecoming and Reunion Weekend 2024
- - [https://homecoming.wfu.edu](https://homecoming.wfu.edu)
- - date_published: 2025-01-09T19:44:16+00:00
 

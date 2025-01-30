@@ -1,3 +1,11 @@
+ ## dependable renegade
+ - [https://dependablerenegade.com](https://dependablerenegade.com)
+ - date_published: 2024-06-28T21:18:36.005791+00:00
+
+ ## Features • Security
+ - [https://dependabot.com](https://dependabot.com)
+ - date_published: 2024-05-09T08:46:18.060210+00:00
+
  ## DePerp DePerp for Onchain Trading Rare Resources | DePerp for Onchain Trading Rare Resources
  - [https://deperp.com](https://deperp.com)
  - date_published: 2024-09-23T18:29:14.780224+00:00
@@ -4009,12 +4017,4 @@
  - [https://blog.devontrack.com](https://blog.devontrack.com)
  - date_published: 2024-05-24T02:37:01+00:00
  - tags: ['personal']
-
- ## Devon's  clippings
- - [https://clippings.devonzuegel.com](https://clippings.devonzuegel.com)
- - date_published: 2024-09-15T13:57:26.709567+00:00
-
- ## devonzuegel.com
- - [https://devonzuegel.com](https://devonzuegel.com)
- - date_published: 2023-10-25T13:51:08.835756+00:00
 

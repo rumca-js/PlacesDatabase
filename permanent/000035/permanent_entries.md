@@ -1,3 +1,7 @@
+ ## 中国共产党隆德县纪律检查委员会
+ - [http://www.ldxjjjc.gov.cn](http://www.ldxjjjc.gov.cn)
+ - date_published: 2025-01-13T05:40:42.758037+00:00
+
  ## 智慧普法平台
  - [http://www.legalinfo.gov.cn](http://www.legalinfo.gov.cn)
  - date_published: 2024-06-29T04:49:42+00:00
@@ -4021,8 +4025,4 @@
  ## 项城市人民政府
  - [http://xiangcheng.gov.cn](http://xiangcheng.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## 祥符区人民政府门户网站  开封市祥符区人民政府办公室
- - [https://xiangfuqu.gov.cn](https://xiangfuqu.gov.cn)
- - date_published: 2024-06-25T00:00:00+00:00
 

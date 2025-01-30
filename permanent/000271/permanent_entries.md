@@ -1,3 +1,44 @@
+ ## Memos - Easily capture and share your great thoughts. Open Source and Free forever
+ - [https://usememos.com](https://usememos.com)
+ - date_published: 2024-04-08T19:31:10.246286+00:00
+ - tags: ['note app', 'open source', 'self-host']
+
+ ## Meru | Automatic Nursing Scribe
+ - [https://usemeru.com](https://usemeru.com)
+ - date_published: 2024-10-30T19:52:56+00:00
+
+ ## Show HN: Minimalist Calendars Generator
+ - [https://useminimal.com](https://useminimal.com)
+ - date_published: 2023-12-09T21:06:53+00:00
+
+ ## Top 15 Trang Cá Cược, Cá Độ Bóng Đá Uy Tín Nhất Việt Nam
+ - [http://www.usemod.com](http://www.usemod.com)
+ - date_published: 2023-11-10T00:00:00+00:00
+
+ ## Start Here | Motion Affiliate Resource Center
+ - [https://affiliate.usemotion.com](https://affiliate.usemotion.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Motion Tasks and Scheduling
+ - [https://app.usemotion.com](https://app.usemotion.com)
+ - date_published: 2024-05-06T21:26:28.975857+00:00
+
+ ## Motion | Meet Motion Calendar. Try it for Free
+ - [https://get.usemotion.com](https://get.usemotion.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Welcome | Motion Knowledge Base
+ - [https://help.usemotion.com](https://help.usemotion.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## AI Calendar | Meet Motion's AI Calendar Assistant (Try for Free)
+ - [https://usemotion.com](https://usemotion.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Multiplier | The world's leading global human platform
+ - [https://www.usemultiplier.com](https://www.usemultiplier.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## Nash | All-in-1 Reliable Delivery for Any Business
  - [https://www.usenash.com](https://www.usenash.com)
  - date_published: 2024-05-29T00:00:00+00:00
@@ -3974,45 +4015,4 @@
  ## Vanguard - New Releases
  - [https://vanguardpublishing.com](https://vanguardpublishing.com)
  - date_published: 2024-10-01T13:45:34+00:00
-
- ## SA Spanish Home Page | Vanguard South America
- - [https://www.vanguardsouthamerica.com](https://www.vanguardsouthamerica.com)
- - date_published: 2024-10-17T13:57:59.664560+00:00
-
- ## Master Warhammer 40k 10th Edition | Vanguard Tactics Academy
- - [https://academy.vanguardtactics.com](https://academy.vanguardtactics.com)
- - date_published: 2024-06-18T09:43:21.374890+00:00
-
- ## Test Your Warhammer 40k Strategy IQ
- - [https://quiz.vanguardtactics.com](https://quiz.vanguardtactics.com)
- - date_published: 2023-12-04T00:00:00+00:00
-
- ## Warhammer 40K Coaching Services - Vanguard Tactics
- - [https://vanguardtactics.com](https://vanguardtactics.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Vanguard Group International | High quality fresh produce
- - [https://vanguardteam.com](https://vanguardteam.com)
- - date_published: 2024-11-07T00:00:00+00:00
-
- ## Grupo Vanguard Internacional
- - [https://www.vanguardteam.com](https://www.vanguardteam.com)
- - date_published: 2024-06-19T23:22:35.986851+00:00
-
- ## VanHack Talent Pool | Find your next great tech hire
- - [https://vanhack.com](https://vanhack.com)
- - date_published: 2024-12-27T12:49:24.257763+00:00
-
- ## Van Halen Official Shop
- - [https://vanhalenshop.com](https://vanhalenshop.com)
- - date_published: 2024-06-30T12:33:31.642992+00:00
- - tags: ['music artist']
-
- ## index
- - [https://vanhunteradams.com](https://vanhunteradams.com)
- - date_published: 2023-10-25T17:55:19.369824+00:00
-
- ## Vanidades
- - [https://www.vanidades.com](https://www.vanidades.com)
- - date_published: 2024-10-14T23:01:52.129228+00:00
 

@@ -1,3 +1,23 @@
+ ## Hotel San Guido Milan - new 2024 prices, reviews, book now
+ - [http://san-guido-milan.hotels-lombardy.com](http://san-guido-milan.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:29:59.208182+00:00
+
+ ## Hotel San Pietro Limone sul Garda - new 2024 prices, reviews, book now
+ - [http://san-pietro-limone-sul-garda.hotels-lombardy.com](http://san-pietro-limone-sul-garda.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:12:54.248096+00:00
+
+ ## Hotel San Rocco Hotel Scanzorosciate - new 2024 prices, reviews, book now
+ - [http://san-rocco-hotel.hotels-lombardy.com](http://san-rocco-hotel.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:57:59.077798+00:00
+
+ ## Hotel Santa Barbara San Donato Milanese - new 2024 prices, reviews, book now
+ - [http://santa-barbara-hotel.hotels-lombardy.com](http://santa-barbara-hotel.hotels-lombardy.com)
+ - date_published: 2024-06-29T13:02:21.795842+00:00
+
+ ## Hotel Santa Marta Suites Milan - new 2024 prices, reviews, book now
+ - [http://santa-marta-suites.hotels-lombardy.com](http://santa-marta-suites.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:46:05.488215+00:00
+
  ## Hotel Sant'Ambroeus Milan - new 2024 prices, reviews, book now
  - [http://santambroeus.hotels-lombardy.com](http://santambroeus.hotels-lombardy.com)
  - date_published: 2024-06-29T12:23:19.037321+00:00
@@ -3985,25 +4005,5 @@
 
  ## Health
  - [https://health.howstuffworks.com](https://health.howstuffworks.com)
- - date_published: 2006-01-29T05:00:00+00:00
-
- ## History
- - [https://history.howstuffworks.com](https://history.howstuffworks.com)
- - date_published: 2008-02-27T08:00:00+00:00
-
- ## Home & Garden
- - [https://home.howstuffworks.com](https://home.howstuffworks.com)
- - date_published: 2006-01-29T05:00:00+00:00
-
- ## HowStuffWorks - Learn How Everything Works!
- - [https://howstuffworks.com](https://howstuffworks.com)
- - date_published: 2024-05-11T08:04:33.534172+00:00
-
- ## Lifestyle
- - [https://lifestyle.howstuffworks.com](https://lifestyle.howstuffworks.com)
- - date_published: 2014-02-11T08:00:00+00:00
-
- ## Money
- - [https://money.howstuffworks.com](https://money.howstuffworks.com)
  - date_published: 2006-01-29T05:00:00+00:00
 

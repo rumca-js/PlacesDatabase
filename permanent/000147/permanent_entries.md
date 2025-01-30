@@ -1,3 +1,21 @@
+ ## Local news from your trusted source. Subscribe now. | CT Insider
+ - [https://subscription.hearstmediact.com](https://subscription.hearstmediact.com)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Home Decor - Best Home Decorating Ideas
+ - [http://elledecor.hearstmobile.com](http://elledecor.hearstmobile.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Recipe Ideas, Product Reviews, Home Decor Inspiration, and  Beauty Tips - Good Housekeeping
+ - [http://goodhousekeeping.hearstmobile.com](http://goodhousekeeping.hearstmobile.com)
+ - date_published: 2024-05-09T05:34:38.158376+00:00
+ - date_dead_since: 2025-01-27T21:11:27.732308+00:00
+
+ ## Luxury Style, Travel, and Leisure - Town & Country Magazine
+ - [http://townandcountry.hearstmobile.com](http://townandcountry.hearstmobile.com)
+ - date_published: 2024-05-06T20:13:09.906279+00:00
+ - date_dead_since: 2025-01-27T21:11:29.225912+00:00
+
  ## Homepage | Hearst Networks EMEA
  - [https://hearstnetworks.com](https://hearstnetworks.com)
  - date_published: 2024-10-20T12:28:48.787325+00:00
@@ -1328,9 +1346,8 @@
  - date_published: 2023-12-03T05:04:32+00:00
 
  ## Say Hello!
- - [https://sayhello.helloflask.com](https://sayhello.helloflask.com)
+ - [http://sayhello.helloflask.com](http://sayhello.helloflask.com)
  - date_published: 2024-07-10T00:00:00+00:00
- - date_dead_since: 2025-01-28T17:00:14.522936+00:00
 
  ## Grey Li's Watchlist
  - [https://watchlist.helloflask.com](https://watchlist.helloflask.com)
@@ -1451,7 +1468,7 @@
  - date_published: 2024-06-25T18:52:03.415190+00:00
 
  ## HELLO! - Daily royal, celebrity, fashion, beauty & lifestyle news
- - [http://www.hellomagazine.com](http://www.hellomagazine.com)
+ - [https://www.hellomagazine.com](https://www.hellomagazine.com)
  - date_published: 2024-07-11T00:00:00+00:00
 
  ## Mayuko Inoue
@@ -1464,8 +1481,9 @@
  - date_published: 2024-08-19T15:38:38.319864+00:00
 
  ## Hellomeets
- - [https://www.hellomeets.com](https://www.hellomeets.com)
+ - [http://hellomeets.com](http://hellomeets.com)
  - date_published: 2024-07-14T10:21:27.493701+00:00
+ - date_dead_since: 2025-01-28T17:13:37.685435+00:00
 
  ## Hello Merch - Band Merch | Web Stores | Fulfillment | Screen Printing
  - [https://hellomerch.com](https://hellomerch.com)
@@ -1473,7 +1491,7 @@
  - tags: ['merchandise']
 
  ## Home - Hello Michelle Swan
- - [http://hellomichelleswan.com](http://hellomichelleswan.com)
+ - [https://hellomichelleswan.com](https://hellomichelleswan.com)
  - date_published: 2024-09-03T23:00:22.407719+00:00
 
  ## hello miguel
@@ -1481,11 +1499,11 @@
  - date_published: 2024-07-07T03:12:02+00:00
 
  ## Hello Monday
- - [http://hellomonday.com](http://hellomonday.com)
+ - [https://hellomonday.com](https://hellomonday.com)
  - date_published: 2024-09-16T04:24:14.064836+00:00
 
  ## Jessica Rosenberg  ⇢ Creative Leader
- - [https://www.hellomynameisjess.com](https://www.hellomynameisjess.com)
+ - [https://hellomynameisjess.com](https://hellomynameisjess.com)
  - date_published: 2023-07-11T00:00:00+00:00
 
  ## Advice-Only Financial Advisors
@@ -1493,35 +1511,37 @@
  - date_published: 2024-10-30T15:40:10+00:00
 
  ## Hellooo Productions
- - [http://helloootv.com](http://helloootv.com)
+ - [https://helloootv.com](https://helloootv.com)
  - date_published: 2024-07-17T11:11:21.547588+00:00
 
  ## Hello Outbound - The Outbound Agency Built by Engineers
- - [https://hellooutbound.com](https://hellooutbound.com)
+ - [http://hellooutbound.com](http://hellooutbound.com)
  - date_published: 2024-05-21T00:00:00+00:00
+ - date_dead_since: 2025-01-28T17:13:57.120473+00:00
 
  ## Pearl - The future of dentistry, powered by dental AI.
  - [https://hellopearl.com](https://hellopearl.com)
  - date_published: 2024-05-03T00:00:00+00:00
 
  ## Practice Intelligence
- - [http://pi.hellopearl.com](http://pi.hellopearl.com)
+ - [https://pi.hellopearl.com](https://pi.hellopearl.com)
  - date_published: 2024-06-08T02:58:18+00:00
 
  ## Second Opinion
- - [http://secondopinion.hellopearl.com](http://secondopinion.hellopearl.com)
+ - [https://secondopinion.hellopearl.com](https://secondopinion.hellopearl.com)
  - date_published: 2024-06-27T14:21:52+00:00
 
  ## Sophia Foster-Dimino
- - [http://www.hellophia.com](http://www.hellophia.com)
+ - [https://hellophia.com](https://hellophia.com)
  - date_published: 2024-06-26T14:19:12.592317+00:00
+ - date_dead_since: 2025-01-28T17:15:58.652868+00:00
 
  ## Home
- - [https://www.helloposition.com](https://www.helloposition.com)
+ - [https://helloposition.com](https://helloposition.com)
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## AARON HUEY is a photographer and new media artist.
- - [https://www.helloprototype.com](https://www.helloprototype.com)
+ - [https://helloprototype.com](https://helloprototype.com)
  - date_published: 2024-09-19T00:38:02.715773+00:00
 
  ## HelloQuery - homepage
@@ -1529,7 +1549,7 @@
  - date_published: 2024-06-23T02:59:31.089308+00:00
 
  ## Xoilac TV | TTBD Xôi Lạc hôm nay, trực tiếp bóng đá Euro 2024
- - [http://helloracer.com](http://helloracer.com)
+ - [https://helloracer.com](https://helloracer.com)
  - date_published: 2024-08-06T13:35:27+00:00
 
  ## Hell Orbs - Listen/Download Hell Orbs MP3
@@ -1538,7 +1558,7 @@
 
  ## Reco Trip Designers | A new kind of travel agent experience from
       Tripadvisor
- - [https://www.helloreco.com](https://www.helloreco.com)
+ - [https://helloreco.com](https://helloreco.com)
  - date_published: 2023-11-15T17:11:42+00:00
 
  ## Hello Records
@@ -1548,9 +1568,10 @@
  ## Signin
  - [https://helloretailcdn.com](https://helloretailcdn.com)
  - date_published: 2024-09-19T20:35:04.158123+00:00
+ - date_dead_since: 2025-01-28T17:15:01.620326+00:00
 
  ## Blog | HelloReverb.com
- - [http://blog.helloreverb.com](http://blog.helloreverb.com)
+ - [https://blog.helloreverb.com](https://blog.helloreverb.com)
  - date_published: 2019-11-23T18:13:09+00:00
 
  ## Redirecting
@@ -1566,7 +1587,7 @@
  - date_published: 2024-06-13T18:41:30.687301+00:00
 
  ## Latest News - Hello, Rust!
- - [http://www.hellorust.com](http://www.hellorust.com)
+ - [https://hellorust.com](https://hellorust.com)
  - date_published: 2019-01-22T00:00:00+00:00
 
  ## Hello Screen Printing
@@ -1588,9 +1609,10 @@
  ## Help Center
  - [https://faq.hellosign.com](https://faq.hellosign.com)
  - date_published: 2015-03-23T00:00:00+00:00
+ - date_dead_since: 2025-01-28T17:15:18.843811+00:00
 
  ## Dropbox Sign eSignature Agreements — Work Smarter
- - [https://www.hellosign.com](https://www.hellosign.com)
+ - [https://hellosign.com](https://hellosign.com)
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## Hello! | Splat
@@ -1602,7 +1624,7 @@
  - date_published: 2024-06-23T12:30:03.677167+00:00
 
  ## HelloTalk | Free Language Exchange | Language Partners
- - [https://www.hellotalk.com](https://www.hellotalk.com)
+ - [https://hellotalk.com](https://hellotalk.com)
  - date_published: 2024-07-02T20:16:55.655709+00:00
 
  ## TARS Admin Login Page | Increase Conversion Rates with Conversational Landing Pages for Google Ads - Tars
@@ -1614,19 +1636,21 @@
  - date_published: 2024-08-06T21:07:12.411663+00:00
 
  ## Attention Required! | Cloudflare
- - [https://www.hellotend.com](https://www.hellotend.com)
+ - [https://hellotend.com](https://hellotend.com)
  - date_published: 2024-06-16T19:20:24.312897+00:00
+ - date_dead_since: 2025-01-28T17:15:48.798405+00:00
 
  ## Unlock eCommerce Growth | Hellotext
- - [https://hellotext.com](https://hellotext.com)
+ - [http://hellotext.com](http://hellotext.com)
  - date_published: 2024-09-18T15:39:39.352934+00:00
+ - date_dead_since: 2025-01-28T17:15:49.331249+00:00
 
  ## Hello Tokyo
- - [https://www.hellotky.com](https://www.hellotky.com)
+ - [https://hellotky.com](https://hellotky.com)
  - date_published: 2024-07-02T06:06:34.254807+00:00
 
  ## Turbine
- - [https://www.helloturbine.com](https://www.helloturbine.com)
+ - [https://helloturbine.com](https://helloturbine.com)
  - date_published: 2024-06-20T04:43:32.856096+00:00
 
  ## HELLOTUX
@@ -1634,12 +1658,13 @@
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## 你好台湾
- - [http://www.hellotw.com](http://www.hellotw.com)
+ - [http://hellotw.com](http://hellotw.com)
  - date_published: 2024-06-30T19:07:33.967304+00:00
 
  ## Hello Velocity
- - [http://www.hellovelocity.com](http://www.hellovelocity.com)
+ - [https://hellovelocity.com](https://hellovelocity.com)
  - date_published: 2019-07-05T16:34:33+00:00
+ - date_dead_since: 2025-01-28T17:30:03.238397+00:00
 
  ## Fitness Studio Software | Walla
  - [https://api.hellowalla.com](https://api.hellowalla.com)
@@ -1649,13 +1674,13 @@
  - [https://helloweather.com](https://helloweather.com)
  - date_published: 2024-05-06T14:47:33.107079+00:00
 
+ ## HelloWork | Offres Emploi, Alerte mail, CV et Recrutement en France
+ - [https://hellowork.com](https://hellowork.com)
+ - date_published: 2024-07-12T05:42:57.136493+00:00
+
  ## Hellowork recruteur | Démarrez vos recrutements
  - [https://recruteur.hellowork.com](https://recruteur.hellowork.com)
  - date_published: 2024-12-12T15:57:33+00:00
-
- ## HelloWork | Offres Emploi, Alerte mail, CV et Recrutement en France
- - [https://www.hellowork.com](https://www.hellowork.com)
- - date_published: 2024-07-12T05:42:57.136493+00:00
 
  ## Getting Started
  - [https://docs.helloworks.com](https://docs.helloworks.com)
@@ -1666,11 +1691,12 @@
  - date_published: 2024-06-16T17:06:48.098376+00:00
 
  ## wynHealth
- - [https://www.hellowyn.com](https://www.hellowyn.com)
+ - [https://hellowyn.com](https://hellowyn.com)
  - date_published: 2024-08-06T15:11:36+00:00
+ - date_dead_since: 2025-01-28T17:30:37.930249+00:00
 
  ## HelloYouCreatives
- - [http://helloyoucreatives.com](http://helloyoucreatives.com)
+ - [https://helloyoucreatives.com](https://helloyoucreatives.com)
  - date_published: 2024-09-09T13:20:36.314002+00:00
 
  ## YUMI - Organic Baby Food Delivery
@@ -1678,7 +1704,7 @@
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Complex Payments Made Simple | Zai
- - [https://www.hellozai.com](https://www.hellozai.com)
+ - [https://hellozai.com](https://hellozai.com)
  - date_published: 2024-09-24T14:12:52+00:00
 
  ## 24 best sports betting sites ✔️ top bookmakers 2024
@@ -1691,8 +1717,9 @@
 
  ## hellshaw.com - an exercise in blatant
 	self-promotion
- - [http://www.hellshaw.com](http://www.hellshaw.com)
+ - [https://hellshaw.com](https://hellshaw.com)
  - date_published: 2005-03-10T15:57:05+00:00
+ - date_dead_since: 2025-01-28T17:30:56.193630+00:00
 
  ## Helly Cherry Web Magazine
  - [http://hellycherry.com](http://hellycherry.com)
@@ -4045,21 +4072,4 @@
  ## Security Check
  - [https://dns.hetzner.com](https://dns.hetzner.com)
  - date_published: 2024-05-09T07:11:30.862662+00:00
-
- ## Hetzner Docs
- - [https://docs.hetzner.com](https://docs.hetzner.com)
- - date_published: 2024-02-29T16:26:26.802174+00:00
-
- ## Login - Hetzner Forum
- - [https://forum.hetzner.com](https://forum.hetzner.com)
- - date_published: 2024-07-10T02:42:15+00:00
-
- ## Dedicated Server, Cloud, Storage & Hosting
- - [https://hetzner.com](https://hetzner.com)
- - date_published: 2024-02-29T21:22:07+00:00
- - tags: ['servers hosting']
-
- ## Security Check
- - [https://konsoleh.hetzner.com](https://konsoleh.hetzner.com)
- - date_published: 2024-05-09T07:11:37.262298+00:00
 

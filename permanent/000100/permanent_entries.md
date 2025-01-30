@@ -1,3 +1,11 @@
+ ## CMX: Helping Community Professionals Thrive
+ - [https://cmxhub.com](https://cmxhub.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## CMX Connect, powered by Bevy
+ - [https://events.cmxhub.com](https://events.cmxhub.com)
+ - date_published: 2024-07-07T03:21:52.734194+00:00
+
  ## Caiming Xiong - Home Page
  - [http://cmxiong.com](http://cmxiong.com)
  - date_published: 2022-03-07T22:54:08+00:00
@@ -4030,12 +4038,4 @@
  ## CoinJar Support AU
  - [https://support.coinjar.com](https://support.coinjar.com)
  - date_published: 2024-10-02T12:27:09.344899+00:00
-
- ## Coink – Ahorro con propósito
- - [https://coink.com](https://coink.com)
- - date_published: 2024-09-10T21:57:01+00:00
-
- ## COINKITE Blog
- - [https://blog.coinkite.com](https://blog.coinkite.com)
- - date_published: 2025-01-25T11:37:39.726699+00:00
 

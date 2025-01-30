@@ -1,3 +1,11 @@
+ ## Early Grove String Band
+ - [http://www.earlygrovestringband.com](http://www.earlygrovestringband.com)
+ - date_published: 2020-02-02T19:45:00+00:00
+
+ ## Early Innovations
+ - [http://www.earlyinnovations.com](http://www.earlyinnovations.com)
+ - date_published: 2016-11-28T21:13:37+00:00
+
  ## Early Majority
  - [https://earlymajority.com](https://earlymajority.com)
  - date_published: 2024-06-14T02:41:02.768482+00:00
@@ -4010,12 +4018,4 @@
  ## DnB&EDM: Where Electronic Music Lives
  - [https://edmdnb.com](https://edmdnb.com)
  - date_published: 2024-05-01T00:28:05.771125+00:00
-
- ## EDM Library
- - [https://edmlibrary.com](https://edmlibrary.com)
- - date_published: 2024-07-13T03:34:09.904546+00:00
-
- ## Home | Edmond de Rothschild
- - [https://www.edmond-de-rothschild.com](https://www.edmond-de-rothschild.com)
- - date_published: 2024-06-17T00:00:00+00:00
 

@@ -1,3 +1,11 @@
+ ## Paint Bard
+ - [https://paintbard.blogspot.com](https://paintbard.blogspot.com)
+ - date_published: 2024-05-17T10:41:00+00:00
+
+ ## Paintbrush and Superglue
+ - [http://paintbrushandsuperglue.blogspot.com](http://paintbrushandsuperglue.blogspot.com)
+ - date_published: 2024-11-21T23:19:23+00:00
+
  ## Paintbrush Destruction
  - [http://paintbrushdestruction.blogspot.com](http://paintbrushdestruction.blogspot.com)
  - date_published: 2024-08-30T17:15:24+00:00
@@ -4017,12 +4025,4 @@
  ## Quendil's World
  - [https://quendilsworld.blogspot.com](https://quendilsworld.blogspot.com)
  - date_published: 2024-03-13T04:32:45+00:00
-
- ## que poesia
- - [http://quepoesia.blogspot.com](http://quepoesia.blogspot.com)
- - date_published: 2024-09-20T20:38:48+00:00
-
- ## Query Shark
- - [http://queryshark.blogspot.com](http://queryshark.blogspot.com)
- - date_published: 2024-12-27T10:16:50+00:00
 

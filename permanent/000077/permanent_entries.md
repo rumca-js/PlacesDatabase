@@ -1,3 +1,11 @@
+ ## Blogger
+ - [http://imisscoco.blogspot.com](http://imisscoco.blogspot.com)
+ - date_published: 2024-12-19T10:23:35.649360+00:00
+
+ ## Imitation of Life Miniatures
+ - [http://imitationoflifeminiatures.blogspot.com](http://imitationoflifeminiatures.blogspot.com)
+ - date_published: 2024-06-29T18:12:12+00:00
+
  ## Horizons
  - [http://immasmartypants.blogspot.com](http://immasmartypants.blogspot.com)
  - date_published: 2024-08-17T00:00:00+00:00
@@ -3998,12 +4006,4 @@
  ## Moore Perspective
  - [https://kmooreperspective.blogspot.com](https://kmooreperspective.blogspot.com)
  - date_published: 2024-09-06T07:07:00+00:00
-
- ## KMPlayer Official Blog
- - [https://kmplayerofficial.blogspot.com](https://kmplayerofficial.blogspot.com)
- - date_published: 2024-07-14T20:58:19+00:00
-
- ## KN@PPSTER
- - [http://knappster.blogspot.com](http://knappster.blogspot.com)
- - date_published: 2024-07-03T05:12:00+00:00
 

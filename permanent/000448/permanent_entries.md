@@ -1,3 +1,85 @@
+ ## Haiku
+ - [https://dev.haiku-os.org](https://dev.haiku-os.org)
+ - date_published: 2020-01-03T00:00:00+00:00
+
+ ## Haiku Community
+ - [https://discuss.haiku-os.org](https://discuss.haiku-os.org)
+ - date_published: 2023-10-25T21:27:25.896496+00:00
+
+ ## Haiku Downloads
+ - [https://download.haiku-os.org](https://download.haiku-os.org)
+ - date_published: 2024-08-18T18:38:09+00:00
+
+ ## Home | Haiku Project
+ - [https://haiku-os.org](https://haiku-os.org)
+ - date_published: 2023-10-25T21:27:27.267272+00:00
+ - tags: ['operating system']
+
+ ## Fathom - simple website analytics
+ - [https://metrics.haiku-os.org](https://metrics.haiku-os.org)
+ - date_published: 2024-07-21T08:04:30+00:00
+
+ ## hails.org
+ - [https://hails.org](https://hails.org)
+ - date_published: 2023-10-25T21:27:29.684298+00:00
+
+ ## Haimin Hu
+ - [https://haiminhu.org](https://haiminhu.org)
+ - date_published: 2024-12-23T23:40:13.748348+00:00
+
+ ## Home
+ - [https://www.haiti.org](https://www.haiti.org)
+ - date_published: 2024-09-18T04:05:34.447503+00:00
+
+ ## The Haitian Project | Louverture Cleary School | Educate Haiti
+ - [http://www.haitianproject.org](http://www.haitianproject.org)
+ - date_published: 2025-01-22T22:11:58.967967+00:00
+
+ ## Log in — Hak5
+ - [https://account.shop.hak5.org](https://account.shop.hak5.org)
+ - date_published: 2024-09-02T10:59:05.080399+00:00
+
+ ## Product Documentation | Product Documentation
+ - [https://docs.hak5.org](https://docs.hak5.org)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Hak5 Download Portal
+ - [https://downloads.hak5.org](https://downloads.hak5.org)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Pentest Tools & Media | Hak5 Official Site
+ - [https://hak5.org](https://hak5.org)
+ - date_published: 2024-08-26T20:53:21+00:00
+ - tags: ['hardware hacking']
+
+ ## Payload Hub
+ - [https://payloads.hak5.org](https://payloads.hak5.org)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Hak5 PayloadStudio
+ - [https://payloadstudio.hak5.org](https://payloadstudio.hak5.org)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Pentest Tools & Media | Hak5 Official Site
+ - [https://shop.hak5.org](https://shop.hak5.org)
+ - date_published: 2024-09-02T10:58:40.529490+00:00
+
+ ## Hakai Institute
+ - [https://hakai.org](https://hakai.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## hakank's homepage
+ - [http://www.hakank.org](http://www.hakank.org)
+ - date_published: 2024-06-11T07:44:12+00:00
+
+ ## Haka | Software Defined Security
+ - [http://www.haka-security.org](http://www.haka-security.org)
+ - date_published: 2015-06-23T08:26:27+00:00
+
+ ## Hakin9 - IT Security Magazine
+ - [https://hakin9.org](https://hakin9.org)
+ - date_published: 2023-02-06T12:40:38+00:00
+
  ## H A K U M E I    |    version 1.0 / deadly blossom
  - [https://tfl.hakumei.org](https://tfl.hakumei.org)
  - date_published: 2024-06-02T00:00:00+00:00
@@ -3942,84 +4024,4 @@
  ## Hubs Foundation – We'll take it from here.
  - [https://hubsfoundation.org](https://hubsfoundation.org)
  - date_published: 2024-07-08T16:14:20.116181+00:00
-
- ## hubstr.org is the possibility hub for the nostr network
- - [https://hubstr.org](https://hubstr.org)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Hub - Human Trust Protocol
- - [https://hubtoken.org](https://hubtoken.org)
- - date_published: 2021-10-13T05:03:49+00:00
-
- ## Hubzilla - info@hubzilla.org
- - [https://hubzilla.org](https://hubzilla.org)
- - date_published: 2024-06-14T11:56:11.135122+00:00
-
- ## HUC
- - [https://huc-hkh.org](https://huc-hkh.org)
- - date_published: 2024-06-22T11:41:04.541474+00:00
-
- ## Hudson Crossing Park
- - [https://hudsoncrossingpark.org](https://hudsoncrossingpark.org)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## Home
- - [https://hudsonriverpark.org](https://hudsonriverpark.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Hudson Valley Dance Contra Swing Ballroom Zydeco Cajun English
- - [http://hudsonvalleydance.org](http://hudsonvalleydance.org)
- - date_published: 2024-08-20T05:17:20.170766+00:00
-
- ## Hudson Webber Foundation
- - [http://www.hudson-webber.org](http://www.hudson-webber.org)
- - date_published: 2024-08-18T12:49:21.783922+00:00
-
- ## Hudson Home
- - [https://business.hudsonwi.org](https://business.hudsonwi.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home - National Osteoporosis Foundation
- - [https://huesosanos.org](https://huesosanos.org)
- - date_published: 2024-06-16T22:48:39.766897+00:00
-
- ## Huginhof Kindred
- - [http://huginhof.org](http://huginhof.org)
- - date_published: 2023-09-10T15:56:05+00:00
-
- ## Creative Writing Classes and Writing Workshops | Hugo House
- - [https://hugohouse.org](https://hugohouse.org)
- - date_published: 2020-12-05T12:02:20+00:00
-
- ## Introduction | HugSQL
- - [https://hugsql.org](https://hugsql.org)
- - date_published: 2022-04-02T13:26:20+00:00
-
- ## 灰狐基金会 - 开放百科 - 灰狐
- - [http://www.huihoo.org](http://www.huihoo.org)
- - date_published: 2023-08-16T00:13:36+00:00
-
- ## YourImage - paint with images from the internet
- - [https://yourimage.hulea.org](https://yourimage.hulea.org)
- - date_published: 2024-05-08T04:33:52.028903+00:00
-
- ## Magnus Hultberg - hultberg.org
- - [https://hultberg.org](https://hultberg.org)
- - date_published: 2024-01-11T20:47:44.802753+00:00
-
- ## Home
- - [https://www.hultprize.org](https://www.hultprize.org)
- - date_published: 2024-05-29T19:51:47+00:00
-
- ## Human Agency
- - [https://humanagency.org](https://humanagency.org)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## HumaNature
- - [https://www.humanaturepodcast.org](https://www.humanaturepodcast.org)
- - date_published: 2024-08-18T13:34:46.992513+00:00
-
- ## Human Dignity Trust
- - [https://www.humandignitytrust.org](https://www.humandignitytrust.org)
- - date_published: 2024-06-28T16:00:38+00:00
 

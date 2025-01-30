@@ -1,3 +1,83 @@
+ ## Apowersoft - Programmi e Applicazioni Web, Idee per Vita e Lavoro
+ - [https://www.apowersoft.it](https://www.apowersoft.it)
+ - date_published: 2024-06-23T16:06:29.279939+00:00
+
+ ## Homepage - Appunti Digitali
+ - [https://www.appuntidigitali.it](https://www.appuntidigitali.it)
+ - date_published: 2024-07-14T12:26:58.000853+00:00
+
+ ## après la nuit
+ - [https://social.apreslanu.it](https://social.apreslanu.it)
+ - date_published: 2024-07-10T07:05:32.446923+00:00
+
+ ## AQA srl - Installazione e manutenzione impianti termici idraulici tecnologici Vicenza Padova Treviso Veneto
+ - [https://www.aqa-srl.it](https://www.aqa-srl.it)
+ - date_published: 2024-07-14T16:43:30+00:00
+
+ ## Aquacloud
+ - [https://aquacloud.it](https://aquacloud.it)
+ - date_published: 2023-12-13T14:14:58+00:00
+
+ ## AQuest - Creative Production & Technology Company
+ - [https://www.aquest.it](https://www.aquest.it)
+ - date_published: 2024-06-28T13:15:51.424391+00:00
+
+ ## Login
+ - [https://adr.arbitrobancariofinanziario.it](https://adr.arbitrobancariofinanziario.it)
+ - date_published: 2024-09-26T21:31:41.262687+00:00
+
+ ## homepage
+ - [http://www.arbitrobancariofinanziario.it](http://www.arbitrobancariofinanziario.it)
+ - date_published: 2024-06-16T07:31:58.840991+00:00
+
+ ## Cibo e accessori per cani, gatti e animali domestici
+ - [https://www.arcaplanet.it](https://www.arcaplanet.it)
+ - date_published: 2024-10-02T10:37:56+00:00
+
+ ## Intervista a J-Ax – Alessandro Aleotti, l’archeologo informatico. | Archeologia Informatica
+ - [https://archeologiainformatica.it](https://archeologiainformatica.it)
+ - date_published: 2024-03-04T22:41:46+00:00
+
+ ## Archeomatica - Tecnologie per i beni culturali
+ - [http://www.archeomatica.it](http://www.archeomatica.it)
+ - date_published: 2018-02-22T07:16:05+00:00
+
+ ## ARCHITETTI ARCO ALPINO
+ - [https://architettiarcoalpino.it](https://architettiarcoalpino.it)
+ - date_published: 2024-01-23T10:02:41+00:00
+
+ ## Archivio Storico AI 2006 - 2021
+ - [https://www.archivio-affarinternazionali.it](https://www.archivio-affarinternazionali.it)
+ - date_published: 2024-01-10T08:54:21+00:00
+
+ ## Arena di Verona | Stagione Lirica e Teatrale 2024
+ - [https://www.arena.it](https://www.arena.it)
+ - date_published: 2024-06-25T22:42:39+00:00
+
+ ## Arera: Home | ARERA
+ - [https://www.arera.it](https://www.arera.it)
+ - date_published: 2024-12-30T11:51:28.909997+00:00
+
+ ## Ares Osservatorio Difesa
+ - [https://aresdifesa.it](https://aresdifesa.it)
+ - date_published: 2025-01-12T10:02:13.708326+00:00
+
+ ## ArezzoNotizie
+ - [https://arezzonotizie.it](https://arezzonotizie.it)
+ - date_published: 2024-05-11T09:55:26.665616+00:00
+
+ ## Home - Argus
+ - [http://www.argussecurity.it](http://www.argussecurity.it)
+ - date_published: 2024-10-19T09:41:54.565319+00:00
+
+ ## Armando Testa. We make brands iconic.
+ - [https://www.armandotesta.it](https://www.armandotesta.it)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Armi Magazine la rivista online per gli appassionati di armi
+ - [https://www.armimagazine.it](https://www.armimagazine.it)
+ - date_published: 2024-02-13T00:00:00+00:00
+
  ## Tecnologie per la Digital Transformation | Aruba Enterprise
  - [https://enterprise.aruba.it](https://enterprise.aruba.it)
  - date_published: 2024-07-13T09:52:37.692017+00:00
@@ -3932,84 +4012,4 @@
  ## Istituto Istruzione Superiore "Carlo Emilio Gadda"
  - [https://www.iissgadda.it](https://www.iissgadda.it)
  - date_published: 2024-10-13T07:11:09.970242+00:00
-
- ## Istituto Istruzione Secondaria Superiore Gandhi Merano
- - [https://www.iiss-gandhi-merano.it](https://www.iiss-gandhi-merano.it)
- - date_published: 2024-10-13T07:01:11.616539+00:00
-
- ## Istituti Tecnici Vito Sante Longo
- - [https://www.iisstecnicomonopoli.it](https://www.iisstecnicomonopoli.it)
- - date_published: 2024-10-13T06:59:31.042739+00:00
-
- ## I.I.S.T.C.G. - DON GAVINO PES
- - [https://www.iistcgdongavinopes.it](https://www.iistcgdongavinopes.it)
- - date_published: 2024-10-13T06:52:33.387920+00:00
-
- ## Polo Liceale "Pomponio Leto"
- - [https://www.iisteggiano.it](https://www.iisteggiano.it)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## I.I.S. "Janello Torriani" | Cremona
- - [https://www.iistorriani.it](https://www.iistorriani.it)
- - date_published: 2024-10-13T06:53:52+00:00
-
- ## IIS "Marzotto-Luzzatti" – Valdagno – Tecnologico – Economico – Professionale
- - [https://www.iisvaldagno.it](https://www.iisvaldagno.it)
- - date_published: 2024-10-13T07:06:28.256831+00:00
-
- ## Istituto Italiano di Tecnologia - IIT
- - [https://iit.it](https://iit.it)
- - date_published: 2024-10-28T23:46:49.626052+00:00
-
- ## Hosting, Domini, Server dedicati, VPS, Cloud | Ikoula Italia
- - [https://www.ikoula.it](https://www.ikoula.it)
- - date_published: 2024-07-07T05:18:34+00:00
-
- ## Il Calderone Magico - (sito no profit)
- - [http://www.ilcalderonemagico.it](http://www.ilcalderonemagico.it)
- - date_published: 2015-10-31T10:27:56+00:00
-
- ## Il Cerchio della Luna
- - [http://www.ilcerchiodellaluna.it](http://www.ilcerchiodellaluna.it)
- - date_published: 2021-02-17T16:12:34+00:00
-
- ## Disqus Connect
- - [https://comments.ilfattoquotidiano.it](https://comments.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:08+00:00
-
- ## Home - Community Web3
- - [https://community.ilfattoquotidiano.it](https://community.ilfattoquotidiano.it)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Fatto da Voi
- - [https://fattodavoi.ilfattoquotidiano.it](https://fattodavoi.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:08+00:00
-
- ## Il Fatto Quotidiano - News su politica, cronaca, giustizia ed economia
- - [https://ilfattoquotidiano.it](https://ilfattoquotidiano.it)
- - date_published: 2024-05-12T04:56:02.975121+00:00
-
- ## Previsioni Meteo - Il Fatto Quotidiano
- - [https://meteo.ilfattoquotidiano.it](https://meteo.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:28.664261+00:00
-
- ## Il Fatto Social Club
- - [http://shop.ilfattoquotidiano.it](http://shop.ilfattoquotidiano.it)
- - date_published: 2012-04-17T21:31:03+00:00
-
- ## Le migliori offerte per il tuo shopping online - Codice Sconto IlFattoQuotidiano
- - [https://www.codicesconto.ilfattoquotidiano.it](https://www.codicesconto.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:48.085233+00:00
-
- ## Il Foglio - Edizione Online
- - [https://www.ilfoglio.it](https://www.ilfoglio.it)
- - date_published: 2024-07-03T22:12:57+00:00
-
- ## il Giornale
- - [https://ilgiornale.it](https://ilgiornale.it)
- - date_published: 2024-12-20T08:28:11.225356+00:00
-
- ## il Giornale
- - [http://www.ilgiornale.it](http://www.ilgiornale.it)
- - date_published: 2024-07-03T22:20:22.112238+00:00
 

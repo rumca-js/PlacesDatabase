@@ -1637,6 +1637,10 @@
  - [http://postmedium.art](http://postmedium.art)
  - date_published: 2024-07-20T17:55:06.118262+00:00
 
+ ## PostureSmart
+ - [https://www.posturesm.art](https://www.posturesm.art)
+ - date_published: 2025-01-28T18:55:09.446718+00:00
+
  ## PRIM4T – Web, Design and other stuff…
  - [https://prim4t.art](https://prim4t.art)
  - date_published: 2024-05-07T23:12:06.859728+00:00
@@ -4021,8 +4025,4 @@ October 2024 in Singapore
  ## Constantin Graf | Freelance software developer
  - [https://www.constantingraf.at](https://www.constantingraf.at)
  - date_published: 2024-09-07T16:59:12+00:00
-
- ## Meeting Destination Vienna
- - [https://www.vienna.convention.at](https://www.vienna.convention.at)
- - date_published: 2024-06-28T00:00:00+00:00
 

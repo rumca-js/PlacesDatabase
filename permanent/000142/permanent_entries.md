@@ -1,3 +1,19 @@
+ ## The Keyword Nederland
+ - [https://nederland.googleblog.com](https://nederland.googleblog.com)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Google Open Source Blog
+ - [https://opensource.googleblog.com](https://opensource.googleblog.com)
+ - date_published: 2023-10-25T14:47:58.744853+00:00
+
+ ## Programmable Search Engine Blog
+ - [https://programmablesearchengine.googleblog.com](https://programmablesearchengine.googleblog.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Blog
+ - [https://research.googleblog.com](https://research.googleblog.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
  ## Google Scholar Blog
  - [https://scholar.googleblog.com](https://scholar.googleblog.com)
  - date_published: 2024-03-20T18:08:26.467127+00:00
@@ -4045,20 +4061,4 @@
  ## Subscribe to Granta Magazine
  - [https://subscribe.granta.com](https://subscribe.granta.com)
  - date_published: 2024-05-04T08:43:12.189936+00:00
-
- ## Granta | The Home of New Writing
- - [https://workshops.granta.com](https://workshops.granta.com)
- - date_published: 2024-04-16T10:07:32+00:00
-
- ## Grant Barrett — linguist, lexicographer, and radio host
- - [https://grantbarrett.com](https://grantbarrett.com)
- - date_published: 2024-07-02T04:07:26+00:00
-
- ## GrantFinder | The Ultimate Grant Search Tool
- - [https://app.grantfinder.com](https://app.grantfinder.com)
- - date_published: 2024-07-16T23:02:44.660548+00:00
-
- ## Public Safety and Local Government Grants | GrantFinder
- - [https://grantfinder.com](https://grantfinder.com)
- - date_published: 2024-03-30T00:00:00+00:00
 

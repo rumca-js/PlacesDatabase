@@ -1,3 +1,11 @@
+ ## The Loud House Encyclopedia
+ - [https://theloudhouse.fandom.com](https://theloudhouse.fandom.com)
+ - date_published: 2024-06-05T14:00:54.965161+00:00
+
+ ## The Loud House Fanon Wikia
+ - [https://the-loud-house-fanon.fandom.com](https://the-loud-house-fanon.fandom.com)
+ - date_published: 2024-06-17T03:21:18+00:00
+
  ## The Loud House Fanon Wikia
  - [https://theloudhousefanon.fandom.com](https://theloudhousefanon.fandom.com)
  - date_published: 2024-10-25T04:01:05+00:00
@@ -2448,8 +2456,9 @@
  - date_published: 2024-05-02T14:58:32.282887+00:00
 
  ## YTMND Fads Wiki
- - [https://ytmnd-fads.fandom.com](https://ytmnd-fads.fandom.com)
+ - [http://ytmnd-fads.fandom.com](http://ytmnd-fads.fandom.com)
  - date_published: 2024-07-07T19:35:13+00:00
+ - date_dead_since: 2025-01-29T22:17:03.771156+00:00
 
  ## Yu-Gi-Oh! Wiki
  - [https://yugioh.fandom.com](https://yugioh.fandom.com)
@@ -2592,8 +2601,9 @@
  - date_published: 2024-06-17T20:13:47+00:00
 
  ## Ziraxia Wiki
- - [https://ziraxia.fandom.com](https://ziraxia.fandom.com)
+ - [http://ziraxia.fandom.com](http://ziraxia.fandom.com)
  - date_published: 2024-06-17T18:50:21+00:00
+ - date_dead_since: 2025-01-29T22:30:33.359867+00:00
 
  ## Złoczyńcy Wiki
  - [https://zloczyncy.fandom.com](https://zloczyncy.fandom.com)
@@ -2680,11 +2690,11 @@
  - date_published: 2024-09-03T15:51:09+00:00
 
  ## FandomFocused.net - a fanlisting collective
- - [http://fandomsavant.com](http://fandomsavant.com)
+ - [https://fandomsavant.com](https://fandomsavant.com)
  - date_published: 2024-06-20T21:16:15.601635+00:00
 
  ## FandomSpot
- - [https://www.fandomspot.com](https://www.fandomspot.com)
+ - [https://fandomspot.com](https://fandomspot.com)
  - date_published: 2023-10-25T11:16:25.035308+00:00
 
  ## FandomWire - #1 Source for All Things Entertainment
@@ -2692,7 +2702,7 @@
  - date_published: 2023-12-09T10:18:19.951990+00:00
 
  ## FanDuel | Make Every Moment More
- - [http://fanduel.com](http://fanduel.com)
+ - [https://fanduel.com](https://fanduel.com)
  - date_published: 2024-06-22T05:56:10.812874+00:00
 
  ## Fan Forum - TV, TV Shows, Music, Movies, Celebrities, & Other Entertainment Forums
@@ -2708,7 +2718,7 @@
  - date_published: 2024-05-13T09:32:58.758882+00:00
 
  ## Mother 3 Handbook - The English gamers' guide to the world of MOTHER 3
- - [http://handbook.fangamer.com](http://handbook.fangamer.com)
+ - [https://handbook.fangamer.com](https://handbook.fangamer.com)
  - date_published: 2024-05-01T23:08:50+00:00
 
  ## Fangamer - Video game shirts, plushes, books, and more.
@@ -2720,19 +2730,20 @@
  - date_published: 2024-09-14T23:00:10+00:00
 
  ## 中房网_中国房地产业协会官方网站
- - [http://m.fangchan.com](http://m.fangchan.com)
+ - [https://m.fangchan.com](https://m.fangchan.com)
  - date_published: 2024-06-28T00:00:00+00:00
+ - date_dead_since: 2025-01-29T22:44:14.997558+00:00
 
  ## 360亿方云-专业的企业网盘(企业云盘)办公平台
- - [https://www.fangcloud.com](https://www.fangcloud.com)
+ - [https://fangcloud.com](https://fangcloud.com)
  - date_published: 2024-05-08T00:00:00+00:00
 
  ## 岩棉板_岩棉保温板_外墙岩棉板_岩棉板厂家_廊坊信谦节能科技有限公司
- - [http://www.fanghuobanchangjia.com](http://www.fanghuobanchangjia.com)
+ - [http://fanghuobanchangjia.com](http://fanghuobanchangjia.com)
  - date_published: 2024-03-03T00:00:00+00:00
 
  ## Fangirl Therapy
- - [http://fangirltherapy.com](http://fangirltherapy.com)
+ - [https://fangirltherapy.com](https://fangirltherapy.com)
  - date_published: 2024-06-25T00:52:26+00:00
 
  ## 放假了学习网_说说大全_好词好句_组词造句_经典语录及学习资料
@@ -2744,12 +2755,12 @@
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## FANGORIA
- - [https://shop.fangoria.com](https://shop.fangoria.com)
- - date_published: 2024-10-31T15:38:48.315982+00:00
+ - [https://fangoria.com](https://fangoria.com)
+ - date_published: 2024-10-26T01:41:10+00:00
 
  ## FANGORIA
- - [https://www.fangoria.com](https://www.fangoria.com)
- - date_published: 2024-10-26T01:41:10+00:00
+ - [https://shop.fangoria.com](https://shop.fangoria.com)
+ - date_published: 2024-10-31T15:38:48.315982+00:00
 
  ## Fang-Pen's coding note
  - [https://fangpenlin.com](https://fangpenlin.com)
@@ -4004,12 +4015,4 @@ e-mail, free web site, free web site hosting
  ## Centova Cast
  - [http://eu6.fastcast4u.com](http://eu6.fastcast4u.com)
  - date_published: 2024-08-11T19:58:59.912309+00:00
-
- ## Centova Cast
- - [https://usa14.fastcast4u.com](https://usa14.fastcast4u.com)
- - date_published: 2024-08-11T20:04:43.237913+00:00
-
- ## Restaurant news, trends, research, suppliers, & franchises | Fast Casual
- - [https://fastcasual.com](https://fastcasual.com)
- - date_published: 2024-10-31T12:34:39.006554+00:00
 

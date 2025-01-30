@@ -1,3 +1,7 @@
+ ## Meeting Destination Vienna
+ - [https://www.vienna.convention.at](https://www.vienna.convention.at)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## E-Shop mit einzigartigen Geschenken und Gadgets | Cool Mania E-Shop
  - [https://www.cool-mania.at](https://www.cool-mania.at)
  - date_published: 2025-01-08T23:33:22.143450+00:00
@@ -4020,8 +4024,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Beratung, Förderung, Netzwerk: Wirtschaftsagentur Wien
  - [https://wirtschaftsagentur.at](https://wirtschaftsagentur.at)
  - date_published: 2024-10-11T13:29:45.815310+00:00
-
- ## WITTENSTEIN Österreich
- - [https://wittenstein.at](https://wittenstein.at)
- - date_published: 2024-07-15T04:10:05.620282+00:00
 

@@ -1,3 +1,7 @@
+ ## Cliente Web
+ - [https://cliente.avanti-it.co](https://cliente.avanti-it.co)
+ - date_published: 2024-07-12T21:03:46+00:00
+
  ## Aviator – AttentionSet
  - [https://app.aviator.co](https://app.aviator.co)
  - date_published: 2024-04-30T06:28:44.268153+00:00
@@ -4019,8 +4023,4 @@
  ## Enterprise DNA: Master Data Skills + AI
  - [https://enterprisedna.co](https://enterprisedna.co)
  - date_published: 2024-07-14T23:14:22.570030+00:00
-
- ## Data Mentor | Unlocking Your Data Potential
- - [https://mentor.enterprisedna.co](https://mentor.enterprisedna.co)
- - date_published: 2024-07-14T23:14:26.318503+00:00
 

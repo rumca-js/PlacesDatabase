@@ -1,3 +1,7 @@
+ ## Ontario 511
+ - [https://511on.ca](https://511on.ca)
+ - date_published: 2024-05-10T02:42:19.164104+00:00
+
  ## The Call of the Open Sidewalk [The Call of the Open Sidewalk]
  - [https://articles.59.ca](https://articles.59.ca)
  - date_published: 2023-10-25T12:03:06.077493+00:00
@@ -4015,8 +4019,4 @@
  ## Eric Hogue's Blog
  - [https://erichogue.ca](https://erichogue.ca)
  - date_published: 2024-05-09T07:40:03.077842+00:00
-
- ## Humans and Technology - Exploring Tech in Everyday Lives | Humans and Technology
- - [https://www.erinkernohan.ca](https://www.erinkernohan.ca)
- - date_published: 2024-05-15T00:00:00+00:00
 

@@ -1,3 +1,63 @@
+ ## Policy Library
+ - [https://policy.iastate.edu](https://policy.iastate.edu)
+ - date_published: 2024-05-09T05:10:05.209039+00:00
+
+ ## University Records Retention Schedule | Records Retention
+ - [http://records.policy.iastate.edu](http://records.policy.iastate.edu)
+ - date_published: 2024-07-09T13:08:57.842973+00:00
+
+ ## Student Information
+ - [https://students.info.iastate.edu](https://students.info.iastate.edu)
+ - date_published: 2024-07-01T06:37:42.977619+00:00
+
+ ## Sign in - Matomo
+ - [https://trends.ent.iastate.edu](https://trends.ent.iastate.edu)
+ - date_published: 2024-07-01T06:37:37.617462+00:00
+
+ ## Department of Economics
+ - [https://www2.econ.iastate.edu](https://www2.econ.iastate.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Iowa State University
+ - [https://www.admissions.iastate.edu](https://www.admissions.iastate.edu)
+ - date_published: 2024-08-09T03:40:14.648111+00:00
+
+ ## Department of Aerospace Engineering – College of Engineering, Iowa State University
+ - [https://www.aere.iastate.edu](https://www.aere.iastate.edu)
+ - date_published: 2024-07-19T05:42:44.391251+00:00
+
+ ## College of Agriculture and Life Sciences
+ - [https://www.cals.iastate.edu](https://www.cals.iastate.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Center for Agricultural and Rural Development
+ - [https://www.card.iastate.edu](https://www.card.iastate.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## CFSPH
+ - [https://www.cfsph.iastate.edu](https://www.cfsph.iastate.edu)
+ - date_published: 2024-07-01T16:16:42.236858+00:00
+
+ ## Department of Computer Science
+ - [http://www.cs.iastate.edu](http://www.cs.iastate.edu)
+ - date_published: 2024-08-18T22:39:28+00:00
+
+ ## College of Design – Iowa State University College of Design
+ - [https://www.design.iastate.edu](https://www.design.iastate.edu)
+ - date_published: 2024-08-06T18:25:46+00:00
+
+ ## Diversity, Equity and Inclusion
+ - [https://www.diversity.iastate.edu](https://www.diversity.iastate.edu)
+ - date_published: 2024-07-01T06:37:35.223172+00:00
+
+ ## Department of Economics
+ - [https://www.econ.iastate.edu](https://www.econ.iastate.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## College of Engineering - Iowa State University
+ - [http://www.engineering.iastate.edu](http://www.engineering.iastate.edu)
+ - date_published: 2024-07-12T00:00:00+00:00
+
  ## Equal Opportunity
  - [http://www.eoc.iastate.edu](http://www.eoc.iastate.edu)
  - date_published: 2024-10-15T05:23:16.019802+00:00
@@ -3949,64 +4009,4 @@ Data Services
  ## Religion Department –  | Kalamazoo College
  - [https://religion.kzoo.edu](https://religion.kzoo.edu)
  - date_published: 2024-05-07T19:21:11.743419+00:00
-
- ## Residential Life –  | Kalamazoo College
- - [https://reslife.kzoo.edu](https://reslife.kzoo.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Shared Passages Program –  | Kalamazoo College
- - [https://sharedpassages.kzoo.edu](https://sharedpassages.kzoo.edu)
- - date_published: 2024-05-07T19:22:34.885488+00:00
-
- ## Sophomore Experience –  | Kalamazoo College
- - [https://sophomore.kzoo.edu](https://sophomore.kzoo.edu)
- - date_published: 2024-05-07T19:23:04.203597+00:00
-
- ## Spanish Language and Literature –  | Kalamazoo College
- - [https://spanish.kzoo.edu](https://spanish.kzoo.edu)
- - date_published: 2024-05-07T19:23:06.419372+00:00
-
- ## Student Activities –  | Kalamazoo College
- - [https://studentactivities.kzoo.edu](https://studentactivities.kzoo.edu)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Student Development –  | Kalamazoo College
- - [https://studev.kzoo.edu](https://studev.kzoo.edu)
- - date_published: 2024-05-07T19:24:24.172291+00:00
-
- ## Support Staff –  | Kalamazoo College
- - [https://supportstaff.kzoo.edu](https://supportstaff.kzoo.edu)
- - date_published: 2024-05-07T19:24:07.762051+00:00
-
- ## Sustainability at K –  | Kalamazoo College
- - [https://sustainability.kzoo.edu](https://sustainability.kzoo.edu)
- - date_published: 2024-05-07T19:20:38.995233+00:00
-
- ## Teaching Commons –  | Kalamazoo College
- - [https://teachingcommons.kzoo.edu](https://teachingcommons.kzoo.edu)
- - date_published: 2024-05-07T19:24:42.474005+00:00
-
- ## Theatre Arts Department –  | Kalamazoo College
- - [https://theatre.kzoo.edu](https://theatre.kzoo.edu)
- - date_published: 2024-05-07T19:22:44.386782+00:00
-
- ## Title IX –  | Kalamazoo College
- - [https://titleix.kzoo.edu](https://titleix.kzoo.edu)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Teaching and Learning Committee –  | Kalamazoo College
- - [https://tlc.kzoo.edu](https://tlc.kzoo.edu)
- - date_published: 2024-05-07T19:23:01.543570+00:00
-
- ## Writing Center –  | Kalamazoo College
- - [https://writingcenter.kzoo.edu](https://writingcenter.kzoo.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Shibboleth Authentication Request
- - [https://ezproxy.lafayette.edu](https://ezproxy.lafayette.edu)
- - date_published: 2024-06-30T01:26:24.933053+00:00
-
- ## Home - LaGuardia Community College
- - [https://www.laguardia.edu](https://www.laguardia.edu)
- - date_published: 2022-11-04T15:21:26+00:00
 

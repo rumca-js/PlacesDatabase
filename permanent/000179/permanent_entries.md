@@ -1,3 +1,28 @@
+ ## マンガ図書館Zのサイト停止に関するお知らせ
+ - [https://closing.mangaz.com](https://closing.mangaz.com)
+ - date_published: 2024-11-05T12:54:13+00:00
+
+ ## マンガ図書館Z
+ - [https://mangaz.com](https://mangaz.com)
+ - date_published: 2024-11-26T08:34:33+00:00
+ - tags: ['manga', 'out of print manga']
+
+ ## Manga Zone - Best Free Manga Reader App!
+ - [http://mangazoneapp.com](http://mangazoneapp.com)
+ - date_published: 2025-01-24T21:01:51.350400+00:00
+
+ ## Manga Zone - Best Free Manga Reader App!
+ - [http://www.mangazoneapp.com](http://www.mangazoneapp.com)
+ - date_published: 2025-01-24T21:01:36.082740+00:00
+
+ ## MTC | MangeToiÇa » Le fanblog d'opinion ! - Fermeture
+ - [http://mangetoica.com](http://mangetoica.com)
+ - date_published: 2024-06-23T17:17:33.442756+00:00
+
+ ## Arquitectura y Diseño
+ - [https://ad.mangiro.com](https://ad.mangiro.com)
+ - date_published: 2024-12-11T11:11:21+00:00
+
  ## RBA Revistas
  - [https://rr.mangiro.com](https://rr.mangiro.com)
  - date_published: 2024-12-11T11:11:00+00:00
@@ -4009,29 +4034,4 @@
  ## Show HN: Markwhen: Markdown for Timelines
  - [https://markwhen.com](https://markwhen.com)
  - date_published: 2024-12-01T17:58:48+00:00
-
- ## Tumblr
- - [http://blog.markwunsch.com](http://blog.markwunsch.com)
- - date_published: 2024-07-13T17:11:57.077103+00:00
-
- ## Mark Wunsch
- - [https://markwunsch.com](https://markwunsch.com)
- - date_published: 2024-02-14T20:53:43+00:00
- - tags: ['personal']
-
- ## Artificially Intelligent
- - [https://markxu.com](https://markxu.com)
- - date_published: 2023-10-25T15:57:06.149015+00:00
-
- ## Marlborough Gallery - Fine Art, Contemporary Works and Exhibitions
- - [http://www.marlboroughfineart.com](http://www.marlboroughfineart.com)
- - date_published: 2024-06-24T09:17:51.300181+00:00
-
- ## Marler Blog
- - [https://marlerblog.com](https://marlerblog.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Food Poisoning Lawyers | Food Safety Attorneys
- - [https://marlerclark.com](https://marlerclark.com)
- - date_published: 2024-04-30T00:00:00+00:00
 

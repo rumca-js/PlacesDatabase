@@ -1,3 +1,11 @@
+ ## EndWar Wiki
+ - [https://endwar.fandom.com](https://endwar.fandom.com)
+ - date_published: 2024-06-16T22:38:06+00:00
+
+ ## Enlisted Wiki
+ - [https://enlisted.fandom.com](https://enlisted.fandom.com)
+ - date_published: 2024-05-02T14:13:56.991438+00:00
+
  ## Entertainment Wiki
  - [https://entertainment.fandom.com](https://entertainment.fandom.com)
  - date_published: 2024-06-13T23:08:40+00:00
@@ -3993,12 +4001,4 @@
  ## The Koala Brothers Wiki
  - [https://koalabrothers.fandom.com](https://koalabrothers.fandom.com)
  - date_published: 2024-06-17T07:33:07+00:00
-
- ## Kochikame Wiki
- - [https://kochikame.fandom.com](https://kochikame.fandom.com)
- - date_published: 2024-06-17T08:29:31+00:00
-
- ## Koei Wiki
- - [https://koei.fandom.com](https://koei.fandom.com)
- - date_published: 2024-06-17T21:25:33+00:00
 

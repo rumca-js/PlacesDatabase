@@ -1,3 +1,11 @@
+ ## New Home
+ - [https://www.fintechnexus.com](https://www.fintechnexus.com)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## FintechOS: Meet next generation financial product management
+ - [https://fintechos.com](https://fintechos.com)
+ - date_published: 2025-01-23T08:22:26.999841+00:00
+
  ## Home - Fintech Poland
  - [https://fintechpoland.com](https://fintechpoland.com)
  - date_published: 2024-02-22T00:00:00+00:00
@@ -2240,6 +2248,10 @@
  - [https://fixmystreet.com](https://fixmystreet.com)
  - date_published: 2024-05-08T00:00:00+00:00
 
+ ## fix our pics.
+ - [https://www.fixourpics.com](https://www.fixourpics.com)
+ - date_published: 2025-01-29T21:00:19.466244+00:00
+
  ## Fix The News
  - [https://fixthenews.com](https://fixthenews.com)
  - date_published: 2024-06-22T12:52:51.222537+00:00
@@ -4003,16 +4015,4 @@
  ## FireDrops: The Future of Rewards | Earn Exciting Loyalty Rewards with NFTs
  - [https://firedrops.flipkart.com](https://firedrops.flipkart.com)
  - date_published: 2023-10-01T10:54:17+00:00
-
- ## Sell Online on Flipkart | Grow your business with the leader in Indian e-commerce
- - [https://seller.flipkart.com](https://seller.flipkart.com)
- - date_published: 2024-10-02T10:56:16.999511+00:00
-
- ## Flipkart Stories - Looking for a Flipkart Story? Read news and updates here
- - [http://stories.flipkart.com](http://stories.flipkart.com)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com
- - [https://www.flipkart.com](https://www.flipkart.com)
- - date_published: 2024-05-01T06:31:32.196680+00:00
 

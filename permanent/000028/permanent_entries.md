@@ -1,3 +1,7 @@
+ ## Jobs | Stellenangebote | Jobsuche | Jobbörse | Monster.ch
+ - [https://www.monster.ch](https://www.monster.ch)
+ - date_published: 2024-06-16T13:57:55.151097+00:00
+
  ## Commune de Montreux - Accueil
  - [http://www.montreux.ch](http://www.montreux.ch)
  - date_published: 2024-07-11T00:00:00+00:00
@@ -4013,8 +4017,4 @@ Fakultät | Universität Basel
  ## Commune d'Yverdon-les-Bains - Site officiel de la Commune
  - [https://www.yverdon-les-bains.ch](https://www.yverdon-les-bains.ch)
  - date_published: 2024-07-09T07:42:23.525922+00:00
-
- ## Zaa.ch - JSON formatting
- - [http://zaa.ch](http://zaa.ch)
- - date_published: 2023-08-08T15:40:11+00:00
 

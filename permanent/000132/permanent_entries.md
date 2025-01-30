@@ -1,3 +1,15 @@
+ ## Sell Online on Flipkart | Grow your business with the leader in Indian e-commerce
+ - [https://seller.flipkart.com](https://seller.flipkart.com)
+ - date_published: 2024-10-02T10:56:16.999511+00:00
+
+ ## Flipkart Stories - Looking for a Flipkart Story? Read news and updates here
+ - [http://stories.flipkart.com](http://stories.flipkart.com)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com
+ - [https://www.flipkart.com](https://www.flipkart.com)
+ - date_published: 2024-05-01T06:31:32.196680+00:00
+
  ## ALERT!!
  - [https://www.flipkartcareers.com](https://www.flipkartcareers.com)
  - date_published: 2024-09-17T10:30:49+00:00
@@ -4014,16 +4026,4 @@
  ## AWS access portal
  - [https://beta.forbrightbank.com](https://beta.forbrightbank.com)
  - date_published: 2024-05-10T00:00:00+00:00
-
- ## Home | Forbright Bank
- - [https://forbrightbank.com](https://forbrightbank.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://openaccount.forbrightbank.com](https://openaccount.forbrightbank.com)
- - date_published: 2024-07-10T04:33:51.011501+00:00
-
- ## Login | Salesforce
- - [https://3dsystems--c.na101.content.force.com](https://3dsystems--c.na101.content.force.com)
- - date_published: 2024-07-20T23:45:43.846207+00:00
 

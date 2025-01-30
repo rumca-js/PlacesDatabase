@@ -1,3 +1,11 @@
+ ## ATX Game Makers
+ - [https://www.atxgamemakers.com](https://www.atxgamemakers.com)
+ - date_published: 2023-02-13T17:53:31+00:00
+
+ ## Home - ATX TV
+ - [https://atxtv.com](https://atxtv.com)
+ - date_published: 2024-02-14T00:00:00+00:00
+
  ## Welcome to Atyeti
  - [http://www.atyeti.com](http://www.atyeti.com)
  - date_published: 2024-10-12T22:08:59.461606+00:00
@@ -4023,13 +4031,4 @@
  ## End-to-End Security Solutions | Avigilon (Openpath & Ava)
  - [https://www.avigilon.com](https://www.avigilon.com)
  - date_published: 2024-06-29T03:24:10+00:00
-
- ## Avijit Sarkar - Innovative Entrepreneur and Startup Founder
- - [https://avijitsarkar.com](https://avijitsarkar.com)
- - date_published: 2021-07-13T04:03:34+00:00
-
- ## Avik Das
- - [https://avikdas.com](https://avikdas.com)
- - date_published: 2024-06-01T05:06:25.146637+00:00
- - tags: ['personal']
 

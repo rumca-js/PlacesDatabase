@@ -1,3 +1,51 @@
+ ## Pressbooks Forum
+ - [https://pressbooks.community](https://pressbooks.community)
+ - date_published: 2024-10-18T16:01:01.753439+00:00
+
+ ## Rebus Press – OER by Rebus Community
+ - [https://press.rebus.community](https://press.rebus.community)
+ - date_published: 2024-07-04T09:42:35.004831+00:00
+
+ ## Relevant: The only social network built on trust.
+ - [http://relevant.community](http://relevant.community)
+ - date_published: 2024-07-13T15:55:29.653077+00:00
+
+ ## Shark.community
+ - [https://shark.community](https://shark.community)
+ - date_published: 2024-12-12T09:47:40.152200+00:00
+
+ ## Menopause | She Listens.community
+ - [https://www.shelistens.community](https://www.shelistens.community)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Join the Shinobi Community Discord Server!
+ - [https://shinobi.community](https://shinobi.community)
+ - date_published: 2024-05-14T03:32:54.719628+00:00
+
+ ## SIDI 2024
+ - [https://sidi-hub.community](https://sidi-hub.community)
+ - date_published: 2024-07-14T20:59:55.803358+00:00
+
+ ## SignalWire Community
+ - [https://forum.signalwire.community](https://forum.signalwire.community)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Join SignalWire Community on Slack
+ - [https://signalwire.community](https://signalwire.community)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Solace Developer Community
+ - [https://solace.community](https://solace.community)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Solid Primitives
+ - [https://primitives.solidjs.community](https://primitives.solidjs.community)
+ - date_published: 2025-01-11T13:03:32.854103+00:00
+
+ ## Speckle Community
+ - [https://speckle.community](https://speckle.community)
+ - date_published: 2024-10-27T23:09:14.239632+00:00
+
  ## Home
  - [https://startupkitchen.community](https://startupkitchen.community)
  - date_published: 2023-02-03T13:16:02+00:00
@@ -359,6 +407,10 @@
  ## start [Folk Computer]
  - [https://folk.computer](https://folk.computer)
  - date_published: 2024-02-03T17:00:00.054460+00:00
+
+ ## samir : coffee → nonsense
+ - [https://functional.computer](https://functional.computer)
+ - date_published: 2025-01-28T18:33:37+00:00
 
  ## Team Computer
  - [https://goteam.computer](https://goteam.computer)
@@ -3966,56 +4018,4 @@
  ## Caravan - magazín o obytných automobilech a přívěsech
  - [https://caravan-magazine.cz](https://caravan-magazine.cz)
  - date_published: 2024-09-05T16:51:13.306917+00:00
-
- ## CARS.CZ - nová a ojetá auta, autobazary, autosalony, prodej vozidla
- - [https://cars.cz](https://cars.cz)
- - date_published: 2024-09-05T16:45:42.845898+00:00
-
- ## Jednoduché vyhledávání | Knihovna Akademie věd České republiky
- - [https://asep.lib.cas.cz](https://asep.lib.cas.cz)
- - date_published: 2024-12-13T22:44:40.727548+00:00
-
- ## ASEP
- - [https://asep-portal.lib.cas.cz](https://asep-portal.lib.cas.cz)
- - date_published: 2024-07-01T10:08:41.972727+00:00
-
- ## Portaro - library catalog
- - [https://bcbt.lib.cas.cz](https://bcbt.lib.cas.cz)
- - date_published: 2024-12-13T22:45:21.538670+00:00
-
- ## Calendar IM
- - [https://calendar.math.cas.cz](https://calendar.math.cas.cz)
- - date_published: 2024-12-30T08:05:10.091886+00:00
-
- ## Akademie věd České republiky - Akademie věd České republiky
- - [https://cas.cz](https://cas.cz)
- - date_published: 2024-12-13T22:16:31+00:00
-
- ## Digitalizační centrum Knihovny Akademie věd ČR
- - [https://digit.lib.cas.cz](https://digit.lib.cas.cz)
- - date_published: 2024-12-09T20:41:07+00:00
-
- ## Search Home
- - [https://katalog.lib.cas.cz](https://katalog.lib.cas.cz)
- - date_published: 2024-07-01T10:08:36.469745+00:00
-
- ## Digitální knihovna Kramerius
- - [https://kramerius.lib.cas.cz](https://kramerius.lib.cas.cz)
- - date_published: 2024-04-15T13:15:08+00:00
-
- ## Knihovědné oddělení Knihovny AV ČR
- - [https://kvo.lib.cas.cz](https://kvo.lib.cas.cz)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## Knihovna Akademie věd ČR
- - [https://lib.cas.cz](https://lib.cas.cz)
- - date_published: 2024-05-07T19:04:00.539342+00:00
-
- ## Open Science
- - [https://openscience.lib.cas.cz](https://openscience.lib.cas.cz)
- - date_published: 2024-07-01T10:08:41.267177+00:00
-
- ## Rezervační systém konferenčních sálů AV ČR
- - [https://rezervace.ssc.cas.cz](https://rezervace.ssc.cas.cz)
- - date_published: 2024-05-01T00:00:00+00:00
 

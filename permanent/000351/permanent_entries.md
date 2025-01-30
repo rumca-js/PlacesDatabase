@@ -1,3 +1,67 @@
+ ## Université des Antilles
+ - [http://www.univ-ag.fr](http://www.univ-ag.fr)
+ - date_published: 2025-01-08T17:09:31+00:00
+
+ ## Institut Régional du Travail (IRT) | Aix Marseille Université
+ - [https://irt.univ-amu.fr](https://irt.univ-amu.fr)
+ - date_published: 2025-01-22T01:57:56.230363+00:00
+
+ ## amU | Aix Marseille Université
+ - [https://univ-amu.fr](https://univ-amu.fr)
+ - date_published: 2024-10-19T07:15:48.489439+00:00
+
+ ## I2M – Institut de Mathématique de Marseille
+ - [https://www.i2m.univ-amu.fr](https://www.i2m.univ-amu.fr)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Accueil - ePortfolio Université Antilles
+ - [https://eportfolio.univ-antilles.fr](https://eportfolio.univ-antilles.fr)
+ - date_published: 2025-01-22T01:58:05.769765+00:00
+
+ ## MT180-Antilles – Ma thèse en 180 secondes
+ - [http://mt180s.univ-antilles.fr](http://mt180s.univ-antilles.fr)
+ - date_published: 2025-01-22T01:58:23.850605+00:00
+
+ ## myua - Université des Antilles
+ - [https://myua.univ-antilles.fr](https://myua.univ-antilles.fr)
+ - date_published: 2025-01-22T01:58:41.906384+00:00
+
+ ## Responsabilité Sociale des Universités – Bâtir une communauté universitaire responsable, engagée et à l'écoute de ses membres.
+ - [https://rsu.univ-antilles.fr](https://rsu.univ-antilles.fr)
+ - date_published: 2025-01-22T01:58:00.818618+00:00
+
+ ## Université des Antilles
+ - [https://univ-antilles.fr](https://univ-antilles.fr)
+ - date_published: 2025-01-22T01:58:03.871022+00:00
+
+ ## Université des Antilles
+ - [https://www2.univ-antilles.fr](https://www2.univ-antilles.fr)
+ - date_published: 2025-01-08T17:21:18+00:00
+
+ ## Centre de Recherche en Informatique de Lens
+ - [http://www.cril.univ-artois.fr](http://www.cril.univ-artois.fr)
+ - date_published: 2024-08-02T21:01:45+00:00
+
+ ## Avignon Université
+ - [http://www.univ-avignon.fr](http://www.univ-avignon.fr)
+ - date_published: 2024-07-09T14:16:28.623094+00:00
+
+ ## Page de test
+ - [http://labsticc.univ-brest.fr](http://labsticc.univ-brest.fr)
+ - date_published: 2017-12-05T09:57:23+00:00
+
+ ## SFX Version 3 for Linux by Ex Libris
+ - [http://scd-revues.univ-brest.fr](http://scd-revues.univ-brest.fr)
+ - date_published: 2014-12-10T04:21:51+00:00
+
+ ## Les formations de l'Université Catholique de Lyon - UCLy
+ - [https://univ-catholyon.fr](https://univ-catholyon.fr)
+ - date_published: 2024-12-28T00:31:03+00:00
+
+ ## Outlook
+ - [https://webmail.univ-catholyon.fr](https://webmail.univ-catholyon.fr)
+ - date_published: 2024-07-03T05:36:35.975649+00:00
+
  ## 3IA Côte d’Azur - Interdisciplinary Institute for Artificial Intelligence
  - [https://3ia.univ-cotedazur.fr](https://3ia.univ-cotedazur.fr)
  - date_published: 2024-05-28T00:00:00+00:00
@@ -3954,69 +4018,4 @@ Secrétariat d'État chargé de la Mer
  ## Gold Box Games Forums - Index
  - [https://forums.goldbox.games](https://forums.goldbox.games)
  - date_published: 2025-01-09T11:55:48+00:00
-
- ## Good Shepherd Entertainment
- - [https://www.goodshepherd.games](https://www.goodshepherd.games)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## GSAV Newsletter | Gaming Newsletter
- - [https://gsav.games](https://gsav.games)
- - date_published: 2024-06-08T18:09:32.598719+00:00
- - tags: ['video game news']
-
- ## GX.create
- - [https://create.gx.games](https://create.gx.games)
- - date_published: 2024-07-30T14:08:30+00:00
-
- ## GX.games
- - [https://gx.games](https://gx.games)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Game of Hour | Hangover Games
- - [https://hangover.games](https://hangover.games)
- - date_published: 2024-08-03T09:04:48+00:00
-
- ## HOME Verse Mainnet   Explorer
- - [https://explorer.oasys.homeverse.games](https://explorer.oasys.homeverse.games)
- - date_published: 2024-09-24T10:06:11.424255+00:00
-
- ## HOME Verse
- - [https://www.homeverse.games](https://www.homeverse.games)
- - date_published: 2024-09-23T15:44:23.413315+00:00
-
- ## Ice Cold Games
- - [https://icecold.games](https://icecold.games)
- - date_published: 2025-01-24T23:04:47.090317+00:00
-
- ## Idea Factory International, Inc.
- - [https://ifi.games](https://ifi.games)
- - date_published: 2024-10-25T10:40:50.368287+00:00
-
- ## Imperial Games
- - [https://imperial.games](https://imperial.games)
- - date_published: 2023-10-27T08:01:51.543359+00:00
-
- ## Insomniac Games
- - [https://insomniac.games](https://insomniac.games)
- - date_published: 2024-05-09T08:31:44.325513+00:00
-
- ## Insomniac Games Support
- - [https://support.insomniac.games](https://support.insomniac.games)
- - date_published: 2024-07-10T10:43:04.552663+00:00
-
- ## Invokation Games
- - [https://invokation.games](https://invokation.games)
- - date_published: 2024-10-17T21:50:00.350798+00:00
-
- ## IPv4 Turf War
- - [https://ipv4.games](https://ipv4.games)
- - date_published: 2023-01-10T16:46:00+00:00
-
- ## Free Online Games - join Kevin Games and start playing right now!
- - [https://kevin.games](https://kevin.games)
- - date_published: 2024-11-21T18:11:20.093683+00:00
-
- ## Home | Lab42 Games
- - [https://www.lab42.games](https://www.lab42.games)
- - date_published: 2024-07-08T10:35:11.661973+00:00
 

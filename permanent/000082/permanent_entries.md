@@ -1,3 +1,11 @@
+ ## que poesia
+ - [http://quepoesia.blogspot.com](http://quepoesia.blogspot.com)
+ - date_published: 2024-09-20T20:38:48+00:00
+
+ ## Query Shark
+ - [http://queryshark.blogspot.com](http://queryshark.blogspot.com)
+ - date_published: 2024-12-27T10:16:50+00:00
+
  ## The Artificer's Vault
  - [http://questing-artificer.blogspot.com](http://questing-artificer.blogspot.com)
  - date_published: 2024-10-24T09:13:42+00:00
@@ -3994,12 +4002,4 @@
  ## FRANK´S TYPEWRITERS
  - [http://schrijfmachine.blogspot.com](http://schrijfmachine.blogspot.com)
  - date_published: 2024-07-04T06:06:40+00:00
-
- ## Schroedinger's rat
- - [https://schroedingersrat.blogspot.com](https://schroedingersrat.blogspot.com)
- - date_published: 2024-05-12T13:04:00+00:00
-
- ## schuldei.org
- - [http://schuldei.blogspot.com](http://schuldei.blogspot.com)
- - date_published: 2024-03-13T10:03:48+00:00
 

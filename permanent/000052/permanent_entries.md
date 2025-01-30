@@ -1,3 +1,7 @@
+ ## Home | AndresR
+ - [http://andresr.com](http://andresr.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+
  ## Home • Andresrigo
  - [http://www.andresrigo.com](http://www.andresrigo.com)
  - date_published: 2024-04-01T00:00:00+00:00
@@ -4062,8 +4066,4 @@
  ## WHOOP | Your Personal Digital Fitness and Health Coach
  - [https://www.anyquestion.com](https://www.anyquestion.com)
  - date_published: 2024-07-09T19:12:44.391601+00:00
-
- ## Greece Golden Visa — Greek citizenship by investment in 2023
- - [https://anyresidence.com](https://anyresidence.com)
- - date_published: 2024-10-31T00:48:04.997017+00:00
 

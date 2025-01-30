@@ -1,3 +1,65 @@
+ ## index
+ - [https://ag.purdue.edu](https://ag.purdue.edu)
+ - date_published: 2024-07-09T08:39:41+00:00
+
+ ## Default - LibAnswers
+ - [https://answers.lib.purdue.edu](https://answers.lib.purdue.edu)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Apply to Purdue   - Undergraduate Admissions - Purdue University
+ - [https://apply.purdue.edu](https://apply.purdue.edu)
+ - date_published: 2024-05-07T20:04:00.875404+00:00
+
+ ## Purdue Libraries Blogs
+ - [http://blogs.lib.purdue.edu](http://blogs.lib.purdue.edu)
+ - date_published: 2024-07-01T17:44:19.214269+00:00
+
+ ## Checking your browser - reCAPTCHA
+ - [https://boilerbot.purdue.edu](https://boilerbot.purdue.edu)
+ - date_published: 2024-07-01T17:47:51.702041+00:00
+
+ ## Mitchell E. Daniels, Jr. School of Business - Purdue Business
+ - [https://business.purdue.edu](https://business.purdue.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## LibCal -
+        Purdue University Libraries
+ - [https://calendar.lib.purdue.edu](https://calendar.lib.purdue.edu)
+ - date_published: 2024-07-01T17:44:13.101469+00:00
+
+ ## Events Calendar
+ - [https://calendar.purdue.edu](https://calendar.purdue.edu)
+ - date_published: 2024-07-01T17:47:48.944966+00:00
+
+ ## Purdue Careers
+ - [https://careers.purdue.edu](https://careers.purdue.edu)
+ - date_published: 2024-05-07T20:02:49.622232+00:00
+
+ ## Purdue University - Modern Campus Catalog™
+ - [https://catalog.purdue.edu](https://catalog.purdue.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - 
+			 College of Liberal Arts -  Purdue University
+ - [https://cla.purdue.edu](https://cla.purdue.edu)
+ - date_published: 2024-05-11T09:34:20.003397+00:00
+
+ ## Purdue Connect
+ - [https://connect.purdue.edu](https://connect.purdue.edu)
+ - date_published: 2023-07-02T17:40:16+00:00
+
+ ## Department of Computer Science - Purdue University
+ - [https://cs.purdue.edu](https://cs.purdue.edu)
+ - date_published: 2024-05-07T20:03:26.833394+00:00
+
+ ## The Data Mine
+ - [https://datamine.purdue.edu](https://datamine.purdue.edu)
+ - date_published: 2024-09-19T20:23:19.001227+00:00
+
+ ## Purdue University - Dining & Culinary
+ - [https://dining.purdue.edu](https://dining.purdue.edu)
+ - date_published: 2024-05-07T20:04:22.231068+00:00
+
  ## Purdue University Online | Online Master's Degrees and Non-Credit Programs - 
 			 Purdue University Online -  Purdue University
  - [https://discover.online.purdue.edu](https://discover.online.purdue.edu)
@@ -3946,64 +4008,4 @@
  ## Search Results
  - [https://ask.stanford.edu](https://ask.stanford.edu)
  - date_published: 2024-05-07T20:26:08.500822+00:00
-
- ## Autonomous Systems Laboratory
- - [https://asl.stanford.edu](https://asl.stanford.edu)
- - date_published: 2024-05-07T10:17:56.429005+00:00
-
- ## Stanford Asset CDN
- - [https://assets.stanford.edu](https://assets.stanford.edu)
- - date_published: 2024-07-01T20:12:07.358516+00:00
-
- ## Associated Students of Stanford University
- - [https://assu.stanford.edu](https://assu.stanford.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## init
- - [https://atcasbs.stanford.edu](https://atcasbs.stanford.edu)
- - date_published: 2024-07-01T19:56:12.906323+00:00
-
- ## Stanford | Axess
- - [https://axess.sahr.stanford.edu](https://axess.sahr.stanford.edu)
- - date_published: 2023-09-01T18:19:30+00:00
-
- ## Stanford | Axess
- - [https://axess.stanford.edu](https://axess.stanford.edu)
- - date_published: 2023-09-01T18:19:30+00:00
-
- ## SLAC-Stanford Battery Center | SLAC National Accelerator Laboratory
- - [https://batterycenter.slac.stanford.edu](https://batterycenter.slac.stanford.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Bechtel International Center
- - [https://bechtel.stanford.edu](https://bechtel.stanford.edu)
- - date_published: 2024-07-01T17:10:36+00:00
-
- ## BEHAVIOR – BEHAVIOR
- - [https://behavior.stanford.edu](https://behavior.stanford.edu)
- - date_published: 2024-05-13T22:21:37+00:00
-
- ## Home - Stanford BeWell
- - [https://bewell.stanford.edu](https://bewell.stanford.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## The Future of Health Care
- - [https://biodesign.stanford.edu](https://biodesign.stanford.edu)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Department of Biology
- - [https://biology.stanford.edu](https://biology.stanford.edu)
- - date_published: 2024-05-07T20:29:32.574767+00:00
-
- ## Welcome to Bio-X
- - [https://biox.stanford.edu](https://biox.stanford.edu)
- - date_published: 2024-07-01T20:17:37+00:00
-
- ## Stanford Login
- - [http://bi.stanford.edu](http://bi.stanford.edu)
- - date_published: 2024-07-01T20:08:27.443247+00:00
-
- ## The Book Haven
- - [https://bookhaven.stanford.edu](https://bookhaven.stanford.edu)
- - date_published: 2024-07-03T21:35:03.640765+00:00
 

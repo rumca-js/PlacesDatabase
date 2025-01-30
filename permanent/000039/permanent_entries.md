@@ -1,3 +1,7 @@
+ ## Animated Text Webpage
+ - [https://microleap.co](https://microleap.co)
+ - date_published: 2024-08-29T14:28:36+00:00
+
  ## Michael Mignano
  - [https://mignano.co](https://mignano.co)
  - date_published: 2024-07-19T23:10:29.338253+00:00
@@ -4064,8 +4068,4 @@
  ## Affiliate Self Service
  - [https://partners.sift.co](https://partners.sift.co)
  - date_published: 2023-10-04T14:07:56+00:00
-
- ## Sift Media
- - [https://sift.co](https://sift.co)
- - date_published: 2024-05-06T17:57:48.613221+00:00
 

@@ -1,3 +1,7 @@
+ ## Massdriver Docs | Massdriver Docs
+ - [https://docs.massdriver.cloud](https://docs.massdriver.cloud)
+ - date_published: 2024-04-30T06:17:30.086453+00:00
+
  ## Massdriver - Platform Engineering, Delivered
  - [https://massdriver.cloud](https://massdriver.cloud)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -4007,8 +4011,4 @@
  ## 嘉必优生物技术(武汉)股份有限公司
  - [https://www.cabio.cn](https://www.cabio.cn)
  - date_published: 2024-12-19T18:52:15.170815+00:00
-
- ## 中央文化和旅游管理干部学院（中共文化和旅游部党校）
- - [http://www.cacta.cn](http://www.cacta.cn)
- - date_published: 2024-06-26T00:31:27+00:00
 

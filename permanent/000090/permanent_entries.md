@@ -1,3 +1,11 @@
+ ## Brevo (formerly Sendinblue) | Email Marketing, Automation & CRM
+ - [https://get.brevo.com](https://get.brevo.com)
+ - date_published: 2024-07-08T15:14:26.587426+00:00
+
+ ## Brevo - Help Center
+ - [https://help.brevo.com](https://help.brevo.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
  ## Working at Brevo
  - [https://jobs.brevo.com](https://jobs.brevo.com)
  - date_published: 2024-07-08T15:21:25.916410+00:00
@@ -4038,12 +4046,4 @@
  ## Bubonicon 55 - Aug 23-25, 2024
  - [https://www.bubonicon.com](https://www.bubonicon.com)
  - date_published: 2024-07-04T15:15:12.789241+00:00
-
- ## Collagen Peptides, MCT Oil, ACV Gummies & Electrolytes
- - [https://bubsnaturals.com](https://bubsnaturals.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Help Center | BUBS Naturals
- - [https://help.bubsnaturals.com](https://help.bubsnaturals.com)
- - date_published: 2024-07-19T19:40:21.341432+00:00
 

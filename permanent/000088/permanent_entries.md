@@ -1,3 +1,12 @@
+ ## LGOGOAL > Hadir Di Indonesia Sebagai Platform Situs Online Unggulan
+ - [http://bobby-fritz.com](http://bobby-fritz.com)
+ - date_published: 2025-01-22T07:07:19.910978+00:00
+
+ ## Bobby's Blog
+ - [https://bobbyhiltz.com](https://bobbyhiltz.com)
+ - date_published: 2025-01-01T09:19:08.473364+00:00
+ - tags: ['personal']
+
  ## Music City's Inspired Getaway
  - [https://bobbyhotel.com](https://bobbyhotel.com)
  - date_published: 2024-12-28T02:33:49.964322+00:00
@@ -4025,12 +4034,4 @@
  ## Dev Tutorials
  - [https://tutorials.botsfloor.com](https://tutorials.botsfloor.com)
  - date_published: 2025-01-22T19:32:44.816798+00:00
-
- ## Botsheets - Create AI Chatbots With Google Sheets
- - [https://botsheets.com](https://botsheets.com)
- - date_published: 2024-06-27T10:52:31.746117+00:00
-
- ## A Fully Automated Chatbot Platform To Build AI-Chatbot
- - [https://botsify.com](https://botsify.com)
- - date_published: 2024-08-06T00:00:00+00:00
 

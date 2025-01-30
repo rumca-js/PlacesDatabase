@@ -1,3 +1,64 @@
+ ## Department of Bioengineering and Therapeutic Sciences
+ - [https://bts.ucsf.edu](https://bts.ucsf.edu)
+ - date_published: 2024-07-02T01:49:02+00:00
+
+ ## LibCal -
+        University of California, San Francisco
+ - [https://calendars.library.ucsf.edu](https://calendars.library.ucsf.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://calendar.ucsf.edu](https://calendar.ucsf.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Home
+ - [https://calm.ucsf.edu](https://calm.ucsf.edu)
+ - date_published: 2024-06-17T12:12:58+00:00
+
+ ## Campus Life Services | Campus Life Services
+ - [https://campuslifeserviceshome.ucsf.edu](https://campuslifeserviceshome.ucsf.edu)
+ - date_published: 2024-05-07T21:08:30.121576+00:00
+
+ ## Campus Life Services
+ - [https://campuslifeservices.ucsf.edu](https://campuslifeservices.ucsf.edu)
+ - date_published: 2021-10-18T16:19:39+00:00
+
+ ## Home | UCSF Helen Diller Family Comprehensive Cancer Center
+ - [https://cancer.ucsf.edu](https://cancer.ucsf.edu)
+ - date_published: 2024-07-01T23:47:43+00:00
+
+ ## What We Do
+ - [https://careadvocate.ucsf.edu](https://careadvocate.ucsf.edu)
+ - date_published: 2024-07-02T01:40:40+00:00
+
+ ## Home
+ - [https://career.ucsf.edu](https://career.ucsf.edu)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Welcome to the General Catalog of the University of California, San Francisco | UC San Francisco
+ - [https://catalog.ucsf.edu](https://catalog.ucsf.edu)
+ - date_published: 2024-05-07T21:09:22.619700+00:00
+
+ ## Home | Office of the Chancellor
+ - [https://chancellor.ucsf.edu](https://chancellor.ucsf.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Department of Clinical Pharmacy
+ - [https://clinicalpharmacy.ucsf.edu](https://clinicalpharmacy.ucsf.edu)
+ - date_published: 2024-07-02T01:49:11+00:00
+
+ ## Clinical Trials at UCSF
+ - [https://clinicaltrials.ucsf.edu](https://clinicaltrials.ucsf.edu)
+ - date_published: 2024-05-07T21:09:34.197296+00:00
+
+ ## Welcome
+ - [https://compliance.ucsf.edu](https://compliance.ucsf.edu)
+ - date_published: 2024-07-02T01:50:37+00:00
+
+ ## COVID-19 Resources
+ - [https://coronavirus.ucsf.edu](https://coronavirus.ucsf.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
  ## University of California, San Francisco - MyAccess - Loading Session Information
  - [https://courses.learning.ucsf.edu](https://courses.learning.ucsf.edu)
  - date_published: 2024-07-02T02:02:29.299563+00:00
@@ -3943,64 +4004,4 @@
  ## FinancialSmarts @ UMBC
  - [https://financialsmarts.umbc.edu](https://financialsmarts.umbc.edu)
  - date_published: 2024-07-02T03:34:23.224594+00:00
-
- ## University of Maryland-Baltimore County
- - [https://give.umbc.edu](https://give.umbc.edu)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Giving At UMBC - UMBC: University Of Maryland, Baltimore County
- - [http://giving.umbc.edu](http://giving.umbc.edu)
- - date_published: 2019-12-20T05:00:00+00:00
-
- ## Home
- - [http://gradschool.umbc.edu](http://gradschool.umbc.edu)
- - date_published: 2024-07-02T03:34:08.980532+00:00
-
- ## Home
- - [https://gritstarter.umbc.edu](https://gritstarter.umbc.edu)
- - date_published: 2024-05-07T21:25:55.938507+00:00
-
- ## Welcome
- - [http://health.umbc.edu](http://health.umbc.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## UMBC Help - UMBC: An Honors University in Maryland
- - [https://help.umbc.edu](https://help.umbc.edu)
- - date_published: 2024-07-02T03:26:05.911533+00:00
-
- ## Human Resources
- - [https://hr.umbc.edu](https://hr.umbc.edu)
- - date_published: 2024-07-02T03:31:36.936844+00:00
-
- ## DoIT Security
- - [https://itsecurity.umbc.edu](https://itsecurity.umbc.edu)
- - date_published: 2023-06-20T00:00:00+00:00
-
- ## Welcome to UMBC Jobs
- - [https://jobs.umbc.edu](https://jobs.umbc.edu)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## AOK Library and Gallery
- - [https://librarygallery.umbc.edu](https://librarygallery.umbc.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## AOK Library
- - [https://library.umbc.edu](https://library.umbc.edu)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Welcome to UMBC Jobs
- - [https://listings.umbc.edu](https://listings.umbc.edu)
- - date_published: 2024-07-02T03:32:01.341578+00:00
-
- ## Magazine - UMBC: University Of Maryland, Baltimore County
- - [https://magazine.umbc.edu](https://magazine.umbc.edu)
- - date_published: 2022-02-14T02:11:20+00:00
-
- ## My Print Center
- - [https://mobileprint.umbc.edu](https://mobileprint.umbc.edu)
- - date_published: 2023-08-16T00:01:42+00:00
-
- ## About
- - [https://mtip.umbc.edu](https://mtip.umbc.edu)
- - date_published: 2024-07-02T03:33:54.850291+00:00
 

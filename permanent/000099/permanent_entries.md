@@ -1,3 +1,11 @@
+ ## Azure DevOps Podcast
+ - [https://azuredevopspodcast.clear-measure.com](https://azuredevopspodcast.clear-measure.com)
+ - date_published: 2024-06-14T18:59:36+00:00
+
+ ## Software Development - Fractional CTO Services - Clear Measure
+ - [https://clear-measure.com](https://clear-measure.com)
+ - date_published: 2024-01-03T17:35:56+00:00
+
  ## Software Development - Fractional CTO Services - Clear Measure
  - [https://clearmeasure.com](https://clearmeasure.com)
  - date_published: 2024-01-03T17:35:56+00:00
@@ -4009,12 +4017,4 @@
  ## CMxC 2025 - Die Corporate Mobility Conference
  - [https://www.cmx-conference.com](https://www.cmx-conference.com)
  - date_published: 2025-01-16T21:04:32.020221+00:00
-
- ## CMX: Helping Community Professionals Thrive
- - [https://cmxhub.com](https://cmxhub.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## CMX Connect, powered by Bevy
- - [https://events.cmxhub.com](https://events.cmxhub.com)
- - date_published: 2024-07-07T03:21:52.734194+00:00
 

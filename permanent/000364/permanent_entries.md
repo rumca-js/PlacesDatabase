@@ -1,3 +1,76 @@
+ ## Homepage
+ - [https://diksha.gov.in](https://diksha.gov.in)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Diksha Support Team
+ - [https://support.diksha.gov.in](https://support.diksha.gov.in)
+ - date_published: 2024-12-24T23:19:38.861416+00:00
+
+ ## Dadra & Nagar Haveli District Website | Dadra & Nagar Haveli | India
+ - [https://dnh.gov.in](https://dnh.gov.in)
+ - date_published: 2024-12-25T05:48:41.830638+00:00
+
+ ## उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय
+MINISTRY OF CONSUMER AFFAIRS, FOOD & PUBLIC DISTRIBUTION
+ - [https://doca.gov.in](https://doca.gov.in)
+ - date_published: 2024-08-08T13:40:15.962587+00:00
+
+ ## Home | DEPARTMENT OF Expenditure
+ - [http://doe.gov.in](http://doe.gov.in)
+ - date_published: 2024-12-24T15:19:53+00:00
+
+ ## About The Department | Department of Fisheries, GoI
+ - [http://dof.gov.in](http://dof.gov.in)
+ - date_published: 2024-12-20T06:14:59+00:00
+
+ ## Department of Justice | Government of India | India
+ - [https://doj.gov.in](https://doj.gov.in)
+ - date_published: 2024-08-08T14:12:06.231618+00:00
+
+ ## Doordarshan | Prasar Bharati
+ - [https://doordarshan.gov.in](https://doordarshan.gov.in)
+ - date_published: 2024-08-08T15:03:25.771610+00:00
+
+ ## होमेपेंशन और पेंशनरों के कल्याण विभाग | कर्मियों, सार्वजनिक शिकायतों और पेंशन मंत्रालय | भारत सरकार
+ - [http://doppw.gov.in](http://doppw.gov.in)
+ - date_published: 2024-12-24T22:58:04.343404+00:00
+
+ ## Department of Personnel & Training
+ - [https://dopt.gov.in](https://dopt.gov.in)
+ - date_published: 2024-12-24T12:28:51+00:00
+
+ ## Digital Communication Innovation Square (DCIS)
+ - [https://dcis.dot.gov.in](https://dcis.dot.gov.in)
+ - date_published: 2024-12-24T23:29:14.989873+00:00
+
+ ## HomeDepartment of Telecommunications | Ministry of Communication | Government of India
+ - [https://dot.gov.in](https://dot.gov.in)
+ - date_published: 2024-08-18T17:47:37+00:00
+
+ ## Department for Promotion of Industry and Internal Trade | MoCI | GoI
+ - [https://dpiit.gov.in](https://dpiit.gov.in)
+ - date_published: 2024-12-24T13:44:22+00:00
+
+ ## Delhi Public Library
+ - [https://dpl.gov.in](https://dpl.gov.in)
+ - date_published: 2024-12-25T01:26:24.851724+00:00
+
+ ## Defence Research and Development Organisation - DRDO, Ministry of Defence, Government of India
+ - [https://drdo.gov.in](https://drdo.gov.in)
+ - date_published: 2024-08-10T21:31:44+00:00
+
+ ## Dsir
+ - [https://www.dsir.gov.in](https://www.dsir.gov.in)
+ - date_published: 2024-12-19T22:26:21+00:00
+
+ ## Department Of Science & Technology | विज्ञान एवं प्रौद्योगिकी विभाग  | Department Of Science & Technology (DST)
+ - [https://dst.gov.in](https://dst.gov.in)
+ - date_published: 2024-12-24T14:26:43+00:00
+
+ ## Department Of Science & Technology | विज्ञान एवं प्रौद्योगिकी विभाग  | Department Of Science & Technology (DST)
+ - [http://www.dst.gov.in](http://www.dst.gov.in)
+ - date_published: 2024-12-24T13:31:40+00:00
+
  ## Eat Right India
  - [https://eatrightindia.gov.in](https://eatrightindia.gov.in)
  - date_published: 2023-10-25T19:30:07.569497+00:00
@@ -3969,77 +4042,4 @@ Studies  (IJELR), Indexed Journal
  ## instruo.in
  - [http://instruo.in](http://instruo.in)
  - date_published: 2024-08-08T12:19:11.671520+00:00
-
- ## Gendering Surveillance
- - [https://genderingsurveillance.internetdemocracy.in](https://genderingsurveillance.internetdemocracy.in)
- - date_published: 2017-03-30T11:41:57+00:00
-
- ## Internet Freedom Forum - Home to India's digital rights community!
- - [https://forum.internetfreedom.in](https://forum.internetfreedom.in)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Internet Freedom Foundation - Internet Freedom Foundation
- - [https://internetfreedom.in](https://internetfreedom.in)
- - date_published: 2023-10-25T19:30:47.904368+00:00
-
- ## Internet Freedom Foundation - Internet Freedom Foundation
- - [https://static.internetfreedom.in](https://static.internetfreedom.in)
- - date_published: 2024-04-28T01:40:43.208445+00:00
-
- ## Hindi news, हिंदी न्यूज़ , Hindi Samachar, हिंदी समाचार, Latest News in Hindi, Breaking News in Hindi, ताजा ख़बरें, Aaj Tak News
- - [https://aajtak.intoday.in](https://aajtak.intoday.in)
- - date_published: 2024-07-17T10:10:33+00:00
-
- ## Business News India: Latest Business News Today, Share Market, Economy
- - [http://businesstoday.intoday.in](http://businesstoday.intoday.in)
- - date_published: 2024-07-17T10:13:43.783556+00:00
-
- ## Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - IndiaToday
- - [http://education.intoday.in](http://education.intoday.in)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - IndiaToday
- - [https://feeds.intoday.in](https://feeds.intoday.in)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - IndiaToday
- - [http://indiatoday.intoday.in](http://indiatoday.intoday.in)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Error
- - [https://marketapi.intoday.in](https://marketapi.intoday.in)
- - date_published: 2024-04-28T01:38:14.868924+00:00
-
- ## Personal Finance News: Tax, Saving Schemes, FDs, Investment Planning, Insurance
- - [http://moneytoday.intoday.in](http://moneytoday.intoday.in)
- - date_published: 2024-07-17T10:18:52.810264+00:00
-
- ## Power Grid
- - [http://specials.intoday.in](http://specials.intoday.in)
- - date_published: 2023-06-09T11:42:37+00:00
-
- ## Magazines Subscriptions on India Today Group | Subscription | Subscription
- - [https://subscriptions.intoday.in](https://subscriptions.intoday.in)
- - date_published: 2024-04-28T01:38:55.809244+00:00
-
- ## INDIA TODAY GROUP: India Today, Business Today, Aaj Tak, Care
-    Today, Mail Today, Cosmopolitan, Reader's Digest, India Today Conclave
- - [http://www.intoday.in](http://www.intoday.in)
- - date_published: 2024-08-08T12:30:33.443831+00:00
-
- ## Investbrain
- - [https://investbra.in](https://investbra.in)
- - date_published: 2024-12-13T14:43:47.809612+00:00
-
- ## Iraj | institute of research and journals
- - [http://iraj.in](http://iraj.in)
- - date_published: 2024-10-29T17:19:27.539032+00:00
-
- ## Iram Art
- - [https://iramart.in](https://iramart.in)
- - date_published: 2024-05-02T12:56:09.975648+00:00
-
- ## ISBR- Top Business School in Bangalore, Best MBA College India
- - [https://isbr.in](https://isbr.in)
- - date_published: 2024-10-09T06:09:41+00:00
 

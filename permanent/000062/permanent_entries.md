@@ -1,3 +1,11 @@
+ ## KMRU
+ - [https://kmru.bandcamp.com](https://kmru.bandcamp.com)
+ - date_published: 2024-12-27T07:57:32.575976+00:00
+
+ ## Natur, by KMRU
+ - [https://kmrureleases.bandcamp.com](https://kmrureleases.bandcamp.com)
+ - date_published: 2024-07-21T03:49:17.444020+00:00
+
  ## Creation, by Sonavision Deluxe & Komit
  - [https://kmtdlx.bandcamp.com](https://kmtdlx.bandcamp.com)
  - date_published: 2024-12-27T09:24:34.685138+00:00
@@ -3991,12 +3999,4 @@
  ## Papercuts
  - [https://papercutsmusic.bandcamp.com](https://papercutsmusic.bandcamp.com)
  - date_published: 2024-07-19T20:27:05.049103+00:00
-
- ## PARAFRAME
- - [https://paraframe.bandcamp.com](https://paraframe.bandcamp.com)
- - date_published: 2024-12-26T22:06:27.366747+00:00
-
- ## PARAGON CAUSE
- - [https://paragoncause.bandcamp.com](https://paragoncause.bandcamp.com)
- - date_published: 2024-12-26T21:25:50.738393+00:00
 

@@ -1,3 +1,85 @@
+ ## Early Learning Academies | R'Club
+ - [http://www.cpchildcare.org](http://www.cpchildcare.org)
+ - date_published: 2024-06-27T07:12:39.244914+00:00
+
+ ## cpcwatch.org
+ - [http://www.cpcwatch.org](http://www.cpcwatch.org)
+ - date_published: 2024-12-27T13:51:13.087789+00:00
+
+ ## cpdnboinc
+ - [https://cpdn.org](https://cpdn.org)
+ - date_published: 2024-05-11T07:52:21.697664+00:00
+
+ ## CPDP Computers, Privacy and Data Protection conference
+ - [https://cpdpconferences.org](https://cpdpconferences.org)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## California Pan-Ethnic Health Network
+ - [https://cpehn.org](https://cpehn.org)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## CPH Blog - Concordia Publishing House
+ - [https://blog.cph.org](https://blog.cph.org)
+ - date_published: 2025-01-25T10:45:36.058620+00:00
+
+ ## LCMS Youth Gathering Store
+ - [https://gathering.cph.org](https://gathering.cph.org)
+ - date_published: 2025-01-25T10:45:34.623097+00:00
+
+ ## Home - CPH Podcasts
+ - [https://podcasts.cph.org](https://podcasts.cph.org)
+ - date_published: 2025-01-25T10:50:21.019251+00:00
+
+ ## Home - Concordia Publishing House
+ - [https://www.cph.org](https://www.cph.org)
+ - date_published: 2025-01-12T05:37:33.113667+00:00
+
+ ## Clear Physics
+ - [https://cphysics.org](https://cphysics.org)
+ - date_published: 2023-10-25T21:10:48.724655+00:00
+ - tags: ['quantum', 'physics']
+
+ ## 中国人民外交学会官网
+ - [http://www.cpifa.org](http://www.cpifa.org)
+ - date_published: 2025-01-14T13:18:00.848155+00:00
+
+ ## Committee to Protect Journalists – Defending Journalists Worldwide. - Committee to Protect Journalists
+ - [https://cpj.org](https://cpj.org)
+ - date_published: 2023-10-25T21:10:54.852143+00:00
+
+ ## Comparative Procedural Law and Justice (CPLJ)
+ - [https://www.cplj.org](https://www.cplj.org)
+ - date_published: 2025-01-18T05:03:24.923848+00:00
+
+ ## California Pacific Medical Center | Sutter Health
+ - [http://www.cpmc.org](http://www.cpmc.org)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## CRPM
+ - [https://cloud.cpmr.org](https://cloud.cpmr.org)
+ - date_published: 2024-06-05T07:27:03.817382+00:00
+
+ ## CPMR – Conference of Peripheral Maritime Regions
+ - [https://cpmr.org](https://cpmr.org)
+ - date_published: 2024-05-02T09:57:44.945558+00:00
+ - tags: ['conference', 'maritime']
+
+ ## CPMR Atlantic Arc Commission – Website of the CPMR AAC
+ - [https://cpmr-atlantic.org](https://cpmr-atlantic.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## CPMR Balkan & Black Sea Commission – Website of the CPMR BBSC
+ - [https://cpmr-balkan-blacksea.org](https://cpmr-balkan-blacksea.org)
+ - date_published: 2024-06-05T07:27:21.687034+00:00
+
+ ## CPMR Baltic Sea Commission – Website of the CPMR BSC
+ - [https://cpmr-baltic.org](https://cpmr-baltic.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## CPMR Intermediterranean Commission – Website of the CPMR IMC
+ - [https://cpmr-intermed.org](https://cpmr-intermed.org)
+ - date_published: 2024-03-12T00:00:00+00:00
+
  ## Home | CPMR is 50
  - [https://cpmris50.org](https://cpmris50.org)
  - date_published: 2024-06-05T07:26:55.095274+00:00
@@ -3955,85 +4037,4 @@ irc logs at libera.irclog.whitequark.org
  ## OIDC Form_Post Response
  - [https://databus.dbpedia.org](https://databus.dbpedia.org)
  - date_published: 2024-07-07T03:10:51.038056+00:00
-
- ## Home - DBpedia Association
- - [https://dbpedia.org](https://dbpedia.org)
- - date_published: 2024-05-08T09:03:06.819623+00:00
-
- ## es.dbpedia.org
- - [https://es.dbpedia.org](https://es.dbpedia.org)
- - date_published: 2020-06-11T12:08:54+00:00
- - date_dead_since: 2024-12-12T19:20:42.174475+00:00
-
- ## DBpedia Forum
- - [https://forum.dbpedia.org](https://forum.dbpedia.org)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## DBpedia French chapter
- - [https://fr.dbpedia.org](https://fr.dbpedia.org)
- - date_published: 2022-06-07T13:38:30+00:00
-
- ## Home - DBpedia Association
- - [http://wiki.dbpedia.org](http://wiki.dbpedia.org)
- - date_published: 2024-07-02T05:48:24.291161+00:00
-
- ## Software Development & Consulting
- - [https://dbservices.org](https://dbservices.org)
- - date_published: 2024-10-28T23:26:55.014783+00:00
-
- ## DEF CON 864 (DC864) Group – Upstate South Carolina's DEF CON Group
- - [https://dc864.org](https://dc864.org)
- - date_published: 2024-05-08T03:34:02.356141+00:00
-
- ## 𝗗𝗖𝗔 𝗚𝗟𝗢𝗕𝗔𝗟 (Data Centre Alliance) - DCA Global
- - [https://dca-global.org](https://dca-global.org)
- - date_published: 2025-01-23T19:19:19.375527+00:00
-
- ## DCAT
- - [https://dcat.org](https://dcat.org)
- - date_published: 2025-01-25T11:20:38.656375+00:00
-
- ## DCAT Value Chain Insights
- - [https://www.dcatvci.org](https://www.dcatvci.org)
- - date_published: 2025-01-12T07:34:59.589308+00:00
-
- ## District of Columbia Dental Society | American Dental Association
- - [https://www.dcdental.org](https://www.dcdental.org)
- - date_published: 2025-01-21T13:16:34.003119+00:00
-
- ## DCEmulation
- - [https://dcemulation.org](https://dcemulation.org)
- - date_published: 2023-10-15T20:54:34+00:00
-
- ## DC FOP Lodge 1
- - [http://www.dc-fop.org](http://www.dc-fop.org)
- - date_published: 2024-07-18T04:13:28+00:00
-
- ## Habitat for Humanity D.C. & Northern Virginia
- - [https://dchabitat.org](https://dchabitat.org)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## A Data-Centric Introduction to Computing
- - [https://dcic-world.org](https://dcic-world.org)
- - date_published: 2023-02-21T23:13:02+00:00
-
- ## No Way to Treat a Child
- - [http://nwttac.dci-palestine.org](http://nwttac.dci-palestine.org)
- - date_published: 2024-09-16T20:17:52.157130+00:00
-
- ## Defense for Children Palestine
- - [https://www.dci-palestine.org](https://www.dci-palestine.org)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## DC Jobs with Justice | Fighting for working people in the nation's capital
- - [http://www.dcjwj.org](http://www.dcjwj.org)
- - date_published: 2024-09-18T04:30:28.621116+00:00
-
- ## Washington Kurdish Institute | Est. 1996
- - [http://dckurd.org](http://dckurd.org)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Welcome to DCMNY | DCMNY
- - [https://dcmny.org](https://dcmny.org)
- - date_published: 2024-06-28T19:58:51+00:00
 

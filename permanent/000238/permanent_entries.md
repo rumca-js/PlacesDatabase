@@ -1,3 +1,27 @@
+ ## The Swarthmorean Archives
+ - [https://bird-smilodon-h2ms.squarespace.com](https://bird-smilodon-h2ms.squarespace.com)
+ - date_published: 2024-06-21T20:39:38.204551+00:00
+
+ ## - Bishop Hill blog
+ - [https://bishophill.squarespace.com](https://bishophill.squarespace.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## The Amateur Gourmet
+ - [https://bison-goose-5dz6.squarespace.com](https://bison-goose-5dz6.squarespace.com)
+ - date_published: 2024-07-03T18:13:02.440768+00:00
+
+ ## Fabrizio Dell'Acqua
+ - [https://bison-harp-zc2x.squarespace.com](https://bison-harp-zc2x.squarespace.com)
+ - date_published: 2024-06-16T21:51:30.687064+00:00
+
+ ## THE BITTER SOUTHERNER - Great Stories from the South
+ - [https://bittersoutherner.squarespace.com](https://bittersoutherner.squarespace.com)
+ - date_published: 2024-05-10T05:42:13.820676+00:00
+
+ ## Roote
+ - [https://blackbird-grouse-je9z.squarespace.com](https://blackbird-grouse-je9z.squarespace.com)
+ - date_published: 2024-09-12T19:51:26.678879+00:00
+
  ## Open-RMF
  - [https://blackbird-leopard-8err.squarespace.com](https://blackbird-leopard-8err.squarespace.com)
  - date_published: 2024-07-08T12:38:30.299300+00:00
@@ -3974,28 +3998,4 @@
  ## Medoo  |  Smart coaching software that powers prized aha! moments
  - [https://mandolin-begonia-rypj.squarespace.com](https://mandolin-begonia-rypj.squarespace.com)
  - date_published: 2024-10-30T21:54:51.801540+00:00
-
- ## Kevin Gibson
- - [https://mandolin-bumblebee-ax86.squarespace.com](https://mandolin-bumblebee-ax86.squarespace.com)
- - date_published: 2024-12-22T22:12:48.621425+00:00
-
- ## Blink Smart Security
- - [https://mandolin-crow-yyt6.squarespace.com](https://mandolin-crow-yyt6.squarespace.com)
- - date_published: 2024-07-03T16:20:02.337547+00:00
-
- ## AISST
- - [https://mandolin-daisy-2mn9.squarespace.com](https://mandolin-daisy-2mn9.squarespace.com)
- - date_published: 2024-07-07T07:15:33.025690+00:00
-
- ## 4A's CX Effect +
- - [https://mandolin-plane-ls4p.squarespace.com](https://mandolin-plane-ls4p.squarespace.com)
- - date_published: 2024-10-14T17:48:42.522811+00:00
-
- ## Robotic Rehabilitation for Upper Limbs
- - [https://mango-crow-32xp.squarespace.com](https://mango-crow-32xp.squarespace.com)
- - date_published: 2024-09-05T21:59:25.734194+00:00
-
- ## Rex Black Inc
- - [https://mango-flatworm-cgja.squarespace.com](https://mango-flatworm-cgja.squarespace.com)
- - date_published: 2024-07-02T17:56:43.018085+00:00
 

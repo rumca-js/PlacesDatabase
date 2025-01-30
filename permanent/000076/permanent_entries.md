@@ -1,3 +1,11 @@
+ ## Geotecnologias Luís Lopes
+ - [https://geoluislopes.blogspot.com](https://geoluislopes.blogspot.com)
+ - date_published: 2024-05-12T05:29:29.775806+00:00
+
+ ## The Geomblog
+ - [https://geomblog.blogspot.com](https://geomblog.blogspot.com)
+ - date_published: 2024-05-07T15:58:20.673706+00:00
+
  ## Geopedrados
  - [https://geopedrados.blogspot.com](https://geopedrados.blogspot.com)
  - date_published: 2024-12-20T07:09:32+00:00
@@ -4001,12 +4009,4 @@
  ## Reference and Education
  - [http://imgratefulforww.blogspot.com](http://imgratefulforww.blogspot.com)
  - date_published: 2024-03-08T20:26:20+00:00
-
- ## Blogger
- - [http://imisscoco.blogspot.com](http://imisscoco.blogspot.com)
- - date_published: 2024-12-19T10:23:35.649360+00:00
-
- ## Imitation of Life Miniatures
- - [http://imitationoflifeminiatures.blogspot.com](http://imitationoflifeminiatures.blogspot.com)
- - date_published: 2024-06-29T18:12:12+00:00
 

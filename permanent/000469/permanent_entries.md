@@ -1,3 +1,95 @@
+ ## SIGGRAPH Asia 2018
+ - [https://sa2018.siggraph.org](https://sa2018.siggraph.org)
+ - date_published: 2019-12-27T12:31:46+00:00
+
+ ## SIGGRAPH Asia 2019
+ - [https://sa2019.siggraph.org](https://sa2019.siggraph.org)
+ - date_published: 2020-04-24T15:59:40+00:00
+
+ ## Home
+ - [https://sa2021.siggraph.org](https://sa2021.siggraph.org)
+ - date_published: 2024-07-03T04:40:12.065780+00:00
+
+ ## Page has moved
+ - [https://sa2022.siggraph.org](https://sa2022.siggraph.org)
+ - date_published: 2023-08-02T18:48:04+00:00
+
+ ## Home - ACM SIGGRAPH
+ - [https://siggraph.org](https://siggraph.org)
+ - date_published: 2021-10-19T23:47:50+00:00
+
+ ## Meeting Your Needs
+ - [https://www.sighpc.org](https://www.sighpc.org)
+ - date_published: 2024-05-11T06:55:45.559562+00:00
+
+ ## Home - Sightline Institute
+ - [https://daily.sightline.org](https://daily.sightline.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home - Sightline Institute
+ - [https://sightline.org](https://sightline.org)
+ - date_published: 2023-10-25T22:08:21.247502+00:00
+
+ ## Sightline Security
+ - [https://sightlinesecurity.org](https://sightlinesecurity.org)
+ - date_published: 2024-07-16T20:39:03.123543+00:00
+
+ ## Sight and Sound - CVPR 2023
+ - [https://sightsound.org](https://sightsound.org)
+ - date_published: 2024-06-16T15:20:54+00:00
+
+ ## SIGIR | Special Interest Group on Information Retrieval
+ - [https://sigir.org](https://sigir.org)
+ - date_published: 2013-07-18T00:00:00+00:00
+
+ ## SIGIR-AP - ACM-SIGIR Information Retrieval in the Asia Pacific
+ - [https://www.sigir-ap.org](https://www.sigir-ap.org)
+ - date_published: 2024-08-06T07:25:28+00:00
+
+ ## LICS - ACM/IEEE Symposium on Logic in Computer Science
+ - [https://lics.siglog.org](https://lics.siglog.org)
+ - date_published: 2023-09-20T05:08:23+00:00
+
+ ## ACM Special Interest Group on Logic and Computation
+ - [https://siglog.org](https://siglog.org)
+ - date_published: 2024-08-07T17:23:24.308277+00:00
+
+ ## The Sigma Awards
+ - [https://sigmaawards.org](https://sigmaawards.org)
+ - date_published: 2024-06-22T12:52:36.745475+00:00
+
+ ## Sigma Delta Pi
+ - [https://sigmadeltapi.org](https://sigmadeltapi.org)
+ - date_published: 2024-06-30T06:22:55+00:00
+
+ ## Sigma.js
+ - [http://sigmajs.org](http://sigmajs.org)
+ - date_published: 2024-11-25T10:03:03+00:00
+
+ ## Sigma Home Page
+ - [https://sigmanursing.org](https://sigmanursing.org)
+ - date_published: 2024-08-19T18:27:41.436264+00:00
+
+ ## Home - The Circle
+ - [https://thecircle.sigmanursing.org](https://thecircle.sigmanursing.org)
+ - date_published: 2025-01-23T14:35:06.010070+00:00
+
+ ## Togel Hongkong Hari Ini - Togel Singapore - Keluaran HK SGP Prize - Pengeluaran Data HK SGP Pools
+ - [https://sigmanutau.org](https://sigmanutau.org)
+ - date_published: 2025-01-07T14:51:51+00:00
+
+ ## Home - Sigma Xi
+ - [https://community.sigmaxi.org](https://community.sigmaxi.org)
+ - date_published: 2024-10-19T03:59:51.920506+00:00
+
+ ## Your industry Internships - Sigma Xi - Intern Board
+ - [https://internships.sigmaxi.org](https://internships.sigmaxi.org)
+ - date_published: 2024-06-17T11:47:57.631431+00:00
+
+ ## Scientific Research Jobs - Sigma Xi, The Scientific Research Society's Career Center
+ - [https://jobs.sigmaxi.org](https://jobs.sigmaxi.org)
+ - date_published: 2024-06-17T11:47:42.237589+00:00
+
  ## Home
  - [https://sigmaxi.org](https://sigmaxi.org)
  - date_published: 2024-06-17T11:48:07.771145+00:00
@@ -3939,96 +4031,4 @@ Santa Rosa Veterans Building, Santa Rosa, CA |
  ## Homepage - Spartanburg County Foundation
  - [https://spcf.org](https://spcf.org)
  - date_published: 2022-12-22T09:59:10+00:00
-
- ## Enrico Boccioletti, 2020
- - [http://spcnvdr.org](http://spcnvdr.org)
- - date_published: 2024-10-29T14:24:15.895695+00:00
-
- ## Small Press Distribution
- - [https://spdbooks.org](https://spdbooks.org)
- - date_published: 2024-04-29T05:30:12.814028+00:00
-
- ## SPDX – Linux Foundation Projects Site
- - [https://spdx.org](https://spdx.org)
- - date_published: 2024-04-30T00:28:55.279354+00:00
-
- ## SPDX Online Tool
- - [https://tools.spdx.org](https://tools.spdx.org)
- - date_published: 2024-07-22T17:24:36.348915+00:00
-
- ## SP DX Club – Stowarzyszenie Miłośników Dalekosiężnych Łączności Radiowych
- - [http://www.spdxc.org](http://www.spdxc.org)
- - date_published: 2024-07-15T04:11:40.766383+00:00
-
- ## Home - SPE Connect
- - [https://connect.spe.org](https://connect.spe.org)
- - date_published: 2025-01-20T10:14:28.918493+00:00
-
- ## Society of Petroleum Engineers (SPE) | Oil & Gas Membership Association
- - [https://spe.org](https://spe.org)
- - date_published: 2025-01-08T09:59:57.258023+00:00
-
- ## Society of Petroleum Engineers (SPE) | Oil & Gas Membership Association
- - [http://www.spe.org](http://www.spe.org)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Speaker Cleaner – Fix Speakers and Eject Water and Dust
- - [https://speakercleaner.org](https://speakercleaner.org)
- - date_published: 2025-01-27T21:09:06.225897+00:00
-
- ## SPEAKEZEE.ORG
- - [https://speakezee.org](https://speakezee.org)
- - date_published: 2024-06-29T02:57:45.918687+00:00
-
- ## Speakit – Film & TV Production
- - [https://www.speakit.org](https://www.speakit.org)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## บาคาร่าออนไลน์ เว็บตรง ไม่ผ่านเอเย่นต์ ค่ายเกมลิขสิทธิ์แท้ 100%
- - [https://spearville.org](https://spearville.org)
- - date_published: 2025-01-22T14:11:25.980322+00:00
-
- ## Welcome to ICPE2020: ICPE 2020
- - [https://icpe2020.spec.org](https://icpe2020.spec.org)
- - date_published: 2021-03-09T14:22:10+00:00
-
- ## SPEC Research Group
- - [https://research.spec.org](https://research.spec.org)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Abu Simbel: Secret of Ramses
- - [http://abusimbel2.speccy.org](http://abusimbel2.speccy.org)
- - date_published: 2006-06-25T11:55:50+00:00
-
- ## Akton Films
- - [http://aktonfilms.speccy.org](http://aktonfilms.speccy.org)
- - date_published: 2007-10-22T21:20:07+00:00
-
- ## Bacteria, el emulador mas pequeño del mundo
- - [http://bacteria.speccy.org](http://bacteria.speccy.org)
- - date_published: 2012-11-06T12:30:39+00:00
-
- ## B.A.S.E.
- - [http://base.speccy.org](http://base.speccy.org)
- - date_published: 2008-03-01T20:06:18+00:00
-
- ## Página de Bibosoft
- - [http://bibosoft.speccy.org](http://bibosoft.speccy.org)
- - date_published: 2014-11-26T22:37:21+00:00
-
- ## Alexander Podzhunas ZX-Projects/TAP VERSION
- - [http://biotoxin.speccy.org](http://biotoxin.speccy.org)
- - date_published: 2011-01-11T16:52:26+00:00
-
- ## Documento sin título
- - [http://canadul.speccy.org](http://canadul.speccy.org)
- - date_published: 2023-10-31T11:23:01+00:00
-
- ## CargandoLeches
- - [http://cargandoleches.speccy.org](http://cargandoleches.speccy.org)
- - date_published: 2012-06-09T14:18:02+00:00
-
- ## Compiler Software
- - [https://compiler.speccy.org](https://compiler.speccy.org)
- - date_published: 2024-05-09T09:07:05.232781+00:00
 

@@ -1,3 +1,23 @@
+ ## History
+ - [https://history.howstuffworks.com](https://history.howstuffworks.com)
+ - date_published: 2008-02-27T08:00:00+00:00
+
+ ## Home & Garden
+ - [https://home.howstuffworks.com](https://home.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## HowStuffWorks - Learn How Everything Works!
+ - [https://howstuffworks.com](https://howstuffworks.com)
+ - date_published: 2024-05-11T08:04:33.534172+00:00
+
+ ## Lifestyle
+ - [https://lifestyle.howstuffworks.com](https://lifestyle.howstuffworks.com)
+ - date_published: 2014-02-11T08:00:00+00:00
+
+ ## Money
+ - [https://money.howstuffworks.com](https://money.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
  ## People
  - [https://people.howstuffworks.com](https://people.howstuffworks.com)
  - date_published: 2006-01-29T05:00:00+00:00
@@ -4000,24 +4020,4 @@
  ## HV CAPITAL I Backing those who dare
  - [https://www.hvventures.com](https://www.hvventures.com)
  - date_published: 2024-09-20T15:35:01.171906+00:00
-
- ## //H3∆VYH∆ND$\\
- - [http://hvyhnds.com](http://hvyhnds.com)
- - date_published: 2024-06-30T07:43:11.174294+00:00
-
- ## Hwaci Homepage
- - [http://www.hwaci.com](http://www.hwaci.com)
- - date_published: 2006-12-13T14:54:32+00:00
-
- ## -
- - [http://www.hw-bio.com](http://www.hw-bio.com)
- - date_published: 2024-09-18T15:15:53.021858+00:00
-
- ## Home Page - Hardware Busters
- - [https://hwbusters.com](https://hwbusters.com)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Hardware Canucks
- - [https://hwcstore.com](https://hwcstore.com)
- - date_published: 2024-12-14T15:24:04.292803+00:00
 

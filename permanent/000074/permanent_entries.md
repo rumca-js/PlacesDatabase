@@ -1,3 +1,11 @@
+ ## Davis Typewriter Works
+ - [http://davistypewriters.blogspot.com](http://davistypewriters.blogspot.com)
+ - date_published: 2024-07-10T01:53:57+00:00
+
+ ## Morley's blog page
+ - [http://davmor2.blogspot.com](http://davmor2.blogspot.com)
+ - date_published: 2024-03-07T09:25:24+00:00
+
  ## Shane's House of War - Napoleonics
  - [http://davout.blogspot.com](http://davout.blogspot.com)
  - date_published: 2024-11-01T10:35:00+00:00
@@ -3998,12 +4006,4 @@
  ## Back Talk Me
  - [https://engram-backtalk.blogspot.com](https://engram-backtalk.blogspot.com)
  - date_published: 2024-03-13T04:51:50+00:00
-
- ## ENHANCED - ADVANCED HEROQUEST
- - [https://enhancedadvancedheroquest.blogspot.com](https://enhancedadvancedheroquest.blogspot.com)
- - date_published: 2024-10-07T06:27:33+00:00
-
- ## Enionline Alternative Worlds
- - [https://enionline.blogspot.com](https://enionline.blogspot.com)
- - date_published: 2024-06-28T23:19:12+00:00
 

@@ -1,3 +1,7 @@
+ ## Data Mentor | Unlocking Your Data Potential
+ - [https://mentor.enterprisedna.co](https://mentor.enterprisedna.co)
+ - date_published: 2024-07-14T23:14:26.318503+00:00
+
  ## Crédito para negocios | Entre Amigos
  - [https://www.entreamigos.co](https://www.entreamigos.co)
  - date_published: 2024-09-10T00:00:00+00:00
@@ -4035,8 +4039,4 @@ It’s what you do.
  ## MICES 2024 - Mix-camp E-Commerce Search
  - [https://mices.co](https://mices.co)
  - date_published: 2024-05-06T22:00:51.223671+00:00
-
- ## Animated Text Webpage
- - [https://microleap.co](https://microleap.co)
- - date_published: 2024-08-29T14:28:36+00:00
 

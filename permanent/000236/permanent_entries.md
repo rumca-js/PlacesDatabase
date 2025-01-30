@@ -1,3 +1,23 @@
+ ## Newsletters | Southern Kitchen
+ - [https://profile.southernkitchen.com](https://profile.southernkitchen.com)
+ - date_published: 2025-01-11T20:37:13.286713+00:00
+
+ ## Southern recipes and stories| Southern Kitchen southernkitchen.com
+ - [https://southernkitchen.com](https://southernkitchen.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Southern Living - Recipes, Home Decor, Gardening, DIY and Travel
+ - [https://southernliving.com](https://southernliving.com)
+ - date_published: 2024-09-16T14:39:14.262056+00:00
+
+ ## Home
+ - [https://southernlord.com](https://southernlord.com)
+ - date_published: 2017-11-29T21:13:59+00:00
+
+ ## Home
+ - [https://sunn.southernlord.com](https://sunn.southernlord.com)
+ - date_published: 2019-02-20T14:49:46+00:00
+
  ## Home
  - [https://southernlordeurope.com](https://southernlordeurope.com)
  - date_published: 2017-11-29T21:13:59+00:00
@@ -3934,6 +3954,10 @@ Equity & GIS
  - [https://www.spiraclethemes.com](https://www.spiraclethemes.com)
  - date_published: 2024-07-06T00:00:00+00:00
 
+ ## Spiralator | Spirograph Drawing Tool | Free Online Mobile PC SVG Vector Graphics
+ - [https://spiralator.com](https://spiralator.com)
+ - date_published: 2025-01-29T06:30:33.492495+00:00
+
  ## Spiral
  - [https://blog.spiraldb.com](https://blog.spiraldb.com)
  - date_published: 2024-07-07T10:31:11.644339+00:00
@@ -4005,28 +4029,4 @@ Equity & GIS
  ## Consulting on operational excellence | Spirit Advisors
  - [https://www.spirit-advisors.com](https://www.spirit-advisors.com)
  - date_published: 2024-08-07T00:00:00+00:00
-
- ## Spirit Aerosystems Apply
- - [https://careers.spiritaero.com](https://careers.spiritaero.com)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Corporate Profile | Spirit AeroSystems
- - [https://investor.spiritaero.com](https://investor.spiritaero.com)
- - date_published: 2024-09-16T07:52:42.773802+00:00
-
- ## Home | Spirit AeroSystems
- - [https://spiritaero.com](https://spiritaero.com)
- - date_published: 2024-06-15T05:30:26+00:00
-
- ## Spirited Media
- - [http://spiritedmedia.com](http://spiritedmedia.com)
- - date_published: 2024-07-22T17:41:28.740094+00:00
-
- ## Facebook
- - [http://www.spiritfelt.com](http://www.spiritfelt.com)
- - date_published: 2024-09-15T23:32:38.157766+00:00
-
- ## Spirit Lake Chamber of Commerce Iowa | Strengthening Business
- - [https://www.spiritlakecc.com](https://www.spiritlakecc.com)
- - date_published: 2024-07-14T18:20:18.230694+00:00
 

@@ -1,3 +1,11 @@
+ ## ENHANCED - ADVANCED HEROQUEST
+ - [https://enhancedadvancedheroquest.blogspot.com](https://enhancedadvancedheroquest.blogspot.com)
+ - date_published: 2024-10-07T06:27:33+00:00
+
+ ## Enionline Alternative Worlds
+ - [https://enionline.blogspot.com](https://enionline.blogspot.com)
+ - date_published: 2024-06-28T23:19:12+00:00
+
  ## Enkalhados pelo Mundo
  - [http://enkasnomundo.blogspot.com](http://enkasnomundo.blogspot.com)
  - date_published: 2024-10-05T01:54:28+00:00
@@ -4001,12 +4009,4 @@
  ## gentle rob
  - [http://gentlerob.blogspot.com](http://gentlerob.blogspot.com)
  - date_published: 2024-08-28T12:58:17+00:00
-
- ## Geotecnologias Luís Lopes
- - [https://geoluislopes.blogspot.com](https://geoluislopes.blogspot.com)
- - date_published: 2024-05-12T05:29:29.775806+00:00
-
- ## The Geomblog
- - [https://geomblog.blogspot.com](https://geomblog.blogspot.com)
- - date_published: 2024-05-07T15:58:20.673706+00:00
 

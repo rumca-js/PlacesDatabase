@@ -1,3 +1,68 @@
+ ## LOS40 República Dominicana
+ - [https://los40.do](https://los40.do)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Escucha LOS40 República Dominicana en directo
+ - [https://play.los40.do](https://play.los40.do)
+ - date_published: 2024-09-12T22:04:36.413179+00:00
+ - date_dead_since: 2025-01-29T20:53:02.676554+00:00
+
+ ## Alejandro Machado – Projects
+ - [http://alejandro.macha.do](http://alejandro.macha.do)
+ - date_published: 2019-07-22T13:49:42+00:00
+ - date_dead_since: 2025-01-29T20:53:08.394582+00:00
+
+ ## Generate your SaaS Landing Page in minutes with No Code
+ - [https://maze.do](https://maze.do)
+ - date_published: 2024-12-15T09:57:20.133920+00:00
+
+ ## Pronóstico del tiempo 14 días - Meteored
+ - [https://meteored.do](https://meteored.do)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## MiguelPimentel.do
+ - [https://miguelpimentel.do](https://miguelpimentel.do)
+ - date_published: 2024-06-01T04:50:36.379959+00:00
+ - tags: ['personal']
+
+ ## Distribuidor de Componentes Electrónicos - Mouser Electronics República Dominicana
+ - [https://mouser.do](https://mouser.do)
+ - date_published: 2024-07-01T20:56:33.582432+00:00
+
+ ## hello://nan.do/rossi {open for work}
+ - [https://nan.do](https://nan.do)
+ - date_published: 2024-02-12T14:44:03+00:00
+
+ ## nar.do - Nardo Leung's Production
+ - [https://nar.do](https://nar.do)
+ - date_published: 2024-04-05T09:12:15+00:00
+
+ ## Página oficial | Nestlé Dominicana
+ - [https://nestle.do](https://nestle.do)
+ - date_published: 2024-09-13T00:00:00+00:00
+ - date_dead_since: 2025-01-29T20:53:27.828017+00:00
+
+ ## AI Visual Sitemap Builder Tool, Website Planner, Architecture
+ - [https://octopus.do](https://octopus.do)
+ - date_published: 2024-06-20T13:38:31+00:00
+
+ ## Odismet
+ - [https://odismet.do](https://odismet.do)
+ - date_published: 2024-09-12T11:54:45.144789+00:00
+
+ ## Ooredoo Corporate
+ - [https://ore.do](https://ore.do)
+ - date_published: 2015-10-23T07:57:39+00:00
+
+ ## Practice Help Center
+ - [https://help.practice.do](https://help.practice.do)
+ - date_published: 2024-04-03T00:00:00+00:00
+ - date_dead_since: 2025-01-29T20:53:43.029511+00:00
+
+ ## Practice - Simple Client Management Software
+ - [https://practice.do](https://practice.do)
+ - date_published: 2024-04-21T00:00:00+00:00
+
  ## The craft, without the cruft
  - [https://riccar.do](https://riccar.do)
  - date_published: 2022-05-30T00:00:00+00:00
@@ -15,7 +80,7 @@
  - date_published: 0001-01-01T00:00:00+00:00
 
  ## Shadow -  Bot-Free AI Autopilot for Post-Meeting Tasks
- - [https://www.shadow.do](https://www.shadow.do)
+ - [https://shadow.do](https://shadow.do)
  - date_published: 2024-07-15T00:00:00+00:00
 
  ## Join Slido: Enter #code to vote and ask questions
@@ -27,7 +92,7 @@
  - date_published: 2024-09-16T00:00:00+00:00
 
  ## Slido - Audience Interaction Made Easy
- - [https://www.sli.do](https://www.sli.do)
+ - [https://sli.do](https://sli.do)
  - date_published: 2024-07-02T23:42:01.302601+00:00
 
  ## Something To Do
@@ -47,7 +112,7 @@
  - date_published: 2024-03-21T03:31:02+00:00
 
  ## Terra.do: Climate Education, Green Skills, and Climate Careers
- - [https://www.terra.do](https://www.terra.do)
+ - [https://terra.do](https://terra.do)
  - date_published: 2024-07-03T00:21:32+00:00
 
  ## Wordo Dictionary
@@ -75,11 +140,12 @@
  - date_published: 2024-09-28T21:40:49.403544+00:00
 
  ## Inicio
- - [https://www.tesoreria.gob.do](https://www.tesoreria.gob.do)
+ - [https://tesoreria.gob.do](https://tesoreria.gob.do)
  - date_published: 2024-09-11T17:23:48+00:00
+ - date_dead_since: 2025-01-29T21:00:41.901936+00:00
 
  ## Barcamp Santiago 2014, República Dominicana
- - [http://2014.barcamp.org.do](http://2014.barcamp.org.do)
+ - [https://2014.barcamp.org.do](https://2014.barcamp.org.do)
  - date_published: 2024-08-19T16:55:53.290511+00:00
 
  ## Inicio - CANCHAMRD
@@ -111,7 +177,7 @@
  - date_published: 2024-06-05T00:00:00+00:00
 
  ## Bones
- - [http://bones.dog](http://bones.dog)
+ - [https://bones.dog](https://bones.dog)
  - date_published: 2022-03-28T14:54:28+00:00
 
  ## Brian Lui's blog
@@ -128,7 +194,7 @@
  - date_published: 2024-05-07T00:00:00+00:00
 
  ## Takuya Matsuyama - Homepage
- - [https://www.craftz.dog](https://www.craftz.dog)
+ - [https://craftz.dog](https://craftz.dog)
  - date_published: 2024-07-02T19:02:03.918159+00:00
 
  ## social.cryptography.dog
@@ -183,13 +249,13 @@
  - [https://rpc-us.dogechain.dog](https://rpc-us.dogechain.dog)
  - date_published: 2024-05-17T12:27:44+00:00
 
+ ## Dogether
+ - [https://dogether.dog](https://dogether.dog)
+ - date_published: 2024-04-10T09:00:36+00:00
+
  ## Dogether chain  Explorer
  - [https://explorer.dogether.dog](https://explorer.dogether.dog)
  - date_published: 2024-09-24T10:52:51.311635+00:00
-
- ## Dogether
- - [https://www.dogether.dog](https://www.dogether.dog)
- - date_published: 2024-04-10T09:00:36+00:00
 
  ## Generate Excel Formulas and more using AI | Formula Dog
  - [https://formula.dog](https://formula.dog)
@@ -216,8 +282,9 @@
  - date_published: 2024-06-23T16:18:05.136997+00:00
 
  ## Joshua
- - [https://joshua.dog](https://joshua.dog)
+ - [http://joshua.dog](http://joshua.dog)
  - date_published: 2024-08-02T00:18:05+00:00
+ - date_dead_since: 2025-01-29T21:02:52.588848+00:00
 
  ## Ken's Dog
  - [https://kens.dog](https://kens.dog)
@@ -238,9 +305,10 @@
  ## lucky.dog®-Born To Be Creative
  - [https://lucky.dog](https://lucky.dog)
  - date_published: 2024-10-14T10:12:15.059864+00:00
+ - date_dead_since: 2025-01-29T21:03:12.410049+00:00
 
  ## Index - Ghettos of Abu Nawas
- - [http://malloc.dog](http://malloc.dog)
+ - [https://malloc.dog](https://malloc.dog)
  - date_published: 2024-05-27T02:49:38+00:00
 
  ## いぬすきー
@@ -281,8 +349,9 @@
  - tags: ['personal']
 
  ## That Slow Dog
- - [https://that.slow.dog](https://that.slow.dog)
+ - [http://that.slow.dog](http://that.slow.dog)
  - date_published: 2024-02-26T14:07:35.467462+00:00
+ - date_dead_since: 2025-01-29T21:34:28.870465+00:00
 
  ## landing @ sof.dog
  - [https://sof.dog](https://sof.dog)
@@ -339,6 +408,7 @@
  ## Attention Required! | Cloudflare
  - [https://chat.ens.domains](https://chat.ens.domains)
  - date_published: 2024-08-06T07:38:40.817138+00:00
+ - date_dead_since: 2025-01-29T21:34:56.440290+00:00
 
  ## ENS DAO Governance Forum
  - [https://discuss.ens.domains](https://discuss.ens.domains)
@@ -361,7 +431,7 @@
  - date_published: 2024-08-06T07:30:34.898132+00:00
 
  ## Swag - ENS Domains
- - [http://swag.ens.domains](http://swag.ens.domains)
+ - [https://swag.ens.domains](https://swag.ens.domains)
  - date_published: 2024-08-06T07:29:48.760538+00:00
 
  ## ENS Design
@@ -378,7 +448,7 @@
 
  ## Theory @ Georgetown
  - [https://theory.georgetown.domains](https://theory.georgetown.domains)
- - date_published: 2024-10-22T03:42:23.549798+00:00
+ - date_published: 2024-08-21T02:51:06+00:00
 
  ## Goodbye.Domains
  - [https://goodbye.domains](https://goodbye.domains)
@@ -399,10 +469,12 @@
  ## Domain Price Checker
  - [https://pc.domains](https://pc.domains)
  - date_published: 2024-06-16T05:46:43.958091+00:00
+ - date_dead_since: 2025-01-29T21:35:42.756186+00:00
 
  ## Profound
- - [https://www.profound.domains](https://www.profound.domains)
+ - [https://profound.domains](https://profound.domains)
  - date_published: 2024-09-04T14:34:53.494372+00:00
+ - date_dead_since: 2025-01-29T21:35:45.339905+00:00
 
  ## Query.Domains: Free Bulk check domain availability based on whois lookup
  - [https://query.domains](https://query.domains)
@@ -449,7 +521,7 @@
  - date_published: 2023-11-28T21:28:50+00:00
 
  ## Index of /
- - [http://kali.download](http://kali.download)
+ - [https://kali.download](https://kali.download)
  - date_published: 2024-07-07T02:45:26+00:00
 
  ## markdown.download
@@ -490,31 +562,33 @@
  - date_published: 2024-03-05T00:00:00+00:00
 
  ## Citroën Algeria | Coming soon
- - [https://www.citroen.dz](https://www.citroen.dz)
+ - [https://citroen.dz](https://citroen.dz)
  - date_published: 2024-07-24T08:46:02.842168+00:00
+ - date_dead_since: 2025-01-29T21:37:54.016228+00:00
 
  ## EF Education First | ef.dz
- - [https://www.ef.dz](https://www.ef.dz)
+ - [https://ef.dz](https://ef.dz)
  - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Google
+ - [https://google.dz](https://google.dz)
+ - date_published: 2024-06-21T22:22:28.005983+00:00
 
  ## Grafika Google
  - [https://images.google.dz](https://images.google.dz)
  - date_published: 2024-07-20T07:36:27.558765+00:00
 
- ## Google
- - [https://www.google.dz](https://www.google.dz)
- - date_published: 2024-06-21T22:22:28.005983+00:00
-
  ## Homepage
- - [https://www.hilti.dz](https://www.hilti.dz)
+ - [https://hilti.dz](https://hilti.dz)
  - date_published: 2024-06-20T07:26:54.768379+00:00
 
  ## Solutions de cybersécurité pour particuliers et entreprises | Kaspersky Algerie
  - [https://kaspersky.dz](https://kaspersky.dz)
  - date_published: 2024-05-02T12:07:02.006788+00:00
+ - date_dead_since: 2025-01-29T21:38:02.214780+00:00
 
  ## Index
- - [https://www.opel.dz](https://www.opel.dz)
+ - [https://opel.dz](https://opel.dz)
  - date_published: 2024-06-26T22:04:05+00:00
 
  ## Earth 2050: A glimpse into the future | Kaspersky
@@ -522,19 +596,19 @@
  - date_published: 2024-08-06T20:08:02.281127+00:00
 
  ## AimHi Earth | Transformative Sustainability Training
- - [https://www.aimhi.earth](https://www.aimhi.earth)
+ - [https://aimhi.earth](https://aimhi.earth)
  - date_published: 2024-09-10T00:00:00+00:00
 
  ## ALL WAYS
- - [https://www.allwaysmusic.earth](https://www.allwaysmusic.earth)
+ - [https://allwaysmusic.earth](https://allwaysmusic.earth)
  - date_published: 2022-09-22T00:00:00+00:00
 
  ## The All We Can Save Project
- - [https://www.allwecansave.earth](https://www.allwecansave.earth)
+ - [https://allwecansave.earth](https://allwecansave.earth)
  - date_published: 2024-06-23T06:03:05.551970+00:00
 
  ## A Message from Earth
- - [http://amessagefrom.earth](http://amessagefrom.earth)
+ - [https://amessagefrom.earth](https://amessagefrom.earth)
  - date_published: 2023-06-21T08:29:14+00:00
 
  ## All posts
@@ -554,8 +628,9 @@
  - date_published: 2025-01-15T18:29:59.293493+00:00
 
  ## IkiWikiCitadels
- - [https://www.citadels.earth](https://www.citadels.earth)
+ - [https://citadels.earth](https://citadels.earth)
  - date_published: 2017-03-26T20:52:32+00:00
+ - date_dead_since: 2025-01-29T21:38:15.750134+00:00
 
  ## Homepage
  - [https://citizensclimate.earth](https://citizensclimate.earth)
@@ -575,7 +650,7 @@
  - date_published: 2024-10-22T19:17:14.567353+00:00
 
  ## Our Story | Earth Commons
- - [http://www.commons.earth](http://www.commons.earth)
+ - [https://commons.earth](https://commons.earth)
  - date_published: 2024-07-08T13:28:21.425911+00:00
 
  ## Conquer Earth
@@ -599,19 +674,20 @@
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Discern Earth | David Valerio | Substack
- - [https://www.discern.earth](https://www.discern.earth)
+ - [https://discern.earth](https://discern.earth)
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## Distilled | Michael Thomas | Substack
- - [https://www.distilled.earth](https://www.distilled.earth)
+ - [https://distilled.earth](https://distilled.earth)
  - date_published: 2023-10-25T18:46:26.279244+00:00
+ - date_dead_since: 2025-01-29T21:38:46.273526+00:00
 
  ## Home - A Clean Iron Company
  - [https://www.electra.earth](https://www.electra.earth)
  - date_published: 2025-01-10T12:59:54.590856+00:00
 
  ## Home - Faith for Ecocide Law
- - [https://www.faithforecocidelaw.earth](https://www.faithforecocidelaw.earth)
+ - [https://faithforecocidelaw.earth](https://faithforecocidelaw.earth)
  - date_published: 2024-07-03T02:10:08.975350+00:00
 
  ## fantastic.earth
@@ -623,7 +699,7 @@
  - date_published: 2024-06-12T12:40:53.000413+00:00
 
  ## GardenersofEden
- - [https://www.gardenersofeden.earth](https://www.gardenersofeden.earth)
+ - [https://gardenersofeden.earth](https://gardenersofeden.earth)
  - date_published: 2024-07-03T23:08:53.035138+00:00
 
  ## Gathering Of Tribes – Gathering Of Tribes 2024
@@ -639,11 +715,11 @@
  - date_published: 2020-05-23T19:09:24+00:00
 
  ## Giving Green | High-impact climate giving
- - [https://www.givinggreen.earth](https://www.givinggreen.earth)
+ - [https://givinggreen.earth](https://givinggreen.earth)
  - date_published: 2024-05-02T12:53:56.753956+00:00
 
  ## GOB - 100% Mycelium Earplugs - Live Loud
- - [https://www.gob.earth](https://www.gob.earth)
+ - [https://gob.earth](https://gob.earth)
  - date_published: 2024-10-20T20:30:35.033107+00:00
 
  ## Gravel Bike Travel Agency — GravelUP
@@ -651,7 +727,7 @@
  - date_published: 2024-09-19T14:43:13.758737+00:00
 
  ## Home | Global Regeneration Colab
- - [https://www.grc.earth](https://www.grc.earth)
+ - [https://grc.earth](https://grc.earth)
  - date_published: 2024-09-13T16:55:30.492972+00:00
 
  ## Greenly: The go-to carbon accounting platform for your business
@@ -659,11 +735,11 @@
  - date_published: 2024-07-19T16:19:58.478033+00:00
 
  ## Greentech Alliance
- - [https://www.greentech.earth](https://www.greentech.earth)
+ - [https://greentech.earth](https://greentech.earth)
  - date_published: 2024-07-08T13:26:37.105382+00:00
 
  ## Green The Bid
- - [https://www.greenthebid.earth](https://www.greenthebid.earth)
+ - [https://greenthebid.earth](https://greenthebid.earth)
  - date_published: 2024-09-15T09:41:20.516751+00:00
 
  ## Plausible · Web analytics
@@ -731,15 +807,16 @@
  - date_published: 2023-12-30T00:00:00+00:00
 
  ## Sustainable Packaging Summit 2024 | Packaging Event
- - [https://www.packagingsummit.earth](https://www.packagingsummit.earth)
+ - [https://packagingsummit.earth](https://packagingsummit.earth)
  - date_published: 2024-09-13T17:39:47.478848+00:00
+ - date_dead_since: 2025-01-29T22:01:47.057883+00:00
 
  ## Painted Earth
  - [https://painted.earth](https://painted.earth)
  - date_published: 2022-07-13T14:03:24+00:00
 
  ## PayDirt | Creating more opportunities for people to ride.
- - [https://www.paydirt.earth](https://www.paydirt.earth)
+ - [https://paydirt.earth](https://paydirt.earth)
  - date_published: 2024-07-30T00:00:00+00:00
 
  ## Sept 5th 2024: Plastic Waste now exceeds waste systems capacity
@@ -771,11 +848,11 @@
  - date_published: 2024-06-22T00:00:00+00:00
 
  ## Regeneration Pollination
- - [https://www.regenerationpollination.earth](https://www.regenerationpollination.earth)
+ - [https://regenerationpollination.earth](https://regenerationpollination.earth)
  - date_published: 2023-02-09T00:00:00+00:00
 
  ## Regenerative Intelligence
- - [https://www.regenintel.earth](https://www.regenintel.earth)
+ - [https://regenintel.earth](https://regenintel.earth)
  - date_published: 2024-09-19T00:37:48.375249+00:00
 
  ## Regen Network Development Public Benefit Corporation
@@ -783,7 +860,7 @@
  - date_published: 2024-11-11T15:33:06+00:00
 
  ## Regens Unite - Rooted locally, connected globally
- - [https://www.regensunite.earth](https://www.regensunite.earth)
+ - [https://regensunite.earth](https://regensunite.earth)
  - date_published: 2024-08-30T00:00:00+00:00
 
  ## All posts
@@ -807,15 +884,17 @@
  - date_published: 2025-01-23T15:52:12.560305+00:00
 
  ## Advantive eCommerce Pro HVAC Demo
- - [http://sensorthe.earth](http://sensorthe.earth)
+ - [https://sensorthe.earth](https://sensorthe.earth)
  - date_published: 2024-07-09T09:05:51.399512+00:00
+ - date_dead_since: 2025-01-29T22:02:21.674029+00:00
 
  ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
  - [https://assets.show.earth](https://assets.show.earth)
  - date_published: 2021-01-29T15:59:47+00:00
+ - date_dead_since: 2025-01-29T22:02:24.544905+00:00
 
  ## Home of the CO2 Widget
- - [https://www.show.earth](https://www.show.earth)
+ - [https://show.earth](https://show.earth)
  - date_published: 2015-11-30T08:26:58+00:00
 
  ## Soar | The New Atlas
@@ -845,6 +924,7 @@
  ## WeatherFlow Support
  - [https://help.tempest.earth](https://help.tempest.earth)
  - date_published: 2024-03-06T00:00:00+00:00
+ - date_dead_since: 2025-01-29T22:02:45.010067+00:00
 
  ## Tempest News
  - [https://news.tempest.earth](https://news.tempest.earth)
@@ -859,7 +939,7 @@
  - date_published: 2024-12-27T06:00:15+00:00
 
  ## It's Time for Climate Action
- - [https://www.tfca.earth](https://www.tfca.earth)
+ - [https://tfca.earth](https://tfca.earth)
  - date_published: 2024-06-28T16:14:15.363179+00:00
 
  ## Discover Sustainable Brands on Commons
@@ -867,7 +947,7 @@
  - date_published: 2024-07-08T13:28:19.591036+00:00
 
  ## Commons
- - [https://www.thecommons.earth](https://www.thecommons.earth)
+ - [https://thecommons.earth](https://thecommons.earth)
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## Gathering of Tribes 2024 : 11-15 September 2024, Portugal
@@ -3946,64 +4026,4 @@
  ## Department of Anthropology
  - [https://anthropology.artsandsciences.baylor.edu](https://anthropology.artsandsciences.baylor.edu)
  - date_published: 2023-08-23T11:31:00+00:00
-
- ## Undergraduate Admissions
- - [https://apply.baylor.edu](https://apply.baylor.edu)
- - date_published: 2022-05-20T15:32:00+00:00
-
- ## Aquatic Ecology Lab - Ryan S. King
- - [https://aquaticlab.artsandsciences.baylor.edu](https://aquaticlab.artsandsciences.baylor.edu)
- - date_published: 2023-01-20T09:30:00+00:00
-
- ## Anesthesia Nursing DNP Program
- - [https://armydnp.nursing.baylor.edu](https://armydnp.nursing.baylor.edu)
- - date_published: 2023-04-04T15:47:00+00:00
-
- ## Military Science Dept. - Army ROTC
- - [https://armyrotc.artsandsciences.baylor.edu](https://armyrotc.artsandsciences.baylor.edu)
- - date_published: 2022-11-21T10:53:00+00:00
-
- ## Department of Art and Art History
- - [https://art.artsandsciences.baylor.edu](https://art.artsandsciences.baylor.edu)
- - date_published: 2023-05-08T13:19:00+00:00
-
- ## College of Arts & Sciences
- - [https://artsandsciences.baylor.edu](https://artsandsciences.baylor.edu)
- - date_published: 2022-12-12T15:02:00+00:00
-
- ## Baylor Athletics
- - [https://athletics.web.baylor.edu](https://athletics.web.baylor.edu)
- - date_published: 2023-11-10T08:46:00+00:00
-
- ## Home
- - [https://atl.web.baylor.edu](https://atl.web.baylor.edu)
- - date_published: 2023-09-28T09:02:00+00:00
-
- ## Baylor Institute for Aviation Sciences
- - [https://aviation.artsandsciences.baylor.edu](https://aviation.artsandsciences.baylor.edu)
- - date_published: 2023-04-13T09:43:00+00:00
-
- ## Beauchamp Addiction Recovery Center
- - [https://barc.web.baylor.edu](https://barc.web.baylor.edu)
- - date_published: 2022-11-11T07:48:00+00:00
-
- ## Baylor & Beyond LLC
- - [https://baylorandbeyondllc.web.baylor.edu](https://baylorandbeyondllc.web.baylor.edu)
- - date_published: 2023-03-02T14:37:00+00:00
-
- ## Baptist and Christian Character of Baylor
- - [https://baylorcharacter.web.baylor.edu](https://baylorcharacter.web.baylor.edu)
- - date_published: 2021-10-19T09:07:00+00:00
-
- ## Baylor University | A Nationally Ranked Christian University, Undergraduate & Graduate Research Colleges Universities Schools in Texas
- - [https://baylor.edu](https://baylor.edu)
- - date_published: 2022-12-22T14:00:00+00:00
-
- ## Baylor Proud
- - [https://baylorproud.web.baylor.edu](https://baylorproud.web.baylor.edu)
- - date_published: 2023-04-25T16:28:00+00:00
-
- ## Baylor Religion Survey
- - [https://baylorreligionsurvey.research.baylor.edu](https://baylorreligionsurvey.research.baylor.edu)
- - date_published: 2023-09-14T14:11:00+00:00
 

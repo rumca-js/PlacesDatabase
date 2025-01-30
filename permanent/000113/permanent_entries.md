@@ -1,3 +1,11 @@
+ ## DMM 農業 - 新しい価値をつくり、農業の未来に貢献する
+ - [https://nogyo.dmm.com](https://nogyo.dmm.com)
+ - date_published: 2024-06-11T09:09:51.733376+00:00
+
+ ## お知らせ
+ - [https://notification.dmm.com](https://notification.dmm.com)
+ - date_published: 2024-06-11T09:10:08.357667+00:00
+
  ## DMM.com このページはお住まいの地域からご利用になれません。
  - [https://onkure.dmm.com](https://onkure.dmm.com)
  - date_published: 2024-06-11T09:08:30.312786+00:00
@@ -4021,12 +4029,4 @@
  ## 原创作品
  - [https://read.douban.com](https://read.douban.com)
  - date_published: 2024-05-01T07:31:04.140684+00:00
-
- ## 豆瓣豆品
- - [https://shiji.douban.com](https://shiji.douban.com)
- - date_published: 2024-06-16T19:24:32.675197+00:00
-
- ## 豆瓣
- - [http://shuo.douban.com](http://shuo.douban.com)
- - date_published: 2024-07-13T02:28:37.903302+00:00
 

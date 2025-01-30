@@ -1,3 +1,84 @@
+ ## Mpact – Building Livable Communities with Transit
+ - [https://www.mpactmobility.org](https://www.mpactmobility.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## MPACUK | Empowerment through political participation
+ - [http://www.mpacuk.org](http://www.mpacuk.org)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Home
+ - [https://www.mpa-emea.org](https://www.mpa-emea.org)
+ - date_published: 2024-10-28T04:00:21.688022+00:00
+
+ ## Beamship
+ - [https://beamship.mpaq.org](https://beamship.mpaq.org)
+ - date_published: 2024-06-23T17:14:55.302964+00:00
+
+ ## MPC-VCC
+ - [https://mpc-vcc.org](https://mpc-vcc.org)
+ - date_published: 2024-04-29T06:29:23.786828+00:00
+
+ ## M-PESA Foundation: Large Scale Community Projects
+ - [https://m-pesafoundation.org](https://m-pesafoundation.org)
+ - date_published: 2024-06-29T13:42:59+00:00
+
+ ## The GNU MPFR Library
+ - [https://www.mpfr.org](https://www.mpfr.org)
+ - date_published: 2023-07-06T16:08:38+00:00
+
+ ## Event & Meeting Planning Networking and Education | Meeting Professionals International
+ - [https://www.mpi.org](https://www.mpi.org)
+ - date_published: 2024-08-10T00:00:00+00:00
+
+ ## MPI Forum
+ - [http://www.mpi-forum.org](http://www.mpi-forum.org)
+ - date_published: 2024-10-14T19:33:46+00:00
+
+ ## Department Of Public Relations, M.P|MP Jansampark News |DPR MP |MP Departmental News| District News Portal | मध्यप्रदेश  जनसम्पर्क समाचार |जनसम्पर्क विभागीय समाचार,  MP Info (DPR, जनसम्पर्क) brings you all the Latest administrative news(जनसम्पर्क विभागीय समाचार ) from MP. Read Latest News from all governmental departments, ministries(मंत्री मंडल), cabinet decisions, budget (बजट), schemes(योजना), success stories and employment news(रोज़गार समाचार), tender news, in Hindi, Jansampark Madhya Pradesh, HEALTH SERVICES department, DEPARTMENT OF MEDICAL EDUCATION, HIGHER EDUCATION, Finance Department, MP, DEPARTMENT OF SCHOOL EDUCATION, TECHNICAL EDUCATION, PWD
+ENERGY DEPARTMENT, Sports and Youth Welfare Department, MP, HOME DEPARTMENT, CULTURE, DEPARTMENT, Urban Administration & Development Department, MP, Public Health Engineering, Department, MP, WOMEN & CHILD DEVELOPMENT DEPARTMENT, BCMD Department, MP, WATER RESOURCES, AGRICULTURE DEPARTMENT, REVENUE DEPARTMENT, Scheduled Caste Welfare 
+ - [http://www.mpinfo.org](http://www.mpinfo.org)
+ - date_published: 2024-12-24T13:29:29.423607+00:00
+
+ ## Home
+ - [https://mpi-sp.org](https://mpi-sp.org)
+ - date_published: 2024-05-04T14:44:58.205091+00:00
+
+ ## Nextcloud
+ - [https://nce.mpi-sp.org](https://nce.mpi-sp.org)
+ - date_published: 2023-11-06T14:35:47.552163+00:00
+
+ ## Sign in · GitLab
+ - [https://gitlab.mpi-sws.org](https://gitlab.mpi-sws.org)
+ - date_published: 2024-07-07T04:09:36.347072+00:00
+
+ ## lists.mpi-sws.org Mailing Lists
+ - [https://lists.mpi-sws.org](https://lists.mpi-sws.org)
+ - date_published: 2024-07-07T04:14:40.581688+00:00
+
+ ## MPI SWS – Max Planck Institute for Software Systems
+ - [https://mpi-sws.org](https://mpi-sws.org)
+ - date_published: 2024-04-29T06:29:36.436738+00:00
+
+ ## Page Redirection
+ - [https://os-services.mpi-sws.org](https://os-services.mpi-sws.org)
+ - date_published: 2024-03-05T08:57:43+00:00
+
+ ## People at MPI-SWS – MPI SWS
+ - [https://people.mpi-sws.org](https://people.mpi-sws.org)
+ - date_published: 2024-06-24T10:20:30+00:00
+
+ ## Programming Languages & Verification – MPI SWS
+ - [https://plv.mpi-sws.org](https://plv.mpi-sws.org)
+ - date_published: 2024-05-08T09:17:27.012170+00:00
+
+ ## Principles of Programming Languages (POPL)
+ - [http://popl.mpi-sws.org](http://popl.mpi-sws.org)
+ - date_published: 2022-10-26T16:22:02+00:00
+
+ ## SOSP 2021 - Symposium on Operating Systems Principles
+ - [https://sosp2021.mpi-sws.org](https://sosp2021.mpi-sws.org)
+ - date_published: 2021-10-28T21:42:59+00:00
+
  ## SOSP 2023 - Symposium on Operating Systems Principles
  - [https://sosp2023.mpi-sws.org](https://sosp2023.mpi-sws.org)
  - date_published: 2023-11-16T14:22:44+00:00
@@ -3943,84 +4024,4 @@
  ## SECU Foundation - Home
  - [https://www.ncsecufoundation.org](https://www.ncsecufoundation.org)
  - date_published: 2024-05-10T14:32:44+00:00
-
- ## grainesdeblogueuses.fr
- - [http://ncseprojects.org](http://ncseprojects.org)
- - date_published: 2024-10-29T18:38:12.677990+00:00
-
- ## Welcome to the National Center on Secondary Education and Transition Web Site
- - [http://ncset.org](http://ncset.org)
- - date_published: 2023-07-21T22:29:07+00:00
-
- ## North Carolina Speculative Fiction Foundation | To promote the writing and reading of speculative fiction in North Carolina and to recognize outstanding achievements in North Carolina science fiction and fantasy.
- - [http://ncsff.org](http://ncsff.org)
- - date_published: 2024-06-19T02:45:57.162742+00:00
-
- ## National Center For Sustainable Growth – KSBL
- - [http://ncsgksbl.org](http://ncsgksbl.org)
- - date_published: 2024-08-11T21:52:24.181338+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://images.ncsl.org](https://images.ncsl.org)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Legislative News, Studies and Analysis | National Conference of State Legislatures
- - [https://www.ncsl.org](https://www.ncsl.org)
- - date_published: 2024-04-05T18:54:22.813198+00:00
-
- ## 2024 N.C. State Fair | NC Agriculture
- - [https://www.ncstatefair.org](https://www.ncstatefair.org)
- - date_published: 2024-09-18T20:34:12+00:00
-
- ## NCSWA - Home
- - [http://www.ncswa.org](http://www.ncswa.org)
- - date_published: 2024-07-11T15:42:24.691494+00:00
-
- ## Home - Argentina
- - [https://argentina.ncsy.org](https://argentina.ncsy.org)
- - date_published: 2025-01-20T17:44:19.656985+00:00
-
- ## Home | NCSY Institute
- - [https://institute.ncsy.org](https://institute.ncsy.org)
- - date_published: 2025-01-20T17:44:12.372206+00:00
-
- ## Jewish teens, after school events & summer trips - Midwest NCSY
- - [https://midwest.ncsy.org](https://midwest.ncsy.org)
- - date_published: 2025-01-20T17:44:21.932725+00:00
-
- ## NCSY Inspires Jewish teens
- - [https://ncsy.org](https://ncsy.org)
- - date_published: 2025-01-16T08:26:52.188607+00:00
-
- ## Southern NCSY
- - [https://southern.ncsy.org](https://southern.ncsy.org)
- - date_published: 2025-01-20T17:44:20.940757+00:00
-
- ## Education
- - [https://staff.ncsy.org](https://staff.ncsy.org)
- - date_published: 2025-01-20T17:44:09.621412+00:00
-
- ## Jewish Teen Summer Trips
- - [http://summer.ncsy.org](http://summer.ncsy.org)
- - date_published: 2025-01-20T17:44:06.600035+00:00
-
- ## Home - North Carolina Symphony
- - [https://www.ncsymphony.org](https://www.ncsymphony.org)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Literacy Jobs - National Council of Teachers of English
- - [https://careercenter.ncte.org](https://careercenter.ncte.org)
- - date_published: 2024-10-19T10:31:25.536399+00:00
-
- ## Conexiones 2023 NCTE Annual Convention
- - [https://convention.ncte.org](https://convention.ncte.org)
- - date_published: 2024-06-29T09:06:30.107785+00:00
-
- ## NCTE
- - [https://ncte.org](https://ncte.org)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## My NCTE
- - [https://store.ncte.org](https://store.ncte.org)
- - date_published: 2023-06-30T09:06:28+00:00
 

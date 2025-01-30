@@ -1,3 +1,63 @@
+ ## RAMMB/CIRA SLIDER: Satellite Loop Interactive Data Explorer in Real-time with GOES-16 and Himawari-8 Satellite Imagery
+ - [https://rammb-slider.cira.colostate.edu](https://rammb-slider.cira.colostate.edu)
+ - date_published: 2024-05-30T20:04:49+00:00
+
+ ## Office of the Registrar | Colorado State University
+ - [http://registrar.colostate.edu](http://registrar.colostate.edu)
+ - date_published: 2024-08-11T10:43:20.224560+00:00
+
+ ## Log In ‹ Office of the Vice President for Research — WordPress
+ - [https://research.source.colostate.edu](https://research.source.colostate.edu)
+ - date_published: 2024-04-30T03:48:14.756308+00:00
+
+ ## Colorado State University - College of Business
+ - [https://rp1.biz.colostate.edu](https://rp1.biz.colostate.edu)
+ - date_published: 2024-08-11T09:24:39.640410+00:00
+
+ ## Colorado State University - College of Business
+ - [https://rp2.biz.colostate.edu](https://rp2.biz.colostate.edu)
+ - date_published: 2024-08-11T09:25:29.978537+00:00
+
+ ## Safety | Colorado State University
+ - [https://safety.colostate.edu](https://safety.colostate.edu)
+ - date_published: 2024-08-11T11:22:44.966090+00:00
+
+ ## Home - Salazar Center for North American Conservation
+ - [https://salazarcenter.colostate.edu](https://salazarcenter.colostate.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Office of Financial Aid | Colorado State University
+ - [http://sfs.colostate.edu](http://sfs.colostate.edu)
+ - date_published: 2024-08-11T10:42:37.405505+00:00
+
+ ## Home - School of Music, Theatre and Dance
+ - [https://smtd.colostate.edu](https://smtd.colostate.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## School of Education
+ - [http://soe.chhs.colostate.edu](http://soe.chhs.colostate.edu)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Colorado State University News - SOURCE
+ - [https://source.colostate.edu](https://source.colostate.edu)
+ - date_published: 2023-11-29T17:19:55.036565+00:00
+
+ ## Department of Statistics | CSU – Department of Statistics at Colorado State University
+ - [https://statistics.colostate.edu](https://statistics.colostate.edu)
+ - date_published: 2017-07-12T00:00:00+00:00
+
+ ## Collaborative for Student Achievement
+ - [http://studentachievement.colostate.edu](http://studentachievement.colostate.edu)
+ - date_published: 2024-06-30T02:34:10+00:00
+
+ ## Home | CSU Summer 2024
+ - [http://summer.colostate.edu](http://summer.colostate.edu)
+ - date_published: 2024-08-11T10:43:54.631749+00:00
+
+ ## Sustainability – Shaping a Sustainable Future
+ - [https://sustainability.colostate.edu](https://sustainability.colostate.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
  ## Home | The Institute for Learning and Teaching
  - [https://tilt.colostate.edu](https://tilt.colostate.edu)
  - date_published: 2024-07-23T00:00:00+00:00
@@ -3945,64 +4005,4 @@
  ## LibGuides
  - [https://guides.library.duke.edu](https://guides.library.duke.edu)
  - date_published: 2024-08-19T08:35:56.138343+00:00
-
- ## Home | Margolis Institute for Health Policy
- - [https://healthpolicy.duke.edu](https://healthpolicy.duke.edu)
- - date_published: 2024-06-15T19:18:10+00:00
-
- ## Front Page | History
- - [https://history.duke.edu](https://history.duke.edu)
- - date_published: 2024-09-26T17:15:02+00:00
-
- ## Front Page | Center for the History of Political Economy
- - [https://hope.econ.duke.edu](https://hope.econ.duke.edu)
- - date_published: 2024-07-03T08:29:44+00:00
-
- ## Home | Human Resources
- - [https://hr.duke.edu](https://hr.duke.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## About the Duke Human Rights Center | Duke Human Rights Center at the Franklin Humanities Institute
- - [https://humanrights.fhi.duke.edu](https://humanrights.fhi.duke.edu)
- - date_published: 2024-09-26T17:54:57+00:00
-
- ## INTERDISCIPLINARY BEHAVIORAL RESEARCH CENTER
- - [https://ibrc.duke.edu](https://ibrc.duke.edu)
- - date_published: 2024-09-26T18:02:48.034948+00:00
-
- ## Duke | Log In
- - [https://idms-mfa.oit.duke.edu](https://idms-mfa.oit.duke.edu)
- - date_published: 2024-05-01T06:58:34.700524+00:00
-
- ## Together, we are Forever Duke: Our 2021 Impact Report
- - [https://impact.duke.edu](https://impact.duke.edu)
- - date_published: 2024-09-26T18:01:02.962187+00:00
-
- ## Log In | Inventions
- - [https://innovate.olv.duke.edu](https://innovate.olv.duke.edu)
- - date_published: 2024-09-26T18:00:19.875463+00:00
-
- ## Welcome to the Pratt Intranet | Pratt Intranet
- - [https://inside.pratt.duke.edu](https://inside.pratt.duke.edu)
- - date_published: 2024-05-10T04:48:48.601253+00:00
-
- ## Inside Sanford – The home for all things for and about the Sanford School of Public Policy
- - [https://inside.sanford.duke.edu](https://inside.sanford.duke.edu)
- - date_published: 2024-07-20T15:53:29+00:00
-
- ## Homepage | Office of Interdisciplinary Studies
- - [https://interdisciplinary.duke.edu](https://interdisciplinary.duke.edu)
- - date_published: 2024-09-04T19:24:11+00:00
-
- ## Duke | Log In
- - [https://intranet.divinity.duke.edu](https://intranet.divinity.duke.edu)
- - date_published: 2024-09-26T18:09:05.581759+00:00
-
- ## Front Page | Information Science + Studies
- - [https://iss.duke.edu](https://iss.duke.edu)
- - date_published: 2024-09-26T15:09:02+00:00
-
- ## Homepage | Information Technology Advisory Council ITAC
- - [https://itac.duke.edu](https://itac.duke.edu)
- - date_published: 2024-06-16T07:10:50+00:00
 

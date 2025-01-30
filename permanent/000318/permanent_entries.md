@@ -1,3 +1,63 @@
+ ## Undergraduate Admissions
+ - [https://apply.baylor.edu](https://apply.baylor.edu)
+ - date_published: 2022-05-20T15:32:00+00:00
+
+ ## Aquatic Ecology Lab - Ryan S. King
+ - [https://aquaticlab.artsandsciences.baylor.edu](https://aquaticlab.artsandsciences.baylor.edu)
+ - date_published: 2023-01-20T09:30:00+00:00
+
+ ## Anesthesia Nursing DNP Program
+ - [https://armydnp.nursing.baylor.edu](https://armydnp.nursing.baylor.edu)
+ - date_published: 2023-04-04T15:47:00+00:00
+
+ ## Military Science Dept. - Army ROTC
+ - [https://armyrotc.artsandsciences.baylor.edu](https://armyrotc.artsandsciences.baylor.edu)
+ - date_published: 2022-11-21T10:53:00+00:00
+
+ ## Department of Art and Art History
+ - [https://art.artsandsciences.baylor.edu](https://art.artsandsciences.baylor.edu)
+ - date_published: 2023-05-08T13:19:00+00:00
+
+ ## College of Arts & Sciences
+ - [https://artsandsciences.baylor.edu](https://artsandsciences.baylor.edu)
+ - date_published: 2022-12-12T15:02:00+00:00
+
+ ## Baylor Athletics
+ - [https://athletics.web.baylor.edu](https://athletics.web.baylor.edu)
+ - date_published: 2023-11-10T08:46:00+00:00
+
+ ## Home
+ - [https://atl.web.baylor.edu](https://atl.web.baylor.edu)
+ - date_published: 2023-09-28T09:02:00+00:00
+
+ ## Baylor Institute for Aviation Sciences
+ - [https://aviation.artsandsciences.baylor.edu](https://aviation.artsandsciences.baylor.edu)
+ - date_published: 2023-04-13T09:43:00+00:00
+
+ ## Beauchamp Addiction Recovery Center
+ - [https://barc.web.baylor.edu](https://barc.web.baylor.edu)
+ - date_published: 2022-11-11T07:48:00+00:00
+
+ ## Baylor & Beyond LLC
+ - [https://baylorandbeyondllc.web.baylor.edu](https://baylorandbeyondllc.web.baylor.edu)
+ - date_published: 2023-03-02T14:37:00+00:00
+
+ ## Baptist and Christian Character of Baylor
+ - [https://baylorcharacter.web.baylor.edu](https://baylorcharacter.web.baylor.edu)
+ - date_published: 2021-10-19T09:07:00+00:00
+
+ ## Baylor University | A Nationally Ranked Christian University, Undergraduate & Graduate Research Colleges Universities Schools in Texas
+ - [https://baylor.edu](https://baylor.edu)
+ - date_published: 2022-12-22T14:00:00+00:00
+
+ ## Baylor Proud
+ - [https://baylorproud.web.baylor.edu](https://baylorproud.web.baylor.edu)
+ - date_published: 2023-04-25T16:28:00+00:00
+
+ ## Baylor Religion Survey
+ - [https://baylorreligionsurvey.research.baylor.edu](https://baylorreligionsurvey.research.baylor.edu)
+ - date_published: 2023-09-14T14:11:00+00:00
+
  ## Baylor University
  - [https://bbis.baylor.edu](https://bbis.baylor.edu)
  - date_published: 2024-04-30T03:15:01.030395+00:00
@@ -3964,65 +4024,4 @@
  ## Home
  - [https://careers.byu.edu](https://careers.byu.edu)
  - date_published: 2024-07-20T22:24:26.833690+00:00
-
- ## CAS – Central Authentication Service
- - [https://cas.byu.edu](https://cas.byu.edu)
- - date_published: 2024-07-17T03:09:21.656635+00:00
-
- ## CAS – Central Authentication Service
- - [https://cas-dev.byu.edu](https://cas-dev.byu.edu)
- - date_published: 2024-07-17T03:09:30.956383+00:00
- - date_dead_since: 2025-01-16T02:26:55.114637+00:00
-
- ## CAS – Central Authentication Service
- - [https://cas-stg.byu.edu](https://cas-stg.byu.edu)
- - date_published: 2024-07-17T03:09:28.611764+00:00
-
- ## BYU Catalog
- - [https://catalog.byu.edu](https://catalog.byu.edu)
- - date_published: 2024-12-19T18:03:56.930682+00:00
-
- ## Home
- - [https://ccc.byu.edu](https://ccc.byu.edu)
- - date_published: 2024-07-20T22:24:22.654486+00:00
-
- ## Cell Biology & Physiology
- - [https://cell.byu.edu](https://cell.byu.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Cloud Apps
- - [https://cloudapps.byu.edu](https://cloudapps.byu.edu)
- - date_published: 2024-07-17T03:06:13.978749+00:00
-
- ## Integrity and Compliance
- - [https://compliance.byu.edu](https://compliance.byu.edu)
- - date_published: 2024-07-17T03:09:04.250869+00:00
-
- ## General Education | BYU Catalog
- - [http://core.byu.edu](http://core.byu.edu)
- - date_published: 2025-01-16T02:13:36.855578+00:00
-
- ## English Corpora: most widely used online corpora. Billions of words of data: free online access
- - [https://corpus.byu.edu](https://corpus.byu.edu)
- - date_published: 2024-07-01T14:46:51.645274+00:00
-
- ## Home
- - [https://cougarcash.byu.edu](https://cougarcash.byu.edu)
- - date_published: 2024-07-22T07:13:03.067198+00:00
-
- ## Home - Computing, Math, and Science
- - [https://cpms.byu.edu](https://cpms.byu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## BYU | Design Exploration
- - [https://design.byu.edu](https://design.byu.edu)
- - date_published: 2024-07-01T19:50:16.690428+00:00
-
- ## The BYU Design Review
- - [https://designreview.byu.edu](https://designreview.byu.edu)
- - date_published: 2025-01-16T02:32:44.739927+00:00
-
- ## BYU Developer Portal | Home - Developer
- - [https://developer.byu.edu](https://developer.byu.edu)
- - date_published: 2024-07-17T03:06:02.917658+00:00
 

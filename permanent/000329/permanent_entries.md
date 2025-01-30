@@ -1,3 +1,63 @@
+ ## Freeman School of Business | Freeman School of Business Tulane University
+ - [https://freeman.tulane.edu](https://freeman.tulane.edu)
+ - date_published: 2024-10-14T19:18:22+00:00
+
+ ## Home - Gibson Online
+ - [https://gibson.tulane.edu](https://gibson.tulane.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Home Page
+ - [https://giving.tulane.edu](https://giving.tulane.edu)
+ - date_published: 2024-05-07T20:39:38.576831+00:00
+
+ ## Tulane Office of Human Resources & Institutional Equity | Tulane University HR
+ - [https://hr.tulane.edu](https://hr.tulane.edu)
+ - date_published: 2024-05-07T20:39:35.202685+00:00
+
+ ## Walter Isaacson Tulane |
+ - [https://isaacson.tulane.edu](https://isaacson.tulane.edu)
+ - date_published: 2024-09-14T23:02:42.008113+00:00
+
+ ## Tulane Staff Positions
+ - [https://jobs.tulane.edu](https://jobs.tulane.edu)
+ - date_published: 2024-07-01T21:48:10.771076+00:00
+
+ ## School of Liberal Arts at Tulane University
+ - [https://liberalarts.tulane.edu](https://liberalarts.tulane.edu)
+ - date_published: 2024-05-01T03:32:44.827662+00:00
+
+ ## Home | TU Libraries
+ - [http://library.tulane.edu](http://library.tulane.edu)
+ - date_published: 2024-06-28T19:25:41+00:00
+
+ ## Tulane News
+ - [https://news.tulane.edu](https://news.tulane.edu)
+ - date_published: 2023-10-25T18:59:42.065237+00:00
+
+ ## Office of Assessment and Institutional Research | Office of Assessment and Institutional Research
+ - [https://oair.tulane.edu](https://oair.tulane.edu)
+ - date_published: 2024-07-30T20:49:44+00:00
+
+ ## Office of Graduate and Postdoctoral Studies | Office Graduate and Postdoctoral Studies
+ - [https://ogps.tulane.edu](https://ogps.tulane.edu)
+ - date_published: 2024-09-10T15:22:02+00:00
+
+ ## home | President
+ - [https://president.tulane.edu](https://president.tulane.edu)
+ - date_published: 2024-07-01T15:05:09+00:00
+
+ ## Office of the Provost | Tulane University Provost
+ - [https://provost.tulane.edu](https://provost.tulane.edu)
+ - date_published: 2024-07-01T17:38:14+00:00
+
+ ## Homepage | Tulane University - Office of the University Registrar
+ - [https://registrar.tulane.edu](https://registrar.tulane.edu)
+ - date_published: 2024-07-01T18:49:55+00:00
+
+ ## Paving the Way for Research | Tulane Office of Research
+ - [https://research.tulane.edu](https://research.tulane.edu)
+ - date_published: 2024-06-28T14:54:20+00:00
+
  ## Office of Enterprise Risk Services | Office of Enterprise Risk Services
  - [https://risk.tulane.edu](https://risk.tulane.edu)
  - date_published: 2024-06-25T17:56:22+00:00
@@ -3967,64 +4027,4 @@
  ## PSTI
  - [https://cbp.physics.ucla.edu](https://cbp.physics.ucla.edu)
  - date_published: 2023-10-20T20:21:51+00:00
-
- ## Home
- - [https://cdli.ucla.edu](https://cdli.ucla.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## HTTP Server Test Page powered by: Rocky Linux
- - [http://cdsc.ucla.edu](http://cdsc.ucla.edu)
- - date_published: 2022-07-27T18:04:30+00:00
-
- ## UCLA Biomedical Artificial Intelligence Research Lab
- - [https://cdx.seas.ucla.edu](https://cdx.seas.ucla.edu)
- - date_published: 2024-06-30T04:59:29+00:00
-
- ## Computer Engineering Program | Samueli Electrical and Computer Engineering
- - [https://ce.ucla.edu](https://ce.ucla.edu)
- - date_published: 2024-08-11T03:41:57+00:00
-
- ## Challenge Inequality | Organizing Knowledge to Challenge Inequality
- - [https://challengeinequality.luskin.ucla.edu](https://challengeinequality.luskin.ucla.edu)
- - date_published: 2024-07-01T23:07:18.799394+00:00
-
- ## Home - UCLA Chavez
- - [https://chavez.ucla.edu](https://chavez.ucla.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Homepage - CHIPTS - Center for HIV Identification, Prevention and Treatment Services
- - [https://chipts.ucla.edu](https://chipts.ucla.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home | Campus Human Resources
- - [https://chr.ucla.edu](https://chr.ucla.edu)
- - date_published: 2024-07-01T22:41:20+00:00
-
- ## UCLA Film & Television Archive
- - [https://cinema.ucla.edu](https://cinema.ucla.edu)
- - date_published: 2024-07-01T22:51:29+00:00
-
- ## Latin American Cities Initiative | Latin American Cities Initiative
- - [https://ciudades.luskin.ucla.edu](https://ciudades.luskin.ucla.edu)
- - date_published: 2024-07-01T23:07:22.044765+00:00
-
- ## Home - Clark Library
- - [https://clarklibrary.ucla.edu](https://clarklibrary.ucla.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## California NanoSystems Institute Leveraging public and private investment for nanoscience research at the interface between disciplines The CNSI is a hub of interdisciplinary research, translation, and education
- - [https://cnsi.ucla.edu](https://cnsi.ucla.edu)
- - date_published: 2024-10-19T04:01:57.150345+00:00
-
- ## Home (New)
- - [https://college.ucla.edu](https://college.ucla.edu)
- - date_published: 2024-05-07T20:55:21.916268+00:00
-
- ## UCLA Community
- - [https://community.ucla.edu](https://community.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home
- - [https://conditional.arts.ucla.edu](https://conditional.arts.ucla.edu)
- - date_published: 2024-10-29T11:44:45.254747+00:00
 

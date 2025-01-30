@@ -1,3 +1,63 @@
+ ## Forside
+ - [http://detvetsund.dk](http://detvetsund.dk)
+ - date_published: 2024-08-11T06:39:58.196592+00:00
+
+ ## Danmarks Frie Forskningsfond
+ - [https://dff.dk](https://dff.dk)
+ - date_published: 2024-05-20T13:53:34.704299+00:00
+
+ ## DFI | Det Danske Filminstitut
+ - [https://dfi.dk](https://dfi.dk)
+ - date_published: 2024-05-07T23:42:36.559583+00:00
+
+ ## David Heinemeier Hansson (DHH)
+ - [https://dhh.dk](https://dhh.dk)
+ - date_published: 2024-05-07T23:01:48.127992+00:00
+
+ ## Dianetik: Den Moderne Videnskab om Mental Sundhed
+ - [https://www.dianetics.dk](https://www.dianetics.dk)
+ - date_published: 2024-06-17T16:42:13.314842+00:00
+
+ ## Dianetik: Den Moderne Videnskab om Mental Sundhed
+ - [http://www.dianetik.dk](http://www.dianetik.dk)
+ - date_published: 2024-09-04T18:50:02.137494+00:00
+
+ ## DigiKey Electronics
+ - [https://digikey.dk](https://digikey.dk)
+ - date_published: 2024-05-01T05:03:46.165347+00:00
+
+ ## Digitaliseringsstyrelsen
+ - [https://digst.dk](https://digst.dk)
+ - date_published: 2024-07-22T10:17:26.913182+00:00
+
+ ## Tilgængelighedserklæring
+ - [https://edit.was.digst.dk](https://edit.was.digst.dk)
+ - date_published: 2024-07-02T23:12:15.328827+00:00
+
+ ## Tilgængelighedserklæring
+ - [https://was.digst.dk](https://was.digst.dk)
+ - date_published: 2024-07-22T10:07:10.047280+00:00
+
+ ## Datalogisk Institut – Københavns Universitet
+ - [https://diku.dk](https://diku.dk)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Freelance developer, Bjørn Klinggaard - dinbror.dk
+ - [http://dinbror.dk](http://dinbror.dk)
+ - date_published: 2016-11-22T19:06:56+00:00
+
+ ## Velkommen till Warner Bros. Discovery Danmark
+ - [https://discoverydenmark.dk](https://discoverydenmark.dk)
+ - date_published: 2024-05-07T12:49:11.291309+00:00
+
+ ## Warner Bros. Discovery Danmarks presseside
+ - [https://presse.discoverynetworks.dk](https://presse.discoverynetworks.dk)
+ - date_published: 2024-06-29T15:37:52.361473+00:00
+
+ ## discovery+
+ - [https://www.discoveryplus.dk](https://www.discoveryplus.dk)
+ - date_published: 2024-06-03T06:19:59+00:00
+
  ## Disney Danmark | Det officielle websted for Disney-film
  - [https://disney.dk](https://disney.dk)
  - date_published: 2024-06-16T01:51:05.077573+00:00
@@ -687,31 +747,32 @@
  - tags: ['personal']
 
  ## Grib Verden – Information og inspiration til udlandsophold
- - [http://gribverden.dk](http://gribverden.dk)
+ - [https://gribverden.dk](https://gribverden.dk)
  - date_published: 2024-05-09T00:00:00+00:00
+ - date_dead_since: 2025-01-28T18:16:10.496319+00:00
 
  ## Vandhaner, brusere og tilbehør til køkken og bad | GROHE
  - [https://www.grohe.dk](https://www.grohe.dk)
  - date_published: 2024-12-15T10:05:13.830448+00:00
 
  ## Den Grønne Genbrugshal
- - [https://www.gronnehal.dk](https://www.gronnehal.dk)
+ - [https://gronnehal.dk](https://gronnehal.dk)
  - date_published: 2024-09-12T17:22:09.695116+00:00
 
  ## Adventure Posten | gunk.dk
- - [http://gunk.dk](http://gunk.dk)
+ - [https://gunk.dk](https://gunk.dk)
  - date_published: 2024-07-14T13:19:28.716490+00:00
 
  ## Håndværker.dk | + 97.771 håndværkere tilknyttet » søg lokalt
- - [https://www.haandvaerker.dk](https://www.haandvaerker.dk)
+ - [https://haandvaerker.dk](https://haandvaerker.dk)
  - date_published: 2024-09-19T20:30:46.024393+00:00
 
  ## HAKI - Opdag udvalget i dag!
- - [https://www.haki.dk](https://www.haki.dk)
+ - [https://haki.dk](https://haki.dk)
  - date_published: 2024-06-25T16:54:01.052406+00:00
 
  ## Jonas Jongejan
- - [http://halfdanj.dk](http://halfdanj.dk)
+ - [https://halfdanj.dk](https://halfdanj.dk)
  - date_published: 2024-08-19T17:10:53.822428+00:00
 
  ## hansgrohe. Life is waterful.
@@ -751,31 +812,32 @@
  - date_published: 2025-01-15T11:21:15.739644+00:00
 
  ## helenadesign.dk
- - [http://www.helenadesign.dk](http://www.helenadesign.dk)
+ - [https://helenadesign.dk](https://helenadesign.dk)
  - date_published: 2023-01-05T19:24:01+00:00
+ - date_dead_since: 2025-01-28T18:17:01.424922+00:00
 
  ## HelloFresh: God mad lige til døren
  - [https://hellofresh.dk](https://hellofresh.dk)
  - date_published: 2024-09-25T18:02:36.728873+00:00
 
  ## Home
- - [https://www.henkel.dk](https://www.henkel.dk)
+ - [https://henkel.dk](https://henkel.dk)
  - date_published: 2024-10-18T20:16:55.336409+00:00
 
  ## Beowulf on Steorarume (Beowulf in Cyberspace) - Opening Page
- - [http://www.heorot.dk](http://www.heorot.dk)
+ - [https://heorot.dk](https://heorot.dk)
  - date_published: 2022-06-22T20:18:22+00:00
 
  ## Home - Herfra og Videre
- - [http://www.herfraogvidere.dk](http://www.herfraogvidere.dk)
+ - [https://herfraogvidere.dk](https://herfraogvidere.dk)
  - date_published: 2023-08-24T00:00:00+00:00
 
  ## Ejner Hessel: Forhandler af Mercedes, Ford, Renault og Dacia
- - [https://www.hessel.dk](https://www.hessel.dk)
+ - [https://hessel.dk](https://hessel.dk)
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Homepage
- - [https://www.hilti.dk](https://www.hilti.dk)
+ - [https://hilti.dk](https://hilti.dk)
  - date_published: 2024-06-20T07:25:58.734318+00:00
 
  ## Hjemmeværnet
@@ -783,7 +845,7 @@
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## HK Fagforening & A-kasse | Meld dig ind i dag
- - [https://www.hk.dk](https://www.hk.dk)
+ - [https://hk.dk](https://hk.dk)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Ejendomsmægler | Køb & salg af bolig 🏠
@@ -791,12 +853,14 @@
  - date_published: 2024-06-25T16:54:23.501351+00:00
 
  ## Hospitalsenhed Midt - Regionshospitalerne i Viborg, Silkeborg, Hammel og Skive
- - [https://www.hospitalsenhedmidt.dk](https://www.hospitalsenhedmidt.dk)
+ - [https://hospitalsenhedmidt.dk](https://hospitalsenhedmidt.dk)
  - date_published: 2024-05-27T00:00:00+00:00
+ - date_dead_since: 2025-01-28T18:17:51.296519+00:00
 
  ## Log ind på Hostinger
  - [https://auth.hostinger.dk](https://auth.hostinger.dk)
  - date_published: 2024-07-13T16:34:17.038016+00:00
+ - date_dead_since: 2025-01-28T18:17:52.322673+00:00
 
  ## Hostingplatformen der er lavet til dig - gå online med Hostinger
  - [https://hostinger.dk](https://hostinger.dk)
@@ -811,7 +875,7 @@
  - date_published: 2024-12-15T15:27:34.497526+00:00
 
  ## Velkommen til Hotfrog
- - [https://www.hotfrog.dk](https://www.hotfrog.dk)
+ - [https://hotfrog.dk](https://hotfrog.dk)
  - date_published: 2024-06-29T16:52:13.231098+00:00
 
  ## HTH Køkken: Vi er dedikerede til køkken, bad og garderobe | HTH
@@ -819,8 +883,9 @@
  - date_published: 2024-12-15T03:19:07.231478+00:00
 
  ## Oficjalny sklep internetowy hummel | Kupuj odzież sportową na hummelsport.pl
- - [https://www.hummel.dk](https://www.hummel.dk)
+ - [https://hummel.dk](https://hummel.dk)
  - date_published: 2024-05-08T02:29:44.602189+00:00
+ - date_dead_since: 2025-01-28T18:17:58.185928+00:00
 
  ## Hvass&Hannibal
  - [http://www.hvasshannibal.dk](http://www.hvasshannibal.dk)
@@ -831,7 +896,7 @@
  - date_published: 2024-07-13T14:19:04+00:00
 
  ## IBAN tjekker: validering af IBAN-numre (International Bank Account Number)
- - [https://www.iban.dk](https://www.iban.dk)
+ - [https://iban.dk](https://iban.dk)
  - date_published: 2024-08-30T00:00:00+00:00
 
  ## Icitizen.dk
@@ -863,7 +928,7 @@
  - date_published: 2024-10-31T07:01:33.527079+00:00
 
  ## Energikæder, kabler, glidelejer, ledlejer og lineære systemer
- - [https://www.igus.dk](https://www.igus.dk)
+ - [https://igus.dk](https://igus.dk)
  - date_published: 2024-08-06T23:11:50.038993+00:00
 
  ## Ikano Bank: Lån, Opsparing og Kreditkort - Ansøg online
@@ -907,7 +972,7 @@
  - date_published: 2024-04-15T00:00:00+00:00
 
  ## IPBES i DANMARK – Det danske koordinationskontor for IPBES
- - [http://www.ipbes.dk](http://www.ipbes.dk)
+ - [https://ipbes.dk](https://ipbes.dk)
  - date_published: 2024-07-10T09:41:37.252054+00:00
 
  ## Ishøj Kommunes hjemmeside
@@ -945,18 +1010,21 @@
  ## IT University of Copenhagen
  - [https://en.itu.dk](https://en.itu.dk)
  - date_published: 2024-05-04T15:44:07.922017+00:00
+ - date_dead_since: 2025-01-28T18:56:24.570382+00:00
 
  ## Sitecore
- - [http://intranet.itu.dk](http://intranet.itu.dk)
+ - [https://intranet.itu.dk](https://intranet.itu.dk)
  - date_published: 2024-06-22T11:54:27.924875+00:00
+ - date_dead_since: 2025-01-28T18:56:33.742003+00:00
 
  ## IT-Universitetet i København - Tag din it-uddannelse på ITU
  - [https://itu.dk](https://itu.dk)
  - date_published: 2024-06-22T11:54:27.228165+00:00
 
  ## ITU Student
- - [http://itustudent.itu.dk](http://itustudent.itu.dk)
+ - [https://itustudent.itu.dk](https://itustudent.itu.dk)
  - date_published: 2024-06-22T11:54:25.741601+00:00
+ - date_dead_since: 2025-01-28T18:56:38.110623+00:00
 
  ## Welcome to your Career Center | JobTeaser
  - [https://jobbank.itu.dk](https://jobbank.itu.dk)
@@ -977,6 +1045,7 @@
  ## IT-Universitetet i København
  - [https://pure.itu.dk](https://pure.itu.dk)
  - date_published: 2024-06-22T11:54:57.585311+00:00
+ - date_dead_since: 2025-01-28T18:56:44.185134+00:00
 
  ## ITU Business Development A/S - Technology Transfer Office
  - [https://itu-bd.dk](https://itu-bd.dk)
@@ -987,32 +1056,37 @@
  - date_published: 2023-10-24T10:28:11+00:00
 
  ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
- - [https://www.jack-wolfskin.dk](https://www.jack-wolfskin.dk)
+ - [https://jack-wolfskin.dk](https://jack-wolfskin.dk)
  - date_published: 2024-07-14T12:16:25.649911+00:00
 
  ## Jacobs Slum
- - [http://jacobsslum.dk](http://jacobsslum.dk)
+ - [https://jacobsslum.dk](https://jacobsslum.dk)
  - date_published: 2024-07-13T15:55:13.291500+00:00
+ - date_dead_since: 2025-01-28T18:56:49.678905+00:00
 
  ## JAILBREAK
- - [https://www.jailbreak.dk](https://www.jailbreak.dk)
+ - [https://jailbreak.dk](https://jailbreak.dk)
  - date_published: 2024-07-17T11:18:02.540682+00:00
 
  ## JD Sports adidas trainers & Nike trainers for Mænd, Kvinder og Børn. Plus Sports Fashion, Tøj og Tilbehør
- - [https://www.jdsports.dk](https://www.jdsports.dk)
+ - [https://jdsports.dk](https://jdsports.dk)
  - date_published: 2024-10-21T02:21:04.309976+00:00
+ - date_dead_since: 2025-01-28T18:57:02.012845+00:00
 
  ## Jeep® Danmark | Køb din nye SUV eller crossover
- - [https://www.jeep.dk](https://www.jeep.dk)
+ - [https://jeep.dk](https://jeep.dk)
  - date_published: 2024-06-18T15:36:32+00:00
+ - date_dead_since: 2025-01-28T18:57:03.997190+00:00
 
  ## jesroger
  - [https://gallery.jesroger.dk](https://gallery.jesroger.dk)
  - date_published: 2024-05-12T06:40:26.516227+00:00
+ - date_dead_since: 2025-01-28T18:57:07.012059+00:00
 
  ## jesroger
- - [http://jesroger.dk](http://jesroger.dk)
+ - [https://jesroger.dk](https://jesroger.dk)
  - date_published: 2024-07-16T17:44:08.365474+00:00
+ - date_dead_since: 2025-01-28T18:57:08.063884+00:00
 
  ## Senior .NET developer & solution architect in Copenhagen, Denmark | Peter Toft Jølving
  - [https://joelving.dk](https://joelving.dk)
@@ -1041,15 +1115,16 @@
  - date_published: 2024-07-07T00:00:00+00:00
 
  ## Welcome at dr. Jones' site
- - [http://dr.jones.dk](http://dr.jones.dk)
+ - [https://dr.jones.dk](https://dr.jones.dk)
  - date_published: 2023-09-08T05:33:39+00:00
 
  ## jonls.dk
- - [https://jonls.dk](https://jonls.dk)
+ - [http://jonls.dk](http://jonls.dk)
  - date_published: 2016-01-03T06:36:08+00:00
+ - date_dead_since: 2025-01-28T18:57:37.873296+00:00
 
  ## Advertise with Jyllands-Posten
- - [https://www.jpannonce.dk](https://www.jpannonce.dk)
+ - [https://jpannonce.dk](https://jpannonce.dk)
  - date_published: 2024-04-09T00:00:00+00:00
 
  ## JP Aurora
@@ -1073,7 +1148,7 @@
  - date_published: 2024-07-22T09:42:10.687439+00:00
 
  ## JScript
- - [http://www.jscript.dk](http://www.jscript.dk)
+ - [https://jscript.dk](https://jscript.dk)
  - date_published: 2024-09-04T17:30:37.563087+00:00
 
  ## Jurlique UK | Natural Skin Care Products - Plant-Based Cosmetics
@@ -1081,7 +1156,7 @@
  - date_published: 2024-10-20T22:52:52.387602+00:00
 
  ## Forside
- - [https://www.justitsministeriet.dk](https://www.justitsministeriet.dk)
+ - [https://justitsministeriet.dk](https://justitsministeriet.dk)
  - date_published: 2024-04-11T00:00:00+00:00
 
  ## Vælg dit abonnement - Jyllands-Posten
@@ -1113,7 +1188,7 @@
  - date_published: 2024-12-19T10:38:37.951625+00:00
 
  ## K7 - WEEK
- - [https://www.k7k7.dk](https://www.k7k7.dk)
+ - [https://k7k7.dk](https://k7k7.dk)
  - date_published: 2024-09-04T17:39:51.526202+00:00
 
  ## Ka-ching Developers - Ka-ching Developers
@@ -1125,16 +1200,20 @@
  - date_published: 2025-01-07T23:19:57.259404+00:00
 
  ## Kadeau | Home
- - [https://www.kadeau.dk](https://www.kadeau.dk)
+ - [https://kadeau.dk](https://kadeau.dk)
  - date_published: 2024-08-06T06:01:01.093982+00:00
 
  ## Kaspersky-cybersikkerhedsløsninger til hjemmet og virksomheden | Kaspersky
- - [https://www.kaspersky.dk](https://www.kaspersky.dk)
+ - [https://kaspersky.dk](https://kaspersky.dk)
  - date_published: 2024-05-02T00:00:00+00:00
 
  ## Flybilletter, hoteller og biludlejning | Søg med KAYAK
  - [https://www.kayak.dk](https://www.kayak.dk)
  - date_published: 2024-12-22T15:20:27.459010+00:00
+
+ ## Det Kgl. Bibliotek | kb.dk
+ - [https://kb.dk](https://kb.dk)
+ - date_published: 2024-07-22T10:17:20+00:00
 
  ## Courses & calendars -
         Københavns Universitetsbibliotek
@@ -1146,12 +1225,8 @@
  - date_published: 2024-08-11T04:41:06.762319+00:00
 
  ## Siden ikke fundet 404
- - [http://www5.kb.dk](http://www5.kb.dk)
+ - [https://www5.kb.dk](https://www5.kb.dk)
  - date_published: 2024-06-26T13:29:00+00:00
-
- ## Det Kgl. Bibliotek | kb.dk
- - [https://www.kb.dk](https://www.kb.dk)
- - date_published: 2024-07-22T10:17:20+00:00
 
  ## KB signon
  - [https://www-ordbogen-com.ep.fjernadgang.kb.dk](https://www-ordbogen-com.ep.fjernadgang.kb.dk)
@@ -1162,7 +1237,7 @@
  - date_published: 2024-05-20T13:53:38.690367+00:00
 
  ## Hjem | kefm.dk
- - [http://kefm.dk](http://kefm.dk)
+ - [https://kefm.dk](https://kefm.dk)
  - date_published: 2024-07-20T15:32:08.052808+00:00
 
  ## Git repository browser
@@ -1190,11 +1265,11 @@
  - date_published: 2024-05-27T00:00:00+00:00
 
  ## KIROS
- - [https://www.kiros.dk](https://www.kiros.dk)
+ - [https://kiros.dk](https://kiros.dk)
  - date_published: 2024-07-22T10:18:24.041974+00:00
 
  ## Martin Kjærulff - Folketingskandidat Fyn - Alternativet
- - [http://kjaerulff.dk](http://kjaerulff.dk)
+ - [https://kjaerulff.dk](https://kjaerulff.dk)
  - date_published: 2024-08-18T04:32:47.925367+00:00
 
  ## Borger
@@ -1205,8 +1280,9 @@
  - [https://klarpris.dk](https://klarpris.dk)
  - date_published: 2024-10-30T18:32:30.164306+00:00
 
- - [https://klassikeren.dk](https://klassikeren.dk)
+ - [http://klassikeren.dk](http://klassikeren.dk)
  - date_published: 2024-02-08T22:09:11.281885+00:00
+ - date_dead_since: 2025-01-28T19:08:42.359471+00:00
 
  ## Klimamonitor
  - [https://klimamonitor.dk](https://klimamonitor.dk)
@@ -1217,7 +1293,7 @@
  - date_published: 2024-12-12T19:50:33+00:00
 
  ## Koala Designs ApS - Webudvikling - Wordpress, Sociale Medier & Online Marketing - Dansk udvikler og optimerings ekspert  : Koala Designs ApS
- - [https://www.koaladesigns.dk](https://www.koaladesigns.dk)
+ - [https://koaladesigns.dk](https://koaladesigns.dk)
  - date_published: 2024-08-19T12:55:20.233288+00:00
 
  ## Hjemmeside
@@ -1245,11 +1321,11 @@
  - date_published: 2024-10-30T08:00:00+00:00
 
  ## Avisen om livets store spørgsmål
- - [https://www.kristeligt-dagblad.dk](https://www.kristeligt-dagblad.dk)
+ - [https://kristeligt-dagblad.dk](https://kristeligt-dagblad.dk)
  - date_published: 2024-06-29T10:18:11+00:00
 
  ## Kristian Risager Larsen
- - [http://kristianrisagerlarsen.dk](http://kristianrisagerlarsen.dk)
+ - [https://kristianrisagerlarsen.dk](https://kristianrisagerlarsen.dk)
  - date_published: 2024-07-12T17:37:10.874455+00:00
 
  ## Velkommen til Åbent Hus på KU – Københavns Universitet
@@ -1283,6 +1359,10 @@
  ## BARC – University of Copenhagen
  - [https://barc.ku.dk](https://barc.ku.dk)
  - date_published: 2024-07-10T06:39:55.109105+00:00
+
+ ## Biocenter – Københavns Universitet
+ - [https://biocenter.ku.dk](https://biocenter.ku.dk)
+ - date_published: 2024-07-12T08:19:38.107742+00:00
 
  ## Bootstrap styling https – Københavns Universitet
  - [https://bootstrap.secure.ku.dk](https://bootstrap.secure.ku.dk)
@@ -1321,7 +1401,7 @@
  - date_published: 2024-05-29T00:00:00+00:00
 
  ## Copenhagen University Library – University of Copenhagen
- - [http://culis.ku.dk](http://culis.ku.dk)
+ - [https://culis.ku.dk](https://culis.ku.dk)
  - date_published: 2024-04-12T00:00:00+00:00
 
  ## Designguide – Københavns Universitet
@@ -1335,6 +1415,10 @@
  ## De Veterinære Samlinger – Københavns Universitet
  - [https://dvs.ku.dk](https://dvs.ku.dk)
  - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Økonomisk Institut – Københavns Universitet
+ - [https://econ.ku.dk](https://econ.ku.dk)
+ - date_published: 2024-06-28T00:00:00+00:00
 
  ## Efteruddannelse – Københavns Universitet
  - [https://efteruddannelse.ku.dk](https://efteruddannelse.ku.dk)
@@ -1433,7 +1517,7 @@
  - date_published: 2024-07-19T00:53:08+00:00
 
  ## Institut for Veterinær- og Husdyrvidenskab – Københavns Universitet
- - [http://ivh.ku.dk](http://ivh.ku.dk)
+ - [https://ivh.ku.dk](https://ivh.ku.dk)
  - date_published: 2024-03-18T00:00:00+00:00
 
  ## Jobportal - Job og karriere på Københavns Universitet – Københavns Universitet
@@ -1576,6 +1660,10 @@
  - [https://socialsciences.ku.dk](https://socialsciences.ku.dk)
  - date_published: 2024-07-17T00:00:00+00:00
 
+ ## Sociologisk Institut – Københavns Universitet
+ - [https://soc.ku.dk](https://soc.ku.dk)
+ - date_published: 2024-08-08T00:00:00+00:00
+
  ## Copenhagen Center for Social Data Science – University of Copenhagen
  - [https://sodas.ku.dk](https://sodas.ku.dk)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -1621,7 +1709,7 @@
  - date_published: 2024-08-05T10:06:04+00:00
 
  ## Om universitetet – Københavns Universitet
- - [http://velkommen.ku.dk](http://velkommen.ku.dk)
+ - [https://velkommen.ku.dk](https://velkommen.ku.dk)
  - date_published: 2024-07-22T09:30:22+00:00
 
  ## Skolen for Veterinærmedicin og Husdyrvidenskab – Københavns Universitet
@@ -1637,31 +1725,19 @@
  - date_published: 2024-07-22T09:55:55.777328+00:00
 
  ## Institut for Matematiske  Fag – Københavns Universitet
- - [http://web.math.ku.dk](http://web.math.ku.dk)
+ - [https://web.math.ku.dk](https://web.math.ku.dk)
  - date_published: 2024-06-04T00:00:00+00:00
 
  ## SNM Webshop
  - [https://webshop.snm.ku.dk](https://webshop.snm.ku.dk)
  - date_published: 2024-08-11T03:42:34.494552+00:00
 
- ## Biocenter – Københavns Universitet
- - [https://www.biocenter.ku.dk](https://www.biocenter.ku.dk)
- - date_published: 2024-07-12T08:19:38.107742+00:00
-
- ## Økonomisk Institut – Københavns Universitet
- - [https://www.econ.ku.dk](https://www.econ.ku.dk)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Sociologisk Institut – Københavns Universitet
- - [https://www.soc.ku.dk](https://www.soc.ku.dk)
- - date_published: 2024-08-08T00:00:00+00:00
-
  ## tandlægeskolen.ku.dk – Københavns Universitet
  - [https://xn--tandlgeskolen-7fb.ku.dk](https://xn--tandlgeskolen-7fb.ku.dk)
  - date_published: 2024-04-02T00:00:00+00:00
 
  ## Kulturkraft
- - [https://www.kulturkraft.dk](https://www.kulturkraft.dk)
+ - [https://kulturkraft.dk](https://kulturkraft.dk)
  - date_published: 2024-07-22T09:48:28.385259+00:00
 
  ## Kulturmonitor
@@ -1677,7 +1753,7 @@
  - date_published: 2023-09-05T14:43:25+00:00
 
  ## Kvalifik - Digital Innovation Agency in Copenhagen, Denmark
- - [https://www.kvalifik.dk](https://www.kvalifik.dk)
+ - [https://kvalifik.dk](https://kvalifik.dk)
  - date_published: 2024-10-19T12:10:53.582334+00:00
 
  ## Designet med omtanke for den næste generation | Kvik
@@ -1685,7 +1761,7 @@
  - date_published: 2024-06-15T21:40:17.684293+00:00
 
  ## Charlotte Steen - Design Kunst og Smedeværksted på Christianshavn - Kvindesmedien
- - [http://www.kvindesmedien.dk](http://www.kvindesmedien.dk)
+ - [https://kvindesmedien.dk](https://kvindesmedien.dk)
  - date_published: 2024-09-12T17:23:16.071341+00:00
 
  ## Victor Kyllesbech
@@ -1697,7 +1773,7 @@
  - date_published: 2024-09-19T20:34:56.192957+00:00
 
  ## Conditori La Glace
- - [http://www.laglace.dk](http://www.laglace.dk)
+ - [https://laglace.dk](https://laglace.dk)
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Gourmetlakrids med chokolade | LAKRIDS BY BÜLOW
@@ -1709,11 +1785,11 @@
  - date_published: 2024-12-15T10:05:29.268271+00:00
 
  ## Land Rover | Oplev luksus-SUV'er og 4x4-køretøjer | Land Rover Denmark
- - [https://www.landrover.dk](https://www.landrover.dk)
+ - [https://landrover.dk](https://landrover.dk)
  - date_published: 2024-02-12T00:00:00+00:00
 
  ## Lars Hartmann Design – Identitets- & webdesigner fra skønne Frederiksberg
- - [https://www.larshartmann.dk](https://www.larshartmann.dk)
+ - [https://larshartmann.dk](https://larshartmann.dk)
  - date_published: 2024-01-30T00:00:00+00:00
 
  ## Velkommen til Laudrup Vin
@@ -1726,7 +1802,7 @@
  - tags: ['programming library', 'artificial intelligence']
 
  ## LEGOLAND® Billund
- - [https://www.legoland.dk](https://www.legoland.dk)
+ - [https://legoland.dk](https://legoland.dk)
  - date_published: 2024-07-03T09:45:22.782858+00:00
 
  ## Din grossist – produkter, el, VVS, industri, stål | Lemvigh-Müller
@@ -1746,11 +1822,11 @@
  - date_published: 2024-10-31T00:48:49.670375+00:00
 
  ## Lidl Danmark
- - [https://www.lidl.dk](https://www.lidl.dk)
+ - [https://lidl.dk](https://lidl.dk)
  - date_published: 2024-06-25T19:03:02.653231+00:00
 
  ## LINAK - elektrisk lineær aktuatorteknologi til systemer med bevægelse
- - [https://www.linak.dk](https://www.linak.dk)
+ - [http://linak.dk](http://linak.dk)
  - date_published: 2024-09-05T21:35:43.339357+00:00
 
  ## Lindab i Danmark for Ventilation og Profil
@@ -1762,11 +1838,11 @@
  - date_published: 2024-12-20T16:59:07.229749+00:00
 
  ## Lingoblog
- - [https://www.lingoblog.dk](https://www.lingoblog.dk)
+ - [https://lingoblog.dk](https://lingoblog.dk)
  - date_published: 2024-02-07T00:00:00+00:00
 
  ## LiveAgent | Simple Customer Support Software for Teams
- - [https://www.liveagent.dk](https://www.liveagent.dk)
+ - [https://liveagent.dk](https://liveagent.dk)
  - date_published: 2024-10-19T20:26:28.124085+00:00
 
  ## Find billetter til koncerter og events
@@ -1778,7 +1854,7 @@
  - date_published: 2024-07-22T17:53:59.939018+00:00
 
  ## LOPPEN
- - [http://loppen.dk](http://loppen.dk)
+ - [https://loppen.dk](https://loppen.dk)
  - date_published: 2024-09-12T16:02:04+00:00
 
  ## Louisiana Design Butik
@@ -1807,11 +1883,12 @@
  - date_published: 2024-09-19T20:30:36.320885+00:00
 
  ## L. Ron Hubbard – grundlægger af Scientology og Dianetics
- - [https://www.lronhubbard.dk](https://www.lronhubbard.dk)
+ - [https://lronhubbard.dk](https://lronhubbard.dk)
  - date_published: 2024-06-06T19:38:45.236162+00:00
+ - date_dead_since: 2025-01-28T20:27:24.035208+00:00
 
  ## Luciano Bellacci
- - [http://www.luciano-bellacci.dk](http://www.luciano-bellacci.dk)
+ - [https://luciano-bellacci.dk](https://luciano-bellacci.dk)
  - date_published: 2024-06-20T08:41:06.532106+00:00
 
  ## Center for Ludomani - Center for Ludomani
@@ -1827,7 +1904,7 @@
  - date_published: 2022-07-07T15:31:41+00:00
 
  ## M3panel - Tilmeld dig nu
- - [https://www.m3panel.dk](https://www.m3panel.dk)
+ - [https://m3panel.dk](https://m3panel.dk)
  - date_published: 2024-06-25T22:24:28.571694+00:00
 
  ## Peter H. S. Madsens Verden
@@ -1839,7 +1916,7 @@
  - date_published: 2024-05-09T08:21:19.250017+00:00
 
  ## Welcome | magnuskahr
- - [https://www.magnuskahr.dk](https://www.magnuskahr.dk)
+ - [https://magnuskahr.dk](https://magnuskahr.dk)
  - date_published: 2023-11-21T15:22:56+00:00
 
  ## fLyd – Malthe Bjørn Jensen – Production sound mixer, sound design and music
@@ -1862,13 +1939,14 @@
  ## Martin Stig andersen
  - [https://martinstigandersen.dk](https://martinstigandersen.dk)
  - date_published: 2024-07-15T20:16:33+00:00
+ - date_dead_since: 2025-01-28T20:27:38.830186+00:00
 
  ## Mary Fonden
  - [http://www.maryfonden.dk](http://www.maryfonden.dk)
  - date_published: 2024-12-06T12:14:49+00:00
 
  ## Mastercard er en teknologivirksomhed i den globale betalingsindustri.
- - [https://www.mastercard.dk](https://www.mastercard.dk)
+ - [https://mastercard.dk](https://mastercard.dk)
  - date_published: 2024-07-01T22:33:03+00:00
 
  ## Sammenlign lån | Overblik over +10 lånemuligheder | Matchbanker
@@ -1880,16 +1958,17 @@
  - date_published: 2024-10-12T11:05:05.610673+00:00
 
  ## MAX Hamburger - Danmark
- - [https://www.max.dk](https://www.max.dk)
+ - [https://max.dk](https://max.dk)
  - date_published: 2024-06-16T17:08:10.826213+00:00
 
  ## Gaming- og esport-butik - MaxGaming.dk
- - [https://www.maxgaming.dk](https://www.maxgaming.dk)
+ - [https://maxgaming.dk](https://maxgaming.dk)
  - date_published: 2024-07-13T13:32:03.582094+00:00
 
  ## Welcome to Mazak
- - [https://www.mazakeu.dk](https://www.mazakeu.dk)
+ - [https://mazakeu.dk](https://mazakeu.dk)
  - date_published: 2024-07-16T17:31:14.617975+00:00
+ - date_dead_since: 2025-01-28T20:27:46.561944+00:00
 
  ## Medielogin - autorisering
  - [https://auth.medielogin.dk](https://auth.medielogin.dk)
@@ -1900,7 +1979,7 @@
  - date_published: 2024-07-22T09:41:20.890099+00:00
 
  ## Vurderinger
- - [https://www.filmvurdering.medieraadet.dk](https://www.filmvurdering.medieraadet.dk)
+ - [https://filmvurdering.medieraadet.dk](https://filmvurdering.medieraadet.dk)
  - date_published: 2024-07-02T23:08:41+00:00
 
  ## Mercoprint. Tryksager, logovarer, profilbeklædning og webshops.
@@ -1908,15 +1987,16 @@
  - date_published: 2024-07-22T09:56:04.857038+00:00
 
  ## Blog
- - [http://www.metabunker.dk](http://www.metabunker.dk)
+ - [https://metabunker.dk](https://metabunker.dk)
  - date_published: 2024-06-24T00:00:00+00:00
 
  ## Heavy Metal Name Generator - Album, Song, and Band Names
- - [http://metallizer.dk](http://metallizer.dk)
+ - [https://metallizer.dk](https://metallizer.dk)
  - date_published: 2024-07-04T14:36:03.253840+00:00
+ - date_dead_since: 2025-01-28T20:27:55.043153+00:00
 
  ## mibasoft
- - [http://www.mibasoft.dk](http://www.mibasoft.dk)
+ - [https://mibasoft.dk](https://mibasoft.dk)
  - date_published: 2024-09-16T03:52:26.889841+00:00
 
  ## Tidsrejse | Middelaldercentret | Nykøbing Falster
@@ -1928,7 +2008,7 @@
  - date_published: 2025-01-02T18:11:48.584113+00:00
 
  ## Midttrafik
- - [https://www.midttrafik.dk](https://www.midttrafik.dk)
+ - [https://midttrafik.dk](https://midttrafik.dk)
  - date_published: 2024-06-25T16:49:51.262424+00:00
 
  ## Undgå misforståelser - Skab et bedre parforhold
@@ -1938,6 +2018,7 @@
  ## Klimamonitor
  - [https://miljoogklima.dk](https://miljoogklima.dk)
  - date_published: 2024-07-22T09:49:10+00:00
+ - date_dead_since: 2025-01-28T20:27:59.306807+00:00
 
  ## Hoteller med sjæl | Milling Hotels
  - [https://millinghotels.dk](https://millinghotels.dk)
@@ -1952,7 +2033,7 @@
  - date_published: 2024-12-15T10:05:42.213051+00:00
 
  ## Mirland
- - [http://www.mirland.dk](http://www.mirland.dk)
+ - [https://mirland.dk](https://mirland.dk)
  - date_published: 2024-08-11T00:00:00+00:00
 
  ## Hem
@@ -1964,19 +2045,20 @@
  - date_published: 2024-10-31T02:39:34.743187+00:00
 
  ## MitID Erhverv - MitID Erhverv
- - [https://www.mitid-erhverv.dk](https://www.mitid-erhverv.dk)
+ - [https://mitid-erhverv.dk](https://mitid-erhverv.dk)
  - date_published: 2024-07-22T10:17:25.415862+00:00
 
  ## MitSDU – Studerende – Syddansk Universitet
  - [https://mitsdu.dk](https://mitsdu.dk)
  - date_published: 2024-03-01T00:00:00+00:00
+ - date_dead_since: 2025-01-28T20:28:28.381211+00:00
 
  ## Forside - Mads Madsen VVS Engros A/S
  - [https://www.mmvvs.dk](https://www.mmvvs.dk)
  - date_published: 2024-12-15T10:05:32.245741+00:00
 
  ## Betal nemt med mobilen - få MobilePay privat eller til din virksomhed
- - [https://www.mobilepay.dk](https://www.mobilepay.dk)
+ - [https://mobilepay.dk](https://mobilepay.dk)
  - date_published: 2024-10-14T16:02:54.322884+00:00
 
  ## Mobilunity - Dedikeret udviklingsteam udbyder
@@ -1984,7 +2066,7 @@
  - date_published: 2016-09-02T13:02:59+00:00
 
  ## TN5250 TN3270 VNC RDP. Download 30 Days Free Trial, also iPhone/iPad and Android software from MochaSoft.
- - [http://www.mochasoft.dk](http://www.mochasoft.dk)
+ - [https://mochasoft.dk](https://mochasoft.dk)
  - date_published: 2024-06-27T00:00:00+00:00
 
  ## Forside - Moderaterne - Den fornuftige stemme
@@ -2008,7 +2090,7 @@
  - date_published: 2024-04-30T00:00:00+00:00
 
  ## Electronic Components Distributor - Mouser Electronics Denmark
- - [https://www.mouser.dk](https://www.mouser.dk)
+ - [https://mouser.dk](https://mouser.dk)
  - date_published: 2024-07-01T20:56:44.824495+00:00
 
  ## MSD Danmark - Inventing For Life
@@ -2028,7 +2110,7 @@
  - date_published: 2024-07-22T09:53:40.874437+00:00
 
  ## MT Højgaard Projektudvikling
- - [http://mthpu.dk](http://mthpu.dk)
+ - [https://mthpu.dk](https://mthpu.dk)
  - date_published: 2024-04-10T00:00:00+00:00
 
  ## Køb officielle koncertbilletter her | Musik DK
@@ -2040,8 +2122,9 @@
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## No website is currently present on this hostname
- - [http://www.musikcafeen.dk](http://www.musikcafeen.dk)
+ - [https://musikcafeen.dk](https://musikcafeen.dk)
  - date_published: 2021-02-12T13:36:14+00:00
+ - date_dead_since: 2025-01-28T20:30:31.038189+00:00
 
  ## MuteBox | Telefonboks til møder og fordybelse | Dansk design
  - [https://mutebox.dk](https://mutebox.dk)
@@ -2092,11 +2175,11 @@
  - date_published: 2024-07-03T00:01:02.330735+00:00
 
  ## Narconon Europa
- - [https://www.narconon-europe.dk](https://www.narconon-europe.dk)
+ - [https://narconon-europe.dk](https://narconon-europe.dk)
  - date_published: 2024-09-04T18:17:45.273386+00:00
 
  ## Narconon Europa
- - [https://www.narcononeurope.dk](https://www.narcononeurope.dk)
+ - [https://narcononeurope.dk](https://narcononeurope.dk)
  - date_published: 2024-09-04T17:54:51.779239+00:00
 
  ## National Museum of Denmark - a collection of museums all over the country
@@ -2108,31 +2191,33 @@
  - date_published: 2024-10-18T15:50:34.637320+00:00
 
  ## The Official Nattefrost Website
- - [http://nattefrost.dk](http://nattefrost.dk)
+ - [https://nattefrost.dk](https://nattefrost.dk)
  - date_published: 2024-07-20T19:54:26.521926+00:00
+ - date_dead_since: 2025-01-28T20:30:44.267851+00:00
 
  ## Flådens Historie - Danish Naval History
- - [https://www.navalhistory.dk](https://www.navalhistory.dk)
+ - [https://navalhistory.dk](https://navalhistory.dk)
  - date_published: 2015-06-23T09:49:59+00:00
 
  ## Nemoland – Café Nemoland Christiania
- - [http://www.nemoland.dk](http://www.nemoland.dk)
+ - [https://nemoland.dk](https://nemoland.dk)
  - date_published: 2024-09-12T17:22:39.193321+00:00
 
  ## Hjem
- - [http://www.nestle.dk](http://www.nestle.dk)
+ - [https://nestle.dk](https://nestle.dk)
  - date_published: 2024-09-14T20:02:32+00:00
+ - date_dead_since: 2025-01-28T20:30:50.552248+00:00
 
  ## Landing Page
- - [http://www.netsights.dk](http://www.netsights.dk)
+ - [https://netsights.dk](https://netsights.dk)
  - date_published: 2024-10-14T15:59:58.360438+00:00
 
  ## Netsite - Domæne, Webhotel og Server-Hosting
- - [https://www.netsite.dk](https://www.netsite.dk)
+ - [https://netsite.dk](https://netsite.dk)
  - date_published: 2024-01-26T00:00:00+00:00
 
  ## Nickelodeon Denmark
- - [https://www.nickelodeon.dk](https://www.nickelodeon.dk)
+ - [https://nickelodeon.dk](https://nickelodeon.dk)
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## NIRAS Green Tech Hub
@@ -2171,16 +2256,16 @@
  - [https://netbank.nordea.dk](https://netbank.nordea.dk)
  - date_published: 2024-06-28T08:27:28+00:00
 
+ ## Nordea Bank - din online bank og lokale filial
+ - [https://nordea.dk](https://nordea.dk)
+ - date_published: 2024-06-16T12:53:17.628694+00:00
+
  ## Nyt fra Nordea
  - [https://nytfranordea.nordea.dk](https://nytfranordea.nordea.dk)
  - date_published: 2024-10-07T09:56:46+00:00
 
- ## Nordea Bank - din online bank og lokale filial
- - [https://www.nordea.dk](https://www.nordea.dk)
- - date_published: 2024-06-16T12:53:17.628694+00:00
-
  ## Nordea Pension
- - [https://www.nordeapension.dk](https://www.nordeapension.dk)
+ - [https://nordeapension.dk](https://nordeapension.dk)
  - date_published: 2024-10-07T18:19:51.263932+00:00
 
  ## Norlys - Energi, internet og tv fra samme sted - Bliv kunde nu
@@ -2198,17 +2283,18 @@
  ## Her flytter snart en ny gæst ind
  - [https://nyheder2.dk](https://nyheder2.dk)
  - date_published: 2020-05-28T13:34:05+00:00
+ - date_dead_since: 2025-01-28T21:37:19.490656+00:00
 
  ## Ny i Danmark
- - [http://www.nyidanmark.dk](http://www.nyidanmark.dk)
+ - [https://nyidanmark.dk](https://nyidanmark.dk)
  - date_published: 2024-07-22T10:17:47.891890+00:00
 
  ## Nykredit Bank: Din partner i bank, boligfinansiering og opsparing
- - [https://www.nykredit.dk](https://www.nykredit.dk)
+ - [https://nykredit.dk](https://nykredit.dk)
  - date_published: 2024-07-22T09:54:05.491381+00:00
 
  ## Nykredit Invest - Robust, ambitiøs og ansvarlig investering
- - [https://www.nykreditinvest.dk](https://www.nykreditinvest.dk)
+ - [https://nykreditinvest.dk](https://nykreditinvest.dk)
  - date_published: 2024-07-22T09:53:59.461398+00:00
 
  ## O Days / 2024
@@ -2224,19 +2310,19 @@
  - date_published: 2024-12-15T15:27:37.866577+00:00
 
  ## Oderland - Premium hosting för din webbplats
- - [https://www.oderland.dk](https://www.oderland.dk)
+ - [https://oderland.dk](https://oderland.dk)
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Onkel Kim - Freelance Senior Digital Designer
- - [http://www.onkelkim.dk](http://www.onkelkim.dk)
+ - [https://onkelkim.dk](https://onkelkim.dk)
  - date_published: 2024-09-04T04:32:09.658613+00:00
 
  ## OnlinePlus: Danmarks mest ambitiøse digitale væksthus
- - [http://onlineplus.dk](http://onlineplus.dk)
+ - [https://onlineplus.dk](https://onlineplus.dk)
  - date_published: 2024-07-22T07:04:46+00:00
 
  ## Opel Danmark | Nye biler, varebiler, services og værksted
- - [https://www.opel.dk](https://www.opel.dk)
+ - [https://opel.dk](https://opel.dk)
  - date_published: 2024-07-09T16:12:14+00:00
 
  ## Open Data DK
@@ -2244,11 +2330,11 @@
  - date_published: 2024-01-15T00:00:00+00:00
 
  ## Open Doors Danmark
- - [https://www.opendoors.dk](https://www.opendoors.dk)
+ - [https://opendoors.dk](https://opendoors.dk)
  - date_published: 2024-07-08T12:21:06.812522+00:00
 
  ## Welcome to denizo.opia.dk
- - [http://denizo.opia.dk](http://denizo.opia.dk)
+ - [https://denizo.opia.dk](https://denizo.opia.dk)
  - date_published: 2021-02-14T17:49:16+00:00
 
  ## Ordrestyring – Det digitale system anvendt af 30.000+ håndværkere
@@ -2256,7 +2342,7 @@
  - date_published: 2024-12-15T10:06:16.212000+00:00
 
  ## OUH - Odense Universitetshospital Svendborg Sygehus
- - [http://www.ouh.dk](http://www.ouh.dk)
+ - [https://ouh.dk](https://ouh.dk)
  - date_published: 2024-04-02T00:00:00+00:00
 
  ## Oxfam Danmark | For en lige og retfærdig fremtid | oxfam.dk
@@ -2264,7 +2350,7 @@
  - date_published: 2024-07-08T13:54:07.155136+00:00
 
  ## Pages24 - Online-markedsførings-netværket for dem der ejer små og mellemstore virksomheder, selvstændige og freelancere
- - [https://www.pages24.dk](https://www.pages24.dk)
+ - [https://pages24.dk](https://pages24.dk)
  - date_published: 2020-03-31T00:00:00+00:00
 
  ## Forside - PandaClub
@@ -2272,8 +2358,9 @@
  - date_published: 2024-03-12T00:00:00+00:00
 
  ## Alle Netflix film og serier - PaNetflix.dk
- - [https://www.panetflix.dk](https://www.panetflix.dk)
+ - [http://panetflix.dk](http://panetflix.dk)
  - date_published: 2024-09-02T11:18:18.808731+00:00
+ - date_dead_since: 2025-01-28T21:38:08.298754+00:00
 
  ## Teknologi har brug for mennesker
  - [https://parentnode.dk](https://parentnode.dk)
@@ -2284,11 +2371,12 @@
  - date_published: 2025-01-09T09:15:06+00:00
 
  ## Paw Poulsen
- - [http://pawpoulsen.dk](http://pawpoulsen.dk)
+ - [https://pawpoulsen.dk](https://pawpoulsen.dk)
  - date_published: 2023-04-17T18:10:06+00:00
+ - date_dead_since: 2025-01-28T21:38:10.743590+00:00
 
  ## Nyheder - PCLinuxOS.dk
- - [http://www.pclinuxos.dk](http://www.pclinuxos.dk)
+ - [https://pclinuxos.dk](https://pclinuxos.dk)
  - date_published: 2024-06-30T07:58:28+00:00
 
  ## PDF Translator and Editor
@@ -2304,7 +2392,7 @@
  - date_published: 2024-06-15T21:39:45.256322+00:00
 
  ## Sammenlign og find de billigste lån på nettet på Penge247!
- - [https://www.penge247.dk](https://www.penge247.dk)
+ - [https://penge247.dk](https://penge247.dk)
  - date_published: 2017-01-24T14:28:42+00:00
 
  ## Pensure - SaaS - Indsamling af data
@@ -2312,24 +2400,26 @@
  - date_published: 2024-06-14T13:28:14+00:00
 
  ## PERI Danmark - Forskalling Stillads Rådgivning
- - [https://www.peri.dk](https://www.peri.dk)
+ - [https://peri.dk](https://peri.dk)
  - date_published: 2024-07-01T00:00:00+00:00
 
  ## Samlet om kaffen ✓ Køb din kaffe her ⇒
- - [https://www.peterlarsenkaffeshop.dk](https://www.peterlarsenkaffeshop.dk)
+ - [https://peterlarsenkaffeshop.dk](https://peterlarsenkaffeshop.dk)
  - date_published: 2024-06-25T16:54:41.668097+00:00
+ - date_dead_since: 2025-01-28T21:38:33.093920+00:00
 
  ## Pettinaroli - én af verdens førende producenter til VVS-branchen
  - [https://www.pettinaroli.dk](https://www.pettinaroli.dk)
  - date_published: 2024-12-15T10:02:28+00:00
 
  ## Pension – få størst mulig udbytte af dine pensionspenge – PFA Pension
- - [http://pfa.dk](http://pfa.dk)
+ - [https://pfa.dk](https://pfa.dk)
  - date_published: 2024-07-17T11:17:38.204948+00:00
 
  ## Paul-Frederik Bach
- - [http://pfbach.dk](http://pfbach.dk)
+ - [https://pfbach.dk](https://pfbach.dk)
  - date_published: 2023-02-28T14:20:17+00:00
+ - date_dead_since: 2025-01-28T21:38:34.677064+00:00
 
  ## PhD Course Management
  - [https://au.phd-courses.dk](https://au.phd-courses.dk)
@@ -2340,15 +2430,16 @@
  - date_published: 2024-10-31T01:13:16+00:00
 
  ## Pi-Web
- - [http://pi.dk](http://pi.dk)
+ - [https://pi.dk](https://pi.dk)
  - date_published: 2024-05-19T02:44:47.530806+00:00
+ - date_dead_since: 2025-01-28T21:38:36.570136+00:00
 
  ## Pilot er et digitalt produkt studie - Pilot
  - [https://pilot.dk](https://pilot.dk)
  - date_published: 2024-12-19T18:51:02.777655+00:00
 
  ## Pinterest
- - [https://www.pinterest.dk](https://www.pinterest.dk)
+ - [https://pinterest.dk](https://pinterest.dk)
  - date_published: 2024-10-20T23:02:43.791966+00:00
 
  ## Plan2learn
@@ -2360,7 +2451,7 @@
  - date_published: 2024-07-22T10:05:37.933586+00:00
 
  ## Playground Music Denmark
- - [https://www.playgroundmusic.dk](https://www.playgroundmusic.dk)
+ - [https://playgroundmusic.dk](https://playgroundmusic.dk)
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## ploeh blog
@@ -2368,7 +2459,7 @@
  - date_published: 2023-10-25T18:45:40.993665+00:00
 
  ## Pluralis – digitale løsninger med fokus på oplevelse og læring
- - [https://www.pluralis.dk](https://www.pluralis.dk)
+ - [https://pluralis.dk](https://pluralis.dk)
  - date_published: 2024-04-10T00:00:00+00:00
 
  ## Podimos eksklusive podcasts & lydbøger
@@ -2384,8 +2475,9 @@
  - date_published: 2024-01-05T21:26:06.537360+00:00
 
  ## Advertise with Politiken
- - [https://www.politikenannoncer.dk](https://www.politikenannoncer.dk)
+ - [https://politikenannoncer.dk](https://politikenannoncer.dk)
  - date_published: 2024-02-19T00:00:00+00:00
+ - date_dead_since: 2025-01-28T22:17:23.564153+00:00
 
  ## PolitikenBillet
  - [https://politikenbillet.dk](https://politikenbillet.dk)
@@ -2400,7 +2492,7 @@
  - date_published: 2024-07-22T09:41:21.718031+00:00
 
  ## Forside - Politiken Historie
- - [http://politikenhistorie.dk](http://politikenhistorie.dk)
+ - [https://politikenhistorie.dk](https://politikenhistorie.dk)
  - date_published: 2024-04-30T02:45:34.863555+00:00
 
  ## PolitikenPlus
@@ -2436,11 +2528,11 @@
  - date_published: 2023-06-17T19:55:18+00:00
 
  ## Send og modtag pakker og breve
- - [https://www.postnord.dk](https://www.postnord.dk)
+ - [https://postnord.dk](https://postnord.dk)
  - date_published: 2024-02-19T00:00:00+00:00
 
  ## Pressenævnets medlemmer
- - [https://www.pressenaevnet.dk](https://www.pressenaevnet.dk)
+ - [https://pressenaevnet.dk](https://pressenaevnet.dk)
  - date_published: 2020-10-20T10:33:23+00:00
 
  ## Progresso - Front page
@@ -2448,7 +2540,7 @@
  - date_published: 2024-05-08T05:43:39.567209+00:00
 
  ## PROSA - fagforeningen for it-professionelle | PROSA
- - [https://www.prosa.dk](https://www.prosa.dk)
+ - [https://prosa.dk](https://prosa.dk)
  - date_published: 2024-08-15T00:00:00+00:00
 
  ## Hjem - Pure Shots
@@ -2456,8 +2548,9 @@
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Plausible · Web analytics
- - [https://analytics.qpqp.dk](https://analytics.qpqp.dk)
+ - [http://analytics.qpqp.dk](http://analytics.qpqp.dk)
  - date_published: 2024-05-14T03:59:14.317868+00:00
+ - date_dead_since: 2025-01-28T22:17:53.937392+00:00
 
  ## Rådtilpenge.dk - kom i gang med din privatøkonomi
  - [https://www.raadtilpenge.dk](https://www.raadtilpenge.dk)
@@ -2468,15 +2561,15 @@
  - date_published: 2024-06-15T11:57:34+00:00
 
  ## Gratis internetradio og streaming af musik online
- - [https://www.radio.dk](https://www.radio.dk)
+ - [https://radio.dk](https://radio.dk)
  - date_published: 2024-07-01T10:55:03.113654+00:00
 
  ## RADIO4
- - [https://www.radio4.dk](https://www.radio4.dk)
+ - [https://radio4.dk](https://radio4.dk)
  - date_published: 2024-06-29T10:19:50+00:00
 
  ## RadioFolk.dk
- - [http://www.radiofolk.dk](http://www.radiofolk.dk)
+ - [https://radiofolk.dk](https://radiofolk.dk)
  - date_published: 2021-06-08T10:40:39+00:00
 
  ## In a stream of Random Thoughts ..
@@ -2484,7 +2577,7 @@
  - date_published: 2023-05-23T20:12:18+00:00
 
  ## RaspberryPi.dk • Danmarks førende Raspberry Pi webshop
- - [http://raspberrypi.dk](http://raspberrypi.dk)
+ - [https://raspberrypi.dk](https://raspberrypi.dk)
  - date_published: 2024-07-01T06:29:58+00:00
 
  ## RD Data - Leverandør af plastkort, printere og tilbehør
@@ -2500,28 +2593,32 @@
  - date_published: 2024-07-03T02:29:40.412574+00:00
 
  ## RE F O R M Design Biennale
- - [http://re-form.dk](http://re-form.dk)
+ - [https://re-form.dk](https://re-form.dk)
  - date_published: 2024-07-13T15:42:09.488682+00:00
 
  ## Regeringen
- - [https://www.regeringen.dk](https://www.regeringen.dk)
+ - [https://regeringen.dk](https://regeringen.dk)
  - date_published: 2024-07-20T15:32:06.865334+00:00
 
  ## Region Midtjylland
- - [http://regionmidtjylland.dk](http://regionmidtjylland.dk)
+ - [https://regionmidtjylland.dk](https://regionmidtjylland.dk)
  - date_published: 2024-04-09T00:00:00+00:00
+ - date_dead_since: 2025-01-28T22:18:07.410648+00:00
 
  ## Regionhospitalet Gødstrup
- - [https://www.regionshospitalet-goedstrup.dk](https://www.regionshospitalet-goedstrup.dk)
+ - [https://regionshospitalet-goedstrup.dk](https://regionshospitalet-goedstrup.dk)
  - date_published: 2024-01-10T00:00:00+00:00
+ - date_dead_since: 2025-01-28T22:18:08.435418+00:00
 
  ## Regionshospitalet Horsens
- - [https://www.regionshospitalet-horsens.dk](https://www.regionshospitalet-horsens.dk)
+ - [https://regionshospitalet-horsens.dk](https://regionshospitalet-horsens.dk)
  - date_published: 2024-08-11T07:05:05.471414+00:00
+ - date_dead_since: 2025-01-28T22:18:09.278658+00:00
 
  ## Regionshospitalet Randers
- - [https://www.regionshospitalet-randers.dk](https://www.regionshospitalet-randers.dk)
+ - [https://regionshospitalet-randers.dk](https://regionshospitalet-randers.dk)
  - date_published: 2024-01-04T00:00:00+00:00
+ - date_dead_since: 2025-01-28T22:18:10.114930+00:00
 
  ## Region Sjælland
  - [https://www.regionsjaelland.dk](https://www.regionsjaelland.dk)
@@ -2532,7 +2629,7 @@
  - date_published: 2024-04-30T02:40:45.702028+00:00
 
  ## Rejseplanen
- - [https://www.rejseplanen.dk](https://www.rejseplanen.dk)
+ - [https://rejseplanen.dk](https://rejseplanen.dk)
  - date_published: 2024-05-23T11:59:45+00:00
 
  ## Relaxdays | Bolig, have, sport & fritid
@@ -2552,11 +2649,11 @@
  - date_published: 2024-04-30T02:40:34.661573+00:00
 
  ## Ret&Råd Advokater - Din lokale advokat med landsdækkende service
- - [http://www.ret-raad.dk](http://www.ret-raad.dk)
+ - [https://ret-raad.dk](https://ret-raad.dk)
  - date_published: 2024-10-18T21:12:54.889044+00:00
 
  ## Retaliation Grotesque
- - [http://rgro.dk](http://rgro.dk)
+ - [https://rgro.dk](https://rgro.dk)
  - date_published: 2013-03-01T23:55:28+00:00
 
  ## Via Ritzau
@@ -2567,28 +2664,29 @@
  - [https://dagsorden.rm.dk](https://dagsorden.rm.dk)
  - date_published: 2024-08-11T07:04:40.256247+00:00
 
+ ## Sundhed i Region Midtjylland for fagpersoner
+ - [https://fagperson.sundhed.rm.dk](https://fagperson.sundhed.rm.dk)
+ - date_published: 2024-01-02T00:00:00+00:00
+ - date_dead_since: 2025-01-28T22:22:11.014758+00:00
+
+ ## Præhospitalet
+ - [https://ph.rm.dk](https://ph.rm.dk)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Psykiatrien i Region Midtjylland
+ - [https://psykiatrien.rm.dk](https://psykiatrien.rm.dk)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## Region Midtjylland
  - [https://rm.dk](https://rm.dk)
  - date_published: 2024-06-10T00:00:00+00:00
 
- ## Sundhed i Region Midtjylland for fagpersoner
- - [https://www.fagperson.sundhed.rm.dk](https://www.fagperson.sundhed.rm.dk)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Præhospitalet
- - [https://www.ph.rm.dk](https://www.ph.rm.dk)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Psykiatrien i Region Midtjylland
- - [https://www.psykiatrien.rm.dk](https://www.psykiatrien.rm.dk)
- - date_published: 2024-08-06T00:00:00+00:00
-
  ## Regional Udvikling - Region Midtjylland
- - [https://www.ru.rm.dk](https://www.ru.rm.dk)
+ - [https://ru.rm.dk](https://ru.rm.dk)
  - date_published: 2024-08-11T07:04:35.452225+00:00
 
  ## Sundhed - Region Midtjylland
- - [https://www.sundhed.rm.dk](https://www.sundhed.rm.dk)
+ - [https://sundhed.rm.dk](https://sundhed.rm.dk)
  - date_published: 2024-03-12T00:00:00+00:00
 
  ## Røde Kors | Altid til stede
@@ -2600,11 +2698,11 @@
  - date_published: 2025-01-22T15:45:33.679813+00:00
 
  ## Videnskabernes Selskab | Royal Academy
- - [https://www.royalacademy.dk](https://www.royalacademy.dk)
+ - [https://royalacademy.dk](https://royalacademy.dk)
  - date_published: 2024-07-22T10:16:37.982515+00:00
 
  ## Forside - Royalunibrew.dk
- - [http://royalbeer.dk](http://royalbeer.dk)
+ - [https://royalbeer.dk](https://royalbeer.dk)
  - date_published: 2024-06-25T16:50:11.367264+00:00
 
  ## Forside - Royalunibrew.dk
@@ -2616,7 +2714,7 @@
  - date_published: 2024-07-14T07:53:27.489288+00:00
 
  ## Rundvisning
- - [http://www.rundvisergruppen.dk](http://www.rundvisergruppen.dk)
+ - [https://rundvisergruppen.dk](https://rundvisergruppen.dk)
  - date_published: 2018-03-21T10:31:11+00:00
 
  ## Safelight
@@ -2636,7 +2734,7 @@
  - date_published: 2025-01-22T15:45:42.555174+00:00
 
  ## Sandbjerg Gods | Danmarks skønneste konferencecenter
- - [https://www.sandbjerg.dk](https://www.sandbjerg.dk)
+ - [https://sandbjerg.dk](https://sandbjerg.dk)
  - date_published: 2024-07-22T10:19:36.747171+00:00
 
  ## Pumps & macerators | SANIFLO
@@ -2656,8 +2754,9 @@
  - date_published: 2024-12-15T10:05:33.781161+00:00
 
  ## scheme.dk - Home of the blog Everything Scheme, Planet Scheme and Paste Scheme
- - [http://scheme.dk](http://scheme.dk)
+ - [https://scheme.dk](https://scheme.dk)
  - date_published: 2014-06-22T12:35:44+00:00
+ - date_dead_since: 2025-01-28T22:22:52.525670+00:00
 
  ## Hjem - Schiller Instituttet
  - [https://schillerinstitut.dk](https://schillerinstitut.dk)
@@ -2668,11 +2767,11 @@
  - date_published: 2025-01-16T16:06:36.145076+00:00
 
  ## Michael Schlenzig
- - [http://michael.schlenzig.dk](http://michael.schlenzig.dk)
+ - [https://michael.schlenzig.dk](https://michael.schlenzig.dk)
  - date_published: 2024-06-27T08:29:15.348994+00:00
 
  ## Bake-off leverandør til professionelle | Schulstad Bakery Solutions
- - [https://www.schulstadbakerysolutions.dk](https://www.schulstadbakerysolutions.dk)
+ - [https://schulstadbakerysolutions.dk](https://schulstadbakerysolutions.dk)
  - date_published: 2021-12-15T00:00:00+00:00
 
  ## Schultz
@@ -2696,23 +2795,25 @@
  - date_published: 2024-05-11T08:20:06.473545+00:00
 
  ## Personlighedstest
- - [https://www.oca.scientology.dk](https://www.oca.scientology.dk)
+ - [https://oca.scientology.dk](https://oca.scientology.dk)
  - date_published: 2024-06-17T16:40:54.326016+00:00
+ - date_dead_since: 2025-01-28T22:23:21.535477+00:00
 
  ## Scientology kirkens officielle hjemmeside: L. Ron Hubbard, Dianetics, Hvad er Scientology?, bøger, tro, David Miscavige
- - [http://www.scientology.dk](http://www.scientology.dk)
+ - [https://scientology.dk](https://scientology.dk)
  - date_published: 0001-01-01T00:00:00+00:00
 
  ## Religionen Scientology: Dens baggrund, teologi og religiøse udøvelse
- - [https://www.scientologyreligion.dk](https://www.scientologyreligion.dk)
+ - [https://scientologyreligion.dk](https://scientologyreligion.dk)
  - date_published: 2024-06-06T19:41:31.428696+00:00
+ - date_dead_since: 2025-01-28T22:23:24.577358+00:00
 
  ## SDU Bibliotek
  - [https://books.sdu.dk](https://books.sdu.dk)
  - date_published: 2024-04-30T02:45:47.330250+00:00
 
  ## VISL Corpuseye
- - [http://corp.hum.sdu.dk](http://corp.hum.sdu.dk)
+ - [https://corp.hum.sdu.dk](https://corp.hum.sdu.dk)
  - date_published: 2024-07-02T09:46:59.686392+00:00
 
  ## Sign in to your account
@@ -2726,6 +2827,7 @@
  ## Syddansk Universitet
  - [https://findresearcher.sdu.dk](https://findresearcher.sdu.dk)
  - date_published: 2024-07-22T09:40:45.684108+00:00
+ - date_dead_since: 2025-01-28T22:23:28.576195+00:00
 
  ## Sign in to your account
  - [https://indkob.sdu.dk](https://indkob.sdu.dk)
@@ -2742,10 +2844,12 @@
  ## Syddansk Universitet
  - [https://portal.findresearcher.sdu.dk](https://portal.findresearcher.sdu.dk)
  - date_published: 2024-04-30T02:45:49.397427+00:00
+ - date_dead_since: 2025-01-28T22:23:33.017591+00:00
 
  ## Syddansk Universitet
  - [https://sdu.dk](https://sdu.dk)
  - date_published: 2024-03-15T00:00:00+00:00
+ - date_dead_since: 2025-01-28T22:25:03.777425+00:00
 
  ## SDU Single Sign-On
  - [https://sso.sdu.dk](https://sso.sdu.dk)
@@ -2756,12 +2860,14 @@
  - date_published: 2024-01-08T00:00:00+00:00
 
  ## Sebastian Ly Serena
- - [http://sebastianlyserena.dk](http://sebastianlyserena.dk)
+ - [https://sebastianlyserena.dk](https://sebastianlyserena.dk)
  - date_published: 2024-07-13T15:00:30.485142+00:00
+ - date_dead_since: 2025-01-28T22:27:07.901243+00:00
 
  ## SektorCERT
  - [https://sektorcert.dk](https://sektorcert.dk)
  - date_published: 2023-11-12T14:44:45.072325+00:00
+ - date_dead_since: 2025-01-28T22:27:08.398770+00:00
 
  ## Sēlekkt.
  - [https://selekkt.dk](https://selekkt.dk)
@@ -2778,17 +2884,18 @@
  ## Forside
  - [https://seriousgames.dk](https://seriousgames.dk)
  - date_published: 2023-05-05T00:00:00+00:00
+ - date_dead_since: 2025-01-28T22:27:13.899533+00:00
 
  ## Folklore fra Eventyret, Rytmerne og Legens Verden
- - [https://www.shagembe.dk](https://www.shagembe.dk)
+ - [https://shagembe.dk](https://shagembe.dk)
  - date_published: 2023-11-29T12:47:05+00:00
 
  ## SHAPE Code Blog
- - [http://codeblog.shape.dk](http://codeblog.shape.dk)
+ - [https://codeblog.shape.dk](https://codeblog.shape.dk)
  - date_published: 2015-04-23T08:52:36+00:00
 
  ## This website is not in use yet – Domain hosted by Gigahost
- - [http://si-arkiv.dk](http://si-arkiv.dk)
+ - [https://si-arkiv.dk](https://si-arkiv.dk)
  - date_published: 2012-09-19T04:15:38+00:00
 
  ## SIDFX | The ultimate dual SID solution
@@ -2809,15 +2916,16 @@
  - date_published: 2024-07-22T10:05:24.892959+00:00
 
  ## SIVE
- - [http://sive.dk](http://sive.dk)
+ - [https://sive.dk](https://sive.dk)
  - date_published: 2024-07-13T17:59:01.814202+00:00
+ - date_dead_since: 2025-01-28T22:27:23.420619+00:00
 
  ## Biludlejning Danmark, Europa & hele verden - Sixt Billeje
  - [https://sixt.dk](https://sixt.dk)
  - date_published: 2024-06-14T00:00:00+00:00
 
  ## SIXT Bilsalg | Brugte biler med garanti
- - [https://www.sixtbilsalg.dk](https://www.sixtbilsalg.dk)
+ - [https://sixtbilsalg.dk](https://sixtbilsalg.dk)
  - date_published: 2024-08-23T00:00:00+00:00
 
  ## Garantifonden for skadesforsikringsselskaber
@@ -2829,7 +2937,7 @@
  - date_published: 2024-06-25T16:55:09.886836+00:00
 
  ## Kontor- og boligudvikling i Storkøbenhavn | www.skanska.dk
- - [https://www.skanska.dk](https://www.skanska.dk)
+ - [https://skanska.dk](https://skanska.dk)
  - date_published: 2024-06-29T00:00:00+00:00
 
  ## Forside - Skoleavis
@@ -2841,11 +2949,11 @@
  - date_published: 2024-04-30T02:44:38.122014+00:00
 
  ## Skousen - Stort udvalg af hvidevarer - Få prismatch*
- - [https://www.skousen.dk](https://www.skousen.dk)
+ - [https://skousen.dk](https://skousen.dk)
  - date_published: 2024-09-19T20:31:08.071392+00:00
 
  ## Skyscanner
- - [https://www.skyscanner.dk](https://www.skyscanner.dk)
+ - [https://skyscanner.dk](https://skyscanner.dk)
  - date_published: 2024-05-14T10:10:11+00:00
 
  ## Skab gode kundeoplevelser med den rette digitale løsning
@@ -2861,8 +2969,9 @@
  - date_published: 2024-05-07T12:51:45.018965+00:00
 
  ## Smukfest
- - [https://old.smukfest.dk](https://old.smukfest.dk)
+ - [http://old.smukfest.dk](http://old.smukfest.dk)
  - date_published: 2024-06-25T16:55:14.135277+00:00
+ - date_dead_since: 2025-01-28T22:28:03.189279+00:00
 
  ## Forside
  - [http://smukfest.dk](http://smukfest.dk)
@@ -2873,7 +2982,7 @@
  - date_published: 2024-06-25T16:54:36.011279+00:00
 
  ## Smukfonden | En del af Smukfest
- - [https://www.smukfonden.dk](https://www.smukfonden.dk)
+ - [https://smukfonden.dk](https://smukfonden.dk)
  - date_published: 2024-06-25T16:55:16.147655+00:00
 
  ## Smukshoppen
@@ -2881,7 +2990,7 @@
  - date_published: 2024-06-25T00:00:00+00:00
 
  ## Welcome
- - [http://www.snedkeriet-optimisten.dk](http://www.snedkeriet-optimisten.dk)
+ - [https://snedkeriet-optimisten.dk](https://snedkeriet-optimisten.dk)
  - date_published: 2020-03-03T11:43:17+00:00
 
  ## En destination – mange oplevelser
@@ -2901,11 +3010,11 @@
  - date_published: 2024-04-30T02:43:36.129785+00:00
 
  ## Sodan.dk
- - [http://www.sodan.dk](http://www.sodan.dk)
+ - [http://sodan.dk](http://sodan.dk)
  - date_published: 2023-12-09T00:00:00+00:00
 
  ## Søfartsstyrelsen
- - [https://www.soefartsstyrelsen.dk](https://www.soefartsstyrelsen.dk)
+ - [https://soefartsstyrelsen.dk](https://soefartsstyrelsen.dk)
  - date_published: 2024-09-04T15:37:22.643295+00:00
 
  ## Sourcing- og servicepartner til installation og industri
@@ -2913,8 +3022,9 @@
  - date_published: 2024-12-15T10:04:46.870531+00:00
 
  ## Sony Danmark | Seneste teknologinyheder | Elektronik | Underholdning
- - [http://www.sony.dk](http://www.sony.dk)
+ - [https://sony.dk](https://sony.dk)
  - date_published: 2024-10-21T07:37:24.561398+00:00
+ - date_dead_since: 2025-01-28T22:29:05.370902+00:00
 
  ## Sony Pictures Denmark | Homepage
  - [https://www.sonypictures.dk](https://www.sonypictures.dk)
@@ -2929,8 +3039,9 @@
  - date_published: 2025-01-22T02:39:16.081598+00:00
 
  ## SpaceController - new technology in music and graphic media
- - [http://spacecontroller.dk](http://spacecontroller.dk)
+ - [https://spacecontroller.dk](https://spacecontroller.dk)
  - date_published: 2024-02-08T21:47:23.123244+00:00
+ - date_dead_since: 2025-01-28T22:29:59.893648+00:00
 
  ## 🤑 Sparpedia.dk || Alle rabatkoder ⇒ opdateret dagligt
  - [https://sparpedia.dk](https://sparpedia.dk)
@@ -2943,18 +3054,21 @@
  ## Cierpliwości...
  - [https://spillehallen.dk](https://spillehallen.dk)
  - date_published: 2024-06-15T21:39:51.520708+00:00
+ - date_dead_since: 2025-01-29T05:20:41.593823+00:00
 
  ## Velkommen til Spillemyndigheden | Spillemyndigheden
- - [https://www.spillemyndigheden.dk](https://www.spillemyndigheden.dk)
+ - [https://spillemyndigheden.dk](https://spillemyndigheden.dk)
  - date_published: 2024-09-18T00:00:00+00:00
 
  ## Sparekassen Sjælland-Fyn - dit lokale pengeinstitut
  - [https://beta.spks.dk](https://beta.spks.dk)
  - date_published: 2024-09-19T20:34:03.355261+00:00
+ - date_dead_since: 2025-01-29T05:20:49.082643+00:00
 
  ## Kunderum
  - [https://kunderum.spks.dk](https://kunderum.spks.dk)
  - date_published: 2024-09-13T05:40:29+00:00
+ - date_dead_since: 2025-01-29T05:21:06.675869+00:00
 
  ## portal4.erhverv.spks.dk
  - [https://portal4.erhverv.spks.dk](https://portal4.erhverv.spks.dk)
@@ -2967,10 +3081,12 @@
  ## Sparekassen Sjælland-Fyn - Vi er dér, hvor du er
  - [https://spks.dk](https://spks.dk)
  - date_published: 2024-06-15T21:40:04.575980+00:00
+ - date_dead_since: 2025-01-29T05:21:14.222602+00:00
 
  ## Underskriftsrum
  - [https://underskriftsrum.spks.dk](https://underskriftsrum.spks.dk)
  - date_published: 2024-09-12T17:08:13+00:00
+ - date_dead_since: 2025-01-29T05:21:12.357484+00:00
 
  ## My Spreadshirt
  - [https://my.spreadshirt.dk](https://my.spreadshirt.dk)
@@ -2997,7 +3113,7 @@
  - date_published: 2024-02-09T00:00:00+00:00
 
  ## Statens Serum Institut
- - [https://www.ssi.dk](https://www.ssi.dk)
+ - [https://ssi.dk](https://ssi.dk)
  - date_published: 2024-06-21T00:00:00+00:00
 
  ## Sundhedsstyrelsen
@@ -3005,15 +3121,16 @@
  - date_published: 2023-10-25T18:46:10.089946+00:00
 
  ## S.Stenbæk Webudvikling
- - [https://sstenbaek.dk](https://sstenbaek.dk)
+ - [http://sstenbaek.dk](http://sstenbaek.dk)
  - date_published: 2024-05-11T10:04:58.399294+00:00
+ - date_dead_since: 2025-01-29T05:21:55.207503+00:00
 
  ## Staples - Online magasin der kommer helt tæt på
- - [http://www.staples.dk](http://www.staples.dk)
+ - [https://staples.dk](https://staples.dk)
  - date_published: 2024-08-05T21:53:58.996159+00:00
 
  ## STARK - Landsdækkende byggemarked og tømmerhandel med salg til både private og professionelle
- - [https://www.stark.dk](https://www.stark.dk)
+ - [https://stark.dk](https://stark.dk)
  - date_published: 2024-06-25T16:50:07.605587+00:00
 
  ## Station Next - Den danske ungdomsfilmskole - Station Next
@@ -3025,7 +3142,7 @@
  - date_published: 2025-01-16T19:52:18.953520+00:00
 
  ## Science, kropsidealer og astronomi. Oplevelser for alle aldre
- - [http://www.stenomuseet.dk](http://www.stenomuseet.dk)
+ - [https://stenomuseet.dk](https://stenomuseet.dk)
  - date_published: 2024-06-24T09:34:54.354758+00:00
 
  ## Design selv klistermærker og stickers!
@@ -3041,15 +3158,15 @@
  - date_published: 2024-05-12T07:47:39.652373+00:00
 
  ## Studiepraktik - prøv livet på en videregående uddannelse
- - [https://www.studiepraktik.dk](https://www.studiepraktik.dk)
+ - [https://studiepraktik.dk](https://studiepraktik.dk)
  - date_published: 2024-08-08T22:37:37.037574+00:00
 
  ## Stumfilm.dk
- - [https://www.stumfilm.dk](https://www.stumfilm.dk)
+ - [https://stumfilm.dk](https://stumfilm.dk)
  - date_published: 2024-07-02T22:48:08+00:00
 
  ## Home | Summer Sessions
- - [https://www.summer-session.dk](https://www.summer-session.dk)
+ - [https://summer-session.dk](https://summer-session.dk)
  - date_published: 2024-07-17T11:17:52.884786+00:00
 
  ## Master i Sundhedsantropologi – Københavns Universitet
@@ -3065,15 +3182,15 @@
  - date_published: 2024-06-15T01:28:10.652318+00:00
 
  ## SurveyXact
- - [https://www.survey-xact.dk](https://www.survey-xact.dk)
+ - [https://survey-xact.dk](https://survey-xact.dk)
  - date_published: 2024-07-22T10:07:07+00:00
 
  ## Home | Suset
- - [https://www.suset.dk](https://www.suset.dk)
+ - [https://suset.dk](https://suset.dk)
  - date_published: 2024-07-17T11:17:59.724549+00:00
 
  ## Svend Sømod
- - [http://svendsoemod.dk](http://svendsoemod.dk)
+ - [https://svendsoemod.dk](https://svendsoemod.dk)
  - date_published: 2023-12-08T10:34:33+00:00
 
  ## Tårnby Kommune
@@ -3093,7 +3210,7 @@
  - date_published: 2024-07-11T10:51:05.113131+00:00
 
  ## Færgefart, MiniCruise og sejlads i Østersøen | Tallink Silja Line
- - [http://www.tallink.dk](http://www.tallink.dk)
+ - [https://tallink.dk](https://tallink.dk)
  - date_published: 2024-10-14T00:00:00+00:00
 
  ## Blog | Tangram
@@ -3109,11 +3226,11 @@
  - date_published: 2023-07-16T00:00:00+00:00
 
  ## T-Shirt Printing - Tryk på tøj - Design dit eget tøj | TeamShirts
- - [https://www.teamshirts.dk](https://www.teamshirts.dk)
+ - [https://teamshirts.dk](https://teamshirts.dk)
  - date_published: 2024-10-21T09:03:49.150787+00:00
 
  ## Fagmedier - TechMedia
- - [http://www.techmedia.dk](http://www.techmedia.dk)
+ - [https://techmedia.dk](https://techmedia.dk)
  - date_published: 2024-10-19T05:54:03.419559+00:00
 
  ## Danmarks Tekniske Kulturarv
@@ -3129,23 +3246,24 @@
  - date_published: 2024-12-15T10:48:04+00:00
 
  ## Testfakta
- - [http://www.testfakta.dk](http://www.testfakta.dk)
+ - [https://testfakta.dk](https://testfakta.dk)
  - date_published: 2024-07-07T07:37:03.529254+00:00
 
  ## Home - theessence.dk
- - [http://www.theessence.dk](http://www.theessence.dk)
+ - [https://theessence.dk](https://theessence.dk)
  - date_published: 2024-09-12T17:22:20.879421+00:00
 
  ## Køkkenredskaber og køkkentilbehør online | KitchenLab
- - [https://www.thekitchenlab.dk](https://www.thekitchenlab.dk)
+ - [https://thekitchenlab.dk](https://thekitchenlab.dk)
  - date_published: 2024-10-03T08:49:02.225165+00:00
 
  ## The Local Denmark - News and practical guides in English
- - [https://www.thelocal.dk](https://www.thelocal.dk)
+ - [https://thelocal.dk](https://thelocal.dk)
  - date_published: 2024-05-06T15:16:51.406696+00:00
+ - date_dead_since: 2025-01-29T05:33:40.876975+00:00
 
  ## Join the evolution
- - [http://think.dk](http://think.dk)
+ - [https://think.dk](https://think.dk)
  - date_published: 2016-01-10T17:01:00+00:00
 
  ## Third Ear Podcast | Third Ear Studio
@@ -3161,7 +3279,7 @@
  - date_published: 2024-10-29T14:26:08.208418+00:00
 
  ## Thor Vestergaard Christiansen
- - [https://www.thorshammer.dk](https://www.thorshammer.dk)
+ - [https://thorshammer.dk](https://thorshammer.dk)
  - date_published: 2024-03-04T13:47:49+00:00
 
  ## Thurmer.dk - gevind værktøj i høj kvalitet direkte på fabrikken.
@@ -3189,7 +3307,7 @@
  - date_published: 2024-02-08T21:50:32.897108+00:00
 
  ## Forside
- - [http://www.tlamedia.dk](http://www.tlamedia.dk)
+ - [https://tlamedia.dk](https://tlamedia.dk)
  - date_published: 2023-06-02T00:00:00+00:00
 
  ## Welcome
@@ -3201,11 +3319,11 @@
  - date_published: 2024-05-09T08:16:08.547966+00:00
 
  ## Totalkredit - realkredit til private og erhverv - se her
- - [https://www.totalkredit.dk](https://www.totalkredit.dk)
+ - [https://totalkredit.dk](https://totalkredit.dk)
  - date_published: 2024-07-22T09:54:02.083914+00:00
 
  ## Toyota Danmarks officielle hjemmeside | Køb Toyota-biler her
- - [https://www.toyota.dk](https://www.toyota.dk)
+ - [https://toyota.dk](https://toyota.dk)
  - date_published: 2024-05-29T00:00:00+00:00
 
  ## OFS Management
@@ -3213,31 +3331,32 @@
  - date_published: 2024-10-16T16:26:43.806423+00:00
 
  ## Transskriber
- - [https://www.transskriber.dk](https://www.transskriber.dk)
+ - [https://transskriber.dk](https://transskriber.dk)
  - date_published: 2024-07-22T10:04:49.581676+00:00
 
  ## Trapeze - Teknologi til kollektiv trafik
- - [https://www.trapezegroup.dk](https://www.trapezegroup.dk)
+ - [https://trapezegroup.dk](https://trapezegroup.dk)
  - date_published: 2023-05-23T00:00:00+00:00
 
  ## tripadvisor.dk
- - [https://www.tripadvisor.dk](https://www.tripadvisor.dk)
+ - [https://tripadvisor.dk](https://tripadvisor.dk)
  - date_published: 2024-06-23T09:27:39.390464+00:00
 
  ## trivago.dk - Compare hotel prices worldwide
- - [https://www.trivago.dk](https://www.trivago.dk)
+ - [https://trivago.dk](https://trivago.dk)
  - date_published: 2024-09-04T11:21:16.294172+00:00
 
  ## TRSAC 2023
  - [https://trsac.dk](https://trsac.dk)
  - date_published: 2024-05-08T17:09:28.280815+00:00
+ - date_dead_since: 2025-01-29T05:34:38.735549+00:00
 
  ## Tuborgfondet støtter unge
- - [https://www.tuborgfondet.dk](https://www.tuborgfondet.dk)
+ - [https://tuborgfondet.dk](https://tuborgfondet.dk)
  - date_published: 2024-07-08T00:00:00+00:00
 
  ## Tulip - Danmarks ældste brand. Se vores opskriftsunivers
- - [https://www.tulip.dk](https://www.tulip.dk)
+ - [https://tulip.dk](https://tulip.dk)
  - date_published: 2024-06-25T16:54:28.393455+00:00
 
  ## Velkommen til Tupalo
@@ -3245,8 +3364,9 @@
  - date_published: 2025-01-17T14:44:53.685673+00:00
 
  ## Velkommen til Tupalo
- - [https://www.tupalo.dk](https://www.tupalo.dk)
+ - [https://tupalo.dk](https://tupalo.dk)
  - date_published: 2024-06-29T19:12:22.517109+00:00
+ - date_dead_since: 2025-01-29T05:35:06.608015+00:00
 
  ## Turistmonitor - dansk turismes uafhængige medie
  - [https://turistmonitor.dk](https://turistmonitor.dk)
@@ -3255,6 +3375,7 @@
  ## TV 2 Apps
  - [https://apps.kundeservice.tv2.dk](https://apps.kundeservice.tv2.dk)
  - date_published: 2024-07-22T09:28:15.284306+00:00
+ - date_dead_since: 2025-01-29T05:35:13.284678+00:00
 
  ## TV 2 - bedst på breaking og live
  - [https://auth.tv2.dk](https://auth.tv2.dk)
@@ -3281,7 +3402,7 @@
  - date_published: 2024-04-29T00:00:00+00:00
 
  ## TV 2 Nyheder | Få overblik over de seneste nyheder - TV 2
- - [http://nyhedsbreve.tv2.dk](http://nyhedsbreve.tv2.dk)
+ - [https://nyhedsbreve.tv2.dk](https://nyhedsbreve.tv2.dk)
  - date_published: 2024-07-22T09:33:32.984742+00:00
 
  ## Om TV 2
@@ -3291,10 +3412,12 @@
  ## Pakker og priser
  - [https://pakkerogpriser.kundeservice.tv2.dk](https://pakkerogpriser.kundeservice.tv2.dk)
  - date_published: 2024-07-22T09:33:19.016823+00:00
+ - date_dead_since: 2025-01-29T05:35:41.258353+00:00
 
  ## TV 2 Play
  - [https://play.kundeservice.tv2.dk](https://play.kundeservice.tv2.dk)
  - date_published: 2024-07-22T09:28:17.123729+00:00
+ - date_dead_since: 2025-01-29T05:35:45.753309+00:00
 
  ## TV 2 Play - Serier, nyheder og underholdning
  - [https://play.tv2.dk](https://play.tv2.dk)
@@ -3303,6 +3426,7 @@
  ## Cierpliwości...
  - [https://privatliv.tv2.dk](https://privatliv.tv2.dk)
  - date_published: 2024-04-30T02:47:34.606163+00:00
+ - date_dead_since: 2025-01-29T05:36:08.569381+00:00
 
  ## Søg på TV 2
  - [https://search.tv2.dk](https://search.tv2.dk)
@@ -3323,6 +3447,7 @@
  ## TV 2.dk
  - [https://tv2.kundeservice.tv2.dk](https://tv2.kundeservice.tv2.dk)
  - date_published: 2024-07-22T09:33:21.391773+00:00
+ - date_dead_since: 2025-01-29T05:58:04.548198+00:00
 
  ## TV-guide | Se komplet programoversigt for alle tv-kanaler her
  - [https://tvtid.tv2.dk](https://tvtid.tv2.dk)
@@ -3343,6 +3468,7 @@
  ## Vilkår
  - [https://vilkaar.kundeservice.tv2.dk](https://vilkaar.kundeservice.tv2.dk)
  - date_published: 2024-07-22T09:28:08.370335+00:00
+ - date_dead_since: 2025-01-29T05:58:46.208628+00:00
 
  ## Apollo Router
  - [https://play.tv2api.dk](https://play.tv2api.dk)
@@ -3373,7 +3499,7 @@
  - date_published: 2024-07-22T09:28:06.763575+00:00
 
  ## u-days
- - [http://www.udays.dk](http://www.udays.dk)
+ - [https://udays.dk](https://udays.dk)
  - date_published: 2024-07-22T10:15:12.044565+00:00
 
  ## udbud.dk
@@ -3409,7 +3535,7 @@
  - date_published: 2024-10-20T11:04:10.986416+00:00
 
  ## United Tickets - Billetter til Koncerter, Festivaler, Teateroplevelser og meget mere | United Tickets
- - [http://www.unitedtickets.dk](http://www.unitedtickets.dk)
+ - [https://unitedtickets.dk](https://unitedtickets.dk)
  - date_published: 2024-10-20T11:04:17.266807+00:00
 
  ## Forside
@@ -3433,7 +3559,7 @@
  - date_published: 2024-12-28T06:16:38+00:00
 
  ## Mit liv - Vejle Kommune
- - [https://www.vejle.dk](https://www.vejle.dk)
+ - [https://vejle.dk](https://vejle.dk)
  - date_published: 2024-07-05T00:00:00+00:00
 
  ## vejr & radar home
@@ -3461,11 +3587,11 @@
  - date_published: 2024-02-06T10:22:05+00:00
 
  ## Vetvision | Når din tid er for dyr – -> Provet Cloud
- - [https://www.vetvision.dk](https://www.vetvision.dk)
+ - [https://vetvision.dk](https://vetvision.dk)
  - date_published: 2024-07-18T14:49:27.394110+00:00
 
  ## Virus Help Denmark - Amiga antivirus
- - [http://vht-dk.dk](http://vht-dk.dk)
+ - [https://vht-dk.dk](https://vht-dk.dk)
  - date_published: 2021-09-23T07:52:20+00:00
 
  ## The Animation Workshop
@@ -3473,15 +3599,15 @@
  - date_published: 2024-12-31T06:15:06.323505+00:00
 
  ## NetScaler AAA
- - [http://fs.via.dk](http://fs.via.dk)
+ - [https://fs.via.dk](https://fs.via.dk)
  - date_published: 2024-07-04T15:32:14+00:00
 
  ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
- - [https://www.viagogo.dk](https://www.viagogo.dk)
+ - [https://viagogo.dk](https://viagogo.dk)
  - date_published: 2024-07-12T00:00:00+00:00
 
  ## Victron Energy
- - [https://www.victronenergy.dk](https://www.victronenergy.dk)
+ - [https://victronenergy.dk](https://victronenergy.dk)
  - date_published: 2024-06-21T18:32:26+00:00
 
  ## Nyheder om forskning og videnskab
@@ -3493,8 +3619,9 @@
  - date_published: 2025-01-22T13:14:35.778582+00:00
 
  ## Libre.vin – [Vin først, så natur]
- - [http://vinhacker.dk](http://vinhacker.dk)
+ - [https://vinhacker.dk](https://vinhacker.dk)
  - date_published: 2023-05-09T06:46:29+00:00
+ - date_dead_since: 2025-01-29T06:00:18.158950+00:00
 
  ## Vinted | Sælg og køb tøj, sko og tilbehør
  - [https://www.vinted.dk](https://www.vinted.dk)
@@ -3550,7 +3677,7 @@ I box, ...
  - date_published: 2024-07-22T17:53:48.310013+00:00
 
  ## Gaming udstyr - Det bedste gaming udstyr hos WEBdanes
- - [http://webdanes.dk](http://webdanes.dk)
+ - [https://webdanes.dk](https://webdanes.dk)
  - date_published: 2024-07-13T13:45:03.004862+00:00
 
  ## WEBinside - dit webbureau
@@ -3586,7 +3713,7 @@ I box, ...
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## WITTENSTEIN Danmark
- - [https://www.wittenstein.dk](https://www.wittenstein.dk)
+ - [https://wittenstein.dk](https://wittenstein.dk)
  - date_published: 2024-07-15T04:10:00.685323+00:00
 
  ## WODEN Sko • Køb WODEN Sneakers Online Her | WODEN
@@ -3634,11 +3761,11 @@ I box, ...
  - date_published: 2024-06-25T22:17:40.507111+00:00
 
  ## Lounge by Zalando – Online outlet med mode & livsstil
- - [https://www.zalando-lounge.dk](https://www.zalando-lounge.dk)
+ - [http://zalando-lounge.dk](http://zalando-lounge.dk)
  - date_published: 2024-09-26T00:00:00+00:00
 
  ## ZEISS i Danmark
- - [https://www.zeiss.dk](https://www.zeiss.dk)
+ - [https://zeiss.dk](https://zeiss.dk)
  - date_published: 2024-09-16T07:55:39.802955+00:00
 
  ## Zen Haven
@@ -3646,7 +3773,7 @@ I box, ...
  - date_published: 2024-11-20T00:00:00+00:00
 
  ## Zetland
- - [https://www.zetland.dk](https://www.zetland.dk)
+ - [https://zetland.dk](https://zetland.dk)
  - date_published: 2024-06-03T00:00:00+00:00
 
  ## Zoetis
@@ -3658,31 +3785,31 @@ I box, ...
  - date_published: 2024-09-26T11:25:09.459456+00:00
 
  ## Hundefoder, kattemad & tilbehør til kæledyr billigt på zooplus.dk
- - [https://www.zooplus.dk](https://www.zooplus.dk)
+ - [https://zooplus.dk](https://zooplus.dk)
  - date_published: 2024-06-16T06:27:51.930219+00:00
+
+ ## Google
+ - [https://google.dm](https://google.dm)
+ - date_published: 2024-06-21T22:25:25.232720+00:00
 
  ## Zanim przejdziesz do Map Google
  - [https://maps.google.dm](https://maps.google.dm)
  - date_published: 2024-07-20T07:38:31.393847+00:00
-
- ## Google
- - [https://www.google.dm](https://www.google.dm)
- - date_published: 2024-06-21T22:25:25.232720+00:00
 
  ## me.dm by Medium.com
  - [https://me.dm](https://me.dm)
  - date_published: 2024-05-01T05:42:33.983359+00:00
 
  ## 3M Ciencia. Aplicada a la vida. | 3M República Dominicana
- - [https://www.3m.com.do](https://www.3m.com.do)
+ - [https://3m.com.do](https://3m.com.do)
  - date_published: 2024-08-06T10:42:17.889426+00:00
 
  ## Audi República Dominicana | Vive el futuro de la movilidad premium
- - [https://www.audi.com.do](https://www.audi.com.do)
+ - [https://audi.com.do](https://audi.com.do)
  - date_published: 2024-07-19T20:44:16+00:00
 
  ## Chrysler
- - [http://www.chrysler.com.do](http://www.chrysler.com.do)
+ - [https://chrysler.com.do](https://chrysler.com.do)
  - date_published: 2024-06-19T09:09:17.891723+00:00
 
  ## Citroën República Dominicana: Automóviles Nuevos. Post Venta
@@ -3694,23 +3821,23 @@ I box, ...
  - date_published: 2024-06-22T11:59:00+00:00
 
  ## ESPN República Dominicana - Lo Último del Mundo Deportivo
- - [https://www.espn.com.do](https://www.espn.com.do)
+ - [https://espn.com.do](https://espn.com.do)
  - date_published: 2024-05-02T09:41:26.565027+00:00
+
+ ## Google
+ - [https://google.com.do](https://google.com.do)
+ - date_published: 2024-06-21T22:24:04.304136+00:00
 
  ## Grafika Google
  - [https://images.google.com.do](https://images.google.com.do)
  - date_published: 2024-07-20T07:38:33.741901+00:00
-
- ## Google
- - [https://www.google.com.do](https://www.google.com.do)
- - date_published: 2024-06-21T22:24:04.304136+00:00
 
  ## Hilti República Dominicana
  - [https://www.hilti.com.do](https://www.hilti.com.do)
  - date_published: 2025-01-17T19:58:40.264321+00:00
 
  ## IKEA Santo Domingo - Tienda online de muebles y decoración
- - [https://www.ikea.com.do](https://www.ikea.com.do)
+ - [https://ikea.com.do](https://ikea.com.do)
  - date_published: 2024-07-19T23:50:51.984396+00:00
 
  ## SUV y crossovers Jeep® | Sitio oficial de Jeep
@@ -3726,15 +3853,16 @@ I box, ...
  - date_published: 2024-09-10T13:56:48.243842+00:00
 
  ## Mercado Libre República Dominicana - Envíos Gratis en el día
- - [https://www.mercadolibre.com.do](https://www.mercadolibre.com.do)
+ - [https://mercadolibre.com.do](https://mercadolibre.com.do)
  - date_published: 2020-07-20T03:12:15+00:00
 
  ## Open... Operaciones y Entrenamiento
  - [https://open.com.do](https://open.com.do)
  - date_published: 2022-09-24T02:22:05+00:00
+ - date_dead_since: 2025-01-29T06:16:10.587129+00:00
 
  ## Camionetas RAM | Es temporada de Ram
- - [http://www.ramtrucks.com.do](http://www.ramtrucks.com.do)
+ - [https://ramtrucks.com.do](https://ramtrucks.com.do)
  - date_published: 2024-06-19T09:10:50.902665+00:00
 
  ## restaurantenoah
@@ -3750,7 +3878,7 @@ I box, ...
  - date_published: 2024-09-13T10:42:44.304231+00:00
 
  ## Sony República Dominicana  | Últimas noticias sobre tecnología | Productos electrónicos | Entretenimiento
- - [http://www.sony.com.do](http://www.sony.com.do)
+ - [https://sony.com.do](https://sony.com.do)
  - date_published: 2024-10-21T07:38:05.532662+00:00
 
  ## Visa, un líder confiable en pagos digitales
@@ -3758,7 +3886,7 @@ I box, ...
  - date_published: 2024-05-12T04:00:04.501872+00:00
 
  ## home
- - [https://www.alfaromeo.do](https://www.alfaromeo.do)
+ - [https://alfaromeo.do](https://alfaromeo.do)
  - date_published: 2024-05-28T10:27:42+00:00
 
  ## Alfredo Lopez
@@ -3831,11 +3959,12 @@ I box, ...
  - date_published: 2024-07-03T02:56:04.505941+00:00
 
  ## Capterra te ayuda a encontrar el software adecuado para tu empresa
- - [https://www.capterra.do](https://www.capterra.do)
+ - [https://capterra.do](https://capterra.do)
  - date_published: 2024-07-20T19:26:53.166770+00:00
+ - date_dead_since: 2025-01-29T06:18:16.792636+00:00
 
  ## Linkbynet - En construction
- - [https://www.citroenorigins.do](https://www.citroenorigins.do)
+ - [https://citroenorigins.do](https://citroenorigins.do)
  - date_published: 2018-04-18T13:00:13+00:00
 
  ## Regalos originales y artefactos geniales tienda online | Cool Mania E-Shop
@@ -3857,13 +3986,14 @@ I box, ...
  ## Craft
  - [https://support.craft.do](https://support.craft.do)
  - date_published: 2024-07-18T23:14:28.643253+00:00
+ - date_dead_since: 2025-01-29T06:18:28.373749+00:00
 
  ## Daniel Immke’s Personal Website
  - [https://daniel.do](https://daniel.do)
  - date_published: 2023-10-25T18:46:19.691750+00:00
 
  ## Dianética: La Ciencia Moderna de la Salud Mental
- - [https://www.dianetics.do](https://www.dianetics.do)
+ - [https://dianetics.do](https://dianetics.do)
  - date_published: 2024-09-04T18:05:01.248951+00:00
 
  ## Discord.Do – Unofficial Discord site
@@ -3875,11 +4005,12 @@ I box, ...
  - date_published: 2023-01-06T20:51:55+00:00
 
  ## Yuliang Xiu 修宇亮
- - [http://endless.do](http://endless.do)
+ - [https://endless.do](https://endless.do)
  - date_published: 2024-06-18T15:45:35+00:00
+ - date_dead_since: 2025-01-29T06:19:02.898054+00:00
 
  ## Falcondo
- - [https://www.falcondo.do](https://www.falcondo.do)
+ - [https://falcondo.do](https://falcondo.do)
  - date_published: 2024-09-12T14:06:14.770345+00:00
 
  ## Forbes República Dominicana
@@ -3911,8 +4042,9 @@ I box, ...
  - date_published: 2023-02-08T00:00:00+00:00
 
  ## HUNDO  — Infrastructure for the New Economy
- - [https://hun.do](https://hun.do)
+ - [http://hun.do](http://hun.do)
  - date_published: 2024-06-07T15:26:39+00:00
+ - date_dead_since: 2025-01-29T20:52:28.734325+00:00
 
  ## Ichido Blog
  - [https://blog.ichi.do](https://blog.ichi.do)
@@ -3925,22 +4057,25 @@ I box, ...
  ## Ichido
  - [https://metaverse.ichi.do](https://metaverse.ichi.do)
  - date_published: 2024-04-30T02:48:04.170623+00:00
+ - date_dead_since: 2025-01-29T20:52:41.734936+00:00
 
  ## IDZ.DO - skróć swój link. Po polsku.
- - [http://idz.do](http://idz.do)
+ - [https://idz.do](https://idz.do)
  - date_published: 2024-08-07T08:23:15+00:00
 
  ## 真的笑鼠人了！
  - [https://index.do](https://index.do)
  - date_published: 2023-10-02T16:38:46+00:00
+ - date_dead_since: 2025-01-29T20:52:45.261925+00:00
 
  ## Become Playfully Purposeful - Intend app
  - [https://intend.do](https://intend.do)
  - date_published: 2024-06-21T20:07:29.651079+00:00
 
  ## Jamendo Music | Free music downloads
- - [http://jamen.do](http://jamen.do)
+ - [https://jamen.do](https://jamen.do)
  - date_published: 2024-07-10T09:43:43.717699+00:00
+ - date_dead_since: 2025-01-29T20:52:48.486873+00:00
 
  ## Jonas Downey | digital goods & greats
  - [https://jonas.do](https://jonas.do)
@@ -3957,65 +4092,4 @@ I box, ...
  ## Home | Komodo
  - [https://komo.do](https://komo.do)
  - date_published: 2024-09-07T15:52:06+00:00
-
- ## LOS40 República Dominicana
- - [https://los40.do](https://los40.do)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Escucha LOS40 República Dominicana en directo
- - [http://play.los40.do](http://play.los40.do)
- - date_published: 2024-09-12T22:04:36.413179+00:00
-
- ## Alejandro Machado – Projects
- - [https://alejandro.macha.do](https://alejandro.macha.do)
- - date_published: 2019-07-22T13:49:42+00:00
-
- ## Generate your SaaS Landing Page in minutes with No Code
- - [https://maze.do](https://maze.do)
- - date_published: 2024-12-15T09:57:20.133920+00:00
-
- ## Pronóstico del tiempo 14 días - Meteored
- - [https://www.meteored.do](https://www.meteored.do)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## MiguelPimentel.do
- - [https://miguelpimentel.do](https://miguelpimentel.do)
- - date_published: 2024-06-01T04:50:36.379959+00:00
- - tags: ['personal']
-
- ## Distribuidor de Componentes Electrónicos - Mouser Electronics República Dominicana
- - [https://www.mouser.do](https://www.mouser.do)
- - date_published: 2024-07-01T20:56:33.582432+00:00
-
- ## hello://nan.do/rossi {open for work}
- - [https://nan.do](https://nan.do)
- - date_published: 2024-02-12T14:44:03+00:00
-
- ## nar.do - Nardo Leung's Production
- - [https://nar.do](https://nar.do)
- - date_published: 2024-04-05T09:12:15+00:00
-
- ## Página oficial | Nestlé Dominicana
- - [https://www.nestle.do](https://www.nestle.do)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## AI Visual Sitemap Builder Tool, Website Planner, Architecture
- - [https://octopus.do](https://octopus.do)
- - date_published: 2024-06-20T13:38:31+00:00
-
- ## Odismet
- - [https://www.odismet.do](https://www.odismet.do)
- - date_published: 2024-09-12T11:54:45.144789+00:00
-
- ## Ooredoo Corporate
- - [http://ore.do](http://ore.do)
- - date_published: 2015-10-23T07:57:39+00:00
-
- ## Practice Help Center
- - [https://help.practice.do](https://help.practice.do)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Practice - Simple Client Management Software
- - [https://practice.do](https://practice.do)
- - date_published: 2024-04-21T00:00:00+00:00
 

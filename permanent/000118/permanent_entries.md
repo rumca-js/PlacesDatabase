@@ -1,3 +1,11 @@
+ ## Elevate Website
+ - [https://elevatewebsite.com](https://elevatewebsite.com)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Elevation Burger
+ - [https://www.elevationburger.com](https://www.elevationburger.com)
+ - date_published: 2024-09-09T16:36:14.077818+00:00
+
  ## Elevation Journeys – Elevate Your Faith
  - [http://elevationjourneys.com](http://elevationjourneys.com)
  - date_published: 2024-09-02T13:25:30.083201+00:00
@@ -4034,12 +4042,4 @@
  ## EM Normandie - Caen, Le Havre, Paris, Boston, Dubaï, Dublin, Oxford
  - [https://de.em-normandie.com](https://de.em-normandie.com)
  - date_published: 2024-07-03T05:32:54+00:00
-
- ## EM Normandie | Ecole de commerce | Business School
- - [https://em-normandie.com](https://em-normandie.com)
- - date_published: 2024-05-08T00:26:33.386216+00:00
-
- ## EM Normandie Business School
- - [https://en.em-normandie.com](https://en.em-normandie.com)
- - date_published: 2024-07-03T04:11:28+00:00
 

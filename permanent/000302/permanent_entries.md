@@ -1,3 +1,56 @@
+ ## Home —
+    Multimedia Analysis and Data Mining Research Group
+ - [http://madm.dfki.de](http://madm.dfki.de)
+ - date_published: 2024-07-02T13:34:28.998296+00:00
+
+ ## Sign in - Matomo
+ - [https://webstat-kl.dfki.de](https://webstat-kl.dfki.de)
+ - date_published: 2024-07-24T06:00:21.416021+00:00
+
+ ## KI für den Menschen – Intelligente Lösungen für die Wissensgesellschaft
+ - [https://www-live.dfki.de](https://www-live.dfki.de)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Startseite
+ - [https://robotik.dfki-bremen.de](https://robotik.dfki-bremen.de)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Pexip Connect for Web
+ - [https://conf.dfn.de](https://conf.dfn.de)
+ - date_published: 2024-07-01T16:29:25+00:00
+
+ ## Create your own polls - Terminplaner 4.1
+ - [https://terminplaner2.dfn.de](https://terminplaner2.dfn.de)
+ - date_published: 2024-05-08T12:15:13.693660+00:00
+
+ ## Create and share meeting polls | DFN-Terminplaner
+ - [https://terminplaner6.dfn.de](https://terminplaner6.dfn.de)
+ - date_published: 2024-07-08T17:20:39.788808+00:00
+
+ ## Create your own polls - Terminplaner 4.1
+ - [https://terminplaner.dfn.de](https://terminplaner.dfn.de)
+ - date_published: 2024-07-24T03:40:31.009224+00:00
+
+ ## Startseite - DFN
+ - [http://www.dfn.de](http://www.dfn.de)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Forschung, Beratung und Dienstleistung für mehr Sicherheit im Internet
+ - [https://www.dfn-cert.de](https://www.dfn-cert.de)
+ - date_published: 2024-08-10T15:30:04+00:00
+
+ ## Startseite - Deutscher Fundraising Verband
+ - [https://dfrv.de](https://dfrv.de)
+ - date_published: 2025-01-21T00:01:37.397063+00:00
+
+ ## Startseite - Deutscher Fundraising Verband
+ - [https://www.dfrv.de](https://www.dfrv.de)
+ - date_published: 2025-01-16T14:26:38.167782+00:00
+
+ ## Wir sind der Deutsche Gewerkschaftsbund
+ - [http://jugend-nord.dgb.de](http://jugend-nord.dgb.de)
+ - date_published: 2024-09-12T15:59:17.879314+00:00
+
  ## Wir sind der Deutsche Gewerkschaftsbund
  - [https://www.dgb.de](https://www.dgb.de)
  - date_published: 2024-07-24T03:30:52.921456+00:00
@@ -3960,57 +4013,4 @@
  ## Depot-Vergleich 2024: Besten Online-Broker finden | FOCUS
  - [https://online-broker-vergleich.focus.de](https://online-broker-vergleich.focus.de)
  - date_published: 2024-09-18T17:35:09.129257+00:00
-
- ## Focus Kiosk
- - [https://pdf.focus.de](https://pdf.focus.de)
- - date_published: 2024-09-18T17:34:29.527315+00:00
-
- ## Ratgeber zu Problemen mit Technik, Internet, Windows, iPhone, Android, MS Office, Bad, Garage, Garten, Hobbyraum, Kueche, Smarthome | FOCUS.de
- - [https://praxistipps.focus.de](https://praxistipps.focus.de)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## 
-					FOCUS online
- - [https://rss.focus.de](https://rss.focus.de)
- - date_published: 2024-09-18T17:34:50+00:00
-
- ## FOCUS online - Nachrichten
- - [https://static.focus.de](https://static.focus.de)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Tagesgeld-Vergleich 09/2024: Beste Zinsen beim Tagesgeldkonto | FOCUS
- - [https://tagesgeld.focus.de](https://tagesgeld.focus.de)
- - date_published: 2024-09-18T17:34:39.207730+00:00
-
- ## Tarifrechner Mobilfunk - Tarife - Digital
- - [https://tarife.focus.de](https://tarife.focus.de)
- - date_published: 2024-09-18T17:35:14.401102+00:00
-
- ## Unternehmen - Produkte, Services, Angebote - FOCUS.de
- - [https://unternehmen.focus.de](https://unternehmen.focus.de)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## FOCUS Online Produktvergleiche
- - [https://vergleich.focus.de](https://vergleich.focus.de)
- - date_published: 2024-09-18T17:35:07.494934+00:00
-
- ## Interactive Brand Page
- - [https://v.focus.de](https://v.focus.de)
- - date_published: 2024-07-22T15:20:33+00:00
-
- ## FOCUS | Bis zu 200 € Prämie sichern | Offizieller Abo-Shop
- - [https://focus-abo.de](https://focus-abo.de)
- - date_published: 2024-09-18T17:35:10.433999+00:00
-
- ## FOCUS GESUNDHEIT
- - [https://focus-arztsuche.de](https://focus-arztsuche.de)
- - date_published: 2024-06-22T20:48:37.599657+00:00
-
- ## FOCUS BUSINESS
- - [https://focusbusiness.de](https://focusbusiness.de)
- - date_published: 2024-09-18T17:35:30.096310+00:00
-
- ## FOCUS - Das Nachrichtenmagazin
- - [https://www.focus-magazin.de](https://www.focus-magazin.de)
- - date_published: 2024-09-18T17:34:30.618417+00:00
 

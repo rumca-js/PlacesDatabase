@@ -1,3 +1,27 @@
+ ## Institute of Professional Representatives before the European Patent Office - epi
+ - [https://patentepi.com](https://patentepi.com)
+ - date_published: 2024-07-20T13:02:49.803037+00:00
+
+ ## Patent Hawk: Prior Art Search +
+ - [http://www.patenthawk.com](http://www.patenthawk.com)
+ - date_published: 2024-10-19T06:12:05.224884+00:00
+
+ ## PatentJobs.com focuses on helping Law Firm related professionals find their next career at a business or institution.
+ - [https://patentjobs.com](https://patentjobs.com)
+ - date_published: 2025-01-10T16:32:50.410420+00:00
+
+ ## Patently-O, the nation's leading patent law blog
+ - [https://patentlyo.com](https://patentlyo.com)
+ - date_published: 2024-06-15T02:25:55.160448+00:00
+
+ ## PatentPal Draft
+ - [https://draft.patentpal.com](https://draft.patentpal.com)
+ - date_published: 2022-05-06T15:20:58+00:00
+
+ ## PatentPal
+ - [https://patentpal.com](https://patentpal.com)
+ - date_published: 2024-06-18T20:00:42+00:00
+
  ## Patentyourkiss
  - [https://patentyourkiss.com](https://patentyourkiss.com)
  - date_published: 2024-08-20T04:11:26.785308+00:00
@@ -4031,28 +4055,4 @@
  ## PEA Soup – A forum for discussing Philosophy, Ethics, and Academia
  - [https://peasoupblog.com](https://peasoupblog.com)
  - date_published: 2024-06-27T11:35:52+00:00
-
- ## Peated
- - [https://peated.com](https://peated.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Pricing and Features | Peatix
- - [http://about.peatix.com](http://about.peatix.com)
- - date_published: 2024-06-20T16:07:48+00:00
-
- ## APAC's Largest Speed Networking for Startups: Connect with 500+ Leaders
- - [https://apac-speed-networking-startup-grind.peatix.com](https://apac-speed-networking-startup-grind.peatix.com)
- - date_published: 2024-06-20T16:24:14.478308+00:00
-
- ## The Alliance Bank BizSmart® Business Conference 2024
- - [https://bizsmartconference2024.peatix.com](https://bizsmartconference2024.peatix.com)
- - date_published: 2024-06-20T16:24:06.279881+00:00
-
- ## Peatix Blog | イベント成功術！ 〜企画 x 運営 x 集客〜
- - [http://blog.peatix.com](http://blog.peatix.com)
- - date_published: 2024-06-20T15:31:15+00:00
-
- ## Support : Help attendee
- - [https://help-attendee.peatix.com](https://help-attendee.peatix.com)
- - date_published: 2024-06-18T00:00:00+00:00
 

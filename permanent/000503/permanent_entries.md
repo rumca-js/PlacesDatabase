@@ -1,3 +1,111 @@
+ ## Computer Engineering
+ - [https://www.cmpe.boun.edu.tr](https://www.cmpe.boun.edu.tr)
+ - date_published: 2024-11-22T15:22:09+00:00
+
+ ## SCÜ TÖMER
+ - [https://tomer.cumhuriyet.edu.tr](https://tomer.cumhuriyet.edu.tr)
+ - date_published: 2024-10-19T17:11:02.659131+00:00
+
+ ## Düzce Üniversitesi | Anasayfa
+ - [https://duzce.edu.tr](https://duzce.edu.tr)
+ - date_published: 2024-10-19T14:37:39.191489+00:00
+
+ ## İzmir Polen Alerji Bülteni
+ - [https://polenalerji.ege.edu.tr](https://polenalerji.ege.edu.tr)
+ - date_published: 2024-08-07T22:47:24.689389+00:00
+
+ ## Erciyes Üniversitesi ERÜ / KAYSERİ
+ - [https://www.erciyes.edu.tr](https://www.erciyes.edu.tr)
+ - date_published: 2024-10-19T17:02:42.011040+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Aday Öğrenci
+ - [https://adayogrenci.eskisehir.edu.tr](https://adayogrenci.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:34.078545+00:00
+
+ ## Eskişehir Teknik Üniversitesi
+ - [https://aktsadmin.eskisehir.edu.tr](https://aktsadmin.eskisehir.edu.tr)
+ - date_published: 2024-10-19T12:36:26.715969+00:00
+
+ ## Eskişehir Teknik Üniversitesi
+ - [https://akts.eskisehir.edu.tr](https://akts.eskisehir.edu.tr)
+ - date_published: 2024-05-02T10:24:59.988749+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Araştırma
+ - [https://arastirma.eskisehir.edu.tr](https://arastirma.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:43.442010+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Astrofizik Eğitim ve Araştırma Birimi
+ - [https://astrofizik.eskisehir.edu.tr](https://astrofizik.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:25.658985+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Atık Yönetim Sistemi
+ - [https://ays.eskisehir.edu.tr](https://ays.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:03:50.784460+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Bilimsel Araştırma Projeleri Komisyonu
+ - [https://bapk.eskisehir.edu.tr](https://bapk.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:29.061096+00:00
+
+ ## Başvuru Sistemi
+ - [http://basvuru.eskisehir.edu.tr](http://basvuru.eskisehir.edu.tr)
+ - date_published: 2024-10-19T12:36:31.301603+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Bilgi İşlem Daire Başkanlığı
+ - [https://bidb.eskisehir.edu.tr](https://bidb.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:32.636095+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Bilim ve Teknolojide Kadın Araştırma ve Uygulama Birimi
+ - [https://bitek.eskisehir.edu.tr](https://bitek.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:44.530343+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Botanik Uygulama ve Araştırma Birimi
+ - [https://botanik.eskisehir.edu.tr](https://botanik.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:19.489100+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Çocuk ve Genç Eğitimi Uygulama ve Araştırma Birimi
+ - [https://cogeb.eskisehir.edu.tr](https://cogeb.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:39.848658+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Covid 19
+ - [https://covid19.eskisehir.edu.tr](https://covid19.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:31.041034+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Döner Sermaye İşletme Müdürlüğü
+ - [https://donersermaye.eskisehir.edu.tr](https://donersermaye.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:45.537255+00:00
+
+ ## enVision - Giriş Sayfası
+ - [https://ebys.eskisehir.edu.tr](https://ebys.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:03:30.613357+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Engelli Destek Birimi
+ - [https://edb.eskisehir.edu.tr](https://edb.eskisehir.edu.tr)
+ - date_published: 2024-05-02T10:25:13.350675+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Eğitim
+ - [https://egitim.eskisehir.edu.tr](https://egitim.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:43.338978+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Anasayfa
+ - [https://eskisehir.edu.tr](https://eskisehir.edu.tr)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Eskişehir Teknik Üniversitesi - e-Gazetesi
+ - [https://estuaktif.eskisehir.edu.tr](https://estuaktif.eskisehir.edu.tr)
+ - date_published: 2024-05-02T10:24:58.742757+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Sağlık, Kültür ve Spor Daire Başkanlığı / Kampüs Rekreasyonu Ofisi
+ - [https://estukaro.eskisehir.edu.tr](https://estukaro.eskisehir.edu.tr)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Açık ve Uzaktan Eğitim Uygulama ve Araştırma Merkezi
+ - [http://estuzem.eskisehir.edu.tr](http://estuzem.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:04:41.237937+00:00
+
+ ## Eskişehir Teknik Üniversitesi - Fen Fakültesi
+ - [https://fen.eskisehir.edu.tr](https://fen.eskisehir.edu.tr)
+ - date_published: 2024-06-17T15:02:38.286826+00:00
+
  ## Eskişehir Teknik Üniversitesi
  - [https://giris.eskisehir.edu.tr](https://giris.eskisehir.edu.tr)
  - date_published: 2024-06-17T15:09:58.566640+00:00
@@ -3951,112 +4059,4 @@ NMHSs DIRECTORS
  ## Home - BIRTH LX
  - [https://lx.birth.tv](https://lx.birth.tv)
  - date_published: 2024-03-01T00:00:00+00:00
-
- ## BitRiver TV
- - [https://bitriver.tv](https://bitriver.tv)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## BLAZE TV UK – Take it on. Stream top TV for free.
- - [https://www.blaze.tv](https://www.blaze.tv)
- - date_published: 2024-10-20T12:28:53.387496+00:00
-
- ## Bloggingheads.tv
- - [http://bloggingheads.tv](http://bloggingheads.tv)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Bluey Official Website | Play Games, Watch Videos & More!
- - [https://www.bluey.tv](https://www.bluey.tv)
- - date_published: 2019-04-30T03:47:00+00:00
-
- ## Boardroom
- - [https://boardroom.tv](https://boardroom.tv)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Boardroom - Business of Sports | Entertainment | Culture
- - [https://shop.boardroom.tv](https://shop.boardroom.tv)
- - date_published: 2024-06-15T06:16:46.203742+00:00
-
- ## BOILER ROOM
- - [https://boilerroom.tv](https://boilerroom.tv)
- - date_published: 2024-07-03T16:00:11.251684+00:00
-
- ## BoxCast | Live Video Streaming for Organizations
- - [https://boxcast.tv](https://boxcast.tv)
- - date_published: 2024-07-11T13:09:59.672341+00:00
-
- ## HOME | BrandStorytelling.tv
- - [https://www.brandstorytelling.tv](https://www.brandstorytelling.tv)
- - date_published: 2025-01-01T22:41:44.115397+00:00
-
- ## Main home - BraveExtreme.tv
- - [https://brave-extreme.tv](https://brave-extreme.tv)
- - date_published: 2021-12-23T00:00:00+00:00
-
- ## News | Breaking Through
- - [https://breakingthrough.tv](https://breakingthrough.tv)
- - date_published: 2024-03-11T20:55:18.992816+00:00
-
- ## TargetVideo Video Platform
- - [https://cms.brid.tv](https://cms.brid.tv)
- - date_published: 2024-05-06T17:32:08.317595+00:00
-
- ## Getting Started with Video Platform
- - [https://developer.brid.tv](https://developer.brid.tv)
- - date_published: 2024-06-25T19:00:49.251417+00:00
-
- ## TargetVideo Home Page - 2024
- - [https://www.brid.tv](https://www.brid.tv)
- - date_published: 2024-06-25T11:55:35+00:00
-
- ## Brighteon.TV
- - [https://brighteon.tv](https://brighteon.tv)
- - date_published: 2024-07-03T18:57:43.030121+00:00
-
- ## Broadcast Cloud
- - [https://player.manage.broadcastcloud.tv](https://player.manage.broadcastcloud.tv)
- - date_published: 2024-05-04T12:31:46.791249+00:00
-
- ## BSD Now
- - [https://bsdnow.tv](https://bsdnow.tv)
- - date_published: 2024-05-01T05:30:25.030574+00:00
-
- ## BTi business technology
- - [http://www.bti.tv](http://www.bti.tv)
- - date_published: 2024-07-15T02:09:59+00:00
-
- ## Bulletproof Screenwriting // Training for Serious Screenwriters
- - [https://bulletproofscreenwriting.tv](https://bulletproofscreenwriting.tv)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Dapatkan Hadiah Senilai Jutaan Rupiah Khusus Member Zeus138
- - [http://bunsen.tv](http://bunsen.tv)
- - date_published: 2024-10-21T05:26:29.759044+00:00
-
- ## BURST PREMIUM NETWORK - Home
- - [https://www.burstnetwork.tv](https://www.burstnetwork.tv)
- - date_published: 2023-07-13T13:10:42+00:00
-
- ## Byline TV - Building a Better Media
- - [https://byline.tv](https://byline.tv)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## FrontDoor
- - [https://charlotte.cablecast.tv](https://charlotte.cablecast.tv)
- - date_published: 2024-06-29T15:55:38.654428+00:00
-
- ## Caffeine TV - Watch Live Sports
- - [https://www.caffeine.tv](https://www.caffeine.tv)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Camtec
- - [http://www.camtec.tv](http://www.camtec.tv)
- - date_published: 2024-07-04T06:48:20.211629+00:00
-
- ## Canale Europa TVhttps://static.wixstatic.com/media/4903ef_1b40fdff657449ccb3158c2e3c56e4f4~mv2.ico
- - [https://www.canaleeuropa.tv](https://www.canaleeuropa.tv)
- - date_published: 2024-07-20T18:10:46.310781+00:00
-
- ## Inicio
- - [https://www.canalinstitucional.tv](https://www.canalinstitucional.tv)
- - date_published: 2024-09-12T14:47:26.555533+00:00
 

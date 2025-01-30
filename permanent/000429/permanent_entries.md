@@ -1,3 +1,84 @@
+ ## QuakeStudies home | UC QuakeStudies
+ - [https://quakestudies.canterbury.ac.nz](https://quakestudies.canterbury.ac.nz)
+ - date_published: 2024-09-07T22:01:32+00:00
+
+ ## Home | University of Canterbury
+ - [http://www.canterbury.ac.nz](http://www.canterbury.ac.nz)
+ - date_published: 2024-09-06T20:02:03+00:00
+
+ ## Computer Science and Software Engineering department | University of Canterbury
+ - [http://www.cosc.canterbury.ac.nz](http://www.cosc.canterbury.ac.nz)
+ - date_published: 2024-06-22T21:09:03+00:00
+
+ ## The Dodd-Walls Centre | We aim to produce the next generation of light sources for scientific and industrial applications
+ - [https://www.doddwalls.ac.nz](https://www.doddwalls.ac.nz)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Auckland ICT Graduate School | In a collaboration between the University of Auckland and the University of Waikato, we've created two postgraduate programmes to develop smart, industry-ready ICT graduates who will meet this need.
+ - [http://www.ictgraduateschool.ac.nz](http://www.ictgraduateschool.ac.nz)
+ - date_published: 2024-07-24T03:15:31.577820+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [https://idp.lincoln.ac.nz](https://idp.lincoln.ac.nz)
+ - date_published: 2024-07-23T23:51:24+00:00
+
+ ## Home
+ - [https://macdiarmid.ac.nz](https://macdiarmid.ac.nz)
+ - date_published: 2018-12-24T22:10:58+00:00
+
+ ## Open Days
+ - [https://events.massey.ac.nz](https://events.massey.ac.nz)
+ - date_published: 2024-10-19T10:37:34.570088+00:00
+
+ ## Massey University
+ - [https://foundation.massey.ac.nz](https://foundation.massey.ac.nz)
+ - date_published: 2024-10-19T10:37:31.047544+00:00
+
+ ## IT Services
+ - [https://idp.massey.ac.nz](https://idp.massey.ac.nz)
+ - date_published: 2024-08-07T10:00:24.355353+00:00
+
+ ## Massey University of New Zealand - Te Kunenga ki Pūrehuroa
+ - [https://massey.ac.nz](https://massey.ac.nz)
+ - date_published: 2024-10-19T10:37:37.504981+00:00
+
+ ## The University of Auckland Login Service
+ - [https://www.myaucklanduni.ac.nz](https://www.myaucklanduni.ac.nz)
+ - date_published: 2024-07-24T03:15:14.169239+00:00
+
+ ## Department of Anatomy Home, Department of Anatomy | University of Otago
+ - [http://anatomy.otago.ac.nz](http://anatomy.otago.ac.nz)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Home
+		 - AskOtago Service Portal
+ - [https://ask.otago.ac.nz](https://ask.otago.ac.nz)
+ - date_published: 2024-08-18T15:07:24.372976+00:00
+
+ ## Blogging: University of Otago | University of Otago
+ - [https://blogs.otago.ac.nz](https://blogs.otago.ac.nz)
+ - date_published: 2024-06-19T16:53:57.788168+00:00
+
+ ## University of Otago
+ - [https://otago.ac.nz](https://otago.ac.nz)
+ - date_published: 2023-10-30T21:58:29.556224+00:00
+
+ ## Te Pūnaha Matatini
+ - [http://www.tepunahamatatini.ac.nz](http://www.tepunahamatatini.ac.nz)
+ - date_published: 2024-07-24T03:16:45.037852+00:00
+
+ ## The Inside Word at The University of Auckland
+ - [https://www.theinsideword.ac.nz](https://www.theinsideword.ac.nz)
+ - date_published: 2024-07-24T03:15:08.341519+00:00
+
+ ## Te Wānanga o Aotearoa | Bridging & Tertiary Courses NZ | TWoA
+ - [https://www.twoa.ac.nz](https://www.twoa.ac.nz)
+ - date_published: 2024-10-28T08:38:00.257903+00:00
+
+ ## Unitec Enrolment Portal
+ - [https://enrol.unitec.ac.nz](https://enrol.unitec.ac.nz)
+ - date_published: 2024-04-24T09:06:12+00:00
+
  ## UbiQuity
  - [https://e.unitec.ac.nz](https://e.unitec.ac.nz)
  - date_published: 2024-07-03T23:09:57.793224+00:00
@@ -3938,85 +4019,4 @@
  ## Funny food jokes for every food lovers!
  - [https://www.foodjokes.one](https://www.foodjokes.one)
  - date_published: 2024-07-02T00:00:00+00:00
-
- ## Forty Eight Point One
- - [https://fortyeight.one](https://fortyeight.one)
- - date_published: 2024-06-13T14:29:25+00:00
-
- ## Top 10+ Game Bài Đổi Thưởng Đẳng Cấp - Gamebai One Uy Tín Nhất
- - [https://gamebai.one](https://gamebai.one)
- - date_published: 2025-01-14T20:25:15.984722+00:00
-
- ## genes.one :: Genes :: The last organic API/UI framework
- - [https://genes.one](https://genes.one)
- - date_published: 2024-07-13T05:16:33.701520+00:00
-
- ## Build game changing AI | Coder One
- - [https://gocoder.one](https://gocoder.one)
- - date_published: 2024-01-31T21:50:58+00:00
-
- ## GQM: Got Questions Ministries
- - [https://gqm.one](https://gqm.one)
- - date_published: 2024-05-09T06:35:31.906340+00:00
-
- ## Greenfield Capital
- - [https://www.greenfield.one](https://www.greenfield.one)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## GUD ONE
- - [https://gud.one](https://gud.one)
- - date_published: 2023-12-16T18:30:12+00:00
-
- ## HAPI Protocol
- - [https://hapi.one](https://hapi.one)
- - date_published: 2024-12-06T20:10:44+00:00
-
- ## Harmony Mainnet blockchain explorer | Blockscout
- - [https://explorer.harmony.one](https://explorer.harmony.one)
- - date_published: 2024-09-23T23:48:16.919262+00:00
-
- ## Harmony Testnet blockchain explorer | Blockscout
- - [https://explorer.testnet.harmony.one](https://explorer.testnet.harmony.one)
- - date_published: 2024-09-23T14:48:27.327394+00:00
-
- ## Harmony Multisig Wallet
- - [https://multisig.harmony.one](https://multisig.harmony.one)
- - date_published: 2024-06-04T11:13:24+00:00
-
- ## Harmony – Open Consensus for 10B
- - [https://staking.harmony.one](https://staking.harmony.one)
- - date_published: 2025-01-22T23:45:49.762531+00:00
-
- ## 1.country
- - [https://www.harmony.one](https://www.harmony.one)
- - date_published: 2024-02-29T13:07:43+00:00
-
- ## Hatch: @camillastreeter
- - [https://camillastreeter.hatch.one](https://camillastreeter.hatch.one)
- - date_published: 2025-01-08T21:42:57.490993+00:00
-
- ## Hatch
- - [https://hatch.one](https://hatch.one)
- - date_published: 2025-01-22T05:04:13.778666+00:00
-
- ## IDChain  Explorer
- - [https://explorer.idchain.one](https://explorer.idchain.one)
- - date_published: 2024-09-24T09:12:52.051942+00:00
-
- ## IDChain  Explorer
- - [https://idchain.one](https://idchain.one)
- - date_published: 2024-09-23T18:47:41.868240+00:00
-
- ## Citizens Community
- - [https://community.inc.one](https://community.inc.one)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## We Are One | One Inc Cooperative
- - [https://inc.one](https://inc.one)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Installati.one
- - [https://installati.one](https://installati.one)
- - date_published: 2023-09-23T11:30:25+00:00
- - tags: ['tutorial', 'guide']
 

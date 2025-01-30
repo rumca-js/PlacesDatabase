@@ -1,3 +1,7 @@
+ ## ADTmag
+ - [https://adtmag.com](https://adtmag.com)
+ - date_published: 2024-05-07T10:29:43.542036+00:00
+
  ## adToken - Unlocking the Blockchain for Digital Advertising
  - [https://adtoken.com](https://adtoken.com)
  - date_published: 2024-12-26T13:20:27.635633+00:00
@@ -4013,8 +4017,4 @@
  ## Ahmed Ghazi Web Design + Code
  - [https://ahmedghazi.com](https://ahmedghazi.com)
  - date_published: 2024-06-20T16:27:42.428475+00:00
-
- ## Ahmed Ibrahim
- - [https://ahmed-ibrahim.com](https://ahmed-ibrahim.com)
- - date_published: 2024-05-11T10:18:58.771672+00:00
 

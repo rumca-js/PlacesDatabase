@@ -1,3 +1,63 @@
+ ## UpAcademy
+ - [https://upacademy.eu](https://upacademy.eu)
+ - date_published: 2024-03-14T08:51:55+00:00
+
+ ## Domain Details Page
+ - [http://www.upperdeck.eu](http://www.upperdeck.eu)
+ - date_published: 2024-10-15T15:17:21+00:00
+
+ ## Skrivande av uppsats, uppgift, referat, uppsatser, uppsatsen. Korrekturläsning
+ - [https://uppsats.eu](https://uppsats.eu)
+ - date_published: 2024-07-17T04:42:58.737648+00:00
+
+ ## Home
+ - [https://urbanaccessregulations.eu](https://urbanaccessregulations.eu)
+ - date_published: 2024-12-23T11:11:44+00:00
+
+ ## UltraStar Deluxe
+ - [https://usdx.eu](https://usdx.eu)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Galaxy
+ - [https://usegalaxy.eu](https://usegalaxy.eu)
+ - date_published: 2024-10-18T19:28:32.351372+00:00
+
+ ## Usercentrics | Leading in Data Privacy & Compliance
+ - [https://usercentrics.eu](https://usercentrics.eu)
+ - date_published: 2025-01-16T16:04:50.428372+00:00
+
+ ## European Vaccination Information Portal / Home page | European Vaccination Information Portal
+ - [https://vaccination-info.eu](https://vaccination-info.eu)
+ - date_published: 2024-05-26T08:06:05.274404+00:00
+
+ ## Václav Zoubek - bean counter for hire
+ - [https://vaclavzoubek.eu](https://vaclavzoubek.eu)
+ - date_published: 2024-07-29T21:28:08+00:00
+
+ ## Building unique octagonal "House with a heart" - Valgusekoda
+ - [https://www.valgusekoda.eu](https://www.valgusekoda.eu)
+ - date_published: 2024-06-30T21:09:12+00:00
+
+ ## Vallheru – Online RPG - Tekstowa gra w przeglądarce
+ - [https://vallheru.eu](https://vallheru.eu)
+ - date_published: 2024-06-28T19:50:21.176226+00:00
+
+ ## vanbaak.eu
+ - [https://vanbaak.eu](https://vanbaak.eu)
+ - date_published: 2020-04-10T08:23:48+00:00
+
+ ## Home | Koen Van Impe - vanimpe.eu | Rants on Security, CSIRT, Linux …
+ - [https://www.vanimpe.eu](https://www.vanimpe.eu)
+ - date_published: 2025-01-15T15:45:12.702969+00:00
+
+ ## My View - MantisBT
+ - [https://bugs.vcmi.eu](https://bugs.vcmi.eu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## VCMI Project Forums
+ - [https://forum.vcmi.eu](https://forum.vcmi.eu)
+ - date_published: 2024-05-05T00:00:00+00:00
+
  ## VCMI Project - Slack Invite Page
  - [https://slack.vcmi.eu](https://slack.vcmi.eu)
  - date_published: 2024-05-07T23:55:34.420927+00:00
@@ -1709,6 +1769,10 @@
  ## GoFetch: New side-channel attack using data memory-dependent prefetchers
  - [https://gofetch.fail](https://gofetch.fail)
  - date_published: 2024-03-21T14:51:18+00:00
+
+ ## New speculative attacks on Apple CPUs
+ - [https://predictors.fail](https://predictors.fail)
+ - date_published: 2025-01-28T18:31:34+00:00
 
  ## scheme.fail - Loko Scheme
  - [https://scheme.fail](https://scheme.fail)
@@ -3961,68 +4025,4 @@
  ## Jeep Suomi - Aito, kyvykäs ja turvallinen
  - [https://www.jeep.fi](https://www.jeep.fi)
  - date_published: 2015-07-12T14:50:38+00:00
-
- ## JLL Suomi | Johtava kiinteistöasiantuntija
- - [https://www.jll.fi](https://www.jll.fi)
- - date_published: 2024-10-30T21:40:54.902974+00:00
-
- ## Avoimet työpaikat
- - [https://www.jobly.fi](https://www.jobly.fi)
- - date_published: 2024-12-14T07:04:49+00:00
-
- ## joonas.fi
- - [https://joonas.fi](https://joonas.fi)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## https://jope.fi
- - [http://jope.fi](http://jope.fi)
- - date_published: 2023-10-20T13:04:07+00:00
-
- ## Jordi
- - [https://jordi.fi](https://jordi.fi)
- - date_published: 2024-12-12T08:02:47+00:00
-
- ## Etusivu
- - [https://www.jpframe.fi](https://www.jpframe.fi)
- - date_published: 2024-06-25T16:38:20.077456+00:00
-
- ## Etusivu - JSN
- - [https://www.jsn.fi](https://www.jsn.fi)
- - date_published: 2022-10-26T13:02:34+00:00
-
- ## Juri Pakaste: Blog
- - [https://juripakaste.fi](https://juripakaste.fi)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## JYSK | Huonekalut kotiin - Aina huipputarjouksia ✓
- - [https://jysk.fi](https://jysk.fi)
- - date_published: 2024-09-10T23:49:13.969344+00:00
-
- ## Shibboleth Authentication Request
- - [http://ezproxy.jyu.fi](http://ezproxy.jyu.fi)
- - date_published: 2024-07-03T03:51:34.511489+00:00
-
- ## Palveluportaali - Jyväskylän yliopisto
- - [https://help.jyu.fi](https://help.jyu.fi)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Jyväskylän yliopisto – University of Jyväskylä
- - [https://jybar.app.jyu.fi](https://jybar.app.jyu.fi)
- - date_published: 2024-07-03T03:51:16.819393+00:00
-
- ## Jyväskylän yliopisto
- - [https://jyu.fi](https://jyu.fi)
- - date_published: 2023-10-25T19:13:28.421480+00:00
-
- ## JYX
- - [https://jyx.jyu.fi](https://jyx.jyu.fi)
- - date_published: 2024-07-03T03:51:32.557633+00:00
-
- ## Jyväskylän yliopiston kirjasto
- - [https://kirjasto.jyu.fi](https://kirjasto.jyu.fi)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Koulutuksen tutkimuslaitos - etusivu
- - [https://ktl.jyu.fi](https://ktl.jyu.fi)
- - date_published: 2024-04-12T00:00:00+00:00
 

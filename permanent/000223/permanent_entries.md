@@ -1,3 +1,23 @@
+ ## ASCII Art and ANSI Art - Text Art by Roy/SAC - Superior Art Creations
+ - [http://www.roysac.com](http://www.roysac.com)
+ - date_published: 2024-06-23T17:17:07.735696+00:00
+
+ ## BACCARAT ONLINE : Daftar Link Situs Judi Live Casino Online Terbaru 2025
+ - [https://www.roysautoglassshop.com](https://www.roysautoglassshop.com)
+ - date_published: 2025-01-03T08:51:17+00:00
+
+ ## Photographs by Roy Tanck
+ - [https://photography.roytanck.com](https://photography.roytanck.com)
+ - date_published: 2024-04-28T05:53:40.319696+00:00
+
+ ## Roy Tanck
+ - [https://roytanck.com](https://roytanck.com)
+ - date_published: 2023-12-29T16:24:36.355595+00:00
+
+ ## rozenmd - building tools your team will love
+ - [https://rozenmd.com](https://rozenmd.com)
+ - date_published: 2024-08-19T07:57:23.151544+00:00
+
  ## Rozette - Artist based in Sacramento, California
  - [https://rozette.com](https://rozette.com)
  - date_published: 2024-02-19T00:00:00+00:00
@@ -4043,25 +4063,4 @@ Consulting
  ## Today's Home: Saanich Real Estate
  - [https://homes.saanichnews.com](https://homes.saanichnews.com)
  - date_published: 2024-06-29T11:37:53.713700+00:00
-
- ## Welcome to the Saanich News
- - [https://saanichnews.com](https://saanichnews.com)
- - date_published: 2024-05-07T10:43:05.404994+00:00
-
- ## Saari (not sorry)
- - [https://saarinotsorry.com](https://saarinotsorry.com)
- - date_published: 2023-12-11T10:57:12.973341+00:00
- - tags: ['personal']
-
- ## HOME - South Asian Academic Research Journals
- - [https://saarj.com](https://saarj.com)
- - date_published: 2024-09-02T05:35:09+00:00
-
- ## SaaS Academy Campus
- - [https://campus.saasacademy.com](https://campus.saasacademy.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## SaaS Academy Training Courses to Scale Your SaaS Business
- - [https://saasacademy.com](https://saasacademy.com)
- - date_published: 2024-06-09T20:46:02+00:00
 

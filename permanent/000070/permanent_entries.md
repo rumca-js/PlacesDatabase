@@ -1,3 +1,12 @@
+ ## BlizzCon
+ - [https://blizzcon.com](https://blizzcon.com)
+ - date_published: 2023-11-02T19:01:40.399355+00:00
+ - tags: ['convention']
+
+ ## blizzheart.com
+ - [https://blizzheart.com](https://blizzheart.com)
+ - date_published: 2024-08-19T12:33:47.834305+00:00
+
  ## Blizzplanet | News about World of Warcraf, Diablo 4, Diablo Immortal, and licensed products.
  - [https://blizzplanet.com](https://blizzplanet.com)
  - date_published: 2024-06-12T21:15:44+00:00
@@ -4005,13 +4014,4 @@
  ## All Kinds Drafting Service
  - [http://allkindsdrafting.blogspot.com](http://allkindsdrafting.blogspot.com)
  - date_published: 2024-03-12T23:17:50+00:00
-
- ## Blogger
- - [http://allordinary2.blogspot.com](http://allordinary2.blogspot.com)
- - date_published: 2024-12-13T08:12:21.424427+00:00
-
- ## All Over 2a
- - [https://allovertwoa.blogspot.com](https://allovertwoa.blogspot.com)
- - date_published: 2024-08-11T22:04:36.522958+00:00
- - tags: ['personal']
 

@@ -1,3 +1,11 @@
+ ## *The Essentials Of Cool*
+ - [http://youneedpeaceofmindheresapieceofmine.blogspot.com](http://youneedpeaceofmindheresapieceofmine.blogspot.com)
+ - date_published: 2024-03-29T22:28:59+00:00
+
+ ## Young American Poets | A poetry blog and online journal
+ - [http://youngamericanpoets.blogspot.com](http://youngamericanpoets.blogspot.com)
+ - date_published: 2024-11-01T08:44:44+00:00
+
  ## Nie znaleziono bloga
  - [http://young-lead.blogspot.com](http://young-lead.blogspot.com)
  - date_published: 2025-01-01T08:59:13.169265+00:00
@@ -4036,13 +4044,4 @@
  ## Bobby Digital
  - [https://bobbydigital.com](https://bobbydigital.com)
  - date_published: 2023-11-28T07:47:24+00:00
-
- ## LGOGOAL > Hadir Di Indonesia Sebagai Platform Situs Online Unggulan
- - [http://bobby-fritz.com](http://bobby-fritz.com)
- - date_published: 2025-01-22T07:07:19.910978+00:00
-
- ## Bobby's Blog
- - [https://bobbyhiltz.com](https://bobbyhiltz.com)
- - date_published: 2025-01-01T09:19:08.473364+00:00
- - tags: ['personal']
 

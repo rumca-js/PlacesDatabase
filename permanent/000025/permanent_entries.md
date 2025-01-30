@@ -1,3 +1,7 @@
+ ## Home - The Law Society of the Northwest Territories (QA)
+ - [http://www.lawsociety.nt.ca](http://www.lawsociety.nt.ca)
+ - date_published: 2024-08-20T00:00:00+00:00
+
  ## Home | Law Society of Nunavut
  - [http://lawsociety.nu.ca](http://lawsociety.nu.ca)
  - date_published: 2024-09-02T13:02:15.718473+00:00
@@ -4017,8 +4021,4 @@
  ## LOV3 Foundation
  - [http://lov3.cc](http://lov3.cc)
  - date_published: 2024-09-25T11:48:05.141710+00:00
-
- ## Lowpass
- - [https://lowpass.cc](https://lowpass.cc)
- - date_published: 2024-03-07T00:00:00+00:00
 

@@ -1,3 +1,43 @@
+ ## TheNyanpocalyse aka The Cephalopod King
+ - [https://thecephalopodqueen.tumblr.com](https://thecephalopodqueen.tumblr.com)
+ - date_published: 2024-12-13T10:19:46.274874+00:00
+
+ ## Paris Chanel
+ - [https://thechanelmuse.tumblr.com](https://thechanelmuse.tumblr.com)
+ - date_published: 2024-05-06T20:42:19.983279+00:00
+
+ ## The Chemistry Set
+ - [https://thechemistryset.tumblr.com](https://thechemistryset.tumblr.com)
+ - date_published: 2024-06-27T05:00:11.176276+00:00
+
+ ## The Clio
+ - [https://thecliofoundation.tumblr.com](https://thecliofoundation.tumblr.com)
+ - date_published: 2024-12-11T22:27:53.587973+00:00
+
+ ## Unbetitelt
+ - [https://thecluttercat.tumblr.com](https://thecluttercat.tumblr.com)
+ - date_published: 2024-10-23T08:03:22.492158+00:00
+
+ ## The Art Showcase
+ - [https://thecollectibles.tumblr.com](https://thecollectibles.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Concealed Weapon
+ - [https://theconcealedweapon.tumblr.com](https://theconcealedweapon.tumblr.com)
+ - date_published: 2024-06-27T03:51:26.929318+00:00
+
+ ## Tumblr
+ - [https://thecraftingfox.tumblr.com](https://thecraftingfox.tumblr.com)
+ - date_published: 2024-06-27T04:34:57.779059+00:00
+
+ ## Lost in Germany...
+ - [https://the-crow-in-the-blooming-tree.tumblr.com](https://the-crow-in-the-blooming-tree.tumblr.com)
+ - date_published: 2024-12-13T10:10:44.926184+00:00
+
+ ## the curiosity
+ - [https://thecuriositymovie.tumblr.com](https://thecuriositymovie.tumblr.com)
+ - date_published: 2024-10-25T21:50:59.101706+00:00
+
  ## The Daily Positivity Blog
  - [https://thedailypositivityblog.tumblr.com](https://thedailypositivityblog.tumblr.com)
  - date_published: 2024-12-13T10:25:20.777442+00:00
@@ -3985,44 +4025,4 @@ Students
  ## Impulsa a tus estudiantes a hacer su mejor trabajo original | Turnitin
  - [https://es.turnitin.com](https://es.turnitin.com)
  - date_published: 2024-10-23T04:12:01+00:00
-
- ## Permettre aux étudiants de fournir un travail original et de qualité | Turnitin
- - [https://fr.turnitin.com](https://fr.turnitin.com)
- - date_published: 2024-10-24T18:08:04+00:00
-
- ## Welcome to Turnitin Guides
- - [https://help.turnitin.com](https://help.turnitin.com)
- - date_published: 2024-12-23T06:53:36.335246+00:00
-
- ## APAC | Empower Students to Do Their Best, Original Work | Turnitin
- - [https://in.turnitin.com](https://in.turnitin.com)
- - date_published: 2024-09-18T07:17:32+00:00
-
- ## 최상의 독창적인 작업을 위해 학생을 지원합니다. | Turnitin
- - [https://kr.turnitin.com](https://kr.turnitin.com)
- - date_published: 2024-10-03T19:25:37+00:00
-
- ## Impulsa a tus estudiantes a hacer su mejor trabajo original | Turnitin
- - [https://latam.turnitin.com](https://latam.turnitin.com)
- - date_published: 2024-10-25T17:45:47+00:00
-
- ## Studenten ondersteunen bij het leveren van zo goed mogelijk origineel werk | Turnitin
- - [https://nld.turnitin.com](https://nld.turnitin.com)
- - date_published: 2024-09-23T16:19:53+00:00
-
- ## Öğrencileri En İyi, Özgün Çalışmalarını Yapmaları İçin Destekleyin | Turnitin
- - [https://tr.turnitin.com](https://tr.turnitin.com)
- - date_published: 2024-09-26T13:42:33+00:00
-
- ## Empower Students to Do Their Best, Original Work | Turnitin
- - [https://turnitin.com](https://turnitin.com)
- - date_published: 2024-06-18T13:17:15+00:00
-
- ## Turnkey
- - [https://app.turnkey.com](https://app.turnkey.com)
- - date_published: 2024-08-08T03:11:45.956123+00:00
-
- ## Overview | Turnkey Documentation
- - [https://docs.turnkey.com](https://docs.turnkey.com)
- - date_published: 2024-08-08T03:11:44.993314+00:00
 

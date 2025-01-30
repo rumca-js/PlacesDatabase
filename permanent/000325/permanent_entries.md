@@ -1,3 +1,63 @@
+ ## MUSC Hollings Cancer Center
+ - [https://hollingscancercenter.musc.edu](https://hollingscancercenter.musc.edu)
+ - date_published: 2024-05-11T07:20:15.446722+00:00
+
+ ## Sign In
+ - [https://horseshoe.musc.edu](https://horseshoe.musc.edu)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [http://illiad.library.musc.edu](http://illiad.library.musc.edu)
+ - date_published: 2024-07-13T12:09:02.625674+00:00
+
+ ## Current Job Openings - MUSC Library
+ - [https://jobs.library.musc.edu](https://jobs.library.musc.edu)
+ - date_published: 2024-07-13T12:09:06.054972+00:00
+
+ ## MUSC LIBRARIES
+ - [https://library.musc.edu](https://library.musc.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Sign In
+ - [http://life.musc.edu](http://life.musc.edu)
+ - date_published: 2024-07-13T12:07:46.442351+00:00
+
+ ## Sign In
+ - [https://lifenet.musc.edu](https://lifenet.musc.edu)
+ - date_published: 2024-07-13T12:08:03.048001+00:00
+
+ ## Sign In
+ - [https://lifeprod.musc.edu](https://lifeprod.musc.edu)
+ - date_published: 2024-07-13T12:09:01.212346+00:00
+
+ ## Redirecting...
+ - [http://mail.musc.edu](http://mail.musc.edu)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## The College of Medicine at MUSC
+ - [https://medicine.musc.edu](https://medicine.musc.edu)
+ - date_published: 2024-05-11T07:19:36.154751+00:00
+
+ ## Welcome to the Medical University of South Carolina
+ - [http://musc.edu](http://musc.edu)
+ - date_published: 2018-12-11T02:45:50+00:00
+
+ ## MyChart - Login Page
+ - [https://mychart.musc.edu](https://mychart.musc.edu)
+ - date_published: 2024-05-11T07:20:03.984490+00:00
+
+ ## Sign In
+ - [http://myrecords.musc.edu](http://myrecords.musc.edu)
+ - date_published: 2024-07-13T12:09:05.007350+00:00
+
+ ## MUSC NetID - Home
+ - [https://netid.musc.edu](https://netid.musc.edu)
+ - date_published: 2024-07-13T12:09:16.798887+00:00
+
+ ## College of Nursing
+ - [https://nursing.musc.edu](https://nursing.musc.edu)
+ - date_published: 2024-05-11T07:20:08.754055+00:00
+
  ## College of Pharmacy
  - [https://pharmacy.musc.edu](https://pharmacy.musc.edu)
  - date_published: 2024-05-11T07:20:17.642865+00:00
@@ -3941,64 +4001,4 @@
  ## Choose Your Affiliation - NYU Health Sciences Library
  - [https://www-sciencedirect-com.ezproxy.med.nyu.edu](https://www-sciencedirect-com.ezproxy.med.nyu.edu)
  - date_published: 2024-07-08T11:28:51.032311+00:00
-
- ## Choose Your Affiliation - NYU Health Sciences Library
- - [https://www-science-org.ezproxy.med.nyu.edu](https://www-science-org.ezproxy.med.nyu.edu)
- - date_published: 2024-07-08T11:28:31.507558+00:00
-
- ## NYU School of Professional Studies
- - [http://www.sps.nyu.edu](http://www.sps.nyu.edu)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## NYU Stern School of Business | Full-time MBA, Part-time (Langone) MBA, Undergraduate, PhD, Executive MBA Business Programs - NYU Stern
- - [http://www.stern.nyu.edu](http://www.stern.nyu.edu)
- - date_published: 2024-06-21T17:39:47+00:00
-
- ## Choose Your Affiliation - NYU Health Sciences Library
- - [https://www-unboundmedicine-com.ezproxy.med.nyu.edu](https://www-unboundmedicine-com.ezproxy.med.nyu.edu)
- - date_published: 2024-07-08T11:28:33.401895+00:00
-
- ## Homepage - Undergraduate Admissions - Oakland University
- - [https://apply.oakland.edu](https://apply.oakland.edu)
- - date_published: 2024-05-22T15:28:54+00:00
-
- ## Oakland University: Events Calendar
- - [https://calendar.oakland.edu](https://calendar.oakland.edu)
- - date_published: 2024-06-21T14:49:05+00:00
-
- ## Academic Catalog | Oakland University
- - [http://catalog.oakland.edu](http://catalog.oakland.edu)
- - date_published: 2024-03-25T14:56:18+00:00
-
- ## Oakland University Login
- - [https://ern.oakland.edu](https://ern.oakland.edu)
- - date_published: 2024-06-22T10:46:49.924421+00:00
-
- ## Oakland University Employment Site | Home
- - [https://jobs.oakland.edu](https://jobs.oakland.edu)
- - date_published: 2024-06-22T10:46:54+00:00
-
- ## OU Libraries
- - [https://library.oakland.edu](https://library.oakland.edu)
- - date_published: 2024-06-22T10:46:37.644339+00:00
-
- ## Oakland University
- - [https://oakland.edu](https://oakland.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Oakland University Login
- - [https://webmail.oakland.edu](https://webmail.oakland.edu)
- - date_published: 2024-06-22T10:47:13.042631+00:00
-
- ## Oberlin College and Conservatory | Oberlin College and Conservatory
- - [http://new.oberlin.edu](http://new.oberlin.edu)
- - date_published: 2021-01-22T14:51:57+00:00
-
- ## Oberlin College and Conservatory | Oberlin College and Conservatory
- - [http://www.oberlin.edu](http://www.oberlin.edu)
- - date_published: 2021-01-22T14:51:57+00:00
-
- ## Ouachita Baptist University
- - [https://obu.edu](https://obu.edu)
- - date_published: 2024-09-16T07:25:11.597267+00:00
 

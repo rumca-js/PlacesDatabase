@@ -1,3 +1,103 @@
+ ## Artificial Intelligence Development Company - QED Software
+ - [https://qed.pl](https://qed.pl)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## q13 - home
+ - [https://qfel13.pl](https://qfel13.pl)
+ - date_published: 2022-02-06T21:20:58+00:00
+
+ ## start
+ - [http://qrminiatures.pl](http://qrminiatures.pl)
+ - date_published: 2024-12-31T18:40:48+00:00
+
+ ## Produkcja filmów z budowy w technice timelapse - Qwor - Time Lapse Movies
+ - [http://qwor.pl](http://qwor.pl)
+ - date_published: 2024-08-18T17:08:27+00:00
+
+ ## Home - QZ Solutions - Nowoczesne rozwiązania dla rolnictwa
+ - [https://www.qzsolutions.pl](https://www.qzsolutions.pl)
+ - date_published: 2024-10-14T21:43:47.749479+00:00
+
+ ## Wakacje, wycieczki zagraniczne | Oferty | Biuro podróży Rainbow
+ - [https://r.pl](https://r.pl)
+ - date_published: 2024-12-30T02:00:57.645668+00:00
+
+ ## Agencja Interaktywna r360 | Digital marketing
+ - [https://www.r360.pl](https://www.r360.pl)
+ - date_published: 2024-08-18T14:57:18.213923+00:00
+
+ ## Teatr Lalek Rabcio |
+ - [http://teatr.rabcio.pl](http://teatr.rabcio.pl)
+ - date_published: 2024-07-09T13:22:49.332426+00:00
+
+ ## Strona główna - Centrum Kultury, Sportu i Promocji w Rabce-Zdroju
+ - [https://centrum-kultury.rabka.pl](https://centrum-kultury.rabka.pl)
+ - date_published: 2024-07-09T13:22:42.568610+00:00
+
+ ## Start
+ - [http://mok-archiwum.rabka.pl](http://mok-archiwum.rabka.pl)
+ - date_published: 2024-07-09T13:22:44+00:00
+
+ ## Strona główna - Centrum Kultury, Sportu i Promocji w Rabce-Zdroju
+ - [https://mok.rabka.pl](https://mok.rabka.pl)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Kino Śnieżka Rabka Zdrój
+ - [https://www.kino.rabka.pl](https://www.kino.rabka.pl)
+ - date_published: 2024-05-09T05:17:02.919093+00:00
+
+ ## Rabka Zdrój - Miasto na 4 pory roku
+ - [http://www.rabka.pl](http://www.rabka.pl)
+ - date_published: 2024-07-09T13:22:45.583643+00:00
+
+ ## Rabka Festival – Międzynarodowy Festiwal Literatury Dziecięcej
+ - [http://www.rabkafestival.pl](http://www.rabkafestival.pl)
+ - date_published: 2024-07-09T13:22:47.588598+00:00
+
+ ## Rachit Nigam | PhD Candidate, Cornell University
+ - [https://rachit.pl](https://rachit.pl)
+ - date_published: 2023-10-27T12:07:34.246036+00:00
+
+ ## Strona Urzędu Miasta w Raciborzu
+ - [https://www.raciborz.pl](https://www.raciborz.pl)
+ - date_published: 2024-07-14T05:27:34.412031+00:00
+
+ ## Ceremonie humanistyczne
+ - [http://ceremonie.racjonalista.pl](http://ceremonie.racjonalista.pl)
+ - date_published: 2009-07-28T11:19:42+00:00
+
+ ## Racjonalista - nauka, racjonalizm, wiara, felietony, forum, PSR
+ - [https://www.racjonalista.pl](https://www.racjonalista.pl)
+ - date_published: 2024-05-04T15:19:40.468916+00:00
+
+ ## Związek Stowarzyszeń Rada Reklamy (Kodeks Etyki Reklamy)
+ - [https://radareklamy.pl](https://radareklamy.pl)
+ - date_published: 2024-06-18T16:25:19+00:00
+
+ ## Sektorowa Rada Komunikacji Marketingowej
+ - [https://radasektorowa-komunikacja.pl](https://radasektorowa-komunikacja.pl)
+ - date_published: 2019-10-03T20:18:46+00:00
+
+ ## Kabiny prysznicowe, brodziki, producent | Radaway
+ - [https://www.radaway.pl](https://www.radaway.pl)
+ - date_published: 2024-07-13T19:03:42.806300+00:00
+
+ ## Darmowe radio internetowe i muzyka przesyłana strumieniowo online
+ - [https://www.radio.pl](https://www.radio.pl)
+ - date_published: 2024-07-01T10:54:34.277026+00:00
+
+ ## Istotne informacje oraz dokumenty spółek Grupy Radiowej Agory
+ - [http://radioagora.pl](http://radioagora.pl)
+ - date_published: 2024-08-18T16:52:44.134477+00:00
+
+ ## Radio BonTon Chełm 104.90 FM - najszybsze wiadomości lokalne
+ - [https://www.radiobonton.pl](https://www.radiobonton.pl)
+ - date_published: 2024-07-09T07:28:32.879530+00:00
+
+ ## Główna -
+ - [https://radiochrzescijanin.pl](https://radiochrzescijanin.pl)
+ - date_published: 2024-08-18T00:00:00+00:00
+
  ## Radio Emaus
  - [https://radioemaus.pl](https://radioemaus.pl)
  - date_published: 2024-05-26T15:51:26.740528+00:00
@@ -3982,105 +4082,4 @@
  ## Strona Główna
  - [https://regiony.tvp.pl](https://regiony.tvp.pl)
  - date_published: 2024-05-10T06:00:03.288700+00:00
-
- ## TVP.PL - Telewizja Polska S.A.
- - [https://rekrutacja.tvp.pl](https://rekrutacja.tvp.pl)
- - date_published: 2024-06-27T05:35:30.851124+00:00
-
- ## Telewizja Polska S.A.
- - [https://rodzinka.tvp.pl](https://rodzinka.tvp.pl)
- - date_published: 2024-06-27T05:36:05.595633+00:00
-
- ## Strona główna - tvp.pl - Telewizja Polska S.A.
- - [https://ropat.tvp.pl](https://ropat.tvp.pl)
- - date_published: 2024-05-10T05:59:27.701378+00:00
-
- ## Strona z programami rozrywkowymi i serialami - rozrywka.tvp.pl - Telewizja Polska S.A.
- - [https://rozrywka.tvp.pl](https://rozrywka.tvp.pl)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## TVP Seriale  - Telewizja Polska S.A.
- - [https://seriale.tvp.pl](https://seriale.tvp.pl)
- - date_published: 2024-05-06T20:45:30.025348+00:00
-
- ## Sklep TVP
- - [https://sklep.tvp.pl](https://sklep.tvp.pl)
- - date_published: 2024-05-10T06:00:07.057413+00:00
-
- ## TVP SPORT - transmisje, wyniki, na żywo, wiadomości sportowe
- - [https://sport.tvp.pl](https://sport.tvp.pl)
- - date_published: 2024-05-06T20:45:40.661228+00:00
-
- ## sprzedaz.tvp.pl - sprzedaz.tvp.pl [pl]
- - [https://sprzedaz.tvp.pl](https://sprzedaz.tvp.pl)
- - date_published: 2024-07-12T19:06:12.815756+00:00
-
- ## TVP Stream - Telewizja Polska S.A.
- - [https://stream.tvp.pl](https://stream.tvp.pl)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Telegazeta
- - [http://telegazeta.tvp.pl](http://telegazeta.tvp.pl)
- - date_published: 2024-06-27T05:35:32.659950+00:00
- - date_dead_since: 2024-12-29T20:20:07.122856+00:00
-
- ## TVP 1  - Telewizja Polska S.A.
- - [https://tvp1.tvp.pl](https://tvp1.tvp.pl)
- - date_published: 2024-05-06T20:45:34.147634+00:00
-
- ## TVP2  - Telewizja Polska S.A.
- - [https://tvp2.tvp.pl](https://tvp2.tvp.pl)
- - date_published: 2024-05-06T20:45:24.302486+00:00
-
- ## Strona Główna
- - [https://tvp3.tvp.pl](https://tvp3.tvp.pl)
- - date_published: 2024-05-06T20:45:43.796287+00:00
-
- ## TVP Kultura - Telewizja Polska S.A.
- - [https://tvpkultura.tvp.pl](https://tvpkultura.tvp.pl)
- - date_published: 2024-05-06T20:45:32.365041+00:00
-
- ## Strona główna - tvp.pl - Telewizja Polska S.A.
- - [https://tvp.pl](https://tvp.pl)
- - date_published: 2023-12-20T11:26:30.796033+00:00
-
- ## TVP Rozrywka  - Telewizja Polska S.A.
- - [https://tvprozrywka.tvp.pl](https://tvprozrywka.tvp.pl)
- - date_published: 2024-05-06T20:45:15.935406+00:00
-
- ## TVP Info - najnowsze informacje z kraju i ze świata, wideo, transmisje on-line i relacje na żywo.
- - [http://tygodnik.tvp.pl](http://tygodnik.tvp.pl)
- - date_published: 2024-05-06T20:45:25.585925+00:00
-
- ## Zaloguj się w TVP.PL
- - [https://user.tvp.pl](https://user.tvp.pl)
- - date_published: 2024-06-27T05:35:22.371100+00:00
-
- ## Vod.tvp.pl - oglądaj filmy, seriale, programy - Telewizja Polska S.A.
- - [https://vod.tvp.pl](https://vod.tvp.pl)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## The Voice Senior
- - [https://voicesenior.tvp.pl](https://voicesenior.tvp.pl)
- - date_published: 2024-06-27T05:35:50.943989+00:00
-
- ## The Voice of Poland
- - [https://voice.tvp.pl](https://voice.tvp.pl)
- - date_published: 2024-06-27T05:35:48.210541+00:00
-
- ## TVP Wilno
- - [https://wilno.tvp.pl](https://wilno.tvp.pl)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## TVP Parlament - Telewizja Polska SA
- - [https://tvpparlament.pl](https://tvpparlament.pl)
- - date_published: 2024-05-06T20:45:39.939302+00:00
-
- ## Sklep Telewizji Republika
- - [https://sklep.tvrepublika.pl](https://sklep.tvrepublika.pl)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Wiadomości z kraju i ze świata - TV Republika
- - [https://tvrepublika.pl](https://tvrepublika.pl)
- - date_published: 2024-01-08T11:26:00.067096+00:00
 

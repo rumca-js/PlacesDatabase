@@ -1,3 +1,63 @@
+ ## Choose Your Affiliation - NYU Health Sciences Library
+ - [https://www-science-org.ezproxy.med.nyu.edu](https://www-science-org.ezproxy.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:31.507558+00:00
+
+ ## NYU School of Professional Studies
+ - [http://www.sps.nyu.edu](http://www.sps.nyu.edu)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## NYU Stern School of Business | Full-time MBA, Part-time (Langone) MBA, Undergraduate, PhD, Executive MBA Business Programs - NYU Stern
+ - [http://www.stern.nyu.edu](http://www.stern.nyu.edu)
+ - date_published: 2024-06-21T17:39:47+00:00
+
+ ## Choose Your Affiliation - NYU Health Sciences Library
+ - [https://www-unboundmedicine-com.ezproxy.med.nyu.edu](https://www-unboundmedicine-com.ezproxy.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:33.401895+00:00
+
+ ## Homepage - Undergraduate Admissions - Oakland University
+ - [https://apply.oakland.edu](https://apply.oakland.edu)
+ - date_published: 2024-05-22T15:28:54+00:00
+
+ ## Oakland University: Events Calendar
+ - [https://calendar.oakland.edu](https://calendar.oakland.edu)
+ - date_published: 2024-06-21T14:49:05+00:00
+
+ ## Academic Catalog | Oakland University
+ - [http://catalog.oakland.edu](http://catalog.oakland.edu)
+ - date_published: 2024-03-25T14:56:18+00:00
+
+ ## Oakland University Login
+ - [https://ern.oakland.edu](https://ern.oakland.edu)
+ - date_published: 2024-06-22T10:46:49.924421+00:00
+
+ ## Oakland University Employment Site | Home
+ - [https://jobs.oakland.edu](https://jobs.oakland.edu)
+ - date_published: 2024-06-22T10:46:54+00:00
+
+ ## OU Libraries
+ - [https://library.oakland.edu](https://library.oakland.edu)
+ - date_published: 2024-06-22T10:46:37.644339+00:00
+
+ ## Oakland University
+ - [https://oakland.edu](https://oakland.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Oakland University Login
+ - [https://webmail.oakland.edu](https://webmail.oakland.edu)
+ - date_published: 2024-06-22T10:47:13.042631+00:00
+
+ ## Oberlin College and Conservatory | Oberlin College and Conservatory
+ - [http://new.oberlin.edu](http://new.oberlin.edu)
+ - date_published: 2021-01-22T14:51:57+00:00
+
+ ## Oberlin College and Conservatory | Oberlin College and Conservatory
+ - [http://www.oberlin.edu](http://www.oberlin.edu)
+ - date_published: 2021-01-22T14:51:57+00:00
+
+ ## Ouachita Baptist University
+ - [https://obu.edu](https://obu.edu)
+ - date_published: 2024-09-16T07:25:11.597267+00:00
+
  ## https://bookstore.occc.edu
  - [https://bookstore.occc.edu](https://bookstore.occc.edu)
  - date_published: 2024-02-08T21:52:39.432927+00:00
@@ -3944,66 +4004,4 @@
  ## Are You Ready to be a Boilermaker?
  - [https://admissions.purdue.edu](https://admissions.purdue.edu)
  - date_published: 2024-05-07T20:03:44.790424+00:00
-
- ## index
- - [https://ag.purdue.edu](https://ag.purdue.edu)
- - date_published: 2024-07-09T08:39:41+00:00
-
- ## Default - LibAnswers
- - [https://answers.lib.purdue.edu](https://answers.lib.purdue.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Apply to Purdue   - Undergraduate Admissions - Purdue University
- - [https://apply.purdue.edu](https://apply.purdue.edu)
- - date_published: 2024-05-07T20:04:00.875404+00:00
-
- ## Purdue Libraries Blogs
- - [http://blogs.lib.purdue.edu](http://blogs.lib.purdue.edu)
- - date_published: 2024-07-01T17:44:19.214269+00:00
-
- ## Checking your browser - reCAPTCHA
- - [https://boilerbot.purdue.edu](https://boilerbot.purdue.edu)
- - date_published: 2024-07-01T17:47:51.702041+00:00
-
- ## Mitchell E. Daniels, Jr. School of Business - Purdue Business
- - [https://business.purdue.edu](https://business.purdue.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## LibCal -
-        Purdue University Libraries
- - [https://calendar.lib.purdue.edu](https://calendar.lib.purdue.edu)
- - date_published: 2024-07-01T17:44:13.101469+00:00
-
- ## Events Calendar
- - [https://calendar.purdue.edu](https://calendar.purdue.edu)
- - date_published: 2024-07-01T17:47:48.944966+00:00
-
- ## Purdue Careers
- - [https://careers.purdue.edu](https://careers.purdue.edu)
- - date_published: 2024-05-07T20:02:49.622232+00:00
-
- ## Purdue University - Modern Campus Catalog™
- - [https://catalog.purdue.edu](https://catalog.purdue.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - 
-			 College of Liberal Arts -  Purdue University
- - [https://cla.purdue.edu](https://cla.purdue.edu)
- - date_published: 2024-05-11T09:34:20.003397+00:00
-
- ## Purdue Connect
- - [https://connect.purdue.edu](https://connect.purdue.edu)
- - date_published: 2023-07-02T17:40:16+00:00
-
- ## Department of Computer Science - Purdue University
- - [https://cs.purdue.edu](https://cs.purdue.edu)
- - date_published: 2024-05-07T20:03:26.833394+00:00
-
- ## The Data Mine
- - [https://datamine.purdue.edu](https://datamine.purdue.edu)
- - date_published: 2024-09-19T20:23:19.001227+00:00
-
- ## Purdue University - Dining & Culinary
- - [https://dining.purdue.edu](https://dining.purdue.edu)
- - date_published: 2024-05-07T20:04:22.231068+00:00
 

@@ -1,3 +1,61 @@
+ ## Fed Up
+ - [https://fed-up.fly.dev](https://fed-up.fly.dev)
+ - date_published: 2023-10-25T18:38:04.597888+00:00
+
+ ## WeChatGPT+
+ - [https://future-attejuvonen.fly.dev](https://future-attejuvonen.fly.dev)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## HN Hired
+ - [https://hnhired.fly.dev](https://hnhired.fly.dev)
+ - date_published: 2023-11-01T15:43:41.769111+00:00
+
+ ## Sign in - JLS Indiekit
+ - [https://jls-indiekit.fly.dev](https://jls-indiekit.fly.dev)
+ - date_published: 2024-08-17T07:03:40.158413+00:00
+
+ ## Lalacheck
+ - [https://lalacheck.fly.dev](https://lalacheck.fly.dev)
+ - date_published: 2024-11-05T17:00:24+00:00
+ - tags: ['online tool']
+
+ ## Reactive html apps in Go & alpine.js
+ - [https://livefir.fly.dev](https://livefir.fly.dev)
+ - date_published: 2023-10-25T18:38:06.116135+00:00
+
+ ## Lychee v5
+ - [https://lychee-demo.fly.dev](https://lychee-demo.fly.dev)
+ - date_published: 2024-05-04T15:14:17.452908+00:00
+
+ ## REM - REST API
+ - [https://mithril-rem.fly.dev](https://mithril-rem.fly.dev)
+ - date_published: 2024-07-01T05:19:44.854431+00:00
+
+ ## Login | Mouji
+ - [https://mouji.fly.dev](https://mouji.fly.dev)
+ - date_published: 2024-07-13T06:31:01.759192+00:00
+
+ ## Praise My GitHub Profile
+ - [https://praise-me.fly.dev](https://praise-me.fly.dev)
+ - date_published: 2024-08-04T16:28:22+00:00
+ - tags: ['github']
+
+ ## Primate - Polymorphic development platform
+ - [https://primate.fly.dev](https://primate.fly.dev)
+ - date_published: 2024-05-07T09:25:44.547950+00:00
+
+ ## Show HN: Quilt – Powerful RAG UI for Document QA
+ - [https://quilt.fly.dev](https://quilt.fly.dev)
+ - date_published: 2024-10-02T03:54:07+00:00
+
+ ## Login | Ryot
+ - [https://ryot.fly.dev](https://ryot.fly.dev)
+ - date_published: 2024-04-08T19:30:40.094101+00:00
+
+ ## SaasRock | The Remix SaaS Development Framework
+ - [https://saasrock.fly.dev](https://saasrock.fly.dev)
+ - date_published: 2024-03-22T00:00:00+00:00
+
  ## Podcasts for developers
  - [https://snap.fly.dev](https://snap.fly.dev)
  - date_published: 2024-08-16T00:00:00+00:00
@@ -4037,63 +4095,4 @@
  ## MySpeed - Automated Speedtests
  - [https://myspeed.dev](https://myspeed.dev)
  - date_published: 2024-07-18T14:21:34.679882+00:00
-
- ## Myth Tracker
- - [https://tracker.myth.dev](https://tracker.myth.dev)
- - date_published: 2024-06-28T16:00:01.777095+00:00
- - date_dead_since: 2025-01-03T20:46:18.421964+00:00
-
- ## MyWebdesign.dev 💙 We program large-scale custom e-shops and mobile applications
- - [https://mywebdesign.dev](https://mywebdesign.dev)
- - date_published: 2024-07-14T05:40:10.970574+00:00
-
- ## MyWorks - Automating WooCommerce & Shopify Accounting
- - [https://staging.myworks.dev](https://staging.myworks.dev)
- - date_published: 2024-10-19T17:55:45.327829+00:00
-
- ## Awesome N64 Development
- - [https://n64.dev](https://n64.dev)
- - date_published: 2024-08-18T21:05:54+00:00
-
- ## N64brew Wiki
- - [https://n64brew.dev](https://n64brew.dev)
- - date_published: 2023-10-25T19:36:17+00:00
-
- ## Hire Me - Najad.dev
- - [https://najad.dev](https://najad.dev)
- - date_published: 2020-03-23T03:06:03+00:00
-
- ## Nakazawa Tech
- - [https://nakazawa.dev](https://nakazawa.dev)
- - date_published: 2024-08-19T17:13:49.041371+00:00
-
- ## Nango
- - [https://api.nango.dev](https://api.nango.dev)
- - date_published: 2024-08-08T08:58:03+00:00
-
- ## Nango
- - [https://app.nango.dev](https://app.nango.dev)
- - date_published: 2024-04-25T15:31:29.259476+00:00
-
- ## Introduction - Nango Docs
- - [https://docs.nango.dev](https://docs.nango.dev)
- - date_published: 2024-04-25T15:31:28.242706+00:00
-
- ## Nango - The open unified API
- - [https://nango.dev](https://nango.dev)
- - date_published: 2023-10-25T18:40:04.494324+00:00
- - tags: ['proprietary', 'monetization']
-
- ## Nango status
- - [https://status.nango.dev](https://status.nango.dev)
- - date_published: 2024-04-30T02:00:19.928548+00:00
-
- ## Nathanaël Cherrier – Coder, Blogger, Influencer
- - [https://nathanaelcherrier.dev](https://nathanaelcherrier.dev)
- - date_published: 2024-07-14T09:11:39.327303+00:00
-
- ## Becoming Rustacean: A Beginners Guide to the Rustverse
- - [https://www.nativebyx.dev](https://www.nativebyx.dev)
- - date_published: 2023-10-25T18:40:13.005761+00:00
- - date_dead_since: 2025-01-03T20:48:59.716049+00:00
 

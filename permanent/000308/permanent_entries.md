@@ -1,3 +1,57 @@
+ ## Scicomm-Support
+ - [https://scicomm-support.de](https://scicomm-support.de)
+ - date_published: 2024-12-10T20:54:46.539656+00:00
+
+ ## EOSC Symposium 2024 | Open Science Conference
+ - [http://science20-conference.de](http://science20-conference.de)
+ - date_published: 2023-11-27T14:00:02+00:00
+
+ ## ScienceBlogs auf Deutsch
+ - [https://scienceblogs.de](https://scienceblogs.de)
+ - date_published: 2024-05-07T15:49:34.276801+00:00
+
+ ## Data Science, Data Engineering, Business Intelligence - scieneers
+ - [https://scieneers.de](https://scieneers.de)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Offizielle Scientology Kirche: L. Ron Hubbard, Dianetik, Was ist Scientology?, Bücher, Anschauungen, David Miscavige
+ - [https://scientology.de](https://scientology.de)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Persönlichkeitstest
+ - [https://www.oca.scientology.de](https://www.oca.scientology.de)
+ - date_published: 2024-06-17T16:40:09.335406+00:00
+
+ ## Der Hintergrund, die Theologie und die religiöse Praktik der Scientology Religion
+ - [http://scientologyreligion.de](http://scientologyreligion.de)
+ - date_published: 2024-06-06T19:41:32.897000+00:00
+
+ ## SciGRID General information
+ - [https://power.scigrid.de](https://power.scigrid.de)
+ - date_published: 2024-07-04T08:19:37.293459+00:00
+ - date_dead_since: 2025-01-16T16:31:55.663233+00:00
+
+ ## SciGRID_gas General information
+ - [https://www.gas.scigrid.de](https://www.gas.scigrid.de)
+ - date_published: 2018-12-20T00:00:00+00:00
+ - date_dead_since: 2025-01-16T16:31:56.373623+00:00
+
+ ## scinexx | Das Wissensmagazin mit Science-News aus Wissenschaft und Forschung
+ - [https://scinexx.de](https://scinexx.de)
+ - date_published: 2024-06-30T08:38:35.796716+00:00
+
+ ## sciolism
+ - [https://sciolism.de](https://sciolism.de)
+ - date_published: 2025-01-21T00:51:49.006754+00:00
+
+ ## Home - SC Magdeburg e.V.
+ - [http://new.sc-magdeburg.de](http://new.sc-magdeburg.de)
+ - date_published: 2025-01-16T16:32:30.429450+00:00
+
+ ## Home - SC Magdeburg e.V.
+ - [https://sc-magdeburg.de](https://sc-magdeburg.de)
+ - date_published: 2024-04-08T00:00:00+00:00
+
  ## SC-Media-Rent - Home
  - [http://sc-media-rent.de](http://sc-media-rent.de)
  - date_published: 2024-07-24T06:38:33.713874+00:00
@@ -4048,57 +4102,4 @@
  ## tchncs Reader
  - [https://text.tchncs.de](https://text.tchncs.de)
  - date_published: 2024-04-25T00:00:00+00:00
-
- ## Vikunja
- - [https://todo.tchncs.de](https://todo.tchncs.de)
- - date_published: 2024-04-29T06:49:25.460820+00:00
-
- ## Welcome - BookWyrm
- - [https://tomes.tchncs.de](https://tomes.tchncs.de)
- - date_published: 2024-04-29T06:49:20.789680+00:00
-
- ## tchncs
- - [https://tube.tchncs.de](https://tube.tchncs.de)
- - date_published: 2024-07-10T08:11:13.296054+00:00
-
- ## Vaultwarden Web
- - [https://vault.tchncs.de](https://vault.tchncs.de)
- - date_published: 2024-04-29T06:49:22.870549+00:00
-
- ## Plume ⋅ Plume
- - [https://write.tchncs.de](https://write.tchncs.de)
- - date_published: 2024-03-27T00:00:00+00:00
- - date_dead_since: 2025-01-04T12:19:42.526272+00:00
-
- ## Tennisclub Hubertus Groß Grönau e.V.
- - [https://tc-hubertus.de](https://tc-hubertus.de)
- - date_published: 2024-05-11T05:40:20.822092+00:00
-
- ## Pulse Dashboard
- - [http://pulse.tdreply.de](http://pulse.tdreply.de)
- - date_published: 2025-01-20T23:28:16.332038+00:00
-
- ## Home | TD Reply
- - [https://www.tdreply.de](https://www.tdreply.de)
- - date_published: 2025-01-16T13:46:25.466002+00:00
-
- ## Neues Buch von Stefan Burges bei SpringerGabler
- - [https://www.teamaffairs.de](https://www.teamaffairs.de)
- - date_published: 2024-12-12T22:45:14.588820+00:00
-
- ## Kundenportal
- - [https://kundenportal.teambank.de](https://kundenportal.teambank.de)
- - date_published: 2024-10-09T12:27:37.077973+00:00
-
- ## Startseite - TeamBank
- - [https://teambank.de](https://teambank.de)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Team Hector
- - [https://www.teamhector.de](https://www.teamhector.de)
- - date_published: 2024-01-02T09:30:42+00:00
-
- ## MediaPortal - Das kostenlose Open Source Media Center - MEDIAPORTAL
- - [https://www.team-mediaportal.de](https://www.team-mediaportal.de)
- - date_published: 2025-01-10T11:11:48+00:00
 

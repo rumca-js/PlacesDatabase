@@ -1,3 +1,63 @@
+ ## Understanding America Study
+ - [https://uasdata.usc.edu](https://uasdata.usc.edu)
+ - date_published: 2024-07-02T10:58:37.145022+00:00
+
+ ## Academic Programs - Office of Academic Programs
+ - [https://undergrad.usc.edu](https://undergrad.usc.edu)
+ - date_published: 2024-08-21T00:00:00+00:00
+
+ ## The Spirit of Troy – The greatest marching band in the history of the universe, ever!
+ - [https://uscband.usc.edu](https://uscband.usc.edu)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Working at USC
+ - [https://usccareers.usc.edu](https://usccareers.usc.edu)
+ - date_published: 2024-06-16T22:46:05.625264+00:00
+
+ ## USC Faculty and Staff Directory
+ - [https://uscdirectory.usc.edu](https://uscdirectory.usc.edu)
+ - date_published: 2024-06-16T22:46:07.836593+00:00
+
+ ## University of Southern California
+ - [https://usc.edu](https://usc.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## USC Well-being Collective
+ - [http://uscwellbeingcollective.usc.edu](http://uscwellbeingcollective.usc.edu)
+ - date_published: 2024-10-15T06:05:18+00:00
+
+ ## USG HOME - USC Undergraduate Student Government
+ - [http://usg.usc.edu](http://usg.usc.edu)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Welcome to VCE - Viterbi Conversations in Ethics
+ - [https://vce.usc.edu](https://vce.usc.edu)
+ - date_published: 2024-07-02T11:13:48.186220+00:00
+
+ ## ICT Vision & Graphics Lab
+ - [http://vgl.ict.usc.edu](http://vgl.ict.usc.edu)
+ - date_published: 2024-06-22T08:50:22.938392+00:00
+
+ ## Error
+ - [https://view.comms.usc.edu](https://view.comms.usc.edu)
+ - date_published: 2024-07-02T11:03:36.095698+00:00
+
+ ## Error
+ - [https://view.message.usc.edu](https://view.message.usc.edu)
+ - date_published: 2024-10-15T06:05:33.464233+00:00
+
+ ## Faculty/Staff Visa Services
+ - [https://visaservices.usc.edu](https://visaservices.usc.edu)
+ - date_published: 2024-10-15T05:32:28+00:00
+
+ ## Viterbi Vision Venture
+ - [https://visionventure.usc.edu](https://visionventure.usc.edu)
+ - date_published: 2024-07-02T11:13:46.738088+00:00
+
+ ## USC Viterbi | Undergraduate Admission
+ - [https://viterbiadmission.usc.edu](https://viterbiadmission.usc.edu)
+ - date_published: 2024-05-07T22:08:03.795816+00:00
+
  ## USC Viterbi | Career Services
  - [https://viterbicareers.usc.edu](https://viterbicareers.usc.edu)
  - date_published: 2024-05-20T00:00:00+00:00
@@ -3938,64 +3998,4 @@
  ## Commitment to Privacy
  - [https://codeofconduct.vcu.edu](https://codeofconduct.vcu.edu)
  - date_published: 2024-07-02T12:43:41.381736+00:00
-
- ## Commitment to Privacy
- - [https://collaborate.vcu.edu](https://collaborate.vcu.edu)
- - date_published: 2024-07-02T12:58:17.021387+00:00
-
- ## Commitment to Privacy
- - [https://commencement.vcu.edu](https://commencement.vcu.edu)
- - date_published: 2024-06-16T06:31:16.901233+00:00
-
- ## Commitment to Privacy
- - [https://communications.semss.vcu.edu](https://communications.semss.vcu.edu)
- - date_published: 2024-07-02T12:47:27.338367+00:00
-
- ## Commitment to Privacy
- - [https://community.pharmacy.vcu.edu](https://community.pharmacy.vcu.edu)
- - date_published: 2024-07-02T12:50:34.598080+00:00
-
- ## Commitment to Privacy
- - [https://community.vcu.edu](https://community.vcu.edu)
- - date_published: 2024-05-07T22:23:15.462966+00:00
-
- ## Commitment to Privacy
- - [https://compass.vcu.edu](https://compass.vcu.edu)
- - date_published: 2025-01-09T19:35:42.347587+00:00
-
- ## Commitment to Privacy
- - [https://compounding.pharmacy.vcu.edu](https://compounding.pharmacy.vcu.edu)
- - date_published: 2024-07-02T12:50:31.921591+00:00
-
- ## Commitment to Privacy
- - [https://conduct.students.vcu.edu](https://conduct.students.vcu.edu)
- - date_published: 2024-07-02T12:49:18.538191+00:00
-
- ## Commitment to Privacy
- - [https://connect.business.vcu.edu](https://connect.business.vcu.edu)
- - date_published: 2025-01-09T19:42:26.309770+00:00
-
- ## Commitment to Privacy
- - [https://connected.vcu.edu](https://connected.vcu.edu)
- - date_published: 2024-07-02T12:50:03.496191+00:00
-
- ## Commitment to Privacy
- - [https://controller.vcu.edu](https://controller.vcu.edu)
- - date_published: 2024-07-02T12:47:34.977521+00:00
-
- ## Commitment to Privacy
- - [https://council.vcu.edu](https://council.vcu.edu)
- - date_published: 2024-07-02T12:57:45.745623+00:00
-
- ## Commitment to Privacy
- - [https://counseling.vcu.edu](https://counseling.vcu.edu)
- - date_published: 2024-07-02T12:49:07.501075+00:00
-
- ## Commitment to Privacy
- - [https://cpel.vcu.edu](https://cpel.vcu.edu)
- - date_published: 2024-07-02T12:44:24.396893+00:00
-
- ## Commitment to Privacy
- - [https://cpsd.vcu.edu](https://cpsd.vcu.edu)
- - date_published: 2024-07-02T12:47:51.945495+00:00
 

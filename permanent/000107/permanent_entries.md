@@ -1,3 +1,11 @@
+ ## Daily Dead
+ - [https://dailydead.com](https://dailydead.com)
+ - date_published: 2024-10-25T10:13:24+00:00
+
+ ## Compulse
+ - [https://upnorthlive.dailydealbuilder.com](https://upnorthlive.dailydealbuilder.com)
+ - date_published: 2024-10-20T04:25:14.469974+00:00
+
  ## Daily Democrat
  - [http://www.dailydemocrat.com](http://www.dailydemocrat.com)
  - date_published: 2024-08-06T16:50:08.388705+00:00
@@ -4044,12 +4052,4 @@
  ## Datadog: Log In
  - [https://app.datadoghq.com](https://app.datadoghq.com)
  - date_published: 2024-05-01T04:03:24.540990+00:00
-
- ## Datadog: Log In
- - [https://app.us3.datadoghq.com](https://app.us3.datadoghq.com)
- - date_published: 2024-06-15T17:47:28.320470+00:00
-
- ## Datadog: Log In
- - [https://app.us5.datadoghq.com](https://app.us5.datadoghq.com)
- - date_published: 2024-06-15T17:47:33.941035+00:00
 

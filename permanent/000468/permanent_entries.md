@@ -1,3 +1,95 @@
+ ## International Faust Conference 2020 - Sciencesconf.org
+ - [https://ifc20.sciencesconf.org](https://ifc20.sciencesconf.org)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Ecole d'Eté 2016 de l'Institut Fourier - Sciencesconf.org
+ - [https://if-summer2016.sciencesconf.org](https://if-summer2016.sciencesconf.org)
+ - date_published: 2020-12-22T07:20:50+00:00
+
+ ## IntACT Advanced Course 2019 - Sciencesconf.org
+ - [https://intact-course01.sciencesconf.org](https://intact-course01.sciencesconf.org)
+ - date_published: 2023-01-16T08:31:28+00:00
+
+ ## Linux Audio Conference 2020 - Sciencesconf.org
+ - [https://lac2020.sciencesconf.org](https://lac2020.sciencesconf.org)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## L'agape - Foundations of Physics - Sciencesconf.org
+ - [https://lagape.sciencesconf.org](https://lagape.sciencesconf.org)
+ - date_published: 2021-09-09T06:19:56+00:00
+
+ ## Machine Learning for Evolutionary Genomics Data - Sciencesconf.org
+ - [https://legend2024.sciencesconf.org](https://legend2024.sciencesconf.org)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## ANF METAAL-SHS 2024 - Sciencesconf.org
+ - [https://metaal-shs-2024.sciencesconf.org](https://metaal-shs-2024.sciencesconf.org)
+ - date_published: 2024-10-14T15:38:32.092534+00:00
+
+ ## SciencesConf.org
+ - [https://portal.sciencesconf.org](https://portal.sciencesconf.org)
+ - date_published: 2024-10-14T15:38:30.917958+00:00
+
+ ## Sciencesconf - Sciencesconf
+ - [https://sciencesconf.org](https://sciencesconf.org)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## SILICAMICS 4 : Biogeochemistry, ecology and genomics of silicifiers - Sciencesconf.org
+ - [https://silicamics4.sciencesconf.org](https://silicamics4.sciencesconf.org)
+ - date_published: 2024-10-14T15:38:33.862392+00:00
+
+ ## Workshop on Reverse Mathematics and its Philosophy - Sciencesconf.org
+ - [https://wrmp2022.sciencesconf.org](https://wrmp2022.sciencesconf.org)
+ - date_published: 2024-08-17T22:28:55.681238+00:00
+
+ ## ScienceSeeker | Science News Aggregator
+ - [http://scienceseeker.org](http://scienceseeker.org)
+ - date_published: 2024-08-12T10:28:35+00:00
+
+ ## ScienceSites
+ - [https://sciencesites.org](https://sciencesites.org)
+ - date_published: 2024-07-01T05:46:37.886280+00:00
+
+ ## Home
+ - [https://web.sciencesocieties.org](https://web.sciencesocieties.org)
+ - date_published: 2024-07-14T03:48:44.289747+00:00
+
+ ## Predictability of Scientific Success
+ - [http://sciencesuccess.org](http://sciencesuccess.org)
+ - date_published: 2016-09-30T00:00:00+00:00
+
+ ## Science United
+ - [https://scienceunited.org](https://scienceunited.org)
+ - date_published: 2024-04-30T03:27:55.707823+00:00
+
+ ## scientiasalon.org
+ - [http://scientiasalon.org](http://scientiasalon.org)
+ - date_published: 2025-01-01T07:51:20.993775+00:00
+
+ ## Scientific Education - ScientificEducation.Ro
+ - [http://www.scientificeducation.org](http://www.scientificeducation.org)
+ - date_published: 2024-10-29T17:43:33.413243+00:00
+
+ ## Scientific Journals International.
+ - [http://www.scientificjournals.org](http://www.scientificjournals.org)
+ - date_published: 2024-10-29T16:56:24.335779+00:00
+
+ ## Scientific Linux | Information about the Scientific Linux distribution
+ - [https://scientificlinux.org](https://scientificlinux.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## W88 - W88 Korea 최신 링크 가입 최대 보너스 330,000 KRW
+ - [http://www.scientificoajournals.org](http://www.scientificoajournals.org)
+ - date_published: 2024-10-29T16:46:28.213096+00:00
+
+ ## Blog -
+ - [https://blog.scientific-python.org](https://blog.scientific-python.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Scientific Python
+ - [https://discuss.scientific-python.org](https://discuss.scientific-python.org)
+ - date_published: 2024-02-02T00:00:00+00:00
+
  ## Learn -
  - [https://learn.scientific-python.org](https://learn.scientific-python.org)
  - date_published: 2024-07-03T00:00:00+00:00
@@ -3948,96 +4040,4 @@
  ## SIGGRAPH 2024
  - [https://s2024.siggraph.org](https://s2024.siggraph.org)
  - date_published: 2024-07-03T02:06:55+00:00
-
- ## SIGGRAPH Asia 2018
- - [https://sa2018.siggraph.org](https://sa2018.siggraph.org)
- - date_published: 2019-12-27T12:31:46+00:00
-
- ## SIGGRAPH Asia 2019
- - [https://sa2019.siggraph.org](https://sa2019.siggraph.org)
- - date_published: 2020-04-24T15:59:40+00:00
-
- ## Home
- - [https://sa2021.siggraph.org](https://sa2021.siggraph.org)
- - date_published: 2024-07-03T04:40:12.065780+00:00
-
- ## Page has moved
- - [https://sa2022.siggraph.org](https://sa2022.siggraph.org)
- - date_published: 2023-08-02T18:48:04+00:00
-
- ## Home - ACM SIGGRAPH
- - [https://siggraph.org](https://siggraph.org)
- - date_published: 2021-10-19T23:47:50+00:00
-
- ## Meeting Your Needs
- - [https://www.sighpc.org](https://www.sighpc.org)
- - date_published: 2024-05-11T06:55:45.559562+00:00
-
- ## Home - Sightline Institute
- - [https://daily.sightline.org](https://daily.sightline.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home - Sightline Institute
- - [https://sightline.org](https://sightline.org)
- - date_published: 2023-10-25T22:08:21.247502+00:00
-
- ## Sightline Security
- - [https://sightlinesecurity.org](https://sightlinesecurity.org)
- - date_published: 2024-07-16T20:39:03.123543+00:00
-
- ## Sight and Sound - CVPR 2023
- - [https://sightsound.org](https://sightsound.org)
- - date_published: 2024-06-16T15:20:54+00:00
-
- ## SIGIR | Special Interest Group on Information Retrieval
- - [https://sigir.org](https://sigir.org)
- - date_published: 2013-07-18T00:00:00+00:00
-
- ## SIGIR-AP - ACM-SIGIR Information Retrieval in the Asia Pacific
- - [https://www.sigir-ap.org](https://www.sigir-ap.org)
- - date_published: 2024-08-06T07:25:28+00:00
-
- ## LICS - ACM/IEEE Symposium on Logic in Computer Science
- - [https://lics.siglog.org](https://lics.siglog.org)
- - date_published: 2023-09-20T05:08:23+00:00
-
- ## ACM Special Interest Group on Logic and Computation
- - [https://siglog.org](https://siglog.org)
- - date_published: 2024-08-07T17:23:24.308277+00:00
-
- ## The Sigma Awards
- - [https://sigmaawards.org](https://sigmaawards.org)
- - date_published: 2024-06-22T12:52:36.745475+00:00
-
- ## Sigma Delta Pi
- - [https://sigmadeltapi.org](https://sigmadeltapi.org)
- - date_published: 2024-06-30T06:22:55+00:00
-
- ## Sigma.js
- - [http://sigmajs.org](http://sigmajs.org)
- - date_published: 2024-11-25T10:03:03+00:00
-
- ## Sigma Home Page
- - [https://sigmanursing.org](https://sigmanursing.org)
- - date_published: 2024-08-19T18:27:41.436264+00:00
-
- ## Home - The Circle
- - [https://thecircle.sigmanursing.org](https://thecircle.sigmanursing.org)
- - date_published: 2025-01-23T14:35:06.010070+00:00
-
- ## Togel Hongkong Hari Ini - Togel Singapore - Keluaran HK SGP Prize - Pengeluaran Data HK SGP Pools
- - [https://sigmanutau.org](https://sigmanutau.org)
- - date_published: 2025-01-07T14:51:51+00:00
-
- ## Home - Sigma Xi
- - [https://community.sigmaxi.org](https://community.sigmaxi.org)
- - date_published: 2024-10-19T03:59:51.920506+00:00
-
- ## Your industry Internships - Sigma Xi - Intern Board
- - [https://internships.sigmaxi.org](https://internships.sigmaxi.org)
- - date_published: 2024-06-17T11:47:57.631431+00:00
-
- ## Scientific Research Jobs - Sigma Xi, The Scientific Research Society's Career Center
- - [https://jobs.sigmaxi.org](https://jobs.sigmaxi.org)
- - date_published: 2024-06-17T11:47:42.237589+00:00
 

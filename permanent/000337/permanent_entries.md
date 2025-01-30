@@ -1,3 +1,69 @@
+ ## Welcome
+ | Yale CCE Program
+ - [http://cce.yalecollege.yale.edu](http://cce.yalecollege.yale.edu)
+ - date_published: 2024-07-02T15:47:18+00:00
+
+ ## Yale School of Medicine
+ - [https://cdn1.medicine.yale.edu](https://cdn1.medicine.yale.edu)
+ - date_published: 2024-05-07T22:41:39.972527+00:00
+
+ ## About Yale Center Beijing | CenterBeijing-Yale
+ - [http://centerbeijing.yale.edu](http://centerbeijing.yale.edu)
+ - date_published: 2024-07-02T16:02:49.684385+00:00
+
+ ## Chaplain's Office |
+ - [http://chaplain.yale.edu](http://chaplain.yale.edu)
+ - date_published: 2024-06-28T14:19:14+00:00
+
+ ## Welcome
+ | Department of Chemistry
+ - [https://chem.yale.edu](https://chem.yale.edu)
+ - date_published: 2024-10-03T20:49:24+00:00
+
+ ## Phasing out CIPE | Center for International and Professional Experience | Yale University
+ - [https://cipe.yale.edu](https://cipe.yale.edu)
+ - date_published: 2024-06-30T14:37:31+00:00
+
+ ## Welcome
+ | Perspectives on Poverty and Human Development
+ - [https://clais-udesa.yale.edu](https://clais-udesa.yale.edu)
+ - date_published: 2024-07-02T16:02:42+00:00
+
+ ## The Yale Program on Climate Change Communication
+ - [https://climatecommunication.yale.edu](https://climatecommunication.yale.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## CMES Home
+ | Yale MacMillan Center Council on Middle East Studies
+ - [https://cmes.macmillan.yale.edu](https://cmes.macmillan.yale.edu)
+ - date_published: 2024-07-02T15:43:52+00:00
+
+ ## Cognitive & Neural Computation Laboratory
+ - [http://cncl.yale.edu](http://cncl.yale.edu)
+ - date_published: 2024-06-22T05:23:49+00:00
+
+ ## Yale University Libraries - Digital Collections
+ - [https://collections.library.yale.edu](https://collections.library.yale.edu)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Welcome
+ | Residential College Renovations
+ - [https://collegerenovations.yale.edu](https://collegerenovations.yale.edu)
+ - date_published: 2024-07-02T13:16:34+00:00
+
+ ## Welcome
+ | Yale Commencement
+ - [https://commencement.yale.edu](https://commencement.yale.edu)
+ - date_published: 2024-05-07T22:44:32.915506+00:00
+
+ ## Office of Public Affairs & Communications
+ - [https://communications.yale.edu](https://communications.yale.edu)
+ - date_published: 2024-05-07T22:42:29.173803+00:00
+
+ ## Conference & Event Services in New Haven CT | Yale Conference Venues
+ - [https://conferencesandevents.yale.edu](https://conferencesandevents.yale.edu)
+ - date_published: 2024-07-02T10:00:10+00:00
+
  ## Welcome to the COSINE-100 Website!
  | COSINE-100 Dark Matter Experiment
  - [https://cosine.yale.edu](https://cosine.yale.edu)
@@ -4005,65 +4071,4 @@
  ## Max's Notes
  - [https://notes.max.engineer](https://notes.max.engineer)
  - date_published: 2024-05-06T00:00:00+00:00
-
- ## ●●●●●✺✺✺✺✺✹✹✹✹✹✸✸✸✸✸✷✷✷✷✷✶✶✶✶✶
- - [https://ritual.engineer](https://ritual.engineer)
- - date_published: 2024-09-14T23:26:38.237025+00:00
-
- ## ACV Tech Blog
- - [https://acv.engineering](https://acv.engineering)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Moderne Schnittstellen für Maschinen - Adaept Engineering
- - [https://adaept.engineering](https://adaept.engineering)
- - date_published: 2024-12-12T15:33:06+00:00
-
- ## The Atomic Engineer
- - [https://atomic.engineering](https://atomic.engineering)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Back Engineering Labs
- - [https://back.engineering](https://back.engineering)
- - date_published: 2024-12-11T07:03:26.570544+00:00
-
- ## Back Engineering Blog
- - [https://blog.back.engineering](https://blog.back.engineering)
- - date_published: 2023-05-11T13:17:56+00:00
-
- ## Private Group Of Back Engineers
- - [https://git.back.engineering](https://git.back.engineering)
- - date_published: 2024-12-11T07:03:18.405752+00:00
-
- ## Barstool Engineering
- - [https://barstool.engineering](https://barstool.engineering)
- - date_published: 2024-06-23T02:19:40.456817+00:00
-
- ## Benchling Engineering
- - [https://benchling.engineering](https://benchling.engineering)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Web Browser Engineering
- - [https://browser.engineering](https://browser.engineering)
- - date_published: 2024-05-06T22:45:51.461129+00:00
-
- ## care engineering | Anthony Langham | Substack
- - [https://news.care.engineering](https://news.care.engineering)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## care.engineering
- - [https://www.care.engineering](https://www.care.engineering)
- - date_published: 2024-05-01T21:07:41.840423+00:00
- - date_dead_since: 2024-12-11T07:05:40.064914+00:00
-
- ## Le site où je raconte comment j'essaie de faire du logiciel de qualité
- - [https://christopher.engineering](https://christopher.engineering)
- - date_published: 2024-06-11T09:08:04.210411+00:00
-
- ## Down-to-earth
- - [https://d2e.engineering](https://d2e.engineering)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## deliveroo.engineering
- - [https://deliveroo.engineering](https://deliveroo.engineering)
- - date_published: 2023-11-22T14:27:25+00:00
 

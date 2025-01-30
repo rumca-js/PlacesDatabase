@@ -1,3 +1,11 @@
+ ## Thirteen Minutes
+ - [http://thirteenminutes.blogspot.com](http://thirteenminutes.blogspot.com)
+ - date_published: 2024-07-15T17:00:34+00:00
+
+ ## Cardinal Wolsey's Today in History
+ - [http://this-day-in-history.blogspot.com](http://this-day-in-history.blogspot.com)
+ - date_published: 2024-03-07T23:46:28+00:00
+
  ## This Day In Science Fiction
  - [https://thisdayinscifi.blogspot.com](https://thisdayinscifi.blogspot.com)
  - date_published: 2024-10-19T17:21:43+00:00
@@ -3994,12 +4002,4 @@
  ## The War on Guns
  - [https://waronguns.blogspot.com](https://waronguns.blogspot.com)
  - date_published: 2024-05-08T04:22:55.472254+00:00
-
- ## Nie znaleziono bloga
- - [http://waronjunk.blogspot.com](http://waronjunk.blogspot.com)
- - date_published: 2024-12-31T21:27:07.223591+00:00
-
- ## Jason "Red" Martin
- - [http://warpaintstudio.blogspot.com](http://warpaintstudio.blogspot.com)
- - date_published: 2024-11-01T08:12:08+00:00
 

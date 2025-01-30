@@ -1,3 +1,76 @@
+ ## Monica API Platform
+ - [https://platform.monica.im](https://platform.monica.im)
+ - date_published: 2024-12-24T11:48:10.809715+00:00
+
+ ## Roast Master - The Ultimate AI Roast Generator for Instagram, TikTok, Facebook, Twitter, Threads and LinkedIn
+ - [https://roast.monica.im](https://roast.monica.im)
+ - date_published: 2024-12-24T11:47:58.181040+00:00
+
+ ## Mooshim Engineering
+ - [https://moosh.im](https://moosh.im)
+ - date_published: 2023-10-25T19:29:57.502606+00:00
+
+ ## Login
+ - [https://mov.im](https://mov.im)
+ - date_published: 2024-12-12T22:52:27.977159+00:00
+
+ ## muenster.im
+ - [https://muenster.im](https://muenster.im)
+ - date_published: 2024-08-08T18:52:55.343792+00:00
+
+ ## Nadim Hussain - Product Designer
+ - [https://nad.im](https://nad.im)
+ - date_published: 2023-07-05T00:00:00+00:00
+
+ ## Satellite Constellations - NewSpace Index
+ - [https://newspace.im](https://newspace.im)
+ - date_published: 2024-05-02T14:01:16.465673+00:00
+
+ ## ObjFW: Documentation
+ - [https://objfw.nil.im](https://objfw.nil.im)
+ - date_published: 2023-10-25T19:29:58.635208+00:00
+
+ ## Jordy Noll: Freelance Sr. SEO Specialist
+ - [https://noll.im](https://noll.im)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## npm | Home
+ - [https://npm.im](https://npm.im)
+ - date_published: 2024-04-28T02:51:51.075062+00:00
+
+ ## Frank's Weblog
+ - [https://nyan.im](https://nyan.im)
+ - date_published: 2024-08-18T06:37:03+00:00
+
+ ## Oscar Marion - Javascript engineer in Stockholm
+ - [https://osr.im](https://osr.im)
+ - date_published: 2024-07-27T00:00:00+00:00
+
+ ## Umami
+ - [https://umami.osr.im](https://umami.osr.im)
+ - date_published: 2024-09-04T10:53:17.015110+00:00
+
+ ## Phoenix R&D
+ - [https://blog.phnx.im](https://blog.phnx.im)
+ - date_published: 2023-10-25T19:29:59.443505+00:00
+
+ ## Phoenix R&D
+ - [https://phnx.im](https://phnx.im)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Pidgin
+ - [https://developer.pidgin.im](https://developer.pidgin.im)
+ - date_published: 2024-02-02T11:09:42+00:00
+
+ ## Pidgin, the universal chat client
+ - [https://old.pidgin.im](https://old.pidgin.im)
+ - date_published: 2024-04-28T00:24:30.810134+00:00
+
+ ## Pidgin
+ - [https://pidgin.im](https://pidgin.im)
+ - date_published: 2024-02-23T00:00:00+00:00
+ - tags: ['desktop program', 'open source', 'social communicator', 'chat']
+
  ## Blog
  - [https://planet.pidgin.im](https://planet.pidgin.im)
  - date_published: 2024-08-01T00:00:00+00:00
@@ -3945,77 +4018,4 @@ Engineering & Medical Students,Scholarships for Medical Students in India, Schol
  ## DigiLocker: An Initiative Towards Paperless Governance
  - [https://digitallocker.gov.in](https://digitallocker.gov.in)
  - date_published: 2024-12-24T09:02:27+00:00
-
- ## Homepage
- - [https://diksha.gov.in](https://diksha.gov.in)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Diksha Support Team
- - [https://support.diksha.gov.in](https://support.diksha.gov.in)
- - date_published: 2024-12-24T23:19:38.861416+00:00
-
- ## Dadra & Nagar Haveli District Website | Dadra & Nagar Haveli | India
- - [https://dnh.gov.in](https://dnh.gov.in)
- - date_published: 2024-12-25T05:48:41.830638+00:00
-
- ## उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय
-MINISTRY OF CONSUMER AFFAIRS, FOOD & PUBLIC DISTRIBUTION
- - [https://doca.gov.in](https://doca.gov.in)
- - date_published: 2024-08-08T13:40:15.962587+00:00
-
- ## Home | DEPARTMENT OF Expenditure
- - [http://doe.gov.in](http://doe.gov.in)
- - date_published: 2024-12-24T15:19:53+00:00
-
- ## About The Department | Department of Fisheries, GoI
- - [http://dof.gov.in](http://dof.gov.in)
- - date_published: 2024-12-20T06:14:59+00:00
-
- ## Department of Justice | Government of India | India
- - [https://doj.gov.in](https://doj.gov.in)
- - date_published: 2024-08-08T14:12:06.231618+00:00
-
- ## Doordarshan | Prasar Bharati
- - [https://doordarshan.gov.in](https://doordarshan.gov.in)
- - date_published: 2024-08-08T15:03:25.771610+00:00
-
- ## होमेपेंशन और पेंशनरों के कल्याण विभाग | कर्मियों, सार्वजनिक शिकायतों और पेंशन मंत्रालय | भारत सरकार
- - [http://doppw.gov.in](http://doppw.gov.in)
- - date_published: 2024-12-24T22:58:04.343404+00:00
-
- ## Department of Personnel & Training
- - [https://dopt.gov.in](https://dopt.gov.in)
- - date_published: 2024-12-24T12:28:51+00:00
-
- ## Digital Communication Innovation Square (DCIS)
- - [https://dcis.dot.gov.in](https://dcis.dot.gov.in)
- - date_published: 2024-12-24T23:29:14.989873+00:00
-
- ## HomeDepartment of Telecommunications | Ministry of Communication | Government of India
- - [https://dot.gov.in](https://dot.gov.in)
- - date_published: 2024-08-18T17:47:37+00:00
-
- ## Department for Promotion of Industry and Internal Trade | MoCI | GoI
- - [https://dpiit.gov.in](https://dpiit.gov.in)
- - date_published: 2024-12-24T13:44:22+00:00
-
- ## Delhi Public Library
- - [https://dpl.gov.in](https://dpl.gov.in)
- - date_published: 2024-12-25T01:26:24.851724+00:00
-
- ## Defence Research and Development Organisation - DRDO, Ministry of Defence, Government of India
- - [https://drdo.gov.in](https://drdo.gov.in)
- - date_published: 2024-08-10T21:31:44+00:00
-
- ## Dsir
- - [https://www.dsir.gov.in](https://www.dsir.gov.in)
- - date_published: 2024-12-19T22:26:21+00:00
-
- ## Department Of Science & Technology | विज्ञान एवं प्रौद्योगिकी विभाग  | Department Of Science & Technology (DST)
- - [https://dst.gov.in](https://dst.gov.in)
- - date_published: 2024-12-24T14:26:43+00:00
-
- ## Department Of Science & Technology | विज्ञान एवं प्रौद्योगिकी विभाग  | Department Of Science & Technology (DST)
- - [http://www.dst.gov.in](http://www.dst.gov.in)
- - date_published: 2024-12-24T13:31:40+00:00
 

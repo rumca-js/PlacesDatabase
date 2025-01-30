@@ -1,3 +1,27 @@
+ ## Letters Live, a celebration of the enduring power of literary correspondence
+ - [http://letterslive.com](http://letterslive.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Books of Note
+ - [https://books.lettersofnote.com](https://books.lettersofnote.com)
+ - date_published: 2024-05-04T12:19:21.777818+00:00
+
+ ## Letters of Note
+ - [https://lettersofnote.com](https://lettersofnote.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Letters of Note | Shaun Usher | Substack
+ - [https://news.lettersofnote.com](https://news.lettersofnote.com)
+ - date_published: 2023-10-25T15:45:42.174290+00:00
+
+ ## Letters To A New Developer – What I wish I had known when starting my development career
+ - [https://letterstoanewdeveloper.com](https://letterstoanewdeveloper.com)
+ - date_published: 2023-10-25T15:45:46.872122+00:00
+
+ ## Letters to Summer
+ - [http://letterstosummer.com](http://letterstosummer.com)
+ - date_published: 2022-06-19T00:00:00+00:00
+
  ## Send a physical letter to your future self
  - [https://lettertoyourself.com](https://lettertoyourself.com)
  - date_published: 2024-05-06T23:12:16.873540+00:00
@@ -4047,29 +4071,4 @@
  ## Life of Lieu
  - [http://lifeoflieu.com](http://lifeoflieu.com)
  - date_published: 2024-09-03T22:51:11+00:00
-
- ## Michael Le - Portfolio
- - [https://lifeofmle.com](https://lifeofmle.com)
- - date_published: 2019-12-19T09:36:44+00:00
-
- ## Home
- - [https://lifeofpablo.com](https://lifeofpablo.com)
- - date_published: 2023-11-29T16:21:15.808373+00:00
- - tags: ['personal']
-
- ## Free high resolution photography
- - [https://www.lifeofpix.com](https://www.lifeofpix.com)
- - date_published: 2024-10-30T11:39:17.378735+00:00
-
- ## Life...one big adventure
- - [http://lifeonebigadventure.com](http://lifeonebigadventure.com)
- - date_published: 2024-10-21T23:00:21.283188+00:00
-
- ## Life Patterns
- - [https://lifepattrns.com](https://lifepattrns.com)
- - date_published: 2022-01-25T00:00:00+00:00
-
- ## Sign petitions promoting concrete change towards a Culture of Life
- - [https://lifepetitions.com](https://lifepetitions.com)
- - date_published: 2024-03-08T00:00:00+00:00
 

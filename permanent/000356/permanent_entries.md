@@ -1,3 +1,67 @@
+ ## COVID-19
+ - [https://pl.coronavirus.health.ny.gov](https://pl.coronavirus.health.ny.gov)
+ - date_published: 2024-06-27T04:01:34.601017+00:00
+
+ ## Dom
+ - [https://pl.dec.ny.gov](https://pl.dec.ny.gov)
+ - date_published: 2024-07-14T04:45:43.018570+00:00
+
+ ## Oficjalna strona internetowa gubernator Kathy Hochul
+ - [https://pl.governor.ny.gov](https://pl.governor.ny.gov)
+ - date_published: 2024-08-06T07:10:00.444773+00:00
+
+ ## Oficjalna strona internetowa stanu Nowy Jork
+ - [https://pl.ny.gov](https://pl.ny.gov)
+ - date_published: 2024-07-14T04:45:14.072658+00:00
+
+ ## Biuro Pomocy Tymczasowej i Inwalidztwa
+ - [https://pl.otda.ny.gov](https://pl.otda.ny.gov)
+ - date_published: 2024-10-28T00:27:47.825331+00:00
+
+ ## New York State Department of Health : Home
+ - [https://profiles.health.ny.gov](https://profiles.health.ny.gov)
+ - date_published: 2024-09-18T04:21:49.995857+00:00
+
+ ## Сельское хозяйство и рынки
+ - [https://ru.agriculture.ny.gov](https://ru.agriculture.ny.gov)
+ - date_published: 2024-09-18T20:17:54.246801+00:00
+
+ ## COVID-19
+ - [https://ru.coronavirus.health.ny.gov](https://ru.coronavirus.health.ny.gov)
+ - date_published: 2024-06-27T04:01:10.558634+00:00
+
+ ## Домой
+ - [https://ru.dec.ny.gov](https://ru.dec.ny.gov)
+ - date_published: 2024-07-14T04:45:45.166689+00:00
+
+ ## Официальный сайт губернатора Кэти Хочул
+ - [https://ru.governor.ny.gov](https://ru.governor.ny.gov)
+ - date_published: 2024-08-06T07:09:50.031162+00:00
+
+ ## Официальный сайт штата Нью-Йорк
+ - [https://ru.ny.gov](https://ru.ny.gov)
+ - date_published: 2024-07-14T04:45:12.822948+00:00
+
+ ## Управление временной помощи и помощи инвалидам
+ - [https://ru.otda.ny.gov](https://ru.otda.ny.gov)
+ - date_published: 2024-10-28T00:27:56.502390+00:00
+
+ ## Search Results
+ - [https://search.health.ny.gov](https://search.health.ny.gov)
+ - date_published: 2024-09-18T04:10:51.890240+00:00
+
+ ## زراعت اور بازار
+ - [https://ur.agriculture.ny.gov](https://ur.agriculture.ny.gov)
+ - date_published: 2024-09-18T20:18:05.746827+00:00
+
+ ## COVID-19
+ - [https://ur.coronavirus.health.ny.gov](https://ur.coronavirus.health.ny.gov)
+ - date_published: 2024-06-27T04:01:26.785074+00:00
+
+ ## گھر
+ - [https://ur.dec.ny.gov](https://ur.dec.ny.gov)
+ - date_published: 2024-07-14T04:45:47.338009+00:00
+
  ## گورنر کیتھی ہوچول کی سرکاری ویب سائٹ
  - [https://ur.governor.ny.gov](https://ur.governor.ny.gov)
  - date_published: 2024-08-06T07:10:02.269931+00:00
@@ -3938,68 +4002,4 @@
  ## Certified Copy Center
  - [https://certifiedcopycenter.uspto.gov](https://certifiedcopycenter.uspto.gov)
  - date_published: 2024-06-28T19:52:12.100884+00:00
-
- ## Components
- - [https://components.uspto.gov](https://components.uspto.gov)
- - date_published: 2024-06-28T19:51:48.531904+00:00
-
- ## Home | United States Patent and Trademark Office - Open Data Portal
- - [https://developer.uspto.gov](https://developer.uspto.gov)
- - date_published: 2024-07-03T10:42:22+00:00
-
- ## USPTO. ESTTA. Electronic System for Trademark Trials and Appeals
- - [http://estta.uspto.gov](http://estta.uspto.gov)
- - date_published: 2024-06-28T19:51:46.708910+00:00
-
- ## Assignment Center
- - [http://etas.uspto.gov](http://etas.uspto.gov)
- - date_published: 2024-06-28T19:52:07+00:00
-
- ## TMNG | IDML Main Entry
- - [https://idm-tmng.uspto.gov](https://idm-tmng.uspto.gov)
- - date_published: 2024-06-28T19:52:16.014567+00:00
-
- ## HTTP Status 404 – Not Found
- - [https://image-ppubs.uspto.gov](https://image-ppubs.uspto.gov)
- - date_published: 2024-01-09T03:31:39.680391+00:00
-
- ## Public PAIR to be retired
- - [http://portal.uspto.gov](http://portal.uspto.gov)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Trademark Status & Document Retrieval
- - [https://tarr.uspto.gov](https://tarr.uspto.gov)
- - date_published: 2024-05-06T23:44:36.407334+00:00
-
- ## TBMP
- - [https://tbmp.uspto.gov](https://tbmp.uspto.gov)
- - date_published: 2024-06-28T19:52:17.826449+00:00
-
- ## Search our trademark database
- - [http://tess2.uspto.gov](http://tess2.uspto.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## TFSR
- - [https://tfsr.uspto.gov](https://tfsr.uspto.gov)
- - date_published: 2024-06-28T19:52:14.208439+00:00
-
- ## Trademark Electronic Search System (TESS)
- - [https://tmsearch.uspto.gov](https://tmsearch.uspto.gov)
- - date_published: 2023-10-25T19:26:42.135004+00:00
-
- ## Trademark Status & Document Retrieval
- - [https://tsdr.uspto.gov](https://tsdr.uspto.gov)
- - date_published: 2023-10-25T19:26:49.816767+00:00
-
- ## USPTO TTABVUE. Trademark Trial and Appeal Board Inquiry System
- - [https://ttabvue.uspto.gov](https://ttabvue.uspto.gov)
- - date_published: 2024-06-28T19:52:00.780214+00:00
-
- ## United States Patent and Trademark Office
- - [https://uspto.gov](https://uspto.gov)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Homepage | United States Sentencing Commission
- - [https://www.ussc.gov](https://www.ussc.gov)
- - date_published: 2024-09-12T13:55:10+00:00
 

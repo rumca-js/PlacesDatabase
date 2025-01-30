@@ -1,3 +1,11 @@
+ ## Botsheets - Create AI Chatbots With Google Sheets
+ - [https://botsheets.com](https://botsheets.com)
+ - date_published: 2024-06-27T10:52:31.746117+00:00
+
+ ## A Fully Automated Chatbot Platform To Build AI-Chatbot
+ - [https://botsify.com](https://botsify.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## Searchbot Simulator URL/User Agent Entry
  - [https://botsimulator.com](https://botsimulator.com)
  - date_published: 2024-09-09T16:24:42.575714+00:00
@@ -4014,12 +4022,4 @@
  ## Brevo
  - [https://fe-common-apps.brevo.com](https://fe-common-apps.brevo.com)
  - date_published: 2024-09-18T18:15:15.008142+00:00
-
- ## Brevo (formerly Sendinblue) | Email Marketing, Automation & CRM
- - [https://get.brevo.com](https://get.brevo.com)
- - date_published: 2024-07-08T15:14:26.587426+00:00
-
- ## Brevo - Help Center
- - [https://help.brevo.com](https://help.brevo.com)
- - date_published: 2024-05-06T00:00:00+00:00
 

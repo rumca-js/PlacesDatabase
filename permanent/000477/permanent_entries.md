@@ -1,3 +1,95 @@
+ ## Wikipedia – Encyclopedia Yaulere
+ - [https://ny.m.wikipedia.org](https://ny.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:20+00:00
+
+ ## Wikipedia – Encyclopedia Yaulere
+ - [https://ny.wikipedia.org](https://ny.wikipedia.org)
+ - date_published: 2024-05-10T04:17:37.781469+00:00
+
+ ## Wikipèdia
+ - [https://oc.m.wikipedia.org](https://oc.m.wikipedia.org)
+ - date_published: 2024-07-11T18:41:45+00:00
+
+ ## Wikipèdia
+ - [https://oc.wikipedia.org](https://oc.wikipedia.org)
+ - date_published: 2024-05-10T04:26:00.434707+00:00
+
+ ## Wikipedii
+ - [https://olo.m.wikipedia.org](https://olo.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:20+00:00
+
+ ## Wikipedii
+ - [https://olo.wikipedia.org](https://olo.wikipedia.org)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Wikipedia
+ - [https://om.m.wikipedia.org](https://om.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:20+00:00
+
+ ## Wikipedia
+ - [https://om.wikipedia.org](https://om.wikipedia.org)
+ - date_published: 2024-05-10T04:26:21.457852+00:00
+
+ ## ଉଇକିପିଡ଼ିଆ
+ - [https://or.m.wikipedia.org](https://or.m.wikipedia.org)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## ଉଇକିପିଡ଼ିଆ
+ - [https://or.wikipedia.org](https://or.wikipedia.org)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Википеди
+ - [https://os.m.wikipedia.org](https://os.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:20+00:00
+
+ ## Википеди
+ - [https://os.wikipedia.org](https://os.wikipedia.org)
+ - date_published: 2024-05-10T03:55:39.142890+00:00
+
+ ## Wikipedia
+ - [https://pag.m.wikipedia.org](https://pag.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:20+00:00
+
+ ## Wikipedia
+ - [https://pag.wikipedia.org](https://pag.wikipedia.org)
+ - date_published: 2024-05-10T04:29:53.708289+00:00
+
+ ## Wikipedia
+ - [https://pam.m.wikipedia.org](https://pam.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:20+00:00
+
+ ## ਵਿਕੀਪੀਡੀਆ, ਇਕ ਅਜ਼ਾਦ ਵਿਸ਼ਵਗਿਆਨਕੋਸ਼
+ - [https://pa.m.wikipedia.org](https://pa.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:20+00:00
+
+ ## Wikipedia
+ - [https://pam.wikipedia.org](https://pam.wikipedia.org)
+ - date_published: 2024-05-10T04:29:27.068628+00:00
+
+ ## Wikipedia
+ - [https://pap.m.wikipedia.org](https://pap.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:21+00:00
+
+ ## Wikipedia
+ - [https://pap.wikipedia.org](https://pap.wikipedia.org)
+ - date_published: 2024-05-10T04:29:20.291627+00:00
+
+ ## ਵਿਕੀਪੀਡੀਆ, ਇਕ ਅਜ਼ਾਦ ਵਿਸ਼ਵਗਿਆਨਕੋਸ਼
+ - [https://pa.wikipedia.org](https://pa.wikipedia.org)
+ - date_published: 2024-05-10T04:27:04.642197+00:00
+
+ ## Wikipedia
+ - [https://pcd.m.wikipedia.org](https://pcd.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:21+00:00
+
+ ## Wikipedia
+ - [https://pcd.wikipedia.org](https://pcd.wikipedia.org)
+ - date_published: 2024-05-10T04:25:00.255714+00:00
+
+ ## Wikipedia
+ - [https://pcm.m.wikipedia.org](https://pcm.m.wikipedia.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## Wikipedia
  - [https://pcm.wikipedia.org](https://pcm.wikipedia.org)
  - date_published: 2024-05-10T04:28:00.531596+00:00
@@ -3907,96 +3999,4 @@
  ## Wiktionary
  - [https://lmo.m.wiktionary.org](https://lmo.m.wiktionary.org)
  - date_published: 2024-09-04T03:47:13+00:00
-
- ## Wiktionary
- - [https://lmo.wiktionary.org](https://lmo.wiktionary.org)
- - date_published: 2024-06-01T02:56:08+00:00
-
- ## Wiktionary
- - [https://ln.m.wiktionary.org](https://ln.m.wiktionary.org)
- - date_published: 2024-09-04T03:20:39+00:00
-
- ## Wiktionary
- - [https://ln.wiktionary.org](https://ln.wiktionary.org)
- - date_published: 2024-06-01T00:20:25+00:00
-
- ## Wiktionary
- - [https://lo.m.wiktionary.org](https://lo.m.wiktionary.org)
- - date_published: 2024-09-07T06:41:48+00:00
-
- ## Wiktionary
- - [https://lo.wiktionary.org](https://lo.wiktionary.org)
- - date_published: 2024-06-11T12:31:44+00:00
-
- ## Suoku puslopa - Wt/ltg - Wikimedia Incubator
- - [https://ltg.wiktionary.org](https://ltg.wiktionary.org)
- - date_published: 2024-09-04T03:47:10+00:00
-
- ## Vikižodynas
- - [https://lt.m.wiktionary.org](https://lt.m.wiktionary.org)
- - date_published: 2024-09-07T06:41:49+00:00
-
- ## Vikižodynas
- - [https://lt.wiktionary.org](https://lt.wiktionary.org)
- - date_published: 2024-06-14T03:25:42+00:00
-
- ## Wiktionary
- - [https://lv.m.wiktionary.org](https://lv.m.wiktionary.org)
- - date_published: 2024-09-04T03:26:00+00:00
-
- ## Wiktionary
- - [https://lv.wiktionary.org](https://lv.wiktionary.org)
- - date_published: 2024-06-01T12:26:04+00:00
-
- ## Tanèyan - Wt/mad - Wikimedia Incubator
- - [https://mad.wiktionary.org](https://mad.wiktionary.org)
- - date_published: 2024-09-04T03:31:12+00:00
-
- ## Basa Banyumasan Wiktionary - Wikimedia Incubator
- - [https://map-bms.wiktionary.org](https://map-bms.wiktionary.org)
- - date_published: 2024-07-12T03:30:24.596150+00:00
-
- ## Пря лопа - Wt/mdf - Wikimedia Incubator
- - [https://mdf.wiktionary.org](https://mdf.wiktionary.org)
- - date_published: 2024-06-28T02:30:23+00:00
-
- ## Wiktionary
- - [https://mg.m.wiktionary.org](https://mg.m.wiktionary.org)
- - date_published: 2024-09-08T09:36:27+00:00
-
- ## Wiktionary
- - [https://mg.wiktionary.org](https://mg.wiktionary.org)
- - date_published: 2024-06-11T12:31:45+00:00
-
- ## Wiktionary
- - [https://mh.m.wiktionary.org](https://mh.m.wiktionary.org)
- - date_published: 2024-09-04T03:46:20+00:00
-
- ## Wiktionary
- - [https://mh.wiktionary.org](https://mh.wiktionary.org)
- - date_published: 2024-06-07T20:13:04+00:00
-
- ## Wikikato
- - [https://min.m.wiktionary.org](https://min.m.wiktionary.org)
- - date_published: 2024-09-16T19:38:05+00:00
-
- ## Wikikato
- - [https://min.wiktionary.org](https://min.wiktionary.org)
- - date_published: 2024-06-01T12:24:30+00:00
-
- ## Wiktionary
- - [https://mi.wiktionary.org](https://mi.wiktionary.org)
- - date_published: 2024-06-01T07:00:18+00:00
-
- ## Викиречник
- - [https://mk.m.wiktionary.org](https://mk.m.wiktionary.org)
- - date_published: 2024-09-04T03:12:12+00:00
-
- ## Викиречник
- - [https://mk.wiktionary.org](https://mk.wiktionary.org)
- - date_published: 2024-06-12T23:18:03+00:00
-
- ## വിക്കിനിഘണ്ടു
- - [https://ml.m.wiktionary.org](https://ml.m.wiktionary.org)
- - date_published: 2024-09-03T13:25:20+00:00
 

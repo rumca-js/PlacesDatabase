@@ -1,3 +1,95 @@
+ ## Enrico Boccioletti, 2020
+ - [http://spcnvdr.org](http://spcnvdr.org)
+ - date_published: 2024-10-29T14:24:15.895695+00:00
+
+ ## Small Press Distribution
+ - [https://spdbooks.org](https://spdbooks.org)
+ - date_published: 2024-04-29T05:30:12.814028+00:00
+
+ ## SPDX – Linux Foundation Projects Site
+ - [https://spdx.org](https://spdx.org)
+ - date_published: 2024-04-30T00:28:55.279354+00:00
+
+ ## SPDX Online Tool
+ - [https://tools.spdx.org](https://tools.spdx.org)
+ - date_published: 2024-07-22T17:24:36.348915+00:00
+
+ ## SP DX Club – Stowarzyszenie Miłośników Dalekosiężnych Łączności Radiowych
+ - [http://www.spdxc.org](http://www.spdxc.org)
+ - date_published: 2024-07-15T04:11:40.766383+00:00
+
+ ## Home - SPE Connect
+ - [https://connect.spe.org](https://connect.spe.org)
+ - date_published: 2025-01-20T10:14:28.918493+00:00
+
+ ## Society of Petroleum Engineers (SPE) | Oil & Gas Membership Association
+ - [https://spe.org](https://spe.org)
+ - date_published: 2025-01-08T09:59:57.258023+00:00
+
+ ## Society of Petroleum Engineers (SPE) | Oil & Gas Membership Association
+ - [http://www.spe.org](http://www.spe.org)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Speaker Cleaner – Fix Speakers and Eject Water and Dust
+ - [https://speakercleaner.org](https://speakercleaner.org)
+ - date_published: 2025-01-27T21:09:06.225897+00:00
+
+ ## SPEAKEZEE.ORG
+ - [https://speakezee.org](https://speakezee.org)
+ - date_published: 2024-06-29T02:57:45.918687+00:00
+
+ ## Speakit – Film & TV Production
+ - [https://www.speakit.org](https://www.speakit.org)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## บาคาร่าออนไลน์ เว็บตรง ไม่ผ่านเอเย่นต์ ค่ายเกมลิขสิทธิ์แท้ 100%
+ - [https://spearville.org](https://spearville.org)
+ - date_published: 2025-01-22T14:11:25.980322+00:00
+
+ ## Welcome to ICPE2020: ICPE 2020
+ - [https://icpe2020.spec.org](https://icpe2020.spec.org)
+ - date_published: 2021-03-09T14:22:10+00:00
+
+ ## SPEC Research Group
+ - [https://research.spec.org](https://research.spec.org)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Abu Simbel: Secret of Ramses
+ - [http://abusimbel2.speccy.org](http://abusimbel2.speccy.org)
+ - date_published: 2006-06-25T11:55:50+00:00
+
+ ## Akton Films
+ - [http://aktonfilms.speccy.org](http://aktonfilms.speccy.org)
+ - date_published: 2007-10-22T21:20:07+00:00
+
+ ## Bacteria, el emulador mas pequeño del mundo
+ - [http://bacteria.speccy.org](http://bacteria.speccy.org)
+ - date_published: 2012-11-06T12:30:39+00:00
+
+ ## B.A.S.E.
+ - [http://base.speccy.org](http://base.speccy.org)
+ - date_published: 2008-03-01T20:06:18+00:00
+
+ ## Página de Bibosoft
+ - [http://bibosoft.speccy.org](http://bibosoft.speccy.org)
+ - date_published: 2014-11-26T22:37:21+00:00
+
+ ## Alexander Podzhunas ZX-Projects/TAP VERSION
+ - [http://biotoxin.speccy.org](http://biotoxin.speccy.org)
+ - date_published: 2011-01-11T16:52:26+00:00
+
+ ## Documento sin título
+ - [http://canadul.speccy.org](http://canadul.speccy.org)
+ - date_published: 2023-10-31T11:23:01+00:00
+
+ ## CargandoLeches
+ - [http://cargandoleches.speccy.org](http://cargandoleches.speccy.org)
+ - date_published: 2012-06-09T14:18:02+00:00
+
+ ## Compiler Software
+ - [https://compiler.speccy.org](https://compiler.speccy.org)
+ - date_published: 2024-05-09T09:07:05.232781+00:00
+
  ## Curso de Código Máquina del ZX-Spectrum
  - [http://curso-cm.speccy.org](http://curso-cm.speccy.org)
  - date_published: 2003-09-25T08:53:47+00:00
@@ -3939,96 +4031,4 @@ photonics applied research.
  ## Public Modules - Home  - default  - Sunnyvale Chamber of Commerce
  - [https://business.svcoc.org](https://business.svcoc.org)
  - date_published: 2024-06-28T09:07:23.116616+00:00
-
- ## Saint Vincent's Day Home Oakland | Child Development & Family Resource Center
- - [https://svdh.org](https://svdh.org)
- - date_published: 2020-07-07T03:42:26+00:00
-
- ## St. Vincent de Paul Shreveport | End Poverty through Systemic Change
- - [https://svdpshreveport.org](https://svdpshreveport.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## | Sveinbjorn Thordarson |
- - [https://sveinbjorn.org](https://sveinbjorn.org)
- - date_published: 2022-12-08T20:46:55+00:00
-
- ## | Sveinbjorn Thordarson |
- - [http://www.sveinbjorn.org](http://www.sveinbjorn.org)
- - date_published: 2022-12-08T20:46:55+00:00
-
- ## Sveriges Natur - Sveriges största miljö- och naturtidning
- - [http://www.sverigesnatur.org](http://www.sverigesnatur.org)
- - date_published: 2024-10-22T20:08:29.123964+00:00
-
- ## SVG OPEN
- - [http://www.svgopen.org](http://www.svgopen.org)
- - date_published: 2025-01-21T16:43:04.570088+00:00
-
- ## svij | Sujeevan Vijayakumaran
- - [https://svij.org](https://svij.org)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Silicon Valley Chapter - ISSA
- - [https://sv-issa.org](https://sv-issa.org)
- - date_published: 2024-06-21T21:27:56+00:00
-
- ## Servicio de Videointerpretación para las personas sordas afectadas por la DANA
- - [https://dana.svisual.org](https://dana.svisual.org)
- - date_published: 2024-12-11T14:06:47.048150+00:00
-
- ## Servicio conjunto de videointerpretación SVIsual del Gobierno de Extremadura, la Diputación de Badajoz y la Diputación de Cáceres
- - [https://extremadura.svisual.org](https://extremadura.svisual.org)
- - date_published: 2024-12-11T16:59:21.071578+00:00
-
- ## DEPO 50 BONUS 50 : Situs Slot Deposit 50 Bonus 50 New Member Terbaru Gampang Menang
- - [https://www.svlawcollege.org](https://www.svlawcollege.org)
- - date_published: 2025-01-25T12:44:01.407174+00:00
-
- ## Support Vector Machines (SVMs)
- - [https://www.svms.org](https://www.svms.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## pxj00 สล็อตตรงแตกหนัก จัดหนักจัดเต็ม ฟรีเครดิต บิ๊กวิน ฟรีสปิน ออโต้
- - [http://svmykolayrun.org](http://svmykolayrun.org)
- - date_published: 2024-12-13T16:34:59+00:00
-
- ## [ Радио Свобода ]
- - [http://archive.svoboda.org](http://archive.svoboda.org)
- - date_published: 2024-08-18T15:08:27.288257+00:00
-
- ## Радио Свобода
- - [https://svoboda.org](https://svoboda.org)
- - date_published: 2023-10-30T13:20:52.762426+00:00
-
- ## SVPAL MailMan Server
- - [http://mailman.svpal.org](http://mailman.svpal.org)
- - date_published: 2020-10-09T06:32:05+00:00
-
- ## SVPAL
- - [https://www.svpal.org](https://www.svpal.org)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## SVR.JS Blog
- - [https://blog.svrjs.org](https://blog.svrjs.org)
- - date_published: 2024-07-14T11:10:18.024886+00:00
-
- ## SUPPORTING INNOVATION AND COMMERCIALIZATION OF ROBOTICS TECHNOLOGIES
- - [https://svrobo.org](https://svrobo.org)
- - date_published: 2024-05-11T08:10:51.496564+00:00
-
- ## SwagMasha
- - [https://swagmasha.org](https://swagmasha.org)
- - date_published: 2024-04-23T08:56:19+00:00
-
- ## Swallow Hill Music | Concerts, Classes, and Community in Denver
- - [https://swallowhillmusic.org](https://swallowhillmusic.org)
- - date_published: 2024-12-22T05:26:21.762072+00:00
-
- ## Swallowtail
- - [https://swallowtail.org](https://swallowtail.org)
- - date_published: 2024-05-09T08:56:07.352747+00:00
-
- ## Swapface
- - [https://swapface.org](https://swapface.org)
- - date_published: 2024-04-30T13:49:59+00:00
 

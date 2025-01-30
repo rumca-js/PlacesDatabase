@@ -1,3 +1,23 @@
+ ## Unsupported EU page
+ - [https://login.publicopiniononline.com](https://login.publicopiniononline.com)
+ - date_published: 2024-06-29T07:20:53.059407+00:00
+
+ ## Newsletters | Public Opinion
+ - [https://profile.publicopiniononline.com](https://profile.publicopiniononline.com)
+ - date_published: 2024-05-07T09:45:46.301928+00:00
+
+ ## Chambersburg Breaking News, Sports, Weather, Traffic - Chambersburg Public Opinion
+ - [https://publicopiniononline.com](https://publicopiniononline.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Unsupported EU page
+ - [https://subscribe.publicopiniononline.com](https://subscribe.publicopiniononline.com)
+ - date_published: 2024-06-29T07:20:52.067157+00:00
+
+ ## Home - Public Policy Polling
+ - [https://www.publicpolicypolling.com](https://www.publicpolicypolling.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Home - Public Possession
  - [http://publicpossession.com](http://publicpossession.com)
  - date_published: 2024-07-13T00:00:00+00:00
@@ -4019,24 +4039,4 @@
  ## Main Home
  - [https://bridge488.qodeinteractive.com](https://bridge488.qodeinteractive.com)
  - date_published: 2023-09-20T12:43:05+00:00
-
- ## Home
- - [https://bridge489.qodeinteractive.com](https://bridge489.qodeinteractive.com)
- - date_published: 2023-09-21T20:15:39+00:00
-
- ## Home
- - [https://bridge492.qodeinteractive.com](https://bridge492.qodeinteractive.com)
- - date_published: 2023-09-20T14:03:38+00:00
-
- ## Home
- - [https://bridge493.qodeinteractive.com](https://bridge493.qodeinteractive.com)
- - date_published: 2023-10-03T08:08:39+00:00
-
- ## Home
- - [https://bridge494.qodeinteractive.com](https://bridge494.qodeinteractive.com)
- - date_published: 2023-10-03T13:09:04+00:00
-
- ## Home
- - [https://bridge495.qodeinteractive.com](https://bridge495.qodeinteractive.com)
- - date_published: 2023-10-03T10:52:13+00:00
 

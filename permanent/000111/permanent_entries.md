@@ -1,3 +1,11 @@
+ ## Devon's  clippings
+ - [https://clippings.devonzuegel.com](https://clippings.devonzuegel.com)
+ - date_published: 2024-09-15T13:57:26.709567+00:00
+
+ ## devonzuegel.com
+ - [https://devonzuegel.com](https://devonzuegel.com)
+ - date_published: 2023-10-25T13:51:08.835756+00:00
+
  ## DEV-OPENCART.COM - Дополнения и шаблоны для CMS Opencart всех версий!
  - [https://dev-opencart.com](https://dev-opencart.com)
  - date_published: 2024-07-08T19:11:48.544777+00:00
@@ -4030,12 +4038,4 @@ A blog about programming, distributed systems and others
  ## DingDing
  - [https://n.dingtalk.com](https://n.dingtalk.com)
  - date_published: 2024-07-09T11:01:39.506765+00:00
-
- ## 钉钉合作伙伴——PaaS First Partner First
- - [https://partner.dingtalk.com](https://partner.dingtalk.com)
- - date_published: 2024-07-09T11:01:41.161121+00:00
-
- ## Dingwalls – Camden's Famous Live Music Venue
- - [https://dingwalls.com](https://dingwalls.com)
- - date_published: 2024-10-17T11:59:53.975213+00:00
 

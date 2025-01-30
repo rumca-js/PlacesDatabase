@@ -1,3 +1,11 @@
+ ## The Chattering Horde
+ - [http://chatteringhorde.blogspot.com](http://chatteringhorde.blogspot.com)
+ - date_published: 2024-07-03T02:15:46+00:00
+
+ ## Chattering Teeth
+ - [http://chatteringteeth.blogspot.com](http://chatteringteeth.blogspot.com)
+ - date_published: 2024-09-02T09:08:41+00:00
+
  ## Le Chaudron Chromatique
  - [http://chaudronchromatique.blogspot.com](http://chaudronchromatique.blogspot.com)
  - date_published: 2024-07-14T21:01:45+00:00
@@ -3996,12 +4004,4 @@
  ## inactivity log for davidz
  - [http://davidz25.blogspot.com](http://davidz25.blogspot.com)
  - date_published: 2024-05-30T09:01:53+00:00
-
- ## Davis Typewriter Works
- - [http://davistypewriters.blogspot.com](http://davistypewriters.blogspot.com)
- - date_published: 2024-07-10T01:53:57+00:00
-
- ## Morley's blog page
- - [http://davmor2.blogspot.com](http://davmor2.blogspot.com)
- - date_published: 2024-03-07T09:25:24+00:00
 

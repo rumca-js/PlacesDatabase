@@ -1,3 +1,11 @@
+ ## cringeMDb | Find Movies Safe to Watch with Parents
+ - [https://cringemdb.com](https://cringemdb.com)
+ - date_published: 2024-11-12T17:05:17.632681+00:00
+
+ ## Criotec: cryogenic and high vacuum technologies | Criotec Impianti
+ - [https://www.criotec.com](https://www.criotec.com)
+ - date_published: 2024-07-24T07:30:22.692245+00:00
+
  ## cripchick.com - Ta strona jest na sprzedaż! - cripchick Zasoby i informacje.
  - [http://blog.cripchick.com](http://blog.cripchick.com)
  - date_published: 2024-10-21T17:04:08.755641+00:00
@@ -4041,13 +4049,4 @@
  ## Login - Cults Community
  - [https://community.cultscultscults.com](https://community.cultscultscults.com)
  - date_published: 2024-05-08T07:14:12.291881+00:00
-
- ## CULTS Fall 2022 Tour | cults
- - [https://cultscultscults.com](https://cultscultscults.com)
- - date_published: 2023-11-13T09:46:10.167697+00:00
- - tags: ['music band']
-
- ## Welcome to CultTVman’s Fantastic Modeling
- - [https://culttvman.com](https://culttvman.com)
- - date_published: 2024-10-29T20:08:48.479386+00:00
 

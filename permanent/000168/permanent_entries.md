@@ -1,3 +1,28 @@
+ ## Erotica, Paranormal Romance and Young Adult Adventure
+ - [https://kresleycole.com](https://kresleycole.com)
+ - date_published: 2024-05-04T09:41:17.854162+00:00
+ - tags: ['literature', 'writer', 'book']
+
+ ## Coming soon | Kresley Cole Shop
+ - [https://kresleycoleshop.com](https://kresleycoleshop.com)
+ - date_published: 2024-09-04T05:40:05.277382+00:00
+
+ ## KREW DISTRICT Official Website
+ - [https://www.krewdistrict.com](https://www.krewdistrict.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## KREWE | New Orleans Luxury Sunglasses and Eyewear
+ - [https://www.krewe.com](https://www.krewe.com)
+ - date_published: 2024-07-12T14:00:31.446771+00:00
+
+ ## Krewe of Mask
+ - [https://www.kreweofmask.com](https://www.kreweofmask.com)
+ - date_published: 2024-06-30T12:22:26.683955+00:00
+
+ ## KR Electronics, Inc. – KR Electronics RF Filters and LC Filters
+ - [https://krfilters.com](https://krfilters.com)
+ - date_published: 2024-08-07T02:41:35.503279+00:00
+
  ## Krickelkrackel | I had nothing in mind while painting this.
  - [https://krickelkrackel.com](https://krickelkrackel.com)
  - date_published: 2023-10-25T15:39:08.147156+00:00
@@ -3998,28 +4023,4 @@
  ## Lake Las Vegas Water Sports | Paddleboarding | Boat Rentals
  - [https://lakelasvegaswatersports.com](https://lakelasvegaswatersports.com)
  - date_published: 2025-01-20T21:07:29.175064+00:00
-
- ## Lake and McHenry County Scanner - Local News in Lake County and McHenry County, IL
- - [https://www.lakemchenryscanner.com](https://www.lakemchenryscanner.com)
- - date_published: 2023-11-06T16:59:54.220046+00:00
-
- ## Lake Nona | Vibrant, Master-Planned Community in Orlando, FL
- - [http://www.lakenona.com](http://www.lakenona.com)
- - date_published: 2025-01-25T13:15:56.620030+00:00
-
- ## Lake Placid News
- - [https://www.lakeplacidnews.com](https://www.lakeplacidnews.com)
- - date_published: 2024-10-15T19:16:19.410594+00:00
-
- ## Lab Gruppen | Home
- - [https://www.lakeprocessing.com](https://www.lakeprocessing.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## LakersNation.com the Largest Lakers Fan Site on the Planet
- - [https://lakersnation.com](https://lakersnation.com)
- - date_published: 2024-06-23T13:08:02.032279+00:00
-
- ## Lakers Store | Los Angeles Lakers Gear & Apparel
- - [https://lakersstore.com](https://lakersstore.com)
- - date_published: 2024-07-09T06:29:12.048717+00:00
 

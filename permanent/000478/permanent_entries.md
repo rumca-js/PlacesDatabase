@@ -1,3 +1,95 @@
+ ## Wiktionary
+ - [https://lmo.wiktionary.org](https://lmo.wiktionary.org)
+ - date_published: 2024-06-01T02:56:08+00:00
+
+ ## Wiktionary
+ - [https://ln.m.wiktionary.org](https://ln.m.wiktionary.org)
+ - date_published: 2024-09-04T03:20:39+00:00
+
+ ## Wiktionary
+ - [https://ln.wiktionary.org](https://ln.wiktionary.org)
+ - date_published: 2024-06-01T00:20:25+00:00
+
+ ## Wiktionary
+ - [https://lo.m.wiktionary.org](https://lo.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:48+00:00
+
+ ## Wiktionary
+ - [https://lo.wiktionary.org](https://lo.wiktionary.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Suoku puslopa - Wt/ltg - Wikimedia Incubator
+ - [https://ltg.wiktionary.org](https://ltg.wiktionary.org)
+ - date_published: 2024-09-04T03:47:10+00:00
+
+ ## Vikižodynas
+ - [https://lt.m.wiktionary.org](https://lt.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:49+00:00
+
+ ## Vikižodynas
+ - [https://lt.wiktionary.org](https://lt.wiktionary.org)
+ - date_published: 2024-06-14T03:25:42+00:00
+
+ ## Wiktionary
+ - [https://lv.m.wiktionary.org](https://lv.m.wiktionary.org)
+ - date_published: 2024-09-04T03:26:00+00:00
+
+ ## Wiktionary
+ - [https://lv.wiktionary.org](https://lv.wiktionary.org)
+ - date_published: 2024-06-01T12:26:04+00:00
+
+ ## Tanèyan - Wt/mad - Wikimedia Incubator
+ - [https://mad.wiktionary.org](https://mad.wiktionary.org)
+ - date_published: 2024-09-04T03:31:12+00:00
+
+ ## Basa Banyumasan Wiktionary - Wikimedia Incubator
+ - [https://map-bms.wiktionary.org](https://map-bms.wiktionary.org)
+ - date_published: 2024-07-12T03:30:24.596150+00:00
+
+ ## Пря лопа - Wt/mdf - Wikimedia Incubator
+ - [https://mdf.wiktionary.org](https://mdf.wiktionary.org)
+ - date_published: 2024-06-28T02:30:23+00:00
+
+ ## Wiktionary
+ - [https://mg.m.wiktionary.org](https://mg.m.wiktionary.org)
+ - date_published: 2024-09-08T09:36:27+00:00
+
+ ## Wiktionary
+ - [https://mg.wiktionary.org](https://mg.wiktionary.org)
+ - date_published: 2024-06-11T12:31:45+00:00
+
+ ## Wiktionary
+ - [https://mh.m.wiktionary.org](https://mh.m.wiktionary.org)
+ - date_published: 2024-09-04T03:46:20+00:00
+
+ ## Wiktionary
+ - [https://mh.wiktionary.org](https://mh.wiktionary.org)
+ - date_published: 2024-06-07T20:13:04+00:00
+
+ ## Wikikato
+ - [https://min.m.wiktionary.org](https://min.m.wiktionary.org)
+ - date_published: 2024-09-16T19:38:05+00:00
+
+ ## Wikikato
+ - [https://min.wiktionary.org](https://min.wiktionary.org)
+ - date_published: 2024-06-01T12:24:30+00:00
+
+ ## Wiktionary
+ - [https://mi.wiktionary.org](https://mi.wiktionary.org)
+ - date_published: 2024-06-01T07:00:18+00:00
+
+ ## Викиречник
+ - [https://mk.m.wiktionary.org](https://mk.m.wiktionary.org)
+ - date_published: 2024-09-04T03:12:12+00:00
+
+ ## Викиречник
+ - [https://mk.wiktionary.org](https://mk.wiktionary.org)
+ - date_published: 2024-06-12T23:18:03+00:00
+
+ ## വിക്കിനിഘണ്ടു
+ - [https://ml.m.wiktionary.org](https://ml.m.wiktionary.org)
+ - date_published: 2024-09-03T13:25:20+00:00
+
  ## വിക്കിനിഘണ്ടു
  - [https://ml.wiktionary.org](https://ml.wiktionary.org)
  - date_published: 2024-05-31T14:54:59+00:00
@@ -3921,98 +4013,4 @@
  ## Instituto de Recursos Mundiales (WRI) | Convirtiendo las Grandes Ideas en Realidades
  - [https://es.wri.org](https://es.wri.org)
  - date_published: 2024-09-12T14:55:51+00:00
-
- ## World Resources Institute | Making Big Ideas Happen
- - [https://giving.wri.org](https://giving.wri.org)
- - date_published: 2024-09-12T14:51:26+00:00
-
- ## WRI Indonesia | Making Big Ideas Happen | WRI Indonesia
- - [https://id.wri.org](https://id.wri.org)
- - date_published: 2024-09-12T15:00:32+00:00
-
- ## World Resources Institute | Making Big Ideas Happen
- - [https://research.wri.org](https://research.wri.org)
- - date_published: 2024-09-12T14:51:26+00:00
-
- ## World Resources Institute | Making Big Ideas Happen
- - [https://wri.org](https://wri.org)
- - date_published: 2024-06-12T12:16:39.537561+00:00
-
- ## Home Page for the Wright Brothers Aeroplane Company and wright-brothers.org
- - [http://wright-brothers.org](http://wright-brothers.org)
- - date_published: 2014-12-10T05:06:44+00:00
-
- ## Celebrate Wright Brothers Day - Events, History & More
- - [https://wrightbrothersday.org](https://wrightbrothersday.org)
- - date_published: 2024-12-24T07:58:59+00:00
-
- ## WRI INDIA
- - [https://wri-india.org](https://wri-india.org)
- - date_published: 2024-09-12T14:59:58+00:00
-
- ## WRI Ross Center for Sustainable Cities
- - [https://wrirosscities.org](https://wrirosscities.org)
- - date_published: 2024-12-11T21:53:20+00:00
-
- ## Write.as
- - [https://video.writeas.org](https://video.writeas.org)
- - date_published: 2024-05-14T03:31:57.000456+00:00
-
- ## WriteFreely
- - [https://blog.writefreely.org](https://blog.writefreely.org)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## WriteFreely
- - [https://writefreely.org](https://writefreely.org)
- - date_published: 2023-10-25T22:22:17.991561+00:00
- - tags: ['writing', 'blogs', 'self-host']
-
- ## Write Free Software
- - [https://discourse.writefreesoftware.org](https://discourse.writefreesoftware.org)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Write Free Software
- - [https://writefreesoftware.org](https://writefreesoftware.org)
- - date_published: 2023-10-25T22:22:24.018433+00:00
-
- ## Home - WriteHive
- - [https://writehive.org](https://writehive.org)
- - date_published: 2024-12-31T18:51:05+00:00
-
- ## Home - WriteHive
- - [https://www.writehive.org](https://www.writehive.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Writemyessaycheap – Kumpulan Game Android Terbaru Minggu Ini
- - [https://writemyessaycheap.org](https://writemyessaycheap.org)
- - date_published: 2024-08-20T04:10:30.069243+00:00
-
- ## 🥇 Write My Paper | Top 1 Paper Writing Service
- - [https://writemypaper4me.org](https://writemypaper4me.org)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## varve's burrow
- - [https://www.write-on.org](https://www.write-on.org)
- - date_published: 2024-07-14T08:15:57.296903+00:00
- - tags: ['personal']
-
- ## Writer's Almanac Archives - Garrison Keillor
- - [http://writersalmanac.org](http://writersalmanac.org)
- - date_published: 2024-10-29T18:09:02.415803+00:00
-
- ## Luanne Castle: Poetry and Other Words (and cats!)
- - [https://writersite.org](https://writersite.org)
- - date_published: 2024-06-30T11:00:52+00:00
-
- ## Job Board - Technical Writers and documentarians - Write the Docs
- - [https://jobs.writethedocs.org](https://jobs.writethedocs.org)
- - date_published: 2024-09-15T10:29:54.137768+00:00
-
- ## Welcome to our community!
- - [https://writethedocs.org](https://writethedocs.org)
- - date_published: 2024-05-15T12:51:03+00:00
-
- ## Welcome to Writing Commons – The Encyclopedia for Writers - Writing Commons
- - [http://writingcommons.org](http://writingcommons.org)
- - date_published: 2024-02-08T00:00:00+00:00
 

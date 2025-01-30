@@ -1,3 +1,43 @@
+ ## Hak Pak Sak
+ - [http://hakpaksak.wordpress.com](http://hakpaksak.wordpress.com)
+ - date_published: 2024-08-06T08:45:18.206982+00:00
+
+ ## Half Genius
+ - [https://halfgeniusblog.wordpress.com](https://halfgeniusblog.wordpress.com)
+ - date_published: 2024-08-11T05:36:28.166432+00:00
+
+ ## halfmuffled
+ - [http://halfmuffled.wordpress.com](http://halfmuffled.wordpress.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## halfthought
+ - [https://halfthought.wordpress.com](https://halfthought.wordpress.com)
+ - date_published: 2024-02-08T16:43:21.423616+00:00
+
+ ## Halley's Log
+ - [http://halleyslog.wordpress.com](http://halleyslog.wordpress.com)
+ - date_published: 2024-10-29T18:45:35+00:00
+
+ ## Hal Mueller's Blog
+ - [https://halmueller.wordpress.com](https://halmueller.wordpress.com)
+ - date_published: 2024-06-23T15:06:51.552847+00:00
+
+ ## haluise
+ - [http://haluise.wordpress.com](http://haluise.wordpress.com)
+ - date_published: 2024-06-30T04:14:09.017963+00:00
+
+ ## Ham Radio Blog PD0AC
+ - [https://hamgear.wordpress.com](https://hamgear.wordpress.com)
+ - date_published: 2024-12-25T14:35:28.627540+00:00
+
+ ## Hampshire Archives and Local Studies
+ - [https://hampshirearchivesandlocalstudies.wordpress.com](https://hampshirearchivesandlocalstudies.wordpress.com)
+ - date_published: 2024-10-29T18:22:23.752363+00:00
+
+ ## Handstands Around the World
+ - [http://handstandsaroundtheworld.wordpress.com](http://handstandsaroundtheworld.wordpress.com)
+ - date_published: 2024-09-18T09:59:52.293799+00:00
+
  ## Hank Whittemore's Memoir
  - [http://hankmemoir.wordpress.com](http://hankmemoir.wordpress.com)
  - date_published: 2025-01-25T01:35:10.914058+00:00
@@ -3969,44 +4009,4 @@
  ## κῆπος τῶν βιβλιοθηκῶν | a garden from the libraries
  - [https://lizbourke.wordpress.com](https://lizbourke.wordpress.com)
  - date_published: 2024-06-15T07:46:57+00:00
-
- ## Classically Inclined
- - [https://lizgloyn.wordpress.com](https://lizgloyn.wordpress.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Lizmonster Writes
- - [https://lizmonsterwrites.wordpress.com](https://lizmonsterwrites.wordpress.com)
- - date_published: 2024-07-04T13:49:58+00:00
-
- ## Lizzy Banks
- - [https://lizzybankscouk.wordpress.com](https://lizzybankscouk.wordpress.com)
- - date_published: 2024-09-04T19:34:59.722492+00:00
-
- ## Lizzy’s Literary Life (Volume 2)
- - [https://lizzysiddal2.wordpress.com](https://lizzysiddal2.wordpress.com)
- - date_published: 2024-09-17T17:14:00+00:00
-
- ## Lizzy's Literary Life (Volume One)
- - [http://lizzysiddal.wordpress.com](http://lizzysiddal.wordpress.com)
- - date_published: 2024-06-28T20:57:35.724215+00:00
-
- ## the bunsen boerner
- - [http://ljkboerner.wordpress.com](http://ljkboerner.wordpress.com)
- - date_published: 2024-06-17T11:57:33.347980+00:00
-
- ## Llanos & Libertadores
- - [http://llanosylibertadores.wordpress.com](http://llanosylibertadores.wordpress.com)
- - date_published: 2024-12-14T23:45:17.594487+00:00
-
- ## llewelly
- - [http://llewelly.wordpress.com](http://llewelly.wordpress.com)
- - date_published: 2024-07-15T09:17:57.648850+00:00
-
- ## Motley News, Photos and Fun
- - [https://llwproductions.wordpress.com](https://llwproductions.wordpress.com)
- - date_published: 2024-08-11T22:58:19+00:00
-
- ## El Space--The Blog of L. Marie
- - [http://lmarie7b.wordpress.com](http://lmarie7b.wordpress.com)
- - date_published: 2024-09-17T17:09:38.102197+00:00
 

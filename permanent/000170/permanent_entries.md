@@ -1,3 +1,27 @@
+ ## Lawry's Restaurants. Inc. | World Famous Prime Rib
+ - [http://www.lawrysonline.com](http://www.lawrysonline.com)
+ - date_published: 2024-10-21T16:28:04.520579+00:00
+
+ ## Copyright Laws
+ - [http://copyright.laws.com](http://copyright.laws.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## LawSchoolFacultyJobs.com is a job board that lists available faculty and administrative positions, as well as positions related to legal education outside law schools. This is a resource for the improvement of the quality of legal education by connecting law school faculty, professional staff and deans to the best and brightest candidates. The US News and World Report publishes the most well-known annual ranking of American programs. Law School Faculty Jobs
+ - [https://www.lawschoolfacultyjobs.com](https://www.lawschoolfacultyjobs.com)
+ - date_published: 2025-01-10T16:28:39.596199+00:00
+
+ ## LawServer » Putting the law at your fingertips
+ - [https://lawserver.com](https://lawserver.com)
+ - date_published: 2024-05-07T13:55:20.221412+00:00
+
+ ## LawSites | by Robert Ambrogi | Websites, Technology & the Law
+ - [https://lawsitesblog.com](https://lawsitesblog.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Law Sites Resources
+ - [https://lawsitesresources.com](https://lawsitesresources.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
  ## Law Society of Yukon - Law Society of Yukon
  - [http://www.lawsocietyyukon.com](http://www.lawsocietyyukon.com)
  - date_published: 2018-11-17T00:05:40+00:00
@@ -4010,28 +4034,4 @@ LearnWorlds
  ## The Computer Science Book | Learn computer science the easy way for self-taught developers
  - [https://thecomputersciencebook.lemonsqueezy.com](https://thecomputersciencebook.lemonsqueezy.com)
  - date_published: 2023-02-22T00:00:00+00:00
-
- ## ThemeX Studio
- - [https://themex.lemonsqueezy.com](https://themex.lemonsqueezy.com)
- - date_published: 2024-07-24T06:39:11.939283+00:00
-
- ## Thorsten Ball's books
- - [https://thorstenball.lemonsqueezy.com](https://thorstenball.lemonsqueezy.com)
- - date_published: 2024-08-19T08:41:07.935394+00:00
-
- ## Ubidrop
- - [https://ubidrop.lemonsqueezy.com](https://ubidrop.lemonsqueezy.com)
- - date_published: 2024-08-19T23:39:42.340861+00:00
-
- ## Uneed
- - [https://uneed.lemonsqueezy.com](https://uneed.lemonsqueezy.com)
- - date_published: 2024-07-12T17:05:25.065257+00:00
-
- ## Payments, Tax & Subscriptions for SaaS
- - [https://vid2txt.lemonsqueezy.com](https://vid2txt.lemonsqueezy.com)
- - date_published: 2024-10-29T18:22:56+00:00
-
- ## voxweave
- - [https://voxweave.lemonsqueezy.com](https://voxweave.lemonsqueezy.com)
- - date_published: 2024-04-30T15:43:28.381160+00:00
 

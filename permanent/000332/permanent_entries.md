@@ -1,3 +1,63 @@
+ ## University of Maryland-Baltimore County
+ - [https://give.umbc.edu](https://give.umbc.edu)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Giving At UMBC - UMBC: University Of Maryland, Baltimore County
+ - [http://giving.umbc.edu](http://giving.umbc.edu)
+ - date_published: 2019-12-20T05:00:00+00:00
+
+ ## Home
+ - [http://gradschool.umbc.edu](http://gradschool.umbc.edu)
+ - date_published: 2024-07-02T03:34:08.980532+00:00
+
+ ## Home
+ - [https://gritstarter.umbc.edu](https://gritstarter.umbc.edu)
+ - date_published: 2024-05-07T21:25:55.938507+00:00
+
+ ## Welcome
+ - [http://health.umbc.edu](http://health.umbc.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## UMBC Help - UMBC: An Honors University in Maryland
+ - [https://help.umbc.edu](https://help.umbc.edu)
+ - date_published: 2024-07-02T03:26:05.911533+00:00
+
+ ## Human Resources
+ - [https://hr.umbc.edu](https://hr.umbc.edu)
+ - date_published: 2024-07-02T03:31:36.936844+00:00
+
+ ## DoIT Security
+ - [https://itsecurity.umbc.edu](https://itsecurity.umbc.edu)
+ - date_published: 2023-06-20T00:00:00+00:00
+
+ ## Welcome to UMBC Jobs
+ - [https://jobs.umbc.edu](https://jobs.umbc.edu)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## AOK Library and Gallery
+ - [https://librarygallery.umbc.edu](https://librarygallery.umbc.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## AOK Library
+ - [https://library.umbc.edu](https://library.umbc.edu)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Welcome to UMBC Jobs
+ - [https://listings.umbc.edu](https://listings.umbc.edu)
+ - date_published: 2024-07-02T03:32:01.341578+00:00
+
+ ## Magazine - UMBC: University Of Maryland, Baltimore County
+ - [https://magazine.umbc.edu](https://magazine.umbc.edu)
+ - date_published: 2022-02-14T02:11:20+00:00
+
+ ## My Print Center
+ - [https://mobileprint.umbc.edu](https://mobileprint.umbc.edu)
+ - date_published: 2023-08-16T00:01:42+00:00
+
+ ## About
+ - [https://mtip.umbc.edu](https://mtip.umbc.edu)
+ - date_published: 2024-07-02T03:33:54.850291+00:00
+
  ## Start · myUMBC
  - [https://my3.my.umbc.edu](https://my3.my.umbc.edu)
  - date_published: 2024-07-02T03:31:57+00:00
@@ -3944,64 +4004,4 @@ Center for Information Technology Integration
  ## UNI Human Resource Services
  - [https://hrs.uni.edu](https://hrs.uni.edu)
  - date_published: 2024-07-02T03:49:18+00:00
-
- ## Honors & Scholars | Honors & Scholars
- - [https://hsp.uni.edu](https://hsp.uni.edu)
- - date_published: 2024-05-07T21:40:11.501427+00:00
-
- ## UNI@IACC | UNI@IACC
- - [https://iacc.uni.edu](https://iacc.uni.edu)
- - date_published: 2024-07-01T23:50:50+00:00
-
- ## Inside UNI | University of Northern Iowa
- - [https://insideuni.uni.edu](https://insideuni.uni.edu)
- - date_published: 2024-05-07T21:39:36.976911+00:00
-
- ## Institutional Effectiveness & Planning | Institutional Effectiveness & Planning
- - [https://ir.uni.edu](https://ir.uni.edu)
- - date_published: 2024-07-01T23:31:47+00:00
-
- ## Information Technology
- - [https://it.uni.edu](https://it.uni.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Loading...
- - [https://java.access.uni.edu](https://java.access.uni.edu)
- - date_published: 2024-04-29T19:29:06+00:00
-
- ## Richard O. Jacobson Center for Comprehensive Literacy | College of Education
- - [https://jccl.uni.edu](https://jccl.uni.edu)
- - date_published: 2024-07-01T23:35:26+00:00
-
- ## Jobs@UNI
- - [https://jobs.uni.edu](https://jobs.uni.edu)
- - date_published: 2024-05-07T21:40:23.503132+00:00
-
- ## Rod Library | Rod Library
- - [https://library.uni.edu](https://library.uni.edu)
- - date_published: 2024-05-07T21:40:57.765396+00:00
-
- ## Magazine | inside UNI
- - [https://magazine.uni.edu](https://magazine.uni.edu)
- - date_published: 2024-07-02T00:15:31+00:00
-
- ## Majors, Minors & Degrees | Majors, Minors & Degrees
- - [https://majors.uni.edu](https://majors.uni.edu)
- - date_published: 2024-05-07T21:39:42.975145+00:00
-
- ## Campus Map | University of Northern Iowa
- - [https://map.uni.edu](https://map.uni.edu)
- - date_published: 2024-05-07T21:40:40.727304+00:00
-
- ## UNI Museum @ Rod Library |
- - [https://museum.library.uni.edu](https://museum.library.uni.edu)
- - date_published: 2024-07-02T04:18:55+00:00
-
- ## School of Music | School of Music
- - [https://music.uni.edu](https://music.uni.edu)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Online & Distance Education | Online & Distance Education
- - [https://online.uni.edu](https://online.uni.edu)
- - date_published: 2024-05-07T21:39:30.394428+00:00
 

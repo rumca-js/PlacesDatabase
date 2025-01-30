@@ -1,3 +1,7 @@
+ ## Elektronik, Autos, Mode, Sammlerstücke, Gutscheine und mehr Online-Shopping | eBay
+ - [https://pages.ebay.ch](https://pages.ebay.ch)
+ - date_published: 2024-06-16T23:19:57.646264+00:00
+
  ## Einloggen oder neu anmelden | eBay
  - [https://pay.ebay.ch](https://pay.ebay.ch)
  - date_published: 2024-10-15T10:45:21.824192+00:00
@@ -4008,8 +4012,4 @@
  ## www.moneytoday.ch
  - [https://www.moneytoday.ch](https://www.moneytoday.ch)
  - date_published: 2025-01-23T09:51:41.052553+00:00
-
- ## Jobs | Stellenangebote | Jobsuche | Jobbörse | Monster.ch
- - [https://www.monster.ch](https://www.monster.ch)
- - date_published: 2024-06-16T13:57:55.151097+00:00
 

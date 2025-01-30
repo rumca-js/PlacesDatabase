@@ -1,3 +1,15 @@
+ ## The Critical Psychiatry website
+ - [http://www.critpsynet.freeuk.com](http://www.critpsynet.freeuk.com)
+ - date_published: 2025-01-22T22:29:01.363502+00:00
+
+ ## Free Vector Art & Graphics
+ - [http://freevector.com](http://freevector.com)
+ - date_published: 2024-05-08T05:01:55.262133+00:00
+
+ ## Free Vector Maps | Royalty Free Vector Maps
+ - [https://freevectormaps.com](https://freevectormaps.com)
+ - date_published: 2024-07-03T22:20:56.758900+00:00
+
  ## Vintage Crochet Patterns | Crochet Patterns
  - [http://freevintagecrochet.com](http://freevintagecrochet.com)
  - date_published: 2025-01-05T09:03:34+00:00
@@ -4028,16 +4040,4 @@
  ## Fungi Perfecti
  - [https://privacy.fungi.com](https://privacy.fungi.com)
  - date_published: 2023-12-07T00:00:00+00:00
-
- ## Fungi Academy – Sacred Mycology School
- - [https://fungiacademy.com](https://fungiacademy.com)
- - date_published: 2024-09-12T19:19:36.656453+00:00
-
- ## Conseil
- - [https://fungolf.com](https://fungolf.com)
- - date_published: 2023-08-31T13:20:06+00:00
-
- ## Fungus
- - [https://fungusgames.com](https://fungusgames.com)
- - date_published: 2024-07-13T05:01:55.492955+00:00
 

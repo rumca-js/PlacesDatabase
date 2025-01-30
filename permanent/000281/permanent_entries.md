@@ -1,3 +1,44 @@
+ ## Wolfram|Alpha: 世界の知識を計算可能にする
+ - [https://ja.wolframalpha.com](https://ja.wolframalpha.com)
+ - date_published: 2024-06-17T12:13:52.794817+00:00
+
+ ## Wolfram|Alpha: Products
+ - [https://products.wolframalpha.com](https://products.wolframalpha.com)
+ - date_published: 2024-05-11T11:23:31.573688+00:00
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://pt.wolframalpha.com](https://pt.wolframalpha.com)
+ - date_published: 2024-06-17T12:14:15.836942+00:00
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://ru.wolframalpha.com](https://ru.wolframalpha.com)
+ - date_published: 2024-06-17T12:14:03.220186+00:00
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://tw.wolframalpha.com](https://tw.wolframalpha.com)
+ - date_published: 2024-06-17T12:14:05.709886+00:00
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://wolframalpha.com](https://wolframalpha.com)
+ - date_published: 2024-05-16T02:46:11.105212+00:00
+ - tags: ['science', 'search engine', 'knowledge']
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://zh.wolframalpha.com](https://zh.wolframalpha.com)
+ - date_published: 2024-06-17T12:13:40.499906+00:00
+
+ ## Wolfram Blockchain Labs: Computational Intelligence for Your DLT
+ - [https://wolframblockchainlabs.com](https://wolframblockchainlabs.com)
+ - date_published: 2025-01-22T14:34:50.055709+00:00
+
+ ## Wolfram Challenges: Programming Puzzles for the Wolfram Language
+ - [https://challenges.wolframcloud.com](https://challenges.wolframcloud.com)
+ - date_published: 2025-01-22T14:34:38.311566+00:00
+
+ ## Wolfram Data Drop: Universal Data Accumulator
+ - [https://datadrop.wolframcloud.com](https://datadrop.wolframcloud.com)
+ - date_published: 2024-05-11T11:23:17.787097+00:00
+
  ## Wolfram Data Repository: Computable Access to Curated Data
  - [https://datarepository.wolframcloud.com](https://datarepository.wolframcloud.com)
  - date_published: 2024-05-11T11:22:56.944486+00:00
@@ -3973,44 +4014,4 @@ Company :: Home
  ## The Autistinquisitor
  - [http://autistinquisitor.wordpress.com](http://autistinquisitor.wordpress.com)
  - date_published: 2024-09-03T00:00:00+00:00
-
- ## Automattic
- - [https://automattic.wordpress.com](https://automattic.wordpress.com)
- - date_published: 2024-07-15T07:25:06.389782+00:00
-
- ## Automorphic Forum
- - [https://automorphicforum.wordpress.com](https://automorphicforum.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## AuTom's Spectrum
- - [http://automsblog.wordpress.com](http://automsblog.wordpress.com)
- - date_published: 2024-09-03T22:49:40.054131+00:00
-
- ## dietrich.ayala
- - [https://autonome.wordpress.com](https://autonome.wordpress.com)
- - date_published: 2024-07-07T10:26:57.139951+00:00
-
- ## Autonomous Mind
- - [https://autonomousmind.wordpress.com](https://autonomousmind.wordpress.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Autores e Livros
- - [http://autoreselivros.wordpress.com](http://autoreselivros.wordpress.com)
- - date_published: 2024-12-20T07:12:48.014181+00:00
-
- ## Autotranslucence
- - [https://autotranslucence.wordpress.com](https://autotranslucence.wordpress.com)
- - date_published: 2024-05-10T06:32:28.970664+00:00
-
- ## Autumn Moon
- - [http://autumnmoon.wordpress.com](http://autumnmoon.wordpress.com)
- - date_published: 2024-12-31T17:28:52.604818+00:00
-
- ## A journey into rendering
- - [https://auzaiffe.wordpress.com](https://auzaiffe.wordpress.com)
- - date_published: 2025-01-20T22:26:03.712202+00:00
-
- ## Ávalos...Te Recuerdo
- - [https://avalosblog.wordpress.com](https://avalosblog.wordpress.com)
- - date_published: 2024-05-09T05:35:53.995565+00:00
 

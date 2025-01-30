@@ -1,3 +1,19 @@
+ ## Granta | The Home of New Writing
+ - [https://workshops.granta.com](https://workshops.granta.com)
+ - date_published: 2024-04-16T10:07:32+00:00
+
+ ## Grant Barrett — linguist, lexicographer, and radio host
+ - [https://grantbarrett.com](https://grantbarrett.com)
+ - date_published: 2024-07-02T04:07:26+00:00
+
+ ## GrantFinder | The Ultimate Grant Search Tool
+ - [https://app.grantfinder.com](https://app.grantfinder.com)
+ - date_published: 2024-07-16T23:02:44.660548+00:00
+
+ ## Public Safety and Local Government Grants | GrantFinder
+ - [https://grantfinder.com](https://grantfinder.com)
+ - date_published: 2024-03-30T00:00:00+00:00
+
  ## GrantForward Search Engine | Search for federal grants, foundation grants, and limited submission opportunities
  - [https://grantforward.com](https://grantforward.com)
  - date_published: 2024-07-22T05:29:05.984304+00:00
@@ -4009,20 +4025,4 @@
  ## Grover press
  - [https://press.grover.com](https://press.grover.com)
  - date_published: 2024-11-30T21:55:16.048305+00:00
-
- ## Groveronline
- - [https://groveronline.com](https://groveronline.com)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Web Design & Custom Web Development - Grover Web Design
- - [https://groverwebdesign.com](https://groverwebdesign.com)
- - date_published: 2024-12-03T12:46:29+00:00
-
- ## Plausible · Web analytics
- - [https://pa.groverwebdesign.com](https://pa.groverwebdesign.com)
- - date_published: 2025-01-21T13:32:35.097320+00:00
-
- ## The Answers Are In Your Data | Business Intelligence Software | Grow
- - [https://grow.com](https://grow.com)
- - date_published: 2024-08-05T00:00:00+00:00
 

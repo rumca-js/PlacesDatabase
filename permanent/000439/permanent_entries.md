@@ -1,3 +1,83 @@
+ ## 'Plan S' and 'cOAlition S' – Accelerating the transition to full and immediate Open Access to scientific publications
+ - [https://www.coalition-s.org](https://www.coalition-s.org)
+ - date_published: 2024-08-11T02:42:09.699659+00:00
+
+ ## Coalizão Pelo Evangelho
+ - [https://coalizaopeloevangelho.org](https://coalizaopeloevangelho.org)
+ - date_published: 2024-12-12T18:20:44+00:00
+
+ ## Prospector
+ - [https://encore.coalliance.org](https://encore.coalliance.org)
+ - date_published: 2024-10-15T01:36:45.774743+00:00
+
+ ## 澳门尼斯人娱乐网站(中国)有限公司
+ - [http://www.coalpha.org](http://www.coalpha.org)
+ - date_published: 2023-10-25T21:08:11.357157+00:00
+
+ ## Social Current | Activating the Power of the Social Sector
+ - [https://coanet.org](https://coanet.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## COAR
+ - [https://coar-repositories.org](https://coar-repositories.org)
+ - date_published: 2024-05-11T11:03:13.166725+00:00
+
+ ## COAR Notify
+ - [https://notify.coar-repositories.org](https://notify.coar-repositories.org)
+ - date_published: 2024-09-04T13:19:20+00:00
+
+ ## Home - Council on Aging - Southern California - COASC
+ - [https://www.coasc.org](https://www.coasc.org)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Coastal Hazards Research Collaboratory (CHARCOL)
+ - [http://www.coastalhazards.org](http://www.coastalhazards.org)
+ - date_published: 2015-09-10T16:02:08+00:00
+
+ ## Zona69: Menangkan Jackpot Luar Biasa dengan Mesin Slot Tak Tertandingi!
+ - [https://coastalmarket.org](https://coastalmarket.org)
+ - date_published: 2025-01-17T21:04:53.986685+00:00
+
+ ## Home
+ - [https://www.coastalrealtors.org](https://www.coastalrealtors.org)
+ - date_published: 2025-01-25T08:59:42.357289+00:00
+
+ ## Coastal Studies Institute Home | ECU Outer Banks Campus
+ - [https://www.coastalstudiesinstitute.org](https://www.coastalstudiesinstitute.org)
+ - date_published: 2024-06-16T08:34:43.786336+00:00
+
+ ## Coaxial Arts – Coaxial: Art Space in DTLA dedicated to experimental video, sound + performance art.
+ - [https://coaxialarts.org](https://coaxialarts.org)
+ - date_published: 2024-09-06T21:52:17.109384+00:00
+
+ ## The Cobden Centre – For honest money and social progress
+ - [http://www.cobdencentre.org](http://www.cobdencentre.org)
+ - date_published: 2024-06-28T18:49:07.994813+00:00
+
+ ## C/O Berlin
+ - [https://www.co-berlin.org](https://www.co-berlin.org)
+ - date_published: 2024-09-06T21:36:08.381526+00:00
+
+ ## Celebrating 35 Years of Visionary Leaders - Coca-Cola Scholars Foundation
+ - [http://www.coca-colascholarsfoundation.org](http://www.coca-colascholarsfoundation.org)
+ - date_published: 2013-02-21T17:01:34+00:00
+
+ ## COCA | Children's Oncology Camping Association
+ - [https://www.cocai.org](https://www.cocai.org)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home.
+ - [https://www.cocesna.org](https://www.cocesna.org)
+ - date_published: 2024-06-14T18:15:33.307476+00:00
+
+ ## Chamber of Commerce Hawaii |
+ - [https://business.cochawaii.org](https://business.cochawaii.org)
+ - date_published: 2024-08-18T03:24:37.517647+00:00
+
+ ## Welcome
+ - [https://cochrane.org](https://cochrane.org)
+ - date_published: 2025-01-15T19:40:36.591567+00:00
+
  ## Welcome
  - [https://training.cochrane.org](https://training.cochrane.org)
  - date_published: 2024-12-11T21:17:09+00:00
@@ -3948,86 +4028,4 @@
  ## CPB | A Private Corporation Funded by the American People
  - [https://cpb.org](https://cpb.org)
  - date_published: 2024-07-01T21:20:01+00:00
-
- ## Early Learning Academies | R'Club
- - [http://www.cpchildcare.org](http://www.cpchildcare.org)
- - date_published: 2024-06-27T07:12:39.244914+00:00
-
- ## cpcwatch.org
- - [http://www.cpcwatch.org](http://www.cpcwatch.org)
- - date_published: 2024-12-27T13:51:13.087789+00:00
-
- ## cpdnboinc
- - [https://cpdn.org](https://cpdn.org)
- - date_published: 2024-05-11T07:52:21.697664+00:00
-
- ## CPDP Computers, Privacy and Data Protection conference
- - [https://cpdpconferences.org](https://cpdpconferences.org)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## California Pan-Ethnic Health Network
- - [https://cpehn.org](https://cpehn.org)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## CPH Blog - Concordia Publishing House
- - [https://blog.cph.org](https://blog.cph.org)
- - date_published: 2025-01-25T10:45:36.058620+00:00
-
- ## LCMS Youth Gathering Store
- - [https://gathering.cph.org](https://gathering.cph.org)
- - date_published: 2025-01-25T10:45:34.623097+00:00
-
- ## Home - CPH Podcasts
- - [https://podcasts.cph.org](https://podcasts.cph.org)
- - date_published: 2025-01-25T10:50:21.019251+00:00
-
- ## Home - Concordia Publishing House
- - [https://www.cph.org](https://www.cph.org)
- - date_published: 2025-01-12T05:37:33.113667+00:00
-
- ## Clear Physics
- - [https://cphysics.org](https://cphysics.org)
- - date_published: 2023-10-25T21:10:48.724655+00:00
- - tags: ['quantum', 'physics']
-
- ## 中国人民外交学会官网
- - [http://www.cpifa.org](http://www.cpifa.org)
- - date_published: 2025-01-14T13:18:00.848155+00:00
-
- ## Committee to Protect Journalists – Defending Journalists Worldwide. - Committee to Protect Journalists
- - [https://cpj.org](https://cpj.org)
- - date_published: 2023-10-25T21:10:54.852143+00:00
-
- ## Comparative Procedural Law and Justice (CPLJ)
- - [https://www.cplj.org](https://www.cplj.org)
- - date_published: 2025-01-18T05:03:24.923848+00:00
-
- ## California Pacific Medical Center | Sutter Health
- - [http://www.cpmc.org](http://www.cpmc.org)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## CRPM
- - [https://cloud.cpmr.org](https://cloud.cpmr.org)
- - date_published: 2024-06-05T07:27:03.817382+00:00
-
- ## CPMR – Conference of Peripheral Maritime Regions
- - [https://cpmr.org](https://cpmr.org)
- - date_published: 2024-05-02T09:57:44.945558+00:00
- - tags: ['conference', 'maritime']
-
- ## CPMR Atlantic Arc Commission – Website of the CPMR AAC
- - [https://cpmr-atlantic.org](https://cpmr-atlantic.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## CPMR Balkan & Black Sea Commission – Website of the CPMR BBSC
- - [https://cpmr-balkan-blacksea.org](https://cpmr-balkan-blacksea.org)
- - date_published: 2024-06-05T07:27:21.687034+00:00
-
- ## CPMR Baltic Sea Commission – Website of the CPMR BSC
- - [https://cpmr-baltic.org](https://cpmr-baltic.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## CPMR Intermediterranean Commission – Website of the CPMR IMC
- - [https://cpmr-intermed.org](https://cpmr-intermed.org)
- - date_published: 2024-03-12T00:00:00+00:00
 

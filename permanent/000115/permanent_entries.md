@@ -1,3 +1,11 @@
+ ## Sign In - dscout
+ - [https://app.dscout.com](https://app.dscout.com)
+ - date_published: 2024-07-24T02:17:28.161190+00:00
+
+ ## dscout | Flexible, remote, in-context user research
+ - [https://dscout.com](https://dscout.com)
+ - date_published: 2024-04-29T07:17:56.354972+00:00
+
  ## dscout
  - [https://help.dscout.com](https://help.dscout.com)
  - date_published: 2024-07-24T02:17:26.222281+00:00
@@ -4035,12 +4043,4 @@
  ## EarlyGame | Your Gaming & Entertainment Hub – News, Guides, Reviews
  - [https://earlygame.com](https://earlygame.com)
  - date_published: 2023-10-25T14:00:56.838769+00:00
-
- ## Early Grove String Band
- - [http://www.earlygrovestringband.com](http://www.earlygrovestringband.com)
- - date_published: 2020-02-02T19:45:00+00:00
-
- ## Early Innovations
- - [http://www.earlyinnovations.com](http://www.earlyinnovations.com)
- - date_published: 2016-11-28T21:13:37+00:00
 

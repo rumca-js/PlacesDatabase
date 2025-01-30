@@ -1,3 +1,27 @@
+ ## Luke Burgis | Builder, Author, Educator
+ - [https://lukeburgis.com](https://lukeburgis.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Anti-Mimetic | Luke Burgis | Substack
+ - [https://read.lukeburgis.com](https://read.lukeburgis.com)
+ - date_published: 2023-10-25T15:52:17.870193+00:00
+
+ ## Ride or Drive  | Luke Burgis | Substack
+ - [https://ride.lukeburgis.com](https://ride.lukeburgis.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Luke Burrage - International Juggler and Entertainer - LukeBurrage.com
+ - [https://lukeburrage.com](https://lukeburrage.com)
+ - date_published: 2024-08-22T07:53:29+00:00
+
+ ## Luke Combs Shop
+ - [https://shop.lukecombs.com](https://shop.lukecombs.com)
+ - date_published: 2024-06-30T12:34:38.581578+00:00
+
+ ## Luke Conroy: Interdisciplinary Artist from Tasmania, Australia
+ - [https://www.luke-conroy.com](https://www.luke-conroy.com)
+ - date_published: 2024-06-21T11:34:42.251899+00:00
+
  ## Commercial Photographer Based In Buffalo NY
  - [https://lukecopping.com](https://lukecopping.com)
  - date_published: 2024-12-28T02:00:01.217613+00:00
@@ -4000,28 +4024,4 @@ diversions.
  ## Madison Wells
  - [https://madisonwellsmedia.com](https://madisonwellsmedia.com)
  - date_published: 2024-04-26T00:00:00+00:00
-
- ## Madison Women's Pro Soccer
- - [https://www.madisonwomensprosoccer.com](https://www.madisonwomensprosoccer.com)
- - date_published: 2024-07-09T23:02:16.040419+00:00
-
- ## Mad Kane - Humor and Limericks About Law, Marriage, Money, Politics, Computers, Cars, Business, Travel, Holidays, Health, Cars, Fashion, Work, Technology
- - [http://www.madkane.com](http://www.madkane.com)
- - date_published: 2022-11-20T04:59:32+00:00
-
- ## MadLab, LLC - We build and grow companies!
- - [https://www.madlab.com](https://www.madlab.com)
- - date_published: 2024-06-29T19:11:46.017891+00:00
-
- ## Home
- - [https://madlions.com](https://madlions.com)
- - date_published: 2023-09-25T00:00:00+00:00
-
- ## Shop| MAD Lions x Kappa
- - [https://shop.madlions.com](https://shop.madlions.com)
- - date_published: 2024-05-04T13:49:56.718848+00:00
-
- ## amake - Overview
- - [http://aaron.madlon-kay.com](http://aaron.madlon-kay.com)
- - date_published: 2024-07-17T04:12:22.995155+00:00
 

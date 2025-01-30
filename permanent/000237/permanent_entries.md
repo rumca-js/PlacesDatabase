@@ -1,3 +1,27 @@
+ ## Spirit Aerosystems Apply
+ - [https://careers.spiritaero.com](https://careers.spiritaero.com)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## Corporate Profile | Spirit AeroSystems
+ - [https://investor.spiritaero.com](https://investor.spiritaero.com)
+ - date_published: 2024-09-16T07:52:42.773802+00:00
+
+ ## Home | Spirit AeroSystems
+ - [https://spiritaero.com](https://spiritaero.com)
+ - date_published: 2024-06-15T05:30:26+00:00
+
+ ## Spirited Media
+ - [http://spiritedmedia.com](http://spiritedmedia.com)
+ - date_published: 2024-07-22T17:41:28.740094+00:00
+
+ ## Facebook
+ - [http://www.spiritfelt.com](http://www.spiritfelt.com)
+ - date_published: 2024-09-15T23:32:38.157766+00:00
+
+ ## Spirit Lake Chamber of Commerce Iowa | Strengthening Business
+ - [https://www.spiritlakecc.com](https://www.spiritlakecc.com)
+ - date_published: 2024-07-14T18:20:18.230694+00:00
+
  ## SPIRITLAND – come home to music
  - [http://spiritland.com](http://spiritland.com)
  - date_published: 2024-07-13T14:45:45.445555+00:00
@@ -4025,28 +4049,4 @@
  ## SaaStr Annual 2024 | Where The Cloud Meets
  - [https://bird-halibut-eglm.squarespace.com](https://bird-halibut-eglm.squarespace.com)
  - date_published: 2024-12-27T12:51:29.004131+00:00
-
- ## The Swarthmorean Archives
- - [https://bird-smilodon-h2ms.squarespace.com](https://bird-smilodon-h2ms.squarespace.com)
- - date_published: 2024-06-21T20:39:38.204551+00:00
-
- ## - Bishop Hill blog
- - [https://bishophill.squarespace.com](https://bishophill.squarespace.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## The Amateur Gourmet
- - [https://bison-goose-5dz6.squarespace.com](https://bison-goose-5dz6.squarespace.com)
- - date_published: 2024-07-03T18:13:02.440768+00:00
-
- ## Fabrizio Dell'Acqua
- - [https://bison-harp-zc2x.squarespace.com](https://bison-harp-zc2x.squarespace.com)
- - date_published: 2024-06-16T21:51:30.687064+00:00
-
- ## THE BITTER SOUTHERNER - Great Stories from the South
- - [https://bittersoutherner.squarespace.com](https://bittersoutherner.squarespace.com)
- - date_published: 2024-05-10T05:42:13.820676+00:00
-
- ## Roote
- - [https://blackbird-grouse-je9z.squarespace.com](https://blackbird-grouse-je9z.squarespace.com)
- - date_published: 2024-09-12T19:51:26.678879+00:00
 

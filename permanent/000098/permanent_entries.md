@@ -1,3 +1,11 @@
+ ## CIOInsights - Insights From Technology Leaders
+ - [https://cioinsights.com](https://cioinsights.com)
+ - date_published: 2024-06-16T04:21:38.448065+00:00
+
+ ## ACCUEIL - CIO MAG-RÉFÉRENCE POUR LES IT MANAGERS
+ - [http://cio-mag.com](http://cio-mag.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
  ## CIO-online, actualités du système d'information, événements...
  - [https://www.cio-online.com](https://www.cio-online.com)
  - date_published: 2025-01-07T10:42:11.333757+00:00
@@ -4010,12 +4018,4 @@
  ## CLEAR | Making experiences effortless at the airport and beyond.
  - [https://www.clearme.com](https://www.clearme.com)
  - date_published: 2024-06-18T00:00:00+00:00
-
- ## Azure DevOps Podcast
- - [https://azuredevopspodcast.clear-measure.com](https://azuredevopspodcast.clear-measure.com)
- - date_published: 2024-06-14T18:59:36+00:00
-
- ## Software Development - Fractional CTO Services - Clear Measure
- - [https://clear-measure.com](https://clear-measure.com)
- - date_published: 2024-01-03T17:35:56+00:00
 

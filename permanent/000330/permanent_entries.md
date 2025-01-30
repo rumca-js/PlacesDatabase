@@ -1,3 +1,63 @@
+ ## Home
+ - [https://cdli.ucla.edu](https://cdli.ucla.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## HTTP Server Test Page powered by: Rocky Linux
+ - [http://cdsc.ucla.edu](http://cdsc.ucla.edu)
+ - date_published: 2022-07-27T18:04:30+00:00
+
+ ## UCLA Biomedical Artificial Intelligence Research Lab
+ - [https://cdx.seas.ucla.edu](https://cdx.seas.ucla.edu)
+ - date_published: 2024-06-30T04:59:29+00:00
+
+ ## Computer Engineering Program | Samueli Electrical and Computer Engineering
+ - [https://ce.ucla.edu](https://ce.ucla.edu)
+ - date_published: 2024-08-11T03:41:57+00:00
+
+ ## Challenge Inequality | Organizing Knowledge to Challenge Inequality
+ - [https://challengeinequality.luskin.ucla.edu](https://challengeinequality.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:07:18.799394+00:00
+
+ ## Home - UCLA Chavez
+ - [https://chavez.ucla.edu](https://chavez.ucla.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Homepage - CHIPTS - Center for HIV Identification, Prevention and Treatment Services
+ - [https://chipts.ucla.edu](https://chipts.ucla.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home | Campus Human Resources
+ - [https://chr.ucla.edu](https://chr.ucla.edu)
+ - date_published: 2024-07-01T22:41:20+00:00
+
+ ## UCLA Film & Television Archive
+ - [https://cinema.ucla.edu](https://cinema.ucla.edu)
+ - date_published: 2024-07-01T22:51:29+00:00
+
+ ## Latin American Cities Initiative | Latin American Cities Initiative
+ - [https://ciudades.luskin.ucla.edu](https://ciudades.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:07:22.044765+00:00
+
+ ## Home - Clark Library
+ - [https://clarklibrary.ucla.edu](https://clarklibrary.ucla.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## California NanoSystems Institute Leveraging public and private investment for nanoscience research at the interface between disciplines The CNSI is a hub of interdisciplinary research, translation, and education
+ - [https://cnsi.ucla.edu](https://cnsi.ucla.edu)
+ - date_published: 2024-10-19T04:01:57.150345+00:00
+
+ ## Home (New)
+ - [https://college.ucla.edu](https://college.ucla.edu)
+ - date_published: 2024-05-07T20:55:21.916268+00:00
+
+ ## UCLA Community
+ - [https://community.ucla.edu](https://community.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home
+ - [https://conditional.arts.ucla.edu](https://conditional.arts.ucla.edu)
+ - date_published: 2024-10-29T11:44:45.254747+00:00
+
  ## Counseling & Psychological Services | Counseling and Psychological Services
  - [https://counseling.ucla.edu](https://counseling.ucla.edu)
  - date_published: 2024-06-27T15:11:34+00:00
@@ -3949,65 +4009,4 @@
  ## Douglas Lab | Research
  - [https://bionano.ucsf.edu](https://bionano.ucsf.edu)
  - date_published: 2024-08-19T18:40:02+00:00
-
- ## Department of Bioengineering and Therapeutic Sciences
- - [https://bts.ucsf.edu](https://bts.ucsf.edu)
- - date_published: 2024-07-02T01:49:02+00:00
-
- ## LibCal -
-        University of California, San Francisco
- - [https://calendars.library.ucsf.edu](https://calendars.library.ucsf.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Events Calendar
- - [https://calendar.ucsf.edu](https://calendar.ucsf.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Home
- - [https://calm.ucsf.edu](https://calm.ucsf.edu)
- - date_published: 2024-06-17T12:12:58+00:00
-
- ## Campus Life Services | Campus Life Services
- - [https://campuslifeserviceshome.ucsf.edu](https://campuslifeserviceshome.ucsf.edu)
- - date_published: 2024-05-07T21:08:30.121576+00:00
-
- ## Campus Life Services
- - [https://campuslifeservices.ucsf.edu](https://campuslifeservices.ucsf.edu)
- - date_published: 2021-10-18T16:19:39+00:00
-
- ## Home | UCSF Helen Diller Family Comprehensive Cancer Center
- - [https://cancer.ucsf.edu](https://cancer.ucsf.edu)
- - date_published: 2024-07-01T23:47:43+00:00
-
- ## What We Do
- - [https://careadvocate.ucsf.edu](https://careadvocate.ucsf.edu)
- - date_published: 2024-07-02T01:40:40+00:00
-
- ## Home
- - [https://career.ucsf.edu](https://career.ucsf.edu)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Welcome to the General Catalog of the University of California, San Francisco | UC San Francisco
- - [https://catalog.ucsf.edu](https://catalog.ucsf.edu)
- - date_published: 2024-05-07T21:09:22.619700+00:00
-
- ## Home | Office of the Chancellor
- - [https://chancellor.ucsf.edu](https://chancellor.ucsf.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Department of Clinical Pharmacy
- - [https://clinicalpharmacy.ucsf.edu](https://clinicalpharmacy.ucsf.edu)
- - date_published: 2024-07-02T01:49:11+00:00
-
- ## Clinical Trials at UCSF
- - [https://clinicaltrials.ucsf.edu](https://clinicaltrials.ucsf.edu)
- - date_published: 2024-05-07T21:09:34.197296+00:00
-
- ## Welcome
- - [https://compliance.ucsf.edu](https://compliance.ucsf.edu)
- - date_published: 2024-07-02T01:50:37+00:00
-
- ## COVID-19 Resources
- - [https://coronavirus.ucsf.edu](https://coronavirus.ucsf.edu)
- - date_published: 2024-05-02T00:00:00+00:00
 

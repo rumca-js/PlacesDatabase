@@ -1,3 +1,11 @@
+ ## BlueConic: Log In
+ - [https://p030.courant.com](https://p030.courant.com)
+ - date_published: 2024-06-15T13:06:27.831942+00:00
+
+ ## Home - Hartford Courant
+ - [https://placeanad.courant.com](https://placeanad.courant.com)
+ - date_published: 2024-06-15T13:06:24.966830+00:00
+
  ## Shop the Hartford Courant Official Store
  - [https://store.courant.com](https://store.courant.com)
  - date_published: 2025-01-09T07:07:56.319176+00:00
@@ -4026,12 +4034,4 @@
  ## I, Cringely
  - [https://cringely.com](https://cringely.com)
  - date_published: 2023-10-25T13:36:47.106347+00:00
-
- ## cringeMDb | Find Movies Safe to Watch with Parents
- - [https://cringemdb.com](https://cringemdb.com)
- - date_published: 2024-11-12T17:05:17.632681+00:00
-
- ## Criotec: cryogenic and high vacuum technologies | Criotec Impianti
- - [https://www.criotec.com](https://www.criotec.com)
- - date_published: 2024-07-24T07:30:22.692245+00:00
 

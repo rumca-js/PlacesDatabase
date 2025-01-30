@@ -1,3 +1,36 @@
+ ## Murtaza Hussain | Substack
+ - [https://mazmhussain.substack.com](https://mazmhussain.substack.com)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## MBI Deep Dives | Substack
+ - [https://mbideepdives.substack.com](https://mbideepdives.substack.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## MBMG Flash | Paul Gambles | Substack
+ - [https://mbmg.substack.com](https://mbmg.substack.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Examined | Ryan McCormick, M.D. | Substack
+ - [https://mccormickmd.substack.com](https://mccormickmd.substack.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## John’s Substack | John McLean | Substack
+ - [https://mcleanj.substack.com](https://mcleanj.substack.com)
+ - date_published: 2024-12-25T09:17:49.675891+00:00
+
+ ## The McLuhan Newsletter | Andrew McLuhan | Substack
+ - [https://mcluhan.substack.com](https://mcluhan.substack.com)
+ - date_published: 2025-01-16T10:13:52.125192+00:00
+
+ ## Mindful Ruminations | Michael Oliver | Substack
+ - [https://mcoliver.substack.com](https://mcoliver.substack.com)
+ - date_published: 2023-10-25T09:58:39.266748+00:00
+ - tags: ['substack']
+
+ ## Archedelia | Matthew B. Crawford | Substack
+ - [https://mcrawford.substack.com](https://mcrawford.substack.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
  ## McSweeney's Internet Substackency | McSweeney's Internet Tendency | Substack
  - [https://mcsweeneysinternettendency.substack.com](https://mcsweeneysinternettendency.substack.com)
  - date_published: 2024-06-13T00:00:00+00:00
@@ -4029,36 +4062,4 @@
  ## Demystifying Software | Theliverr | Substack
  - [https://theliverr.substack.com](https://theliverr.substack.com)
  - date_published: 2025-01-12T17:15:03.382545+00:00
-
- ## Living Fossils | The Living Fossils | Substack
- - [https://thelivingfossils.substack.com](https://thelivingfossils.substack.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## The Macro Compass | Alfonso Peccatiello (Alf) | Substack
- - [https://themacrocompass.substack.com](https://themacrocompass.substack.com)
- - date_published: 2024-01-09T01:45:22.656513+00:00
-
- ## The Magnet | Mark Frauenfelder | Substack
- - [https://themagnet.substack.com](https://themagnet.substack.com)
- - date_published: 2024-04-03T06:41:26.030404+00:00
-
- ## The Malarkey Musket | David Haggith | Substack
- - [https://themalarkeymusket.substack.com](https://themalarkeymusket.substack.com)
- - date_published: 2024-07-04T01:28:36.587732+00:00
-
- ## Media Report | Janice | Substack
- - [https://themediareport.substack.com](https://themediareport.substack.com)
- - date_published: 2024-08-19T14:44:05.237205+00:00
-
- ## Explorer's Guild Travel Log | The Middle Earth Companion | Substack
- - [https://themiddleearthcompanion.substack.com](https://themiddleearthcompanion.substack.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## The Midst | Substack
- - [https://themidst.substack.com](https://themidst.substack.com)
- - date_published: 2025-01-25T00:00:04.762616+00:00
-
- ## Misfits | Substack
- - [https://themisfits.substack.com](https://themisfits.substack.com)
- - date_published: 2024-08-18T02:58:34.793138+00:00
 

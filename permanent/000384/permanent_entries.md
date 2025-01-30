@@ -1,3 +1,83 @@
+ ## The Softcover Book
+ - [http://manual.softcover.io](http://manual.softcover.io)
+ - date_published: 2024-06-23T08:18:19.800900+00:00
+
+ ## Frictionless Self-Publishing for Tech-Savvy Writers |  Softcover.io
+ - [https://softcover.io](https://softcover.io)
+ - date_published: 2024-05-06T13:49:26.770769+00:00
+
+ ## Karriere Board | EURONICS Deutschland eG
+ - [https://euronics.softgarden.io](https://euronics.softgarden.io)
+ - date_published: 2024-10-14T20:34:56.378767+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.softgarden.io](https://matomo.softgarden.io)
+ - date_published: 2024-10-13T21:26:30.455924+00:00
+
+ ## Karriere Board | National Express Rail GmbH
+ - [https://nationalexpress.softgarden.io](https://nationalexpress.softgarden.io)
+ - date_published: 2025-01-16T20:01:07.933857+00:00
+
+ ## Career board | PIA Media
+ - [https://piamedia.softgarden.io](https://piamedia.softgarden.io)
+ - date_published: 2024-06-25T22:43:35.922928+00:00
+
+ ## Karriere Board | RHEINPFALZ Mediengruppe
+ - [https://rheinpfalz-mediengruppe.softgarden.io](https://rheinpfalz-mediengruppe.softgarden.io)
+ - date_published: 2025-01-20T23:35:54.041230+00:00
+
+ ## Karriere Board | Verlag Der Tagesspiegel GmbH
+ - [https://verlagdertagesspiegelgmbh.softgarden.io](https://verlagdertagesspiegelgmbh.softgarden.io)
+ - date_published: 2025-01-16T21:28:27.809288+00:00
+
+ ## Career board | Wikimedia Deutschland - Gesellschaft zur Förderung Freien Wissens e.V.
+ - [https://wikimedia-deutschland.softgarden.io](https://wikimedia-deutschland.softgarden.io)
+ - date_published: 2024-12-10T20:36:21.186995+00:00
+
+ ## Softr Help Docs
+ - [https://docs.softr.io](https://docs.softr.io)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Build client portals and internal tools powered by Airtable or Google Sheets data, without code | Softr
+ - [https://softr.io](https://softr.io)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Softr Studio
+ - [https://studio.softr.io](https://studio.softr.io)
+ - date_published: 2024-07-09T03:59:39+00:00
+
+ ## SOFTSQUARE LLC - The complete software solution 2024
+ - [https://softsquare.io](https://softsquare.io)
+ - date_published: 2024-09-10T11:12:35+00:00
+
+ ## Software Growth - SaaS Growth Tips
+ - [https://www.softwaregrowth.io](https://www.softwaregrowth.io)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## URL Shortener | sohub.io
+ - [https://sohub.io](https://sohub.io)
+ - date_published: 2024-09-26T11:25:39.982716+00:00
+
+ ## Dashboard | Solana Beach
+ - [https://solanabeach.io](https://solanabeach.io)
+ - date_published: 2024-09-24T11:08:40.154907+00:00
+
+ ## Track and trade all Solana Coins securely on Solana Tracker
+ - [https://www.solanatracker.io](https://www.solanatracker.io)
+ - date_published: 2024-07-12T17:05:27.461520+00:00
+
+ ## Real-time solar monitoring from a Raspberry Pi | SolarAssistant Software
+ - [https://solar-assistant.io](https://solar-assistant.io)
+ - date_published: 2024-07-19T19:32:41.319364+00:00
+
+ ## Solidified | Smart Contract Auditing Firm
+ - [https://solidified.io](https://solidified.io)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Solidproof.io - Smart Contract Audits
+ - [https://solidproof.io](https://solidproof.io)
+ - date_published: 2024-09-24T21:45:43.965884+00:00
+
  ## Sign in · GitLab
  - [https://gitlab.solidsilicon.io](https://gitlab.solidsilicon.io)
  - date_published: 2024-07-07T10:29:07.603227+00:00
@@ -3945,86 +4025,4 @@
  ## Your partner for Shopify website optimization - Tapita
  - [https://tapita.io](https://tapita.io)
  - date_published: 2025-01-22T10:58:50.390421+00:00
-
- ## Taproot chain blockchain explorer | Blockscout
- - [https://scan.taprootchain.io](https://scan.taprootchain.io)
- - date_published: 2024-09-23T22:44:02.288934+00:00
- - date_dead_since: 2024-12-24T06:00:04.808901+00:00
-
- ## TAPROOT CHAIN
- - [https://taprootchain.io](https://taprootchain.io)
- - date_published: 2024-06-29T13:07:27+00:00
- - date_dead_since: 2024-12-24T06:08:13.092517+00:00
-
- ## Tarantool Data Integration Platform
- - [https://tarantool.io](https://tarantool.io)
- - date_published: 2023-12-02T15:51:11.384341+00:00
-
- ## Tarantool Data Integration Platform
- - [https://try.tarantool.io](https://try.tarantool.io)
- - date_published: 2024-05-06T14:26:05.384317+00:00
-
- ## Taraxa Explorer
- - [https://explorer.mainnet.taraxa.io](https://explorer.mainnet.taraxa.io)
- - date_published: 2024-08-29T15:01:14+00:00
-
- ## Taraxa Explorer
- - [https://explorer.testnet.taraxa.io](https://explorer.testnet.taraxa.io)
- - date_published: 2024-08-29T15:00:54+00:00
-
- ## Taraxa: PoS, blockDAG, EVM Layer-1
- - [https://taraxa.io](https://taraxa.io)
- - date_published: 2024-09-24T03:19:33.532341+00:00
-
- ## No problems detected. | tarteaucitron.io
- - [https://status.tarteaucitron.io](https://status.tarteaucitron.io)
- - date_published: 2024-07-08T18:47:23.968120+00:00
-
- ## Compliant cookie manager
- - [https://tarteaucitron.io](https://tarteaucitron.io)
- - date_published: 2024-04-28T05:08:30.838338+00:00
-
- ## Tasq: The Most Intelligent Work Management System
- - [https://tasq.io](https://tasq.io)
- - date_published: 2022-12-12T00:00:00+00:00
-
- ## Taste — Movies & TV
- - [https://blog.taste.io](https://blog.taste.io)
- - date_published: 2024-10-30T15:49:42.502453+00:00
-
- ## Taste - Movie and TV show recommendations from likeminded people.
- - [https://taste.io](https://taste.io)
- - date_published: 2024-06-19T20:04:38.037884+00:00
-
- ## Taste - Movie and TV show recommendations from likeminded people.
- - [http://taste.io](http://taste.io)
- - date_published: 2024-12-15T06:37:36.782218+00:00
-
- ## Academy for Web3 - Courses for Blockchain Developers
- - [https://academy.tatum.io](https://academy.tatum.io)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Tatum Developer Documentation
- - [https://apidoc.tatum.io](https://apidoc.tatum.io)
- - date_published: 2024-09-21T23:59:01.508924+00:00
-
- ## Sandbox - CodeSandbox
- - [https://assets.tatum.io](https://assets.tatum.io)
- - date_published: 2024-03-21T12:03:53+00:00
-
- ## Tatum status
- - [https://bitcoin-testnet4.status.tatum.io](https://bitcoin-testnet4.status.tatum.io)
- - date_published: 2024-12-24T06:12:05.054395+00:00
-
- ## Tatum Developer Documentation
- - [https://docs.tatum.io](https://docs.tatum.io)
- - date_published: 2024-09-06T21:32:37.159596+00:00
-
- ## Tatum SDK Extensions Library
- - [https://ecosystem.tatum.io](https://ecosystem.tatum.io)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Blockchain Testnet Faucets
- - [https://faucets.tatum.io](https://faucets.tatum.io)
- - date_published: 2024-09-20T00:00:00+00:00
 

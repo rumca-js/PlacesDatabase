@@ -1,3 +1,23 @@
+ ## We are now Launch
+ - [https://postlight.com](https://postlight.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Postlight Reader
+ - [https://reader.postlight.com](https://reader.postlight.com)
+ - date_published: 2024-07-08T09:48:12.511894+00:00
+
+ ## Postlyy
+ - [https://app.postlyy.com](https://app.postlyy.com)
+ - date_published: 2024-09-13T20:40:06+00:00
+
+ ## Postlyy: Your Content, Planned, Analyzed & Supercharged.
+ - [https://postlyy.com](https://postlyy.com)
+ - date_published: 2024-06-14T08:54:06.678347+00:00
+
+ ## Postlyy Newsletter
+ - [https://postlyynewsletter.com](https://postlyynewsletter.com)
+ - date_published: 2024-01-04T00:00:00+00:00
+
  ## Postman Academy
  - [https://academy.postman.com](https://academy.postman.com)
  - date_published: 2024-05-06T23:44:16.131968+00:00
@@ -4004,24 +4024,4 @@
  ## Stylus Distribution Bookstore
  - [https://styluspub.presswarehouse.com](https://styluspub.presswarehouse.com)
  - date_published: 2024-07-08T18:53:38.205422+00:00
-
- ## Prestataire service informatique pour PME, TPE, Développement, Sécurité informatique, RGPD, Logiciel
- - [https://prestalidaire.com](https://prestalidaire.com)
- - date_published: 2024-12-27T19:21:11.930638+00:00
-
- ## PrestaShop Addons Marketplace - Modules, Themes & Support
- - [https://addons.prestashop.com](https://addons.prestashop.com)
- - date_published: 2024-07-02T21:21:38.585411+00:00
-
- ## PrestaShop Live Demo
- - [https://demo.prestashop.com](https://demo.prestashop.com)
- - date_published: 2024-01-24T10:25:20+00:00
-
- ## Home
- - [https://devdocs.prestashop.com](https://devdocs.prestashop.com)
- - date_published: 2024-06-28T09:43:55+00:00
-
- ## All the PrestaShop e-commerce events
- - [https://events.prestashop.com](https://events.prestashop.com)
- - date_published: 2024-07-02T00:00:00+00:00
 

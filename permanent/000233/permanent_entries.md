@@ -1,3 +1,23 @@
+ ## Create and Share Presentations for Free | Slides
+ - [https://nuxtjs.slides.com](https://nuxtjs.slides.com)
+ - date_published: 2024-09-04T15:05:25.808535+00:00
+
+ ## Create and Share Presentations for Free | Slides
+ - [https://slides.com](https://slides.com)
+ - date_published: 2024-04-29T03:11:02.530078+00:00
+
+ ## SlideServe - Upload and Share Presentations Online
+ - [https://www.slideserve.com](https://www.slideserve.com)
+ - date_published: 2024-07-02T20:05:21.710235+00:00
+
+ ## Free Google Slides themes and Powerpoint templates | Slidesgo
+ - [https://slidesgo.com](https://slidesgo.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## SlideShare.net
+ - [https://slideshare.com](https://slideshare.com)
+ - date_published: 2024-04-30T06:05:04.449286+00:00
+
  ## Home - Slide SJS
  - [http://slidesjs.com](http://slidesjs.com)
  - date_published: 2024-12-05T12:49:11+00:00
@@ -4007,25 +4027,4 @@
  ## Snek | A meme, and a memecoin
  - [https://www.snek.com](https://www.snek.com)
  - date_published: 2024-11-28T14:45:21+00:00
-
- ## Snel.com - Your friendly hosting provider
- - [https://www.snel.com](https://www.snel.com)
- - date_published: 2022-09-08T00:00:00+00:00
-
- ## 2022年外国為替相場(FX)の焦点とは
- - [http://snellspace.com](http://snellspace.com)
- - date_published: 2024-05-07T15:40:59.332712+00:00
-
- ## Jason Snell
- - [http://snellworld.com](http://snellworld.com)
- - date_published: 2018-08-10T00:00:00+00:00
-
- ## Snes9X.COM
- - [https://snes9x.com](https://snes9x.com)
- - date_published: 2024-11-14T08:34:38+00:00
- - tags: ['emulator']
-
- ## Snes9X.COM
- - [http://www.snes9x.com](http://www.snes9x.com)
- - date_published: 2024-07-11T16:36:42.114444+00:00
 

@@ -1,3 +1,83 @@
+ ## GivingTuesday
+ - [https://givingtuesday.org](https://givingtuesday.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Donation Platform
+ - [https://donate.givingwhatwecan.org](https://donate.givingwhatwecan.org)
+ - date_published: 2024-08-05T18:33:00.180871+00:00
+
+ ## Giving What We Can
+ - [https://givingwhatwecan.org](https://givingwhatwecan.org)
+ - date_published: 2024-04-29T04:44:04.934117+00:00
+
+ ## How Rich Am I?
+ - [https://howrichami.givingwhatwecan.org](https://howrichami.givingwhatwecan.org)
+ - date_published: 2024-07-12T18:54:35.397845+00:00
+
+ ## Grand Junction, CO | Official Website
+ - [https://gjcity.org](https://gjcity.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Gulf Journal of Mathematics
+ - [http://gjom.org](http://gjom.org)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Home
+ - [https://gjournals.org](https://gjournals.org)
+ - date_published: 2024-10-29T01:56:37+00:00
+
+ ## Georgia Justice Project - Transforming Our Community
+ - [http://www.gjp.org](http://www.gjp.org)
+ - date_published: 2024-12-23T08:33:53.020636+00:00
+
+ ## The Greater Kanawha Valley Foundation
+ - [https://gkvf.org](https://gkvf.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## GL12.ORG
+ - [https://gl12.org](https://gl12.org)
+ - date_published: 2023-08-02T09:31:44+00:00
+
+ ## GLAAD
+ - [https://act.glaad.org](https://act.glaad.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## GLAAD
+ - [https://give.glaad.org](https://give.glaad.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## GLAAD
+ - [https://glaad.org](https://glaad.org)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Home - GLAD
+ - [https://www.glad.org](https://www.glad.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## gladalliance.org
+ - [http://www.gladalliance.org](http://www.gladalliance.org)
+ - date_published: 2025-01-01T05:02:20.331443+00:00
+
+ ## GladPet - онлайн-ресурс з прилаштування та допомоги безхатнім тваринам
+ - [https://gladpet.org](https://gladpet.org)
+ - date_published: 2025-01-17T20:17:10.960010+00:00
+
+ ## Home | Gladstone Institutes
+ - [https://gladstone.org](https://gladstone.org)
+ - date_published: 2024-07-22T07:52:06+00:00
+
+ ## Home
+ - [https://survey.glamelab.org](https://survey.glamelab.org)
+ - date_published: 2024-12-30T13:32:18.550201+00:00
+
+ ## GLAM-E Lab
+ - [https://www.glamelab.org](https://www.glamelab.org)
+ - date_published: 2024-12-16T11:06:10+00:00
+
+ ## glandium.org
+ - [https://glandium.org](https://glandium.org)
+ - date_published: 2023-11-21T21:18:54.989187+00:00
+
  ## Glasgow 2024, a Worldcon for Our Futures
  - [https://glasgow2024.org](https://glasgow2024.org)
  - date_published: 2023-02-24T23:49:47+00:00
@@ -3967,86 +4047,4 @@
  ## Haiku Depot Server
  - [https://depot.haiku-os.org](https://depot.haiku-os.org)
  - date_published: 2024-08-18T19:03:17.045001+00:00
-
- ## Haiku
- - [https://dev.haiku-os.org](https://dev.haiku-os.org)
- - date_published: 2020-01-03T00:00:00+00:00
-
- ## Haiku Community
- - [https://discuss.haiku-os.org](https://discuss.haiku-os.org)
- - date_published: 2023-10-25T21:27:25.896496+00:00
-
- ## Haiku Downloads
- - [https://download.haiku-os.org](https://download.haiku-os.org)
- - date_published: 2024-08-18T18:38:09+00:00
-
- ## Home | Haiku Project
- - [https://haiku-os.org](https://haiku-os.org)
- - date_published: 2023-10-25T21:27:27.267272+00:00
- - tags: ['operating system']
-
- ## Fathom - simple website analytics
- - [https://metrics.haiku-os.org](https://metrics.haiku-os.org)
- - date_published: 2024-07-21T08:04:30+00:00
-
- ## hails.org
- - [https://hails.org](https://hails.org)
- - date_published: 2023-10-25T21:27:29.684298+00:00
-
- ## Haimin Hu
- - [https://haiminhu.org](https://haiminhu.org)
- - date_published: 2024-12-23T23:40:13.748348+00:00
-
- ## Home
- - [https://www.haiti.org](https://www.haiti.org)
- - date_published: 2024-09-18T04:05:34.447503+00:00
-
- ## The Haitian Project | Louverture Cleary School | Educate Haiti
- - [http://www.haitianproject.org](http://www.haitianproject.org)
- - date_published: 2025-01-22T22:11:58.967967+00:00
-
- ## Log in — Hak5
- - [https://account.shop.hak5.org](https://account.shop.hak5.org)
- - date_published: 2024-09-02T10:59:05.080399+00:00
-
- ## Product Documentation | Product Documentation
- - [https://docs.hak5.org](https://docs.hak5.org)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Hak5 Download Portal
- - [https://downloads.hak5.org](https://downloads.hak5.org)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Pentest Tools & Media | Hak5 Official Site
- - [https://hak5.org](https://hak5.org)
- - date_published: 2024-08-26T20:53:21+00:00
- - tags: ['hardware hacking']
-
- ## Payload Hub
- - [https://payloads.hak5.org](https://payloads.hak5.org)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Hak5 PayloadStudio
- - [https://payloadstudio.hak5.org](https://payloadstudio.hak5.org)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Pentest Tools & Media | Hak5 Official Site
- - [https://shop.hak5.org](https://shop.hak5.org)
- - date_published: 2024-09-02T10:58:40.529490+00:00
-
- ## Hakai Institute
- - [https://hakai.org](https://hakai.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## hakank's homepage
- - [http://www.hakank.org](http://www.hakank.org)
- - date_published: 2024-06-11T07:44:12+00:00
-
- ## Haka | Software Defined Security
- - [http://www.haka-security.org](http://www.haka-security.org)
- - date_published: 2015-06-23T08:26:27+00:00
-
- ## Hakin9 - IT Security Magazine
- - [https://hakin9.org](https://hakin9.org)
- - date_published: 2023-02-06T12:40:38+00:00
 

@@ -1,3 +1,11 @@
+ ## Super Famicom RPGs
+ - [https://superfamicomrpgs.blogspot.com](https://superfamicomrpgs.blogspot.com)
+ - date_published: 2024-12-19T23:18:11+00:00
+
+ ## Super Galactic Dreadnought
+ - [http://supergalacticdreadnought.blogspot.com](http://supergalacticdreadnought.blogspot.com)
+ - date_published: 2024-07-08T08:09:12+00:00
+
  ## Superhero Necromancer
  - [https://superheronecromancer.blogspot.com](https://superheronecromancer.blogspot.com)
  - date_published: 2024-05-08T07:25:56+00:00
@@ -4000,12 +4008,4 @@
  ## Nie znaleziono bloga
  - [http://thirdshiftatthemanufactorum.blogspot.com](http://thirdshiftatthemanufactorum.blogspot.com)
  - date_published: 2025-01-22T07:20:18.028645+00:00
-
- ## Thirteen Minutes
- - [http://thirteenminutes.blogspot.com](http://thirteenminutes.blogspot.com)
- - date_published: 2024-07-15T17:00:34+00:00
-
- ## Cardinal Wolsey's Today in History
- - [http://this-day-in-history.blogspot.com](http://this-day-in-history.blogspot.com)
- - date_published: 2024-03-07T23:46:28+00:00
 

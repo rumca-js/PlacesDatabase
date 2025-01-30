@@ -1,3 +1,11 @@
+ ## Login | The Baylor Parent Portal
+ - [https://baylorparents.campusesp.com](https://baylorparents.campusesp.com)
+ - date_published: 2024-08-19T19:32:16.099965+00:00
+
+ ## Login | The Central Family Experience
+ - [https://ccsu.campusesp.com](https://ccsu.campusesp.com)
+ - date_published: 2024-07-13T05:37:39.460336+00:00
+
  ## Login | DKU Family Hub
  - [https://dku.campusesp.com](https://dku.campusesp.com)
  - date_published: 2024-09-26T17:56:15.994063+00:00
@@ -4013,12 +4021,4 @@
  ## Home - Carlos V Education. Escuelas de Idiomas Sevilla - Madrid
  - [http://www.carlosveducation.com](http://www.carlosveducation.com)
  - date_published: 2024-07-22T00:00:00+00:00
-
- ## Carlos Yescas
- - [https://carlosyescas.com](https://carlosyescas.com)
- - date_published: 2024-05-08T04:59:00.615378+00:00
-
- ## Carl Purcell Art | Official Website
- - [http://www.carlpurcell.com](http://www.carlpurcell.com)
- - date_published: 2024-11-16T21:21:13.650647+00:00
 

@@ -1,3 +1,107 @@
+ ## LxMLS Lisbon Machine Learning School
+ - [http://lxmls.it.pt](http://lxmls.it.pt)
+ - date_published: 2024-03-25T19:27:08+00:00
+
+ ## Networks 2014 - 16th International Telecommunications Network Strategy and Planning Symposium
+ - [http://networks2014.av.it.pt](http://networks2014.av.it.pt)
+ - date_published: 2014-09-21T14:55:15+00:00
+
+ ## IT - Instituto de Telecomunicacoes
+ - [http://www.lx.it.pt](http://www.lx.it.pt)
+ - date_published: 2010-06-26T02:19:22+00:00
+
+ ## ITAP - Instituto Técnico Artístico e Profissional de Coimbra
+ - [https://www.itap.pt](https://www.itap.pt)
+ - date_published: 2024-12-20T11:24:51.840084+00:00
+
+ ## IT Security - Para um Mundo Digital Mais Seguro
+ - [https://www.itsecurity.pt](https://www.itsecurity.pt)
+ - date_published: 2024-06-28T22:08:19.018065+00:00
+
+ ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
+ - [https://www.jack-wolfskin.pt](https://www.jack-wolfskin.pt)
+ - date_published: 2024-07-14T12:16:01.561750+00:00
+
+ ## Javali - Open Source – Websites/Portais, Drupal, Mobile, CRM
+ - [http://www.javali.pt](http://www.javali.pt)
+ - date_published: 2024-05-16T10:46:54+00:00
+
+ ## JD Sports Portugal: Loja online de sapatilhas e roupa
+ - [https://www.jdsports.pt](https://www.jdsports.pt)
+ - date_published: 2024-10-21T02:17:22.247796+00:00
+
+ ## Comprar carros SUV Jeep®, modelos 4x4 e acessórios | Jeep® PT
+ - [https://www.jeep.pt](https://www.jeep.pt)
+ - date_published: 2024-06-18T14:02:45+00:00
+
+ ## Estimativa do seu veiculo | Retoma Jeep PT
+ - [https://www.retoma.jeep.pt](https://www.retoma.jeep.pt)
+ - date_published: 2024-10-28T16:39:45.642535+00:00
+
+ ## Jesuítas em Portugal
+ - [https://jesuitas.pt](https://jesuitas.pt)
+ - date_published: 2024-12-23T21:19:47.215846+00:00
+
+ ## Junta de Freguesia da União de Freguesias do Montijo e Afonsoeiro
+ - [https://jf-montijoeafonsoeiro.pt](https://jf-montijoeafonsoeiro.pt)
+ - date_published: 2024-09-05T15:41:35.355048+00:00
+
+ ## Comprar ou arrendar casa, apartamento e outros imóveis | JLL
+ - [https://residential.jll.pt](https://residential.jll.pt)
+ - date_published: 2024-06-25T16:23:09.805420+00:00
+
+ ## Consultores e profissionais imobiliários | JLL Portugal
+ - [https://www.jll.pt](https://www.jll.pt)
+ - date_published: 2024-10-30T21:39:56.621527+00:00
+
+ ## Global Media Group -
+ - [https://invoice.jn.pt](https://invoice.jn.pt)
+ - date_published: 2024-07-12T21:24:21.834021+00:00
+
+ ## Jornal de Notícias
+ - [https://jn.pt](https://jn.pt)
+ - date_published: 2024-05-10T06:16:41.978312+00:00
+
+ ## Welcome to nginx!
+ - [https://previous-assets.jn.pt](https://previous-assets.jn.pt)
+ - date_published: 2018-12-04T14:52:24+00:00
+
+ ## Publicidade - JN
+ - [https://publicidade.jn.pt](https://publicidade.jn.pt)
+ - date_published: 2024-07-12T21:24:15.362933+00:00
+
+ ## Welcome to WildFly Application Server 8
+ - [https://quiosque.jn.pt](https://quiosque.jn.pt)
+ - date_published: 2014-11-20T22:43:22+00:00
+
+ ## Jogo Responsável
+ - [https://jogoresponsavel.pt](https://jogoresponsavel.pt)
+ - date_published: 2024-12-20T10:52:19+00:00
+
+ ## Notícias da atualidade | Jornal de Abrantes
+ - [https://jornaldeabrantes.pt](https://jornaldeabrantes.pt)
+ - date_published: 2024-09-05T14:02:02.747995+00:00
+
+ ## Página Inicial | Jogo da Bolsa
+ - [http://jogodabolsa.jornaldenegocios.pt](http://jogodabolsa.jornaldenegocios.pt)
+ - date_published: 2024-07-12T20:30:19.934788+00:00
+
+ ## Negócios: Cotações, Mercados, Economia, Empresas
+ - [http://topicos.jornaldenegocios.pt](http://topicos.jornaldenegocios.pt)
+ - date_published: 2024-12-22T11:57:26.409721+00:00
+
+ ## Negócios: Cotações, Mercados, Economia, Empresas
+ - [http://www.jornaldenegocios.pt](http://www.jornaldenegocios.pt)
+ - date_published: 2024-06-25T18:53:12.382199+00:00
+
+ ## A Revista Must do Jornal de Negócios
+ - [https://www.must.jornaldenegocios.pt](https://www.must.jornaldenegocios.pt)
+ - date_published: 2024-07-12T20:30:41.089236+00:00
+
+ ## Jornal do Fundão
+ - [https://jornaldofundao.pt](https://jornaldofundao.pt)
+ - date_published: 2022-09-17T20:28:14+00:00
+
  ## Easy Tax | Jornal Económico & EY
  - [https://easytax.jornaleconomico.pt](https://easytax.jornaleconomico.pt)
  - date_published: 2024-02-09T00:00:00+00:00
@@ -3919,110 +4023,4 @@
  ## Remko Tronçon's Homepage
  - [https://mko.re](https://mko.re)
  - date_published: 2024-06-02T00:00:00+00:00
-
- ## Marty McGuire
- - [http://mmg.re](http://mmg.re)
- - date_published: 2024-09-15T03:50:35+00:00
-
- ## Medium Rare Shop - Premium Webflow Templates, Framer Templates and Figma files
- - [https://mmra.re](https://mmra.re)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## MNT Research Shop - MNT Research Shop
- - [https://shop.mnt.re](https://shop.mnt.re)
- - date_published: 2024-08-18T07:32:23.639281+00:00
-
- ## Sign in · GitLab
- - [https://source.mnt.re](https://source.mnt.re)
- - date_published: 2024-09-02T14:42:08.863227+00:00
-
- ## nani sore - なにそれ
- - [https://naniso.re](https://naniso.re)
- - date_published: 2018-04-02T17:47:16+00:00
-
- ## Benoit Petit
- - [https://bpetit.nce.re](https://bpetit.nce.re)
- - date_published: 2023-10-16T15:37:06+00:00
- - tags: ['personal']
-
- ## Nex Blog – Robe di Nestore
- - [https://nesto.re](https://nesto.re)
- - date_published: 2024-07-13T04:32:13.979976+00:00
-
- ## This Was Not Invented Here
- - [https://notinventedhe.re](https://notinventedhe.re)
- - date_published: 2024-05-13T03:27:09.968551+00:00
-
- ## Convertitore: YouTube MP3, Tiktok MP4 e altro ancora! - noTube
- - [https://notube.re](https://notube.re)
- - date_published: 2025-01-22T22:43:21.088744+00:00
-
- ## Open Obfuscator: A free and open-source solution for obfuscating mobile applications.
- - [https://obfuscator.re](https://obfuscator.re)
- - date_published: 2022-07-14T00:00:00+00:00
- - tags: ['programming', 'obfuscator']
-
- ## 원스토어
- - [https://onesto.re](https://onesto.re)
- - date_published: 2024-12-24T10:49:09.470926+00:00
-
- ## Accueil - Constructeur Automobile  | Opel Réunion
- - [https://www.opel.re](https://www.opel.re)
- - date_published: 2024-07-09T12:00:16+00:00
-
- ## Who is Ben Welsh?
- - [https://palewi.re](https://palewi.re)
- - date_published: 2024-12-23T20:07:57.587798+00:00
-
- ## PARDON!
- - [https://www.pardon.re](https://www.pardon.re)
- - date_published: 2024-06-29T16:40:02.563705+00:00
-
- ## plud.re
- - [https://plud.re](https://plud.re)
- - date_published: 2024-07-10T08:21:36.238262+00:00
-
- ## pood.re
- - [https://pood.re](https://pood.re)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## Digital Goods – ProxyStore
- - [https://digitalgoods.proxysto.re](https://digitalgoods.proxysto.re)
- - date_published: 2024-05-01T07:59:12.716850+00:00
-
- ## Druck – ProxyStore
- - [https://druck.proxysto.re](https://druck.proxysto.re)
- - date_published: 2024-05-01T07:59:17.222723+00:00
-
- ## Order Service – ProxyStore
- - [https://order.proxysto.re](https://order.proxysto.re)
- - date_published: 2024-06-14T23:18:38.490458+00:00
-
- ## ProxyStore
- - [https://proxysto.re](https://proxysto.re)
- - date_published: 2024-05-01T07:59:14.568057+00:00
-
- ## ProxyStore – Onlineshop
- - [https://shop.proxysto.re](https://shop.proxysto.re)
- - date_published: 2024-05-01T07:59:15.872814+00:00
-
- ## Introduction - The Official Radare2 Book
- - [https://book.rada.re](https://book.rada.re)
- - date_published: 2024-08-17T11:51:59+00:00
-
- ## RaRu.Re
- - [https://raru.re](https://raru.re)
- - date_published: 2024-05-04T08:12:35.371952+00:00
-
- ## Readwhere - India's Largest Digital Newsstand.
- - [https://rdwh.re](https://rdwh.re)
- - date_published: 2024-07-09T19:55:40.657291+00:00
-
- ## The Rizin Handbook: A Guide to Reverse Engineering with the Rizin Framework
- - [https://book.rizin.re](https://book.rizin.re)
- - date_published: 2024-08-02T03:35:05+00:00
-
- ## RizinOrg Mattermost
- - [https://im.rizin.re](https://im.rizin.re)
- - date_published: 2024-08-18T16:46:32.254687+00:00
 

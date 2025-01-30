@@ -1,3 +1,11 @@
+ ## Manufatura
+ - [http://manufatura.blogspot.com](http://manufatura.blogspot.com)
+ - date_published: 2024-10-02T07:11:09+00:00
+
+ ## Hagahot
+ - [http://manuscriptboy.blogspot.com](http://manuscriptboy.blogspot.com)
+ - date_published: 2024-06-18T13:30:36+00:00
+
  ## maoaviation
  - [http://maoaviation.blogspot.com](http://maoaviation.blogspot.com)
  - date_published: 2024-02-20T23:13:42+00:00
@@ -4002,12 +4010,4 @@
  ## Blogger
  - [http://mysteriousrantings.blogspot.com](http://mysteriousrantings.blogspot.com)
  - date_published: 2025-01-01T10:46:22.699042+00:00
-
- ## Mystery Fanfare
- - [https://mysteryreadersinc.blogspot.com](https://mysteryreadersinc.blogspot.com)
- - date_published: 2024-10-17T23:16:34.511002+00:00
-
- ## mystery thought bomb
- - [https://mysterythoughtbomb.blogspot.com](https://mysterythoughtbomb.blogspot.com)
- - date_published: 2024-09-16T00:00:00+00:00
 

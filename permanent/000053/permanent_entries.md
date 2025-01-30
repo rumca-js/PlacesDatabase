@@ -1,3 +1,7 @@
+ ## Greece Golden Visa — Greek citizenship by investment in 2023
+ - [https://anyresidence.com](https://anyresidence.com)
+ - date_published: 2024-10-31T00:48:04.997017+00:00
+
  ## AnyRoad
  - [https://app.anyroad.com](https://app.anyroad.com)
  - date_published: 2024-09-13T11:03:19.402345+00:00
@@ -4071,8 +4075,4 @@ my personal blog
  ## Aptos Ascend | Customizable Blockchain Technology
  - [https://aptosascend.com](https://aptosascend.com)
  - date_published: 2024-09-24T00:00:00+00:00
-
- ## Aptos Labs | Accelerating the Future of Web3
- - [https://aptoslabs.com](https://aptoslabs.com)
- - date_published: 2024-03-15T00:00:00+00:00
 

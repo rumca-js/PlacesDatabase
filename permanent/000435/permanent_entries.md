@@ -1,3 +1,83 @@
+ ## AXA Research Fund
+ - [https://www.axa-research.org](https://www.axa-research.org)
+ - date_published: 2025-01-10T15:46:26.654887+00:00
+
+ ## home – Bringing awareness to data custody
+ - [https://axel.org](https://axel.org)
+ - date_published: 2024-09-24T03:19:26.889754+00:00
+
+ ## Axis Bank Foundation
+ - [https://www.axisbankfoundation.org](https://www.axisbankfoundation.org)
+ - date_published: 2022-06-14T09:20:17+00:00
+
+ ## Mailpit - email & SMTP testing tool
+ - [https://mailpit.axllent.org](https://mailpit.axllent.org)
+ - date_published: 2024-05-06T23:14:31.371996+00:00
+
+ ## Axrt.org - Home of AxRuntime
+ - [https://axrt.org](https://axrt.org)
+ - date_published: 2023-12-11T19:00:28.480909+00:00
+
+ ## Festival + Symposia
+ - [http://axsfestival.org](http://axsfestival.org)
+ - date_published: 2020-07-16T12:23:28+00:00
+
+ ## Start - Axel and Margaret Ax:son Johnson Foundation for public benefit
+ - [https://axsonjohnsonfoundation.org](https://axsonjohnsonfoundation.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Ayan Chakrabarti
+ - [https://projects.ayanc.org](https://projects.ayanc.org)
+ - date_published: 2021-10-15T11:12:41+00:00
+
+ ## 爱佑慈善基金会-儿童公益_公开透明慈善组织
+ - [http://www.ayfoundation.org](http://www.ayfoundation.org)
+ - date_published: 2025-01-14T13:11:57.949893+00:00
+
+ ## Ayin Press is an independent publishing house and production stu
+ - [https://ayinpress.org](https://ayinpress.org)
+ - date_published: 2024-12-21T16:53:04.799502+00:00
+
+ ## Ayin Press
+ - [https://shop.ayinpress.org](https://shop.ayinpress.org)
+ - date_published: 2024-09-16T20:24:07.769532+00:00
+
+ ## The Homebound Symphony – Stagger onward rejoicing
+ - [https://blog.ayjay.org](https://blog.ayjay.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Alan Jacobs
+ - [https://social.ayjay.org](https://social.ayjay.org)
+ - date_published: 2024-05-08T09:59:37.570444+00:00
+
+ ## Aymara Uta — Una lengua, una cultura y un pueblo
+ - [https://aymara.org](https://aymara.org)
+ - date_published: 2024-09-18T03:46:16.805908+00:00
+
+ ## Welcome to The Ayn Rand Institute - The Ayn Rand Institute
+ - [https://ari.aynrand.org](https://ari.aynrand.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Welcome to Ayn Rand Institute - AynRand.org
+ - [https://aynrand.org](https://aynrand.org)
+ - date_published: 2019-06-26T03:53:18+00:00
+
+ ## New Ideal - Reason | Individualism | Capitalism
+ - [http://capitalism.aynrand.org](http://capitalism.aynrand.org)
+ - date_published: 2024-10-31T23:16:12.976701+00:00
+
+ ## The Ayn Rand Institute eStore
+ - [https://estore.aynrand.org](https://estore.aynrand.org)
+ - date_published: 2024-12-21T16:55:59.600365+00:00
+
+ ## Ayn Rand Institute Events - The Ayn Rand Institute Events
+ - [http://events.aynrand.org](http://events.aynrand.org)
+ - date_published: 2022-02-11T20:25:47+00:00
+
+ ## New Ideal - Reason | Individualism | Capitalism
+ - [https://newideal.aynrand.org](https://newideal.aynrand.org)
+ - date_published: 2016-10-13T01:04:37+00:00
+
  ## Ayn Rand University - Ayn Rand University
  - [https://university.aynrand.org](https://university.aynrand.org)
  - date_published: 2024-12-21T16:55:10.846392+00:00
@@ -3939,84 +4019,4 @@
  ## BlackArch Linux - Penetration Testing Distribution
  - [https://blackarch.org](https://blackarch.org)
  - date_published: 2024-06-17T20:33:59+00:00
-
- ## Home - Black Archives of Mid-America in Kansas City
- - [http://www.blackarchives.org](http://www.blackarchives.org)
- - date_published: 2024-12-31T15:53:41.147699+00:00
-
- ## BlackBirdie 2024
- - [https://blackbirdie.org](https://blackbirdie.org)
- - date_published: 2024-08-09T17:35:58+00:00
-
- ## BlackBoxVoting.org – Black Box Voting 2.0 – a curated nonpartisan reporting and public education site for elections.
- - [https://blackboxvoting.org](https://blackboxvoting.org)
- - date_published: 2024-06-28T18:35:49.837405+00:00
-
- ## Black Disability | National Black Disability Coalition | Washington
- - [https://blackdisability.org](https://blackdisability.org)
- - date_published: 2024-06-15T18:14:39.887781+00:00
-
- ## Blackdown - Technology Tutorials, Reviews and News
- - [http://www.blackdown.org](http://www.blackdown.org)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Home | Black Faith & HIV
- - [https://blackfaith.org](https://blackfaith.org)
- - date_published: 2025-01-10T04:59:32.367148+00:00
-
- ## Black Girl Ventures | Creating Access to Capital for Black/Brown Women Founders
- - [https://www.blackgirlventures.org](https://www.blackgirlventures.org)
- - date_published: 2024-07-01T08:16:33.394838+00:00
-
- ## damn the muse
- - [http://nimsay.blackglass.org](http://nimsay.blackglass.org)
- - date_published: 2024-07-13T09:59:21.334347+00:00
-
- ## Home - SXS - Simulating eXtreme Spacetimes
- - [http://www.black-holes.org](http://www.black-holes.org)
- - date_published: 2025-01-01T04:54:01.382919+00:00
-
- ## Home - The Blackhorse Association
- - [https://blackhorse.org](https://blackhorse.org)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Home - The Blackhorse Memorial
- - [https://memorial.blackhorse.org](https://memorial.blackhorse.org)
- - date_published: 2020-11-30T20:10:43+00:00
-
- ## Alasdair Watson | Unreliable information since 1972
- - [http://www.black-ink.org](http://www.black-ink.org)
- - date_published: 2024-07-04T13:59:03.668545+00:00
-
- ## blackinrobotics
- - [https://blackinrobotics.org](https://blackinrobotics.org)
- - date_published: 2024-07-13T18:33:18.847252+00:00
-
- ## BLACKLISTALERT.ORG - Email Problem ? - Test if your IP or DOMAIN is blacklisted in a spamdatabase
- - [http://www.blacklistalert.org](http://www.blacklistalert.org)
- - date_published: 2024-06-19T22:49:58.712054+00:00
-
- ## Homepage - Black Mountain Institute
- - [https://blackmountaininstitute.org](https://blackmountaininstitute.org)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Welcome to Blackpast •
- - [https://blackpast.org](https://blackpast.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Amiri Baraka - Black History Month 2003 - A living legend's fade to Black - BlackPress.org
- - [http://www.blackpress.org](http://www.blackpress.org)
- - date_published: 2024-05-30T17:03:24+00:00
-
- ## BQTH
- - [https://www.blackqueertownhall.org](https://www.blackqueertownhall.org)
- - date_published: 2024-06-29T08:42:10.735991+00:00
-
- ## Friends of Black Rock-High Rock
- - [http://blackrockdesert.org](http://blackrockdesert.org)
- - date_published: 2024-06-24T05:45:33.594657+00:00
-
- ## Black Rock Football Club
- - [http://www.blackrockfc.org](http://www.blackrockfc.org)
- - date_published: 2024-07-09T23:06:25.057400+00:00
 

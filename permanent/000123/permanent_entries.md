@@ -1,3 +1,11 @@
+ ## Ezilon Directorio y Buscador España
+ - [https://es.ezilon.com](https://es.ezilon.com)
+ - date_published: 2024-06-29T19:48:38.806211+00:00
+
+ ## Ezilon.com - Regional Web Directory
+ - [https://ezilon.com](https://ezilon.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## Ezilon.com - Regional Web Directory
  - [https://find.ezilon.com](https://find.ezilon.com)
  - date_published: 2024-06-29T19:48:41.099000+00:00
@@ -4016,12 +4024,4 @@
  ## Batman 60's TV Wiki
  - [https://batman60stv.fandom.com](https://batman60stv.fandom.com)
  - date_published: 2024-06-17T14:23:22+00:00
-
- ## Batman Anthology Wiki
- - [https://batmananthology.fandom.com](https://batmananthology.fandom.com)
- - date_published: 2024-10-24T10:34:45+00:00
-
- ## Batman: Caped Crusader Wiki
- - [https://batman-caped-crusader.fandom.com](https://batman-caped-crusader.fandom.com)
- - date_published: 2024-06-17T08:39:50+00:00
 
