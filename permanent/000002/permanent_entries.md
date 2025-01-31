@@ -1,3 +1,19 @@
+ ## Girlfriendly AI - No Filter NSFW Character AI Chat
+ - [https://www.girlfriendly.ai](https://www.girlfriendly.ai)
+ - date_published: 2024-12-15T11:48:37.489912+00:00
+
+ ## GirlJams.AI: An AI-powered songwriting experience
+ - [https://girljams.ai](https://girljams.ai)
+ - date_published: 2023-12-01T21:30:28+00:00
+
+ ## Giskard Documentation
+ - [https://docs.giskard.ai](https://docs.giskard.ai)
+ - date_published: 2024-05-11T07:38:54.333504+00:00
+
+ ## Giskard - Open-source Solution for AI Quality
+ - [https://giskard.ai](https://giskard.ai)
+ - date_published: 2023-10-25T11:39:07.365125+00:00
+
  ## Chat with AI - GitMind Chat
  - [https://gitmind.ai](https://gitmind.ai)
  - date_published: 2024-12-11T11:05:33.170216+00:00
@@ -246,6 +262,10 @@
  ## Data Readiness Platform | Granica AI
  - [https://granica.ai](https://granica.ai)
  - date_published: 2024-10-30T14:36:00+00:00
+
+ ## Granola — The AI Notepad for people in back-to-back meetings
+ - [https://www.granola.ai](https://www.granola.ai)
+ - date_published: 2025-01-30T18:43:31.127249+00:00
 
  ## Assisted data exploration for everyone
  - [https://grapha.ai](https://grapha.ai)
@@ -4010,24 +4030,4 @@
  ## NuMind - Solve Your Information Extraction Tasks
  - [https://numind.ai](https://numind.ai)
  - date_published: 2025-01-23T19:20:31.571416+00:00
-
- ## Nuro—On a mission to better everyday life through robotics.
- - [https://nuro.ai](https://nuro.ai)
- - date_published: 2024-07-12T07:19:53.888883+00:00
-
- ## AI Nutrition Label by Twilio
- - [https://nutrition-facts.ai](https://nutrition-facts.ai)
- - date_published: 2023-10-25T11:41:01.005627+00:00
-
- ## NVIDIA Venture Capital: NVentures
- - [https://nventures.ai](https://nventures.ai)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## ObjectivePersonality.ai
- - [https://objectivepersonality.ai](https://objectivepersonality.ai)
- - date_published: 2023-10-30T00:00:00+00:00
-
- ## Por el conocimiento de la Inteligencia Artificial | Observatorio IA
- - [https://observatorio-ametic.ai](https://observatorio-ametic.ai)
- - date_published: 2024-09-09T22:02:12+00:00
 

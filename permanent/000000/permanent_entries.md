@@ -1680,6 +1680,10 @@
  - [https://www.sita.aero](https://www.sita.aero)
  - date_published: 2024-07-14T20:59:51.700651+00:00
 
+ ## SKYbrary Aviation Safety
+ - [https://skybrary.aero](https://skybrary.aero)
+ - date_published: 2025-01-30T12:58:26.003212+00:00
+
  ## Welcome to SkyDemon, VFR Flight Planning Software and GPS Navigation
  - [https://www.skydemon.aero](https://www.skydemon.aero)
  - date_published: 2024-07-09T21:43:30.847103+00:00
@@ -3094,6 +3098,10 @@
  - [https://wildchat.allen.ai](https://wildchat.allen.ai)
  - date_published: 2024-06-26T22:10:15+00:00
 
+ ## All Things Open AI - March 17-18 The Carolina Theater, Durham, NC
+ - [https://allthingsopen.ai](https://allthingsopen.ai)
+ - date_published: 2025-01-30T16:43:33.133792+00:00
+
  ## Aloud - dubbing for everyone
  - [https://aloud.ai](https://aloud.ai)
  - date_published: 2024-06-29T22:47:05.566410+00:00
@@ -4011,12 +4019,4 @@
  ## Bit Blog: Document Collaboration, Productivity, Teamwork
  - [https://blog.bit.ai](https://blog.bit.ai)
  - date_published: 2024-10-30T19:01:52.708189+00:00
-
- ## Bit.ai Help Center
- - [https://help.bit.ai](https://help.bit.ai)
- - date_published: 2024-10-30T19:01:49.887835+00:00
-
- ## bitcart-admin
- - [https://admin.bitcart.ai](https://admin.bitcart.ai)
- - date_published: 2024-06-19T22:20:41.893931+00:00
 

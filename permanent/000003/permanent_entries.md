@@ -1,3 +1,23 @@
+ ## Nuro—On a mission to better everyday life through robotics.
+ - [https://nuro.ai](https://nuro.ai)
+ - date_published: 2024-07-12T07:19:53.888883+00:00
+
+ ## AI Nutrition Label by Twilio
+ - [https://nutrition-facts.ai](https://nutrition-facts.ai)
+ - date_published: 2023-10-25T11:41:01.005627+00:00
+
+ ## NVIDIA Venture Capital: NVentures
+ - [https://nventures.ai](https://nventures.ai)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## ObjectivePersonality.ai
+ - [https://objectivepersonality.ai](https://objectivepersonality.ai)
+ - date_published: 2023-10-30T00:00:00+00:00
+
+ ## Por el conocimiento de la Inteligencia Artificial | Observatorio IA
+ - [https://observatorio-ametic.ai](https://observatorio-ametic.ai)
+ - date_published: 2024-09-09T22:02:12+00:00
+
  ## Conversation Intelligence for Contact Centers | Observe.AI
  - [https://observe.ai](https://observe.ai)
  - date_published: 2024-10-30T17:07:06+00:00
@@ -4022,25 +4042,4 @@
  ## Symmetrical.ai. Lepszy sposób na prowadzenie listy płac i HR.
  - [https://symmetrical.ai](https://symmetrical.ai)
  - date_published: 2024-09-24T00:00:00+00:00
-
- ## Synapse - The AI Symposium
- - [https://synapsesymposium.ai](https://synapsesymposium.ai)
- - date_published: 2024-06-17T11:42:23.666414+00:00
-
- ## https://synesthesia.ai
- - [https://synesthesia.ai](https://synesthesia.ai)
- - date_published: 2024-01-09T02:23:20.593035+00:00
- - date_dead_since: 2025-01-06T13:55:00.151501+00:00
-
- ## 深信科创
- - [https://synkrotron.ai](https://synkrotron.ai)
- - date_published: 2024-02-18T09:01:00+00:00
-
- ## Synnax - AI Credit Intelligence
- - [https://www.synnax.ai](https://www.synnax.ai)
- - date_published: 2025-01-17T19:20:23.230143+00:00
-
- ## Convert your code to different languages by AI  — Syntha AI
- - [https://syntha.ai](https://syntha.ai)
- - date_published: 2024-12-23T15:00:24.277184+00:00
 
