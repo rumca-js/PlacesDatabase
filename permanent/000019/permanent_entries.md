@@ -1,3 +1,291 @@
+ ## CCESP
+ - [http://www.ccesp.puc-rio.br](http://www.ccesp.puc-rio.br)
+ - date_published: 2024-07-07T06:43:38.337945+00:00
+
+ ## COVID2 - COVID-19 ICA
+ - [http://www.covid.ica.ele.puc-rio.br](http://www.covid.ica.ele.puc-rio.br)
+ - date_published: 2024-10-11T12:11:47.651244+00:00
+
+ ## WWW-DI - Departamento de Informatica - PUC-Rio
+ - [http://www-di.inf.puc-rio.br](http://www-di.inf.puc-rio.br)
+ - date_published: 2023-01-02T16:27:07+00:00
+
+ ## PUC Rio | Departamento de Economia
+ - [https://www.econ.puc-rio.br](https://www.econ.puc-rio.br)
+ - date_published: 2024-10-31T12:20:27.417136+00:00
+
+ ## Departamento de Informática – PUC-Rio | Home
+ - [https://www.inf.puc-rio.br](https://www.inf.puc-rio.br)
+ - date_published: 2024-06-17T03:14:29.702028+00:00
+
+ ## Maxwell
+ - [http://www.maxwell.vrac.puc-rio.br](http://www.maxwell.vrac.puc-rio.br)
+ - date_published: 2024-07-07T06:42:17.039769+00:00
+
+ ## PSI.PUC-RIO
+ - [http://www.psi.puc-rio.br](http://www.psi.puc-rio.br)
+ - date_published: 2021-04-08T22:59:32+00:00
+
+ ## PUC-Rio - Rio Datacentro (RDC)
+ - [https://www.rdc.puc-rio.br](https://www.rdc.puc-rio.br)
+ - date_published: 2024-07-07T06:42:28.527190+00:00
+
+ ## Início
+ - [http://www.ser.puc-rio.br](http://www.ser.puc-rio.br)
+ - date_published: 2024-07-07T06:43:24+00:00
+
+ ## Graduação, Pós e MBA na PUCRS Online
+ - [https://online.pucrs.br](https://online.pucrs.br)
+ - date_published: 2024-12-22T04:42:29+00:00
+
+ ## Portal da PUCRS
+ - [https://www.pucrs.br](https://www.pucrs.br)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Rede-Rio | Rede Acadêmica do Rio de Janeiro
+ - [https://rederio.br](https://rederio.br)
+ - date_published: 2024-07-07T06:42:03.092211+00:00
+
+ ## Registro.br
+ - [https://registro.br](https://registro.br)
+ - date_published: 2024-05-01T06:42:03.573779+00:00
+
+ ## Home • Escola Superior de Redes
+ - [https://esr.rnp.br](https://esr.rnp.br)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## RNP - Início
+ - [http://rnp.br](http://rnp.br)
+ - date_published: 2024-09-18T19:02:49+00:00
+
+ ## PoP-RS
+ - [https://www.pop-rs.rnp.br](https://www.pop-rs.rnp.br)
+ - date_published: 2024-06-15T17:37:44.884605+00:00
+
+ ## Simepar
+ - [http://simepar.br](http://simepar.br)
+ - date_published: 2019-04-07T04:52:17+00:00
+
+ ## Softex
+ - [https://ftp.softex.br](https://ftp.softex.br)
+ - date_published: 2019-03-20T14:08:27+00:00
+
+ ## Página Inicial
+ - [http://cert-rs.tche.br](http://cert-rs.tche.br)
+ - date_published: 2024-06-15T17:37:40+00:00
+
+ ## Documento sem título
+ - [https://gtrh.tche.br](https://gtrh.tche.br)
+ - date_published: 2005-01-05T13:22:24+00:00
+
+ ## Rede Tchê
+ - [https://www2.tche.br](https://www2.tche.br)
+ - date_published: 2024-09-18T20:10:42.892933+00:00
+
+ ## Universidade de Caxias do Sul - UCS
+ - [http://www.ucs.br](http://www.ucs.br)
+ - date_published: 2024-12-24T09:38:31.963535+00:00
+
+ ## Home
+ - [https://www.uema.br](https://www.uema.br)
+ - date_published: 2024-09-11T16:29:00.846537+00:00
+
+ ## UEMAnet | Site do Núcleo de Tecnologias para Educação
+ - [http://www.uemanet.uema.br](http://www.uemanet.uema.br)
+ - date_published: 2024-09-11T16:28:53.366554+00:00
+
+ ## Index of /
+ - [http://mirror.uepg.br](http://mirror.uepg.br)
+ - date_published: 2024-07-20T15:58:54.977343+00:00
+
+ ## Apresentação - Catálogo de Cursos UESB
+ - [http://catalogo.uesb.br](http://catalogo.uesb.br)
+ - date_published: 2024-12-15T12:33:36.455512+00:00
+
+ ## UESB - Universidade Estadual do Sudoeste da Bahia
+ - [https://www.uesb.br](https://www.uesb.br)
+ - date_published: 2024-10-30T20:16:49.717477+00:00
+
+ ## PROEX
+ - [https://proex.uesc.br](https://proex.uesc.br)
+ - date_published: 2024-11-05T19:36:08+00:00
+
+ ## Uesc - Universidade Estadual de Santa Cruz
+ - [https://uesc.br](https://uesc.br)
+ - date_published: 2024-10-30T20:18:41.601817+00:00
+
+ ## Uesc - Universidade Estadual de Santa Cruz
+ - [https://www2.uesc.br](https://www2.uesc.br)
+ - date_published: 2024-12-15T13:29:52.787420+00:00
+
+ ## Sign in - Google Accounts
+ - [http://correio.huwc.ufc.br](http://correio.huwc.ufc.br)
+ - date_published: 2024-10-11T11:03:48.489244+00:00
+
+ ## Sign in - Google Accounts
+ - [http://correio.meac.ufc.br](http://correio.meac.ufc.br)
+ - date_published: 2024-10-11T11:04:36.619866+00:00
+
+ ## REDCap
+ - [https://redcap.huwc.ufc.br](https://redcap.huwc.ufc.br)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Resultado Exames Paciente - Efetuar Log-in
+ - [http://resultadosexames.huwc.ufc.br](http://resultadosexames.huwc.ufc.br)
+ - date_published: 2024-10-11T11:02:38.970531+00:00
+
+ ## PORTAL SETISD
+ - [https://sistemas.huwc.ufc.br](https://sistemas.huwc.ufc.br)
+ - date_published: 2024-03-15T13:15:55+00:00
+
+ ## PORTAL SETISD
+ - [https://sistemas.meac.ufc.br](https://sistemas.meac.ufc.br)
+ - date_published: 2024-09-25T18:40:52+00:00
+
+ ## start [Infoptics]
+ - [https://infoptics.if.uff.br](https://infoptics.if.uff.br)
+ - date_published: 2024-08-19T06:10:31.178847+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://www2.ic.uff.br](http://www2.ic.uff.br)
+ - date_published: 2024-05-06T13:35:12.673644+00:00
+
+ ## | Universidade Federal Fluminense
+ - [http://www.uff.br](http://www.uff.br)
+ - date_published: 2024-09-03T22:21:07+00:00
+
+ ## NetLab
+ - [http://netlab.ice.ufjf.br](http://netlab.ice.ufjf.br)
+ - date_published: 2024-04-03T22:13:37+00:00
+
+ ## Página Principal - Biblioteca Universitária
+ - [https://bibliotecauniversitaria.ufla.br](https://bibliotecauniversitaria.ufla.br)
+ - date_published: 2024-12-15T12:27:08+00:00
+
+ ## Página Principal
+ - [https://ccon.ufla.br](https://ccon.ufla.br)
+ - date_published: 2024-12-15T12:28:17+00:00
+
+ ## Portal da Ciência da Universidade Federal de Lavras
+ - [http://ciencia.ufla.br](http://ciencia.ufla.br)
+ - date_published: 2024-12-15T12:28:04+00:00
+
+ ## Página Principal
+ - [http://cigov.ufla.br](http://cigov.ufla.br)
+ - date_published: 2024-12-15T12:26:04+00:00
+
+ ## Página Principal
+ - [https://cops.ufla.br](https://cops.ufla.br)
+ - date_published: 2024-12-15T12:27:05+00:00
+
+ ## Página Principal - Diretoria de Gestão de Tecnologia e Informação
+ - [https://dgti.ufla.br](https://dgti.ufla.br)
+ - date_published: 2024-12-15T12:27:11+00:00
+
+ ## Página Principal
+ - [https://ouvidoria.ufla.br](https://ouvidoria.ufla.br)
+ - date_published: 2024-12-15T12:26:07+00:00
+
+ ## Painéis e Indicadores UFLA
+ - [https://paineis.ufla.br](https://paineis.ufla.br)
+ - date_published: 2024-12-15T12:28:13+00:00
+
+ ## Pró-Reitoria de Graduação - PRG - UFLA
+ - [http://prg.ufla.br](http://prg.ufla.br)
+ - date_published: 2024-12-15T12:27:01+00:00
+
+ ## Main Page
+ - [http://print.ufla.br](http://print.ufla.br)
+ - date_published: 2024-12-15T12:28:01+00:00
+
+ ## SIG - Log-in
+ - [https://sig.ufla.br](https://sig.ufla.br)
+ - date_published: 2024-11-11T11:26:40+00:00
+
+ ## Página Principal - UFLA - Universidade Federal de Lavras
+ - [https://ufla.br](https://ufla.br)
+ - date_published: 2024-10-30T20:16:40+00:00
+
+ ## Rádio Universitária 105.7 FM
+ - [http://www.universitariafm.ufla.br](http://www.universitariafm.ufla.br)
+ - date_published: 2024-12-15T12:28:08.037216+00:00
+
+ ## Authentication - GLPI
+ - [https://atendimento-sti2.ufma.br](https://atendimento-sti2.ufma.br)
+ - date_published: 2024-06-16T15:22:47.899739+00:00
+
+ ## pagina inicial
+ - [https://portalpadrao.ufma.br](https://portalpadrao.ufma.br)
+ - date_published: 2024-10-11T11:24:18.068519+00:00
+
+ ## atoba.fisica.ufmg.br
+ - [https://atoba.fisica.ufmg.br](https://atoba.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:47.217872+00:00
+
+ ## Biblioteca do Departamento de Química - ICEx/UFMG | Biblioteca do Departamento de Química - ICEx/UFMG
+ - [http://biblioteca.qui.ufmg.br](http://biblioteca.qui.ufmg.br)
+ - date_published: 2024-07-13T18:19:43+00:00
+
+ ## Black Hole - UFMG / DTI
+ - [http://blackhole.rede.ufmg.br](http://blackhole.rede.ufmg.br)
+ - date_published: 2024-07-13T18:18:55.449683+00:00
+
+ ## Espaço do Colaborador
+ - [http://colaborador.fundep.ufmg.br](http://colaborador.fundep.ufmg.br)
+ - date_published: 2024-03-21T16:31:24+00:00
+
+ ## Sala de Demonstrações de Física - UFMG
+ - [https://demonstracoes.fisica.ufmg.br](https://demonstracoes.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:09:12.771306+00:00
+
+ ## Fundep - Espaço do Coordenador
+ - [https://ec.fundep.ufmg.br](https://ec.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:16:17.641805+00:00
+
+ ## Fundep
+ - [https://fundep.ufmg.br](https://fundep.ufmg.br)
+ - date_published: 2024-05-11T08:09:00.660884+00:00
+
+ ## Universidade Federal de Minas Gerais
+ - [https://icex.ufmg.br](https://icex.ufmg.br)
+ - date_published: 2024-05-11T08:09:23.781459+00:00
+
+ ## LCPNano - Física/UFMG
+ - [http://lcpnano.ufmg.br](http://lcpnano.ufmg.br)
+ - date_published: 2024-05-11T08:08:57.602511+00:00
+
+ ## Física - UFMG -Site secundario
+ - [https://lilith.fisica.ufmg.br](https://lilith.fisica.ufmg.br)
+ - date_published: 2024-03-18T22:49:00.695043+00:00
+
+ ## SSO - minhaUFMG
+ - [https://minha.ufmg.br](https://minha.ufmg.br)
+ - date_published: 2024-05-11T08:08:00.331088+00:00
+
+ ## HTTP Server Test Page powered by CentOS
+ - [http://ni100t.fisica.ufmg.br](http://ni100t.fisica.ufmg.br)
+ - date_published: 2021-07-03T13:48:21+00:00
+
+ ## Portal de Periódicos da UFMG
+ - [https://periodicos.ufmg.br](https://periodicos.ufmg.br)
+ - date_published: 2024-07-13T18:19:33.151876+00:00
+
+ ## Fundep - Portal de Compras
+ - [https://portaldecompras.fundep.ufmg.br](https://portaldecompras.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:16:13.127252+00:00
+
+ ## Programa de Pós-graduação em Ciência da Computação
+ - [https://ppgcc.dcc.ufmg.br](https://ppgcc.dcc.ufmg.br)
+ - date_published: 2024-07-13T18:19:47.272373+00:00
+
+ ## Processo Seletivo - Física - UFMG
+ - [http://procsel.fisica.ufmg.br](http://procsel.fisica.ufmg.br)
+ - date_published: 2024-07-13T18:18:48.387870+00:00
+
+ ## SGSED - Sistema de Encargos Didáticos
+ - [https://sgsed.fisica.ufmg.br](https://sgsed.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:42.754957+00:00
+
  ## SSO - minhaUFMG
  - [https://sistemas.ufmg.br](https://sistemas.ufmg.br)
  - date_published: 2024-07-13T18:04:07.578049+00:00
@@ -154,6 +442,10 @@ Educação
  ## Rádio UFRJ - Emissora educativa e multiplataforma
  - [https://www.radio.ufrj.br](https://www.radio.ufrj.br)
  - date_published: 2024-12-14T17:40:09.809395+00:00
+
+ ## Portal da UFRN
+ - [http://www.ufrn.br](http://www.ufrn.br)
+ - date_published: 2025-01-31T17:58:21.134160+00:00
 
  ## Portal UFRRJ
  - [http://www.ufrrj.br](http://www.ufrrj.br)
@@ -641,6 +933,22 @@ Educação
  ## Agência Tatu de Jornalismo de Dados
  - [https://www.agenciatatu.com.br](https://www.agenciatatu.com.br)
  - date_published: 2019-08-06T23:44:44+00:00
+
+ ## Agendor | Sistema CRM online para vendas consultivas B2B
+ - [https://agendor.com.br](https://agendor.com.br)
+ - date_published: 2025-01-31T14:07:19.470521+00:00
+
+ ## Central de Ajuda | Agendor
+ - [https://ajuda.agendor.com.br](https://ajuda.agendor.com.br)
+ - date_published: 2025-01-31T14:07:24.545121+00:00
+
+ ## Demonstração do Agendor - Como usar o Agendor para melhorar suas vendas
+ - [http://demonstracao.agendor.com.br](http://demonstracao.agendor.com.br)
+ - date_published: 2025-01-31T14:07:22.513055+00:00
+
+ ## Entrar - Agendor
+ - [https://web.agendor.com.br](https://web.agendor.com.br)
+ - date_published: 2025-01-31T14:07:29.639646+00:00
 
  ## Agendor | Sistema CRM online para vendas consultivas B2B
  - [https://www.agendor.com.br](https://www.agendor.com.br)
@@ -1631,6 +1939,14 @@ Educação
  - [http://www.cosacnaify.com.br](http://www.cosacnaify.com.br)
  - date_published: 2024-12-31T18:49:01.733323+00:00
 
+ ## CPAH - Centro de Pesquisa e Análises Heráclito
+ - [https://cpah.com.br](https://cpah.com.br)
+ - date_published: 2025-01-31T08:46:35.069669+00:00
+
+ ## home - DNA CPAH
+ - [https://dna.cpah.com.br](https://dna.cpah.com.br)
+ - date_published: 2025-01-31T08:51:05.076892+00:00
+
  ## CQS
  - [https://cqsfv.com.br](https://cqsfv.com.br)
  - date_published: 2024-06-26T21:56:43.931577+00:00
@@ -1726,6 +2042,10 @@ Educação
  ## Desize
  - [https://www.desize.com.br](https://www.desize.com.br)
  - date_published: 2020-11-06T23:02:05+00:00
+
+ ## Início | Ferramentas Desoutter
+ - [https://www.desouttertools.com.br](https://www.desouttertools.com.br)
+ - date_published: 2025-01-31T17:29:22.893249+00:00
 
  ## Diário do Comércio – A impressão digital da economia mineira
  - [https://diariodocomercio.com.br](https://diariodocomercio.com.br)
@@ -2056,6 +2376,10 @@ Educação
  ## Epoch TV
  - [https://plataforma.epochtv.com.br](https://plataforma.epochtv.com.br)
  - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Epson Brasil | Página inicial
+ - [https://epson.com.br](https://epson.com.br)
+ - date_published: 2025-01-31T21:05:12.249004+00:00
 
  ## Pagina Inicial | Equifax
  - [https://www.equifax.com.br](https://www.equifax.com.br)
@@ -2726,6 +3050,10 @@ Educação
  - [https://online.hitpaw.com.br](https://online.hitpaw.com.br)
  - date_published: 2024-05-31T00:00:00+00:00
 
+ ## [OFICIAL] HitPaw: Poderoso Provedor de Soluções de Vídeo, Áudio e Foto
+ - [https://www.hitpaw.com.br](https://www.hitpaw.com.br)
+ - date_published: 2025-01-31T13:52:25.358396+00:00
+
  ## Hoje em Dia
  - [https://www.hojeemdia.com.br](https://www.hojeemdia.com.br)
  - date_published: 2024-10-28T14:34:25.280470+00:00
@@ -3214,6 +3542,10 @@ Educação
  - [http://www.lucianopires.com.br](http://www.lucianopires.com.br)
  - date_published: 2024-12-20T07:34:41.169255+00:00
 
+ ## lucky-7-bonus.com.br
+ - [https://lucky-7-bonus.com.br](https://lucky-7-bonus.com.br)
+ - date_published: 2025-01-31T18:00:18.587838+00:00
+
  ## Lucky Jet ✈️ Jogue, Baixe e Ganhe Grande com LuckyJet Online!
  - [https://luckyjetz.com.br](https://luckyjetz.com.br)
  - date_published: 2024-09-10T13:35:30.026278+00:00
@@ -3225,6 +3557,10 @@ Educação
  ## John Deere MachineFinder Used Equipment
  - [https://machinefinder.com.br](https://machinefinder.com.br)
  - date_published: 2024-06-15T21:09:32.666441+00:00
+
+ ## Machineryzone, anúncios de equipamentos para construção usados e novos - MachineryZone
+ - [https://www.machineryzone.com.br](https://www.machineryzone.com.br)
+ - date_published: 2025-01-31T18:18:10.508806+00:00
 
  ## Madrid Open Mall – Madrid Open Mall
  - [https://madridopenmall.com.br](https://madridopenmall.com.br)
@@ -3462,6 +3798,10 @@ Educação
  - [https://www.moedasdobrasil.com.br](https://www.moedasdobrasil.com.br)
  - date_published: 2024-12-23T21:30:51.735959+00:00
 
+ ## Central de ajuda - Monde
+ - [https://ajuda.monde.com.br](https://ajuda.monde.com.br)
+ - date_published: 2025-01-31T14:06:52.629993+00:00
+
  ## Monde | O sistema de gestão das agências de viagens
  - [https://monde.com.br](https://monde.com.br)
  - date_published: 2025-01-30T13:07:26.342696+00:00
@@ -3669,346 +4009,4 @@ Educação
  ## Login - Nubank
  - [https://app.nubank.com.br](https://app.nubank.com.br)
  - date_published: 2024-03-28T23:43:06+00:00
-
- ## Fala, Nubank - Dicas sobre finanças pessoais e tudo sobre as novidades do universo Nubank
- - [https://backend.blog.nubank.com.br](https://backend.blog.nubank.com.br)
- - date_published: 2024-09-18T21:54:58.200365+00:00
-
- ## Fala, Nubank
- - [https://blog.nubank.com.br](https://blog.nubank.com.br)
- - date_published: 2024-06-15T18:23:47.080949+00:00
-
- ## Building Nubank
- - [https://building.nubank.com.br](https://building.nubank.com.br)
- - date_published: 2023-10-25T12:02:22.743302+00:00
-
- ## NuCommunity
- - [https://comunidade.nubank.com.br](https://comunidade.nubank.com.br)
- - date_published: 2024-06-16T17:37:31.422165+00:00
-
- ## Canal de Fraude Nubank - Pagina Inicial
- - [https://denunciargolpes.nubank.com.br](https://denunciargolpes.nubank.com.br)
- - date_published: 2024-06-16T17:37:27.497677+00:00
-
- ## About Nu - Nu International
- - [https://international.nubank.com.br](https://international.nubank.com.br)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Nubank - Finalmente você no controle do seu dinheiro
- - [https://link.nubank.com.br](https://link.nubank.com.br)
- - date_published: 2024-06-14T22:05:02+00:00
-
- ## Nubank - Finalmente você no controle do seu dinheiro
- - [https://nubank.com.br](https://nubank.com.br)
- - date_published: 2024-05-12T05:29:23.008538+00:00
-
- ## Nubank - Início
- - [http://nubankparker.com.br](http://nubankparker.com.br)
- - date_published: 2024-06-16T17:37:40.148114+00:00
-
- ## Núclea: Conexão que gera valor
- - [https://www.nuclea.com.br](https://www.nuclea.com.br)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Suporte
-         - Nuvem Hospedagem
- - [https://cliente.nuvemhospedagem.com.br](https://cliente.nuvemhospedagem.com.br)
- - date_published: 2024-07-03T23:18:22.993841+00:00
-
- ## Nuvemshop | Monte a sua loja virtual sem pagar nada
- - [https://www.nuvemshop.com.br](https://www.nuvemshop.com.br)
- - date_published: 2024-12-21T14:54:16.819804+00:00
-
- ## Home
- - [https://oantagonista.com.br](https://oantagonista.com.br)
- - date_published: 2025-01-18T01:28:32.762495+00:00
-
- ## Portal Obidense - Portal de Notícias, Notícia de Óbidos, região, Brasil e mundo
- - [https://obidense.com.br](https://obidense.com.br)
- - date_published: 2025-01-15T20:20:22.404410+00:00
-
- ## Home | Odontoprev - Beneficiários
- - [https://beneficiario.odontoprev.com.br](https://beneficiario.odontoprev.com.br)
- - date_published: 2024-07-13T18:13:54.032556+00:00
-
- ## Ofertas Fiat | FIAT
- - [http://www.ofertasfiat.com.br](http://www.ofertasfiat.com.br)
- - date_published: 2024-10-25T13:44:56+00:00
-
- ## ogol.com.br :: Tudo sobre futebol
- - [https://www.ogol.com.br](https://www.ogol.com.br)
- - date_published: 2024-12-26T17:29:34.719707+00:00
-
- ## Jogue jogos online grátis em ojogos.com.br
- - [https://www.ojogos.com.br](https://www.ojogos.com.br)
- - date_published: 2024-07-20T02:43:51.388552+00:00
-
- ## O Joio e O Trigo: Jornalismo investigativo sobre alimentação, saúde e poder
- - [http://ojoioeotrigo.com.br](http://ojoioeotrigo.com.br)
- - date_published: 2025-01-15T20:04:42.032524+00:00
-
- ## Olaaa – Seu Blog de Notícias
- - [http://www.olaaa.com.br](http://www.olaaa.com.br)
- - date_published: 2024-07-04T14:47:43.038933+00:00
-
- ## Olhar Digital
- - [https://olhardigital.com.br](https://olhardigital.com.br)
- - date_published: 2025-01-18T01:52:01.232721+00:00
-
- ## Omelete | O maior portal de notícias e entretenimento
- - [https://www.omelete.com.br](https://www.omelete.com.br)
- - date_published: 2024-10-25T21:22:37.576891+00:00
-
- ## | Omnisys
- - [http://www.omnisys.com.br](http://www.omnisys.com.br)
- - date_published: 2024-02-23T13:19:02+00:00
-
- ## Onlinecurriculo.com.br
- - [https://help.onlinecurriculo.com.br](https://help.onlinecurriculo.com.br)
- - date_published: 2024-06-22T22:11:23.911153+00:00
-
- ## Crie seu currículo campeão — gerador de currículo (gratuito)
- - [https://onlinecurriculo.com.br](https://onlinecurriculo.com.br)
- - date_published: 2024-05-06T09:21:04.370760+00:00
-
- ## Open English Brasil Site Oficial | Aprenda inglês rápido e fácil
- - [https://www.openenglish.com.br](https://www.openenglish.com.br)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Open Food Brasil
- - [https://openfoodbrasil.com.br](https://openfoodbrasil.com.br)
- - date_published: 2024-10-31T03:27:45.590484+00:00
-
- ## Oppa | Móveis e Decorações
- - [http://www.oppa.com.br](http://www.oppa.com.br)
- - date_published: 2024-12-21T09:27:21.750196+00:00
-
- ## Optum | Serviços, Consultoria e Inovação em Saúde
- - [https://www.optum.com.br](https://www.optum.com.br)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Home
- - [https://www.orama.com.br](https://www.orama.com.br)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Banco Original: banco digital para Pessoa Física e Jurídica
- - [https://www.original.com.br](https://www.original.com.br)
- - date_published: 2024-07-16T19:11:06+00:00
-
- ## Viagens.com.br Pacotes de viagens, promoções de viagem
- - [http://www.orkut.com.br](http://www.orkut.com.br)
- - date_published: 2024-12-20T09:45:14.873074+00:00
-
- ## Sale Osklen | Spring Summer 2025
- - [https://www.osklen.com.br](https://www.osklen.com.br)
- - date_published: 2025-01-24T22:16:12.433065+00:00
-
- ## O TEMPO
- - [https://www.otempo.com.br](https://www.otempo.com.br)
- - date_published: 2024-07-13T18:13:55+00:00
-
- ## Varadouro - Um jornal das selvas!
- - [https://ovaradouro.com.br](https://ovaradouro.com.br)
- - date_published: 2025-01-15T20:18:28.861605+00:00
-
- ## Overplay - O melhor conteúdo sobre Games!
- - [https://overplay.com.br](https://overplay.com.br)
- - date_published: 2024-12-26T17:31:39.130618+00:00
-
- ## O Vício
- - [https://ovicio.com.br](https://ovicio.com.br)
- - date_published: 2024-12-26T17:57:05.487559+00:00
-
- ## Padrim
- - [https://padrim.com.br](https://padrim.com.br)
- - date_published: 2024-10-14T16:59:02.440601+00:00
-
- ## Paganini Gastronomia
- - [https://www.paganinigastronomia.com.br](https://www.paganinigastronomia.com.br)
- - date_published: 2024-10-28T14:15:34.796262+00:00
-
- ## Pages24 - O guia de empresas gratuito em sua área
- - [http://www.pages24.com.br](http://www.pages24.com.br)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Centova Cast
- - [http://paineldj4.com.br](http://paineldj4.com.br)
- - date_published: 2024-08-11T19:58:59.228800+00:00
-
- ## Palo Alto Networks – Líder Global em Segurança Cibernética – Brasil
- - [https://www.paloaltonetworks.com.br](https://www.paloaltonetworks.com.br)
- - date_published: 2024-10-19T17:41:09.771131+00:00
-
- ## Palpito - Participe em Pesquisas Remuneradas no Brasil
- - [https://palpito.com.br](https://palpito.com.br)
- - date_published: 2021-05-30T17:08:16+00:00
-
- ## Conselhos para pais | Pampers® Brasil
- - [https://pampers.com.br](https://pampers.com.br)
- - date_published: 2024-10-28T23:02:00+00:00
-
- ## Panografias
- - [https://panografias.com.br](https://panografias.com.br)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## Produtos e dicas para cuidados com o cabelo | Pantene
- - [https://pantene.com.br](https://pantene.com.br)
- - date_published: 2024-10-21T09:39:50+00:00
-
- ## Home - Sergio Vilar
- - [https://papocultura.com.br](https://papocultura.com.br)
- - date_published: 2024-05-21T14:20:59+00:00
-
- ## Para Quem Doar
- - [https://www.paraquemdoar.com.br](https://www.paraquemdoar.com.br)
- - date_published: 2024-10-28T14:01:02.834937+00:00
-
- ## Parati. A vida com mais sabor.
- - [https://parati.com.br](https://parati.com.br)
- - date_published: 2024-12-22T18:07:40.964711+00:00
-
- ## Comprar com boleto e Pix parcelado, sem cartão | Parcelex | Parcelex
- - [https://www.parcelex.com.br](https://www.parcelex.com.br)
- - date_published: 2024-09-06T15:12:22+00:00
-
- ## Parimatch Brasil – Apostas Esportivas Online | Bónus 150% de boas-vindas | Login
- - [https://parimatch-cassino.com.br](https://parimatch-cassino.com.br)
- - date_published: 2024-10-13T08:29:57.751345+00:00
-
- ## Patricinha Esperta
- - [https://patricinhaesperta.com.br](https://patricinhaesperta.com.br)
- - date_published: 2024-12-26T17:31:02.279026+00:00
-
- ## Paulo Ghiraldelli – provocação filosófica
- - [https://pauloghiraldelli.com.br](https://pauloghiraldelli.com.br)
- - date_published: 2024-07-01T06:41:25.261248+00:00
-
- ## Paulus Editora
- - [https://www.paulus.com.br](https://www.paulus.com.br)
- - date_published: 2024-09-06T19:16:03.428065+00:00
-
- ## Carteiras Digitais | Gerenciamento de Dinheiro | PayPal BR
- - [https://paypal.com.br](https://paypal.com.br)
- - date_published: 2024-09-06T20:44:08.784886+00:00
-
- ## Pensamentos Valem Ouro
- - [http://www.pensamentosvalemouro.com.br](http://www.pensamentosvalemouro.com.br)
- - date_published: 2024-12-19T03:24:18+00:00
-
- ## PERI Brasil - Formas, Escoramentos e Andaimes
- - [https://www.peri.com.br](https://www.peri.com.br)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Periferia em Movimento - Em recesso até 20 de janeiro de 2025 ;-)
- - [http://periferiaemmovimento.com.br](http://periferiaemmovimento.com.br)
- - date_published: 2025-01-15T20:20:07.005560+00:00
-
- ## Personare | O maior portal de autoconhecimento e bem-viver do Brasil
- - [https://www.personare.com.br](https://www.personare.com.br)
- - date_published: 2024-08-18T13:04:12.362383+00:00
-
- ## Perto Acessibilidade Digital | acessibilidade digital
- - [https://pertodigital.com.br](https://pertodigital.com.br)
- - date_published: 2024-09-18T01:40:13.947289+00:00
-
- ## Attention Required! | Cloudflare
- - [https://petlove.com.br](https://petlove.com.br)
- - date_published: 2024-06-19T08:27:22.943357+00:00
-
- ## Manutenção Fabricante - Peugeot
- - [https://agendamentoonline.peugeot.com.br](https://agendamentoonline.peugeot.com.br)
- - date_published: 2024-10-28T17:30:57.477006+00:00
-
- ## Bem-vindo à alcateia | Peugeot Brasil
- - [https://carros.peugeot.com.br](https://carros.peugeot.com.br)
- - date_published: 2024-06-18T13:39:40+00:00
-
- ## Bem-vindo à alcateia | Peugeot Brasil
- - [https://peugeot.com.br](https://peugeot.com.br)
- - date_published: 2024-10-28T02:56:57+00:00
-
- ## Philips - Brasil
- - [https://www.philips.com.br](https://www.philips.com.br)
- - date_published: 2024-10-31T01:18:53+00:00
-
- ## Blog de Paulo Santana
- - [https://phls.com.br](https://phls.com.br)
- - date_published: 2024-03-07T19:01:25+00:00
-
- ## phoenixNAP: Data Center, Dedicada Servers, Cloud, & Colocação
- - [https://phoenixnap.com.br](https://phoenixnap.com.br)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Piloti Mobile & Internet
- - [http://www.piloti.com.br](http://www.piloti.com.br)
- - date_published: 2024-12-14T16:03:48.759374+00:00
-
- ## Pin Up Brasil 🎰 Descubra o Melhor do Pin-Up Oficial e Ganhe Hoje
- - [https://pin-ups.com.br](https://pin-ups.com.br)
- - date_published: 2024-09-10T13:35:32.367174+00:00
-
- ## Pirelli pneus: carro, off road, SUV & Esportivos | Pirelli
- - [https://www.pirelli.com.br](https://www.pirelli.com.br)
- - date_published: 2024-06-23T21:06:24.568003+00:00
-
- ## Pivot 08 - Há 17 anos no mercado digital
- - [http://www.pivot08.com.br](http://www.pivot08.com.br)
- - date_published: 2021-10-06T13:53:49+00:00
-
- ## Muito prazer, somos a Pixelmade.
- - [https://www.pixelmade.com.br](https://www.pixelmade.com.br)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Home - Pix Force
- - [https://www.pixforce.com.br](https://www.pixforce.com.br)
- - date_published: 2023-07-21T14:40:50+00:00
-
- ## Home - PLACAR
- - [https://placar.com.br](https://placar.com.br)
- - date_published: 2024-12-26T17:07:36+00:00
-
- ## Planeta
- - [https://www.planetadelivros.com.br](https://www.planetadelivros.com.br)
- - date_published: 2024-12-09T17:34:35.397561+00:00
-
- ## Plataforma A - As melhores soluções em tecnologia para Ensino Superior
- - [https://plataformaa.com.br](https://plataformaa.com.br)
- - date_published: 2025-01-22T04:56:37.861187+00:00
-
- ## Plataformatec Blog
- - [http://blog.plataformatec.com.br](http://blog.plataformatec.com.br)
- - date_published: 2024-01-23T13:10:03+00:00
-
- ## Plataformatec Has Closed Its Operations.
- - [http://plataformatec.com.br](http://plataformatec.com.br)
- - date_published: 2024-05-25T14:18:48+00:00
-
- ## Playpixel - Miniature Collection
- - [https://www.playpixel.com.br](https://www.playpixel.com.br)
- - date_published: 2024-02-15T22:31:33.376128+00:00
- - tags: ['demoscene']
-
- ## BFGoodrich Brasil | Pneus para OFF-Road
- - [https://www.pneusbfgoodrich.com.br](https://www.pneusbfgoodrich.com.br)
- - date_published: 2025-01-30T20:04:12.931150+00:00
-
- ## Home | PNLD 2023 | Record
- - [https://pnldrecord.com.br](https://pnldrecord.com.br)
- - date_published: 2024-07-13T02:13:24.295123+00:00
-
- ## Poder360 | Notícias do poder e da política.
- - [https://poder360.com.br](https://poder360.com.br)
- - date_published: 2023-10-25T12:02:34.873341+00:00
-
- ## Pokémon News Center | O seu portal do mundo Pokémon
- - [http://pokemonnewscenter.com.br](http://pokemonnewscenter.com.br)
- - date_published: 2025-01-01T23:53:56.023552+00:00
-
- ## Polaris
- - [http://www.polaristec.com.br](http://www.polaristec.com.br)
- - date_published: 2014-02-17T17:07:30+00:00
-
- ## Prêmio Popai Brasil 2024
- - [https://premio.popaibrasil.com.br](https://premio.popaibrasil.com.br)
- - date_published: 2024-10-25T09:33:59+00:00
 

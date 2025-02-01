@@ -1,3 +1,27 @@
+ ## BingBang.ai
+ - [https://bingbang.ai](https://bingbang.ai)
+ - date_published: 2024-06-19T19:18:12+00:00
+
+ ## Biomatter | Protein Architects
+ - [https://biomatter.ai](https://biomatter.ai)
+ - date_published: 2024-10-30T15:22:45.680107+00:00
+
+ ## NOA by biped.ai, the best complement to canes and dogs
+ - [https://biped.ai](https://biped.ai)
+ - date_published: 2024-12-13T13:36:17+00:00
+
+ ## Bit.ai - Document Collaboration for The New Era
+ - [https://app.bit.ai](https://app.bit.ai)
+ - date_published: 2024-10-17T09:12:49+00:00
+
+ ## Bit.ai - Document Collaboration for The New Era
+ - [https://bit.ai](https://bit.ai)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Bit Blog: Document Collaboration, Productivity, Teamwork
+ - [https://blog.bit.ai](https://blog.bit.ai)
+ - date_published: 2024-10-30T19:01:52.708189+00:00
+
  ## Bit.ai Help Center
  - [https://help.bit.ai](https://help.bit.ai)
  - date_published: 2024-10-30T19:01:49.887835+00:00
@@ -1954,6 +1978,14 @@ Welcome
  - [https://databorg.ai](https://databorg.ai)
  - date_published: 2023-10-25T11:37:55.764213+00:00
 
+ ## DataChain | AI Data Management at Scale - Curate, Enrich, and Version Datasets
+ - [https://datachain.ai](https://datachain.ai)
+ - date_published: 2025-01-31T07:19:54.586060+00:00
+
+ ## Studio
+ - [https://studio.datachain.ai](https://studio.datachain.ai)
+ - date_published: 2025-01-31T07:19:55.614579+00:00
+
  ## DataChat-Meet the no-code, generative AI platform for instant analytics
  - [https://datachat.ai](https://datachat.ai)
  - date_published: 2024-01-31T00:00:00+00:00
@@ -2587,6 +2619,10 @@ Welcome
  - [https://www.durer.ai](https://www.durer.ai)
  - date_published: 2024-08-18T13:10:13.310821+00:00
 
+ ## Data Version Control · DVC
+ - [https://dvc.ai](https://dvc.ai)
+ - date_published: 2025-01-31T07:19:50.834447+00:00
+
  ## DevRev AgentOS | Your Copilot For Software
  - [https://dvrv.ai](https://dvrv.ai)
  - date_published: 2024-07-16T00:00:00+00:00
@@ -2619,6 +2655,10 @@ Welcome
  ## Using an AI assistant - happier customers and lower costs
  - [https://ebi.ai](https://ebi.ai)
  - date_published: 2024-04-30T00:00:00+00:00
+
+ ## EBM, Delivering AI Consultancy and Development.
+ - [https://ebm.ai](https://ebm.ai)
+ - date_published: 2025-01-31T19:19:04.594282+00:00
 
  ## echodocs.ai - Document Smarter. For Humans and AI.
  - [https://echodocs.ai](https://echodocs.ai)
@@ -2911,6 +2951,10 @@ Welcome
  ## Transformers on Chips
  - [https://etched.ai](https://etched.ai)
  - date_published: 2023-12-16T23:31:29+00:00
+
+ ## Ethics & Algorithms Toolkit (beta)
+ - [http://ethicstoolkit.ai](http://ethicstoolkit.ai)
+ - date_published: 2025-01-31T05:43:54.144983+00:00
 
  ## Euphoric.ai: Multi-channel help desk powered by AI
  - [https://euphoric.ai](https://euphoric.ai)
@@ -3972,48 +4016,4 @@ Welcome
  ## Voilà AI Assistant, Chat and Writer for maximum productivity
  - [https://assets.getvoila.ai](https://assets.getvoila.ai)
  - date_published: 2024-10-30T17:45:28.236031+00:00
-
- ## Voilà status
- - [https://status.getvoila.ai](https://status.getvoila.ai)
- - date_published: 2024-10-30T17:45:24.737060+00:00
-
- ## Voilà – ChatGPT AI browser assistant | Voilà
- - [https://www.getvoila.ai](https://www.getvoila.ai)
- - date_published: 2024-06-19T20:39:32.641734+00:00
-
- ## Home :: GFI
- - [https://gfi.ai](https://gfi.ai)
- - date_published: 2024-10-05T22:25:25.030498+00:00
-
- ## ggml.ai
- - [https://ggml.ai](https://ggml.ai)
- - date_published: 2023-10-25T11:39:05.096898+00:00
-
- ## Gideon - Your people. Our robots. Better together.
- - [https://www.gideonbros.ai](https://www.gideonbros.ai)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## AI GIF Generator 🖼
- - [https://gifgenerator.ai](https://gifgenerator.ai)
- - date_published: 2024-02-23T11:08:46+00:00
-
- ## Gift Genie AI - Free Personalized Gift Ideas for Christmas, Birthdays, Holidays, etc!
- - [https://www.giftgenie.ai](https://www.giftgenie.ai)
- - date_published: 2024-10-23T20:31:25+00:00
-
- ## Gifts Finder AI - Gifts Finder & Search Engine
- - [https://giftsfinder.ai](https://giftsfinder.ai)
- - date_published: 2024-05-22T23:06:05+00:00
-
- ## Giftwrap | Perfect gift in a few words
- - [https://giftwrap.ai](https://giftwrap.ai)
- - date_published: 2024-06-19T19:20:58.377617+00:00
-
- ## Physical Security & Environmental Monitoring System IL - Giltech
- - [https://giltech.ai](https://giltech.ai)
- - date_published: 2025-01-20T20:42:51.052395+00:00
-
- ## ChatGPT Writer - Write emails, messages, and more using AI
- - [https://gimmesummary.ai](https://gimmesummary.ai)
- - date_published: 2024-06-19T20:59:05.858888+00:00
 

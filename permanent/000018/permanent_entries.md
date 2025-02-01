@@ -1,3 +1,273 @@
+ ## Mainebiz.biz
+ - [http://www.mainebiz.biz](http://www.mainebiz.biz)
+ - date_published: 2025-01-18T06:49:56.556865+00:00
+
+ ## Masstamilan - Top Breaking News And Global Market Disruptions
+ - [https://masstamilan.biz](https://masstamilan.biz)
+ - date_published: 2024-01-20T04:30:14+00:00
+
+ ## Maximage
+ - [https://maximage.biz](https://maximage.biz)
+ - date_published: 2024-07-13T16:25:23.443865+00:00
+
+ ## Allah's Willing Executioners – Antisemitism, Antizionism, Jihadism and the Reunited Germany. News by Fred Alan Medforth
+ - [https://medforth.biz](https://medforth.biz)
+ - date_published: 2024-07-07T02:07:04.763251+00:00
+
+ ## MEDPAGE TODAY - Digital Advertising & Marketing Solutions for the Life Science Industry
+ - [https://medpagetoday.biz](https://medpagetoday.biz)
+ - date_published: 2024-08-19T07:57:14.551720+00:00
+
+ ## Welcome to Merlin Entertainments
+ - [https://merlinentertainments.biz](https://merlinentertainments.biz)
+ - date_published: 2024-06-24T11:32:35.057350+00:00
+
+ ## Home - mida
+ - [https://mida.biz](https://mida.biz)
+ - date_published: 2024-12-27T22:38:20.346557+00:00
+
+ ## Mike Anderson's Ancient History Blog
+ - [https://www.mikeanderson.biz](https://www.mikeanderson.biz)
+ - date_published: 2024-11-08T15:32:54+00:00
+
+ ## .Mathias Müller Information Technology
+ - [https://m-mint.biz](https://m-mint.biz)
+ - date_published: 2024-09-04T04:37:50.734355+00:00
+
+ ## Mobidictum: Game Industry News
+ - [https://mobidictum.biz](https://mobidictum.biz)
+ - date_published: 2024-10-17T21:51:30.159956+00:00
+
+ ## Mobile games industry news and insights - Mobilegamer.biz
+ - [https://mobilegamer.biz](https://mobilegamer.biz)
+ - date_published: 2023-10-25T10:47:38.913934+00:00
+
+ ## Home - AIRLINES MOBILE APPLICATION - MOBIPAX
+ - [https://www.mobipax.biz](https://www.mobipax.biz)
+ - date_published: 2025-01-23T02:28:17.812385+00:00
+
+ ## Five-Star Local Roofing Company | Monarch Roofing
+ - [https://monarchroofing.biz](https://monarchroofing.biz)
+ - date_published: 2025-01-08T22:47:25.334913+00:00
+
+ ## 【公式】株式会社エムライズ| デジタルマーケティングエージェンシー
+ - [https://mrize.biz](https://mrize.biz)
+ - date_published: 2025-01-24T23:31:37.175773+00:00
+
+ ## Multiplo – new website coming soon
+ - [https://multiplo.biz](https://multiplo.biz)
+ - date_published: 2023-04-03T00:00:00+00:00
+
+ ## Home - My.biz
+ - [https://my.biz](https://my.biz)
+ - date_published: 2024-06-16T07:42:49.030026+00:00
+
+ ## Individual Personal Computer Tutor | The Computer Tutor
+ - [https://mycomputertutor.biz](https://mycomputertutor.biz)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Netware Systems Private Limited - Bangalore
+ - [https://netwaresystems.biz](https://netwaresystems.biz)
+ - date_published: 2024-12-24T21:50:39.350152+00:00
+
+ ## NS CDN
+ - [https://ns-cdn.neustar.biz](https://ns-cdn.neustar.biz)
+ - date_published: 2021-02-03T14:19:14+00:00
+ - date_dead_since: 2025-01-04T20:32:31.445252+00:00
+
+ ## Error: Active domain connection for this domain not found
+ - [https://research.neustar.biz](https://research.neustar.biz)
+ - date_published: 2024-06-30T05:42:36+00:00
+
+ ## Neustar Localeze | The Leader in Local Search & Local Listings
+ - [http://neustarlocaleze.biz](http://neustarlocaleze.biz)
+ - date_published: 2024-05-07T13:30:11.938697+00:00
+
+ ## Home | NewsIT
+ - [https://newsit.biz](https://newsit.biz)
+ - date_published: 2024-10-30T00:50:46.771457+00:00
+
+ ## nosquito .biz by rafaël rozendaal, 2005, collection of sébastien de ganay
+ - [https://nosquito.biz](https://nosquito.biz)
+ - date_published: 2024-09-14T22:29:21+00:00
+
+ ## Nozio Hotel Marketing Senza Commissioni | Web Marketing per Hotel | Aumenta le Vendite Dirette
+ - [https://www.nozio.biz](https://www.nozio.biz)
+ - date_published: 2025-01-25T11:36:51.649216+00:00
+
+ ## OEEC.biz
+ - [https://oeec.biz](https://oeec.biz)
+ - date_published: 2024-06-21T22:05:35+00:00
+
+ ## オフィスサーチ.biz
+ - [https://office-search.biz](https://office-search.biz)
+ - date_published: 2024-09-09T16:59:04.499932+00:00
+
+ ## Offshore-Energy.biz
+ - [https://offshore-energy.biz](https://offshore-energy.biz)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## OffshoreWIND.biz
+ - [https://www.offshorewind.biz](https://www.offshorewind.biz)
+ - date_published: 2024-12-10T20:43:52.126847+00:00
+
+ ## OmniTel Communications - Fiber-Optic Solutions
+ - [https://omnitel.biz](https://omnitel.biz)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Online Solution GmbH – Softwareentwicklung und Lösungen für AdTech und Webplattformen
+ - [https://de.online-solution.biz](https://de.online-solution.biz)
+ - date_published: 2024-06-25T22:38:00.681871+00:00
+
+ ## OnlyBags
+ - [https://onlybags.biz](https://onlybags.biz)
+ - date_published: 2025-01-14T23:25:36.703295+00:00
+
+ ## The Largest Banks - ​​How to Transfer Money With Only Card Number and CVV (2024)
+ - [https://otdelkadrov.biz](https://otdelkadrov.biz)
+ - date_published: 2024-12-16T11:55:53.583579+00:00
+
+ ## All the latest news about the business of PC Games | PC Games Insider
+ - [https://pcgamesinsider.biz](https://pcgamesinsider.biz)
+ - date_published: 2024-06-18T16:12:58.416794+00:00
+
+ ## penguinrandomhouse.biz
+ - [https://penguinrandomhouse.biz](https://penguinrandomhouse.biz)
+ - date_published: 2023-02-08T20:14:20+00:00
+
+ ## PRH
+ - [https://selfservice.penguinrandomhouse.biz](https://selfservice.penguinrandomhouse.biz)
+ - date_published: 2024-03-27T14:37:18+00:00
+
+ ## The Largest Banks - ​​How to Transfer Money With Only Card Number and CVV (2024)
+ - [https://personalinjuryattorneyflorida.biz](https://personalinjuryattorneyflorida.biz)
+ - date_published: 2024-12-16T11:57:44.456653+00:00
+
+ ## Pinterest Community
+ - [https://community.pinterest.biz](https://community.pinterest.biz)
+ - date_published: 2024-06-28T17:27:05.812206+00:00
+
+ ## PlaneBase
+ - [https://planebase.biz](https://planebase.biz)
+ - date_published: 2024-07-09T22:21:45.253832+00:00
+
+ ## Mobile games industry news, discussion, analysis, opinion, events, jobs, and more
+ - [https://pocketgamer.biz](https://pocketgamer.biz)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## - PoolParty Linked Data Server - Taxonomies, Thesauri, Vocabularies
+ - [https://authoring-docs-microsoft.poolparty.biz](https://authoring-docs-microsoft.poolparty.biz)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## The Sinner's Prayer Book
+ - [http://www.prayerbook.biz](http://www.prayerbook.biz)
+ - date_published: 2012-06-07T02:28:23+00:00
+
+ ## Home
+ - [https://prologix.biz](https://prologix.biz)
+ - date_published: 2024-10-15T22:14:05.508330+00:00
+
+ ## Publication Studio
+ - [https://publicationstudio.biz](https://publicationstudio.biz)
+ - date_published: 2018-06-26T00:00:00+00:00
+
+ ## Purdue University Online | Online Master's Degrees and Non-Credit Programs - 
+			 Purdue University Online -  Purdue University
+ - [https://purdue.biz](https://purdue.biz)
+ - date_published: 2024-07-01T17:47:14.572416+00:00
+
+ ## Pushkins Prefers
+ - [https://pushkinsprefers.biz](https://pushkinsprefers.biz)
+ - date_published: 2018-03-20T12:03:59+00:00
+
+ ## penguinrandomhouse.biz
+ - [http://randomhouse.biz](http://randomhouse.biz)
+ - date_published: 2023-02-08T20:14:20+00:00
+
+ ## RD Motors Hamworthy MOT and Servicing specialists
+ - [https://rdmotors.biz](https://rdmotors.biz)
+ - date_published: 2024-06-21T19:08:35.364483+00:00
+
+ ## Real Money Pokies Australia 2024 - Play Real Pokies
+ - [https://realmoneypokies.biz](https://realmoneypokies.biz)
+ - date_published: 2024-03-20T14:41:49+00:00
+
+ ## Home - Rethink Technology Research ltd
+ - [https://rethinkresearch.biz](https://rethinkresearch.biz)
+ - date_published: 2025-01-09T15:49:26.234737+00:00
+
+ ## Retro Games
+ - [https://retrogames.biz](https://retrogames.biz)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## OSINT Open Source Intelligence tools resources methods techniques
+ - [https://rr.reuser.biz](https://rr.reuser.biz)
+ - date_published: 2024-05-05T07:59:17+00:00
+
+ ## RevenueLab - Igaming Affiliate Network
+ - [https://revenuelab.biz](https://revenuelab.biz)
+ - date_published: 2024-07-14T10:53:26.555189+00:00
+
+ ## Risky Business Newsletters
+ - [https://news.risky.biz](https://news.risky.biz)
+ - date_published: 2024-02-26T15:17:40.722826+00:00
+
+ ## Risky Business - Risky Business
+ - [https://risky.biz](https://risky.biz)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Roberts Design | Web Design & Development | Graphic Design
+ - [https://robertsdesign.biz](https://robertsdesign.biz)
+ - date_published: 2024-01-04T03:34:14.600258+00:00
+
+ ## Neven Allgeier
+ - [http://ruine.biz](http://ruine.biz)
+ - date_published: 2024-10-29T14:33:10.738516+00:00
+
+ ## sabbah.biz - sabbah Zasoby i informacje.
+ - [http://sabbah.biz](http://sabbah.biz)
+ - date_published: 2024-12-31T09:16:09+00:00
+
+ ## sabbah.biz - sabbah Zasoby i informacje.
+ - [http://www.sabbah.biz](http://www.sabbah.biz)
+ - date_published: 2024-12-22T21:18:20+00:00
+
+ ## Top 10+ nhà cái tặng tiền uy tín - Săn tiền nhà cái 100k cực dễ
+ - [https://santiennhacai.biz](https://santiennhacai.biz)
+ - date_published: 2025-01-14T20:24:57.411097+00:00
+
+ ## Shoeshoppe – Keren Abis!  Game Android Viral yang Hits Banget
+ - [https://shoeshoppe.biz](https://shoeshoppe.biz)
+ - date_published: 2024-08-20T04:08:31.515613+00:00
+
+ ## Come Tees
+ - [https://shop-cometees.biz](https://shop-cometees.biz)
+ - date_published: 2024-07-07T05:52:20.036120+00:00
+
+ ## Showpad Online Platform
+ - [https://edb.showpad.biz](https://edb.showpad.biz)
+ - date_published: 2024-07-15T03:26:31.036618+00:00
+
+ ## Showpad Online Platform
+ - [https://lastpass.showpad.biz](https://lastpass.showpad.biz)
+ - date_published: 2024-06-16T12:36:21.830786+00:00
+
+ ## Showpad Online Platform
+ - [https://showpad.biz](https://showpad.biz)
+ - date_published: 2024-10-06T17:12:11.265623+00:00
+
+ ## Home
+ - [https://about.simonandschuster.biz](https://about.simonandschuster.biz)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Welcome to nginx!
+ - [https://imprints.simonandschuster.biz](https://imprints.simonandschuster.biz)
+ - date_published: 2018-04-17T15:22:36+00:00
+
+ ## New Book Releases, Bestsellers, Author Info and more at Simon &amp; Schuster
+ - [https://simonandschuster.biz](https://simonandschuster.biz)
+ - date_published: 2024-04-29T03:57:55.283230+00:00
+
  ## SIYI Official Store - UAV Gimbal Camera, Drone Remote Controller, HD Image Transmission System and Datalink, RC Hobby Radio
  - [https://shop.siyi.biz](https://shop.siyi.biz)
  - date_published: 2024-06-10T12:24:50.200657+00:00
@@ -416,6 +686,10 @@
  - [https://atech.blog](https://atech.blog)
  - date_published: 2025-01-17T09:39:26.970024+00:00
 
+ ## Átila on Code
+ - [https://atilaoncode.blog](https://atilaoncode.blog)
+ - date_published: 2025-01-31T06:36:59.998550+00:00
+
  ## Koen's blog
  - [https://atog.blog](https://atog.blog)
  - date_published: 2024-08-07T20:04:47.365536+00:00
@@ -432,6 +706,10 @@
  ## axbom - digital ethics and compassionate design
  - [https://axbom.blog](https://axbom.blog)
  - date_published: 2024-07-04T08:26:05.632942+00:00
+
+ ## Ayin Es Blog
+ - [https://ayin.blog](https://ayin.blog)
+ - date_published: 2025-01-31T22:33:22.140147+00:00
 
  ## Home
  - [https://ayos.blog](https://ayos.blog)
@@ -2414,6 +2692,10 @@
  - [https://sawyerstories.blog](https://sawyerstories.blog)
  - date_published: 2024-09-15T00:00:00+00:00
 
+ ## scattershot
+ - [https://scattershot.blog](https://scattershot.blog)
+ - date_published: 2025-01-31T05:00:20.090872+00:00
+
  ## Schneide Blog
  - [https://schneide.blog](https://schneide.blog)
  - date_published: 2024-07-09T12:15:44.546172+00:00
@@ -2484,6 +2766,10 @@
  ## v0 App
  - [https://sleepvoyage.blog](https://sleepvoyage.blog)
  - date_published: 2024-12-19T06:34:26.905883+00:00
+
+ ## Slow Motion
+ - [http://slowmotion.blog](http://slowmotion.blog)
+ - date_published: 2025-01-31T18:01:25.630729+00:00
 
  ## Smarter.Blog Newsletter | Mahesh | Substack
  - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
@@ -3172,6 +3458,10 @@
  - [https://www.datec.com.bo](https://www.datec.com.bo)
  - date_published: 2024-12-12T11:19:56.939677+00:00
 
+ ## Epson Bolivia | Inicio
+ - [https://epson.com.bo](https://epson.com.bo)
+ - date_published: 2025-01-31T21:06:17.475381+00:00
+
  ## Zanim przejdziesz do Map Google
  - [https://maps.google.com.bo](https://maps.google.com.bo)
  - date_published: 2024-07-20T07:38:05.253305+00:00
@@ -3804,292 +4094,4 @@
  ## CCE PUC-Rio
  - [http://www.cce.puc-rio.br](http://www.cce.puc-rio.br)
  - date_published: 2024-07-07T05:47:01+00:00
-
- ## CCESP
- - [http://www.ccesp.puc-rio.br](http://www.ccesp.puc-rio.br)
- - date_published: 2024-07-07T06:43:38.337945+00:00
-
- ## COVID2 - COVID-19 ICA
- - [http://www.covid.ica.ele.puc-rio.br](http://www.covid.ica.ele.puc-rio.br)
- - date_published: 2024-10-11T12:11:47.651244+00:00
-
- ## WWW-DI - Departamento de Informatica - PUC-Rio
- - [http://www-di.inf.puc-rio.br](http://www-di.inf.puc-rio.br)
- - date_published: 2023-01-02T16:27:07+00:00
-
- ## PUC Rio | Departamento de Economia
- - [https://www.econ.puc-rio.br](https://www.econ.puc-rio.br)
- - date_published: 2024-10-31T12:20:27.417136+00:00
-
- ## Departamento de Informática – PUC-Rio | Home
- - [https://www.inf.puc-rio.br](https://www.inf.puc-rio.br)
- - date_published: 2024-06-17T03:14:29.702028+00:00
-
- ## Maxwell
- - [http://www.maxwell.vrac.puc-rio.br](http://www.maxwell.vrac.puc-rio.br)
- - date_published: 2024-07-07T06:42:17.039769+00:00
-
- ## PSI.PUC-RIO
- - [http://www.psi.puc-rio.br](http://www.psi.puc-rio.br)
- - date_published: 2021-04-08T22:59:32+00:00
-
- ## PUC-Rio - Rio Datacentro (RDC)
- - [https://www.rdc.puc-rio.br](https://www.rdc.puc-rio.br)
- - date_published: 2024-07-07T06:42:28.527190+00:00
-
- ## Início
- - [http://www.ser.puc-rio.br](http://www.ser.puc-rio.br)
- - date_published: 2024-07-07T06:43:24+00:00
-
- ## Graduação, Pós e MBA na PUCRS Online
- - [https://online.pucrs.br](https://online.pucrs.br)
- - date_published: 2024-12-22T04:42:29+00:00
-
- ## Portal da PUCRS
- - [https://www.pucrs.br](https://www.pucrs.br)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Rede-Rio | Rede Acadêmica do Rio de Janeiro
- - [https://rederio.br](https://rederio.br)
- - date_published: 2024-07-07T06:42:03.092211+00:00
-
- ## Registro.br
- - [https://registro.br](https://registro.br)
- - date_published: 2024-05-01T06:42:03.573779+00:00
-
- ## Home • Escola Superior de Redes
- - [https://esr.rnp.br](https://esr.rnp.br)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## RNP - Início
- - [http://rnp.br](http://rnp.br)
- - date_published: 2024-09-18T19:02:49+00:00
-
- ## PoP-RS
- - [https://www.pop-rs.rnp.br](https://www.pop-rs.rnp.br)
- - date_published: 2024-06-15T17:37:44.884605+00:00
-
- ## Simepar
- - [http://simepar.br](http://simepar.br)
- - date_published: 2019-04-07T04:52:17+00:00
-
- ## Softex
- - [https://ftp.softex.br](https://ftp.softex.br)
- - date_published: 2019-03-20T14:08:27+00:00
-
- ## Página Inicial
- - [http://cert-rs.tche.br](http://cert-rs.tche.br)
- - date_published: 2024-06-15T17:37:40+00:00
-
- ## Documento sem título
- - [https://gtrh.tche.br](https://gtrh.tche.br)
- - date_published: 2005-01-05T13:22:24+00:00
-
- ## Rede Tchê
- - [https://www2.tche.br](https://www2.tche.br)
- - date_published: 2024-09-18T20:10:42.892933+00:00
-
- ## Universidade de Caxias do Sul - UCS
- - [http://www.ucs.br](http://www.ucs.br)
- - date_published: 2024-12-24T09:38:31.963535+00:00
-
- ## Home
- - [https://www.uema.br](https://www.uema.br)
- - date_published: 2024-09-11T16:29:00.846537+00:00
-
- ## UEMAnet | Site do Núcleo de Tecnologias para Educação
- - [http://www.uemanet.uema.br](http://www.uemanet.uema.br)
- - date_published: 2024-09-11T16:28:53.366554+00:00
-
- ## Index of /
- - [http://mirror.uepg.br](http://mirror.uepg.br)
- - date_published: 2024-07-20T15:58:54.977343+00:00
-
- ## Apresentação - Catálogo de Cursos UESB
- - [http://catalogo.uesb.br](http://catalogo.uesb.br)
- - date_published: 2024-12-15T12:33:36.455512+00:00
-
- ## UESB - Universidade Estadual do Sudoeste da Bahia
- - [https://www.uesb.br](https://www.uesb.br)
- - date_published: 2024-10-30T20:16:49.717477+00:00
-
- ## PROEX
- - [https://proex.uesc.br](https://proex.uesc.br)
- - date_published: 2024-11-05T19:36:08+00:00
-
- ## Uesc - Universidade Estadual de Santa Cruz
- - [https://uesc.br](https://uesc.br)
- - date_published: 2024-10-30T20:18:41.601817+00:00
-
- ## Uesc - Universidade Estadual de Santa Cruz
- - [https://www2.uesc.br](https://www2.uesc.br)
- - date_published: 2024-12-15T13:29:52.787420+00:00
-
- ## Sign in - Google Accounts
- - [http://correio.huwc.ufc.br](http://correio.huwc.ufc.br)
- - date_published: 2024-10-11T11:03:48.489244+00:00
-
- ## Sign in - Google Accounts
- - [http://correio.meac.ufc.br](http://correio.meac.ufc.br)
- - date_published: 2024-10-11T11:04:36.619866+00:00
-
- ## REDCap
- - [https://redcap.huwc.ufc.br](https://redcap.huwc.ufc.br)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Resultado Exames Paciente - Efetuar Log-in
- - [http://resultadosexames.huwc.ufc.br](http://resultadosexames.huwc.ufc.br)
- - date_published: 2024-10-11T11:02:38.970531+00:00
-
- ## PORTAL SETISD
- - [https://sistemas.huwc.ufc.br](https://sistemas.huwc.ufc.br)
- - date_published: 2024-03-15T13:15:55+00:00
-
- ## PORTAL SETISD
- - [https://sistemas.meac.ufc.br](https://sistemas.meac.ufc.br)
- - date_published: 2024-09-25T18:40:52+00:00
-
- ## start [Infoptics]
- - [https://infoptics.if.uff.br](https://infoptics.if.uff.br)
- - date_published: 2024-08-19T06:10:31.178847+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [http://www2.ic.uff.br](http://www2.ic.uff.br)
- - date_published: 2024-05-06T13:35:12.673644+00:00
-
- ## | Universidade Federal Fluminense
- - [http://www.uff.br](http://www.uff.br)
- - date_published: 2024-09-03T22:21:07+00:00
-
- ## NetLab
- - [http://netlab.ice.ufjf.br](http://netlab.ice.ufjf.br)
- - date_published: 2024-04-03T22:13:37+00:00
-
- ## Página Principal - Biblioteca Universitária
- - [https://bibliotecauniversitaria.ufla.br](https://bibliotecauniversitaria.ufla.br)
- - date_published: 2024-12-15T12:27:08+00:00
-
- ## Página Principal
- - [https://ccon.ufla.br](https://ccon.ufla.br)
- - date_published: 2024-12-15T12:28:17+00:00
-
- ## Portal da Ciência da Universidade Federal de Lavras
- - [http://ciencia.ufla.br](http://ciencia.ufla.br)
- - date_published: 2024-12-15T12:28:04+00:00
-
- ## Página Principal
- - [http://cigov.ufla.br](http://cigov.ufla.br)
- - date_published: 2024-12-15T12:26:04+00:00
-
- ## Página Principal
- - [https://cops.ufla.br](https://cops.ufla.br)
- - date_published: 2024-12-15T12:27:05+00:00
-
- ## Página Principal - Diretoria de Gestão de Tecnologia e Informação
- - [https://dgti.ufla.br](https://dgti.ufla.br)
- - date_published: 2024-12-15T12:27:11+00:00
-
- ## Página Principal
- - [https://ouvidoria.ufla.br](https://ouvidoria.ufla.br)
- - date_published: 2024-12-15T12:26:07+00:00
-
- ## Painéis e Indicadores UFLA
- - [https://paineis.ufla.br](https://paineis.ufla.br)
- - date_published: 2024-12-15T12:28:13+00:00
-
- ## Pró-Reitoria de Graduação - PRG - UFLA
- - [http://prg.ufla.br](http://prg.ufla.br)
- - date_published: 2024-12-15T12:27:01+00:00
-
- ## Main Page
- - [http://print.ufla.br](http://print.ufla.br)
- - date_published: 2024-12-15T12:28:01+00:00
-
- ## SIG - Log-in
- - [https://sig.ufla.br](https://sig.ufla.br)
- - date_published: 2024-11-11T11:26:40+00:00
-
- ## Página Principal - UFLA - Universidade Federal de Lavras
- - [https://ufla.br](https://ufla.br)
- - date_published: 2024-10-30T20:16:40+00:00
-
- ## Rádio Universitária 105.7 FM
- - [http://www.universitariafm.ufla.br](http://www.universitariafm.ufla.br)
- - date_published: 2024-12-15T12:28:08.037216+00:00
-
- ## Authentication - GLPI
- - [https://atendimento-sti2.ufma.br](https://atendimento-sti2.ufma.br)
- - date_published: 2024-06-16T15:22:47.899739+00:00
-
- ## pagina inicial
- - [https://portalpadrao.ufma.br](https://portalpadrao.ufma.br)
- - date_published: 2024-10-11T11:24:18.068519+00:00
-
- ## atoba.fisica.ufmg.br
- - [https://atoba.fisica.ufmg.br](https://atoba.fisica.ufmg.br)
- - date_published: 2024-05-11T08:08:47.217872+00:00
-
- ## Biblioteca do Departamento de Química - ICEx/UFMG | Biblioteca do Departamento de Química - ICEx/UFMG
- - [http://biblioteca.qui.ufmg.br](http://biblioteca.qui.ufmg.br)
- - date_published: 2024-07-13T18:19:43+00:00
-
- ## Black Hole - UFMG / DTI
- - [http://blackhole.rede.ufmg.br](http://blackhole.rede.ufmg.br)
- - date_published: 2024-07-13T18:18:55.449683+00:00
-
- ## Espaço do Colaborador
- - [http://colaborador.fundep.ufmg.br](http://colaborador.fundep.ufmg.br)
- - date_published: 2024-03-21T16:31:24+00:00
-
- ## Sala de Demonstrações de Física - UFMG
- - [https://demonstracoes.fisica.ufmg.br](https://demonstracoes.fisica.ufmg.br)
- - date_published: 2024-05-11T08:09:12.771306+00:00
-
- ## Fundep - Espaço do Coordenador
- - [https://ec.fundep.ufmg.br](https://ec.fundep.ufmg.br)
- - date_published: 2024-07-13T18:16:17.641805+00:00
-
- ## Fundep
- - [https://fundep.ufmg.br](https://fundep.ufmg.br)
- - date_published: 2024-05-11T08:09:00.660884+00:00
-
- ## Universidade Federal de Minas Gerais
- - [https://icex.ufmg.br](https://icex.ufmg.br)
- - date_published: 2024-05-11T08:09:23.781459+00:00
-
- ## LCPNano - Física/UFMG
- - [http://lcpnano.ufmg.br](http://lcpnano.ufmg.br)
- - date_published: 2024-05-11T08:08:57.602511+00:00
-
- ## Física - UFMG -Site secundario
- - [https://lilith.fisica.ufmg.br](https://lilith.fisica.ufmg.br)
- - date_published: 2024-03-18T22:49:00.695043+00:00
-
- ## SSO - minhaUFMG
- - [https://minha.ufmg.br](https://minha.ufmg.br)
- - date_published: 2024-05-11T08:08:00.331088+00:00
-
- ## HTTP Server Test Page powered by CentOS
- - [http://ni100t.fisica.ufmg.br](http://ni100t.fisica.ufmg.br)
- - date_published: 2021-07-03T13:48:21+00:00
-
- ## Portal de Periódicos da UFMG
- - [https://periodicos.ufmg.br](https://periodicos.ufmg.br)
- - date_published: 2024-07-13T18:19:33.151876+00:00
-
- ## Fundep - Portal de Compras
- - [https://portaldecompras.fundep.ufmg.br](https://portaldecompras.fundep.ufmg.br)
- - date_published: 2024-07-13T18:16:13.127252+00:00
-
- ## Programa de Pós-graduação em Ciência da Computação
- - [https://ppgcc.dcc.ufmg.br](https://ppgcc.dcc.ufmg.br)
- - date_published: 2024-07-13T18:19:47.272373+00:00
-
- ## Processo Seletivo - Física - UFMG
- - [http://procsel.fisica.ufmg.br](http://procsel.fisica.ufmg.br)
- - date_published: 2024-07-13T18:18:48.387870+00:00
-
- ## SGSED - Sistema de Encargos Didáticos
- - [https://sgsed.fisica.ufmg.br](https://sgsed.fisica.ufmg.br)
- - date_published: 2024-05-11T08:08:42.754957+00:00
 
