@@ -1,3 +1,43 @@
+ ## Simplify Document Editing in Google Workspace | Pointer AI
+ - [https://www.getpointer.ai](https://www.getpointer.ai)
+ - date_published: 2024-12-08T14:46:25+00:00
+
+ ## Recall
+ - [https://app.getrecall.ai](https://app.getrecall.ai)
+ - date_published: 2024-05-07T10:33:24.441584+00:00
+
+ ## Recall Documentation
+ - [https://docs.getrecall.ai](https://docs.getrecall.ai)
+ - date_published: 2024-05-07T10:33:27.377930+00:00
+
+ ## Recall Feedback
+ - [https://feedback.getrecall.ai](https://feedback.getrecall.ai)
+ - date_published: 2024-10-30T12:06:16.917329+00:00
+
+ ## Recall - Summarize and save any online content
+ - [https://getrecall.ai](https://getrecall.ai)
+ - date_published: 2024-05-07T10:33:23.375476+00:00
+
+ ## Revamp: Smarter Customer Segmentation for eCommerce
+ - [https://getrevamp.ai](https://getrevamp.ai)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## GetSound.ai - Deep Focus Using Real-Time Soundscapes, Minimize Distractions, Unleash Productivity
+ - [https://www.getsound.ai](https://www.getsound.ai)
+ - date_published: 2024-04-03T14:50:07+00:00
+
+ ## Venta
+ - [https://app.getventa.ai](https://app.getventa.ai)
+ - date_published: 2024-07-18T05:23:15.281841+00:00
+
+ ## Venta - Your AI co-worker for more sales pipeline
+ - [https://getventa.ai](https://getventa.ai)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Voilà AI Assistant, Chat and Writer for maximum productivity
+ - [https://assets.getvoila.ai](https://assets.getvoila.ai)
+ - date_published: 2024-10-30T17:45:28.236031+00:00
+
  ## Voilà status
  - [https://status.getvoila.ai](https://status.getvoila.ai)
  - date_published: 2024-10-30T17:45:24.737060+00:00
@@ -3075,6 +3115,10 @@
  - [https://megagon.ai](https://megagon.ai)
  - date_published: 2024-06-14T00:00:00+00:00
 
+ ## Show HN: We're building a desktop app for browser agents
+ - [https://meha.ai](https://meha.ai)
+ - date_published: 2025-02-01T13:41:19+00:00
+
  ## Home | Melon
  - [https://meln.ai](https://meln.ai)
  - date_published: 2024-06-14T08:52:19.865456+00:00
@@ -3721,6 +3765,10 @@
  - [http://pro.nansen.ai](http://pro.nansen.ai)
  - date_published: 2024-09-12T19:22:05.015353+00:00
 
+ ## Nansen Research Portal
+ - [https://research.nansen.ai](https://research.nansen.ai)
+ - date_published: 2025-02-02T00:30:36.630979+00:00
+
  ## Napkin AI - The visual AI for business storytelling
  - [https://napkin.ai](https://napkin.ai)
  - date_published: 2024-10-25T07:08:56+00:00
@@ -3982,52 +4030,4 @@
  ## Notably
  - [https://app.notably.ai](https://app.notably.ai)
  - date_published: 2024-06-15T10:53:54.178756+00:00
-
- ## Notably Help Center
- - [https://help.notably.ai](https://help.notably.ai)
- - date_published: 2024-06-15T10:53:57.651853+00:00
-
- ## Synthesis Platform for User Research | Notably
- - [https://notably.ai](https://notably.ai)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## The smart notebook for worldbuilders - Notebook.ai
- - [https://www.notebook.ai](https://www.notebook.ai)
- - date_published: 2025-01-08T15:07:11.402320+00:00
-
- ## Save time, reduce errors  be more productive with AI-powered note optimization.
- - [https://notegenie.ai](https://notegenie.ai)
- - date_published: 2024-06-19T19:35:13.614935+00:00
-
- ## Notion AI | Now with Q&A
- - [https://notion.ai](https://notion.ai)
- - date_published: 2024-08-18T13:10:25.406427+00:00
-
- ## Notionsmith
- - [https://notionsmith.ai](https://notionsmith.ai)
- - date_published: 2024-06-19T19:40:12.096242+00:00
-
- ## 自動文字起こしサービス | Notta
- - [https://notta.ai](https://notta.ai)
- - date_published: 2024-10-30T02:33:55+00:00
-
- ## All Powerful Investment Strategies in One Place | Notum
- - [https://notum.ai](https://notum.ai)
- - date_published: 2024-09-25T16:03:30.128816+00:00
-
- ## Noty.ai - Workplace AI Assistant getting work done
- - [https://noty.ai](https://noty.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## NPi Cloud
- - [https://npi.ai](https://npi.ai)
- - date_published: 2025-01-18T08:39:01.406952+00:00
-
- ## NPi Cloud
- - [https://www.npi.ai](https://www.npi.ai)
- - date_published: 2025-01-07T19:58:03.435174+00:00
-
- ## Control Panel
- - [https://app.nrich.ai](https://app.nrich.ai)
- - date_published: 2024-06-20T05:27:27+00:00
 

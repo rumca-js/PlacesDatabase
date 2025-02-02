@@ -1,3 +1,39 @@
+ ## Upwork Proposal Generator | BidBuilder
+ - [https://www.bidbuilder.ai](https://www.bidbuilder.ai)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## BigBeans
+ - [https://bigbeans.ai](https://bigbeans.ai)
+ - date_published: 2024-09-02T09:51:22.854078+00:00
+
+ ## BigBear.ai | A higher form of decision intelligence.
+ - [https://bigbear.ai](https://bigbear.ai)
+ - date_published: 2024-10-29T17:16:33+00:00
+
+ ## BigHub - Your guides to applied AI
+ - [https://www.bighub.ai](https://www.bighub.ai)
+ - date_published: 2024-12-12T15:56:12+00:00
+
+ ## AI Text to Voice & Text to Speech Free Software
+ - [https://bigspeak.ai](https://bigspeak.ai)
+ - date_published: 2024-06-19T19:57:47.654507+00:00
+
+ ## Big Sur AI: The E-commerce AI Platform
+ - [https://bigsur.ai](https://bigsur.ai)
+ - date_published: 2024-06-16T12:02:43.250176+00:00
+
+ ## Merchant Hub
+ - [https://hub.bigsur.ai](https://hub.bigsur.ai)
+ - date_published: 2024-10-04T08:00:12.698626+00:00
+
+ ## AI Research, Consulting & Education | Big Vision
+ - [https://www.bigvision.ai](https://www.bigvision.ai)
+ - date_published: 2024-08-20T05:41:15.701148+00:00
+
+ ## BIK
+ - [https://bik.ai](https://bik.ai)
+ - date_published: 2024-11-08T05:54:43+00:00
+
  ## BingBang.ai
  - [https://bingbang.ai](https://bingbang.ai)
  - date_published: 2024-06-19T19:18:12+00:00
@@ -169,6 +205,10 @@
  ## Bolster AI
  - [https://platform.bolster.ai](https://platform.bolster.ai)
  - date_published: 2025-01-15T21:25:17.989666+00:00
+
+ ## 正能量电子网www.bom.ai-电子元器件现货批量采购交易平台
+ - [http://www.bom.ai](http://www.bom.ai)
+ - date_published: 2025-02-01T09:25:33.434405+00:00
 
  ## Bonsai Robotics – Home
  - [https://www.bonsairobotics.ai](https://www.bonsairobotics.ai)
@@ -3976,44 +4016,4 @@ Welcome
  ## Projects - Odin AI Documentation
  - [https://learn.getodin.ai](https://learn.getodin.ai)
  - date_published: 2024-10-30T11:10:23.701843+00:00
-
- ## Simplify Document Editing in Google Workspace | Pointer AI
- - [https://www.getpointer.ai](https://www.getpointer.ai)
- - date_published: 2024-12-08T14:46:25+00:00
-
- ## Recall
- - [https://app.getrecall.ai](https://app.getrecall.ai)
- - date_published: 2024-05-07T10:33:24.441584+00:00
-
- ## Recall Documentation
- - [https://docs.getrecall.ai](https://docs.getrecall.ai)
- - date_published: 2024-05-07T10:33:27.377930+00:00
-
- ## Recall Feedback
- - [https://feedback.getrecall.ai](https://feedback.getrecall.ai)
- - date_published: 2024-10-30T12:06:16.917329+00:00
-
- ## Recall - Summarize and save any online content
- - [https://getrecall.ai](https://getrecall.ai)
- - date_published: 2024-05-07T10:33:23.375476+00:00
-
- ## Revamp: Smarter Customer Segmentation for eCommerce
- - [https://getrevamp.ai](https://getrevamp.ai)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## GetSound.ai - Deep Focus Using Real-Time Soundscapes, Minimize Distractions, Unleash Productivity
- - [https://www.getsound.ai](https://www.getsound.ai)
- - date_published: 2024-04-03T14:50:07+00:00
-
- ## Venta
- - [https://app.getventa.ai](https://app.getventa.ai)
- - date_published: 2024-07-18T05:23:15.281841+00:00
-
- ## Venta - Your AI co-worker for more sales pipeline
- - [https://getventa.ai](https://getventa.ai)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Voilà AI Assistant, Chat and Writer for maximum productivity
- - [https://assets.getvoila.ai](https://assets.getvoila.ai)
- - date_published: 2024-10-30T17:45:28.236031+00:00
 
