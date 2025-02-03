@@ -1,3 +1,27 @@
+ ## GetMee - Personal Skills Development Coach
+ - [https://education.getmee.ai](https://education.getmee.ai)
+ - date_published: 2024-10-29T06:10:42+00:00
+
+ ## getmee: Communication Coaching App for Personal Skills Development
+ - [https://getmee.ai](https://getmee.ai)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Odin Blog - Odin AI
+ - [https://blog.getodin.ai](https://blog.getodin.ai)
+ - date_published: 2024-10-30T00:22:26+00:00
+
+ ## Get Projects
+ - [https://docs.getodin.ai](https://docs.getodin.ai)
+ - date_published: 2024-10-30T11:10:11.414804+00:00
+
+ ## Odin AI - One AI Platform For Everything
+ - [https://getodin.ai](https://getodin.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Projects - Odin AI Documentation
+ - [https://learn.getodin.ai](https://learn.getodin.ai)
+ - date_published: 2024-10-30T11:10:23.701843+00:00
+
  ## Simplify Document Editing in Google Workspace | Pointer AI
  - [https://www.getpointer.ai](https://www.getpointer.ai)
  - date_published: 2024-12-08T14:46:25+00:00
@@ -731,6 +755,10 @@
  ## hiroscope | Hiring made super-easy with the power of AI | hiroscope.ai
  - [https://hiroscope.ai](https://hiroscope.ai)
  - date_published: 2024-12-12T08:03:39.317003+00:00
+
+ ## Hitems
+ - [https://hitems.ai](https://hitems.ai)
+ - date_published: 2025-02-02T15:32:32.450908+00:00
 
  ## Hitesh Choudhary Home page
  - [https://hitesh.ai](https://hitesh.ai)
@@ -1855,6 +1883,10 @@
  - [https://www.keywordinsights.ai](https://www.keywordinsights.ai)
  - date_published: 2023-05-03T12:13:24+00:00
 
+ ## KeywordMagic.AI - AI-Powered Keyword Research for Shopify
+ - [https://keywordmagic.ai](https://keywordmagic.ai)
+ - date_published: 2025-02-02T11:23:05.980139+00:00
+
  ## Keywrds.ai | Find keywords your competition can only dream of
  - [https://keywrds.ai](https://keywrds.ai)
  - date_published: 2024-06-19T21:22:31+00:00
@@ -2047,6 +2079,10 @@
  - [https://www.kosmic.ai](https://www.kosmic.ai)
  - date_published: 2024-12-23T18:31:05+00:00
 
+ ## KRAFTON AI: Deep Research at the Highest Level | KRAFTON
+ - [https://www.krafton.ai](https://www.krafton.ai)
+ - date_published: 2025-02-02T15:26:54.422684+00:00
+
  ## Krater.ai – Your AI SuperApp
  - [https://www.krater.ai](https://www.krater.ai)
  - date_published: 2024-06-19T21:14:22.008328+00:00
@@ -2148,6 +2184,10 @@
  - [https://lalal.ai](https://lalal.ai)
  - date_published: 2024-06-21T11:15:58+00:00
  - tags: ['artificial intelligence', 'music generation', 'music splitter']
+
+ ## Lama AI
+ - [https://www.lama.ai](https://www.lama.ai)
+ - date_published: 2025-02-02T01:41:24.166466+00:00
 
  ## Lamini
  - [https://app.lamini.ai](https://app.lamini.ai)
@@ -2332,6 +2372,10 @@
  ## Lek.ai - The ultimate content creator toolkit powered by AI
  - [https://lek.ai](https://lek.ai)
  - date_published: 2023-03-19T17:40:22+00:00
+
+ ## Lemni
+ - [https://lemni.ai](https://lemni.ai)
+ - date_published: 2025-02-02T15:48:06.948288+00:00
 
  ## Lemonaide AI — The #1 AI Melody Generator Powered By Industry Producers
  - [https://lemonaid.ai](https://lemonaid.ai)
@@ -3986,48 +4030,4 @@
  ## Nomic Atlas
  - [https://atlas.nomic.ai](https://atlas.nomic.ai)
  - date_published: 2024-05-12T04:12:14.650722+00:00
-
- ## Nomic Blog
- - [https://blog.nomic.ai](https://blog.nomic.ai)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Introduction | Nomic Atlas Documentation
- - [https://docs.nomic.ai](https://docs.nomic.ai)
- - date_published: 2024-07-14T22:29:29.622966+00:00
-
- ## Nomic
- - [https://nomic.ai](https://nomic.ai)
- - date_published: 2024-07-20T19:55:08.852335+00:00
-
- ## Nomic Platform Status
- - [https://status.nomic.ai](https://status.nomic.ai)
- - date_published: 2024-07-14T22:29:28.819589+00:00
-
- ## NonprofitAMA Ask Me Anything About Nonprofits: Leadership, Management, Boards, Governance
- - [https://www.nonprofitama.ai](https://www.nonprofitama.ai)
- - date_published: 2024-12-15T06:14:31.504368+00:00
-
- ## Nooks | AI Powered Parallel Dialer and Virtual Salesfloor
- - [https://nooks.ai](https://nooks.ai)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## NOOZ AI
- - [https://nooz.ai](https://nooz.ai)
- - date_published: 2023-12-12T20:12:10+00:00
-
- ## Home - NORA - Norwegian Artificial Intelligence Research Consortium
- - [https://nora.ai](https://nora.ai)
- - date_published: 2024-06-22T08:46:35.666221+00:00
-
- ## The Normal Blog - System Two: The Normal Computing Blog
- - [https://blog.normalcomputing.ai](https://blog.normalcomputing.ai)
- - date_published: 2023-11-14T06:42:22.516104+00:00
-
- ## Normal Computing
- - [https://normalcomputing.ai](https://normalcomputing.ai)
- - date_published: 2024-06-15T03:45:43+00:00
-
- ## Notably
- - [https://app.notably.ai](https://app.notably.ai)
- - date_published: 2024-06-15T10:53:54.178756+00:00
 

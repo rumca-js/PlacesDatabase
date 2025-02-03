@@ -1,3 +1,103 @@
+ ## Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel
+ - [https://tenno.app](https://tenno.app)
+ - date_published: 2024-10-10T13:15:38+00:00
+
+ ## Introduction | Terrastories Support Materials
+ - [https://docs.terrastories.app](https://docs.terrastories.app)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Explore Terrastories
+ - [https://explore.terrastories.app](https://explore.terrastories.app)
+ - date_published: 2024-07-15T11:14:27.219508+00:00
+
+ ## Home - Terrastories
+ - [https://terrastories.app](https://terrastories.app)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Tethered - Free Uptime Monitoring
+ - [https://tethered.app](https://tethered.app)
+ - date_published: 2024-10-30T14:12:45.030601+00:00
+
+ ## tetr - The app for texting yourself notes, tasks, and reminders.
+ - [https://tetr.app](https://tetr.app)
+ - date_published: 2024-09-02T09:50:07.926268+00:00
+
+ ## Texti Newsletter
+ - [https://newsletter.texti.app](https://newsletter.texti.app)
+ - date_published: 2024-10-30T17:52:33.983845+00:00
+
+ ## Home | texti.app
+ - [https://texti.app](https://texti.app)
+ - date_published: 2024-06-19T20:40:34.862692+00:00
+
+ ## TextSniper - Capture and extract any text from your Mac's screen | images
+ - [https://textsniper.app](https://textsniper.app)
+ - date_published: 2024-09-02T09:57:21.206500+00:00
+
+ ## texttomusic.app - texttomusic Zasoby i informacje.
+ - [https://www.texttomusic.app](https://www.texttomusic.app)
+ - date_published: 2024-10-30T07:09:29+00:00
+
+ ## TextUnbox.app
+ - [https://textunbox.app](https://textunbox.app)
+ - date_published: 2024-06-19T20:05:59.496936+00:00
+
+ ## Write a Thank You Note - ThankYouNote.app
+ - [https://thankyounote.app](https://thankyounote.app)
+ - date_published: 2022-08-16T21:00:27+00:00
+
+ ## thechat.app - Decentralized Web3 group chat
+ - [https://thechat.app](https://thechat.app)
+ - date_published: 2024-06-21T20:22:20.499267+00:00
+
+ ## The Companion
+ - [https://thecompanion.app](https://thecompanion.app)
+ - date_published: 2023-10-25T11:49:20.174746+00:00
+
+ ## Shopify App — Installation
+ - [https://s.themescientist.app](https://s.themescientist.app)
+ - date_published: 2024-08-05T20:14:39.961706+00:00
+
+ ## The Operator – Slack private channel access made easy
+ - [https://theoperator.app](https://theoperator.app)
+ - date_published: 2024-07-14T09:09:00.926983+00:00
+
+ ## theQuestions
+ - [https://thequestions.app](https://thequestions.app)
+ - date_published: 2024-06-22T13:46:53.760379+00:00
+
+ ## Thin Backend: Instead of manually writing REST API endpoints or GraphQL resolvers you can use a Thin Backend server to automatically get a fully featured API backend.
+ - [https://thinbackend.app](https://thinbackend.app)
+ - date_published: 2024-09-20T15:43:38.362837+00:00
+
+ ## ThinkType
+ - [https://thinktype.app](https://thinktype.app)
+ - date_published: 2024-09-05T23:21:42.391957+00:00
+
+ ## Tholos MPC Crypto Wallet: Friendly & Secure for Funds, DAOs, Companies
+ - [https://www.tholos.app](https://www.tholos.app)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Threader - Good threads every day
+ - [https://threader.app](https://threader.app)
+ - date_published: 2024-05-08T04:03:35.730993+00:00
+
+ ## Busy Beavers!
+ - [https://busy-beavers.tigyog.app](https://busy-beavers.tigyog.app)
+ - date_published: 2023-10-25T11:49:30.014538+00:00
+
+ ## The TigYog docs
+ - [https://docs.tigyog.app](https://docs.tigyog.app)
+ - date_published: 2024-08-19T11:37:25+00:00
+
+ ## Everyday Data Science
+ - [https://everyday-data-science.tigyog.app](https://everyday-data-science.tigyog.app)
+ - date_published: 2024-05-11T07:17:47.847271+00:00
+
+ ## Jim’s blog
+ - [https://jim.tigyog.app](https://jim.tigyog.app)
+ - date_published: 2024-05-11T07:17:51.205820+00:00
+
  ## TigYog
  - [https://tigyog.app](https://tigyog.app)
  - date_published: 2023-10-25T11:49:31.674555+00:00
@@ -450,6 +550,10 @@
  - [https://usegravity.app](https://usegravity.app)
  - date_published: 2024-05-09T08:38:39.631713+00:00
 
+ ## POW! - the privacy-first menstrual cycle journal
+ - [https://www.usepow.app](https://www.usepow.app)
+ - date_published: 2025-02-02T09:17:39.524568+00:00
+
  ## VIA
  - [https://www.usevia.app](https://www.usevia.app)
  - date_published: 2024-06-07T22:19:05+00:00
@@ -812,6 +916,11 @@
  ## Bigspring with nextjs and tailwindcss
  - [https://bigspring-nextjs.vercel.app](https://bigspring-nextjs.vercel.app)
  - date_published: 2024-06-21T23:48:43.140927+00:00
+
+ ## Bingeflex - Watch Movies Online
+ - [https://bingeflex.vercel.app](https://bingeflex.vercel.app)
+ - date_published: 2025-02-02T15:44:27+00:00
+ - tags: ['piracy']
 
  ## Biotree - Organize your multiple links.
  - [https://biotree.vercel.app](https://biotree.vercel.app)
@@ -1710,6 +1819,10 @@
  - [https://klu-j3n0d4hsu-klu.vercel.app](https://klu-j3n0d4hsu-klu.vercel.app)
  - date_published: 2024-07-03T09:21:30.911456+00:00
 
+ ## Stake with K9 Finance | KNINE
+ - [https://knine-liquid-staking.vercel.app](https://knine-liquid-staking.vercel.app)
+ - date_published: 2025-02-02T11:09:43.891974+00:00
+
  ## React in-app notifications example | Powered by Knock
  - [https://knock-in-app-notifications-react.vercel.app](https://knock-in-app-notifications-react.vercel.app)
  - date_published: 2024-08-18T10:52:25.804776+00:00
@@ -1785,6 +1898,10 @@
  ## JavaScript Loading Patterns
  - [https://loading-patterns.vercel.app](https://loading-patterns.vercel.app)
  - date_published: 2024-08-08T17:49:50.527605+00:00
+
+ ## localfirst.fm - A podcast about local-first software development.
+ - [https://localfirst-d3oerydmq-schickling-pro.vercel.app](https://localfirst-d3oerydmq-schickling-pro.vercel.app)
+ - date_published: 2025-02-02T02:23:55.084227+00:00
 
  ## localfirst.fm - A podcast about local-first software development.
  - [https://localfirst-r06no9ylu-schickling-pro.vercel.app](https://localfirst-r06no9ylu-schickling-pro.vercel.app)
@@ -2110,6 +2227,10 @@
  ## Nunflix: The Ultimate Comprehensive Guide to Free High-Quality Streaming in 2024
  - [https://nunflix-info.vercel.app](https://nunflix-info.vercel.app)
  - date_published: 2024-10-24T15:30:34+00:00
+
+ ## Octomments - using GitHub as a comment plugin
+ - [https://ocs.vercel.app](https://ocs.vercel.app)
+ - date_published: 2025-02-02T15:38:11.953588+00:00
 
  ## OctoArt
  - [https://octoart.vercel.app](https://octoart.vercel.app)
@@ -3433,6 +3554,10 @@
  - [https://docker-compose-manager-db558.web.app](https://docker-compose-manager-db558.web.app)
  - date_published: 2025-01-11T13:00:06+00:00
 
+ ## Dota777 Situs Live Baccarat Online Terlaris Setiap Hari
+ - [https://dota777-live-casino.web.app](https://dota777-live-casino.web.app)
+ - date_published: 2025-02-02T10:06:17.028728+00:00
+
  ## Easy Outlines
  - [https://easyoutlines-f5115.web.app](https://easyoutlines-f5115.web.app)
  - date_published: 2023-10-06T21:21:38+00:00
@@ -3889,130 +4014,4 @@
  ## ZKBase Explorer
  - [https://sepolia-explorer.zkbase.app](https://sepolia-explorer.zkbase.app)
  - date_published: 2024-07-01T06:42:51+00:00
-
- ## ZKSpace - Layer-2 FOR ALL
- - [https://zkbase.app](https://zkbase.app)
- - date_published: 2024-09-23T07:43:08.489158+00:00
-
- ## ZKSwap (ZKFair) | ZKBase - Layer2 for Bitcoin & Ethereum
- - [https://zkfair.zkbase.app](https://zkfair.zkbase.app)
- - date_published: 2024-09-23T07:43:03.810085+00:00
-
- ## ZKSwap (zkSync) - Layer2 for Bitcoin & Ethereum
- - [https://zksync.zkbase.app](https://zksync.zkbase.app)
- - date_published: 2024-09-23T07:43:01.870609+00:00
-
- ## ZKSwap (zkSync) - Layer2 for Bitcoin & Ethereum
- - [https://zksync.zks.app](https://zksync.zks.app)
- - date_published: 2024-09-23T07:43:14.407131+00:00
-
- ## Apple Music
- - [https://learn.applemusic.apple](https://learn.applemusic.apple)
- - date_published: 2023-10-25T08:24:32.581802+00:00
- - tags: ['audio streaming']
-
- ## Apple Music
- - [https://offers.applemusic.apple](https://offers.applemusic.apple)
- - date_published: 2024-06-28T17:04:08.784695+00:00
-
- ## Apple Pay
- - [https://offers.applepay.apple](https://offers.applepay.apple)
- - date_published: 2024-07-21T05:02:42.682311+00:00
-
- ## Landing Page
- - [https://experience.apple](https://experience.apple)
- - date_published: 2024-03-21T07:36:05+00:00
-
- ## SignTime
- - [https://signtime.apple](https://signtime.apple)
- - date_published: 2023-10-25T11:51:39.950397+00:00
-
- ## Deception Island - Homepage
- - [http://www.deceptionisland.aq](http://www.deceptionisland.aq)
- - date_published: 2024-06-23T17:17:02.212949+00:00
-
- ## Edgar Ambartsoumian
- - [https://www.ambedg.ar](https://www.ambedg.ar)
- - date_published: 2023-11-27T18:36:27+00:00
-
- ## Aviator Juego de Spribe - Jugar en Línea con Dinero Real
- - [https://aviator-juego.ar](https://aviator-juego.ar)
- - date_published: 2024-10-31T02:21:43.847658+00:00
-
- ## Balthaz.ar
- - [https://balthaz.ar](https://balthaz.ar)
- - date_published: 2022-11-19T00:00:00+00:00
-
- ## Imprenta para empresas » Colorprinter
- - [https://colorprinter.ar](https://colorprinter.ar)
- - date_published: 2021-05-03T14:20:25+00:00
-
- ## Agencia De Programación & Marketing | DeProg.ar
- - [https://deprog.ar](https://deprog.ar)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Giskard - Testing platform for AI models
- - [https://gisk.ar](https://gisk.ar)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Recopilador de contenidos curados | iyaki
- - [https://curated.iyaki.ar](https://curated.iyaki.ar)
- - date_published: 2024-09-14T00:44:41+00:00
-
- ## iyaki - Allons-y!
- - [https://iyaki.ar](https://iyaki.ar)
- - date_published: 2024-06-14T14:47:47.990393+00:00
-
- ## Jeremy Millar
- - [https://mill.ar](https://mill.ar)
- - date_published: 2024-07-13T04:17:13.869649+00:00
-
- ## Autopartes nuevas al mejor precio| MISTER-AUTO
- - [https://www.mister-auto.ar](https://www.mister-auto.ar)
- - date_published: 2024-10-31T02:38:10.813420+00:00
-
- ## Metaverse AR Marketing. WebAR projects, TikTok, Instagram, Snap Effects
- - [https://myface.ar](https://myface.ar)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## NIC Argentina
- - [https://nic.ar](https://nic.ar)
- - date_published: 2024-09-14T10:25:01.564725+00:00
-
- ## nihar's page on the internet
- - [https://nih.ar](https://nih.ar)
- - date_published: 2023-09-16T00:00:00+00:00
-
- ## Casino Online Argentina 2021 | Los Mejores Casinos Online
- - [https://online-casino.ar](https://online-casino.ar)
- - date_published: 2020-10-04T08:33:04+00:00
-
- ## Reimar
- - [https://reim.ar](https://reim.ar)
- - date_published: 2024-05-07T23:22:31.288342+00:00
-
- ## Ricardo Iván Vieitez Parra
- - [https://riv.ar](https://riv.ar)
- - date_published: 2024-08-22T21:33:58.391773+00:00
- - tags: ['personal']
-
- ## Blog de Thalskarth
- - [https://blog.thalskarth.ar](https://blog.thalskarth.ar)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Departamento de Matematica - Bienvenidos al (antiguo) portal del Departamento de Matemática
- - [http://cms.dm.uba.ar](http://cms.dm.uba.ar)
- - date_published: 2021-10-21T21:36:44+00:00
-
- ## Escuela de Ciencias Informáticas 2019 — Departamento de Computación
- - [https://eci2019.dc.uba.ar](https://eci2019.dc.uba.ar)
- - date_published: 2019-08-06T17:30:01+00:00
-
- ## Pulsar UBA
- - [https://pulsar.uba.ar](https://pulsar.uba.ar)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## UBA Universidad de Buenos Aires
- - [https://uba.ar](https://uba.ar)
- - date_published: 2024-09-11T01:42:59.559717+00:00
 

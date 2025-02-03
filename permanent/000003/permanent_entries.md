@@ -1,3 +1,47 @@
+ ## Nomic Blog
+ - [https://blog.nomic.ai](https://blog.nomic.ai)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Introduction | Nomic Atlas Documentation
+ - [https://docs.nomic.ai](https://docs.nomic.ai)
+ - date_published: 2024-07-14T22:29:29.622966+00:00
+
+ ## Nomic
+ - [https://nomic.ai](https://nomic.ai)
+ - date_published: 2024-07-20T19:55:08.852335+00:00
+
+ ## Nomic Platform Status
+ - [https://status.nomic.ai](https://status.nomic.ai)
+ - date_published: 2024-07-14T22:29:28.819589+00:00
+
+ ## NonprofitAMA Ask Me Anything About Nonprofits: Leadership, Management, Boards, Governance
+ - [https://www.nonprofitama.ai](https://www.nonprofitama.ai)
+ - date_published: 2024-12-15T06:14:31.504368+00:00
+
+ ## Nooks | AI Powered Parallel Dialer and Virtual Salesfloor
+ - [https://nooks.ai](https://nooks.ai)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## NOOZ AI
+ - [https://nooz.ai](https://nooz.ai)
+ - date_published: 2023-12-12T20:12:10+00:00
+
+ ## Home - NORA - Norwegian Artificial Intelligence Research Consortium
+ - [https://nora.ai](https://nora.ai)
+ - date_published: 2024-06-22T08:46:35.666221+00:00
+
+ ## The Normal Blog - System Two: The Normal Computing Blog
+ - [https://blog.normalcomputing.ai](https://blog.normalcomputing.ai)
+ - date_published: 2023-11-14T06:42:22.516104+00:00
+
+ ## Normal Computing
+ - [https://normalcomputing.ai](https://normalcomputing.ai)
+ - date_published: 2024-06-15T03:45:43+00:00
+
+ ## Notably
+ - [https://app.notably.ai](https://app.notably.ai)
+ - date_published: 2024-06-15T10:53:54.178756+00:00
+
  ## Notably Help Center
  - [https://help.notably.ai](https://help.notably.ai)
  - date_published: 2024-06-15T10:53:57.651853+00:00
@@ -303,6 +347,10 @@
  ## OpenRouter Status
  - [https://status.openrouter.ai](https://status.openrouter.ai)
  - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Reality Capture & Construction Site Capture | OpenSpace
+ - [https://www.openspace.ai](https://www.openspace.ai)
+ - date_published: 2025-02-02T23:50:43.727591+00:00
 
  ## Visionary AI Virtual Assistants, AI Agents & AI Avatars | Openstream.ai
  - [https://openstream.ai](https://openstream.ai)
@@ -3993,53 +4041,4 @@
  ## Super Engineer AI: Build Apps in Minutes with Your Prompt
  - [https://superengineer.ai](https://superengineer.ai)
  - date_published: 2025-01-22T18:34:49.055299+00:00
-
- ## Super Engineer AI: Build Apps in Minutes with Your Prompt
- - [https://www.superengineer.ai](https://www.superengineer.ai)
- - date_published: 2025-01-09T10:59:05+00:00
-
- ## AI Assistant for your software product | Superflows
- - [https://superflows.ai](https://superflows.ai)
- - date_published: 2024-06-21T15:47:15+00:00
-
- ## SuperFocus
- - [https://superfocus.ai](https://superfocus.ai)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Curb API spend. Before you get an invoice.
- - [https://supergood.ai](https://supergood.ai)
- - date_published: 2024-08-08T12:13:49.951861+00:00
-
- ## Superhuman AI
- - [https://superhuman.ai](https://superhuman.ai)
- - date_published: 2024-12-03T22:13:23+00:00
- - tags: ['newsletter', 'artificial intelligence']
-
- ## Supermanage AI ✦
- - [https://supermanage.ai](https://supermanage.ai)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Generate Memes with AI | Supermeme.ai
- - [https://app.supermeme.ai](https://app.supermeme.ai)
- - date_published: 2024-07-10T11:15:49.239911+00:00
-
- ## Supermeme AI | Turn text into memes using AI
- - [https://blog.supermeme.ai](https://blog.supermeme.ai)
- - date_published: 2024-10-30T13:07:51.849667+00:00
-
- ## Turn text into AI memes | AI Meme Generator | Supermeme.ai
- - [https://supermeme.ai](https://supermeme.ai)
- - date_published: 2024-06-19T19:39:53.435456+00:00
-
- ## Supermemory - Your personal second brain.
- - [https://supermemory.ai](https://supermemory.ai)
- - date_published: 2024-09-02T09:50:06.386159+00:00
-
- ## Loading...
- - [https://euserv.superops.ai](https://euserv.superops.ai)
- - date_published: 2024-07-12T14:41:25+00:00
-
- ## Modern PSA-RMM Software for MSPs and IT teams | SuperOps
- - [https://superops.ai](https://superops.ai)
- - date_published: 2024-05-10T06:32:23.608347+00:00
 

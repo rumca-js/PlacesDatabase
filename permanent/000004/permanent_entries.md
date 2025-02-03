@@ -1,3 +1,52 @@
+ ## Super Engineer AI: Build Apps in Minutes with Your Prompt
+ - [https://www.superengineer.ai](https://www.superengineer.ai)
+ - date_published: 2025-01-09T10:59:05+00:00
+
+ ## AI Assistant for your software product | Superflows
+ - [https://superflows.ai](https://superflows.ai)
+ - date_published: 2024-06-21T15:47:15+00:00
+
+ ## SuperFocus
+ - [https://superfocus.ai](https://superfocus.ai)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Curb API spend. Before you get an invoice.
+ - [https://supergood.ai](https://supergood.ai)
+ - date_published: 2024-08-08T12:13:49.951861+00:00
+
+ ## Superhuman AI
+ - [https://superhuman.ai](https://superhuman.ai)
+ - date_published: 2024-12-03T22:13:23+00:00
+ - tags: ['newsletter', 'artificial intelligence']
+
+ ## Supermanage AI ✦
+ - [https://supermanage.ai](https://supermanage.ai)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Generate Memes with AI | Supermeme.ai
+ - [https://app.supermeme.ai](https://app.supermeme.ai)
+ - date_published: 2024-07-10T11:15:49.239911+00:00
+
+ ## Supermeme AI | Turn text into memes using AI
+ - [https://blog.supermeme.ai](https://blog.supermeme.ai)
+ - date_published: 2024-10-30T13:07:51.849667+00:00
+
+ ## Turn text into AI memes | AI Meme Generator | Supermeme.ai
+ - [https://supermeme.ai](https://supermeme.ai)
+ - date_published: 2024-06-19T19:39:53.435456+00:00
+
+ ## Supermemory - Your personal second brain.
+ - [https://supermemory.ai](https://supermemory.ai)
+ - date_published: 2024-09-02T09:50:06.386159+00:00
+
+ ## Loading...
+ - [https://euserv.superops.ai](https://euserv.superops.ai)
+ - date_published: 2024-07-12T14:41:25+00:00
+
+ ## Modern PSA-RMM Software for MSPs and IT teams | SuperOps
+ - [https://superops.ai](https://superops.ai)
+ - date_published: 2024-05-10T06:32:23.608347+00:00
+
  ## Loading...
  - [https://usserv.superops.ai](https://usserv.superops.ai)
  - date_published: 2024-07-12T14:41:05+00:00
@@ -903,6 +952,10 @@
  - [https://tryblend.ai](https://tryblend.ai)
  - date_published: 2024-02-25T00:00:00+00:00
 
+ ## Cofactory
+ - [https://trycofactory.ai](https://trycofactory.ai)
+ - date_published: 2025-02-02T15:58:55.289238+00:00
+
  ## Leap AI Blog | AI Tips & Guides
  - [https://blog.tryleap.ai](https://blog.tryleap.ai)
  - date_published: 2024-12-12T23:34:11.019526+00:00
@@ -1334,6 +1387,10 @@
  - date_published: 2024-04-19T04:41:28+00:00
  - tags: ['artificial intelligence', 'voice assistant']
 
+ ## Varadise | AI-Powered Digital Twin Solutions for Construction and Smart City
+ - [https://varadise.ai](https://varadise.ai)
+ - date_published: 2025-02-02T15:36:26.591365+00:00
+
  ## Optimist
  - [https://optimist.varied.ai](https://optimist.varied.ai)
  - date_published: 2024-06-19T20:43:02.965925+00:00
@@ -1461,6 +1518,10 @@
  ## VEG3
  - [https://veg3.ai](https://veg3.ai)
  - date_published: 2024-10-30T07:23:20.125480+00:00
+
+ ## Vella.ai - AI Powered Email Copilot Digital Assistant
+ - [https://www.vella.ai](https://www.vella.ai)
+ - date_published: 2025-02-02T02:23:33.764837+00:00
 
  ## Meet Copilot, smart tech for your bike
  - [http://velo.ai](http://velo.ai)
@@ -3963,65 +4024,4 @@ Creative Solutions
  ## Google
  - [https://www.google.co.ao](https://www.google.co.ao)
  - date_published: 2024-06-21T22:22:35.069907+00:00
-
- ## Jeep Angola
- - [http://www.jeep.co.ao](http://www.jeep.co.ao)
- - date_published: 2023-10-15T11:58:37+00:00
-
- ## Land Rover | Explore os Veículos 4x4 e SUV Sofisticados | Land Rover
- - [https://www.landrover.co.ao](https://www.landrover.co.ao)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Novo Jornal | Notícias de Angola e do Mundo, Opinião e Multimédia
- - [https://novojornal.co.ao](https://novojornal.co.ao)
- - date_published: 2024-12-20T08:23:16+00:00
-
- ## home - Ram Angola
- - [https://www.ram.co.ao](https://www.ram.co.ao)
- - date_published: 2016-03-10T00:00:00+00:00
-
- ## Somos a empresa líder mundial em testes, inspeção e certificação.
- - [https://www.sgs.co.ao](https://www.sgs.co.ao)
- - date_published: 2024-09-10T12:51:41.389200+00:00
-
- ## VNBET - Nhà cái uy tín số 1 hiện nay, khuyến mãi khủng lên đến 999k
- - [https://vnbet.apartments](https://vnbet.apartments)
- - date_published: 2025-01-14T20:51:44.093766+00:00
-
- ## Zero Data App
- - [https://0data.app](https://0data.app)
- - date_published: 2024-06-03T11:18:00.880792+00:00
-
- ## 0data Hello World
- - [https://hello.0data.app](https://hello.0data.app)
- - date_published: 2022-01-15T07:11:38+00:00
-
- ## Doorless App Ring
- - [https://ring.0data.app](https://ring.0data.app)
- - date_published: 2022-11-17T11:16:21+00:00
-
- ## 1paragraph
- - [https://1paragraph.app](https://1paragraph.app)
- - date_published: 2023-10-25T11:45:28.341586+00:00
-
- ## 2FAuth Demo
- - [https://demo.2fauth.app](https://demo.2fauth.app)
- - date_published: 2024-05-14T03:37:07.236913+00:00
-
- ## Welcome to 2FAuth Docs - 2FAuth Docs
- - [https://docs.2fauth.app](https://docs.2fauth.app)
- - date_published: 2024-04-08T19:27:57.009071+00:00
- - tags: ['self-host', 'one time passcode']
-
- ## Workouts at Home | 30 Day Fitness Challenge
- - [https://30dayfitness.app](https://30dayfitness.app)
- - date_published: 2024-03-13T16:47:11+00:00
-
- ## 6686 bet - Link nhà cái 6866 chính thức - Tặng 188k Free
- - [https://6686vn.app](https://6686vn.app)
- - date_published: 2025-01-14T20:38:37.589459+00:00
-
- ## Ablestar Link Manager
- - [https://linkmanager.ablestar.app](https://linkmanager.ablestar.app)
- - date_published: 2024-06-17T09:51:08.393485+00:00
 
