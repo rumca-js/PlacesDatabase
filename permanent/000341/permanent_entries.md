@@ -1,4005 +1,4006 @@
- ## Home | Electrical and Computer Engineering
- - [https://ece.ucsd.edu](https://ece.ucsd.edu)
- - date_published: 2024-05-07T21:01:11.880265+00:00
-
- ## Education Community Outreach
- - [https://ecoextension.ucsd.edu](https://ecoextension.ucsd.edu)
- - date_published: 2024-06-21T16:16:44+00:00
-
- ## EDUCATIONAL BENEFITS ONLINE FORM APPROVAL HOME
- - [http://edben.ucsd.edu](http://edben.ucsd.edu)
- - date_published: 2024-09-13T18:36:59.151947+00:00
-
- ## SINGLE SIGN-ON
- - [https://eforms.ucsd.edu](https://eforms.ucsd.edu)
- - date_published: 2024-09-13T18:37:45.372050+00:00
-
- ## SINGLE SIGN-ON
- - [https://egrades.ucsd.edu](https://egrades.ucsd.edu)
- - date_published: 2024-09-13T18:37:18.720489+00:00
-
- ## EMERGE
- - [https://emerge.ucsd.edu](https://emerge.ucsd.edu)
- - date_published: 2024-09-02T13:05:16.502059+00:00
-
- ## SINGLE SIGN-ON
- - [https://employeelink.ucsd.edu](https://employeelink.ucsd.edu)
- - date_published: 2024-09-13T18:35:59.656361+00:00
-
- ## Careers at UC San Diego
- - [https://employment.ucsd.edu](https://employment.ucsd.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## EnCORE
- - [https://encore.ucsd.edu](https://encore.ucsd.edu)
- - date_published: 2024-07-02T01:35:14.104319+00:00
-
- ## @eng.ucsd.edu Transition
- - [https://eng2ucsd.eng.ucsd.edu](https://eng2ucsd.eng.ucsd.edu)
- - date_published: 2024-07-02T01:39:43.297043+00:00
-
- ## Website Offline
- - [https://eng.ucsd.edu](https://eng.ucsd.edu)
- - date_published: 2015-11-18T21:37:53+00:00
-
- ## Academic Affairs
- - [https://evc.ucsd.edu](https://evc.ucsd.edu)
- - date_published: 2023-10-12T14:34:15+00:00
-
- ## UC San Diego Extended Studies | Cart
- - [https://extcart.ucsd.edu](https://extcart.ucsd.edu)
- - date_published: 2024-07-02T01:38:36.709076+00:00
-
- ## UC San Diego Division of Extended Studies | Continuing Education
- - [https://extendedstudies.ucsd.edu](https://extendedstudies.ucsd.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## UC San Diego Extended Studies Canvas
- - [https://extensioncanvas.ucsd.edu](https://extensioncanvas.ucsd.edu)
- - date_published: 2022-05-04T06:03:49+00:00
-
- ## UC San Diego Division of Extended Studies | Continuing Education
- - [https://extension.ucsd.edu](https://extension.ucsd.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## UC San Diego Facility Services
- - [https://facilityservices.ucsd.edu](https://facilityservices.ucsd.edu)
- - date_published: 2024-06-25T19:15:40+00:00
-
- ## Center for Faculty Diversity and Inclusion
- - [https://facultydiversity.ucsd.edu](https://facultydiversity.ucsd.edu)
- - date_published: 2024-05-07T18:11:54+00:00
-
- ## Welcome to Franklin Antonio Hall | Franklin Antonio Hall
- - [http://fah.ucsd.edu](http://fah.ucsd.edu)
- - date_published: 2024-07-02T01:39:31.208975+00:00
-
- ## Financial Aid & Scholarships
- - [https://fas.ucsd.edu](https://fas.ucsd.edu)
- - date_published: 2024-06-13T17:27:40+00:00
-
- ## https://fmeyer.ucsd.edu
- - [https://fmeyer.ucsd.edu](https://fmeyer.ucsd.edu)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## UC San Diego Foundation
- - [https://foundation.ucsd.edu](https://foundation.ucsd.edu)
- - date_published: 2024-05-24T23:30:49+00:00
-
- ## Founders' Pledge
- - [https://founderspledge.ucsd.edu](https://founderspledge.ucsd.edu)
- - date_published: 2024-04-11T16:52:25+00:00
-
- ## Free Expression
- - [https://freespeech.ucsd.edu](https://freespeech.ucsd.edu)
- - date_published: 2024-01-10T23:37:14+00:00
-
- ## Fulbright
- - [https://fulbright.ucsd.edu](https://fulbright.ucsd.edu)
- - date_published: 2024-08-30T21:55:55+00:00
-
- ## Global Environmental Leadership and Sustainability
- - [http://gels.ucsd.edu](http://gels.ucsd.edu)
- - date_published: 2024-04-12T22:46:14+00:00
-
- ## Center for Student Involvement
- - [https://getinvolved.ucsd.edu](https://getinvolved.ucsd.edu)
- - date_published: 2024-09-13T18:15:38+00:00
-
- ## Giving
- - [https://giving.ucsd.edu](https://giving.ucsd.edu)
- - date_published: 2024-06-05T18:05:18+00:00
-
- ## Global Initiatives
- - [http://global.ucsd.edu](http://global.ucsd.edu)
- - date_published: 2024-08-29T19:13:15+00:00
-
- ## Index of /
- - [https://goto.ucsd.edu](https://goto.ucsd.edu)
- - date_published: 2023-10-25T19:01:14.176997+00:00
-
- ## Custom Domain by Bitly
- - [https://go.ucsd.edu](https://go.ucsd.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## GPS News
- - [https://gpsnews.ucsd.edu](https://gpsnews.ucsd.edu)
- - date_published: 2024-07-02T01:34:41.539503+00:00
-
- ## School of Global Policy and Strategy
- - [https://gps.ucsd.edu](https://gps.ucsd.edu)
- - date_published: 2024-05-07T21:01:58.215434+00:00
-
- ## Grad Ed & Postdoc Affrs
- - [https://grad.ucsd.edu](https://grad.ucsd.edu)
- - date_published: 2024-05-07T21:07:25.397224+00:00
-
- ## HACKING 4 THE OCEANS
- - [http://h4oceans.ucsd.edu](http://h4oceans.ucsd.edu)
- - date_published: 2024-07-20T15:33:53.372579+00:00
-
- ## DCog-HCI Lab @ UCSD - Home
- - [http://hci.ucsd.edu](http://hci.ucsd.edu)
- - date_published: 2022-10-06T17:13:11+00:00
-
- ## Halıcıoğlu Data Science Institute – UC San Diego
- - [http://hdsi.ucsd.edu](http://hdsi.ucsd.edu)
- - date_published: 2024-06-22T09:59:11.093002+00:00
-
- ## UC San Diego Health | San Diego Hospital, Healthcare
- - [https://health.ucsd.edu](https://health.ucsd.edu)
- - date_published: 2024-06-16T21:57:30.228377+00:00
-
- ## Herbgrind analyzes binaries to find inaccurate floating point expressions
- - [https://herbgrind.ucsd.edu](https://herbgrind.ucsd.edu)
- - date_published: 2018-09-10T20:46:06+00:00
-
- ## SINGLE SIGN-ON
- - [https://hireonline.ucsd.edu](https://hireonline.ucsd.edu)
- - date_published: 2024-09-13T18:36:40.113551+00:00
-
- ## UC San Diego Homecoming
- - [https://homecoming.ucsd.edu](https://homecoming.ucsd.edu)
- - date_published: 2024-09-26T18:28:08+00:00
-
- ## Herbert Wertheim School of Public Health and Human Longevity Science – Academic Year Annual Report
- - [https://hwsphreport.ucsd.edu](https://hwsphreport.ucsd.edu)
- - date_published: 2024-07-02T01:37:31.882171+00:00
-
- ## UC San Diego Herbert Wertheim School of Public Health and Human Longevity Science
- - [https://hwsph.ucsd.edu](https://hwsph.ucsd.edu)
- - date_published: 2024-05-02T00:07:09+00:00
-
- ## Project IDA
- - [http://ida.ucsd.edu](http://ida.ucsd.edu)
- - date_published: 2024-07-10T02:20:53.929989+00:00
-
- ## International Education Week
- - [https://iew.ucsd.edu](https://iew.ucsd.edu)
- - date_published: 2024-08-29T19:14:32+00:00
-
- ## Home | Institute for the Global Entrepreneur
- - [https://ige.ucsd.edu](https://ige.ucsd.edu)
- - date_published: 2024-07-02T01:39:38.316526+00:00
-
- ## Home | Institute of Geophysics and Planetary Physics
- - [http://igppweb.ucsd.edu](http://igppweb.ucsd.edu)
- - date_published: 2024-07-09T09:07:00.196925+00:00
-
- ## Home - Imagination
- - [http://imagination.ucsd.edu](http://imagination.ucsd.edu)
- - date_published: 2024-07-02T01:39:04.006309+00:00
-
- ## Institute for Neural Computation
- - [https://inc.ucsd.edu](https://inc.ucsd.edu)
- - date_published: 2024-07-04T17:05:41.757517+00:00
-
- ## UCSD InstructorLink
- - [https://instructorlink.ucsd.edu](https://instructorlink.ucsd.edu)
- - date_published: 2024-07-02T01:38:28.804774+00:00
-
- ## Institute for Practical Ethics - Homepage
- - [https://ipe.ucsd.edu](https://ipe.ucsd.edu)
- - date_published: 2024-05-28T22:17:54+00:00
-
- ## Information Theory and Applications Workshop
- - [https://ita.ucsd.edu](https://ita.ucsd.edu)
- - date_published: 2024-03-04T20:36:48+00:00
-
- ## IT Services
- - [https://itsweb.ucsd.edu](https://itsweb.ucsd.edu)
- - date_published: 2024-09-11T22:05:59+00:00
-
- ## Home | Jacobs School of Engineering
- - [https://jacobsschool.ucsd.edu](https://jacobsschool.ucsd.edu)
- - date_published: 2024-05-07T21:07:44.469671+00:00
-
- ## SINGLE SIGN-ON
- - [http://jdonline.ucsd.edu](http://jdonline.ucsd.edu)
- - date_published: 2024-09-13T18:35:40.237790+00:00
-
- ## Careers at UC San Diego
- - [http://jobs.ucsd.edu](http://jobs.ucsd.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## The Keeling Curve
- - [https://keelingcurve.ucsd.edu](https://keelingcurve.ucsd.edu)
- - date_published: 2024-06-29T03:30:41.878701+00:00
-
- ## UC San Diego Key Issues
- - [https://keyissues.ucsd.edu](https://keyissues.ucsd.edu)
- - date_published: 2024-07-26T17:41:21+00:00
-
- ## Welcome to KIBM | Kavli Institute for Brain & Mind
- - [https://kibm.ucsd.edu](https://kibm.ucsd.edu)
- - date_published: 2024-02-08T17:58:45.152063+00:00
-
- ## MAS in the Leadership of Healthcare Organizations (LHCO)
- - [https://lhco.ucsd.edu](https://lhco.ucsd.edu)
- - date_published: 2024-07-02T01:37:35.049909+00:00
-
- ## UC San Diego Library Home Page
- - [https://libraries.ucsd.edu](https://libraries.ucsd.edu)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## UC San Diego Library Home Page
- - [https://library.ucsd.edu](https://library.ucsd.edu)
- - date_published: 2024-06-16T07:01:08+00:00
-
- ## UC San Diego Library Home Page
- - [https://lib.ucsd.edu](https://lib.ucsd.edu)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Home | Mechanical and Aerospace Engineering
- - [https://mae.ucsd.edu](https://mae.ucsd.edu)
- - date_published: 2024-07-02T01:39:12.603007+00:00
-
- ## University of California, San Diego | Campus Map
- - [https://maps.ucsd.edu](https://maps.ucsd.edu)
- - date_published: 2024-07-02T01:37:46+00:00
-
- ## Department of Mathematics, UC San Diego
- - [https://math.ucsd.edu](https://math.ucsd.edu)
- - date_published: 2024-07-02T01:38:57.097903+00:00
-
- ## Index of /
- - [https://mathweb.ucsd.edu](https://mathweb.ucsd.edu)
- - date_published: 2024-05-06T22:45:49.583465+00:00
-
- ## UC San Diego School of Medicine
- - [https://medschool.ucsd.edu](https://medschool.ucsd.edu)
- - date_published: 2024-05-07T21:07:32.978621+00:00
-
- ## Miller Puckette
- - [https://msp.ucsd.edu](https://msp.ucsd.edu)
- - date_published: 2024-01-09T03:28:22.857191+00:00
-
- ## MyUCSDChart - Login Page
- - [https://mychart.ucsd.edu](https://mychart.ucsd.edu)
- - date_published: 2024-10-14T20:54:30.713474+00:00
-
- ## UC San Diego MyExtension
- - [https://myextension.ucsd.edu](https://myextension.ucsd.edu)
- - date_published: 2024-07-02T01:38:39.876250+00:00
-
- ## Health Library | San Diego Hospital, Healthcare
- - [https://myhealth.ucsd.edu](https://myhealth.ucsd.edu)
- - date_published: 2024-10-14T20:45:25+00:00
-
- ## SINGLE SIGN-ON
- - [http://mymobilebill.ucsd.edu](http://mymobilebill.ucsd.edu)
- - date_published: 2024-09-13T18:36:17.150793+00:00
-
- ## SINGLE SIGN-ON
- - [http://mytritonlink.ucsd.edu](http://mytritonlink.ucsd.edu)
- - date_published: 2024-10-14T20:58:59.136106+00:00
-
- ## Homepage | Department of NanoEngineering
- - [https://ne.ucsd.edu](https://ne.ucsd.edu)
- - date_published: 2024-07-02T01:39:42.202265+00:00
-
- ## UC San Diego Today
- - [https://news.ucsd.edu](https://news.ucsd.edu)
- - date_published: 2024-09-13T18:36:09.003535+00:00
-
- ## NVMW 2025 | 16th Annual Non-Volatile Memories Workshop
- - [http://nvmw.ucsd.edu](http://nvmw.ucsd.edu)
- - date_published: 2025-01-15T21:30:20.640347+00:00
-
- ## Operations Management and Capital Programs
- - [https://omcp.ucsd.edu](https://omcp.ucsd.edu)
- - date_published: 2024-08-13T16:49:21+00:00
-
- ## UC San Diego Master of Data Science online
- - [https://omds.ucsd.edu](https://omds.ucsd.edu)
- - date_published: 2024-07-02T01:35:08.618606+00:00
-
- ## OPERA
- - [http://opera.ucsd.edu](http://opera.ucsd.edu)
- - date_published: 2024-10-16T02:41:17.313119+00:00
-
- ## OPHD
- - [http://ophd.ucsd.edu](http://ophd.ucsd.edu)
- - date_published: 2024-03-27T17:38:18+00:00
-
- ## Office for Students with Disabilities
- - [https://osd.ucsd.edu](https://osd.ucsd.edu)
- - date_published: 2024-05-13T17:52:54+00:00
-
- ## Police Accountability Board
- - [https://pab.ucsd.edu](https://pab.ucsd.edu)
- - date_published: 2024-04-01T15:18:00+00:00
-
- ## CSE-PACE
- - [https://pace.ucsd.edu](https://pace.ucsd.edu)
- - date_published: 2024-05-20T21:53:13+00:00
-
- ## Atkinson Physician Assistant Program
- - [https://paeducation.ucsd.edu](https://paeducation.ucsd.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## UC San Diego Parent and Family Programs
- - [https://parents.ucsd.edu](https://parents.ucsd.edu)
- - date_published: 2024-07-31T22:40:33+00:00
-
- ## UCSD Park & Market
- - [https://parkandmarket.ucsd.edu](https://parkandmarket.ucsd.edu)
- - date_published: 2024-07-02T01:34:13.281256+00:00
-
- ## Payment Compass
- - [http://paymentcompass.ucsd.edu](http://paymentcompass.ucsd.edu)
- - date_published: 2024-09-13T18:36:55.133885+00:00
-
- ## SINGLE SIGN-ON
- - [https://paymentworks.ucsd.edu](https://paymentworks.ucsd.edu)
- - date_published: 2024-09-13T18:36:43.675296+00:00
-
- ## PEARLS Lab @ UCSD | About
- - [http://pearls.ucsd.edu](http://pearls.ucsd.edu)
- - date_published: 2024-05-20T22:03:32+00:00
-
- ## Philip Guo - UC San Diego
- - [https://pg.ucsd.edu](https://pg.ucsd.edu)
- - date_published: 2024-04-14T23:27:17+00:00
-
- ## Home | Pharmacogenomics
- - [https://pharmacogenomics.ucsd.edu](https://pharmacogenomics.ucsd.edu)
- - date_published: 2024-02-08T16:21:07.592803+00:00
-
- ## Home | Skaggs School of Pharmacy and Pharmaceutical Sciences
- - [https://pharmacy.ucsd.edu](https://pharmacy.ucsd.edu)
- - date_published: 2024-05-07T21:02:18.473109+00:00
-
- ## Public Health Education
- - [https://ph.ucsd.edu](https://ph.ucsd.edu)
- - date_published: 2023-10-18T15:53:56+00:00
-
- ## School of Physical Sciences
- - [https://physicalsciences.ucsd.edu](https://physicalsciences.ucsd.edu)
- - date_published: 2024-05-07T21:07:39.195102+00:00
-
- ## Home | Department of Physics
- - [https://physics.ucsd.edu](https://physics.ucsd.edu)
- - date_published: 2024-05-07T15:17:04.240347+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [https://pisa.ucsd.edu](https://pisa.ucsd.edu)
- - date_published: 2024-05-01T08:47:32.993150+00:00
-
- ## UC San Diego CSE Pixel Art Competition
- - [https://pixel-art.goto.ucsd.edu](https://pixel-art.goto.ucsd.edu)
- - date_published: 2023-09-26T18:53:58+00:00
-
- ## Planning, Design and Construction
- - [https://plandesignbuild.ucsd.edu](https://plandesignbuild.ucsd.edu)
- - date_published: 2024-08-28T19:14:53+00:00
-
- ## Police Department
- - [https://police.ucsd.edu](https://police.ucsd.edu)
- - date_published: 2024-05-07T21:00:32.062479+00:00
-
- ## Office of Postdoctoral Scholar Affairs
- - [https://postdoc.ucsd.edu](https://postdoc.ucsd.edu)
- - date_published: 2024-06-27T00:36:18+00:00
-
- ## The Preuss School
- - [https://preuss.ucsd.edu](https://preuss.ucsd.edu)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Privacy
- - [https://privacy.ucsd.edu](https://privacy.ucsd.edu)
- - date_published: 2024-08-09T18:35:03+00:00
-
- ## UCSD Profiles • Find/collaborate with leading health researchers
- - [https://profiles.ucsd.edu](https://profiles.ucsd.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Find a Doctor in California | UC San Diego Health
- - [https://providers.ucsd.edu](https://providers.ucsd.edu)
- - date_published: 2024-08-15T19:10:34+00:00
-
- ## Quantitative Biology
- - [https://qbio.ucsd.edu](https://qbio.ucsd.edu)
- - date_published: 2023-09-28T14:04:55+00:00
-
- ## Rady School of Management
- - [https://rady.ucsd.edu](https://rady.ucsd.edu)
- - date_published: 2024-05-07T21:07:46.518473+00:00
-
- ## Research Development
- - [http://rapids.ucsd.edu](http://rapids.ucsd.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## REAL Portal
- - [https://real.ucsd.edu](https://real.ucsd.edu)
- - date_published: 2023-09-28T17:07:59+00:00
-
- ## Research Scholars
- - [http://researchscholars.ucsd.edu](http://researchscholars.ucsd.edu)
- - date_published: 2024-06-18T14:39:48+00:00
-
- ## Office of Research and Innovation
- - [https://research.ucsd.edu](https://research.ucsd.edu)
- - date_published: 2024-09-10T21:49:57+00:00
-
- ## Revive & Survive San Diego
- - [https://revivesurvive.ucsd.edu](https://revivesurvive.ucsd.edu)
- - date_published: 2024-07-01T18:27:38+00:00
-
- ## Operations Management and Capital Programs
- - [http://rmp.ucsd.edu](http://rmp.ucsd.edu)
- - date_published: 2024-06-25T22:50:56+00:00
-
- ## Sally Ride Science – Promoting learning and careers in science, technology, engineering and math.
- - [https://sallyridescience.ucsd.edu](https://sallyridescience.ucsd.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home | Scripps CO2 Program
- - [http://scrippsco2.ucsd.edu](http://scrippsco2.ucsd.edu)
- - date_published: 2024-04-15T19:02:50+00:00
-
- ## Scripps Oceanography Research Profiles - Scripps Oceanography Research Profiles
- - [https://scrippsprofiles.ucsd.edu](https://scrippsprofiles.ucsd.edu)
- - date_published: 2024-07-02T01:32:40+00:00
-
- ## Scripps Institution of Oceanography
- - [https://scripps.ucsd.edu](https://scripps.ucsd.edu)
- - date_published: 2024-05-07T21:01:41.337120+00:00
-
- ## Senate Homepage
- - [http://senate.ucsd.edu](http://senate.ucsd.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Home | Structural Engineering
- - [https://se.ucsd.edu](https://se.ucsd.edu)
- - date_published: 2024-07-02T01:39:34.695393+00:00
-
- ## Student Financial Solutions
- - [https://sfs.ucsd.edu](https://sfs.ucsd.edu)
- - date_published: 2024-10-03T17:31:08+00:00
-
- ## Mathematical Neuroscience Lab
- - [https://silva.ucsd.edu](https://silva.ucsd.edu)
- - date_published: 2024-05-07T21:01:46.744170+00:00
-
- ## School of Social Sciences
- - [https://socialsciences.ucsd.edu](https://socialsciences.ucsd.edu)
- - date_published: 2024-02-06T04:32:36+00:00
-
- ## Dean's Office Internal Web Page
- - [http://soeadm.ucsd.edu](http://soeadm.ucsd.edu)
- - date_published: 2024-04-12T21:26:07+00:00
-
- ## No Content
- - [https://soeapp.ucsd.edu](https://soeapp.ucsd.edu)
- - date_published: 2016-07-29T20:48:44+00:00
-
- ## SINGLE SIGN-ON
- - [https://som.ucsd.edu](https://som.ucsd.edu)
- - date_published: 2024-07-02T01:36:08.826541+00:00
-
- ## SPACES: REDEFINING EMPOWERMENT
- - [https://spaces.ucsd.edu](https://spaces.ucsd.edu)
- - date_published: 2024-05-12T03:54:55.373344+00:00
-
- ## UCSD Staff Performance Appraisal System
- - [https://spa.ucsd.edu](https://spa.ucsd.edu)
- - date_published: 2024-05-23T19:11:10+00:00
-
- ## Sponsored Research Administration
- - [https://spo.ucsd.edu](https://spo.ucsd.edu)
- - date_published: 2024-09-07T09:44:14+00:00
-
- ## Staff Association
- - [https://staffassociation.ucsd.edu](https://staffassociation.ucsd.edu)
- - date_published: 2024-09-10T03:17:37+00:00
-
- ## UC San Diego Staff@Work Survey - Welcome
- - [https://staffatwork.ucsd.edu](https://staffatwork.ucsd.edu)
- - date_published: 2024-09-13T18:36:50.623296+00:00
-
- ## ITS Network & Systems Status
- - [https://status.ucsd.edu](https://status.ucsd.edu)
- - date_published: 2024-07-02T01:20:56.246087+00:00
-
- ## Current Students
- - [https://students.ucsd.edu](https://students.ucsd.edu)
- - date_published: 2024-06-15T07:00:59+00:00
-
- ## Study Abroad
- - [https://studyabroad.ucsd.edu](https://studyabroad.ucsd.edu)
- - date_published: 2024-05-02T18:35:35+00:00
-
- ## Summer Session
- - [https://summersession.ucsd.edu](https://summersession.ucsd.edu)
- - date_published: 2024-05-16T17:29:09+00:00
-
- ## OEC Support Site
- - [http://support.eng.ucsd.edu](http://support.eng.ucsd.edu)
- - date_published: 2024-07-02T01:39:24.306551+00:00
-
- ## UCSD Service Portal - Services & Support
- - [https://support.ucsd.edu](https://support.ucsd.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## UCSD CSE - Systems and Networking
- - [http://sysnet.ucsd.edu](http://sysnet.ucsd.edu)
- - date_published: 2024-06-17T02:36:03.159245+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://terrano.ucsd.edu](http://terrano.ucsd.edu)
- - date_published: 2020-12-14T14:23:15+00:00
-
- ## Tom Murphy
- - [https://tmurphy.physics.ucsd.edu](https://tmurphy.physics.ucsd.edu)
- - date_published: 2023-09-07T23:28:11+00:00
-
- ## UC San Diego Today
- - [https://today.ucsd.edu](https://today.ucsd.edu)
- - date_published: 2023-12-18T14:34:21.556636+00:00
-
- ## Satellite Geodesy at the Scripps Institution of Oceanography, University of California San Diego
- - [http://topex.ucsd.edu](http://topex.ucsd.edu)
- - date_published: 2024-07-10T05:47:33.451959+00:00
-
- ## Training Grants at UC San Diego
- - [https://traininggrants.ucsd.edu](https://traininggrants.ucsd.edu)
- - date_published: 2024-03-26T20:59:38+00:00
-
- ## Transportation Services
- - [https://transportation.ucsd.edu](https://transportation.ucsd.edu)
- - date_published: 2024-06-24T17:02:27+00:00
-
- ## Triton Center
- - [https://tritoncenter.ucsd.edu](https://tritoncenter.ucsd.edu)
- - date_published: 2024-09-17T20:02:27+00:00
-
- ## Triton CORE
- - [https://tritoncore.ucsd.edu](https://tritoncore.ucsd.edu)
- - date_published: 2024-03-14T13:57:23+00:00
-
- ## Billing & Payment
- - [https://tritonpay.ucsd.edu](https://tritonpay.ucsd.edu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Tritons Flourish
- - [https://tritonsflourish.ucsd.edu](https://tritonsflourish.ucsd.edu)
- - date_published: 2024-04-12T19:44:23+00:00
-
- ## California Voter Registration and Campus Election Information
- - [https://tritonsvote.ucsd.edu](https://tritonsvote.ucsd.edu)
- - date_published: 2024-10-12T07:19:31+00:00
-
- ## Triton Testing Center
- - [https://tritontesting.ucsd.edu](https://tritontesting.ucsd.edu)
- - date_published: 2024-04-12T15:34:58+00:00
-
- ## Two-Step Login
- - [https://twostep.ucsd.edu](https://twostep.ucsd.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## SINGLE SIGN-ON
- - [https://uclearning.ucsd.edu](https://uclearning.ucsd.edu)
- - date_published: 2024-09-13T18:36:53.486874+00:00
-
- ## UCPath
- - [https://ucpath.ucsd.edu](https://ucpath.ucsd.edu)
- - date_published: 2024-05-29T21:14:28+00:00
-
- ## University of California San Diego
- - [https://ucsd.edu](https://ucsd.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## UC San Diego Today
- - [https://ucsdnews.ucsd.edu](https://ucsdnews.ucsd.edu)
- - date_published: 2024-01-09T03:28:28.295212+00:00
-
- ## University of California San Diego
- - [https://ucsd.ucsd.edu](https://ucsd.ucsd.edu)
- - date_published: 2024-09-11T19:18:38+00:00
-
- ## Colleges Business Office
- - [https://ugcbo.ucsd.edu](https://ugcbo.ucsd.edu)
- - date_published: 2024-03-06T18:58:38+00:00
-
- ## Undergraduate Education
- - [https://undergrad.ucsd.edu](https://undergrad.ucsd.edu)
- - date_published: 2024-02-28T00:03:27+00:00
-
- ## University Communications
- - [https://univcomms.ucsd.edu](https://univcomms.ucsd.edu)
- - date_published: 2024-05-07T21:02:06.679262+00:00
-
- ## University Centers
- - [https://universitycenters.ucsd.edu](https://universitycenters.ucsd.edu)
- - date_published: 2024-10-11T20:32:48+00:00
-
- ## UC San Diego Updates
- - [https://updates.ucsd.edu](https://updates.ucsd.edu)
- - date_published: 2024-06-06T15:25:24+00:00
-
- ## SINGLE SIGN-ON
- - [https://vac.ucsd.edu](https://vac.ucsd.edu)
- - date_published: 2024-10-14T20:58:51.424906+00:00
-
- ## Vice Chancellor for Health Sciences
- - [https://vchs.ucsd.edu](https://vchs.ucsd.edu)
- - date_published: 2024-07-01T23:32:59+00:00
-
- ## University of California San Diego
- - [https://volunteer50.ucsd.edu](https://volunteer50.ucsd.edu)
- - date_published: 2024-10-11T17:42:26+00:00
-
- ## Website Offline
- - [https://web.eng.ucsd.edu](https://web.eng.ucsd.edu)
- - date_published: 2015-11-18T21:37:53+00:00
-
- ## Nadir Weibel | HXI - Human-centered eXtended Intelligence
- - [http://weibel.ucsd.edu](http://weibel.ucsd.edu)
- - date_published: 2024-07-02T13:36:23.609223+00:00
-
- ## Willo
- - [https://willo.ucsd.edu](https://willo.ucsd.edu)
- - date_published: 2024-10-01T18:45:31+00:00
-
- ## Women's Center
- - [https://women.ucsd.edu](https://women.ucsd.edu)
- - date_published: 2024-09-09T17:39:57+00:00
-
- ## Writing Hub
- - [https://writinghub.ucsd.edu](https://writinghub.ucsd.edu)
- - date_published: 2024-09-24T17:02:14+00:00
-
- ## IT Services
- - [http://www-act.ucsd.edu](http://www-act.ucsd.edu)
- - date_published: 2024-06-29T07:42:12+00:00
-
- ## Main Page - CASS
- - [http://www.cass.ucsd.edu](http://www.cass.ucsd.edu)
- - date_published: 2023-07-20T22:53:31+00:00
-
- ## Home | Computer Science
- - [http://www-cse.ucsd.edu](http://www-cse.ucsd.edu)
- - date_published: 2024-07-02T03:02:51.764985+00:00
-
- ## Home | Computer Science
- - [http://www.cs.ucsd.edu](http://www.cs.ucsd.edu)
- - date_published: 2024-07-03T07:10:49.060926+00:00
-
- ## SVCL - Statistical Visual Computing Lab
- - [http://www.svcl.ucsd.edu](http://www.svcl.ucsd.edu)
- - date_published: 2024-06-22T09:04:29.341370+00:00
-
- ## UC San Diego Commencement 2024
- - [https://yearbook.ucsd.edu](https://yearbook.ucsd.edu)
- - date_published: 2024-10-14T20:56:44.799190+00:00
-
- ## Sign in - Google Accounts
- - [https://zjia.eng.ucsd.edu](https://zjia.eng.ucsd.edu)
- - date_published: 2024-09-05T23:20:52.294279+00:00
-
- ## UCSF Alumni
- - [https://alumni.ucsf.edu](https://alumni.ucsf.edu)
- - date_published: 2024-06-28T20:51:47+00:00
-
- ## Home
- - [https://archesprogram.ucsf.edu](https://archesprogram.ucsf.edu)
- - date_published: 2024-07-02T01:52:38+00:00
-
- ## Home
- - [http://audit.ucsf.edu](http://audit.ucsf.edu)
- - date_published: 2024-07-02T01:47:38+00:00
-
- ## Basic Needs for Students
- - [https://basicneeds.ucsf.edu](https://basicneeds.ucsf.edu)
- - date_published: 2024-07-02T01:38:52+00:00
-
- ## Douglas Lab | Research
- - [https://bionano.ucsf.edu](https://bionano.ucsf.edu)
- - date_published: 2024-08-19T18:40:02+00:00
-
- ## Department of Bioengineering and Therapeutic Sciences
- - [https://bts.ucsf.edu](https://bts.ucsf.edu)
- - date_published: 2024-07-02T01:49:02+00:00
-
- ## LibCal -
-        University of California, San Francisco
- - [https://calendars.library.ucsf.edu](https://calendars.library.ucsf.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Events Calendar
- - [https://calendar.ucsf.edu](https://calendar.ucsf.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Home
- - [https://calm.ucsf.edu](https://calm.ucsf.edu)
- - date_published: 2024-06-17T12:12:58+00:00
-
- ## Campus Life Services | Campus Life Services
- - [https://campuslifeserviceshome.ucsf.edu](https://campuslifeserviceshome.ucsf.edu)
- - date_published: 2024-05-07T21:08:30.121576+00:00
-
- ## Campus Life Services
- - [https://campuslifeservices.ucsf.edu](https://campuslifeservices.ucsf.edu)
- - date_published: 2021-10-18T16:19:39+00:00
-
- ## Home | UCSF Helen Diller Family Comprehensive Cancer Center
- - [https://cancer.ucsf.edu](https://cancer.ucsf.edu)
- - date_published: 2024-07-01T23:47:43+00:00
-
- ## What We Do
- - [https://careadvocate.ucsf.edu](https://careadvocate.ucsf.edu)
- - date_published: 2024-07-02T01:40:40+00:00
-
- ## Home
- - [https://career.ucsf.edu](https://career.ucsf.edu)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Welcome to the General Catalog of the University of California, San Francisco | UC San Francisco
- - [https://catalog.ucsf.edu](https://catalog.ucsf.edu)
- - date_published: 2024-05-07T21:09:22.619700+00:00
-
- ## Home | Office of the Chancellor
- - [https://chancellor.ucsf.edu](https://chancellor.ucsf.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Department of Clinical Pharmacy
- - [https://clinicalpharmacy.ucsf.edu](https://clinicalpharmacy.ucsf.edu)
- - date_published: 2024-07-02T01:49:11+00:00
-
- ## Clinical Trials at UCSF
- - [https://clinicaltrials.ucsf.edu](https://clinicaltrials.ucsf.edu)
- - date_published: 2024-05-07T21:09:34.197296+00:00
-
- ## Welcome
- - [https://compliance.ucsf.edu](https://compliance.ucsf.edu)
- - date_published: 2024-07-02T01:50:37+00:00
-
- ## COVID-19 Resources
- - [https://coronavirus.ucsf.edu](https://coronavirus.ucsf.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## University of California, San Francisco - MyAccess - Loading Session Information
- - [https://courses.learning.ucsf.edu](https://courses.learning.ucsf.edu)
- - date_published: 2024-07-02T02:02:29.299563+00:00
-
- ## CLE Home | UCSF-CLE
- - [https://courses.ucsf.edu](https://courses.ucsf.edu)
- - date_published: 2024-07-02T01:55:00+00:00
-
- ## Home
- - [https://covidresearch.ucsf.edu](https://covidresearch.ucsf.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## What We Do
- - [https://cseo.ucsf.edu](https://cseo.ucsf.edu)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## UCSF Clinical &amp; Translational Science Institute
- - [https://ctsi.ucsf.edu](https://ctsi.ucsf.edu)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Center for Vulnerable Populations at ZSFG | Center for Vulnerable Populations
- - [https://cvp.ucsf.edu](https://cvp.ucsf.edu)
- - date_published: 2024-07-02T01:53:04+00:00
-
- ## Home | School of Dentistry
- - [https://dentistry.ucsf.edu](https://dentistry.ucsf.edu)
- - date_published: 2024-05-07T21:09:37.870275+00:00
-
- ## Engagement | Learning & Organization Development
- - [https://devlearning.ucsf.edu](https://devlearning.ucsf.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## UCSF Directory
- - [https://directory.ucsf.edu](https://directory.ucsf.edu)
- - date_published: 2024-05-07T21:09:41.945405+00:00
-
- ## Welcome to the Office of Disability Access and Inclusion
- - [https://disability.ucsf.edu](https://disability.ucsf.edu)
- - date_published: 2024-07-02T01:33:20+00:00
-
- ## Homepage | Office of Diversity and Outreach UCSF
- - [https://diversity.ucsf.edu](https://diversity.ucsf.edu)
- - date_published: 2024-05-07T21:09:29.897306+00:00
-
- ## Sign In
- - [https://email.ucsf.edu](https://email.ucsf.edu)
- - date_published: 2024-05-07T21:09:17.604072+00:00
-
- ## Home
- - [https://emergency.ucsf.edu](https://emergency.ucsf.edu)
- - date_published: 2024-07-02T01:54:11+00:00
-
- ## Home
- - [https://engineering.ucsf.edu](https://engineering.ucsf.edu)
- - date_published: 2024-07-02T01:52:36+00:00
-
- ## Welcome
- - [https://epibiostat.ucsf.edu](https://epibiostat.ucsf.edu)
- - date_published: 2024-07-02T01:53:07+00:00
-
- ## EVCP Organization | Executive Vice Chancellor & Provost
- - [https://evcprovost.ucsf.edu](https://evcprovost.ucsf.edu)
- - date_published: 2024-05-07T21:09:06.650556+00:00
-
- ## Home | Office of Faculty and Academic Affairs
- - [https://facultyacademicaffairs.ucsf.edu](https://facultyacademicaffairs.ucsf.edu)
- - date_published: 2024-07-02T01:29:22+00:00
-
- ## About Our Services
- - [https://fas.ucsf.edu](https://fas.ucsf.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## UCSF Student Financial Services
- - [https://finaid.ucsf.edu](https://finaid.ucsf.edu)
- - date_published: 2024-05-07T21:08:08.320300+00:00
-
- ## Home
- - [http://finance.ucsf.edu](http://finance.ucsf.edu)
- - date_published: 2024-07-02T01:49:53+00:00
-
- ## First Generation Support Services
- - [http://firstgen.ucsf.edu](http://firstgen.ucsf.edu)
- - date_published: 2024-07-02T01:40:28+00:00
-
- ## Your gift can ignite discovery and inspire cures
- - [https://giving.ucsf.edu](https://giving.ucsf.edu)
- - date_published: 2024-05-07T21:08:41.367080+00:00
-
- ## UCSF Institute for Global Health Sciences | Institute for Global Health Sciences
- - [https://globalhealthsciences.ucsf.edu](https://globalhealthsciences.ucsf.edu)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Graduate &amp; Professional Student Association
- - [http://gpsa.ucsf.edu](http://gpsa.ucsf.edu)
- - date_published: 2024-07-02T01:40:09+00:00
-
- ## UC San Francisco Graduate Division
- - [https://graduate.ucsf.edu](https://graduate.ucsf.edu)
- - date_published: 2024-05-07T21:09:36.451286+00:00
-
- ## UCSF Guides
- - [http://guides.ucsf.edu](http://guides.ucsf.edu)
- - date_published: 2024-07-02T01:55:06.742733+00:00
-
- ## Home
- - [https://healthcarefacilitators.ucsf.edu](https://healthcarefacilitators.ucsf.edu)
- - date_published: 2024-07-02T02:02:04+00:00
-
- ## Home - UCSF - Service Portal
- - [https://help.ucsf.edu](https://help.ucsf.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Home | Benioff Homelessness and Housing Initiative
- - [https://homelessness.ucsf.edu](https://homelessness.ucsf.edu)
- - date_published: 2025-01-06T12:06:46+00:00
-
- ## UCSF Human Resources | UCSF Human Resources
- - [https://hr.ucsf.edu](https://hr.ucsf.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://identity.ucsf.edu](https://identity.ucsf.edu)
- - date_published: 2024-05-07T21:09:27.329315+00:00
-
- ## About Us
- - [https://innovation.ucsf.edu](https://innovation.ucsf.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Homepage | intelligent imaging
- - [https://intelligentimaging.ucsf.edu](https://intelligentimaging.ucsf.edu)
- - date_published: 2024-09-01T11:16:27+00:00
-
- ## PIPE
- - [https://interprofessional.ucsf.edu](https://interprofessional.ucsf.edu)
- - date_published: 2024-07-02T01:52:29+00:00
-
- ## Home
- - [http://isso.ucsf.edu](http://isso.ucsf.edu)
- - date_published: 2024-07-02T01:36:46+00:00
-
- ## Home | UCSF IT
- - [https://it.ucsf.edu](https://it.ucsf.edu)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Executive Leadership Support Network (ELSN)
- - [https://leadershipsupport.ucsf.edu](https://leadershipsupport.ucsf.edu)
- - date_published: 2024-07-02T01:41:07+00:00
-
- ## Learning Resource Services
- - [http://learn.ucsf.edu](http://learn.ucsf.edu)
- - date_published: 2024-07-02T01:40:38+00:00
-
- ## Office of Legal Affairs
- - [https://legal.ucsf.edu](https://legal.ucsf.edu)
- - date_published: 2024-05-07T21:09:13.745970+00:00
-
- ## Welcome to the LGBT Resource Center
- - [http://lgbt.ucsf.edu](http://lgbt.ucsf.edu)
- - date_published: 2024-07-02T01:38:37+00:00
-
- ## UCSF Library Help Center
- - [https://libraryhelp.ucsf.edu](https://libraryhelp.ucsf.edu)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Home - UCSF Library
- - [https://library.ucsf.edu](https://library.ucsf.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## UCSF Magazine
- - [https://magazine.ucsf.edu](https://magazine.ucsf.edu)
- - date_published: 2024-05-07T21:09:44.345297+00:00
-
- ## Your gift can ignite discovery and inspire cures
- - [https://makeagift.ucsf.edu](https://makeagift.ucsf.edu)
- - date_published: 2024-07-02T01:40:52.391257+00:00
-
- ## UCSF Medical Education Home | UCSF Medical Education
- - [https://meded.ucsf.edu](https://meded.ucsf.edu)
- - date_published: 2024-07-02T00:18:19+00:00
-
- ## Home | UCSF School of Medicine
- - [https://medschool.ucsf.edu](https://medschool.ucsf.edu)
- - date_published: 2024-05-07T21:09:09.026443+00:00
-
- ## Welcome to the Multicultural Resource Center
- - [http://mrc.ucsf.edu](http://mrc.ucsf.edu)
- - date_published: 2024-07-02T01:40:14+00:00
-
- ## UCSF Mass Spectrometry Facility
- - [http://msf.ucsf.edu](http://msf.ucsf.edu)
- - date_published: 2024-02-22T19:59:17+00:00
-
- ## University of California, San Francisco - MyAccess - Loading Session Information
- - [https://myaccess.ucsf.edu](https://myaccess.ucsf.edu)
- - date_published: 2024-05-07T21:08:39.463840+00:00
-
- ## MyFamily at UCSF
- - [https://myfamily.ucsf.edu](https://myfamily.ucsf.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## University of California, San Francisco - MyAccess - Loading Session Information
- - [https://netpartner.ucsf.edu](https://netpartner.ucsf.edu)
- - date_published: 2024-07-02T01:48:41.626403+00:00
-
- ## Home
- - [https://neurosurgery.ucsf.edu](https://neurosurgery.ucsf.edu)
- - date_published: 2024-07-02T01:35:56+00:00
-
- ## Home
- - [https://nic.ucsf.edu](https://nic.ucsf.edu)
- - date_published: 2024-05-02T10:08:50.424455+00:00
-
- ## Home | UCSF School of Nursing
- - [https://nursing.ucsf.edu](https://nursing.ucsf.edu)
- - date_published: 2024-05-07T21:09:24.970801+00:00
-
- ## Home
- - [http://ombuds.ucsf.edu](http://ombuds.ucsf.edu)
- - date_published: 2024-07-02T01:39:56+00:00
-
- ## Welcome to the Office for the Prevention of Harassment and Discrimination (OPHD)
- - [https://ophd.ucsf.edu](https://ophd.ucsf.edu)
- - date_published: 2024-07-02T01:50:16+00:00
-
- ## OCPD Opportunities and Job Board
- - [https://opportunities.ucsf.edu](https://opportunities.ucsf.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## PAB at UCSF
- - [https://pab.ucsf.edu](https://pab.ucsf.edu)
- - date_published: 2024-07-02T01:54:14+00:00
-
- ## Center for Community Engagement
- - [https://partnerships.ucsf.edu](https://partnerships.ucsf.edu)
- - date_published: 2024-07-02T01:52:57+00:00
-
- ## The Tudors
- - [https://pcounterwebdeposit.ucsf.edu](https://pcounterwebdeposit.ucsf.edu)
- - date_published: 2023-03-12T15:09:12+00:00
-
- ## UCSF School of Pharmacy
- - [https://pharmacy.ucsf.edu](https://pharmacy.ucsf.edu)
- - date_published: 2024-05-07T21:08:11.071638+00:00
-
- ## Department of Pharmaceutical Chemistry
- - [https://pharmchem.ucsf.edu](https://pharmchem.ucsf.edu)
- - date_published: 2024-07-02T01:49:08+00:00
-
- ## PharmD Degree Program
- - [https://pharmd.ucsf.edu](https://pharmd.ucsf.edu)
- - date_published: 2024-07-02T01:48:39+00:00
-
- ## List of Sites
- - [https://pharm.ucsf.edu](https://pharm.ucsf.edu)
- - date_published: 2024-07-02T01:40:39+00:00
-
- ## UCSF Brand Portal
- - [https://photolibrary.ucsf.edu](https://photolibrary.ucsf.edu)
- - date_published: 2024-07-02T01:49:48.240505+00:00
-
- ## The Power of In-House Consulting
- - [https://pmo.ucsf.edu](https://pmo.ucsf.edu)
- - date_published: 2024-07-02T01:50:04+00:00
-
- ## Home
- - [https://police.ucsf.edu](https://police.ucsf.edu)
- - date_published: 2024-05-07T21:08:45.814832+00:00
-
- ## Home | Campus Administrative Policies
- - [https://policies.ucsf.edu](https://policies.ucsf.edu)
- - date_published: 2024-05-07T21:08:12.703899+00:00
-
- ## Home
- - [https://pophealth.ucsf.edu](https://pophealth.ucsf.edu)
- - date_published: 2024-07-02T01:53:17+00:00
-
- ## UCSF Postdocs
- - [https://postdocs.ucsf.edu](https://postdocs.ucsf.edu)
- - date_published: 2024-05-07T21:08:43.275417+00:00
-
- ## UCSF Profiles • Find/collaborate with leading health researchers
- - [https://profiles.ucsf.edu](https://profiles.ucsf.edu)
- - date_published: 2024-05-07T21:08:27.094538+00:00
-
- ## Welcome!
- - [https://pssp.ucsf.edu](https://pssp.ucsf.edu)
- - date_published: 2024-07-02T01:49:42+00:00
-
- ## UCSF Department of Psychiatry and Behavioral Sciences
- - [https://psychiatry.ucsf.edu](https://psychiatry.ucsf.edu)
- - date_published: 2024-07-02T01:38:57+00:00
-
- ## Welcome to the UCSF Psychiatry Intranet | UCSF Psychiatry and Behavioral Sciences Intranet
- - [http://psychintranet.ucsf.edu](http://psychintranet.ucsf.edu)
- - date_published: 2024-07-02T00:45:03+00:00
-
- ## UCSF Department of Psychiatry and Behavioral Sciences
- - [https://psych.ucsf.edu](https://psych.ucsf.edu)
- - date_published: 2024-05-07T21:08:51.999465+00:00
-
- ## UCSF Department of Physical Therapy and Rehabilitation Science
- - [https://ptrehab.ucsf.edu](https://ptrehab.ucsf.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home · Quantitative Biosciences Consortium (QBC)
- - [https://qbc.ucsf.edu](https://qbc.ucsf.edu)
- - date_published: 2024-07-02T01:20:29+00:00
-
- ## QBI | https://qbi.ucsf.edu/Home
- - [https://qbi.ucsf.edu](https://qbi.ucsf.edu)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Welcome
- - [http://rajlab.ucsf.edu](http://rajlab.ucsf.edu)
- - date_published: 2024-09-03T21:48:20+00:00
-
- ## Home
- - [https://realestate.ucsf.edu](https://realestate.ucsf.edu)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## HomePage
- - [https://registrar.ucsf.edu](https://registrar.ucsf.edu)
- - date_published: 2024-05-07T21:08:54.318403+00:00
-
- ## Home
- - [https://research.ucsf.edu](https://research.ucsf.edu)
- - date_published: 2024-05-07T21:09:46.218415+00:00
-
- ## Restorative Justice Practices at UCSF
- - [https://restorativejustice.ucsf.edu](https://restorativejustice.ucsf.edu)
- - date_published: 2024-07-02T01:40:21+00:00
-
- ## Supporting Cores &amp; Shared Resource Laboratories
- - [https://rrp.ucsf.edu](https://rrp.ucsf.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Rx for Change: Home
- - [https://rxforchange.ucsf.edu](https://rxforchange.ucsf.edu)
- - date_published: 2024-07-02T01:48:50.613632+00:00
-
- ## Student Academic Affairs
- - [https://saa.ucsf.edu](https://saa.ucsf.edu)
- - date_published: 2024-07-02T01:35:55+00:00
-
- ## Shibboleth Authentication Request
- - [http://scholar.ucsf.edu](http://scholar.ucsf.edu)
- - date_published: 2024-07-02T01:54:55.724491+00:00
-
- ## HOME
- - [http://sds.ucsf.edu](http://sds.ucsf.edu)
- - date_published: 2024-07-02T01:37:17+00:00
-
- ## UCSF School of Medicine Vice Dean's Office at ZSFG
- - [http://sfgh.ucsf.edu](http://sfgh.ucsf.edu)
- - date_published: 2024-07-02T01:48:38+00:00
-
- ## Welcome to the Office for the Prevention of Harassment and Discrimination (OPHD)
- - [https://shpr.ucsf.edu](https://shpr.ucsf.edu)
- - date_published: 2024-07-02T01:50:16+00:00
-
- ## Welcome to the UCSF Center for ASD and NDDs | The UCSF Center for ASD and NDDs
- - [https://star.ucsf.edu](https://star.ucsf.edu)
- - date_published: 2024-07-02T00:24:10+00:00
-
- ## Student Academic Affairs
- - [http://studentaffairs.ucsf.edu](http://studentaffairs.ucsf.edu)
- - date_published: 2024-07-02T01:40:12+00:00
-
- ## Student Life
- - [https://studentlife.ucsf.edu](https://studentlife.ucsf.edu)
- - date_published: 2024-07-02T01:40:16+00:00
-
- ## Welcome to Student Mental Health and Wellbeing
- - [https://studentmentalhealth.ucsf.edu](https://studentmentalhealth.ucsf.edu)
- - date_published: 2024-07-02T01:34:51+00:00
-
- ## HOME
- - [https://success.ucsf.edu](https://success.ucsf.edu)
- - date_published: 2024-05-07T21:07:48.715308+00:00
-
- ## Home Page
- - [http://synapse.ucsf.edu](http://synapse.ucsf.edu)
- - date_published: 2024-07-01T19:46:38+00:00
-
- ## tiny.ucsf.edu home
- - [https://tiny.ucsf.edu](https://tiny.ucsf.edu)
- - date_published: 2024-07-02T01:55:11.626802+00:00
-
- ## Home | UCSF Together
- - [https://together.ucsf.edu](https://together.ucsf.edu)
- - date_published: 2024-05-07T21:07:53.774272+00:00
-
- ## Learning &amp; Organization Development
- - [https://training.ucsf.edu](https://training.ucsf.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## UCSF Climate
- - [https://ucsfclimate.ucsf.edu](https://ucsfclimate.ucsf.edu)
- - date_published: 2024-07-02T01:54:02+00:00
-
- ## Home | UC San Francisco
- - [https://ucsf.edu](https://ucsf.edu)
- - date_published: 2023-10-25T19:01:18.504331+00:00
-
- ## What We Do
- - [https://undocu.ucsf.edu](https://undocu.ucsf.edu)
- - date_published: 2024-07-02T01:40:18+00:00
-
- ## Shibboleth Authentication Request
- - [https://uptodate.ucsf.edu](https://uptodate.ucsf.edu)
- - date_published: 2024-07-02T01:54:53.644796+00:00
-
- ## Vale_Lab_Homepage
- - [http://valelab4.ucsf.edu](http://valelab4.ucsf.edu)
- - date_published: 2014-11-04T23:17:09+00:00
-
- ## Welcome
- - [http://veterans.ucsf.edu](http://veterans.ucsf.edu)
- - date_published: 2024-07-02T01:40:07+00:00
-
- ## Homepage
- - [https://websites.ucsf.edu](https://websites.ucsf.edu)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Industry Documents Library
- - [https://www.industrydocuments.ucsf.edu](https://www.industrydocuments.ucsf.edu)
- - date_published: 2024-06-30T02:47:42.092119+00:00
-
- ## RBVI Home Page
- - [https://www.rbvi.ucsf.edu](https://www.rbvi.ucsf.edu)
- - date_published: 2019-03-08T00:26:55+00:00
-
- ## Home
- - [https://gradweb.ucumberlands.edu](https://gradweb.ucumberlands.edu)
- - date_published: 2024-02-08T17:58:04.593788+00:00
-
- ## Home
- - [https://ucumberlands.edu](https://ucumberlands.edu)
- - date_published: 2024-05-07T21:10:08.991388+00:00
-
- ## Events Calendar
- - [https://calendar.udallas.edu](https://calendar.udallas.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## U of Dallas | Continuing Ed
- - [https://continuinged.udallas.edu](https://continuinged.udallas.edu)
- - date_published: 2024-09-18T08:32:21.717071+00:00
-
- ## University of Dallas News - American Council of Trustees and Alumni
- - [https://news.udallas.edu](https://news.udallas.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Tower Magazine | University of Dallas
- - [https://tower.udallas.edu](https://tower.udallas.edu)
- - date_published: 2024-09-18T07:15:18+00:00
-
- ## University of Dallas - The Catholic University for Independent Thinkers
- - [https://udallas.edu](https://udallas.edu)
- - date_published: 2024-05-01T03:33:02.211564+00:00
-
- ## Office of Development and University Relations
- - [https://udrelations.udallas.edu](https://udrelations.udallas.edu)
- - date_published: 2024-09-18T08:32:47.945319+00:00
-
- ## University of Dayton : University of Dayton, Ohio
- - [https://udayton.edu](https://udayton.edu)
- - date_published: 2024-12-12T14:35:28.583264+00:00
-
- ## Index Page - EECIS Accounts System
- - [https://accounts.eecis.udel.edu](https://accounts.eecis.udel.edu)
- - date_published: 2024-09-02T10:41:12.174055+00:00
-
- ## Home - Advising Central
- - [https://advising.udel.edu](https://advising.udel.edu)
- - date_published: 2024-05-07T21:10:50.020124+00:00
-
- ## Ask the Library - Ask the Library
- - [https://ask.lib.udel.edu](https://ask.lib.udel.edu)
- - date_published: 2024-07-02T02:03:48.243088+00:00
-
- ## College of Agriculture & Natural Resources | University of Delaware
- - [http://canr.udel.edu](http://canr.udel.edu)
- - date_published: 2024-07-01T22:57:57+00:00
-
- ## University of Delaware
- - [https://cas.nss.udel.edu](https://cas.nss.udel.edu)
- - date_published: 2018-01-11T20:27:17+00:00
-
- ## DSpace Repository :: Home
- - [http://dspace.udel.edu](http://dspace.udel.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Events Calendar - University of Delaware
- - [https://events.udel.edu](https://events.udel.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Library, Museums and Press – Online Exhibitions
- - [https://exhibitions.lib.udel.edu](https://exhibitions.lib.udel.edu)
- - date_published: 2024-07-02T02:04:14.498023+00:00
-
- ## Faculty Handbook | Faculty Senate
- - [https://facultyhandbook.udel.edu](https://facultyhandbook.udel.edu)
- - date_published: 2024-07-02T01:52:44+00:00
-
- ## Finding Aids for Archival Collections | Finding Aids for Archival Collections
- - [https://findingaids.lib.udel.edu](https://findingaids.lib.udel.edu)
- - date_published: 2024-07-02T02:04:23.381436+00:00
-
- ## University of Delaware Graduate College | Graduate College | University of Delaware
- - [https://grad.udel.edu](https://grad.udel.edu)
- - date_published: 2024-05-07T21:10:33.985298+00:00
-
- ## Research Guides
- - [http://guides.lib.udel.edu](http://guides.lib.udel.edu)
- - date_published: 2024-07-02T02:04:05.591529+00:00
-
- ## UD Library, Museums and Press
- - [https://library.udel.edu](https://library.udel.edu)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Lerner College Intranet – University of Delaware
- - [https://my.lerner.udel.edu](https://my.lerner.udel.edu)
- - date_published: 2024-07-02T02:06:02.980467+00:00
-
- ## My UD
- - [https://my.udel.edu](https://my.udel.edu)
- - date_published: 2024-05-07T21:10:20.790392+00:00
-
- ## Online Degree Programs | University of Delaware
- - [https://online.udel.edu](https://online.udel.edu)
- - date_published: 2024-05-07T21:10:28.553956+00:00
-
- ## Home - University of Delaware Div. of Professional and Continuing Studies
- - [https://pcs.udel.edu](https://pcs.udel.edu)
- - date_published: 2024-05-07T21:10:35.232512+00:00
-
- ## University of Delaware Research Office
- - [https://research.udel.edu](https://research.udel.edu)
- - date_published: 2024-05-07T21:10:45.959700+00:00
-
- ## Service Portal Home
- - [https://services.udel.edu](https://services.udel.edu)
- - date_published: 2024-07-02T02:04:45.918512+00:00
-
- ## WordPress at UD |
- - [https://sites.udel.edu](https://sites.udel.edu)
- - date_published: 2024-05-07T21:10:31.254051+00:00
-
- ## ECE/CIS
- - [https://staff.eecis.udel.edu](https://staff.eecis.udel.edu)
- - date_published: 2024-08-16T19:42:00+00:00
-
- ## University of Delaware Central Authentication Service - Login
- - [http://staffweb.lib.udel.edu](http://staffweb.lib.udel.edu)
- - date_published: 2024-07-02T02:03:51.897412+00:00
-
- ## UD Capture | University of Delaware
- - [https://udcapture.udel.edu](https://udcapture.udel.edu)
- - date_published: 2024-07-02T01:47:18+00:00
-
- ## University of Delaware
- - [https://udel.edu](https://udel.edu)
- - date_published: 2023-12-23T17:33:38.138635+00:00
-
- ## UDLib/SEARCH
- - [https://udlibsearch.lib.udel.edu](https://udlibsearch.lib.udel.edu)
- - date_published: 2024-07-02T02:04:03.027418+00:00
-
- ## University of Delaware Press
- - [https://udpress.udel.edu](https://udpress.udel.edu)
- - date_published: 2024-07-02T02:03:49.757729+00:00
-
- ## DSpace Repository :: Home
- - [https://udspace.udel.edu](https://udspace.udel.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## | University Studies
- - [http://ust.udel.edu](http://ust.udel.edu)
- - date_published: 2024-07-02T02:05:58.798849+00:00
-
- ## Writing Center
- - [https://writingcenter.udel.edu](https://writingcenter.udel.edu)
- - date_published: 2024-07-02T02:05:02+00:00
-
- ## University of Delaware
- - [https://www1.udel.edu](https://www1.udel.edu)
- - date_published: 2024-05-07T21:10:24.567419+00:00
-
- ## AAP
- - [https://www.aap.udel.edu](https://www.aap.udel.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Joseph R. Biden, Jr. School of Public Policy & Administration
- - [https://www.bidenschool.udel.edu](https://www.bidenschool.udel.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## College of Arts & Sciences
- - [https://www.cas.udel.edu](https://www.cas.udel.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Center for Composite Materials - University of Delaware
- - [https://www.ccm.udel.edu](https://www.ccm.udel.edu)
- - date_published: 2024-07-02T02:05:05.336896+00:00
-
- ## Home - College of Education & Human Development
- - [http://www.cehd.udel.edu](http://www.cehd.udel.edu)
+ ## Northeastern Online | Northeastern University
+ - [https://online.northeastern.edu](https://online.northeastern.edu)
  - date_published: 2024-04-23T00:00:00+00:00
 
- ## College of Earth, Ocean & Environment | University of Delaware
- - [http://www.ceoe.udel.edu](http://www.ceoe.udel.edu)
- - date_published: 2024-07-01T22:58:22+00:00
+ ## Northeastern University Site – Your SUPER-powered WP Engine Site
+ - [https://partnerships.northeastern.edu](https://partnerships.northeastern.edu)
+ - date_published: 2024-06-16T22:49:26.720655+00:00
 
- ## Computer & Information Sciences at the University of Delaware
- - [https://www.cis.udel.edu](https://www.cis.udel.edu)
- - date_published: 2024-08-30T00:00:00+00:00
+ ## PhD Graduate Education at Northeastern University
+ - [https://phd.northeastern.edu](https://phd.northeastern.edu)
+ - date_published: 2024-06-16T22:49:59.199226+00:00
 
- ## Home | Electrical & Computer Engineering
- - [http://www.ece.udel.edu](http://www.ece.udel.edu)
- - date_published: 2024-09-02T10:41:10.359822+00:00
+ ## Policies | Northeastern University Policies
+ - [https://policies.northeastern.edu](https://policies.northeastern.edu)
+ - date_published: 2024-10-14T21:30:33+00:00
 
- ## ECE/CIS
- - [https://www.eecis.udel.edu](https://www.eecis.udel.edu)
- - date_published: 2024-05-24T22:39:08.772559+00:00
+ ## Portfolio Template – Just another Sites at Northeastern site
+ - [https://portfolio-template.sites.northeastern.edu](https://portfolio-template.sites.northeastern.edu)
+ - date_published: 2024-10-15T06:27:06.269502+00:00
 
- ## UD College of Engineering
- - [http://www.engr.udel.edu](http://www.engr.udel.edu)
- - date_published: 2024-06-07T00:00:00+00:00
+ ## Accelerate Pre-College Programs
+ - [https://precollegeprograms.northeastern.edu](https://precollegeprograms.northeastern.edu)
+ - date_published: 2024-10-14T22:08:49+00:00
 
- ## OEIP | University of Delaware
- - [http://www.oeip.udel.edu](http://www.oeip.udel.edu)
- - date_published: 2024-07-01T23:40:16+00:00
+ ## President Joseph E. Aoun | Northeastern University
+ - [https://president.northeastern.edu](https://president.northeastern.edu)
+ - date_published: 2024-06-16T22:49:21.379359+00:00
 
- ## Join us at OLLI! - Osher Lifelong Learning Institute %
- - [https://www.olli.udel.edu](https://www.olli.udel.edu)
- - date_published: 2024-05-20T00:00:00+00:00
+ ## Home - Programming Research Laboratory - Northeastern University
+ - [https://prl.khoury.northeastern.edu](https://prl.khoury.northeastern.edu)
+ - date_published: 2023-10-25T18:55:46.864652+00:00
 
- ## Home - Undergraduate Research Program
- - [https://www.urp.udel.edu](https://www.urp.udel.edu)
+ ## Northeastern Provost – Office of the Provost
+ - [https://provost.northeastern.edu](https://provost.northeastern.edu)
+ - date_published: 2024-06-16T22:49:30.041108+00:00
+
+ ## Home - Public Art at Northeastern
+ - [https://publicart.northeastern.edu](https://publicart.northeastern.edu)
+ - date_published: 2024-06-16T14:10:08+00:00
+
+ ## University Recreation | Sites at Northeastern
+ - [https://recreation.northeastern.edu](https://recreation.northeastern.edu)
+ - date_published: 2024-06-16T22:45:34+00:00
+
+ ## Office of the University Registrar at Northeastern University
+ - [https://registrar.northeastern.edu](https://registrar.northeastern.edu)
+ - date_published: 2024-06-16T22:49:35.929401+00:00
+
+ ## DRS
+ - [https://repository.library.northeastern.edu](https://repository.library.northeastern.edu)
+ - date_published: 2024-08-18T17:50:37.881039+00:00
+
+ ## Research Development | Sites at Northeastern
+ - [https://resdev.northeastern.edu](https://resdev.northeastern.edu)
+ - date_published: 2024-10-15T06:09:00+00:00
+
+ ## Research at Northeastern
+ - [https://research.northeastern.edu](https://research.northeastern.edu)
+ - date_published: 2024-06-16T22:50:03.939025+00:00
+
+ ## Risk Services | Sites at Northeastern
+ - [https://risk-services.sites.northeastern.edu](https://risk-services.sites.northeastern.edu)
+ - date_published: 2024-10-15T06:33:43+00:00
+
+ ## Robot-Proof
+ - [https://robotproof.sites.northeastern.edu](https://robotproof.sites.northeastern.edu)
+ - date_published: 2024-10-15T06:31:47.030106+00:00
+
+ ## Home
+ - [https://roux.northeastern.edu](https://roux.northeastern.edu)
+ - date_published: 2024-06-16T22:49:07.395972+00:00
+
+ ## Make an Impact | Northeastern University in Silicon Valley
+ - [https://sanjose.northeastern.edu](https://sanjose.northeastern.edu)
+ - date_published: 2025-02-02T08:16:25.480062+00:00
+
+ ## Northeastern University in Seattle | Regional Campus
+ - [https://seattle.northeastern.edu](https://seattle.northeastern.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Northeastern University - Welcome
+ - [https://service.northeastern.edu](https://service.northeastern.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Make an Impact | Northeastern University in Silicon Valley
+ - [https://siliconvalley.northeastern.edu](https://siliconvalley.northeastern.edu)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Sites at Northeastern – Northeastern University Websites
+ - [https://sites-dev.northeastern.edu](https://sites-dev.northeastern.edu)
+ - date_published: 2024-10-15T06:26:56.784400+00:00
+
+ ## Sites at Northeastern – Northeastern University Websites
+ - [https://sites.northeastern.edu](https://sites.northeastern.edu)
+ - date_published: 2024-06-22T09:42:13+00:00
+
+ ## Spaces at Northeastern
+ - [https://spaces.sites.northeastern.edu](https://spaces.sites.northeastern.edu)
+ - date_published: 2024-07-01T16:31:59+00:00
+
+ ## Northeastern University Sports Performance
+ - [https://sportsperformance.sites.northeastern.edu](https://sportsperformance.sites.northeastern.edu)
+ - date_published: 2024-10-15T06:29:04.436357+00:00
+
+ ## The Strategic Plan | Sites at Northeastern
+ - [https://strategicplan.northeastern.edu](https://strategicplan.northeastern.edu)
+ - date_published: 2024-10-15T05:25:17+00:00
+
+ ## Student Financial Services
+ - [https://studentfinance.northeastern.edu](https://studentfinance.northeastern.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## | Student Life
+ - [https://studentlife.bayarea.northeastern.edu](https://studentlife.bayarea.northeastern.edu)
+ - date_published: 2024-10-15T06:34:59.219440+00:00
+
+ ## Homepage - NU Student Life
+ - [https://studentlife.northeastern.edu](https://studentlife.northeastern.edu)
+ - date_published: 2023-02-09T00:00:00+00:00
+
+ ## Student Life Seattle | Student Subtitle
+ - [https://studentlifeseattle.sites.northeastern.edu](https://studentlifeseattle.sites.northeastern.edu)
+ - date_published: 2024-10-15T06:34:16.816698+00:00
+
+ ## | Student Life
+ - [https://studentlife.sites.northeastern.edu](https://studentlife.sites.northeastern.edu)
+ - date_published: 2024-10-15T06:35:18+00:00
+
+ ## Startup Space @ Silicon Valley
+ - [https://svstartupspace.sites.northeastern.edu](https://svstartupspace.sites.northeastern.edu)
+ - date_published: 2024-10-15T06:34:57.303546+00:00
+
+ ## Northeastern University—Toronto
+ - [https://toronto.northeastern.edu](https://toronto.northeastern.edu)
+ - date_published: 2024-06-16T22:49:52.144747+00:00
+
+ ## Global Safety and Support | Sites at Northeastern
+ - [https://travel.sites.northeastern.edu](https://travel.sites.northeastern.edu)
+ - date_published: 2024-10-15T06:33:35.718833+00:00
+
+ ## Undergraduate Admissions | Sites at Northeastern
+ - [https://ug-admissions.sites.northeastern.edu](https://ug-admissions.sites.northeastern.edu)
+ - date_published: 2024-10-14T22:08:47.439519+00:00
+
+ ## Undergraduate Education
+ - [https://undergraduate.northeastern.edu](https://undergraduate.northeastern.edu)
+ - date_published: 2024-06-16T22:49:25.333909+00:00
+
+ ## Northeastern University | Vancouver
+ - [https://vancouver.northeastern.edu](https://vancouver.northeastern.edu)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Home - Northeastern University
+ - [https://web.northeastern.edu](https://web.northeastern.edu)
+ - date_published: 2024-10-15T06:29:06.353009+00:00
+
+ ## Home - Khoury College of Computer Sciences
+ - [http://www.ccis.northeastern.edu](http://www.ccis.northeastern.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Northern State University In Aberdeen, South Dakota
+ - [http://www.northern.edu](http://www.northern.edu)
+ - date_published: 2024-07-14T14:48:14.229717+00:00
+
+ ## Northwell Alumni Network
+ - [https://alumni.northwell.edu](https://alumni.northwell.edu)
+ - date_published: 2024-07-01T16:27:32.822319+00:00
+
+ ## Cancer Institute | Northwell Health
+ - [https://cancer.northwell.edu](https://cancer.northwell.edu)
+ - date_published: 2024-07-01T15:43:43+00:00
+
+ ## Northwell Health DAM
+ - [https://dam.northwell.edu](https://dam.northwell.edu)
+ - date_published: 2024-05-07T19:48:21.689722+00:00
+
+ ## Feinstein Institutes for Medical Research | Northwell Health
+ - [https://feinstein.northwell.edu](https://feinstein.northwell.edu)
+ - date_published: 2023-10-25T18:55:49.028133+00:00
+
+ ## Homepage | Northwell Health Foundation
+ - [https://give.northwell.edu](https://give.northwell.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Cardiovascular Institute | Northwell Health
+ - [https://heart.northwell.edu](https://heart.northwell.edu)
+ - date_published: 2024-06-26T20:48:22+00:00
+
+ ## Northwell Health Jobs - Northwell Careers
+ - [https://jobs.northwell.edu](https://jobs.northwell.edu)
+ - date_published: 2024-05-07T19:48:24.034891+00:00
+
+ ## Northwell Health
+ - [https://northwell.edu](https://northwell.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Cohen Children's, a part of Northwell Health
+ - [https://pediatrics.northwell.edu](https://pediatrics.northwell.edu)
+ - date_published: 2024-06-26T20:55:10+00:00
+
+ ## For Physicians | Northwell Health
+ - [https://physicians.northwell.edu](https://physicians.northwell.edu)
+ - date_published: 2024-06-26T20:48:38+00:00
+
+ ## For professionals | Northwell Health
+ - [https://professionals.northwell.edu](https://professionals.northwell.edu)
+ - date_published: 2024-05-07T19:48:31.630275+00:00
+
+ ## Staten Island University Hospital | Northwell Health
+ - [https://siuh.northwell.edu](https://siuh.northwell.edu)
+ - date_published: 2025-01-31T01:38:58.118621+00:00
+
+ ## Northwell - Blank for Redirect - Northwell Health Foundation
+ - [https://support.northwell.edu](https://support.northwell.edu)
+ - date_published: 2024-05-07T19:48:28.222406+00:00
+
+ ## The Well by Northwell
+ - [https://thewell.northwell.edu](https://thewell.northwell.edu)
+ - date_published: 2024-07-01T14:53:21+00:00
+
+ ## Kellogg School of Management: Build Your Legacy
+ - [https://admissions.kellogg.northwestern.edu](https://admissions.kellogg.northwestern.edu)
+ - date_published: 2024-09-02T13:25:13.372272+00:00
+
+ ## Undergraduate Admissions - Northwestern University
+ - [https://admissions.northwestern.edu](https://admissions.northwestern.edu)
+ - date_published: 2024-07-01T16:29:45.568048+00:00
+
+ ## Arts Circle - Northwestern University
+ - [https://artscircle.northwestern.edu](https://artscircle.northwestern.edu)
+ - date_published: 2024-07-01T16:29:56.852134+00:00
+
+ ## BSA Home
+ - [http://basic.northwestern.edu](http://basic.northwestern.edu)
+ - date_published: 2024-05-07T20:55:39.947076+00:00
+
+ ## Brady Scholars Program in Ethics and Civic Life - Northwestern University
+ - [https://bradyprogram.northwestern.edu](https://bradyprogram.northwestern.edu)
+ - date_published: 2024-09-15T13:01:58.767259+00:00
+
+ ## Buffett Institute for Global Affairs - Northwestern University
+ - [https://buffett.northwestern.edu](https://buffett.northwestern.edu)
+ - date_published: 2024-07-01T16:30:00.616151+00:00
+
+ ## CAESAR - Northwestern University
+ - [https://caesar.northwestern.edu](https://caesar.northwestern.edu)
+ - date_published: 2024-07-01T16:30:09.634439+00:00
+
+ ## Sign in to your account
+ - [https://canvas.northwestern.edu](https://canvas.northwestern.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Center for Advancing Safety of Machine Intelligence - Northwestern University
+ - [https://casmi.northwestern.edu](https://casmi.northwestern.edu)
+ - date_published: 2024-04-30T05:47:47.600728+00:00
+
+ ## The CCL
+ - [http://ccl.northwestern.edu](http://ccl.northwestern.edu)
+ - date_published: 2024-07-09T13:51:52.708895+00:00
+
+ ## Homepage
+ - [http://ciera.northwestern.edu](http://ciera.northwestern.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Class Descriptions - Northwestern University
+ - [https://class-descriptions.northwestern.edu](https://class-descriptions.northwestern.edu)
+ - date_published: 2024-07-01T16:30:40.580594+00:00
+
+ ## CollabLab: The Collaborative Technology Laboratory
+ - [http://collablab.northwestern.edu](http://collablab.northwestern.edu)
+ - date_published: 2023-12-08T23:21:58+00:00
+
+ ## School of Communication - Northwestern University
+ - [https://communication.northwestern.edu](https://communication.northwestern.edu)
+ - date_published: 2024-07-09T13:51:49.893421+00:00
+
+ ## Home - Center on Wrongful Convictions
+ - [https://cwc.law.northwestern.edu](https://cwc.law.northwestern.edu)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## The Data-Driven Reporting Project
+ - [https://datadrivenreporting.medill.northwestern.edu](https://datadrivenreporting.medill.northwestern.edu)
+ - date_published: 2024-09-18T20:54:00.540032+00:00
+
+ ## DESIGN INNOVATION - Segal Design Institute, Northwestern University
+ - [https://design.northwestern.edu](https://design.northwestern.edu)
+ - date_published: 2024-07-21T06:48:41.577768+00:00
+
+ ## DeepFakes, Can You Spot Them?
+ - [https://detectfakes.kellogg.northwestern.edu](https://detectfakes.kellogg.northwestern.edu)
+ - date_published: 2024-07-03T11:55:36.100757+00:00
+
+ ## Northwestern SSO
+ - [https://directory.northwestern.edu](https://directory.northwestern.edu)
+ - date_published: 2024-05-25T14:26:40+00:00
+
+ ## Design, Technology, and Research
+ - [http://dtr.northwestern.edu](http://dtr.northwestern.edu)
+ - date_published: 2024-07-09T13:51:41.762525+00:00
+
+ - [https://faculty.wcas.northwestern.edu](https://faculty.wcas.northwestern.edu)
+ - date_published: 2024-02-03T21:26:18.664044+00:00
+
+ ## Farley Center - Northwestern University
+ - [https://farley.northwestern.edu](https://farley.northwestern.edu)
+ - date_published: 2024-07-21T06:48:39.698551+00:00
+
+ ## Feinberg School of Medicine
+ - [https://feinberg.northwestern.edu](https://feinberg.northwestern.edu)
+ - date_published: 2024-05-07T19:48:40.006292+00:00
+
+ ## Galter Health Sciences Library & Learning Center
+ - [https://galter.northwestern.edu](https://galter.northwestern.edu)
+ - date_published: 2024-07-01T16:28:45.034162+00:00
+
+ ## |
+ - [https://globalresearchopportunities.northwestern.edu](https://globalresearchopportunities.northwestern.edu)
+ - date_published: 2024-06-25T22:48:02+00:00
+
+ ## Human Resources - Northwestern University
+ - [https://hr.northwestern.edu](https://hr.northwestern.edu)
+ - date_published: 2024-05-07T19:48:54.665011+00:00
+
+ ## Human-AI Collaboration Lab
+ - [https://human-ai-collaboration-lab.kellogg.northwestern.edu](https://human-ai-collaboration-lab.kellogg.northwestern.edu)
+ - date_published: 2024-07-03T11:55:34.255399+00:00
+
+ ## Home | Northwestern Professional MS in IMC program
+ - [https://imcprofessional.medill.northwestern.edu](https://imcprofessional.medill.northwestern.edu)
+ - date_published: 2024-08-05T17:37:08.802166+00:00
+
+ ## Kellogg Insight
+ - [https://insight.kellogg.northwestern.edu](https://insight.kellogg.northwestern.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home - Journal of Criminal Law and Criminology
+ - [https://jclc.law.northwestern.edu](https://jclc.law.northwestern.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Home - Journal of Human Rights
+ - [https://jhr.law.northwestern.edu](https://jhr.law.northwestern.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home - Journal of International Law and Business
+ - [https://jilb.law.northwestern.edu](https://jilb.law.northwestern.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Kellogg School of Management - A Graduate School of Business
+ - [https://kellogg.northwestern.edu](https://kellogg.northwestern.edu)
+ - date_published: 2024-05-26T10:05:58.792040+00:00
+
+ ## Knight Lab
+ - [https://knightlab.northwestern.edu](https://knightlab.northwestern.edu)
+ - date_published: 2023-10-06T00:00:00+00:00
+
+ ## Northwestern Law: Northwestern Pritzker School of Law
+ - [http://law.northwestern.edu](http://law.northwestern.edu)
+ - date_published: 2024-10-31T20:42:11.832820+00:00
+
+ ## Our Approach: 
+  Center for Leadership - Northwestern University
+ - [https://lead.northwestern.edu](https://lead.northwestern.edu)
+ - date_published: 2024-07-21T06:48:43.496781+00:00
+
+ ## Research Guides
+ - [https://libguides.northwestern.edu](https://libguides.northwestern.edu)
+ - date_published: 2024-06-14T04:12:03.462194+00:00
+
+ ## Northwestern Law Library Blog
+ - [https://libraryblog.law.northwestern.edu](https://libraryblog.law.northwestern.edu)
+ - date_published: 2024-10-31T20:43:58+00:00
+
+ ## Pritzker Legal Research Center: Homepage: Home
+ - [http://library.law.northwestern.edu](http://library.law.northwestern.edu)
+ - date_published: 2024-10-31T20:43:38.505752+00:00
+
+ ## Local News Initiative
+ - [https://localnewsinitiative.northwestern.edu](https://localnewsinitiative.northwestern.edu)
  - date_published: 2024-06-18T00:00:00+00:00
 
- ## Universitat de Girona > UdG
- - [http://www.udg.edu](http://www.udg.edu)
- - date_published: 2024-07-02T10:36:06.638771+00:00
-
- ## ONE.UF
- - [https://one.uf.edu](https://one.uf.edu)
- - date_published: 2024-06-13T11:20:58+00:00
-
- ## Accessibility at UF
- - [https://accessibility.ufl.edu](https://accessibility.ufl.edu)
- - date_published: 2024-05-07T21:11:08.489230+00:00
-
- ## UF ADA Compliance
- - [https://ada.ufl.edu](https://ada.ufl.edu)
- - date_published: 2024-07-02T02:17:54.009807+00:00
-
- ## University of Florida Office of Admissions
- - [https://admissions.ufl.edu](https://admissions.ufl.edu)
- - date_published: 2024-07-02T02:06:22.599170+00:00
-
- ## Welcome
- - [https://advancement.clas.ufl.edu](https://advancement.clas.ufl.edu)
- - date_published: 2024-07-07T08:12:01.425998+00:00
-
- ## Agricultural Education and Communication - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://aec.ifas.ufl.edu](https://aec.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:21.398370+00:00
-
- ## Welcome to the Center for African Studies
- - [http://africa.ufl.edu](http://africa.ufl.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Web Services » UF Health » University of Florida
- - [https://ahc-webservices-a2.sites.medinfo.ufl.edu](https://ahc-webservices-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T20:14:03+00:00
-
- ## AI - University of Florida
- - [https://ai.ufl.edu](https://ai.ufl.edu)
- - date_published: 2024-07-02T02:11:02.126501+00:00
-
- ## UF IT Alerts Dashboard
- - [https://alerts.it.ufl.edu](https://alerts.it.ufl.edu)
- - date_published: 2024-07-02T02:07:54.283886+00:00
-
- ## Alumni & Giving » College of Public Health and Health Professions » University of Florida
- - [https://alumni-giving.phhp.ufl.edu](https://alumni-giving.phhp.ufl.edu)
- - date_published: 2024-07-01T21:22:22+00:00
-
  ## Home
- - [https://antiracism.ufl.edu](https://antiracism.ufl.edu)
- - date_published: 2024-06-27T00:00:00+00:00
+ - [https://magazine.northwestern.edu](https://magazine.northwestern.edu)
+ - date_published: 2024-05-07T19:48:51.932293+00:00
 
- ## Welcome
- - [https://asq.africa.ufl.edu](https://asq.africa.ufl.edu)
- - date_published: 2024-05-08T10:03:56.364600+00:00
+ ## Northwestern University Campus Maps
+ - [https://maps.northwestern.edu](https://maps.northwestern.edu)
+ - date_published: 2024-07-01T16:29:03.050709+00:00
 
- ## Baker County - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://baker.ifas.ufl.edu](http://baker.ifas.ufl.edu)
- - date_published: 2024-12-21T17:36:57.026164+00:00
+ ## Northwestern's McCormick School of Engineering
+ - [https://mccormick.northwestern.edu](https://mccormick.northwestern.edu)
+ - date_published: 2024-04-30T05:56:08.900040+00:00
 
- ## Biotility - Biotech Professional Development & Credentialing
- - [https://biotility.research.ufl.edu](https://biotility.research.ufl.edu)
- - date_published: 2024-10-22T03:51:42.004239+00:00
+ ## McGaw Home
+ - [https://mcgaw.northwestern.edu](https://mcgaw.northwestern.edu)
+ - date_published: 2024-07-01T16:28:47.253056+00:00
 
- ## UF/IFAS Blogs Homepage - What's Happening Around Florida
- - [https://blogs.ifas.ufl.edu](https://blogs.ifas.ufl.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## J. Crayton Pruitt Family Department of Biomedical Engineering – University of Florida
- - [https://bme.ufl.edu](https://bme.ufl.edu)
- - date_published: 2024-05-07T21:11:14.981767+00:00
-
- ## Branding Portal - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://branding.ifas.ufl.edu](https://branding.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:06.440779+00:00
-
- ## Calendar - University of Florida
- - [https://calendar.ufl.edu](https://calendar.ufl.edu)
- - date_published: 2024-07-02T00:06:16+00:00
-
- ## College of Agricultural and Life Sciences - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://cals.ufl.edu](http://cals.ufl.edu)
- - date_published: 2024-06-16T22:50:43.417250+00:00
-
- ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
- - [https://cam.mbi.ufl.edu](https://cam.mbi.ufl.edu)
- - date_published: 2023-10-25T19:01:26.632166+00:00
-
- ## Campus Closures
- - [https://campusclosures.ufl.edu](https://campusclosures.ufl.edu)
- - date_published: 2024-07-02T02:11:26.723216+00:00
-
- ## UF Campus Map
- - [https://campusmap.ufl.edu](https://campusmap.ufl.edu)
- - date_published: 2024-03-27T14:23:43+00:00
-
- ## University of Florida Catalog < University of Florida
- - [https://catalog.ufl.edu](https://catalog.ufl.edu)
- - date_published: 2024-06-28T21:03:19+00:00
-
- ## Home - Computer & Information Science & Engineering
- - [https://cise.ufl.edu](https://cise.ufl.edu)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## College of Liberal Arts & Sciences
- - [http://clas.ufl.edu](http://clas.ufl.edu)
- - date_published: 2024-07-07T08:11:50.445375+00:00
-
- ## GatorCloud - University of Florida
- - [https://cloud.it.ufl.edu](https://cloud.it.ufl.edu)
- - date_published: 2024-07-02T02:06:14.155895+00:00
-
- ## IFAS-CLUE
- - [https://clue.ifas.ufl.edu](https://clue.ifas.ufl.edu)
- - date_published: 2024-10-14T23:51:28+00:00
-
- ## Tiny Tech
- - [https://cnem.chem.ufl.edu](https://cnem.chem.ufl.edu)
- - date_published: 2021-11-09T02:11:06+00:00
-
- ## Center for Natural Products, Drug Discovery and Development (CNPD3) » College of Pharmacy » University of Florida
- - [https://cnpd3.pharmacy.ufl.edu](https://cnpd3.pharmacy.ufl.edu)
- - date_published: 2024-06-28T15:43:26+00:00
-
- ## Liao Lab »  » University of Florida
- - [https://com-acb-liao.sites.medinfo.ufl.edu](https://com-acb-liao.sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:31.450474+00:00
-
- ## Forms & Requests
- - [https://commsupport.clas.ufl.edu](https://commsupport.clas.ufl.edu)
- - date_published: 2024-07-07T08:11:59.501755+00:00
-
- ## compliance.ufl.edu - Compliance & Ethics - University of Florida
- - [https://compliance.ufl.edu](https://compliance.ufl.edu)
- - date_published: 2024-10-15T06:43:21.120010+00:00
-
- ## MedConsults » College of Medicine » University of Florida
- - [https://com-psychiatry-dcf-a2.sites.medinfo.ufl.edu](https://com-psychiatry-dcf-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-10-25T21:04:26+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [http://csea.phhp.ufl.edu](http://csea.phhp.ufl.edu)
- - date_published: 2024-07-01T21:31:26+00:00
-
- ## MedConsults » College of Medicine » University of Florida
- - [https://dcf.psychiatry.ufl.edu](https://dcf.psychiatry.ufl.edu)
- - date_published: 2024-06-18T21:55:40+00:00
-
- ## Institute of Food and Agricultural Sciences - University of Florida
- - [https://directory.ifas.ufl.edu](https://directory.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:45.890823+00:00
-
- ## Directory » University of Florida
- - [https://directory.ufl.edu](https://directory.ufl.edu)
- - date_published: 2024-07-02T02:07:51.489872+00:00
-
- ## Disability Resource Center - Disability
- - [https://disability.ufl.edu](https://disability.ufl.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## UF/IFAS Disaster Preparation & Recovery - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://disaster.ifas.ufl.edu](https://disaster.ifas.ufl.edu)
- - date_published: 2024-10-15T05:48:03.020199+00:00
-
- ## Ask IFAS - Powered by EDIS
- - [https://edis.ifas.ufl.edu](https://edis.ifas.ufl.edu)
+ ## Medill Investigative Lab
+ - [https://mil.medill.northwestern.edu](https://mil.medill.northwestern.edu)
  - date_published: 2024-04-25T00:00:00+00:00
 
- ## eLearning - University of Florida
- - [https://elearning.ufl.edu](https://elearning.ufl.edu)
- - date_published: 2024-07-02T02:07:58.545229+00:00
+ ## Interactive Audio Lab
+ - [http://music.cs.northwestern.edu](http://music.cs.northwestern.edu)
+ - date_published: 2024-03-06T18:41:37+00:00
 
- ## UF Election Lab
- - [https://election.lab.ufl.edu](https://election.lab.ufl.edu)
- - date_published: 2024-10-14T21:14:49.282029+00:00
+ ## Northwestern SSO
+ - [https://myhr.northwestern.edu](https://myhr.northwestern.edu)
+ - date_published: 2024-05-25T14:26:40+00:00
 
- ## Entomology and Nematology Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://entnemdept.ufl.edu](https://entnemdept.ufl.edu)
- - date_published: 2024-10-15T05:48:11.814538+00:00
+ ## Main Home - News Center
+ - [https://news.feinberg.northwestern.edu](https://news.feinberg.northwestern.edu)
+ - date_published: 2023-10-25T18:55:55.307920+00:00
 
- ## Entomology and Nematology Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://entomology.ifas.ufl.edu](http://entomology.ifas.ufl.edu)
- - date_published: 2024-10-15T05:48:07.135878+00:00
+ ## Law School News - Northwestern Pritzker School of Law News
+ - [https://news.law.northwestern.edu](https://news.law.northwestern.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
 
- ## University of Florida Experts | Search & Connect
- - [https://experts.ufl.edu](https://experts.ufl.edu)
- - date_published: 2024-05-07T21:11:34.496371+00:00
+ ## Landing page - Chicago Newsroom Multisite Network
+ - [https://news.medill.northwestern.edu](https://news.medill.northwestern.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
 
- ## UF/IFAS Extension Administration - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://extadmin.ifas.ufl.edu](https://extadmin.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:35.898558+00:00
+ ## Northwestern Now News
+ - [https://news.northwestern.edu](https://news.northwestern.edu)
+ - date_published: 2023-10-25T18:56:08.345374+00:00
 
- ## Faculty Websites – Herbert Wertheim College of Engineering
- - [https://faculty.eng.ufl.edu](https://faculty.eng.ufl.edu)
- - date_published: 2024-08-06T10:26:00.307799+00:00
+ ## Northwestern University
+ - [https://northwestern.edu](https://northwestern.edu)
+ - date_published: 2024-06-20T01:59:46.844040+00:00
 
- ## Field and Fork Website
- - [https://fieldandfork.ufl.edu](https://fieldandfork.ufl.edu)
- - date_published: 2024-10-14T00:00:00+00:00
+ ## Northwestern University Press
+ - [https://nupress.northwestern.edu](https://nupress.northwestern.edu)
+ - date_published: 2024-08-05T00:00:00+00:00
 
- ## ArchivesSpace Public Interface | Special & Area Studies Collections
- - [https://findingaids.uflib.ufl.edu](https://findingaids.uflib.ufl.edu)
- - date_published: 2024-06-14T04:11:54.363246+00:00
+ ## A: Department/Office Directory - Northwestern University
+ - [https://offices.northwestern.edu](https://offices.northwestern.edu)
+ - date_published: 2024-06-30T05:00:00+00:00
 
- ## Florida Museum
- - [https://floridamuseum.ufl.edu](https://floridamuseum.ufl.edu)
- - date_published: 2023-11-09T19:00:22.567256+00:00
+ ## PAM 2024 | Home
+ - [https://pam2024.cs.northwestern.edu](https://pam2024.cs.northwestern.edu)
+ - date_published: 2024-04-10T22:17:11+00:00
 
- ## Florida SeaGrant Programs - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://flseagrant.ifas.ufl.edu](http://flseagrant.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:29.562040+00:00
+ ## Department of Philosophy - Northwestern University
+ - [https://philosophy.northwestern.edu](https://philosophy.northwestern.edu)
+ - date_published: 2024-06-14T19:39:40.802213+00:00
 
- ## The Florida Optics and Computational Sensor Lab
- - [https://focus.ece.ufl.edu](https://focus.ece.ufl.edu)
- - date_published: 2024-12-21T16:52:41.916067+00:00
+ ## Northwestern University Events
+ - [https://planitpurple.northwestern.edu](https://planitpurple.northwestern.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
 
- ## Food and Resource Economics Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://fred.ifas.ufl.edu](https://fred.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:33.872122+00:00
+ ## University Policies - Northwestern University
+ - [https://policies.northwestern.edu](https://policies.northwestern.edu)
+ - date_published: 2024-05-07T19:48:44.365295+00:00
 
- ## Dr. Jie Fu – Assistant Professor at ECE Florida
- - [https://fujie.ece.ufl.edu](https://fujie.ece.ufl.edu)
- - date_published: 2024-09-13T19:54:49.243023+00:00
+ ## Office for Research - Northwestern University
+ - [https://research.northwestern.edu](https://research.northwestern.edu)
+ - date_published: 2024-07-01T16:29:54.443320+00:00
 
- ## Gulf Coast Research and Education Center - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://gcrec.ifas.ufl.edu](http://gcrec.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:31.793095+00:00
+ ## Search
+ - [https://search.feinberg.northwestern.edu](https://search.feinberg.northwestern.edu)
+ - date_published: 2024-07-01T16:28:50.536577+00:00
 
- ## Wireless@UF - Get Online
- - [https://getonline.ufl.edu](https://getonline.ufl.edu)
- - date_published: 2024-07-02T02:07:52.798120+00:00
+ ## Search - Northwestern University
+ - [https://search.northwestern.edu](https://search.northwestern.edu)
+ - date_published: 2024-05-07T19:48:55.732462+00:00
 
- ## IFAS Advancement Office - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://give.ifas.ufl.edu](https://give.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:53.378272+00:00
-
- ## Graduate Catalog  < University of Florida
- - [http://gradcatalog.ufl.edu](http://gradcatalog.ufl.edu)
- - date_published: 2024-06-17T20:04:27+00:00
-
- ## The Graduate School - University of Florida
- - [http://graduateschool.ufl.edu](http://graduateschool.ufl.edu)
- - date_published: 2024-07-02T02:18:23.621879+00:00
-
- ## LibGuides: home: Home
- - [https://guides.law.ufl.edu](https://guides.law.ufl.edu)
- - date_published: 2024-10-18T22:27:29.761367+00:00
-
- ## handbook.aa.ufl.edu - Faculty Handbook - University of Florida
- - [http://handbook.aa.ufl.edu](http://handbook.aa.ufl.edu)
- - date_published: 2024-07-02T02:19:13.447830+00:00
-
- ## Environmental Horticulture - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://hort.ifas.ufl.edu](https://hort.ifas.ufl.edu)
- - date_published: 2025-02-02T06:25:36.539206+00:00
-
- ## UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://hr.ifas.ufl.edu](https://hr.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:55.840843+00:00
-
- ## IFAS Communications - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://ics.ifas.ufl.edu](https://ics.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:23.630749+00:00
-
- ## Identity & Access Management Services » University of Florida
- - [https://identity.it.ufl.edu](https://identity.it.ufl.edu)
- - date_published: 2024-07-02T02:08:10.255439+00:00
+ ## Search - Northwestern University
+ - [https://searchsite.northwestern.edu](https://searchsite.northwestern.edu)
+ - date_published: 2024-07-21T07:07:31.746882+00:00
 
  ## Home
- - [https://ifasbooks.ifas.ufl.edu](https://ifasbooks.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:27.774795+00:00
+ - [https://services.northwestern.edu](https://services.northwestern.edu)
+ - date_published: 2024-07-01T16:30:41.944018+00:00
 
- ## Institute of Food and Agricultural Sciences - University of Florida
- - [https://ifas.ufl.edu](https://ifas.ufl.edu)
- - date_published: 2024-06-14T23:31:44.295638+00:00
+ ## NUSites – A website publishing platform for Northwestern University
+ - [https://sites.northwestern.edu](https://sites.northwestern.edu)
+ - date_published: 2024-05-04T13:47:58.433585+00:00
 
- ## Procedures and Policies - UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://imm.ifas.ufl.edu](https://imm.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:21.320326+00:00
+ ## Engagement drives outcomes. We prove it. You use it. - Medill Spiegel Research Center
+ - [http://spiegel.medill.northwestern.edu](http://spiegel.medill.northwestern.edu)
+ - date_published: 2022-10-18T00:00:00+00:00
 
- ## Home - UF Innovate
- - [https://innovate.research.ufl.edu](https://innovate.research.ufl.edu)
- - date_published: 2024-06-17T04:16:53.822673+00:00
+ ## Northwestern University School of Professional Studies (SPS):
+ - [https://sps.northwestern.edu](https://sps.northwestern.edu)
+ - date_published: 2024-05-04T09:28:18.834897+00:00
 
- ## AdvancementHUB
- - [https://intranet.uff.ufl.edu](https://intranet.uff.ufl.edu)
- - date_published: 2024-07-02T02:19:57.569762+00:00
+ ## Northwestern CS Theory Group
+ - [https://theory.cs.northwestern.edu](https://theory.cs.northwestern.edu)
+ - date_published: 2024-07-09T13:02:40+00:00
 
- ## Institutional Planning and Research
- - [https://ir.aa.ufl.edu](https://ir.aa.ufl.edu)
- - date_published: 2024-07-02T01:53:41+00:00
+ ## Northwestern University Transportation Center - Northwestern University
+ - [http://transportation.northwestern.edu](http://transportation.northwestern.edu)
+ - date_published: 2024-07-21T06:48:46.742021+00:00
 
- ## UF/IFAS Information Technology
- - [http://it.ifas.ufl.edu](http://it.ifas.ufl.edu)
- - date_published: 2022-12-30T18:49:20+00:00
+ ## Technology and Social Behavior - PhD in Technology and Social Behavior
+ - [http://tsb.northwestern.edu](http://tsb.northwestern.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
 
- ## Information Technology - University of Florida
- - [https://it.ufl.edu](https://it.ufl.edu)
- - date_published: 2024-07-02T02:07:49.776780+00:00
+ ## Office of Undergraduate Research |
+ - [https://undergradresearch.northwestern.edu](https://undergradresearch.northwestern.edu)
+ - date_published: 2024-07-01T16:29:51+00:00
 
- ## Careers
- - [https://jobs.ufl.edu](https://jobs.ufl.edu)
- - date_published: 2024-07-02T02:11:23.301447+00:00
+ ## Northwestern Computer Science
+ - [https://users.cs.northwestern.edu](https://users.cs.northwestern.edu)
+ - date_published: 2022-04-14T00:26:56+00:00
 
- ## Liao Lab »  » University of Florida
- - [https://liao.acb.med.ufl.edu](https://liao.acb.med.ufl.edu)
- - date_published: 2024-02-08T16:20:48.739035+00:00
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [http://users.eecs.northwestern.edu](http://users.eecs.northwestern.edu)
+ - date_published: 2021-07-12T19:36:32+00:00
 
- ## Health Science Center Libraries » UF Libraries » University of Florida
- - [https://library.health.ufl.edu](https://library.health.ufl.edu)
- - date_published: 2024-08-16T20:05:57+00:00
+ ## Weinberg College - Northwestern University
+ - [https://weinberg.northwestern.edu](https://weinberg.northwestern.edu)
+ - date_published: 2024-09-15T13:01:56.077215+00:00
 
- ## eLearning - University of Florida
- - [https://lss.at.ufl.edu](https://lss.at.ufl.edu)
- - date_published: 2024-07-02T02:19:19.447279+00:00
+ ## Home
+ - [https://www.brain.northwestern.edu](https://www.brain.northwestern.edu)
+ - date_published: 2024-07-01T02:00:19.164973+00:00
 
- ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
- - [https://mbi-cam.sites.medinfo.ufl.edu](https://mbi-cam.sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:06.799717+00:00
+ ## Home
+ - [https://www.cgm.northwestern.edu](https://www.cgm.northwestern.edu)
+ - date_published: 2024-07-01T23:08:51.928698+00:00
 
- ## McKnight Brain Institute » University of Florida
- - [https://mbi-main-a2.sites.medinfo.ufl.edu](https://mbi-main-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T21:21:43+00:00
+ ## Computer Science | Northwestern Engineering
+ - [https://www.cs.northwestern.edu](https://www.cs.northwestern.edu)
+ - date_published: 2024-07-09T13:51:40.040612+00:00
 
- ## McKnight Brain Institute » University of Florida
- - [https://mbi.ufl.edu](https://mbi.ufl.edu)
- - date_published: 2024-05-07T21:11:20.615371+00:00
+ ## Department of Earth and Planetary Sciences - Northwestern University
+ - [https://www.earth.northwestern.edu](https://www.earth.northwestern.edu)
+ - date_published: 2024-07-10T05:47:36.585400+00:00
 
- ## Forms & Requests
- - [https://mediaservices.clas.ufl.edu](https://mediaservices.clas.ufl.edu)
- - date_published: 2024-07-07T08:11:57.753234+00:00
+ ## Electrical and Computer Engineering | Northwestern Engineering
+ - [https://www.eecs.northwestern.edu](https://www.eecs.northwestern.edu)
+ - date_published: 2024-07-09T13:52:07.785598+00:00
 
- ## Mediasite
- - [https://mediasite.video.ufl.edu](https://mediasite.video.ufl.edu)
- - date_published: 2015-08-16T15:00:32+00:00
+ ## Program in Global Health Studies - Northwestern University
+ - [https://www.globalhealthstudies.northwestern.edu](https://www.globalhealthstudies.northwestern.edu)
+ - date_published: 2024-07-01T16:29:48.268206+00:00
 
- ## College of Medicine » University of Florida
- - [http://med.ufl.edu](http://med.ufl.edu)
- - date_published: 2024-10-25T21:29:27+00:00
+ ## Interdisciplinary Biological Sciences Graduate Program - Northwestern University
+ - [https://www.ibis.northwestern.edu](https://www.ibis.northwestern.edu)
+ - date_published: 2024-07-01T16:30:12.052895+00:00
 
- ## Microbiology and Cell Science, University of Florida - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://microcell.ufl.edu](http://microcell.ufl.edu)
- - date_published: 2024-10-15T05:48:09.917681+00:00
+ ## IDEAL – The Institute for Data, Econometrics, Algorithms, and Learning
+ - [https://www.ideal.northwestern.edu](https://www.ideal.northwestern.edu)
+ - date_published: 2024-06-22T10:04:11+00:00
 
- ## Welcome to myUFL
- - [https://my.ufl.edu](https://my.ufl.edu)
- - date_published: 2022-12-01T23:07:50+00:00
+ ## Institute for Policy Research - Northwestern University
+ - [https://www.ipr.northwestern.edu](https://www.ipr.northwestern.edu)
+ - date_published: 2024-10-18T22:27:06.521740+00:00
 
- ## Department of Neuroscience » College of Medicine » University of Florida
- - [https://neuroscience-a2.sites.medinfo.ufl.edu](https://neuroscience-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T20:15:02+00:00
+ ## Information Technology - Northwestern University
+ - [https://www.it.northwestern.edu](https://www.it.northwestern.edu)
+ - date_published: 2024-07-01T16:30:04.624841+00:00
 
- ## Department of Neuroscience » College of Medicine » University of Florida
- - [https://neuroscience.ufl.edu](https://neuroscience.ufl.edu)
- - date_published: 2024-05-07T21:11:17.576118+00:00
+ ## Libraries - Northwestern University
+ - [https://www.library.northwestern.edu](https://www.library.northwestern.edu)
+ - date_published: 2024-07-01T16:30:07.878585+00:00
 
- ## CLAS News
- - [https://news.clas.ufl.edu](https://news.clas.ufl.edu)
- - date_published: 2024-07-02T02:10:51.497253+00:00
+ ## Department of Mathematics - Northwestern University
+ - [https://www.math.northwestern.edu](https://www.math.northwestern.edu)
+ - date_published: 2024-06-30T08:06:16.403294+00:00
 
- ## Current News
- - [https://news.drgator.ufl.edu](https://news.drgator.ufl.edu)
- - date_published: 2024-07-02T02:19:46.370243+00:00
+ ## Medill - Northwestern University
+ - [https://www.medill.northwestern.edu](https://www.medill.northwestern.edu)
+ - date_published: 2024-04-29T04:47:30.156132+00:00
 
- ## University of Florida Information Technology News – The official source for information technology related news at the University of Florida
- - [https://news.it.ufl.edu](https://news.it.ufl.edu)
+ ## Northwestern Institute on Complex Systems - Northwestern University
+ - [http://www.nico.northwestern.edu](http://www.nico.northwestern.edu)
+ - date_published: 2024-07-21T06:48:35.346421+00:00
+
+ ## Department of Political Science - Northwestern University
+ - [http://www.polisci.northwestern.edu](http://www.polisci.northwestern.edu)
+ - date_published: 2024-06-17T11:15:43.091317+00:00
+
+ ## Northwestern Pritzker School of Law Reunion Celebration
+ - [https://www.reunion.law.northwestern.edu](https://www.reunion.law.northwestern.edu)
+ - date_published: 2024-06-20T02:00:02.200286+00:00
+
+ ## Northwestern Scholars
+ - [https://www.scholars.northwestern.edu](https://www.scholars.northwestern.edu)
+ - date_published: 2024-06-30T11:01:04.983846+00:00
+
+ ## Homepage - Notre Dame College
+ - [http://www.notredamecollege.edu](http://www.notredamecollege.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## NSUWorks - Nova Southeastern University Institutional Repository
+ - [https://nsuworks.nova.edu](https://nsuworks.nova.edu)
+ - date_published: 2024-12-10T20:55:49.825868+00:00
+
+ ## Calhoun :: Home
+ - [https://calhoun.nps.edu](https://calhoun.nps.edu)
+ - date_published: 2024-07-03T18:00:39.017586+00:00
+
+ ## Login - Naval Postgraduate School Collaborative Portal
+ - [https://cle.nps.edu](https://cle.nps.edu)
+ - date_published: 2024-07-01T12:32:19+00:00
+
+ ## Dudley Knox Library - Dudley Knox Library - Naval Postgraduate School
+ - [https://library.nps.edu](https://library.nps.edu)
+ - date_published: 2024-07-03T18:00:47.272588+00:00
+
+ ## Sign in to Outlook
+ - [https://mail365.nps.edu](https://mail365.nps.edu)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Naval Postgraduate School - Naval Postgraduate School
+ - [https://my.nps.edu](https://my.nps.edu)
+ - date_published: 2024-05-08T03:29:47.362007+00:00
+
+ ## Naval Postgraduate School - Naval Postgraduate School
+ - [https://nps.edu](https://nps.edu)
+ - date_published: 2024-07-03T18:00:50.279410+00:00
+
+ ## Home - NPS Online - Naval Postgraduate School
+ - [https://online.nps.edu](https://online.nps.edu)
+ - date_published: 2024-07-03T18:00:44.568737+00:00
+
+ ## Savage Subversion archive redirect
+ - [https://savage.nps.edu](https://savage.nps.edu)
+ - date_published: 2021-12-20T18:10:34+00:00
+
+ ## Home
+ - [https://almascience.nrao.edu](https://almascience.nrao.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Associated Universities, Inc. Careers
+ - [https://careers.nrao.edu](https://careers.nrao.edu)
+ - date_published: 2024-06-15T17:09:59.659317+00:00
+
+ ## CASA Guides
+ - [http://casaguides.nrao.edu](http://casaguides.nrao.edu)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## National Radio Astronomy Observatory - National Radio Astronomy Observatory
+ - [https://go.nrao.edu](https://go.nrao.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## NRAO Information
+ - [https://info.nrao.edu](https://info.nrao.edu)
+ - date_published: 2024-05-07T19:49:02.597529+00:00
+
+ ## NRAO Information
+ - [https://inside.nrao.edu](https://inside.nrao.edu)
+ - date_published: 2024-05-07T19:49:07.115385+00:00
+
+ ## NRAO: Secure Login
+ - [https://my.nrao.edu](https://my.nrao.edu)
+ - date_published: 2024-05-07T19:49:43.306642+00:00
+
+ ## ngVLA
+ - [https://ngvla.nrao.edu](https://ngvla.nrao.edu)
+ - date_published: 2024-05-07T19:49:39.597979+00:00
+
+ ## National Radio Astronomy Observatory - National Radio Astronomy Observatory
+ - [https://nrao.edu](https://nrao.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## National Radio Astronomy Observatory - National Radio Astronomy Observatory
+ - [https://public.nrao.edu](https://public.nrao.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## NRAO at AAS 243 New Orleans - January 2024 — Science Website
+ - [https://science.nrao.edu](https://science.nrao.edu)
+ - date_published: 2024-01-15T01:25:31.960705+00:00
+
+ ## Search NRAO
+ - [https://search.nrao.edu](https://search.nrao.edu)
+ - date_published: 2024-05-07T19:49:10.555732+00:00
+
+ ## National Radio Astronomy Observatory - Legacy Content - ALMA (CV)
+ - [http://www.alma.nrao.edu](http://www.alma.nrao.edu)
+ - date_published: 2024-09-18T18:25:42.552443+00:00
+
+ ## NRAO: Socorro, New Mexico
+ - [https://www.aoc.nrao.edu](https://www.aoc.nrao.edu)
+ - date_published: 2024-06-15T17:10:01.137502+00:00
+
+ ## NRAO Very Large Array
+ - [https://www.vla.nrao.edu](https://www.vla.nrao.edu)
+ - date_published: 2024-05-01T03:57:19.664423+00:00
+
+ ## Nevada's Four-year Teaching Institution - Nevada State University
+ - [https://nsc.edu](https://nsc.edu)
+ - date_published: 2025-02-02T07:13:27.834069+00:00
+
+ ## Nebraska State College System
+ - [https://www.nscs.edu](https://www.nscs.edu)
+ - date_published: 2025-02-02T07:12:44.683134+00:00
+
+ ## Northcentral Technical College
+ - [https://ntc.edu](https://ntc.edu)
+ - date_published: 2024-07-14T06:20:24+00:00
+
+ ## Norwegian University of Science and Technology - NTNU
+ - [https://www.ntnu.edu](https://www.ntnu.edu)
+ - date_published: 2024-10-18T15:52:54.913689+00:00
+
+ ## Law NUJS Kolkata WB National University of Juridical Sciences India West Bengal
+ - [http://www.nujs.edu](http://www.nujs.edu)
+ - date_published: 2024-12-24T12:43:55.461100+00:00
+
+ ## Welcome to Nunez Community College
+ - [https://www.nunez.edu](https://www.nunez.edu)
+ - date_published: 2024-10-30T03:51:04.595919+00:00
+
+ ## Home | Northwest College
+ - [http://www.nwc.edu](http://www.nwc.edu)
+ - date_published: 2024-06-28T20:40:37.566314+00:00
+
+ ## Home - Northwest Shoals Community College
+ - [http://www.nwscc.edu](http://www.nwscc.edu)
+ - date_published: 2025-01-23T13:59:57.331933+00:00
+
+ ## New York Eye & Ear Infirmary of Mount Sinai NYC | New York Eye & Ear
+ - [https://nyee.edu](https://nyee.edu)
+ - date_published: 2024-05-08T10:30:14.411069+00:00
+
+ ## Admissions
+ - [https://apply.nyit.edu](https://apply.nyit.edu)
+ - date_published: 2024-06-26T22:13:09.131481+00:00
+
+ ## Default
+ - [https://my.nyit.edu](https://my.nyit.edu)
+ - date_published: 2024-06-26T22:13:03.202678+00:00
+
+ ## New York Tech
+ - [https://www.nyit.edu](https://www.nyit.edu)
+ - date_published: 2024-05-06T19:58:53.352947+00:00
+
+ ## Home - NYLS News
+ - [https://news.nyls.edu](https://news.nyls.edu)
+ - date_published: 2024-10-18T22:06:42.378556+00:00
+
+ ## Home - New York Law School
+ - [http://www.nyls.edu](http://www.nyls.edu)
  - date_published: 2024-06-06T00:00:00+00:00
 
- ## Home - News - University of Florida
- - [https://news.ufl.edu](https://news.ufl.edu)
- - date_published: 2024-01-04T17:18:14.446846+00:00
-
- ## ONE.UF
- - [https://one.ufl.edu](https://one.ufl.edu)
- - date_published: 2024-06-13T11:20:58+00:00
-
- ## InCommon Federation Discovery Service
- - [https://ood.rc.ufl.edu](https://ood.rc.ufl.edu)
- - date_published: 2024-07-02T02:08:20.186571+00:00
-
- ## UF/IFAS | PDEC | Program Development & Evaluation Center
- - [https://pdec.ifas.ufl.edu](https://pdec.ifas.ufl.edu)
- - date_published: 2024-10-15T06:40:23.195625+00:00
-
- ## People
- - [https://people.clas.ufl.edu](https://people.clas.ufl.edu)
- - date_published: 2025-01-07T10:29:57.758657+00:00
-
- ## Home
- - [http://performingarts.ufl.edu](http://performingarts.ufl.edu)
- - date_published: 2024-07-02T02:19:17.573739+00:00
-
- ## UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://personnel.ifas.ufl.edu](http://personnel.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:09.202938+00:00
-
- ## College of Pharmacy » University of Florida
- - [http://pharmacy.ufl.edu](http://pharmacy.ufl.edu)
- - date_published: 2024-10-19T04:47:43.627221+00:00
-
- ## Academic Integrity » College of Public Health and Health Professions » University of Florida
- - [https://phhp-academic-integrity.sites.medinfo.ufl.edu](https://phhp-academic-integrity.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T23:25:15+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [https://phhp-main-new-a2.sites.medinfo.ufl.edu](https://phhp-main-new-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T21:31:26+00:00
-
- ## Fall 2023
- - [https://phhp-news.sites.medinfo.ufl.edu](https://phhp-news.sites.medinfo.ufl.edu)
- - date_published: 2024-07-02T02:10:36.550557+00:00
-
- ## Research Activities » College of Public Health and Health Professions » University of Florida
- - [https://phhp-research-a2.sites.medinfo.ufl.edu](https://phhp-research-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T20:37:08+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [https://phhp.ufl.edu](https://phhp.ufl.edu)
- - date_published: 2024-05-07T21:10:59.230316+00:00
-
- ## Directory » University of Florida
- - [https://phonebook.ufl.edu](https://phonebook.ufl.edu)
- - date_published: 2024-07-02T02:19:07.703974+00:00
-
- ## http://plaza.ufl.edu
- - [http://plaza.ufl.edu](http://plaza.ufl.edu)
- - date_published: 2006-05-26T17:00:41+00:00
-
- ## Regulation and Policy Hub
- - [https://policy.ufl.edu](https://policy.ufl.edu)
- - date_published: 2024-07-02T01:56:41+00:00
-
- ## Privacy » University of Florida
- - [https://privacy.ufl.edu](https://privacy.ufl.edu)
- - date_published: 2024-05-07T21:11:12.619267+00:00
-
- ## UF/IFAS Programs and Projects - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://programs.ifas.ufl.edu](https://programs.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:48.009200+00:00
-
- ## Support Home Page
- - [https://publicrecords.ufl.edu](https://publicrecords.ufl.edu)
- - date_published: 2024-07-02T02:06:16.719156+00:00
-
- ## RecSports | University of Florida, Department of Recreation Sports
- - [https://recsports.ufl.edu](https://recsports.ufl.edu)
- - date_published: 2024-07-02T02:10:49.105837+00:00
-
- ## Regulation and Policy Hub
- - [https://regulations.ufl.edu](https://regulations.ufl.edu)
- - date_published: 2024-07-02T01:56:41+00:00
-
- ## UF Conduct and Concern Reporting
- - [https://report.ufl.edu](https://report.ufl.edu)
- - date_published: 2024-07-02T02:10:55.034023+00:00
-
- ## Research - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://research.ifas.ufl.edu](http://research.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:40.362339+00:00
-
- ## Office of Research » College of Medicine » University of Florida
- - [https://research.med.ufl.edu](https://research.med.ufl.edu)
- - date_published: 2024-07-01T20:29:32+00:00
-
- ## Research Activities » College of Public Health and Health Professions » University of Florida
- - [https://research.phhp.ufl.edu](https://research.phhp.ufl.edu)
- - date_published: 2024-05-07T21:10:54.372575+00:00
-
- ## University of Florida Research
- - [https://research.ufl.edu](https://research.ufl.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Search » University of Florida
- - [https://search.ufl.edu](https://search.ufl.edu)
- - date_published: 2024-05-07T21:11:36.945840+00:00
-
- ## Information Security – University of Florida
- - [https://security.ufl.edu](https://security.ufl.edu)
- - date_published: 2024-05-07T21:10:52.267199+00:00
-
- ## Solutions For Your Life - Real Solutions for Real Life
- - [http://sfyl.ifas.ufl.edu](http://sfyl.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:19.568229+00:00
-
- ## Giving » UF Health » University of Florida
- - [https://shands-giving-a2.sites.medinfo.ufl.edu](https://shands-giving-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-12-11T18:45:29+00:00
-
- ## Giving » UF Health » University of Florida
- - [http://shands-giving-new.sites.medinfo.ufl.edu](http://shands-giving-new.sites.medinfo.ufl.edu)
- - date_published: 2024-12-11T18:45:29+00:00
-
- ## Web Services » UF Health » University of Florida
- - [https://sites.medinfo.ufl.edu](https://sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:23.235964+00:00
-
- ## studentinvolvement.ufl.edu | UF Student Involvement
- - [https://studentinvolvement.ufl.edu](https://studentinvolvement.ufl.edu)
- - date_published: 2024-07-02T02:10:59.617305+00:00
-
- ## Center for Teaching Excellence | University of Florida
- - [http://teach.ufl.edu](http://teach.ufl.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Tomato Genetics Cooperative
- - [https://tgc.ifas.ufl.edu](https://tgc.ifas.ufl.edu)
- - date_published: 2020-01-02T04:58:19+00:00
-
- ## UF Title IX Compliance
- - [https://titleix.ufl.edu](https://titleix.ufl.edu)
- - date_published: 2024-07-02T02:11:06.150034+00:00
-
- ## UF Alert
- - [https://ufalert.ufl.edu](https://ufalert.ufl.edu)
- - date_published: 2024-07-02T02:11:20.229795+00:00
-
- ## Home - University of Florida Alumni Association
- - [http://ufalumni.ufl.edu](http://ufalumni.ufl.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## University of Florida Advancement
- - [https://uff.ufl.edu](https://uff.ufl.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## UF Health Podcasts
- - [https://ufh-podcasts.sites.medinfo.ufl.edu](https://ufh-podcasts.sites.medinfo.ufl.edu)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Home
- - [https://ufl.edu](https://ufl.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## George A. Smathers Libraries » UF Libraries » University of Florida
- - [https://uflib.ufl.edu](https://uflib.ufl.edu)
- - date_published: 2024-07-01T20:14:29+00:00
-
- ## University of Florida Office of Admissions
- - [http://virtualtour.ufl.edu](http://virtualtour.ufl.edu)
- - date_published: 2024-07-02T02:18:21.587138+00:00
-
- ## UF Water Institute
- - [https://waterinstitute.ufl.edu](https://waterinstitute.ufl.edu)
- - date_published: 2024-10-15T06:39:59.959527+00:00
-
- ## Florida Water Watch - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://waterwatch.ifas.ufl.edu](https://waterwatch.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:49.689865+00:00
-
- ## GatorMail - University of Florida
- - [https://webmail.ufl.edu](https://webmail.ufl.edu)
- - date_published: 2024-07-02T02:08:23.603195+00:00
-
- ## aa.ufl.edu - Academic Affairs - University of Florida
- - [http://www.aa.ufl.edu](http://www.aa.ufl.edu)
- - date_published: 2024-07-02T02:18:33.637050+00:00
-
- ## UF Business Affairs – Our departments unite as one division to provide excellent service, sustainability, and safety to the University of Florida.
- - [http://www.admin.ufl.edu](http://www.admin.ufl.edu)
- - date_published: 2024-07-02T02:18:28.561508+00:00
-
- ## Welcome!
- - [http://www.astro.ufl.edu](http://www.astro.ufl.edu)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Information Technology - University of Florida
- - [https://www.at.ufl.edu](https://www.at.ufl.edu)
- - date_published: 2024-07-02T02:06:18.928502+00:00
-
- ## Home
- - [https://www.chem.ufl.edu](https://www.chem.ufl.edu)
- - date_published: 2024-10-19T04:46:26.595173+00:00
-
- ## DEAN OF STUDENTS OFFICE | Dean of Students Office UF
- - [http://www.dso.ufl.edu](http://www.dso.ufl.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home : ECE FLORIDA
- - [https://www.ece.ufl.edu](https://www.ece.ufl.edu)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Welcome to the English Language Institute
- - [http://www.eli.ufl.edu](http://www.eli.ufl.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home - Herbert Wertheim College of Engineering
- - [https://www.eng.ufl.edu](https://www.eng.ufl.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Planning, Design and Construction
- - [http://www.facilities.ufl.edu](http://www.facilities.ufl.edu)
- - date_published: 2024-07-02T02:17:50.281756+00:00
-
- ##  Yuguang Fang's Home Page 
- - [http://www.fang.ece.ufl.edu](http://www.fang.ece.ufl.edu)
- - date_published: 2024-05-10T08:11:45+00:00
-
- ## Florida Museum
- - [http://www.flmnh.ufl.edu](http://www.flmnh.ufl.edu)
- - date_published: 2024-12-24T09:29:30.731648+00:00
-
- ## Current Employees
- - [http://www.hr.ufl.edu](http://www.hr.ufl.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home | Department of Industrial & Systems Engineering
- - [http://www.ise.ufl.edu](http://www.ise.ufl.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home - UF College of Journalism and Communications
- - [https://www.jou.ufl.edu](https://www.jou.ufl.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Levin College of Law
- - [http://www.law.ufl.edu](http://www.law.ufl.edu)
- - date_published: 2024-06-14T17:11:11+00:00
-
- ## GatorMail - University of Florida
- - [http://www.mail.ufl.edu](http://www.mail.ufl.edu)
- - date_published: 2024-07-02T02:18:15.593040+00:00
-
- ## TAPS
- - [http://www.parking.ufl.edu](http://www.parking.ufl.edu)
- - date_published: 2024-07-02T02:16:28+00:00
-
- ## Office of the University Registrar | University of Florida
- - [http://www.questions.ufl.edu](http://www.questions.ufl.edu)
- - date_published: 2024-07-02T02:17:57.025194+00:00
-
- ## Office of the University Registrar | University of Florida
- - [http://www.registrar.ufl.edu](http://www.registrar.ufl.edu)
- - date_published: 2024-07-02T02:18:03.735838+00:00
-
- ## Faculty Senate - University of Florida
- - [http://www.senate.ufl.edu](http://www.senate.ufl.edu)
- - date_published: 2024-07-02T02:19:24.688391+00:00
-
- ## Home | UF Office of Student Financial Aid and Scholarships
- - [https://www.sfa.ufl.edu](https://www.sfa.ufl.edu)
- - date_published: 2024-07-02T02:10:45.574860+00:00
-
- ## Welcome
- - [https://www.stat.ufl.edu](https://www.stat.ufl.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Florida Gators - Official Athletics Website
- - [http://www.uaa.ufl.edu](http://www.uaa.ufl.edu)
- - date_published: 2024-07-02T02:09:07+00:00
-
- ## University of Florida International Center
- - [http://www.ufic.ufl.edu](http://www.ufic.ufl.edu)
- - date_published: 2024-07-02T02:18:49.880528+00:00
-
- ## University Relations - University of Florida
- - [http://www.urel.ufl.edu](http://www.urel.ufl.edu)
- - date_published: 2024-07-02T02:19:11.448879+00:00
-
- ## Wildlife Ecology and Conservation  - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://www.wec.ufl.edu](http://www.wec.ufl.edu)
- - date_published: 2024-10-15T05:48:00.619504+00:00
-
- ## Whitney Laboratory for Marine Bioscience - University of Florida
- - [https://www.whitney.ufl.edu](https://www.whitney.ufl.edu)
- - date_published: 2024-08-06T11:09:38.079109+00:00
-
- ## UFM - Facultad de Ciencias Económicas
- - [http://fce.ufm.edu](http://fce.ufm.edu)
- - date_published: 2024-10-31T07:59:12.119486+00:00
-
- ## UGA Admissions
- - [https://admissions.uga.edu](https://admissions.uga.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Agricultural & Applied Economics
- - [https://agecon.uga.edu](https://agecon.uga.edu)
- - date_published: 2024-07-01T21:36:13+00:00
-
- ## Agricultural Leadership, Education & Communication
- - [https://alec.caes.uga.edu](https://alec.caes.uga.edu)
- - date_published: 2024-07-01T21:03:48+00:00
-
- ## Animal & Dairy Science
- - [https://animaldairy.uga.edu](https://animaldairy.uga.edu)
- - date_published: 2024-07-01T21:06:04+00:00
-
- ## UGA Admissions
- - [https://apply.uga.edu](https://apply.uga.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Login - UGA SSO – Central Authentication Service
- - [http://archpass.uga.edu](http://archpass.uga.edu)
- - date_published: 2024-07-02T02:22:46.921907+00:00
-
- ## Athena Homepage
- - [https://athena.uga.edu](https://athena.uga.edu)
- - date_published: 2024-07-02T02:25:09.342921+00:00
-
- ## Home - Belonging
- - [https://belong.uga.edu](https://belong.uga.edu)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Program Request | UGA | Student Affairs
- - [https://bewellprograms.uga.edu](https://bewellprograms.uga.edu)
- - date_published: 2024-05-22T14:25:54+00:00
-
- ## Home - UGA State Botanical Garden
- - [https://botgarden.uga.edu](https://botgarden.uga.edu)
- - date_published: 2024-07-02T02:24:13.732226+00:00
-
- ## University of Georgia Brand Style Guide
- - [https://brand.uga.edu](https://brand.uga.edu)
- - date_published: 2024-07-02T02:20:16.769896+00:00
-
- ## Bulletin - Home
- - [https://bulletin.uga.edu](https://bulletin.uga.edu)
- - date_published: 2024-07-02T02:22:43.521569+00:00
-
- ## UGA Finance Division | University of Georgia
- - [https://busfin.uga.edu](https://busfin.uga.edu)
- - date_published: 2024-07-02T02:21:02.595392+00:00
-
- ## Agribusiness and Economic Development
- - [https://caed.uga.edu](https://caed.uga.edu)
- - date_published: 2024-06-28T20:50:37+00:00
-
- ## College of Agricultural & Environmental Sciences | University of Georgia
- - [https://caes.uga.edu](https://caes.uga.edu)
- - date_published: 2024-05-07T21:12:19.491625+00:00
-
- ## Events Calendar
- - [https://calendar.uga.edu](https://calendar.uga.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home - Student Conduct
- - [https://conduct.uga.edu](https://conduct.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Crop & Soil Sciences
- - [https://cropsoil.uga.edu](https://cropsoil.uga.edu)
- - date_published: 2024-07-01T21:09:51+00:00
-
- ## CTL SITES
- - [https://ctlsites.uga.edu](https://ctlsites.uga.edu)
- - date_published: 2024-05-08T05:47:13.179862+00:00
-
- ## Center for Teaching and Learning
- - [https://ctl.uga.edu](https://ctl.uga.edu)
- - date_published: 2024-07-04T08:55:47.760204+00:00
-
- ## Cultivate
- - [https://cultivate.caes.uga.edu](https://cultivate.caes.uga.edu)
- - date_published: 2024-05-06T19:05:14+00:00
-
- ## Home - Carl Vinson Institute of Government
- - [https://cviog.uga.edu](https://cviog.uga.edu)
- - date_published: 2024-05-07T21:12:53.258501+00:00
-
- ## https://digilab.libs.uga.edu
- - [https://digilab.libs.uga.edu](https://digilab.libs.uga.edu)
- - date_published: 2019-07-31T00:24:19+00:00
-
- ## Digital Commons @ University of Georgia School of Law
- - [https://digitalcommons.law.uga.edu](https://digitalcommons.law.uga.edu)
- - date_published: 2025-02-02T23:52:49.878793+00:00
-
- ## | University of Georgia
- - [https://dining.uga.edu](https://dining.uga.edu)
- - date_published: 2024-07-02T02:20:58.915433+00:00
-
- ## Home - UGA Student Affairs
- - [https://dos.uga.edu](https://dos.uga.edu)
- - date_published: 2024-05-07T21:11:50.660759+00:00
-
- ## Double Dawgs  | The University of Georgia
- - [http://doubledawgs.uga.edu](http://doubledawgs.uga.edu)
- - date_published: 2023-06-24T03:06:18+00:00
-
- ## Home - Disability Resource Center
- - [https://drc.uga.edu](https://drc.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home
- - [http://eitshelpdesk.uga.edu](http://eitshelpdesk.uga.edu)
- - date_published: 2024-07-02T02:24:54.683199+00:00
-
- ## Home | Enterprise Information Technology Services
- - [https://eits.uga.edu](https://eits.uga.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Home - Engagement Leadership and Service
- - [https://els.uga.edu](https://els.uga.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Entomology
- - [https://ent.uga.edu](https://ent.uga.edu)
- - date_published: 2024-07-01T21:26:58+00:00
-
- ## Equal Opportunity Office |
- - [https://eoo.uga.edu](https://eoo.uga.edu)
- - date_published: 2024-07-02T02:21:19.925255+00:00
-
- ## ERROR: HTTP 403
- - [https://estore.uga.edu](https://estore.uga.edu)
- - date_published: 2012-06-27T14:07:44+00:00
-
- ## Extension | UGA Cooperative Extension
- - [https://extension.uga.edu](https://extension.uga.edu)
- - date_published: 2006-06-07T00:00:00+00:00
-
- ## Home - Student Care & Outreach
- - [http://financialhardship.uga.edu](http://financialhardship.uga.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Food Science & Technology
- - [https://foodscience.caes.uga.edu](https://foodscience.caes.uga.edu)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Home - UGA Freedom of Expression
- - [https://freedomofexpression.uga.edu](https://freedomofexpression.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UGA Alumni Donors & Friends - The University of Georgia - Alumni, Donors & Friends - University of Georgia
- - [https://gail.uga.edu](https://gail.uga.edu)
- - date_published: 2024-07-02T02:22:07.728471+00:00
-
- ## Give to UGA for a Better Tomorrow - Support the Future of Georgia
- - [https://give.uga.edu](https://give.uga.edu)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Office of Global Engagement
- - [https://globalengagement.uga.edu](https://globalengagement.uga.edu)
- - date_published: 2024-07-02T02:20:53.847814+00:00
-
- ## Grady College of Mass Communication & Journalism
- - [https://grady.uga.edu](https://grady.uga.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home - Greek Life
- - [https://greeklife.uga.edu](https://greeklife.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Plant Growth Facilities
- - [https://greenhouses.caes.uga.edu](https://greenhouses.caes.uga.edu)
- - date_published: 2022-08-22T00:00:00+00:00
-
- ## University of Georgia Griffin Campus
- - [https://griffin.uga.edu](https://griffin.uga.edu)
- - date_published: 2024-07-01T19:14:51+00:00
-
- ## EITS Help Desk Chat Portal
- - [https://hd.support.uga.edu](https://hd.support.uga.edu)
- - date_published: 2024-07-02T02:25:24.165712+00:00
-
- ## The University of Georgia Health Center
- - [https://healthcenter.uga.edu](https://healthcenter.uga.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home - UGA Morehead Honors College
- - [https://honors.uga.edu](https://honors.uga.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Horticulture
- - [https://hort.caes.uga.edu](https://hort.caes.uga.edu)
- - date_published: 2024-07-01T21:07:43+00:00
-
- ## University Housing – Student Affairs
- - [https://housing.uga.edu](https://housing.uga.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Human Resources | University of Georgia
- - [http://hr.uga.edu](http://hr.uga.edu)
- - date_published: 2024-07-02T02:20:19.015686+00:00
-
- ## UGA Global Impact – Office of Global Engagement
- - [http://international.uga.edu](http://international.uga.edu)
- - date_published: 2024-07-02T02:24:52.563072+00:00
-
- ## Log In ‹ CAES Intranet — WordPress
- - [https://intranet.caes.uga.edu](https://intranet.caes.uga.edu)
- - date_published: 2024-07-02T02:22:54.651583+00:00
-
- ## Home - International Student Life
- - [https://isl.uga.edu](https://isl.uga.edu)
- - date_published: 2024-07-02T02:20:48.408190+00:00
-
- ## Leaders in Innovation
- - [https://leadinginnovation.caes.uga.edu](https://leadinginnovation.caes.uga.edu)
- - date_published: 2024-07-01T19:13:06+00:00
-
- ## Home - Pride Center
- - [https://lgbtcenter.uga.edu](https://lgbtcenter.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## University of Georgia
- - [https://majors.admissions.uga.edu](https://majors.admissions.uga.edu)
- - date_published: 2024-07-02T02:20:50.194802+00:00
-
- ## Welcome to the Department of Mathematics | Department of Mathematics
- - [http://math.uga.edu](http://math.uga.edu)
- - date_published: 2024-06-30T11:18:26+00:00
-
- ## Division of Marketing & Communications, University of Georgia
- - [https://mc.uga.edu](https://mc.uga.edu)
- - date_published: 2024-05-07T21:11:41.782223+00:00
-
- ## Home - Multicultural Services and Programs
- - [https://msp.uga.edu](https://msp.uga.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## MyUGA: Welcome
- - [https://my.uga.edu](https://my.uga.edu)
- - date_published: 2024-05-07T21:11:53.881319+00:00
-
- ## National Center for Home Food Preservation
- - [https://nchfp.uga.edu](https://nchfp.uga.edu)
- - date_published: 2023-11-01T08:43:32.942121+00:00
-
- ## UGA Today - Today’s top news from the University of Georgia
- - [https://news.uga.edu](https://news.uga.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## CAES Newswire
- - [https://newswire.caes.uga.edu](https://newswire.caes.uga.edu)
- - date_published: 2024-07-01T21:06:24+00:00
-
- ## Athena Homepage
- - [https://oasisweb.uga.edu](https://oasisweb.uga.edu)
- - date_published: 2024-05-07T21:12:29.498653+00:00
-
- ## Office of Global Engagement
- - [http://oie.uga.edu](http://oie.uga.edu)
- - date_published: 2024-05-07T21:12:27.283573+00:00
-
- ## Learning and Organizational Development
- - [https://olod.caes.uga.edu](https://olod.caes.uga.edu)
- - date_published: 2024-07-01T22:17:02+00:00
-
- ## UGA New Student Orientation
- - [https://orientation.uga.edu](https://orientation.uga.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home - UGA Student Financial Aid
- - [https://osfa.uga.edu](https://osfa.uga.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Home | UGA Public Service and Outreach Registration System
- - [https://outreachregistration.uga.edu](https://outreachregistration.uga.edu)
- - date_published: 2024-07-02T02:25:29.295792+00:00
-
- ## Home - UGA Office of Instruction
- - [https://ovpi.uga.edu](https://ovpi.uga.edu)
- - date_published: 2024-07-02T02:22:28.536442+00:00
-
- ## University of Georgia's Performing Arts Center
- - [https://pac.uga.edu](https://pac.uga.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## UGA People Search
- - [https://peoplesearch.uga.edu](https://peoplesearch.uga.edu)
- - date_published: 2024-07-02T02:20:21.787756+00:00
-
- ## Professional Education Portal | University of Georgia
- - [https://pep.uga.edu](https://pep.uga.edu)
- - date_published: 2024-07-02T02:24:22.436223+00:00
-
- ## Plant Breeding, Genetics & Genomics
- - [https://plantbreeding.caes.uga.edu](https://plantbreeding.caes.uga.edu)
- - date_published: 2024-07-01T21:18:08+00:00
-
- ## Plant Pathology
- - [https://plantpath.caes.uga.edu](https://plantpath.caes.uga.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Home | University of Georgia - Policy Library
- - [https://policy.uga.edu](https://policy.uga.edu)
- - date_published: 2024-07-02T02:21:47.918090+00:00
-
- ## Poultry Science
- - [https://poultry.caes.uga.edu](https://poultry.caes.uga.edu)
- - date_published: 2022-06-01T00:00:00+00:00
-
- ## Office of the Senior Vice President for Academic Affairs and Provost - University of Georgia - Provost’s Office - University of Georgia
- - [https://provost.uga.edu](https://provost.uga.edu)
- - date_published: 2024-07-02T02:20:43.487605+00:00
-
- ## Home - Recreational Sports
- - [https://recsports.uga.edu](https://recsports.uga.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Home | University of Georgia Extension
- - [https://register.extension.uga.edu](https://register.extension.uga.edu)
- - date_published: 2024-05-07T21:11:55.519588+00:00
-
- ## Office of the Registrar
- - [https://reg.uga.edu](https://reg.uga.edu)
- - date_published: 2024-07-02T02:20:45.121350+00:00
-
- ## Office of Research – University of Georgia Office of Research
- - [https://research.uga.edu](https://research.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Safe & Secure | Annual Fire Safety and Security Report
- - [https://safeandsecure.uga.edu](https://safeandsecure.uga.edu)
- - date_published: 2024-07-02T02:21:51.613676+00:00
-
- ## Home - Student Care & Outreach
- - [https://sco.uga.edu](https://sco.uga.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Athena Homepage
- - [https://sis-ssb-prod.uga.edu](https://sis-ssb-prod.uga.edu)
- - date_published: 2024-07-02T02:24:49.343638+00:00
-
- ## CAES WordPress | Labs and Programs, Blogs, Clubs, Conferences and Events
- - [https://site.caes.uga.edu](https://site.caes.uga.edu)
- - date_published: 2024-07-01T19:50:48+00:00
-
- ## Extension WordPress | Blogs, Programs, and Topical Websites
- - [https://site.extension.uga.edu](https://site.extension.uga.edu)
- - date_published: 2024-06-28T18:34:49+00:00
-
- ## Home | UGA Systems Status
- - [http://status.uga.edu](http://status.uga.edu)
- - date_published: 2023-12-21T17:21:57+00:00
-
- ## UGA Stratigraphy Lab
- - [https://strata.uga.edu](https://strata.uga.edu)
- - date_published: 2024-03-09T15:59:00+00:00
-
- ## Home - UGA Student Affairs
- - [https://studentaffairs.uga.edu](https://studentaffairs.uga.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## 2023 Annual Update - Student Affairs Annual Update
- - [https://studentaffairsupdate.uga.edu](https://studentaffairsupdate.uga.edu)
- - date_published: 2024-07-02T02:21:43.594416+00:00
-
- ## UGA Complaints Portal
- - [https://studentcomplaints.uga.edu](https://studentcomplaints.uga.edu)
- - date_published: 2023-03-23T17:31:08+00:00
-
- ## Home - Student Resources
- - [https://student.uga.edu](https://student.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - Student Veterans Resource Center
- - [https://svrc.uga.edu](https://svrc.uga.edu)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Home - Tate Student Center
- - [https://tate.uga.edu](https://tate.uga.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Welcome | TED
- - [https://ted.cviog.uga.edu](https://ted.cviog.uga.edu)
- - date_published: 2024-07-02T02:25:29+00:00
-
- ## Home - University Testing Services
- - [https://testing.uga.edu](https://testing.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Tifton Campus
- - [https://tifton.caes.uga.edu](https://tifton.caes.uga.edu)
- - date_published: 2024-07-01T21:03:52+00:00
-
- ## Home - UGA Transportation & Parking Services
- - [https://tps.uga.edu](https://tps.uga.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Home - Student Transitions
- - [https://transitions.uga.edu](https://transitions.uga.edu)
- - date_published: 2024-07-02T02:21:32.916539+00:00
-
- ## TinyUGA - link shortener for University of Georgia websites
- - [https://t.uga.edu](https://t.uga.edu)
- - date_published: 2023-11-07T14:54:18.985053+00:00
-
- ## UGA
- - [https://uga.edu](https://uga.edu)
- - date_published: 2024-05-07T21:11:43.033100+00:00
-
- ## UGAMail & Office 365 | Enterprise Information Technology Services
- - [http://ugamail.uga.edu](http://ugamail.uga.edu)
- - date_published: 2024-07-02T02:24:57.409725+00:00
-
- ## Home - University of Georgia College of Veterinary Medicine
- - [https://vet.uga.edu](https://vet.uga.edu)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Visit the University of Georgia
- - [https://visit.uga.edu](https://visit.uga.edu)
- - date_published: 2024-07-02T02:20:20.777972+00:00
-
- ## Home - We Are GA
- - [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Home - Well-being Resources
- - [https://well-being.uga.edu](https://well-being.uga.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Welcome to the Office of University Architects | University Architects
- - [https://www.architects.uga.edu](https://www.architects.uga.edu)
- - date_published: 2024-07-02T02:24:17.315629+00:00
-
- ## College of Family and Consumer Sciences | UGA FACS
- - [https://www.fcs.uga.edu](https://www.fcs.uga.edu)
- - date_published: 2024-07-02T02:22:56+00:00
-
- ## Home | University of Georgia School of Law
- - [http://www.law.uga.edu](http://www.law.uga.edu)
- - date_published: 2024-07-22T02:27:09.453760+00:00
-
- ## AccessUH
- - [https://accessuh.uh.edu](https://accessuh.uh.edu)
- - date_published: 2024-05-07T21:13:08.310845+00:00
-
- ## Engineering Advancement
- - [https://advancement.egr.uh.edu](https://advancement.egr.uh.edu)
- - date_published: 2024-07-02T02:35:57.884980+00:00
-
- ## University of Houston Advancement and Alumni
- - [https://advancement.uh.edu](https://advancement.uh.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## UH ALERT Emergency Notification System - University of Houston
- - [https://alerts.uh.edu](https://alerts.uh.edu)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Home | AMI
- - [https://ami.uh.edu](https://ami.uh.edu)
- - date_published: 2024-07-02T02:36:52.855723+00:00
-
- ## Library Apps
- - [https://apps.lib.uh.edu](https://apps.lib.uh.edu)
- - date_published: 2024-01-19T14:40:34+00:00
-
- ## Latest News
- - [https://bauerstories.uh.edu](https://bauerstories.uh.edu)
- - date_published: 2024-06-24T14:37:50+00:00
-
- ## C. T. Bauer College of Business at the University of Houston
- - [https://bauer.uh.edu](https://bauer.uh.edu)
- - date_published: 2024-05-07T21:13:32.114097+00:00
-
- ## Calendar
- - [https://calendar.uh.edu](https://calendar.uh.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Rockwell Career Center | Bauer College of Business at the University of Houston
- - [https://careercenter.bauer.uh.edu](https://careercenter.bauer.uh.edu)
- - date_published: 2024-07-02T02:34:34.868107+00:00
-
- ## Home | Engineering Career Center
- - [https://career.egr.uh.edu](https://career.egr.uh.edu)
- - date_published: 2024-07-02T02:35:59.642199+00:00
-
- ## Class Notes
- - [https://classnotes.uh.edu](https://classnotes.uh.edu)
- - date_published: 2024-07-02T02:33:28.184621+00:00
-
- ## University of Houston Cullen College of Engineering — Technology Division
- - [https://dot.egr.uh.edu](https://dot.egr.uh.edu)
- - date_published: 2024-07-02T02:36:24.209472+00:00
-
- ## Welcome | Engineering Computing Center
- - [https://ecc.egr.uh.edu](https://ecc.egr.uh.edu)
- - date_published: 2024-07-02T02:36:06.665119+00:00
-
- ## University of Houston Cullen College of Engineering
- - [https://egr.uh.edu](https://egr.uh.edu)
- - date_published: 2024-05-07T21:14:10.247343+00:00
-
- ## The Engines of Our Ingenuity
- - [https://engines.egr.uh.edu](https://engines.egr.uh.edu)
- - date_published: 2024-03-08T09:51:49.224941+00:00
- - tags: ['personal']
-
- ## Home - UH Health - Eye Care
- - [https://eyecare.opt.uh.edu](https://eyecare.opt.uh.edu)
- - date_published: 2021-09-02T00:00:00+00:00
-
- ## Shibboleth Authentication Request
- - [http://ezproxy.lib.uh.edu](http://ezproxy.lib.uh.edu)
- - date_published: 2024-06-30T01:25:21.572572+00:00
-
- ## University of Houston Cullen College of Engineering First Year Experience
- - [https://firstyearexperience.egr.uh.edu](https://firstyearexperience.egr.uh.edu)
- - date_published: 2024-07-02T02:36:27.163677+00:00
-
- ## Gethelp
- - [https://gethelp.uh.edu](https://gethelp.uh.edu)
- - date_published: 2024-01-16T13:21:58+00:00
-
- ## University of Houston Advancement and Alumni
- - [https://giveto.uh.edu](https://giveto.uh.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## University of Houston Advancement and Alumni
- - [https://giving.uh.edu](https://giving.uh.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## ICON - Research UH
- - [https://icon.research.uh.edu](https://icon.research.uh.edu)
- - date_published: 2021-11-03T15:11:24+00:00
-
- ## University of Houston Libraries
- - [https://info.lib.uh.edu](https://info.lib.uh.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home | Innovation & Entrepreneurship
- - [https://innovate.egr.uh.edu](https://innovate.egr.uh.edu)
- - date_published: 2024-07-02T02:36:03.460056+00:00
-
- ## Welcome to the Cullen College of Engineering Intranet | Cullen College of Engineering Intranet
- - [https://intranet.egr.uh.edu](https://intranet.egr.uh.edu)
- - date_published: 2024-07-02T02:36:18.001845+00:00
-
- ## University of Houston Law Center  – A nationally ranked Texas law school – Houston, Texas
- - [https://law.uh.edu](https://law.uh.edu)
- - date_published: 2024-05-07T21:13:45.017129+00:00
-
- ## University of Houston Libraries
- - [https://libraries.uh.edu](https://libraries.uh.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Department of Mathematics
- - [http://math.uh.edu](http://math.uh.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## University of Houston
- - [https://m.uh.edu](https://m.uh.edu)
- - date_published: 2024-12-23T17:43:53.912576+00:00
-
- ## University of Houston Cullen College of Engineering Virtual Learning and Online Programs
- - [https://onlinelearning.egr.uh.edu](https://onlinelearning.egr.uh.edu)
- - date_published: 2024-07-02T02:36:01.945002+00:00
-
- ## Home | PROMES
- - [https://promes.egr.uh.edu](https://promes.egr.uh.edu)
- - date_published: 2024-07-02T02:36:13.206087+00:00
-
- ## University of Houston - Acalog ACMS™
- - [https://publications.uh.edu](https://publications.uh.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Error
- - [http://qil.uh.edu](http://qil.uh.edu)
- - date_published: 2024-12-27T21:17:24.514187+00:00
-
- ## Home | Research Computing
- - [http://researchcomputing.egr.uh.edu](http://researchcomputing.egr.uh.edu)
- - date_published: 2024-07-02T02:36:16.654548+00:00
-
- ## UH Division of Research
- - [https://research.uh.edu](https://research.uh.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Home | Research Experience for Undergraduates
- - [https://reu.egr.uh.edu](https://reu.egr.uh.edu)
- - date_published: 2024-07-02T02:36:19.503622+00:00
-
- ## University of Houston
- - [https://ssl.uh.edu](https://ssl.uh.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Home | St. Elmo Brady
- - [https://stelmobrady.egr.uh.edu](https://stelmobrady.egr.uh.edu)
- - date_published: 2024-07-02T02:36:20.792883+00:00
-
- ## Stories - University of Houston
- - [https://stories.uh.edu](https://stories.uh.edu)
- - date_published: 2021-12-16T07:14:57+00:00
-
- ## UA Digital Library
- - [https://uastories.uh.edu](https://uastories.uh.edu)
- - date_published: 2024-07-02T02:26:07.814624+00:00
-
- ## University of Houston
- - [https://uh.edu](https://uh.edu)
- - date_published: 2023-10-25T19:01:32.158915+00:00
- - tags: ['university']
-
- ## UH Libraries News |  University of Houston Libraries
- - [https://weblogs.lib.uh.edu](https://weblogs.lib.uh.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## TIMES – Texas Institute for Measurement, Evaluation, and Statistics
- - [http://www2.times.uh.edu](http://www2.times.uh.edu)
- - date_published: 2024-07-02T02:36:51.282613+00:00
-
- ## UH Department of Biomedical Engineering
- - [https://www.bme.uh.edu](https://www.bme.uh.edu)
- - date_published: 2024-07-02T02:36:25.937267+00:00
-
- ## William A. Brookshire Department of Chemical and Biomolecular Engineering
- - [https://www.chee.uh.edu](https://www.chee.uh.edu)
- - date_published: 2024-07-02T02:36:14.788811+00:00
-
- ## UH Department of Civil and Environmental Engineering
- - [https://www.cive.uh.edu](https://www.cive.uh.edu)
- - date_published: 2024-07-02T02:36:22.625898+00:00
-
- ## College of Liberal Arts and Social Sciences
- - [http://www.class.uh.edu](http://www.class.uh.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UH Department of Electrical and Computer Engineering
- - [https://www.ece.uh.edu](https://www.ece.uh.edu)
- - date_published: 2024-07-02T02:36:11.381475+00:00
-
- ## UH Department of Industrial Engineering
- - [https://www.ie.uh.edu](https://www.ie.uh.edu)
- - date_published: 2024-07-02T02:36:05.332139+00:00
-
- ## UH Department of Mechanical and Aerospace Engineering
- - [https://www.me.uh.edu](https://www.me.uh.edu)
- - date_published: 2024-07-02T02:35:56.185671+00:00
-
- ## Home - College of Optometry
- - [https://www.opt.uh.edu](https://www.opt.uh.edu)
- - date_published: 2010-12-14T00:00:00+00:00
-
- ## UH Department of Petroleum Engineering
- - [https://www.petro.uh.edu](https://www.petro.uh.edu)
- - date_published: 2024-07-02T02:36:09.253450+00:00
-
- ## Small Business Consulting in Houston | Southeast Texas UH SBDC
- - [https://www.sbdc.uh.edu](https://www.sbdc.uh.edu)
- - date_published: 2024-07-02T02:34:28.838289+00:00
-
- ## University of Houston - University of Houston System
- - [https://uhsystem.edu](https://uhsystem.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## African American Academic Network | University of Illinois Chicago
- - [https://aaan.uic.edu](https://aaan.uic.edu)
- - date_published: 2024-07-02T02:48:30.916234+00:00
-
- ## Asian American Resource and Cultural Center | University of Illinois Chicago
- - [https://aarcc.uic.edu](https://aarcc.uic.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Asian American Student Academic Program | University of Illinois Chicago
- - [https://aasap.uic.edu](https://aasap.uic.edu)
- - date_published: 2024-07-02T02:47:18.577158+00:00
-
- ## Digital Accessibility | Information Technology | University of Illinois Chicago
- - [http://accessweb.uic.edu](http://accessweb.uic.edu)
- - date_published: 2024-07-02T02:41:07.041802+00:00
-
- ## Academic Center for Excellence | University of Illinois Chicago
- - [https://ace.uic.edu](https://ace.uic.edu)
- - date_published: 2024-07-02T02:48:27.617920+00:00
-
- ## UIC Admissions |
- - [http://admissions.uic.edu](http://admissions.uic.edu)
- - date_published: 2024-07-02T02:37:55.791724+00:00
-
- ## Office for Advising Development | University of Illinois Chicago
- - [https://advising.uic.edu](https://advising.uic.edu)
- - date_published: 2024-07-02T02:49:11.888875+00:00
-
- ## College of Applied Health Sciences | University of Illinois at Chicago
- - [https://ahs.uic.edu](https://ahs.uic.edu)
- - date_published: 2024-05-04T12:30:31.024816+00:00
-
- ## Arab American Cultural Center Splash Page | University of Illinois Chicago
- - [https://arabamcc.uic.edu](https://arabamcc.uic.edu)
- - date_published: 2024-07-02T02:47:47.664737+00:00
-
- ## Help Center - Help Center
- - [https://ask.library.uic.edu](https://ask.library.uic.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Black Cultural Center | University of Illinois Chicago
- - [https://blacc.uic.edu](https://blacc.uic.edu)
- - date_published: 2024-07-02T02:46:29.462025+00:00
-
- ## Budget and Financial Analysis | University of Illinois Chicago
- - [https://budget.uic.edu](https://budget.uic.edu)
- - date_published: 2024-06-30T02:12:43.257163+00:00
-
- ## Campus Advocacy Network | University of Illinois Chicago
- - [https://can.uic.edu](https://can.uic.edu)
- - date_published: 2024-07-02T02:47:07.130214+00:00
-
- ## Career Services | University of Illinois Chicago
- - [http://careerservices.uic.edu](http://careerservices.uic.edu)
- - date_published: 2024-07-02T02:38:12.358585+00:00
-
- ## Campus Auxiliary Services | University of Illinois Chicago
- - [http://cas.uic.edu](http://cas.uic.edu)
- - date_published: 2024-07-02T02:38:09.385229+00:00
-
- ## University of Illinois Chicago < University of Illinois Chicago
- - [https://catalog.uic.edu](https://catalog.uic.edu)
- - date_published: 2024-05-07T21:14:42.882549+00:00
-
- ## Chancellor’s Committee on the Status of Persons with Disabilities | University of Illinois Chicago
- - [https://ccspd.uic.edu](https://ccspd.uic.edu)
- - date_published: 2024-07-02T02:40:32.224240+00:00
-
- ## CHANCE Program | University of Illinois Chicago
- - [https://chance.uic.edu](https://chance.uic.edu)
- - date_published: 2024-07-02T02:48:21.950427+00:00
-
- ## Chemistry | University of Illinois Chicago
- - [http://chem.uic.edu](http://chem.uic.edu)
- - date_published: 2024-10-19T04:48:07.354045+00:00
-
- ## College of Medicine Chicago | University of Illinois College of Medicine
- - [https://chicago.medicine.uic.edu](https://chicago.medicine.uic.edu)
- - date_published: 2024-07-02T02:46:40.655361+00:00
-
- ## Children's Center | University of Illinois Chicago
- - [https://childrenscenter.uic.edu](https://childrenscenter.uic.edu)
- - date_published: 2024-07-02T02:46:44.364985+00:00
-
- ## UIC Applied Health Sciences – College of Applied Health Sciences at University of Illinois-Chicago
- - [https://cms.ahs.uic.edu](https://cms.ahs.uic.edu)
- - date_published: 2024-06-21T13:03:03.013434+00:00
-
- ## Counseling Center | University of Illinois Chicago
- - [https://counseling.uic.edu](https://counseling.uic.edu)
- - date_published: 2024-07-02T02:38:35.176040+00:00
-
- ## MSCS Courses | University of Illinois Chicago
- - [https://courses.mscs.uic.edu](https://courses.mscs.uic.edu)
- - date_published: 2024-07-15T11:29:54.836164+00:00
-
- ## Commuter and Off‑Campus Life | University of Illinois Chicago
- - [https://csrc.uic.edu](https://csrc.uic.edu)
- - date_published: 2024-07-02T02:48:04.770693+00:00
-
- ## Disability Cultural Center | University of Illinois Chicago
- - [http://dcc.uic.edu](http://dcc.uic.edu)
- - date_published: 2024-07-02T02:41:23.220616+00:00
-
- ## College of Dentistry | University of Illinois Chicago
- - [https://dentistry.uic.edu](https://dentistry.uic.edu)
- - date_published: 2024-07-02T02:39:27.213205+00:00
-
- ## Dining Services | University of Illinois Chicago
- - [https://dining.uic.edu](https://dining.uic.edu)
- - date_published: 2024-07-02T02:46:32.599610+00:00
-
- ## Disability Resources | University of Illinois Chicago
- - [https://disabilityresources.uic.edu](https://disabilityresources.uic.edu)
- - date_published: 2024-05-07T21:15:07.158529+00:00
-
- ## Office of Diversity, Equity & Engagement | University of Illinois Chicago
- - [https://diversity.uic.edu](https://diversity.uic.edu)
- - date_published: 2024-07-02T02:47:38.681094+00:00
- - tags: ['dei']
-
- ## Office of the Dean of Students | University of Illinois Chicago
- - [https://dos.uic.edu](https://dos.uic.edu)
- - date_published: 2024-05-07T21:14:46.387096+00:00
-
- ## Disability Resource Center | University of Illinois Chicago
- - [http://drc.uic.edu](http://drc.uic.edu)
- - date_published: 2024-07-02T02:41:08.695374+00:00
-
- ## Home - UIC Specialized Care for Children
- - [https://dscc.uic.edu](https://dscc.uic.edu)
- - date_published: 2024-07-02T02:41:13.415664+00:00
-
- ## Environmental Health and Safety | University of Illinois Chicago
- - [https://ehso.uic.edu](https://ehso.uic.edu)
- - date_published: 2024-07-02T02:48:38.997305+00:00
-
- ## Emergency Communications
- - [https://emergency.uic.edu](https://emergency.uic.edu)
- - date_published: 2024-05-07T21:15:02.826770+00:00
-
- ## Citrix Gateway
- - [https://employee.hospital.uic.edu](https://employee.hospital.uic.edu)
- - date_published: 2024-06-26T04:00:01+00:00
-
- ## Equity and Inclusion in Engineering Program | University of Illinois Chicago
- - [https://engineeringequity.uic.edu](https://engineeringequity.uic.edu)
- - date_published: 2024-07-02T02:47:34.535058+00:00
-
- ## Events | UIC today
- - [https://events.uic.edu](https://events.uic.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## UIC today
- - [http://falconcam.uic.edu](http://falconcam.uic.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Sign in to your account
- - [https://fimmanager.vcas.uic.edu](https://fimmanager.vcas.uic.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home
- - [http://fimweb.fim.uic.edu](http://fimweb.fim.uic.edu)
- - date_published: 2024-07-02T02:41:16.142272+00:00
-
- ## Student Financial Aid and Scholarships | University of Illinois Chicago
- - [https://financialaid.uic.edu](https://financialaid.uic.edu)
- - date_published: 2024-07-02T02:47:50.561032+00:00
-
- ## Isadore and Sadie Dorin Forum | University of Illinois Chicago
- - [https://forum.uic.edu](https://forum.uic.edu)
- - date_published: 2024-07-02T02:49:06.621371+00:00
-
- ## LAS Giving | University of Illinois Chicago
- - [https://give.las.uic.edu](https://give.las.uic.edu)
- - date_published: 2024-07-15T11:29:51.019162+00:00
-
- ## Global Asian Studies | University of Illinois Chicago
- - [https://glas.uic.edu](https://glas.uic.edu)
- - date_published: 2024-07-02T02:47:54.430704+00:00
-
- ## UIC GoTime
- - [https://gotime.uic.edu](https://gotime.uic.edu)
- - date_published: 2024-06-10T18:13:46+00:00
-
- ## Webtools | Short URLs
- - [https://go.uic.edu](https://go.uic.edu)
- - date_published: 2019-05-08T16:06:02+00:00
-
- ## Greenhouse | University of Illinois Chicago
- - [https://greenhouse.bios.uic.edu](https://greenhouse.bios.uic.edu)
- - date_published: 2024-07-02T02:47:04.466768+00:00
-
- ## UIC Heritage Garden
- - [https://heritagegarden.uic.edu](https://heritagegarden.uic.edu)
- - date_published: 2024-07-02T02:46:45.597281+00:00
-
- ## homepages.math.uic.edu
- - [http://homepages.math.uic.edu](http://homepages.math.uic.edu)
- - date_published: 2018-02-15T19:03:35+00:00
-
- ## Honors College | University of Illinois Chicago
- - [http://honors.uic.edu](http://honors.uic.edu)
- - date_published: 2024-07-02T02:48:34.440506+00:00
-
- ## Campus Housing | University of Illinois Chicago
- - [https://housing.uic.edu](https://housing.uic.edu)
- - date_published: 2024-07-02T02:46:38.354182+00:00
-
- ## ID Center | University of Illinois Chicago
- - [https://idcenter.uic.edu](https://idcenter.uic.edu)
- - date_published: 2024-07-02T02:48:17.210068+00:00
-
- ## IDHD | University of Illinois Chicago
- - [https://idhd.ahs.uic.edu](https://idhd.ahs.uic.edu)
- - date_published: 2024-07-02T02:40:31.017606+00:00
-
- ## Center for Student Involvement | University of Illinois Chicago
- - [https://involvement.uic.edu](https://involvement.uic.edu)
- - date_published: 2024-07-02T02:48:47.511550+00:00
-
- ## Information Technology | University of Illinois Chicago
- - [https://it.uic.edu](https://it.uic.edu)
- - date_published: 2024-07-02T02:40:47.348561+00:00
-
- ## Journals@UIC
- - [http://journals.uic.edu](http://journals.uic.edu)
- - date_published: 2024-07-09T10:09:03.534307+00:00
-
- ## Latin American and Latino Studies | University of Illinois Chicago
- - [https://lals.uic.edu](https://lals.uic.edu)
- - date_published: 2024-07-02T02:47:22.100878+00:00
-
- ## Latin American Recruitment and Educational Services (LARES) Splash Page | University of Illinois Chicago
- - [https://lares.uic.edu](https://lares.uic.edu)
- - date_published: 2024-07-02T02:48:52.634603+00:00
-
- ## College of Liberal Arts and Sciences | University of Illinois Chicago
- - [https://las.uic.edu](https://las.uic.edu)
- - date_published: 2024-07-15T11:30:09.940280+00:00
-
- ## Rafael Cintrón Ortiz Latino Cultural Center | University of Illinois Chicago
- - [https://latinocultural.uic.edu](https://latinocultural.uic.edu)
- - date_published: 2024-07-02T02:48:58.684775+00:00
-
- ## UIC Law | University of Illinois Chicago
- - [https://law.uic.edu](https://law.uic.edu)
- - date_published: 2024-07-02T02:48:07.482384+00:00
-
- ## Language and Culture Learning Center | University of Illinois Chicago
- - [https://lclc.uic.edu](https://lclc.uic.edu)
- - date_published: 2024-07-02T02:48:46.310707+00:00
-
- ## School of Literatures, Cultural Studies and Linguistics | University of Illinois Chicago
- - [https://lcsl.uic.edu](https://lcsl.uic.edu)
- - date_published: 2024-07-02T02:49:01.886995+00:00
-
- ## University Library | University of Illinois Chicago
- - [https://library.uic.edu](https://library.uic.edu)
- - date_published: 2024-05-07T21:14:41.570523+00:00
-
- ## Campus Map | University of Illinois at Chicago
- - [https://maps.uic.edu](https://maps.uic.edu)
- - date_published: 2024-05-07T21:15:09.937582+00:00
-
- ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
- - [https://math.uic.edu](https://math.uic.edu)
- - date_published: 2024-05-12T06:09:10.409396+00:00
-
- ## Meetings & Conferences | University of Illinois Chicago
- - [https://meetings.uic.edu](https://meetings.uic.edu)
- - date_published: 2024-07-02T02:47:28.927865+00:00
-
- ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
- - [https://mscs.uic.edu](https://mscs.uic.edu)
- - date_published: 2024-07-15T11:29:52.550205+00:00
-
- ## Math & Science Learning Center | University of Illinois Chicago
- - [https://mslc.uic.edu](https://mslc.uic.edu)
- - date_published: 2024-07-02T02:47:23.889279+00:00
-
- ## Welcome | myUIC
- - [https://my.uic.edu](https://my.uic.edu)
- - date_published: 2024-06-21T13:02:37.657561+00:00
-
- ## Native American Support Program | University of Illinois Chicago
- - [https://nasp.uic.edu](https://nasp.uic.edu)
- - date_published: 2024-07-02T02:48:19.656923+00:00
-
- ## College of Nursing | University of Illinois Chicago
- - [https://nursing.uic.edu](https://nursing.uic.edu)
- - date_published: 2024-07-02T02:46:51.172996+00:00
-
- ## Office for Access and Equity | University of Illinois Chicago
- - [http://oae.uic.edu](http://oae.uic.edu)
- - date_published: 2024-07-02T02:38:32.029810+00:00
-
- ## Office of External Fellowships | University of Illinois Chicago
- - [https://oef.uic.edu](https://oef.uic.edu)
- - date_published: 2024-07-02T02:47:13.173449+00:00
-
- ## Office of International Services | University of Illinois Chicago
- - [https://ois.uic.edu](https://ois.uic.edu)
- - date_published: 2024-07-02T02:47:42.455513+00:00
-
- ## Orientation | University of Illinois Chicago
- - [https://orientation.uic.edu](https://orientation.uic.edu)
- - date_published: 2024-07-02T02:47:26.039002+00:00
-
- ## Parking Services | University of Illinois Chicago
- - [https://parking.uic.edu](https://parking.uic.edu)
- - date_published: 2024-07-02T02:46:58.643532+00:00
-
- ## College of Medicine Peoria | University of Illinois College of Medicine
- - [http://peoria.medicine.uic.edu](http://peoria.medicine.uic.edu)
- - date_published: 2024-07-02T02:46:56.069885+00:00
-
- ## Pharmacognosy Institute (PHCI) | University of Illinois Chicago
- - [https://pharmacognosy.pharmacy.uic.edu](https://pharmacognosy.pharmacy.uic.edu)
- - date_published: 2024-07-02T02:48:10.652395+00:00
-
- ## College of Pharmacy - Chicago | Rockford | University of Illinois Chicago
- - [https://pharmacy.uic.edu](https://pharmacy.uic.edu)
- - date_published: 2024-07-02T02:49:03.641639+00:00
-
- ## Law Enforcement Epidemiology Project | University of Illinois Chicago
- - [https://policeepi.uic.edu](https://policeepi.uic.edu)
- - date_published: 2024-07-19T20:14:20.978335+00:00
-
- ## University Police | University of Illinois Chicago
- - [https://police.uic.edu](https://police.uic.edu)
- - date_published: 2024-07-02T02:38:14.966873+00:00
-
- ## UIC Committee on Policy | University of Illinois Chicago
- - [http://policies.uic.edu](http://policies.uic.edu)
- - date_published: 2024-07-02T02:40:49.670513+00:00
-
- ## Shibboleth Authentication Request
- - [http://proxy.cc.uic.edu](http://proxy.cc.uic.edu)
- - date_published: 2024-06-30T01:26:16.778845+00:00
-
- ## Planning, Sustainability and Project Management | University of Illinois Chicago
- - [https://pspm.uic.edu](https://pspm.uic.edu)
- - date_published: 2024-07-02T02:48:48.770264+00:00
-
- ## School of Public Health | University of Illinois Chicago
- - [https://publichealth.uic.edu](https://publichealth.uic.edu)
- - date_published: 2024-07-02T02:47:58.485114+00:00
-
- ## Office of Preparedness and Response | University of Illinois Chicago
- - [https://ready.uic.edu](https://ready.uic.edu)
- - date_published: 2024-06-26T22:31:44.395958+00:00
-
- ## Campus Recreation | University of Illinois Chicago
- - [https://recreation.uic.edu](https://recreation.uic.edu)
- - date_published: 2024-07-02T02:48:50.115600+00:00
-
- ## Office of the Registrar | University of Illinois Chicago
- - [https://registrar.uic.edu](https://registrar.uic.edu)
- - date_published: 2024-07-02T02:40:33.643529+00:00
-
- ## Report a Concern | University of Illinois Chicago
- - [https://reportaconcern.uic.edu](https://reportaconcern.uic.edu)
- - date_published: 2024-05-07T21:15:15.269521+00:00
-
- ## UIC Law Open Access Repository
- - [https://repository.law.uic.edu](https://repository.law.uic.edu)
- - date_published: 2025-02-02T23:51:34.558600+00:00
-
- ## Subject and Course Guides
- - [https://researchguides.uic.edu](https://researchguides.uic.edu)
- - date_published: 2024-07-02T02:37:50.924713+00:00
-
- ## College of Medicine Rockford | University of Illinois College of Medicine
- - [http://rockford.medicine.uic.edu](http://rockford.medicine.uic.edu)
- - date_published: 2024-07-02T02:47:11.735546+00:00
-
- ## Staff Advisory Council | University of Illinois Chicago
- - [https://sac.uic.edu](https://sac.uic.edu)
- - date_published: 2024-07-02T02:47:15.608047+00:00
-
- ## Student Affairs Human Resources | University of Illinois Chicago
- - [https://sahr.uic.edu](https://sahr.uic.edu)
- - date_published: 2024-07-02T02:38:42.422413+00:00
-
- ## STUDENT AFFAIRS | University of Illinois Chicago
- - [http://sa.uic.edu](http://sa.uic.edu)
- - date_published: 2024-07-02T02:38:39.542977+00:00
-
- ## Student Leadership and Civic Engagement | University of Illinois Chicago
- - [https://slce.uic.edu](https://slce.uic.edu)
- - date_published: 2024-07-02T02:47:09.886212+00:00
-
- ## Student Centers | University of Illinois Chicago
- - [https://studentcenters.uic.edu](https://studentcenters.uic.edu)
- - date_published: 2024-07-02T02:48:43.260530+00:00
-
- ## Student Employment | University of Illinois Chicago
- - [http://studentemployment.uic.edu](http://studentemployment.uic.edu)
- - date_published: 2024-07-02T02:38:45.824932+00:00
-
- ## Study Abroad Office | University of Illinois Chicago
- - [https://studyabroad.uic.edu](https://studyabroad.uic.edu)
- - date_published: 2024-07-02T02:47:45.704117+00:00
-
- ## Planning, Sustainability and Project Management | University of Illinois Chicago
- - [https://sustainability.uic.edu](https://sustainability.uic.edu)
- - date_published: 2024-07-02T02:46:36.666374+00:00
-
- ## Testing Services | University of Illinois Chicago
- - [https://testing.uic.edu](https://testing.uic.edu)
- - date_published: 2024-07-02T02:46:54.224790+00:00
-
- ## UIC today
- - [https://today.uic.edu](https://today.uic.edu)
- - date_published: 2023-10-25T19:01:36.433328+00:00
-
- ## Transportation | University of Illinois Chicago
- - [https://transportation.uic.edu](https://transportation.uic.edu)
- - date_published: 2024-07-02T02:40:19.376266+00:00
-
- ## TRIO | University of Illinois Chicago
- - [https://trio.uic.edu](https://trio.uic.edu)
- - date_published: 2024-07-02T02:47:00.922674+00:00
-
- ## Urban Health Program | University of Illinois Chicago
- - [https://uhp.uic.edu](https://uhp.uic.edu)
- - date_published: 2024-07-02T02:46:47.599601+00:00
-
- ## University of Illinois Chicago
- - [https://uic.edu](https://uic.edu)
- - date_published: 2024-05-07T21:14:54.855233+00:00
-
- ## UI Health | University of Illinois Chicago
- - [https://uihealth.uic.edu](https://uihealth.uic.edu)
- - date_published: 2024-06-21T13:03:11.282662+00:00
-
- ## Office of the Vice Chancellor for Administrative Services | University of Illinois Chicago
- - [https://vcas.uic.edu](https://vcas.uic.edu)
- - date_published: 2024-07-02T02:40:16.999530+00:00
-
- ## STUDENT AFFAIRS | University of Illinois Chicago
- - [http://vcsa.uic.edu](http://vcsa.uic.edu)
- - date_published: 2024-07-21T22:34:46.445262+00:00
-
- ## Wellness Center | University of Illinois Chicago
- - [http://wellnesscenter.uic.edu](http://wellnesscenter.uic.edu)
- - date_published: 2024-07-02T02:38:19.195852+00:00
-
- ## Women’s Leadership and Resource Center | University of Illinois Chicago
- - [https://wlrc.uic.edu](https://wlrc.uic.edu)
- - date_published: 2024-07-02T02:48:14.553587+00:00
-
- ## Writing Center | University of Illinois Chicago
- - [https://writingcenter.uic.edu](https://writingcenter.uic.edu)
- - date_published: 2024-07-02T02:49:09.326146+00:00
-
- ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
- - [http://www2.math.uic.edu](http://www2.math.uic.edu)
- - date_published: 2024-06-30T08:58:04.424756+00:00
-
- ## evl | Electronic Visualization Laboratory
- - [https://www.evl.uic.edu](https://www.evl.uic.edu)
- - date_published: 2025-01-16T00:43:59.536599+00:00
-
- ## Biomedical Optics and Ophthalmic Imaging Laboratory | University of Illinois Chicago
- - [https://yaolab.bioe.uic.edu](https://yaolab.bioe.uic.edu)
- - date_published: 2024-05-06T20:00:45.734451+00:00
-
- ## Sign in to your account
- - [https://bannerssb4.uidaho.edu](https://bannerssb4.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Sign in to your account
- - [https://banner.uidaho.edu](https://banner.uidaho.edu)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Sign in to your account
- - [https://canvas.uidaho.edu](https://canvas.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Campus Directory - University of Idaho
- - [https://directory.uidaho.edu](https://directory.uidaho.edu)
- - date_published: 2024-06-16T08:35:58.417080+00:00
-
- ## University of Idaho - Offering top-ranked programs in the Northwest
- - [https://futurevandals.uidaho.edu](https://futurevandals.uidaho.edu)
- - date_published: 2024-09-27T22:13:58.616601+00:00
-
- ## Home | Idaho Harvester
- - [https://harvester.lib.uidaho.edu](https://harvester.lib.uidaho.edu)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Default - LibAnswers
- - [https://libanswers.uidaho.edu](https://libanswers.uidaho.edu)
- - date_published: 2024-05-15T00:00:00+00:00
+ ## Home | 10th Anniversary NYU Shanghai
+ - [https://10years.shanghai.nyu.edu](https://10years.shanghai.nyu.edu)
+ - date_published: 2024-06-20T20:01:34+00:00
+
+ ## 360 Home | NYU Shanghai
+ - [https://360.shanghai.nyu.edu](https://360.shanghai.nyu.edu)
+ - date_published: 2017-10-31T00:00:00+00:00
+
+ ## Choose Your Affiliation - NYU Health Sciences Library
+ - [https://accessemergencymedicine-mhmedical-com.ezproxy.med.nyu.edu](https://accessemergencymedicine-mhmedical-com.ezproxy.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:38.440765+00:00
+
+ ## Choose Your Affiliation - NYU Health Sciences Library
+ - [https://accessmedicine-mhmedical-com.ezproxy.med.nyu.edu](https://accessmedicine-mhmedical-com.ezproxy.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:49.241395+00:00
+
+ ## Albert Login
+ - [http://albert.nyu.edu](http://albert.nyu.edu)
+ - date_published: 2024-02-24T01:10:06+00:00
+
+ ## Home | The Lillian & Clarence de la Chapelle Medical Archives
+ - [https://archives.med.nyu.edu](https://archives.med.nyu.edu)
+ - date_published: 2024-07-06T06:28:04+00:00
+
+ ## Arts & Science
+ - [https://as.nyu.edu](https://as.nyu.edu)
+ - date_published: 2024-05-04T09:00:47.115232+00:00
+
+ ## NYU Stern Center for Business & Human Rights
+ - [https://bhr.stern.nyu.edu](https://bhr.stern.nyu.edu)
+ - date_published: 2024-09-02T11:49:15.039416+00:00
+
+ ## OSIRIS Lab at NYU Tandon
+ - [https://blog.osiris.cyber.nyu.edu](https://blog.osiris.cyber.nyu.edu)
+ - date_published: 2023-10-25T18:56:14.326050+00:00
+
+ ## Web Publishing
+ - [http://blogs.nyu.edu](http://blogs.nyu.edu)
+ - date_published: 2024-06-20T03:54:05.478515+00:00
+
+ ## NYU Login
+ - [https://brightspace.nyu.edu](https://brightspace.nyu.edu)
+ - date_published: 2024-07-20T11:22:10.100014+00:00
+
+ ## New York University Bulletins | NYU Bulletins
+ - [https://bulletins.nyu.edu](https://bulletins.nyu.edu)
+ - date_published: 2024-07-19T16:25:42+00:00
+
+ ## College of Arts & Science
+ - [http://cas.nyu.edu](http://cas.nyu.edu)
+ - date_published: 2024-06-21T19:15:57+00:00
+
+ ## NYU Shanghai | NYU Shanghai
+ - [https://cdn.shanghai.nyu.edu](https://cdn.shanghai.nyu.edu)
+ - date_published: 2024-06-21T22:49:06+00:00
+
+ ## Center for Data Science - New York University
+ - [https://cds.nyu.edu](https://cds.nyu.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Center for European and Mediterranean Studies
+ - [http://cems.as.nyu.edu](http://cems.as.nyu.edu)
+ - date_published: 2024-06-13T21:53:10+00:00
+
+ ## Institute | NYU Courant
+ - [https://cims.nyu.edu](https://cims.nyu.edu)
+ - date_published: 2023-10-25T18:56:17.174439+00:00
+
+ ## Clinical Trials & Research Studies | NYU Langone Medical Center
+ - [https://clinicaltrials.med.nyu.edu](https://clinicaltrials.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:06.504895+00:00
+
+ ## Commencement | NYU Shanghai Commencement
+ - [https://commencement.shanghai.nyu.edu](https://commencement.shanghai.nyu.edu)
+ - date_published: 2024-06-19T04:14:14+00:00
+
+ ## Undergraduate Admissions
+ - [http://connect.nyu.edu](http://connect.nyu.edu)
+ - date_published: 2024-06-20T19:13:48+00:00
+
+ ## Algorithms and Foundations
+ - [https://csefoundations.engineering.nyu.edu](https://csefoundations.engineering.nyu.edu)
+ - date_published: 2024-05-07T19:49:51.079377+00:00
+
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [http://cs.nyu.edu](http://cs.nyu.edu)
+ - date_published: 2021-08-09T11:43:42+00:00
+
+ ## NYU Data Catalog
+ - [https://datacatalog.med.nyu.edu](https://datacatalog.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:45.598961+00:00
+
+ ## Digital Library Technology Services – A unit of NYU Libraries and NYU IT
+ - [https://dlib.nyu.edu](https://dlib.nyu.edu)
+ - date_published: 2024-07-14T23:42:56.995599+00:00
+
+ ## Choose Your Affiliation - NYU Health Sciences Library
+ - [https://dsm-psychiatryonline-org.ezproxy.med.nyu.edu](https://dsm-psychiatryonline-org.ezproxy.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:44.215075+00:00
+
+ ## Home | NYU Tandon School of Engineering
+ - [https://engineering.nyu.edu](https://engineering.nyu.edu)
+ - date_published: 2024-05-19T02:41:46.413102+00:00
+
+ ## Calendar - NYU Shanghai
+ - [https://events.shanghai.nyu.edu](https://events.shanghai.nyu.edu)
+ - date_published: 2024-06-21T23:05:57.045486+00:00
+
+ ## NYU Stern Executive Education
+ - [https://execed.stern.nyu.edu](https://execed.stern.nyu.edu)
+ - date_published: 2025-01-21T13:19:34.650523+00:00
+
+ ## Choose Your Affiliation - NYU Health Sciences Library
+ - [http://ezproxy.med.nyu.edu](http://ezproxy.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:36.615968+00:00
+
+ ## NYU Login
+ - [https://faculty.shanghai.nyu.edu](https://faculty.shanghai.nyu.edu)
+ - date_published: 2024-06-21T23:05:58.916755+00:00
+
+ ## NYU Shanghai - Education Development Foundation | NYU Shanghai - Education Development Foundation
+ - [https://foundation.shanghai.nyu.edu](https://foundation.shanghai.nyu.edu)
+ - date_published: 2024-06-21T22:59:11+00:00
+
+ ## NYU Gallatin School of Individualized Study
+ - [http://gallatin.nyu.edu](http://gallatin.nyu.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## NYU Game Center
+ - [http://gamecenter.nyu.edu](http://gamecenter.nyu.edu)
+ - date_published: 2024-06-22T08:43:40.855631+00:00
+
+ ## NYU Tandon School of Engineering Game Innovation Lab |
+ - [http://game.engineering.nyu.edu](http://game.engineering.nyu.edu)
+ - date_published: 2024-06-22T08:43:39.102758+00:00
+
+ ## Graduate School of Arts & Science
+ - [http://gsas.nyu.edu](http://gsas.nyu.edu)
+ - date_published: 2024-06-21T18:55:37+00:00
+
+ ## Research Guides
+ - [https://guides.nyu.edu](https://guides.nyu.edu)
+ - date_published: 2024-09-06T12:37:30.457329+00:00
+
+ ## NYU Login
+ - [https://home.nyu.edu](https://home.nyu.edu)
+ - date_published: 2024-05-07T19:50:03.869850+00:00
+
+ ## Subject Guides
+ - [https://hslguides.med.nyu.edu](https://hslguides.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:28.767472+00:00
+
+ ## NYU Health Sciences Library
+ - [https://hsl.med.nyu.edu](https://hsl.med.nyu.edu)
+ - date_published: 2024-05-08T11:00:12.848241+00:00
 
  ## LibCal -
-        University of Idaho
- - [https://libcal.uidaho.edu](https://libcal.uidaho.edu)
- - date_published: 2024-09-27T22:21:33.617104+00:00
-
- ## LibGuides
- - [https://libguides.uidaho.edu](https://libguides.uidaho.edu)
- - date_published: 2024-09-27T22:21:36.000328+00:00
-
- ## Error 403
- - [https://login.ots.uidaho.edu](https://login.ots.uidaho.edu)
- - date_published: 2023-10-09T14:05:34+00:00
-
- ## Sign in to Outlook
- - [http://mail.uidaho.edu](http://mail.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Sign in to your account
- - [https://my.uidaho.edu](https://my.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Vandal Poem of the Day
- - [https://poetry.lib.uidaho.edu](https://poetry.lib.uidaho.edu)
- - date_published: 2024-09-27T22:22:39.076004+00:00
-
- ## Sign in to your account
- - [https://sso.directory.uidaho.edu](https://sso.directory.uidaho.edu)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Home
- - [https://support.uidaho.edu](https://support.uidaho.edu)
- - date_published: 2024-05-01T07:27:03.955857+00:00
-
- ## University of Idaho - Offering top-ranked programs in the Northwest
- - [https://uidaho.edu](https://uidaho.edu)
- - date_published: 2024-09-27T22:13:42.004212+00:00
-
- ## Sign in to your account
- - [https://vandalstar.uidaho.edu](https://vandalstar.uidaho.edu)
- - date_published: 2024-06-16T08:36:33.120948+00:00
-
- ## Sign in to Outlook
- - [https://vandals.uidaho.edu](https://vandals.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Sign in to your account
- - [https://vandalweb.uidaho.edu](https://vandalweb.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Research Portal
- - [https://verso.uidaho.edu](https://verso.uidaho.edu)
- - date_published: 2024-08-28T19:54:12+00:00
-
- ## 404 - University of Idaho
- - [https://webpages.uidaho.edu](https://webpages.uidaho.edu)
- - date_published: 2024-04-18T06:18:28+00:00
-
- ## University of Idaho Library Home
- - [http://www.lib.uidaho.edu](http://www.lib.uidaho.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## UIE | Universidad Intercontinental de la Empresa
- - [https://uie.edu](https://uie.edu)
- - date_published: 2025-02-02T13:59:50.288519+00:00
-
- ## University of Illinois Unified Knowledgebase
- - [https://answers.uillinois.edu](https://answers.uillinois.edu)
- - date_published: 2024-07-07T05:30:52.989913+00:00
-
- ## Home
- - [https://apps.uillinois.edu](https://apps.uillinois.edu)
- - date_published: 2024-07-02T02:50:07.358184+00:00
-
- ## Discovery Partners Institute | University of Illinois System
- - [https://dpi.uillinois.edu](https://dpi.uillinois.edu)
- - date_published: 2024-08-08T21:24:18.443645+00:00
-
- ## UI Press | University of Illinois
- - [https://files.press.uillinois.edu](https://files.press.uillinois.edu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Webtools
- - [https://forms.uofi.uillinois.edu](https://forms.uofi.uillinois.edu)
- - date_published: 2023-12-05T19:47:55+00:00
-
- ## System Homepage
- - [https://help.uillinois.edu](https://help.uillinois.edu)
- - date_published: 2024-05-07T21:15:05.676777+00:00
-
- ## UI Health: University of Illinois Hospital and Health Sciences System in Chicago
- - [https://hospital.uillinois.edu](https://hospital.uillinois.edu)
- - date_published: 2024-05-07T21:14:57.628583+00:00
-
- ## Home - i-card
- - [https://icard.uillinois.edu](https://icard.uillinois.edu)
- - date_published: 2024-07-02T02:50:00.825734+00:00
-
- ## NetID Center University of Illinois System
- - [https://identity.uillinois.edu](https://identity.uillinois.edu)
- - date_published: 2024-07-22T18:35:10.542807+00:00
-
- ## Home | Strategic Innovation | University of Illinois Foundation
- - [https://innovate.uif.uillinois.edu](https://innovate.uif.uillinois.edu)
- - date_published: 2024-07-21T22:49:24.826471+00:00
-
- ## Welcome | myResearch Portal | University of Illinois System
- - [https://myresearchportal.uillinois.edu](https://myresearchportal.uillinois.edu)
- - date_published: 2024-10-15T07:27:25.078130+00:00
-
- ## Welcome | myResearch Portal | University of Illinois System
- - [https://myresearch.uillinois.edu](https://myresearch.uillinois.edu)
- - date_published: 2024-10-15T07:27:31.765469+00:00
-
- ## Welcome
- - [https://nessie.uihr.uillinois.edu](https://nessie.uihr.uillinois.edu)
- - date_published: 2024-06-21T13:03:14.702090+00:00
-
- ## University of Illinois System News
- - [https://news.uillinois.edu](https://news.uillinois.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Welcome | UIF Online
- - [https://online.uif.uillinois.edu](https://online.uif.uillinois.edu)
- - date_published: 2024-07-19T21:32:49+00:00
-
- ## Home
- - [https://paymybill.uillinois.edu](https://paymybill.uillinois.edu)
- - date_published: 2024-07-02T02:47:41.099794+00:00
-
- ## TechReady Illinois - Jumpstart and advance your tech career
- - [https://techready.uillinois.edu](https://techready.uillinois.edu)
- - date_published: 2024-07-13T18:42:48.854140+00:00
-
- ## UIF | University of Illinois Foundation
- - [https://uif.uillinois.edu](https://uif.uillinois.edu)
- - date_published: 2024-04-30T04:56:45.328381+00:00
-
- ## Home - University of Illinois System
- - [https://uillinois.edu](https://uillinois.edu)
- - date_published: 2024-05-07T21:14:51.814206+00:00
-
- ## Home | University Senates Conference
- - [https://usc.uillinois.edu](https://usc.uillinois.edu)
- - date_published: 2024-07-02T01:09:12+00:00
-
- ## Home - EVPAA
- - [https://vpaa.uillinois.edu](https://vpaa.uillinois.edu)
- - date_published: 2024-04-30T04:57:25.699666+00:00
-
- ## web.uillinois.edu
- - [https://web.uillinois.edu](https://web.uillinois.edu)
- - date_published: 2024-07-02T02:39:04.115132+00:00
-
- ## Home
- - [https://www.aits.uillinois.edu](https://www.aits.uillinois.edu)
- - date_published: 2024-07-02T02:39:02.496053+00:00
-
- ## Home
- - [https://www.bot.uillinois.edu](https://www.bot.uillinois.edu)
- - date_published: 2024-07-02T02:39:08.385572+00:00
-
- ## Home
- - [https://www.ethics.uillinois.edu](https://www.ethics.uillinois.edu)
- - date_published: 2024-07-02T02:50:38.072676+00:00
-
- ## Welcome
- - [https://www.hr.uillinois.edu](https://www.hr.uillinois.edu)
- - date_published: 2024-07-02T02:38:59.589794+00:00
-
- ## IGPA - The University of Illinois System is the people’s university, and IGPA is the people’s policy think tank.
- - [http://www.igpa.uillinois.edu](http://www.igpa.uillinois.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Online Courses Catalogue
- - [http://www.online.uillinois.edu](http://www.online.uillinois.edu)
- - date_published: 2024-07-02T02:40:25.050258+00:00
-
- ## University of Illinois > University Office for Planning and Budgeting
- - [http://www.pb.uillinois.edu](http://www.pb.uillinois.edu)
- - date_published: 2024-07-21T22:34:39.205408+00:00
-
- ## UI Press | University of Illinois
- - [https://www.press.uillinois.edu](https://www.press.uillinois.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home
- - [http://www.uaps.uillinois.edu](http://www.uaps.uillinois.edu)
- - date_published: 2024-07-21T22:34:52.378127+00:00
-
- ## Christel DeHaan Center for Global Engagement - University of Indianapolis
- - [https://archlab.uindy.edu](https://archlab.uindy.edu)
- - date_published: 2024-05-07T15:19:04.853289+00:00
-
- ## Admissions - University of Indianapolis
- - [https://attend.uindy.edu](https://attend.uindy.edu)
- - date_published: 2024-06-21T18:37:28+00:00
-
- ## Events - UIndy 360
- - [https://events.uindy.edu](https://events.uindy.edu)
- - date_published: 2024-06-30T05:15:32.847777+00:00
-
- ## Event Calendar - University of Indianapolis
- - [https://getinvolved.uindy.edu](https://getinvolved.uindy.edu)
- - date_published: 2024-06-30T05:15:46.486086+00:00
-
- ## Careers | Job Application
- - [https://hrjobs.uindy.edu](https://hrjobs.uindy.edu)
- - date_published: 2024-06-30T05:15:36.415018+00:00
-
- ## University of Indianapolis
- - [https://map.uindy.edu](https://map.uindy.edu)
- - date_published: 2024-06-30T05:15:38.430458+00:00
-
- ## Sign in to your account
- - [https://my.uindy.edu](https://my.uindy.edu)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Home - UIndy 360
- - [https://news.uindy.edu](https://news.uindy.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## University of Indianapolis
- - [http://uindy.edu](http://uindy.edu)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## YOU INDY – University of Indianapolis – UIndy thrives with you.
- - [https://you.uindy.edu](https://you.uindy.edu)
- - date_published: 2024-06-30T05:15:42.622266+00:00
-
- ## Admissions | The University of Iowa
- - [https://admissions.uiowa.edu](https://admissions.uiowa.edu)
- - date_published: 2024-07-02T02:15:48+00:00
-
- ## IIS Windows Server
- - [https://apps.dentistry.uiowa.edu](https://apps.dentistry.uiowa.edu)
- - date_published: 2023-06-20T19:41:02+00:00
-
- ## University of Iowa Assets
- - [https://assets.uiowa.edu](https://assets.uiowa.edu)
- - date_published: 2017-06-09T16:03:35+00:00
-
- ## Brand Manual | The University of Iowa
- - [https://brand.uiowa.edu](https://brand.uiowa.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Pomerantz Career Center | The University of Iowa
- - [https://careers.uiowa.edu](https://careers.uiowa.edu)
- - date_published: 2024-07-02T02:01:18+00:00
-
- ## The University of Iowa 2024-25 General Catalog < University of Iowa
- - [http://catalog.registrar.uiowa.edu](http://catalog.registrar.uiowa.edu)
- - date_published: 2024-07-01T13:13:11+00:00
-
- ## College of Liberal Arts and Sciences | The University of Iowa
- - [https://clas.uiowa.edu](https://clas.uiowa.edu)
- - date_published: 2024-05-07T21:15:56.514442+00:00
-
- ## Content Hub
- - [https://content.uiowa.edu](https://content.uiowa.edu)
- - date_published: 2024-07-02T02:33:44+00:00
-
- ## Novel Coronavirus (COVID-19) | The University of Iowa
- - [https://coronavirus.uiowa.edu](https://coronavirus.uiowa.edu)
- - date_published: 2024-06-24T22:55:49+00:00
-
- ## College of Dentistry and Dental Clinics | The University of Iowa
- - [https://dentistry.uiowa.edu](https://dentistry.uiowa.edu)
+        NYU Health Sciences Library
+ - [https://hslrooms.med.nyu.edu](https://hslrooms.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:52.898521+00:00
+
+ ## The Institute of Fine Arts, NYU
+ - [https://ifa.nyu.edu](https://ifa.nyu.edu)
+ - date_published: 2024-06-01T01:24:44+00:00
+
+ ## NYU Login
+ - [https://intranet.nyuad.nyu.edu](https://intranet.nyuad.nyu.edu)
+ - date_published: 2024-06-10T12:58:34.254016+00:00
+
+ ## Institute for the Study of the Ancient World
+ - [http://isaw.nyu.edu](http://isaw.nyu.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## ITP / IMA
+ - [http://itp.nyu.edu](http://itp.nyu.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Home | NYU School of Law
+ - [https://its.law.nyu.edu](https://its.law.nyu.edu)
+ - date_published: 2024-06-17T11:12:07.623149+00:00
+
+ ## Choose Your Affiliation - NYU Health Sciences Library
+ - [https://jamanetwork-com.ezproxy.med.nyu.edu](https://jamanetwork-com.ezproxy.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:41.009573+00:00
+
+ ## NYU Journalism - Arthur L. Carter Journalism Institute
+ - [https://journalism.nyu.edu](https://journalism.nyu.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home | NYU School of Law
+ - [https://law.nyu.edu](https://law.nyu.edu)
+ - date_published: 2024-05-08T10:59:49.830912+00:00
+
+ ## Ask the Library - Ask the Library
+ - [https://libraryhelp.med.nyu.edu](https://libraryhelp.med.nyu.edu)
  - date_published: 2024-05-31T00:00:00+00:00
 
- ## Welcome to The University of Iowa Libraries | The University of Iowa Libraries
- - [http://digital.lib.uiowa.edu](http://digital.lib.uiowa.edu)
- - date_published: 2024-06-24T08:20:26+00:00
+ ## LibGuides: Hollis Health Sciences Library: Home
+ - [https://library.medli.nyu.edu](https://library.medli.nyu.edu)
+ - date_published: 2024-07-08T11:28:04.599846+00:00
 
- ## Distance and Online Education | The University of Iowa
- - [https://distance.uiowa.edu](https://distance.uiowa.edu)
- - date_published: 2024-06-28T16:58:34+00:00
+ ## Index
+ - [http://library.nyu.edu](http://library.nyu.edu)
+ - date_published: 2024-06-29T02:13:51+00:00
 
- ## Home The University of Iowa Division of Access, Opportunity, and Diversity
- - [https://diversity.uiowa.edu](https://diversity.uiowa.edu)
- - date_published: 2024-10-18T22:21:12.530925+00:00
+ ## Department of Linguistics
+ - [http://linguistics.as.nyu.edu](http://linguistics.as.nyu.edu)
+ - date_published: 2024-09-05T21:24:18+00:00
 
- ## College of Liberal Arts and Sciences | The University of Iowa
- - [https://divms.uiowa.edu](https://divms.uiowa.edu)
- - date_published: 2024-10-15T21:12:56+00:00
+ ## Math and Data
+ - [https://mad.cds.nyu.edu](https://mad.cds.nyu.edu)
+ - date_published: 2024-04-26T20:24:52+00:00
 
- ## Emergency Information | The University of Iowa
- - [https://emergency.uiowa.edu](https://emergency.uiowa.edu)
- - date_published: 2024-07-02T00:52:11+00:00
+ ## Marron Institute
+ - [https://marroninstitute.nyu.edu](https://marroninstitute.nyu.edu)
+ - date_published: 2024-05-06T22:50:13.709703+00:00
 
- ## Events Calendar
- - [https://events.uiowa.edu](https://events.uiowa.edu)
+ ## Home | Department of Mathematics | NYU Courant
+ - [https://math.nyu.edu](https://math.nyu.edu)
+ - date_published: 2024-05-07T19:49:50.140215+00:00
+
+ ## NYU Minds, Brains, and Machines Initiative
+ - [https://mbm.cds.nyu.edu](https://mbm.cds.nyu.edu)
+ - date_published: 2021-10-26T00:00:00+00:00
+
+ ## LitMed: Literature Arts Medicine Database
+ - [http://medhum.med.nyu.edu](http://medhum.med.nyu.edu)
+ - date_published: 2024-06-24T09:44:16.996044+00:00
+
+ ## NYU Grossman Long Island School of Medicine | NYU Langone Health
+ - [https://medli.nyu.edu](https://medli.nyu.edu)
+ - date_published: 2024-05-08T10:59:54.891213+00:00
+
+ ## Education & Research at NYU Langone Health | NYU Langone Health
+ - [https://med.nyu.edu](https://med.nyu.edu)
+ - date_published: 2024-05-08T10:59:59.380131+00:00
+
+ ## Home | The NYU Shanghai-ECNU Joint Graduate Training Program | NYU Shanghai
+ - [https://netprogram.shanghai.nyu.edu](https://netprogram.shanghai.nyu.edu)
+ - date_published: 2024-04-12T03:23:15+00:00
+
+ ## Home | NYU Rory Meyers College of Nursing
+ - [http://nursing.nyu.edu](http://nursing.nyu.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Home
+ - [https://nyuad.nyu.edu](https://nyuad.nyu.edu)
+ - date_published: 2024-05-07T19:50:00.353043+00:00
+
+ ## NYU
+ - [https://nyu.edu](https://nyu.edu)
+ - date_published: 2024-05-02T13:49:29.780095+00:00
+ - tags: ['new york', 'university']
+
+ ## Welcome to Pages at the Stern School of Business, New York University
+ - [https://pages.stern.nyu.edu](https://pages.stern.nyu.edu)
+ - date_published: 2024-01-09T03:27:46.632899+00:00
+
+ ## https://physics.nyu.edu
+ - [https://physics.nyu.edu](https://physics.nyu.edu)
+ - date_published: 2024-01-09T03:27:52.463967+00:00
+
+ ## Wilf Family Department of Politics
+ - [http://politics.as.nyu.edu](http://politics.as.nyu.edu)
+ - date_published: 2024-06-15T12:32:17+00:00
+
+ ## New York University School of Global Public Health | NYU School of Global Public Health
+ - [http://publichealth.nyu.edu](http://publichealth.nyu.edu)
+ - date_published: 2024-06-21T19:45:48+00:00
+
+ ## Home
+ - [https://publicprograms.nyuad.nyu.edu](https://publicprograms.nyuad.nyu.edu)
+ - date_published: 2025-01-08T04:08:02+00:00
+
+ ## Research | Research NYU Shanghai
+ - [https://research.shanghai.nyu.edu](https://research.shanghai.nyu.edu)
+ - date_published: 2024-06-21T21:48:30+00:00
+
+ ## Welcome to SBSL | SBSL | NYU Shanghai
+ - [https://sbsl.shanghai.nyu.edu](https://sbsl.shanghai.nyu.edu)
+ - date_published: 2024-06-21T23:06:16.618627+00:00
+
+ ## Department of Social and Cultural Analysis
+ - [http://sca.as.nyu.edu](http://sca.as.nyu.edu)
+ - date_published: 2024-07-12T16:44:19+00:00
+
+ ## Education | NYU Langone Health
+ - [http://school.med.nyu.edu](http://school.med.nyu.edu)
+ - date_published: 2024-06-21T23:05:34.535983+00:00
+
+ ## NYU Shanghai | NYU Shanghai
+ - [https://shanghai.nyu.edu](https://shanghai.nyu.edu)
+ - date_published: 2024-05-04T14:25:44.862379+00:00
+
+ ## Start Page
+ - [https://start.nyu.edu](https://start.nyu.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## NYU Steinhardt
+ - [https://steinhardt.nyu.edu](https://steinhardt.nyu.edu)
+ - date_published: 2024-03-11T20:56:22.990916+00:00
+
+ ## Stern at NYUAD One-year Full-time MBA
+ - [https://stern.nyuad.nyu.edu](https://stern.nyuad.nyu.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## NYU Stern School of Business | Full-time MBA, Part-time (Langone) MBA, Undergraduate, PhD, Executive MBA Business Programs - NYU Stern
+ - [https://stern.nyu.edu](https://stern.nyu.edu)
+ - date_published: 2025-01-07T22:02:38+00:00
+
+ ## NYU Login
+ - [https://students.nyuad.nyu.edu](https://students.nyuad.nyu.edu)
+ - date_published: 2024-06-10T12:58:43.159416+00:00
+
+ ## NYU Tisch School of the Arts
+ - [https://tisch.nyu.edu](https://tisch.nyu.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## NYU Wagner Graduate School of Public Service
+ - [http://wagner.nyu.edu](http://wagner.nyu.edu)
+ - date_published: 2024-06-21T22:15:16+00:00
+
+ ## Web Publishing
+ - [https://wp.nyu.edu](https://wp.nyu.edu)
+ - date_published: 2024-05-07T10:20:27.687982+00:00
+
+ ## Center for Neural Science
+ - [http://www.cns.nyu.edu](http://www.cns.nyu.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Liberal Studies
+ - [http://www.liberalstudies.nyu.edu](http://www.liberalstudies.nyu.edu)
+ - date_published: 2024-06-21T20:36:58+00:00
+
+ ## Choose Your Affiliation - NYU Health Sciences Library
+ - [https://www-sciencedirect-com.ezproxy.med.nyu.edu](https://www-sciencedirect-com.ezproxy.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:51.032311+00:00
+
+ ## Choose Your Affiliation - NYU Health Sciences Library
+ - [https://www-science-org.ezproxy.med.nyu.edu](https://www-science-org.ezproxy.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:31.507558+00:00
+
+ ## NYU School of Professional Studies
+ - [http://www.sps.nyu.edu](http://www.sps.nyu.edu)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## NYU Stern School of Business | Full-time MBA, Part-time (Langone) MBA, Undergraduate, PhD, Executive MBA Business Programs - NYU Stern
+ - [http://www.stern.nyu.edu](http://www.stern.nyu.edu)
+ - date_published: 2024-06-21T17:39:47+00:00
+
+ ## Choose Your Affiliation - NYU Health Sciences Library
+ - [https://www-unboundmedicine-com.ezproxy.med.nyu.edu](https://www-unboundmedicine-com.ezproxy.med.nyu.edu)
+ - date_published: 2024-07-08T11:28:33.401895+00:00
+
+ ## Homepage - Undergraduate Admissions - Oakland University
+ - [https://apply.oakland.edu](https://apply.oakland.edu)
+ - date_published: 2024-05-22T15:28:54+00:00
+
+ ## Oakland University: Events Calendar
+ - [https://calendar.oakland.edu](https://calendar.oakland.edu)
+ - date_published: 2024-06-21T14:49:05+00:00
+
+ ## Academic Catalog | Oakland University
+ - [http://catalog.oakland.edu](http://catalog.oakland.edu)
+ - date_published: 2024-03-25T14:56:18+00:00
+
+ ## Oakland University Login
+ - [https://ern.oakland.edu](https://ern.oakland.edu)
+ - date_published: 2024-06-22T10:46:49.924421+00:00
+
+ ## Oakland University Employment Site | Home
+ - [https://jobs.oakland.edu](https://jobs.oakland.edu)
+ - date_published: 2024-06-22T10:46:54+00:00
+
+ ## OU Libraries
+ - [https://library.oakland.edu](https://library.oakland.edu)
+ - date_published: 2024-06-22T10:46:37.644339+00:00
+
+ ## Oakland University
+ - [https://oakland.edu](https://oakland.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Oakland University Login
+ - [https://webmail.oakland.edu](https://webmail.oakland.edu)
+ - date_published: 2024-06-22T10:47:13.042631+00:00
+
+ ## Oberlin College and Conservatory | Oberlin College and Conservatory
+ - [http://new.oberlin.edu](http://new.oberlin.edu)
+ - date_published: 2021-01-22T14:51:57+00:00
+
+ ## Oberlin College and Conservatory | Oberlin College and Conservatory
+ - [http://www.oberlin.edu](http://www.oberlin.edu)
+ - date_published: 2021-01-22T14:51:57+00:00
+
+ ## Ouachita Baptist University
+ - [https://obu.edu](https://obu.edu)
+ - date_published: 2024-09-16T07:25:11.597267+00:00
+
+ ## Welcome to Ozark Christian College in Joplin, Missouri
+ - [https://occ.edu](https://occ.edu)
+ - date_published: 2025-02-02T10:33:17.338495+00:00
+
+ ## https://bookstore.occc.edu
+ - [https://bookstore.occc.edu](https://bookstore.occc.edu)
+ - date_published: 2024-02-08T21:52:39.432927+00:00
+
+ ## This Page Has Moved - You will be redirected!
+ - [http://www.lib.odu.edu](http://www.lib.odu.edu)
+ - date_published: 2019-05-30T23:09:00+00:00
+
+ ## Home Page
+ - [https://www.odu.edu](https://www.odu.edu)
+ - date_published: 2024-09-26T17:51:49+00:00
+
+ ## OHSU | Healing Begins with Discovery
+ - [http://www.ogi.edu](http://www.ogi.edu)
+ - date_published: 2024-06-16T19:29:53+00:00
+
+ ## CAD Angular Template
+ - [https://account.ohio.edu](https://account.ohio.edu)
+ - date_published: 2024-06-19T08:19:30+00:00
+
+ ## Undergraduate Admissions | Ohio University
+ - [https://admissions.ohio.edu](https://admissions.ohio.edu)
+ - date_published: 2024-05-07T19:50:50.065504+00:00
+
+ ## Sign in to your account
+ - [https://blackboard.ohio.edu](https://blackboard.ohio.edu)
  - date_published: 2024-05-07T00:00:00+00:00
 
- ## Free Speech at Iowa | The University of Iowa
- - [https://freespeech.uiowa.edu](https://freespeech.uiowa.edu)
- - date_published: 2024-06-24T23:12:18+00:00
+ ## Events Calendar
+ - [https://calendar.ohio.edu](https://calendar.ohio.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
 
- ## Graduate Admissions | The University of Iowa
- - [https://grad.admissions.uiowa.edu](https://grad.admissions.uiowa.edu)
- - date_published: 2024-06-27T20:03:43+00:00
+ ## Sign in to your account
+ - [https://canvas.ohio.edu](https://canvas.ohio.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
 
- ## Homecoming | The University of Iowa
- - [https://homecoming.uiowa.edu](https://homecoming.uiowa.edu)
- - date_published: 2024-10-28T02:03:52+00:00
-
- ## Index of /
- - [http://homepage.divms.uiowa.edu](http://homepage.divms.uiowa.edu)
- - date_published: 2024-06-23T20:20:35.063395+00:00
-
- ## Index of /
- - [https://homepage.math.uiowa.edu](https://homepage.math.uiowa.edu)
- - date_published: 2024-06-17T03:14:06.021919+00:00
-
- ## University of Iowa HawkID Login
- - [https://hris.uiowa.edu](https://hris.uiowa.edu)
- - date_published: 2024-05-07T21:15:40.272963+00:00
-
- ## University Human Resources | The University of Iowa
- - [https://hr.uiowa.edu](https://hr.uiowa.edu)
- - date_published: 2024-07-01T22:05:37+00:00
-
- ## ICON
- - [https://icon.uiowa.edu](https://icon.uiowa.edu)
- - date_published: 2024-07-02T02:50:57.913890+00:00
-
- ## The Larned A. Waterman Iowa Nonprofit Resource Center | Striving to help Iowa’s charitable nonprofit organizations become more effective in building their communities.
- - [http://inrc.law.uiowa.edu](http://inrc.law.uiowa.edu)
- - date_published: 2024-07-15T01:40:40+00:00
-
- ## Instructional Resources and Lecture Demonstrations | Department of Physics & Astronomy | College of Liberal Arts & Sciences | The University of Iowa
- - [https://instructional-resources.physics.uiowa.edu](https://instructional-resources.physics.uiowa.edu)
- - date_published: 2024-07-02T02:53:39+00:00
-
- ## College of Dentistry and Dental Clinics IntraDent | A Tradition of Excellence Since 1882
- - [https://intradent.dentistry.uiowa.edu](https://intradent.dentistry.uiowa.edu)
- - date_published: 2024-07-02T01:14:37+00:00
-
- ## Information Technology Services | Connecting Campus
- - [https://its.uiowa.edu](https://its.uiowa.edu)
- - date_published: 2024-07-02T02:05:38+00:00
-
- ## Jobs @ Uiowa
- - [https://jobs.uiowa.edu](https://jobs.uiowa.edu)
- - date_published: 2024-05-07T21:15:52.716987+00:00
-
- ## School of Journalism and Mass Communication | College of Liberal Arts and Sciences | The University of Iowa
- - [https://journalism.uiowa.edu](https://journalism.uiowa.edu)
- - date_published: 2024-07-16T18:22:34+00:00
-
- ## The University of Iowa - College of Law
- - [https://law.uiowa.edu](https://law.uiowa.edu)
- - date_published: 2024-10-18T22:21:14.375335+00:00
-
- ## University of Iowa
- - [https://maps.uiowa.edu](https://maps.uiowa.edu)
- - date_published: 2024-07-02T02:50:55.939386+00:00
-
- ## Carver College of Medicine
- - [https://medicine.uiowa.edu](https://medicine.uiowa.edu)
- - date_published: 2024-05-07T21:15:54.496687+00:00
-
- ## Yannick Meurice | The University of Iowa
- - [https://meurice.sites.uiowa.edu](https://meurice.sites.uiowa.edu)
- - date_published: 2024-02-08T17:59:53.820467+00:00
-
- ## Home - MyUI
- - [https://myui.uiowa.edu](https://myui.uiowa.edu)
+ ## Ohio University - Modern Campus Catalog™
+ - [http://catalogs.ohio.edu](http://catalogs.ohio.edu)
  - date_published: 2024-07-01T00:00:00+00:00
 
- ## Native American Council | The University of Iowa
- - [https://nativeamericancouncil.org.uiowa.edu](https://nativeamericancouncil.org.uiowa.edu)
- - date_published: 2024-05-07T21:15:22.740154+00:00
+ ## Sign in to Outlook
+ - [https://catmail.ohio.edu](https://catmail.ohio.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
 
- ## Iowa Now | The University of Iowa
- - [https://now.uiowa.edu](https://now.uiowa.edu)
- - date_published: 2023-11-19T05:08:59.202397+00:00
+ ## Gift Planning | Ohio University
+ - [https://giftplanning.ohio.edu](https://giftplanning.ohio.edu)
+ - date_published: 2024-07-01T16:40:37.986309+00:00
 
- ## Sign In
- - [https://office365.uiowa.edu](https://office365.uiowa.edu)
- - date_published: 2024-05-07T21:15:34.590089+00:00
+ ## Give to Ohio University | Ohio University
+ - [https://give.ohio.edu](https://give.ohio.edu)
+ - date_published: 2024-05-07T19:50:29.807496+00:00
 
- ## Policy Manual |
- - [https://opsmanual.uiowa.edu](https://opsmanual.uiowa.edu)
- - date_published: 2024-05-07T21:15:19.104730+00:00
+ ## Graduate College | Ohio University
+ - [https://grad.ohio.edu](https://grad.ohio.edu)
+ - date_published: 2024-05-07T19:51:03.382723+00:00
 
- ## Office of Strategic Communication | The University of Iowa
- - [https://osc.uiowa.edu](https://osc.uiowa.edu)
- - date_published: 2024-05-07T21:15:28.143264+00:00
+ ## Library Guides
+ - [https://libguides.library.ohio.edu](https://libguides.library.ohio.edu)
+ - date_published: 2024-07-01T16:40:31.662209+00:00
 
- ## Exan DoctorAccess
- - [https://patientaccess.dentistry.uiowa.edu](https://patientaccess.dentistry.uiowa.edu)
- - date_published: 2024-07-02T02:53:54.180310+00:00
+ ## Sign in to your account
+ - [https://news.ohio.edu](https://news.ohio.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
 
- ## Physics and Astronomy | College of Liberal Arts and Sciences | The University of Iowa
- - [https://physics.uiowa.edu](https://physics.uiowa.edu)
- - date_published: 2024-05-07T21:15:21.211087+00:00
+ ## Welcome to Ohio University
+ - [https://ohio.edu](https://ohio.edu)
+ - date_published: 2024-05-07T19:50:45.281171+00:00
+ - tags: ['university']
 
- ## University of Iowa Libraries Publishing
- - [https://pubs.lib.uiowa.edu](https://pubs.lib.uiowa.edu)
- - date_published: 2024-08-11T22:23:11.256498+00:00
+ ## Regional Higher Education | Ohio University
+ - [https://rhe.ohio.edu](https://rhe.ohio.edu)
+ - date_published: 2024-05-07T19:50:22.215267+00:00
 
- ## Office of the Registrar |
- - [https://registrar.uiowa.edu](https://registrar.uiowa.edu)
- - date_published: 2024-07-02T02:30:46+00:00
+ ## Sign in to your account
+ - [https://sis.ohio.edu](https://sis.ohio.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
 
- ## CLAS Resource Site | The University of Iowa
- - [https://resource.clas.uiowa.edu](https://resource.clas.uiowa.edu)
- - date_published: 2024-07-02T02:45:42+00:00
+ ## The Online Journal of Space Communication | OHIO Open Library Journals | Ohio University
+ - [http://spacejournal.ohio.edu](http://spacejournal.ohio.edu)
+ - date_published: 2024-07-09T22:19:48.978837+00:00
 
- ## Search | The University of Iowa | The University of Iowa
- - [https://search.uiowa.edu](https://search.uiowa.edu)
- - date_published: 2024-10-15T17:35:14+00:00
+ ## OhioLINK Library Catalog
+ - [http://olc1.ohiolink.edu](http://olc1.ohiolink.edu)
+ - date_published: 2024-07-01T11:11:23.450974+00:00
 
- ## SiteNow | The University of Iowa
- - [https://sitenow.uiowa.edu](https://sitenow.uiowa.edu)
- - date_published: 2024-07-01T00:16:48+00:00
+ ## Home | Marketing and Communications
+ - [http://communications.cfaes.ohio-state.edu](http://communications.cfaes.ohio-state.edu)
+ - date_published: 2024-07-17T03:36:49.603351+00:00
 
- ## This is UIowa
- - [https://stories.uiowa.edu](https://stories.uiowa.edu)
- - date_published: 2024-07-02T02:12:00+00:00
+ ## Home | Extension Operations
+ - [https://extops.cfaes.ohio-state.edu](https://extops.cfaes.ohio-state.edu)
+ - date_published: 2024-08-22T00:00:00+00:00
 
- ## CLAS Strategic Plan | College of Liberal Arts and Sciences | The University of Iowa
- - [https://strategicplan.clas.uiowa.edu](https://strategicplan.clas.uiowa.edu)
- - date_published: 2024-07-01T16:00:06+00:00
+ ## Web Login Service - Loading Session Information
+ - [https://gpa.esue.ohio-state.edu](https://gpa.esue.ohio-state.edu)
+ - date_published: 2024-07-17T03:28:03.773790+00:00
 
- ## Student Health | Division of Student Life | The University of Iowa
- - [https://studenthealth.uiowa.edu](https://studenthealth.uiowa.edu)
- - date_published: 2024-06-28T05:07:53+00:00
+ ## Home | Information Technology Services
+ - [https://ithelpdesk.cfaes.ohio-state.edu](https://ithelpdesk.cfaes.ohio-state.edu)
+ - date_published: 2024-07-17T03:36:43.253412+00:00
 
- ## University Billing Office |
- - [https://ubill.fo.uiowa.edu](https://ubill.fo.uiowa.edu)
+ ## OSU Libraries Catalog
+ - [http://library.ohio-state.edu](http://library.ohio-state.edu)
+ - date_published: 2024-06-30T01:19:58.673716+00:00
+
+ ## Home | Learning and Organizational Development
+ - [https://lod.cfaes.ohio-state.edu](https://lod.cfaes.ohio-state.edu)
+ - date_published: 2024-10-15T07:36:56.058728+00:00
+
+ ## Home | PAAR
+ - [https://paar.cfaes.ohio-state.edu](https://paar.cfaes.ohio-state.edu)
+ - date_published: 2024-07-17T03:36:58.016027+00:00
+
+ ## CSE Database Portal
+ - [https://portal.cse.ohio-state.edu](https://portal.cse.ohio-state.edu)
+ - date_published: 2024-05-14T16:16:34+00:00
+
+ ## Home | Agricultural Operations
+ - [https://researchoperations.cfaes.ohio-state.edu](https://researchoperations.cfaes.ohio-state.edu)
+ - date_published: 2024-07-17T03:36:34.682480+00:00
+
+ ## Please Log in to Continue | VetMed Schedules
+ - [https://schedule.vet.ohio-state.edu](https://schedule.vet.ohio-state.edu)
+ - date_published: 2024-07-17T03:42:45.462018+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://shshealthportal.studentaffairs.ohio-state.edu](https://shshealthportal.studentaffairs.ohio-state.edu)
+ - date_published: 2024-07-17T03:27:15.765116+00:00
+
+ ## CSE
+ - [https://web.cse.ohio-state.edu](https://web.cse.ohio-state.edu)
+ - date_published: 2023-10-25T18:56:24.315200+00:00
+
+ ## Home | Department of Economics
+ - [https://web.econ.ohio-state.edu](https://web.econ.ohio-state.edu)
+ - date_published: 2024-06-15T21:22:28.975305+00:00
+
+ ## COLLEGE OF ENGINEERING
+ - [http://www2.ece.ohio-state.edu](http://www2.ece.ohio-state.edu)
+ - date_published: 2014-02-03T10:53:00+00:00
+
+ ## Home | College of Arts and Sciences
+ - [https://www.asc.ohio-state.edu](https://www.asc.ohio-state.edu)
+ - date_published: 2024-01-11T18:56:17.405128+00:00
+
+ ## Home | Department of Astronomy
+ - [https://www.astronomy.ohio-state.edu](https://www.astronomy.ohio-state.edu)
+ - date_published: 2024-05-08T03:31:08.303068+00:00
+
+ ## Department of Computer Science and Engineering
+ - [http://www.cse.ohio-state.edu](http://www.cse.ohio-state.edu)
+ - date_published: 2014-02-07T14:25:00+00:00
+
+ ## Home | Department of Mathematics
+ - [http://www.math.ohio-state.edu](http://www.math.ohio-state.edu)
+ - date_published: 2024-06-30T09:20:24.912981+00:00
+
+ ## Home | Department of Psychology
+ - [http://www.psy.ohio-state.edu](http://www.psy.ohio-state.edu)
+ - date_published: 2024-09-04T03:27:22.440523+00:00
+
+ ## The Ohio State University | College of Food, Agricultural, and Environmental Sciences
+ - [https://x.cfaes.ohio-state.edu](https://x.cfaes.ohio-state.edu)
+ - date_published: 2020-01-08T19:17:51+00:00
+
+ ## Welcome
+ - [http://audio.ohr.edu](http://audio.ohr.edu)
+ - date_published: 2024-06-27T08:00:21.036336+00:00
+
+ ## Ohr Somayach Home Page
+ - [http://ohr.edu](http://ohr.edu)
+ - date_published: 2024-06-27T07:55:38.041160+00:00
+
+ ## Unsupported Web Browser
+ - [https://connect.ohsu.edu](https://connect.ohsu.edu)
+ - date_published: 2024-06-17T11:29:36.723143+00:00
+
+ ## MyChart - Login Page
+ - [https://mychartweb.ohsu.edu](https://mychartweb.ohsu.edu)
+ - date_published: 2024-06-17T11:29:38.883029+00:00
+
+ ## Home | OHSU News
+ - [https://news.ohsu.edu](https://news.ohsu.edu)
+ - date_published: 2023-10-25T18:56:26.525047+00:00
+
+ ## Oregon Health & Science University
+ - [https://o2.ohsu.edu](https://o2.ohsu.edu)
+ - date_published: 2024-06-17T11:29:46.709747+00:00
+
+ ## NetScaler AAA
+ - [https://portal.ohsu.edu](https://portal.ohsu.edu)
+ - date_published: 2024-05-07T19:51:43.285429+00:00
+
+ ## OHSU | Healing Begins with Discovery
+ - [https://www.ohsu.edu](https://www.ohsu.edu)
+ - date_published: 2024-05-07T19:51:34.427320+00:00
+
+ ## Oregon Institute of Technology
+ - [https://www.oit.edu](https://www.oit.edu)
+ - date_published: 2024-07-14T11:34:48+00:00
+
+ ## Educating OKC Since 1904
+ - [https://www.okcu.edu](https://www.okcu.edu)
+ - date_published: 2024-12-25T20:46:47.306935+00:00
+
+ ## Student Accessibility Services - Oklahoma State University
+ - [https://accessibility.okstate.edu](https://accessibility.okstate.edu)
+ - date_published: 2021-08-10T21:28:06.572000+00:00
+
+ ## Office of the Bursar - Oklahoma State University
+ - [https://bursar.okstate.edu](https://bursar.okstate.edu)
+ - date_published: 2020-06-01T21:23:49.006000+00:00
+
+ ## OSU Stillwater Calendar - Oklahoma State University
+ - [https://calendar.okstate.edu](https://calendar.okstate.edu)
+ - date_published: 2016-09-26T18:40:26.650000+00:00
+
+ ## Leadership and Campus Life - Oklahoma State University
+ - [https://campuslife.okstate.edu](https://campuslife.okstate.edu)
+ - date_published: 2020-08-20T21:22:22.886000+00:00
+
+ ## CAS - Central Authentication Service Login
+ - [https://canvas.okstate.edu](https://canvas.okstate.edu)
+ - date_published: 2024-06-26T22:10:54.099198+00:00
+
+ ## Career Services - Oklahoma State University
+ - [https://careerservices.okstate.edu](https://careerservices.okstate.edu)
+ - date_published: 2024-10-27T11:37:05.157152+00:00
+
+ ## College of Arts and Sciences - Oklahoma State University
+ - [https://cas.okstate.edu](https://cas.okstate.edu)
+ - date_published: 2024-10-27T11:36:48.368277+00:00
+
+ ## University Catalog < Oklahoma State University
+ - [http://catalog.okstate.edu](http://catalog.okstate.edu)
+ - date_published: 2024-05-30T13:02:22+00:00
+
+ ## Access and Community Impact - Oklahoma State University
+ - [https://community.okstate.edu](https://community.okstate.edu)
+ - date_published: 2019-03-14T14:32:23.516000+00:00
+
+ ## Oklahoma State University Brand Portal
+ - [https://digitalassets.okstate.edu](https://digitalassets.okstate.edu)
+ - date_published: 2024-06-26T22:11:15.399097+00:00
+
+ ## OSU A&M System Online Directory
+ - [https://directory.okstate.edu](https://directory.okstate.edu)
+ - date_published: 2024-06-26T22:11:03.112948+00:00
+
+ ## Equal Opportunity - Oklahoma State University
+ - [https://eeo.okstate.edu](https://eeo.okstate.edu)
+ - date_published: 2020-03-26T13:48:20.111000+00:00
+
+ ## OSU Extension - Home - Oklahoma State University
+ - [https://extension.okstate.edu](https://extension.okstate.edu)
+ - date_published: 2019-05-22T19:18:16.131000+00:00
+
+ ## Oklahoma State University - Oklahoma State University
+ - [https://go.okstate.edu](https://go.okstate.edu)
+ - date_published: 2018-10-29T19:19:42.236000+00:00
+
+ ## Graduate College - Oklahoma State University
+ - [https://gradcollege.okstate.edu](https://gradcollege.okstate.edu)
+ - date_published: 2019-06-03T16:27:04.682000+00:00
+
+ ## Oklahoma State University Center for Health Sciences - Oklahoma State University
+ - [https://health.okstate.edu](https://health.okstate.edu)
+ - date_published: 2020-03-13T21:04:48.836000+00:00
+
+ ## Information Technology - Oklahoma State University
+ - [https://it.okstate.edu](https://it.okstate.edu)
+ - date_published: 2019-05-13T20:22:01.555000+00:00
+
+ ## Recruitment - Oklahoma State University
+ - [http://jobs.okstate.edu](http://jobs.okstate.edu)
+ - date_published: 2022-06-07T21:15:45.056000+00:00
+
+ ## Home - Oklahoma State University Library
+ - [https://library.okstate.edu](https://library.okstate.edu)
+ - date_published: 2024-06-26T22:10:48.935933+00:00
+
+ ## Oklahoma State University
+ - [https://map.okstate.edu](https://map.okstate.edu)
+ - date_published: 2024-10-27T11:37:06.917701+00:00
+
+ ## Campus Maps - Oklahoma State University
+ - [https://maps.okstate.edu](https://maps.okstate.edu)
+ - date_published: 2018-11-21T20:30:48.192000+00:00
+
+ ## CAS - Central Authentication Service Login
+ - [https://my.okstate.edu](https://my.okstate.edu)
+ - date_published: 2024-06-26T22:10:46.109799+00:00
+
+ ## News and Information - Oklahoma State University
+ - [https://news.okstate.edu](https://news.okstate.edu)
+ - date_published: 2016-04-04T21:52:46.332000+00:00
+
+ ## eJournals @ Oklahoma State University Library
+ - [https://ojs.library.okstate.edu](https://ojs.library.okstate.edu)
+ - date_published: 2024-09-10T08:53:00.760488+00:00
+
+ ## CAS - Central Authentication Service Login
+ - [https://okey.okstate.edu](https://okey.okstate.edu)
+ - date_published: 2024-06-26T22:11:35.927785+00:00
+
+ ## Oklahoma State University - Oklahoma State University
+ - [https://okstate.edu](https://okstate.edu)
+ - date_published: 2024-10-27T11:36:50.746270+00:00
+
+ ## Oklahoma State University | America's Brightest Orange - Oklahoma State University
+ - [https://omni.okstate.edu](https://omni.okstate.edu)
+ - date_published: 2024-06-26T22:11:26.593515+00:00
+
+ ## Undergraduate Admissions - Oklahoma State University
+ - [https://orange.okstate.edu](https://orange.okstate.edu)
+ - date_published: 2018-11-06T16:27:33.539000+00:00
+
+ ## OSU Online - Oklahoma State University
+ - [https://osuonline.okstate.edu](https://osuonline.okstate.edu)
+ - date_published: 2019-08-13T14:51:27.348000+00:00
+
+ ## Parking and Transportation Services - Oklahoma State University
+ - [https://parking.okstate.edu](https://parking.okstate.edu)
+ - date_published: 2019-04-23T21:32:04.858000+00:00
+
+ ## Department of Psychology - Oklahoma State University
+ - [http://psychology.okstate.edu](http://psychology.okstate.edu)
+ - date_published: 2023-03-30T18:55:47.178000+00:00
+
+ ## Office of the Registrar - Oklahoma State University
+ - [https://registrar.okstate.edu](https://registrar.okstate.edu)
+ - date_published: 2019-09-12T19:58:49.811000+00:00
+
+ ## Public Safety - Oklahoma State University
+ - [https://safety.okstate.edu](https://safety.okstate.edu)
+ - date_published: 2019-11-05T17:21:07.712000+00:00
+
+ ## Oklahoma State University
+ - [https://search.okstate.edu](https://search.okstate.edu)
+ - date_published: 2024-06-26T22:10:35.433175+00:00
+
+ ## Social Media - Oklahoma State University
+ - [https://social.okstate.edu](https://social.okstate.edu)
+ - date_published: 2020-01-14T16:50:38.567000+00:00
+
+ ## Trademarks and Licensing - Oklahoma State University
+ - [https://trademarks.okstate.edu](https://trademarks.okstate.edu)
+ - date_published: 2019-07-25T13:33:36.677000+00:00
+
+ ## Oklahoma State University-Tulsa - Oklahoma State University
+ - [https://tulsa.okstate.edu](https://tulsa.okstate.edu)
+ - date_published: 2022-06-06T16:42:47.731000+00:00
+
+ ## Student Union - Oklahoma State University
+ - [https://union.okstate.edu](https://union.okstate.edu)
+ - date_published: 2019-10-08T16:35:18.227000+00:00
+
+ ## University Store - Oklahoma State University
+ - [https://universitystore.okstate.edu](https://universitystore.okstate.edu)
+ - date_published: 2019-04-30T13:09:31.401000+00:00
+
+ ## College of Veterinary Medicine - Oklahoma State University
+ - [https://vetmed.okstate.edu](https://vetmed.okstate.edu)
+ - date_published: 2021-02-17T19:12:21.086000+00:00
+
+ ## Blackboard Learn
+ - [https://blackboard.olemiss.edu](https://blackboard.olemiss.edu)
+ - date_published: 2004-07-18T07:24:10+00:00
+
+ ## University of Mississippi Jobs
+ - [https://careers.olemiss.edu](https://careers.olemiss.edu)
+ - date_published: 2024-07-18T07:24:04.660881+00:00
+
+ ## eGrove
+ - [https://egrove.olemiss.edu](https://egrove.olemiss.edu)
+ - date_published: 2025-01-17T22:58:15.357412+00:00
+
+ ## Events | University of Mississippi
+ - [https://events.olemiss.edu](https://events.olemiss.edu)
+ - date_published: 2024-07-18T07:23:40.333213+00:00
+
+ ## Sign in - Google Accounts
+ - [http://mail.go.olemiss.edu](http://mail.go.olemiss.edu)
+ - date_published: 2024-07-18T07:23:51.361191+00:00
+
+ ## Campus Map | University of Mississippi
+ - [https://map.olemiss.edu](https://map.olemiss.edu)
+ - date_published: 2024-07-18T07:23:41.718510+00:00
+
+ ## SAP NetWeaver Portal
+ - [https://my.olemiss.edu](https://my.olemiss.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Welcome - Now & Ever the Campaign for Ole Miss
+ - [https://nowandever.olemiss.edu](https://nowandever.olemiss.edu)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Redirecting...
+ - [https://office365.olemiss.edu](https://office365.olemiss.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## University of  Mississippi | Ole Miss
+ - [https://olemiss.edu](https://olemiss.edu)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Policy Directory | University of Mississippi
+ - [https://policies.olemiss.edu](https://policies.olemiss.edu)
+ - date_published: 2024-07-18T07:24:06.581560+00:00
+
+ ## Student Housing | Ole Miss
+ - [https://studenthousing.olemiss.edu](https://studenthousing.olemiss.edu)
+ - date_published: 2024-07-18T07:23:47.380957+00:00
+
+ ## Study Abroad Office
+ - [https://studyabroad.olemiss.edu](https://studyabroad.olemiss.edu)
+ - date_published: 2024-07-18T07:24:15.245630+00:00
+
+ ## Division of Outreach and Continuing Education | Ole Miss
+ - [http://www.outreach.olemiss.edu](http://www.outreach.olemiss.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Admission + Financial Aid | Olin College of Engineering
+ - [https://admission.olin.edu](https://admission.olin.edu)
+ - date_published: 2024-09-17T18:47:51+00:00
+
+ ## The Olin Art Gallery
+ - [https://art.olin.edu](https://art.olin.edu)
+ - date_published: 2024-06-15T10:52:53.120653+00:00
+
+ ## Sign in to your account
+ - [https://canvas.olin.edu](https://canvas.olin.edu)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Olin College Library | Home
+ - [https://library.olin.edu](https://library.olin.edu)
+ - date_published: 2024-06-15T10:52:40.625997+00:00
+
+ ## The Shop
+ - [https://machineshop.olin.edu](https://machineshop.olin.edu)
+ - date_published: 2024-06-15T10:53:01+00:00
+
+ ## Home | Welcome to my.olin.edu
+ - [https://my.olin.edu](https://my.olin.edu)
+ - date_published: 2024-06-15T10:52:44.721872+00:00
+
+ ## Home | OLIN MERCH
+ - [https://olingear.olin.edu](https://olingear.olin.edu)
+ - date_published: 2024-06-15T10:52:55.700584+00:00
+
+ ## Welcome to Olin College Library Repository | Olin College Library Repository
+ - [https://phoenixfiles.olin.edu](https://phoenixfiles.olin.edu)
+ - date_published: 2024-09-17T19:00:30+00:00
+
+ ## Home | Olin College of Engineering
+ - [https://wikis.olin.edu](https://wikis.olin.edu)
+ - date_published: 2024-06-14T15:33:05+00:00
+
+ ## Home | Olin College of Engineering
+ - [https://www.olin.edu](https://www.olin.edu)
+ - date_published: 2024-05-01T03:16:17.468469+00:00
+
+ ## Home
+ - [https://www.omsi.edu](https://www.omsi.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Distance Learning Courses and Adult Education - The Open University
+ - [https://open.edu](https://open.edu)
+ - date_published: 2023-10-25T18:56:29.084298+00:00
+
+ ## Accessibility
+ - [https://accessibility.oregonstate.edu](https://accessibility.oregonstate.edu)
+ - date_published: 2024-06-16T22:19:14+00:00
+
+ ## Access OSU
+ - [https://accessosu.oregonstate.edu](https://accessosu.oregonstate.edu)
+ - date_published: 2023-07-13T13:30:20+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions.oregonstate.edu](https://admissions.oregonstate.edu)
+ - date_published: 2024-06-14T17:57:12+00:00
+
+ ## Oregon State University
+ - [https://advanced.oregonstate.edu](https://advanced.oregonstate.edu)
+ - date_published: 2024-10-11T23:10:49+00:00
+
+ ## College of Agricultural Sciences
+ - [https://agsci.oregonstate.edu](https://agsci.oregonstate.edu)
+ - date_published: 2024-07-01T15:06:16+00:00
+
+ ## Frequently Asked Questions - Ask Us
+ - [https://answers.library.oregonstate.edu](https://answers.library.oregonstate.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## BEAVER HEALTHY
+ - [https://beaverhealthy.oregonstate.edu](https://beaverhealthy.oregonstate.edu)
+ - date_published: 2024-10-14T18:17:15+00:00
+
+ ## Blog Insights From Oregon State University - Online Marketing, the Business of Beer, Gardening and More
+ - [https://blog.pace.oregonstate.edu](https://blog.pace.oregonstate.edu)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## OSU Wordpress
+ - [http://blogs.oregonstate.edu](http://blogs.oregonstate.edu)
  - date_published: 2024-07-01T00:00:00+00:00
 
- ## The University of Iowa | The University of Iowa
- - [https://uiowa.edu](https://uiowa.edu)
- - date_published: 2024-05-18T00:00:00+00:00
+ ## Online Data Analytics Bootcamp | Oregon State University
+ - [https://bootcamp.oregonstate.edu](https://bootcamp.oregonstate.edu)
+ - date_published: 2024-10-15T01:25:15.454689+00:00
 
- ## uisps.org.uiowa.edu | The University of Iowa
- - [https://uisps.org.uiowa.edu](https://uisps.org.uiowa.edu)
- - date_published: 2024-07-01T14:59:30+00:00
+ ## Business Matters – News, articles, and interesting stuff from the College of Business
+ - [https://businessmatters.oregonstate.edu](https://businessmatters.oregonstate.edu)
+ - date_published: 2024-10-15T00:02:39.667937+00:00
 
- ## University of Iowa HawkID Login
- - [https://workflow.uiowa.edu](https://workflow.uiowa.edu)
- - date_published: 2024-07-02T02:53:14.334171+00:00
+ ## College of Business
+ - [https://business.oregonstate.edu](https://business.oregonstate.edu)
+ - date_published: 2024-06-16T21:05:23+00:00
 
- ## Applied Mathematical & Computational Sciences | Graduate College | The University of Iowa
- - [http://www.amcs.uiowa.edu](http://www.amcs.uiowa.edu)
- - date_published: 2024-09-25T00:00:00+00:00
+ ## Events Calendar - Oregon State University
+ - [https://calendar.oregonstate.edu](https://calendar.oregonstate.edu)
+ - date_published: 2024-07-06T23:29:45.630592+00:00
 
- ## Computer Science | College of Liberal Arts and Sciences | The University of Iowa
- - [http://www.cs.uiowa.edu](http://www.cs.uiowa.edu)
- - date_published: 2024-08-18T18:08:36+00:00
+ ## OSU Login
+ - [https://canvas.oregonstate.edu](https://canvas.oregonstate.edu)
+ - date_published: 2024-06-16T22:25:38.583379+00:00
 
- ## Facilities Management | The University of Iowa
- - [https://www.facilities.uiowa.edu](https://www.facilities.uiowa.edu)
- - date_published: 2024-07-01T22:59:41+00:00
+ ## Home - OSU-Cascades | OSU-Cascades Library | Oregon State University
+ - [https://cascades.library.oregonstate.edu](https://cascades.library.oregonstate.edu)
+ - date_published: 2024-10-15T00:27:07+00:00
 
- ## Graduate College | The University of Iowa
- - [https://www.grad.uiowa.edu](https://www.grad.uiowa.edu)
- - date_published: 2024-07-02T02:08:43+00:00
+ ## Home | Center for Applied Systems & Software | Oregon State University
+ - [https://cass.oregonstate.edu](https://cass.oregonstate.edu)
+ - date_published: 2024-07-06T20:40:17+00:00
 
- ## University Libraries | The University of Iowa
- - [https://www.lib.uiowa.edu](https://www.lib.uiowa.edu)
- - date_published: 2024-07-02T02:50:54.208911+00:00
+ ## 2024-2025 Catalog < Oregon State University
+ - [https://catalog.oregonstate.edu](https://catalog.oregonstate.edu)
+ - date_published: 2024-06-13T08:05:53+00:00
 
- ## Mathematics | College of Liberal Arts and Sciences | The University of Iowa
- - [http://www.math.uiowa.edu](http://www.math.uiowa.edu)
- - date_published: 2024-10-16T06:26:39+00:00
+ ## Oregon State University Schedule of Classes
+ - [http://classes.oregonstate.edu](http://classes.oregonstate.edu)
+ - date_published: 2024-10-02T18:15:27+00:00
 
- ## University of Iowa HawkID Login
- - [https://www.maui.uiowa.edu](https://www.maui.uiowa.edu)
- - date_published: 2024-07-02T02:51:28.225747+00:00
+ ## Clery Compliance
+ - [https://clery.oregonstate.edu](https://clery.oregonstate.edu)
+ - date_published: 2015-12-11T08:58:22+00:00
 
- ## UIowa Radio and Plasma Wave Group
- - [http://www-pw.physics.uiowa.edu](http://www-pw.physics.uiowa.edu)
- - date_published: 2024-10-21T05:11:21.062136+00:00
+ ## Clubs & Organizations
+ - [https://clubs.oregonstate.edu](https://clubs.oregonstate.edu)
+ - date_published: 2024-10-15T00:46:14+00:00
 
- ## Statistics and Actuarial Science | College of Liberal Arts and Sciences | The University of Iowa
- - [http://www.stat.uiowa.edu](http://www.stat.uiowa.edu)
- - date_published: 2024-10-16T06:27:10+00:00
+ ## Commencement
+ - [https://commencement.oregonstate.edu](https://commencement.oregonstate.edu)
+ - date_published: 2024-06-14T16:17:49+00:00
 
- ## Admission & Aid | University of Illinois Springfield
- - [https://apply.uis.edu](https://apply.uis.edu)
- - date_published: 2024-07-02T01:30:00+00:00
+ ## University Relations and Marketing
+ - [https://communications.oregonstate.edu](https://communications.oregonstate.edu)
+ - date_published: 2024-10-14T23:58:18+00:00
 
- ## University of Illinois Springfield - UIS Login Service
- - [https://apps.uis.edu](https://apps.uis.edu)
- - date_published: 2024-07-02T02:49:51.912122+00:00
+ ## Core Education
+ - [https://coreeducation.oregonstate.edu](https://coreeducation.oregonstate.edu)
+ - date_published: 2023-07-03T14:46:43+00:00
 
- ## Continuing & Professional Education | University of Illinois Springfield
- - [https://cape.uis.edu](https://cape.uis.edu)
- - date_published: 2024-07-01T22:56:01+00:00
+ ## College of Agricultural Sciences
+ - [https://cropandsoil.oregonstate.edu](https://cropandsoil.oregonstate.edu)
+ - date_published: 2024-10-15T04:06:48+00:00
 
- ## Webtools
- - [https://forms.uofi.uis.edu](https://forms.uofi.uis.edu)
- - date_published: 2023-12-05T19:47:55+00:00
+ ## OSU Login
+ - [http://directory.oregonstate.edu](http://directory.oregonstate.edu)
+ - date_published: 2024-06-16T22:25:42.668831+00:00
 
- ## Make Your Gift – University of Illinois at Springfield
- - [https://giving.uis.edu](https://giving.uis.edu)
- - date_published: 2024-07-02T02:50:19.031779+00:00
+ ## Undergraduate Admissions
+ - [https://discover.oregonstate.edu](https://discover.oregonstate.edu)
+ - date_published: 2024-06-18T14:29:52+00:00
 
- ## Webtools | Short URLs
- - [https://go.uis.edu](https://go.uis.edu)
- - date_published: 2019-05-08T16:06:02+00:00
+ ## Institutional Diversity
+ - [https://diversity.oregonstate.edu](https://diversity.oregonstate.edu)
+ - date_published: 2018-05-30T00:00:00+00:00
 
- ## System Login |  University of Illinois System
- - [http://icardwallet.uis.edu](http://icardwallet.uis.edu)
- - date_published: 1970-01-01T00:00:00+00:00
+ ## Online Degrees & Programs | Oregon State Ecampus | OSU Degrees Online
+ - [https://ecampus.oregonstate.edu](https://ecampus.oregonstate.edu)
+ - date_published: 2024-06-16T22:25:12.335267+00:00
 
- ## Career Opportunities at UIS | University of Illinois Springfield
- - [https://jobs.uis.edu](https://jobs.uis.edu)
- - date_published: 2024-07-02T01:36:08+00:00
+ ## Division of Educational Ventures | Oregon State University
+ - [https://educationalventures.oregonstate.edu](https://educationalventures.oregonstate.edu)
+ - date_published: 2024-10-15T01:15:50.913361+00:00
 
- ## Brookens Library | University of Illinois Springfield
- - [https://library.uis.edu](https://library.uis.edu)
- - date_published: 2024-07-02T01:36:43+00:00
+ ## College of Education
+ - [https://education.oregonstate.edu](https://education.oregonstate.edu)
+ - date_published: 2021-11-24T14:37:21+00:00
 
- ## Welcome | myUIS
- - [https://my.uis.edu](https://my.uis.edu)
- - date_published: 2024-07-02T02:49:39.497840+00:00
+ ## Electrical Engineering and Computer Science | College of Engineering
+ - [http://eecs.oregonstate.edu](http://eecs.oregonstate.edu)
+ - date_published: 2022-07-15T22:09:15+00:00
 
- ## - UIS Connection
- - [https://uisconnection.uis.edu](https://uisconnection.uis.edu)
- - date_published: 2024-07-02T02:49:28.038333+00:00
+ ## Emergency Management
+ - [https://emergency.oregonstate.edu](https://emergency.oregonstate.edu)
+ - date_published: 2024-10-14T21:25:36+00:00
 
- ## Home | University of Illinois Springfield
- - [https://uis.edu](https://uis.edu)
- - date_published: 2024-05-07T21:15:13.777835+00:00
+ ## Extension employee resources | Employee Intranet
+ - [https://employee.extension.oregonstate.edu](https://employee.extension.oregonstate.edu)
+ - date_published: 2024-10-15T01:12:16+00:00
 
- ## HEC Recognized Engineering University - Usman Institute of Technology
- - [https://www.uit.edu](https://www.uit.edu)
- - date_published: 2024-07-20T21:28:53.138610+00:00
+ ## OSU Extension and Engagement | Extension and Engagement
+ - [https://engagement.oregonstate.edu](https://engagement.oregonstate.edu)
+ - date_published: 2024-06-13T00:15:19+00:00
 
- ## Welcome to wx.atmos
- - [https://arctic.atmos.uiuc.edu](https://arctic.atmos.uiuc.edu)
- - date_published: 2024-05-06T23:34:05.279210+00:00
+ ## Enrollment Management
+ - [https://enrollmentmanagement.oregonstate.edu](https://enrollmentmanagement.oregonstate.edu)
+ - date_published: 2023-07-06T12:10:16+00:00
 
- ## Home
- - [https://cs.uiuc.edu](https://cs.uiuc.edu)
- - date_published: 2024-04-30T04:59:53.075263+00:00
+ ## Events Calendar - Oregon State University
+ - [https://events.oregonstate.edu](https://events.oregonstate.edu)
+ - date_published: 2024-06-20T01:58:18.803266+00:00
 
- ## DPRG Home
- - [http://dprg.cs.uiuc.edu](http://dprg.cs.uiuc.edu)
- - date_published: 2024-06-22T09:32:38.056924+00:00
+ ## OSU Experience
+ - [https://experience.oregonstate.edu](https://experience.oregonstate.edu)
+ - date_published: 2024-06-20T01:39:35+00:00
 
- ## The i-acoma group at University of Illinois at Urbana-Champaign
- - [http://iacoma.cs.uiuc.edu](http://iacoma.cs.uiuc.edu)
- - date_published: 2024-08-17T22:29:56.067908+00:00
+ ## OSU Extension Service
+ - [https://extension.oregonstate.edu](https://extension.oregonstate.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
 
- ## The Maude System
- - [http://maude.cs.uiuc.edu](http://maude.cs.uiuc.edu)
- - date_published: 2024-03-20T00:00:00+00:00
+ ## Parent & Family Programs
+ - [https://families.oregonstate.edu](https://families.oregonstate.edu)
+ - date_published: 2024-10-14T10:43:54+00:00
 
- ## Middleware 2009
- - [http://middleware2009.cs.uiuc.edu](http://middleware2009.cs.uiuc.edu)
- - date_published: 2009-11-12T19:51:18+00:00
+ ## Family Resource Center
+ - [https://familyresources.oregonstate.edu](https://familyresources.oregonstate.edu)
+ - date_published: 2024-10-15T01:09:16+00:00
 
- ## The Polaris reseach group
- - [http://polaris.cs.uiuc.edu](http://polaris.cs.uiuc.edu)
- - date_published: 2014-11-15T15:08:47+00:00
+ ## Finance and Administration
+ - [https://fa.oregonstate.edu](https://fa.oregonstate.edu)
+ - date_published: 2024-07-02T04:26:44+00:00
 
- ## Illinois Real-Time Modeling Site
- - [http://rt.atmos.uiuc.edu](http://rt.atmos.uiuc.edu)
- - date_published: 2024-06-28T18:52:17.204539+00:00
+ ## College of Agricultural Sciences
+ - [https://fic.oregonstate.edu](https://fic.oregonstate.edu)
+ - date_published: 2024-10-14T22:09:06+00:00
 
- ## Social Spaces
- - [http://social.cs.uiuc.edu](http://social.cs.uiuc.edu)
- - date_published: 2024-05-12T00:22:28+00:00
+ ## Application Management
+ - [https://files.admissions.oregonstate.edu](https://files.admissions.oregonstate.edu)
+ - date_published: 2022-07-29T19:17:26+00:00
 
- ## Home
- - [http://www.engr.uiuc.edu](http://www.engr.uiuc.edu)
- - date_published: 2024-06-22T09:31:13.021717+00:00
+ ## Financial Aid
+ - [https://financialaid.oregonstate.edu](https://financialaid.oregonstate.edu)
+ - date_published: 2024-09-18T22:18:58+00:00
 
- ## Theoretical and Computational Biophysics Group
- - [http://www.ks.uiuc.edu](http://www.ks.uiuc.edu)
- - date_published: 2024-09-02T14:45:15.610586+00:00
+ ## Graduate School at Oregon State University
+ - [https://gradschool.oregonstate.edu](https://gradschool.oregonstate.edu)
+ - date_published: 2024-10-14T23:31:09+00:00
 
- ## Home | Department of Mathematics | Illinois
- - [http://www.math.uiuc.edu](http://www.math.uiuc.edu)
- - date_published: 2024-06-30T08:35:33+00:00
+ ## Home - Guin | Guin Library | Oregon State University
+ - [https://guin.library.oregonstate.edu](https://guin.library.oregonstate.edu)
+ - date_published: 2024-10-15T00:28:08+00:00
 
- ## Office of Student Financial Aid
- - [http://www.osfa.uiuc.edu](http://www.osfa.uiuc.edu)
- - date_published: 2024-07-21T22:27:37.693578+00:00
+ ## College of Health
+ - [https://health.oregonstate.edu](https://health.oregonstate.edu)
+ - date_published: 2015-12-11T08:58:22+00:00
 
- ## Illinois Physics | The Grainger College of Engineering | UIUC
- - [http://www.physics.uiuc.edu](http://www.physics.uiuc.edu)
- - date_published: 2024-07-21T22:12:22.152828+00:00
+ ## Hatfield Marine Science Center
+ - [https://hmsc.oregonstate.edu](https://hmsc.oregonstate.edu)
+ - date_published: 2024-06-14T19:48:33+00:00
 
- ## Home | University of Illinois Urbana-Champaign
- - [https://www.uiuc.edu](https://www.uiuc.edu)
- - date_published: 2024-05-08T09:32:00.383313+00:00
+ ## College of Agricultural Sciences
+ - [http://honeybeelab.oregonstate.edu](http://honeybeelab.oregonstate.edu)
+ - date_published: 2024-10-15T04:01:46+00:00
 
- ## University of the Incarnate Word | UIW Home
- - [https://www.uiw.edu](https://www.uiw.edu)
- - date_published: 2025-01-20T17:01:34.850627+00:00
+ ## Honors College
+ - [https://honors.oregonstate.edu](https://honors.oregonstate.edu)
+ - date_published: 2018-04-27T12:53:22+00:00
 
- ## Home | 4-H Youth Development
- - [http://4-h.ca.uky.edu](http://4-h.ca.uky.edu)
- - date_published: 2024-06-10T15:53:28+00:00
+ ## College of Agricultural Sciences
+ - [https://horticulture.oregonstate.edu](https://horticulture.oregonstate.edu)
+ - date_published: 2024-06-16T21:26:12+00:00
 
- ## College of Agriculture, Food and Environment Administrative Team | Office of the Dean
- - [https://administration.ca.uky.edu](https://administration.ca.uky.edu)
- - date_published: 2024-06-26T15:34:14+00:00
+ ## Office of University Human Resources
+ - [https://hr.oregonstate.edu](https://hr.oregonstate.edu)
+ - date_published: 2024-06-15T00:00:39+00:00
 
- ## Home | Admission
- - [https://admission.uky.edu](https://admission.uky.edu)
- - date_published: 2024-06-16T22:20:47.763854+00:00
+ ## Continuing Education and Professional Development at Oregon State University
+ - [https://info.pace.oregonstate.edu](https://info.pace.oregonstate.edu)
+ - date_published: 2024-10-13T03:52:03+00:00
 
- ## The Aggregate
- - [http://aggregate.ee.engr.uky.edu](http://aggregate.ee.engr.uky.edu)
- - date_published: 2023-10-25T19:01:38.933454+00:00
+ ## ScholarsArchive@OSU
+ - [https://ir.library.oregonstate.edu](https://ir.library.oregonstate.edu)
+ - date_published: 2024-10-15T01:11:19.694784+00:00
 
- ## Home | Office of Philanthropy and Alumni
- - [https://alumni.ca.uky.edu](https://alumni.ca.uky.edu)
- - date_published: 2024-05-07T21:23:13.535531+00:00
+ ## University Information and Technology
+ - [https://is.oregonstate.edu](https://is.oregonstate.edu)
+ - date_published: 2024-10-15T00:48:07+00:00
+
+ ## Oregon State University Jobs Portal | Home
+ - [https://jobs.oregonstate.edu](https://jobs.oregonstate.edu)
+ - date_published: 2024-07-09T08:58:06+00:00
+
+ ## Oregon State University, Department of Horticulture | Landscape Plants | Oregon State University
+ - [https://landscapeplants.oregonstate.edu](https://landscapeplants.oregonstate.edu)
+ - date_published: 2024-10-15T01:07:45+00:00
+
+ ## Leadership
+ - [https://leadership.oregonstate.edu](https://leadership.oregonstate.edu)
+ - date_published: 2014-11-20T15:33:55+00:00
+
+ ## Learn@OregonState
+ - [https://learn.oregonstate.edu](https://learn.oregonstate.edu)
+ - date_published: 2024-10-15T00:33:16+00:00
+
+ ## College of Liberal Arts
+ - [https://liberalarts.oregonstate.edu](https://liberalarts.oregonstate.edu)
+ - date_published: 2024-06-15T21:24:19+00:00
+
+ ## Home | Libraries | Oregon State University
+ - [https://library.oregonstate.edu](https://library.oregonstate.edu)
+ - date_published: 2024-06-16T20:15:45+00:00
+
+ ## Oregon State University
+ - [https://login.oregonstate.edu](https://login.oregonstate.edu)
+ - date_published: 2024-10-11T23:10:49+00:00
+
+ ## Linus Pauling Institute
+ - [https://lpi.oregonstate.edu](https://lpi.oregonstate.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Linus Pauling Institute
+ - [https://lpi.prod.acquia.cws.oregonstate.edu](https://lpi.prod.acquia.cws.oregonstate.edu)
+ - date_published: 2024-06-15T02:53:21+00:00
+
+ ## Campus Map
+ - [https://map.oregonstate.edu](https://map.oregonstate.edu)
+ - date_published: 2024-06-16T22:18:00+00:00
+
+ ## MBA
+ - [https://mba.oregonstate.edu](https://mba.oregonstate.edu)
+ - date_published: 2022-09-06T11:46:12+00:00
+
+ ## OSU MediaSpace
+ - [https://media.oregonstate.edu](https://media.oregonstate.edu)
+ - date_published: 2024-07-01T20:23:17+00:00
+
+ ## Mechanical, Industrial, and Manufacturing Engineering | College of Engineering
+ - [https://mime.oregonstate.edu](https://mime.oregonstate.edu)
+ - date_published: 2022-07-15T15:09:37+00:00
+
+ ## Home | Marine Mammal Institute | Oregon State University
+ - [https://mmi.oregonstate.edu](https://mmi.oregonstate.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## MyOregonState
+ - [https://my.oregonstate.edu](https://my.oregonstate.edu)
+ - date_published: 2024-03-25T16:47:03+00:00
+
+ ## MyOregonState
+ - [https://myosu.oregonstate.edu](https://myosu.oregonstate.edu)
+ - date_published: 2024-09-04T22:09:43+00:00
+
+ ## Newsroom
+ - [https://news.oregonstate.edu](https://news.oregonstate.edu)
+ - date_published: 2015-12-11T08:58:22+00:00
+
+ ## START: Welcome New OSU Students
+ - [https://newstudents.oregonstate.edu](https://newstudents.oregonstate.edu)
+ - date_published: 2020-04-21T11:20:35+00:00
+
+ ## ONID - OSU Network ID
+ - [https://onid.oregonstate.edu](https://onid.oregonstate.edu)
+ - date_published: 2024-10-14T21:56:20+00:00
+
+ ## Homepage, Open Campus, Oregon State University
+ - [https://opencampus.oregonstate.edu](https://opencampus.oregonstate.edu)
+ - date_published: 2024-10-13T03:46:44+00:00
+
+ ## OSU Open Educational Resources
+ - [https://open.oregonstate.edu](https://open.oregonstate.edu)
+ - date_published: 2024-10-15T01:15:24.800117+00:00
+
+ ## Oregon State University
+ - [https://oregonstate.edu](https://oregonstate.edu)
+ - date_published: 2024-05-01T08:03:32.208227+00:00
+
+ ## Home Page | OSU Press
+ - [https://osupress.oregonstate.edu](https://osupress.oregonstate.edu)
+ - date_published: 2024-10-15T01:12:00.704888+00:00
+
+ ## Research and Extension's impact | The Statewides: Our Impact
+ - [https://ourimpact.oregonstate.edu](https://ourimpact.oregonstate.edu)
+ - date_published: 2024-06-13T20:56:14+00:00
+
+ ## CORE - Center for the Outdoor Recreation Economy
+ - [https://outdooreconomy.oregonstate.edu](https://outdooreconomy.oregonstate.edu)
+ - date_published: 2024-10-13T03:54:48+00:00
+
+ ## Outdoor School - OSU Extension Service
+ - [https://outdoorschool.oregonstate.edu](https://outdoorschool.oregonstate.edu)
+ - date_published: 2024-10-15T00:03:32.067119+00:00
+
+ ## College of Agricultural Sciences
+ - [https://owri.oregonstate.edu](https://owri.oregonstate.edu)
+ - date_published: 2024-10-15T05:01:29+00:00
+
+ ## Professional Development and Continuing Education | Oregon State University
+ - [https://pace.oregonstate.edu](https://pace.oregonstate.edu)
+ - date_published: 2024-10-13T03:52:10+00:00
+
+ ## Degree Partnership Program (DPP)
+ - [https://partnerships.oregonstate.edu](https://partnerships.oregonstate.edu)
+ - date_published: 2024-06-05T14:18:15+00:00
+
+ ## College of Pharmacy
+ - [https://pharmacy.oregonstate.edu](https://pharmacy.oregonstate.edu)
+ - date_published: 2024-05-07T19:51:48.959290+00:00
+
+ ## Atlas of the Pacific Northwest
+ - [http://pnwatlas.oregonstate.edu](http://pnwatlas.oregonstate.edu)
+ - date_published: 2020-07-20T21:39:34+00:00
+
+ ## OSU in Portland
+ - [https://portland.oregonstate.edu](https://portland.oregonstate.edu)
+ - date_published: 2024-06-16T22:03:12+00:00
+
+ ## PRAx
+ - [https://prax.oregonstate.edu](https://prax.oregonstate.edu)
+ - date_published: 2024-06-13T23:45:32+00:00
+
+ ## Pre-med at Oregon State University
+ - [https://premed.oregonstate.edu](https://premed.oregonstate.edu)
+ - date_published: 2020-04-14T11:42:48+00:00
+
+ ## Public Safety
+ - [https://publicsafety.oregonstate.edu](https://publicsafety.oregonstate.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Office of the Registrar
+ - [https://registrar.oregonstate.edu](https://registrar.oregonstate.edu)
+ - date_published: 2024-06-16T21:52:11+00:00
+
+ ## Safety @ Oregon State University
+ - [https://safety.oregonstate.edu](https://safety.oregonstate.edu)
+ - date_published: 2023-06-20T13:19:43+00:00
+
+ ## Special Collections & Archives Research Center, Oregon State University Libraries
+ - [http://scarc.library.oregonstate.edu](http://scarc.library.oregonstate.edu)
+ - date_published: 2024-07-03T22:08:52+00:00
+
+ ## Scholarship Office
+ - [https://scholarships.oregonstate.edu](https://scholarships.oregonstate.edu)
+ - date_published: 2024-06-13T12:19:27+00:00
+
+ ## Oregon Sea Grant
+ - [https://seagrant.oregonstate.edu](https://seagrant.oregonstate.edu)
+ - date_published: 2018-06-19T17:40:38+00:00
+
+ ## OSU Search Advocate Program
+ - [https://searchadvocate.oregonstate.edu](https://searchadvocate.oregonstate.edu)
+ - date_published: 2024-10-15T00:50:55+00:00
+
+ ## OSU Search
+ - [https://search.oregonstate.edu](https://search.oregonstate.edu)
+ - date_published: 2023-11-14T01:09:37+00:00
+
+ ## ssl test
+ - [https://secure.engr.oregonstate.edu](https://secure.engr.oregonstate.edu)
+ - date_published: 2000-08-23T20:46:22+00:00
+
+ ## College of Agricultural Sciences
+ - [http://smallfarms.oregonstate.edu](http://smallfarms.oregonstate.edu)
+ - date_published: 2024-10-15T04:40:40+00:00
+
+ ## IS Status Dashboard
+ - [https://status.is.oregonstate.edu](https://status.is.oregonstate.edu)
+ - date_published: 2024-10-15T00:04:32.447182+00:00
+
+ ## OSU Extension Publications Store | Oregon State University
+ - [https://store.extension.oregonstate.edu](https://store.extension.oregonstate.edu)
+ - date_published: 2024-09-01T00:00:00+00:00
+
+ ## Office of the Dean of Students
+ - [https://studentlife.oregonstate.edu](https://studentlife.oregonstate.edu)
+ - date_published: 2024-10-15T00:20:38+00:00
+
+ ## Academic Success Center
+ - [https://success.oregonstate.edu](https://success.oregonstate.edu)
+ - date_published: 2024-05-04T07:30:39.725740+00:00
+
+ ## College of Agricultural Sciences
+ - [https://support.roots.oregonstate.edu](https://support.roots.oregonstate.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Technology
+ - [https://technology.oregonstate.edu](https://technology.oregonstate.edu)
+ - date_published: 2023-08-02T14:09:02+00:00
+
+ ## OSU College of Liberal Arts
+ - [https://thinkdifferently.liberalarts.oregonstate.edu](https://thinkdifferently.liberalarts.oregonstate.edu)
+ - date_published: 2024-09-19T21:00:18.277365+00:00
+
+ ## Life at OSU
+ - [https://today.oregonstate.edu](https://today.oregonstate.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Transfer Students
+ - [https://transfer.oregonstate.edu](https://transfer.oregonstate.edu)
+ - date_published: 2022-07-16T21:14:03+00:00
+
+ ## University Housing & Dining Services
+ - [https://uhds.oregonstate.edu](https://uhds.oregonstate.edu)
+ - date_published: 2024-10-15T01:07:08+00:00
+
+ ## University Information and Technology
+ - [https://uit.oregonstate.edu](https://uit.oregonstate.edu)
+ - date_published: 2024-06-16T05:44:56+00:00
+
+ ## Carlson College of Veterinary Medicine
+ - [https://vetmed.oregonstate.edu](https://vetmed.oregonstate.edu)
+ - date_published: 2024-10-15T00:27:46+00:00
+
+ ## Visit OSU
+ - [https://visitosu.oregonstate.edu](https://visitosu.oregonstate.edu)
+ - date_published: 2024-06-12T21:05:13+00:00
+
+ ## Volcano World
+ - [http://volcano.oregonstate.edu](http://volcano.oregonstate.edu)
+ - date_published: 2024-10-18T15:38:57.719110+00:00
+
+ ## Redirecting
+ - [http://web.engr.oregonstate.edu](http://web.engr.oregonstate.edu)
+ - date_published: 2003-08-19T21:34:40+00:00
+
+ ## Professional Development and Continuing Education | Oregon State University
+ - [https://workspace.oregonstate.edu](https://workspace.oregonstate.edu)
+ - date_published: 2024-06-16T02:31:35+00:00
+
+ ## Writing Center
+ - [http://writingcenter.oregonstate.edu](http://writingcenter.oregonstate.edu)
+ - date_published: 2024-06-20T01:04:04+00:00
+
+ ## Forest Science Labs - Research Network
+ - [http://www.fsl.orst.edu](http://www.fsl.orst.edu)
+ - date_published: 2021-11-10T19:06:08+00:00
+
+ ## Home Page - Oblate School of Theology
+ - [https://ost.edu](https://ost.edu)
+ - date_published: 2025-01-20T17:00:19.992074+00:00
+
+ ## Home | Advanced Computing Center for the Arts and Design
+ - [http://accad.osu.edu](http://accad.osu.edu)
+ - date_published: 2024-09-06T20:59:13.508197+00:00
+
+ ## ADA Digital Accessibility Center  –  ADA Digital Accessibility Center – The Ohio State University
+ - [https://accessibility.osu.edu](https://accessibility.osu.edu)
+ - date_published: 2024-07-17T03:37:43.114579+00:00
+
+ ## Student Activities
+ - [https://activities.osu.edu](https://activities.osu.edu)
+ - date_published: 2024-05-12T07:44:42.588261+00:00
+
+ ## ADA Coordinators Office home page
+ - [https://ada.osu.edu](https://ada.osu.edu)
+ - date_published: 2024-07-17T03:38:22.998408+00:00
+
+ ## Acoustics and Dynamics Laboratory
+ - [https://adl.osu.edu](https://adl.osu.edu)
+ - date_published: 2021-02-08T10:48:00+00:00
+
+ ## Home | Administrative Resource Center
+ - [https://admin.resources.osu.edu](https://admin.resources.osu.edu)
+ - date_published: 2024-06-16T14:39:04.833102+00:00
+
+ ## Engineering Advising
+ - [https://advising.engineering.osu.edu](https://advising.engineering.osu.edu)
+ - date_published: 2020-09-09T14:41:00+00:00
 
  ## Home | Agriculture and Natural Resources
- - [https://anr.ca.uky.edu](https://anr.ca.uky.edu)
- - date_published: 2024-05-21T17:03:11+00:00
+ - [https://agnr.osu.edu](https://agnr.osu.edu)
+ - date_published: 2024-10-15T07:37:14.239891+00:00
+
+ ## Alumni Groups | Web Hosting
+ - [https://alumnigroups.osu.edu](https://alumnigroups.osu.edu)
+ - date_published: 2024-05-07T19:52:09.461397+00:00
+
+ ## Ohio State Alumni Magazine
+ - [https://alumnimagazine.osu.edu](https://alumnimagazine.osu.edu)
+ - date_published: 2024-05-10T06:14:19.101411+00:00
+
+ ## Home | Administration and Planning
+ - [https://ap.osu.edu](https://ap.osu.edu)
+ - date_published: 2024-07-17T03:35:41.909725+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://appstatus.osu.edu](https://appstatus.osu.edu)
+ - date_published: 2024-05-12T07:43:58.030129+00:00
+
+ ## Home | College of Arts and Sciences
+ - [https://artsandsciences.osu.edu](https://artsandsciences.osu.edu)
+ - date_published: 2024-05-07T19:51:08.799469+00:00
+
+ ## Home | ASC Career Success
+ - [https://asccareersuccess.osu.edu](https://asccareersuccess.osu.edu)
+ - date_published: 2024-05-07T19:51:14.303907+00:00
+
+ ## Home | Curriculum and Assessment Services
+ - [https://asccas.osu.edu](https://asccas.osu.edu)
+ - date_published: 2024-07-01T16:45:17.130593+00:00
+
+ ## Engagement Map
+ - [https://ascengagement.osu.edu](https://ascengagement.osu.edu)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Home | ASC Intranet
+ - [https://ascintranet.osu.edu](https://ascintranet.osu.edu)
+ - date_published: 2024-05-07T19:51:17.327261+00:00
+
+ ## Home | ASC Office of Distance Education
+ - [https://ascode.osu.edu](https://ascode.osu.edu)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Home | College of Arts and Sciences
+ - [https://asc.osu.edu](https://asc.osu.edu)
+ - date_published: 2024-05-07T19:51:31.940280+00:00
+
+ ## Home | Instructional and Research IT Support Services (IRIS)
+ - [https://asctech.osu.edu](https://asctech.osu.edu)
+ - date_published: 2024-05-07T19:51:27.241185+00:00
+
+ ## BUX Assets
+ - [https://assets.bux.osu.edu](https://assets.bux.osu.edu)
+ - date_published: 2021-08-17T22:01:21+00:00
+
+ ## Home | Department of Astronomy
+ - [https://astronomy.osu.edu](https://astronomy.osu.edu)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## ATI Home | Ohio State ATI
+ - [http://ati.osu.edu](http://ati.osu.edu)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Center for Aviation Studies
+ - [http://aviation.osu.edu](http://aviation.osu.edu)
+ - date_published: 2019-07-17T13:58:00+00:00
+
+ ## Award Nominations
+ - [https://awards.webapps.engineering.osu.edu](https://awards.webapps.engineering.osu.edu)
+ - date_published: 2024-07-17T03:38:37.499310+00:00
+
+ ## Department of Biomedical Engineering
+ - [http://bme.osu.edu](http://bme.osu.edu)
+ - date_published: 2019-09-06T14:32:00+00:00
+
+ ## Brand Center | The Ohio State University Brand Center
+ - [https://brand.osu.edu](https://brand.osu.edu)
+ - date_published: 2024-06-27T17:48:59+00:00
+
+ ## Buckeye Funder
+ - [https://buckeyefunder.osu.edu](https://buckeyefunder.osu.edu)
+ - date_published: 2024-07-01T16:53:58.016202+00:00
+
+ ## SAML Authentication Request
+ - [https://buckeyelearn.osu.edu](https://buckeyelearn.osu.edu)
+ - date_published: 2024-07-01T16:54:58.099610+00:00
+
+ ## Buckeye Link
+ - [https://buckeyelink.osu.edu](https://buckeyelink.osu.edu)
+ - date_published: 2024-05-07T19:52:41.205680+00:00
+
+ ## BuckeyePass | The Ohio State University
+ - [https://buckeyepass.osu.edu](https://buckeyepass.osu.edu)
+ - date_published: 2024-05-01T07:01:40.124823+00:00
+
+ ## Home
+ - [https://buckeyesforcharity.osu.edu](https://buckeyesforcharity.osu.edu)
+ - date_published: 2024-07-17T03:50:36.146050+00:00
+
+ ## Buckeye Wellness Classes and Programs | Ohio State
+ - [http://buckeyewellness.osu.edu](http://buckeyewellness.osu.edu)
+ - date_published: 2024-07-17T03:29:08.004050+00:00
+
+ ## BuckID
+ - [https://buckid.osu.edu](https://buckid.osu.edu)
+ - date_published: 2024-05-12T07:44:29.930152+00:00
+
+ ## Build Your Ohio State - The Ohio State University
+ - [https://buildyour.osu.edu](https://buildyour.osu.edu)
+ - date_published: 2024-07-17T03:34:59.011629+00:00
+
+ ## Home | Office of Business and Finance
+ - [https://busfin.osu.edu](https://busfin.osu.edu)
+ - date_published: 2024-07-17T03:42:34+00:00
+
+ ## Ohio State's Design System | Buckeye UX Design System
+ - [https://bux.osu.edu](https://bux.osu.edu)
+ - date_published: 2024-06-28T19:11:09+00:00
+
+ ## Home | Byrd Polar and Climate Research Center
+ - [https://byrd.osu.edu](https://byrd.osu.edu)
+ - date_published: 2024-07-16T20:59:30+00:00
+
+ ## Visit Ohio State
+ - [https://campusvisit.osu.edu](https://campusvisit.osu.edu)
+ - date_published: 2024-05-12T07:43:08.856184+00:00
+
+ ## Cancer Treatment and Research Center | OSUCCC – James
+ - [https://cancer.osu.edu](https://cancer.osu.edu)
+ - date_published: 2024-05-12T07:43:31.451613+00:00
+
+ ## Loading...
+ - [https://carmen.osu.edu](https://carmen.osu.edu)
+ - date_published: 2021-12-09T05:09:39+00:00
+
+ ## Center for Automotive Research
+ - [https://car.osu.edu](https://car.osu.edu)
+ - date_published: 2020-07-28T14:34:00+00:00
+
+ ## Billy Ireland Cartoon Library and Museum		|
+ - [https://cartoons.osu.edu](https://cartoons.osu.edu)
+ - date_published: 2024-07-17T08:18:38.057122+00:00
+
+ ## William G. Lowrie Department of Chemical and Biomolecular Engineering
+ - [https://cbe.osu.edu](https://cbe.osu.edu)
+ - date_published: 2019-06-12T11:56:00+00:00
+
+ ## Counseling and Consultation Service
+ - [https://ccs.osu.edu](https://ccs.osu.edu)
+ - date_published: 2024-05-12T07:44:18.244369+00:00
+
+ ## Department of Civil, Environmental and Geodetic Engineering
+ - [http://ceg.osu.edu](http://ceg.osu.edu)
+ - date_published: 2014-05-21T09:37:00+00:00
+
+ ## Center for Emergent Materials
+ - [https://cem.osu.edu](https://cem.osu.edu)
+ - date_published: 2024-07-17T03:37:32.905052+00:00
+
+ ## Homepage | Office of Innovation and Economic Development, The Ohio State University
+ - [https://ceo.osu.edu](https://ceo.osu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Diversity, Equity & Inclusion Home | Office of Diversity, Equity, and Inclusion
+ - [https://cfaesdei.osu.edu](https://cfaesdei.osu.edu)
+ - date_published: 2024-07-17T03:36:55.831756+00:00
+
+ ## CFAES Fiscal Service Center Home Page | CFAES Finance
+ - [http://cfaesfinance.osu.edu](http://cfaesfinance.osu.edu)
+ - date_published: 2024-10-15T07:37:11.216788+00:00
+
+ ## Home | CFAES
+ - [http://cfaes.osu.edu](http://cfaes.osu.edu)
+ - date_published: 2024-07-17T03:36:22.127008+00:00
+
+ ## Home | CFAES Safety and Compliance
+ - [https://cfaessafety.osu.edu](https://cfaessafety.osu.edu)
+ - date_published: 2024-07-17T03:36:45.400450+00:00
+
+ ## Council of Graduate Students
+ - [http://cgs.osu.edu](http://cgs.osu.edu)
+ - date_published: 2024-07-02T14:43:04.058395+00:00
+
+ ## Home | Clark
+ - [https://clark.osu.edu](https://clark.osu.edu)
+ - date_published: 2024-08-19T16:24:02.791608+00:00
+
+ ## Class Search
+ - [https://classes.osu.edu](https://classes.osu.edu)
+ - date_published: 2024-05-12T07:42:52.798195+00:00
+
+ ## Center for Life Sciences Education | Center for Life Sciences Education
+ - [https://clse.osu.edu](https://clse.osu.edu)
+ - date_published: 2024-07-17T03:50:11.905406+00:00
+
+ ## Home | Campus Microscopy & Imaging Facility (CMIF)
+ - [https://cmif.osu.edu](https://cmif.osu.edu)
+ - date_published: 2024-07-02T15:12:42+00:00
+
+ ## About the UCR
+ - [https://code.osu.edu](https://code.osu.edu)
+ - date_published: 2024-07-13T03:53:44+00:00
+
+ ## College in Columbus
+ - [https://collegeincbus.osu.edu](https://collegeincbus.osu.edu)
+ - date_published: 2024-07-17T03:26:24.454651+00:00
+
+ ## Home | Community Development
+ - [http://comdev.osu.edu](http://comdev.osu.edu)
+ - date_published: 2024-10-15T07:36:42.303789+00:00
+
+ ## Summer Commencement 2024
+ - [https://commencement.osu.edu](https://commencement.osu.edu)
+ - date_published: 2024-07-01T16:55:13.763456+00:00
+
+ ## Login - Give To Ohio State - The Ohio State University
+ - [https://connect1.osu.edu](https://connect1.osu.edu)
+ - date_published: 2024-05-07T19:52:26.447794+00:00
+
+ ## College of Public Health Homepage
+ - [https://cph.osu.edu](https://cph.osu.edu)
+ - date_published: 2024-07-16T21:41:28+00:00
+
+ ## Department of Computer Science and Engineering
+ - [https://cse.osu.edu](https://cse.osu.edu)
+ - date_published: 2014-02-07T14:25:00+00:00
+
+ ## CSE Database Portal
+ - [https://cse-portal.webapps.engineering.osu.edu](https://cse-portal.webapps.engineering.osu.edu)
+ - date_published: 2024-05-14T16:16:34+00:00
+
+ ## Home | Center for the Study and Teaching of Writing
+ - [https://cstw.osu.edu](https://cstw.osu.edu)
+ - date_published: 2024-10-14T20:40:24.679783+00:00
+
+ ## Home - The Ohio State University - College of Social Work
+ - [https://csw.osu.edu](https://csw.osu.edu)
+ - date_published: 2024-06-16T02:54:24+00:00
+
+ ## Cybersecurity
+ - [https://cybersecurity.osu.edu](https://cybersecurity.osu.edu)
+ - date_published: 2023-03-17T15:52:38+00:00
+
+ ## Dental Alumni Society
+ - [https://das.alumni.osu.edu](https://das.alumni.osu.edu)
+ - date_published: 2024-02-08T17:42:16.788473+00:00
+
+ ## Home
+ - [https://das.osu.edu](https://das.osu.edu)
+ - date_published: 2020-11-02T15:49:08+00:00
+
+ ## Home | Ohio State Dental Clinics
+ - [https://dentalclinics.osu.edu](https://dentalclinics.osu.edu)
+ - date_published: 2024-07-17T03:43:34.031757+00:00
+
+ ## OSU College of Dentistry
+ - [https://dentistry.osu.edu](https://dentistry.osu.edu)
+ - date_published: 2024-05-12T07:44:32.720792+00:00
+
+ ## Digital Unions | Learning Spaces Directory
+ - [http://digitalunion.osu.edu](http://digitalunion.osu.edu)
+ - date_published: 2024-07-09T14:48:32.416639+00:00
+
+ ## Dining Services
+ - [https://dining.osu.edu](https://dining.osu.edu)
+ - date_published: 2024-05-12T07:44:11.233781+00:00
+
+ ## Discovery Themes, The Ohio State University
+ - [https://discovery.osu.edu](https://discovery.osu.edu)
+ - date_published: 2024-07-17T03:37:40.670441+00:00
+
+ ## Home | Department of Public Safety
+ - [https://dps.osu.edu](https://dps.osu.edu)
+ - date_published: 2024-05-12T07:43:42.601189+00:00
+
+ ## Home | Michael V. Drake Institute for Teaching and Learning
+ - [https://drakeinstitute.osu.edu](https://drakeinstitute.osu.edu)
+ - date_published: 2024-10-14T20:40:27.061965+00:00
+
+ ## Home | School of Earth Sciences
+ - [https://earthsciences.osu.edu](https://earthsciences.osu.edu)
+ - date_published: 2024-05-07T22:31:30.967450+00:00
+
+ ## Newark Earthworks Center | The Ohio State University
+ - [https://earthworks.osu.edu](https://earthworks.osu.edu)
+ - date_published: 2024-07-17T03:37:02.098347+00:00
+
+ ## Department of Electrical & Computer Engineering
+ - [http://ece.osu.edu](http://ece.osu.edu)
+ - date_published: 2022-10-29T19:35:00+00:00
+
+ ## Home | Department of Economics
+ - [https://economics.osu.edu](https://economics.osu.edu)
+ - date_published: 2024-09-19T20:16:09.867243+00:00
+
+ ## Engineering Career Services
+ - [https://ecs.osu.edu](https://ecs.osu.edu)
+ - date_published: 2016-08-15T10:12:00+00:00
+
+ ## Department of Engineering Education
+ - [https://eed.osu.edu](https://eed.osu.edu)
+ - date_published: 2016-03-08T09:33:00+00:00
+
+ ## College of Education and Human Ecology
+ - [http://ehe.osu.edu](http://ehe.osu.edu)
+ - date_published: 2024-06-29T09:07:14.647181+00:00
+
+ ## Home | Environmental Health and Safety
+ - [https://ehs.osu.edu](https://ehs.osu.edu)
+ - date_published: 2024-07-17T03:37:27.974764+00:00
+
+ ## Microsoft 365
+ - [https://email.osu.edu](https://email.osu.edu)
+ - date_published: 2022-11-29T22:09:42+00:00
+
+ ## Home | Energize Ohio
+ - [http://energizeohio.osu.edu](http://energizeohio.osu.edu)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Outreach and Engagement, The Ohio State University
+ - [https://engage.osu.edu](https://engage.osu.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## COLLEGE OF ENGINEERING
+ - [https://engineering.osu.edu](https://engineering.osu.edu)
+ - date_published: 2014-02-03T10:53:00+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://eprotocol.osu.edu](https://eprotocol.osu.edu)
+ - date_published: 2024-07-17T03:37:50.285181+00:00
+
+ ## Home | Institutional Equity
+ - [https://equity.osu.edu](https://equity.osu.edu)
+ - date_published: 2024-07-01T16:53:40.489856+00:00
+
+ ## College of Engineering Engineering Research Administration
+ - [https://era.osu.edu](https://era.osu.edu)
+ - date_published: 2018-04-27T08:19:00+00:00
+
+ ## The Enterprise for Research, Innovation and Knowledge
+ - [https://erik.osu.edu](https://erik.osu.edu)
+ - date_published: 2024-05-12T07:44:06.899584+00:00
+
+ ## Intercultural English Language Programs - Homepage
+ - [https://esl.ehe.osu.edu](https://esl.ehe.osu.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Engineering Technology Services (ETS)
+ - [https://ets.osu.edu](https://ets.osu.edu)
+ - date_published: 2023-07-26T10:19:00+00:00
+
+ ## Home | Extension Operations
+ - [http://extensionhr.osu.edu](http://extensionhr.osu.edu)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## Home | OSU Extension
+ - [https://extension.osu.edu](https://extension.osu.edu)
+ - date_published: 2024-07-17T01:40:14+00:00
+
+ ## Veterinary Extension | Veterinary Extension
+ - [https://extension.vet.osu.edu](https://extension.vet.osu.edu)
+ - date_published: 2024-07-17T03:42:51.617565+00:00
+
+ ## Department of Food, Agricultural and Biological Engineering | FABE
+ - [http://fabe.osu.edu](http://fabe.osu.edu)
+ - date_published: 2024-07-17T01:21:41+00:00
+
+ ## Home | Office of Faculty Affairs
+ - [https://faculty.osu.edu](https://faculty.osu.edu)
+ - date_published: 2024-07-17T03:50:53.046535+00:00
+
+ ## Home | Family and Consumer Sciences
+ - [http://fcs.osu.edu](http://fcs.osu.edu)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Home | First Year Seminars
+ - [https://firstyearseminars.osu.edu](https://firstyearseminars.osu.edu)
+ - date_published: 2024-05-07T19:51:20.656861+00:00
+
+ ## Foods for Health | The Ohio State University
+ - [https://foodsforhealth.osu.edu](https://foodsforhealth.osu.edu)
+ - date_published: 2024-07-17T03:37:22.754828+00:00
+
+ ## Foundation Relations | The Ohio State University
+ - [https://foundationrelations.osu.edu](https://foundationrelations.osu.edu)
+ - date_published: 2024-07-01T16:53:53.754076+00:00
+
+ ## Home | Farm Science Review
+ - [https://fsr.osu.edu](https://fsr.osu.edu)
+ - date_published: 2024-10-15T07:36:58.436227+00:00
+
+ ## Home
+ - [https://giveto.osu.edu](https://giveto.osu.edu)
+ - date_published: 2024-07-01T16:53:47.329304+00:00
+
+ ## College of Engineering Global Engineering
+ - [https://global.engineering.osu.edu](https://global.engineering.osu.edu)
+ - date_published: 2014-06-21T11:26:00+00:00
+
+ ## Home | Global Water Institute
+ - [https://globalwater.osu.edu](https://globalwater.osu.edu)
+ - date_published: 2024-07-17T03:37:20.068817+00:00
+
+ ## Home | The Goldberg Center
+ - [https://goldbergcenter.osu.edu](https://goldbergcenter.osu.edu)
+ - date_published: 2024-05-12T07:29:49.051269+00:00
+
+ ## go.osu.edu Create Shortened URLs
+ - [https://go.osu.edu](https://go.osu.edu)
+ - date_published: 2024-05-07T19:51:22.252604+00:00
+
+ ## Graduate and Professional Admissions | The Ohio State University
+ - [https://gpadmissions.osu.edu](https://gpadmissions.osu.edu)
+ - date_published: 2024-01-24T20:02:54+00:00
 
  ## Home | Graduate School
- - [https://apply.gradschool.uky.edu](https://apply.gradschool.uky.edu)
- - date_published: 2024-10-14T23:30:49.947308+00:00
+ - [https://gradsch.osu.edu](https://gradsch.osu.edu)
+ - date_published: 2024-05-12T07:44:22.743757+00:00
 
- ## Home | Admission
- - [https://apply.uky.edu](https://apply.uky.edu)
- - date_published: 2024-05-07T21:23:34.617902+00:00
+ ## Ohio State Optometry Services
+ - [https://greatvision.osu.edu](https://greatvision.osu.edu)
+ - date_published: 2024-05-12T07:43:33.074900+00:00
 
- ## The College of Arts Sciences | University of Kentucky College of Arts & Sciences
- - [https://as.uky.edu](https://as.uky.edu)
- - date_published: 2024-05-07T21:23:30.795240+00:00
+ ## Resources for Alumni Volunteers
+ - [https://groups.alumni.osu.edu](https://groups.alumni.osu.edu)
+ - date_published: 2024-07-01T16:53:44.931332+00:00
 
- ## University of Kentucky - Modern Campus Catalog™
- - [http://bulletin.uky.edu](http://bulletin.uky.edu)
- - date_published: 2024-10-14T00:00:00+00:00
+ ## Ohio State | Gene Therapy Institute |
+ - [https://gti.osu.edu](https://gti.osu.edu)
+ - date_published: 2024-07-17T03:37:21.492750+00:00
 
- ## Office of Business Engagement | Office of Business Engagement
- - [https://businessengagement.uky.edu](https://businessengagement.uky.edu)
- - date_published: 2024-06-16T22:21:52.096709+00:00
+ ## Research Guides
+ - [https://guides.osu.edu](https://guides.osu.edu)
+ - date_published: 2024-07-17T03:37:51.971187+00:00
 
- ## Events Calendar - University of Kentucky
- - [https://calendar.uky.edu](https://calendar.uky.edu)
- - date_published: 2024-06-16T00:00:00+00:00
+ ## Ohio State Health & Discovery | Health, wellness and innovation news
+ - [https://health.osu.edu](https://health.osu.edu)
+ - date_published: 2024-07-01T16:54:02.869385+00:00
 
- ## Graham Office of Career Management | Gatton College of Business and Economics
- - [https://careers.gatton.uky.edu](https://careers.gatton.uky.edu)
- - date_published: 2024-10-14T23:37:22.365605+00:00
+ ## help.osu.edu
+ - [https://help.osu.edu](https://help.osu.edu)
+ - date_published: 2024-04-12T14:05:15+00:00
 
- ## University of Kentucky - Modern Campus Catalog™
- - [http://catalogs.uky.edu](http://catalogs.uky.edu)
- - date_published: 2024-10-14T00:00:00+00:00
+ ## Housing and Residence Education
+ - [https://housing.osu.edu](https://housing.osu.edu)
+ - date_published: 2024-05-12T07:44:00.222217+00:00
 
- ## Carolingian Canon Law Project
- - [http://ccl.rch.uky.edu](http://ccl.rch.uky.edu)
- - date_published: 2024-06-26T21:37:16.400451+00:00
+ ## ServiceNow
+ - [https://hrconnection.osu.edu](https://hrconnection.osu.edu)
+ - date_published: 2024-07-17T03:50:44.535464+00:00
 
- ## Home | UK Center for Clinical and Translation Science
- - [https://ccts.uky.edu](https://ccts.uky.edu)
- - date_published: 2024-05-09T05:52:34.813008+00:00
+ ## Human Resources at Ohio State
+ - [https://hr.osu.edu](https://hr.osu.edu)
+ - date_published: 2024-05-12T07:44:44.428985+00:00
 
- ## About - UK CDAR
- - [https://cdar.uky.edu](https://cdar.uky.edu)
- - date_published: 2024-10-14T23:22:45.090735+00:00
+ ## Home | Health Sciences Library
+ - [https://hsl.osu.edu](https://hsl.osu.edu)
+ - date_published: 2024-07-15T23:19:10+00:00
 
- ## Content not found
- - [https://cdn.as.uky.edu](https://cdn.as.uky.edu)
- - date_published: 2013-04-16T15:22:02+00:00
-
- ## Home | CEDIK
- - [http://cedik.ca.uky.edu](http://cedik.ca.uky.edu)
- - date_published: 2024-07-01T14:27:24+00:00
-
- ## Home | College of Health Sciences
- - [https://chs.uky.edu](https://chs.uky.edu)
- - date_published: 2024-10-14T23:07:01.150281+00:00
+ ## Home | History Teaching Institute
+ - [https://hti.osu.edu](https://hti.osu.edu)
+ - date_published: 2024-07-16T23:32:44.762272+00:00
 
  ## Home
- - [http://cis.uky.edu](http://cis.uky.edu)
- - date_published: 2024-07-02T03:08:11.673980+00:00
+ - [https://idi.osu.edu](https://idi.osu.edu)
+ - date_published: 2019-10-24T00:00:00+00:00
+
+ ## Institute for Materials and Manufacturing Research | Gateway to Ohio State's materials-allied research enterprise.
+ - [http://imr.osu.edu](http://imr.osu.edu)
+ - date_published: 2024-07-17T03:37:18.048118+00:00
+
+ ## Log In | Inventions
+ - [https://innovate.osu.edu](https://innovate.osu.edu)
+ - date_published: 2024-07-17T03:38:21.592822+00:00
+
+ ## Inspire 2023 - Inspire
+ - [https://inspire.ehe.osu.edu](https://inspire.ehe.osu.edu)
+ - date_published: 2023-03-13T04:17:09+00:00
+
+ ## Involved Living
+ - [http://involvedliving.osu.edu](http://involvedliving.osu.edu)
+ - date_published: 2024-07-17T03:38:13.640228+00:00
+
+ ## Department of Integrated Systems Engineering
+ - [http://ise.osu.edu](http://ise.osu.edu)
+ - date_published: 2019-06-04T15:55:00+00:00
 
  ## Home
- - [https://ci.uky.edu](https://ci.uky.edu)
- - date_published: 2024-06-16T22:21:58.581394+00:00
+ - [https://it.osu.edu](https://it.osu.edu)
+ - date_published: 2024-05-12T07:44:45.943677+00:00
 
- ## home | Coldstream Research Campus
- - [https://coldstream.uky.edu](https://coldstream.uky.edu)
- - date_published: 2024-06-16T22:21:37.173525+00:00
+ ## Journal of Money, Credit & Banking | Department of Economics
+ - [https://jmcb.osu.edu](https://jmcb.osu.edu)
+ - date_published: 2024-09-19T18:27:14+00:00
 
- ## Home | Commencement
- - [https://commencement.uky.edu](https://commencement.uky.edu)
- - date_published: 2024-06-16T22:20:59.328687+00:00
+ ## DSpace
+ - [https://kb.osu.edu](https://kb.osu.edu)
+ - date_published: 2024-06-25T11:24:08+00:00
 
- ## Department of Communication
- - [https://comm.uky.edu](https://comm.uky.edu)
- - date_published: 2024-10-14T23:37:50.589907+00:00
+ ## Home
+ - [https://keenan.osu.edu](https://keenan.osu.edu)
+ - date_published: 2024-05-12T07:43:04.501456+00:00
 
- ## Home | College of Public Health
- - [https://cph.uky.edu](https://cph.uky.edu)
- - date_published: 2024-10-14T23:06:58.274179+00:00
+ ## Knowlton School
+ - [http://knowlton.osu.edu](http://knowlton.osu.edu)
+ - date_published: 2020-03-05T10:57:00+00:00
 
- ## Computer Science
- - [https://cs.uky.edu](https://cs.uky.edu)
- - date_published: 2017-11-05T00:51:35+00:00
+ ## Knowledge Exchange
+ - [http://kx.osu.edu](http://kx.osu.edu)
+ - date_published: 2024-06-21T20:43:50+00:00
 
- ## Home | Diversity, Equity and Inclusion
- - [https://dei.uky.edu](https://dei.uky.edu)
- - date_published: 2024-06-16T22:22:02.221486+00:00
+ ## Leadership and Community Engagement
+ - [https://lead.osu.edu](https://lead.osu.edu)
+ - date_published: 2024-07-17T03:50:21.884047+00:00
 
- ## The College of Dentistry |
- - [https://dentistry.uky.edu](https://dentistry.uky.edu)
- - date_published: 2024-03-13T00:00:00+00:00
+ ## Home | Learning Spaces Directory
+ - [https://learningspaces.osu.edu](https://learningspaces.osu.edu)
+ - date_published: 2024-07-01T16:55:04.270677+00:00
 
- ## University of Kentucky College of Design – 38°84° the power of place
- - [https://design.uky.edu](https://design.uky.edu)
- - date_published: 2024-06-16T22:21:31.798037+00:00
+ ## Welcome to The Ohio State University at Newark
+ - [https://legacy-newark.osu.edu](https://legacy-newark.osu.edu)
+ - date_published: 2024-07-17T03:37:04.846750+00:00
 
- ## Home | University of Kentucky College of Arts & Sciences
- - [https://di.as.uky.edu](https://di.as.uky.edu)
- - date_published: 2024-07-02T01:00:37+00:00
+ ## Ask Us - LibAnswers
+ - [https://libanswers.osu.edu](https://libanswers.osu.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
 
- ## Home | Extension Field Directory
- - [http://directory.ca.uky.edu](http://directory.ca.uky.edu)
- - date_published: 2024-06-30T23:17:11+00:00
+ ## Ohio State University Libraries
+ - [https://library.osu.edu](https://library.osu.edu)
+ - date_published: 2024-05-12T07:44:38.694450+00:00
 
- ## UK Directory - University of Kentucky
- - [https://directory.uky.edu](https://directory.uky.edu)
- - date_published: 2024-06-16T22:20:43.675455+00:00
+ ## Home | The Ohio State University at Lima
+ - [https://lima.osu.edu](https://lima.osu.edu)
+ - date_published: 2024-05-12T07:43:51.453437+00:00
 
- ## Home | Office of Diversity
- - [https://diversity.ca.uky.edu](https://diversity.ca.uky.edu)
- - date_published: 2024-05-23T16:44:16+00:00
+ ## Home | Local Foods
+ - [http://localfoods.osu.edu](http://localfoods.osu.edu)
+ - date_published: 2024-10-15T07:37:38.057026+00:00
 
- ## Home | Next Generation Scholars Dual Credit
- - [https://dualcredit.uky.edu](https://dualcredit.uky.edu)
- - date_published: 2024-10-14T23:29:43.174756+00:00
+ ## Department of Mechanical and Aerospace Engineering
+ - [http://mae.osu.edu](http://mae.osu.edu)
+ - date_published: 2014-05-15T09:26:00+00:00
 
- ## Home | Economic Development Collaborative
- - [https://edc.uky.edu](https://edc.uky.edu)
- - date_published: 2024-10-14T23:37:11.013759+00:00
+ ## The Ohio State University at Mansfield
+ - [https://mansfield.osu.edu](https://mansfield.osu.edu)
+ - date_published: 2024-05-12T07:43:39.206902+00:00
 
- ## Home | College of Education
- - [https://education.uky.edu](https://education.uky.edu)
- - date_published: 2024-06-16T22:21:08.578572+00:00
+ ## Campus Maps | The Ohio State University
+ - [https://maps.osu.edu](https://maps.osu.edu)
+ - date_published: 2024-08-20T17:58:03+00:00
 
- ## EduceLab | A Digital Restoration Initiative
- - [https://educelab.engr.uky.edu](https://educelab.engr.uky.edu)
- - date_published: 2024-07-19T23:09:45.503290+00:00
+ ## Home | Department of Mathematics
+ - [https://math.osu.edu](https://math.osu.edu)
+ - date_published: 2024-06-30T03:00:40.319489+00:00
 
- ## UK - Environmental Health And Safety
- - [https://ehs.uky.edu](https://ehs.uky.edu)
- - date_published: 2024-05-13T00:00:00+00:00
+ ## Home | Mathematical Biosciences Institute
+ - [https://mbi.osu.edu](https://mbi.osu.edu)
+ - date_published: 2024-06-30T09:43:55.506468+00:00
+
+ ## Home | MCIC
+ - [https://mcic.osu.edu](https://mcic.osu.edu)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Ohio State College of Medicine | Ohio State College of Medicine
+ - [https://medicine.osu.edu](https://medicine.osu.edu)
+ - date_published: 2024-07-17T03:43:38.833921+00:00
+
+ ## Microsoft 365
+ - [https://microsoft365.osu.edu](https://microsoft365.osu.edu)
+ - date_published: 2022-11-29T22:09:42+00:00
+
+ ## Home | Moritz College of Law
+ - [https://moritzlaw.osu.edu](https://moritzlaw.osu.edu)
+ - date_published: 2024-07-17T03:49:54.848100+00:00
+
+ ## Department of Materials Science and Engineering
+ - [http://mse.osu.edu](http://mse.osu.edu)
+ - date_published: 2019-07-26T10:07:00+00:00
+
+ ## MyChart - Login Page
+ - [https://mychart.osu.edu](https://mychart.osu.edu)
+ - date_published: 2024-07-01T16:54:18.541508+00:00
+
+ ## login - OSU Identity Management Landing Page
+ - [https://my.osu.edu](https://my.osu.edu)
+ - date_published: 2024-05-12T07:43:06.452277+00:00
+
+ ## The Ohio State University at Newark
+ - [https://newark.osu.edu](https://newark.osu.edu)
+ - date_published: 2024-05-12T07:43:48.028100+00:00
+
+ ## Ohio State News
+ - [https://news.osu.edu](https://news.osu.edu)
+ - date_published: 2023-10-25T18:56:36.422788+00:00
+
+ ## Home Page | The Ohio State University College of Nursing
+ - [https://nursing.osu.edu](https://nursing.osu.edu)
+ - date_published: 2024-07-16T21:27:35+00:00
+
+ ## Office of Academic Affairs, The Ohio State University
+ - [https://oaa.osu.edu](https://oaa.osu.edu)
+ - date_published: 2024-07-01T16:45:20.016626+00:00
+
+ ## About CFAES Research | Office for Research and Graduate Education
+ - [https://oardc.osu.edu](https://oardc.osu.edu)
+ - date_published: 2024-07-17T03:36:29.124987+00:00
+
+ ## Home
+ - [https://ocio.osu.edu](https://ocio.osu.edu)
+ - date_published: 2024-05-07T19:52:33.582132+00:00
+
+ ## Home
+ - [https://odee.osu.edu](https://odee.osu.edu)
+ - date_published: 2024-07-01T14:44:15+00:00
+
+ ## Off-Campus and Commuter Student Engagement
+ - [https://offcampus.osu.edu](https://offcampus.osu.edu)
+ - date_published: 2024-05-12T07:44:25.294709+00:00
+
+ ## Home
+ - [http://ohioline.osu.edu](http://ohioline.osu.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Homepage | Office of Innovation and Economic Development, The Ohio State University
+ - [https://oied.osu.edu](https://oied.osu.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Office of Marketing and Communications | The Ohio State University
+ - [https://omc.osu.edu](https://omc.osu.edu)
+ - date_published: 2024-05-07T19:52:43.553637+00:00
+
+ ## On Campus | The Ohio State University
+ - [https://oncampus.osu.edu](https://oncampus.osu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home
+ - [https://online.osu.edu](https://online.osu.edu)
+ - date_published: 2024-05-12T07:43:17.717940+00:00
+
+ ## The Ohio State University Avatar Service | OPIC
+ - [https://opic.osu.edu](https://opic.osu.edu)
+ - date_published: 2024-05-07T19:51:19.259089+00:00
+
+ ## Home | Institute for Optical Science
+ - [https://opticalscience.osu.edu](https://opticalscience.osu.edu)
+ - date_published: 2024-07-17T03:37:11.656760+00:00
+
+ ## Home | College of Optometry
+ - [https://optometry.osu.edu](https://optometry.osu.edu)
+ - date_published: 2024-07-15T18:20:58+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://orapps.osu.edu](https://orapps.osu.edu)
+ - date_published: 2024-07-17T03:37:35.985461+00:00
+
+ ## University Orientation | The Ohio State University
+ - [https://orientation.osu.edu](https://orientation.osu.edu)
+ - date_published: 2024-06-04T14:21:36+00:00
+
+ ## | Origins
+ - [https://origins.osu.edu](https://origins.osu.edu)
+ - date_published: 2024-04-05T18:56:08.025429+00:00
+
+ ## Human Subjects | Ohio State Office of Research
+ - [https://orrp.osu.edu](https://orrp.osu.edu)
+ - date_published: 2024-07-16T20:41:24+00:00
+
+ ## Home | Orton Geological Museum
+ - [https://ortongeologicalmuseum.osu.edu](https://ortongeologicalmuseum.osu.edu)
+ - date_published: 2024-07-02T14:43:06.036808+00:00
+
+ ## Office of Academic Affairs, The Ohio State University
+ - [https://osas.osu.edu](https://osas.osu.edu)
+ - date_published: 2024-10-14T20:40:16.330656+00:00
+
+ ## Home | The Ohio State University
+ - [https://osu.edu](https://osu.edu)
+ - date_published: 2024-04-05T21:48:57+00:00
+
+ ## Home | The Ohio State University at Marion
+ - [https://osumarion.osu.edu](https://osumarion.osu.edu)
+ - date_published: 2024-05-12T07:44:40.456460+00:00
+
+ ## Ohio State University Retirees Association
+ - [http://osura.osu.edu](http://osura.osu.edu)
+ - date_published: 2024-07-17T03:50:49.167997+00:00
+
+ ## Ohio Union Activities Board
+ - [https://ouab.osu.edu](https://ouab.osu.edu)
+ - date_published: 2024-07-17T03:50:24.502088+00:00
+
+ ## People @ Ohio State Engineering
+ - [https://people.engineering.osu.edu](https://people.engineering.osu.edu)
+ - date_published: 2024-06-30T23:48:01+00:00
+
+ ## Home | Arne Slettebak Planetarium at Ohio State
+ - [https://planetarium.osu.edu](https://planetarium.osu.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## PlantFacts · Welcome · PlantFacts.osu.edu
+ - [https://plantfacts.osu.edu](https://plantfacts.osu.edu)
+ - date_published: 2024-02-08T22:53:17.623276+00:00
+
+ ## University Policies
+ - [http://policies.osu.edu](http://policies.osu.edu)
+ - date_published: 2024-07-01T16:45:14+00:00
+
+ ## Office of the President | The Ohio State University
+ - [https://president.osu.edu](https://president.osu.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## College of Engineering Professional and Distance Education Programs
+ - [https://professionals.engineering.osu.edu](https://professionals.engineering.osu.edu)
+ - date_published: 2014-09-29T10:33:00+00:00
+
+ ## Home | Prohibition
+ - [https://prohibition.osu.edu](https://prohibition.osu.edu)
+ - date_published: 2024-07-16T23:32:40.177942+00:00
+
+ ## Home | Department of Psychology
+ - [https://psychology.osu.edu](https://psychology.osu.edu)
+ - date_published: 2024-07-01T19:51:27.114258+00:00
+
+ ## Reading Like A Victorian
+ - [https://readinglikeavictorian.osu.edu](https://readinglikeavictorian.osu.edu)
+ - date_published: 2024-08-19T04:44:28.701996+00:00
+
+ ## Home | Real Money. Real World.
+ - [http://realmoneyrealworld.osu.edu](http://realmoneyrealworld.osu.edu)
+ - date_published: 2024-10-15T07:36:44.655014+00:00
+
+ ## Recreational Sports
+ - [https://recsports.osu.edu](https://recsports.osu.edu)
+ - date_published: 2024-05-12T07:42:58.147953+00:00
+
+ ## Ohio State Campuses | The Ohio State University
+ - [http://regional.osu.edu](http://regional.osu.edu)
+ - date_published: 2024-06-17T18:30:04+00:00
+
+ ## University Registrar - The Ohio State University
+ - [https://registrar.osu.edu](https://registrar.osu.edu)
+ - date_published: 2024-05-12T07:43:35.495243+00:00
+
+ ## Home
+ - [https://research.osu.edu](https://research.osu.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home | Center for RNA Biology
+ - [https://rna.osu.edu](https://rna.osu.edu)
+ - date_published: 2024-07-17T03:37:30.153981+00:00
+
+ ## Home — Safe and Healthy Buckeyes | Ohio State
+ - [https://safeandhealthy.osu.edu](https://safeandhealthy.osu.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Home | Secrest Arboretum
+ - [https://secrest.osu.edu](https://secrest.osu.edu)
+ - date_published: 2024-07-17T03:36:37.279261+00:00
+
+ ## Student Financial Aid - The Ohio State University
+ - [https://sfa.osu.edu](https://sfa.osu.edu)
+ - date_published: 2024-05-12T07:43:24.905080+00:00
+
+ ## Sorority and Fraternity Life
+ - [http://sfl.osu.edu](http://sfl.osu.edu)
+ - date_published: 2024-07-17T03:50:26.771872+00:00
+
+ ## Student Health Insurance
+ - [https://shi.osu.edu](https://shi.osu.edu)
+ - date_published: 2024-05-12T07:44:09.381312+00:00
+
+ ## Student Health Services
+ - [https://shs.osu.edu](https://shs.osu.edu)
+ - date_published: 2024-05-12T07:43:01.190266+00:00
+
+ ## Disability Services
+ - [https://slds.osu.edu](https://slds.osu.edu)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## Student Life Business and Financial Services
+ - [https://slfinance.osu.edu](https://slfinance.osu.edu)
+ - date_published: 2024-07-17T03:26:38.412708+00:00
+
+ ## Technology Services
+ - [https://slts.osu.edu](https://slts.osu.edu)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Home
+ - [http://soilhealth.osu.edu](http://soilhealth.osu.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Log in
+ - [https://staff.it.osu.edu](https://staff.it.osu.edu)
+ - date_published: 2024-07-01T16:46:06.295772+00:00
+
+ ## Strauss Investigation | Ohio State
+ - [https://straussinvestigation.osu.edu](https://straussinvestigation.osu.edu)
+ - date_published: 2024-07-17T03:51:08.675348+00:00
+
+ ## Office of Student Life
+ - [https://studentlife.osu.edu](https://studentlife.osu.edu)
+ - date_published: 2024-05-12T07:42:55.327892+00:00
+
+ ## Suicide Prevention
+ - [https://suicideprevention.osu.edu](https://suicideprevention.osu.edu)
+ - date_published: 2024-07-17T03:27:20.041682+00:00
+
+ ## Strauss Investigation | Ohio State
+ - [https://supremecourt.osu.edu](https://supremecourt.osu.edu)
+ - date_published: 2024-05-12T07:44:47.887891+00:00
+
+ ## Home | OSU Extension
+ - [http://sustainableag.osu.edu](http://sustainableag.osu.edu)
+ - date_published: 2024-06-16T22:01:55+00:00
+
+ ## Student Wellness Center
+ - [https://swc.osu.edu](https://swc.osu.edu)
+ - date_published: 2024-05-12T07:44:21.253111+00:00
+
+ ## Home | Translational Data Analytics Institute
+ - [https://tdai.osu.edu](https://tdai.osu.edu)
+ - date_published: 2024-07-17T03:37:54.866485+00:00
+
+ ## Home
+ - [https://teaching.resources.osu.edu](https://teaching.resources.osu.edu)
+ - date_published: 2024-06-16T21:55:18.029778+00:00
+
+ ## Pelotonia – Team Buckeye | OSUCCC – James
+ - [https://teambuckeye.osu.edu](https://teambuckeye.osu.edu)
+ - date_published: 2024-05-07T19:52:21.359255+00:00
+
+ ## Home |  Tech Hub
+ - [https://techhub.osu.edu](https://techhub.osu.edu)
+ - date_published: 2024-06-16T14:39:13+00:00
+
+ ## Board of Trustees | The Ohio State University
+ - [https://trustees.osu.edu](https://trustees.osu.edu)
+ - date_published: 2024-05-12T07:43:44.161686+00:00
+
+ ## Home | Transportation and Traffic Management
+ - [https://ttm.osu.edu](https://ttm.osu.edu)
+ - date_published: 2024-07-01T16:55:14.768367+00:00
+
+ ## Home | Urban Arts Space
+ - [https://uas.osu.edu](https://uas.osu.edu)
+ - date_published: 2024-07-01T16:55:12.287112+00:00
+
+ ## Undergraduate Education at The Ohio State University |
+ - [https://ugeducation.osu.edu](https://ugeducation.osu.edu)
+ - date_published: 2024-10-14T18:10:16+00:00
+
+ ## Home | Undergraduate Research & Creative Inquiry
+ - [https://ugresearch.osu.edu](https://ugresearch.osu.edu)
+ - date_published: 2024-05-12T07:43:40.790121+00:00
+
+ ## Your story begins here - The Ohio State University
+ - [https://undergrad.osu.edu](https://undergrad.osu.edu)
+ - date_published: 2024-05-12T07:43:37.681135+00:00
+
+ ## Office of Marketing and Communications | The Ohio State University
+ - [https://universitymarketing.osu.edu](https://universitymarketing.osu.edu)
+ - date_published: 2024-07-01T16:45:58.295253+00:00
+
+ ## U.OSU
+ - [https://u.osu.edu](https://u.osu.edu)
+ - date_published: 2024-05-01T08:01:21.985728+00:00
+
+ ## Home | College of Veterinary Medicine
+ - [https://vet.osu.edu](https://vet.osu.edu)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Home | Veterinary Medical Center
+ - [https://vmc.vet.osu.edu](https://vmc.vet.osu.edu)
+ - date_published: 2024-07-17T03:42:54.328836+00:00
+
+ ## PlantFacts
+ - [https://webgarden.osu.edu](https://webgarden.osu.edu)
+ - date_published: 2024-05-07T19:52:51.930970+00:00
+
+ ## Health and Wellness | The Ohio State University
+ - [https://wellness.osu.edu](https://wellness.osu.edu)
+ - date_published: 2024-05-12T07:43:22.301175+00:00
+
+ ## The Ohio State University Wexner Medical Center
+ - [https://wexnermedical.osu.edu](https://wexnermedical.osu.edu)
+ - date_published: 2024-05-12T07:44:35.236307+00:00
+
+ ## WHEEL Noble Gas Laboratory
+ - [https://wheel.osu.edu](https://wheel.osu.edu)
+ - date_published: 2024-07-02T14:42:59+00:00
+
+ ## Ohio State Wi-Fi | The Ohio State University
+ - [http://wireless.osu.edu](http://wireless.osu.edu)
+ - date_published: 2024-05-06T14:26:13+00:00
+
+ ## Home
+ - [https://womensplace.osu.edu](https://womensplace.osu.edu)
+ - date_published: 2024-07-01T16:55:09.850343+00:00
+
+ ## Home | CFAES Wooster
+ - [https://wooster.osu.edu](https://wooster.osu.edu)
+ - date_published: 2024-07-17T03:36:12.925954+00:00
+
+ ## Home | Wooster Venues
+ - [https://woostervenues.osu.edu](https://woostervenues.osu.edu)
+ - date_published: 2024-07-17T03:36:19.478440+00:00
+
+ ## Workday
+ - [https://workday.osu.edu](https://workday.osu.edu)
+ - date_published: 2023-04-05T19:41:23+00:00
+
+ ## Campus Chemical Instrument Center
+ - [https://www.ccic.osu.edu](https://www.ccic.osu.edu)
+ - date_published: 2024-07-15T15:23:20+00:00
+
+ ## Mathematics Research Institute | Department of Mathematics
+ - [http://www.mri.osu.edu](http://www.mri.osu.edu)
+ - date_published: 2024-06-29T23:03:38+00:00
+
+ ## Your Plan for Health
+ - [http://yp4h.osu.edu](http://yp4h.osu.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Oregon State University - Cascades
+ - [https://bendbeavscentral.osucascades.edu](https://bendbeavscentral.osucascades.edu)
+ - date_published: 2024-10-15T01:19:36.556974+00:00
+
+ ## OSU-Cascades
+ - [https://osucascades.edu](https://osucascades.edu)
+ - date_published: 2024-06-15T00:44:10+00:00
+
+ ## Be True to You | Be the One They Call
+ - [https://osuit.edu](https://osuit.edu)
+ - date_published: 2024-06-26T22:10:33.215876+00:00
+
+ ## NetScaler AAA
+ - [https://wwwow.osumc.edu](https://wwwow.osumc.edu)
+ - date_published: 2024-07-14T08:00:02+00:00
+
+ ## Oklahoma State University-Oklahoma City | Celebrating 60 Years 1961-2021
+ - [https://osuokc.edu](https://osuokc.edu)
+ - date_published: 2024-06-26T22:11:05.039114+00:00
+
+ ## SUNY Oswego | Home
+ - [http://oswego.edu](http://oswego.edu)
+ - date_published: 2024-08-28T14:29:25+00:00
+
+ ## Otis College of Art and Design
+ - [https://www.otis.edu](https://www.otis.edu)
+ - date_published: 2024-07-14T19:33:12.827453+00:00
+
+ ## AAARG - Arctic and Antarctic Atmospheric Science Research Group
+ - [https://arctic.som.ou.edu](https://arctic.som.ou.edu)
+ - date_published: 2022-08-15T14:25:37+00:00
+
+ ## Online Tech Bootcamps | University of Oklahoma Outreach
+ - [https://bootcamp.outreach.ou.edu](https://bootcamp.outreach.ou.edu)
+ - date_published: 2024-07-15T03:19:07.701768+00:00
+
+ ## CSRDE-The Consortium for Student Retention Data Exchange > Home
+ - [https://csrde.ou.edu](https://csrde.ou.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## ETEAM
+ - [https://eteam.ou.edu](https://eteam.ou.edu)
+ - date_published: 2021-10-04T23:47:31+00:00
+
+ ## This Site Is Scheduled To Be Removed
+ - [http://faculty-staff.ou.edu](http://faculty-staff.ou.edu)
+ - date_published: 2017-06-19T21:08:48+00:00
+
+ ## Home
+ - [https://halloffame.outreach.ou.edu](https://halloffame.outreach.ou.edu)
+ - date_published: 2024-07-15T03:19:03.076283+00:00
+
+ ## OU Human Resources
+ - [http://hr.ou.edu](http://hr.ou.edu)
+ - date_published: 2024-07-15T03:18:57.088630+00:00
+
+ ## NCORE > Home
+ - [http://ncore.ou.edu](http://ncore.ou.edu)
+ - date_published: 2024-07-15T03:18:37.221113+00:00
+
+ ## The University of Oklahoma Joins The SEC July 1 2024
+ - [https://ou.edu](https://ou.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## OU Outreach > Home
+ - [https://outreach.ou.edu](https://outreach.ou.edu)
+ - date_published: 2024-05-12T04:56:37.458514+00:00
+
+ ## University of Oklahoma School of Meteorology
+ - [http://weather.ou.edu](http://weather.ou.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Page Redirection
+ - [http://www.cs.ou.edu](http://www.cs.ou.edu)
+ - date_published: 2023-02-02T03:38:37+00:00
+
+ ## NRCYS :: Home
+ - [https://www.nrcys.ou.edu](https://www.nrcys.ou.edu)
+ - date_published: 2024-07-15T03:18:47.766048+00:00
+
+ ## University of Oklahoma Health Sciences Center
+ - [http://ouhsc.edu](http://ouhsc.edu)
+ - date_published: 2024-07-15T03:18:54.445029+00:00
+
+ ## Ohio Wesleyan University
+ - [http://www.owu.edu](http://www.owu.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Occidental College | The Liberal Arts College in Los Angeles
+ - [http://oxy.edu](http://oxy.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Admission and Aid
+ - [https://admission.pace.edu](https://admission.pace.edu)
+ - date_published: 2024-07-01T16:56:41+00:00
+
+ ## Pace University Blogs
+ - [https://blogs.pace.edu](https://blogs.pace.edu)
+ - date_published: 2024-05-07T19:52:53.234624+00:00
+
+ ## Seidenberg School of CSIS Homepage
+ - [http://csis.pace.edu](http://csis.pace.edu)
+ - date_published: 2024-06-15T18:11:28+00:00
+
+ ## Pace University, Graduate School CustomViewbook
+ - [https://customviewbook.grad.pace.edu](https://customviewbook.grad.pace.edu)
+ - date_published: 2024-07-01T16:56:45.467258+00:00
+
+ ## Pace University CustomViewbook
+ - [https://customviewbook.pace.edu](https://customviewbook.pace.edu)
+ - date_published: 2024-07-01T16:56:21.528787+00:00
+
+ ## DigitalCommons@Pace
+ - [https://digitalcommons.pace.edu](https://digitalcommons.pace.edu)
+ - date_published: 2025-02-02T23:52:01.904073+00:00
+
+ ## Pace University - Directory
+ - [https://directory.pace.edu](https://directory.pace.edu)
+ - date_published: 2024-07-01T16:56:39.860586+00:00
+
+ ## Admission and Aid | Graduate Admission
+ - [https://grad.pace.edu](https://grad.pace.edu)
+ - date_published: 2024-07-01T16:53:34+00:00
+
+ ## Home
+ - [http://help.pace.edu](http://help.pace.edu)
+ - date_published: 2024-07-01T16:55:59.324273+00:00
+
+ ## Homepage | Pace Law School
+ - [https://law.pace.edu](https://law.pace.edu)
+ - date_published: 2024-07-01T10:55:40+00:00
+
+ ## Library
+ - [https://libguides.pace.edu](https://libguides.pace.edu)
+ - date_published: 2024-07-01T16:56:22.927890+00:00
+
+ ## Online Graduate, Undergraduate & Certificate Programs | Pace
+ - [https://online.pace.edu](https://online.pace.edu)
+ - date_published: 2024-07-01T16:56:32.033565+00:00
+
+ ## Pace University
+ - [https://pace.edu](https://pace.edu)
+ - date_published: 2024-05-07T19:52:59.111381+00:00
+
+ ## Social Psychology Perspectives – Applying social psychology to the world around us
+ - [https://socialpsych.blogs.pace.edu](https://socialpsych.blogs.pace.edu)
+ - date_published: 2023-10-25T18:56:44.098429+00:00
+
+ ## Home Page
+ - [https://www.alumni.pace.edu](https://www.alumni.pace.edu)
+ - date_published: 2024-07-01T16:56:26.011421+00:00
+
+ ## Library Log in
+ - [http://0-www.rocksbackpages.com.pacificatclassic.pacific.edu](http://0-www.rocksbackpages.com.pacificatclassic.pacific.edu)
+ - date_published: 2024-06-30T01:30:24.928721+00:00
+
+ ## Scholarly Commons - University of the Pacific
+ - [https://scholarlycommons.pacific.edu](https://scholarlycommons.pacific.edu)
+ - date_published: 2025-02-02T23:51:42.825523+00:00
+
+ ## University of the Pacific - Experience-driven Education
+ - [https://www.pacific.edu](https://www.pacific.edu)
+ - date_published: 2024-10-18T22:25:55.027404+00:00
+
+ ## Pacific University | A Top Ranked Oregon University
+ - [https://www.pacificu.edu](https://www.pacificu.edu)
+ - date_published: 2025-01-01T01:45:23.644842+00:00
+
+ ## Universidad de Palermo, UP | Buenos Aires, Argentina
+ - [https://palermo.edu](https://palermo.edu)
+ - date_published: 2024-10-30T20:14:57.981404+00:00
+
+ ## MyUP | Login
+ - [https://wwws.palermo.edu](https://wwws.palermo.edu)
+ - date_published: 2024-12-15T12:19:17.625223+00:00
+
+ ## Pardee RAND Graduate School
+ - [https://www.pardeerand.edu](https://www.pardeerand.edu)
+ - date_published: 2024-08-11T15:21:34.497123+00:00
+
+ ## Good Health is Good Business
+ - [https://ghgb.pbrc.edu](https://ghgb.pbrc.edu)
+ - date_published: 2024-12-21T21:28:33.399071+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://alumni.pcom.edu](http://alumni.pcom.edu)
+ - date_published: 2024-10-14T20:48:31.294373+00:00
+
+ ## United & Ignited
+ - [https://campaign.pcom.edu](https://campaign.pcom.edu)
+ - date_published: 2024-06-16T21:56:21.771316+00:00
+
+ ## DigitalCommons@PCOM, an electronic archive of scholarly and creative works of the PCOM Community
+ - [https://digitalcommons.pcom.edu](https://digitalcommons.pcom.edu)
+ - date_published: 2024-07-02T10:47:52.860221+00:00
+
+ ## PCOM FAQs - LibAnswers
+ - [https://libanswers.pcom.edu](https://libanswers.pcom.edu)
+ - date_published: 2024-10-14T20:46:59.941880+00:00
+
+ ## LibCal -
+        Philadelphia College of Osteopathic Medicine
+ - [https://libcal.pcom.edu](https://libcal.pcom.edu)
+ - date_published: 2024-10-14T20:47:02.062004+00:00
+
+ ## LibGuides
+ - [http://libguides.pcom.edu](http://libguides.pcom.edu)
+ - date_published: 2024-10-14T20:46:45.842361+00:00
+
+ ## PCOM Library
+ - [https://library.pcom.edu](https://library.pcom.edu)
+ - date_published: 2024-06-16T03:25:53+00:00
+
+ ## Login with Ellucian Ethos Identity
+ - [https://my.pcom.edu](https://my.pcom.edu)
+ - date_published: 2024-06-16T21:56:12.407386+00:00
+
+ ## Philadelphia College of Osteopathic Medicine | PCOM
+ - [https://pcom.edu](https://pcom.edu)
+ - date_published: 2024-10-14T20:46:52.623229+00:00
+
+ ## REDCap
+ - [https://redcap.pcom.edu](https://redcap.pcom.edu)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Philadelphia College of Osteopathic Medicine | PCOM
+ - [https://staging.pcom.edu](https://staging.pcom.edu)
+ - date_published: 2024-10-14T20:48:12.542583+00:00
+
+ ## Portland State University Single Sign-On
+ - [https://banweb.banner.pdx.edu](https://banweb.banner.pdx.edu)
+ - date_published: 2024-07-09T17:36:15.321009+00:00
+
+ ## Portland State University Single Sign-On
+ - [https://canvas.pdx.edu](https://canvas.pdx.edu)
+ - date_published: 2024-07-09T17:35:49.801678+00:00
+
+ ## Homepage | Portland State University
+ - [https://drupal.web.wdt.pdx.edu](https://drupal.web.wdt.pdx.edu)
+ - date_published: 2024-07-09T17:36:16+00:00
+
+ ## Homepage | Portland State University
+ - [https://go.pdx.edu](https://go.pdx.edu)
+ - date_published: 2024-07-09T16:56:46+00:00
+
+ ## LibGuides: Guides & Tutorials: Subject Guides
+ - [https://guides.library.pdx.edu](https://guides.library.pdx.edu)
+ - date_published: 2024-12-05T07:20:59.502316+00:00
+
+ ## INSIDE PORTLAND STATE
+ - [https://insideportlandstate.pdx.edu](https://insideportlandstate.pdx.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Portland State University Library
+ - [https://library.pdx.edu](https://library.pdx.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Portland State University Single Sign-On
+ - [http://mail.pdx.edu](http://mail.pdx.edu)
+ - date_published: 2024-07-09T17:36:34.279400+00:00
+
+ ## myNextSteps at PSU
+ - [https://mynextsteps.pdx.edu](https://mynextsteps.pdx.edu)
+ - date_published: 2022-11-18T22:15:11+00:00
+
+ ## myPSU
+ - [https://my.pdx.edu](https://my.pdx.edu)
+ - date_published: 2024-06-11T19:19:32+00:00
+
+ ## PSU - OAM Login
+ - [https://oam.pdx.edu](https://oam.pdx.edu)
+ - date_published: 2024-07-09T17:36:31.454806+00:00
+
+ ## Homepage | Portland State University
+ - [https://pdx.edu](https://pdx.edu)
+ - date_published: 2024-05-09T05:54:09.254628+00:00
+
+ ## PDXScholar: The Institutional Repository of Portland State University
+ - [https://pdxscholar.library.pdx.edu](https://pdxscholar.library.pdx.edu)
+ - date_published: 2024-07-09T17:36:12.265532+00:00
+
+ ## Creating Web Pages in your Account
+ - [http://web.cecs.pdx.edu](http://web.cecs.pdx.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Peninsula College Official Blog
+ - [http://blog.pencol.edu](http://blog.pencol.edu)
+ - date_published: 2015-03-18T18:04:56+00:00
+
+ ## Peninsula College | Peninsula College
+ - [https://catalog.pencol.edu](https://catalog.pencol.edu)
+ - date_published: 2024-06-24T17:30:21+00:00
+
+ ## Peninsula College
+ - [https://pencol.edu](https://pencol.edu)
+ - date_published: 2024-05-07T19:53:06.917007+00:00
+
+ ## Peninsula College presents a podcast honoring the work of the influential American poet and short story writer, Raymond Carver from the last town he called home: Port Angeles, Washington. You can listen here on our Episode page. You can also find us on Stitcher, Google Podcasts, Apple Podcasts, Spotify, and more. In each regular episode, | Raymond Carver Podcast
+ - [https://raymondcarverpodcast.pencol.edu](https://raymondcarverpodcast.pencol.edu)
+ - date_published: 2023-10-31T19:57:35.429326+00:00
+
+ ## CAS - Central Authentication Service Login
+ - [https://internalreq.pepperdine.edu](https://internalreq.pepperdine.edu)
+ - date_published: 2024-07-13T19:01:05.261959+00:00
+
+ ## Pepperdine School of Public Policy | Attain Your MPP Degree
+ - [https://publicpolicy.pepperdine.edu](https://publicpolicy.pepperdine.edu)
+ - date_published: 2025-02-03T04:29:19.332078+00:00
+
+ ## Undergraduate Admissions | Purdue University Fort Wayne
+ - [https://apply.pfw.edu](https://apply.pfw.edu)
+ - date_published: 2024-07-01T16:48:33+00:00
+
+ ## Purdue University Fort Wayne - Acalog ACMS™
+ - [https://catalog.pfw.edu](https://catalog.pfw.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Sign-in - Purdue University Fort Wayne
+ - [https://go.pfw.edu](https://go.pfw.edu)
+ - date_published: 2024-07-01T17:45:32.341450+00:00
+
+ ## Purdue University Fort Wayne
+ - [https://pfw.edu](https://pfw.edu)
+ - date_published: 2024-05-07T20:03:57.306082+00:00
+
+ ## Online College for Working Adults - University of Phoenix
+ - [http://phoenix.edu](http://phoenix.edu)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Home
+ - [https://admissions.pitt.edu](https://admissions.pitt.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Names
+ - [https://ans-names.pitt.edu](https://ans-names.pitt.edu)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Kenneth P. Dietrich School of Arts & Sciences | University of Pittsburgh | University of Pittsburgh
+ - [https://as.pitt.edu](https://as.pitt.edu)
+ - date_published: 2024-09-14T21:47:12+00:00
+
+ ## Home | Dietrich Arts & Sciences Undergraduate Studies
+ - [https://asundergrad.pitt.edu](https://asundergrad.pitt.edu)
+ - date_published: 2024-06-14T15:04:09.425314+00:00
+
+ ## Events Calendar - University of Pittsburgh
+ - [http://calendar.pitt.edu](http://calendar.pitt.edu)
+ - date_published: 2024-07-01T16:59:14.281224+00:00
+
+ ## University of Pittsburgh - Acalog ACMS™
+ - [https://catalog.upp.pitt.edu](https://catalog.upp.pitt.edu)
+ - date_published: 2024-09-14T22:33:18.496244+00:00
+
+ ## Home | CONCEPT Research Lab
+ - [https://conceptlab.pitt.edu](https://conceptlab.pitt.edu)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Power of Pitt | University of Pittsburgh
+ - [http://coronavirus.pitt.edu](http://coronavirus.pitt.edu)
+ - date_published: 2024-07-01T16:41:11+00:00
+
+ ## Home | CTSI University of Pittsburgh
+ - [https://ctsi.pitt.edu](https://ctsi.pitt.edu)
+ - date_published: 2024-10-16T08:25:11.932550+00:00
+
+ ## ULS Digital Collections  | Digital Pitt
+ - [https://digital.library.pitt.edu](https://digital.library.pitt.edu)
+ - date_published: 2024-06-20T15:40:42+00:00
+
+ ## Financial Aid-Home
+ - [https://financialaid.pitt.edu](https://financialaid.pitt.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Find People at the University of Pittsburgh
+ - [https://find.pitt.edu](https://find.pitt.edu)
+ - date_published: 2024-05-07T19:53:08.948896+00:00
+
+ ## Forbes and Fifth | University of Pittsburgh | University of Pittsburgh
+ - [http://forbes5.pitt.edu](http://forbes5.pitt.edu)
+ - date_published: 2024-09-14T22:33:32.843864+00:00
+
+ ## Home | Intelligent Systems Program
+ - [http://isp.pitt.edu](http://isp.pitt.edu)
+ - date_published: 2024-08-07T15:51:47.182009+00:00
+
+ ## Home | School of Law
+ - [http://jurist.law.pitt.edu](http://jurist.law.pitt.edu)
+ - date_published: 2024-06-20T03:13:09.945094+00:00
+
+ ## Latin American Studies Association (LASA)
+ - [https://lasa.international.pitt.edu](https://lasa.international.pitt.edu)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## myPitt | All Campuses
+ - [https://my.pitt.edu](https://my.pitt.edu)
+ - date_published: 2024-05-07T19:53:15.799910+00:00
+
+ ## Getting Started with Single Sign-On and Pitt Passport
+ - [https://passport.pitt.edu](https://passport.pitt.edu)
+ - date_published: 2023-09-06T18:32:00+00:00
+
+ ## Home
+ - [http://pitt.edu](http://pitt.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Pitt Magazine
+ - [https://pittmag.pitt.edu](https://pittmag.pitt.edu)
+ - date_published: 2024-07-01T13:31:26+00:00
+
+ ## Robert Henderson Language Media Center | University of Pittsburgh
+ - [https://polyglot.pitt.edu](https://polyglot.pitt.edu)
+ - date_published: 2024-06-14T15:04:23.050357+00:00
+
+ ## Home | School of Public Health
+ - [https://publichealth.pitt.edu](https://publichealth.pitt.edu)
+ - date_published: 2024-07-01T16:58:07.109232+00:00
+
+ ## Scholarship@PITT LAW
+ - [https://scholarship.law.pitt.edu](https://scholarship.law.pitt.edu)
+ - date_published: 2024-07-02T10:48:13.424947+00:00
+
+ ## Homepage | University of Pittsburgh at Bradford
+ - [https://upb.pitt.edu](https://upb.pitt.edu)
+ - date_published: 2024-07-01T16:59:24.069682+00:00
+
+ ## Home | Academics
+ - [https://www.academics.pitt.edu](https://www.academics.pitt.edu)
+ - date_published: 2024-07-01T16:58:33.495202+00:00
+
+ ## Pittsburgh Center for Artificial Intelligence Innovation in Medical Imaging | University of Pittsburgh
+ - [https://www.aimi.pitt.edu](https://www.aimi.pitt.edu)
+ - date_published: 2024-07-12T04:22:33+00:00
+
+ ## The Dietrich School of Arts & Sciences Graduate Studies | University of Pittsburgh
+ - [https://www.asgraduate.pitt.edu](https://www.asgraduate.pitt.edu)
+ - date_published: 2024-09-14T18:44:39+00:00
+
+ ## Joseph M. Katz Graduate School of Business at the University of Pittsburgh
+ - [https://www.business.pitt.edu](https://www.business.pitt.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## The Center for Philosophy of Science - Home
+ - [https://www.centerphilsci.pitt.edu](https://www.centerphilsci.pitt.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Home | Center for Governance and Markets | University of Pittsburgh
+ - [https://www.cgm.pitt.edu](https://www.cgm.pitt.edu)
+ - date_published: 2024-07-22T03:29:36+00:00
+
+ ## Home | College of General Studies | University of Pittsburgh
+ - [https://www.cgs.pitt.edu](https://www.cgs.pitt.edu)
+ - date_published: 2024-07-01T16:38:17+00:00
+
+ ##  University of Pittsburgh: Center for National Preparedness 
+ - [http://www.cnp.pitt.edu](http://www.cnp.pitt.edu)
+ - date_published: 2024-09-14T22:29:31.400730+00:00
+
+ ## Office of | University of Pittsburgh
+ - [https://www.community.pitt.edu](https://www.community.pitt.edu)
+ - date_published: 2024-07-01T16:43:11+00:00
+
+ ## Department of Computer Science | University of Pittsburgh
+ - [https://www.cs.pitt.edu](https://www.cs.pitt.edu)
+ - date_published: 2024-08-07T15:51:40.136831+00:00
+
+ ## Pitt Cyber | University of Pittsburgh
+ - [https://www.cyber.pitt.edu](https://www.cyber.pitt.edu)
+ - date_published: 2024-08-07T15:51:53.514657+00:00
+
+ ## Home | School of Dental Medicine
+ - [https://www.dental.pitt.edu](https://www.dental.pitt.edu)
+ - date_published: 2024-07-01T12:45:31+00:00
+
+ ## Department of Informatics and Networked Systems | University of Pittsburgh
+ - [https://www.dins.pitt.edu](https://www.dins.pitt.edu)
+ - date_published: 2024-08-07T06:29:30+00:00
+
+ ## Home | Office for Equity, Diversity, and Inclusion  | University of Pittsburgh
+ - [https://www.diversity.pitt.edu](https://www.diversity.pitt.edu)
+ - date_published: 2024-07-01T16:59:06+00:00
+
+ ## Homepage - University of Pittsburgh School of Education
+ - [https://www.education.pitt.edu](https://www.education.pitt.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## University of Pittsburgh Swanson School of Engineering SSoE Home
+ - [https://www.engineering.pitt.edu](https://www.engineering.pitt.edu)
+ - date_published: 2024-07-01T16:58:29.630714+00:00
+
+ ## Home | Greensburg
+ - [http://www.greensburg.pitt.edu](http://www.greensburg.pitt.edu)
+ - date_published: 2024-07-01T16:59:20.439390+00:00
+
+ ## Home | Graduate School of Public and International Affairs
+ - [https://www.gspia.pitt.edu](https://www.gspia.pitt.edu)
+ - date_published: 2024-07-01T16:58:11.560495+00:00
+
+ ## Home | Health Sciences | University of Pittsburgh
+ - [http://www.health.pitt.edu](http://www.health.pitt.edu)
+ - date_published: 2024-06-27T11:33:13+00:00
+
+ ## Home | Honors College
+ - [https://www.honors.pitt.edu](https://www.honors.pitt.edu)
+ - date_published: 2024-07-01T16:57:59.923564+00:00
+
+ ## History and Philosophy of Science | University of Pittsburgh
+ - [http://www.hps.pitt.edu](http://www.hps.pitt.edu)
+ - date_published: 2024-07-01T09:04:00+00:00
+
+ ## OIE - Office of Innovation and Entrepreneurship
+ - [https://www.innovation.pitt.edu](https://www.innovation.pitt.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Site redirect
+ - [http://www.ischool.pitt.edu](http://www.ischool.pitt.edu)
+ - date_published: 2024-08-07T15:51:43.005059+00:00
+
+ ## University of Pittsburgh Johnstown | University of Pittsburgh
+ - [https://www.johnstown.pitt.edu](https://www.johnstown.pitt.edu)
+ - date_published: 2024-07-01T16:58:44+00:00
+
+ ## Home | Talent Center: Careers at Pitt | University of Pittsburgh
+ - [https://www.join.pitt.edu](https://www.join.pitt.edu)
+ - date_published: 2024-07-01T16:58:17+00:00
+
+ ## Home | School of Law
+ - [https://www.law.pitt.edu](https://www.law.pitt.edu)
+ - date_published: 2024-07-01T16:58:51.243785+00:00
+
+ ## Home |  LGBTQIA+
+ - [https://www.lgbtq.pitt.edu](https://www.lgbtq.pitt.edu)
+ - date_published: 2024-07-01T16:59:17.353223+00:00
+
+ ## Linguistics | University of Pittsburgh | University of Pittsburgh
+ - [https://www.linguistics.pitt.edu](https://www.linguistics.pitt.edu)
+ - date_published: 2024-09-14T13:00:35+00:00
+
+ ## Department of Mathematics | University of Pittsburgh
+ - [https://www.mathematics.pitt.edu](https://www.mathematics.pitt.edu)
+ - date_published: 2025-01-20T10:19:05.334322+00:00
+
+ ## School of Medicine | University of Pittsburgh
+ - [https://www.medschool.pitt.edu](https://www.medschool.pitt.edu)
+ - date_published: 2024-07-01T16:58:03+00:00
+
+ ## School of Nursing | University of Pittsburgh
+ - [https://www.nursing.pitt.edu](https://www.nursing.pitt.edu)
+ - date_published: 2024-07-01T16:37:08+00:00
+
+ ## Office of the Provost | University of Pittsburgh
+ - [https://www.personaled.pitt.edu](https://www.personaled.pitt.edu)
+ - date_published: 2024-07-01T14:21:45+00:00
+
+ ## Home | School of Pharmacy
+ - [https://www.pharmacy.pitt.edu](https://www.pharmacy.pitt.edu)
+ - date_published: 2024-07-01T16:59:18.815395+00:00
+
+ ## Department of Political Science | University of Pittsburgh
+ - [https://www.polisci.pitt.edu](https://www.polisci.pitt.edu)
+ - date_published: 2024-08-07T15:51:49+00:00
+
+ ## Office of the University Registrar | University of Pittsburgh
+ - [https://www.registrar.pitt.edu](https://www.registrar.pitt.edu)
+ - date_published: 2024-09-14T22:33:34+00:00
+
+ ## School of Computing and Information | University of Pittsburgh
+ - [https://www.sci.pitt.edu](https://www.sci.pitt.edu)
+ - date_published: 2024-07-01T16:58:19+00:00
+
+ ## School of Health and Rehabilitation Sciences | University of Pittsburgh | University of Pittsburgh School of Health and Rehabilitation Sciences
+ - [https://www.shrs.pitt.edu](https://www.shrs.pitt.edu)
+ - date_published: 2024-07-01T16:56:52+00:00
+
+ ## School of Social Work | University of Pittsburgh
+ - [https://www.socialwork.pitt.edu](https://www.socialwork.pitt.edu)
+ - date_published: 2024-07-01T16:41:47+00:00
+
+ ## Home | Division of Student Affairs
+ - [https://www.studentaffairs.pitt.edu](https://www.studentaffairs.pitt.edu)
+ - date_published: 2024-09-14T22:33:29.963757+00:00
+
+ ## Home - Pitt Sustainability
+ - [https://www.sustainable.pitt.edu](https://www.sustainable.pitt.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Information Technology | University of Pittsburgh
+ - [https://www.technology.pitt.edu](https://www.technology.pitt.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Titusville | University of Pittsburgh
+ - [https://www.titusville.pitt.edu](https://www.titusville.pitt.edu)
+ - date_published: 2024-07-01T13:15:43+00:00
+
+ ## Home | Campus Tour
+ - [https://www.tour.pitt.edu](https://www.tour.pitt.edu)
+ - date_published: 2024-07-01T16:51:50+00:00
+
+ ## Home | Tuition Rates and Fees
+ - [https://www.tuition.pitt.edu](https://www.tuition.pitt.edu)
+ - date_published: 2024-09-14T22:32:44.920047+00:00
+
+ ## CloudFlare Error | SUNY Plattsburgh
+ - [http://www.plattsburgh.edu](http://www.plattsburgh.edu)
+ - date_published: 2024-07-11T15:11:15.276312+00:00
+
+ ## Practising Law Institute Continuing Legal Education Programs, Webcasts and Publications
+ - [http://www.pli.edu](http://www.pli.edu)
+ - date_published: 2024-07-14T11:56:34.333333+00:00
+
+ ## PLU | Pacific Lutheran University
+ - [http://www.plu.edu](http://www.plu.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Plymouth State University
+ - [https://www.plymouth.edu](https://www.plymouth.edu)
+ - date_published: 2024-12-27T23:42:15.246012+00:00
+
+ ## Admissions - Purdue University Northwest
+ - [https://discover.pnw.edu](https://discover.pnw.edu)
+ - date_published: 2024-07-01T17:46:09.049801+00:00
+
+ ## Purdue University Northwest
+ - [https://mypnw.pnw.edu](https://mypnw.pnw.edu)
+ - date_published: 2024-07-01T17:46:21.707987+00:00
+
+ ## Homepage - Purdue University Northwest
+ - [https://pnw.edu](https://pnw.edu)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Point Park University
+ - [http://www.pointpark.edu](http://www.pointpark.edu)
+ - date_published: 2024-06-27T19:32:55+00:00
+
+ ## Home | NYU Tandon School of Engineering
+ - [http://poly.edu](http://poly.edu)
+ - date_published: 2024-06-11T12:36:42+00:00
+
+ ## École polytechnique, école d'ingénieur
+ - [https://portail.polytechnique.edu](https://portail.polytechnique.edu)
+ - date_published: 2024-06-30T09:24:18+00:00
+
+ ## École polytechnique, école d'ingénieur
+ - [https://www.polytechnique.edu](https://www.polytechnique.edu)
+ - date_published: 2024-06-22T09:46:14+00:00
+
+ ## Pomona College - Modern Campus Catalog™
+ - [https://catalog.pomona.edu](https://catalog.pomona.edu)
+ - date_published: 2024-07-04T12:56:56.305482+00:00
+
+ ## Page Redirection
+ - [https://cs.pomona.edu](https://cs.pomona.edu)
+ - date_published: 2014-05-29T23:19:28+00:00
+
+ ## The Doodle Lab | Pomona College
+ - [http://doodlelab.sites.pomona.edu](http://doodlelab.sites.pomona.edu)
+ - date_published: 2024-01-16T21:38:21+00:00
+
+ ## Home | Pomona College in Claremont, California - Pomona College
+ - [https://pomona.edu](https://pomona.edu)
+ - date_published: 2022-06-17T21:06:33+00:00
+
+ ## University of the Potomac | Accredited College in D.C., Virginia, and Online
+ - [https://cdn.potomac.edu](https://cdn.potomac.edu)
+ - date_published: 2025-01-21T19:19:51.781006+00:00
+
+ ## University of the Potomac | Off Campus Housing & Student Apartments Search
+
+      University of the Potomac | Off Campus Housing & Student Apartments Search | 4stay
+ - [https://housing.potomac.edu](https://housing.potomac.edu)
+ - date_published: 2025-01-21T19:19:53.866590+00:00
+
+ ## University of the Potomac | Accredited College in D.C., Virginia, and Online
+ - [https://potomac.edu](https://potomac.edu)
+ - date_published: 2025-01-08T11:43:01+00:00
+
+ ## WVU Potomac State College | Academics | West Virginia University's Potomac State College Academics
+ - [https://academics.potomacstatecollege.edu](https://academics.potomacstatecollege.edu)
+ - date_published: 2024-07-02T15:15:56.225771+00:00
+
+ ## WVU Potomac State College | Admissions | Admissions and Aid
+ - [https://admissions.potomacstatecollege.edu](https://admissions.potomacstatecollege.edu)
+ - date_published: 2024-07-02T15:15:35.671849+00:00
+
+ ## Home | Alert Potomac State | West Virginia University
+ - [https://alert.potomacstatecollege.edu](https://alert.potomacstatecollege.edu)
+ - date_published: 2024-07-02T15:15:53.812446+00:00
+
+ ## Emergency | Potomac State Emergency | WVU Potomace State
+ - [https://emergency.potomacstatecollege.edu](https://emergency.potomacstatecollege.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## WVU Potomac State College | Keyser Campus  | WVU Potomac State College located in Keyser, WV
+ - [https://potomacstatecollege.edu](https://potomacstatecollege.edu)
+ - date_published: 2024-05-07T22:39:39.983878+00:00
+
+ ## WVU Potomac State College | Student Experience | Student Experience
+ - [https://studentexperience.potomacstatecollege.edu](https://studentexperience.potomacstatecollege.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## SUNY Potsdam Employment Site | Home
+ - [https://employment.potsdam.edu](https://employment.potsdam.edu)
+ - date_published: 2024-05-09T06:39:54.286746+00:00
+
+ ## SUNY Potsdam | SUNY Potsdam
+ - [https://www.potsdam.edu](https://www.potsdam.edu)
+ - date_published: 2024-07-09T20:24:33+00:00
+
+ ## Sign In
+ - [https://canvas.pratt.edu](https://canvas.pratt.edu)
+ - date_published: 2024-07-08T15:07:03.053984+00:00
+
+ ## Home | Pratt Academic Catalog
+ - [https://catalog.pratt.edu](https://catalog.pratt.edu)
+ - date_published: 2024-03-20T15:46:25+00:00
+
+ ## Admissions
+ - [https://connect.pratt.edu](https://connect.pratt.edu)
+ - date_published: 2024-07-08T15:07:17.835014+00:00
+
+ ## Pratt Institute Libraries
+ - [https://library.pratt.edu](https://library.pratt.edu)
+ - date_published: 2024-07-08T15:07:08.293842+00:00
+
+ ## Homepage
+ - [https://pratt.edu](https://pratt.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## talks.pratt.edu
+ - [https://talks.pratt.edu](https://talks.pratt.edu)
+ - date_published: 2024-07-08T15:07:12+00:00
+
+ ## Presbyterian College | Go True Blue | South Carolina
+ - [https://presby.edu](https://presby.edu)
+ - date_published: 2024-12-15T21:35:21.881476+00:00
+
+ ## Pardee RAND Graduate School
+ - [https://www.prgs.edu](https://www.prgs.edu)
+ - date_published: 2024-07-20T12:32:22.127316+00:00
+
+ ## 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions
+ - [https://3dmatch.cs.princeton.edu](https://3dmatch.cs.princeton.edu)
+ - date_published: 2018-03-24T06:35:48+00:00
+
+ ## Department of African American Studies
+ - [https://aas.princeton.edu](https://aas.princeton.edu)
+ - date_published: 2024-05-07T20:00:41.715109+00:00
+
+ ## Accessibility at Princeton
+ - [https://accessibility.princeton.edu](https://accessibility.princeton.edu)
+ - date_published: 2024-05-07T19:53:18.697025+00:00
+
+ ## Home Page - Andlinger Center for Energy and the Environment
+ - [https://acee.princeton.edu](https://acee.princeton.edu)
+ - date_published: 2024-07-01T17:17:23.205746+00:00
+
+ ## Princeton University Admission
+ - [https://admission.princeton.edu](https://admission.princeton.edu)
+ - date_published: 2024-05-07T20:00:21.559566+00:00
+
+ ## Princeton University | Advancement Data Privacy Policy
+ - [https://advancementdataprivacy.princeton.edu](https://advancementdataprivacy.princeton.edu)
+ - date_published: 2024-04-17T16:28:14+00:00
+
+ ## Princeton AI4ALL
+ - [https://ai4all.princeton.edu](https://ai4all.princeton.edu)
+ - date_published: 2024-06-22T09:45:38+00:00
+
+ ## AI at Princeton
+ - [https://ai.princeton.edu](https://ai.princeton.edu)
+ - date_published: 2024-10-15T21:16:12+00:00
+
+ ## Home | Princeton Alumni
+ - [https://alumni.princeton.edu](https://alumni.princeton.edu)
+ - date_published: 2024-05-07T20:00:16.724721+00:00
+
+ ## Effron Center for the Study of America
+ - [https://ams.princeton.edu](https://ams.princeton.edu)
+ - date_published: 2024-07-01T04:06:30+00:00
+
+ ## Annals of Mathematics | Annals of Mathematics, Journal
+ - [https://annals.math.princeton.edu](https://annals.math.princeton.edu)
+ - date_published: 2024-06-30T08:08:25.380274+00:00
+
+ ## Anthropology@Princeton
+ - [https://anthropology.princeton.edu](https://anthropology.princeton.edu)
+ - date_published: 2024-05-07T19:53:26.029148+00:00
+
+ ## Princeton University Admission
+ - [https://apply.princeton.edu](https://apply.princeton.edu)
+ - date_published: 2024-07-01T16:20:41+00:00
+
+ ## Princeton Mellon Initiative in Architecture, Urbanism & the Humanities
+ - [https://arc-hum.princeton.edu](https://arc-hum.princeton.edu)
+ - date_published: 2024-07-08T04:15:34+00:00
+
+ ## Princeton University Art of Science Exhibition
+ - [http://artofsci.princeton.edu](http://artofsci.princeton.edu)
+ - date_published: 2025-01-02T17:59:46.348360+00:00
+
+ ## Home
+ - [https://arts.princeton.edu](https://arts.princeton.edu)
+ - date_published: 2024-07-01T17:24:49.828398+00:00
+
+ ## Anna Stilz
+ - [https://astilz.scholar.princeton.edu](https://astilz.scholar.princeton.edu)
+ - date_published: 2024-06-14T00:33:27+00:00
+
+ ## Kahneman-Treisman Center for Behavioral Science & Public Policy
+ - [https://behavioralpolicy.princeton.edu](https://behavioralpolicy.princeton.edu)
+ - date_published: 2024-04-29T03:20:00.721032+00:00
+
+ ## Blackboard Learn
+ - [http://blackboard.princeton.edu](http://blackboard.princeton.edu)
+ - date_published: 2004-08-10T22:33:00+00:00
+
+ ## Home - Princeton University WordPress Service
+ - [https://blogs.princeton.edu](https://blogs.princeton.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Princeton Blue Mountain collection
+ - [http://bluemountain.princeton.edu](http://bluemountain.princeton.edu)
+ - date_published: 2024-12-24T10:30:40+00:00
+
+ ## Brazil LAB
+ - [https://brazillab.princeton.edu](https://brazillab.princeton.edu)
+ - date_published: 2024-07-01T04:52:01+00:00
+
+ ## Bridging Divides Initiative
+ - [https://bridgingdivides.princeton.edu](https://bridgingdivides.princeton.edu)
+ - date_published: 2024-06-16T05:06:30+00:00
+
+ ## Search Opportunities
+ - [https://careers.princeton.edu](https://careers.princeton.edu)
+ - date_published: 2024-05-07T20:00:19.564402+00:00
+
+ ## Your Cart
+ - [https://cart.press.princeton.edu](https://cart.press.princeton.edu)
+ - date_published: 2024-05-07T19:54:37.253591+00:00
+
+ ## Princeton University Library Catalog
+ - [https://catalog.princeton.edu](https://catalog.princeton.edu)
+ - date_published: 2024-07-01T17:24:20.329285+00:00
+
+ ## The Center for Digital Humanities at Princeton
+ - [https://cdh.princeton.edu](https://cdh.princeton.edu)
+ - date_published: 2024-05-04T15:58:48.185465+00:00
+
+ ## Civil and Environmental Engineering
+ - [https://cee.princeton.edu](https://cee.princeton.edu)
+ - date_published: 2024-05-07T20:00:37.643279+00:00
+
+ ## Strategic Partnerships & Engagement
+ - [https://cefr.princeton.edu](https://cefr.princeton.edu)
+ - date_published: 2024-07-21T14:18:27+00:00
+
+ ## Home | Math
+ - [https://cgi.math.princeton.edu](https://cgi.math.princeton.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## ChucK: A Strongly-Timed Music Programming Language
+ - [https://chuck.cs.princeton.edu](https://chuck.cs.princeton.edu)
+ - date_published: 2024-10-20T09:06:51.970149+00:00
+
+ ## Home - Center for Information Technology Policy
+ - [https://citp.princeton.edu](https://citp.princeton.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Climate Futures Initiative
+ - [https://climatefutures.princeton.edu](https://climatefutures.princeton.edu)
+ - date_published: 2024-07-01T17:00:18.751368+00:00
+
+ ## Carbon Mitigation Initiative
+ - [http://cmi.princeton.edu](http://cmi.princeton.edu)
+ - date_published: 2024-07-01T17:00:13.778452+00:00
+
+ ## Computational Cognitive Science Lab - Home
+ - [https://cocosci.princeton.edu](https://cocosci.princeton.edu)
+ - date_published: 2020-07-21T18:22:32+00:00
+
+ ## Office of Communications
+ - [https://communications.princeton.edu](https://communications.princeton.edu)
+ - date_published: 2024-07-01T12:10:06+00:00
+
+ ## Office of Community and Regional Affairs
+ - [https://community.princeton.edu](https://community.princeton.edu)
+ - date_published: 2024-07-01T04:31:00+00:00
+
+ ## Comparative Literature
+ - [https://complit.princeton.edu](https://complit.princeton.edu)
+ - date_published: 2024-06-21T08:03:24+00:00
+
+ ## CompudocWiki
+ - [https://compudoc.princeton.edu](https://compudoc.princeton.edu)
+ - date_published: 2023-09-30T03:51:58+00:00
+
+ ## Plasma Control Group
+ - [https://control.princeton.edu](https://control.princeton.edu)
+ - date_published: 2024-11-08T11:29:56.584955+00:00
+
+ ## Princeton COVID Resources
+ - [https://covid.princeton.edu](https://covid.princeton.edu)
+ - date_published: 2024-07-08T08:30:53+00:00
+
+ ## Center for Policy Research on Energy and the Environment (C-PREE)
+ - [https://cpree.princeton.edu](https://cpree.princeton.edu)
+ - date_published: 2024-05-07T20:00:35.800226+00:00
+
+ ## CS Guide Table of Contents | Department of Computer Science Computing Guide
+ - [https://csguide.cs.princeton.edu](https://csguide.cs.princeton.edu)
+ - date_published: 2024-05-07T20:00:13.785533+00:00
+
+ ## Computer Science Department at Princeton University
+ - [https://cs.princeton.edu](https://cs.princeton.edu)
+ - date_published: 2023-10-25T18:56:59.790460+00:00
+
+ ## Council on Science and Technology
+ - [https://cst.princeton.edu](https://cst.princeton.edu)
+ - date_published: 2024-05-07T19:53:20.457899+00:00
+
+ ## The CYCLAB
+ - [https://cyclab.princeton.edu](https://cyclab.princeton.edu)
+ - date_published: 2024-05-08T00:41:50.550597+00:00
+
+ ## Princeton Site Builder
+ - [https://demo.princeton.edu](https://demo.princeton.edu)
+ - date_published: 2024-06-30T19:41:53+00:00
+
+ ## Digital Accessibility at Princeton
+ - [https://digital.accessibility.princeton.edu](https://digital.accessibility.princeton.edu)
+ - date_published: 2024-07-01T06:27:48+00:00
+
+ ## Discovery: Research at Princeton
+ - [https://discovery.princeton.edu](https://discovery.princeton.edu)
+ - date_published: 2024-06-18T16:11:33.349197+00:00
+
+ ## Office of the Dean of the Faculty
+ - [https://dof.princeton.edu](https://dof.princeton.edu)
+ - date_published: 2024-05-07T20:00:23.825598+00:00
+
+ ## Princeton Site Builder
+ - [https://drupal.princeton.edu](https://drupal.princeton.edu)
+ - date_published: 2024-07-01T14:00:14+00:00
+
+ ## Electrical and Computer Engineering
+ - [https://ece.princeton.edu](https://ece.princeton.edu)
+ - date_published: 2024-06-22T04:15:44+00:00
+
+ ## Electrical and Computer Engineering
+ - [http://ee.princeton.edu](http://ee.princeton.edu)
+ - date_published: 2024-06-22T04:15:44+00:00
+
+ ## Digital Einstein Papers Home
+ - [https://einsteinpapers.press.princeton.edu](https://einsteinpapers.press.princeton.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Princeton Engineering - School of Engineering and Applied Science
+ - [https://engineering.princeton.edu](https://engineering.princeton.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## School of Engineering and Applied Science Tours at Princeton University
+ - [https://engineering-tours.princeton.edu](https://engineering-tours.princeton.edu)
+ - date_published: 2024-07-01T17:23:52.674718+00:00
+
+ ## Princeton Entrepreneurship Council
+ - [https://entrepreneurs.princeton.edu](https://entrepreneurs.princeton.edu)
+ - date_published: 2024-06-16T04:17:49+00:00
+
+ ## High Meadows Environmental Institute
+ - [https://environment.princeton.edu](https://environment.princeton.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Empirical Studies of Conflict
+ - [https://esoc.princeton.edu](https://esoc.princeton.edu)
+ - date_published: 2024-10-16T04:06:03+00:00
 
