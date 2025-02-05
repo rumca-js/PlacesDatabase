@@ -1,3 +1,55 @@
+ ## AI Presentation Maker - Presentation from Topic, YouTube, PDF, URL with AI
+ - [https://magicslides.app](https://magicslides.app)
+ - date_published: 2024-10-30T16:18:51.974505+00:00
+
+ ## Magma matching
+ - [https://candidate.magma.app](https://candidate.magma.app)
+ - date_published: 2024-07-03T05:40:25.991979+00:00
+
+ ## Email Messenger
+ - [http://mail.app](http://mail.app)
+ - date_published: 2024-06-28T08:58:55+00:00
+
+ ## Mailcoach
+ - [https://beyondtellerrand.mailcoach.app](https://beyondtellerrand.mailcoach.app)
+ - date_published: 2024-07-20T11:37:44.871524+00:00
+
+ ## Mailcoach
+ - [https://dashboard.mailcoach.app](https://dashboard.mailcoach.app)
+ - date_published: 2024-08-19T11:48:41.101872+00:00
+
+ ## Mailcoach
+ - [https://lunar.mailcoach.app](https://lunar.mailcoach.app)
+ - date_published: 2024-06-21T09:27:06.589960+00:00
+
+ ## Mailcoach, the affordable, privacy-first email marketing service
+ - [https://mailcoach.app](https://mailcoach.app)
+ - date_published: 2023-10-25T11:47:12.630480+00:00
+
+ ## Mailcoach
+ - [https://simonhamp.mailcoach.app](https://simonhamp.mailcoach.app)
+ - date_published: 2024-06-19T09:30:22.354867+00:00
+
+ ## Mailcoach
+ - [https://spatie.mailcoach.app](https://spatie.mailcoach.app)
+ - date_published: 2024-08-19T11:48:36.993403+00:00
+
+ ## No problems detected. | Mailcoach
+ - [https://status.mailcoach.app](https://status.mailcoach.app)
+ - date_published: 2024-08-19T11:48:39.952797+00:00
+
+ ## The Calm Inbox: Introducing the new Mail Pilot
+ - [https://mailpilot.app](https://mailpilot.app)
+ - date_published: 2023-09-30T00:00:00+00:00
+
+ ## MajorM - MongoDB GUI
+ - [https://majorm.app](https://majorm.app)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Stop making Linux distributions, make applications instead
+ - [https://makealinux.app](https://makealinux.app)
+ - date_published: 2023-11-30T13:49:51+00:00
+
  ## Restaking on Solana & IBC Everywhere | Picasso Network
  - [https://games.mantis.app](https://games.mantis.app)
  - date_published: 2025-01-23T04:08:36.720334+00:00
@@ -830,6 +882,10 @@
  - [https://devicons.netlify.app](https://devicons.netlify.app)
  - date_published: 2024-07-02T18:28:21.019644+00:00
 
+ ## Security for DevOps, Containers, and Cloud Environments
+ - [https://dev-lacework-builder.netlify.app](https://dev-lacework-builder.netlify.app)
+ - date_published: 2025-02-04T01:23:16.479847+00:00
+
  ## Devon Persing
  - [https://devonpersing.netlify.app](https://devonpersing.netlify.app)
  - date_published: 2024-08-06T23:38:58.095583+00:00
@@ -1167,6 +1223,10 @@
  ## Matter
  - [https://main--matter-website-e45df7.netlify.app](https://main--matter-website-e45df7.netlify.app)
  - date_published: 2024-06-27T13:24:03.938752+00:00
+
+ ## Show HN: Mandarin Word Segmenter with Translation
+ - [https://mandobot.netlify.app](https://mandobot.netlify.app)
+ - date_published: 2025-02-04T17:56:33+00:00
 
  ## Marine Serre Core
  - [http://marineserrecore.netlify.app](http://marineserrecore.netlify.app)
@@ -3981,64 +4041,4 @@ The Album
  ## IT Team
  - [https://itteam.statusgator.app](https://itteam.statusgator.app)
  - date_published: 2025-01-30T22:09:02.320077+00:00
-
- ## Your company
- - [https://mycompany1.statusgator.app](https://mycompany1.statusgator.app)
- - date_published: 2025-01-30T22:08:52.386554+00:00
-
- ## SaaS
- - [https://saas-demo1.statusgator.app](https://saas-demo1.statusgator.app)
- - date_published: 2025-01-30T22:08:59.286447+00:00
-
- ## StayAlive | Essential suicide prevention for every day life
- - [http://stayalive.app](http://stayalive.app)
- - date_published: 2024-10-20T09:06:30.965437+00:00
-
- ## Stemstr
- - [https://stemstr.app](https://stemstr.app)
- - date_published: 2024-06-15T22:34:21.119193+00:00
-
- ## Step App | Move Earn Repeat | Move-to-Earn App
- - [https://step.app](https://step.app)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Show HN: I built a tool for repeatable checklists
- - [https://steplist.app](https://steplist.app)
- - date_published: 2024-05-02T14:21:59+00:00
-
- ## StepsApp
- - [https://steps.app](https://steps.app)
- - date_published: 2024-07-10T11:59:59+00:00
-
- ## Stitch
- - [https://stitchdesign.app](https://stitchdesign.app)
- - date_published: 2023-10-07T01:20:36+00:00
-
- ## Please don’t theme our apps
- - [https://stopthemingmy.app](https://stopthemingmy.app)
- - date_published: 2023-10-25T11:49:07.204497+00:00
-
- ## https://store.app
- - [https://store.app](https://store.app)
- - date_published: 2023-10-24T20:06:24.975812+00:00
-
- ## Laravel
- - [https://api.storeez.app](https://api.storeez.app)
- - date_published: 2024-10-15T14:14:05.442759+00:00
-
- ## Shopify App — Login
- - [https://cf.storeify.app](https://cf.storeify.app)
- - date_published: 2024-07-09T13:18:51.250144+00:00
-
- ## Shopify App — Login
- - [https://quote.storeify.app](https://quote.storeify.app)
- - date_published: 2024-09-18T17:01:42.693500+00:00
-
- ## Shopify App — Login
- - [https://sl.storeify.app](https://sl.storeify.app)
- - date_published: 2024-07-16T23:46:32.898528+00:00
-
- ## StoreLab - The Shopify Growth Service for SMEs
- - [https://www.storelab.app](https://www.storelab.app)
- - date_published: 2025-01-23T19:14:15.637582+00:00
 

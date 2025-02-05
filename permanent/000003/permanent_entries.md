@@ -1,3 +1,43 @@
+ ## Napkin AI - The visual AI for business storytelling
+ - [https://napkin.ai](https://napkin.ai)
+ - date_published: 2024-10-25T07:08:56+00:00
+
+ ## Overview | Naptha Docs
+ - [https://docs.naptha.ai](https://docs.naptha.ai)
+ - date_published: 2025-01-22T23:45:59.156368+00:00
+
+ ## AI Platform for Autonomous Agents, AI Applications and AI Research
+ - [https://naptha.ai](https://naptha.ai)
+ - date_published: 2025-01-22T23:46:07.069057+00:00
+
+ ## AI Platform for Autonomous Agents, AI Applications and AI Research
+ - [https://www.naptha.ai](https://www.naptha.ai)
+ - date_published: 2025-01-08T12:35:48+00:00
+
+ ## Homepage - Naratix
+ - [https://naratix.ai](https://naratix.ai)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Narrativ
+ - [https://narrativ.ai](https://narrativ.ai)
+ - date_published: 2024-09-21T23:06:54.911063+00:00
+
+ ## Narya AI - Building Mumble Note
+ - [https://narya.ai](https://narya.ai)
+ - date_published: 2025-01-15T03:30:57.929671+00:00
+
+ ## AI for Science Workshop
+ - [https://ai4science.nassma.ai](https://ai4science.nassma.ai)
+ - date_published: 2024-09-13T17:58:43.598950+00:00
+
+ ## Nastia | The Uncensored AI Companion
+ - [https://nastia.ai](https://nastia.ai)
+ - date_published: 2024-06-12T14:20:42+00:00
+
+ ## Natasha Jaques
+ - [https://natashajaques.ai](https://natashajaques.ai)
+ - date_published: 2022-11-18T22:12:11+00:00
+
  ## Guide to AI | Nathan Benaich | Substack
  - [http://www.nathan.ai](http://www.nathan.ai)
  - date_published: 2025-01-16T22:36:06.553639+00:00
@@ -3998,44 +4038,4 @@
  ## Stenomatic: Live Translation Platform
  - [https://stenomatic.ai](https://stenomatic.ai)
  - date_published: 2024-04-14T00:00:00+00:00
-
- ## Steve.AI | AI Video Generator Tool to create videos using Text
- - [https://steve.ai](https://steve.ai)
- - date_published: 2024-06-11T12:49:18+00:00
-
- ## ✨ Introduction | xChat - Build and control your chatbot
- - [https://docs.xchat.stochastic.ai](https://docs.xchat.stochastic.ai)
- - date_published: 2024-10-30T13:55:30+00:00
-
- ## Stochastic - Agentic Automation for Regulated Industries
- - [https://www.stochastic.ai](https://www.stochastic.ai)
- - date_published: 2024-10-30T22:07:59+00:00
-
- ## Welcome to xChat: Empower Your Workflow with AI
- - [https://xchat.stochastic.ai](https://xchat.stochastic.ai)
- - date_published: 2024-10-30T13:55:04+00:00
-
- ## Stock Imagery AI
- - [https://stockimagery.ai](https://stockimagery.ai)
- - date_published: 2024-06-14T08:52:30.821296+00:00
-
- ## AI Photo Generator: Logo, Art, Stock Image, Illustration | Stockimg
- - [https://stockimg.ai](https://stockimg.ai)
- - date_published: 2024-06-19T19:53:22.668050+00:00
-
- ## StockNews.AI - AI Financial News and Alerts
- - [https://stocknews.ai](https://stocknews.ai)
- - date_published: 2024-12-18T11:31:22.586760+00:00
-
- ## Stoic - Best crypto bot trading app | Crypto Trading Bot and Bitcoin auto trading
- - [https://app.stoic.ai](https://app.stoic.ai)
- - date_published: 2024-10-30T09:58:55.681077+00:00
-
- ## Crypto Trading Bot by Stoic
- - [https://stoic.ai](https://stoic.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Storia AI
- - [https://storia.ai](https://storia.ai)
- - date_published: 2024-09-13T16:40:52.292214+00:00
 

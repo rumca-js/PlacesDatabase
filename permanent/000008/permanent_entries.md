@@ -1,3 +1,85 @@
+ ## Skaffold
+ - [https://skaffold-v2.web.app](https://skaffold-v2.web.app)
+ - date_published: 2024-05-14T14:45:35+00:00
+
+ ## Sniper Ducks
+ - [https://sniper-ducks.web.app](https://sniper-ducks.web.app)
+ - date_published: 2019-04-04T19:59:36+00:00
+
+ ## QueryGenie
+ - [https://sqlgenie-co.web.app](https://sqlgenie-co.web.app)
+ - date_published: 2023-06-05T19:25:00+00:00
+
+ ## That's Groce!
+ - [https://thatsgroce.web.app](https://thatsgroce.web.app)
+ - date_published: 2023-01-02T20:05:40+00:00
+
+ ## The project
+ - [https://the-project-e609e.web.app](https://the-project-e609e.web.app)
+ - date_published: 2024-08-19T20:32:08+00:00
+
+ ## Strona główna - tlumacz.migam.org
+ - [https://tlumacz-migam-org.web.app](https://tlumacz-migam-org.web.app)
+ - date_published: 2024-01-31T13:40:32+00:00
+
+ ## Total Formatter
+ - [https://totalformatter.web.app](https://totalformatter.web.app)
+ - date_published: 2020-05-01T14:16:38+00:00
+ - tags: ['formatter', 'pretty print', 'code']
+
+ ## Touco Lab
+ - [https://touco-website.web.app](https://touco-website.web.app)
+ - date_published: 2021-01-26T13:00:05+00:00
+
+ ## Upmind - Commerce and Billing Platform
+ - [https://upm-widgets.web.app](https://upm-widgets.web.app)
+ - date_published: 2024-09-20T06:56:25.930176+00:00
+
+ ## VisBug Sandbox
+ - [https://visbug.web.app](https://visbug.web.app)
+ - date_published: 2024-04-17T20:55:21+00:00
+
+ ## Webbu
+ - [https://webbu.app](https://webbu.app)
+ - date_published: 2023-10-25T11:51:31.950607+00:00
+
+ ## WebDB – App
+ - [https://demo.webdb.app](https://demo.webdb.app)
+ - date_published: 2024-06-09T16:43:54+00:00
+
+ ## WebDB – Open Source and Efficient Database IDE
+ - [https://webdb.app](https://webdb.app)
+ - date_published: 2024-06-08T08:47:27+00:00
+
+ ## Web Maker
+ - [https://webmaker.app](https://webmaker.app)
+ - date_published: 2024-09-04T06:45:49.353500+00:00
+
+ ## Automate your outgoing webmentions
+ - [https://webmention.app](https://webmention.app)
+ - date_published: 2024-07-02T20:20:14.010054+00:00
+
+ ## Weboostor
+ - [https://weboostor.app](https://weboostor.app)
+ - date_published: 2024-07-17T07:32:11.911764+00:00
+
+ ## Wegic Hub
+ - [https://wegichub.wegic.app](https://wegichub.wegic.app)
+ - date_published: 2024-09-13T20:38:28.637829+00:00
+
+ ## Weld Status
+ - [https://status.weld.app](https://status.weld.app)
+ - date_published: 2024-11-08T11:55:47.809612+00:00
+
+ ## Sync your data in minutes | WELD
+ - [https://weld.app](https://weld.app)
+ - date_published: 2024-11-06T11:51:13+00:00
+ - tags: ['data management']
+
+ ## WELD
+ - [https://workspace.weld.app](https://workspace.weld.app)
+ - date_published: 2024-11-08T10:41:02+00:00
+
  ## ..Loading..
  - [https://wemp.app](https://wemp.app)
  - date_published: 2024-07-10T03:11:26.379113+00:00
@@ -402,6 +484,10 @@
  - [https://riv.ar](https://riv.ar)
  - date_published: 2024-08-22T21:33:58.391773+00:00
  - tags: ['personal']
+
+ ## Skullcandy Argentina
+ - [https://skullcandy.ar](https://skullcandy.ar)
+ - date_published: 2025-02-04T20:48:30.546175+00:00
 
  ## Blog de Thalskarth
  - [https://blog.thalskarth.ar](https://blog.thalskarth.ar)
@@ -1277,6 +1363,10 @@
  - [https://sixt.com.ar](https://sixt.com.ar)
  - date_published: 2024-06-14T00:00:00+00:00
 
+ ## Tienda Oficial Sodastream Argentina | Hacé tu soda en casa
+ - [http://www.sodastream.com.ar](http://www.sodastream.com.ar)
+ - date_published: 2025-02-04T21:03:35.654234+00:00
+
  ## Sony Argentina | Últimas noticias sobre tecnología | Productos electrónicos | Entretenimiento
  - [http://www.sony.com.ar](http://www.sony.com.ar)
  - date_published: 2024-10-21T07:38:32.567500+00:00
@@ -1613,6 +1703,10 @@
  - [http://www.usuariosfinancieros.gob.ar](http://www.usuariosfinancieros.gob.ar)
  - date_published: 2024-06-16T12:57:00.335346+00:00
 
+ ## CAICYT-CONICET
+ - [http://www.caicyt-conicet.gov.ar](http://www.caicyt-conicet.gov.ar)
+ - date_published: 2025-02-04T18:03:22.913983+00:00
+
  ## INICIO
  - [https://www.conicet.gov.ar](https://www.conicet.gov.ar)
  - date_published: 2024-09-11T01:43:36.250996+00:00
@@ -1938,6 +2032,10 @@
  - [https://diosmaden.art](https://diosmaden.art)
  - date_published: 2024-06-23T18:38:15.195833+00:00
 
+ ## discotec_official
+ - [https://discotec.art](https://discotec.art)
+ - date_published: 2025-02-04T12:29:31.859979+00:00
+
  ## Free AI Art Generator, AI Art Maker | Stable Diffusion Online
  - [https://dreamlike.art](https://dreamlike.art)
  - date_published: 2023-04-05T04:34:02+00:00
@@ -2157,6 +2255,10 @@
  - date_published: 2024-05-12T05:43:12.180188+00:00
  - tags: ['personal']
 
+ ## Joy Machine
+ - [https://joymachine.art](https://joymachine.art)
+ - date_published: 2025-02-04T15:42:38.290732+00:00
+
  ## Julia Stoschek Foundation
  - [https://jsfoundation.art](https://jsfoundation.art)
  - date_published: 2024-07-04T01:57:01.705758+00:00
@@ -2375,6 +2477,10 @@
  ## Home
  - [https://opepen.art](https://opepen.art)
  - date_published: 2025-01-23T09:13:41.668737+00:00
+
+ ## Orange
+ - [https://orangem.art](https://orangem.art)
+ - date_published: 2025-02-04T14:52:00.675726+00:00
 
  ## Art, technology, and NFTs - Outland
  - [https://outland.art](https://outland.art)
@@ -3305,6 +3411,10 @@ October 2024 in Singapore
  - [http://nitsri.asia](http://nitsri.asia)
  - date_published: 2024-12-24T19:13:35.803314+00:00
 
+ ## KTVTOGEL | WEBSITE TOGEL MACAU TERBAIK DAN TERPERCAYA 2024
+ - [https://oneasia.asia](https://oneasia.asia)
+ - date_published: 2025-02-04T20:22:51.430876+00:00
+
  ## OpenTechSummit Thailand
  - [https://thai.opentechsummit.asia](https://thai.opentechsummit.asia)
  - date_published: 2020-01-15T17:28:18+00:00
@@ -3394,6 +3504,10 @@ October 2024 in Singapore
  ## SPAG FINN Partners: Integrated Marketing & Communications PR Agency
  - [https://spag.asia](https://spag.asia)
  - date_published: 2021-04-13T12:25:06+00:00
+
+ ## Home | Sportstats
+ - [https://www.sportstats.asia](https://www.sportstats.asia)
+ - date_published: 2025-02-04T21:10:29.781096+00:00
 
  ## sultan69.help
  - [http://sultan69.asia](http://sultan69.asia)
@@ -3558,6 +3672,10 @@ October 2024 in Singapore
  ## FH Campus Wien
  - [https://www.fh-campuswien.ac.at](https://www.fh-campuswien.ac.at)
  - date_published: 2025-01-16T14:10:19.137372+00:00
+
+ ## FH Salzburg
+ - [https://fh-salzburg.ac.at](https://fh-salzburg.ac.at)
+ - date_published: 2025-02-04T06:29:49.838303+00:00
 
  ## FH Salzburg
  - [https://www.fh-salzburg.ac.at](https://www.fh-salzburg.ac.at)
@@ -3915,120 +4033,4 @@ October 2024 in Singapore
  ## Home
  - [http://international.univie.ac.at](http://international.univie.ac.at)
  - date_published: 2024-10-14T23:58:58.453747+00:00
-
- ## Dashboard - Wiki der Universität Wien
- - [http://intra.univie.ac.at](http://intra.univie.ac.at)
- - date_published: 2024-10-14T23:57:58.306094+00:00
-
- ## Jobs@Universität Wien
- - [http://jobs.univie.ac.at](http://jobs.univie.ac.at)
- - date_published: 2024-10-14T23:56:56.959120+00:00
-
- ## Veranstaltungskalender - Veranstaltungskalender
- - [http://kalender.univie.ac.at](http://kalender.univie.ac.at)
- - date_published: 2024-10-14T23:57:48.103603+00:00
-
- ## Key Research Area Logic
- - [https://kgrc.univie.ac.at](https://kgrc.univie.ac.at)
- - date_published: 2024-12-30T08:03:41.488605+00:00
-
- ## Faculty of Life Sciences
- - [https://lifesciences.univie.ac.at](https://lifesciences.univie.ac.at)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## Fakultät für Mathematik
- - [http://mathematik.univie.ac.at](http://mathematik.univie.ac.at)
- - date_published: 2024-08-11T22:42:25.773401+00:00
-
- ## Faculty of Mathematics
- - [https://mat.univie.ac.at](https://mat.univie.ac.at)
- - date_published: 2024-02-08T18:02:47.499311+00:00
-
- ## Aktuelle Pressemeldungen
- - [https://medienportal.univie.ac.at](https://medienportal.univie.ac.at)
- - date_published: 2024-07-10T02:11:12.398286+00:00
-
- ## Home
- - [http://merchandising.univie.ac.at](http://merchandising.univie.ac.at)
- - date_published: 2024-10-14T23:59:34.062264+00:00
-
- ## Home | Moodle University of Vienna
- - [http://moodle.univie.ac.at](http://moodle.univie.ac.at)
- - date_published: 2024-07-21T01:58:40+00:00
-
- ## Nachhaltigkeit
- - [http://nachhaltigkeit.univie.ac.at](http://nachhaltigkeit.univie.ac.at)
- - date_published: 2024-10-14T23:56:46.787135+00:00
-
- ## Personalwesen und Frauenförderung
- - [http://personalwesen.univie.ac.at](http://personalwesen.univie.ac.at)
- - date_published: 2024-10-14T23:57:44.990266+00:00
-
- ## Podcasts
- - [http://podcasts.univie.ac.at](http://podcasts.univie.ac.at)
- - date_published: 2024-10-14T23:59:07.245055+00:00
-
- ## Research Data Management
- - [http://rdm.univie.ac.at](http://rdm.univie.ac.at)
- - date_published: 2024-10-14T23:59:08.507812+00:00
-
- ## Rudolphina – Wissenschaftsmagazin der Universität Wien
- - [http://rudolphina.univie.ac.at](http://rudolphina.univie.ac.at)
- - date_published: 2024-10-14T23:58:05.688144+00:00
-
- ## Satzung der Universität Wien
- - [http://satzung.univie.ac.at](http://satzung.univie.ac.at)
- - date_published: 2024-10-14T23:59:22.951117+00:00
-
- ## SEC - Security and Privacy
- - [https://sec.cs.univie.ac.at](https://sec.cs.univie.ac.at)
- - date_published: 2025-01-20T23:43:28.923843+00:00
-
- ## - Servicedesk
- - [http://servicedesk.univie.ac.at](http://servicedesk.univie.ac.at)
- - date_published: 2024-07-21T01:58:39.717649+00:00
-
- ## Fakultät für Sozialwissenschaften
- - [https://sowi.univie.ac.at](https://sowi.univie.ac.at)
- - date_published: 2024-10-14T23:58:06.712433+00:00
-
- ## Sprachenzentrum Universität Wien | Sprachenzentrum Universität Wien
- - [http://sprachenzentrum.univie.ac.at](http://sprachenzentrum.univie.ac.at)
- - date_published: 2024-10-14T23:59:00.547131+00:00
-
- ## Büro Studienpräses
- - [http://studienpraeses.univie.ac.at](http://studienpraeses.univie.ac.at)
- - date_published: 2024-10-14T23:56:54.744857+00:00
-
- ## Studieren
- - [https://studieren.univie.ac.at](https://studieren.univie.ac.at)
- - date_published: 2024-06-27T12:49:11.837522+00:00
-
- ## Institut für Theater-, Film- und Medienwissenschaft
- - [https://tfm.univie.ac.at](https://tfm.univie.ac.at)
- - date_published: 2024-09-02T15:47:37.241276+00:00
-
- ## Transfer
- - [http://transfer.univie.ac.at](http://transfer.univie.ac.at)
- - date_published: 2024-10-14T23:57:14.531310+00:00
-
- ## TYCHE – Beiträge zur Alten Geschichte, Papyrologie und Epigraphik
- - [https://tyche.univie.ac.at](https://tyche.univie.ac.at)
- - date_published: 2025-02-01T18:10:09.886025+00:00
-
- ## Universität Wien
- - [http://ucrisportal.univie.ac.at](http://ucrisportal.univie.ac.at)
- - date_published: 2024-10-14T23:58:56.840244+00:00
-
- ## Ukraine
- - [http://ukraine.univie.ac.at](http://ukraine.univie.ac.at)
- - date_published: 2024-10-14T23:58:33.106945+00:00
-
- ## Universität Wien
- - [https://univie.ac.at](https://univie.ac.at)
- - date_published: 2024-10-14T23:58:42.694127+00:00
-
- ## Startseite - Gast - u:space
- - [https://uspace.univie.ac.at](https://uspace.univie.ac.at)
- - date_published: 2024-07-21T01:58:45.491428+00:00
 

@@ -1,3 +1,119 @@
+ ## Dashboard - Wiki der Universität Wien
+ - [http://intra.univie.ac.at](http://intra.univie.ac.at)
+ - date_published: 2024-10-14T23:57:58.306094+00:00
+
+ ## Jobs@Universität Wien
+ - [http://jobs.univie.ac.at](http://jobs.univie.ac.at)
+ - date_published: 2024-10-14T23:56:56.959120+00:00
+
+ ## Veranstaltungskalender - Veranstaltungskalender
+ - [http://kalender.univie.ac.at](http://kalender.univie.ac.at)
+ - date_published: 2024-10-14T23:57:48.103603+00:00
+
+ ## Key Research Area Logic
+ - [https://kgrc.univie.ac.at](https://kgrc.univie.ac.at)
+ - date_published: 2024-12-30T08:03:41.488605+00:00
+
+ ## Faculty of Life Sciences
+ - [https://lifesciences.univie.ac.at](https://lifesciences.univie.ac.at)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Fakultät für Mathematik
+ - [http://mathematik.univie.ac.at](http://mathematik.univie.ac.at)
+ - date_published: 2024-08-11T22:42:25.773401+00:00
+
+ ## Faculty of Mathematics
+ - [https://mat.univie.ac.at](https://mat.univie.ac.at)
+ - date_published: 2024-02-08T18:02:47.499311+00:00
+
+ ## Aktuelle Pressemeldungen
+ - [https://medienportal.univie.ac.at](https://medienportal.univie.ac.at)
+ - date_published: 2024-07-10T02:11:12.398286+00:00
+
+ ## Home
+ - [http://merchandising.univie.ac.at](http://merchandising.univie.ac.at)
+ - date_published: 2024-10-14T23:59:34.062264+00:00
+
+ ## Home | Moodle University of Vienna
+ - [http://moodle.univie.ac.at](http://moodle.univie.ac.at)
+ - date_published: 2024-07-21T01:58:40+00:00
+
+ ## Nachhaltigkeit
+ - [http://nachhaltigkeit.univie.ac.at](http://nachhaltigkeit.univie.ac.at)
+ - date_published: 2024-10-14T23:56:46.787135+00:00
+
+ ## Personalwesen und Frauenförderung
+ - [http://personalwesen.univie.ac.at](http://personalwesen.univie.ac.at)
+ - date_published: 2024-10-14T23:57:44.990266+00:00
+
+ ## Podcasts
+ - [http://podcasts.univie.ac.at](http://podcasts.univie.ac.at)
+ - date_published: 2024-10-14T23:59:07.245055+00:00
+
+ ## Research Data Management
+ - [http://rdm.univie.ac.at](http://rdm.univie.ac.at)
+ - date_published: 2024-10-14T23:59:08.507812+00:00
+
+ ## Rudolphina – Wissenschaftsmagazin der Universität Wien
+ - [http://rudolphina.univie.ac.at](http://rudolphina.univie.ac.at)
+ - date_published: 2024-10-14T23:58:05.688144+00:00
+
+ ## Satzung der Universität Wien
+ - [http://satzung.univie.ac.at](http://satzung.univie.ac.at)
+ - date_published: 2024-10-14T23:59:22.951117+00:00
+
+ ## SEC - Security and Privacy
+ - [https://sec.cs.univie.ac.at](https://sec.cs.univie.ac.at)
+ - date_published: 2025-01-20T23:43:28.923843+00:00
+
+ ## - Servicedesk
+ - [http://servicedesk.univie.ac.at](http://servicedesk.univie.ac.at)
+ - date_published: 2024-07-21T01:58:39.717649+00:00
+
+ ## Fakultät für Sozialwissenschaften
+ - [https://sowi.univie.ac.at](https://sowi.univie.ac.at)
+ - date_published: 2024-10-14T23:58:06.712433+00:00
+
+ ## Sprachenzentrum Universität Wien | Sprachenzentrum Universität Wien
+ - [http://sprachenzentrum.univie.ac.at](http://sprachenzentrum.univie.ac.at)
+ - date_published: 2024-10-14T23:59:00.547131+00:00
+
+ ## Büro Studienpräses
+ - [http://studienpraeses.univie.ac.at](http://studienpraeses.univie.ac.at)
+ - date_published: 2024-10-14T23:56:54.744857+00:00
+
+ ## Studieren
+ - [https://studieren.univie.ac.at](https://studieren.univie.ac.at)
+ - date_published: 2024-06-27T12:49:11.837522+00:00
+
+ ## Institut für Theater-, Film- und Medienwissenschaft
+ - [https://tfm.univie.ac.at](https://tfm.univie.ac.at)
+ - date_published: 2024-09-02T15:47:37.241276+00:00
+
+ ## Transfer
+ - [http://transfer.univie.ac.at](http://transfer.univie.ac.at)
+ - date_published: 2024-10-14T23:57:14.531310+00:00
+
+ ## TYCHE – Beiträge zur Alten Geschichte, Papyrologie und Epigraphik
+ - [https://tyche.univie.ac.at](https://tyche.univie.ac.at)
+ - date_published: 2025-02-01T18:10:09.886025+00:00
+
+ ## Universität Wien
+ - [http://ucrisportal.univie.ac.at](http://ucrisportal.univie.ac.at)
+ - date_published: 2024-10-14T23:58:56.840244+00:00
+
+ ## Ukraine
+ - [http://ukraine.univie.ac.at](http://ukraine.univie.ac.at)
+ - date_published: 2024-10-14T23:58:33.106945+00:00
+
+ ## Universität Wien
+ - [https://univie.ac.at](https://univie.ac.at)
+ - date_published: 2024-10-14T23:58:42.694127+00:00
+
+ ## Startseite - Gast - u:space
+ - [https://uspace.univie.ac.at](https://uspace.univie.ac.at)
+ - date_published: 2024-07-21T01:58:45.491428+00:00
+
  ## Vienna Doctoral School in Physics
  - [https://vds-physics.univie.ac.at](https://vds-physics.univie.ac.at)
  - date_published: 2024-07-01T05:47:16.952011+00:00
@@ -117,6 +233,10 @@
  ## Acht Engineering
  - [https://www.acht.at](https://www.acht.at)
  - date_published: 2024-02-19T00:00:00+00:00
+
+ ## ACP GRUPPE | Wir entfesseln Ihre Innovationskraft!
+ - [https://www.acp.at](https://www.acp.at)
+ - date_published: 2025-02-04T07:44:25.446025+00:00
 
  ## Austria Center Vienna | Österreichs größtes Kongresszentrum
  - [https://www.acv.at](https://www.acv.at)
@@ -253,6 +373,10 @@
  ## Anton Pirker
  - [https://anton-pirker.at](https://anton-pirker.at)
  - date_published: 2024-06-21T21:31:28+00:00
+
+ ## Handy - Festnetz - Internet - Mobiles Internet - TV
+ - [http://members.aon.at](http://members.aon.at)
+ - date_published: 2025-02-04T15:04:13.904113+00:00
 
  ## Handy - Festnetz - Internet - Mobiles Internet - TV
  - [http://www.aon.at](http://www.aon.at)
@@ -417,6 +541,10 @@
  ## AWEKAS Stationsweb Micheldorf in Oberösterreich
  - [http://stationsweb.awekas.at](http://stationsweb.awekas.at)
  - date_published: 2024-07-22T17:32:44.552874+00:00
+
+ ## b83 Internetagentur - Webdesign, Suchmaschinen, Social Media
+ - [https://b83.at](https://b83.at)
+ - date_published: 2025-02-04T06:29:50.758239+00:00
 
  ## badminton.at  -  Österreichischer Badminton Verband Online
  - [https://www.badminton.at](https://www.badminton.at)
@@ -927,6 +1055,10 @@
  - [https://cur.at](https://cur.at)
  - date_published: 2024-02-26T00:00:00+00:00
 
+ ## Curated by
+ - [https://curatedby.at](https://curatedby.at)
+ - date_published: 2025-02-04T12:29:58.993182+00:00
+
  ## Home - daaa.at
  - [https://daaa.at](https://daaa.at)
  - date_published: 2024-02-07T00:00:00+00:00
@@ -1278,6 +1410,10 @@
  - [https://elternkindpass.at](https://elternkindpass.at)
  - date_published: 2024-03-17T16:37:54+00:00
 
+ ## Home
+ - [http://elternverein-vs-mariagruen.at](http://elternverein-vs-mariagruen.at)
+ - date_published: 2025-02-04T20:52:31.033673+00:00
+
  ## EMP | Music, Movie, TV & Gaming Merch | Alternative Clothing
  - [https://emp.at](https://emp.at)
  - date_published: 2024-07-24T06:35:02.913470+00:00
@@ -1317,6 +1453,10 @@
  ## Startseite - e-sieben
  - [https://e-sieben.at](https://e-sieben.at)
  - date_published: 2024-09-18T14:48:12.115269+00:00
+
+ ## eSquirrel - Learning platform & learning app
+ - [https://www.esquirrel.at](https://www.esquirrel.at)
+ - date_published: 2025-02-04T11:03:03.121975+00:00
 
  ## esskultur | kulinarische notizen von katharina seiser
  - [https://www.esskultur.at](https://www.esskultur.at)
@@ -1622,6 +1762,10 @@
  ## Ford Pro™: Nutzfahrzeuge, Services & Telematik | Ford Pro™ AT
  - [https://www.fordpro.at](https://www.fordpro.at)
  - date_published: 2024-10-29T21:49:54.286855+00:00
+
+ ## Formunauts - Innovating Face-to-Face Fundraising Standards!
+ - [https://www.formunauts.at](https://www.formunauts.at)
+ - date_published: 2025-02-04T11:03:11.015823+00:00
 
  ## Domain Default page
  - [https://fortun.at](https://fortun.at)
@@ -2112,6 +2256,10 @@
  ## i-kiu - Wir machen digitale Dinge einfacher
  - [https://www.i-kiu.at](https://www.i-kiu.at)
  - date_published: 2025-01-20T18:53:51.140941+00:00
+
+ ## Mach mit - Treffen, Events & Initiativen im Grätzl
+ - [https://www.imgraetzl.at](https://www.imgraetzl.at)
+ - date_published: 2025-02-04T11:03:09.036594+00:00
 
  ## Immobilien, Wohnungen und Häuser auf ImmoScout24
  - [https://immobilienscout24.at](https://immobilienscout24.at)
@@ -3873,153 +4021,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Kaffee und Espresso online kaufen im Shop | roastmarket
  - [https://s.roastmarket.at](https://s.roastmarket.at)
  - date_published: 2025-01-20T23:52:18.962812+00:00
-
- ## Kaffee und Espresso online kaufen im Shop | roastmarket
- - [https://www.roastmarket.at](https://www.roastmarket.at)
- - date_published: 2025-01-16T14:18:04.603106+00:00
-
- ## Robert Steiner
- - [https://robertsteiner.at](https://robertsteiner.at)
- - date_published: 2024-09-18T14:49:35.356575+00:00
-
- ## ROCK ANTENNE Österreich
- - [https://www.rockantenne.at](https://www.rockantenne.at)
- - date_published: 2025-01-15T13:10:47.075363+00:00
-
- ## RockLogic GmbH
- - [https://rocklogic.at](https://rocklogic.at)
- - date_published: 2025-01-21T13:41:00.722715+00:00
-
- ## RockLogic GmbH
- - [https://www.rocklogic.at](https://www.rocklogic.at)
- - date_published: 2025-01-08T05:29:20.410545+00:00
-
- ## Roland Photography - Fotograf aus Kärnten
- - [https://roland-photography.at](https://roland-photography.at)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Hello, world - www.rollc.at
- - [https://rollc.at](https://rollc.at)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Roompower
- - [https://roompower.at](https://roompower.at)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Online Roulette Spielen - Kostenlos & Echtgeld | Roulette77 Österreich
- - [https://roulette77.at](https://roulette77.at)
- - date_published: 2025-01-16T14:32:17.712939+00:00
-
- ## Startseite - Raiffeisen Software
- - [https://r-software.at](https://r-software.at)
- - date_published: 2024-06-22T23:48:05.401470+00:00
-
- ## Rubikon Werbeagentur in Graz
- - [https://www.rubikon.at](https://www.rubikon.at)
- - date_published: 2025-01-20T18:53:01.086205+00:00
-
- ## Rust Meetup Linz
- - [https://rust-linz.at](https://rust-linz.at)
- - date_published: 2023-03-02T15:38:37+00:00
-
- ## Startseite | rwa.at - Startseite
- - [https://rwa.at](https://rwa.at)
- - date_published: 2024-07-14T12:56:42.861172+00:00
-
- ## Home - RX Austria & Germany | RX
- - [https://rxglobal.at](https://rxglobal.at)
- - date_published: 2024-06-24T08:35:24.847472+00:00
-
- ## Home
- - [https://saferinternet.at](https://saferinternet.at)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Patrik Inzinger • Designer, Entrepreneur
- - [https://saismo.at](https://saismo.at)
- - date_published: 2023-11-29T14:53:43.981711+00:00
- - tags: ['personal']
-
- ## Die besten Gutscheine und Angebote für Österreich  - Saleduck.at
- - [https://www.saleduck.at](https://www.saleduck.at)
- - date_published: 2024-12-27T17:35:59.594907+00:00
-
- ## Jobs für Sales-Fachkräfte – salescareer.at
- - [https://salescareer.at](https://salescareer.at)
- - date_published: 2024-06-16T08:46:45.574824+00:00
-
- ## Rudolf Sallinger Fonds
- - [https://sallingerfonds.at](https://sallingerfonds.at)
- - date_published: 2024-10-14T23:57:38.808792+00:00
-
- ## Offene Stellen - Salzburg AG für Energie, Verkehr & Telekommunikation
- - [https://karriere.salzburg-ag.at](https://karriere.salzburg-ag.at)
- - date_published: 2025-02-02T15:45:17.563497+00:00
-
- ## Aktuelle Pressemeldungen
- - [https://presse.salzburg-ag.at](https://presse.salzburg-ag.at)
- - date_published: 2025-02-02T15:45:01.934235+00:00
-
- ## Salzburg AG für Energie, Verkehr & Telekommunikation
- - [https://salzburg-ag.at](https://salzburg-ag.at)
- - date_published: 2024-07-14T16:54:15+00:00
-
- ## Salzburg Festival
- - [https://salzburgerfestspiele.at](https://salzburgerfestspiele.at)
- - date_published: 2024-07-13T09:30:07.610477+00:00
-
- ## Salzburg Netz GmbH - Strom- und Gasnetzbetreiber
- - [https://www.salzburgnetz.at](https://www.salzburgnetz.at)
- - date_published: 2025-02-02T15:44:57.674619+00:00
-
- ## Salzburg Ökoenergie GmbH
- - [https://www.salzburgoeko.at](https://www.salzburgoeko.at)
- - date_published: 2025-02-02T15:44:55.161305+00:00
-
- ## Salzburger Verkehrsverbund GmbH
- - [https://salzburg-verkehr.at](https://salzburg-verkehr.at)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Österreich
- - [https://www.sanofi.at](https://www.sanofi.at)
- - date_published: 2024-07-03T03:39:28.021637+00:00
-
- ## Startseite | Santander Consumer Bank Österreich - Ihr Spezialist für Onlinekredite, Kredite, Finanzierung
- - [https://www.santanderconsumer.at](https://www.santanderconsumer.at)
- - date_published: 2024-09-28T20:00:06+00:00
-
- ## www.sarahmang.at – tactile and multisensory art
- - [https://sarahmang.at](https://sarahmang.at)
- - date_published: 2024-09-02T15:47:22.103140+00:00
-
- ## Sargfabrik Wien
- - [https://sargfabrik.at](https://sargfabrik.at)
- - date_published: 2025-02-02T01:43:26.552270+00:00
-
- ## Sargfabrik Wien
- - [https://www.sargfabrik.at](https://www.sargfabrik.at)
- - date_published: 2025-02-02T01:42:24.114751+00:00
-
- ## SAT.1
- - [https://www.sat1.at](https://www.sat1.at)
- - date_published: 2025-01-16T15:40:17.158279+00:00
-
- ## scenes.at - where do you want to point a scener today?
- - [https://scenes.at](https://scenes.at)
- - date_published: 2024-09-04T11:10:24.315554+00:00
-
- ## Welcome to The Sound of SceneSat web player.
- - [https://sound.of.scenes.at](https://sound.of.scenes.at)
- - date_published: 2024-05-01T00:27:22.597387+00:00
-
- ## Erlebniswelt Schallaburg
- - [https://schallaburg.at](https://schallaburg.at)
- - date_published: 2024-09-02T15:47:48.390127+00:00
-
- ## Aufzüge, Fahrtreppen & Fahrsteige
- - [https://www.schindler.at](https://www.schindler.at)
- - date_published: 2025-01-16T16:06:49.916387+00:00
-
- ## Schloss Ambras Innsbruck – das erste Museum der Welt.
- - [https://schlossambras-innsbruck.at](https://schlossambras-innsbruck.at)
- - date_published: 2024-05-28T03:08:42.026779+00:00
 

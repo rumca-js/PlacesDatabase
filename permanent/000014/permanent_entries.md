@@ -1,3 +1,191 @@
+ ## myUNSW
+ - [https://my.unsw.edu.au](https://my.unsw.edu.au)
+ - date_published: 2024-05-11T07:37:36.974968+00:00
+
+ ## UNSW Newsroom
+ - [https://newsroom.unsw.edu.au](https://newsroom.unsw.edu.au)
+ - date_published: 2023-10-31T05:38:26.362329+00:00
+
+ ## Newsroom
+ - [https://news.unsw.edu.au](https://news.unsw.edu.au)
+ - date_published: 2024-07-15T08:44:54.145437+00:00
+
+ ## School of Physics
+ - [https://newt.phys.unsw.edu.au](https://newt.phys.unsw.edu.au)
+ - date_published: 2016-11-18T05:36:29+00:00
+
+ ## UNSW Online  | UNSW Sydney
+ - [https://online.unsw.edu.au](https://online.unsw.edu.au)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## School of Physics
+ - [https://phys.unsw.edu.au](https://phys.unsw.edu.au)
+ - date_published: 2016-11-18T05:36:29+00:00
+
+ ## Home
+ - [https://portal.insight.unsw.edu.au](https://portal.insight.unsw.edu.au)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Health precincts | Medicine & Health - UNSW Sydney
+ - [https://precincts.unsw.edu.au](https://precincts.unsw.edu.au)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## UNSW Research | UNSW Research
+ - [https://research.unsw.edu.au](https://research.unsw.edu.au)
+ - date_published: 2024-05-11T07:37:19.861796+00:00
+
+ ## Safety | Transformation, Planning & Assurance - UNSW Sydney
+ - [https://safesys.unsw.edu.au](https://safesys.unsw.edu.au)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## HTML Meta Tag
+ - [https://scholarships.online.unsw.edu.au](https://scholarships.online.unsw.edu.au)
+ - date_published: 2022-02-17T02:25:11+00:00
+
+ ## UNSW Medicine & Health Short Courses
+ - [https://shortcourses.health.unsw.edu.au](https://shortcourses.health.unsw.edu.au)
+ - date_published: 2024-05-11T07:37:51.505690+00:00
+
+ ## 2025 Strategy ‹ Log In
+ - [https://staff.2025.unsw.edu.au](https://staff.2025.unsw.edu.au)
+ - date_published: 2024-07-13T13:54:59.712584+00:00
+
+ ## Home
+ - [https://student.unsw.edu.au](https://student.unsw.edu.au)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## 100% Online Postgraduate Programs | UNSW
+ - [https://studyonline.unsw.edu.au](https://studyonline.unsw.edu.au)
+ - date_published: 2024-07-13T10:05:52+00:00
+
+ ## Library guides: Subject guides: Home
+ - [https://subjectguides.library.unsw.edu.au](https://subjectguides.library.unsw.edu.au)
+ - date_published: 2024-07-13T14:04:10.315998+00:00
+
+ ## Staff Gateway for Teaching
+ - [http://teaching.unsw.edu.au](http://teaching.unsw.edu.au)
+ - date_published: 2024-07-12T18:58:29+00:00
+
+ ## UNSW Sydney | One of the best universities in Australia
+ - [https://unsw.edu.au](https://unsw.edu.au)
+ - date_published: 2024-03-21T02:08:01.751115+00:00
+
+ ## UNSWorks
+ - [https://unsworks.unsw.edu.au](https://unsworks.unsw.edu.au)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## School of Mathematics & Statistics | Science - UNSW Sydney
+ - [http://web.maths.unsw.edu.au](http://web.maths.unsw.edu.au)
+ - date_published: 2024-12-31T13:00:05.447759+00:00
+
+ ## Water Research Laboratory - UNSW Sydney
+ - [https://wrl.unsw.edu.au](https://wrl.unsw.edu.au)
+ - date_published: 2024-06-29T16:40:21.045888+00:00
+
+ ## UNSW 2025 Strategic Plan – UNSW Sydney
+ - [https://www.2025.unsw.edu.au](https://www.2025.unsw.edu.au)
+ - date_published: 2024-07-13T12:45:58+00:00
+
+ ## Accommodation - UNSW Sydney
+ - [https://www.accommodation.unsw.edu.au](https://www.accommodation.unsw.edu.au)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Mark Wainwright Analytical Centre | UNSW Mark Wainwright Analytical Centre
+ - [http://www.analytical.unsw.edu.au](http://www.analytical.unsw.edu.au)
+ - date_published: 2024-07-13T13:54:39.085656+00:00
+
+ ## Arc @ UNSW
+ - [https://www.arc.unsw.edu.au](https://www.arc.unsw.edu.au)
+ - date_published: 2024-07-13T04:41:12.016134+00:00
+
+ ## School of Art & Design
+ - [https://www.artdesign.unsw.edu.au](https://www.artdesign.unsw.edu.au)
+ - date_published: 2024-06-27T16:57:31.418710+00:00
+
+ ## Employability | UNSW Sydney
+ - [https://www.careers.unsw.edu.au](https://www.careers.unsw.edu.au)
+ - date_published: 2024-07-13T13:53:46.576247+00:00
+
+ ## Climate Change Research Centre | School of Biological, Earth & Environmental Sciences - UNSW Sydney
+ - [http://www.ccrc.unsw.edu.au](http://www.ccrc.unsw.edu.au)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Transitioning to Online Learning
+ - [https://www.covid19studyonline.unsw.edu.au](https://www.covid19studyonline.unsw.edu.au)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Engineering | UNSW Sydney
+ - [http://www.cse.unsw.edu.au](http://www.cse.unsw.edu.au)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Home | Early Years
+ - [http://www.earlyyears.unsw.edu.au](http://www.earlyyears.unsw.edu.au)
+ - date_published: 2024-07-13T14:01:56.414177+00:00
+
+ ## Equity, Diversity & Inclusion | UNSW Sydney
+ - [https://www.edi.unsw.edu.au](https://www.edi.unsw.edu.au)
+ - date_published: 2024-07-13T04:41:15.150052+00:00
+
+ ## UNSW Estate Management - UNSW Sydney
+ - [https://www.estate.unsw.edu.au](https://www.estate.unsw.edu.au)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## UNSW Founders
+ - [https://www.founders.unsw.edu.au](https://www.founders.unsw.edu.au)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Study in Australia | Discover Endless Possibilities | UNSW Sydney
+ - [https://www.futurestudents.unsw.edu.au](https://www.futurestudents.unsw.edu.au)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## How to Accept Offer and Get Started at UNSW Sydney Australia
+ - [http://www.gettingstarted.unsw.edu.au](http://www.gettingstarted.unsw.edu.au)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## 2024 Student Handbook
+ - [http://www.handbook.unsw.edu.au](http://www.handbook.unsw.edu.au)
+ - date_published: 2024-07-13T14:01:27.193159+00:00
+
+ ## UNSW Health Services
+ - [http://www.healthservices.unsw.edu.au](http://www.healthservices.unsw.edu.au)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://www.hr.unsw.edu.au](https://www.hr.unsw.edu.au)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## International students | Study in Sydney | UNSW Sydney
+ - [http://www.international.unsw.edu.au](http://www.international.unsw.edu.au)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## UNSW IT | UNSW Sydney
+ - [https://www.it.unsw.edu.au](https://www.it.unsw.edu.au)
+ - date_published: 2024-07-10T02:54:37+00:00
+
+ ## Kaldor Centre | Law & Justice - UNSW Sydney
+ - [https://www.kaldorcentre.unsw.edu.au](https://www.kaldorcentre.unsw.edu.au)
+ - date_published: 2024-10-18T21:18:22.560668+00:00
+
+ ## Law & Justice | UNSW Sydney
+ - [https://www.law.unsw.edu.au](https://www.law.unsw.edu.au)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Nura Gili: Centre for Indigenous Programs | UNSW Sydney
+ - [http://www.nuragili.unsw.edu.au](http://www.nuragili.unsw.edu.au)
+ - date_published: 2024-07-13T14:01:31.290850+00:00
+
+ ## School of Physics | Science - UNSW Sydney
+ - [https://www.physics.unsw.edu.au](https://www.physics.unsw.edu.au)
+ - date_published: 2024-07-21T21:52:38.239188+00:00
+
+ ## Sign in to your account
+ - [https://www.servicedesk.unsw.edu.au](https://www.servicedesk.unsw.edu.au)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Class Search by Teaching Period
+ - [http://www.timetable.unsw.edu.au](http://www.timetable.unsw.edu.au)
+ - date_published: 2024-07-12T17:37:51+00:00
+
  ## Public Transport | Estate Management | UNSW Sydney
  - [http://www.transport.unsw.edu.au](http://www.transport.unsw.edu.au)
  - date_published: 2024-07-02T02:05:54+00:00
@@ -3834,192 +4022,4 @@
  ## St John Ambulance National Online Shop
  - [https://shop.stjohn.org.au](https://shop.stjohn.org.au)
  - date_published: 2024-12-21T05:09:51.854850+00:00
-
- ## Subsea Energy Australia
- - [https://subseaenergy.org.au](https://subseaenergy.org.au)
- - date_published: 2024-09-04T02:16:12.247141+00:00
-
- ## ASFI
- - [https://www.sustainablefinance.org.au](https://www.sustainablefinance.org.au)
- - date_published: 2024-12-20T18:32:55.270621+00:00
-
- ## Sydney Basin Koala Network
- - [https://www.sydneybasinkoalanetwork.org.au](https://www.sydneybasinkoalanetwork.org.au)
- - date_published: 2024-09-25T18:17:50.680947+00:00
-
- ## SFSGI Home
- - [http://www.sydneyfungalstudies.org.au](http://www.sydneyfungalstudies.org.au)
- - date_published: 2024-07-14T22:15:40+00:00
-
- ## Sydney Health Partners
- - [https://cdn.sydneyhealthpartners.org.au](https://cdn.sydneyhealthpartners.org.au)
- - date_published: 2025-01-15T09:48:30.804947+00:00
-
- ## Sydney Health Partners
- - [https://sydneyhealthpartners.org.au](https://sydneyhealthpartners.org.au)
- - date_published: 2024-09-12T15:53:28.667276+00:00
-
- ## Sign In – Australian Synchrotron
- - [https://portal.synchrotron.org.au](https://portal.synchrotron.org.au)
- - date_published: 2024-08-19T11:17:25.066640+00:00
-
- ## Australian Synchrotron User Hub – Dashboard
- - [https://userhub.synchrotron.org.au](https://userhub.synchrotron.org.au)
- - date_published: 2025-01-15T09:48:49.055297+00:00
-
- ## Taxonomy Australia
- - [https://taxonomyaustralia.org.au](https://taxonomyaustralia.org.au)
- - date_published: 2024-03-22T00:26:14.409680+00:00
-
- ## TCIQ - Translational Cell Imaging Queensland
- - [https://tciq.org.au](https://tciq.org.au)
- - date_published: 2024-09-13T17:16:49.419894+00:00
-
- ## Welcome to Teeth.org.au
- - [https://teeth.org.au](https://teeth.org.au)
- - date_published: 2024-09-17T16:47:00.663570+00:00
-
- ## The Australian Historical Association – The site for and about historians working in or on Australia.
- - [https://theaha.org.au](https://theaha.org.au)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The Finnies
- - [https://thefinnies.org.au](https://thefinnies.org.au)
- - date_published: 2024-10-11T22:08:42.104741+00:00
-
- ## Make a Donation to The Kids' Cancer Project
- - [https://donate.thekidscancerproject.org.au](https://donate.thekidscancerproject.org.au)
- - date_published: 2025-01-15T09:50:51.758784+00:00
-
- ## Donate to K'day Today
- - [https://majorgifts.thekidscancerproject.org.au](https://majorgifts.thekidscancerproject.org.au)
- - date_published: 2025-01-15T09:50:32.269813+00:00
-
- ## Welcome to The Kids&#39; Cancer Project | The Kids&#39; Cancer Project
- - [https://thekidscancerproject.org.au](https://thekidscancerproject.org.au)
- - date_published: 2024-09-16T08:13:09.995740+00:00
-
- ## The Life You Can Save - Best Charities of 2024
- - [https://thelifeyoucansave.org.au](https://thelifeyoucansave.org.au)
- - date_published: 2024-09-04T05:24:08.075319+00:00
-
- ## The Southern Cross | South Australia's Catholic News
- - [https://www.thesoutherncross.org.au](https://www.thesoutherncross.org.au)
- - date_published: 2024-12-21T03:47:28.530919+00:00
-
- ## The Street Theatre
- - [https://www.thestreet.org.au](https://www.thestreet.org.au)
- - date_published: 2024-09-15T13:37:06+00:00
-
- ## Careers | The Royal Women's Hospital
- - [https://careers.thewomens.org.au](https://careers.thewomens.org.au)
- - date_published: 2025-01-15T09:51:57.076483+00:00
-
- ## The Royal Women's Hospital
- - [https://thewomens.org.au](https://thewomens.org.au)
- - date_published: 2024-06-30T08:29:05+00:00
-
- ## Home - Thin Green Line
- - [https://thingreenline.org.au](https://thingreenline.org.au)
- - date_published: 2024-09-06T21:36:05.056220+00:00
-
- ## Trust for Nature (Victoria) – Our mission is to protect and restore biodiversity on private land across Victoria
- - [https://trustfornature.org.au](https://trustfornature.org.au)
- - date_published: 2024-12-21T08:45:01.934795+00:00
-
- ## Twenty10 - Twenty10 incorporating GLCS NSW
- - [https://twenty10.org.au](https://twenty10.org.au)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home - Two Sides Australia
- - [https://twosides.org.au](https://twosides.org.au)
- - date_published: 2024-09-10T12:37:17.968709+00:00
-
- ## Welcome u3a.org.au - Justhost.com
- - [http://www.u3a.org.au](http://www.u3a.org.au)
- - date_published: 2024-12-12T18:58:39.265331+00:00
-
- ## Freemasons Queensland | A Tradition of Self Improvement & Service
- - [https://uglq.org.au](https://uglq.org.au)
- - date_published: 2024-06-17T14:04:58.669070+00:00
-
- ## UNICEF Australia | Children's Charity That Delivers Hope
- - [https://unicef.org.au](https://unicef.org.au)
- - date_published: 2024-05-06T19:58:30.468632+00:00
-
- ## Home - un Projects
- - [https://unprojects.org.au](https://unprojects.org.au)
- - date_published: 2024-12-21T06:14:31.844830+00:00
-
- ## UQ Health Care - Your Partner for a Healthy Future
- - [https://www.uqhealthcare.org.au](https://www.uqhealthcare.org.au)
- - date_published: 2024-12-21T08:08:41.881545+00:00
-
- ## UQ Healthy Living - Health and Wellbeing for over 50
- - [https://www.uqhealthyliving.org.au](https://www.uqhealthyliving.org.au)
- - date_published: 2024-12-21T08:08:21.492130+00:00
-
- ## Mark & Royal Arch Masons of NSW & ACT
- - [https://usgcnsw.org.au](https://usgcnsw.org.au)
- - date_published: 2024-06-17T14:04:49.214984+00:00
-
- ## Visit Great Ocean Road - Victoria's Top Tourist Destination
- - [http://visitgreatoceanroad.org.au](http://visitgreatoceanroad.org.au)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home - Visual Media Association
- - [https://visualmediaassociation.org.au](https://visualmediaassociation.org.au)
- - date_published: 2025-01-15T09:53:58.287864+00:00
-
- ## Voiceless Animal Cruelty Index (VACI) | Voiceless
- - [https://vaci.voiceless.org.au](https://vaci.voiceless.org.au)
- - date_published: 2025-01-15T09:55:33.307230+00:00
-
- ## Voiceless, the animal protection institute
- - [https://voiceless.org.au](https://voiceless.org.au)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Scientology Volunteer Ministers: Humanitarian Organization & Aid, Disaster Response
- - [https://www.volunteerministers.org.au](https://www.volunteerministers.org.au)
- - date_published: 2024-09-04T18:07:21.788442+00:00
-
- ## Wadawurrung Traditional Owners
- - [https://www.wadawurrung.org.au](https://www.wadawurrung.org.au)
- - date_published: 2025-01-15T10:49:58.769736+00:00
-
- ## Australian Wagyu Association | Australian Wagyu Association
- - [https://wagyu.org.au](https://wagyu.org.au)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Challenge yourself and make a difference in 2024
- - [https://www.walkforwomenscancer.org.au](https://www.walkforwomenscancer.org.au)
- - date_published: 2024-10-14T18:20:05.623076+00:00
-
- ## Weeds Australia
- - [https://weeds.org.au](https://weeds.org.au)
- - date_published: 2024-07-20T21:48:04.254374+00:00
-
- ## WeedScan
- - [https://weedscan.org.au](https://weedscan.org.au)
- - date_published: 2024-07-20T21:48:20.052346+00:00
-
- ## West Space – Offsite
- - [https://offsite.westspace.org.au](https://offsite.westspace.org.au)
- - date_published: 2024-12-21T06:14:39.484010+00:00
-
- ## West Space – Home
- - [https://westspace.org.au](https://westspace.org.au)
- - date_published: 2024-07-13T16:16:14.514658+00:00
-
- ## Sign in - Matomo
- - [https://stats.wikimedia.org.au](https://stats.wikimedia.org.au)
- - date_published: 2025-01-15T10:01:35.140427+00:00
-
- ## Wikimedia Australia
- - [https://wikimedia.org.au](https://wikimedia.org.au)
- - date_published: 2024-06-03T06:01:26+00:00
-
- ## Give a Gift to Wildlife - WIRES
- - [https://donations.wires.org.au](https://donations.wires.org.au)
- - date_published: 2025-01-15T10:04:23.336014+00:00
 

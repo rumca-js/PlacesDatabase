@@ -1,3 +1,246 @@
+ ## Jessica's Nature Blog
+ - [https://natureinfocus.blog](https://natureinfocus.blog)
+ - date_published: 2024-06-30T01:45:26.030894+00:00
+
+ ## NBMG
+ - [https://nbmg.blog](https://nbmg.blog)
+ - date_published: 2024-06-24T07:37:33+00:00
+
+ ## near.blog | personal website
+ - [https://near.blog](https://near.blog)
+ - date_published: 2024-05-11T10:54:48.598948+00:00
+
+ ## Neil Madden
+ - [https://neilmadden.blog](https://neilmadden.blog)
+ - date_published: 2023-10-25T09:01:51.726758+00:00
+ - tags: ['personal']
+
+ ## NetNewsWire
+ - [https://netnewswire.blog](https://netnewswire.blog)
+ - date_published: 2024-02-26T09:24:21.621475+00:00
+
+ ## New Catallaxy – Sinistra delenda est
+ - [https://newcatallaxy.blog](https://newcatallaxy.blog)
+ - date_published: 2024-06-30T04:57:10.120272+00:00
+
+ ## Global Furry Television
+ - [https://globalfurrytv.news.blog](https://globalfurrytv.news.blog)
+ - date_published: 2024-06-30T06:01:18.470629+00:00
+
+ ## Newspack - The platform for news.
+ - [https://newspack.blog](https://newspack.blog)
+ - date_published: 2024-07-13T15:32:20+00:00
+
+ ## NextBiz
+ - [http://nextbiz.blog](http://nextbiz.blog)
+ - date_published: 2024-06-29T19:34:25.136875+00:00
+
+ ## Nicheless | Think. Write away.
+ - [https://nicheless.blog](https://nicheless.blog)
+ - date_published: 2023-10-25T08:41:08.563849+00:00
+
+ ## NOAA Teacher at Sea Blog
+ - [https://noaateacheratsea.blog](https://noaateacheratsea.blog)
+ - date_published: 2024-06-17T16:25:52+00:00
+
+ ## Noahpinion | Noah Smith | Substack
+ - [https://noahpinion.blog](https://noahpinion.blog)
+ - date_published: 2023-10-25T09:39:20.899129+00:00
+ - tags: ['substack']
+
+ ## No Bells
+ - [https://nobells.blog](https://nobells.blog)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## noisybrain
+ - [https://noisybrain.blog](https://noisybrain.blog)
+ - date_published: 2024-06-30T05:02:41.389045+00:00
+
+ ## agm
+ - [https://nomad.blog](https://nomad.blog)
+ - date_published: 2024-06-30T10:13:52.135456+00:00
+
+ ## Nomad Online
+ - [https://nomadonline.blog](https://nomadonline.blog)
+ - date_published: 2024-09-06T01:02:24+00:00
+
+ ## NoSecurity
+ - [https://nosecurity.blog](https://nosecurity.blog)
+ - date_published: 2025-01-27T13:55:21.506951+00:00
+
+ ## Notes From Pavis
+ - [https://notesfrompavis.blog](https://notesfrompavis.blog)
+ - date_published: 2025-01-01T11:53:59.464478+00:00
+
+ ## Nothing But The Truth
+ - [https://nothingbutthetruth.blog](https://nothingbutthetruth.blog)
+ - date_published: 2024-09-02T23:06:29+00:00
+
+ ## Nothing Radical
+ - [https://nothingradical.blog](https://nothingradical.blog)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## notizBlog
+ - [https://notiz.blog](https://notiz.blog)
+ - date_published: 2024-01-07T08:45:39.431652+00:00
+
+ ## NSMC Internship
+ - [https://nsmc.blog](https://nsmc.blog)
+ - date_published: 2024-06-28T11:51:32.290325+00:00
+
+ ## NTDEV
+ - [https://ntdev.blog](https://ntdev.blog)
+ - date_published: 2024-05-07T15:27:08.241538+00:00
+
+ ## NutriBites
+ - [https://nutribites.blog](https://nutribites.blog)
+ - date_published: 2024-08-18T20:45:09.332370+00:00
+
+ ## Something Odd!
+ - [https://odd.blog](https://odd.blog)
+ - date_published: 2024-06-30T10:13:30.320303+00:00
+
+ ## COGITO
+ - [https://oecdcogito.blog](https://oecdcogito.blog)
+ - date_published: 2025-01-08T06:48:18.888506+00:00
+
+ ## ECOSCOPE
+ - [https://oecdecoscope.blog](https://oecdecoscope.blog)
+ - date_published: 2025-01-06T11:16:32+00:00
+
+ ## Oh Hello Ana
+ - [https://ohhelloana.blog](https://ohhelloana.blog)
+ - date_published: 2024-01-03T04:05:44.287778+00:00
+
+ ## OldLady With Autism
+ - [https://oldladywithautism.blog](https://oldladywithautism.blog)
+ - date_published: 2024-09-03T23:02:06.728939+00:00
+
+ ## Om Malik
+ - [https://om.blog](https://om.blog)
+ - date_published: 2024-05-10T03:47:47.138641+00:00
+
+ ## OncoBites
+ - [https://oncobites.blog](https://oncobites.blog)
+ - date_published: 2024-12-21T13:33:19.630444+00:00
+
+ ## Blogging On Rails
+ - [https://onrails.blog](https://onrails.blog)
+ - date_published: 2024-04-28T05:57:03.045256+00:00
+ - tags: ['ruby', 'ruby on rails']
+
+ ## Open Notes
+ - [https://opennotes.blog](https://opennotes.blog)
+ - date_published: 2024-07-06T16:43:55+00:00
+
+ ## OSINT Team
+ - [https://osintteam.blog](https://osintteam.blog)
+ - date_published: 2024-12-22T13:05:30.255251+00:00
+
+ ## Outside the Asylum
+ - [https://outsidetheasylum.blog](https://outsidetheasylum.blog)
+ - date_published: 2024-05-08T09:57:24.649518+00:00
+
+ ## overcast blog
+ - [https://overcast.blog](https://overcast.blog)
+ - date_published: 2024-10-22T08:19:34.456972+00:00
+
+ - [https://overemployee.blog](https://overemployee.blog)
+ - date_published: 2024-01-09T02:26:42.986613+00:00
+ - date_dead_since: 2025-01-04T21:45:00.233090+00:00
+
+ ## Andrew Ozz on WordPress
+ - [https://ozz.blog](https://ozz.blog)
+ - date_published: 2024-06-30T10:13:50.300772+00:00
+
+ ## Padlet Gazette
+ - [https://padlet.blog](https://padlet.blog)
+ - date_published: 2024-05-06T15:25:23.339273+00:00
+
+ ## Painting In The Dark
+ - [https://paintinginthedark.blog](https://paintinginthedark.blog)
+ - date_published: 2024-06-18T23:30:07.623393+00:00
+
+ ## p410n3 blog – Palone's Blog. I sometimes write stuff about technology here.
+ - [https://palone.blog](https://palone.blog)
+ - date_published: 2021-06-06T00:00:00+00:00
+
+ ## Paperless
+ - [https://paperless.blog](https://paperless.blog)
+ - date_published: 2023-10-25T08:57:53.071595+00:00
+ - tags: ['personal']
+
+ ## Pat’s Substack | Pat Murphy | Substack
+ - [https://www.patmurphy.blog](https://www.patmurphy.blog)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Paul's Picks
+ - [https://paulspicks.blog](https://paulspicks.blog)
+ - date_published: 2024-12-12T06:03:14.586986+00:00
+
+ ## Penandpaper.blog
+ - [https://penandpaper.blog](https://penandpaper.blog)
+ - date_published: 2025-01-16T14:46:52.244884+00:00
+
+ ## Pensions and Benefits
+ - [https://pensionsandbenefits.blog](https://pensionsandbenefits.blog)
+ - date_published: 2024-09-15T23:33:49.216420+00:00
+
+ ## Perceiving Systems Blog
+ - [https://perceiving-systems.blog](https://perceiving-systems.blog)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Petros Amoiridis
+ - [https://petros.blog](https://petros.blog)
+ - date_published: 2023-12-15T21:43:49.329150+00:00
+ - tags: ['personal']
+
+ ## Pine.blog – The Official Blog of Pine.blog | A Feed Reader Like Never Before
+ - [https://blog.pine.blog](https://blog.pine.blog)
+ - date_published: 2024-05-08T03:30:27.711793+00:00
+
+ ## Pine.blog
+ - [https://pine.blog](https://pine.blog)
+ - date_published: 2024-05-08T03:30:24.768222+00:00
+
+ ## Captcha Page
+ - [https://p.pine.blog](https://p.pine.blog)
+ - date_published: 2024-07-03T18:04:31.621596+00:00
+
+ ## Niklas's blog
+ - [https://pivic.blog](https://pivic.blog)
+ - date_published: 2024-01-22T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Pixelfed Blog
+ - [https://pixelfed.blog](https://pixelfed.blog)
+ - date_published: 2023-10-25T12:00:46.045454+00:00
+
+ ## pixiv inside
+ - [https://inside.pixiv.blog](https://inside.pixiv.blog)
+ - date_published: 2024-06-18T22:08:57.141279+00:00
+
+ ## PJ Onori’s blog
+ - [https://pjonori.blog](https://pjonori.blog)
+ - date_published: 2024-07-12T21:38:20.048676+00:00
+
+ ## Plastic Craic
+ - [https://plasticcraic.blog](https://plasticcraic.blog)
+ - date_published: 2024-10-26T17:53:44.537968+00:00
+
+ ## Power Moves
+ - [https://powermoves.blog](https://powermoves.blog)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Pragmatic Environmentalist of New  York
+ - [https://pragmaticenvironmentalistofnewyork.blog](https://pragmaticenvironmentalistofnewyork.blog)
+ - date_published: 2024-08-19T08:08:13.859421+00:00
+
+ ## Prashanth's Blog
+ - [https://prashanths.blog](https://prashanths.blog)
+ - date_published: 2023-12-17T05:07:12.878570+00:00
+ - tags: ['personal']
+
  ## Privacy World | Data Privacy, Security and Innovation News
  - [https://privacyworld.blog](https://privacyworld.blog)
  - date_published: 2024-09-15T23:34:12.139500+00:00
@@ -197,6 +440,10 @@
  ## i've felt worse
  - [https://seraphim.blog](https://seraphim.blog)
  - date_published: 2024-12-13T11:41:15.303905+00:00
+
+ ## Serendipities – The ramblings of an accidental learner
+ - [https://serendipities.blog](https://serendipities.blog)
+ - date_published: 2025-02-04T12:56:50+00:00
 
  ## Seth's Blog
  - [https://seths.blog](https://seths.blog)
@@ -909,6 +1156,10 @@
  ## Erreur 403
  - [https://rapport-integre.bnpparibas](https://rapport-integre.bnpparibas)
  - date_published: 2023-01-12T10:29:21+00:00
+
+ ## BNP Paribas Wealth Management International | A Leading Private Bank
+ - [https://wealthmanagement.bnpparibas](https://wealthmanagement.bnpparibas)
+ - date_published: 2025-02-04T14:57:58.516295+00:00
 
  ## Audi Bolivia | Vive el futuro de la movilidad premium
  - [https://www.audi.bo](https://www.audi.bo)
@@ -3789,248 +4040,4 @@ Educação
  ## Agência Gov
  - [https://agenciagov.ebc.com.br](https://agenciagov.ebc.com.br)
  - date_published: 2024-01-02T00:00:00+00:00
-
- ## EBC - Embed player
- - [https://aovivo.ebc.com.br](https://aovivo.ebc.com.br)
- - date_published: 2024-03-18T14:02:05+00:00
-
- ## Canal Gov
- - [https://canalgov.ebc.com.br](https://canalgov.ebc.com.br)
- - date_published: 2024-07-11T21:34:11.277844+00:00
-
- ## Rede Nacional de Rádio
- - [https://redenacionalderadio.ebc.com.br](https://redenacionalderadio.ebc.com.br)
- - date_published: 2016-11-03T22:30:21+00:00
-
- ## Institucional
- - [https://www.ebc.com.br](https://www.ebc.com.br)
- - date_published: 2024-07-11T21:34:07.506479+00:00
-
- ## Edições Jabuticaba
- - [https://www.edicoesjabuticaba.com.br](https://www.edicoesjabuticaba.com.br)
- - date_published: 2024-12-20T09:21:45.606167+00:00
-
- ## Site em manutenção!
- - [https://ediouro.com.br](https://ediouro.com.br)
- - date_published: 2024-05-10T06:56:48.450857+00:00
-
- ## MMP5
- - [https://intranet.ediouro.com.br](https://intranet.ediouro.com.br)
- - date_published: 2024-07-11T18:45:16+00:00
-
- ## Ediouro Educação
- - [https://ediouroeducacao.com.br](https://ediouroeducacao.com.br)
- - date_published: 2024-07-13T02:18:27.512352+00:00
-
- ## Edital Concursos Brasil - Concursos, INSS, FGTS e Auxílios
- - [https://editalconcursosbrasil.com.br](https://editalconcursosbrasil.com.br)
- - date_published: 2024-12-26T17:31:15+00:00
-
- ## Loja Editora Agir
- - [https://www.editoraagir.com.br](https://www.editoraagir.com.br)
- - date_published: 2024-05-10T07:03:37.681199+00:00
-
- ## Loja online de Editora Jaguatirica
- - [https://loja.editorajaguatirica.com.br](https://loja.editorajaguatirica.com.br)
- - date_published: 2024-12-21T14:54:20.797790+00:00
-
- ## Editora Jaguatirica | Transforme as suas ideias em livros
- - [http://publique.editorajaguatirica.com.br](http://publique.editorajaguatirica.com.br)
- - date_published: 2020-04-13T20:23:39+00:00
-
- ## Loja online de Editora Jaguatirica
- - [http://www.editorajaguatirica.com.br](http://www.editorajaguatirica.com.br)
- - date_published: 2024-12-20T07:10:34.523242+00:00
-
- ## Editora Multifoco
- - [http://www.editoramultifoco.com.br](http://www.editoramultifoco.com.br)
- - date_published: 2024-12-20T10:29:34.606525+00:00
-
- ## Editora Novo Céu
- - [https://www.editoranovoceu.com.br](https://www.editoranovoceu.com.br)
- - date_published: 2024-07-13T02:18:24.660703+00:00
-
- ## Grupo Perfil
- - [https://editoraperfil.com.br](https://editoraperfil.com.br)
- - date_published: 2022-07-05T18:32:20+00:00
-
- ## Editora Pinus
- - [http://www.editorapinus.com.br](http://www.editorapinus.com.br)
- - date_published: 2024-12-31T16:46:27.647275+00:00
-
- ## Loja Editora Pixel
- - [https://www.editorapixel.com.br](https://www.editorapixel.com.br)
- - date_published: 2024-05-10T07:03:34.263956+00:00
-
- ## Fundação Editora Unesp
- - [http://www.editoraunesp.com.br](http://www.editoraunesp.com.br)
- - date_published: 2024-07-15T07:34:34.755944+00:00
-
- ## Blog do Edivaldo
- - [https://www.edivaldobrito.com.br](https://www.edivaldobrito.com.br)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Edgard Kozlowski
- - [http://edkf.com.br](http://edkf.com.br)
- - date_published: 2024-07-13T14:55:34.207791+00:00
-
- ## eduK
- - [https://www.eduk.com.br](https://www.eduk.com.br)
- - date_published: 2024-12-24T09:04:42.552648+00:00
-
- ## EF Education First | Brasil
- - [https://www.ef.com.br](https://www.ef.com.br)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## EGTC Infra – Engenharia em Evolução
- - [https://egtc.com.br](https://egtc.com.br)
- - date_published: 2024-07-13T02:15:32+00:00
-
- ## Home - ✸ Ei, Bonita
- - [https://eibonita.com.br](https://eibonita.com.br)
- - date_published: 2024-07-03T23:18:02.791350+00:00
-
- ## Ei Nerd - O portal do multiverso Nerd!
- - [https://www.einerd.com.br](https://www.einerd.com.br)
- - date_published: 2024-12-26T17:32:42.056592+00:00
-
- ## eixos - Notícias de Energia e Política
- - [https://eixos.com.br](https://eixos.com.br)
- - date_published: 2025-01-15T20:19:20.064076+00:00
-
- ## Brasil | Elecnor Brasil
- - [http://elecnor.com.br](http://elecnor.com.br)
- - date_published: 2024-10-14T21:20:43.328848+00:00
-
- ## Mods GTA San Andreas
- - [http://elitegta.com.br](http://elitegta.com.br)
- - date_published: 2023-10-09T14:31:23+00:00
-
- ## Bem-Vindo à ELIXIR Strings | Elixir® Strings
- - [https://www.elixirstrings.com.br](https://www.elixirstrings.com.br)
- - date_published: 2024-05-21T06:03:29+00:00
-
- ## ELLE Brasil - A moda em movimento
- - [https://elle.com.br](https://elle.com.br)
- - date_published: 2025-02-01T11:06:29.088617+00:00
-
- ## Elo7 | Produtos Especiais e Personalizados
- - [https://www.elo7.com.br](https://www.elo7.com.br)
- - date_published: 2024-08-07T20:56:01.880116+00:00
-
- ## Elo® | Touchscreen Solutions | Official Website
- - [https://www.elotouch.com.br](https://www.elotouch.com.br)
- - date_published: 2025-02-01T11:54:50.843122+00:00
-
- ## Estado de Minas: notícias e análises de MG, Brasil e do mundo
- - [https://www.em.com.br](https://www.em.com.br)
- - date_published: 2025-01-17T00:00:00+00:00
-
- ## Cursos | Emagister
- - [https://www.emagister.com.br](https://www.emagister.com.br)
- - date_published: 2024-09-11T16:03:57.231489+00:00
-
- ## Página Inicial - EmergeMag
- - [https://emergemag.com.br](https://emergemag.com.br)
- - date_published: 2023-12-07T00:00:00+00:00
-
- ## Revista de Gestão Social e Ambiental
- - [https://rgsa.emnuvens.com.br](https://rgsa.emnuvens.com.br)
- - date_published: 2024-12-24T09:33:16.483522+00:00
-
- ## GRUPO EP - Empresas Pioneiras
- - [https://www.empresaspioneiras.com.br](https://www.empresaspioneiras.com.br)
- - date_published: 2024-10-28T12:13:28.372386+00:00
-
- ## Empréstimo Online e Rápido | Empréstimo Sim
- - [https://emprestimosim.com.br](https://emprestimosim.com.br)
- - date_published: 2024-06-14T19:05:45+00:00
-
- ## Revisão de Inglês, correção de inglês para trabalhos acadêmicos, pesquisas e artigos científicos | Enago™ - Serviços de Edição, Correção e Revisão de Inglês
- - [https://www.enago.com.br](https://www.enago.com.br)
- - date_published: 2024-12-15T04:13:08.689803+00:00
-
- ## Enel Brasil
- - [https://www.enel.com.br](https://www.enel.com.br)
- - date_published: 2025-01-02T20:34:29+00:00
-
- ## Plataforma Enem - Blog do QG do Enem
- - [https://blog.enem.com.br](https://blog.enem.com.br)
- - date_published: 2024-06-16T15:36:12.077530+00:00
-
- ## Plataforma Enem - Blog do QG do Enem
- - [https://enem.com.br](https://enem.com.br)
- - date_published: 2024-10-11T13:01:38.800537+00:00
-
- ## Plataforma ENEM
- - [https://plataforma.enem.com.br](https://plataforma.enem.com.br)
- - date_published: 2024-09-26T13:16:21+00:00
-
- ## Enfoco - O seu site de notícias
- - [https://enfoco.com.br](https://enfoco.com.br)
- - date_published: 2025-01-15T20:05:53.744490+00:00
-
- ## Engesat - Soluções em imagens de satélite e georreferenciamento
- - [https://www.engesat.com.br](https://www.engesat.com.br)
- - date_published: 2024-05-04T08:13:47.489655+00:00
-
- ## ENGIE Brasil
- - [http://engie.com.br](http://engie.com.br)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Enjoei - Venda Rápida e Segura | Comece a Vender Agora
- - [https://photos.enjoei.com.br](https://photos.enjoei.com.br)
- - date_published: 2024-10-28T13:56:01+00:00
-
- ## Enjoei - Venda Rápida e Segura | Comece a Vender Agora
- - [https://www.enjoei.com.br](https://www.enjoei.com.br)
- - date_published: 2024-06-19T08:27:10.237939+00:00
-
- ## ENTELCO TELECOM
- - [https://entelco.com.br](https://entelco.com.br)
- - date_published: 2024-05-09T04:09:14.544901+00:00
-
- ## Home - Envolverde
- - [https://envolverde.com.br](https://envolverde.com.br)
- - date_published: 2025-01-15T20:22:57.024626+00:00
-
- ## Epoch Times Brasil - Verdade e Tradição
- - [https://www.epochtimes.com.br](https://www.epochtimes.com.br)
- - date_published: 2024-05-06T16:44:02.632996+00:00
-
- ## Epoch Tv Brasil - Verdade e tradição
- - [https://epochtv.com.br](https://epochtv.com.br)
- - date_published: 2024-06-24T07:35:14.137710+00:00
-
- ## Epoch TV
- - [https://plataforma.epochtv.com.br](https://plataforma.epochtv.com.br)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Epson Brasil | Página inicial
- - [https://epson.com.br](https://epson.com.br)
- - date_published: 2025-01-31T21:05:12.249004+00:00
-
- ## Pagina Inicial | Equifax
- - [https://www.equifax.com.br](https://www.equifax.com.br)
- - date_published: 2024-08-05T22:08:23.169243+00:00
-
- ## Empresa de Data Center e Tecnologias de Rede Corporativa | Equinix
- - [https://www.equinix.com.br](https://www.equinix.com.br)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Eriksen Costa
- - [https://blog.eriksen.com.br](https://blog.eriksen.com.br)
- - date_published: 2024-10-08T00:00:00+00:00
-
- ## Electric Guitar Strings, Acoustic Guitar Strings, Bass Strings, and Guitar Accessories
- - [https://www.ernieball.com.br](https://www.ernieball.com.br)
- - date_published: 2024-09-02T13:37:17.313478+00:00
-
- ## ERRÁTICA
- - [http://www.erratica.com.br](http://www.erratica.com.br)
- - date_published: 2024-12-17T21:48:13+00:00
-
- ## Escola do Teatro Bolshoi no Brasil
- - [https://www.escolabolshoi.com.br](https://www.escolabolshoi.com.br)
- - date_published: 2024-09-16T03:57:30.057620+00:00
 

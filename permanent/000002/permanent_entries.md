@@ -1,3 +1,31 @@
+ ## GenAI Summit San Francisco 2024
+ - [https://genaisummit.ai](https://genaisummit.ai)
+ - date_published: 2024-07-23T21:18:46.505729+00:00
+
+ ## GeneralPractice.AI | Healthcare
+ - [https://www.generalpractice.ai](https://www.generalpractice.ai)
+ - date_published: 2024-12-25T18:38:44.194338+00:00
+
+ ## Devlin's AI Portfolio
+ - [https://www.generativestorytelling.ai](https://www.generativestorytelling.ai)
+ - date_published: 2024-09-05T03:12:55+00:00
+
+ ## GenForge |  Accelerate your Productivity with Personal AI
+ - [https://www.genforge.ai](https://www.genforge.ai)
+ - date_published: 2024-06-19T19:08:43.529767+00:00
+
+ ## Genius.AI Your Sales and Marketing AI Copilot
+ - [https://www.genius.ai](https://www.genius.ai)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Genmo. The best open video generation models.
+ - [https://alpha.genmo.ai](https://alpha.genmo.ai)
+ - date_published: 2024-10-30T06:54:31.889222+00:00
+
+ ## Genspark - Reinvent Search, The AI Agent Engine.
+ - [https://www.genspark.ai](https://www.genspark.ai)
+ - date_published: 2025-01-11T09:13:01.832958+00:00
+
  ## Home | Gensyn
  - [https://www.gensyn.ai](https://www.gensyn.ai)
  - date_published: 2024-09-09T00:00:00+00:00
@@ -365,6 +393,10 @@
  ## GoEnhance AI - Video to video, Image enhancer and upscaler
  - [https://goenhance.ai](https://goenhance.ai)
  - date_published: 2024-06-14T08:59:21.004126+00:00
+
+ ## Home - Go Legal Ai
+ - [https://go-legal.ai](https://go-legal.ai)
+ - date_published: 2025-02-04T03:58:08.070733+00:00
 
  ## Goodfire AI
  - [https://www.goodfire.ai](https://www.goodfire.ai)
@@ -3098,6 +3130,10 @@
  - [https://magicschool.ai](https://magicschool.ai)
  - date_published: 2024-10-28T21:39:53+00:00
 
+ ## Magicteams.AI
+ - [http://magicteams.ai](http://magicteams.ai)
+ - date_published: 2025-02-04T17:17:25.552110+00:00
+
  ## Magic Tool AI. The ultimate productivity hub for all your needs.
  - [https://magictool.ai](https://magictool.ai)
  - date_published: 2024-07-05T10:45:32+00:00
@@ -3913,6 +3949,10 @@
  - [https://myroomdesigner.ai](https://myroomdesigner.ai)
  - date_published: 2024-10-30T21:18:28.369706+00:00
 
+ ## Myrtle - Machine learning acceleration for the data center
+ - [https://myrtle.ai](https://myrtle.ai)
+ - date_published: 2025-02-04T13:07:53.696404+00:00
+
  ## Cierpliwości...
  - [http://app.myshell.ai](http://app.myshell.ai)
  - date_published: 2024-06-19T19:06:55.062010+00:00
@@ -3988,44 +4028,4 @@
  ## Nansen Research Portal
  - [https://research.nansen.ai](https://research.nansen.ai)
  - date_published: 2025-02-02T00:30:36.630979+00:00
-
- ## Napkin AI - The visual AI for business storytelling
- - [https://napkin.ai](https://napkin.ai)
- - date_published: 2024-10-25T07:08:56+00:00
-
- ## Overview | Naptha Docs
- - [https://docs.naptha.ai](https://docs.naptha.ai)
- - date_published: 2025-01-22T23:45:59.156368+00:00
-
- ## AI Platform for Autonomous Agents, AI Applications and AI Research
- - [https://naptha.ai](https://naptha.ai)
- - date_published: 2025-01-22T23:46:07.069057+00:00
-
- ## AI Platform for Autonomous Agents, AI Applications and AI Research
- - [https://www.naptha.ai](https://www.naptha.ai)
- - date_published: 2025-01-08T12:35:48+00:00
-
- ## Homepage - Naratix
- - [https://naratix.ai](https://naratix.ai)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Narrativ
- - [https://narrativ.ai](https://narrativ.ai)
- - date_published: 2024-09-21T23:06:54.911063+00:00
-
- ## Narya AI - Building Mumble Note
- - [https://narya.ai](https://narya.ai)
- - date_published: 2025-01-15T03:30:57.929671+00:00
-
- ## AI for Science Workshop
- - [https://ai4science.nassma.ai](https://ai4science.nassma.ai)
- - date_published: 2024-09-13T17:58:43.598950+00:00
-
- ## Nastia | The Uncensored AI Companion
- - [https://nastia.ai](https://nastia.ai)
- - date_published: 2024-06-12T14:20:42+00:00
-
- ## Natasha Jaques
- - [https://natashajaques.ai](https://natashajaques.ai)
- - date_published: 2022-11-18T22:12:11+00:00
 

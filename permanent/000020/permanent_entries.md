@@ -1,3 +1,247 @@
+ ## EBC - Embed player
+ - [https://aovivo.ebc.com.br](https://aovivo.ebc.com.br)
+ - date_published: 2024-03-18T14:02:05+00:00
+
+ ## Canal Gov
+ - [https://canalgov.ebc.com.br](https://canalgov.ebc.com.br)
+ - date_published: 2024-07-11T21:34:11.277844+00:00
+
+ ## Rede Nacional de Rádio
+ - [https://redenacionalderadio.ebc.com.br](https://redenacionalderadio.ebc.com.br)
+ - date_published: 2016-11-03T22:30:21+00:00
+
+ ## Institucional
+ - [https://www.ebc.com.br](https://www.ebc.com.br)
+ - date_published: 2024-07-11T21:34:07.506479+00:00
+
+ ## Edições Jabuticaba
+ - [https://www.edicoesjabuticaba.com.br](https://www.edicoesjabuticaba.com.br)
+ - date_published: 2024-12-20T09:21:45.606167+00:00
+
+ ## Site em manutenção!
+ - [https://ediouro.com.br](https://ediouro.com.br)
+ - date_published: 2024-05-10T06:56:48.450857+00:00
+
+ ## MMP5
+ - [https://intranet.ediouro.com.br](https://intranet.ediouro.com.br)
+ - date_published: 2024-07-11T18:45:16+00:00
+
+ ## Ediouro Educação
+ - [https://ediouroeducacao.com.br](https://ediouroeducacao.com.br)
+ - date_published: 2024-07-13T02:18:27.512352+00:00
+
+ ## Edital Concursos Brasil - Concursos, INSS, FGTS e Auxílios
+ - [https://editalconcursosbrasil.com.br](https://editalconcursosbrasil.com.br)
+ - date_published: 2024-12-26T17:31:15+00:00
+
+ ## Loja Editora Agir
+ - [https://www.editoraagir.com.br](https://www.editoraagir.com.br)
+ - date_published: 2024-05-10T07:03:37.681199+00:00
+
+ ## Loja online de Editora Jaguatirica
+ - [https://loja.editorajaguatirica.com.br](https://loja.editorajaguatirica.com.br)
+ - date_published: 2024-12-21T14:54:20.797790+00:00
+
+ ## Editora Jaguatirica | Transforme as suas ideias em livros
+ - [http://publique.editorajaguatirica.com.br](http://publique.editorajaguatirica.com.br)
+ - date_published: 2020-04-13T20:23:39+00:00
+
+ ## Loja online de Editora Jaguatirica
+ - [http://www.editorajaguatirica.com.br](http://www.editorajaguatirica.com.br)
+ - date_published: 2024-12-20T07:10:34.523242+00:00
+
+ ## Editora Multifoco
+ - [http://www.editoramultifoco.com.br](http://www.editoramultifoco.com.br)
+ - date_published: 2024-12-20T10:29:34.606525+00:00
+
+ ## Editora Novo Céu
+ - [https://www.editoranovoceu.com.br](https://www.editoranovoceu.com.br)
+ - date_published: 2024-07-13T02:18:24.660703+00:00
+
+ ## Grupo Perfil
+ - [https://editoraperfil.com.br](https://editoraperfil.com.br)
+ - date_published: 2022-07-05T18:32:20+00:00
+
+ ## Editora Pinus
+ - [http://www.editorapinus.com.br](http://www.editorapinus.com.br)
+ - date_published: 2024-12-31T16:46:27.647275+00:00
+
+ ## Loja Editora Pixel
+ - [https://www.editorapixel.com.br](https://www.editorapixel.com.br)
+ - date_published: 2024-05-10T07:03:34.263956+00:00
+
+ ## Fundação Editora Unesp
+ - [http://www.editoraunesp.com.br](http://www.editoraunesp.com.br)
+ - date_published: 2024-07-15T07:34:34.755944+00:00
+
+ ## Blog do Edivaldo
+ - [https://www.edivaldobrito.com.br](https://www.edivaldobrito.com.br)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Edgard Kozlowski
+ - [http://edkf.com.br](http://edkf.com.br)
+ - date_published: 2024-07-13T14:55:34.207791+00:00
+
+ ## eduK
+ - [https://www.eduk.com.br](https://www.eduk.com.br)
+ - date_published: 2024-12-24T09:04:42.552648+00:00
+
+ ## EF Education First | Brasil
+ - [https://www.ef.com.br](https://www.ef.com.br)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## EGTC Infra – Engenharia em Evolução
+ - [https://egtc.com.br](https://egtc.com.br)
+ - date_published: 2024-07-13T02:15:32+00:00
+
+ ## Home - ✸ Ei, Bonita
+ - [https://eibonita.com.br](https://eibonita.com.br)
+ - date_published: 2024-07-03T23:18:02.791350+00:00
+
+ ## Ei Nerd - O portal do multiverso Nerd!
+ - [https://www.einerd.com.br](https://www.einerd.com.br)
+ - date_published: 2024-12-26T17:32:42.056592+00:00
+
+ ## eixos - Notícias de Energia e Política
+ - [https://eixos.com.br](https://eixos.com.br)
+ - date_published: 2025-01-15T20:19:20.064076+00:00
+
+ ## Brasil | Elecnor Brasil
+ - [http://elecnor.com.br](http://elecnor.com.br)
+ - date_published: 2024-10-14T21:20:43.328848+00:00
+
+ ## Mods GTA San Andreas
+ - [http://elitegta.com.br](http://elitegta.com.br)
+ - date_published: 2023-10-09T14:31:23+00:00
+
+ ## Bem-Vindo à ELIXIR Strings | Elixir® Strings
+ - [https://www.elixirstrings.com.br](https://www.elixirstrings.com.br)
+ - date_published: 2024-05-21T06:03:29+00:00
+
+ ## ELLE Brasil - A moda em movimento
+ - [https://elle.com.br](https://elle.com.br)
+ - date_published: 2025-02-01T11:06:29.088617+00:00
+
+ ## Elo7 | Produtos Especiais e Personalizados
+ - [https://www.elo7.com.br](https://www.elo7.com.br)
+ - date_published: 2024-08-07T20:56:01.880116+00:00
+
+ ## Elo® | Touchscreen Solutions | Official Website
+ - [https://www.elotouch.com.br](https://www.elotouch.com.br)
+ - date_published: 2025-02-01T11:54:50.843122+00:00
+
+ ## Estado de Minas: notícias e análises de MG, Brasil e do mundo
+ - [https://www.em.com.br](https://www.em.com.br)
+ - date_published: 2025-01-17T00:00:00+00:00
+
+ ## Cursos | Emagister
+ - [https://www.emagister.com.br](https://www.emagister.com.br)
+ - date_published: 2024-09-11T16:03:57.231489+00:00
+
+ ## Página Inicial - EmergeMag
+ - [https://emergemag.com.br](https://emergemag.com.br)
+ - date_published: 2023-12-07T00:00:00+00:00
+
+ ## Revista de Gestão Social e Ambiental
+ - [https://rgsa.emnuvens.com.br](https://rgsa.emnuvens.com.br)
+ - date_published: 2024-12-24T09:33:16.483522+00:00
+
+ ## GRUPO EP - Empresas Pioneiras
+ - [https://www.empresaspioneiras.com.br](https://www.empresaspioneiras.com.br)
+ - date_published: 2024-10-28T12:13:28.372386+00:00
+
+ ## Empréstimo Online e Rápido | Empréstimo Sim
+ - [https://emprestimosim.com.br](https://emprestimosim.com.br)
+ - date_published: 2024-06-14T19:05:45+00:00
+
+ ## Revisão de Inglês, correção de inglês para trabalhos acadêmicos, pesquisas e artigos científicos | Enago™ - Serviços de Edição, Correção e Revisão de Inglês
+ - [https://www.enago.com.br](https://www.enago.com.br)
+ - date_published: 2024-12-15T04:13:08.689803+00:00
+
+ ## Enel Brasil
+ - [https://www.enel.com.br](https://www.enel.com.br)
+ - date_published: 2025-01-02T20:34:29+00:00
+
+ ## Plataforma Enem - Blog do QG do Enem
+ - [https://blog.enem.com.br](https://blog.enem.com.br)
+ - date_published: 2024-06-16T15:36:12.077530+00:00
+
+ ## Plataforma Enem - Blog do QG do Enem
+ - [https://enem.com.br](https://enem.com.br)
+ - date_published: 2024-10-11T13:01:38.800537+00:00
+
+ ## Plataforma ENEM
+ - [https://plataforma.enem.com.br](https://plataforma.enem.com.br)
+ - date_published: 2024-09-26T13:16:21+00:00
+
+ ## Enfoco - O seu site de notícias
+ - [https://enfoco.com.br](https://enfoco.com.br)
+ - date_published: 2025-01-15T20:05:53.744490+00:00
+
+ ## Engesat - Soluções em imagens de satélite e georreferenciamento
+ - [https://www.engesat.com.br](https://www.engesat.com.br)
+ - date_published: 2024-05-04T08:13:47.489655+00:00
+
+ ## ENGIE Brasil
+ - [http://engie.com.br](http://engie.com.br)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Enjoei - Venda Rápida e Segura | Comece a Vender Agora
+ - [https://photos.enjoei.com.br](https://photos.enjoei.com.br)
+ - date_published: 2024-10-28T13:56:01+00:00
+
+ ## Enjoei - Venda Rápida e Segura | Comece a Vender Agora
+ - [https://www.enjoei.com.br](https://www.enjoei.com.br)
+ - date_published: 2024-06-19T08:27:10.237939+00:00
+
+ ## ENTELCO TELECOM
+ - [https://entelco.com.br](https://entelco.com.br)
+ - date_published: 2024-05-09T04:09:14.544901+00:00
+
+ ## Home - Envolverde
+ - [https://envolverde.com.br](https://envolverde.com.br)
+ - date_published: 2025-01-15T20:22:57.024626+00:00
+
+ ## Epoch Times Brasil - Verdade e Tradição
+ - [https://www.epochtimes.com.br](https://www.epochtimes.com.br)
+ - date_published: 2024-05-06T16:44:02.632996+00:00
+
+ ## Epoch Tv Brasil - Verdade e tradição
+ - [https://epochtv.com.br](https://epochtv.com.br)
+ - date_published: 2024-06-24T07:35:14.137710+00:00
+
+ ## Epoch TV
+ - [https://plataforma.epochtv.com.br](https://plataforma.epochtv.com.br)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Epson Brasil | Página inicial
+ - [https://epson.com.br](https://epson.com.br)
+ - date_published: 2025-01-31T21:05:12.249004+00:00
+
+ ## Pagina Inicial | Equifax
+ - [https://www.equifax.com.br](https://www.equifax.com.br)
+ - date_published: 2024-08-05T22:08:23.169243+00:00
+
+ ## Empresa de Data Center e Tecnologias de Rede Corporativa | Equinix
+ - [https://www.equinix.com.br](https://www.equinix.com.br)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Eriksen Costa
+ - [https://blog.eriksen.com.br](https://blog.eriksen.com.br)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## Electric Guitar Strings, Acoustic Guitar Strings, Bass Strings, and Guitar Accessories
+ - [https://www.ernieball.com.br](https://www.ernieball.com.br)
+ - date_published: 2024-09-02T13:37:17.313478+00:00
+
+ ## ERRÁTICA
+ - [http://www.erratica.com.br](http://www.erratica.com.br)
+ - date_published: 2024-12-17T21:48:13+00:00
+
+ ## Escola do Teatro Bolshoi no Brasil
+ - [https://www.escolabolshoi.com.br](https://www.escolabolshoi.com.br)
+ - date_published: 2024-09-16T03:57:30.057620+00:00
+
  ## Nova home
  - [https://escolaeducacao.com.br](https://escolaeducacao.com.br)
  - date_published: 2024-12-26T17:20:45+00:00
@@ -2490,6 +2734,10 @@
  - [http://www.skoob.com.br](http://www.skoob.com.br)
  - date_published: 2024-07-13T02:19:53.087886+00:00
 
+ ## Skullcandy Brasil
+ - [https://skullcandy.com.br](https://skullcandy.com.br)
+ - date_published: 2025-02-04T20:48:32.716463+00:00
+
  ## Skyscanner
  - [https://www.skyscanner.com.br](https://www.skyscanner.com.br)
  - date_published: 2024-05-14T10:10:11+00:00
@@ -2501,6 +2749,10 @@
  ## Fortune Tiger Slots | Jogo do Tigre da PG Soft
  - [https://slotfortunetiger.com.br](https://slotfortunetiger.com.br)
  - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Faça água com gás em casa | SodaStream - Loja Oficial
+ - [http://www.sodastream.com.br](http://www.sodastream.com.br)
+ - date_published: 2025-02-04T21:04:02.325017+00:00
 
  ## Notícias e análises de app, os melhores downloads - Softonic
  - [https://softonic.com.br](https://softonic.com.br)
@@ -3454,6 +3706,10 @@
  - [https://www.vunesp.com.br](https://www.vunesp.com.br)
  - date_published: 2024-07-15T07:34:12+00:00
 
+ ## EVO | Sistema para Academias e Espaços Fitness
+ - [https://w12.com.br](https://w12.com.br)
+ - date_published: 2025-02-04T03:59:00.322305+00:00
+
  ## WarnerBros.com.br | Home de Filmes WB, TV, Games e mais!
  - [https://warnerbros.com.br](https://warnerbros.com.br)
  - date_published: 2024-05-07T11:19:31.436385+00:00
@@ -3749,261 +4005,4 @@
  ## Atividades Escolares e Jogos Educativos: Palavras Cruzadas, Caça Palavras, Sudoku, Jogo da Memória, Passatempos, Atividades para Imprimir, Labirinto, Jogo dos 7 Erros, Quebra Cabeça, Desenhos para Colorir, Folhas Para Aprender Desenhar, Quiz Interativo.
  - [https://www.sol.eti.br](https://www.sol.eti.br)
  - date_published: 2022-03-26T18:09:40+00:00
-
- ## GOV.BR
- - [https://gov.br](https://gov.br)
- - date_published: 2023-12-11T19:33:23.992575+00:00
- - tags: ['government']
-
- ## Cadastro do AcessoGovBr
- - [https://cadastro.acesso.gov.br](https://cadastro.acesso.gov.br)
- - date_published: 2024-04-24T03:56:20+00:00
-
- ## Acesso GovBR
- - [https://contas.acesso.gov.br](https://contas.acesso.gov.br)
- - date_published: 2024-04-24T03:56:08+00:00
-
- ## Empresas gov.br
- - [https://empresas.acesso.gov.br](https://empresas.acesso.gov.br)
- - date_published: 2024-04-24T03:56:07+00:00
-
- ## Portal Logado
- - [https://servicos.acesso.gov.br](https://servicos.acesso.gov.br)
- - date_published: 2024-01-04T17:39:50+00:00
-
- ## Portal Logado
- - [https://sso.acesso.gov.br](https://sso.acesso.gov.br)
- - date_published: 2024-01-04T17:39:50+00:00
-
- ## Home
- - [http://acessoainformacao.gov.br](http://acessoainformacao.gov.br)
- - date_published: 2024-07-20T11:20:25.505697+00:00
-
- ## Banco Central do Brasil
- - [https://bcb.gov.br](https://bcb.gov.br)
- - date_published: 2024-05-12T04:09:19.217035+00:00
-
- ## Banco Central do Brasil
- - [https://cdn-www.bcb.gov.br](https://cdn-www.bcb.gov.br)
- - date_published: 2024-07-09T21:25:25+00:00
-
- ## Barra Brasil
- - [http://barra.brasil.gov.br](http://barra.brasil.gov.br)
- - date_published: 2023-12-07T13:59:42+00:00
-
- ## GOV.BR
- - [http://brasil.gov.br](http://brasil.gov.br)
- - date_published: 2024-07-11T21:36:28.910171+00:00
-
- ## CAIXA
- - [http://www.caixa.gov.br](http://www.caixa.gov.br)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## CAPES 70 anos
- - [https://70anos.capes.gov.br](https://70anos.capes.gov.br)
- - date_published: 2021-10-08T14:02:24+00:00
-
- ## CAPES 72 anos
- - [https://72anos.capes.gov.br](https://72anos.capes.gov.br)
- - date_published: 2023-07-27T21:23:34+00:00
-
- ## CAPES - Catálogo de Atos Administrativos
- - [http://cad.capes.gov.br](http://cad.capes.gov.br)
- - date_published: 2023-08-17T01:00:08+00:00
-
- ## CAPES
- - [https://capes.gov.br](https://capes.gov.br)
- - date_published: 2024-05-11T08:09:05.282834+00:00
-
- ## Catálogo de Teses & Dissertações - CAPES
- - [https://catalogodeteses.capes.gov.br](https://catalogodeteses.capes.gov.br)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Portal eduCapes:Inicio
- - [https://educapes.capes.gov.br](https://educapes.capes.gov.br)
- - date_published: 2024-07-13T18:16:46.473581+00:00
-
- ## Plataforma Freire
- - [https://freire.capes.gov.br](https://freire.capes.gov.br)
- - date_published: 2024-07-12T20:37:56+00:00
-
- ## GEOCAPES
- - [https://geocapes.capes.gov.br](https://geocapes.capes.gov.br)
- - date_published: 2023-10-17T19:08:16+00:00
-
- ## Declaração de Rendimentos
- - [https://informerendimentos.capes.gov.br](https://informerendimentos.capes.gov.br)
- - date_published: 2024-07-13T18:17:34.875432+00:00
-
- ## Revista Brasileira de Pós-Graduação
- - [https://rbpg.capes.gov.br](https://rbpg.capes.gov.br)
- - date_published: 2024-07-13T18:17:09.761963+00:00
-
- ## Plataforma Sucupira
- - [https://sucupira.capes.gov.br](https://sucupira.capes.gov.br)
- - date_published: 2024-07-13T18:16:50.909184+00:00
-
- ## Portal .periodicos. CAPES - Portal .periodicos. CAPES
- - [https://www.periodicos.capes.gov.br](https://www.periodicos.capes.gov.br)
- - date_published: 2024-07-07T06:41:55+00:00
-
- ## Central de Painéis
- - [https://centralpaineis.cgu.gov.br](https://centralpaineis.cgu.gov.br)
- - date_published: 2023-10-29T14:11:31+00:00
-
- ## e-Agendas - Sistema Eletrônico de Agendas do Poder Executivo Federal
- - [https://eagendas.cgu.gov.br](https://eagendas.cgu.gov.br)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
- - [https://falabr.cgu.gov.br](https://falabr.cgu.gov.br)
- - date_published: 2024-05-10T03:45:31.683367+00:00
-
- ## Entrar :: Contratos.gov.br
- - [https://contratos.comprasnet.gov.br](https://contratos.comprasnet.gov.br)
- - date_published: 2024-07-11T21:36:13.000481+00:00
-
- ## Página Inicial
- - [http://www.cvm.gov.br](http://www.cvm.gov.br)
- - date_published: 2024-09-29T20:21:08.136660+00:00
-
- ## Soluções digitais para governo e cidadão
- - [https://www.dataprev.gov.br](https://www.dataprev.gov.br)
- - date_published: 2024-07-13T00:09:20+00:00
-
- ## Página inicial | EBSERH
- - [https://moodle.ebserh.gov.br](https://moodle.ebserh.gov.br)
- - date_published: 2024-10-11T11:03:52+00:00
-
- ## Painel de Compras
- - [https://paineldecompras.economia.gov.br](https://paineldecompras.economia.gov.br)
- - date_published: 2024-05-10T03:46:31.262882+00:00
-
- ## Portal Receita
- - [http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br)
- - date_published: 2024-07-13T18:19:00.300997+00:00
-
- ## Finep - Início
- - [http://www.finep.gov.br](http://www.finep.gov.br)
- - date_published: 2024-05-11T08:08:50.663796+00:00
-
- ## Padrões Web em Governo Eletrônico e-PWG - Cartilha de Usabilidade
- - [http://epwg.governoeletronico.gov.br](http://epwg.governoeletronico.gov.br)
- - date_published: 2022-05-31T19:04:57+00:00
-
- ## Página Inicial | Memória IBGE
- - [https://memoria.ibge.gov.br](https://memoria.ibge.gov.br)
- - date_published: 2024-12-23T21:34:16+00:00
-
- ## Clima e Tempo
- - [http://www.inmet.gov.br](http://www.inmet.gov.br)
- - date_published: 2024-07-13T18:19:04.239906+00:00
-
- ## MJSP
- - [https://www.justica.gov.br](https://www.justica.gov.br)
- - date_published: 2024-06-27T05:59:17.125020+00:00
-
- ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
- - [http://sistema.ouvidorias.gov.br](http://sistema.ouvidorias.gov.br)
- - date_published: 2024-07-15T14:39:38+00:00
-
- ## Verificação de segurança
- - [https://prefeitura.pbh.gov.br](https://prefeitura.pbh.gov.br)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## PRESIDÊNCIA DA REPÚBLICA
- - [http://planalto.gov.br](http://planalto.gov.br)
- - date_published: 2019-07-31T21:17:32+00:00
-
- ## Portal Nacional de Contratações Públicas - PNCP
- - [https://pncp.gov.br](https://pncp.gov.br)
- - date_published: 2024-07-11T21:36:24.045029+00:00
-
- ## Portal da Transparência do Governo Federal
- - [https://portaldatransparencia.gov.br](https://portaldatransparencia.gov.br)
- - date_published: 2024-07-13T18:17:19.595963+00:00
-
- ## Portal da Transparência do Governo Federal
- - [http://www.portaltransparencia.gov.br](http://www.portaltransparencia.gov.br)
- - date_published: 2024-07-13T18:17:30.137388+00:00
-
- ## Brasil Participativo - Governo Federal
- - [https://brasilparticipativo.presidencia.gov.br](https://brasilparticipativo.presidencia.gov.br)
- - date_published: 2024-07-11T21:34:18.967548+00:00
-
- ## PRESIDÊNCIA DA REPÚBLICA
- - [https://presidencia.gov.br](https://presidencia.gov.br)
- - date_published: 2019-07-31T21:17:32+00:00
-
- ## Rede de Controle da Gestão Pública - Construindo parcerias para o controle público efetivo
- - [https://www.rededecontrole.gov.br](https://www.rededecontrole.gov.br)
- - date_published: 2024-07-13T18:12:23.948875+00:00
-
- ## Início
- - [http://www2.senado.gov.br](http://www2.senado.gov.br)
- - date_published: 2024-09-11T16:49:52.404092+00:00
-
- ## Senado Federal
- - [http://www.senado.gov.br](http://www.senado.gov.br)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## API RecomGov
- - [https://api.recomgov.df-1.estaleiro.serpro.gov.br](https://api.recomgov.df-1.estaleiro.serpro.gov.br)
- - date_published: 2024-05-10T03:45:28.970230+00:00
-
- ## Home | Loja Serpro | Serviços de Tecnologia da Informação
- - [https://loja.serpro.gov.br](https://loja.serpro.gov.br)
- - date_published: 2024-10-21T22:18:01.264515+00:00
-
- ## gov.br - Search Console
- - [https://portalunico.estaleiro.serpro.gov.br](https://portalunico.estaleiro.serpro.gov.br)
- - date_published: 2023-02-06T18:04:13+00:00
-
- ## Serpro
- - [https://serpro.gov.br](https://serpro.gov.br)
- - date_published: 2024-10-21T22:17:48.056359+00:00
-
- ## Serpro
- - [http://www.serpro.gov.br](http://www.serpro.gov.br)
- - date_published: 2024-06-18T12:06:56.402259+00:00
-
- ## Dúvidas Frequentes da Conta gov.br — Dúvidas Frequentes da Conta gov.br 1.0.0 documentation
- - [http://faq-login-unico.servicos.gov.br](http://faq-login-unico.servicos.gov.br)
- - date_published: 2024-04-24T03:56:05+00:00
-
- ## SIGAC - Sistema de Gestão de Acesso
- - [https://sso.gestaodeacesso.sigepe.gov.br](https://sso.gestaodeacesso.sigepe.gov.br)
- - date_published: 2024-10-11T11:02:30.879655+00:00
-
- ## VLibras Vídeo
- - [https://video.vlibras.gov.br](https://video.vlibras.gov.br)
- - date_published: 2024-06-27T16:13:43+00:00
-
- ## VLibras
- - [https://vlibras.gov.br](https://vlibras.gov.br)
- - date_published: 2024-05-10T03:45:38.908101+00:00
-
- ## WikiLibras - LAViD
- - [https://wiki.vlibras.gov.br](https://wiki.vlibras.gov.br)
- - date_published: 2024-07-11T21:35:17.472376+00:00
-
- ## A Voz do Brasil
- - [https://voz.gov.br](https://voz.gov.br)
- - date_published: 2021-11-25T00:00:00+00:00
-
- ## Mundo Negro - O melhor conteúdo sobre negros do Brasil - Mundo Negro
- - [https://mundonegro.inf.br](https://mundonegro.inf.br)
- - date_published: 2025-01-15T20:03:10.856805+00:00
-
- ## Núcleo Jornalismo
- - [https://nucleo.jor.br](https://nucleo.jor.br)
- - date_published: 2024-08-11T12:28:53.909319+00:00
-
- ## Notícias do RN e Nordeste | Jornalismo independente | SAIBA MAIS
- - [https://www.saibamais.jor.br](https://www.saibamais.jor.br)
- - date_published: 2025-01-15T20:06:29.895237+00:00
-
- ## Divulgação de Candidaturas e Contas Eleitorais
- - [https://divulgacandcontas.tse.jus.br](https://divulgacandcontas.tse.jus.br)
- - date_published: 2024-05-10T02:48:51.518311+00:00
 

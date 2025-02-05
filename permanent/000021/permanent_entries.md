@@ -1,3 +1,260 @@
+ ## GOV.BR
+ - [https://gov.br](https://gov.br)
+ - date_published: 2023-12-11T19:33:23.992575+00:00
+ - tags: ['government']
+
+ ## Cadastro do AcessoGovBr
+ - [https://cadastro.acesso.gov.br](https://cadastro.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:20+00:00
+
+ ## Acesso GovBR
+ - [https://contas.acesso.gov.br](https://contas.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:08+00:00
+
+ ## Empresas gov.br
+ - [https://empresas.acesso.gov.br](https://empresas.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:07+00:00
+
+ ## Portal Logado
+ - [https://servicos.acesso.gov.br](https://servicos.acesso.gov.br)
+ - date_published: 2024-01-04T17:39:50+00:00
+
+ ## Portal Logado
+ - [https://sso.acesso.gov.br](https://sso.acesso.gov.br)
+ - date_published: 2024-01-04T17:39:50+00:00
+
+ ## Home
+ - [http://acessoainformacao.gov.br](http://acessoainformacao.gov.br)
+ - date_published: 2024-07-20T11:20:25.505697+00:00
+
+ ## Banco Central do Brasil
+ - [https://bcb.gov.br](https://bcb.gov.br)
+ - date_published: 2024-05-12T04:09:19.217035+00:00
+
+ ## Banco Central do Brasil
+ - [https://cdn-www.bcb.gov.br](https://cdn-www.bcb.gov.br)
+ - date_published: 2024-07-09T21:25:25+00:00
+
+ ## Barra Brasil
+ - [http://barra.brasil.gov.br](http://barra.brasil.gov.br)
+ - date_published: 2023-12-07T13:59:42+00:00
+
+ ## GOV.BR
+ - [http://brasil.gov.br](http://brasil.gov.br)
+ - date_published: 2024-07-11T21:36:28.910171+00:00
+
+ ## CAIXA
+ - [http://www.caixa.gov.br](http://www.caixa.gov.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## CAPES 70 anos
+ - [https://70anos.capes.gov.br](https://70anos.capes.gov.br)
+ - date_published: 2021-10-08T14:02:24+00:00
+
+ ## CAPES 72 anos
+ - [https://72anos.capes.gov.br](https://72anos.capes.gov.br)
+ - date_published: 2023-07-27T21:23:34+00:00
+
+ ## CAPES - Catálogo de Atos Administrativos
+ - [http://cad.capes.gov.br](http://cad.capes.gov.br)
+ - date_published: 2023-08-17T01:00:08+00:00
+
+ ## CAPES
+ - [https://capes.gov.br](https://capes.gov.br)
+ - date_published: 2024-05-11T08:09:05.282834+00:00
+
+ ## Catálogo de Teses & Dissertações - CAPES
+ - [https://catalogodeteses.capes.gov.br](https://catalogodeteses.capes.gov.br)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Portal eduCapes:Inicio
+ - [https://educapes.capes.gov.br](https://educapes.capes.gov.br)
+ - date_published: 2024-07-13T18:16:46.473581+00:00
+
+ ## Plataforma Freire
+ - [https://freire.capes.gov.br](https://freire.capes.gov.br)
+ - date_published: 2024-07-12T20:37:56+00:00
+
+ ## GEOCAPES
+ - [https://geocapes.capes.gov.br](https://geocapes.capes.gov.br)
+ - date_published: 2023-10-17T19:08:16+00:00
+
+ ## Declaração de Rendimentos
+ - [https://informerendimentos.capes.gov.br](https://informerendimentos.capes.gov.br)
+ - date_published: 2024-07-13T18:17:34.875432+00:00
+
+ ## Revista Brasileira de Pós-Graduação
+ - [https://rbpg.capes.gov.br](https://rbpg.capes.gov.br)
+ - date_published: 2024-07-13T18:17:09.761963+00:00
+
+ ## Plataforma Sucupira
+ - [https://sucupira.capes.gov.br](https://sucupira.capes.gov.br)
+ - date_published: 2024-07-13T18:16:50.909184+00:00
+
+ ## Portal .periodicos. CAPES - Portal .periodicos. CAPES
+ - [https://www.periodicos.capes.gov.br](https://www.periodicos.capes.gov.br)
+ - date_published: 2024-07-07T06:41:55+00:00
+
+ ## Central de Painéis
+ - [https://centralpaineis.cgu.gov.br](https://centralpaineis.cgu.gov.br)
+ - date_published: 2023-10-29T14:11:31+00:00
+
+ ## e-Agendas - Sistema Eletrônico de Agendas do Poder Executivo Federal
+ - [https://eagendas.cgu.gov.br](https://eagendas.cgu.gov.br)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
+ - [https://falabr.cgu.gov.br](https://falabr.cgu.gov.br)
+ - date_published: 2024-05-10T03:45:31.683367+00:00
+
+ ## Entrar :: Contratos.gov.br
+ - [https://contratos.comprasnet.gov.br](https://contratos.comprasnet.gov.br)
+ - date_published: 2024-07-11T21:36:13.000481+00:00
+
+ ## Página Inicial
+ - [http://www.cvm.gov.br](http://www.cvm.gov.br)
+ - date_published: 2024-09-29T20:21:08.136660+00:00
+
+ ## Soluções digitais para governo e cidadão
+ - [https://www.dataprev.gov.br](https://www.dataprev.gov.br)
+ - date_published: 2024-07-13T00:09:20+00:00
+
+ ## Página inicial | EBSERH
+ - [https://moodle.ebserh.gov.br](https://moodle.ebserh.gov.br)
+ - date_published: 2024-10-11T11:03:52+00:00
+
+ ## Painel de Compras
+ - [https://paineldecompras.economia.gov.br](https://paineldecompras.economia.gov.br)
+ - date_published: 2024-05-10T03:46:31.262882+00:00
+
+ ## Portal Receita
+ - [http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br)
+ - date_published: 2024-07-13T18:19:00.300997+00:00
+
+ ## Finep - Início
+ - [http://www.finep.gov.br](http://www.finep.gov.br)
+ - date_published: 2024-05-11T08:08:50.663796+00:00
+
+ ## Padrões Web em Governo Eletrônico e-PWG - Cartilha de Usabilidade
+ - [http://epwg.governoeletronico.gov.br](http://epwg.governoeletronico.gov.br)
+ - date_published: 2022-05-31T19:04:57+00:00
+
+ ## Página Inicial | Memória IBGE
+ - [https://memoria.ibge.gov.br](https://memoria.ibge.gov.br)
+ - date_published: 2024-12-23T21:34:16+00:00
+
+ ## Clima e Tempo
+ - [http://www.inmet.gov.br](http://www.inmet.gov.br)
+ - date_published: 2024-07-13T18:19:04.239906+00:00
+
+ ## MJSP
+ - [https://www.justica.gov.br](https://www.justica.gov.br)
+ - date_published: 2024-06-27T05:59:17.125020+00:00
+
+ ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
+ - [http://sistema.ouvidorias.gov.br](http://sistema.ouvidorias.gov.br)
+ - date_published: 2024-07-15T14:39:38+00:00
+
+ ## Verificação de segurança
+ - [https://prefeitura.pbh.gov.br](https://prefeitura.pbh.gov.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## PRESIDÊNCIA DA REPÚBLICA
+ - [http://planalto.gov.br](http://planalto.gov.br)
+ - date_published: 2019-07-31T21:17:32+00:00
+
+ ## Portal Nacional de Contratações Públicas - PNCP
+ - [https://pncp.gov.br](https://pncp.gov.br)
+ - date_published: 2024-07-11T21:36:24.045029+00:00
+
+ ## Portal da Transparência do Governo Federal
+ - [https://portaldatransparencia.gov.br](https://portaldatransparencia.gov.br)
+ - date_published: 2024-07-13T18:17:19.595963+00:00
+
+ ## Portal da Transparência do Governo Federal
+ - [http://www.portaltransparencia.gov.br](http://www.portaltransparencia.gov.br)
+ - date_published: 2024-07-13T18:17:30.137388+00:00
+
+ ## Brasil Participativo - Governo Federal
+ - [https://brasilparticipativo.presidencia.gov.br](https://brasilparticipativo.presidencia.gov.br)
+ - date_published: 2024-07-11T21:34:18.967548+00:00
+
+ ## PRESIDÊNCIA DA REPÚBLICA
+ - [https://presidencia.gov.br](https://presidencia.gov.br)
+ - date_published: 2019-07-31T21:17:32+00:00
+
+ ## Rede de Controle da Gestão Pública - Construindo parcerias para o controle público efetivo
+ - [https://www.rededecontrole.gov.br](https://www.rededecontrole.gov.br)
+ - date_published: 2024-07-13T18:12:23.948875+00:00
+
+ ## Início
+ - [http://www2.senado.gov.br](http://www2.senado.gov.br)
+ - date_published: 2024-09-11T16:49:52.404092+00:00
+
+ ## Senado Federal
+ - [http://www.senado.gov.br](http://www.senado.gov.br)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## API RecomGov
+ - [https://api.recomgov.df-1.estaleiro.serpro.gov.br](https://api.recomgov.df-1.estaleiro.serpro.gov.br)
+ - date_published: 2024-05-10T03:45:28.970230+00:00
+
+ ## Home | Loja Serpro | Serviços de Tecnologia da Informação
+ - [https://loja.serpro.gov.br](https://loja.serpro.gov.br)
+ - date_published: 2024-10-21T22:18:01.264515+00:00
+
+ ## gov.br - Search Console
+ - [https://portalunico.estaleiro.serpro.gov.br](https://portalunico.estaleiro.serpro.gov.br)
+ - date_published: 2023-02-06T18:04:13+00:00
+
+ ## Serpro
+ - [https://serpro.gov.br](https://serpro.gov.br)
+ - date_published: 2024-10-21T22:17:48.056359+00:00
+
+ ## Serpro
+ - [http://www.serpro.gov.br](http://www.serpro.gov.br)
+ - date_published: 2024-06-18T12:06:56.402259+00:00
+
+ ## Dúvidas Frequentes da Conta gov.br — Dúvidas Frequentes da Conta gov.br 1.0.0 documentation
+ - [http://faq-login-unico.servicos.gov.br](http://faq-login-unico.servicos.gov.br)
+ - date_published: 2024-04-24T03:56:05+00:00
+
+ ## SIGAC - Sistema de Gestão de Acesso
+ - [https://sso.gestaodeacesso.sigepe.gov.br](https://sso.gestaodeacesso.sigepe.gov.br)
+ - date_published: 2024-10-11T11:02:30.879655+00:00
+
+ ## VLibras Vídeo
+ - [https://video.vlibras.gov.br](https://video.vlibras.gov.br)
+ - date_published: 2024-06-27T16:13:43+00:00
+
+ ## VLibras
+ - [https://vlibras.gov.br](https://vlibras.gov.br)
+ - date_published: 2024-05-10T03:45:38.908101+00:00
+
+ ## WikiLibras - LAViD
+ - [https://wiki.vlibras.gov.br](https://wiki.vlibras.gov.br)
+ - date_published: 2024-07-11T21:35:17.472376+00:00
+
+ ## A Voz do Brasil
+ - [https://voz.gov.br](https://voz.gov.br)
+ - date_published: 2021-11-25T00:00:00+00:00
+
+ ## Mundo Negro - O melhor conteúdo sobre negros do Brasil - Mundo Negro
+ - [https://mundonegro.inf.br](https://mundonegro.inf.br)
+ - date_published: 2025-01-15T20:03:10.856805+00:00
+
+ ## Núcleo Jornalismo
+ - [https://nucleo.jor.br](https://nucleo.jor.br)
+ - date_published: 2024-08-11T12:28:53.909319+00:00
+
+ ## Notícias do RN e Nordeste | Jornalismo independente | SAIBA MAIS
+ - [https://www.saibamais.jor.br](https://www.saibamais.jor.br)
+ - date_published: 2025-01-15T20:06:29.895237+00:00
+
+ ## Divulgação de Candidaturas e Contas Eleitorais
+ - [https://divulgacandcontas.tse.jus.br](https://divulgacandcontas.tse.jus.br)
+ - date_published: 2024-05-10T02:48:51.518311+00:00
+
  ## Resultados Oficial
  - [https://resultados.tse.jus.br](https://resultados.tse.jus.br)
  - date_published: 2022-11-10T22:48:19+00:00
@@ -2018,6 +2275,10 @@
  - [https://www.hilti.bz](https://www.hilti.bz)
  - date_published: 2025-01-17T20:10:49.956136+00:00
 
+ ## HitClub - แพลตฟอร์มเกมออนไลน์ที่ดีที่สุด
+ - [https://hitclub.bz](https://hitclub.bz)
+ - date_published: 2025-02-04T20:34:27.499506+00:00
+
  ## jennifer-lopez.bz
  - [http://www.jennifer-lopez.bz](http://www.jennifer-lopez.bz)
  - date_published: 2024-11-16T22:17:16.467925+00:00
@@ -2470,6 +2731,10 @@
  - [https://afewgoodminds.ca](https://afewgoodminds.ca)
  - date_published: 2024-07-15T00:00:00+00:00
 
+ ## Affirming Care – Your Effortless and Inclusive  Pharmacy
+ - [https://www.affirmingcare.ca](https://www.affirmingcare.ca)
+ - date_published: 2025-02-04T11:42:43.775387+00:00
+
  ## Assembly of First Nations: Representing First Nation citizens in Canada
  - [https://www.afn.ca](https://www.afn.ca)
  - date_published: 2024-05-15T00:00:00+00:00
@@ -2591,9 +2856,17 @@
  - [https://ucahelps.alberta.ca](https://ucahelps.alberta.ca)
  - date_published: 2024-12-30T23:53:50.862320+00:00
 
+ ## Alberta Centre for Advanced Diagnostics (ACAD)
+ - [https://www.albertadiagnostics.ca](https://www.albertadiagnostics.ca)
+ - date_published: 2025-02-04T20:22:09.924410+00:00
+
  ## Alberta Film Commission
  - [http://albertafilm.ca](http://albertafilm.ca)
  - date_published: 2025-01-25T13:43:46.454026+00:00
+
+ ## Home | Alberta Health Services
+ - [https://albertahealthservices.ca](https://albertahealthservices.ca)
+ - date_published: 2025-02-04T23:11:23.358839+00:00
 
  ## Alberta Innovates
  - [http://albertainnovates.ca](http://albertainnovates.ca)
@@ -2764,6 +3037,14 @@
  - [http://www.aneweconomy.ca](http://www.aneweconomy.ca)
  - date_published: 2025-01-17T00:20:07.236204+00:00
 
+ ## Anglican Diocese of New Westminster
+ - [http://vancouver.anglican.ca](http://vancouver.anglican.ca)
+ - date_published: 2025-02-04T21:15:58.570584+00:00
+
+ ## Welcome to the Anglican Church of Canada
+ - [http://www.anglican.ca](http://www.anglican.ca)
+ - date_published: 2025-02-04T21:15:55.232552+00:00
+
  ## Animalhospitals in Canada, Canada
  - [http://www.animalhospitals.ca](http://www.animalhospitals.ca)
  - date_published: 2024-06-03T00:00:00+00:00
@@ -2848,6 +3129,10 @@
  - [https://www.ar.ca](https://www.ar.ca)
  - date_published: 2025-01-25T12:58:42.845368+00:00
 
+ ## Accueil - Arbres Canada
+ - [https://arbrescanada.ca](https://arbrescanada.ca)
+ - date_published: 2025-02-04T22:44:56.903022+00:00
+
  ## Arcadia Earth | An Immersive Art & Technology Experience
  - [http://www.arcadiaearth.ca](http://www.arcadiaearth.ca)
  - date_published: 2024-06-27T00:00:00+00:00
@@ -2924,6 +3209,10 @@
  ## ICI ARTV chaîne de télévision culturelle
  - [http://ici.artv.ca](http://ici.artv.ca)
  - date_published: 2024-07-10T05:32:11.843695+00:00
+
+ ## Acceuil - Arundo
+ - [https://arundo.ca](https://arundo.ca)
+ - date_published: 2025-02-04T21:10:08.604323+00:00
 
  ## A School, A Park 2018
  - [http://a-school-a-park.ca](http://a-school-a-park.ca)
@@ -3149,6 +3438,10 @@
  ## ERROR: The requested URL could not be retrieved
  - [https://mkweb.bcgsc.ca](https://mkweb.bcgsc.ca)
  - date_published: 2024-01-09T02:27:13.939554+00:00
+
+ ## British Columbia Institute of Technology (BCIT) - BCIT
+ - [http://bcit.ca](http://bcit.ca)
+ - date_published: 2025-02-04T21:55:54.761511+00:00
 
  ## British Columbia Library Association | BCLA Connect
  - [https://bclaconnect.ca](https://bclaconnect.ca)
@@ -3543,6 +3836,10 @@
  - [http://crosswordcorner.blogspot.ca](http://crosswordcorner.blogspot.ca)
  - date_published: 2024-07-04T03:30:00+00:00
 
+ ## The CRPG Addict
+ - [https://crpgaddict.blogspot.ca](https://crpgaddict.blogspot.ca)
+ - date_published: 2025-02-04T17:57:50.974263+00:00
+
  ## David Barron Furniture
  - [http://davidbarronfurniture.blogspot.ca](http://davidbarronfurniture.blogspot.ca)
  - date_published: 2024-08-19T05:55:00+00:00
@@ -3715,304 +4012,7 @@
  - [http://objectivesecured.blogspot.ca](http://objectivesecured.blogspot.ca)
  - date_published: 2024-10-24T09:17:39+00:00
 
- ## The Old World Army Challenge
- - [https://oldworldarmychallenge.blogspot.ca](https://oldworldarmychallenge.blogspot.ca)
- - date_published: 2024-10-26T09:09:08+00:00
-
- ## PaleoJudaica.com
- - [http://paleojudaica.blogspot.ca](http://paleojudaica.blogspot.ca)
- - date_published: 2024-10-29T11:23:49+00:00
-
- ## Past Times and Present Tensions
- - [http://pasttimesandpresnttensions.blogspot.ca](http://pasttimesandpresnttensions.blogspot.ca)
- - date_published: 2017-08-23T10:54:00+00:00
-
- ## Peabody Here!
- - [http://peabody-here.blogspot.ca](http://peabody-here.blogspot.ca)
- - date_published: 2024-10-14T03:06:51+00:00
-
- ## People in white coats
- - [http://peopleinwhitecoats.blogspot.ca](http://peopleinwhitecoats.blogspot.ca)
- - date_published: 2025-02-01T18:38:46.698025+00:00
-
- ## The Pervocracy
- - [http://pervocracy.blogspot.ca](http://pervocracy.blogspot.ca)
- - date_published: 2024-10-18T14:37:09.571206+00:00
-
- ## PhD Talk
- - [https://phdtalk.blogspot.ca](https://phdtalk.blogspot.ca)
- - date_published: 2024-05-02T10:13:04.341653+00:00
-
- ## Philosophy Made Manifest
- - [http://philosophymademanifest.blogspot.ca](http://philosophymademanifest.blogspot.ca)
- - date_published: 2024-10-09T17:52:44+00:00
-
- ## Western Undergrad Mathematics Pizza Seminar
- - [http://pizzaseminaruwo.blogspot.ca](http://pizzaseminaruwo.blogspot.ca)
- - date_published: 2024-03-19T08:48:24+00:00
-
- ## Plaid Stallions : Rambling and Reflections on '70s pop culture
- - [http://plaidstallions.blogspot.ca](http://plaidstallions.blogspot.ca)
- - date_published: 2024-12-01T11:38:29+00:00
-
- ## Sentient Developments Podcast
- - [https://podcastsentdev.blogspot.ca](https://podcastsentdev.blogspot.ca)
- - date_published: 2024-10-07T03:39:27+00:00
-
- ## Posthegemony
- - [http://posthegemony.blogspot.ca](http://posthegemony.blogspot.ca)
- - date_published: 2024-12-19T03:26:50+00:00
-
- ## Pascal Rapicault
- - [http://prapicault.blogspot.ca](http://prapicault.blogspot.ca)
- - date_published: 2024-10-25T07:00:50+00:00
-
- ## arcana arcanissima
- - [http://prunella-vulgaris.blogspot.ca](http://prunella-vulgaris.blogspot.ca)
- - date_published: 2024-12-19T03:32:05+00:00
-
- ## *Reflective Disequilibrium*
- - [https://reflectivedisequilibrium.blogspot.ca](https://reflectivedisequilibrium.blogspot.ca)
- - date_published: 2020-10-15T00:00:00+00:00
-
- ## Regency Ramble
- - [http://regencyramble.blogspot.ca](http://regencyramble.blogspot.ca)
- - date_published: 2024-12-14T08:22:07+00:00
-
- ## Releng of the Nerds
- - [http://relengofthenerds.blogspot.ca](http://relengofthenerds.blogspot.ca)
- - date_published: 2024-09-02T08:23:06+00:00
-
- ## Kriegs Corner
- - [http://ritterkrieg.blogspot.ca](http://ritterkrieg.blogspot.ca)
- - date_published: 2024-12-19T03:26:17+00:00
-
- ## Rob Sanders Speculative Fiction
- - [http://rob-sanders.blogspot.ca](http://rob-sanders.blogspot.ca)
- - date_published: 2025-01-20T17:06:37.463552+00:00
-
- ## Roll of Nickels
- - [http://rollofnickels.blogspot.ca](http://rollofnickels.blogspot.ca)
- - date_published: 2025-01-01T11:24:45+00:00
-
- ## Shadow Prophets
- - [http://shadowprophets.blogspot.ca](http://shadowprophets.blogspot.ca)
- - date_published: 2024-08-30T16:03:51+00:00
-
- ## Muhlberger's World History
- - [https://smuhlberger.blogspot.ca](https://smuhlberger.blogspot.ca)
- - date_published: 2024-09-04T07:12:14+00:00
-
- ## Didcot Wargames Club
- - [http://standwargaming.blogspot.ca](http://standwargaming.blogspot.ca)
- - date_published: 2024-10-23T23:01:04+00:00
-
- ## Take The High Ground
- - [http://takethehighground.blogspot.ca](http://takethehighground.blogspot.ca)
- - date_published: 2024-12-25T08:35:22+00:00
-
- ## The Analogue Hobbies Painting Challenge
- - [https://thepaintingchallenge.blogspot.ca](https://thepaintingchallenge.blogspot.ca)
- - date_published: 2025-02-01T19:15:48.332293+00:00
-
- ## The Privates Eternal
- - [http://theprivateseternal.blogspot.ca](http://theprivateseternal.blogspot.ca)
- - date_published: 2024-06-29T22:15:34+00:00
-
- ## Thrilling Wonder Artwork
- - [http://thrillingwonderartwork.blogspot.ca](http://thrillingwonderartwork.blogspot.ca)
- - date_published: 2024-02-20T07:37:40+00:00
-
- ## Thrilling Wonder Writing
- - [http://thrillingwonderwriting.blogspot.ca](http://thrillingwonderwriting.blogspot.ca)
- - date_published: 2023-11-15T19:08:07+00:00
-
- ## Tom Nelson
- - [https://tomnelson.blogspot.ca](https://tomnelson.blogspot.ca)
- - date_published: 2024-05-06T23:32:23.707679+00:00
-
- ## Transit Futures
- - [http://transitfutures.blogspot.ca](http://transitfutures.blogspot.ca)
- - date_published: 2024-02-07T06:29:13+00:00
-
- ## Tuva / Feynman News
- - [http://tuvafeynman.blogspot.ca](http://tuvafeynman.blogspot.ca)
- - date_published: 2024-09-25T05:22:21+00:00
-
- ## Building Community. Будуємо громаду.
- - [http://ucu-building-community.blogspot.ca](http://ucu-building-community.blogspot.ca)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## What's Happening in Toronto Linguistics
- - [http://utlinguistics.blogspot.ca](http://utlinguistics.blogspot.ca)
- - date_published: 2024-07-19T07:00:00+00:00
-
- ## UTSC Pulse
- - [http://utscpulse.blogspot.ca](http://utscpulse.blogspot.ca)
- - date_published: 2024-09-08T09:40:22+00:00
-
- ## James Wappel Miniature Painting
- - [http://wappellious.blogspot.ca](http://wappellious.blogspot.ca)
- - date_published: 2024-10-20T21:49:58+00:00
-
- ## Whole, Fresh, Delicious
- - [http://wholefreshdelicious.blogspot.ca](http://wholefreshdelicious.blogspot.ca)
- - date_published: 2015-04-04T00:00:00+00:00
-
- ## Written Inc.
- - [http://writteninc.blogspot.ca](http://writteninc.blogspot.ca)
- - date_published: 2024-10-29T14:11:04+00:00
-
- ## Paint Bard
- - [http://www.paintbard.blogspot.ca](http://www.paintbard.blogspot.ca)
- - date_published: 2024-06-03T17:39:04+00:00
-
- ## Sons of Taurus
- - [http://www.sonsoftaurus.blogspot.ca](http://www.sonsoftaurus.blogspot.ca)
- - date_published: 2024-09-05T09:40:33+00:00
-
- ## You Magnificent Bastard
- - [http://youmagnificentbastard.blogspot.ca](http://youmagnificentbastard.blogspot.ca)
- - date_published: 2025-01-20T17:06:14.749500+00:00
-
- ## Pacific Blue Cross - BC's #1 provider of health, dental and travel benefits
- - [https://www.pac.bluecross.ca](https://www.pac.bluecross.ca)
- - date_published: 2024-06-27T13:06:35.742393+00:00
-
- ## Créez, imprimez et vendez des livres photos de qualité professionnelle | Blurb
- - [https://fr.blurb.ca](https://fr.blurb.ca)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Create, Print, & Sell Professional-Quality Photo Books | Blurb
- - [https://www.blurb.ca](https://www.blurb.ca)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Home - B'nai Brith Canada - B'nai Brith Canada
- - [http://www.bnaibrith.ca](http://www.bnaibrith.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Services bancaires / Banking Services
- - [https://app.bnc.ca](https://app.bnc.ca)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Une carrière à la Banque Nationale
- - [https://emplois.bnc.ca](https://emplois.bnc.ca)
- - date_published: 2024-08-19T10:54:55+00:00
-
- ## Nous sommes désolés
- - [https://extranet2.portail.bnc.ca](https://extranet2.portail.bnc.ca)
- - date_published: 2013-05-03T19:25:43+00:00
-
- ## Solutions bancaires aux particuliers | Banque Nationale
- - [https://www.bnc.ca](https://www.bnc.ca)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## BNN Bloomberg - Canadian Business News, TSX Today, interest rates and Bank of Canada coverage
- - [https://bnnbloomberg.ca](https://bnnbloomberg.ca)
- - date_published: 2023-10-25T12:03:55.221507+00:00
-
- ## Video Production and Creative Agency - Welcome to BNR - Guelph, ON
- - [https://bnrmediagroup.ca](https://bnrmediagroup.ca)
- - date_published: 2024-05-06T12:56:47.739507+00:00
-
- ## Boats in Canada, Canada
- - [http://www.boats.ca](http://www.boats.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Bodyshop in Canada, Canada
- - [http://www.bodyshop.ca](http://www.bodyshop.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Canada
- - [https://boeing.ca](https://boeing.ca)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## ACCUEIL
- - [https://boisrichart.ca](https://boisrichart.ca)
- - date_published: 2024-09-10T11:07:20+00:00
-
- ## Bold Growth Inc.
- - [https://boldgrowth.ca](https://boldgrowth.ca)
- - date_published: 2024-09-17T16:40:19.630047+00:00
-
- ## BOMA Canada – English
- - [https://bomacanada.ca](https://bomacanada.ca)
- - date_published: 2024-10-14T17:05:02+00:00
-
- ## Online Head Shop | Bong Outlet-Free Shipping on Bongs,Pipes and More
- - [http://www.bongoutlet.ca](http://www.bongoutlet.ca)
- - date_published: 2024-12-22T10:44:38.223772+00:00
-
- ## About - Bonnie Allen
- - [http://www.bonnieallen.ca](http://www.bonnieallen.ca)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Best Online Gambling Sites Canada - July 2024
- - [https://www.bonus.ca](https://www.bonus.ca)
- - date_published: 2024-07-17T04:39:38.556981+00:00
-
- ## Book*hug Press
- - [https://bookhugpress.ca](https://bookhugpress.ca)
- - date_published: 2020-04-27T19:55:50+00:00
-
- ## Bookmark Bookstores Location Picker
- - [https://bookmarkreads.ca](https://bookmarkreads.ca)
- - date_published: 2023-08-29T22:58:55+00:00
-
- ## Tech Forum
- - [http://techforum.booknetcanada.ca](http://techforum.booknetcanada.ca)
- - date_published: 2024-07-03T18:30:29.402060+00:00
-
- ## BookNet Canada
- - [https://www.booknetcanada.ca](https://www.booknetcanada.ca)
- - date_published: 2024-07-03T18:31:14.772377+00:00
-
- ## Book*hug Press
- - [http://bookthug.ca](http://bookthug.ca)
- - date_published: 2020-04-27T19:55:50+00:00
-
- ## Bookware 3000
- - [https://bookware3000.ca](https://bookware3000.ca)
- - date_published: 2024-07-21T09:04:42.629619+00:00
-
- ## Home - George Brown College CAMPUS STORES
- - [https://gbcbookstore.bookware3000.ca](https://gbcbookstore.bookware3000.ca)
- - date_published: 2024-09-24T21:20:39.940869+00:00
-
- ## Boom12 Communications
- - [https://boom12.ca](https://boom12.ca)
- - date_published: 2024-12-31T00:50:37+00:00
-
- ## Home
- - [https://borden-carleton.ca](https://borden-carleton.ca)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Borealis: The Canadian Dataverse Repository
- - [https://borealisdata.ca](https://borealisdata.ca)
- - date_published: 2024-06-27T21:35:09+00:00
-
- ## Homepage
- - [https://www.bornontario.ca](https://www.bornontario.ca)
- - date_published: 2025-02-03T06:04:35.396194+00:00
-
- ## Home
- - [https://www.bosch.ca](https://www.bosch.ca)
- - date_published: 2024-10-14T06:45:05+00:00
-
- ## Kitchen Appliances | Home Appliances | High-end Appliances from Bosch
- - [https://www.bosch-home.ca](https://www.bosch-home.ca)
- - date_published: 2024-06-16T21:36:38.612906+00:00
-
- ## Boschko Security Blog
- - [https://boschko.ca](https://boschko.ca)
- - date_published: 2024-12-02T21:07:05.152398+00:00
-
- ## Headphones, Speakers, Wearables | Bose | Feel More, Do More
-        Bose
- - [https://www.bose.ca](https://www.bose.ca)
- - date_published: 2024-08-05T21:31:07.414418+00:00
-
- ## Spa Détente au Vieux-Port de Montréal | Bota Bota, spa-sur-l’eau
- - [http://botabota.ca](http://botabota.ca)
- - date_published: 2024-06-26T00:00:00+00:00
+ ## Old Machinery
+ - [https://oldmachinery.blogspot.ca](https://oldmachinery.blogspot.ca)
+ - date_published: 2025-02-04T17:57:48.705265+00:00
 
