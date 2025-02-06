@@ -1,3 +1,23 @@
+ ## Momentum
+ - [https://gainmomentum.ai](https://gainmomentum.ai)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## AI Powered Cloud DLP for SaaS
+ - [https://gamma.ai](https://gamma.ai)
+ - date_published: 2022-04-28T17:58:27+00:00
+
+ ## Welcome to garak! | garak
+ - [https://docs.garak.ai](https://docs.garak.ai)
+ - date_published: 2024-10-28T00:16:48.378531+00:00
+
+ ## Gatik
+ - [http://www.gatik.ai](http://www.gatik.ai)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Gemma - The AI design assistant
+ - [https://web.gemma.ai](https://web.gemma.ai)
+ - date_published: 2024-06-25T14:58:13+00:00
+
  ## GenAI Summit San Francisco 2024
  - [https://genaisummit.ai](https://genaisummit.ai)
  - date_published: 2024-07-23T21:18:46.505729+00:00
@@ -3740,6 +3760,10 @@
  - [https://moondream.ai](https://moondream.ai)
  - date_published: 2024-12-07T02:27:30+00:00
 
+ ## Moontower Blog
+ - [https://blog.moontower.ai](https://blog.moontower.ai)
+ - date_published: 2025-02-05T07:47:11.502186+00:00
+
  ## Moontower - options trading analytics
  - [https://moontower.ai](https://moontower.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -3888,6 +3912,7 @@
  ## Mycroft – The Open Source Privacy-Focused Voice Assistant - Mycroft
  - [https://mycroft.ai](https://mycroft.ai)
  - date_published: 2023-10-25T08:32:40.290881+00:00
+ - tags: ['open source', 'voice assistant']
 
  ## myEssai | AI Powered Essay Tutor
  - [https://myess.ai](https://myess.ai)
@@ -4004,28 +4029,4 @@
  ## Find the perfect name with Cuqui Baby Names
  - [https://namewith.ai](https://namewith.ai)
  - date_published: 2024-10-30T09:14:45.967638+00:00
-
- ## namewizard.ai - your AI-superpowered domain name generator
- - [https://namewizard.ai](https://namewizard.ai)
- - date_published: 2024-06-19T20:12:21.322551+00:00
-
- ## Namy
- - [https://namy.ai](https://namy.ai)
- - date_published: 2024-06-19T18:56:30.741653+00:00
-
- ## nanosaur
- - [https://nanosaur.ai](https://nanosaur.ai)
- - date_published: 2023-06-27T12:34:59+00:00
-
- ## Nansen | Onchain Analytics for Crypto Investors & Teams
- - [https://nansen.ai](https://nansen.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Nansen | Crypto, Defi & NFT Analytics
- - [http://pro.nansen.ai](http://pro.nansen.ai)
- - date_published: 2024-09-12T19:22:05.015353+00:00
-
- ## Nansen Research Portal
- - [https://research.nansen.ai](https://research.nansen.ai)
- - date_published: 2025-02-02T00:30:36.630979+00:00
 

@@ -372,6 +372,10 @@
  - [https://moodle.academy](https://moodle.academy)
  - date_published: 2024-05-08T10:30:04.367653+00:00
 
+ ## MyEclass Academy
+ - [https://myeclass.academy](https://myeclass.academy)
+ - date_published: 2025-02-05T07:17:29.133853+00:00
+
  ## Entdecke die Vielfalt des Yoga für ein erfüllteres Leben
  - [https://niyama.academy](https://niyama.academy)
  - date_published: 2024-09-06T21:06:42+00:00
@@ -4015,8 +4019,4 @@
  ## BeagleBone® AI-64
  - [https://beaglebone.ai](https://beaglebone.ai)
  - date_published: 2024-07-30T00:00:00+00:00
-
- ## Beamo - Accounts
- - [https://accounts.beamo.ai](https://accounts.beamo.ai)
- - date_published: 2024-08-19T07:23:45+00:00
 

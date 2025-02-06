@@ -1,3 +1,353 @@
+ ## Gillette Venus Women's Razors and Shaving Products | Venus CA
+ - [https://www.gillettevenus.ca](https://www.gillettevenus.ca)
+ - date_published: 2024-10-23T09:03:50+00:00
+
+ ## Let's Ginger-Fi it!
+ - [http://gingerfiit.ca](http://gingerfiit.ca)
+ - date_published: 2025-02-05T10:14:30.261866+00:00
+
+ ## Home - Glacier Media
+ - [https://glaciermedia.ca](https://glaciermedia.ca)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Glacier Ridge Community | Calgary Northwest | By Anthem
+ - [https://glacierridgecalgary.ca](https://glacierridgecalgary.ca)
+ - date_published: 2025-02-04T10:52:10.350841+00:00
+
+ ## Glass in Canada, Canada
+ - [http://www.glass.ca](http://www.glass.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Recherche d'emploi sur Glassdoor
+ - [https://fr.glassdoor.ca](https://fr.glassdoor.ca)
+ - date_published: 2024-12-24T20:48:07.941362+00:00
+
+ ## Glassdoor | Job Search and Career Community
+ - [https://www.glassdoor.ca](https://www.glassdoor.ca)
+ - date_published: 2024-06-16T12:57:59.782418+00:00
+
+ ## Home
+ - [https://globalfest.ca](https://globalfest.ca)
+ - date_published: 2024-06-17T07:09:30+00:00
+
+ ## Centro de Investigación sobre la Globalización | Global Research
+ - [https://globalizacion.ca](https://globalizacion.ca)
+ - date_published: 2024-08-19T10:56:06.205873+00:00
+
+ ## Global News | Breaking, Latest News and Video for Canada
+ - [https://globalnews.ca](https://globalnews.ca)
+ - date_published: 2023-10-25T10:36:35.873873+00:00
+
+ ## Home - Global ResearchGlobal Research - Centre for Research on Globalization
+ - [https://globalresearch.ca](https://globalresearch.ca)
+ - date_published: 2023-10-25T12:05:13.017051+00:00
+
+ ## Before you continue to YouTube
+ - [http://tv.globalresearch.ca](http://tv.globalresearch.ca)
+ - date_published: 2024-08-19T10:56:16.486363+00:00
+
+ ## CFEE Classroom Edition
+ - [http://globeclassroom.ca](http://globeclassroom.ca)
+ - date_published: 2024-05-06T16:48:40.240746+00:00
+
+ ## Home
+ - [https://globelink.ca](https://globelink.ca)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Home
+ - [https://globemediagroup.ca](https://globemediagroup.ca)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## General Motors Canada: Pushing the Limits of Transportation & Technology
+ - [http://www.gm.ca](http://www.gm.ca)
+ - date_published: 2024-06-18T13:57:53+00:00
+
+ ## GM Envolve Canada: Transforming How Business is Done
+ - [https://www.gmenvolve.ca](https://www.gmenvolve.ca)
+ - date_published: 2024-06-20T07:44:57.126535+00:00
+
+ ## Home
+ - [https://www.gmfinancial.ca](https://www.gmfinancial.ca)
+ - date_published: 2024-06-14T02:56:30+00:00
+
+ ## go2HR Supports the Tourism & Hospitality Industry in BC
+ - [https://www.go2hr.ca](https://www.go2hr.ca)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Guided Tours & Group Travel Tours | EF Go Ahead Tours
+ - [https://www.goaheadtours.ca](https://www.goaheadtours.ca)
+ - date_published: 2024-06-18T06:47:19.293959+00:00
+
+ ## The Wisdom of God
+ - [http://www.godcallshischildren.ca](http://www.godcallshischildren.ca)
+ - date_published: 2024-08-19T05:02:38.499771+00:00
+
+ ## Golf Canada
+ - [https://ch.golfcanada.ca](https://ch.golfcanada.ca)
+ - date_published: 2024-07-09T19:05:38.313363+00:00
+
+ ## Golf Canada - Official
+ - [http://www.golfcanada.ca](http://www.golfcanada.ca)
+ - date_published: 2021-01-26T15:34:42+00:00
+
+ ## Golf PEI
+ - [https://golfpei.ca](https://golfpei.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## GoLife: Affordable Term Life Insurance
+ - [https://golife.ca](https://golife.ca)
+ - date_published: 2024-08-07T11:51:42.098198+00:00
+
+ ## Home – Good Food Link - Good Food Link
+ - [https://goodfoodlink.ca](https://goodfoodlink.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home | Goodmans LLP
+ - [https://www.goodmans.ca](https://www.goodmans.ca)
+ - date_published: 2024-12-12T15:19:58.538796+00:00
+
+ ## Google Books
+ - [https://books.google.ca](https://books.google.ca)
+ - date_published: 2024-05-09T09:11:56.709627+00:00
+
+ ## Google
+ - [https://google.ca](https://google.ca)
+ - date_published: 2024-05-09T03:50:47.157676+00:00
+
+ ## Grafika Google
+ - [https://images.google.ca](https://images.google.ca)
+ - date_published: 2024-07-20T07:36:53.671516+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [http://maps.google.ca](http://maps.google.ca)
+ - date_published: 2024-06-17T10:57:54.928418+00:00
+
+ ## Google Scholar
+ - [https://scholar.google.ca](https://scholar.google.ca)
+ - date_published: 2024-04-30T05:11:39.221331+00:00
+
+ ## Before you continue
+ - [https://translate.google.ca](https://translate.google.ca)
+ - date_published: 2024-05-09T02:33:53.713226+00:00
+
+ ## Go Ravens - Carleton University
+ - [https://goravens.ca](https://goravens.ca)
+ - date_published: 2024-07-08T16:37:09.290588+00:00
+
+ ## University of New Brunswick
+ - [http://goredsgo.ca](http://goredsgo.ca)
+ - date_published: 2024-09-24T21:34:57.517299+00:00
+
+ ## GotW.ca Home Page
+ - [http://gotw.ca](http://gotw.ca)
+ - date_published: 2011-04-02T22:22:26+00:00
+ - tags: ['personal']
+
+ ## Gradescope | Save time grading
+ - [https://www.gradescope.ca](https://www.gradescope.ca)
+ - date_published: 2024-07-02T17:57:02.151187+00:00
+
+ ## Grainger Canada
+ - [https://catalogue.grainger.ca](https://catalogue.grainger.ca)
+ - date_published: 2024-06-20T12:11:12.863162+00:00
+
+ ## Grainger-Canada: Industrial Supply, Safety Equipment and Fasteners
+		
+		
+	
+
+ - Grainger, Canada
+ - [https://www.grainger.ca](https://www.grainger.ca)
+ - date_published: 2024-05-04T08:42:48.913807+00:00
+
+ ## Grainger Canada - Request Our Catalogue
+ - [https://graingerresources.ca](https://graingerresources.ca)
+ - date_published: 2024-06-20T12:11:14.152270+00:00
+
+ ## Loading...
+ - [https://clientportal.grantthornton.ca](https://clientportal.grantthornton.ca)
+ - date_published: 2024-09-30T12:39:40.130755+00:00
+
+ ## Grant Thornton LLP Canada
+ - [https://www.grantthornton.ca](https://www.grantthornton.ca)
+ - date_published: 2024-06-16T09:49:46.621345+00:00
+
+ ## Home - Granville Island 2040
+ - [https://granvilleisland2040.ca](https://granvilleisland2040.ca)
+ - date_published: 2024-12-23T08:37:20.623371+00:00
+
+ ## Home | Granville Island Brewing
+ - [https://www.granvilleislandbrewing.ca](https://www.granvilleislandbrewing.ca)
+ - date_published: 2024-06-27T13:06:59.696565+00:00
+
+ ## Website Design, Development & Ecommerce Services Agency in Vancouver
+ - [http://www.graphicallyspeaking.ca](http://www.graphicallyspeaking.ca)
+ - date_published: 2024-07-03T12:39:38.071730+00:00
+
+ ## Guarded Thoughts
+ - [https://blog.grappling.ca](https://blog.grappling.ca)
+ - date_published: 2023-11-11T00:00:00+00:00
+
+ ## Building 21st-century health care in the heart of the nation’s capital
+ - [http://greatertogether.ca](http://greatertogether.ca)
+ - date_published: 2024-01-12T06:16:39+00:00
+
+ ## Home | Great Place to Work® Canada
+ - [https://greatplacetowork.ca](https://greatplacetowork.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## HOME - Great West Media
+ - [https://greatwest.ca](https://greatwest.ca)
+ - date_published: 2024-04-28T05:09:54.916751+00:00
+
+ ## GreenGeeks: Web Hosting Canada - Fast, Scalable & Eco-friendly
+ - [https://www.greengeeks.ca](https://www.greengeeks.ca)
+ - date_published: 2024-06-27T14:25:29.576937+00:00
+
+ ## Voted #1 Digital Marketing & SEO Agency | Toronto, Canada
+ - [https://www.greenlotus.ca](https://www.greenlotus.ca)
+ - date_published: 2025-02-05T16:10:15.551737+00:00
+
+ ## GreenShift is under construction
+ - [http://greenshift.ca](http://greenshift.ca)
+ - date_published: 2024-12-23T11:54:32.692151+00:00
+
+ ## Greg Chetcuti
+ - [https://greg.ca](https://greg.ca)
+ - date_published: 2024-12-04T18:44:21+00:00
+
+ ## mastodon.greg.ca
+ - [https://mastodon.greg.ca](https://mastodon.greg.ca)
+ - date_published: 2024-12-19T10:33:25.308529+00:00
+
+ ## Gregory Hammond — Websites, accessibility & more
+ - [https://gregoryhammond.ca](https://gregoryhammond.ca)
+ - date_published: 2024-06-18T12:42:59.748413+00:00
+
+ ## Gregory Schmidt
+ - [https://www.gregoryschmidt.ca](https://www.gregoryschmidt.ca)
+ - date_published: 2024-07-16T12:43:50.322187+00:00
+
+ ## FlixBus welcomes Greyhound Canada Travelers
+ - [http://www.greyhound.ca](http://www.greyhound.ca)
+ - date_published: 2024-10-11T08:22:04.146529+00:00
+
+ ## The Grimoire
+ - [https://grimoire.ca](https://grimoire.ca)
+ - date_published: 2024-08-31T00:52:26+00:00
+
+ ## Grinhaus Law Firm - Integrity In Your Corner
+ - [https://grinhauslaw.ca](https://grinhauslaw.ca)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Grocery Tracker
+ - [https://grocerytracker.ca](https://grocerytracker.ca)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Groupon® Official Site | Online Shopping Deals and Coupons | Save Up to 70% off
+ - [https://www.groupon.ca](https://www.groupon.ca)
+ - date_published: 2024-10-22T21:36:43.466670+00:00
+
+ ## Digital Marketing Agency | Digital Marketing Strategy | GrowthEngine
+ - [https://www.growthengine.ca](https://www.growthengine.ca)
+ - date_published: 2024-10-17T23:24:31.810801+00:00
+
+ ## GrUVi - Home
+ - [https://gruvi.ca](https://gruvi.ca)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Guanzhong Chen
+ - [https://guanzhong.ca](https://guanzhong.ca)
+ - date_published: 2024-04-30T05:02:02.973203+00:00
+
+ ## N49 Guelph Web Design, SEO & Digital Marketing
+ - [https://guelphwebdesign.ca](https://guelphwebdesign.ca)
+ - date_published: 2024-12-25T15:28:52.852970+00:00
+
+ ## Welcome | GuidedBy
+ - [https://guidedby.ca](https://guidedby.ca)
+ - date_published: 2024-05-06T21:30:00.390266+00:00
+
+ ## 2024 UN CONFERENCE COP16 | Official Booking Site
+ - [https://cop16.gvq.ca](https://cop16.gvq.ca)
+ - date_published: 2024-09-10T16:00:25.495465+00:00
+
+ ## cat /dev/brain
+ - [https://gybe.ca](https://gybe.ca)
+ - date_published: 2023-12-04T09:28:03.340314+00:00
+
+ ## Hackfest 2024 | Talks, Villages and CTFs (October 11 - 12) | Trainings (October 7 - 8 - 9 - 10) | Largest hacking event and community in Canada | Quebec City, Canada
+ - [https://hackfest.ca](https://hackfest.ca)
+ - date_published: 2024-08-30T13:24:37+00:00
+
+ ## Hack The Ridge
+ - [https://hacktheridge.ca](https://hacktheridge.ca)
+ - date_published: 2023-12-09T14:41:15+00:00
+
+ ## Hagerty Canada | Classic Car Valuation & Insurance | Club for Car Enthusiasts
+ - [https://www.hagerty.ca](https://www.hagerty.ca)
+ - date_published: 2024-05-04T09:14:59.537703+00:00
+
+ ## Hagerty Broker Business Centre
+ - [https://www.hagertybroker.ca](https://www.hagertybroker.ca)
+ - date_published: 2024-06-20T15:51:21.440455+00:00
+
+ ## Council of the Haida Nation
+ - [http://www.haidanation.ca](http://www.haidanation.ca)
+ - date_published: 2024-07-09T12:57:20.951326+00:00
+
+ ## Hairremoval in Canada, Canada
+ - [http://www.hairremoval.ca](http://www.hairremoval.ca)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Hairtransplants in Canada, Canada
+ - [http://www.hairtransplants.ca](http://www.hairtransplants.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home
+ - [https://www.halifax.ca](https://www.halifax.ca)
+ - date_published: 2024-08-18T13:16:09+00:00
+
+ ## Ham Radio Outside the Box
+ - [https://hamradiooutsidethebox.ca](https://hamradiooutsidethebox.ca)
+ - date_published: 2024-06-28T10:30:25+00:00
+
+ ## Home - HamSoft
+ - [http://hamsoft.ca](http://hamsoft.ca)
+ - date_published: 2024-10-25T22:20:48.726316+00:00
+
+ ## Top 5 Top 5 Toronto HandyMan for 2020 | HandyMan.ca Plumbers and Plumbing Contractors for 2020 | HandyMan.ca
+ - [http://www.handyman.ca](http://www.handyman.ca)
+ - date_published: 2024-06-29T17:34:24.969252+00:00
+
+ ## Hannah Lee
+ - [https://hannahlee.ca](https://hannahlee.ca)
+ - date_published: 2024-07-10T05:31:46.133361+00:00
+
+ ## Happily Ever Esther Farm Sanctuary
+ - [https://www.happilyeveresther.ca](https://www.happilyeveresther.ca)
+ - date_published: 2024-06-20T12:56:57.577739+00:00
+
+ ## Home of the Harbecks
+ - [http://harbeck.ca](http://harbeck.ca)
+ - date_published: 2022-01-11T18:57:08+00:00
+
+ ## Home - HarperCollins Canada
+ - [http://www.harpercollins.ca](http://www.harpercollins.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home Page | Hart House
+ - [https://harthouse.ca](https://harthouse.ca)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## hashman.ca :: home
+ - [https://hashman.ca](https://hashman.ca)
+ - date_published: 2024-01-26T03:12:47+00:00
+
+ ## פרויקט התקווה | Hatikvah Project
+ - [https://hatikvah.ca](https://hatikvah.ca)
+ - date_published: 2025-01-20T23:45:49.536119+00:00
+
  ## HawkHacks 2024
  - [https://hawkhacks.ca](https://hawkhacks.ca)
  - date_published: 2024-06-03T21:58:28+00:00
@@ -301,6 +651,10 @@
  - [https://huntfishmanitoba.ca](https://huntfishmanitoba.ca)
  - date_published: 2024-07-21T07:56:46.006696+00:00
 
+ ## Home - Huron University
+ - [https://huronatwestern.ca](https://huronatwestern.ca)
+ - date_published: 2025-02-05T05:01:16.480575+00:00
+
  ## Chemical-Free & Salt-Free Water Treatment Solutions | HydroFLOW Canada
  - [https://hydroflow.ca](https://hydroflow.ca)
  - date_published: 2024-09-13T00:00:00+00:00
@@ -411,6 +765,10 @@
  - [https://www.immigration.ca](https://www.immigration.ca)
  - date_published: 2024-05-10T14:08:48+00:00
 
+ ## Immunodeficiency Canada
+ - [https://immunodeficiency.ca](https://immunodeficiency.ca)
+ - date_published: 2025-02-05T14:28:22.037528+00:00
+
  ## Home Page - Canada’s Immunoengineering and Biomanufacturing Hub
  - [https://immunoengineeringhub.ca](https://immunoengineeringhub.ca)
  - date_published: 2025-02-04T23:46:56.595855+00:00
@@ -422,6 +780,10 @@
  ## ACCUEIL - Imperméabilisation, réparation, entretien de fondation au Québec
  - [https://impermeabilisationfondation.ca](https://impermeabilisationfondation.ca)
  - date_published: 2024-12-23T12:06:55+00:00
+
+ ## Accueil | Avantmatch
+ - [https://www.impresse.ca](https://www.impresse.ca)
+ - date_published: 2025-02-05T06:44:59.029308+00:00
 
  ## Improv College: Your online improv school!
  - [https://improvcollege.ca](https://improvcollege.ca)
@@ -539,6 +901,10 @@
  - [https://www.innisfiltoday.ca](https://www.innisfiltoday.ca)
  - date_published: 2024-12-26T13:50:30+00:00
 
+ ## Fusion - Rec Management Software
+ - [http://www.innosoft.ca](http://www.innosoft.ca)
+ - date_published: 2025-02-05T04:47:33.100815+00:00
+
  ## Innovating Canada
  - [https://www.innovatingcanada.ca](https://www.innovatingcanada.ca)
  - date_published: 2024-08-11T07:37:51.816636+00:00
@@ -636,9 +1002,21 @@
  - [http://www.invitations.ca](http://www.invitations.ca)
  - date_published: 2024-06-03T00:00:00+00:00
 
+ ## No compromise cloud performance | IONOS Cloud
+ - [https://cloud.ionos.ca](https://cloud.ionos.ca)
+ - date_published: 2025-02-05T13:40:08.473007+00:00
+
+ ## Login - IONOS
+ - [https://login.ionos.ca](https://login.ionos.ca)
+ - date_published: 2025-02-05T13:40:53.917076+00:00
+
  ## IONOS Partner Network
  - [https://partnernetwork.ionos.ca](https://partnernetwork.ionos.ca)
  - date_published: 2025-01-31T15:21:43.059191+00:00
+
+ ## IONOS | Hosting Provider: Domains, Websites, Servers.
+ - [https://www.ionos.ca](https://www.ionos.ca)
+ - date_published: 2025-02-05T13:40:40.896425+00:00
 
  ## iPhone in Canada - Leading Tech News for Canadians
  - [https://cdn.iphoneincanada.ca](https://cdn.iphoneincanada.ca)
@@ -652,6 +1030,10 @@
  - [https://iphoneincanada.ca](https://iphoneincanada.ca)
  - date_published: 2022-07-31T19:31:30+00:00
 
+ ## Ipsen – improving patient health outcomes
+ - [http://www.ipsen.ca](http://www.ipsen.ca)
+ - date_published: 2025-02-05T14:36:15.407818+00:00
+
  ## Welcome to the Institute for Quantum Computing | Institute for Quantum Computing | University of Waterloo
  - [http://www.iqc.ca](http://www.iqc.ca)
  - date_published: 2025-02-03T14:20:01.395314+00:00
@@ -663,6 +1045,10 @@
  ## Home
  - [https://irll.ca](https://irll.ca)
  - date_published: 2025-01-02T13:10:17+00:00
+
+ ## iRobot®: Robot Vacuums and Mops
+ - [https://www.irobot.ca](https://www.irobot.ca)
+ - date_published: 2025-02-05T16:22:26.041797+00:00
 
  ## L'école des Jeux Vidéo & Animation 3D-FX | ISART Digital
  - [https://www.isart.ca](https://www.isart.ca)
@@ -720,6 +1106,10 @@
  - [https://ivanish.ca](https://ivanish.ca)
  - date_published: 2023-10-25T08:42:57.754586+00:00
  - tags: ['personal']
+
+ ## Ivey 100 | Ivey
+ - [https://ivey100.ca](https://ivey100.ca)
+ - date_published: 2025-02-05T04:59:05.612270+00:00
 
  ## Baby Laundry Detergents and Washing Tips | Ivory Snow
  - [https://ivorysnow.ca](https://ivorysnow.ca)
@@ -1194,6 +1584,10 @@
  - [https://www.lakesresort.ca](https://www.lakesresort.ca)
  - date_published: 2024-07-10T09:49:09+00:00
 
+ ## Lamcom | Signalétique et Impression Grand Format à Montréal
+ - [https://www.lamcom.ca](https://www.lamcom.ca)
+ - date_published: 2025-02-05T06:44:39.602503+00:00
+
  ## About Me - Dustin.Lammiman
  - [https://dustin.lammiman.ca](https://dustin.lammiman.ca)
  - date_published: 2023-01-16T20:55:21+00:00
@@ -1501,6 +1895,10 @@
  ## East Vancouver Yoga Studio | Local Yoga Studio | Yoga + more
  - [https://localyogastudio.ca](https://localyogastudio.ca)
  - date_published: 2024-09-18T18:42:59+00:00
+
+ ## Location d’outils GM - Machinerie lourde, équipements et outils
+ - [https://www.locationgm.ca](https://www.locationgm.ca)
+ - date_published: 2025-02-05T06:44:32.080007+00:00
 
  ## Charcoal — Web framework and content management system
  - [https://charcoal.locomotive.ca](https://charcoal.locomotive.ca)
@@ -2299,6 +2697,10 @@
  - [https://monstrum-society.ca](https://monstrum-society.ca)
  - date_published: 2024-09-06T21:53:35.527280+00:00
 
+ ## Montessori & More - Private Education for Children 3-5
+ - [https://www.montessoriandmore.ca](https://www.montessoriandmore.ca)
+ - date_published: 2025-02-05T18:41:03.208284+00:00
+
  ## Attention Required! | Cloudflare
  - [https://montreal.ca](https://montreal.ca)
  - date_published: 2024-07-01T09:29:43.979465+00:00
@@ -2338,6 +2740,10 @@
  ## Morning Brief
  - [https://signup.morningbrief.ca](https://signup.morningbrief.ca)
  - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Morningstar Stock, Mutual Fund, ETF, Investment Research.
+ - [https://www.morningstar.ca](https://www.morningstar.ca)
+ - date_published: 2025-02-05T05:01:42.808282+00:00
 
  ## Guerrero, Bichette lead Blue Jays past Royals 5-4 to kick off 10-game homestand
  - [https://morns.ca](https://morns.ca)
@@ -2456,6 +2862,10 @@
  ## Welcome to the Museum of Health Care!
  - [http://www.museumofhealthcare.ca](http://www.museumofhealthcare.ca)
  - date_published: 2024-08-11T15:06:01.847143+00:00
+
+ ## MOV | Museum of Vancouver
+ - [https://museumofvancouver.ca](https://museumofvancouver.ca)
+ - date_published: 2025-02-05T05:02:46.893338+00:00
 
  ## Login | Recipya
  - [https://recipes.musicavis.ca](https://recipes.musicavis.ca)
@@ -2765,6 +3175,10 @@
  - [https://nac-cnn.ca](https://nac-cnn.ca)
  - date_published: 2024-08-11T07:13:31.682743+00:00
 
+ ## L’École NAD-UQAC | Votre carrière en 3D commence ici!
+ - [https://www.nad.ca](https://www.nad.ca)
+ - date_published: 2025-02-05T06:44:49.825847+00:00
+
  ## Mina Naguib
  - [https://mina.naguib.ca](https://mina.naguib.ca)
  - date_published: 2023-10-25T09:02:42.738096+00:00
@@ -2874,6 +3288,10 @@
  ## Online brokerage | NBDB
  - [https://nbdb.ca](https://nbdb.ca)
  - date_published: 2024-08-08T00:00:00+00:00
+
+ ## National Bank Financial Markets
+ - [https://nbfm.ca](https://nbfm.ca)
+ - date_published: 2025-02-05T05:04:18.689841+00:00
 
  ## Home | National Bank Financial - Wealth Management
  - [https://www.nbfwm.ca](https://www.nbfwm.ca)
@@ -3291,6 +3709,10 @@
  - [http://pah.ocsb.ca](http://pah.ocsb.ca)
  - date_published: 2025-02-04T22:51:36.681804+00:00
 
+ ## Home - OECM
+ - [http://oecm.ca](http://oecm.ca)
+ - date_published: 2025-02-05T04:08:02.199742+00:00
+
  ## Mind of Dan
  - [http://mind.ofdan.ca](http://mind.ofdan.ca)
  - date_published: 2024-06-30T02:43:43.697252+00:00
@@ -3613,424 +4035,4 @@
  ## Pack Mule
  - [https://packmule.ca](https://packmule.ca)
  - date_published: 2024-04-28T03:26:27.765989+00:00
-
- ## ShakeDown
- - [https://shakedown.packmule.ca](https://shakedown.packmule.ca)
- - date_published: 2024-03-24T15:43:55+00:00
-
- ## Painters in Canada, Canada
- - [http://www.painting.ca](http://www.painting.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Bringing Value Beyond the Brush
- - [https://paintitall.ca](https://paintitall.ca)
- - date_published: 2023-02-02T05:24:57+00:00
-
- ## Palestine Central - an NCCM initiative
- - [https://www.palestinecentral.ca](https://www.palestinecentral.ca)
- - date_published: 2023-10-25T00:00:00+00:00
-
- ## Palo Alto Networks – Global Cybersecurity Leader – Canada
- - [https://www.paloaltonetworks.ca](https://www.paloaltonetworks.ca)
- - date_published: 2024-10-19T17:40:44.913867+00:00
-
- ## Baby Care, Diapers & Parenting Information | Pampers CA
- - [https://pampers.ca](https://pampers.ca)
- - date_published: 2024-12-19T09:50:36+00:00
-
- ## Baby Care, Diapers & Parenting Information | Pampers CA
- - [https://www.pampers.ca](https://www.pampers.ca)
- - date_published: 2024-10-28T22:56:14+00:00
-
- ## Couches, soins pour les bébés et renseignements pour les parents | Pampers Canada
- - [https://www.pampers-fr.ca](https://www.pampers-fr.ca)
- - date_published: 2024-10-28T22:47:14+00:00
-
- ## HOME - Pancreatic Cancer Canada
- - [https://pancreaticcancercanada.ca](https://pancreaticcancercanada.ca)
- - date_published: 2024-12-15T16:07:56.502001+00:00
-
- ## Les branchements du Roy
- - [https://panneau-solaire.ca](https://panneau-solaire.ca)
- - date_published: 2024-12-23T12:07:35+00:00
-
- ## Hair Products For All Hair Types. | Pantene
- - [https://pantene.ca](https://pantene.ca)
- - date_published: 2024-09-13T14:35:40+00:00
-
- ## the Papertrail Handmade Paper & Book Arts
- - [https://papertrail.ca](https://papertrail.ca)
- - date_published: 2023-06-22T13:06:44+00:00
-
- ## Paranoid Beavers
- - [https://paranoidbeavers.ca](https://paranoidbeavers.ca)
- - date_published: 2017-11-25T00:00:00+00:00
-
- ## Paratime Design | Old School RPGs | Cartography
- - [http://paratime.ca](http://paratime.ca)
- - date_published: 2024-12-27T17:56:47+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.parieraucanada.ca](https://www.parieraucanada.ca)
- - date_published: 2024-07-17T12:56:38.648713+00:00
-
- ## Pari Sportif Canada : Guide des meilleurs sites de paris en 2024
- - [https://www.parissportifcanada.ca](https://www.parissportifcanada.ca)
- - date_published: 2024-06-20T16:25:08+00:00
-
- ## Welcome! - paritybit.ca
- - [https://paritybit.ca](https://paritybit.ca)
- - date_published: 2024-07-23T23:27:18.774546+00:00
-
- ## Parkland Corporation: We deliver, serve and innovate | Parkland Corporation
- - [https://www.parkland.ca](https://www.parkland.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Parkland Institute
- - [https://www.parklandinstitute.ca](https://www.parklandinstitute.ca)
- - date_published: 2024-07-20T15:44:41.744817+00:00
-
- ## Parks Canada
- - [https://www.parkscanada.ca](https://www.parkscanada.ca)
- - date_published: 2024-06-19T04:52:08.260898+00:00
-
- ## Bibliothèque du Parlement du Canada
- - [https://bdp.parl.ca](https://bdp.parl.ca)
- - date_published: 2024-07-10T05:32:32.467327+00:00
-
- ## Employment at Parliament | Emplois au Parlement
- - [http://jobs-emplois.parl.ca](http://jobs-emplois.parl.ca)
- - date_published: 2024-07-10T05:30:23.778189+00:00
-
- ## Learn About Parliament
- - [https://learn.parl.ca](https://learn.parl.ca)
- - date_published: 2024-07-10T05:29:48.318102+00:00
-
- ## Library of the Canadian Parliament
- - [https://lop.parl.ca](https://lop.parl.ca)
- - date_published: 2024-07-10T05:29:45.489800+00:00
-
- ## Parliament of Canada - Parlement du Canada
- - [https://parl.ca](https://parl.ca)
- - date_published: 2024-05-09T07:39:30.010213+00:00
-
- ## Parliamentary Protective Service
- - [https://pps.parl.ca](https://pps.parl.ca)
- - date_published: 2024-07-10T05:29:57.024438+00:00
-
- ## Parliament of Canada Tours — Home
- - [https://rts.parl.ca](https://rts.parl.ca)
- - date_published: 2024-07-10T05:30:22.334976+00:00
-
- ## Visitez le parlement du Canada
- - [https://visitez.parl.ca](https://visitez.parl.ca)
- - date_published: 2024-07-10T05:32:29.812335+00:00
-
- ## Visit Canada's Parliament
- - [https://visit.parl.ca](https://visit.parl.ca)
- - date_published: 2024-07-10T05:30:15.969252+00:00
-
- ## Home | Town of Parry Sound
- - [https://www.parrysound.ca](https://www.parrysound.ca)
- - date_published: 2024-12-23T05:26:19.265948+00:00
-
- ## Partek I.T. Solutions — Managed Information Technology and Cybersecurity Solutions
- - [https://partek.ca](https://partek.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Townhome Builder in Calgary & Okotoks | Partners Development Group
- - [https://partnershomes.ca](https://partnershomes.ca)
- - date_published: 2024-04-30T05:14:18.749674+00:00
-
- ## Patagonia Outdoor Clothing & Gear
- - [https://patagonia.ca](https://patagonia.ca)
- - date_published: 2024-05-06T22:33:35.006597+00:00
-
- ## PataTaSocial - GoToSocial
- - [https://gotosocial.patatas.ca](https://gotosocial.patatas.ca)
- - date_published: 2024-07-13T03:42:14.029076+00:00
-
- ## Home - The Dabbler: a blog by @smallpatatas
- - [https://thedabbler.patatas.ca](https://thedabbler.patatas.ca)
- - date_published: 2024-05-10T07:02:36.153421+00:00
- - tags: ['personal']
-
- ## La Pataterie
- - [https://pataterie.ca](https://pataterie.ca)
- - date_published: 2025-02-04T21:09:10.088047+00:00
-
- ## Pathways to Education Canada
- - [https://www.pathwaystoeducation.ca](https://www.pathwaystoeducation.ca)
- - date_published: 2024-08-09T03:53:37.024419+00:00
-
- ## Patrick Douglas
- - [https://patrickdouglas.ca](https://patrickdouglas.ca)
- - date_published: 2024-09-09T20:54:21+00:00
-
- ## Sam Pavot - Contact page
- - [https://sam.pavot.ca](https://sam.pavot.ca)
- - date_published: 2023-11-26T03:34:15+00:00
-
- ## Payday loans in Canada, Canada
- - [http://www.payday.ca](http://www.payday.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Payment Source - Empowering Inclusion
- - [https://www.paymentsource.ca](https://www.paymentsource.ca)
- - date_published: 2024-09-18T06:50:30+00:00
-
- ## Payper | Get in the fold
- - [https://www.payper.ca](https://www.payper.ca)
- - date_published: 2022-11-22T19:24:37+00:00
-
- ## https://paysync.ca
- - [https://paysync.ca](https://paysync.ca)
- - date_published: 2023-10-25T12:06:31.218287+00:00
-
- ## Patrick Boivin
- - [https://pboivin.ca](https://pboivin.ca)
- - date_published: 2024-01-24T17:59:32.974422+00:00
-
- ## Accueil - Partenariat des Bibliothèques universitaires du Québec
- - [https://pbuq.ca](https://pbuq.ca)
- - date_published: 2024-12-12T23:43:25.801531+00:00
-
- ## President’s Choice Children’s Charity | Feeding Hungry Minds
- - [https://pcchildrenscharity.ca](https://pcchildrenscharity.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## PC Financial | Canadian Rewards Credit Cards with No Annual Fee | Services financiers PC | Cartes de crédit canadiennes avec récompenses et sans frais annuels
- - [https://secure.pcfinancial.ca](https://secure.pcfinancial.ca)
- - date_published: 2024-05-29T11:20:47+00:00
-
- ## Earn PC Optimum™ points with PC® Mastercard® and PC Money™ Account | PC Financial
- - [https://www.pcfinancial.ca](https://www.pcfinancial.ca)
- - date_published: 2024-05-01T06:19:40.507262+00:00
-
- ## NamesPro.ca | Register with Confidence
- - [http://www.pcna.ca](http://www.pcna.ca)
- - date_published: 2024-07-01T15:32:00.163122+00:00
-
- ## PC Optimum
- - [https://www.pcoptimum.ca](https://www.pcoptimum.ca)
- - date_published: 2024-06-12T16:39:45+00:00
-
- ## The Prospectors & Developers Association of Canada (PDAC)
- - [https://pdac.ca](https://pdac.ca)
- - date_published: 2025-01-12T03:39:48.215204+00:00
-
- ## Welcome
- - [https://www.peachland.ca](https://www.peachland.ca)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Eye Exams, Prescription Eyewear & More | Pearle Vision
- - [https://www.pearlevision.ca](https://www.pearlevision.ca)
- - date_published: 2024-07-09T10:16:44.955767+00:00
-
- ## The Centre for Pediatric Pain Research | Science Helping Children
- - [https://pediatric-pain.ca](https://pediatric-pain.ca)
- - date_published: 2024-07-21T23:10:57.591973+00:00
-
- ## Pelham's Local News
- - [https://www.pelhamtoday.ca](https://www.pelhamtoday.ca)
- - date_published: 2024-12-26T13:50:20+00:00
-
- ## Penguin Random House Canada
- - [https://penguinrandomhouse.ca](https://penguinrandomhouse.ca)
- - date_published: 2024-05-06T16:48:30.412069+00:00
-
- ## PFYT2Truth Exists: Lies Are Made Up
- - [https://pennyforyourthoughts2.ca](https://pennyforyourthoughts2.ca)
- - date_published: 2025-01-25T08:39:33.000982+00:00
-
- ## City of Penticton
- - [https://www.penticton.ca](https://www.penticton.ca)
- - date_published: 2024-08-18T00:00:48+00:00
-
- ## Dalhousie University | Home
- - [https://dal.peopleadmin.ca](https://dal.peopleadmin.ca)
- - date_published: 2024-08-19T10:53:42+00:00
-
- ## PERI Canada Homepage
- - [https://www.peri.ca](https://www.peri.ca)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home · Perimeter Events (Indico)
- - [https://events.perimeterinstitute.ca](https://events.perimeterinstitute.ca)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Homepage | Perimeter Institute
- - [https://perimeterinstitute.ca](https://perimeterinstitute.ca)
- - date_published: 2024-07-20T23:38:53.467919+00:00
-
- ## Perimeter Institute
- - [https://resources.perimeterinstitute.ca](https://resources.perimeterinstitute.ca)
- - date_published: 2024-07-21T06:38:36.419864+00:00
-
- ## Fabricant de produits d'aménagement et de maçonnerie - Permacon
- - [https://permacon.ca](https://permacon.ca)
- - date_published: 2024-10-18T06:57:29.822819+00:00
-
- ## Personal Journal
- - [https://personaljournal.ca](https://personaljournal.ca)
- - date_published: 2024-06-16T21:25:30.937932+00:00
-
- ## Top 5 Top 5 Toronto Pest Control for 2020 | Pest-Control.ca Plumbers and Plumbing Contractors for 2020 | Pest-Control.ca
- - [http://www.pest-control.ca](http://www.pest-control.ca)
- - date_published: 2024-06-29T17:25:54.716663+00:00
-
- ## Peter Zhu
- - [https://blog.peterzhu.ca](https://blog.peterzhu.ca)
- - date_published: 2023-10-25T09:02:44.361368+00:00
- - tags: ['personal']
-
- ## Software Developer
- - [https://peterzhu.ca](https://peterzhu.ca)
- - date_published: 2024-01-01T16:35:15+00:00
-
- ## Pet grooming in Canada, Canada
- - [http://www.pet-grooming.ca](http://www.pet-grooming.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Petrucci Music Library - Canada (PML-CA) Portal
- - [https://petruccimusiclibrary.ca](https://petruccimusiclibrary.ca)
- - date_published: 2020-01-22T07:10:30+00:00
-
- ## Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart
- - [https://www.petsmart.ca](https://www.petsmart.ca)
- - date_published: 2024-10-14T09:46:30+00:00
-
- ## More than a Pet Charity: Connecting People & Pets | PetSmart Charities
- - [https://petsmartcharities.ca](https://petsmartcharities.ca)
- - date_published: 2024-06-21T21:12:27+00:00
-
- ## Parker Glynn-Adey
- - [https://pgadey.ca](https://pgadey.ca)
- - date_published: 2023-11-29T17:15:09.105463+00:00
- - tags: ['personal']
-
- ## Publishers Group Canada
- - [https://www.pgcbooks.ca](https://www.pgcbooks.ca)
- - date_published: 2024-06-18T21:32:14+00:00
-
- ## Welcome - Slonik Events Canada
- - [https://www.pgevents.ca](https://www.pgevents.ca)
- - date_published: 2024-08-14T20:46:56.257687+00:00
-
- ## P&GGoodEveryDay | Get Offers, Rewards, Printable Coupons & Promo Codes
- - [https://www.pggoodeveryday.ca](https://www.pggoodeveryday.ca)
- - date_published: 2024-10-28T18:13:28+00:00
-
- ## Prince George Digitization | PG Newspapers
- - [http://pgnewspapers.pgpl.ca](http://pgnewspapers.pgpl.ca)
- - date_published: 2024-06-27T12:57:29.826127+00:00
-
- ## PharmAla Biotech
- - [https://pharmala.ca](https://pharmala.ca)
- - date_published: 2024-06-29T08:29:09.740617+00:00
-
- ## PHI | Arts & Culture Through Contemporary Experiences | Old Montreal
- - [https://phi.ca](https://phi.ca)
- - date_published: 2024-07-09T22:28:49+00:00
-
- ## Commercial Sustainable LED lighting solutions | Canada | Philips lighting
- - [https://lighting.philips.ca](https://lighting.philips.ca)
- - date_published: 2024-10-30T15:38:20+00:00
-
- ## Philips - Canada
- - [https://www.philips.ca](https://www.philips.ca)
- - date_published: 2024-10-30T02:58:05+00:00
-
- ## Photographers in Canada, Canada
- - [http://www.photographers.ca](http://www.photographers.ca)
- - date_published: 2024-06-29T17:34:21.771165+00:00
-
- ## Phrenssynnes' Lifestyle Blog
- - [https://phrenssynnes.ca](https://phrenssynnes.ca)
- - date_published: 2023-12-27T01:06:07.688727+00:00
- - tags: ['personal']
-
- ## Provincial Health Services Authority
- - [http://www.phsa.ca](http://www.phsa.ca)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Phoenix Labs
- - [https://phxlabs.ca](https://phxlabs.ca)
- - date_published: 2024-05-09T08:37:17.110185+00:00
-
- ## PicClick CA • Search eBay Faster. Find it first!
- - [https://picclick.ca](https://picclick.ca)
- - date_published: 2024-06-21T15:04:31.730715+00:00
-
- ## L'actualité des profondeurs - Pieuvre.ca
- - [https://www.pieuvre.ca](https://www.pieuvre.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## P. I. Moore
- - [https://pimoore.ca](https://pimoore.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## reilly dow
- - [https://www.pinkfish.ca](https://www.pinkfish.ca)
- - date_published: 2024-09-12T19:04:21.311035+00:00
-
- ## Winnipeg Escorts | PinkLink.ca
- - [https://winnipeg.pinklink.ca](https://winnipeg.pinklink.ca)
- - date_published: 2025-01-21T19:55:11.578144+00:00
-
- ## Pinterest
- - [https://pinterest.ca](https://pinterest.ca)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Home - Pioneer Wood Designs Inc. Commercial Millwork
- - [https://pioneerwooddesigns.ca](https://pioneerwooddesigns.ca)
- - date_published: 2016-08-26T10:40:44+00:00
-
- ## Pirate Party of Canada
- - [http://www.pirateparty.ca](http://www.pirateparty.ca)
- - date_published: 2023-10-30T17:14:57+00:00
-
- ## pirati.ca - social networking for pirates | Home
- - [https://pirati.ca](https://pirati.ca)
- - date_published: 2024-07-10T07:29:06.359563+00:00
-
- ## Home Page - Placement Pass
- - [https://georgebrowncollege.placementpass.ca](https://georgebrowncollege.placementpass.ca)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Plant - Canada's Manufacturing Voice
- - [https://www.plant.ca](https://www.plant.ca)
- - date_published: 2024-10-15T17:34:17+00:00
-
- ## PlanToys Canada
- - [https://plantoys.ca](https://plantoys.ca)
- - date_published: 2024-06-23T16:34:47.232640+00:00
-
- ## play 101.3 - play 101.3
- - [https://www.play1013.ca](https://www.play1013.ca)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## play 103.7 - play 103.7
- - [https://www.play1037.ca](https://www.play1037.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Play 92
- - [https://www.play92.ca](https://www.play92.ca)
- - date_published: 2024-06-27T12:38:46+00:00
-
- ## Home - Banff World Media Festival
- - [https://banffmediafestival.playbackonline.ca](https://banffmediafestival.playbackonline.ca)
- - date_published: 2024-12-25T23:13:58.704310+00:00
-
- ## Playback
- - [https://www.playbackonline.ca](https://www.playbackonline.ca)
- - date_published: 2024-12-25T22:59:37+00:00
-
- ## PME-ART
- - [https://www.pme-art.ca](https://www.pme-art.ca)
- - date_published: 2025-01-01T06:09:09.469632+00:00
-
- ## League of Canadian Poets Home
- - [https://poets.ca](https://poets.ca)
- - date_published: 2024-07-20T00:00:00+00:00
 

@@ -1,4 +1,8 @@
  ## Beamo - Accounts
+ - [https://accounts.beamo.ai](https://accounts.beamo.ai)
+ - date_published: 2024-08-19T07:23:45+00:00
+
+ ## Beamo - Accounts
  - [https://app.beamo.ai](https://app.beamo.ai)
  - date_published: 2024-08-19T07:23:45+00:00
 
@@ -630,6 +634,10 @@
  ## Calligrapher.ai: Realistic computer-generated handwriting
  - [https://calligrapher.ai](https://calligrapher.ai)
  - date_published: 2023-10-25T11:36:44.320352+00:00
+
+ ## Campbell Ramble | Alexander Campbell | Substack
+ - [https://www.campbellramble.ai](https://www.campbellramble.ai)
+ - date_published: 2025-02-05T07:47:09.540917+00:00
 
  ## Cancer Futures
  - [https://www.cancerfutures.ai](https://www.cancerfutures.ai)
@@ -2110,6 +2118,10 @@ Welcome
  - [https://dailym.ai](https://dailym.ai)
  - date_published: 2024-05-02T00:00:00+00:00
 
+ ## DAIR.AI
+ - [https://dair.ai](https://dair.ai)
+ - date_published: 2025-02-05T17:22:42.077820+00:00
+
  ## Dakarai Simmons Portfolio Site
  - [https://dakar.ai](https://dakar.ai)
  - date_published: 2024-01-29T00:37:49+00:00
@@ -2441,6 +2453,10 @@ Welcome
  ## MetaGPT | MetaGPT
  - [https://docs.deepwisdom.ai](https://docs.deepwisdom.ai)
  - date_published: 2025-02-03T19:08:03.944661+00:00
+
+ ## Affiliation Program By Deeto
+ - [https://monograph.r.deeto.ai](https://monograph.r.deeto.ai)
+ - date_published: 2025-02-05T06:04:23.143250+00:00
 
  ## 404: NOT_FOUND
  - [https://www.delegaid.ai](https://www.delegaid.ai)
@@ -2995,6 +3011,10 @@ Welcome
  ## AI Platform to Streamline the VC, PE & M&A Workflow
  - [https://eilla.ai](https://eilla.ai)
  - date_published: 2024-10-24T15:49:31+00:00
+
+ ## Home - Eino - AI powered network planning
+ - [http://www.eino.ai](http://www.eino.ai)
+ - date_published: 2025-02-05T10:13:58.539323+00:00
 
  ## Puppetry is the easiest way to create videos with talking AI Avatars
  - [https://art.elbo.ai](https://art.elbo.ai)
@@ -3996,24 +4016,4 @@ Welcome
  ## Gaia
  - [https://www.gaianet.ai](https://www.gaianet.ai)
  - date_published: 2024-09-21T23:25:27.281281+00:00
-
- ## Momentum
- - [https://gainmomentum.ai](https://gainmomentum.ai)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## AI Powered Cloud DLP for SaaS
- - [https://gamma.ai](https://gamma.ai)
- - date_published: 2022-04-28T17:58:27+00:00
-
- ## Welcome to garak! | garak
- - [https://docs.garak.ai](https://docs.garak.ai)
- - date_published: 2024-10-28T00:16:48.378531+00:00
-
- ## Gatik
- - [http://www.gatik.ai](http://www.gatik.ai)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Gemma - The AI design assistant
- - [https://web.gemma.ai](https://web.gemma.ai)
- - date_published: 2024-06-25T14:58:13+00:00
 

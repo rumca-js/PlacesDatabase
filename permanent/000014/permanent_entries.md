@@ -1,3 +1,115 @@
+ ## Home – Universities Australia
+ - [https://universitiesaustralia.edu.au](https://universitiesaustralia.edu.au)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Universities Matter
+ - [https://universitiesmatter.edu.au](https://universitiesmatter.edu.au)
+ - date_published: 2024-09-02T15:48:37.232813+00:00
+
+ ## UNSW 360 Campus Tour
+ - [https://360tour.unsw.edu.au](https://360tour.unsw.edu.au)
+ - date_published: 2020-08-28T02:20:42+00:00
+
+ ## mobile
+ - [https://agenthub.unsw.edu.au](https://agenthub.unsw.edu.au)
+ - date_published: 2024-05-11T07:37:22.222429+00:00
+
+ ## Sign in to your account
+ - [https://aims.unsw.edu.au](https://aims.unsw.edu.au)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Alumni & Giving - UNSW
+ - [https://alumni.giving.unsw.edu.au](https://alumni.giving.unsw.edu.au)
+ - date_published: 2024-05-11T07:37:09.175472+00:00
+
+ ## Alumni & Giving - UNSW
+ - [https://alumni.unsw.edu.au](https://alumni.unsw.edu.au)
+ - date_published: 2024-05-11T07:37:15.969173+00:00
+
+ ## Welcome to UNSW
+ - [https://applyonline.unsw.edu.au](https://applyonline.unsw.edu.au)
+ - date_published: 2024-07-13T14:01:06.395453+00:00
+
+ ## Home | Research Capability & Technology Portfolio
+ - [https://capabilities.unsw.edu.au](https://capabilities.unsw.edu.au)
+ - date_published: 2024-05-11T07:37:48.893738+00:00
+
+ ## CSE CGI Server
+ - [https://cgi.cse.unsw.edu.au](https://cgi.cse.unsw.edu.au)
+ - date_published: 2024-04-03T03:06:22+00:00
+
+ ## COVID-19 - UNSW Sydney
+ - [https://covid-19.unsw.edu.au](https://covid-19.unsw.edu.au)
+ - date_published: 2024-05-01T20:38:16+00:00
+
+ ## EDGE | UNSW Sydney
+ - [https://edge.unsw.edu.au](https://edge.unsw.edu.au)
+ - date_published: 2024-05-11T07:38:19.229650+00:00
+
+ ## Education & student experience
+ - [https://education.unsw.edu.au](https://education.unsw.edu.au)
+ - date_published: 2024-05-11T07:38:07.820192+00:00
+
+ ## Events | UNSW Sydney
+ - [https://events.unsw.edu.au](https://events.unsw.edu.au)
+ - date_published: 2024-05-11T07:37:33.020337+00:00
+
+ ## Sign in to your account
+ - [http://extend.unsw.edu.au](http://extend.unsw.edu.au)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Jobs - Recent Jobs
+ - [https://external-careers.jobs.unsw.edu.au](https://external-careers.jobs.unsw.edu.au)
+ - date_published: 2024-07-13T14:03:59.230606+00:00
+
+ ## Grand Challenges | UNSW Sydney
+ - [https://grandchallenges.unsw.edu.au](https://grandchallenges.unsw.edu.au)
+ - date_published: 2024-07-13T11:48:54+00:00
+
+ ## UNSW Identity Manager
+ - [https://iam.unsw.edu.au](https://iam.unsw.edu.au)
+ - date_published: 2024-07-13T14:03:14.967661+00:00
+
+ ## UNSW Identity Manager
+ - [https://idm.unsw.edu.au](https://idm.unsw.edu.au)
+ - date_published: 2024-07-13T14:01:46.339608+00:00
+
+ ## School of Mechanical and Manufacturing Engineering | Engineering - UNSW Sydney
+ - [http://ilm.mech.unsw.edu.au](http://ilm.mech.unsw.edu.au)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | Powered by UNSW
+ - [https://innovationcommunity.unsw.edu.au](https://innovationcommunity.unsw.edu.au)
+ - date_published: 2024-05-11T07:37:04.134597+00:00
+
+ ## Jobs - Recent Jobs
+ - [https://internal-careers.jobs.unsw.edu.au](https://internal-careers.jobs.unsw.edu.au)
+ - date_published: 2024-07-13T14:03:55.228739+00:00
+
+ ## Jobs@UNSW | UNSW
+ - [https://jobs.unsw.edu.au](https://jobs.unsw.edu.au)
+ - date_published: 2024-05-11T07:38:14.072844+00:00
+
+ ## Home | Powered by UNSW
+ - [https://knowledgeexchange.unsw.edu.au](https://knowledgeexchange.unsw.edu.au)
+ - date_published: 2024-05-11T07:37:59.773850+00:00
+
+ ## UNSW Library
+ - [https://library.unsw.edu.au](https://library.unsw.edu.au)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## School of Biomedical Sciences | Medicine & Health - UNSW Sydney
+ - [http://medicalsciences.med.unsw.edu.au](http://medicalsciences.med.unsw.edu.au)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Medicine & Health | UNSW Sydney
+ - [https://med.unsw.edu.au](https://med.unsw.edu.au)
+ - date_published: 2024-08-18T15:07:06.181718+00:00
+
+ ## Log in to the site | UNSW
+ - [https://moodle.telt.unsw.edu.au](https://moodle.telt.unsw.edu.au)
+ - date_published: 2024-07-13T04:41:24.223619+00:00
+
  ## myUNSW
  - [https://my.unsw.edu.au](https://my.unsw.edu.au)
  - date_published: 2024-05-11T07:37:36.974968+00:00
@@ -1280,6 +1392,16 @@
  ## Industry innovation
  - [http://www.innovation.gov.au](http://www.innovation.gov.au)
  - date_published: 2024-06-20T00:00:00+00:00
+
+ ## IP Australia
+            
+            - Citizen Space
+ - [https://consultation.ipaustralia.gov.au](https://consultation.ipaustralia.gov.au)
+ - date_published: 2025-02-05T14:52:40.425132+00:00
+
+ ## IP Australia | Trade Mark Search
+ - [https://search.ipaustralia.gov.au](https://search.ipaustralia.gov.au)
+ - date_published: 2025-02-05T14:52:35.055093+00:00
 
  ## Workforce Australia for individuals
  - [https://jobsearch.gov.au](https://jobsearch.gov.au)
@@ -3896,130 +4018,7 @@
  - [https://www.ruok.org.au](https://www.ruok.org.au)
  - date_published: 2025-01-17T12:42:06.459831+00:00
 
- ## Disability Services & Care | Newcastle & NSW | Samaritans
- - [https://samaritans.org.au](https://samaritans.org.au)
- - date_published: 2020-09-16T00:55:41+00:00
-
- ## Freemasons South Australia and The Northern Territory Inc.
- - [http://santfreemasons.org.au](http://santfreemasons.org.au)
- - date_published: 2024-06-17T11:41:23+00:00
- - tags: ['freemasonry']
-
- ## Christmas Appeal | Sydney Children's Hospitals Foundation
- - [https://www.schf.org.au](https://www.schf.org.au)
- - date_published: 2024-12-21T07:31:14.628792+00:00
-
- ## FNS - Fellowship Nomination System
- - [https://fns.science.org.au](https://fns.science.org.au)
- - date_published: 2025-01-15T09:38:12.665410+00:00
-
- ## Australian Academy of Science
- - [https://science.org.au](https://science.org.au)
- - date_published: 2024-05-07T15:55:46.963070+00:00
-
- ## Home page | Science and Technology Australia
- - [https://scienceandtechnologyaustralia.org.au](https://scienceandtechnologyaustralia.org.au)
- - date_published: 2025-01-16T00:00:00+00:00
-
- ## Science in Australia Gender Equity | SAGE
- - [https://sciencegenderequity.org.au](https://sciencegenderequity.org.au)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Official Church of Scientology: What is Scientology?
- - [https://scientology.org.au](https://scientology.org.au)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Ancient & Accepted Scottish Rite for Australia
- - [https://scottishrite.org.au](https://scottishrite.org.au)
- - date_published: 2024-10-19T10:03:57.151992+00:00
-
- ## Sea Shepherd Australia - Home
- - [https://seashepherd.org.au](https://seashepherd.org.au)
- - date_published: 2024-09-09T21:24:10.541838+00:00
-
- ## Sea Shepherd Australia Official Shop
- - [https://shop.seashepherd.org.au](https://shop.seashepherd.org.au)
- - date_published: 2025-01-15T09:40:43.482092+00:00
-
- ## Home - SENVIC
- - [https://senvic.org.au](https://senvic.org.au)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Home | Shine Dome
- - [https://shinedome.org.au](https://shinedome.org.au)
- - date_published: 2024-04-30T02:18:18+00:00
-
- ## SHINE for Kids - Christmas Appeal
- - [https://christmas.shineforkids.org.au](https://christmas.shineforkids.org.au)
- - date_published: 2025-01-15T09:42:36.191245+00:00
-
- ## SHINE for Kids
- - [http://fundraising.shineforkids.org.au](http://fundraising.shineforkids.org.au)
- - date_published: 2025-01-15T09:42:30.022523+00:00
-
- ## Shine for Kids | Building Futures So Kids Can Shine
- - [https://shineforkids.org.au](https://shineforkids.org.au)
- - date_published: 2024-09-12T15:32:44.928791+00:00
-
- ## Home - Shisha No Thanks
- - [https://shishanothanks.org.au](https://shishanothanks.org.au)
- - date_published: 2023-06-19T00:00:00+00:00
-
- ## Shop! ANZ
- - [https://www.shopassociation.org.au](https://www.shopassociation.org.au)
- - date_published: 2024-10-30T08:01:44+00:00
-
- ## SHRINE OF REMEMBRANCE
- - [https://shrine.org.au](https://shrine.org.au)
- - date_published: 2024-09-14T23:15:10.086485+00:00
-
- ## Home - AusSMC
- - [http://www.smc.org.au](http://www.smc.org.au)
- - date_published: 2024-08-18T00:00:00+00:00
- - date_dead_since: 2025-01-15T09:45:33.712092+00:00
-
- ## Southern Metropolitan Cemeteries Trust (SMCT) Melbourne, Victoria -…
- - [https://smct.org.au](https://smct.org.au)
- - date_published: 2024-07-12T22:22:32.467736+00:00
-
- ## Soldier On | Empowering veterans and their families
- - [http://www.soldieron.org.au](http://www.soldieron.org.au)
- - date_published: 2021-02-24T04:51:34+00:00
- - date_dead_since: 2025-01-15T09:46:14.882225+00:00
-
- ## South Aussies for Animals
- - [https://southaussiesforanimals.org.au](https://southaussiesforanimals.org.au)
- - date_published: 2024-09-09T21:24:01.390878+00:00
-
- ## Southlakes Anglican Church, Morisset – Blessing and supporting the communities of Southlakes with the good news story of Jesus
- - [https://southlakes.org.au](https://southlakes.org.au)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Home - Sutherland Shire Environment Centre
- - [http://ssec.org.au](http://ssec.org.au)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Home | Standards Australia
- - [https://www.standards.org.au](https://www.standards.org.au)
- - date_published: 2025-01-13T10:50:38.953647+00:00
-
- ## SSA - Statistical Society of Australia
- - [https://statsoc.org.au](https://statsoc.org.au)
- - date_published: 2024-06-30T08:41:03.792490+00:00
-
- ## Stella
- - [https://stella.org.au](https://stella.org.au)
- - date_published: 2024-06-30T05:16:17+00:00
-
- ## Home | STEM Women
- - [https://www.stemwomen.org.au](https://www.stemwomen.org.au)
- - date_published: 2025-01-16T09:59:35.148021+00:00
-
- ## Stronger Together Foundation – early childhood supports
- - [https://stf.org.au](https://stf.org.au)
- - date_published: 2025-01-09T06:02:35+00:00
-
- ## St John Ambulance National Online Shop
- - [https://shop.stjohn.org.au](https://shop.stjohn.org.au)
- - date_published: 2024-12-21T05:09:51.854850+00:00
+ ## Salvos Online | HOME
+ - [https://www.salvosonline.org.au](https://www.salvosonline.org.au)
+ - date_published: 2025-02-05T05:26:18.385089+00:00
 

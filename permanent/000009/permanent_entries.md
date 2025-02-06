@@ -1,3 +1,55 @@
+ ## Doktorat
+ - [http://doktorat.univie.ac.at](http://doktorat.univie.ac.at)
+ - date_published: 2024-10-14T23:59:41.532440+00:00
+
+ ## Datenschutzbeauftragte*r (DSBA) der Universität Wien
+ - [https://dsba.univie.ac.at](https://dsba.univie.ac.at)
+ - date_published: 2024-07-21T01:58:44.344610+00:00
+
+ ## Entrepreneurship
+ - [http://entrepreneurship.univie.ac.at](http://entrepreneurship.univie.ac.at)
+ - date_published: 2024-10-14T23:58:23.974047+00:00
+
+ ## Welcome to CS - CS
+ - [http://eprints-dev5.cs.univie.ac.at](http://eprints-dev5.cs.univie.ac.at)
+ - date_published: 2024-07-08T16:13:22.188078+00:00
+
+ ## Mission Statement
+ - [http://ethikkommission.univie.ac.at](http://ethikkommission.univie.ac.at)
+ - date_published: 2024-10-14T23:57:46.170899+00:00
+
+ ## Veranstaltungsmanagement
+ - [http://event.univie.ac.at](http://event.univie.ac.at)
+ - date_published: 2024-10-14T23:57:37.543050+00:00
+
+ ## Forschungsservice
+ - [http://forschungsservice.univie.ac.at](http://forschungsservice.univie.ac.at)
+ - date_published: 2024-10-14T23:57:28.723581+00:00
+
+ ## Bereit für eine Entdeckungsreise?
+ - [http://fuehrungen.univie.ac.at](http://fuehrungen.univie.ac.at)
+ - date_published: 2024-10-14T23:58:49.251845+00:00
+
+ ## 650 plus | Geschichte der Universität Wien
+ - [http://geschichte.univie.ac.at](http://geschichte.univie.ac.at)
+ - date_published: 2024-10-14T21:42:19+00:00
+
+ ## Grüne Schule
+ - [http://grueneschule.univie.ac.at](http://grueneschule.univie.ac.at)
+ - date_published: 2024-10-14T23:59:48.962274+00:00
+
+ ## Webseiten
+ - [https://homepage.univie.ac.at](https://homepage.univie.ac.at)
+ - date_published: 2024-04-30T07:47:14.236254+00:00
+
+ ## Societal Impact Plattform
+ - [https://impact-sowi.univie.ac.at](https://impact-sowi.univie.ac.at)
+ - date_published: 2024-10-14T23:56:45.421836+00:00
+
+ ## Home
+ - [http://international.univie.ac.at](http://international.univie.ac.at)
+ - date_published: 2024-10-14T23:58:58.453747+00:00
+
  ## Dashboard - Wiki der Universität Wien
  - [http://intra.univie.ac.at](http://intra.univie.ac.at)
  - date_published: 2024-10-14T23:57:58.306094+00:00
@@ -2306,6 +2358,14 @@
  - [https://inwx.at](https://inwx.at)
  - date_published: 2024-09-29T20:52:43.742131+00:00
 
+ ## Die europäische Cloud-Alternative | IONOS Cloud
+ - [https://cloud.ionos.at](https://cloud.ionos.at)
+ - date_published: 2025-02-05T13:40:06.615524+00:00
+
+ ## IONOS | Von Website bis Cloud » Digital an Ihrer Seite
+ - [https://www.ionos.at](https://www.ionos.at)
+ - date_published: 2025-02-05T13:40:33.961905+00:00
+
  ## IPTS – Institut für Posttayloristische Studien
  - [https://ipts.at](https://ipts.at)
  - date_published: 2024-09-18T22:31:07.983615+00:00
@@ -2317,6 +2377,10 @@
  ## Iris Ehrlich – Psychologische Praxis für Gesundheit und Prävention – Just another WordPress weblog
  - [https://irisehrlich.at](https://irisehrlich.at)
  - date_published: 2024-06-26T23:29:27.655750+00:00
+
+ ## iRobot® Saug- und Wischroboter | iRobot®
+ - [https://www.irobot.at](https://www.irobot.at)
+ - date_published: 2025-02-05T16:24:35.238928+00:00
 
  ## Startseite
  - [https://ischlerwoche.at](https://ischlerwoche.at)
@@ -2818,6 +2882,10 @@
  ## Lukas Prokop's homepage
  - [https://lukas-prokop.at](https://lukas-prokop.at)
  - date_published: 2024-11-18T23:26:35+00:00
+
+ ## Kunstraum und Sammlung in Lustenau - DOCK20
+ - [https://dock20.lustenau.at](https://dock20.lustenau.at)
+ - date_published: 2025-02-05T05:45:40.456100+00:00
 
  ## Männerabend - Der männliche Freizeitblog aus Wien!
  - [https://maennerabend.at](https://maennerabend.at)
@@ -3953,72 +4021,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Rail Tours
  - [https://www.railtours.at](https://www.railtours.at)
  - date_published: 2024-07-30T00:00:00+00:00
-
- ## Die einfach gute Newsletter-Software: rapidmail
- - [https://rapidmail.at](https://rapidmail.at)
- - date_published: 2024-06-22T22:22:41.267528+00:00
-
- ## Rat auf Draht
- - [https://rataufdraht.at](https://rataufdraht.at)
- - date_published: 2024-07-02T22:20:04.763080+00:00
-
- ## ray Filmmagazin - Zeitschrift für Film und Kino
- - [https://ray-magazin.at](https://ray-magazin.at)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Răzvan Șerban
- - [https://razvan.at](https://razvan.at)
- - date_published: 2021-11-08T19:52:32+00:00
-
- ## Raiffeisen Capital Management | raiffeisen-fonds.at
- - [https://rcm.at](https://rcm.at)
- - date_published: 2024-09-26T10:51:13+00:00
-
- ## realraum – Hackerspace|DIYBioLab|Chaostreff|Makerspace in Graz
- - [https://realraum.at](https://realraum.at)
- - date_published: 2023-04-02T00:00:00+00:00
-
- ## realraum – Hackerspace|DIYBioLab|Chaostreff|Makerspace in Graz
- - [https://wp.realraum.at](https://wp.realraum.at)
- - date_published: 2023-04-02T00:00:00+00:00
-
- ## realtime.at - Domain Services GmbH - Your Domain Pole Position
- - [https://realtime.at](https://realtime.at)
- - date_published: 2024-07-02T22:46:04.991637+00:00
-
- ## Stellenangebote in Ihrer regionalen Jobbörse | regionaljobs.at
- - [https://regionaljobs.at](https://regionaljobs.at)
- - date_published: 2024-07-13T11:28:56.649999+00:00
-
- ## Relaxdays | Wohnen, Garten, Sport & Freizeit
- - [https://relaxdays.at](https://relaxdays.at)
- - date_published: 2025-01-16T13:44:55.294524+00:00
-
- ## Remote Austria
- - [https://remoteaustria.at](https://remoteaustria.at)
- - date_published: 2024-05-10T06:54:46.187542+00:00
-
- ## Resonic
- - [https://resonic.at](https://resonic.at)
- - date_published: 2024-08-22T22:14:31.301113+00:00
-
- ## Willkommen bei der REWE Group Österreich
- - [https://rewe-group.at](https://rewe-group.at)
- - date_published: 2024-08-07T13:01:34+00:00
-
- ## Startseite
- - [https://rheumatologie.at](https://rheumatologie.at)
- - date_published: 2024-06-28T12:04:32.043385+00:00
-
- ## Der Partner für Gemüsesaatgut | Rijk Zwaan Welver
- - [https://www.rijkzwaan.at](https://www.rijkzwaan.at)
- - date_published: 2024-10-31T09:50:04.165897+00:00
-
- ## Digitale Lösungen die verbinden
- - [https://ris.at](https://ris.at)
- - date_published: 2024-09-10T09:15:56+00:00
-
- ## Kaffee und Espresso online kaufen im Shop | roastmarket
- - [https://s.roastmarket.at](https://s.roastmarket.at)
- - date_published: 2025-01-20T23:52:18.962812+00:00
 

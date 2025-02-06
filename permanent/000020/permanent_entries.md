@@ -1,3 +1,213 @@
+ ## crazytime.com.br
+ - [https://crazytime.com.br](https://crazytime.com.br)
+ - date_published: 2025-01-30T17:27:49.273996+00:00
+
+ ## CRYPTO ID - O maior portal brasileiro sobre Identificação Digital
+ - [https://cryptoid.com.br](https://cryptoid.com.br)
+ - date_published: 2025-01-18T01:45:34.380931+00:00
+
+ ## Cultura Acadêmica – E-books gratuitos
+ - [https://culturaacademica.com.br](https://culturaacademica.com.br)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Cultura Baiana - Notícias e artigos sobre a cultura mais rica do Brasil
+ - [http://www.culturabaiana.com.br](http://www.culturabaiana.com.br)
+ - date_published: 2021-01-13T16:29:55+00:00
+
+ ## Seja uma au pair na Estados Unidos | Cultural Care
+ - [https://www.culturalcare.com.br](https://www.culturalcare.com.br)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Home | My Site
+ - [https://culturama.com.br](https://culturama.com.br)
+ - date_published: 2024-05-10T06:57:00.183581+00:00
+
+ ## Cursos Online com Certificados - Cursos 24 Horas
+ - [http://www.cursos24horas.com.br](http://www.cursos24horas.com.br)
+ - date_published: 2024-07-15T06:19:03.980134+00:00
+
+ ## Instituto Municipal de Turismo de Curitiba
+ - [https://curtacuritiba.com.br](https://curtacuritiba.com.br)
+ - date_published: 2024-06-12T11:18:50.421305+00:00
+
+ ## Grupo Juizforano de CW
+ - [https://cwjf.com.br](https://cwjf.com.br)
+ - date_published: 2024-05-07T09:56:16.240398+00:00
+
+ ## Bug bounty and hacking writeups from past activities
+ - [https://danielv.com.br](https://danielv.com.br)
+ - date_published: 2022-07-20T00:00:00+00:00
+
+ ## DatacenterDynamics - DCD
+ - [https://www.datacenterdynamics.com.br](https://www.datacenterdynamics.com.br)
+ - date_published: 2024-09-07T23:55:41.228768+00:00
+
+ ## Dattos: líder na automação de conciliações
+ - [https://www.dattos.com.br](https://www.dattos.com.br)
+ - date_published: 2024-09-24T15:20:53+00:00
+
+ ## Decathlon Sustainability
+ - [https://sustentabilidade.decathlon.com.br](https://sustentabilidade.decathlon.com.br)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Loja de artigos esportivos online - Ready to Play
+ - [https://www.decathlon.com.br](https://www.decathlon.com.br)
+ - date_published: 2024-06-15T20:06:49.802560+00:00
+
+ ## Loja de artigos esportivos: DECATHLON - Esporte para todos, tudo para esporte
+ - [https://www.decathlonpro.com.br](https://www.decathlonpro.com.br)
+ - date_published: 2024-09-19T02:01:23.505209+00:00
+
+ ## John Deere BR | Equipamentos industriais | Máquinas e implementos agrícolas
+ - [https://www.deere.com.br](https://www.deere.com.br)
+ - date_published: 2024-09-19T19:37:24.193012+00:00
+
+ ## Home
+ - [https://deif.com.br](https://deif.com.br)
+ - date_published: 2024-05-01T04:33:23.594676+00:00
+
+ ## Delicioso
+ - [https://www.delicioso.com.br](https://www.delicioso.com.br)
+ - date_published: 2024-08-05T16:06:22.611856+00:00
+
+ ## Participe agora do Desafio 21 Dias Sem Carne!
+ - [https://desafio21diassemcarne.com.br](https://desafio21diassemcarne.com.br)
+ - date_published: 2021-04-22T00:00:00+00:00
+
+ ## Desenlatar
+ - [https://desenlatar.com.br](https://desenlatar.com.br)
+ - date_published: 2023-11-03T00:31:47+00:00
+
+ ## Desize
+ - [https://www.desize.com.br](https://www.desize.com.br)
+ - date_published: 2020-11-06T23:02:05+00:00
+
+ ## Início | Ferramentas Desoutter
+ - [https://www.desouttertools.com.br](https://www.desouttertools.com.br)
+ - date_published: 2025-01-31T17:29:22.893249+00:00
+
+ ## Diário do Comércio – A impressão digital da economia mineira
+ - [https://diariodocomercio.com.br](https://diariodocomercio.com.br)
+ - date_published: 2024-09-29T20:22:03.867467+00:00
+
+ ## Diário do Poder
+ - [https://diariodopoder.com.br](https://diariodopoder.com.br)
+ - date_published: 2025-01-18T01:43:54.957172+00:00
+
+ ## Diário do Transporte: Página destinada à cobertura jornalística dos principais fatos relacionados aos transportes, com notícias, informações de última hora, coberturas exclusivas, opinião, estudos técnicos e história.
+ - [https://diariodotransporte.com.br](https://diariodotransporte.com.br)
+ - date_published: 2025-01-18T01:46:04.050703+00:00
+
+ ## Dicas Blogger
+ - [http://www.dicasblogger.com.br](http://www.dicasblogger.com.br)
+ - date_published: 2024-12-30T23:07:14+00:00
+
+ ## Dicas de Treino – Treino, Dieta e Suplementação
+ - [https://www.dicasdetreino.com.br](https://www.dicasdetreino.com.br)
+ - date_published: 2024-12-26T16:45:13+00:00
+
+ ## Dicionário Online - Dicionário inFormal
+ - [http://www.dicionarioinformal.com.br](http://www.dicionarioinformal.com.br)
+ - date_published: 2024-12-31T15:36:13+00:00
+
+ ## Bem vindo(a) - 
+		
+		DigiForum
+ - [http://www.digiforum.com.br](http://www.digiforum.com.br)
+ - date_published: 2024-07-02T03:04:30.752776+00:00
+
+ ## DigiKey Home
+ - [https://digikey.com.br](https://digikey.com.br)
+ - date_published: 2024-05-01T05:02:10.808018+00:00
+
+ ## DigiLabour
+ - [https://digilabour.com.br](https://digilabour.com.br)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## DigiMarCon Brazil 2025 · Sao Paulo, Brazil · June 19 - 20, 2025 · Digital Marketing, Media and Advertising Conference & Exhibition
+ - [https://digimarconbrazil.com.br](https://digimarconbrazil.com.br)
+ - date_published: 2025-01-25T03:21:59.925529+00:00
+
+ ## DigiMarCon São Paulo 2025 · Sao Paulo, São Paulo · June 19 - 20, 2025 · Digital Marketing, Media and Advertising Conference & Exhibition
+ - [https://digimarconsaopaulo.com.br](https://digimarconsaopaulo.com.br)
+ - date_published: 2025-01-25T03:21:13.996165+00:00
+
+ ## Móveis Sob Medida e Ambientes Planejados em Alto Padrão | Di Kaza Interiores e Móveis Sob Medida em Curitiba
+ - [https://dikazamoveissobmedida.com.br](https://dikazamoveissobmedida.com.br)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Diogo Cortiz
+ - [https://diogocortiz.com.br](https://diogocortiz.com.br)
+ - date_published: 2024-06-09T17:27:41.530628+00:00
+
+ ## Diolinux Plus
+ - [https://plus.diolinux.com.br](https://plus.diolinux.com.br)
+ - date_published: 2025-01-18T01:44:33.495781+00:00
+
+ ## Aniversário Mágico | Disney
+ - [http://aniversariomagico.disney.com.br](http://aniversariomagico.disney.com.br)
+ - date_published: 2023-11-09T17:35:47+00:00
+
+ ## Disney Brasil | O site oficial da Disney
+ - [https://disney.com.br](https://disney.com.br)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Diversos Afins
+ - [http://www.diversosafins.com.br](http://www.diversosafins.com.br)
+ - date_published: 2024-12-31T16:46:46.728893+00:00
+
+ ## Soluções de Impressão e Documentos Digitais - DLL
+ - [https://www.dll.com.br](https://www.dll.com.br)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## DNV.com.br - When trust matters  - DNV
+ - [https://www.dnv.com.br](https://www.dnv.com.br)
+ - date_published: 2024-09-04T15:26:03.137341+00:00
+
+ ## VOCAÇÃO - VOCÊ EM AÇÃO
+ - [https://vocacao.doareacao.com.br](https://vocacao.doareacao.com.br)
+ - date_published: 2023-12-22T02:59:37+00:00
+
+ ## Dodge Home
+ - [http://www.dodge.com.br](http://www.dodge.com.br)
+ - date_published: 2024-06-17T11:54:13+00:00
+
+ ## Sistema para contabilidade | Thomson Reuters - Soluções Domínio
+ - [https://www.dominiosistemas.com.br](https://www.dominiosistemas.com.br)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## This Mastodon-Twitter crossposter instance is now offline
+ - [https://crossposter.masto.donte.com.br](https://crossposter.masto.donte.com.br)
+ - date_published: 2024-01-09T02:26:48.543826+00:00
+
+ ## Downdetector
+ - [https://downdetector.com.br](https://downdetector.com.br)
+ - date_published: 2024-05-12T06:29:02.360283+00:00
+
+ ## Baixar, software, drivers, jogos, tutoriais - Downloadsource.com.br
+ - [https://www.downloadsource.com.br](https://www.downloadsource.com.br)
+ - date_published: 2024-08-18T13:05:40.217801+00:00
+
+ ## DP6
+ - [https://www.dp6.com.br](https://www.dp6.com.br)
+ - date_published: 2024-12-08T17:40:51+00:00
+
+ ## Duracell Baterias Brasil | A maior empresa de baterias de consumo do mundo
+ - [https://www.duracell.com.br](https://www.duracell.com.br)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Cursos, webinars e treinamento para os profissionais online — EBAC Online
+ - [https://ebaconline.com.br](https://ebaconline.com.br)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Agência Brasil
+ - [https://agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br)
+ - date_published: 2024-06-30T17:44:55+00:00
+
+ ## Agência Gov
+ - [https://agenciagov.ebc.com.br](https://agenciagov.ebc.com.br)
+ - date_published: 2024-01-02T00:00:00+00:00
+
  ## EBC - Embed player
  - [https://aovivo.ebc.com.br](https://aovivo.ebc.com.br)
  - date_published: 2024-03-18T14:02:05+00:00
@@ -3797,212 +4007,4 @@
  ## Site Oficial Wondershare: Criatividade, Produtividade, Utilidade
  - [https://wondershare.com.br](https://wondershare.com.br)
  - date_published: 2024-05-11T08:34:39.990969+00:00
-
- ## Home - Worktiba
- - [http://worktiba.com.br](http://worktiba.com.br)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Top Cassinos Online Brasil | Melhores sites de casino online brasileiros junho 2024
- - [https://worldcasinoexpert.com.br](https://worldcasinoexpert.com.br)
- - date_published: 2024-06-29T08:06:56.281573+00:00
-
- ## Xataka Brasil - Tecnologia e gadgets, celulares, computação, eletrônicos
- - [https://www.xataka.com.br](https://www.xataka.com.br)
- - date_published: 2025-01-15T03:58:04.029503+00:00
-
- ## 403 - Acesso negado
- - [https://www.xcake.com.br](https://www.xcake.com.br)
- - date_published: 2022-09-29T22:59:26+00:00
-
- ## Home - XRBR
- - [https://xrbr.com.br](https://xrbr.com.br)
- - date_published: 2024-06-26T00:55:09+00:00
-
- ## As 7 melhores formas de pagamentos para o seu negócio
- - [https://yapay.com.br](https://yapay.com.br)
- - date_published: 2024-07-23T23:40:35.790217+00:00
-
- ## Yelp
- - [https://m.yelp.com.br](https://m.yelp.com.br)
- - date_published: 2024-07-01T06:58:55.451902+00:00
-
- ## Yelp
- - [https://yelp.com.br](https://yelp.com.br)
- - date_published: 2024-07-01T06:58:50.323933+00:00
-
- ## Segurança TI Campinas, Jundiaí e Região - Yes Security
- - [https://yessecurity.com.br](https://yessecurity.com.br)
- - date_published: 2025-01-08T15:04:25.389332+00:00
-
- ## A Harmonia Começa em Você
- - [https://www.yogini.com.br](https://www.yogini.com.br)
- - date_published: 2025-01-24T22:14:53.825093+00:00
-
- ## YouTube
- - [https://youtube.com.br](https://youtube.com.br)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Consultoria em ERP, E-commerce e Marketplaces | Zachary
- - [https://www.zachary.com.br](https://www.zachary.com.br)
- - date_published: 2023-07-05T11:59:00+00:00
-
- ## Zappeando
- - [https://www.zappeando.com.br](https://www.zappeando.com.br)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Zeenix
- - [https://zeenix.com.br](https://zeenix.com.br)
- - date_published: 2024-07-17T12:16:48.234443+00:00
-
- ## ZEISS do Brasil
- - [https://www.zeiss.com.br](https://www.zeiss.com.br)
- - date_published: 2024-09-16T07:56:38.752549+00:00
-
- ## Zendesk: A Solução Completa de Atendimento ao Cliente
- - [https://www.zendesk.com.br](https://www.zendesk.com.br)
- - date_published: 2020-10-15T12:00:00+00:00
-
- ## Empréstimo para turbinar o seu negócio | Zippi: Empréstimo para autônomos que potencializa seu negócio
- - [https://zippi.com.br](https://zippi.com.br)
- - date_published: 2024-06-19T08:26:10.338655+00:00
-
- ## Zoetis
- - [https://www2.zoetis.com.br](https://www2.zoetis.com.br)
- - date_published: 2024-06-27T09:52:48+00:00
-
- ## Login - Zorbes
- - [https://app.zorbes.com.br](https://app.zorbes.com.br)
- - date_published: 2024-07-13T02:27:22.201396+00:00
-
- ## Home - Bom Negócio
- - [http://bomnegocio.curitiba.br](http://bomnegocio.curitiba.br)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## calebe.dev.br
- - [https://blog.calebe.dev.br](https://blog.calebe.dev.br)
- - date_published: 2022-02-05T00:00:00+00:00
-
- ## YunoHost Portal
- - [https://calebe.dev.br](https://calebe.dev.br)
- - date_published: 2024-07-14T09:07:36.343386+00:00
-
- ## My Webapp
- - [https://git.calebe.dev.br](https://git.calebe.dev.br)
- - date_published: 2024-07-14T09:07:40.576977+00:00
-
- ## LinkStack
- - [https://links.calebe.dev.br](https://links.calebe.dev.br)
- - date_published: 2024-07-14T09:07:38.428580+00:00
-
- ## YunoHost Admin
- - [https://media.calebe.dev.br](https://media.calebe.dev.br)
- - date_published: 2024-05-19T22:09:45+00:00
-
- ## Leandro Ferreira - Desenvolvedor PHP Laravel
- - [https://leandroferreira.dev.br](https://leandroferreira.dev.br)
- - date_published: 2024-06-19T09:30:46.786702+00:00
-
- ## Blogue do Puro Osso
- - [https://puro-osso.dev.br](https://puro-osso.dev.br)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## MUSEU Nacional da República
- - [http://museu.cultura.df.gov.br](http://museu.cultura.df.gov.br)
- - date_published: 2024-01-10T19:28:02+00:00
-
- ## Sistemas IFCE Paracuru
- - [http://webserver.paracuru.ifce.edu.br](http://webserver.paracuru.ifce.edu.br)
- - date_published: 2019-09-15T17:44:15+00:00
-
- ## Portal IFNMG - Início
- - [https://ifnmg.edu.br](https://ifnmg.edu.br)
- - date_published: 2024-07-13T18:13:13+00:00
-
- ## Authentication - GLPI
- - [https://suporte.feliz.ifrs.edu.br](https://suporte.feliz.ifrs.edu.br)
- - date_published: 2024-06-16T15:29:11.962485+00:00
-
- ## Home — IF SUDESTE MG
- - [https://www.ifsudestemg.edu.br](https://www.ifsudestemg.edu.br)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Inteli - Educação Inovadora em Tecnologia
- - [https://inteli.edu.br](https://inteli.edu.br)
- - date_published: 2024-09-21T00:00:00+00:00
-
- ## Linux Mirror UFAM
- - [https://mirror.ufam.edu.br](https://mirror.ufam.edu.br)
- - date_published: 2021-09-05T16:24:43+00:00
-
- ## UFPel
- - [https://portal.ufpel.edu.br](https://portal.ufpel.edu.br)
- - date_published: 2024-07-13T07:23:27.330229+00:00
-
- ## UFPel
- - [http://www.ufpel.edu.br](http://www.ufpel.edu.br)
- - date_published: 2024-10-30T20:33:37.334739+00:00
-
- ## Egressos-UFPI
- - [https://egressos.ufpi.edu.br](https://egressos.ufpi.edu.br)
- - date_published: 2024-12-15T12:16:25.479584+00:00
-
- ## radiouniversitaria967
- - [https://fmuniversitaria967.ufpi.edu.br](https://fmuniversitaria967.ufpi.edu.br)
- - date_published: 2024-12-15T12:16:39.230313+00:00
-
- ## UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri
- - [http://www.ufvjm.edu.br](http://www.ufvjm.edu.br)
- - date_published: 2024-07-13T18:13:21+00:00
-
- ## Faculdade em São Paulo: veja os cursos presenciais | UNICID
- - [https://unicid.edu.br](https://unicid.edu.br)
- - date_published: 2024-10-28T23:34:13.540293+00:00
-
- ## Unifeob EAD
- - [https://inscricaoead.unifeob.edu.br](https://inscricaoead.unifeob.edu.br)
- - date_published: 2024-10-11T11:39:17.371257+00:00
-
- ## Pós-Graduação On-line - UNIFEOB
- - [https://landing.unifeob.edu.br](https://landing.unifeob.edu.br)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Login
- - [https://novaintranet.unifeob.edu.br](https://novaintranet.unifeob.edu.br)
- - date_published: 2024-10-11T11:38:48.394746+00:00
-
- ## UNIFEOB - Centro Universitário Fundação de Ensino Octávio Bastos
- - [https://unifeob.edu.br](https://unifeob.edu.br)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Vestibular Unifeob – Graduação
- - [https://vestibular.unifeob.edu.br](https://vestibular.unifeob.edu.br)
- - date_published: 2024-10-11T11:42:19.427802+00:00
-
- ## Simbia - UNIFEOB
- - [https://www.simbia.unifeob.edu.br](https://www.simbia.unifeob.edu.br)
- - date_published: 2024-10-11T11:40:06.393559+00:00
-
- ## Home
- - [https://madp.unijui.edu.br](https://madp.unijui.edu.br)
- - date_published: 2024-10-11T12:20:16.895528+00:00
-
- ## Prof
- - [http://bioserver.cpgei.ct.utfpr.edu.br](http://bioserver.cpgei.ct.utfpr.edu.br)
- - date_published: 2020-04-26T20:42:06+00:00
-
- ## Prof. Caetano
- - [http://www.caetano.eng.br](http://www.caetano.eng.br)
- - date_published: 2024-07-08T08:33:45.032131+00:00
-
- ## Eduardo Maçan - We stand here exposing ourselves. We are showroom dummies!
- - [https://eduardo.macan.eng.br](https://eduardo.macan.eng.br)
- - date_published: 2024-07-09T07:56:32.754284+00:00
-
- ## Thadeu Lima de Souza Cascardo
- - [https://cascardo.eti.br](https://cascardo.eti.br)
- - date_published: 2019-10-31T22:08:13+00:00
-
- ## Atividades Escolares e Jogos Educativos: Palavras Cruzadas, Caça Palavras, Sudoku, Jogo da Memória, Passatempos, Atividades para Imprimir, Labirinto, Jogo dos 7 Erros, Quebra Cabeça, Desenhos para Colorir, Folhas Para Aprender Desenhar, Quiz Interativo.
- - [https://www.sol.eti.br](https://www.sol.eti.br)
- - date_published: 2022-03-26T18:09:40+00:00
 

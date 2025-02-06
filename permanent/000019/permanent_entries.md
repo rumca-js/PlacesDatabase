@@ -1,3 +1,204 @@
+ ## Link Punk: A Linkblog
+ - [https://linkpunk.micro.blog](https://linkpunk.micro.blog)
+ - date_published: 2024-06-17T22:01:16+00:00
+
+ ## Manton Reece
+ - [https://manton.micro.blog](https://manton.micro.blog)
+ - date_published: 2024-07-02T15:57:08+00:00
+
+ ## mattypenny
+ - [https://mattypenny.micro.blog](https://mattypenny.micro.blog)
+ - date_published: 2024-07-07T00:10:58+00:00
+
+ ## Merson the Person
+ - [https://mersontheperson.micro.blog](https://mersontheperson.micro.blog)
+ - date_published: 2024-06-28T19:41:21+00:00
+
+ ## Micro.blog
+ - [https://micro.blog](https://micro.blog)
+ - date_published: 2023-11-29T15:49:12.955798+00:00
+
+ ## Micro Monday
+		- Micro Monday
+ - [https://monday.micro.blog](https://monday.micro.blog)
+ - date_published: 2023-08-14T16:09:38+00:00
+
+ ## Mythical Type
+ - [https://mythicaltype.micro.blog](https://mythicaltype.micro.blog)
+ - date_published: 2024-12-12T01:31:55+00:00
+
+ ## NRH
+ - [https://nathanrhale.micro.blog](https://nathanrhale.micro.blog)
+ - date_published: 2024-06-15T04:23:57+00:00
+
+ ## ner3y
+ - [https://ner3y.micro.blog](https://ner3y.micro.blog)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Micro.blog News
+ - [https://news.micro.blog](https://news.micro.blog)
+ - date_published: 2024-08-16T22:26:50+00:00
+
+ ## Paul Kafasis
+ - [https://pbones.micro.blog](https://pbones.micro.blog)
+ - date_published: 2024-03-22T21:04:24+00:00
+
+ ## Bask in the glow
+ - [https://peroty.micro.blog](https://peroty.micro.blog)
+ - date_published: 2024-08-04T13:30:28+00:00
+
+ ## P in the wild
+ - [https://pinthewild.micro.blog](https://pinthewild.micro.blog)
+ - date_published: 2024-07-04T10:48:22+00:00
+
+ ## Pukerua Bay boy
+ - [https://pkboi.micro.blog](https://pkboi.micro.blog)
+ - date_published: 2024-10-22T19:02:31.869608+00:00
+
+ ## podiboq's thoughts - just another microBlog
+ - [https://podiboq.micro.blog](https://podiboq.micro.blog)
+ - date_published: 2020-11-22T00:00:00+00:00
+
+ ## Scott Jeffries
+ - [https://scottjeffries.micro.blog](https://scottjeffries.micro.blog)
+ - date_published: 2024-07-01T21:48:54+00:00
+
+ ## Sidebar For Tiny Theme
+ - [https://sidebar-for-tiny-theme.micro.blog](https://sidebar-for-tiny-theme.micro.blog)
+ - date_published: 2024-04-06T02:02:05+00:00
+
+ ## Micro.blog Status
+ - [https://status.micro.blog](https://status.micro.blog)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Sumo Theme
+ - [https://sumo.micro.blog](https://sumo.micro.blog)
+ - date_published: 2024-10-25T14:31:37+00:00
+
+ ## tbc aka tbc0 aka Tim Chambers
+ - [https://tbc.micro.blog](https://tbc.micro.blog)
+ - date_published: 2024-06-22T04:49:21+00:00
+
+ ## Tiny Theme for Micro.blog
+ - [https://tiny.micro.blog](https://tiny.micro.blog)
+ - date_published: 2024-05-04T09:41:08.873707+00:00
+
+ ## Undamned One
+ - [https://undamnedone.micro.blog](https://undamnedone.micro.blog)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Maurice Parker
+    - Maurice Parker
+ - [https://vincode.micro.blog](https://vincode.micro.blog)
+ - date_published: 2023-04-28T20:52:33+00:00
+
+ ## Welcome to Micro.blog
+ - [https://welcome.micro.blog](https://welcome.micro.blog)
+ - date_published: 2024-05-30T14:01:51+00:00
+
+ ## wings open wide
+ - [https://wow.micro.blog](https://wow.micro.blog)
+ - date_published: 2024-03-29T15:43:43+00:00
+
+ ## Will Stone
+ - [https://ws.micro.blog](https://ws.micro.blog)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## alt-ctrl-zb
+ - [https://zakb.micro.blog](https://zakb.micro.blog)
+ - date_published: 2024-07-21T05:21:22+00:00
+
+ ## Zachary Hamed
+ - [https://zmh.micro.blog](https://zmh.micro.blog)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Micro.publish
+ - [https://micropublish.blog](https://micropublish.blog)
+ - date_published: 2024-06-16T07:05:42+00:00
+
+ ## mikeshafer.blog
+ - [https://mikeshafer.blog](https://mikeshafer.blog)
+ - date_published: 2023-12-20T05:39:06.849238+00:00
+ - tags: ['personal']
+
+ ## CSMMI MILART
+ - [https://milart.blog](https://milart.blog)
+ - date_published: 2025-01-20T08:57:22.943428+00:00
+
+ ## Doing Our Bit
+ - [https://militaryandfamilyhistory.blog](https://militaryandfamilyhistory.blog)
+ - date_published: 2024-06-21T09:41:14.325834+00:00
+
+ ## Mindsers Courses - Tous les cours en ligne du Mindsers Blog
+ - [https://courses.mindsers.blog](https://courses.mindsers.blog)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Mindsers Blog: Inspirer les devs, un article à la fois
+ - [https://mindsers.blog](https://mindsers.blog)
+ - date_published: 2024-05-11T10:18:14.861792+00:00
+
+ ## Mindsers Shop - Merchandising, T-Shirt, Sticker pour les développeurs
+ - [https://shop.mindsers.blog](https://shop.mindsers.blog)
+ - date_published: 2024-07-14T09:11:40.742663+00:00
+
+ - [https://miris.blog](https://miris.blog)
+ - date_published: 2024-02-26T09:12:32.456732+00:00
+ - date_dead_since: 2025-01-04T21:41:29.386898+00:00
+
+ ## mixable Blog | A mix of digital topics.
+ - [https://mixable.blog](https://mixable.blog)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Cosmic Column | Kai Christensen | Substack
+ - [https://mkaic.blog](https://mkaic.blog)
+ - date_published: 2024-02-25T19:26:35.474528+00:00
+
+ ## mkaz.blog
+ - [https://mkaz.blog](https://mkaz.blog)
+ - date_published: 2024-08-07T19:30:52.016844+00:00
+
+ ## (no title)
+ - [https://mlatgt.blog](https://mlatgt.blog)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## mmap(blog)
+ - [https://mmapped.blog](https://mmapped.blog)
+ - date_published: 2023-10-25T09:25:23.417879+00:00
+ - tags: ['personal']
+
+ ## moku.blog
+ - [https://moku.blog](https://moku.blog)
+ - date_published: 2024-10-29T09:26:45.180771+00:00
+
+ ## More is Different | Dan Elton | Substack
+ - [https://moreisdifferent.blog](https://moreisdifferent.blog)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## moviescape.blog
+ - [https://moviescape.blog](https://moviescape.blog)
+ - date_published: 2024-07-02T18:00:53.637864+00:00
+
+ ## Museum of Health Care Blog
+ - [https://museumofhealthcare.blog](https://museumofhealthcare.blog)
+ - date_published: 2024-02-24T18:08:23.471594+00:00
+
+ ## The Music Aficionado
+ - [https://musicaficionado.blog](https://musicaficionado.blog)
+ - date_published: 2024-06-22T12:04:24+00:00
+
+ ## <mxstbr/>
+ - [https://mxstbr.blog](https://mxstbr.blog)
+ - date_published: 2018-02-21T00:00:00+00:00
+ - date_dead_since: 2025-01-04T21:41:41.473015+00:00
+
+ ## Zondax
+ - [https://zondax.mymidnight.blog](https://zondax.mymidnight.blog)
+ - date_published: 2024-09-21T23:55:53.478352+00:00
+
+ ## my silent voice/ my stil stem
+ - [https://mysilentvoice.blog](https://mysilentvoice.blog)
+ - date_published: 2024-09-03T23:07:36.422957+00:00
+
  ## Jessica's Nature Blog
  - [https://natureinfocus.blog](https://natureinfocus.blog)
  - date_published: 2024-06-30T01:45:26.030894+00:00
@@ -51,6 +252,10 @@
  ## No Bells
  - [https://nobells.blog](https://nobells.blog)
  - date_published: 2024-04-29T00:00:00+00:00
+
+ ## ลองเล่นสล็อตออนไลน์กับเราและสัมผัสความตื่นเต้นได้ทุกนาที blue light on vape pen while charging
+ - [https://noidot.blog](https://noidot.blog)
+ - date_published: 2025-02-05T12:06:37.152975+00:00
 
  ## noisybrain
  - [https://noisybrain.blog](https://noisybrain.blog)
@@ -559,6 +764,10 @@
  ## Surfing Complexity – Lorin Hochstein's ramblings about software, complex systems, and incidents.
  - [https://surfingcomplexity.blog](https://surfingcomplexity.blog)
  - date_published: 2023-10-25T12:01:31.469329+00:00
+
+ ## Sustainability in Business | Keeping You Ahead of the Fast-evolving ESG and Sustainable Business Landscape | Squire Patton Boggs
+ - [https://www.sustainabilityinbusiness.blog](https://www.sustainabilityinbusiness.blog)
+ - date_published: 2025-02-05T14:37:41.384313+00:00
 
  ## AGEN138 - Daftar Prediksi Keluaran Jawatogel Akurat Hk Sgp Sdy
  - [https://www.swholocron.blog](https://www.swholocron.blog)
@@ -3455,6 +3664,10 @@ Educação
  - [https://www.caju.com.br](https://www.caju.com.br)
  - date_published: 2024-07-03T00:00:00+00:00
 
+ ## Canadá de Trem - VIA Rail - Viagens de Trem no Canadá
+ - [https://www.canadadetrem.com.br](https://www.canadadetrem.com.br)
+ - date_published: 2025-02-05T05:06:22.910857+00:00
+
  ## Canal 3 Expo 2023 - Canal 3 Expo
  - [https://canal3expo.com.br](https://canal3expo.com.br)
  - date_published: 2024-05-08T10:33:09.380279+00:00
@@ -3830,214 +4043,4 @@ Educação
  ## Jogos grátis online aqui na CrazyGames | Jogue Agora!
  - [https://crazygames.com.br](https://crazygames.com.br)
  - date_published: 2024-05-08T06:51:36.310066+00:00
-
- ## crazytime.com.br
- - [https://crazytime.com.br](https://crazytime.com.br)
- - date_published: 2025-01-30T17:27:49.273996+00:00
-
- ## CRYPTO ID - O maior portal brasileiro sobre Identificação Digital
- - [https://cryptoid.com.br](https://cryptoid.com.br)
- - date_published: 2025-01-18T01:45:34.380931+00:00
-
- ## Cultura Acadêmica – E-books gratuitos
- - [https://culturaacademica.com.br](https://culturaacademica.com.br)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Cultura Baiana - Notícias e artigos sobre a cultura mais rica do Brasil
- - [http://www.culturabaiana.com.br](http://www.culturabaiana.com.br)
- - date_published: 2021-01-13T16:29:55+00:00
-
- ## Seja uma au pair na Estados Unidos | Cultural Care
- - [https://www.culturalcare.com.br](https://www.culturalcare.com.br)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Home | My Site
- - [https://culturama.com.br](https://culturama.com.br)
- - date_published: 2024-05-10T06:57:00.183581+00:00
-
- ## Cursos Online com Certificados - Cursos 24 Horas
- - [http://www.cursos24horas.com.br](http://www.cursos24horas.com.br)
- - date_published: 2024-07-15T06:19:03.980134+00:00
-
- ## Instituto Municipal de Turismo de Curitiba
- - [https://curtacuritiba.com.br](https://curtacuritiba.com.br)
- - date_published: 2024-06-12T11:18:50.421305+00:00
-
- ## Grupo Juizforano de CW
- - [https://cwjf.com.br](https://cwjf.com.br)
- - date_published: 2024-05-07T09:56:16.240398+00:00
-
- ## Bug bounty and hacking writeups from past activities
- - [https://danielv.com.br](https://danielv.com.br)
- - date_published: 2022-07-20T00:00:00+00:00
-
- ## DatacenterDynamics - DCD
- - [https://www.datacenterdynamics.com.br](https://www.datacenterdynamics.com.br)
- - date_published: 2024-09-07T23:55:41.228768+00:00
-
- ## Dattos: líder na automação de conciliações
- - [https://www.dattos.com.br](https://www.dattos.com.br)
- - date_published: 2024-09-24T15:20:53+00:00
-
- ## Decathlon Sustainability
- - [https://sustentabilidade.decathlon.com.br](https://sustentabilidade.decathlon.com.br)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Loja de artigos esportivos online - Ready to Play
- - [https://www.decathlon.com.br](https://www.decathlon.com.br)
- - date_published: 2024-06-15T20:06:49.802560+00:00
-
- ## Loja de artigos esportivos: DECATHLON - Esporte para todos, tudo para esporte
- - [https://www.decathlonpro.com.br](https://www.decathlonpro.com.br)
- - date_published: 2024-09-19T02:01:23.505209+00:00
-
- ## John Deere BR | Equipamentos industriais | Máquinas e implementos agrícolas
- - [https://www.deere.com.br](https://www.deere.com.br)
- - date_published: 2024-09-19T19:37:24.193012+00:00
-
- ## Home
- - [https://deif.com.br](https://deif.com.br)
- - date_published: 2024-05-01T04:33:23.594676+00:00
-
- ## Delicioso
- - [https://www.delicioso.com.br](https://www.delicioso.com.br)
- - date_published: 2024-08-05T16:06:22.611856+00:00
-
- ## Participe agora do Desafio 21 Dias Sem Carne!
- - [https://desafio21diassemcarne.com.br](https://desafio21diassemcarne.com.br)
- - date_published: 2021-04-22T00:00:00+00:00
-
- ## Desenlatar
- - [https://desenlatar.com.br](https://desenlatar.com.br)
- - date_published: 2023-11-03T00:31:47+00:00
-
- ## Desize
- - [https://www.desize.com.br](https://www.desize.com.br)
- - date_published: 2020-11-06T23:02:05+00:00
-
- ## Início | Ferramentas Desoutter
- - [https://www.desouttertools.com.br](https://www.desouttertools.com.br)
- - date_published: 2025-01-31T17:29:22.893249+00:00
-
- ## Diário do Comércio – A impressão digital da economia mineira
- - [https://diariodocomercio.com.br](https://diariodocomercio.com.br)
- - date_published: 2024-09-29T20:22:03.867467+00:00
-
- ## Diário do Poder
- - [https://diariodopoder.com.br](https://diariodopoder.com.br)
- - date_published: 2025-01-18T01:43:54.957172+00:00
-
- ## Diário do Transporte: Página destinada à cobertura jornalística dos principais fatos relacionados aos transportes, com notícias, informações de última hora, coberturas exclusivas, opinião, estudos técnicos e história.
- - [https://diariodotransporte.com.br](https://diariodotransporte.com.br)
- - date_published: 2025-01-18T01:46:04.050703+00:00
-
- ## Dicas Blogger
- - [http://www.dicasblogger.com.br](http://www.dicasblogger.com.br)
- - date_published: 2024-12-30T23:07:14+00:00
-
- ## Dicas de Treino – Treino, Dieta e Suplementação
- - [https://www.dicasdetreino.com.br](https://www.dicasdetreino.com.br)
- - date_published: 2024-12-26T16:45:13+00:00
-
- ## Dicionário Online - Dicionário inFormal
- - [http://www.dicionarioinformal.com.br](http://www.dicionarioinformal.com.br)
- - date_published: 2024-12-31T15:36:13+00:00
-
- ## Bem vindo(a) - 
-		
-		DigiForum
- - [http://www.digiforum.com.br](http://www.digiforum.com.br)
- - date_published: 2024-07-02T03:04:30.752776+00:00
-
- ## DigiKey Home
- - [https://digikey.com.br](https://digikey.com.br)
- - date_published: 2024-05-01T05:02:10.808018+00:00
-
- ## DigiLabour
- - [https://digilabour.com.br](https://digilabour.com.br)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## DigiMarCon Brazil 2025 · Sao Paulo, Brazil · June 19 - 20, 2025 · Digital Marketing, Media and Advertising Conference & Exhibition
- - [https://digimarconbrazil.com.br](https://digimarconbrazil.com.br)
- - date_published: 2025-01-25T03:21:59.925529+00:00
-
- ## DigiMarCon São Paulo 2025 · Sao Paulo, São Paulo · June 19 - 20, 2025 · Digital Marketing, Media and Advertising Conference & Exhibition
- - [https://digimarconsaopaulo.com.br](https://digimarconsaopaulo.com.br)
- - date_published: 2025-01-25T03:21:13.996165+00:00
-
- ## Móveis Sob Medida e Ambientes Planejados em Alto Padrão | Di Kaza Interiores e Móveis Sob Medida em Curitiba
- - [https://dikazamoveissobmedida.com.br](https://dikazamoveissobmedida.com.br)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Diogo Cortiz
- - [https://diogocortiz.com.br](https://diogocortiz.com.br)
- - date_published: 2024-06-09T17:27:41.530628+00:00
-
- ## Diolinux Plus
- - [https://plus.diolinux.com.br](https://plus.diolinux.com.br)
- - date_published: 2025-01-18T01:44:33.495781+00:00
-
- ## Aniversário Mágico | Disney
- - [http://aniversariomagico.disney.com.br](http://aniversariomagico.disney.com.br)
- - date_published: 2023-11-09T17:35:47+00:00
-
- ## Disney Brasil | O site oficial da Disney
- - [https://disney.com.br](https://disney.com.br)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Diversos Afins
- - [http://www.diversosafins.com.br](http://www.diversosafins.com.br)
- - date_published: 2024-12-31T16:46:46.728893+00:00
-
- ## Soluções de Impressão e Documentos Digitais - DLL
- - [https://www.dll.com.br](https://www.dll.com.br)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## DNV.com.br - When trust matters  - DNV
- - [https://www.dnv.com.br](https://www.dnv.com.br)
- - date_published: 2024-09-04T15:26:03.137341+00:00
-
- ## VOCAÇÃO - VOCÊ EM AÇÃO
- - [https://vocacao.doareacao.com.br](https://vocacao.doareacao.com.br)
- - date_published: 2023-12-22T02:59:37+00:00
-
- ## Dodge Home
- - [http://www.dodge.com.br](http://www.dodge.com.br)
- - date_published: 2024-06-17T11:54:13+00:00
-
- ## Sistema para contabilidade | Thomson Reuters - Soluções Domínio
- - [https://www.dominiosistemas.com.br](https://www.dominiosistemas.com.br)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## This Mastodon-Twitter crossposter instance is now offline
- - [https://crossposter.masto.donte.com.br](https://crossposter.masto.donte.com.br)
- - date_published: 2024-01-09T02:26:48.543826+00:00
-
- ## Downdetector
- - [https://downdetector.com.br](https://downdetector.com.br)
- - date_published: 2024-05-12T06:29:02.360283+00:00
-
- ## Baixar, software, drivers, jogos, tutoriais - Downloadsource.com.br
- - [https://www.downloadsource.com.br](https://www.downloadsource.com.br)
- - date_published: 2024-08-18T13:05:40.217801+00:00
-
- ## DP6
- - [https://www.dp6.com.br](https://www.dp6.com.br)
- - date_published: 2024-12-08T17:40:51+00:00
-
- ## Duracell Baterias Brasil | A maior empresa de baterias de consumo do mundo
- - [https://www.duracell.com.br](https://www.duracell.com.br)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Cursos, webinars e treinamento para os profissionais online — EBAC Online
- - [https://ebaconline.com.br](https://ebaconline.com.br)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Agência Brasil
- - [https://agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br)
- - date_published: 2024-06-30T17:44:55+00:00
-
- ## Agência Gov
- - [https://agenciagov.ebc.com.br](https://agenciagov.ebc.com.br)
- - date_published: 2024-01-02T00:00:00+00:00
 

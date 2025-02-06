@@ -1,3 +1,31 @@
+ ## MACLookup API Admin | Log in
+ - [https://my.maclookup.app](https://my.maclookup.app)
+ - date_published: 2024-08-19T11:48:49.331927+00:00
+
+ ## Infinite Mac
+ - [https://macos8.app](https://macos8.app)
+ - date_published: 2024-05-08T08:45:17.713590+00:00
+
+ ## Infinite Mac
+ - [https://macos9.app](https://macos9.app)
+ - date_published: 2023-10-25T11:47:10.340547+00:00
+
+ ## Maester
+ - [https://maester.app](https://maester.app)
+ - date_published: 2024-06-19T19:18:44.410920+00:00
+
+ ## Create Quiz with AI from any text
+ - [https://www.magicform.app](https://www.magicform.app)
+ - date_published: 2024-06-19T20:57:42.746452+00:00
+
+ ## Magic Maps 2: Now You See It.
+ - [https://magicmaps.app](https://magicmaps.app)
+ - date_published: 2020-05-05T17:59:11+00:00
+
+ ## MagicShot - Screenshot editor for busy indie makers
+ - [https://magicshot.app](https://magicshot.app)
+ - date_published: 2024-12-15T07:38:05.815346+00:00
+
  ## AI Presentation Maker - Presentation from Topic, YouTube, PDF, URL with AI
  - [https://magicslides.app](https://magicslides.app)
  - date_published: 2024-10-30T16:18:51.974505+00:00
@@ -351,6 +379,14 @@
  ## MonsterWriter - A Pleasant Way to Write a Thesis or Article
  - [https://monsterwriter.app](https://monsterwriter.app)
  - date_published: 2023-10-25T11:47:21.821251+00:00
+
+ ## Monta: The platform for EV Charging
+ - [https://app.monta.app](https://app.monta.app)
+ - date_published: 2025-02-05T06:15:31.466014+00:00
+
+ ## Monta Status
+ - [https://status.monta.app](https://status.monta.app)
+ - date_published: 2025-02-05T06:15:35.585329+00:00
 
  ## Moodist: Ambient Sounds for Focus and Calm
  - [https://moodist.app](https://moodist.app)
@@ -2435,6 +2471,10 @@ The Album
  - [https://parsec.app](https://parsec.app)
  - date_published: 2024-06-16T11:51:03.931807+00:00
 
+ ## Mozart Data
+ - [https://mozartdata.partnerfleet.app](https://mozartdata.partnerfleet.app)
+ - date_published: 2025-02-05T12:29:36.290435+00:00
+
  ## Partnerhub® for partnerships-led growth.
  - [https://partnerhub.app](https://partnerhub.app)
  - date_published: 2024-07-11T17:31:12.724787+00:00
@@ -4001,44 +4041,4 @@ The Album
  - [https://sqliteviewer.app](https://sqliteviewer.app)
  - date_published: 2024-06-14T09:17:12+00:00
  - tags: ['online tool', 'sqllite']
-
- ## Squaredle
- - [https://squaredle.app](https://squaredle.app)
- - date_published: 2024-08-06T19:52:24+00:00
-
- ## Squoosh
- - [https://squoosh.app](https://squoosh.app)
- - date_published: 2024-06-18T09:25:50.273289+00:00
-
- ## Stacker Status
- - [https://status.stacker.app](https://status.stacker.app)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Stacky - Create micro websites with QR codes
- - [https://stacky.app](https://stacky.app)
- - date_published: 2024-07-02T20:15:48.537819+00:00
-
- ## Staker.app
- - [https://staker.app](https://staker.app)
- - date_published: 2024-03-12T07:35:59+00:00
-
- ## StarKey | Your Secure Gateway to Web3
- - [https://www.starkey.app](https://www.starkey.app)
- - date_published: 2024-09-25T10:57:13.987560+00:00
-
- ## Starmoon AI: The Compact Device to Bring AI Characters to Life
- - [https://starmoon.app](https://starmoon.app)
- - date_published: 2024-12-12T21:19:31.704001+00:00
-
- ## Status.app
- - [https://discuss.status.app](https://discuss.status.app)
- - date_published: 2024-12-24T12:01:51.317196+00:00
-
- ## Status — Make the jump to web3
- - [https://status.app](https://status.app)
- - date_published: 2024-12-24T12:01:52.460758+00:00
-
- ## IT Team
- - [https://itteam.statusgator.app](https://itteam.statusgator.app)
- - date_published: 2025-01-30T22:09:02.320077+00:00
 
