@@ -1,3 +1,7 @@
+ ## The view from the hills
+ - [http://ghmltn.blogspot.com](http://ghmltn.blogspot.com)
+ - date_published: 2024-10-21T15:45:31.691600+00:00
+
  ## Ghola Scale
  - [https://gholascale.blogspot.com](https://gholascale.blogspot.com)
  - date_published: 2024-05-17T14:40:14.292638+00:00
@@ -4005,8 +4009,4 @@
  ## Imaginary Life
  - [http://imagination-incorporation.blogspot.com](http://imagination-incorporation.blogspot.com)
  - date_published: 2024-08-29T21:01:45+00:00
-
- ## Imagine, DC
- - [http://imaginedc.blogspot.com](http://imaginedc.blogspot.com)
- - date_published: 2006-07-11T00:00:00+00:00
 

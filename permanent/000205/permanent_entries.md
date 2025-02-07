@@ -1,3 +1,11 @@
+ ## New York - New York Business directory
+ - [https://nearfinderus.com](https://nearfinderus.com)
+ - date_published: 2024-05-07T13:48:57.488304+00:00
+
+ ## Nearform Commerce
+ - [https://commerce.nearform.com](https://commerce.nearform.com)
+ - date_published: 2024-07-04T12:06:39.306886+00:00
+
  ## Nearform
  - [https://nearform.com](https://nearform.com)
  - date_published: 2024-06-21T15:19:51.507781+00:00
@@ -4026,12 +4034,4 @@
  ## Creating Global Memory | New7Wonders of Nature
  - [https://nature.new7wonders.com](https://nature.new7wonders.com)
  - date_published: 2024-06-30T09:53:14.050843+00:00
-
- ## Creating Global Memory | Home
- - [https://world.new7wonders.com](https://world.new7wonders.com)
- - date_published: 2024-05-07T16:01:58.979942+00:00
-
- ## New7Wonders | The Global Voting Campaigns
- - [https://www.new7wonders.com](https://www.new7wonders.com)
- - date_published: 2024-06-30T09:53:20.437954+00:00
 

@@ -1,3 +1,19 @@
+ ## WebGPU-Based WiFi Simulator
+ - [https://wifi-solver.com](https://wifi-solver.com)
+ - date_published: 2024-10-20T18:01:43+00:00
+
+ ## WiFi Training Store
+ - [https://store.wifitraining.com](https://store.wifitraining.com)
+ - date_published: 2024-09-28T23:40:41.395593+00:00
+
+ ## WiFi Training™
+ - [http://wifitraining.com](http://wifitraining.com)
+ - date_published: 2024-06-16T09:05:33.894820+00:00
+
+ ## Wi-Fi University powered by 7SIGNAL
+ - [https://wifiu.com](https://wifiu.com)
+ - date_published: 2024-09-27T10:06:43.726980+00:00
+
  ## Wi-Fi Vitae - Combining the best of whisky and wireless
  - [http://wifivitae.com](http://wifivitae.com)
  - date_published: 2025-02-05T10:14:09.910386+00:00
@@ -3989,20 +4005,4 @@
  ## https://onlinelibrary.wiley.com
  - [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
  - date_published: 2023-10-25T18:05:35.898602+00:00
-
- ## Cierpliwości...
- - [http://ordering.onlinelibrary.wiley.com](http://ordering.onlinelibrary.wiley.com)
- - date_published: 2024-06-28T21:09:15.513096+00:00
-
- ## https://physoc.onlinelibrary.wiley.com
- - [https://physoc.onlinelibrary.wiley.com](https://physoc.onlinelibrary.wiley.com)
- - date_published: 2023-11-12T06:59:06.705475+00:00
-
- ## Cierpliwości...
- - [https://rai.onlinelibrary.wiley.com](https://rai.onlinelibrary.wiley.com)
- - date_published: 2024-06-21T20:39:23.479675+00:00
-
- ## Bookshelf - Wiley Reader
- - [http://read.wiley.com](http://read.wiley.com)
- - date_published: 2025-01-15T04:40:21.526008+00:00
 

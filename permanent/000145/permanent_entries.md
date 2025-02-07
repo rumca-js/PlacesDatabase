@@ -1,3 +1,7 @@
+ ## gdURL: Direct Permalinks for Google Drive - 1,116,301 links and counting
+ - [https://gdurl.com](https://gdurl.com)
+ - date_published: 2024-05-08T02:30:56.637140+00:00
+
  ## Graphic Design USA
  - [https://gdusa.com](https://gdusa.com)
  - date_published: 2024-09-16T23:16:53.318452+00:00
@@ -4038,9 +4042,4 @@ Homepage
  ## Formalize | Turbocharging high-growth fintechs
  - [https://getformalize.com](https://getformalize.com)
  - date_published: 2024-03-19T00:00:00+00:00
-
- ## Free Online Form Builder | Form Creator | Formly
- - [https://www.getformly.com](https://www.getformly.com)
- - date_published: 2024-05-06T12:50:30+00:00
- - tags: ['online service', 'forms']
 

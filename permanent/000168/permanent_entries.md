@@ -1,3 +1,7 @@
+ ## Welcome to Isansys
+ - [https://www.isansys.com](https://www.isansys.com)
+ - date_published: 2024-12-25T18:39:37.930723+00:00
+
  ## Is Apple Silicon ready?
  - [https://isapplesiliconready.com](https://isapplesiliconready.com)
  - date_published: 2024-02-28T00:00:00+00:00
@@ -4038,8 +4042,4 @@
  ## Jacob T. Levy
  - [http://jacobtlevy.com](http://jacobtlevy.com)
  - date_published: 2024-07-13T23:29:57.984729+00:00
-
- ## Jacob Trefethen's blog
- - [https://blog.jacobtrefethen.com](https://blog.jacobtrefethen.com)
- - date_published: 2024-08-19T08:33:23.011763+00:00
 

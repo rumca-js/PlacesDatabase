@@ -1,3 +1,27 @@
+ ## Sant Longowal Institute of Engineering & Technology
+ - [http://sliet.ac.in](http://sliet.ac.in)
+ - date_published: 2024-09-11T17:50:26.037440+00:00
+
+ ## Home | SPA
+ - [https://spa.ac.in](https://spa.ac.in)
+ - date_published: 2024-09-11T17:59:19.943565+00:00
+
+ ## Dept. of Architecture
+ - [https://ar.spab.ac.in](https://ar.spab.ac.in)
+ - date_published: 2024-12-24T19:57:10.928474+00:00
+
+ ## Department of Conservation,SPA Bhopal
+ - [https://conservation.spab.ac.in](https://conservation.spab.ac.in)
+ - date_published: 2024-12-24T19:57:02.695408+00:00
+
+ ## Department of Landscape @SPA Bhopal
+ - [https://landscape.spab.ac.in](https://landscape.spab.ac.in)
+ - date_published: 2024-12-24T19:56:05.068643+00:00
+
+ ## Placement @ SPA Bhopal
+ - [https://placement.spab.ac.in](https://placement.spab.ac.in)
+ - date_published: 2024-12-24T19:56:20.442579+00:00
+
  ## Transport Planning, SPA Bhopal
  - [https://tp.spab.ac.in](https://tp.spab.ac.in)
  - date_published: 2024-12-24T19:56:28.386182+00:00
@@ -4008,28 +4032,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## CyberBruhArmy
  - [https://course.cyberbruharmy.in](https://course.cyberbruharmy.in)
  - date_published: 2023-10-16T00:00:00+00:00
-
- ## Home
- - [https://cyberbruharmy.in](https://cyberbruharmy.in)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Engage Your Audience with Strategic PR and Integrated Annual Report Design
- - [http://cygnusadvertising.in](http://cygnusadvertising.in)
- - date_published: 2024-12-24T18:42:02.119877+00:00
-
- ## Engage Your Audience with Strategic PR and Integrated Annual Report Design
- - [http://www.cygnusadvertising.in](http://www.cygnusadvertising.in)
- - date_published: 2024-12-24T13:05:53.638494+00:00
-
- ## Pavel Czempin
- - [https://czemp.in](https://czemp.in)
- - date_published: 2024-07-07T07:15:24.522528+00:00
-
- ## dailyO - Trending News, Viral Stories, Video and Photo, Latest News Headlines
- - [https://dailyo.in](https://dailyo.in)
- - date_published: 2024-05-13T03:27:50.116366+00:00
-
- ## Daily Stormer
- - [https://dailystormer.in](https://dailystormer.in)
- - date_published: 2024-05-06T21:17:30.204079+00:00
 

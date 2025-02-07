@@ -1,3 +1,7 @@
+ ## Luxury Hotels, Travel, Dining, Lifestyle - Haute Living
+ - [https://hauteliving.com](https://hauteliving.com)
+ - date_published: 2024-07-09T17:52:07+00:00
+
  ## Haute Living Luxury Marketplace
  - [https://marketplace.hauteliving.com](https://marketplace.hauteliving.com)
  - date_published: 2025-01-18T07:58:19.708482+00:00
@@ -4095,8 +4099,4 @@
  ## Hello Screen Printing
  - [https://helloscreenprinting.com](https://helloscreenprinting.com)
  - date_published: 2024-05-10T04:47:15.307233+00:00
-
- ## SEEN: Dermatologist Designed Luxury Hair Care - Won't Clog Pores
- - [https://helloseen.com](https://helloseen.com)
- - date_published: 2024-07-20T21:41:26.544475+00:00
 

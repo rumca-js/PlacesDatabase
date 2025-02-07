@@ -1,3 +1,32 @@
+ ## Daneric's Elliott Waves – Elliott Wave Theory, Technical Analysis, and Social Mood Commentary
+ - [http://www.danericselliottwaves.org](http://www.danericselliottwaves.org)
+ - date_published: 2024-07-01T09:04:13.329290+00:00
+
+ ## Dan Fu - Stanford University
+ - [https://www.danfu.org](https://www.danfu.org)
+ - date_published: 2024-05-07T20:26:55.177987+00:00
+
+ ## Danica McKellar Online |
+ - [https://danicamckellar.org](https://danicamckellar.org)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Daniel Greenfield / Sultan Knish Articles at DanielGreenfield.org
+ - [http://www.danielgreenfield.org](http://www.danielgreenfield.org)
+ - date_published: 2024-06-27T05:28:45+00:00
+
+ ## Meet Danielle Boyer
+ - [https://www.danielleboyer.org](https://www.danielleboyer.org)
+ - date_published: 2024-07-07T08:38:08.770200+00:00
+
+ ## Daniel Nouri's Homepage
+ - [https://danielnouri.org](https://danielnouri.org)
+ - date_published: 2024-06-03T06:26:34.397925+00:00
+ - tags: ['personal']
+
+ ## Page d'accueil
+ - [https://www.danielou.org](https://www.danielou.org)
+ - date_published: 2024-03-27T16:50:11+00:00
+
  ## The Daniel Pearl Foundation
  - [http://www.danielpearl.org](http://www.danielpearl.org)
  - date_published: 2024-08-08T00:00:00+00:00
@@ -4007,32 +4036,4 @@
  ## Home - Diversity Joint Venture for Careers in Conservation
  - [https://diversityinconservationjobs.org](https://diversityinconservationjobs.org)
  - date_published: 2024-12-21T22:54:38.227952+00:00
-
- ## diversityweb.org
- - [http://www.diversityweb.org](http://www.diversityweb.org)
- - date_published: 2024-07-15T07:19:06.492496+00:00
-
- ## Divest Oregon grassroots coalition to remove fossil fuel investments from Oregon Treasury
- - [https://divestoregon.org](https://divestoregon.org)
- - date_published: 2025-02-03T19:36:34.882298+00:00
-
- ## Home - DivestOS Mobile
- - [https://divestos.org](https://divestos.org)
- - date_published: 2023-10-25T21:14:34.497389+00:00
-
- ## Home
- - [https://dividedwefall.org](https://dividedwefall.org)
- - date_published: 2024-05-08T10:14:12.695967+00:00
-
- ## Society for the Psychological Study of Culture, Ethnicity and Race – Division 45 of the American Psychological Association
- - [https://division45.org](https://division45.org)
- - date_published: 2024-07-01T18:55:22+00:00
-
- ## Ricardo de Queiroz's Home Page
- - [https://queiroz.divp.org](https://queiroz.divp.org)
- - date_published: 2021-01-22T01:56:04+00:00
-
- ## Divvi Up
- - [https://divviup.org](https://divviup.org)
- - date_published: 2024-02-21T00:00:00+00:00
 

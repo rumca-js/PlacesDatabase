@@ -1,4 +1,9 @@
  ## Eric Draken - Hard-Problem Solver
+ - [https://ericdraken.com](https://ericdraken.com)
+ - date_published: 2022-11-05T08:30:47+00:00
+ - tags: ['personal']
+
+ ## Eric Draken - Hard-Problem Solver
  - [https://static.ericdraken.com](https://static.ericdraken.com)
  - date_published: 2022-11-05T08:30:52+00:00
 
@@ -4104,8 +4109,4 @@
  ## KistStudio - Etsy Poland
  - [https://kiststudio.etsy.com](https://kiststudio.etsy.com)
  - date_published: 2025-01-25T10:54:39.119458+00:00
-
- ## kriscables - Etsy Poland
- - [https://kriscables.etsy.com](https://kriscables.etsy.com)
- - date_published: 2025-02-02T15:48:54.523193+00:00
 

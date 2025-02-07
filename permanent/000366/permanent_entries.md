@@ -1,3 +1,27 @@
+ ## XSwapProtocol
+ - [https://v2.xspswap.finance](https://v2.xspswap.finance)
+ - date_published: 2025-01-23T08:17:15.014206+00:00
+
+ ## XSwap Protocol - The 1st AMM & Launchpad on XDC Network Powered by XDC
+ - [https://xspswap.finance](https://xspswap.finance)
+ - date_published: 2025-01-09T17:58:09.245933+00:00
+
+ ## XY Finance - Full Cross-Chain Aggregator Enabling Smart Routing
+ - [https://xy.finance](https://xy.finance)
+ - date_published: 2024-05-30T10:21:25+00:00
+
+ ## Y2K Finance
+ - [https://app.y2k.finance](https://app.y2k.finance)
+ - date_published: 2025-02-02T00:59:40.836595+00:00
+
+ ## Y2k Finance
+ - [https://y2k.finance](https://y2k.finance)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Yearn Docs
+ - [https://docs.yearn.finance](https://docs.yearn.finance)
+ - date_published: 2025-02-01T23:42:32.833377+00:00
+
  ## yearn
  - [https://gov.yearn.finance](https://gov.yearn.finance)
  - date_published: 2024-06-04T00:00:00+00:00
@@ -4028,28 +4052,4 @@
  ## Mastering Burp Suite Pro, 100% hands-on
  - [https://hackademy.agarri.fr](https://hackademy.agarri.fr)
  - date_published: 2024-10-16T04:29:45.723611+00:00
-
- ## Agarri: Offensive information security
- - [http://www.agarri.fr](http://www.agarri.fr)
- - date_published: 2024-06-16T08:00:01+00:00
-
- ## Actualité financière et économique - Information finance avec l'AGEFI - L'Agefi
- - [https://www.agefi.fr](https://www.agefi.fr)
- - date_published: 2025-01-31T18:58:15.694324+00:00
-
- ## Agefiph | Association aide à l'emploi personnes en situation de handicap
- - [https://www.agefiph.fr](https://www.agefiph.fr)
- - date_published: 2025-01-15T06:21:43.722225+00:00
-
- ## Arnaud Gélébart : consultant SEO à Mulhouse en Alsace
- - [https://agelebart.fr](https://agelebart.fr)
- - date_published: 2024-01-09T11:05:51.435930+00:00
-
- ## August
- - [https://www.agenceaugust.fr](https://www.agenceaugust.fr)
- - date_published: 2024-10-29T14:08:13.831871+00:00
-
- ## Agence Différente
- - [http://new.agence-differente.fr](http://new.agence-differente.fr)
- - date_published: 2024-03-27T00:00:00+00:00
 

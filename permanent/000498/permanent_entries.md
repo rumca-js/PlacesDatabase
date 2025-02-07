@@ -1,3 +1,31 @@
+ ## The Shift Data Portal
+ - [https://www.theshiftdataportal.org](https://www.theshiftdataportal.org)
+ - date_published: 2024-08-18T11:03:03.475044+00:00
+
+ ## Welcome to analytics.theshifters.org
+ - [https://analytics.theshifters.org](https://analytics.theshifters.org)
+ - date_published: 2021-03-02T15:06:47+00:00
+
+ ## Les Initiatives des Shifters pour la transition énergie-climat
+ - [https://initiatives.theshifters.org](https://initiatives.theshifters.org)
+ - date_published: 2024-08-18T00:00:31+00:00
+
+ ## Accueil - The Shift Project
+ - [https://theshiftproject.org](https://theshiftproject.org)
+ - date_published: 2023-12-11T16:18:22.195691+00:00
+
+ ## The Sifter - A Food History Research Tool
+ - [https://thesifter.org](https://thesifter.org)
+ - date_published: 2023-10-25T22:14:32.844291+00:00
+
+ ## SIGMUND — Resources for entrepreneurs in tourism
+ - [https://thesigmundproject.org](https://thesigmundproject.org)
+ - date_published: 2024-06-27T06:20:20.517595+00:00
+
+ ## Whistleblower Support Organization - The Signals Network
+ - [https://thesignalsnetwork.org](https://thesignalsnetwork.org)
+ - date_published: 2024-08-16T00:00:00+00:00
+
  ## Skeptics' Guide to the Universe Shop | Merch, Tshirts, Hoodies, & more
  - [https://shop.theskepticsguide.org](https://shop.theskepticsguide.org)
  - date_published: 2024-06-24T11:34:14.888951+00:00
@@ -4004,32 +4032,4 @@ of Life Web Project
  ## Try Clojure
  - [https://tryclojure.org](https://tryclojure.org)
  - date_published: 2024-05-22T18:11:34+00:00
-
- ## Home - TryEngineering.org Powered by IEEE
- - [https://tryengineering.org](https://tryengineering.org)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## tryexceptpass
- - [https://tryexceptpass.org](https://tryexceptpass.org)
- - date_published: 2020-06-16T00:35:07+00:00
-
- ## Try Haskell! An interactive tutorial in your browser
- - [https://tryhaskell.org](https://tryhaskell.org)
- - date_published: 2024-05-13T02:45:37.456998+00:00
-
- ## Issues · Tryton / Tryton · GitLab
- - [https://bugs.tryton.org](https://bugs.tryton.org)
- - date_published: 2024-07-08T16:51:20.509514+00:00
-
- ## Modularity, scalability & security for your business
- - [https://cdn.tryton.org](https://cdn.tryton.org)
- - date_published: 2024-10-31T04:32:15.291255+00:00
-
- ## Tryton · GitLab
- - [https://code.tryton.org](https://code.tryton.org)
- - date_published: 2024-07-08T16:50:53.721814+00:00
-
- ## Tryton Discussion
- - [https://discuss-cdn.tryton.org](https://discuss-cdn.tryton.org)
- - date_published: 2024-05-01T00:00:00+00:00
 

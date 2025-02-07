@@ -1,3 +1,7 @@
+ ## floe
+ - [http://floetapes.bandcamp.com](http://floetapes.bandcamp.com)
+ - date_published: 2024-12-27T06:58:06.199272+00:00
+
  ## glitched puppet
  - [https://floraverse.bandcamp.com](https://floraverse.bandcamp.com)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -3993,8 +3997,4 @@
  ## LEOPARDO
  - [https://leopardoshallo.bandcamp.com](https://leopardoshallo.bandcamp.com)
  - date_published: 2024-09-16T00:00:00+00:00
-
- ## Les Disques Bongo Joe
- - [https://lesdisquesbongojoe.bandcamp.com](https://lesdisquesbongojoe.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
 

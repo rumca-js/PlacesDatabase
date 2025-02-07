@@ -1,3 +1,31 @@
+ ## Sign In or Create an Account - American Heart Association
+ - [https://ahassoqa.heart.org](https://ahassoqa.heart.org)
+ - date_published: 2024-09-15T09:52:48.126957+00:00
+
+ ## American Heart Association CPR &amp; First Aid
+ - [https://cpr.heart.org](https://cpr.heart.org)
+ - date_published: 2024-06-19T14:40:26.304307+00:00
+
+ ## YOUR GIFT DOUBLES TO HELP SAVE LIVES
+ - [https://donate.heart.org](https://donate.heart.org)
+ - date_published: 2024-07-09T15:15:42.501640+00:00
+
+ ## Home, AHA
+ - [https://ebooks.heart.org](https://ebooks.heart.org)
+ - date_published: 2024-10-29T08:14:18.284376+00:00
+
+ ## 2020 American Heart Association Guidelines for CPR and ECC
+ - [https://eccguidelines.heart.org](https://eccguidelines.heart.org)
+ - date_published: 2024-10-29T08:16:42.685669+00:00
+
+ ## Professional Education Hub
+ - [https://education.heart.org](https://education.heart.org)
+ - date_published: 2024-10-14T16:14:44+00:00
+
+ ## American Heart Association | To be a relentless force for a world of longer, healthier lives
+ - [https://heart.org](https://heart.org)
+ - date_published: 2023-10-25T21:28:27.272418+00:00
+
  ## The Road to a Healthy Heart Starts Here
  - [http://hospitalmaps.heart.org](http://hospitalmaps.heart.org)
  - date_published: 2024-06-19T14:41:03.508669+00:00
@@ -4066,32 +4094,4 @@
  ## IAN CORLESS
  - [https://iancorless.org](https://iancorless.org)
  - date_published: 2024-11-01T00:52:28.190835+00:00
-
- ## IANDS - the most reliable source of information on NDEs
- - [http://www.iands.org](http://www.iands.org)
- - date_published: 2024-06-29T09:51:13+00:00
-
- ## ian-miller.org | The Official Ian Miller Website
- - [http://www.ian-miller.org](http://www.ian-miller.org)
- - date_published: 2024-07-12T08:28:16+00:00
-
- ## I Annotate
- - [http://iannotate.org](http://iannotate.org)
- - date_published: 2021-08-04T03:01:58+00:00
-
- ## Page Gone - 410 Error
- - [http://www.iaomc.org](http://www.iaomc.org)
- - date_published: 2024-07-14T10:46:24.591301+00:00
-
- ## The International Academy of Oral Medicine and Toxicology
- - [https://iaomt.org](https://iaomt.org)
- - date_published: 2023-11-03T13:45:24+00:00
-
- ## IAOP – The Association with Collaboration at its Core.
- - [https://www.iaop.org](https://www.iaop.org)
- - date_published: 2024-07-04T12:13:08.880431+00:00
-
- ## International au pair association – IAPA
- - [https://www.iapa.org](https://www.iapa.org)
- - date_published: 2024-06-18T06:56:05.852044+00:00
 

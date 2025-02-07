@@ -1,3 +1,31 @@
+ ## The JustSpace Alliance
+ - [https://justspacealliance.org](https://justspacealliance.org)
+ - date_published: 2024-06-17T16:27:05.582735+00:00
+
+ ## Just Stop Oil – Just Stop Oil
+ - [https://juststopoil.org](https://juststopoil.org)
+ - date_published: 2024-03-08T13:16:26+00:00
+
+ ## Just Testing
+ - [https://justtesting.org](https://justtesting.org)
+ - date_published: 2024-07-11T07:55:44.549521+00:00
+
+ ## Just Vision
+ - [http://www.justvision.org](http://www.justvision.org)
+ - date_published: 2024-07-11T21:35:50+00:00
+
+ ## The Juvet Agenda
+ - [http://juvetagenda.org](http://juvetagenda.org)
+ - date_published: 2024-07-09T10:07:56.901493+00:00
+
+ ## JVP Action
+ - [https://jvpaction.org](https://jvpaction.org)
+ - date_published: 2024-05-12T05:53:33.578950+00:00
+
+ ## JVWR.net
+ - [https://jvwresearch.org](https://jvwresearch.org)
+ - date_published: 2024-05-09T05:24:33.914777+00:00
+
  ## Jewish Women's Archive
  - [https://jwa.org](https://jwa.org)
  - date_published: 2024-07-04T13:16:45.330489+00:00
@@ -4061,35 +4089,4 @@ Hosted by Panix.com.
  - [https://kvnf.org](https://kvnf.org)
  - date_published: 2024-03-15T00:00:00+00:00
  - date_dead_since: 2025-02-04T16:44:44.645165+00:00
-
- ## Empowering Minds, Transforming Futures
- - [https://kvsulur.org](https://kvsulur.org)
- - date_published: 2024-12-13T03:31:38.593665+00:00
-
- ## Best Sign Company Fountain Valley, CA | Custom Signs, Graphics, & Wraps
- - [https://kwahk.org](https://kwahk.org)
- - date_published: 2024-10-21T17:13:51.025166+00:00
- - date_dead_since: 2025-02-04T16:44:47.326584+00:00
-
- ## Quantum transport simulations made easy
- - [http://kwant-project.org](http://kwant-project.org)
- - date_published: 2020-12-08T16:16:35+00:00
-
- ## kwatsjpedia.org
- - [https://kwatsjpedia.org](https://kwatsjpedia.org)
- - date_published: 2024-07-14T06:14:58.701931+00:00
-
- ## KWBU - Homepage
- - [https://kwbu.org](https://kwbu.org)
- - date_published: 2024-08-19T18:49:32.943772+00:00
- - date_dead_since: 2025-02-04T16:44:51.108871+00:00
-
- ## Remix.Kwed.Org | The Def Guide to C64 MP3 remixes
- - [https://remix.kwed.org](https://remix.kwed.org)
- - date_published: 2024-02-15T22:14:00.417683+00:00
- - tags: ['demoscene']
-
- ## home - Key West Literary Seminar
- - [http://www.kwls.org](http://www.kwls.org)
- - date_published: 2025-01-01T01:36:51.328825+00:00
 

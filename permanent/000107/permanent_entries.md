@@ -1,3 +1,7 @@
+ ## Home Commerzbank Group - Group Website
+ - [https://commerzbank.com](https://commerzbank.com)
+ - date_published: 2024-10-11T05:04:54+00:00
+
  ## Home
  - [https://investor-relations.commerzbank.com](https://investor-relations.commerzbank.com)
  - date_published: 2024-06-06T00:00:00+00:00
@@ -4017,8 +4021,4 @@ Real Estate Supercenter
  ## The Contemplative Mammoth
  - [https://contemplativemammoth.com](https://contemplativemammoth.com)
  - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home | Sustainable Futures
- - [https://contemplative-sustainable-futures.com](https://contemplative-sustainable-futures.com)
- - date_published: 1970-01-01T00:00:00+00:00
 

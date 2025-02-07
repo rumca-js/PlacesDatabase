@@ -1,3 +1,31 @@
+ ## CGRAN
+ - [http://cgran.org](http://cgran.org)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## About CGRD
+ - [http://www.cgrd.org](http://www.cgrd.org)
+ - date_published: 2024-10-29T16:41:14+00:00
+
+ ## CGSecurity - Data recovery: TestDisk & PhotoRec
+ - [https://cgsecurity.org](https://cgsecurity.org)
+ - date_published: 2024-02-22T20:17:23+00:00
+
+ ## cgsecurity.org - Index page
+ - [https://forum.cgsecurity.org](https://forum.cgsecurity.org)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## The National Voice for Graduate Education - CGS
+ - [https://cgsnet.org](https://cgsnet.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 3D & Animation online courses for creative professionals | Domestika
+ - [http://aivlis.cgsociety.org](http://aivlis.cgsociety.org)
+ - date_published: 2024-08-19T12:52:29.848706+00:00
+
+ ## 3D & Animation online courses for creative professionals | Domestika
+ - [http://cgsociety.org](http://cgsociety.org)
+ - date_published: 2024-08-10T23:17:10.324053+00:00
+
  ## 3D & Animation online courses for creative professionals | Domestika
  - [https://phongkhamagoxoilac.cgsociety.org](https://phongkhamagoxoilac.cgsociety.org)
  - date_published: 2025-01-08T15:11:24.887562+00:00
@@ -4018,32 +4046,4 @@ feel and do
  ## Home - CLOH.org
  - [https://cloh.org](https://cloh.org)
  - date_published: 2019-02-12T13:04:09+00:00
-
- ## Links to various sites and services - Hub.CLOH.org
- - [https://hub.cloh.org](https://hub.cloh.org)
- - date_published: 2017-03-06T18:29:19+00:00
-
- ## Clojars
- - [https://clojars.org](https://clojars.org)
- - date_published: 2024-05-07T19:03:06.969996+00:00
-
- ## Clojars Repository: /
- - [https://repo.clojars.org](https://repo.clojars.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Clojerl
- - [http://clojerl.org](http://clojerl.org)
- - date_published: 2021-06-06T20:55:15+00:00
-
- ## Clojure Archive
- - [https://archive.clojure.org](https://archive.clojure.org)
- - date_published: 2023-07-28T19:12:38+00:00
-
- ## Clojure
- - [https://clojure.org](https://clojure.org)
- - date_published: 2023-10-25T21:08:00.189323+00:00
-
- ## Clojure/conj 2015
- - [http://2015.clojure-conj.org](http://2015.clojure-conj.org)
- - date_published: 2016-08-05T14:37:21+00:00
 

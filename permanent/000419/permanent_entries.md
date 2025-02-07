@@ -1,3 +1,27 @@
+ ## Microsoft Teams
+ - [https://microsoft-teams.softonic.kr](https://microsoft-teams.softonic.kr)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## MoneyMe for windows
+ - [https://moneyme-for-windows.softonic.kr](https://moneyme-for-windows.softonic.kr)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Pochemeow Pro
+ - [https://pochemeow.softonic.kr](https://pochemeow.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Qjob - Helyi szakemberek
+ - [https://qjob-helyi-szakemberek.softonic.kr](https://qjob-helyi-szakemberek.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Rock Paper Scissors ULTIMATE
+ - [https://rock-paper-scissors-ultimate.softonic.kr](https://rock-paper-scissors-ultimate.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Roia
+ - [https://roia.softonic.kr](https://roia.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
  ## RollZ (by Hecate Ediciones)
  - [https://rollz-hecate-ediciones.softonic.kr](https://rollz-hecate-ediciones.softonic.kr)
  - date_published: 2024-08-02T00:00:00+00:00
@@ -4004,28 +4028,4 @@
  ## Year 01
  - [https://year01.life](https://year01.life)
  - date_published: 2024-09-14T23:34:40.092208+00:00
-
- ## YesilKimya:YesilDunya
- - [http://yesilkimyayesildunya.life](http://yesilkimyayesildunya.life)
- - date_published: 2024-10-19T14:24:14.711491+00:00
-
- ## Yiff.Life - It's not what you think...
- - [https://yiff.life](https://yiff.life)
- - date_published: 2024-08-19T17:24:29.122156+00:00
-
- ## yippy® LIFE: Community for Nature and Biodiversity
- - [https://yippy.life](https://yippy.life)
- - date_published: 2024-12-16T16:02:01+00:00
-
- ## Max88: คาสิโนบนมือถือ สมัครสมาชิกตอนนี้ ฝากเพียง 100 บาท
- - [https://max88th.lifestyle](https://max88th.lifestyle)
- - date_published: 2025-01-17T21:01:58.578014+00:00
-
- ## BlinderKitten
- - [https://blinderkitten.lighting](https://blinderkitten.lighting)
- - date_published: 2023-10-25T20:18:25.187517+00:00
-
- ## Ralf Rottmann Lighting · Professional Event & Show Lighting · Production Technology
- - [https://r2.lighting](https://r2.lighting)
- - date_published: 2025-01-16T14:28:11.044684+00:00
 

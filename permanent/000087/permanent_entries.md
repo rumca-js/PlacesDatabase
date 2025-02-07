@@ -1,3 +1,7 @@
+ ## Not Running a Hospital
+ - [https://runningahospital.blogspot.com](https://runningahospital.blogspot.com)
+ - date_published: 2016-03-15T17:35:00+00:00
+
  ## The RunningArtist Blog Spot!
  - [http://runningartist.blogspot.com](http://runningartist.blogspot.com)
  - date_published: 2024-08-29T19:25:04+00:00
@@ -4001,8 +4005,4 @@
  ## Spiral Galaxy Musings
  - [http://spiralgalaxyreviews.blogspot.com](http://spiralgalaxyreviews.blogspot.com)
  - date_published: 2024-06-19T03:58:00+00:00
-
- ## SpiralingCadaver
- - [http://spiralingcadaver.blogspot.com](http://spiralingcadaver.blogspot.com)
- - date_published: 2024-11-06T02:57:48+00:00
 

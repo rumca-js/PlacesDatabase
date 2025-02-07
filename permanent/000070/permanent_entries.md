@@ -1,3 +1,8 @@
+ ## Ben Schecter
+ - [https://benschecter.com](https://benschecter.com)
+ - date_published: 2023-11-29T20:43:41.477651+00:00
+ - tags: ['personal']
+
  ## Ben Scheirman
  - [https://benscheirman.com](https://benscheirman.com)
  - date_published: 2024-01-21T20:48:26+00:00
@@ -4055,9 +4060,4 @@
  ## We help humanity explore the world and beyond. | Beyond Gravity
  - [https://beyondgravity.com](https://beyondgravity.com)
  - date_published: 2024-04-29T05:31:32.825744+00:00
-
- ## Thomas S. Ray
- - [https://shop.beyondgravity.com](https://shop.beyondgravity.com)
- - date_published: 2024-07-26T19:05:29.454041+00:00
- - date_dead_since: 2025-01-30T19:40:53.121846+00:00
 

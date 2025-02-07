@@ -1,3 +1,7 @@
+ ## Investor Relations
+ - [https://att-ir-v2.prod-use1.investis.com](https://att-ir-v2.prod-use1.investis.com)
+ - date_published: 2024-07-15T03:27:21.219599+00:00
+
  ## IIS Windows Server
  - [https://irs.tools.investis.com](https://irs.tools.investis.com)
  - date_published: 2024-05-06T14:35:02.383597+00:00
@@ -4074,8 +4078,4 @@
  ## iSAMS Ltd Status
  - [https://status.isams.com](https://status.isams.com)
  - date_published: 2025-02-05T17:23:49.158798+00:00
-
- ## Welcome to Isansys
- - [https://www.isansys.com](https://www.isansys.com)
- - date_published: 2024-12-25T18:39:37.930723+00:00
 

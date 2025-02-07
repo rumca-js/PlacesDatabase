@@ -1,3 +1,31 @@
+ ## Wikipedia
+ - [https://ss.wikipedia.org](https://ss.wikipedia.org)
+ - date_published: 2024-05-10T04:19:03.926253+00:00
+
+ ## Wikipedia
+ - [https://st.m.wikipedia.org](https://st.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:24+00:00
+
+ ## Wikipedia
+ - [https://stq.m.wikipedia.org](https://stq.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:24+00:00
+
+ ## Wikipedia
+ - [https://stq.wikipedia.org](https://stq.wikipedia.org)
+ - date_published: 2024-05-10T04:25:17.578133+00:00
+
+ ## Wikipedia
+ - [https://st.wikipedia.org](https://st.wikipedia.org)
+ - date_published: 2024-05-10T04:18:09.303505+00:00
+
+ ## Wikipédia Sunda, énsiklopédi bébas
+ - [https://su.m.wikipedia.org](https://su.m.wikipedia.org)
+ - date_published: 2024-07-11T10:13:57+00:00
+
+ ## Wikipédia Sunda, énsiklopédi bébas
+ - [https://su.wikipedia.org](https://su.wikipedia.org)
+ - date_published: 2024-05-10T04:28:53.483970+00:00
+
  ## Wikipedia, den fria encyklopedin
  - [https://sv.m.wikipedia.org](https://sv.m.wikipedia.org)
  - date_published: 2024-07-11T09:52:01+00:00
@@ -4081,32 +4109,4 @@
  ## ဝိၵ်ႇသျိၼ်ႇၼရီႇ
  - [https://shn.wiktionary.org](https://shn.wiktionary.org)
  - date_published: 2024-06-11T12:31:49+00:00
-
- ## Wiktionary
- - [https://sh.wiktionary.org](https://sh.wiktionary.org)
- - date_published: 2024-06-01T12:23:52+00:00
-
- ## Wikasegzawal
- - [https://shy.m.wiktionary.org](https://shy.m.wiktionary.org)
- - date_published: 2024-09-04T03:14:18+00:00
-
- ## Wikasegzawal
- - [https://shy.wiktionary.org](https://shy.wiktionary.org)
- - date_published: 2024-05-31T21:43:07+00:00
-
- ## Simple English Wiktionary
- - [https://simple.m.wiktionary.org](https://simple.m.wiktionary.org)
- - date_published: 2024-09-03T04:52:29+00:00
-
- ## Simple English Wiktionary
- - [https://simple.wiktionary.org](https://simple.wiktionary.org)
- - date_published: 2024-06-07T20:13:04+00:00
-
- ## Wiktionary
- - [https://si.m.wiktionary.org](https://si.m.wiktionary.org)
- - date_published: 2024-09-17T14:39:51+00:00
-
- ## Wiktionary
- - [https://si.wiktionary.org](https://si.wiktionary.org)
- - date_published: 2024-06-11T15:08:37+00:00
 

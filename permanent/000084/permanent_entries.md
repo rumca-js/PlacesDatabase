@@ -1,3 +1,7 @@
+ ## The Muqata
+ - [http://muqata.blogspot.com](http://muqata.blogspot.com)
+ - date_published: 2024-06-09T19:25:26+00:00
+
  ## Metadata
  - [https://muratbuffalo.blogspot.com](https://muratbuffalo.blogspot.com)
  - date_published: 2023-10-25T09:10:15.224216+00:00
@@ -4004,8 +4008,4 @@
  ## Optus bungling
  - [http://optus-australia.blogspot.com](http://optus-australia.blogspot.com)
  - date_published: 2024-05-11T06:09:04+00:00
-
- ## O Puma
- - [http://opuma.blogspot.com](http://opuma.blogspot.com)
- - date_published: 2024-12-13T23:54:14+00:00
 

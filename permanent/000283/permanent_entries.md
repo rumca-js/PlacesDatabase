@@ -1,3 +1,19 @@
+ ## Tumblr
+ - [https://uuuuutan.tumblr.com](https://uuuuutan.tumblr.com)
+ - date_published: 2024-09-16T06:42:26.932327+00:00
+
+ ## Special Collections
+ - [https://uwmspeccoll.tumblr.com](https://uwmspeccoll.tumblr.com)
+ - date_published: 2024-12-21T16:54:25.878438+00:00
+
+ ## Stack
+ - [https://v747.tumblr.com](https://v747.tumblr.com)
+ - date_published: 2024-12-13T10:58:36.998960+00:00
+
+ ## It's Vacuously True!
+ - [https://vacuously-true.tumblr.com](https://vacuously-true.tumblr.com)
+ - date_published: 2024-12-13T09:20:47.423095+00:00
+
  ## Just some stuff
  - [https://vague-humanoid.tumblr.com](https://vague-humanoid.tumblr.com)
  - date_published: 2024-05-09T00:00:00+00:00
@@ -4015,20 +4031,4 @@ Students
  ## Twin Cities
  - [https://twincities.com](https://twincities.com)
  - date_published: 2024-06-24T04:46:33.976927+00:00
-
- ## Twin Cities Collage Collective – Connect through Collage
- - [https://twincitiescollagecollective.com](https://twincitiescollagecollective.com)
- - date_published: 2024-05-10T06:25:05.084613+00:00
-
- ## Twin Cities Live
- - [https://twincitieslive.com](https://twincitieslive.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Twin City Custom Cycles
- - [https://twincitycustomcycles.com](https://twincitycustomcycles.com)
- - date_published: 2023-07-26T11:31:28+00:00
-
- ## Home - Twin City Quarter
- - [https://twincityquarter.com](https://twincityquarter.com)
- - date_published: 2024-10-23T15:18:51+00:00
 

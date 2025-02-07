@@ -1,3 +1,31 @@
+ ## Weaponization of the Environment Conference 2023 | Universiteit Utrecht
+ - [https://weaponizationoftheenvironment2023.sites.uu.nl](https://weaponizationoftheenvironment2023.sites.uu.nl)
+ - date_published: 2024-10-18T19:47:36.080159+00:00
+
+ ## WELCOME |
+ - [https://welcome.sites.uu.nl](https://welcome.sites.uu.nl)
+ - date_published: 2024-10-18T19:55:13.513598+00:00
+
+ ## Win - Innovation in survey data collection | Innovation in data collection by Statistics Netherlands and Utrecht University
+ - [https://win.sites.uu.nl](https://win.sites.uu.nl)
+ - date_published: 2024-10-18T19:55:41.724131+00:00
+
+ ## Home | Women+ in Science Endeavor
+ - [https://wise.sites.uu.nl](https://wise.sites.uu.nl)
+ - date_published: 2024-10-18T19:46:52.842303+00:00
+
+ ## 26th Workshop on Logic, Language, Information and Computation (WoLLIC 2019), 2-5 July | Universiteit Utrecht
+ - [https://wollic2019.sites.uu.nl](https://wollic2019.sites.uu.nl)
+ - date_published: 2024-10-18T19:52:10.072514+00:00
+
+ ## WORDING REPAIR | Digitally Unveiling the History of Reparative Justice in the Words of a Forgotten Diary
+ - [https://wording-repair.sites.uu.nl](https://wording-repair.sites.uu.nl)
+ - date_published: 2024-10-18T19:54:57.249107+00:00
+
+ ## Faculteit Geesteswetenschappen
+ - [http://www2.hum.uu.nl](http://www2.hum.uu.nl)
+ - date_published: 2024-12-13T08:32:38+00:00
+
  ## Faculteit Geesteswetenschappen
  - [http://www2.let.uu.nl](http://www2.let.uu.nl)
  - date_published: 2024-03-25T00:00:00+00:00
@@ -3984,32 +4012,4 @@
  ## Bleier, babyprodukter og foreldreinformasjon | Pampers NO
  - [https://www.pampers.no](https://www.pampers.no)
  - date_published: 2024-10-28T22:48:04+00:00
-
- ## www.paranaiv.no is parked
- - [http://www.paranaiv.no](http://www.paranaiv.no)
- - date_published: 2024-06-24T05:16:24.553634+00:00
-
- ## Schibsted Partnerstudio
- - [https://partnerstudio.no](https://partnerstudio.no)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home | Patricia Aas - Programmer
- - [https://patricia.no](https://patricia.no)
- - date_published: 2023-10-27T12:06:11.527326+00:00
-
- ## Spar penger med Penger.no - Laget av VG
- - [https://www.penger.no](https://www.penger.no)
- - date_published: 2024-09-02T11:11:55.060271+00:00
-
- ## Pent
- - [https://pent.no](https://pent.no)
- - date_published: 2024-09-02T11:11:33.314945+00:00
-
- ## PERI Norge - Forskaling, Stillas, Kryssfiner/OSB og Forbruk
- - [https://www.peri.no](https://www.peri.no)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Nordic Perl Workshop 2009
- - [http://perlworkshop.no](http://perlworkshop.no)
- - date_published: 2024-06-28T18:28:00+00:00
 

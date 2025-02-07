@@ -1,3 +1,31 @@
+ ## DAERAH ISTIMEWA YOGYAKARTA
+ - [https://www.daerahistimewayogyakarta.online](https://www.daerahistimewayogyakarta.online)
+ - date_published: 2024-08-20T04:09:58.772613+00:00
+
+ ## The Secure Engineer
+ - [https://tech.daher.online](https://tech.daher.online)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## ورود به سایت دنس بت بدون فیلتر | دانلود برنامه دنس بت برای اندروید
+ - [http://dancebetvorod.online](http://dancebetvorod.online)
+ - date_published: 2024-08-08T11:57:35.789126+00:00
+
+ ## Danimotora
+ - [https://danimotora.online](https://danimotora.online)
+ - date_published: 2024-11-20T21:32:42+00:00
+
+ ## Kangaroo
+ - [https://www.datatable.online](https://www.datatable.online)
+ - date_published: 2025-01-31T09:13:16.804285+00:00
+
+ ## Online DDoS Attack Simulation - ddosattack.online
+ - [https://ddosattack.online](https://ddosattack.online)
+ - date_published: 2024-06-28T15:45:34.928327+00:00
+
+ ## Dead End Shrine Online
+ - [https://deadendshrine.online](https://deadendshrine.online)
+ - date_published: 2024-05-06T15:04:27.458840+00:00
+
  ## Death Grips - Death Grips is Online
  - [http://deathgripsis.online](http://deathgripsis.online)
  - date_published: 2018-06-22T04:33:30+00:00
@@ -4012,32 +4040,4 @@
  ## Association for Computing Machinery
  - [https://acm.org](https://acm.org)
  - date_published: 2024-06-23T06:45:45+00:00
-
- ## A.M. Turing Award
- - [https://amturing.acm.org](https://amturing.acm.org)
- - date_published: 2023-10-25T20:53:46.979207+00:00
-
- ## Past FCRC Events
- - [https://archive-fcrc.acm.org](https://archive-fcrc.acm.org)
- - date_published: 2022-03-03T19:50:39+00:00
-
- ## ACM Authors Portal Homepage
- - [https://authors.acm.org](https://authors.acm.org)
- - date_published: 2024-06-23T20:37:13+00:00
-
- ## Awards Home
- - [https://awards.acm.org](https://awards.acm.org)
- - date_published: 2023-10-25T20:53:56.997751+00:00
-
- ## BLOG@UBIQUITY
- - [https://blog.ubiquity.acm.org](https://blog.ubiquity.acm.org)
- - date_published: 2024-05-07T18:21:57.767427+00:00
-
- ## Communications of the ACM
- - [https://cacm.acm.org](https://cacm.acm.org)
- - date_published: 2023-10-25T20:54:01.176781+00:00
-
- ## Association for Computing Machinery
- - [https://campus.acm.org](https://campus.acm.org)
- - date_published: 2024-06-15T18:39:13+00:00
 

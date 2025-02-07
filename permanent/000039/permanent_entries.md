@@ -1,3 +1,7 @@
+ ## The Malaria 'Dividend': Why investing in malaria elimination creates returns for us all
+ - [https://themalariadividend.carrd.co](https://themalariadividend.carrd.co)
+ - date_published: 2024-06-03T15:18:05+00:00
+
  ## Toberracore's Sites
  - [https://toberracore.carrd.co](https://toberracore.carrd.co)
  - date_published: 2024-11-09T20:34:54+00:00
@@ -4027,8 +4031,4 @@
  ## Attention Required! | Cloudflare
  - [https://glasp.co](https://glasp.co)
  - date_published: 2024-05-04T09:02:17.250026+00:00
-
- ## Global Citizen - Join the Movement Changing the World
- - [https://glblctzn.co](https://glblctzn.co)
- - date_published: 2024-07-04T10:24:59.962488+00:00
 

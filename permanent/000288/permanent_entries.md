@@ -1,3 +1,19 @@
+ ## UserZoom Manager
+ - [https://manager.userzoom.com](https://manager.userzoom.com)
+ - date_published: 2024-10-08T06:47:02+00:00
+
+ ## Scaffold:Figma Prototyping and Animation Library
+ - [https://usescaffold.com](https://usescaffold.com)
+ - date_published: 2024-07-02T20:50:18.644779+00:00
+
+ ## Script - A text editor powering truly digital documents in a dedicated project workspace
+ - [https://www.use-script.com](https://www.use-script.com)
+ - date_published: 2023-10-25T17:54:01.989669+00:00
+
+ ## SignHouse | eSign PDFs with free Electronic Signatures
+ - [https://usesignhouse.com](https://usesignhouse.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## Modern Capital and Technology Solutions Built for the Food Supply Chain
  - [https://app.usesilo.com](https://app.usesilo.com)
  - date_published: 2024-06-20T20:07:38+00:00
@@ -4001,20 +4017,4 @@
  ## Neova - Creating Green Growth
  - [http://vapo.com](http://vapo.com)
  - date_published: 2025-02-01T23:37:46.387879+00:00
-
- ## vapor.com Canada
- - [https://canada.vapor.com](https://canada.vapor.com)
- - date_published: 2024-05-06T21:33:15.334197+00:00
-
- ## The best place online to buy vaporizers and glass  - vapor.com
- - [https://vapor.com](https://vapor.com)
- - date_published: 2024-05-06T21:33:12.355217+00:00
-
- ## Vapor Boss | Online Vape Shop - E-liquids, Vapes, E-juice, Salt Nic
- - [https://vaporboss.com](https://vaporboss.com)
- - date_published: 2024-04-29T05:43:46.066741+00:00
-
- ## VAPORESSO » Premium Brand Vape Manufacturer
- - [https://www.vaporesso.com](https://www.vaporesso.com)
- - date_published: 2024-12-24T10:08:44+00:00
 

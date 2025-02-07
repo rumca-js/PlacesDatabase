@@ -1,3 +1,7 @@
+ ## Home | CXO Insight Middle East
+ - [https://www.cxoinsightme.com](https://www.cxoinsightme.com)
+ - date_published: 2024-09-18T00:00:00+00:00
+
  ## Home - CXO Priorities
  - [https://www.cxopriorities.com](https://www.cxopriorities.com)
  - date_published: 2024-09-25T09:58:14.365910+00:00
@@ -4032,8 +4036,4 @@ for your agency
  ## Alphabet Poem : Daniel Eatock
  - [http://www.danieleatock.com](http://www.danieleatock.com)
  - date_published: 2024-09-14T22:57:42.492619+00:00
-
- ## Daniele Fanelli's webpages
- - [https://danielefanelli.com](https://danielefanelli.com)
- - date_published: 2024-06-02T06:56:20+00:00
 

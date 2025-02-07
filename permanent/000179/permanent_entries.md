@@ -1,3 +1,7 @@
+ ## Inspirational new website designs - Landdding
+ - [https://landdding.com](https://landdding.com)
+ - date_published: 2024-08-19T12:11:37.646591+00:00
+
  ## Justin McGuire - Web Developement, Application Development, and Programming Emergencies
  - [https://landedstar.com](https://landedstar.com)
  - date_published: 2021-12-15T17:35:10+00:00
@@ -4018,8 +4022,4 @@ Chamber Music, Symphony
  ## LayoutHub Library
  - [https://library.layouthub.com](https://library.layouthub.com)
  - date_published: 2024-07-18T06:32:22+00:00
-
- ## Layout International
- - [http://layoutintl.com](http://layoutintl.com)
- - date_published: 2024-08-18T13:52:36.069046+00:00
 

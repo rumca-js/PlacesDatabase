@@ -1,3 +1,7 @@
+ ## DTE Energy Home | DTE Energy
+ - [https://dteenergy.com](https://dteenergy.com)
+ - date_published: 2024-09-04T00:00:00+00:00
+
  ## Attention Required! | Cloudflare
  - [http://ir.dteenergy.com](http://ir.dteenergy.com)
  - date_published: 2024-06-16T16:54:10.845839+00:00
@@ -4035,8 +4039,4 @@
  ## California Earthquake Authority
  - [https://www.earthquakeauthority.com](https://www.earthquakeauthority.com)
  - date_published: 2025-01-20T21:03:24.983375+00:00
-
- ## EarthQuaker Devices
- - [https://www.earthquakerdevices.com](https://www.earthquakerdevices.com)
- - date_published: 2025-01-25T04:36:44.052643+00:00
 

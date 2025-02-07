@@ -1,3 +1,27 @@
+ ## Indian Language Technology Proliferation and Deployment Centre - Home
+ - [https://tdil-dc.in](https://tdil-dc.in)
+ - date_published: 2024-12-24T23:48:16.782213+00:00
+
+ ## Techbreeze IT Solutions
+ - [https://www.techbreeze.in](https://www.techbreeze.in)
+ - date_published: 2024-08-18T04:34:09.428726+00:00
+
+ ## TechCircle: India's leading Tech business information website. | Techcircle
+ - [https://www.techcircle.in](https://www.techcircle.in)
+ - date_published: 2024-08-07T15:24:04.339290+00:00
+
+ ## Techlomedia Gadgets - India's Gadget Research Platform
+ - [https://gadgets.techlomedia.in](https://gadgets.techlomedia.in)
+ - date_published: 2024-04-28T01:43:02.298094+00:00
+
+ ## Techlomedia - Technology, Gadgets, Apps, Gaming, and Reviews
+ - [https://techlomedia.in](https://techlomedia.in)
+ - date_published: 2023-10-25T19:31:51.983422+00:00
+
+ ## 4K, HD and High Quality Wallpapers for smartphones
+ - [https://wallpapers.techlomedia.in](https://wallpapers.techlomedia.in)
+ - date_published: 2024-04-28T01:42:50.681413+00:00
+
  ## Technology News, Latest Technology News, Gadgets News | Techlusive India
  - [https://techlusive.in](https://techlusive.in)
  - date_published: 2024-05-11T07:56:12.095016+00:00
@@ -3998,29 +4022,4 @@
  ## Freiheitsfunken: Libertäre Ansichten
  - [https://freiheitsfunken.info](https://freiheitsfunken.info)
  - date_published: 2025-01-18T01:49:20.139619+00:00
-
- ## European Market Updates: Fresh Produce & Flower Prices | Fresh-Market.info
- - [https://www.fresh-market.info](https://www.fresh-market.info)
- - date_published: 2024-10-31T09:07:28.977451+00:00
-
- ## Европейский рынок: обновления о ценах на свежие овощи, фрукты и цветы | Fresh-Market.info
- - [https://www.ru.fresh-market.info](https://www.ru.fresh-market.info)
- - date_published: 2024-10-31T09:07:26.637385+00:00
-
- ## Fuelled by Coffee – the progression of a PhD candidate
- - [https://fuelledbycoffee.info](https://fuelledbycoffee.info)
- - date_published: 2023-11-29T17:09:16.538115+00:00
- - tags: ['personal']
-
- ## Fuller Public Library
- - [https://www.fullerlibrary.info](https://www.fullerlibrary.info)
- - date_published: 2025-02-03T07:35:18.818572+00:00
-
- ## Full match replays & Highlights
- - [https://fullmatch.info](https://fullmatch.info)
- - date_published: 2024-11-12T17:05:37.529982+00:00
-
- ## Home - Funland
- - [https://funland.info](https://funland.info)
- - date_published: 2024-08-19T13:38:44+00:00
 

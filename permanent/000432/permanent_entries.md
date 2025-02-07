@@ -1,3 +1,27 @@
+ ## cPanel & WHM Developer Portal
+ - [https://documentation.cpanel.net](https://documentation.cpanel.net)
+ - date_published: 2024-08-26T13:18:02+00:00
+
+ ## Topics – cPanel
+ - [https://forums.cpanel.net](https://forums.cpanel.net)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## The Hosting Platform of Choice | cPanel, L.L.C.
+ - [https://partnernoc.cpanel.net](https://partnernoc.cpanel.net)
+ - date_published: 2024-09-27T09:34:24.681511+00:00
+
+ ## Portal Home - cPanel Store
+ - [https://store.cpanel.net](https://store.cpanel.net)
+ - date_published: 2024-09-27T09:34:34.300213+00:00
+
+ ## cPanel
+ - [https://support.cpanel.net](https://support.cpanel.net)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## cPanel ID
+ - [https://tickets.cpanel.net](https://tickets.cpanel.net)
+ - date_published: 2024-09-02T16:35:31.856514+00:00
+
  ## cPanel University -- Get Certified!
  - [https://university.cpanel.net](https://university.cpanel.net)
  - date_published: 2024-09-27T09:34:28.837306+00:00
@@ -4024,28 +4048,4 @@
  ## Duboce.net
  - [https://duboce.net](https://duboce.net)
  - date_published: 2009-09-13T22:48:02+00:00
-
- ## Duke Nukem Repository
- - [https://dnr.duke4.net](https://dnr.duke4.net)
- - date_published: 2024-10-18T19:31:09.074995+00:00
-
- ## Duke4.net
- - [https://duke4.net](https://duke4.net)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Dukeworld  - back from the past to kick your ass... hail to the king, baby!
- - [http://dukeworld.duke4.net](http://dukeworld.duke4.net)
- - date_published: 2024-10-18T19:32:38.112122+00:00
-
- ## Duke4.net Forums
- - [https://forums.duke4.net](https://forums.duke4.net)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Hendricks266's Site - Home
- - [http://hendricks266.duke4.net](http://hendricks266.duke4.net)
- - date_published: 2024-10-18T19:32:40.175371+00:00
-
- ## Duke Nukem 3D: High Resolution Pack
- - [http://hrp.duke4.net](http://hrp.duke4.net)
- - date_published: 2024-03-27T00:00:00+00:00
 

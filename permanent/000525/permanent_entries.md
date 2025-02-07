@@ -1,3 +1,31 @@
+ ## Hallertau Social – De Holledau im Fediverse
+ - [https://hallertau.social](https://hallertau.social)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## SearXNG - magnum.hallertau.social
+ - [https://magnum.hallertau.social](https://magnum.hallertau.social)
+ - date_published: 2024-07-10T05:51:44.122161+00:00
+
+ ## Hallertau Social - Mainburg
+ - [https://mainburg.hallertau.social](https://mainburg.hallertau.social)
+ - date_published: 2024-07-10T07:16:43.225121+00:00
+
+ ## Stammtisch
+ - [https://stammtisch.hallertau.social](https://stammtisch.hallertau.social)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## pixelstubn
+ - [https://stubn.hallertau.social](https://stubn.hallertau.social)
+ - date_published: 2022-10-11T00:00:00+00:00
+
+ ## PrivateBin
+ - [https://zettl.hallertau.social](https://zettl.hallertau.social)
+ - date_published: 2024-07-10T05:51:52.122383+00:00
+
+ ## Halo | Your Web3 social App for monetizing social data through AI, DID & Wallet Aggregator to gain UBI.
+ - [https://halo.social](https://halo.social)
+ - date_published: 2024-07-04T10:15:17.322782+00:00
+
  ## Harbor
  - [https://harbor.social](https://harbor.social)
  - date_published: 2023-08-02T00:00:00+00:00
@@ -4024,32 +4052,4 @@
  ## Dev.Storage
  - [https://dev.storage](https://dev.storage)
  - date_published: 2024-09-24T06:28:44.316062+00:00
-
- ## Auto Steps to the Epiphany
- - [https://epiphany.fireproof.storage](https://epiphany.fireproof.storage)
- - date_published: 2024-07-22T17:11:07.227860+00:00
-
- ## Welcome - Fireproof cloudless database for realtime apps
- - [https://fireproof.storage](https://fireproof.storage)
- - date_published: 2024-04-30T00:30:07.276334+00:00
-
- ## .Storage Domain Names | .Storage
- - [https://go.storage](https://go.storage)
- - date_published: 2024-06-17T07:44:26.337115+00:00
-
- ## Znajdź idealną nazwę domeny .storage - GoDaddy PL
- - [http://godaddy.storage](http://godaddy.storage)
- - date_published: 2024-10-17T15:05:53.940010+00:00
-
- ## GOLD - ERC20 Stablecoin Backed by GOLD
- - [https://gold.storage](https://gold.storage)
- - date_published: 2024-10-17T15:04:49.866765+00:00
-
- ## Introduction | Lighthouse
- - [https://docs.lighthouse.storage](https://docs.lighthouse.storage)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Lighthouse Permanent Storage
- - [http://lighthouse.storage](http://lighthouse.storage)
- - date_published: 2024-06-16T04:32:27.512235+00:00
 

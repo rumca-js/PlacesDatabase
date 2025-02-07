@@ -1,3 +1,31 @@
+ ## We are Life Itself Labs
+ - [https://labs.lifeitself.org](https://labs.lifeitself.org)
+ - date_published: 2024-06-12T12:38:21.197424+00:00
+
+ ## Life Itself
+ - [https://lifeitself.org](https://lifeitself.org)
+ - date_published: 2024-06-12T06:04:01.926673+00:00
+
+ ## Life Itself Digital Garden
+ - [https://notes.lifeitself.org](https://notes.lifeitself.org)
+ - date_published: 2024-09-10T22:06:31.436516+00:00
+
+ ## Possibility Now
+ - [https://possibilitynow.lifeitself.org](https://possibilitynow.lifeitself.org)
+ - date_published: 2022-09-19T15:40:22+00:00
+
+ ## strategy
+ - [https://strategy.lifeitself.org](https://strategy.lifeitself.org)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## The Tao of Life Itself
+ - [https://tao.lifeitself.org](https://tao.lifeitself.org)
+ - date_published: 2024-06-12T12:36:24.690300+00:00
+
+ ## Home | Making Sense of Crypto and Web3
+ - [https://web3.lifeitself.org](https://web3.lifeitself.org)
+ - date_published: 2024-06-12T12:40:33.563659+00:00
+
  ## Home - LifeLine Animal Project | Adopt | Foster| Donate | Volunteer
  - [https://lifelineanimal.org](https://lifelineanimal.org)
  - date_published: 2024-05-01T00:00:00+00:00
@@ -4019,32 +4047,4 @@
  ## Home - Maine Indoor Air Quality Council
  - [https://maineindoorair.org](https://maineindoorair.org)
  - date_published: 2023-03-17T00:00:00+00:00
-
- ## Maine State Legislature - Home
- - [https://mainelegislature.org](https://mainelegislature.org)
- - date_published: 2023-10-25T21:40:12.533641+00:00
-
- ## Maine Library Association - Home
- - [https://mainelibraries.org](https://mainelibraries.org)
- - date_published: 2024-07-20T22:39:49.861041+00:00
-
- ## Maine Narrow Gauge Railroad Co. & Museum
- - [https://mainenarrowgauge.org](https://mainenarrowgauge.org)
- - date_published: 2023-01-06T21:15:48+00:00
-
- ## Maine Policy Institute
- - [https://mainepolicy.org](https://mainepolicy.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Maine Press Association | On the Record since 1864
- - [https://mainepressassociation.org](https://mainepressassociation.org)
- - date_published: 2024-06-29T05:16:47.760185+00:00
-
- ## Maine Public | Home | Maine Public
- - [https://www.mainepublic.org](https://www.mainepublic.org)
- - date_published: 2024-07-29T04:29:57.071514+00:00
-
- ## Maine Senate Democrats | Fighting for Mainers
- - [https://mainesenate.org](https://mainesenate.org)
- - date_published: 2024-05-10T00:00:00+00:00
 

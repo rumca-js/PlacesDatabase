@@ -1,3 +1,31 @@
+ ## See The Air
+ - [https://seetheair.org](https://seetheair.org)
+ - date_published: 2024-05-01T02:48:17.506699+00:00
+
+ ## It's no contest. See Tracks? Think Train!
+ - [http://www.seetracksthinktrain.org](http://www.seetracksthinktrain.org)
+ - date_published: 2025-01-08T08:57:19.121357+00:00
+
+ ## Southeast Europe Coalition on Whistleblower Protection – The Southeast Europe Coalition on Whistleblower Protection strengthens whistleblower rights, protections and awareness in 12 countries in the Balkans and Eastern Europe.
+ - [https://see-whistleblowing.org](https://see-whistleblowing.org)
+ - date_published: 2024-07-02T22:16:17.416287+00:00
+
+ ## Welcome to your Strapi app
+ - [https://cms.sefaria.org](https://cms.sefaria.org)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Sefaria
+ - [https://developers.sefaria.org](https://developers.sefaria.org)
+ - date_published: 2024-09-02T12:28:58.564010+00:00
+
+ ## Give to Sefaria
+ - [http://donate.sefaria.org](http://donate.sefaria.org)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Sefaria: a Living Library of Jewish Texts Online
+ - [https://sefaria.org](https://sefaria.org)
+ - date_published: 2024-05-25T09:20:27.248076+00:00
+
  ## The Sefaria Store
  - [https://store.sefaria.org](https://store.sefaria.org)
  - date_published: 2024-09-02T12:29:04.444466+00:00
@@ -4004,32 +4032,4 @@
  ## SleuthSayers
  - [http://sleuthsayers.org](http://sleuthsayers.org)
  - date_published: 2024-12-31T16:28:35+00:00
-
- ## SLF4J
- - [https://www.slf4j.org](https://www.slf4j.org)
- - date_published: 2024-03-01T18:59:41+00:00
-
- ## Sri Lanka Guardian
- - [https://slguardian.org](https://slguardian.org)
- - date_published: 2024-01-10T21:40:19.047783+00:00
-
- ## SLICC
- - [http://sliccgroup.org](http://sliccgroup.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## @KitwareMedical/slicer-extensions-webapp
- - [https://extensions.slicer.org](https://extensions.slicer.org)
- - date_published: 2024-08-18T08:01:35.866058+00:00
-
- ## 3D Slicer image computing platform
- - [https://slicer.org](https://slicer.org)
- - date_published: 2024-09-09T19:20:02+00:00
-
- ## Home | Slidell Little Theatre | Slidell Little Theatre
- - [https://slidelllittletheatre.org](https://slidelllittletheatre.org)
- - date_published: 2025-01-24T22:30:07.276976+00:00
-
- ## Welcome to Slidell Memorial Hospital
- - [https://www.slidellmemorial.org](https://www.slidellmemorial.org)
- - date_published: 2024-06-23T07:30:16.906990+00:00
 

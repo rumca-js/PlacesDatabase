@@ -1,3 +1,31 @@
+ ## Links to various sites and services - Hub.CLOH.org
+ - [https://hub.cloh.org](https://hub.cloh.org)
+ - date_published: 2017-03-06T18:29:19+00:00
+
+ ## Clojars
+ - [https://clojars.org](https://clojars.org)
+ - date_published: 2024-05-07T19:03:06.969996+00:00
+
+ ## Clojars Repository: /
+ - [https://repo.clojars.org](https://repo.clojars.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Clojerl
+ - [http://clojerl.org](http://clojerl.org)
+ - date_published: 2021-06-06T20:55:15+00:00
+
+ ## Clojure Archive
+ - [https://archive.clojure.org](https://archive.clojure.org)
+ - date_published: 2023-07-28T19:12:38+00:00
+
+ ## Clojure
+ - [https://clojure.org](https://clojure.org)
+ - date_published: 2023-10-25T21:08:00.189323+00:00
+
+ ## Clojure/conj 2015
+ - [http://2015.clojure-conj.org](http://2015.clojure-conj.org)
+ - date_published: 2016-08-05T14:37:21+00:00
+
  ## Clojure/conj  – October 12-14, 2017 | Baltimore, MD
  - [http://2017.clojure-conj.org](http://2017.clojure-conj.org)
  - date_published: 2024-07-03T23:03:42.436728+00:00
@@ -3999,34 +4027,4 @@
  ## Career Opportunities in Real Estate
  - [https://corearc.org](https://corearc.org)
  - date_published: 2025-02-04T12:05:34.514955+00:00
-
- ## Career Opportunities in Real Estate
- - [https://www.corearc.org](https://www.corearc.org)
- - date_published: 2025-02-04T12:05:30.368604+00:00
-
- ## coreboot
- - [https://blogs.coreboot.org](https://blogs.coreboot.org)
- - date_published: 2024-06-20T09:31:03.491087+00:00
-
- ## coreboot
- - [https://coreboot.org](https://coreboot.org)
- - date_published: 2024-05-08T09:35:12.338872+00:00
-
- ## Welcome to the coreboot documentation — coreboot 24.02-168-g1879b6a34a
- documentation
- - [https://doc.coreboot.org](https://doc.coreboot.org)
- - date_published: 2024-05-08T09:35:10.263697+00:00
-
- ## Issue Tracker
- - [https://ticket.coreboot.org](https://ticket.coreboot.org)
- - date_published: 2024-06-20T09:31:04.950207+00:00
-
- ## Submissions Portal : Core C++ 2024
- - [https://cfs.corecpp.org](https://cfs.corecpp.org)
- - date_published: 2024-09-02T12:56:03.034252+00:00
-
- ## Core C++ 2024
- - [https://corecpp.org](https://corecpp.org)
- - date_published: 2024-05-25T09:50:16.261236+00:00
- - tags: ['conference']
 

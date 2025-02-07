@@ -1,3 +1,7 @@
+ ## Hungry with Ideas | Anna Muckerman | Substack
+ - [https://www.hungrywithideas.com](https://www.hungrywithideas.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## Inspiration for the Space Around You | Hunker
  - [https://www.hunker.com](https://www.hunker.com)
  - date_published: 2024-08-05T18:33:10+00:00
@@ -4031,8 +4035,4 @@ Weinberger)
  ## Working at Post Holdings, Inc.
  - [https://bobevanssljobs-postholdings.icims.com](https://bobevanssljobs-postholdings.icims.com)
  - date_published: 2024-05-21T00:00:00+00:00
-
- ## Home - Centric Brands LLC.
- - [https://c-10131-20230519-centricbrands-com.i.icims.com](https://c-10131-20230519-centricbrands-com.i.icims.com)
- - date_published: 2024-12-17T19:53:28+00:00
 

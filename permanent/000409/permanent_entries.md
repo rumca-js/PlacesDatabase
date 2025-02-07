@@ -1,3 +1,27 @@
+ ## Coolshop | Að versla á netinu verður auðvelt, skemmtilegt og kúl
+ - [https://www.coolshop.is](https://www.coolshop.is)
+ - date_published: 2024-09-16T03:02:18.375165+00:00
+
+ ## The Copia Institute: Ideas In Abundance
+ - [https://copia.is](https://copia.is)
+ - date_published: 2024-04-07T20:29:08.626882+00:00
+
+ ## Cornea
+ - [https://cornea.is](https://cornea.is)
+ - date_published: 2022-04-26T00:00:00+00:00
+
+ ## CrypTech.is – Making the Internet a little bit safer
+ - [https://cryptech.is](https://cryptech.is)
+ - date_published: 2024-05-21T02:44:37.666400+00:00
+
+ ## Welcome to the Cryptech Project
+ - [http://wiki.cryptech.is](http://wiki.cryptech.is)
+ - date_published: 2016-12-15T00:00:00+00:00
+
+ ## crypto.is
+ - [https://crypto.is](https://crypto.is)
+ - date_published: 2024-08-07T14:57:56.330748+00:00
+
  ## CUNY Academic Commons
  - [http://cuny.is](http://cuny.is)
  - date_published: 2024-10-20T10:18:07.716075+00:00
@@ -4002,29 +4026,4 @@
  ## AMETEK Italy
  - [https://store.ametekinstruments.it](https://store.ametekinstruments.it)
  - date_published: 2024-09-17T00:00:00+00:00
-
- ## IIS A. Meucci
- - [https://www.ameucci.it](https://www.ameucci.it)
- - date_published: 2024-10-13T04:00:03+00:00
-
- ## Home - Amiat Gruppo Iren
- - [http://www.amiat.it](http://www.amiat.it)
- - date_published: 2024-07-14T16:18:49.918512+00:00
-
- ## Alla Festa del Cinema di Roma le star sono alla regia
- - [https://www.amica.it](https://www.amica.it)
- - date_published: 2024-10-19T01:26:28.519080+00:00
-
- ## Amiga.it: le risorse Amiga in Italia
- - [https://www.amiga.it](https://www.amiga.it)
- - date_published: 2024-01-09T03:33:34.657525+00:00
-
- ## Amiga News.it - tutte le novità dal mondo Amiga
- - [https://amiganews.it](https://amiganews.it)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Amigapage - Sito italiano dedicato ad Amiga
- - [https://amigapage.it](https://amigapage.it)
- - date_published: 2024-05-10T03:58:50.016477+00:00
- - tags: ['amiga']
 

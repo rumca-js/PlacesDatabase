@@ -1,3 +1,20 @@
+ ## RedShark News - Video technology news and analysis
+ - [http://www.redsharknews.com](http://www.redsharknews.com)
+ - date_published: 2024-06-22T08:01:06+00:00
+
+ ## Buy, sell and read - digital books, textbooks, documents & more. | University of Wyoming Store
+ - [https://uwyostore.redshelf.com](https://uwyostore.redshelf.com)
+ - date_published: 2024-07-14T15:03:45.878864+00:00
+
+ ## https://redshirtjeff.com
+ - [https://redshirtjeff.com](https://redshirtjeff.com)
+ - date_published: 2024-01-23T16:06:52+00:00
+ - tags: ['jeff geerling', 'merch']
+
+ ## Redshirts Always Die - Star Trek News, Movies, TV Shows and More
+ - [https://redshirtsalwaysdie.com](https://redshirtsalwaysdie.com)
+ - date_published: 2024-04-06T00:00:00+00:00
+
  ## Red Sift Blog
  - [https://blog.redsift.com](https://blog.redsift.com)
  - date_published: 2024-06-07T00:00:00+00:00
@@ -4010,20 +4027,4 @@ TechPortal Login: The Online Dashboard for Computer Repair
  ## Shelton Kwan Site – Your SUPER-powered WP Engine Site
  - [https://webcdn.replicon.com](https://webcdn.replicon.com)
  - date_published: 2024-09-02T16:46:24.739122+00:00
-
- ## Replicover
- - [https://replicover.com](https://replicover.com)
- - date_published: 2024-04-28T04:37:18.096586+00:00
-
- ## Replika Blog
- - [https://blog.replika.com](https://blog.replika.com)
- - date_published: 2024-06-21T20:22:47.320936+00:00
-
- ## Replika
- - [https://my.replika.com](https://my.replika.com)
- - date_published: 2024-06-21T20:22:45.563417+00:00
-
- ## Replika
- - [https://replika.com](https://replika.com)
- - date_published: 2024-06-19T21:35:23.769495+00:00
 

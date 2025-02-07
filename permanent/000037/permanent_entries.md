@@ -1,3 +1,7 @@
+ ## 六合区政协
+ - [http://njlhzx.gov.cn](http://njlhzx.gov.cn)
+ - date_published: 2025-01-12T12:50:23.752445+00:00
+
  ## 南京政协
  - [https://www.njzx.gov.cn](https://www.njzx.gov.cn)
  - date_published: 2024-06-30T23:08:59.367086+00:00
@@ -4049,8 +4053,4 @@
  ## 首页2 中国法学学术交流中心
  - [https://clec.chinalaw.org.cn](https://clec.chinalaw.org.cn)
  - date_published: 2025-01-14T13:16:10.302295+00:00
-
- ## 首页 中国法学杂志社
- - [https://clsjp.chinalaw.org.cn](https://clsjp.chinalaw.org.cn)
- - date_published: 2025-01-14T13:18:36.550392+00:00
 

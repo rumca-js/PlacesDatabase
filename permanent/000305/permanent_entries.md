@@ -1,3 +1,19 @@
+ ## sturdyblog
+ - [https://sturdyblog.wordpress.com](https://sturdyblog.wordpress.com)
+ - date_published: 2024-10-21T16:12:15.183533+00:00
+
+ ## Bughaus Miniatures
+ - [https://stwiddy.wordpress.com](https://stwiddy.wordpress.com)
+ - date_published: 2024-12-31T23:57:29.800030+00:00
+
+ ## SUAMPRIPAD past and present
+ - [https://suampripadnews.wordpress.com](https://suampripadnews.wordpress.com)
+ - date_published: 2013-01-01T00:00:00+00:00
+
+ ## subglacial
+ - [https://subglacialnet.wordpress.com](https://subglacialnet.wordpress.com)
+ - date_published: 2025-02-01T19:42:43.113046+00:00
+
  ## Subscribe to Open Community of Practice
  - [https://subscribe2open.wordpress.com](https://subscribe2open.wordpress.com)
  - date_published: 2024-10-29T20:41:50.707450+00:00
@@ -3989,21 +4005,4 @@
  ## Wargames Association Of South Pembrokeshire
  - [https://wargamesasp.wordpress.com](https://wargamesasp.wordpress.com)
  - date_published: 2024-12-31T23:50:33.194221+00:00
-
- ## The wargames pavilion
- - [https://wargamespavilion.wordpress.com](https://wargamespavilion.wordpress.com)
- - date_published: 2025-01-01T16:04:30.782499+00:00
-
- ## Tabletop Wargaming by SKS
- - [https://wargamingbysks.wordpress.com](https://wargamingbysks.wordpress.com)
- - date_published: 2024-10-26T16:15:29.730158+00:00
-
- ## Wargaming Connection
- - [https://wargamingcommunity.wordpress.com](https://wargamingcommunity.wordpress.com)
- - date_published: 2024-05-09T05:25:51.393339+00:00
- - tags: ['wargames']
-
- ## The Raft
- - [https://wargamingraft.wordpress.com](https://wargamingraft.wordpress.com)
- - date_published: 2024-12-28T19:57:38+00:00
 

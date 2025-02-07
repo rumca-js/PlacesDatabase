@@ -1,3 +1,7 @@
+ ## Letralia, Tierra de Letras
+ - [http://www.letralia.com](http://www.letralia.com)
+ - date_published: 2024-12-13T04:57:20.680454+00:00
+
  ## Livraria Letra Livre
  - [http://www.letralivre.com](http://www.letralivre.com)
  - date_published: 2024-12-23T14:25:48.601746+00:00
@@ -4132,9 +4136,4 @@
  - [https://home.liebertpub.com](https://home.liebertpub.com)
  - date_published: 2024-05-04T07:46:26.716458+00:00
  - date_dead_since: 2025-01-30T10:39:12.246516+00:00
-
- ## Mary Ann Liebert, Inc. | Home
- - [https://liebertpub.com](https://liebertpub.com)
- - date_published: 2024-02-22T00:00:00+00:00
- - date_dead_since: 2025-01-30T10:39:14.694423+00:00
 

@@ -1,3 +1,27 @@
+ ## Conditori La Glace
+ - [https://laglace.dk](https://laglace.dk)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Gourmetlakrids med chokolade | LAKRIDS BY BÜLOW
+ - [https://lakridsbybulow.dk](https://lakridsbybulow.dk)
+ - date_published: 2025-01-09T00:26:29.047081+00:00
+
+ ## Lan-Com - Leverandører af IT-kabelsystemer til El og tele markedet - Lan-Com
+ - [https://www.lan-com.dk](https://www.lan-com.dk)
+ - date_published: 2024-12-15T10:05:29.268271+00:00
+
+ ## Land Rover | Oplev luksus-SUV'er og 4x4-køretøjer | Land Rover Denmark
+ - [https://landrover.dk](https://landrover.dk)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Lars Hartmann Design – Identitets- & webdesigner fra skønne Frederiksberg
+ - [https://larshartmann.dk](https://larshartmann.dk)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Velkommen til Laudrup Vin
+ - [https://laudrup.dk](https://laudrup.dk)
+ - date_published: 2024-06-25T16:54:05.268337+00:00
+
  ## FANN – Fast Artificial Neural Network
  - [http://leenissen.dk/fann/wp](http://leenissen.dk/fann/wp)
  - date_published: 2024-12-03T22:00:31+00:00
@@ -4063,28 +4087,4 @@ I box, ...
  ## Georgetown University
  - [https://georgetown.academia.edu](https://georgetown.academia.edu)
  - date_published: 2024-04-30T02:55:34.566547+00:00
-
- ## Goldsmiths, University of London
- - [https://goldsmiths.academia.edu](https://goldsmiths.academia.edu)
- - date_published: 2024-07-10T11:17:55.427286+00:00
-
- ## Google
- - [https://google.academia.edu](https://google.academia.edu)
- - date_published: 2024-12-03T21:12:15.694626+00:00
-
- ## Griffith University
- - [https://griffith.academia.edu](https://griffith.academia.edu)
- - date_published: 2024-04-30T02:58:41.376692+00:00
-
- ## Comunicar Group
- - [http://grupocomunicar.academia.edu](http://grupocomunicar.academia.edu)
- - date_published: 2024-07-02T22:46:35.689974+00:00
-
- ## Al-Baha University, Kingdom of Saudi Arabia
- - [https://hindawi.academia.edu](https://hindawi.academia.edu)
- - date_published: 2024-04-30T02:59:30.415035+00:00
-
- ## Hiroshima University
- - [https://hiroshima-u.academia.edu](https://hiroshima-u.academia.edu)
- - date_published: 2024-04-30T02:49:57.512319+00:00
 

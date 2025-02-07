@@ -1,3 +1,19 @@
+ ## Synty™ Store - 3D Assets for Games (Unity + Unreal)
+ - [https://syntystore.com](https://syntystore.com)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## synty | Low Poly 3D asset packs
+ - [https://syntystudios.com](https://syntystudios.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Home | Synyega
+ - [https://www.synyega.com](https://www.synyega.com)
+ - date_published: 2025-01-25T10:43:03.908141+00:00
+
+ ## サクの電脳せどりブログ | 1日5分で月商300万円の思考と戦略 | この電脳せどりブログでは、サクが1日5分の仕入れで月商300万円を達成したノウハウの全てを公開しています。 せどりのやり方・仕入れ先・ツールなど。電脳せどりで必要な知識はこのせどりブログで全て手に入れることができます。電脳せどりで初心者が月収10万円を達成するための最短ルートも完全公開中！
+ - [https://syokuhin-sedori.com](https://syokuhin-sedori.com)
+ - date_published: 2024-09-09T16:58:50.975909+00:00
+
  ## 小説家になろう - みんなのための小説投稿サイト
  - [http://mypage.syosetu.com](http://mypage.syosetu.com)
  - date_published: 2024-10-24T16:31:16.976236+00:00
@@ -4025,20 +4041,4 @@
  ## Tangerine Art Kits — At-Home Art For Everyone
  - [https://tangerineartkits.com](https://tangerineartkits.com)
  - date_published: 2024-07-09T19:38:15.442347+00:00
-
- ## Tanger
- - [https://tangeroutlet.com](https://tangeroutlet.com)
- - date_published: 2024-04-28T03:12:09.482102+00:00
-
- ## Basalt | Simple Markdown Formatting
- - [https://basalt.tangibleinfo.com](https://basalt.tangibleinfo.com)
- - date_published: 2024-08-06T19:36:42.916625+00:00
-
- ## Tangible Info - Saalik’s software projects on the web
- - [https://tangibleinfo.com](https://tangibleinfo.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## tangible-ip.com - Ta strona jest na sprzedaż! - tangible ip Zasoby i informacje.
- - [http://www.tangible-ip.com](http://www.tangible-ip.com)
- - date_published: 2025-01-18T09:03:01.544086+00:00
 

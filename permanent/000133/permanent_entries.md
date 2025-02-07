@@ -1,3 +1,7 @@
+ ## Looney Tunes Wiki
+ - [https://looneytunes.fandom.com](https://looneytunes.fandom.com)
+ - date_published: 2024-05-02T14:44:43.278723+00:00
+
  ## Looney Tunes Fanon Wiki
  - [https://looneytunesfanon.fandom.com](https://looneytunesfanon.fandom.com)
  - date_published: 2024-10-25T14:05:02+00:00
@@ -3997,8 +4001,4 @@
  ## RENT Wiki
  - [https://rent.fandom.com](https://rent.fandom.com)
  - date_published: 2024-06-17T07:51:58+00:00
-
- ## Republique Wiki
- - [https://republique.fandom.com](https://republique.fandom.com)
- - date_published: 2024-06-17T22:45:44+00:00
 

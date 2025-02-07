@@ -1,3 +1,7 @@
+ ## O Puma
+ - [http://opuma.blogspot.com](http://opuma.blogspot.com)
+ - date_published: 2024-12-13T23:54:14+00:00
+
  ## Nie znaleziono bloga
  - [http://opusmaius.blogspot.com](http://opusmaius.blogspot.com)
  - date_published: 2024-12-31T10:13:24.132555+00:00
@@ -3998,8 +4002,4 @@
  ## On Being A Journeyman Software Developer
  - [https://programmingtour.blogspot.com](https://programmingtour.blogspot.com)
  - date_published: 2024-05-07T15:15:56.483306+00:00
-
- ## 编程随想的博客
- - [https://program-think.blogspot.com](https://program-think.blogspot.com)
- - date_published: 2024-07-14T05:39:55+00:00
 

@@ -1,3 +1,7 @@
+ ## Brisk Teaching - Free AI for Teachers
+ - [https://app.briskteaching.com](https://app.briskteaching.com)
+ - date_published: 2024-10-30T11:07:54+00:00
+
  ## Brisk Teaching Shop
  - [https://swagstore.briskteaching.com](https://swagstore.briskteaching.com)
  - date_published: 2024-10-30T14:09:10.041095+00:00
@@ -4028,8 +4032,4 @@
  ## Bully Pulpit Games
  - [https://bullypulpitgames.com](https://bullypulpitgames.com)
  - date_published: 2024-07-14T10:46:11.059156+00:00
-
- ## BulStream - Излъчване НА ЖИВО и Стрийминг услиги
- - [https://bulstream.com](https://bulstream.com)
- - date_published: 2025-01-22T15:01:20.388562+00:00
 

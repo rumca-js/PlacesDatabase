@@ -1,3 +1,7 @@
+ ## Glossier
+ - [https://glossier.com](https://glossier.com)
+ - date_published: 2024-04-29T03:42:50.133118+00:00
+
  ## Life.Glossier - Careers at Glossier
  - [https://life.glossier.com](https://life.glossier.com)
  - date_published: 2024-01-03T19:31:53+00:00
@@ -4026,8 +4030,4 @@
  ## Home
  - [https://good2bsocial.com](https://good2bsocial.com)
  - date_published: 2024-06-04T00:00:00+00:00
-
- ## Good2bSocial Services
- - [https://legalmarketing.good2bsocial.com](https://legalmarketing.good2bsocial.com)
- - date_published: 2024-10-08T23:37:45+00:00
 

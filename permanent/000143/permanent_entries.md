@@ -1,3 +1,7 @@
+ ## Fullstack React | newline
+ - [https://fullstackreact.com](https://fullstackreact.com)
+ - date_published: 2019-01-30T19:40:30.805260+00:00
+
  ## Kopi Code - Your Enterprise Training Provider
  - [https://fullstacktraining.com](https://fullstacktraining.com)
  - date_published: 2024-01-25T03:57:26+00:00
@@ -4028,8 +4032,4 @@
  ## Game Dev Artisan
  - [https://gamedevartisan.com](https://gamedevartisan.com)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## Game Dev Days Graz – Austria's biggest Game Dev Conference
- - [http://gamedevdays.com](http://gamedevdays.com)
- - date_published: 2024-07-13T09:04:56.100497+00:00
 

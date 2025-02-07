@@ -1,3 +1,28 @@
+ ## J&K – Jöran und Konsorten
+ - [https://joeran.de](https://joeran.de)
+ - date_published: 2025-01-21T15:38:52.769425+00:00
+
+ ## J&K – Jöran und Konsorten
+ - [https://www.joeran.de](https://www.joeran.de)
+ - date_published: 2025-01-21T15:38:44.133787+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.joeranundkonsorten.de](https://matomo.joeranundkonsorten.de)
+ - date_published: 2025-01-21T15:39:54.501869+00:00
+
+ ## Joe Wein's Homepage (www.joewein.de)
+ - [https://joewein.de](https://joewein.de)
+ - date_published: 2020-03-02T07:58:23+00:00
+ - tags: ['personal']
+
+ ## Contribua! – Contribua com o Jogabilidade
+ - [https://contribua.jogabilida.de](https://contribua.jogabilida.de)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Jogabilidade
+ - [https://games.jogabilida.de](https://games.jogabilida.de)
+ - date_published: 2024-10-09T17:04:23+00:00
+
  ## JOGABILIDADE – Podcasts & vídeos sobre vídeo games
  - [http://jogabilida.de](http://jogabilida.de)
  - date_published: 2024-06-16T21:20:52.675315+00:00
@@ -3990,28 +4015,4 @@
  ## MARTINIMUSIC: Livemusic • Showacts • Inszenierungen
  - [https://martinimusic.de](https://martinimusic.de)
  - date_published: 2024-07-13T03:30:43.369284+00:00
-
- ## Dr. Martin Loetzsch, Berlin
- - [https://martin-loetzsch.de](https://martin-loetzsch.de)
- - date_published: 2024-05-21T09:33:21+00:00
-
- ## Martin Wecke ● Design Code Lab
- - [https://martinwecke.de](https://martinwecke.de)
- - date_published: 2024-05-01T04:00:04.596423+00:00
-
- ## Text
- - [https://text.marvinborner.de](https://text.marvinborner.de)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Gitea
- - [https://git.marvinjohanning.de](https://git.marvinjohanning.de)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Marvin Johanning's personal website
- - [https://marvinjohanning.de](https://marvinjohanning.de)
- - date_published: 2024-09-03T23:13:01.121155+00:00
-
- ## marx21 - Magazin für internationalen Sozialismus
- - [http://marx21.de](http://marx21.de)
- - date_published: 2024-12-31T14:57:25.842693+00:00
 

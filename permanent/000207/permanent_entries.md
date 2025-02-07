@@ -1,3 +1,11 @@
+ ## CFEE Classroom Edition
+ - [https://nextgenedition.com](https://nextgenedition.com)
+ - date_published: 2024-06-24T08:18:40.166501+00:00
+
+ ## Renewable Energy Jobs | Solar, Wind & Clean Energy Careers
+ - [http://nextgenenergyjobs.com](http://nextgenenergyjobs.com)
+ - date_published: 2024-11-14T18:24:41.515848+00:00
+
  ## NextGen Government Training Virtual Summit | Your next career step is here.
  - [http://www.nextgengovt.com](http://www.nextgengovt.com)
  - date_published: 2024-06-23T02:16:05.474802+00:00
@@ -4066,12 +4074,4 @@ Isacsson
  ## Cloud Document Security - Nira
  - [https://nira.com](https://nira.com)
  - date_published: 2023-10-25T16:20:22.344024+00:00
-
- ## Nira
- - [https://app.niraenergy.com](https://app.niraenergy.com)
- - date_published: 2024-06-29T13:13:56.502678+00:00
-
- ## Nira
- - [https://niraenergy.com](https://niraenergy.com)
- - date_published: 2024-04-30T00:00:00+00:00
 

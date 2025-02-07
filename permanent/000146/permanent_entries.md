@@ -1,3 +1,8 @@
+ ## Free Online Form Builder | Form Creator | Formly
+ - [https://www.getformly.com](https://www.getformly.com)
+ - date_published: 2024-05-06T12:50:30+00:00
+ - tags: ['online service', 'forms']
+
  ## FreePDF | The PDF editor alternative to Adobe Acrobat
  - [https://www.getfreepdf.com](https://www.getfreepdf.com)
  - date_published: 2024-11-20T19:41:23+00:00
@@ -4030,8 +4035,4 @@
  ## Gitana : écurie de course au large fondée par le Baron Benjamin de Rothschild
  - [http://www.gitana-team.com](http://www.gitana-team.com)
  - date_published: 2024-06-17T12:26:40.116021+00:00
-
- ## gist-posts-all
- - [http://git-awards.com](http://git-awards.com)
- - date_published: 2024-09-09T00:00:00+00:00
 

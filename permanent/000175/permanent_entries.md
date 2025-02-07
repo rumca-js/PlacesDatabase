@@ -1,3 +1,7 @@
+ ## Kyle Mitchell’s Availability
+ - [https://availability.kemitchell.com](https://availability.kemitchell.com)
+ - date_published: 2024-01-29T17:13:11+00:00
+
  ## Client Guide
  - [https://client.kemitchell.com](https://client.kemitchell.com)
  - date_published: 2024-03-22T17:52:54+00:00
@@ -4052,8 +4056,4 @@ with Less Effort – Kindest
  ## Kingdom Rush
  - [https://www.kingdomrush.com](https://www.kingdomrush.com)
  - date_published: 2025-02-02T09:53:35.077341+00:00
-
- ## Kingdom Rush 5: Alliance
- - [https://www.kingdomrushalliance.com](https://www.kingdomrushalliance.com)
- - date_published: 2025-02-02T09:53:32.716924+00:00
 

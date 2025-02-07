@@ -1,3 +1,19 @@
+ ## Tanger
+ - [https://tangeroutlet.com](https://tangeroutlet.com)
+ - date_published: 2024-04-28T03:12:09.482102+00:00
+
+ ## Basalt | Simple Markdown Formatting
+ - [https://basalt.tangibleinfo.com](https://basalt.tangibleinfo.com)
+ - date_published: 2024-08-06T19:36:42.916625+00:00
+
+ ## Tangible Info - Saalik’s software projects on the web
+ - [https://tangibleinfo.com](https://tangibleinfo.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## tangible-ip.com - Ta strona jest na sprzedaż! - tangible ip Zasoby i informacje.
+ - [http://www.tangible-ip.com](http://www.tangible-ip.com)
+ - date_published: 2025-01-18T09:03:01.544086+00:00
+
  ## Tangible Materials, Inc.
  - [https://tangiblematerials.com](https://tangiblematerials.com)
  - date_published: 2024-06-23T06:10:39.776651+00:00
@@ -4029,20 +4045,4 @@
  ## Online Druckerei für Teamoutfits - Textildruck | TeamShirts
  - [https://wizard.teamshirts.com](https://wizard.teamshirts.com)
  - date_published: 2024-10-21T09:03:51.921899+00:00
-
- ## Online Sports League Management Software for Teams | TeamSideline.com
- - [http://www.teamsideline.com](http://www.teamsideline.com)
- - date_published: 2025-02-03T07:24:22.695664+00:00
-
- ## The Technical Marketing Handbook – Simmer
- - [https://handbook.teamsimmer.com](https://handbook.teamsimmer.com)
- - date_published: 2025-01-10T10:20:00+00:00
-
- ## Online Courses In Technical Marketing - Simmer
- - [https://teamsimmer.com](https://teamsimmer.com)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Home - St Patricks Catholic Parish
- - [https://stpatrickscatholicparish.teamsnapsites.com](https://stpatrickscatholicparish.teamsnapsites.com)
- - date_published: 2021-11-16T00:00:00+00:00
 

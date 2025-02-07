@@ -1,3 +1,7 @@
+ ## Microsoft Graph Dev Center | APIs and app development
+ - [https://graph.microsoft.com](https://graph.microsoft.com)
+ - date_published: 2024-05-07T09:12:40.653122+00:00
+
  ## Microsoft Guided Tours
  - [https://guidedtour.microsoft.com](https://guidedtour.microsoft.com)
  - date_published: 2024-07-25T07:11:52+00:00
@@ -1956,6 +1960,10 @@
  ## MikrotikTutorial
  - [https://mikrotiktutorial.com](https://mikrotiktutorial.com)
  - date_published: 2024-05-09T04:09:23.748090+00:00
+
+ ## I wrote a screenplay for a programming language introduction
+ - [https://jan.miksovsky.com](https://jan.miksovsky.com)
+ - date_published: 2025-02-06T06:23:49+00:00
 
  ## miku86
  - [https://miku86.com](https://miku86.com)
@@ -4050,13 +4058,4 @@
  - [https://minireference.com](https://minireference.com)
  - date_published: 2024-06-01T04:51:15.845032+00:00
  - tags: ['book']
-
- ## MinisBarter.com - Miniature wargaming marketplace
- - [https://minisbarter.com](https://minisbarter.com)
- - date_published: 2023-10-25T11:11:29.320355+00:00
- - tags: ['tabletop games', 'digital marketplace']
-
- ## minisforum
- - [https://minisforum.com](https://minisforum.com)
- - date_published: 2024-05-20T18:30:58+00:00
 

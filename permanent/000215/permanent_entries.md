@@ -1,3 +1,19 @@
+ ## Teamland - All-in-One Team Building Events & Training
+ - [https://ourteamland.com](https://ourteamland.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Culture of Care
+ - [https://ourthinkingaboutdrinking.com](https://ourthinkingaboutdrinking.com)
+ - date_published: 2024-10-29T02:14:40+00:00
+
+ ## OurTime.com - Online Dating Site for Men & Women Over 50
+ - [http://www.ourtime.com](http://www.ourtime.com)
+ - date_published: 2024-09-04T11:50:42.294260+00:00
+
+ ## TYPE BY
+ - [http://www.ourtype.com](http://www.ourtype.com)
+ - date_published: 2024-09-16T03:52:12.695177+00:00
+
  ## World of Pixels
  - [https://ourworldofpixels.com](https://ourworldofpixels.com)
  - date_published: 2023-06-13T15:37:44+00:00
@@ -4007,20 +4023,4 @@
  ## Home
  - [https://www.palaisliechtenstein.com](https://www.palaisliechtenstein.com)
  - date_published: 2025-01-22T03:59:13.557386+00:00
-
- ## AIP Now
- - [https://aip.palantir.com](https://aip.palantir.com)
- - date_published: 2024-05-06T22:27:01.598048+00:00
-
- ## Palantir Blog
- - [https://blog.palantir.com](https://blog.palantir.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Build with AIP
- - [https://build.palantir.com](https://build.palantir.com)
- - date_published: 2024-06-26T01:01:47+00:00
-
- ## Palantir Developer Community
- - [https://community.palantir.com](https://community.palantir.com)
- - date_published: 2024-06-26T12:30:43.721830+00:00
 

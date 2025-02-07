@@ -1,3 +1,20 @@
+ ## The Ancestor's Fire | spiritual journey blog
+ - [https://www.theancestorsfire.com](https://www.theancestorsfire.com)
+ - date_published: 2024-08-18T21:03:00.907691+00:00
+
+ ## Elizabeth Scalia The Anchoress -
+ - [https://theanchoress.com](https://theanchoress.com)
+ - date_published: 2025-01-20T22:56:38.839833+00:00
+
+ ## The Ancients
+ - [https://the-ancients.com](https://the-ancients.com)
+ - date_published: 2018-07-20T09:01:16+00:00
+
+ ## The Ancient's Den
+ - [https://theancientsden.com](https://theancientsden.com)
+ - date_published: 2024-04-07T18:39:22+00:00
+ - tags: ['soul reaver', 'legacy of kain']
+
  ## the Andrew Bailey
  - [https://theandrewbailey.com](https://theandrewbailey.com)
  - date_published: 2024-07-23T00:00:00+00:00
@@ -4036,20 +4053,4 @@ and the Carpet Aubrey Towser Michael Bentine's Potty Time
  ## DiCamillo Tours, Lectures and Database of British Country Houses
  - [https://thedicamillo.com](https://thedicamillo.com)
  - date_published: 2024-05-13T00:00:00+00:00
-
- ## The Dice Lab
- - [https://thedicelab.com](https://thedicelab.com)
- - date_published: 2024-03-11T17:11:20+00:00
-
- ## Specialist, Wargaming & Roleplaying Dice - The Dice Shop Online
- - [http://www.thediceshoponline.com](http://www.thediceshoponline.com)
- - date_published: 2024-12-31T15:25:25.880718+00:00
-
- ## The Dickinson Press
- - [https://thedickinsonpress.com](https://thedickinsonpress.com)
- - date_published: 2024-07-13T12:47:45.664697+00:00
-
- ## DIELINE
- - [https://thedieline.com](https://thedieline.com)
- - date_published: 2024-07-19T13:16:00+00:00
 

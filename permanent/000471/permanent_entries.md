@@ -1,3 +1,33 @@
+ ## COMPET-N - news, info, demos, maps
+ - [https://compet-n.gamers.org](https://compet-n.gamers.org)
+ - date_published: 2024-08-18T19:13:40.774162+00:00
+
+ ## WWW.GAMERS.ORG
+ - [https://gamers.org](https://gamers.org)
+ - date_published: 2023-10-25T21:24:07.317158+00:00
+
+ ## Home - Official Games4theworld Downloads website
+ - [https://games4theworld.org](https://games4theworld.org)
+ - date_published: 2024-10-16T10:55:27+00:00
+
+ ## Gamesboro Radio
+ - [https://radio.gamesboro.org](https://radio.gamesboro.org)
+ - date_published: 2024-02-15T22:13:54.975381+00:00
+ - tags: ['demoscene']
+
+ ## Gamesboro Shoutcast
+ - [https://shoutcast.gamesboro.org](https://shoutcast.gamesboro.org)
+ - date_published: 2024-02-15T05:08:18.936845+00:00
+ - tags: ['video game music']
+
+ ## 计算机图形学与混合现实在线平台 – GAMES: Graphics And Mixed Environment Symposium
+ - [https://games-cn.org](https://games-cn.org)
+ - date_published: 2024-08-07T14:54:52.848777+00:00
+
+ ## Journal of Games Criticism
+ - [https://gamescriticism.org](https://gamescriticism.org)
+ - date_published: 2024-06-23T20:16:50.583633+00:00
+
  ## Games Database - Online Games System Repository
  - [https://gamesdatabase.org](https://gamesdatabase.org)
  - date_published: 2024-06-20T01:18:38+00:00
@@ -4014,33 +4044,4 @@
  ## Index of /
  - [https://alpha.gnu.org](https://alpha.gnu.org)
  - date_published: 2003-08-13T00:00:00+00:00
-
- ## Audio/Video - GNU Project - Free-Software Foundation
- - [https://audio-video.gnu.org](https://audio-video.gnu.org)
- - date_published: 2022-10-23T07:43:11+00:00
-
- ## Cuirass
- - [https://ci.guix.gnu.org](https://ci.guix.gnu.org)
- - date_published: 2024-05-19T02:44:31.724948+00:00
-
- ## Guix Data Service
- - [https://data.guix.gnu.org](https://data.guix.gnu.org)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## GNU Bug Tracker
- - [https://debbugs.gnu.org](https://debbugs.gnu.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## GNU Emacs Lisp Package Archive
- - [https://elpa.gnu.org](https://elpa.gnu.org)
- - date_published: 2022-11-12T22:34:28+00:00
- - tags: ['personal']
-
- ## Index of /
- - [https://ftp.gnu.org](https://ftp.gnu.org)
- - date_published: 2023-10-25T21:25:41.505440+00:00
-
- ## Index of /gnu/
- - [https://ftpmirror.gnu.org](https://ftpmirror.gnu.org)
- - date_published: 2024-05-19T02:44:07.484281+00:00
 

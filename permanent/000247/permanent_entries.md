@@ -1,3 +1,19 @@
+ ## Good Comics for Kids - A School Library Journal Blog
+ - [https://goodcomicsforkids.slj.com](https://goodcomicsforkids.slj.com)
+ - date_published: 2024-06-20T17:26:17+00:00
+
+ ## Heavy Medal: A Mock Newbery Blog - A School Library Journal Blog
+ - [https://heavymedal.slj.com](https://heavymedal.slj.com)
+ - date_published: 2024-06-21T00:21:57+00:00
+
+ ## Pearl's and Ruby's - A School Library Journal Blog
+ - [https://pearlsandrubys.slj.com](https://pearlsandrubys.slj.com)
+ - date_published: 2024-12-11T22:22:50.578751+00:00
+
+ ## Politics in Practice - A School Library Journal Blog
+ - [https://politicsinpractice.slj.com](https://politicsinpractice.slj.com)
+ - date_published: 2024-06-20T18:36:47+00:00
+
  ## School Library Journal
  - [https://slj.com](https://slj.com)
  - date_published: 2024-06-21T12:42:57.770896+00:00
@@ -4006,21 +4022,4 @@
  ## Sne Studio
  - [https://snestudio.com](https://snestudio.com)
  - date_published: 2024-07-23T23:32:09.776533+00:00
-
- ## S-NET Communications, Inc.
- - [https://www.snetconnect.com](https://www.snetconnect.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Serge Nevsky - Films
- - [https://films.snevsky.com](https://films.snevsky.com)
- - date_published: 2024-05-10T06:54:41.049322+00:00
-
- ## Serge Nevsky
- - [https://snevsky.com](https://snevsky.com)
- - date_published: 2023-11-29T14:41:22.989669+00:00
- - tags: ['personal']
-
- ## Site officiel du Syndicat national des guides de montagne (SNGM)
- - [https://sngm.com](https://sngm.com)
- - date_published: 2025-01-31T09:58:10.862555+00:00
 

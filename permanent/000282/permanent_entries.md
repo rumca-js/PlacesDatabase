@@ -1,3 +1,19 @@
+ ## SEGADriven
+ - [https://segadriven.tumblr.com](https://segadriven.tumblr.com)
+ - date_published: 2024-07-17T12:16:46.697431+00:00
+
+ ## 👋
+ - [https://segamascott.tumblr.com](https://segamascott.tumblr.com)
+ - date_published: 2024-12-13T11:08:21.325576+00:00
+
+ ## UNTITLED
+ - [https://se-juk-blog.tumblr.com](https://se-juk-blog.tumblr.com)
+ - date_published: 2024-09-16T06:41:53.369195+00:00
+
+ ## love and trust 100%
+ - [https://self-critical-automaton.tumblr.com](https://self-critical-automaton.tumblr.com)
+ - date_published: 2024-06-27T03:01:21.270845+00:00
+
  ## Here to build something
  - [https://senmutthebuilder.tumblr.com](https://senmutthebuilder.tumblr.com)
  - date_published: 2024-12-22T09:54:40.377333+00:00
@@ -4002,20 +4018,4 @@ Not Yet. ❤️
  ## A familiar path with new steps taken
  - [https://ut-storyshift.tumblr.com](https://ut-storyshift.tumblr.com)
  - date_published: 2024-10-27T04:30:30.520101+00:00
-
- ## Tumblr
- - [https://uuuuutan.tumblr.com](https://uuuuutan.tumblr.com)
- - date_published: 2024-09-16T06:42:26.932327+00:00
-
- ## Special Collections
- - [https://uwmspeccoll.tumblr.com](https://uwmspeccoll.tumblr.com)
- - date_published: 2024-12-21T16:54:25.878438+00:00
-
- ## Stack
- - [https://v747.tumblr.com](https://v747.tumblr.com)
- - date_published: 2024-12-13T10:58:36.998960+00:00
-
- ## It's Vacuously True!
- - [https://vacuously-true.tumblr.com](https://vacuously-true.tumblr.com)
- - date_published: 2024-12-13T09:20:47.423095+00:00
 

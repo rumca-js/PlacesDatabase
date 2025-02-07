@@ -1,3 +1,27 @@
+ ## International Student and Scholar Services - International Student & Scholar Services
+ - [http://isss.gsu.edu](http://isss.gsu.edu)
+ - date_published: 2024-07-21T23:54:16.234894+00:00
+
+ ## College of Law
+ - [http://law.gsu.edu](http://law.gsu.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Georgia State University College of Law Library
+ - [https://lawlibrary.gsu.edu](https://lawlibrary.gsu.edu)
+ - date_published: 2024-04-30T04:31:34.280907+00:00
+
+ ## Home - Georgia State University
+ - [https://legacy.gsu.edu](https://legacy.gsu.edu)
+ - date_published: 2024-08-11T08:07:36.649253+00:00
+
+ ## Legal Affairs - Office of Legal Affairs
+ - [https://legalaffairs.gsu.edu](https://legalaffairs.gsu.edu)
+ - date_published: 2024-04-30T04:32:12.778458+00:00
+
+ ## Byrdine F. Lewis College of Nursing and Health Professions
+ - [https://lewis.gsu.edu](https://lewis.gsu.edu)
+ - date_published: 2024-07-22T02:08:25.240071+00:00
+
  ## Georgia State University Library - Georgia State University Library
  - [https://library.gsu.edu](https://library.gsu.edu)
  - date_published: 2024-04-30T04:31:58.166270+00:00
@@ -3984,28 +4008,4 @@ IDEALS
  ## Office of Admissions
  - [https://admissions.indiana.edu](https://admissions.indiana.edu)
  - date_published: 2024-03-07T00:00:00+00:00
-
- ## Bloomington Drosophila Stock Center
- - [https://bdsc.indiana.edu](https://bdsc.indiana.edu)
- - date_published: 2024-11-15T00:00:00+00:00
-
- ## First page
- - [https://blogs.libraries.indiana.edu](https://blogs.libraries.indiana.edu)
- - date_published: 2024-05-07T15:44:35.471608+00:00
-
- ## Luddy CGI Server
- - [https://cgi.cs.indiana.edu](https://cgi.cs.indiana.edu)
- - date_published: 2023-07-21T17:55:03+00:00
-
- ## Luddy CGI Server
- - [https://cgi.soic.indiana.edu](https://cgi.soic.indiana.edu)
- - date_published: 2023-07-21T17:55:03+00:00
-
- ## Cognitive Science Program
- - [https://cogs.indiana.edu](https://cogs.indiana.edu)
- - date_published: 2024-06-15T18:38:05.691245+00:00
-
- ## College of Arts & Sciences
- - [https://college.indiana.edu](https://college.indiana.edu)
- - date_published: 2024-04-30T05:01:30.492920+00:00
 

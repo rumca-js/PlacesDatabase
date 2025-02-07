@@ -1,6 +1,31 @@
 [
     {
         "age": null,
+        "album": null,
+        "author": "Gregor Ojstersek",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-03-10T00:00:00+00:00",
+        "description": "Weekly newsletter for becoming a great engineering leader. Click to read Engineering Leadership, by Gregor Ojstersek, a Substack publication with tens of thousands of subscribers.",
+        "id": 26277,
+        "language": "en",
+        "link": "https://newsletter.eng-leadership.com",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fgregorojstersek.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1298640254%26version%3D9",
+        "title": "Engineering Leadership | Gregor Ojstersek | Substack",
+        "vote": 0
+    },
+    {
+        "age": null,
         "album": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/thumbnail/190d9520-1141-44f1-8790-19a2b81e35e5/landscape_social-newnew.png",
         "author": null,
         "bookmarked": false,
@@ -25030,33 +25055,6 @@
         "tags": [],
         "thumbnail": "https://ericdorsey.com/assets/images/favicon.png",
         "title": "Eric Dorsey",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": null,
-        "author": null,
-        "bookmarked": false,
-        "comments": [],
-        "date_dead_since": null,
-        "date_published": "2022-11-05T08:30:47+00:00",
-        "description": "Eric Draken - Hard-Problem Solver",
-        "id": 17772,
-        "language": "en-US",
-        "link": "https://ericdraken.com",
-        "manual_status_code": 0,
-        "page_rating": 35,
-        "page_rating_contents": 100,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": true,
-        "source_url": "",
-        "status_code": 200,
-        "tags": [
-            "personal"
-        ],
-        "thumbnail": "https://ericdraken.com/favicon/favicon.ico",
-        "title": "Eric Draken - Hard-Problem Solver",
         "vote": 0
     }
 ]

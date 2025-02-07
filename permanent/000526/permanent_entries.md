@@ -1,3 +1,31 @@
+ ## Auto Steps to the Epiphany
+ - [https://epiphany.fireproof.storage](https://epiphany.fireproof.storage)
+ - date_published: 2024-07-22T17:11:07.227860+00:00
+
+ ## Welcome - Fireproof cloudless database for realtime apps
+ - [https://fireproof.storage](https://fireproof.storage)
+ - date_published: 2024-04-30T00:30:07.276334+00:00
+
+ ## .Storage Domain Names | .Storage
+ - [https://go.storage](https://go.storage)
+ - date_published: 2024-06-17T07:44:26.337115+00:00
+
+ ## Znajdź idealną nazwę domeny .storage - GoDaddy PL
+ - [http://godaddy.storage](http://godaddy.storage)
+ - date_published: 2024-10-17T15:05:53.940010+00:00
+
+ ## GOLD - ERC20 Stablecoin Backed by GOLD
+ - [https://gold.storage](https://gold.storage)
+ - date_published: 2024-10-17T15:04:49.866765+00:00
+
+ ## Introduction | Lighthouse
+ - [https://docs.lighthouse.storage](https://docs.lighthouse.storage)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Lighthouse Permanent Storage
+ - [http://lighthouse.storage](http://lighthouse.storage)
+ - date_published: 2024-06-16T04:32:27.512235+00:00
+
  ## NFT.Storage
  - [https://app.nft.storage](https://app.nft.storage)
  - date_published: 2024-09-21T23:30:18.493503+00:00
@@ -4007,32 +4035,4 @@
  ## Index of /
  - [http://www.isoc.td](http://www.isoc.td)
  - date_published: 2024-08-06T00:00:00+00:00
-
- ## Canonical IndieWeb Identity of Wm Salt Hale
- - [https://sal.td](https://sal.td)
- - date_published: 1987-12-12T00:00:00+00:00
-
- ## 6686 Bet - Nhà cái 6686 team uy tín hàng đầu hiện nay
- - [https://6686.team](https://6686.team)
- - date_published: 2025-01-14T20:47:41.159377+00:00
-
- ## Build your dream team
- - [https://a.team](https://a.team)
- - date_published: 2023-10-25T22:43:54.943837+00:00
-
- ## A.Team | Team Central — form, manage and scale teams
- - [https://client.a.team](https://client.a.team)
- - date_published: 2024-08-17T11:27:13+00:00
-
- ## A.Team | Hire expert tech teams, on demand
- - [https://onboarding.a.team](https://onboarding.a.team)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Sign In
- - [https://platform.a.team](https://platform.a.team)
- - date_published: 2024-08-18T16:00:19.535723+00:00
-
- ## Home - Ad Hoc
- - [https://adhoc.team](https://adhoc.team)
- - date_published: 2024-06-06T15:24:48+00:00
 

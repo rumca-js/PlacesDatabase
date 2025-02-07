@@ -1,3 +1,7 @@
+ ## Most Powerful Women 2023 - Cablefax
+ - [https://cablefaxwomen.com](https://cablefaxwomen.com)
+ - date_published: 2024-06-29T04:49:20.221059+00:00
+
  ## CableLabs Account
  - [https://account.cablelabs.com](https://account.cablelabs.com)
  - date_published: 2024-05-08T04:12:43.753929+00:00
@@ -4034,8 +4038,4 @@
  ## New York Times Bestselling Author | Candace Camp
  - [http://www.candace-camp.com](http://www.candace-camp.com)
  - date_published: 1970-01-01T00:00:00+00:00
-
- ## Candace Irving Military Detective Thrillers & Veteran/K-9 Mysteries
- - [https://store.candaceirving.com](https://store.candaceirving.com)
- - date_published: 2025-02-03T04:33:30.108494+00:00
 

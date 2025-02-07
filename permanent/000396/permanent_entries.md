@@ -1,3 +1,27 @@
+ ## FreeCAD Development Blog
+ - [https://freecad.github.io](https://freecad.github.io)
+ - date_published: 2018-11-10T21:11:00+00:00
+
+ ## Freedoom
+ - [https://freedoom.github.io](https://freedoom.github.io)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Welcome to the FreeMiNT Project website
+ - [https://freemint.github.io](https://freemint.github.io)
+ - date_published: 2021-07-09T05:02:38+00:00
+
+ ## FreeOTP
+ - [https://freeotp.github.io](https://freeotp.github.io)
+ - date_published: 2023-04-27T13:11:29+00:00
+
+ ## Free software & Proxmox
+ - [https://free-pmx.github.io](https://free-pmx.github.io)
+ - date_published: 2024-12-05T00:00:00+00:00
+
+ ## FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation
+ - [https://freeseg.github.io](https://freeseg.github.io)
+ - date_published: 2023-04-20T14:08:33+00:00
+
  ## Dynamic View Synthesis from Dynamic Monocular Video
  - [https://free-view-video.github.io](https://free-view-video.github.io)
  - date_published: 2021-12-14T03:00:27+00:00
@@ -4015,28 +4039,4 @@ Improved Near-Camera Training
  ## Fujun Luan
  - [https://luanfujun.github.io](https://luanfujun.github.io)
  - date_published: 2024-08-27T16:54:53+00:00
-
- ## Luca Bruno blog
- - [https://lucabrunox.github.io](https://lucabrunox.github.io)
- - date_published: 2024-08-29T20:58:05+00:00
-
- ## Lucas Seiki Oshiro
- - [https://lucasoshiro.github.io](https://lucasoshiro.github.io)
- - date_published: 2024-01-03T00:44:29.284892+00:00
-
- ## lucaspuente.github.io | Lucas Puente |
- - [http://lucaspuente.github.io](http://lucaspuente.github.io)
- - date_published: 2020-02-25T18:28:18+00:00
-
- ## Home
- - [https://lucaweihs.github.io](https://lucaweihs.github.io)
- - date_published: 2024-06-13T18:04:54+00:00
-
- ## Lucy Li's Website
- - [https://lucy3.github.io](https://lucy3.github.io)
- - date_published: 2024-06-15T08:10:45+00:00
-
- ## lucynaess.github.io by lucynaess
- - [https://lucynaess.github.io](https://lucynaess.github.io)
- - date_published: 2017-05-05T04:02:45+00:00
 

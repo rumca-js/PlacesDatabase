@@ -1,3 +1,27 @@
+ ## Goldsmiths, University of London
+ - [https://goldsmiths.academia.edu](https://goldsmiths.academia.edu)
+ - date_published: 2024-07-10T11:17:55.427286+00:00
+
+ ## Google
+ - [https://google.academia.edu](https://google.academia.edu)
+ - date_published: 2024-12-03T21:12:15.694626+00:00
+
+ ## Griffith University
+ - [https://griffith.academia.edu](https://griffith.academia.edu)
+ - date_published: 2024-04-30T02:58:41.376692+00:00
+
+ ## Comunicar Group
+ - [http://grupocomunicar.academia.edu](http://grupocomunicar.academia.edu)
+ - date_published: 2024-07-02T22:46:35.689974+00:00
+
+ ## Al-Baha University, Kingdom of Saudi Arabia
+ - [https://hindawi.academia.edu](https://hindawi.academia.edu)
+ - date_published: 2024-04-30T02:59:30.415035+00:00
+
+ ## Hiroshima University
+ - [https://hiroshima-u.academia.edu](https://hiroshima-u.academia.edu)
+ - date_published: 2024-04-30T02:49:57.512319+00:00
+
  ## The University of Hong Kong
  - [https://hku-hk.academia.edu](https://hku-hk.academia.edu)
  - date_published: 2024-04-30T03:01:30.055085+00:00
@@ -3983,28 +4007,4 @@
  ## Home | Cognitive Science
  - [https://cogsci.berkeley.edu](https://cogsci.berkeley.edu)
  - date_published: 2024-07-02T08:42:18+00:00
-
- ## colala: the computation and language lab at UC Berkeley
- - [https://colala.berkeley.edu](https://colala.berkeley.edu)
- - date_published: 2024-06-30T05:43:29.206976+00:00
-
- ## Home | Compliance Services
- - [https://compliance.berkeley.edu](https://compliance.berkeley.edu)
- - date_published: 2024-07-22T07:39:38+00:00
-
- ## Home | Center for Consumer Law & Economic Justice
- - [https://consumerlaw.berkeley.edu](https://consumerlaw.berkeley.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Coronavirus (COVID-19) Info
- - [https://coronavirus.berkeley.edu](https://coronavirus.berkeley.edu)
- - date_published: 2020-02-26T23:40:02+00:00
-
- ## Human Research Protection Program | UC Berkeley
- - [https://cphs.berkeley.edu](https://cphs.berkeley.edu)
- - date_published: 2025-01-15T23:39:21.079653+00:00
-
- ## CS184/284A: Home
- - [https://cs184.eecs.berkeley.edu](https://cs184.eecs.berkeley.edu)
- - date_published: 2024-07-12T16:14:36.899032+00:00
 

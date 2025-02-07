@@ -1,3 +1,28 @@
+ ## ArtsUW Events | Arts Events
+ - [https://tickets.artsevents.washington.edu](https://tickets.artsevents.washington.edu)
+ - date_published: 2024-06-19T23:11:24+00:00
+
+ ## types.cs.washington.edu
+ - [https://types.cs.washington.edu](https://types.cs.washington.edu)
+ - date_published: 2017-01-30T19:26:47+00:00
+
+ ## Ubicomp Lab – Ubiquitous Computing Lab at the University of Washington
+ - [https://ubicomplab.cs.washington.edu](https://ubicomplab.cs.washington.edu)
+ - date_published: 2025-01-09T20:09:14+00:00
+
+ ## Celebrate Black freedom this Juneteenth
+ - [https://washington.edu](https://washington.edu)
+ - date_published: 2024-06-17T05:53:08+00:00
+ - tags: ['university']
+
+ ## WEIRD Lab
+ - [https://weirdlab.cs.washington.edu](https://weirdlab.cs.washington.edu)
+ - date_published: 2023-09-11T21:58:27+00:00
+
+ ## Homepage - The University of Washington Bothell
+ - [https://www.bothell.washington.edu](https://www.bothell.washington.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
  ## Clean Energy Institute
  - [https://www.cei.washington.edu](https://www.cei.washington.edu)
  - date_published: 2025-01-10T01:55:29.823228+00:00
@@ -3978,28 +4003,4 @@
  ## Events Calendar
  - [https://cal.wvu.edu](https://cal.wvu.edu)
  - date_published: 2024-07-02T00:00:00+00:00
-
- ## Campus and Community Life | Home
- - [https://campuslife.wvu.edu](https://campuslife.wvu.edu)
- - date_published: 2024-07-02T15:27:41.397027+00:00
-
- ## Home | Campus Map | West Virginia University
- - [https://campusmap.wvu.edu](https://campusmap.wvu.edu)
- - date_published: 2024-05-07T22:39:56.944061+00:00
-
- ## Career Services | Home
- - [https://careerservices.wvu.edu](https://careerservices.wvu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Careers | Home
- - [https://careers.wvu.edu](https://careers.wvu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Carruth Center | Home
- - [https://carruth.wvu.edu](https://carruth.wvu.edu)
- - date_published: 2024-07-02T15:18:44.348542+00:00
-
- ## 2024-2025 < West Virginia University
- - [http://catalog.wvu.edu](http://catalog.wvu.edu)
- - date_published: 2024-06-25T18:43:09+00:00
 

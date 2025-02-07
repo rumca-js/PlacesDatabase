@@ -1,3 +1,32 @@
+ ## TAU Trust UK | Tel Aviv University Trust – Pursuing the Unknown
+ - [https://tautrust.org](https://tautrust.org)
+ - date_published: 2024-08-19T03:21:20.000784+00:00
+
+ ## Tawani Foundation
+ - [https://www.tawanifoundation.org](https://www.tawanifoundation.org)
+ - date_published: 2024-12-21T14:32:19.868590+00:00
+
+ ## Tawawa
+ - [https://tawawa.org](https://tawawa.org)
+ - date_published: 2024-06-15T18:50:51.028954+00:00
+
+ ## Cats And Dogs
+ - [http://www.tawnygrammar.org](http://www.tawnygrammar.org)
+ - date_published: 2021-10-22T00:00:00+00:00
+
+ ## The Affordable Housing Tax Credit Coalition
+ - [https://www.taxcreditcoalition.org](https://www.taxcreditcoalition.org)
+ - date_published: 2025-01-20T20:59:02.890236+00:00
+
+ ## Homepage
+ - [https://taxfoundation.org](https://taxfoundation.org)
+ - date_published: 2023-12-10T07:12:31.078840+00:00
+ - tags: ['taxes']
+
+ ## Home Page | Alliance for Taxpayer Access
+ - [http://www.taxpayeraccess.org](http://www.taxpayeraccess.org)
+ - date_published: 2025-01-01T01:58:02.239225+00:00
+
  ## Tax Policy Center
  - [https://www.taxpolicycenter.org](https://www.taxpolicycenter.org)
  - date_published: 2024-07-15T11:01:56+00:00
@@ -4001,32 +4030,4 @@
  ## The Shed
  - [https://www.theshed.org](https://www.theshed.org)
  - date_published: 2024-09-16T00:00:00+00:00
-
- ## The Shift Data Portal
- - [https://www.theshiftdataportal.org](https://www.theshiftdataportal.org)
- - date_published: 2024-08-18T11:03:03.475044+00:00
-
- ## Welcome to analytics.theshifters.org
- - [https://analytics.theshifters.org](https://analytics.theshifters.org)
- - date_published: 2021-03-02T15:06:47+00:00
-
- ## Les Initiatives des Shifters pour la transition énergie-climat
- - [https://initiatives.theshifters.org](https://initiatives.theshifters.org)
- - date_published: 2024-08-18T00:00:31+00:00
-
- ## Accueil - The Shift Project
- - [https://theshiftproject.org](https://theshiftproject.org)
- - date_published: 2023-12-11T16:18:22.195691+00:00
-
- ## The Sifter - A Food History Research Tool
- - [https://thesifter.org](https://thesifter.org)
- - date_published: 2023-10-25T22:14:32.844291+00:00
-
- ## SIGMUND — Resources for entrepreneurs in tourism
- - [https://thesigmundproject.org](https://thesigmundproject.org)
- - date_published: 2024-06-27T06:20:20.517595+00:00
-
- ## Whistleblower Support Organization - The Signals Network
- - [https://thesignalsnetwork.org](https://thesignalsnetwork.org)
- - date_published: 2024-08-16T00:00:00+00:00
 

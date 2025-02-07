@@ -1,3 +1,33 @@
+ ## Career Opportunities in Real Estate
+ - [https://www.corearc.org](https://www.corearc.org)
+ - date_published: 2025-02-04T12:05:30.368604+00:00
+
+ ## coreboot
+ - [https://blogs.coreboot.org](https://blogs.coreboot.org)
+ - date_published: 2024-06-20T09:31:03.491087+00:00
+
+ ## coreboot
+ - [https://coreboot.org](https://coreboot.org)
+ - date_published: 2024-05-08T09:35:12.338872+00:00
+
+ ## Welcome to the coreboot documentation — coreboot 24.02-168-g1879b6a34a
+ documentation
+ - [https://doc.coreboot.org](https://doc.coreboot.org)
+ - date_published: 2024-05-08T09:35:10.263697+00:00
+
+ ## Issue Tracker
+ - [https://ticket.coreboot.org](https://ticket.coreboot.org)
+ - date_published: 2024-06-20T09:31:04.950207+00:00
+
+ ## Submissions Portal : Core C++ 2024
+ - [https://cfs.corecpp.org](https://cfs.corecpp.org)
+ - date_published: 2024-09-02T12:56:03.034252+00:00
+
+ ## Core C++ 2024
+ - [https://corecpp.org](https://corecpp.org)
+ - date_published: 2024-05-25T09:50:16.261236+00:00
+ - tags: ['conference']
+
  ## Core
  - [https://scan.coredao.org](https://scan.coredao.org)
  - date_published: 2024-08-19T08:25:02+00:00
@@ -4003,33 +4033,4 @@ irc logs at libera.irclog.whitequark.org
  ## D&AD | Global Association for Creative Advertising & Design Awards
  - [https://www.dandad.org](https://www.dandad.org)
  - date_published: 2024-08-19T11:48:56.983664+00:00
-
- ## Daneric's Elliott Waves – Elliott Wave Theory, Technical Analysis, and Social Mood Commentary
- - [http://www.danericselliottwaves.org](http://www.danericselliottwaves.org)
- - date_published: 2024-07-01T09:04:13.329290+00:00
-
- ## Dan Fu - Stanford University
- - [https://www.danfu.org](https://www.danfu.org)
- - date_published: 2024-05-07T20:26:55.177987+00:00
-
- ## Danica McKellar Online |
- - [https://danicamckellar.org](https://danicamckellar.org)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Daniel Greenfield / Sultan Knish Articles at DanielGreenfield.org
- - [http://www.danielgreenfield.org](http://www.danielgreenfield.org)
- - date_published: 2024-06-27T05:28:45+00:00
-
- ## Meet Danielle Boyer
- - [https://www.danielleboyer.org](https://www.danielleboyer.org)
- - date_published: 2024-07-07T08:38:08.770200+00:00
-
- ## Daniel Nouri's Homepage
- - [https://danielnouri.org](https://danielnouri.org)
- - date_published: 2024-06-03T06:26:34.397925+00:00
- - tags: ['personal']
-
- ## Page d'accueil
- - [https://www.danielou.org](https://www.danielou.org)
- - date_published: 2024-03-27T16:50:11+00:00
 

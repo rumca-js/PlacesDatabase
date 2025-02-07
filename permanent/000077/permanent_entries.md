@@ -1,3 +1,7 @@
+ ## SpeyCo Circle Spey Reel
+ - [http://circlespey.blogspot.com](http://circlespey.blogspot.com)
+ - date_published: 2025-01-20T18:48:58.429816+00:00
+
  ## Circling Squares
  - [https://circlingsquares.blogspot.com](https://circlingsquares.blogspot.com)
  - date_published: 2025-02-01T15:53:13.139890+00:00
@@ -4001,8 +4005,4 @@
  ## Demi Morgana
  - [http://demimorgana.blogspot.com](http://demimorgana.blogspot.com)
  - date_published: 2024-07-19T18:41:17+00:00
-
- ## DemiOrator
- - [http://demiorator.blogspot.com](http://demiorator.blogspot.com)
- - date_published: 2024-09-05T08:26:08+00:00
 

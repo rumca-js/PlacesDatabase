@@ -1,3 +1,34 @@
+ ## Empowering Minds, Transforming Futures
+ - [https://kvsulur.org](https://kvsulur.org)
+ - date_published: 2024-12-13T03:31:38.593665+00:00
+
+ ## Best Sign Company Fountain Valley, CA | Custom Signs, Graphics, & Wraps
+ - [https://kwahk.org](https://kwahk.org)
+ - date_published: 2024-10-21T17:13:51.025166+00:00
+ - date_dead_since: 2025-02-04T16:44:47.326584+00:00
+
+ ## Quantum transport simulations made easy
+ - [http://kwant-project.org](http://kwant-project.org)
+ - date_published: 2020-12-08T16:16:35+00:00
+
+ ## kwatsjpedia.org
+ - [https://kwatsjpedia.org](https://kwatsjpedia.org)
+ - date_published: 2024-07-14T06:14:58.701931+00:00
+
+ ## KWBU - Homepage
+ - [https://kwbu.org](https://kwbu.org)
+ - date_published: 2024-08-19T18:49:32.943772+00:00
+ - date_dead_since: 2025-02-04T16:44:51.108871+00:00
+
+ ## Remix.Kwed.Org | The Def Guide to C64 MP3 remixes
+ - [https://remix.kwed.org](https://remix.kwed.org)
+ - date_published: 2024-02-15T22:14:00.417683+00:00
+ - tags: ['demoscene']
+
+ ## home - Key West Literary Seminar
+ - [http://www.kwls.org](http://www.kwls.org)
+ - date_published: 2025-01-01T01:36:51.328825+00:00
+
  ## KW Next Gen
  - [https://kwnextgen.org](https://kwnextgen.org)
  - date_published: 2025-02-03T23:42:12.550421+00:00
@@ -4093,32 +4124,4 @@ Intro
  ## Second Renaissance
  - [https://ecosystem.lifeitself.org](https://ecosystem.lifeitself.org)
  - date_published: 2024-06-12T12:41:09.514980+00:00
-
- ## We are Life Itself Labs
- - [https://labs.lifeitself.org](https://labs.lifeitself.org)
- - date_published: 2024-06-12T12:38:21.197424+00:00
-
- ## Life Itself
- - [https://lifeitself.org](https://lifeitself.org)
- - date_published: 2024-06-12T06:04:01.926673+00:00
-
- ## Life Itself Digital Garden
- - [https://notes.lifeitself.org](https://notes.lifeitself.org)
- - date_published: 2024-09-10T22:06:31.436516+00:00
-
- ## Possibility Now
- - [https://possibilitynow.lifeitself.org](https://possibilitynow.lifeitself.org)
- - date_published: 2022-09-19T15:40:22+00:00
-
- ## strategy
- - [https://strategy.lifeitself.org](https://strategy.lifeitself.org)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## The Tao of Life Itself
- - [https://tao.lifeitself.org](https://tao.lifeitself.org)
- - date_published: 2024-06-12T12:36:24.690300+00:00
-
- ## Home | Making Sense of Crypto and Web3
- - [https://web3.lifeitself.org](https://web3.lifeitself.org)
- - date_published: 2024-06-12T12:40:33.563659+00:00
 

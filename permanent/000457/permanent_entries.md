@@ -1,3 +1,32 @@
+ ## Home - The Anti-Eugenics Project
+ - [https://antieugenicsproject.org](https://antieugenicsproject.org)
+ - date_published: 2024-12-12T04:35:28.209965+00:00
+
+ ## Home | antifa.org
+ - [https://antifa.org](https://antifa.org)
+ - date_published: 2024-11-11T09:27:07+00:00
+ - tags: ['activism', 'antifa']
+
+ ## Antikythera
+ - [https://antikythera.org](https://antikythera.org)
+ - date_published: 2024-10-18T15:37:12.677738+00:00
+
+ ## Antikythera
+ - [https://link.antikythera.org](https://link.antikythera.org)
+ - date_published: 2024-10-18T15:32:10.887084+00:00
+
+ ## Antiochian Orthodox Christian Archdiocese of North America
+ - [https://antiochian.org](https://antiochian.org)
+ - date_published: 2024-08-13T03:25:46+00:00
+
+ ## Home - Antipode Online
+ - [http://antipodefoundation.org](http://antipodefoundation.org)
+ - date_published: 2024-12-21T04:17:04+00:00
+
+ ## APTP
+ - [https://antipoliceterrorproject.org](https://antipoliceterrorproject.org)
+ - date_published: 2024-06-15T18:17:23.439022+00:00
+
  ## Antipope!
  - [https://www.antipope.org](https://www.antipope.org)
  - date_published: 2022-02-02T09:39:00+00:00
@@ -4036,32 +4065,4 @@
  ## Articulate
  - [https://www.articulateshow.org](https://www.articulateshow.org)
  - date_published: 2025-01-30T18:48:20.222744+00:00
-
- ## Home - Artículo 19
- - [https://articulo19.org](https://articulo19.org)
- - date_published: 2022-03-29T05:18:29+00:00
-
- ## Artifact Evaluation for Software Conferences
- - [https://artifact-eval.org](https://artifact-eval.org)
- - date_published: 2021-01-30T21:43:12+00:00
-
- ## CIS 4210/5210 - Artificial Intelligence - University of Pennsylvania
- - [https://artificial-intelligence-class.org](https://artificial-intelligence-class.org)
- - date_published: 2023-02-12T14:04:39+00:00
-
- ## Artigpedia
- - [https://artigpedia.org](https://artigpedia.org)
- - date_published: 2024-07-14T05:57:27.056187+00:00
-
- ## IMC 2024. SAVANNAH
- - [https://artimc.org](https://artimc.org)
- - date_published: 2024-07-19T23:39:40.105626+00:00
-
- ## Home - Artis International
- - [https://artisinternational.org](https://artisinternational.org)
- - date_published: 2023-08-31T19:20:51+00:00
-
- ## ArtistDesign NoE - Home Page
- - [http://www.artist-embedded.org](http://www.artist-embedded.org)
- - date_published: 2024-08-19T20:41:16+00:00
 

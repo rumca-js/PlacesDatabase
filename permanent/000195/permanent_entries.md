@@ -1,3 +1,7 @@
+ ## MetaFilter RSS
+ - [https://rss.metafilter.com](https://rss.metafilter.com)
+ - date_published: 2024-01-12T12:43:58+00:00
+
  ## MetaFilter Status: Feelin' Fine
  - [http://status.metafilter.com](http://status.metafilter.com)
  - date_published: 2022-12-19T08:15:11+00:00
@@ -4043,8 +4047,4 @@
  ## Microsoft – chmura, komputery, aplikacje i gry
  - [https://go.microsoft.com](https://go.microsoft.com)
  - date_published: 2024-04-28T02:26:37.044247+00:00
-
- ## Microsoft Graph Dev Center | APIs and app development
- - [https://graph.microsoft.com](https://graph.microsoft.com)
- - date_published: 2024-05-07T09:12:40.653122+00:00
 

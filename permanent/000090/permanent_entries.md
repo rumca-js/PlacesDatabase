@@ -1,3 +1,7 @@
+ ## V8 JavaScript engine
+ - [https://v8project.blogspot.com](https://v8project.blogspot.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
  ## Blogger
  - [http://vaandando.blogspot.com](http://vaandando.blogspot.com)
  - date_published: 2024-12-31T19:17:14.204558+00:00
@@ -4002,8 +4006,4 @@
  ## Fair Deal Phil
  - [http://www.fairdealphil.blogspot.com](http://www.fairdealphil.blogspot.com)
  - date_published: 2024-10-21T12:01:04.321226+00:00
-
- ## The Belmont Club
- - [http://www.fallbackbelmont.blogspot.com](http://www.fallbackbelmont.blogspot.com)
- - date_published: 2024-06-02T18:02:36+00:00
 

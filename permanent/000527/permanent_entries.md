@@ -1,3 +1,31 @@
+ ## Canonical IndieWeb Identity of Wm Salt Hale
+ - [https://sal.td](https://sal.td)
+ - date_published: 1987-12-12T00:00:00+00:00
+
+ ## 6686 Bet - Nhà cái 6686 team uy tín hàng đầu hiện nay
+ - [https://6686.team](https://6686.team)
+ - date_published: 2025-01-14T20:47:41.159377+00:00
+
+ ## Build your dream team
+ - [https://a.team](https://a.team)
+ - date_published: 2023-10-25T22:43:54.943837+00:00
+
+ ## A.Team | Team Central — form, manage and scale teams
+ - [https://client.a.team](https://client.a.team)
+ - date_published: 2024-08-17T11:27:13+00:00
+
+ ## A.Team | Hire expert tech teams, on demand
+ - [https://onboarding.a.team](https://onboarding.a.team)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Sign In
+ - [https://platform.a.team](https://platform.a.team)
+ - date_published: 2024-08-18T16:00:19.535723+00:00
+
+ ## Home - Ad Hoc
+ - [https://adhoc.team](https://adhoc.team)
+ - date_published: 2024-06-06T15:24:48+00:00
+
  ## Home - Amen Digital Production Company
  - [https://amen.team](https://amen.team)
  - date_published: 2024-06-29T08:47:17.705576+00:00
@@ -3997,32 +4025,4 @@
  ## Garena ประเทศไทย - Connecting the dots
  - [https://www.garena.co.th](https://www.garena.co.th)
  - date_published: 2025-01-25T09:16:46.489280+00:00
-
- ## Garmin Thailand | Home
- - [https://www.garmin.co.th](https://www.garmin.co.th)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## การ์นิเย่ ผลิตภัณฑ์ความงามจากธรรมชาติ ทดสอบแล้ว เหมาะกับคนเอเชีย
- - [https://garnier.co.th](https://garnier.co.th)
- - date_published: 2024-10-30T17:03:11.169612+00:00
-
- ## Home
- - [https://getalongwell.co.th](https://getalongwell.co.th)
- - date_published: 2025-01-22T12:57:39.424521+00:00
-
- ## Microsoft Azure App Service - Welcome
- - [https://app.gofive.co.th](https://app.gofive.co.th)
- - date_published: 2021-04-18T17:11:44+00:00
-
- ## Google
- - [https://google.co.th](https://google.co.th)
- - date_published: 2024-06-18T12:08:16.430948+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.co.th](https://maps.google.co.th)
- - date_published: 2024-07-20T07:36:18.416942+00:00
-
- ## หน้าหลัก
- - [https://www.henkel.co.th](https://www.henkel.co.th)
- - date_published: 2024-10-18T20:18:02.564538+00:00
 

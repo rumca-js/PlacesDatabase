@@ -1,3 +1,31 @@
+ ## A.M. Turing Award
+ - [https://amturing.acm.org](https://amturing.acm.org)
+ - date_published: 2023-10-25T20:53:46.979207+00:00
+
+ ## Past FCRC Events
+ - [https://archive-fcrc.acm.org](https://archive-fcrc.acm.org)
+ - date_published: 2022-03-03T19:50:39+00:00
+
+ ## ACM Authors Portal Homepage
+ - [https://authors.acm.org](https://authors.acm.org)
+ - date_published: 2024-06-23T20:37:13+00:00
+
+ ## Awards Home
+ - [https://awards.acm.org](https://awards.acm.org)
+ - date_published: 2023-10-25T20:53:56.997751+00:00
+
+ ## BLOG@UBIQUITY
+ - [https://blog.ubiquity.acm.org](https://blog.ubiquity.acm.org)
+ - date_published: 2024-05-07T18:21:57.767427+00:00
+
+ ## Communications of the ACM
+ - [https://cacm.acm.org](https://cacm.acm.org)
+ - date_published: 2023-10-25T20:54:01.176781+00:00
+
+ ## Association for Computing Machinery
+ - [https://campus.acm.org](https://campus.acm.org)
+ - date_published: 2024-06-15T18:39:13+00:00
+
  ## ACM Creativity & Cognition 2024
  - [https://cc.acm.org](https://cc.acm.org)
  - date_published: 2024-07-01T20:07:44.452297+00:00
@@ -3999,33 +4027,4 @@
  ## Royce's Alaska License Plates - All Alaskan Plates, All The Time
  - [http://www.akplates.org](http://www.akplates.org)
  - date_published: 2025-01-23T19:55:01.064327+00:00
-
- ## Home Page
- - [https://akpress.org](https://akpress.org)
- - date_published: 2024-07-10T08:46:42.640893+00:00
-
- ## Revolution by the Book - The AK Press Blog
- - [https://revolutionbythebook.akpress.org](https://revolutionbythebook.akpress.org)
- - date_published: 2024-08-19T22:03:59.608710+00:00
-
- ## main lists.akraino.org Group
- - [https://lists.akraino.org](https://lists.akraino.org)
- - date_published: 2025-02-04T20:24:39.664999+00:00
-
- ## AKRO Invest – Best Trader
- - [https://akroinvest.org](https://akroinvest.org)
- - date_published: 2024-07-01T10:11:23.685960+00:00
- - date_dead_since: 2025-01-03T18:41:55.825870+00:00
-
- ## Home
- - [https://akronartmuseum.org](https://akronartmuseum.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## AKSW - aksw.org Research Group dataset
- - [https://aksw.org](https://aksw.org)
- - date_published: 2024-03-28T19:02:53+00:00
-
- ## Aktion Courage e.V.: Startseite
- - [https://aktioncourage.org](https://aktioncourage.org)
- - date_published: 2024-09-12T15:59:33.099954+00:00
 

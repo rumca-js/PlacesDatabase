@@ -1,3 +1,7 @@
+ ## Engineering Leadership | Gregor Ojstersek | Substack
+ - [https://newsletter.eng-leadership.com](https://newsletter.eng-leadership.com)
+ - date_published: 2024-03-10T00:00:00+00:00
+
  ## The Modern Leader
  - [https://engleadership.com](https://engleadership.com)
  - date_published: 2024-07-24T02:15:13.749928+00:00
@@ -4083,9 +4087,4 @@
  ## Eric Dorsey
  - [https://ericdorsey.com](https://ericdorsey.com)
  - date_published: 2024-01-05T17:49:11+00:00
-
- ## Eric Draken - Hard-Problem Solver
- - [https://ericdraken.com](https://ericdraken.com)
- - date_published: 2022-11-05T08:30:47+00:00
- - tags: ['personal']
 

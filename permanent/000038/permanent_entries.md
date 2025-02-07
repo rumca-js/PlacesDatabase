@@ -1,3 +1,7 @@
+ ## 首页 中国法学杂志社
+ - [https://clsjp.chinalaw.org.cn](https://clsjp.chinalaw.org.cn)
+ - date_published: 2025-01-14T13:18:36.550392+00:00
+
  ## 董必武法学思想（中国特色社会主义法治理论）研究会
  - [http://dbw.chinalaw.org.cn](http://dbw.chinalaw.org.cn)
  - date_published: 2025-01-14T13:17:16.645084+00:00
@@ -4033,8 +4037,4 @@
  ## cecilia's carrd
  - [https://thebrightesteyes.carrd.co](https://thebrightesteyes.carrd.co)
  - date_published: 2024-05-05T11:00:12+00:00
-
- ## The Malaria 'Dividend': Why investing in malaria elimination creates returns for us all
- - [https://themalariadividend.carrd.co](https://themalariadividend.carrd.co)
- - date_published: 2024-06-03T15:18:05+00:00
 

@@ -790,6 +790,10 @@
  - [https://www.fgkj.cc](https://www.fgkj.cc)
  - date_published: 2024-05-07T00:00:00+00:00
 
+ ## Trails of Wind (2019)
+ - [https://trailsofwind.figures.cc](https://trailsofwind.figures.cc)
+ - date_published: 2025-02-06T22:27:22+00:00
+
  ## Filman.CC | Filmy i seriale online za darmo bez limitu
  - [https://filman-pl.cc](https://filman-pl.cc)
  - date_published: 2024-11-07T07:34:10+00:00
@@ -4027,8 +4031,4 @@
  ## I Borghi più Belli della Svizzera
  - [https://www.borghisvizzera.ch](https://www.borghisvizzera.ch)
  - date_published: 2024-09-14T09:28:38.931369+00:00
-
- ## Bose | Kopfhörer, Lautsprecher, Wearables
- - [https://www.bose.ch](https://www.bose.ch)
- - date_published: 2025-02-01T21:03:03.787630+00:00
 

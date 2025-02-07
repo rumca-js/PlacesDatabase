@@ -1,3 +1,7 @@
+ ## Bradley’s Almanac
+ - [http://www.bradleysalmanac.com](http://www.bradleysalmanac.com)
+ - date_published: 2024-09-14T22:40:03.071861+00:00
+
  ## Bradley Schacht
  - [https://bradleyschacht.com](https://bradleyschacht.com)
  - date_published: 2024-06-15T16:42:51.075681+00:00
@@ -4035,8 +4039,4 @@
  ## BRC  Explorer
  - [https://testnet-explorer.brisescan.com](https://testnet-explorer.brisescan.com)
  - date_published: 2025-01-12T11:07:59.454149+00:00
-
- ## Brisk Teaching - Free AI for Teachers
- - [https://app.briskteaching.com](https://app.briskteaching.com)
- - date_published: 2024-10-30T11:07:54+00:00
 

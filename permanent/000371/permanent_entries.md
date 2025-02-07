@@ -1,3 +1,27 @@
+ ## Domaines, champs de formation et formacodes pour le territoire FRANCE (National) | Data Emploi
+ - [https://diagnostic-formation.pole-emploi.fr](https://diagnostic-formation.pole-emploi.fr)
+ - date_published: 2024-12-22T05:59:50.101205+00:00
+
+ ## France Travail Entreprise - Services d'aide au recrutement
+ - [https://entreprise.pole-emploi.fr](https://entreprise.pole-emploi.fr)
+ - date_published: 2024-09-15T20:16:37.976177+00:00
+
+ ## Accueil France Travail | France Travail
+ - [https://pole-emploi.fr](https://pole-emploi.fr)
+ - date_published: 2024-06-15T01:05:07.811871+00:00
+
+ ## Politis.fr - Média 100% indépendant et engagé
+ - [http://www.politis.fr](http://www.politis.fr)
+ - date_published: 2024-07-08T16:27:17.281317+00:00
+
+ ## Pôle de compétitivité des caoutchoucs, plastiques et composites
+ - [https://www.polymeris.fr](https://www.polymeris.fr)
+ - date_published: 2025-01-23T20:15:25.192537+00:00
+
+ ## LIX - Homepage
+ - [http://www.lix.polytechnique.fr](http://www.lix.polytechnique.fr)
+ - date_published: 2024-07-04T11:17:56.109738+00:00
+
  ## École polytechnique, école d'ingénieur
  - [http://www.polytechnique.fr](http://www.polytechnique.fr)
  - date_published: 2024-07-15T05:03:57+00:00
@@ -3976,28 +4000,4 @@
  ## Listes de diffusion de unistra.fr - home
  - [https://listes.u-strasbg.fr](https://listes.u-strasbg.fr)
  - date_published: 2016-05-12T00:00:00+00:00
-
- ## SIMBAD Astronomical Database - CDS (Strasbourg)
- - [http://simbad.u-strasbg.fr](http://simbad.u-strasbg.fr)
- - date_published: 2024-08-18T20:26:57.154407+00:00
-
- ## Université de technologie de Belfort Montbéliard (UTBM)
- - [https://www.utbm.fr](https://www.utbm.fr)
- - date_published: 2015-09-09T08:31:57+00:00
-
- ## BDE-UTC - Portail des Associations
- - [https://assos.utc.fr](https://assos.utc.fr)
- - date_published: 2024-07-21T01:59:56.641071+00:00
-
- ## Accueil
- - [https://bibliotheque.utc.fr](https://bibliotheque.utc.fr)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## UTC Authentication - CAS – Central Authentication Service
- - [https://ent.utc.fr](https://ent.utc.fr)
- - date_published: 2024-07-21T01:59:40.137654+00:00
-
- ## index - Université de technologie de Compiègne
- - [https://hal.utc.fr](https://hal.utc.fr)
- - date_published: 2024-07-21T01:59:10.194661+00:00
 

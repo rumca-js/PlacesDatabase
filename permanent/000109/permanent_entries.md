@@ -1,3 +1,7 @@
+ ## Careers | Corteva
+ - [https://careers.corteva.com](https://careers.corteva.com)
+ - date_published: 2025-01-09T04:57:01.534626+00:00
+
  ## Welcome to Corteva Agriscience
  - [https://corteva.com](https://corteva.com)
  - date_published: 2024-06-20T00:00:00+00:00
@@ -4029,8 +4033,4 @@
  ## createsend.com | Email Newsletter Software
  - [https://planetargon.createsend.com](https://planetargon.createsend.com)
  - date_published: 2024-08-19T21:34:50.803270+00:00
-
- ## Log in to your account | Campaign Monitor
- - [https://pleinair.createsend.com](https://pleinair.createsend.com)
- - date_published: 2024-05-01T03:25:08.373434+00:00
 

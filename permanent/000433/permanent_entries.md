@@ -1,3 +1,27 @@
+ ## Duke Nukem Repository
+ - [https://dnr.duke4.net](https://dnr.duke4.net)
+ - date_published: 2024-10-18T19:31:09.074995+00:00
+
+ ## Duke4.net
+ - [https://duke4.net](https://duke4.net)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Dukeworld  - back from the past to kick your ass... hail to the king, baby!
+ - [http://dukeworld.duke4.net](http://dukeworld.duke4.net)
+ - date_published: 2024-10-18T19:32:38.112122+00:00
+
+ ## Duke4.net Forums
+ - [https://forums.duke4.net](https://forums.duke4.net)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Hendricks266's Site - Home
+ - [http://hendricks266.duke4.net](http://hendricks266.duke4.net)
+ - date_published: 2024-10-18T19:32:40.175371+00:00
+
+ ## Duke Nukem 3D: High Resolution Pack
+ - [http://hrp.duke4.net](http://hrp.duke4.net)
+ - date_published: 2024-03-27T00:00:00+00:00
+
  ## Duke Nukem 3D, Duke Nukem Forever • Duke4.net: News
  - [http://legacy.duke4.net](http://legacy.duke4.net)
  - date_published: 2024-10-18T19:33:22.104408+00:00
@@ -4021,28 +4045,4 @@
  ## Foodsoft Forum
  - [https://forum.foodcoops.net](https://forum.foodcoops.net)
  - date_published: 2024-10-31T04:35:19.715842+00:00
-
- ## 食品伙伴网（原食品伴侣网）—关注食品安全，探讨食品技术，中国食品行业专业网站
- - [http://www.foodmate.net](http://www.foodmate.net)
- - date_published: 2025-02-04T10:08:37.123414+00:00
-
- ## foonathan::​blog()
- - [https://foonathan.net](https://foonathan.net)
- - date_published: 2024-05-27T13:18:09+00:00
-
- ## Footballia: Full online historic football matches
- - [https://footballia.net](https://footballia.net)
- - date_published: 2024-11-12T17:19:53.731401+00:00
-
- ## Home - Foothills Communications
- - [http://www.foothills.net](http://www.foothills.net)
- - date_published: 2014-11-19T20:14:03+00:00
-
- ## MOONSHOT LISTINGS
- - [http://moonshot.forbiddenl0ve.net](http://moonshot.forbiddenl0ve.net)
- - date_published: 2024-06-15T12:13:04.258494+00:00
-
- ## ForceCast.net: ForceCast Home Page
- - [http://forcecast.net](http://forcecast.net)
- - date_published: 2024-06-26T00:00:00+00:00
 

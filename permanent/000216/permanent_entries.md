@@ -1,3 +1,19 @@
+ ## AIP Now
+ - [https://aip.palantir.com](https://aip.palantir.com)
+ - date_published: 2024-05-06T22:27:01.598048+00:00
+
+ ## Palantir Blog
+ - [https://blog.palantir.com](https://blog.palantir.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Build with AIP
+ - [https://build.palantir.com](https://build.palantir.com)
+ - date_published: 2024-06-26T01:01:47+00:00
+
+ ## Palantir Developer Community
+ - [https://community.palantir.com](https://community.palantir.com)
+ - date_published: 2024-06-26T12:30:43.721830+00:00
+
  ## Palantir IR
  - [https://investors.palantir.com](https://investors.palantir.com)
  - date_published: 2024-02-07T16:59:52.313897+00:00
@@ -4026,21 +4042,4 @@
  ## Parlance
  - [https://parlance-labs.com](https://parlance-labs.com)
  - date_published: 2024-06-20T17:32:25+00:00
-
- ## parler.com
- - [https://app.parler.com](https://app.parler.com)
- - date_published: 2024-05-08T10:49:07.016475+00:00
-
- ## How Can We Help?
- - [https://help.parler.com](https://help.parler.com)
- - date_published: 2024-05-09T03:54:01.936390+00:00
-
- ## Parler 3.0
- - [https://parler.com](https://parler.com)
- - date_published: 2024-02-19T00:00:00+00:00
- - tags: ['the right wing', 'social platform', 'conservative']
-
- ## Parler Shop
- - [https://shop.parler.com](https://shop.parler.com)
- - date_published: 2024-05-09T03:54:03.750407+00:00
 

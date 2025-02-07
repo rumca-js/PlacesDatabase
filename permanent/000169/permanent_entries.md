@@ -1,3 +1,7 @@
+ ## Jacob Trefethen's blog
+ - [https://blog.jacobtrefethen.com](https://blog.jacobtrefethen.com)
+ - date_published: 2024-08-19T08:33:23.011763+00:00
+
  ## Welcome to Jacob Zivan Design! | Jacob Zivan Design
  - [https://jacobzivandesign.com](https://jacobzivandesign.com)
  - date_published: 2023-02-12T00:00:00+00:00
@@ -4080,8 +4084,4 @@
  ## 手机京东 - 京东
  - [https://app.jd.com](https://app.jd.com)
  - date_published: 2024-05-15T09:16:46+00:00
-
- ## 京东觅Me频道
- - [https://article.jd.com](https://article.jd.com)
- - date_published: 2025-01-18T05:16:56.748532+00:00
 

@@ -1,3 +1,7 @@
+ ## Daniele Fanelli's webpages
+ - [https://danielefanelli.com](https://danielefanelli.com)
+ - date_published: 2024-06-02T06:56:20+00:00
+
  ## Daniele Margutti
  - [https://www.danielemargutti.com](https://www.danielemargutti.com)
  - date_published: 2024-06-23T15:17:01.465125+00:00
@@ -4053,8 +4057,4 @@
  ## David Hillier freelance writer, journalist and copywriter | Home
  - [http://davidhillierwrites.com](http://davidhillierwrites.com)
  - date_published: 2024-07-13T14:56:35.011494+00:00
-
- ## David Hoang
- - [https://davidhoang.com](https://davidhoang.com)
- - date_published: 2024-05-10T00:00:00+00:00
 

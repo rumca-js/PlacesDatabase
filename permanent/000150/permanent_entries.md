@@ -1,3 +1,7 @@
+ ## Newsletters For Government Technology
+ - [https://newsletters.govtech.com](https://newsletters.govtech.com)
+ - date_published: 2024-05-11T09:25:47.758680+00:00
+
  ## Paper Library: Training for State and Local Government
  - [https://papers.govtech.com](https://papers.govtech.com)
  - date_published: 2024-05-08T00:00:00+00:00
@@ -4028,8 +4032,4 @@
  ## Green Manolo
  - [http://greenmanolo.com](http://greenmanolo.com)
  - date_published: 2024-10-31T22:32:38.999029+00:00
-
- ## The Art of Charles Vess • Green Man Press
- - [https://greenmanpress.com](https://greenmanpress.com)
- - date_published: 2024-10-31T18:34:44.288044+00:00
 

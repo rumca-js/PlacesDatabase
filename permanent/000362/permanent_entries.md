@@ -1,3 +1,28 @@
+ ## EuroPython 2024 | July 8th-14th 2024 | Prague, Czech Republic & Remote
+ - [https://europython.eu](https://europython.eu)
+ - date_published: 2024-05-07T23:46:01.743095+00:00
+ - tags: ['conference', 'python']
+
+ ## EuroPython Society
+ - [https://europython-society.eu](https://europython-society.eu)
+ - date_published: 2025-02-04T12:38:49.188616+00:00
+
+ ## EuroRust 2024 – October 10th & 11th, Vienna & online
+ - [https://eurorust.eu](https://eurorust.eu)
+ - date_published: 2024-06-21T05:40:11.876962+00:00
+
+ ## Euros / Agency Group - Communication stratégique & affaires publiques - Paris Bruxelles Casablanca
+ - [http://eurosagency.eu](http://eurosagency.eu)
+ - date_published: 2025-01-17T14:37:36.915991+00:00
+
+ ## Home
+ - [http://eurotech-universities.eu](http://eurotech-universities.eu)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Home
+ - [https://euroteq.eurotech-universities.eu](https://euroteq.eurotech-universities.eu)
+ - date_published: 2024-01-24T00:00:00+00:00
+
  ## Eurovent
  - [https://eurovent.eu](https://eurovent.eu)
  - date_published: 2025-01-08T23:29:39.440649+00:00
@@ -4001,28 +4026,4 @@ Portal
  ## polylux.eu
  - [https://polylux.eu](https://polylux.eu)
  - date_published: 2023-07-07T20:12:00+00:00
-
- ## Strona główna -
- - [https://pomorskie.eu](https://pomorskie.eu)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Producent basenów - Poolsfactory
- - [https://www.poolsfactory.eu](https://www.poolsfactory.eu)
- - date_published: 2024-12-29T13:40:53+00:00
-
- ## Population Europe | Population Europe
- - [https://population-europe.eu](https://population-europe.eu)
- - date_published: 2024-06-04T16:37:01.366842+00:00
-
- ## Working to shift power over money from banks to people in the UK and around the world.
- - [https://positivemoney.eu](https://positivemoney.eu)
- - date_published: 2025-02-03T19:33:09.145255+00:00
-
- ## PosterSessionOnline.eu
- - [https://www.postersessiononline.eu](https://www.postersessiononline.eu)
- - date_published: 2024-09-14T10:01:28.816550+00:00
-
- ## Welcome - PostgreSQL Europe
- - [https://assets.postgresql.eu](https://assets.postgresql.eu)
- - date_published: 2024-06-30T04:48:46.098101+00:00
 

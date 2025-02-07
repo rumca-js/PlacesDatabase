@@ -1,3 +1,32 @@
+ ## OrganizeFor
+ - [https://campaigns.organizefor.org](https://campaigns.organizefor.org)
+ - date_published: 2024-06-15T18:16:52.162702+00:00
+
+ ## OrganizeFor – OrganizeFor powered by Color Of Change
+ - [https://organizefor.org](https://organizefor.org)
+ - date_published: 2024-09-18T21:47:55.459864+00:00
+
+ ## Home
+ - [https://organizinggame.org](https://organizinggame.org)
+ - date_published: 2018-02-27T13:42:24+00:00
+
+ ## .ORG Learning Center - .ORG Learning Center
+ - [https://orglearningcenter.org](https://orglearningcenter.org)
+ - date_published: 2022-10-19T00:00:00+00:00
+
+ ## Org Mode
+ - [http://org-mode.org](http://org-mode.org)
+ - date_published: 2020-08-07T00:00:00+00:00
+
+ ## emacs-orgmode@gnu.org archives
+ - [https://list.orgmode.org](https://list.orgmode.org)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Org Mode
+ - [https://orgmode.org](https://orgmode.org)
+ - date_published: 2020-08-07T00:00:00+00:00
+ - tags: ['emacs']
+
  ## Org-Mode Woof! tracker
  - [https://tracker.orgmode.org](https://tracker.orgmode.org)
  - date_published: 2024-05-12T07:53:12.337760+00:00
@@ -4015,32 +4044,4 @@ TECHNICAL SPEAKER — @p01
  ## People's Parity Project
  - [https://peoplesparity.org](https://peoplesparity.org)
  - date_published: 2024-01-04T00:00:00+00:00
-
- ## PeoplesPlans.org – Exploring the Hidden Histories of Community-led Planning in the UK
- - [https://www.peoplesplans.org](https://www.peoplesplans.org)
- - date_published: 2024-06-18T12:42:20.538472+00:00
-
- ## People's Policy Project
- - [https://peoplespolicyproject.org](https://peoplespolicyproject.org)
- - date_published: 2024-05-08T03:30:42.912076+00:00
-
- ## People's World
- - [https://peoplesworld.org](https://peoplesworld.org)
- - date_published: 2023-11-04T02:47:57.842267+00:00
-
- ## Paul Oppenheimer | Home
- - [http://peoppenheimer.org](http://peoppenheimer.org)
- - date_published: 2023-04-20T08:10:59+00:00
-
- ## PEOReliability.org
- - [https://www.peoreliability.org](https://www.peoreliability.org)
- - date_published: 2024-10-14T11:25:42.858317+00:00
-
- ## PEP 8: The Style Guide for Python Code
- - [https://pep8.org](https://pep8.org)
- - date_published: 2024-11-08T19:43:47+00:00
-
- ## Pepa Loba
- - [https://pepaloba.org](https://pepaloba.org)
- - date_published: 2025-01-31T08:41:38.353425+00:00
 

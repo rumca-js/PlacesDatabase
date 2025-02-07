@@ -1,3 +1,7 @@
+ ## Jonathan Katz
+ - [https://jkatz05.com](https://jkatz05.com)
+ - date_published: 2023-10-25T15:29:21.287258+00:00
+
  ## Jussi-Petteri Kemppainen – Professional portfolio
  - [https://jkemppainen.com](https://jkemppainen.com)
  - date_published: 2024-05-01T08:17:20.450056+00:00
@@ -4060,8 +4064,4 @@
  ## Jon Yablonski
  - [https://jonyablonski.com](https://jonyablonski.com)
  - date_published: 2024-05-29T00:00:00+00:00
-
- ## JOODALOOP
- - [https://joodaloop.com](https://joodaloop.com)
- - date_published: 2024-08-08T15:25:28.567554+00:00
 

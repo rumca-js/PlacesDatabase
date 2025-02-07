@@ -1,3 +1,27 @@
+ ## Bloomington Drosophila Stock Center
+ - [https://bdsc.indiana.edu](https://bdsc.indiana.edu)
+ - date_published: 2024-11-15T00:00:00+00:00
+
+ ## First page
+ - [https://blogs.libraries.indiana.edu](https://blogs.libraries.indiana.edu)
+ - date_published: 2024-05-07T15:44:35.471608+00:00
+
+ ## Luddy CGI Server
+ - [https://cgi.cs.indiana.edu](https://cgi.cs.indiana.edu)
+ - date_published: 2023-07-21T17:55:03+00:00
+
+ ## Luddy CGI Server
+ - [https://cgi.soic.indiana.edu](https://cgi.soic.indiana.edu)
+ - date_published: 2023-07-21T17:55:03+00:00
+
+ ## Cognitive Science Program
+ - [https://cogs.indiana.edu](https://cogs.indiana.edu)
+ - date_published: 2024-06-15T18:38:05.691245+00:00
+
+ ## College of Arts & Sciences
+ - [https://college.indiana.edu](https://college.indiana.edu)
+ - date_published: 2024-04-30T05:01:30.492920+00:00
+
  ## Explore computer science at IU Bloomington
  - [https://cs.indiana.edu](https://cs.indiana.edu)
  - date_published: 2024-03-07T00:00:00+00:00
@@ -3980,28 +4004,4 @@ Data Services
  ## Home - Humanities, Arts and Social Sciences
  - [http://hass.mines.edu](http://hass.mines.edu)
  - date_published: 2024-10-03T00:00:00+00:00
-
- ## Human Subjects Research - Human Subjects Research
- - [https://hsr.mines.edu](https://hsr.mines.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## McNeil Home - McNeil Center for Entrepreneurship and Innovation
- - [https://innovation.mines.edu](https://innovation.mines.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Home - Institutional Research | Strategic Analytics
- - [https://ir.mines.edu](https://ir.mines.edu)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Explore Positions at Mines - Human Resources
- - [http://jobs.mines.edu](http://jobs.mines.edu)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Home - Labriola Innovation Hub
- - [https://labriola.mines.edu](https://labriola.mines.edu)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## All Questions - Frequently Asked Questions
- - [https://libanswers.mines.edu](https://libanswers.mines.edu)
- - date_published: 2024-01-29T00:00:00+00:00
 

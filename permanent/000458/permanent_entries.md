@@ -1,3 +1,31 @@
+ ## Home - Artículo 19
+ - [https://articulo19.org](https://articulo19.org)
+ - date_published: 2022-03-29T05:18:29+00:00
+
+ ## Artifact Evaluation for Software Conferences
+ - [https://artifact-eval.org](https://artifact-eval.org)
+ - date_published: 2021-01-30T21:43:12+00:00
+
+ ## CIS 4210/5210 - Artificial Intelligence - University of Pennsylvania
+ - [https://artificial-intelligence-class.org](https://artificial-intelligence-class.org)
+ - date_published: 2023-02-12T14:04:39+00:00
+
+ ## Artigpedia
+ - [https://artigpedia.org](https://artigpedia.org)
+ - date_published: 2024-07-14T05:57:27.056187+00:00
+
+ ## IMC 2024. SAVANNAH
+ - [https://artimc.org](https://artimc.org)
+ - date_published: 2024-07-19T23:39:40.105626+00:00
+
+ ## Home - Artis International
+ - [https://artisinternational.org](https://artisinternational.org)
+ - date_published: 2023-08-31T19:20:51+00:00
+
+ ## ArtistDesign NoE - Home Page
+ - [http://www.artist-embedded.org](http://www.artist-embedded.org)
+ - date_published: 2024-08-19T20:41:16+00:00
+
  ## Home - The Center for Artistic Activism
  - [https://artisticactivism.org](https://artisticactivism.org)
  - date_published: 2024-10-21T17:19:44.637116+00:00
@@ -4013,32 +4041,4 @@ arts axis florida
  ## AZAMRA
  - [https://azamra.org](https://azamra.org)
  - date_published: 2024-06-27T00:00:00+00:00
-
- ## Arizona Arsenal Soccer Club | Home
- - [https://azarsenalsc.org](https://azarsenalsc.org)
- - date_published: 2024-07-09T22:54:37+00:00
-
- ## Новости Кыргызстана и Центральной Азии - Радио Азаттык
- - [https://rus.azattyk.org](https://rus.azattyk.org)
- - date_published: 2024-12-21T17:05:16.523233+00:00
-
- ## Азаттык
- - [https://rus.azattyq.org](https://rus.azattyq.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Азаттық радиосы
- - [https://www.azattyq.org](https://www.azattyq.org)
- - date_published: 2024-12-21T17:05:18.796960+00:00
-
- ## Author's Corner: Connecting Writers and Readers
- - [https://azbookfestival.org](https://azbookfestival.org)
- - date_published: 2024-12-13T03:35:48.036192+00:00
-
- ## Arizona Media Association + Arizona Local News Foundation
- - [https://azbroadcasters.org](https://azbroadcasters.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home - Arizona Citizens Defense League
- - [https://azcdl.org](https://azcdl.org)
- - date_published: 2024-07-03T23:50:28.905743+00:00
 

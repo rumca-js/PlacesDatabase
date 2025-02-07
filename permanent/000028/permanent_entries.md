@@ -1,3 +1,7 @@
+ ## Bose | Kopfhörer, Lautsprecher, Wearables
+ - [https://www.bose.ch](https://www.bose.ch)
+ - date_published: 2025-02-01T21:03:03.787630+00:00
+
  ## Custom Domain by Bitly
  - [https://boxlun.ch](https://boxlun.ch)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -4004,8 +4008,4 @@
  ## OST – Ostschweizer Fachhochschule: Wo Wissen wirkt
  - [https://www.hsr.ch](https://www.hsr.ch)
  - date_published: 2024-10-09T15:50:47.271946+00:00
-
- ## Startseite
- - [https://www.htr-milestone.ch](https://www.htr-milestone.ch)
- - date_published: 2024-07-04T04:07:43.752473+00:00
 

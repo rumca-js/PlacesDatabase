@@ -1,3 +1,27 @@
+ ## Home
+ - [https://web.vodafone.com.eg](https://web.vodafone.com.eg)
+ - date_published: 2024-05-07T10:57:31.102998+00:00
+
+ ## الرئيسية - معهد الدراسات الافريقية
+ - [http://afr.aswu.edu.eg](http://afr.aswu.edu.eg)
+ - date_published: 2024-12-15T12:34:51.886909+00:00
+
+ ## الرئيسية - كلية الزراعة والموارد الطبيعية
+ - [http://agr.aswu.edu.eg](http://agr.aswu.edu.eg)
+ - date_published: 2024-12-15T12:39:13.492959+00:00
+
+ ## Home - كليـــة الاداب
+ - [http://arts.aswu.edu.eg](http://arts.aswu.edu.eg)
+ - date_published: 2024-12-15T12:38:07.811608+00:00
+
+ ## الرئيسية -
+ - [https://aswu.edu.eg](https://aswu.edu.eg)
+ - date_published: 2024-10-30T20:17:01.180109+00:00
+
+ ## الرئيسية -
+ - [https://com.aswu.edu.eg](https://com.aswu.edu.eg)
+ - date_published: 2024-12-15T12:42:30.604543+00:00
+
  ## الرئيسية - كلية دار العلوم
  - [https://dar.aswu.edu.eg](https://dar.aswu.edu.eg)
  - date_published: 2024-12-15T12:37:36.487312+00:00
@@ -4009,28 +4033,4 @@
  ## Cataloxy Granada  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en  provincia de Granada
  - [https://granada-provincia.cataloxy.es](https://granada-provincia.cataloxy.es)
  - date_published: 2024-12-11T13:31:43.813435+00:00
-
- ## Cataloxy Granollers  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Granollers
- - [https://granollers.cataloxy.es](https://granollers.cataloxy.es)
- - date_published: 2024-12-11T13:31:17.875691+00:00
-
- ## Cataloxy Guadalajara  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Guadalajara
- - [https://guadalajara.cataloxy.es](https://guadalajara.cataloxy.es)
- - date_published: 2024-12-11T13:31:03.467375+00:00
-
- ## Cataloxy Guadalajara  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en  provincia de Guadalajara
- - [https://guadalajara-provincia.cataloxy.es](https://guadalajara-provincia.cataloxy.es)
- - date_published: 2024-12-11T13:30:20.039489+00:00
-
- ## Cataloxy Huelva  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Huelva
- - [https://huelva.cataloxy.es](https://huelva.cataloxy.es)
- - date_published: 2024-12-11T13:31:52.538681+00:00
-
- ## Cataloxy Igualada  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Igualada
- - [https://igualada.cataloxy.es](https://igualada.cataloxy.es)
- - date_published: 2024-12-11T13:31:16.836363+00:00
-
- ## Cataloxy Jerez de la Frontera  es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!en Jerez de la Frontera
- - [https://jerez-de-la-frontera.cataloxy.es](https://jerez-de-la-frontera.cataloxy.es)
- - date_published: 2024-12-11T13:30:52.027348+00:00
 

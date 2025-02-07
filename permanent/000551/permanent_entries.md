@@ -1,3 +1,31 @@
+ ## GIS Support | University of Cape Town
+ - [http://www.gis.uct.ac.za](http://www.gis.uct.ac.za)
+ - date_published: 2024-07-17T03:53:48+00:00
+
+ ## Government Publications Home | University of Cape Town
+ - [http://www.governmentpublications.lib.uct.ac.za](http://www.governmentpublications.lib.uct.ac.za)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.healthelectives.uct.ac.za](http://www.healthelectives.uct.ac.za)
+ - date_published: 2024-07-17T03:52:02+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.humedu.uct.ac.za](http://www.humedu.uct.ac.za)
+ - date_published: 2024-07-17T03:53:04+00:00
+
+ ## ICTS | University of Cape Town
+ - [http://www.icts.uct.ac.za](http://www.icts.uct.ac.za)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Welcome to Marketing Studies | University of Cape Town
+ - [http://www.marketingstudies.uct.ac.za](http://www.marketingstudies.uct.ac.za)
+ - date_published: 2024-07-17T04:10:21+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.mecheng.uct.ac.za](http://www.mecheng.uct.ac.za)
+ - date_published: 2024-07-17T03:58:55+00:00
+
  ## Welcome to the Section of Organisational Psychology | University of Cape Town
  - [http://www.organisationalpsychology.uct.ac.za](http://www.organisationalpsychology.uct.ac.za)
  - date_published: 2024-07-17T04:07:04+00:00
@@ -2666,8 +2694,4 @@
  ## HOME - Mr. Boonstra
  - [http://mrboonstra.com](http://mrboonstra.com)
  - date_published: 2025-02-04T01:33:09.893816+00:00
-
- ## ITS System Status Status
- - [http://systemstatus.utoronto.ca](http://systemstatus.utoronto.ca)
- - date_published: 2025-02-05T03:00:19.855130+00:00
 

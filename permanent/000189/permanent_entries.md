@@ -1,3 +1,7 @@
+ ## Mai (Monolith AI) Status Page - Status
+ - [https://status.maiwriter.com](https://status.maiwriter.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
  ## MaixHub
  - [https://maixhub.com](https://maixhub.com)
  - date_published: 2024-05-19T18:19:28+00:00
@@ -4026,8 +4030,4 @@
  ## MarbleFlows
  - [https://app.marbleflows.com](https://app.marbleflows.com)
  - date_published: 2024-06-19T21:38:13.112277+00:00
-
- ## Marble Poetry
- - [https://marblepoetry.com](https://marblepoetry.com)
- - date_published: 2024-04-29T03:05:04.812877+00:00
 

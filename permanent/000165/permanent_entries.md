@@ -1,3 +1,7 @@
+ ## Infogalactic: the planetary knowledge core
+ - [https://infogalactic.com](https://infogalactic.com)
+ - date_published: 2023-12-15T19:40:03+00:00
+
  ## 新着情報
  - [https://info-globalsign.com](https://info-globalsign.com)
  - date_published: 2024-06-20T07:38:43.155371+00:00
@@ -4015,8 +4019,4 @@
  ## FHF Lemmy World Status - Status
  - [https://fhf-lemmyworld.instatus.com](https://fhf-lemmyworld.instatus.com)
  - date_published: 2024-10-22T12:27:02.845006+00:00
-
- ## FHF Mastodon Instances - Status
- - [https://fhf-mastodon.instatus.com](https://fhf-mastodon.instatus.com)
- - date_published: 2024-09-10T09:10:01.755294+00:00
 

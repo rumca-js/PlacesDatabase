@@ -1,3 +1,7 @@
+ ## kriscables - Etsy Poland
+ - [https://kriscables.etsy.com](https://kriscables.etsy.com)
+ - date_published: 2025-02-02T15:48:54.523193+00:00
+
  ## mothandmyth - Etsy Poland
  - [https://mothandmyth.etsy.com](https://mothandmyth.etsy.com)
  - date_published: 2024-10-28T04:23:52.041367+00:00
@@ -4023,8 +4027,4 @@ Foods | Vegan Egg Protein
  ## ERP Systeme von A bis Z - für Unternehmen, Fertigung & Industrie
  - [https://www.evo-solutions.com](https://www.evo-solutions.com)
  - date_published: 2024-12-12T15:44:10.316601+00:00
-
- ## Hotel Software | Online Reservation System | CMS | Channel Manager | Marketing Automation
- - [https://www.evosuite.com](https://www.evosuite.com)
- - date_published: 2024-09-17T18:47:24.553920+00:00
 

@@ -1,3 +1,7 @@
+ ## Home | Sustainable Futures
+ - [https://contemplative-sustainable-futures.com](https://contemplative-sustainable-futures.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+
  ## Contemplations from the Marianas Trench/Folk Music of Britain, Ireland & America
  - [https://contemplator.com](https://contemplator.com)
  - date_published: 2024-05-11T19:17:01+00:00
@@ -4041,8 +4045,4 @@
  ## Pull contact details out of email signatures, export anywhere.
  - [https://cortenix.com](https://cortenix.com)
  - date_published: 2021-04-26T12:29:22+00:00
-
- ## Careers | Corteva
- - [https://careers.corteva.com](https://careers.corteva.com)
- - date_published: 2025-01-09T04:57:01.534626+00:00
 

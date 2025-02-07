@@ -1,3 +1,7 @@
+ ## JOODALOOP
+ - [https://joodaloop.com](https://joodaloop.com)
+ - date_published: 2024-08-08T15:25:28.567554+00:00
+
  ## WEBCRAFT
  - [https://webcraft.joodaloop.com](https://webcraft.joodaloop.com)
  - date_published: 2024-08-19T07:03:25.660347+00:00
@@ -4084,8 +4088,4 @@
  ## Belgium - JURA Belgium
  - [https://be.jura.com](https://be.jura.com)
  - date_published: 2025-02-02T10:03:23.506868+00:00
-
- ## Bulgaria - JURA Bulgaria
- - [https://bg.jura.com](https://bg.jura.com)
- - date_published: 2025-02-02T10:03:08.216661+00:00
 

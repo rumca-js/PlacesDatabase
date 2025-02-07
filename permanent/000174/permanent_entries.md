@@ -1,3 +1,7 @@
+ ## Kantar. Shape your brand future
+ - [https://kantar.com](https://kantar.com)
+ - date_published: 2023-10-25T15:34:39.939920+00:00
+
  ## Kantar IBOPE Media Brazil - Kantar IBOPE Media
  - [https://kantaribopemedia.com](https://kantaribopemedia.com)
  - date_published: 2024-02-15T00:00:00+00:00
@@ -4046,8 +4050,4 @@
  ## Welcome to the family! - Kemistar Corp - เคมีภัณฑ์อุตสาหกรรม
  - [https://kemistarcorp.com](https://kemistarcorp.com)
  - date_published: 2025-02-03T08:40:57.669041+00:00
-
- ## Kyle Mitchell’s Availability
- - [https://availability.kemitchell.com](https://availability.kemitchell.com)
- - date_published: 2024-01-29T17:13:11+00:00
 

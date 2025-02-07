@@ -1,3 +1,27 @@
+ ## Science & Innovation
+ - [https://science-innovation.lanl.gov](https://science-innovation.lanl.gov)
+ - date_published: 2024-06-13T19:21:50+00:00
+
+ ## Seaborg Institute | National Security Education Center
+ - [http://seaborg.lanl.gov](http://seaborg.lanl.gov)
+ - date_published: 2024-06-26T19:34:51+00:00
+
+ ## Fusion
+ - [http://searcher-green.lanl.gov](http://searcher-green.lanl.gov)
+ - date_published: 2020-04-01T19:46:14+00:00
+
+ ## Weblogin
+ - [https://weblogin.lanl.gov](https://weblogin.lanl.gov)
+ - date_published: 2024-10-16T05:38:42.076469+00:00
+
+ ## System Unavailable
+ - [https://xxx.lanl.gov](https://xxx.lanl.gov)
+ - date_published: 2024-05-07T20:15:28.268325+00:00
+
+ ## The City of Las Cruces
+ - [https://www.lascruces.gov](https://www.lascruces.gov)
+ - date_published: 2025-02-02T07:46:26.259319+00:00
+
  ## Sign in ・ Cloudflare Access
  - [https://access.lbl.gov](https://access.lbl.gov)
  - date_published: 2024-07-15T02:48:18.849353+00:00
@@ -3999,28 +4023,4 @@
  ## Assembly Home | New York State Assembly
  - [https://nyassembly.gov](https://nyassembly.gov)
  - date_published: 2024-07-11T00:00:00+00:00
-
- ## Mayor's Office NYC
- - [https://a002-oom03.nyc.gov](https://a002-oom03.nyc.gov)
- - date_published: 2019-07-03T17:43:50+00:00
-
- ## NYCAPS ESS
- - [https://a127-ess.nyc.gov](https://a127-ess.nyc.gov)
- - date_published: 2024-06-27T04:00:27.140283+00:00
-
- ## Citystore
- - [https://a856-citystore.nyc.gov](https://a856-citystore.nyc.gov)
- - date_published: 2024-06-27T04:00:05.259783+00:00
-
- ## Home | Notify NYC
- - [https://a858-nycnotify.nyc.gov](https://a858-nycnotify.nyc.gov)
- - date_published: 2024-06-27T04:00:15.280168+00:00
-
- ## ACCESS NYC
- - [http://access.nyc.gov](http://access.nyc.gov)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## HOME
- - [http://bronxboropres.nyc.gov](http://bronxboropres.nyc.gov)
- - date_published: 2024-06-27T04:00:24.705951+00:00
 

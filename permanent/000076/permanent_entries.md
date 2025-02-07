@@ -1,3 +1,7 @@
+ ## Blessings of the Dice Gods
+ - [http://blessingsofthedicegods.blogspot.com](http://blessingsofthedicegods.blogspot.com)
+ - date_published: 2024-07-11T18:30:30+00:00
+
  ## Bliblila
  - [https://bliblila.blogspot.com](https://bliblila.blogspot.com)
  - date_published: 2024-09-02T08:26:45+00:00
@@ -4000,8 +4004,4 @@
  ## Spunk On A Stick's Tips
  - [http://circleoffriendsbooks.blogspot.com](http://circleoffriendsbooks.blogspot.com)
  - date_published: 2024-10-17T23:03:25.277727+00:00
-
- ## SpeyCo Circle Spey Reel
- - [http://circlespey.blogspot.com](http://circlespey.blogspot.com)
- - date_published: 2025-01-20T18:48:58.429816+00:00
 

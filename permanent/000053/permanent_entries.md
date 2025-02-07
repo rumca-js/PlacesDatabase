@@ -1,3 +1,7 @@
+ ## AlternativeNews.com - The Independent News Source for Free-Thinking People
+ - [https://alternativenews.com](https://alternativenews.com)
+ - date_published: 2024-07-03T18:44:35.549863+00:00
+
  ## AlternativePhotography.com
  - [https://www.alternativephotography.com](https://www.alternativephotography.com)
  - date_published: 2024-07-11T15:23:27.299041+00:00
@@ -4039,8 +4043,4 @@
  ## Amplitude Audio SDK
  - [https://amplitudeaudiosdk.com](https://amplitudeaudiosdk.com)
  - date_published: 2024-10-05T12:49:15+00:00
-
- ## HOME | AMP
- - [http://www.amplitudemediapartners.com](http://www.amplitudemediapartners.com)
- - date_published: 2024-02-08T00:00:00+00:00
 

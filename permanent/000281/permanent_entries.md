@@ -1,3 +1,19 @@
+ ## mochihead
+ - [https://mochihead.tumblr.com](https://mochihead.tumblr.com)
+ - date_published: 2024-01-23T19:09:50.905801+00:00
+
+ ## MochiBoni
+ - [https://mochiobonio.tumblr.com](https://mochiobonio.tumblr.com)
+ - date_published: 2024-12-13T11:52:28.800745+00:00
+
+ ## Modern Synthesist
+ - [https://modernsynthesist.tumblr.com](https://modernsynthesist.tumblr.com)
+ - date_published: 2015-10-29T00:00:00+00:00
+
+ ## Tumblr
+ - [https://modestflamboyance.tumblr.com](https://modestflamboyance.tumblr.com)
+ - date_published: 2024-06-27T04:30:04.519428+00:00
+
  ## Everything I draw ends up wearing a bow-tie
  - [https://modmad.tumblr.com](https://modmad.tumblr.com)
  - date_published: 2024-06-27T03:14:04.670489+00:00
@@ -3993,20 +4009,4 @@ Puppy95©️
  ## nope
  - [https://seeingdaylight.tumblr.com](https://seeingdaylight.tumblr.com)
  - date_published: 2024-10-18T15:59:15.327973+00:00
-
- ## SEGADriven
- - [https://segadriven.tumblr.com](https://segadriven.tumblr.com)
- - date_published: 2024-07-17T12:16:46.697431+00:00
-
- ## 👋
- - [https://segamascott.tumblr.com](https://segamascott.tumblr.com)
- - date_published: 2024-12-13T11:08:21.325576+00:00
-
- ## UNTITLED
- - [https://se-juk-blog.tumblr.com](https://se-juk-blog.tumblr.com)
- - date_published: 2024-09-16T06:41:53.369195+00:00
-
- ## love and trust 100%
- - [https://self-critical-automaton.tumblr.com](https://self-critical-automaton.tumblr.com)
- - date_published: 2024-06-27T03:01:21.270845+00:00
 

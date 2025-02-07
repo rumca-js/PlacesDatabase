@@ -1,3 +1,7 @@
+ ## Candace Irving Military Detective Thrillers & Veteran/K-9 Mysteries
+ - [https://store.candaceirving.com](https://store.candaceirving.com)
+ - date_published: 2025-02-03T04:33:30.108494+00:00
+
  ## TAA 2.1.2.25
  - [https://taamt.candc-uk.com](https://taamt.candc-uk.com)
  - date_published: 2024-07-11T13:52:43.127127+00:00
@@ -4018,8 +4022,4 @@
  ## Thoughts in Low Places
  - [https://carsengrote.com](https://carsengrote.com)
  - date_published: 2024-01-10T21:16:21.205470+00:00
-
- ## Daman Game: Play & Win Real Money | Daman Game App India
- - [https://carsfromkent.com](https://carsfromkent.com)
- - date_published: 2024-10-20T13:10:06.223385+00:00
 

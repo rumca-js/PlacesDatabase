@@ -1,3 +1,27 @@
+ ## SIMBAD Astronomical Database - CDS (Strasbourg)
+ - [http://simbad.u-strasbg.fr](http://simbad.u-strasbg.fr)
+ - date_published: 2024-08-18T20:26:57.154407+00:00
+
+ ## Université de technologie de Belfort Montbéliard (UTBM)
+ - [https://www.utbm.fr](https://www.utbm.fr)
+ - date_published: 2015-09-09T08:31:57+00:00
+
+ ## BDE-UTC - Portail des Associations
+ - [https://assos.utc.fr](https://assos.utc.fr)
+ - date_published: 2024-07-21T01:59:56.641071+00:00
+
+ ## Accueil
+ - [https://bibliotheque.utc.fr](https://bibliotheque.utc.fr)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## UTC Authentication - CAS – Central Authentication Service
+ - [https://ent.utc.fr](https://ent.utc.fr)
+ - date_published: 2024-07-21T01:59:40.137654+00:00
+
+ ## index - Université de technologie de Compiègne
+ - [https://hal.utc.fr](https://hal.utc.fr)
+ - date_published: 2024-07-21T01:59:10.194661+00:00
+
  ## UTC : Plateforme Hypervideo
  - [http://hypervideo.utc.fr](http://hypervideo.utc.fr)
  - date_published: 2018-12-21T16:44:14+00:00
@@ -4006,28 +4030,4 @@ Secrétariat d'État chargé de la Mer
  ## memento mori
  - [https://grow.dead.garden](https://grow.dead.garden)
  - date_published: 2024-08-07T00:00:00+00:00
-
- ## derelict garden
- - [https://derelict.garden](https://derelict.garden)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## drawing.garden
- - [https://drawing.garden](https://drawing.garden)
- - date_published: 2021-04-11T22:56:02+00:00
-
- ## evy's garden
- - [https://evy.garden](https://evy.garden)
- - date_published: 2023-03-31T06:46:04+00:00
-
- ## Fedi.Garden
- - [https://fedi.garden](https://fedi.garden)
- - date_published: 2024-06-17T09:16:55.235587+00:00
-
- ## File Garden
- - [https://file.garden](https://file.garden)
- - date_published: 2024-06-23T18:52:22.075624+00:00
-
- ## flow3r
- - [https://flow3r.garden](https://flow3r.garden)
- - date_published: 2025-01-23T18:58:23.732985+00:00
 

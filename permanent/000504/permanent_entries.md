@@ -1,3 +1,31 @@
+ ## Wiktionary
+ - [https://sh.wiktionary.org](https://sh.wiktionary.org)
+ - date_published: 2024-06-01T12:23:52+00:00
+
+ ## Wikasegzawal
+ - [https://shy.m.wiktionary.org](https://shy.m.wiktionary.org)
+ - date_published: 2024-09-04T03:14:18+00:00
+
+ ## Wikasegzawal
+ - [https://shy.wiktionary.org](https://shy.wiktionary.org)
+ - date_published: 2024-05-31T21:43:07+00:00
+
+ ## Simple English Wiktionary
+ - [https://simple.m.wiktionary.org](https://simple.m.wiktionary.org)
+ - date_published: 2024-09-03T04:52:29+00:00
+
+ ## Simple English Wiktionary
+ - [https://simple.wiktionary.org](https://simple.wiktionary.org)
+ - date_published: 2024-06-07T20:13:04+00:00
+
+ ## Wiktionary
+ - [https://si.m.wiktionary.org](https://si.m.wiktionary.org)
+ - date_published: 2024-09-17T14:39:51+00:00
+
+ ## Wiktionary
+ - [https://si.wiktionary.org](https://si.wiktionary.org)
+ - date_published: 2024-06-11T15:08:37+00:00
+
  ## Wikislovník
  - [https://sk.m.wiktionary.org](https://sk.m.wiktionary.org)
  - date_published: 2024-09-17T11:25:48+00:00
@@ -4006,32 +4034,4 @@ Conference Series
  ## WUSF
  - [http://www.wusfnews.org](http://www.wusfnews.org)
  - date_published: 2024-12-21T10:48:55.315406+00:00
-
- ## West Virginia 211
- - [http://www.wv211.org](http://www.wv211.org)
- - date_published: 2024-12-21T22:41:17.221800+00:00
-
- ## WVARA HOME
- - [https://wvara.org](https://wvara.org)
- - date_published: 2024-05-09T08:41:40.186451+00:00
-
- ## World Video Bible School
- - [https://wvbs.org](https://wvbs.org)
- - date_published: 2024-07-29T13:48:20+00:00
-
- ## West Virginia Department of Arts, Culture & History - West Virginia Department of Arts, Culture & History
- - [https://wvculture.org](https://wvculture.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home - WVCW
- - [https://wvcw.org](https://wvcw.org)
- - date_published: 2024-07-02T05:22:20+00:00
-
- ## West Virginia Dental Association | American Dental Association
- - [https://www.wvdental.org](https://www.wvdental.org)
- - date_published: 2025-01-21T13:14:50.823908+00:00
-
- ## West Virginia Education Association - WVEA WVEA
- - [https://www.wvea.org](https://www.wvea.org)
- - date_published: 2024-04-08T00:00:00+00:00
 

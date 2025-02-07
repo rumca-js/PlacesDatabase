@@ -1,3 +1,31 @@
+ ## Vermont Code Camp 4 :: 2012
+ - [https://2012.vtcodecamp.org](https://2012.vtcodecamp.org)
+ - date_published: 2024-09-18T15:21:17.586411+00:00
+
+ ## Vermont Code Camp 5 :: 2013
+ - [https://2013.vtcodecamp.org](https://2013.vtcodecamp.org)
+ - date_published: 2024-09-18T15:21:19.201856+00:00
+
+ ## Vermont Code Camp 6 :: 2014
+ - [https://2014.vtcodecamp.org](https://2014.vtcodecamp.org)
+ - date_published: 2024-09-18T15:21:26.742078+00:00
+
+ ## Vermont Code Camp 7 :: 2015
+ - [https://2015.vtcodecamp.org](https://2015.vtcodecamp.org)
+ - date_published: 2024-09-18T15:21:25.381117+00:00
+
+ ## Vermont Code Camp 8 :: 2016
+ - [https://2016.vtcodecamp.org](https://2016.vtcodecamp.org)
+ - date_published: 2024-09-18T15:21:15.961349+00:00
+
+ ## Vermont Code Camp 9 :: 2017
+ - [https://2017.vtcodecamp.org](https://2017.vtcodecamp.org)
+ - date_published: 2024-09-18T15:21:30.859442+00:00
+
+ ## Vermont Code Camp 10 :: 2018
+ - [https://2018.vtcodecamp.org](https://2018.vtcodecamp.org)
+ - date_published: 2024-09-18T15:21:22.397833+00:00
+
  ## Vermont Code Camp 11
  - [https://2019.vtcodecamp.org](https://2019.vtcodecamp.org)
  - date_published: 2024-09-18T15:21:21.039526+00:00
@@ -4003,32 +4031,4 @@
  ## Wikibooks
  - [https://hr.wikibooks.org](https://hr.wikibooks.org)
  - date_published: 2024-07-09T12:21:34+00:00
-
- ## Wb/ht - Wikimedia Incubator
- - [https://ht.wikibooks.org](https://ht.wikibooks.org)
- - date_published: 2024-07-09T09:56:25+00:00
-
- ## Wikikönyvek
- - [https://hu.wikibooks.org](https://hu.wikibooks.org)
- - date_published: 2024-06-29T14:15:35+00:00
-
- ## Վիքիգրքեր
- - [https://hy.wikibooks.org](https://hy.wikibooks.org)
- - date_published: 2024-07-09T12:21:40+00:00
-
- ## Western Armenian Wikibooks - Wikimedia Incubator
- - [https://hyw.wikibooks.org](https://hyw.wikibooks.org)
- - date_published: 2024-07-12T04:17:22.191693+00:00
-
- ## Wikibooks
- - [https://ia.wikibooks.org](https://ia.wikibooks.org)
- - date_published: 2024-07-09T12:22:02+00:00
-
- ## Wikibuku
- - [https://id.wikibooks.org](https://id.wikibooks.org)
- - date_published: 2024-07-09T12:22:03+00:00
-
- ## Wikibooks
- - [https://ie.wikibooks.org](https://ie.wikibooks.org)
- - date_published: 2024-06-27T09:44:45+00:00
 

@@ -1,3 +1,7 @@
+ ## 编程随想的博客
+ - [https://program-think.blogspot.com](https://program-think.blogspot.com)
+ - date_published: 2024-07-14T05:39:55+00:00
+
  ## The Welcome Table
  - [http://progressivechurchplanting.blogspot.com](http://progressivechurchplanting.blogspot.com)
  - date_published: 2024-12-08T07:37:06+00:00
@@ -4022,8 +4026,4 @@
  ## Running 42km
  - [http://running42km.blogspot.com](http://running42km.blogspot.com)
  - date_published: 2024-10-07T05:53:07+00:00
-
- ## Not Running a Hospital
- - [https://runningahospital.blogspot.com](https://runningahospital.blogspot.com)
- - date_published: 2016-03-15T17:35:00+00:00
 

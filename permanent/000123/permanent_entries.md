@@ -1,3 +1,7 @@
+ ## Responsive Web Design | Website Creation | Editor X
+ - [https://www.editorx.com](https://www.editorx.com)
+ - date_published: 2024-06-23T05:57:02.078367+00:00
+
  ## EditPad Lite - Free Text Editor for Windows
  - [http://www.editpadlite.com](http://www.editpadlite.com)
  - date_published: 2024-08-02T00:00:00+00:00
@@ -4088,9 +4092,4 @@
  ## Electric Imp Online Store
  - [http://store.electricimp.com](http://store.electricimp.com)
  - date_published: 2025-02-01T09:38:07.038306+00:00
-
- ## Electricity Maps | Live 24/7 CO₂ emissions of electricity consumption
- - [https://app.electricitymaps.com](https://app.electricitymaps.com)
- - date_published: 2023-10-25T14:04:41.764051+00:00
- - tags: ['electricity', 'energy']
 

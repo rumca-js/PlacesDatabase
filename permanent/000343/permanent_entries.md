@@ -1,3 +1,27 @@
+ ## Human Subjects Research - Human Subjects Research
+ - [https://hsr.mines.edu](https://hsr.mines.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## McNeil Home - McNeil Center for Entrepreneurship and Innovation
+ - [https://innovation.mines.edu](https://innovation.mines.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Home - Institutional Research | Strategic Analytics
+ - [https://ir.mines.edu](https://ir.mines.edu)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Explore Positions at Mines - Human Resources
+ - [http://jobs.mines.edu](http://jobs.mines.edu)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Home - Labriola Innovation Hub
+ - [https://labriola.mines.edu](https://labriola.mines.edu)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## All Questions - Frequently Asked Questions
+ - [https://libanswers.mines.edu](https://libanswers.mines.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
  ## Library Calendars -
         Arthur Lakes Library
  - [https://libcal.mines.edu](https://libcal.mines.edu)
@@ -4054,28 +4078,4 @@
  ## Hyde County Center | N.C. Cooperative Extension
  - [https://hyde.ces.ncsu.edu](https://hyde.ces.ncsu.edu)
  - date_published: 2024-10-15T05:32:16.888062+00:00
-
- ## Intensive English Program - Intensive English Program
- - [https://intensive-english.ncsu.edu](https://intensive-english.ncsu.edu)
- - date_published: 2025-02-02T05:56:36.210746+00:00
-
- ## Academic and Student Affairs Intranet
- - [https://intranet.dasa.ncsu.edu](https://intranet.dasa.ncsu.edu)
- - date_published: 2024-08-05T23:58:48.440342+00:00
-
- ## Integrated Pest Management | NC State Extension
- - [https://ipm.ces.ncsu.edu](https://ipm.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:29.157650+00:00
-
- ## Iredell County Center | N.C. Cooperative Extension
- - [https://iredell.ces.ncsu.edu](https://iredell.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:29.960939+00:00
-
- ## Institutional Strategy and Analysis
- - [https://isa.ncsu.edu](https://isa.ncsu.edu)
- - date_published: 2025-02-02T06:14:52.455332+00:00
-
- ## Homepage - Engineering Information Technology
- - [https://it.engr.ncsu.edu](https://it.engr.ncsu.edu)
- - date_published: 2025-02-02T06:47:51.870635+00:00
 

@@ -1,3 +1,7 @@
+ ## David Hoang
+ - [https://davidhoang.com](https://davidhoang.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
  ## David Hoy WP
  - [https://davidhoywp.com](https://davidhoywp.com)
  - date_published: 2024-01-16T03:19:23.059473+00:00
@@ -4063,8 +4067,4 @@
  ## DeepSource Discuss
  - [https://discuss.deepsource.com](https://discuss.deepsource.com)
  - date_published: 2024-04-23T00:00:00+00:00
-
- ## DeepSource Documentation
- - [https://docs.deepsource.com](https://docs.deepsource.com)
- - date_published: 2024-04-28T03:06:28.839627+00:00
 

@@ -1,3 +1,19 @@
+ ## Home - University Place
+ - [http://www.uplace.com](http://www.uplace.com)
+ - date_published: 2024-08-18T04:32:54.304880+00:00
+
+ ## Cloud Software Solutions | Upland Software
+ - [https://info.uplandsoftware.com](https://info.uplandsoftware.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://investor.uplandsoftware.com](https://investor.uplandsoftware.com)
+ - date_published: 2024-07-04T18:31:06.778465+00:00
+
+ ## Cloud Software Solutions | Upland Software
+ - [https://uplandsoftware.com](https://uplandsoftware.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
  ## All-in-one sports betting and casino platform - Uplatform
  - [https://uplatform.com](https://uplatform.com)
  - date_published: 2024-05-09T00:00:00+00:00
@@ -4002,20 +4018,4 @@
  ## UserZoom GO
  - [https://go.userzoom.com](https://go.userzoom.com)
  - date_published: 2024-10-14T12:39:47.074433+00:00
-
- ## UserZoom Manager
- - [https://manager.userzoom.com](https://manager.userzoom.com)
- - date_published: 2024-10-08T06:47:02+00:00
-
- ## Scaffold:Figma Prototyping and Animation Library
- - [https://usescaffold.com](https://usescaffold.com)
- - date_published: 2024-07-02T20:50:18.644779+00:00
-
- ## Script - A text editor powering truly digital documents in a dedicated project workspace
- - [https://www.use-script.com](https://www.use-script.com)
- - date_published: 2023-10-25T17:54:01.989669+00:00
-
- ## SignHouse | eSign PDFs with free Electronic Signatures
- - [https://usesignhouse.com](https://usesignhouse.com)
- - date_published: 2024-06-13T00:00:00+00:00
 

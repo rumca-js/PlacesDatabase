@@ -1,3 +1,7 @@
+ ## DeepSource Documentation
+ - [https://docs.deepsource.com](https://docs.deepsource.com)
+ - date_published: 2024-04-28T03:06:28.839627+00:00
+
  ## Planned - DeepSource Product Roadmap | Product Roadmap
  - [https://roadmap.deepsource.com](https://roadmap.deepsource.com)
  - date_published: 2024-02-27T00:00:00+00:00
@@ -174,6 +178,7 @@
  ## Deezer plans | Compare Deezer's offer prices
  - [https://deezer.com](https://deezer.com)
  - date_published: 2024-05-12T05:25:32.129659+00:00
+ - tags: ['music streaming', 'audio streaming']
 
  ## Deezer for developers
  - [https://developers.deezer.com](https://developers.deezer.com)
@@ -4039,8 +4044,4 @@
  ## Simple WordPress Themes to Build Your Dream Website
  - [https://designlabthemes.com](https://designlabthemes.com)
  - date_published: 2024-04-28T01:54:27.728305+00:00
-
- ## Not your average lifestyle store
- - [https://designlifekids.com](https://designlifekids.com)
- - date_published: 2024-07-09T06:28:49.267188+00:00
 

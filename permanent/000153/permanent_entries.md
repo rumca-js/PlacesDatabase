@@ -1,3 +1,7 @@
+ ## Fire Equipment Supplier, Fire Fighting Pumps | Hale Products
+ - [https://www.haleproducts.com](https://www.haleproducts.com)
+ - date_published: 2025-01-07T20:40:26.581629+00:00
+
  ## Halestorm Official Site
  - [https://www.halestormrocks.com](https://www.halestormrocks.com)
  - date_published: 2024-08-11T03:42:18+00:00
@@ -4033,8 +4037,4 @@
  ## Home
  - [https://hautejets.com](https://hautejets.com)
  - date_published: 2025-01-15T00:00:00+00:00
-
- ## Luxury Hotels, Travel, Dining, Lifestyle - Haute Living
- - [https://hauteliving.com](https://hauteliving.com)
- - date_published: 2024-07-09T17:52:07+00:00
 

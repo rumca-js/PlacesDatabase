@@ -1,3 +1,20 @@
+ ## Bad Software Advice | David Tate | Substack
+ - [https://badsoftwareadvice.substack.com](https://badsoftwareadvice.substack.com)
+ - date_published: 2023-10-25T09:43:18.720440+00:00
+ - tags: ['substack']
+
+ ## Founder's reflections | tinychef ACI | Substack
+ - [https://bahubali.substack.com](https://bahubali.substack.com)
+ - date_published: 2024-05-09T06:52:52.562948+00:00
+
+ ## Bailiwick News | Katherine Watt | Substack
+ - [https://bailiwicknews.substack.com](https://bailiwicknews.substack.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Balls & Strikes | Jay Willis | Substack
+ - [https://ballsandstrikes.substack.com](https://ballsandstrikes.substack.com)
+ - date_published: 2024-02-07T00:00:00+00:00
+
  ## balncd | haley | Substack
  - [https://balncd.substack.com](https://balncd.substack.com)
  - date_published: 2025-01-22T04:59:57.702066+00:00
@@ -4058,21 +4075,4 @@
  ## I Am Not A Product | Kev Fitzsimons | Substack
  - [https://iamnotaproduct.substack.com](https://iamnotaproduct.substack.com)
  - date_published: 2024-01-01T00:00:00+00:00
-
- ## I Am Not a Robot | Diego Basch | Substack
- - [https://iamnotarobot.substack.com](https://iamnotarobot.substack.com)
- - date_published: 2023-10-25T09:53:47.300720+00:00
- - tags: ['substack']
-
- ## Ian Berry on human being centred conversations | Substack
- - [https://ianberry.substack.com](https://ianberry.substack.com)
- - date_published: 2024-08-17T22:46:00.927109+00:00
-
- ## Ian Brighthope's Substack | Substack
- - [https://ianbrighthope.substack.com](https://ianbrighthope.substack.com)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Striking 13 | Ian Dunt | Substack
- - [https://iandunt.substack.com](https://iandunt.substack.com)
- - date_published: 2025-02-01T17:33:33.749599+00:00
 

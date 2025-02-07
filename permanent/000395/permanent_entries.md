@@ -1,3 +1,27 @@
+ ## As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors
+ - [https://as-plausible-as-possible.github.io](https://as-plausible-as-possible.github.io)
+ - date_published: 2024-03-02T08:19:09+00:00
+
+ ## Free Consulting Service for Aspose APIs for .NET, Java, Cloud and Android
+ - [https://aspose-free-consulting.github.io](https://aspose-free-consulting.github.io)
+ - date_published: 2024-10-03T11:28:12+00:00
+
+ ## GitHub Repositories for Examples, Plugins and Showcases of Aspose APIs for .NET, Java, C++ and Android
+ - [https://aspose.github.io](https://aspose.github.io)
+ - date_published: 2024-12-24T14:25:36+00:00
+
+ ## Assaf Shocher's homepage
+ - [https://assafshocher.github.io](https://assafshocher.github.io)
+ - date_published: 2024-04-03T08:52:56+00:00
+
+ ## assemblee-virtuelle.github.io
+ - [https://assemblee-virtuelle.github.io](https://assemblee-virtuelle.github.io)
+ - date_published: 2018-11-01T10:01:48+00:00
+
+ ## ASSET Research Group: Home
+ - [https://asset-group.github.io](https://asset-group.github.io)
+ - date_published: 2023-12-08T12:56:42.399728+00:00
+
  ## CV: Alexander Tarasikov
  - [http://astarasikov.github.io](http://astarasikov.github.io)
  - date_published: 2016-10-19T23:32:57+00:00
@@ -4012,28 +4036,4 @@ for Articulated Avatars
  ## About me
  - [https://fredrikaverpil.github.io](https://fredrikaverpil.github.io)
  - date_published: 2024-06-01T14:46:23+00:00
-
- ## FreeCAD Development Blog
- - [https://freecad.github.io](https://freecad.github.io)
- - date_published: 2018-11-10T21:11:00+00:00
-
- ## Freedoom
- - [https://freedoom.github.io](https://freedoom.github.io)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Welcome to the FreeMiNT Project website
- - [https://freemint.github.io](https://freemint.github.io)
- - date_published: 2021-07-09T05:02:38+00:00
-
- ## FreeOTP
- - [https://freeotp.github.io](https://freeotp.github.io)
- - date_published: 2023-04-27T13:11:29+00:00
-
- ## Free software & Proxmox
- - [https://free-pmx.github.io](https://free-pmx.github.io)
- - date_published: 2024-12-05T00:00:00+00:00
-
- ## FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation
- - [https://freeseg.github.io](https://freeseg.github.io)
- - date_published: 2023-04-20T14:08:33+00:00
 

@@ -1,3 +1,7 @@
+ ## Universidad de los Andes · Bookeau
+ - [https://aspirantes.bookeau.com](https://aspirantes.bookeau.com)
+ - date_published: 2024-12-10T02:18:54.007014+00:00
+
  ## Decanatura de Estudiantes · Bookeau
  - [https://decanaturadeestudiantes.bookeau.com](https://decanaturadeestudiantes.bookeau.com)
  - date_published: 2024-12-10T02:21:00.826122+00:00
@@ -4022,8 +4026,4 @@
  ## Bradley Davis - Cyclist & Software Engineer | WordPress Developer | Gold Coast
  - [https://bradley-davis.com](https://bradley-davis.com)
  - date_published: 2024-06-27T12:42:04.860024+00:00
-
- ## Bradley’s Almanac
- - [http://www.bradleysalmanac.com](http://www.bradleysalmanac.com)
- - date_published: 2024-09-14T22:40:03.071861+00:00
 

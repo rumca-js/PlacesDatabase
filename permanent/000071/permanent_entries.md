@@ -1,3 +1,8 @@
+ ## Thomas S. Ray
+ - [https://shop.beyondgravity.com](https://shop.beyondgravity.com)
+ - date_published: 2024-07-26T19:05:29.454041+00:00
+ - date_dead_since: 2025-01-30T19:40:53.121846+00:00
+
  ## Beyond grep: ack v3.7.0
  - [https://beyondgrep.com](https://beyondgrep.com)
  - date_published: 2023-02-25T00:00:00+00:00
@@ -4033,8 +4038,4 @@
  ## DAYS INN BY WYNDHAM BILLINGS 2⋆ ::: MT, UNITED STATES ::: COMPARE HOTEL RATES
  - [https://days-inn-59101.billingsbesthotels.com](https://days-inn-59101.billingsbesthotels.com)
  - date_published: 2025-01-25T10:06:10.266171+00:00
-
- ## DOUBLETREE BY HILTON BILLINGS HOTEL 4⋆ ::: MT, UNITED STATES ::: COMPARE HOTEL RATES
- - [https://doubletree-by-hilton.billingsbesthotels.com](https://doubletree-by-hilton.billingsbesthotels.com)
- - date_published: 2025-01-12T04:48:05.584171+00:00
 

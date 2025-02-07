@@ -1,3 +1,32 @@
+ ## Home Page
+ - [https://akpress.org](https://akpress.org)
+ - date_published: 2024-07-10T08:46:42.640893+00:00
+
+ ## Revolution by the Book - The AK Press Blog
+ - [https://revolutionbythebook.akpress.org](https://revolutionbythebook.akpress.org)
+ - date_published: 2024-08-19T22:03:59.608710+00:00
+
+ ## main lists.akraino.org Group
+ - [https://lists.akraino.org](https://lists.akraino.org)
+ - date_published: 2025-02-04T20:24:39.664999+00:00
+
+ ## AKRO Invest – Best Trader
+ - [https://akroinvest.org](https://akroinvest.org)
+ - date_published: 2024-07-01T10:11:23.685960+00:00
+ - date_dead_since: 2025-01-03T18:41:55.825870+00:00
+
+ ## Home
+ - [https://akronartmuseum.org](https://akronartmuseum.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## AKSW - aksw.org Research Group dataset
+ - [https://aksw.org](https://aksw.org)
+ - date_published: 2024-03-28T19:02:53+00:00
+
+ ## Aktion Courage e.V.: Startseite
+ - [https://aktioncourage.org](https://aktioncourage.org)
+ - date_published: 2024-09-12T15:59:33.099954+00:00
+
  ## ana | [:en]text and pictures[:es]textos y fotos[:]
  - [https://ana.aktivix.org](https://ana.aktivix.org)
  - date_published: 2024-05-09T08:02:09.757827+00:00
@@ -4016,33 +4045,4 @@
  ## Antidiskriminierungsverband Deutschland
  - [https://antidiskriminierung.org](https://antidiskriminierung.org)
  - date_published: 2024-09-12T16:07:47.458971+00:00
-
- ## Home - The Anti-Eugenics Project
- - [https://antieugenicsproject.org](https://antieugenicsproject.org)
- - date_published: 2024-12-12T04:35:28.209965+00:00
-
- ## Home | antifa.org
- - [https://antifa.org](https://antifa.org)
- - date_published: 2024-11-11T09:27:07+00:00
- - tags: ['activism', 'antifa']
-
- ## Antikythera
- - [https://antikythera.org](https://antikythera.org)
- - date_published: 2024-10-18T15:37:12.677738+00:00
-
- ## Antikythera
- - [https://link.antikythera.org](https://link.antikythera.org)
- - date_published: 2024-10-18T15:32:10.887084+00:00
-
- ## Antiochian Orthodox Christian Archdiocese of North America
- - [https://antiochian.org](https://antiochian.org)
- - date_published: 2024-08-13T03:25:46+00:00
-
- ## Home - Antipode Online
- - [http://antipodefoundation.org](http://antipodefoundation.org)
- - date_published: 2024-12-21T04:17:04+00:00
-
- ## APTP
- - [https://antipoliceterrorproject.org](https://antipoliceterrorproject.org)
- - date_published: 2024-06-15T18:17:23.439022+00:00
 

@@ -1,3 +1,7 @@
+ ## 中国井冈山干部学院网上干部学院--首页
+ - [http://e-learning.celaj.gov.cn](http://e-learning.celaj.gov.cn)
+ - date_published: 2024-06-30T19:52:40.802755+00:00
+
  ## 中国井冈山干部学院
  - [https://www.celaj.gov.cn](https://www.celaj.gov.cn)
  - date_published: 2024-05-07T16:47:05.940368+00:00
@@ -3998,8 +4002,4 @@
  ## 宁远新闻网_主流媒体,党政门户
  - [https://ningyuan.gov.cn](https://ningyuan.gov.cn)
  - date_published: 2024-10-21T06:46:02.714267+00:00
-
- ## 六合区政协
- - [http://njlhzx.gov.cn](http://njlhzx.gov.cn)
- - date_published: 2025-01-12T12:50:23.752445+00:00
 

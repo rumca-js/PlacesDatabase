@@ -1,3 +1,27 @@
+ ## Welcome
+ - [https://epibiostat.ucsf.edu](https://epibiostat.ucsf.edu)
+ - date_published: 2024-07-02T01:53:07+00:00
+
+ ## EVCP Organization | Executive Vice Chancellor & Provost
+ - [https://evcprovost.ucsf.edu](https://evcprovost.ucsf.edu)
+ - date_published: 2024-05-07T21:09:06.650556+00:00
+
+ ## Home | Office of Faculty and Academic Affairs
+ - [https://facultyacademicaffairs.ucsf.edu](https://facultyacademicaffairs.ucsf.edu)
+ - date_published: 2024-07-02T01:29:22+00:00
+
+ ## About Our Services
+ - [https://fas.ucsf.edu](https://fas.ucsf.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## UCSF Student Financial Services
+ - [https://finaid.ucsf.edu](https://finaid.ucsf.edu)
+ - date_published: 2024-05-07T21:08:08.320300+00:00
+
+ ## Home
+ - [http://finance.ucsf.edu](http://finance.ucsf.edu)
+ - date_published: 2024-07-02T01:49:53+00:00
+
  ## First Generation Support Services
  - [http://firstgen.ucsf.edu](http://firstgen.ucsf.edu)
  - date_published: 2024-07-02T01:40:28+00:00
@@ -3979,28 +4003,4 @@
  ## Home Page
  - [https://police.umbc.edu](https://police.umbc.edu)
  - date_published: 2024-05-07T21:25:35.711980+00:00
-
- ## Home
- - [https://privacy.umbc.edu](https://privacy.umbc.edu)
- - date_published: 2024-12-30T10:55:51.573529+00:00
-
- ## Welcome to the Office of the Provost and Senior Vice President for Academic Affairs
- - [https://provost.umbc.edu](https://provost.umbc.edu)
- - date_published: 2024-07-02T03:34:05.882377+00:00
-
- ## Department of Computer Science and Electrical Engineering
- - [https://redirect.cs.umbc.edu](https://redirect.cs.umbc.edu)
- - date_published: 2024-05-26T18:42:18.246666+00:00
-
- ## Home
- - [https://registrar.umbc.edu](https://registrar.umbc.edu)
- - date_published: 2024-05-07T21:25:57.683613+00:00
-
- ## Research and Creative Achievement at UMBC
- - [https://research.umbc.edu](https://research.umbc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home
- - [https://reslife.umbc.edu](https://reslife.umbc.edu)
- - date_published: 2024-05-07T21:25:28.582851+00:00
 

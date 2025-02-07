@@ -1,3 +1,11 @@
+ ## Creating Global Memory | Home
+ - [https://world.new7wonders.com](https://world.new7wonders.com)
+ - date_published: 2024-05-07T16:01:58.979942+00:00
+
+ ## New7Wonders | The Global Voting Campaigns
+ - [https://www.new7wonders.com](https://www.new7wonders.com)
+ - date_published: 2024-06-30T09:53:20.437954+00:00
+
  ## New Adventures | Home
  - [https://newadventuresconf.com](https://newadventuresconf.com)
  - date_published: 2024-05-11T10:54:27.913717+00:00
@@ -4007,12 +4015,4 @@
  ## Next-Gen Computer Architecture, Smruti R. Sarangi
  - [http://www.nextgencomparch.com](http://www.nextgencomparch.com)
  - date_published: 2024-08-15T14:42:27+00:00
-
- ## CFEE Classroom Edition
- - [https://nextgenedition.com](https://nextgenedition.com)
- - date_published: 2024-06-24T08:18:40.166501+00:00
-
- ## Renewable Energy Jobs | Solar, Wind & Clean Energy Careers
- - [http://nextgenenergyjobs.com](http://nextgenenergyjobs.com)
- - date_published: 2024-11-14T18:24:41.515848+00:00
 

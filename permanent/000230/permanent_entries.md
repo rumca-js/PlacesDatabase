@@ -1,3 +1,19 @@
+ ## Random Hacker News Front Page
+ - [https://randomhackernews.com](https://randomhackernews.com)
+ - date_published: 2007-02-19T00:00:00+00:00
+
+ ## Penguin RandomHouse – Careers
+ - [http://careers.randomhouse.com](http://careers.randomhouse.com)
+ - date_published: 2024-06-28T15:26:22.334959+00:00
+
+ ## Smart Public
+ - [http://smartpublic.randomhouse.com](http://smartpublic.randomhouse.com)
+ - date_published: 2024-03-08T19:52:43+00:00
+
+ ## Penguin Random House
+ - [http://www.randomhouse.com](http://www.randomhouse.com)
+ - date_published: 2024-12-23T07:39:29.683752+00:00
+
  ## Random House Publishing Group
  - [http://www.randomhousebooks.com](http://www.randomhousebooks.com)
  - date_published: 2024-08-19T12:33:52.027689+00:00
@@ -4027,20 +4043,4 @@ Top End Devs
  ## Really Good Buildings | Fed Novikov | Substack
  - [https://www.reallygoodbuildings.com](https://www.reallygoodbuildings.com)
  - date_published: 2024-03-18T00:00:00+00:00
-
- ## Really Good Business Ideas | Casandra Campbell | Substack
- - [https://www.reallygoodbusinessideas.com](https://www.reallygoodbusinessideas.com)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Unspam
- - [https://unspam.reallygoodemails.com](https://unspam.reallygoodemails.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## ReallyGoodMousePads
- - [https://reallygoodmousepads.com](https://reallygoodmousepads.com)
- - date_published: 2024-07-09T18:48:08.200084+00:00
-
- ## Home - Really Simple Plugins
- - [https://really-simple-plugins.com](https://really-simple-plugins.com)
- - date_published: 2024-07-15T00:00:00+00:00
 

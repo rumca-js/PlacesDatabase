@@ -1,3 +1,19 @@
+ ## The Washington Note - Web Magazine 2024
+ - [http://www.thewashingtonnote.com](http://www.thewashingtonnote.com)
+ - date_published: 2024-08-16T08:36:48+00:00
+
+ ## The Washington Standard -
+ - [https://thewashingtonstandard.com](https://thewashingtonstandard.com)
+ - date_published: 2023-10-25T17:39:54.260943+00:00
+
+ ## The Wasted World
+ - [https://thewastedworld.com](https://thewastedworld.com)
+ - date_published: 2024-12-22T05:22:37+00:00
+
+ ## The Watch
+ - [https://thewatch-journal.com](https://thewatch-journal.com)
+ - date_published: 2025-02-05T14:23:35.811435+00:00
+
  ## The Watch
  - [https://thewatch-magazine.com](https://thewatch-magazine.com)
  - date_published: 2024-08-11T02:24:44.265413+00:00
@@ -4033,20 +4049,4 @@ Press/Editor and Publisher Philip Shropshire
  ## Thunder Bay Chill
  - [https://www.thunderbaychill.com](https://www.thunderbaychill.com)
  - date_published: 2024-07-09T23:06:17.438898+00:00
-
- ## Thunderbit: All-in-one AI toolkit / No Code App & Automation
- - [https://thunderbit.com](https://thunderbit.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Thunder Call
- - [http://kltv.thundercall.com](http://kltv.thundercall.com)
- - date_published: 2024-06-03T21:44:00+00:00
-
- ## Organic Social Media Growth Services, Non-drop | Thunderclap.com
- - [https://thunderclap.com](https://thunderclap.com)
- - date_published: 2024-10-13T05:48:46+00:00
-
- ## IoT Solutions Expert Webinar Series
- - [https://webinar.thundercomm.com](https://webinar.thundercomm.com)
- - date_published: 2024-10-11T12:06:02.427397+00:00
 

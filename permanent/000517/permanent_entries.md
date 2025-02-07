@@ -1,3 +1,31 @@
+ ## Facultatea de Matematică și Informatică | Universitatea Babeș-Bolyai Cluj-Napoca
+ - [https://www.cs.ubbcluj.ro](https://www.cs.ubbcluj.ro)
+ - date_published: 2024-05-06T14:11:16.484259+00:00
+
+ ## Cluj University Press - redirect
+ - [http://www.editura.ubbcluj.ro](http://www.editura.ubbcluj.ro)
+ - date_published: 2024-10-15T03:07:25.325591+00:00
+
+ ## Universitatea Babeș-Bolyai
+ - [https://www.ubbcluj.ro](https://www.ubbcluj.ro)
+ - date_published: 2024-06-23T10:41:40.252189+00:00
+
+ ## 🎓 Universitatea din Craiova
+ - [http://www.ucv.ro](http://www.ucv.ro)
+ - date_published: 2025-01-22T00:44:06.000808+00:00
+
+ ## Universitatea „Dunărea de Jos” din Galați
+ - [http://www.ugal.ro](http://www.ugal.ro)
+ - date_published: 2025-01-22T00:43:54.602346+00:00
+
+ ## Uncyclopedia – Blog facut de oameni inteligenti
+ - [http://uncyclopedia.ro](http://uncyclopedia.ro)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## Undelucram.ro - Descoperă angajatorii și mediul de lucru al următorului tău job
+ - [https://www.undelucram.ro](https://www.undelucram.ro)
+ - date_published: 2024-09-19T14:44:31.715445+00:00
+
  ## Under Armour magazin online | Under Armour Romania
  - [https://www.underarmour.ro](https://www.underarmour.ro)
  - date_published: 2025-01-17T15:11:24.945692+00:00
@@ -3998,32 +4026,4 @@ A slim and mobile-friendly IIIF document viewer
  ## Fighting.ru - всё о файтингах
  - [http://www.fighting.ru](http://www.fighting.ru)
  - date_published: 2024-10-26T09:13:34.576484+00:00
-
- ## ФИЛАНКО интернет провайдер и оператор связи для юридических лиц — ИТ интегратор цифровых решений в России
- - [http://www.filanco.ru](http://www.filanco.ru)
- - date_published: 2025-01-21T21:27:13.579751+00:00
-
- ## Кинопортал Фильм.ру - все о кино, рецензии, обзоры, новости, премьеры фильмов
- - [https://www.film.ru](https://www.film.ru)
- - date_published: 2025-02-03T22:40:14.772639+00:00
-
- ## FinNext-2024. 12-й форум финансовых инноваций
- - [https://finnext.ru](https://finnext.ru)
- - date_published: 2024-09-24T21:00:47.342309+00:00
-
- ## Экономическое обозрение
- - [https://finobzor.ru](https://finobzor.ru)
- - date_published: 2024-07-19T19:54:40.327730+00:00
-
- ## Vika's Hideout
- - [https://fireburn.ru](https://fireburn.ru)
- - date_published: 2024-05-09T08:15:19.456363+00:00
-
- ## Fire Monkey от А до Я
- - [http://fire-monkey.ru](http://fire-monkey.ru)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## УК Первая. Инвестиции в ПИФы, ИИС, доверительное управление.
- - [https://first-am.ru](https://first-am.ru)
- - date_published: 2024-09-04T06:26:40.264122+00:00
 

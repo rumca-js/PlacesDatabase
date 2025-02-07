@@ -1,3 +1,7 @@
+ ## The Art of Charles Vess • Green Man Press
+ - [https://greenmanpress.com](https://greenmanpress.com)
+ - date_published: 2024-10-31T18:34:44.288044+00:00
+
  ## Marijuana Seeds Garden - Greenmanspage
  - [http://www.greenmanspage.com](http://www.greenmanspage.com)
  - date_published: 2025-01-31T19:29:54.246299+00:00
@@ -4019,8 +4023,4 @@
  ## Guggenheim Partners, LLC
  - [https://www.guggenheimpartners.com](https://www.guggenheimpartners.com)
  - date_published: 2024-12-19T09:21:03.743704+00:00
-
- ## Liquid Energy - Solid Engineering | Gugler Water Turbines
- - [https://www.gugler.com](https://www.gugler.com)
- - date_published: 2024-12-25T20:23:13.595729+00:00
 

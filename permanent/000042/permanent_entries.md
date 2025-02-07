@@ -1,3 +1,8 @@
+ ## Design Beautiful Digital Products with Teachery | Simplify Digital Product Creation
+ - [https://www.teachery.co](https://www.teachery.co)
+ - date_published: 2024-08-29T00:00:00+00:00
+ - date_dead_since: 2025-01-17T10:58:53.755186+00:00
+
  ## Save by Comparing Top US Phone Systems | Tech.co
  - [https://quotes.tech.co](https://quotes.tech.co)
  - date_published: 2024-06-29T05:01:39.315911+00:00
@@ -4038,8 +4043,4 @@
  ## Home
  - [http://www.centrodeestudiosaeronauticos.edu.co](http://www.centrodeestudiosaeronauticos.edu.co)
  - date_published: 2024-09-11T00:00:00+00:00
-
- ## Biblioteca Digital - CESA
- - [https://repository.cesa.edu.co](https://repository.cesa.edu.co)
- - date_published: 2024-09-11T16:52:11.376121+00:00
 

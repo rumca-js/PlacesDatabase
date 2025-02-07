@@ -1,3 +1,20 @@
+ ## I Am Not a Robot | Diego Basch | Substack
+ - [https://iamnotarobot.substack.com](https://iamnotarobot.substack.com)
+ - date_published: 2023-10-25T09:53:47.300720+00:00
+ - tags: ['substack']
+
+ ## Ian Berry on human being centred conversations | Substack
+ - [https://ianberry.substack.com](https://ianberry.substack.com)
+ - date_published: 2024-08-17T22:46:00.927109+00:00
+
+ ## Ian Brighthope's Substack | Substack
+ - [https://ianbrighthope.substack.com](https://ianbrighthope.substack.com)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Striking 13 | Ian Dunt | Substack
+ - [https://iandunt.substack.com](https://iandunt.substack.com)
+ - date_published: 2025-02-01T17:33:33.749599+00:00
+
  ## The Ruffian | Ian Leslie | Substack
  - [https://ianleslie.substack.com](https://ianleslie.substack.com)
  - date_published: 2023-10-25T09:54:01.013922+00:00
@@ -4057,20 +4074,4 @@
  ## Rahul’s Renaissance Quest  | Substack
  - [https://rahulmajumdar.substack.com](https://rahulmajumdar.substack.com)
  - date_published: 2024-01-03T00:00:00+00:00
-
- ## The Morning Star | Rain Morningstar | Substack
- - [https://rainmorningstar.substack.com](https://rainmorningstar.substack.com)
- - date_published: 2024-07-20T21:33:12.403672+00:00
-
- ## Raising Dust  | Toby Tremlett | Substack
- - [https://raisingdust.substack.com](https://raisingdust.substack.com)
- - date_published: 2024-08-18T19:40:15.201328+00:00
-
- ## Rajan’s Substack | Rajan Sheth | Substack
- - [https://rajansheth.substack.com](https://rajansheth.substack.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Imperfect Information | Rajiv Sethi | Substack
- - [https://rajivsethi.substack.com](https://rajivsethi.substack.com)
- - date_published: 2024-12-25T16:18:22.403885+00:00
 

@@ -1,3 +1,7 @@
+ ## Update Kolom Terkini- Kompas.com
+ - [https://kolom.kompas.com](https://kolom.kompas.com)
+ - date_published: 2025-02-03T20:57:26.408661+00:00
+
  ## Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com
  - [https://kompas.com](https://kompas.com)
  - date_published: 2025-02-03T20:58:30.164606+00:00
@@ -4084,8 +4088,4 @@
  ## 酷狗直播 | 就是歌手多
  - [http://fanxing.kugou.com](http://fanxing.kugou.com)
  - date_published: 2025-02-03T22:49:01.936710+00:00
-
- ## 虚拟歌曲制作-虚拟歌手-作词作曲-虚拟偶像-酷狗音乐歌叽歌叽
- - [https://gejigeji.kugou.com](https://gejigeji.kugou.com)
- - date_published: 2025-02-03T22:48:46.700125+00:00
 

@@ -1,3 +1,7 @@
+ ## The Best Quiz maker, calculator builder and chatbot creator for marketers
+ - [https://outgrow.co](https://outgrow.co)
+ - date_published: 2024-09-10T10:34:32+00:00
+
  ## Outloud ~ Ideas Made Great
  - [https://outloud.co](https://outloud.co)
  - date_published: 2024-08-26T00:00:00+00:00
@@ -4070,9 +4074,4 @@
  ## Vibho
  - [https://tconsult.co](https://tconsult.co)
  - date_published: 2024-09-25T10:12:01.494174+00:00
-
- ## Design Beautiful Digital Products with Teachery | Simplify Digital Product Creation
- - [https://www.teachery.co](https://www.teachery.co)
- - date_published: 2024-08-29T00:00:00+00:00
- - date_dead_since: 2025-01-17T10:58:53.755186+00:00
 

@@ -1,3 +1,27 @@
+ ## Time Off Management
+ - [https://app.timeoff.management](https://app.timeoff.management)
+ - date_published: 2024-06-19T22:20:13.769525+00:00
+
+ ## TimeOff.Management - Simplify Leave and Absence Tracking
+ - [https://timeoff.management](https://timeoff.management)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## UTXO Management
+ - [https://www.utxo.management](https://www.utxo.management)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Adtarget Control Panel
+ - [https://adtarget.market](https://adtarget.market)
+ - date_published: 2024-06-25T22:42:36.241225+00:00
+
+ ## ArtCloud | All in one art management system for artists and galleries
+ - [https://artcloud.market](https://artcloud.market)
+ - date_published: 2024-12-21T08:35:49.553911+00:00
+
+ ## BEX Market
+ - [https://bex.market](https://bex.market)
+ - date_published: 2025-01-30T16:40:22.594143+00:00
+
  ## 転送サービス - BEX
  - [https://fw.bex.market](https://fw.bex.market)
  - date_published: 2025-01-30T16:40:51.432864+00:00
@@ -4047,28 +4071,4 @@
  ## Piano Genie
  - [https://piano-genie.glitch.me](https://piano-genie.glitch.me)
  - date_published: 2019-10-29T20:55:13+00:00
-
- ## Pixel View
- - [https://pixel-view.glitch.me](https://pixel-view.glitch.me)
- - date_published: 2024-08-06T06:52:09+00:00
-
- ## Nodepp ─ Asynchronous C++
- - [https://plaid-aspiring-line.glitch.me](https://plaid-aspiring-line.glitch.me)
- - date_published: 2024-09-14T07:42:10.948542+00:00
-
- ## Push the squares
- - [https://pushing-tables.glitch.me](https://pushing-tables.glitch.me)
- - date_published: 2021-10-05T09:16:46+00:00
-
- ## Python Release Cycle
- - [https://python-release-cycle.glitch.me](https://python-release-cycle.glitch.me)
- - date_published: 2024-05-01T07:25:52+00:00
-
- ## forget your umbrella
- - [https://raindear.glitch.me](https://raindear.glitch.me)
- - date_published: 2021-05-09T22:00:26+00:00
-
- ## HTTPArchive DOM Explorer
- - [https://rainy-periwinkle.glitch.me](https://rainy-periwinkle.glitch.me)
- - date_published: 2024-10-21T13:56:48+00:00
 

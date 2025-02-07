@@ -1,3 +1,27 @@
+ ## Home
+ - [https://privacy.umbc.edu](https://privacy.umbc.edu)
+ - date_published: 2024-12-30T10:55:51.573529+00:00
+
+ ## Welcome to the Office of the Provost and Senior Vice President for Academic Affairs
+ - [https://provost.umbc.edu](https://provost.umbc.edu)
+ - date_published: 2024-07-02T03:34:05.882377+00:00
+
+ ## Department of Computer Science and Electrical Engineering
+ - [https://redirect.cs.umbc.edu](https://redirect.cs.umbc.edu)
+ - date_published: 2024-05-26T18:42:18.246666+00:00
+
+ ## Home
+ - [https://registrar.umbc.edu](https://registrar.umbc.edu)
+ - date_published: 2024-05-07T21:25:57.683613+00:00
+
+ ## Research and Creative Achievement at UMBC
+ - [https://research.umbc.edu](https://research.umbc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home
+ - [https://reslife.umbc.edu](https://reslife.umbc.edu)
+ - date_published: 2024-05-07T21:25:28.582851+00:00
+
  ## Credit When It's Due – UMBC
  - [https://reverseaward.umbc.edu](https://reverseaward.umbc.edu)
  - date_published: 2024-07-02T03:34:07.474689+00:00
@@ -3990,28 +4014,4 @@ Center for Information Technology Integration
  ## Course Search
  - [https://courses.unh.edu](https://courses.unh.edu)
  - date_published: 2024-09-15T12:01:47+00:00
-
- ## College of Professional Studies | University of New Hampshire
- - [https://cps.unh.edu](https://cps.unh.edu)
- - date_published: 2025-02-01T01:50:06.516661+00:00
-
- ## Explore UNH
- - [https://explore.unh.edu](https://explore.unh.edu)
- - date_published: 2024-09-15T19:36:08+00:00
-
- ## Find Scholars @ UNH
- - [https://findscholars.unh.edu](https://findscholars.unh.edu)
- - date_published: 2024-09-15T19:36:39.042006+00:00
-
- ## UNH Graduate School | University of New Hampshire
- - [https://gradschool.unh.edu](https://gradschool.unh.edu)
- - date_published: 2024-09-15T19:37:30.606605+00:00
-
- ## UNH InterOperability Laboratory
- - [https://iol.unh.edu](https://iol.unh.edu)
- - date_published: 2024-07-06T23:44:13+00:00
-
- ## Franklin Pierce School of Law | University of New Hampshire
- - [https://law.unh.edu](https://law.unh.edu)
- - date_published: 2024-09-15T19:36:49.634445+00:00
 

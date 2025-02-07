@@ -1,3 +1,31 @@
+ ## Brooklyn Public Library
+ - [https://bklynlibrary.org](https://bklynlibrary.org)
+ - date_published: 2023-10-25T21:02:53.786581+00:00
+
+ ## Search Brooklyn Public Library
+ - [https://discover.bklynlibrary.org](https://discover.bklynlibrary.org)
+ - date_published: 2024-06-20T11:44:20.246645+00:00
+
+ ## Brooklyn Public Library
+ - [https://donate.bklynlibrary.org](https://donate.bklynlibrary.org)
+ - date_published: 2024-08-18T19:27:18+00:00
+
+ ## Welcome to the Brooklyn Public Library Shop
+ - [https://shop.bklynlibrary.org](https://shop.bklynlibrary.org)
+ - date_published: 2024-08-18T20:42:14.792198+00:00
+
+ ## Black AIDS Institute
+ - [https://blackaids.org](https://blackaids.org)
+ - date_published: 2024-07-19T20:14:05.142991+00:00
+
+ ## BlackArch Linux - Penetration Testing Distribution
+ - [https://blackarch.org](https://blackarch.org)
+ - date_published: 2024-06-17T20:33:59+00:00
+
+ ## Home - Black Archives of Mid-America in Kansas City
+ - [http://www.blackarchives.org](http://www.blackarchives.org)
+ - date_published: 2024-12-31T15:53:41.147699+00:00
+
  ## BlackBirdie 2024
  - [https://blackbirdie.org](https://blackbirdie.org)
  - date_published: 2024-08-09T17:35:58+00:00
@@ -4002,32 +4030,4 @@ Issues
  ## Home - CAI Exchange Community
  - [https://exchange.caionline.org](https://exchange.caionline.org)
  - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home - Foundation for Community Association Research
- - [https://foundation.caionline.org](https://foundation.caionline.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## HOAresources
- - [https://hoaresources.caionline.org](https://hoaresources.caionline.org)
- - date_published: 2024-07-09T07:13:06.126857+00:00
-
- ## Community Jobs - CAI Job Market
- - [http://jobs.caionline.org](http://jobs.caionline.org)
- - date_published: 2024-07-09T07:13:27.867744+00:00
-
- ## Community Associations Institute
- - [https://www.caionline.org](https://www.caionline.org)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Index of /
- - [https://assets.caip.org](https://assets.caip.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Center for AI Policy (CAIP)
- - [https://www.caip.org](https://www.caip.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## www.cairnsnews.org
- - [https://cairnsnews.org](https://cairnsnews.org)
- - date_published: 2024-12-27T19:42:56.186599+00:00
 

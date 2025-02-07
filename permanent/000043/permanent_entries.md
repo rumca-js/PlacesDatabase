@@ -1,3 +1,7 @@
+ ## Biblioteca Digital - CESA
+ - [https://repository.cesa.edu.co](https://repository.cesa.edu.co)
+ - date_published: 2024-09-11T16:52:11.376121+00:00
+
  ## CESA | Colegio de Estudios Superiores de Administración
  - [https://www.cesa.edu.co](https://www.cesa.edu.co)
  - date_published: 2024-12-09T18:28:11.741551+00:00
@@ -4064,8 +4068,4 @@
  ## front
  - [https://sedeelectronica.sic.gov.co](https://sedeelectronica.sic.gov.co)
  - date_published: 2024-09-09T21:41:15+00:00
-
- ## Superintendencia de Industria y Comercio.
- - [https://sic.gov.co](https://sic.gov.co)
- - date_published: 2024-06-11T22:14:24+00:00
 

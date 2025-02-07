@@ -1,3 +1,27 @@
+ ## סודהסטרים ישראל האתר הרשמי: מכשירי סודה
+ - [https://www.sodastream.co.il](https://www.sodastream.co.il)
+ - date_published: 2025-02-04T21:04:08.711501+00:00
+
+ ## סוליטר ברשת - משחקי קלפים, סוליטר, פריסל ועוד
+ - [https://www.solnet.co.il](https://www.solnet.co.il)
+ - date_published: 2025-01-23T19:00:59.167051+00:00
+
+ ## Sony ישראל | חדשות הטכנולוגיה העדכניות | אלקטרוניקה | בידור
+ - [https://sony.co.il](https://sony.co.il)
+ - date_published: 2024-10-21T07:38:51.561235+00:00
+
+ ## Sony Semiconductor Israel
+ - [https://sony-semicon.co.il](https://sony-semicon.co.il)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## מרכז הספורט והנופש – אוניברסיטת בן גוריון בנגב
+ - [https://sp7.co.il](https://sp7.co.il)
+ - date_published: 2024-05-11T09:09:15.605054+00:00
+
+ ## אחסון אתרים אמין ואיכותי | SPD Hosting
+ - [https://www.spd.co.il](https://www.spd.co.il)
+ - date_published: 2024-08-09T00:59:14+00:00
+
  ## ספורט 5 - חדשות ספורט, תוצאות, תקצירים ושידורים מישראל ומהעולם
  - [https://www.sport5.co.il](https://www.sport5.co.il)
  - date_published: 2024-10-28T20:50:20.062344+00:00
@@ -4002,28 +4026,4 @@ Indian Institute of Science, Bangalore
  ## Home | Shri Lal Bahadur Shastri National Sanskrit University
  - [https://slbsrsv.ac.in](https://slbsrsv.ac.in)
  - date_published: 2024-09-11T00:00:00+00:00
-
- ## Sant Longowal Institute of Engineering & Technology
- - [http://sliet.ac.in](http://sliet.ac.in)
- - date_published: 2024-09-11T17:50:26.037440+00:00
-
- ## Home | SPA
- - [https://spa.ac.in](https://spa.ac.in)
- - date_published: 2024-09-11T17:59:19.943565+00:00
-
- ## Dept. of Architecture
- - [https://ar.spab.ac.in](https://ar.spab.ac.in)
- - date_published: 2024-12-24T19:57:10.928474+00:00
-
- ## Department of Conservation,SPA Bhopal
- - [https://conservation.spab.ac.in](https://conservation.spab.ac.in)
- - date_published: 2024-12-24T19:57:02.695408+00:00
-
- ## Department of Landscape @SPA Bhopal
- - [https://landscape.spab.ac.in](https://landscape.spab.ac.in)
- - date_published: 2024-12-24T19:56:05.068643+00:00
-
- ## Placement @ SPA Bhopal
- - [https://placement.spab.ac.in](https://placement.spab.ac.in)
- - date_published: 2024-12-24T19:56:20.442579+00:00
 

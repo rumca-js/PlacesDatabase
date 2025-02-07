@@ -1,3 +1,7 @@
+ ## Superintendencia de Industria y Comercio.
+ - [https://sic.gov.co](https://sic.gov.co)
+ - date_published: 2024-06-11T22:14:24+00:00
+
  ## SIPI-INICIO
  - [http://sipi.sic.gov.co](http://sipi.sic.gov.co)
  - date_published: 2024-09-10T10:58:38.067508+00:00
@@ -4037,8 +4041,4 @@
  ## Test Page for the Nginx HTTP Server on the Amazon Linux AMI
  - [https://c.1password.com](https://c.1password.com)
  - date_published: 2023-10-13T13:29:57+00:00
-
- ## 1Password Developer
- - [https://developer.1password.com](https://developer.1password.com)
- - date_published: 2024-05-04T15:49:02.959792+00:00
 

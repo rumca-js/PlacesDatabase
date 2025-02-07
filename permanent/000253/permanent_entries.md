@@ -1,3 +1,19 @@
+ ## Studio Wildcard
+ - [http://jesse-rapczak-06f6.squarespace.com](http://jesse-rapczak-06f6.squarespace.com)
+ - date_published: 2024-09-09T22:34:12.012135+00:00
+
+ ## Jessica Durrant Illustration
+ - [https://jessica-durrant.squarespace.com](https://jessica-durrant.squarespace.com)
+ - date_published: 2024-07-17T12:49:38.166878+00:00
+
+ ## jessica stone & co
+ - [https://jessicastoneco.squarespace.com](https://jessicastoneco.squarespace.com)
+ - date_published: 2025-01-21T11:37:19.616156+00:00
+
+ ## Jillian Kaye Art
+ - [https://jilliankayeart.squarespace.com](https://jilliankayeart.squarespace.com)
+ - date_published: 2024-08-19T21:04:31.844834+00:00
+
  ## Jimmy DiResta
  - [https://jimmy-diresta.squarespace.com](https://jimmy-diresta.squarespace.com)
  - date_published: 2024-09-05T17:45:16.108087+00:00
@@ -3987,20 +4003,4 @@
  ## Theo Soares
  - [https://theo-soares.squarespace.com](https://theo-soares.squarespace.com)
  - date_published: 2025-01-16T13:25:43.979774+00:00
-
- ## Performing Arts Venue & Movie Theater: South Mpls – Parkway Theater
- - [https://theparkwaytheater.squarespace.com](https://theparkwaytheater.squarespace.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Colorado Cycling Events - The Ride Collective
- - [https://theridecollective.squarespace.com](https://theridecollective.squarespace.com)
- - date_published: 2024-06-15T11:55:55.366995+00:00
-
- ## The Social Radars
- - [https://thesocialradars.squarespace.com](https://thesocialradars.squarespace.com)
- - date_published: 2024-05-06T14:30:07.864794+00:00
-
- ## The Town Hall
- - [http://thetownhall.squarespace.com](http://thetownhall.squarespace.com)
- - date_published: 2024-07-13T11:21:47.479266+00:00
 

@@ -1,3 +1,27 @@
+ ## Urbia - Wir lieben Familie
+ - [https://urbia.de](https://urbia.de)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Coalition for Action 'Copyright for Education and Research'
+ - [https://urheberrechtsbuendnis.de](https://urheberrechtsbuendnis.de)
+ - date_published: 2024-05-11T07:48:14.074602+00:00
+
+ ## Urkommunismus Home
+ - [http://urkommunismus.de](http://urkommunismus.de)
+ - date_published: 2019-03-08T09:47:56+00:00
+
+ ## Ur-Krostitzer Onlineshop
+ - [https://shop.ur-krostitzer.de](https://shop.ur-krostitzer.de)
+ - date_published: 2024-12-10T17:27:47.923747+00:00
+
+ ## Ur-Krostitzer | Start
+ - [https://ur-krostitzer.de](https://ur-krostitzer.de)
+ - date_published: 2024-06-10T08:28:05+00:00
+
+ ## Ur-Krostitzer Onlineshop
+ - [https://www.ur-krostitzer-shop.de](https://www.ur-krostitzer-shop.de)
+ - date_published: 2024-12-10T17:27:49.598747+00:00
+
  ## UR Library Services - Universität Regensburg
  - [https://ur-library.de](https://ur-library.de)
  - date_published: 2024-12-10T15:45:00.951472+00:00
@@ -4004,28 +4028,4 @@ Bibliotheken / Z39.50
  ## MEDIA, KOMMUNIKATIONS- & MARKETING-BERATUNG | ZENITH
  - [https://www.zenithmedia.de](https://www.zenithmedia.de)
  - date_published: 2024-06-25T23:15:47.144528+00:00
-
- ## (Studio) Daniel Zenker | Konzeption und Gestaltung
- - [https://zenkerdaniel.de](https://zenkerdaniel.de)
- - date_published: 2024-07-12T16:38:40.585311+00:00
-
- ## Zenz Solutions
- - [https://www.zenz-solutions.de](https://www.zenz-solutions.de)
- - date_published: 2020-11-11T17:57:52+00:00
-
- ## Zeppelinflug
- - [https://zeppelin-nt.de](https://zeppelin-nt.de)
- - date_published: 2024-07-15T04:51:08.655197+00:00
-
- ## Startseite
- - [https://www.zeroone.de](https://www.zeroone.de)
- - date_published: 2024-10-19T19:44:19.676189+00:00
-
- ## ZertifikateAwards
- - [http://www.zertifikateawards.de](http://www.zertifikateawards.de)
- - date_published: 2024-09-27T10:25:50.945654+00:00
-
- ## Zettelkasten Forum
- - [https://forum.zettelkasten.de](https://forum.zettelkasten.de)
- - date_published: 2024-08-11T10:13:04.100494+00:00
 

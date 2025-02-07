@@ -1,3 +1,7 @@
+ ## Houston Mirror | Continuously updating Houston News
+ - [http://www.houstonmirror.com](http://www.houstonmirror.com)
+ - date_published: 2024-07-13T22:57:09.100361+00:00
+
  ## Houston Press | The Leading Independent News Source in Houston, Texas
  - [https://www.houstonpress.com](https://www.houstonpress.com)
  - date_published: 2024-07-04T04:56:10+00:00
@@ -4018,8 +4022,4 @@
  ## The Hungry Runner Girl - It's rude to count people as you pass them... out loud
  - [http://hungryrunnergirl.com](http://hungryrunnergirl.com)
  - date_published: 2024-12-11T12:39:59.654720+00:00
-
- ## Hungry with Ideas | Anna Muckerman | Substack
- - [https://www.hungrywithideas.com](https://www.hungrywithideas.com)
- - date_published: 2024-06-13T00:00:00+00:00
 

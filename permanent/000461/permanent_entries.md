@@ -1,3 +1,31 @@
+ ## Home - Foundation for Community Association Research
+ - [https://foundation.caionline.org](https://foundation.caionline.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## HOAresources
+ - [https://hoaresources.caionline.org](https://hoaresources.caionline.org)
+ - date_published: 2024-07-09T07:13:06.126857+00:00
+
+ ## Community Jobs - CAI Job Market
+ - [http://jobs.caionline.org](http://jobs.caionline.org)
+ - date_published: 2024-07-09T07:13:27.867744+00:00
+
+ ## Community Associations Institute
+ - [https://www.caionline.org](https://www.caionline.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Index of /
+ - [https://assets.caip.org](https://assets.caip.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Center for AI Policy (CAIP)
+ - [https://www.caip.org](https://www.caip.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## www.cairnsnews.org
+ - [https://cairnsnews.org](https://cairnsnews.org)
+ - date_published: 2024-12-27T19:42:56.186599+00:00
+
  ## cairographics.org
  - [https://cairographics.org](https://cairographics.org)
  - date_published: 2023-09-23T14:57:14+00:00
@@ -3999,32 +4027,4 @@ The CCSDS Collaborative Work Environment (CWE)
  ## CGPress - Get the latest CG news
  - [http://cgpress.org](http://cgpress.org)
  - date_published: 2024-06-22T00:00:00+00:00
-
- ## CGRAN
- - [http://cgran.org](http://cgran.org)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## About CGRD
- - [http://www.cgrd.org](http://www.cgrd.org)
- - date_published: 2024-10-29T16:41:14+00:00
-
- ## CGSecurity - Data recovery: TestDisk & PhotoRec
- - [https://cgsecurity.org](https://cgsecurity.org)
- - date_published: 2024-02-22T20:17:23+00:00
-
- ## cgsecurity.org - Index page
- - [https://forum.cgsecurity.org](https://forum.cgsecurity.org)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## The National Voice for Graduate Education - CGS
- - [https://cgsnet.org](https://cgsnet.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 3D & Animation online courses for creative professionals | Domestika
- - [http://aivlis.cgsociety.org](http://aivlis.cgsociety.org)
- - date_published: 2024-08-19T12:52:29.848706+00:00
-
- ## 3D & Animation online courses for creative professionals | Domestika
- - [http://cgsociety.org](http://cgsociety.org)
- - date_published: 2024-08-10T23:17:10.324053+00:00
 

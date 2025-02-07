@@ -1,3 +1,7 @@
+ ## Not your average lifestyle store
+ - [https://designlifekids.com](https://designlifekids.com)
+ - date_published: 2024-07-09T06:28:49.267188+00:00
+
  ## Home
  - [https://www.designlinesmagazine.com](https://www.designlinesmagazine.com)
  - date_published: 2024-08-08T00:00:00+00:00
@@ -4016,8 +4020,4 @@ A blog about programming, distributed systems and others
  ## DHgate - Buy China Wholesale Products Online Shopping from China Suppliers.
  - [https://m.dhgate.com](https://m.dhgate.com)
  - date_published: 2024-07-09T10:09:18.296458+00:00
-
- ## DHgate - Officiële Site - Koop Online Producten Voor Groothandel in China
- - [https://nl.dhgate.com](https://nl.dhgate.com)
- - date_published: 2024-07-09T10:09:23.395339+00:00
 

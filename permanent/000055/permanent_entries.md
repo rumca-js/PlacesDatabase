@@ -1,3 +1,7 @@
+ ## Home Page
+ - [https://annaluisapetrisko.com](https://annaluisapetrisko.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
  ## Anna Jean McDougall | Technical Speaker | Author of "You Belong in Tech"
  - [https://annamcdougall.com](https://annamcdougall.com)
  - date_published: 2024-10-27T23:12:01.306890+00:00
@@ -4035,8 +4039,4 @@ my personal blog
  ## Home | All-Party Parliamentary Group for Future Generations
  - [https://appgfuturegenerations.com](https://appgfuturegenerations.com)
  - date_published: 2024-06-21T11:41:08.068427+00:00
-
- ## Build Business Growth with Higher-Quality New Users - AppGrowth
- - [https://appgrowth.com](https://appgrowth.com)
- - date_published: 2023-09-17T23:28:59+00:00
 

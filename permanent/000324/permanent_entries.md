@@ -1,3 +1,27 @@
+ ## Dr. Martin Loetzsch, Berlin
+ - [https://martin-loetzsch.de](https://martin-loetzsch.de)
+ - date_published: 2024-05-21T09:33:21+00:00
+
+ ## Martin Wecke ● Design Code Lab
+ - [https://martinwecke.de](https://martinwecke.de)
+ - date_published: 2024-05-01T04:00:04.596423+00:00
+
+ ## Text
+ - [https://text.marvinborner.de](https://text.marvinborner.de)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Gitea
+ - [https://git.marvinjohanning.de](https://git.marvinjohanning.de)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Marvin Johanning's personal website
+ - [https://marvinjohanning.de](https://marvinjohanning.de)
+ - date_published: 2024-09-03T23:13:01.121155+00:00
+
+ ## marx21 - Magazin für internationalen Sozialismus
+ - [http://marx21.de](http://marx21.de)
+ - date_published: 2024-12-31T14:57:25.842693+00:00
+
  ## marx21 - Magazin für internationalen Sozialismus
  - [http://www.marx21.de](http://www.marx21.de)
  - date_published: 2024-10-21T18:08:37.688946+00:00
@@ -3984,29 +4008,4 @@
  ## Nuntiovolo.de
  - [https://nuntiovolo.de](https://nuntiovolo.de)
  - date_published: 2025-01-16T14:47:55.439549+00:00
-
- ## Nupita - [nu:b i:ta]
- - [https://nupita.de](https://nupita.de)
- - date_published: 1999-01-01T00:00:00+00:00
- - tags: ['personal']
-
- ## nurderTim - Punkrock und Nerdtum.
- - [https://nurdertim.de](https://nurdertim.de)
- - date_published: 2025-01-21T00:40:50.436794+00:00
-
- ## Offizielle Website | nutella® Deutschland | Official Website
- - [http://www.nutella.de](http://www.nutella.de)
- - date_published: 2024-10-25T10:56:29+00:00
-
- ## Produktionsoptimierung | Nuveon Gmbh
- - [https://www.nuveon.de](https://www.nuveon.de)
- - date_published: 2024-07-08T14:06:34.810199+00:00
-
- ## NVivo – Top Preise, Training und Support
- - [https://nvivo.de](https://nvivo.de)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Log in | NVL
- - [https://campaign.nvl.de](https://campaign.nvl.de)
- - date_published: 2024-05-09T06:24:00.098158+00:00
 

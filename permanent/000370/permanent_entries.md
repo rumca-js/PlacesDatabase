@@ -1,3 +1,27 @@
+ ## Le Parisien
+ - [https://kiosque.leparisien.fr](https://kiosque.leparisien.fr)
+ - date_published: 2022-11-29T13:43:18+00:00
+
+ ## Actualités en direct et info en continu - Le Parisien
+ - [https://leparisien.fr](https://leparisien.fr)
+ - date_published: 2024-05-06T22:49:15.455779+00:00
+
+ ## Blog Vin - Les Grappes x Le Parisien
+ - [http://lesgrappes.leparisien.fr](http://lesgrappes.leparisien.fr)
+ - date_published: 2025-01-31T16:55:01.127554+00:00
+
+ ## Petites annonces, actu immobilière, emploi et business
+ - [http://petites-annonces.leparisien.fr](http://petites-annonces.leparisien.fr)
+ - date_published: 2025-01-31T16:55:07.150699+00:00
+
+ ## Le Parisien - Le Parisien - Podcasts
+ - [https://podcasts.leparisien.fr](https://podcasts.leparisien.fr)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Programme TV et Replay avec LeParisien.fr
+ - [https://programme-tv.leparisien.fr](https://programme-tv.leparisien.fr)
+ - date_published: 2024-06-28T13:12:39.520062+00:00
+
  ## Ventes aux enchères immobilières en France
  - [https://ventes-aux-encheres.leparisien.fr](https://ventes-aux-encheres.leparisien.fr)
  - date_published: 2024-06-28T13:12:48.065422+00:00
@@ -4032,28 +4056,4 @@ France - Bienvenue sur le site des pluies extrêmes
  ## Accueil | Data Emploi
  - [https://dataemploi.pole-emploi.fr](https://dataemploi.pole-emploi.fr)
  - date_published: 2024-12-22T05:59:52.806505+00:00
-
- ## Domaines, champs de formation et formacodes pour le territoire FRANCE (National) | Data Emploi
- - [https://diagnostic-formation.pole-emploi.fr](https://diagnostic-formation.pole-emploi.fr)
- - date_published: 2024-12-22T05:59:50.101205+00:00
-
- ## France Travail Entreprise - Services d'aide au recrutement
- - [https://entreprise.pole-emploi.fr](https://entreprise.pole-emploi.fr)
- - date_published: 2024-09-15T20:16:37.976177+00:00
-
- ## Accueil France Travail | France Travail
- - [https://pole-emploi.fr](https://pole-emploi.fr)
- - date_published: 2024-06-15T01:05:07.811871+00:00
-
- ## Politis.fr - Média 100% indépendant et engagé
- - [http://www.politis.fr](http://www.politis.fr)
- - date_published: 2024-07-08T16:27:17.281317+00:00
-
- ## Pôle de compétitivité des caoutchoucs, plastiques et composites
- - [https://www.polymeris.fr](https://www.polymeris.fr)
- - date_published: 2025-01-23T20:15:25.192537+00:00
-
- ## LIX - Homepage
- - [http://www.lix.polytechnique.fr](http://www.lix.polytechnique.fr)
- - date_published: 2024-07-04T11:17:56.109738+00:00
 

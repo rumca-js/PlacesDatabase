@@ -1,3 +1,7 @@
+ ## Magic Carpet Burn
+ - [http://magiccarpetburn.blogspot.com](http://magiccarpetburn.blogspot.com)
+ - date_published: 2011-11-15T13:14:00+00:00
+
  ## Magic, maths and money
  - [http://magic-maths-money.blogspot.com](http://magic-maths-money.blogspot.com)
  - date_published: 2024-03-13T15:11:15+00:00
@@ -4006,8 +4010,4 @@
  ## Munguin's Republic
  - [http://munguinsrepublic.blogspot.com](http://munguinsrepublic.blogspot.com)
  - date_published: 2024-03-25T06:09:38+00:00
-
- ## The Muqata
- - [http://muqata.blogspot.com](http://muqata.blogspot.com)
- - date_published: 2024-06-09T19:25:26+00:00
 

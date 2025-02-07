@@ -1,3 +1,19 @@
+ ## Tipping Point New Mexico
+ - [https://tippingpointnm.com](https://tippingpointnm.com)
+ - date_published: 2025-01-31T22:28:34.326436+00:00
+
+ ## Tipping The Scales
+ - [https://tippingthescales.com](https://tippingthescales.com)
+ - date_published: 2024-06-26T08:30:08.223844+00:00
+
+ ## tippinsights
+ - [https://tippinsights.com](https://tippinsights.com)
+ - date_published: 2024-06-29T10:52:32.936830+00:00
+
+ ## David Tippett – Medium
+ - [https://blog.tippybits.com](https://blog.tippybits.com)
+ - date_published: 2024-12-02T11:58:35.232526+00:00
+
  ## TipRanks Financial Blog – Investment News
  - [https://blog.tipranks.com](https://blog.tipranks.com)
  - date_published: 2024-07-16T00:00:00+00:00
@@ -4019,20 +4035,4 @@
  ## Home | Topaz Labs Docs
  - [https://docs.topazlabs.com](https://docs.topazlabs.com)
  - date_published: 2024-10-30T09:42:49.252820+00:00
-
- ## Topaz Labs | Professional-grade photo and video editing powered by AI.
- - [https://topazlabs.com](https://topazlabs.com)
- - date_published: 2024-10-29T20:51:36+00:00
-
- ## home - TOPAZ LYON
- - [https://topazlyon.com](https://topazlyon.com)
- - date_published: 2022-03-29T11:28:35+00:00
-
- ## Topaz Systems - Electronic Signature Pads and Software
- - [https://topazsystems.com](https://topazsystems.com)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## TopBettingLists - Tu guía de apuestas deportivas en 2024
- - [https://topbettinglists.com](https://topbettinglists.com)
- - date_published: 2025-01-01T12:51:03.630238+00:00
 

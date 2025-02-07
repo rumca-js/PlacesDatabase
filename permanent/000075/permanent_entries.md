@@ -1,3 +1,7 @@
+ ## Annette Bednosky's blog
+ - [https://annettebednosky.blogspot.com](https://annettebednosky.blogspot.com)
+ - date_published: 2024-10-09T01:28:01+00:00
+
  ## Writing, etc.
  - [https://annettedashofy.blogspot.com](https://annettedashofy.blogspot.com)
  - date_published: 2024-10-17T22:59:50.662802+00:00
@@ -4004,8 +4008,4 @@
  ## Blenheim to Berlin
  - [http://blenheimtoberlin.blogspot.com](http://blenheimtoberlin.blogspot.com)
  - date_published: 2024-11-01T10:35:21+00:00
-
- ## Blessings of the Dice Gods
- - [http://blessingsofthedicegods.blogspot.com](http://blessingsofthedicegods.blogspot.com)
- - date_published: 2024-07-11T18:30:30+00:00
 

@@ -1,3 +1,27 @@
+ ## Beranda - Keluarga Alumni UNSOED
+ - [http://alumni.unsoed.ac.id](http://alumni.unsoed.ac.id)
+ - date_published: 2024-06-16T15:36:50.007840+00:00
+
+ ## Survey FISIP Unsoed – help us to be better
+ - [http://survey.fisip.unsoed.ac.id](http://survey.fisip.unsoed.ac.id)
+ - date_published: 2024-06-16T15:30:37.915567+00:00
+
+ ## Beranda
+ - [http://ppid.untan.ac.id](http://ppid.untan.ac.id)
+ - date_published: 2024-10-11T13:19:28.621421+00:00
+
+ ## BUKK UNTIRTA – Universitas Sultan Ageng Tirtayasa
+ - [https://bukk.untirta.ac.id](https://bukk.untirta.ac.id)
+ - date_published: 2023-07-13T03:49:56+00:00
+
+ ## UNUD | Universitas Udayana
+ - [https://www.unud.ac.id](https://www.unud.ac.id)
+ - date_published: 2025-01-21T14:15:45.874557+00:00
+
+ ## Penerbit Fakultas Pertanian Universitas KH. A. Wahab Hasbullah – Alamat: Jalan Garuda no. 09 Tambakberas Jombang
+ - [https://faperta-publisher.unwaha.ac.id](https://faperta-publisher.unwaha.ac.id)
+ - date_published: 2024-10-11T12:03:49.259795+00:00
+
  ## BD - Bisnis DIgital
  - [https://bisnisdigital.upertis.ac.id](https://bisnisdigital.upertis.ac.id)
  - date_published: 2024-12-24T16:30:59.939523+00:00
@@ -3978,28 +4002,4 @@
  ## Careers at Deliveroo - Discover a career full of possibility
  - [https://careers.deliveroo.ie](https://careers.deliveroo.ie)
  - date_published: 2024-04-11T00:00:00+00:00
-
- ## Deliveroo
- - [https://deliveroo.ie](https://deliveroo.ie)
- - date_published: 2024-10-11T14:45:53.961525+00:00
-
- ## Conor Clarke & Company
- - [https://designfactory.ie](https://designfactory.ie)
- - date_published: 2024-10-14T22:07:09.896889+00:00
-
- ## Official Dianetics Site: Buy Hard Cover, Paperback and Audio Books by L. Ron Hubbard. Unlock the Potential of the Human Mind
- - [https://www.dianetics.ie](https://www.dianetics.ie)
- - date_published: 2024-09-04T18:05:11.499265+00:00
-
- ## DIAS Mastodon
- - [https://mastodon.dias.ie](https://mastodon.dias.ie)
- - date_published: 2024-09-10T09:41:15.757634+00:00
-
- ## DigiKey Home
- - [https://digikey.ie](https://digikey.ie)
- - date_published: 2024-05-01T05:05:04.761303+00:00
-
- ## DigiMarCon Dublin 2024 · Dublin · September 5 - 6, 2024 · Digital Marketing, Media and Advertising Conference & Exhibition
- - [https://digimarcondublin.ie](https://digimarcondublin.ie)
- - date_published: 2025-01-25T03:22:32.340110+00:00
 

@@ -1,3 +1,7 @@
+ ## Victorian Musings
+ - [http://kimberlyevemusings.blogspot.com](http://kimberlyevemusings.blogspot.com)
+ - date_published: 2024-06-05T04:46:37+00:00
+
  ## Blogger
  - [http://kimdog.blogspot.com](http://kimdog.blogspot.com)
  - date_published: 2024-10-21T05:26:02.508899+00:00
@@ -4001,8 +4005,4 @@
  ## Magic, Bolters and Rifles
  - [http://magicboltersandrifles.blogspot.com](http://magicboltersandrifles.blogspot.com)
  - date_published: 2024-09-29T03:48:51+00:00
-
- ## Magic Carpet Burn
- - [http://magiccarpetburn.blogspot.com](http://magiccarpetburn.blogspot.com)
- - date_published: 2011-11-15T13:14:00+00:00
 

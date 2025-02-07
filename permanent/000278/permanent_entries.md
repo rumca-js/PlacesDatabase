@@ -1,3 +1,19 @@
+ ## Latest World & National News & Headlines - USATODAY.com
+ - [https://account.tucson.com](https://account.tucson.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Arizona Daily Star | Latest Weekly Ads
+ - [https://circulars.tucson.com](https://circulars.tucson.com)
+ - date_published: 2024-06-25T16:01:12.423851+00:00
+
+ ## Tucson.com - Arizona Daily Star
+ - [https://community.tucson.com](https://community.tucson.com)
+ - date_published: 2024-06-25T16:01:24.534497+00:00
+
+ ## Latest World & National News & Headlines - USATODAY.com
+ - [https://login.tucson.com](https://login.tucson.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
  ## What We Do
  - [https://marketing.tucson.com](https://marketing.tucson.com)
  - date_published: 2024-06-24T03:48:01+00:00
@@ -3988,20 +4004,4 @@
  ## it was morbin' time i made this blog
  - [https://cllooouuuu.tumblr.com](https://cllooouuuu.tumblr.com)
  - date_published: 2024-07-17T09:58:25.805004+00:00
-
- ## C.L. Lynch
- - [https://cllynchauthor.tumblr.com](https://cllynchauthor.tumblr.com)
- - date_published: 2024-07-19T20:13:46.897034+00:00
-
- ## posting whatever makes the brain happy
- - [https://clockwork-garden.tumblr.com](https://clockwork-garden.tumblr.com)
- - date_published: 2024-06-27T03:14:46.998585+00:00
-
- ## Clone rights!
- - [https://clonerightsagenda.tumblr.com](https://clonerightsagenda.tumblr.com)
- - date_published: 2024-07-11T14:02:51.458054+00:00
-
- ## yr good friend justice
- - [https://clothingweapon.tumblr.com](https://clothingweapon.tumblr.com)
- - date_published: 2024-06-27T03:19:08.566606+00:00
 

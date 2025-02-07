@@ -1,3 +1,33 @@
+ ## Abigail Frost, 1951-2009
+ - [https://ajf.ansible.co.uk](https://ajf.ansible.co.uk)
+ - date_published: 2022-06-29T07:34:06+00:00
+ - date_dead_since: 2025-02-01T13:31:36.555945+00:00
+
+ ## Langford Home Page (Pardon?)
+ - [https://ansible.co.uk](https://ansible.co.uk)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Checkpoint Archive
+ - [https://checkpoint.ansible.co.uk](https://checkpoint.ansible.co.uk)
+ - date_published: 2022-06-29T15:05:38+00:00
+ - date_dead_since: 2025-02-01T13:35:29.948504+00:00
+
+ ## Ansible Home/Links
+ - [https://news.ansible.co.uk](https://news.ansible.co.uk)
+ - date_published: 2024-06-24T08:41:35+00:00
+
+ ## Antarctic Design
+ - [https://antarctic-design.co.uk](https://antarctic-design.co.uk)
+ - date_published: 2022-11-27T19:49:49+00:00
+
+ ## Jack Murray-Brown
+ - [https://antiantivirus.co.uk](https://antiantivirus.co.uk)
+ - date_published: 2024-07-18T22:42:23.655584+00:00
+
+ ## New Page 1
+ - [https://anti-dialectics.co.uk](https://anti-dialectics.co.uk)
+ - date_published: 2023-08-29T23:00:07+00:00
+
  ## Scott John Clee - Emmi | LinkedIn
  - [http://antiquearmscollector.co.uk](http://antiquearmscollector.co.uk)
  - date_published: 2024-11-16T19:57:12.690396+00:00
@@ -4034,33 +4064,4 @@ Anglesey - PC Repairs & Upgrades
  ## Biodiversity | Bright Tide
  - [https://bright-tide.co.uk](https://bright-tide.co.uk)
  - date_published: 2024-09-25T10:17:49.334383+00:00
-
- ## Brigitte's Flowers | Wedding Florist London
- - [https://brigitteflowers.co.uk](https://brigitteflowers.co.uk)
- - date_published: 2024-06-29T19:41:53+00:00
-
- ## bring2mind hypnotherapy and psychotherapy in Cumbria.
- - [http://www.bring2mind.co.uk](http://www.bring2mind.co.uk)
- - date_published: 2024-11-16T21:11:28.301511+00:00
-
- ## Bristol Chess Congress
- - [https://bristolcongress.co.uk](https://bristolcongress.co.uk)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Bristol Ideas closed 30 April 2024. We are proud of the work we have done in Bristol. We thank everyone involved for their support, partnership and ideas. - Bristol Ideas
- - [https://www.bristolideas.co.uk](https://www.bristolideas.co.uk)
- - date_published: 2025-02-01T14:10:39.774433+00:00
-
- ## Bristol Live - latest local news, sport & business from Bristol
- - [https://bristolpost.co.uk](https://bristolpost.co.uk)
- - date_published: 2023-10-25T22:51:29.047653+00:00
-
- ## LocalLoves - Meet like-minded singles in your local area
- - [https://datelocally.bristolpost.co.uk](https://datelocally.bristolpost.co.uk)
- - date_published: 2024-05-02T11:22:48.421078+00:00
-
- ## 500
- - [https://i2-prod.bristolpost.co.uk](https://i2-prod.bristolpost.co.uk)
- - date_published: 2024-05-02T11:22:14.301412+00:00
- - date_dead_since: 2025-02-01T21:07:27.426203+00:00
 

@@ -1,3 +1,19 @@
+ ## AFROTECH CONFERENCE 2023
+ - [https://attendee-aftc2023.streampoint.com](https://attendee-aftc2023.streampoint.com)
+ - date_published: 2024-06-15T06:03:12.689982+00:00
+
+ ## AFROTECH CONFERENCE 2024
+ - [https://attendee-aftc2024.streampoint.com](https://attendee-aftc2024.streampoint.com)
+ - date_published: 2024-09-15T11:55:08.754469+00:00
+
+ ## Streampoint Solutions Inc | Event Registration Management Software
+ - [https://streampoint.com](https://streampoint.com)
+ - date_published: 2024-08-29T00:00:00+00:00
+
+ ## Streamr Hub
+ - [https://cdn.streamr.com](https://cdn.streamr.com)
+ - date_published: 2024-06-21T13:09:04+00:00
+
  ## Stream Realty Partners
  - [https://publications.streamrealty.com](https://publications.streamrealty.com)
  - date_published: 2024-10-29T11:40:24.450331+00:00
@@ -4048,21 +4064,4 @@
  ## https://badnewsletter.substack.com
  - [https://badnewsletter.substack.com](https://badnewsletter.substack.com)
  - date_published: 2024-01-21T18:29:58.388675+00:00
-
- ## Bad Software Advice | David Tate | Substack
- - [https://badsoftwareadvice.substack.com](https://badsoftwareadvice.substack.com)
- - date_published: 2023-10-25T09:43:18.720440+00:00
- - tags: ['substack']
-
- ## Founder's reflections | tinychef ACI | Substack
- - [https://bahubali.substack.com](https://bahubali.substack.com)
- - date_published: 2024-05-09T06:52:52.562948+00:00
-
- ## Bailiwick News | Katherine Watt | Substack
- - [https://bailiwicknews.substack.com](https://bailiwicknews.substack.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Balls & Strikes | Jay Willis | Substack
- - [https://ballsandstrikes.substack.com](https://ballsandstrikes.substack.com)
- - date_published: 2024-02-07T00:00:00+00:00
 

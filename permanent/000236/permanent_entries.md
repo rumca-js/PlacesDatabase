@@ -1,3 +1,19 @@
+ ## Help and Documentation - Rootly
+ - [https://docs.rootly.com](https://docs.rootly.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Rootly
+ - [https://rootly.com](https://rootly.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## RootMetrics
+ - [https://rootmetrics.com](https://rootmetrics.com)
+ - date_published: 2024-03-01T06:33:48+00:00
+
+ ## Root of Good
+ - [http://rootofgood.com](http://rootofgood.com)
+ - date_published: 2024-06-30T02:01:38+00:00
+
  ## Pages
  - [https://svc.rootrez.com](https://svc.rootrez.com)
  - date_published: 2024-05-02T10:11:51.889768+00:00
@@ -4025,20 +4041,4 @@ Top End Devs
  - [https://runescape.com](https://runescape.com)
  - date_published: 2024-10-22T10:25:28.087794+00:00
  - tags: ['video game', 'mmorpg']
-
- ## The world of RuneScape
- - [https://secure.runescape.com](https://secure.runescape.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## The world of RuneScape
- - [http://services.runescape.com](http://services.runescape.com)
- - date_published: 2024-10-22T10:25:18.229195+00:00
-
- ## Support
- - [https://support.runescape.com](https://support.runescape.com)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Award Winning Beard Care & Awesome Eyewear | RUNESILK
- - [https://www.runesilk.com](https://www.runesilk.com)
- - date_published: 2024-03-07T00:00:00+00:00
 

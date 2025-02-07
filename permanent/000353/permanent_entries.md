@@ -1,3 +1,27 @@
+ ## Events Calendar - University of Rhode Island
+ - [https://events.uri.edu](https://events.uri.edu)
+ - date_published: 2024-05-07T22:00:25.617130+00:00
+
+ ## Front
+ - [https://homepage.cs.uri.edu](https://homepage.cs.uri.edu)
+ - date_published: 2024-04-29T07:30:06.571009+00:00
+
+ ## Home
+ - [http://housing.uri.edu](http://housing.uri.edu)
+ - date_published: 2025-02-01T07:10:42.469589+00:00
+
+ ## Information Technology Services
+ - [https://its.uri.edu](https://its.uri.edu)
+ - date_published: 2024-07-02T10:47:37.955512+00:00
+
+ ## University Of Rhode Island Applicant Portal | Home
+ - [https://jobs.uri.edu](https://jobs.uri.edu)
+ - date_published: 2024-05-07T22:00:12.816940+00:00
+
+ ## RV Endeavor Home
+ - [https://marineops.gso.uri.edu](https://marineops.gso.uri.edu)
+ - date_published: 2025-01-23T15:51:25.686174+00:00
+
  ## Home / EMS
  - [https://muevents.uri.edu](https://muevents.uri.edu)
  - date_published: 2024-07-02T10:47:31.540146+00:00
@@ -3978,28 +4002,4 @@
  ## Information School | University of Washington
  - [https://ischool.uw.edu](https://ischool.uw.edu)
  - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home – Your source for Workday support
- - [https://isc.uw.edu](https://isc.uw.edu)
- - date_published: 2024-06-15T17:26:23+00:00
-
- ## IT Connect
- - [https://itconnect.uw.edu](https://itconnect.uw.edu)
- - date_published: 2024-05-01T06:18:38.389467+00:00
-
- ## iSchool Knowledge Base | University of Washington Information School
- - [http://kb.ischool.uw.edu](http://kb.ischool.uw.edu)
- - date_published: 2024-08-06T17:05:40+00:00
-
- ## Website: Homepage: Home
- - [https://lib.law.uw.edu](https://lib.law.uw.edu)
- - date_published: 2024-10-18T22:26:28.956566+00:00
-
- ## University of Washington Libraries
- - [https://lib.uw.edu](https://lib.uw.edu)
- - date_published: 2024-05-07T22:27:43.859911+00:00
-
- ## Marine Biology | Marine Biology at the University of Washington
- - [https://marinebiology.uw.edu](https://marinebiology.uw.edu)
- - date_published: 2025-01-10T01:43:13.035704+00:00
 

@@ -1,3 +1,31 @@
+ ## Wb/ht - Wikimedia Incubator
+ - [https://ht.wikibooks.org](https://ht.wikibooks.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wikikönyvek
+ - [https://hu.wikibooks.org](https://hu.wikibooks.org)
+ - date_published: 2024-06-29T14:15:35+00:00
+
+ ## Վիքիգրքեր
+ - [https://hy.wikibooks.org](https://hy.wikibooks.org)
+ - date_published: 2024-07-09T12:21:40+00:00
+
+ ## Western Armenian Wikibooks - Wikimedia Incubator
+ - [https://hyw.wikibooks.org](https://hyw.wikibooks.org)
+ - date_published: 2024-07-12T04:17:22.191693+00:00
+
+ ## Wikibooks
+ - [https://ia.wikibooks.org](https://ia.wikibooks.org)
+ - date_published: 2024-07-09T12:22:02+00:00
+
+ ## Wikibuku
+ - [https://id.wikibooks.org](https://id.wikibooks.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wikibooks
+ - [https://ie.wikibooks.org](https://ie.wikibooks.org)
+ - date_published: 2024-06-27T09:44:45+00:00
+
  ## Igala Wikibooks - Wikimedia Incubator
  - [https://igl.wikibooks.org](https://igl.wikibooks.org)
  - date_published: 2024-07-12T03:19:39.644941+00:00
@@ -3973,32 +4001,4 @@
  ## Wikipedia
  - [https://ss.m.wikipedia.org](https://ss.m.wikipedia.org)
  - date_published: 2024-07-09T12:22:24+00:00
-
- ## Wikipedia
- - [https://ss.wikipedia.org](https://ss.wikipedia.org)
- - date_published: 2024-05-10T04:19:03.926253+00:00
-
- ## Wikipedia
- - [https://st.m.wikipedia.org](https://st.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:24+00:00
-
- ## Wikipedia
- - [https://stq.m.wikipedia.org](https://stq.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:24+00:00
-
- ## Wikipedia
- - [https://stq.wikipedia.org](https://stq.wikipedia.org)
- - date_published: 2024-05-10T04:25:17.578133+00:00
-
- ## Wikipedia
- - [https://st.wikipedia.org](https://st.wikipedia.org)
- - date_published: 2024-05-10T04:18:09.303505+00:00
-
- ## Wikipédia Sunda, énsiklopédi bébas
- - [https://su.m.wikipedia.org](https://su.m.wikipedia.org)
- - date_published: 2024-07-11T10:13:57+00:00
-
- ## Wikipédia Sunda, énsiklopédi bébas
- - [https://su.wikipedia.org](https://su.wikipedia.org)
- - date_published: 2024-05-10T04:28:53.483970+00:00
 

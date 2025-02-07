@@ -1,6 +1,31 @@
 [
     {
         "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-30T23:27:59+00:00",
+        "description": "ASUS is one of Fortune magazine\u2019s World\u2019s Most Admired Companies, and is dedicated to creating products for today and tomorrow\u2019s smart life. Our comprehensive portfolio includes Zenbo, ZenFone, ZenBook and a range of IT devices and components, along with AR, VR and IoT. ASUS employs more than 17,000 people worldwide and over 5,500 world-class R&D talents. Driven by innovation and committed to quality, the company won 4,385 awards and earned approximately US$13.3 billion of revenue in 2016.",
+        "id": 503947,
+        "language": "en",
+        "link": "https://origin-www.asus.com",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://www.asus.com/websites/global/Sno/79183.jpg",
+        "title": "ASUS Global",
+        "vote": 0
+    },
+    {
+        "age": null,
         "album": "https://rog.asus.com",
         "author": "https://rog.asus.com",
         "bookmarked": false,
@@ -18054,9 +18079,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
+            "company",
+            "gatekeeper",
             "audio streaming",
-            "amazon",
-            "company"
+            "amazon"
         ],
         "thumbnail": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/Facebook_Placement_v1_OG_Tag.jpg",
         "title": "Audible.com | Try Audible Free Today",
@@ -25044,31 +25070,6 @@
         "tags": [],
         "thumbnail": "http://cdn-assets.prfct.cc/assets/obits/images/OG-image.jpg",
         "title": "Read recent and archived obituaries and memorial notices from Austin Chronicle.",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": "https://www.austinchronicle.com/Images/fbnoimage2.jpg",
-        "author": null,
-        "bookmarked": false,
-        "comments": [],
-        "date_dead_since": null,
-        "date_published": "2024-10-14T17:15:59+00:00",
-        "description": "The Austin Chronicle is an independent, locally owned and operated alternative newsweekly that reflects the heart and soul of Austin, Texas.",
-        "id": 417060,
-        "language": "en-US",
-        "link": "https://posting.austinchronicle.com",
-        "manual_status_code": 0,
-        "page_rating": 27,
-        "page_rating_contents": 86,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": true,
-        "source_url": "",
-        "status_code": 200,
-        "tags": [],
-        "thumbnail": "https://www.austinchronicle.com/Images/fbnoimage2.jpg",
-        "title": "Austin News, Events, Restaurants, Music - The Austin Chronicle",
         "vote": 0
     }
 ]

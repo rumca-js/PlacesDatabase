@@ -1,3 +1,27 @@
+ ## Home | Fowler Museum at UCLA
+ - [https://fowler.ucla.edu](https://fowler.ucla.edu)
+ - date_published: 2021-04-29T17:08:56+00:00
+
+ ## Index of /
+ - [https://ftp.cs.ucla.edu](https://ftp.cs.ucla.edu)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## UCLA is responding to COVID-19
+ - [https://giveto.ucla.edu](https://giveto.ucla.edu)
+ - date_published: 2024-05-07T20:54:59.420873+00:00
+
+ ## Giving to UCLA
+ - [https://giving.ucla.edu](https://giving.ucla.edu)
+ - date_published: 2024-05-07T20:55:32.392874+00:00
+
+ ## Global Health Program
+ - [https://globalhealth.med.ucla.edu](https://globalhealth.med.ucla.edu)
+ - date_published: 2025-02-01T02:41:10.619336+00:00
+
+ ## Global Public Affairs
+ - [https://global.luskin.ucla.edu](https://global.luskin.ucla.edu)
+ - date_published: 2023-11-20T00:00:00+00:00
+
  ## .::. UCLA Global .::.
  - [https://global.ucla.edu](https://global.ucla.edu)
  - date_published: 2024-07-01T22:56:06+00:00
@@ -3986,28 +4010,4 @@
  ## Home
  - [https://engineering.ucsf.edu](https://engineering.ucsf.edu)
  - date_published: 2024-07-02T01:52:36+00:00
-
- ## Welcome
- - [https://epibiostat.ucsf.edu](https://epibiostat.ucsf.edu)
- - date_published: 2024-07-02T01:53:07+00:00
-
- ## EVCP Organization | Executive Vice Chancellor & Provost
- - [https://evcprovost.ucsf.edu](https://evcprovost.ucsf.edu)
- - date_published: 2024-05-07T21:09:06.650556+00:00
-
- ## Home | Office of Faculty and Academic Affairs
- - [https://facultyacademicaffairs.ucsf.edu](https://facultyacademicaffairs.ucsf.edu)
- - date_published: 2024-07-02T01:29:22+00:00
-
- ## About Our Services
- - [https://fas.ucsf.edu](https://fas.ucsf.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## UCSF Student Financial Services
- - [https://finaid.ucsf.edu](https://finaid.ucsf.edu)
- - date_published: 2024-05-07T21:08:08.320300+00:00
-
- ## Home
- - [http://finance.ucsf.edu](http://finance.ucsf.edu)
- - date_published: 2024-07-02T01:49:53+00:00
 

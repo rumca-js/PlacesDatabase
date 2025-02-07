@@ -1,3 +1,27 @@
+ ## BASIS Europe - The Big Little Software Company - Software und Tools
+ - [https://www.basis-europe.eu](https://www.basis-europe.eu)
+ - date_published: 2024-12-24T09:20:09.581859+00:00
+
+ ## Batchrocket.eu - Introduction
+ - [https://batchrocket.eu](https://batchrocket.eu)
+ - date_published: 2023-10-25T19:08:43.947295+00:00
+
+ ## Battery2030+ - Battery 2030+
+ - [https://battery2030.eu](https://battery2030.eu)
+ - date_published: 2023-10-25T19:08:59.246351+00:00
+
+ ## Startseite - Bauer-Plus
+ - [https://www.bauer-plus.eu](https://www.bauer-plus.eu)
+ - date_published: 2024-07-25T09:47:38.130902+00:00
+
+ ## An Alliance for a Better Future - Bauhaus4EU
+ - [https://www.bauhaus4.eu](https://www.bauhaus4.eu)
+ - date_published: 2024-01-18T13:11:05+00:00
+
+ ## Association of Constitutional Justice of the Countries of the Baltic and Black Sea Regions - Association of Constitutional Justice of the Countries of the Baltic and Black Sea Regions
+ - [http://www.bbcj.eu](http://www.bbcj.eu)
+ - date_published: 2024-06-17T17:10:31.749857+00:00
+
  ## Home - B Lab Europe
  - [https://bcorporation.eu](https://bcorporation.eu)
  - date_published: 2024-12-14T14:15:37+00:00
@@ -3997,29 +4021,4 @@
  ## EuroPython 2024 | July 8th-14th 2024 | Prague, Czech Republic & Remote
  - [https://ep2024.europython.eu](https://ep2024.europython.eu)
  - date_published: 2024-05-07T23:45:17.626112+00:00
-
- ## EuroPython 2024 | July 8th-14th 2024 | Prague, Czech Republic & Remote
- - [https://europython.eu](https://europython.eu)
- - date_published: 2024-05-07T23:46:01.743095+00:00
- - tags: ['conference', 'python']
-
- ## EuroPython Society
- - [https://europython-society.eu](https://europython-society.eu)
- - date_published: 2025-02-04T12:38:49.188616+00:00
-
- ## EuroRust 2024 – October 10th & 11th, Vienna & online
- - [https://eurorust.eu](https://eurorust.eu)
- - date_published: 2024-06-21T05:40:11.876962+00:00
-
- ## Euros / Agency Group - Communication stratégique & affaires publiques - Paris Bruxelles Casablanca
- - [http://eurosagency.eu](http://eurosagency.eu)
- - date_published: 2025-01-17T14:37:36.915991+00:00
-
- ## Home
- - [http://eurotech-universities.eu](http://eurotech-universities.eu)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Home
- - [https://euroteq.eurotech-universities.eu](https://euroteq.eurotech-universities.eu)
- - date_published: 2024-01-24T00:00:00+00:00
 

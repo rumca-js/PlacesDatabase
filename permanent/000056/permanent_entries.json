@@ -1,6 +1,31 @@
 [
     {
         "age": null,
+        "album": "https://appgrowth.com/wp-content/uploads/2023/10/featured.jpg",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2023-09-17T23:28:59+00:00",
+        "description": "AppGrowth Gives User Acquisition Professionals Performance, Unique Audiences and Efficient Buying. Grow your Customer Base with Effective User Acquisition.",
+        "id": 186472,
+        "language": "en-US",
+        "link": "https://appgrowth.com",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://appgrowth.com/wp-content/uploads/2023/10/featured.jpg",
+        "title": "Build Business Growth with Higher-Quality New Users - AppGrowth",
+        "vote": 0
+    },
+    {
+        "age": null,
         "album": "https://appharbr.com/wp-content/uploads/2022/08/1-hero-content.png",
         "author": null,
         "bookmarked": false,
@@ -1791,8 +1816,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
+            "music streaming",
+            "music",
             "apple",
-            "music"
+            "audio streaming"
         ],
         "thumbnail": "https://music.apple.com/assets/meta/apple-music.png",
         "title": "Get millions of songs. All ad-free.",
@@ -25051,31 +25078,6 @@
         "tags": [],
         "thumbnail": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=482",
         "title": "The Boston Globe",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": "https://www.coindesk.com/pf/resources/images/social/dark/facebook.png?d=359",
-        "author": null,
-        "bookmarked": false,
-        "comments": [],
-        "date_dead_since": null,
-        "date_published": "2024-07-14T21:56:02+00:00",
-        "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.",
-        "id": 290784,
-        "language": "en",
-        "link": "https://coindesk-coindesk-prod.cdn.arcpublishing.com",
-        "manual_status_code": 0,
-        "page_rating": 24,
-        "page_rating_contents": 76,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": true,
-        "source_url": "",
-        "status_code": 200,
-        "tags": [],
-        "thumbnail": "https://www.coindesk.com/pf/resources/images/social/dark/facebook.png?d=359",
-        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
         "vote": 0
     }
 ]

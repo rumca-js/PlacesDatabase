@@ -1,3 +1,7 @@
+ ## FHF Mastodon Instances - Status
+ - [https://fhf-mastodon.instatus.com](https://fhf-mastodon.instatus.com)
+ - date_published: 2024-09-10T09:10:01.755294+00:00
+
  ## FHF Other Sites - Status
  - [https://fhf-misc.instatus.com](https://fhf-misc.instatus.com)
  - date_published: 2024-10-22T12:27:03.888168+00:00
@@ -4010,8 +4014,4 @@
  ## Investir&+
  - [https://fr.investiretplus.com](https://fr.investiretplus.com)
  - date_published: 2024-07-03T05:05:31.776521+00:00
-
- ## Investor Relations
- - [https://att-ir-v2.prod-use1.investis.com](https://att-ir-v2.prod-use1.investis.com)
- - date_published: 2024-07-15T03:27:21.219599+00:00
 

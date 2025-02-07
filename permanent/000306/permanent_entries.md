@@ -1,3 +1,20 @@
+ ## The wargames pavilion
+ - [https://wargamespavilion.wordpress.com](https://wargamespavilion.wordpress.com)
+ - date_published: 2025-01-01T16:04:30.782499+00:00
+
+ ## Tabletop Wargaming by SKS
+ - [https://wargamingbysks.wordpress.com](https://wargamingbysks.wordpress.com)
+ - date_published: 2024-10-26T16:15:29.730158+00:00
+
+ ## Wargaming Connection
+ - [https://wargamingcommunity.wordpress.com](https://wargamingcommunity.wordpress.com)
+ - date_published: 2024-05-09T05:25:51.393339+00:00
+ - tags: ['wargames']
+
+ ## The Raft
+ - [https://wargamingraft.wordpress.com](https://wargamingraft.wordpress.com)
+ - date_published: 2024-12-28T19:57:38+00:00
+
  ## Warhammer 39,9999
  - [https://warhammer39999.wordpress.com](https://warhammer39999.wordpress.com)
  - date_published: 2024-10-26T19:17:41.302174+00:00
@@ -4003,20 +4020,4 @@
  ## WordPress Plugin Developer - WP-Buddy
  - [https://wp-buddy.com](https://wp-buddy.com)
  - date_published: 2023-12-11T19:06:32.194241+00:00
-
- ## WP Builds WordPress Network - podcasts, news, lives, giveaways, deals and more
- - [https://wpbuilds.com](https://wpbuilds.com)
- - date_published: 2024-06-30T10:13:41.179891+00:00
-
- ## Walsworth
- - [https://ad.wpcappserve.com](https://ad.wpcappserve.com)
- - date_published: 2024-04-24T13:13:28+00:00
-
- ## WP Care Market - Care Plan Training, Community and Pro Directory
- - [https://wpcaremarket.com](https://wpcaremarket.com)
- - date_published: 2020-01-09T00:00:00+00:00
-
- ## Central Stock for WooCommerce
- - [https://wp-centralstock.com](https://wp-centralstock.com)
- - date_published: 2024-03-05T00:00:00+00:00
 

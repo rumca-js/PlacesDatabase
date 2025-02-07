@@ -1,3 +1,27 @@
+ ## Home – Your source for Workday support
+ - [https://isc.uw.edu](https://isc.uw.edu)
+ - date_published: 2024-06-15T17:26:23+00:00
+
+ ## IT Connect
+ - [https://itconnect.uw.edu](https://itconnect.uw.edu)
+ - date_published: 2024-05-01T06:18:38.389467+00:00
+
+ ## iSchool Knowledge Base | University of Washington Information School
+ - [http://kb.ischool.uw.edu](http://kb.ischool.uw.edu)
+ - date_published: 2024-08-06T17:05:40+00:00
+
+ ## Website: Homepage: Home
+ - [https://lib.law.uw.edu](https://lib.law.uw.edu)
+ - date_published: 2024-10-18T22:26:28.956566+00:00
+
+ ## University of Washington Libraries
+ - [https://lib.uw.edu](https://lib.uw.edu)
+ - date_published: 2024-05-07T22:27:43.859911+00:00
+
+ ## Marine Biology | Marine Biology at the University of Washington
+ - [https://marinebiology.uw.edu](https://marinebiology.uw.edu)
+ - date_published: 2025-01-10T01:43:13.035704+00:00
+
  ## Sign in to your account
  - [https://metadata.uw.edu](https://metadata.uw.edu)
  - date_published: 2024-07-02T00:00:00+00:00
@@ -3988,29 +4012,4 @@
  ## The Taskar Center for Accessible Technology – Designing for the fullness of human experience
  - [https://tcat.cs.washington.edu](https://tcat.cs.washington.edu)
  - date_published: 2024-02-08T21:51:19.755775+00:00
-
- ## ArtsUW Events | Arts Events
- - [https://tickets.artsevents.washington.edu](https://tickets.artsevents.washington.edu)
- - date_published: 2024-06-19T23:11:24+00:00
-
- ## types.cs.washington.edu
- - [https://types.cs.washington.edu](https://types.cs.washington.edu)
- - date_published: 2017-01-30T19:26:47+00:00
-
- ## Ubicomp Lab – Ubiquitous Computing Lab at the University of Washington
- - [https://ubicomplab.cs.washington.edu](https://ubicomplab.cs.washington.edu)
- - date_published: 2025-01-09T20:09:14+00:00
-
- ## Celebrate Black freedom this Juneteenth
- - [https://washington.edu](https://washington.edu)
- - date_published: 2024-06-17T05:53:08+00:00
- - tags: ['university']
-
- ## WEIRD Lab
- - [https://weirdlab.cs.washington.edu](https://weirdlab.cs.washington.edu)
- - date_published: 2023-09-11T21:58:27+00:00
-
- ## Homepage - The University of Washington Bothell
- - [https://www.bothell.washington.edu](https://www.bothell.washington.edu)
- - date_published: 2024-06-10T00:00:00+00:00
 

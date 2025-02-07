@@ -1,3 +1,8 @@
+ ## Mary Ann Liebert, Inc. | Home
+ - [https://liebertpub.com](https://liebertpub.com)
+ - date_published: 2024-02-22T00:00:00+00:00
+ - date_dead_since: 2025-01-30T10:39:14.694423+00:00
+
  ## Mary Ann Liebert Polls
  - [https://polls.liebertpub.com](https://polls.liebertpub.com)
  - date_published: 2024-05-04T07:46:38.181247+00:00
@@ -4043,8 +4048,4 @@
  ## Configuration Change Detection and Response for MSPs | Liongard
  - [https://www.liongard.com](https://www.liongard.com)
  - date_published: 2025-01-20T20:41:59.326639+00:00
-
- ## Contemporary Dance | Melbourne | Lion Heart Dance Company
- - [https://www.lionheartdancecompany.com](https://www.lionheartdancecompany.com)
- - date_published: 2024-12-20T18:41:50.443951+00:00
 

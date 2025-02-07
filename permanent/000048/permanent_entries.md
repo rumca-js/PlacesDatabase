@@ -1,3 +1,7 @@
+ ## Activator Studios
+ - [https://activatorstudios.com](https://activatorstudios.com)
+ - date_published: 2023-01-26T00:00:00+00:00
+
  ## Activazon
  - [https://activazon.com](https://activazon.com)
  - date_published: 2024-06-19T19:54:13.087876+00:00
@@ -4058,9 +4062,4 @@ Service - ADAM MARK ZACHS - Convicted Murderer and Fugitive
  ## Marketing, Advertising and Social Media News With Attitude by Steve Hall
  - [https://adrants.com](https://adrants.com)
  - date_published: 2024-08-18T03:40:00.112979+00:00
-
- ## graphics.adrecord.com (1×1)
- - [https://graphics.adrecord.com](https://graphics.adrecord.com)
- - date_published: 2024-07-20T19:45:21.227654+00:00
- - date_dead_since: 2025-01-06T11:16:45.298955+00:00
 

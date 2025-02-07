@@ -1,3 +1,7 @@
+ ## Les Disques Bongo Joe
+ - [https://lesdisquesbongojoe.bandcamp.com](https://lesdisquesbongojoe.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
  ## Plastiques, by Le Seul Element
  - [https://leseulelement.bandcamp.com](https://leseulelement.bandcamp.com)
  - date_published: 2024-12-27T00:29:29.609494+00:00
@@ -3995,8 +3999,4 @@
  ## Windswept, by Photay
  - [https://photay.bandcamp.com](https://photay.bandcamp.com)
  - date_published: 2025-01-20T21:43:07.772325+00:00
-
- ## Burns Bright, by Photo Ops
- - [https://photoops.bandcamp.com](https://photoops.bandcamp.com)
- - date_published: 2024-12-27T08:28:35.496418+00:00
 

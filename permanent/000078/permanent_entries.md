@@ -1,3 +1,7 @@
+ ## DemiOrator
+ - [http://demiorator.blogspot.com](http://demiorator.blogspot.com)
+ - date_published: 2024-09-05T08:26:08+00:00
+
  ## Democratic Left Infoasis
  - [http://demleft.blogspot.com](http://demleft.blogspot.com)
  - date_published: 2024-10-21T13:46:27.684733+00:00
@@ -4002,8 +4006,4 @@
  ## Esquerda Republicana
  - [http://esquerda-republicana.blogspot.com](http://esquerda-republicana.blogspot.com)
  - date_published: 2024-10-13T10:30:51+00:00
-
- ## ESBOÇOS POÉTICOS
- - [http://esquicospoeticos-avlisjota.blogspot.com](http://esquicospoeticos-avlisjota.blogspot.com)
- - date_published: 2024-12-19T03:30:28+00:00
 

@@ -1,3 +1,19 @@
+ ## Tempest
+ - [https://tempestwx.com](https://tempestwx.com)
+ - date_published: 2024-04-30T05:03:01.671873+00:00
+
+ ## Dhakajack – A place to put my stuff
+ - [http://blog.templaro.com](http://blog.templaro.com)
+ - date_published: 2024-07-10T02:41:26.090338+00:00
+
+ ## Template0 - 600+ Free Web Templates
+ - [https://template0.com](https://template0.com)
+ - date_published: 2025-01-05T07:52:04.912001+00:00
+
+ ## Download Free designs - templateAC
+ - [https://en.template-ac.com](https://en.template-ac.com)
+ - date_published: 2024-12-15T10:11:56.888200+00:00
+
  ## Templateberg - WordPress Templates Library and Template Kits
  - [https://templateberg.com](https://templateberg.com)
  - date_published: 2025-02-04T07:39:23.536377+00:00
@@ -4015,21 +4031,4 @@
  ## Home - The Ancestor Hunt
  - [https://theancestorhunt.com](https://theancestorhunt.com)
  - date_published: 2025-01-31T03:48:44.920186+00:00
-
- ## The Ancestor's Fire | spiritual journey blog
- - [https://www.theancestorsfire.com](https://www.theancestorsfire.com)
- - date_published: 2024-08-18T21:03:00.907691+00:00
-
- ## Elizabeth Scalia The Anchoress -
- - [https://theanchoress.com](https://theanchoress.com)
- - date_published: 2025-01-20T22:56:38.839833+00:00
-
- ## The Ancients
- - [https://the-ancients.com](https://the-ancients.com)
- - date_published: 2018-07-20T09:01:16+00:00
-
- ## The Ancient's Den
- - [https://theancientsden.com](https://theancientsden.com)
- - date_published: 2024-04-07T18:39:22+00:00
- - tags: ['soul reaver', 'legacy of kain']
 

@@ -1,4 +1,20 @@
  ## Cierpliwości...
+ - [http://ordering.onlinelibrary.wiley.com](http://ordering.onlinelibrary.wiley.com)
+ - date_published: 2024-06-28T21:09:15.513096+00:00
+
+ ## https://physoc.onlinelibrary.wiley.com
+ - [https://physoc.onlinelibrary.wiley.com](https://physoc.onlinelibrary.wiley.com)
+ - date_published: 2023-11-12T06:59:06.705475+00:00
+
+ ## Cierpliwości...
+ - [https://rai.onlinelibrary.wiley.com](https://rai.onlinelibrary.wiley.com)
+ - date_published: 2024-06-21T20:39:23.479675+00:00
+
+ ## Bookshelf - Wiley Reader
+ - [http://read.wiley.com](http://read.wiley.com)
+ - date_published: 2025-01-15T04:40:21.526008+00:00
+
+ ## Cierpliwości...
  - [https://rgs-ibg.onlinelibrary.wiley.com](https://rgs-ibg.onlinelibrary.wiley.com)
  - date_published: 2024-06-30T02:31:15.368977+00:00
 
@@ -4030,20 +4046,4 @@
  - [https://wizards.com](https://wizards.com)
  - date_published: 2024-07-08T11:33:12+00:00
  - tags: ['card game developer', 'card games', 'wizards of the coast', 'magic the gathering']
-
- ## Wizards Play Network | Official Site for WPN Retailers | WPN
- - [https://wpn.wizards.com](https://wpn.wizards.com)
- - date_published: 2024-05-07T14:32:46.988350+00:00
-
- ## Wizard's Tower Books
- - [https://www.wizardstowerbooks.com](https://www.wizardstowerbooks.com)
- - date_published: 2024-07-04T11:57:17+00:00
-
- ## Wizard's Tower Press
- - [http://wizardstowerpress.com](http://wizardstowerpress.com)
- - date_published: 2024-06-28T14:15:05+00:00
-
- ## Wizard Thief Fighter
- - [http://wizardthieffighter.com](http://wizardthieffighter.com)
- - date_published: 2024-07-11T23:14:05.756260+00:00
 

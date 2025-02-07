@@ -1,3 +1,7 @@
+ ## Liquid Energy - Solid Engineering | Gugler Water Turbines
+ - [https://www.gugler.com](https://www.gugler.com)
+ - date_published: 2024-12-25T20:23:13.595729+00:00
+
  ## Guglhupf - Artisan Bakery & Restaurant, Durham NC
  - [https://www.guglhupf.com](https://www.guglhupf.com)
  - date_published: 2024-03-25T00:00:00+00:00
@@ -4025,8 +4029,4 @@
  ## Home
  - [https://www.haleon.com](https://www.haleon.com)
  - date_published: 2024-10-23T16:39:58+00:00
-
- ## Fire Equipment Supplier, Fire Fighting Pumps | Hale Products
- - [https://www.haleproducts.com](https://www.haleproducts.com)
- - date_published: 2025-01-07T20:40:26.581629+00:00
 

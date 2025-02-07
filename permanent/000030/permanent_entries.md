@@ -1,3 +1,7 @@
+ ## Tech4Regeneration Startup acceleration program
+ - [https://www.tech4regeneration.ch](https://www.tech4regeneration.ch)
+ - date_published: 2024-07-16T00:00:00+00:00
+
  ## Build your best career in tech | TechFace.ch | we connect you
  - [https://techface.ch](https://techface.ch)
  - date_published: 2024-10-30T05:31:57.653591+00:00
@@ -4015,8 +4019,4 @@ Fakultät | Universität Basel
  ## Rock&Pop
  - [https://rockandpop.cl](https://rockandpop.cl)
  - date_published: 2024-06-12T13:06:28.549964+00:00
-
- ## Rock&Pop
- - [https://seguro.rockandpop.cl](https://seguro.rockandpop.cl)
- - date_published: 2024-09-13T11:02:24.261223+00:00
 

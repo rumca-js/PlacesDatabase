@@ -1,3 +1,7 @@
+ ## Bed & Breakfast Il Salice Rome, Italy - book now, 2025 prices
+ - [https://bb-il-salice.hotels-lazio.com](https://bb-il-salice.hotels-lazio.com)
+ - date_published: 2025-02-03T10:30:51.085370+00:00
+
  ## Bed & Breakfast La Vecchia Scuola Sonnino, Italy - book now, 2025 prices
  - [https://bb-la-vecchia-scuola.hotels-lazio.com](https://bb-la-vecchia-scuola.hotels-lazio.com)
  - date_published: 2025-02-03T10:21:30.673089+00:00
@@ -3993,8 +3997,4 @@
  ## Hotel Santa Marta Suites Milan - new 2024 prices, reviews, book now
  - [http://santa-marta-suites.hotels-lombardy.com](http://santa-marta-suites.hotels-lombardy.com)
  - date_published: 2024-06-29T12:46:05.488215+00:00
-
- ## Hotel Sant'Ambroeus Milan - new 2024 prices, reviews, book now
- - [http://santambroeus.hotels-lombardy.com](http://santambroeus.hotels-lombardy.com)
- - date_published: 2024-06-29T12:23:19.037321+00:00
 

@@ -1,3 +1,7 @@
+ ## SpiralingCadaver
+ - [http://spiralingcadaver.blogspot.com](http://spiralingcadaver.blogspot.com)
+ - date_published: 2024-11-06T02:57:48+00:00
+
  ## SPIRAL TOWER PRESS
  - [https://spiraltowerpress.blogspot.com](https://spiraltowerpress.blogspot.com)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -4003,8 +4007,4 @@
  ## The Lambeth Walk
  - [http://thelambethwalk.blogspot.com](http://thelambethwalk.blogspot.com)
  - date_published: 2024-12-06T07:31:40+00:00
-
- ## Hammer's Stuff
- - [http://thelanguageguybackup.blogspot.com](http://thelanguageguybackup.blogspot.com)
- - date_published: 2024-02-08T19:33:27+00:00
 

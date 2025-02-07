@@ -1,3 +1,27 @@
+ ## Faust IDE
+ - [https://faustide.grame.fr](https://faustide.grame.fr)
+ - date_published: 2018-01-27T00:00:00+00:00
+
+ ## Faust Libraries
+ - [https://faustlibraries.grame.fr](https://faustlibraries.grame.fr)
+ - date_published: 2024-07-28T15:16:39+00:00
+
+ ## FaustPlayGround
+ - [https://faustplayground.grame.fr](https://faustplayground.grame.fr)
+ - date_published: 2024-07-03T16:21:49+00:00
+
+ ## Faust Progressive Web Applications
+ - [https://faustpwa.grame.fr](https://faustpwa.grame.fr)
+ - date_published: 2024-07-30T09:59:08+00:00
+
+ ## Programmable Audio Workshop 2023 (PAW)
+ - [https://paw.grame.fr](https://paw.grame.fr)
+ - date_published: 2023-12-04T14:34:24+00:00
+
+ ## Sound and Music Computing 2022
+ - [https://smc22.grame.fr](https://smc22.grame.fr)
+ - date_published: 2022-07-18T09:56:53+00:00
+
  ## Home
  - [https://www.grame.fr](https://www.grame.fr)
  - date_published: 2024-08-07T17:41:11.510829+00:00
@@ -4062,28 +4086,4 @@
  ## Emploi, offres d'emploi et actualité sur leParisien.fr
  - [http://emploi.leparisien.fr](http://emploi.leparisien.fr)
  - date_published: 2025-01-31T16:54:52.959662+00:00
-
- ## Le Parisien
- - [https://kiosque.leparisien.fr](https://kiosque.leparisien.fr)
- - date_published: 2022-11-29T13:43:18+00:00
-
- ## Actualités en direct et info en continu - Le Parisien
- - [https://leparisien.fr](https://leparisien.fr)
- - date_published: 2024-05-06T22:49:15.455779+00:00
-
- ## Blog Vin - Les Grappes x Le Parisien
- - [http://lesgrappes.leparisien.fr](http://lesgrappes.leparisien.fr)
- - date_published: 2025-01-31T16:55:01.127554+00:00
-
- ## Petites annonces, actu immobilière, emploi et business
- - [http://petites-annonces.leparisien.fr](http://petites-annonces.leparisien.fr)
- - date_published: 2025-01-31T16:55:07.150699+00:00
-
- ## Le Parisien - Le Parisien - Podcasts
- - [https://podcasts.leparisien.fr](https://podcasts.leparisien.fr)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Programme TV et Replay avec LeParisien.fr
- - [https://programme-tv.leparisien.fr](https://programme-tv.leparisien.fr)
- - date_published: 2024-06-28T13:12:39.520062+00:00
 

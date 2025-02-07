@@ -1,3 +1,7 @@
+ ## Newsroom Overview | Medtronic
+ - [https://news.medtronic.com](https://news.medtronic.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
  ## Restorative Therapies Group
  - [https://professional.medtronic.com](https://professional.medtronic.com)
  - date_published: 2024-07-11T14:20:12+00:00
@@ -4019,8 +4023,4 @@
  ## MetaFilter Projects
  - [https://projects.metafilter.com](https://projects.metafilter.com)
  - date_published: 2024-05-09T06:06:23.513016+00:00
-
- ## MetaFilter RSS
- - [https://rss.metafilter.com](https://rss.metafilter.com)
- - date_published: 2024-01-12T12:43:58+00:00
 

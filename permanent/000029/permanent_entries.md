@@ -1,3 +1,7 @@
+ ## Startseite
+ - [https://www.htr-milestone.ch](https://www.htr-milestone.ch)
+ - date_published: 2024-07-04T04:07:43.752473+00:00
+
  ## HUG - Hôpitaux universitaires de Genève
  - [https://www.hug.ch](https://www.hug.ch)
  - date_published: 2024-07-19T13:16:26+00:00
@@ -4012,8 +4016,4 @@
  ## Team Trade Import & Export GmbH
  - [https://teamtrade.ch](https://teamtrade.ch)
  - date_published: 2024-10-21T09:23:43.454293+00:00
-
- ## Tech4Regeneration Startup acceleration program
- - [https://www.tech4regeneration.ch](https://www.tech4regeneration.ch)
- - date_published: 2024-07-16T00:00:00+00:00
 

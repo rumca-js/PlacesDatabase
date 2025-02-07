@@ -1,3 +1,27 @@
+ ## Home - Florida Tech Department of Computer Sciences
+ - [https://cs.fit.edu](https://cs.fit.edu)
+ - date_published: 2024-05-11T10:37:53.918626+00:00
+
+ ## www.fit.edu | Florida Tech
+ - [https://fit.edu](https://fit.edu)
+ - date_published: 2024-07-14T11:19:16.944202+00:00
+
+ ## Florida Tech News
+ - [https://news.fit.edu](https://news.fit.edu)
+ - date_published: 2024-07-07T02:45:54+00:00
+
+ ## Florida Tech ACM | Association for Computing Machinery
+ - [https://pppj2015.cs.fit.edu](https://pppj2015.cs.fit.edu)
+ - date_published: 2024-07-14T16:25:26.111936+00:00
+
+ ## FIT DTech Lab
+ - [https://dtech.fitnyc.edu](https://dtech.fitnyc.edu)
+ - date_published: 2025-01-21T13:02:50.167331+00:00
+
+ ## Collections – eMuseum
+ - [http://fashionmuseum.fitnyc.edu](http://fashionmuseum.fitnyc.edu)
+ - date_published: 2025-02-01T20:02:35.311779+00:00
+
  ## Innovation at FIT
  - [https://innovation.fitnyc.edu](https://innovation.fitnyc.edu)
  - date_published: 2025-01-21T13:03:10.832242+00:00
@@ -3982,28 +4006,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## Georgia State University Login
  - [https://intranet.library.gsu.edu](https://intranet.library.gsu.edu)
  - date_published: 2024-07-22T02:23:38.178300+00:00
-
- ## International Student and Scholar Services - International Student & Scholar Services
- - [http://isss.gsu.edu](http://isss.gsu.edu)
- - date_published: 2024-07-21T23:54:16.234894+00:00
-
- ## College of Law
- - [http://law.gsu.edu](http://law.gsu.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Georgia State University College of Law Library
- - [https://lawlibrary.gsu.edu](https://lawlibrary.gsu.edu)
- - date_published: 2024-04-30T04:31:34.280907+00:00
-
- ## Home - Georgia State University
- - [https://legacy.gsu.edu](https://legacy.gsu.edu)
- - date_published: 2024-08-11T08:07:36.649253+00:00
-
- ## Legal Affairs - Office of Legal Affairs
- - [https://legalaffairs.gsu.edu](https://legalaffairs.gsu.edu)
- - date_published: 2024-04-30T04:32:12.778458+00:00
-
- ## Byrdine F. Lewis College of Nursing and Health Professions
- - [https://lewis.gsu.edu](https://lewis.gsu.edu)
- - date_published: 2024-07-22T02:08:25.240071+00:00
 

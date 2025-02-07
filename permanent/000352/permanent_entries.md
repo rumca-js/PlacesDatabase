@@ -1,3 +1,27 @@
+ ## College of Professional Studies | University of New Hampshire
+ - [https://cps.unh.edu](https://cps.unh.edu)
+ - date_published: 2025-02-01T01:50:06.516661+00:00
+
+ ## Explore UNH
+ - [https://explore.unh.edu](https://explore.unh.edu)
+ - date_published: 2024-09-15T19:36:08+00:00
+
+ ## Find Scholars @ UNH
+ - [https://findscholars.unh.edu](https://findscholars.unh.edu)
+ - date_published: 2024-09-15T19:36:39.042006+00:00
+
+ ## UNH Graduate School | University of New Hampshire
+ - [https://gradschool.unh.edu](https://gradschool.unh.edu)
+ - date_published: 2024-09-15T19:37:30.606605+00:00
+
+ ## UNH InterOperability Laboratory
+ - [https://iol.unh.edu](https://iol.unh.edu)
+ - date_published: 2024-07-06T23:44:13+00:00
+
+ ## Franklin Pierce School of Law | University of New Hampshire
+ - [https://law.unh.edu](https://law.unh.edu)
+ - date_published: 2024-09-15T19:36:49.634445+00:00
+
  ## Research Guides
  - [https://libraryguides.unh.edu](https://libraryguides.unh.edu)
  - date_published: 2025-02-01T01:51:40.076147+00:00
@@ -4068,28 +4092,4 @@
  ## URI Directory Service
  - [https://directory.uri.edu](https://directory.uri.edu)
  - date_published: 2024-07-02T10:47:34.136875+00:00
-
- ## Events Calendar - University of Rhode Island
- - [https://events.uri.edu](https://events.uri.edu)
- - date_published: 2024-05-07T22:00:25.617130+00:00
-
- ## Front
- - [https://homepage.cs.uri.edu](https://homepage.cs.uri.edu)
- - date_published: 2024-04-29T07:30:06.571009+00:00
-
- ## Home
- - [http://housing.uri.edu](http://housing.uri.edu)
- - date_published: 2025-02-01T07:10:42.469589+00:00
-
- ## Information Technology Services
- - [https://its.uri.edu](https://its.uri.edu)
- - date_published: 2024-07-02T10:47:37.955512+00:00
-
- ## University Of Rhode Island Applicant Portal | Home
- - [https://jobs.uri.edu](https://jobs.uri.edu)
- - date_published: 2024-05-07T22:00:12.816940+00:00
-
- ## RV Endeavor Home
- - [https://marineops.gso.uri.edu](https://marineops.gso.uri.edu)
- - date_published: 2025-01-23T15:51:25.686174+00:00
 

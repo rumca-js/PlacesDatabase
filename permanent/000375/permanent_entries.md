@@ -1,3 +1,27 @@
+ ## First Responder Training System
+ - [https://firstrespondertraining.gov](https://firstrespondertraining.gov)
+ - date_published: 2024-03-27T10:32:32+00:00
+
+ ## President's Council | odphp.health.gov
+ - [http://www.fitness.gov](http://www.fitness.gov)
+ - date_published: 2025-01-01T10:12:24+00:00
+
+ ## Federal Judicial Center |
+ - [https://www.fjc.gov](https://www.fjc.gov)
+ - date_published: 2024-07-08T12:41:09+00:00
+
+ ## Florida Digital Service
+ - [https://digital.fl.gov](https://digital.fl.gov)
+ - date_published: 2025-01-15T08:34:12.860586+00:00
+
+ ## Service unavailable
+ - [https://quality.healthfinder.fl.gov](https://quality.healthfinder.fl.gov)
+ - date_published: 2024-07-03T14:50:40.105774+00:00
+
+ ## Santa Rosa County, FL | Official Website
+ - [https://www.santarosa.fl.gov](https://www.santarosa.fl.gov)
+ - date_published: 2024-07-03T15:05:18.518215+00:00
+
  ## Flagler County, FL | Home
  - [https://www.flaglercounty.gov](https://www.flaglercounty.gov)
  - date_published: 2024-07-03T14:46:00+00:00
@@ -3994,28 +4018,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## Home | Research Library
  - [https://researchlibrary.lanl.gov](https://researchlibrary.lanl.gov)
  - date_published: 2024-06-05T17:22:15+00:00
-
- ## Science & Innovation
- - [https://science-innovation.lanl.gov](https://science-innovation.lanl.gov)
- - date_published: 2024-06-13T19:21:50+00:00
-
- ## Seaborg Institute | National Security Education Center
- - [http://seaborg.lanl.gov](http://seaborg.lanl.gov)
- - date_published: 2024-06-26T19:34:51+00:00
-
- ## Fusion
- - [http://searcher-green.lanl.gov](http://searcher-green.lanl.gov)
- - date_published: 2020-04-01T19:46:14+00:00
-
- ## Weblogin
- - [https://weblogin.lanl.gov](https://weblogin.lanl.gov)
- - date_published: 2024-10-16T05:38:42.076469+00:00
-
- ## System Unavailable
- - [https://xxx.lanl.gov](https://xxx.lanl.gov)
- - date_published: 2024-05-07T20:15:28.268325+00:00
-
- ## The City of Las Cruces
- - [https://www.lascruces.gov](https://www.lascruces.gov)
- - date_published: 2025-02-02T07:46:26.259319+00:00
 

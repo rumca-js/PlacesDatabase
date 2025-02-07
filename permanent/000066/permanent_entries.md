@@ -1,3 +1,7 @@
+ ## Burns Bright, by Photo Ops
+ - [https://photoops.bandcamp.com](https://photoops.bandcamp.com)
+ - date_published: 2024-12-27T08:28:35.496418+00:00
+
  ## Phreek Party, by Phreek Plus One
  - [https://phreekplusone.bandcamp.com](https://phreekplusone.bandcamp.com)
  - date_published: 2024-12-27T00:56:17.023226+00:00
@@ -3993,8 +3997,4 @@
  ## A Sudden Craving, by The Children...
  - [https://thechildrenband.bandcamp.com](https://thechildrenband.bandcamp.com)
  - date_published: 2024-03-01T00:00:00+00:00
-
- ## The Lost EP, by The Chills
- - [https://thechillsmusic.bandcamp.com](https://thechillsmusic.bandcamp.com)
- - date_published: 2024-04-20T00:00:00+00:00
 

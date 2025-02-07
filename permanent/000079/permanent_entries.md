@@ -1,3 +1,7 @@
+ ## ESBOÇOS POÉTICOS
+ - [http://esquicospoeticos-avlisjota.blogspot.com](http://esquicospoeticos-avlisjota.blogspot.com)
+ - date_published: 2024-12-19T03:30:28+00:00
+
  ## Nie znaleziono bloga
  - [http://esquina-do-mundo.blogspot.com](http://esquina-do-mundo.blogspot.com)
  - date_published: 2024-12-31T11:21:07.932559+00:00
@@ -4004,8 +4008,4 @@
  ## GHC on SPARC
  - [http://ghcsparc.blogspot.com](http://ghcsparc.blogspot.com)
  - date_published: 2024-02-20T22:23:21+00:00
-
- ## The view from the hills
- - [http://ghmltn.blogspot.com](http://ghmltn.blogspot.com)
- - date_published: 2024-10-21T15:45:31.691600+00:00
 

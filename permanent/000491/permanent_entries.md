@@ -1,3 +1,32 @@
+ ## ALT Website – Arabic Language Technologies Group
+ - [https://alt.qcri.org](https://alt.qcri.org)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Quad City Symphony Orchestra | QCSO
+ - [http://qcso.org](http://qcso.org)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## QCWA Home Page - Forwarding
+ - [http://www.qcwa.org](http://www.qcwa.org)
+ - date_published: 2020-06-08T17:01:52+00:00
+
+ ## QED | A weekend of science, reason, and critical thinking | 19th-20th October 2024, Manchester UK
+ - [https://qedcon.org](https://qedcon.org)
+ - date_published: 2024-06-30T01:47:12.958929+00:00
+
+ ## Index of /
+ - [https://download.qemu.org](https://download.qemu.org)
+ - date_published: 2024-04-30T08:00:54.592643+00:00
+
+ ## KVM Forum 2023 :: pretalx
+ - [https://kvm-forum.qemu.org](https://kvm-forum.qemu.org)
+ - date_published: 2023-10-25T22:01:56.457833+00:00
+
+ ## QEMU
+ - [https://qemu.org](https://qemu.org)
+ - date_published: 2024-04-30T13:45:12+00:00
+ - tags: ['emulator', 'open source', 'emulation']
+
  ## QEMU
  - [https://wiki.qemu.org](https://wiki.qemu.org)
  - date_published: 2024-05-07T15:29:29.169673+00:00
@@ -4014,32 +4043,4 @@
  ## Rethinking the Past – Exhibition Site
  - [https://rethinkingthepast.org](https://rethinkingthepast.org)
  - date_published: 2024-09-26T18:06:57.775523+00:00
-
- ## Rethinking Foundations of Physics 2023
- - [https://rethinking-workshop.org](https://rethinking-workshop.org)
- - date_published: 2024-05-01T07:48:40.079872+00:00
-
- ## Home - ReThinkNYC
- - [http://www.rethinknyc.org](http://www.rethinknyc.org)
- - date_published: 2016-02-06T00:00:00+00:00
-
- ## Careers at Rethink Priorities
- - [https://careers.rethinkpriorities.org](https://careers.rethinkpriorities.org)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Rethink Priorities
- - [https://rethinkpriorities.org](https://rethinkpriorities.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Rethink Charity
- - [https://rethinkprojects.org](https://rethinkprojects.org)
- - date_published: 2024-07-12T18:54:16.197191+00:00
-
- ## Rethinking the Automobile
- - [http://rethinktheauto.org](http://rethinktheauto.org)
- - date_published: 2024-01-15T11:06:40+00:00
-
- ## Rethink Wellbeing
- - [https://www.rethinkwellbeing.org](https://www.rethinkwellbeing.org)
- - date_published: 2024-06-21T11:39:17.948804+00:00
 

@@ -1,3 +1,7 @@
+ ## Game Dev Days Graz – Austria's biggest Game Dev Conference
+ - [http://gamedevdays.com](http://gamedevdays.com)
+ - date_published: 2024-07-13T09:04:56.100497+00:00
+
  ## Game Dev Digest
  - [https://gamedevdigest.com](https://gamedevdigest.com)
  - date_published: 2024-07-12T13:17:20+00:00
@@ -4040,8 +4044,4 @@
  ## Lets get your new site up and running in no time! - GDSWNK - ข่าวสารและเทรนด์ใหม่
  - [http://www.gdswnk.com](http://www.gdswnk.com)
  - date_published: 2025-01-31T23:06:22.595010+00:00
-
- ## gdURL: Direct Permalinks for Google Drive - 1,116,301 links and counting
- - [https://gdurl.com](https://gdurl.com)
- - date_published: 2024-05-08T02:30:56.637140+00:00
 

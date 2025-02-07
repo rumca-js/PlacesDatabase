@@ -1,3 +1,27 @@
+ ## Hell Gate
+ - [https://hell-gate-1.ghost.io](https://hell-gate-1.ghost.io)
+ - date_published: 2024-08-19T09:30:44.743895+00:00
+
+ ## Paperspace Blog
+ - [https://hellopaperspace.ghost.io](https://hellopaperspace.ghost.io)
+ - date_published: 2024-06-28T10:54:37.934121+00:00
+
+ ## Welcome to Hell World
+ - [https://hellworld.ghost.io](https://hellworld.ghost.io)
+ - date_published: 2024-05-07T14:00:23.379313+00:00
+
+ ## Heureka Labs
+ - [https://heureka-labs.ghost.io](https://heureka-labs.ghost.io)
+ - date_published: 2024-06-22T06:04:44.606530+00:00
+
+ ## High Scalability
+ - [https://high-scalability.ghost.io](https://high-scalability.ghost.io)
+ - date_published: 2024-08-18T10:36:36.041439+00:00
+
+ ## High Signal
+ - [https://high-signal.ghost.io](https://high-signal.ghost.io)
+ - date_published: 2024-05-04T15:55:25.508086+00:00
+
  ## Hit Save!
  - [https://hit-save.ghost.io](https://hit-save.ghost.io)
  - date_published: 2024-05-13T00:00:00+00:00
@@ -4004,28 +4028,4 @@
  ## ajkprojects
  - [https://asnewman.github.io](https://asnewman.github.io)
  - date_published: 2023-10-25T19:44:17.841483+00:00
-
- ## As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors
- - [https://as-plausible-as-possible.github.io](https://as-plausible-as-possible.github.io)
- - date_published: 2024-03-02T08:19:09+00:00
-
- ## Free Consulting Service for Aspose APIs for .NET, Java, Cloud and Android
- - [https://aspose-free-consulting.github.io](https://aspose-free-consulting.github.io)
- - date_published: 2024-10-03T11:28:12+00:00
-
- ## GitHub Repositories for Examples, Plugins and Showcases of Aspose APIs for .NET, Java, C++ and Android
- - [https://aspose.github.io](https://aspose.github.io)
- - date_published: 2024-12-24T14:25:36+00:00
-
- ## Assaf Shocher's homepage
- - [https://assafshocher.github.io](https://assafshocher.github.io)
- - date_published: 2024-04-03T08:52:56+00:00
-
- ## assemblee-virtuelle.github.io
- - [https://assemblee-virtuelle.github.io](https://assemblee-virtuelle.github.io)
- - date_published: 2018-11-01T10:01:48+00:00
-
- ## ASSET Research Group: Home
- - [https://asset-group.github.io](https://asset-group.github.io)
- - date_published: 2023-12-08T12:56:42.399728+00:00
 

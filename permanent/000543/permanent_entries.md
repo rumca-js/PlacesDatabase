@@ -1,3 +1,31 @@
+ ## The Friends of The National Archives - The Friends of The National Archives
+ - [https://ftna.org.uk](https://ftna.org.uk)
+ - date_published: 2024-10-17T12:36:21.734834+00:00
+
+ ## Ethical fundraising, sustainable giving
+ - [https://www.fundraisingregulator.org.uk](https://www.fundraisingregulator.org.uk)
+ - date_published: 2024-05-02T12:37:01.071658+00:00
+
+ ## Homepage - AMSP
+ - [http://www.furthermaths.org.uk](http://www.furthermaths.org.uk)
+ - date_published: 2024-12-30T08:00:25.630627+00:00
+
+ ## APPG on the Future of Work
+ - [https://futureworkappg.org.uk](https://futureworkappg.org.uk)
+ - date_published: 2024-05-11T07:19:00.095820+00:00
+
+ ## About Us -
+ - [http://www.gaac.org.uk](http://www.gaac.org.uk)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## GamCare - The leading provider of support for anyone affected by problem gambling in Great Britain
+ - [https://community.gamcare.org.uk](https://community.gamcare.org.uk)
+ - date_published: 2024-09-13T15:20:59+00:00
+
+ ## GamCare - The leading provider of support for anyone affected by problem gambling in Great Britain
+ - [https://gamcare.org.uk](https://gamcare.org.uk)
+ - date_published: 2024-02-01T00:00:00+00:00
+
  ## MyGamCare
  - [http://my.gamcare.org.uk](http://my.gamcare.org.uk)
  - date_published: 2024-07-17T21:42:31+00:00
@@ -3991,34 +4019,4 @@
  ## Estate Agents in Bow, Theydon Bois & Chingford, Letting Agents in Bow, Theydon Bois & Chingford
  - [http://butlerandstag.uk](http://butlerandstag.uk)
  - date_published: 2025-02-01T21:05:53.905462+00:00
-
- ## Forte
- - [https://forte.buzl.uk](https://forte.buzl.uk)
- - date_published: 2023-05-20T08:43:36+00:00
- - tags: ['music streaming', 'self-host']
-
- ## buzl.uk
- - [https://www.buzl.uk](https://www.buzl.uk)
- - date_published: 2024-09-02T02:08:20+00:00
-
- ## Cal Bryant
- - [https://calbryant.uk](https://calbryant.uk)
- - date_published: 2024-03-03T18:44:26.777032+00:00
- - tags: ['personal']
-
- ## Department of Computer Science and Technology: Cambridge Cybercrime Centre
- - [https://cambridgecybercrime.uk](https://cambridgecybercrime.uk)
- - date_published: 2024-04-29T07:16:48+00:00
-
- ## Campaign for Mathematical Sciences | Advancing the mathematical sciences for discovery, innovation and economy | Home
- - [https://www.campaignmathsci.uk](https://www.campaignmathsci.uk)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Caolan McMahon
- - [https://caolan.uk](https://caolan.uk)
- - date_published: 2024-04-25T08:22:55+00:00
-
- ## Cell Ag UK
- - [https://www.cellag.uk](https://www.cellag.uk)
- - date_published: 2022-07-23T00:00:00+00:00
 

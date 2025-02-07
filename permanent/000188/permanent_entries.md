@@ -1,3 +1,7 @@
+ ## Clarity through writing · macapinlac.com
+ - [https://www.macapinlac.com](https://www.macapinlac.com)
+ - date_published: 2024-01-10T14:29:44.031217+00:00
+
  ## Maison des Sœurs Macarons - Nancy, Lorraine
  - [http://www.macaron-de-nancy.com](http://www.macaron-de-nancy.com)
  - date_published: 2024-07-23T00:00:00+00:00
@@ -4009,8 +4013,4 @@
  ## Mai Writer | Best AI Writer & AI Marketing Assistant
  - [https://maiwriter.com](https://maiwriter.com)
  - date_published: 2024-05-04T14:10:35.058918+00:00
-
- ## Mai (Monolith AI) Status Page - Status
- - [https://status.maiwriter.com](https://status.maiwriter.com)
- - date_published: 2024-06-15T00:00:00+00:00
 

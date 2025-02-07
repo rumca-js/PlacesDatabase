@@ -1,3 +1,31 @@
+ ## Empower Apps
+ - [https://www.empowerapps.show](https://www.empowerapps.show)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## THE SHOW ESCAPE GAME par Enigma Escape - Toulouse
+ - [https://escapegame.show](https://escapegame.show)
+ - date_published: 2024-05-31T05:39:03.792716+00:00
+
+ ## Exit Scam
+ - [https://www.exitscam.show](https://www.exitscam.show)
+ - date_published: 2024-06-23T07:43:07.026859+00:00
+
+ ## Jupiter Extras
+ - [https://extras.show](https://extras.show)
+ - date_published: 2024-04-19T02:02:35+00:00
+
+ ## FullyCharged.Show | Home Energy | Electric Vehicles
+ - [https://fullycharged.show](https://fullycharged.show)
+ - date_published: 2024-10-20T09:39:00.479137+00:00
+
+ ## Podcast Hosting and Analytics - Welcome to Fireside!
+ - [https://gamesphere.show](https://gamesphere.show)
+ - date_published: 2024-12-13T14:25:41.891060+00:00
+
+ ## Hear. Here.
+ - [https://www.hearhere.show](https://www.hearhere.show)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## corrode Rust Consulting
  - [https://hello-rust.show](https://hello-rust.show)
  - date_published: 2024-04-29T07:41:46.118129+00:00
@@ -3989,33 +4017,4 @@
  ## There Is No Website
  - [https://www.thereisnoweb.site](https://www.thereisnoweb.site)
  - date_published: 2024-08-16T21:51:59+00:00
-
- ## The Useless Website
- - [https://theuselessweb.site](https://theuselessweb.site)
- - date_published: 2020-12-16T17:38:43+00:00
-
- ## Out of Thin Air
- - [https://thinair.site](https://thinair.site)
- - date_published: 2024-09-14T23:34:27.255111+00:00
-
- ## Emeka
- - [https://thistooshallpass.site](https://thistooshallpass.site)
- - date_published: 2024-07-13T16:00:33.753857+00:00
-
- ## Adam Pangelinan Resume
- - [https://adam-pangelinan-resume.tiiny.site](https://adam-pangelinan-resume.tiiny.site)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Plausible · Web analytics
- - [https://analytics.tiiny.site](https://analytics.tiiny.site)
- - date_published: 2024-07-12T22:27:46.426723+00:00
-
- ## Nokia's internal presentation after iPhone was launched (2007) [pdf]
- - [https://nokia-apple-iphone-was-launched-presentation.tiiny.site](https://nokia-apple-iphone-was-launched-presentation.tiiny.site)
- - date_published: 2025-01-16T13:23:32+00:00
-
- ## timor's site
- - [https://timor.site](https://timor.site)
- - date_published: 2023-10-25T09:24:39.424560+00:00
- - tags: ['personal']
 

@@ -1,3 +1,31 @@
+ ## Ping Dashboard - Cosmos Blockchain Explorer And Web Wallet
+ - [https://testnet.ping.pub](https://testnet.ping.pub)
+ - date_published: 2025-01-22T23:45:54.984096+00:00
+
+ ## pkgsrc.pub
+ - [https://pkgsrc.pub](https://pkgsrc.pub)
+ - date_published: 2023-02-09T13:08:36+00:00
+
+ ## Plaudit · Open endorsements from the academic community
+ - [https://plaudit.pub](https://plaudit.pub)
+ - date_published: 2024-08-19T04:58:42.082900+00:00
+
+ ## Open Library Publishing Platform – Pressbooks for Ontario's Postsecondary Educators
+ - [https://ecampusontario.pressbooks.pub](https://ecampusontario.pressbooks.pub)
+ - date_published: 2024-07-13T11:27:29.362378+00:00
+
+ ## Proof of Concept | David Hoang | Substack
+ - [https://www.proofofconcept.pub](https://www.proofofconcept.pub)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Q
+ - [https://qanon.pub](https://qanon.pub)
+ - date_published: 2020-06-28T03:15:46+00:00
+
+ ## QUAKE.PUB - QUAKE PRO LEAGUE Coverage
+ - [https://qpl.quake.pub](https://qpl.quake.pub)
+ - date_published: 2024-07-01T05:28:41.865332+00:00
+
  ## QUAKE PUB
  - [https://quake.pub](https://quake.pub)
  - date_published: 2024-05-02T09:43:58.126077+00:00
@@ -4007,32 +4035,4 @@
  ## kmti.hiphi.ubbcluj.ro |
  - [https://kmti.hiphi.ubbcluj.ro](https://kmti.hiphi.ubbcluj.ro)
  - date_published: 2025-02-01T17:11:23.499111+00:00
-
- ## Facultatea de Matematică și Informatică | Universitatea Babeș-Bolyai Cluj-Napoca
- - [https://www.cs.ubbcluj.ro](https://www.cs.ubbcluj.ro)
- - date_published: 2024-05-06T14:11:16.484259+00:00
-
- ## Cluj University Press - redirect
- - [http://www.editura.ubbcluj.ro](http://www.editura.ubbcluj.ro)
- - date_published: 2024-10-15T03:07:25.325591+00:00
-
- ## Universitatea Babeș-Bolyai
- - [https://www.ubbcluj.ro](https://www.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:40.252189+00:00
-
- ## 🎓 Universitatea din Craiova
- - [http://www.ucv.ro](http://www.ucv.ro)
- - date_published: 2025-01-22T00:44:06.000808+00:00
-
- ## Universitatea „Dunărea de Jos” din Galați
- - [http://www.ugal.ro](http://www.ugal.ro)
- - date_published: 2025-01-22T00:43:54.602346+00:00
-
- ## Uncyclopedia – Blog facut de oameni inteligenti
- - [http://uncyclopedia.ro](http://uncyclopedia.ro)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## Undelucram.ro - Descoperă angajatorii și mediul de lucru al următorului tău job
- - [https://www.undelucram.ro](https://www.undelucram.ro)
- - date_published: 2024-09-19T14:44:31.715445+00:00
 
