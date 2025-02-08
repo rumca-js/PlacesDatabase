@@ -1,3 +1,7 @@
+ ## Bradley Davis - Cyclist & Software Engineer | WordPress Developer | Gold Coast
+ - [https://bradley-davis.com](https://bradley-davis.com)
+ - date_published: 2024-06-27T12:42:04.860024+00:00
+
  ## Bradley’s Almanac
  - [http://www.bradleysalmanac.com](http://www.bradleysalmanac.com)
  - date_published: 2024-09-14T22:40:03.071861+00:00
@@ -4035,8 +4039,4 @@
  ## BRISE Explorer: A Block Explorer for  BRISE Blockchain
  - [https://brisescan.com](https://brisescan.com)
  - date_published: 2024-09-24T02:46:08.178255+00:00
-
- ## BRC  Explorer
- - [https://testnet-explorer.brisescan.com](https://testnet-explorer.brisescan.com)
- - date_published: 2025-01-12T11:07:59.454149+00:00
 

@@ -1,3 +1,11 @@
+ ## El Financiero
+ - [https://www.elfinanciero.com.mx](https://www.elfinanciero.com.mx)
+ - date_published: 2024-07-04T01:38:26+00:00
+
+ ## El Universal | El periódico de México líder en noticias y clasificados
+ - [https://www.eluniversal.com.mx](https://www.eluniversal.com.mx)
+ - date_published: 2024-07-04T01:39:14+00:00
+
  ## Emagister: Cursos, Carreras y Maestrías presenciales y en línea
  - [https://www.emagister.com.mx](https://www.emagister.com.mx)
  - date_published: 2024-09-11T16:04:58.537130+00:00
@@ -4021,12 +4029,4 @@
  ## 1024cores
  - [https://www.1024cores.net](https://www.1024cores.net)
  - date_published: 2024-05-10T05:41:32.263285+00:00
-
- ## 10-31.net :: Happy Halloween ::
- - [http://10-31.net](http://10-31.net)
- - date_published: 2024-06-20T21:25:26.539510+00:00
-
- ## Radio 105
- - [https://www.105.net](https://www.105.net)
- - date_published: 2024-07-17T00:00:00+00:00
 

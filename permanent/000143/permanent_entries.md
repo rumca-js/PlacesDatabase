@@ -1,3 +1,8 @@
+ ## Full Stack Radio
+ - [https://fullstackradio.com](https://fullstackradio.com)
+ - date_published: 2024-05-06T13:32:48.406075+00:00
+ - tags: ['podcast']
+
  ## Fullstack React | newline
  - [https://fullstackreact.com](https://fullstackreact.com)
  - date_published: 2019-01-30T19:40:30.805260+00:00
@@ -4028,8 +4033,4 @@
  ## GameDesire Group -  Inwestujemy w gry
  - [https://group.gamedesire.com](https://group.gamedesire.com)
  - date_published: 2024-12-30T00:24:07.428834+00:00
-
- ## Game Dev Artisan
- - [https://gamedevartisan.com](https://gamedevartisan.com)
- - date_published: 2024-06-28T00:00:00+00:00
 

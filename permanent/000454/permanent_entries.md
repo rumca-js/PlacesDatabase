@@ -1,3 +1,15 @@
+ ## In Solidarity with Library Genesis and Sci-hub
+ - [https://custodians.online](https://custodians.online)
+ - date_published: 2018-10-21T11:28:15+00:00
+
+ ## Cyberika: Mobile Action Cyberpunk RPG
+ - [https://cyberika.online](https://cyberika.online)
+ - date_published: 2023-04-24T09:51:01+00:00
+
+ ## Home - Cyber Kick-Back
+ - [https://cyberkickback.online](https://cyberkickback.online)
+ - date_published: 2023-09-27T19:45:26+00:00
+
  ## DAERAH ISTIMEWA YOGYAKARTA
  - [https://www.daerahistimewayogyakarta.online](https://www.daerahistimewayogyakarta.online)
  - date_published: 2024-08-20T04:09:58.772613+00:00
@@ -4028,16 +4040,4 @@
  ## ACL Member Portal | The Association for Computational Linguistics Member Portal
  - [https://aclweb.org](https://aclweb.org)
  - date_published: 2024-02-24T00:00:00+00:00
-
- ## ACL2023
- - [https://virtual2023.aclweb.org](https://virtual2023.aclweb.org)
- - date_published: 2023-07-28T17:27:32+00:00
-
- ## ACM Account
- - [https://accounts.acm.org](https://accounts.acm.org)
- - date_published: 2024-06-22T11:45:48.714858+00:00
-
- ## Association for Computing Machinery
- - [https://acm.org](https://acm.org)
- - date_published: 2024-06-23T06:45:45+00:00
 

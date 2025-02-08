@@ -1,3 +1,7 @@
+ ## Home | NearFinder
+ - [https://nearfinder.com](https://nearfinder.com)
+ - date_published: 2024-06-29T19:36:07.075519+00:00
+
  ## New York - New York Business directory
  - [https://nearfinderus.com](https://nearfinderus.com)
  - date_published: 2024-05-07T13:48:57.488304+00:00
@@ -4030,8 +4034,4 @@
  ## About New7Wonders | News Room & About us
  - [https://marker.new7wonders.com](https://marker.new7wonders.com)
  - date_published: 2024-06-30T09:53:19.564167+00:00
-
- ## Creating Global Memory | New7Wonders of Nature
- - [https://nature.new7wonders.com](https://nature.new7wonders.com)
- - date_published: 2024-06-30T09:53:14.050843+00:00
 

@@ -1,3 +1,11 @@
+ ## Berkeley Engineering
+ - [http://coe.berkeley.edu](http://coe.berkeley.edu)
+ - date_published: 2025-01-15T22:59:13.322329+00:00
+
+ ## Home | Cognitive Science
+ - [https://cogsci.berkeley.edu](https://cogsci.berkeley.edu)
+ - date_published: 2024-07-02T08:42:18+00:00
+
  ## colala: the computation and language lab at UC Berkeley
  - [https://colala.berkeley.edu](https://colala.berkeley.edu)
  - date_published: 2024-06-30T05:43:29.206976+00:00
@@ -4027,12 +4035,4 @@
  ## Facilities Engagement and Development (FED) Council
  - [https://fed.caltech.edu](https://fed.caltech.edu)
  - date_published: 2025-01-16T05:31:18.515352+00:00
-
- ## Facilities Engagement and Development (FED) Council
- - [https://fed.sites.caltech.edu](https://fed.sites.caltech.edu)
- - date_published: 2025-01-20T14:06:14.058349+00:00
-
- ## Index
- - [https://feeds.library.caltech.edu](https://feeds.library.caltech.edu)
- - date_published: 2024-04-30T03:32:40.809774+00:00
 

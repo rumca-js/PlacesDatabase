@@ -1,3 +1,7 @@
+ ## Spunk On A Stick's Tips
+ - [http://circleoffriendsbooks.blogspot.com](http://circleoffriendsbooks.blogspot.com)
+ - date_published: 2024-10-17T23:03:25.277727+00:00
+
  ## SpeyCo Circle Spey Reel
  - [http://circlespey.blogspot.com](http://circlespey.blogspot.com)
  - date_published: 2025-01-20T18:48:58.429816+00:00
@@ -4001,8 +4005,4 @@
  ## Demeur
  - [http://demeur.blogspot.com](http://demeur.blogspot.com)
  - date_published: 2024-12-31T22:53:12+00:00
-
- ## Demi Morgana
- - [http://demimorgana.blogspot.com](http://demimorgana.blogspot.com)
- - date_published: 2024-07-19T18:41:17+00:00
 

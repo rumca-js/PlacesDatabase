@@ -1,3 +1,7 @@
+ ## The Business Doctor - Houston area certified QuickBooks and QuickBooks Point of Sale ProAdvisor.
+ - [https://bizdoc.com](https://bizdoc.com)
+ - date_published: 2022-06-24T21:11:33+00:00
+
  ## Bizcommunity | Daily business news, companies, jobs and events across 19 industries in South Africa
  - [https://biz-file.com](https://biz-file.com)
  - date_published: 2024-06-29T18:28:53+00:00
@@ -4048,8 +4052,4 @@
  ## ブログみるとは？ ダウンロード方法は？ - ブログみる
  - [https://blogmiru.com](https://blogmiru.com)
  - date_published: 2024-12-14T20:21:47.027802+00:00
-
- ## 美術ブログ 人気ブログランキングとブログ検索 - にほんブログ村
- - [https://art.blogmura.com](https://art.blogmura.com)
- - date_published: 2025-01-22T17:58:24.083060+00:00
 

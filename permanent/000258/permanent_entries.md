@@ -1,3 +1,7 @@
+ ## Podcast Foundations - Your ultimate podcast and streaming app guide
+ - [https://streampdx.com](https://streampdx.com)
+ - date_published: 2024-05-01T00:32:26.835613+00:00
+
  ## AFROTECH CONFERENCE 2023
  - [https://attendee-aftc2023.streampoint.com](https://attendee-aftc2023.streampoint.com)
  - date_published: 2024-06-15T06:03:12.689982+00:00
@@ -4060,8 +4064,4 @@
  ## The Broiler Room | Bad Manners | Substack
  - [https://badmanners.substack.com](https://badmanners.substack.com)
  - date_published: 2024-06-17T11:45:33.829758+00:00
-
- ## https://badnewsletter.substack.com
- - [https://badnewsletter.substack.com](https://badnewsletter.substack.com)
- - date_published: 2024-01-21T18:29:58.388675+00:00
 

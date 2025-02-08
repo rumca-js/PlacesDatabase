@@ -1,3 +1,15 @@
+ ## Home - Rethinking Economics
+ - [https://www.rethinkeconomics.org](https://www.rethinkeconomics.org)
+ - date_published: 2024-08-27T00:00:00+00:00
+
+ ## Welcome rethinkingnuclearweapons.org - BlueHost.com
+ - [http://www.rethinkingnuclearweapons.org](http://www.rethinkingnuclearweapons.org)
+ - date_published: 2024-12-31T14:05:06.327159+00:00
+
+ ## Rethinking the Past – Exhibition Site
+ - [https://rethinkingthepast.org](https://rethinkingthepast.org)
+ - date_published: 2024-09-26T18:06:57.775523+00:00
+
  ## Rethinking Foundations of Physics 2023
  - [https://rethinking-workshop.org](https://rethinking-workshop.org)
  - date_published: 2024-05-01T07:48:40.079872+00:00
@@ -4039,16 +4051,4 @@
  ## SALOME PROJECT
  - [https://discourse.salome-platform.org](https://discourse.salome-platform.org)
  - date_published: 2024-10-16T05:53:37.902099+00:00
-
- ## Sign in - Matomo
- - [https://matomo.salome-platform.org](https://matomo.salome-platform.org)
- - date_published: 2024-10-16T05:53:40.356476+00:00
-
- ## SALOME PLATFORM - The open-source platform for numerical simulation
- - [https://salome-platform.org](https://salome-platform.org)
- - date_published: 2024-06-17T03:05:27.591620+00:00
-
- ## SALOME PROJECT
- - [https://discourse.salomeplatform.org](https://discourse.salomeplatform.org)
- - date_published: 2024-12-15T19:06:35.826510+00:00
 

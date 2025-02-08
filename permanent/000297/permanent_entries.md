@@ -1,3 +1,11 @@
+ ## Newsroom | John Wiley & Sons, Inc.
+ - [https://newsroom.wiley.com](https://newsroom.wiley.com)
+ - date_published: 2023-12-21T15:13:35.167663+00:00
+
+ ## https://onlinelibrary.wiley.com
+ - [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
+ - date_published: 2023-10-25T18:05:35.898602+00:00
+
  ## Cierpliwości...
  - [http://ordering.onlinelibrary.wiley.com](http://ordering.onlinelibrary.wiley.com)
  - date_published: 2024-06-28T21:09:15.513096+00:00
@@ -4037,13 +4045,4 @@
  - [https://spelltable.wizards.com](https://spelltable.wizards.com)
  - date_published: 2024-05-07T14:32:49.470231+00:00
  - tags: ['magic the gathering']
-
- ## Wizards of the Coast
- - [https://support.wizards.com](https://support.wizards.com)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Wizards of the Coast
- - [https://wizards.com](https://wizards.com)
- - date_published: 2024-07-08T11:33:12+00:00
- - tags: ['card game developer', 'card games', 'wizards of the coast', 'magic the gathering']
 

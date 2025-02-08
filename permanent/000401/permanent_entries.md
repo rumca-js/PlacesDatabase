@@ -1,3 +1,11 @@
+ ## KCL programming language. - Mutation  Validation  Abstraction  Automation  Production-Ready | KCL programming language.
+ - [https://kcl-lang.io](https://kcl-lang.io)
+ - date_published: 2024-11-19T10:08:41+00:00
+
+ ## KCL, a constraint-based functional language for configuration
+ - [https://www.kcl-lang.io](https://www.kcl-lang.io)
+ - date_published: 2024-08-05T15:42:21+00:00
+
  ## kcp.io
  - [https://www.kcp.io](https://www.kcp.io)
  - date_published: 2025-02-03T22:33:29.226643+00:00
@@ -4043,12 +4051,4 @@
  ## Metrist Home - Metrist
  - [https://metrist.io](https://metrist.io)
  - date_published: 2023-10-25T20:00:48.464072+00:00
-
- ## metromagic | Unlimited Web Design & Digital Marketing Services | Professional Website Development
- - [https://metromagic.io](https://metromagic.io)
- - date_published: 2025-01-22T13:19:16.449316+00:00
-
- ## Mettle - Laravel PHP and ElasticSearch consultants
- - [https://mettle.io](https://mettle.io)
- - date_published: 2024-07-18T22:16:16.780038+00:00
 

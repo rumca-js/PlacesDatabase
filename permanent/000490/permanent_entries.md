@@ -1,3 +1,15 @@
+ ## PPF: Simplifying Nonprofit Administration via Fiscal Sponsorship
+ - [http://ppf.org](http://ppf.org)
+ - date_published: 2024-06-19T10:02:25.302783+00:00
+
+ ## Project Perfect Game
+ - [https://www.ppgame.org](https://www.ppgame.org)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Home
+ - [https://pphcollective.org](https://pphcollective.org)
+ - date_published: 2024-07-09T12:18:23+00:00
+
  ## Home
  - [https://ppic.org](https://ppic.org)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -4021,17 +4033,4 @@ Ending Institutional America
  ## GitHub - qbittorrent/qBittorrent: qBittorrent BitTorrent client
  - [https://git.qbittorrent.org](https://git.qbittorrent.org)
  - date_published: 2024-05-11T11:41:17.331606+00:00
-
- ## qBittorrent Official Website
- - [https://qbittorrent.org](https://qbittorrent.org)
- - date_published: 2024-05-26T19:00:02+00:00
- - tags: ['torrent client', 'file sharing']
-
- ## Home
- - [https://wiki.qbittorrent.org](https://wiki.qbittorrent.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Friends of Off-Road Cycling - QC Friends of Off Road Cycling Home
- - [http://www.qcforc.org](http://www.qcforc.org)
- - date_published: 2024-07-14T15:22:54.745064+00:00
 

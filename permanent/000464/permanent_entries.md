@@ -1,3 +1,15 @@
+ ## Cordova Community Council - Cordova Community Council
+ - [https://cordovacouncil.org](https://cordovacouncil.org)
+ - date_published: 2024-04-28T04:28:15.015902+00:00
+
+ ## The International Cordyline Society
+ - [http://www.cordyline.org](http://www.cordyline.org)
+ - date_published: 2024-12-31T15:36:27+00:00
+
+ ## Career Opportunities in Real Estate
+ - [https://corearc.org](https://corearc.org)
+ - date_published: 2025-02-04T12:05:34.514955+00:00
+
  ## Career Opportunities in Real Estate
  - [https://www.corearc.org](https://www.corearc.org)
  - date_published: 2025-02-04T12:05:30.368604+00:00
@@ -4021,16 +4033,4 @@ irc logs at libera.irclog.whitequark.org
  ## Dancing Well: The Soldier Project
  - [http://www.dancingwell.org](http://www.dancingwell.org)
  - date_published: 2025-01-08T21:43:37.601181+00:00
-
- ## Dan Cohen – Vice Provost, Dean, and Professor at Northeastern University
- - [https://dancohen.org](https://dancohen.org)
- - date_published: 2024-01-30T17:18:12.589463+00:00
-
- ## Humane Ingenuity
- - [https://newsletter.dancohen.org](https://newsletter.dancohen.org)
- - date_published: 2024-08-17T22:29:00.556011+00:00
-
- ## D&AD | Global Association for Creative Advertising & Design Awards
- - [https://www.dandad.org](https://www.dandad.org)
- - date_published: 2024-08-19T11:48:56.983664+00:00
 

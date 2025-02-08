@@ -1,3 +1,11 @@
+ ## Deinheimbedarf » Parfums, Kamine und mehr
+ - [https://deinheimbedarf.de](https://deinheimbedarf.de)
+ - date_published: 2023-08-30T00:00:00+00:00
+
+ ## DeinProgramm
+ - [https://www.deinprogramm.de](https://www.deinprogramm.de)
+ - date_published: 2024-07-05T13:52:14+00:00
+
  ## Subway Order
  - [https://dein-subway.de](https://dein-subway.de)
  - date_published: 2024-05-11T07:36:18.157944+00:00
@@ -3998,12 +4006,4 @@ Heinsohn
  ## Fairness im Handel - Fairness im Handel
  - [http://www.fairness-im-handel.de](http://www.fairness-im-handel.de)
  - date_published: 2020-11-13T00:00:00+00:00
-
- ## Fairtrade Deutschland
- - [https://www.fairtrade-deutschland.de](https://www.fairtrade-deutschland.de)
- - date_published: 2024-07-08T16:40:54.066626+00:00
-
- ## Gesundheitlicher Verbraucherschutz im digitalen Health-Style-Markt | Verbraucherzentrale.de
- - [https://www.faktencheck-gesundheitswerbung.de](https://www.faktencheck-gesundheitswerbung.de)
- - date_published: 2024-08-08T21:11:23.579416+00:00
 

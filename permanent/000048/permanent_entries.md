@@ -1,3 +1,7 @@
+ ## Home - ActivationBoxx
+ - [https://activationboxx.com](https://activationboxx.com)
+ - date_published: 2024-10-23T07:22:41.870490+00:00
+
  ## Activator Studios
  - [https://activatorstudios.com](https://activatorstudios.com)
  - date_published: 2023-01-26T00:00:00+00:00
@@ -4058,8 +4062,4 @@ Service - ADAM MARK ZACHS - Convicted Murderer and Fugitive
  ## Adragos Pharma - Your Global CDMO Partner in the Pharmaceutical and Biotech Industry
  - [https://adragos-pharma.com](https://adragos-pharma.com)
  - date_published: 2024-03-07T10:19:52+00:00
-
- ## Marketing, Advertising and Social Media News With Attitude by Steve Hall
- - [https://adrants.com](https://adrants.com)
- - date_published: 2024-08-18T03:40:00.112979+00:00
 

@@ -1,3 +1,7 @@
+ ## Esquerda Republicana
+ - [http://esquerda-republicana.blogspot.com](http://esquerda-republicana.blogspot.com)
+ - date_published: 2024-10-13T10:30:51+00:00
+
  ## ESBOÇOS POÉTICOS
  - [http://esquicospoeticos-avlisjota.blogspot.com](http://esquicospoeticos-avlisjota.blogspot.com)
  - date_published: 2024-12-19T03:30:28+00:00
@@ -4004,8 +4008,4 @@
  ## Ghana Together News Updates
  - [https://ghanatogether.blogspot.com](https://ghanatogether.blogspot.com)
  - date_published: 2025-01-15T17:51:58.837746+00:00
-
- ## GHC on SPARC
- - [http://ghcsparc.blogspot.com](http://ghcsparc.blogspot.com)
- - date_published: 2024-02-20T22:23:21+00:00
 

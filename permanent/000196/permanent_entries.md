@@ -1,3 +1,7 @@
+ ## Microsoft – chmura, komputery, aplikacje i gry
+ - [https://go.microsoft.com](https://go.microsoft.com)
+ - date_published: 2024-04-28T02:26:37.044247+00:00
+
  ## Microsoft Graph Dev Center | APIs and app development
  - [https://graph.microsoft.com](https://graph.microsoft.com)
  - date_published: 2024-05-07T09:12:40.653122+00:00
@@ -4053,9 +4057,4 @@
  ## Training Program - miniOrange Training
  - [https://training.miniorange.com](https://training.miniorange.com)
  - date_published: 2022-12-09T05:56:15+00:00
-
- ## NO BULLSHIT TEXTBOOKS
- - [https://minireference.com](https://minireference.com)
- - date_published: 2024-06-01T04:51:15.845032+00:00
- - tags: ['book']
 

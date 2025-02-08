@@ -1,3 +1,7 @@
+ ## My Way Aesthetics
+ - [https://myway.glossgenius.com](https://myway.glossgenius.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
  ## Glossier
  - [https://glossier.com](https://glossier.com)
  - date_published: 2024-04-29T03:42:50.133118+00:00
@@ -4026,8 +4030,4 @@
  ## GOOD2BSOCIAL ACADEMY
  - [https://academy.good2bsocial.com](https://academy.good2bsocial.com)
  - date_published: 2024-10-14T20:07:07.759035+00:00
-
- ## Home
- - [https://good2bsocial.com](https://good2bsocial.com)
- - date_published: 2024-06-04T00:00:00+00:00
 

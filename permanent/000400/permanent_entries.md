@@ -1,3 +1,11 @@
+ ## Helio | Sell More with Crypto - Instant DeFi Payments for Merchants
+ - [https://hel.io](https://hel.io)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Terms of Service | Helio legals
+ - [https://info.docs.hel.io](https://info.docs.hel.io)
+ - date_published: 2024-09-09T22:25:05.174861+00:00
+
  ## Join Helio
  - [https://join.hel.io](https://join.hel.io)
  - date_published: 2024-09-09T22:25:01.684755+00:00
@@ -4159,12 +4167,4 @@
  ## F# Reflections
  - [http://kcieslak.io](http://kcieslak.io)
  - date_published: 2020-07-13T18:46:57+00:00
-
- ## KCL programming language. - Mutation  Validation  Abstraction  Automation  Production-Ready | KCL programming language.
- - [https://kcl-lang.io](https://kcl-lang.io)
- - date_published: 2024-11-19T10:08:41+00:00
-
- ## KCL, a constraint-based functional language for configuration
- - [https://www.kcl-lang.io](https://www.kcl-lang.io)
- - date_published: 2024-08-05T15:42:21+00:00
 

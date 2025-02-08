@@ -1,3 +1,7 @@
+ ## Guggenheim Partners, LLC
+ - [https://www.guggenheimpartners.com](https://www.guggenheimpartners.com)
+ - date_published: 2024-12-19T09:21:03.743704+00:00
+
  ## Liquid Energy - Solid Engineering | Gugler Water Turbines
  - [https://www.gugler.com](https://www.gugler.com)
  - date_published: 2024-12-25T20:23:13.595729+00:00
@@ -4025,8 +4029,4 @@
  ## Hal Elrod | The Miracle Morning | #1 Bestselling Author & Keynote Speaker
  - [https://halelrod.com](https://halelrod.com)
  - date_published: 2024-06-23T02:36:54.831169+00:00
-
- ## Home
- - [https://www.haleon.com](https://www.haleon.com)
- - date_published: 2024-10-23T16:39:58+00:00
 

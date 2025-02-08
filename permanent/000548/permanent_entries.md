@@ -1,3 +1,15 @@
+ ## Suku | Simplyfing people's lives with Web3 Solutions
+ - [https://www.suku.world](https://www.suku.world)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Where writers find their niche | t2.world
+ - [https://t2.world](https://t2.world)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## tamanotchi.world | Welcome to tamaNOTchi! - Population: 12463
+ - [https://tamanotchi.world](https://tamanotchi.world)
+ - date_published: 2024-05-08T10:46:22.866400+00:00
+
  ## tendai
  - [https://www.tendai.world](https://www.tendai.world)
  - date_published: 2024-06-06T00:00:00+00:00
@@ -4041,16 +4053,4 @@ VANCOUVER BC PROGRAMMER
  ## GeoCam - AI-Native Reality Capture Platform
  - [http://geocam.xyz](http://geocam.xyz)
  - date_published: 2024-10-17T14:58:38.938791+00:00
-
- ## Geocode.xyz: Geoparse, Geocode and map your geo data to latitude,longitude and elevation.
- - [https://geocode.xyz](https://geocode.xyz)
- - date_published: 2024-08-07T18:22:49.980263+00:00
-
- ## Geometry
- - [https://geometry.xyz](https://geometry.xyz)
- - date_published: 2024-10-27T12:05:49.685130+00:00
-
- ## Calypso - The Interchain Trading Terminal
- - [https://getcalypso.xyz](https://getcalypso.xyz)
- - date_published: 2024-07-26T00:00:00+00:00
 

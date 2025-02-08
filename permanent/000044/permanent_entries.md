@@ -1,3 +1,7 @@
+ ## front
+ - [https://sedeelectronica.sic.gov.co](https://sedeelectronica.sic.gov.co)
+ - date_published: 2024-09-09T21:41:15+00:00
+
  ## Superintendencia de Industria y Comercio.
  - [https://sic.gov.co](https://sic.gov.co)
  - date_published: 2024-06-11T22:14:24+00:00
@@ -4037,8 +4041,4 @@
  ## Blog | 1Password
  - [https://blog.1password.com](https://blog.1password.com)
  - date_published: 2023-10-25T08:37:26.167522+00:00
-
- ## Test Page for the Nginx HTTP Server on the Amazon Linux AMI
- - [https://c.1password.com](https://c.1password.com)
- - date_published: 2023-10-13T13:29:57+00:00
 

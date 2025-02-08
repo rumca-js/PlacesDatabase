@@ -1,3 +1,15 @@
+ ## Center for High Performance Computing | Babeș-Bolyai University
+ - [http://hpc.cs.ubbcluj.ro](http://hpc.cs.ubbcluj.ro)
+ - date_published: 2024-06-23T10:41:55.553098+00:00
+
+ ## - Managementul activităţii academice/ştiinţifice UBB
+ - [http://infocercetare.ubbcluj.ro](http://infocercetare.ubbcluj.ro)
+ - date_published: 2024-06-23T10:41:54.369709+00:00
+
+ ## kmti.hiphi.ubbcluj.ro |
+ - [https://kmti.hiphi.ubbcluj.ro](https://kmti.hiphi.ubbcluj.ro)
+ - date_published: 2025-02-01T17:11:23.499111+00:00
+
  ## Facultatea de Matematică și Informatică | Universitatea Babeș-Bolyai Cluj-Napoca
  - [https://www.cs.ubbcluj.ro](https://www.cs.ubbcluj.ro)
  - date_published: 2024-05-06T14:11:16.484259+00:00
@@ -4014,16 +4026,4 @@ A slim and mobile-friendly IIIF document viewer
  ## Недвижимость FazWaz - 264,609 квартир и домов на продажу
  - [https://www.fazwaz.ru](https://www.fazwaz.ru)
  - date_published: 2024-02-21T00:00:00+00:00
-
- ## ФК "Чайка" Юбилейный
- - [http://www.fc-chaika.ru](http://www.fc-chaika.ru)
- - date_published: 2025-01-20T21:39:47.903598+00:00
-
- ## Федеральный центр навигационных данных
- - [https://fcnd.ru](https://fcnd.ru)
- - date_published: 2024-07-02T23:46:32.922708+00:00
-
- ## Fighting.ru - всё о файтингах
- - [http://www.fighting.ru](http://www.fighting.ru)
- - date_published: 2024-10-26T09:13:34.576484+00:00
 

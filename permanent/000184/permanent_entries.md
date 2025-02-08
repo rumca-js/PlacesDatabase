@@ -1,3 +1,7 @@
+ ## Configuration Change Detection and Response for MSPs | Liongard
+ - [https://www.liongard.com](https://www.liongard.com)
+ - date_published: 2025-01-20T20:41:59.326639+00:00
+
  ## Contemporary Dance | Melbourne | Lion Heart Dance Company
  - [https://www.lionheartdancecompany.com](https://www.lionheartdancecompany.com)
  - date_published: 2024-12-20T18:41:50.443951+00:00
@@ -4010,8 +4014,4 @@
  ## udrepper
  - [https://udrepper.livejournal.com](https://udrepper.livejournal.com)
  - date_published: 2024-07-07T04:02:49.558505+00:00
-
- ## uglynoob
- - [https://uglynoob.livejournal.com](https://uglynoob.livejournal.com)
- - date_published: 2024-06-21T14:42:51.556269+00:00
 

@@ -1,3 +1,15 @@
+ ## Home
+ - [https://dspi.web.ox.ac.uk](https://dspi.web.ox.ac.uk)
+ - date_published: 2024-06-17T14:46:56+00:00
+
+ ## Dynamic Robot Systems Group
+ - [https://dynamic.robots.ox.ac.uk](https://dynamic.robots.ox.ac.uk)
+ - date_published: 2024-10-20T07:37:12.743282+00:00
+
+ ## Taylor Editions / Home Page
+ - [https://editions.mml.ox.ac.uk](https://editions.mml.ox.ac.uk)
+ - date_published: 2024-12-31T18:42:10.045881+00:00
+
  ## Home page
  - [https://edu.admin.ox.ac.uk](https://edu.admin.ox.ac.uk)
  - date_published: 2024-06-13T10:16:17+00:00
@@ -4017,16 +4029,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## An Oasis
  - [https://anoasis.co.uk](https://anoasis.co.uk)
  - date_published: 2024-07-13T10:37:18.573213+00:00
-
- ## Anorak News - Pop culture, media, sport and weirdness
- - [https://anorak.co.uk](https://anorak.co.uk)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Anorak News - Pop culture, media, sport and weirdness
- - [https://images.anorak.co.uk](https://images.anorak.co.uk)
- - date_published: 2025-02-01T13:31:34.102553+00:00
-
- ## Another Kind Studio – A creative graphic design agency that helps brands stand out.
- - [https://anotherkind.co.uk](https://anotherkind.co.uk)
- - date_published: 2024-09-20T07:15:40+00:00
 

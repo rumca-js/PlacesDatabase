@@ -1,3 +1,7 @@
+ ## Ipv6 seminar
+ - [https://ipv6-free-webinar.web.app](https://ipv6-free-webinar.web.app)
+ - date_published: 2023-04-26T04:10:09+00:00
+
  ## Portfolio
  - [https://manthanank.web.app](https://manthanank.web.app)
  - date_published: 2023-06-15T12:39:28+00:00
@@ -4029,8 +4033,4 @@ October 2024 in Singapore
  ## Citizen Science an der Universität Wien
  - [http://citizenscience.univie.ac.at](http://citizenscience.univie.ac.at)
  - date_published: 2024-10-14T23:58:07.860828+00:00
-
- ## Digitalisierung
- - [http://digital.univie.ac.at](http://digital.univie.ac.at)
- - date_published: 2024-10-14T23:57:21.499651+00:00
 

@@ -1,3 +1,15 @@
+ ## Hohe Tauern: Wandern, Trekking & Bergsteigen | Tauernhöhenwege
+ - [https://www.tauernhoehenwege.org](https://www.tauernhoehenwege.org)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Tauromachy
+ - [https://tauromachy.org](https://tauromachy.org)
+ - date_published: 2024-06-19T02:13:16.944706+00:00
+
+ ## Home - Tau Software
+ - [http://tausoft.org](http://tausoft.org)
+ - date_published: 2015-11-11T00:00:00+00:00
+
  ## TAU Trust UK | Tel Aviv University Trust – Pursuing the Unknown
  - [https://tautrust.org](https://tautrust.org)
  - date_published: 2024-08-19T03:21:20.000784+00:00
@@ -4018,16 +4030,4 @@
  ## The Sembrich: Music, History & Nature on Lake George
  - [https://www.thesembrich.org](https://www.thesembrich.org)
  - date_published: 2024-08-19T13:54:21.074444+00:00
-
- ## Home | The Service Collective
- - [https://theservicecollective.org](https://theservicecollective.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## The Session
- - [https://thesession.org](https://thesession.org)
- - date_published: 2024-05-01T02:17:26.315758+00:00
-
- ## The Shed
- - [https://www.theshed.org](https://www.theshed.org)
- - date_published: 2024-09-16T00:00:00+00:00
 

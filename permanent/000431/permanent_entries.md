@@ -1,3 +1,11 @@
+ ## Brownbook - The Global Business Listing Database. Free business listings for SEO and search engine marketing
+ - [https://brownbook.net](https://brownbook.net)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## BrowserScan Blog
+ - [https://blog.browserscan.net](https://blog.browserscan.net)
+ - date_published: 2024-08-07T00:00:00+00:00
+
  ## Best BrowserScan Fingerprint Detection Tool - Improve your online privacy security
  - [https://browserscan.net](https://browserscan.net)
  - date_published: 2024-04-22T19:21:22.669255+00:00
@@ -4042,12 +4050,4 @@ Warburton’s Homepage
  ## cPanel & WHM Developer Portal
  - [https://api.docs.cpanel.net](https://api.docs.cpanel.net)
  - date_published: 2024-08-26T13:18:02+00:00
-
- ## Hosting Platform of Choice
- - [https://cpanel.net](https://cpanel.net)
- - date_published: 2024-06-29T14:18:22+00:00
-
- ## cPanel & WHM Documentation | cPanel & WHM Documentation
- - [https://docs.cpanel.net](https://docs.cpanel.net)
- - date_published: 2024-05-29T04:48:12.203695+00:00
 

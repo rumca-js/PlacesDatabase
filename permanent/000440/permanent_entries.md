@@ -1,3 +1,11 @@
+ ## Pangea-Haus
+ - [http://pangea-haus.net](http://pangea-haus.net)
+ - date_published: 2024-09-12T16:12:23.718344+00:00
+
+ ## Home - Panorama Productions Best News
+ - [http://www.panoramaproductions.net](http://www.panoramaproductions.net)
+ - date_published: 2025-01-01T05:24:17+00:00
+
  ## Niezależna Gazeta Polska - NOWE PAŃSTWO
  - [https://panstwo.net](https://panstwo.net)
  - date_published: 2024-06-30T09:27:44.745237+00:00
@@ -4040,13 +4048,4 @@
  ## RealElvish Academy – Á parë Eldarin!
  - [https://academy.realelvish.net](https://academy.realelvish.net)
  - date_published: 2024-06-21T00:00:00+00:00
-
- ## RealElvish.net
- - [http://realelvish.net](http://realelvish.net)
- - date_published: 2024-06-21T00:00:00+00:00
- - tags: ['lord of the rings', 'tolkien']
-
- ## RealElvish Store – Elvish for your Tattoos, Rings, and anything else you can think of!
- - [https://store.realelvish.net](https://store.realelvish.net)
- - date_published: 2024-06-12T00:00:00+00:00
 

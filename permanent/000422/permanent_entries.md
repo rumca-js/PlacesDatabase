@@ -1,3 +1,11 @@
+ ## Biržų „Aušros“ pagrindinė mokykla Puslapis yra kuriamas (ne viskas iš karto)
+ - [http://birzuausra.lt](http://birzuausra.lt)
+ - date_published: 2024-07-01T11:36:05.839224+00:00
+
+ ## Blue Yellow
+ - [https://blue-yellow.lt](https://blue-yellow.lt)
+ - date_published: 2024-08-11T18:58:18.377204+00:00
+
  ## VšĮ „Mėlyna ir geltona“ - Blue/Yellow
  - [https://radarom.blue-yellow.lt](https://radarom.blue-yellow.lt)
  - date_published: 2024-02-18T08:23:24.971532+00:00
@@ -3996,12 +4004,4 @@
  ## Suppliers and Partners | MAN Truck & Bus
  - [https://purchasing.man](https://purchasing.man)
  - date_published: 2024-10-18T23:00:17+00:00
-
- ## ℂ𝕝𝕠𝕦𝕕𝕝𝕠𝕣𝕕 𝕄𝕒𝕟𝕒𝕘𝕖𝕞𝕖𝕟𝕥
- - [https://cloudlord.management](https://cloudlord.management)
- - date_published: 2024-05-11T10:25:40.489779+00:00
-
- ## Home | Commercial Property Management | Real Estate Manager
- - [http://flproperty.management](http://flproperty.management)
- - date_published: 2024-12-26T18:36:00.639600+00:00
 

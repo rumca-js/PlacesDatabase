@@ -1,3 +1,7 @@
+ ## China IPR - Intellectual Property Developments in China
+ - [https://chinaipr.com](https://chinaipr.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
  ## 中研网_中国行业研究网_市场调研_研究报告_权威资讯门户_中研普华集团
  - [http://www.chinairn.com](http://www.chinairn.com)
  - date_published: 2024-10-24T07:58:24+00:00
@@ -4054,8 +4058,4 @@
  ## CIO | The voice of IT leadership
  - [https://cio.com](https://cio.com)
  - date_published: 2023-10-25T13:23:27.607432+00:00
-
- ## Home - United States Edition
- - [https://us.resources.cio.com](https://us.resources.cio.com)
- - date_published: 2021-09-21T00:00:00+00:00
 

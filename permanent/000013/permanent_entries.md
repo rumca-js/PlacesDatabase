@@ -1,4 +1,8 @@
  ## Saucermen Studios - 3D printable sci-fi terrain for tabletop wargaming
+ - [https://saucermenstudios.com.au](https://saucermenstudios.com.au)
+ - date_published: 2018-10-21T18:47:20+00:00
+
+ ## Saucermen Studios - 3D printable sci-fi terrain for tabletop wargaming
  - [https://staging15.saucermenstudios.com.au](https://staging15.saucermenstudios.com.au)
  - date_published: 2018-10-22T04:47:20+00:00
 
@@ -4002,8 +4006,4 @@ University of Technology
  ## UniSQ Handbook
  - [https://handbook-guide.unisq.edu.au](https://handbook-guide.unisq.edu.au)
  - date_published: 2024-12-15T14:25:20.719058+00:00
-
- ## University of Southern Queensland | UniSQ
- - [https://www.unisq.edu.au](https://www.unisq.edu.au)
- - date_published: 2024-12-15T14:25:29.982032+00:00
 

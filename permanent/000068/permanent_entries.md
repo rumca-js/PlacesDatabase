@@ -1,3 +1,7 @@
+ ## Portfolio Archives - Marian Bantjes
+ - [http://www.bantjes.com](http://www.bantjes.com)
+ - date_published: 2024-09-14T22:58:59.131453+00:00
+
  ## Home - UK Bean-to-Bar Chocolate & Cocoa Pulp Juice Makers
  - [https://bantuchocolate.com](https://bantuchocolate.com)
  - date_published: 2025-02-02T09:26:14.874193+00:00
@@ -4024,8 +4028,4 @@ rain or shine
  ## The Beast Unleashed & Nasty Beast Hard Tea
  - [https://beastunleashed.com](https://beastunleashed.com)
  - date_published: 2024-09-16T06:53:44.812011+00:00
-
- ## https://www.beatandraise.com
- - [https://beatandraise.com](https://beatandraise.com)
- - date_published: 2024-01-09T02:30:11.448154+00:00
 

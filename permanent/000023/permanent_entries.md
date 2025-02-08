@@ -1,3 +1,7 @@
+ ## The Giller Prize – Canada's first word in fiction
+ - [https://gillerprize.ca](https://gillerprize.ca)
+ - date_published: 2024-11-30T13:48:25.576033+00:00
+
  ## Gillette Venus Women's Razors and Shaving Products | Venus CA
  - [https://www.gillettevenus.ca](https://www.gillettevenus.ca)
  - date_published: 2024-10-23T09:03:50+00:00
@@ -4031,8 +4035,4 @@
  ## packetcat's Gitea
  - [https://git.packetcat.ca](https://git.packetcat.ca)
  - date_published: 2024-12-27T14:26:26.975548+00:00
-
- ## Pack Mule
- - [https://packmule.ca](https://packmule.ca)
- - date_published: 2024-04-28T03:26:27.765989+00:00
 

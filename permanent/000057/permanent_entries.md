@@ -1,3 +1,7 @@
+ ## The Boston Globe
+ - [https://bostonglobe-prod.cdn.arcpublishing.com](https://bostonglobe-prod.cdn.arcpublishing.com)
+ - date_published: 2024-05-08T03:16:58.803537+00:00
+
  ## CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
  - [https://coindesk-coindesk-prod.cdn.arcpublishing.com](https://coindesk-coindesk-prod.cdn.arcpublishing.com)
  - date_published: 2024-07-14T21:56:02+00:00
@@ -4029,8 +4033,4 @@ By Arts Economics
  ## Art Walks Boston
  - [http://artwalksboston.com](http://artwalksboston.com)
  - date_published: 2024-10-19T15:06:29.015646+00:00
-
- ## Home
- - [http://danavenetiarose.artweb.com](http://danavenetiarose.artweb.com)
- - date_published: 2025-01-31T18:04:45.238428+00:00
 

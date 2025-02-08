@@ -1,3 +1,8 @@
+ ## Open Source Solutions for Enterprise Servers & Cloud | SUSE
+ - [https://suse.com](https://suse.com)
+ - date_published: 2024-06-22T15:30:31.340238+00:00
+ - tags: ['operating system', 'open source']
+
  ## Thoughts - Create intelligent tweets
  - [https://thoughts.sushant-kumar.com](https://thoughts.sushant-kumar.com)
  - date_published: 2024-10-30T21:25:00.200383+00:00
@@ -4021,8 +4026,4 @@
  ## Syntiant
  - [https://syntiant.com](https://syntiant.com)
  - date_published: 2024-05-06T23:12:44.798873+00:00
-
- ## Syntorial: The Ultimate Synthesizer Course
- - [https://www.syntorial.com](https://www.syntorial.com)
- - date_published: 2025-01-20T07:59:54.296055+00:00
 

@@ -1,3 +1,11 @@
+ ## WarGamer Eric's Hobby and Gaming Emporium
+ - [https://wargamereric.wordpress.com](https://wargamereric.wordpress.com)
+ - date_published: 2025-02-05T05:16:52.960687+00:00
+
+ ## Wargames Association Of South Pembrokeshire
+ - [https://wargamesasp.wordpress.com](https://wargamesasp.wordpress.com)
+ - date_published: 2024-12-31T23:50:33.194221+00:00
+
  ## The wargames pavilion
  - [https://wargamespavilion.wordpress.com](https://wargamespavilion.wordpress.com)
  - date_published: 2025-01-01T16:04:30.782499+00:00
@@ -4012,12 +4020,4 @@
  ## WP Booking Calendar - The #1 Booking Plugin for WordPress.
  - [https://wpbookingcalendar.com](https://wpbookingcalendar.com)
  - date_published: 2012-05-19T15:25:00+00:00
-
- ## Daily WordPress Podcast - WordPress News in Brief(s)
- - [https://wpbriefs.com](https://wpbriefs.com)
- - date_published: 2023-12-22T09:42:53+00:00
-
- ## WordPress Plugin Developer - WP-Buddy
- - [https://wp-buddy.com](https://wp-buddy.com)
- - date_published: 2023-12-11T19:06:32.194241+00:00
 

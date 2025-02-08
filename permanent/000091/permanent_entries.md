@@ -1,3 +1,7 @@
+ ## Fair Deal Phil
+ - [http://www.fairdealphil.blogspot.com](http://www.fairdealphil.blogspot.com)
+ - date_published: 2024-10-21T12:01:04.321226+00:00
+
  ## The Belmont Club
  - [http://www.fallbackbelmont.blogspot.com](http://www.fallbackbelmont.blogspot.com)
  - date_published: 2024-06-02T18:02:36+00:00
@@ -4004,8 +4008,4 @@
  ## bluoz
  - [http://www.bluoz.com](http://www.bluoz.com)
  - date_published: 2024-08-06T05:55:58.602040+00:00
-
- ## BluPeak Credit Union | Formerly USECU | Serving California
- - [https://blupeak.com](https://blupeak.com)
- - date_published: 2024-05-03T00:00:00+00:00
 

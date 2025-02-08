@@ -1,3 +1,11 @@
+ ## Investor Relations | Viasat, Inc.
+ - [https://investors.viasat.com](https://investors.viasat.com)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## My Viasat | Manage Your Account
+ - [https://my.viasat.com](https://my.viasat.com)
+ - date_published: 2024-10-30T14:01:35+00:00
+
  ## Global Communications | Services, Solutions & Satellite Internet
  - [https://www.viasat.com](https://www.viasat.com)
  - date_published: 2024-06-20T02:12:25.487043+00:00
@@ -4017,12 +4025,4 @@
  ## Start Your Detroit Trip Here | Official Travel & Tourism Website for Detroit, Michigan | Visit Detroit
  - [https://detroit-tour.visitdetroit.com](https://detroit-tour.visitdetroit.com)
  - date_published: 2024-10-31T21:59:28.183633+00:00
-
- ## Start Your Detroit Trip Here | Official Travel & Tourism Website for Detroit, Michigan | Visit Detroit
- - [https://visitdetroit.com](https://visitdetroit.com)
- - date_published: 2024-07-12T08:03:55.065521+00:00
-
- ## The Official Travel Guide to Dominican Republic · Visit Dominican Republic
- - [https://visitdominicanrepublic.com](https://visitdominicanrepublic.com)
- - date_published: 2024-08-10T00:00:00+00:00
 

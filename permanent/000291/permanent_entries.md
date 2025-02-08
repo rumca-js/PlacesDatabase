@@ -1,3 +1,11 @@
+ ## Start Your Detroit Trip Here | Official Travel & Tourism Website for Detroit, Michigan | Visit Detroit
+ - [https://visitdetroit.com](https://visitdetroit.com)
+ - date_published: 2024-07-12T08:03:55.065521+00:00
+
+ ## The Official Travel Guide to Dominican Republic · Visit Dominican Republic
+ - [https://visitdominicanrepublic.com](https://visitdominicanrepublic.com)
+ - date_published: 2024-08-10T00:00:00+00:00
+
  ## Discover Dorset: Everything you need to plan your break to Dorset | Visit Dorset
  - [https://www.visit-dorset.com](https://www.visit-dorset.com)
  - date_published: 2024-06-27T16:32:53.452638+00:00
@@ -4023,12 +4031,4 @@
  ## Re-Elect Assemblymember Alex Lee
  - [https://www.votealexlee.com](https://www.votealexlee.com)
  - date_published: 2024-07-07T04:55:02.686328+00:00
-
- ## Choose the Best!
- - [https://votebocm.com](https://votebocm.com)
- - date_published: 2025-01-30T18:08:39.498656+00:00
-
- ## Choose the Best!
- - [https://www.votebolv.com](https://www.votebolv.com)
- - date_published: 2024-08-09T17:00:04+00:00
 

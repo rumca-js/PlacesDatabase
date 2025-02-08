@@ -1,3 +1,15 @@
+ ## Home | The Service Collective
+ - [https://theservicecollective.org](https://theservicecollective.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## The Session
+ - [https://thesession.org](https://thesession.org)
+ - date_published: 2024-05-01T02:17:26.315758+00:00
+
+ ## The Shed
+ - [https://www.theshed.org](https://www.theshed.org)
+ - date_published: 2024-09-16T00:00:00+00:00
+
  ## The Shift Data Portal
  - [https://www.theshiftdataportal.org](https://www.theshiftdataportal.org)
  - date_published: 2024-08-18T11:03:03.475044+00:00
@@ -4020,16 +4032,4 @@ of Life Web Project
  ## Home - Truth Wins Out:
  - [https://truthwinsout.org](https://truthwinsout.org)
  - date_published: 2021-05-23T15:52:19+00:00
-
- ## TryAPL
- - [https://tryapl.org](https://tryapl.org)
- - date_published: 2024-05-01T07:58:22.253459+00:00
-
- ## TryBlue Elixirs - Live Long & Healthy!
- - [http://tryblue.org](http://tryblue.org)
- - date_published: 2025-01-25T12:55:15.491272+00:00
-
- ## Try Clojure
- - [https://tryclojure.org](https://tryclojure.org)
- - date_published: 2024-05-22T18:11:34+00:00
 

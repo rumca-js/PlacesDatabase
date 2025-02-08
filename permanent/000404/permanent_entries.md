@@ -1,3 +1,11 @@
+ ## Pipenv: Python Dev Workflow for Humans — pipenv 2023.11.16.dev0 documentation
+ - [https://pipenv.pypa.io](https://pipenv.pypa.io)
+ - date_published: 2023-11-15T23:34:02+00:00
+
+ ## pip documentation v23.3.1
+ - [https://pip.pypa.io](https://pip.pypa.io)
+ - date_published: 2023-10-25T20:04:24.380034+00:00
+
  ## pipx
  - [https://pipx.pypa.io](https://pipx.pypa.io)
  - date_published: 2024-05-13T13:48:25.080999+00:00
@@ -4017,12 +4025,4 @@
  ## Cierpliwości...
  - [http://trust.redis.io](http://trust.redis.io)
  - date_published: 2024-04-28T04:22:14.159052+00:00
-
- ## RedKetchup - Online Tools
- - [https://redketchup.io](https://redketchup.io)
- - date_published: 2024-12-06T11:35:06+00:00
-
- ## Predian Inventory
- - [https://app.redlineinventory.io](https://app.redlineinventory.io)
- - date_published: 2024-06-17T18:28:39+00:00
 

@@ -1,3 +1,11 @@
+ ## Home | AAAMC
+ - [https://aaamc.indiana.edu](https://aaamc.indiana.edu)
+ - date_published: 2024-06-30T07:28:34.588466+00:00
+
+ ## Office of Admissions
+ - [https://admissions.indiana.edu](https://admissions.indiana.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
  ## Bloomington Drosophila Stock Center
  - [https://bdsc.indiana.edu](https://bdsc.indiana.edu)
  - date_published: 2024-11-15T00:00:00+00:00
@@ -3996,12 +4004,4 @@ Data Services
  ## Home - Graduate Programs
  - [https://gradprograms.mines.edu](https://gradprograms.mines.edu)
  - date_published: 2024-02-15T00:00:00+00:00
-
- ## Graduate Student Government - Graduate Student Government
- - [http://gsg.mines.edu](http://gsg.mines.edu)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Home - Humanities, Arts and Social Sciences
- - [http://hass.mines.edu](http://hass.mines.edu)
- - date_published: 2024-10-03T00:00:00+00:00
 

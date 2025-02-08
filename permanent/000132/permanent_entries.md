@@ -1,3 +1,7 @@
+ ## Moviepedia Wiki
+ - [https://film.fandom.com](https://film.fandom.com)
+ - date_published: 2024-06-17T01:52:05+00:00
+
  ## Moviepedia
  - [https://films.fandom.com](https://films.fandom.com)
  - date_published: 2024-05-02T14:40:28.778037+00:00
@@ -3996,8 +4000,4 @@
  ## LOOΠΔ Wiki
  - [https://loonatheworld.fandom.com](https://loonatheworld.fandom.com)
  - date_published: 2024-10-25T03:21:59+00:00
-
- ## Looney Tunes Cartoons Wiki
- - [https://looney-tunes-cartoons.fandom.com](https://looney-tunes-cartoons.fandom.com)
- - date_published: 2024-06-17T08:38:13+00:00
 

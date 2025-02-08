@@ -1,3 +1,11 @@
+ ## American Stationer
+ - [https://americanstationer.wordpress.com](https://americanstationer.wordpress.com)
+ - date_published: 2024-07-18T17:10:55.925134+00:00
+
+ ## Ames Pospetróleo
+ - [https://amespospetroleo.wordpress.com](https://amespospetroleo.wordpress.com)
+ - date_published: 2025-02-01T15:21:08.638490+00:00
+
  ## Amethyst Games
  - [https://amethystgames.wordpress.com](https://amethystgames.wordpress.com)
  - date_published: 2024-07-10T02:40:57.497751+00:00
@@ -4002,12 +4010,4 @@
  ## CIVILIAN GUNFIGHTER
  - [https://civiliangunfighter.wordpress.com](https://civiliangunfighter.wordpress.com)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Civilian Reader
- - [https://civilianreader.wordpress.com](https://civilianreader.wordpress.com)
- - date_published: 2024-08-06T11:38:17.210729+00:00
-
- ## Civilus Defendus
- - [https://civilusdefendus.wordpress.com](https://civilusdefendus.wordpress.com)
- - date_published: 2024-07-07T02:06:14.835122+00:00
 

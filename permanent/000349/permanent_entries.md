@@ -1,3 +1,11 @@
+ ## Index of /
+ - [https://ficus-www.cs.ucla.edu](https://ficus-www.cs.ucla.edu)
+ - date_published: 2016-10-11T22:34:43+00:00
+
+ ## Welcome First-Gen Bruins! | First to Go
+ - [https://firsttogo.ucla.edu](https://firsttogo.ucla.edu)
+ - date_published: 2024-06-29T06:13:31+00:00
+
  ## Home | Fowler Museum at UCLA
  - [https://fowler.ucla.edu](https://fowler.ucla.edu)
  - date_published: 2021-04-29T17:08:56+00:00
@@ -4002,12 +4010,4 @@
  ## Sign In
  - [https://email.ucsf.edu](https://email.ucsf.edu)
  - date_published: 2024-05-07T21:09:17.604072+00:00
-
- ## Home
- - [https://emergency.ucsf.edu](https://emergency.ucsf.edu)
- - date_published: 2024-07-02T01:54:11+00:00
-
- ## Home
- - [https://engineering.ucsf.edu](https://engineering.ucsf.edu)
- - date_published: 2024-07-02T01:52:36+00:00
 

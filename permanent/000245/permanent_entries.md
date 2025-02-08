@@ -1,3 +1,7 @@
+ ## Siliconindia : A Leading Business Enterprises & Industries Magazine
+ - [https://www.siliconindia.com](https://www.siliconindia.com)
+ - date_published: 2024-09-24T22:52:55.141135+00:00
+
  ## Silicon Investor (SI) -- Stock Discussion Forums
  - [http://www.siliconinvestor.com](http://www.siliconinvestor.com)
  - date_published: 2024-07-13T11:13:02.937865+00:00
@@ -4036,8 +4040,4 @@ for Many Brands - SingleKey ID
  ## Sizmek
  - [https://platform.sizmek.com](https://platform.sizmek.com)
  - date_published: 2024-06-03T07:46:41+00:00
-
- ## Amazon Ad Server - DCO, tag management, campaign optimization
- - [https://www.sizmek.com](https://www.sizmek.com)
- - date_published: 2024-05-06T17:59:03.095838+00:00
 

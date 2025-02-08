@@ -1,3 +1,7 @@
+ ## Electric Imp Online Store
+ - [http://store.electricimp.com](http://store.electricimp.com)
+ - date_published: 2025-02-01T09:38:07.038306+00:00
+
  ## Electricity Maps | Live 24/7 CO₂ emissions of electricity consumption
  - [https://app.electricitymaps.com](https://app.electricitymaps.com)
  - date_published: 2023-10-25T14:04:41.764051+00:00
@@ -4090,8 +4094,4 @@
  ## Email On Acid :: Login
  - [https://app.emailonacid.com](https://app.emailonacid.com)
  - date_published: 2024-06-21T21:21:03.296447+00:00
-
- ## Email on Acid - Email Pre-Deployment Checklist
- - [https://emailonacid.com](https://emailonacid.com)
- - date_published: 2024-03-21T00:00:00+00:00
 

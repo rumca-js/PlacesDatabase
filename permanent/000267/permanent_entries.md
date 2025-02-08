@@ -1,3 +1,7 @@
+ ## Fire Pits | Burners | Gas Torches | Fire Garden
+ - [https://www.tempesttorch.com](https://www.tempesttorch.com)
+ - date_published: 2024-07-15T09:33:16+00:00
+
  ## Tempest
  - [https://tempestwx.com](https://tempestwx.com)
  - date_published: 2024-04-30T05:03:01.671873+00:00
@@ -4027,8 +4031,4 @@
  ## The Anarchitect
  - [https://theanarchitect.com](https://theanarchitect.com)
  - date_published: 2024-09-14T22:50:09.017941+00:00
-
- ## Home - The Ancestor Hunt
- - [https://theancestorhunt.com](https://theancestorhunt.com)
- - date_published: 2025-01-31T03:48:44.920186+00:00
 

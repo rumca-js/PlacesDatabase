@@ -1,3 +1,7 @@
+ ## Next-Gen Computer Architecture, Smruti R. Sarangi
+ - [http://www.nextgencomparch.com](http://www.nextgencomparch.com)
+ - date_published: 2024-08-15T14:42:27+00:00
+
  ## CFEE Classroom Edition
  - [https://nextgenedition.com](https://nextgenedition.com)
  - date_published: 2024-06-24T08:18:40.166501+00:00
@@ -4070,8 +4074,4 @@ Isacsson
  ## Nira
  - [https://app.nira.com](https://app.nira.com)
  - date_published: 2024-08-08T09:28:15+00:00
-
- ## Cloud Document Security - Nira
- - [https://nira.com](https://nira.com)
- - date_published: 2023-10-25T16:20:22.344024+00:00
 

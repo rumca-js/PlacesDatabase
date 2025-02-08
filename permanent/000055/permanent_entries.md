@@ -1,3 +1,7 @@
+ ## Annals of Transplantation
+ - [http://www.annalsoftransplantation.com](http://www.annalsoftransplantation.com)
+ - date_published: 2024-12-24T09:29:41.167290+00:00
+
  ## Home Page
  - [https://annaluisapetrisko.com](https://annaluisapetrisko.com)
  - date_published: 2024-05-09T00:00:00+00:00
@@ -4035,8 +4039,4 @@ my personal blog
  ## Comprehensive Geospatial Solutions, Aerial Mapping
  - [http://www.appgeo.com](http://www.appgeo.com)
  - date_published: 2024-12-22T04:52:02.113518+00:00
-
- ## Home | All-Party Parliamentary Group for Future Generations
- - [https://appgfuturegenerations.com](https://appgfuturegenerations.com)
- - date_published: 2024-06-21T11:41:08.068427+00:00
 

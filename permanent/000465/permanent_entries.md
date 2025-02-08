@@ -1,3 +1,15 @@
+ ## Dan Cohen – Vice Provost, Dean, and Professor at Northeastern University
+ - [https://dancohen.org](https://dancohen.org)
+ - date_published: 2024-01-30T17:18:12.589463+00:00
+
+ ## Humane Ingenuity
+ - [https://newsletter.dancohen.org](https://newsletter.dancohen.org)
+ - date_published: 2024-08-17T22:29:00.556011+00:00
+
+ ## D&AD | Global Association for Creative Advertising & Design Awards
+ - [https://www.dandad.org](https://www.dandad.org)
+ - date_published: 2024-08-19T11:48:56.983664+00:00
+
  ## Daneric's Elliott Waves – Elliott Wave Theory, Technical Analysis, and Social Mood Commentary
  - [http://www.danericselliottwaves.org](http://www.danericselliottwaves.org)
  - date_published: 2024-07-01T09:04:13.329290+00:00
@@ -4024,16 +4036,4 @@
  ## Home - Diversify Whitewater
  - [https://diversifywhitewater.org](https://diversifywhitewater.org)
  - date_published: 2024-01-06T00:00:00+00:00
-
- ## America’s Third-Oldest LGBTQIA+ Theatre - Diversionary Theatre
- - [https://www.diversionary.org](https://www.diversionary.org)
- - date_published: 2025-01-21T11:57:23.217384+00:00
-
- ## The Diversity Charter: Diversity makes events better
- - [http://diversitycharter.org](http://diversitycharter.org)
- - date_published: 2024-10-15T00:00:00+00:00
-
- ## Home - Diversity Joint Venture for Careers in Conservation
- - [https://diversityinconservationjobs.org](https://diversityinconservationjobs.org)
- - date_published: 2024-12-21T22:54:38.227952+00:00
 

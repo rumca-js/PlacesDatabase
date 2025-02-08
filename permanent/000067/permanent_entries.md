@@ -1,3 +1,7 @@
+ ## A Sudden Craving, by The Children...
+ - [https://thechildrenband.bandcamp.com](https://thechildrenband.bandcamp.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
  ## The Lost EP, by The Chills
  - [https://thechillsmusic.bandcamp.com](https://thechillsmusic.bandcamp.com)
  - date_published: 2024-04-20T00:00:00+00:00
@@ -3993,8 +3997,4 @@
  ## Bantam Tools
  - [https://support.bantamtools.com](https://support.bantamtools.com)
  - date_published: 2024-07-15T09:14:02.290556+00:00
-
- ## Portfolio Archives - Marian Bantjes
- - [http://www.bantjes.com](http://www.bantjes.com)
- - date_published: 2024-09-14T22:58:59.131453+00:00
 

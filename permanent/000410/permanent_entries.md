@@ -1,3 +1,11 @@
+ ## Home
+ - [https://ametekinstruments.it](https://ametekinstruments.it)
+ - date_published: 2024-06-15T10:44:14.378194+00:00
+
+ ## AMETEK Italy
+ - [https://store.ametekinstruments.it](https://store.ametekinstruments.it)
+ - date_published: 2024-09-17T00:00:00+00:00
+
  ## IIS A. Meucci
  - [https://www.ameucci.it](https://www.ameucci.it)
  - date_published: 2024-10-13T04:00:03+00:00
@@ -4005,12 +4013,4 @@
  ## Homepage
  - [https://www.hilti.it](https://www.hilti.it)
  - date_published: 2024-06-20T07:25:48.805869+00:00
-
- ## HitPaw Online: I primi strumenti di editing basati sull'AI
- - [https://online.hitpaw.it](https://online.hitpaw.it)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## [OFFICIALE] HitPaw: Fornitore di potenti soluzioni video, audio e immagini
- - [https://www.hitpaw.it](https://www.hitpaw.it)
- - date_published: 2025-01-31T13:52:54.891271+00:00
 

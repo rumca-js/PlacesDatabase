@@ -1,4 +1,12 @@
  ## Home
+ - [https://planning.umbc.edu](https://planning.umbc.edu)
+ - date_published: 2024-07-02T03:26:07.200870+00:00
+
+ ## Home Page
+ - [https://police.umbc.edu](https://police.umbc.edu)
+ - date_published: 2024-05-07T21:25:35.711980+00:00
+
+ ## Home
  - [https://privacy.umbc.edu](https://privacy.umbc.edu)
  - date_published: 2024-12-30T10:55:51.573529+00:00
 
@@ -4006,12 +4014,4 @@ Center for Information Technology Integration
  ## College of Engineering and Physical Sciences | University of New Hampshire
  - [https://ceps.unh.edu](https://ceps.unh.edu)
  - date_published: 2025-02-01T01:50:34.715561+00:00
-
- ## College of Liberal Arts | University of New Hampshire
- - [https://cola.unh.edu](https://cola.unh.edu)
- - date_published: 2024-12-25T20:47:55.180893+00:00
-
- ## Course Search
- - [https://courses.unh.edu](https://courses.unh.edu)
- - date_published: 2024-09-15T12:01:47+00:00
 

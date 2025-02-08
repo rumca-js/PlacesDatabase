@@ -1,3 +1,7 @@
+ ## FHF Lemmy World Status - Status
+ - [https://fhf-lemmyworld.instatus.com](https://fhf-lemmyworld.instatus.com)
+ - date_published: 2024-10-22T12:27:02.845006+00:00
+
  ## FHF Mastodon Instances - Status
  - [https://fhf-mastodon.instatus.com](https://fhf-mastodon.instatus.com)
  - date_published: 2024-09-10T09:10:01.755294+00:00
@@ -4010,8 +4014,4 @@
  ## Investir En Actions - La Bourse à la portée de tous
  - [http://www.investir-en-actions.com](http://www.investir-en-actions.com)
  - date_published: 2024-01-25T00:00:00+00:00
-
- ## Investir&+
- - [https://fr.investiretplus.com](https://fr.investiretplus.com)
- - date_published: 2024-07-03T05:05:31.776521+00:00
 

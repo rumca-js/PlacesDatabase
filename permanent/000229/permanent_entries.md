@@ -1,3 +1,7 @@
+ ## Il Blog di Quora
+ - [https://quorait.quora.com](https://quorait.quora.com)
+ - date_published: 2024-07-12T23:50:07.852155+00:00
+
  ## The Quora Blog
  - [https://quorapl.quora.com](https://quorapl.quora.com)
  - date_published: 2024-05-07T10:03:54.143448+00:00
@@ -4035,8 +4039,4 @@ More!
  ## Random Goat
  - [https://randomgoat.com](https://randomgoat.com)
  - date_published: 2024-12-22T09:01:41.535818+00:00
-
- ## Random Gradients
- - [https://randomgradients.com](https://randomgradients.com)
- - date_published: 2021-12-17T20:53:12+00:00
 

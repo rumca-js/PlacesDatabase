@@ -1,3 +1,7 @@
+ ## LEOPARDO
+ - [https://leopardoshallo.bandcamp.com](https://leopardoshallo.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
  ## Les Disques Bongo Joe
  - [https://lesdisquesbongojoe.bandcamp.com](https://lesdisquesbongojoe.bandcamp.com)
  - date_published: 2024-07-19T00:00:00+00:00
@@ -3995,8 +3999,4 @@
  ## phoneswithchords
  - [https://phoneswithchords.bandcamp.com](https://phoneswithchords.bandcamp.com)
  - date_published: 2025-01-23T08:24:10.134795+00:00
-
- ## Windswept, by Photay
- - [https://photay.bandcamp.com](https://photay.bandcamp.com)
- - date_published: 2025-01-20T21:43:07.772325+00:00
 

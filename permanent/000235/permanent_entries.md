@@ -1,3 +1,7 @@
+ ## Roadmap to Reality:  Consciousness, Worldviews, and Blossoming of Human Spirit
+ - [http://www.roadmaptoreality.com](http://www.roadmaptoreality.com)
+ - date_published: 2016-02-02T14:55:01+00:00
+
  ## Home | Roadmap Writers
  - [https://roadmapwriters.com](https://roadmapwriters.com)
  - date_published: 2024-05-08T05:03:39.263904+00:00
@@ -4071,8 +4075,4 @@ Robertson County Sheriff's Office
  ## Root Labs - Solving embedded security, kernel and crypto challenges
  - [http://rootlabs.com](http://rootlabs.com)
  - date_published: 2016-06-10T00:50:02+00:00
-
- ## Rootless Living - A Magazine for Digital Nomads
- - [http://www.rootlessliving.com](http://www.rootlessliving.com)
- - date_published: 2021-07-08T16:39:48+00:00
 

@@ -1,3 +1,7 @@
+ ## Editors Official | EBM  -The New Album
+ - [http://editorsofficial.com](http://editorsofficial.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## Responsive Web Design | Website Creation | Editor X
  - [https://www.editorx.com](https://www.editorx.com)
  - date_published: 2024-06-23T05:57:02.078367+00:00
@@ -4088,8 +4092,4 @@
  ## Electric Imp Secure IoT Connectivity Platform
  - [https://electricimp.com](https://electricimp.com)
  - date_published: 2024-07-14T14:22:12.493857+00:00
-
- ## Electric Imp Online Store
- - [http://store.electricimp.com](http://store.electricimp.com)
- - date_published: 2025-02-01T09:38:07.038306+00:00
 

@@ -1,3 +1,7 @@
+ ## Home | BakkesMod Plugins
+ - [https://bakkesplugins.com](https://bakkesplugins.com)
+ - date_published: 2024-10-17T05:13:04.653242+00:00
+
  ## Bakso JWR
  - [https://www.baksojwr.com](https://www.baksojwr.com)
  - date_published: 2024-02-22T12:19:18+00:00
@@ -4001,8 +4005,4 @@
  ## Merch from Brittany Howard
  - [https://brittanyhoward.bandcamp.com](https://brittanyhoward.bandcamp.com)
  - date_published: 2024-12-26T21:50:37.847574+00:00
-
- ## Beautiful Chaos, by BrokenRail
- - [https://brokenrail.bandcamp.com](https://brokenrail.bandcamp.com)
- - date_published: 2024-12-27T00:28:20.481301+00:00
 

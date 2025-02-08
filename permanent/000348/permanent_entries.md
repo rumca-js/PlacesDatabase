@@ -1,3 +1,11 @@
+ ## Make a Gift - Texas Woman's University Foundation
+ - [https://giving.twu.edu](https://giving.twu.edu)
+ - date_published: 2024-09-15T13:07:29.779848+00:00
+
+ ## Texas Woman’s University
+ - [https://portal.twu.edu](https://portal.twu.edu)
+ - date_published: 2024-09-15T13:07:33.198572+00:00
+
  ## TWU Home | Texas Woman's University | BOLDLY GO
  - [https://twu.edu](https://twu.edu)
  - date_published: 2024-06-14T19:47:39.747033+00:00
@@ -4019,12 +4027,4 @@
  ## UCLA External Affairs
  - [https://externalaffairs.ucla.edu](https://externalaffairs.ucla.edu)
  - date_published: 2024-07-01T23:04:45.616948+00:00
-
- ## Index of /
- - [https://ficus-www.cs.ucla.edu](https://ficus-www.cs.ucla.edu)
- - date_published: 2016-10-11T22:34:43+00:00
-
- ## Welcome First-Gen Bruins! | First to Go
- - [https://firsttogo.ucla.edu](https://firsttogo.ucla.edu)
- - date_published: 2024-06-29T06:13:31+00:00
 

@@ -1,3 +1,7 @@
+ ## CXO Advisory - Stock Market Research and Investing Strategies
+ - [http://www.cxoadvisory.com](http://www.cxoadvisory.com)
+ - date_published: 2024-12-31T17:00:39+00:00
+
  ## Home | CXO Insight Middle East
  - [https://www.cxoinsightme.com](https://www.cxoinsightme.com)
  - date_published: 2024-09-18T00:00:00+00:00
@@ -4032,8 +4036,4 @@ for your agency
  ## Daniele's Website
  - [https://daniele63.com](https://daniele63.com)
  - date_published: 2024-07-13T00:23:50+00:00
-
- ## Alphabet Poem : Daniel Eatock
- - [http://www.danieleatock.com](http://www.danieleatock.com)
- - date_published: 2024-09-14T22:57:42.492619+00:00
 

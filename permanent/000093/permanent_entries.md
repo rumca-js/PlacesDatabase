@@ -1,3 +1,7 @@
+ ## ﻿
+ - [https://book-directonline.com](https://book-directonline.com)
+ - date_published: 2024-09-11T04:25:46+00:00
+
  ## Universidad de los Andes · Bookeau
  - [https://aspirantes.bookeau.com](https://aspirantes.bookeau.com)
  - date_published: 2024-12-10T02:18:54.007014+00:00
@@ -4022,8 +4026,4 @@
  ## KVNKLE
  - [http://bradkunkle.com](http://bradkunkle.com)
  - date_published: 2024-07-14T11:20:44.662284+00:00
-
- ## Bradley Davis - Cyclist & Software Engineer | WordPress Developer | Gold Coast
- - [https://bradley-davis.com](https://bradley-davis.com)
- - date_published: 2024-06-27T12:42:04.860024+00:00
 

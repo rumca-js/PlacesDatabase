@@ -1,3 +1,11 @@
+ ## Waitz
+ - [https://waitz.io](https://waitz.io)
+ - date_published: 2024-04-05T20:20:05+00:00
+
+ ## Wakefully - Dream Interpretation
+ - [https://wakefully.io](https://wakefully.io)
+ - date_published: 2024-05-13T00:00:00+00:00
+
  ## Create WhatsApp links
  - [https://walink.io](https://walink.io)
  - date_published: 2024-09-10T23:34:12.782984+00:00
@@ -4014,12 +4022,4 @@
  ## Conductor status
  - [https://status.conductor.is](https://status.conductor.is)
  - date_published: 2025-02-04T07:46:21.838945+00:00
-
- ## The Conscious Leadership Group
- - [https://conscious.is](https://conscious.is)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Netverslun með einstakar gjafir og flottustu græjurnar | Cool Mania E-Shop
- - [https://www.cool-mania.is](https://www.cool-mania.is)
- - date_published: 2025-01-08T23:33:43.615790+00:00
 

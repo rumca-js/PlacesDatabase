@@ -1,3 +1,7 @@
+ ## Jon Yablonski
+ - [https://jonyablonski.com](https://jonyablonski.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+
  ## JOODALOOP
  - [https://joodaloop.com](https://joodaloop.com)
  - date_published: 2024-08-08T15:25:28.567554+00:00
@@ -4084,8 +4088,4 @@
  ## Buy JURA coffee machines online - JURA Australia
  - [https://au.jura.com](https://au.jura.com)
  - date_published: 2025-02-02T10:02:01.658737+00:00
-
- ## Belgium - JURA Belgium
- - [https://be.jura.com](https://be.jura.com)
- - date_published: 2025-02-02T10:03:23.506868+00:00
 

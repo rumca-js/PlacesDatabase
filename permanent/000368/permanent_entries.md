@@ -1,3 +1,11 @@
+ ## Conservatoire de Rennes
+ - [https://conservatoire-rennes.fr](https://conservatoire-rennes.fr)
+ - date_published: 2024-02-22T16:55:10.461902+00:00
+
+ ## Contour Design - des souris ergonomiques au design supérieur
+ - [https://contourdesign.fr](https://contourdesign.fr)
+ - date_published: 2024-08-08T22:09:40.153082+00:00
+
  ## Eau minérale naturelle CONTREX®, riche en minéraux
  - [https://www.contrex.fr](https://www.contrex.fr)
  - date_published: 2024-09-26T14:29:08+00:00
@@ -3997,12 +4005,4 @@ de Toulouse:::
  ## Faust Documentation
  - [https://faustdoc.grame.fr](https://faustdoc.grame.fr)
  - date_published: 2024-07-31T09:29:48+00:00
-
- ## Faust Editor
- - [https://fausteditor.grame.fr](https://fausteditor.grame.fr)
- - date_published: 2018-01-27T00:00:00+00:00
-
- ## Faust Programming Language
- - [https://faust.grame.fr](https://faust.grame.fr)
- - date_published: 2024-04-28T03:25:45.068802+00:00
 

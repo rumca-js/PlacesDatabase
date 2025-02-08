@@ -1,3 +1,11 @@
+ ## NC State University Human Resources
+ - [https://hr.ncsu.edu](https://hr.ncsu.edu)
+ - date_published: 2025-02-02T06:04:33.424440+00:00
+
+ ## Hyde County Center | N.C. Cooperative Extension
+ - [https://hyde.ces.ncsu.edu](https://hyde.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:32:16.888062+00:00
+
  ## Intensive English Program - Intensive English Program
  - [https://intensive-english.ncsu.edu](https://intensive-english.ncsu.edu)
  - date_published: 2025-02-02T05:56:36.210746+00:00
@@ -4016,12 +4024,4 @@
  ## OSU A&M System Online Directory
  - [https://directory.okstate.edu](https://directory.okstate.edu)
  - date_published: 2024-06-26T22:11:03.112948+00:00
-
- ## Equal Opportunity - Oklahoma State University
- - [https://eeo.okstate.edu](https://eeo.okstate.edu)
- - date_published: 2020-03-26T13:48:20.111000+00:00
-
- ## OSU Extension - Home - Oklahoma State University
- - [https://extension.okstate.edu](https://extension.okstate.edu)
- - date_published: 2019-05-22T19:18:16.131000+00:00
 

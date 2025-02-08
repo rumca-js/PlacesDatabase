@@ -1,3 +1,7 @@
+ ## Working at Post Holdings, Inc.
+ - [https://bobevanssljobs-postholdings.icims.com](https://bobevanssljobs-postholdings.icims.com)
+ - date_published: 2024-05-21T00:00:00+00:00
+
  ## Home - Centric Brands LLC.
  - [https://c-10131-20230519-centricbrands-com.i.icims.com](https://c-10131-20230519-centricbrands-com.i.icims.com)
  - date_published: 2024-12-17T19:53:28+00:00
@@ -4029,8 +4033,4 @@
  ## Video Game News, Reviews, and Walkthroughs - IGN
  - [https://kraken.ignimgs.com](https://kraken.ignimgs.com)
  - date_published: 2024-06-28T17:50:33.863697+00:00
-
- ## Introduction to Ignite CLI: Your Gateway to Blockchain Innovation | Ignite Cli Docs
- - [https://docs.ignite.com](https://docs.ignite.com)
- - date_published: 2025-01-06T11:38:11+00:00
 

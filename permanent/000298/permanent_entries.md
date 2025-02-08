@@ -1,3 +1,12 @@
+ ## Wizards of the Coast
+ - [https://support.wizards.com](https://support.wizards.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Wizards of the Coast
+ - [https://wizards.com](https://wizards.com)
+ - date_published: 2024-07-08T11:33:12+00:00
+ - tags: ['card game developer', 'card games', 'wizards of the coast', 'magic the gathering']
+
  ## Wizards Play Network | Official Site for WPN Retailers | WPN
  - [https://wpn.wizards.com](https://wpn.wizards.com)
  - date_published: 2024-05-07T14:32:46.988350+00:00
@@ -4015,12 +4024,4 @@ Company :: Home
  ## American Kit Homes
  - [https://americankithomes.wordpress.com](https://americankithomes.wordpress.com)
  - date_published: 2024-04-29T02:56:47.818785+00:00
-
- ## American Stationer
- - [https://americanstationer.wordpress.com](https://americanstationer.wordpress.com)
- - date_published: 2024-07-18T17:10:55.925134+00:00
-
- ## Ames Pospetróleo
- - [https://amespospetroleo.wordpress.com](https://amespospetroleo.wordpress.com)
- - date_published: 2025-02-01T15:21:08.638490+00:00
 

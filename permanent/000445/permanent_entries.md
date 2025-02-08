@@ -1,3 +1,15 @@
+ ## Australian climate change and temperature trends since 1800s
+ - [http://www.waclimate.net](http://www.waclimate.net)
+ - date_published: 2024-07-28T06:10:12+00:00
+
+ ## Home - WACREN
+ - [https://wacren.net](https://wacren.net)
+ - date_published: 2024-10-20T04:44:10.507610+00:00
+
+ ## Wouter Admiraal's lore
+ - [http://wadmiraal.net](http://wadmiraal.net)
+ - date_published: 2024-09-14T23:25:18.606394+00:00
+
  ## Wa'ed Ventures
  - [https://www.waed.net](https://www.waed.net)
  - date_published: 2024-08-29T08:38:57+00:00
@@ -4045,16 +4057,4 @@
  ## Shiden Network - Multi Chain dApps Hub on Kusama
  - [https://shiden.astar.network](https://shiden.astar.network)
  - date_published: 2023-08-21T07:20:23+00:00
-
- ## Yoki Origins
- - [https://yoki.astar.network](https://yoki.astar.network)
- - date_published: 2025-01-09T12:34:33.295111+00:00
-
- ## Asteya Network
- - [https://asteya.network](https://asteya.network)
- - date_published: 2021-07-21T12:07:00+00:00
-
- ## Automata - Machine trust with TEE Coprocessors
- - [https://ata.network](https://ata.network)
- - date_published: 2024-08-16T00:00:00+00:00
 

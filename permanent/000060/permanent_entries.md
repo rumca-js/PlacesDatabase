@@ -1,3 +1,7 @@
+ ## Read recent and archived obituaries and memorial notices from Austin Chronicle.
+ - [https://obituaries.austinchronicle.com](https://obituaries.austinchronicle.com)
+ - date_published: 2024-10-14T17:18:17.170302+00:00
+
  ## Austin News, Events, Restaurants, Music - The Austin Chronicle
  - [https://posting.austinchronicle.com](https://posting.austinchronicle.com)
  - date_published: 2024-10-14T17:15:59+00:00
@@ -4032,8 +4036,4 @@
  ## Home
  - [https://www.axelspringeracademy.com](https://www.axelspringeracademy.com)
  - date_published: 2024-08-15T00:00:00+00:00
-
- ## Axel Vanhessche
- - [https://axelvanhessche.com](https://axelvanhessche.com)
- - date_published: 2024-07-19T17:52:09.444892+00:00
 

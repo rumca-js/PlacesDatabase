@@ -1,3 +1,7 @@
+ ## 首页2 中国法学学术交流中心
+ - [https://clec.chinalaw.org.cn](https://clec.chinalaw.org.cn)
+ - date_published: 2025-01-14T13:16:10.302295+00:00
+
  ## 首页 中国法学杂志社
  - [https://clsjp.chinalaw.org.cn](https://clsjp.chinalaw.org.cn)
  - date_published: 2025-01-14T13:18:36.550392+00:00
@@ -4033,8 +4037,4 @@
  ## tack locator 9001
  - [https://tacktacts.carrd.co](https://tacktacts.carrd.co)
  - date_published: 2024-02-25T07:22:26+00:00
-
- ## cecilia's carrd
- - [https://thebrightesteyes.carrd.co](https://thebrightesteyes.carrd.co)
- - date_published: 2024-05-05T11:00:12+00:00
 

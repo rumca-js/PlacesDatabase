@@ -1,3 +1,15 @@
+ ## TechSee Application Template
+ - [http://telus.desktop.show](http://telus.desktop.show)
+ - date_published: 2023-06-11T06:18:35+00:00
+
+ ## The Modern .NET Show
+ - [https://dotnetcore.show](https://dotnetcore.show)
+ - date_published: 2024-10-30T21:53:53.327744+00:00
+
+ ## Eggplant: The Secret Lives of Games
+ - [https://eggplant.show](https://eggplant.show)
+ - date_published: 2024-07-12T17:41:31+00:00
+
  ## Empower Apps
  - [https://www.empowerapps.show](https://www.empowerapps.show)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -4005,16 +4017,4 @@
  ## sweetfish.site
  - [https://sweetfish.site](https://sweetfish.site)
  - date_published: 2024-12-06T02:02:15+00:00
-
- ## RT - Breaking News, Russia News, World News and Video
- - [https://swentr.site](https://swentr.site)
- - date_published: 2024-07-01T08:58:00.691921+00:00
-
- ## Christianity Facts < TheoLogosSite: what Christians must know
- - [https://theologos.site](https://theologos.site)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## There Is No Website
- - [https://www.thereisnoweb.site](https://www.thereisnoweb.site)
- - date_published: 2024-08-16T21:51:59+00:00
 

@@ -1,3 +1,7 @@
+ ## Governor Dunleavy Home - Mike Dunleavy
+ - [http://north2opportunity.com](http://north2opportunity.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
  ## Home
  - [https://www.northamerica-daikin.com](https://www.northamerica-daikin.com)
  - date_published: 2024-05-30T00:00:00+00:00
@@ -4024,8 +4028,4 @@ a simple way
  - [https://ntcore.com](https://ntcore.com)
  - date_published: 2024-05-02T09:20:34+00:00
  - tags: ['reverse engineering', 'personal']
-
- ## NTD News - Breaking News, Latest News and Videos
- - [https://ntd.com](https://ntd.com)
- - date_published: 2024-07-03T19:03:29.557158+00:00
 

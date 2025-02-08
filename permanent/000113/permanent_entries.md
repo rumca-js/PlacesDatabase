@@ -1,3 +1,7 @@
+ ## Alphabet Poem : Daniel Eatock
+ - [http://www.danieleatock.com](http://www.danieleatock.com)
+ - date_published: 2024-09-14T22:57:42.492619+00:00
+
  ## Daniele Fanelli's webpages
  - [https://danielefanelli.com](https://danielefanelli.com)
  - date_published: 2024-06-02T06:56:20+00:00
@@ -4053,8 +4057,4 @@
  ## David H. Hagan
  - [https://davidhhagan.com](https://davidhhagan.com)
  - date_published: 2024-08-18T17:18:19.119024+00:00
-
- ## David Hillier freelance writer, journalist and copywriter | Home
- - [http://davidhillierwrites.com](http://davidhillierwrites.com)
- - date_published: 2024-07-13T14:56:35.011494+00:00
 

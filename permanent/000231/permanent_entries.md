@@ -1,3 +1,7 @@
+ ## Really Good Buildings | Fed Novikov | Substack
+ - [https://www.reallygoodbuildings.com](https://www.reallygoodbuildings.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
  ## Really Good Business Ideas | Casandra Campbell | Substack
  - [https://www.reallygoodbusinessideas.com](https://www.reallygoodbusinessideas.com)
  - date_published: 2024-01-10T00:00:00+00:00
@@ -4091,8 +4095,4 @@
  ## Red Seat Ventures
  - [https://www.redseatventures.com](https://www.redseatventures.com)
  - date_published: 2025-01-11T17:56:11.551610+00:00
-
- ## Red Seguridad. Revista de Ciberseguridad y Seguridad de la Información
- - [https://www.redseguridad.com](https://www.redseguridad.com)
- - date_published: 2024-12-11T12:49:09+00:00
 

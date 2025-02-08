@@ -1,3 +1,7 @@
+ ## England FA Store, 2024 England National Team Kits | England Lionesses Shirts, Clothing, Apparel | England FA Shop
+ - [https://www.englandstore.com](https://www.englandstore.com)
+ - date_published: 2024-12-12T05:56:12.196893+00:00
+
  ## Engineering Leadership | Gregor Ojstersek | Substack
  - [https://newsletter.eng-leadership.com](https://newsletter.eng-leadership.com)
  - date_published: 2024-03-10T00:00:00+00:00
@@ -4083,8 +4087,4 @@
  ## Log In ‹ Rippaverse Membership — WordPress
  - [https://members.ericdjuly.com](https://members.ericdjuly.com)
  - date_published: 2024-07-09T23:17:37.957353+00:00
-
- ## Eric Dorsey
- - [https://ericdorsey.com](https://ericdorsey.com)
- - date_published: 2024-01-05T17:49:11+00:00
 

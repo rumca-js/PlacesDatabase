@@ -1,3 +1,11 @@
+ ## Homepage - URIFAE
+ - [https://alumni.uri.edu](https://alumni.uri.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## URI Directory Service
+ - [https://directory.uri.edu](https://directory.uri.edu)
+ - date_published: 2024-07-02T10:47:34.136875+00:00
+
  ## Events Calendar - University of Rhode Island
  - [https://events.uri.edu](https://events.uri.edu)
  - date_published: 2024-05-07T22:00:25.617130+00:00
@@ -3994,12 +4002,4 @@
  ## UW NetID sign-in
  - [https://insideuwit.uw.edu](https://insideuwit.uw.edu)
  - date_published: 2024-06-16T09:31:35.127902+00:00
-
- ## UW NetID sign-in
- - [https://internal.com.uw.edu](https://internal.com.uw.edu)
- - date_published: 2024-07-21T07:18:50.140523+00:00
-
- ## Information School | University of Washington
- - [https://ischool.uw.edu](https://ischool.uw.edu)
- - date_published: 2024-04-29T00:00:00+00:00
 

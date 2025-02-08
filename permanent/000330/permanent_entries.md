@@ -1,3 +1,11 @@
+ ## ZenDiS | Zentrum Digitale Souveränität
+ - [https://zendis.de](https://zendis.de)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## MEDIA, KOMMUNIKATIONS- & MARKETING-BERATUNG | ZENITH
+ - [https://www.zenithmedia.de](https://www.zenithmedia.de)
+ - date_published: 2024-06-25T23:15:47.144528+00:00
+
  ## (Studio) Daniel Zenker | Konzeption und Gestaltung
  - [https://zenkerdaniel.de](https://zenkerdaniel.de)
  - date_published: 2024-07-12T16:38:40.585311+00:00
@@ -4038,12 +4046,4 @@
  ## Codepur
  - [https://www.codepur.dev](https://www.codepur.dev)
  - date_published: 2024-07-15T02:04:44.069348+00:00
-
- ## CodeSnap - An image editor for developers, who want to share beautiful images of their code | CodeSnap
- - [https://codesnap.dev](https://codesnap.dev)
- - date_published: 2024-07-14T07:53:31.268566+00:00
-
- ## Bookmarks, notes and snippets manager for developers & co
- - [https://www.codever.dev](https://www.codever.dev)
- - date_published: 2024-08-30T12:39:32+00:00
 

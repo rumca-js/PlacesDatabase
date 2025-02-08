@@ -1,3 +1,7 @@
+ ## Looney Tunes Cartoons Wiki
+ - [https://looney-tunes-cartoons.fandom.com](https://looney-tunes-cartoons.fandom.com)
+ - date_published: 2024-06-17T08:38:13+00:00
+
  ## Looney Tunes Wiki
  - [https://looneytunes.fandom.com](https://looneytunes.fandom.com)
  - date_published: 2024-05-02T14:44:43.278723+00:00
@@ -3997,8 +4001,4 @@
  ## Renegades Wiki
  - [https://renegadesmarissameyer.fandom.com](https://renegadesmarissameyer.fandom.com)
  - date_published: 2024-06-17T21:55:52+00:00
-
- ## RENT Wiki
- - [https://rent.fandom.com](https://rent.fandom.com)
- - date_published: 2024-06-17T07:51:58+00:00
 

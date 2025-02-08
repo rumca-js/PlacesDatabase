@@ -1,3 +1,11 @@
+ ## UW Email Preference Center
+ - [https://subscribe.gifts.washington.edu](https://subscribe.gifts.washington.edu)
+ - date_published: 2024-05-08T09:17:45.769653+00:00
+
+ ## The Taskar Center for Accessible Technology – Designing for the fullness of human experience
+ - [https://tcat.cs.washington.edu](https://tcat.cs.washington.edu)
+ - date_published: 2024-02-08T21:51:19.755775+00:00
+
  ## ArtsUW Events | Arts Events
  - [https://tickets.artsevents.washington.edu](https://tickets.artsevents.washington.edu)
  - date_published: 2024-06-19T23:11:24+00:00
@@ -3995,12 +4003,4 @@
  ## University Relations / Enrollment Management | Brand Guide
  - [http://brand.wvu.edu](http://brand.wvu.edu)
  - date_published: 2024-07-02T15:20:18.548946+00:00
-
- ## Events Calendar
- - [https://calendar.wvu.edu](https://calendar.wvu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Events Calendar
- - [https://cal.wvu.edu](https://cal.wvu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
 

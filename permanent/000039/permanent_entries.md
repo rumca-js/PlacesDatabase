@@ -1,3 +1,7 @@
+ ## cecilia's carrd
+ - [https://thebrightesteyes.carrd.co](https://thebrightesteyes.carrd.co)
+ - date_published: 2024-05-05T11:00:12+00:00
+
  ## The Malaria 'Dividend': Why investing in malaria elimination creates returns for us all
  - [https://themalariadividend.carrd.co](https://themalariadividend.carrd.co)
  - date_published: 2024-06-03T15:18:05+00:00
@@ -4027,8 +4031,4 @@
  ## Notes from Greg Kogan
  - [https://gkogan.co](https://gkogan.co)
  - date_published: 2024-07-28T03:58:48.673657+00:00
-
- ## Attention Required! | Cloudflare
- - [https://glasp.co](https://glasp.co)
- - date_published: 2024-05-04T09:02:17.250026+00:00
 

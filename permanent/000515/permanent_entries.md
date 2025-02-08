@@ -1,3 +1,15 @@
+ ## Dianética: O Poder da Mente sobre o Corpo
+ - [https://dianetics.pt](https://dianetics.pt)
+ - date_published: 2024-06-17T16:42:10.246497+00:00
+
+ ## DigiKey Home
+ - [https://digikey.pt](https://digikey.pt)
+ - date_published: 2024-05-01T05:01:36.054518+00:00
+
+ ## DIG-IN
+ - [https://dig-in.pt](https://dig-in.pt)
+ - date_published: 2024-05-31T00:00:00+00:00
+
  ## Digit Access Portugal - Distribuidor de acessórios para câmeras fotográficas.
  - [https://www.digitaccess.pt](https://www.digitaccess.pt)
  - date_published: 2025-01-02T00:30:25.349779+00:00
@@ -3991,16 +4003,4 @@
  ## Outpost
  - [https://thedissenter.outpost.pub](https://thedissenter.outpost.pub)
  - date_published: 2024-08-18T18:15:32.952867+00:00
-
- ## Outpost
- - [https://vallejosun.outpost.pub](https://vallejosun.outpost.pub)
- - date_published: 2024-05-06T21:29:41.580304+00:00
-
- ## Outpost
- - [https://zerodayghostio.outpost.pub](https://zerodayghostio.outpost.pub)
- - date_published: 2024-07-14T03:38:35.746553+00:00
-
- ## Ping Dashboard - Cosmos Blockchain Explorer And Web Wallet
- - [https://look.ping.pub](https://look.ping.pub)
- - date_published: 2025-01-08T10:11:12+00:00
 

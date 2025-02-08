@@ -1,3 +1,7 @@
+ ## New York Times Bestselling Author | Candace Camp
+ - [http://www.candace-camp.com](http://www.candace-camp.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+
  ## Candace Irving Military Detective Thrillers & Veteran/K-9 Mysteries
  - [https://store.candaceirving.com](https://store.candaceirving.com)
  - date_published: 2025-02-03T04:33:30.108494+00:00
@@ -4018,8 +4022,4 @@
  ## Car Seat Headrest Merchandise
  - [http://carseatheadrestmerch.com](http://carseatheadrestmerch.com)
  - date_published: 2024-07-08T09:33:45.435434+00:00
-
- ## Thoughts in Low Places
- - [https://carsengrote.com](https://carsengrote.com)
- - date_published: 2024-01-10T21:16:21.205470+00:00
 

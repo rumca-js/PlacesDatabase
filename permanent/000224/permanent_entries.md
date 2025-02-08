@@ -1,3 +1,7 @@
+ ## Praetor App - Praetor App
+ - [https://praetorapp.com](https://praetorapp.com)
+ - date_published: 2024-09-25T12:30:09.721743+00:00
+
  ## Home
  - [https://praetorian.com](https://praetorian.com)
  - date_published: 2024-02-03T00:00:00+00:00
@@ -4014,8 +4018,4 @@
  ## Priva | Smart horticulture & building management solutions
  - [https://www.priva.com](https://www.priva.com)
  - date_published: 2024-10-31T08:47:42.584871+00:00
-
- ## Privacy
- - [https://app.privacy.com](https://app.privacy.com)
- - date_published: 2024-06-13T16:39:30+00:00
 

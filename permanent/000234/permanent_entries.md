@@ -1,3 +1,7 @@
+ ## #RheumJC | Rheumatology Journal Club on Twitter
+ - [https://rheumjc.com](https://rheumjc.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
  ## Home | RheumNow
  - [http://rheumnow.com](http://rheumnow.com)
  - date_published: 2024-06-28T12:05:38.318436+00:00
@@ -4031,8 +4035,4 @@
  ## Auto Financing | New & Used Car Loans l Auto Refinance
  - [https://roadloans.com](https://roadloans.com)
  - date_published: 2024-09-28T23:57:26.621772+00:00
-
- ## Roadmap to Reality:  Consciousness, Worldviews, and Blossoming of Human Spirit
- - [http://www.roadmaptoreality.com](http://www.roadmaptoreality.com)
- - date_published: 2016-02-02T14:55:01+00:00
 

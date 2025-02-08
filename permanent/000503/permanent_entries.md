@@ -1,4 +1,16 @@
  ## Wikipedia
+ - [https://srn.wikipedia.org](https://srn.wikipedia.org)
+ - date_published: 2024-05-10T04:28:28.834467+00:00
+
+ ## Википедија
+ - [https://sr.wikipedia.org](https://sr.wikipedia.org)
+ - date_published: 2024-05-10T03:55:44.619576+00:00
+
+ ## Wikipedia
+ - [https://ss.m.wikipedia.org](https://ss.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:24+00:00
+
+ ## Wikipedia
  - [https://ss.wikipedia.org](https://ss.wikipedia.org)
  - date_published: 2024-05-10T04:19:03.926253+00:00
 
@@ -4097,16 +4109,4 @@
  ## Wt/shi - Wikimedia Incubator
  - [https://shi.wiktionary.org](https://shi.wiktionary.org)
  - date_published: 2024-07-09T09:56:25+00:00
-
- ## Wiktionary
- - [https://sh.m.wiktionary.org](https://sh.m.wiktionary.org)
- - date_published: 2024-09-04T02:58:49+00:00
-
- ## ဝိၵ်ႇသျိၼ်ႇၼရီႇ
- - [https://shn.m.wiktionary.org](https://shn.m.wiktionary.org)
- - date_published: 2024-09-10T13:43:16+00:00
-
- ## ဝိၵ်ႇသျိၼ်ႇၼရီႇ
- - [https://shn.wiktionary.org](https://shn.wiktionary.org)
- - date_published: 2024-06-11T12:31:49+00:00
 

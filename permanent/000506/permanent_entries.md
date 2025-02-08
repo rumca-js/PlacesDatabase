@@ -1,3 +1,15 @@
+ ## Hi! I'm Tae from Financial Tortoise.
+ - [https://financial-tortoise.ck.page](https://financial-tortoise.ck.page)
+ - date_published: 2024-10-31T08:17:47+00:00
+
+ ## Hi! We're the FinCon Team.
+ - [https://fincon.ck.page](https://fincon.ck.page)
+ - date_published: 2024-10-31T06:37:26+00:00
+
+ ## Follow along on my journey
+ - [https://fivesixseven.ck.page](https://fivesixseven.ck.page)
+ - date_published: 2024-06-11T02:02:33+00:00
+
  ## The page you were looking for doesn't exist (404)
  - [https://flightcontrol.ck.page](https://flightcontrol.ck.page)
  - date_published: 2024-04-29T07:44:00.936914+00:00
@@ -4014,16 +4026,4 @@ Sign up
  ## Main page - LKY.ph
  - [https://lky.ph](https://lky.ph)
  - date_published: 2024-05-07T10:26:24.908223+00:00
-
- ## L. Ron Hubbard - Scientology & Dianetics Founder
- - [https://www.lronhubbard.ph](https://www.lronhubbard.ph)
- - date_published: 2024-06-06T19:38:51.360735+00:00
-
- ## Mediacom Solutions Inc I Professional Exhibitions & Virtual Events
- - [http://mediacom.ph](http://mediacom.ph)
- - date_published: 2022-08-13T00:00:00+00:00
-
- ## Notesnook Monograph
- - [https://monogr.ph](https://monogr.ph)
- - date_published: 2024-05-09T09:13:37.539946+00:00
 

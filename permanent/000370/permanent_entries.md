@@ -1,3 +1,12 @@
+ ## Dictionnaires - définition, synonyme et encyclopédie
+ - [https://dictionnaire.sensagent.leparisien.fr](https://dictionnaire.sensagent.leparisien.fr)
+ - date_published: 2024-10-25T07:21:44.214704+00:00
+ - date_dead_since: 2025-01-31T16:55:35.362458+00:00
+
+ ## Emploi, offres d'emploi et actualité sur leParisien.fr
+ - [http://emploi.leparisien.fr](http://emploi.leparisien.fr)
+ - date_published: 2025-01-31T16:54:52.959662+00:00
+
  ## Le Parisien
  - [https://kiosque.leparisien.fr](https://kiosque.leparisien.fr)
  - date_published: 2022-11-29T13:43:18+00:00
@@ -4048,12 +4057,4 @@ France - Bienvenue sur le site des pluies extrêmes
  ## Poker52 - Bad beats – Exclus – Culture
  - [http://www.poker52.fr](http://www.poker52.fr)
  - date_published: 2025-01-20T14:48:22.951149+00:00
-
- ## Accueil - Espace numérique | France Travail
- - [https://candidat.pole-emploi.fr](https://candidat.pole-emploi.fr)
- - date_published: 2024-08-30T08:10:09+00:00
-
- ## Accueil | Data Emploi
- - [https://dataemploi.pole-emploi.fr](https://dataemploi.pole-emploi.fr)
- - date_published: 2024-12-22T05:59:52.806505+00:00
 

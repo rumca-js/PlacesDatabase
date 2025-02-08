@@ -1,3 +1,11 @@
+ ## Ryan Rodal's Writer Portfolio
+ - [https://ryanrodal.writerfolio.com](https://ryanrodal.writerfolio.com)
+ - date_published: 2024-09-16T23:18:29.170346+00:00
+
+ ## Check Out My Writing!
+ - [https://shelbyneely.writerfolio.com](https://shelbyneely.writerfolio.com)
+ - date_published: 2024-09-16T23:23:07.032303+00:00
+
  ## For writing that works high and low, Sky's the Write Guy
  - [https://skythewritingguy.writerfolio.com](https://skythewritingguy.writerfolio.com)
  - date_published: 2024-09-16T23:23:08.289376+00:00
@@ -4056,12 +4064,4 @@
  ## XMission
  - [https://xmission.com](https://xmission.com)
  - date_published: 2024-06-23T14:19:48.240616+00:00
-
- ## XML.com
- - [http://xml.com](http://xml.com)
- - date_published: 2024-07-23T21:47:24.041867+00:00
-
- ## 厦门上市公司协会
- - [http://www.xmlca.com](http://www.xmlca.com)
- - date_published: 2025-01-14T11:51:02.319473+00:00
 

@@ -1,3 +1,11 @@
+ ## Equal Opportunity - Oklahoma State University
+ - [https://eeo.okstate.edu](https://eeo.okstate.edu)
+ - date_published: 2020-03-26T13:48:20.111000+00:00
+
+ ## OSU Extension - Home - Oklahoma State University
+ - [https://extension.okstate.edu](https://extension.okstate.edu)
+ - date_published: 2019-05-22T19:18:16.131000+00:00
+
  ## Oklahoma State University - Oklahoma State University
  - [https://go.okstate.edu](https://go.okstate.edu)
  - date_published: 2018-10-29T19:19:42.236000+00:00
@@ -4000,12 +4008,4 @@
  ## Purdue University Global Academic Catalog < Purdue University Global
  - [https://catalog.purdueglobal.edu](https://catalog.purdueglobal.edu)
  - date_published: 2024-04-15T14:46:27+00:00
-
- ## Purdue Global - An Accredited Online University
- - [https://purdueglobal.edu](https://purdueglobal.edu)
- - date_published: 2024-05-07T20:04:07.229589+00:00
-
- ## Purdue Global Law School | Earn a Law Degree Online
- - [https://www.purduegloballawschool.edu](https://www.purduegloballawschool.edu)
- - date_published: 2024-07-01T17:46:44.058928+00:00
 

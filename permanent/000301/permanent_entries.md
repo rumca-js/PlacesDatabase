@@ -1,3 +1,11 @@
+ ## Feminist Philosophers
+ - [http://feministphilosophers.wordpress.com](http://feministphilosophers.wordpress.com)
+ - date_published: 2024-07-01T14:43:22.434143+00:00
+
+ ## Netzwerk feministische Perspektiven & Interventionen gegen die (extreme) Rechte
+ - [https://fempinetzwerk.wordpress.com](https://fempinetzwerk.wordpress.com)
+ - date_published: 2024-09-12T16:12:12.631430+00:00
+
  ## Femwav
  - [https://femwav.wordpress.com](https://femwav.wordpress.com)
  - date_published: 2024-12-25T09:08:56.020848+00:00
@@ -3995,12 +4003,4 @@
  ## jessilyndavis
  - [https://jessilyndavis.wordpress.com](https://jessilyndavis.wordpress.com)
  - date_published: 2024-07-07T10:31:55.077534+00:00
-
- ## Jess is on Break
- - [https://jessisonbreak.wordpress.com](https://jessisonbreak.wordpress.com)
- - date_published: 2024-10-19T07:57:49.287901+00:00
-
- ## (no title)
- - [https://jessthomson.wordpress.com](https://jessthomson.wordpress.com)
- - date_published: 2024-06-30T03:17:58.307645+00:00
 

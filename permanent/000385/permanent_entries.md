@@ -1,3 +1,11 @@
+ ## Home - SKIT Jaipur - NAAC A++ Grade Accredited, Best Engineering College, Best Faculty, Best Placements
+ - [https://skit.ac.in](https://skit.ac.in)
+ - date_published: 2024-07-14T09:22:43.195069+00:00
+
+ ## Home | Shri Lal Bahadur Shastri National Sanskrit University
+ - [https://slbsrsv.ac.in](https://slbsrsv.ac.in)
+ - date_published: 2024-09-11T00:00:00+00:00
+
  ## Sant Longowal Institute of Engineering & Technology
  - [http://sliet.ac.in](http://sliet.ac.in)
  - date_published: 2024-09-11T17:50:26.037440+00:00
@@ -4024,12 +4032,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## CVE Bin
  - [https://cveb.in](https://cveb.in)
  - date_published: 2025-02-04T22:38:42.800976+00:00
-
- ## Cyber Security
- - [https://blog.cyberbruharmy.in](https://blog.cyberbruharmy.in)
- - date_published: 2024-07-13T06:50:36.113687+00:00
-
- ## CyberBruhArmy
- - [https://course.cyberbruharmy.in](https://course.cyberbruharmy.in)
- - date_published: 2023-10-16T00:00:00+00:00
 

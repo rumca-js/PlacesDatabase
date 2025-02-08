@@ -1,3 +1,15 @@
+ ## Yoki Origins
+ - [https://yoki.astar.network](https://yoki.astar.network)
+ - date_published: 2025-01-09T12:34:33.295111+00:00
+
+ ## Asteya Network
+ - [https://asteya.network](https://asteya.network)
+ - date_published: 2021-07-21T12:07:00+00:00
+
+ ## Automata - Machine trust with TEE Coprocessors
+ - [https://ata.network](https://ata.network)
+ - date_published: 2024-08-16T00:00:00+00:00
+
  ## Automata Network
  - [https://blog.ata.network](https://blog.ata.network)
  - date_published: 2024-12-24T02:23:35.012284+00:00
@@ -4023,16 +4035,4 @@
  ## Simplescraper — Scrape Websites and turn them into APIs
  - [https://scrape.new](https://scrape.new)
  - date_published: 2024-08-02T18:03:00.113384+00:00
-
- ## List an item | eBay
- - [https://sell.new](https://sell.new)
- - date_published: 2024-07-12T17:39:48.108283+00:00
-
- ## Partizion Dashboard
- - [https://main.session.new](https://main.session.new)
- - date_published: 2024-09-13T17:47:49+00:00
-
- ## Google Sheets: Sign-in
- - [https://sheet.new](https://sheet.new)
- - date_published: 2024-07-12T17:40:09.163325+00:00
 

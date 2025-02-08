@@ -1,3 +1,7 @@
+ ## Magic, Bolters and Rifles
+ - [http://magicboltersandrifles.blogspot.com](http://magicboltersandrifles.blogspot.com)
+ - date_published: 2024-09-29T03:48:51+00:00
+
  ## Magic Carpet Burn
  - [http://magiccarpetburn.blogspot.com](http://magiccarpetburn.blogspot.com)
  - date_published: 2011-11-15T13:14:00+00:00
@@ -4006,8 +4010,4 @@
  ## Kids Prefer Cheese
  - [https://mungowitzend.blogspot.com](https://mungowitzend.blogspot.com)
  - date_published: 2023-07-24T15:22:00+00:00
-
- ## Munguin's Republic
- - [http://munguinsrepublic.blogspot.com](http://munguinsrepublic.blogspot.com)
- - date_published: 2024-03-25T06:09:38+00:00
 

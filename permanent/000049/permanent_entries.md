@@ -1,3 +1,7 @@
+ ## Marketing, Advertising and Social Media News With Attitude by Steve Hall
+ - [https://adrants.com](https://adrants.com)
+ - date_published: 2024-08-18T03:40:00.112979+00:00
+
  ## graphics.adrecord.com (1×1)
  - [https://graphics.adrecord.com](https://graphics.adrecord.com)
  - date_published: 2024-07-20T19:45:21.227654+00:00
@@ -4015,8 +4019,4 @@
  ## HOME
  - [http://agonygame.com](http://agonygame.com)
  - date_published: 2020-09-24T23:01:33+00:00
-
- ## What To Watch On Streaming - A Good Movie To Watch
- - [https://agoodmovietowatch.com](https://agoodmovietowatch.com)
- - date_published: 2024-06-16T05:45:32.789453+00:00
 

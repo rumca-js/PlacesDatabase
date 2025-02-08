@@ -1,3 +1,7 @@
+ ## Pulsar - Audience Intelligence and Social Listening Platform
+ - [https://pulsarplatform.com](https://pulsarplatform.com)
+ - date_published: 2024-06-13T11:20:10+00:00
+
  ## Pulse 2.0
  - [https://pulse2.com](https://pulse2.com)
  - date_published: 2024-07-04T11:43:42.092877+00:00
@@ -4111,8 +4115,4 @@
  ## Manage all your finances from your Qonto business account
  - [https://qonto.com](https://qonto.com)
  - date_published: 2024-09-14T23:43:04.524288+00:00
-
- ## QooApp 遊戲庫
- - [https://apps.qoo-app.com](https://apps.qoo-app.com)
- - date_published: 2025-01-25T09:17:03.242894+00:00
 

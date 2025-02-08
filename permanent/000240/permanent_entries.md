@@ -1,4 +1,8 @@
  ## Alaska Landscape and Wildlife Photography - Jeff Schultz
+ - [https://schultzphoto.com](https://schultzphoto.com)
+ - date_published: 2025-01-21T01:24:51.999091+00:00
+
+ ## Alaska Landscape and Wildlife Photography - Jeff Schultz
  - [https://www.schultzphoto.com](https://www.schultzphoto.com)
  - date_published: 2025-01-07T20:46:19.379195+00:00
 
@@ -4046,8 +4050,4 @@ Scopus - Welcome to Scopus
  ## Sean Williams
  - [http://www.seanwilliams.com](http://www.seanwilliams.com)
  - date_published: 2024-10-21T17:38:07.136101+00:00
-
- ## Sean Yendrys
- - [http://seanyendrys.com](http://seanyendrys.com)
- - date_published: 2025-01-14T21:02:15.640020+00:00
 

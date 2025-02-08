@@ -1,3 +1,7 @@
+ ## Hotel Horsky Hotel Osobita Zuberec, Slovak Republic - book now, 2025 prices
+ - [https://horsky-hotel-osobita.stayinslovakia.com](https://horsky-hotel-osobita.stayinslovakia.com)
+ - date_published: 2025-02-03T10:50:03.886177+00:00
+
  ## Hotel Horsky Hotel Podjavornik Papradno, Slovak Republic - book now, 2025 prices
  - [https://horsky-hotel-podjavornik.stayinslovakia.com](https://horsky-hotel-podjavornik.stayinslovakia.com)
  - date_published: 2025-02-03T09:53:51.963133+00:00
@@ -4031,8 +4035,4 @@
  - [https://stephendiehl.com](https://stephendiehl.com)
  - date_published: 2022-12-02T13:00:47+00:00
  - date_dead_since: 2025-01-31T00:18:26.203702+00:00
-
- ## Stephen DiVerdi
- - [https://stephendiverdi.com](https://stephendiverdi.com)
- - date_published: 2018-10-30T17:49:09+00:00
 

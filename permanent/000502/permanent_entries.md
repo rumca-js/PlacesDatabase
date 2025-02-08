@@ -1,3 +1,15 @@
+ ## ויקיספר
+ - [https://he.wikibooks.org](https://he.wikibooks.org)
+ - date_published: 2024-06-11T12:31:11+00:00
+
+ ## विकिपुस्तक
+ - [https://hi.wikibooks.org](https://hi.wikibooks.org)
+ - date_published: 2024-07-09T12:21:34+00:00
+
+ ## Wikibooks
+ - [https://hr.wikibooks.org](https://hr.wikibooks.org)
+ - date_published: 2024-07-09T12:21:34+00:00
+
  ## Wb/ht - Wikimedia Incubator
  - [https://ht.wikibooks.org](https://ht.wikibooks.org)
  - date_published: 2024-07-09T09:56:25+00:00
@@ -3989,16 +4001,4 @@
  ## Wikipedia
  - [https://srn.m.wikipedia.org](https://srn.m.wikipedia.org)
  - date_published: 2024-07-09T12:22:23+00:00
-
- ## Wikipedia
- - [https://srn.wikipedia.org](https://srn.wikipedia.org)
- - date_published: 2024-05-10T04:28:28.834467+00:00
-
- ## Википедија
- - [https://sr.wikipedia.org](https://sr.wikipedia.org)
- - date_published: 2024-05-10T03:55:44.619576+00:00
-
- ## Wikipedia
- - [https://ss.m.wikipedia.org](https://ss.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:24+00:00
 

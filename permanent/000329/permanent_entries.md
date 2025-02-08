@@ -1,3 +1,11 @@
+ ## Stream - Urbane Künste Ruhr
+ - [https://urbanekuensteruhr.de](https://urbanekuensteruhr.de)
+ - date_published: 2024-05-11T07:40:18.441784+00:00
+
+ ## Nettes Stadtgarten
+ - [https://urban-gardening-blog.de](https://urban-gardening-blog.de)
+ - date_published: 2024-07-16T15:12:12+00:00
+
  ## Urbia - Wir lieben Familie
  - [https://urbia.de](https://urbia.de)
  - date_published: 2024-04-04T00:00:00+00:00
@@ -4020,12 +4028,4 @@ Bibliotheken / Z39.50
  ## Zendesk: Die Komplettlösung für den Kundenservice
  - [https://www.zendesk.de](https://www.zendesk.de)
  - date_published: 2020-10-15T12:00:00+00:00
-
- ## ZenDiS | Zentrum Digitale Souveränität
- - [https://zendis.de](https://zendis.de)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## MEDIA, KOMMUNIKATIONS- & MARKETING-BERATUNG | ZENITH
- - [https://www.zenithmedia.de](https://www.zenithmedia.de)
- - date_published: 2024-06-25T23:15:47.144528+00:00
 

@@ -1,3 +1,17 @@
+ ## djbsort:
+Intro
+ - [https://sorting.cr.yp.to](https://sorting.cr.yp.to)
+ - date_published: 2024-01-17T00:05:48+00:00
+
+ ## My Untied Airlines:
+Introduction
+ - [https://untied.cr.yp.to](https://untied.cr.yp.to)
+ - date_published: 2012-02-26T00:00:00+00:00
+
+ ## Zoho | Cloud Software Suite for Businesses
+ - [https://zurl.to](https://zurl.to)
+ - date_published: 2024-09-05T11:40:33+00:00
+
  ## 0day.today Agreement - 0day.today Exploit Database : vulnerability : 0day : new exploits : buy and sell private exploit : shellcode by 0day Today Team
  - [https://0day.today](https://0day.today)
  - date_published: 2024-06-19T22:50:38.133758+00:00
@@ -4013,16 +4027,4 @@
  ## Zimbra Web Client Sign In
  - [http://eposta.iste.edu.tr](http://eposta.iste.edu.tr)
  - date_published: 2024-10-19T16:48:16.487737+00:00
-
- ## İskenderun Teknik Üniversitesi (İSTE)
- - [https://iste.edu.tr](https://iste.edu.tr)
- - date_published: 2024-06-17T15:59:20.653931+00:00
-
- ## .:: Bilgi Sistemleri ::.
- - [https://obs.iste.edu.tr](https://obs.iste.edu.tr)
- - date_published: 2024-10-19T16:49:38.907154+00:00
-
- ## Sürekli Eğitim Merkezi | İSTE
- - [https://sem.iste.edu.tr](https://sem.iste.edu.tr)
- - date_published: 2024-10-19T16:49:37.520007+00:00
 

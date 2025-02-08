@@ -1,3 +1,7 @@
+ ## School Library Journal
+ - [http://blogs.slj.com](http://blogs.slj.com)
+ - date_published: 2024-06-21T12:41:06.224566+00:00
+
  ## Good Comics for Kids - A School Library Journal Blog
  - [https://goodcomicsforkids.slj.com](https://goodcomicsforkids.slj.com)
  - date_published: 2024-06-20T17:26:17+00:00
@@ -4018,8 +4022,4 @@
  ## SNES Random Game Picker
  - [https://snesrandom.com](https://snesrandom.com)
  - date_published: 2022-12-11T22:15:48+00:00
-
- ## Sne Studio
- - [https://snestudio.com](https://snestudio.com)
- - date_published: 2024-07-23T23:32:09.776533+00:00
 

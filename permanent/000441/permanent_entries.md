@@ -1,3 +1,12 @@
+ ## RealElvish.net
+ - [http://realelvish.net](http://realelvish.net)
+ - date_published: 2024-06-21T00:00:00+00:00
+ - tags: ['lord of the rings', 'tolkien']
+
+ ## RealElvish Store – Elvish for your Tattoos, Rings, and anything else you can think of!
+ - [https://store.realelvish.net](https://store.realelvish.net)
+ - date_published: 2024-06-12T00:00:00+00:00
+
  ## Favicon Generator for perfect icons on all browsers
  - [https://realfavicongenerator.net](https://realfavicongenerator.net)
  - date_published: 2024-04-28T02:37:07.441703+00:00
@@ -4048,12 +4057,4 @@
  ## THE DESTRUCTIVE FATES NETWORK             feat.   bloodborne
  - [https://shinshoku.net](https://shinshoku.net)
  - date_published: 2024-07-12T16:40:38.316381+00:00
-
- ## PGslot เปิดโอกาสให้คุณเล่นสล็อตออนไลน์และสัมผัสกับการชนะรางวัลที่มากมาย izmir buca ev arkadaşı
- - [https://shinydust.net](https://shinydust.net)
- - date_published: 2025-02-04T18:58:59.089468+00:00
-
- ## Shiny Frog - Useful, Ethical, Outstanding Apps
- - [https://www.shinyfrog.net](https://www.shinyfrog.net)
- - date_published: 2024-05-20T14:59:34+00:00
 

@@ -1,3 +1,11 @@
+ ## RTL+
+ - [https://tvnow.de](https://tvnow.de)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Fernsehprogramm von heute - TV Programm - TV SPIELFILM
+ - [https://tvspielfilm.de](https://tvspielfilm.de)
+ - date_published: 2024-09-18T00:00:00+00:00
+
  ## Das aktuelle Fernsehprogramm im Überblick von TV TODAY
  - [https://tv-today.de](https://tv-today.de)
  - date_published: 2024-01-04T00:00:00+00:00
@@ -4067,12 +4075,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## Grand Snail Tour
  - [https://gst.urbanekuensteruhr.de](https://gst.urbanekuensteruhr.de)
  - date_published: 2024-12-10T17:25:47.495964+00:00
-
- ## Stream - Urbane Künste Ruhr
- - [https://urbanekuensteruhr.de](https://urbanekuensteruhr.de)
- - date_published: 2024-05-11T07:40:18.441784+00:00
-
- ## Nettes Stadtgarten
- - [https://urban-gardening-blog.de](https://urban-gardening-blog.de)
- - date_published: 2024-07-16T15:12:12+00:00
 

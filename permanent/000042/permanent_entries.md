@@ -1,3 +1,7 @@
+ ## Vibho
+ - [https://tconsult.co](https://tconsult.co)
+ - date_published: 2024-09-25T10:12:01.494174+00:00
+
  ## Design Beautiful Digital Products with Teachery | Simplify Digital Product Creation
  - [https://www.teachery.co](https://www.teachery.co)
  - date_published: 2024-08-29T00:00:00+00:00
@@ -4039,8 +4043,4 @@
  ## Campus Virtual: Entrar al sitio
  - [https://campusvirtual.edu.co](https://campusvirtual.edu.co)
  - date_published: 2024-06-12T02:29:44.422518+00:00
-
- ## Home
- - [http://www.centrodeestudiosaeronauticos.edu.co](http://www.centrodeestudiosaeronauticos.edu.co)
- - date_published: 2024-09-11T00:00:00+00:00
 

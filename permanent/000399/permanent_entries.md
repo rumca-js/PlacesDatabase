@@ -1,3 +1,11 @@
+ ## Vivek Gupta
+ - [https://vgupta123.github.io](https://vgupta123.github.io)
+ - date_published: 2024-07-10T17:03:18+00:00
+
+ ## Vincent Perricone - vhp
+ - [https://vhp.github.io](https://vhp.github.io)
+ - date_published: 2019-04-27T01:35:22+00:00
+
  ## Vhyrro's Digital Garden
  - [https://vhyrro.github.io](https://vhyrro.github.io)
  - date_published: 2024-05-31T00:00:00+00:00
@@ -4019,12 +4027,4 @@
  ## Welcome to Helio | Helio
  - [https://docs.hel.io](https://docs.hel.io)
  - date_published: 2024-09-07T00:00:00+00:00
-
- ## Helio | Sell More with Crypto - Instant DeFi Payments for Merchants
- - [https://hel.io](https://hel.io)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Terms of Service | Helio legals
- - [https://info.docs.hel.io](https://info.docs.hel.io)
- - date_published: 2024-09-09T22:25:05.174861+00:00
 

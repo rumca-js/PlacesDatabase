@@ -1,3 +1,11 @@
+ ## Hi, ich bin Mike!
+ - [https://www.barkmin.eu](https://www.barkmin.eu)
+ - date_published: 2024-03-21T22:24:47+00:00
+
+ ## William Weber Arrested in Croatia Over Gaza Related ‘Terrorism’
+ - [https://basehost.eu](https://basehost.eu)
+ - date_published: 2024-01-09T03:29:17.206977+00:00
+
  ## BASIS Europe - The Big Little Software Company - Software und Tools
  - [https://www.basis-europe.eu](https://www.basis-europe.eu)
  - date_published: 2024-12-24T09:20:09.581859+00:00
@@ -4013,12 +4021,4 @@
  ## EuroPython 2022 | July 11th-17th 2022 | Dublin Ireland & Remote
  - [https://ep2022.europython.eu](https://ep2022.europython.eu)
  - date_published: 2024-05-07T23:45:29.151375+00:00
-
- ## EuroPython 2023 | July 17th-23rd 2023 | Prague, Czech Republic & Remote
- - [https://ep2023.europython.eu](https://ep2023.europython.eu)
- - date_published: 2024-05-04T15:58:30.800539+00:00
-
- ## EuroPython 2024 | July 8th-14th 2024 | Prague, Czech Republic & Remote
- - [https://ep2024.europython.eu](https://ep2024.europython.eu)
- - date_published: 2024-05-07T23:45:17.626112+00:00
 

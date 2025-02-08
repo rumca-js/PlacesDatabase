@@ -1,3 +1,7 @@
+ ## Berita Kilas UMKM Terbaru Terkini Hari Ini
+ - [https://kilasumkm.kompas.com](https://kilasumkm.kompas.com)
+ - date_published: 2025-02-03T20:58:48.613960+00:00
+
  ## Update Kolom Terkini- Kompas.com
  - [https://kolom.kompas.com](https://kolom.kompas.com)
  - date_published: 2025-02-03T20:57:26.408661+00:00
@@ -1669,10 +1673,6 @@
  - date_published: 2024-07-03T23:47:01.067941+00:00
 
  ## 蔻享学术
- - [https://m.koushare.com](https://m.koushare.com)
- - date_published: 2024-07-15T07:45:24+00:00
-
- ## 蔻享学术
  - [https://koushare.com](https://koushare.com)
  - date_published: 2024-06-27T09:36:56+00:00
  - date_dead_since: 2025-02-02T15:06:43.198136+00:00
@@ -1681,6 +1681,10 @@
  - [https://www.koushare.com](https://www.koushare.com)
  - date_published: 2024-06-27T09:36:56+00:00
  - date_dead_since: 2025-02-02T15:06:43.399426+00:00
+
+ ## 蔻享学术
+ - [https://m.koushare.com](https://m.koushare.com)
+ - date_published: 2024-07-15T07:45:24+00:00
 
  ## Anasayfa | KOCAELİ ÜNİVERSİTESİ TEKNOPARK
  - [https://kouteknopark.com](https://kouteknopark.com)
@@ -4084,8 +4088,4 @@
  ## 酷狗音乐软件官方免费下载_酷狗唯一官方版下载站
  - [https://download.kugou.com](https://download.kugou.com)
  - date_published: 2025-02-03T22:48:27.472555+00:00
-
- ## 酷狗直播 | 就是歌手多
- - [http://fanxing.kugou.com](http://fanxing.kugou.com)
- - date_published: 2025-02-03T22:49:01.936710+00:00
 

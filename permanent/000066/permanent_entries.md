@@ -1,3 +1,7 @@
+ ## Windswept, by Photay
+ - [https://photay.bandcamp.com](https://photay.bandcamp.com)
+ - date_published: 2025-01-20T21:43:07.772325+00:00
+
  ## Burns Bright, by Photo Ops
  - [https://photoops.bandcamp.com](https://photoops.bandcamp.com)
  - date_published: 2024-12-27T08:28:35.496418+00:00
@@ -3993,8 +3997,4 @@
  ## The Charlatans
  - [https://thecharlatans.bandcamp.com](https://thecharlatans.bandcamp.com)
  - date_published: 2024-12-26T22:18:45.168712+00:00
-
- ## A Sudden Craving, by The Children...
- - [https://thechildrenband.bandcamp.com](https://thechildrenband.bandcamp.com)
- - date_published: 2024-03-01T00:00:00+00:00
 

@@ -1,3 +1,11 @@
+ ## Excel Education Systems: Leading Online Learning
+ - [https://www.trainthebrain.com](https://www.trainthebrain.com)
+ - date_published: 2025-01-22T06:22:59.218308+00:00
+
+ ## Employee Onboarding, SOP & Training Software | Trainual
+ - [https://www.trainual.com](https://www.trainual.com)
+ - date_published: 2025-01-22T07:01:51.855610+00:00
+
  ## TrainValley
  - [https://train-valley.com](https://train-valley.com)
  - date_published: 2020-05-16T10:56:49+00:00
@@ -4103,12 +4111,4 @@
  ## จองการท่องเที่ยวออนไลน์ จองตั๋วเครื่องบิน ที่พัก ราคาถูก raas hotels
  - [https://tripzuki.com](https://tripzuki.com)
  - date_published: 2025-02-05T19:00:40.139854+00:00
-
- ## Join TriRaceDolomites for a Thrilling Challenge
- - [https://triracedolomites.com](https://triracedolomites.com)
- - date_published: 2025-02-03T13:22:56.105577+00:00
-
- ## TriReg - online triathlon event registration
- - [https://trireg.com](https://trireg.com)
- - date_published: 2024-06-15T11:52:41.726071+00:00
 

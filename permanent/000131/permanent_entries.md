@@ -1,3 +1,7 @@
+ ## Wowpedia
+ - [https://blizzard.fandom.com](https://blizzard.fandom.com)
+ - date_published: 2024-10-23T05:28:35+00:00
+
  ## Bloodborne Wiki
  - [https://bloodborne.fandom.com](https://bloodborne.fandom.com)
  - date_published: 2024-06-18T01:18:06+00:00
@@ -3996,8 +4000,4 @@
  ## Wiki Index |  | Fandom
  - [https://filmes.fandom.com](https://filmes.fandom.com)
  - date_published: 2024-05-02T14:40:21.863680+00:00
-
- ## Moviepedia Wiki
- - [https://film.fandom.com](https://film.fandom.com)
- - date_published: 2024-06-17T01:52:05+00:00
 

@@ -1,3 +1,7 @@
+ ## Rootless Living - A Magazine for Digital Nomads
+ - [http://www.rootlessliving.com](http://www.rootlessliving.com)
+ - date_published: 2021-07-08T16:39:48+00:00
+
  ## Help and Documentation - Rootly
  - [https://docs.rootly.com](https://docs.rootly.com)
  - date_published: 2024-04-01T00:00:00+00:00
@@ -4036,9 +4040,4 @@ Top End Devs
  ## The world of RuneScape
  - [https://play.runescape.com](https://play.runescape.com)
  - date_published: 2024-04-05T00:00:00+00:00
-
- ## The world of RuneScape
- - [https://runescape.com](https://runescape.com)
- - date_published: 2024-10-22T10:25:28.087794+00:00
- - tags: ['video game', 'mmorpg']
 

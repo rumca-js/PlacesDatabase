@@ -1,3 +1,7 @@
+ ## 宁远新闻网_主流媒体,党政门户
+ - [https://ningyuan.gov.cn](https://ningyuan.gov.cn)
+ - date_published: 2024-10-21T06:46:02.714267+00:00
+
  ## 六合区政协
  - [http://njlhzx.gov.cn](http://njlhzx.gov.cn)
  - date_published: 2025-01-12T12:50:23.752445+00:00
@@ -4049,8 +4053,4 @@
  ## 首页 中国法学会
  - [https://chinalaw.org.cn](https://chinalaw.org.cn)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## 首页2 中国法学学术交流中心
- - [https://clec.chinalaw.org.cn](https://clec.chinalaw.org.cn)
- - date_published: 2025-01-14T13:16:10.302295+00:00
 

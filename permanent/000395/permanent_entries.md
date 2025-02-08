@@ -1,3 +1,11 @@
+ ## Asmit Nayak
+ - [https://asmitnayak.github.io](https://asmitnayak.github.io)
+ - date_published: 2025-02-03T20:27:57.114351+00:00
+
+ ## ajkprojects
+ - [https://asnewman.github.io](https://asnewman.github.io)
+ - date_published: 2023-10-25T19:44:17.841483+00:00
+
  ## As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors
  - [https://as-plausible-as-possible.github.io](https://as-plausible-as-possible.github.io)
  - date_published: 2024-03-02T08:19:09+00:00
@@ -4028,12 +4036,4 @@ for Articulated Avatars
  ## Frederick Liu
  - [https://frederick0329.github.io](https://frederick0329.github.io)
  - date_published: 2024-01-16T01:47:31+00:00
-
- ## Frederik Warburg
- - [https://frederikwarburg.github.io](https://frederikwarburg.github.io)
- - date_published: 2024-05-26T18:17:27+00:00
-
- ## About me
- - [https://fredrikaverpil.github.io](https://fredrikaverpil.github.io)
- - date_published: 2024-06-01T14:46:23+00:00
 

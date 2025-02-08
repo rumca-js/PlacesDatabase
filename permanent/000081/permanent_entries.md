@@ -1,3 +1,7 @@
+ ## Imaginary Life
+ - [http://imagination-incorporation.blogspot.com](http://imagination-incorporation.blogspot.com)
+ - date_published: 2024-08-29T21:01:45+00:00
+
  ## Imagine, DC
  - [http://imaginedc.blogspot.com](http://imaginedc.blogspot.com)
  - date_published: 2006-07-11T00:00:00+00:00
@@ -4001,8 +4005,4 @@
  ## Kilroy was there
  - [http://kilroywasthere.blogspot.com](http://kilroywasthere.blogspot.com)
  - date_published: 2024-03-19T08:13:17+00:00
-
- ## Exploring the programming world
- - [http://kimavcrp.blogspot.com](http://kimavcrp.blogspot.com)
- - date_published: 2024-09-13T04:08:14+00:00
 

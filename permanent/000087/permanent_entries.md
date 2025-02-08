@@ -1,3 +1,7 @@
+ ## Running 42km
+ - [http://running42km.blogspot.com](http://running42km.blogspot.com)
+ - date_published: 2024-10-07T05:53:07+00:00
+
  ## Not Running a Hospital
  - [https://runningahospital.blogspot.com](https://runningahospital.blogspot.com)
  - date_published: 2016-03-15T17:35:00+00:00
@@ -4001,8 +4005,4 @@
  ## Spinward Fringe
  - [http://spinwardfringe.blogspot.com](http://spinwardfringe.blogspot.com)
  - date_published: 2024-11-01T11:37:50+00:00
-
- ## Spiral Galaxy Musings
- - [http://spiralgalaxyreviews.blogspot.com](http://spiralgalaxyreviews.blogspot.com)
- - date_published: 2024-06-19T03:58:00+00:00
 

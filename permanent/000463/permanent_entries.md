@@ -1,3 +1,15 @@
+ ## The Clockwork Pastor
+ - [http://clockworkpastor.org](http://clockworkpastor.org)
+ - date_published: 2024-09-03T22:54:28+00:00
+
+ ## Cloe programming language
+ - [https://cloe-lang.org](https://cloe-lang.org)
+ - date_published: 2025-01-21T19:19:10.686284+00:00
+
+ ## Home - CLOH.org
+ - [https://cloh.org](https://cloh.org)
+ - date_published: 2019-02-12T13:04:09+00:00
+
  ## Links to various sites and services - Hub.CLOH.org
  - [https://hub.cloh.org](https://hub.cloh.org)
  - date_published: 2017-03-06T18:29:19+00:00
@@ -4015,16 +4027,4 @@
  ## Córdoba Solidaria - Cordoba Solidaria
  - [http://www.cordobasolidaria.org](http://www.cordobasolidaria.org)
  - date_published: 2024-12-11T14:23:45.135445+00:00
-
- ## Cordova Community Council - Cordova Community Council
- - [https://cordovacouncil.org](https://cordovacouncil.org)
- - date_published: 2024-04-28T04:28:15.015902+00:00
-
- ## The International Cordyline Society
- - [http://www.cordyline.org](http://www.cordyline.org)
- - date_published: 2024-12-31T15:36:27+00:00
-
- ## Career Opportunities in Real Estate
- - [https://corearc.org](https://corearc.org)
- - date_published: 2025-02-04T12:05:34.514955+00:00
 

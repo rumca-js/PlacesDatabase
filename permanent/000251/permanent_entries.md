@@ -1,3 +1,7 @@
+ ## Spiekerblog | Typomanie ist unheilbar, aber nicht tödlich. Seit einigen Jahren lebe ich dieses Leiden aus, indem ich eine typografische Werkstatt betreibe: p98a.berlin.
+ - [http://spiekermann.com](http://spiekermann.com)
+ - date_published: 2024-07-24T02:21:37.632663+00:00
+
  ## Pluckable Strings
  - [https://string.spiel.com](https://string.spiel.com)
  - date_published: 2024-05-21T11:10:38+00:00
@@ -4049,8 +4053,4 @@
  ## stack.io | DevOps On Demand
  - [https://alligator-bird-rmgt.squarespace.com](https://alligator-bird-rmgt.squarespace.com)
  - date_published: 2024-07-08T17:33:10.365477+00:00
-
- ## Forthright Advising: PR Firm for Nonprofits NC | Nonprofit Communications Agency
- - [https://alligator-blenny-rhe8.squarespace.com](https://alligator-blenny-rhe8.squarespace.com)
- - date_published: 2024-10-06T03:48:52.442860+00:00
 

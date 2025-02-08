@@ -1,3 +1,7 @@
+ ## Optus bungling
+ - [http://optus-australia.blogspot.com](http://optus-australia.blogspot.com)
+ - date_published: 2024-05-11T06:09:04+00:00
+
  ## O Puma
  - [http://opuma.blogspot.com](http://opuma.blogspot.com)
  - date_published: 2024-12-13T23:54:14+00:00
@@ -3998,8 +4002,4 @@
  ## Programming Questions
  - [https://programmingquestions.blogspot.com](https://programmingquestions.blogspot.com)
  - date_published: 2024-02-20T18:47:19+00:00
-
- ## On Being A Journeyman Software Developer
- - [https://programmingtour.blogspot.com](https://programmingtour.blogspot.com)
- - date_published: 2024-05-07T15:15:56.483306+00:00
 

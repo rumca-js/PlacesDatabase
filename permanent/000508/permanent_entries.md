@@ -1,3 +1,15 @@
+ ## Historia.org.pl - Polski portal historyczny
+ - [https://historia.org.pl](https://historia.org.pl)
+ - date_published: 2023-10-25T22:25:19.313712+00:00
+
+ ## IAB 25-lecie
+ - [https://25lat.iab.org.pl](https://25lat.iab.org.pl)
+ - date_published: 2024-06-18T16:33:28.169423+00:00
+
+ ## Digital w dobie kryzysu
+ - [http://covid.iab.org.pl](http://covid.iab.org.pl)
+ - date_published: 2024-06-18T16:32:52.613709+00:00
+
  ## Strona główna - IAB
  - [https://howto.iab.org.pl](https://howto.iab.org.pl)
  - date_published: 2024-05-28T00:00:00+00:00
@@ -4081,16 +4093,4 @@ Polska 1939
  ## Dolny Śląsk - oficjalny portal regionu. Poznaj dolnośląskie!
  - [https://dolnyslask.pl](https://dolnyslask.pl)
  - date_published: 2024-06-09T00:00:00+00:00
-
- ## index
- - [https://geoportal.dolnyslask.pl](https://geoportal.dolnyslask.pl)
- - date_published: 2024-03-25T03:19:18+00:00
-
- ## Konwent Przewodniczących Sejmików Województw RP - Dolnośląskie 2023 - Strona główna
- - [https://konwent-przewodniczacych.dolnyslask.pl](https://konwent-przewodniczacych.dolnyslask.pl)
- - date_published: 2024-07-17T07:46:02+00:00
-
- ## RPO WD 2014 – 2020 – Regionalny Program Operacyjny Wojewódzktwa Dolnośląskiego na lata 2014 – 2020
- - [http://rpo.dolnyslask.pl](http://rpo.dolnyslask.pl)
- - date_published: 2024-07-16T00:00:00+00:00
 

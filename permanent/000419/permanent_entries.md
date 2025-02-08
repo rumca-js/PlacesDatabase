@@ -1,3 +1,11 @@
+ ## MCon K
+ - [https://mcon-k.softonic.kr](https://mcon-k.softonic.kr)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Microsoft Edge
+ - [https://microsoft-edge.softonic.kr](https://microsoft-edge.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
  ## Microsoft Teams
  - [https://microsoft-teams.softonic.kr](https://microsoft-teams.softonic.kr)
  - date_published: 2024-07-31T00:00:00+00:00
@@ -4020,12 +4028,4 @@
  ## wikiHow Life - Trustworthy How To Instructions
  - [https://wikihow.life](https://wikihow.life)
  - date_published: 2024-06-14T10:12:33+00:00
-
- ## Yang Liu
- - [https://yangliu.life](https://yangliu.life)
- - date_published: 2022-10-17T04:44:00+00:00
-
- ## Year 01
- - [https://year01.life](https://year01.life)
- - date_published: 2024-09-14T23:34:40.092208+00:00
 

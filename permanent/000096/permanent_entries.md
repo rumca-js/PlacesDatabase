@@ -1,3 +1,7 @@
+ ## Bully Pulpit Games
+ - [https://bullypulpitgames.com](https://bullypulpitgames.com)
+ - date_published: 2024-07-14T10:46:11.059156+00:00
+
  ## BulStream - Излъчване НА ЖИВО и Стрийминг услиги
  - [https://bulstream.com](https://bulstream.com)
  - date_published: 2025-01-22T15:01:20.388562+00:00
@@ -4034,8 +4038,4 @@ Christian blog at found at www.bumchecks.com
  ## The Diversity List 2024 - Cablefax
  - [https://cablefaxdiversity.com](https://cablefaxdiversity.com)
  - date_published: 2024-06-29T04:49:09.639952+00:00
-
- ## 2024 Cablefax Top Ops - Cablefax
- - [https://cablefaxtopops.com](https://cablefaxtopops.com)
- - date_published: 2024-06-29T04:48:26.375636+00:00
 

@@ -1,4 +1,16 @@
  ## Wiktionary
+ - [https://sh.m.wiktionary.org](https://sh.m.wiktionary.org)
+ - date_published: 2024-09-04T02:58:49+00:00
+
+ ## ဝိၵ်ႇသျိၼ်ႇၼရီႇ
+ - [https://shn.m.wiktionary.org](https://shn.m.wiktionary.org)
+ - date_published: 2024-09-10T13:43:16+00:00
+
+ ## ဝိၵ်ႇသျိၼ်ႇၼရီႇ
+ - [https://shn.wiktionary.org](https://shn.wiktionary.org)
+ - date_published: 2024-06-11T12:31:49+00:00
+
+ ## Wiktionary
  - [https://sh.wiktionary.org](https://sh.wiktionary.org)
  - date_published: 2024-06-01T12:23:52+00:00
 
@@ -4022,16 +4034,4 @@ Conference Series
  ## WUSF
  - [https://wusf.org](https://wusf.org)
  - date_published: 2024-07-11T19:53:40.272281+00:00
-
- ## Jazz Music Events | Jazz on Arts Axis Florida | WUSF
- - [http://www.wusfjazz.org](http://www.wusfjazz.org)
- - date_published: 2024-12-21T10:49:03.478625+00:00
-
- ## wusflongesttable.org – Just another WordPress site
- - [https://www.wusflongesttable.org](https://www.wusflongesttable.org)
- - date_published: 2024-07-12T18:39:23.084997+00:00
-
- ## WUSF
- - [http://www.wusfnews.org](http://www.wusfnews.org)
- - date_published: 2024-12-21T10:48:55.315406+00:00
 

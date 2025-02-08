@@ -1,3 +1,15 @@
+ ## What Kind Of Services Do NZ Businesses Provide?
+ - [http://www.vtablog.org](http://www.vtablog.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## 2010 Schedule :: Vermont Code Camp
+ - [https://2010.vtcodecamp.org](https://2010.vtcodecamp.org)
+ - date_published: 2024-09-18T15:21:24.279294+00:00
+
+ ## 2011 Schedule :: Vermont Code Camp
+ - [https://2011.vtcodecamp.org](https://2011.vtcodecamp.org)
+ - date_published: 2024-09-18T15:21:28.923569+00:00
+
  ## Vermont Code Camp 4 :: 2012
  - [https://2012.vtcodecamp.org](https://2012.vtcodecamp.org)
  - date_published: 2024-09-18T15:21:17.586411+00:00
@@ -4019,16 +4031,4 @@
  ## ויקיספר
  - [https://he.m.wikibooks.org](https://he.m.wikibooks.org)
  - date_published: 2024-09-07T06:41:11+00:00
-
- ## ויקיספר
- - [https://he.wikibooks.org](https://he.wikibooks.org)
- - date_published: 2024-06-11T12:31:11+00:00
-
- ## विकिपुस्तक
- - [https://hi.wikibooks.org](https://hi.wikibooks.org)
- - date_published: 2024-07-09T12:21:34+00:00
-
- ## Wikibooks
- - [https://hr.wikibooks.org](https://hr.wikibooks.org)
- - date_published: 2024-07-09T12:21:34+00:00
 

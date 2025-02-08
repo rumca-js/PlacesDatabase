@@ -1,3 +1,11 @@
+ ## オンラインでフリーランサーを採用&フリーランサーの仕事を探す
+ - [https://www.freelancer.jp](https://www.freelancer.jp)
+ - date_published: 2024-06-16T12:02:10.633085+00:00
+
+ ## 活発度[超新人] - 新人VTubersランキング
+ - [https://freshvtubers.jp](https://freshvtubers.jp)
+ - date_published: 2024-10-27T08:42:09.883234+00:00
+
  ## アニメ『葬送のフリーレン』公式サイト
  - [https://frieren-anime.jp](https://frieren-anime.jp)
  - date_published: 2024-02-16T00:00:00+00:00
@@ -4000,12 +4008,4 @@
  ## 株式会社レインボーロード
  - [http://rainbowroad.jp](http://rainbowroad.jp)
  - date_published: 2024-08-06T20:08:23.852328+00:00
-
- ## ＣＵオンラインショップ
- - [https://shop-chiba-u.raku-uru.jp](https://shop-chiba-u.raku-uru.jp)
- - date_published: 2024-05-11T07:26:39.585335+00:00
-
- ## 立命館大学ゲーム研究センター : Ritsumeikan Center for Game Studies (RCGS)
- - [http://www.rcgs.jp](http://www.rcgs.jp)
- - date_published: 2024-06-18T00:00:00+00:00
 

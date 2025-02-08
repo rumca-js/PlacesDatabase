@@ -1,3 +1,11 @@
+ ## Civilian Reader
+ - [https://civilianreader.wordpress.com](https://civilianreader.wordpress.com)
+ - date_published: 2024-08-06T11:38:17.210729+00:00
+
+ ## Civilus Defendus
+ - [https://civilusdefendus.wordpress.com](https://civilusdefendus.wordpress.com)
+ - date_published: 2024-07-07T02:06:14.835122+00:00
+
  ## (null '()) =>  T
  - [https://cjelupton.wordpress.com](https://cjelupton.wordpress.com)
  - date_published: 2024-12-15T20:47:10.979577+00:00
@@ -3996,12 +4004,4 @@
  ## feministkilljoys
  - [http://feministkilljoys.wordpress.com](http://feministkilljoys.wordpress.com)
  - date_published: 2024-10-25T03:00:05+00:00
-
- ## Feminist Philosophers
- - [http://feministphilosophers.wordpress.com](http://feministphilosophers.wordpress.com)
- - date_published: 2024-07-01T14:43:22.434143+00:00
-
- ## Netzwerk feministische Perspektiven & Interventionen gegen die (extreme) Rechte
- - [https://fempinetzwerk.wordpress.com](https://fempinetzwerk.wordpress.com)
- - date_published: 2024-09-12T16:12:12.631430+00:00
 

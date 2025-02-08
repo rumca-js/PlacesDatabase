@@ -1,3 +1,7 @@
+ ## Home
+ - [http://www.centrodeestudiosaeronauticos.edu.co](http://www.centrodeestudiosaeronauticos.edu.co)
+ - date_published: 2024-09-11T00:00:00+00:00
+
  ## Biblioteca Digital - CESA
  - [https://repository.cesa.edu.co](https://repository.cesa.edu.co)
  - date_published: 2024-09-11T16:52:11.376121+00:00
@@ -4064,8 +4068,4 @@
  ## SIC
  - [http://devoluciones.sic.gov.co](http://devoluciones.sic.gov.co)
  - date_published: 2024-07-30T21:55:22+00:00
-
- ## front
- - [https://sedeelectronica.sic.gov.co](https://sedeelectronica.sic.gov.co)
- - date_published: 2024-09-09T21:41:15+00:00
 

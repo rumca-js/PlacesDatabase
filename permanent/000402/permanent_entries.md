@@ -1,3 +1,11 @@
+ ## metromagic | Unlimited Web Design & Digital Marketing Services | Professional Website Development
+ - [https://metromagic.io](https://metromagic.io)
+ - date_published: 2025-01-22T13:19:16.449316+00:00
+
+ ## Mettle - Laravel PHP and ElasticSearch consultants
+ - [https://mettle.io](https://mettle.io)
+ - date_published: 2024-07-18T22:16:16.780038+00:00
+
  ## Mev Blocker - The best MEV protection under the sun
  - [https://mevblocker.io](https://mevblocker.io)
  - date_published: 2024-09-04T12:20:01.432180+00:00
@@ -4018,12 +4026,4 @@
  ## Home
  - [https://optimism.io](https://optimism.io)
  - date_published: 2024-06-16T03:44:41.364101+00:00
-
- ## Retro Funding
- - [https://retrofunding.optimism.io](https://retrofunding.optimism.io)
- - date_published: 2024-07-04T17:17:43.870534+00:00
-
- ## Retro PGF
- - [https://round3.optimism.io](https://round3.optimism.io)
- - date_published: 2024-07-21T04:58:24.091074+00:00
 

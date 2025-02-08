@@ -1,3 +1,11 @@
+ ## LANL | Centers | Quantum Initiative
+ - [http://quantum.lanl.gov](http://quantum.lanl.gov)
+ - date_published: 2024-10-19T07:48:17.802056+00:00
+
+ ## Home | Research Library
+ - [https://researchlibrary.lanl.gov](https://researchlibrary.lanl.gov)
+ - date_published: 2024-06-05T17:22:15+00:00
+
  ## Science & Innovation
  - [https://science-innovation.lanl.gov](https://science-innovation.lanl.gov)
  - date_published: 2024-06-13T19:21:50+00:00
@@ -4015,12 +4023,4 @@
  ## 紐約州官方網站
  - [https://zh-traditional.ny.gov](https://zh-traditional.ny.gov)
  - date_published: 2024-07-14T04:44:57.489703+00:00
-
- ## 臨時和殘疾援助辦公室
- - [https://zh-traditional.otda.ny.gov](https://zh-traditional.otda.ny.gov)
- - date_published: 2024-10-28T00:27:39.782408+00:00
-
- ## Assembly Home | New York State Assembly
- - [https://nyassembly.gov](https://nyassembly.gov)
- - date_published: 2024-07-11T00:00:00+00:00
 

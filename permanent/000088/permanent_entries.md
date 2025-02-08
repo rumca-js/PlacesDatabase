@@ -1,3 +1,7 @@
+ ## Spiral Galaxy Musings
+ - [http://spiralgalaxyreviews.blogspot.com](http://spiralgalaxyreviews.blogspot.com)
+ - date_published: 2024-06-19T03:58:00+00:00
+
  ## SpiralingCadaver
  - [http://spiralingcadaver.blogspot.com](http://spiralingcadaver.blogspot.com)
  - date_published: 2024-11-06T02:57:48+00:00
@@ -4003,8 +4007,4 @@
  ## Vapour Trails
  - [http://theknockingshop.blogspot.com](http://theknockingshop.blogspot.com)
  - date_published: 2025-02-01T15:46:08.593636+00:00
-
- ## The Lambeth Walk
- - [http://thelambethwalk.blogspot.com](http://thelambethwalk.blogspot.com)
- - date_published: 2024-12-06T07:31:40+00:00
 

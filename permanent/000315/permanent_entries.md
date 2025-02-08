@@ -1,3 +1,11 @@
+ ## Baja Design 👕 | Oblečení pro děti i rodiče
+ - [https://bajadesign.cz](https://bajadesign.cz)
+ - date_published: 2024-10-18T03:45:39.567444+00:00
+
+ ## Bakalari - login to the system
+ - [https://gtr.bakalari.cz](https://gtr.bakalari.cz)
+ - date_published: 2024-07-01T10:20:29.304394+00:00
+
  ## Bakaláři – mezi školou a rodinou | Bakaláři
  - [http://www.bakalari.cz](http://www.bakalari.cz)
  - date_published: 2024-12-13T22:17:59.415020+00:00
@@ -4010,12 +4018,4 @@ Evanek Web Design Studio - webdesign, webové prezentace, publikační systémy,
  ## centrum.cz
  - [https://i0.cz](https://i0.cz)
  - date_published: 2019-08-08T15:33:52+00:00
-
- ## i60.cz
- - [https://blogy.i60.cz](https://blogy.i60.cz)
- - date_published: 2024-09-05T17:44:25.337656+00:00
-
- ## E-shop I60.cz
- - [https://eshop.i60.cz](https://eshop.i60.cz)
- - date_published: 2024-09-05T17:44:20.736315+00:00
 

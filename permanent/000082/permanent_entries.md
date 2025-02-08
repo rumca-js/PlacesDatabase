@@ -1,3 +1,7 @@
+ ## Exploring the programming world
+ - [http://kimavcrp.blogspot.com](http://kimavcrp.blogspot.com)
+ - date_published: 2024-09-13T04:08:14+00:00
+
  ## Victorian Musings
  - [http://kimberlyevemusings.blogspot.com](http://kimberlyevemusings.blogspot.com)
  - date_published: 2024-06-05T04:46:37+00:00
@@ -4001,8 +4005,4 @@
  ## Maggie's Notebook
  - [http://maggiesnotebook.blogspot.com](http://maggiesnotebook.blogspot.com)
  - date_published: 2024-03-14T02:50:06+00:00
-
- ## Magic, Bolters and Rifles
- - [http://magicboltersandrifles.blogspot.com](http://magicboltersandrifles.blogspot.com)
- - date_published: 2024-09-29T03:48:51+00:00
 

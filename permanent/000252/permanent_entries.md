@@ -1,3 +1,7 @@
+ ## Forthright Advising: PR Firm for Nonprofits NC | Nonprofit Communications Agency
+ - [https://alligator-blenny-rhe8.squarespace.com](https://alligator-blenny-rhe8.squarespace.com)
+ - date_published: 2024-10-06T03:48:52.442860+00:00
+
  ## The Tank Factory | Hire Film & Photography Studios in London
  - [https://alligator-lavender-bss4.squarespace.com](https://alligator-lavender-bss4.squarespace.com)
  - date_published: 2025-01-20T19:21:47.082960+00:00
@@ -3993,8 +3997,4 @@
  ## Jennifer Pepper—Marketing & Brand Leader
  - [https://jennifer-pepper.squarespace.com](https://jennifer-pepper.squarespace.com)
  - date_published: 2024-07-29T00:00:00+00:00
-
- ## Jeremy Jeziorski
- - [https://jeremy-jeziorski.squarespace.com](https://jeremy-jeziorski.squarespace.com)
- - date_published: 2024-08-01T00:00:00+00:00
 

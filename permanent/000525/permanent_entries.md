@@ -1,3 +1,15 @@
+ ## Mastodon
+ - [https://gultsch.social](https://gultsch.social)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## hackaday.social
+ - [https://hackaday.social](https://hackaday.social)
+ - date_published: 2015-04-14T00:00:00+00:00
+
+ ## Halcyon
+ - [https://www.halcyon.social](https://www.halcyon.social)
+ - date_published: 2024-07-18T05:35:11.713320+00:00
+
  ## Hallertau Social – De Holledau im Fediverse
  - [https://hallertau.social](https://hallertau.social)
  - date_published: 2024-03-01T00:00:00+00:00
@@ -4040,16 +4052,4 @@
  ## Stockholms stad
  - [https://start.stockholm](https://start.stockholm)
  - date_published: 2024-07-20T12:06:13.032374+00:00
-
- ## Defend against data censorship with Codex | Codex
- - [https://codex.storage](https://codex.storage)
- - date_published: 2024-08-05T11:35:16+00:00
-
- ## Data Preservation Solution
- - [https://www.delta.storage](https://www.delta.storage)
- - date_published: 2024-07-18T06:24:33.645067+00:00
-
- ## Dev.Storage
- - [https://dev.storage](https://dev.storage)
- - date_published: 2024-09-24T06:28:44.316062+00:00
 

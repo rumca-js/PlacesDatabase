@@ -1,3 +1,7 @@
+ ## I Borghi più Belli della Svizzera
+ - [https://www.borghisvizzera.ch](https://www.borghisvizzera.ch)
+ - date_published: 2024-09-14T09:28:38.931369+00:00
+
  ## Bose | Kopfhörer, Lautsprecher, Wearables
  - [https://www.bose.ch](https://www.bose.ch)
  - date_published: 2025-02-01T21:03:03.787630+00:00
@@ -4004,8 +4008,4 @@
  ## Hochschule Luzern, bildet – forscht – begeistert
  - [https://www.hslu.ch](https://www.hslu.ch)
  - date_published: 2024-05-04T14:56:34.565756+00:00
-
- ## OST – Ostschweizer Fachhochschule: Wo Wissen wirkt
- - [https://www.hsr.ch](https://www.hsr.ch)
- - date_published: 2024-10-09T15:50:47.271946+00:00
 

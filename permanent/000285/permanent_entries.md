@@ -1,3 +1,11 @@
+ ## Classics in Contemporary Culture
+ - [http://semperegoauditor.typepad.com](http://semperegoauditor.typepad.com)
+ - date_published: 2024-07-02T06:35:26.525077+00:00
+
+ ## Sentencing Law and Policy
+ - [https://sentencing.typepad.com](https://sentencing.typepad.com)
+ - date_published: 2024-06-15T02:26:20.408798+00:00
+
  ## Servant of Chaos
  - [http://servantofchaos.typepad.com](http://servantofchaos.typepad.com)
  - date_published: 2025-01-18T09:27:21.195433+00:00
@@ -4040,12 +4048,4 @@ Welcome
  ## Join the Umbraco Discord Server!
  - [https://discord.umbraco.com](https://discord.umbraco.com)
  - date_published: 2024-06-20T18:51:18+00:00
-
- ## Umbraco Documentation | UmbracoDocs
- - [https://docs.umbraco.com](https://docs.umbraco.com)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Umbraco Marketplace | Umbraco integrations and packages
- - [https://marketplace.umbraco.com](https://marketplace.umbraco.com)
- - date_published: 2024-07-23T21:22:11.988644+00:00
 

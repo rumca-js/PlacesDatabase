@@ -1,3 +1,15 @@
+ ## L. Ron Hubbard - Scientology & Dianetics Founder
+ - [https://www.lronhubbard.ph](https://www.lronhubbard.ph)
+ - date_published: 2024-06-06T19:38:51.360735+00:00
+
+ ## Mediacom Solutions Inc I Professional Exhibitions & Virtual Events
+ - [http://mediacom.ph](http://mediacom.ph)
+ - date_published: 2022-08-13T00:00:00+00:00
+
+ ## Notesnook Monograph
+ - [https://monogr.ph](https://monogr.ph)
+ - date_published: 2024-05-09T09:13:37.539946+00:00
+
  ## Distributor ng mga Semiconductor at Piyesang Elektroniko - Mouser Electronics Philippines
  - [https://www.mouser.ph](https://www.mouser.ph)
  - date_published: 2024-07-01T20:57:43.211777+00:00
@@ -4032,16 +4044,4 @@
  ## FORUM.HISTORIA.org.pl - Forum historyczne
  - [https://forum.historia.org.pl](https://forum.historia.org.pl)
  - date_published: 2024-01-18T00:00:00+00:00
-
- ## Historia.org.pl - Polski portal historyczny
- - [https://historia.org.pl](https://historia.org.pl)
- - date_published: 2023-10-25T22:25:19.313712+00:00
-
- ## IAB 25-lecie
- - [https://25lat.iab.org.pl](https://25lat.iab.org.pl)
- - date_published: 2024-06-18T16:33:28.169423+00:00
-
- ## Digital w dobie kryzysu
- - [http://covid.iab.org.pl](http://covid.iab.org.pl)
- - date_published: 2024-06-18T16:32:52.613709+00:00
 

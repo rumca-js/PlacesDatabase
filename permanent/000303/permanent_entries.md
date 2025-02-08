@@ -1,3 +1,11 @@
+ ## Rolling War
+ - [https://minutiaeofwar.wordpress.com](https://minutiaeofwar.wordpress.com)
+ - date_published: 2025-01-01T14:17:41.219019+00:00
+
+ ## Just Another Software Developer
+ - [https://miparnisariblog.wordpress.com](https://miparnisariblog.wordpress.com)
+ - date_published: 2023-10-25T18:13:46.124761+00:00
+
  ## Site Title
  - [http://miraclesussie.wordpress.com](http://miraclesussie.wordpress.com)
  - date_published: 2024-06-26T07:33:41.243818+00:00
@@ -3999,12 +4007,4 @@
  ## Prosatirica
  - [http://prosatirica.wordpress.com](http://prosatirica.wordpress.com)
  - date_published: 2025-01-24T23:55:29.627330+00:00
-
- ## Prose and Thorn
- - [http://proseandthorn.wordpress.com](http://proseandthorn.wordpress.com)
- - date_published: 2024-10-29T20:23:36.908474+00:00
-
- ## Private Site
- - [http://prosthetics.wordpress.com](http://prosthetics.wordpress.com)
- - date_published: 2024-06-30T04:28:47.183480+00:00
 

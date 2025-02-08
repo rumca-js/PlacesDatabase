@@ -1,3 +1,7 @@
+ ## Demi Morgana
+ - [http://demimorgana.blogspot.com](http://demimorgana.blogspot.com)
+ - date_published: 2024-07-19T18:41:17+00:00
+
  ## DemiOrator
  - [http://demiorator.blogspot.com](http://demiorator.blogspot.com)
  - date_published: 2024-09-05T08:26:08+00:00
@@ -4002,8 +4006,4 @@
  ## Margem Esquerda
  - [http://esquerda-margem.blogspot.com](http://esquerda-margem.blogspot.com)
  - date_published: 2024-10-01T21:57:25+00:00
-
- ## Esquerda Republicana
- - [http://esquerda-republicana.blogspot.com](http://esquerda-republicana.blogspot.com)
- - date_published: 2024-10-13T10:30:51+00:00
 

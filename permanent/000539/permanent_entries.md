@@ -1,3 +1,16 @@
+ ## Matt Ridley - Matt Ridley, author The Rational Optimist, Evolution of Everything
+ - [https://www.mattridley.co.uk](https://www.mattridley.co.uk)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Matt Rutherford 👓
+ - [https://mattrutherford.co.uk](https://mattrutherford.co.uk)
+ - date_published: 2024-06-22T13:46:51.726459+00:00
+ - tags: ['personal']
+
+ ## Home | Matt Tunney
+ - [http://www.matttunney.co.uk](http://www.matttunney.co.uk)
+ - date_published: 2024-07-18T04:56:08.059593+00:00
+
  ## Mauveweb
  - [http://mauveweb.co.uk](http://mauveweb.co.uk)
  - date_published: 2018-03-25T17:44:30+00:00
@@ -4008,16 +4021,4 @@
  ## Pubs Galore - The UK pub guide
  - [http://www.pubsgalore.co.uk](http://www.pubsgalore.co.uk)
  - date_published: 2025-01-01T01:24:42.644692+00:00
-
- ## Pulse North - Print | Digital | Web
- - [https://pulsenorth.co.uk](https://pulsenorth.co.uk)
- - date_published: 2025-02-01T10:59:36.236858+00:00
-
- ## Pumpclip Parade
- - [http://pumpclipparade.co.uk](http://pumpclipparade.co.uk)
- - date_published: 2025-01-01T01:19:34.267606+00:00
-
- ## Punk 77 - Punk 77
- - [https://punk77.co.uk](https://punk77.co.uk)
- - date_published: 2025-01-31T18:02:37.981784+00:00
 

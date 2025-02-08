@@ -1,3 +1,11 @@
+ ## BORBET Felgen aus Aluminium
+ - [https://www.borbet.de](https://www.borbet.de)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## 13th International Conference on Automotive Wire Harness & EDS 2025
+ - [https://www.bordnetze-kongress.de](https://www.bordnetze-kongress.de)
+ - date_published: 2025-01-16T21:05:08.037253+00:00
+
  ## BOREAS - BOREAS Energy
  - [https://www.boreas.de](https://www.boreas.de)
  - date_published: 2024-09-25T19:05:21.877542+00:00
@@ -4008,12 +4016,4 @@ home
  ## Evoke 2024
  - [https://evoke24.deinetickets.de](https://evoke24.deinetickets.de)
  - date_published: 2024-06-17T03:33:18.556907+00:00
-
- ## Deinheimbedarf » Parfums, Kamine und mehr
- - [https://deinheimbedarf.de](https://deinheimbedarf.de)
- - date_published: 2023-08-30T00:00:00+00:00
-
- ## DeinProgramm
- - [https://www.deinprogramm.de](https://www.deinprogramm.de)
- - date_published: 2024-07-05T13:52:14+00:00
 

@@ -1,3 +1,11 @@
+ ## HitPaw Online: I primi strumenti di editing basati sull'AI
+ - [https://online.hitpaw.it](https://online.hitpaw.it)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## [OFFICIALE] HitPaw: Fornitore di potenti soluzioni video, audio e immagini
+ - [https://www.hitpaw.it](https://www.hitpaw.it)
+ - date_published: 2025-01-31T13:52:54.891271+00:00
+
  ## Home - HIWIN ITALIA
  - [https://www.hiwin.it](https://www.hiwin.it)
  - date_published: 2024-09-05T21:56:49+00:00
@@ -4004,12 +4012,4 @@
  ## Poi | Power of Ideas | Web agency roma prati
  - [http://powerofideas.it](http://powerofideas.it)
  - date_published: 2024-06-23T21:15:56.838034+00:00
-
- ## Home page - Il portale delle Prefetture
- - [https://www.prefettura.it](https://www.prefettura.it)
- - date_published: 2024-09-16T10:34:30.746173+00:00
-
- ## Premiata® | Official Site | FW24 Collection
- - [https://premiata.it](https://premiata.it)
- - date_published: 2024-10-29T23:17:26.470979+00:00
 

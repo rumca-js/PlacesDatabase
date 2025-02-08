@@ -1,3 +1,7 @@
+ ## Jeremy Jeziorski
+ - [https://jeremy-jeziorski.squarespace.com](https://jeremy-jeziorski.squarespace.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
  ## Studio Wildcard
  - [http://jesse-rapczak-06f6.squarespace.com](http://jesse-rapczak-06f6.squarespace.com)
  - date_published: 2024-09-09T22:34:12.012135+00:00
@@ -3999,8 +4003,4 @@
  ## Theodore Gray
  - [http://theodore-gray.squarespace.com](http://theodore-gray.squarespace.com)
  - date_published: 2024-06-28T16:11:56.951361+00:00
-
- ## Theo Soares
- - [https://theo-soares.squarespace.com](https://theo-soares.squarespace.com)
- - date_published: 2025-01-16T13:25:43.979774+00:00
 

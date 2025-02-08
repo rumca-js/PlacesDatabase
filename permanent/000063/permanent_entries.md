@@ -1,3 +1,7 @@
+ ## Beautiful Chaos, by BrokenRail
+ - [https://brokenrail.bandcamp.com](https://brokenrail.bandcamp.com)
+ - date_published: 2024-12-27T00:28:20.481301+00:00
+
  ## Memories of Tomorrow, by Broken Videos
  - [https://brokenvideos.bandcamp.com](https://brokenvideos.bandcamp.com)
  - date_published: 2024-04-12T00:00:00+00:00
@@ -3993,8 +3997,4 @@
  ## Shima, by Floating Room
  - [https://floatingroom.bandcamp.com](https://floatingroom.bandcamp.com)
  - date_published: 2025-01-20T21:42:59.519648+00:00
-
- ## Head of Roses: Phantom Limb, by Flock of Dimes
- - [https://flockofdimes.bandcamp.com](https://flockofdimes.bandcamp.com)
- - date_published: 2024-12-27T09:17:32.557299+00:00
 

@@ -1,3 +1,11 @@
+ ## Frederik Warburg
+ - [https://frederikwarburg.github.io](https://frederikwarburg.github.io)
+ - date_published: 2024-05-26T18:17:27+00:00
+
+ ## About me
+ - [https://fredrikaverpil.github.io](https://fredrikaverpil.github.io)
+ - date_published: 2024-06-01T14:46:23+00:00
+
  ## FreeCAD Development Blog
  - [https://freecad.github.io](https://freecad.github.io)
  - date_published: 2018-11-10T21:11:00+00:00
@@ -4030,13 +4038,4 @@ Improved Near-Camera Training
  ## Ltworf
  - [https://ltworf.github.io](https://ltworf.github.io)
  - date_published: 2023-10-02T20:41:28+00:00
-
- ## Luakit: A fast, extensible, and customizable web browser
- - [https://luakit.github.io](https://luakit.github.io)
- - date_published: 2024-07-03T17:58:14+00:00
- - tags: ['web browser']
-
- ## Fujun Luan
- - [https://luanfujun.github.io](https://luanfujun.github.io)
- - date_published: 2024-08-27T16:54:53+00:00
 

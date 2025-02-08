@@ -1,3 +1,11 @@
+ ## Graduate Student Government - Graduate Student Government
+ - [http://gsg.mines.edu](http://gsg.mines.edu)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Home - Humanities, Arts and Social Sciences
+ - [http://hass.mines.edu](http://hass.mines.edu)
+ - date_published: 2024-10-03T00:00:00+00:00
+
  ## Human Subjects Research - Human Subjects Research
  - [https://hsr.mines.edu](https://hsr.mines.edu)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -4070,12 +4078,4 @@
  ## University Housing
  - [https://housing.ncsu.edu](https://housing.ncsu.edu)
  - date_published: 2025-02-02T06:37:12.868073+00:00
-
- ## NC State University Human Resources
- - [https://hr.ncsu.edu](https://hr.ncsu.edu)
- - date_published: 2025-02-02T06:04:33.424440+00:00
-
- ## Hyde County Center | N.C. Cooperative Extension
- - [https://hyde.ces.ncsu.edu](https://hyde.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:16.888062+00:00
 

@@ -1,3 +1,11 @@
+ ## Auchan Online
+ - [https://auchan.hu](https://auchan.hu)
+ - date_published: 2024-06-15T03:33:53.605185+00:00
+
+ ## Auchan Online
+ - [https://bizalomkartya.auchan.hu](https://bizalomkartya.auchan.hu)
+ - date_published: 2024-09-16T02:50:09.171766+00:00
+
  ## Auchan Karrier Portal
  - [https://karrier.auchan.hu](https://karrier.auchan.hu)
  - date_published: 2024-09-16T02:49:55.611041+00:00
@@ -4003,12 +4011,4 @@
  ## Fakultas Matematika dan Ilmu Pengetahuan Alam
  - [https://fmipa.unri.ac.id](https://fmipa.unri.ac.id)
  - date_published: 2024-10-11T12:08:39.992231+00:00
-
- ## Universitas Riau
- - [http://www.unri.ac.id](http://www.unri.ac.id)
- - date_published: 2024-12-24T09:36:19.831461+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://actadiurna.fisip.unsoed.ac.id](http://actadiurna.fisip.unsoed.ac.id)
- - date_published: 2023-01-20T02:42:21+00:00
 

@@ -1,3 +1,11 @@
+ ## JokeAPI
+ - [https://jokeapi.dev](https://jokeapi.dev)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## JokeAPI
+ - [https://v2.jokeapi.dev](https://v2.jokeapi.dev)
+ - date_published: 2024-04-16T00:00:00+00:00
+
  ## JollyUI
  - [https://www.jollyui.dev](https://www.jollyui.dev)
  - date_published: 2024-06-23T03:51:59.844727+00:00
@@ -4097,12 +4105,4 @@
  - [https://logs.radekmie.dev](https://logs.radekmie.dev)
  - date_published: 2021-04-29T00:00:00+00:00
  - date_dead_since: 2025-01-03T21:46:04.692051+00:00
-
- ## @radekmie’s take on IT and stuff
- - [https://radekmie.dev](https://radekmie.dev)
- - date_published: 2024-05-04T15:25:55.657035+00:00
-
- ## Radiki Dev
- - [https://radiki.dev](https://radiki.dev)
- - date_published: 2024-03-21T00:00:00+00:00
 

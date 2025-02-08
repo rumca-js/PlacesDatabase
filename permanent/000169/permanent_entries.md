@@ -1,3 +1,7 @@
+ ## Jacob T. Levy
+ - [http://jacobtlevy.com](http://jacobtlevy.com)
+ - date_published: 2024-07-13T23:29:57.984729+00:00
+
  ## Jacob Trefethen's blog
  - [https://blog.jacobtrefethen.com](https://blog.jacobtrefethen.com)
  - date_published: 2024-08-19T08:33:23.011763+00:00
@@ -4080,8 +4084,4 @@
  ## 关于京东
  - [https://about.jd.com](https://about.jd.com)
  - date_published: 2024-06-22T12:09:22.094263+00:00
-
- ## 手机京东 - 京东
- - [https://app.jd.com](https://app.jd.com)
- - date_published: 2024-05-15T09:16:46+00:00
 

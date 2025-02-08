@@ -1,3 +1,11 @@
+ ## Culture on Call
+ - [https://hantsculture.ghost.io](https://hantsculture.ghost.io)
+ - date_published: 2024-06-18T07:07:54.726120+00:00
+
+ ## Hathora
+ - [https://hathora.ghost.io](https://hathora.ghost.io)
+ - date_published: 2024-05-11T07:21:06.229798+00:00
+
  ## Hell Gate
  - [https://hell-gate-1.ghost.io](https://hell-gate-1.ghost.io)
  - date_published: 2024-08-19T09:30:44.743895+00:00
@@ -4020,12 +4028,4 @@
  ## Asma Ghandeharioun
  - [https://asmadotgh.github.io](https://asmadotgh.github.io)
  - date_published: 2024-06-06T00:41:32+00:00
-
- ## Asmit Nayak
- - [https://asmitnayak.github.io](https://asmitnayak.github.io)
- - date_published: 2025-02-03T20:27:57.114351+00:00
-
- ## ajkprojects
- - [https://asnewman.github.io](https://asnewman.github.io)
- - date_published: 2023-10-25T19:44:17.841483+00:00
 

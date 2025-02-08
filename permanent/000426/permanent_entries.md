@@ -1,3 +1,11 @@
+ ## Home
+ - [https://www.laughlin.af.mil](https://www.laughlin.af.mil)
+ - date_published: 2024-07-20T21:13:30.232094+00:00
+
+ ## Air Force Learning Professionals
+ - [https://www.learningprofessionals.af.mil](https://www.learningprofessionals.af.mil)
+ - date_published: 2024-07-20T21:12:33.627892+00:00
+
  ## This is the official home page for LRAFB.
  - [https://www.littlerock.af.mil](https://www.littlerock.af.mil)
  - date_published: 2024-08-18T14:19:52.396651+00:00
@@ -4030,12 +4038,4 @@
  ## 403 - Prohibido: acceso denegado.
  - [https://suscripciones.eleconomista.com.mx](https://suscripciones.eleconomista.com.mx)
  - date_published: 2024-06-12T13:31:58.055405+00:00
-
- ## El Financiero
- - [https://www.elfinanciero.com.mx](https://www.elfinanciero.com.mx)
- - date_published: 2024-07-04T01:38:26+00:00
-
- ## El Universal | El periódico de México líder en noticias y clasificados
- - [https://www.eluniversal.com.mx](https://www.eluniversal.com.mx)
- - date_published: 2024-07-04T01:39:14+00:00
 

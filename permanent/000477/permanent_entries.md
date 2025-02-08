@@ -1,3 +1,15 @@
+ ## Who are we? | Just Net Coalition
+ - [https://justnetcoalition.org](https://justnetcoalition.org)
+ - date_published: 2024-08-02T17:59:22.220743+00:00
+
+ ## Just Security
+ - [https://justsecurity.org](https://justsecurity.org)
+ - date_published: 2024-06-15T02:25:57.579477+00:00
+
+ ## Justseeds
+ - [https://justseeds.org](https://justseeds.org)
+ - date_published: 2024-08-23T00:00:00+00:00
+
  ## The JustSpace Alliance
  - [https://justspacealliance.org](https://justspacealliance.org)
  - date_published: 2024-06-17T16:27:05.582735+00:00
@@ -4076,17 +4088,4 @@ Hosted by Panix.com.
  ## KUT/X Media Player
  - [https://play.kutx.org](https://play.kutx.org)
  - date_published: 2024-04-16T21:47:32+00:00
-
- ## Jazz and more! Distinctive music programming! Listen now - KUVO
- - [https://kuvo.org](https://kuvo.org)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Kidd Video Flipside
- - [http://kvflipside.org](http://kvflipside.org)
- - date_published: 2017-08-09T02:27:51+00:00
-
- ## KVNF - Homepage
- - [https://kvnf.org](https://kvnf.org)
- - date_published: 2024-03-15T00:00:00+00:00
- - date_dead_since: 2025-02-04T16:44:44.645165+00:00
 

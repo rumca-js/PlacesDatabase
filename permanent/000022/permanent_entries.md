@@ -1,3 +1,7 @@
+ ## Action Toy Review
+ - [http://actiontoyreview.blogspot.ca](http://actiontoyreview.blogspot.ca)
+ - date_published: 2024-08-29T09:15:54+00:00
+
  ## The Analogue Hobbies Painting Challenge Theme Bonus Rounds
  - [http://analogue-hobbies-theme-rounds.blogspot.ca](http://analogue-hobbies-theme-rounds.blogspot.ca)
  - date_published: 2025-02-01T19:15:35.677864+00:00
@@ -4012,8 +4016,4 @@
  ## Gilead Sciences
  - [https://www.gilead.ca](https://www.gilead.ca)
  - date_published: 2024-07-02T04:08:12.955063+00:00
-
- ## The Giller Prize – Canada's first word in fiction
- - [https://gillerprize.ca](https://gillerprize.ca)
- - date_published: 2024-11-30T13:48:25.576033+00:00
 

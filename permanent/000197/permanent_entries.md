@@ -1,3 +1,8 @@
+ ## NO BULLSHIT TEXTBOOKS
+ - [https://minireference.com](https://minireference.com)
+ - date_published: 2024-06-01T04:51:15.845032+00:00
+ - tags: ['book']
+
  ## MinisBarter.com - Miniature wargaming marketplace
  - [https://minisbarter.com](https://minisbarter.com)
  - date_published: 2023-10-25T11:11:29.320355+00:00
@@ -4035,8 +4040,4 @@ MLB Auctions
  ## Mobile Text Alerts
  - [https://app.mobile-text-alerts.com](https://app.mobile-text-alerts.com)
  - date_published: 2024-07-02T20:04:24+00:00
-
- ## SMS Marketing for Businesses [2024] | Mobile Text Alerts
- - [https://mobile-text-alerts.com](https://mobile-text-alerts.com)
- - date_published: 2024-06-26T23:47:16.529524+00:00
 

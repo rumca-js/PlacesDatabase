@@ -1,3 +1,7 @@
+ ## iSAMS Ltd Status
+ - [https://status.isams.com](https://status.isams.com)
+ - date_published: 2025-02-05T17:23:49.158798+00:00
+
  ## Welcome to Isansys
  - [https://www.isansys.com](https://www.isansys.com)
  - date_published: 2024-12-25T18:39:37.930723+00:00
@@ -4038,8 +4042,4 @@
  ## Jacob Stoner
  - [https://blog.jacobstoner.com](https://blog.jacobstoner.com)
  - date_published: 2023-10-25T15:25:43.930450+00:00
-
- ## Jacob T. Levy
- - [http://jacobtlevy.com](http://jacobtlevy.com)
- - date_published: 2024-07-13T23:29:57.984729+00:00
 

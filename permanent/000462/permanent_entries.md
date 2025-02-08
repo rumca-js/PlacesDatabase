@@ -1,3 +1,15 @@
+ ## Common Good: Restoring Common Sense to America
+ - [http://cgood.org](http://cgood.org)
+ - date_published: 2024-06-27T08:28:55.971809+00:00
+
+ ## HOME | Coll Perske Memorial Fund for Marine Mammals
+ - [https://cgpfund.org](https://cgpfund.org)
+ - date_published: 2024-05-09T05:50:34.751613+00:00
+
+ ## CGPress - Get the latest CG news
+ - [http://cgpress.org](http://cgpress.org)
+ - date_published: 2024-06-22T00:00:00+00:00
+
  ## CGRAN
  - [http://cgran.org](http://cgran.org)
  - date_published: 2024-07-13T00:00:00+00:00
@@ -4034,16 +4046,4 @@ feel and do
  ## Home - Digital Preservation Services - CLOCKSS
  - [https://clockss.org](https://clockss.org)
  - date_published: 2024-04-18T00:00:00+00:00
-
- ## The Clockwork Pastor
- - [http://clockworkpastor.org](http://clockworkpastor.org)
- - date_published: 2024-09-03T22:54:28+00:00
-
- ## Cloe programming language
- - [https://cloe-lang.org](https://cloe-lang.org)
- - date_published: 2025-01-21T19:19:10.686284+00:00
-
- ## Home - CLOH.org
- - [https://cloh.org](https://cloh.org)
- - date_published: 2019-02-12T13:04:09+00:00
 

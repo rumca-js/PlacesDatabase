@@ -1,3 +1,7 @@
+ ## Ben's Bitter Blog
+ - [http://bensbitterblog.com](http://bensbitterblog.com)
+ - date_published: 2024-12-10T22:59:52+00:00
+
  ## Ben Schecter
  - [https://benschecter.com](https://benschecter.com)
  - date_published: 2023-11-29T20:43:41.477651+00:00
@@ -4056,8 +4060,4 @@
  ## Meet Our Farmers
  - [https://farmers.beyondgood.com](https://farmers.beyondgood.com)
  - date_published: 2025-01-30T19:40:50.528830+00:00
-
- ## We help humanity explore the world and beyond. | Beyond Gravity
- - [https://beyondgravity.com](https://beyondgravity.com)
- - date_published: 2024-04-29T05:31:32.825744+00:00
 

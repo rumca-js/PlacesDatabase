@@ -1,3 +1,11 @@
+ ## The Conscious Leadership Group
+ - [https://conscious.is](https://conscious.is)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Netverslun með einstakar gjafir og flottustu græjurnar | Cool Mania E-Shop
+ - [https://www.cool-mania.is](https://www.cool-mania.is)
+ - date_published: 2025-01-08T23:33:43.615790+00:00
+
  ## Coolshop | Að versla á netinu verður auðvelt, skemmtilegt og kúl
  - [https://www.coolshop.is](https://www.coolshop.is)
  - date_published: 2024-09-16T03:02:18.375165+00:00
@@ -4018,12 +4026,4 @@
  ## Amazon Selling Partner API (SP-API)
  - [https://developer.amazonservices.it](https://developer.amazonservices.it)
  - date_published: 2024-08-02T00:00:00+00:00
-
- ## Home
- - [https://ametekinstruments.it](https://ametekinstruments.it)
- - date_published: 2024-06-15T10:44:14.378194+00:00
-
- ## AMETEK Italy
- - [https://store.ametekinstruments.it](https://store.ametekinstruments.it)
- - date_published: 2024-09-17T00:00:00+00:00
 

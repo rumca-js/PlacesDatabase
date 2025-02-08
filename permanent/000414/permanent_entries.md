@@ -1,3 +1,11 @@
+ ## 株式会社DMM RESORTS｜DMM RESORTS CO., LTD.
+ - [https://dmm-resorts.co.jp](https://dmm-resorts.co.jp)
+ - date_published: 2023-12-27T03:46:41+00:00
+
+ ## Dole（ドールジャパン）
+ - [https://www.dole.co.jp](https://www.dole.co.jp)
+ - date_published: 2024-10-31T09:38:21.841471+00:00
+
  ## パソコン（PC）通販のドスパラ【公式】
  - [https://www.dospara.co.jp](https://www.dospara.co.jp)
  - date_published: 2024-07-08T09:50:49.785399+00:00
@@ -4003,12 +4011,4 @@
  ## 作品ラインナップ - 東映アニメーション
  - [https://lineup.toei-anim.co.jp](https://lineup.toei-anim.co.jp)
  - date_published: 2024-06-16T06:29:50.299078+00:00
-
- ## 東映アニメーションミュージアム
- - [https://museum.toei-anim.co.jp](https://museum.toei-anim.co.jp)
- - date_published: 2024-06-16T06:29:38.765898+00:00
-
- ## サービス終了のお知らせ | 東映アニメーションオンラインショップ
- - [http://shop.toei-anim.co.jp](http://shop.toei-anim.co.jp)
- - date_published: 2023-03-30T01:50:54+00:00
 

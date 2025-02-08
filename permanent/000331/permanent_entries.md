@@ -1,3 +1,11 @@
+ ## CodeSnap - An image editor for developers, who want to share beautiful images of their code | CodeSnap
+ - [https://codesnap.dev](https://codesnap.dev)
+ - date_published: 2024-07-14T07:53:31.268566+00:00
+
+ ## Bookmarks, notes and snippets manager for developers & co
+ - [https://www.codever.dev](https://www.codever.dev)
+ - date_published: 2024-08-30T12:39:32+00:00
+
  ## CodingCat.dev
  - [https://codingcat.dev](https://codingcat.dev)
  - date_published: 2024-02-19T00:00:00+00:00
@@ -4066,12 +4074,4 @@
  ## John O'Reilly
  - [https://johnoreilly.dev](https://johnoreilly.dev)
  - date_published: 2024-01-11T05:09:58.589540+00:00
-
- ## JokeAPI
- - [https://jokeapi.dev](https://jokeapi.dev)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## JokeAPI
- - [https://v2.jokeapi.dev](https://v2.jokeapi.dev)
- - date_published: 2024-04-16T00:00:00+00:00
 

@@ -1,3 +1,11 @@
+ ## Victor Kyllesbech
+ - [https://kyll.dk](https://kyll.dk)
+ - date_published: 2024-04-25T15:38:10+00:00
+
+ ## Lægemiddelstyrelsen
+ - [https://laegemiddelstyrelsen.dk](https://laegemiddelstyrelsen.dk)
+ - date_published: 2024-09-19T20:34:56.192957+00:00
+
  ## Conditori La Glace
  - [https://laglace.dk](https://laglace.dk)
  - date_published: 2024-07-02T00:00:00+00:00
@@ -4079,12 +4087,4 @@ I box, ...
  ## Fordham University
  - [https://fordham.academia.edu](https://fordham.academia.edu)
  - date_published: 2024-12-31T08:04:33.964354+00:00
-
- ## Franciscan University of Steubenville
- - [https://franciscan.academia.edu](https://franciscan.academia.edu)
- - date_published: 2024-09-04T18:50:09.700137+00:00
-
- ## Georgetown University
- - [https://georgetown.academia.edu](https://georgetown.academia.edu)
- - date_published: 2024-04-30T02:55:34.566547+00:00
 

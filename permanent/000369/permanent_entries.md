@@ -1,3 +1,11 @@
+ ## Faust Editor
+ - [https://fausteditor.grame.fr](https://fausteditor.grame.fr)
+ - date_published: 2018-01-27T00:00:00+00:00
+
+ ## Faust Programming Language
+ - [https://faust.grame.fr](https://faust.grame.fr)
+ - date_published: 2024-04-28T03:25:45.068802+00:00
+
  ## Faust IDE
  - [https://faustide.grame.fr](https://faustide.grame.fr)
  - date_published: 2018-01-27T00:00:00+00:00
@@ -4077,13 +4085,4 @@
  ## Cours anglais avec LeParisien.fr et Gymglish : cours d'anglais personnalisés
  - [https://cours-anglais.leparisien.fr](https://cours-anglais.leparisien.fr)
  - date_published: 2024-06-28T13:12:17.772668+00:00
-
- ## Dictionnaires - définition, synonyme et encyclopédie
- - [https://dictionnaire.sensagent.leparisien.fr](https://dictionnaire.sensagent.leparisien.fr)
- - date_published: 2024-10-25T07:21:44.214704+00:00
- - date_dead_since: 2025-01-31T16:55:35.362458+00:00
-
- ## Emploi, offres d'emploi et actualité sur leParisien.fr
- - [http://emploi.leparisien.fr](http://emploi.leparisien.fr)
- - date_published: 2025-01-31T16:54:52.959662+00:00
 

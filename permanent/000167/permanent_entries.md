@@ -1,3 +1,7 @@
+ ## Investir&+
+ - [https://fr.investiretplus.com](https://fr.investiretplus.com)
+ - date_published: 2024-07-03T05:05:31.776521+00:00
+
  ## Investor Relations
  - [https://att-ir-v2.prod-use1.investis.com](https://att-ir-v2.prod-use1.investis.com)
  - date_published: 2024-07-15T03:27:21.219599+00:00
@@ -4074,8 +4078,4 @@
  ## School Management Information System - iSAMS
  - [https://isams.com](https://isams.com)
  - date_published: 2024-10-27T13:06:42+00:00
-
- ## iSAMS Ltd Status
- - [https://status.isams.com](https://status.isams.com)
- - date_published: 2025-02-05T17:23:49.158798+00:00
 

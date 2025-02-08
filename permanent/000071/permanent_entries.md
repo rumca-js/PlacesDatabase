@@ -1,3 +1,7 @@
+ ## We help humanity explore the world and beyond. | Beyond Gravity
+ - [https://beyondgravity.com](https://beyondgravity.com)
+ - date_published: 2024-04-29T05:31:32.825744+00:00
+
  ## Thomas S. Ray
  - [https://shop.beyondgravity.com](https://shop.beyondgravity.com)
  - date_published: 2024-07-26T19:05:29.454041+00:00
@@ -4034,8 +4038,4 @@
  ## ** CUTE LITTLE HOUSE ON CLARK AVE, BILLINGS **
  - [https://cute-little-house-on-clark-ave.billingsbesthotels.com](https://cute-little-house-on-clark-ave.billingsbesthotels.com)
  - date_published: 2025-01-25T10:08:31.072537+00:00
-
- ## DAYS INN BY WYNDHAM BILLINGS 2⋆ ::: MT, UNITED STATES ::: COMPARE HOTEL RATES
- - [https://days-inn-59101.billingsbesthotels.com](https://days-inn-59101.billingsbesthotels.com)
- - date_published: 2025-01-25T10:06:10.266171+00:00
 

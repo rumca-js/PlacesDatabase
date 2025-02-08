@@ -1,3 +1,11 @@
+ ## RedKetchup - Online Tools
+ - [https://redketchup.io](https://redketchup.io)
+ - date_published: 2024-12-06T11:35:06+00:00
+
+ ## Predian Inventory
+ - [https://app.redlineinventory.io](https://app.redlineinventory.io)
+ - date_published: 2024-06-17T18:28:39+00:00
+
  ## Cloud Native Security - Palo Alto Networks Blog
  - [https://blog.redlock.io](https://blog.redlock.io)
  - date_published: 2024-06-17T16:10:47.948647+00:00
@@ -4021,12 +4029,4 @@
  ## Fladi.at
  - [https://sorbay.io](https://sorbay.io)
  - date_published: 2024-01-09T03:33:24.345591+00:00
-
- ## Ruby on Rails Recruitment | Ruby Developer Jobs | Sorcer
- - [https://sorcer.io](https://sorcer.io)
- - date_published: 2024-07-23T21:35:17.271326+00:00
-
- ## Sorint.OSS
- - [https://sorintoss.io](https://sorintoss.io)
- - date_published: 2025-01-11T16:43:24.828284+00:00
 

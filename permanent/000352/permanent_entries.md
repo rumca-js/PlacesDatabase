@@ -1,3 +1,11 @@
+ ## College of Liberal Arts | University of New Hampshire
+ - [https://cola.unh.edu](https://cola.unh.edu)
+ - date_published: 2024-12-25T20:47:55.180893+00:00
+
+ ## Course Search
+ - [https://courses.unh.edu](https://courses.unh.edu)
+ - date_published: 2024-09-15T12:01:47+00:00
+
  ## College of Professional Studies | University of New Hampshire
  - [https://cps.unh.edu](https://cps.unh.edu)
  - date_published: 2025-02-01T01:50:06.516661+00:00
@@ -4084,12 +4092,4 @@
  - [https://upstate.edu](https://upstate.edu)
  - date_published: 2024-06-23T07:30:26.875347+00:00
  - date_dead_since: 2025-02-01T07:09:28.522655+00:00
-
- ## Homepage - URIFAE
- - [https://alumni.uri.edu](https://alumni.uri.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## URI Directory Service
- - [https://directory.uri.edu](https://directory.uri.edu)
- - date_published: 2024-07-02T10:47:34.136875+00:00
 

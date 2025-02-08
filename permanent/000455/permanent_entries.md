@@ -1,3 +1,15 @@
+ ## ACL2023
+ - [https://virtual2023.aclweb.org](https://virtual2023.aclweb.org)
+ - date_published: 2023-07-28T17:27:32+00:00
+
+ ## ACM Account
+ - [https://accounts.acm.org](https://accounts.acm.org)
+ - date_published: 2024-06-22T11:45:48.714858+00:00
+
+ ## Association for Computing Machinery
+ - [https://acm.org](https://acm.org)
+ - date_published: 2024-06-23T06:45:45+00:00
+
  ## A.M. Turing Award
  - [https://amturing.acm.org](https://amturing.acm.org)
  - date_published: 2023-10-25T20:53:46.979207+00:00
@@ -4015,16 +4027,4 @@
  ## Alaska's 33rd legislature | Alaska House Coalition
  - [https://akhouse.org](https://akhouse.org)
  - date_published: 2023-02-01T23:56:16+00:00
-
- ## Akku.scm - Scheme package manager
- - [https://akkuscm.org](https://akkuscm.org)
- - date_published: 2024-11-13T18:30:38+00:00
-
- ## Sign in - Matomo
- - [https://stats.akoyah.org](https://stats.akoyah.org)
- - date_published: 2025-01-31T07:15:36.249125+00:00
-
- ## Royce's Alaska License Plates - All Alaskan Plates, All The Time
- - [http://www.akplates.org](http://www.akplates.org)
- - date_published: 2025-01-23T19:55:01.064327+00:00
 

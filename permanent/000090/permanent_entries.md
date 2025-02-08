@@ -1,3 +1,7 @@
+ ## V1nce WebPlace
+ - [http://v1nce18.blogspot.com](http://v1nce18.blogspot.com)
+ - date_published: 2024-08-30T19:34:26+00:00
+
  ## V8 JavaScript engine
  - [https://v8project.blogspot.com](https://v8project.blogspot.com)
  - date_published: 2024-06-04T00:00:00+00:00
@@ -4002,8 +4006,4 @@
  ## ex-Ivan Nunes
  - [http://www.ex-ivan-nunes.blogspot.com](http://www.ex-ivan-nunes.blogspot.com)
  - date_published: 2024-09-16T04:39:54+00:00
-
- ## Fair Deal Phil
- - [http://www.fairdealphil.blogspot.com](http://www.fairdealphil.blogspot.com)
- - date_published: 2024-10-21T12:01:04.321226+00:00
 

@@ -1,3 +1,12 @@
+ ## Luakit: A fast, extensible, and customizable web browser
+ - [https://luakit.github.io](https://luakit.github.io)
+ - date_published: 2024-07-03T17:58:14+00:00
+ - tags: ['web browser']
+
+ ## Fujun Luan
+ - [https://luanfujun.github.io](https://luanfujun.github.io)
+ - date_published: 2024-08-27T16:54:53+00:00
+
  ## Luca Bruno blog
  - [https://lucabrunox.github.io](https://lucabrunox.github.io)
  - date_published: 2024-08-29T20:58:05+00:00
@@ -4031,12 +4040,4 @@
  ## Reagent: Minimalistic React for ClojureScript
  - [https://reagent-project.github.io](https://reagent-project.github.io)
  - date_published: 2023-03-11T21:33:16+00:00
-
- ## Real2Code: Reconstruct Articulated Objects with Code Generation
- - [https://real2code.github.io](https://real2code.github.io)
- - date_published: 2024-06-13T17:38:44+00:00
-
- ## RealFill
- - [https://realfill.github.io](https://realfill.github.io)
- - date_published: 2023-10-25T19:51:39.362206+00:00
 

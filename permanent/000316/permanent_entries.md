@@ -1,3 +1,11 @@
+ ## i60.cz
+ - [https://blogy.i60.cz](https://blogy.i60.cz)
+ - date_published: 2024-09-05T17:44:25.337656+00:00
+
+ ## E-shop I60.cz
+ - [https://eshop.i60.cz](https://eshop.i60.cz)
+ - date_published: 2024-09-05T17:44:20.736315+00:00
+
  ## i60.cz: Portál pro aktivní seniory
  - [https://i60.cz](https://i60.cz)
  - date_published: 2024-06-10T11:46:42.417897+00:00
@@ -4012,12 +4020,4 @@
  ## Kvalitní české dveře SAPELI
  - [https://www.sapeli.cz](https://www.sapeli.cz)
  - date_published: 2024-12-14T11:16:03.077778+00:00
-
- ## Sareza, Ostrava, Odpočinek, Plavání, Relax, Tobogány, Sport, Ubytování, Wellness.
- - [https://www.sareza.cz](https://www.sareza.cz)
- - date_published: 2024-12-14T05:50:01.087619+00:00
-
- ## Plechové střechy | Plechové krytiny | SATJAM
- - [https://www.satjam.cz](https://www.satjam.cz)
- - date_published: 2024-12-14T06:06:39.951707+00:00
 

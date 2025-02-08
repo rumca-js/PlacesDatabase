@@ -1,3 +1,16 @@
+ ## Jazz and more! Distinctive music programming! Listen now - KUVO
+ - [https://kuvo.org](https://kuvo.org)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Kidd Video Flipside
+ - [http://kvflipside.org](http://kvflipside.org)
+ - date_published: 2017-08-09T02:27:51+00:00
+
+ ## KVNF - Homepage
+ - [https://kvnf.org](https://kvnf.org)
+ - date_published: 2024-03-15T00:00:00+00:00
+ - date_dead_since: 2025-02-04T16:44:44.645165+00:00
+
  ## Empowering Minds, Transforming Futures
  - [https://kvsulur.org](https://kvsulur.org)
  - date_published: 2024-12-13T03:31:38.593665+00:00
@@ -4112,16 +4125,4 @@ Intro
  ## The Official Lifehack Shop
  - [https://shop.lifehack.org](https://shop.lifehack.org)
  - date_published: 2024-07-04T12:35:37.068692+00:00
-
- ## 사람과디지털연구소
- - [https://lifeindigital.org](https://lifeindigital.org)
- - date_published: 2024-07-09T23:19:39+00:00
-
- ## Life Is Feudal Server List | Life Is Feudal Multiplayer Servers
- - [https://life-is-feudal.org](https://life-is-feudal.org)
- - date_published: 2025-01-02T18:44:35.119051+00:00
-
- ## Second Renaissance
- - [https://ecosystem.lifeitself.org](https://ecosystem.lifeitself.org)
- - date_published: 2024-06-12T12:41:09.514980+00:00
 

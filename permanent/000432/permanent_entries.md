@@ -1,3 +1,11 @@
+ ## Hosting Platform of Choice
+ - [https://cpanel.net](https://cpanel.net)
+ - date_published: 2024-06-29T14:18:22+00:00
+
+ ## cPanel & WHM Documentation | cPanel & WHM Documentation
+ - [https://docs.cpanel.net](https://docs.cpanel.net)
+ - date_published: 2024-05-29T04:48:12.203695+00:00
+
  ## cPanel & WHM Developer Portal
  - [https://documentation.cpanel.net](https://documentation.cpanel.net)
  - date_published: 2024-08-26T13:18:02+00:00
@@ -4040,12 +4048,4 @@
  ## Dublin News.Net | All the news from Dublin, Ireland
  - [http://www.dublinnews.net](http://www.dublinnews.net)
  - date_published: 2024-07-13T23:01:56.729159+00:00
-
- ## DuBlog
- - [https://dublog.net](https://dublog.net)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Duboce.net
- - [https://duboce.net](https://duboce.net)
- - date_published: 2009-09-13T22:48:02+00:00
 

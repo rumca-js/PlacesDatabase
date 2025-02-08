@@ -1,3 +1,7 @@
+ ## Blenheim to Berlin
+ - [http://blenheimtoberlin.blogspot.com](http://blenheimtoberlin.blogspot.com)
+ - date_published: 2024-11-01T10:35:21+00:00
+
  ## Blessings of the Dice Gods
  - [http://blessingsofthedicegods.blogspot.com](http://blessingsofthedicegods.blogspot.com)
  - date_published: 2024-07-11T18:30:30+00:00
@@ -4000,8 +4004,4 @@
  ## Ciranda Cultural da Pedra de Guaratiba
  - [http://cirandaculturaldapedradeguaratiba.blogspot.com](http://cirandaculturaldapedradeguaratiba.blogspot.com)
  - date_published: 2024-09-05T21:51:02+00:00
-
- ## Spunk On A Stick's Tips
- - [http://circleoffriendsbooks.blogspot.com](http://circleoffriendsbooks.blogspot.com)
- - date_published: 2024-10-17T23:03:25.277727+00:00
 

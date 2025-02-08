@@ -1,3 +1,11 @@
+ ## ＣＵオンラインショップ
+ - [https://shop-chiba-u.raku-uru.jp](https://shop-chiba-u.raku-uru.jp)
+ - date_published: 2024-05-11T07:26:39.585335+00:00
+
+ ## 立命館大学ゲーム研究センター : Ritsumeikan Center for Game Studies (RCGS)
+ - [http://www.rcgs.jp](http://www.rcgs.jp)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Ryusendo info. | Ｒｏｏｔがお伝えするレトロゲームなどのページです
  - [http://ryusendo.rdy.jp](http://ryusendo.rdy.jp)
  - date_published: 2024-06-21T15:30:34.616728+00:00
@@ -3992,12 +4000,4 @@
  ## くすりの適正使用協議会
  - [http://www.rad-ar.or.jp](http://www.rad-ar.or.jp)
  - date_published: 2022-05-03T13:17:26+00:00
-
- ## 日本のなかでの難民支援 | 認定NPO法人 難民支援協会
- - [https://www.refugee.or.jp](https://www.refugee.or.jp)
- - date_published: 2024-09-10T20:25:23+00:00
-
- ## シビック・クリエイティブ・ベース東京 [CCBT]
- - [https://ccbt.rekibun.or.jp](https://ccbt.rekibun.or.jp)
- - date_published: 2024-04-26T00:00:00+00:00
 

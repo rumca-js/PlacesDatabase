@@ -1,3 +1,15 @@
+ ## Engaging Networks: Nonprofit Digital Engagement Platform
+ - [https://donate.earthisland.org](https://donate.earthisland.org)
+ - date_published: 2025-01-31T07:37:11.136799+00:00
+
+ ## Earth Island Institute
+ - [https://earthisland.org](https://earthisland.org)
+ - date_published: 2024-07-04T05:01:48+00:00
+
+ ## Online Actions
+ - [https://act.earthjustice.org](https://act.earthjustice.org)
+ - date_published: 2024-08-19T15:13:49.462908+00:00
+
  ## Earthjustice: Because the earth needs a good lawyer
  - [https://earthjustice.org](https://earthjustice.org)
  - date_published: 2023-10-25T09:27:32.950598+00:00
@@ -4089,16 +4101,4 @@ Home Page
  ## Heart Transplant Nonprofit | Enduring Hearts
  - [https://enduringhearts.org](https://enduringhearts.org)
  - date_published: 2024-04-25T00:00:00+00:00
-
- ## Energetic Health Institute - Do It Yourself!
- - [https://my.energetichealthinstitute.org](https://my.energetichealthinstitute.org)
- - date_published: 2021-07-19T18:00:34+00:00
-
- ## Front Page | energistics.org
- - [https://energistics.org](https://energistics.org)
- - date_published: 2024-06-28T08:46:53.926197+00:00
-
- ## Energy4me - What is Energy? | Energy4me
- - [https://energy4me.org](https://energy4me.org)
- - date_published: 2025-01-20T10:14:36.183290+00:00
 

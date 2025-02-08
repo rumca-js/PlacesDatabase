@@ -1,3 +1,15 @@
+ ## indywidualni.pl
+ - [https://indywidualni.pl](https://indywidualni.pl)
+ - date_published: 2024-05-26T14:11:09.303841+00:00
+
+ ## Strona główna - Infarma Związek Pracodawców Innowacyjnych Firm Farmaceutycznych
+ - [https://www.infarma.pl](https://www.infarma.pl)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Infinity Group - Technology solutions for your business
+ - [http://www.infinity-group.pl](http://www.infinity-group.pl)
+ - date_published: 2024-09-16T02:16:33.191683+00:00
+
  ## Agencja InfluEnter | Influencer marketing‎ | Content marketing
  - [https://influenter.pl](https://influenter.pl)
  - date_published: 2024-10-22T21:12:04.552804+00:00
@@ -4064,16 +4076,4 @@
  ## Strona zapisu na newsletter murator.pl
  - [https://newsletter.murator.pl](https://newsletter.murator.pl)
  - date_published: 2024-07-09T17:52:48.780504+00:00
-
- ## Murator Poradniki
- - [https://poradniki.murator.pl](https://poradniki.murator.pl)
- - date_published: 2024-07-09T17:52:52.274036+00:00
-
- ## Murator: prenumerata online lub druk+online
- - [https://prenumerata.murator.pl](https://prenumerata.murator.pl)
- - date_published: 2024-07-09T17:52:51.151024+00:00
-
- ## Projekty domów i projekt domu na zamówienie - Murator projekty
- - [http://projekty.murator.pl](http://projekty.murator.pl)
- - date_published: 2024-07-09T17:51:32.084336+00:00
 

@@ -1,4 +1,8 @@
  ## Rock&Pop
+ - [https://rockandpop.cl](https://rockandpop.cl)
+ - date_published: 2024-06-12T13:06:28.549964+00:00
+
+ ## Rock&Pop
  - [https://seguro.rockandpop.cl](https://seguro.rockandpop.cl)
  - date_published: 2024-09-13T11:02:24.261223+00:00
 
@@ -4004,8 +4008,4 @@
  ## The homebrewserver.club principles
  - [https://homebrewserver.club](https://homebrewserver.club)
  - date_published: 2019-06-17T00:00:00+00:00
-
- ## HorrorHub Social
- - [https://horrorhub.club](https://horrorhub.club)
- - date_published: 2025-01-22T10:05:57.253957+00:00
 

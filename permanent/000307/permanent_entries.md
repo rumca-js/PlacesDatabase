@@ -1,3 +1,11 @@
+ ## Daily WordPress Podcast - WordPress News in Brief(s)
+ - [https://wpbriefs.com](https://wpbriefs.com)
+ - date_published: 2023-12-22T09:42:53+00:00
+
+ ## WordPress Plugin Developer - WP-Buddy
+ - [https://wp-buddy.com](https://wp-buddy.com)
+ - date_published: 2023-12-11T19:06:32.194241+00:00
+
  ## WP Builds WordPress Network - podcasts, news, lives, giveaways, deals and more
  - [https://wpbuilds.com](https://wpbuilds.com)
  - date_published: 2024-06-30T10:13:41.179891+00:00
@@ -4040,12 +4048,4 @@
  ## Rebecca M. Farrar, M.A.
  - [https://rebeccamfarrar.writerfolio.com](https://rebeccamfarrar.writerfolio.com)
  - date_published: 2024-09-16T23:19:07.230218+00:00
-
- ## Ryan Rodal's Writer Portfolio
- - [https://ryanrodal.writerfolio.com](https://ryanrodal.writerfolio.com)
- - date_published: 2024-09-16T23:18:29.170346+00:00
-
- ## Check Out My Writing!
- - [https://shelbyneely.writerfolio.com](https://shelbyneely.writerfolio.com)
- - date_published: 2024-09-16T23:23:07.032303+00:00
 

@@ -1,3 +1,7 @@
+ ## BRC  Explorer
+ - [https://testnet-explorer.brisescan.com](https://testnet-explorer.brisescan.com)
+ - date_published: 2025-01-12T11:07:59.454149+00:00
+
  ## Brisk Teaching - Free AI for Teachers
  - [https://app.briskteaching.com](https://app.briskteaching.com)
  - date_published: 2024-10-30T11:07:54+00:00
@@ -4028,8 +4032,4 @@
  ## Home - Bully Hill Vineyards
  - [https://www.bullyhillvineyards.com](https://www.bullyhillvineyards.com)
  - date_published: 2024-12-12T05:07:34.550949+00:00
-
- ## Bully Pulpit Games
- - [https://bullypulpitgames.com](https://bullypulpitgames.com)
- - date_published: 2024-07-14T10:46:11.059156+00:00
 

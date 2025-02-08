@@ -1,3 +1,7 @@
+ ## Theo Soares
+ - [https://theo-soares.squarespace.com](https://theo-soares.squarespace.com)
+ - date_published: 2025-01-16T13:25:43.979774+00:00
+
  ## Performing Arts Venue & Movie Theater: South Mpls – Parkway Theater
  - [https://theparkwaytheater.squarespace.com](https://theparkwaytheater.squarespace.com)
  - date_published: 2024-07-12T00:00:00+00:00
@@ -4014,8 +4018,4 @@ arched panel, straight panel, radius top, and bifold doors.
  ## Marketing Agency | Stamats
  - [https://www.stamats.com](https://www.stamats.com)
  - date_published: 2024-09-12T02:49:05+00:00
-
- ## Stamen Maps
- - [https://maps.stamen.com](https://maps.stamen.com)
- - date_published: 2023-09-14T02:49:23+00:00
 

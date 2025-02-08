@@ -1,3 +1,7 @@
+ ## Amazon Ad Server - DCO, tag management, campaign optimization
+ - [https://www.sizmek.com](https://www.sizmek.com)
+ - date_published: 2024-05-06T17:59:03.095838+00:00
+
  ## Home
  - [https://sizzlejs.com](https://sizzlejs.com)
  - date_published: 2024-05-10T03:59:59.732171+00:00
@@ -4027,8 +4031,4 @@
  ## A Fuse #8 Production - A School Library Journal Blog
  - [https://afuse8production.slj.com](https://afuse8production.slj.com)
  - date_published: 2024-06-21T03:33:50+00:00
-
- ## School Library Journal
- - [http://blogs.slj.com](http://blogs.slj.com)
- - date_published: 2024-06-21T12:41:06.224566+00:00
 

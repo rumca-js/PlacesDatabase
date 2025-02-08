@@ -1,4 +1,12 @@
  ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://cepsum.imgix.net](https://cepsum.imgix.net)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://cepsum-val.imgix.net](https://cepsum-val.imgix.net)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
  - [https://cibccm.imgix.net](https://cibccm.imgix.net)
  - date_published: 2024-10-01T00:00:00+00:00
 
@@ -4044,12 +4052,4 @@ OpenJDK Wiki
  - [https://blog.karliner.net](https://blog.karliner.net)
  - date_published: 2023-10-25T09:23:11.406124+00:00
  - tags: ['personal']
-
- ## KARMA DANCE
- - [https://www.karma-dance.net](https://www.karma-dance.net)
- - date_published: 2024-08-20T04:12:20.022018+00:00
-
- ## Karmic Consulting - บริการที่ปรึกษาธุรกิจ
- - [https://www.karmicconsulting.net](https://www.karmicconsulting.net)
- - date_published: 2025-02-05T17:28:05.991567+00:00
 

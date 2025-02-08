@@ -1,3 +1,15 @@
+ ## RT - Breaking News, Russia News, World News and Video
+ - [https://swentr.site](https://swentr.site)
+ - date_published: 2024-07-01T08:58:00.691921+00:00
+
+ ## Christianity Facts < TheoLogosSite: what Christians must know
+ - [https://theologos.site](https://theologos.site)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## There Is No Website
+ - [https://www.thereisnoweb.site](https://www.thereisnoweb.site)
+ - date_published: 2024-08-16T21:51:59+00:00
+
  ## The Useless Website
  - [https://theuselessweb.site](https://theuselessweb.site)
  - date_published: 2020-12-16T17:38:43+00:00
@@ -4024,16 +4036,4 @@ conflicts of interest and restore Community Trust.
  ## gruene.social
  - [https://gruene.social](https://gruene.social)
  - date_published: 2024-07-10T08:11:50.446032+00:00
-
- ## Mastodon
- - [https://gultsch.social](https://gultsch.social)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## hackaday.social
- - [https://hackaday.social](https://hackaday.social)
- - date_published: 2015-04-14T00:00:00+00:00
-
- ## Halcyon
- - [https://www.halcyon.social](https://www.halcyon.social)
- - date_published: 2024-07-18T05:35:11.713320+00:00
 

@@ -1,3 +1,7 @@
+ ## OST – Ostschweizer Fachhochschule: Wo Wissen wirkt
+ - [https://www.hsr.ch](https://www.hsr.ch)
+ - date_published: 2024-10-09T15:50:47.271946+00:00
+
  ## Startseite
  - [https://www.htr-milestone.ch](https://www.htr-milestone.ch)
  - date_published: 2024-07-04T04:07:43.752473+00:00
@@ -4012,8 +4016,4 @@
  ## Online Druckerei für Teamoutfits - Textildruck | TeamShirts
  - [https://www.teamshirts.ch](https://www.teamshirts.ch)
  - date_published: 2024-10-21T09:04:07.732314+00:00
-
- ## Team Trade Import & Export GmbH
- - [https://teamtrade.ch](https://teamtrade.ch)
- - date_published: 2024-10-21T09:23:43.454293+00:00
 

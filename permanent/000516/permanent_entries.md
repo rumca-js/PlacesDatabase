@@ -1,3 +1,15 @@
+ ## Outpost
+ - [https://vallejosun.outpost.pub](https://vallejosun.outpost.pub)
+ - date_published: 2024-05-06T21:29:41.580304+00:00
+
+ ## Outpost
+ - [https://zerodayghostio.outpost.pub](https://zerodayghostio.outpost.pub)
+ - date_published: 2024-07-14T03:38:35.746553+00:00
+
+ ## Ping Dashboard - Cosmos Blockchain Explorer And Web Wallet
+ - [https://look.ping.pub](https://look.ping.pub)
+ - date_published: 2025-01-08T10:11:12+00:00
+
  ## Ping Dashboard - Cosmos Blockchain Explorer And Web Wallet
  - [https://testnet.ping.pub](https://testnet.ping.pub)
  - date_published: 2025-01-22T23:45:54.984096+00:00
@@ -4023,16 +4035,4 @@
  ## Institute for doctoral studies | Universitatea Babeș-Bolyai
  - [https://doctorat.ubbcluj.ro](https://doctorat.ubbcluj.ro)
  - date_published: 2024-06-23T10:41:56.693322+00:00
-
- ## Center for High Performance Computing | Babeș-Bolyai University
- - [http://hpc.cs.ubbcluj.ro](http://hpc.cs.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:55.553098+00:00
-
- ## - Managementul activităţii academice/ştiinţifice UBB
- - [http://infocercetare.ubbcluj.ro](http://infocercetare.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:54.369709+00:00
-
- ## kmti.hiphi.ubbcluj.ro |
- - [https://kmti.hiphi.ubbcluj.ro](https://kmti.hiphi.ubbcluj.ro)
- - date_published: 2025-02-01T17:11:23.499111+00:00
 

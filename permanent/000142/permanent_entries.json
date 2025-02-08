@@ -1,6 +1,31 @@
 [
     {
         "age": null,
+        "album": "https://screenshots.teamtailor-cdn.com/b9f9c8d5-a913-4535-b1eb-22f7a5ab8e2f-facebook.png?update=1707740247",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": "2025-01-04T16:21:20.175885+00:00",
+        "date_published": "2024-08-19T09:38:06.839833+00:00",
+        "description": "Una carrera profesional \u00fanica - Freepik Company",
+        "id": 353814,
+        "language": "en-GB",
+        "link": "https://jobs.freepik.com",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source_url": "",
+        "status_code": 404,
+        "tags": [],
+        "thumbnail": "https://screenshots.teamtailor-cdn.com/b9f9c8d5-a913-4535-b1eb-22f7a5ab8e2f-facebook.png?update=1707740247",
+        "title": "Una carrera profesional \u00fanica - Freepik Company",
+        "vote": 0
+    },
+    {
+        "age": null,
         "album": "https://fps.cdnpk.net/meta-tags-social/og-fb-logo-en.png?w=1200",
         "author": null,
         "bookmarked": false,
@@ -25023,33 +25048,6 @@
         "tags": [],
         "thumbnail": null,
         "title": "Full Stack Python",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": "https://images.transistor.fm/file/transistor/images/social_images/site/5064/social-full-stack-radio.jpg",
-        "author": null,
-        "bookmarked": false,
-        "comments": [],
-        "date_dead_since": null,
-        "date_published": "2024-05-06T13:32:48.406075+00:00",
-        "description": "A podcast for developers interested in building great software products. Hosted by Adam Wathan.",
-        "id": 61272,
-        "language": "en",
-        "link": "https://fullstackradio.com",
-        "manual_status_code": 0,
-        "page_rating": 33,
-        "page_rating_contents": 95,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": true,
-        "source_url": "",
-        "status_code": 200,
-        "tags": [
-            "podcast"
-        ],
-        "thumbnail": "https://images.transistor.fm/file/transistor/images/social_images/site/5064/social-full-stack-radio.jpg",
-        "title": "Full Stack Radio",
         "vote": 0
     }
 ]

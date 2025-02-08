@@ -1,3 +1,7 @@
+ ## [官网]万兴PDF编辑器 - 秒会的全能PDF编辑神器
+ - [https://pdf.wondershare.cn](https://pdf.wondershare.cn)
+ - date_published: 2024-07-13T20:39:54.994623+00:00
+
  ## 视频压缩_电脑录屏软件_视频格式转换 -万兴优转
  - [https://uniconverter.wondershare.cn](https://uniconverter.wondershare.cn)
  - date_published: 2024-07-13T20:40:58.555675+00:00
@@ -4002,8 +4006,4 @@ _中国网
  ## 2024 西门子工业论坛
  - [https://events.siemens.com.cn](https://events.siemens.com.cn)
  - date_published: 2024-10-15T16:51:43.189000+00:00
-
- ## SimNow仿真交易【官方网站】
- - [http://www.simnow.com.cn](http://www.simnow.com.cn)
- - date_published: 2024-10-16T07:07:18.331325+00:00
 

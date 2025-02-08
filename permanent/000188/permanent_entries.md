@@ -1,3 +1,7 @@
+ ## Maca Gil – Storyboard Portfolio
+ - [http://www.macagilart.com](http://www.macagilart.com)
+ - date_published: 2024-06-30T06:02:02.676396+00:00
+
  ## Clarity through writing · macapinlac.com
  - [https://www.macapinlac.com](https://www.macapinlac.com)
  - date_published: 2024-01-10T14:29:44.031217+00:00
@@ -4009,8 +4013,4 @@
  ## The Iteration | Kenn Costales | Substack
  - [https://iteration.maiwriter.com](https://iteration.maiwriter.com)
  - date_published: 2023-11-05T11:29:59.648908+00:00
-
- ## Mai Writer | Best AI Writer & AI Marketing Assistant
- - [https://maiwriter.com](https://maiwriter.com)
- - date_published: 2024-05-04T14:10:35.058918+00:00
 

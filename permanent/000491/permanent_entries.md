@@ -1,3 +1,16 @@
+ ## qBittorrent Official Website
+ - [https://qbittorrent.org](https://qbittorrent.org)
+ - date_published: 2024-05-26T19:00:02+00:00
+ - tags: ['torrent client', 'file sharing']
+
+ ## Home
+ - [https://wiki.qbittorrent.org](https://wiki.qbittorrent.org)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Friends of Off-Road Cycling - QC Friends of Off Road Cycling Home
+ - [http://www.qcforc.org](http://www.qcforc.org)
+ - date_published: 2024-07-14T15:22:54.745064+00:00
+
  ## ALT Website – Arabic Language Technologies Group
  - [https://alt.qcri.org](https://alt.qcri.org)
  - date_published: 2024-07-12T00:00:00+00:00
@@ -4031,16 +4044,4 @@
  ## Hypra Mainnet blockchain explorer - View Hypra Mainnet stats | Blockscout
  - [https://rpc.rethereum.org](https://rpc.rethereum.org)
  - date_published: 2024-09-23T21:41:22.123180+00:00
-
- ## Home - Rethinking Economics
- - [https://www.rethinkeconomics.org](https://www.rethinkeconomics.org)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## Welcome rethinkingnuclearweapons.org - BlueHost.com
- - [http://www.rethinkingnuclearweapons.org](http://www.rethinkingnuclearweapons.org)
- - date_published: 2024-12-31T14:05:06.327159+00:00
-
- ## Rethinking the Past – Exhibition Site
- - [https://rethinkingthepast.org](https://rethinkingthepast.org)
- - date_published: 2024-09-26T18:06:57.775523+00:00
 

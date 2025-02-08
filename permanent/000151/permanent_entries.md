@@ -1,3 +1,7 @@
+ ## Green Manolo
+ - [http://greenmanolo.com](http://greenmanolo.com)
+ - date_published: 2024-10-31T22:32:38.999029+00:00
+
  ## The Art of Charles Vess • Green Man Press
  - [https://greenmanpress.com](https://greenmanpress.com)
  - date_published: 2024-10-31T18:34:44.288044+00:00
@@ -4019,8 +4023,4 @@
  ## Short-Term & Vacation Rental Property Management Platform
  - [https://www.guesty.com](https://www.guesty.com)
  - date_published: 2024-12-27T14:54:33.649726+00:00
-
- ## Guggenheim Partners, LLC
- - [https://www.guggenheimpartners.com](https://www.guggenheimpartners.com)
- - date_published: 2024-12-19T09:21:03.743704+00:00
 

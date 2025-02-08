@@ -1,3 +1,7 @@
+ ## ERP Systeme von A bis Z - für Unternehmen, Fertigung & Industrie
+ - [https://www.evo-solutions.com](https://www.evo-solutions.com)
+ - date_published: 2024-12-12T15:44:10.316601+00:00
+
  ## Hotel Software | Online Reservation System | CMS | Channel Manager | Marketing Automation
  - [https://www.evosuite.com](https://www.evosuite.com)
  - date_published: 2024-09-17T18:47:24.553920+00:00
@@ -4018,8 +4022,4 @@ software - three powerful and versatile products from EZB Systems.
  ## Log in or sign up to view
  - [https://badge.facebook.com](https://badge.facebook.com)
  - date_published: 2024-06-15T19:31:00.931533+00:00
-
- ## Log in or sign up to view
- - [http://blog.facebook.com](http://blog.facebook.com)
- - date_published: 2024-07-19T05:17:02.312489+00:00
 

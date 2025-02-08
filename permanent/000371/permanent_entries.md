@@ -1,3 +1,11 @@
+ ## Accueil - Espace numérique | France Travail
+ - [https://candidat.pole-emploi.fr](https://candidat.pole-emploi.fr)
+ - date_published: 2024-08-30T08:10:09+00:00
+
+ ## Accueil | Data Emploi
+ - [https://dataemploi.pole-emploi.fr](https://dataemploi.pole-emploi.fr)
+ - date_published: 2024-12-22T05:59:52.806505+00:00
+
  ## Domaines, champs de formation et formacodes pour le territoire FRANCE (National) | Data Emploi
  - [https://diagnostic-formation.pole-emploi.fr](https://diagnostic-formation.pole-emploi.fr)
  - date_published: 2024-12-22T05:59:50.101205+00:00
@@ -3992,12 +4000,4 @@
  ## Strasbourg astronomical Data Center
  - [http://cdsweb.u-strasbg.fr](http://cdsweb.u-strasbg.fr)
  - date_published: 2024-09-16T00:00:00+00:00
-
- ## CDS XMatch Service
- - [http://cdsxmatch.u-strasbg.fr](http://cdsxmatch.u-strasbg.fr)
- - date_published: 2025-01-21T17:07:09.166393+00:00
-
- ## Listes de diffusion de unistra.fr - home
- - [https://listes.u-strasbg.fr](https://listes.u-strasbg.fr)
- - date_published: 2016-05-12T00:00:00+00:00
 

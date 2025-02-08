@@ -1,3 +1,7 @@
+ ## Formalize | Turbocharging high-growth fintechs
+ - [https://getformalize.com](https://getformalize.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
  ## Free Online Form Builder | Form Creator | Formly
  - [https://www.getformly.com](https://www.getformly.com)
  - date_published: 2024-05-06T12:50:30+00:00
@@ -4031,8 +4035,4 @@
  ## DNS points to prohibited IP | git18n.com | Cloudflare
  - [https://git18n.com](https://git18n.com)
  - date_published: 2024-06-19T00:00:00+00:00
-
- ## Gitana : écurie de course au large fondée par le Baron Benjamin de Rothschild
- - [http://www.gitana-team.com](http://www.gitana-team.com)
- - date_published: 2024-06-17T12:26:40.116021+00:00
 

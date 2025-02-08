@@ -1,3 +1,7 @@
+ ## MetaFilter Projects
+ - [https://projects.metafilter.com](https://projects.metafilter.com)
+ - date_published: 2024-05-09T06:06:23.513016+00:00
+
  ## MetaFilter RSS
  - [https://rss.metafilter.com](https://rss.metafilter.com)
  - date_published: 2024-01-12T12:43:58+00:00
@@ -4043,8 +4047,4 @@
  ## App badge tester
  - [https://get.microsoft.com](https://get.microsoft.com)
  - date_published: 2024-06-03T19:06:53+00:00
-
- ## Microsoft – chmura, komputery, aplikacje i gry
- - [https://go.microsoft.com](https://go.microsoft.com)
- - date_published: 2024-04-28T02:26:37.044247+00:00
 

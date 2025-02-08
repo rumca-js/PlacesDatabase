@@ -1,3 +1,11 @@
+ ## Jess is on Break
+ - [https://jessisonbreak.wordpress.com](https://jessisonbreak.wordpress.com)
+ - date_published: 2024-10-19T07:57:49.287901+00:00
+
+ ## (no title)
+ - [https://jessthomson.wordpress.com](https://jessthomson.wordpress.com)
+ - date_published: 2024-06-30T03:17:58.307645+00:00
+
  ## Jesus College Libraries
  - [https://jesuslibraries.wordpress.com](https://jesuslibraries.wordpress.com)
  - date_published: 2024-04-27T00:00:00+00:00
@@ -4002,12 +4010,4 @@
  ## minusthecynic
  - [http://minusthecynic.wordpress.com](http://minusthecynic.wordpress.com)
  - date_published: 2024-09-03T23:01:21.979477+00:00
-
- ## Rolling War
- - [https://minutiaeofwar.wordpress.com](https://minutiaeofwar.wordpress.com)
- - date_published: 2025-01-01T14:17:41.219019+00:00
-
- ## Just Another Software Developer
- - [https://miparnisariblog.wordpress.com](https://miparnisariblog.wordpress.com)
- - date_published: 2023-10-25T18:13:46.124761+00:00
 

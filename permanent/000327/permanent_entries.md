@@ -1,3 +1,11 @@
+ ## Werde Handball-Manager*in in der stärksten Liga der Welt. - START7 - Der Handball Fantasy Manager
+ - [https://start7.de](https://start7.de)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Willkommen bei Wüstenrot | Wüstenrot
+ - [https://start-bsk.de](https://start-bsk.de)
+ - date_published: 2024-09-27T09:30:07.746495+00:00
+
  ## Home
  - [https://hack.startmunich.de](https://hack.startmunich.de)
  - date_published: 2025-01-16T19:45:00.532504+00:00
@@ -4019,12 +4027,4 @@
  ## Startseite - TV Movie star lounge
  - [https://tvmovie-lounge.de](https://tvmovie-lounge.de)
  - date_published: 2024-07-23T00:00:00+00:00
-
- ## RTL+
- - [https://tvnow.de](https://tvnow.de)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Fernsehprogramm von heute - TV Programm - TV SPIELFILM
- - [https://tvspielfilm.de](https://tvspielfilm.de)
- - date_published: 2024-09-18T00:00:00+00:00
 

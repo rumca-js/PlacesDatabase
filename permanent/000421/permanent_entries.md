@@ -1,3 +1,11 @@
+ ## OMG Andy Piper LOL
+ - [https://andypiper.omg.lol](https://andypiper.omg.lol)
+ - date_published: 2025-02-01T13:18:37.932598+00:00
+
+ ## Apple Annie's Profile page
+ - [https://anniegreens.omg.lol](https://anniegreens.omg.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
  ## omg.lol - An amazing API for an amazing service
  - [https://api.omg.lol](https://api.omg.lol)
  - date_published: 2023-01-29T00:00:00+00:00
@@ -3999,12 +4007,4 @@
  ## Biržai | Biržų rajono savivaldybė
  - [http://www.birzai.lt](http://www.birzai.lt)
  - date_published: 2024-07-01T11:29:32.544189+00:00
-
- ## Biržų „Aušros“ pagrindinė mokykla Puslapis yra kuriamas (ne viskas iš karto)
- - [http://birzuausra.lt](http://birzuausra.lt)
- - date_published: 2024-07-01T11:36:05.839224+00:00
-
- ## Blue Yellow
- - [https://blue-yellow.lt](https://blue-yellow.lt)
- - date_published: 2024-08-11T18:58:18.377204+00:00
 

@@ -1,3 +1,7 @@
+ ## Pull contact details out of email signatures, export anywhere.
+ - [https://cortenix.com](https://cortenix.com)
+ - date_published: 2021-04-26T12:29:22+00:00
+
  ## Careers | Corteva
  - [https://careers.corteva.com](https://careers.corteva.com)
  - date_published: 2025-01-09T04:57:01.534626+00:00
@@ -4029,8 +4033,4 @@
  ## createsend.com | Email Newsletter Software
  - [https://noplans.createsend.com](https://noplans.createsend.com)
  - date_published: 2024-10-16T03:50:35.489154+00:00
-
- ## createsend.com | Email Newsletter Software
- - [https://planetargon.createsend.com](https://planetargon.createsend.com)
- - date_published: 2024-08-19T21:34:50.803270+00:00
 

@@ -1,3 +1,11 @@
+ ## Franciscan University of Steubenville
+ - [https://franciscan.academia.edu](https://franciscan.academia.edu)
+ - date_published: 2024-09-04T18:50:09.700137+00:00
+
+ ## Georgetown University
+ - [https://georgetown.academia.edu](https://georgetown.academia.edu)
+ - date_published: 2024-04-30T02:55:34.566547+00:00
+
  ## Goldsmiths, University of London
  - [https://goldsmiths.academia.edu](https://goldsmiths.academia.edu)
  - date_published: 2024-07-10T11:17:55.427286+00:00
@@ -3999,12 +4007,4 @@
  ## Home
  - [http://cmr.berkeley.edu](http://cmr.berkeley.edu)
  - date_published: 2024-04-30T03:20:03.789909+00:00
-
- ## Berkeley Engineering
- - [http://coe.berkeley.edu](http://coe.berkeley.edu)
- - date_published: 2025-01-15T22:59:13.322329+00:00
-
- ## Home | Cognitive Science
- - [https://cogsci.berkeley.edu](https://cogsci.berkeley.edu)
- - date_published: 2024-07-02T08:42:18+00:00
 

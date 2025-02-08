@@ -1,3 +1,7 @@
+ ## Cloud Document Security - Nira
+ - [https://nira.com](https://nira.com)
+ - date_published: 2023-10-25T16:20:22.344024+00:00
+
  ## Nira
  - [https://app.niraenergy.com](https://app.niraenergy.com)
  - date_published: 2024-06-29T13:13:56.502678+00:00
@@ -4019,8 +4023,4 @@ Home
  ## Home - Nortex Communications
  - [http://www.nortex.com](http://www.nortex.com)
  - date_published: 2024-01-25T00:00:00+00:00
-
- ## Governor Dunleavy Home - Mike Dunleavy
- - [http://north2opportunity.com](http://north2opportunity.com)
- - date_published: 2024-06-29T00:00:00+00:00
 

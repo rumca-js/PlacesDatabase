@@ -1,3 +1,7 @@
+ ## Team Trade Import & Export GmbH
+ - [https://teamtrade.ch](https://teamtrade.ch)
+ - date_published: 2024-10-21T09:23:43.454293+00:00
+
  ## Tech4Regeneration Startup acceleration program
  - [https://www.tech4regeneration.ch](https://www.tech4regeneration.ch)
  - date_published: 2024-07-16T00:00:00+00:00
@@ -4015,8 +4019,4 @@ Fakultät | Universität Basel
  ## Programas
  - [https://envivo.rockandpop.cl](https://envivo.rockandpop.cl)
  - date_published: 2024-09-13T11:02:27.660854+00:00
-
- ## Rock&Pop
- - [https://rockandpop.cl](https://rockandpop.cl)
- - date_published: 2024-06-12T13:06:28.549964+00:00
 

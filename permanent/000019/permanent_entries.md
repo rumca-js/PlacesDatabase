@@ -1,3 +1,7 @@
+ ## Lex Friedman
+ - [https://lex.micro.blog](https://lex.micro.blog)
+ - date_published: 2024-07-03T20:17:38+00:00
+
  ## Link Punk: A Linkblog
  - [https://linkpunk.micro.blog](https://linkpunk.micro.blog)
  - date_published: 2024-06-17T22:01:16+00:00
@@ -4039,8 +4043,4 @@ Educação
  ## crazycoinflip.com.br
  - [https://crazycoinflip.com.br](https://crazycoinflip.com.br)
  - date_published: 2025-02-03T01:05:12.716115+00:00
-
- ## Jogos grátis online aqui na CrazyGames | Jogue Agora!
- - [https://crazygames.com.br](https://crazygames.com.br)
- - date_published: 2024-05-08T06:51:36.310066+00:00
 

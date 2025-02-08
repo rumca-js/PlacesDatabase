@@ -1,3 +1,11 @@
+ ## Skyscanner
+ - [https://skyscanner.co.il](https://skyscanner.co.il)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## דף הבית • מכון דוידסון לחינוך מדעי
+ - [https://davidson-weizmann.smarticket.co.il](https://davidson-weizmann.smarticket.co.il)
+ - date_published: 2024-09-17T17:49:49.125230+00:00
+
  ## סודהסטרים ישראל האתר הרשמי: מכשירי סודה
  - [https://www.sodastream.co.il](https://www.sodastream.co.il)
  - date_published: 2025-02-04T21:04:08.711501+00:00
@@ -4018,12 +4026,4 @@ Indian Institute of Science, Bangalore
  ## The Official Alumni Network of Swami Keshvanand Institute of Technology, Management and Gramothan
  - [https://alumni.skit.ac.in](https://alumni.skit.ac.in)
  - date_published: 2024-12-24T19:51:22.872608+00:00
-
- ## Home - SKIT Jaipur - NAAC A++ Grade Accredited, Best Engineering College, Best Faculty, Best Placements
- - [https://skit.ac.in](https://skit.ac.in)
- - date_published: 2024-07-14T09:22:43.195069+00:00
-
- ## Home | Shri Lal Bahadur Shastri National Sanskrit University
- - [https://slbsrsv.ac.in](https://slbsrsv.ac.in)
- - date_published: 2024-09-11T00:00:00+00:00
 

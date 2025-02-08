@@ -1,3 +1,7 @@
+ ## Gitana : écurie de course au large fondée par le Baron Benjamin de Rothschild
+ - [http://www.gitana-team.com](http://www.gitana-team.com)
+ - date_published: 2024-06-17T12:26:40.116021+00:00
+
  ## gist-posts-all
  - [http://git-awards.com](http://git-awards.com)
  - date_published: 2024-09-09T00:00:00+00:00
@@ -4177,8 +4181,4 @@
  ## The Best Salon & Spa Software Out There | GlossGenius
  - [https://glossgenius.com](https://glossgenius.com)
  - date_published: 2024-06-20T00:00:00+00:00
-
- ## My Way Aesthetics
- - [https://myway.glossgenius.com](https://myway.glossgenius.com)
- - date_published: 2024-03-15T00:00:00+00:00
 

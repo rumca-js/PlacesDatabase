@@ -1,3 +1,11 @@
+ ## FindTreatment.gov
+ - [https://findtreatment.gov](https://findtreatment.gov)
+ - date_published: 2024-04-01T16:16:02+00:00
+
+ ## FirstNet Authority | First Responder Network Authority
+ - [https://www.firstnet.gov](https://www.firstnet.gov)
+ - date_published: 2024-07-19T12:58:54+00:00
+
  ## First Responder Training System
  - [https://firstrespondertraining.gov](https://firstrespondertraining.gov)
  - date_published: 2024-03-27T10:32:32+00:00
@@ -4010,12 +4018,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## Default Page | Los Alamos National Laboratory
  - [http://public.lanl.gov](http://public.lanl.gov)
  - date_published: 2024-08-19T20:53:54.297979+00:00
-
- ## LANL | Centers | Quantum Initiative
- - [http://quantum.lanl.gov](http://quantum.lanl.gov)
- - date_published: 2024-10-19T07:48:17.802056+00:00
-
- ## Home | Research Library
- - [https://researchlibrary.lanl.gov](https://researchlibrary.lanl.gov)
- - date_published: 2024-06-05T17:22:15+00:00
 

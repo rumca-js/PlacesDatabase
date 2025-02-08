@@ -1,3 +1,11 @@
+ ## EuroPython 2023 | July 17th-23rd 2023 | Prague, Czech Republic & Remote
+ - [https://ep2023.europython.eu](https://ep2023.europython.eu)
+ - date_published: 2024-05-04T15:58:30.800539+00:00
+
+ ## EuroPython 2024 | July 8th-14th 2024 | Prague, Czech Republic & Remote
+ - [https://ep2024.europython.eu](https://ep2024.europython.eu)
+ - date_published: 2024-05-07T23:45:17.626112+00:00
+
  ## EuroPython 2024 | July 8th-14th 2024 | Prague, Czech Republic & Remote
  - [https://europython.eu](https://europython.eu)
  - date_published: 2024-05-07T23:46:01.743095+00:00
@@ -4018,12 +4026,4 @@ Portal
  ## Wspólna Polityka Rolna - Projekt INFOCAP - PolitykaRolna.eu
  - [https://politykarolna.eu](https://politykarolna.eu)
  - date_published: 2024-12-29T23:13:51.970502+00:00
-
- ## Polski Hokej | Oficjalny serwis
- - [https://polskihokej.eu](https://polskihokej.eu)
- - date_published: 2024-07-09T13:30:49.968900+00:00
-
- ## polylux.eu
- - [https://polylux.eu](https://polylux.eu)
- - date_published: 2023-07-07T20:12:00+00:00
 

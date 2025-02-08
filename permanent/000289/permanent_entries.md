@@ -1,3 +1,11 @@
+ ## Vaping Underground Forums - An Ecig and Vaping Forum
+ - [http://vapingunderground.com](http://vapingunderground.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Neova - Creating Green Growth
+ - [http://vapo.com](http://vapo.com)
+ - date_published: 2025-02-01T23:37:46.387879+00:00
+
  ## vapor.com Canada
  - [https://canada.vapor.com](https://canada.vapor.com)
  - date_published: 2024-05-06T21:33:15.334197+00:00
@@ -4025,12 +4033,4 @@
  ## Global Communications | Services, Solutions & Satellite Internet
  - [https://go.viasat.com](https://go.viasat.com)
  - date_published: 2024-06-20T02:04:48.996418+00:00
-
- ## Investor Relations | Viasat, Inc.
- - [https://investors.viasat.com](https://investors.viasat.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## My Viasat | Manage Your Account
- - [https://my.viasat.com](https://my.viasat.com)
- - date_published: 2024-10-30T14:01:35+00:00
 

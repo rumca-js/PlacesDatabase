@@ -1,3 +1,7 @@
+ ## Stephen DiVerdi
+ - [https://stephendiverdi.com](https://stephendiverdi.com)
+ - date_published: 2018-10-30T17:49:09+00:00
+
  ## StephenFabian.com
  - [https://stephenfabian.com](https://stephenfabian.com)
  - date_published: 2024-07-20T09:22:38.750652+00:00
@@ -4098,8 +4102,4 @@
  ## Audiostreaming v.a. € 6,- | Streampakket
  - [https://www.streampakket.com](https://www.streampakket.com)
  - date_published: 2024-09-03T00:00:00+00:00
-
- ## Podcast Foundations - Your ultimate podcast and streaming app guide
- - [https://streampdx.com](https://streampdx.com)
- - date_published: 2024-05-01T00:32:26.835613+00:00
 

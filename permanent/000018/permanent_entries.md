@@ -1,3 +1,7 @@
+ ## Free Background Image Remover: Remove BG from HD Images Online - Erase.bg
+ - [https://erase.bg](https://erase.bg)
+ - date_published: 2024-04-02T00:00:00+00:00
+
  ## Euractiv Bulgaria
  - [https://euractiv.bg](https://euractiv.bg)
  - date_published: 2024-05-02T09:58:45.077706+00:00
@@ -4061,8 +4065,4 @@
  ## Ken Kocienda
  - [https://kocienda.micro.blog](https://kocienda.micro.blog)
  - date_published: 2024-04-11T17:12:36+00:00
-
- ## Lex Friedman
- - [https://lex.micro.blog](https://lex.micro.blog)
- - date_published: 2024-07-03T20:17:38+00:00
 

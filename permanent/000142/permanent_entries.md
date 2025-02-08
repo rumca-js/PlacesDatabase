@@ -1,3 +1,8 @@
+ ## Una carrera profesional única - Freepik Company
+ - [https://jobs.freepik.com](https://jobs.freepik.com)
+ - date_published: 2024-08-19T09:38:06.839833+00:00
+ - date_dead_since: 2025-01-04T16:21:20.175885+00:00
+
  ## Freepik | すぐれたデザインを、より速く作成
  - [https://jp.freepik.com](https://jp.freepik.com)
  - date_published: 2024-08-19T09:38:05.636002+00:00
@@ -4033,9 +4038,4 @@
  ## Full Stack Python
  - [https://fullstackpython.com](https://fullstackpython.com)
  - date_published: 2022-10-27T13:29:11+00:00
-
- ## Full Stack Radio
- - [https://fullstackradio.com](https://fullstackradio.com)
- - date_published: 2024-05-06T13:32:48.406075+00:00
- - tags: ['podcast']
 

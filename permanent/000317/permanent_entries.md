@@ -1,3 +1,11 @@
+ ## Sareza, Ostrava, Odpočinek, Plavání, Relax, Tobogány, Sport, Ubytování, Wellness.
+ - [https://www.sareza.cz](https://www.sareza.cz)
+ - date_published: 2024-12-14T05:50:01.087619+00:00
+
+ ## Plechové střechy | Plechové krytiny | SATJAM
+ - [https://www.satjam.cz](https://www.satjam.cz)
+ - date_published: 2024-12-14T06:06:39.951707+00:00
+
  ## Pojišťovací společnost - SATUM CZECH s.r.o
  - [https://www.satum.cz](https://www.satum.cz)
  - date_published: 2024-12-14T05:49:19.219360+00:00
@@ -4007,12 +4015,4 @@ web | Webarchiv.cz
  ## Startseite - Allianz der Wissenschaftsorganisationen
  - [https://allianz-der-wissenschaftsorganisationen.de](https://allianz-der-wissenschaftsorganisationen.de)
  - date_published: 2024-01-10T00:00:00+00:00
-
- ## Allianz Direct: Die günstige Direktversicherung der Allianz
- - [https://allianzdirect.de](https://allianzdirect.de)
- - date_published: 2024-05-08T07:06:33.405362+00:00
-
- ## Empfiehl Allianz Direct, Freunde werben, Cashback erhalten
- - [https://empfehlen.allianzdirect.de](https://empfehlen.allianzdirect.de)
- - date_published: 2024-07-04T10:52:31+00:00
 

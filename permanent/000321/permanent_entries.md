@@ -1,3 +1,11 @@
+ ## Fairtrade Deutschland
+ - [https://www.fairtrade-deutschland.de](https://www.fairtrade-deutschland.de)
+ - date_published: 2024-07-08T16:40:54.066626+00:00
+
+ ## Gesundheitlicher Verbraucherschutz im digitalen Health-Style-Markt | Verbraucherzentrale.de
+ - [https://www.faktencheck-gesundheitswerbung.de](https://www.faktencheck-gesundheitswerbung.de)
+ - date_published: 2024-08-08T21:11:23.579416+00:00
+
  ## Fakuma Internationale Fachmesse für Kunststoffverarbeitung
  - [https://www.fakuma-messe.de](https://www.fakuma-messe.de)
  - date_published: 2025-02-03T12:40:22.808696+00:00
@@ -4009,12 +4017,4 @@
  ## Careers H2Fly
  - [https://careers.h2fly.de](https://careers.h2fly.de)
  - date_published: 2024-01-12T00:00:00+00:00
-
- ## H2FLY
- - [https://h2fly.de](https://h2fly.de)
- - date_published: 2024-07-19T20:47:52.829453+00:00
-
- ## Home | Mediendatenbank H2O-Wissen
- - [https://h2o-wissen.de](https://h2o-wissen.de)
- - date_published: 2024-04-29T06:58:37.409483+00:00
 

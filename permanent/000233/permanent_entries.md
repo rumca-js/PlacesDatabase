@@ -1,3 +1,7 @@
+ ## Shelton Kwan Site – Your SUPER-powered WP Engine Site
+ - [https://webcdn.replicon.com](https://webcdn.replicon.com)
+ - date_published: 2024-09-02T16:46:24.739122+00:00
+
  ## Replicover
  - [https://replicover.com](https://replicover.com)
  - date_published: 2024-04-28T04:37:18.096586+00:00
@@ -4030,8 +4034,4 @@
  ## Home - RheumCenter
  - [https://www.rheumcenter.com](https://www.rheumcenter.com)
  - date_published: 2023-04-03T00:00:00+00:00
-
- ## #RheumJC | Rheumatology Journal Club on Twitter
- - [https://rheumjc.com](https://rheumjc.com)
- - date_published: 2024-05-06T00:00:00+00:00
 

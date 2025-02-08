@@ -1,3 +1,15 @@
+ ## index
+ - [https://geoportal.dolnyslask.pl](https://geoportal.dolnyslask.pl)
+ - date_published: 2024-03-25T03:19:18+00:00
+
+ ## Konwent Przewodniczących Sejmików Województw RP - Dolnośląskie 2023 - Strona główna
+ - [https://konwent-przewodniczacych.dolnyslask.pl](https://konwent-przewodniczacych.dolnyslask.pl)
+ - date_published: 2024-07-17T07:46:02+00:00
+
+ ## RPO WD 2014 – 2020 – Regionalny Program Operacyjny Wojewódzktwa Dolnośląskiego na lata 2014 – 2020
+ - [http://rpo.dolnyslask.pl](http://rpo.dolnyslask.pl)
+ - date_published: 2024-07-16T00:00:00+00:00
+
  ## DOLNY ŚLĄSK
  - [https://umwd.dolnyslask.pl](https://umwd.dolnyslask.pl)
  - date_published: 2024-05-13T03:12:45.111642+00:00
@@ -4053,16 +4065,4 @@
  ## Indico Plus - Nowe technologie dla Kościoła - Synodi - Drogowskaz
  - [https://indicoplus.pl](https://indicoplus.pl)
  - date_published: 2024-06-11T14:14:39+00:00
-
- ## indywidualni.pl
- - [https://indywidualni.pl](https://indywidualni.pl)
- - date_published: 2024-05-26T14:11:09.303841+00:00
-
- ## Strona główna - Infarma Związek Pracodawców Innowacyjnych Firm Farmaceutycznych
- - [https://www.infarma.pl](https://www.infarma.pl)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Infinity Group - Technology solutions for your business
- - [http://www.infinity-group.pl](http://www.infinity-group.pl)
- - date_published: 2024-09-16T02:16:33.191683+00:00
 

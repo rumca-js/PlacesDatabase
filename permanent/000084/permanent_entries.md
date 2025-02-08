@@ -1,3 +1,7 @@
+ ## Munguin's Republic
+ - [http://munguinsrepublic.blogspot.com](http://munguinsrepublic.blogspot.com)
+ - date_published: 2024-03-25T06:09:38+00:00
+
  ## The Muqata
  - [http://muqata.blogspot.com](http://muqata.blogspot.com)
  - date_published: 2024-06-09T19:25:26+00:00
@@ -4004,8 +4008,4 @@
  ## CSO Productions
  - [http://optimumresponse.blogspot.com](http://optimumresponse.blogspot.com)
  - date_published: 2024-11-08T15:35:07+00:00
-
- ## Optus bungling
- - [http://optus-australia.blogspot.com](http://optus-australia.blogspot.com)
- - date_published: 2024-05-11T06:09:04+00:00
 

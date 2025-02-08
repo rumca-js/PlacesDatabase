@@ -1,3 +1,11 @@
+ ## CDS XMatch Service
+ - [http://cdsxmatch.u-strasbg.fr](http://cdsxmatch.u-strasbg.fr)
+ - date_published: 2025-01-21T17:07:09.166393+00:00
+
+ ## Listes de diffusion de unistra.fr - home
+ - [https://listes.u-strasbg.fr](https://listes.u-strasbg.fr)
+ - date_published: 2016-05-12T00:00:00+00:00
+
  ## SIMBAD Astronomical Database - CDS (Strasbourg)
  - [http://simbad.u-strasbg.fr](http://simbad.u-strasbg.fr)
  - date_published: 2024-08-18T20:26:57.154407+00:00
@@ -4022,12 +4030,4 @@ Secrétariat d'État chargé de la Mer
  ## david wolfpaw – digital citizen
  - [https://david.garden](https://david.garden)
  - date_published: 2024-02-25T19:11:26.871726+00:00
-
- ## Home | dead.garden
- - [https://dead.garden](https://dead.garden)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## memento mori
- - [https://grow.dead.garden](https://grow.dead.garden)
- - date_published: 2024-08-07T00:00:00+00:00
 

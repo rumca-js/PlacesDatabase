@@ -1,3 +1,7 @@
+ ## Rahul’s Renaissance Quest  | Substack
+ - [https://rahulmajumdar.substack.com](https://rahulmajumdar.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
  ## The Morning Star | Rain Morningstar | Substack
  - [https://rainmorningstar.substack.com](https://rainmorningstar.substack.com)
  - date_published: 2024-07-20T21:33:12.403672+00:00
@@ -4050,8 +4054,4 @@
  ## Suburban Jungle, by The Gneech – The Life, Loves, and Career of Aspiring Superstar and Ferocious Predator, Tiffany Tiger
  - [https://www.suburbanjungle.com](https://www.suburbanjungle.com)
  - date_published: 2024-07-13T09:42:57.209218+00:00
-
- ## Welcome to the Suburban Vamps.com!
- - [http://www.suburbanvamps.com](http://www.suburbanvamps.com)
- - date_published: 2023-09-24T18:16:58+00:00
 

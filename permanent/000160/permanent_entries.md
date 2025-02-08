@@ -1,3 +1,7 @@
+ ## Houston Jewish Community Foundation
+ - [http://www.houstonjewishfoundation.com](http://www.houstonjewishfoundation.com)
+ - date_published: 2025-01-20T17:44:57.721164+00:00
+
  ## Houston Mirror | Continuously updating Houston News
  - [http://www.houstonmirror.com](http://www.houstonmirror.com)
  - date_published: 2024-07-13T22:57:09.100361+00:00
@@ -4018,8 +4022,4 @@
  ## Hungryroot | The easiest way to eat healthy.
  - [https://hungryroot.com](https://hungryroot.com)
  - date_published: 2025-01-21T12:14:53.249669+00:00
-
- ## The Hungry Runner Girl - It's rude to count people as you pass them... out loud
- - [http://hungryrunnergirl.com](http://hungryrunnergirl.com)
- - date_published: 2024-12-11T12:39:59.654720+00:00
 

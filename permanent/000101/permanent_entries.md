@@ -1,3 +1,7 @@
+ ## Charimation
+ - [http://charimation.com](http://charimation.com)
+ - date_published: 2017-07-19T18:53:47+00:00
+
  ## Home
  - [https://chariotsolutions.com](https://chariotsolutions.com)
  - date_published: 2023-01-27T00:00:00+00:00
@@ -4018,8 +4022,4 @@ cpc直得科技股份有限公司、直線運動、線性滑軌、滾子型線�
  ## 第四届北京国际工程采购大会暨工程建设供应链博览会
  - [https://www.chinaiepc.com](https://www.chinaiepc.com)
  - date_published: 2024-10-25T11:55:28.648355+00:00
-
- ## China IPR - Intellectual Property Developments in China
- - [https://chinaipr.com](https://chinaipr.com)
- - date_published: 2024-06-27T00:00:00+00:00
 

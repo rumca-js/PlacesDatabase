@@ -1,3 +1,11 @@
+ ## Home | dead.garden
+ - [https://dead.garden](https://dead.garden)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## memento mori
+ - [https://grow.dead.garden](https://grow.dead.garden)
+ - date_published: 2024-08-07T00:00:00+00:00
+
  ## derelict garden
  - [https://derelict.garden](https://derelict.garden)
  - date_published: 2024-04-22T00:00:00+00:00
@@ -4012,12 +4020,4 @@
  ## Google
  - [https://www.google.gm](https://www.google.gm)
  - date_published: 2024-06-21T22:22:25.067810+00:00
-
- ## MSI.GM
- - [https://msi.gm](https://msi.gm)
- - date_published: 2024-08-08T19:22:03.902336+00:00
-
- ## Welcome to Zenith Bank Gambia
- - [http://www.zenithbank.gm](http://www.zenithbank.gm)
- - date_published: 2024-06-20T02:01:04.188934+00:00
 

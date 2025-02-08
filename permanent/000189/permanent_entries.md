@@ -1,3 +1,7 @@
+ ## Mai Writer | Best AI Writer & AI Marketing Assistant
+ - [https://maiwriter.com](https://maiwriter.com)
+ - date_published: 2024-05-04T14:10:35.058918+00:00
+
  ## Mai (Monolith AI) Status Page - Status
  - [https://status.maiwriter.com](https://status.maiwriter.com)
  - date_published: 2024-06-15T00:00:00+00:00
@@ -4026,8 +4030,4 @@
  ## Marble Bridge Funding Group | Strategic Financing for Every Business Life Cycle
  - [http://www.marblebridge.com](http://www.marblebridge.com)
  - date_published: 2024-06-23T08:16:28.618433+00:00
-
- ## MarbleFlows
- - [https://app.marbleflows.com](https://app.marbleflows.com)
- - date_published: 2024-06-19T21:38:13.112277+00:00
 

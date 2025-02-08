@@ -1,3 +1,7 @@
+ ## Digitalisierung
+ - [http://digital.univie.ac.at](http://digital.univie.ac.at)
+ - date_published: 2024-10-14T23:57:21.499651+00:00
+
  ## Doktorat
  - [http://doktorat.univie.ac.at](http://doktorat.univie.ac.at)
  - date_published: 2024-10-14T23:59:41.532440+00:00
@@ -4016,9 +4020,5 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
 
  ## Kombitickets
  - [https://kombitickets.railtours.at](https://kombitickets.railtours.at)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Rail Tours
- - [https://www.railtours.at](https://www.railtours.at)
  - date_published: 2024-07-30T00:00:00+00:00
 

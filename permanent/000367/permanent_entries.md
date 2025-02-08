@@ -1,3 +1,11 @@
+ ## L'association
+ - [https://www.afvelocouche.fr](https://www.afvelocouche.fr)
+ - date_published: 2025-01-31T10:02:19.293001+00:00
+
+ ## Mastering Burp Suite Pro, 100% hands-on
+ - [https://hackademy.agarri.fr](https://hackademy.agarri.fr)
+ - date_published: 2024-10-16T04:29:45.723611+00:00
+
  ## Agarri: Offensive information security
  - [http://www.agarri.fr](http://www.agarri.fr)
  - date_published: 2024-06-16T08:00:01+00:00
@@ -3998,12 +4006,4 @@
  ## Fournisseur de gestion du consentement (CMP) 🍪
  - [https://www.consentmanager.fr](https://www.consentmanager.fr)
  - date_published: 2024-03-08T00:00:00+00:00
-
- ## Conservatoire de Rennes
- - [https://conservatoire-rennes.fr](https://conservatoire-rennes.fr)
- - date_published: 2024-02-22T16:55:10.461902+00:00
-
- ## Contour Design - des souris ergonomiques au design supérieur
- - [https://contourdesign.fr](https://contourdesign.fr)
- - date_published: 2024-08-08T22:09:40.153082+00:00
 

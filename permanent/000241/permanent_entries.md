@@ -1,3 +1,7 @@
+ ## Sean Yendrys
+ - [http://seanyendrys.com](http://seanyendrys.com)
+ - date_published: 2025-01-14T21:02:15.640020+00:00
+
  ## Home - Sea-of-Memes
  - [http://www.sea-of-memes.com](http://www.sea-of-memes.com)
  - date_published: 2020-12-24T00:00:00+00:00
@@ -4030,8 +4034,4 @@ American Coins by Daniel Frank Sedwick, LLC
  ## Docs | Sencha Documentation
  - [https://docs.sencha.com](https://docs.sencha.com)
  - date_published: 2024-05-17T20:19:47+00:00
-
- ## Sencha | Examples
- - [https://examples.sencha.com](https://examples.sencha.com)
- - date_published: 2024-07-11T23:55:28.391179+00:00
 

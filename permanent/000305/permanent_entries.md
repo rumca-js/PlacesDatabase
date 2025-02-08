@@ -1,3 +1,11 @@
+ ## stuff, steep + store
+ - [http://stuffsteepstore.wordpress.com](http://stuffsteepstore.wordpress.com)
+ - date_published: 2024-08-18T03:12:21.077303+00:00
+
+ ## Crude Opinion
+ - [http://stuntborg.wordpress.com](http://stuntborg.wordpress.com)
+ - date_published: 2024-07-20T00:00:00+00:00
+
  ## sturdyblog
  - [https://sturdyblog.wordpress.com](https://sturdyblog.wordpress.com)
  - date_published: 2024-10-21T16:12:15.183533+00:00
@@ -3997,12 +4005,4 @@
  ## Wargamerabbit
  - [https://wargamerabbit.wordpress.com](https://wargamerabbit.wordpress.com)
  - date_published: 2025-01-01T13:15:07.583449+00:00
-
- ## WarGamer Eric's Hobby and Gaming Emporium
- - [https://wargamereric.wordpress.com](https://wargamereric.wordpress.com)
- - date_published: 2025-02-05T05:16:52.960687+00:00
-
- ## Wargames Association Of South Pembrokeshire
- - [https://wargamesasp.wordpress.com](https://wargamesasp.wordpress.com)
- - date_published: 2024-12-31T23:50:33.194221+00:00
 

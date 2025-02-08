@@ -1,3 +1,7 @@
+ ## GHC on SPARC
+ - [http://ghcsparc.blogspot.com](http://ghcsparc.blogspot.com)
+ - date_published: 2024-02-20T22:23:21+00:00
+
  ## The view from the hills
  - [http://ghmltn.blogspot.com](http://ghmltn.blogspot.com)
  - date_published: 2024-10-21T15:45:31.691600+00:00
@@ -4005,8 +4009,4 @@
  ## Imaginary Colour
  - [http://imaginarycolour.blogspot.com](http://imaginarycolour.blogspot.com)
  - date_published: 2024-02-19T15:26:56+00:00
-
- ## Imaginary Life
- - [http://imagination-incorporation.blogspot.com](http://imagination-incorporation.blogspot.com)
- - date_published: 2024-08-29T21:01:45+00:00
 

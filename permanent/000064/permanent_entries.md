@@ -1,3 +1,7 @@
+ ## Head of Roses: Phantom Limb, by Flock of Dimes
+ - [https://flockofdimes.bandcamp.com](https://flockofdimes.bandcamp.com)
+ - date_published: 2024-12-27T09:17:32.557299+00:00
+
  ## floe
  - [http://floetapes.bandcamp.com](http://floetapes.bandcamp.com)
  - date_published: 2024-12-27T06:58:06.199272+00:00
@@ -3993,8 +3997,4 @@
  ## LEON VYNEHALL
  - [https://leonvynehall.bandcamp.com](https://leonvynehall.bandcamp.com)
  - date_published: 2024-05-15T00:00:00+00:00
-
- ## LEOPARDO
- - [https://leopardoshallo.bandcamp.com](https://leopardoshallo.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
 

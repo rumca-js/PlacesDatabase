@@ -1,3 +1,15 @@
+ ## İskenderun Teknik Üniversitesi (İSTE)
+ - [https://iste.edu.tr](https://iste.edu.tr)
+ - date_published: 2024-06-17T15:59:20.653931+00:00
+
+ ## .:: Bilgi Sistemleri ::.
+ - [https://obs.iste.edu.tr](https://obs.iste.edu.tr)
+ - date_published: 2024-10-19T16:49:38.907154+00:00
+
+ ## Sürekli Eğitim Merkezi | İSTE
+ - [https://sem.iste.edu.tr](https://sem.iste.edu.tr)
+ - date_published: 2024-10-19T16:49:37.520007+00:00
+
  ## Teknoloji Transfer Ofisi | İSTE
  - [http://tto.iste.edu.tr](http://tto.iste.edu.tr)
  - date_published: 2024-10-19T16:48:19.497245+00:00
@@ -4049,16 +4061,4 @@ NMHSs DIRECTORS
  ## Flirc Blog
  - [http://blog.flirc.tv](http://blog.flirc.tv)
  - date_published: 2024-09-18T21:20:05.475371+00:00
-
- ## Flirc
- - [https://flirc.tv](https://flirc.tv)
- - date_published: 2024-06-15T18:09:50.220385+00:00
-
- ## Flirc Forums
- - [http://forum.flirc.tv](http://forum.flirc.tv)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Hockey | Videos, News & Articles - FloHockey
- - [https://www.flohockey.tv](https://www.flohockey.tv)
- - date_published: 2025-01-09T03:41:35.526766+00:00
 

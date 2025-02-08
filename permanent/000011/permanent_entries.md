@@ -1,3 +1,7 @@
+ ## Tony's Reading List
+ - [https://tonysreadinglist.blogspot.com.au](https://tonysreadinglist.blogspot.com.au)
+ - date_published: 2024-09-05T20:58:17+00:00
+
  ## The Velobanjogent
  - [http://velobanjogent.blogspot.com.au](http://velobanjogent.blogspot.com.au)
  - date_published: 2024-12-29T13:38:24+00:00
@@ -4014,8 +4018,4 @@
  ## 18v Cordless Battery Power Tools
  - [https://www.katanapowertools.com.au](https://www.katanapowertools.com.au)
  - date_published: 2024-12-23T04:24:54.183051+00:00
-
- ## Kate Forsyth - Kate Forsyth
- - [http://www.kateforsyth.com.au](http://www.kateforsyth.com.au)
- - date_published: 2025-01-01T08:44:26.370997+00:00
 

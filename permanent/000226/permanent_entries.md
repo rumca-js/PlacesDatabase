@@ -1,3 +1,7 @@
+ ## Home | ProTradeCraft
+ - [https://protradecraft.com](https://protradecraft.com)
+ - date_published: 2024-05-08T11:51:33.880241+00:00
+
  ## ProCPR
  - [https://www.protrainings.com](https://www.protrainings.com)
  - date_published: 2024-09-04T05:51:42.278945+00:00
@@ -4055,8 +4059,4 @@
  ## Pulsar HRI
  - [https://pulsarhri.com](https://pulsarhri.com)
  - date_published: 2024-08-18T14:11:00.239711+00:00
-
- ## Pulsar - Audience Intelligence and Social Listening Platform
- - [https://pulsarplatform.com](https://pulsarplatform.com)
- - date_published: 2024-06-13T11:20:10+00:00
 

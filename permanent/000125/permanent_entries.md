@@ -1,3 +1,7 @@
+ ## Email on Acid - Email Pre-Deployment Checklist
+ - [https://emailonacid.com](https://emailonacid.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
  ## Identify Website Visitors | Emailpig
  - [https://emailpig.com](https://emailpig.com)
  - date_published: 2024-05-06T14:47:41.397719+00:00
@@ -4040,8 +4044,4 @@
  ## England Football
  - [https://www.englandfootball.com](https://www.englandfootball.com)
  - date_published: 2024-12-12T05:56:03.198240+00:00
-
- ## England FA Store, 2024 England National Team Kits | England Lionesses Shirts, Clothing, Apparel | England FA Shop
- - [https://www.englandstore.com](https://www.englandstore.com)
- - date_published: 2024-12-12T05:56:12.196893+00:00
 

@@ -1,3 +1,7 @@
+ ## Eric Dorsey
+ - [https://ericdorsey.com](https://ericdorsey.com)
+ - date_published: 2024-01-05T17:49:11+00:00
+
  ## Eric Draken - Hard-Problem Solver
  - [https://ericdraken.com](https://ericdraken.com)
  - date_published: 2022-11-05T08:30:47+00:00
@@ -4105,8 +4109,4 @@
  ## KillmondayShop - Etsy Poland
  - [https://killmondayshop.etsy.com](https://killmondayshop.etsy.com)
  - date_published: 2024-10-25T12:59:10.715748+00:00
-
- ## KistStudio - Etsy Poland
- - [https://kiststudio.etsy.com](https://kiststudio.etsy.com)
- - date_published: 2025-01-25T10:54:39.119458+00:00
 

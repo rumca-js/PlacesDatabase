@@ -1,3 +1,7 @@
+ ## Strona główna
+ - [https://medtronic.com](https://medtronic.com)
+ - date_published: 2024-05-10T05:32:13.914998+00:00
+
  ## Newsroom Overview | Medtronic
  - [https://news.medtronic.com](https://news.medtronic.com)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -4019,8 +4023,4 @@
  ## MetaFilter Podcast
  - [https://podcast.metafilter.com](https://podcast.metafilter.com)
  - date_published: 2024-05-09T06:07:09.183000+00:00
-
- ## MetaFilter Projects
- - [https://projects.metafilter.com](https://projects.metafilter.com)
- - date_published: 2024-05-09T06:06:23.513016+00:00
 

@@ -1,3 +1,15 @@
+ ## ФК "Чайка" Юбилейный
+ - [http://www.fc-chaika.ru](http://www.fc-chaika.ru)
+ - date_published: 2025-01-20T21:39:47.903598+00:00
+
+ ## Федеральный центр навигационных данных
+ - [https://fcnd.ru](https://fcnd.ru)
+ - date_published: 2024-07-02T23:46:32.922708+00:00
+
+ ## Fighting.ru - всё о файтингах
+ - [http://www.fighting.ru](http://www.fighting.ru)
+ - date_published: 2024-10-26T09:13:34.576484+00:00
+
  ## ФИЛАНКО интернет провайдер и оператор связи для юридических лиц — ИТ интегратор цифровых решений в России
  - [http://www.filanco.ru](http://www.filanco.ru)
  - date_published: 2025-01-21T21:27:13.579751+00:00
@@ -4007,16 +4019,4 @@
  ## Шкулёв Медиа Холдинг - ведущий медиахолдинг России | Shkulev Media Holding
  - [https://shkulevholding.ru](https://shkulevholding.ru)
  - date_published: 2024-10-27T11:30:47.208484+00:00
-
- ## Алексей Шпаковский
- - [http://alexey.shpakovsky.ru](http://alexey.shpakovsky.ru)
- - date_published: 2021-07-15T17:10:55+00:00
-
- ## Вулкан казино официальный сайт - играть в игровые автоматы Vulcan на реально деньги онлайн
- - [http://shpalikov.ru](http://shpalikov.ru)
- - date_published: 2024-10-14T14:41:53.943817+00:00
-
- ## ШТОСМ
- - [http://shtosm.ru](http://shtosm.ru)
- - date_published: 2024-07-08T12:52:59.837418+00:00
 

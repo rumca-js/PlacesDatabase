@@ -1,3 +1,11 @@
+ ## WiFiman.com - Your Internet Speed Test
+ - [https://wifiman.com](https://wifiman.com)
+ - date_published: 2024-05-06T21:12:05.428984+00:00
+
+ ## Wi-Fi Networking News
+ - [http://www.wifinetnews.com](http://www.wifinetnews.com)
+ - date_published: 2022-11-21T17:45:31+00:00
+
  ## WebGPU-Based WiFi Simulator
  - [https://wifi-solver.com](https://wifi-solver.com)
  - date_published: 2024-10-20T18:01:43+00:00
@@ -3997,12 +4005,4 @@
  ## https://myscp.onlinelibrary.wiley.com
  - [https://myscp.onlinelibrary.wiley.com](https://myscp.onlinelibrary.wiley.com)
  - date_published: 2023-11-07T02:17:31.388440+00:00
-
- ## Newsroom | John Wiley & Sons, Inc.
- - [https://newsroom.wiley.com](https://newsroom.wiley.com)
- - date_published: 2023-12-21T15:13:35.167663+00:00
-
- ## https://onlinelibrary.wiley.com
- - [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
- - date_published: 2023-10-25T18:05:35.898602+00:00
 

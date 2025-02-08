@@ -1,3 +1,11 @@
+ ## DuBlog
+ - [https://dublog.net](https://dublog.net)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Duboce.net
+ - [https://duboce.net](https://duboce.net)
+ - date_published: 2009-09-13T22:48:02+00:00
+
  ## Duke Nukem Repository
  - [https://dnr.duke4.net](https://dnr.duke4.net)
  - date_published: 2024-10-18T19:31:09.074995+00:00
@@ -4037,12 +4045,4 @@
  ## DOMAIN ERROR
  - [http://foodconvention.net](http://foodconvention.net)
  - date_published: 2017-10-17T05:15:44+00:00
-
- ## Foodsoft - software for food cooperatives
- - [https://foodcoops.net](https://foodcoops.net)
- - date_published: 2024-01-24T10:21:02+00:00
-
- ## Foodsoft Forum
- - [https://forum.foodcoops.net](https://forum.foodcoops.net)
- - date_published: 2024-10-31T04:35:19.715842+00:00
 

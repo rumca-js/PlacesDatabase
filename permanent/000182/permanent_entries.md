@@ -1,3 +1,7 @@
+ ## Scientific Editing Services, Manuscript Editing Service, Paper Editing Service | LetPub
+ - [https://letpub.com](https://letpub.com)
+ - date_published: 2024-08-18T14:44:07.449442+00:00
+
  ## Letralia, Tierra de Letras
  - [http://www.letralia.com](http://www.letralia.com)
  - date_published: 2024-12-13T04:57:20.680454+00:00
@@ -4131,9 +4135,4 @@
  ## LiebeFonts · Hand-Made Fonts With Lots of Love
  - [https://liebefonts.com](https://liebefonts.com)
  - date_published: 2024-10-29T14:04:05.851575+00:00
-
- ## Cierpliwości...
- - [https://home.liebertpub.com](https://home.liebertpub.com)
- - date_published: 2024-05-04T07:46:26.716458+00:00
- - date_dead_since: 2025-01-30T10:39:12.246516+00:00
 

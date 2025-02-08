@@ -1,3 +1,7 @@
+ ## Home - Aliette de Bodard
+ - [http://aliettedebodard.com](http://aliettedebodard.com)
+ - date_published: 2024-07-04T13:57:45.710786+00:00
+
  ## alie ward
  - [https://www.alieward.com](https://www.alieward.com)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -4024,8 +4028,4 @@
  ## Blog Informatique, Internet & Jeux vidéos - Actualités & Conseils
  - [https://alternativeinformatique.com](https://alternativeinformatique.com)
  - date_published: 2024-01-02T00:00:00+00:00
-
- ## Alternative Investing Forum
- - [https://www.alternativeinvestingforum.com](https://www.alternativeinvestingforum.com)
- - date_published: 2024-09-24T21:49:06.859601+00:00
 

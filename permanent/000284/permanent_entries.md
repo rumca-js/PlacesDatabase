@@ -1,3 +1,11 @@
+ ## BlueConic: Log In
+ - [https://f703.twincities.com](https://f703.twincities.com)
+ - date_published: 2024-06-24T04:46:54.177253+00:00
+
+ ## Twin Cities
+ - [https://twincities.com](https://twincities.com)
+ - date_published: 2024-06-24T04:46:33.976927+00:00
+
  ## Twin Cities Collage Collective – Connect through Collage
  - [https://twincitiescollagecollective.com](https://twincitiescollagecollective.com)
  - date_published: 2024-05-10T06:25:05.084613+00:00
@@ -4022,12 +4030,4 @@ Twitch Rivals
  ## Semantic Compositions
  - [http://semanticcompositions.typepad.com](http://semanticcompositions.typepad.com)
  - date_published: 2008-06-06T10:13:52+00:00
-
- ## Classics in Contemporary Culture
- - [http://semperegoauditor.typepad.com](http://semperegoauditor.typepad.com)
- - date_published: 2024-07-02T06:35:26.525077+00:00
-
- ## Sentencing Law and Policy
- - [https://sentencing.typepad.com](https://sentencing.typepad.com)
- - date_published: 2024-06-15T02:26:20.408798+00:00
 

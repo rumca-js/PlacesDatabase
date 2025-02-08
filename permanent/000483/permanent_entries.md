@@ -1,3 +1,16 @@
+ ## 문화유산국민신탁
+ - [https://nationaltrustkorea.org](https://nationaltrustkorea.org)
+ - date_published: 2024-10-27T23:43:39.195962+00:00
+ - date_dead_since: 2025-01-30T05:00:26.924279+00:00
+
+ ## National Voter Registration Day
+ - [https://nationalvoterregistrationday.org](https://nationalvoterregistrationday.org)
+ - date_published: 2020-03-02T20:07:40+00:00
+
+ ## Welcome Widowers – National Widowers' Organization
+ - [https://nationalwidowers.org](https://nationalwidowers.org)
+ - date_published: 2024-02-05T00:00:00+00:00
+
  ## Home - National Women's History Alliance
  - [https://nationalwomenshistoryalliance.org](https://nationalwomenshistoryalliance.org)
  - date_published: 2024-08-22T00:00:00+00:00
@@ -4053,16 +4066,4 @@
  ## Old-School Hyena
  - [https://fluffyhyena.neocities.org](https://fluffyhyena.neocities.org)
  - date_published: 2023-03-12T20:25:17+00:00
-
- ## HEY !!
- - [https://foggybear42.neocities.org](https://foggybear42.neocities.org)
- - date_published: 2024-05-14T19:05:31+00:00
-
- ## Foggy Listing
- - [https://foggy-listings.neocities.org](https://foggy-listings.neocities.org)
- - date_published: 2024-01-04T07:47:27+00:00
-
- ## enter if you dare
- - [https://followthewhiterabbit.neocities.org](https://followthewhiterabbit.neocities.org)
- - date_published: 2023-12-19T00:15:52+00:00
 

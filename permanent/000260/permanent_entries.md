@@ -1,3 +1,7 @@
+ ## I Am Not A Product | Kev Fitzsimons | Substack
+ - [https://iamnotaproduct.substack.com](https://iamnotaproduct.substack.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+
  ## I Am Not a Robot | Diego Basch | Substack
  - [https://iamnotarobot.substack.com](https://iamnotarobot.substack.com)
  - date_published: 2023-10-25T09:53:47.300720+00:00
@@ -4070,8 +4074,4 @@
  ## Rafal’s Notes | Substack
  - [https://rafalzawadzki.substack.com](https://rafalzawadzki.substack.com)
  - date_published: 2024-07-12T20:03:03.917168+00:00
-
- ## Rahul’s Renaissance Quest  | Substack
- - [https://rahulmajumdar.substack.com](https://rahulmajumdar.substack.com)
- - date_published: 2024-01-03T00:00:00+00:00
 

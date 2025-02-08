@@ -1,3 +1,15 @@
+ ## 사람과디지털연구소
+ - [https://lifeindigital.org](https://lifeindigital.org)
+ - date_published: 2024-07-09T23:19:39+00:00
+
+ ## Life Is Feudal Server List | Life Is Feudal Multiplayer Servers
+ - [https://life-is-feudal.org](https://life-is-feudal.org)
+ - date_published: 2025-01-02T18:44:35.119051+00:00
+
+ ## Second Renaissance
+ - [https://ecosystem.lifeitself.org](https://ecosystem.lifeitself.org)
+ - date_published: 2024-06-12T12:41:09.514980+00:00
+
  ## We are Life Itself Labs
  - [https://labs.lifeitself.org](https://labs.lifeitself.org)
  - date_published: 2024-06-12T12:38:21.197424+00:00
@@ -4035,16 +4047,4 @@
  ## Home - Maine Education Association
  - [https://maineea.org](https://maineea.org)
  - date_published: 2024-05-30T00:00:00+00:00
-
- ## MaineGeneral Health | Augusta, ME | MaineGeneral
- - [https://mainegeneral.org](https://mainegeneral.org)
- - date_published: 2024-07-12T22:57:50.814019+00:00
-
- ## Maine House Republicans
- - [https://mainehousegop.org](https://mainehousegop.org)
- - date_published: 2023-04-24T00:00:00+00:00
-
- ## Home - Maine Indoor Air Quality Council
- - [https://maineindoorair.org](https://maineindoorair.org)
- - date_published: 2023-03-17T00:00:00+00:00
 

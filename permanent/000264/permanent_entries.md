@@ -1,3 +1,7 @@
+ ## Syntorial: The Ultimate Synthesizer Course
+ - [https://www.syntorial.com](https://www.syntorial.com)
+ - date_published: 2025-01-20T07:59:54.296055+00:00
+
  ## Synty™ Store - 3D Assets for Games (Unity + Unreal)
  - [https://syntystore.com](https://syntystore.com)
  - date_published: 2024-02-21T00:00:00+00:00
@@ -4037,8 +4041,4 @@
  ## Berita Terkini Hari Ini - TangerangNews.com
  - [https://tangerangnews.com](https://tangerangnews.com)
  - date_published: 2024-10-20T08:44:16.942275+00:00
-
- ## Tangerine Art Kits — At-Home Art For Everyone
- - [https://tangerineartkits.com](https://tangerineartkits.com)
- - date_published: 2024-07-09T19:38:15.442347+00:00
 

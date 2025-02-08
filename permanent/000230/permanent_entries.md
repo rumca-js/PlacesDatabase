@@ -1,3 +1,7 @@
+ ## Random Gradients
+ - [https://randomgradients.com](https://randomgradients.com)
+ - date_published: 2021-12-17T20:53:12+00:00
+
  ## Random Hacker News Front Page
  - [https://randomhackernews.com](https://randomhackernews.com)
  - date_published: 2007-02-19T00:00:00+00:00
@@ -4039,8 +4043,4 @@ Top End Devs
  ## PRESIDENCC >> Daftar Akun Gacor X100 PresidenCC Min Bettingan Scatter Mahjong 400Perak!
  - [http://www.reallivepreacher.com](http://www.reallivepreacher.com)
  - date_published: 2024-12-25T09:35:31+00:00
-
- ## Really Good Buildings | Fed Novikov | Substack
- - [https://www.reallygoodbuildings.com](https://www.reallygoodbuildings.com)
- - date_published: 2024-03-18T00:00:00+00:00
 

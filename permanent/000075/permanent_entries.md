@@ -1,3 +1,7 @@
+ ## Nie znaleziono bloga
+ - [http://annawaits.blogspot.com](http://annawaits.blogspot.com)
+ - date_published: 2025-01-01T17:50:01.421730+00:00
+
  ## Annette Bednosky's blog
  - [https://annettebednosky.blogspot.com](https://annettebednosky.blogspot.com)
  - date_published: 2024-10-09T01:28:01+00:00
@@ -4004,8 +4008,4 @@
  ## Königreich der Bleiherzen
  - [http://bleiherzen.blogspot.com](http://bleiherzen.blogspot.com)
  - date_published: 2024-09-11T16:38:28+00:00
-
- ## Blenheim to Berlin
- - [http://blenheimtoberlin.blogspot.com](http://blenheimtoberlin.blogspot.com)
- - date_published: 2024-11-01T10:35:21+00:00
 

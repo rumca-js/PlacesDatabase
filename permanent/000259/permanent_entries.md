@@ -1,3 +1,7 @@
+ ## https://badnewsletter.substack.com
+ - [https://badnewsletter.substack.com](https://badnewsletter.substack.com)
+ - date_published: 2024-01-21T18:29:58.388675+00:00
+
  ## Bad Software Advice | David Tate | Substack
  - [https://badsoftwareadvice.substack.com](https://badsoftwareadvice.substack.com)
  - date_published: 2023-10-25T09:43:18.720440+00:00
@@ -4071,8 +4075,4 @@
  ## IAIN RYAN'S NEWSLETTER | Substack
  - [https://iainryan.substack.com](https://iainryan.substack.com)
  - date_published: 2024-08-17T22:26:39.597186+00:00
-
- ## I Am Not A Product | Kev Fitzsimons | Substack
- - [https://iamnotaproduct.substack.com](https://iamnotaproduct.substack.com)
- - date_published: 2024-01-01T00:00:00+00:00
 

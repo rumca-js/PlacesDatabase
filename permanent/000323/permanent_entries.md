@@ -1,3 +1,11 @@
+ ## Jobs & Stellenangebote - Jobware, da hab' ich den Job her!
+ - [https://www.jobware.de](https://www.jobware.de)
+ - date_published: 2024-07-24T04:40:06.133394+00:00
+
+ ## Jochen Hoenicke
+ - [https://jochen-hoenicke.de](https://jochen-hoenicke.de)
+ - date_published: 2025-01-25T13:00:02.106378+00:00
+
  ## J&K – Jöran und Konsorten
  - [https://joeran.de](https://joeran.de)
  - date_published: 2025-01-21T15:38:52.769425+00:00
@@ -4007,12 +4015,4 @@
  ## martinc.de
  - [https://martinc.de](https://martinc.de)
  - date_published: 2023-12-31T21:19:53.764563+00:00
-
- ## Martin Hähnel
- - [https://blog.martin-haehnel.de](https://blog.martin-haehnel.de)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## MARTINIMUSIC: Livemusic • Showacts • Inszenierungen
- - [https://martinimusic.de](https://martinimusic.de)
- - date_published: 2024-07-13T03:30:43.369284+00:00
 

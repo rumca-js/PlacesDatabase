@@ -1,3 +1,7 @@
+ ## David Hillier freelance writer, journalist and copywriter | Home
+ - [http://davidhillierwrites.com](http://davidhillierwrites.com)
+ - date_published: 2024-07-13T14:56:35.011494+00:00
+
  ## David Hoang
  - [https://davidhoang.com](https://davidhoang.com)
  - date_published: 2024-05-10T00:00:00+00:00
@@ -4063,8 +4067,4 @@
  ## DeepSource: The Code Health Platform
  - [https://deepsource.com](https://deepsource.com)
  - date_published: 2024-04-16T00:00:00+00:00
-
- ## DeepSource Discuss
- - [https://discuss.deepsource.com](https://discuss.deepsource.com)
- - date_published: 2024-04-23T00:00:00+00:00
 

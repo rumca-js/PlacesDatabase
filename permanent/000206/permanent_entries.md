@@ -1,3 +1,7 @@
+ ## Creating Global Memory | New7Wonders of Nature
+ - [https://nature.new7wonders.com](https://nature.new7wonders.com)
+ - date_published: 2024-06-30T09:53:14.050843+00:00
+
  ## Creating Global Memory | Home
  - [https://world.new7wonders.com](https://world.new7wonders.com)
  - date_published: 2024-05-07T16:01:58.979942+00:00
@@ -4011,8 +4015,4 @@
  ## NextGen Bootcamp: High School Coding & Design Bootcamps
  - [https://nextgenbootcamp.com](https://nextgenbootcamp.com)
  - date_published: 2024-06-21T19:08:48+00:00
-
- ## Next-Gen Computer Architecture, Smruti R. Sarangi
- - [http://www.nextgencomparch.com](http://www.nextgencomparch.com)
- - date_published: 2024-08-15T14:42:27+00:00
 

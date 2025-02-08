@@ -1,3 +1,15 @@
+ ## Murator Poradniki
+ - [https://poradniki.murator.pl](https://poradniki.murator.pl)
+ - date_published: 2024-07-09T17:52:52.274036+00:00
+
+ ## Murator: prenumerata online lub druk+online
+ - [https://prenumerata.murator.pl](https://prenumerata.murator.pl)
+ - date_published: 2024-07-09T17:52:51.151024+00:00
+
+ ## Projekty domów i projekt domu na zamówienie - Murator projekty
+ - [http://projekty.murator.pl](http://projekty.murator.pl)
+ - date_published: 2024-07-09T17:51:32.084336+00:00
+
  ## Pięknie wokół domu
  - [https://wokoldomu.murator.pl](https://wokoldomu.murator.pl)
  - date_published: 2024-07-09T17:52:41.382018+00:00
@@ -4090,17 +4102,4 @@
  ## Fundacja Edukacji Prawnej IUSTITIA
  - [https://www.edukacja.iustitia.prawo.pl](https://www.edukacja.iustitia.prawo.pl)
  - date_published: 2024-08-18T15:35:09.719573+00:00
-
- ## Prawo Dla Samorządu
- - [http://prawodlasamorzadu.pl](http://prawodlasamorzadu.pl)
- - date_published: 2024-12-29T23:51:39.364231+00:00
-
- ## Strona główna
- :: Prawo Drogowe
- - [https://prawodrogowe.pl](https://prawodrogowe.pl)
- - date_published: 2024-05-11T08:18:43.524240+00:00
-
- ## Prawy Las
- - [http://prawylas.pl](http://prawylas.pl)
- - date_published: 2024-08-06T22:38:22.866246+00:00
 

@@ -1,3 +1,7 @@
+ ## FATJOE. The Smarter Way To Get SEO Done.
+ - [https://fatjoe.com](https://fatjoe.com)
+ - date_published: 2024-10-30T12:09:18.389348+00:00
+
  ## WordPress Hosting Support with Premium Expertise
  - [https://fatlabwebsupport.com](https://fatlabwebsupport.com)
  - date_published: 2024-12-30T08:14:50+00:00
@@ -4095,8 +4099,4 @@ Now doing business as Geoffrey Ferrell Associates
  ## #FF.Pickup - Fortress-Forever pickups on the Quakenet network
  - [https://ffpickup.com](https://ffpickup.com)
  - date_published: 2024-04-28T06:06:49.609422+00:00
-
- ## Fortress Forever Log Parser
- - [http://parser.ffpickup.com](http://parser.ffpickup.com)
- - date_published: 2012-11-12T08:18:00+00:00
 

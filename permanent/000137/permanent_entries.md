@@ -1,3 +1,7 @@
+ ## Fortress Forever Log Parser
+ - [http://parser.ffpickup.com](http://parser.ffpickup.com)
+ - date_published: 2012-11-12T08:18:00+00:00
+
  ## FINAL FANTASY PIXEL REMASTER
  - [https://ffpixelremaster.com](https://ffpixelremaster.com)
  - date_published: 2024-07-11T16:40:20.370016+00:00
@@ -4030,8 +4034,4 @@
  ## Sign in - Google Accounts
  - [https://personal-site-1c55c.firebaseio.com](https://personal-site-1c55c.firebaseio.com)
  - date_published: 2024-07-14T09:11:35.689754+00:00
-
- ## Sign in - Google Accounts
- - [https://ravenews-6ac8e.firebaseio.com](https://ravenews-6ac8e.firebaseio.com)
- - date_published: 2024-08-05T23:57:53.754339+00:00
 
