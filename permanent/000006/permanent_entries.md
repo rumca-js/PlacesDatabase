@@ -1,3 +1,186 @@
+ ## Permita-me usar o Google para você
+ - [https://pt-br.lmgtfy.app](https://pt-br.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:18.985544+00:00
+
+ ## Permita-me usar o Google para você
+ - [https://pt.lmgtfy.app](https://pt.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:14.086810+00:00
+
+ ## LMGTFY - Let Me Google That For You
+ - [https://ro.lmgtfy.app](https://ro.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:38.524127+00:00
+
+ ## Давай я поищу в Google вместо тебя
+ - [https://ru.lmgtfy.app](https://ru.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:27.855131+00:00
+
+ ## LMGTFY - Let Me Google That For You
+ - [https://sk.lmgtfy.app](https://sk.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:25.085957+00:00
+
+ ## LMGTFY - Let Me Google That For You
+ - [https://sr.lmgtfy.app](https://sr.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:39.837890+00:00
+
+ ## LMGTFY - Let Me Google That For You
+ - [https://sv.lmgtfy.app](https://sv.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:08.727191+00:00
+
+ ## LMGTFY ให้ฉัน Google สำหรับคุณ
+ - [https://th.lmgtfy.app](https://th.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:41.427257+00:00
+
+ ## LMGTFY - Let Me Google That For You
+ - [https://tr.lmgtfy.app](https://tr.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:29.504839+00:00
+
+ ## LMGTFY - Let Me Google That For You
+ - [https://uk.lmgtfy.app](https://uk.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:20.262352+00:00
+
+ ## LMGTFY - Let Me Google That For You
+ - [https://vi.lmgtfy.app](https://vi.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:04.640507+00:00
+
+ ## LMGTFY - Let Me Google That For You
+ - [https://zh.lmgtfy.app](https://zh.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:01.440275+00:00
+
+ ## Liminal overview
+ - [https://docs.lmnl.app](https://docs.lmnl.app)
+ - date_published: 2024-09-25T10:49:41.228797+00:00
+
+ ## Best Institutional Digital Asset Custody Platform
+ - [https://www.lmnl.app](https://www.lmnl.app)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Loadster — Load Testing & Website Stress Testing Tool
+ - [https://loadster.app](https://loadster.app)
+ - date_published: 2024-08-09T20:39:04+00:00
+
+ ## The Local AI Playground
+ - [https://www.localai.app](https://www.localai.app)
+ - date_published: 2024-06-19T21:09:18.556837+00:00
+
+ ## locize
+ - [https://www.locize.app](https://www.locize.app)
+ - date_published: 2024-08-16T19:56:00+00:00
+
+ ## main [
+				Locus Map 4 - Knowledge Base]
+ - [https://docs.locusmap.app](https://docs.locusmap.app)
+ - date_published: 2024-06-20T12:18:27.864370+00:00
+
+ ## Locus Live Tracking - Locus Live Tracking
+ - [https://live-tracking.locusmap.app](https://live-tracking.locusmap.app)
+ - date_published: 2024-06-20T12:18:29.502006+00:00
+
+ ## Locus Map Web
+ - [https://web.locusmap.app](https://web.locusmap.app)
+ - date_published: 2024-06-10T13:00:31+00:00
+
+ ## Locus Map - mobile outdoor navigation app
+ - [https://www.locusmap.app](https://www.locusmap.app)
+ - date_published: 2024-06-20T12:18:18.417773+00:00
+ - tags: ['mobile app']
+
+ ## Taiki Radio
+ - [https://lofimusic.app](https://lofimusic.app)
+ - date_published: 2024-04-29T07:45:26.290737+00:00
+
+ ## Log4u | Monitor your website
+ - [https://log4u.app](https://log4u.app)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## LoginLlama | Suspicious Login Detection for Developers
+ - [https://loginllama.app](https://loginllama.app)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Looom - Ambient Sound Mixer
+ - [https://looom.app](https://looom.app)
+ - date_published: 2024-10-03T17:26:41+00:00
+
+ ## Loox Shopify Reviews App - Product Reviews & Referrals
+ - [http://loox.app](http://loox.app)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Loox - Status Page
+ - [https://status.loox.app](https://status.loox.app)
+ - date_published: 2024-08-08T16:36:52.398539+00:00
+
+ ## Loshadki Apps
+ - [https://loshadki.app](https://loshadki.app)
+ - date_published: 2024-08-08T08:03:20+00:00
+
+ ## Show HN: I created an app for you to be a more unpredictable romantic partner
+ - [https://lovefuel.app](https://lovefuel.app)
+ - date_published: 2024-05-12T19:14:39+00:00
+
+ ## Quick Start
+ - [https://learn.lowercase.app](https://learn.lowercase.app)
+ - date_published: 2024-06-21T02:05:40.174002+00:00
+
+ ## Lowercase – A simple way to take and share notes
+ - [https://www.lowercase.app](https://www.lowercase.app)
+ - date_published: 2024-05-03T14:39:49+00:00
+ - tags: ['online tool', 'notes', 'monetization']
+
+ ## Lucid visual collaboration suite: Log in
+ - [https://admin.lucid.app](https://admin.lucid.app)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Lucid visual collaboration suite: Log in
+ - [https://cdn.lucid.app](https://cdn.lucid.app)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Lucid visual collaboration suite: Log in
+ - [https://lucid.app](https://lucid.app)
+ - date_published: 2024-05-06T14:03:14.137469+00:00
+
+ ## Lucky168 เว็บตรงมาแรง รวมทุกค่าย รองรับวอเลท ระบบดี
+ - [https://lucky168-th.app](https://lucky168-th.app)
+ - date_published: 2025-02-03T04:16:17.154891+00:00
+
+ ## Lumy for YNAB
+ - [https://lumyforynab.app](https://lumyforynab.app)
+ - date_published: 2024-08-04T00:36:55+00:00
+
+ ## Lunar: The smarter way to bank
+ - [https://lunar.app](https://lunar.app)
+ - date_published: 2024-10-31T15:58:21.256816+00:00
+
+ ## Lunar Status
+ - [https://status.lunar.app](https://status.lunar.app)
+ - date_published: 2024-12-14T19:26:50.642862+00:00
+
+ ## Get help
+ - [https://support.lunar.app](https://support.lunar.app)
+ - date_published: 2024-12-14T19:26:43.672283+00:00
+
+ ## LunaSea – Self-Hosted Controller
+ - [https://lunasea.app](https://lunasea.app)
+ - date_published: 2021-01-14T00:00:00+00:00
+
+ ## Lunette
+ - [https://lunette.app](https://lunette.app)
+ - date_published: 2023-06-28T21:45:29+00:00
+
+ ## Lungy App: Next-Gen Breathing Exercises
+ - [https://lungy.app](https://lungy.app)
+ - date_published: 2023-10-25T11:47:06.937675+00:00
+
+ ## Home
+ - [https://lunr.app](https://lunr.app)
+ - date_published: 2024-09-09T16:33:10.796583+00:00
+
+ ## Maccy - macOS clipboard manager
+ - [https://maccy.app](https://maccy.app)
+ - date_published: 2023-03-17T16:34:58+00:00
+
+ ## MAC Address Vendor Lookup | MAC Address Lookup
+ - [https://maclookup.app](https://maclookup.app)
+ - date_published: 2023-10-25T11:47:09.365217+00:00
+
  ## MACLookup API Admin | Log in
  - [https://my.maclookup.app](https://my.maclookup.app)
  - date_published: 2024-08-19T11:48:49.331927+00:00
@@ -94,6 +277,10 @@
  ## Map Buddy
  - [https://mapbuddy.app](https://mapbuddy.app)
  - date_published: 2024-07-14T09:13:52.761101+00:00
+
+ ## La Meuse - Explorer
+ - [https://lameuse.maplab.app](https://lameuse.maplab.app)
+ - date_published: 2025-02-09T14:41:29.308764+00:00
 
  ## MRBL: The #1 Link in Golf
  - [https://get.marble.app](https://get.marble.app)
@@ -412,6 +599,10 @@
  ## MQTTX: Your All-in-one MQTT Client Toolbox
  - [https://mqttx.app](https://mqttx.app)
  - date_published: 2024-07-17T10:01:57+00:00
+
+ ## Msty - Using AI Models made Simple and Easy
+ - [https://msty.app](https://msty.app)
+ - date_published: 2025-02-09T08:35:44.423169+00:00
 
  ## Mu
  - [https://mu.app](https://mu.app)
@@ -3073,6 +3264,10 @@ The Album
  - [https://quickreplies.app](https://quickreplies.app)
  - date_published: 2025-01-21T23:02:09.993587+00:00
 
+ ## Quick Reviews
+ - [https://quickreviews.app](https://quickreviews.app)
+ - date_published: 2025-02-09T09:46:22.545418+00:00
+
  ## Quina
  - [https://quina.app](https://quina.app)
  - date_published: 2024-06-23T06:09:16.003506+00:00
@@ -3845,200 +4040,4 @@ The Album
  ## snippet generator
  - [https://snippet-generator.app](https://snippet-generator.app)
  - date_published: 2024-06-23T06:14:36.817703+00:00
-
- ## Snippety - Productivity App for macOS
- - [https://snippety.app](https://snippety.app)
- - date_published: 2024-06-11T20:53:08+00:00
-
- ## Snoop | Track spending, save money & budget | Money management app
- - [https://snoop.app](https://snoop.app)
- - date_published: 2024-07-08T09:30:43+00:00
-
- ## Getting Started - Snowpixel Guide
- - [https://docs.snowpixel.app](https://docs.snowpixel.app)
- - date_published: 2024-10-30T08:29:48.360814+00:00
-
- ## Snowpixel App
- - [https://snowpixel.app](https://snowpixel.app)
- - date_published: 2024-04-11T19:45:39+00:00
-
- ## Sock - The simplest way to earn yield on your crypto
- - [https://www.sock.app](https://www.sock.app)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Football - scores, schedule & odds | Sofascore
- - [https://api.sofascore.app](https://api.sofascore.app)
- - date_published: 2024-06-18T06:24:31.834934+00:00
-
- ## AI Recipe Generator
- - [https://ai-recipes.softr.app](https://ai-recipes.softr.app)
- - date_published: 2023-02-12T00:00:00+00:00
-
- ## Home
- - [https://earthremote.softr.app](https://earthremote.softr.app)
- - date_published: 2025-01-09T11:07:39.190365+00:00
-
- ## Home
- - [https://miamitechresourcehub.softr.app](https://miamitechresourcehub.softr.app)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home
- - [https://startify.softr.app](https://startify.softr.app)
- - date_published: 2023-09-04T00:00:00+00:00
-
- ## soketi | Soketi
- - [https://docs.soketi.app](https://docs.soketi.app)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## soketi
- - [https://soketi.app](https://soketi.app)
- - date_published: 2024-06-19T22:08:57.323278+00:00
-
- ## SolarAssets | Micro-Investments in Photovoltaic Projects
- - [https://solarassets.app](https://solarassets.app)
- - date_published: 2024-05-10T07:01:27.220472+00:00
-
- ## Solid Movies
- - [https://solid-movies.app](https://solid-movies.app)
- - date_published: 2024-06-23T03:22:51.413659+00:00
-
- ## Sombras.app
- - [https://sombras.app](https://sombras.app)
- - date_published: 2024-09-03T21:42:11.624755+00:00
-
- ## Songen
- - [https://www.songen.app](https://www.songen.app)
- - date_published: 2025-01-15T01:37:17.581094+00:00
-
- ## Soon
- - [https://my.soon.app](https://my.soon.app)
- - date_published: 2024-10-30T15:21:46+00:00
-
- ## Soon: Fully Automated Crypto Investing
- - [https://soon.app](https://soon.app)
- - date_published: 2024-11-11T15:20:16+00:00
-
- ## Soupault: A static website management tool
- - [https://soupault.app](https://soupault.app)
- - date_published: 2024-03-23T02:19:13+00:00
- - tags: ['static websites']
-
- ## Sovryn
- - [https://alpha.sovryn.app](https://alpha.sovryn.app)
- - date_published: 2025-01-11T21:41:40.454431+00:00
-
- ## Sovryn Bitocracy
- - [https://bitocracy.sovryn.app](https://bitocracy.sovryn.app)
- - date_published: 2025-01-25T04:31:48.132403+00:00
-
- ## Sovryn
- - [https://forum.sovryn.app](https://forum.sovryn.app)
- - date_published: 2025-01-11T21:39:56.616389+00:00
-
- ## Sovryn - DeFi for bitcoin
- - [https://sovryn.app](https://sovryn.app)
- - date_published: 2024-09-23T07:44:04.356207+00:00
-
- ## Overview of Sovryn
- - [https://wiki.sovryn.app](https://wiki.sovryn.app)
- - date_published: 2025-01-11T21:41:24.771697+00:00
-
- ## Space Capsule
- - [https://spacecapsule.app](https://spacecapsule.app)
- - date_published: 2024-06-22T06:22:34.279205+00:00
-
- ## SparkLoop
- - [https://dash.sparkloop.app](https://dash.sparkloop.app)
- - date_published: 2024-04-28T06:24:15.100391+00:00
-
- ## SparkLoop Help Center
- - [https://help.sparkloop.app](https://help.sparkloop.app)
- - date_published: 2024-09-15T19:38:29.490919+00:00
-
- ## SparkLoop
- - [https://js.sparkloop.app](https://js.sparkloop.app)
- - date_published: 2024-05-02T12:58:16.744885+00:00
-
- ## Proof
- - [https://proof.sparkloop.app](https://proof.sparkloop.app)
- - date_published: 2024-06-19T06:58:35.450662+00:00
-
- ## SparkLoop | The Best Way To Grow & Monetize Your Newsletter
- - [https://sparkloop.app](https://sparkloop.app)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## SparkLoop Help Center
- - [https://support.sparkloop.app](https://support.sparkloop.app)
- - date_published: 2024-09-15T14:44:14.659226+00:00
-
- ## Spartacus
- - [https://spartacus.app](https://spartacus.app)
- - date_published: 2024-05-08T09:58:04.953286+00:00
-
- ## Speakle
- - [https://speakle.app](https://speakle.app)
- - date_published: 2024-05-18T02:48:01.004735+00:00
-
- ## Spectrolite
- - [https://spectrolite.app](https://spectrolite.app)
- - date_published: 2023-10-25T11:48:58.865948+00:00
-
- ## Welcome to Asm-Editor
- - [https://asm-editor.specy.app](https://asm-editor.specy.app)
- - date_published: 2023-10-25T11:49:02.976604+00:00
- - tags: ['online tool', 'programming ide', 'm68k', 'asm-editor', 'assembly']
-
- ## Specy
- - [https://specy.app](https://specy.app)
- - date_published: 2024-07-11T15:42:53.270688+00:00
-
- ## SpeechPro
- - [https://speechpro.app](https://speechpro.app)
- - date_published: 2024-11-15T00:18:30.172893+00:00
-
- ## speedscope
- - [https://speedscope.app](https://speedscope.app)
- - date_published: 2024-01-12T17:59:26+00:00
-
- ## SpellBox - AI programming assistant
- - [https://spellbox.app](https://spellbox.app)
- - date_published: 2024-06-19T20:54:53.002663+00:00
-
- ## Spicy Chat AI
- - [https://spicychatai.app](https://spicychatai.app)
- - date_published: 2024-09-02T10:08:24.739431+00:00
- - tags: ['artificial intelligence bot']
-
- ## Spliit · Share Expenses with Friends & Family
- - [https://spliit.app](https://spliit.app)
- - date_published: 2024-08-19T03:52:39.937224+00:00
-
- ## Splitfocus – Discover great photography
- - [https://splitfocus.app](https://splitfocus.app)
- - date_published: 2024-07-09T19:05:34.007490+00:00
-
- ## AI Face Swap Online | Anakin.ai
- - [https://www.spreadai.app](https://www.spreadai.app)
- - date_published: 2024-06-19T19:03:56.021247+00:00
-
- ## SQL Genius - SQL AI generator - Translate English to SQL Query
- - [https://sqlgenius.app](https://sqlgenius.app)
- - date_published: 2024-01-11T02:10:43+00:00
-
- ## SQLite Viewer Web
- - [https://alpha.sqliteviewer.app](https://alpha.sqliteviewer.app)
- - date_published: 2024-06-14T09:17:47.544921+00:00
-
- ## SQLite Viewer Web
- - [https://beta.sqliteviewer.app](https://beta.sqliteviewer.app)
- - date_published: 2024-09-14T08:09:01.628570+00:00
-
- ## Counterscale
- - [https://counterscale.sqliteviewer.app](https://counterscale.sqliteviewer.app)
- - date_published: 2024-09-14T08:09:03.148703+00:00
-
- ## SQLite Viewer Web App
- - [https://sqliteviewer.app](https://sqliteviewer.app)
- - date_published: 2024-06-14T09:17:12+00:00
- - tags: ['online tool', 'sqllite']
 

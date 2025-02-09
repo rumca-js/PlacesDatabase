@@ -1,3 +1,107 @@
+ ## Kin. A personal AI for your private life.
+ - [https://mykin.ai](https://mykin.ai)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Mylinks | Bio pages made for creators.
+ - [https://mylinks.ai](https://mylinks.ai)
+ - date_published: 2024-06-21T18:48:10+00:00
+
+ ## mylogo.ai - AI Logo Designer
+ - [https://mylogo.ai](https://mylogo.ai)
+ - date_published: 2024-08-19T12:00:07.742885+00:00
+
+ ## Myloves.ai: Chat & Create Your Romantic AI Companion
+ - [https://myloves.ai](https://myloves.ai)
+ - date_published: 2024-12-23T10:57:45+00:00
+
+ ## Mapping Ideas That Change the World
+ - [https://mymap.ai](https://mymap.ai)
+ - date_published: 2024-09-13T20:28:33.493716+00:00
+
+ ## Marky - Powerful AI Social Media Marketing
+ - [https://mymarky.ai](https://mymarky.ai)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## AI Math Solver Powered by Math GPT Free Online
+ - [https://mymathsolver.ai](https://mymathsolver.ai)
+ - date_published: 2024-07-10T00:02:57.170500+00:00
+
+ ## MyMealPlan - Home
+ - [https://mymealplan.ai](https://mymealplan.ai)
+ - date_published: 2024-06-19T19:27:23.501384+00:00
+
+ ## Minutes - AI Note Taking & Transcription
+ - [https://myminutes.ai](https://myminutes.ai)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Myreader - Let an AI read books, documents, papers for you
+ - [https://www.myreader.ai](https://www.myreader.ai)
+ - date_published: 2024-10-30T07:11:05.446503+00:00
+
+ ## myremix.ai
+ - [https://myremix.ai](https://myremix.ai)
+ - date_published: 2024-06-21T18:29:00+00:00
+
+ ## My AI Room Designer: Design Your Dream Space Online
+ - [https://myroomdesigner.ai](https://myroomdesigner.ai)
+ - date_published: 2024-10-30T21:18:28.369706+00:00
+
+ ## Myrtle - Machine learning acceleration for the data center
+ - [https://myrtle.ai](https://myrtle.ai)
+ - date_published: 2025-02-04T13:07:53.696404+00:00
+
+ ## Cierpliwości...
+ - [http://app.myshell.ai](http://app.myshell.ai)
+ - date_published: 2024-06-19T19:06:55.062010+00:00
+
+ ## MyShell AI | Build, Share, and Own AI Chat.
+ - [https://myshell.ai](https://myshell.ai)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## MyShell TTS
+ - [https://research.myshell.ai](https://research.myshell.ai)
+ - date_published: 2024-03-29T10:12:26.443638+00:00
+
+ ## Mysports AI - Mysports AI - The best AI sports prediction tool on the market
+ - [https://mysports.ai](https://mysports.ai)
+ - date_published: 2024-09-13T20:26:32.346485+00:00
+
+ ## Mystic.ai
+ - [https://mystic.ai](https://mystic.ai)
+ - date_published: 2024-10-17T05:51:19.267119+00:00
+
+ ## ChaturGPT- Get answers from your documents using AI
+ - [https://chatur.mysticlabs.ai](https://chatur.mysticlabs.ai)
+ - date_published: 2024-06-19T19:33:47.856043+00:00
+
+ ## Power-efficient analog compute for edge AI - Mythic
+ - [https://mythic.ai](https://mythic.ai)
+ - date_published: 2023-11-15T17:21:43.194605+00:00
+
+ ## Mytra
+ - [https://mytra.ai](https://mytra.ai)
+ - date_published: 2024-10-31T12:22:08.980688+00:00
+
+ ## Get Nack
+ - [https://get.nack.ai](https://get.nack.ai)
+ - date_published: 2023-06-07T20:08:15+00:00
+
+ ## ChatGPT and AI Mobile App | Nack
+ - [https://nack.ai](https://nack.ai)
+ - date_published: 2024-08-24T00:56:22+00:00
+
+ ## Name Drop AI
+ - [https://name-drop.ai](https://name-drop.ai)
+ - date_published: 2024-05-31T05:25:13+00:00
+
+ ## Name Drop AI
+ - [https://wwww.name-drop.ai](https://wwww.name-drop.ai)
+ - date_published: 2024-08-05T13:29:53+00:00
+
+ ## Find the perfect name with Cuqui Baby Names
+ - [https://namewith.ai](https://namewith.ai)
+ - date_published: 2024-10-30T09:14:45.967638+00:00
+
  ## namewizard.ai - your AI-superpowered domain name generator
  - [https://namewizard.ai](https://namewizard.ai)
  - date_published: 2024-06-19T20:12:21.322551+00:00
@@ -1786,6 +1890,10 @@
  - [https://prutor.ai](https://prutor.ai)
  - date_published: 2024-08-05T18:22:48+00:00
 
+ ## Eyewear Recommender
+ - [https://eyewear-v2.pttrns.ai](https://eyewear-v2.pttrns.ai)
+ - date_published: 2025-02-09T09:36:19.115994+00:00
+
  ## PumasAI | Fine-tuned to drug development needs & healthcare delivery | PumasAI
  - [https://pumas.ai](https://pumas.ai)
  - date_published: 2024-05-08T09:51:10.927513+00:00
@@ -2219,6 +2327,10 @@
  ## Reality Defender — Deepfake Detection
  - [https://www.realitydefender.ai](https://www.realitydefender.ai)
  - date_published: 2025-01-16T08:08:17.952132+00:00
+
+ ## Rebellions
+ - [https://rebellions.ai](https://rebellions.ai)
+ - date_published: 2025-02-09T10:25:49.101351+00:00
 
  ## Rebind | Read Like Never Before With Experts, AI, & Original Content
  - [https://rebind.ai](https://rebind.ai)
@@ -2714,6 +2826,10 @@
  - date_published: 2024-04-03T00:00:00+00:00
  - tags: ['artificial intelligence', 'robotics']
 
+ ## Own today - Rise Up
+ - [https://www.careers.riseup.ai](https://www.careers.riseup.ai)
+ - date_published: 2025-02-09T12:00:25.681636+00:00
+
  ## Rise Up - Permettre à vos apprenants de rester up-to-skill
  - [https://www.riseup.ai](https://www.riseup.ai)
  - date_published: 2025-01-31T17:10:16.092275+00:00
@@ -3048,6 +3164,10 @@
  - [https://scrappychef.ai](https://scrappychef.ai)
  - date_published: 2024-06-19T20:37:50+00:00
 
+ ## ScreenSnapAI - AI Powered Screenshot Assistant
+ - [https://screensnap.ai](https://screensnap.ai)
+ - date_published: 2025-02-09T10:28:27.694771+00:00
+
  ## Scribbly – AI-powered Email Writing
  - [https://scribbly.ai](https://scribbly.ai)
  - date_published: 2024-06-19T19:57:13.435693+00:00
@@ -3145,6 +3265,10 @@
  ## Secure Privacy
  - [https://secureprivacy.ai](https://secureprivacy.ai)
  - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Securiti
+ - [https://app5.securiti.ai](https://app5.securiti.ai)
+ - date_published: 2025-02-09T16:12:17.470372+00:00
 
  ## Securiti
  - [https://app.eu.securiti.ai](https://app.eu.securiti.ai)
@@ -3581,6 +3705,10 @@
  - [https://freefly.portal.skywatch.ai](https://freefly.portal.skywatch.ai)
  - date_published: 2024-09-03T07:23:26+00:00
 
+ ## Slang.ai | Your Answer for Missed Calls
+ - [https://www.slang.ai](https://www.slang.ai)
+ - date_published: 2025-02-09T16:14:41.211546+00:00
+
  ## Slides
  - [https://slideas.ai](https://slideas.ai)
  - date_published: 2024-06-19T21:11:20.927804+00:00
@@ -3909,133 +4037,4 @@
  ## Spot AI Help Center
  - [https://helpcenter.spot.ai](https://helpcenter.spot.ai)
  - date_published: 2024-10-12T22:32:52.425761+00:00
-
- ## Spot AI Help Center
- - [https://help.spot.ai](https://help.spot.ai)
- - date_published: 2024-10-12T22:31:35.669793+00:00
-
- ## Spot AI
- - [https://partners.spot.ai](https://partners.spot.ai)
- - date_published: 2018-03-28T00:00:00+00:00
-
- ## Spot AI: Video Intelligence for Better Decision-Making
- - [https://spot.ai](https://spot.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Spot On Chain - Platform
- - [https://platform.spotonchain.ai](https://platform.spotonchain.ai)
- - date_published: 2024-07-03T10:44:04.454818+00:00
-
- ## Spot On Chain - Spot the opportunities, unlock insights
- - [https://spotonchain.ai](https://spotonchain.ai)
- - date_published: 2024-07-03T10:44:07.085048+00:00
-
- ## Feedeo - AI Interactive Video Generator
- - [https://feedeo.spreading.ai](https://feedeo.spreading.ai)
- - date_published: 2024-09-13T20:25:32.854631+00:00
-
- ## Spreadsheets are all you need: Understanding GPT2 and Transformers
- - [https://spreadsheets-are-all-you-need.ai](https://spreadsheets-are-all-you-need.ai)
- - date_published: 2024-02-24T07:20:03+00:00
-
- ## Large Language Models Capture-the-Flag (LLM CTF) Competition
- - [https://ctf.spylab.ai](https://ctf.spylab.ai)
- - date_published: 2024-05-10T05:01:52.474733+00:00
-
- ## SPY Lab
- - [https://spylab.ai](https://spylab.ai)
- - date_published: 2024-10-23T08:04:06+00:00
-
- ## Home
- - [https://spyne.ai](https://spyne.ai)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Generate SQL Queries in Seconds for Free - SQLAI.ai
- - [https://sqlai.ai](https://sqlai.ai)
- - date_published: 2024-07-10T00:03:12.088909+00:00
-
- ## SQL Chat
- - [https://sqlchat.ai](https://sqlchat.ai)
- - date_published: 2024-06-23T00:01:08.359533+00:00
-
- ## Squeaky | The privacy friendly analytics platform
- - [https://squeaky.ai](https://squeaky.ai)
- - date_published: 2023-10-25T11:42:53.549367+00:00
- - date_dead_since: 2025-01-06T13:37:18.772795+00:00
-
- ## Introducing Squigl AI™ by TruScribe®, a Microsoft Partner
- - [https://squigl.ai](https://squigl.ai)
- - date_published: 2024-06-19T18:54:03.833247+00:00
-
- ## Stability AI
- - [https://ja.stability.ai](https://ja.stability.ai)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Stability AI - Developer Platform
- - [https://platform.stability.ai](https://platform.stability.ai)
- - date_published: 2024-05-06T18:19:28.147254+00:00
-
- ## Stability AI
- - [https://stability.ai](https://stability.ai)
- - date_published: 2023-10-25T11:42:56.624602+00:00
-
- ## Artist Spotlight | Staccato
- - [https://artists.staccato.ai](https://artists.staccato.ai)
- - date_published: 2024-10-30T22:23:23.881514+00:00
-
- ## AI Music In The Charts: Are AI Chart Toppers A Reality Already?
- - [https://blog.staccato.ai](https://blog.staccato.ai)
- - date_published: 2024-10-30T22:23:26.705886+00:00
-
- ## Staccato
- - [https://dashboard.staccato.ai](https://dashboard.staccato.ai)
- - date_published: 2024-10-30T22:23:27.306664+00:00
-
- ## Staccato | AI Tools for Music Makers | MIDI Music & Lyrics
- - [https://staccato.ai](https://staccato.ai)
- - date_published: 2024-06-19T21:28:28.112726+00:00
-
- ## Agency AI
- - [https://staf.ai](https://staf.ai)
- - date_published: 2024-12-15T07:49:24.929277+00:00
-
- ## AI Safety Advocacy: Safer AI Grassroots Movement for AI Laws
- - [https://stakeout.ai](https://stakeout.ai)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Stamped CPA firm & Accounting Technologies
- - [https://stamped.ai](https://stamped.ai)
- - date_published: 2024-12-14T15:26:44+00:00
-
- ## Home - Standard AI
- - [https://standard.ai](https://standard.ai)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Home
- - [https://stargazr.ai](https://stargazr.ai)
- - date_published: 2024-08-18T02:38:33.147524+00:00
-
- ## Starmind | AI-Powered, Organization-Wide Expertise Directory
- - [https://starmind.ai](https://starmind.ai)
- - date_published: 2024-06-16T20:43:49+00:00
-
- ## Trust Center
- - [https://trust.starmind.ai](https://trust.starmind.ai)
- - date_published: 2024-10-30T07:46:11.900526+00:00
-
- ## StartupDream.ai
- - [https://www.startupdream.ai](https://www.startupdream.ai)
- - date_published: 2024-10-30T11:12:48.065258+00:00
-
- ## Stately - Build complex logic intelligently
- - [https://stately.ai](https://stately.ai)
- - date_published: 2024-05-08T09:02:55.286819+00:00
-
- ## State of AI Report 2023
- - [https://stateof.ai](https://stateof.ai)
- - date_published: 2024-05-01T02:49:48.158900+00:00
-
- ## Undetectable AI: StealthGPT and Free AI Checker
- - [https://stealthgpt.ai](https://stealthgpt.ai)
- - date_published: 2024-06-19T18:56:10.157074+00:00
 

@@ -1,4029 +1,4016 @@
- ## Home Page - My ASP.NET Application
- - [http://www.zxspectrumreviews.co.uk](http://www.zxspectrumreviews.co.uk)
- - date_published: 2024-07-01T14:45:07.005733+00:00
-
- ## 27th September 2024
- - [https://zythophile.co.uk](https://zythophile.co.uk)
- - date_published: 2025-01-01T01:01:44.493778+00:00
-
- ## The Def Guide to Zzap!64 - Home
- - [http://zzap64.co.uk](http://zzap64.co.uk)
- - date_published: 2024-01-09T03:48:30.504135+00:00
-
- ## Welcome to GOV.UK
- - [https://gov.uk](https://gov.uk)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## The AI Safety Institute (AISI)
- - [https://www.aisi.gov.uk](https://www.aisi.gov.uk)
- - date_published: 2024-12-29T20:11:54+00:00
-
- ## Aldenham Parish Council – Serving the people of Radlett
- - [https://aldenham-pc.gov.uk](https://aldenham-pc.gov.uk)
- - date_published: 2024-07-03T08:05:38.238345+00:00
-
- ## home
- - [https://angus.gov.uk](https://angus.gov.uk)
- - date_published: 2024-05-11T09:53:55.179474+00:00
-
- ## Engage Angus
- - [https://engage.angus.gov.uk](https://engage.angus.gov.uk)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Apprenticeships
- - [https://www.apprenticeships.gov.uk](https://www.apprenticeships.gov.uk)
- - date_published: 2024-10-20T06:56:07.904477+00:00
-
- ## Welcome to Argyll & Bute Council | Argyll and Bute Council
- - [https://argyll-bute.gov.uk](https://argyll-bute.gov.uk)
- - date_published: 2024-05-07T14:47:24.663415+00:00
-
- ## Home - Armed Forces Covenant
- - [https://www.armedforcescovenant.gov.uk](https://www.armedforcescovenant.gov.uk)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Barnet Council
- - [https://www.barnet.gov.uk](https://www.barnet.gov.uk)
- - date_published: 2024-07-03T17:15:48+00:00
-
- ## Belfast City Council
- - [https://www.belfastcity.gov.uk](https://www.belfastcity.gov.uk)
- - date_published: 2025-02-05T16:06:21.660645+00:00
-
- ## Birmingham City Council Homepage
- - [http://birmingham.gov.uk](http://birmingham.gov.uk)
- - date_published: 2024-07-13T11:13:07.243266+00:00
-
- ## Birmingham City Observatory
- - [https://www.cityobservatory.birmingham.gov.uk](https://www.cityobservatory.birmingham.gov.uk)
- - date_published: 2024-06-12T12:51:57.235263+00:00
-
- ## Accessibility in government – This is for everyone: documenting how we rebuild inclusive digital services across government
- - [https://accessibility.blog.gov.uk](https://accessibility.blog.gov.uk)
- - date_published: 2024-06-18T10:36:24.738884+00:00
-
- ## Accelerated Capability Environment – News and updates from the Accelerated Capability Environment team
- - [https://ace.blog.gov.uk](https://ace.blog.gov.uk)
- - date_published: 2024-06-18T10:39:09.162854+00:00
-
- ## Actuaries in government – News and updates from the Government Actuary's Department
- - [https://actuaries.blog.gov.uk](https://actuaries.blog.gov.uk)
- - date_published: 2024-06-18T10:36:02.823331+00:00
-
- ## APHA Science Blog – News and updates from the Animal and Plant Health Agency on science
- - [https://aphascience.blog.gov.uk](https://aphascience.blog.gov.uk)
- - date_published: 2024-06-18T10:37:10.924440+00:00
-
- ## Institute for Apprenticeships and Technical Education – News and updates from the Institute for Apprenticeships and Technical Education
- - [https://apprenticeships.blog.gov.uk](https://apprenticeships.blog.gov.uk)
- - date_published: 2024-06-18T10:39:01.829745+00:00
-
- ## Assisted digital – This blog is now archived
- - [http://assisteddigital.blog.gov.uk](http://assisteddigital.blog.gov.uk)
- - date_published: 2024-10-21T09:38:42.842243+00:00
-
- ## BEIS Digital – Latest news and updates from BEIS' digital, data and technology teams.
- - [https://beisdigital.blog.gov.uk](https://beisdigital.blog.gov.uk)
- - date_published: 2024-06-18T10:35:26.015466+00:00
-
- ## Buying for Schools – News and updates about buying for schools
- - [https://buyingforschools.blog.gov.uk](https://buyingforschools.blog.gov.uk)
- - date_published: 2024-06-18T10:37:41.879629+00:00
-
- ## Central Digital and Data Office
- - [https://cddo.blog.gov.uk](https://cddo.blog.gov.uk)
- - date_published: 2023-10-25T22:56:10.911147+00:00
-
- ## Charity Commission – News and updates from the Charity Commission
- - [https://charitycommission.blog.gov.uk](https://charitycommission.blog.gov.uk)
- - date_published: 2024-06-18T10:37:43.406515+00:00
-
- ## Children’s social care – News, views and advice written by your peers in the sector, who share their personal or professional experience of children's social care.   Find out more about the blog and sign up to receive email updates when new posts are added.
- - [https://childrenssocialcare.blog.gov.uk](https://childrenssocialcare.blog.gov.uk)
- - date_published: 2024-06-18T10:27:50.781463+00:00
-
- ## Civil Service
- - [https://civilservice.blog.gov.uk](https://civilservice.blog.gov.uk)
- - date_published: 2023-10-25T22:56:13.115381+00:00
-
- ## Civil Service Local – Connecting civil servants, building Capability and strengthening Culture
- - [https://civilservicelocal.blog.gov.uk](https://civilservicelocal.blog.gov.uk)
- - date_published: 2024-06-18T10:39:17.781264+00:00
-
- ## Cabinet Office Digital – News and updates from Cabinet Office Digital.
- - [https://codigital.blog.gov.uk](https://codigital.blog.gov.uk)
- - date_published: 2024-06-18T10:38:19.348091+00:00
-
- ## Community Interest Companies – Find out news and updates about community interest companies
- - [https://communityinterestcompanies.blog.gov.uk](https://communityinterestcompanies.blog.gov.uk)
- - date_published: 2024-06-18T10:36:44.801781+00:00
-
- ## Companies House – We use our blog to talk about the work we’re doing, offering tips and advice on starting, running and closing a company. We also share the latest developments on the changes to UK company law.
- - [https://companieshouse.blog.gov.uk](https://companieshouse.blog.gov.uk)
- - date_published: 2024-06-18T10:39:03.365692+00:00
-
- ## Competition and Markets Authority – News and updates from the Competition and Markets Authority
- - [https://competitionandmarkets.blog.gov.uk](https://competitionandmarkets.blog.gov.uk)
- - date_published: 2024-06-18T10:27:47.485104+00:00
-
- ## Committee on Standards in Public Life – The Committee on Standards in Public Life (CSPL) is an independent advisory non-departmental public body that advises the Prime Minister on ethical standards across the whole of public life in the UK. It monitors and reports on issues relating to the standards of conduct of all public office holders.
- - [https://cspl.blog.gov.uk](https://cspl.blog.gov.uk)
- - date_published: 2024-06-18T10:37:51.478734+00:00
-
- ## Government Data Architecture – News and updates on government data architecture
- - [https://dataarchitecture.blog.gov.uk](https://dataarchitecture.blog.gov.uk)
- - date_published: 2024-06-18T10:38:33.239903+00:00
-
- ## Data in government – A blog about how we're using performance analysis and data science in government
- - [https://dataingovernment.blog.gov.uk](https://dataingovernment.blog.gov.uk)
- - date_published: 2024-05-02T12:28:32.067089+00:00
-
- ## DCMS Libraries – Update and news from DCMS Libraries
- - [https://dcmslibraries.blog.gov.uk](https://dcmslibraries.blog.gov.uk)
- - date_published: 2024-06-18T10:37:54.448196+00:00
-
- ## Defence Digital
- - [https://defencedigital.blog.gov.uk](https://defencedigital.blog.gov.uk)
- - date_published: 2024-06-18T10:37:13.327584+00:00
-
- ## UK Government Sustainable ICT – News and updates from Defra's Sustainable ICT Team working with, for, and on behalf of UK Government
- - [https://defradesa.blog.gov.uk](https://defradesa.blog.gov.uk)
- - date_published: 2024-10-21T09:32:20.356316+00:00
-
- ## Defra digital, data, technology and security – Latest news and updates from Defra’s digital, data, technology and security teams
- - [https://defradigital.blog.gov.uk](https://defradigital.blog.gov.uk)
- - date_published: 2024-06-18T10:38:04.862049+00:00
-
- ## Environment – News and updates on Defra environment
- - [https://defraenvironment.blog.gov.uk](https://defraenvironment.blog.gov.uk)
- - date_published: 2024-06-18T10:35:19.798455+00:00
-
- ## Farming – Updates from Defra's Farming and Countryside Programme
- - [https://defrafarming.blog.gov.uk](https://defrafarming.blog.gov.uk)
- - date_published: 2024-06-18T10:39:16.268502+00:00
-
- ## Fisheries Management Plans  – News and updates from Defra's FMP programme
- - [https://defrafmp.blog.gov.uk](https://defrafmp.blog.gov.uk)
- - date_published: 2024-06-18T10:28:01.882041+00:00
-
- ## Defra in the media – Updates from Defra
- - [https://deframedia.blog.gov.uk](https://deframedia.blog.gov.uk)
- - date_published: 2024-06-18T10:38:27.151414+00:00
-
- ## Design102 – The official blog of Design102, a creative design studio for government departments, agencies and public bodies who believe design can make a difference.
- - [https://design102.blog.gov.uk](https://design102.blog.gov.uk)
- - date_published: 2024-06-18T10:38:51.445654+00:00
-
- ## Design in government – We believe in working in the open. This blog is for designers across government to share their projects, ideas and concepts, or just to think out loud.
- - [https://designnotes.blog.gov.uk](https://designnotes.blog.gov.uk)
- - date_published: 2024-05-02T12:28:43.356526+00:00
-
- ## Despatch for driver and rider trainers – Official advice and information for driver and rider trainers from the Driver and Vehicle Standards Agency (DVSA).
- - [https://despatch.blog.gov.uk](https://despatch.blog.gov.uk)
- - date_published: 2024-06-18T10:35:35.029653+00:00
-
- ## DfE Digital, Data and Technology – News and updates from the Department for Education Digital, Data and Technology team
- - [https://dfedigital.blog.gov.uk](https://dfedigital.blog.gov.uk)
- - date_published: 2024-06-18T10:36:16.248505+00:00
-
- ## The Education Hub – The Education Hub is a site for parents, pupils, education professionals and the media that captures all you need to know about the education system. You’ll find accessible, straightforward information on popular topics, Q&As, interviews, case studies, and more.
- - [https://dfemedia.blog.gov.uk](https://dfemedia.blog.gov.uk)
- - date_published: 2024-10-21T09:39:58.917884+00:00
-
- ## Department for Transport digital – News and updates from the Department for Transport digital team
- - [https://dftdigital.blog.gov.uk](https://dftdigital.blog.gov.uk)
- - date_published: 2024-06-18T10:27:54.668689+00:00
-
- ## Digital health and social care – Blogs about digital in the health and care system by the Digital team at the Department of Health and Social Care..
- - [https://digitalhealth.blog.gov.uk](https://digitalhealth.blog.gov.uk)
- - date_published: 2024-06-18T10:35:23.028289+00:00
-
- ## Digital Skills and Inclusion – Digital skills are vital for both individuals and the economy. Digital inclusion is about having the right access, skills, motivation and trust to confidently go online. We use this blog to tell you about what government and its partners are doing to achieve this.
- - [https://digitalinclusion.blog.gov.uk](https://digitalinclusion.blog.gov.uk)
- - date_published: 2024-06-18T10:35:53.860623+00:00
-
- ## Digital people – Find out about digital, data and technology people and skills activity across government
- - [https://digitalpeople.blog.gov.uk](https://digitalpeople.blog.gov.uk)
- - date_published: 2024-05-02T12:28:38.923174+00:00
-
- ## Digital Skills Partnership – News and updates from the Digital Skills Partnership
- - [https://digitalskillspartnership.blog.gov.uk](https://digitalskillspartnership.blog.gov.uk)
- - date_published: 2024-06-18T10:37:40.517638+00:00
-
- ## Digital trade – The Department for Business and Trade's Digital, Data and Technology (DDaT) team talk people, products and professions.
- - [https://digitaltrade.blog.gov.uk](https://digitaltrade.blog.gov.uk)
- - date_published: 2024-06-18T10:37:21.835434+00:00
-
- ## The Disability Unit – News and updates from the Disability Unit
- - [https://disabilityunit.blog.gov.uk](https://disabilityunit.blog.gov.uk)
- - date_published: 2024-06-18T10:37:46.924065+00:00
-
- ## DLUHC in the Media – News and updates from DLUHC
- - [https://dluhcmedia.blog.gov.uk](https://dluhcmedia.blog.gov.uk)
- - date_published: 2024-06-18T10:35:16.276738+00:00
-
- ## Dragons' Den: the Intellectual Property blog – An Intellectual Property Office blog covering all the IP issues spotted during each episode of Dragons' Den.
- - [https://dragonsden.blog.gov.uk](https://dragonsden.blog.gov.uk)
- - date_published: 2024-06-18T10:35:39.607146+00:00
-
- ## DVLA digital services – We will use this blog to keep you up to speed on all things digital at DVLA. We’ll keep you updated on our progress and will let you know how our new services will meet the GDS digital by default service standard.
- - [https://dvladigital.blog.gov.uk](https://dvladigital.blog.gov.uk)
- - date_published: 2024-06-18T10:38:07.665723+00:00
-
- ## DVSA digital – How the Driver and Vehicle Standards Agency (DVSA) is designing digital services and content to meet the needs of users, and to help you stay safe on Great Britain’s roads.
- - [https://dvsadigital.blog.gov.uk](https://dvsadigital.blog.gov.uk)
- - date_published: 2024-06-18T10:27:57.704340+00:00
-
- ## DWP Digital – News and updates from DWP Digital
- - [https://dwpdigital.blog.gov.uk](https://dwpdigital.blog.gov.uk)
- - date_published: 2024-06-18T10:36:21.993851+00:00
-
- ## Ofsted: early years – News and updates on early years inspection
- - [https://earlyyears.blog.gov.uk](https://earlyyears.blog.gov.uk)
- - date_published: 2024-06-18T10:27:52.636821+00:00
-
- ## The Education Hub – The Education Hub is a site for parents, pupils, education professionals and the media that captures all you need to know about the education system. You’ll find accessible, straightforward information on popular topics, Q&As, interviews, case studies, and more.
- - [https://educationhub.blog.gov.uk](https://educationhub.blog.gov.uk)
- - date_published: 2024-06-18T10:36:19.736789+00:00
-
- ## Ofsted: schools and further education & skills (FES)
- - [https://educationinspection.blog.gov.uk](https://educationinspection.blog.gov.uk)
- - date_published: 2024-06-18T10:28:13.902930+00:00
-
- ## Creating a better place – News and updates from the Environment Agency
- - [https://environmentagency.blog.gov.uk](https://environmentagency.blog.gov.uk)
- - date_published: 2024-10-21T09:29:33.190729+00:00
-
- ## Equality Hub
- - [https://equalities.blog.gov.uk](https://equalities.blog.gov.uk)
- - date_published: 2024-06-18T10:35:21.420752+00:00
-
- ## Commission for Countering Extremism – News and updates from the Commission for Countering Extremism
- - [https://extremismcommission.blog.gov.uk](https://extremismcommission.blog.gov.uk)
- - date_published: 2024-06-18T10:38:47.726273+00:00
-
- ## Civil Service Fast Stream – Where will you lead?
- - [https://faststream.blog.gov.uk](https://faststream.blog.gov.uk)
- - date_published: 2024-06-18T10:35:50.234050+00:00
-
- ## Civil Service Fast Track – Insights into the Civil Service Fast Track
- - [https://fasttrack.blog.gov.uk](https://fasttrack.blog.gov.uk)
- - date_published: 2024-06-18T10:37:02.907852+00:00
-
- ## Food Standards Agency – News and updates from Food Standards Agency
- - [https://food.blog.gov.uk](https://food.blog.gov.uk)
- - date_published: 2024-06-18T10:39:19.674387+00:00
-
- ## Futures, Foresight and Horizon Scanning – News and updates from the Government Office for Science's Futures, Foresight and Horizon Scanning programme
- - [https://foresightprojects.blog.gov.uk](https://foresightprojects.blog.gov.uk)
- - date_published: 2024-06-18T10:38:17.701219+00:00
-
- ## Forestry Commission – News and updates from the Forestry Commission
- - [https://forestrycommission.blog.gov.uk](https://forestrycommission.blog.gov.uk)
- - date_published: 2024-06-18T10:35:55.754863+00:00
-
- ## Government Digital Service
- - [https://gds.blog.gov.uk](https://gds.blog.gov.uk)
- - date_published: 2023-10-25T22:56:20.457338+00:00
-
- ## Technology in government – About digital and technology projects in government.
- - [https://gdstechnology.blog.gov.uk](https://gdstechnology.blog.gov.uk)
- - date_published: 2024-05-02T11:11:30.680476+00:00
-
- ## Government Geography Profession – News and updates from the Government Geography Profession
- - [https://geography.blog.gov.uk](https://geography.blog.gov.uk)
- - date_published: 2024-06-18T10:37:17.965990+00:00
-
- ## Geospatial Commission – News and updates from the Geospatial Commission
- - [https://geospatialcommission.blog.gov.uk](https://geospatialcommission.blog.gov.uk)
- - date_published: 2024-06-18T10:35:41.906053+00:00
-
- ## Life Chances – Going Forward into Employment (GFiE) – News and updates from the Going Forward into Employment scheme, providing life chance opportunities across the Civil Service
- - [https://gfie.blog.gov.uk](https://gfie.blog.gov.uk)
- - date_published: 2024-06-18T10:38:42.331192+00:00
-
- ## Government Internal Audit Agency – News and updates from the Government Internal Audit Agency
- - [https://giaa.blog.gov.uk](https://giaa.blog.gov.uk)
- - date_published: 2024-06-18T10:38:00.327090+00:00
-
- ## Government Office for Technology Transfer – Getting smart about intellectual property and other intangible assets
- - [https://gott.blog.gov.uk](https://gott.blog.gov.uk)
- - date_published: 2024-06-18T10:36:34.668719+00:00
-
- ## Government Science and Engineering – The official blog of the Government Science and Engineering profession.
- - [https://governmentscienceandengineering.blog.gov.uk](https://governmentscienceandengineering.blog.gov.uk)
- - date_published: 2024-06-18T10:36:32.883917+00:00
-
- ## Government Grants Community – News and updates from the Government Grants Community
- - [https://grantscommunity.blog.gov.uk](https://grantscommunity.blog.gov.uk)
- - date_published: 2024-06-18T10:36:31.238496+00:00
-
- ## Great British Nuclear blog – Updates from Great British Nuclear.
- - [https://greatbritishnuclear.blog.gov.uk](https://greatbritishnuclear.blog.gov.uk)
- - date_published: 2024-06-18T10:35:31.264078+00:00
-
- ## DHSC Healthcare leaders – News and updates from DHSC healthcare leaders
- - [https://healthcareleaders.blog.gov.uk](https://healthcareleaders.blog.gov.uk)
- - date_published: 2024-06-18T10:35:27.918189+00:00
-
- ## Department of Health and Social Care Media Centre – News and updates from the Department of Health and Social Care media team
- - [https://healthmedia.blog.gov.uk](https://healthmedia.blog.gov.uk)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## History of government – Articles from guest historians and civil servants about the history of UK government.
- - [https://history.blog.gov.uk](https://history.blog.gov.uk)
- - date_published: 2024-06-18T10:38:35.218491+00:00
-
- ## HM Land Registry – News and updates from HM Land Registry
- - [https://hmlandregistry.blog.gov.uk](https://hmlandregistry.blog.gov.uk)
- - date_published: 2024-10-21T09:29:11.897105+00:00
-
- ## Life at HMRC – Find out more about working at HMRC and our available roles
- - [https://hmrcdigital.blog.gov.uk](https://hmrcdigital.blog.gov.uk)
- - date_published: 2024-09-27T21:12:38.823166+00:00
-
- ## Home Office Digital, Data and Technology – An insight into the day-to-day activities of the Home Office Digital, Data and Technology team
- - [https://hodigital.blog.gov.uk](https://hodigital.blog.gov.uk)
- - date_published: 2024-06-18T10:36:57.794349+00:00
-
- ## Home Office in the media – News and updates from Home Office Media
- - [https://homeofficemedia.blog.gov.uk](https://homeofficemedia.blog.gov.uk)
- - date_published: 2024-06-18T10:38:09.151948+00:00
-
- ## ICS Digital
- - [https://icsdigital.blog.gov.uk](https://icsdigital.blog.gov.uk)
- - date_published: 2024-06-18T10:38:49.260944+00:00
-
- ## GOV.UK Verify – This blog is now archived
- - [https://identityassurance.blog.gov.uk](https://identityassurance.blog.gov.uk)
- - date_published: 2024-07-09T19:32:28.543976+00:00
-
- ## Inside DIO – News and updates from the Defence Infrastructure Organisation
- - [https://insidedio.blog.gov.uk](https://insidedio.blog.gov.uk)
- - date_published: 2024-06-18T10:36:10.298902+00:00
-
- ## Inside DVLA – Regular updates for DVLA's stakeholders, commercial customers and suppliers.
- - [https://insidedvla.blog.gov.uk](https://insidedvla.blog.gov.uk)
- - date_published: 2024-06-18T10:36:08.212945+00:00
-
- ## Inside GOV.UK
- - [https://insidegovuk.blog.gov.uk](https://insidegovuk.blog.gov.uk)
- - date_published: 2023-11-01T13:03:22.215325+00:00
-
- ## Inside HMCTS – News and updates from the HM Courts & Tribunals Service
- - [https://insidehmcts.blog.gov.uk](https://insidehmcts.blog.gov.uk)
- - date_published: 2024-06-18T10:36:42.979808+00:00
-
- ## Insolvency Service – News and updates from the Insolvency Service
- - [https://insolvencyservice.blog.gov.uk](https://insolvencyservice.blog.gov.uk)
- - date_published: 2024-06-18T10:37:55.845020+00:00
-
- ## Infrastructure and Projects Authority – News, expertise and insights from the IPA
- - [https://ipa.blog.gov.uk](https://ipa.blog.gov.uk)
- - date_published: 2024-06-18T10:35:18.269034+00:00
-
- ## Intellectual Property Office blog – Updates and information from the Intellectual Property Office
- - [https://ipo.blog.gov.uk](https://ipo.blog.gov.uk)
- - date_published: 2024-06-18T10:38:15.377479+00:00
-
- ## The King’s Awards for Enterprise – News and updates about The King's Awards for Enterprise
- - [https://kingsawards.blog.gov.uk](https://kingsawards.blog.gov.uk)
- - date_published: 2024-06-18T10:36:05.991470+00:00
-
- ## Legal aid – News and updates about legal aid
- - [https://legalaid.blog.gov.uk](https://legalaid.blog.gov.uk)
- - date_published: 2024-06-18T10:38:59.741731+00:00
-
- ## Levelling Up Advisory Council – The official blog of the Levelling Up Advisory Council, providing expert insight on the design and delivery of levelling up policy.
- - [https://levellingupadvisorycouncil.blog.gov.uk](https://levellingupadvisorycouncil.blog.gov.uk)
- - date_published: 2024-06-18T10:27:56.317333+00:00
-
- ## Life at HMRC – Find out more about working at HMRC and our available roles
- - [https://lifeathmrc.blog.gov.uk](https://lifeathmrc.blog.gov.uk)
- - date_published: 2024-06-16T08:29:31.101070+00:00
-
- ## Marine developments – Marine developments: news and updates about marine planning and licensing
- - [https://marinedevelopments.blog.gov.uk](https://marinedevelopments.blog.gov.uk)
- - date_published: 2024-06-18T10:37:08.913599+00:00
-
- ## Marine Science – Insight and updates on the latest research and developments in marine and freshwater science from across government
- - [https://marinescience.blog.gov.uk](https://marinescience.blog.gov.uk)
- - date_published: 2024-06-18T10:39:10.686347+00:00
-
- ## Matters of Testing – Official advice and information about MOT testing from the Driver and Vehicle Standards Agency (DVSA).
- - [https://mattersoftesting.blog.gov.uk](https://mattersoftesting.blog.gov.uk)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## MedRegs – News and updates from Medicines and Healthcare products Regulatory Agency
- - [https://medregs.blog.gov.uk](https://medregs.blog.gov.uk)
- - date_published: 2024-06-18T10:27:19.969932+00:00
-
- ## MHCLG Digital – The MHCLG Digital blog is the place to find out about how we’re working, what we’re learning, and how you can get involved.
- - [https://mhclgdigital.blog.gov.uk](https://mhclgdigital.blog.gov.uk)
- - date_published: 2024-10-21T09:29:13.701965+00:00
-
- ## MHCLG in the Media – News and updates from MHCLG
- - [https://mhclgmedia.blog.gov.uk](https://mhclgmedia.blog.gov.uk)
- - date_published: 2024-10-21T09:29:34.840379+00:00
-
- ## MHRA Inspectorate – News and updates from the MHRA Inspectorate
- - [https://mhrainspectorate.blog.gov.uk](https://mhrainspectorate.blog.gov.uk)
- - date_published: 2024-06-18T10:37:23.172037+00:00
-
- ## Low Pay Commission – The Low Pay Commission (LPC) is an independent body that advises the government about the National Minimum Wage and National Living Wage
- - [https://minimumwage.blog.gov.uk](https://minimumwage.blog.gov.uk)
- - date_published: 2024-06-18T10:36:47.158743+00:00
-
- ## A Modern Civil Service – News and updates on cross-government reform and modernisation.
- - [https://moderncivilservice.blog.gov.uk](https://moderncivilservice.blog.gov.uk)
- - date_published: 2024-06-18T10:36:14.486241+00:00
-
- ## Defence in the media – Media updates from the Ministry of Defence news team
- - [https://modmedia.blog.gov.uk](https://modmedia.blog.gov.uk)
- - date_published: 2024-10-21T10:19:00.415822+00:00
-
- ## Justice Digital – How the Ministry of Justice is transforming the justice system using digital services and technology: news, updates and comment.
- - [https://mojdigital.blog.gov.uk](https://mojdigital.blog.gov.uk)
- - date_published: 2024-06-18T10:37:48.503811+00:00
-
- ## Moving On – Official advice and information for lorry, bus, coach and van operators and drivers, from the Driver and Vehicle Standards Agency (DVSA).
- - [https://movingon.blog.gov.uk](https://movingon.blog.gov.uk)
- - date_published: 2024-06-18T10:36:17.939738+00:00
-
- ## UK National Screening Committee – News and updates from the UK National Screening Committee
- - [https://nationalscreening.blog.gov.uk](https://nationalscreening.blog.gov.uk)
- - date_published: 2024-06-18T10:37:19.486141+00:00
-
- ## Natural England
- - [https://naturalengland.blog.gov.uk](https://naturalengland.blog.gov.uk)
- - date_published: 2024-06-18T10:38:11.302574+00:00
-
- ## Cleaning up our nuclear past: faster, safer and sooner – Real-life views of those decommissioning the UK’s earliest nuclear sites safely, securely and cost-effectively in a way that protects people and the environment.
- - [https://nda.blog.gov.uk](https://nda.blog.gov.uk)
- - date_published: 2024-06-18T10:35:38.023271+00:00
-
- ## No 10 media blog – The No 10 media blog
- - [https://no10media.blog.gov.uk](https://no10media.blog.gov.uk)
- - date_published: 2024-06-18T10:35:14.687107+00:00
-
- ## The Ofqual blog
- - [https://ofqual.blog.gov.uk](https://ofqual.blog.gov.uk)
- - date_published: 2024-06-18T10:27:59.711681+00:00
-
- ## Office of Financial Sanctions Implementation – News and updates from the Office of Financial Sanctions Implementation
- - [https://ofsi.blog.gov.uk](https://ofsi.blog.gov.uk)
- - date_published: 2024-06-18T10:27:45.602427+00:00
-
- ## Online Safety Data Initiative – News and updates from the Online Safety Data Initiative
- - [https://onlinesafetydata.blog.gov.uk](https://onlinesafetydata.blog.gov.uk)
- - date_published: 2024-06-18T10:39:22.842237+00:00
-
- ## ONS Digital, Data and Technology – News and updates from ONS Digital, Data and Technology.
- - [https://onsdigital.blog.gov.uk](https://onsdigital.blog.gov.uk)
- - date_published: 2024-06-18T10:39:12.434650+00:00
-
- ## Policy Lab – Radically improving policy making through design, innovation and people-centred approaches
- - [https://openpolicy.blog.gov.uk](https://openpolicy.blog.gov.uk)
- - date_published: 2024-06-18T10:35:24.587681+00:00
-
- ## Office for Product Safety and Standards – News and updates from Office for Product Safety and Standards (OPSS).
- - [https://opss.blog.gov.uk](https://opss.blog.gov.uk)
- - date_published: 2024-10-21T09:29:17.690344+00:00
-
- ## Office of Trade Sanctions Implementation – News and updates from Office of Trade Sanctions Implementation
- - [https://otsi.blog.gov.uk](https://otsi.blog.gov.uk)
- - date_published: 2024-10-21T09:29:21.131618+00:00
-
- ## PHE Screening – News and updates from the Public Health England screening programmes
- - [https://phescreening.blog.gov.uk](https://phescreening.blog.gov.uk)
- - date_published: 2024-10-21T09:29:15.498355+00:00
-
- ## Planning Inspectorate – News and updates about the Planning Inspectorate
- - [https://planninginspectorate.blog.gov.uk](https://planninginspectorate.blog.gov.uk)
- - date_published: 2024-06-18T10:37:16.659837+00:00
-
- ## Working in the Prison and Probation Service – Official advice and guidance for applicants to prison and probation roles, run by the Ministry of Justice
- - [https://prisonjobs.blog.gov.uk](https://prisonjobs.blog.gov.uk)
- - date_published: 2024-06-18T10:38:25.324366+00:00
-
- ## The Prison Leavers Project – News and updates about the Prison Leavers Project
- - [https://prisonleaversproject.blog.gov.uk](https://prisonleaversproject.blog.gov.uk)
- - date_published: 2024-06-18T10:36:13.024422+00:00
-
- ## Office of the Public Guardian – News and updates from the Office of the Public Guardian
- - [https://publicguardian.blog.gov.uk](https://publicguardian.blog.gov.uk)
- - date_published: 2024-06-18T10:35:43.454769+00:00
-
- ## UK Health Security Agency – The official blog of the UK Health Security Agency, providing expert insight on the organisation's work and all aspects of health security
- - [https://publichealthmatters.blog.gov.uk](https://publichealthmatters.blog.gov.uk)
- - date_published: 2025-01-25T11:13:15.689455+00:00
-
- ## Public Policy Design
- - [https://publicpolicydesign.blog.gov.uk](https://publicpolicydesign.blog.gov.uk)
- - date_published: 2024-06-18T10:37:57.934440+00:00
-
- ## Civil Service Quarterly – Expert guidance for civil servants
- - [https://quarterly.blog.gov.uk](https://quarterly.blog.gov.uk)
- - date_published: 2024-06-18T10:38:56.398134+00:00
-
- ## The King’s Awards for Enterprise – News and updates about The King's Awards for Enterprise
- - [https://queensawards.blog.gov.uk](https://queensawards.blog.gov.uk)
- - date_published: 2024-10-21T09:39:23.579083+00:00
-
- ## Regulatory Policy Committee – RPC – the independent better regulation watchdog
- - [https://rpc.blog.gov.uk](https://rpc.blog.gov.uk)
- - date_published: 2024-06-18T10:38:44.086552+00:00
-
- ## Responsible Technology Adoption Unit Blog – Ideas, updates and news about the RTAU
- - [https://rtau.blog.gov.uk](https://rtau.blog.gov.uk)
- - date_published: 2024-06-18T10:35:46.209232+00:00
-
- ## Rural payments – News and updates from the team.
- - [https://ruralpayments.blog.gov.uk](https://ruralpayments.blog.gov.uk)
- - date_published: 2024-06-18T10:27:44.190662+00:00
-
- ## Government security – This blog will bring you updates about what’s happening in the Security Profession across Government.
- - [https://securityprofession.blog.gov.uk](https://securityprofession.blog.gov.uk)
- - date_published: 2024-06-18T10:27:48.781497+00:00
-
- ## Services in government – A blog for people who are transforming services across the public sector
- - [https://services.blog.gov.uk](https://services.blog.gov.uk)
- - date_published: 2024-05-02T12:28:33.930988+00:00
-
- ## ESFA Digital
- - [https://sfadigital.blog.gov.uk](https://sfadigital.blog.gov.uk)
- - date_published: 2024-06-18T10:37:53.220711+00:00
-
- ## Government Shared Services – News and updates from Shared Services
- - [https://sharedservices.blog.gov.uk](https://sharedservices.blog.gov.uk)
- - date_published: 2024-06-18T10:35:57.553078+00:00
-
- ## Social care – This blog from the Department of Health and Social Care shares news, views and information updates for anyone working in – or receiving support from – the care and support sector.
- - [https://socialcare.blog.gov.uk](https://socialcare.blog.gov.uk)
- - date_published: 2024-10-21T09:29:36.730794+00:00
-
- ## Ofsted: social care – News and updates in children's social care and early years regulation
- - [https://socialcareinspection.blog.gov.uk](https://socialcareinspection.blog.gov.uk)
- - date_published: 2024-06-18T10:35:52.143087+00:00
-
- ## Children’s social care – News, views and advice written by your peers in the sector, who share their personal or professional experience of children's social care.   Find out more about the blog and sign up to receive email updates when new posts are added.
- - [https://socialworkers.blog.gov.uk](https://socialworkers.blog.gov.uk)
- - date_published: 2024-10-21T09:31:03.842273+00:00
-
- ## Social work with adults – Insights, updates and reflections from the Chief Social Worker for Adults and others working in the field
- - [https://socialworkwithadults.blog.gov.uk](https://socialworkwithadults.blog.gov.uk)
- - date_published: 2024-06-18T10:37:04.366422+00:00
-
- ## UK Space Agency blog – We boost UK prosperity, understand the Universe, and protect our planet and outer space.
- - [https://space.blog.gov.uk](https://space.blog.gov.uk)
- - date_published: 2024-06-18T10:38:22.111963+00:00
-
- ## Social Security Advisory Committee – News and updates from the Social Security Advisory Committee
- - [https://ssac.blog.gov.uk](https://ssac.blog.gov.uk)
- - date_published: 2024-06-18T10:38:40.346798+00:00
-
- ## Strategic Command – News and updates from the MOD UK Strategic Command
- - [https://stratcommand.blog.gov.uk](https://stratcommand.blog.gov.uk)
- - date_published: 2024-06-18T10:36:01.282826+00:00
-
- ## Supporting Families Programme – News and updates from the Supporting Families Programme
- - [https://supportingfamilies.blog.gov.uk](https://supportingfamilies.blog.gov.uk)
- - date_published: 2024-06-18T10:35:48.776103+00:00
-
- ## UK Government Sustainable ICT – News and updates from Defra's Sustainable ICT Team working with, for, and on behalf of UK Government
- - [https://sustainableict.blog.gov.uk](https://sustainableict.blog.gov.uk)
- - date_published: 2024-06-18T10:28:25.792507+00:00
-
- ## Systems thinking – News and updates from the Systems Unit
- - [https://systemsthinking.blog.gov.uk](https://systemsthinking.blog.gov.uk)
- - date_published: 2024-10-21T09:29:19.442621+00:00
-
- ## Teaching – News and updates on teaching from DfE
- - [https://teaching.blog.gov.uk](https://teaching.blog.gov.uk)
- - date_published: 2024-06-18T10:38:13.027800+00:00
-
- ## Technology in government – About digital and technology projects in government.
- - [https://technology.blog.gov.uk](https://technology.blog.gov.uk)
- - date_published: 2024-05-02T12:28:45.041810+00:00
-
- ## Trade Remedies Authority – News and updates from the Trade Remedies Authority.
- - [https://traderemedies.blog.gov.uk](https://traderemedies.blog.gov.uk)
- - date_published: 2024-06-18T10:37:06.184878+00:00
-
- ## UK Hydrographic Office – News and updates from the UKHO
- - [https://ukhodigital.blog.gov.uk](https://ukhodigital.blog.gov.uk)
- - date_published: 2024-06-18T10:37:34.893444+00:00
-
- ## UK Health Security Agency – The official blog of the UK Health Security Agency, providing expert insight on the organisation's work and all aspects of health security
- - [https://ukhsa.blog.gov.uk](https://ukhsa.blog.gov.uk)
- - date_published: 2024-06-18T10:39:21.170567+00:00
-
- ## User research in government – User research news and case studies from across government
- - [https://userresearch.blog.gov.uk](https://userresearch.blog.gov.uk)
- - date_published: 2024-05-02T12:28:30.493132+00:00
-
- ## Valuation Office Agency – News and updates from the Valuation Office Agency
- - [https://valuationoffice.blog.gov.uk](https://valuationoffice.blog.gov.uk)
- - date_published: 2024-06-18T10:38:53.123867+00:00
-
- ## Veterans Today – News, updates and information for veterans
- - [https://veteranstoday.blog.gov.uk](https://veteranstoday.blog.gov.uk)
- - date_published: 2024-06-18T10:35:29.564424+00:00
-
- ## Government Vets – The blog of vets working in UK government
- - [https://vets.blog.gov.uk](https://vets.blog.gov.uk)
- - date_published: 2024-06-18T10:38:03.367368+00:00
-
- ## Surveillance Camera Commissioner’s Office – News and updates on video surveillance
- - [https://videosurveillance.blog.gov.uk](https://videosurveillance.blog.gov.uk)
- - date_published: 2024-06-18T10:37:45.380678+00:00
-
- ## Veterinary Medicines Directorate – News and updates about veterinary medicines
- - [https://vmd.blog.gov.uk](https://vmd.blog.gov.uk)
- - date_published: 2024-06-18T10:36:04.339123+00:00
-
- ## GOV.UK blogs
- - [https://www.blog.gov.uk](https://www.blog.gov.uk)
- - date_published: 2024-05-02T12:28:37.124510+00:00
+ ## Sign in - Google Accounts
+ - [http://calendar.myport.ac.uk](http://calendar.myport.ac.uk)
+ - date_published: 2024-06-17T19:02:29.570292+00:00
+
+ ## Sign in - Google Accounts
+ - [http://mail.myport.ac.uk](http://mail.myport.ac.uk)
+ - date_published: 2024-06-17T19:02:31.047748+00:00
+
+ ## National Centre for Text Mining — Text Mining Tools and Text Mining Services
+ - [http://www.nactem.ac.uk](http://www.nactem.ac.uk)
+ - date_published: 2024-07-02T05:49:54.880291+00:00
+
+ ## Online Collection | National Army Museum, London
+ - [https://collection.nam.ac.uk](https://collection.nam.ac.uk)
+ - date_published: 2024-06-21T09:40:51.080556+00:00
 
  ## Home
- - [http://www.bracknell-forest.gov.uk](http://www.bracknell-forest.gov.uk)
- - date_published: 2025-02-01T19:54:14.879984+00:00
-
- ## Brighton & Hove City Council
- - [http://www.brighton-hove.gov.uk](http://www.brighton-hove.gov.uk)
- - date_published: 2024-09-15T07:44:58+00:00
+ - [https://www.napier.ac.uk](https://www.napier.ac.uk)
+ - date_published: 2024-08-06T17:46:43.674558+00:00
 
  ## Home
- - [http://www.bristol.gov.uk](http://www.bristol.gov.uk)
- - date_published: 2024-06-30T01:49:18+00:00
+ - [https://www.nchlondon.ac.uk](https://www.nchlondon.ac.uk)
+ - date_published: 2024-10-01T00:00:00+00:00
 
- ## Buy with confidence
- - [https://www.buywithconfidence.gov.uk](https://www.buywithconfidence.gov.uk)
- - date_published: 2024-09-05T23:40:36.756307+00:00
+ ## Belong Blog | Newcastle University
+ - [https://belong.ncl.ac.uk](https://belong.ncl.ac.uk)
+ - date_published: 2024-05-02T10:56:49.905665+00:00
 
- ## Cabinet Office
- - [https://cabinetoffice.gov.uk](https://cabinetoffice.gov.uk)
- - date_published: 2024-10-17T12:50:01.490351+00:00
+ ## Newcastle University Blogging Service
+ - [https://blogs.ncl.ac.uk](https://blogs.ncl.ac.uk)
+ - date_published: 2024-07-02T00:00:00+00:00
 
- ## Government Digital Service – GDS is leading the digital transformation of the UK government.
- - [http://digital.cabinetoffice.gov.uk](http://digital.cabinetoffice.gov.uk)
- - date_published: 2024-06-18T10:39:38.547899+00:00
+ ## The Catless Web Server - Bifurcated Rivets, Risks, the Virtual Memorial Garden
+ - [http://catless.ncl.ac.uk](http://catless.ncl.ac.uk)
+ - date_published: 2024-08-18T18:41:53.180889+00:00
 
- ## Cafcass advises the family courts about the welfare of children and what is in their best interests
- - [https://www.cafcass.gov.uk](https://www.cafcass.gov.uk)
- - date_published: 2024-07-12T13:16:16+00:00
-
- ## Home - Cambourne Town Council
- - [https://cambournetowncouncil.gov.uk](https://cambournetowncouncil.gov.uk)
- - date_published: 2017-06-13T00:00:00+00:00
-
- ## Home
- - [https://www.cambridge.gov.uk](https://www.cambridge.gov.uk)
- - date_published: 2024-06-17T17:35:45.673707+00:00
-
- ## Welcome to Cambridgeshire County Council
- - [https://www.cambridgeshire.gov.uk](https://www.cambridgeshire.gov.uk)
- - date_published: 2024-10-15T22:56:12.777925+00:00
-
- ## Understanding accessibility requirements for public sector bodies
- - [https://accessibility.campaign.gov.uk](https://accessibility.campaign.gov.uk)
- - date_published: 2024-10-21T09:40:16.210452+00:00
-
- ## Changes to UK company law
- - [https://changestoukcompanylaw.campaign.gov.uk](https://changestoukcompanylaw.campaign.gov.uk)
+ ## FROM Blog: Research & Innovation News | Newcastle University
+ - [https://from.ncl.ac.uk](https://from.ncl.ac.uk)
  - date_published: 2024-05-01T00:00:00+00:00
 
- ## Are you a disability confident employer? - Disability Confident
- - [https://disabilityconfident.campaign.gov.uk](https://disabilityconfident.campaign.gov.uk)
- - date_published: 2023-06-29T00:00:00+00:00
+ ## homepages.cs.ncl.ac.uk
+ - [https://homepages.cs.ncl.ac.uk](https://homepages.cs.ncl.ac.uk)
+ - date_published: 2020-12-11T00:00:00+00:00
 
- ## Don't get caught out - Tax advice - don’t get caught out
- - [https://dontgetcaughtout.campaign.gov.uk](https://dontgetcaughtout.campaign.gov.uk)
- - date_published: 2023-12-04T00:00:00+00:00
+ ## Belong Blog | Newcastle University
+ - [https://international-blogs.ncl.ac.uk](https://international-blogs.ncl.ac.uk)
+ - date_published: 2024-05-02T10:56:46.966922+00:00
 
- ## Do something big
- - [https://earlyyearscareers.campaign.gov.uk](https://earlyyearscareers.campaign.gov.uk)
- - date_published: 2024-10-20T03:47:58.800477+00:00
+ ## Sign in to your account
+ - [https://my.ncl.ac.uk](https://my.ncl.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
 
- ## Farming for the future
- - [https://farming.campaign.gov.uk](https://farming.campaign.gov.uk)
- - date_published: 2024-10-21T09:50:56.979711+00:00
+ ## The things we do here make a difference out there | Newcastle University
+ - [http://ncl.ac.uk](http://ncl.ac.uk)
+ - date_published: 2024-06-17T18:16:11.726765+00:00
 
- ## Petfished June 21 Update 2 - Petfished
- - [https://getyourpetsafely.campaign.gov.uk](https://getyourpetsafely.campaign.gov.uk)
- - date_published: 2021-06-09T00:00:00+00:00
+ ## TheoryHub - Academic theories reviews for research and T&L
+ - [https://open.ncl.ac.uk](https://open.ncl.ac.uk)
+ - date_published: 2024-05-07T14:56:23.525759+00:00
 
- ## Help is available for every household
- - [https://helpforhouseholds.campaign.gov.uk](https://helpforhouseholds.campaign.gov.uk)
- - date_published: 2024-10-20T05:08:13.068946+00:00
-
- ## New report shows success of government's support for cultural sector during pandemic
- - [https://hereforculture.campaign.gov.uk](https://hereforculture.campaign.gov.uk)
- - date_published: 2024-10-21T07:58:25.523632+00:00
-
- ## A Modern Civil Service — Skilled, Innovative and Ambitious
- - [https://moderncivilservice.campaign.gov.uk](https://moderncivilservice.campaign.gov.uk)
- - date_published: 2024-10-21T09:39:42.117384+00:00
-
- ## Prepare - Prepare
- - [https://prepare.campaign.gov.uk](https://prepare.campaign.gov.uk)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Ready to Pass? - How to pass your driving test
- - [https://readytopass.campaign.gov.uk](https://readytopass.campaign.gov.uk)
- - date_published: 2024-10-21T09:36:36.254644+00:00
-
- ## Travel Aware
- - [https://travelaware.campaign.gov.uk](https://travelaware.campaign.gov.uk)
- - date_published: 2024-12-14T13:42:08.583046+00:00
-
- ## The Charity Commission for England and Wales
- - [http://apps.charitycommission.gov.uk](http://apps.charitycommission.gov.uk)
- - date_published: 2012-12-05T00:00:00+00:00
-
- ## About the register of charities
- - [http://beta.charitycommission.gov.uk](http://beta.charitycommission.gov.uk)
- - date_published: 2024-06-18T06:33:27.931844+00:00
-
- ## About the register of charities
- - [https://register-of-charities.charitycommission.gov.uk](https://register-of-charities.charitycommission.gov.uk)
- - date_published: 2024-06-17T18:46:41.247562+00:00
-
- ## The Charity Commission
- - [http://www.charitycommission.gov.uk](http://www.charitycommission.gov.uk)
- - date_published: 2025-02-01T17:50:26.963218+00:00
-
- ## Things to do - City of London
- - [https://www.cityoflondon.gov.uk](https://www.cityoflondon.gov.uk)
- - date_published: 2024-05-04T08:28:41.223048+00:00
-
- ## Government Analysis Function – The Government Analysis Function is a network for all civil servants working in government analysis.
- - [https://analysisfunction.civilservice.gov.uk](https://analysisfunction.civilservice.gov.uk)
- - date_published: 2024-06-18T10:41:13.780062+00:00
-
- ## Civil Service
- - [http://www.civilservice.gov.uk](http://www.civilservice.gov.uk)
- - date_published: 2024-10-21T14:06:20.577392+00:00
-
- ## Civil Service Careers
- - [https://www.civil-service-careers.gov.uk](https://www.civil-service-careers.gov.uk)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Home
- - [https://communities-ni.gov.uk](https://communities-ni.gov.uk)
- - date_published: 2024-10-21T10:31:28.902835+00:00
-
- ## Find and update company information - GOV.UK
- - [https://beta.companieshouse.gov.uk](https://beta.companieshouse.gov.uk)
- - date_published: 2024-05-07T10:35:10.002530+00:00
-
- ## Companies House
- - [https://companieshouse.gov.uk](https://companieshouse.gov.uk)
- - date_published: 2024-10-21T10:04:51.053941+00:00
-
- ## Developer Hub Home
- - [https://developer.companieshouse.gov.uk](https://developer.companieshouse.gov.uk)
- - date_published: 2024-05-02T12:29:27.511728+00:00
-
- ## Sign in - Matomo
- - [https://matomo.companieshouse.gov.uk](https://matomo.companieshouse.gov.uk)
- - date_published: 2024-05-02T12:29:24.709844+00:00
-
- ## Media room
- - [https://mediaroom.companieshouse.gov.uk](https://mediaroom.companieshouse.gov.uk)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Companies House
- - [https://resources.companieshouse.gov.uk](https://resources.companieshouse.gov.uk)
- - date_published: 2024-04-29T03:31:25.594693+00:00
-
- ## The Crown Prosecution Service | The Crown Prosecution Service
- - [https://www.cps.gov.uk](https://www.cps.gov.uk)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Crown Commercial Service - CCS
- - [https://www.crowncommercial.gov.uk](https://www.crowncommercial.gov.uk)
- - date_published: 2024-10-11T19:51:57.786153+00:00
-
- ## Crown Office and Procurator Fiscal Service
- - [http://www.crownoffice.gov.uk](http://www.crownoffice.gov.uk)
- - date_published: 2024-10-21T15:59:07.298133+00:00
-
- ## Department for Culture, Media and Sport
- - [http://www.culture.gov.uk](http://www.culture.gov.uk)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Welcome to Cumberland | Cumberland Council
- - [https://www.cumberland.gov.uk](https://www.cumberland.gov.uk)
- - date_published: 2024-05-06T16:58:38.992341+00:00
-
- ## Home
- - [https://daera-ni.gov.uk](https://daera-ni.gov.uk)
- - date_published: 2024-10-21T10:31:34.774757+00:00
-
- ## Find open data - data.gov.uk
- - [https://data.gov.uk](https://data.gov.uk)
- - date_published: 2024-06-12T06:03:55.998495+00:00
-
- ## GOV.UK Documentation Example
- - [https://guidance.data.gov.uk](https://guidance.data.gov.uk)
- - date_published: 2024-05-17T09:09:21+00:00
-
- ## Planning Data
- - [https://www.planning.data.gov.uk](https://www.planning.data.gov.uk)
- - date_published: 2024-08-19T05:19:36.949347+00:00
-
- ## Department for Business, Energy & Industrial Strategy
- - [http://www.decc.gov.uk](http://www.decc.gov.uk)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Department for Environment, Food & Rural Affairs
- - [https://defra.gov.uk](https://defra.gov.uk)
- - date_published: 2024-10-21T11:45:46.722277+00:00
-
- ## Home
-   - Defra, UK
- - [https://uk-air.defra.gov.uk](https://uk-air.defra.gov.uk)
- - date_published: 2024-06-18T16:04:47.024812+00:00
-
- ## Department of Health and Social Care
- - [http://www.dh.gov.uk](http://www.dh.gov.uk)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Welcome to GOV.UK
- - [http://www.direct.gov.uk](http://www.direct.gov.uk)
- - date_published: 2024-10-21T09:58:59.342011+00:00
-
- ## Discover Uni Home |
-                Discover Uni
- - [https://discoveruni.gov.uk](https://discoveruni.gov.uk)
- - date_published: 2024-06-17T17:49:24.336370+00:00
-
- ## MOT Service Status Status
- - [http://motservice.status.dvsa.gov.uk](http://motservice.status.dvsa.gov.uk)
- - date_published: 2024-10-21T09:49:19.200482+00:00
-
- ## Home - DWP Accessibility Manual
- - [https://accessibility-manual.dwp.gov.uk](https://accessibility-manual.dwp.gov.uk)
- - date_published: 2024-06-15T04:14:57.576505+00:00
-
- ## DWP Digital – Digital With Purpose
- - [https://careers.dwp.gov.uk](https://careers.dwp.gov.uk)
- - date_published: 2024-10-21T09:40:03.833304+00:00
-
- ## Find a job
- - [https://findajob.dwp.gov.uk](https://findajob.dwp.gov.uk)
- - date_published: 2024-06-17T17:49:05.465349+00:00
-
- ## Department for Work and Pensions
- - [http://research.dwp.gov.uk](http://research.dwp.gov.uk)
- - date_published: 2024-10-21T14:03:35.809741+00:00
-
- ## Department for Work and Pensions
- - [http://www.dwp.gov.uk](http://www.dwp.gov.uk)
- - date_published: 2024-10-21T14:05:07.059945+00:00
-
- ## Home
- - [https://economy-ni.gov.uk](https://economy-ni.gov.uk)
- - date_published: 2024-10-21T10:31:25.236342+00:00
-
- ## Home
- - [https://www.edinburgh.gov.uk](https://www.edinburgh.gov.uk)
- - date_published: 2024-10-20T03:58:18.336590+00:00
-
- ## Edlesborough Parish Council
- - [https://www.edlesborough-pc.gov.uk](https://www.edlesborough-pc.gov.uk)
- - date_published: 2025-01-20T21:53:05.922794+00:00
-
- ## Department for Education
-            
-            - Citizen Space
- - [https://consult.education.gov.uk](https://consult.education.gov.uk)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Department for Education
- - [https://education.gov.uk](https://education.gov.uk)
- - date_published: 2024-10-21T09:31:06.074057+00:00
-
- ## Environment Agency
-            
-            - Citizen Space
- - [https://consult.environment-agency.gov.uk](https://consult.environment-agency.gov.uk)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Home | Civil Service Fast Stream
- - [https://www.faststream.gov.uk](https://www.faststream.gov.uk)
- - date_published: 2023-10-12T00:00:00+00:00
-
- ## Foreign, Commonwealth & Development Office Blogs
- - [https://blogs.fco.gov.uk](https://blogs.fco.gov.uk)
- - date_published: 2025-02-01T13:31:26.125237+00:00
-
- ## Foreign & Commonwealth Office
- - [http://www.fco.gov.uk](http://www.fco.gov.uk)
- - date_published: 2024-10-11T00:00:00+00:00
-
- ## Home
- - [https://finance-ni.gov.uk](https://finance-ni.gov.uk)
- - date_published: 2024-09-10T00:00:00+00:00
+ ## research.ncl.ac.uk; ; Newcastle University
+ - [https://research.ncl.ac.uk](https://research.ncl.ac.uk)
+ - date_published: 2024-06-19T21:05:17+00:00
 
  ## Homepage
- - [https://www.food.gov.uk](https://www.food.gov.uk)
- - date_published: 2024-07-13T17:41:23+00:00
+ - [https://supportus.ncl.ac.uk](https://supportus.ncl.ac.uk)
+ - date_published: 2024-05-02T10:56:44.601368+00:00
 
- ## Government Actuary's Department
- - [http://www.gad.gov.uk](http://www.gad.gov.uk)
- - date_published: 2024-10-21T14:08:35.049506+00:00
+ ## NERC Data Catalogue Service
+ - [https://data-search.nerc.ac.uk](https://data-search.nerc.ac.uk)
+ - date_published: 2024-07-08T11:24:31.355897+00:00
 
- ## Invalid request
- - [https://registers.gamblingcommission.gov.uk](https://registers.gamblingcommission.gov.uk)
- - date_published: 2024-06-18T06:58:06.328481+00:00
+ ## RRS Sir David Attenborough - British Antarctic Survey
+ - [https://nameourship.nerc.ac.uk](https://nameourship.nerc.ac.uk)
+ - date_published: 2024-07-01T00:00:00+00:00
 
- ## Gambling Commission website
- - [https://www.gamblingcommission.gov.uk](https://www.gamblingcommission.gov.uk)
- - date_published: 2024-06-18T06:58:00.435898+00:00
+ ## Natural Environment Research Council (NERC)
+ - [http://www.nerc.ac.uk](http://www.nerc.ac.uk)
+ - date_published: 2024-07-02T10:06:15.815271+00:00
 
- ## NCSC
- - [https://www.gchq.gov.uk](https://www.gchq.gov.uk)
- - date_published: 2024-02-07T15:32:38+00:00
- - tags: ['uk security intelligence', 'security intelligence']
+ ## Homepage - North East Scotland College
+ - [https://www.nescol.ac.uk](https://www.nescol.ac.uk)
+ - date_published: 2024-08-06T10:09:09+00:00
 
- ## Civil Service Careers
- - [https://gdscareers.gov.uk](https://gdscareers.gov.uk)
- - date_published: 2024-06-17T19:25:14.295338+00:00
+ ## Welcome to Newton Gateway to Mathematics | Newton Gateway to Mathematics
+ - [http://gateway.newton.ac.uk](http://gateway.newton.ac.uk)
+ - date_published: 2024-06-30T08:44:05.515345+00:00
 
- ## Home | Gloucestershire County Council
- - [https://www.gloucestershire.gov.uk](https://www.gloucestershire.gov.uk)
- - date_published: 2024-08-11T12:51:12.223530+00:00
-
- ## Welcome to Haringey Council | Haringey Council
- - [https://www.haringey.gov.uk](https://www.haringey.gov.uk)
- - date_published: 2024-07-18T23:52:12+00:00
+ ## Isaac Newton Institute for Mathematical Sciences
+ - [https://newton.ac.uk](https://newton.ac.uk)
+ - date_published: 2021-01-28T11:54:39+00:00
 
  ## Home
- - [https://health-ni.gov.uk](https://health-ni.gov.uk)
- - date_published: 2024-10-21T10:00:00.549859+00:00
+ - [https://www.nfer.ac.uk](https://www.nfer.ac.uk)
+ - date_published: 2025-01-01T12:06:42.488776+00:00
 
- ## Meetings, agendas, and minutes | Hertfordshire County Council
- - [https://democracy.hertfordshire.gov.uk](https://democracy.hertfordshire.gov.uk)
- - date_published: 2024-07-03T00:00:00+00:00
+ ## Natural History Museum
+ - [https://careers.nhm.ac.uk](https://careers.nhm.ac.uk)
+ - date_published: 2024-05-02T10:56:55.207550+00:00
 
- ## Home - Hertsmere Borough Council
- - [https://www.hertsmere.gov.uk](https://www.hertsmere.gov.uk)
- - date_published: 2024-07-03T17:14:45.650413+00:00
+ ## Natural History Museum | Jobs | Search here for your perfect career - Home Page
+ - [https://jobs.nhm.ac.uk](https://jobs.nhm.ac.uk)
+ - date_published: 2024-06-17T05:38:57.602348+00:00
 
- ## HFEA: UK fertility regulator
- - [https://www.hfea.gov.uk](https://www.hfea.gov.uk)
- - date_published: 2024-12-19T11:58:03.321015+00:00
+ ## Home | Natural History Museum
+ - [https://www.nhm.ac.uk](https://www.nhm.ac.uk)
+ - date_published: 2023-10-27T12:08:54.547443+00:00
+ - tags: ['museum']
 
- ## HM Revenue & Customs
- - [https://hmrc.gov.uk](https://hmrc.gov.uk)
- - date_published: 2024-04-05T00:00:00+00:00
+ ## Home Page - NIESR
+ - [https://niesr.ac.uk](https://niesr.ac.uk)
+ - date_published: 2024-10-21T12:53:59.253371+00:00
 
- ## Legislation.gov.uk
- - [http://www.uk-legislation.hmso.gov.uk](http://www.uk-legislation.hmso.gov.uk)
+ ## NIESR - Local and Regional Regeneration Dashboard
+ - [https://regional-dashboard.niesr.ac.uk](https://regional-dashboard.niesr.ac.uk)
+ - date_published: 2024-10-21T12:54:00.412783+00:00
+
+ ## Loughborough Nightline – Loughborough Nightline Official Website
+ - [https://loughborough.nightline.ac.uk](https://loughborough.nightline.ac.uk)
+ - date_published: 2024-05-08T04:29:50.927693+00:00
+
+ ## Nightline Association - We’ll Listen, Not Lecture
+ - [https://nightline.ac.uk](https://nightline.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Be Part of Research
+ - [https://bepartofresearch.nihr.ac.uk](https://bepartofresearch.nihr.ac.uk)
+ - date_published: 2024-06-18T10:54:04.987018+00:00
+
+ ## NIHR Journals Library
+ - [https://journalslibrary.nihr.ac.uk](https://journalslibrary.nihr.ac.uk)
+ - date_published: 2024-05-12T07:12:57.101492+00:00
+
+ ## NIHR Oxford Health Biomedical Research Centre – Improving brain health: the future in mind
+ - [http://oxfordhealthbrc.nihr.ac.uk](http://oxfordhealthbrc.nihr.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Volunteer Registration - Be Part of Research
+ - [https://volunteer.bepartofresearch.nihr.ac.uk](https://volunteer.bepartofresearch.nihr.ac.uk)
+ - date_published: 2024-05-02T12:35:29.468249+00:00
+
+ ## Welcome — NIHR Applied Research Collaboration Oxford and Thames Valley
+ - [https://www.arc-oxtv.nihr.ac.uk](https://www.arc-oxtv.nihr.ac.uk)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## National Institute for Health and Care Research | NIHR
+ - [https://www.nihr.ac.uk](https://www.nihr.ac.uk)
+ - date_published: 2024-06-17T18:23:24.732634+00:00
+
+ ## Royal Museums Greenwich | Home
+ - [http://www.nmm.ac.uk](http://www.nmm.ac.uk)
+ - date_published: 2024-06-19T15:33:51+00:00
+
+ ## National Museums Scotland Blog
+ - [https://blog.nms.ac.uk](https://blog.nms.ac.uk)
+ - date_published: 2014-11-13T13:47:20+00:00
+
+ ## National Museums Scotland News
+ - [https://media.nms.ac.uk](https://media.nms.ac.uk)
+ - date_published: 2024-05-02T10:57:08.324888+00:00
+
+ ## National Museums Scotland
+ - [https://my.nms.ac.uk](https://my.nms.ac.uk)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## National Museums Scotland
+ - [http://nms.ac.uk](http://nms.ac.uk)
+ - date_published: 2024-06-17T18:17:05.976263+00:00
+
+ ## National Museums Scotland
+ - [https://shop.nms.ac.uk](https://shop.nms.ac.uk)
+ - date_published: 2024-05-02T10:57:04.863751+00:00
+
+ ## Home
+ - [http://www.nnuf.ac.uk](http://www.nnuf.ac.uk)
+ - date_published: 2024-07-08T17:21:39+00:00
+
+ ## Careers | National Oceanography Centre
+ - [https://careers.noc.ac.uk](https://careers.noc.ac.uk)
+ - date_published: 2024-07-08T09:09:23+00:00
+
+ ## Donate to National Oceanography Centre
+ - [https://donate.noc.ac.uk](https://donate.noc.ac.uk)
+ - date_published: 2024-07-08T11:24:28.271410+00:00
+
+ ## National Oceanography Centre | Making sense of changing seas
+ - [https://noc.ac.uk](https://noc.ac.uk)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## University of Northampton  | University of Northampton
+ - [https://northampton.ac.uk](https://northampton.ac.uk)
+ - date_published: 2024-07-10T06:28:17.014163+00:00
+
+ ## Northumbria University, Newcastle
+ - [https://newsroom.northumbria.ac.uk](https://newsroom.northumbria.ac.uk)
+ - date_published: 2025-01-08T19:32:20.765285+00:00
+
+ ## Northumbria University Newcastle #TakeOnTomorrow
+ - [https://northumbria.ac.uk](https://northumbria.ac.uk)
+ - date_published: 2025-01-22T03:59:58.656270+00:00
+
+ ## Northumbria University Newcastle #TakeOnTomorrow
+ - [https://www.northumbria.ac.uk](https://www.northumbria.ac.uk)
+ - date_published: 2024-10-25T10:41:31.866061+00:00
+
+ ## School of Computer Science - The University of Nottingham
+ - [https://cs.nott.ac.uk](https://cs.nott.ac.uk)
+ - date_published: 2024-04-28T03:54:31.136381+00:00
+
+ ## University of Nottingham Blogs
+ - [https://blogs.nottingham.ac.uk](https://blogs.nottingham.ac.uk)
+ - date_published: 2024-05-08T10:43:16.591312+00:00
+
+ ## Digital Research Service
+ - [https://digitalresearch.nottingham.ac.uk](https://digitalresearch.nottingham.ac.uk)
+ - date_published: 2024-08-20T03:52:29+00:00
+
+ ## - Nottingham ePrints
+ - [https://eprints.nottingham.ac.uk](https://eprints.nottingham.ac.uk)
+ - date_published: 2024-04-29T02:19:38.254069+00:00
+
+ ## Log in to the site | moodle.Nottingham
+ - [https://moodle.nottingham.ac.uk](https://moodle.nottingham.ac.uk)
+ - date_published: 2024-08-07T14:21:24.238943+00:00
+
+ ## University of Nottingham
+ - [https://nottingham.ac.uk](https://nottingham.ac.uk)
+ - date_published: 2024-05-23T15:11:53.699523+00:00
+
+ ## UoNSU
+ - [https://su.nottingham.ac.uk](https://su.nottingham.ac.uk)
+ - date_published: 2024-08-20T03:54:32+00:00
+
+ ## Windows on War
+ - [https://windowsonwar.nottingham.ac.uk](https://windowsonwar.nottingham.ac.uk)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## Sign In
+ - [https://now.ntu.ac.uk](https://now.ntu.ac.uk)
+ - date_published: 2024-05-02T10:57:16.606119+00:00
+
+ ## Home  | Nottingham Trent University
+ - [https://ntu.ac.uk](https://ntu.ac.uk)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## Home  | Nottingham Trent University
+ - [https://www4.ntu.ac.uk](https://www4.ntu.ac.uk)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Home
+ - [https://nulondon.ac.uk](https://nulondon.ac.uk)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Homepage - Oxford Centre for Hebrew & Jewish Studies
+ - [https://ochjs.ac.uk](https://ochjs.ac.uk)
+ - date_published: 2024-10-20T06:54:44.352778+00:00
+
+ ## Sign in to online surveys
+ - [https://leeds.onlinesurveys.ac.uk](https://leeds.onlinesurveys.ac.uk)
+ - date_published: 2024-06-18T10:54:06.848243+00:00
+
+ ## About The Open University
+ - [https://about.open.ac.uk](https://about.open.ac.uk)
+ - date_published: 2024-07-01T02:01:53.334820+00:00
+
+ ## The Open University
+ - [https://business.open.ac.uk](https://business.open.ac.uk)
+ - date_published: 2025-02-09T10:50:25.996236+00:00
+
+ ## The Open University
+ - [http://cepsar.open.ac.uk](http://cepsar.open.ac.uk)
+ - date_published: 2025-01-31T15:43:30.551386+00:00
+
+ ## The Open University
+ - [https://community.open.ac.uk](https://community.open.ac.uk)
+ - date_published: 2024-07-01T16:47:51.676933+00:00
+
+ ## Events | Knowledge Media Institute | The Open University
+ - [https://events.kmi.open.ac.uk](https://events.kmi.open.ac.uk)
+ - date_published: 2024-08-18T09:22:48.009325+00:00
+
+ ## The Open University
+ - [https://help.open.ac.uk](https://help.open.ac.uk)
+ - date_published: 2024-05-07T19:51:58.819793+00:00
+
+ ## IET: Institute of Educational Technology, The Open University
+ - [http://iet.open.ac.uk](http://iet.open.ac.uk)
+ - date_published: 2024-06-18T10:22:06.244452+00:00
+
+ ## Sign in to your account
+ - [https://intranet.open.ac.uk](https://intranet.open.ac.uk)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The OU Career Site
+ - [https://jobs.open.ac.uk](https://jobs.open.ac.uk)
+ - date_published: 2025-02-09T10:50:20.985050+00:00
+
+ ## The Open University
+ - [https://learn1.open.ac.uk](https://learn1.open.ac.uk)
+ - date_published: 2024-06-24T10:18:11.753452+00:00
+
+ ## Saml Proxy page
+ - [https://learn2.open.ac.uk](https://learn2.open.ac.uk)
+ - date_published: 2024-07-01T16:47:53.546740+00:00
+
+ ## The Open University
+ - [http://open.ac.uk](http://open.ac.uk)
+ - date_published: 2024-07-04T08:06:02+00:00
+
+ ## The home of free learning from the Open University
+ - [http://openlearn.open.ac.uk](http://openlearn.open.ac.uk)
+ - date_published: 2024-10-19T07:31:23.615847+00:00
+
+ ## The Open University
+ - [http://oro.open.ac.uk](http://oro.open.ac.uk)
  - date_published: 2024-06-28T00:00:00+00:00
 
- ## HM Treasury
- - [http://www.hm-treasury.gov.uk](http://www.hm-treasury.gov.uk)
- - date_published: 2024-07-05T00:00:00+00:00
+ ## The Open University
+ - [https://player.open.ac.uk](https://player.open.ac.uk)
+ - date_published: 2024-05-07T19:51:54.512196+00:00
 
- ## Home Office
- - [http://www.homeoffice.gov.uk](http://www.homeoffice.gov.uk)
- - date_published: 2024-07-18T00:00:00+00:00
+ ## Showing all 62 hot projects | Knowledge Media Institute | The Open University
+ - [http://projects.kmi.open.ac.uk](http://projects.kmi.open.ac.uk)
+ - date_published: 2024-07-01T16:47:42.904245+00:00
 
- ## London Borough of Hounslow Open Data
- - [https://data.hounslow.gov.uk](https://data.hounslow.gov.uk)
- - date_published: 2025-01-02T08:03:08.997844+00:00
+ ## Research at The Open University
+ - [https://research.open.ac.uk](https://research.open.ac.uk)
+ - date_published: 2024-06-20T00:00:00+00:00
 
- ## HSE Books - the official Health and Safety Executive publications   shop.
- - [https://books.hse.gov.uk](https://books.hse.gov.uk)
- - date_published: 2024-09-04T15:28:13.358674+00:00
+ ## Open University System Status
+ - [https://status.open.ac.uk](https://status.open.ac.uk)
+ - date_published: 2024-05-18T00:00:00+00:00
 
- ## HSE Careers | Our people save lives can you? YOU CAN with HSE
- - [https://careers.hse.gov.uk](https://careers.hse.gov.uk)
- - date_published: 2024-09-04T15:28:16.247329+00:00
+ ## The Open University
+ - [https://www2.open.ac.uk](https://www2.open.ac.uk)
+ - date_published: 2024-05-07T19:51:57.209909+00:00
 
- ## HSE: Information about health and safety at work
- - [https://hse.gov.uk](https://hse.gov.uk)
- - date_published: 2024-06-05T07:28:55.611122+00:00
+ ## OSS Watch - independent expert advice on open source software
+ - [http://www.oss-watch.ac.uk](http://www.oss-watch.ac.uk)
+ - date_published: 2022-09-09T18:36:41+00:00
 
- ## HSE Media Centre
- - [https://press.hse.gov.uk](https://press.hse.gov.uk)
- - date_published: 2024-09-04T15:28:11.877303+00:00
+ ## Home — Centre for Evidence-Based Medicine (CEBM), University of Oxford
+ - [https://046.medsci.ox.ac.uk](https://046.medsci.ox.ac.uk)
+ - date_published: 2024-03-14T00:00:00+00:00
 
- ## Home - Solutions from HSE
- - [https://solutions.hse.gov.uk](https://solutions.hse.gov.uk)
- - date_published: 2024-09-04T15:28:14.808665+00:00
-
- ## Home
- - [http://www.hta.gov.uk](http://www.hta.gov.uk)
- - date_published: 2025-02-01T18:31:35.865537+00:00
-
- ## Boundary Commission for England | The Commission is required by the Parliamentary Constituencies Act 1986 to review the Parliamentary constituencies in England every five years
- - [https://boundarycommissionforengland.independent.gov.uk](https://boundarycommissionforengland.independent.gov.uk)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Home - Civil Service Commission
- - [http://civilservicecommission.independent.gov.uk](http://civilservicecommission.independent.gov.uk)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Intelligence and Security Committee of Parliament
- - [https://isc.independent.gov.uk](https://isc.independent.gov.uk)
- - date_published: 2024-05-30T00:00:00+00:00
+ ## 15cBOOKTRADE | Evidence-based assessment and visualization of the distribution, sale, and reception of 15th-century printed Books (incunabula) in the Renaissance
+ - [http://15cbooktrade.ox.ac.uk](http://15cbooktrade.ox.ac.uk)
+ - date_published: 2024-06-17T18:18:51.177289+00:00
 
  ## Home
- - [https://infrastructure-ni.gov.uk](https://infrastructure-ni.gov.uk)
- - date_published: 2024-10-21T10:31:21.633604+00:00
-
- ## Innovate UK
- - [http://www.innovateuk.gov.uk](http://www.innovateuk.gov.uk)
- - date_published: 2024-10-21T09:09:00.973385+00:00
-
- ## Intellectual Property Office
- - [https://ipo.gov.uk](https://ipo.gov.uk)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Intellectual property: Trade marks
- - [https://trademarks.ipo.gov.uk](https://trademarks.ipo.gov.uk)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home - Courts and Tribunals Judiciary
- - [http://www.judiciary.gov.uk](http://www.judiciary.gov.uk)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Justice UK
- - [http://www.justice.gov.uk](http://www.justice.gov.uk)
- - date_published: 2024-07-20T10:48:46.547878+00:00
+ - [https://academic.admin.ox.ac.uk](https://academic.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:37:41+00:00
 
  ## Home
- - [http://www.lakedistrict.gov.uk](http://www.lakedistrict.gov.uk)
- - date_published: 2024-06-09T00:00:00+00:00
+ - [https://academic.web.ox.ac.uk](https://academic.web.ox.ac.uk)
+ - date_published: 2024-06-17T08:42:07+00:00
 
- ## Love Lambeth
- - [https://love.lambeth.gov.uk](https://love.lambeth.gov.uk)
- - date_published: 2024-04-11T00:00:00+00:00
+ ## Wagtail - Sign in
+ - [https://admin.wadham.ox.ac.uk](https://admin.wadham.ox.ac.uk)
+ - date_published: 2024-06-17T18:32:58.084634+00:00
 
- ## Welcome to Lambeth | Lambeth Council
- - [https://www.lambeth.gov.uk](https://www.lambeth.gov.uk)
- - date_published: 2024-01-24T20:56:18.339942+00:00
+ ## AIMS
+ - [https://aims.robots.ox.ac.uk](https://aims.robots.ox.ac.uk)
+ - date_published: 2024-04-22T00:00:00+00:00
 
- ## Home
- - [https://www.lancashire.gov.uk](https://www.lancashire.gov.uk)
- - date_published: 2024-07-17T05:27:26.020189+00:00
+ ## HOME
+ - [https://alumni.ox.ac.uk](https://alumni.ox.ac.uk)
+ - date_published: 2024-06-14T09:11:41+00:00
 
- ## Homepage | London Borough of Hammersmith & Fulham
- - [https://www.lbhf.gov.uk](https://www.lbhf.gov.uk)
- - date_published: 2024-10-21T09:33:53.810828+00:00
-
- ## Legislation.gov.uk
- - [https://www.legislation.gov.uk](https://www.legislation.gov.uk)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | Leicester City
- - [https://mychoice.leicester.gov.uk](https://mychoice.leicester.gov.uk)
- - date_published: 2024-06-27T14:51:10.292719+00:00
-
- ## Leicester City Council
- - [https://www.leicester.gov.uk](https://www.leicester.gov.uk)
- - date_published: 2025-02-04T19:36:08.436553+00:00
-
- ## Welcome | Leicestershire County Council
- - [https://www.leicestershire.gov.uk](https://www.leicestershire.gov.uk)
- - date_published: 2024-06-27T14:28:50+00:00
-
- ## The London Archives • Welcome
- - [https://search.lma.gov.uk](https://search.lma.gov.uk)
- - date_published: 2024-07-30T17:19:37+00:00
-
- ## Local Government Association
- - [https://www.local.gov.uk](https://www.local.gov.uk)
- - date_published: 2024-07-03T16:40:46+00:00
-
- ## Home | Local Digital
- - [https://www.localdigital.gov.uk](https://www.localdigital.gov.uk)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## maps.london.gov.uk
- - [https://apps.london.gov.uk](https://apps.london.gov.uk)
- - date_published: 2023-10-25T22:56:20.873232+00:00
-
- ## London Datastore – Greater London Authority
- - [https://data.london.gov.uk](https://data.london.gov.uk)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Home page
- - [https://london.gov.uk](https://london.gov.uk)
- - date_published: 2024-05-02T12:28:58.396475+00:00
-
- ## London Councils is the collective of local government in London | London Councils - Localgov Drupal
- - [http://www.londoncouncils.gov.uk](http://www.londoncouncils.gov.uk)
- - date_published: 2024-06-18T10:12:46+00:00
+ ## Alumni & Friends - Keble College
+ - [https://anniversary.keble.ox.ac.uk](https://anniversary.keble.ox.ac.uk)
+ - date_published: 2023-09-26T00:00:00+00:00
 
  ## Home
- - [https://www.london-fire.gov.uk](https://www.london-fire.gov.uk)
- - date_published: 2024-05-02T12:29:34.072040+00:00
-
- ## Official blog of the Met Office news team
- - [https://blog.metoffice.gov.uk](https://blog.metoffice.gov.uk)
- - date_published: 2024-07-19T17:46:26.754484+00:00
-
- ## Met Office Careers
- - [https://careers.metoffice.gov.uk](https://careers.metoffice.gov.uk)
- - date_published: 2024-07-19T17:46:22.943085+00:00
-
- ## The Met Office climate data portal
- - [https://climatedataportal.metoffice.gov.uk](https://climatedataportal.metoffice.gov.uk)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Learning Portal: Log in to the site
- - [https://college.metoffice.gov.uk](https://college.metoffice.gov.uk)
- - date_published: 2024-07-19T17:46:24.553428+00:00
-
- ## Met Office - Search
- - [https://library.metoffice.gov.uk](https://library.metoffice.gov.uk)
- - date_published: 2024-07-19T17:46:20.866592+00:00
-
- ## Weather and climate change
- - [https://metoffice.gov.uk](https://metoffice.gov.uk)
- - date_published: 2024-04-28T02:23:26.982648+00:00
-
- ## Met Office (Login)
- - [https://register.metoffice.gov.uk](https://register.metoffice.gov.uk)
- - date_published: 2024-07-21T09:58:08.919265+00:00
-
- ## Met Office WOW - Home Page
- - [https://wow.metoffice.gov.uk](https://wow.metoffice.gov.uk)
- - date_published: 2024-04-30T05:02:45.300161+00:00
-
- ## Home | Middlesbrough Council
- - [https://www.middlesbrough.gov.uk](https://www.middlesbrough.gov.uk)
- - date_published: 2024-10-29T18:33:51.257353+00:00
-
- ## The National Archives Beta
- - [https://beta.nationalarchives.gov.uk](https://beta.nationalarchives.gov.uk)
- - date_published: 2024-05-02T12:29:03.933073+00:00
-
- ## Blog | The National Archives
- - [https://blog.nationalarchives.gov.uk](https://blog.nationalarchives.gov.uk)
- - date_published: 2023-10-25T22:56:25.323831+00:00
-
- ## The National Archives Online Shop
- - [http://bookshop.nationalarchives.gov.uk](http://bookshop.nationalarchives.gov.uk)
- - date_published: 2024-06-18T10:40:58.663557+00:00
-
- ## Find case law
-
-      - The National Archives
- - [https://caselaw.nationalarchives.gov.uk](https://caselaw.nationalarchives.gov.uk)
- - date_published: 2024-05-02T12:29:11.008234+00:00
-
- ## Discovery | The National Archives
- - [https://discovery.nationalarchives.gov.uk](https://discovery.nationalarchives.gov.uk)
- - date_published: 2024-05-02T12:29:13.575805+00:00
-
- ## The National Archives
- - [https://images.nationalarchives.gov.uk](https://images.nationalarchives.gov.uk)
- - date_published: 2024-05-02T12:29:05.337478+00:00
-
- ## Archives Media Player - The National Archives
- - [https://media.nationalarchives.gov.uk](https://media.nationalarchives.gov.uk)
- - date_published: 2024-05-02T12:29:07.920898+00:00
-
- ## The National Archives
- - [https://nationalarchives.gov.uk](https://nationalarchives.gov.uk)
- - date_published: 2024-10-21T09:56:30.150723+00:00
-
- ## Forfront holding page
- - [https://pages.enews.nationalarchives.gov.uk](https://pages.enews.nationalarchives.gov.uk)
- - date_published: 2024-06-18T10:40:34.853722+00:00
-
- ## The National Archives Online Shop
- - [https://shop.nationalarchives.gov.uk](https://shop.nationalarchives.gov.uk)
- - date_published: 2024-05-02T12:29:01.312693+00:00
-
- ## UK Government Web Archive
- - [https://webarchive.nationalarchives.gov.uk](https://webarchive.nationalarchives.gov.uk)
- - date_published: 2024-06-18T06:41:36.328598+00:00
+ - [https://anthro.web.ox.ac.uk](https://anthro.web.ox.ac.uk)
+ - date_published: 2024-06-14T13:26:54+00:00
 
  ## Home
- - [https://nationalcrimeagency.gov.uk](https://nationalcrimeagency.gov.uk)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## SAR Portal
- - [https://sarsreporting.nationalcrimeagency.gov.uk](https://sarsreporting.nationalcrimeagency.gov.uk)
- - date_published: 2024-04-17T18:05:04+00:00
-
- ## Check your cyber security - NCSC.GOV.UK
- - [https://checkcybersecurity.service.ncsc.gov.uk](https://checkcybersecurity.service.ncsc.gov.uk)
- - date_published: 2024-06-13T08:04:28+00:00
-
- ## NCSC
- - [https://www.ncsc.gov.uk](https://www.ncsc.gov.uk)
- - date_published: 2023-10-25T22:56:26.670249+00:00
-
- ## Home Page - New Forest National Park Authority
- - [https://www.newforestnpa.gov.uk](https://www.newforestnpa.gov.uk)
- - date_published: 2024-10-31T04:12:55.265714+00:00
-
- ## The Northern Ireland Assembly
- - [http://www.niassembly.gov.uk](http://www.niassembly.gov.uk)
- - date_published: 2024-06-24T06:21:17.946565+00:00
+ - [https://apprenticeships.web.ox.ac.uk](https://apprenticeships.web.ox.ac.uk)
+ - date_published: 2024-10-20T06:56:03.128554+00:00
 
  ## Home
- - [https://nidirect.gov.uk](https://nidirect.gov.uk)
- - date_published: 2024-10-21T10:31:23.971526+00:00
+ - [https://archit.web.ox.ac.uk](https://archit.web.ox.ac.uk)
+ - date_published: 2024-06-15T17:04:59+00:00
+
+ ## Welcome to the Griffith Institute Archive's Online Catalogue - Griffith Institute Archive
+ - [http://archive.griffith.ox.ac.uk](http://archive.griffith.ox.ac.uk)
+ - date_published: 2024-10-20T06:55:09.372701+00:00
 
  ## Home
- - [http://www.nimdta.gov.uk](http://www.nimdta.gov.uk)
- - date_published: 2024-10-21T09:59:49.970297+00:00
+ - [https://areastudies.web.ox.ac.uk](https://areastudies.web.ox.ac.uk)
+ - date_published: 2024-06-11T17:30:20+00:00
 
- ## Home
- - [https://www.nisra.gov.uk](https://www.nisra.gov.uk)
- - date_published: 2024-06-17T19:16:56+00:00
+ ## Welcome
+ - [https://ashmolean.web.ox.ac.uk](https://ashmolean.web.ox.ac.uk)
+ - date_published: 2024-06-17T16:48:35+00:00
 
- ## Home - Norfolk Heritage Explorer
- - [http://www.heritage.norfolk.gov.uk](http://www.heritage.norfolk.gov.uk)
- - date_published: 2024-10-17T13:17:50.456010+00:00
+ ## Ballads Online
+ - [http://ballads.bodleian.ox.ac.uk](http://ballads.bodleian.ox.ac.uk)
+ - date_published: 2024-08-11T04:57:32.834530+00:00
 
- ## Norfolk Museums Service - Norfolk Museums Service
- - [https://www.museums.norfolk.gov.uk](https://www.museums.norfolk.gov.uk)
- - date_published: 2024-09-06T18:54:23.570296+00:00
+ ## Balliol College
+ - [https://balliol.ox.ac.uk](https://balliol.ox.ac.uk)
+ - date_published: 2024-10-20T05:28:03.176811+00:00
 
- ## Home
- - [http://www.northernireland.gov.uk](http://www.northernireland.gov.uk)
- - date_published: 2024-10-21T09:58:57.932753+00:00
+ ## Home The Bate Collection of Musical Instruments
+ - [https://bate.web.ox.ac.uk](https://bate.web.ox.ac.uk)
+ - date_published: 2024-10-20T06:47:30.522763+00:00
 
- ## UK Government Web Archive
- - [https://northernpowerhouse.gov.uk](https://northernpowerhouse.gov.uk)
- - date_published: 2025-01-23T20:14:27.020218+00:00
+ ## Bennett Institute for Applied Data Science - University of Oxford
+ - [https://bennett.ox.ac.uk](https://bennett.ox.ac.uk)
+ - date_published: 2024-05-08T11:17:03.329283+00:00
 
- ## Simple Search
- - [https://idoxpa.north-norfolk.gov.uk](https://idoxpa.north-norfolk.gov.uk)
- - date_published: 2024-10-17T13:17:44.848185+00:00
-
- ## Home
- - [https://www.northyorks.gov.uk](https://www.northyorks.gov.uk)
- - date_published: 2025-01-31T18:47:55.847546+00:00
-
- ## National Records of Scotland | Preserving the past, Recording the present, Informing the future
- - [https://www.nrscotland.gov.uk](https://www.nrscotland.gov.uk)
- - date_published: 2024-10-21T09:57:58.696699+00:00
-
- ## Welcome to Ofgem
- - [https://ofgem.gov.uk](https://ofgem.gov.uk)
- - date_published: 2025-01-20T21:11:31.145266+00:00
-
- ## Welcome to Ofgem
- - [https://www.ofgem.gov.uk](https://www.ofgem.gov.uk)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Contact us | Ofsted
- - [https://contact.ofsted.gov.uk](https://contact.ofsted.gov.uk)
- - date_published: 2024-06-17T17:49:08.445753+00:00
-
- ## Ofsted
- - [https://ofsted.gov.uk](https://ofsted.gov.uk)
- - date_published: 2024-10-20T03:48:06.985705+00:00
-
- ## Find an Ofsted inspection report
- - [https://reports.ofsted.gov.uk](https://reports.ofsted.gov.uk)
- - date_published: 2024-05-02T10:52:48.075088+00:00
-
- ## Office of Fair Trading
- - [http://www.oft.gov.uk](http://www.oft.gov.uk)
- - date_published: 2024-10-18T19:01:11.703681+00:00
-
- ## Home - Ofwat
- - [http://www.ofwat.gov.uk](http://www.ofwat.gov.uk)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## National Statistical | News and insight from the Office for National Statistics
- - [https://blog.ons.gov.uk](https://blog.ons.gov.uk)
- - date_published: 2024-05-02T12:29:17.665634+00:00
-
- ## ONS Careers
- - [https://careers.ons.gov.uk](https://careers.ons.gov.uk)
- - date_published: 2024-06-17T06:49:43.793796+00:00
-
- ## ONS CDN
- - [https://cdn.ons.gov.uk](https://cdn.ons.gov.uk)
- - date_published: 2022-01-17T13:27:53+00:00
-
- ## Office for National Statistics
-            
-            - Citizen Space
- - [https://consultations.ons.gov.uk](https://consultations.ons.gov.uk)
+ ## Beyond Antibiotics: A Programme Grant funded by the Engineering and Physical Sciences Research Council (EPSRC), Institute of Biomedical Engineering, University of Oxford
+ - [https://beyondantibiotics.ox.ac.uk](https://beyondantibiotics.ox.ac.uk)
  - date_published: 2024-05-22T00:00:00+00:00
 
  ## Home
-      - Swyddfa Ystadegau Gwladol
- - [https://cy.ons.gov.uk](https://cy.ons.gov.uk)
- - date_published: 2024-05-02T12:29:20.673766+00:00
+ - [https://blog.politics.ox.ac.uk](https://blog.politics.ox.ac.uk)
+ - date_published: 2024-06-24T07:39:08+00:00
 
- ## Explore local statistics - ONS
- - [https://explore-local-statistics.beta.ons.gov.uk](https://explore-local-statistics.beta.ons.gov.uk)
- - date_published: 2024-05-02T12:29:15.022096+00:00
+ ## Practical Ethics
+ - [https://blog.practicalethics.ox.ac.uk](https://blog.practicalethics.ox.ac.uk)
+ - date_published: 2023-10-25T22:49:17.344700+00:00
 
- ## Home
-      - Office for National Statistics
- - [https://ons.gov.uk](https://ons.gov.uk)
- - date_published: 2024-10-21T09:59:22.225348+00:00
+ ## Bodleian Libraries blogs
+ - [https://blogs.bodleian.ox.ac.uk](https://blogs.bodleian.ox.ac.uk)
+ - date_published: 2023-12-22T21:18:28.167479+00:00
 
- ## ONS Static Content
- - [https://static.ons.gov.uk](https://static.ons.gov.uk)
- - date_published: 2022-02-16T14:33:56+00:00
+ ## IT Services Blogs | thoughts from University of Oxford IT Services
+ - [https://blogs.it.ox.ac.uk](https://blogs.it.ox.ac.uk)
+ - date_published: 2024-06-17T18:19:46.475557+00:00
 
- ## Home
-      - Office for National Statistics
- - [http://visual.ons.gov.uk](http://visual.ons.gov.uk)
- - date_published: 2024-07-06T23:56:58.616828+00:00
+ ## Blog Homepage | Oxford Law Blogs
+ - [https://blogs.law.ox.ac.uk](https://blogs.law.ox.ac.uk)
+ - date_published: 2024-06-17T18:23:05.336311+00:00
 
- ## Welcome - Open Data NI
- - [https://admin.opendatani.gov.uk](https://admin.opendatani.gov.uk)
- - date_published: 2024-08-31T00:00:00+00:00
+ ## Blogs from the Museum of the History of Science - MHS Blogs
+ - [https://blogs.mhs.ox.ac.uk](https://blogs.mhs.ox.ac.uk)
+ - date_published: 2015-08-02T00:00:00+00:00
 
- ## Open Data Northern Ireland
- - [https://www.opendatani.gov.uk](https://www.opendatani.gov.uk)
- - date_published: 2024-06-12T12:51:54.684056+00:00
+ ## Index
+ - [http://blogs.some.ox.ac.uk](http://blogs.some.ox.ac.uk)
+ - date_published: 2024-06-17T18:18:06.239818+00:00
 
- ## Legislation.gov.uk
- - [http://www.opsi.gov.uk](http://www.opsi.gov.uk)
- - date_published: 2024-10-22T17:04:12.697011+00:00
+ ## Digital Bodleian
+ - [http://bodley30.bodley.ox.ac.uk](http://bodley30.bodley.ox.ac.uk)
+ - date_published: 2024-10-20T05:28:21.179328+00:00
 
- ## Oxford City Council Homepage – Oxford City Council
- - [https://www.oxford.gov.uk](https://www.oxford.gov.uk)
- - date_published: 2024-06-17T18:46:16.713650+00:00
+ ## Language and Brain Laboratory
+ - [http://brainlab.clp.ox.ac.uk](http://brainlab.clp.ox.ac.uk)
+ - date_published: 2024-06-17T17:19:06+00:00
 
- ## Home | Oxfordshire County Council
- - [https://www.oxfordshire.gov.uk](https://www.oxfordshire.gov.uk)
- - date_published: 2024-10-20T06:56:18.574089+00:00
+ ## Homepage | Blavatnik School of Government
+ - [https://bsg.ox.ac.uk](https://bsg.ox.ac.uk)
+ - date_published: 2024-10-29T05:16:53.412541+00:00
 
- ## Parwich Parish Council
- - [https://www.parwichparishcouncil.gov.uk](https://www.parwichparishcouncil.gov.uk)
- - date_published: 2025-01-31T18:04:46.980910+00:00
+ ## Login to Canvas - University of Oxford
+ - [https://canvas.ox.ac.uk](https://canvas.ox.ac.uk)
+ - date_published: 2024-06-17T18:33:06.673535+00:00
 
- ## Home: Peak District National Park
- - [https://www.peakdistrict.gov.uk](https://www.peakdistrict.gov.uk)
- - date_published: 2024-10-31T04:12:10.911996+00:00
-
- ## Homepage | Royal Borough of Kensington and Chelsea
- - [https://www.rbkc.gov.uk](https://www.rbkc.gov.uk)
- - date_published: 2024-07-08T00:00:00+00:00
+ ## Catherine's Correspondence / Home
+ - [https://catcor.seh.ox.ac.uk](https://catcor.seh.ox.ac.uk)
+ - date_published: 2024-10-20T06:38:34.248388+00:00
 
  ## Home
- - [https://www.ros.gov.uk](https://www.ros.gov.uk)
- - date_published: 2025-01-24T22:23:55.737179+00:00
-
- ## The official website of the Royal Family
- - [https://www.royal.gov.uk](https://www.royal.gov.uk)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Home - South Cambs District Council
- - [https://www.scambs.gov.uk](https://www.scambs.gov.uk)
- - date_published: 2024-10-15T22:56:22.455905+00:00
-
- ## Scottish Government consultations
-            
-            - Citizen Space
- - [https://consult.scotland.gov.uk](https://consult.scotland.gov.uk)
- - date_published: 2024-08-05T22:58:42.613878+00:00
-
- ## The Scottish Government
- - [http://www.scotland.gov.uk](http://www.scotland.gov.uk)
- - date_published: 2024-10-21T09:58:56.520662+00:00
-
- ## Find your Scottish ancestors | ScotlandsPeople
- - [http://www.scotlandspeople.gov.uk](http://www.scotlandspeople.gov.uk)
- - date_published: 2024-06-22T10:27:40+00:00
-
- - [https://assets.publishing.service.gov.uk](https://assets.publishing.service.gov.uk)
- - date_published: 2024-03-05T16:07:07.182909+00:00
-
- ## Home – GOV.UK Design System
- - [https://design-system.service.gov.uk](https://design-system.service.gov.uk)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## : Specifications list
- - [https://developer-specs.company-information.service.gov.uk](https://developer-specs.company-information.service.gov.uk)
- - date_published: 2024-06-18T10:42:24.428199+00:00
-
- ## Explore our statistics and data
- - [https://explore-education-statistics.service.gov.uk](https://explore-education-statistics.service.gov.uk)
- - date_published: 2024-05-07T10:12:36.418437+00:00
-
- ## Find and update company information - GOV.UK
- - [https://find-and-update.company-information.service.gov.uk](https://find-and-update.company-information.service.gov.uk)
- - date_published: 2023-10-25T22:56:34.267694+00:00
-
- ## Home - Find a grant
- - [https://find-government-grants.service.gov.uk](https://find-government-grants.service.gov.uk)
- - date_published: 2024-05-07T10:04:57.996994+00:00
-
- ## Search and compare gender pay gap data - Gender pay gap service - GOV.UK
- - [https://gender-pay-gap.service.gov.uk](https://gender-pay-gap.service.gov.uk)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Schools Financial Benchmarking - GOV.UK
- - [https://schools-financial-benchmarking.service.gov.uk](https://schools-financial-benchmarking.service.gov.uk)
- - date_published: 2024-06-29T09:08:01.735664+00:00
-
- ## WCN ATS
- - [https://static.civilservicejobs.service.gov.uk](https://static.civilservicejobs.service.gov.uk)
- - date_published: 2018-12-31T17:11:38+00:00
-
- ## HM Revenue & Customs
- - [https://tax.service.gov.uk](https://tax.service.gov.uk)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## HM Revenue & Customs
- - [https://www.apply-civil-service-fast-stream.service.gov.uk](https://www.apply-civil-service-fast-stream.service.gov.uk)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Digital Marketplace
- - [https://www.applytosupply.digitalmarketplace.service.gov.uk](https://www.applytosupply.digitalmarketplace.service.gov.uk)
- - date_published: 2024-10-11T19:51:54.899294+00:00
-
- ## Civil Service job search - Civil Service Jobs - GOV.UK
- - [https://www.civilservicejobs.service.gov.uk](https://www.civilservicejobs.service.gov.uk)
- - date_published: 2024-05-02T12:28:46.677679+00:00
-
- ## Search for schools, colleges and multi-academy trusts - Compare school and college performance data in England - GOV.UK
- - [https://www.compare-school-performance.service.gov.uk](https://www.compare-school-performance.service.gov.uk)
- - date_published: 2024-06-17T17:49:09.736206+00:00
-
- ## Contracts Finder
- - [https://www.contractsfinder.service.gov.uk](https://www.contractsfinder.service.gov.uk)
- - date_published: 2024-06-17T10:57:57.048757+00:00
-
- ## Find a quality assured tuition partner
- - [https://www.find-tuition-partner.service.gov.uk](https://www.find-tuition-partner.service.gov.uk)
- - date_published: 2024-07-15T05:20:27.529683+00:00
-
- ## Get Information about Schools - GOV.UK
- - [https://www.get-information-schools.service.gov.uk](https://www.get-information-schools.service.gov.uk)
- - date_published: 2024-06-29T09:08:00.925136+00:00
-
- ## GOV.UK Pay
- - [https://www.payments.service.gov.uk](https://www.payments.service.gov.uk)
- - date_published: 2025-01-06T09:41:24+00:00
+ - [https://chem.web.ox.ac.uk](https://chem.web.ox.ac.uk)
+ - date_published: 2024-06-17T09:04:02+00:00
 
  ## Home
- - [https://www.sfo.gov.uk](https://www.sfo.gov.uk)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Home page - Small Business Commissioner
- - [https://www.smallbusinesscommissioner.gov.uk](https://www.smallbusinesscommissioner.gov.uk)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Home - South Downs National Park
- - [https://www.southdowns.gov.uk](https://www.southdowns.gov.uk)
- - date_published: 2024-10-31T04:07:52+00:00
+ - [https://childcare.admin.ox.ac.uk](https://childcare.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:39:11+00:00
 
  ## Home
- - [https://forms.southwark.gov.uk](https://forms.southwark.gov.uk)
- - date_published: 2024-09-09T13:13:40.861325+00:00
+ - [https://clasoutreach.web.ox.ac.uk](https://clasoutreach.web.ox.ac.uk)
+ - date_published: 2024-06-13T20:38:41+00:00
 
- ## Jobs at Southwark Home - Southwark
- - [https://jobs.southwark.gov.uk](https://jobs.southwark.gov.uk)
- - date_published: 2024-09-09T13:13:42.412292+00:00
+ ## Centre for Manuscript and Text Cultures
+ - [https://cmtc.queens.ox.ac.uk](https://cmtc.queens.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:51.204382+00:00
 
- ## MySouthwark Login
- - [https://my.southwark.gov.uk](https://my.southwark.gov.uk)
- - date_published: 2024-09-09T13:14:07.332327+00:00
-
- ## FixMyStreet
- - [http://report.southwark.gov.uk](http://report.southwark.gov.uk)
- - date_published: 2024-09-09T00:00:00+00:00
+ ## home
+ - [https://collegevacancies.web.ox.ac.uk](https://collegevacancies.web.ox.ac.uk)
+ - date_published: 2024-06-17T16:15:14+00:00
 
  ## Home
- - [https://southwark.gov.uk](https://southwark.gov.uk)
- - date_published: 2024-04-30T06:27:57.255358+00:00
-
- ## Research and statistics
- - [http://www.statistics.gov.uk](http://www.statistics.gov.uk)
- - date_published: 2024-10-21T12:05:43.376938+00:00
-
- ## Home
- - [https://osr.statisticsauthority.gov.uk](https://osr.statisticsauthority.gov.uk)
- - date_published: 2024-06-29T09:08:03.602809+00:00
-
- ## The UK Statistical System - The UK Statistical System
- - [http://www.statisticsauthority.gov.uk](http://www.statisticsauthority.gov.uk)
- - date_published: 2024-10-21T09:58:17.860710+00:00
-
- ## Home
- - [https://www.stevenage.gov.uk](https://www.stevenage.gov.uk)
- - date_published: 2025-01-23T18:58:19.050921+00:00
-
- ## Home
- - [https://www.stroud.gov.uk](https://www.stroud.gov.uk)
- - date_published: 2024-10-22T18:25:25.671914+00:00
-
- ## Home
- - [https://www.suffolk.gov.uk](https://www.suffolk.gov.uk)
- - date_published: 2024-06-18T07:06:05.650263+00:00
-
- ## Home
- - [http://www.suffolkcc.gov.uk](http://www.suffolkcc.gov.uk)
- - date_published: 2024-05-02T11:51:17.159420+00:00
-
- ## Surrey County Council
- - [https://www.surreycc.gov.uk](https://www.surreycc.gov.uk)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## Have Your Say Transport for London
- - [https://consultations.tfl.gov.uk](https://consultations.tfl.gov.uk)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Have Your Say Transport for London
- - [http://haveyoursay.tfl.gov.uk](http://haveyoursay.tfl.gov.uk)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Experience London blog
- - [https://londonblog.tfl.gov.uk](https://londonblog.tfl.gov.uk)
- - date_published: 2023-11-02T14:58:34.376654+00:00
-
- ## Made by TfL blog
- - [https://madeby.tfl.gov.uk](https://madeby.tfl.gov.uk)
- - date_published: 2024-05-02T12:29:38.995569+00:00
-
- ## Keeping London moving - Transport for London
- - [https://tfl.gov.uk](https://tfl.gov.uk)
- - date_published: 2023-10-25T22:56:36.464450+00:00
-
- ## Tower Hamlets Council - Committee and Member Services
- - [https://democracy.towerhamlets.gov.uk](https://democracy.towerhamlets.gov.uk)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Home
- - [https://www.towerhamlets.gov.uk](https://www.towerhamlets.gov.uk)
- - date_published: 2024-08-11T12:52:09.331302+00:00
-
- ## About us
- - [https://ukho.gov.uk](https://ukho.gov.uk)
- - date_published: 2024-10-16T08:14:28+00:00
-
- ## Vehicle Certification Agency
- - [https://www.vehicle-certification-agency.gov.uk](https://www.vehicle-certification-agency.gov.uk)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Home | Waverley Borough Council
- - [https://www.waverley.gov.uk](https://www.waverley.gov.uk)
- - date_published: 2024-06-29T03:30:48.126804+00:00
-
- ## Wealden District Council
- - [https://www.wealden.gov.uk](https://www.wealden.gov.uk)
- - date_published: 2024-12-30T18:06:58.586736+00:00
-
- ## Homepage | Westminster City Council
- - [https://www.westminster.gov.uk](https://www.westminster.gov.uk)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## West Yorkshire Combined Authority
- - [https://www.westyorks-ca.gov.uk](https://www.westyorks-ca.gov.uk)
- - date_published: 2024-10-31T04:13:12.217718+00:00
-
- ## Home
- - [https://www.winchester.gov.uk](https://www.winchester.gov.uk)
- - date_published: 2024-10-20T17:12:51.376614+00:00
-
- ## Have your say Wirral
- - [https://haveyoursay.wirral.gov.uk](https://haveyoursay.wirral.gov.uk)
- - date_published: 2024-12-31T07:33:55.614039+00:00
-
- ## Home
- - [https://www.parmiters.herts.sch.uk](https://www.parmiters.herts.sch.uk)
- - date_published: 2024-07-03T17:14:37.267620+00:00
-
- ## Home - Beaconsfield
- - [http://www.beaconsfield.ltd.uk](http://www.beaconsfield.ltd.uk)
- - date_published: 2025-02-01T14:03:47.493314+00:00
-
- ## Betting Sites Ltd - Best New UK Betting Sites 2024
- - [https://bettingsites.ltd.uk](https://bettingsites.ltd.uk)
- - date_published: 2024-10-21T15:13:20.825678+00:00
-
- ## FilmLight | Home
- - [https://www.filmlight.ltd.uk](https://www.filmlight.ltd.uk)
- - date_published: 2024-09-13T18:04:46.083158+00:00
-
- ## The top FREE BETS for June 2024
- - [https://freebets.ltd.uk](https://freebets.ltd.uk)
- - date_published: 2024-06-23T08:13:34.938598+00:00
-
- ## MPI Recruitment | Recruitment Redefined
- - [https://www.mpi.ltd.uk](https://www.mpi.ltd.uk)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Netronics Ltd.
- - [http://www.netronics.ltd.uk](http://www.netronics.ltd.uk)
- - date_published: 2025-02-01T21:34:58.491601+00:00
-
- ## PERI UK, Trusted Suppliers of Formwork, Scaffolding and Engineering.
- - [https://www.peri.ltd.uk](https://www.peri.ltd.uk)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Andys Workshop
- - [http://andybrown.me.uk](http://andybrown.me.uk)
- - date_published: 2024-09-06T13:51:54.807989+00:00
-
- ## Martin Atkins
- - [http://martin.atkins.me.uk](http://martin.atkins.me.uk)
- - date_published: 2019-11-09T18:48:26+00:00
-
- ## Blog Me, UK!
- - [https://blog.me.uk](https://blog.me.uk)
- - date_published: 2024-05-04T05:49:52.045286+00:00
-
- ## Custom Domain by Bitly
- - [https://bobbuzz.me.uk](https://bobbuzz.me.uk)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## bstephen.me.uk
- - [https://bstephen.me.uk](https://bstephen.me.uk)
- - date_published: 2024-10-31T20:17:32.279935+00:00
-
- ## Index of /
- - [https://chriscoulson.me.uk](https://chriscoulson.me.uk)
- - date_published: 2024-09-21T22:53:29.012748+00:00
-
- ## Currency
- - [https://currency.me.uk](https://currency.me.uk)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Währung
- - [https://de.currency.me.uk](https://de.currency.me.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## moneda
- - [https://es.currency.me.uk](https://es.currency.me.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Monnaie
- - [https://fr.currency.me.uk](https://fr.currency.me.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## valuta
- - [https://it.currency.me.uk](https://it.currency.me.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## moeda
- - [https://pt.currency.me.uk](https://pt.currency.me.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## The Morning Brew
- - [https://blog.cwa.me.uk](https://blog.cwa.me.uk)
- - date_published: 2024-05-08T03:51:09.265387+00:00
-
- ## Home
- - [http://www.cyberscore.me.uk](http://www.cyberscore.me.uk)
- - date_published: 2024-10-22T09:34:52.271381+00:00
-
- ## www.dan.me.uk
- - [https://www.dan.me.uk](https://www.dan.me.uk)
- - date_published: 2024-05-06T15:11:03.904844+00:00
-
- ## Meet Your Match
- - [http://www.davegardner.me.uk](http://www.davegardner.me.uk)
- - date_published: 2024-09-09T20:15:12.377641+00:00
-
- ## Blogger
- - [http://devilskitchen.me.uk](http://devilskitchen.me.uk)
- - date_published: 2024-07-03T21:54:35.179605+00:00
-
- ## Doves & Bullets - Doves & Bullets
- - [https://dovesandbullets.me.uk](https://dovesandbullets.me.uk)
- - date_published: 2021-05-05T00:00:00+00:00
-
- ## Welcome
- - [https://ebaker.me.uk](https://ebaker.me.uk)
- - date_published: 2024-05-09T04:25:50.626876+00:00
-
- ## Ed's Blog
- - [https://pblog.ebaker.me.uk](https://pblog.ebaker.me.uk)
- - date_published: 2024-03-19T03:11:23+00:00
-
- ## Bioacoustic Analysis and Publication Tools
- - [https://sonicscrewdriver.ebaker.me.uk](https://sonicscrewdriver.ebaker.me.uk)
- - date_published: 2024-05-13T16:01:40+00:00
-
- ## Domain For Sale OR Lease - Contact Liam on 07852 198 198
- - [http://foreversonic.me.uk](http://foreversonic.me.uk)
- - date_published: 2023-08-13T14:44:03+00:00
-
- ## Gestaltweb
- - [https://gestaltweb.me.uk](https://gestaltweb.me.uk)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Welcome to Get Ready to ROCK! (GRTR!)
- - [https://getreadytorock.me.uk](https://getreadytorock.me.uk)
- - date_published: 2024-10-17T12:14:07.127542+00:00
-
- ## Ben's Place
- - [https://blog.hardill.me.uk](https://blog.hardill.me.uk)
- - date_published: 2025-01-15T18:27:42.272787+00:00
-
- ## Andreas Jansson's personal web page
- - [http://andreas.jansson.me.uk](http://andreas.jansson.me.uk)
- - date_published: 2012-04-06T02:56:58+00:00
-
- ## James Valentine – Solutions Architect (amongst other things)
- - [https://jdv.me.uk](https://jdv.me.uk)
- - date_published: 2024-09-04T17:44:54.431704+00:00
- - tags: ['personal']
-
- ## JonBlog | Thoughts on website ideas, PHP and other tech topics, plus going car-free
- - [https://blog.jondh.me.uk](https://blog.jondh.me.uk)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Make your own blog
- - [https://ilovephp.jondh.me.uk](https://ilovephp.jondh.me.uk)
- - date_published: 2014-08-30T00:00:00+00:00
-
- ## Ismael Juma
- - [https://blog.juma.me.uk](https://blog.juma.me.uk)
- - date_published: 2024-07-18T12:14:25.263944+00:00
-
- ## 36 frames - by Wayne Lee
- - [http://www.katherinehturner.me.uk](http://www.katherinehturner.me.uk)
- - date_published: 2024-11-16T21:40:03.653337+00:00
-
- ## www.lamont.me.uk
- - [http://www.lamont.me.uk](http://www.lamont.me.uk)
- - date_published: 2023-03-10T09:58:46+00:00
-
- ## Luke Plant's home page - lukeplant.me.uk
- - [https://lukeplant.me.uk](https://lukeplant.me.uk)
- - date_published: 2023-10-25T22:56:38.556582+00:00
-
- ## Under construction - Awesome site in the making!
- - [http://www.markcarter.me.uk](http://www.markcarter.me.uk)
- - date_published: 2024-04-04T11:53:15+00:00
-
- ## mastodon.me.uk
- - [https://mastodon.me.uk](https://mastodon.me.uk)
- - date_published: 2024-01-17T05:11:28.561119+00:00
-
- ## Michael Barton
- - [http://www.michaelbarton.me.uk](http://www.michaelbarton.me.uk)
- - date_published: 2021-11-19T12:42:20+00:00
-
- ## Ministry of Truth
- - [http://www.ministryoftruth.me.uk](http://www.ministryoftruth.me.uk)
- - date_published: 2024-06-18T11:08:09.062410+00:00
-
- ## mjt.me.uk
- - [https://www.mjt.me.uk](https://www.mjt.me.uk)
- - date_published: 2021-08-08T20:08:25+00:00
-
- ## Sam Tate
- - [https://sa.mtate.me.uk](https://sa.mtate.me.uk)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Oliver Caldwell's blog
- - [https://oli.me.uk](https://oli.me.uk)
- - date_published: 2022-05-19T16:38:07+00:00
-
- ## Best Free Hookup Sites UK (No Signup or Credit Card)
- - [http://otherworld.me.uk](http://otherworld.me.uk)
- - date_published: 2025-01-01T17:57:53.224499+00:00
-
- ## Best Free Hookup Sites UK (No Signup or Credit Card)
- - [http://www.otherworld.me.uk](http://www.otherworld.me.uk)
- - date_published: 2024-12-31T17:36:29.434862+00:00
-
- ## ParkyTowers
- - [https://www.parkytowers.me.uk](https://www.parkytowers.me.uk)
- - date_published: 2023-10-25T22:56:42.561833+00:00
-
- ## Index of /
- - [https://petermwrobinson.me.uk](https://petermwrobinson.me.uk)
- - date_published: 2024-04-29T02:44:55.604421+00:00
-
- ## Home Page. My Journey into Life
- - [http://www.philhendry.me.uk](http://www.philhendry.me.uk)
- - date_published: 2025-01-01T15:47:01.272087+00:00
-
- ## Login - Cloudlog
- - [https://logbook.philpem.me.uk](https://logbook.philpem.me.uk)
- - date_published: 2024-08-19T20:15:46.182899+00:00
-
- ## philpem's homepage
- - [https://philpem.me.uk](https://philpem.me.uk)
- - date_published: 2018-05-11T22:33:32+00:00
-
- ## HackThisSite
- - [http://www.read2.me.uk](http://www.read2.me.uk)
- - date_published: 2024-11-16T19:34:01.072571+00:00
-
- ## retrofusion.me.uk
- - [http://www.retrofusion.me.uk](http://www.retrofusion.me.uk)
- - date_published: 2024-09-13T20:09:03.237134+00:00
-
- ## Roger Darlington's World
- - [http://www.rogerdarlington.me.uk](http://www.rogerdarlington.me.uk)
- - date_published: 2024-06-28T20:56:44.143361+00:00
-
- ## Shaun McDonald's Blog
- - [http://blog.shaunmcdonald.me.uk](http://blog.shaunmcdonald.me.uk)
- - date_published: 2024-07-08T12:51:27.150751+00:00
-
- ## The Sideshow
- - [http://sideshow.me.uk](http://sideshow.me.uk)
- - date_published: 2024-05-26T03:40:24+00:00
-
- ## Julia Snell
- - [http://www.snell.me.uk](http://www.snell.me.uk)
- - date_published: 2024-07-02T09:45:29.970685+00:00
-
- ## Toot.me.uk
- - [https://toot.me.uk](https://toot.me.uk)
- - date_published: 2024-07-20T06:07:50.492444+00:00
-
- ## Trunk Animation Studio London - Trunk | Animation Production Company
- - [http://www.trunk.me.uk](http://www.trunk.me.uk)
- - date_published: 2025-02-03T23:01:49.186230+00:00
-
- ## The Waving Flag
- - [http://blog.vexillia.me.uk](http://blog.vexillia.me.uk)
- - date_published: 2025-02-01T20:17:06.126135+00:00
-
- ## Visiting all the maps!
- - [https://visitingallthemaps.me.uk](https://visitingallthemaps.me.uk)
- - date_published: 2024-05-07T14:47:17.846734+00:00
-
- ## Bibliography | Romance Scholarship DB
- - [https://rsdb.vivanco.me.uk](https://rsdb.vivanco.me.uk)
- - date_published: 2024-07-04T13:15:43+00:00
-
- ## Welcome | Laura Vivanco
- - [http://www.vivanco.me.uk](http://www.vivanco.me.uk)
- - date_published: 2024-07-04T08:30:09+00:00
-
- ## Difftastic, a structural diff tool that understands syntax
- - [https://difftastic.wilfred.me.uk](https://difftastic.wilfred.me.uk)
- - date_published: 2024-03-21T13:42:46+00:00
-
- ## Wilfred Hughes::Blog
- - [https://www.wilfred.me.uk](https://www.wilfred.me.uk)
- - date_published: 2023-09-15T04:16:23+00:00
-
- ## RevK®'s ramblings
- - [http://www.me.uk](http://www.me.uk)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Index -  Xylo Cafe Review
- - [http://cafereview.xylon.me.uk](http://cafereview.xylon.me.uk)
- - date_published: 2020-11-29T14:35:21+00:00
-
- ## Joseph's ReadTheOrg
- - [https://readtheorg.xylon.me.uk](https://readtheorg.xylon.me.uk)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## Joseph's Blog
- - [https://seeking.xylon.me.uk](https://seeking.xylon.me.uk)
- - date_published: 2023-10-25T00:00:00+00:00
-
- ## Hi, I'm Joseph.
- - [https://www.xylon.me.uk](https://www.xylon.me.uk)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Jack Windsor Lewis
- - [http://www.yek.me.uk](http://www.yek.me.uk)
- - date_published: 2018-05-18T14:32:21+00:00
-
- ## A&A - Home
- - [https://aa.net.uk](https://aa.net.uk)
- - date_published: 2024-05-01T05:59:39.439107+00:00
-
- ## Andrews & Arnold Ltd Accounts
- - [https://accounts.aa.net.uk](https://accounts.aa.net.uk)
- - date_published: 2024-09-27T07:50:54.897237+00:00
-
- ## Network Administration
- - [https://control.aa.net.uk](https://control.aa.net.uk)
- - date_published: 2024-09-27T07:50:51.363629+00:00
-
- ## AAISP
- - [https://social.aa.net.uk](https://social.aa.net.uk)
- - date_published: 2024-06-16T07:42:05.663684+00:00
-
- ## AAISP LibreSpeed
- - [http://speedtest2.aa.net.uk](http://speedtest2.aa.net.uk)
- - date_published: 2020-12-15T09:59:55+00:00
-
- ## AAISP Support Site
- - [https://support.aa.net.uk](https://support.aa.net.uk)
- - date_published: 2024-04-02T08:47:39+00:00
-
- ## Kiwi IRC
- - [https://webirc.aa.net.uk](https://webirc.aa.net.uk)
- - date_published: 2019-10-21T08:09:37+00:00
-
- ## Roundcube Webmail from Andrews & Arnold Ltd. :: Welcome to Roundcube Webmail from Andrews & Arnold Ltd.
- - [https://webmail.aa.net.uk](https://webmail.aa.net.uk)
- - date_published: 2024-09-27T07:51:23+00:00
-
- ## Mythic Beasts status page
- - [https://status.mythic-beasts.net.uk](https://status.mythic-beasts.net.uk)
- - date_published: 2024-10-21T19:30:17.299876+00:00
-
- ## The NHS website
- - [https://nhs.uk](https://nhs.uk)
- - date_published: 2018-08-16T00:27:00+00:00
-
- ## Get help for your symptoms - NHS 111
- - [https://111.nhs.uk](https://111.nhs.uk)
- - date_published: 2024-05-02T12:35:38.173927+00:00
-
- ## Home
- - [https://www.cpft.nhs.uk](https://www.cpft.nhs.uk)
- - date_published: 2024-10-20T03:20:49.305569+00:00
-
- ## Home
- - [https://www.cuh.nhs.uk](https://www.cuh.nhs.uk)
- - date_published: 2024-06-23T06:24:17.435465+00:00
-
- ## NHS Digital's Design System
- - [https://design-system.digital.nhs.uk](https://design-system.digital.nhs.uk)
- - date_published: 2023-12-06T18:36:37+00:00
-
- ## Home - NHS England Digital
- - [https://digital.nhs.uk](https://digital.nhs.uk)
- - date_published: 2024-05-06T06:40:31.363464+00:00
-
- ## Welcome to dpt
- - [https://www.dpt.nhs.uk](https://www.dpt.nhs.uk)
- - date_published: 2024-10-20T03:20:51.148875+00:00
-
- ## Data Security and Protection Toolkit
- - [https://www.dsptoolkit.nhs.uk](https://www.dsptoolkit.nhs.uk)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## NHS England
- - [https://www.england.nhs.uk](https://www.england.nhs.uk)
- - date_published: 2024-06-22T15:55:10.139763+00:00
-
- ## Welcome to Genomics Education Programme - Genomics Education Programme
- - [https://www.genomicseducation.hee.nhs.uk](https://www.genomicseducation.hee.nhs.uk)
- - date_published: 2024-11-13T00:00:00+00:00
-
- ## Imperial College Healthcare NHS Trust
- - [https://www.imperial.nhs.uk](https://www.imperial.nhs.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home - King's College Hospital NHS Foundation Trust
- - [https://www.kch.nhs.uk](https://www.kch.nhs.uk)
- - date_published: 2024-10-21T10:07:33.963401+00:00
-
- ## Leadership Academy – Better Leaders, Better Care, Brighter Future
- - [https://www.leadershipacademy.nhs.uk](https://www.leadershipacademy.nhs.uk)
- - date_published: 2024-06-20T22:46:12.777005+00:00
-
- ## Home
- - [http://www.lewishamandgreenwich.nhs.uk](http://www.lewishamandgreenwich.nhs.uk)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Education and training
- - [https://checkout.moorfields.nhs.uk](https://checkout.moorfields.nhs.uk)
- - date_published: 2024-05-02T12:35:14.935145+00:00
-
- ## Moorfields Eye Hospital NHS Foundation Trust
- - [https://www.moorfields.nhs.uk](https://www.moorfields.nhs.uk)
- - date_published: 2024-01-09T03:48:33.930232+00:00
-
- ## Welcome | NHSBSA
- - [https://www.nhsbsa.nhs.uk](https://www.nhsbsa.nhs.uk)
- - date_published: 2024-10-20T03:00:21.968748+00:00
-
- ## Home - Careers - NHS Blood and Transplant
-            
-            
-            
-            - NHSBT Careers
- - [https://careers.nhsbt.nhs.uk](https://careers.nhsbt.nhs.uk)
- - date_published: 2024-10-21T10:32:59.249343+00:00
-
- ## NHS Blood & Transplant | Jobs | Search here for your perfect career - Jobs Page
- - [https://jobs.nhsbt.nhs.uk](https://jobs.nhsbt.nhs.uk)
- - date_published: 2024-10-21T10:34:47.989120+00:00
-
- ## Home
- - [https://www.nhsbt.nhs.uk](https://www.nhsbt.nhs.uk)
- - date_published: 2024-06-18T10:54:27.224851+00:00
-
- ## Home
- - [http://www.odt.nhs.uk](http://www.odt.nhs.uk)
- - date_published: 2024-10-21T10:33:35.082047+00:00
-
- ## Home
- - [https://www.organdonation.nhs.uk](https://www.organdonation.nhs.uk)
- - date_published: 2024-05-02T12:35:42.486099+00:00
-
- ## Oxford Health NHS FT | Caring, safe and excellent
- - [https://oxfordhealth.nhs.uk](https://oxfordhealth.nhs.uk)
- - date_published: 2024-10-20T06:18:35.328382+00:00
-
- ## Home :: Royal National Orthopaedic Hospital
- - [https://www.rnoh.nhs.uk](https://www.rnoh.nhs.uk)
- - date_published: 2025-01-21T19:32:46.127075+00:00
-
- ## Royal Orthopaedic Hospital - Home
- - [https://roh.nhs.uk](https://roh.nhs.uk)
- - date_published: 2024-09-18T16:58:44+00:00
-
- ## Home | Royal Free London
- - [https://www.royalfree.nhs.uk](https://www.royalfree.nhs.uk)
- - date_published: 2024-12-24T09:27:09.232803+00:00
-
- ## Patient library page
- - [https://patientinfolibrary.royalmarsden.nhs.uk](https://patientinfolibrary.royalmarsden.nhs.uk)
- - date_published: 2024-05-15T13:12:42+00:00
-
- ## Home page | The Royal Marsden
- - [https://www.royalmarsden.nhs.uk](https://www.royalmarsden.nhs.uk)
- - date_published: 2024-05-02T10:54:30.648387+00:00
-
- ## NHS App
- - [https://www.nhsapp.service.nhs.uk](https://www.nhsapp.service.nhs.uk)
- - date_published: 2024-06-12T14:15:31+00:00
-
- ## NHS digital service manual
- - [https://service-manual.nhs.uk](https://service-manual.nhs.uk)
- - date_published: 2024-06-15T04:15:05.541282+00:00
-
- ## IIS Windows Server
- - [https://wwwmedia.supplychain.nhs.uk](https://wwwmedia.supplychain.nhs.uk)
- - date_published: 2023-02-07T17:15:13+00:00
-
- ## NHSDigital SNOMED CT Browser
- - [https://termbrowser.nhs.uk](https://termbrowser.nhs.uk)
- - date_published: 2024-12-05T18:33:54+00:00
-
- ## NHS 111 Wales
- - [https://111.wales.nhs.uk](https://111.wales.nhs.uk)
- - date_published: 2018-04-26T10:14:00+00:00
-
- ## West Suffolk NHS Foundation Trust
- - [https://systemalerts.wsh.nhs.uk](https://systemalerts.wsh.nhs.uk)
- - date_published: 2025-01-11T16:43:55.297611+00:00
-
- ## 1729.org.uk
- - [https://1729.org.uk](https://1729.org.uk)
- - date_published: 2024-11-22T12:04:30+00:00
-
- ## 19 Princelet Street
- - [http://www.19princeletstreet.org.uk](http://www.19princeletstreet.org.uk)
- - date_published: 2024-10-21T18:56:14.704238+00:00
-
- ## 1Day Sooner UK
- - [https://www.1daysooner.org.uk](https://www.1daysooner.org.uk)
- - date_published: 2024-07-07T07:23:58.450678+00:00
-
- ## 360 Marketing Lab - IMMERSIVE 360º VIRTUAL TOURS FOR SCHOOLS, FOR EVERYONE
- - [https://360marketinglab.org.uk](https://360marketinglab.org.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## 38 Degrees
- - [https://you.38degrees.org.uk](https://you.38degrees.org.uk)
- - date_published: 2025-02-01T15:18:28.179808+00:00
-
- ## 7th July assistance - Assistance is available for everyone affected by the London bombings
- - [http://www.7julyassistance.org.uk](http://www.7julyassistance.org.uk)
- - date_published: 2025-01-01T05:57:59.113200+00:00
-
- ## Sense on Drink-Driving
- - [http://www.80mg.org.uk](http://www.80mg.org.uk)
- - date_published: 2021-08-07T08:57:05+00:00
-
- ## Home - AAFDA
- - [https://www.aafda.org.uk](https://www.aafda.org.uk)
- - date_published: 2024-08-18T04:03:04.172690+00:00
-
- ## WageDayAdvance - Payday Loans & Short Term Loans - Prompt Payment
- - [http://www.aah.org.uk](http://www.aah.org.uk)
- - date_published: 2024-06-24T08:53:06+00:00
-
- ## ABA: Antiquarian Booksellers' Association
- - [http://www.aba.org.uk](http://www.aba.org.uk)
- - date_published: 2024-07-12T18:44:33.791571+00:00
-
- ## ABC - Delivering a valued stamp of trust
- - [https://abc.org.uk](https://abc.org.uk)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Log in
- - [https://submitdata.abc.org.uk](https://submitdata.abc.org.uk)
- - date_published: 2024-09-16T07:57:18.165318+00:00
-
- ## Alliance of British Drivers
- - [http://www.abd.org.uk](http://www.abd.org.uk)
- - date_published: 2025-01-01T01:19:57.915730+00:00
-
- ## A digital world accessible to all. | AbilityNet
- - [https://abilitynet.org.uk](https://abilitynet.org.uk)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Abortion Rights
- - [http://www.abortionrights.org.uk](http://www.abortionrights.org.uk)
- - date_published: 2024-10-21T18:47:02.306583+00:00
-
- ## acasefortreason.org.uk
- - [http://www.acasefortreason.org.uk](http://www.acasefortreason.org.uk)
- - date_published: 2024-10-21T15:29:20.931136+00:00
-
- ## ACRIB: the Air Conditioning and Refrigeration Industry Board
- - [http://www.acrib.org.uk](http://www.acrib.org.uk)
- - date_published: 2025-01-22T06:13:54.154003+00:00
-
- ## Institute and Faculty of Actuaries
- - [https://actuaries.org.uk](https://actuaries.org.uk)
- - date_published: 2023-10-25T22:56:55.289212+00:00
-
- ## Institute and Faculty of Actuaries Blog | Institute and Faculty of Actuaries Blog
- - [https://blog.actuaries.org.uk](https://blog.actuaries.org.uk)
- - date_published: 2024-05-02T12:35:50.228027+00:00
-
- ## Working...
- - [https://communities.actuaries.org.uk](https://communities.actuaries.org.uk)
- - date_published: 2024-06-18T10:55:07.483619+00:00
-
- ## Institute and Faculty of Actuaries > Site Login
- - [https://my.actuaries.org.uk](https://my.actuaries.org.uk)
- - date_published: 2024-05-02T12:35:44.701828+00:00
-
- ## IFoA
- - [https://vle.actuaries.org.uk](https://vle.actuaries.org.uk)
- - date_published: 2024-05-02T12:35:52.502473+00:00
-
- ## Home | Association of Dogs and Cats Homes | Supporting Animal Rescue
- - [https://adch.org.uk](https://adch.org.uk)
- - date_published: 2024-05-02T12:37:37.329001+00:00
-
- ## Adfree Cities: for happier, healthier cities
- - [https://adfreecities.org.uk](https://adfreecities.org.uk)
- - date_published: 2023-12-13T16:31:53+00:00
-
- ## ADHD Aware - Support for Adult ADD, ADHD - ADHD Aware
- - [https://adhdaware.org.uk](https://adhdaware.org.uk)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## ADRIFT: Create your own Interactive Fiction
- - [http://www.adrift.org.uk](http://www.adrift.org.uk)
- - date_published: 2025-01-14T21:28:27.382130+00:00
-
- ## Home
- - [https://www.adsgroup.org.uk](https://www.adsgroup.org.uk)
- - date_published: 2024-07-20T09:51:07.765677+00:00
-
- ## Citizens Advice
- - [http://www.adviceguide.org.uk](http://www.adviceguide.org.uk)
- - date_published: 2024-10-21T15:36:20.408062+00:00
-
- ## Home: Association of Event Organisers: supporting the events industry
- - [https://www.aeo.org.uk](https://www.aeo.org.uk)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## Anarchist Federation
- - [http://www.afed.org.uk](http://www.afed.org.uk)
- - date_published: 2024-08-19T22:11:38.726122+00:00
-
- ## Age UK | The UK's leading charity helping every older person who needs us
- - [http://www.ageuk.org.uk](http://www.ageuk.org.uk)
- - date_published: 2024-07-02T22:33:58.864547+00:00
-
- ## Imperial College Academic Health Science Centre: Home
- - [https://ahsc.org.uk](https://ahsc.org.uk)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Mover Directory - Find Mover - Association Of Independent Movers
- - [https://www.aimovers.org.uk](https://www.aimovers.org.uk)
- - date_published: 2024-06-18T06:16:53.718673+00:00
-
- ## Homepage - AISB - The Society for the Study of Artificial Intelligence and Simulation of Behaviour
- - [https://aisb.org.uk](https://aisb.org.uk)
- - date_published: 2025-01-23T19:19:45.013454+00:00
-
- ## alba.org.uk
- - [http://www.alba.org.uk](http://www.alba.org.uk)
- - date_published: 2024-10-21T14:49:02.196141+00:00
-
- ## Alcohol Change UK charity: Alcohol harms. Time for change. | Alcohol Change UK
- - [https://alcoholchange.org.uk](https://alcoholchange.org.uk)
- - date_published: 2024-10-18T21:26:05.545431+00:00
-
- ## Around the Coast with Alison and Martyn
- - [http://www.alison-and-martyn.org.uk](http://www.alison-and-martyn.org.uk)
- - date_published: 2002-07-30T13:19:26+00:00
-
- ## Welcome to All Saints - All Saints Church
- - [https://www.allsaintswestewell.org.uk](https://www.allsaintswestewell.org.uk)
- - date_published: 2024-02-08T16:58:28.526058+00:00
-
- ## ALSATIA
- - [https://alsatia.org.uk](https://alsatia.org.uk)
- - date_published: 2025-02-01T19:43:02.560493+00:00
-
- ## alt.electron
- - [https://altelectron.org.uk](https://altelectron.org.uk)
- - date_published: 2024-07-14T22:51:18.413529+00:00
-
- ## Alzheimer's Society
- - [http://alzheimers.org.uk](http://alzheimers.org.uk)
- - date_published: 2024-06-18T10:57:03.908351+00:00
-
- ## Careers - Alzheimer's Society
- - [https://careers.alzheimers.org.uk](https://careers.alzheimers.org.uk)
- - date_published: 2024-06-18T10:56:38.973404+00:00
-
- ## Dementia Support Forum
- - [https://forum.alzheimers.org.uk](https://forum.alzheimers.org.uk)
- - date_published: 2024-05-02T12:36:23.439703+00:00
-
- ## Careers - Alzheimer's Society
- - [https://jobs.alzheimers.org.uk](https://jobs.alzheimers.org.uk)
- - date_published: 2024-05-02T12:36:17.883002+00:00
-
- ## Alzheimer’s Society Shop – Helpful products for dementia & gifts.
- - [https://shop.alzheimers.org.uk](https://shop.alzheimers.org.uk)
- - date_published: 2024-05-02T12:36:20.643446+00:00
-
- ## Events and fundraising
- - [https://alzheimersevents.org.uk](https://alzheimersevents.org.uk)
- - date_published: 2024-05-02T12:36:37.932246+00:00
-
- ## Home - Amateur Enterprises
- - [http://www.amateur.org.uk](http://www.amateur.org.uk)
- - date_published: 2015-07-03T00:00:00+00:00
-
- ## Home - Barry Amiel & Norman Melburn Trust
- - [http://www.amielandmelburn.org.uk](http://www.amielandmelburn.org.uk)
- - date_published: 2024-10-21T17:38:39.211164+00:00
-
- ## Home
- - [http://amnesty.org.uk](http://amnesty.org.uk)
- - date_published: 2024-10-21T13:06:53.094436+00:00
-
- ## Association of Medical Research Charities
- - [https://www.amrc.org.uk](https://www.amrc.org.uk)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Home - The Angelou Centre
- - [https://angelou-centre.org.uk](https://angelou-centre.org.uk)
- - date_published: 2024-08-18T04:02:54.163340+00:00
-
- ## AntiCancer
- - [http://www.anticancer.org.uk](http://www.anticancer.org.uk)
- - date_published: 2024-12-30T23:06:45+00:00
-
- ## How to Hire best Locksmith Service
- - [http://anticuts.org.uk](http://anticuts.org.uk)
- - date_published: 2025-02-01T18:51:43.447439+00:00
-
- ## Action on Armed Violence - AOAV
- - [https://aoav.org.uk](https://aoav.org.uk)
- - date_published: 2024-09-02T11:49:16.309412+00:00
-
- ## APG | Planning & Strategy | London
- - [http://www.apg.org.uk](http://www.apg.org.uk)
- - date_published: 2024-09-09T13:20:30.464918+00:00
-
- ## Home - Advanced Plant Growth Centre
- - [https://apgc.org.uk](https://apgc.org.uk)
- - date_published: 2025-01-21T19:29:34.292471+00:00
-
- ## apig.org.uk
- - [http://www.apig.org.uk](http://www.apig.org.uk)
- - date_published: 2024-07-20T10:49:11.877627+00:00
-
- ## Apostrophe Protection Society
- - [https://apostrophe.org.uk](https://apostrophe.org.uk)
- - date_published: 2024-10-17T12:43:20.897288+00:00
-
- ## Home Page • APPEAL
- - [https://appeal.org.uk](https://appeal.org.uk)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Applied Scholastics International | Study Technology to Overcome Any Learning Problem
- - [http://www.appliedscholastics.org.uk](http://www.appliedscholastics.org.uk)
- - date_published: 2024-08-30T02:08:05+00:00
-
- ## Arcadia - Arcadia
- - [https://arcadiafund.org.uk](https://arcadiafund.org.uk)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Home - Archetech
- - [https://www.archetech.org.uk](https://www.archetech.org.uk)
- - date_published: 2025-02-01T14:40:14.743976+00:00
-
- ## Search the Register
- - [https://www.architects-register.org.uk](https://www.architects-register.org.uk)
- - date_published: 2024-12-11T14:12:34.610088+00:00
-
- ## Oral Histories of IT and Tech - Archives of IT
- - [https://archivesit.org.uk](https://archivesit.org.uk)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## The Arc, Winchester | Formerly Winchester Discovery Centre
- - [https://arcwinchester.org.uk](https://arcwinchester.org.uk)
- - date_published: 2024-10-20T17:14:54.015999+00:00
-
- ## Arthur Rank Hospice Charity | Outstanding End-of-life Care and Support
- - [https://www.arhc.org.uk](https://www.arhc.org.uk)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## ARIA - Home
- - [https://www.aria.org.uk](https://www.aria.org.uk)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Arika
- - [http://www.arika.org.uk](http://www.arika.org.uk)
- - date_published: 2024-08-19T21:15:41+00:00
-
- ## Welcome to the Arnold Bennett Society
- - [https://www.arnoldbennettsociety.org.uk](https://www.arnoldbennettsociety.org.uk)
- - date_published: 2025-01-01T01:49:11.538582+00:00
-
- ## Arnolfini - Bristol's International Centre for Contemporary Arts
- - [https://arnolfini.org.uk](https://arnolfini.org.uk)
- - date_published: 2024-10-31T10:17:44+00:00
-
- ## A Rocha UK – Caring for creation
- - [http://arocha.org.uk](http://arocha.org.uk)
- - date_published: 2024-10-21T10:18:38.387931+00:00
-
- ## Eco Church
- - [https://ecochurch.arocha.org.uk](https://ecochurch.arocha.org.uk)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Artangel
- - [https://www.artangel.org.uk](https://www.artangel.org.uk)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## arthur-ransome.org.uk
- - [http://www.arthur-ransome.org.uk](http://www.arthur-ransome.org.uk)
- - date_published: 2024-07-03T15:48:11.625296+00:00
-
- ## Article 39
- - [https://article39.org.uk](https://article39.org.uk)
- - date_published: 2024-09-13T17:23:01.112393+00:00
-
- ## Arts Award
- - [https://www.artsaward.org.uk](https://www.artsaward.org.uk)
- - date_published: 2024-10-20T05:39:28.037265+00:00
-
- ## Homepage
- - [https://www.artscouncil.org.uk](https://www.artscouncil.org.uk)
- - date_published: 2024-05-06T21:46:03.912664+00:00
-
- ## Home - Artists Network Bedfordshire
- - [https://artsnetbeds.org.uk](https://artsnetbeds.org.uk)
- - date_published: 2021-03-16T00:00:00+00:00
-
- ## Artwatch
- - [http://www.artwatch.org.uk](http://www.artwatch.org.uk)
- - date_published: 2024-06-24T09:06:42.622876+00:00
-
- ## Home
- - [https://www.asa.org.uk](https://www.asa.org.uk)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## 25% Off Asbestos Surveys & Fire Risk Assessments in 24 Hours
- - [https://asbestos-surveys.org.uk](https://asbestos-surveys.org.uk)
- - date_published: 2025-01-02T15:07:54.486182+00:00
-
- ## Action on Smoking and Health - ASH
- - [https://ash.org.uk](https://ash.org.uk)
- - date_published: 2024-10-21T15:48:06.923142+00:00
-
- ## Ashcroft Arts Centre - Fareham, Hampshire
- - [https://www.ashcroft.org.uk](https://www.ashcroft.org.uk)
- - date_published: 2024-06-18T07:07:28.155759+00:00
-
- ## Association of Translation Companies - Homepage
- - [https://atc.org.uk](https://atc.org.uk)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Aerospace Technology Institute | UK Aerospace
- - [https://www.ati.org.uk](https://www.ati.org.uk)
- - date_published: 2024-10-27T11:16:05.167479+00:00
-
- ## Civil Aviation Authority
- - [http://www.atol.org.uk](http://www.atol.org.uk)
- - date_published: 2024-12-13T17:45:47.977529+00:00
-
- ## National Autistic Society - our Community
- - [http://community.autism.org.uk](http://community.autism.org.uk)
- - date_published: 2024-09-03T23:03:06.368901+00:00
-
- ## National Autistic Society
- - [https://www.autism.org.uk](https://www.autism.org.uk)
- - date_published: 2024-06-26T14:14:33+00:00
-
- ## Home | Autism Wellbeing
- - [https://www.autismwellbeing.org.uk](https://www.autismwellbeing.org.uk)
- - date_published: 2024-12-12T16:58:06.258898+00:00
-
- ## Home | Autistica | Autism research and campaigning | Autistica
- - [https://www.autistica.org.uk](https://www.autistica.org.uk)
- - date_published: 2017-08-16T16:59:22+00:00
-
- ## Home - AVA - Against Violence & Abuse
- - [https://avaproject.org.uk](https://avaproject.org.uk)
- - date_published: 2024-10-31T00:28:56.872795+00:00
-
- ## Home
- - [http://www.b4rn.org.uk](http://www.b4rn.org.uk)
- - date_published: 2025-01-24T14:46:40.060421+00:00
-
- ## British Association of Dermatologists
- - [http://www.bad.org.uk](http://www.bad.org.uk)
- - date_published: 2025-02-01T14:17:32.856503+00:00
-
- ## British Association For Local History
- - [https://balh.org.uk](https://balh.org.uk)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Home
- - [https://www.bali.org.uk](https://www.bali.org.uk)
- - date_published: 2024-08-06T11:06:09.101921+00:00
-
- ## Ball Cup Regattas
- - [https://www.ballcupregatta.org.uk](https://www.ballcupregatta.org.uk)
- - date_published: 2021-06-02T05:44:21+00:00
-
- ## Ball Cup - 7th May 2023 | Ball Cup Regatta (South)
- - [https://ballcupsouth.org.uk](https://ballcupsouth.org.uk)
- - date_published: 2024-05-02T12:36:41.275444+00:00
-
- ## Banipal Trust for Arab Literature - About Us
- - [https://www.banipaltrust.org.uk](https://www.banipaltrust.org.uk)
- - date_published: 2024-06-18T08:53:42.559426+00:00
-
- ## Malnutrition and Nutritional Care in the UK | BAPEN
- - [https://www.bapen.org.uk](https://www.bapen.org.uk)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Barbican Shop features the best of art, design, books and more
- - [https://shop.barbican.org.uk](https://shop.barbican.org.uk)
- - date_published: 2025-01-23T08:22:51.192501+00:00
-
- ## Welcome to the Barbican | Barbican
- - [http://www.barbican.org.uk](http://www.barbican.org.uk)
- - date_published: 2024-06-27T12:14:13+00:00
-
- ## Barnardo's | Children's charity
- - [https://www.barnardos.org.uk](https://www.barnardos.org.uk)
- - date_published: 2024-06-30T07:20:52.398100+00:00
-
- ## Home - Barrow Cadbury Trust
- - [https://barrowcadbury.org.uk](https://barrowcadbury.org.uk)
- - date_published: 2024-10-22T11:02:07.752612+00:00
-
- ## The Bar Standards Board
- - [https://www.barstandardsboard.org.uk](https://www.barstandardsboard.org.uk)
- - date_published: 2024-06-28T21:19:38.646230+00:00
-
- ## The Battle of Hastings (1066): Turning Point in UK History
- - [http://www.battle-of-hastings-1066.org.uk](http://www.battle-of-hastings-1066.org.uk)
- - date_published: 2024-12-10T06:39:55+00:00
-
- ## Battle of Ideas - Battle of Ideas
- - [https://www.battleofideas.org.uk](https://www.battleofideas.org.uk)
- - date_published: 2025-02-03T04:27:34.389800+00:00
-
- ## Britain's Bayeux Tapestry
- - [http://www.bayeuxtapestry.org.uk](http://www.bayeuxtapestry.org.uk)
- - date_published: 2025-02-01T13:31:53.376779+00:00
-
- ## British Beekeepers Association
- - [https://www.bbka.org.uk](https://www.bbka.org.uk)
- - date_published: 2024-10-20T23:45:00.359390+00:00
-
- ## bbsfieldguide.org.uk
- - [http://www.bbsfieldguide.org.uk](http://www.bbsfieldguide.org.uk)
- - date_published: 2024-10-19T05:52:39.356801+00:00
-
- ## Home - British Deaf Association
- - [https://bda.org.uk](https://bda.org.uk)
- - date_published: 2024-06-18T12:06:21.129942+00:00
-
- ## British Dyslexia Association
- - [https://bdadyslexia.org.uk](https://bdadyslexia.org.uk)
- - date_published: 2024-05-09T08:46:23.824776+00:00
-
- ## Welcome - British Dyslexia Association
- - [https://fundraising.bdadyslexia.org.uk](https://fundraising.bdadyslexia.org.uk)
- - date_published: 2024-07-11T11:00:41.428896+00:00
-
- ## Bectu
- - [https://www.bectu.org.uk](https://www.bectu.org.uk)
- - date_published: 2025-02-01T21:37:53.028855+00:00
-
- ## Behçet's UK - the UK's primary charity for anyone affected by Behçet's
- - [https://behcets.org.uk](https://behcets.org.uk)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Belfast Science Fiction Group
- - [http://www.belfastsciencefiction.org.uk](http://www.belfastsciencefiction.org.uk)
- - date_published: 2025-02-01T13:42:54.631246+00:00
-
- ## Another Slight Diversion – Musings of an easily distracted wargamer
- - [http://blog.belisarius.org.uk](http://blog.belisarius.org.uk)
- - date_published: 2024-07-20T08:57:04.238522+00:00
-
- ## Bella Caledonia
- - [https://bellacaledonia.org.uk](https://bellacaledonia.org.uk)
- - date_published: 2024-07-01T12:18:59.769987+00:00
-
- ## Benty Coder – AI Code Generator
- - [https://benty.org.uk](https://benty.org.uk)
- - date_published: 2024-10-30T15:27:59.600911+00:00
- - date_dead_since: 2024-12-15T06:15:03.124632+00:00
-
- ## Ben Uri Gallery and Museum
- - [http://www.benuri.org.uk](http://www.benuri.org.uk)
- - date_published: 2024-06-24T09:23:17.016218+00:00
-
- ## We champion the UK’s trusted, quality educational suppliers - BESA
- - [https://besa.org.uk](https://besa.org.uk)
- - date_published: 2025-02-03T03:59:56.749497+00:00
-
- ## We champion the UK’s trusted, quality educational suppliers - BESA
- - [https://www.besa.org.uk](https://www.besa.org.uk)
- - date_published: 2025-01-30T18:52:45.187651+00:00
-
- ## London Beth Din | Court of the Chief Rabbi | United Kingdom
- - [https://www.bethdin.org.uk](https://www.bethdin.org.uk)
- - date_published: 2025-01-20T17:43:48.203912+00:00
-
- ## Bethlem Museum Of The Mind | Museums London — FREE resource of all 200 museums in London.
- - [http://www.bethlemheritage.org.uk](http://www.bethlemheritage.org.uk)
- - date_published: 2024-06-24T09:47:31.118164+00:00
-
- ## Campaign for Better Transport
- - [http://www.bettertransport.org.uk](http://www.bettertransport.org.uk)
- - date_published: 2024-12-31T07:30:43+00:00
-
- ## Home - BeyondAutism
- - [https://www.beyondautism.org.uk](https://www.beyondautism.org.uk)
- - date_published: 2024-12-12T15:03:38+00:00
-
- ## BFI homepage
- - [https://bfi.org.uk](https://bfi.org.uk)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## BFI’s ten-year strategy – Screen Culture 2033: progress updates
- - [https://blog.bfi.org.uk](https://blog.bfi.org.uk)
- - date_published: 2024-05-02T12:36:54.561872+00:00
-
- ## IIS Windows Server
- - [http://collections-search.bfi.org.uk](http://collections-search.bfi.org.uk)
- - date_published: 2020-01-13T12:36:16+00:00
-
- ## BFI NETWORK
- - [https://network.bfi.org.uk](https://network.bfi.org.uk)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## BFI Player
- - [https://player.bfi.org.uk](https://player.bfi.org.uk)
- - date_published: 2024-05-02T12:36:57.371388+00:00
-
- ## BFI Shop -  Home page
- - [https://shop.bfi.org.uk](https://shop.bfi.org.uk)
- - date_published: 2024-05-02T12:36:50.141953+00:00
-
- ## BFI Shop -  Home page
- - [https://shop-cdn.bfi.org.uk](https://shop-cdn.bfi.org.uk)
- - date_published: 2024-06-18T10:57:48.653607+00:00
-
- ## AD: Frontend
- - [https://sightandsoundsubs.bfi.org.uk](https://sightandsoundsubs.bfi.org.uk)
- - date_published: 2024-05-02T12:36:55.441874+00:00
-
- ## BFI Southbank
- - [https://whatson.bfi.org.uk](https://whatson.bfi.org.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## The British Furniture Association
- - [https://www.bfm.org.uk](https://www.bfm.org.uk)
- - date_published: 2024-12-14T13:42:59.892879+00:00
-
- ## Engaging Networks: Nonprofit Digital Engagement Platform
- - [https://act.bhf.org.uk](https://act.bhf.org.uk)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## BHF is funding urgently needed research
- - [https://bhf.org.uk](https://bhf.org.uk)
- - date_published: 2024-06-18T11:04:46.885870+00:00
-
- ## Buy defibrillators from the British Heart Foundation online shop. 100% profits fund world-class life saving research.
- - [https://defibrillators.bhf.org.uk](https://defibrillators.bhf.org.uk)
- - date_published: 2024-06-17T06:50:53.046867+00:00
-
- ## Supporters and Fundraisers Shop | British Heart Foundation
- - [https://giftshop.bhf.org.uk](https://giftshop.bhf.org.uk)
- - date_published: 2024-06-17T06:50:56.499732+00:00
-
- ## Welcome - British Heart Foundation
- - [https://jobs.bhf.org.uk](https://jobs.bhf.org.uk)
- - date_published: 2024-05-02T12:37:16.406995+00:00
-
- ## Home
- - [http://www.biblesociety.org.uk](http://www.biblesociety.org.uk)
- - date_published: 2025-01-21T13:37:14.686649+00:00
-
- ## bickerstafferecord.org.uk
- - [http://www.bickerstafferecord.org.uk](http://www.bickerstafferecord.org.uk)
- - date_published: 2024-10-21T12:01:05.356161+00:00
-
- ## Big Brother Watch: Defending Civil Liberties, Protecting Privacy
- - [https://bigbrotherwatch.org.uk](https://bigbrotherwatch.org.uk)
- - date_published: 2024-07-02T21:26:55.883012+00:00
-
- ## The Bill Tutte Memorial Fund | "The Codebreaker"
- - [https://billtuttememorial.org.uk](https://billtuttememorial.org.uk)
- - date_published: 2024-05-15T02:49:09.615831+00:00
-
- ## Home | Birmingham Museums
- - [https://www.birminghammuseums.org.uk](https://www.birminghammuseums.org.uk)
- - date_published: 2024-12-22T17:56:53.255895+00:00
-
- ## Birmingham Science Fiction Group
- - [http://www.birminghamsfgroup.org.uk](http://www.birminghamsfgroup.org.uk)
- - date_published: 2024-09-10T21:40:38+00:00
-
- ## Birthrights - your human rights during pregnancy and maternity care
- - [http://www.birthrights.org.uk](http://www.birthrights.org.uk)
- - date_published: 2024-10-21T14:41:00.991594+00:00
-
- ## Home | Bishopsgate Institute
- - [http://www.bishopsgate.org.uk](http://www.bishopsgate.org.uk)
- - date_published: 2024-09-14T00:16:40+00:00
-
- ## Business in the Community
- - [http://www.bitc.org.uk](http://www.bitc.org.uk)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Homepage
- - [https://www.blackfriars.org.uk](https://www.blackfriars.org.uk)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Bletchley Park | Home
- - [https://bletchleypark.org.uk](https://bletchleypark.org.uk)
- - date_published: 2024-06-28T22:17:29+00:00
-
- ## Bloggers4UKIP
- - [http://www.bloggers4ukip.org.uk](http://www.bloggers4ukip.org.uk)
- - date_published: 2024-10-21T15:34:05.913398+00:00
-
- ## Blood Cancer UK | Home
- - [https://bloodcancer.org.uk](https://bloodcancer.org.uk)
- - date_published: 2024-12-27T21:23:05.507226+00:00
-
- ## BlueSkiesResearch.org.uk
- - [http://blueskiesresearch.org.uk](http://blueskiesresearch.org.uk)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## BMA - Home | British Medical Association
- - [https://www.bma.org.uk](https://www.bma.org.uk)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## The Boarding Schools' Association | Boarding School Training | The Voice of Boarding Schools
- - [http://www.boarding.org.uk](http://www.boarding.org.uk)
- - date_published: 2025-02-03T20:47:29.782378+00:00
-
- ## Untold Dylan – The meaning behind the music and words of Bob Dylan
- - [https://bob-dylan.org.uk](https://bob-dylan.org.uk)
- - date_published: 2024-06-30T01:13:43.268558+00:00
-
- ## Visit BookTrust
- - [https://www.booktrust.org.uk](https://www.booktrust.org.uk)
- - date_published: 2025-01-23T16:49:25.993073+00:00
-
- ## We Are Born Free
- - [https://www.bornfree.org.uk](https://www.bornfree.org.uk)
- - date_published: 2024-07-20T05:55:15.174162+00:00
-
- ## Borough Market
- - [https://boroughmarket.org.uk](https://boroughmarket.org.uk)
- - date_published: 2024-10-15T19:00:44.120950+00:00
-
- ## Bowel Cancer
- - [https://www.bowelcanceruk.org.uk](https://www.bowelcanceruk.org.uk)
- - date_published: 2024-10-31T04:13:17.271482+00:00
-
- ## Error
- - [http://www.bpi1700.org.uk](http://www.bpi1700.org.uk)
- - date_published: 2024-06-24T10:50:59.666314+00:00
-
- ## Homepage | BPS
- - [https://digest.bps.org.uk](https://digest.bps.org.uk)
- - date_published: 2024-07-06T23:45:19.284021+00:00
-
- ## BPS - British Psychological Society
- - [https://explore.bps.org.uk](https://explore.bps.org.uk)
- - date_published: 2024-05-02T12:37:24.853899+00:00
-
- ## Home | BPS
- - [https://learn.bps.org.uk](https://learn.bps.org.uk)
- - date_published: 2024-05-02T12:37:27.339828+00:00
-
- ## BPS > Site Access > Site Login
- - [https://portal.bps.org.uk](https://portal.bps.org.uk)
- - date_published: 2024-05-02T12:37:21.958631+00:00
-
- ## Homepage | BPS
- - [https://thepsychologist.bps.org.uk](https://thepsychologist.bps.org.uk)
- - date_published: 2024-07-06T23:45:30.620093+00:00
-
- ## Homepage | BPS
- - [https://www.bps.org.uk](https://www.bps.org.uk)
- - date_published: 2023-10-25T22:57:00.514396+00:00
-
- ## BQF |
- - [https://www.bqf.org.uk](https://www.bqf.org.uk)
- - date_published: 2024-06-18T10:52:40.747984+00:00
-
- ## The Branford Boase Award and The Henrietta Branford Writing Competition
- - [https://branfordboaseaward.org.uk](https://branfordboaseaward.org.uk)
- - date_published: 2024-06-18T08:53:51.928001+00:00
-
- ## British Retail Consortium
- - [http://www.brc.org.uk](http://www.brc.org.uk)
- - date_published: 2024-10-21T15:16:38.335935+00:00
-
- ## Bristol Radical History Group
- - [http://brh.org.uk](http://brh.org.uk)
- - date_published: 2024-10-21T18:45:44.091779+00:00
-
- ## Home
- - [https://brightonmuseums.org.uk](https://brightonmuseums.org.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Brighton & Hove Museums online shop
- - [https://shop.brightonmuseums.org.uk](https://shop.brightonmuseums.org.uk)
- - date_published: 2024-06-24T09:59:41.184622+00:00
-
- ## Bristol SU | A Union for all students
- - [https://bristolsu.org.uk](https://bristolsu.org.uk)
- - date_published: 2024-06-17T17:28:03.862681+00:00
-
- ## Home
- - [https://volunteering.bristolsu.org.uk](https://volunteering.bristolsu.org.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## British Bugs Home - An online identification guide to UK Hemiptera
- - [http://www.britishbugs.org.uk](http://www.britishbugs.org.uk)
- - date_published: 2025-02-01T17:11:56.126459+00:00
-
- ## Home
- - [https://www.britishcycling.org.uk](https://www.britishcycling.org.uk)
- - date_published: 2024-08-18T03:01:17.105158+00:00
-
- ## Independent fuel debt advice – British Gas Energy Trust
- - [https://britishgasenergytrust.org.uk](https://britishgasenergytrust.org.uk)
- - date_published: 2024-10-20T03:58:11.706299+00:00
-
- ## Royal British Legion | Armed Forces Charity
- - [https://www.britishlegion.org.uk](https://www.britishlegion.org.uk)
- - date_published: 2018-10-23T11:33:58+00:00
-
- ## British Thoracic Society
- - [https://www.brit-thoracic.org.uk](https://www.brit-thoracic.org.uk)
- - date_published: 2024-06-24T06:21:00.106668+00:00
-
- ## Home - Broadstairs Folk Week
- - [https://broadstairsfolkweek.org.uk](https://broadstairsfolkweek.org.uk)
- - date_published: 2024-12-11T23:29:43.917719+00:00
-
- ## Oxford Brookes Students' Union
- - [https://www.brookesunion.org.uk](https://www.brookesunion.org.uk)
- - date_published: 2024-07-01T08:18:29+00:00
-
- ## Home | The Building Societies Association | BSA
- - [https://www.bsa.org.uk](https://www.bsa.org.uk)
- - date_published: 2024-05-02T13:34:15.874921+00:00
-
- ## BSECS
- - [https://www.bsecs.org.uk](https://www.bsecs.org.uk)
- - date_published: 2024-10-20T06:38:42.958503+00:00
-
- ## Home
- - [https://bsg.org.uk](https://bsg.org.uk)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Home - BSG 2024 Live!
- - [https://live.bsg.org.uk](https://live.bsg.org.uk)
- - date_published: 2024-07-03T11:11:05+00:00
-
- ## Home
- - [https://b-s-h.org.uk](https://b-s-h.org.uk)
- - date_published: 2024-10-20T23:30:07.544669+00:00
-
- ## Home
- - [http://www.bshs.org.uk](http://www.bshs.org.uk)
- - date_published: 2024-10-29T18:20:03.357597+00:00
-
- ## BSides Manchester | Cyber | Conference
- - [http://www.bsidesmcr.org.uk](http://www.bsidesmcr.org.uk)
- - date_published: 2024-08-19T16:55:06.661321+00:00
-
- ## Home - British Schools in the Middle East
- - [http://www.bsme.org.uk](http://www.bsme.org.uk)
- - date_published: 2025-02-05T17:24:11.258206+00:00
-
- ## BSPGHAN | The British Society of Paediatric Gastroenterology, Hepatology and Nutrition
- - [https://bspghan.org.uk](https://bspghan.org.uk)
- - date_published: 2024-07-03T15:34:34.090757+00:00
-
- ## Bus Centre of Excellence
- - [https://www.buscentreofexcellence.org.uk](https://www.buscentreofexcellence.org.uk)
- - date_published: 2024-06-28T13:24:19.005111+00:00
-
- ## Business Directory - Free Business Advertising Online
- - [https://www.business-directory.org.uk](https://www.business-directory.org.uk)
- - date_published: 2024-06-18T15:45:55.059903+00:00
-
- ## Business Disability Forum
- - [https://businessdisabilityforum.org.uk](https://businessdisabilityforum.org.uk)
- - date_published: 2024-06-17T18:15:42.653543+00:00
-
- ## Business Wales Events Finder
- - [https://wales.business-events.org.uk](https://wales.business-events.org.uk)
- - date_published: 2025-01-22T02:15:28.570767+00:00
-
- - [https://buzzword.org.uk](https://buzzword.org.uk)
- - date_published: 2020-05-16T14:29:37+00:00
- - tags: ['personal']
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://docs.buzzword.org.uk](http://docs.buzzword.org.uk)
- - date_published: 2020-05-13T19:52:30+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://srv.buzzword.org.uk](http://srv.buzzword.org.uk)
- - date_published: 2020-05-13T19:52:30+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://validator.buzzword.org.uk](http://validator.buzzword.org.uk)
- - date_published: 2020-05-13T19:52:30+00:00
-
- ## The Twentieth Century Society – Campaigning for outstanding buildings
- - [https://c20society.org.uk](https://c20society.org.uk)
- - date_published: 2024-09-14T22:45:00.391698+00:00
-
- ## CAAT - Homepage
- - [https://caat.org.uk](https://caat.org.uk)
- - date_published: 2024-06-14T18:43:56.333387+00:00
-
- ## caba | charity for the ICAEW community
- - [https://www.caba.org.uk](https://www.caba.org.uk)
- - date_published: 2024-07-04T17:28:57.208158+00:00
-
- ## cabextract
- - [https://www.cabextract.org.uk](https://www.cabextract.org.uk)
- - date_published: 2023-02-24T00:00:00+00:00
-
- ## Campaign against Climate Change Trade Union Group |
- - [https://www.cacctu.org.uk](https://www.cacctu.org.uk)
- - date_published: 2024-09-07T21:41:09+00:00
-
- ## CAFOD - Catholic international development charity
- - [https://cafod.org.uk](https://cafod.org.uk)
- - date_published: 2024-07-14T14:52:17.646345+00:00
-
- ## Cambridge Assessment Network and Research
- - [https://www.cambridgeassessment.org.uk](https://www.cambridgeassessment.org.uk)
- - date_published: 2024-06-17T17:37:55+00:00
-
- ## Corn Exchange | Cambridge Live
- - [https://www.cambridgelive.org.uk](https://www.cambridgelive.org.uk)
- - date_published: 2024-10-20T03:04:08.938251+00:00
-
- ## Home - Cambridgeshire Community Foundation
- - [https://www.cambscf.org.uk](https://www.cambscf.org.uk)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Home - CamCare UK
- - [https://camcare.org.uk](https://camcare.org.uk)
- - date_published: 2023-11-11T22:55:13+00:00
-
- ## Backorder UK Domains | ukbackorder.uk
- - [http://campaignforanindependentbritain.org.uk](http://campaignforanindependentbritain.org.uk)
- - date_published: 2025-02-01T19:33:17.739677+00:00
-
- ## CAMRA - The Campaign for Real Ale
- - [https://www1.camra.org.uk](https://www1.camra.org.uk)
- - date_published: 2025-01-01T01:01:31.155173+00:00
-
- ## Home - CAMRA - Campaign for Real Ale
- - [http://www.camra.org.uk](http://www.camra.org.uk)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Canal & River Trust | Making life better by water
- - [http://canalrivertrust.org.uk](http://canalrivertrust.org.uk)
- - date_published: 2024-12-19T11:19:45+00:00
-
- ## Home | Candour & The A.K. Chesterton Trust
- - [http://www.candour.org.uk](http://www.candour.org.uk)
- - date_published: 2024-06-27T11:49:39.056832+00:00
-
- ## Home | Assessment Network
- - [https://learning.canetwork.org.uk](https://learning.canetwork.org.uk)
- - date_published: 2024-10-20T03:23:11.225263+00:00
-
- ## Carbon Intensity API
- - [https://api.carbonintensity.org.uk](https://api.carbonintensity.org.uk)
- - date_published: 2017-10-01T00:00:00+00:00
-
- ## Carbon Intensity
- - [https://carbonintensity.org.uk](https://carbonintensity.org.uk)
- - date_published: 2017-09-26T00:00:00+00:00
-
- ## Carbon Intensity API
- - [http://docs.carbonintensity.org.uk](http://docs.carbonintensity.org.uk)
- - date_published: 2018-01-20T00:00:00+00:00
-
- ## GitHub - carbon-intensity/terms: Terms of Use for the Carbon Intensity API:
- - [http://terms.carbonintensity.org.uk](http://terms.carbonintensity.org.uk)
- - date_published: 2024-07-11T13:52:56.527655+00:00
-
- ## Cartography | British Cartographic Society
- - [https://www.cartography.org.uk](https://www.cartography.org.uk)
- - date_published: 2024-06-22T07:51:39.199962+00:00
-
- ## Companion Animal Sector Council – Improving the welfare of companion animals
- - [https://casc.org.uk](https://casc.org.uk)
- - date_published: 2024-06-24T05:22:28.892378+00:00
-
- ## Cassandra Centre - Cassandra Centre
- - [http://www.cassandracentre.org.uk](http://www.cassandracentre.org.uk)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## ﻿﻿﻿﻿Types of Security Systems
- - [http://www.castra.org.uk](http://www.castra.org.uk)
- - date_published: 2025-02-01T19:58:13.239524+00:00
-
- ## Centre for Alternative Technology
- - [http://www.cat.org.uk](http://www.cat.org.uk)
- - date_published: 2024-10-29T16:27:20.936157+00:00
-
- ## The Catapult Network
- - [https://catapult.org.uk](https://catapult.org.uk)
+ - [https://communications.admin.ox.ac.uk](https://communications.admin.ox.ac.uk)
  - date_published: 2024-05-30T00:00:00+00:00
 
  ## Home
- - [https://cp.catapult.org.uk](https://cp.catapult.org.uk)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home - Compound Semiconductor Applications Catapult
- - [https://csa.catapult.org.uk](https://csa.catapult.org.uk)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Advancing cell and gene therapies through powerful collaborations - Cell & Gene Therapy
- - [https://ct.catapult.org.uk](https://ct.catapult.org.uk)
- - date_published: 2024-07-04T12:18:48.607355+00:00
-
- ## Homepage
- - [https://es.catapult.org.uk](https://es.catapult.org.uk)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## High Value Manufacturing Catapult - HVMC
- - [https://hvm.catapult.org.uk](https://hvm.catapult.org.uk)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Medicines Discovery Catapult
- - [https://md.catapult.org.uk](https://md.catapult.org.uk)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Offshore Renewable Energy | ORE Catapult
- - [https://ore.catapult.org.uk](https://ore.catapult.org.uk)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Satellite Applications Catapult - Satellite Applications Catapult
- - [https://sa.catapult.org.uk](https://sa.catapult.org.uk)
- - date_published: 2024-06-16T22:05:34.211376+00:00
-
- ## Catholic Voices
- - [https://catholicvoices.org.uk](https://catholicvoices.org.uk)
- - date_published: 2024-05-08T07:02:40.158914+00:00
-
- ## Cat Flap Login Page
- - [https://catflap.cats.org.uk](https://catflap.cats.org.uk)
- - date_published: 2024-05-02T12:37:30.593048+00:00
-
- ## Education | Cats Protection | Cats Education
- - [https://education.cats.org.uk](https://education.cats.org.uk)
- - date_published: 2024-05-02T12:37:32.314262+00:00
-
- ## Cat Flap Login Page
- - [http://learnonline.cats.org.uk](http://learnonline.cats.org.uk)
- - date_published: 2024-06-18T11:06:06.413264+00:00
-
- ## Cats Protection | UK’s Largest Cat Welfare Charity
- - [https://www.cats.org.uk](https://www.cats.org.uk)
- - date_published: 2023-11-28T20:50:12+00:00
-
- ## Catholic Church in England and Wales - Catholic Bishops' Conference
- - [https://www.cbcew.org.uk](https://www.cbcew.org.uk)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Confederation of British Industry - Home | CBI
- - [https://www.cbi.org.uk](https://www.cbi.org.uk)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## CCAA | Children’s Chronic Arthritis Association | JIA Charity
- - [https://www.ccaa.org.uk](https://www.ccaa.org.uk)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Citizens Commission on Human Rights UK | Mental Health Watchdog
- - [https://www.cchr.org.uk](https://www.cchr.org.uk)
- - date_published: 2021-06-07T16:20:01+00:00
-
- ## The experts in childhood cancer | Advice, resources and support for families affected by childhood cancer | Funding vital research into childhood cancer | Children's Cancer and Leukaemia Group
- - [https://www.cclg.org.uk](https://www.cclg.org.uk)
- - date_published: 2025-01-15T14:59:01.431419+00:00
-
- ## Home - New
- - [https://www.ccscheme.org.uk](https://www.ccscheme.org.uk)
- - date_published: 2024-10-20T07:10:59.610881+00:00
-
- ## Cambridge Diabetes Education Programme | competency-based platform
- - [https://www.cdep.org.uk](https://www.cdep.org.uk)
- - date_published: 2024-07-03T15:25:41.431564+00:00
-
- ## CDXC - The UK DX Foundation - Homepage
- - [http://cdxc.org.uk](http://cdxc.org.uk)
- - date_published: 2024-07-15T03:53:14.502148+00:00
-
- ## Home - Cecil Sharps People
- - [https://cecilsharpspeople.org.uk](https://cecilsharpspeople.org.uk)
- - date_published: 2024-08-11T04:57:32.253607+00:00
-
- ## Alientogel : Situs Toto SGP Resmi dan Togel Online HK Macau Terpercaya
- - [http://www.cekinfo.org.uk](http://www.cekinfo.org.uk)
- - date_published: 2024-10-29T17:11:57.983442+00:00
-
- ## Homepage - Centre for Mental Health
- - [https://centreformentalhealth.org.uk](https://centreformentalhealth.org.uk)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Cetis LLP – Expertise in Educational Technology, Interoperability and Standards
- - [https://cetis.org.uk](https://cetis.org.uk)
- - date_published: 2024-06-12T21:08:41.333864+00:00
-
- ## Welcome to CGVC!
- - [https://cgvc.org.uk](https://cgvc.org.uk)
- - date_published: 2024-07-11T13:13:14.142398+00:00
-
- ## Character Generator
- - [https://www.character-generator.org.uk](https://www.character-generator.org.uk)
- - date_published: 2024-10-30T10:49:12.061055+00:00
-
- ## Home | The Charity Commission for Northern Ireland
- - [https://www.charitycommissionni.org.uk](https://www.charitycommissionni.org.uk)
- - date_published: 2024-07-13T19:44:05.255554+00:00
+ - [https://compliance.admin.ox.ac.uk](https://compliance.admin.ox.ac.uk)
+ - date_published: 2024-05-02T10:58:44.978006+00:00
 
  ## Home
- - [https://charitydigital.org.uk](https://charitydigital.org.uk)
- - date_published: 2024-10-20T02:39:04.149891+00:00
-
- ## Charity IT Leaders - Inspiring NFP IT Leadership
- - [http://www.charityitleaders.org.uk](http://www.charityitleaders.org.uk)
- - date_published: 2024-12-23T07:18:39.787790+00:00
-
- ## The Charles Williams Society
- - [http://charleswilliamssociety.org.uk](http://charleswilliamssociety.org.uk)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Childline | Childline
- - [https://www.childline.org.uk](https://www.childline.org.uk)
- - date_published: 2024-07-12T16:22:18.042573+00:00
-
- ## 中华人民共和国驻大不列颠及北爱尔兰联合王国
- - [http://www.chinese-embassy.org.uk](http://www.chinese-embassy.org.uk)
- - date_published: 2025-01-13T11:19:06.925913+00:00
-
- ## Chisenhale Gallery
- - [https://chisenhale.org.uk](https://chisenhale.org.uk)
- - date_published: 2025-01-20T19:04:46.701560+00:00
-
- ## Chisenhale Gallery
- - [http://www.chisenhale.org.uk](http://www.chisenhale.org.uk)
- - date_published: 2025-01-20T19:03:56.459173+00:00
-
- ## Choose My Police and Crime Commissioner - Information from the UK Government
- - [https://choosemypcc.org.uk](https://choosemypcc.org.uk)
- - date_published: 2024-05-06T16:31:10.412403+00:00
-
- ## Christian Aid - UK charity fighting global poverty - Christian Aid
- - [https://christianaid.org.uk](https://christianaid.org.uk)
- - date_published: 2025-02-03T19:26:48.121096+00:00
-
- ## Christian Aid - UK charity fighting global poverty - Christian Aid
- - [http://www.christianaid.org.uk](http://www.christianaid.org.uk)
- - date_published: 2024-10-21T10:18:25.407026+00:00
-
- ## CHS Group Charitable Housing Association Cambridgeshire
- - [https://www.chsgroup.org.uk](https://www.chsgroup.org.uk)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Church and State
- - [http://churchandstate.org.uk](http://churchandstate.org.uk)
- - date_published: 2024-06-28T20:07:59+00:00
-
- ## Webmate Maintenance
- - [http://www.churchill-society-london.org.uk](http://www.churchill-society-london.org.uk)
- - date_published: 2021-08-06T16:22:40+00:00
-
- ## CIHT home
- - [http://www.ciht.org.uk](http://www.ciht.org.uk)
- - date_published: 2024-09-16T06:15:49.140622+00:00
-
- ## CILIP: the library and information association
- - [https://cilip.org.uk](https://cilip.org.uk)
- - date_published: 2024-05-07T23:40:42.839324+00:00
-
- ## CILIP | Online Registered User Services
- - [https://practitioners.cilip.org.uk](https://practitioners.cilip.org.uk)
- - date_published: 2024-07-02T22:36:23.896630+00:00
-
- ## CILIP Conference 2024
- - [https://cilipconference.org.uk](https://cilipconference.org.uk)
- - date_published: 2024-07-02T22:42:40.713779+00:00
-
- ## CILT Home
- - [https://ciltuk.org.uk](https://ciltuk.org.uk)
- - date_published: 2025-01-22T01:03:04.619511+00:00
-
- ## CIOB Assist | Home
- - [http://www.ciobbenevolentfund.org.uk](http://www.ciobbenevolentfund.org.uk)
- - date_published: 2021-09-08T14:10:11+00:00
-
- ## CIRAS confidential safety hotline
- - [https://www.ciras.org.uk](https://www.ciras.org.uk)
- - date_published: 2025-02-01T13:15:55.340195+00:00
-
- ## Christians in Science - an international network of those concerned with the relationship between science and Christian faith
- - [http://cis.org.uk](http://cis.org.uk)
- - date_published: 2025-01-01T12:07:39.271166+00:00
-
- ## Citizens Advice
- - [https://www.citizensadvice.org.uk](https://www.citizensadvice.org.uk)
- - date_published: 2024-07-22T10:33:40.746294+00:00
-
- ## City of Birmingham Choir
- - [https://www.citychoir.org.uk](https://www.citychoir.org.uk)
- - date_published: 2024-05-02T11:42:18.077604+00:00
-
- ## Food charity - City Harvest
- - [https://cityharvest.org.uk](https://cityharvest.org.uk)
- - date_published: 2024-10-29T14:46:05.074475+00:00
-
- ## Welcome to Civitas: Institute for the Study of Civil Society
- - [http://www.civitas.org.uk](http://www.civitas.org.uk)
- - date_published: 2024-06-28T18:49:10.742166+00:00
-
- ## Our mission is to end factory farming
- - [https://www.ciwf.org.uk](https://www.ciwf.org.uk)
- - date_published: 2024-10-23T05:42:32.232281+00:00
-
- ## Home
- - [http://www.clpd.org.uk](http://www.clpd.org.uk)
- - date_published: 2025-02-04T19:26:06.459382+00:00
-
- ## SportQuestion.com
- - [http://www.clubmark.org.uk](http://www.clubmark.org.uk)
- - date_published: 2024-06-18T10:57:36.621050+00:00
-
- ## Home
- - [https://www.coachingfederation.org.uk](https://www.coachingfederation.org.uk)
- - date_published: 2024-09-16T23:30:17.558037+00:00
-
- ## Home
- - [https://coastalpartners.org.uk](https://coastalpartners.org.uk)
- - date_published: 2024-08-19T16:12:15.703117+00:00
-
- ## Home - Council of British International Schools
- - [https://www.cobis.org.uk](https://www.cobis.org.uk)
- - date_published: 2025-02-05T17:24:15.806881+00:00
-
- ## Cobseo - The Confederation of Service Charities
- - [http://www.cobseo.org.uk](http://www.cobseo.org.uk)
- - date_published: 2024-10-21T15:49:25.358502+00:00
-
- ## The Code Club Blog
- - [https://blog.codeclub.org.uk](https://blog.codeclub.org.uk)
- - date_published: 2024-07-04T17:30:33.765426+00:00
-
- ## Code Club
- - [https://codeclub.org.uk](https://codeclub.org.uk)
- - date_published: 2024-05-08T07:06:14.261179+00:00
-
- ## WW II Codes and Ciphers
- - [https://codesandciphers.org.uk](https://codesandciphers.org.uk)
- - date_published: 2020-09-09T17:58:54+00:00
-
- ## Diocese of Guildford
- - [https://cofeguildford.org.uk](https://cofeguildford.org.uk)
- - date_published: 2024-10-17T12:41:41.172917+00:00
-
- ## Coffee Cranks Co-operative
- - [https://www.coffeecrankscoop.org.uk](https://www.coffeecrankscoop.org.uk)
- - date_published: 2019-03-14T14:07:30+00:00
-
- ## Home - Cold Chain Federation
- - [https://www.coldchainfederation.org.uk](https://www.coldchainfederation.org.uk)
- - date_published: 2025-01-08T23:29:46.678605+00:00
-
- ## Communicating the Unthinkable - UK Cold War
- - [https://coldwar.org.uk](https://coldwar.org.uk)
- - date_published: 2020-10-15T00:00:00+00:00
-
- ## Community Archives and Heritage Group
- - [http://www.communityarchives.org.uk](http://www.communityarchives.org.uk)
- - date_published: 2024-10-21T19:00:01.226316+00:00
-
- ## Community Energy Scotland – Community Energy Scotland is a nationwide charity working with local people to help them make the most of their renewable energy resources
- - [http://www.communityenergyscotland.org.uk](http://www.communityenergyscotland.org.uk)
- - date_published: 2024-07-12T05:57:52.170317+00:00
-
- ## Donate A Laptop | Community Techaid
- - [https://www.communitytechaid.org.uk](https://www.communitytechaid.org.uk)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Compass - Compass
- - [http://www.compassonline.org.uk](http://www.compassonline.org.uk)
- - date_published: 2024-10-21T11:59:30.433145+00:00
-
- ## Home Page | Compton Verney
- - [http://www.comptonverney.org.uk](http://www.comptonverney.org.uk)
- - date_published: 2024-06-24T09:23:21.379064+00:00
-
- ## Computing at School (CAS) Home Page.
- - [https://computingatschool.org.uk](https://computingatschool.org.uk)
- - date_published: 2024-05-08T11:35:26.498108+00:00
-
- ## Online Discussions
- - [https://forum.computingatschool.org.uk](https://forum.computingatschool.org.uk)
- - date_published: 2024-07-08T14:28:27.688032+00:00
-
- ## The Centre for Computing History - Computer and Video Game Museum - Cambridge
- - [https://computinghistory.org.uk](https://computinghistory.org.uk)
- - date_published: 2024-10-17T12:47:46.785333+00:00
-
- ## Conversation, the 2023 UK National SF Convention
- - [https://www.conversation2023.org.uk](https://www.conversation2023.org.uk)
- - date_published: 2025-02-01T13:45:54.697616+00:00
-
- ## Gerlyver Kernewek |
- - [http://www.cornishdictionary.org.uk](http://www.cornishdictionary.org.uk)
- - date_published: 2024-06-30T07:24:54.076932+00:00
-
- ## Cornwall Railway Society
- - [http://www.cornwallrailwaysociety.org.uk](http://www.cornwallrailwaysociety.org.uk)
- - date_published: 2025-01-01T06:40:30.791404+00:00
-
- ## corporatewatch.org.uk
- - [http://www.corporatewatch.org.uk](http://www.corporatewatch.org.uk)
- - date_published: 2025-02-04T19:24:25.598273+00:00
-
- ## cosmolog
- - [http://cosmolog.org.uk](http://cosmolog.org.uk)
- - date_published: 2015-03-30T15:58:59+00:00
-
- ## Council for Disabled Children
- - [https://councilfordisabledchildren.org.uk](https://councilfordisabledchildren.org.uk)
- - date_published: 2024-12-26T18:44:29.453349+00:00
-
- ## Counselling Directory - Find a Counsellor Near You
- - [https://www.counselling-directory.org.uk](https://www.counselling-directory.org.uk)
- - date_published: 2025-01-09T06:41:39.904895+00:00
-
- ## COUNTERPRESS – Books
- - [https://counterpress.org.uk](https://counterpress.org.uk)
- - date_published: 2024-05-08T06:59:10.428851+00:00
-
- ## Home - CPRE
- - [http://www.cpre.org.uk](http://www.cpre.org.uk)
- - date_published: 2025-01-01T07:18:26.391949+00:00
-
- ## Homepage - CPRE Kent
- - [https://www.cprekent.org.uk](https://www.cprekent.org.uk)
- - date_published: 2024-10-21T09:10:37.994031+00:00
-
- ## Welcome to CPSL Mind! | Supporting the East of England
- - [https://www.cpslmind.org.uk](https://www.cpslmind.org.uk)
- - date_published: 2024-10-20T03:21:05.005717+00:00
-
- ## Care Quality Commission
- - [https://cqc.org.uk](https://cqc.org.uk)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Latest News - Craig Murray
- - [https://craigmurray.org.uk](https://craigmurray.org.uk)
- - date_published: 2024-12-20T08:56:35+00:00
-
- ## Latest News - Craig Murray
- - [https://www.craigmurray.org.uk](https://www.craigmurray.org.uk)
- - date_published: 2023-12-11T15:40:51.913442+00:00
- - tags: ['personal']
-
- ## CRASH magazine: The Online Edition
- - [http://www.crashonline.org.uk](http://www.crashonline.org.uk)
- - date_published: 2024-07-11T12:07:43.220008+00:00
-
- ## ©º - The Creative Organisation - index
- - [https://creative.org.uk](https://creative.org.uk)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## creativecollaboration.org.uk is almost here!
- - [http://www.creativecollaboration.org.uk](http://www.creativecollaboration.org.uk)
- - date_published: 2025-01-22T03:31:24.542392+00:00
-
- ## The Creative Science Centre - by Dr Jonathan P. Hare
- - [https://www.creative-science.org.uk](https://www.creative-science.org.uk)
- - date_published: 2015-02-28T20:39:35+00:00
-
- ## Creative Space
- - [https://creative-space.org.uk](https://creative-space.org.uk)
- - date_published: 2024-06-15T04:16:46.189829+00:00
-
- ## Cruse Bereavement Support
- - [https://www.cruse.org.uk](https://www.cruse.org.uk)
- - date_published: 2024-10-20T10:42:22.186920+00:00
-
- ## Home | CSA Centre
- - [https://csacentre.org.uk](https://csacentre.org.uk)
+ - [https://compliance.web.ox.ac.uk](https://compliance.web.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:09.942716+00:00
+
+ ## Keble College Oxford - Conferences, Events & Accommodation
+ - [https://conference.keble.ox.ac.uk](https://conference.keble.ox.ac.uk)
  - date_published: 2024-02-13T00:00:00+00:00
 
- ## Home - Centre for Sustainable Energy
- - [https://www.cse.org.uk](https://www.cse.org.uk)
+ ## Oxford University Department for Continuing Education
+ - [https://conted.ox.ac.uk](https://conted.ox.ac.uk)
+ - date_published: 2024-06-17T18:20:09.492748+00:00
+
+ ## Home
+ - [https://core.web.ox.ac.uk](https://core.web.ox.ac.uk)
+ - date_published: 2024-06-17T15:06:24+00:00
+
+ ## IT training and digital skills
+ - [https://courses.it.ox.ac.uk](https://courses.it.ox.ac.uk)
+ - date_published: 2024-06-15T21:03:36+00:00
+
+ ## Home
+ - [https://csae.web.ox.ac.uk](https://csae.web.ox.ac.uk)
+ - date_published: 2024-10-20T06:16:33.852292+00:00
+
+ ## Index
+ - [http://csml.stats.ox.ac.uk](http://csml.stats.ox.ac.uk)
+ - date_published: 2024-07-24T18:02:31+00:00
+
+ ## Home
+ - [https://ctl.ox.ac.uk](https://ctl.ox.ac.uk)
+ - date_published: 2024-06-11T09:42:12+00:00
+
+ ## Digital Bodleian
+ - [https://digital2.bodleian.ox.ac.uk](https://digital2.bodleian.ox.ac.uk)
+ - date_published: 2024-10-20T05:31:08.574131+00:00
+
+ ## Digital Bodleian
+ - [https://digital.bodleian.ox.ac.uk](https://digital.bodleian.ox.ac.uk)
+ - date_published: 2024-06-17T18:17:58.988745+00:00
+
+ ## OxDNA
+ - [https://dna.physics.ox.ac.uk](https://dna.physics.ox.ac.uk)
+ - date_published: 2024-04-25T13:25:18+00:00
+
+ ## BRAHMS: Oxford
+ - [http://dps007.plants.ox.ac.uk](http://dps007.plants.ox.ac.uk)
+ - date_published: 2024-10-20T05:37:35.138591+00:00
+
+ ## Home
+ - [https://dspi.web.ox.ac.uk](https://dspi.web.ox.ac.uk)
+ - date_published: 2024-06-17T14:46:56+00:00
+
+ ## Dynamic Robot Systems Group
+ - [https://dynamic.robots.ox.ac.uk](https://dynamic.robots.ox.ac.uk)
+ - date_published: 2024-10-20T07:37:12.743282+00:00
+
+ ## Taylor Editions / Home Page
+ - [https://editions.mml.ox.ac.uk](https://editions.mml.ox.ac.uk)
+ - date_published: 2024-12-31T18:42:10.045881+00:00
+
+ ## Home page
+ - [https://edu.admin.ox.ac.uk](https://edu.admin.ox.ac.uk)
+ - date_published: 2024-06-13T10:16:17+00:00
+
+ ## Home page
+ - [https://edu.web.ox.ac.uk](https://edu.web.ox.ac.uk)
+ - date_published: 2024-06-13T19:57:47+00:00
+
+ ## Early Modern Letters Online : Home
+ - [http://emlo.bodleian.ox.ac.uk](http://emlo.bodleian.ox.ac.uk)
+ - date_published: 2024-06-17T18:18:56.830451+00:00
+
+ ## Department of Engineering Science | University of Oxford
+ - [https://eng.ox.ac.uk](https://eng.ox.ac.uk)
+ - date_published: 2024-06-17T18:56:55.517824+00:00
+
+ ## Welcome to the Oxford DTP in Environmental Research
+ - [https://envres.web.ox.ac.uk](https://envres.web.ox.ac.uk)
+ - date_published: 2024-06-16T09:33:54+00:00
+
+ ## https://eodg.atm.ox.ac.uk
+ - [https://eodg.atm.ox.ac.uk](https://eodg.atm.ox.ac.uk)
+ - date_published: 2022-07-20T15:01:04+00:00
+
+ ## Energy and Power Group, Department of Engineering Science, University of Oxford
+ - [https://epg.eng.ox.ac.uk](https://epg.eng.ox.ac.uk)
+ - date_published: 2024-06-17T19:00:06.029015+00:00
+
+ ## Home
+ - [https://estates.admin.ox.ac.uk](https://estates.admin.ox.ac.uk)
+ - date_published: 2024-06-14T08:40:44+00:00
+
+ ## ETCSLhomepage
+ - [https://etcsl.orinst.ox.ac.uk](https://etcsl.orinst.ox.ac.uk)
+ - date_published: 2025-01-23T05:05:01.155963+00:00
+
+ ## Wadham College
+ - [https://events.wadham.ox.ac.uk](https://events.wadham.ox.ac.uk)
+ - date_published: 2024-06-17T18:32:56.981997+00:00
+
+ ## Linguistics at Oxford –
+ - [https://explore.ling-phil.ox.ac.uk](https://explore.ling-phil.ox.ac.uk)
+ - date_published: 2024-06-17T18:57:01.579291+00:00
+
+ ## Home
+ - [https://finance.admin.ox.ac.uk](https://finance.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:32:16+00:00
+
+ ## Home
+ - [https://focus.admin.ox.ac.uk](https://focus.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:55:28+00:00
+
+ ## Home
+ - [https://foxtalbot.bodleian.ox.ac.uk](https://foxtalbot.bodleian.ox.ac.uk)
+ - date_published: 2015-04-22T15:00:37+00:00
+
+ ## Frontiers of Socio-Legal Studies
+ - [https://frontiers.csls.ox.ac.uk](https://frontiers.csls.ox.ac.uk)
+ - date_published: 2024-10-20T05:59:51.934427+00:00
+
+ ## Document
+ - [https://fsl.fmrib.ox.ac.uk](https://fsl.fmrib.ox.ac.uk)
+ - date_published: 2024-10-20T07:16:34.773364+00:00
+
+ ## Kellogg College Giving Day 2024
+ - [https://givingday.kellogg.ox.ac.uk](https://givingday.kellogg.ox.ac.uk)
+ - date_published: 2024-06-17T18:45:16.415296+00:00
+
+ ## Home
+ - [https://glamit.web.ox.ac.uk](https://glamit.web.ox.ac.uk)
+ - date_published: 2024-10-20T05:37:48.247917+00:00
+
+ ## Home
+ - [https://glam.web.ox.ac.uk](https://glam.web.ox.ac.uk)
+ - date_published: 2024-05-02T10:57:33.164842+00:00
+
+ ## Home
+ - [https://globalcapitalism.history.ox.ac.uk](https://globalcapitalism.history.ox.ac.uk)
+ - date_published: 2024-05-29T01:37:51.785684+00:00
+
+ ## Home
+ - [https://globalcapitalism.web.ox.ac.uk](https://globalcapitalism.web.ox.ac.uk)
+ - date_published: 2024-09-02T07:20:19+00:00
+
+ ## Oxford's International Research
+ - [https://globalresearch.admin.ox.ac.uk](https://globalresearch.admin.ox.ac.uk)
+ - date_published: 2024-10-20T07:05:54.265164+00:00
+
+ ## GO Lab
+ - [https://golab.bsg.ox.ac.uk](https://golab.bsg.ox.ac.uk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Home
+ - [http://governance.admin.ox.ac.uk](http://governance.admin.ox.ac.uk)
+ - date_published: 2024-06-14T09:43:18+00:00
+
+ ## Home
+ - [https://governance.web.ox.ac.uk](https://governance.web.ox.ac.uk)
+ - date_published: 2024-06-17T09:01:24+00:00
+
+ ## Home
+ - [https://gradaccommodation.admin.ox.ac.uk](https://gradaccommodation.admin.ox.ac.uk)
+ - date_published: 2024-10-20T07:11:02.374805+00:00
+
+ ## hallmarkscampaign | Forged by the Hall
+ - [https://hallmarkscampaign.seh.ox.ac.uk](https://hallmarkscampaign.seh.ox.ac.uk)
+ - date_published: 2024-06-17T18:36:03.939423+00:00
+
+ ## Home - Kellogg Student Handbook
+ - [http://handbook.kellogg.ox.ac.uk](http://handbook.kellogg.ox.ac.uk)
+ - date_published: 2024-06-17T18:45:08.709662+00:00
+
+ ## Home
+ - [https://help.it.ox.ac.uk](https://help.it.ox.ac.uk)
+ - date_published: 2024-06-13T19:26:43+00:00
+
+ ## BRAHMS: Oxford
+ - [https://herbaria.plants.ox.ac.uk](https://herbaria.plants.ox.ac.uk)
+ - date_published: 2024-06-17T18:19:15.365249+00:00
+
+ ## Home - Keble College
+ - [https://heritage.keble.ox.ac.uk](https://heritage.keble.ox.ac.uk)
+ - date_published: 2020-04-23T00:00:00+00:00
+
+ ## Welcome
+ - [https://hoa.web.ox.ac.uk](https://hoa.web.ox.ac.uk)
+ - date_published: 2024-06-17T10:40:39+00:00
+
+ ## Home
+ - [https://hr.admin.ox.ac.uk](https://hr.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:31:13+00:00
+
+ ## Home
+ - [https://hr.web.ox.ac.uk](https://hr.web.ox.ac.uk)
+ - date_published: 2024-06-15T22:46:52+00:00
+
+ ## Home
+ - [https://hsm.ox.ac.uk](https://hsm.ox.ac.uk)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Hub Home - Wolfson Hub
+ - [https://hub.wolf.ox.ac.uk](https://hub.wolf.ox.ac.uk)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## IBME – Institute of Biomedical Engineering
+ - [https://ibme.ox.ac.uk](https://ibme.ox.ac.uk)
+ - date_published: 2024-06-17T19:00:11.835991+00:00
+
+ ## Welcome
+ - [https://imcc.web.ox.ac.uk](https://imcc.web.ox.ac.uk)
+ - date_published: 2024-06-12T02:28:26+00:00
+
+ ## Oxford University Innovation - Impact Report 2023
+ - [https://impactreport2023.innovation.ox.ac.uk](https://impactreport2023.innovation.ox.ac.uk)
+ - date_published: 2024-10-20T06:41:23.855990+00:00
+
+ ## Oxford University Innovation Ltd.
+ - [https://innovation.ox.ac.uk](https://innovation.ox.ac.uk)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://intranet.bioch.ox.ac.uk](https://intranet.bioch.ox.ac.uk)
+ - date_published: 2024-06-17T18:34:03.424189+00:00
+
+ ## Intranet login | ChCh Intranet | ChCh Intranet
+ - [https://intranet.chch.ox.ac.uk](https://intranet.chch.ox.ac.uk)
+ - date_published: 2024-06-17T18:33:54.860073+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://intranet.cs.ox.ac.uk](https://intranet.cs.ox.ac.uk)
+ - date_published: 2024-05-02T10:58:34.840211+00:00
+
+ ## Sign in to your account
+ - [https://intranet.hertford.ox.ac.uk](https://intranet.hertford.ox.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://intranet.lmh.ox.ac.uk](https://intranet.lmh.ox.ac.uk)
+ - date_published: 2024-06-17T18:34:23.663474+00:00
+
+ ## Merton Intranet - not logged in home | Merton Intranet
+ - [https://intranet.merton.ox.ac.uk](https://intranet.merton.ox.ac.uk)
+ - date_published: 2024-06-17T18:35:42.490775+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://intranet.ndorms.ox.ac.uk](https://intranet.ndorms.ox.ac.uk)
+ - date_published: 2024-06-17T18:45:22.756863+00:00
+
+ ## Sign In
+ - [https://intranet.nuff.ox.ac.uk](https://intranet.nuff.ox.ac.uk)
+ - date_published: 2024-06-15T04:38:09.696455+00:00
+
+ ## Sign in to your account
+ - [https://intranet.oii.ox.ac.uk](https://intranet.oii.ox.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Faculty of Asian and Middle Eastern Studies Intranet - Faculty of Asian and Middle Eastern Intranet
+ - [http://intranet.orient.ox.ac.uk](http://intranet.orient.ox.ac.uk)
+ - date_published: 2024-06-17T18:45:52.872046+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://intranet.ouce.ox.ac.uk](https://intranet.ouce.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:12.723018+00:00
+
+ ## Log in | Pathology Intranet
+ - [https://intranet.path.ox.ac.uk](https://intranet.path.ox.ac.uk)
+ - date_published: 2024-06-17T18:57:47.862456+00:00
+
+ ## Welcome | Pembroke Intranet
+ - [https://intranet.pmb.ox.ac.uk](https://intranet.pmb.ox.ac.uk)
+ - date_published: 2024-06-17T18:33:25.582962+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://intranet.politics.ox.ac.uk](https://intranet.politics.ox.ac.uk)
+ - date_published: 2024-06-29T21:18:42.500848+00:00
+
+ ## Login | ODID Intranet
+ - [https://intranet.qeh.ox.ac.uk](https://intranet.qeh.ox.ac.uk)
+ - date_published: 2024-06-17T18:37:09.885662+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://intranet.st-hughs.ox.ac.uk](https://intranet.st-hughs.ox.ac.uk)
+ - date_published: 2024-06-17T18:32:40.022169+00:00
+
+ ## Trinity College Intranet
+ - [https://intranet.trinity.ox.ac.uk](https://intranet.trinity.ox.ac.uk)
+ - date_published: 2023-07-31T16:24:07+00:00
+
+ ## Home
+ - [https://invisibleeast.web.ox.ac.uk](https://invisibleeast.web.ox.ac.uk)
+ - date_published: 2024-06-17T18:45:43.854756+00:00
+
+ ## Home
+ - [https://it.museums.ox.ac.uk](https://it.museums.ox.ac.uk)
+ - date_published: 2024-06-13T19:33:31+00:00
+
+ ## Home
+ - [https://it.ox.ac.uk](https://it.ox.ac.uk)
+ - date_published: 2024-10-20T05:38:08.920945+00:00
+
+ ## Junior Common Room – Worcester College
+ - [https://jcr.worc.ox.ac.uk](https://jcr.worc.ox.ac.uk)
+ - date_published: 2024-06-17T18:34:58+00:00
+
+ ## Jerugroup
+ - [https://jerugroup.eng.ox.ac.uk](https://jerugroup.eng.ox.ac.uk)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Restricted access | Jesus College Oxford
+ - [https://jesuscollegeintranet.web.ox.ac.uk](https://jesuscollegeintranet.web.ox.ac.uk)
+ - date_published: 2024-06-17T18:46:01+00:00
+
+ ## Home
+ - [https://jobs.ox.ac.uk](https://jobs.ox.ac.uk)
+ - date_published: 2024-06-16T04:59:53+00:00
+
+ ## Home
+ - [https://l4dc.web.ox.ac.uk](https://l4dc.web.ox.ac.uk)
+ - date_published: 2024-06-20T22:20:18+00:00
+
+ ## Home
+ - [https://learningzone.oumnh.ox.ac.uk](https://learningzone.oumnh.ox.ac.uk)
+ - date_published: 2024-06-13T19:43:16+00:00
+
+ ## Professional services and University administration
+ - [http://legal.admin.ox.ac.uk](http://legal.admin.ox.ac.uk)
+ - date_published: 2024-06-13T09:23:19+00:00
+
+ ## Oxford LibGuides: Subject and Research Guides: Home
+ - [https://libguides.bodleian.ox.ac.uk](https://libguides.bodleian.ox.ac.uk)
+ - date_published: 2024-06-17T18:18:15.892668+00:00
+
+ ## Home | Lincoln College Oxford
+ - [https://lincoln.ox.ac.uk](https://lincoln.ox.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Login to Canvas - University of Oxford
+ - [https://login.canvas.ox.ac.uk](https://login.canvas.ox.ac.uk)
+ - date_published: 2024-06-17T18:20:07.402335+00:00
+
+ ## Homepage | Laudato Si' Research Institute
+ - [https://lsri.campion.ox.ac.uk](https://lsri.campion.ox.ac.uk)
+ - date_published: 2024-06-17T18:35:13.076545+00:00
+
+ ## Site Maintenance
+ - [https://maillist.ox.ac.uk](https://maillist.ox.ac.uk)
+ - date_published: 2019-08-12T13:09:53+00:00
+
+ ## Interactive Map
+ - [http://maps.ox.ac.uk](http://maps.ox.ac.uk)
+ - date_published: 2022-10-09T04:28:19+00:00
+
+ ## Worcester College MCR – Welcome to Worcester MCR
+ - [https://mcr.worc.ox.ac.uk](https://mcr.worc.ox.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://meals.oriel.ox.ac.uk](https://meals.oriel.ox.ac.uk)
+ - date_published: 2024-06-17T18:31:55.336788+00:00
+
+ ## IIS Windows Server
+ - [http://meals.rpc.ox.ac.uk](http://meals.rpc.ox.ac.uk)
+ - date_published: 2024-04-02T10:36:24+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://mediapub.it.ox.ac.uk](https://mediapub.it.ox.ac.uk)
+ - date_published: 2024-06-17T18:20:29.524552+00:00
+
+ ## Medieval Manuscripts in Oxford Libraries
+ - [https://medieval.bodleian.ox.ac.uk](https://medieval.bodleian.ox.ac.uk)
+ - date_published: 2024-08-06T19:19:27.259075+00:00
+
+ ## HMC - Members
+ - [https://members.hmc.ox.ac.uk](https://members.hmc.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:41.932291+00:00
+
+ ## Home - Migration Observatory
+ - [https://migrationobservatory.ox.ac.uk](https://migrationobservatory.ox.ac.uk)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Faculty of Medieval and Modern Languages
+ - [https://mod-langs.ox.ac.uk](https://mod-langs.ox.ac.uk)
+ - date_published: 2024-10-20T07:16:15.698580+00:00
+
+ ## Mobility Reading Group
+ - [https://mrg.cs.ox.ac.uk](https://mrg.cs.ox.ac.uk)
+ - date_published: 2025-02-09T10:16:46.212997+00:00
+
+ ## Oxford Applied and Theoretical Machine Learning Group - OATML
+ - [https://oatml.cs.ox.ac.uk](https://oatml.cs.ox.ac.uk)
  - date_published: 2024-06-19T00:00:00+00:00
 
- ## Welcome To Cyber Security Unity - Cyber Security Unity
- - [https://csu.org.uk](https://csu.org.uk)
- - date_published: 2021-11-19T08:36:14+00:00
-
- ## Cycling UK | Let's make a better world by bike
- - [http://www.ctc.org.uk](http://www.ctc.org.uk)
- - date_published: 2024-12-30T20:40:03+00:00
+ ## Home
+ - [https://occupationalhealth.admin.ox.ac.uk](https://occupationalhealth.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:34:44+00:00
 
  ## Home
- - [https://cte.org.uk](https://cte.org.uk)
- - date_published: 2024-10-21T10:18:44.161999+00:00
-
- ## Cambridge University Health Partners – CUHP
- - [https://www.cuhp.org.uk](https://www.cuhp.org.uk)
- - date_published: 2024-06-17T17:37:58.172407+00:00
-
- ## Culture24
- - [http://www.culture24.org.uk](http://www.culture24.org.uk)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Culture Connects - Connecting Culture and Communities
- - [https://cultureconnects.org.uk](https://cultureconnects.org.uk)
- - date_published: 2024-10-20T17:12:20.070909+00:00
-
- ## Home Page - Cyber Security Challenge UK - Cyber Security Challenge UK
- - [https://cybersecuritychallenge.org.uk](https://cybersecuritychallenge.org.uk)
- - date_published: 2024-12-13T09:55:21+00:00
-
- ## Daniel Nettle
- - [https://www.danielnettle.org.uk](https://www.danielnettle.org.uk)
- - date_published: 2024-07-02T10:14:58.801071+00:00
-
- ## Darknet - Hacking Tools, Hacker News & Cyber Security
- - [https://www.darknet.org.uk](https://www.darknet.org.uk)
- - date_published: 2024-01-05T00:00:00+00:00
- - tags: ['darknet', 'news', 'articles', 'hacking']
-
- ## The Complete Work of Charles Darwin Online
- - [http://darwin-online.org.uk](http://darwin-online.org.uk)
- - date_published: 2024-07-04T02:21:53+00:00
-
- ## DATA-CAN
- - [https://www.data-can.org.uk](https://www.data-can.org.uk)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Dating Profile Generator
- - [https://www.dating-profile-generator.org.uk](https://www.dating-profile-generator.org.uk)
- - date_published: 2024-10-30T10:49:11.285598+00:00
-
- ## dave.org.uk
- - [http://dave.org.uk](http://dave.org.uk)
- - date_published: 2024-08-05T16:40:49+00:00
-
- ## Home - Dave Cohen
- - [https://davecohen.org.uk](https://davecohen.org.uk)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Davenport Railway Station - home
- - [http://www.davenportstation.org.uk](http://www.davenportstation.org.uk)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## PAPAFA : Situs Game Online Depo 10ribu Gampang Maxwin
- - [http://davisinstruments.org.uk](http://davisinstruments.org.uk)
- - date_published: 2025-02-03T05:14:05.326448+00:00
-
- ## BRO11 : Destinasi Utama Situs Gacor Gampang JP Sensational
- - [http://davismarine.org.uk](http://davismarine.org.uk)
- - date_published: 2025-02-03T05:12:22.275361+00:00
-
- ## Design Business Association - Join the DBA community
- - [https://www.dba.org.uk](https://www.dba.org.uk)
- - date_published: 2024-10-20T02:16:00.779546+00:00
-
- ## Pi Gazing is a project to build meteor cameras using Raspberry Pi
- - [https://pigazing.dcford.org.uk](https://pigazing.dcford.org.uk)
- - date_published: 2024-06-22T16:44:44+00:00
-
- ## Home
- - [https://www.dec.org.uk](https://www.dec.org.uk)
- - date_published: 2024-07-23T21:35:53.474613+00:00
-
- ## The useless web site of Ben Hutchings and Natalie Mayer-Hutchings
- - [https://www.decadent.org.uk](https://www.decadent.org.uk)
- - date_published: 2015-04-26T15:30:12+00:00
-
- ## Democracy Club Candidates
- - [https://candidates.democracyclub.org.uk](https://candidates.democracyclub.org.uk)
- - date_published: 2024-07-03T17:15:09.076282+00:00
-
- ## Democracy Club
- - [https://democracyclub.org.uk](https://democracyclub.org.uk)
- - date_published: 2024-07-16T20:40:29.265498+00:00
-
- ## Home - De Morgan House
- - [http://demorganhouse.org.uk](http://demorganhouse.org.uk)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## dese.org.uk
- - [http://dese.org.uk](http://dese.org.uk)
- - date_published: 2024-07-07T00:04:38.240348+00:00
-
- ## Make life better by design - Design Council
- - [https://www.designcouncil.org.uk](https://www.designcouncil.org.uk)
- - date_published: 2024-10-30T12:52:18.016652+00:00
-
- ## Destination STEM
- - [https://www.destinationstem.org.uk](https://www.destinationstem.org.uk)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Home - Developments Magazine
- - [http://www.developments.org.uk](http://www.developments.org.uk)
- - date_published: 2016-07-04T00:00:00+00:00
-
- ## DEWA | Deaf Ethnic Women's Association London
- - [https://www.dewa.org.uk](https://www.dewa.org.uk)
- - date_published: 2024-08-18T04:02:48.805873+00:00
-
- ## The Centre For Age Gender and Social Justice - Centre For Age Gender and Social Justice
- - [https://dewischoice.org.uk](https://dewischoice.org.uk)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Diabetes UK - Know diabetes. Fight diabetes. | Diabetes UK
- - [https://www.diabetes.org.uk](https://www.diabetes.org.uk)
- - date_published: 2024-07-03T14:55:43+00:00
-
- ## The Diana Award
- - [http://diana-award.org.uk](http://diana-award.org.uk)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Diggers and Dreamers – Intentional Community in Britain
- - [https://diggersanddreamers.org.uk](https://diggersanddreamers.org.uk)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Digital Catapult - The UK authority on advanced digital technology
- - [https://digicatapult.org.uk](https://digicatapult.org.uk)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## digiplay.org.uk
- - [http://www.digiplay.org.uk](http://www.digiplay.org.uk)
- - date_published: 2025-01-09T08:31:40.211080+00:00
-
- ## DiN
- - [https://din.org.uk](https://din.org.uk)
- - date_published: 2024-12-27T07:22:49.359015+00:00
-
- ## Homepage - Diocese of York
- - [http://dioceseofyork.org.uk](http://dioceseofyork.org.uk)
- - date_published: 2024-10-21T10:46:48.487007+00:00
-
- ## Walking, Cycling and Riding in Suffolk - Discover Suffolk
- - [https://www.discoversuffolk.org.uk](https://www.discoversuffolk.org.uk)
- - date_published: 2024-12-31T23:22:40+00:00
-
- ## Index of /
- - [https://vox.distorted.org.uk](https://vox.distorted.org.uk)
- - date_published: 2024-08-18T19:44:21.609408+00:00
-
- ## Dive Aid
- - [http://www.diveaid.org.uk](http://www.diveaid.org.uk)
- - date_published: 2025-01-16T13:01:08.133447+00:00
-
- ## DiveIn – Centre for Doctoral Training in Diversity led, mission-driven research
- - [https://www.divein.org.uk](https://www.divein.org.uk)
- - date_published: 2024-10-17T06:38:13.985915+00:00
-
- ## Homepage - The Diversity Trust
- - [https://www.diversitytrust.org.uk](https://www.diversitytrust.org.uk)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Welcome to DJO
- - [https://www.djo.org.uk](https://www.djo.org.uk)
- - date_published: 2025-02-01T19:41:53.579984+00:00
-
- ## Doc Rowe Archive & Collection: Home Page
- - [http://www.docrowe.org.uk](http://www.docrowe.org.uk)
- - date_published: 2019-11-14T18:24:33+00:00
-
- ## doteveryone – think tank championing responsible tech for a fairer future
- - [http://doteveryone.org.uk](http://doteveryone.org.uk)
- - date_published: 2024-07-16T20:40:33.839093+00:00
-
- ## D'Oyly Carte
- - [http://www.doylycarte.org.uk](http://www.doylycarte.org.uk)
- - date_published: 2024-07-01T08:32:43.519169+00:00
-
- ## Home
- - [http://www.dpaccreditation.org.uk](http://www.dpaccreditation.org.uk)
- - date_published: 2024-06-18T09:07:58.077843+00:00
-
- ## FRANCE – RN surges to huge new election records: Le Pen, fascism and the working class - Dream deferred
- - [http://www.dreamdeferred.org.uk](http://www.dreamdeferred.org.uk)
- - date_published: 2024-10-21T17:58:47.355164+00:00
-
- ## Home - Driving Mobility
- - [https://www.drivingmobility.org.uk](https://www.drivingmobility.org.uk)
- - date_published: 2024-05-02T12:09:57.344250+00:00
-
- ## Dulwich College - Independent School for boys
- - [https://www.dulwich.org.uk](https://www.dulwich.org.uk)
- - date_published: 2025-01-31T06:57:42.385201+00:00
-
- ## Dulwich College Calendar | Week View
- - [https://www.dulwichcalendar.org.uk](https://www.dulwichcalendar.org.uk)
- - date_published: 2025-02-03T20:46:22.514523+00:00
-
- ## Home | Dulwich Picture Gallery
- - [http://www.dulwichpicturegallery.org.uk](http://www.dulwichpicturegallery.org.uk)
- - date_published: 2024-06-24T09:06:38.805666+00:00
-
- ## Dulwich College | Sports Home
- - [http://www.dulwichsport.org.uk](http://www.dulwichsport.org.uk)
- - date_published: 2025-02-03T20:46:20.747588+00:00
-
- ## EachOther: Independent Human Rights News, Information, Videos
- - [https://eachother.org.uk](https://eachother.org.uk)
- - date_published: 2024-10-18T20:56:24.979742+00:00
-
- ## Page name | RCPCH
- - [https://rcpch.eaction.org.uk](https://rcpch.eaction.org.uk)
- - date_published: 2024-06-17T05:40:11.056832+00:00
-
- ## Engineering Courses Developed & Maintained By Experts | EAL
- - [https://eal.org.uk](https://eal.org.uk)
- - date_published: 2024-12-12T09:42:21.491779+00:00
-
- ## Early Modern Resources Home Page
- - [http://www.earlymodernweb.org.uk](http://www.earlymodernweb.org.uk)
- - date_published: 2023-02-01T01:48:27+00:00
-
- ## Saving The Planet @Home
- - [https://www.earth.org.uk](https://www.earth.org.uk)
- - date_published: 2007-05-25T00:00:00+00:00
-
- ## Home page - EASE
- - [https://ease.org.uk](https://ease.org.uk)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## East Worthing and Shoreham Conservatives
- - [https://www.eastworthingandshoreham.org.uk](https://www.eastworthingandshoreham.org.uk)
- - date_published: 2025-02-01T16:18:03.691923+00:00
-
- ## You shop. Your cause gets money. For free.
- - [https://www.easyfundraising.org.uk](https://www.easyfundraising.org.uk)
- - date_published: 2024-08-08T03:14:02.266152+00:00
-
- ## Home - eBay for Charity
- - [https://ebayforcharity.org.uk](https://ebayforcharity.org.uk)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## English Ceilidh - Welcome
- - [https://eceilidh.org.uk](https://eceilidh.org.uk)
- - date_published: 2024-08-11T04:57:30.636866+00:00
-
- ## Eclectic Blue
- - [http://www.eclecticblue.org.uk](http://www.eclecticblue.org.uk)
- - date_published: 2025-02-01T17:01:22.879397+00:00
-
- ## ecsu
- - [https://ecsu.org.uk](https://ecsu.org.uk)
- - date_published: 2024-01-30T14:02:31+00:00
-
- ## Welcome to the Edinburgh Academy
- - [http://www.edinburghacademy.org.uk](http://www.edinburghacademy.org.uk)
- - date_published: 2024-10-21T15:16:59.219302+00:00
-
- ## EdinPhoto Home Page - The History of Photography in Edinburgh by Peter 
-Stubbs. This site records my research into the history of photography in 
-Edinburgh since 1840; When I last counted, at January 2010, there were about 
-19,700 pages and about 17,200 pict
- - [http://www.edinphoto.org.uk](http://www.edinphoto.org.uk)
- - date_published: 2025-01-01T06:40:38.847517+00:00
-
- ## Early Day Motions
- - [http://www.edms.org.uk](http://www.edms.org.uk)
- - date_published: 2024-12-31T08:08:19.589836+00:00
-
- ## An Atari ST Retro Welcome! - Effect - The Atari ST Demo and Packing Crew
- - [http://www.effect.org.uk](http://www.effect.org.uk)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Effective Lab
- - [http://www.effectivelab.org.uk](http://www.effectivelab.org.uk)
- - date_published: 2024-09-16T14:46:39.632690+00:00
-
- ## Homepage
- - [http://effordtakeapart.org.uk](http://effordtakeapart.org.uk)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Home | EGSA
- - [http://www.egsa.org.uk](http://www.egsa.org.uk)
- - date_published: 2022-10-21T14:59:42+00:00
-
- ## European Human Rights Advocacy Centre (EHRAC)
- - [http://www.ehrac.org.uk](http://www.ehrac.org.uk)
- - date_published: 2024-10-18T21:02:41.325481+00:00
-
- ## Home Page
- - [https://www.electoralcommission.org.uk](https://www.electoralcommission.org.uk)
- - date_published: 2024-05-06T16:31:07.692511+00:00
-
- ## Electoral Reform Society - ERS
- - [https://action.electoral-reform.org.uk](https://action.electoral-reform.org.uk)
- - date_published: 2024-06-24T06:21:39.388877+00:00
-
- ## The results of the 2019 UK General Election
- - [https://ge2019.electoral-reform.org.uk](https://ge2019.electoral-reform.org.uk)
- - date_published: 2024-06-24T06:21:37.836727+00:00
-
- ## Electoral Reform Society - ERS
- - [https://www.electoral-reform.org.uk](https://www.electoral-reform.org.uk)
- - date_published: 2024-05-06T16:31:09.092704+00:00
-
- ## ELIZABETHAN ERA
- - [http://www.elizabethan-era.org.uk](http://www.elizabethan-era.org.uk)
- - date_published: 2024-10-21T14:10:09.711489+00:00
-
- ## Emmanuel College MCR
- - [https://emmamcr.org.uk](https://emmamcr.org.uk)
- - date_published: 2024-06-15T13:02:13.995104+00:00
-
- ## Home - EmployAbility
- - [https://employ-ability.org.uk](https://employ-ability.org.uk)
- - date_published: 2025-01-30T15:52:10.179238+00:00
-
- ## Enchant | A 4 part chamber group who sing a mixed repertoire from madrigals to Mika
- - [http://www.enchant.org.uk](http://www.enchant.org.uk)
- - date_published: 2024-05-02T11:42:36.602118+00:00
-
- ## Home
- - [https://www.enchantedforest.org.uk](https://www.enchantedforest.org.uk)
- - date_published: 2024-10-20T11:01:55.535185+00:00
-
- ## End Child Poverty - Campaigning for an end to child poverty
- - [http://www.endchildpoverty.org.uk](http://www.endchildpoverty.org.uk)
- - date_published: 2024-10-21T13:43:47.653753+00:00
-
- ## Endnotes
- - [https://endnotes.org.uk](https://endnotes.org.uk)
- - date_published: 2024-02-24T18:24:01.167217+00:00
-
- ## Home | End Violence Against Women
- - [https://endviolenceagainstwomen.org.uk](https://endviolenceagainstwomen.org.uk)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Employers Network for Equality & Inclusion - The Employers Network for Equality & Inclusion (enei)
- - [https://www.enei.org.uk](https://www.enei.org.uk)
- - date_published: 2024-10-20T22:28:29.523791+00:00
-
- ## Emoncms - club
- - [https://dashfwrdd.energylocal.org.uk](https://dashfwrdd.energylocal.org.uk)
- - date_published: 2024-07-20T19:17:21.546484+00:00
-
- ## Upper Calder Valley Plain Speaker | "To be truly radical is to make hope possible rather than despair convincing."
- - [http://www.energyroyd.org.uk](http://www.energyroyd.org.uk)
- - date_published: 2024-07-10T07:04:42.231456+00:00
-
- ## Energy UK - The voice of the energy industry
- - [https://energy-uk.org.uk](https://energy-uk.org.uk)
- - date_published: 2024-10-31T10:43:56.169344+00:00
-
- ## The Engagement Rings Guide -  What you should know
- - [http://www.engagementrings.org.uk](http://www.engagementrings.org.uk)
- - date_published: 2024-06-27T05:31:06.219807+00:00
-
- ## Engineering Council
- - [https://www.engc.org.uk](https://www.engc.org.uk)
- - date_published: 2024-07-14T08:03:11.482871+00:00
-
- ## English folk and traditional music on the Internet
- - [https://englishfolkinfo.org.uk](https://englishfolkinfo.org.uk)
- - date_published: 2021-12-04T16:09:02+00:00
-
- ## English Heritage Members’ Area
- - [https://members.english-heritage.org.uk](https://members.english-heritage.org.uk)
- - date_published: 2024-06-25T16:39:56+00:00
-
- ## English Heritage Home Page
- - [https://www.english-heritage.org.uk](https://www.english-heritage.org.uk)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## English Heritage Shop | Gifts, Gift Ideas, Souvenirs
- - [https://www.english-heritageshop.org.uk](https://www.english-heritageshop.org.uk)
- - date_published: 2024-06-29T23:53:00.032540+00:00
-
- ## winter's homepage!
- - [https://winter.entities.org.uk](https://winter.entities.org.uk)
- - date_published: 2024-12-22T08:51:03.912617+00:00
-
- ## The Education Policy Institute
- - [https://epi.org.uk](https://epi.org.uk)
- - date_published: 2025-01-31T03:39:52.935675+00:00
-
- ## Epigram - Bristol University's Independent Student Newspaper
- - [https://epigram.org.uk](https://epigram.org.uk)
- - date_published: 2024-09-09T23:17:25.537412+00:00
-
- ## Epilepsy Society | Transforming lives through advocacy, research and care
- - [https://epilepsysociety.org.uk](https://epilepsysociety.org.uk)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## The Equality Trust | Working to improve the quality of life in the UK by reducing economic inequality
- - [https://equalitytrust.org.uk](https://equalitytrust.org.uk)
- - date_published: 2024-05-06T16:31:22.570360+00:00
-
- ## Esmée Fairbairn Foundation
- - [https://esmeefairbairn.org.uk](https://esmeefairbairn.org.uk)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## essaywriter.org.uk - Ta strona jest na sprzedaż! - essaywriter Zasoby i informacje.
- - [https://www.essaywriter.org.uk](https://www.essaywriter.org.uk)
- - date_published: 2025-02-03T09:12:06.904896+00:00
-
- ## Local Hookups Near Me (No Signup or Credit Card)
- - [https://www.europeanhealthinsurancecard.org.uk](https://www.europeanhealthinsurancecard.org.uk)
- - date_published: 2025-01-22T06:23:23.840550+00:00
-
- ## Home | The Eve Branson Foundation in Morocco
- - [https://www.evebransonfoundation.org.uk](https://www.evebransonfoundation.org.uk)
- - date_published: 2024-10-15T15:10:34+00:00
-
- ## Edinburgh World Heritage: The Old and New Towns of Edinburgh
- - [http://www.ewht.org.uk](http://www.ewht.org.uk)
- - date_published: 2024-12-25T08:18:02+00:00
-
- ## Wechselkurse
- - [https://de.exchangerates.org.uk](https://de.exchangerates.org.uk)
- - date_published: 2024-07-13T17:31:02.096648+00:00
-
- ## Los tipos de cambio
- - [https://es.exchangerates.org.uk](https://es.exchangerates.org.uk)
- - date_published: 2024-07-13T17:30:52.465172+00:00
-
- ## Exchange Rates UK - Compare Live Foreign Currency Exchange Rates
- - [https://exchangerates.org.uk](https://exchangerates.org.uk)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Taux de Change
- - [https://fr.exchangerates.org.uk](https://fr.exchangerates.org.uk)
- - date_published: 2024-07-13T17:30:39.288812+00:00
-
- ## wisselkoersen
- - [https://nl.exchangerates.org.uk](https://nl.exchangerates.org.uk)
- - date_published: 2024-07-13T17:30:46.772427+00:00
-
- ## Taxas de câmbio
- - [https://pt.exchangerates.org.uk](https://pt.exchangerates.org.uk)
- - date_published: 2024-07-13T17:30:57.361864+00:00
-
- ## Home | Council of Ex-Muslims of Britain - CEMB
- - [https://ex-muslim.org.uk](https://ex-muslim.org.uk)
- - date_published: 2025-02-01T17:02:44.038821+00:00
-
- ## ExoticA
- - [https://exotica.org.uk](https://exotica.org.uk)
- - date_published: 2019-05-21T00:00:00+00:00
- - tags: ['demoscene', 'amiga']
-
- ## Welcome to malus.exotica.org.uk
- - [https://janeway.exotica.org.uk](https://janeway.exotica.org.uk)
- - date_published: 2020-11-25T11:52:48+00:00
- - tags: ['demoscene', 'amiga']
-
- ## Welcome to malus.exotica.org.uk
- - [https://malus.exotica.org.uk](https://malus.exotica.org.uk)
- - date_published: 2020-11-25T11:52:48+00:00
-
- ## ExoticA : Amiga music, games and information.
- - [https://old.exotica.org.uk](https://old.exotica.org.uk)
- - date_published: 2020-11-25T11:52:48+00:00
-
- ## Redmine
- - [https://redmine.exotica.org.uk](https://redmine.exotica.org.uk)
- - date_published: 2024-06-18T11:24:44.944466+00:00
-
- ## Welcome to malus.exotica.org.uk
- - [https://svn.exotica.org.uk](https://svn.exotica.org.uk)
- - date_published: 2020-11-25T11:52:48+00:00
-
- ## Thalion Software Webshrine - Main Page
- - [https://thalion.exotica.org.uk](https://thalion.exotica.org.uk)
- - date_published: 2020-11-25T11:52:48+00:00
-
- ## Wanted Team Page
- - [https://wt.exotica.org.uk](https://wt.exotica.org.uk)
- - date_published: 2020-11-25T11:52:48+00:00
-
- ## The future of the left since 1884 | Fabian Society
- - [https://fabians.org.uk](https://fabians.org.uk)
- - date_published: 2024-09-10T08:45:18+00:00
-
- ## HOME | Fairlife
- - [https://www.fairlife.org.uk](https://www.fairlife.org.uk)
- - date_published: 2024-06-18T15:28:05.999430+00:00
-
- ## Falkirk District Wargames Club
- - [http://www.falkirkwargamesclub.org.uk](http://www.falkirkwargamesclub.org.uk)
- - date_published: 2024-07-11T15:26:17.942934+00:00
-
- ## Backorder UK Domains | ukbackorder.uk
- - [http://falseeconomy.org.uk](http://falseeconomy.org.uk)
- - date_published: 2025-02-01T18:49:03.659648+00:00
-
- ## The Fawcett Society
- - [http://www.fawcettsociety.org.uk](http://www.fawcettsociety.org.uk)
- - date_published: 2024-10-21T04:28:26.058637+00:00
-
- ## Fire Brigades Union | The Voice Of Firefighters
- - [http://www.fbu.org.uk](http://www.fbu.org.uk)
- - date_published: 2024-10-21T13:42:20.495612+00:00
-
- ## Mutuals Public Register
- - [https://mutuals.fca.org.uk](https://mutuals.fca.org.uk)
- - date_published: 2024-07-10T10:11:19.138623+00:00
-
- ## NewRegister
- - [https://register.fca.org.uk](https://register.fca.org.uk)
- - date_published: 2023-06-30T22:45:35+00:00
-
- ## FCA
- - [https://www.fca.org.uk](https://www.fca.org.uk)
+ - [https://occupationalhealth.web.ox.ac.uk](https://occupationalhealth.web.ox.ac.uk)
+ - date_published: 2024-10-20T07:08:11.623499+00:00
+
+ ## Online Egyptological Bibliography
+ - [http://oeb.griffith.ox.ac.uk](http://oeb.griffith.ox.ac.uk)
+ - date_published: 2024-10-20T06:55:11.075728+00:00
+
+ ## Examining the OED - Oxford English Dictionary Research
+ - [https://oed.hertford.ox.ac.uk](https://oed.hertford.ox.ac.uk)
+ - date_published: 2024-10-20T05:58:47.102306+00:00
+
+ ## Oxford e-Research Centre, Department of Engineering Science at Oxford
+ - [https://oerc.ox.ac.uk](https://oerc.ox.ac.uk)
  - date_published: 2024-06-14T00:00:00+00:00
 
- ## FEA | The UK's leading independent foodservice equipment trade association
- - [https://fea.org.uk](https://fea.org.uk)
- - date_published: 2024-10-29T14:45:49.939368+00:00
+ ## Home
+ - [https://oess.web.ox.ac.uk](https://oess.web.ox.ac.uk)
+ - date_published: 2024-06-16T16:15:45+00:00
 
- ## Fellsman - The Fellsman
- - [https://fellsman.org.uk](https://fellsman.org.uk)
- - date_published: 2024-05-02T00:00:00+00:00
+ ## Online Support
+ - [https://onlinesupport.conted.ox.ac.uk](https://onlinesupport.conted.ox.ac.uk)
+ - date_published: 2024-06-17T18:20:24.634155+00:00
 
- ## Feminist Fightback: An anticapitalist feminist collective
- - [http://www.feministfightback.org.uk](http://www.feministfightback.org.uk)
- - date_published: 2024-12-31T09:58:21.090452+00:00
+ ## Open access at Oxford University
+ - [http://openaccess.ox.ac.uk](http://openaccess.ox.ac.uk)
+ - date_published: 2024-06-13T19:27:52+00:00
 
- ## Family History Federation
- - [https://www.ffhs.org.uk](https://www.ffhs.org.uk)
- - date_published: 2024-08-08T11:28:43.929445+00:00
+ ## OPIG
+ - [https://opig.stats.ox.ac.uk](https://opig.stats.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:25.856767+00:00
 
- ## Foundation for a Free Information Infrastructure in the UK
- - [https://ffii.org.uk](https://ffii.org.uk)
- - date_published: 2024-05-11T07:48:08.323402+00:00
+ ## ORA - Oxford University Research Archive
+ - [http://ora.ouls.ox.ac.uk](http://ora.ouls.ox.ac.uk)
+ - date_published: 2024-06-22T14:01:05.541923+00:00
 
- ## Foundation for a Free Information Infrastructure in the UK
- - [http://protectinnovation.ffii.org.uk](http://protectinnovation.ffii.org.uk)
- - date_published: 2024-07-13T16:32:46.724183+00:00
+ ## ORA - Oxford University Research Archive
+ - [https://ora.ox.ac.uk](https://ora.ox.ac.uk)
+ - date_published: 2024-05-08T09:46:31.226845+00:00
 
- ## Redirect
- - [https://fiawol.org.uk](https://fiawol.org.uk)
- - date_published: 2023-06-14T11:33:48+00:00
+ ## Oxford Robotics Institute, University of Oxford, website
+ - [https://ori.ox.ac.uk](https://ori.ox.ac.uk)
+ - date_published: 2024-02-22T00:00:00+00:00
 
- ## Film Archives UK
- - [http://www.filmarchives.org.uk](http://www.filmarchives.org.uk)
- - date_published: 2024-08-08T19:34:41.849725+00:00
+ ## Oxford Thermofluids Institute | Home Page
+ - [http://oti.eng.ox.ac.uk](http://oti.eng.ox.ac.uk)
+ - date_published: 2024-06-17T18:59:56.667849+00:00
 
- ## Film Hub North
- - [https://filmhubnorth.org.uk](https://filmhubnorth.org.uk)
- - date_published: 2024-06-29T23:26:56.605206+00:00
+ ## Home - OUBEP - Business Economics Programme
+ - [https://oubep.econ.ox.ac.uk](https://oubep.econ.ox.ac.uk)
+ - date_published: 2024-03-15T00:00:00+00:00
 
- ## Financial Ombudsman Service: our homepage
- - [https://financial-ombudsman.org.uk](https://financial-ombudsman.org.uk)
- - date_published: 2024-06-12T00:00:00+00:00
+ ## Museum of Natural History homepage
+ - [https://oumnh.ox.ac.uk](https://oumnh.ox.ac.uk)
+ - date_published: 2024-06-17T15:59:18+00:00
 
- ## Welcome to the Portable Antiquities Scheme Website
- - [https://finds.org.uk](https://finds.org.uk)
- - date_published: 2024-05-10T00:00:00+00:00
+ ## Museum of Natural History homepage
+ - [https://oumnh.web.ox.ac.uk](https://oumnh.web.ox.ac.uk)
+ - date_published: 2024-06-17T16:35:46+00:00
 
- ## PAS Forum
- - [https://forum.finds.org.uk](https://forum.finds.org.uk)
- - date_published: 2024-06-24T10:15:06.047296+00:00
+ ## University of Oxford
+ - [https://ox.ac.uk](https://ox.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
 
- ## Home - First Hand
- - [https://first-hand.org.uk](https://first-hand.org.uk)
- - date_published: 2024-10-20T09:06:28.262947+00:00
+ ## Oxford Man Institute of Quantitative Finance - Oxford Man Institute of Quantitative Finance
+ - [https://oxford-man.ox.ac.uk](https://oxford-man.ox.ac.uk)
+ - date_published: 2024-06-17T19:01:32.636551+00:00
+
+ ## Welcome to Mosaic
+ - [http://oxfordmosaic.web.ox.ac.uk](http://oxfordmosaic.web.ox.ac.uk)
+ - date_published: 2024-06-13T09:12:06+00:00
 
  ## Home
- - [https://www.fla.org.uk](https://www.fla.org.uk)
- - date_published: 2024-07-12T22:27:37.768785+00:00
+ - [http://oxrep.classics.ox.ac.uk](http://oxrep.classics.ox.ac.uk)
+ - date_published: 2024-10-29T18:15:07.664948+00:00
 
- ## James Smith
- - [https://floppy.org.uk](https://floppy.org.uk)
- - date_published: 2024-01-22T00:00:00+00:00
+ ## SSO Login Service - Loading Session Information
+ - [https://oxris.ox.ac.uk](https://oxris.ox.ac.uk)
+ - date_published: 2024-06-17T18:59:02.777204+00:00
 
- ## Flying Pig's Home Server
- - [https://www.flypig.org.uk](https://www.flypig.org.uk)
- - date_published: 2024-05-10T06:33:16.463132+00:00
-
- ## FORS Homepage - FORS - Fleet Operator Recognition Scheme
- - [https://www.fors-online.org.uk](https://www.fors-online.org.uk)
- - date_published: 2025-02-01T13:16:02.184306+00:00
-
- ## Homepage - Foundling Museum
- - [http://foundlingmuseum.org.uk](http://foundlingmuseum.org.uk)
- - date_published: 2024-10-29T18:29:52.995550+00:00
-
- ## Foxglove
- - [https://www.foxglove.org.uk](https://www.foxglove.org.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Frack Free Lancashire
- - [http://frackfreelancashire.org.uk](http://frackfreelancashire.org.uk)
- - date_published: 2024-10-21T13:41:39.192455+00:00
-
- ## frackfreenotts.org.uk
- - [http://frackfreenotts.org.uk](http://frackfreenotts.org.uk)
- - date_published: 2024-10-21T13:41:28.432566+00:00
-
- ## FRACK OFF
- - [http://frack-off.org.uk](http://frack-off.org.uk)
- - date_published: 2024-10-21T13:41:25.162599+00:00
-
- ## Home | Fred Stone Foundation | Children's Charity | Brighton and Hove
- - [https://www.fredstonefoundation.org.uk](https://www.fredstonefoundation.org.uk)
- - date_published: 2024-11-14T09:44:38.346659+00:00
-
- ## NeoPolitics
- - [http://www.freedomcentral.org.uk](http://www.freedomcentral.org.uk)
- - date_published: 2024-10-21T15:36:09.974810+00:00
-
- ## Welcome to Opioid, USA
- - [https://www.freedommag.org.uk](https://www.freedommag.org.uk)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Freedom News -
- - [https://freedomnews.org.uk](https://freedomnews.org.uk)
- - date_published: 2023-10-25T22:57:05.266267+00:00
- - tags: ['news', 'anarchist']
-
- ## Anarchist Bookshop - Freedom Press
- - [https://freedompress.org.uk](https://freedompress.org.uk)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Free Movement: immigration law news, analysis and training
- - [https://freemovement.org.uk](https://freemovement.org.uk)
- - date_published: 2016-09-28T09:45:34+00:00
-
- ## Free Speech on Israel
- - [https://freespeechonisrael.org.uk](https://freespeechonisrael.org.uk)
- - date_published: 2024-10-21T12:50:09.683716+00:00
-
- ## Freud Museum London - The Home of Sigmund Freud
- - [http://www.freud.org.uk](http://www.freud.org.uk)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## fridgemagnet.org.uk
- - [http://www.fridgemagnet.org.uk](http://www.fridgemagnet.org.uk)
- - date_published: 2010-04-23T13:52:00+00:00
+ ## People | Mathematical Institute
+ - [https://people.maths.ox.ac.uk](https://people.maths.ox.ac.uk)
+ - date_published: 2024-05-07T15:58:08.178575+00:00
 
  ## Home
- - [https://friendsofmoorfields.org.uk](https://friendsofmoorfields.org.uk)
- - date_published: 2024-04-10T00:00:00+00:00
+ - [https://philosophy.web.ox.ac.uk](https://philosophy.web.ox.ac.uk)
+ - date_published: 2024-06-13T14:44:00+00:00
 
- ## Friends of the Nations' Libraries | Home
- - [http://www.friendsofnationallibraries.org.uk](http://www.friendsofnationallibraries.org.uk)
- - date_published: 2024-10-20T06:55:08.140011+00:00
+ ## Home
+ - [http://pod.admin.ox.ac.uk](http://pod.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:44:44+00:00
 
- ## Home - Friends of the Whitworth
- - [https://www.friendsofthewhitworth.org.uk](https://www.friendsofthewhitworth.org.uk)
- - date_published: 2024-07-13T12:37:49.561493+00:00
+ ## Homepage | University of Oxford Podcasts
+ - [https://podcasts.ox.ac.uk](https://podcasts.ox.ac.uk)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Homepage | DPIR
+ - [https://politics.ox.ac.uk](https://politics.ox.ac.uk)
+ - date_published: 2024-05-07T14:14:16.639825+00:00
+
+ ## University of Oxford research repository - Browse
+ - [https://portal.sds.ox.ac.uk](https://portal.sds.ox.ac.uk)
+ - date_published: 2024-09-19T20:19:44.530016+00:00
+
+ ## Home
+ - [https://prm.web.ox.ac.uk](https://prm.web.ox.ac.uk)
+ - date_published: 2024-06-17T09:31:24+00:00
+
+ ## Home
+ - [https://projects.it.ox.ac.uk](https://projects.it.ox.ac.uk)
+ - date_published: 2024-10-20T05:39:19.342938+00:00
+
+ ## Michaelmas Term 2024 - Lecture Lists - Classics - Roombooker
+ - [http://rbll.classics.ox.ac.uk](http://rbll.classics.ox.ac.uk)
+ - date_published: 2024-06-17T18:23:41.195848+00:00
+
+ ## Homepage — Radcliffe Department of Medicine
+ - [https://rdm.medsci.ox.ac.uk](https://rdm.medsci.ox.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Welcome to the Research Data Oxford website
+ - [https://researchdata.ox.ac.uk](https://researchdata.ox.ac.uk)
+ - date_published: 2024-09-15T19:12:16+00:00
+
+ ## Home
+ - [https://researchsupport.admin.ox.ac.uk](https://researchsupport.admin.ox.ac.uk)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home
+ - [https://resources.orinst.ox.ac.uk](https://resources.orinst.ox.ac.uk)
+ - date_published: 2024-06-17T05:20:57+00:00
+
+ ## Welcome to Reuben College
+ - [https://reuben.ox.ac.uk](https://reuben.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:28.169089+00:00
+
+ ## Reuters Institute for the Study of Journalism | Reuters Institute for the Study of Journalism
+ - [https://reutersinstitute.politics.ox.ac.uk](https://reutersinstitute.politics.ox.ac.uk)
+ - date_published: 2024-06-14T19:02:47+00:00
+
+ ## Information Engineering Main/Home Page
+ - [https://robots.ox.ac.uk](https://robots.ox.ac.uk)
+ - date_published: 2024-08-07T16:51:37.277518+00:00
+
+ ## Home
+ - [https://royce.materials.ox.ac.uk](https://royce.materials.ox.ac.uk)
+ - date_published: 2024-06-16T22:34:17+00:00
+
+ ## Home
+ - [https://safety.admin.ox.ac.uk](https://safety.admin.ox.ac.uk)
+ - date_published: 2024-06-11T15:15:48+00:00
+
+ ## Home
+ - [https://safety.web.ox.ac.uk](https://safety.web.ox.ac.uk)
+ - date_published: 2024-10-20T07:08:52.228863+00:00
+
+ ## [bnc] British National Corpus
+ - [http://sara.natcorp.ox.ac.uk](http://sara.natcorp.ox.ac.uk)
+ - date_published: 2024-07-02T05:48:52.107339+00:00
+
+ ## Leadership | Saïd Business School
+ - [https://sbs.ox.ac.uk](https://sbs.ox.ac.uk)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Home
+ - [https://schwarzmancentre.humanities.ox.ac.uk](https://schwarzmancentre.humanities.ox.ac.uk)
+ - date_published: 2024-06-14T00:46:03+00:00
+
+ ## Hertford Sites & Blogs
+ - [https://sites.hertford.ox.ac.uk](https://sites.hertford.ox.ac.uk)
+ - date_published: 2024-06-17T18:22:42.237773+00:00
+
+ ## Welcome to the Social Sciences Division
+ - [https://socsci.web.ox.ac.uk](https://socsci.web.ox.ac.uk)
+ - date_published: 2024-06-10T18:50:56+00:00
+
+ ## Homepage
+ - [https://staff.admin.ox.ac.uk](https://staff.admin.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:10.944019+00:00
+
+ ## Homepage
+ - [https://staff.web.ox.ac.uk](https://staff.web.ox.ac.uk)
+ - date_published: 2024-10-20T06:56:17.454564+00:00
+
+ ## Service Status Administration
+ - [https://status.it.ox.ac.uk](https://status.it.ox.ac.uk)
+ - date_published: 2024-10-20T05:39:17.560976+00:00
+
+ ## Service Status Administration
+ - [http://status.ox.ac.uk](http://status.ox.ac.uk)
+ - date_published: 2024-10-20T05:32:38.480405+00:00
+
+ ## Exceptional Learning For Everyone - St Hugh's College
+ - [https://st-hughs.ox.ac.uk](https://st-hughs.ox.ac.uk)
+ - date_published: 2024-10-20T06:13:34.374554+00:00
+
+ ## Home
+ - [https://stx.web.ox.ac.uk](https://stx.web.ox.ac.uk)
+ - date_published: 2024-06-17T14:07:54+00:00
+
+ ## Home
+ - [https://sustainability.admin.ox.ac.uk](https://sustainability.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:38:09+00:00
+
+ ## Welcome to SYSOS - SYSOS
+ - [https://sysos.eng.ox.ac.uk](https://sysos.eng.ox.ac.uk)
+ - date_published: 2023-10-15T10:03:53+00:00
+
+ ## Welcome
+ - [https://taiwanstudies.web.ox.ac.uk](https://taiwanstudies.web.ox.ac.uk)
+ - date_published: 2024-06-16T00:44:37+00:00
+
+ ## Home
+ - [https://talbot.bodleian.ox.ac.uk](https://talbot.bodleian.ox.ac.uk)
+ - date_published: 2015-04-22T15:00:37+00:00
+
+ ## Events - Oxford Talks
+ - [https://talks.ox.ac.uk](https://talks.ox.ac.uk)
+ - date_published: 2024-05-02T10:58:43.335582+00:00
+
+ ## Home
+ - [https://tolkien50.web.ox.ac.uk](https://tolkien50.web.ox.ac.uk)
+ - date_published: 2024-09-03T17:40:49+00:00
+
+ ## Sign in to your account
+ - [https://tools.ndm.ox.ac.uk](https://tools.ndm.ox.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Topographical Bibliography
+ - [http://topbib.griffith.ox.ac.uk](http://topbib.griffith.ox.ac.uk)
+ - date_published: 2024-10-20T06:55:20.876663+00:00
+
+ ## Home
+ - [https://torch.ox.ac.uk](https://torch.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:07.340330+00:00
+
+ ## Home
+ - [https://torch.web.ox.ac.uk](https://torch.web.ox.ac.uk)
+ - date_published: 2024-06-17T16:31:11+00:00
+
+ ## Transpiration Cooling Systems
+ - [https://transpirationcooling.eng.ox.ac.uk](https://transpirationcooling.eng.ox.ac.uk)
+ - date_published: 2024-06-17T19:00:04.089909+00:00
+
+ ## Home
+ - [https://travel.admin.ox.ac.uk](https://travel.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:44:45+00:00
+
+ ## Home - OXPOP TV
+ - [https://tv.ndph.ox.ac.uk](https://tv.ndph.ox.ac.uk)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Home
+ - [https://universityclub.ox.ac.uk](https://universityclub.ox.ac.uk)
+ - date_published: 2024-06-16T01:06:21+00:00
+
+ ## How to use the personal web pages service
+ - [http://users.ox.ac.uk](http://users.ox.ac.uk)
+ - date_published: 2024-06-20T19:56:19+00:00
+
+ ## Vindolanda Tablets Online  |  Welcome
+ - [http://vindolanda.csad.ox.ac.uk](http://vindolanda.csad.ox.ac.uk)
+ - date_published: 2024-06-24T10:18:04.295580+00:00
+
+ ## Home
+ - [https://visit.bodleian.ox.ac.uk](https://visit.bodleian.ox.ac.uk)
+ - date_published: 2024-06-17T08:00:34+00:00
+
+ ## Oxford Single Sign-On - Manage your Oxford Single Sign-On account
+ - [https://webauth.ox.ac.uk](https://webauth.ox.ac.uk)
+ - date_published: 2023-05-02T13:39:39+00:00
+
+ ## Department of Computer Science, University of Oxford
+ - [http://web.comlab.ox.ac.uk](http://web.comlab.ox.ac.uk)
+ - date_published: 2024-07-07T10:13:41.534304+00:00
+
+ ## WebLearn
+ - [https://weblearn.ox.ac.uk](https://weblearn.ox.ac.uk)
+ - date_published: 2024-06-17T18:23:46.136689+00:00
+
+ ## IIS Windows Server
+ - [http://web.path.ox.ac.uk](http://web.path.ox.ac.uk)
+ - date_published: 2018-07-10T13:46:47+00:00
+
+ ## Hunga Munga (1922.57.1)
+ - [http://web.prm.ox.ac.uk](http://web.prm.ox.ac.uk)
+ - date_published: 2025-02-01T19:47:03.198149+00:00
+
+ ## SSO Login Service - Loading Session Information
+ - [https://webstats.phon.ox.ac.uk](https://webstats.phon.ox.ac.uk)
+ - date_published: 2024-06-17T18:56:56.886595+00:00
+
+ ## Home
+ - [https://welcome.ox.ac.uk](https://welcome.ox.ac.uk)
+ - date_published: 2024-06-13T19:41:15+00:00
+
+ ## Wellbeing Research Centre
+ - [https://wellbeing.hmc.ox.ac.uk](https://wellbeing.hmc.ox.ac.uk)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## BDLSS Blog | Bodleian Digital Library
+ - [http://wordpress-prd.bodleian.ox.ac.uk](http://wordpress-prd.bodleian.ox.ac.uk)
+ - date_published: 2024-10-20T05:35:48.492482+00:00
+
+ ## Oxford World War I Centenary Programme
+ - [https://ww1centenary.bodleian.ox.ac.uk](https://ww1centenary.bodleian.ox.ac.uk)
+ - date_published: 2024-05-02T10:57:35.978499+00:00
+
+ ## Department of Physics - Oxford University
+ - [https://www2.physics.ox.ac.uk](https://www2.physics.ox.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home
+ - [https://www.accessguide.ox.ac.uk](https://www.accessguide.ox.ac.uk)
+ - date_published: 2024-06-13T19:34:32+00:00
+
+ ## Home
+ - [https://www.africanstudies.ox.ac.uk](https://www.africanstudies.ox.ac.uk)
+ - date_published: 2024-06-13T14:38:01+00:00
+
+ ## The Agile Initiative
+ - [https://www.agile-initiative.ox.ac.uk](https://www.agile-initiative.ox.ac.uk)
+ - date_published: 2024-06-17T18:36:50.899091+00:00
+
+ ## Home page - Alumni Oriel
+ - [https://www.alumni.oriel.ox.ac.uk](https://www.alumni.oriel.ox.ac.uk)
+ - date_published: 2024-06-17T18:32:10.453670+00:00
+
+ ## This page has moved - University of Oxford
+ - [https://www.alumniweb.ox.ac.uk](https://www.alumniweb.ox.ac.uk)
+ - date_published: 2024-06-17T18:23:57.238139+00:00
+
+ ## Home
+ - [https://www.ames.ox.ac.uk](https://www.ames.ox.ac.uk)
+ - date_published: 2024-06-13T14:47:43+00:00
+
+ ## Home
+ - [https://www.anthro.ox.ac.uk](https://www.anthro.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:43.116981+00:00
+
+ ## Welcome | APGRD
+ - [http://www.apgrd.ox.ac.uk](http://www.apgrd.ox.ac.uk)
+ - date_published: 2024-06-24T10:22:15.780758+00:00
+
+ ## Home
+ - [https://www.apprenticeships.ox.ac.uk](https://www.apprenticeships.ox.ac.uk)
+ - date_published: 2024-06-13T19:37:30+00:00
+
+ ## Home
+ - [https://www.arch.ox.ac.uk](https://www.arch.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:55.633850+00:00
+
+ ## Home
+ - [https://www.area-studies.ox.ac.uk](https://www.area-studies.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:47.560865+00:00
+
+ ## Homepage | All Souls College
+ - [https://www.asc.ox.ac.uk](https://www.asc.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:35.212860+00:00
+
+ ## Astrophysics
+ - [http://www-astro.physics.ox.ac.uk](http://www-astro.physics.ox.ac.uk)
+ - date_published: 2025-01-01T00:28:18+00:00
+
+ ## Home
+ - [http://www.bate.ox.ac.uk](http://www.bate.ox.ac.uk)
+ - date_published: 2024-06-17T14:46:08+00:00
+
+ ## Begbroke Science Park | University of Oxford
+ - [https://www.begbroke.ox.ac.uk](https://www.begbroke.ox.ac.uk)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.bfriars.ox.ac.uk](https://www.bfriars.ox.ac.uk)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Home
+ - [https://www.bioch.ox.ac.uk](https://www.bioch.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:16.864555+00:00
+
+ ## Home
+ - [https://www.biology.ox.ac.uk](https://www.biology.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:46.820816+00:00
 
  ## Attention Required! | Cloudflare
- - [https://fsb.org.uk](https://fsb.org.uk)
- - date_published: 2024-05-18T02:44:31.913384+00:00
+ - [https://www.bnc.ox.ac.uk](https://www.bnc.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:24.905551+00:00
+
+ ## Home
+ - [https://www.bodleian.ox.ac.uk](https://www.bodleian.ox.ac.uk)
+ - date_published: 2024-05-02T10:57:26.247465+00:00
+
+ ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+ - [http://www.bodley.ox.ac.uk](http://www.bodley.ox.ac.uk)
+ - date_published: 2023-04-28T16:52:29+00:00
+
+ ## Home
+ - [https://www.botanic-garden.ox.ac.uk](https://www.botanic-garden.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:50.980481+00:00
+
+ ## Fundraising at the University of Oxford
+ - [https://www.campaign.ox.ac.uk](https://www.campaign.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:59.894757+00:00
+
+ ## Homepage | campion-hall
+ - [https://www.campion.ox.ac.uk](https://www.campion.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:41.214134+00:00
+
+ ## Home
+ - [https://www.careers.ox.ac.uk](https://www.careers.ox.ac.uk)
+ - date_published: 2024-07-05T12:22:40+00:00
+
+ ## Home | Corpus Christi College Oxford
+ - [https://www.ccc.ox.ac.uk](https://www.ccc.ox.ac.uk)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home
+ - [https://www.ccsp.ox.ac.uk](https://www.ccsp.ox.ac.uk)
+ - date_published: 2024-06-13T19:34:32+00:00
+
+ ## The Changing Character of War Centre
+ - [http://www.ccw.ox.ac.uk](http://www.ccw.ox.ac.uk)
+ - date_published: 2024-06-17T18:33:24.306455+00:00
+
+ ## Home — Centre for Evidence-Based Medicine (CEBM), University of Oxford
+ - [https://www.cebm.ox.ac.uk](https://www.cebm.ox.ac.uk)
+ - date_published: 2023-10-25T22:49:23.492759+00:00
+
+ ## Home page - Centre for the Study of the Bible
+ - [https://www.centreforbible.oriel.ox.ac.uk](https://www.centreforbible.oriel.ox.ac.uk)
+ - date_published: 2024-06-17T18:31:57.675428+00:00
+
+ ## Homepage | Christ Church, University of Oxford
+ - [https://www.chch.ox.ac.uk](https://www.chch.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:13.885692+00:00
+
+ ## Home
+ - [https://www.chem.ox.ac.uk](https://www.chem.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:54.679574+00:00
+
+ ## Home
+ - [https://www.chinacentre.ox.ac.uk](https://www.chinacentre.ox.ac.uk)
+ - date_published: 2024-06-17T18:37:05+00:00
+
+ ## Home
+ - [https://www.classics.ox.ac.uk](https://www.classics.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:22.422079+00:00
+
+ ## Home
+ - [http://www.club.ox.ac.uk](http://www.club.ox.ac.uk)
+ - date_published: 2024-06-12T14:01:59+00:00
+
+ ## Home
+ - [https://www.communityhistory.ox.ac.uk](https://www.communityhistory.ox.ac.uk)
+ - date_published: 2024-06-17T11:39:23+00:00
+
+ ## Home | COMPAS
+ - [http://www.compas.ox.ac.uk](http://www.compas.ox.ac.uk)
+ - date_published: 2024-06-17T11:09:35.643228+00:00
+
+ ## Welcome to the Conference of Colleges, in the University of Oxford
+ - [https://www.confcoll.ox.ac.uk](https://www.confcoll.ox.ac.uk)
+ - date_published: 2024-02-22T15:02:49+00:00
+
+ ## Home
+ - [http://www.csad.ox.ac.uk](http://www.csad.ox.ac.uk)
+ - date_published: 2024-06-24T00:02:08+00:00
+
+ ## Home
+ - [https://www.csae.ox.ac.uk](https://www.csae.ox.ac.uk)
+ - date_published: 2024-06-12T08:25:54+00:00
+
+ ## Department of Computer Science, University of Oxford
+ - [https://www.cs.ox.ac.uk](https://www.cs.ox.ac.uk)
+ - date_published: 2023-10-25T11:20:51.683475+00:00
+
+ ## Home
+ - [https://www.cssc.ox.ac.uk](https://www.cssc.ox.ac.uk)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Homepage | Leverhulme Centre For Demographic Science, Oxford
+ - [https://www.demography.ox.ac.uk](https://www.demography.ox.ac.uk)
+ - date_published: 2024-09-16T06:37:31.119816+00:00
+
+ ## Fundraising at the University of Oxford
+ - [https://www.development.ox.ac.uk](https://www.development.ox.ac.uk)
+ - date_published: 2024-06-17T18:21:30.614949+00:00
+
+ ## Home — Department of Physiology, Anatomy and Genetics (DPAG)
+ - [https://www.dpag.ox.ac.uk](https://www.dpag.ox.ac.uk)
+ - date_published: 2023-10-31T19:57:19.175495+00:00
+
+ ## Home
+ - [https://www.dtc.ox.ac.uk](https://www.dtc.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:05.262563+00:00
+
+ ## Diabetes Trials Unit : Home page
+ - [http://www.dtu.ox.ac.uk](http://www.dtu.ox.ac.uk)
+ - date_published: 2024-06-17T18:34:14.543284+00:00
+
+ ## Department of Earth Sciences
+ - [https://www.earth.ox.ac.uk](https://www.earth.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:08.794897+00:00
+
+ ## Home | Environmental Change Institute
+ - [https://www.eci.ox.ac.uk](https://www.eci.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:15.187262+00:00
+
+ ## Home
+ - [https://www.economics.ox.ac.uk](https://www.economics.ox.ac.uk)
+ - date_published: 2024-05-02T11:00:02.558370+00:00
+
+ ## Department of Education
+ - [https://www.education.ox.ac.uk](https://www.education.ox.ac.uk)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home - Oxford Institute for Ethics, Law and Armed Conflict
+ - [https://www.elac.ox.ac.uk](https://www.elac.ox.ac.uk)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Home
+ - [http://www-em.materials.ox.ac.uk](http://www-em.materials.ox.ac.uk)
+ - date_published: 2024-06-10T19:58:46+00:00
+
+ ## Welcome
+ - [https://www.english.ox.ac.uk](https://www.english.ox.ac.uk)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Homepage - Exeter College
+ - [https://www.exeter.ox.ac.uk](https://www.exeter.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:29.130989+00:00
+
+ ## Future of Humanity Institute
+ - [https://www.fhi.ox.ac.uk](https://www.fhi.ox.ac.uk)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Home
+ - [https://www.firstwomenatoxford.ox.ac.uk](https://www.firstwomenatoxford.ox.ac.uk)
+ - date_published: 2024-06-10T19:24:20+00:00
+
+ ## Home | School of Geography and the Environment
+ - [https://www.geog.ox.ac.uk](https://www.geog.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:32.724021+00:00
+
+ ## Home
+ - [https://www.glam.ox.ac.uk](https://www.glam.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:07.988537+00:00
+
+ ## The Griffith Institute - At the heart of Egyptology at the University of
+			Oxford
+ - [http://www.griffith.ox.ac.uk](http://www.griffith.ox.ac.uk)
+ - date_published: 2023-12-12T13:49:02+00:00
+
+ ## Home Page - Green Templeton College
+ - [https://www.gtc.ox.ac.uk](https://www.gtc.ox.ac.uk)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Homepage - Hertford College | University of Oxford
+ - [https://www.hertford.ox.ac.uk](https://www.hertford.ox.ac.uk)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home
+ - [https://www.history.ox.ac.uk](https://www.history.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:18.763053+00:00
+
+ ## Home
+ - [https://www.hmc.ox.ac.uk](https://www.hmc.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:44.194548+00:00
+
+ ## Welcome
+ - [https://www.hoa.ox.ac.uk](https://www.hoa.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:29.560103+00:00
+
+ ## Home
+ - [https://www.humanities.ox.ac.uk](https://www.humanities.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:44.753823+00:00
+
+ ## Home
+ - [http://www.ihs.ox.ac.uk](http://www.ihs.ox.ac.uk)
+ - date_published: 2024-06-13T19:32:20+00:00
+
+ ## Unique Modern and Vintage Style Stock Illustrations for Licensing.
+ - [https://www.images.ox.ac.uk](https://www.images.ox.ac.uk)
+ - date_published: 2024-06-17T18:55:47.043294+00:00
+
+ ## Home — MRC Weatherall Institute of Molecular Medicine
+ - [http://www.imm.ox.ac.uk](http://www.imm.ox.ac.uk)
+ - date_published: 2024-06-17T18:34:16.739730+00:00
+
+ ## The Institute for New Economic Thinking | University of Oxford
+ - [https://www.inet.ox.ac.uk](https://www.inet.ox.ac.uk)
+ - date_published: 2024-08-17T22:14:59.905353+00:00
+
+ ## Home
+ - [https://www.infosec.ox.ac.uk](https://www.infosec.ox.ac.uk)
+ - date_published: 2024-06-13T19:36:13+00:00
+
+ ## Home
+ - [https://www.insis.ox.ac.uk](https://www.insis.ox.ac.uk)
+ - date_published: 2024-06-13T19:33:02+00:00
+
+ ## Home
+ - [https://www.isca.ox.ac.uk](https://www.isca.ox.ac.uk)
+ - date_published: 2024-06-13T19:35:01+00:00
+
+ ## Japanese Studies at Oxford
+ - [https://www.japanese.ox.ac.uk](https://www.japanese.ox.ac.uk)
+ - date_published: 2024-10-20T07:04:35.589667+00:00
+
+ ## Home page - Jesus College Welcome to Jesus College Oxford
+ - [https://www.jesus.ox.ac.uk](https://www.jesus.ox.ac.uk)
+ - date_published: 2023-11-28T00:00:00+00:00
+
+ ## Home - Keble College
+ - [https://www.keble.ox.ac.uk](https://www.keble.ox.ac.uk)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Home - Kellogg College
+ - [https://www.kellogg.ox.ac.uk](https://www.kellogg.ox.ac.uk)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Home
+ - [https://www.lac.ox.ac.uk](https://www.lac.ox.ac.uk)
+ - date_published: 2024-06-13T19:35:25+00:00
+
+ ## Home
+ - [http://www.lang.ox.ac.uk](http://www.lang.ox.ac.uk)
+ - date_published: 2024-06-13T11:09:17+00:00
+
+ ## Homepage | Faculty of Law
+ - [https://www.law.ox.ac.uk](https://www.law.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:11.756554+00:00
+
+ ## Home - Linacre College
+ - [https://www.linacre.ox.ac.uk](https://www.linacre.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:30.607977+00:00
+
+ ## Faculty of Linguistics, Philology and Phonetics | University of Oxford
+ - [https://www.ling-phil.ox.ac.uk](https://www.ling-phil.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:12.716345+00:00
+
+ ## Homepage | Lady Margaret Hall
+ - [https://www.lmh.ox.ac.uk](https://www.lmh.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:21.673699+00:00
+
+ ## - Magdalen College
+ - [https://www.magd.ox.ac.uk](https://www.magd.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:23.948161+00:00
+
+ ## Mansfield College
+ - [https://www.mansfield.ox.ac.uk](https://www.mansfield.ox.ac.uk)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Home
+ - [https://www.materials.ox.ac.uk](https://www.materials.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:56.451744+00:00
+
+ ## Mathematical Institute | Mathematical Institute
+ - [https://www.maths.ox.ac.uk](https://www.maths.ox.ac.uk)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Medical Sciences Division — University of Oxford, Medical Sciences Division
+ - [https://www.medsci.ox.ac.uk](https://www.medsci.ox.ac.uk)
+ - date_published: 2024-05-02T10:58:47.294241+00:00
+
+ ## Homepage | Oxford Colleges | Merton College - Oxford
+ - [https://www.merton.ox.ac.uk](https://www.merton.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:51.390541+00:00
+
+ ## Home
+ - [https://www.mes.ox.ac.uk](https://www.mes.ox.ac.uk)
+ - date_published: 2024-06-13T19:33:12+00:00
+
+ ## Home
+ - [http://www.mhs.ox.ac.uk](http://www.mhs.ox.ac.uk)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Homepage — Mathematical, Physical and Life Sciences Division
+ - [https://www.mpls.ox.ac.uk](https://www.mpls.ox.ac.uk)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## MRC BNDU Home | mrcbndu
+ - [https://www.mrcbndu.ox.ac.uk](https://www.mrcbndu.ox.ac.uk)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Home
+ - [https://www.music.ox.ac.uk](https://www.music.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:33.607581+00:00
+
+ ## [bnc] British National Corpus
+ - [http://www.natcorp.ox.ac.uk](http://www.natcorp.ox.ac.uk)
+ - date_published: 2024-07-02T05:50:13.834827+00:00
+
+ ## Leverhulme Centre for Nature Recovery
+ - [https://www.naturerecovery.ox.ac.uk](https://www.naturerecovery.ox.ac.uk)
+ - date_published: 2024-07-15T09:12:54.965105+00:00
+
+ ## Homepage — Nuffield Department of Clinical Neurosciences
+ - [https://www.ndcn.ox.ac.uk](https://www.ndcn.ox.ac.uk)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Home — Nuffield Department of Medicine
+ - [https://www.ndm.ox.ac.uk](https://www.ndm.ox.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## NDORMS Home — Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences
+ - [https://www.ndorms.ox.ac.uk](https://www.ndorms.ox.ac.uk)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Homepage — Nuffield Department of Population Health
+ - [https://www.ndph.ox.ac.uk](https://www.ndph.ox.ac.uk)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Homepage — Nuffield Department of Surgical Sciences
+ - [https://www.nds.ox.ac.uk](https://www.nds.ox.ac.uk)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Homepage | New College
+ - [https://www.new.ox.ac.uk](https://www.new.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:00.731997+00:00
+
+ ## Home
+ - [https://www.nissan.ox.ac.uk](https://www.nissan.ox.ac.uk)
+ - date_published: 2024-06-13T19:31:35+00:00
+
+ ## Nuffield College, Oxford University
+ - [https://www.nuffield.ox.ac.uk](https://www.nuffield.ox.ac.uk)
+ - date_published: 2024-05-01T02:25:57.707144+00:00
+
+ ## Home
+ - [https://www.obga.ox.ac.uk](https://www.obga.ox.ac.uk)
+ - date_published: 2024-06-13T19:46:39+00:00
+
+ ## Homepage — Nuffield Department of Women's & Reproductive Health
+ - [http://www.obs-gyn.ox.ac.uk](http://www.obs-gyn.ox.ac.uk)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## OII | Homepage
+ - [https://www.oii.ox.ac.uk](https://www.oii.ox.ac.uk)
+ - date_published: 2023-11-21T16:29:45.007881+00:00
+
+ ## HOME
+ - [https://www-omcs.materials.ox.ac.uk](https://www-omcs.materials.ox.ac.uk)
+ - date_published: 2024-06-13T19:27:31+00:00
+
+ ## Welcome — Department of Oncology
+ - [https://www.oncology.ox.ac.uk](https://www.oncology.ox.ac.uk)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Home
+ - [https://www.ongc.ox.ac.uk](https://www.ongc.ox.ac.uk)
+ - date_published: 2024-06-13T21:04:13+00:00
+
+ ## Home
+ - [https://www.oqc.ox.ac.uk](https://www.oqc.ox.ac.uk)
+ - date_published: 2024-06-25T17:19:19+00:00
+
+ ## Home Page - Oriel College
+ - [https://www.oriel.ox.ac.uk](https://www.oriel.ox.ac.uk)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home
+ - [https://www.orinst.ox.ac.uk](https://www.orinst.ox.ac.uk)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Museum of Natural History homepage
+ - [https://www.oum.ox.ac.uk](https://www.oum.ox.ac.uk)
+ - date_published: 2024-06-17T15:57:10+00:00
+
+ ## Home — Oxford Vaccine Group
+ - [https://www.ovg.ox.ac.uk](https://www.ovg.ox.ac.uk)
+ - date_published: 2024-10-20T06:26:42.097560+00:00
+
+ ## Oxford Martin School | University of Oxford
+ - [https://www.oxfordmartin.ox.ac.uk](https://www.oxfordmartin.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:06.259334+00:00
+
+ ## Home — Department of Paediatrics
+ - [https://www.paediatrics.ox.ac.uk](https://www.paediatrics.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:38.246991+00:00
+
+ ## Sir William Dunn School of Pathology
+ - [https://www.path.ox.ac.uk](https://www.path.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:26.346371+00:00
+
+ ## Homepage — Department of Pharmacology
+ - [https://www.pharm.ox.ac.uk](https://www.pharm.ox.ac.uk)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Nuffield Department of Primary Care Health Sciences, University of Oxford, 22 Dec  22 — Nuffield Department of Primary Care Health Sciences, University of Oxford
+ - [https://www.phc.ox.ac.uk](https://www.phc.ox.ac.uk)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home
+ - [https://www.philosophy.ox.ac.uk](https://www.philosophy.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:14.387873+00:00
+
+ ## Phonetics Laboratory Home
+ - [http://www.phon.ox.ac.uk](http://www.phon.ox.ac.uk)
+ - date_published: 2024-06-17T18:56:58.879697+00:00
+
+ ## Department of Physics - Oxford University
+ - [https://www.physics.ox.ac.uk](https://www.physics.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:16.146505+00:00
+
+ ## Pembroke College - University of Oxford
+ - [https://www.pmb.ox.ac.uk](https://www.pmb.ox.ac.uk)
+ - date_published: 2024-05-02T11:00:05.510271+00:00
+
+ ## Home
+ - [https://www.ppe.ox.ac.uk](https://www.ppe.ox.ac.uk)
+ - date_published: 2024-06-17T13:57:12+00:00
+
+ ## Home
+ - [https://www.practicalethics.ox.ac.uk](https://www.practicalethics.ox.ac.uk)
+ - date_published: 2024-06-26T11:04:38+00:00
+
+ ## Home
+ - [https://www.prm.ox.ac.uk](https://www.prm.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:03.570176+00:00
+
+ ## Welcome to the Proctors' Office
+ - [http://www.proctors.ox.ac.uk](http://www.proctors.ox.ac.uk)
+ - date_published: 2024-06-13T19:32:30+00:00
+
+ ## Home Page | statistics
+ - [https://www-prod.stats.ox.ac.uk](https://www-prod.stats.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:27.438862+00:00
+
+ ## Homepage — Department of Psychiatry
+ - [https://www.psych.ox.ac.uk](https://www.psych.ox.ac.uk)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Experimental Psychology — Department of Experimental Psychology
+ - [https://www.psy.ox.ac.uk](https://www.psy.ox.ac.uk)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Homepage | Oxford Department of International Development
+ - [https://www.qeh.ox.ac.uk](https://www.qeh.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:12.574808+00:00
+
+ ## The Queen's College - The Queen's College, Oxford
+ - [https://www.queens.ox.ac.uk](https://www.queens.ox.ac.uk)
+ - date_published: 2022-11-24T00:00:00+00:00
+
+ ## Quill Project
+ - [https://www.quill.pmb.ox.ac.uk](https://www.quill.pmb.ox.ac.uk)
+ - date_published: 2024-06-17T18:33:20.774171+00:00
+
+ ## Home
+ - [https://www.rai.ox.ac.uk](https://www.rai.ox.ac.uk)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Homepage — Radcliffe Department of Medicine
+ - [https://www.rdm.ox.ac.uk](https://www.rdm.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:19.249772+00:00
+
+ ## Home
+ - [https://www.rees.ox.ac.uk](https://www.rees.ox.ac.uk)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Research at Oxford
+ - [https://www.research.ox.ac.uk](https://www.research.ox.ac.uk)
+ - date_published: 2024-10-20T07:11:09.824893+00:00
+
+ ## Homepage - Regent's Park College
+ - [https://www.rpc.ox.ac.uk](https://www.rpc.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:38.288302+00:00
+
+ ## The Ruskin School of Art - Home Page
+ - [https://www.rsa.ox.ac.uk](https://www.rsa.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:34.065427+00:00
+
+ ## Home — Refugee Studies Centre
+ - [https://www.rsc.ox.ac.uk](https://www.rsc.ox.ac.uk)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## St Antonys - St Antony's
+ - [https://www.sant.ox.ac.uk](https://www.sant.ox.ac.uk)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## The Stephen A. Schwarzman Centre for the Humanities <!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KL55M4K"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+ - [https://www.schwarzmancentre.ox.ac.uk](https://www.schwarzmancentre.ox.ac.uk)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Sir Jules Thorn Sleep and Circadian Neuroscience Institute — SCNi
+ - [https://www.scni.ox.ac.uk](https://www.scni.ox.ac.uk)
+ - date_published: 2023-08-11T00:00:00+00:00
+
+ ## Welcome to the Sustainable Digital Scholarship (SDS) service
+ - [https://www.sds.ox.ac.uk](https://www.sds.ox.ac.uk)
+ - date_published: 2024-09-17T16:14:38+00:00
+
+ ## Home | St Edmund Hall
+ - [https://www.seh.ox.ac.uk](https://www.seh.ox.ac.uk)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## St John's College, Oxford
+ - [https://www.sjc.ox.ac.uk](https://www.sjc.ox.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Homepage | Smith School of Enterprise and the Environment
+ - [https://www.smithschool.ox.ac.uk](https://www.smithschool.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:14.282906+00:00
+
+ ## Home
+ - [https://www.sociology.ox.ac.uk](https://www.sociology.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:28.700589+00:00
+
+ ## Welcome to the Social Sciences Division
+ - [https://www.socsci.ox.ac.uk](https://www.socsci.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:31.594280+00:00
+
+ ## Somerville College Oxford
+ - [https://www.some.ox.ac.uk](https://www.some.ox.ac.uk)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Home
+ - [https://www.southasia.ox.ac.uk](https://www.southasia.ox.ac.uk)
+ - date_published: 2024-06-13T19:29:19+00:00
+
+ ## St Peter's College, University of Oxford | St Peter's College Oxford
+ - [https://www.spc.ox.ac.uk](https://www.spc.ox.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home
+ - [https://www.spi.ox.ac.uk](https://www.spi.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:36.431208+00:00
+
+ ## Home
+ - [https://www.sport.ox.ac.uk](https://www.sport.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:31.999270+00:00
+
+ ## St Anne's College, Oxford | Forward looking & Outward facing
+ - [https://www.st-annes.ox.ac.uk](https://www.st-annes.ox.ac.uk)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Home Page | statistics
+ - [https://www.stats.ox.ac.uk](https://www.stats.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:36.336227+00:00
+
+ ## Home - St Catherine's College
+ - [https://www.stcatz.ox.ac.uk](https://www.stcatz.ox.ac.uk)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Home | St Hilda's College Oxford
+ - [https://www.st-hildas.ox.ac.uk](https://www.st-hildas.ox.ac.uk)
+ - date_published: 2024-10-20T06:29:55.851947+00:00
+
+ ## Home
+ - [https://www.stx.ox.ac.uk](https://www.stx.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:00.736313+00:00
+
+ ## Home
+ - [https://www.theology.ox.ac.uk](https://www.theology.ox.ac.uk)
+ - date_published: 2024-05-02T10:58:56.989158+00:00
+
+ ## Trinity College | Trinity College Oxford
+ - [https://www.trinity.ox.ac.uk](https://www.trinity.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:58.860110+00:00
+
+ ## Home — Centre for Tropical Medicine and Global Health
+ - [https://www.tropicalmedicine.ox.ac.uk](https://www.tropicalmedicine.ox.ac.uk)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Vacancy Search Results - University Of Oxford (Temporary Staffing Service)
+ - [https://www.tss.ox.ac.uk](https://www.tss.ox.ac.uk)
+ - date_published: 2024-06-17T18:46:23.857407+00:00
+
+ ## University College Oxford
+ - [https://www.univ.ox.ac.uk](https://www.univ.ox.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## OUEV | Oxford University Event Venues
+ - [https://www.venues.ox.ac.uk](https://www.venues.ox.ac.uk)
+ - date_published: 2024-10-20T07:11:00.974583+00:00
+
+ ## Voltaire Foundation
+ - [https://www.voltaire.ox.ac.uk](https://www.voltaire.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:10.627397+00:00
+
+ ## Wadham College
+ - [https://www.wadham.ox.ac.uk](https://www.wadham.ox.ac.uk)
+ - date_published: 2024-05-02T11:00:00.546417+00:00
+
+ ## Home — Centre for Human Genetics
+ - [http://www.well.ox.ac.uk](http://www.well.ox.ac.uk)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Homepage — Wellcome Centre for Integrative Neuroimaging
+ - [https://www.win.ox.ac.uk](https://www.win.ox.ac.uk)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Homepage | Wolfson College - Oxford
+ - [https://www.wolfson.ox.ac.uk](https://www.wolfson.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:54.635712+00:00
+
+ ## Worcester College
+ - [https://www.worc.ox.ac.uk](https://www.worc.ox.ac.uk)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Homepage — Nuffield Department of Women's & Reproductive Health
+ - [https://www.wrh.ox.ac.uk](https://www.wrh.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:17.507178+00:00
+
+ ## Home
+ - [https://www.wycliffe.ox.ac.uk](https://www.wycliffe.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:14.309667+00:00
+
+ ## Home
+ - [https://wycliffe.web.ox.ac.uk](https://wycliffe.web.ox.ac.uk)
+ - date_published: 2024-06-16T01:57:47+00:00
+
+ ## University of Oxford
+ - [https://www.oxford.ac.uk](https://www.oxford.ac.uk)
+ - date_published: 2024-10-20T05:30:58.429472+00:00
+
+ ## Peterborough College
+ - [https://peterborough.ac.uk](https://peterborough.ac.uk)
+ - date_published: 2024-10-20T01:35:12.880336+00:00
+
+ ## The Pirbright Institute
+ - [https://www.pirbright.ac.uk](https://www.pirbright.ac.uk)
+ - date_published: 2025-01-14T18:54:13.402146+00:00
+
+ ## Open for 2024 applications - Plumpton College
+ - [https://www.plumpton.ac.uk](https://www.plumpton.ac.uk)
+ - date_published: 2024-08-06T11:05:55.515576+00:00
+
+ ## University of Plymouth
+ - [https://donate.plymouth.ac.uk](https://donate.plymouth.ac.uk)
+ - date_published: 2024-06-17T05:39:49.084594+00:00
+
+ ## Study a subject that inspires you
+ - [http://plymouth.ac.uk](http://plymouth.ac.uk)
+ - date_published: 2024-06-29T04:51:36.601433+00:00
+
+ ## Sign in to your account
+ - [https://portal.plymouth.ac.uk](https://portal.plymouth.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## World-leading scientific marine research - Plymouth Marine Laboratory
+ - [http://pml.ac.uk](http://pml.ac.uk)
+ - date_published: 2024-10-22T17:06:12.387490+00:00
+
+ ## Liblog
+ - [https://liblog.port.ac.uk](https://liblog.port.ac.uk)
+ - date_published: 2024-10-20T07:44:24.610388+00:00
+
+ ## University of Portsmouth Library -
+ - [https://library.port.ac.uk](https://library.port.ac.uk)
+ - date_published: 2024-06-17T19:02:36.191693+00:00
+
+ ## Access Manager
+ - [https://moodle.port.ac.uk](https://moodle.port.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## MyPort Homepage | Student Services - University of Portsmouth
+ - [https://myport.port.ac.uk](https://myport.port.ac.uk)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Self Service Password Reset
+ - [https://password.port.ac.uk](https://password.port.ac.uk)
+ - date_published: 2024-06-17T19:02:21.730368+00:00
+
+ ## University of Portsmouth | A New Breed of University
+ - [https://port.ac.uk](https://port.ac.uk)
+ - date_published: 2024-10-17T00:08:08+00:00
+
+ ## Sport Portsmouth | Sport and Recreation - University of Portsmouth
+ - [https://sport.port.ac.uk](https://sport.port.ac.uk)
+ - date_published: 2024-06-17T17:17:52+00:00
+
+ ## SSD Tools
+ - [https://ssd.port.ac.uk](https://ssd.port.ac.uk)
+ - date_published: 2024-10-20T07:44:42.443231+00:00
+
+ ## Access Gateway
+ - [https://sso.port.ac.uk](https://sso.port.ac.uk)
+ - date_published: 2024-06-17T19:02:20.644387+00:00
+
+ ## Access Manager
+ - [http://staff.port.ac.uk](http://staff.port.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Log in to the portal
+ - [https://student-system.port.ac.uk](https://student-system.port.ac.uk)
+ - date_published: 2024-06-17T19:02:27.885881+00:00
+
+ ## Access Manager
+ - [https://timetabling.port.ac.uk](https://timetabling.port.ac.uk)
+ - date_published: 2024-06-17T19:02:34.372584+00:00
+
+ ## Home Page - The Productivity Institute
+ - [https://www.productivity.ac.uk](https://www.productivity.ac.uk)
+ - date_published: 2024-10-19T05:49:45.505571+00:00
+
+ ## Prospects.ac.uk
+ - [https://www.prospects.ac.uk](https://www.prospects.ac.uk)
+ - date_published: 2024-06-30T03:59:03.631304+00:00
+
+ ## The Political Studies Association
+ - [https://www.psa.ac.uk](https://www.psa.ac.uk)
+ - date_published: 2024-07-09T14:16:49.690381+00:00
+
+ ## Jisc
+ - [http://www.psigate.ac.uk](http://www.psigate.ac.uk)
+ - date_published: 2024-07-02T14:46:20.410018+00:00
+
+ ## NCCPE: homepage | NCCPE
+ - [http://www.publicengagement.ac.uk](http://www.publicengagement.ac.uk)
+ - date_published: 2024-10-19T07:06:33.806760+00:00
+
+ ## The Quality Assurance Agency for Higher Education
+ - [https://qaa.ac.uk](https://qaa.ac.uk)
+ - date_published: 2024-05-10T05:54:55.722883+00:00
+
+ ## Membership Resources
+ - [https://www.membershipresources.qaa.ac.uk](https://www.membershipresources.qaa.ac.uk)
+ - date_published: 2024-07-12T18:23:38.355907+00:00
+
+ ## QAC Queen Alexandra College Birmingham - National college for people with disabilities.
+ - [https://www.qac.ac.uk](https://www.qac.ac.uk)
+ - date_published: 2024-07-08T20:56:59.371180+00:00
+
+ ## Accessing the QMplus archives | Technology Enhanced Learning Team
+ - [https://2019.qmplus.qmul.ac.uk](https://2019.qmplus.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:23.126837+00:00
+
+ ## Accessing the QMplus archives | Technology Enhanced Learning Team
+ - [https://2020.qmplus.qmul.ac.uk](https://2020.qmplus.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:33.083458+00:00
+
+ ## Accessing the QMplus archives | Technology Enhanced Learning Team
+ - [https://2021.qmplus.qmul.ac.uk](https://2021.qmplus.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:36.866357+00:00
+
+ ## QMplus - The Online Learning Environment of Queen Mary University of London
+ - [https://2022.qmplus.qmul.ac.uk](https://2022.qmplus.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:11+00:00
+
+ ## Queen Mary, University of London test
+ - [http://archive.qmplus.qmul.ac.uk](http://archive.qmplus.qmul.ac.uk)
+ - date_published: 2023-07-19T13:36:23+00:00
+
+ ## Atlas of Finite Group Representations
+ - [https://brauer.maths.qmul.ac.uk](https://brauer.maths.qmul.ac.uk)
+ - date_published: 2022-09-05T17:22:10+00:00
+
+ ## Queen Mary University Authentication
+ - [https://connected.qmul.ac.uk](https://connected.qmul.ac.uk)
+ - date_published: 2024-05-02T11:08:57.060869+00:00
+
+ ## Sign in to your account
+ - [http://connect.qmul.ac.uk](http://connect.qmul.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Staff Directory at Queen Mary, University of London
+ - [https://dir.qmul.ac.uk](https://dir.qmul.ac.uk)
+ - date_published: 2024-06-17T19:02:40.932425+00:00
+
+ ## Technology Enhanced Learning Team
+ - [https://elearning.qmul.ac.uk](https://elearning.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:37.818539+00:00
+
+ ## PaperCut Login for Queen Mary University London
+ - [https://eprint.stu.qmul.ac.uk](https://eprint.stu.qmul.ac.uk)
+ - date_published: 2024-10-20T07:53:09.047117+00:00
+
+ ## Human Resources - Human Resources
+ - [https://hr.qmul.ac.uk](https://hr.qmul.ac.uk)
+ - date_published: 2024-06-13T14:51:16+00:00
+
+ ## Queen Mary University of London
+ - [https://idp.shibboleth.qmul.ac.uk](https://idp.shibboleth.qmul.ac.uk)
+ - date_published: 2024-08-07T05:11:08+00:00
+
+ ## Queen Mary University Authentication
+ - [https://intranet.eecs.qmul.ac.uk](https://intranet.eecs.qmul.ac.uk)
+ - date_published: 2024-06-22T10:16:12.648254+00:00
+
+ ## IT Services - IT Services
+ - [http://its.qmul.ac.uk](http://its.qmul.ac.uk)
+ - date_published: 2024-06-13T05:22:10+00:00
+
+ ## Library Services - Library Services
+ - [http://library.qmul.ac.uk](http://library.qmul.ac.uk)
+ - date_published: 2024-06-13T12:17:17+00:00
+
+ ## Sign in to Outlook
+ - [https://mail.qmul.ac.uk](https://mail.qmul.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## PaperCut Login for Queen Mary University London
+ - [https://myprint.qmul.ac.uk](https://myprint.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:50.408609+00:00
+
+ ## MyQMUL - MyQMUL
+ - [https://my.qmul.ac.uk](https://my.qmul.ac.uk)
+ - date_published: 2024-05-02T11:08:55.788251+00:00
+
+ ## Log in to the portal
+ - [https://mysis.qmul.ac.uk](https://mysis.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:51.482669+00:00
+
+ ## Home | MyQMUL
+ - [https://qmplus.qmul.ac.uk](https://qmplus.qmul.ac.uk)
+ - date_published: 2024-05-02T11:08:48.688160+00:00
+
+ ## Queen Mary University of London
+ - [https://qmul.ac.uk](https://qmul.ac.uk)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## SMS Webspace
+ - [https://webspace.maths.qmul.ac.uk](https://webspace.maths.qmul.ac.uk)
+ - date_published: 2024-06-30T11:22:17.112727+00:00
+
+ ## Home - Academic Registry and Council Secretariat
+ - [http://www.arcs.qmul.ac.uk](http://www.arcs.qmul.ac.uk)
+ - date_published: 2024-02-17T03:20:03+00:00
+
+ ## Careers and Enterprise - Careers and Enterprise
+ - [http://www.careers.qmul.ac.uk](http://www.careers.qmul.ac.uk)
+ - date_published: 2024-06-12T20:37:26+00:00
+
+ ## School of Electronic Engineering and Computer Science - School of Electronic Engineering and Computer Science
+ - [https://www.eecs.qmul.ac.uk](https://www.eecs.qmul.ac.uk)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## School of Electronic Engineering and Computer Science - School of Electronic Engineering and Computer Science
+ - [http://www.elec.qmul.ac.uk](http://www.elec.qmul.ac.uk)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Jobs - Jobs
+ - [http://www.jobs.qmul.ac.uk](http://www.jobs.qmul.ac.uk)
+ - date_published: 2024-05-02T11:08:53.838326+00:00
+
+ ## School of Mathematical Sciences - School of Mathematical Sciences
+ - [http://www.maths.qmul.ac.uk](http://www.maths.qmul.ac.uk)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## QMUL School of Engineering and Materials Science
+ - [http://www.sems.qmul.ac.uk](http://www.sems.qmul.ac.uk)
+ - date_published: 2025-01-11T22:14:42.033406+00:00
+
+ ## QMUL Faculty of Science and Engineering - Research
+ - [https://www.seresearch.qmul.ac.uk](https://www.seresearch.qmul.ac.uk)
+ - date_published: 2024-05-02T11:08:47.118866+00:00
+
+ ## Centre for Theoretical Physics -  School of Physical and Chemical Sciences
+ - [http://www.strings.ph.qmul.ac.uk](http://www.strings.ph.qmul.ac.uk)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Home - QUB
+ - [https://daro.qub.ac.uk](https://daro.qub.ac.uk)
+ - date_published: 2024-06-17T17:53:38.241039+00:00
+
+ ## School of Law | Queen's University Belfast
+ - [http://law.qub.ac.uk](http://law.qub.ac.uk)
+ - date_published: 2024-10-18T22:05:22.375640+00:00
+
+ ## Northern Ireland Legal Quarterly
+ - [https://nilq.qub.ac.uk](https://nilq.qub.ac.uk)
+ - date_published: 2024-06-17T10:58:20.801131+00:00
+
+ ## Queen's University Belfast
+ - [https://pure.qub.ac.uk](https://pure.qub.ac.uk)
+ - date_published: 2024-06-17T17:53:40.013551+00:00
+
+ ## Queen's University Belfast: Shaping a Better World since 1845
+ - [https://qub.ac.uk](https://qub.ac.uk)
+ - date_published: 2020-07-07T11:59:45+00:00
+
+ ## Computer Physics Communications Program Library
+ - [http://www.cs.qub.ac.uk](http://www.cs.qub.ac.uk)
+ - date_published: 2023-02-07T16:24:02+00:00
+
+ ## RADA
+ - [https://rada.ac.uk](https://rada.ac.uk)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Home | Royal Academy of Music
+ - [https://www.ram.ac.uk](https://www.ram.ac.uk)
+ - date_published: 2024-10-20T03:46:15.946182+00:00
+
+ ## HOME | FELLOWS OF THE RAS
+ - [https://fellows.ras.ac.uk](https://fellows.ras.ac.uk)
+ - date_published: 2024-05-02T11:09:06.320214+00:00
+
+ ## The Royal Astronomical Society
+ - [https://ras.ac.uk](https://ras.ac.uk)
+ - date_published: 2023-10-25T22:49:44.106790+00:00
+
+ ## The Helen Hamlyn Centre for Design
+ - [http://hhcd.rca.ac.uk](http://hhcd.rca.ac.uk)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Home
+ - [https://www.rca.ac.uk](https://www.rca.ac.uk)
+ - date_published: 2024-07-09T12:56:05.487562+00:00
+
+ ## Home
+ - [http://www.rcm.ac.uk](http://www.rcm.ac.uk)
+ - date_published: 2024-07-09T12:56:38.874780+00:00
+
+ ## Home - RCPCH Child Protection Portal
+ - [https://childprotection.rcpch.ac.uk](https://childprotection.rcpch.ac.uk)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## risr/advance
+ - [https://eportfolio.rcpch.ac.uk](https://eportfolio.rcpch.ac.uk)
+ - date_published: 2024-05-02T11:09:15.459000+00:00
+
+ ## RCPCH Learning
+ - [https://learning.rcpch.ac.uk](https://learning.rcpch.ac.uk)
+ - date_published: 2024-05-02T11:09:17.090916+00:00
+
+ ## Room bookings at RCPCH – Meeting room hire in central London
+ - [https://roombookings.rcpch.ac.uk](https://roombookings.rcpch.ac.uk)
+ - date_published: 2024-05-02T11:09:18.175991+00:00
+
+ ## Homepage
+ - [https://www.rcpch.ac.uk](https://www.rcpch.ac.uk)
+ - date_published: 2024-02-24T20:42:56.247262+00:00
+
+ ## Royal College of Physicians of Edinburgh | Educating doctors, improving care
+ - [http://www.rcpe.ac.uk](http://www.rcpe.ac.uk)
+ - date_published: 2024-10-29T18:06:21+00:00
+
+ ## Home
+ - [http://www.rcplondon.ac.uk](http://www.rcplondon.ac.uk)
+ - date_published: 2024-06-24T09:35:04.131392+00:00
+
+ ## The Royal College of Physicians and Surgeons of Glasgow
+ - [https://rcpsg.ac.uk](https://rcpsg.ac.uk)
+ - date_published: 2024-10-29T18:31:55+00:00
+
+ ## Royal College of Psychiatrists
+ - [https://www.rcpsych.ac.uk](https://www.rcpsych.ac.uk)
+ - date_published: 2024-06-30T01:46:16.232302+00:00
+
+ ## Home | The Royal College of Surgeons of Edinburgh
+ - [http://www.rcsed.ac.uk](http://www.rcsed.ac.uk)
+ - date_published: 2024-06-24T09:52:25.325214+00:00
+
+ ## The Royal College of Surgeons of England — Royal College of Surgeons
+ - [http://www.rcseng.ac.uk](http://www.rcseng.ac.uk)
+ - date_published: 2024-06-24T09:51:43.737600+00:00
+
+ ## University of Reading Weblogs
+ - [https://blogs.reading.ac.uk](https://blogs.reading.ac.uk)
+ - date_published: 2024-08-19T07:51:51+00:00
+
+ ## University of Reading
+ - [https://reading.ac.uk](https://reading.ac.uk)
+ - date_published: 2024-06-26T15:26:15+00:00
+
+ ## Reaseheath College | leading land-based college
+ - [https://www.reaseheath.ac.uk](https://www.reaseheath.ac.uk)
+ - date_published: 2024-07-22T15:37:45+00:00
+
+ ## REPHRAIN – National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online
+ - [https://www.rephrain.ac.uk](https://www.rephrain.ac.uk)
+ - date_published: 2024-08-18T07:32:48+00:00
+
+ ## Computer Science
+ - [https://www.clrc.rhbnc.ac.uk](https://www.clrc.rhbnc.ac.uk)
+ - date_published: 2024-06-23T08:55:39.840486+00:00
+
+ ## Royal Holloway Research Portal
+ - [http://pure.rhul.ac.uk](http://pure.rhul.ac.uk)
+ - date_published: 2024-06-30T09:23:32.574476+00:00
+
+ ## Computer Science
+ - [http://www.cs.rhul.ac.uk](http://www.cs.rhul.ac.uk)
+ - date_published: 2024-08-11T22:07:04.461993+00:00
+
+ ## Royal Holloway, University of London
+ - [http://www.rhul.ac.uk](http://www.rhul.ac.uk)
+ - date_published: 2024-06-24T10:23:40.710232+00:00
+
+ ## CUTEr Website
+ - [http://www.cuter.rl.ac.uk](http://www.cuter.rl.ac.uk)
+ - date_published: 2018-02-19T10:32:18+00:00
+
+ ## Home - Research Libraries UK
+ - [https://www.rluk.ac.uk](https://www.rluk.ac.uk)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Euclid Redmine
+ - [https://euclid.roe.ac.uk](https://euclid.roe.ac.uk)
+ - date_published: 2025-01-20T14:06:07.051363+00:00
+
+ ## The Royal Observatory, Edinburgh
+ - [http://www.roe.ac.uk](http://www.roe.ac.uk)
+ - date_published: 2024-08-18T20:21:27.930611+00:00
+
+ ## Roman Archaeology Conference
+ - [http://www.romansocietyrac.ac.uk](http://www.romansocietyrac.ac.uk)
+ - date_published: 2024-12-15T15:14:15.890172+00:00
+
+ ## e-RA
+ - [https://www.era.rothamsted.ac.uk](https://www.era.rothamsted.ac.uk)
+ - date_published: 2024-09-15T12:16:49.006504+00:00
+
+ ## Rothamsted Research: Advancing Sustainable Agriculture
+ - [https://www.rothamsted.ac.uk](https://www.rothamsted.ac.uk)
+ - date_published: 2024-09-15T04:33:59+00:00
+
+ ## Royal Holloway, University of London
+ - [https://intranet.royalholloway.ac.uk](https://intranet.royalholloway.ac.uk)
+ - date_published: 2024-06-22T08:52:26.724145+00:00
+
+ ## Royal Holloway Research Portal
+ - [https://pure.royalholloway.ac.uk](https://pure.royalholloway.ac.uk)
+ - date_published: 2024-05-04T15:19:11.374433+00:00
+
+ ## Royal Holloway, University of London
+ - [https://www.royalholloway.ac.uk](https://www.royalholloway.ac.uk)
+ - date_published: 2024-10-20T03:46:44.762934+00:00
+
+ ## Home | TRM School
+ - [https://www.royalmarsdenschool.ac.uk](https://www.royalmarsdenschool.ac.uk)
+ - date_published: 2024-06-17T15:49:53+00:00
+
+ ## Home - Henry Royce Institute
+ - [http://www.royce.ac.uk](http://www.royce.ac.uk)
+ - date_published: 2024-07-08T17:37:06.743217+00:00
+
+ ## Pathways For Potential
+ - [https://pathwaysforpotential.russellgroup.ac.uk](https://pathwaysforpotential.russellgroup.ac.uk)
+ - date_published: 2020-05-26T23:00:00+00:00
+
+ ## Realising Our Potential
+ - [https://realisingourpotential.russellgroup.ac.uk](https://realisingourpotential.russellgroup.ac.uk)
+ - date_published: 2021-04-15T00:00:00+00:00
+
+ ## Russell Group | Home
+ - [https://russellgroup.ac.uk](https://russellgroup.ac.uk)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Royal Veterinary College, RVC
+ - [http://www.rvc.ac.uk](http://www.rvc.ac.uk)
+ - date_published: 2024-06-24T09:38:45.207836+00:00
+
+ ## Homepage | University of Salford
+ - [https://www.salford.ac.uk](https://www.salford.ac.uk)
+ - date_published: 2024-10-21T19:32:27.690351+00:00
+
+ ## Wellcome Sanger Institute - Genomics Research Institute in Cambridge
+ - [https://www.sanger.ac.uk](https://www.sanger.ac.uk)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Institute of Commonwealth Studies
+ - [https://commonwealth.sas.ac.uk](https://commonwealth.sas.ac.uk)
+ - date_published: 2024-06-30T03:34:35+00:00
+
+ ## About CUCD - Council of University Classical Departments
+ - [http://cucd.blogs.sas.ac.uk](http://cucd.blogs.sas.ac.uk)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Institute of Advanced Legal Studies
+ - [https://ials.sas.ac.uk](https://ials.sas.ac.uk)
+ - date_published: 2025-01-07T17:43:11+00:00
+
+ ## Institute of Philosophy
+ - [https://philosophy.sas.ac.uk](https://philosophy.sas.ac.uk)
+ - date_published: 2024-05-08T11:36:12.801937+00:00
+
+ ## Refugee Law Initiative Blog
+ - [https://rli.blogs.sas.ac.uk](https://rli.blogs.sas.ac.uk)
+ - date_published: 2024-06-17T11:10:01.655317+00:00
+
+ ## School of Advanced Study
+ - [https://sas.ac.uk](https://sas.ac.uk)
+ - date_published: 2024-10-20T03:47:04.299331+00:00
+
+ ## The Warburg Institute
+ - [http://warburg.sas.ac.uk](http://warburg.sas.ac.uk)
+ - date_published: 2024-06-24T09:04:54+00:00
+
+ ## Southampton Business School
+ - [https://www.sbs.ac.uk](https://www.sbs.ac.uk)
+ - date_published: 2025-02-09T09:06:33.334975+00:00
+
+ ## South and City College Birmingham - Part-Time, Full-Time & Apprenticeship Courses
+ - [https://www.sccb.ac.uk](https://www.sccb.ac.uk)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## SCCJR - The Scottish Centre for Crime & Justice Research.
+ - [http://www.sccjr.ac.uk](http://www.sccjr.ac.uk)
+ - date_published: 2024-10-21T15:38:53.469037+00:00
+
+ ## Courses | Training | Shrewsbury Colleges Group
+ - [https://www.scg.ac.uk](https://www.scg.ac.uk)
+ - date_published: 2024-08-06T11:06:14+00:00
+
+ ## Home - Science Museum Group Journal
+ - [https://journal.sciencemuseum.ac.uk](https://journal.sciencemuseum.ac.uk)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Science and Technology Facilities Council (STFC)
+ - [http://www.scitech.ac.uk](http://www.scitech.ac.uk)
+ - date_published: 2025-01-01T04:53:43.878635+00:00
+
+ ## Service Design Courses - Service Design Academy
+ - [http://www.sda.ac.uk](http://www.sda.ac.uk)
+ - date_published: 2025-01-24T22:23:58.616566+00:00
+
+ ## Seeing Speech: Introduction
+ - [https://www.seeingspeech.ac.uk](https://www.seeingspeech.ac.uk)
+ - date_published: 2024-07-02T06:26:16.603198+00:00
+
+ ## Science and Engineering South - universities united in research excellence
+ - [http://www.ses.ac.uk](http://www.ses.ac.uk)
+ - date_published: 2024-09-16T14:46:41.933681+00:00
+
+ ## Homepage - Scottish Funding Council
+ - [http://www.sfc.ac.uk](http://www.sfc.ac.uk)
+ - date_published: 2024-10-20T03:48:42.291555+00:00
+
+ ## Scottish Graduate School for Arts & Humanities -
+ - [http://www.sgsah.ac.uk](http://www.sgsah.ac.uk)
+ - date_published: 2024-10-29T18:31:26.177037+00:00
+
+ ## Home
+ - [https://sgul.ac.uk](https://sgul.ac.uk)
+ - date_published: 2024-10-20T03:37:50.769030+00:00
+
+ ## James V Stone
+ - [http://jim-stone.staff.shef.ac.uk](http://jim-stone.staff.shef.ac.uk)
+ - date_published: 2024-07-06T23:45:33.404048+00:00
+
+ ## Tom Stafford
+ - [http://tomstafford.staff.shef.ac.uk](http://tomstafford.staff.shef.ac.uk)
+ - date_published: 2024-07-06T23:45:05.390313+00:00
+
+ ## School of Computer Science
+ - [http://www.dcs.shef.ac.uk](http://www.dcs.shef.ac.uk)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## History Matters
+ - [http://www.historymatters.group.shef.ac.uk](http://www.historymatters.group.shef.ac.uk)
+ - date_published: 2024-10-29T18:28:30.411689+00:00
+
+ ## Advance Register for Clearing
+ - [http://www.shef.ac.uk](http://www.shef.ac.uk)
+ - date_published: 2024-08-06T20:18:48+00:00
+
+ ## Advance Register for Clearing
+ - [https://cdn.sheffield.ac.uk](https://cdn.sheffield.ac.uk)
+ - date_published: 2024-08-06T20:18:51+00:00
+
+ ## GATE in Biomedical Text Processing
+ - [https://gate-biomedical.sites.sheffield.ac.uk](https://gate-biomedical.sites.sheffield.ac.uk)
+ - date_published: 2024-08-07T16:59:12.022529+00:00
+
+ ## Social media and Disinformation
+ - [https://gate-socmedia.sites.sheffield.ac.uk](https://gate-socmedia.sites.sheffield.ac.uk)
+ - date_published: 2024-08-07T16:58:58.359729+00:00
+
+ ## The Grantham Centre for Sustainable Futures
+ - [https://grantham.sheffield.ac.uk](https://grantham.sheffield.ac.uk)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Home | The University of Sheffield Player
+ - [https://player.sheffield.ac.uk](https://player.sheffield.ac.uk)
+ - date_published: 2024-08-07T17:00:20.121078+00:00
+
+ ## Advance Register for Clearing
+ - [https://sheffield.ac.uk](https://sheffield.ac.uk)
+ - date_published: 2024-08-06T20:18:48+00:00
+
+ ## Online Services - The University of Sheffield
+ - [https://staff.sheffield.ac.uk](https://staff.sheffield.ac.uk)
+ - date_published: 2024-08-07T17:00:11.836077+00:00
+
+ ## Online Services - The University of Sheffield
+ - [https://students.sheffield.ac.uk](https://students.sheffield.ac.uk)
+ - date_published: 2024-08-07T17:00:14.863111+00:00
+
+ ## Sheffield Students' Union
+ - [https://su.sheffield.ac.uk](https://su.sheffield.ac.uk)
+ - date_published: 2024-08-07T17:00:21+00:00
+
+ ## University of Sheffield International College: Study in the UK
+ - [http://usic.sheffield.ac.uk](http://usic.sheffield.ac.uk)
+ - date_published: 2024-08-07T17:00:17.085903+00:00
+
+ ## Sheffield Solar – The UK photovoltaic industry’s leading scientific data resource
+ - [https://www.solar.sheffield.ac.uk](https://www.solar.sheffield.ac.uk)
+ - date_published: 2024-05-02T12:21:42.054175+00:00
+
+ ## Sherpa v3
+ - [https://beta.sherpa.ac.uk](https://beta.sherpa.ac.uk)
+ - date_published: 2024-07-08T16:36:39.229838+00:00
+
+ ## Research Funders' Open Access Policies - Sherpa Services
+ - [https://v2.sherpa.ac.uk](https://v2.sherpa.ac.uk)
+ - date_published: 2024-05-08T12:02:27.564687+00:00
+
+ ## Research Funders' Open Access Policies - Sherpa Services
+ - [http://www.sherpa.ac.uk](http://www.sherpa.ac.uk)
+ - date_published: 2024-06-30T05:43:55.297178+00:00
+
+ ## Home  | Sheffield Hallam University
+ - [https://www.shu.ac.uk](https://www.shu.ac.uk)
+ - date_published: 2024-09-12T18:50:40.993904+00:00
+
+ ## Home - SICSA - The Scottish Informatics & Computer Science Alliance
+ - [https://sicsa.ac.uk](https://sicsa.ac.uk)
+ - date_published: 2024-05-08T07:35:48.830371+00:00
+
+ ## Blogs from around SOAS University of London – Blogs from around SOAS University of London
+ - [https://blogs.soas.ac.uk](https://blogs.soas.ac.uk)
+ - date_published: 2024-06-30T07:39:11.183853+00:00
+
+ ## Welcome to SOAS
+ - [https://www.soas.ac.uk](https://www.soas.ac.uk)
+ - date_published: 2024-06-30T03:02:19+00:00
+
+ ## Welcome to AAMAS 2023 - AAMAS 2023
+ - [https://aamas2023.soton.ac.uk](https://aamas2023.soton.ac.uk)
+ - date_published: 2024-09-04T19:02:27.764928+00:00
+
+ ## School of Electronics and Computer Science
+ - [https://ecs.soton.ac.uk](https://ecs.soton.ac.uk)
+ - date_published: 2024-04-30T03:33:03.559266+00:00
+
+ ## Welcome to ePrints Soton - ePrints Soton
+ - [https://eprints.soton.ac.uk](https://eprints.soton.ac.uk)
+ - date_published: 2024-07-07T07:17:46.719265+00:00
+
+ ## go.soton.ac.uk
+ - [http://go.soton.ac.uk](http://go.soton.ac.uk)
+ - date_published: 2024-07-10T09:01:22.143859+00:00
+
+ ## Recruitment at the University of Southampton
+ - [https://jobs.soton.ac.uk](https://jobs.soton.ac.uk)
+ - date_published: 2024-06-18T10:52:10.922625+00:00
+
+ ## LibGuides@Southampton: Library Services: Home
+ - [https://library.soton.ac.uk](https://library.soton.ac.uk)
+ - date_published: 2024-07-08T11:24:26.911235+00:00
+
+ ## Manifold Scholarship
+ - [https://manifold.soton.ac.uk](https://manifold.soton.ac.uk)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Optoelectronics Research Centre (ORC)
+ - [https://orc.soton.ac.uk](https://orc.soton.ac.uk)
+ - date_published: 2024-10-21T19:14:12.910812+00:00
+
+ ## Sign in to your account
+ - [https://sussed.soton.ac.uk](https://sussed.soton.ac.uk)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Homepage
+ - [http://users.ecs.soton.ac.uk](http://users.ecs.soton.ac.uk)
+ - date_published: 2024-07-07T09:38:20+00:00
+
+ ## Winchester School of Art
+ - [http://wsa.soton.ac.uk](http://wsa.soton.ac.uk)
+ - date_published: 2024-07-10T08:58:30+00:00
+
+ ## Airguide Photonics | University of Southampton
+ - [https://www.airguide.soton.ac.uk](https://www.airguide.soton.ac.uk)
+ - date_published: 2024-06-18T11:27:39.373444+00:00
+
+ ## Centre for Health Technologies
+ - [https://www.cht.ecs.soton.ac.uk](https://www.cht.ecs.soton.ac.uk)
+ - date_published: 2024-07-22T07:03:19+00:00
+
+ ## Centre for Internet of Things and Pervasive Systems
+ - [https://www.c-iot.ecs.soton.ac.uk](https://www.c-iot.ecs.soton.ac.uk)
+ - date_published: 2024-07-22T06:58:30+00:00
+
+ ## Centre for Machine Intelligence
+ - [https://www.cmi.ecs.soton.ac.uk](https://www.cmi.ecs.soton.ac.uk)
+ - date_published: 2024-07-22T06:32:47+00:00
+
+ ## Home Page
+ - [http://www.hpcc.ecs.soton.ac.uk](http://www.hpcc.ecs.soton.ac.uk)
+ - date_published: 2024-04-05T15:23:46+00:00
+
+ ## Homepage
+ - [https://www.soton.ac.uk](https://www.soton.ac.uk)
+ - date_published: 2024-05-02T12:38:47.346883+00:00
+
+ ## GitHub - libvips/libvips: A fast image processing library with low memory needs.
+ - [http://www.vips.ecs.soton.ac.uk](http://www.vips.ecs.soton.ac.uk)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Zepler Institute
+ - [https://zepler.soton.ac.uk](https://zepler.soton.ac.uk)
+ - date_published: 2024-06-18T10:58:39+00:00
+
+ ## University of Southampton Online Store
+ - [https://store.southampton.ac.uk](https://store.southampton.ac.uk)
+ - date_published: 2024-07-22T07:04:59.929624+00:00
+
+ ## Homepage
+ - [https://www.southampton.ac.uk](https://www.southampton.ac.uk)
+ - date_published: 2024-05-02T12:29:57.550421+00:00
+
+ ## SRHE | Society for Research into Higher Education | SRHE.ac.uk
+ - [https://srhe.ac.uk](https://srhe.ac.uk)
+ - date_published: 2024-10-19T10:18:37.330350+00:00
+
+ ## Home
+ - [https://www.sruc.ac.uk](https://www.sruc.ac.uk)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Jobs at Staffs
+ - [https://jobs.staffs.ac.uk](https://jobs.staffs.ac.uk)
+ - date_published: 2024-05-09T09:16:27.322459+00:00
+
+ ## Home - Staffordshire University
+ - [https://staffs.ac.uk](https://staffs.ac.uk)
+ - date_published: 2023-12-12T13:24:55.758245+00:00
+
+ ## Sign in to your account
+ - [https://workvivo.staffs.ac.uk](https://workvivo.staffs.ac.uk)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home - Staffordshire University London
+ - [https://staffslondon.ac.uk](https://staffslondon.ac.uk)
+ - date_published: 2024-05-09T09:16:30.519523+00:00
+
+ ## CS Proxy Service
+ - [http://www.dcs.st-and.ac.uk](http://www.dcs.st-and.ac.uk)
+ - date_published: 2024-05-14T14:55:56+00:00
+
+ ## MacTutor Index
+ - [http://www-groups.dcs.st-and.ac.uk](http://www-groups.dcs.st-and.ac.uk)
+ - date_published: 2024-06-28T08:29:32+00:00
+
+ ## Research Computing Server
+ - [https://arts.st-andrews.ac.uk](https://arts.st-andrews.ac.uk)
+ - date_published: 2024-01-16T15:37:58+00:00
+
+ ## Computer Science WordPress – School of Computer Science, University of St Andrews
+ - [https://blogs.cs.st-andrews.ac.uk](https://blogs.cs.st-andrews.ac.uk)
+ - date_published: 2024-07-04T18:54:47.657147+00:00
+
+ ## Events
+ - [https://events.st-andrews.ac.uk](https://events.st-andrews.ac.uk)
+ - date_published: 2024-05-09T06:35:42.143458+00:00
+
+ ## Information for current CS students
+ - [https://info.cs.st-andrews.ac.uk](https://info.cs.st-andrews.ac.uk)
+ - date_published: 2024-07-04T18:54:46.757251+00:00
+
+ ## IT Services blog – Latest news, advice and information from the IT Services team
+ - [https://itservices.wp.st-andrews.ac.uk](https://itservices.wp.st-andrews.ac.uk)
+ - date_published: 2023-10-25T22:49:46.498310+00:00
+
+ ## MacTutor Index - MacTutor History of Mathematics
+ - [https://mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk)
+ - date_published: 2023-10-25T22:49:48.719060+00:00
+
+ ## Home | Moodle
+ - [https://moody.st-andrews.ac.uk](https://moody.st-andrews.ac.uk)
+ - date_published: 2024-05-09T06:35:38.746062+00:00
+
+ ## News | University of St Andrews
+ - [https://news.st-andrews.ac.uk](https://news.st-andrews.ac.uk)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Research Computing Team
+ - [https://researchcomputing.wp.st-andrews.ac.uk](https://researchcomputing.wp.st-andrews.ac.uk)
+ - date_published: 2024-07-09T20:40:20.560995+00:00
+
+ ## Special Collections blog
+ - [https://special-collections.wp.st-andrews.ac.uk](https://special-collections.wp.st-andrews.ac.uk)
+ - date_published: 2024-06-29T10:08:11.912096+00:00
+
+ ## University of St Andrews - Scotland's first university, founded 1413
+ - [https://st-andrews.ac.uk](https://st-andrews.ac.uk)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## WordPress at St Andrews
+ - [https://wp.st-andrews.ac.uk](https://wp.st-andrews.ac.uk)
+ - date_published: 2018-03-21T16:41:14+00:00
+
+ ## School of Computer Science - University of St Andrews
+ - [https://www.cs.st-andrews.ac.uk](https://www.cs.st-andrews.ac.uk)
+ - date_published: 2024-05-08T07:35:46.046567+00:00
+
+ ## Welcome
+ - [https://www.vacancies.st-andrews.ac.uk](https://www.vacancies.st-andrews.ac.uk)
+ - date_published: 2024-05-09T06:35:43.358963+00:00
+
+ ## WelcomePage - Starlink
+ - [https://www.starlink.ac.uk](https://www.starlink.ac.uk)
+ - date_published: 2024-10-16T08:39:38.776989+00:00
+
+ ## Science and Technology Facilities Council (STFC)
+ - [http://www.stfc.ac.uk](http://www.stfc.ac.uk)
+ - date_published: 2024-07-02T10:06:11.708286+00:00
+
+ ## UKATC
+ - [http://www.ukatc.stfc.ac.uk](http://www.ukatc.stfc.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## University of Stirling Blog
+ - [https://blog.stir.ac.uk](https://blog.stir.ac.uk)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## University of Stirling - My Portal
+ - [https://portal.stir.ac.uk](https://portal.stir.ac.uk)
+ - date_published: 2024-10-11T16:07:28+00:00
+
+ ## University of Stirling Online Shop
+ - [https://shop.stir.ac.uk](https://shop.stir.ac.uk)
+ - date_published: 2024-10-14T23:52:55.561649+00:00
+
+ ## Institute of Aquaculture | About | University of Stirling
+ - [http://www.aqua.stir.ac.uk](http://www.aqua.stir.ac.uk)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Home |  | University of Stirling
+ - [https://www.stir.ac.uk](https://www.stir.ac.uk)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## StrathSDR - University of Strathclyde 5G Software Defined Radio Research Lab
+ - [https://5g.eee.strath.ac.uk](https://5g.eee.strath.ac.uk)
+ - date_published: 2024-07-08T12:12:12.570878+00:00
+
+ ## Pegasus
+ - [https://ben.mis.strath.ac.uk](https://ben.mis.strath.ac.uk)
+ - date_published: 2024-04-07T09:22:50+00:00
+
+ ## Home | classes
+ - [https://classes.myplace.strath.ac.uk](https://classes.myplace.strath.ac.uk)
+ - date_published: 2024-07-12T16:51:15+00:00
+
+ ## University of Strathclyde International Study Centre | Scotland
+ - [https://isc.strath.ac.uk](https://isc.strath.ac.uk)
+ - date_published: 2024-07-12T16:51:08.838770+00:00
+
+ ## Mathematically Structured Programming Group @ University of Strathclyde
+ - [https://msp.cis.strath.ac.uk](https://msp.cis.strath.ac.uk)
+ - date_published: 2024-05-07T16:54:36+00:00
+
+ ## Home | University of Strathclyde
+ - [https://og.is.strath.ac.uk](https://og.is.strath.ac.uk)
+ - date_published: 2024-07-09T18:01:48+00:00
+
+ ## Pegasus
+ - [https://pegasus.strath.ac.uk](https://pegasus.strath.ac.uk)
+ - date_published: 2024-04-07T09:22:50+00:00
+
+ ## CIS Personal Web Pages
+ - [http://personal.cis.strath.ac.uk](http://personal.cis.strath.ac.uk)
+ - date_published: 2024-07-04T11:16:13.478788+00:00
+
+ ## University of Strathclyde
+ - [https://pureportal.strath.ac.uk](https://pureportal.strath.ac.uk)
+ - date_published: 2024-07-12T16:51:06.736733+00:00
+
+ ## University of Strathclyde
+ - [https://pure.strath.ac.uk](https://pure.strath.ac.uk)
+ - date_published: 2024-07-12T16:51:13.617637+00:00
+
+ ## StrathSDR - University of Strathclyde 5G Software Defined Radio Research Lab
+ - [https://sdr.eee.strath.ac.uk](https://sdr.eee.strath.ac.uk)
+ - date_published: 2024-05-08T11:07:15.010845+00:00
+
+ ## University of Strathclyde - Service Catalogue
+ - [https://servicecatalogue.strath.ac.uk](https://servicecatalogue.strath.ac.uk)
+ - date_published: 2023-10-03T08:25:54+00:00
+
+ ## University of Strathclyde - Service Status
+ - [https://status.strath.ac.uk](https://status.strath.ac.uk)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## STAX
+ - [https://stax.strath.ac.uk](https://stax.strath.ac.uk)
+ - date_published: 2024-05-10T05:39:33.530643+00:00
+
+ ## Strathprints: The University of Strathclyde institutional repository - Strathprints
+ - [https://strathprints.strath.ac.uk](https://strathprints.strath.ac.uk)
+ - date_published: 2023-12-07T17:36:01.374666+00:00
+
+ ## Telephone Directory - Search
+ - [https://teledir.strath.ac.uk](https://teledir.strath.ac.uk)
+ - date_published: 2024-07-12T16:51:19.428053+00:00
+
+ ## University of Strathclyde, Glasgow
+ - [https://www.strath.ac.uk](https://www.strath.ac.uk)
+ - date_published: 2024-05-10T05:39:32.331054+00:00
+
+ ## Studying Economics
+ - [https://www.studyingeconomics.ac.uk](https://www.studyingeconomics.ac.uk)
+ - date_published: 2024-07-02T13:49:39+00:00
+
+ ## Suffolk New College - Further Education Provider of the Year
+ - [https://www.suffolk.ac.uk](https://www.suffolk.ac.uk)
+ - date_published: 2024-08-06T10:26:39+00:00
+
+ ## University of Sunderland in London
+ - [https://london.sunderland.ac.uk](https://london.sunderland.ac.uk)
+ - date_published: 2024-10-20T03:47:00.211194+00:00
+
+ ## Home | My.SUPA
+ - [http://my.supa.ac.uk](http://my.supa.ac.uk)
+ - date_published: 2024-06-17T17:53:17+00:00
+
+ ## Scottish Universities Physics Alliance |
+ - [https://www.supa.ac.uk](https://www.supa.ac.uk)
+ - date_published: 2024-05-02T10:54:23.791727+00:00
+
+ ## International Conference on 3D Vision 2021   - International Conference on 3D Vision 2021
+ - [https://3dv2021.surrey.ac.uk](https://3dv2021.surrey.ac.uk)
+ - date_published: 2024-07-24T05:50:05.178369+00:00
+
+ ## University of Surrey Blogs
+ - [https://blogs.surrey.ac.uk](https://blogs.surrey.ac.uk)
+ - date_published: 2024-02-08T16:44:58.359175+00:00
+
+ ## University of Surrey International Study Centre | UK University Preparation
+ - [https://isc.surrey.ac.uk](https://isc.surrey.ac.uk)
+ - date_published: 2024-05-09T05:20:18.915303+00:00
+
+ ## MORPH – A blog about languages and how they change
+ - [https://morph.surrey.ac.uk](https://morph.surrey.ac.uk)
+ - date_published: 2024-07-02T10:14:48.714128+00:00
+
+ ## University Of Surrey | MySurrey
+ - [https://my.surrey.ac.uk](https://my.surrey.ac.uk)
+ - date_published: 2024-05-09T05:20:20.165436+00:00
+
+ ## HTTP Server Test Page powered by: Rocky Linux
+ - [http://personal.ee.surrey.ac.uk](http://personal.ee.surrey.ac.uk)
+ - date_published: 2022-07-27T18:04:30+00:00
+
+ ## Surrey Online Store
+ - [https://store.surrey.ac.uk](https://store.surrey.ac.uk)
+ - date_published: 2024-07-09T13:46:29.553402+00:00
+
+ ## Sign in to Outlook
+ - [https://surrey365.surrey.ac.uk](https://surrey365.surrey.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## University of Surrey
+ - [https://surrey.ac.uk](https://surrey.ac.uk)
+ - date_published: 2024-05-09T05:20:14.677825+00:00
+
+ ## Sign in to your account
+ - [https://surreylearn.surrey.ac.uk](https://surreylearn.surrey.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Teaching Innovations
+ - [https://teachinginnovations.surrey.ac.uk](https://teachinginnovations.surrey.ac.uk)
+ - date_published: 2024-05-09T05:20:25.816078+00:00
+
+ ## Welcome to Surrey
+ - [https://welcome.surrey.ac.uk](https://welcome.surrey.ac.uk)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## University Of Surrey | MySurrey
+ - [https://wellbeing.surrey.ac.uk](https://wellbeing.surrey.ac.uk)
+ - date_published: 2024-07-08T13:02:55+00:00
+
+ ## Search Home
+ - [https://cronfa.swan.ac.uk](https://cronfa.swan.ac.uk)
+ - date_published: 2024-10-14T23:48:57.706442+00:00
+
+ ## IMO – Immersive Media Observatory , CoE research department for the practical use of VR into teaching, industry and research
+ - [https://eng-imo.swan.ac.uk](https://eng-imo.swan.ac.uk)
+ - date_published: 2024-06-16T15:28:39.042685+00:00
+
+ ## Home - Y Ganolfan Eifftaidd / Egypt Centre
+ - [https://www.egypt.swan.ac.uk](https://www.egypt.swan.ac.uk)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Swansea University
+ - [http://www.swan.ac.uk](http://www.swan.ac.uk)
+ - date_published: 2024-06-24T10:53:26.599328+00:00
+
+ ## Events at Swansea University
+ - [https://events.swansea.ac.uk](https://events.swansea.ac.uk)
+ - date_published: 2024-10-14T23:49:14.256254+00:00
+
+ ## The home of current students - Swansea University
+ - [https://myuni.swansea.ac.uk](https://myuni.swansea.ac.uk)
+ - date_published: 2024-10-14T23:49:21.852900+00:00
+
+ ## Sign in to your account
+ - [https://staff.swansea.ac.uk](https://staff.swansea.ac.uk)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Swansea University
+ - [https://www.swansea.ac.uk](https://www.swansea.ac.uk)
+ - date_published: 2024-06-16T22:22:46.946543+00:00
+
+ ## Tameside College Courses for School Leavers, Adults and Employers in Greater Manchester
+ - [https://www.tameside.ac.uk](https://www.tameside.ac.uk)
+ - date_published: 2024-08-06T11:06:12.450454+00:00
+
+ ## Journal of the British Academy
+ - [https://journal.thebritishacademy.ac.uk](https://journal.thebritishacademy.ac.uk)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Home
+ - [https://thebritishacademy.ac.uk](https://thebritishacademy.ac.uk)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## British Museum
+ - [http://www.thebritishmuseum.ac.uk](http://www.thebritishmuseum.ac.uk)
+ - date_published: 2024-06-24T10:20:32+00:00
+
+ ## LTE Group / The Manchester College
+ - [https://idp1.themanchestercollege.ac.uk](https://idp1.themanchestercollege.ac.uk)
+ - date_published: 2024-03-13T20:19:54+00:00
+
+ ## Trinity Laban Conservatoire of Music and Dance
+ - [https://www.trinitylaban.ac.uk](https://www.trinitylaban.ac.uk)
+ - date_published: 2024-09-16T03:40:56.937711+00:00
+
+ ## Home | The Alan Turing Institute
+ - [https://www.turing.ac.uk](https://www.turing.ac.uk)
+ - date_published: 2024-06-15T19:35:52+00:00
+
+ ## Tyndall Centre for Climate Change Research
+ - [https://tyndall.ac.uk](https://tyndall.ac.uk)
+ - date_published: 2021-07-23T08:41:09+00:00
+
+ ## University of Cambridge
+ - [http://www.ucam.ac.uk](http://www.ucam.ac.uk)
+ - date_published: 2024-07-07T10:43:22+00:00
+
+ ## Home - UCISA
+ - [https://www.ucisa.ac.uk](https://www.ucisa.ac.uk)
+ - date_published: 2024-12-23T07:16:45.707338+00:00
+
+ ## UCL Blockchain
+ - [http://blockchain.cs.ucl.ac.uk](http://blockchain.cs.ucl.ac.uk)
+ - date_published: 2024-07-11T12:56:23.712179+00:00
+
+ ## UCL UCL Blogs
+ - [http://blogs.ucl.ac.uk](http://blogs.ucl.ac.uk)
+ - date_published: 2024-06-17T10:42:48+00:00
+
+ ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+ - [https://cdn.ucl.ac.uk](https://cdn.ucl.ac.uk)
+ - date_published: 2024-06-23T20:45:32.318819+00:00
+
+ ## UCL Centre for Research on Evolution, Search and Testing (CREST)
+ - [http://crest.cs.ucl.ac.uk](http://crest.cs.ucl.ac.uk)
+ - date_published: 2019-12-27T08:24:11+00:00
+
+ ## UCL Discovery 
+      -
+      UCL Discovery
+ - [https://discovery.ucl.ac.uk](https://discovery.ucl.ac.uk)
+ - date_published: 2024-04-29T03:31:19.059512+00:00
+
+ ## SGP | UCL
+ - [http://geometry.cs.ucl.ac.uk](http://geometry.cs.ucl.ac.uk)
+ - date_published: 2024-06-22T09:03:20.495023+00:00
+
+ ## University College London research repository - Browse
+ - [https://rdr.ucl.ac.uk](https://rdr.ucl.ac.uk)
+ - date_published: 2024-06-15T21:23:36.668793+00:00
+
+ ## Sign in to your account
+ - [https://rps.ucl.ac.uk](https://rps.ucl.ac.uk)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## UCL Information Security Research Group (UCL ISec)
+ - [https://sec.cs.ucl.ac.uk](https://sec.cs.ucl.ac.uk)
+ - date_published: 2024-05-06T15:12:24.771658+00:00
+
+ ## Home Page
+ - [https://shop.ucl.ac.uk](https://shop.ucl.ac.uk)
+ - date_published: 2024-05-02T11:09:27.827961+00:00
+
+ ## UCL – University College London
+ - [https://ucl.ac.uk](https://ucl.ac.uk)
+ - date_published: 2024-06-21T10:28:12+00:00
+
+ ## VECG
+ - [http://vecg.cs.ucl.ac.uk](http://vecg.cs.ucl.ac.uk)
+ - date_published: 2020-12-09T20:43:51+00:00
+
+ ## Visual at UCL
+ - [http://visual.cs.ucl.ac.uk](http://visual.cs.ucl.ac.uk)
+ - date_published: 2014-04-11T10:16:34+00:00
+
+ ## UCL Computer Science
+ - [http://www0.cs.ucl.ac.uk](http://www0.cs.ucl.ac.uk)
+ - date_published: 2018-07-04T14:27:51+00:00
+
+ ## UCL Computer Science
+ - [http://www.cs.ucl.ac.uk](http://www.cs.ucl.ac.uk)
+ - date_published: 2025-02-03T19:08:45.776101+00:00
+
+ ## UCL Electronic and Electrical Engineering
+ - [https://www.ee.ucl.ac.uk](https://www.ee.ucl.ac.uk)
+ - date_published: 2018-05-08T14:54:12+00:00
+
+ ## Wellcome Centre for Human Neuroimaging | FIL | UCL
+ - [http://www.fil.ion.ucl.ac.uk](http://www.fil.ion.ucl.ac.uk)
+ - date_published: 2024-06-23T09:42:01.736393+00:00
+
+ ## Gatsby Computational Neuroscience Unit
+ - [http://www.gatsby.ucl.ac.uk](http://www.gatsby.ucl.ac.uk)
+ - date_published: 2019-05-15T14:35:48+00:00
+
+ ## PERSONAL WEB PAGE DISCLAIMER
+ - [http://www.homepages.ucl.ac.uk](http://www.homepages.ucl.ac.uk)
+ - date_published: 2018-03-21T09:42:43+00:00
+
+ ## UCL Faculty of Laws
+ - [http://www.laws.ucl.ac.uk](http://www.laws.ucl.ac.uk)
+ - date_published: 2017-08-18T14:03:12+00:00
+
+ ## UCL School of Management
+ - [https://www.mgmt.ucl.ac.uk](https://www.mgmt.ucl.ac.uk)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Resources and Tools in Speech, Hearing and Phonetics
+ - [http://www.phon.ucl.ac.uk](http://www.phon.ucl.ac.uk)
+ - date_published: 2024-07-02T05:40:35.850541+00:00
+
+ ## UCL Observatory (UCLO)
+ - [http://www.ulo.ucl.ac.uk](http://www.ulo.ucl.ac.uk)
+ - date_published: 2018-10-23T13:26:28+00:00
+
+ ## University of Central Lancashire
+ - [http://www.uclan.ac.uk](http://www.uclan.ac.uk)
+ - date_published: 2025-02-01T18:31:42.783528+00:00
+
+ ## Climatic Research Unit
+ - [https://cru.uea.ac.uk](https://cru.uea.ac.uk)
+ - date_published: 2024-06-27T07:44:10.509640+00:00
+
+ ## UEA WA&VE - Login
+ - [https://testwave.uea.ac.uk](https://testwave.uea.ac.uk)
+ - date_published: 2024-05-02T11:09:52.582715+00:00
+
+ ## UEA WA&VE - Login
+ - [https://uatwave.uea.ac.uk](https://uatwave.uea.ac.uk)
+ - date_published: 2024-05-02T11:09:42.058992+00:00
+
+ ## Find your place at UEA
+ - [https://uea.ac.uk](https://uea.ac.uk)
+ - date_published: 2024-10-20T08:13:28.142634+00:00
+
+ ## Vacancy Search Results - UEA
+ - [https://vacancies.uea.ac.uk](https://vacancies.uea.ac.uk)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## UEA WA&VE - Login
+ - [https://wave.uea.ac.uk](https://wave.uea.ac.uk)
+ - date_published: 2024-05-02T11:09:54.387993+00:00
+
+ ## University of East London
+ - [https://uel.ac.uk](https://uel.ac.uk)
+ - date_published: 2025-01-23T19:18:26.385566+00:00
+
+ ## Home
+ - [http://www.cs.ukc.ac.uk](http://www.cs.ukc.ac.uk)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## UKOLN Home Page
+ - [http://www.ukoln.ac.uk](http://www.ukoln.ac.uk)
+ - date_published: 2015-07-31T15:57:45+00:00
+
+ ## CAIN: Northern Ireland Conflict, Politics, and Society.  Information on 'the troubles'.
+ - [http://cain.ulst.ac.uk](http://cain.ulst.ac.uk)
+ - date_published: 2024-06-12T11:43:42+00:00
+
+ ## Ulster University
+ - [https://pure.ulster.ac.uk](https://pure.ulster.ac.uk)
+ - date_published: 2024-07-12T23:52:23.747750+00:00
+
+ ## Ulster University Branch Campuses
+ - [https://qa.ulster.ac.uk](https://qa.ulster.ac.uk)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Welcome to Ulster University
+ - [https://ulster.ac.uk](https://ulster.ac.uk)
+ - date_published: 2024-05-10T06:48:53.308875+00:00
+
+ ## Home
+ - [https://unialliance.ac.uk](https://unialliance.ac.uk)
+ - date_published: 2024-10-20T02:25:16.505788+00:00
+
+ ## Login
+ - [https://st-andrews.unidesk.ac.uk](https://st-andrews.unidesk.ac.uk)
+ - date_published: 2024-06-17T19:10:08.193210+00:00
+
+ ## Login
+ - [https://um.unidesk.ac.uk](https://um.unidesk.ac.uk)
+ - date_published: 2024-07-02T22:20:32.269582+00:00
+
+ ## Universities UK
+ - [https://www.universitiesuk.ac.uk](https://www.universitiesuk.ac.uk)
+ - date_published: 2024-07-09T14:17:07.671568+00:00
+
+ ## UOS Login
+ - [https://login.uos.ac.uk](https://login.uos.ac.uk)
+ - date_published: 2024-08-07T09:51:35.143312+00:00
+
+ ## Find a course - UWE Bristol: Courses
+ - [http://courses.uwe.ac.uk](http://courses.uwe.ac.uk)
+ - date_published: 2024-10-16T08:20:46.063271+00:00
+
+ ## University of the West of England Bristol | UWE Bristol
+ - [https://uwe.ac.uk](https://uwe.ac.uk)
+ - date_published: 2024-12-23T21:04:14.360431+00:00
+
+ ## University of the West of England Bristol | UWE Bristol
+ - [http://www1.uwe.ac.uk](http://www1.uwe.ac.uk)
+ - date_published: 2025-01-22T01:36:03.440299+00:00
+
+ ## University of the West of England Bristol | UWE Bristol
+ - [https://www.uwe.ac.uk](https://www.uwe.ac.uk)
+ - date_published: 2024-11-28T13:49:54.345539+00:00
+
+ ## Discover the Career University | University of West London
+ - [https://www.uwl.ac.uk](https://www.uwl.ac.uk)
+ - date_published: 2025-01-22T00:34:57.451362+00:00
+
+ ## UWS | University of the West of Scotland
+ - [http://uws.ac.uk](http://uws.ac.uk)
+ - date_published: 2024-10-15T04:36:07.251129+00:00
+
+ ## CONTENTdm
+ - [http://www.vads.ac.uk](http://www.vads.ac.uk)
+ - date_published: 2024-06-24T09:21:40.947931+00:00
+
+ ## Explore the Collections · V&A
+ - [https://collections.vam.ac.uk](https://collections.vam.ac.uk)
+ - date_published: 2024-05-02T09:54:13.037295+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [https://framemark.vam.ac.uk](https://framemark.vam.ac.uk)
+ - date_published: 2020-12-30T10:50:26+00:00
+
+ ## The family of art, design and performance museums · V&A
+ - [https://vam.ac.uk](https://vam.ac.uk)
+ - date_published: 2024-10-18T08:06:13.346399+00:00
+
+ ## RDF Planner
+ - [https://rdfplanner.vitae.ac.uk](https://rdfplanner.vitae.ac.uk)
+ - date_published: 2024-06-17T18:15:20+00:00
+
+ ## Researcher professional development
+ - [https://vitae.ac.uk](https://vitae.ac.uk)
+ - date_published: 2024-10-20T05:13:53.472568+00:00
+
+ ## Exchanges: The Interdisciplinary Research Journal
+ - [https://exchanges.warwick.ac.uk](https://exchanges.warwick.ac.uk)
+ - date_published: 2023-12-26T16:32:30.722613+00:00
+
+ ## Single Sign-on | ITS Web Team | University of Warwick
+ - [https://idp.warwick.ac.uk](https://idp.warwick.ac.uk)
+ - date_published: 2024-06-30T01:18:57.717424+00:00
+
+ ## University of Warwick Press: Journals
+ - [https://journals.warwick.ac.uk](https://journals.warwick.ac.uk)
+ - date_published: 2024-10-17T06:49:34.142607+00:00
+
+ ## PhDLife Blog
+ - [https://phdlife.warwick.ac.uk](https://phdlife.warwick.ac.uk)
+ - date_published: 2024-05-02T10:13:14.235451+00:00
+
+ ## Warwick Search
+ - [https://search.warwick.ac.uk](https://search.warwick.ac.uk)
+ - date_published: 2024-05-02T11:10:18.726125+00:00
+
+ ## University of Warwick Status
+ - [https://status.warwick.ac.uk](https://status.warwick.ac.uk)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## Welcome to the University of Warwick
+ - [https://warwick.ac.uk](https://warwick.ac.uk)
+ - date_published: 2024-02-14T08:03:03.894929+00:00
+
+ ## Single Sign-on | ITS Web Team | University of Warwick
+ - [https://websignon.warwick.ac.uk](https://websignon.warwick.ac.uk)
+ - date_published: 2024-05-02T11:10:30.105473+00:00
+
+ ## Welcome to the University of Warwick
+ - [https://www2.warwick.ac.uk](https://www2.warwick.ac.uk)
+ - date_published: 2024-05-01T08:04:33.642476+00:00
+
+ ## Department of Computer Science, University of Warwick
+ - [https://www.dcs.warwick.ac.uk](https://www.dcs.warwick.ac.uk)
+ - date_published: 2024-01-09T03:48:16.468095+00:00
+
+ ## my.wbs | Sign in
+ - [https://my.wbs.ac.uk](https://my.wbs.ac.uk)
+ - date_published: 2024-10-14T19:33:26.179595+00:00
+
+ ## Warwick Business School | WBS | The University of Warwick
+ - [https://wbs.ac.uk](https://wbs.ac.uk)
+ - date_published: 2024-10-14T19:33:16.253349+00:00
+
+ ## Home | Wellcome
+ - [https://blog.wellcome.ac.uk](https://blog.wellcome.ac.uk)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Home | Wellcome
+ - [https://wellcome.ac.uk](https://wellcome.ac.uk)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## University of Westminster, London
+ - [https://www.westminster.ac.uk](https://www.westminster.ac.uk)
+ - date_published: 2024-06-21T15:53:43+00:00
+
+ ## White Rose Research Online
+ - [http://eprints.whiterose.ac.uk](http://eprints.whiterose.ac.uk)
+ - date_published: 2024-06-24T10:32:06.043646+00:00
+
+ ## Wiltshire College & University Centre
+ - [https://www.wiltshire.ac.uk](https://www.wiltshire.ac.uk)
+ - date_published: 2024-08-06T10:59:45.802625+00:00
+
+ ## Winchester Online Store
+ - [https://store.winchester.ac.uk](https://store.winchester.ac.uk)
+ - date_published: 2024-06-18T10:52:43.271696+00:00
+
+ ## Home - University of Winchester
+ - [https://winchester.ac.uk](https://winchester.ac.uk)
+ - date_published: 2024-10-21T10:16:35.668976+00:00
+
+ ## University of Wolverhampton - University of Wolverhampton
+ - [http://www.wlv.ac.uk](http://www.wlv.ac.uk)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## HOW College | Heart of Worcestershire College
+ - [http://www.wortech.ac.uk](http://www.wortech.ac.uk)
+ - date_published: 2024-08-06T10:59:41.452979+00:00
+
+ ## White Rose College of the Arts & Humanities
+ - [https://wrocah.ac.uk](https://wrocah.ac.uk)
+ - date_published: 2024-07-04T13:15:06.170631+00:00
+
+ ## West Suffolk College - Diplomas, Degrees, Apprenticeships & T Levels
+ - [https://www.wsc.ac.uk](https://www.wsc.ac.uk)
+ - date_published: 2025-02-01T21:31:03.480959+00:00
+
+ ## WUN
+ - [http://www.wun.ac.uk](http://www.wun.ac.uk)
+ - date_published: 2024-10-21T18:52:53.544929+00:00
+
+ ## University of York Directory
+ - [https://directory.york.ac.uk](https://directory.york.ac.uk)
+ - date_published: 2024-05-02T11:10:49.526939+00:00
+
+ ## Please log in to continue...
+ - [https://evision.york.ac.uk](https://evision.york.ac.uk)
+ - date_published: 2024-05-02T11:10:52.894496+00:00
+
+ ## Jobs - The University of York
+ - [https://jobs.york.ac.uk](https://jobs.york.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Sign in - Google Accounts
+ - [http://mail.york.ac.uk](http://mail.york.ac.uk)
+ - date_published: 2024-05-02T11:10:54.013934+00:00
+
+ ## University of York
+ - [https://shib.york.ac.uk](https://shib.york.ac.uk)
+ - date_published: 2021-03-09T16:54:44+00:00
+
+ ## Sign in - Matomo
+ - [https://styx.york.ac.uk](https://styx.york.ac.uk)
+ - date_published: 2024-06-17T18:03:53.701484+00:00
+
+ ## Subject Guides: Subject Guides Home: Subject Guides homepage
+ - [https://subjectguides.york.ac.uk](https://subjectguides.york.ac.uk)
+ - date_published: 2024-10-20T08:31:22.725825+00:00
+
+ ## Guides for Online Learning Tools at University of York, UK
+ - [https://vle-support.york.ac.uk](https://vle-support.york.ac.uk)
+ - date_published: 2024-06-12T11:18:28+00:00
+
+ ## Yorkshare
+ - [https://vle.york.ac.uk](https://vle.york.ac.uk)
+ - date_published: 2004-06-17T19:23:24+00:00
+
+ ## Computer Science - Computer Science, University of York
+ - [https://www.cs.york.ac.uk](https://www.cs.york.ac.uk)
+ - date_published: 2023-10-25T22:50:02.708001+00:00
+
+ ## University of York
+ - [http://www-users.cs.york.ac.uk](http://www-users.cs.york.ac.uk)
+ - date_published: 2024-06-08T03:34:25+00:00
+
+ ## University of York
+ - [http://www-users.york.ac.uk](http://www-users.york.ac.uk)
+ - date_published: 2024-06-08T03:34:25+00:00
+
+ ## University of York
+ - [https://york.ac.uk](https://york.ac.uk)
+ - date_published: 2024-07-09T08:26:08+00:00
+ - tags: ['university']
+
+ ## Home - Yorkshire Universities
+ - [http://www.yorkshireuniversities.ac.uk](http://www.yorkshireuniversities.ac.uk)
+ - date_published: 2024-10-18T18:01:15.715270+00:00
+
+ ## Kingswood School, Bath | An Independent Co-educational Day & Boarding School
+ - [https://www.kingswood.bath.sch.uk](https://www.kingswood.bath.sch.uk)
+ - date_published: 2025-02-09T16:44:35.484032+00:00
+
+ ## Inactive
+ - [http://www.bishopveseys.bham.sch.uk](http://www.bishopveseys.bham.sch.uk)
+ - date_published: 2024-07-13T11:13:25.408617+00:00
+
+ ## 007GB Fan Club
+ - [http://007gb.co.uk](http://007gb.co.uk)
+ - date_published: 2023-06-13T11:48:56+00:00
+
+ ## JAMES BOND 007 MAGAZINE - FOR THE JAMES BOND CONNOISSEUR!
+ - [http://www.007magazine.co.uk](http://www.007magazine.co.uk)
+ - date_published: 2024-06-26T16:54:29+00:00
+
+ ## 0xBEEF
+ - [https://0xbeef.co.uk](https://0xbeef.co.uk)
+ - date_published: 2024-05-11T22:07:06.413330+00:00
+
+ ## Cheap London Escorts from £100 - Outcall Escorts Agency
+ - [http://100escorts.co.uk](http://100escorts.co.uk)
+ - date_published: 2023-08-09T03:16:33+00:00
+
+ ## {10-11} Carlton House Terrace - London Wedding and Conference Venue
+ - [https://10-11cht.co.uk](https://10-11cht.co.uk)
+ - date_published: 2024-09-18T07:56:18.058302+00:00
+
+ ## UK's Top Classified Ads Platform - 123ClassifiedAds
+ - [https://123classifiedads.co.uk](https://123classifiedads.co.uk)
+ - date_published: 2025-01-20T19:50:04.685538+00:00
+
+ ## UK's Top Classified Ads Platform - 123ClassifiedAds
+ - [https://www.123classifiedads.co.uk](https://www.123classifiedads.co.uk)
+ - date_published: 2025-01-20T19:44:30.934716+00:00
+
+ ## Web Hosting, Domain Registration & Web Design Company
+ - [http://www.123connect.co.uk](http://www.123connect.co.uk)
+ - date_published: 2024-11-16T20:43:27.478527+00:00
+
+ ## Domains, websites, email and web hosting services | 123 Reg
+ - [https://123-reg.co.uk](https://123-reg.co.uk)
+ - date_published: 2024-03-16T19:43:49.924225+00:00
+
+ ## Sign In
+ - [https://dcc.123-reg.co.uk](https://dcc.123-reg.co.uk)
+ - date_published: 2024-07-13T12:29:06.141142+00:00
+
+ ## Check
+ - [https://gui.123-reg.co.uk](https://gui.123-reg.co.uk)
+ - date_published: 2024-05-11T07:23:06.260684+00:00
+
+ ## Sign In
+ - [https://productivity.123-reg.co.uk](https://productivity.123-reg.co.uk)
+ - date_published: 2024-07-13T12:29:04.652732+00:00
+
+ ## Sign In
+ - [https://sso.123-reg.co.uk](https://sso.123-reg.co.uk)
+ - date_published: 2024-05-11T07:23:05.177294+00:00
+
+ ## Home
+ - [https://supportcenter.123-reg.co.uk](https://supportcenter.123-reg.co.uk)
+ - date_published: 2024-05-11T07:23:08.146682+00:00
+
+ ## Welcome to 123 Reg Webmail | Webmail log in | 123 Reg
+ - [https://webmail.123-reg.co.uk](https://webmail.123-reg.co.uk)
+ - date_published: 2024-05-11T07:23:12.681747+00:00
+
+ ## 123 Reg – Status
+ - [https://123-status.co.uk](https://123-status.co.uk)
+ - date_published: 2024-05-11T07:23:09.625924+00:00
+
+ ## 12 Devs is back!
+ - [http://12devs.co.uk](http://12devs.co.uk)
+ - date_published: 2024-12-24T10:55:41.364217+00:00
+
+ ## Alternative Armies
+ - [http://15mm.co.uk](http://15mm.co.uk)
+ - date_published: 2024-07-20T09:11:04.614776+00:00
+
+ ## 16ARLINGTON
+ - [https://16arlington.co.uk](https://16arlington.co.uk)
+ - date_published: 2025-01-18T07:56:48.571753+00:00
+
+ ## 17 SECONDS
+ - [https://17seconds.co.uk](https://17seconds.co.uk)
+ - date_published: 2025-01-01T17:47:07.336704+00:00
+
+ ## SEO Experts | 195SEO
+ - [https://195seo.co.uk](https://195seo.co.uk)
+ - date_published: 2024-05-15T16:13:06+00:00
+
+ ## 1981 Media
+ - [https://1981media.co.uk](https://1981media.co.uk)
+ - date_published: 2021-05-13T10:54:13+00:00
+
+ ## Webmail Login - IONOS UK
+ - [https://email.1and1.co.uk](https://email.1and1.co.uk)
+ - date_published: 2024-06-17T19:47:22.294659+00:00
+
+ ## Here I am
+ - [http://www.1by1.co.uk](http://www.1by1.co.uk)
+ - date_published: 2024-08-18T09:49:43.352021+00:00
+
+ ## 1-dating.co.uk - 1 dating Zasoby i informacje.
+ - [http://www.1-dating.co.uk](http://www.1-dating.co.uk)
+ - date_published: 2024-11-16T20:11:46+00:00
+
+ ## Home - 1st Corps
+ - [http://www.1stcorps.co.uk](http://www.1stcorps.co.uk)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Asda, Sainsburys Or Tesco Dining Tables & Chairs? BEST Dining Sets For Sale UK
+ - [https://www.1st-for-furniture.co.uk](https://www.1st-for-furniture.co.uk)
+ - date_published: 2022-02-07T23:56:15+00:00
+
+ ## Make Money Completing Tasks & Offers With 20Cogs.co.uk
+ - [https://20cogs.co.uk](https://20cogs.co.uk)
+ - date_published: 2024-10-22T19:19:46.946178+00:00
+
+ ## Local Electricians - Emergency Electricians
+ - [https://www.247electric.co.uk](https://www.247electric.co.uk)
+ - date_published: 2024-10-22T12:45:33.352290+00:00
+
+ ## Local Male & Female driving instructors - Manual & Automatic
+ - [https://www.2nd2nonedrivingschool.co.uk](https://www.2nd2nonedrivingschool.co.uk)
+ - date_published: 2025-02-04T03:57:59.758517+00:00
+
+ ## Explore Unique Creations at Two-Tone Designs UK
+ - [https://2tonedesign.co.uk](https://2tonedesign.co.uk)
+ - date_published: 2025-01-16T10:52:40.153423+00:00
+
+ ## 3:16am philosophy interviews and cardboard paintings
+ - [https://www.3-16am.co.uk](https://www.3-16am.co.uk)
+ - date_published: 2024-06-16T21:16:24+00:00
+
+ ## 321movies
+ - [https://321movies.co.uk](https://321movies.co.uk)
+ - date_published: 2024-11-12T17:11:04.042877+00:00
+ - tags: ['movies', 'piracy']
+
+ ## Home | 33Across UK
+ - [https://www.33across.co.uk](https://www.33across.co.uk)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## 360 Marketing Lab - IMMERSIVE 360º VIRTUAL TOURS FOR SCHOOLS, FOR EVERYONE
+ - [https://360marketinglab.co.uk](https://360marketinglab.co.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Creative & Brand Design Agency Edinburgh | 39steps
+ - [https://www.39steps.co.uk](https://www.39steps.co.uk)
+ - date_published: 2024-11-24T16:59:27+00:00
+
+ ## 3CX Webclient
+ - [https://dtcompphones.3cx.co.uk](https://dtcompphones.3cx.co.uk)
+ - date_published: 2024-10-21T03:42:59.869691+00:00
+
+ ## 3CX Phone System Management Console
+ - [https://pulseeight.3cx.co.uk](https://pulseeight.3cx.co.uk)
+ - date_published: 2024-04-24T13:44:54+00:00
+
+ ## Home | 3D KINGDOMS 3D printed Gaming and miniatures collector store England
+ - [https://www.3dkingdoms.co.uk](https://www.3dkingdoms.co.uk)
+ - date_published: 2024-10-26T18:20:04.034803+00:00
+
+ ## 3D Printing On Demand UK | Rapid Prototyping | Service |
+ - [https://www.3dmitech.co.uk](https://www.3dmitech.co.uk)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## 3D Print Direct
+ - [https://3dprintdirect.co.uk](https://3dprintdirect.co.uk)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Home
+ - [https://3dprint-uk.co.uk](https://3dprint-uk.co.uk)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## 3M News Centre - News Centre
+ - [https://news.3m.co.uk](https://news.3m.co.uk)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Post-it® Brand - Products, Ideas, Programmes
+ - [https://post-it.3m.co.uk](https://post-it.3m.co.uk)
+ - date_published: 2025-01-02T10:10:36.510246+00:00
+
+ ## 3M Science. Applied to Life. | 3M in the UK
+ - [https://www.3m.co.uk](https://www.3m.co.uk)
+ - date_published: 2024-08-06T10:39:09.196999+00:00
+
+ ## Webflow Agency UK - 3SIX5 Webflow Experts
+ - [https://www.3six5digital.co.uk](https://www.3six5digital.co.uk)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Where travel brands go digital
+ - [https://3sixty.co.uk](https://3sixty.co.uk)
+ - date_published: 2024-06-18T10:12:25.797693+00:00
+
+ ## Veni Vidi Vici transfers + wargaming
+ - [http://www.3vwargames.co.uk](http://www.3vwargames.co.uk)
+ - date_published: 2024-02-04T16:15:16+00:00
+
+ ## Alex Parker's Website
+ - [http://3zanders.co.uk](http://3zanders.co.uk)
+ - date_published: 2018-02-26T23:16:41+00:00
+ - tags: ['personal']
+
+ ## 40 Watt Sun
+ - [http://40wattsun.co.uk](http://40wattsun.co.uk)
+ - date_published: 2024-12-21T20:02:07+00:00
+
+ ## DomainLore: .uk Domain Sales and Auctions
+ - [https://www.4ground.co.uk](https://www.4ground.co.uk)
+ - date_published: 2024-12-31T15:46:47.631910+00:00
+
+ ## Dietary supplements for men and women | 4HIM & 4HER
+ - [http://4him4her.co.uk](http://4him4her.co.uk)
+ - date_published: 2024-06-29T17:08:54.695152+00:00
+
+ ## Broadcast, Film, Television and Production directory and news service
+ - [http://www.4rfv.co.uk](http://www.4rfv.co.uk)
+ - date_published: 2024-12-15T00:00:55.896978+00:00
+
+ ## Home - 4th Estate
+ - [https://www.4thestate.co.uk](https://www.4thestate.co.uk)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Madeon | Adventure Machine
+ - [https://adventuremachine.4thfloorcreative.co.uk](https://adventuremachine.4thfloorcreative.co.uk)
+ - date_published: 2023-12-11T19:48:17+00:00
+
+ ## We do discounts on a large range of Wargaming Miniatures, Terrain and Hobby Supplies
+ - [http://www.4tk.co.uk](http://www.4tk.co.uk)
+ - date_published: 2024-12-31T22:41:01.176590+00:00
+
+ ## A 5000 mile walk
+ - [https://5000milewalk.co.uk](https://5000milewalk.co.uk)
+ - date_published: 2024-05-02T12:44:18.993996+00:00
+
+ ## London’s Secret Jazz Age Experience
+ - [https://58thstreet.co.uk](https://58thstreet.co.uk)
+ - date_published: 2024-10-20T09:47:45.306421+00:00
+
+ ## 5 Best is coming soon
+ - [http://www.5-best.co.uk](http://www.5-best.co.uk)
+ - date_published: 2024-11-16T21:29:37.131922+00:00
+
+ ## 6a architects
+ - [http://6a.co.uk](http://6a.co.uk)
+ - date_published: 2024-07-13T15:56:01.972426+00:00
+
+ ## Six Degrees - Homepage
+ - [https://6dg.co.uk](https://6dg.co.uk)
+ - date_published: 2024-05-09T07:18:14.065959+00:00
+
+ ## Home | 878 AD - Step into Anglo-Saxon Winchester
+ - [https://878ad.co.uk](https://878ad.co.uk)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Cool T-Shirts | Unique Tee Designs | 8Ball T-Shirts Shop
+ - [http://www.8ball.co.uk](http://www.8ball.co.uk)
+ - date_published: 2024-12-14T22:01:58.351847+00:00
+
+ ## The Best Betting Sites for the Premier League - 8Betting.co.uk
+ - [http://8betting.co.uk](http://8betting.co.uk)
+ - date_published: 2025-01-23T12:39:14.640826+00:00
+
+ ## Home
+ - [https://bookings.91aparthoteljesmondroad.co.uk](https://bookings.91aparthoteljesmondroad.co.uk)
+ - date_published: 2024-10-20T08:47:30.954994+00:00
+
+ ## Home
+ - [https://www.91aparthoteljesmondroad.co.uk](https://www.91aparthoteljesmondroad.co.uk)
+ - date_published: 2024-10-20T08:47:45.416661+00:00
+
+ ## 999lingo.co.uk - 999lingo Zasoby i informacje.
+ - [http://www.999lingo.co.uk](http://www.999lingo.co.uk)
+ - date_published: 2024-11-16T21:39:30+00:00
+
+ ## Logos, Web, Graphic Design & More. | 99designs
+ - [https://99designs.co.uk](https://99designs.co.uk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## A1 Proofreading UK
+ - [https://www.a1proofreading.co.uk](https://www.a1proofreading.co.uk)
+ - date_published: 2024-10-22T12:46:29.025934+00:00
+
+ ## The Best Web Hosting Services at 20x Speeds - A2 Hosting
+ - [https://www.a2hosting.co.uk](https://www.a2hosting.co.uk)
+ - date_published: 2024-06-20T08:48:31+00:00
+
+ ## Home Page - A and A Game Engineering
+ - [http://www.aandagames.co.uk](http://www.aandagames.co.uk)
+ - date_published: 2024-10-24T11:01:43+00:00
+
+ ## AARC Professional Services Ltd | Railway Consultancy Services
+ - [https://www.aarcps.co.uk](https://www.aarcps.co.uk)
+ - date_published: 2024-06-29T09:26:45.697539+00:00
+
+ ## Aardvark Design Studio
+ - [http://www.aardvark.co.uk](http://www.aardvark.co.uk)
+ - date_published: 2022-08-01T15:33:28+00:00
+
+ ## Best Web Design, SEO, Digital Marketing - Aardvark Media Web Services
+ - [http://www.aardvarkmedia.co.uk](http://www.aardvarkmedia.co.uk)
+ - date_published: 2022-03-18T00:00:00+00:00
+
+ ## Aaron Conway | Developer, Designer, one or the other.
+ - [https://aaronconway.co.uk](https://aaronconway.co.uk)
+ - date_published: 2024-05-11T10:09:17.196196+00:00
+
+ ## Aaron Skipper
+ - [http://aaronskipper.co.uk](http://aaronskipper.co.uk)
+ - date_published: 2024-07-13T14:56:50.381736+00:00
+
+ ## Dr AARON WATSON
+ - [http://www.aaronwatson.co.uk](http://www.aaronwatson.co.uk)
+ - date_published: 2024-07-12T05:58:23.885815+00:00
+
+ ## The Aarskog Foundation - Home
+ - [https://www.aarskogsyndromefoundation.co.uk](https://www.aarskogsyndromefoundation.co.uk)
+ - date_published: 2024-06-28T11:54:10+00:00
+
+ ## 500e, 695, 600e | Electric Sports Cars | Abarth Cars UK
+ - [https://www.abarthcars.co.uk](https://www.abarthcars.co.uk)
+ - date_published: 2024-06-17T12:40:04+00:00
+
+ ## ABA Surveying - Land and Civil Engineering Surveying Services
+ - [https://abasurveying.co.uk](https://abasurveying.co.uk)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Abba Cakes Wirral | Desserts, Brownies Cookies & Confectionary
+ - [http://abbacakes.co.uk](http://abbacakes.co.uk)
+ - date_published: 2024-12-24T07:22:19.013130+00:00
+
+ ## Abbey Road Institute
+ - [https://abbeyroadinstitute.co.uk](https://abbeyroadinstitute.co.uk)
+ - date_published: 2025-02-04T03:32:55.285753+00:00
+
+ ## Abbey Road Institute
+ - [http://www.abbeyroadinstitute.co.uk](http://www.abbeyroadinstitute.co.uk)
+ - date_published: 2025-02-04T03:32:47.381223+00:00
+
+ ## AbeBooks | Shop for Books, Art & Collectibles
+ - [https://abebooks.co.uk](https://abebooks.co.uk)
+ - date_published: 2024-04-29T03:31:31.704994+00:00
+
+ ## Abebooks
+ - [https://support.abebooks.co.uk](https://support.abebooks.co.uk)
+ - date_published: 2023-08-07T04:15:01+00:00
+
+ ## Organic food delivery. Organic vegetable boxes, fruit, meat & more | Abel & Cole
+ - [https://www.abelandcole.co.uk](https://www.abelandcole.co.uk)
+ - date_published: 2024-10-17T07:33:03.445610+00:00
+
+ ## Fancy Dress Costumes, Fancy Dress, Halloween Costumes, Abfab fancy dress
+ - [http://www.abfab.co.uk](http://www.abfab.co.uk)
+ - date_published: 2024-11-16T19:46:57.211952+00:00
+
+ ## UK Web Directory - AbiLogic.UK
+ - [http://www.abilogic.co.uk](http://www.abilogic.co.uk)
+ - date_published: 2024-06-29T19:12:45.040470+00:00
+
+ ## Web Design Lewes | Digital Marketing Visibility Agency | Abisti
+ - [https://abisti.co.uk](https://abisti.co.uk)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Building Maintenance and Facility Services - ABM UK
+ - [https://www.abm.co.uk](https://www.abm.co.uk)
+ - date_published: 2025-02-04T04:55:42.645159+00:00
+
+ ## Bong Shop | UK Head Shop | Buy Bongs & Water Pipes
+ - [https://www.abongshop.co.uk](https://www.abongshop.co.uk)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## About Amazon
+ - [https://aboutamazon.co.uk](https://aboutamazon.co.uk)
+ - date_published: 2024-05-01T02:02:46.251879+00:00
+
+ ## Home - Amazon Sustainability
+ - [https://sustainability.aboutamazon.co.uk](https://sustainability.aboutamazon.co.uk)
+ - date_published: 2024-06-15T02:14:48.096643+00:00
+
+ ## About Wayfair | Learn More About The Company
+ - [https://aboutwayfair.co.uk](https://aboutwayfair.co.uk)
+ - date_published: 2025-02-04T05:08:52.234175+00:00
+
+ ## Above Digital | Web Design Agency in Reading and London
+ - [https://abovedigital.co.uk](https://abovedigital.co.uk)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Alister Bulman
+ - [https://abulman.co.uk](https://abulman.co.uk)
+ - date_published: 2023-12-27T18:13:12.519753+00:00
+ - tags: ['personal']
+
+ ## WPsites
+ - [https://wp.abulman.co.uk](https://wp.abulman.co.uk)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Home | AccessAble
+ - [https://www.accessable.co.uk](https://www.accessable.co.uk)
+ - date_published: 2024-05-02T10:56:28.414718+00:00
+
+ ## AccessAble Consultancy | Disability, equality and access consultancy services
+ - [https://www.accessableconsultancy.co.uk](https://www.accessableconsultancy.co.uk)
+ - date_published: 2024-06-17T18:15:43.890712+00:00
+
+ ## Website Accessibility Testing | Shaw Trust Accessibility Services
+ - [https://www.accessibility-services.co.uk](https://www.accessibility-services.co.uk)
+ - date_published: 2024-06-16T15:03:41.116691+00:00
+
+ ## The leading online publication for the accounting profession | AccountingWEB
+ - [http://accountingweb.co.uk](http://accountingweb.co.uk)
+ - date_published: 2024-07-10T05:50:36+00:00
+
+ ## Accrington's Business Directory - in association with Accrington Observer
+ - [https://directory.accringtonobserver.co.uk](https://directory.accringtonobserver.co.uk)
+ - date_published: 2024-09-20T16:31:42.621052+00:00
+
+ ## Cierpliwości...
+ - [https://accu.co.uk](https://accu.co.uk)
+ - date_published: 2024-06-04T05:33:22.493037+00:00
+
+ ## AccuSpark Electronic Ignition
+ - [https://accuspark.co.uk](https://accuspark.co.uk)
+ - date_published: 2024-01-21T17:00:42+00:00
+
+ ## Number Plate Supplier - Replacement Number Plates Wigan - Ace Plates NW
+ - [https://ace-plates-nw.co.uk](https://ace-plates-nw.co.uk)
+ - date_published: 2021-02-27T14:11:14+00:00
+
+ ## Acid Jazz Records – The home of Acid Jazz
+ - [https://www.acidjazz.co.uk](https://www.acidjazz.co.uk)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## The Acoustic Centre  London  England  The Original Acoustic Guitar Specialist
+ - [http://www.acousticcentre.co.uk](http://www.acousticcentre.co.uk)
+ - date_published: 2025-02-01T21:06:14.714026+00:00
+
+ - [https://www.acousticity.co.uk](https://www.acousticity.co.uk)
+ - date_published: 2024-02-08T16:46:29.767866+00:00
+
+ ## Active IQ | Leading UK Awarding Organisation
+ - [https://activeiq.co.uk](https://activeiq.co.uk)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Optimise Productivity with Active Office UK"
+ - [https://active-office.co.uk](https://active-office.co.uk)
+ - date_published: 2025-01-16T10:50:08.537610+00:00
+
+ ## HR Software That Puts Your People First - Activ People HR
+ - [https://www.activpeoplehr.co.uk](https://www.activpeoplehr.co.uk)
+ - date_published: 2024-10-17T10:03:30.683678+00:00
+
+ ## Acuity Training - Equipping You For The Next Stage In Your Career
+ - [http://www.acuitytraining.co.uk](http://www.acuitytraining.co.uk)
+ - date_published: 2024-07-17T00:04:20+00:00
+
+ ## Acumore Consulting
+ - [https://acumore.co.uk](https://acumore.co.uk)
+ - date_published: 2024-08-02T09:43:54+00:00
+
+ ## Folded with Adam Bienkov | Substack
+ - [https://www.adambienkov.co.uk](https://www.adambienkov.co.uk)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Adam Collier
+ - [http://adamcollier.co.uk](http://adamcollier.co.uk)
+ - date_published: 2024-06-23T05:55:53.908512+00:00
+
+ ## Adam K Dean
+ - [https://adamkdean.co.uk](https://adamkdean.co.uk)
+ - date_published: 2023-10-25T08:56:16.522890+00:00
+ - tags: ['personal']
+
+ ## GPT Unicorn
+ - [https://gpt-unicorn.adamkdean.co.uk](https://gpt-unicorn.adamkdean.co.uk)
+ - date_published: 2023-10-25T22:50:04.452981+00:00
+
+ ## LaTeX Editor
+ - [https://latex.adamkdean.co.uk](https://latex.adamkdean.co.uk)
+ - date_published: 2023-05-05T11:39:07+00:00
+
+ ## Dr. Adam Procter - practitioner-researcher
+ - [https://adamprocter.co.uk](https://adamprocter.co.uk)
+ - date_published: 2024-04-02T18:18:39+00:00
+
+ ## researchnot.es discourse
+ - [https://discourse.adamprocter.co.uk](https://discourse.adamprocter.co.uk)
+ - date_published: 2024-07-10T09:01:19.450975+00:00
+
+ ## Dr. Adam Procter
+		- Dr. Adam Procter
+ - [https://discursive.adamprocter.co.uk](https://discursive.adamprocter.co.uk)
+ - date_published: 2024-07-09T21:37:37+00:00
+
+ ## Fragmentum – A microcast from Adam Procter
+ - [https://fragmentum.adamprocter.co.uk](https://fragmentum.adamprocter.co.uk)
+ - date_published: 2024-07-10T09:01:37.454257+00:00
+
+ ## Sign in · GitLab
+ - [https://gitlab.adamprocter.co.uk](https://gitlab.adamprocter.co.uk)
+ - date_published: 2024-07-10T09:01:30.516960+00:00
+
+ ## Dr. Adam Procter - microcast
+ - [https://microcast.adamprocter.co.uk](https://microcast.adamprocter.co.uk)
+ - date_published: 2024-04-09T20:48:41+00:00
+
+ ## PhD Documentation | Manifold Scholarship
+ - [https://thesis.adamprocter.co.uk](https://thesis.adamprocter.co.uk)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Powered by Coffee
+ - [https://adamstorr.co.uk](https://adamstorr.co.uk)
+ - date_published: 2024-04-26T07:56:09+00:00
+
+ ## www.adamwakeman.co.uk
+ - [http://www.adamwakeman.co.uk](http://www.adamwakeman.co.uk)
+ - date_published: 2024-12-26T20:44:28.539566+00:00
+
+ ## Emmy-nominated filmmaker and artist Adam Westbrook
+ - [https://adamwestbrook.co.uk](https://adamwestbrook.co.uk)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Windows, Doors & Conservatories Installers | Bournemouth & Dorset |
+ - [https://adamwindowcentres.co.uk](https://adamwindowcentres.co.uk)
+ - date_published: 2024-10-20T20:41:47.598651+00:00
+
+ ## Web Design, Digital Marketing Agency in Rugby, Warwickshire | ADAO
+ - [https://adao.co.uk](https://adao.co.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Data & AI | Telefónica Tech UK
+ - [https://adatis.co.uk](https://adatis.co.uk)
+ - date_published: 2024-08-18T15:24:05.465617+00:00
+
+ ## Additive Manufacturing Solutions (AMS)
+ - [https://www.additive-manufacturing.co.uk](https://www.additive-manufacturing.co.uk)
+ - date_published: 2025-01-10T07:55:33+00:00
+
+ ## Add to Event | Find and book the best suppliers for your event
+ - [https://www.addtoevent.co.uk](https://www.addtoevent.co.uk)
+ - date_published: 2024-10-21T03:43:10.415936+00:00
+
+ ## Jobs Recruitment, Staffing, & Employment Agency | Adecco UK
+ - [https://adecco.co.uk](https://adecco.co.uk)
+ - date_published: 2024-05-24T14:40:56+00:00
+
+ ## Adelan SOFC | Fuel cell and hydrogen applications for industry
+ - [https://adelan.co.uk](https://adelan.co.uk)
+ - date_published: 2024-05-07T10:16:42.298615+00:00
+
+ ## Adept - The Charity Design Experts
+ - [https://adeptdesign.co.uk](https://adeptdesign.co.uk)
+ - date_published: 2024-10-21T03:03:14.131144+00:00
+
+ ## adidas Official Website UK | Sportswear
+ - [https://adidas.co.uk](https://adidas.co.uk)
+ - date_published: 2024-05-11T10:47:23.470635+00:00
+
+ ## Adido - Web Design & Digital Marketing Agency Bournemouth - Adido Digital
+ - [https://www.adido-digital.co.uk](https://www.adido-digital.co.uk)
+ - date_published: 2024-09-10T08:07:22.505058+00:00
+
+ ## Maritime Safety Information
+ - [https://msi.admiralty.co.uk](https://msi.admiralty.co.uk)
+ - date_published: 2024-05-02T11:11:04.355822+00:00
+
+ ## ADMIRALTY Maritime Data Solutions
+ - [https://www.admiralty.co.uk](https://www.admiralty.co.uk)
+ - date_published: 2023-10-25T22:50:10.346848+00:00
+
+ ## Adoptech | Intelligent security compliance built for scale
+ - [https://adoptech.co.uk](https://adoptech.co.uk)
+ - date_published: 2025-02-09T10:23:04.549352+00:00
+
+ ## Aideen Doran
+ - [http://www.adoran.co.uk](http://www.adoran.co.uk)
+ - date_published: 2025-02-01T13:58:38.593813+00:00
+
+ ## Specialist Car, Van & Home Insurance for the Individual | Adrian Flux
+ - [https://adrianflux.co.uk](https://adrianflux.co.uk)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Home Page
+ - [https://customers.adrianflux.co.uk](https://customers.adrianflux.co.uk)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Callback | Adrian Flux
+ - [https://quotes.adrianflux.co.uk](https://quotes.adrianflux.co.uk)
+ - date_published: 2024-05-02T11:11:10.681173+00:00
+
+ ## Andrew Benham's Web Site
+ - [http://www.adsb.co.uk](http://www.adsb.co.uk)
+ - date_published: 2023-11-16T07:10:42+00:00
+
+ ## Welcome to AdSmart from Sky
+ - [https://www.adsmartfromsky.co.uk](https://www.adsmartfromsky.co.uk)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## PAPAFA - Trik Super Akurat Slot Piggy Master Hari Ini
+ - [http://ad-tech-claims.co.uk](http://ad-tech-claims.co.uk)
+ - date_published: 2025-02-03T05:10:07.799426+00:00
+
+ ## Digital Marketing Agency in Nottingham | Full-Service Agency | Adtrak
+ - [https://www.adtrak.co.uk](https://www.adtrak.co.uk)
+ - date_published: 2024-10-21T19:27:44.858529+00:00
+
+ ## Advanced Fighting Fantasy
+ - [https://advancedfightingfantasy.co.uk](https://advancedfightingfantasy.co.uk)
+ - date_published: 2025-01-31T04:37:30.416542+00:00
+
+ ## Advanced Infrastructure Technology Limited
+ - [https://www.advanced-infrastructure.co.uk](https://www.advanced-infrastructure.co.uk)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Advancing Analytics
+ - [https://www.advancinganalytics.co.uk](https://www.advancinganalytics.co.uk)
+ - date_published: 2024-07-04T08:01:06+00:00
+
+ ## Adventure Game Studio
+ - [https://adventuregamestudio.co.uk](https://adventuregamestudio.co.uk)
+ - date_published: 2024-05-08T05:22:16.288567+00:00
+
+ ## UK Free Classifieds Ads | Post Free Ads Online United Kingdom
+ - [https://www.adzs.co.uk](https://www.adzs.co.uk)
+ - date_published: 2025-01-21T19:56:22.505877+00:00
+
+ ## Jobs in London, the UK & Beyond | Adzuna
+ - [https://www.adzuna.co.uk](https://www.adzuna.co.uk)
+ - date_published: 2024-10-22T11:01:04.827682+00:00
+
+ ## - AEGIS Engineering Systems
+ - [https://aegisengineering.co.uk](https://aegisengineering.co.uk)
+ - date_published: 2024-06-29T09:21:52.913757+00:00
+
+ ## Sign In
+ - [https://ap3.aegon.co.uk](https://ap3.aegon.co.uk)
+ - date_published: 2024-09-25T19:41:04.409032+00:00
+
+ ## Sign In
+ - [https://nationwide.aegon.co.uk](https://nationwide.aegon.co.uk)
+ - date_published: 2024-06-16T06:02:18.821880+00:00
+
+ ## Cierpliwości...
+ - [https://www.aerialcombat.co.uk](https://www.aerialcombat.co.uk)
+ - date_published: 2024-04-12T00:20:43.172628+00:00
+ - tags: ['personal', 'blog']
+
+ ## Home - Aerial Exposure - Professional drone services
+ - [https://aerialexposure.co.uk](https://aerialexposure.co.uk)
+ - date_published: 2019-07-21T00:00:00+00:00
+
+ ## AeroExpo UK 2024 | General Aviation Exhibition
+ - [https://www.aeroexpo.co.uk](https://www.aeroexpo.co.uk)
+ - date_published: 2024-10-27T19:16:08.173389+00:00
+
+ ## Affiliate Future
+ - [http://affiliatefuture.co.uk](http://affiliatefuture.co.uk)
+ - date_published: 2024-12-19T13:09:54.660218+00:00
+
+ ## AGA Cookshop | Official Online Shop
+ - [https://agacookshop.co.uk](https://agacookshop.co.uk)
+ - date_published: 2024-09-05T23:40:23.314193+00:00
+
+ ## Agape Dating - Dating Sites & Apps Reviews, Tips and Advice
+ - [https://www.agapedating.co.uk](https://www.agapedating.co.uk)
+ - date_published: 2024-02-22T08:54:44+00:00
+
+ ## M&IT Experience
+ - [https://agencychallenge.co.uk](https://agencychallenge.co.uk)
+ - date_published: 2024-07-03T20:46:26.201699+00:00
+
+ ## Agriaffaires, classified ads for new and used farm equipment - Agriaffaires
+ - [https://www.agriaffaires.co.uk](https://www.agriaffaires.co.uk)
+ - date_published: 2025-02-09T15:14:07.941652+00:00
+
+ ## Farming News - Farming In UK - UK Farmers - British Farmers - Agriland.co.uk
+ - [https://agriland.co.uk](https://agriland.co.uk)
+ - date_published: 2024-08-18T09:36:53.066000+00:00
+
+ ## AI Creative Summit
+ - [https://www.aicreativesummit.co.uk](https://www.aicreativesummit.co.uk)
+ - date_published: 2025-02-01T21:18:48.941816+00:00
+
+ ## Aidan Cooper
+ - [https://www.aidancooper.co.uk](https://www.aidancooper.co.uk)
+ - date_published: 2024-11-25T16:12:24.153408+00:00
+
+ ## AI E-books - Create Ebooks using AI
+ - [https://ai-ebooks.co.uk](https://ai-ebooks.co.uk)
+ - date_published: 2024-09-13T20:26:00.891749+00:00
+
+ ## AIESEC UK - Develop youth leadership
+ - [https://www.aiesec.co.uk](https://www.aiesec.co.uk)
+ - date_published: 2025-02-09T15:01:22.528988+00:00
+
+ ## Welcome to AIM - AIM - Association of Independent Museums
+ - [https://aim-museums.co.uk](https://aim-museums.co.uk)
+ - date_published: 2025-01-15T05:07:44.276335+00:00
+
+ ## Ainsty Castings – War Gaming Scenics
+ - [https://ainsty-castings.co.uk](https://ainsty-castings.co.uk)
+ - date_published: 2024-07-20T08:52:12.403722+00:00
+
+ ## Ainsty Castings – War Gaming Scenics
+ - [https://ainstycastings.co.uk](https://ainstycastings.co.uk)
+ - date_published: 2024-07-20T06:28:42.500971+00:00
+
+ ## Airbnb | Holiday rentals, cabins, beach houses & more
+ - [https://airbnb.co.uk](https://airbnb.co.uk)
+ - date_published: 2024-05-06T00:00:00+00:00
 
