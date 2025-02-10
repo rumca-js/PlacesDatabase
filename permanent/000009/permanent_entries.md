@@ -1,3 +1,83 @@
+ ## FH Salzburg
+ - [https://fh-salzburg.ac.at](https://fh-salzburg.ac.at)
+ - date_published: 2025-02-04T06:29:49.838303+00:00
+
+ ## FH Salzburg
+ - [https://www.fh-salzburg.ac.at](https://www.fh-salzburg.ac.at)
+ - date_published: 2024-12-31T06:09:21.419631+00:00
+
+ ## Fachhochschule St. Pölten
+ - [https://fhstp.ac.at](https://fhstp.ac.at)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Login | Der Wissenschaftsfonds
+ - [https://elane.fwf.ac.at](https://elane.fwf.ac.at)
+ - date_published: 2024-07-02T01:32:53.208034+00:00
+
+ ## Home
+ - [https://fwf.ac.at](https://fwf.ac.at)
+ - date_published: 2024-05-07T21:01:43.544614+00:00
+
+ ## Home
+ - [https://pf.fwf.ac.at](https://pf.fwf.ac.at)
+ - date_published: 2024-07-01T05:46:56.044522+00:00
+
+ ## Sign in - Matomo
+ - [https://piwik.fwf.ac.at](https://piwik.fwf.ac.at)
+ - date_published: 2024-07-02T01:32:56.538851+00:00
+
+ ## Das Wissenschaftsmagazin des FWF
+ - [https://scilog.fwf.ac.at](https://scilog.fwf.ac.at)
+ - date_published: 2024-07-02T01:32:55.386717+00:00
+
+ ## Home
+ - [https://www.hmdw.ac.at](https://www.hmdw.ac.at)
+ - date_published: 2024-07-04T17:27:49+00:00
+
+ ## Montag, 20. Jänner 2025 - myPoint
+ - [https://i-med.ac.at](https://i-med.ac.at)
+ - date_published: 2025-01-20T18:54:32.561978+00:00
+
+ ## Donnerstag, 16. Jänner 2025 - myPoint
+ - [https://www.i-med.ac.at](https://www.i-med.ac.at)
+ - date_published: 2025-01-16T09:33:27.129307+00:00
+
+ ## ISTA Homepage
+ - [https://ist.ac.at](https://ist.ac.at)
+ - date_published: 2024-10-27T12:05:43.644790+00:00
+
+ ## ISTA Homepage
+ - [http://www.ist-austria.ac.at](http://www.ist-austria.ac.at)
+ - date_published: 2024-08-19T20:41:01.326545+00:00
+
+ ## Josephinum – Sammlungen der Medizinischen Universität Wien | Josephinum
+ - [http://www.josephinum.ac.at](http://www.josephinum.ac.at)
+ - date_published: 2024-06-24T09:45:47.655085+00:00
+
+ ## ESMira
+ - [https://demo-esmira.kl.ac.at](https://demo-esmira.kl.ac.at)
+ - date_published: 2024-06-19T22:23:03.016363+00:00
+
+ ## ESMira
+ - [https://esmira.kl.ac.at](https://esmira.kl.ac.at)
+ - date_published: 2024-06-19T22:13:37.125912+00:00
+
+ ## Max Perutz Labs • Catalyzing Discovery­ in Mechanistic Biomedicine
+ - [https://www.maxperutzlabs.ac.at](https://www.maxperutzlabs.ac.at)
+ - date_published: 2024-07-01T05:48:10.371178+00:00
+
+ ## Universitätsbibliothek | ub.mdw
+ - [https://bibliothek.mdw.ac.at](https://bibliothek.mdw.ac.at)
+ - date_published: 2024-07-04T17:27:46.404697+00:00
+
+ ## Home | mdw - Universität für Musik und darstellende Kunst Wien
+ - [https://mdw.ac.at](https://mdw.ac.at)
+ - date_published: 2024-05-08T07:05:23.971727+00:00
+
+ ## mdw Mediathek
+ - [https://mediathek.mdw.ac.at](https://mediathek.mdw.ac.at)
+ - date_published: 2024-07-04T17:27:56.280392+00:00
+
  ## Loading
  - [https://online.mdw.ac.at](https://online.mdw.ac.at)
  - date_published: 2024-03-25T10:25:10+00:00
@@ -1052,6 +1132,10 @@
  - [https://www.bose.at](https://www.bose.at)
  - date_published: 2025-02-01T21:02:48.556691+00:00
 
+ ## Premium Tyres and Mobility Solutions | Bridgestone Österreich | Premium Tyres and Mobility Solutions
+ - [https://www.bridgestone.at](https://www.bridgestone.at)
+ - date_published: 2025-02-09T23:27:17.738353+00:00
+
  ## Brother Online
  - [https://atyourside.brother.at](https://atyourside.brother.at)
  - date_published: 2024-06-17T21:03:52.172392+00:00
@@ -1067,6 +1151,10 @@
  ## brunnmeister.atwebsite in der Warteschleife
  - [https://brunnmeister.at](https://brunnmeister.at)
  - date_published: 2024-07-18T06:13:34.489383+00:00
+
+ ## IIS Windows Server
+ - [http://tracking.btg.at](http://tracking.btg.at)
+ - date_published: 2025-02-09T23:22:40.321971+00:00
 
  ## Özlem Bulut – Official Website
  - [https://www.bulut.at](https://www.bulut.at)
@@ -1743,6 +1831,10 @@
  - [https://sponsoring.erstebank.at](https://sponsoring.erstebank.at)
  - date_published: 2024-07-01T08:05:53.246838+00:00
 
+ ## Private Banking
+ - [https://www.ersteprivatebanking.at](https://www.ersteprivatebanking.at)
+ - date_published: 2025-02-09T23:20:20.713116+00:00
+
  ## ESF: Europäischer Sozialfonds in Österreich
  - [https://esf.at](https://esf.at)
  - date_published: 2024-07-18T08:12:29.035198+00:00
@@ -2015,6 +2107,10 @@
  ## (c) 2005 EDIS.AT Internet Services
  - [https://finsi.at](https://finsi.at)
  - date_published: 2005-06-23T20:19:02+00:00
+
+ ## Home
+ - [https://www.firestonereifen.at](https://www.firestonereifen.at)
+ - date_published: 2025-02-09T23:27:50.467323+00:00
 
  ## Sparen, Handeln & Anlegen bei den Profis | flatex.at
  - [https://flatex.at](https://flatex.at)
@@ -3926,100 +4022,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## ORF Sound
  - [https://podcast.orf.at](https://podcast.orf.at)
  - date_published: 2024-06-17T14:13:20+00:00
-
- ## Presseportal
- - [https://presse.orf.at](https://presse.orf.at)
- - date_published: 2024-05-27T15:27:05+00:00
-
- ## ORF Publikumsrat - der.ORF.at
- - [https://publikumsrat.orf.at](https://publikumsrat.orf.at)
- - date_published: 2024-06-18T15:41:13.553542+00:00
-
- ## RKH Startpage
- - [https://radiokulturhaus.orf.at](https://radiokulturhaus.orf.at)
- - date_published: 2024-05-02T13:34:58.141062+00:00
-
- ## ORF Sound
- - [https://radio.orf.at](https://radio.orf.at)
- - date_published: 2024-10-22T11:23:17.109263+00:00
-
- ## ORF Sound
- - [https://radiothek.orf.at](https://radiothek.orf.at)
- - date_published: 2024-10-22T11:26:00.365502+00:00
-
- ## religion.ORF.at
- - [https://religion.orf.at](https://religion.orf.at)
- - date_published: 2024-06-18T15:41:29.274051+00:00
-
- ## Startseite | rso.ORF.at
- - [https://rso.orf.at](https://rso.orf.at)
- - date_published: 2024-06-18T15:37:42.354407+00:00
-
- ## ORF.at Open News
- - [https://rss.orf.at](https://rss.orf.at)
- - date_published: 2024-05-22T04:08:23+00:00
-
- ## salzburg.ORF.at
- - [https://salzburg.orf.at](https://salzburg.orf.at)
- - date_published: 2024-10-22T11:23:12.136107+00:00
-
- ## science.ORF.at
- - [https://science.orf.at](https://science.orf.at)
- - date_published: 2024-06-18T15:41:17.578483+00:00
-
- ## ORF-Shop
- - [https://shop.orf.at](https://shop.orf.at)
- - date_published: 2024-06-18T15:37:46.845343+00:00
-
- ## ORF Sound
- - [https://sound.orf.at](https://sound.orf.at)
- - date_published: 2024-06-17T14:13:20+00:00
-
- ## sport.ORF.at
- - [https://sport.orf.at](https://sport.orf.at)
- - date_published: 2024-06-18T15:41:07.840370+00:00
-
- ## steiermark.ORF.at
- - [https://steiermark.orf.at](https://steiermark.orf.at)
- - date_published: 2024-07-13T09:04:01.480265+00:00
-
- ## teletext.ORF.at
- - [https://teletext.orf.at](https://teletext.orf.at)
- - date_published: 2023-08-30T21:06:19+00:00
-
- ## Home - ORF-Ticketservice
- - [https://tickets.orf.at](https://tickets.orf.at)
- - date_published: 2024-06-18T15:41:25.598773+00:00
-
- ## tirol.ORF.at
- - [https://tirol.orf.at](https://tirol.orf.at)
- - date_published: 2024-10-22T11:27:54.474825+00:00
-
- ## ORF Topos
- - [https://topos.orf.at](https://topos.orf.at)
- - date_published: 2024-05-22T08:10:17+00:00
-
- ## ORF.at
- - [https://tubestatic.orf.at](https://tubestatic.orf.at)
- - date_published: 2016-02-08T09:23:54+00:00
-
- ## tv.ORF.at - tv.ORF.at
- - [https://tv.orf.at](https://tv.orf.at)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Abonnieren Sie den ORF-extra-Newsletter - extra-newsletter.ORF.at
- - [https://tvthek-newsletter.orf.at](https://tvthek-newsletter.orf.at)
- - date_published: 2024-10-22T11:27:52.235577+00:00
-
- ## ORF ON
- - [https://tvthek.orf.at](https://tvthek.orf.at)
- - date_published: 2024-06-18T15:41:06.116452+00:00
-
- ## Volksgruppen Übersicht
- - [https://volksgruppen.orf.at](https://volksgruppen.orf.at)
- - date_published: 2024-06-18T15:41:15.746661+00:00
-
- ## vorarlberg.ORF.at
- - [https://vorarlberg.orf.at](https://vorarlberg.orf.at)
- - date_published: 2024-10-22T11:27:55.604643+00:00
 

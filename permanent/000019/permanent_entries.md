@@ -1,3 +1,216 @@
+ ## garry.net
+ - [https://garry.blog](https://garry.blog)
+ - date_published: 2023-10-25T09:01:42.242618+00:00
+ - tags: ['personal']
+
+ ## Numerous Narratives — Trying To Create Worthwhile Words, Sent...
+ - [https://garyarmstrong.blog](https://garyarmstrong.blog)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## RGB — Home
+ - [https://richard.gazdik.blog](https://richard.gazdik.blog)
+ - date_published: 2024-07-04T12:57:12.853175+00:00
+
+ ## The Official Gen Con Blog
+ - [https://gencon.blog](https://gencon.blog)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## genehack.blog
+ - [https://genehack.blog](https://genehack.blog)
+ - date_published: 2023-11-22T09:04:44.779260+00:00
+ - tags: ['personal']
+
+ ## Get On With It - Writing and drawings about work, family and the stuff in-between
+ - [https://getonwithit.blog](https://getonwithit.blog)
+ - date_published: 2024-01-28T13:20:52.795737+00:00
+
+ ## Gibberish - Blog like you text.
+ - [https://gibber.blog](https://gibber.blog)
+ - date_published: 2024-05-04T07:00:31.960299+00:00
+
+ ## Getting Started with Gibberish
+ - [https://learn.gibber.blog](https://learn.gibber.blog)
+ - date_published: 2024-10-30T05:50:20.461240+00:00
+
+ ## Gibberish and Stuff
+ - [https://zhenyi.gibber.blog](https://zhenyi.gibber.blog)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Random musings on life, tech, and whatever else
+ - [https://gigatexal.blog](https://gigatexal.blog)
+ - date_published: 2024-06-01T04:53:53.025102+00:00
+
+ ## The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
+ - [https://github.blog](https://github.blog)
+ - date_published: 2023-10-25T11:32:12.073420+00:00
+
+ ## Giulia in Finlandia -
+ - [https://giuliainfinlandia.blog](https://giuliainfinlandia.blog)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Home | etcetera
+ - [https://giuliomagnifico.blog](https://giuliomagnifico.blog)
+ - date_published: 2023-10-25T12:00:23.624308+00:00
+
+ ## Umami
+ - [https://umami.giuliomagnifico.blog](https://umami.giuliomagnifico.blog)
+ - date_published: 2024-08-19T11:04:19.447488+00:00
+
+ ## Gloria González Fuster
+ - [https://glgonzalezfuster.blog](https://glgonzalezfuster.blog)
+ - date_published: 2024-06-23T03:24:13+00:00
+
+ ## Global Investigations & Compliance Review
+ - [https://globalinvestigations.blog](https://globalinvestigations.blog)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## GlotPress
+ - [https://glotpress.blog](https://glotpress.blog)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Gregory Pittman
+ - [https://golfdeltapapa.blog](https://golfdeltapapa.blog)
+ - date_published: 2024-08-01T23:47:35+00:00
+
+ ## Good Thoughts | Richard Y Chappell | Substack
+ - [https://goodthoughts.blog](https://goodthoughts.blog)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## The Got Questions Blog by S. Michael Houdmann
+ - [https://gotquestions.blog](https://gotquestions.blog)
+ - date_published: 2018-09-10T00:00:00+00:00
+
+ ## gravyfromthegazebo
+ - [https://gravyfromthegazebo.blog](https://gravyfromthegazebo.blog)
+ - date_published: 2024-12-31T17:10:31.051528+00:00
+
+ ## ראשי
+ - [https://greatgame.blog](https://greatgame.blog)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## The Prism | Gurwinder | Substack
+ - [https://gurwinder.blog](https://gurwinder.blog)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Haikal Kushahrin
+ - [https://haikal.blog](https://haikal.blog)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Sam Hall
+ - [https://hamsall.blog](https://hamsall.blog)
+ - date_published: 2025-02-04T11:52:19+00:00
+
+ ## Handstands Around the World
+ - [http://handstandsaroundtheworld.blog](http://handstandsaroundtheworld.blog)
+ - date_published: 2025-01-20T18:50:45.569155+00:00
+
+ ## handwritten.blog
+ - [https://handwritten.blog](https://handwritten.blog)
+ - date_published: 2022-10-02T12:35:13+00:00
+ - tags: ['personal']
+
+ ## The Happy Developer
+ - [https://happydev.blog](https://happydev.blog)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Personal website | grevehoiby.dk
+ - [https://haralds.blog](https://haralds.blog)
+ - date_published: 2024-04-30T14:21:51.979778+00:00
+
+ ## Hari Shanker R
+ - [https://hari.blog](https://hari.blog)
+ - date_published: 2024-05-12T06:26:27.986579+00:00
+
+ ## Harper Reed's Blog
+ - [https://harper.blog](https://harper.blog)
+ - date_published: 2024-04-13T15:58:22.195168+00:00
+ - tags: ['personal']
+
+ ## Microblogs ‘R’ Us
+ - [https://hasa.blog](https://hasa.blog)
+ - date_published: 2024-07-14T08:32:55.316256+00:00
+
+ ## はてなブログ | 無料ブログを作成しよう
+ - [https://hatena.blog](https://hatena.blog)
+ - date_published: 2024-08-07T14:05:50.223769+00:00
+
+ ## Havn
+ - [https://havn.blog](https://havn.blog)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Life on the Road Less Traveled
+ - [http://heidihesssaxton.blog](http://heidihesssaxton.blog)
+ - date_published: 2025-01-22T22:18:04.290103+00:00
+
+ ## hertig.blog
+ - [https://hertig.blog](https://hertig.blog)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Home
+ - [https://hidde.blog](https://hidde.blog)
+ - date_published: 2024-06-21T22:18:15.765567+00:00
+
+ ## Hive
+ - [https://hive.blog](https://hive.blog)
+ - date_published: 2024-04-30T07:34:16.203098+00:00
+
+ ## Hive Wallet
+ - [https://wallet.hive.blog](https://wallet.hive.blog)
+ - date_published: 2024-07-21T02:18:31.512267+00:00
+
+ ## In jawls humble opinion. Christians Blog.
+ - [https://hmbl.blog](https://hmbl.blog)
+ - date_published: 2024-07-02T17:53:22+00:00
+
+ ## A Little Blob of Hope
+ - [http://alittleblobofhope.home.blog](http://alittleblobofhope.home.blog)
+ - date_published: 2024-12-16T14:37:54.494219+00:00
+
+ ## Autistic & Finding Dopamine
+ - [https://autisticandfindingdopmine.home.blog](https://autisticandfindingdopmine.home.blog)
+ - date_published: 2024-09-03T22:46:12.021973+00:00
+
+ ## some compact thoughts
+ - [https://backus.home.blog](https://backus.home.blog)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home.blog
+ - [https://baileygreenmystorythroughautism.home.blog](https://baileygreenmystorythroughautism.home.blog)
+ - date_published: 2024-09-03T22:58:55+00:00
+
+ ## Blue Remembered Trolls
+ - [https://bluerememberedtrolls.home.blog](https://bluerememberedtrolls.home.blog)
+ - date_published: 2024-09-03T22:17:06.884891+00:00
+
+ ## Book Escapes with BabsW67
+ - [http://bookescapes.home.blog](http://bookescapes.home.blog)
+ - date_published: 2025-02-03T04:25:23.617465+00:00
+
+ ## The Burping Bullfrog
+ - [http://burpingbullfrog.home.blog](http://burpingbullfrog.home.blog)
+ - date_published: 2025-02-03T04:32:03.791652+00:00
+
+ ## ComStar
+ - [https://comstar.home.blog](https://comstar.home.blog)
+ - date_published: 2024-10-26T22:09:28.572416+00:00
+
+ ## DonDagen
+ - [https://dondagen.home.blog](https://dondagen.home.blog)
+ - date_published: 2023-12-14T06:53:35.668494+00:00
+ - tags: ['personal']
+
+ ## Don't Let The Days Go By
+ - [https://dontletthedaysgoby.home.blog](https://dontletthedaysgoby.home.blog)
+ - date_published: 2024-07-16T16:34:06.819420+00:00
+
+ ## (no title)
+ - [https://earlymodernworld.home.blog](https://earlymodernworld.home.blog)
+ - date_published: 2025-02-01T20:48:09.117498+00:00
+
+ ## Fantastic Reads
+ - [http://fantasticreads.home.blog](http://fantasticreads.home.blog)
+ - date_published: 2025-02-03T04:24:49.025112+00:00
+
  ## Garden Breeze
  - [https://gardenbreeze.home.blog](https://gardenbreeze.home.blog)
  - date_published: 2024-10-23T07:49:16.082082+00:00
@@ -119,6 +332,10 @@
  ## Home of the Grumpy Gnome
  - [https://thegrumpygnome.home.blog](https://thegrumpygnome.home.blog)
  - date_published: 2024-10-26T17:54:20.984842+00:00
+
+ ## The Happy Book Blog
+ - [http://thehappybookblog.home.blog](http://thehappybookblog.home.blog)
+ - date_published: 2025-02-09T23:47:59.977204+00:00
 
  ## The Reading Closet
  - [http://thereadingcloset.home.blog](http://thereadingcloset.home.blog)
@@ -248,6 +465,10 @@
  ## Jiko Kaizen
  - [https://jikokaizen.blog](https://jikokaizen.blog)
  - date_published: 2024-07-20T03:09:28.627028+00:00
+
+ ## Jill's Book Cafe
+ - [https://jillsbookcafe.blog](https://jillsbookcafe.blog)
+ - date_published: 2025-02-09T23:54:33.358458+00:00
 
  ## Jan-Lukas Else
  - [https://jlelse.blog](https://jlelse.blog)
@@ -3841,221 +4062,4 @@ Educação
  ## Altruísmo Eficaz
  - [https://altruismoeficaz.com.br](https://altruismoeficaz.com.br)
  - date_published: 2024-06-29T22:26:31.275309+00:00
-
- ## Revista Amarello - Cultura em brasileiro
- - [https://amarello.com.br](https://amarello.com.br)
- - date_published: 2025-01-24T22:16:20.326874+00:00
-
- ## Amazon.com.br | Tudo pra você, de A a Z.
- - [https://amazon.com.br](https://amazon.com.br)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## Portal de Associados da Amazon.com.br
- - [https://associados.amazon.com.br](https://associados.amazon.com.br)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Proteção de marca na Amazon: Proteja a marca que você desenvolveu
- - [https://brandservices.amazon.com.br](https://brandservices.amazon.com.br)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Amazon Kindle: sua biblioteca pessoal gratuita que você pode levar para qualquer lugar
- - [https://ler.amazon.com.br](https://ler.amazon.com.br)
- - date_published: 2024-06-24T04:14:40.378358+00:00
-
- ## Comece a vender na Amazon com mensalidade GRÁTIS por 1 ano | Venda na Amazon
- - [https://venda.amazon.com.br](https://venda.amazon.com.br)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## AMDB Soluções Digitais
- - [https://www.amdb.com.br](https://www.amdb.com.br)
- - date_published: 2019-03-01T14:30:28+00:00
-
- ## Americanas - passou, cestou.
- - [https://www.americanas.com.br](https://www.americanas.com.br)
- - date_published: 2024-11-08T13:04:50.529620+00:00
-
- ## Home
- - [https://ametek.com.br](https://ametek.com.br)
- - date_published: 2024-06-15T10:44:33.059141+00:00
-
- ## AnaMaria Receitas - Receitas Testadas e Aprovadas
- - [https://anamariareceitas.com.br](https://anamariareceitas.com.br)
- - date_published: 2024-06-28T15:30:58+00:00
-
- ## Anastassiadis
- - [https://anastassiadis.com.br](https://anastassiadis.com.br)
- - date_published: 2025-01-24T22:12:54.298244+00:00
-
- ## Institucional – ANBIMA
- - [https://www.anbima.com.br](https://www.anbima.com.br)
- - date_published: 2024-09-29T20:20:29.142748+00:00
-
- ## A. Niemeyer
- - [https://loja.aniemeyer.com.br](https://loja.aniemeyer.com.br)
- - date_published: 2025-01-24T22:15:24.766443+00:00
-
- ## Annablume
- - [http://www.annablume.com.br](http://www.annablume.com.br)
- - date_published: 2024-07-12T20:44:08.355203+00:00
-
- ## ANSA Brasil
- - [https://ansabrasil.com.br](https://ansabrasil.com.br)
- - date_published: 2024-05-06T15:14:38.371552+00:00
-
- ## Loja AOC
- - [https://www.aoc.com.br](https://www.aoc.com.br)
- - date_published: 2024-06-19T23:49:15.120224+00:00
-
- ## HOME - Apema
- - [https://apema.com.br](https://apema.com.br)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Home | ApexBrasil
- - [https://apexbrasil.com.br](https://apexbrasil.com.br)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Melhores Casas de Apostas e Bônus do Brasil 2024
- - [https://apostasebonus.com.br](https://apostasebonus.com.br)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Apostila Opção
- - [https://www.apostilasopcao.com.br](https://www.apostilasopcao.com.br)
- - date_published: 2024-07-15T06:20:04.706148+00:00
-
- ## Apowersoft - Software e Soluções Online para o Trabalho e a Vida
- - [https://www.apowersoft.com.br](https://www.apowersoft.com.br)
- - date_published: 2024-06-23T16:06:05.896159+00:00
-
- ## Página inacessível
- - [https://unifeob.apprbs.com.br](https://unifeob.apprbs.com.br)
- - date_published: 2024-10-11T11:38:22.467619+00:00
-
- ## Integração Rubeus
- - [https://tracking.apprubeus.com.br](https://tracking.apprubeus.com.br)
- - date_published: 2024-10-11T11:42:22.332669+00:00
-
- ## ARAQUARELA
- - [https://www.araquarela.com.br](https://www.araquarela.com.br)
- - date_published: 2024-07-03T02:16:29.737181+00:00
-
- ## ARAUCARIA DX GROUP
- - [https://www.araucariadx.com.br](https://www.araucariadx.com.br)
- - date_published: 2025-01-15T19:29:41.006972+00:00
-
- ## ArcelorMittal é Aço | ArcelorMittal
- - [http://brasil.arcelormittal.com.br](http://brasil.arcelormittal.com.br)
- - date_published: 2024-07-13T02:17:19.684043+00:00
-
- ## A revista da mulher
- - [https://arevistadamulher.com.br](https://arevistadamulher.com.br)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Dicas sobre sabão e cuidado com roupas sujas – Ariel
- - [https://arielbrasil.com.br](https://arielbrasil.com.br)
- - date_published: 2024-10-18T13:14:34+00:00
-
- ## Arroba Nerd
- - [https://www.arrobanerd.com.br](https://www.arrobanerd.com.br)
- - date_published: 2024-12-26T17:12:32+00:00
-
- ## Secad - Atualização Continuada para Profissionais da Saúde
- - [https://secad.artmed.com.br](https://secad.artmed.com.br)
- - date_published: 2025-01-22T04:55:37.983427+00:00
-
- ## Artmed360 | Cursos na área da saúde, 100% online :: Artmed360
- - [https://www.artmed360.com.br](https://www.artmed360.com.br)
- - date_published: 2025-01-22T04:56:33.210971+00:00
-
- ## A Seguir: Niterói
- - [https://aseguirniteroi.com.br](https://aseguirniteroi.com.br)
- - date_published: 2025-01-15T20:03:54.883775+00:00
-
- ## ASILO PADRE CACIQUE
- - [https://asilopadrecacique.com.br](https://asilopadrecacique.com.br)
- - date_published: 2024-06-15T17:37:36.829149+00:00
-
- ## RadASM assembler IDE
- - [http://assembly.com.br](http://assembly.com.br)
- - date_published: 2024-02-18T21:56:54+00:00
- - tags: ['programming ide', 'assembly']
-
- ## Cartola
- - [https://assinecartola.com.br](https://assinecartola.com.br)
- - date_published: 2024-10-28T12:33:47.096835+00:00
-
- ## Assine Clube - Central de Assinaturas da Editora CARAS
- - [https://assineclube.com.br](https://assineclube.com.br)
- - date_published: 2024-07-11T17:33:03.896749+00:00
-
- ## Assine Coquetel
- - [https://assinecoquetel.com.br](https://assinecoquetel.com.br)
- - date_published: 2024-05-10T07:03:26.697586+00:00
-
- ## Home | Assine Culturama
- - [https://www.assineculturama.com.br](https://www.assineculturama.com.br)
- - date_published: 2022-01-13T00:00:00+00:00
-
- ## Assine Salvat - Garanta já sua assinatura
- - [https://www.assinesalvat.com.br](https://www.assinesalvat.com.br)
- - date_published: 2024-12-30T22:06:47.140813+00:00
-
- ## Ateliê do Crochê - Blog de Crochê
- - [https://ateliedocroche.com.br](https://ateliedocroche.com.br)
- - date_published: 2024-12-20T09:18:15.724332+00:00
-
- ## ATR-PRINCIPAL - A Terra é Redonda
- - [https://aterraeredonda.com.br](https://aterraeredonda.com.br)
- - date_published: 2024-12-19T15:48:10+00:00
-
- ## ATOMIC PC - Consultoria e Suporte Técnico em Informática
- - [https://www.atomicpc.com.br](https://www.atomicpc.com.br)
- - date_published: 2024-07-20T13:17:36.291031+00:00
-
- ## Sistema para Gestão de Marketing Multinível – O ATOMMN é a mais poderosa ferramenta para gestão do canal de Marketing Multinível. Com quinze anos de mercado, somos líderes em tecnologia para o setor.
- - [https://www.atommn.com.br](https://www.atommn.com.br)
- - date_published: 2024-07-20T09:39:55.280199+00:00
-
- ## Audi Brasil
- - [https://www.audi.com.br](https://www.audi.com.br)
- - date_published: 2024-07-19T20:28:40+00:00
-
- ## Help Center Desktop
- - [https://ajuda.audible.com.br](https://ajuda.audible.com.br)
- - date_published: 2023-09-03T14:55:35+00:00
-
- ## Audible | Audible.com.br
- - [https://audible.com.br](https://audible.com.br)
- - date_published: 2024-05-27T07:40:04.946488+00:00
-
- ## Auto Compara
- - [https://www.autocompara.com.br](https://www.autocompara.com.br)
- - date_published: 2024-06-16T09:16:26.235790+00:00
-
- ## Autonomia Literária
- - [https://autonomialiteraria.com.br](https://autonomialiteraria.com.br)
- - date_published: 2024-12-20T09:12:17.631396+00:00
-
- ## Autoracing
- - [https://www.autoracing.com.br](https://www.autoracing.com.br)
- - date_published: 2024-12-26T17:30:29.846647+00:00
-
- ## 💥 Auto-Roulette: 15x Mais Rodadas? Não Reboleta, Roleta! 🎰
- - [https://autoroulette.com.br](https://autoroulette.com.br)
- - date_published: 2025-02-03T01:05:15.342359+00:00
-
- ## Aventuras na História
- - [https://aventurasnahistoria.com.br](https://aventurasnahistoria.com.br)
- - date_published: 2024-07-11T17:32:57.271178+00:00
-
- ## Aviator Aposta | Jogo do Aviãozinho Com Dinheiro Real
- - [https://aposta.aviators.com.br](https://aposta.aviators.com.br)
- - date_published: 2024-10-30T14:17:20+00:00
-
- ## Aviator Aposta | Jogo do Aviãozinho Com Dinheiro Real
- - [https://aviators.com.br](https://aviators.com.br)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Awari
- - [https://app.awari.com.br](https://app.awari.com.br)
- - date_published: 2024-07-04T13:04:25+00:00
 

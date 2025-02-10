@@ -1,3 +1,143 @@
+ ## Menzies - School of Health Research
+ - [https://www.menzies.edu.au](https://www.menzies.edu.au)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Marine Education Society of Australasia
+ - [http://mesa.edu.au](http://mesa.edu.au)
+ - date_published: 2024-05-07T22:37:30.029995+00:00
+
+ ## Electrical and Computer Systems Engineering
+ - [https://ecse.monash.edu.au](https://ecse.monash.edu.au)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Faculty of Engineering | Monash University
+ - [https://eng.monash.edu.au](https://eng.monash.edu.au)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## User Web Pages
+ - [https://users.monash.edu.au](https://users.monash.edu.au)
+ - date_published: 2024-04-29T06:29:16.110633+00:00
+
+ ## Home
+ - [http://www.monash.edu.au](http://www.monash.edu.au)
+ - date_published: 2024-12-20T18:27:02.467652+00:00
+
+ ## Macquarie University Research Data Repository (RDR) - Browse
+ - [https://figshare.mq.edu.au](https://figshare.mq.edu.au)
+ - date_published: 2024-07-04T13:16:22.278327+00:00
+
+ ## The Lighthouse
+ - [https://lighthouse.mq.edu.au](https://lighthouse.mq.edu.au)
+ - date_published: 2023-10-25T11:57:05.757498+00:00
+
+ ## Macquarie University
+ - [https://researchers.mq.edu.au](https://researchers.mq.edu.au)
+ - date_published: 2024-05-04T15:33:47.266809+00:00
+
+ ## Current Students MQ - Macquarie University
+ - [https://students.mq.edu.au](https://students.mq.edu.au)
+ - date_published: 2025-01-21T16:47:20.192674+00:00
+
+ ## Faculties | About Macquarie University
+ - [http://web.science.mq.edu.au](http://web.science.mq.edu.au)
+ - date_published: 2024-12-03T21:47:52.238634+00:00
+
+ ## Log In - Wiki.mq.edu.au
+ - [https://wiki.mq.edu.au](https://wiki.mq.edu.au)
+ - date_published: 2024-06-22T10:40:35.815721+00:00
+
+ ## School of Computing | Science and Engineering | Macquarie University | Sydney
+ - [http://www.comp.mq.edu.au](http://www.comp.mq.edu.au)
+ - date_published: 2025-01-31T09:29:49.875986+00:00
+
+ ## Faculties | About Macquarie University
+ - [http://www.ics.mq.edu.au](http://www.ics.mq.edu.au)
+ - date_published: 2024-07-04T14:44:47.961096+00:00
+
+ ## Macquarie University | Tertiary Education
+ - [https://www.mq.edu.au](https://www.mq.edu.au)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Department of Philosophy - Macquarie University
+ - [http://www.phil.mq.edu.au](http://www.phil.mq.edu.au)
+ - date_published: 2024-07-01T20:23:31.265829+00:00
+
+ ## School of Mathematical and Physical Sciences | Macquarie Uni
+ - [http://www.physics.mq.edu.au](http://www.physics.mq.edu.au)
+ - date_published: 2024-10-19T07:37:27.038600+00:00
+
+ ## https://researchportal.murdoch.edu.au
+ - [https://researchportal.murdoch.edu.au](https://researchportal.murdoch.edu.au)
+ - date_published: 2023-11-02T21:28:40.626985+00:00
+
+ ## Murdoch University
+ - [https://www.murdoch.edu.au](https://www.murdoch.edu.au)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Transforming lives through medical research | Neuroscience Research…
+ - [https://www.neura.edu.au](https://www.neura.edu.au)
+ - date_published: 2024-07-14T07:44:56.028675+00:00
+
+ ## Log in to canvas
+ - [https://canvas.newcastle.edu.au](https://canvas.newcastle.edu.au)
+ - date_published: 2023-05-02T00:00:00+00:00
+
+ ## 澳大利亚纽卡斯尔大学中文官网
+ - [https://china.newcastle.edu.au](https://china.newcastle.edu.au)
+ - date_published: 2024-12-02T22:41:38+00:00
+
+ ## The University of Newcastle
+ - [https://newcastle.edu.au](https://newcastle.edu.au)
+ - date_published: 2024-10-30T20:16:03.193975+00:00
+
+ ## The Shop | The University of Newcastle
+ - [https://shop.newcastle.edu.au](https://shop.newcastle.edu.au)
+ - date_published: 2024-12-15T12:24:36.353770+00:00
+
+ ## Home - NSIP
+ - [https://www.nsip.edu.au](https://www.nsip.edu.au)
+ - date_published: 2025-02-03T15:01:08.472572+00:00
+
+ ## Online Courses, Degrees & Subjects | Open Universities Australia
+ - [https://www.open.edu.au](https://www.open.edu.au)
+ - date_published: 2024-07-20T02:42:13.493029+00:00
+
+ ## Online Courses Australia - Diplomas & Certificates | Open Colleges
+ - [https://www.opencolleges.edu.au](https://www.opencolleges.edu.au)
+ - date_published: 2025-01-31T02:37:19.527336+00:00
+
+ ## PMSA - Presbyterian and Methodist Schools Association - Queensland independent schools • PMSA
+ - [https://pmsa-schools.edu.au](https://pmsa-schools.edu.au)
+ - date_published: 2025-01-15T10:08:26.136256+00:00
+
+ ## QPR – Quality in Postgraduate Research
+ - [http://qpr.edu.au](http://qpr.edu.au)
+ - date_published: 2024-06-17T14:07:30.698484+00:00
+
+ ## QUT Alumni and Friends
+ - [https://alumni-and-friends.qut.edu.au](https://alumni-and-friends.qut.edu.au)
+ - date_published: 2024-09-13T17:16:33.343895+00:00
+
+ ## QUT Blogs – Home
+ - [https://blogs.qut.edu.au](https://blogs.qut.edu.au)
+ - date_published: 2024-09-13T17:16:26.268816+00:00
+
+ ## Login - Squiz Matrix
+ - [https://cms.qut.edu.au](https://cms.qut.edu.au)
+ - date_published: 2024-09-13T17:17:02.322622+00:00
+
+ ## QUT ePrints
+ - [http://eprints.qut.edu.au](http://eprints.qut.edu.au)
+ - date_published: 2024-05-22T02:38:50.595109+00:00
+
+ ## Home
+ - [https://online.qut.edu.au](https://online.qut.edu.au)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Home
+ - [https://qut.edu.au](https://qut.edu.au)
+ - date_published: 2024-05-03T00:00:00+00:00
+
  ## QUT Login
  - [https://qutvirtual4.qut.edu.au](https://qutvirtual4.qut.edu.au)
  - date_published: 2024-09-13T17:16:56.517914+00:00
@@ -3122,6 +3262,10 @@ University of Technology
  - [https://portal.ada.org.au](https://portal.ada.org.au)
  - date_published: 2024-09-03T19:10:22.833039+00:00
 
+ ## ARC Centre of Excellence for Automated Decision-Making and Society | ADM+S
+ - [https://www.admscentre.org.au](https://www.admscentre.org.au)
+ - date_published: 2025-02-09T21:46:35.769308+00:00
+
  ## ADUG – Australian Delphi User Group
  - [http://adug.org.au](http://adug.org.au)
  - date_published: 2024-07-19T15:23:17.868160+00:00
@@ -3480,6 +3624,10 @@ University of Technology
  - [https://www.cftogether.org.au](https://www.cftogether.org.au)
  - date_published: 2024-12-21T07:31:10.159074+00:00
 
+ ## Certified Health Informatician Australasia - CHIA - CHIA
+ - [http://www.chia.org.au](http://www.chia.org.au)
+ - date_published: 2025-02-09T19:20:35.292552+00:00
+
  ## Home - National Centre for Childhood Grief
  - [https://childhoodgrief.org.au](https://childhoodgrief.org.au)
  - date_published: 2024-06-04T00:00:00+00:00
@@ -3575,6 +3723,14 @@ University of Technology
  ## Digital Bioprocess Hub
  - [https://digitalbioprocesshub.org.au](https://digitalbioprocesshub.org.au)
  - date_published: 2024-07-19T19:45:43.680535+00:00
+
+ ## Australasian Institute of Digital Health
+ - [https://digitalhealth.org.au](https://digitalhealth.org.au)
+ - date_published: 2025-02-09T19:21:25.566521+00:00
+
+ ## Calendar - Australasian Institute of Digital Health
+ - [https://members.digitalhealth.org.au](https://members.digitalhealth.org.au)
+ - date_published: 2025-02-09T19:20:41.484692+00:00
 
  ## Home - Digital Rights Watch
  - [https://digitalrightswatch.org.au](https://digitalrightswatch.org.au)
@@ -3794,6 +3950,10 @@ University of Technology
  - date_published: 2024-07-21T23:06:06+00:00
 
  ## HISA - Health Informatics Society of Australia
+ - [https://hisa.org.au](https://hisa.org.au)
+ - date_published: 2025-02-09T19:21:20.324107+00:00
+
+ ## HISA - Health Informatics Society of Australia
  - [https://www.hisa.org.au](https://www.hisa.org.au)
  - date_published: 2025-01-31T20:26:52.246176+00:00
 
@@ -3864,165 +4024,4 @@ University of Technology
  ## Centre of The Australian Way of Life
  - [https://australia.ipa.org.au](https://australia.ipa.org.au)
  - date_published: 2024-06-14T00:00:00+00:00
-
- ## The Institute Of Public Affairs - IPA - The Voice For Freedom
- - [https://ipa.org.au](https://ipa.org.au)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Donate to the Institute of Public Affairs
- - [https://members.ipa.org.au](https://members.ipa.org.au)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Under construction - Awesome site in the making!
- - [http://thefacts2014.ipa.org.au](http://thefacts2014.ipa.org.au)
- - date_published: 2020-11-25T17:32:40+00:00
-
- ## IWW Australasia – The One Big Union For All The Workers
- - [https://www.iww.org.au](https://www.iww.org.au)
- - date_published: 2024-06-23T13:51:08.445118+00:00
-
- ## Joomla! Australia - Joomla! Australia
- - [https://www.joomla.org.au](https://www.joomla.org.au)
- - date_published: 2024-07-14T20:46:22+00:00
-
- ## Home
- - [http://joy.org.au](http://joy.org.au)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## www.jura.org.au
- - [http://www.jura.org.au](http://www.jura.org.au)
- - date_published: 2024-08-19T22:06:23.600139+00:00
-
- ## Kairos Prison Ministry Australia
- - [http://www.kairos.org.au](http://www.kairos.org.au)
- - date_published: 2024-08-12T05:00:00.390131+00:00
-
- ## K'day 2025
- - [https://www.kday.org.au](https://www.kday.org.au)
- - date_published: 2025-01-15T09:50:28.451176+00:00
-
- ## The Port Macquarie Koala Hospital | Koala Conservation Australia Ltd
- - [https://www.koalahospital.org.au](https://www.koalahospital.org.au)
- - date_published: 2024-06-23T17:17:43.676207+00:00
-
- ## Home | Labia Library by Women’s Health Victoria
- - [https://www.labialibrary.org.au](https://www.labialibrary.org.au)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home - Be The Answer
- - [https://fundraise.lifeline.org.au](https://fundraise.lifeline.org.au)
- - date_published: 2024-09-12T15:51:30.412699+00:00
-
- ## Lifeline Australia - 13 11 14 - Crisis Support. Suicide Prevention.
- - [https://lifeline.org.au](https://lifeline.org.au)
- - date_published: 2024-06-12T12:33:03.340100+00:00
-
- ## Lifeline Support Toolkit
- - [https://toolkit.lifeline.org.au](https://toolkit.lifeline.org.au)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Home - LINA
- - [https://lina.org.au](https://lina.org.au)
- - date_published: 2024-08-22T10:54:57+00:00
-
- ## Home - LINA
- - [http://www.lina.org.au](http://www.lina.org.au)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## Index of /
- - [https://mirror.linux.org.au](https://mirror.linux.org.au)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home - Linux Australia
- - [http://www.linux.org.au](http://www.linux.org.au)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## | Liquid Architecture
- - [http://liquidarchitecture.org.au](http://liquidarchitecture.org.au)
- - date_published: 2024-07-12T21:58:38.829158+00:00
-
- ## Lock the Gate
- - [https://www.lockthegate.org.au](https://www.lockthegate.org.au)
- - date_published: 2024-09-25T18:17:28.081682+00:00
-
- ## Logan Healthy Living - Bulk-Billed Type 2 Diabetes Program
- - [https://www.loganhealthyliving.org.au](https://www.loganhealthyliving.org.au)
- - date_published: 2024-12-21T08:08:16.475613+00:00
-
- ## Seeing Eye Dogs - Lucky Puppy Lottery
- - [https://luckypuppylottery.org.au](https://luckypuppylottery.org.au)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Macarthur Astronomical Society – astronomy in sydney's south west
- - [https://macastro.org.au](https://macastro.org.au)
- - date_published: 2024-06-21T13:01:58.730842+00:00
-
- ## Australian Marine Conservation Society - AMCS
- - [https://www.marineconservation.org.au](https://www.marineconservation.org.au)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Market Forces
- - [https://marketforces.org.au](https://marketforces.org.au)
- - date_published: 2025-02-03T19:43:28.476020+00:00
-
- ## Masonicare
- - [http://masonicare.org.au](http://masonicare.org.au)
- - date_published: 2024-10-19T10:03:08.983895+00:00
-
- ## Masonic Orders - masonic calendar
- - [https://www.masonicorders.org.au](https://www.masonicorders.org.au)
- - date_published: 2024-06-17T14:04:55+00:00
-
- ## Home
- - [https://mastermariners.org.au](https://mastermariners.org.au)
- - date_published: 2023-10-25T11:58:09.841193+00:00
-
- ## Attention Required! | Cloudflare
- - [https://fundraise.mater.org.au](https://fundraise.mater.org.au)
- - date_published: 2024-10-14T18:18:26.270902+00:00
-
- ## Mater Foundation | Mater Foundation
- - [https://www.materfoundation.org.au](https://www.materfoundation.org.au)
- - date_published: 2025-01-15T08:58:56.675061+00:00
-
- ## MATES - Industry Based Suicide Prevention - MATES
- - [https://mates.org.au](https://mates.org.au)
- - date_published: 2024-08-17T23:14:00.588457+00:00
- - date_dead_since: 2025-01-15T08:59:12.133254+00:00
-
- ## Home - AMSI
- - [https://maths.org.au](https://maths.org.au)
- - date_published: 2020-05-21T00:00:00+00:00
-
- ## Home - AMSI Careers
- - [https://mathscareers.org.au](https://mathscareers.org.au)
- - date_published: 2016-07-04T00:00:00+00:00
-
- ## Homepage - The Maths Store
- - [https://mathsstore.org.au](https://mathsstore.org.au)
- - date_published: 2025-01-15T09:01:07.279851+00:00
-
- ## Home - Mathematical Association of Western Australia (MAWA)
- - [https://mawainc.org.au](https://mawainc.org.au)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## MCERA – Media Centre for Education Research Australia
- - [https://mcera.org.au](https://mcera.org.au)
- - date_published: 2024-08-18T09:37:19.777789+00:00
-
- ## MOD.
- - [https://mod.org.au](https://mod.org.au)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Myositis Association Australia - Myositis Association Australia
- - [https://myositis.org.au](https://myositis.org.au)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Narconon | Drug Rehabilitation | Drug Education
- - [https://www.narconon.org.au](https://www.narconon.org.au)
- - date_published: 2024-09-04T18:07:17.555456+00:00
-
- ## 2022 Event Information | National Landcare Conference & Awards
- - [https://nationallandcareconference.org.au](https://nationallandcareconference.org.au)
- - date_published: 2025-01-15T09:27:29.718518+00:00
 
