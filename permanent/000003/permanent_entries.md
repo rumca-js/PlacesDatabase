@@ -1,3 +1,23 @@
+ ## App Publishing Partner & AI Apps Pioneer - MWM
+ - [https://mwm.ai](https://mwm.ai)
+ - date_published: 2024-09-02T12:50:14.019199+00:00
+
+ ## Webchat Stage - ALICE
+ - [https://widget.myalice.ai](https://widget.myalice.ai)
+ - date_published: 2023-06-21T11:25:10+00:00
+
+ ## Anima: AI Friend
+ - [https://myanima.ai](https://myanima.ai)
+ - date_published: 2024-06-19T19:54:28+00:00
+
+ ## AI Tutor - Personalized Learning
+ - [https://account.myapps.ai](https://account.myapps.ai)
+ - date_published: 2024-10-30T21:41:49.138959+00:00
+
+ ## Home | AI Tutor
+ - [https://beta.myapps.ai](https://beta.myapps.ai)
+ - date_published: 2024-12-15T07:26:49.174818+00:00
+
  ## Pixio - Content Generation made easy.
  - [https://getpixio.myapps.ai](https://getpixio.myapps.ai)
  - date_published: 2024-10-30T16:29:43+00:00
@@ -1046,6 +1066,10 @@
  ## Pattern | Airport Ground Handling
  - [https://www.patternlabs.ai](https://www.patternlabs.ai)
  - date_published: 2024-12-16T17:20:54.740160+00:00
+
+ ## Vehicle Inspection API
+ - [https://pave.ai](https://pave.ai)
+ - date_published: 2025-02-10T01:39:29.504247+00:00
 
  ## Paxo: AI meeting notes for the real world
  - [https://paxo.ai](https://paxo.ai)
@@ -4014,28 +4038,4 @@
  ## How to Choose between No Upfront, Partial Upfront and All Upfront AWS Compute Savings Plans
  - [https://spconsultant.ai](https://spconsultant.ai)
  - date_published: 2024-07-24T05:41:39+00:00
-
- ## AI Transcription Service | Transcribe Audio to Text | Speech to Text AI
- - [https://speechtext.ai](https://speechtext.ai)
- - date_published: 2024-06-19T19:48:30.439372+00:00
-
- ## SpeedNote AI
- - [https://speednote.ai](https://speednote.ai)
- - date_published: 2024-09-13T08:30:42+00:00
-
- ## Speed of Light AI
- - [https://www.speedoflight.ai](https://www.speedoflight.ai)
- - date_published: 2025-01-23T08:45:53.284570+00:00
-
- ## The Spice AI Blog
- - [https://blog.spice.ai](https://blog.spice.ai)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Welcome to Spice.ai | Spice.ai Documentation
- - [https://docs.spice.ai](https://docs.spice.ai)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Spice AI
- - [https://spice.ai](https://spice.ai)
- - date_published: 2024-03-28T00:00:00+00:00
 

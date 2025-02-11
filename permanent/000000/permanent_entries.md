@@ -2012,6 +2012,14 @@
  - [https://2023.djangocon.africa](https://2023.djangocon.africa)
  - date_published: 2024-01-28T00:00:00+00:00
 
+ ## Identity Provider of UbuntuNet Alliance - eduid.africa
+ - [https://ubuntunet.eduid.africa](https://ubuntunet.eduid.africa)
+ - date_published: 2025-02-10T06:25:33.528612+00:00
+
+ ## Identity Provider of WACREN - wacren.eduid.africa
+ - [https://wacren.wacren.eduid.africa](https://wacren.wacren.eduid.africa)
+ - date_published: 2025-02-10T21:47:41.178645+00:00
+
  ## Productivity Jobs - People Productivity Solutions Nigeria Ltd
  - [https://greatjobs.africa](https://greatjobs.africa)
  - date_published: 2024-09-10T23:52:01.786986+00:00
@@ -4011,12 +4019,4 @@
  ## Home - BadIdeas.AI
  - [https://badideas.ai](https://badideas.ai)
  - date_published: 2024-09-24T21:33:42.588379+00:00
-
- ## Baggins
- - [https://www.baggins.ai](https://www.baggins.ai)
- - date_published: 2024-11-21T02:10:34.954812+00:00
-
- ## Bahama | AI Agent for AI Automation
- - [https://www.bahama.ai](https://www.bahama.ai)
- - date_published: 2024-10-30T22:29:28.916379+00:00
 

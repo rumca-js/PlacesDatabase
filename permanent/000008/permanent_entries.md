@@ -1,3 +1,48 @@
+ ## One-Click YouTube Playlist Downloader
+ - [https://ytdlfree.vercel.app](https://ytdlfree.vercel.app)
+ - date_published: 2024-10-25T15:15:27+00:00
+
+ ## YT idea generator
+ - [https://yt-ideas.vercel.app](https://yt-ideas.vercel.app)
+ - date_published: 2024-06-14T08:57:57.169654+00:00
+
+ ## zk0fficer
+ - [https://zk-officer.vercel.app](https://zk-officer.vercel.app)
+ - date_published: 2024-09-23T12:18:52.154020+00:00
+
+ ## zmov
+ - [https://zmov.vercel.app](https://zmov.vercel.app)
+ - date_published: 2024-11-09T10:26:04+00:00
+ - tags: ['movies', 'piracy']
+
+ ## Very Useful Apps
+ - [https://veryuseful.app](https://veryuseful.app)
+ - date_published: 2024-07-17T05:37:28.597396+00:00
+
+ ## Veyil App - Smart Trips, Sun-Free Adventures
+ - [https://veyil.app](https://veyil.app)
+ - date_published: 2024-11-28T17:17:53+00:00
+
+ ## ‎AI Captions for Videos: VidCap
+ - [https://vidcap.app](https://vidcap.app)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## videomuse.app
+ - [https://www.videomuse.app](https://www.videomuse.app)
+ - date_published: 2024-10-30T07:04:48.952087+00:00
+
+ ## Videotok - Create faceless videos with AI
+ - [https://videotok.app](https://videotok.app)
+ - date_published: 2024-07-10T11:15:35.560460+00:00
+
+ ## Video Trim App - Free & Online & Offline
+ - [https://videotrim.app](https://videotrim.app)
+ - date_published: 2024-06-03T11:21:00.994159+00:00
+
+ ## Craft viral-ready marketing videos in minutes with AI
+ - [https://viralvideo.app](https://viralvideo.app)
+ - date_published: 2024-12-15T08:29:54.804051+00:00
+
  ## Professional Headshots in minutes with Virtual Face AI
  - [https://virtualface.app](https://virtualface.app)
  - date_published: 2023-10-25T11:51:19.247159+00:00
@@ -3748,6 +3793,10 @@ October 2024 in Singapore
  - [https://rsp.mbconnect24.asia](https://rsp.mbconnect24.asia)
  - date_published: 2024-09-28T23:27:59+00:00
 
+ ## Shibboleth Identity Provider
+ - [https://idp.mbu.asia](https://idp.mbu.asia)
+ - date_published: 2025-02-10T09:58:50.318980+00:00
+
  ## MedTech Innovator APAC: the region's largest medical technology accelerator.
  - [https://medtechinnovator.asia](https://medtechinnovator.asia)
  - date_published: 2024-12-30T10:54:06+00:00
@@ -3962,6 +4011,10 @@ October 2024 in Singapore
  - [https://www.ait.ac.at](https://www.ait.ac.at)
  - date_published: 2024-10-16T04:03:52.958558+00:00
 
+ ## Akademie der bildenden Künste Wien
+ - [https://idp.akbild.ac.at](https://idp.akbild.ac.at)
+ - date_published: 2025-02-10T03:47:22.783682+00:00
+
  ## AkBild repository
  - [https://repository.akbild.ac.at](https://repository.akbild.ac.at)
  - date_published: 2022-09-05T13:00:01+00:00
@@ -3981,56 +4034,4 @@ October 2024 in Singapore
  ## FH Campus Wien
  - [https://www.campusnetzwerk.ac.at](https://www.campusnetzwerk.ac.at)
  - date_published: 2025-01-20T23:43:43.729408+00:00
-
- ## Complexity Science Hub
- - [https://csh.ac.at](https://csh.ac.at)
- - date_published: 2025-02-02T14:43:13.022883+00:00
-
- ## Visuals * Complexity Science Hub
- - [https://vis.csh.ac.at](https://vis.csh.ac.at)
- - date_published: 2023-10-30T07:40:48+00:00
-
- ## Complexity Science Hub
- - [https://www.csh.ac.at](https://www.csh.ac.at)
- - date_published: 2023-04-11T06:14:42+00:00
-
- ## Die Universität für Weiterbildung Krems
- - [https://donau-uni.ac.at](https://donau-uni.ac.at)
- - date_published: 2024-04-28T05:44:16.021166+00:00
-
- ## Moodle der Universität für Weiterbildung Krems: Log in to the site
- - [https://moodle.donau-uni.ac.at](https://moodle.donau-uni.ac.at)
- - date_published: 2024-08-06T20:58:03.581392+00:00
-
- ## Loading
- - [https://online.donau-uni.ac.at](https://online.donau-uni.ac.at)
- - date_published: 2024-07-29T12:44:31+00:00
-
- ## ESI - The Erwin Schrödinger International Institute for Mathematics and Physics
- - [https://www.esi.ac.at](https://www.esi.ac.at)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## FH Campus Wien - Bewerbung
- - [https://bewerben.fh-campuswien.ac.at](https://bewerben.fh-campuswien.ac.at)
- - date_published: 2025-01-20T23:43:39.474074+00:00
-
- ## FH Campus Wien
- - [https://fh-campuswien.ac.at](https://fh-campuswien.ac.at)
- - date_published: 2025-01-16T14:10:27.704072+00:00
-
- ## Magazin  - FH Campus Wien
- - [https://magazin.fh-campuswien.ac.at](https://magazin.fh-campuswien.ac.at)
- - date_published: 2025-01-20T23:44:34.807820+00:00
-
- ## FH Campus Wien
- - [http://pub.fh-campuswien.ac.at](http://pub.fh-campuswien.ac.at)
- - date_published: 2025-01-20T23:44:44.415307+00:00
-
- ## Vorlesungsverzeichnis - FH CAMPUS WIEN
- - [https://vlv.fh-campuswien.ac.at](https://vlv.fh-campuswien.ac.at)
- - date_published: 2025-01-20T23:43:40.202282+00:00
-
- ## FH Campus Wien
- - [https://www.fh-campuswien.ac.at](https://www.fh-campuswien.ac.at)
- - date_published: 2025-01-16T14:10:19.137372+00:00
 

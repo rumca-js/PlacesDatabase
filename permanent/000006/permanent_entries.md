@@ -1,3 +1,40 @@
+ ## listmonk - Mailing list
+ - [https://demo.listmonk.app](https://demo.listmonk.app)
+ - date_published: 2024-05-14T03:49:19.242863+00:00
+
+ ## listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails
+ - [https://listmonk.app](https://listmonk.app)
+ - date_published: 2024-02-04T00:00:00+00:00
+ - tags: ['self-host', 'open source']
+
+ ## Lith
+ - [https://lith.app](https://lith.app)
+ - date_published: 2024-06-29T20:46:05+00:00
+
+ ## LIVE24
+ - [https://live24.app](https://live24.app)
+ - date_published: 2024-07-03T12:34:56.024585+00:00
+
+ ## AI-Powered Live Portrait Animation Tool | LivePortrait | LivePortrait
+ - [https://liveportrait.app](https://liveportrait.app)
+ - date_published: 2024-09-14T08:05:12.992407+00:00
+
+ ## Livespace CRM – best process-focused CRM system
+ - [http://www.livespace.app](http://www.livespace.app)
+ - date_published: 2024-09-25T16:40:33.296696+00:00
+
+ ## اسمحوا لي أن جوجل ذلك لك
+ - [https://ar.lmgtfy.app](https://ar.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:43.494968+00:00
+
+ ## LMGTFY - Let Me Google That For You
+ - [https://bg.lmgtfy.app](https://bg.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:07.472785+00:00
+
+ ## LMGTFY - Let Me Google That For You
+ - [https://cs.lmgtfy.app](https://cs.lmgtfy.app)
+ - date_published: 2024-07-20T09:40:48.292066+00:00
+
  ## LMGTFY - Let Me Google That For You
  - [https://da.lmgtfy.app](https://da.lmgtfy.app)
  - date_published: 2024-07-20T09:40:16.971634+00:00
@@ -3392,6 +3429,10 @@ The Album
  - [https://og.railway.app](https://og.railway.app)
  - date_published: 2024-08-19T12:38:13.480927+00:00
 
+ ## ESL – Engineering Software Lab
+ - [https://primary-production-4af7.up.railway.app](https://primary-production-4af7.up.railway.app)
+ - date_published: 2025-02-10T03:15:43.146925+00:00
+
  ## Railway
  - [https://railway.app](https://railway.app)
  - date_published: 2024-05-06T13:13:16.253808+00:00
@@ -4000,44 +4041,4 @@ The Album
  ## Sitter Pro: Hassle-Free Care - Sitter Pro
  - [https://sitter.app](https://sitter.app)
  - date_published: 2018-10-15T00:00:00+00:00
-
- ## Sizzy — The browser for web developers
- - [https://sizzy.app](https://sizzy.app)
- - date_published: 2024-06-15T03:54:49+00:00
-
- ## SketchMe.App
- - [https://www.sketchme.app](https://www.sketchme.app)
- - date_published: 2024-07-10T00:02:32.347134+00:00
-
- ## SkinTheory
- - [https://skintheory.app](https://skintheory.app)
- - date_published: 2023-03-05T11:03:08+00:00
-
- ## Kanaria Skybreach
- - [https://skybreach.app](https://skybreach.app)
- - date_published: 2024-12-24T00:54:13.541465+00:00
-
- ## SkyFeed
- - [https://skyfeed.app](https://skyfeed.app)
- - date_published: 2024-05-02T13:43:24.763590+00:00
-
- ## __OG_TITLE__
- - [https://view.skynav.app](https://view.skynav.app)
- - date_published: 2025-01-23T18:54:55.862016+00:00
-
- ## Lobste.rs/Hacker News links overlap
- - [https://lobhn.skyshelf.app](https://lobhn.skyshelf.app)
- - date_published: 2024-12-23T21:36:01+00:00
-
- ## Slant it - Screen recordings to catchy 3D videos in minutes
- - [https://slantit.app](https://slantit.app)
- - date_published: 2024-05-01T02:57:40.601612+00:00
-
- ## Slater | AI Custom Code Tool For Webflow Projects
- - [https://slater.app](https://slater.app)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Slater | AI Custom Code Tool For Webflow Projects
- - [https://staging.slater.app](https://staging.slater.app)
- - date_published: 2024-10-28T11:59:59.082934+00:00
 

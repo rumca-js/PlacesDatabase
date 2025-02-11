@@ -1,3 +1,19 @@
+ ## Free AI Image Generator - LearnWithHasan Tools 🤖
+ - [https://freeimage.ai](https://freeimage.ai)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## FreeSubtitles.ai
+ - [https://freesubtitles.ai](https://freesubtitles.ai)
+ - date_published: 2023-10-24T20:19:28.143608+00:00
+
+ ## Freshly.ai - Where AI meets the human mind
+ - [https://freshly.ai](https://freshly.ai)
+ - date_published: 2024-06-19T20:10:09.927141+00:00
+
+ ## Freshriver | AI with emotional intelligence
+ - [http://freshriver.ai](http://freshriver.ai)
+ - date_published: 2022-04-19T21:51:20+00:00
+
  ## FriendliAI - The Generative AI Infrastructure Company
  - [https://friendli.ai](https://friendli.ai)
  - date_published: 2024-06-21T02:19:12+00:00
@@ -398,6 +414,10 @@
  ## GirlJams.AI: An AI-powered songwriting experience
  - [https://girljams.ai](https://girljams.ai)
  - date_published: 2023-12-01T21:30:28+00:00
+
+ ## Giselle: AI Agent Builder
+ - [https://giselles.ai](https://giselles.ai)
+ - date_published: 2025-02-10T22:25:32.535899+00:00
 
  ## Giskard Documentation
  - [https://docs.giskard.ai](https://docs.giskard.ai)
@@ -4009,24 +4029,4 @@
  - [https://wiki.mutable.ai](https://wiki.mutable.ai)
  - date_published: 2024-01-08T19:01:50.485594+00:00
  - date_dead_since: 2025-01-06T11:46:17.197096+00:00
-
- ## App Publishing Partner & AI Apps Pioneer - MWM
- - [https://mwm.ai](https://mwm.ai)
- - date_published: 2024-09-02T12:50:14.019199+00:00
-
- ## Webchat Stage - ALICE
- - [https://widget.myalice.ai](https://widget.myalice.ai)
- - date_published: 2023-06-21T11:25:10+00:00
-
- ## Anima: AI Friend
- - [https://myanima.ai](https://myanima.ai)
- - date_published: 2024-06-19T19:54:28+00:00
-
- ## AI Tutor - Personalized Learning
- - [https://account.myapps.ai](https://account.myapps.ai)
- - date_published: 2024-10-30T21:41:49.138959+00:00
-
- ## Home | AI Tutor
- - [https://beta.myapps.ai](https://beta.myapps.ai)
- - date_published: 2024-12-15T07:26:49.174818+00:00
 

@@ -1,3 +1,27 @@
+ ## AI Transcription Service | Transcribe Audio to Text | Speech to Text AI
+ - [https://speechtext.ai](https://speechtext.ai)
+ - date_published: 2024-06-19T19:48:30.439372+00:00
+
+ ## SpeedNote AI
+ - [https://speednote.ai](https://speednote.ai)
+ - date_published: 2024-09-13T08:30:42+00:00
+
+ ## Speed of Light AI
+ - [https://www.speedoflight.ai](https://www.speedoflight.ai)
+ - date_published: 2025-01-23T08:45:53.284570+00:00
+
+ ## The Spice AI Blog
+ - [https://blog.spice.ai](https://blog.spice.ai)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Welcome to Spice.ai | Spice.ai Documentation
+ - [https://docs.spice.ai](https://docs.spice.ai)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Spice AI
+ - [https://spice.ai](https://spice.ai)
+ - date_published: 2024-03-28T00:00:00+00:00
+
  ## Spice AI status
  - [https://status.spice.ai](https://status.spice.ai)
  - date_published: 2024-05-12T04:13:06.303740+00:00
@@ -2069,6 +2093,10 @@
  - [https://www.vi.ai](https://www.vi.ai)
  - date_published: 2023-11-13T09:04:47+00:00
 
+ ## Viaduct: AI Solutions for Connected Assets
+ - [https://www.viaduct.ai](https://www.viaduct.ai)
+ - date_published: 2025-02-10T01:42:26.265929+00:00
+
  ## Home Page
  - [https://vian.ai](https://vian.ai)
  - date_published: 2024-07-10T00:00:00+00:00
@@ -3486,6 +3514,10 @@ Creative Solutions
  - [https://raf.al](https://raf.al)
  - date_published: 2024-07-13T04:12:15.537263+00:00
 
+ ## Authenticate
+ - [https://idp.rash.al](https://idp.rash.al)
+ - date_published: 2025-02-10T11:37:05.821010+00:00
+
  ## re.al blockchain explorer - View re.al stats | Blockscout
  - [https://explorer.re.al](https://explorer.re.al)
  - date_published: 2024-09-23T21:40:45.428207+00:00
@@ -3997,36 +4029,4 @@ Creative Solutions
  ## Soham Sankaran is not dead yet
  - [https://soh.am](https://soh.am)
  - date_published: 2023-08-22T19:01:46+00:00
-
- ## All about Ada Reinaldo Jena
- - [https://ada-reinaldo-jena.web.sp.am](https://ada-reinaldo-jena.web.sp.am)
- - date_published: 2024-07-20T04:54:58.244855+00:00
-
- ## All about Alvaro Shaun Quincy
- - [https://alvaro-shaun-quincy.web.sp.am](https://alvaro-shaun-quincy.web.sp.am)
- - date_published: 2024-07-20T04:48:43.405678+00:00
-
- ## All about Andreas Jasen Kristy
- - [https://andreas-jasen-kristy.web.sp.am](https://andreas-jasen-kristy.web.sp.am)
- - date_published: 2024-07-20T04:48:38.411886+00:00
-
- ## All about Anthony Kermit Doyle
- - [https://anthony-kermit-doyle.web.sp.am](https://anthony-kermit-doyle.web.sp.am)
- - date_published: 2024-07-20T04:55:00.465813+00:00
-
- ## All about Armando Denny Shannan
- - [https://armando-denny-shannan.web.sp.am](https://armando-denny-shannan.web.sp.am)
- - date_published: 2024-05-17T02:55:20.844228+00:00
-
- ## All about Aubrey Brandt Elias
- - [https://aubrey-brandt-elias.web.sp.am](https://aubrey-brandt-elias.web.sp.am)
- - date_published: 2024-07-20T04:49:05.199710+00:00
-
- ## All about Britt Deloris Suzette
- - [https://britt-deloris-suzette.web.sp.am](https://britt-deloris-suzette.web.sp.am)
- - date_published: 2024-07-20T04:55:08.300606+00:00
-
- ## All about Cara Rigoberto Robbin
- - [https://cara-rigoberto-robbin.web.sp.am](https://cara-rigoberto-robbin.web.sp.am)
- - date_published: 2024-07-20T04:55:12.321240+00:00
 
