@@ -1,4006 +1,4114 @@
- ## Clube da Criatividade de Portugal
- - [https://www.clubedacriatividade.pt](https://www.clubedacriatividade.pt)
- - date_published: 2024-12-31T10:19:28+00:00
-
- ## cm.pt
- - [https://cm.pt](https://cm.pt)
- - date_published: 2024-12-20T11:30:57.937302+00:00
-
- ## Site Autárquico de Alvito
- - [https://cm-alvito.pt](https://cm-alvito.pt)
- - date_published: 2024-09-05T15:40:49.379369+00:00
-
- ## CMCD
- - [http://incubadora.cmcd.pt](http://incubadora.cmcd.pt)
- - date_published: 2024-12-20T11:27:45.290187+00:00
-
- ## CMCD
- - [http://www.cmcd.pt](http://www.cmcd.pt)
- - date_published: 2024-12-20T11:27:46.971535+00:00
-
- ## Câmara Municipal de Coimbra
- - [https://cm-coimbra.pt](https://cm-coimbra.pt)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## CITY OF MUSIC
- - [http://cityofmusic.cm-idanhanova.pt](http://cityofmusic.cm-idanhanova.pt)
- - date_published: 2024-12-20T11:27:48.249274+00:00
-
- ## Município de Idanha-a-Nova
- - [https://cm-idanhanova.pt](https://cm-idanhanova.pt)
- - date_published: 2024-09-05T15:23:30.037173+00:00
-
- ## Plataforma de denúncias | GoFox | - Lei 93/2021 – Whistleblowing
- - [https://denuncias.cm-idanhanova.pt](https://denuncias.cm-idanhanova.pt)
- - date_published: 2024-12-20T11:27:43.101255+00:00
-
- ## Município de Idanha-a-Nova
- - [http://mkt.cm-idanhanova.pt](http://mkt.cm-idanhanova.pt)
- - date_published: 2024-12-20T11:29:09.300204+00:00
-
- ## Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados.
- - [https://cmjornal.pt](https://cmjornal.pt)
- - date_published: 2024-05-10T06:15:34.075946+00:00
-
- ## #fiqueemcasa
- - [https://fiqueemcasa.cmjornal.pt](https://fiqueemcasa.cmjornal.pt)
- - date_published: 2024-07-12T20:30:47.601976+00:00
-
- ## Página Inicial | Minuto Finanças para Todos
- - [https://minutofinancasparatodos.cmjornal.pt](https://minutofinancasparatodos.cmjornal.pt)
- - date_published: 2024-12-20T11:31:17.416190+00:00
-
- ## Página Inicial | Palco CM
- - [https://palco.cmjornal.pt](https://palco.cmjornal.pt)
- - date_published: 2024-07-12T20:30:37.628875+00:00
-
- ## Página Inicial | Um Sonho de Natal
- - [https://sonhodenatal.cmjornal.pt](https://sonhodenatal.cmjornal.pt)
- - date_published: 2024-07-12T20:30:54.078427+00:00
-
- ## Bibliotecas Municipais de Lisboa
- - [http://blx.cm-lisboa.pt](http://blx.cm-lisboa.pt)
- - date_published: 2024-12-20T11:58:47.363322+00:00
-
- ## Lisboa.pt, o site oficial da Município de Lisboa
- - [https://cm-lisboa.pt](https://cm-lisboa.pt)
- - date_published: 2024-12-20T11:58:36.881072+00:00
-
- ## Hemeroteca Digital
- - [https://hemerotecadigital.cm-lisboa.pt](https://hemerotecadigital.cm-lisboa.pt)
- - date_published: 2022-12-07T10:59:01+00:00
-
- ## ENTRADA
- - [https://lisboaaberta.cm-lisboa.pt](https://lisboaaberta.cm-lisboa.pt)
- - date_published: 2024-12-20T11:59:56+00:00
-
- ## naminharuaLX GOPI Gestão e Pedidos de Intervenção de Ocorrências em Lisboa
- - [https://naminharualx.cm-lisboa.pt](https://naminharualx.cm-lisboa.pt)
- - date_published: 2024-12-20T12:00:07.054612+00:00
-
- ## CM Lisboa - Recrutamento
- - [https://recrutamento.cm-lisboa.pt](https://recrutamento.cm-lisboa.pt)
- - date_published: 2024-12-20T12:00:06.104741+00:00
-
- ## Lisboa.pt, o site oficial da Município de Lisboa
- - [https://www.cm-lisboa.pt](https://www.cm-lisboa.pt)
- - date_published: 2024-07-12T20:50:06.779180+00:00
-
- ## Câmara Municipal da Maia
- - [https://www.cm-maia.pt](https://www.cm-maia.pt)
- - date_published: 2024-12-20T10:59:15.757982+00:00
-
- ## Câmara Municipal de Matosinhos
- - [https://www.cm-matosinhos.pt](https://www.cm-matosinhos.pt)
- - date_published: 2024-12-20T10:59:25.555748+00:00
-
- ## CMM - Câmara Municipal de Mértola - Município de Mértola
- - [https://www.cm-mertola.pt](https://www.cm-mertola.pt)
- - date_published: 2024-12-20T10:51:39+00:00
-
- ## Home - Portal Institucional do Município de Mora
- - [https://www.cm-mora.pt](https://www.cm-mora.pt)
- - date_published: 2024-08-26T00:00:00+00:00
- - date_dead_since: 2024-12-20T12:01:42.138908+00:00
-
- ## CM Odemira / Inicial
- - [https://cm-odemira.pt](https://cm-odemira.pt)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## OP CM Odemira
- - [https://op.cm-odemira.pt](https://op.cm-odemira.pt)
- - date_published: 2024-12-20T12:02:09.702725+00:00
-
- ## Turismo Odemira
- - [http://turismo.cm-odemira.pt](http://turismo.cm-odemira.pt)
- - date_published: 2024-12-20T12:01:59.732126+00:00
-
- ## OP CM Odemira
- - [http://www.op.cm-odemira.pt](http://www.op.cm-odemira.pt)
- - date_published: 2024-12-20T12:02:06.735298+00:00
-
- ## PÁGINA INICIAL - MUNICÍPIO DE OLEIROS | Município de Oleiros
- - [https://cm-oleiros.pt](https://cm-oleiros.pt)
- - date_published: 2024-09-05T15:23:22.109723+00:00
-
- ## Câmara Municipal de Portimão
- - [https://cm-portimao.pt](https://cm-portimao.pt)
- - date_published: 2024-12-20T11:30:15+00:00
-
- ## Município de Proença-a-Nova
- - [https://cm-proencanova.pt](https://cm-proencanova.pt)
- - date_published: 2024-04-08T12:41:56+00:00
-
- ## Overview
- - [https://cmpv.pt](https://cmpv.pt)
- - date_published: 2024-09-05T15:05:15.439227+00:00
-
- ## Câmara Municipal do Seixal
- - [https://cm-seixal.pt](https://cm-seixal.pt)
- - date_published: 2024-09-05T15:20:14+00:00
-
- ## Município da Sertã - Biblioteca Municipal
- - [http://biblioteca.cm-serta.pt](http://biblioteca.cm-serta.pt)
- - date_published: 2024-12-20T12:05:43.852018+00:00
-
- ## Município da Sertã - Página Inicial
- - [https://cm-serta.pt](https://cm-serta.pt)
- - date_published: 2024-09-05T15:23:26.374988+00:00
-
- ## Turismo - Município da Sertã
- - [http://turismo.cm-serta.pt](http://turismo.cm-serta.pt)
- - date_published: 2024-12-20T12:05:49.017584+00:00
-
- ## CMTV: Atualidade e Reportagens sobre Portugal e o Mundo
- - [https://cm-tv.pt](https://cm-tv.pt)
- - date_published: 2024-07-12T20:30:42.692517+00:00
-
- ## Câmara Municipal de Valongo
- - [https://www.cm-valongo.pt](https://www.cm-valongo.pt)
- - date_published: 2024-12-20T10:59:39.894305+00:00
-
- ## Vila Nova de Poiares
- - [https://cm-vilanovadepoiares.pt](https://cm-vilanovadepoiares.pt)
- - date_published: 2024-06-26T07:05:06+00:00
-
- ## Centro Nacional de Cultura – Desde o 25 de Abril de 1974, o CNC tem-se esforçado por transmitir uma noção de cultura sem fronteiras, quer disciplinares, quer geográficas. Ele tenta ser o elo de ligação entre aqueles cujos caminhos normalmente não se cruzam: velhos e jovens, artistas e empresários, setor público e privado. Grande parte da sua ação é dedicada à defesa do património cultural português, à divulgação do papel desempenhado pela cultura portuguesa no mundo, e à atualização das suas relações com outras culturas.
- - [https://cnc.pt](https://cnc.pt)
- - date_published: 2023-12-04T13:08:24.757701+00:00
-
- ## Homepage | Comissão Nacional de Eleições
- - [https://cne.pt](https://cne.pt)
- - date_published: 2024-07-09T19:44:25+00:00
-
- ## CNIACC - Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
- - [https://www.cniacc.pt](https://www.cniacc.pt)
- - date_published: 2024-12-20T14:17:57.214755+00:00
-
- ## Página Inicial | Medialivre Boost Solutions
- - [http://www.cofinaboostsolutions.pt](http://www.cofinaboostsolutions.pt)
- - date_published: 2024-12-20T11:29:46.656293+00:00
-
- ## coimbra.pt
- - [https://www.coimbra.pt](https://www.coimbra.pt)
- - date_published: 2024-12-20T11:25:37.732436+00:00
-
- ## coimbragenda
- - [http://coimbragenda.pt](http://coimbragenda.pt)
- - date_published: 2019-11-26T21:29:45+00:00
-
- ## coimbrageoportal
- - [https://www.coimbrageoportal.pt](https://www.coimbrageoportal.pt)
- - date_published: 2019-05-15T16:57:37+00:00
-
- ## Gráfica para empresas » Colorprinter©
- - [https://colorprinter.pt](https://colorprinter.pt)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Company's Day – Os Desafios da Água num Mundo em Mudança
- - [https://companysday.pt](https://companysday.pt)
- - date_published: 2024-12-20T14:15:09.953586+00:00
-
- ## Confio.pt
- - [https://confio.pt](https://confio.pt)
- - date_published: 2024-10-13T21:44:02.647560+00:00
-
- ## Home
- - [https://construtora.pt](https://construtora.pt)
- - date_published: 2024-09-05T15:05:05+00:00
-
- ## Home - Consumerchoice
- - [https://consumerchoice.pt](https://consumerchoice.pt)
- - date_published: 2024-12-20T03:22:16+00:00
-
- ## Consumer Trends - Página Inicial
- - [https://consumertrends.pt](https://consumertrends.pt)
- - date_published: 2016-11-19T03:41:15+00:00
-
- ## Marque online a sua inspeção automóvel | Controlauto
- - [https://controlauto.pt](https://controlauto.pt)
- - date_published: 2025-02-09T23:28:16.759451+00:00
-
- ## Anúncios classificados convívio | ConvivioCM
- - [https://www.conviviocm.pt](https://www.conviviocm.pt)
- - date_published: 2024-12-20T10:52:52.535549+00:00
-
- ## Conzept encyclopedia
- - [https://conze.pt](https://conze.pt)
- - date_published: 2024-09-02T09:51:33.293443+00:00
- - date_dead_since: 2024-12-20T12:17:30.208962+00:00
-
- ## Loja virtual de presentes exclusivos e gadgets maravilhosos. | Cool Mania E-Shop
- - [https://www.cool-mania.pt](https://www.cool-mania.pt)
- - date_published: 2025-01-08T23:31:56.138963+00:00
-
- ## Lentes de Contacto | CooperVision Portugal
- - [https://coopervision.pt](https://coopervision.pt)
- - date_published: 2025-01-08T20:13:03+00:00
-
- ## Homepage
- - [https://www.correiodafeira.pt](https://www.correiodafeira.pt)
- - date_published: 2025-01-31T17:29:12.361635+00:00
-
- ## Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados
- - [http://www.correiomanha.pt](http://www.correiomanha.pt)
- - date_published: 2024-12-22T12:00:47.922773+00:00
-
- ## Botas Cowboy Biker Fashion Exóticas Urbanas e Franjas |Homem e Mulher
- - [https://cowboybootsportugal.pt](https://cowboybootsportugal.pt)
- - date_published: 2024-09-05T15:28:07.306572+00:00
-
- ## CP - Comboios de Portugal
- - [https://cp.pt](https://cp.pt)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Crédito Agrícola | O Banco Nacional com pronúncia local.
- - [https://creditoagricola.pt](https://creditoagricola.pt)
- - date_published: 2024-09-05T14:00:29.437487+00:00
-
- ## Centro Rodoferroviário Português | Associação para a dinamização do setor rodoferroviário português
- - [https://crp.pt](https://crp.pt)
- - date_published: 2025-02-09T23:28:21.467984+00:00
-
- ## Colégio S. João de Brito
- - [http://csjb.pt](http://csjb.pt)
- - date_published: 2024-12-23T21:20:01.573601+00:00
-
- ## Erro 503
- - [https://appserver2.ctt.pt](https://appserver2.ctt.pt)
- - date_published: 2024-12-20T12:22:29.505792+00:00
-
- ## Erro 404
- - [https://blog.ctt.pt](https://blog.ctt.pt)
- - date_published: 2024-12-20T12:23:03.607559+00:00
-
- ## CTT Particulares, Empresas e Grupo CTT
- - [https://ctt.pt](https://ctt.pt)
- - date_published: 2024-08-18T11:28:10.920634+00:00
-
- ## CUF
- - [https://www.cuf.pt](https://www.cuf.pt)
- - date_published: 2025-02-09T21:01:50.126798+00:00
-
- ## Homepage
- - [https://culturgest.pt](https://culturgest.pt)
- - date_published: 2018-08-02T08:34:12.867421+00:00
-
- ## Culturgest
- - [https://inventario.colecao.culturgest.pt](https://inventario.colecao.culturgest.pt)
- - date_published: 2024-12-20T12:23:23.676139+00:00
-
- ## Em manutenção
- - [https://www.cupav.pt](https://www.cupav.pt)
- - date_published: 2024-12-23T21:20:20.569762+00:00
-
- ## Cyberawareness - Cybersecurity Awareness Consultants
- - [https://cyberawareness.pt](https://cyberawareness.pt)
- - date_published: 2024-06-28T22:08:23.865441+00:00
-
- ## CyberSecurityChallengePT
- - [http://cybersecuritychallenge.pt](http://cybersecuritychallenge.pt)
- - date_published: 2024-06-28T22:07:58.779971+00:00
-
- ## CyberX | Portugal | Home
- - [https://cyberx.pt](https://cyberx.pt)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## The O – AI para Segurança Nacional
- - [https://theo.cyberx.pt](https://theo.cyberx.pt)
- - date_published: 2024-12-20T12:24:20.954910+00:00
-
- ## Da Capo - Revista Musical Portuguesa
- - [https://dacapo.pt](https://dacapo.pt)
- - date_published: 2024-12-20T08:19:53.616195+00:00
-
- ## Custom Domain by Bitly
- - [http://dave.pt](http://dave.pt)
- - date_published: 2025-02-09T18:50:57.002219+00:00
-
- ## DEBAIXO DOS CÉUS
- - [https://myblog.debaixodosceus.pt](https://myblog.debaixodosceus.pt)
- - date_published: 2024-11-30T23:38:27+00:00
-
- ## Aluguer de equipamentos desportivos | Aluguer Decathlon
- - [https://aluguer.decathlon.pt](https://aluguer.decathlon.pt)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Conselhos desportivos Decathlon
- - [https://conselhos-desportivos.decathlon.pt](https://conselhos-desportivos.decathlon.pt)
- - date_published: 2024-09-19T02:31:26.832825+00:00
-
- ## Decathlon Corporate
- - [https://corporate.decathlon.pt](https://corporate.decathlon.pt)
- - date_published: 2024-06-12T08:54:25+00:00
-
- ## Decathlon | Tudo para o desporto!
- - [https://decathlon.pt](https://decathlon.pt)
- - date_published: 2024-06-15T20:08:45.537155+00:00
-
- ## Atividades e Eventos Desportivos - Desporto by Decathlon
- - [https://desporto.decathlon.pt](https://desporto.decathlon.pt)
- - date_published: 2024-09-19T02:31:38.903275+00:00
-
- ## Clube Decathlon
- - [https://experiencias.decathlon.pt](https://experiencias.decathlon.pt)
- - date_published: 2024-09-19T02:31:25.130290+00:00
-
- ## Recrutamento | Decathlon Portugal
- - [https://myjob.decathlon.pt](https://myjob.decathlon.pt)
- - date_published: 2024-09-19T02:31:15.069373+00:00
-
- ## Decathlon
- - [https://suporte.decathlon.pt](https://suporte.decathlon.pt)
- - date_published: 2024-09-19T02:32:03.689681+00:00
-
- ## Serviço pós-venda Decathlon
- - [https://support.decathlon.pt](https://support.decathlon.pt)
- - date_published: 2024-09-19T02:32:00.165441+00:00
-
- ## Página Inicial | Decathlon Sustentabilidade
- - [https://sustentabilidade.decathlon.pt](https://sustentabilidade.decathlon.pt)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## DECATHLON SEGUROS DESPORTIVOS
- - [https://www.seguros.decathlon.pt](https://www.seguros.decathlon.pt)
- - date_published: 2024-09-19T02:31:22.833275+00:00
-
- ## DECO
- - [https://deco.pt](https://deco.pt)
- - date_published: 2024-12-20T12:07:19.996132+00:00
-
- ## Home
- - [https://defesadeespinho.pt](https://defesadeespinho.pt)
- - date_published: 2024-09-05T15:27:44.269912+00:00
-
- ## Corretora online | Comissões Baixas | Trading | DEGIRO
- - [https://degiro.pt](https://degiro.pt)
- - date_published: 2024-06-14T09:55:59+00:00
-
- ## Bem-vindo | Ferramentas Desoutter
- - [https://www.desouttertools.pt](https://www.desouttertools.pt)
- - date_published: 2025-01-31T17:32:22.823008+00:00
-
- ## Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados.
- - [https://destak.pt](https://destak.pt)
- - date_published: 2024-10-20T17:31:14.031618+00:00
-
- ## Dianética: O Poder da Mente sobre o Corpo
- - [https://dianetica.pt](https://dianetica.pt)
- - date_published: 2024-09-04T18:49:48.954411+00:00
-
- ## Dianética: O Poder da Mente sobre o Corpo
- - [https://dianetics.pt](https://dianetics.pt)
- - date_published: 2024-06-17T16:42:10.246497+00:00
-
- ## Diário do Alentejo
- - [https://www.diariodoalentejo.pt](https://www.diariodoalentejo.pt)
- - date_published: 2025-02-09T12:37:08.012299+00:00
-
- ## DigiKey Home
- - [https://digikey.pt](https://digikey.pt)
- - date_published: 2024-05-01T05:01:36.054518+00:00
-
- ## DIG-IN
- - [https://dig-in.pt](https://dig-in.pt)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Digit Access Portugal - Distribuidor de acessórios para câmeras fotográficas.
- - [https://www.digitaccess.pt](https://www.digitaccess.pt)
- - date_published: 2025-01-02T00:30:25.349779+00:00
-
- ## Home
- - [https://digitalgreen.pt](https://digitalgreen.pt)
- - date_published: 2025-02-09T12:38:53.826740+00:00
-
- ## DIGITAL RM - Broadcast
- - [https://digitalrm.pt](https://digitalrm.pt)
- - date_published: 2024-09-05T15:05:01.953901+00:00
-
- ## Index of /
- - [https://media.digitalrm.pt](https://media.digitalrm.pt)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Dining Out
- - [https://diningout.pt](https://diningout.pt)
- - date_published: 2024-06-25T16:24:16.313628+00:00
-
- ## Plausible · Web analytics
- - [https://analytics.diogoferreira.pt](https://analytics.diogoferreira.pt)
- - date_published: 2024-07-02T19:03:39.123754+00:00
-
- ## Diogo Ferreira
- - [https://diogoferreira.pt](https://diogoferreira.pt)
- - date_published: 2024-05-07T23:13:40.190677+00:00
-
- ## .
- - [https://dioguinho.pt](https://dioguinho.pt)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## D3 - Defesa dos Direitos Digitais
- - [https://direitosdigitais.pt](https://direitosdigitais.pt)
- - date_published: 2024-05-06T23:56:22.109149+00:00
-
- ## SearXNG - D3
- - [https://searx.direitosdigitais.pt](https://searx.direitosdigitais.pt)
- - date_published: 2024-12-20T14:38:08.877668+00:00
-
- ## LibreTranslate - Free and Open Source Machine Translation API
- - [https://translate.direitosdigitais.pt](https://translate.direitosdigitais.pt)
- - date_published: 2024-12-20T14:38:10.024010+00:00
-
- ## Disney Portugal | Site Oficial
- - [https://disney.pt](https://disney.pt)
- - date_published: 2024-06-16T02:29:59.111713+00:00
-
- ## Disneyland Paris - Descobre a magia | Disneyland Paris
- - [https://disneylandparis.pt](https://disneylandparis.pt)
- - date_published: 2024-06-16T01:52:06.399007+00:00
-
- ## Disney Store ES | Tienda Online Oficial De Disney
- - [https://disneystore.pt](https://disneystore.pt)
- - date_published: 2024-09-20T20:21:40.641324+00:00
-
- ## A bomba-relógio da abstenção | DIVERGENTE
- - [https://bombarelogio.divergente.pt](https://bombarelogio.divergente.pt)
- - date_published: 2024-01-23T17:46:37+00:00
-
- ## DIVERGENTE — Histórias que revelam silêncios
- - [https://divergente.pt](https://divergente.pt)
- - date_published: 2016-09-05T14:18:11+00:00
-
- ## Juventude em Jogo
- - [http://futebol.divergente.pt](http://futebol.divergente.pt)
- - date_published: 2024-12-23T20:09:56.691644+00:00
-
- ## DIVERGENTE — Histórias que revelam silêncios
- - [https://novo.divergente.pt](https://novo.divergente.pt)
- - date_published: 2016-09-05T14:18:11+00:00
-
- ## A história dos Comandos Africanos da Guiné | DIVERGENTE
- - [https://por-ti-portugal.divergente.pt](https://por-ti-portugal.divergente.pt)
- - date_published: 2024-12-17T12:45:17+00:00
-
- ## Terra de todos, terra de alguns
- - [http://terradealguns.divergente.pt](http://terradealguns.divergente.pt)
- - date_published: 2024-11-11T08:20:18+00:00
-
- ## DIVERGENTE | Às escondidas, elas também fizeram a Revolução
- - [http://www.elas-fizeram-revolucao.divergente.pt](http://www.elas-fizeram-revolucao.divergente.pt)
- - date_published: 2022-02-24T18:21:44+00:00
-
- ## Work | Divide by Two
- - [https://dividebytwo.pt](https://dividebytwo.pt)
- - date_published: 2024-10-23T07:02:59.059548+00:00
-
- ## Diário de Notícias
- - [https://dn.pt](https://dn.pt)
- - date_published: 2024-06-10T06:55:49.791627+00:00
-
- ## Global Media Group -
- - [https://invoice.dn.pt](https://invoice.dn.pt)
- - date_published: 2024-09-05T14:57:50.745855+00:00
-
- ## Welcome to WildFly Application Server 8
- - [https://quiosque.dn.pt](https://quiosque.dn.pt)
- - date_published: 2014-11-20T22:43:22+00:00
-
- ## .PT - Domínios de Portugal
- - [https://www.dns.pt](https://www.dns.pt)
- - date_published: 2024-12-20T10:58:07.557897+00:00
-
- ## Gravidez e bebés com Dodot: um sítio para crescer | Dodot PT
- - [https://www.dodot.pt](https://www.dodot.pt)
- - date_published: 2024-10-28T22:58:08+00:00
-
- ## Dolibarr Open Source ERP and CRM - Web suite for business
- - [https://www.dolibarr.pt](https://www.dolibarr.pt)
- - date_published: 2024-10-31T05:04:24.158257+00:00
-
- ## Dominios.pt, Alojamento Web e Cloud Server
- - [https://dominios.pt](https://dominios.pt)
- - date_published: 2024-12-20T12:23:42.948937+00:00
-
- ## Douro Nobilis
- - [https://douronobilis.pt](https://douronobilis.pt)
- - date_published: 2024-06-25T16:24:00.775302+00:00
-
- ## Doutor Finanças Homepage
- - [https://www.doutorfinancas.pt](https://www.doutorfinancas.pt)
- - date_published: 2025-02-05T12:24:07.310674+00:00
-
- ## Visualização de status
- - [https://downdetector.pt](https://downdetector.pt)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## DPD
- - [https://areadecliente.dpd.pt](https://areadecliente.dpd.pt)
- - date_published: 2024-06-16T19:52:26.547250+00:00
-
- ## DPD - Envio de encomendas para clientes empresariais e particulares » DPD
- - [https://dpd.pt](https://dpd.pt)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## DpdShipItSimple
- - [https://ship-it-simple.dpd.pt](https://ship-it-simple.dpd.pt)
- - date_published: 2024-06-04T16:47:02+00:00
-
- ## Track & Trace
- - [https://tracking.dpd.pt](https://tracking.dpd.pt)
- - date_published: 2024-06-16T19:52:29.943071+00:00
-
- ## APDPO
- - [https://dpo-portugal.pt](https://dpo-portugal.pt)
- - date_published: 2024-06-26T11:01:19+00:00
-
- ## LeYa Online
- - [https://dquixote.pt](https://dquixote.pt)
- - date_published: 2024-07-12T20:48:48.233409+00:00
-
- ## dri.pt
- - [https://dri.pt](https://dri.pt)
- - date_published: 2024-10-13T21:48:39.893207+00:00
-
- ## Drupal Portugal
- - [https://www.drupal.pt](https://www.drupal.pt)
- - date_published: 2025-01-15T16:33:35.155401+00:00
-
- ## DS Automobiles: Arte francesa de viajar
- - [https://dsautomobiles.pt](https://dsautomobiles.pt)
- - date_published: 2024-06-19T08:08:04+00:00
-
- ## DS Automobiles | DS Official Store
- - [https://lifestyle.dsautomobiles.pt](https://lifestyle.dsautomobiles.pt)
- - date_published: 2024-10-28T17:08:29.084974+00:00
-
- ## A manutenção do construtor - DS
- - [https://oficinasonline.dsautomobiles.pt](https://oficinasonline.dsautomobiles.pt)
- - date_published: 2024-10-28T17:07:56.255175+00:00
-
- ## Avaliação de Retoma do seu carro atual | DS Automobiles
- - [https://retoma.dsautomobiles.pt](https://retoma.dsautomobiles.pt)
- - date_published: 2024-10-28T17:07:54.994611+00:00
-
- ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
- - [https://duracell.pt](https://duracell.pt)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Dyson Portugal | Site Oficial Dyson I Aspiradores, Secadores, Modeladores e Purificadores
- - [https://dyson.pt](https://dyson.pt)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## e-Chiado | e-Chiado
- - [https://e-chiado.pt](https://e-chiado.pt)
- - date_published: 2024-08-18T11:28:18.457415+00:00
-
- ## Homepage
- - [https://eco.pt](https://eco.pt)
- - date_published: 2024-09-05T14:00:20.616250+00:00
-
- ## Página inicial - Loja ECO
- - [https://loja.eco.pt](https://loja.eco.pt)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## Ecommerce Bridge Portugal
- - [https://www.ecommercebridge.pt](https://www.ecommercebridge.pt)
- - date_published: 2024-12-14T03:32:34.432842+00:00
-
- ## ECONews
- - [https://econews.pt](https://econews.pt)
- - date_published: 2024-09-05T14:00:15.384471+00:00
-
- ## Associação Portuguesa de Economia Política
- - [https://economiapolitica.pt](https://economiapolitica.pt)
- - date_published: 2024-12-23T21:04:07.600406+00:00
-
- ## Associação Portuguesa de Economia Política
- - [https://www.economiapolitica.pt](https://www.economiapolitica.pt)
- - date_published: 2024-12-23T21:04:05.526429+00:00
-
- ## e-cultura
- - [https://e-cultura.pt](https://e-cultura.pt)
- - date_published: 2024-08-18T11:28:02.222843+00:00
-
- ## e-cultura
- - [http://e-cultura.pt](http://e-cultura.pt)
- - date_published: 2024-12-20T09:08:13.280425+00:00
-
- ## Edições Afrontamento
- - [https://edicoesafrontamento.pt](https://edicoesafrontamento.pt)
- - date_published: 2024-07-12T20:49:19.501779+00:00
-
- ## Edições Colibri
- - [https://edi-colibri.pt](https://edi-colibri.pt)
- - date_published: 2024-07-12T10:38:42+00:00
-
- ## Pergaminho
- - [http://www.editorapergaminho.pt](http://www.editorapergaminho.pt)
- - date_published: 2024-12-20T10:26:16.175529+00:00
-
- ## Editorial
- - [https://editorial-bizancio.pt](https://editorial-bizancio.pt)
- - date_published: 2024-07-12T20:56:20.087425+00:00
-
- ## editorial-caminho.pt
- - [https://editorial-caminho.pt](https://editorial-caminho.pt)
- - date_published: 2024-07-12T20:56:14.299493+00:00
-
- ## The domain editorialverbo.pt is being auctioned.
- - [http://editorialverbo.pt](http://editorialverbo.pt)
- - date_published: 2024-07-12T20:48:15.303088+00:00
-
- ## SIGA | Edubox
- - [https://siga1.edubox.pt](https://siga1.edubox.pt)
- - date_published: 2022-09-19T03:27:39+00:00
-
- ## EGEAC Cultura em Lisboa.
- - [https://egeac.pt](https://egeac.pt)
- - date_published: 2024-06-21T18:43:08.328816+00:00
-
- ## E-goi - IA para marketing que impulsiona resultados em e-commerce, retalho e serviços
- - [https://www.e-goi.pt](https://www.e-goi.pt)
- - date_published: 2025-02-01T07:39:28.618248+00:00
-
- ## CRM eGO Real Estate
- - [https://egorealestate.pt](https://egorealestate.pt)
- - date_published: 2024-09-05T15:26:54.109850+00:00
-
- ## Seller Ratings & Product Ratings and Reviews - Collect more authentic Reviews and User Generated Content with eKomi than with any other review service.
- - [https://ekomi.pt](https://ekomi.pt)
- - date_published: 2024-09-16T13:04:37.628669+00:00
-
- ## Home Page
- - [https://e-konomista.pt](https://e-konomista.pt)
- - date_published: 2024-06-25T18:51:33+00:00
-
- ## El Corte Inglés: As melhores marcas aos melhores preços
- - [https://elcorteingles.pt](https://elcorteingles.pt)
- - date_published: 2024-07-02T18:05:39.980426+00:00
-
- ## Welcome Tourists - The Joy of Shopping
- - [https://welcome-tourists.elcorteingles.pt](https://welcome-tourists.elcorteingles.pt)
- - date_published: 2024-12-20T15:48:26.651371+00:00
-
- ## Uma introdução gratuita em linha à inteligência artificial para um público nãoespecializado.
- - [https://elementsofai.pt](https://elementsofai.pt)
- - date_published: 2024-07-01T08:47:13.318111+00:00
-
- ## Cursos | Emagister
- - [https://emagister.pt](https://emagister.pt)
- - date_published: 2024-05-07T07:11:17+00:00
-
- ## Home
- - [https://emanuelpina.pt](https://emanuelpina.pt)
- - date_published: 2024-05-09T08:06:36.833382+00:00
-
- ## Ofertas de emprego. Anúncios de emprego | EmpregoCM
- - [https://www.empregocm.pt](https://www.empregocm.pt)
- - date_published: 2024-12-20T10:53:04.884859+00:00
-
- ## Empresas Hoje - Página Principal
- - [https://empresashoje.pt](https://empresashoje.pt)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Epson Portugal | Home
- - [https://www.epson.pt](https://www.epson.pt)
- - date_published: 2025-02-09T20:41:13.032987+00:00
-
- ## Eptoliva – Escola Profissional
- - [https://eptoliva.pt](https://eptoliva.pt)
- - date_published: 2024-09-05T15:05:55.358948+00:00
-
- ## Equifax Portugal - Empresas
- - [https://equifax.pt](https://equifax.pt)
- - date_published: 2024-08-05T22:02:26.829406+00:00
-
- ## Data centers globais e colocation para redes empresariais | Equinix Portugal
- - [https://equinix.pt](https://equinix.pt)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## Fornecedor de Identidade ERASMUSMAIS-EF
- - [https://idp.erasmusmais.pt](https://idp.erasmusmais.pt)
- - date_published: 2025-02-10T10:43:20.566350+00:00
-
- ## Dona Ermelinda
- - [http://blog.ermelindafreitas.pt](http://blog.ermelindafreitas.pt)
- - date_published: 2024-12-20T15:50:39.267320+00:00
-
- ## Casa Ermelinda Freitas
- - [https://ermelindafreitas.pt](https://ermelindafreitas.pt)
- - date_published: 2024-09-05T15:41:39.304807+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.esac.pt](https://idp.esac.pt)
- - date_published: 2025-02-10T19:15:39.001456+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.escolanaval.pt](https://idp.escolanaval.pt)
- - date_published: 2025-02-10T21:04:39.861215+00:00
-
- ## Escolha Sustentável
- - [https://escolhasustentavel.pt](https://escolhasustentavel.pt)
- - date_published: 2024-12-20T12:07:48.257482+00:00
-
- ## Livros usados | Livraria Alfarrabista
- - [https://esconderijodoslivros.pt](https://esconderijodoslivros.pt)
- - date_published: 2024-12-23T02:37:18+00:00
-
- ## Fornecedor de Identidade ESEC
- - [https://idp.esec.pt](https://idp.esec.pt)
- - date_published: 2025-02-10T10:51:29.743932+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://esel-idp02.esel.pt](https://esel-idp02.esel.pt)
- - date_published: 2025-02-10T07:24:29.550116+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.esenf.pt](https://idp.esenf.pt)
- - date_published: 2025-02-10T03:49:29.918425+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idpesenfc.esenfc.pt](https://idpesenfc.esenfc.pt)
- - date_published: 2025-02-10T08:36:50.908218+00:00
-
- ## A Esfera dos Livros – Os livros são feitos para serem lidos
- - [https://esferadoslivros.pt](https://esferadoslivros.pt)
- - date_published: 2024-07-12T20:56:16.745130+00:00
-
- ## ESOP
- - [https://esop.pt](https://esop.pt)
- - date_published: 2024-06-27T00:03:05+00:00
-
- ## ESTAMO – Participações Imobiliárias, SA.
- - [http://www.estamo.pt](http://www.estamo.pt)
- - date_published: 2023-08-17T14:37:59+00:00
-
- ## estampa.pt
- - [http://www.estampa.pt](http://www.estampa.pt)
- - date_published: 2024-12-31T19:36:33.380074+00:00
-
- ## Beauty
- - [https://www.esteelauder.pt](https://www.esteelauder.pt)
- - date_published: 2025-01-15T16:52:28.576978+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.estescoimbra.pt](https://idp.estescoimbra.pt)
- - date_published: 2025-02-10T04:13:19.417107+00:00
-
- ## EUROC | EUROPEAN ROCKETRY CHALLENGE
- - [https://euroc.pt](https://euroc.pt)
- - date_published: 2024-10-14T21:16:53.818404+00:00
-
- ## Eurogamer.pt
- - [https://eurogamer.pt](https://eurogamer.pt)
- - date_published: 2024-06-30T02:19:48.552768+00:00
-
- ## Home - Europa-América Livros
- - [http://europa-america.pt](http://europa-america.pt)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home - Europa-América Livros
- - [https://europaamerica.pt](https://europaamerica.pt)
- - date_published: 2024-12-20T15:51:48.748871+00:00
-
- ## Alugue um automóvel ou carrinha comercial em todo o Mundo com a Europcar
- - [https://europcar.pt](https://europcar.pt)
- - date_published: 2024-10-20T14:12:52.114765+00:00
-
- ## FAQ: Frequently Asked Questions - Europcar
- - [https://faq.europcar.pt](https://faq.europcar.pt)
- - date_published: 2024-12-20T08:07:57+00:00
-
- ## Eventbrite
- - [https://eventbrite.pt](https://eventbrite.pt)
- - date_published: 2024-05-12T05:55:29.207508+00:00
-
- ## Everything Is New | Um Mundo de Espetáculos a pensar em ti!
- - [https://everythingisnew.pt](https://everythingisnew.pt)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## AdEvolutio | For Expansion
- - [https://evolutio.pt](https://evolutio.pt)
- - date_published: 2024-06-11T09:07:51.049071+00:00
-
- ## Evolutio Pretix
- - [https://pretix.evolutio.pt](https://pretix.evolutio.pt)
- - date_published: 2024-06-11T09:08:01.134574+00:00
-
- ## Fornecedor de Identidade AMilitar
- - [https://idp.exercito.pt](https://idp.exercito.pt)
- - date_published: 2025-02-10T11:22:21.101384+00:00
-
- ## Notícia
- - [https://www.exercito.pt](https://www.exercito.pt)
- - date_published: 2024-12-20T15:51:12.673445+00:00
-
- ## Boa Cama Boa Mesa
- - [https://boacamaboamesa.expresso.pt](https://boacamaboamesa.expresso.pt)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Expresso
- - [https://expresso.pt](https://expresso.pt)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Leitor Expresso
- - [https://leitor.expresso.pt](https://leitor.expresso.pt)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## | Tribuna Expresso
- - [https://tribuna.expresso.pt](https://tribuna.expresso.pt)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Expresso Emprego | A sua Carreira é o nosso Trabalho |
- - [http://expressoemprego.pt](http://expressoemprego.pt)
- - date_published: 2024-07-12T21:24:36.751121+00:00
-
- ## Ezata Grupo - Seguros, Credit e Contabilidade
- - [https://www.ezata.pt](https://www.ezata.pt)
- - date_published: 2023-10-26T00:00:00+00:00
-
- ## Site Oficial da Faber-Castell
- - [https://www.faber-castell.pt](https://www.faber-castell.pt)
- - date_published: 2025-02-03T01:03:17.377815+00:00
-
- ## fabula-urbis.pt
- - [https://fabula-urbis.pt](https://fabula-urbis.pt)
- - date_published: 2024-12-23T14:13:33.584662+00:00
-
- ## fabula-urbis.pt
- - [http://www.fabula-urbis.pt](http://www.fabula-urbis.pt)
- - date_published: 2024-12-23T14:11:44.198074+00:00
-
- ## Fundação Dr. António Cupertino de Miranda - Início
- - [http://www.facm.pt](http://www.facm.pt)
- - date_published: 2024-07-12T20:56:00.491303+00:00
-
- ## Software de Recursos Humanos all-in-one - FactorialHR
- - [https://factorialhr.pt](https://factorialhr.pt)
- - date_published: 2024-08-10T23:21:58.585931+00:00
-
- ## Famalicão EER - Famalicão EER
- - [https://www.famalicaoeer.pt](https://www.famalicaoeer.pt)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Fama Show
- - [https://famashow.pt](https://famashow.pt)
- - date_published: 2024-10-20T21:35:40.310855+00:00
-
- ## educast
- - [https://educast.fccn.pt](https://educast.fccn.pt)
- - date_published: 2024-08-07T22:48:28.056661+00:00
-
- ## Fornecedor de Identidade FCCN
- - [https://idp.fccn.pt](https://idp.fccn.pt)
- - date_published: 2025-02-10T15:26:07.226200+00:00
-
- ## FCCN, Serviços Digitais FCT • Tecnologia para o conhecimento
- - [https://www.fccn.pt](https://www.fccn.pt)
- - date_published: 2021-01-21T10:55:49+00:00
-
- ## FC Porto
- - [http://www.fcporto.pt](http://www.fcporto.pt)
- - date_published: 2024-08-28T14:23:01+00:00
-
- ## Fornecedor de Identidade FCT
- - [https://idp.fct.pt](https://idp.fct.pt)
- - date_published: 2025-02-10T16:27:20.317433+00:00
-
- ## Fundação para a Ciência e a Tecnologia - FCT
- - [https://www.fct.pt](https://www.fct.pt)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Início - Felgueiras Magazine
- - [https://www.felgueirasmagazine.pt](https://www.felgueirasmagazine.pt)
- - date_published: 2024-09-05T15:27:01.028746+00:00
-
- ## Site Corporativo do Grupo Ferrero
- - [https://www.ferrero.pt](https://www.ferrero.pt)
- - date_published: 2024-06-19T08:32:14.590648+00:00
-
- ## Fiat Cars, Vans & Mobility | Fiat PT
- - [https://www.fiat.pt](https://www.fiat.pt)
- - date_published: 2024-06-18T13:36:52+00:00
-
- ## Estimativa do seu veiculo | Retoma Fiat PT
- - [https://www.retoma.fiat.pt](https://www.retoma.fiat.pt)
- - date_published: 2024-10-28T20:28:59.755158+00:00
-
- ## Criação de sites, Lojas Online, Gestão de Redes Sociais e Facebook
- - [http://www.fidelizarte.pt](http://www.fidelizarte.pt)
- - date_published: 2024-12-23T02:37:15.242203+00:00
-
- ## FilmBooster.pt
- - [https://www.filmbooster.pt](https://www.filmbooster.pt)
- - date_published: 2024-10-03T08:24:31.087547+00:00
-
- ## Todos os filmes e as séries do Netflix - Filmes-Online.pt
- - [https://www.filmes-online.pt](https://www.filmes-online.pt)
- - date_published: 2024-09-02T11:18:04.337724+00:00
-
- ## Firestone
- - [https://www.firestone.pt](https://www.firestone.pt)
- - date_published: 2025-02-09T23:28:11.028551+00:00
-
- ## Homepage FLAD - FLAD
- - [https://www.flad.pt](https://www.flad.pt)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## FLASH!
- - [http://www.flash.pt](http://www.flash.pt)
- - date_published: 2024-06-25T18:52:48.034334+00:00
-
- ## Futebol em Direto, Jogos ao Vivo e Live Scores | Flashscore.pt
- - [https://www.flashscore.pt](https://www.flashscore.pt)
- - date_published: 2024-09-05T15:19:16.531665+00:00
-
- ## Flatio - Arrendamentos para nómadas digitais
- - [https://www.flatio.pt](https://www.flatio.pt)
- - date_published: 2024-06-25T17:49:36.671118+00:00
-
- ## Viaja de autocarro por toda a Europa | FlixBus
- - [https://www.flixbus.pt](https://www.flixbus.pt)
- - date_published: 2024-06-28T10:10:07+00:00
-
- ## Fnac - Cultura, Tecnologia, Lazer
- - [https://www.fnac.pt](https://www.fnac.pt)
- - date_published: 2024-07-12T20:41:32.990839+00:00
-
- ## Fonte Viva  água, cafés frutas e legumes para casa, escritórios e empresas
- - [https://www.fonteviva.pt](https://www.fonteviva.pt)
- - date_published: 2024-09-05T14:57:36.744242+00:00
-
- ## Custos de funcionamento | Ford PT
- - [https://buy.ford.pt](https://buy.ford.pt)
- - date_published: 2024-10-29T21:28:44.943210+00:00
-
- ## Página Oficial da Ford Portugal | Ford PT
- - [https://www.ford.pt](https://www.ford.pt)
- - date_published: 2024-06-19T08:04:43+00:00
-
- ## Bem vindo à plataforma FPACompetições
- - [https://fpacompeticoes.pt](https://fpacompeticoes.pt)
- - date_published: 2024-07-01T09:18:03.814051+00:00
-
- ## Free2move Charge | Carregamento De Carros eléctricos
- - [https://www.free2movecharge.pt](https://www.free2movecharge.pt)
- - date_published: 2024-12-20T11:08:29.672334+00:00
-
- ## Dentro de Scientology — A História Não Censurada
- - [https://www.freedommag.pt](https://www.freedommag.pt)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Contratar Freelancers e Encontrar Trabalhos Freelance Online
- - [https://www.freelancer.pt](https://www.freelancer.pt)
- - date_published: 2024-06-16T12:00:03.126195+00:00
-
- ## Fronteira do medo
- - [https://fronteiradomedo.pt](https://fronteiradomedo.pt)
- - date_published: 2023-07-09T19:29:45+00:00
-
- ## ▶️ Passeio de barco em Lisboa
- - [https://www.frs-portugal.pt](https://www.frs-portugal.pt)
- - date_published: 2024-08-07T11:54:11.117116+00:00
-
- ## Home - Fumaça
- - [https://fumaca.pt](https://fumaca.pt)
- - date_published: 2024-12-20T09:02:48.336098+00:00
-
- ## EDITORIAL, por Mafalda Ferro
- - [http://www.fundacaoantonioquadros.pt](http://www.fundacaoantonioquadros.pt)
- - date_published: 2024-12-31T19:42:42+00:00
-
- ## Fundação EDP
- - [https://www.fundacaoedp.pt](https://www.fundacaoedp.pt)
- - date_published: 2024-09-13T13:50:25+00:00
-
- ## fundacaoeugenioandrade.pt
- - [http://www.fundacaoeugenioandrade.pt](http://www.fundacaoeugenioandrade.pt)
- - date_published: 2024-07-12T20:49:55.979019+00:00
-
- ## Fundación ”la Caixa” - Fundação "la Caixa" - Fundación "la Caixa"
- - [https://fundacaolacaixa.pt](https://fundacaolacaixa.pt)
- - date_published: 2025-01-08T05:41:22.225335+00:00
-
- ## Fundação Mário Soares e Maria Barroso - Preservar a memória para construir o futuro | Fundação Mário Soares e Maria Barroso
- - [http://www.fundacao-mario-soares.pt](http://www.fundacao-mario-soares.pt)
- - date_published: 2024-12-31T11:22:48.472481+00:00
-
- ## Trailers, Livestreams e Entrevistas de Videojogos | Gamereactor Portugal
- - [https://www.gamereactor.pt](https://www.gamereactor.pt)
- - date_published: 2024-07-17T13:05:42.461830+00:00
-
- ## Homepage - Garnier.com
- - [https://www.garnier.pt](https://www.garnier.pt)
- - date_published: 2024-10-20T22:51:10.082144+00:00
-
- ## GEOTA | Grupo de Estudos de Ordenamento do Território e Ambiente
- - [https://geota.pt](https://geota.pt)
- - date_published: 2025-02-03T19:33:35.000610+00:00
-
- ## Descubra os melhores apps para expandir sua empresa
- - [https://www.getapp.pt](https://www.getapp.pt)
- - date_published: 2024-08-08T18:07:22.344794+00:00
-
- ## Fotografias de stock, imagens criativas e vetores royalty-free | Imagens de notícias, moda e entretenimento - Getty Images
- - [https://www.gettyimages.pt](https://www.gettyimages.pt)
- - date_published: 2024-06-20T01:48:43.931779+00:00
-
- ## Giro HC
- - [http://girohc.pt](http://girohc.pt)
- - date_published: 2024-09-05T15:19:21.927745+00:00
-
- ## GISMEDIA
- - [http://www.gismedia.pt](http://www.gismedia.pt)
- - date_published: 2024-12-20T12:06:50.808676+00:00
-
- ## Homepage
- - [https://global.pt](https://global.pt)
- - date_published: 2024-06-25T16:23:23.928340+00:00
-
- ## Global Media Group
- - [https://www.globalmediagroup.pt](https://www.globalmediagroup.pt)
- - date_published: 2024-12-20T15:16:32.056832+00:00
-
- ## Welcome to Keycloak
- - [https://sso.globalnoticias.pt](https://sso.globalnoticias.pt)
- - date_published: 2024-07-12T21:24:19.914648+00:00
-
- ## GLS Portugal - Transport & Logistics
- - [https://www.gls-portugal.pt](https://www.gls-portugal.pt)
- - date_published: 2024-06-20T12:17:56.517857+00:00
-
- ## Gonçalo MB
- - [https://gmb.pt](https://gmb.pt)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Golden Eagle | Smart Living in Nature
- - [https://goldeneagle.pt](https://goldeneagle.pt)
- - date_published: 2024-04-05T16:41:06+00:00
-
- ## Gomibo.pt - Todos os telemóveis e acessórios
- - [https://www.gomibo.pt](https://www.gomibo.pt)
- - date_published: 2024-10-21T22:25:37.124576+00:00
-
- ## Consultoria em Marketing Digital, SEO e Web Design • GOMO Digital (Portugal)
- - [https://www.gomo.pt](https://www.gomo.pt)
- - date_published: 2023-12-27T00:00:00+00:00
-
- ## Google
- - [https://google.pt](https://google.pt)
- - date_published: 2024-05-26T13:42:31.881937+00:00
-
- ## Grafika Google
- - [https://images.google.pt](https://images.google.pt)
- - date_published: 2024-07-20T07:39:56.520860+00:00
-
- ## governa.pt
- - [https://governa.pt](https://governa.pt)
- - date_published: 2023-04-08T14:54:08+00:00
-
- ## Goweb Agency - A sua agência digital
- - [https://gowebagency.pt](https://gowebagency.pt)
- - date_published: 2024-10-28T22:29:34+00:00
-
- ## Atualidade Moda Grooming Bon Vivant GQ TV MOTY
- - [https://gqportugal.pt](https://gqportugal.pt)
- - date_published: 2024-06-15T21:06:04.577812+00:00
-
- ## livraria online da editora gradiva
- - [http://www.gradiva.pt](http://www.gradiva.pt)
- - date_published: 2024-07-12T20:50:04.202484+00:00
-
- ## facebook-f icon
- - [https://conteudo.greatplacetowork.pt](https://conteudo.greatplacetowork.pt)
- - date_published: 2024-09-10T23:54:03.737194+00:00
-
- ## Autoridade global sobre a cultura do lugar de trabalho
- - [https://greatplacetowork.pt](https://greatplacetowork.pt)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Assinatura Multipublicações
- - [https://assinaturas.greensavers.pt](https://assinaturas.greensavers.pt)
- - date_published: 2024-09-05T15:27:46.656511+00:00
-
- ## Grémio Literário
- - [http://www.gremioliterario.pt](http://www.gremioliterario.pt)
- - date_published: 2024-12-31T19:30:44.421451+00:00
-
- ## Página inicial Grünenthal
- - [https://www.grunenthal.pt](https://www.grunenthal.pt)
- - date_published: 2024-10-16T18:48:43.468489+00:00
-
- ## Grupo BEL | Grupo Empresarial Português %
- - [https://grupobel.pt](https://grupobel.pt)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Grupo Brisa - Abre caminho
- - [https://grupobrisa.pt](https://grupobrisa.pt)
- - date_published: 2025-02-09T23:28:13.534202+00:00
-
- ## Grupo Sicosta
- - [http://www.gruposicosta.pt](http://www.gruposicosta.pt)
- - date_published: 2024-09-05T15:05:06.149948+00:00
-
- ## home - FORNECEDORESRH
- - [https://guiarh.pt](https://guiarh.pt)
- - date_published: 2025-02-03T03:09:14.132385+00:00
-
- ## Melgaço Radical: Onde a Aventura Começa
- - [http://www.guimaraes-ed.pt](http://www.guimaraes-ed.pt)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Fundação Calouste Gulbenkian
- - [http://gulbenkian.pt](http://gulbenkian.pt)
- - date_published: 2024-12-20T08:59:35.089406+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.igc.gulbenkian.pt](https://idp.igc.gulbenkian.pt)
- - date_published: 2025-02-10T15:59:10.800817+00:00
-
- ## Helena Vaz da Silva
- - [https://helenavazdasilva.pt](https://helenavazdasilva.pt)
- - date_published: 2024-08-18T11:27:58.208546+00:00
-
- ## Henkel
- - [https://www.henkel.pt](https://www.henkel.pt)
- - date_published: 2024-10-18T20:18:24.740859+00:00
-
- ## HenriCartoon
- - [https://henricartoon.pt](https://henricartoon.pt)
- - date_published: 2024-09-05T15:21:39.242266+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.hidrografico.pt](https://idp.hidrografico.pt)
- - date_published: 2025-02-10T12:59:01.040919+00:00
-
- ## Ferramentas para profissionais da construção civil
- - [https://www.hilti.pt](https://www.hilti.pt)
- - date_published: 2024-06-20T07:26:04.950627+00:00
-
- ## PACUTOTO99 Situs Slot Toto 4D Dan Bandar Toto Macau 4D Resmi Terbesar
- - [https://hm-marroquinaria.pt](https://hm-marroquinaria.pt)
- - date_published: 2024-10-03T04:32:07+00:00
-
- ## My Account
- - [https://myaccount.hofmann.pt](https://myaccount.hofmann.pt)
- - date_published: 2025-02-09T15:54:09.057755+00:00
-
- ## Hofmann: O líder em produtos personalizados com fotos
- - [https://www.hofmann.pt](https://www.hofmann.pt)
- - date_published: 2025-01-31T19:06:34.894460+00:00
-
- ## Home - Hologic
- - [https://www.hologic.pt](https://www.hologic.pt)
- - date_published: 2025-02-09T09:33:12.750875+00:00
-
- ## Home
- - [https://www.hospitalvilafrancadexira.pt](https://www.hospitalvilafrancadexira.pt)
- - date_published: 2024-09-05T15:27:18.939402+00:00
-
- ## Web Hosting and domain name, from only for 1.99€ | Hostico
- - [https://hostico.pt](https://hostico.pt)
- - date_published: 2024-06-16T14:56:59.947803+00:00
-
- ## Faça login na Hostinger
- - [https://auth.hostinger.pt](https://auth.hostinger.pt)
- - date_published: 2024-07-13T16:43:41.906392+00:00
-
- ## Alojamento Web Feito Para Si - Fique Online com a Hostinger
- - [https://hostinger.pt](https://hostinger.pt)
- - date_published: 2024-05-11T07:50:38.927157+00:00
-
- ## Hostwinds: Soluções de hospedagem na web centradas no cliente
- - [https://www.hostwinds.pt](https://www.hostwinds.pt)
- - date_published: 2024-06-18T17:17:08+00:00
-
- ## Hotel Porto Mar - Página Inicial
- - [https://www.hotelportomar.pt](https://www.hotelportomar.pt)
- - date_published: 2024-12-20T10:02:34+00:00
-
- ## Bem-vindo à Hotfrog
- - [https://www.hotfrog.pt](https://www.hotfrog.pt)
- - date_published: 2024-06-29T16:52:26.467965+00:00
-
- ## HUB PESSOAS - Inovação e Tendências em Gestão de Pessoas
- - [https://hubpessoas.pt](https://hubpessoas.pt)
- - date_published: 2025-02-03T03:09:11.102779+00:00
-
- ## Bem-vindo ao site da Hyundai Portugal
- - [https://www.hyundai.pt](https://www.hyundai.pt)
- - date_published: 2024-10-20T21:34:04.497799+00:00
-
- ## Instituto de Astrofísica e Ciências do Espaço
- - [http://www.iastro.pt](http://www.iastro.pt)
- - date_published: 2025-01-21T16:32:41.927986+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.iave.pt](https://idp.iave.pt)
- - date_published: 2025-02-10T11:21:12.572142+00:00
-
- ## Fornecedor de Identidade IBET
- - [https://idp.ibet.pt](https://idp.ibet.pt)
- - date_published: 2025-02-10T16:23:18.570423+00:00
-
- ## iCalendário : Calendário online gratuito
- - [https://icalendario.pt](https://icalendario.pt)
- - date_published: 2024-07-11T22:10:17.901289+00:00
-
- ## i-charging
- - [https://i-charging.pt](https://i-charging.pt)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Orçamento Participativo - Idanha Participa
- - [https://participa.idanha.pt](https://participa.idanha.pt)
- - date_published: 2024-12-20T11:27:49.465469+00:00
-
- ## Idanha.pt
- - [http://www.idanha.pt](http://www.idanha.pt)
- - date_published: 2024-12-20T11:26:21.578023+00:00
-
- ## Busca de voos e voo barato
- - [https://voos.idealo.pt](https://voos.idealo.pt)
- - date_published: 2025-02-09T09:41:04.109861+00:00
-
- ## Ideias de Ler
- - [http://www.ideiasdeler.pt](http://www.ideiasdeler.pt)
- - date_published: 2024-07-12T20:48:28.972647+00:00
-
- ## Worldskills Portugal | sítio do Worldskills Portugal
- - [https://worldskillsportugal.iefp.pt](https://worldskillsportugal.iefp.pt)
- - date_published: 2025-02-09T12:38:58.530963+00:00
-
- ## TRAVESSEIRO DE CORPO COBRE IKEA,CAPAS DE ALMOFADAS DE CORPO,TRAVESSEIROS DE CORPO AMAZON,TRAVESSEIROS DE CORPO PARA DORMENTES LATERAIS
- - [http://www.ifl.pt](http://www.ifl.pt)
- - date_published: 2024-07-11T20:18:37.264307+00:00
-
- ## IG Electrodomésticos
- - [https://ig-electrodomesticos.pt](https://ig-electrodomesticos.pt)
- - date_published: 2024-09-05T15:05:43.349082+00:00
-
- ## Igreja Universal do Reino de Deus
- - [https://www.igrejauniversal.pt](https://www.igrejauniversal.pt)
- - date_published: 2024-12-20T14:18:32.116898+00:00
-
- ## igus® | Polímeros para qualquer tipo de movimento
- - [https://www.igus.pt](https://www.igus.pt)
- - date_published: 2024-08-06T23:12:12.873380+00:00
-
- ## Alojamento web | Servidor dedicado
- - [https://www.ikoula.pt](https://www.ikoula.pt)
- - date_published: 2024-07-07T05:18:34+00:00
-
- ## Inicio
- - [http://www.iledeoya.pt](http://www.iledeoya.pt)
- - date_published: 2024-07-16T17:30:52.487368+00:00
-
- ## Approved by locals
- - [https://sdistribution.impresa.pt](https://sdistribution.impresa.pt)
- - date_published: 2024-06-27T22:00:00+00:00
-
- ## Homepage
- - [https://www.impresa.pt](https://www.impresa.pt)
- - date_published: 2024-10-20T21:35:38.447006+00:00
-
- ## Impulsive - Webmasters - Websites | Software | Mobile App's - Viseu
- - [https://www.impulsive.pt](https://www.impulsive.pt)
- - date_published: 2025-02-02T01:19:11.817853+00:00
-
- ## Grande seleção de músicas e filmes
- - [https://imusic.pt](https://imusic.pt)
- - date_published: 2025-01-21T09:14:27.377762+00:00
-
- ## infor.media
- - [https://in4.pt](https://in4.pt)
- - date_published: 2024-09-05T14:58:04.332303+00:00
-
- ## inc-livros.pt
- - [http://blog.inc-livros.pt](http://blog.inc-livros.pt)
- - date_published: 2025-01-01T07:53:25.410373+00:00
-
- ## Bem-vindos | INCM
- - [http://www.incm.pt](http://www.incm.pt)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Sic Tvi  JN DN Paginas Amarelas Online
- - [https://indeks.pt](https://indeks.pt)
- - date_published: 2024-12-20T08:08:52.464519+00:00
-
- ## Statistics Portugal - Web Portal
- - [http://www.ine.pt](http://www.ine.pt)
- - date_published: 2024-07-12T20:31:35.456448+00:00
-
- ## ER 2023 – The 42nd International Conference on Conceptual Modeling. Nov. 6-9, 2023, Lisbon, Portugal
- - [https://er2023.inesc-id.pt](https://er2023.inesc-id.pt)
- - date_published: 2024-06-20T04:29:00.497979+00:00
-
- ## INESC-ID   | SimpleSAMLphp installation page
- - [https://id.inesc-id.pt](https://id.inesc-id.pt)
- - date_published: 2025-02-10T05:41:32.708575+00:00
-
- ## Distributed Systems Group
- - [https://www.gsd.inesc-id.pt](https://www.gsd.inesc-id.pt)
- - date_published: 2024-09-05T23:23:49.519557+00:00
-
- ## Home - Thematic Lines - INESC-ID
- - [https://www.inesc-id.pt](https://www.inesc-id.pt)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.inesctec.pt](https://idp.inesctec.pt)
- - date_published: 2025-02-10T05:53:01.359425+00:00
-
- ## INESC TEC
- - [https://inesctec.pt](https://inesctec.pt)
- - date_published: 2024-10-28T23:45:10.404281+00:00
-
- ## Infocasa - Líder na Informação Imobiliária
- - [https://infocasa.pt](https://infocasa.pt)
- - date_published: 2024-09-05T14:01:48.437319+00:00
-
- ## Software automotivo & dados técnicos | Automotivo pós-venda
- - [https://www.infopro-digital-automotive.pt](https://www.infopro-digital-automotive.pt)
- - date_published: 2025-01-18T08:30:34.527105+00:00
-
- ## Home - Camões - Instituto da Cooperação e da Língua
- - [http://instituto-camoes.pt](http://instituto-camoes.pt)
- - date_published: 2024-12-20T09:13:27+00:00
-
- ## Home - Camões - Instituto da Cooperação e da Língua
- - [http://www.instituto-camoes.pt](http://www.instituto-camoes.pt)
- - date_published: 2024-07-12T20:49:02+00:00
-
- ## Cybersecurity | Internet Security Services for your Business
- - [https://integrity.pt](https://integrity.pt)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home | INTEGRITY Labs
- - [https://labs.integrity.pt](https://labs.integrity.pt)
- - date_published: 2024-04-11T10:31:57+00:00
-
- ## Cybersecurity | Internet Security Services for your Business
- - [https://videos.integrity.pt](https://videos.integrity.pt)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## CNN Portugal
- - [https://cnnportugal.iol.pt](https://cnnportugal.iol.pt)
- - date_published: 2024-09-05T15:41:56.542622+00:00
-
- ## TVI Notícias
- - [https://tvi24.iol.pt](https://tvi24.iol.pt)
- - date_published: 2024-09-13T10:35:07.354879+00:00
-
- ## TVI
- - [https://tvi.iol.pt](https://tvi.iol.pt)
- - date_published: 2024-09-13T10:35:16.353705+00:00
-
- ## VERSA
- - [https://versa.iol.pt](https://versa.iol.pt)
- - date_published: 2024-12-20T09:04:19.565930+00:00
-
- ## Notícias de hoje - IOL
- - [http://www.iol.pt](http://www.iol.pt)
- - date_published: 2024-09-12T21:52:27.876327+00:00
-
- ## Maisfutebol
- - [http://www.maisfutebol.iol.pt](http://www.maisfutebol.iol.pt)
- - date_published: 2024-09-12T21:45:35.101294+00:00
-
- ## TVI Notícias
- - [http://www.portugaldiario.iol.pt](http://www.portugaldiario.iol.pt)
- - date_published: 2024-09-12T21:39:03.560530+00:00
-
- ## Jornal i - notícias, política, opinião
- - [http://ionline.pt](http://ionline.pt)
- - date_published: 2024-12-22T11:25:30+00:00
-
- ## Fornecedor de Identidade ipb
- - [https://idp.ipb.pt](https://idp.ipb.pt)
- - date_published: 2025-02-10T06:52:28.216922+00:00
-
- ## Fornecedor de Identidade IPBeja
- - [https://idp.ipbeja.pt](https://idp.ipbeja.pt)
- - date_published: 2025-02-10T11:29:16.128683+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.estgoh.ipc.pt](https://idp.estgoh.ipc.pt)
- - date_published: 2025-02-10T09:47:35.977256+00:00
-
- ## Fornecedor de Identidade IPC
- - [https://idprov.ipc.pt](https://idprov.ipc.pt)
- - date_published: 2025-02-10T05:13:20.695404+00:00
-
- ## Instituto Politécnico de Coimbra – O Instituto Politécnico de Coimbra é uma instituição de ensino superior politécnico pública, sediada em Coimbra.
- - [https://www.ipc.pt](https://www.ipc.pt)
- - date_published: 2024-09-05T14:57:09.293086+00:00
-
- ## Politécnico de Castelo Branco
- - [https://idp00.ipcb.pt](https://idp00.ipcb.pt)
- - date_published: 2025-02-10T13:04:42.448000+00:00
-
- ## Instituto Politécnico de Castelo Branco
- - [https://www.ipcb.pt](https://www.ipcb.pt)
- - date_published: 2024-10-22T05:32:44.186430+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.ipg.pt](https://idp.ipg.pt)
- - date_published: 2025-02-10T18:03:41.843417+00:00
-
- ## Home | Escola Superior de Comunicação Social
- - [https://escs.ipl.pt](https://escs.ipl.pt)
- - date_published: 2024-07-12T15:19:48+00:00
-
- ## Welcome
- - [https://idp.net.ipl.pt](https://idp.net.ipl.pt)
- - date_published: 2025-02-10T16:37:31.398101+00:00
-
- ## Fornecedor de Identidade DemoOrg
- - [https://idp.ipleiria.pt](https://idp.ipleiria.pt)
- - date_published: 2025-02-10T05:50:12.850693+00:00
-
- ## Fornecedor de Identidade IPLuso
- - [https://idp.ipluso.pt](https://idp.ipluso.pt)
- - date_published: 2025-02-10T04:45:50.706466+00:00
-
- ## Plataforma de E-Learning
- - [http://elearning.ipma.pt](http://elearning.ipma.pt)
- - date_published: 2024-08-07T22:48:01+00:00
-
- ## IPMA Escolas
- - [https://escolas.ipma.pt](https://escolas.ipma.pt)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## GelAvista - IPMA
- - [http://gelavista.ipma.pt](http://gelavista.ipma.pt)
- - date_published: 2024-08-07T22:48:21.744420+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.ipma.pt](https://idp.ipma.pt)
- - date_published: 2025-02-10T04:32:32.230107+00:00
-
- ## Instituto Português do Mar e da Atmosfera
- - [https://ipma.pt](https://ipma.pt)
- - date_published: 2024-04-28T02:22:39.098512+00:00
-
- ## Observar - Instituto Português do Mar e da Atmosfera, I.P.
- - [https://observar.ipma.pt](https://observar.ipma.pt)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Instituto Portuguï¿½s do Mar e da Atmosfera
- - [http://pda.ipma.pt](http://pda.ipma.pt)
- - date_published: 2024-08-07T22:48:22.786400+00:00
-
- ## Portugal ShakeMap
- - [http://shakemap.ipma.pt](http://shakemap.ipma.pt)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Subscreva as listas de distribuição
- - [http://subscricoes.ipma.pt](http://subscricoes.ipma.pt)
- - date_published: 2024-08-07T22:47:57.589217+00:00
-
- ## Inquéritos IPMA
- - [https://survey.ipma.pt](https://survey.ipma.pt)
- - date_published: 2024-08-07T22:48:05+00:00
-
- ## Instituto Pedro Nunes
- - [https://www.ipn.pt](https://www.ipn.pt)
- - date_published: 2024-09-25T10:10:42.102779+00:00
-
- ## Fornecedor de Identidade FCCN
- - [https://idp01.net.ipp.pt](https://idp01.net.ipp.pt)
- - date_published: 2025-02-10T13:04:26.564766+00:00
-
- ## CISTER - Research Centre in Real-Time Computing & Embedded Computing Systems
- - [https://www.cister.isep.ipp.pt](https://www.cister.isep.ipp.pt)
- - date_published: 2024-06-21T19:12:01.259101+00:00
-
- ## P.PORTO | Ensino Superior Público
- - [https://www.ipp.pt](https://www.ipp.pt)
- - date_published: 2024-09-15T23:56:11.182098+00:00
-
- ## Fornecedor de Identidade IPP
- - [https://idp.ipportalegre.pt](https://idp.ipportalegre.pt)
- - date_published: 2025-02-10T18:06:13.257607+00:00
-
- ## Fornecedor de Identidade DemoOrg
- - [https://idp.ips.pt](https://idp.ips.pt)
- - date_published: 2025-02-10T09:56:06.961474+00:00
-
- ## Fornecedor de Identidade IPSantarem
- - [https://vrctsaai.ipsantarem.pt](https://vrctsaai.ipsantarem.pt)
- - date_published: 2025-02-10T06:53:14.345049+00:00
-
- ## Fornecedor de Identidade IPTomar
- - [https://idp.ipt.pt](https://idp.ipt.pt)
- - date_published: 2025-02-10T05:27:03.473571+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.esav.ipv.pt](https://idp.esav.ipv.pt)
- - date_published: 2025-02-10T07:42:24.712146+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.esev.ipv.pt](https://idp.esev.ipv.pt)
- - date_published: 2025-02-10T16:26:10.530695+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.essv.ipv.pt](https://idp.essv.ipv.pt)
- - date_published: 2025-02-10T07:21:36.115980+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.estgl.ipv.pt](https://idp.estgl.ipv.pt)
- - date_published: 2025-02-10T16:59:45.792552+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.estgv.ipv.pt](https://idp.estgv.ipv.pt)
- - date_published: 2025-02-10T12:52:11.841793+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.pres.ipv.pt](https://idp.pres.ipv.pt)
- - date_published: 2025-02-10T14:25:06.448869+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.ipvc.pt](https://idp.ipvc.pt)
- - date_published: 2025-02-10T08:26:04.617898+00:00
-
- ## iRobot®: Robot aspirador e esfregona | iRobot®
- - [https://www.irobot.pt](https://www.irobot.pt)
- - date_published: 2025-02-05T16:20:12.653611+00:00
-
- ## CBS | Coimbra Business School
- - [https://bs.iscac.pt](https://bs.iscac.pt)
- - date_published: 2024-07-02T23:34:20.054745+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.iscac.pt](https://idp.iscac.pt)
- - date_published: 2025-02-10T17:16:34.218861+00:00
-
- ## Home
- - [https://cies.iscte.pt](https://cies.iscte.pt)
- - date_published: 2024-05-07T23:40:40.296153+00:00
-
- ## Início - Ciberdúvidas da Língua Portuguesa
- - [http://ciberduvidas.iscte-iul.pt](http://ciberduvidas.iscte-iul.pt)
- - date_published: 2024-12-20T08:13:35.448592+00:00
-
- ## Home
- - [https://cies.iscte-iul.pt](https://cies.iscte-iul.pt)
- - date_published: 2024-07-02T22:36:09.107792+00:00
-
- ## Fornecedor de Identidade iscte-iul
- - [https://idp.iscte-iul.pt](https://idp.iscte-iul.pt)
- - date_published: 2025-02-10T08:26:03.359873+00:00
-
- ## IPPS-Iscte - Melhores Políticas Públicas
- - [http://ipps.iscte-iul.pt](http://ipps.iscte-iul.pt)
- - date_published: 2024-07-21T06:11:55+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.iseclisboa.pt](https://idp.iseclisboa.pt)
- - date_published: 2025-02-10T16:36:34.178868+00:00
-
- ## iServices - Especialista em Reparações e Recondicionados
- - [https://iservices.pt](https://iservices.pt)
- - date_published: 2024-09-05T15:25:13.473356+00:00
-
- ## Início - ISMAT |  Instituto Superior Manuel Teixeira Gomes
- - [https://www.ismat.pt](https://www.ismat.pt)
- - date_published: 2024-12-20T15:19:01+00:00
-
- ## ISOC.PT - Repositório de documentação
- - [https://docs.isoc.pt](https://docs.isoc.pt)
- - date_published: 2023-12-23T19:55:54+00:00
-
- ## ISOC.PT - Internet
- - [https://isoc.isoc.pt](https://isoc.isoc.pt)
- - date_published: 2024-05-14T17:52:16+00:00
-
- ## ISOC.PT – Internet Society Portugal
- - [https://isoc.pt](https://isoc.pt)
- - date_published: 2024-05-06T23:55:57.568419+00:00
-
- ## ISOC.PT - Observatório da Internet Portuguesa
- - [https://observatory.isoc.pt](https://observatory.isoc.pt)
- - date_published: 2024-06-24T09:01:43+00:00
-
- ## Internet Society Portuguese Chapter - Scientific      Prize
- - [https://premio2024.isoc.pt](https://premio2024.isoc.pt)
- - date_published: 2024-05-19T17:38:32+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.ispa.pt](https://idp.ispa.pt)
- - date_published: 2025-02-10T18:35:40.400100+00:00
-
- ## IT - website
- - [https://it.pt](https://it.pt)
- - date_published: 2024-08-07T13:24:17.588001+00:00
-
- ## LxMLS Lisbon Machine Learning School
- - [http://lxmls.it.pt](http://lxmls.it.pt)
- - date_published: 2024-03-25T19:27:08+00:00
-
- ## Networks 2014 - 16th International Telecommunications Network Strategy and Planning Symposium
- - [http://networks2014.av.it.pt](http://networks2014.av.it.pt)
- - date_published: 2014-09-21T14:55:15+00:00
-
- ## IT - Instituto de Telecomunicacoes
- - [http://www.lx.it.pt](http://www.lx.it.pt)
- - date_published: 2010-06-26T02:19:22+00:00
-
- ## ITAP - Instituto Técnico Artístico e Profissional de Coimbra
- - [https://www.itap.pt](https://www.itap.pt)
- - date_published: 2024-12-20T11:24:51.840084+00:00
-
- ## IT Security - Para um Mundo Digital Mais Seguro
- - [https://www.itsecurity.pt](https://www.itsecurity.pt)
- - date_published: 2024-06-28T22:08:19.018065+00:00
-
- ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
- - [https://www.jack-wolfskin.pt](https://www.jack-wolfskin.pt)
- - date_published: 2024-07-14T12:16:01.561750+00:00
-
- ## Javali - Open Source – Websites/Portais, Drupal, Mobile, CRM
- - [http://www.javali.pt](http://www.javali.pt)
- - date_published: 2024-05-16T10:46:54+00:00
-
- ## JD Sports Portugal: Loja online de sapatilhas e roupa
- - [https://www.jdsports.pt](https://www.jdsports.pt)
- - date_published: 2024-10-21T02:17:22.247796+00:00
-
- ## Comprar carros SUV Jeep®, modelos 4x4 e acessórios | Jeep® PT
- - [https://www.jeep.pt](https://www.jeep.pt)
- - date_published: 2024-06-18T14:02:45+00:00
-
- ## Estimativa do seu veiculo | Retoma Jeep PT
- - [https://www.retoma.jeep.pt](https://www.retoma.jeep.pt)
- - date_published: 2024-10-28T16:39:45.642535+00:00
-
- ## Jesuítas em Portugal
- - [https://jesuitas.pt](https://jesuitas.pt)
- - date_published: 2024-12-23T21:19:47.215846+00:00
-
- ## Junta de Freguesia da União de Freguesias do Montijo e Afonsoeiro
- - [https://jf-montijoeafonsoeiro.pt](https://jf-montijoeafonsoeiro.pt)
- - date_published: 2024-09-05T15:41:35.355048+00:00
-
- ## Comprar ou arrendar casa, apartamento e outros imóveis | JLL
- - [https://residential.jll.pt](https://residential.jll.pt)
- - date_published: 2024-06-25T16:23:09.805420+00:00
-
- ## Consultores e profissionais imobiliários | JLL Portugal
- - [https://www.jll.pt](https://www.jll.pt)
- - date_published: 2024-10-30T21:39:56.621527+00:00
-
- ## Global Media Group -
- - [https://invoice.jn.pt](https://invoice.jn.pt)
- - date_published: 2024-07-12T21:24:21.834021+00:00
-
- ## Jornal de Notícias
- - [https://jn.pt](https://jn.pt)
- - date_published: 2024-05-10T06:16:41.978312+00:00
-
- ## Welcome to nginx!
- - [https://previous-assets.jn.pt](https://previous-assets.jn.pt)
- - date_published: 2018-12-04T14:52:24+00:00
-
- ## Publicidade - JN
- - [https://publicidade.jn.pt](https://publicidade.jn.pt)
- - date_published: 2024-07-12T21:24:15.362933+00:00
-
- ## Welcome to WildFly Application Server 8
- - [https://quiosque.jn.pt](https://quiosque.jn.pt)
- - date_published: 2014-11-20T22:43:22+00:00
-
- ## Ofertas de emprego e busca online de empregos | Jobijoba.pt
- - [https://www.jobijoba.pt](https://www.jobijoba.pt)
- - date_published: 2025-02-09T12:15:00.354020+00:00
-
- ## Jogo Responsável
- - [https://jogoresponsavel.pt](https://jogoresponsavel.pt)
- - date_published: 2024-12-20T10:52:19+00:00
-
- ## Notícias da atualidade | Jornal de Abrantes
- - [https://jornaldeabrantes.pt](https://jornaldeabrantes.pt)
- - date_published: 2024-09-05T14:02:02.747995+00:00
-
- ## Página Inicial | Jogo da Bolsa
- - [http://jogodabolsa.jornaldenegocios.pt](http://jogodabolsa.jornaldenegocios.pt)
- - date_published: 2024-07-12T20:30:19.934788+00:00
-
- ## Negócios: Cotações, Mercados, Economia, Empresas
- - [http://topicos.jornaldenegocios.pt](http://topicos.jornaldenegocios.pt)
- - date_published: 2024-12-22T11:57:26.409721+00:00
-
- ## Negócios: Cotações, Mercados, Economia, Empresas
- - [http://www.jornaldenegocios.pt](http://www.jornaldenegocios.pt)
- - date_published: 2024-06-25T18:53:12.382199+00:00
-
- ## A Revista Must do Jornal de Negócios
- - [https://www.must.jornaldenegocios.pt](https://www.must.jornaldenegocios.pt)
- - date_published: 2024-07-12T20:30:41.089236+00:00
-
- ## Jornal do Algarve - A informar a região desde 1957. Notícias da Região do Algarve, Portugal
- - [https://jornaldoalgarve.pt](https://jornaldoalgarve.pt)
- - date_published: 2025-02-05T12:24:20.946631+00:00
-
- ## Jornal do Fundão
- - [https://jornaldofundao.pt](https://jornaldofundao.pt)
- - date_published: 2022-09-17T20:28:14+00:00
-
- ## Easy Tax | Jornal Económico & EY
- - [https://easytax.jornaleconomico.pt](https://easytax.jornaleconomico.pt)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## O Jornal Económico
- - [https://jornaleconomico.pt](https://jornaleconomico.pt)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Leitor | Jornal Económico
- - [https://leitor.jornaleconomico.pt](https://leitor.jornaleconomico.pt)
- - date_published: 2024-09-05T14:01:21.150165+00:00
-
- ## Leitor | Jornal Económico
- - [https://registo.jornaleconomico.pt](https://registo.jornaleconomico.pt)
- - date_published: 2024-09-05T14:01:07.188678+00:00
-
- ## Varela Gomes, o franco-atirador
- - [https://jornalmapa.pt](https://jornalmapa.pt)
- - date_published: 2024-12-20T08:58:44.728203+00:00
-
- ## Início - Jornal N
- - [https://www.jornaln.pt](https://www.jornaln.pt)
- - date_published: 2025-01-31T17:29:21.218790+00:00
-
- ## Jornal Tornado - Informação Plural e Independente
- - [https://jornaltornado.pt](https://jornaltornado.pt)
- - date_published: 2024-12-20T09:10:15+00:00
-
- ## monginhices
- - [https://julietamonginho.pt](https://julietamonginho.pt)
- - date_published: 2024-12-20T09:08:57.242633+00:00
-
- ## Criar Loja Online
- - [https://jumpseller.pt](https://jumpseller.pt)
- - date_published: 2025-02-02T09:38:51.204662+00:00
-
- ## AN E+ JA
- - [https://juventude.pt](https://juventude.pt)
- - date_published: 2024-09-15T20:57:54.823771+00:00
-
- ## Organização Youth For Human Rights: Vídeo Documentário A História dos Direitos Humanos, Informação, Notícias, Kit do Professor e Livros
- - [http://www.juventudeparaosdireitoshumanos.pt](http://www.juventudeparaosdireitoshumanos.pt)
- - date_published: 2024-08-30T00:40:37+00:00
-
- ## Front page | JYSK
- - [https://jysk.pt](https://jysk.pt)
- - date_published: 2025-02-02T11:03:39.399634+00:00
-
- ## Segurança cibernética Kaspersky para particulares e empresas  | Kaspersky
- - [https://www.kaspersky.pt](https://www.kaspersky.pt)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Pesquise voos, hotéis e aluguel de carros | KAYAK
- - [https://www.kayak.pt](https://www.kayak.pt)
- - date_published: 2024-12-22T15:20:59.393553+00:00
-
- ## Keep it Simple
- - [https://keepitsimple.pt](https://keepitsimple.pt)
- - date_published: 2024-09-03T15:13:01+00:00
-
- ## Home | Kellogg's
- - [https://www.kelloggs.pt](https://www.kelloggs.pt)
- - date_published: 2024-12-22T07:23:06+00:00
-
- ## Kia Portugal | Descubra a gama de carros Kia aqui
- - [https://kia.pt](https://kia.pt)
- - date_published: 2024-07-08T16:34:21+00:00
-
- ## Compra Criptomoedas com Segurança na Knaken
- - [https://knaken.pt](https://knaken.pt)
- - date_published: 2025-01-23T08:33:02.681235+00:00
-
- ## Konecranes
- - [https://www.konecranes.pt](https://www.konecranes.pt)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Konica Minolta Business Solutions Portugal
- - [https://www.konicaminolta.pt](https://www.konicaminolta.pt)
- - date_published: 2025-02-02T13:51:23.179574+00:00
-
- ## 𝚔𝚗𝚞𝚕𝚕_𝚜𝚎𝚌𝚝𝚘𝚛@𝙺𝚁𝚈.𝙿𝚃:~$
- - [https://kry.pt](https://kry.pt)
- - date_published: 2025-01-16T15:08:30.993607+00:00
-
- ## KULTGAMES
- - [https://kultgames.pt](https://kultgames.pt)
- - date_published: 2024-07-02T13:05:45.702286+00:00
- - tags: ['shop', 'wargames', 'toys']
-
- ## Lancia: o carro urbano com classe | Site oficial | Lancia PT
- - [http://www.lancia.pt](http://www.lancia.pt)
- - date_published: 2024-04-23T11:10:25+00:00
-
- ## Land Rover. Veículos 4x4 e SUV Sofisticados
- - [https://www.landrover.pt](https://www.landrover.pt)
- - date_published: 2024-07-09T17:15:03.558825+00:00
-
- ## Inglês, Alemão, Chinês e Muitos Outros Cursos de Línguas | Aulas Personalizadas de Idiomas
- - [https://www.languagetrainers.pt](https://www.languagetrainers.pt)
- - date_published: 2024-07-02T09:21:08.290410+00:00
-
- ## Lavva Digital Agency - Branding & Websites
- - [https://www.lavva.pt](https://www.lavva.pt)
- - date_published: 2024-10-14T21:27:41.447949+00:00
-
- ## NewLayjan - Talent management
- - [https://layjan.pt](https://layjan.pt)
- - date_published: 2024-09-05T14:58:31.344462+00:00
-
- ## Código LEI - 2 minutos para realizar o pedido | LEI Portugal
- - [http://www.lei-portugal.pt](http://www.lei-portugal.pt)
- - date_published: 2025-02-01T21:17:49.775387+00:00
-
- ## Lexus Portugal | Novos e Usados de luxo Lexus
- - [https://www.lexus.pt](https://www.lexus.pt)
- - date_published: 2025-02-09T12:28:57.744351+00:00
-
- ## Lycée Français Charles Lepierre de Lisbonne - Lycée Français Charles Lepierre - Lisbonne
- - [https://www.lfcl.pt](https://www.lfcl.pt)
- - date_published: 2025-02-05T12:24:14.005727+00:00
-
- ## Home - Líder TV
- - [https://lidertv.pt](https://lidertv.pt)
- - date_published: 2024-09-05T15:41:05.778493+00:00
-
- ## Lidl Portugal - lidl.pt
- - [https://www.lidl.pt](https://www.lidl.pt)
- - date_published: 2024-06-25T19:02:20.647944+00:00
-
- ## Vogue Portugal and GQ Portugal official online store
- - [https://shop.light-house.pt](https://shop.light-house.pt)
- - date_published: 2024-06-18T07:24:24.444353+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.lip.pt](https://idp.lip.pt)
- - date_published: 2025-02-10T10:29:56.513170+00:00
-
- ## Arquivo Municipal de Lisboa
- - [https://arquivomunicipal.lisboa.pt](https://arquivomunicipal.lisboa.pt)
- - date_published: 2024-12-18T00:00:00+00:00
-
- ## Estufa Fria de Lisboa - Estufa Fria de Lisboa
- - [https://estufafria.lisboa.pt](https://estufafria.lisboa.pt)
- - date_published: 2024-12-20T11:59:50.811278+00:00
-
- ## Informação Lisboa: consulte todas as notícias e eventos atuais do Município.
- - [https://informacao.lisboa.pt](https://informacao.lisboa.pt)
- - date_published: 2024-12-20T11:59:46.426524+00:00
-
- ## Informações e Serviços da Cidade de Lisboa | Município de Lisboa - Câmara Municipal
- - [https://informacoeseservicos.lisboa.pt](https://informacoeseservicos.lisboa.pt)
- - date_published: 2024-12-20T11:59:56.254106+00:00
-
- ## Lisboa.pt, o site oficial da Município de Lisboa
- - [https://www.lisboa.pt](https://www.lisboa.pt)
- - date_published: 2024-12-20T10:55:27.652883+00:00
-
- ## Agenda Cultural de Lisboa - Descubra a parte mais interessante da cidade
- - [http://www.lisboacultural.pt](http://www.lisboacultural.pt)
- - date_published: 2024-07-12T20:50:10.640552+00:00
-
- ## CCL - Centro de Congressos de Lisboa
- - [https://ccl.lisbonvenues.pt](https://ccl.lisbonvenues.pt)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Empresa de web design e desenvolvimento de sites - Livetech
- - [https://livetech.pt](https://livetech.pt)
- - date_published: 2024-09-05T14:02:01.029342+00:00
-
- ## Livraria de Portugal
- - [http://www.livrariaportugal.pt](http://www.livrariaportugal.pt)
- - date_published: 2024-12-31T19:27:00.620046+00:00
-
- ## livroscotovia.pt
- - [http://www.livroscotovia.pt](http://www.livroscotovia.pt)
- - date_published: 2024-07-12T20:48:18.299542+00:00
-
- ## Livros Horizonte | Livraria online
- - [http://www.livroshorizonte.pt](http://www.livroshorizonte.pt)
- - date_published: 2015-01-21T03:43:39+00:00
-
- ## Fornecedor de Identidade LNEG
- - [https://lnegrctsaai.lneg.pt](https://lnegrctsaai.lneg.pt)
- - date_published: 2025-02-10T21:28:45.159393+00:00
-
- ## Locky
- - [https://locky.pt](https://locky.pt)
- - date_published: 2024-12-20T12:22:49.879292+00:00
-
- ## Home
- - [https://www.logic.pt](https://www.logic.pt)
- - date_published: 2024-09-19T02:31:57.481521+00:00
-
- ## CML
- - [https://www.lojalisboa.pt](https://www.lojalisboa.pt)
- - date_published: 2024-12-20T11:59:52.133540+00:00
-
- ## L. Ron Hubbard — Fundador de Scientology e Dianetics
- - [https://www.lronhubbard.pt](https://www.lronhubbard.pt)
- - date_published: 2024-06-06T19:38:21.226274+00:00
-
- ## Candeeiros e iluminação para comprar online | Lumories.pt
- - [https://www.lumories.pt](https://www.lumories.pt)
- - date_published: 2025-02-09T12:21:56.923253+00:00
-
- ## Inicio | Lusoepicentro
- - [https://lusoepicentro.pt](https://lusoepicentro.pt)
- - date_published: 2025-01-20T17:41:42.381655+00:00
-
- ## M80 Rádio - M80
- - [https://m80.pt](https://m80.pt)
- - date_published: 2024-12-24T11:46:39+00:00
-
- ## Machineryzone, anúncios de equipamentos para construção usados e novos - MachineryZone
- - [https://www.machineryzone.pt](https://www.machineryzone.pt)
- - date_published: 2025-01-31T18:17:59.364451+00:00
-
- ## Macovex
- - [https://macovex.pt](https://macovex.pt)
- - date_published: 2025-02-02T01:18:55.571401+00:00
-
- ## MAIDOT - Software House com Desenvolvimento Web à Medida
- - [https://www.maidot.pt](https://www.maidot.pt)
- - date_published: 2024-07-02T22:20:22.246359+00:00
-
- ## www.make-it-in-germany.com/pt
- - [https://www.make-it-in-germany.pt](https://www.make-it-in-germany.pt)
- - date_published: 2024-07-13T17:32:17.094482+00:00
-
- ## Manifesto74
- - [https://manifesto74.pt](https://manifesto74.pt)
- - date_published: 2024-12-20T00:28:17+00:00
-
- ## Mary Kay Portugal
- - [https://www.marykay.pt](https://www.marykay.pt)
- - date_published: 2024-06-30T09:56:07.217271+00:00
-
- ## Maserati PT Official Website - Automóveis de luxo italianos
- - [http://www.maserati.pt](http://www.maserati.pt)
- - date_published: 2024-07-12T05:10:01+00:00
-
- ## Master.D - Cursos e Formação Profissional
- - [https://www.masterd.pt](https://www.masterd.pt)
- - date_published: 2024-09-05T15:01:00.288223+00:00
-
- ## Mastodon (PT)
- - [https://masto.pt](https://masto.pt)
- - date_published: 2024-06-23T17:08:55.196272+00:00
-
- ## Máxima: Moda, beleza, lifestyle e comportamento
- - [http://www.maxima.pt](http://www.maxima.pt)
- - date_published: 2024-06-25T18:51:41.608290+00:00
-
- ## Bem-vindos à Mazak Portugal | Página Inicial | Mazak Portugal
- - [http://www.mazakeu.pt](http://www.mazakeu.pt)
- - date_published: 2024-07-16T17:31:42.890425+00:00
-
- ## Home Page
- - [https://www.mbway.pt](https://www.mbway.pt)
- - date_published: 2024-12-18T17:35:51+00:00
-
- ## McDonald's Portugal | McMenu, Happy Meal, Saladas e mais.
- - [https://www.mcdonalds.pt](https://www.mcdonalds.pt)
- - date_published: 2025-02-09T12:39:14.596140+00:00
-
- ## Fornecedor de Identidade FCT|FCCN
- - [https://idp.sec-geral.mec.pt](https://idp.sec-geral.mec.pt)
- - date_published: 2025-02-10T08:22:07.251321+00:00
-
- ## Juntos Criamos o Futuro - Mediacapital
- - [http://www.mediacapital.pt](http://www.mediacapital.pt)
- - date_published: 2024-09-12T21:41:49.491632+00:00
-
- ## Medialivre
- - [http://quiosque.medialivre.pt](http://quiosque.medialivre.pt)
- - date_published: 2024-07-12T20:30:35.075948+00:00
-
- ## Página Inicial | Medialivre Boost Solutions
- - [https://www.medialivreboostsolutions.pt](https://www.medialivreboostsolutions.pt)
- - date_published: 2024-07-12T20:30:51.437146+00:00
-
- ## Medicare | Plano de Saúde eleito Escolha do Consumidor
- - [https://medicare.pt](https://medicare.pt)
- - date_published: 2024-09-09T20:11:09.965918+00:00
-
- ## Encontros | encontre solteiros no site de encontros Meetic
- - [https://www.meetic.pt](https://www.meetic.pt)
- - date_published: 2024-09-04T11:50:08.432388+00:00
-
- ## MEO Blueticket | Bilhetes para espetáculos e eventos
- - [https://blueticket.meo.pt](https://blueticket.meo.pt)
- - date_published: 2024-06-10T06:58:01.236907+00:00
-
- ## ID MEO
- - [https://cliente.meo.pt](https://cliente.meo.pt)
- - date_published: 2024-09-05T15:40:57.591151+00:00
-
- ## MEO - Broadband, TV, 5G Mobile, Phones, Electricity and Health Care
- - [https://en.meo.pt](https://en.meo.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Telemóveis e Smartphones - iPhone, Samsung, Xiaomi - Loja Online | MEO
- - [https://loja.meo.pt](https://loja.meo.pt)
- - date_published: 2024-09-05T15:40:52.291679+00:00
-
- ## MEO - 5G, TV, Net, Telefone, Telemóveis, Eletricidade e Saúde
- - [https://meo.pt](https://meo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## MEO Blueticket | Bilhetes para espetáculos e eventos
- - [https://www.meoblueticket.pt](https://www.meoblueticket.pt)
- - date_published: 2024-12-20T10:49:56.735864+00:00
-
- ## MEO KALORAMA LISBOA 2025 - Parque Belavista → Lisboa
- - [https://meokalorama.pt](https://meokalorama.pt)
- - date_published: 2025-02-04T18:01:37.323456+00:00
-
- ## Veículos de Passageiros Mercedes-Benz
- - [https://www.mercedes-benz.pt](https://www.mercedes-benz.pt)
- - date_published: 2025-02-09T09:22:19.373496+00:00
-
- ## Mestre da Cor – Damos mais cor ao nosso mundo - Mestre da Cor
- - [https://mestredacor.pt](https://mestredacor.pt)
- - date_published: 2025-02-09T12:39:00.583720+00:00
-
- ## Meteorologia marítima - Previsões marítimas gratuitas para 15 dias - METEO CONSULT MARINE
- - [https://maritima.meteoconsult.pt](https://maritima.meteoconsult.pt)
- - date_published: 2024-06-21T09:01:00.203431+00:00
-
- ## Meteorologia França - Previsões METEOROLOGIA DETALHADAS para 15 dias - METEO CONSULT
- - [https://pro.meteoconsult.pt](https://pro.meteoconsult.pt)
- - date_published: 2024-05-08T00:38:10.903322+00:00
-
- ## Meteorologia e Proteção Civil
- - [https://www.meteoestrela.pt](https://www.meteoestrela.pt)
- - date_published: 2017-09-14T17:27:24+00:00
-
- ## Seguros de Vida e Acidentes Pessoais - Metlife
- - [https://www.metlife.pt](https://www.metlife.pt)
- - date_published: 2024-07-19T16:50:27+00:00
-
- ## Flores Comestíveis e Microvegetais
- - [http://www.microgreens.pt](http://www.microgreens.pt)
- - date_published: 2024-12-20T14:17:52.481929+00:00
-
- ## Millennium bcp | Melhor Banco digital de Portugal
- - [https://ind.millenniumbcp.pt](https://ind.millenniumbcp.pt)
- - date_published: 2024-12-24T10:42:21.698102+00:00
-
- ## Software de Gestão Web / Cloud - Minimal.pt Software de Gestão
- - [https://www.minimal.pt](https://www.minimal.pt)
- - date_published: 2025-02-03T03:08:19.927536+00:00
-
- ## Ministros Voluntários de Scientology : Cursos Gratuitos
- - [http://www.ministrosvoluntarios.pt](http://www.ministrosvoluntarios.pt)
- - date_published: 2024-09-04T17:51:12.524979+00:00
-
- ## ULS da Lezíria - Unidade Local de Saúde da Lezíria
- - [https://www.hds.min-saude.pt](https://www.hds.min-saude.pt)
- - date_published: 2024-09-05T15:27:32.408880+00:00
-
- ## Peças auto - Venda online — MISTER-AUTO
- - [https://www.mister-auto.pt](https://www.mister-auto.pt)
- - date_published: 2024-10-31T02:36:56.419776+00:00
-
- ## Mixlife Digital Agency
- - [https://www.mixlife.pt](https://www.mixlife.pt)
- - date_published: 2024-12-20T15:49:29.202203+00:00
-
- ## MJJ Auto – Venda de Automoveis
- - [https://mjjauto.pt](https://mjjauto.pt)
- - date_published: 2024-09-05T15:05:47.262437+00:00
-
- ## Mobpro
- - [https://mobpro.pt](https://mobpro.pt)
- - date_published: 2024-06-25T18:50:25.902337+00:00
-
- ## MOCHE - Net móvel 5G, gigas, chamadas, SMS e roupa streetwear
- - [https://moche.pt](https://moche.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Projeto Modernismo - Arquivo virtual da Geração de Orpheu; Virtual Archive of the Orpheu Generation, Portugal
- - [https://modernismo.pt](https://modernismo.pt)
- - date_published: 2024-12-20T08:26:41+00:00
-
- ## Moxie - Your OutSystems Partner
- - [https://www.moxie.pt](https://www.moxie.pt)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## MUFASA: O REI LEÃO | Site Oficial do Filme | 18 Dezembro 2024
- - [https://www.mufasafilme.pt](https://www.mufasafilme.pt)
- - date_published: 2024-12-10T14:07:02+00:00
-
- ## Mulheres à Obra - Comunidade de Empreendedorismo Feminino
- - [https://www.mulheresaobra.pt](https://www.mulheresaobra.pt)
- - date_published: 2024-06-19T18:25:55.961958+00:00
-
- ## Assinatura Multipublicações
- - [https://assinaturas.multipublicacoes.pt](https://assinaturas.multipublicacoes.pt)
- - date_published: 2024-09-05T14:57:41.620799+00:00
-
- ## Assinatura Multipublicações
- - [http://multipublicacoes.pt](http://multipublicacoes.pt)
- - date_published: 2024-09-05T15:19:03.274451+00:00
-
- ## Página inicial
- - [http://www.museudearteantiga.pt](http://www.museudearteantiga.pt)
- - date_published: 2024-07-04T15:15:44.266103+00:00
-
- ## Museu de Lisboa
- - [https://acervo.museudelisboa.pt](https://acervo.museudelisboa.pt)
- - date_published: 2024-10-20T06:38:02.149078+00:00
-
- ## Museu do Aljube
- - [https://museudoaljube.pt](https://museudoaljube.pt)
- - date_published: 2024-12-20T08:10:16+00:00
-
- ## Museu do Aljube
- - [https://www.museudoaljube.pt](https://www.museudoaljube.pt)
- - date_published: 2024-05-04T13:34:48.830766+00:00
-
- ## Mycorp®
- - [http://www.mycorp.pt](http://www.mycorp.pt)
- - date_published: 2022-06-22T11:13:47+00:00
-
- ## Website da Fundação para um Mundo Sem Drogas: Factos sobre Drogas e Toxicodependência de Adultos e Adolescentes, Livros Informativos sobre as Drogas, Educação
- - [http://www.naoasdrogas.pt](http://www.naoasdrogas.pt)
- - date_published: 2024-09-04T17:51:28.903269+00:00
-
- ## Não Sejas Pato - Compra em segurança!
- - [https://naosejaspato.pt](https://naosejaspato.pt)
- - date_published: 2025-01-02T08:01:37.656716+00:00
-
- ## Napapijri Official Online Store
- - [https://www.napapijri.pt](https://www.napapijri.pt)
- - date_published: 2024-12-25T18:30:10.171353+00:00
-
- ## Narconon | Reabilitação de Toxicodependentes | Educação Sobre as Drogas
- - [https://www.narconon.pt](https://www.narconon.pt)
- - date_published: 2024-09-04T18:08:48.119588+00:00
-
- ## National Geographic Portugal - Site Oficial - Ciência, natureza, história e viagens
- - [https://www.nationalgeographic.pt](https://www.nationalgeographic.pt)
- - date_published: 2024-10-14T22:48:30+00:00
-
- ## NCultura Notícias – Cultura, História, Viagens, Sociedade, Gastronomia
- - [https://ncultura.pt](https://ncultura.pt)
- - date_published: 2024-12-20T08:08:30+00:00
-
- ## Página Inicial | Climate Change Talks
- - [https://climatechangetalks.negocios.pt](https://climatechangetalks.negocios.pt)
- - date_published: 2024-12-20T11:31:43.857069+00:00
-
- ## Página Inicial | Media Trends
- - [https://mediatrends.negocios.pt](https://mediatrends.negocios.pt)
- - date_published: 2024-07-12T20:30:57.336857+00:00
-
- ## Nestlé Portugal
- - [https://empresa.nestle.pt](https://empresa.nestle.pt)
- - date_published: 2024-09-14T19:39:58+00:00
-
- ## Solução de marketing digital para PME’s | netbox
- - [https://www.netbox.pt](https://www.netbox.pt)
- - date_published: 2024-12-20T15:33:58.015492+00:00
-
- ## Pacotes de Internet Fixa, Móvel e para IoT | NOS
- - [https://netcabo.pt](https://netcabo.pt)
- - date_published: 2024-12-22T10:01:36+00:00
-
- ## New Era Publications International ApS
- - [https://newerapublications.pt](https://newerapublications.pt)
- - date_published: 2024-06-06T19:42:34.080259+00:00
-
- ## Capas - Jornal 'Nascer do Sol' e 'i'
- - [https://capas.newsplex.pt](https://capas.newsplex.pt)
- - date_published: 2024-07-12T20:31:16.736295+00:00
-
- ## Newsplex
- - [https://encartes.newsplex.pt](https://encartes.newsplex.pt)
- - date_published: 2024-04-25T16:47:24+00:00
-
- ## Nickelodeon Portugal
- - [https://www.nickelodeon.pt](https://www.nickelodeon.pt)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Site oficial da Nintendo Ibérica
- - [https://www.nintendo.pt](https://www.nintendo.pt)
- - date_published: 2024-05-06T15:46:50.860153+00:00
-
- ## NiTfm: a primeira rádio de lifestyle de Portugal
- - [https://www.nitfm.pt](https://www.nitfm.pt)
- - date_published: 2024-09-05T14:57:04.472530+00:00
-
- ## bem-vindo - Nmotor
- - [https://nmotor.pt](https://nmotor.pt)
- - date_published: 2024-07-16T17:37:02+00:00
-
- ## Noesis |  Helping Your Business Grow Faster
- - [https://www.noesis.pt](https://www.noesis.pt)
- - date_published: 2024-10-14T15:36:03.784297+00:00
-
- ## NORTFILMES – VIDEO
- - [https://www.nortfilmes.pt](https://www.nortfilmes.pt)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## notEqual Consulting - We lead innovation for digital products
- - [https://notequal.pt](https://notequal.pt)
- - date_published: 2024-10-14T15:36:21.812487+00:00
-
- ## Home - Notícias de Águeda
- - [https://www.noticiasdeagueda.pt](https://www.noticiasdeagueda.pt)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Home - Notícias de Anadia
- - [https://noticiasdeanadia.pt](https://noticiasdeanadia.pt)
- - date_published: 2024-09-05T15:17:32+00:00
-
- ## Homepage
- - [http://noticiasdosorraia.pt](http://noticiasdosorraia.pt)
- - date_published: 2019-06-27T16:04:27+00:00
-
- ## Fornecedor de Identidade NOVASBE
- - [https://idp.novasbe.pt](https://idp.novasbe.pt)
- - date_published: 2025-02-10T19:44:09.522467+00:00
-
- ## Nova Vega
- - [http://www.novavega.pt](http://www.novavega.pt)
- - date_published: 2019-02-28T14:04:23+00:00
-
- ## Novo Atalho -  O caminho mais económico para as suas compras em tecnologia.
- - [https://www.novoatalho.pt](https://www.novoatalho.pt)
- - date_published: 2024-07-13T13:39:47.403974+00:00
-
- ## Particulares - Juntos fazemos o futuro | novobanco
- - [https://www.novobanco.pt](https://www.novobanco.pt)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Joaquim Vieira: Soares “foi um incansável defensor da liberdade como valor inerente à espécie humana” - Novos Livros
- - [https://www.novoslivros.pt](https://www.novoslivros.pt)
- - date_published: 2024-12-20T08:02:06.644356+00:00
-
- ## N-TV
- - [http://www.n-tv.pt](http://www.n-tv.pt)
- - date_published: 2024-06-25T18:51:56.812183+00:00
-
- ## Golden Eagle – Smart Living in Nature
- - [https://goldeneagle.nxsoft.pt](https://goldeneagle.nxsoft.pt)
- - date_published: 2024-06-25T16:32:25.133225+00:00
-
- ## objectiva.pt
- - [http://www.objectiva.pt](http://www.objectiva.pt)
- - date_published: 2024-12-31T19:03:30.926525+00:00
-
- ## Academia Observador
- - [https://academia.observador.pt](https://academia.observador.pt)
- - date_published: 2024-10-20T21:34:50.038362+00:00
-
- ## Observador – Notícias, Opinião, Especiais, Explicadores e Newsletters
- - [https://observador.pt](https://observador.pt)
- - date_published: 2024-06-18T07:42:22.375773+00:00
-
- ## O Caminho para a Felicidade: Ensino de Carácter Moral, Bons Conselhos, Valores Éticos, Virtudes de Mais Felizes de Vida
- - [http://www.ocaminhoparaafelicidade.pt](http://www.ocaminhoparaafelicidade.pt)
- - date_published: 2024-09-04T17:51:32.316859+00:00
-
- ## Oceanário de Lisboa
- - [https://www.oceanario.pt](https://www.oceanario.pt)
- - date_published: 2024-12-20T10:49:38.949549+00:00
-
- ## Officelan - The Network Shop
- - [http://shop.officelan.pt](http://shop.officelan.pt)
- - date_published: 2024-12-20T15:49:02.532727+00:00
-
- ## Leya
- - [http://www.oficinadolivro.pt](http://www.oficinadolivro.pt)
- - date_published: 2024-07-12T20:49:38.600830+00:00
-
- ## O Jogo
- - [http://www.ojogo.pt](http://www.ojogo.pt)
- - date_published: 2024-06-25T18:52:52.974531+00:00
-
- ## FREGUESIA DE OLEIROS AMIEIRA
- - [http://www.oleirosamieira.pt](http://www.oleirosamieira.pt)
- - date_published: 2024-09-05T15:23:28.060318+00:00
-
- ## Portugal Anúncios Classificados OLX
- - [https://olx.pt](https://olx.pt)
- - date_published: 2024-08-19T18:04:50.770117+00:00
-
- ## Jornalismo de proximidade
- - [https://omirante.pt](https://omirante.pt)
- - date_published: 2024-07-12T21:24:53.905505+00:00
-
- ## Nothing found for  404
- - [http://www.viaoptima.online.pt](http://www.viaoptima.online.pt)
- - date_published: 2013-12-16T13:20:07+00:00
-
- ## onlinecurriculo.pt FAQ
- - [https://help.onlinecurriculo.pt](https://help.onlinecurriculo.pt)
- - date_published: 2024-06-22T22:19:09.905145+00:00
-
- ## Crie o seu Currículo Vencedor de Vagas - (Grátis) Criador de Currículos
- - [https://onlinecurriculo.pt](https://onlinecurriculo.pt)
- - date_published: 2024-05-06T09:21:33.033344+00:00
-
- ## Jornal NOVO
- - [https://onovo.pt](https://onovo.pt)
- - date_published: 2024-09-05T14:01:24.064623+00:00
-
- ## Agência de Marketing Digital | OnVision
- - [https://onvision.pt](https://onvision.pt)
- - date_published: 2023-06-09T19:27:05+00:00
-
- ## OPEL | SITE OFICIAL | O FUTURO É DE TODOS
- - [https://www.opel.pt](https://www.opel.pt)
- - date_published: 2024-07-11T09:14:09+00:00
-
- ## Openbank | Banco Online e Digital do Grupo Santander
- - [https://www.openbank.pt](https://www.openbank.pt)
- - date_published: 2024-06-14T11:30:16+00:00
-
- ## Operacional
- - [https://operacional.pt](https://operacional.pt)
- - date_published: 2024-12-20T08:57:22.178883+00:00
-
- ## Óptica Arlindo - Em Viseu para vos servir
- - [https://opticaarlindo.pt](https://opticaarlindo.pt)
- - date_published: 2025-02-02T01:19:08.848796+00:00
-
- ## Ormco – 60 anos dedicados à ortodontia. Vamos capacitá-lo!
- - [https://ormco.pt](https://ormco.pt)
- - date_published: 2025-02-09T16:43:19.473010+00:00
-
- ## Obra Social e Cultural Sí­lvia Cardoso
- - [http://www.oscsilviacardoso.pt](http://www.oscsilviacardoso.pt)
- - date_published: 2024-12-20T08:00:00.644972+00:00
-
- ## osgeopt.pt
- - [https://foss4g-europe.osgeopt.pt](https://foss4g-europe.osgeopt.pt)
- - date_published: 2025-02-01T15:20:53.364543+00:00
-
- ## Lodo Ostraria - Espaço gastronômico na cidade algarvia de Faro
- - [https://ostrarialodo.pt](https://ostrarialodo.pt)
- - date_published: 2018-01-15T00:00:00+00:00
-
- ## contentpass
- - [https://cp.otempo.pt](https://cp.otempo.pt)
- - date_published: 2024-06-25T17:31:01.558716+00:00
-
- ## Descubra a app Otempo.pt
- - [https://descobre-app.otempo.pt](https://descobre-app.otempo.pt)
- - date_published: 2022-11-23T10:43:42+00:00
-
- ## O Tempo
- - [https://www.otempo.pt](https://www.otempo.pt)
- - date_published: 2024-05-06T17:25:23.029213+00:00
-
- ## Pages24 presented by Marktplatz-Mittelstand.de
- - [https://www.pages24.pt](https://www.pages24.pt)
- - date_published: 2022-03-07T13:51:42+00:00
-
- ## A Página Negra de Manuel S. Fonseca
- - [https://paginanegra.pt](https://paginanegra.pt)
- - date_published: 2024-07-12T20:34:11+00:00
-
- ## Página UM
- - [https://paginaum.pt](https://paginaum.pt)
- - date_published: 2024-12-20T08:23:14.728527+00:00
-
- ## Paivense
- - [http://paivense.pt](http://paivense.pt)
- - date_published: 2025-01-31T08:50:04.476913+00:00
-
- ## Palácio do Gelo | Tudo para moda, decoração, infantil, eletrónica e restauração, com hipermercado, 6 salas nos cinemas, ginásio, HealthClub e Pista de Gelo.
- - [https://palaciodogelo.pt](https://palaciodogelo.pt)
- - date_published: 2025-02-02T01:19:04.932871+00:00
-
- ## Editora Palimage  | Livraria online
- - [http://www.palimage.pt](http://www.palimage.pt)
- - date_published: 2024-12-31T19:10:16+00:00
-
- ## Palpito Portugal - Participe em Inquéritos Remunerados Online
- - [https://palpito.pt](https://palpito.pt)
- - date_published: 2021-05-30T17:08:16+00:00
-
- ## Descuentos gratis - App La Cuponera - Consejos para el hogar
- - [https://pantene.pt](https://pantene.pt)
- - date_published: 2024-10-29T06:15:30.797410+00:00
-
- ## Index of /
- - [https://www.papelariafernandes.pt](https://www.papelariafernandes.pt)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## ARTV | canal parlamento
- - [https://canal.parlamento.pt](https://canal.parlamento.pt)
- - date_published: 2024-06-28T21:50:59.149142+00:00
-
- ## Assembleia da República
- - [https://www.parlamento.pt](https://www.parlamento.pt)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Participa - o seu portal de Participação nas Consultas Públicas
- - [https://participa.pt](https://participa.pt)
- - date_published: 2024-12-20T11:25:43.580949+00:00
-
- ## PASC-CC
- - [https://pasc.pt](https://pasc.pt)
- - date_published: 2024-07-20T14:13:07+00:00
-
- ## Home - Perfect Portugal
- - [https://perfectportugal.pt](https://perfectportugal.pt)
- - date_published: 2024-05-06T17:17:11.527367+00:00
-
- ## PERI Portugal Cofragem Andaime Engenharia
- - [https://www.peri.pt](https://www.peri.pt)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## 3CX Webclient
- - [https://don.pescada.pt](https://don.pescada.pt)
- - date_published: 2023-12-16T12:16:19+00:00
-
- ## João Pescada - Freelance Frontend UI/UX Creative Developer (Javascript, React, Angular, Node, Laravel) in London UK
- - [https://pescada.pt](https://pescada.pt)
- - date_published: 2024-07-02T22:56:43+00:00
-
- ## A manutenção do construtor - Peugeot
- - [https://oficinasonline.peugeot.pt](https://oficinasonline.peugeot.pt)
- - date_published: 2024-06-19T08:44:17.913325+00:00
-
- ## Novos automóveis, SUVs e veículos eléctricos da | Peugeot PT
- - [https://www.peugeot.pt](https://www.peugeot.pt)
- - date_published: 2024-10-28T13:33:25+00:00
-
- ## Soluções de iluminação LED sustentáveis | Philips lighting
- - [https://www.lighting.philips.pt](https://www.lighting.philips.pt)
- - date_published: 2024-12-14T16:59:28+00:00
-
- ## Philips - Portugal
- - [https://www.philips.pt](https://www.philips.pt)
- - date_published: 2024-10-30T19:41:19+00:00
-
- ## phoenixNAP: Data Center, Dedicada Servers, Cloud, & Colocação
- - [https://phoenixnap.pt](https://phoenixnap.pt)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Homepage
- - [https://www.pingodoce.pt](https://www.pingodoce.pt)
- - date_published: 2025-02-09T12:38:49.886551+00:00
-
- ## Pinterest
- - [https://www.pinterest.pt](https://www.pinterest.pt)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Pixel Inquieto
- - [https://pixel-inquieto.pt](https://pixel-inquieto.pt)
- - date_published: 2024-09-05T15:41:54.802544+00:00
-
- ## Home
- - [http://www.placer.pt](http://www.placer.pt)
- - date_published: 2024-07-02T19:00:49.946457+00:00
-
- ## PlanetadeLivros
- - [http://www.planeta.pt](http://www.planeta.pt)
- - date_published: 2024-12-31T19:10:13.228452+00:00
-
- ## pnetliteratura.pt
- - [http://www.pnetliteratura.pt](http://www.pnetliteratura.pt)
- - date_published: 2024-12-22T10:01:02.355832+00:00
-
- ## Compete2020
- - [http://www.poci-compete2020.pt](http://www.poci-compete2020.pt)
- - date_published: 2024-07-09T19:53:31.564932+00:00
-
- ## pocketbook
- - [https://pocketbook.pt](https://pocketbook.pt)
- - date_published: 2024-07-20T16:11:55.956883+00:00
-
- ## Pocket Rotom
- - [https://pocketrotom.pt](https://pocketrotom.pt)
- - date_published: 2025-01-01T23:52:43.098056+00:00
-
- ## Ponto SJ
- - [https://pontosj.pt](https://pontosj.pt)
- - date_published: 2024-12-20T09:13:40.632021+00:00
-
- ## Sociedade Ponto Verde
- - [https://www.pontoverde.pt](https://www.pontoverde.pt)
- - date_published: 2024-12-20T11:29:59.993479+00:00
-
- ## Homepage
- - [http://www.pordata.pt](http://www.pordata.pt)
- - date_published: 2024-12-19T13:17:46+00:00
-
- ## Início - ePortugal.gov.pt
- - [https://www.portaldocidadao.pt](https://www.portaldocidadao.pt)
- - date_published: 2024-07-09T20:10:21.412452+00:00
-
- ## PORTAL DO CLIMA
- - [http://portaldoclima.pt](http://portaldoclima.pt)
- - date_published: 2024-08-07T22:48:17.304435+00:00
-
- ## Portal do Eleitor
- - [http://www.portaldoeleitor.pt](http://www.portaldoeleitor.pt)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Abre Horizontes - Porto Editora
- - [http://www.portoeditora.pt](http://www.portoeditora.pt)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Home - PT2020
- - [https://www.portugal2020.pt](https://www.portugal2020.pt)
- - date_published: 2021-02-02T06:45:59+00:00
-
- ## Wiki P@P
- - [https://wiki.portugal-a-programar.pt](https://wiki.portugal-a-programar.pt)
- - date_published: 2024-10-16T11:44:40.238681+00:00
-
- ## Home - Portugal-a-Programar
- - [https://www.portugal-a-programar.pt](https://www.portugal-a-programar.pt)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Melhores casinos online em Portugal
- - [https://www.portugalcasino.pt](https://www.portugalcasino.pt)
- - date_published: 2019-02-18T16:24:49+00:00
-
- ## Homepage - Portugal Chama
- - [https://portugalchama.pt](https://portugalchama.pt)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Portugal de norte a sul
- - [https://portugaldenorteasul.pt](https://portugaldenorteasul.pt)
- - date_published: 2024-12-20T08:28:33.960439+00:00
-
- ## Pousadas de Juventude
- - [https://www.pousadasjuventude.pt](https://www.pousadasjuventude.pt)
- - date_published: 2024-12-20T11:25:19.173871+00:00
-
- ## PiPplware
- - [http://pipplware.pplware.pt](http://pipplware.pplware.pt)
- - date_published: 2024-09-05T15:23:51.093692+00:00
-
- ## Praia Ambiente
- - [http://www.praiaambiente.pt](http://www.praiaambiente.pt)
- - date_published: 2024-12-20T12:03:34.694300+00:00
-
- ## Grupo Editorial Presença
- - [http://www.presenca.pt](http://www.presenca.pt)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Sítio Oficial de Informação da Presidência da República Portuguesa
- - [https://www.presidencia.pt](https://www.presidencia.pt)
- - date_published: 2025-02-09T12:36:36.132880+00:00
-
- ## DECO PROteste Saber é poder - Defesa do consumidor
- - [https://www.deco.proteste.pt](https://www.deco.proteste.pt)
- - date_published: 2024-12-20T11:00:00.411720+00:00
-
- ## Cinema PTGate
- - [https://cinema.ptgate.pt](https://cinema.ptgate.pt)
- - date_published: 2025-01-31T10:08:15.274695+00:00
-
- ## PTisp. Wherever internet can take you...
- - [https://ptisp.pt](https://ptisp.pt)
- - date_published: 2024-09-04T15:13:42+00:00
-
- ## Europe-Africa Space Earth Observation High-Level Forum
- - [https://africaeurope-eoforum.ptspace.pt](https://africaeurope-eoforum.ptspace.pt)
- - date_published: 2023-04-27T00:00:00+00:00
-
- ## Portuguese Space Agency
- - [https://ptspace.pt](https://ptspace.pt)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## UN Portugal |
- - [https://www.unportugal.ptspace.pt](https://www.unportugal.ptspace.pt)
- - date_published: 2024-10-14T21:16:59.785040+00:00
-
- ## Aletheia - Associação Científica e Cultural , Axioma - Publicações da Faculdade de Filosofia
- - [http://www.publicacoesfacfil.pt](http://www.publicacoesfacfil.pt)
- - date_published: 2024-12-23T21:20:11.338652+00:00
-
- ## Artéria - Lisboa contada por quem a tem no coração
- - [https://arteria.publico.pt](https://arteria.publico.pt)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Loja Assinaturas Público
- - [http://assinaturas.publico.pt](http://assinaturas.publico.pt)
- - date_published: 2025-02-04T09:49:21.309955+00:00
-
- ## CINECARTAZ
- - [http://cinecartaz.publico.pt](http://cinecartaz.publico.pt)
- - date_published: 2025-02-04T09:49:19.596523+00:00
-
- ## PÚBLICO
- - [http://coleccoes.publico.pt](http://coleccoes.publico.pt)
- - date_published: 2025-02-04T09:49:23.416956+00:00
-
- ## page
- - [https://comunique.publico.pt](https://comunique.publico.pt)
- - date_published: 2020-12-04T15:31:07+00:00
-
- ## Fugas
- - [http://fugas.publico.pt](http://fugas.publico.pt)
- - date_published: 2025-02-04T09:49:14.956639+00:00
-
- ## Público Imobiliário
- - [https://imobiliario.publico.pt](https://imobiliario.publico.pt)
- - date_published: 2024-07-12T20:41:12.465377+00:00
-
- ## PÚBLICO
- - [http://inimigo.publico.pt](http://inimigo.publico.pt)
- - date_published: 2025-02-04T09:49:12.005904+00:00
-
- ## Ípsilon
- - [http://ipsilon.publico.pt](http://ipsilon.publico.pt)
- - date_published: 2024-12-20T08:00:51.692349+00:00
-
- ## PÚBLICO
- - [http://lazer.publico.pt](http://lazer.publico.pt)
- - date_published: 2025-02-04T09:49:17.771674+00:00
-
- ## Ímpar
- - [http://lifestyle.publico.pt](http://lifestyle.publico.pt)
- - date_published: 2025-02-04T09:49:09.041031+00:00
-
- ## Loja Público
- - [https://loja.publico.pt](https://loja.publico.pt)
- - date_published: 2024-07-12T20:40:58.970714+00:00
-
- ## P3
- - [http://p3.publico.pt](http://p3.publico.pt)
- - date_published: 2025-02-04T09:49:05.806149+00:00
-
- ## PÚBLICO
- - [https://publico.pt](https://publico.pt)
- - date_published: 2024-05-10T06:15:48.860838+00:00
-
- ## PÚBLICO
- - [https://static.publico.pt](https://static.publico.pt)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Home - Vozes de Gaia
- - [https://vozesdegaia.publico.pt](https://vozesdegaia.publico.pt)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Publituris | O jornal da indústria do Turismo
- - [http://www.publituris.pt](http://www.publituris.pt)
- - date_published: 2024-12-31T16:27:23.954229+00:00
-
- ## PyCon Portugal 2023 Website
- - [https://2023.pycon.pt](https://2023.pycon.pt)
- - date_published: 2023-12-11T16:53:35+00:00
-
- ## PyCon Portugal 2024 Website
- - [https://2024.pycon.pt](https://2024.pycon.pt)
- - date_published: 2024-07-01T03:52:46.992728+00:00
-
- ## Quetzal Editores
- - [https://www.quetzaleditores.pt](https://www.quetzaleditores.pt)
- - date_published: 2024-12-23T20:34:30.661224+00:00
-
- ## quidnovi.pt
- - [http://www.quidnovi.pt](http://www.quidnovi.pt)
- - date_published: 2024-07-12T20:50:11.364936+00:00
-
- ## about
- - [https://quiteade.pt](https://quiteade.pt)
- - date_published: 2024-07-22T11:46:09.289770+00:00
-
- ## Home PT - R2C GROUP
- - [https://r2c.pt](https://r2c.pt)
- - date_published: 2024-12-20T10:49:15.753519+00:00
-
- ## Rádio online gratuita e transmissāo de música online
- - [https://www.radio.pt](https://www.radio.pt)
- - date_published: 2024-07-01T10:56:05.344184+00:00
-
- ## Início
- - [https://www.radioboanova.pt](https://www.radioboanova.pt)
- - date_published: 2020-09-12T03:01:30+00:00
-
- ## Rádio Comercial - A Melhor Música, Sempre! - R&aacute;dio Comercial
- - [https://radiocomercial.pt](https://radiocomercial.pt)
- - date_published: 2024-12-19T15:09:31+00:00
-
- ## Rádio Regional Centro - Rádio Regional Centro
- - [https://www.radioregionalcentro.pt](https://www.radioregionalcentro.pt)
- - date_published: 2024-12-20T14:18:48.653634+00:00
-
- ## Rádio de São Miguel 93.4
- - [https://www.radiosaomiguel.pt](https://www.radiosaomiguel.pt)
- - date_published: 2024-12-20T10:15:04+00:00
-
- ## Rádio Sines - 95.9 FM - A rádio do Litoral Alentejano
- - [http://www.radiosines.pt](http://www.radiosines.pt)
- - date_published: 2024-09-05T15:27:55.275674+00:00
-
- ## Melhores Casinos Online Portugal — Jogar Top 10 Sites de Casino Portugueses PT 2024
- - [http://www.radiozero.pt](http://www.radiozero.pt)
- - date_published: 2024-12-14T17:40:06.030839+00:00
-
- ## Rafael Albuquerque (rafaqueque)
- - [https://rafael.pt](https://rafael.pt)
- - date_published: 2024-05-28T17:47:18+00:00
-
- ## RAJA | Embalagens, caixas cartão, equipamentos para empresas
- - [https://www.rajapack.pt](https://www.rajapack.pt)
- - date_published: 2025-02-09T10:48:57.989956+00:00
-
- ## Ralph Lauren® PT | Promoção de verão até 50% de desconto
- - [https://www.ralphlauren.pt](https://www.ralphlauren.pt)
- - date_published: 2024-06-19T23:58:36.332096+00:00
-
- ## Revistas e colecionáveis ​​RBA (Loja Online) - RBA
- - [https://loja.rbaportugal.pt](https://loja.rbaportugal.pt)
- - date_published: 2024-10-14T22:52:39.148084+00:00
-
- ## Portal de Pesquisa RCAAP
- - [http://www.rcaap.pt](http://www.rcaap.pt)
- - date_published: 2024-12-20T09:08:23.502073+00:00
-
- ## Rádio Clube de Angra |  A Voz da Terceira
- - [https://rcangra.pt](https://rcangra.pt)
- - date_published: 2024-09-05T15:04:59.689194+00:00
-
- ## Rui Carlos Gonçalves
- - [https://rcgoncalves.pt](https://rcgoncalves.pt)
- - date_published: 2024-05-08T03:15:38.189196+00:00
-
- ## RCI - A única de Viseu
- - [https://www.rci.pt](https://www.rci.pt)
- - date_published: 2024-12-20T14:18:29.174324+00:00
-
- ## RealGaming.pt - Notícias sobre jogos, revisões, análises guias and mais!
- - [https://realgaming101.pt](https://realgaming101.pt)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Reativa | Marketing Digital | Fotografia | Filme | Design
- - [https://www.reativa.pt](https://www.reativa.pt)
- - date_published: 2024-09-05T14:02:05.455634+00:00
-
- ## Record: Tudo sobre desporto. Futebol, mercado, modalidades, resultados e classificações
- - [http://www.record.pt](http://www.record.pt)
- - date_published: 2024-06-25T18:52:17.480524+00:00
-
- ## Record FM - A sua música, sempre!
- - [https://www.recordfm.pt](https://www.recordfm.pt)
- - date_published: 2024-12-20T14:18:23.468317+00:00
-
- ## Redicom Commerce Cloud
- - [http://www.redicom.pt](http://www.redicom.pt)
- - date_published: 2025-02-03T03:08:47.081796+00:00
-
- ## Reino Blixtrombil Malifluous 4? - Um Mundo Mágico com IA
- - [https://reinoblixtrombilmalifluous.pt](https://reinoblixtrombilmalifluous.pt)
- - date_published: 2023-07-25T00:26:26+00:00
-
- ## relampago
- - [http://www.relampago.pt](http://www.relampago.pt)
- - date_published: 2022-03-29T21:57:15+00:00
-
- ## Relaxdays | Casa, Jardim, Desporto e Lazer
- - [https://relaxdays.pt](https://relaxdays.pt)
- - date_published: 2025-01-16T13:44:52.690402+00:00
-
- ## Loja Online RELI - A Rede de Livrarias Independentes
- - [https://livros.reli.pt](https://livros.reli.pt)
- - date_published: 2024-12-19T18:18:21+00:00
-
- ## Relógio D'Água - Editores
- - [http://www.relogiodagua.pt](http://www.relogiodagua.pt)
- - date_published: 2023-09-19T10:14:46+00:00
-
- ## Relogios.pt - A maior loja de relógios online • Relogios.pt
- - [https://www.relogios.pt](https://www.relogios.pt)
- - date_published: 2025-01-15T19:51:43.497476+00:00
-
- ## RE/MAX Portugal
- - [https://remax.pt](https://remax.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## JackHammer
- - [https://media.rentals.pt](https://media.rentals.pt)
- - date_published: 2024-09-05T14:57:55.300596+00:00
-
- ## Rentals.pt - Casas, apartamentos e alojamento para férias
- - [https://rentals.pt](https://rentals.pt)
- - date_published: 2024-06-10T06:55:50.883934+00:00
-
- ## Inicio
- - [http://sines.repsol.pt](http://sines.repsol.pt)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## CITROËN COMPRE O SEU VEÍCULO - Avaliação gratuita do seu veículo
- - [https://www.retoma-citroen.pt](https://www.retoma-citroen.pt)
- - date_published: 2024-07-12T06:30:31.446254+00:00
-
- ## Revista Militar
- - [http://www.revistamilitar.pt](http://www.revistamilitar.pt)
- - date_published: 2024-12-22T09:49:26.455466+00:00
-
- ## Ricardo Bernardo
- - [http://ricardobernardo.pt](http://ricardobernardo.pt)
- - date_published: 2024-01-23T19:17:44+00:00
-
- ## O Melhor Corretor Online da bolsa de valores, Negocie Ações online - RoboMarkets
- - [https://www.robomarkets.pt](https://www.robomarkets.pt)
- - date_published: 2025-02-03T14:05:06.862846+00:00
-
- ## __META_OG_TITLE__
- - [https://www.rochagreen.pt](https://www.rochagreen.pt)
- - date_published: 2025-02-09T12:38:56.975371+00:00
-
- ## Rock in Rio Academy 2024
- - [https://rockinrioacademy.pt](https://rockinrioacademy.pt)
- - date_published: 2024-06-10T06:57:21.870118+00:00
-
- ## Rock in Rio Lisboa
- - [https://rockinriolisboa.pt](https://rockinriolisboa.pt)
+ ## উইকিউক্তি
+ - [https://bn.wikiquote.org](https://bn.wikiquote.org)
+ - date_published: 2024-06-19T16:17:37+00:00
+
+ ## Tibetan Wikiquote - Wikimedia Incubator
+ - [https://bo.wikiquote.org](https://bo.wikiquote.org)
+ - date_published: 2024-07-12T02:58:38.785421+00:00
+
+ ## Bishnupriya Wikiquote - Wikimedia Incubator
+ - [https://bpy.wikiquote.org](https://bpy.wikiquote.org)
+ - date_published: 2024-07-12T04:46:05.750514+00:00
+
+ ## Wikiarroud
+ - [https://br.wikiquote.org](https://br.wikiquote.org)
+ - date_published: 2024-06-19T16:17:38+00:00
+
+ ## Wikicitati
+ - [https://bs.wikiquote.org](https://bs.wikiquote.org)
+ - date_published: 2024-06-19T16:17:38+00:00
+
+ ## Batak Mandailing Wikiquote - Wikimedia Incubator
+ - [https://btm.wikiquote.org](https://btm.wikiquote.org)
+ - date_published: 2024-09-18T03:07:28.789438+00:00
+
+ ## Buginese Wikiquote - Wikimedia Incubator
+ - [https://bug.wikiquote.org](https://bug.wikiquote.org)
+ - date_published: 2024-07-12T04:35:20.088215+00:00
+
+ ## Viquidites
+ - [https://ca.wikiquote.org](https://ca.wikiquote.org)
+ - date_published: 2024-06-22T21:36:08+00:00
+
+ ## Cebuano Wikiquote - Wikimedia Incubator
+ - [https://ceb.wikiquote.org](https://ceb.wikiquote.org)
+ - date_published: 2024-07-12T05:28:37.867275+00:00
+
+ ## Chechen Wikiquote - Wikimedia Incubator
+ - [https://ce.wikiquote.org](https://ce.wikiquote.org)
+ - date_published: 2024-07-11T22:03:07.076838+00:00
+
+ ## دەستپێک - Wq/ckb - Wikimedia Incubator
+ - [https://ckb.wikiquote.org](https://ckb.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wikiquote
+ - [https://co.wikiquote.org](https://co.wikiquote.org)
+ - date_published: 2024-06-09T02:35:08+00:00
+
+ ## Wikicitáty
+ - [https://cs.wikiquote.org](https://cs.wikiquote.org)
+ - date_published: 2024-06-19T16:17:39+00:00
+
+ ## Church Slavic Wikiquote - Wikimedia Incubator
+ - [https://cu.wikiquote.org](https://cu.wikiquote.org)
+ - date_published: 2024-07-12T02:36:09.052813+00:00
+
+ ## Wq/cv - Wikimedia Incubator
+ - [https://cv.wikiquote.org](https://cv.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wikiquote
+ - [https://cy.wikiquote.org](https://cy.wikiquote.org)
+ - date_published: 2024-06-19T16:17:39+00:00
+
+ ## Dagbani Wikiquote - Wikimedia Incubator
+ - [https://dag.wikiquote.org](https://dag.wikiquote.org)
+ - date_published: 2024-07-12T03:14:49.327099+00:00
+
+ ## Wikiquote
+ - [https://da.wikiquote.org](https://da.wikiquote.org)
+ - date_published: 2024-06-19T16:17:39+00:00
+
+ ## Wikiquote
+ - [https://de.wikiquote.org](https://de.wikiquote.org)
+ - date_published: 2024-06-19T16:17:40+00:00
+
+ ## Dagaare Wikiquote - Wikimedia Incubator
+ - [https://dga.wikiquote.org](https://dga.wikiquote.org)
+ - date_published: 2024-07-12T03:14:12.655263+00:00
+
+ ## Wq/diq - Wikimedia Incubator
+ - [https://diq.wikiquote.org](https://diq.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Divehi Wikiquote - Wikimedia Incubator
+ - [https://dv.wikiquote.org](https://dv.wikiquote.org)
+ - date_published: 2024-07-12T02:57:02.206670+00:00
+
+ ## Ewe Wikiquote - Wikimedia Incubator
+ - [https://ee.wikiquote.org](https://ee.wikiquote.org)
+ - date_published: 2024-07-12T03:02:11.912815+00:00
+
+ ## Βικιφθέγματα
+ - [https://el.wikiquote.org](https://el.wikiquote.org)
+ - date_published: 2024-06-19T16:17:40+00:00
+
+ ## Wikiquote
+ - [https://en.m.wikiquote.org](https://en.m.wikiquote.org)
  - date_published: 2024-06-23T00:00:00+00:00
 
- ## Tech Rock Experience
- - [https://techrocks.rockinriolisboa.pt](https://techrocks.rockinriolisboa.pt)
- - date_published: 2024-06-18T19:14:58+00:00
-
- ## Roma Editora
- - [http://roma-editora.pt](http://roma-editora.pt)
- - date_published: 2024-07-12T20:49:40.038164+00:00
-
- ## Roman Imankulov
- - [https://roman.pt](https://roman.pt)
- - date_published: 2024-05-05T14:51:20+00:00
-
- ## ROOFTOP EVA – Your summer start here
- - [https://rooftop-eva.pt](https://rooftop-eva.pt)
- - date_published: 2024-07-07T05:54:28.859070+00:00
-
- ## Estrada Nacional 2
- - [https://www.rotan2.pt](https://www.rotan2.pt)
- - date_published: 2024-12-20T12:05:55.194509+00:00
-
- ## Rothoblaas - materiais para a construção de madeira
- - [https://www.rothoblaas.pt](https://www.rothoblaas.pt)
- - date_published: 2025-01-16T14:27:38.281207+00:00
-
- ## RPF
- - [https://www.rpf.pt](https://www.rpf.pt)
- - date_published: 2024-12-20T08:16:31+00:00
-
- ## Antena 1 - RTP
- - [https://antena1.rtp.pt](https://antena1.rtp.pt)
- - date_published: 2024-05-09T06:22:39.314246+00:00
-
- ## RTP Arena - Esports
- - [http://arena.rtp.pt](http://arena.rtp.pt)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## RTP Arquivos
- - [https://arquivos.rtp.pt](https://arquivos.rtp.pt)
- - date_published: 2024-05-09T06:22:41.568773+00:00
-
- ## IIS7
- - [http://docweb.rtp.pt](http://docweb.rtp.pt)
- - date_published: 2010-04-21T17:24:24+00:00
-
- ## RTP Ensina
- - [https://ensina.rtp.pt](https://ensina.rtp.pt)
- - date_published: 2024-05-09T06:22:44.030543+00:00
-
- ## Museu Virtual da RTP
- - [https://museu.rtp.pt](https://museu.rtp.pt)
- - date_published: 2024-05-09T06:22:47.291315+00:00
-
- ## RTP | Comercial
- - [https://publicidade.rtp.pt](https://publicidade.rtp.pt)
- - date_published: 2024-05-09T06:22:54.498005+00:00
-
- ## RDP África - RTP
- - [https://rdpafrica.rtp.pt](https://rdpafrica.rtp.pt)
- - date_published: 2024-05-09T06:22:59.735075+00:00
-
- ## RTP África
- - [https://rtpafrica.rtp.pt](https://rtpafrica.rtp.pt)
- - date_published: 2024-05-09T06:22:52.497659+00:00
-
- ## RTP - Rádio e Televisão de Portugal
- - [https://rtp.pt](https://rtp.pt)
- - date_published: 2024-03-09T22:52:42.458441+00:00
-
- ## RUM
- - [https://rum.pt](https://rum.pt)
- - date_published: 2024-12-20T14:18:43.284648+00:00
-
- ## Home | Sociedade Anti-Alcoólica Portuguesa
- - [https://www.saap.pt](https://www.saap.pt)
- - date_published: 2024-10-18T21:25:26.849935+00:00
-
- ## Página Inicial | 20 Anos Beleza Real
- - [https://20anosdebelezareal.sabado.pt](https://20anosdebelezareal.sabado.pt)
- - date_published: 2024-07-12T20:30:33.183014+00:00
-
- ## Home | La Dolce Vita
- - [https://ladolcevita.sabado.pt](https://ladolcevita.sabado.pt)
- - date_published: 2024-07-12T20:30:48.530844+00:00
-
- ## (M)Eu, Verso | Saúde em Poesia
- - [https://meuverso.sabado.pt](https://meuverso.sabado.pt)
- - date_published: 2024-07-12T20:30:13.218448+00:00
-
- ## Respeito | Respeito
- - [https://respeitopelaagua.sabado.pt](https://respeitopelaagua.sabado.pt)
- - date_published: 2024-07-12T20:31:06.724629+00:00
-
- ## SÁBADO
- - [http://www.sabado.pt](http://www.sabado.pt)
- - date_published: 2024-06-25T18:52:58.455811+00:00
-
- ## Bem Vindo
- - [https://salgueiroproperties.pt](https://salgueiroproperties.pt)
- - date_published: 2024-12-20T14:15:02.498653+00:00
-
- ## Santander
- - [https://santander.pt](https://santander.pt)
- - date_published: 2024-09-27T13:01:51+00:00
-
- ## Santander Consumer Finance S.A., Sucursal em Portugal, financiamento à sua medida
- - [https://www.santanderconsumer.pt](https://www.santanderconsumer.pt)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Início
- - [https://21tv.sapo.pt](https://21tv.sapo.pt)
- - date_published: 2024-06-10T07:00:24.839276+00:00
-
- ## SAPO 24
- - [https://24.sapo.pt](https://24.sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## A Douta Ignorância
- - [https://adoutaignorancia.blogs.sapo.pt](https://adoutaignorancia.blogs.sapo.pt)
- - date_published: 2024-12-22T11:57:15.849704+00:00
-
- ## A espuma dos dias
- - [https://aespumadosdias.blogs.sapo.pt](https://aespumadosdias.blogs.sapo.pt)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## A Gata Christie
- - [http://agatachristie.blogs.sapo.pt](http://agatachristie.blogs.sapo.pt)
- - date_published: 2024-07-12T20:33:59.167961+00:00
-
- ## Ainda Há Bilhetes
- - [https://aindahabilhetes.blogs.sapo.pt](https://aindahabilhetes.blogs.sapo.pt)
- - date_published: 2024-07-12T20:33:43.196818+00:00
-
- ## ALÉM GUADIANA
- - [https://alemguadiana.blogs.sapo.pt](https://alemguadiana.blogs.sapo.pt)
- - date_published: 2024-12-20T08:56:15.362568+00:00
-
- ## SAPO Alertas
- - [https://alertas.sapo.pt](https://alertas.sapo.pt)
- - date_published: 2024-06-10T06:58:14.808868+00:00
-
- ## Almadense - As notícias de Almada
- - [https://almadense.sapo.pt](https://almadense.sapo.pt)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## Portugal Amanhã - Pensar o futuro do país.
- - [https://amanha.sapo.pt](https://amanha.sapo.pt)
- - date_published: 2024-06-10T06:57:34.691310+00:00
-
- ## Home - Amarante Magazine
- - [https://amarantemagazine.sapo.pt](https://amarantemagazine.sapo.pt)
- - date_published: 2024-06-10T06:57:38.520181+00:00
-
- ## Jornal A Nação - jornal online, íntegros e atuais.
- - [https://anacao.sapo.pt](https://anacao.sapo.pt)
- - date_published: 2024-06-10T06:59:43.854175+00:00
-
- ## antologia
- - [http://antologia.blogs.sapo.pt](http://antologia.blogs.sapo.pt)
- - date_published: 2024-07-12T21:01:48.446471+00:00
-
- ## Home
- - [https://aponte.sapo.pt](https://aponte.sapo.pt)
- - date_published: 2024-06-10T06:58:12.060982+00:00
-
- ## A Psique de Guilherme
- - [https://apsiquedeguilherme.blogs.sapo.pt](https://apsiquedeguilherme.blogs.sapo.pt)
- - date_published: 2024-07-12T20:29:53.682240+00:00
-
- ## COLEÇÃO VINTAGE – OBRAS QUE MARCAM
- - [https://asavintage.blogs.sapo.pt](https://asavintage.blogs.sapo.pt)
- - date_published: 2024-12-22T08:21:10.651693+00:00
-
- ## Página Inicial - Auto SAPO
- - [https://auto-frontoffice.sapo.pt](https://auto-frontoffice.sapo.pt)
- - date_published: 2024-09-05T15:21:15.669769+00:00
-
- ## Auto SAPO - Comprar e vender carros
- - [https://auto.sapo.pt](https://auto.sapo.pt)
- - date_published: 2024-06-10T06:58:09.547938+00:00
-
- ## A Voz de Bragança - Imprensa Regional
- - [https://avozdebraganca.sapo.pt](https://avozdebraganca.sapo.pt)
- - date_published: 2024-09-05T15:02:06.529018+00:00
-
- ## A Voz de Castelo Branco - Imprensa Regional
- - [https://avozdecastelobranco.sapo.pt](https://avozdecastelobranco.sapo.pt)
- - date_published: 2024-09-05T15:01:33.440283+00:00
-
- ## A Voz de Évora - Imprensa Regional
- - [https://avozdeevora.sapo.pt](https://avozdeevora.sapo.pt)
- - date_published: 2024-06-10T07:00:16.278296+00:00
-
- ## A Voz de Matosinhos - Imprensa Regional
- - [https://avozdematosinhos.sapo.pt](https://avozdematosinhos.sapo.pt)
- - date_published: 2024-06-10T06:55:49.178208+00:00
-
- ## Terras de Santa Maria - Imprensa Regional
- - [https://avozdeterrasdesantamaria.sapo.pt](https://avozdeterrasdesantamaria.sapo.pt)
- - date_published: 2024-09-05T15:01:11.466989+00:00
-
- ## Azeméis.Net Notícias - Jornal online de Oliveira de Azeméis
- - [https://azemeisnet.sapo.pt](https://azemeisnet.sapo.pt)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Beira Alta TV
- - [https://beiraaltatv.sapo.pt](https://beiraaltatv.sapo.pt)
- - date_published: 2024-06-10T06:57:29.302931+00:00
-
- ## Bic Laranja
- - [http://biclaranja.blogs.sapo.pt](http://biclaranja.blogs.sapo.pt)
- - date_published: 2024-07-12T20:40:22.895908+00:00
-
- ## SAPO Blogs
- - [https://blogs.sapo.pt](https://blogs.sapo.pt)
- - date_published: 2024-05-10T06:15:29.612455+00:00
-
- ## BombeirosTV | Portal de Notícias de e sobre bombeiros
- - [https://bombeirostv.sapo.pt](https://bombeirostv.sapo.pt)
- - date_published: 2023-04-11T14:10:10+00:00
-
- ## Canal Alentejo - Canal Alentejo
- - [https://canalalentejo.sapo.pt](https://canalalentejo.sapo.pt)
- - date_published: 2024-06-10T06:59:46.492967+00:00
-
- ## Caricaturas por Encomenda
- - [https://caricaturasencomendadas.blogs.sapo.pt](https://caricaturasencomendadas.blogs.sapo.pt)
- - date_published: 2024-09-05T15:21:37.940275+00:00
-
- ## Casa dos Poetas - Blogue de Poesia, poetas portugueses e do mundo
- - [http://casadospoetas.blogs.sapo.pt](http://casadospoetas.blogs.sapo.pt)
- - date_published: 2024-07-12T21:05:16.859157+00:00
-
- ## CASA SAPO - Portal Nacional de Imobiliário
- - [https://casa.sapo.pt](https://casa.sapo.pt)
- - date_published: 2024-09-05T14:57:54.103383+00:00
-
- ## CentroTV - Notícias Região Centro de Portugal
- - [https://centrotv.sapo.pt](https://centrotv.sapo.pt)
- - date_published: 2024-06-10T06:55:33.145240+00:00
-
- ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
- - [http://ciberduvidas.sapo.pt](http://ciberduvidas.sapo.pt)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Cidade do Porto - Imprensa Regional
- - [https://cidadedoporto.sapo.pt](https://cidadedoporto.sapo.pt)
- - date_published: 2024-09-05T15:02:04.047010+00:00
-
- ## Cidade Hoje - Rádio / Jornal / TV
- - [https://cidadehoje.sapo.pt](https://cidadehoje.sapo.pt)
- - date_published: 2024-06-10T06:56:08.814954+00:00
-
- ## Cinematograficamente Falando ...
- - [https://cinematograficamentefalando.blogs.sapo.pt](https://cinematograficamentefalando.blogs.sapo.pt)
- - date_published: 2024-07-12T20:34:52.884056+00:00
-
- ## Clube de Jornalistas
- - [https://clubedejornalistas.sapo.pt](https://clubedejornalistas.sapo.pt)
- - date_published: 2024-06-10T06:58:27.151319+00:00
-
- ## Concelho de Vila Nova de Gaia - Imprensa Regional
- - [https://concelhodevilanovadegaia.sapo.pt](https://concelhodevilanovadegaia.sapo.pt)
- - date_published: 2024-09-05T15:01:20.723301+00:00
-
- ## Correio da Beira Serra
- - [https://correiodabeiraserra.sapo.pt](https://correiodabeiraserra.sapo.pt)
- - date_published: 2024-06-10T06:56:31.823326+00:00
-
- ## Correio de Azambuja – Website do Jornal Correio de Azambuja
- - [https://correiodeazambuja.sapo.pt](https://correiodeazambuja.sapo.pt)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Correio de Azeméis - Notícias de Oliveira de Azeméis
- - [https://correiodeazemeis.sapo.pt](https://correiodeazemeis.sapo.pt)
- - date_published: 2024-06-10T06:59:50.084405+00:00
-
- ## Corta-fitas
- - [http://corta-fitas.blogs.sapo.pt](http://corta-fitas.blogs.sapo.pt)
- - date_published: 2024-07-12T20:34:37.522284+00:00
-
- ## Defender o Quadrado
- - [https://defenderoquadrado.blogs.sapo.pt](https://defenderoquadrado.blogs.sapo.pt)
- - date_published: 2024-07-12T20:33:13.673616+00:00
-
- ## Homepage
- - [https://defesadeespinho.sapo.pt](https://defesadeespinho.sapo.pt)
- - date_published: 2024-06-10T06:59:14.062657+00:00
-
- ## Delito de Opinião
- - [https://delitodeopiniao.blogs.sapo.pt](https://delitodeopiniao.blogs.sapo.pt)
- - date_published: 2024-05-10T06:15:39.781013+00:00
-
- ## Desportivo Transmontano
- - [https://desportivotransmontano.sapo.pt](https://desportivotransmontano.sapo.pt)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## SAPO Desporto
- - [https://desporto.sapo.pt](https://desporto.sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
- - [http://diariodigital.sapo.pt](http://diariodigital.sapo.pt)
- - date_published: 2024-12-20T08:00:15.848767+00:00
-
- ## Distrito Setúbal - País - Mundo - Diário do Distrito
- - [https://diariodistrito.sapo.pt](https://diariodistrito.sapo.pt)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
- - [http://dn.sapo.pt](http://dn.sapo.pt)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## DOISDINHOS MP3
- - [https://doisdinhosmp3.blogs.sapo.pt](https://doisdinhosmp3.blogs.sapo.pt)
- - date_published: 2024-05-10T06:16:19.589522+00:00
-
- ## Dúvidas Cor de Rosa
- - [https://duvidascor-de-rosa.blogs.sapo.pt](https://duvidascor-de-rosa.blogs.sapo.pt)
- - date_published: 2024-07-12T20:29:56.744478+00:00
-
- ## e24.pt: Notícias da região do Cávado e Lima
- - [https://e24.sapo.pt](https://e24.sapo.pt)
- - date_published: 2021-09-28T14:55:08+00:00
-
- ## Homepage
- - [https://eco.sapo.pt](https://eco.sapo.pt)
- - date_published: 2024-06-10T06:54:41.329308+00:00
-
- ## IP
- - [https://edicoespqp.blogs.sapo.pt](https://edicoespqp.blogs.sapo.pt)
- - date_published: 2023-11-29T20:43:51.552919+00:00
- - tags: ['personal']
-
- ## SAPO Emprego - Encontre o emprego certo
- - [https://emprego.sapo.pt](https://emprego.sapo.pt)
- - date_published: 2024-06-10T06:57:09.847156+00:00
-
- ## Estação Diária
- - [https://estacaodiariajornal.sapo.pt](https://estacaodiariajornal.sapo.pt)
- - date_published: 2024-06-10T06:59:30.392136+00:00
-
- ## Executive Digest - A leitura indispensável para executivos
- - [https://executivedigest.sapo.pt](https://executivedigest.sapo.pt)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Turismo de Centro
- - [https://experienciasnocentro.sapo.pt](https://experienciasnocentro.sapo.pt)
- - date_published: 2024-09-02T14:20:15+00:00
-
- ## Pesquisa por: expresso sapo - SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
- - [http://expresso.sapo.pt](http://expresso.sapo.pt)
- - date_published: 2024-12-31T20:17:21.844920+00:00
-
- ## SAPO Farmácias: Todas as farmácias de serviço e abertas
- - [https://farmacias.sapo.pt](https://farmacias.sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Faro Informação - Imprensa Regional
- - [https://faroinformacao.sapo.pt](https://faroinformacao.sapo.pt)
- - date_published: 2024-09-05T15:01:09.206241+00:00
-
- ## Feriados, Pontes e Férias
- - [https://feriadospontesferias.sapo.pt](https://feriadospontesferias.sapo.pt)
- - date_published: 2024-06-10T06:56:35.274830+00:00
-
- ## Forever Young
- - [https://foreveryoung.sapo.pt](https://foreveryoung.sapo.pt)
- - date_published: 2019-07-02T09:22:12+00:00
-
- ## SAPO Fotos
- - [https://fotos.sapo.pt](https://fotos.sapo.pt)
- - date_published: 2024-09-05T15:21:57.740266+00:00
-
- ## Home
- - [https://greenefact.sapo.pt](https://greenefact.sapo.pt)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Green Savers
- - [https://greensavers.sapo.pt](https://greensavers.sapo.pt)
- - date_published: 2024-06-10T06:59:16.155978+00:00
-
- ## HenriCartoon
- - [https://henricartoon.blogs.sapo.pt](https://henricartoon.blogs.sapo.pt)
- - date_published: 2024-06-10T06:58:13.678110+00:00
-
- ## Human Resources Portugal
- - [https://hrportugal.sapo.pt](https://hrportugal.sapo.pt)
- - date_published: 2019-04-08T21:33:48+00:00
-
- ## SAPO ID
- - [https://id.sapo.pt](https://id.sapo.pt)
- - date_published: 2024-07-12T20:47:27.427486+00:00
-
- ## Incursões
- - [http://incursoes.blogs.sapo.pt](http://incursoes.blogs.sapo.pt)
- - date_published: 2024-07-12T20:34:27.305994+00:00
-
- ## infor.media
- - [https://informedia.sapo.pt](https://informedia.sapo.pt)
- - date_published: 2024-06-10T06:55:53.585833+00:00
-
- ## Jornal i - notícias, política, opinião
- - [https://ionline.sapo.pt](https://ionline.sapo.pt)
- - date_published: 2024-05-10T06:15:36.824941+00:00
-
- ## Jornais Nacionais - Capas de jornais e revistas de hoje - SAPO
- - [http://jornais.sapo.pt](http://jornais.sapo.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Alto Alentejo
- - [https://jornalaltoalentejo.sapo.pt](https://jornalaltoalentejo.sapo.pt)
- - date_published: 2024-06-10T06:55:02.352538+00:00
-
- ## O mais antigo jornal do concelho - Jornal Concelho de Palmela
- - [https://jornalconcelhodepalmela.sapo.pt](https://jornalconcelhodepalmela.sapo.pt)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Notícias da atualidade | Jornal de Abrantes
- - [https://jornaldeabrantes.sapo.pt](https://jornaldeabrantes.sapo.pt)
- - date_published: 2024-06-10T06:55:16.639776+00:00
-
- ## Jornal de Beja - Imprensa Regional
- - [https://jornaldebeja.sapo.pt](https://jornaldebeja.sapo.pt)
- - date_published: 2024-09-05T15:01:52.170622+00:00
-
- ## Jornal de Oleiros
- - [https://jornaldeoleiros.sapo.pt](https://jornaldeoleiros.sapo.pt)
- - date_published: 2010-07-30T00:30:01+00:00
-
- ## Jornal de Portalegre - Imprensa Regional
- - [https://jornaldeportalegre.sapo.pt](https://jornaldeportalegre.sapo.pt)
- - date_published: 2024-09-05T15:01:58.622052+00:00
-
- ## Jornal de Santarém - Imprensa Regional
- - [https://jornaldesantarem.sapo.pt](https://jornaldesantarem.sapo.pt)
- - date_published: 2024-09-05T15:01:06.859144+00:00
-
- ## O Jornal Económico
- - [http://jornaleconomico.sapo.pt](http://jornaleconomico.sapo.pt)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## nothing
- - [https://js.sapo.pt](https://js.sapo.pt)
- - date_published: 2013-06-11T18:29:20+00:00
-
- ## Pplware Kids - Tudo sobre tecnologia
- - [https://kids.pplware.sapo.pt](https://kids.pplware.sapo.pt)
- - date_published: 2024-09-05T15:25:41.206433+00:00
-
- ## Leiria Informação - Imprensa Regional
- - [https://leiriainformacao.sapo.pt](https://leiriainformacao.sapo.pt)
- - date_published: 2024-09-05T15:01:15.036712+00:00
-
- ## Homepage | Revista Líder Magazine
- - [https://lidermagazine.sapo.pt](https://lidermagazine.sapo.pt)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## SAPO Lifestyle
- - [https://lifestyle.sapo.pt](https://lifestyle.sapo.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Pesquisa por: livros sapo - SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
- - [http://livros.sapo.pt](http://livros.sapo.pt)
- - date_published: 2024-12-22T10:02:32.839296+00:00
-
- ## SAPO Login
- - [https://login.sapo.pt](https://login.sapo.pt)
- - date_published: 2024-06-10T06:59:24.740488+00:00
-
- ## MAGG
- - [https://magg.sapo.pt](https://magg.sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## SAPO Mag
- - [https://mag.sapo.pt](https://mag.sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## SAPO Mail
- - [https://mail.sapo.pt](https://mail.sapo.pt)
- - date_published: 2024-03-19T12:36:49+00:00
-
- ## Mais Beiras Informação
- - [https://maisbeiras.sapo.pt](https://maisbeiras.sapo.pt)
- - date_published: 2024-06-10T06:57:57.350330+00:00
-
- ## Marketeer
- - [https://marketeer.sapo.pt](https://marketeer.sapo.pt)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Miranda
- - [https://miranda.sapo.pt](https://miranda.sapo.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Mood Magazine
- - [https://mood.sapo.pt](https://mood.sapo.pt)
- - date_published: 2015-03-21T14:38:08+00:00
-
- ## Mundial FM
- - [https://mundialfm.sapo.pt](https://mundialfm.sapo.pt)
- - date_published: 2024-06-10T07:00:09.358831+00:00
-
- ## Blog Privado - SAPO Blogs
- - [http://mundopessoa.blogs.sapo.pt](http://mundopessoa.blogs.sapo.pt)
- - date_published: 2024-07-12T20:48:45.954272+00:00
-
- ## Home - Notícias de Águeda
- - [https://noticiasdeagueda.sapo.pt](https://noticiasdeagueda.sapo.pt)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Notícias de Anadia
- - [https://noticiasdeanadia.sapo.pt](https://noticiasdeanadia.sapo.pt)
- - date_published: 2024-06-10T06:59:11.736742+00:00
-
- ## Início
- - [https://noticiasdetabua.sapo.pt](https://noticiasdetabua.sapo.pt)
- - date_published: 2022-03-04T16:51:10+00:00
-
- ## Notícias de Vila Real
- - [https://noticiasdevilareal.sapo.pt](https://noticiasdevilareal.sapo.pt)
- - date_published: 2024-06-10T06:57:24.942547+00:00
-
- ## Homepage
- - [https://noticiasdosorraia.sapo.pt](https://noticiasdosorraia.sapo.pt)
- - date_published: 2019-06-27T16:04:27+00:00
-
- ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
- - [https://noticias.sapo.pt](https://noticias.sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## SILVA
- - [https://novasilva.blogs.sapo.pt](https://novasilva.blogs.sapo.pt)
- - date_published: 2024-05-10T06:16:27.045173+00:00
-
- ## O diário de Vânia
- - [https://odiariodevania.blogs.sapo.pt](https://odiariodevania.blogs.sapo.pt)
- - date_published: 2024-06-10T06:58:43.886060+00:00
-
- ## ODigital - Jornal Online
- - [https://odigital.sapo.pt](https://odigital.sapo.pt)
+ ## Wikiquote
+ - [https://en.wikiquote.org](https://en.wikiquote.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Vikicitaro
+ - [https://eo.wikiquote.org](https://eo.wikiquote.org)
+ - date_published: 2024-06-19T16:17:41+00:00
+
+ ## Wikiquote
+ - [https://es.wikiquote.org](https://es.wikiquote.org)
+ - date_published: 2024-06-22T08:08:00+00:00
+
+ ## Vikitsitaadid
+ - [https://et.wikiquote.org](https://et.wikiquote.org)
+ - date_published: 2024-06-21T09:40:04+00:00
+
+ ## Wikiquote
+ - [https://eu.wikiquote.org](https://eu.wikiquote.org)
+ - date_published: 2024-06-19T16:17:42+00:00
+
+ ## Wq/fat - Wikimedia Incubator
+ - [https://fat.wikiquote.org](https://fat.wikiquote.org)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## ویکی‌گفتاورد
+ - [https://fa.wikiquote.org](https://fa.wikiquote.org)
+ - date_published: 2024-06-19T16:17:42+00:00
+
+ ## Fula Wikiquote - Wikimedia Incubator
+ - [https://ff.wikiquote.org](https://ff.wikiquote.org)
+ - date_published: 2024-07-12T03:01:04.598139+00:00
+
+ ## Wikisitaatit
+ - [https://fi.m.wikiquote.org](https://fi.m.wikiquote.org)
+ - date_published: 2024-10-08T13:41:36+00:00
+
+ ## Wikisitaatit
+ - [https://fi.wikiquote.org](https://fi.wikiquote.org)
+ - date_published: 2024-06-11T12:31:09+00:00
+
+ ## Wikiquote
+ - [https://fr.m.wikiquote.org](https://fr.m.wikiquote.org)
+ - date_published: 2024-07-11T06:02:52+00:00
+
+ ## Northern Frisian Wikiquote - Wikimedia Incubator
+ - [https://frr.wikiquote.org](https://frr.wikiquote.org)
+ - date_published: 2024-07-12T03:33:52.669246+00:00
+
+ ## Wikiquote
+ - [https://fr.wikiquote.org](https://fr.wikiquote.org)
+ - date_published: 2024-05-10T04:24:52.558674+00:00
+
+ ## Friulian Wikiquote - Wikimedia Incubator
+ - [https://fur.wikiquote.org](https://fur.wikiquote.org)
+ - date_published: 2024-07-12T05:34:46.136930+00:00
+
+ ## Gan Wikiquote - Wikimedia Incubator
+ - [https://gan.wikiquote.org](https://gan.wikiquote.org)
+ - date_published: 2024-07-12T02:46:08.909155+00:00
+
+ ## Príomh­leathanach - Vicísliocht
+ - [https://ga.wikiquote.org](https://ga.wikiquote.org)
+ - date_published: 2024-06-09T02:35:16+00:00
+
+ ## Wikiquote
+ - [https://gl.wikiquote.org](https://gl.wikiquote.org)
+ - date_published: 2024-06-19T16:17:44+00:00
+
+ ## Guarani Wikiquote - Wikimedia Incubator
+ - [https://gn.wikiquote.org](https://gn.wikiquote.org)
+ - date_published: 2024-09-18T03:02:23.826563+00:00
+
+ ## Goan Konkani Wikiquote - Wikimedia Incubator
+ - [https://gom.wikiquote.org](https://gom.wikiquote.org)
+ - date_published: 2024-07-12T02:43:25.107249+00:00
+
+ ## Main Page - Wq/gor - Wikimedia Incubator
+ - [https://gor.wikiquote.org](https://gor.wikiquote.org)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Gothic Wikiquote - Wikimedia Incubator
+ - [https://got.wikiquote.org](https://got.wikiquote.org)
+ - date_published: 2024-07-12T05:16:13.115621+00:00
+
+ ## Ghanaian Pidgin Wikiquote - Wikimedia Incubator
+ - [https://gpe.wikiquote.org](https://gpe.wikiquote.org)
+ - date_published: 2024-07-12T03:21:08.472066+00:00
+
+ ## Frafra Wikiquote - Wikimedia Incubator
+ - [https://gur.wikiquote.org](https://gur.wikiquote.org)
+ - date_published: 2024-07-12T03:03:21.412696+00:00
+
+ ## વિકિસૂક્તિ
+ - [https://gu.wikiquote.org](https://gu.wikiquote.org)
+ - date_published: 2024-06-19T16:17:44+00:00
+
+ ## Wikiquote
+ - [https://guw.wikiquote.org](https://guw.wikiquote.org)
+ - date_published: 2024-06-19T16:17:44+00:00
+
+ ## Manx Wikiquote - Wikimedia Incubator
+ - [https://gv.wikiquote.org](https://gv.wikiquote.org)
+ - date_published: 2024-07-12T02:34:56.967085+00:00
+
+ ## Babban shafi - Wq/ha - Wikimedia Incubator
+ - [https://ha.wikiquote.org](https://ha.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Papa Kinohi - Wq/haw - Wikimedia Incubator
+ - [https://haw.wikiquote.org](https://haw.wikiquote.org)
+ - date_published: 2024-06-28T05:04:25+00:00
+
+ ## ויקיציטוט
+ - [https://he.m.wikiquote.org](https://he.m.wikiquote.org)
+ - date_published: 2024-09-16T02:59:11+00:00
+
+ ## ויקיציטוט
+ - [https://he.wikiquote.org](https://he.wikiquote.org)
+ - date_published: 2024-06-15T04:25:12+00:00
+
+ ## विकिसूक्ति
+ - [https://hi.wikiquote.org](https://hi.wikiquote.org)
+ - date_published: 2024-06-19T16:17:45+00:00
+
+ ## Wikicitat
+ - [https://hr.wikiquote.org](https://hr.wikiquote.org)
+ - date_published: 2024-06-19T16:17:45+00:00
+
+ ## Paj prensipal - Wq/ht - Wikimedia Incubator
+ - [https://ht.wikiquote.org](https://ht.wikiquote.org)
+ - date_published: 2024-06-28T05:33:55+00:00
+
+ ## Wikidézet
+ - [https://hu.wikiquote.org](https://hu.wikiquote.org)
+ - date_published: 2024-06-19T16:17:46+00:00
+
+ ## Վիքիքաղվածք
+ - [https://hy.wikiquote.org](https://hy.wikiquote.org)
+ - date_published: 2024-06-19T16:17:46+00:00
+
+ ## Wikikutip
+ - [https://id.wikiquote.org](https://id.wikiquote.org)
+ - date_published: 2024-06-19T16:17:46+00:00
+
+ ## Interlingue Wikiquote - Wikimedia Incubator
+ - [https://ie.wikiquote.org](https://ie.wikiquote.org)
+ - date_published: 2024-07-12T02:51:05.977086+00:00
+
+ ## Igala Wikiquote - Wikimedia Incubator
+ - [https://igl.wikiquote.org](https://igl.wikiquote.org)
+ - date_published: 2024-07-12T03:19:33.884714+00:00
+
+ ## Wikiquote
+ - [https://ig.wikiquote.org](https://ig.wikiquote.org)
+ - date_published: 2024-06-19T16:17:46+00:00
+
+ ## Wikivitnun
+ - [https://is.wikiquote.org](https://is.wikiquote.org)
+ - date_published: 2024-06-19T16:17:47+00:00
+
+ ## Wikiquote
+ - [https://it.m.wikiquote.org](https://it.m.wikiquote.org)
+ - date_published: 2024-07-13T21:58:14+00:00
+
+ ## Wikiquote
+ - [https://it.wikiquote.org](https://it.wikiquote.org)
+ - date_published: 2024-05-11T11:24:57.383933+00:00
+
+ ## Wikiquote
+ - [https://ja.wikiquote.org](https://ja.wikiquote.org)
+ - date_published: 2024-06-19T16:17:48+00:00
+
+ ## Pendhapa - Wq/jv - Wikimedia Incubator
+ - [https://jv.wikiquote.org](https://jv.wikiquote.org)
+ - date_published: 2024-06-28T04:43:47+00:00
+
+ ## Bas bet - Wq/kaa - Wikimedia Incubator
+ - [https://kaa.wikiquote.org](https://kaa.wikiquote.org)
+ - date_published: 2024-06-28T02:47:18+00:00
+
+ ## ვიკიციტატა
+ - [https://ka.wikiquote.org](https://ka.wikiquote.org)
+ - date_published: 2024-06-19T16:18:16+00:00
+
+ ## Kabardian Wikiquote - Wikimedia Incubator
+ - [https://kbd.wikiquote.org](https://kbd.wikiquote.org)
+ - date_published: 2024-07-12T02:47:50.874951+00:00
+
+ ## A̱tsak Wat Wu - Wq/kcg - Wikimedia Incubator
+ - [https://kcg.wikiquote.org](https://kcg.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Kongo Wikiquote - Wikimedia Incubator
+ - [https://kg.wikiquote.org](https://kg.wikiquote.org)
+ - date_published: 2024-07-12T05:16:58.545167+00:00
+
+ ## Уикидәйек
+ - [https://kk.wikiquote.org](https://kk.wikiquote.org)
+ - date_published: 2024-06-08T08:09:10+00:00
+
+ ## Kalaallisut Wikiquote - Wikimedia Incubator
+ - [https://kl.wikiquote.org](https://kl.wikiquote.org)
+ - date_published: 2024-09-18T03:28:53.915418+00:00
+
+ ## Khmer Wikiquote - Wikimedia Incubator
+ - [https://km.wikiquote.org](https://km.wikiquote.org)
+ - date_published: 2024-09-18T03:01:25.710067+00:00
+
+ ## ವಿಕಿಕೋಟ್
+ - [https://kn.m.wikiquote.org](https://kn.m.wikiquote.org)
+ - date_published: 2024-06-29T14:16:10+00:00
+
+ ## ವಿಕಿಕೋಟ್
+ - [https://kn.wikiquote.org](https://kn.wikiquote.org)
+ - date_published: 2024-05-07T15:42:31.251269+00:00
+
+ ## 위키인용집
+ - [https://ko.wikiquote.org](https://ko.wikiquote.org)
+ - date_published: 2024-06-19T16:18:17+00:00
+
+ ## Wikiquote
+ - [https://ku.wikiquote.org](https://ku.wikiquote.org)
+ - date_published: 2024-06-19T16:18:17+00:00
+
+ ## Komi Wikiquote - Wikimedia Incubator
+ - [https://kv.wikiquote.org](https://kv.wikiquote.org)
+ - date_published: 2024-07-12T02:19:12.873465+00:00
+
+ ## Wikiquote
+ - [https://kw.wikiquote.org](https://kw.wikiquote.org)
+ - date_published: 2024-06-08T06:50:56+00:00
+
+ ## Wikiquote
+ - [https://ky.wikiquote.org](https://ky.wikiquote.org)
+ - date_published: 2024-06-19T16:18:17+00:00
+
+ ## Wq/lad - Wikimedia Incubator
+ - [https://lad.wikiquote.org](https://lad.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Vicicitatio
+ - [https://la.wikiquote.org](https://la.wikiquote.org)
+ - date_published: 2024-06-19T16:18:17+00:00
+
+ ## Wikiquote
+ - [https://lb.wikiquote.org](https://lb.wikiquote.org)
+ - date_published: 2024-06-08T05:57:52+00:00
+
+ ## Wq/lg - Wikimedia Incubator
+ - [https://lg.wikiquote.org](https://lg.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wikiquote
+ - [https://li.wikiquote.org](https://li.wikiquote.org)
+ - date_published: 2024-06-19T16:18:17+00:00
+
+ ## Ladin Wikiquote - Wikimedia Incubator
+ - [https://lld.wikiquote.org](https://lld.wikiquote.org)
+ - date_published: 2024-07-12T02:50:33.759880+00:00
+
+ ## Lingala Wikiquote - Wikimedia Incubator
+ - [https://ln.wikiquote.org](https://ln.wikiquote.org)
+ - date_published: 2024-07-12T03:28:12.065568+00:00
+
+ ## Wikiquote
+ - [https://lt.wikiquote.org](https://lt.wikiquote.org)
+ - date_published: 2024-06-19T16:18:18+00:00
+
+ ## Basa Banyumasan Wikiquote - Wikimedia Incubator
+ - [https://map-bms.wikiquote.org](https://map-bms.wikiquote.org)
+ - date_published: 2024-07-12T03:30:26.202875+00:00
+
+ ## Moksha Wikiquote - Wikimedia Incubator
+ - [https://mdf.wikiquote.org](https://mdf.wikiquote.org)
+ - date_published: 2024-07-12T02:30:18.772165+00:00
+
+ ## Malagasy Wikiquote - Wikimedia Incubator
+ - [https://mg.wikiquote.org](https://mg.wikiquote.org)
+ - date_published: 2024-07-12T03:18:54.566224+00:00
+
+ ## Laman Utamo - Wq/min - Wikimedia Incubator
+ - [https://min.wikiquote.org](https://min.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Викицитат - Wq/mk - Wikimedia Incubator
+ - [https://mk.wikiquote.org](https://mk.wikiquote.org)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## വിക്കിചൊല്ലുകൾ
+ - [https://ml.wikiquote.org](https://ml.wikiquote.org)
+ - date_published: 2024-06-19T16:18:18+00:00
+
+ ## ꯃꯔꯨꯑꯣꯏꯕ ꯂꯃꯥꯏ - Wq/mni - Wikimedia Incubator
+ - [https://mni.wikiquote.org](https://mni.wikiquote.org)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Нүүр хуудас - Wq/mn - Wikimedia Incubator
+ - [https://mn.wikiquote.org](https://mn.wikiquote.org)
+ - date_published: 2024-06-28T05:01:12+00:00
+
+ ## မုက်လိက်တမ် - Wq/mnw - Wikimedia Incubator
+ - [https://mnw.wikiquote.org](https://mnw.wikiquote.org)
  - date_published: 2024-06-03T00:00:00+00:00
 
- ## Jornal NOVO
- - [https://onovo.sapo.pt](https://onovo.sapo.pt)
- - date_published: 2024-06-10T06:54:57.900698+00:00
-
- ## | O Primeiro de Janeiro
- - [https://oprimeirodejaneiro.sapo.pt](https://oprimeirodejaneiro.sapo.pt)
- - date_published: 2024-06-10T06:57:54.800994+00:00
-
- ## A Origem das Espécies
- - [http://origemdasespecies.blogs.sapo.pt](http://origemdasespecies.blogs.sapo.pt)
- - date_published: 2024-07-12T20:33:52.852299+00:00
-
- ## O Último Abencerragem
- - [http://outlimoabencerragem.blogs.sapo.pt](http://outlimoabencerragem.blogs.sapo.pt)
- - date_published: 2024-07-12T21:22:27.542466+00:00
-
- ## PAUL AUSTER – DIÁRIO DE INVERNO
- - [http://paulauster.blogs.sapo.pt](http://paulauster.blogs.sapo.pt)
- - date_published: 2024-12-31T19:14:51.504941+00:00
-
- ## Pau Para Toda a Obra
- - [https://pauparatodaaobra.blogs.sapo.pt](https://pauparatodaaobra.blogs.sapo.pt)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## PME Magazine
- - [https://pmemagazine.sapo.pt](https://pmemagazine.sapo.pt)
- - date_published: 2024-06-10T06:54:55.429920+00:00
-
- ## Poligrafo
- - [https://poligrafo.sapo.pt](https://poligrafo.sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Posto de Escuta
- - [http://postodeescuta.blogs.sapo.pt](http://postodeescuta.blogs.sapo.pt)
- - date_published: 2024-12-31T19:01:20.024104+00:00
-
- ## Pplware
- - [https://pplware.sapo.pt](https://pplware.sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Primeiro Minuto - Primeiro Minuto
- - [https://primeirominuto.sapo.pt](https://primeirominuto.sapo.pt)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## SAPO Promos
- - [https://promos.sapo.pt](https://promos.sapo.pt)
- - date_published: 2024-06-10T06:55:27.028388+00:00
-
- ## Quetzal
- - [https://quetzal.blogs.sapo.pt](https://quetzal.blogs.sapo.pt)
- - date_published: 2024-12-20T07:55:07.470090+00:00
-
- ## A Radio Alto Ave do concelho de Vieira do Minho
- - [https://radioaltoave.sapo.pt](https://radioaltoave.sapo.pt)
- - date_published: 2024-06-10T06:55:09.168793+00:00
-
- ## Início
- - [https://radioboanova.sapo.pt](https://radioboanova.sapo.pt)
- - date_published: 2020-09-12T03:01:30+00:00
-
- ## Rádio Castelo Branco
- - [https://radiocastelobranco.sapo.pt](https://radiocastelobranco.sapo.pt)
- - date_published: 2024-06-10T07:00:22.032442+00:00
-
- ## Rádio Ribatejo – Damos Música à sua vida!
- - [https://radioribatejo.sapo.pt](https://radioribatejo.sapo.pt)
- - date_published: 2024-06-10T06:54:53.805029+00:00
-
- ## Rádio Sines - 95.9 FM - A rádio do Litoral Alentejano
- - [https://radiosines.sapo.pt](https://radiosines.sapo.pt)
- - date_published: 2024-06-10T06:59:26.891763+00:00
-
- ## Rádio Clube Aguiarense
- - [https://rcaguiarense.sapo.pt](https://rcaguiarense.sapo.pt)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Rádio Clube de Angra |  A Voz da Terceira
- - [https://rcangra.sapo.pt](https://rcangra.sapo.pt)
- - date_published: 2024-06-10T06:57:26.373180+00:00
-
- ## SAPO Vídeos
- - [https://rd.videos.sapo.pt](https://rd.videos.sapo.pt)
- - date_published: 2024-06-10T07:00:23.557510+00:00
-
- ## Região de Coimbra - Imprensa Regional
- - [https://regiaodecoimbra.sapo.pt](https://regiaodecoimbra.sapo.pt)
- - date_published: 2024-09-05T15:01:18.762309+00:00
-
- ## Região de Lisboa - Imprensa Regional
- - [https://regiaodelisboa.sapo.pt](https://regiaodelisboa.sapo.pt)
- - date_published: 2024-09-05T15:01:24.393314+00:00
-
- ## Renascença - Música para sentir, informação para decidir.
- - [https://rr.sapo.pt](https://rr.sapo.pt)
- - date_published: 2024-09-05T15:05:58.850271+00:00
-
- ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
- - [https://sapo.pt](https://sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
- - tags: ['search engine', 'news']
-
- ## Setúbal Informação - Imprensa Regional
- - [https://setubalinformacao.sapo.pt](https://setubalinformacao.sapo.pt)
- - date_published: 2024-09-05T15:01:26.794700+00:00
-
- ## Sobre SAPO
- - [https://sobre.sapo.pt](https://sobre.sapo.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Jornal SOL - notícias, política, opinião, fotos e podcasts
- - [https://sol.sapo.pt](https://sol.sapo.pt)
- - date_published: 2024-06-10T06:54:37.097393+00:00
-
- ## Superbrands Portugal
- - [https://superbrands.sapo.pt](https://superbrands.sapo.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## SAPO Tek
- - [https://tek.sapo.pt](https://tek.sapo.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Sapo Tempo
- - [https://tempo.sapo.pt](https://tempo.sapo.pt)
- - date_published: 2024-04-04T14:53:17+00:00
-
- ## Terras da Guarda - Imprensa Regional
- - [https://terrasdaguarda.sapo.pt](https://terrasdaguarda.sapo.pt)
- - date_published: 2024-06-10T07:00:06.084489+00:00
-
- ## Terras de Aveiro - Imprensa Regional
- - [https://terrasdeaveiro.sapo.pt](https://terrasdeaveiro.sapo.pt)
- - date_published: 2024-06-10T06:56:25.211606+00:00
-
- ## Terras de Braga - Imprensa Regional
- - [https://terrasdebraga.sapo.pt](https://terrasdebraga.sapo.pt)
- - date_published: 2024-06-10T06:58:30.647058+00:00
-
- ## Terras de Viana do Castelo - Imprensa Regional
- - [https://terrasdevianadocastelo.sapo.pt](https://terrasdevianadocastelo.sapo.pt)
- - date_published: 2024-09-05T15:01:56.354970+00:00
-
- ## Terras de Viseu - Imprensa Regional
- - [https://terrasdeviseu.sapo.pt](https://terrasdeviseu.sapo.pt)
- - date_published: 2024-09-05T15:01:37.686645+00:00
-
- ## Notícias na sua mão | Terras do Minho
- - [https://terrasdominho.sapo.pt](https://terrasdominho.sapo.pt)
- - date_published: 2024-09-05T15:03:20.957312+00:00
-
- ## Ticketline
- - [https://ticketline.sapo.pt](https://ticketline.sapo.pt)
- - date_published: 2024-12-20T15:53:44.670849+00:00
-
- ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
- - [http://timeout.sapo.pt](http://timeout.sapo.pt)
- - date_published: 2024-12-22T10:06:16.107422+00:00
-
- ## Todos os dias trazem qualquer coisa
- - [https://todosdias.blogs.sapo.pt](https://todosdias.blogs.sapo.pt)
- - date_published: 2024-07-12T20:29:55.614390+00:00
-
- ## SAPO Transfer - A forma fácil e grátis de enviar ficheiros grandes
- - [https://transfer.sapo.pt](https://transfer.sapo.pt)
- - date_published: 2024-06-10T06:57:23.320541+00:00
-
- ## TRAVELMAGG
- - [https://travelmagg.sapo.pt](https://travelmagg.sapo.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
- - [http://tsf.sapo.pt](http://tsf.sapo.pt)
- - date_published: 2024-12-31T19:28:29.308683+00:00
-
- ## TV Televisão do Centro
- - [https://tvc.sapo.pt](https://tvc.sapo.pt)
- - date_published: 2024-06-10T06:56:11.325904+00:00
-
- ## valsousatv.sapo.pt - Vale do Sousa TV
- - [https://valsousatv.sapo.pt](https://valsousatv.sapo.pt)
- - date_published: 2024-06-10T07:00:27.281288+00:00
-
- ## SAPO Viagens
- - [https://viagens.sapo.pt](https://viagens.sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## SAPO Vídeos
- - [https://videos.sapo.pt](https://videos.sapo.pt)
- - date_published: 2024-05-07T23:39:41.906819+00:00
-
- ## VMTV
- - [https://vieiradominhotv.sapo.pt](https://vieiradominhotv.sapo.pt)
- - date_published: 2024-06-10T06:56:34.199294+00:00
-
- ## Home Page
- - [https://viralcheck.sapo.pt](https://viralcheck.sapo.pt)
- - date_published: 2020-07-23T14:11:01+00:00
-
- ## Home Page
- - [https://viral.sapo.pt](https://viral.sapo.pt)
- - date_published: 2020-07-23T14:11:01+00:00
-
- ## Visto de Macau
- - [http://vistodemacau.blogs.sapo.pt](http://vistodemacau.blogs.sapo.pt)
- - date_published: 2024-07-12T20:33:03.456529+00:00
-
- ## VMTV
- - [https://vmtv.sapo.pt](https://vmtv.sapo.pt)
- - date_published: 2024-09-05T14:59:20.036783+00:00
-
- ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
- - [https://xp.sapo.pt](https://xp.sapo.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Mastodon
- - [https://schelling.pt](https://schelling.pt)
- - date_published: 2024-05-09T07:38:34.919157+00:00
-
- ## Fabricante de elevadores, escadas e tapetes rolantes
- - [https://www.schindler.pt](https://www.schindler.pt)
- - date_published: 2025-01-16T16:07:12.412166+00:00
-
- ## Igreja Oficial de Scientology: L. Ron Hubbard, Dianética: O que é Scientology?, Livros, Crenças, David Miscavige
- - [https://scientology.pt](https://scientology.pt)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Teste de Personalidade
- - [https://www.oca.scientology.pt](https://www.oca.scientology.pt)
- - date_published: 2024-06-17T16:41:00.003726+00:00
-
- ## Religião de Scientology: Antecedentes, Teologia e Prática Religiosa
- - [https://www.scientologyreligion.pt](https://www.scientologyreligion.pt)
- - date_published: 2024-06-06T19:41:26.748536+00:00
-
- ## SCMAH
- - [http://scmah.pt](http://scmah.pt)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Início - Santa Casa da Misericórdia de Lisboa
- - [https://scml.pt](https://scml.pt)
- - date_published: 2024-12-20T10:54:33.631146+00:00
-
- ## Líder em formação e consultoria em negociação | Scotwork
- - [https://www.scotwork.pt](https://www.scotwork.pt)
- - date_published: 2024-06-18T09:42:28.291927+00:00
-
- ## Security Magazine - Revista dos profissionais de segurança - Portugal
- - [https://www.securitymagazine.pt](https://www.securitymagazine.pt)
- - date_published: 2024-06-28T22:09:06+00:00
-
- ## SEF - Serviço de Estrangeiros e Fronteiras
- - [https://www.sef.pt](https://www.sef.pt)
- - date_published: 2025-02-05T12:23:42.216457+00:00
-
- ## Início - seg-social.pt
- - [https://www.seg-social.pt](https://www.seg-social.pt)
- - date_published: 2024-12-23T20:19:01.258738+00:00
-
- ## Eu Participo
- - [https://euparticipo.seixal.pt](https://euparticipo.seixal.pt)
- - date_published: 2023-04-19T12:36:14+00:00
-
- ## Últimas tendências e desenvolvimentos  - senhorpodcast.pt
- - [https://senhorpodcast.pt](https://senhorpodcast.pt)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Loja online da Fundação Serralves
- - [https://loja.serralves.pt](https://loja.serralves.pt)
- - date_published: 2024-09-13T19:51:21.695077+00:00
-
- ## Retrievo
- - [http://retrievo.serralves.pt](http://retrievo.serralves.pt)
- - date_published: 2023-12-20T11:25:45+00:00
-
- ## Fundação de Serralves
- - [https://serralves.pt](https://serralves.pt)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Trituradores sanitários, bombas de águas cinzentas, estações elevatórias | Sanitrit
- - [https://www.sfa.pt](https://www.sfa.pt)
- - date_published: 2024-12-21T01:21:54.193559+00:00
-
- ## Somos a empresa líder mundial em testes, inspeção e certificação.
- - [https://www.sgs.pt](https://www.sgs.pt)
- - date_published: 2024-09-10T12:55:44.526906+00:00
-
- ## OPTO SIC - Onde podes ver os melhores programas da SIC
- - [https://opto.sic.pt](https://opto.sic.pt)
- - date_published: 2024-10-20T21:36:00.313480+00:00
-
- ## SIC - A Televisão que mexe consigo
- - [https://sic.pt](https://sic.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## SIC
- - [https://siccaras.pt](https://siccaras.pt)
- - date_published: 2024-10-20T21:35:27.985972+00:00
-
- ## SIC
- - [https://sickapa.pt](https://sickapa.pt)
- - date_published: 2024-10-20T21:35:34.740997+00:00
-
- ## SIC Mulher
- - [https://sicmulher.pt](https://sicmulher.pt)
- - date_published: 2024-10-20T21:35:52.592416+00:00
-
- ## SIC Notícias
- - [https://sicnoticias.pt](https://sicnoticias.pt)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## SIC Radical
- - [https://sicradical.pt](https://sicradical.pt)
- - date_published: 2024-10-20T21:35:37.025736+00:00
-
- ## Siemens Portugal Website
- - [https://www.siemens.pt](https://www.siemens.pt)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Silicon Portugal
- - [https://www.silicon.pt](https://www.silicon.pt)
- - date_published: 2025-01-16T17:14:19.170991+00:00
-
- ## Sinais de Fogo
- - [http://www.sinaisdefogo.pt](http://www.sinaisdefogo.pt)
- - date_published: 2024-07-12T20:48:02.370748+00:00
-
- ## sinalAberto – Jornalismo de interesse público
- - [https://sinalaberto.pt](https://sinalaberto.pt)
- - date_published: 2024-12-20T09:15:52.452528+00:00
-
- ## Sincronideia | Data Privacy & Security
- - [https://sincronideia.pt](https://sincronideia.pt)
- - date_published: 2024-06-28T22:08:03.386783+00:00
-
- ## SISCOG | Optimisation software for transport operations
- - [https://siscog.pt](https://siscog.pt)
- - date_published: 2024-12-15T20:47:48.349298+00:00
-
- ## SISCOG | Optimisation software for transport operations
- - [http://www.siscog.pt](http://www.siscog.pt)
- - date_published: 2024-07-20T13:08:22.614956+00:00
-
- ## Sitarcol - Empilhadores e Sistemas de Ar Comprimido
- - [https://www.sitarcol.pt](https://www.sitarcol.pt)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Aluguer de carros em Portugal | Sixt rent a car
- - [https://sixt.pt](https://sixt.pt)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Skyscanner
- - [https://www.skyscanner.pt](https://www.skyscanner.pt)
- - date_published: 2024-05-14T10:10:11+00:00
-
- ## Site Oficial do Sport Lisboa e Benfica
- - [https://www.slbenfica.pt](https://www.slbenfica.pt)
- - date_published: 2024-09-05T15:18:40.813626+00:00
-
- ## Loja
- - [https://sodastream.pt](https://sodastream.pt)
- - date_published: 2025-02-04T21:03:40.296370+00:00
-
- ## Softbit - Informática & Tecnologia
- - [https://www.softbit.pt](https://www.softbit.pt)
- - date_published: 2024-09-05T14:58:15.070997+00:00
-
- ## Sónar
- - [https://sonarlisboa.pt](https://sonarlisboa.pt)
- - date_published: 2024-07-20T22:11:11.706854+00:00
-
- ## Sony Portugal | Últimas notícias de tecnologia | Eletrónica | Entretenimento
- - [http://www.sony.pt](http://www.sony.pt)
- - date_published: 2024-10-21T07:36:59.518528+00:00
-
- ## SPARTOO | Calçados, bolsas e vestuário | Entrega Gratuita
- - [https://spartoo.pt](https://spartoo.pt)
- - date_published: 2024-09-11T18:33:16.434375+00:00
-
- ## Página Inicial | Splash Seixal
- - [https://www.splashseixal.pt](https://www.splashseixal.pt)
- - date_published: 2024-07-12T20:30:39.331698+00:00
-
- ## Loja Verde Online
- - [https://lojaverde.sporting.pt](https://lojaverde.sporting.pt)
- - date_published: 2024-10-24T11:11:32+00:00
-
- ## HOME
- - [https://www.sporting.pt](https://www.sporting.pt)
- - date_published: 2018-01-17T01:49:53+00:00
-
- ## SPOTICAR | Venda e compra de carros usados
- - [https://spoticar.pt](https://spoticar.pt)
- - date_published: 2024-10-28T19:46:48+00:00
-
- ## Homepage - Sociedade Portuguesa de Reumatologia
- - [http://www.spreumatologia.pt](http://www.spreumatologia.pt)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## sequel  fumpt
- - [https://sqlfum.pt](https://sqlfum.pt)
- - date_published: 2024-05-08T04:29:30.815238+00:00
-
- ## Carros usados,Comerciais,Máquinas,Barcos,Motas | StandCM
- - [https://www.standcm.pt](https://www.standcm.pt)
- - date_published: 2024-07-12T20:30:22.460064+00:00
-
- ## Checking your browser - reCAPTCHA
- - [http://www.staples.pt](http://www.staples.pt)
- - date_published: 2024-08-05T21:54:00.338335+00:00
-
- ## Statkraft
- - [https://www.statkraft.pt](https://www.statkraft.pt)
- - date_published: 2023-11-17T00:00:00+00:00
-
- ## Imprima os seus autocolantes e as suas etiquetas personalizadas!
- - [https://stickerapp.pt](https://stickerapp.pt)
- - date_published: 2024-04-30T02:46:12.280628+00:00
-
- ## Shop • Stolen Books
- - [https://stolenbooks.pt](https://stolenbooks.pt)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## mesa digitalizadora com tela, tablet gráfico de desenho | XP-PEN Portugal Loja Oficial
- - [https://storexppen.pt](https://storexppen.pt)
- - date_published: 2024-05-30T18:42:28.916038+00:00
-
- ## Sul Informação - Notícias do Algarve e Alentejo
- - [https://sulinformacao.pt](https://sulinformacao.pt)
- - date_published: 2024-12-20T08:12:08+00:00
-
- ## JackHammer
- - [https://imagens.supercasa.pt](https://imagens.supercasa.pt)
- - date_published: 2024-09-05T14:01:50.052938+00:00
-
- ## SUPERCASA - Moradias e apartamentos, arrendamento e venda, anúncios gratuitos - SUPERCASA
- - [https://supercasa.pt](https://supercasa.pt)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Superprof - A comunidade de professores particulares
- - [https://superprof.pt](https://superprof.pt)
- - date_published: 2024-06-15T01:27:44.389176+00:00
-
- ## Tudo para informática ao melhor preço!
- - [https://www.switchtechnology.pt](https://www.switchtechnology.pt)
- - date_published: 2023-10-24T15:40:42+00:00
-
- ## Bem-vindo ao site oficial do Tavfer Hoteis
- - [https://tavferhoteis.pt](https://tavferhoteis.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Taylor's Port - Since 1692 making the finest Port wine
- - [https://www.taylor.pt](https://www.taylor.pt)
- - date_published: 2024-10-21T03:32:25.241595+00:00
-
- ## Técnico+ Formação Avançada
- - [https://tecnicomais.pt](https://tecnicomais.pt)
- - date_published: 2024-12-19T16:37:00+00:00
-
- ## Teixeira Duarte | Construindo um mundo melhor.
- - [https://www.teixeiraduarte.pt](https://www.teixeiraduarte.pt)
- - date_published: 2019-12-04T11:42:39+00:00
-
- ## LÍDER | Tema Central | Loja Online
- - [https://loja.temacentral.pt](https://loja.temacentral.pt)
- - date_published: 2024-09-05T15:41:21.870377+00:00
-
- ## LÍDER | Tema Central | Loja Online
- - [https://temacentral.pt](https://temacentral.pt)
- - date_published: 2024-09-05T15:41:24.135044+00:00
-
- ## O Tempo para 14 dias - tempo.pt | Meteored
- - [https://www.tempo.pt](https://www.tempo.pt)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Tempo & Radar Portugal
- - [https://tempoeradar.pt](https://tempoeradar.pt)
- - date_published: 2024-05-07T13:25:10.701026+00:00
-
- ## terramar.pt
- - [http://www.terramar.pt](http://www.terramar.pt)
- - date_published: 2024-07-12T20:50:12.381429+00:00
-
- ## The Blind Spot - Beyond the Obvious
- - [https://theblindspot.pt](https://theblindspot.pt)
- - date_published: 2024-12-20T08:30:11.037130+00:00
-
- ## TheFork - Reserve nos melhores restaurantes da Europa
- - [https://www.thefork.pt](https://www.thefork.pt)
- - date_published: 2025-01-30T19:25:17.822947+00:00
-
- ## Gel Nail Polish | UK Vegan & Cruelty-Free | The GelBottle Inc™
- - [https://www.thegelbottle.pt](https://www.thegelbottle.pt)
- - date_published: 2025-02-08T23:50:50.992422+00:00
-
- ## Home - The Next Big Idea
- - [https://thenextbigidea.pt](https://thenextbigidea.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Homepage
- - [https://www.thenorthface.pt](https://www.thenorthface.pt)
- - date_published: 2024-07-12T07:35:57.709480+00:00
-
- ## Ticketline
- - [https://ticketline.pt](https://ticketline.pt)
- - date_published: 2024-07-01T14:24:51.681739+00:00
-
- ## Tinta da china - Tinta da China
- - [http://www.tintadachina.pt](http://www.tintadachina.pt)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Toyota Portugal - Automóveis Novos e Usados
- - [https://www.toyota.pt](https://www.toyota.pt)
+ ## Wikiquote
+ - [https://mr.wikiquote.org](https://mr.wikiquote.org)
+ - date_published: 2024-06-19T16:18:18+00:00
+
+ ## Il-Paġna prinċipali - Wq/mt - Wikimedia Incubator
+ - [https://mt.wikiquote.org](https://mt.wikiquote.org)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Mirandese Wikiquote - Wikimedia Incubator
+ - [https://mwl.wikiquote.org](https://mwl.wikiquote.org)
+ - date_published: 2024-07-12T04:30:50.587460+00:00
+
+ ## Erzya Wikiquote - Wikimedia Incubator
+ - [https://myv.wikiquote.org](https://myv.wikiquote.org)
+ - date_published: 2024-07-12T04:21:19.516184+00:00
+
+ ## ဗဟိုစာမျက်နှာ - Wq/my - Wikimedia Incubator
+ - [https://my.wikiquote.org](https://my.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wq/mzn - Wikimedia Incubator
+ - [https://mzn.wikiquote.org](https://mzn.wikiquote.org)
+ - date_published: 2024-07-09T09:56:24+00:00
+
+ ## Wq/nah - Wikimedia Incubator
+ - [https://nah.wikiquote.org](https://nah.wikiquote.org)
+ - date_published: 2024-06-28T03:28:03+00:00
+
+ ## Paggena prencepale - Wq/nap - Wikimedia Incubator
+ - [https://nap.wikiquote.org](https://nap.wikiquote.org)
+ - date_published: 2024-06-28T02:48:18+00:00
+
+ ## Wikiquote
+ - [https://nds.wikiquote.org](https://nds.wikiquote.org)
+ - date_published: 2024-06-08T23:19:27+00:00
+
+ ## मुख्य पृष्ठ - Wq/ne - Wikimedia Incubator
+ - [https://ne.wikiquote.org](https://ne.wikiquote.org)
+ - date_published: 2024-06-28T02:51:58+00:00
+
+ ## Olayama - Wq/nia - Wikimedia Incubator
+ - [https://nia.wikiquote.org](https://nia.wikiquote.org)
+ - date_published: 2024-06-28T05:00:37+00:00
+
+ ## Wikiquote
+ - [https://nl.wikiquote.org](https://nl.wikiquote.org)
+ - date_published: 2024-06-19T16:18:19+00:00
+
+ ## Wikifrasar
+ - [https://nn.wikiquote.org](https://nn.wikiquote.org)
+ - date_published: 2024-06-19T16:18:19+00:00
+
+ ## Novial Wikiquote - Wikimedia Incubator
+ - [https://nov.wikiquote.org](https://nov.wikiquote.org)
+ - date_published: 2024-07-12T03:04:07.851254+00:00
+
+ ## Wikiquote
+ - [https://no.wikiquote.org](https://no.wikiquote.org)
+ - date_published: 2024-06-19T16:18:19+00:00
+
+ ## Acuèlh - Wq/oc - Wikimedia Incubator
+ - [https://oc.wikiquote.org](https://oc.wikiquote.org)
+ - date_published: 2024-09-04T03:04:11+00:00
+
+ ## ପ୍ରଧାନ ପୃଷ୍ଠା - Wq/or - Wikimedia Incubator
+ - [https://or.wikiquote.org](https://or.wikiquote.org)
+ - date_published: 2024-06-28T04:12:33+00:00
+
+ ## Pangasinan Wikiquote - Wikimedia Incubator
+ - [https://pag.wikiquote.org](https://pag.wikiquote.org)
+ - date_published: 2024-07-12T05:15:33.993446+00:00
+
+ ## Pampanga Wikiquote - Wikimedia Incubator
+ - [https://pam.wikiquote.org](https://pam.wikiquote.org)
+ - date_published: 2024-07-12T05:03:49.030261+00:00
+
+ ## Papiamento Wikiquote - Wikimedia Incubator
+ - [https://pap.wikiquote.org](https://pap.wikiquote.org)
+ - date_published: 2024-07-12T05:02:12.885007+00:00
+
+ ## ਮੁੱਖ ਸਫ਼ਾ - Wq/pa - Wikimedia Incubator
+ - [https://pa.wikiquote.org](https://pa.wikiquote.org)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## Pali Wikiquote - Wikimedia Incubator
+ - [https://pi.wikiquote.org](https://pi.wikiquote.org)
+ - date_published: 2024-07-12T04:12:02.455231+00:00
+
+ ## Wikicytaty
+ - [https://pl.wikiquote.org](https://pl.wikiquote.org)
+ - date_published: 2024-06-19T16:18:20+00:00
+
+ ## Piedmontese Wikiquote - Wikimedia Incubator
+ - [https://pms.wikiquote.org](https://pms.wikiquote.org)
+ - date_published: 2024-07-12T02:20:26.019311+00:00
+
+ ## Αρχικόν σελίδα - Wq/pnt - Wikimedia Incubator
+ - [https://pnt.wikiquote.org](https://pnt.wikiquote.org)
+ - date_published: 2024-06-28T02:35:18+00:00
+
+ ## لومړی مخ - Wq/ps - Wikimedia Incubator
+ - [https://ps.wikiquote.org](https://ps.wikiquote.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Wikiquote
+ - [https://pt.wikiquote.org](https://pt.wikiquote.org)
+ - date_published: 2024-06-11T12:31:47+00:00
+
+ ## Wikiquote
+ - [https://qu.wikiquote.org](https://qu.wikiquote.org)
+ - date_published: 2024-06-08T11:30:55+00:00
+
+ ## Wikicitat
+ - [https://ro.wikiquote.org](https://ro.wikiquote.org)
+ - date_published: 2024-06-19T16:18:21+00:00
+
+ ## Викицитатник
+ - [https://ru.m.wikiquote.org](https://ru.m.wikiquote.org)
+ - date_published: 2024-07-09T12:22:22+00:00
+
+ ## Викицитатник
+ - [https://ru.wikiquote.org](https://ru.wikiquote.org)
+ - date_published: 2024-05-10T03:55:21.159022+00:00
+
+ ## Intangiriro - Wq/rw - Wikimedia Incubator
+ - [https://rw.wikiquote.org](https://rw.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Биики_Домох
+ - [https://sah.wikiquote.org](https://sah.wikiquote.org)
+ - date_published: 2024-06-19T16:18:21+00:00
+
+ ## ᱢᱩᱬᱩᱛ ᱥᱟᱦᱴᱟ - Wq/sat - Wikimedia Incubator
+ - [https://sat.wikiquote.org](https://sat.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## विकिसूक्तिः
+ - [https://sa.wikiquote.org](https://sa.wikiquote.org)
+ - date_published: 2024-06-19T16:18:21+00:00
+
+ ## Scots Wikiquote - Wikimedia Incubator
+ - [https://sco.wikiquote.org](https://sco.wikiquote.org)
+ - date_published: 2024-07-12T05:27:07.303235+00:00
+
+ ## Sango Wikiquote - Wikimedia Incubator
+ - [https://sg.wikiquote.org](https://sg.wikiquote.org)
+ - date_published: 2024-07-12T05:02:53.582843+00:00
+
+ ## Wq/shi - Wikimedia Incubator
+ - [https://shi.wikiquote.org](https://shi.wikiquote.org)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Wq/shn - Wikimedia Incubator
+ - [https://shn.wikiquote.org](https://shn.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Glavna stranica / Главна страница - Wq/sh - Wikimedia Incubator
+ - [https://sh.wikiquote.org](https://sh.wikiquote.org)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## Wikiquote
+ - [https://simple.wikiquote.org](https://simple.wikiquote.org)
+ - date_published: 2024-07-05T01:40:24+00:00
+
+ ## මුල් පිටුව - Wq/si - Wikimedia Incubator
+ - [https://si.wikiquote.org](https://si.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## پہلا پرت - Wq/skr - Wikimedia Incubator
+ - [https://skr.wikiquote.org](https://skr.wikiquote.org)
+ - date_published: 2024-06-28T04:44:54+00:00
+
+ ## Wikicitáty
+ - [https://sk.wikiquote.org](https://sk.wikiquote.org)
+ - date_published: 2024-06-19T16:18:22+00:00
+
+ ## Wikinavedek
+ - [https://sl.wikiquote.org](https://sl.wikiquote.org)
+ - date_published: 2024-06-19T16:18:22+00:00
+
+ ## Bogga Hore - Wq/so - Wikimedia Incubator
+ - [https://so.wikiquote.org](https://so.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wikiquote
+ - [https://sq.wikiquote.org](https://sq.wikiquote.org)
+ - date_published: 2024-06-19T16:18:23+00:00
+
+ ## Викицитат
+ - [https://sr.wikiquote.org](https://sr.wikiquote.org)
+ - date_published: 2024-06-19T16:18:23+00:00
+
+ ## Swati Wikiquote - Wikimedia Incubator
+ - [https://ss.wikiquote.org](https://ss.wikiquote.org)
+ - date_published: 2024-07-12T03:04:48.054105+00:00
+
+ ## Southern Sotho Wikiquote - Wikimedia Incubator
+ - [https://st.wikiquote.org](https://st.wikiquote.org)
+ - date_published: 2024-07-12T02:49:42.126855+00:00
+
+ ## Wikicutatan basa Sunda, rohangan cutatan bébas
+ - [https://su.wikiquote.org](https://su.wikiquote.org)
+ - date_published: 2024-06-19T16:18:23+00:00
+
+ ## Wikiquote
+ - [https://sv.wikiquote.org](https://sv.wikiquote.org)
+ - date_published: 2024-06-19T16:18:23+00:00
+
+ ## Mwanzo - Wq/sw - Wikimedia Incubator
+ - [https://sw.wikiquote.org](https://sw.wikiquote.org)
+ - date_published: 2024-09-04T03:16:26+00:00
+
+ ## விக்கிமேற்கோள்
+ - [https://ta.wikiquote.org](https://ta.wikiquote.org)
+ - date_published: 2024-06-19T16:18:23+00:00
+
+ ## Tulu Wikiquote - Wikimedia Incubator
+ - [https://tcy.wikiquote.org](https://tcy.wikiquote.org)
+ - date_published: 2024-07-12T02:50:16.451776+00:00
+
+ ## వికీవ్యాఖ్య
+ - [https://te.wikiquote.org](https://te.wikiquote.org)
+ - date_published: 2024-06-19T16:18:24+00:00
+
+ ## Саҳифаи Аслӣ - Wq/tg - Wikimedia Incubator
+ - [https://tg.wikiquote.org](https://tg.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## วิกิคำคม
+ - [https://th.wikiquote.org](https://th.wikiquote.org)
+ - date_published: 2024-06-19T16:18:24+00:00
+
+ ## Wikiquote
+ - [https://tk.wikiquote.org](https://tk.wikiquote.org)
+ - date_published: 2024-06-08T04:42:17+00:00
+
+ ## Wikiquote
+ - [https://tl.wikiquote.org](https://tl.wikiquote.org)
+ - date_published: 2024-06-19T16:18:24+00:00
+
+ ## Wq/tly - Wikimedia Incubator
+ - [https://tly.wikiquote.org](https://tly.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Tsebe ya konokono - Wq/tn - Wikimedia Incubator
+ - [https://tn.wikiquote.org](https://tn.wikiquote.org)
+ - date_published: 2024-06-28T02:45:34+00:00
+
+ ## Vikisöz
+ - [https://tr.wikiquote.org](https://tr.wikiquote.org)
+ - date_published: 2024-06-22T23:30:28+00:00
+
+ ## Tsonga Wikiquote - Wikimedia Incubator
+ - [https://ts.wikiquote.org](https://ts.wikiquote.org)
+ - date_published: 2024-07-12T05:14:36.439475+00:00
+
+ ## Wikiquote
+ - [https://tt.wikiquote.org](https://tt.wikiquote.org)
+ - date_published: 2024-06-08T21:11:19+00:00
+
+ ## Twi Wikiquote - Wikimedia Incubator
+ - [https://tw.wikiquote.org](https://tw.wikiquote.org)
+ - date_published: 2024-07-12T04:13:56.203736+00:00
+
+ ## Tuvinian Wikiquote - Wikimedia Incubator
+ - [https://tyv.wikiquote.org](https://tyv.wikiquote.org)
+ - date_published: 2024-07-12T02:49:58.789267+00:00
+
+ ## Wikiquote
+ - [https://ug.wikiquote.org](https://ug.wikiquote.org)
+ - date_published: 2024-06-09T02:33:49+00:00
+
+ ## Вікіцитати
+ - [https://uk.wikiquote.org](https://uk.wikiquote.org)
+ - date_published: 2024-06-19T16:18:24+00:00
+
+ ## ویکی اقتباس
+ - [https://ur.wikiquote.org](https://ur.wikiquote.org)
+ - date_published: 2024-06-19T16:18:25+00:00
+
+ ## Vikiiqtibos
+ - [https://uz.wikiquote.org](https://uz.wikiquote.org)
+ - date_published: 2024-06-19T16:18:25+00:00
+
+ ## Venetian Wikiquote - Wikimedia Incubator
+ - [https://vec.wikiquote.org](https://vec.wikiquote.org)
+ - date_published: 2024-07-12T04:16:52.172701+00:00
+
+ ## Wq/vep - Wikimedia Incubator
+ - [https://vep.wikiquote.org](https://vep.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Venda Wikiquote - Wikimedia Incubator
+ - [https://ve.wikiquote.org](https://ve.wikiquote.org)
+ - date_published: 2024-07-12T04:00:50.792367+00:00
+
+ ## Wikiquote
+ - [https://vi.wikiquote.org](https://vi.wikiquote.org)
+ - date_published: 2024-06-19T16:18:27+00:00
+
+ ## Wikiquote
+ - [https://vo.wikiquote.org](https://vo.wikiquote.org)
+ - date_published: 2024-06-08T10:33:27+00:00
+
+ ## Wikiquote
+ - [https://wikiquote.org](https://wikiquote.org)
+ - date_published: 2023-11-28T19:06:23+00:00
+ - tags: ['wiki', 'quotes']
+
+ ## Xhosa Wikiquote - Wikimedia Incubator
+ - [https://xh.wikiquote.org](https://xh.wikiquote.org)
+ - date_published: 2024-07-12T03:28:20.540423+00:00
+
+ ## დუდხასჷლა - Wq/xmf - Wikimedia Incubator
+ - [https://xmf.wikiquote.org](https://xmf.wikiquote.org)
+ - date_published: 2024-06-28T04:15:29+00:00
+
+ ## Yiddish Wikiquote - Wikimedia Incubator
+ - [https://yi.wikiquote.org](https://yi.wikiquote.org)
+ - date_published: 2024-07-12T04:15:04.605072+00:00
+
+ ## Yoruba Wikiquote - Wikimedia Incubator
+ - [https://yo.wikiquote.org](https://yo.wikiquote.org)
+ - date_published: 2024-07-12T02:19:47.730139+00:00
+
+ ## Standard Moroccan Tamazight Wikiquote - Wikimedia Incubator
+ - [https://zgh.wikiquote.org](https://zgh.wikiquote.org)
+ - date_published: 2024-07-12T03:47:19.694677+00:00
+
+ ## Wikiquote
+ - [https://zh-min-nan.wikiquote.org](https://zh-min-nan.wikiquote.org)
+ - date_published: 2024-06-09T02:35:17+00:00
+
+ ## 維基語錄，自由的名人名言錄
+ - [https://zh.wikiquote.org](https://zh.wikiquote.org)
+ - date_published: 2024-06-19T16:18:27+00:00
+
+ ## Avkwiki - Statistics Wikiscan
+ - [https://avk.wikiscan.org](https://avk.wikiscan.org)
+ - date_published: 2024-07-12T03:49:27.966296+00:00
+
+ ## SKY-MAP.ORG - Interactive Sky Map
+ - [https://wikisky.org](https://wikisky.org)
+ - date_published: 2024-07-14T08:49:25.555267+00:00
+
+ ## Wikisource
+ - [https://ab.wikisource.org](https://ab.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [http://ace.wikisource.org](http://ace.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:39:50.135907+00:00
+
+ ## Wikisource
+ - [https://ady.wikisource.org](https://ady.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [http://am.wikisource.org](http://am.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:39:55.173637+00:00
+
+ ## Wikisource
+ - [http://anp.wikisource.org](http://anp.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:43:48.877476+00:00
+
+ ## Wikisource
+ - [http://arc.wikisource.org](http://arc.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:43:51.698881+00:00
+
+ ## ويكي مصدر، مكتبة النصوص الحرة
+ - [https://ar.wikisource.org](https://ar.wikisource.org)
+ - date_published: 2024-06-17T16:37:29+00:00
+
+ ## Wikisource
+ - [http://ary.wikisource.org](http://ary.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:43:56.128868+00:00
+
+ ## Wikisource
+ - [https://ast.wikisource.org](https://ast.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## ৱিকিউৎস
+ - [https://as.wikisource.org](https://as.wikisource.org)
+ - date_published: 2024-06-11T12:31:02+00:00
+
+ ## Wikisource
+ - [http://av.wikisource.org](http://av.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:44:03.249276+00:00
+
+ ## Wikisource
+ - [http://awa.wikisource.org](http://awa.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:44:06.174285+00:00
+
+ ## Wikisource
+ - [http://ay.wikisource.org](http://ay.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:44:08.955126+00:00
+
+ ## Vikimənbə
+ - [https://az.wikisource.org](https://az.wikisource.org)
+ - date_published: 2024-06-16T05:31:20+00:00
+
+ ## Wikisource
+ - [https://ban.wikisource.org](https://ban.wikisource.org)
+ - date_published: 2024-06-11T12:31:02+00:00
+
+ ## Wikisource
+ - [https://bar.wikisource.org](https://bar.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [http://bat-smg.wikisource.org](http://bat-smg.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:44:16.307961+00:00
+
+ ## Wikisource
+ - [https://ba.wikisource.org](https://ba.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://bcl.wikisource.org](https://bcl.wikisource.org)
+ - date_published: 2024-09-07T06:41:58+00:00
+
+ ## Вікікрыніцы
+ - [https://be.wikisource.org](https://be.wikisource.org)
+ - date_published: 2024-06-17T18:52:30+00:00
+
+ ## Уикиизточник
+ - [https://bg.wikisource.org](https://bg.wikisource.org)
+ - date_published: 2024-06-11T12:31:03+00:00
+
+ ## Wikisource
+ - [http://bh.wikisource.org](http://bh.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:44:28.693133+00:00
+
+ ## Wikisource
+ - [http://bjn.wikisource.org](http://bjn.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:44:31.452656+00:00
+
+ ## Wikisource
+ - [http://blk.wikisource.org](http://blk.wikisource.org)
+ - date_published: 2024-06-04T08:08:05+00:00
+ - date_dead_since: 2025-01-30T06:44:34.175516+00:00
+
+ ## উইকিসংকলন একটি মুক্ত পাঠাগার
+ - [https://bn.wikisource.org](https://bn.wikisource.org)
+ - date_published: 2024-06-17T17:02:42+00:00
+
+ ## Wikisource
+ - [https://bo.wikisource.org](https://bo.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [http://bpy.wikisource.org](http://bpy.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:44:40.506593+00:00
+
+ ## Wikimammenn
+ - [https://br.wikisource.org](https://br.wikisource.org)
+ - date_published: 2024-06-11T12:31:04+00:00
+
+ ## Wikizvor
+ - [https://bs.wikisource.org](https://bs.wikisource.org)
+ - date_published: 2024-06-11T12:31:04+00:00
+
+ ## Wikisource
+ - [http://btm.wikisource.org](http://btm.wikisource.org)
+ - date_published: 2024-09-07T06:41:58+00:00
+ - date_dead_since: 2025-01-30T06:44:46.509748+00:00
+
+ ## Wikisource
+ - [http://bug.wikisource.org](http://bug.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:44:49.467309+00:00
+
+ ## Viquitexts
+ - [https://ca.wikisource.org](https://ca.wikisource.org)
+ - date_published: 2024-06-11T12:31:05+00:00
+
+ ## Wikisource
+ - [http://ceb.wikisource.org](http://ceb.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:44:53.697904+00:00
+
+ ## Wikisource
+ - [http://ce.wikisource.org](http://ce.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:44:56.412206+00:00
+
+ ## Wikisource
+ - [http://ckb.wikisource.org](http://ckb.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:44:59.089371+00:00
+
+ ## Wikisource
+ - [http://csb.wikisource.org](http://csb.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:45:02.121235+00:00
+
+ ## Wikizdroje − volně dostupná knihovna
+ - [https://cs.wikisource.org](https://cs.wikisource.org)
+ - date_published: 2024-06-11T12:31:06+00:00
+
+ ## Wikisource
+ - [https://cv.wikisource.org](https://cv.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wicidestun
+ - [https://cy.wikisource.org](https://cy.wikisource.org)
+ - date_published: 2024-06-11T12:31:06+00:00
+
+ ## Wikisource
+ - [http://dag.wikisource.org](http://dag.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:45:09.886174+00:00
+
+ ## Wikisource
+ - [https://da.wikisource.org](https://da.wikisource.org)
+ - date_published: 2024-06-11T12:31:06+00:00
+
+ ## Wikisource
+ - [https://de.wikisource.org](https://de.wikisource.org)
+ - date_published: 2024-06-17T19:35:54+00:00
+
+ ## Wikisource
+ - [http://dga.wikisource.org](http://dga.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:45:15.766284+00:00
+
+ ## Wikisource
+ - [https://diq.wikisource.org](https://diq.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://dsb.wikisource.org](https://dsb.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [http://dv.wikisource.org](http://dv.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:48:49.812038+00:00
+
+ ## Wikisource
+ - [http://ee.wikisource.org](http://ee.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:48:51.494560+00:00
+
+ ## Βικιθήκη
+ - [https://el.wikisource.org](https://el.wikisource.org)
+ - date_published: 2024-06-11T12:31:07+00:00
+
+ ## Wikisource, the free library
+ - [https://en.m.wikisource.org](https://en.m.wikisource.org)
+ - date_published: 2024-08-18T16:05:47+00:00
+
+ ## Wikisource, the free library
+ - [https://en.wikisource.org](https://en.wikisource.org)
+ - date_published: 2023-10-25T22:21:09.335429+00:00
+
+ ## Vikifontaro
+ - [https://eo.wikisource.org](https://eo.wikisource.org)
+ - date_published: 2024-06-11T12:31:07+00:00
+
+ ## Wikisource
+ - [https://es.wikisource.org](https://es.wikisource.org)
+ - date_published: 2024-06-11T12:31:08+00:00
+
+ ## Vikitekstid
+ - [https://et.wikisource.org](https://et.wikisource.org)
+ - date_published: 2024-06-11T12:31:08+00:00
+
+ ## Wikiteka
+ - [https://eu.wikisource.org](https://eu.wikisource.org)
+ - date_published: 2024-06-11T12:31:08+00:00
+
+ ## Wikisource
+ - [http://fat.wikisource.org](http://fat.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:49:00.878913+00:00
+
+ ## ویکی‌نبشته
+ - [https://fa.wikisource.org](https://fa.wikisource.org)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Wikisource
+ - [http://ff.wikisource.org](http://ff.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:49:05.670214+00:00
+
+ ## Wikiaineisto
+ - [https://fi.m.wikisource.org](https://fi.m.wikisource.org)
+ - date_published: 2024-10-08T13:41:36+00:00
+
+ ## Wikiaineisto
+ - [https://fi.wikisource.org](https://fi.wikisource.org)
+ - date_published: 2024-06-11T12:31:09+00:00
+
+ ## Wikiheimild
+ - [https://fo.wikisource.org](https://fo.wikisource.org)
+ - date_published: 2024-06-11T12:31:09+00:00
+
+ ## Wikisource
+ - [https://fr.m.wikisource.org](https://fr.m.wikisource.org)
+ - date_published: 2024-06-29T16:30:55+00:00
+
+ ## Wikisource
+ - [https://frr.wikisource.org](https://frr.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://fr.wikisource.org](https://fr.wikisource.org)
+ - date_published: 2024-05-07T14:42:28.901068+00:00
+
+ ## Wikisource
+ - [http://fur.wikisource.org](http://fur.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:49:18.116516+00:00
+
+ ## Wikisource
+ - [http://gan.wikisource.org](http://gan.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:49:20.816970+00:00
+
+ ## Wikisource
+ - [https://ga.wikisource.org](https://ga.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://gl.wikisource.org](https://gl.wikisource.org)
+ - date_published: 2024-06-11T12:31:10+00:00
+
+ ## Wikisource
+ - [http://gn.wikisource.org](http://gn.wikisource.org)
+ - date_published: 2024-09-07T06:41:58+00:00
+ - date_dead_since: 2025-01-30T06:49:27.385152+00:00
+
+ ## Wikisource
+ - [http://gom.wikisource.org](http://gom.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:49:30.353473+00:00
+
+ ## Wikisource
+ - [http://gor.wikisource.org](http://gor.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:49:32.849318+00:00
+
+ ## Wikisource
+ - [https://got.wikisource.org](https://got.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [http://gpe.wikisource.org](http://gpe.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:49:36.896220+00:00
+
+ ## Wikisource
+ - [http://gur.wikisource.org](http://gur.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:49:38.919377+00:00
+
+ ## વિકિસ્રોત
+ - [https://gu.wikisource.org](https://gu.wikisource.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Wikisource
+ - [http://gv.wikisource.org](http://gv.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:49:42.578200+00:00
+
+ ## Wikisource
+ - [http://ha.wikisource.org](http://ha.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:49:45.557455+00:00
+
+ ## ויקיטקסט
+ - [https://he.m.wikisource.org](https://he.m.wikisource.org)
+ - date_published: 2024-09-16T15:41:08+00:00
+
+ ## ויקיטקסט
+ - [https://he.wikisource.org](https://he.wikisource.org)
+ - date_published: 2024-06-15T06:00:38+00:00
+
+ ## विकिस्रोत
+ - [https://hi.wikisource.org](https://hi.wikisource.org)
+ - date_published: 2024-06-11T12:31:12+00:00
+
+ ## Wikizvor
+ - [https://hr.wikisource.org](https://hr.wikisource.org)
+ - date_published: 2024-06-11T12:31:12+00:00
+
+ ## Wikisòrs
+ - [https://ht.wikisource.org](https://ht.wikisource.org)
+ - date_published: 2024-06-27T17:27:24+00:00
+
+ ## Wikiforrás
+ - [https://hu.wikisource.org](https://hu.wikisource.org)
+ - date_published: 2024-06-11T12:31:12+00:00
+
+ ## Վիքիդարան՝ ազատ գրադարան
+ - [https://hy.wikisource.org](https://hy.wikisource.org)
+ - date_published: 2024-06-11T12:31:40+00:00
+
+ ## Wikisource
+ - [http://hyw.wikisource.org](http://hyw.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:50:00.655981+00:00
+
+ ## Wikisource
+ - [https://ia.wikisource.org](https://ia.wikisource.org)
+ - date_published: 2024-09-07T06:41:58+00:00
+
+ ## Wikisumber bahasa Indonesia
+ - [https://id.wikisource.org](https://id.wikisource.org)
+ - date_published: 2024-06-11T12:31:40+00:00
+
+ ## Wikisource
+ - [http://ie.wikisource.org](http://ie.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:53:54.179740+00:00
+
+ ## Wikisource
+ - [http://igl.wikisource.org](http://igl.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:53:56.897599+00:00
+
+ ## Wikisource
+ - [http://ig.wikisource.org](http://ig.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:53:59.439310+00:00
+
+ ## Wikiheimild
+ - [https://is.wikisource.org](https://is.wikisource.org)
+ - date_published: 2024-06-11T12:31:42+00:00
+
+ ## Wikisource
+ - [https://it.m.wikisource.org](https://it.m.wikisource.org)
+ - date_published: 2024-07-13T10:36:16+00:00
+
+ ## Wikisource
+ - [https://it.wikisource.org](https://it.wikisource.org)
+ - date_published: 2024-05-11T11:24:55.386644+00:00
+
+ ## Wikisource
+ - [https://ja.wikisource.org](https://ja.wikisource.org)
+ - date_published: 2024-06-11T12:31:42+00:00
+
+ ## Wikisumber, kapustakan mardika
+ - [https://jv.wikisource.org](https://jv.wikisource.org)
+ - date_published: 2024-06-11T12:31:43+00:00
+
+ ## Wikisource
+ - [http://kaa.wikisource.org](http://kaa.wikisource.org)
+ - date_published: 2024-06-04T08:08:05+00:00
+ - date_dead_since: 2025-01-30T06:54:10.386998+00:00
+
+ ## Wikisource
+ - [https://ka.wikisource.org](https://ka.wikisource.org)
+ - date_published: 2024-06-29T14:16:10+00:00
+
+ ## Wikisource
+ - [http://kbd.wikisource.org](http://kbd.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:54:14.738391+00:00
+
+ ## Wikisource
+ - [http://kcg.wikisource.org](http://kcg.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:54:17.435579+00:00
+
+ ## Wikisource
+ - [http://kg.wikisource.org](http://kg.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:54:20.101850+00:00
+
+ ## Wikisource
+ - [https://kk.wikisource.org](https://kk.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [http://kl.wikisource.org](http://kl.wikisource.org)
+ - date_published: 2024-09-07T06:41:58+00:00
+ - date_dead_since: 2025-01-30T06:54:24.529101+00:00
+
+ ## ವಿಕಿಸೋರ್ಸ್
+ - [https://kn.wikisource.org](https://kn.wikisource.org)
+ - date_published: 2024-06-11T12:31:43+00:00
+
+ ## 위키문헌, 우리 모두의 도서관
+ - [https://ko.wikisource.org](https://ko.wikisource.org)
+ - date_published: 2024-06-11T12:31:43+00:00
+
+ ## Wikisource
+ - [https://kw.wikisource.org](https://kw.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://ky.wikisource.org](https://ky.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://lad.wikisource.org](https://lad.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://la.wikisource.org](https://la.wikisource.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Wikisource
+ - [https://lb.wikisource.org](https://lb.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://lg.wikisource.org](https://lg.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikivivàgna
+ - [https://lij.wikisource.org](https://lij.wikisource.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Wikibrónne
+ - [https://li.wikisource.org](https://li.wikisource.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Wikisource
+ - [http://lld.wikisource.org](http://lld.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:54:48.906217+00:00
+
+ ## Wikisource
+ - [https://ln.wikisource.org](https://ln.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Vikišaltiniai
+ - [https://lt.wikisource.org](https://lt.wikisource.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Wikisource
+ - [https://lv.wikisource.org](https://lv.wikisource.org)
+ - date_published: 2024-09-07T06:41:58+00:00
+
+ ## Wikisource
+ - [http://map-bms.wikisource.org](http://map-bms.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:55:44.042312+00:00
+
+ ## Wikisource
+ - [https://mg.wikisource.org](https://mg.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [http://min.wikisource.org](http://min.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:55:48.990829+00:00
+
+ ## Wikisource
+ - [https://mk.wikisource.org](https://mk.wikisource.org)
+ - date_published: 2024-06-11T12:31:45+00:00
+
+ ## വിക്കിഗ്രന്ഥശാല
+ - [https://ml.wikisource.org](https://ml.wikisource.org)
+ - date_published: 2024-06-11T12:31:45+00:00
+
+ ## Wikisource
+ - [http://mn.wikisource.org](http://mn.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:55:53.992424+00:00
+
+ ## Wikisource
+ - [https://mnw.wikisource.org](https://mnw.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## विकिस्रोत
+ - [https://mr.wikisource.org](https://mr.wikisource.org)
+ - date_published: 2024-06-11T12:31:45+00:00
+
+ ## Wikisource
+ - [https://ms.wikisource.org](https://ms.wikisource.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Wikisource
+ - [http://mt.wikisource.org](http://mt.wikisource.org)
+ - date_published: 2024-09-07T06:41:58+00:00
+ - date_dead_since: 2025-01-30T06:58:50.565246+00:00
+
+ ## Wikisource
+ - [https://m.wikisource.org](https://m.wikisource.org)
+ - date_published: 2024-06-04T08:08:05+00:00
+
+ ## Wikisource
+ - [https://mwl.wikisource.org](https://mwl.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://my.wikisource.org](https://my.wikisource.org)
  - date_published: 2024-04-23T00:00:00+00:00
 
- ## Início | Trade Stories
- - [https://tradestories.pt](https://tradestories.pt)
- - date_published: 2024-05-11T09:35:48.634502+00:00
+ ## Wikisource
+ - [https://nah.wikisource.org](https://nah.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
 
- ## Mercado de transferências, rumores, Valores de mercado e notícias
- - [https://www.transfermarkt.pt](https://www.transfermarkt.pt)
- - date_published: 2024-07-24T06:29:39.030988+00:00
+ ## Wikisource
+ - [https://nap.wikisource.org](https://nap.wikisource.org)
+ - date_published: 2024-06-11T12:31:45+00:00
 
- ## | Tribuna Expresso
- - [https://tribunaexpresso.pt](https://tribunaexpresso.pt)
- - date_published: 2024-07-12T00:00:00+00:00
+ ## Wikisource
+ - [https://ne.wikisource.org](https://ne.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
 
- ## Tripadvisor: mais de mil milhões de avaliações e contribuições sobre hotéis, atrações, restaurantes e muito mais
- - [https://www.tripadvisor.pt](https://www.tripadvisor.pt)
- - date_published: 2024-06-23T09:27:36.495461+00:00
+ ## Wikisource
+ - [http://nia.wikisource.org](http://nia.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:59:01.781946+00:00
 
- ## trivago Magazine
- - [https://magazine.trivago.pt](https://magazine.trivago.pt)
- - date_published: 2025-01-30T12:55:36.223349+00:00
+ ## Wikisource
+ - [https://nl.wikisource.org](https://nl.wikisource.org)
+ - date_published: 2024-06-11T12:31:46+00:00
 
- ## trivago.pt - Compare hotel prices worldwide
- - [https://www.trivago.pt](https://www.trivago.pt)
- - date_published: 2024-09-04T11:20:54.314623+00:00
+ ## Wikisource
+ - [http://nov.wikisource.org](http://nov.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:59:06.692613+00:00
 
- ## Truckscorner: camiões usados, semi-reboques, pesados de mercadorias usados
- - [https://www.truckscorner.pt](https://www.truckscorner.pt)
- - date_published: 2025-02-09T15:14:28.874209+00:00
+ ## Wikikilden
+ - [https://no.wikisource.org](https://no.wikisource.org)
+ - date_published: 2024-06-11T12:31:46+00:00
 
- ## TrustDeals.pt - Poupe com códigos de desconto, ofertas e promoções exclusivas.
- - [https://www.trustdeals.pt](https://www.trustdeals.pt)
- - date_published: 2024-12-24T21:39:46+00:00
+ ## ଉଇକିପାଠାଗାର
+ - [https://or.wikisource.org](https://or.wikisource.org)
+ - date_published: 2024-06-11T12:31:46+00:00
 
- ## Compras online com a Trusted Shops
- - [https://www.trustedshops.pt](https://www.trustedshops.pt)
- - date_published: 2023-01-30T00:00:00+00:00
+ ## Wikisource
+ - [http://pag.wikisource.org](http://pag.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:59:13.661505+00:00
 
- ## Loja Trust in News - Loja TIN
- - [https://loja.trustinnews.pt](https://loja.trustinnews.pt)
- - date_published: 2024-09-05T15:01:44.279292+00:00
+ ## Wikisource
+ - [https://pam.wikisource.org](https://pam.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
 
- ## TTMB - Distribuição e Logística Lda |
- TTMB - Distribuição e Logística Lda
- - [https://ttmb.pt](https://ttmb.pt)
- - date_published: 2024-09-19T02:31:43.878494+00:00
+ ## Wikisource
+ - [http://pap.wikisource.org](http://pap.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:59:18.258858+00:00
 
- ## tugait.pt
- - [http://tugait.pt](http://tugait.pt)
- - date_published: 2024-12-14T16:21:56.705642+00:00
+ ## ਵਿਕੀਸਰੋਤ
+ - [https://pa.wikisource.org](https://pa.wikisource.org)
+ - date_published: 2024-06-11T12:31:47+00:00
 
- ## Serviço de Regulação e Inspeção de Jogos
- - [https://www.srij.turismodeportugal.pt](https://www.srij.turismodeportugal.pt)
- - date_published: 2024-12-20T10:54:21.317364+00:00
+ ## Wikiźródła, wolna biblioteka
+ - [https://pl.wikisource.org](https://pl.wikisource.org)
+ - date_published: 2024-06-17T19:50:04+00:00
 
- ## Habilite estudantes fazerem o seu melhor e produzir trabalhos com originalidade| Turnitin
- - [https://turnitin.pt](https://turnitin.pt)
- - date_published: 2024-09-23T16:27:20+00:00
+ ## Wikisource
+ - [https://pms.wikisource.org](https://pms.wikisource.org)
+ - date_published: 2024-06-11T12:31:47+00:00
 
- ## Tuticar - Stand Carros Usados em  Sintra, Lisboa
- - [http://www.tuticar.pt](http://www.tuticar.pt)
- - date_published: 2024-09-05T15:04:52.768816+00:00
+ ## Wikisource
+ - [http://pnb.wikisource.org](http://pnb.wikisource.org)
+ - date_published: 2024-09-07T06:41:58+00:00
+ - date_dead_since: 2025-01-30T06:59:26.356935+00:00
 
- ## TV 7 Dias - A atualidade da televisão portuguesa e internacional à distância de um clique.
- - [https://tv7dias.pt](https://tv7dias.pt)
- - date_published: 2024-09-05T15:01:22+00:00
+ ## Wikisource
+ - [https://pnt.wikisource.org](https://pnt.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
 
- ## TVEuropa
- - [https://tveuropa.pt](https://tveuropa.pt)
- - date_published: 2024-12-20T09:15:57.232686+00:00
+ ## Wikisource
+ - [http://ps.wikisource.org](http://ps.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:59:30.870741+00:00
 
- ## Universidade de Aveiro - Universidade de Aveiro
- - [https://idp.ua.pt](https://idp.ua.pt)
- - date_published: 2025-02-10T13:04:58.494165+00:00
+ ## Wikisource
+ - [https://pt.wikisource.org](https://pt.wikisource.org)
+ - date_published: 2024-06-17T16:00:07+00:00
 
- ## Repositório Institucional da Universidade de Aveiro: Home
- - [https://ria.ua.pt](https://ria.ua.pt)
- - date_published: 2024-05-12T05:44:34.119743+00:00
+ ## Wikisource
+ - [https://qu.wikisource.org](https://qu.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
 
- ## Universidade de Aveiro - Universidade de Aveiro
- - [https://www.ua.pt](https://www.ua.pt)
- - date_published: 2024-06-28T22:09:10.075719+00:00
+ ## Wikisource
+ - [https://rm.wikisource.org](https://rm.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
 
- ## Portal da Universidade Aberta – the single public digital university in Portugal
- - [https://idprovider.uab.pt](https://idprovider.uab.pt)
- - date_published: 2025-02-10T04:06:55.305705+00:00
+ ## Wikisource
+ - [https://ro.wikisource.org](https://ro.wikisource.org)
+ - date_published: 2024-06-11T12:31:48+00:00
+
+ ## Викитека — свободная библиотека
+ - [https://ru.m.wikisource.org](https://ru.m.wikisource.org)
+ - date_published: 2024-07-09T12:22:22+00:00
+
+ ## Викитека — свободная библиотека
+ - [https://ru.wikisource.org](https://ru.wikisource.org)
+ - date_published: 2024-05-10T03:55:26.918991+00:00
+
+ ## Wikisource
+ - [http://rw.wikisource.org](http://rw.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:59:43.653437+00:00
+
+ ## Бикитиэкэ
+ - [https://sah.wikisource.org](https://sah.wikisource.org)
+ - date_published: 2024-06-11T12:31:48+00:00
+
+ ## Wikisource
+ - [http://sat.wikisource.org](http://sat.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:59:47.781407+00:00
+
+ ## विकिस्रोतः
+ - [https://sa.wikisource.org](https://sa.wikisource.org)
+ - date_published: 2024-06-11T12:31:48+00:00
+
+ ## Wikisource
+ - [http://sco.wikisource.org](http://sco.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:59:51.551889+00:00
+
+ ## Wikisource
+ - [http://shi.wikisource.org](http://shi.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:59:54.188579+00:00
+
+ ## Wikisource
+ - [http://shn.wikisource.org](http://shn.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:59:57.138730+00:00
+
+ ## Wikisource
+ - [http://sh.wikisource.org](http://sh.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T06:59:59.772941+00:00
+
+ ## Wikisource
+ - [https://si.wikisource.org](https://si.wikisource.org)
+ - date_published: 2024-09-07T06:41:58+00:00
+
+ ## Wikisource
+ - [http://skr.wikisource.org](http://skr.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:00:03.928297+00:00
+
+ ## Wikizdroje
+ - [https://sk.wikisource.org](https://sk.wikisource.org)
+ - date_published: 2024-06-11T12:31:49+00:00
+
+ ## Wikivir
+ - [https://sl.wikisource.org](https://sl.wikisource.org)
+ - date_published: 2024-06-11T12:31:49+00:00
+
+ ## Wikisource
+ - [http://so.wikisource.org](http://so.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:00:08.441141+00:00
+
+ ## Викизворник
+ - [https://sr.wikisource.org](https://sr.wikisource.org)
+ - date_published: 2024-06-11T12:31:50+00:00
+
+ ## Wikisource
+ - [http://ss.wikisource.org](http://ss.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:03:52.013485+00:00
+
+ ## Wikipabukon
+ - [https://su.wikisource.org](https://su.wikisource.org)
+ - date_published: 2024-06-29T14:16:20+00:00
+
+ ## Wikisource
+ - [https://sv.wikisource.org](https://sv.wikisource.org)
+ - date_published: 2024-06-13T20:41:39+00:00
+
+ ## விக்கிமூலம்
+ - [https://ta.wikisource.org](https://ta.wikisource.org)
+ - date_published: 2024-06-11T12:31:50+00:00
+
+ ## Wikisource
+ - [https://tcy.wikisource.org](https://tcy.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## వికీసోర్స్
+ - [https://te.wikisource.org](https://te.wikisource.org)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Wikisource
+ - [https://tg.wikisource.org](https://tg.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## วิกิซอร์ซ
+ - [https://th.wikisource.org](https://th.wikisource.org)
+ - date_published: 2024-06-11T12:31:51+00:00
+
+ ## Wikisource
+ - [http://tk.wikisource.org](http://tk.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:04:06.183826+00:00
+
+ ## Wikisource
+ - [https://tl.wikisource.org](https://tl.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [http://tly.wikisource.org](http://tly.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:04:11.252532+00:00
+
+ ## Wikisource
+ - [http://tn.wikisource.org](http://tn.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:04:14.503674+00:00
+
+ ## Vikikaynak
+ - [https://tr.wikisource.org](https://tr.wikisource.org)
+ - date_published: 2024-06-14T16:39:50+00:00
+
+ ## Wikisource
+ - [http://tw.wikisource.org](http://tw.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:04:19.025232+00:00
+
+ ## Wikisource
+ - [http://tyv.wikisource.org](http://tyv.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:04:21.712346+00:00
+
+ ## Wikisource
+ - [http://ug.wikisource.org](http://ug.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:04:23.496045+00:00
+
+ ## Вікіджерела — вільна бібліотека
+ - [https://uk.wikisource.org](https://uk.wikisource.org)
+ - date_published: 2024-06-12T16:30:53+00:00
+
+ ## Wikisource
+ - [https://ur.wikisource.org](https://ur.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://uz.wikisource.org](https://uz.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://vec.wikisource.org](https://vec.wikisource.org)
+ - date_published: 2024-06-11T12:31:52+00:00
+
+ ## Wikisource
+ - [http://ve.wikisource.org](http://ve.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:04:30.842606+00:00
+
+ ## Wikisource, văn thư lưu trữ mở
+ - [https://vi.wikisource.org](https://vi.wikisource.org)
+ - date_published: 2024-06-16T07:30:53+00:00
+
+ ## Wikisource
+ - [https://wa.wikisource.org](https://wa.wikisource.org)
+ - date_published: 2024-06-11T12:31:54+00:00
+
+ ## Wikisource
+ - [https://wikisource.org](https://wikisource.org)
+ - date_published: 2024-05-02T11:13:55.188594+00:00
+
+ ## Wikisource
+ - [http://wo.wikisource.org](http://wo.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:04:36.297286+00:00
+
+ ## Wikisource
+ - [https://xmf.wikisource.org](https://xmf.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## װיקיביבליאָטעק
+ - [https://yi.wikisource.org](https://yi.wikisource.org)
+ - date_published: 2024-06-11T12:31:54+00:00
+
+ ## Wikisource
+ - [http://yo.wikisource.org](http://yo.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:04:40.826125+00:00
+
+ ## Wikisource
+ - [http://za.wikisource.org](http://za.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:04:42.910366+00:00
+
+ ## Wikisource
+ - [http://zgh.wikisource.org](http://zgh.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+ - date_dead_since: 2025-01-30T07:04:45.006546+00:00
+
+ ## Wiki Tô·-su-kóan
+ - [https://zh-min-nan.wikisource.org](https://zh-min-nan.wikisource.org)
+ - date_published: 2024-06-11T12:31:54+00:00
+
+ ## 维基文库，自由的图书馆
+ - [https://zh.wikisource.org](https://zh.wikisource.org)
+ - date_published: 2024-06-17T16:09:31+00:00
+
+ ## Wikimedia Small Projects
+ - [https://wikisp.org](https://wikisp.org)
+ - date_published: 2024-07-14T03:09:10.436696+00:00
+
+ ## Wikispecies, free species directory
+ - [https://en.wikispecies.org](https://en.wikispecies.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Wikispecies, free species directory
+ - [https://wikispecies.org](https://wikispecies.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Join us and share what you love about where you live.
+ - [https://climateaudit101.wikispot.org](https://climateaudit101.wikispot.org)
+ - date_published: 2024-06-28T18:38:40.506687+00:00
+ - date_dead_since: 2025-01-30T07:04:53.497411+00:00
+
+ ## WikiSuite | Software
+ - [https://wikisuite.org](https://wikisuite.org)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Home
+ - [https://wikisummaries.org](https://wikisummaries.org)
+ - date_published: 2023-11-20T20:54:09.137088+00:00
+
+ ## 免费下载自由WIKI app，获得在线百科全书 - 自由WIKI
+ - [https://wikiunblocked.org](https://wikiunblocked.org)
+ - date_published: 2024-03-07T00:59:51+00:00
+
+ ## ويكي الجامعة
+ - [https://ar.wikiversity.org](https://ar.wikiversity.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Wikiversity
+ - [https://beta.wikiversity.org](https://beta.wikiversity.org)
+ - date_published: 2024-06-27T20:39:52+00:00
+
+ ## Wikiverzita
+ - [https://cs.wikiversity.org](https://cs.wikiversity.org)
+ - date_published: 2024-07-09T12:21:29+00:00
+
+ ## Wikiversity
+ - [https://de.wikiversity.org](https://de.wikiversity.org)
+ - date_published: 2024-07-09T12:21:30+00:00
+
+ ## Βικιεπιστήμιο
+ - [https://el.wikiversity.org](https://el.wikiversity.org)
+ - date_published: 2024-07-09T12:21:30+00:00
+
+ ## Wikiversity
+ - [https://en.m.wikiversity.org](https://en.m.wikiversity.org)
+ - date_published: 2024-08-10T03:06:06+00:00
+
+ ## Wikiversity
+ - [https://en.wikiversity.org](https://en.wikiversity.org)
+ - date_published: 2023-10-25T22:21:18.483834+00:00
+
+ ## Wikiversidad
+ - [https://es.wikiversity.org](https://es.wikiversity.org)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Wikiopisto
+ - [https://fi.m.wikiversity.org](https://fi.m.wikiversity.org)
+ - date_published: 2024-10-08T13:41:36+00:00
+
+ ## Wikiopisto
+ - [https://fi.wikiversity.org](https://fi.wikiversity.org)
+ - date_published: 2024-06-11T12:31:09+00:00
+
+ ## Wikiversité
+ - [https://fr.m.wikiversity.org](https://fr.m.wikiversity.org)
+ - date_published: 2024-07-09T12:21:33+00:00
+
+ ## Wikiversité
+ - [https://fr.wikiversity.org](https://fr.wikiversity.org)
+ - date_published: 2024-05-10T04:26:40.837266+00:00
+
+ ## विकिविश्वविद्यालय
+ - [https://hi.wikiversity.org](https://hi.wikiversity.org)
+ - date_published: 2024-07-09T12:21:34+00:00
+
+ ## Wikiversità
+ - [https://it.m.wikiversity.org](https://it.m.wikiversity.org)
+ - date_published: 2024-07-13T10:36:16+00:00
+
+ ## Wikiversità
+ - [https://it.wikiversity.org](https://it.wikiversity.org)
+ - date_published: 2024-05-11T11:25:07.937459+00:00
+
+ ## ウィキバーシティ
+ - [https://ja.wikiversity.org](https://ja.wikiversity.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 위키배움터
+ - [https://ko.wikiversity.org](https://ko.wikiversity.org)
+ - date_published: 2024-07-09T12:22:17+00:00
+
+ ## Wikiversidade
+ - [https://pt.wikiversity.org](https://pt.wikiversity.org)
+ - date_published: 2024-06-11T12:31:47+00:00
+
+ ## Викиверситет
+ - [https://ru.m.wikiversity.org](https://ru.m.wikiversity.org)
+ - date_published: 2024-07-09T12:22:22+00:00
+
+ ## Викиверситет
+ - [https://ru.wikiversity.org](https://ru.wikiversity.org)
+ - date_published: 2024-05-10T03:55:13.399517+00:00
+
+ ## Wikiverza
+ - [https://sl.wikiversity.org](https://sl.wikiversity.org)
+ - date_published: 2024-07-09T12:22:23+00:00
+
+ ## Wikiversity
+ - [https://sv.wikiversity.org](https://sv.wikiversity.org)
+ - date_published: 2024-07-09T12:22:24+00:00
+
+ ## Wikiversity
+ - [https://wikiversity.org](https://wikiversity.org)
+ - date_published: 2024-07-08T15:36:04+00:00
+
+ ## 维基学院，自由的研习社群
+ - [https://zh.wikiversity.org](https://zh.wikiversity.org)
+ - date_published: 2024-06-19T16:18:27+00:00
+
+ ## Wy/ab - Wikimedia Incubator
+ - [https://ab.wikivoyage.org](https://ab.wikivoyage.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## НэкӀубгъо шъхьаӀ - Wy/ady - Wikimedia Incubator
+ - [https://ady.wikivoyage.org](https://ady.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## الصفحة الرئيسية - Wy/ar - Wikimedia Incubator
+ - [https://ar.wikivoyage.org](https://ar.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Asturian Wikivoyage - Wikimedia Incubator
+ - [https://ast.wikivoyage.org](https://ast.wikivoyage.org)
+ - date_published: 2024-07-12T03:11:36.314638+00:00
+
+ ## Avaric Wikivoyage - Wikimedia Incubator
+ - [https://av.wikivoyage.org](https://av.wikivoyage.org)
+ - date_published: 2024-07-12T05:06:18.723551+00:00
+
+ ## Ana Səhifə - Wy/az - Wikimedia Incubator
+ - [https://az.wikivoyage.org](https://az.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wy/ban - Wikimedia Incubator
+ - [https://ban.wikivoyage.org](https://ban.wikivoyage.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Panginot na Pahina - Wy/bcl - Wikimedia Incubator
+ - [https://bcl.wikivoyage.org](https://bcl.wikivoyage.org)
+ - date_published: 2024-09-07T06:41:44+00:00
+
+ ## Banjar Wikivoyage - Wikimedia Incubator
+ - [https://bjn.wikivoyage.org](https://bjn.wikivoyage.org)
+ - date_published: 2024-07-12T02:44:08.171231+00:00
+
+ ## Pa'O Wikivoyage - Wikimedia Incubator
+ - [https://blk.wikivoyage.org](https://blk.wikivoyage.org)
+ - date_published: 2024-07-12T03:50:11.127852+00:00
+
+ ## উইকিভ্রমণ
+ - [https://bn.wikivoyage.org](https://bn.wikivoyage.org)
+ - date_published: 2024-07-07T05:03:30+00:00
+
+ ## Degemer - Wy/br - Wikimedia Incubator
+ - [https://br.wikivoyage.org](https://br.wikivoyage.org)
+ - date_published: 2024-09-04T02:57:26+00:00
+
+ ## Bosnian Wikivoyage - Wikimedia Incubator
+ - [https://bs.wikivoyage.org](https://bs.wikivoyage.org)
+ - date_published: 2024-07-12T02:43:11.809520+00:00
+
+ ## Batak Mandailing Wikivoyage - Wikimedia Incubator
+ - [https://btm.wikivoyage.org](https://btm.wikivoyage.org)
+ - date_published: 2024-09-18T03:07:00.399992+00:00
+
+ ## Pàgina principal - Wy/ca - Wikimedia Incubator
+ - [https://ca.wikivoyage.org](https://ca.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:09:39.697970+00:00
+
+ ## Chechen Wikivoyage - Wikimedia Incubator
+ - [http://ce.wikivoyage.org](http://ce.wikivoyage.org)
+ - date_published: 2024-07-11T22:03:10.149694+00:00
+ - date_dead_since: 2025-01-30T07:09:41.526404+00:00
+
+ ## دەستپێک - Wy/ckb - Wikimedia Incubator
+ - [https://ckb.wikivoyage.org](https://ckb.wikivoyage.org)
+ - date_published: 2024-06-28T05:01:29+00:00
+
+ ## Wikivoyage:Hlavní strana - Wy/cs - Wikimedia Incubator
+ - [https://cs.wikivoyage.org](https://cs.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wikivoyage – Freie Reiseinformationen rund um die Welt
+ - [https://de.wikivoyage.org](https://de.wikivoyage.org)
+ - date_published: 2024-07-07T05:03:33+00:00
+
+ ## Wy/diq - Wikimedia Incubator
+ - [https://diq.wikivoyage.org](https://diq.wikivoyage.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Βικιταξίδια
+ - [https://el.wikivoyage.org](https://el.wikivoyage.org)
+ - date_published: 2024-07-07T05:03:34+00:00
+
+ ## Wikivoyage – The free worldwide travel guide that you can edit
+ - [https://en.m.wikivoyage.org](https://en.m.wikivoyage.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Wikivoyage – The free worldwide travel guide that you can edit
+ - [https://en.wikivoyage.org](https://en.wikivoyage.org)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Vikivojaĝo
+ - [https://eo.wikivoyage.org](https://eo.wikivoyage.org)
+ - date_published: 2024-07-07T05:03:34+00:00
+
+ ## Wikiviajes
+ - [https://es.wikivoyage.org](https://es.wikivoyage.org)
+ - date_published: 2024-07-07T05:03:35+00:00
+
+ ## ویکی‌سفر، راهنمای آزاد سفر
+ - [https://fa.wikivoyage.org](https://fa.wikivoyage.org)
+ - date_published: 2024-07-07T05:03:35+00:00
+
+ ## Wikimatkat
+ - [https://fi.m.wikivoyage.org](https://fi.m.wikivoyage.org)
+ - date_published: 2024-10-08T13:41:36+00:00
+
+ ## Wikimatkat
+ - [https://fi.wikivoyage.org](https://fi.wikivoyage.org)
+ - date_published: 2024-06-11T12:31:09+00:00
+
+ ## Wikivoyage, le guide de voyage et de tourisme collaboratif gratuit
+ - [https://fr.m.wikivoyage.org](https://fr.m.wikivoyage.org)
+ - date_published: 2024-07-09T12:21:33+00:00
+
+ ## Northern Frisian Wikivoyage - Wikimedia Incubator
+ - [https://frr.wikivoyage.org](https://frr.wikivoyage.org)
+ - date_published: 2024-07-12T03:32:25.557859+00:00
+
+ ## Wikivoyage, le guide de voyage et de tourisme collaboratif gratuit
+ - [https://fr.wikivoyage.org](https://fr.wikivoyage.org)
+ - date_published: 2024-05-10T04:25:20.500781+00:00
+
+ ## Guarani Wikivoyage - Wikimedia Incubator
+ - [https://gn.wikivoyage.org](https://gn.wikivoyage.org)
+ - date_published: 2024-09-18T03:02:16.404289+00:00
+
+ ## Gorontalo Wikivoyage - Wikimedia Incubator
+ - [https://gor.wikivoyage.org](https://gor.wikivoyage.org)
+ - date_published: 2024-07-12T02:34:32.891288+00:00
+
+ ## મુખપૃષ્ઠ - Wy/gu - Wikimedia Incubator
+ - [https://gu.wikivoyage.org](https://gu.wikivoyage.org)
+ - date_published: 2024-09-07T06:41:44+00:00
+
+ ## ויקימסע
+ - [https://he.m.wikivoyage.org](https://he.m.wikivoyage.org)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## ויקימסע
+ - [https://he.wikivoyage.org](https://he.wikivoyage.org)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## विकियात्रा
+ - [https://hi.wikivoyage.org](https://hi.wikivoyage.org)
+ - date_published: 2024-07-07T05:03:38+00:00
+
+ ## Croatian Wikivoyage - Wikimedia Incubator
+ - [https://hr.wikivoyage.org](https://hr.wikivoyage.org)
+ - date_published: 2024-07-12T02:21:12.745478+00:00
+
+ ## Haitian Creole Wikivoyage - Wikimedia Incubator
+ - [https://ht.wikivoyage.org](https://ht.wikivoyage.org)
+ - date_published: 2024-07-12T05:34:04.348173+00:00
+
+ ## Գլխավոր էջ - Wy/hy - Wikimedia Incubator
+ - [https://hy.wikivoyage.org](https://hy.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Igala Wikivoyage - Wikimedia Incubator
+ - [https://igl.wikivoyage.org](https://igl.wikivoyage.org)
+ - date_published: 2024-07-12T03:19:35.541854+00:00
+
+ ## Igbo Wikivoyage - Wikimedia Incubator
+ - [https://ig.wikivoyage.org](https://ig.wikivoyage.org)
+ - date_published: 2024-07-12T04:13:19.540338+00:00
+
+ ## Wikivoyage – Informazioni di viaggio gratuite dal mondo
+ - [https://it.m.wikivoyage.org](https://it.m.wikivoyage.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Wikivoyage – Informazioni di viaggio gratuite dal mondo
+ - [https://it.wikivoyage.org](https://it.wikivoyage.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## ウィキボヤージュ — 誰でも編集できるフリーな旅行ガイド
+ - [https://ja.wikivoyage.org](https://ja.wikivoyage.org)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Javanese Wikivoyage - Wikimedia Incubator
+ - [https://jv.wikivoyage.org](https://jv.wikivoyage.org)
+ - date_published: 2024-07-12T04:43:46.211481+00:00
+
+ ## Wy/kaa - Wikimedia Incubator
+ - [https://kaa.wikivoyage.org](https://kaa.wikivoyage.org)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Басты бет - Wy/kk - Wikimedia Incubator
+ - [https://kk.wikivoyage.org](https://kk.wikivoyage.org)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## ಮುಖ್ಯ ಪುಟ - Wy/kn - Wikimedia Incubator
+ - [https://kn.wikivoyage.org](https://kn.wikivoyage.org)
+ - date_published: 2024-06-29T14:16:09+00:00
+
+ ## 위키여행:대문 - Wy/ko - Wikimedia Incubator
+ - [https://ko.wikivoyage.org](https://ko.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:14:26.256192+00:00
+
+ ## Destpêk - Wy/ku - Wikimedia Incubator
+ - [http://ku.wikivoyage.org](http://ku.wikivoyage.org)
+ - date_published: 2024-04-19T00:00:00+00:00
+ - date_dead_since: 2025-01-30T07:14:28.304969+00:00
+
+ ## Башкы барак - Wy/ky - Wikimedia Incubator
+ - [http://ky.wikivoyage.org](http://ky.wikivoyage.org)
+ - date_published: 2024-04-04T00:00:00+00:00
+ - date_dead_since: 2025-01-30T07:14:30.299853+00:00
+
+ ## Haaptsäit - Wy/lb - Wikimedia Incubator
+ - [http://lb.wikivoyage.org](http://lb.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:14:32.035524+00:00
+
+ ## Minangkabau Wikivoyage - Wikimedia Incubator
+ - [http://min.wikivoyage.org](http://min.wikivoyage.org)
+ - date_published: 2024-09-18T03:06:34.757961+00:00
+ - date_dead_since: 2025-01-30T07:14:33.851319+00:00
+
+ ## Нүүр хуудас - Wy/mn - Wikimedia Incubator
+ - [http://mn.wikivoyage.org](http://mn.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:14:35.667749+00:00
+
+ ## မုက်လိက်တမ် - Wy/mnw - Wikimedia Incubator
+ - [http://mnw.wikivoyage.org](http://mnw.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:14:37.480956+00:00
+
+ ## मुखपृष्ठ - Wy/mr - Wikimedia Incubator
+ - [https://mr.wikivoyage.org](https://mr.wikivoyage.org)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## ဗဟိုစာမျက်နှာ - Wy/my - Wikimedia Incubator
+ - [https://my.wikivoyage.org](https://my.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Paggena prencepale - Wy/nap - Wikimedia Incubator
+ - [https://nap.wikivoyage.org](https://nap.wikivoyage.org)
+ - date_published: 2024-06-28T02:48:26+00:00
+
+ ## मुख्य पृष्ठ - Wy/ne - Wikimedia Incubator
+ - [http://ne.wikivoyage.org](http://ne.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:25:10.405221+00:00
+
+ ## Nias Wikivoyage - Wikimedia Incubator
+ - [http://nia.wikivoyage.org](http://nia.wikivoyage.org)
+ - date_published: 2024-07-12T05:00:36.592210+00:00
+ - date_dead_since: 2025-01-30T07:25:12.134798+00:00
+
+ ## Wikivoyage
+ - [https://nl.wikivoyage.org](https://nl.wikivoyage.org)
+ - date_published: 2024-07-07T05:04:15+00:00
+
+ ## Novial Wikivoyage - Wikimedia Incubator
+ - [http://nov.wikivoyage.org](http://nov.wikivoyage.org)
+ - date_published: 2024-07-12T03:04:16.388030+00:00
+ - date_dead_since: 2025-01-30T07:25:14.874668+00:00
+
+ ## Papiamento Wikivoyage - Wikimedia Incubator
+ - [http://pap.wikivoyage.org](http://pap.wikivoyage.org)
+ - date_published: 2024-07-12T05:02:17.387279+00:00
+ - date_dead_since: 2025-01-30T07:25:16.625314+00:00
+
+ ## ਮੁੱਖ ਸਫ਼ਾ - Wy/pa - Wikimedia Incubator
+ - [http://pa.wikivoyage.org](http://pa.wikivoyage.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+ - date_dead_since: 2025-01-30T07:25:18.392398+00:00
+
+ ## Wikipodróże – wolny przewodnik turystyczny
+ - [https://pl.wikivoyage.org](https://pl.wikivoyage.org)
+ - date_published: 2024-07-07T05:04:16+00:00
+
+ ## ويکيسفر – د سفر لپاره وړيا لارښود ځای چې هر څوک يې سمولی سي
+ - [https://ps.wikivoyage.org](https://ps.wikivoyage.org)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Wikivoyage
+ - [https://pt.wikivoyage.org](https://pt.wikivoyage.org)
+ - date_published: 2024-06-11T12:31:48+00:00
+
+ ## Wikivoyage
+ - [https://ro.wikivoyage.org](https://ro.wikivoyage.org)
+ - date_published: 2024-07-07T05:04:17+00:00
+
+ ## Викигид — свободный путеводитель
+ - [https://ru.m.wikivoyage.org](https://ru.m.wikivoyage.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Викигид — свободный путеводитель
+ - [https://ru.wikivoyage.org](https://ru.wikivoyage.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Scots Wikivoyage - Wikimedia Incubator
+ - [http://sco.wikivoyage.org](http://sco.wikivoyage.org)
+ - date_published: 2024-07-12T05:27:11.427772+00:00
+ - date_dead_since: 2025-01-30T07:25:25.825060+00:00
+
+ ## ဝီႇၶီႇဝွႆးဢဵတ်ႇꩡ် - ၵႅမ်မိုဝ်း ၵၢၼ်ဢႅဝ်ႇလႄႇ လွတ်ႈလႅဝ်းထၢင်ႇႁၢင်ႈ ဢၼ်ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈမႄးထတ်း
+ - [https://shn.wikivoyage.org](https://shn.wikivoyage.org)
+ - date_published: 2024-07-07T05:04:18+00:00
+
+ ## මුල් පිටුව - Wy/si - Wikimedia Incubator
+ - [http://si.wikivoyage.org](http://si.wikivoyage.org)
+ - date_published: 2024-06-09T00:00:00+00:00
+ - date_dead_since: 2025-01-30T07:25:28.498446+00:00
+
+ ## Wikivoyage:Hlavná stránka - Wy/sk - Wikimedia Incubator
+ - [http://sk.wikivoyage.org](http://sk.wikivoyage.org)
+ - date_published: 2024-03-19T00:00:00+00:00
+ - date_dead_since: 2025-01-30T07:25:30.417991+00:00
+
+ ## Glavna stran - Wy/sl - Wikimedia Incubator
+ - [http://sl.wikivoyage.org](http://sl.wikivoyage.org)
+ - date_published: 2024-02-23T00:00:00+00:00
+ - date_dead_since: 2025-01-30T07:25:32.209388+00:00
+
+ ## Главна страна - Wy/sr - Wikimedia Incubator
+ - [http://sr.wikivoyage.org](http://sr.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:25:33.975706+00:00
+
+ ## Tepas - Wy/su - Wikimedia Incubator
+ - [http://su.wikivoyage.org](http://su.wikivoyage.org)
+ - date_published: 2024-04-07T00:00:00+00:00
+ - date_dead_since: 2025-01-30T07:25:35.835698+00:00
+
+ ## Wikivoyage
+ - [https://sv.wikivoyage.org](https://sv.wikivoyage.org)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Tulu Wikivoyage - Wikimedia Incubator
+ - [http://tcy.wikivoyage.org](http://tcy.wikivoyage.org)
+ - date_published: 2024-07-12T02:50:14.978944+00:00
+ - date_dead_since: 2025-01-30T07:25:38.445757+00:00
+
+ ## Wy/tg - Wikimedia Incubator
+ - [http://tg.wikivoyage.org](http://tg.wikivoyage.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+ - date_dead_since: 2025-01-30T07:25:40.222843+00:00
+
+ ## หน้าหลัก - Wy/th - Wikimedia Incubator
+ - [http://th.wikivoyage.org](http://th.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:25:42.015717+00:00
+
+ ## Baş Sahypa - Wy/tk - Wikimedia Incubator
+ - [http://tk.wikivoyage.org](http://tk.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:25:43.861163+00:00
+
+ ## Unang Pahina - Wy/tl - Wikimedia Incubator
+ - [http://tl.wikivoyage.org](http://tl.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:25:45.543657+00:00
+
+ ## Tswana Wikivoyage - Wikimedia Incubator
+ - [http://tn.wikivoyage.org](http://tn.wikivoyage.org)
+ - date_published: 2024-07-12T02:45:40.285823+00:00
+ - date_dead_since: 2025-01-30T07:25:47.316130+00:00
+
+ ## Vikigezgin, özgür gezi rehberi
+ - [https://tr.wikivoyage.org](https://tr.wikivoyage.org)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Tuvinian Wikivoyage - Wikimedia Incubator
+ - [http://tyv.wikivoyage.org](http://tyv.wikivoyage.org)
+ - date_published: 2024-07-12T02:49:54.709297+00:00
+ - date_dead_since: 2025-01-30T07:25:50.100191+00:00
+
+ ## Udmurt Wikivoyage - Wikimedia Incubator
+ - [http://udm.wikivoyage.org](http://udm.wikivoyage.org)
+ - date_published: 2024-07-12T03:13:37.398751+00:00
+ - date_dead_since: 2025-01-30T07:25:51.903360+00:00
+
+ ## باش بەت - Wy/ug - Wikimedia Incubator
+ - [http://ug.wikivoyage.org](http://ug.wikivoyage.org)
+ - date_published: 2024-09-07T06:41:44+00:00
+ - date_dead_since: 2025-01-30T07:25:53.729213+00:00
+
+ ## Вікімандри
+ - [https://uk.wikivoyage.org](https://uk.wikivoyage.org)
+ - date_published: 2024-07-07T05:04:25+00:00
+
+ ## صفحہ اول - Wy/ur - Wikimedia Incubator
+ - [http://ur.wikivoyage.org](http://ur.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:25:56.399864+00:00
+
+ ## Bosh sahifa - Wy/uz - Wikimedia Incubator
+ - [http://uz.wikivoyage.org](http://uz.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+ - date_dead_since: 2025-01-30T07:25:58.152609+00:00
+
+ ## Wikivoyage
+ - [https://vi.wikivoyage.org](https://vi.wikivoyage.org)
+ - date_published: 2024-07-07T05:04:30+00:00
+
+ ## Wikivoyage
+ - [https://wikivoyage.org](https://wikivoyage.org)
+ - date_published: 2024-07-08T15:36:04+00:00
+
+ ## 维基导游，自由的旅行指南
+ - [https://zh.wikivoyage.org](https://zh.wikivoyage.org)
+ - date_published: 2024-06-19T16:18:27+00:00
+
+ ## WikiWall - WikiWall free wiki hosting
+ - [https://wikiwall.org](https://wikiwall.org)
+ - date_published: 2017-12-29T00:00:00+00:00
+
+ ## WikiWatershed: Freshwater Stewardship Web Tools
+ - [https://wikiwatershed.org](https://wikiwatershed.org)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Main Page
+ - [https://wikizilla.org](https://wikizilla.org)
+ - date_published: 2022-11-21T00:56:22+00:00
+
+ ## ~spwenger's DEFENSIVE USE OF FIREARMS: The Site & Its Logo
+ - [https://wikkawiki.org](https://wikkawiki.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Wiktionary
+ - [https://aa.wiktionary.org](https://aa.wiktionary.org)
+ - date_published: 2024-09-03T06:46:23+00:00
+
+ ## Ôn Keuë - Wt/ace - Wikimedia Incubator
+ - [https://ace.wiktionary.org](https://ace.wiktionary.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## НэкӀубгъо шъхьаӀ - Wt/ady - Wikimedia Incubator
+ - [https://ady.wiktionary.org](https://ady.wiktionary.org)
+ - date_published: 2024-06-28T03:29:23+00:00
+
+ ## Wiktionary
+ - [https://af.m.wiktionary.org](https://af.m.wiktionary.org)
+ - date_published: 2024-09-03T13:59:37+00:00
+
+ ## Wiktionary
+ - [https://af.wiktionary.org](https://af.wiktionary.org)
+ - date_published: 2024-06-01T01:19:51+00:00
+
+ ## Alemannische Wikipedia
+ - [https://als.wiktionary.org](https://als.wiktionary.org)
+ - date_published: 2024-09-03T06:46:00+00:00
+
+ ## Wiktionary
+ - [https://am.m.wiktionary.org](https://am.m.wiktionary.org)
+ - date_published: 2024-09-04T03:38:43+00:00
+
+ ## Wiktionary
+ - [https://am.wiktionary.org](https://am.wiktionary.org)
+ - date_published: 2024-05-30T16:06:58+00:00
+
+ ## Wikiwordbōc, sēo frēo wordbōc
+ - [https://ang.m.wiktionary.org](https://ang.m.wiktionary.org)
+ - date_published: 2024-09-04T03:30:16+00:00
+
+ ## Wikiwordbōc, sēo frēo wordbōc
+ - [https://ang.wiktionary.org](https://ang.wiktionary.org)
+ - date_published: 2024-06-01T00:51:11+00:00
+
+ ## Biquizionario, o dizionario libre en aragonés
+ - [https://an.m.wiktionary.org](https://an.m.wiktionary.org)
+ - date_published: 2024-09-04T03:30:39+00:00
+
+ ## मुख्य पृष्ठ - Wt/anp - Wikimedia Incubator
+ - [https://anp.wiktionary.org](https://anp.wiktionary.org)
+ - date_published: 2024-06-28T04:14:46+00:00
+
+ ## Biquizionario, o dizionario libre en aragonés
+ - [https://an.wiktionary.org](https://an.wiktionary.org)
+ - date_published: 2024-05-31T13:57:00+00:00
+
+ ## Main Page - Wt/syc - Wikimedia Incubator
+ - [https://arc.wiktionary.org](https://arc.wiktionary.org)
+ - date_published: 2024-06-28T04:31:47+00:00
+
+ ## ويكاموس
+ - [https://ar.m.wiktionary.org](https://ar.m.wiktionary.org)
+ - date_published: 2024-09-14T10:00:07+00:00
+
+ ## ويكاموس
+ - [https://ar.wiktionary.org](https://ar.wiktionary.org)
+ - date_published: 2024-06-15T11:57:35+00:00
+
+ ## Wt/ary - Wikimedia Incubator
+ - [https://ary.wiktionary.org](https://ary.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wiktionary
+ - [https://as.m.wiktionary.org](https://as.m.wiktionary.org)
+ - date_published: 2024-09-04T02:59:40+00:00
+
+ ## Wikcionariu
+ - [https://ast.m.wiktionary.org](https://ast.m.wiktionary.org)
+ - date_published: 2024-09-09T04:48:27+00:00
+
+ ## Wikcionariu
+ - [https://ast.wiktionary.org](https://ast.wiktionary.org)
+ - date_published: 2024-05-31T22:58:14+00:00
+
+ ## Wiktionary
+ - [https://as.wiktionary.org](https://as.wiktionary.org)
+ - date_published: 2024-06-01T02:37:26+00:00
+
+ ## Wt/avk - Wikimedia Incubator
+ - [https://avk.wiktionary.org](https://avk.wiktionary.org)
+ - date_published: 2024-06-28T03:49:25+00:00
+
+ ## प्रधान पन्ना - Wt/awa - Wikimedia Incubator
+ - [https://awa.wiktionary.org](https://awa.wiktionary.org)
+ - date_published: 2024-06-28T04:44:09+00:00
+
+ ## Wiktionary
+ - [https://ay.m.wiktionary.org](https://ay.m.wiktionary.org)
+ - date_published: 2024-09-04T03:45:57+00:00
+
+ ## Wiktionary
+ - [https://ay.wiktionary.org](https://ay.wiktionary.org)
+ - date_published: 2024-06-01T04:40:30+00:00
+
+ ## Vikilüğət
+ - [https://az.m.wiktionary.org](https://az.m.wiktionary.org)
+ - date_published: 2024-09-03T05:48:46+00:00
+
+ ## Vikilüğət
+ - [https://az.wiktionary.org](https://az.wiktionary.org)
+ - date_published: 2024-06-01T03:31:57+00:00
+
+ ## Kaca Utama - Wt/ban - Wikimedia Incubator
+ - [https://ban.wiktionary.org](https://ban.wiktionary.org)
+ - date_published: 2024-06-28T03:31:50+00:00
+
+ ## Wt/bar - Wikimedia Incubator
+ - [https://bar.wiktionary.org](https://bar.wiktionary.org)
+ - date_published: 2024-09-04T03:42:03+00:00
+
+ ## Samogitian Wiktionary - Wikimedia Incubator
+ - [https://bat-smg.wiktionary.org](https://bat-smg.wiktionary.org)
+ - date_published: 2024-07-12T03:00:30.553937+00:00
+
+ ## Баш бит - Wt/ba - Wikimedia Incubator
+ - [https://ba.wiktionary.org](https://ba.wiktionary.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Wiksyunaryo
+ - [https://bcl.m.wiktionary.org](https://bcl.m.wiktionary.org)
+ - date_published: 2024-09-09T12:08:41+00:00
+
+ ## Wiksyunaryo
+ - [https://bcl.wiktionary.org](https://bcl.wiktionary.org)
+ - date_published: 2024-06-01T10:22:12+00:00
+
+ ## Вікіслоўнік
+ - [https://be.m.wiktionary.org](https://be.m.wiktionary.org)
+ - date_published: 2024-09-03T12:28:12+00:00
+
+ ## Wt/be-tarask - Wikimedia Incubator
+ - [https://be-tarask.wiktionary.org](https://be-tarask.wiktionary.org)
+ - date_published: 2024-09-04T03:36:02+00:00
+
+ ## Вікіслоўнік
+ - [https://be.wiktionary.org](https://be.wiktionary.org)
+ - date_published: 2024-06-01T10:22:16+00:00
+
+ ## Уикиречник
+ - [https://bg.m.wiktionary.org](https://bg.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:03+00:00
+
+ ## Уикиречник
+ - [https://bg.wiktionary.org](https://bg.wiktionary.org)
+ - date_published: 2024-06-11T12:31:03+00:00
+
+ ## Wiktionary
+ - [https://bh.wiktionary.org](https://bh.wiktionary.org)
+ - date_published: 2024-09-03T06:46:23+00:00
+
+ ## Wiktionary
+ - [https://bjn.m.wiktionary.org](https://bjn.m.wiktionary.org)
+ - date_published: 2024-09-04T06:46:34+00:00
+
+ ## Wiktionary
+ - [https://bjn.wiktionary.org](https://bjn.wiktionary.org)
+ - date_published: 2024-06-01T12:23:54+00:00
+
+ ## ဝိစ်သိဉ်နရီ:အဓိကလိတ်မဲ့ငါ - ဝိစ်သိဉ်နရီ
+ - [https://blk.m.wiktionary.org](https://blk.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:04+00:00
+
+ ## ဝိစ်သိဉ်နရီ:အဓိကလိတ်မဲ့ငါ - ဝိစ်သိဉ်နရီ
+ - [https://blk.wiktionary.org](https://blk.wiktionary.org)
+ - date_published: 2024-06-11T12:31:04+00:00
+
+ ## Wiktionary
+ - [https://bm.wiktionary.org](https://bm.wiktionary.org)
+ - date_published: 2024-09-03T06:47:50+00:00
+
+ ## উইকিঅভিধান, একটি মুক্ত অভিধান
+ - [https://bn.m.wiktionary.org](https://bn.m.wiktionary.org)
+ - date_published: 2024-09-06T17:52:33+00:00
+
+ ## উইকিঅভিধান, একটি মুক্ত অভিধান
+ - [https://bn.wiktionary.org](https://bn.wiktionary.org)
+ - date_published: 2024-05-31T20:53:58+00:00
+
+ ## Wiktionary
+ - [https://bo.wiktionary.org](https://bo.wiktionary.org)
+ - date_published: 2024-06-27T20:56:45+00:00
+
+ ## Bishnupriya Wiktionary - Wikimedia Incubator
+ - [https://bpy.wiktionary.org](https://bpy.wiktionary.org)
+ - date_published: 2024-07-12T04:46:00.186105+00:00
+
+ ## Wikeriadur
+ - [https://br.m.wiktionary.org](https://br.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:04+00:00
+
+ ## Wikeriadur
+ - [https://br.wiktionary.org](https://br.wiktionary.org)
+ - date_published: 2024-06-11T12:31:04+00:00
+
+ ## Wikirječnik
+ - [https://bs.m.wiktionary.org](https://bs.m.wiktionary.org)
+ - date_published: 2024-09-04T03:22:21+00:00
+
+ ## Wikirječnik
+ - [https://bs.wiktionary.org](https://bs.wiktionary.org)
+ - date_published: 2024-06-01T00:39:13+00:00
+
+ ## Wikikamus
+ - [https://btm.m.wiktionary.org](https://btm.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:05+00:00
+
+ ## Wikikamus
+ - [https://btm.wiktionary.org](https://btm.wiktionary.org)
+ - date_published: 2024-06-11T12:31:04+00:00
+
+ ## Wt/bug - Wikimedia Incubator
+ - [https://bug.wiktionary.org](https://bug.wiktionary.org)
+ - date_published: 2024-07-09T09:56:24+00:00
+
+ ## Нюур хуудаһан - Wt/bxr - Wikimedia Incubator
+ - [https://bxr.wiktionary.org](https://bxr.wiktionary.org)
+ - date_published: 2024-06-28T03:58:21+00:00
+
+ ## Viccionari
+ - [https://ca.m.wiktionary.org](https://ca.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:12+00:00
+
+ ## Viccionari
+ - [https://ca.wiktionary.org](https://ca.wiktionary.org)
+ - date_published: 2024-06-11T12:31:12+00:00
+
+ ## Unang Panid - Wt/ceb - Wikimedia Incubator
+ - [https://ceb.wiktionary.org](https://ceb.wiktionary.org)
+ - date_published: 2024-06-28T05:28:39+00:00
+
+ ## Коьрта агӀо - Wt/ce - Wikimedia Incubator
+ - [https://ce.wiktionary.org](https://ce.wiktionary.org)
+ - date_published: 2024-06-27T22:03:11+00:00
+
+ ## Wiktionary
+ - [https://chr.m.wiktionary.org](https://chr.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:05+00:00
+
+ ## Wiktionary
+ - [https://chr.wiktionary.org](https://chr.wiktionary.org)
+ - date_published: 2024-06-11T12:31:05+00:00
+
+ ## Wiktionary
+ - [https://ch.wiktionary.org](https://ch.wiktionary.org)
+ - date_published: 2024-09-03T06:46:23+00:00
+
+ ## ویکیفەرھەنگ
+ - [https://ckb.m.wiktionary.org](https://ckb.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:05+00:00
+
+ ## ویکیفەرھەنگ
+ - [https://ckb.wiktionary.org](https://ckb.wiktionary.org)
+ - date_published: 2024-06-11T12:31:05+00:00
+
+ ## Wiktionary
+ - [https://co.m.wiktionary.org](https://co.m.wiktionary.org)
+ - date_published: 2024-09-03T21:43:21+00:00
+
+ ## Wiktionary
+ - [https://co.wiktionary.org](https://co.wiktionary.org)
+ - date_published: 2024-06-01T02:37:47+00:00
+
+ ## Baş Saife - Wt/crh - Wikimedia Incubator
+ - [https://crh.wiktionary.org](https://crh.wiktionary.org)
+ - date_published: 2024-09-04T03:45:54+00:00
+
+ ## Wiktionary
+ - [https://csb.m.wiktionary.org](https://csb.m.wiktionary.org)
+ - date_published: 2024-09-04T03:34:33+00:00
+
+ ## Wiktionary
+ - [https://csb.wiktionary.org](https://csb.wiktionary.org)
+ - date_published: 2024-06-01T01:06:35+00:00
+
+ ## Wikislovník
+ - [https://cs.m.wiktionary.org](https://cs.m.wiktionary.org)
+ - date_published: 2024-09-17T20:09:28+00:00
+
+ ## Wikislovník
+ - [https://cs.wiktionary.org](https://cs.wiktionary.org)
+ - date_published: 2024-06-11T12:31:06+00:00
+
+ ## главьна страница - Wt/cu - Wikimedia Incubator
+ - [https://cu.wiktionary.org](https://cu.wiktionary.org)
+ - date_published: 2024-06-28T02:36:06+00:00
+
+ ## Тĕп страница - Wt/cv - Wikimedia Incubator
+ - [https://cv.wiktionary.org](https://cv.wiktionary.org)
+ - date_published: 2024-06-27T21:50:36+00:00
+
+ ## Wiciadur
+ - [https://cy.m.wiktionary.org](https://cy.m.wiktionary.org)
+ - date_published: 2024-09-03T14:01:07+00:00
+
+ ## Wiciadur
+ - [https://cy.wiktionary.org](https://cy.wiktionary.org)
+ - date_published: 2024-05-31T14:03:14+00:00
+
+ ## Main Page - Wt/dag - Wikimedia Incubator
+ - [https://dag.wiktionary.org](https://dag.wiktionary.org)
+ - date_published: 2024-06-28T03:14:44+00:00
+
+ ## Wiktionary
+ - [https://da.wiktionary.org](https://da.wiktionary.org)
+ - date_published: 2024-06-01T11:23:28+00:00
+
+ ## Wiktionary
+ - [https://de.m.wiktionary.org](https://de.m.wiktionary.org)
+ - date_published: 2024-09-18T03:16:19+00:00
+
+ ## Wiktionary
+ - [https://de.wiktionary.org](https://de.wiktionary.org)
+ - date_published: 2024-06-15T12:16:16+00:00
+
+ ## Dagaare Wiktionary - Wikimedia Incubator
+ - [https://dga.wiktionary.org](https://dga.wiktionary.org)
+ - date_published: 2024-07-12T03:14:09.535212+00:00
+
+ ## Wikiqısebend
+ - [https://diq.wiktionary.org](https://diq.wiktionary.org)
+ - date_published: 2024-06-27T20:53:58+00:00
+
+ ## Lower Sorbian Wiktionary - Wikimedia Incubator
+ - [https://dsb.wiktionary.org](https://dsb.wiktionary.org)
+ - date_published: 2024-09-18T03:35:59.581145+00:00
+
+ ## मुख्य पन्ना - Wt/dty - Wikimedia Incubator
+ - [https://dty.wiktionary.org](https://dty.wiktionary.org)
+ - date_published: 2024-07-02T09:39:28+00:00
+
+ ## ވިކިރަދީފު
+ - [https://dv.m.wiktionary.org](https://dv.m.wiktionary.org)
+ - date_published: 2024-09-04T03:11:54+00:00
+
+ ## ވިކިރަދީފު
+ - [https://dv.wiktionary.org](https://dv.wiktionary.org)
+ - date_published: 2024-05-31T11:47:02+00:00
+
+ ## Wt/ee - Wikimedia Incubator
+ - [https://ee.wiktionary.org](https://ee.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Βικιλεξικό
+ - [https://el.m.wiktionary.org](https://el.m.wiktionary.org)
+ - date_published: 2024-09-17T04:12:19+00:00
+
+ ## Βικιλεξικό
+ - [https://el.wiktionary.org](https://el.wiktionary.org)
+ - date_published: 2024-06-15T04:40:55+00:00
+
+ ## Prima pàgina - Wt/egl - Wikimedia Incubator
+ - [https://eml.wiktionary.org](https://eml.wiktionary.org)
+ - date_published: 2024-09-04T03:47:20+00:00
+
+ ## Wiktionary, the free dictionary
+ - [https://en.m.wiktionary.org](https://en.m.wiktionary.org)
+ - date_published: 2024-05-01T03:28:52.393212+00:00
+
+ ## Wiktionary, the free dictionary
+ - [https://en.wiktionary.org](https://en.wiktionary.org)
+ - date_published: 2023-10-25T22:21:25.676976+00:00
+
+ ## Vikivortaro
+ - [https://eo.m.wiktionary.org](https://eo.m.wiktionary.org)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Vikivortaro
+ - [https://eo.wiktionary.org](https://eo.wiktionary.org)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Wikcionario, el diccionario libre
+ - [https://es.m.wiktionary.org](https://es.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:08+00:00
+
+ ## Wikcionario, el diccionario libre
+ - [https://es.wiktionary.org](https://es.wiktionary.org)
+ - date_published: 2024-06-11T12:31:08+00:00
+
+ ## Vikisõnastik
+ - [https://et.m.wiktionary.org](https://et.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:08+00:00
+
+ ## Vikisõnastik
+ - [https://et.wiktionary.org](https://et.wiktionary.org)
+ - date_published: 2024-06-11T12:31:08+00:00
+
+ ## Wiktionary
+ - [https://eu.m.wiktionary.org](https://eu.m.wiktionary.org)
+ - date_published: 2024-09-03T12:56:37+00:00
+
+ ## Wiktionary
+ - [https://eu.wiktionary.org](https://eu.wiktionary.org)
+ - date_published: 2024-06-01T01:29:05+00:00
+
+ ## Extremaduran Wiktionary - Wikimedia Incubator
+ - [https://ext.wiktionary.org](https://ext.wiktionary.org)
+ - date_published: 2024-09-18T03:47:09.606849+00:00
+
+ ## ویکی‌واژه
+ - [https://fa.m.wiktionary.org](https://fa.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:08+00:00
+
+ ## Fanti Wiktionary - Wikimedia Incubator
+ - [https://fat.wiktionary.org](https://fat.wiktionary.org)
+ - date_published: 2024-07-12T04:47:51.140881+00:00
+
+ ## ویکی‌واژه
+ - [https://fa.wiktionary.org](https://fa.wiktionary.org)
+ - date_published: 2024-06-11T12:31:09+00:00
+
+ ## Fula Wiktionary - Wikimedia Incubator
+ - [https://ff.wiktionary.org](https://ff.wiktionary.org)
+ - date_published: 2024-07-12T03:01:03.142912+00:00
+
+ ## Wikisanakirja, vapaa sanakirja
+ - [https://fi.m.wiktionary.org](https://fi.m.wiktionary.org)
+ - date_published: 2024-09-17T14:41:37+00:00
+
+ ## Võro Wiktionary - Wikimedia Incubator
+ - [https://fiu-vro.wiktionary.org](https://fiu-vro.wiktionary.org)
+ - date_published: 2024-09-18T03:47:25.267470+00:00
+
+ ## Wikisanakirja, vapaa sanakirja
+ - [https://fi.wiktionary.org](https://fi.wiktionary.org)
+ - date_published: 2024-06-11T12:31:09+00:00
+
+ ## Wiktionary
+ - [https://fj.m.wiktionary.org](https://fj.m.wiktionary.org)
+ - date_published: 2024-09-04T03:05:54+00:00
+
+ ## Wiktionary
+ - [https://fj.wiktionary.org](https://fj.wiktionary.org)
+ - date_published: 2024-06-01T12:24:25+00:00
+
+ ## Wiktionary
+ - [https://fo.m.wiktionary.org](https://fo.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:09+00:00
+
+ ## Wiktionary
+ - [https://fo.wiktionary.org](https://fo.wiktionary.org)
+ - date_published: 2024-06-11T12:31:09+00:00
+
+ ## Wiktionnaire
+ - [https://fr.m.wiktionary.org](https://fr.m.wiktionary.org)
+ - date_published: 2024-07-10T20:43:40+00:00
+
+ ## Reçua - Wt/frp - Wikimedia Incubator
+ - [https://frp.wiktionary.org](https://frp.wiktionary.org)
+ - date_published: 2024-09-04T03:41:57+00:00
+
+ ## Wt/frr - Wikimedia Incubator
+ - [https://frr.wiktionary.org](https://frr.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wiktionnaire
+ - [https://fr.wiktionary.org](https://fr.wiktionary.org)
+ - date_published: 2024-05-10T04:30:05.401588+00:00
+
+ ## Pagjine principâl - Wt/fur - Wikimedia Incubator
+ - [https://fur.wiktionary.org](https://fur.wiktionary.org)
+ - date_published: 2024-06-28T05:34:38+00:00
+
+ ## Wikiwurdboek
+ - [https://fy.m.wiktionary.org](https://fy.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:10+00:00
+
+ ## Wikiwurdboek
+ - [https://fy.wiktionary.org](https://fy.wiktionary.org)
+ - date_published: 2024-06-11T12:31:10+00:00
+
+ ## Vicífhoclóir
+ - [https://ga.m.wiktionary.org](https://ga.m.wiktionary.org)
+ - date_published: 2024-09-04T03:43:18+00:00
+
+ ## 封面 - Wt/gan - Wikimedia Incubator
+ - [https://gan.wiktionary.org](https://gan.wiktionary.org)
+ - date_published: 2024-06-28T02:45:54+00:00
+
+ ## Vicífhoclóir
+ - [https://ga.wiktionary.org](https://ga.wiktionary.org)
+ - date_published: 2024-06-01T05:00:08+00:00
+
+ ## Wiktionary
+ - [https://gd.m.wiktionary.org](https://gd.m.wiktionary.org)
+ - date_published: 2024-09-04T03:29:17+00:00
+
+ ## Wiktionary
+ - [https://gd.wiktionary.org](https://gd.wiktionary.org)
+ - date_published: 2024-05-31T01:46:13+00:00
+
+ ## Wiktionary
+ - [https://gl.m.wiktionary.org](https://gl.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:10+00:00
+
+ ## Wiktionary
+ - [https://gl.wiktionary.org](https://gl.wiktionary.org)
+ - date_published: 2024-06-11T12:31:10+00:00
+
+ ## Wiktionary
+ - [https://gn.m.wiktionary.org](https://gn.m.wiktionary.org)
+ - date_published: 2024-09-04T03:02:13+00:00
+
+ ## Wiktionary
+ - [https://gn.wiktionary.org](https://gn.wiktionary.org)
+ - date_published: 2024-06-11T08:21:33+00:00
+
+ ## Wiktionary - मुक्त शब्दकोश
+ - [https://gom.m.wiktionary.org](https://gom.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:10+00:00
+
+ ## Wiktionary - मुक्त शब्दकोश
+ - [https://gom.wiktionary.org](https://gom.wiktionary.org)
+ - date_published: 2024-06-11T12:31:10+00:00
+
+ ## Wikikamus
+ - [https://gor.m.wiktionary.org](https://gor.m.wiktionary.org)
+ - date_published: 2024-09-03T14:00:09+00:00
+
+ ## Wikikamus
+ - [https://gor.wiktionary.org](https://gor.wiktionary.org)
+ - date_published: 2024-06-01T01:44:35+00:00
+
+ ## Wt/got - Wikimedia Incubator
+ - [https://got.wiktionary.org](https://got.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Ghanaian Pidgin Wiktionary - Wikimedia Incubator
+ - [https://gpe.wiktionary.org](https://gpe.wiktionary.org)
+ - date_published: 2024-07-12T03:21:04.984581+00:00
+
+ ## વિકિકોશ
+ - [https://gu.m.wiktionary.org](https://gu.m.wiktionary.org)
+ - date_published: 2024-09-12T03:05:52+00:00
+
+ ## Frafra Wiktionary - Wikimedia Incubator
+ - [https://gur.wiktionary.org](https://gur.wiktionary.org)
+ - date_published: 2024-07-12T03:03:23.273618+00:00
+
+ ## વિકિકોશ
+ - [https://gu.wiktionary.org](https://gu.wiktionary.org)
+ - date_published: 2024-06-15T06:12:30+00:00
+
+ ## Wiktionary
+ - [https://guw.m.wiktionary.org](https://guw.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:11+00:00
+
+ ## Wiktionary
+ - [https://guw.wiktionary.org](https://guw.wiktionary.org)
+ - date_published: 2024-06-11T12:31:11+00:00
+
+ ## Wiktionary
+ - [https://gv.m.wiktionary.org](https://gv.m.wiktionary.org)
+ - date_published: 2024-09-04T03:38:37+00:00
+
+ ## Wiktionary
+ - [https://gv.wiktionary.org](https://gv.wiktionary.org)
+ - date_published: 2024-06-01T04:39:24+00:00
+
+ ## Wiktionary
+ - [https://ha.m.wiktionary.org](https://ha.m.wiktionary.org)
+ - date_published: 2024-09-04T03:13:59+00:00
+
+ ## Wiktionary
+ - [https://ha.wiktionary.org](https://ha.wiktionary.org)
+ - date_published: 2024-06-01T03:14:29+00:00
+
+ ## Papa Kinohi - Wt/haw - Wikimedia Incubator
+ - [https://haw.wiktionary.org](https://haw.wiktionary.org)
+ - date_published: 2024-06-01T12:24:48+00:00
+
+ ## ויקימילון
+ - [https://he.m.wiktionary.org](https://he.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:11+00:00
+
+ ## ויקימילון
+ - [https://he.wiktionary.org](https://he.wiktionary.org)
+ - date_published: 2024-06-11T12:31:11+00:00
+
+ ## Sabdkosh
+ - [https://hif.m.wiktionary.org](https://hif.m.wiktionary.org)
+ - date_published: 2024-09-03T14:02:27+00:00
+
+ ## Sabdkosh
+ - [https://hif.wiktionary.org](https://hif.wiktionary.org)
+ - date_published: 2024-05-31T20:19:26+00:00
+
+ ## विक्षनरी
+ - [https://hi.m.wiktionary.org](https://hi.m.wiktionary.org)
+ - date_published: 2024-09-04T02:56:14+00:00
+
+ ## विक्षनरी
+ - [https://hi.wiktionary.org](https://hi.wiktionary.org)
+ - date_published: 2024-06-01T02:38:11+00:00
+
+ ## Wiktionary
+ - [https://hr.m.wiktionary.org](https://hr.m.wiktionary.org)
+ - date_published: 2024-09-03T04:15:21+00:00
+
+ ## Wiktionary
+ - [https://hr.wiktionary.org](https://hr.wiktionary.org)
+ - date_published: 2024-05-31T18:36:19+00:00
+
+ ## Wikisłownik
+ - [https://hsb.m.wiktionary.org](https://hsb.m.wiktionary.org)
+ - date_published: 2024-09-04T03:39:40+00:00
+
+ ## Wikisłownik
+ - [https://hsb.wiktionary.org](https://hsb.wiktionary.org)
+ - date_published: 2024-06-01T12:27:35+00:00
+
+ ## Wt/ht - Wikimedia Incubator
+ - [https://ht.wiktionary.org](https://ht.wiktionary.org)
+ - date_published: 2024-07-09T09:56:24+00:00
+
+ ## Wikiszótár
+ - [https://hu.m.wiktionary.org](https://hu.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:43+00:00
+
+ ## Wikiszótár
+ - [https://hu.wiktionary.org](https://hu.wiktionary.org)
+ - date_published: 2024-06-11T12:31:20+00:00
+
+ ## Վիքիբառարան
+ - [https://hy.m.wiktionary.org](https://hy.m.wiktionary.org)
+ - date_published: 2024-09-03T13:23:54+00:00
+
+ ## Վիքիբառարան
+ - [https://hy.wiktionary.org](https://hy.wiktionary.org)
+ - date_published: 2024-05-31T17:49:59+00:00
+
+ ## Western Armenian Wiktionary - Wikimedia Incubator
+ - [https://hyw.wiktionary.org](https://hyw.wiktionary.org)
+ - date_published: 2024-07-12T04:17:26.525687+00:00
+
+ ## Wiktionario
+ - [https://ia.m.wiktionary.org](https://ia.m.wiktionary.org)
+ - date_published: 2024-09-04T02:56:03+00:00
+
+ ## Wiktionario
+ - [https://ia.wiktionary.org](https://ia.wiktionary.org)
+ - date_published: 2024-05-31T14:27:29+00:00
+
+ ## Wikikamus
+ - [https://id.m.wiktionary.org](https://id.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:43+00:00
+
+ ## Wikikamus
+ - [https://id.wiktionary.org](https://id.wiktionary.org)
+ - date_published: 2024-06-11T12:31:41+00:00
+
+ ## Wiktionary
+ - [https://ie.m.wiktionary.org](https://ie.m.wiktionary.org)
+ - date_published: 2024-09-04T03:39:47+00:00
+
+ ## Wiktionary
+ - [https://ie.wiktionary.org](https://ie.wiktionary.org)
+ - date_published: 2024-06-01T07:34:15+00:00
+
+ ## Ogbá ogbolo - Wt/igl - Wikimedia Incubator
+ - [https://igl.wiktionary.org](https://igl.wiktionary.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Wiktionary
+ - [https://ig.m.wiktionary.org](https://ig.m.wiktionary.org)
+ - date_published: 2024-09-03T15:34:49+00:00
+
+ ## Wiktionary
+ - [https://ig.wiktionary.org](https://ig.wiktionary.org)
+ - date_published: 2024-05-31T20:20:21+00:00
+
+ ## Wiktionary
+ - [https://ik.m.wiktionary.org](https://ik.m.wiktionary.org)
+ - date_published: 2024-09-03T07:24:36+00:00
+
+ ## Wiktionary
+ - [https://ik.wiktionary.org](https://ik.wiktionary.org)
+ - date_published: 2024-05-31T13:33:02+00:00
+
+ ## Wikivortaro
+ - [https://io.m.wiktionary.org](https://io.m.wiktionary.org)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## Wikivortaro
+ - [https://io.wiktionary.org](https://io.wiktionary.org)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## Wikiorðabók
+ - [https://is.m.wiktionary.org](https://is.m.wiktionary.org)
+ - date_published: 2024-09-14T01:28:54+00:00
+
+ ## Wikiorðabók
+ - [https://is.wiktionary.org](https://is.wiktionary.org)
+ - date_published: 2024-06-12T10:52:31+00:00
+
+ ## Wikizionario
+ - [https://it.m.wiktionary.org](https://it.m.wiktionary.org)
+ - date_published: 2024-09-17T09:00:56+00:00
+
+ ## Wikizionario
+ - [https://it.wiktionary.org](https://it.wiktionary.org)
+ - date_published: 2024-06-14T08:48:07+00:00
+
+ ## Wiktionary
+ - [https://iu.m.wiktionary.org](https://iu.m.wiktionary.org)
+ - date_published: 2024-09-04T03:11:45+00:00
+
+ ## Wiktionary
+ - [https://iu.wiktionary.org](https://iu.wiktionary.org)
+ - date_published: 2024-06-10T13:00:05+00:00
+
+ ## Wiktionary
+ - [https://ja.m.wiktionary.org](https://ja.m.wiktionary.org)
+ - date_published: 2024-09-16T11:47:55+00:00
+
+ ## Wiktionary
+ - [https://ja.wiktionary.org](https://ja.wiktionary.org)
+ - date_published: 2024-06-15T03:19:08+00:00
+
+ ## Wiktionary
+ - [https://jbo.m.wiktionary.org](https://jbo.m.wiktionary.org)
+ - date_published: 2024-09-04T03:29:53+00:00
+
+ ## Wiktionary
+ - [https://jbo.wiktionary.org](https://jbo.wiktionary.org)
+ - date_published: 2024-06-01T05:32:21+00:00
+
+ ## Wikisastra, bausastra mardika
+ - [https://jv.m.wiktionary.org](https://jv.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:46+00:00
+
+ ## Wikisastra, bausastra mardika
+ - [https://jv.wiktionary.org](https://jv.wiktionary.org)
+ - date_published: 2024-06-15T02:37:20+00:00
+
+ ## Wiktionary
+ - [https://kaa.m.wiktionary.org](https://kaa.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:46+00:00
+
+ ## Wiktionary
+ - [https://kaa.wiktionary.org](https://kaa.wiktionary.org)
+ - date_published: 2024-06-14T10:43:20+00:00
+
+ ## Asebter agejdan - Wt/kab - Wikimedia Incubator
+ - [https://kab.wiktionary.org](https://kab.wiktionary.org)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## ვიქსიკონი
+ - [https://ka.m.wiktionary.org](https://ka.m.wiktionary.org)
+ - date_published: 2024-09-04T01:02:58+00:00
+
+ ## ვიქსიკონი
+ - [https://ka.wiktionary.org](https://ka.wiktionary.org)
+ - date_published: 2024-06-12T08:29:08+00:00
+
+ ## Википсалъалъэ
+ - [https://kbd.m.wiktionary.org](https://kbd.m.wiktionary.org)
+ - date_published: 2024-09-04T03:20:00+00:00
+
+ ## Википсалъалъэ
+ - [https://kbd.wiktionary.org](https://kbd.wiktionary.org)
+ - date_published: 2024-06-01T09:25:52+00:00
+
+ ## Swánga̱lyiatwuki
+ - [https://kcg.m.wiktionary.org](https://kcg.m.wiktionary.org)
+ - date_published: 2024-09-04T03:08:44+00:00
+
+ ## Swánga̱lyiatwuki
+ - [https://kcg.wiktionary.org](https://kcg.wiktionary.org)
+ - date_published: 2024-06-01T12:24:40+00:00
+
+ ## Kongo Wiktionary - Wikimedia Incubator
+ - [https://kg.wiktionary.org](https://kg.wiktionary.org)
+ - date_published: 2024-07-12T05:16:56.354069+00:00
+
+ ## Main Page - Wt/ki - Wikimedia Incubator
+ - [https://ki.wiktionary.org](https://ki.wiktionary.org)
+ - date_published: 2024-09-04T03:33:41+00:00
+
+ ## Уикисөздік
+ - [https://kk.m.wiktionary.org](https://kk.m.wiktionary.org)
+ - date_published: 2024-09-03T07:00:42+00:00
+
+ ## Уикисөздік
+ - [https://kk.wiktionary.org](https://kk.wiktionary.org)
+ - date_published: 2024-05-31T23:21:00+00:00
+
+ ## Wiktionary
+ - [https://kl.m.wiktionary.org](https://kl.m.wiktionary.org)
+ - date_published: 2024-09-03T10:01:03+00:00
+
+ ## Wiktionary
+ - [https://kl.wiktionary.org](https://kl.wiktionary.org)
+ - date_published: 2024-06-01T02:31:11+00:00
+
+ ## Wiktionary
+ - [https://km.m.wiktionary.org](https://km.m.wiktionary.org)
+ - date_published: 2024-09-04T02:34:38+00:00
+
+ ## Wiktionary
+ - [https://km.wiktionary.org](https://km.wiktionary.org)
+ - date_published: 2024-05-31T12:33:25+00:00
+
+ ## ವಿಕ್ಷನರಿ
+ - [https://kn.m.wiktionary.org](https://kn.m.wiktionary.org)
+ - date_published: 2024-09-04T03:30:23+00:00
+
+ ## ವಿಕ್ಷನರಿ
+ - [https://kn.wiktionary.org](https://kn.wiktionary.org)
+ - date_published: 2024-06-01T04:59:39+00:00
+
+ ## 위키낱말사전
+ - [https://ko.m.wiktionary.org](https://ko.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:47+00:00
+
+ ## 위키낱말사전
+ - [https://ko.wiktionary.org](https://ko.wiktionary.org)
+ - date_published: 2024-06-11T12:31:43+00:00
+
+ ## وِکیٖلۄغَتھ
+ - [https://ks.m.wiktionary.org](https://ks.m.wiktionary.org)
+ - date_published: 2024-09-04T03:35:05+00:00
+
+ ## وِکیٖلۄغَتھ
+ - [https://ks.wiktionary.org](https://ks.wiktionary.org)
+ - date_published: 2024-06-01T12:26:49+00:00
+
+ ## Wîkîferheng
+ - [https://ku.m.wiktionary.org](https://ku.m.wiktionary.org)
+ - date_published: 2024-09-04T03:00:24+00:00
+
+ ## Wîkîferheng
+ - [https://ku.wiktionary.org](https://ku.wiktionary.org)
+ - date_published: 2024-06-01T12:23:58+00:00
+
+ ## Komi Wiktionary - Wikimedia Incubator
+ - [https://kv.wiktionary.org](https://kv.wiktionary.org)
+ - date_published: 2024-07-12T02:19:14.687760+00:00
+
+ ## Wiktionary
+ - [https://kw.m.wiktionary.org](https://kw.m.wiktionary.org)
+ - date_published: 2024-09-04T03:31:30+00:00
+
+ ## Wiktionary
+ - [https://kw.wiktionary.org](https://kw.wiktionary.org)
+ - date_published: 2024-06-01T10:43:49+00:00
+
+ ## Wiktionary
+ - [https://ky.m.wiktionary.org](https://ky.m.wiktionary.org)
+ - date_published: 2024-09-04T03:08:25+00:00
+
+ ## Wiktionary
+ - [https://ky.wiktionary.org](https://ky.wiktionary.org)
+ - date_published: 2024-05-31T13:05:06+00:00
+
+ ## La Hoja Primera - Wt/lad - Wikimedia Incubator
+ - [https://lad.wiktionary.org](https://lad.wiktionary.org)
+ - date_published: 2024-06-28T03:48:25+00:00
+
+ ## Victionarium
+ - [https://la.m.wiktionary.org](https://la.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:48+00:00
+
+ ## Victionarium
+ - [https://la.wiktionary.org](https://la.wiktionary.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Wiktionnaire
+ - [https://lb.m.wiktionary.org](https://lb.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:48+00:00
+
+ ## Wiktionnaire
+ - [https://lb.wiktionary.org](https://lb.wiktionary.org)
+ - date_published: 2024-06-11T20:32:17+00:00
+
+ ## Olupapula Olusooka - Wt/lg - Wikimedia Incubator
+ - [https://lg.wiktionary.org](https://lg.wiktionary.org)
+ - date_published: 2024-06-28T03:03:03+00:00
+
+ ## Pàgina prinçipâ - Wt/lij - Wikimedia Incubator
+ - [https://lij.wiktionary.org](https://lij.wiktionary.org)
+ - date_published: 2024-09-07T06:41:44+00:00
+
+ ## Wiktionary
+ - [https://li.m.wiktionary.org](https://li.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:48+00:00
+
+ ## Wiktionary
+ - [https://li.wiktionary.org](https://li.wiktionary.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Wt/lld - Wikimedia Incubator
+ - [https://lld.wiktionary.org](https://lld.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wiktionary
+ - [https://lmo.m.wiktionary.org](https://lmo.m.wiktionary.org)
+ - date_published: 2024-09-04T03:47:13+00:00
+
+ ## Wiktionary
+ - [https://lmo.wiktionary.org](https://lmo.wiktionary.org)
+ - date_published: 2024-06-01T02:56:08+00:00
+
+ ## Wiktionary
+ - [https://ln.m.wiktionary.org](https://ln.m.wiktionary.org)
+ - date_published: 2024-09-04T03:20:39+00:00
+
+ ## Wiktionary
+ - [https://ln.wiktionary.org](https://ln.wiktionary.org)
+ - date_published: 2024-06-01T00:20:25+00:00
+
+ ## Wiktionary
+ - [https://lo.m.wiktionary.org](https://lo.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:48+00:00
+
+ ## Wiktionary
+ - [https://lo.wiktionary.org](https://lo.wiktionary.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Suoku puslopa - Wt/ltg - Wikimedia Incubator
+ - [https://ltg.wiktionary.org](https://ltg.wiktionary.org)
+ - date_published: 2024-09-04T03:47:10+00:00
+
+ ## Vikižodynas
+ - [https://lt.m.wiktionary.org](https://lt.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:49+00:00
+
+ ## Vikižodynas
+ - [https://lt.wiktionary.org](https://lt.wiktionary.org)
+ - date_published: 2024-06-14T03:25:42+00:00
+
+ ## Wiktionary
+ - [https://lv.m.wiktionary.org](https://lv.m.wiktionary.org)
+ - date_published: 2024-09-04T03:26:00+00:00
+
+ ## Wiktionary
+ - [https://lv.wiktionary.org](https://lv.wiktionary.org)
+ - date_published: 2024-06-01T12:26:04+00:00
+
+ ## Tanèyan - Wt/mad - Wikimedia Incubator
+ - [https://mad.wiktionary.org](https://mad.wiktionary.org)
+ - date_published: 2024-09-04T03:31:12+00:00
+
+ ## Basa Banyumasan Wiktionary - Wikimedia Incubator
+ - [https://map-bms.wiktionary.org](https://map-bms.wiktionary.org)
+ - date_published: 2024-07-12T03:30:24.596150+00:00
+
+ ## Пря лопа - Wt/mdf - Wikimedia Incubator
+ - [https://mdf.wiktionary.org](https://mdf.wiktionary.org)
+ - date_published: 2024-06-28T02:30:23+00:00
+
+ ## Wiktionary
+ - [https://mg.m.wiktionary.org](https://mg.m.wiktionary.org)
+ - date_published: 2024-09-08T09:36:27+00:00
+
+ ## Wiktionary
+ - [https://mg.wiktionary.org](https://mg.wiktionary.org)
+ - date_published: 2024-06-11T12:31:45+00:00
+
+ ## Wiktionary
+ - [https://mh.m.wiktionary.org](https://mh.m.wiktionary.org)
+ - date_published: 2024-09-04T03:46:20+00:00
+
+ ## Wiktionary
+ - [https://mh.wiktionary.org](https://mh.wiktionary.org)
+ - date_published: 2024-06-07T20:13:04+00:00
+
+ ## Wikikato
+ - [https://min.m.wiktionary.org](https://min.m.wiktionary.org)
+ - date_published: 2024-09-16T19:38:05+00:00
+
+ ## Wikikato
+ - [https://min.wiktionary.org](https://min.wiktionary.org)
+ - date_published: 2024-06-01T12:24:30+00:00
+
+ ## Wiktionary
+ - [https://mi.wiktionary.org](https://mi.wiktionary.org)
+ - date_published: 2024-06-01T07:00:18+00:00
+
+ ## Викиречник
+ - [https://mk.m.wiktionary.org](https://mk.m.wiktionary.org)
+ - date_published: 2024-09-04T03:12:12+00:00
+
+ ## Викиречник
+ - [https://mk.wiktionary.org](https://mk.wiktionary.org)
+ - date_published: 2024-06-12T23:18:03+00:00
+
+ ## വിക്കിനിഘണ്ടു
+ - [https://ml.m.wiktionary.org](https://ml.m.wiktionary.org)
+ - date_published: 2024-09-03T13:25:20+00:00
+
+ ## വിക്കിനിഘണ്ടു
+ - [https://ml.wiktionary.org](https://ml.wiktionary.org)
+ - date_published: 2024-05-31T14:54:59+00:00
+
+ ## ꯋꯤꯛꯁꯟꯅꯔꯤ
+ - [https://mni.m.wiktionary.org](https://mni.m.wiktionary.org)
+ - date_published: 2024-09-04T03:31:50+00:00
+
+ ## ꯋꯤꯛꯁꯟꯅꯔꯤ
+ - [https://mni.wiktionary.org](https://mni.wiktionary.org)
+ - date_published: 2024-06-01T02:13:40+00:00
+
+ ## Викитоль
+ - [https://mn.m.wiktionary.org](https://mn.m.wiktionary.org)
+ - date_published: 2024-09-04T02:21:03+00:00
+
+ ## Wiktionary
+ - [https://mn.wiktionary.org](https://mn.wiktionary.org)
+ - date_published: 2024-06-01T04:39:12+00:00
+
+ ## ဝိက်ရှေန်နရဳ
+ - [https://mnw.m.wiktionary.org](https://mnw.m.wiktionary.org)
+ - date_published: 2024-09-12T16:14:11+00:00
+
+ ## ဝိက်ရှေန်နရဳ
+ - [https://mnw.wiktionary.org](https://mnw.wiktionary.org)
+ - date_published: 2024-06-12T18:40:44+00:00
+
+ ## Wikționar
+ - [https://mo.wiktionary.org](https://mo.wiktionary.org)
+ - date_published: 2024-09-03T16:52:12+00:00
+
+ ## Wiktionary
+ - [https://mr.m.wiktionary.org](https://mr.m.wiktionary.org)
+ - date_published: 2024-09-14T15:35:08+00:00
+
+ ## Wiktionary
+ - [https://mr.wiktionary.org](https://mr.wiktionary.org)
+ - date_published: 2024-06-01T00:24:59+00:00
+
+ ## Wikikamus
+ - [https://ms.m.wiktionary.org](https://ms.m.wiktionary.org)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Wikikamus
+ - [https://ms.wiktionary.org](https://ms.wiktionary.org)
+ - date_published: 2024-06-12T13:47:54+00:00
+
+ ## Wikizzjunarju
+ - [https://mt.m.wiktionary.org](https://mt.m.wiktionary.org)
+ - date_published: 2024-09-03T06:49:01+00:00
+
+ ## Wikizzjunarju
+ - [https://mt.wiktionary.org](https://mt.wiktionary.org)
+ - date_published: 2024-06-01T04:47:14+00:00
+
+ ## Wt/mwl - Wikimedia Incubator
+ - [https://mwl.wiktionary.org](https://mwl.wiktionary.org)
+ - date_published: 2024-07-09T09:56:24+00:00
+
+ ## ဝစ်ရှင်နရီ
+ - [https://my.m.wiktionary.org](https://my.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:50+00:00
+
+ ## Wt/myv - Wikimedia Incubator
+ - [https://myv.wiktionary.org](https://myv.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## ဝစ်ရှင်နရီ
+ - [https://my.wiktionary.org](https://my.wiktionary.org)
+ - date_published: 2024-06-11T12:31:45+00:00
+
+ ## Wiktionary
+ - [https://nah.m.wiktionary.org](https://nah.m.wiktionary.org)
+ - date_published: 2024-09-04T03:11:26+00:00
+
+ ## Wiktionary
+ - [https://nah.wiktionary.org](https://nah.wiktionary.org)
+ - date_published: 2024-06-01T07:57:17+00:00
+
+ ## Wiktionary
+ - [https://na.m.wiktionary.org](https://na.m.wiktionary.org)
+ - date_published: 2024-09-04T03:24:25+00:00
+
+ ## Paggena prencepale - Wt/nap - Wikimedia Incubator
+ - [https://nap.wiktionary.org](https://nap.wiktionary.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wiktionary
+ - [https://na.wiktionary.org](https://na.wiktionary.org)
+ - date_published: 2024-06-01T11:15:50+00:00
+
+ ## Wiktionary
+ - [https://nds.m.wiktionary.org](https://nds.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:51+00:00
+
+ ## Wt/nds-nl - Wikimedia Incubator
+ - [https://nds-nl.wiktionary.org](https://nds-nl.wiktionary.org)
+ - date_published: 2024-09-04T03:41:53+00:00
+
+ ## Wiktionary
+ - [https://nds.wiktionary.org](https://nds.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## Wiktionary
+ - [https://ne.m.wiktionary.org](https://ne.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:51+00:00
+
+ ## Wiktionary
+ - [https://ne.wiktionary.org](https://ne.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## मू पौ - Wt/new - Wikimedia Incubator
+ - [https://new.wiktionary.org](https://new.wiktionary.org)
+ - date_published: 2024-09-04T02:48:12+00:00
+
+ ## Wiktionary
+ - [https://nia.m.wiktionary.org](https://nia.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:51+00:00
+
+ ## Wiktionary
+ - [https://nia.wiktionary.org](https://nia.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## WikiWoordenboek
+ - [https://nl.m.wiktionary.org](https://nl.m.wiktionary.org)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## WikiWoordenboek
+ - [https://nl.wiktionary.org](https://nl.wiktionary.org)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Wiktionary, den frie ordboka
+ - [https://nn.m.wiktionary.org](https://nn.m.wiktionary.org)
+ - date_published: 2024-09-04T02:57:35+00:00
+
+ ## Wiktionary, den frie ordboka
+ - [https://nn.wiktionary.org](https://nn.wiktionary.org)
+ - date_published: 2024-06-01T12:23:45+00:00
+
+ ## Wiktionary
+ - [https://no.m.wiktionary.org](https://no.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:52+00:00
+
+ ## Chefi pagine - Wt/nov - Wikimedia Incubator
+ - [https://nov.wiktionary.org](https://nov.wiktionary.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wiktionary
+ - [https://no.wiktionary.org](https://no.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## Wt/nrm - Wikimedia Incubator
+ - [https://nrm.wiktionary.org](https://nrm.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Letlakala la pele - Wt/nso - Wikimedia Incubator
+ - [https://nso.wiktionary.org](https://nso.wiktionary.org)
+ - date_published: 2024-09-04T03:12:49+00:00
+
+ ## Wt/ny - Wikimedia Incubator
+ - [https://ny.wiktionary.org](https://ny.wiktionary.org)
+ - date_published: 2024-09-08T10:27:21+00:00
+
+ ## Wikiccionari
+ - [https://oc.m.wiktionary.org](https://oc.m.wiktionary.org)
+ - date_published: 2024-09-14T01:22:47+00:00
+
+ ## Wikiccionari
+ - [https://oc.wiktionary.org](https://oc.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## Wiktionary
+ - [https://om.m.wiktionary.org](https://om.m.wiktionary.org)
+ - date_published: 2024-09-04T03:18:55+00:00
+
+ ## Wiktionary
+ - [https://om.wiktionary.org](https://om.wiktionary.org)
+ - date_published: 2024-06-01T07:09:59+00:00
+
+ ## ଉଇକିଅଭିଧାନ
+ - [https://or.m.wiktionary.org](https://or.m.wiktionary.org)
+ - date_published: 2024-09-03T13:25:54+00:00
+
+ ## ଉଇକିଅଭିଧାନ
+ - [https://or.wiktionary.org](https://or.wiktionary.org)
+ - date_published: 2024-05-31T09:39:06+00:00
+
+ ## Сæйраг фарс - Wt/os - Wikimedia Incubator
+ - [https://os.wiktionary.org](https://os.wiktionary.org)
+ - date_published: 2024-09-04T03:33:53+00:00
+
+ ## Arapan ya Bolong - Wt/pag - Wikimedia Incubator
+ - [https://pag.wiktionary.org](https://pag.wiktionary.org)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## ਵਿਕਸ਼ਨਰੀ, ਇਕ ਅਜ਼ਾਦ ਸ਼ਬਦਕੋਸ਼
+ - [https://pa.m.wiktionary.org](https://pa.m.wiktionary.org)
+ - date_published: 2024-09-03T09:07:40+00:00
+
+ ## Pun Bulung - Wt/pam - Wikimedia Incubator
+ - [https://pam.wiktionary.org](https://pam.wiktionary.org)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Página Prinsipal - Wt/pap - Wikimedia Incubator
+ - [https://pap.wiktionary.org](https://pap.wiktionary.org)
+ - date_published: 2024-06-28T05:02:18+00:00
+ - date_dead_since: 2025-01-30T08:04:21.772130+00:00
+
+ ## ਵਿਕਸ਼ਨਰੀ, ਇਕ ਅਜ਼ਾਦ ਸ਼ਬਦਕੋਸ਼
+ - [https://pa.wiktionary.org](https://pa.wiktionary.org)
+ - date_published: 2024-05-31T14:09:27+00:00
+
+ ## Haaptblatt - Wt/pdc - Wikimedia Incubator
+ - [http://pdc.wiktionary.org](http://pdc.wiktionary.org)
+ - date_published: 2024-09-04T03:47:12+00:00
+ - date_dead_since: 2025-01-30T08:04:24.537035+00:00
+
+ ## Main Page - Wiktionary
+ - [https://pi.wiktionary.org](https://pi.wiktionary.org)
+ - date_published: 2024-09-03T06:47:50+00:00
+
+ ## Wikisłownik, wolny słownik wielojęzyczny
+ - [https://pl.m.wiktionary.org](https://pl.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:54+00:00
+
+ ## Wikisłownik, wolny słownik wielojęzyczny
+ - [https://pl.wiktionary.org](https://pl.wiktionary.org)
+ - date_published: 2024-06-11T12:31:47+00:00
+
+ ## Pàgina prinsipal - Wt/pms - Wikimedia Incubator
+ - [http://pms.wiktionary.org](http://pms.wiktionary.org)
+ - date_published: 2024-06-28T02:20:22+00:00
+ - date_dead_since: 2025-01-30T08:04:29.370457+00:00
+
+ ## وکشنری
+ - [https://pnb.m.wiktionary.org](https://pnb.m.wiktionary.org)
+ - date_published: 2024-09-13T19:52:55+00:00
+
+ ## وکشنری
+ - [https://pnb.wiktionary.org](https://pnb.wiktionary.org)
+ - date_published: 2024-05-31T13:29:01+00:00
+
+ ## Αρχικόν σελίδα - Wt/pnt - Wikimedia Incubator
+ - [http://pnt.wiktionary.org](http://pnt.wiktionary.org)
+ - date_published: 2024-06-28T02:35:20+00:00
+ - date_dead_since: 2025-01-30T08:04:32.795553+00:00
+
+ ## ويکيسيند
+ - [https://ps.m.wiktionary.org](https://ps.m.wiktionary.org)
+ - date_published: 2024-09-04T03:08:52+00:00
+
+ ## ويکيسيند
+ - [https://ps.wiktionary.org](https://ps.wiktionary.org)
+ - date_published: 2024-06-11T12:31:54+00:00
+
+ ## Wikcionário
+ - [https://pt.m.wiktionary.org](https://pt.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:55+00:00
+
+ ## Wikcionário
+ - [https://pt.wiktionary.org](https://pt.wiktionary.org)
+ - date_published: 2024-06-11T12:31:48+00:00
+
+ ## Wiktionary
+ - [https://qu.m.wiktionary.org](https://qu.m.wiktionary.org)
+ - date_published: 2024-09-04T03:06:21+00:00
+
+ ## Wiktionary
+ - [https://qu.wiktionary.org](https://qu.wiktionary.org)
+ - date_published: 2024-06-01T06:21:53+00:00
+
+ ## Wiktionary
+ - [https://rm.wiktionary.org](https://rm.wiktionary.org)
+ - date_published: 2024-09-04T03:00:04+00:00
+
+ ## Wiktionary
+ - [https://roa-rup.m.wiktionary.org](https://roa-rup.m.wiktionary.org)
+ - date_published: 2024-09-12T00:00:46+00:00
+
+ ## Wiktionary
+ - [https://roa-rup.wiktionary.org](https://roa-rup.wiktionary.org)
+ - date_published: 2024-05-31T14:54:02+00:00
+
+ ## Wikționar
+ - [https://ro.m.wiktionary.org](https://ro.m.wiktionary.org)
+ - date_published: 2024-09-03T16:52:12+00:00
+
+ ## Wikționar
+ - [https://ro.wiktionary.org](https://ro.wiktionary.org)
+ - date_published: 2024-06-02T07:24:22+00:00
+
+ ## Головна сторінка - Wt/rue - Wikimedia Incubator
+ - [https://rue.wiktionary.org](https://rue.wiktionary.org)
+ - date_published: 2024-09-04T03:36:01+00:00
+
+ ## Викисловарь
+ - [https://ru.m.wiktionary.org](https://ru.m.wiktionary.org)
+ - date_published: 2024-07-11T11:19:19+00:00
+
+ ## Викисловарь
+ - [https://ru.wiktionary.org](https://ru.wiktionary.org)
+ - date_published: 2024-05-10T03:55:37.295961+00:00
+
+ ## Wiktionary
+ - [https://rw.m.wiktionary.org](https://rw.m.wiktionary.org)
+ - date_published: 2024-09-04T03:21:39+00:00
+
+ ## Wiktionary
+ - [https://rw.wiktionary.org](https://rw.wiktionary.org)
+ - date_published: 2024-06-07T20:13:04+00:00
+
+ ## Сүрүн сирэй - Wt/sah - Wikimedia Incubator
+ - [https://sah.wiktionary.org](https://sah.wiktionary.org)
+ - date_published: 2024-06-27T21:24:05+00:00
+
+ ## विकिशब्दकोशः
+ - [https://sa.m.wiktionary.org](https://sa.m.wiktionary.org)
+ - date_published: 2024-09-04T03:19:25+00:00
+
+ ## Main Page - Wt/sat - Wikimedia Incubator
+ - [https://sat.wiktionary.org](https://sat.wiktionary.org)
+ - date_published: 2024-06-28T02:42:05+00:00
+
+ ## विकिशब्दकोशः
+ - [https://sa.wiktionary.org](https://sa.wiktionary.org)
+ - date_published: 2024-05-31T14:44:52+00:00
+
+ ## Wikizziunariu
+ - [https://scn.m.wiktionary.org](https://scn.m.wiktionary.org)
+ - date_published: 2024-09-04T03:02:06+00:00
+
+ ## Wikizziunariu
+ - [https://scn.wiktionary.org](https://scn.wiktionary.org)
+ - date_published: 2024-06-01T05:09:44+00:00
+
+ ## Main Page - Wt/sco - Wikimedia Incubator
+ - [https://sco.wiktionary.org](https://sco.wiktionary.org)
+ - date_published: 2024-06-28T05:27:18+00:00
+
+ ## Pàgina printzipale - Wiktionary
+ - [https://sc.wiktionary.org](https://sc.wiktionary.org)
+ - date_published: 2024-06-27T15:27:23+00:00
+
+ ## Wiktionary
+ - [https://sd.m.wiktionary.org](https://sd.m.wiktionary.org)
+ - date_published: 2024-09-04T02:57:11+00:00
+
+ ## Wiktionary
+ - [https://sd.wiktionary.org](https://sd.wiktionary.org)
+ - date_published: 2024-06-01T12:23:41+00:00
+
+ ## Váldosiidu - Wt/se - Wikimedia Incubator
+ - [https://se.wiktionary.org](https://se.wiktionary.org)
+ - date_published: 2024-09-04T03:29:10+00:00
+
+ ## Wiktionary
+ - [https://sg.m.wiktionary.org](https://sg.m.wiktionary.org)
+ - date_published: 2024-09-03T14:11:12+00:00
+
+ ## Wiktionary
+ - [https://sg.wiktionary.org](https://sg.wiktionary.org)
+ - date_published: 2024-06-01T09:20:04+00:00
+
+ ## Wt/shi - Wikimedia Incubator
+ - [https://shi.wiktionary.org](https://shi.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wiktionary
+ - [https://sh.m.wiktionary.org](https://sh.m.wiktionary.org)
+ - date_published: 2024-09-04T02:58:49+00:00
+
+ ## ဝိၵ်ႇသျိၼ်ႇၼရီႇ
+ - [https://shn.m.wiktionary.org](https://shn.m.wiktionary.org)
+ - date_published: 2024-09-10T13:43:16+00:00
+
+ ## ဝိၵ်ႇသျိၼ်ႇၼရီႇ
+ - [https://shn.wiktionary.org](https://shn.wiktionary.org)
+ - date_published: 2024-06-11T12:31:49+00:00
+
+ ## Wiktionary
+ - [https://sh.wiktionary.org](https://sh.wiktionary.org)
+ - date_published: 2024-06-01T12:23:52+00:00
+
+ ## Wikasegzawal
+ - [https://shy.m.wiktionary.org](https://shy.m.wiktionary.org)
+ - date_published: 2024-09-04T03:14:18+00:00
+
+ ## Wikasegzawal
+ - [https://shy.wiktionary.org](https://shy.wiktionary.org)
+ - date_published: 2024-05-31T21:43:07+00:00
+
+ ## Simple English Wiktionary
+ - [https://simple.m.wiktionary.org](https://simple.m.wiktionary.org)
+ - date_published: 2024-09-03T04:52:29+00:00
+
+ ## Simple English Wiktionary
+ - [https://simple.wiktionary.org](https://simple.wiktionary.org)
+ - date_published: 2024-06-07T20:13:04+00:00
+
+ ## Wiktionary
+ - [https://si.m.wiktionary.org](https://si.m.wiktionary.org)
+ - date_published: 2024-09-17T14:39:51+00:00
+
+ ## Wiktionary
+ - [https://si.wiktionary.org](https://si.wiktionary.org)
+ - date_published: 2024-06-11T15:08:37+00:00
+
+ ## Wikislovník
+ - [https://sk.m.wiktionary.org](https://sk.m.wiktionary.org)
+ - date_published: 2024-09-17T11:25:48+00:00
+
+ ## وکشنری
+ - [https://skr.m.wiktionary.org](https://skr.m.wiktionary.org)
+ - date_published: 2024-09-17T07:38:20+00:00
+
+ ## وکشنری
+ - [https://skr.wiktionary.org](https://skr.wiktionary.org)
+ - date_published: 2024-06-01T02:57:20+00:00
+
+ ## Wikislovník
+ - [https://sk.wiktionary.org](https://sk.wiktionary.org)
+ - date_published: 2024-06-11T12:31:49+00:00
+
+ ## Wikislovar
+ - [https://sl.m.wiktionary.org](https://sl.m.wiktionary.org)
+ - date_published: 2024-09-04T03:36:20+00:00
+
+ ## Wikislovar
+ - [https://sl.wiktionary.org](https://sl.wiktionary.org)
+ - date_published: 2024-06-01T10:11:38+00:00
+
+ ## Wiktionary
+ - [https://sm.m.wiktionary.org](https://sm.m.wiktionary.org)
+ - date_published: 2024-09-04T03:30:04+00:00
+
+ ## Wiktionary
+ - [https://sm.wiktionary.org](https://sm.wiktionary.org)
+ - date_published: 2024-05-31T13:23:35+00:00
+
+ ## Wiktionary
+ - [https://sn.m.wiktionary.org](https://sn.m.wiktionary.org)
+ - date_published: 2024-09-03T14:01:01+00:00
+
+ ## Wiktionary
+ - [https://sn.wiktionary.org](https://sn.wiktionary.org)
+ - date_published: 2024-05-31T14:13:31+00:00
+
+ ## Wiktionary
+ - [https://so.m.wiktionary.org](https://so.m.wiktionary.org)
+ - date_published: 2024-09-04T03:11:42+00:00
+
+ ## Wiktionary
+ - [https://so.wiktionary.org](https://so.wiktionary.org)
+ - date_published: 2024-06-01T11:26:18+00:00
+
+ ## Wiktionary
+ - [https://sq.m.wiktionary.org](https://sq.m.wiktionary.org)
+ - date_published: 2024-09-04T03:16:17+00:00
+
+ ## Wiktionary
+ - [https://sq.wiktionary.org](https://sq.wiktionary.org)
+ - date_published: 2024-06-01T11:46:24+00:00
+
+ ## Викиречник
+ - [https://sr.m.wiktionary.org](https://sr.m.wiktionary.org)
+ - date_published: 2024-09-04T03:35:54+00:00
+
+ ## Викиречник
+ - [https://sr.wiktionary.org](https://sr.wiktionary.org)
+ - date_published: 2024-06-01T12:26:56+00:00
+
+ ## Wiktionary
+ - [https://ss.m.wiktionary.org](https://ss.m.wiktionary.org)
+ - date_published: 2024-09-04T03:36:54+00:00
+
+ ## Wiktionary
+ - [https://ss.wiktionary.org](https://ss.wiktionary.org)
+ - date_published: 2024-06-01T12:27:01+00:00
+
+ ## Wiktionary
+ - [https://st.m.wiktionary.org](https://st.m.wiktionary.org)
+ - date_published: 2024-09-03T13:23:17+00:00
+
+ ## Wiktionary
+ - [https://st.wiktionary.org](https://st.wiktionary.org)
+ - date_published: 2024-06-07T20:13:04+00:00
+
+ ## Wikikamus basa Sunda, kamus bébas
+ - [https://su.m.wiktionary.org](https://su.m.wiktionary.org)
+ - date_published: 2024-09-08T08:27:52+00:00
+
+ ## Wikikamus basa Sunda, kamus bébas
+ - [https://su.wiktionary.org](https://su.wiktionary.org)
+ - date_published: 2024-05-31T22:30:37+00:00
+
+ ## Wiktionary, den fria ordboken
+ - [https://sv.m.wiktionary.org](https://sv.m.wiktionary.org)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Wiktionary, den fria ordboken
+ - [https://sv.wiktionary.org](https://sv.wiktionary.org)
+ - date_published: 2024-06-11T12:31:50+00:00
+
+ ## Wiktionary
+ - [https://sw.m.wiktionary.org](https://sw.m.wiktionary.org)
+ - date_published: 2024-09-04T03:16:27+00:00
+
+ ## Wiktionary
+ - [https://sw.wiktionary.org](https://sw.wiktionary.org)
+ - date_published: 2024-06-02T08:04:13+00:00
+
+ ## Przodniŏ zajta - Wt/szl - Wikimedia Incubator
+ - [https://szl.wiktionary.org](https://szl.wiktionary.org)
+ - date_published: 2024-09-04T03:35:57+00:00
+
+ ## விக்சனரி
+ - [https://ta.m.wiktionary.org](https://ta.m.wiktionary.org)
+ - date_published: 2024-09-10T02:41:12+00:00
+
+ ## விக்சனரி
+ - [https://ta.wiktionary.org](https://ta.wiktionary.org)
+ - date_published: 2024-06-01T10:59:28+00:00
+
+ ## ಮುಖ್ಯ ಪುಟ - Wt/tcy - Wikimedia Incubator
+ - [https://tcy.wiktionary.org](https://tcy.wiktionary.org)
+ - date_published: 2024-06-28T02:50:12+00:00
+
+ ## విక్షనరీ
+ - [https://te.m.wiktionary.org](https://te.m.wiktionary.org)
+ - date_published: 2024-09-04T03:47:29+00:00
+
+ ## Tetum Wiktionary - Wikimedia Incubator
+ - [https://tet.wiktionary.org](https://tet.wiktionary.org)
+ - date_published: 2024-09-18T03:31:06.228778+00:00
+
+ ## విక్షనరీ
+ - [https://te.wiktionary.org](https://te.wiktionary.org)
+ - date_published: 2024-06-12T18:06:46+00:00
+
+ ## Wiktionary
+ - [https://tg.m.wiktionary.org](https://tg.m.wiktionary.org)
+ - date_published: 2024-09-04T03:41:58+00:00
+
+ ## Wiktionary
+ - [https://tg.wiktionary.org](https://tg.wiktionary.org)
+ - date_published: 2024-06-01T12:27:45+00:00
+
+ ## Wiktionary
+ - [https://th.m.wiktionary.org](https://th.m.wiktionary.org)
+ - date_published: 2024-09-18T03:46:41+00:00
+
+ ## Wiktionary
+ - [https://th.wiktionary.org](https://th.wiktionary.org)
+ - date_published: 2024-06-13T07:25:56+00:00
+
+ ## ዊኪ-መዝገበ-ቃላት
+ - [https://ti.m.wiktionary.org](https://ti.m.wiktionary.org)
+ - date_published: 2024-09-04T03:20:26+00:00
+
+ ## ዊኪ-መዝገበ-ቃላት
+ - [https://ti.wiktionary.org](https://ti.wiktionary.org)
+ - date_published: 2024-05-31T14:05:28+00:00
+
+ ## Wikisözlük
+ - [https://tk.m.wiktionary.org](https://tk.m.wiktionary.org)
+ - date_published: 2024-09-04T03:24:20+00:00
+
+ ## Wikisözlük
+ - [https://tk.wiktionary.org](https://tk.wiktionary.org)
+ - date_published: 2024-06-01T12:25:55+00:00
+
+ ## Wiktionary
+ - [https://tl.m.wiktionary.org](https://tl.m.wiktionary.org)
+ - date_published: 2024-09-04T03:03:54+00:00
+
+ ## Wiktionary
+ - [https://tl.wiktionary.org](https://tl.wiktionary.org)
+ - date_published: 2024-05-31T23:01:02+00:00
+
+ ## Wt/tly - Wikimedia Incubator
+ - [https://tly.wiktionary.org](https://tly.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wiktionary
+ - [https://tn.m.wiktionary.org](https://tn.m.wiktionary.org)
+ - date_published: 2024-09-04T03:37:16+00:00
+
+ ## Wiktionary
+ - [https://tn.wiktionary.org](https://tn.wiktionary.org)
+ - date_published: 2024-06-01T04:40:53+00:00
+
+ ## Wiktionary
+ - [https://to.wiktionary.org](https://to.wiktionary.org)
+ - date_published: 2024-09-03T06:46:17+00:00
+
+ ## Wiktionary
+ - [https://tpi.m.wiktionary.org](https://tpi.m.wiktionary.org)
+ - date_published: 2024-09-04T03:31:25+00:00
+
+ ## Wiktionary
+ - [https://tpi.wiktionary.org](https://tpi.wiktionary.org)
+ - date_published: 2024-05-31T00:52:08+00:00
+
+ ## Vikisözlük: Özgür Sözlük
+ - [https://tr.m.wiktionary.org](https://tr.m.wiktionary.org)
+ - date_published: 2024-09-14T19:00:27+00:00
+
+ ## Vikisözlük: Özgür Sözlük
+ - [https://tr.wiktionary.org](https://tr.wiktionary.org)
+ - date_published: 2024-06-14T16:39:51+00:00
+
+ ## Wiktionary
+ - [https://ts.m.wiktionary.org](https://ts.m.wiktionary.org)
+ - date_published: 2024-09-04T03:34:13+00:00
+
+ ## Wiktionary
+ - [https://ts.wiktionary.org](https://ts.wiktionary.org)
+ - date_published: 2024-06-01T10:27:02+00:00
+
+ ## Wiktionary
+ - [https://tt.m.wiktionary.org](https://tt.m.wiktionary.org)
+ - date_published: 2024-09-04T03:19:30+00:00
+
+ ## Wiktionary
+ - [https://tt.wiktionary.org](https://tt.wiktionary.org)
+ - date_published: 2024-05-31T18:18:34+00:00
+
+ ## Jani likulu - Wt/tum - Wikimedia Incubator
+ - [https://tum.wiktionary.org](https://tum.wiktionary.org)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Кол арын - Wt/tyv - Wikimedia Incubator
+ - [https://tyv.wiktionary.org](https://tyv.wiktionary.org)
+ - date_published: 2024-06-28T02:49:50+00:00
+
+ ## Кутскон бам - Wt/udm - Wikimedia Incubator
+ - [https://udm.wiktionary.org](https://udm.wiktionary.org)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## Wiktionary
+ - [https://ug.m.wiktionary.org](https://ug.m.wiktionary.org)
+ - date_published: 2024-09-04T03:18:24+00:00
+
+ ## Wiktionary
+ - [https://ug.wiktionary.org](https://ug.wiktionary.org)
+ - date_published: 2024-06-01T02:32:14+00:00
+
+ ## Вікісловник
+ - [https://uk.m.wiktionary.org](https://uk.m.wiktionary.org)
+ - date_published: 2024-09-03T17:50:02+00:00
+
+ ## Вікісловник
+ - [https://uk.wiktionary.org](https://uk.wiktionary.org)
+ - date_published: 2024-06-01T08:36:45+00:00
+
+ ## ویکی لغت
+ - [https://ur.m.wiktionary.org](https://ur.m.wiktionary.org)
+ - date_published: 2024-09-04T03:44:49+00:00
+
+ ## ویکی لغت
+ - [https://ur.wiktionary.org](https://ur.wiktionary.org)
+ - date_published: 2024-06-03T00:25:20+00:00
+
+ ## Vikilug‘at
+ - [https://uz.m.wiktionary.org](https://uz.m.wiktionary.org)
+ - date_published: 2024-09-04T03:35:16+00:00
+
+ ## Vikilug‘at
+ - [https://uz.wiktionary.org](https://uz.wiktionary.org)
+ - date_published: 2024-06-04T09:00:21+00:00
+
+ ## Wikisionario
+ - [https://vec.m.wiktionary.org](https://vec.m.wiktionary.org)
+ - date_published: 2024-09-07T06:42:00+00:00
+
+ ## Wikisionario
+ - [https://vec.wiktionary.org](https://vec.wiktionary.org)
+ - date_published: 2024-06-11T12:31:52+00:00
+
+ ## Wt/vep - Wikimedia Incubator
+ - [https://vep.wiktionary.org](https://vep.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Hayani - Wt/ve - Wikimedia Incubator
+ - [https://ve.wiktionary.org](https://ve.wiktionary.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Wiktionary – từ điển mở – từ điển đa ngôn ngữ
+ - [https://vi.m.wiktionary.org](https://vi.m.wiktionary.org)
+ - date_published: 2024-09-17T16:44:41+00:00
+
+ ## Wiktionary – từ điển mở – từ điển đa ngôn ngữ
+ - [https://vi.wiktionary.org](https://vi.wiktionary.org)
+ - date_published: 2024-06-12T18:26:55+00:00
+
+ ## Vükivödabuk
+ - [https://vo.m.wiktionary.org](https://vo.m.wiktionary.org)
+ - date_published: 2024-09-07T06:42:02+00:00
+
+ ## Vükivödabuk
+ - [https://vo.wiktionary.org](https://vo.wiktionary.org)
+ - date_published: 2024-06-11T12:31:53+00:00
+
+ ## Wiccionaire
+ - [https://wa.m.wiktionary.org](https://wa.m.wiktionary.org)
+ - date_published: 2024-09-07T06:42:02+00:00
+
+ ## Syahan nga Pakli - Wt/war - Wikimedia Incubator
+ - [https://war.wiktionary.org](https://war.wiktionary.org)
+ - date_published: 2024-09-04T03:08:33+00:00
+
+ ## Wiccionaire
+ - [https://wa.wiktionary.org](https://wa.wiktionary.org)
+ - date_published: 2024-06-11T12:31:54+00:00
+
+ ## Wiktionary
+ - [https://wiktionary.org](https://wiktionary.org)
+ - date_published: 2024-07-08T15:36:04+00:00
+
+ ## Wiktionary
+ - [https://wo.m.wiktionary.org](https://wo.m.wiktionary.org)
+ - date_published: 2024-09-04T03:21:16+00:00
+
+ ## Wiktionary
+ - [https://wo.wiktionary.org](https://wo.wiktionary.org)
+ - date_published: 2024-06-01T06:46:50+00:00
+
+ ## Kalmyk Wiktionary - Wikimedia Incubator
+ - [https://xal.wiktionary.org](https://xal.wiktionary.org)
+ - date_published: 2024-09-18T03:47:22.099638+00:00
+
+ ## Main Page - Wiktionary
+ - [https://xh.wiktionary.org](https://xh.wiktionary.org)
+ - date_published: 2024-07-10T17:02:50+00:00
+
+ ## დუდხასჷლა - Wt/xmf - Wikimedia Incubator
+ - [https://xmf.wiktionary.org](https://xmf.wiktionary.org)
+ - date_published: 2024-06-28T04:15:31+00:00
+
+ ## װיקיװערטערבוך
+ - [https://yi.m.wiktionary.org](https://yi.m.wiktionary.org)
+ - date_published: 2024-09-04T02:58:32+00:00
+
+ ## װיקיװערטערבוך
+ - [https://yi.wiktionary.org](https://yi.wiktionary.org)
+ - date_published: 2024-05-31T04:52:44+00:00
+
+ ## 維基辭典
+ - [https://yue.m.wiktionary.org](https://yue.m.wiktionary.org)
+ - date_published: 2024-09-07T06:42:03+00:00
+
+ ## 維基辭典
+ - [https://yue.wiktionary.org](https://yue.wiktionary.org)
+ - date_published: 2024-06-11T12:31:54+00:00
+
+ ## Wiktionary
+ - [https://za.m.wiktionary.org](https://za.m.wiktionary.org)
+ - date_published: 2024-09-04T03:42:34+00:00
+
+ ## Wiktionary
+ - [https://za.wiktionary.org](https://za.wiktionary.org)
+ - date_published: 2024-06-01T00:18:25+00:00
+
+ ## Wiktionary
+ - [https://zh-min-nan.m.wiktionary.org](https://zh-min-nan.m.wiktionary.org)
+ - date_published: 2024-09-04T03:24:08+00:00
+
+ ## Wiktionary
+ - [https://zh-min-nan.wiktionary.org](https://zh-min-nan.wiktionary.org)
+ - date_published: 2024-05-31T14:33:32+00:00
+
+ ## 維基詞典，自由的多語言詞典
+ - [https://zh.m.wiktionary.org](https://zh.m.wiktionary.org)
+ - date_published: 2024-09-17T23:25:45+00:00
+
+ ## 維基詞典，自由的多語言詞典
+ - [https://zh.wiktionary.org](https://zh.wiktionary.org)
+ - date_published: 2024-06-14T10:55:56+00:00
+
+ ## 維基辭典
+ - [https://zh-yue.wiktionary.org](https://zh-yue.wiktionary.org)
+ - date_published: 2024-07-09T12:22:28+00:00
+
+ ## Wiktionary
+ - [https://zu.m.wiktionary.org](https://zu.m.wiktionary.org)
+ - date_published: 2024-09-04T03:27:55+00:00
+
+ ## Wiktionary
+ - [https://zu.wiktionary.org](https://zu.wiktionary.org)
+ - date_published: 2024-06-01T00:20:45+00:00
+
+ ## Wild Animal Initiative
+ - [https://wildanimalinitiative.org](https://wildanimalinitiative.org)
+ - date_published: 2024-06-21T11:37:50.087453+00:00
+
+ ## Astronomical Society of Australia - Membership
+ - [https://asa.wildapricot.org](https://asa.wildapricot.org)
+ - date_published: 2024-07-14T15:02:28.875964+00:00
+
+ ## Canadian Institute of Food Science and Technology - Home
+ - [https://cifst.wildapricot.org](https://cifst.wildapricot.org)
+ - date_published: 2024-06-16T21:25:24.771696+00:00
+
+ ## Join Us - Erlang Ecosystem Foundation
+ - [https://erlangecosystemfoundation.wildapricot.org](https://erlangecosystemfoundation.wildapricot.org)
+ - date_published: 2024-07-14T13:26:23.575320+00:00
+
+ ## Florida Environmental Health Association - Home
+ - [https://feha.wildapricot.org](https://feha.wildapricot.org)
+ - date_published: 2024-07-03T14:54:40.562311+00:00
+
+ ## Horror Writers Association - Home
+ - [https://hwa46.wildapricot.org](https://hwa46.wildapricot.org)
+ - date_published: 2025-02-11T17:52:12.402742+00:00
+
+ ## International Association of Gaming Regulators - Home
+ - [https://iaogr.wildapricot.org](https://iaogr.wildapricot.org)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## International Society of Information Fusion - Home
+ - [https://isoif.wildapricot.org](https://isoif.wildapricot.org)
+ - date_published: 2024-07-02T01:25:11.923980+00:00
+
+ ## Masonic UN - Masonic UN
+ - [http://masonicun.wildapricot.org](http://masonicun.wildapricot.org)
+ - date_published: 2024-06-17T14:12:38.863005+00:00
+ - date_dead_since: 2025-01-30T08:24:15.122833+00:00
+
+ ## National Institute on Retirement Security - Home
+ - [https://nirs.wildapricot.org](https://nirs.wildapricot.org)
+ - date_published: 2024-05-08T10:50:21.895131+00:00
+
+ ## Physics Instructional Resource Association - Home
+ - [https://pira.wildapricot.org](https://pira.wildapricot.org)
+ - date_published: 2024-06-30T04:18:41.027536+00:00
+
+ ## PLAIN - Authorization required
+ - [https://plain.wildapricot.org](https://plain.wildapricot.org)
+ - date_published: 2024-07-02T09:48:54.171518+00:00
+
+ ## The Reacting Consortium - Home
+ - [https://reactingconsortium.wildapricot.org](https://reactingconsortium.wildapricot.org)
+ - date_published: 2024-07-09T14:35:01.077227+00:00
+
+ ## Reserved domain names - Home
+ - [https://wildapricot.org](https://wildapricot.org)
+ - date_published: 2024-06-18T09:33:09.223584+00:00
+
+ ## Home - Donate | WildArk
+ - [https://donate.wildark.org](https://donate.wildark.org)
+ - date_published: 2021-06-30T00:00:00+00:00
+
+ ## WildArk | A Movement for the Wild
+ - [https://wildark.org](https://wildark.org)
+ - date_published: 2024-05-08T06:03:21.801263+00:00
+
+ ## Home | Wildcard Giving
+ - [https://wildcardgiving.org](https://wildcardgiving.org)
+ - date_published: 2024-09-01T18:31:53+00:00
+
+ ## Wildcat Foundation | Mechanicsburg, PA
+ - [http://wildcatfoundation.org](http://wildcatfoundation.org)
+ - date_published: 2025-02-11T11:34:20.218319+00:00
+
+ ## WCF | Home
+ - [http://www.wildchimps.org](http://www.wildchimps.org)
+ - date_published: 2025-02-03T19:51:56.082094+00:00
+
+ ## Home
+ - [https://wildearthguardians.org](https://wildearthguardians.org)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## A Gnu in the Savannah
+ - [https://gnu.wildebeest.org](https://gnu.wildebeest.org)
+ - date_published: 2018-02-21T11:14:52+00:00
+
+ ## Wild Equity Institute
+ - [https://wildequity.org](https://wildequity.org)
+ - date_published: 2020-08-19T00:00:00+00:00
+
+ ## Wild Europe
+ - [https://wildeurope.org](https://wildeurope.org)
+ - date_published: 2025-02-03T19:34:18.197548+00:00
+
+ ## California Statewide Wildfire Recovery Resources |
+ - [https://wildfirerecovery.org](https://wildfirerecovery.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+ - date_dead_since: 2025-01-30T08:24:41.787837+00:00
+
+ ## WildFly
+ - [https://wildfly.org](https://wildfly.org)
+ - date_published: 2024-06-14T21:40:24+00:00
+
+ ## The Wild Goose Festival
+ - [https://wildgoosefestival.org](https://wildgoosefestival.org)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## The Wild Hunt
+ - [https://wildhunt.org](https://wildhunt.org)
+ - date_published: 2024-07-02T06:11:16.686625+00:00
+
+ ## Wild Joker Casino Online – Games, Bonuses, Mobile App, and Login Ways
+ - [https://wildjokercasino.org](https://wildjokercasino.org)
+ - date_published: 2025-01-09T19:03:47.559259+00:00
+
+ ## National Museum of Wildlife Art | Art Collection, Jackson Hole, Wy
+ - [https://wildlifeart.org](https://wildlifeart.org)
+ - date_published: 2024-08-06T06:09:48.727498+00:00
+
+ ## Wildlife Center of Virginia
+ - [https://new.wildlifecenter.org](https://new.wildlifecenter.org)
+ - date_published: 2024-08-11T12:25:34+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://support.wildlifecenter.org](https://support.wildlifecenter.org)
+ - date_published: 2024-08-12T05:00:14.522678+00:00
+ - date_dead_since: 2025-01-30T08:24:58.649270+00:00
+
+ ## The Wildlife Center of Virginia
+ - [https://wildlifecenter.org](https://wildlifecenter.org)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Home • International Wildlife Film Festival
+ - [https://wildlifefilms.org](https://wildlifefilms.org)
+ - date_published: 2025-01-25T13:40:00.752967+00:00
+
+ ## Wildlife Forever – Celebrating Over 35 Years of Conservation
+ - [https://wildlifeforever.org](https://wildlifeforever.org)
+ - date_published: 2024-10-15T02:33:21.626884+00:00
+
+ ## Wildlife Friendly Enterprise Network
+ - [http://wildlifefriendly.org](http://wildlifefriendly.org)
+ - date_published: 2024-12-11T17:30:06+00:00
+
+ ## Wildlife Science Center
+ - [https://wildlifesciencecenter.org](https://wildlifesciencecenter.org)
+ - date_published: 2024-09-26T18:07:10.005039+00:00
+
+ ## Madagascar: stunning wildlife, landscapes, and cultural diversity
+ - [https://wildmadagascar.org](https://wildmadagascar.org)
+ - date_published: 2024-07-09T10:32:10.338481+00:00
+
+ ## Wild Montana - Uniting and mobilizing communities to keep Montana wild
+ - [https://wildmontana.org](https://wildmontana.org)
+ - date_published: 2025-01-24T22:31:44.247876+00:00
+
+ ## Wildlife Conservation Network - Be a Wildlife Hero
+ - [https://wildnet.org](https://wildnet.org)
+ - date_published: 2025-02-04T15:02:15.009295+00:00
+
+ ## Éditions Wildproject
+ - [https://wildproject.org](https://wildproject.org)
+ - date_published: 2024-07-23T23:31:04.901432+00:00
 

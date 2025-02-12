@@ -1,4028 +1,4032 @@
- ## ליגת החלומות: פנטזי ליג של וואלה ו-ספורט1 - המשחק הרשמי של ליגת העל
- - [https://fantasy-sport1.walla.co.il](https://fantasy-sport1.walla.co.il)
- - date_published: 2023-03-22T09:31:10+00:00
+ ## Cannabis Unified License Search
+ - [https://search.cannabis.ca.gov](https://search.cannabis.ca.gov)
+ - date_published: 2023-08-31T23:53:46+00:00
 
- ## חדשות האופנה, טרנדים, טיפוח, ביוטי וכל מה שנוצץ ומעניין באופנה בארץ ובחו"ל | וואלה אופנה0  - וואלה אופנה
- - [https://fashion.walla.co.il](https://fashion.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Search - DCA
+ - [https://search.dca.ca.gov](https://search.dca.ca.gov)
+ - date_published: 2024-07-03T13:18:37.048402+00:00
 
- ## נלחמים בסרטן  - וואלה נלחמים בסרטן
- - [https://fightingcancer.walla.co.il](https://fightingcancer.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Homepage | California State Senate
+ - [http://senate.ca.gov](http://senate.ca.gov)
+ - date_published: 2024-08-08T15:45:56+00:00
 
- ## וואלה כסף | חדשות, עדכונים ומידע על פיננסים, כלכלה, נדל"ן וצרכנות  - וואלה כסף
- - [https://finance.walla.co.il](https://finance.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Strategic Growth Council, California
+ - [http://sgc.ca.gov](http://sgc.ca.gov)
+ - date_published: 2024-07-03T13:19:16.834098+00:00
 
- ## וואלה אוכל | כל חדשות האוכל, מגוון רחב של מתכונים, ביקורות מסעדות והמלצות  - וואלה אוכל
- - [https://food.walla.co.il](https://food.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Welcome to the Senate Standing Committee on Judiciary | Senate Judiciary Committee
+ - [https://sjud.senate.ca.gov](https://sjud.senate.ca.gov)
+ - date_published: 2024-07-24T03:19:30.243640+00:00
 
- ## משחקים ברשת  אתר המשחקים הגדול והמקיף ביותר - וואלה כיף  - וואלה כיף
- - [https://fun.walla.co.il](https://fun.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Home :: California Secretary of State
+ - [https://sos.ca.gov](https://sos.ca.gov)
+ - date_published: 2024-05-08T09:28:06.546806+00:00
 
- ## אסם שדרות  - וואלה ביחד יוצרים עתיד בשדרות
- - [https://futureinsderot.walla.co.il](https://futureinsderot.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Homepage | Senator Brian Jones
+ - [https://sr40.senate.ca.gov](https://sr40.senate.ca.gov)
+ - date_published: 2024-06-07T18:47:34+00:00
 
- ## וואלה גליל, תשאלו כל דחליל
- - [https://galil.walla.co.il](https://galil.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Home Page | California State Water Resources Control Board
+ - [http://swrcb.ca.gov](http://swrcb.ca.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
 
- ## וואלה גיימינג  - וואלה ערוץ הגיימינג
- - [https://gaming.walla.co.il](https://gaming.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## California Tax Service Center
+ - [http://taxes.ca.gov](http://taxes.ca.gov)
+ - date_published: 2024-01-01T00:00:00+00:00
 
- ## המתחם החדש של האגודה לזכויות החולה  - וואלה 65 + עתיד בריא
- - [https://healthyfuture.walla.co.il](https://healthyfuture.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Unclaimed Property
+ - [https://ucpi.sco.ca.gov](https://ucpi.sco.ca.gov)
+ - date_published: 2024-07-18T14:30:31.833091+00:00
 
- ## וואלה בריאות | כל החדשות בעולם הבריאות, מחקרים ועדכונים בתחומי הרפואה בארץ ובעולם  - וואלה בריאות
- - [https://healthy.walla.co.il](https://healthy.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## CalVCB - CA Victim Compensation Board
+ - [https://victims.ca.gov](https://victims.ca.gov)
+ - date_published: 2024-06-10T00:00:00+00:00
 
- ## וואלה עזרה
- - [https://help.walla.co.il](https://help.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## CalEPA Public Webcasts
+ - [https://video.calepa.ca.gov](https://video.calepa.ca.gov)
+ - date_published: 2024-07-09T11:46:02.084133+00:00
 
- ## חגים ומועדים  - וואלה חגים וחופשות
- - [https://holidays.walla.co.il](https://holidays.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Vision 2023 | California Department of Technology
+ - [https://vision2023.cdt.ca.gov](https://vision2023.cdt.ca.gov)
+ - date_published: 2024-05-12T05:58:07.030160+00:00
 
- ## וואלה בית ועיצוב  - וואלה בית ועיצוב
- - [https://home.walla.co.il](https://home.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Official Voter Information Guide | California Secretary of State
+ - [https://voterguide.sos.ca.gov](https://voterguide.sos.ca.gov)
+ - date_published: 2024-05-03T22:54:29+00:00
 
- ## וואלה אסטרולוגיה: הורוסקופ יומי, שבועי, מזלות ואסטרולוגיה יומית  - וואלה רוח והורוסקופ
- - [https://horoscope.walla.co.il](https://horoscope.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Home
+ - [https://water.ca.gov](https://water.ca.gov)
+ - date_published: 2024-05-09T04:51:52.450220+00:00
 
- ## וואלה יהדות  - וואלה יהדות
- - [https://judaism.walla.co.il](https://judaism.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## California Wildlife Conservation Board Home Page
+ - [https://wcb.ca.gov](https://wcb.ca.gov)
+ - date_published: 2024-08-26T00:00:00+00:00
 
- ## וואלה משפט  - וואלה משפט
- - [https://law.walla.co.il](https://law.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
+ ## Franchise Tax Board Homepage | FTB.ca.gov
+ - [https://webapp.ftb.ca.gov](https://webapp.ftb.ca.gov)
+ - date_published: 2024-07-03T13:20:45.151166+00:00
 
- ## טיפ קטן לשירות גדול  - וואלה מתחם התוכן החדש של בנק לאומי באתר וואלה
- - [https://leumitip.walla.co.il](https://leumitip.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## מועצת הצמחים  - וואלה מתחם התוכן חדש באתר וואלה
- - [https://lychee.walla.co.il](https://lychee.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## מדעני העתיד  - וואלה מדעני העתיד
- - [https://madaney.walla.co.il](https://madaney.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה דואר
- - [https://mail.walla.co.il](https://mail.walla.co.il)
- - date_published: 2024-09-08T13:38:39+00:00
-
- ## וואלה שיווק ודיגיטל: כל מה שצריך לדעת על שיווק בעידן הדיגיטלי  - וואלה שיווק ודיגיטל
- - [https://marketing.walla.co.il](https://marketing.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## אתר האירועים והחתונות הגדול בישראל - וואלה! מזל טוב
- - [https://mazaltov.walla.co.il](https://mazaltov.walla.co.il)
- - date_published: 2024-09-17T17:56:35.614549+00:00
-
- ## וואלה מקומי  - וואלה מקומי
- - [https://mekomi.walla.co.il](https://mekomi.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## עמית מלווה  - וואלה מתחם התוכן חדש באתר וואלה
- - [https://melave.walla.co.il](https://melave.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## שנה לממשלת בנט  - וואלה שנה לממשלת בנט
- - [https://mimsheletbennet.walla.co.il](https://mimsheletbennet.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה מובייל - מצטרפים וחוסכים
- - [https://mobile.walla.co.il](https://mobile.walla.co.il)
- - date_published: 2024-08-15T07:41:43+00:00
-
- ## וואלה מומלצים | ערוץ הצרכנות והקניות הוותיק עם כל ההמלצות ברשת
- - [https://mumlazim.walla.co.il](https://mumlazim.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה נדל"ן | כל המידע על הדירות הכי חמות למכירה והשכרה  - וואלה נדל״ן
- - [https://nadlan.walla.co.il](https://nadlan.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## חדשות מהארץ ומהעולם: כתבות ודיווחים שוטפים 24/7  - וואלה חדשות
- - [https://news.walla.co.il](https://news.walla.co.il)
+ ## California Department of Fish and Wildlife Home Page
+ - [https://wildlife.ca.gov](https://wildlife.ca.gov)
  - date_published: 2024-06-14T00:00:00+00:00
 
- ## NOW  - וואלה NOW
- - [https://now.walla.co.il](https://now.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## מפעל הפיס  - וואלה פיס בתרבות
- - [https://paisculture.walla.co.il](https://paisculture.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## שידוכים מושלמים  - וואלה יקבי בנימינה
- - [https://perfectmatch.walla.co.il](https://perfectmatch.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## שמים אצבע על הדופק  - וואלה שמים אצבע על הדופק
- - [https://sanofi.walla.co.il](https://sanofi.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה חיפוש
- - [https://search.walla.co.il](https://search.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## משרות לאזרחים ותיקים - וואלה! פיס לאזרחים ותיקים  - וואלה פיס לאזרחים ותיקים
- - [https://seniors.walla.co.il](https://seniors.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה שבע דרום: כל מה שקורה בנגב ועדכוני חדשות מהדרום  - וואלה שבע דרום
- - [https://sheva7.walla.co.il](https://sheva7.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## לגימה של שקמה  - וואלה מתחם התוכן חדש באתר וואלה
- - [https://shikma.walla.co.il](https://shikma.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה ספורט | חדשות ועדכוני ספורט, כדורגל ישראל ועולמי, כדורסל, NBA, תקצירים ותוצאות  - וואלה ספורט
- - [https://sports.walla.co.il](https://sports.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## סטארקיסט  - וואלה כל מה שטוב בטונה
- - [https://starkist.walla.co.il](https://starkist.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## השמנה בקרב בני נוער  - וואלה השמנה בקרב בני נוער
- - [https://stayinghealthy.walla.co.il](https://stayinghealthy.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה! תגיות  - וואלה תגיות
- - [https://tags.walla.co.il](https://tags.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה טכנולוגיה | כל הטכנולוגיה, הסייבר והסטארטאפים בערוץ אחד  - וואלה טכנולוגיה
- - [https://tech.walla.co.il](https://tech.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה טוב לדעת  - וואלה טוב לדעת
- - [https://tld.walla.co.il](https://tld.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
- - date_dead_since: 2025-01-06T00:01:21.856391+00:00
-
- ## תמיר  - וואלה מחזור זה כל הקטע
- - [https://tmirecycle.walla.co.il](https://tmirecycle.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה תיירות | כל מה שמעניין בתיירות בארץ ובחו"ל, טיסות, חופשות, אטרקציות וטיולים  - וואלה תיירות
- - [https://travel.walla.co.il](https://travel.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה טלוויזיה  - וואלה לוח שידורים
- - [https://tv-guide.walla.co.il](https://tv-guide.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה ויוה האתר הרשמי - סדרות, לוח שידורים, שחקנים, פורום ועוד | ויוה  - וואלה viva
- - [https://viva.walla.co.il](https://viva.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## צפייה ישירה - וואלה VOD  - וואלה VOD
- - [https://vod.walla.co.il](https://vod.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה חדשות. ספורט. סלבס. אוכל - עדכונים ודיווחים שוטפים
- - [https://walla.co.il](https://walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## וואלה מזג האוויר: תחזית מזג האוויר יומית ושבועית בישראל  - וואלה מזג אויר
- - [https://weather.walla.co.il](https://weather.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## שומרים על כדור הארץ  - וואלה שומרים על כדור הארץ
- - [https://yarokkl.walla.co.il](https://yarokkl.walla.co.il)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## לימודים בישראל | מרכז הלימודים של ישראל - יורם לימודים
- - [https://yoram.walla.co.il](https://yoram.walla.co.il)
- - date_published: 2024-09-17T17:55:16.566447+00:00
-
- ## מגזין יין 2024  - וואלה zoom
- - [https://zoom.walla.co.il](https://zoom.walla.co.il)
- - date_published: 2024-09-17T17:58:36.877870+00:00
-
- ## albume
- - [https://wallaprint.co.il](https://wallaprint.co.il)
- - date_published: 2024-09-17T17:55:40.627596+00:00
-
- ## וואלה שופס
- - [http://wallashops.co.il](http://wallashops.co.il)
- - date_published: 2024-09-17T17:58:10.535777+00:00
-
- ## בניית חנות וירטואלית - WEB2 | חנות אינטרנט של הדור הבא
- - [https://web2.co.il](https://web2.co.il)
- - date_published: 2025-02-03T07:47:45.377702+00:00
-
- ## וובסטר – הבלוג של חנן כהן
- - [https://webster.co.il](https://webster.co.il)
- - date_published: 2024-07-04T03:55:17+00:00
-
- ## wpPlugins פיתוח תוספי וורדפרס
- - [https://wpplugins.co.il](https://wpplugins.co.il)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## אתר המנויים וההטבות של ידיעות אחרונות
- - [https://yedioth.co.il](https://yedioth.co.il)
- - date_published: 2024-03-07T00:00:00+00:00
- - date_dead_since: 2025-01-06T00:02:31.151605+00:00
-
- ## פלאנט- כל הסרטים החדשים
- - [https://yesplanet.co.il](https://yesplanet.co.il)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## mynet - מיינט - mynet - חדשות מקומיות
- - [https://de-wcm-mynet-cloud.yit.co.il](https://de-wcm-mynet-cloud.yit.co.il)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## פיתוח אפליקציות, עיצוב UX\UI, בניית אתרים, עיצוב חווית משתמש
- - [https://yit.co.il](https://yit.co.il)
- - date_published: 2024-05-08T04:15:17.392336+00:00
-
- ## עו"ד יורם ליכטנשטיין | דיני אינטרנט, קניין רוחני, זכויות יוצרים, סימני מסחר, משפט מסחרי, אפליקציות, ליווי משפטי לאתרי אינטרנט
- - [https://y-law.co.il](https://y-law.co.il)
- - date_published: 2025-01-01T09:56:03.809623+00:00
-
- ## IFRAME ynet
- - [https://iframe.ynet.co.il](https://iframe.ynet.co.il)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## INTERACTIVE ynet
- - [https://interactive.ynet.co.il](https://interactive.ynet.co.il)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## סקר השירות הגדול של המדינה - חלק 1
- - [https://leumisurvey.ynet.co.il](https://leumisurvey.ynet.co.il)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## עושים שמות +ynet
- - [https://myname.ynet.co.il](https://myname.ynet.co.il)
- - date_published: 2023-03-30T11:49:04+00:00
-
- ## נרצחי וחללי המלחמה: השמות והזכרונות
- - [https://names2023war.ynet.co.il](https://names2023war.ynet.co.il)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## pplus - פנאי פלוס
- - [https://pplus.ynet.co.il](https://pplus.ynet.co.il)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## ynet - פלוס
- - [https://premium.ynet.co.il](https://premium.ynet.co.il)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## ynet - תחזית מזג אוויר יומית בישראל
- - [https://weather.ynet.co.il](https://weather.ynet.co.il)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## W ynet
- - [https://w.ynet.co.il](https://w.ynet.co.il)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## ynet - חדשות, כלכלה, ספורט ובריאות - דיווחים שוטפים מהארץ ומהעולם
- - [https://ynet.co.il](https://ynet.co.il)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Web App - Unavailable
- - [https://yschool.co.il](https://yschool.co.il)
- - date_published: 2024-05-07T18:32:44.971729+00:00
-
- ## ZDRONE FaceBoook Page
- - [https://zdrone.co.il](https://zdrone.co.il)
- - date_published: 2020-12-05T18:11:21+00:00
-
- ## ZEISS Israel
- - [https://zeiss.co.il](https://zeiss.co.il)
- - date_published: 2024-09-16T07:55:45.530921+00:00
-
- ## זמן ישראל | פוליטיקה · מדיניות · כלכלה · שלטון החוק
- - [https://zman.co.il](https://zman.co.il)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Zoetis
- - [https://www2.zoetis.co.il](https://www2.zoetis.co.il)
- - date_published: 2024-06-27T09:52:45+00:00
-
- ## דף הבית | קמפוס IL
- - [https://campus.gov.il](https://campus.gov.il)
- - date_published: 2024-07-21T23:24:22.789887+00:00
- - date_dead_since: 2025-01-06T00:26:06.115709+00:00
-
- ## הלשכה המרכזית לסטטיסטיקה - cbs.gov.il
- - [https://cbs.gov.il](https://cbs.gov.il)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## בית המשפט העליון של ישראל
- - [http://supreme.court.gov.il](http://supreme.court.gov.il)
- - date_published: 2024-01-09T03:32:15.467545+00:00
-
- ## Attention Required! | Cloudflare
- - [http://gov.il](http://gov.il)
- - date_published: 2024-07-14T21:50:46.854906+00:00
-
- ## https://www.idf.il
- - [https://www.idf.il](https://www.idf.il)
- - date_published: 2023-11-13T20:52:27.483837+00:00
-
- ## Attention Required! | Cloudflare
- - [http://acum.org.il](http://acum.org.il)
- - date_published: 2024-05-10T05:57:02.182767+00:00
-
- ## עמותת תפוח – Appleseeds – עמותת תפוח
- - [https://appleseeds.org.il](https://appleseeds.org.il)
- - date_published: 2024-07-04T12:27:41.249084+00:00
- - date_dead_since: 2025-01-06T00:28:31.129647+00:00
-
- ## קרן עזריאלי ישראל
- - [http://azrielifoundation.org.il](http://azrielifoundation.org.il)
- - date_published: 2025-01-16T14:10:58.660565+00:00
-
- ## קרן עזריאלי ישראל
- - [http://www.azrielifoundation.org.il](http://www.azrielifoundation.org.il)
- - date_published: 2025-01-07T12:15:52.482010+00:00
-
- ## אגודת הסטודנטים בר אילן
- - [https://bis.org.il](https://bis.org.il)
- - date_published: 2024-08-07T15:11:49.111069+00:00
-
- ## אתר בנק ישראל | הבנק המרכזי
- - [https://boi.org.il](https://boi.org.il)
- - date_published: 2024-10-06T17:00:50.255262+00:00
-
- ## Breaking the Silence
- - [https://breakingthesilence.org.il](https://breakingthesilence.org.il)
- - date_published: 2024-06-18T16:24:43.641332+00:00
-
- ## Homepage - BSF
- - [https://bsf.org.il](https://bsf.org.il)
- - date_published: 2024-10-27T07:55:20+00:00
-
- ## עמותת מגן לזכויות אנושדף הבית של CCHR צפה בתשדירי השירות
- - [https://cchr-israel.org.il](https://cchr-israel.org.il)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## דף הבית
- - [https://che.org.il](https://che.org.il)
- - date_published: 2025-02-11T03:30:59.586824+00:00
-
- ## עיר דוד - לסייר בין שכבות ההיסטוריה ולהתחבר לשורשים
- - [https://cityofdavid.org.il](https://cityofdavid.org.il)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## מוזיאון גן המדע ע"ש קלור
- - [https://gan-hamada.davidson.org.il](https://gan-hamada.davidson.org.il)
- - date_published: 2024-06-15T01:34:50+00:00
-
- ## The Dead Sea Scrolls
- - [https://deadseascrolls.org.il](https://deadseascrolls.org.il)
- - date_published: 2024-06-23T18:06:08.252850+00:00
-
- ## דיאנטיקה: המדע המודרני של בריאות הנפש
- - [https://www.dianetics.org.il](https://www.dianetics.org.il)
- - date_published: 2024-06-17T16:42:14.923914+00:00
-
- ## תולדות הדיגיטל בישראל – ארכיון תולדות המיחשוב, האינטרנט וההייטק בישראל
- - [https://digital-archive.org.il](https://digital-archive.org.il)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## יער עירוני דיגיטלי
- - [https://app.digital-forest.org.il](https://app.digital-forest.org.il)
- - date_published: 2025-01-21T13:51:08.118411+00:00
-
- ## קרן אדמונד דה רוטשילד
- - [https://edrf.org.il](https://edrf.org.il)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
- - [https://epoch.org.il](https://epoch.org.il)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
- - [https://shop.epoch.org.il](https://shop.epoch.org.il)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [http://football.org.il](http://football.org.il)
- - date_published: 2024-07-21T21:39:15.959199+00:00
-
- ## בתוך Scientology – הסיפור הלא מצונזר
- - [https://freedommag.org.il](https://freedommag.org.il)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## GFI Israel – the Good Food Institute Israel - GFI Israel
- - [https://gfi.org.il](https://gfi.org.il)
- - date_published: 2021-05-14T14:45:29+00:00
- - date_dead_since: 2025-01-06T00:29:40.078062+00:00
-
- ## GopherCon Israel 2025
- - [https://www.gophercon.org.il](https://www.gophercon.org.il)
- - date_published: 2024-12-29T07:46:52+00:00
-
- ## המקור
- - [https://hamakor.org.il](https://hamakor.org.il)
- - date_published: 2024-07-04T12:26:51.616759+00:00
-
- ## פלאנט תוכנה חופשית בישראל (Planet FOSS-IL)
- - [https://planet.hamakor.org.il](https://planet.hamakor.org.il)
- - date_published: 2024-06-30T21:28:05.658029+00:00
-
- ## Main Page - Shalom Hartman Institute
- - [https://hartman.org.il](https://hartman.org.il)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## פורום הסדנא
- - [http://forum.hasadna.org.il](http://forum.hasadna.org.il)
- - date_published: 2025-01-21T13:51:03.403045+00:00
-
- ## הסדנא לידע ציבורי | כנסת פתוחה, מפתח התקציב, כיכר המדינה, פנסיה פתוחה
- - [https://hasadna.org.il](https://hasadna.org.il)
- - date_published: 2025-01-21T13:50:54.066777+00:00
-
- ## דאטאבוס - נתוני ביצוע לתחב"צ הישראלי
- - [https://open-bus-map-search.hasadna.org.il](https://open-bus-map-search.hasadna.org.il)
- - date_published: 2025-01-21T13:51:09.323763+00:00
-
- ## הסדנא לידע ציבורי | כנסת פתוחה, מפתח התקציב, כיכר המדינה, פנסיה פתוחה
- - [http://www.hasadna.org.il](http://www.hasadna.org.il)
- - date_published: 2025-01-08T05:44:22.272299+00:00
-
- ## מפעל המילון ההיסטורי
- - [https://maagarim.hebrew-academy.org.il](https://maagarim.hebrew-academy.org.il)
- - date_published: 2024-09-17T17:53:32.245170+00:00
-
- ## הלפי | זה פשוט לעשות טוב
- - [https://helpi.org.il](https://helpi.org.il)
- - date_published: 2025-02-09T01:47:24.931159+00:00
-
- ## Home
- - [https://iaai.org.il](https://iaai.org.il)
- - date_published: 2024-10-22T05:27:24.898368+00:00
-
- ## Web App - Unavailable
- - [https://iba.org.il](https://iba.org.il)
- - date_published: 2024-06-27T07:47:33.867124+00:00
-
- ## בית הספר למדעי המחשב
- - [https://www.icore-algo.org.il](https://www.icore-algo.org.il)
- - date_published: 2024-08-07T11:29:18+00:00
-
- ## https://en.idi.org.il
- - [https://en.idi.org.il](https://en.idi.org.il)
- - date_published: 2023-12-31T18:32:18.786003+00:00
-
- ## עיגול לטובה - האגורות שלך משנות חיים כל יום
- - [https://www.igul.org.il](https://www.igul.org.il)
- - date_published: 2025-01-07T06:53:59+00:00
-
- ## ILF - The Israeli Leadership Forum
- - [https://ilf-en.org.il](https://ilf-en.org.il)
- - date_published: 2024-06-26T18:34:34+00:00
-
- ## Home | IMU
- - [https://imu.org.il](https://imu.org.il)
- - date_published: 2024-07-04T17:14:49.920950+00:00
-
- ## עמותת עינבר - עמותה ישראלית לנפגעי מחלות ראומטיות, אוטואימוניות ודלקתיות
- - [https://inbar.org.il](https://inbar.org.il)
- - date_published: 2024-06-28T12:06:17.161336+00:00
-
- ## חנן כהן / מידע דיגיטאלי
- - [https://info.org.il](https://info.org.il)
- - date_published: 2024-05-08T05:43:28.517171+00:00
-
- ## עמוד הבית - איפה לומדים?
- - [https://ipho2019.org.il](https://ipho2019.org.il)
- - date_published: 2024-05-07T15:14:50.221204+00:00
-
- ## IRIS: Information Regarding Israel's Security
- - [http://www.iris.org.il](http://www.iris.org.il)
- - date_published: 2024-12-31T22:02:47.339060+00:00
-
- ## לא רלוונטי | חנן כהן מגיב על מכתבי שרשרת ושמועות אינטרנט – מאז 2002
- - [https://irrelevant.org.il](https://irrelevant.org.il)
- - date_published: 2024-07-04T08:25:20.427940+00:00
-
- ## Israel Science Foundation (ISF)
- - [https://isf.org.il](https://isf.org.il)
- - date_published: 2024-05-15T13:58:57+00:00
-
- ## עתים - כתובת אחת מול שירותי הדת
- - [http://www.itim.org.il](http://www.itim.org.il)
- - date_published: 2025-01-21T16:39:06.825520+00:00
-
- ## התאחדות משרדי הנסיעות ויועצי התיירות בישראל
- - [https://ittaa.org.il](https://ittaa.org.il)
- - date_published: 2024-10-21T21:57:40.691149+00:00
-
- ## עמוד הבית - המרכז הירושלמי לענייני חוץ וביטחון
- - [https://jcpa.org.il](https://jcpa.org.il)
- - date_published: 2024-09-17T20:39:44+00:00
-
- ## כאן 11: חדשות, רדיו, טלוויזיה, שידור חי - תאגיד השידור הישראלי
- - [http://kan.org.il](http://kan.org.il)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## ניקיון משרדים במרכז - המקצוענים בניקיון משרדים!
- - [https://keshev.org.il](https://keshev.org.il)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## אתר העפיפונים הישראלי
- - [http://kites.org.il](http://kites.org.il)
- - date_published: 2024-07-04T08:25:25.187432+00:00
-
- ## ל. רון האברד – המייסד של Scientology ו-Dianetics
- - [https://lronhubbard.org.il](https://lronhubbard.org.il)
- - date_published: 2024-06-06T19:38:26.779991+00:00
-
- ## כתבות, תחקירים וניתוח
- - [https://mida.org.il](https://mida.org.il)
- - date_published: 2024-08-18T15:32:01.680166+00:00
-
- ## מידות- שיקוף ודירוג מלכ”רים שירותי ייעוץ לעמותות- לעשות טוב, טוב יותר
- - [https://midot.org.il](https://midot.org.il)
- - date_published: 2025-01-16T13:46:08.199874+00:00
-
- ## סימולטור האפקטיביות של מידות | בדקו את האפקטיביות של ארגונכם >>
- - [https://simulator.midot.org.il](https://simulator.midot.org.il)
- - date_published: 2025-01-16T13:46:02.822815+00:00
-
- ## מידות- שיקוף ודירוג מלכ”רים שירותי ייעוץ לעמותות- לעשות טוב, טוב יותר
- - [http://www.midot.org.il](http://www.midot.org.il)
- - date_published: 2025-01-07T12:15:50.652618+00:00
-
- ## עמוד הבית - עמותת מפרקים צעירים
- - [https://mifrakim.org.il](https://mifrakim.org.il)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## מקווה דף הבית - מקווה.אורג כל מה שחשוב לך לדעת
- - [http://mikvah.org.il](http://mikvah.org.il)
- - date_published: 2024-12-29T20:51:51+00:00
-
- ## הספרייה הלאומית של ישראל
- - [https://nli.org.il](https://nli.org.il)
- - date_published: 2024-07-02T06:04:04.523713+00:00
-
- ## Malmad Homepage
- - [http://olduli.nli.org.il](http://olduli.nli.org.il)
- - date_published: 2019-07-09T15:43:14+00:00
- - date_dead_since: 2025-01-06T00:35:22.579137+00:00
-
- ## OpsSchool | DevOps | Israel
- - [https://opsschool.org.il](https://opsschool.org.il)
- - date_published: 2024-07-04T12:27:23.381952+00:00
-
- ## עמותת אור ירוק - הרצאות ומוצרים בנושאי בטיחות בדרכים | Or Yarok
- - [http://www.oryarok.org.il](http://www.oryarok.org.il)
- - date_published: 2025-01-21T16:39:15.635463+00:00
-
- ## Pardes Institute of Jewish Studies
- - [http://www.pardes.org.il](http://www.pardes.org.il)
- - date_published: 2024-12-22T21:23:09.929357+00:00
-
- ## פרח | דף הבית
- - [https://perach.org.il](https://perach.org.il)
- - date_published: 2024-05-11T09:08:20.132479+00:00
-
- ## המדויק והאמין ביותר
- - [https://oca.scientology.org.il](https://oca.scientology.org.il)
- - date_published: 2024-06-17T16:40:51.760046+00:00
-
- ## האתר הרשמי של ארגון הסיינטולוגיה: ל. רון האברד, דיאנטיקה, מהי סיינטולוגיה?, ספרים, אמונות, דיוויד מיסקביג'
- - [https://scientology.org.il](https://scientology.org.il)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## דת הסיינטולוגיה – הרקע, התיאולוגיה והעיסוק הדתי
- - [https://scientologyreligion.org.il](https://scientologyreligion.org.il)
- - date_published: 2024-06-06T19:41:18.731748+00:00
-
- ## Sefaria: a Living Library of Jewish Texts Online
- - [https://sefaria.org.il](https://sefaria.org.il)
- - date_published: 2024-06-27T07:04:25.212147+00:00
-
- ## מכון התקנים הישראלי
- - [https://www.sii.org.il](https://www.sii.org.il)
- - date_published: 2024-06-20T10:50:17.434164+00:00
-
- ## Homepage - Steven Spielberg
- - [https://spielbergfilmarchive.org.il](https://spielbergfilmarchive.org.il)
- - date_published: 2023-11-13T12:53:02.637342+00:00
-
- ## StatsCraft monitoring conference
- - [https://statscraft.org.il](https://statscraft.org.il)
- - date_published: 2023-10-01T14:48:40+00:00
-
- ## קיבוץ תמוז - הקיבוץ העירוני בבית שמש
- - [https://tamuz.org.il](https://tamuz.org.il)
- - date_published: 2023-10-16T08:23:30+00:00
-
- ## Israel Tech Policy Institute
- - [https://techpolicy.org.il](https://techpolicy.org.il)
- - date_published: 2024-06-18T17:36:36.642568+00:00
-
- ## Home - The Meir Amit Intelligence and Terrorism Information Center
- - [https://terrorism-info.org.il](https://terrorism-info.org.il)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## העין השביעית | ביקורת תקשורת ועיתונות
- - [https://the7eye.org.il](https://the7eye.org.il)
- - date_published: 2024-12-20T06:45:51+00:00
-
- ## העין השביעית | ביקורת תקשורת ועיתונות
- - [https://www.the7eye.org.il](https://www.the7eye.org.il)
- - date_published: 2024-07-16T19:02:43+00:00
-
- ## הדרך אל האושר: אופי מוסרי, לימוד, עצה טובה, ערכים אתיים, אמות מידה לחיים טובים יותר
- - [https://thewaytohappiness.org.il](https://thewaytohappiness.org.il)
- - date_published: 2024-09-04T17:52:38.360719+00:00
-
- ## Wikimedia – מדריך לכתיבה אנציקלופדית
- - [https://guide.wikimedia.org.il](https://guide.wikimedia.org.il)
- - date_published: 2024-09-17T17:53:49.480421+00:00
-
- ## ראשי - ויקימדיה ישראל
- - [https://wikimedia.org.il](https://wikimedia.org.il)
- - date_published: 2024-05-19T16:26:29+00:00
-
- ## home page
- - [https://wolffund.org.il](https://wolffund.org.il)
+ ## Work for California
+ - [https://workforcalifornia.ca.gov](https://workforcalifornia.ca.gov)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Homepage | California Air Resources Board
+ - [https://ww2.arb.ca.gov](https://ww2.arb.ca.gov)
+ - date_published: 2024-07-09T03:11:58+00:00
+
+ ## Alcoholic Beverage Control | Trust - Innovation - Professionalism
+ - [http://www.abc.ca.gov](http://www.abc.ca.gov)
+ - date_published: 2024-07-03T13:18:24.552154+00:00
+
+ ## Homepage | California Air Resources Board
+ - [http://www.arb.ca.gov](http://www.arb.ca.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## California State Auditor
+ - [https://www.auditor.ca.gov](https://www.auditor.ca.gov)
+ - date_published: 2024-12-21T12:56:41.982526+00:00
+
+ ## Bureau for Private and Post-Secondary Education - BPPE
+ - [http://www.bppe.ca.gov](http://www.bppe.ca.gov)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## BreEZe - State of California
+ - [https://www.breeze.ca.gov](https://www.breeze.ca.gov)
+ - date_published: 2024-07-03T13:19:02.203661+00:00
+
+ ## California Climate Investments
+ - [https://www.caclimateinvestments.ca.gov](https://www.caclimateinvestments.ca.gov)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## The State Bar of California
+ - [https://www.calbar.ca.gov](https://www.calbar.ca.gov)
+ - date_published: 2024-06-20T05:52:19.859866+00:00
+
+ ## California Leafy Greens Marketing Agreement
+ - [http://www.caleafygreens.ca.gov](http://www.caleafygreens.ca.gov)
+ - date_published: 2024-07-08T11:56:10.312799+00:00
+
+ ## Cannabis Control Appeals Panel
+ - [https://www.ccap.ca.gov](https://www.ccap.ca.gov)
+ - date_published: 2024-07-03T13:18:28.989631+00:00
+
+ ## California Department of Food and Agriculture
+ - [https://www.cdfa.ca.gov](https://www.cdfa.ca.gov)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## CDPH Home
+ - [https://www.cdph.ca.gov](https://www.cdph.ca.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## California Department of Pesticide Regulation
+ - [https://www.cdpr.ca.gov](https://www.cdpr.ca.gov)
+ - date_published: 2024-07-09T11:46:06.909257+00:00
+
+ ## CDTFA - CA Department of Tax and Fee Administration
+ - [https://www.cdtfa.ca.gov](https://www.cdtfa.ca.gov)
+ - date_published: 2024-06-21T18:26:49.235000+00:00
+
+ ## California Health and Human Services - California Health and Human Services
+ - [https://www.chhs.ca.gov](https://www.chhs.ca.gov)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## CMIPS Home page
+ - [https://www.cmips.osi.ca.gov](https://www.cmips.osi.ca.gov)
+ - date_published: 2024-07-15T10:42:35.650931+00:00
+
+ ## California Coastal Commission
+ - [http://www.coastal.ca.gov](http://www.coastal.ca.gov)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## CSLB-Home -CSLB
+ - [http://www.cslb.ca.gov](http://www.cslb.ca.gov)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Department of Consumer Affairs (DCA)
+ - [http://www.dca.ca.gov](http://www.dca.ca.gov)
+ - date_published: 2024-06-29T16:57:39.263422+00:00
+
+ ## CRD | Civil Rights Department
+ - [http://www.dfeh.ca.gov](http://www.dfeh.ca.gov)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## DGS
+ - [https://www.dgs.ca.gov](https://www.dgs.ca.gov)
  - date_published: 2024-07-01T00:00:00+00:00
 
- ## החלפת מצבר עד הבית ✔️ מאור מצברים החל מ-330 ₪ ✔️ מצבר לרכב עד הבית
- - [https://xn--5dbqmb4bn.org.il](https://xn--5dbqmb4bn.org.il)
- - date_published: 2025-01-21T16:39:09.941046+00:00
-
- ## Error Page
- - [http://yadvashem.org.il](http://yadvashem.org.il)
- - date_published: 2024-09-19T01:16:58.947451+00:00
-
- ## ארגון סגל ההוראה והמחקר באוניברסיטת תל אביב -  דף הבית
- - [https://zutar.org.il](https://zutar.org.il)
- - date_published: 2024-07-24T07:58:46.431854+00:00
-
- ## 11d.im
- - [https://11d.im](https://11d.im)
- - date_published: 2024-05-09T07:51:10.157444+00:00
-
- ## Bruno Adelé
- - [http://bruno.adele.im](http://bruno.adele.im)
- - date_published: 2016-03-09T09:21:25+00:00
-
- ## Adium - Download
- - [https://adium.im](https://adium.im)
- - date_published: 2024-04-28T00:24:37.879324+00:00
- - tags: ['social communicator', 'open source', 'chat']
-
- ## Adium - Blog
- - [https://blog.adium.im](https://blog.adium.im)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## The Affiliate Lab by Matt Diggity
- - [https://affiliatelab.im](https://affiliatelab.im)
- - date_published: 2022-05-22T13:21:36+00:00
-
- ## Aleph.im
- - [https://aleph.im](https://aleph.im)
- - date_published: 2024-08-08T09:46:17+00:00
-
- ## Angry.Im Software Forge
- - [https://gitea.angry.im](https://gitea.angry.im)
- - date_published: 2024-10-22T18:32:14.681178+00:00
-
- ## Arena | Increase Engagement With Live Chat & Live Blog
- - [https://arena.im](https://arena.im)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home
- - [https://arpit.im](https://arpit.im)
- - date_published: 2025-01-10T17:22:38.060553+00:00
-
- ## Avinash Sajjanshetty
- - [https://avi.im](https://avi.im)
- - date_published: 2023-10-25T19:29:34.523543+00:00
- - tags: ['personal']
-
- ## Beagle IM
- - [https://beagle.im](https://beagle.im)
- - date_published: 2023-06-22T15:09:33+00:00
-
- ## Does a bear code in the woods?
- - [https://bear.im](https://bear.im)
- - date_published: 2022-11-27T16:17:24+00:00
- - date_dead_since: 2024-12-24T10:53:49.006613+00:00
-
- ## Ben Howdle - Senior Software Consultant
- - [https://benhowdle.im](https://benhowdle.im)
- - date_published: 2024-06-23T08:10:42.438499+00:00
-
- ## Bida – Your friendly neighborhood anarchist server
- - [https://bida.im](https://bida.im)
- - date_published: 2024-06-16T13:22:44+00:00
-
- ## Mastodon Bida.im
- - [https://mastodon.bida.im](https://mastodon.bida.im)
- - date_published: 2024-07-10T07:21:02.211142+00:00
-
- ## Make your polls - Quand
- - [https://quand.bida.im](https://quand.bida.im)
- - date_published: 2024-12-24T10:56:51.859173+00:00
-
- ## Jitsi Meet
- - [https://videocitofono.bida.im](https://videocitofono.bida.im)
- - date_published: 2024-12-24T10:56:50.426766+00:00
-
- ## Birdie
- - [https://birdie.im](https://birdie.im)
- - date_published: 2017-10-07T01:52:55+00:00
-
- ## Benign Brown Beast
- - [https://beast.blot.im](https://beast.blot.im)
- - date_published: 2024-12-15T12:07:36.501678+00:00
-
- ## Ben Callahan, Design System Coach and Founder of Sparkbox
- - [https://bencallahancom.blot.im](https://bencallahancom.blot.im)
- - date_published: 2025-01-30T14:40:52.897216+00:00
-
- ## Blot – Turn a folder into a website
- - [https://blot.im](https://blot.im)
- - date_published: 2023-12-29T19:59:39.820777+00:00
-
- ## ¡hola! 🐈 mi nombre es Fernanda Carvajal Gómez 👩🏻‍💻 - cuaderno de composición 🐈
- - [https://cuadernodecomposicion.blot.im](https://cuadernodecomposicion.blot.im)
- - date_published: 2024-08-17T22:26:47.074978+00:00
-
- ## ¡hola! 🐈 mi nombre es Fernanda Carvajal Gómez 👩🏻‍💻 - Fernanda Carvajal Gómez 🐈
- - [https://fernandacarvajal.blot.im](https://fernandacarvajal.blot.im)
- - date_published: 2024-01-31T18:44:43.210925+00:00
-
- ## Lachlan Gray
- - [https://lachlangray.blot.im](https://lachlangray.blot.im)
- - date_published: 2023-10-25T19:29:36.419354+00:00
-
- ## Line Variation
- - [https://linevariation.blot.im](https://linevariation.blot.im)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Luke Gearing
- - [https://lukegearing.blot.im](https://lukegearing.blot.im)
- - date_published: 2024-12-19T11:41:12.027378+00:00
-
- ## Mazmorra’s blog
- - [https://mazmorra.blot.im](https://mazmorra.blot.im)
- - date_published: 2024-09-14T22:36:46.584390+00:00
-
- ## Opposite Invictus
- - [https://oppositeinvictus.blot.im](https://oppositeinvictus.blot.im)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Ron Bronson
- - [https://ronbronson.blot.im](https://ronbronson.blot.im)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## sachagoat
- - [https://sachagoat.blot.im](https://sachagoat.blot.im)
- - date_published: 2024-12-19T11:38:17.237348+00:00
-
- ## Failure Tolerated
- - [https://seanmccoy.blot.im](https://seanmccoy.blot.im)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## C.IM
- - [https://c.im](https://c.im)
- - date_published: 2024-05-06T23:48:37.744833+00:00
-
- ## C.IM Status
- - [https://status.c.im](https://status.c.im)
- - date_published: 2024-06-28T20:40:40.146673+00:00
-
- ## Hello.
- - [https://cbox.im](https://cbox.im)
- - date_published: 2016-05-27T13:41:20+00:00
-
- ## Introd. | I Am Lux.
- - [https://cherub.im](https://cherub.im)
- - date_published: 2024-06-01T00:45:16+00:00
-
- ## SearXNG
- - [https://search.cherub.im](https://search.cherub.im)
- - date_published: 2024-09-14T09:44:40.320039+00:00
-
- ## Chitchatter
- - [https://chitchatter.im](https://chitchatter.im)
- - date_published: 2023-10-25T19:29:37.689121+00:00
-
- ## 长毛象中文站
- - [https://m.cmx.im](https://m.cmx.im)
- - date_published: 2024-08-18T03:26:57.104028+00:00
-
- ## Attention Required! | Cloudflare
- - [https://commonwealth.im](https://commonwealth.im)
- - date_published: 2024-07-15T11:14:09.941735+00:00
-
- ## Your account on conversations.im
- - [https://account.conversations.im](https://account.conversations.im)
- - date_published: 2024-09-02T15:59:28.912849+00:00
-
- ## Server overview · XMPP Compliance Tester
- - [https://compliance.conversations.im](https://compliance.conversations.im)
- - date_published: 2024-07-13T02:12:30.738399+00:00
-
- ## Conversations - Jabber/XMPP client for Android
- - [https://conversations.im](https://conversations.im)
- - date_published: 2024-05-28T16:34:38.622086+00:00
- - tags: ['social communicator']
-
- ## Crafters.im :: Community super-app for handmade arts and crafts. ::
- - [https://crafters.im](https://crafters.im)
- - date_published: 2024-07-13T05:16:29.849728+00:00
-
- ## Creep.im
- - [https://creep.im](https://creep.im)
- - date_published: 2024-01-06T15:20:14+00:00
-
- ## Dino. Communicating happiness.
- - [https://dino.im](https://dino.im)
- - date_published: 2023-10-25T19:29:39.810980+00:00
-
- ## Flame
- - [https://dash.dvr.im](https://dash.dvr.im)
- - date_published: 2023-07-23T12:23:55+00:00
-
- ## EarlyBird Changelog
- - [https://changelog.earlybird.im](https://changelog.earlybird.im)
- - date_published: 2024-12-24T11:03:00.429719+00:00
-
- ## EarlyBird: Your landing page builder for effective lead capture
- - [https://earlybird.im](https://earlybird.im)
- - date_published: 2024-06-26T13:49:37.210342+00:00
-
- ## EarlyBird Help Center | All things related to EarlyBird - processes, best practices, setup guides, and more!
- - [https://help.earlybird.im](https://help.earlybird.im)
- - date_published: 2024-12-23T11:47:46+00:00
-
- ## ejabberd XMPP Server with MQTT Broker & SIP Service
- - [https://ejabberd.im](https://ejabberd.im)
- - date_published: 2024-10-25T13:22:29+00:00
-
- ## Elie Bursztein | Google & DeepMind AI Cybersecurity technical and research lead
- - [https://elie.im](https://elie.im)
- - date_published: 2024-06-23T16:38:41.916043+00:00
-
- ## Embed.im
- - [https://embed.im](https://embed.im)
- - date_published: 2023-10-25T19:29:47.571380+00:00
-
- ## Webentwicklung und mehr von Ephraim Härer - ephra.im
- - [https://ephra.im](https://ephra.im)
- - date_published: 2022-12-15T00:00:00+00:00
-
- ## Favicon.im: Instant Website Favicon Fetcher
- - [https://favicon.im](https://favicon.im)
- - date_published: 2025-01-09T16:21:03.404801+00:00
-
- ## frantic.im / frantic.im
- - [https://frantic.im](https://frantic.im)
- - date_published: 2023-10-25T19:29:49.742667+00:00
-
- ## Umami
- - [http://u.frantic.im](http://u.frantic.im)
- - date_published: 2024-08-19T03:21:03.261753+00:00
-
- ## fst.im
- - [http://fst.im](http://fst.im)
- - date_published: 2024-12-31T13:24:14.063125+00:00
-
- ## Gap Messenger
- - [https://gap.im](https://gap.im)
- - date_published: 2024-08-18T06:21:01.966925+00:00
-
- ## Gap Business & Developer Center
- - [https://my.gap.im](https://my.gap.im)
- - date_published: 2024-12-24T11:03:32.520856+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://arena-cdn-g.eu.getarena.im](https://arena-cdn-g.eu.getarena.im)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Element
- - [https://app.gitter.im](https://app.gitter.im)
- - date_published: 2024-05-10T04:00:29.266234+00:00
-
- ## Gitter
- - [https://blog.gitter.im](https://blog.gitter.im)
- - date_published: 2024-05-10T04:00:31.234373+00:00
-
- ## Gitter — Where developers come to talk.
- - [https://gitter.im](https://gitter.im)
- - date_published: 2023-09-28T07:43:46+00:00
-
- ## Deciphering Glyph ::
-        index
- - [https://blog.glyph.im](https://blog.glyph.im)
- - date_published: 2023-10-25T19:29:54.630525+00:00
-
- ## Deciphering Glyph ::
-        index
- - [https://glyph.im](https://glyph.im)
- - date_published: 2024-12-04T03:44:23+00:00
-
- ## Google
- - [https://google.im](https://google.im)
- - date_published: 2024-06-21T22:25:31.411403+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.im](https://maps.google.im)
- - date_published: 2024-07-20T07:40:08.525739+00:00
-
- ## Blog
- - [https://blog.honeypot.im](https://blog.honeypot.im)
- - date_published: 2023-11-24T02:12:18+00:00
-
- ## hooks.im
- - [https://hooks.im](https://hooks.im)
- - date_published: 2024-09-02T09:52:02.602865+00:00
-
- ## HTTP.IM
- - [https://http.im](https://http.im)
- - date_published: 2024-12-12T18:09:03.228951+00:00
-
- ## Not Found | Shlink
- - [https://hybe.im](https://hybe.im)
- - date_published: 2024-03-21T18:22:56.578089+00:00
- - date_dead_since: 2024-12-24T11:08:31.528100+00:00
-
- ## ibrahim ARACI - WordPress Developer
- - [https://ibrah.im](https://ibrah.im)
- - date_published: 2022-10-21T20:55:43+00:00
-
- ## imKey Hardware Wallet Official Store | A secure digital assets self-custody solution
- - [https://imkey.im](https://imkey.im)
- - date_published: 2024-12-24T11:10:26.696368+00:00
-
- ## imKey Hardware Wallet Official Store | A secure digital assets self-custody solution
- - [https://store.imkey.im](https://store.imkey.im)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## 陈仓颉 – 以有涯随无涯
- - [https://imzm.im](https://imzm.im)
- - date_published: 2024-08-18T03:26:36.186199+00:00
-
- ## 仿生猫不会梦见电子猫粮 — To make each day count.
- - [https://wiki.imzm.im](https://wiki.imzm.im)
- - date_published: 2024-05-26T00:00:00+00:00
- - date_dead_since: 2024-12-24T11:13:25.825226+00:00
-
- ## Informator
- - [https://inf.im](https://inf.im)
- - date_published: 2024-06-17T17:12:56.030235+00:00
-
- ## IPOL Journal · Image Processing On Line
- - [https://ipol.im](https://ipol.im)
- - date_published: 2024-06-22T08:20:14+00:00
-
- ## Jason Grim's Profile Site
- - [https://jasongr.im](https://jasongr.im)
- - date_published: 2024-02-15T04:26:39+00:00
-
- ## Home
- - [https://jikt.im](https://jikt.im)
- - date_published: 2024-08-28T04:10:12+00:00
-
- ## in Code
- - [https://blog.jle.im](https://blog.jle.im)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## Justin Lê
- - [https://cv.jle.im](https://cv.jle.im)
- - date_published: 2022-05-02T21:07:14+00:00
-
- ## mutable - Home
- - [https://mutable.jle.im](https://mutable.jle.im)
- - date_published: 2020-07-06T04:25:23+00:00
-
- ## Talks
- - [http://talks.jle.im](http://talks.jle.im)
- - date_published: 2021-04-06T05:58:29+00:00
-
- ## Joaquim de Souza
- - [https://joaqu.im](https://joaqu.im)
- - date_published: 2022-10-25T13:56:54+00:00
-
- ## Joern Bargmann – Front End Web Dev – Balerna, Switzerland
- - [https://joern.im](https://joern.im)
- - date_published: 2024-07-10T04:10:09+00:00
-
- ## johan.im
- - [https://johan.im](https://johan.im)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Repositories
- - [https://git.jordan.im](https://git.jordan.im)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Jordan Savoca
- - [https://jordan.im](https://jordan.im)
- - date_published: 2024-05-09T06:11:38.460455+00:00
-
- ## 稀土掘金
- - [https://juejin.im](https://juejin.im)
- - date_published: 2024-05-06T13:44:32.151378+00:00
-
- ## 蓝星梦寻 — 一杯咖啡交换宇宙能量
- - [https://coffee.kaffa.im](https://coffee.kaffa.im)
- - date_published: 2024-08-18T07:01:50.127475+00:00
-
- ## Kaffa.im
- - [https://kaffa.im](https://kaffa.im)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## KATO: Services for Online Casinos ohne Anmeldung
- - [https://kato.im](https://kato.im)
- - date_published: 2021-12-08T00:00:00+00:00
-
- ## Kent C. Dodds
- - [https://kcd.im](https://kcd.im)
- - date_published: 2024-12-22T19:52:34.704790+00:00
-
- ## The Keanu Engine – Secure communications for your communities
- - [https://keanu.im](https://keanu.im)
- - date_published: 2023-11-16T16:28:22+00:00
-
- ## Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com
- - [https://kmp.im](https://kmp.im)
- - date_published: 2025-02-03T20:58:41.717974+00:00
-
- ## Lambda
- - [https://lambda.im](https://lambda.im)
- - date_published: 2024-06-26T03:14:20+00:00
-
- ## Lambda Chain Mainnet blockchain explorer | Blockscout
- - [https://scan.lambda.im](https://scan.lambda.im)
- - date_published: 2024-09-24T04:14:09.232670+00:00
-
- ## Lambda Chain Testnet blockchain explorer | Blockscout
- - [https://testscan.lambda.im](https://testscan.lambda.im)
- - date_published: 2024-09-24T03:01:32.367103+00:00
-
- ## Convene - Chat for everyone
- - [https://letsconvene.im](https://letsconvene.im)
- - date_published: 2023-12-05T14:03:25+00:00
-
- ## Maarten Afink
- - [https://maarten.im](https://maarten.im)
- - date_published: 2024-05-07T23:14:17.896022+00:00
-
- ## MAKA设计_免费H5页面制作,电子婚礼请帖制作,海量免费设计模板,电子邀请函模板,微信营销,h5制作,微场景和模板素材设计分享平台
- - [http://maka.im](http://maka.im)
- - date_published: 2025-01-09T11:41:29.353902+00:00
-
- ## 文状元官网 - AI写材料，就用文状元！
- - [https://wenzy.maka.im](https://wenzy.maka.im)
- - date_published: 2025-01-22T21:45:58.026927+00:00
-
- ## Elements of cross-cultural research
- - [https://maks.im](https://maks.im)
- - date_published: 2024-07-13T04:16:20.908063+00:00
- - date_dead_since: 2024-12-24T11:30:22.151161+00:00
-
- ## MapleStory Simulator
- - [https://maples.im](https://maples.im)
- - date_published: 2020-07-03T06:30:15+00:00
-
- ## Mesh | A secure, anonymous, peer-to-peer, instant messenger!
- - [https://mesh.im](https://mesh.im)
- - date_published: 2022-10-31T09:01:47+00:00
-
- ## metajack.im - blog
- - [https://metajack.im](https://metajack.im)
- - date_published: 2019-01-24T22:23:11+00:00
-
- ## Metronome IM – Aria Network
- - [https://metronome.im](https://metronome.im)
- - date_published: 2024-06-19T22:22:27.933363+00:00
-
- ## MIDNIGHT - лучшие игровые решения для CS 2, GTA V, CS 1.6
- - [https://midnight.im](https://midnight.im)
- - date_published: 2025-01-08T15:47:24+00:00
-
- ## Element
- - [https://gnome.modular.im](https://gnome.modular.im)
- - date_published: 2024-07-08T12:50:02+00:00
-
- ## UK Home | Daily Mail Online
- - [https://mol.im](https://mol.im)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Molly
- - [https://molly.im](https://molly.im)
- - date_published: 2025-01-31T17:29:17.071627+00:00
-
- ## 0x40
- - [https://0x40.mon.im](https://0x40.mon.im)
- - date_published: 2023-02-10T12:39:21+00:00
-
- ## Monica - Your ChatGPT AI Assistant for Anywhere
- - [https://monica.im](https://monica.im)
- - date_published: 2024-05-15T02:44:36.566148+00:00
-
- ## Monica API Platform
- - [https://platform.monica.im](https://platform.monica.im)
- - date_published: 2024-12-24T11:48:10.809715+00:00
-
- ## Roast Master - The Ultimate AI Roast Generator for Instagram, TikTok, Facebook, Twitter, Threads and LinkedIn
- - [https://roast.monica.im](https://roast.monica.im)
- - date_published: 2024-12-24T11:47:58.181040+00:00
-
- ## Mooshim Engineering
- - [https://moosh.im](https://moosh.im)
- - date_published: 2023-10-25T19:29:57.502606+00:00
-
- ## Login
- - [https://mov.im](https://mov.im)
- - date_published: 2024-12-12T22:52:27.977159+00:00
-
- ## muenster.im
- - [https://muenster.im](https://muenster.im)
- - date_published: 2024-08-08T18:52:55.343792+00:00
-
- ## Nadim Hussain - Product Designer
- - [https://nad.im](https://nad.im)
- - date_published: 2023-07-05T00:00:00+00:00
-
- ## Satellite Constellations - NewSpace Index
- - [https://newspace.im](https://newspace.im)
- - date_published: 2024-05-02T14:01:16.465673+00:00
-
- ## ObjFW: Documentation
- - [https://objfw.nil.im](https://objfw.nil.im)
- - date_published: 2023-10-25T19:29:58.635208+00:00
-
- ## Jordy Noll: Freelance Sr. SEO Specialist
- - [https://noll.im](https://noll.im)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## npm | Home
- - [https://npm.im](https://npm.im)
- - date_published: 2024-04-28T02:51:51.075062+00:00
-
- ## Frank's Weblog
- - [https://nyan.im](https://nyan.im)
- - date_published: 2024-08-18T06:37:03+00:00
-
- ## Oscar Marion - Javascript engineer in Stockholm
- - [https://osr.im](https://osr.im)
- - date_published: 2024-07-27T00:00:00+00:00
-
- ## Umami
- - [https://umami.osr.im](https://umami.osr.im)
- - date_published: 2024-09-04T10:53:17.015110+00:00
-
- ## Phoenix R&D
- - [https://blog.phnx.im](https://blog.phnx.im)
- - date_published: 2023-10-25T19:29:59.443505+00:00
-
- ## Phoenix R&D
- - [https://phnx.im](https://phnx.im)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Pidgin
- - [https://developer.pidgin.im](https://developer.pidgin.im)
- - date_published: 2024-02-02T11:09:42+00:00
-
- ## Pidgin, the universal chat client
- - [https://old.pidgin.im](https://old.pidgin.im)
- - date_published: 2024-04-28T00:24:30.810134+00:00
-
- ## Pidgin
- - [https://pidgin.im](https://pidgin.im)
- - date_published: 2024-02-23T00:00:00+00:00
- - tags: ['desktop program', 'open source', 'social communicator', 'chat']
-
- ## Blog
- - [https://planet.pidgin.im](https://planet.pidgin.im)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## /dev/ by Massimiliano Pippi
- - [https://dev.pippi.im](https://dev.pippi.im)
- - date_published: 2023-12-17T21:00:08.320449+00:00
- - tags: ['personal']
-
- ## Projects.im :: Premium community super-apps. ::
- - [https://projects.im](https://projects.im)
- - date_published: 2024-07-13T05:16:30.946636+00:00
-
- ## Prosodical Thoughts
- - [https://blog.prosody.im](https://blog.prosody.im)
- - date_published: 2023-10-25T19:30:00.308281+00:00
-
- ## Source repositories - Prosody IM
- - [https://hg.prosody.im](https://hg.prosody.im)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Prosody Community Modules
- - [https://modules.prosody.im](https://modules.prosody.im)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Welcome – Prosody IM
- - [https://prosody.im](https://prosody.im)
- - date_published: 2024-04-28T00:24:43.882094+00:00
-
- ## Welcome – Prosody IM
- - [https://pubsub.prosody.im](https://pubsub.prosody.im)
- - date_published: 2024-08-19T03:20:51.041143+00:00
-
- ## Qasim Iqbal
- - [https://qas.im](https://qas.im)
- - date_published: 2020-12-26T00:00:00+00:00
-
- ## Quicksy
- - [https://quicksy.im](https://quicksy.im)
- - date_published: 2024-05-28T16:34:47.434815+00:00
-
- ## Best Hotel chatbot - AI & Big Data in hospitality | Quicktext
- - [https://quicktext.im](https://quicktext.im)
- - date_published: 2024-10-18T05:32:30.309781+00:00
-
- ## Rahim Packir Saibo
- - [https://rah.im](https://rah.im)
- - date_published: 2024-07-13T04:11:32.112979+00:00
-
- ## Benjamin Réthoré
- - [https://ben.rethore.im](https://ben.rethore.im)
- - date_published: 2024-07-13T15:31:33.941576+00:00
-
- ## RIME | 中州韻輸入法引擎
- - [https://rime.im](https://rime.im)
- - date_published: 2024-07-30T03:48:46+00:00
-
- ## Element | Secure collaboration and messaging
- - [https://riot.im](https://riot.im)
- - date_published: 2024-05-07T16:30:52.886479+00:00
-
- ## Rockers.im :: Community super-app for Rock & Metal Music bands, fans & businesses. ::
- - [https://rockers.im](https://rockers.im)
- - date_published: 2024-07-13T05:16:39.064055+00:00
-
- ## Play Online Roulette - for Free or Real Money  | Roulette 77 | Mannin, Ellan Vannin
- - [https://roulette77.im](https://roulette77.im)
- - date_published: 2025-01-16T14:32:03.171480+00:00
-
- ## Antoine Rousseau
- - [https://antoine.rousseau.im](https://antoine.rousseau.im)
- - date_published: 2024-07-08T11:00:01.440017+00:00
-
- ## scr.im
- - [http://scr.im](http://scr.im)
- - date_published: 2024-06-01T06:03:22.502534+00:00
-
- ## Home - Steve Della Valentina
- - [https://sdv.im](https://sdv.im)
- - date_published: 2024-05-11T10:21:06.583876+00:00
-
- ## Seraphim
- - [https://seraph.im](https://seraph.im)
- - date_published: 2024-05-22T20:08:35+00:00
-
- ## 恭喜，站点创建成功！
- - [https://shanghainese.im](https://shanghainese.im)
- - date_published: 2023-12-18T09:14:17+00:00
-
- ## Simone Margio
- - [https://simonemargio.im](https://simonemargio.im)
- - date_published: 2024-05-09T08:23:56.865697+00:00
-
- ## Siskin IM
- - [https://siskin.im](https://siskin.im)
- - date_published: 2024-01-19T11:20:47+00:00
-
- ## Sébastien Lorber
- - [https://slo.im](https://slo.im)
- - date_published: 2024-07-07T02:58:39.463818+00:00
-
- ## Small.im – A free tool to compress and convert JPEG, PNG, WEBP, AVIF, SVG and GIF images
- - [https://small.im](https://small.im)
- - date_published: 2024-11-14T20:30:13+00:00
-
- ## soju IRC bouncer
- - [https://soju.im](https://soju.im)
- - date_published: 2024-07-04T19:32:25+00:00
-
- ## Spectrum 2
- - [https://spectrum.im](https://spectrum.im)
- - date_published: 2024-05-16T22:00:38+00:00
-
- ## talk with humans - sqwok
- - [https://sqwok.im](https://sqwok.im)
- - date_published: 2024-04-09T20:07:53.679860+00:00
- - tags: ['social platform', 'link aggregator']
-
- ## Status - Make the jump to web3
- - [https://our.status.im](https://our.status.im)
- - date_published: 2024-07-14T21:48:11.455279+00:00
-
- ## Status - Make the jump to web3
- - [https://status.im](https://status.im)
- - date_published: 2024-06-26T13:55:56.096997+00:00
-
- ## The Stoic Mind
- - [https://stoic.im](https://stoic.im)
- - date_published: 2024-04-27T08:05:05.968420+00:00
-
- ## Peter Saint-Andre
- - [https://stpeter.im](https://stpeter.im)
- - date_published: 2023-11-15T17:36:31.286138+00:00
- - tags: ['blog', 'personal']
-
- ## StrikeOut - NFL, NBA, NHL, MLB, MMA Sports HD Streams | Strikeout
- - [https://strikeout.im](https://strikeout.im)
- - date_published: 2024-11-12T17:23:17.496363+00:00
-
- ## Summit
- - [https://blog.summit.im](https://blog.summit.im)
- - date_published: 2024-12-24T12:02:16.675366+00:00
-
- ## Summit Knowledge Base
- - [https://help.summit.im](https://help.summit.im)
- - date_published: 2024-12-24T12:02:26.062423+00:00
-
- ## Summit: AI Life Coach
- - [https://my.summit.im](https://my.summit.im)
- - date_published: 2024-12-21T02:57:12+00:00
-
- ## Summit: AI Life Coach
- - [https://summit.im](https://summit.im)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Instant Messaging Telegram Button Widget (unofficial service)
- - [https://telegram.im](https://telegram.im)
- - date_published: 2024-07-12T02:29:43.401289+00:00
-
- ## imToken Careers
- - [https://careers.token.im](https://careers.token.im)
- - date_published: 2024-09-23T13:51:01.948350+00:00
-
- ## imToken API Documentation
- - [https://docs.token.im](https://docs.token.im)
- - date_published: 2024-04-23T02:41:00+00:00
-
- ## imToken - Ethereum Wallet, Bitcoin Wallet - Help Center
- - [http://support.token.im](http://support.token.im)
- - date_published: 2024-09-23T13:51:08.137704+00:00
-
- ## imToken | Ethereum & Bitcoin Wallet
- - [http://token.im](http://token.im)
- - date_published: 2024-06-16T03:59:44.968633+00:00
-
- ## Tokenlon Protocol |  Decentralized trading at the best prices and experience
- - [https://tokenlon.im](https://tokenlon.im)
- - date_published: 2024-12-24T01:10:21.892920+00:00
-
- ## The Fomu family. | I’m Tomu - A tiny ARM microprocessor which fits in your USB port.
- - [https://tomu.im](https://tomu.im)
- - date_published: 2021-11-26T13:50:35+00:00
-
- ## Toootim
- - [https://tooot.im](https://tooot.im)
- - date_published: 2024-07-04T08:25:26.472846+00:00
-
- ## 토스
- - [https://toss.im](https://toss.im)
- - date_published: 2024-08-06T15:01:49+00:00
-
- ## Tower - ONES 旗下团队协作工具
- - [https://tower.im](https://tower.im)
- - date_published: 2024-07-02T17:58:32.972671+00:00
-
- ## Game Servers Monitoring CS, Minecraft, HL, TF, L4D, Garry's Mod, ARMA, Rust, ARK, CoD, 7DTD and GTA
- - [https://tsar.im](https://tsar.im)
- - date_published: 2024-06-18T06:58:39.358975+00:00
-
- ## Una Kravets Online
- - [https://una.im](https://una.im)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## VATS.IM URL Shortener
- - [https://vats.im](https://vats.im)
- - date_published: 2024-05-09T07:20:52.420939+00:00
-
- ## Element Secure Messenger | About
- - [https://vector.im](https://vector.im)
- - date_published: 2024-07-15T11:15:04.799070+00:00
-
- ## VIP League Free Sports Streaming & Schedule Online - VIPLeague
- - [https://vipleague.im](https://vipleague.im)
- - date_published: 2024-11-12T17:31:07.818287+00:00
-
- ## Server List
- - [https://volt.im](https://volt.im)
- - date_published: 2024-05-06T14:46:16.806646+00:00
-
- ## Wojtek Witkowski
- - [https://v1.wojtek.im](https://v1.wojtek.im)
- - date_published: 2024-12-24T12:09:09.678559+00:00
-
- ## Wojtek Witkowski
- - [https://wojtek.im](https://wojtek.im)
- - date_published: 2024-09-14T23:26:14.973665+00:00
-
- ## yaxim · yax.im - yaxim
- - [https://yax.im](https://yax.im)
- - date_published: 2024-02-29T17:21:57+00:00
- - tags: ['instant messenger']
-
- ## The Musings of Yefim Vedernikoff
- - [https://yef.im](https://yef.im)
- - date_published: 2024-07-13T04:04:07.316896+00:00
-
- ## 游密 - 实时通讯云 - 音视频直播互动服务
- - [https://youme.im](https://youme.im)
- - date_published: 2024-12-25T14:38:55.405285+00:00
-
- ## Yuhao Zhang | about
- - [https://yuhao.im](https://yuhao.im)
- - date_published: 2024-10-01T18:21:35+00:00
-
- ## Zane Taylor // Creative Web Engineer
- - [https://zane.im](https://zane.im)
- - date_published: 2024-05-07T23:16:31.862851+00:00
-
- ## Zero Width Shortener
- - [https://zws.im](https://zws.im)
- - date_published: 2025-01-23T15:14:45.562674+00:00
-
- ## Bellman l Logiciel de syndic et gérance qui rend vos équipes plus efficaces.
- - [https://bellman.immo](https://bellman.immo)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Mon.plan3d.immo
- - [https://mon.plan3d.immo](https://mon.plan3d.immo)
- - date_published: 2024-05-01T02:14:02.505729+00:00
-
- ## ANTHE 2024 - Aakash National Talent Hunt Exam
- - [https://anthe.aakash.ac.in](https://anthe.aakash.ac.in)
- - date_published: 2024-08-17T23:38:36.577740+00:00
-
- ## University of Allahabad
- - [https://allduniv.ac.in](https://allduniv.ac.in)
- - date_published: 2024-09-11T17:52:54.008860+00:00
-
- ## SHIBBOLETH IDENTITY PROVIDER
- - [https://idp.allduniv.ac.in](https://idp.allduniv.ac.in)
- - date_published: 2024-12-24T12:16:21.424227+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.ametuniv.ac.in](https://idp.ametuniv.ac.in)
- - date_published: 2025-02-10T18:56:57.901469+00:00
-
- ## Aligarh Muslim University | AMU
- - [https://amu.ac.in](https://amu.ac.in)
- - date_published: 2024-09-11T17:51:43.651499+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.atmiyauni.ac.in](https://idp.atmiyauni.ac.in)
- - date_published: 2025-02-10T18:11:54.530914+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.aud.ac.in](https://idp.aud.ac.in)
- - date_published: 2025-02-10T20:35:19.023850+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.avinuty.ac.in](https://idp.avinuty.ac.in)
- - date_published: 2025-02-10T21:29:35.148860+00:00
-
- ## bbau.ac.in, BABASAHEB BHIMRAO AMBEDKAR UNIVERSITY, A Central University
- - [https://bbau.ac.in](https://bbau.ac.in)
- - date_published: 2024-09-11T18:01:46.131248+00:00
-
- ## INFED - Shibboleth Identity Provider, GBL, BBAU, Lucknow - 25
- - [https://idb.bbau.ac.in](https://idb.bbau.ac.in)
- - date_published: 2025-02-10T21:23:09.966978+00:00
-
- ## SHIBBOLETH IDENTITY PROVIDER
- - [https://idp.bdu.ac.in](https://idp.bdu.ac.in)
- - date_published: 2025-02-10T12:28:59.560235+00:00
-
- ## Convocation 2024
- - [https://convocation.bits-goa.ac.in](https://convocation.bits-goa.ac.in)
- - date_published: 2024-08-11T11:38:02.284032+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.bits-goa.ac.in](https://idp.bits-goa.ac.in)
- - date_published: 2025-02-10T09:48:39.734582+00:00
-
- ## SWD BITS Pilani KK Birla Goa Campus
- - [https://swd.bits-goa.ac.in](https://swd.bits-goa.ac.in)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.bits-hyderabad.ac.in](https://idp.bits-hyderabad.ac.in)
- - date_published: 2025-02-10T09:32:55.122528+00:00
-
- ## BITS International Students Admissions
- - [http://sites.bits-hyderabad.ac.in](http://sites.bits-hyderabad.ac.in)
- - date_published: 2024-08-11T11:37:28.634430+00:00
-
- ## Birla Institute of Technology And Science, Pilani (BITS Pilani)
- - [https://bits-pilani.ac.in](https://bits-pilani.ac.in)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Home : Convocation 2024
- - [https://convocation.bits-pilani.ac.in](https://convocation.bits-pilani.ac.in)
- - date_published: 2024-08-11T11:38:16.934985+00:00
-
- ## Home | ERP Home Page - BITS Pilani
- - [https://erp.bits-pilani.ac.in](https://erp.bits-pilani.ac.in)
- - date_published: 2024-03-17T04:56:45+00:00
-
- ## SWD-BITS Pilani
- - [https://swd.bits-pilani.ac.in](https://swd.bits-pilani.ac.in)
- - date_published: 2024-08-11T11:37:31.817205+00:00
-
- ## Hostel Allocation Portal
- - [https://swdservices.bits-pilani.ac.in](https://swdservices.bits-pilani.ac.in)
- - date_published: 2024-12-24T12:36:13.302590+00:00
-
- ## Birla Institute of Technology and Science, Pilani (BITS Pilani)
- - [https://web.bits-pilani.ac.in](https://web.bits-pilani.ac.in)
- - date_published: 2024-08-11T11:37:17.920083+00:00
-
- ## Be an Unstoppable professional
- - [https://bits-pilani-wilp.ac.in](https://bits-pilani-wilp.ac.in)
- - date_published: 2024-08-11T11:37:40.412108+00:00
-
- ## CERI
- - [https://ceri.bits-pilani-wilp.ac.in](https://ceri.bits-pilani-wilp.ac.in)
- - date_published: 2024-12-24T12:38:02.407293+00:00
-
- ## Home
- - [https://cil.bits-pilani-wilp.ac.in](https://cil.bits-pilani-wilp.ac.in)
- - date_published: 2024-12-24T12:38:00.476328+00:00
-
- ## Home
- - [https://cwild.bits-pilani-wilp.ac.in](https://cwild.bits-pilani-wilp.ac.in)
- - date_published: 2024-12-24T12:39:07.254432+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.brabu.ac.in](https://idp.brabu.ac.in)
- - date_published: 2025-02-10T15:24:33.185880+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.b-u.ac.in](https://idp.b-u.ac.in)
- - date_published: 2025-02-10T09:00:50.065293+00:00
-
- ## CEPT University: Admissions & Entrance Exams
- - [https://admissions.cept.ac.in](https://admissions.cept.ac.in)
- - date_published: 2024-12-24T12:41:29.246963+00:00
-
- ## CEPT University
- - [https://cept.ac.in](https://cept.ac.in)
- - date_published: 2024-10-11T12:20:48.776312+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.cept.ac.in](https://idp.cept.ac.in)
- - date_published: 2025-02-10T15:26:04.786674+00:00
-
- ## CEPT | Summer Winter School
- - [http://sws.cept.ac.in](http://sws.cept.ac.in)
- - date_published: 2024-12-24T12:41:31.989011+00:00
-
- ## Admission CIT Kokrajhar | Admission 2022-2023
- - [https://admission.cit.ac.in](https://admission.cit.ac.in)
- - date_published: 2024-12-24T12:42:06.689127+00:00
-
- ## Central Institute of Technology Kokrajhar |
- - [https://cit.ac.in](https://cit.ac.in)
- - date_published: 2024-10-21T21:34:45.757816+00:00
-
- ## CITK Convocation 2024
- - [http://convocation.cit.ac.in](http://convocation.cit.ac.in)
- - date_published: 2024-12-24T12:41:58.989392+00:00
-
- ## DevCom
- - [http://devcom.cit.ac.in](http://devcom.cit.ac.in)
- - date_published: 2023-02-14T18:21:48+00:00
-
- ## Central Institute of Technology Kokrajhar |
- - [https://old.cit.ac.in](https://old.cit.ac.in)
- - date_published: 2024-12-24T12:41:52.067932+00:00
-
- ## Placement Cell CITK
- - [https://placements.cit.ac.in](https://placements.cit.ac.in)
- - date_published: 2024-10-29T14:46:10+00:00
-
- ## Chennai Mathematical Institute
- - [https://cmi.ac.in](https://cmi.ac.in)
- - date_published: 2024-08-19T17:43:44.816532+00:00
-
- ## Top Business Schools in Bangalore | MBA | CMS Business School
- - [https://bschool.cms.ac.in](https://bschool.cms.ac.in)
- - date_published: 2024-12-24T17:05:15.816853+00:00
-
- ## BBA Colleges in Bangalore | BBA College in India | CMS
- - [https://www.cms.ac.in](https://www.cms.ac.in)
- - date_published: 2024-12-24T17:05:12.360300+00:00
-
- ## Consortium of NLUs
- - [https://consortiumofnlus.ac.in](https://consortiumofnlus.ac.in)
- - date_published: 2024-07-11T09:43:36+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.cottonuniversity.ac.in](https://idp.cottonuniversity.ac.in)
- - date_published: 2025-02-10T16:35:47.774761+00:00
-
- ## Central University of Gujarat (CUG)
- - [https://cug.ac.in](https://cug.ac.in)
- - date_published: 2024-09-11T17:45:31.845383+00:00
-
- ## CUH Admin
- - [https://admin.cuh.ac.in](https://admin.cuh.ac.in)
- - date_published: 2024-12-24T12:47:12.324839+00:00
-
- ## AACUH
- - [https://alumni.cuh.ac.in](https://alumni.cuh.ac.in)
- - date_published: 2024-12-24T12:48:07.279975+00:00
-
- ## Central University of Haryana | CUH | Home
- - [https://cuh.ac.in](https://cuh.ac.in)
- - date_published: 2024-09-11T17:50:30.535503+00:00
-
- ## CUH Payments
- - [https://payment.cuh.ac.in](https://payment.cuh.ac.in)
- - date_published: 2024-12-24T12:47:44.377567+00:00
-
- ## Central University of Himachal Pradesh
- - [https://cuhimachal.ac.in](https://cuhimachal.ac.in)
- - date_published: 2024-09-11T17:52:27.336523+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.cuhimachal.ac.in](https://idp.cuhimachal.ac.in)
- - date_published: 2025-02-10T19:12:13.386756+00:00
-
- ## The Central University of Jharkhand
- - [https://cuj.ac.in](https://cuj.ac.in)
- - date_published: 2024-09-11T17:59:46.175969+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.cujammu.ac.in](https://idp.cujammu.ac.in)
- - date_published: 2025-02-10T06:50:56.992613+00:00
-
- ## Central University of Karnataka
- - [https://cuk.ac.in](https://cuk.ac.in)
- - date_published: 2024-09-09T06:36:43+00:00
-
- ## Central University of Kashmir
- - [https://cukashmir.ac.in](https://cukashmir.ac.in)
- - date_published: 2024-09-06T06:39:46+00:00
-
- ## Central University of Odisha
- - [https://cuo.ac.in](https://cuo.ac.in)
- - date_published: 2024-09-11T18:06:13.507016+00:00
-
- ## Shibboleth Identity Provider | Central University of Odisha
- - [https://idp.cuo.ac.in](https://idp.cuo.ac.in)
- - date_published: 2025-02-10T14:03:47.358830+00:00
-
- ## Home | Central University of Rajasthan
- - [https://curaj.ac.in](https://curaj.ac.in)
- - date_published: 2024-09-11T17:52:20+00:00
-
- ## Sikkim University
- - [https://cus.ac.in](https://cus.ac.in)
- - date_published: 2024-09-11T18:06:58+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.cutm.ac.in](https://idp.cutm.ac.in)
- - date_published: 2025-02-10T13:15:23.043473+00:00
-
- ## Central University of Tamilnadu
- - [https://cutn.ac.in](https://cutn.ac.in)
- - date_published: 2024-09-11T17:51:09.197525+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.cutn.ac.in](https://idp.cutn.ac.in)
- - date_published: 2025-02-10T14:37:51.586160+00:00
-
- ## CUTN Webmail
- - [https://mail.cutn.ac.in](https://mail.cutn.ac.in)
- - date_published: 2024-12-24T12:59:33.953656+00:00
-
- ## Home - DR. B.R. AMBEDKAR NATIONAL LAW UNIVERSITY, SONEPAT
- - [https://www.dbranlu.ac.in](https://www.dbranlu.ac.in)
- - date_published: 2019-02-02T15:11:19+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.dcpune.ac.in](https://idp.dcpune.ac.in)
- - date_published: 2025-02-10T07:59:21.953842+00:00
-
- ## DPGA | Dr. Pillai Global Academy, Gorai
- - [https://dpga.ac.in](https://dpga.ac.in)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## DPGA | Dr. Pillai Global Academy, New Panvel
- - [https://dpgapanvel.ac.in](https://dpgapanvel.ac.in)
- - date_published: 2021-06-12T06:38:34+00:00
-
- ## The Official Alumni Network of Digital University of Kerala
- - [https://alumni.duk.ac.in](https://alumni.duk.ac.in)
- - date_published: 2024-06-26T22:12:26.496602+00:00
-
- ## Home - Digital University Kerala
- - [https://duk.ac.in](https://duk.ac.in)
- - date_published: 2024-05-06T19:58:45.759448+00:00
-
- ## Geospatial Analytics | Digital University Kerala
- - [https://gis.duk.ac.in](https://gis.duk.ac.in)
- - date_published: 2024-12-19T09:06:36+00:00
-
- ## KSAAC-Kerala Security Audit and Assurance Centre
- - [https://ksaac.duk.ac.in](https://ksaac.duk.ac.in)
- - date_published: 2024-06-26T22:11:59.787661+00:00
-
- ## Welcome to Ewing Christian College, Prayagraj. An autonomous constituent college of University of Allahabad. A Christian Minority College of the Church of North India, Diocese of Lucknow.
- - [http://ecc.ac.in](http://ecc.ac.in)
- - date_published: 2024-12-24T12:17:58.058870+00:00
-
- ## EFLU
- - [https://efluniversity.ac.in](https://efluniversity.ac.in)
- - date_published: 2024-09-11T17:52:03.637884+00:00
-
- ## ER&DCI Institute of Technology
- - [http://www.erdciit.ac.in](http://www.erdciit.ac.in)
- - date_published: 2024-12-25T09:41:23.354470+00:00
-
- ## Film and Television Institute of India
- - [https://ftii.ac.in](https://ftii.ac.in)
- - date_published: 2024-08-08T14:13:15.619372+00:00
-
- ## Zimbra Web Client Sign In
- - [https://webmail.ftii.ac.in](https://webmail.ftii.ac.in)
- - date_published: 2024-12-24T13:04:47.032475+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.gbu.ac.in](https://idp.gbu.ac.in)
- - date_published: 2025-02-10T15:56:38.743231+00:00
-
- ## Gujarat National Law University
- - [https://www.gnlu.ac.in](https://www.gnlu.ac.in)
- - date_published: 2024-12-24T12:44:01.704900+00:00
-
- ## Homi Bhabha National Institute
- - [http://www.hbni.ac.in](http://www.hbni.ac.in)
- - date_published: 2024-10-30T05:11:53+00:00
-
- ## Home | Hemvati Nandan Bahuguna Garhwal University
- - [https://hnbgu.ac.in](https://hnbgu.ac.in)
- - date_published: 2024-09-11T17:50:45+00:00
-
- ## Hidayatullah National Law University | HNLU
- - [https://www.hnlu.ac.in](https://www.hnlu.ac.in)
- - date_published: 2021-07-15T00:00:00+00:00
-
- ## Home | Indian Academy of Sciences
- - [https://www.ias.ac.in](https://www.ias.ac.in)
- - date_published: 2024-06-30T09:42:39.229983+00:00
-
- ## Indian Council of Historical Research - Govt of India
- - [http://ichr.ac.in](http://ichr.ac.in)
- - date_published: 2024-09-11T17:51:47.727338+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.igidr.ac.in](https://idp.igidr.ac.in)
- - date_published: 2025-02-10T03:47:48.407337+00:00
-
- ## IGNOU - The People's University
- - [https://ignou.ac.in](https://ignou.ac.in)
- - date_published: 2024-09-11T11:24:20+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.igntu.ac.in](https://idp.igntu.ac.in)
- - date_published: 2025-02-10T14:35:56.835287+00:00
-
- ## IGNTU Amarkantak
- - [https://igntu.ac.in](https://igntu.ac.in)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## The Official Alumni Network of IIIT Hyderabad
- - [https://alumni.iiit.ac.in](https://alumni.iiit.ac.in)
- - date_published: 2024-12-24T13:32:06.556749+00:00
-
- ## - A glimpse into the latest research and happenings at IIIT-Hyderabad
- - [https://blogs.iiit.ac.in](https://blogs.iiit.ac.in)
- - date_published: 2024-12-24T13:31:45.531636+00:00
-
- ## Home - CIE IIITH
- - [https://cie.iiit.ac.in](https://cie.iiit.ac.in)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Home
- - [https://cvit.iiit.ac.in](https://cvit.iiit.ac.in)
- - date_published: 2024-06-22T08:12:53+00:00
-
- ## Index of /
- - [https://faculty.iiit.ac.in](https://faculty.iiit.ac.in)
- - date_published: 2024-06-22T11:30:36.728604+00:00
-
- ## IIIT Hyderabad
- - [https://iiit.ac.in](https://iiit.ac.in)
- - date_published: 2024-06-22T09:04:25.242892+00:00
-
- ## RRC - Home
- - [https://robotics.iiit.ac.in](https://robotics.iiit.ac.in)
- - date_published: 2024-06-17T03:47:49+00:00
-
- ## Aviral
- - [http://aviral.iiita.ac.in](http://aviral.iiita.ac.in)
- - date_published: 2024-12-24T13:36:36.973595+00:00
-
- ## Courses Server - IIITA Remote Learning Portal
- - [https://courses.iiita.ac.in](https://courses.iiita.ac.in)
- - date_published: 2024-12-24T13:38:25+00:00
-
- ## ERP @ IIITA
- - [https://erp.iiita.ac.in](https://erp.iiita.ac.in)
- - date_published: 2024-12-24T13:36:30.960590+00:00
-
- ## Gymkhana IIITA
- - [https://gymkhana.iiita.ac.in](https://gymkhana.iiita.ac.in)
- - date_published: 2024-11-14T12:20:37+00:00
-
- ## IEEE SB IIIT Allahabad
- - [https://ieeesb.iiita.ac.in](https://ieeesb.iiita.ac.in)
- - date_published: 2024-12-24T13:36:22.741800+00:00
-
- ## IEEE SPS UP Chapter
- - [https://ieeespc.iiita.ac.in](https://ieeespc.iiita.ac.in)
- - date_published: 2024-12-24T13:38:29.619868+00:00
-
- ## IIIT-Allahabad
- - [http://iiita.ac.in](http://iiita.ac.in)
- - date_published: 2024-09-11T17:59:16.524993+00:00
-
- ## Department of Management Studies-IIIT-ALLAHABAD
- - [https://mba.iiita.ac.in](https://mba.iiita.ac.in)
- - date_published: 2024-03-06T10:06:06+00:00
-
- ## TPC | IIITA
- - [https://placement.iiita.ac.in](https://placement.iiita.ac.in)
- - date_published: 2024-08-01T14:37:38+00:00
-
- ## TPC | IIITA
- - [https://placements.iiita.ac.in](https://placements.iiita.ac.in)
- - date_published: 2024-08-01T14:37:38+00:00
-
- ## The Official Alumni Network of International Institute of Information Technology Bangalore
- - [https://alumni.iiitb.ac.in](https://alumni.iiitb.ac.in)
- - date_published: 2024-12-24T13:38:45.612333+00:00
-
- ## IIITB CITAPP | Centre for Information Technology and Public Policy
- - [https://citapp.iiitb.ac.in](https://citapp.iiitb.ac.in)
- - date_published: 2024-07-16T20:39:29.243494+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.iiitb.ac.in](https://idp.iiitb.ac.in)
- - date_published: 2025-02-10T12:50:36.538963+00:00
-
- ## International Institute of Information Technology Bangalore
- - [https://iiitb.ac.in](https://iiitb.ac.in)
- - date_published: 2024-10-15T20:56:03.186146+00:00
-
- ## admissions.iiitdm.ac.in is almost here!
- - [http://admissions.iiitdm.ac.in](http://admissions.iiitdm.ac.in)
- - date_published: 2024-12-24T01:32:33+00:00
-
- ## CVIP 2024 | IIITDM
- - [https://cvip2024.iiitdm.ac.in](https://cvip2024.iiitdm.ac.in)
- - date_published: 2024-12-24T13:41:24.812650+00:00
-
- ## IIITDM Kancheepuram
- - [https://iiitdm.ac.in](https://iiitdm.ac.in)
- - date_published: 2024-09-11T18:03:56.753046+00:00
-
- ## old.iiitdm.ac.in is almost here!
- - [http://old.iiitdm.ac.in](http://old.iiitdm.ac.in)
- - date_published: 2024-12-24T01:32:33+00:00
-
- ## Design Discipline PDPM IIITDM Jabalpur, India
- - [http://design.iiitdmj.ac.in](http://design.iiitdmj.ac.in)
- - date_published: 2019-07-24T00:00:00+00:00
-
- ## IIITDM Jabalpur
- - [http://faculty.iiitdmj.ac.in](http://faculty.iiitdmj.ac.in)
- - date_published: 2024-12-24T13:46:17.257452+00:00
-
- ## IIITDM Jabalpur
- - [https://iiitdmj.ac.in](https://iiitdmj.ac.in)
- - date_published: 2024-09-11T18:04:01.522610+00:00
-
- ## PLACEMENT CELL -IIITDM JABALPUR
- - [http://placement.iiitdmj.ac.in](http://placement.iiitdmj.ac.in)
- - date_published: 2024-12-24T13:41:57.824385+00:00
-
- ## INDIAN INSTITUTE OF INFORMATION TECHNOLOGY KURNOOL
- - [http://iiitdmkl.ac.in](http://iiitdmkl.ac.in)
- - date_published: 2024-09-11T18:04:12.908749+00:00
-
- ## IIIT-Guwahati
- - [https://iiitg.ac.in](https://iiitg.ac.in)
- - date_published: 2024-04-30T02:25:46.184515+00:00
-
- ## services.iiitk.ac.in is almost here!
- - [https://services.iiitk.ac.in](https://services.iiitk.ac.in)
- - date_published: 2024-12-24T01:32:25+00:00
-
- ## recruitment.iiitk.ac.in is almost here!
- - [https://www.recruitment.iiitk.ac.in](https://www.recruitment.iiitk.ac.in)
- - date_published: 2024-12-24T01:32:21+00:00
-
- ## Home
- - [https://iiitm.ac.in](https://iiitm.ac.in)
- - date_published: 2024-09-11T17:53:06+00:00
-
- ## Geospatial Data Analytics | KUDSIT
- - [https://gis.iiitmk.ac.in](https://gis.iiitmk.ac.in)
- - date_published: 2024-06-05T15:19:37+00:00
-
- ## IIITMK
- - [https://iiitmk.ac.in](https://iiitmk.ac.in)
- - date_published: 2024-06-26T22:12:19.261547+00:00
- - date_dead_since: 2024-12-24T13:57:45.526045+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.iiitp.ac.in](https://idp.iiitp.ac.in)
- - date_published: 2025-02-10T18:01:15.220101+00:00
-
- ## IIIT Trichy
- - [http://iiitt.ac.in](http://iiitt.ac.in)
- - date_published: 2024-12-23T08:21:13+00:00
-
- ## The Official Alumni Network of Indian Institute of Management, Amritsar
- - [https://alumni.iimamritsar.ac.in](https://alumni.iimamritsar.ac.in)
- - date_published: 2024-12-24T14:02:52.639290+00:00
-
- ## IIM Amritsar
- - [https://application.iimamritsar.ac.in](https://application.iimamritsar.ac.in)
- - date_published: 2024-12-24T14:02:41.851261+00:00
-
- ## IIM Amritsar
- - [https://iimamritsar.ac.in](https://iimamritsar.ac.in)
- - date_published: 2024-09-11T17:52:15.243910+00:00
-
- ## Indian Institute of Management Bodh Gaya
- - [https://iimbg.ac.in](https://iimbg.ac.in)
- - date_published: 2024-09-11T18:04:46.056744+00:00
-
- ## The Official Alumni Network of Indian Institute of Management Calcutta
- - [https://alumniportal.iimcal.ac.in](https://alumniportal.iimcal.ac.in)
- - date_published: 2024-12-24T14:03:49.013163+00:00
-
- ## Home | IIM Calcutta
- - [https://application.iimcal.ac.in](https://application.iimcal.ac.in)
- - date_published: 2024-12-23T13:12:54+00:00
-
- ## Home | IIM Calcutta
- - [https://iimcal.ac.in](https://iimcal.ac.in)
- - date_published: 2024-09-11T17:29:36+00:00
-
- ## The Official Alumni Network of Indian Institute of Management Indore
- - [https://alumniportal.iimidr.ac.in](https://alumniportal.iimidr.ac.in)
- - date_published: 2024-12-24T14:04:04.176202+00:00
-
- ## The Official Alumni Network of Indian Institute of Management Indore Executive Education
- - [https://eealumni.iimidr.ac.in](https://eealumni.iimidr.ac.in)
- - date_published: 2024-12-24T14:04:08.340081+00:00
-
- ## IIM Indore – भारतीय प्रबंध संस्थान इंदौर
- - [https://iimidr.ac.in](https://iimidr.ac.in)
- - date_published: 2024-09-11T17:53:20.424490+00:00
-
- ## Indian Institute of Management Kozhikode - IIMK
- - [https://iimk.ac.in](https://iimk.ac.in)
- - date_published: 2024-09-11T17:53:30.712583+00:00
-
- ## Indian Institute of Management Kashipur
- - [https://iimkashipur.ac.in](https://iimkashipur.ac.in)
- - date_published: 2024-09-11T17:38:34.788658+00:00
-
- ## Welcome to IIM Mumbai
- - [https://erp.iimmumbai.ac.in](https://erp.iimmumbai.ac.in)
- - date_published: 2024-12-24T14:11:31.090724+00:00
-
- ## IIM Mumbai - Indian Institute of Management Mumbai
- - [https://iimmumbai.ac.in](https://iimmumbai.ac.in)
- - date_published: 2024-07-22T18:50:42.321618+00:00
-
- ## IIM Raipur – (Indian Institute of Management Raipur)
- - [https://iimraipur.ac.in](https://iimraipur.ac.in)
- - date_published: 2024-09-11T07:33:55+00:00
-
- ## IIM Rohtak | Indian Institute of Management Rohtak
- - [http://elixir.iimrohtak.ac.in](http://elixir.iimrohtak.ac.in)
- - date_published: 2024-12-24T14:13:36+00:00
-
- ## IIM Rohtak | Indian Institute of Management Rohtak
- - [https://iimrohtak.ac.in](https://iimrohtak.ac.in)
- - date_published: 2024-09-11T17:50:09.750678+00:00
-
- ## Verify Yourself | IIM-Sambalpur Admission Application
- - [https://admission.iimsambalpur.ac.in](https://admission.iimsambalpur.ac.in)
- - date_published: 2024-12-24T14:15:57.989219+00:00
-
- ## Home - Indian Institute Of Management Sambalpur
- - [https://iimsambalpur.ac.in](https://iimsambalpur.ac.in)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Home | IIM Sirmaur | Himachal Pradesh | India
- - [http://www.iimsirmaur.ac.in](http://www.iimsirmaur.ac.in)
- - date_published: 2024-12-24T23:53:56.058980+00:00
-
- ## | IIM Tiruchirappalli
- - [https://iimtrichy.ac.in](https://iimtrichy.ac.in)
- - date_published: 2024-09-11T17:45:14.087047+00:00
-
- ## Home - Learning Resource Centre (LRC)
- - [https://library.iimtrichy.ac.in](https://library.iimtrichy.ac.in)
- - date_published: 2024-12-24T14:17:26.839848+00:00
-
- ## IIMU Business Review
- - [https://businessreview.iimu.ac.in](https://businessreview.iimu.ac.in)
- - date_published: 2024-12-24T14:17:45.120913+00:00
-
- ## Executive Education at IIMU – Choose IIMU For a Transformative Learning Experience.
- - [https://exed.iimu.ac.in](https://exed.iimu.ac.in)
- - date_published: 2024-12-24T14:17:53.925255+00:00
-
- ## idc.iimu.ac.in
- - [https://idc.iimu.ac.in](https://idc.iimu.ac.in)
- - date_published: 2024-12-24T14:17:31.711143+00:00
-
- ## Indian Institute of Management Udaipur
- - [https://iimu.ac.in](https://iimu.ac.in)
- - date_published: 2024-09-11T18:06:27.401619+00:00
-
- ## 8th JAAF - ATP India Symposium | 2025
- - [https://jaafatp2025.iimu.ac.in](https://jaafatp2025.iimu.ac.in)
- - date_published: 2024-12-24T14:17:42.576397+00:00
-
- ## MathSportAsia – Bringing Math into Sports
- - [https://msa.iimu.ac.in](https://msa.iimu.ac.in)
- - date_published: 2024-12-24T14:17:47.438473+00:00
-
- ## The Official Alumni Network of IIMV
- - [https://alumniconnect.iimv.ac.in](https://alumniconnect.iimv.ac.in)
- - date_published: 2024-12-24T14:20:11.934532+00:00
-
- ## :: IIMV - Indian Institute of Management Visakhapatnam ::
- - [https://iimv.ac.in](https://iimv.ac.in)
- - date_published: 2024-09-11T17:57:44.504474+00:00
-
- ## Library: IIMV: Home
- - [https://library.iimv.ac.in](https://library.iimv.ac.in)
- - date_published: 2024-12-24T14:18:20.068086+00:00
-
- ## IIM Visakhapatnam LMS Portal
- - [https://moodle.iimv.ac.in](https://moodle.iimv.ac.in)
- - date_published: 2024-12-24T14:18:30.601950+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.iipe.ac.in](https://idp.iipe.ac.in)
- - date_published: 2025-02-10T08:00:34.853965+00:00
-
- ## Home:
-Department of Computational and Data Sciences-
-Indian Institute of Science, Bangalore
- - [https://cds.iisc.ac.in](https://cds.iisc.ac.in)
- - date_published: 2024-09-13T18:14:39.860530+00:00
-
- ## GATE 2024 | GRADUATE APTITUDE TEST IN ENGINEERING 2024
- - [https://gate2024.iisc.ac.in](https://gate2024.iisc.ac.in)
- - date_published: 2024-06-22T11:40:58.110921+00:00
-
- ## Indian Institute of Science
- - [https://iisc.ac.in](https://iisc.ac.in)
- - date_published: 2024-12-24T14:20:21.888142+00:00
-
- ## Shibboleth Identity Provider
- - [https://libraryidp.iisc.ac.in](https://libraryidp.iisc.ac.in)
- - date_published: 2025-02-10T18:51:55.395586+00:00
-
- ## Aadharshila IISERB
- - [https://aadharshila.iiserb.ac.in](https://aadharshila.iiserb.ac.in)
- - date_published: 2024-12-24T14:21:01.673207+00:00
-
- ## IISERB:Course Content
- - [https://acad.iiserb.ac.in](https://acad.iiserb.ac.in)
- - date_published: 2024-12-24T14:23:32.703135+00:00
-
- ## IISER Bhopal | International Relations
- - [https://dair.iiserb.ac.in](https://dair.iiserb.ac.in)
- - date_published: 2024-12-24T14:23:02.920490+00:00
-
- ## DOSA | IISER Bhopal
- - [https://dosa.iiserb.ac.in](https://dosa.iiserb.ac.in)
- - date_published: 2024-12-24T14:23:28.118750+00:00
-
- ## IISERB EECS
- - [https://eecs.iiserb.ac.in](https://eecs.iiserb.ac.in)
- - date_published: 2024-11-29T12:03:29+00:00
-
- ## IICE
- - [https://iice.iiserb.ac.in](https://iice.iiserb.ac.in)
- - date_published: 2024-12-24T14:22:21.287579+00:00
-
- ## IISER Bhopal | Home
- - [https://iiserb.ac.in](https://iiserb.ac.in)
- - date_published: 2024-09-11T17:51:51.619223+00:00
-
- ## IISERB- R & D
- - [https://research.iiserb.ac.in](https://research.iiserb.ac.in)
- - date_published: 2024-12-24T14:23:30.128566+00:00
-
- ## MML
- - [https://skonargroup.iiserb.ac.in](https://skonargroup.iiserb.ac.in)
- - date_published: 2024-12-24T14:23:12.440637+00:00
-
- ## Home
- - [https://sshuklagroup.iiserb.ac.in](https://sshuklagroup.iiserb.ac.in)
- - date_published: 2024-12-24T14:20:39.252961+00:00
-
- ## SAC, IISER BHOPAL
- - [https://students.iiserb.ac.in](https://students.iiserb.ac.in)
- - date_published: 2024-12-16T20:33:37+00:00
-
- ## The Official Alumni Network of Indian Institute of Science Education and Research Bhopal
- - [https://www.alumni.iiserb.ac.in](https://www.alumni.iiserb.ac.in)
- - date_published: 2024-12-24T14:20:42.795429+00:00
-
- ## IISER Kolkata - Home
- - [http://iiserkol.ac.in](http://iiserkol.ac.in)
- - date_published: 2021-06-15T06:26:02+00:00
-
- ## Home - IISER Mohali
- - [https://iisermohali.ac.in](https://iisermohali.ac.in)
- - date_published: 2024-09-11T17:59:14+00:00
-
- ## Dean Of Academic Affairs | IISER TVM
- - [https://academics.iisertvm.ac.in](https://academics.iisertvm.ac.in)
- - date_published: 2024-12-24T14:23:47.887785+00:00
-
- ## School of Biology | IISER TVM
- - [http://biology.iisertvm.ac.in](http://biology.iisertvm.ac.in)
- - date_published: 2024-12-24T14:24:02.584128+00:00
-
- ## CAMRIE | IISER TVM
- - [https://camrie.iisertvm.ac.in](https://camrie.iisertvm.ac.in)
- - date_published: 2024-12-24T14:25:26.617287+00:00
-
- ## School of Chemistry | IISER TVM
- - [http://chemistry.iisertvm.ac.in](http://chemistry.iisertvm.ac.in)
- - date_published: 2024-12-24T14:23:45.500583+00:00
-
- ## Center for High-Performance Computing | IISER TVM
- - [http://hpc.iisertvm.ac.in](http://hpc.iisertvm.ac.in)
- - date_published: 2024-12-24T14:23:41.178380+00:00
-
- ## Welcome | IISER Thiruvananthapuram,   MoE, Govt. of India
- - [https://iisertvm.ac.in](https://iisertvm.ac.in)
- - date_published: 2024-09-11T18:06:23.051419+00:00
-
- ## School of Mathematics | IISER TVM
- - [http://maths.iisertvm.ac.in](http://maths.iisertvm.ac.in)
- - date_published: 2024-12-24T14:24:08.457801+00:00
-
- ## School of Physics | IISER TVM
- - [https://physics.iisertvm.ac.in](https://physics.iisertvm.ac.in)
- - date_published: 2024-12-24T14:23:52.940731+00:00
-
- ## Research, Development and Consultancy (RDC) | IISER TVM
- - [https://rdc.iisertvm.ac.in](https://rdc.iisertvm.ac.in)
- - date_published: 2024-12-24T14:23:58.706135+00:00
-
- ## Department of Aerospace Engineering
- - [https://aero.iitb.ac.in](https://aero.iitb.ac.in)
- - date_published: 2024-07-13T03:07:32.603854+00:00
-
- ## SSO IIT Bombay [SSO3]
- - [http://dspace.library.iitb.ac.in](http://dspace.library.iitb.ac.in)
- - date_published: 2024-12-03T21:37:54.285478+00:00
-
- ## भारतीय प्रौद्योगिकी संस्थान मुंबई
- - [http://iitb.ac.in](http://iitb.ac.in)
- - date_published: 2024-12-24T11:06:49+00:00
-
- ## Zimbra Web Client Sign In
- - [https://vayu.aero.iitb.ac.in](https://vayu.aero.iitb.ac.in)
- - date_published: 2024-12-24T14:26:31.470956+00:00
-
- ## CDEEP-IIT Bombay
- - [http://www.cdeep.iitb.ac.in](http://www.cdeep.iitb.ac.in)
- - date_published: 2024-12-24T14:26:36.787810+00:00
-
- ## CEED 2025
- - [http://www.ceed.iitb.ac.in](http://www.ceed.iitb.ac.in)
- - date_published: 2024-10-07T08:50:33+00:00
-
- ## Department of Computer Science and Engineering. IIT Bombay
- - [https://www.cse.iitb.ac.in](https://www.cse.iitb.ac.in)
- - date_published: 2024-05-04T15:26:52.516435+00:00
-
- ## Kanwal Rekhi School of Information Technology, IIT Bombay
- - [https://www.it.iitb.ac.in](https://www.it.iitb.ac.in)
- - date_published: 2024-07-01T20:10:29.141181+00:00
-
- ## Koita Centre for Digital Health
- - [https://www.kcdh.iitb.ac.in](https://www.kcdh.iitb.ac.in)
- - date_published: 2024-11-18T05:32:44+00:00
-
- ## Artificial Intelligence Academic Programs and Machine Learning Academic Programs, AI-ML Training through cutting-edge research as well as strong industry collaborations offered by IIT Bombay.
- - [https://www.minds.iitb.ac.in](https://www.minds.iitb.ac.in)
- - date_published: 2024-03-19T08:58:35+00:00
-
- ## UCEED 2025
- - [https://www.uceed.iitb.ac.in](https://www.uceed.iitb.ac.in)
- - date_published: 2024-10-07T08:52:26+00:00
-
- ## IITBHU - Indian Institute of Technology (BHU) Varanasi | Indian Institute of Technology (BHU)
- - [https://iitbhu.ac.in](https://iitbhu.ac.in)
- - date_published: 2024-09-11T10:50:00+00:00
-
- ## SAIC, IIT (BHU)
- - [https://saic.iitbhu.ac.in](https://saic.iitbhu.ac.in)
- - date_published: 2024-12-24T14:34:52.628081+00:00
-
- ## Academics (Undergraduate and Postgraduate)
- - [https://academics.iitd.ac.in](https://academics.iitd.ac.in)
- - date_published: 2024-09-13T18:21:48+00:00
-
- ## Alumni Relations:: IIT Delhi
- - [https://alumni.iitd.ac.in](https://alumni.iitd.ac.in)
- - date_published: 2024-12-24T14:49:11.007095+00:00
-
- ## BHM - IIT Delhi
- - [https://bhm.iitd.ac.in](https://bhm.iitd.ac.in)
- - date_published: 2024-11-28T04:29:05+00:00
-
- ## KSBS IITD:: IIT Delhi
- - [https://bioschool.iitd.ac.in](https://bioschool.iitd.ac.in)
- - date_published: 2024-12-24T14:47:22.769299+00:00
-
- ## BRCA | IIT Delhi
- - [https://brca.iitd.ac.in](https://brca.iitd.ac.in)
- - date_published: 2024-08-25T12:46:05+00:00
-
- ## Board For Sports Activities, IIT Delhi
- - [https://bsa.iitd.ac.in](https://bsa.iitd.ac.in)
- - date_published: 2024-12-24T14:52:08.850391+00:00
-
- ## Home | BSW
- - [https://bsw.iitd.ac.in](https://bsw.iitd.ac.in)
- - date_published: 2024-12-24T14:46:37.892510+00:00
-
- ## Co-Curricular And Academic Interaction Council
- - [https://caic.iitd.ac.in](https://caic.iitd.ac.in)
- - date_published: 2024-10-10T20:19:59+00:00
-
- ## Centre for Automotive Research and Tribology (CART) :: IIT Delhi
- - [https://cart.iitd.ac.in](https://cart.iitd.ac.in)
- - date_published: 2024-12-24T14:49:27.036729+00:00
-
- ## Centre For Atmospheric Sciences (CAS) :: IIT Delhi
- - [https://cas.iitd.ac.in](https://cas.iitd.ac.in)
- - date_published: 2024-07-08T13:10:05.281339+00:00
-
- ## Centre for Biomedical Engineering :: IIT Delhi
- - [https://cbme.iitd.ac.in](https://cbme.iitd.ac.in)
- - date_published: 2024-12-24T14:59:17.618165+00:00
-
- ## CEPPAY by IIT Delhi
- - [https://ceppay.iitd.ac.in](https://ceppay.iitd.ac.in)
- - date_published: 2024-09-13T18:19:23.000283+00:00
-
- ## Home - IITD ChemE
- - [https://chemical.iitd.ac.in](https://chemical.iitd.ac.in)
- - date_published: 2024-09-13T18:20:51.378900+00:00
-
- ## Department of Chemistry :: IIT Delhi
- - [https://chemistry.iitd.ac.in](https://chemistry.iitd.ac.in)
- - date_published: 2024-12-24T14:49:17.777163+00:00
-
- ## Convocation 2023, IIT Delhi
- - [https://convocation.iitd.ac.in](https://convocation.iitd.ac.in)
- - date_published: 2024-06-22T09:14:56.967927+00:00
-
- ## Corporate Relation-IIT Delhi
- - [https://corprel.iitd.ac.in](https://corprel.iitd.ac.in)
- - date_published: 2024-12-24T14:48:47.413013+00:00
-
- ## Home
- - [https://crf.iitd.ac.in](https://crf.iitd.ac.in)
- - date_published: 2024-11-20T11:25:12+00:00
-
- ## CSC IIT DELHI
- - [http://csc.iitd.ac.in](http://csc.iitd.ac.in)
- - date_published: 2024-12-24T14:44:24.724815+00:00
-
- ## Department of Computer Science and Engineering, IIT Delhi
- - [https://cse.iitd.ac.in](https://cse.iitd.ac.in)
- - date_published: 2024-05-04T15:26:32.945675+00:00
-
- ## CS Theory @IITD
- - [https://cstheory.iitd.ac.in](https://cstheory.iitd.ac.in)
- - date_published: 2024-02-08T11:34:33+00:00
-
- ## Department of Energy Science and Engineering :: IIT Delhi
- - [https://dese.iitd.ac.in](https://dese.iitd.ac.in)
- - date_published: 2024-12-24T14:46:30.649184+00:00
-
- ## IIT Delhi Diamond Jubilee Year
- - [https://diamond.iitd.ac.in](https://diamond.iitd.ac.in)
- - date_published: 2024-12-24T14:50:42.566873+00:00
-
- ## Portal Selection :: Indian Institute of Technology Delhi
- - [https://ecampus.iitd.ac.in](https://ecampus.iitd.ac.in)
- - date_published: 2024-09-13T18:18:49.816436+00:00
-
- ## Department of Electrical Engineering :: IIT Delhi
- - [https://ee.iitd.ac.in](https://ee.iitd.ac.in)
- - date_published: 2024-12-24T14:48:29.921861+00:00
-
- ## Endowment:: IIT Delhi
- - [https://endowment.iitd.ac.in](https://endowment.iitd.ac.in)
- - date_published: 2024-12-24T14:59:15.319275+00:00
-
- ## Home Page : IIT Delhi
- - [https://home.iitd.ac.in](https://home.iitd.ac.in)
- - date_published: 2024-07-04T10:25:12.979845+00:00
-
- ## Home Page : IIT Delhi
- - [https://iitd.ac.in](https://iitd.ac.in)
- - date_published: 2024-06-22T09:14:52.689160+00:00
-
- ## Infrastructure Unit | Indian Institute of Technology Delhi
- - [https://infra.iitd.ac.in](https://infra.iitd.ac.in)
- - date_published: 2024-09-13T18:18:30+00:00
-
- ## IoE:: Indian Institute of Technology Delhi
- - [https://ioe.iitd.ac.in](https://ioe.iitd.ac.in)
- - date_published: 2024-12-24T14:47:59.790377+00:00
-
- ## JAM 2025 IIT Delhi Official Website
- - [https://jam2025.iitd.ac.in](https://jam2025.iitd.ac.in)
- - date_published: 2024-12-24T15:26:23.289113+00:00
-
- ## Department of Mechanical Engineering :: IIT Delhi
- - [https://mech.iitd.ac.in](https://mech.iitd.ac.in)
- - date_published: 2024-12-24T14:47:29.228633+00:00
-
- ## IIT Delhi Moodle for 2024-2025: Log in to the site
- - [https://moodle.iitd.ac.in](https://moodle.iitd.ac.in)
- - date_published: 2024-09-13T18:18:58.085473+00:00
-
- ## Department of Materials Science and Engineering :: IIT Delhi
- - [https://mse.iitd.ac.in](https://mse.iitd.ac.in)
- - date_published: 2024-12-24T14:49:24.620430+00:00
-
- ## NYCU & IITD
- - [https://nycu.iitd.ac.in](https://nycu.iitd.ac.in)
- - date_published: 2024-12-24T14:52:03.875413+00:00
-
- ## ODI IIT DELHI
- - [https://odi.iitd.ac.in](https://odi.iitd.ac.in)
- - date_published: 2024-12-24T14:46:44.827843+00:00
-
- ## PhD Programme@CSE/SIT
- - [https://phd.cse.iitd.ac.in](https://phd.cse.iitd.ac.in)
- - date_published: 2024-06-06T10:42:47+00:00
-
- ## Robotics Club | IITD
- - [https://roboticsclub.iitd.ac.in](https://roboticsclub.iitd.ac.in)
- - date_published: 2024-12-24T14:47:47.449068+00:00
-
- ## IITD Yardi ScAI
- - [https://scai.iitd.ac.in](https://scai.iitd.ac.in)
- - date_published: 2024-12-24T14:47:45.049604+00:00
-
- ## SeNSE :: IIT Delhi
- - [https://sense.iitd.ac.in](https://sense.iitd.ac.in)
- - date_published: 2024-12-24T14:59:19.834245+00:00
-
- ## SIRE IIT DELHI
- - [https://sire.iitd.ac.in](https://sire.iitd.ac.in)
- - date_published: 2024-12-24T14:48:13.553469+00:00
-
- ## Amar Nath and Shashi Khosla School of Information Technology :: IIT Delhi
- - [https://sit.iitd.ac.in](https://sit.iitd.ac.in)
- - date_published: 2024-12-24T14:49:00.428520+00:00
-
- ## School of Public Policy :: IIT Delhi
- - [https://spp.iitd.ac.in](https://spp.iitd.ac.in)
- - date_published: 2024-12-24T14:48:07.319463+00:00
-
- ## Student Affairs
- - [https://studentaffairs.iitd.ac.in](https://studentaffairs.iitd.ac.in)
- - date_published: 2024-09-09T06:11:16+00:00
-
- ## HPC-IITD
- - [https://supercomputing.iitd.ac.in](https://supercomputing.iitd.ac.in)
- - date_published: 2024-12-24T14:46:35.236185+00:00
-
- ## Department of Textile and Fibre Engineering :: IIT Delhi
- - [https://textile.iitd.ac.in](https://textile.iitd.ac.in)
- - date_published: 2024-12-24T14:48:58.730870+00:00
-
- ## TimeTable Website :: IIT Delhi
- - [http://timetable.iitd.ac.in](http://timetable.iitd.ac.in)
- - date_published: 2024-12-24T14:44:14.072000+00:00
-
- ## IIT Delhi - Login
- - [https://webmail.iitd.ac.in](https://webmail.iitd.ac.in)
- - date_published: 2024-09-13T18:21:07.267424+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.iitdh.ac.in](https://idp.iitdh.ac.in)
- - date_published: 2025-02-10T06:19:35.610094+00:00
-
- ## EICT | IITG : Electronics and ICT Academy
- - [https://eict.iitg.ac.in](https://eict.iitg.ac.in)
- - date_published: 2024-12-24T15:06:32.077882+00:00
-
- ## Indian Institute of Technology Guwahati
- - [https://iitg.ac.in](https://iitg.ac.in)
- - date_published: 2024-07-10T05:44:29.239585+00:00
-
- ## Art@IITGN, IIT Gandhinagar
- - [https://art.iitgn.ac.in](https://art.iitgn.ac.in)
- - date_published: 2024-12-24T15:08:10.795435+00:00
-
- ## Archaeological Sciences Centre | IIT Gandhinagar
- - [https://asc.iitgn.ac.in](https://asc.iitgn.ac.in)
- - date_published: 2024-12-24T15:12:43.994508+00:00
-
- ## Campus | IIT Gandhinagar
- - [https://campus.iitgn.ac.in](https://campus.iitgn.ac.in)
- - date_published: 2024-03-14T12:08:02+00:00
-
- ## Home | Center For Creative Learning
- - [https://ccl.iitgn.ac.in](https://ccl.iitgn.ac.in)
- - date_published: 2024-12-24T15:07:20.500306+00:00
-
- ## Chemical Engineering | IIT Gandhinagar
- - [https://che.iitgn.ac.in](https://che.iitgn.ac.in)
- - date_published: 2024-12-24T15:11:07.681546+00:00
-
- ## IITGN-Earth Science
- - [https://es.iitgn.ac.in](https://es.iitgn.ac.in)
- - date_published: 2024-12-17T05:05:23+00:00
-
- ## IITGN Event Calendar
- - [https://events.iitgn.ac.in](https://events.iitgn.ac.in)
- - date_published: 2025-02-09T04:23:25.067257+00:00
-
- ## IIT Gandhinagar | Home
- - [https://iitgn.ac.in](https://iitgn.ac.in)
- - date_published: 2024-09-11T17:46:47.956357+00:00
-
- ## IMS
- - [http://ims.iitgn.ac.in](http://ims.iitgn.ac.in)
- - date_published: 2024-09-02T12:18:30+00:00
-
- ## Library | IIT Gandhinagar
- - [https://library.iitgn.ac.in](https://library.iitgn.ac.in)
- - date_published: 2024-12-24T15:10:36.447876+00:00
-
- ## Mathematics | IIT Gandhinagar
- - [https://math.iitgn.ac.in](https://math.iitgn.ac.in)
- - date_published: 2024-12-24T15:10:13.566921+00:00
-
- ## Mechanical Engineering | IIT Gandhinagar
- - [https://me.iitgn.ac.in](https://me.iitgn.ac.in)
- - date_published: 2024-12-24T15:07:23.933801+00:00
-
- ## MSE | IITGN
- - [https://mse.iitgn.ac.in](https://mse.iitgn.ac.in)
- - date_published: 2024-12-24T15:11:05.163790+00:00
-
- ## Physics | IIT Gandhinagar
- - [https://physics.iitgn.ac.in](https://physics.iitgn.ac.in)
- - date_published: 2024-12-24T15:07:28.144571+00:00
-
- ## IIT Gandhinagar · Student Life
- - [https://students.iitgn.ac.in](https://students.iitgn.ac.in)
- - date_published: 2022-07-01T12:17:06+00:00
-
- ## CCE | Home | IIT Hyderabad
- - [https://cce.iith.ac.in](https://cce.iith.ac.in)
- - date_published: 2024-12-23T10:38:47+00:00
-
- ## Committee for Gender Concerns
- - [http://cgc.iith.ac.in](http://cgc.iith.ac.in)
- - date_published: 2024-12-24T15:13:29.003904+00:00
-
- ## EBSB IITH
- - [https://ebsb.iith.ac.in](https://ebsb.iith.ac.in)
- - date_published: 2024-11-18T16:31:02+00:00
-
- ## Giving to IIT Hyderabad | Alumni Support
- - [https://giving.iith.ac.in](https://giving.iith.ac.in)
- - date_published: 2024-12-24T15:14:13.928482+00:00
-
- ## Home
- - [https://hospital.iith.ac.in](https://hospital.iith.ac.in)
- - date_published: 2024-12-24T15:13:44.934881+00:00
-
- ## HCU
- - [http://hostel.iith.ac.in](http://hostel.iith.ac.in)
- - date_published: 2024-12-24T15:14:15.792116+00:00
-
- ## Shibboleth Identity Provider
- - [https://identity.iith.ac.in](https://identity.iith.ac.in)
- - date_published: 2025-02-10T16:18:41.075383+00:00
-
- ## Home
- - [https://iith.ac.in](https://iith.ac.in)
- - date_published: 2024-06-22T12:51:03+00:00
-
- ## Library Home
- - [https://library.iith.ac.in](https://library.iith.ac.in)
- - date_published: 2024-12-02T15:06:38+00:00
-
- ## Office of Career Services - IITH
- - [https://ocs.iith.ac.in](https://ocs.iith.ac.in)
- - date_published: 2024-11-28T15:43:43+00:00
-
- ## Discover cutting-edge research at IIT Hyderabad
- - [https://research.iith.ac.in](https://research.iith.ac.in)
- - date_published: 2024-12-24T15:13:39.749143+00:00
-
- ## Sunshine
- - [https://sunshine.iith.ac.in](https://sunshine.iith.ac.in)
- - date_published: 2024-12-24T15:13:33.972624+00:00
-
- ## IITI DRISHTI CPS Foundation | Technology Innovation HUB
- - [http://drishticps.iiti.ac.in](http://drishticps.iiti.ac.in)
- - date_published: 2024-12-24T15:14:57.002806+00:00
-
- ## EBSB| IIT Indore
- - [http://ebsb.iiti.ac.in](http://ebsb.iiti.ac.in)
- - date_published: 2024-02-13T06:17:20+00:00
-
- ## Infrastructure Development Office | IIT Indore
- - [https://ido.iiti.ac.in](https://ido.iiti.ac.in)
- - date_published: 2024-12-24T15:15:20.379794+00:00
-
- ## IIT Indore, भारतीय प्रौद्योगिकी संस्थान इंदौर
- - [https://iiti.ac.in](https://iiti.ac.in)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## INTER IIT SPORTS MEET
- - [https://interiit2024.iiti.ac.in](https://interiit2024.iiti.ac.in)
- - date_published: 2024-12-24T15:14:53.835712+00:00
-
- ## International Relations | IIT Indore
- - [http://ir.iiti.ac.in](http://ir.iiti.ac.in)
- - date_published: 2024-12-01T18:32:35+00:00
-
- ## CSE IIT Jodhpur
- - [http://cse.iitj.ac.in](http://cse.iitj.ac.in)
- - date_published: 2024-12-24T15:16:43+00:00
-
- ## IITJ-Indian Institute of Technology Jodhpur
- - [http://home.iitj.ac.in](http://home.iitj.ac.in)
- - date_published: 2024-08-07T15:23:59.300389+00:00
-
- ## IITJ-Indian Institute of Technology Jodhpur
- - [https://iitj.ac.in](https://iitj.ac.in)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## S.R. Ranganathan Learning Hub, IIT Jodhpur
- - [http://library.iitj.ac.in](http://library.iitj.ac.in)
- - date_published: 2024-12-16T09:19:25+00:00
-
- ## MME IIT Jodhpur
- - [https://mme.iitj.ac.in](https://mme.iitj.ac.in)
- - date_published: 2024-12-24T15:21:28.129971+00:00
-
- ## Rishabh Centre for Research and Innovation in Clean Energy – Rishabh Centre for Research and Innovation in Clean Energy
- - [https://rishabh-clean-energy.iitj.ac.in](https://rishabh-clean-energy.iitj.ac.in)
- - date_published: 2024-12-24T15:16:56.147100+00:00
-
- ## Office of Training and Placement, IIT Jodhpur
- - [http://spc.iitj.ac.in](http://spc.iitj.ac.in)
- - date_published: 2024-12-06T14:39:42+00:00
-
- ## Student Wellbeing Committee - IIT Jodhpur
- - [http://swc.iitj.ac.in](http://swc.iitj.ac.in)
- - date_published: 2024-12-24T15:17:21.864140+00:00
-
- ## IIT Jammu Identity Provider Service - Off-Campus Access
- - [https://idp.iitjammu.ac.in](https://idp.iitjammu.ac.in)
- - date_published: 2025-02-10T18:52:38.585483+00:00
-
- ## IIT Jammu
- - [https://www.iitjammu.ac.in](https://www.iitjammu.ac.in)
- - date_published: 2024-12-18T06:42:12+00:00
-
- ## National Blockchain Project
- - [https://blockchain.cse.iitk.ac.in](https://blockchain.cse.iitk.ac.in)
- - date_published: 2023-05-29T08:25:41+00:00
-
- ## CER - Centre for Energy Regulation
- - [https://cer.iitk.ac.in](https://cer.iitk.ac.in)
- - date_published: 2024-12-24T15:25:47.595540+00:00
-
- ## CSE - IIT Kanpur
- - [https://cse.iitk.ac.in](https://cse.iitk.ac.in)
- - date_published: 2024-06-20T09:19:18+00:00
-
- ## IIT Kanpur Masters Degree: Learn from the Best, Excel in Your Career
- - [https://emasters.iitk.ac.in](https://emasters.iitk.ac.in)
- - date_published: 2024-12-16T14:23:37.032462+00:00
-
- ## GATE-JAM | IIT Kanpur
- - [https://gate.iitk.ac.in](https://gate.iitk.ac.in)
- - date_published: 2024-12-24T18:42:24.619807+00:00
-
- ## IIT Kanpur
- - [https://iitk.ac.in](https://iitk.ac.in)
- - date_published: 2024-12-24T15:22:50.263393+00:00
-
- ## GATE-JAM | IIT Kanpur
- - [https://jam.iitk.ac.in](https://jam.iitk.ac.in)
- - date_published: 2024-12-24T15:22:05.096383+00:00
-
- ## IITK-LTURA | Home
- - [https://ra-latrobe.iitk.ac.in](https://ra-latrobe.iitk.ac.in)
- - date_published: 2024-12-24T15:26:19.497329+00:00
-
- ## Students' Placement Office, IIT Kanpur
- - [https://spo.iitk.ac.in](https://spo.iitk.ac.in)
- - date_published: 2024-12-24T15:26:41.991697+00:00
-
- ## IIT Kanpur
- - [https://www.iitk.ac.in](https://www.iitk.ac.in)
- - date_published: 2024-06-22T10:00:29.156567+00:00
-
- ## NDLI Club
- - [https://club.ndl.iitkgp.ac.in](https://club.ndl.iitkgp.ac.in)
- - date_published: 2022-09-16T16:14:31+00:00
-
- ## GATE 2022 Official Site
- - [https://gate.iitkgp.ac.in](https://gate.iitkgp.ac.in)
- - date_published: 2024-07-20T08:07:00+00:00
-
- ## Global Initiative of Academic Networks GIAN)
- - [https://gian.iitkgp.ac.in](https://gian.iitkgp.ac.in)
- - date_published: 2024-12-24T12:53:47.909550+00:00
-
- ## National Digital Library of India (NDLI)
- - [https://ndl.iitkgp.ac.in](https://ndl.iitkgp.ac.in)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Indian Institute of Technology Kharagpur | IIT KGP
- - [https://www.iitkgp.ac.in](https://www.iitkgp.ac.in)
- - date_published: 2024-12-24T15:27:51.870833+00:00
-
- ## Office of Alumni & Corporate Relations
- - [https://acr.iitm.ac.in](https://acr.iitm.ac.in)
- - date_published: 2024-10-15T14:07:50.353555+00:00
-
- ## Centre for Responsible AI
- - [https://cerai.iitm.ac.in](https://cerai.iitm.ac.in)
- - date_published: 2024-08-06T11:00:25+00:00
-
- ## Code
- - [https://code.iitm.ac.in](https://code.iitm.ac.in)
- - date_published: 2024-10-15T14:00:33+00:00
-
- ## IIT Courses
- - [https://courses.iitm.ac.in](https://courses.iitm.ac.in)
- - date_published: 2024-12-24T15:34:19+00:00
-
- ## Cryo-EM
- - [https://cryoem.iitm.ac.in](https://cryoem.iitm.ac.in)
- - date_published: 2024-06-16T23:35:29.012980+00:00
-
- ## Department of Computer Science & Engineering
- - [https://cse.iitm.ac.in](https://cse.iitm.ac.in)
- - date_published: 2024-07-04T10:25:16.234812+00:00
-
- ## Wadhwani School of Data Science & AI
- - [https://dsai.iitm.ac.in](https://dsai.iitm.ac.in)
- - date_published: 2024-06-16T23:35:12.043525+00:00
-
- ## Department of Engineering Design, Indian Institute of Technology Madras
- - [https://ed.iitm.ac.in](https://ed.iitm.ac.in)
- - date_published: 2024-05-01T08:17:12.179261+00:00
-
- ## Equipment Reservation System, IIT Madras
- - [https://ers.iitm.ac.in](https://ers.iitm.ac.in)
- - date_published: 2024-10-15T14:13:50.093266+00:00
-
- ## Faculty Recruitment Portal
- - [https://facapp.iitm.ac.in](https://facapp.iitm.ac.in)
- - date_published: 2024-04-08T05:18:41+00:00
-
- ## Office of Global Engagement | IITM
- - [https://ge.iitm.ac.in](https://ge.iitm.ac.in)
- - date_published: 2024-06-16T23:35:16.062248+00:00
-
- ## Office of Industrial Consultancy and Sponsored Research, Indian Institute of Technology Madras
- - [https://icandsr.iitm.ac.in](https://icandsr.iitm.ac.in)
- - date_published: 2024-12-24T15:33:44.679058+00:00
-
- ## Centre for Industrial Consultancy Portals
- - [https://icsrpis.iitm.ac.in](https://icsrpis.iitm.ac.in)
- - date_published: 2024-07-25T11:47:10+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.iitm.ac.in](https://idp.iitm.ac.in)
- - date_published: 2025-02-10T07:57:55.640342+00:00
-
- ## IOE-IITM Research Initatives
- - [https://ioe.iitm.ac.in](https://ioe.iitm.ac.in)
- - date_published: 2023-12-01T11:16:58+00:00
-
- ## Endowment Fund Raising | Joy of Giving | Fund on Research Projects
- - [https://joyofgiving.alumni.iitm.ac.in](https://joyofgiving.alumni.iitm.ac.in)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Department of Medical Sciences & Technology, Indian Institute of Technology Madras | Bringing Engineering to Life
- - [https://mst.iitm.ac.in](https://mst.iitm.ac.in)
- - date_published: 2024-06-16T23:35:37.522060+00:00
-
- ## Placement
- - [http://placement.iitm.ac.in](http://placement.iitm.ac.in)
- - date_published: 2024-12-24T15:34:12.793486+00:00
-
- ## Home | Robert Bosch Centre for Data Science and Artificial Intelligence
- - [https://rbcdsai.iitm.ac.in](https://rbcdsai.iitm.ac.in)
- - date_published: 2024-12-24T07:01:21+00:00
-
- ## Home | IIT Madras Research Park
- - [http://respark.iitm.ac.in](http://respark.iitm.ac.in)
- - date_published: 2024-12-24T15:34:32.923006+00:00
-
- ## Women's forum
- - [https://womensforum.iitm.ac.in](https://womensforum.iitm.ac.in)
- - date_published: 2024-06-16T23:35:20.838395+00:00
-
- ## Wadhwani School of Data Science & AI
- - [https://wsai.iitm.ac.in](https://wsai.iitm.ac.in)
- - date_published: 2024-10-15T14:07:59.696009+00:00
-
- ## IITM-Department of Aerospace Engineering
- - [http://www.ae.iitm.ac.in](http://www.ae.iitm.ac.in)
- - date_published: 2024-10-23T11:20:26+00:00
-
- ## Indian Institute of Technology Madras
- - [https://www.iitm.ac.in](https://www.iitm.ac.in)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## IIT Madras Zanzibar Campus | Empower Your Future with IIT
- - [https://zanzibar.iitm.ac.in](https://zanzibar.iitm.ac.in)
- - date_published: 2024-12-24T15:42:02.200511+00:00
-
- ## Ph.D. Joint Degree Programme (JDP)
- - [https://alliance.iitmandi.ac.in](https://alliance.iitmandi.ac.in)
- - date_published: 2024-12-24T15:37:55.179257+00:00
-
- ## CCE-IIT Mandi
- - [https://cce.iitmandi.ac.in](https://cce.iitmandi.ac.in)
- - date_published: 2024-12-24T15:37:53.562688+00:00
-
- ## CHCI - Centre for Human, Computer Interaction.
- - [https://chci.iitmandi.ac.in](https://chci.iitmandi.ac.in)
- - date_published: 2024-12-24T15:35:09.165369+00:00
-
- ## Digital and Computing Services - IIT Mandi
- - [https://dcs.iitmandi.ac.in](https://dcs.iitmandi.ac.in)
- - date_published: 2024-12-24T15:40:28.944500+00:00
-
- ## Indian Institute of Technology Mandi
- - [https://iitmandi.ac.in](https://iitmandi.ac.in)
- - date_published: 2024-09-11T17:48:39.811147+00:00
-
- ## IKSMHA | IIT Mandi
- - [https://iksmha.iitmandi.ac.in](https://iksmha.iitmandi.ac.in)
- - date_published: 2024-12-24T15:35:18.027840+00:00
-
- ## LMS IIT Mandi
- - [https://lms.iitmandi.ac.in](https://lms.iitmandi.ac.in)
- - date_published: 2024-12-24T15:39:15+00:00
-
- ## IIT Madras Zanzibar Campus | Empower Your Future with IIT
- - [https://iitmz.ac.in](https://iitmz.ac.in)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Home
- - [https://academics.iitp.ac.in](https://academics.iitp.ac.in)
- - date_published: 2024-12-24T15:41:36+00:00
-
- ## COE IIT Patna
- - [https://coe.iitp.ac.in](https://coe.iitp.ac.in)
- - date_published: 2024-12-24T15:43:30.260458+00:00
-
- ## Indian Institute of Technology, Patna
- - [https://iitp.ac.in](https://iitp.ac.in)
- - date_published: 2024-09-11T17:50:20+00:00
-
- ## Home
- - [https://library.iitp.ac.in](https://library.iitp.ac.in)
- - date_published: 2024-12-24T15:41:26+00:00
-
- ## IIT Palkkad - Identity Services
- - [https://idp.iitpkd.ac.in](https://idp.iitpkd.ac.in)
- - date_published: 2025-02-10T10:44:35.078483+00:00
-
- ## Academic Information System
- - [https://academics.iitr.ac.in](https://academics.iitr.ac.in)
- - date_published: 2024-06-21T12:37:32+00:00
+ ## California Department of Real Estate
+ - [https://www.dre.ca.gov](https://www.dre.ca.gov)
+ - date_published: 2024-07-03T13:18:26.548953+00:00
+
+ ## EBT Project
+ - [https://www.ebtproject.ca.gov](https://www.ebtproject.ca.gov)
+ - date_published: 2024-07-15T10:41:59.083456+00:00
+
+ ## California Budget
+ - [http://www.ebudget.ca.gov](http://www.ebudget.ca.gov)
+ - date_published: 2024-06-11T21:56:12+00:00
+
+ ## California Energy Commission
+ - [https://www.energy.ca.gov](https://www.energy.ca.gov)
+ - date_published: 2025-02-04T15:54:13.711876+00:00
+
+ ## California Firewood Task Force | Home
+ - [http://www.firewood.ca.gov](http://www.firewood.ca.gov)
+ - date_published: 2023-05-19T23:33:33+00:00
+
+ ## Home - California Grants Portal
+ - [https://www.grants.ca.gov](https://www.grants.ca.gov)
+ - date_published: 2024-07-03T13:18:06+00:00
+
+ ## CA Department of Insurance
+ - [https://www.insurance.ca.gov](https://www.insurance.ca.gov)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## EDD Labor Market Information Division - Home Page
+ - [http://www.labormarketinfo.edd.ca.gov](http://www.labormarketinfo.edd.ca.gov)
+ - date_published: 2024-07-08T11:55:56.884904+00:00
+
+ ## California Legislative Information
+ - [http://www.legislature.ca.gov](http://www.legislature.ca.gov)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Home | Lemon Grove
+ - [https://www.lemongrove.ca.gov](https://www.lemongrove.ca.gov)
+ - date_published: 2024-12-23T05:26:05.798028+00:00
+
+ ## California State Parks
+ - [https://www.parks.ca.gov](https://www.parks.ca.gov)
+ - date_published: 2024-07-06T19:17:51.520008+00:00
+
+ ## California State Board of Pharmacy
+ - [https://www.pharmacy.ca.gov](https://www.pharmacy.ca.gov)
+ - date_published: 2024-07-02T01:36:33.157462+00:00
+
+ ## California Board of Registered Nursing
+ - [https://www.rn.ca.gov](https://www.rn.ca.gov)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## CA State Lands Commission | California State lands Commission
+ - [https://www.slc.ca.gov](https://www.slc.ca.gov)
+ - date_published: 2024-09-04T15:21:45.298421+00:00
+
+ ## Santa Monica Bay Restoration Commission
+ - [https://www.smbrc.ca.gov](https://www.smbrc.ca.gov)
+ - date_published: 2024-07-09T11:45:59.907334+00:00
+
+ ## State Personnel Board
+ - [https://www.spb.ca.gov](https://www.spb.ca.gov)
+ - date_published: 2024-07-15T10:43:31.297985+00:00
+
+ ## Home | Superior Court of California | County of Stanislaus
+ - [https://www.stanislaus.courts.ca.gov](https://www.stanislaus.courts.ca.gov)
+ - date_published: 2024-07-08T11:32:56+00:00
+
+ ## State Treasurer's Office
+ - [http://www.treasurer.ca.gov](http://www.treasurer.ca.gov)
+ - date_published: 2024-06-23T10:01:44.760789+00:00
+
+ ## Home Page | California State Water Resources Control Board
+ - [https://www.waterboards.ca.gov](https://www.waterboards.ca.gov)
+ - date_published: 2024-07-07T05:00:28.512453+00:00
+
+ ## Welfare Data Tracking Implementation Project|Home page
+ - [http://www.wdtip.ca.gov](http://www.wdtip.ca.gov)
+ - date_published: 2024-07-15T10:42:37.700531+00:00
+
+ ## Metropolitan Transportation Commission
+ - [https://zh-tw.mtc.ca.gov](https://zh-tw.mtc.ca.gov)
+ - date_published: 2024-07-06T14:26:12+00:00
 
  ## IIS Windows Server
- - [https://almamater.iitr.ac.in](https://almamater.iitr.ac.in)
- - date_published: 2020-10-04T13:55:43+00:00
-
- ## DORA Office
- - [https://alumni.iitr.ac.in](https://alumni.iitr.ac.in)
- - date_published: 2024-06-21T11:25:40+00:00
-
- ## BIS Corner – IIT Roorkee
- - [https://biscorner.iitr.ac.in](https://biscorner.iitr.ac.in)
- - date_published: 2024-06-22T11:41:06.732911+00:00
-
- ## Landing Page
- - [https://bt.iitr.ac.in](https://bt.iitr.ac.in)
- - date_published: 2024-09-11T11:26:25+00:00
-
- ## Counselling Portal
- - [http://counselling.iitr.ac.in](http://counselling.iitr.ac.in)
- - date_published: 2021-06-02T12:19:55+00:00
-
- ## JEE Opening Closing ranks for IITs and NITs
- - [https://cutoffs.iitr.ac.in](https://cutoffs.iitr.ac.in)
- - date_published: 2022-12-27T21:13:47+00:00
-
- ## dinc, grivance, suggestion, gallery, diversity, Inclusion, Committee, IIT, roorkee, IITR, Dinc, DInC, dinc.iitr.ac.in, iitr.ac.in,
- - [https://dinc.iitr.ac.in](https://dinc.iitr.ac.in)
- - date_published: 2024-06-22T11:40:33.386378+00:00
-
- ## Academic Documents Request | IITR
- - [https://documentacad.iitr.ac.in](https://documentacad.iitr.ac.in)
- - date_published: 2024-06-21T06:55:42+00:00
-
- ## EICT Academy - eict.iitr.ac.in
- - [https://eict.iitr.ac.in](https://eict.iitr.ac.in)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home | Expectations IIT Roorkee
- - [https://expectations.iitr.ac.in](https://expectations.iitr.ac.in)
- - date_published: 2021-10-31T11:12:36+00:00
-
- ## Finance & Accounts Office, IITR
- - [https://finance.iitr.ac.in](https://finance.iitr.ac.in)
- - date_published: 2024-06-22T11:32:28.888432+00:00
- - date_dead_since: 2024-12-24T15:52:54.831473+00:00
-
- ## GATE 2025 | Graduate Aptitude Test in Engineering (GATE)
- - [https://gate2025.iitr.ac.in](https://gate2025.iitr.ac.in)
- - date_published: 2024-11-26T07:17:56+00:00
-
- ## Geek Gazette
- - [https://geekgazette.iitr.ac.in](https://geekgazette.iitr.ac.in)
- - date_published: 2024-12-24T15:52:38.353982+00:00
-
- ## IIT ROORKEE GUEST HOUSE RESERVATION SYSTEM
- - [https://ghbooking.iitr.ac.in](https://ghbooking.iitr.ac.in)
- - date_published: 2024-06-22T11:32:06.639736+00:00
-
- ## GNEC IITR
- - [https://gnec.iitr.ac.in](https://gnec.iitr.ac.in)
- - date_published: 2024-06-22T11:31:22.309314+00:00
-
- ## i-Connect
- - [https://iconnect.iitr.ac.in](https://iconnect.iitr.ac.in)
- - date_published: 2024-06-22T11:31:26.941083+00:00
- - date_dead_since: 2024-12-24T15:56:37.458863+00:00
-
- ## Indian Institute of Technology Roorkee
- - [https://iitr.ac.in](https://iitr.ac.in)
- - date_published: 2024-05-04T15:42:45.009337+00:00
-
- ## Home - IPR
- - [https://ipr.iitr.ac.in](https://ipr.iitr.ac.in)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## IITR | IR | International Relations
- - [https://ir.iitr.ac.in](https://ir.iitr.ac.in)
- - date_published: 2024-06-22T11:31:42.432264+00:00
-
- ## JAM 2022
- - [https://jam.iitr.ac.in](https://jam.iitr.ac.in)
- - date_published: 2024-09-22T11:02:36+00:00
-
- ## LHCC Booking System
- - [https://lhcbooking.iitr.ac.in](https://lhcbooking.iitr.ac.in)
- - date_published: 2024-05-30T11:27:48+00:00
-
- ## Home
- - [https://liaisoncellscst.iitr.ac.in](https://liaisoncellscst.iitr.ac.in)
- - date_published: 2024-06-22T11:40:40.521503+00:00
-
- ## Mahatma Gandhi Central Library, IIT Roorkee
- - [https://mgcl.iitr.ac.in](https://mgcl.iitr.ac.in)
- - date_published: 2024-03-20T08:25:52+00:00
-
- ## Material Management
- - [https://mm.iitr.ac.in](https://mm.iitr.ac.in)
- - date_published: 2024-06-22T11:40:14.342626+00:00
-
- ## Email | IITR
- - [https://newwebmail.iitr.ac.in](https://newwebmail.iitr.ac.in)
- - date_published: 2024-06-22T11:40:50.155541+00:00
-
- ## IIT Roorkee Fees Payment Portal
- - [https://payment.iitr.ac.in](https://payment.iitr.ac.in)
- - date_published: 2022-06-04T19:11:36+00:00
-
- ## Online Academic
-    Support and Information System
- - [https://queryportal.iitr.ac.in](https://queryportal.iitr.ac.in)
- - date_published: 2024-06-06T10:21:57+00:00
-
- ## Srishti 2019 | IIT Roorkee
- - [https://srishti.iitr.ac.in](https://srishti.iitr.ac.in)
- - date_published: 2020-03-12T14:45:36+00:00
+ - [http://posse.cabq.gov](http://posse.cabq.gov)
+ - date_published: 2015-10-02T21:55:33+00:00
 
  ## Homepage
- - [https://step2025.iitr.ac.in](https://step2025.iitr.ac.in)
- - date_published: 2024-12-24T15:58:06.347062+00:00
+ - [https://www.cabq.gov](https://www.cabq.gov)
+ - date_published: 2024-04-17T00:00:00+00:00
 
- ## TIDES IIT Roorkee: Fostering Innovation and Entrepreneurship
- - [https://tides.iitr.ac.in](https://tides.iitr.ac.in)
- - date_published: 2024-12-24T16:02:36.849853+00:00
+ ## Campus Drug Prevention Homepage | Campus Drug Prevention
+ - [https://campusdrugprevention.gov](https://campusdrugprevention.gov)
+ - date_published: 2024-05-12T06:40:29.958826+00:00
 
- ## Technology Development | Human Resources | Technology Incubation | Startups, and international collaborative research - iHub DivyaSampark
- - [https://tih.iitr.ac.in](https://tih.iitr.ac.in)
- - date_published: 2024-06-22T11:32:39.015402+00:00
+ ## Breast Cancer Risk Assessment Tool: Online Calculator (The Gail Model)
+ - [https://bcrisktool.cancer.gov](https://bcrisktool.cancer.gov)
+ - date_published: 2024-08-09T12:29:26+00:00
 
- ## Wellness Centre – Express ● Engage ● Emerge
- - [https://wellness.iitr.ac.in](https://wellness.iitr.ac.in)
- - date_published: 2024-06-22T11:31:45.546579+00:00
+ ## Comprehensive Cancer Information - NCI
+ - [https://cancer.gov](https://cancer.gov)
+ - date_published: 2023-10-25T19:18:18.579854+00:00
 
- ## Shibboleth Identity Provider
- - [https://idp.iitram.ac.in](https://idp.iitram.ac.in)
- - date_published: 2025-02-10T21:13:25.510013+00:00
+ ## Cancer Intervention and Surveillance Modeling Network (CISNET) | SRP/DCCPS/NCI/NIH
+ - [https://cisnet.cancer.gov](https://cisnet.cancer.gov)
+ - date_published: 2024-04-15T10:14:07+00:00
 
- ## The Official Alumni Network of Indian Institute of Technology Ropar
- - [https://alumniconnect.iitrpr.ac.in](https://alumniconnect.iitrpr.ac.in)
- - date_published: 2024-12-24T16:43:37.287248+00:00
+ ## Homepage | Frederick National Laboratory
+ - [https://frederick.cancer.gov](https://frederick.cancer.gov)
+ - date_published: 2024-09-19T20:14:21+00:00
 
- ## Indian Institute of Technology Ropar | भारतीय प्रौद्योगिकी संस्थान रोपड़
- - [https://iitrpr.ac.in](https://iitrpr.ac.in)
- - date_published: 2024-09-11T11:51:49+00:00
+ ## IDC
+ - [https://imaging.datacommons.cancer.gov](https://imaging.datacommons.cancer.gov)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Support Home Page
+ - [https://livehelp.cancer.gov](https://livehelp.cancer.gov)
+ - date_published: 2024-05-08T02:36:23.883952+00:00
+
+ ## National Cancer Plan - Everyone Has a Role
+ - [https://nationalcancerplan.cancer.gov](https://nationalcancerplan.cancer.gov)
+ - date_published: 2024-05-08T02:36:27.335657+00:00
+
+ ## Surveillance, Epidemiology, and End Results Program
+ - [https://seer.cancer.gov](https://seer.cancer.gov)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Comprehensive Cancer Information
+ - [https://static.cancer.gov](https://static.cancer.gov)
+ - date_published: 2024-05-08T02:36:25.268853+00:00
+
+ ## Comprehensive Cancer Information
+ - [https://webapis.cancer.gov](https://webapis.cancer.gov)
+ - date_published: 2024-07-01T21:16:10+00:00
+
+ ## Town and Village of Canton, New York – The St. Lawrence County Seat
+ - [https://cantonny.gov](https://cantonny.gov)
+ - date_published: 2024-05-09T06:39:52.018382+00:00
+
+ ## Town of Cary | Home
+ - [https://www.carync.gov](https://www.carync.gov)
+ - date_published: 2025-02-10T21:52:06.224435+00:00
+
+ ## Caswell County | Caswell County NC | Yanceyville
+ - [https://caswellcountync.gov](https://caswellcountync.gov)
+ - date_published: 2025-02-02T05:30:26.640206+00:00
+
+ ## Congressional Budget Office
+ - [http://cbo.gov](http://cbo.gov)
+ - date_published: 2024-06-27T14:00:28+00:00
+
+ ## Border Wait Times
+ - [https://bwt.cbp.gov](https://bwt.cbp.gov)
+ - date_published: 2023-09-06T17:33:45+00:00
+
+ ## careers
+ - [https://careers.cbp.gov](https://careers.cbp.gov)
+ - date_published: 2023-07-13T13:24:31+00:00
+
+ ## U.S. Customs and Border Protection
+ - [https://cbp.gov](https://cbp.gov)
+ - date_published: 2024-04-30T06:34:12.035240+00:00
+
+ ## CBP Customer Service
+ - [http://help.cbp.gov](http://help.cbp.gov)
+ - date_published: 2023-09-10T15:44:38+00:00
+
+ ## Copyright Claims Board
+ - [https://ccb.gov](https://ccb.gov)
+ - date_published: 2024-05-08T02:42:40.874177+00:00
+
+ ## Welcome - eCCB
+ - [https://dockets.ccb.gov](https://dockets.ccb.gov)
+ - date_published: 2024-07-03T13:35:34.090383+00:00
+
+ ## CDC Archives
+ - [https://archive.cdc.gov](https://archive.cdc.gov)
+ - date_published: 2024-04-29T03:11:59.302109+00:00
+
+ ## CDC Blogs | Blogs | CDC
+ - [https://blogs.cdc.gov](https://blogs.cdc.gov)
+ - date_published: 2024-07-03T13:23:06.791325+00:00
+
+ ## Centers for Disease Control and Prevention
+ - [https://cdc.gov](https://cdc.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Data | Centers for Disease Control and Prevention
+ - [https://data.cdc.gov](https://data.cdc.gov)
+ - date_published: 2024-06-17T02:22:53.768357+00:00
+
+ ## Emergency Preparedness and Response | CDC
+ - [https://emergency.cdc.gov](https://emergency.cdc.gov)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## National Environmental Public Health Tracking Network
+ - [https://ephtracking.cdc.gov](https://ephtracking.cdc.gov)
+ - date_published: 2024-05-08T02:36:34.765155+00:00
+
+ ## Centros para el Control y la Prevención de Enfermedades
+ - [https://espanol.cdc.gov](https://espanol.cdc.gov)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Careers Home | Careers at CDC | CDC
+ - [https://jobs.cdc.gov](https://jobs.cdc.gov)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home - Public Health Image Library(PHIL)
+ - [https://phil.cdc.gov](https://phil.cdc.gov)
+ - date_published: 2024-05-08T02:36:40.355041+00:00
+
+ ## Welcome to CDC stacks
+ - [https://stacks.cdc.gov](https://stacks.cdc.gov)
+ - date_published: 2024-07-03T12:54:33+00:00
+
+ ## Public Health Media Library
+ - [https://t.cdc.gov](https://t.cdc.gov)
+ - date_published: 2019-12-16T00:00:00+00:00
+
+ ## No-Cost COVID-19 Testing​
+ - [https://testinglocator.cdc.gov](https://testinglocator.cdc.gov)
+ - date_published: 2024-06-27T04:01:20.906742+00:00
+
+ ## Public Health Media Library
+ - [https://tools.cdc.gov](https://tools.cdc.gov)
+ - date_published: 2019-12-16T00:00:00+00:00
+
+ ## CDC WONDER
+ - [https://wonder.cdc.gov](https://wonder.cdc.gov)
+ - date_published: 2024-12-12T05:39:07.744986+00:00
+
+ ## Public Health Media Library
+ - [http://www2c.cdc.gov](http://www2c.cdc.gov)
+ - date_published: 2019-12-16T00:00:00+00:00
+
+ ## Agency for Toxic Substances and Disease Registry
+ - [https://www.atsdr.cdc.gov](https://www.atsdr.cdc.gov)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## CDC Works 24/7
+ - [https://wwwnc.cdc.gov](https://wwwnc.cdc.gov)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home | Community Development Financial Institutions Fund
+ - [https://www.cdfifund.gov](https://www.cdfifund.gov)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## CDO
+ - [https://www.cdo.gov](https://www.cdo.gov)
+ - date_published: 2024-06-18T16:33:10+00:00
+
+ ## Congressional-Executive Commission on China
+ - [https://www.cecc.gov](https://www.cecc.gov)
+ - date_published: 2024-06-29T00:01:37+00:00
+
+ ## CENDI - Home
+ - [https://www.cendi.gov](https://www.cendi.gov)
+ - date_published: 2023-02-06T15:05:55+00:00
+
+ ## Developers
+ - [https://api.census.gov](https://api.census.gov)
+ - date_published: 2024-06-04T13:18:07.029000+00:00
+
+ ## Census.gov
+ - [https://census.gov](https://census.gov)
+ - date_published: 2024-05-07T13:57:50.256000+00:00
+
+ ## Explore Census Data
+ - [https://data.census.gov](https://data.census.gov)
+ - date_published: 2024-07-03T07:34:49.766023+00:00
+
+ ## Index of /
+ - [https://www2.census.gov](https://www2.census.gov)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Commodity Futures Trading Commission | CFTC
+ - [https://cftc.gov](https://cftc.gov)
+ - date_published: 2023-10-25T19:18:30.878793+00:00
+
+ ## Public Comments - CFTC
+ - [https://comments.cftc.gov](https://comments.cftc.gov)
+ - date_published: 2024-05-08T02:37:04.721465+00:00
+
+ ## Commodity Futures Trading Commission | CFTC
+ - [https://forms.cftc.gov](https://forms.cftc.gov)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Challenge.Gov
+ - [https://www.challenge.gov](https://www.challenge.gov)
+ - date_published: 2024-03-05T14:55:26+00:00
+
+ ## Charleston, SC - Official Website | Official Website
+ - [https://www.charleston-sc.gov](https://www.charleston-sc.gov)
+ - date_published: 2024-06-21T04:12:07.188220+00:00
+
+ ## Welcome To Charleston, West Virginia
+ - [https://charlestonwv.gov](https://charlestonwv.gov)
+ - date_published: 2024-05-12T05:59:35.613603+00:00
+
+ ## City of Charlotte, NC
+ - [https://charlottenc.gov](https://charlottenc.gov)
+ - date_published: 2024-05-07T12:50:46.039292+00:00
+
+ ## CHCO | Chief Human Capital Officers Council
+ - [https://chcoc.gov](https://chcoc.gov)
+ - date_published: 2024-07-03T13:36:57.181478+00:00
+
+ ## Chemung County, NY | Official Website
+ - [https://www.chemungcountyny.gov](https://www.chemungcountyny.gov)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Chicago Design System
+ - [https://design.chicago.gov](https://design.chicago.gov)
+ - date_published: 2025-01-17T18:37:57.667514+00:00
+
+ ## English
+ - [https://www.chicago.gov](https://www.chicago.gov)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home | Childcare.gov
+ - [https://childcare.gov](https://childcare.gov)
+ - date_published: 2024-10-14T04:03:02+00:00
+
+ ## Child Welfare Information Gateway | Child Welfare Information Gateway
+ - [http://childwelfare.gov](http://childwelfare.gov)
+ - date_published: 2024-07-11T19:43:45+00:00
+
+ ## Welcome to Chowan County, NC
+ - [https://www.chowancounty-nc.gov](https://www.chowancounty-nc.gov)
+ - date_published: 2025-02-02T05:32:57.754468+00:00
+
+ ## We are the Nation's first line of defense - CIA
+ - [https://cia.gov](https://cia.gov)
+ - date_published: 2023-10-25T19:18:37.730570+00:00
+ - tags: ['central intelligence agency', 'cia', 'government']
+
+ ## The HTTPS-Only Standard - The HTTPS-Only Standard
+ - [https://https.cio.gov](https://https.cio.gov)
+ - date_published: 2021-05-05T14:16:59+00:00
+
+ ## The Digital Services Playbook — from the U.S. Digital Service
+ - [http://playbook.cio.gov](http://playbook.cio.gov)
+ - date_published: 2020-08-11T23:47:22+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.cio.gov](https://search.cio.gov)
+ - date_published: 2024-07-03T13:37:11.903063+00:00
 
  ## Home
- - [https://mech.iitrpr.ac.in](https://mech.iitrpr.ac.in)
- - date_published: 2024-12-24T16:43:43.894781+00:00
-
- ## IIT Ropar / Materials
- - [https://mme.iitrpr.ac.in](https://mme.iitrpr.ac.in)
- - date_published: 2024-12-24T16:43:46.488060+00:00
-
- ## Home | Council of Indian Institute of Technology
- - [https://iitsystem.ac.in](https://iitsystem.ac.in)
- - date_published: 2024-06-22T11:41:09.625374+00:00
-
- ## IITTirupati - Home Page
- - [http://www.iittp.ac.in](http://www.iittp.ac.in)
- - date_published: 2024-12-24T16:45:50.818443+00:00
-
- ## e-PGPathshala
- - [https://epgp.inflibnet.ac.in](https://epgp.inflibnet.ac.in)
- - date_published: 2024-09-11T17:28:19.483660+00:00
-
- ## ETD 2023
- - [https://etd2023.inflibnet.ac.in](https://etd2023.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:53.957022+00:00
-
- ## INFLIBNET-Shibboleth IDP
- - [https://idp.inflibnet.ac.in](https://idp.inflibnet.ac.in)
- - date_published: 2025-02-10T06:03:58.117594+00:00
-
- ## INFLIBNET Centre Gandhinagar
- - [https://inflibnet.ac.in](https://inflibnet.ac.in)
- - date_published: 2024-12-24T16:52:34.044054+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [https://inproxy.inflibnet.ac.in](https://inproxy.inflibnet.ac.in)
- - date_published: 2025-02-10T15:46:10.021025+00:00
-
- ## INFED
- - [https://parichay.inflibnet.ac.in](https://parichay.inflibnet.ac.in)
- - date_published: 2025-02-10T04:48:17.466522+00:00
-
- ## ShodhShuddhi | Enhancing Research Quality
- - [https://pds.inflibnet.ac.in](https://pds.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:33.956210+00:00
-
- ## Shodhganga : a reservoir of Indian theses @ INFLIBNET
- - [https://shodhganga.inflibnet.ac.in](https://shodhganga.inflibnet.ac.in)
- - date_published: 2024-05-06T13:41:13.342135+00:00
-
- ## ShodhShuddhi | Enhancing Research Quality
- - [https://shodhshuddhi.inflibnet.ac.in](https://shodhshuddhi.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:46.629772+00:00
-
- ## UGC MOOCs |SWAYAM| UG AND PG COURSE
- - [https://ugcmoocs.inflibnet.ac.in](https://ugcmoocs.inflibnet.ac.in)
- - date_published: 2024-09-11T17:36:47.207835+00:00
-
- ## INFLIBNET Centre Gandhinagar
- - [https://www.inflibnet.ac.in](https://www.inflibnet.ac.in)
- - date_published: 2024-12-24T12:16:08.298120+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.irma.ac.in](https://idp.irma.ac.in)
- - date_published: 2025-02-10T07:24:34.500114+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.isec.ac.in](https://idp.isec.ac.in)
- - date_published: 2025-02-10T06:36:55.400358+00:00
-
- ## Indian Statistical Institute
- - [https://www.isical.ac.in](https://www.isical.ac.in)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Indian Statistical Institute | North-East Centre
- - [http://www.isine.ac.in](http://www.isine.ac.in)
- - date_published: 2024-12-24T17:02:39.444409+00:00
-
- ## ITM Vocational University Vadodara: Top University in Baroda Gujarat
- - [http://itm.ac.in](http://itm.ac.in)
- - date_published: 2024-07-19T17:36:24+00:00
-
- ## Center for Distance Education | JAIN (Deemed-to-be University)
- - [https://cde.jainuniversity.ac.in](https://cde.jainuniversity.ac.in)
- - date_published: 2024-12-24T17:05:18.747154+00:00
-
- ## Best University in Bangalore | Jain (Deemed-to-be University)
- - [https://events.jainuniversity.ac.in](https://events.jainuniversity.ac.in)
- - date_published: 2024-12-24T17:04:55.480594+00:00
-
- ## Top (Aerospace Engineering) Colleges in Bangalore, India | IIAEM
- - [https://iiaem.jainuniversity.ac.in](https://iiaem.jainuniversity.ac.in)
- - date_published: 2024-07-10T06:58:35+00:00
-
- ## Best University in Bangalore | JAIN (Deemed-to-be University)
- - [https://jainuniversity.ac.in](https://jainuniversity.ac.in)
- - date_published: 2024-07-14T09:57:11.757195+00:00
-
- ## School of Allied Healthcare & Sciences | JAIN (Deemed-to-be University)
- - [https://sahs.jainuniversity.ac.in](https://sahs.jainuniversity.ac.in)
- - date_published: 2024-12-24T17:04:52.795980+00:00
-
- ## JU-FET | One of the Top Engineering Colleges in Bangalore
- - [https://set.jainuniversity.ac.in](https://set.jainuniversity.ac.in)
- - date_published: 2024-12-24T17:04:58.865993+00:00
-
- ## JEE (Advanced) 2024
- - [https://jeeadv.ac.in](https://jeeadv.ac.in)
- - date_published: 2024-07-27T08:47:23+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.jiit.ac.in](https://idp.jiit.ac.in)
- - date_published: 2025-02-10T14:05:37.569320+00:00
-
- ## Official Website of Jamia Millia Islamia - Jamia
- - [https://jmi.ac.in](https://jmi.ac.in)
- - date_published: 2024-09-11T17:46:55.381289+00:00
-
- ## Jawaharlal Nehru University
- - [https://jnu.ac.in](https://jnu.ac.in)
- - date_published: 2024-09-11T17:57:50.162014+00:00
-
- ## Welcome to Jagat Taran Girls' Degree College - A Constituent Post Graduate College of University of Allahabad.
- - [http://jtgdc.ac.in](http://jtgdc.ac.in)
- - date_published: 2024-12-24T12:14:10.558931+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.kakatiya.ac.in](https://idp.kakatiya.ac.in)
- - date_published: 2025-02-10T12:24:20.321116+00:00
-
- ## SHIBBOLETH IDENTITY PROVIDER
- - [https://idp.kalasalingam.ac.in](https://idp.kalasalingam.ac.in)
- - date_published: 2025-02-10T11:18:25.023114+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.kalingauniversity.ac.in](https://idp.kalingauniversity.ac.in)
- - date_published: 2025-02-10T06:30:22.652666+00:00
-
- ## MAHATMA GANDHI CENTRAL LIBRARY Off-Campus Access
- - [https://idp.kct.ac.in](https://idp.kct.ac.in)
- - date_published: 2025-02-10T07:53:12.454261+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.keralauniversity.ac.in](https://idp.keralauniversity.ac.in)
- - date_published: 2025-02-10T10:47:42.820931+00:00
-
- ## University of Kerala
- - [https://keralauniversity.ac.in](https://keralauniversity.ac.in)
- - date_published: 2024-10-15T14:21:02.123410+00:00
-
- ## K.P. Training College – A Constituent College of University of Allahabad, Prayagraj
- - [https://kptc.ac.in](https://kptc.ac.in)
- - date_published: 2024-12-24T12:16:13.897276+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.kuk.ac.in](https://idp.kuk.ac.in)
- - date_published: 2025-02-10T12:37:30.695574+00:00
-
- ## L. D. College of Engineering
- - [http://ldce.ac.in](http://ldce.ac.in)
- - date_published: 2025-01-08T15:02:24.089071+00:00
-
- ## LICET – LOYOLA-ICAM COLLEGE OF ENGINEERING AND TECHNOLOGY
- - [https://licet.ac.in](https://licet.ac.in)
- - date_published: 2025-02-09T09:38:52.068888+00:00
-
- ## Experience Excellence, Transformative Research & Innovation
- - [http://lnmiit.ac.in](http://lnmiit.ac.in)
- - date_published: 2024-12-24T17:17:02.470693+00:00
-
- ## SPACE 2022
- - [https://space2022.lnmiit.ac.in](https://space2022.lnmiit.ac.in)
- - date_published: 2023-12-02T12:13:54+00:00
-
- ## Experience Excellence, Transformative Research & Innovation
- - [https://www.lnmiit.ac.in](https://www.lnmiit.ac.in)
- - date_published: 2024-12-24T17:16:57.793090+00:00
-
- ## Mahatma International School | CBSE
- - [http://www.mahatmainternational.ac.in](http://www.mahatmainternational.ac.in)
- - date_published: 2018-06-11T14:25:44+00:00
-
- ## Shibboleth Identity Provider
- - [https://id.maher.ac.in](https://id.maher.ac.in)
- - date_published: 2025-02-10T07:39:32.426181+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.manipuruniv.ac.in](https://idp.manipuruniv.ac.in)
- - date_published: 2025-02-10T09:09:50.152513+00:00
-
- ## Manipur University
- - [https://manipuruniv.ac.in](https://manipuruniv.ac.in)
- - date_published: 2024-09-11T18:06:09.044034+00:00
-
- ## Manipur University Online Exam Result - Exam Result
- - [https://onlineresult.manipuruniv.ac.in](https://onlineresult.manipuruniv.ac.in)
- - date_published: 2024-12-24T17:17:55.399087+00:00
-
- ## Manipur University Recruitment Portal
- - [https://recruitment.manipuruniv.ac.in](https://recruitment.manipuruniv.ac.in)
- - date_published: 2024-12-24T17:19:05.050558+00:00
-
- ## :: Maulana Azad National Urdu University ::
- - [https://manuu.ac.in](https://manuu.ac.in)
- - date_published: 2024-09-11T17:53:04.244449+00:00
-
- ## MDI Gurgaon is home to the leading management education programmes in India. Located in the heart of corporate hub Gurugram, MDI will transform you into a thought leader.
- - [https://www.mdi.ac.in](https://www.mdi.ac.in)
- - date_published: 2025-01-21T03:15:09.061775+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.mdim.ac.in](https://idp.mdim.ac.in)
- - date_published: 2025-02-10T09:34:05.887825+00:00
-
- ## Home - MDI Murshidabad
- - [http://www.mdim.ac.in](http://www.mdim.ac.in)
- - date_published: 2025-01-21T03:15:06.815834+00:00
-
- ## Picnic and Adventure Learning Camps at FRANAV Farms - Mahatma Sports Club, New Panvel
- - [http://adventurelearning.mes.ac.in](http://adventurelearning.mes.ac.in)
- - date_published: 2024-12-24T17:22:56.986198+00:00
-
- ## Campuses - MES
- - [https://campuses.mes.ac.in](https://campuses.mes.ac.in)
- - date_published: 2017-01-17T07:11:14+00:00
-
- ## Chembur Campus - MES
- - [https://chemburcampus.mes.ac.in](https://chemburcampus.mes.ac.in)
- - date_published: 2017-03-04T07:07:21+00:00
-
- ## Khanda Campus - MES
- - [https://khandacampus.mes.ac.in](https://khandacampus.mes.ac.in)
- - date_published: 2017-03-04T07:08:52+00:00
-
- ## Mahatma Education Society - MES
- - [https://mes.ac.in](https://mes.ac.in)
- - date_published: 2024-10-15T21:07:04.774348+00:00
-
- ## Mahatma Education Society's Pillai Group of Institutions: Log in to the site
- - [https://mockcet.mes.ac.in](https://mockcet.mes.ac.in)
- - date_published: 2024-10-15T21:06:52.668871+00:00
-
- ## Panvel Campus - MES
- - [https://panvelcampus.mes.ac.in](https://panvelcampus.mes.ac.in)
- - date_published: 2017-03-04T07:08:05+00:00
-
- ## Pillai College of Engineering
- - [https://pcestudentportal.mes.ac.in](https://pcestudentportal.mes.ac.in)
- - date_published: 2024-10-15T21:06:37.880091+00:00
-
- ## PCIE
- - [http://pcie.mes.ac.in](http://pcie.mes.ac.in)
- - date_published: 2024-12-24T17:23:26.151077+00:00
-
- ## Pillai HOCL Educational Campus - MES
- - [https://rasayanicampus.mes.ac.in](https://rasayanicampus.mes.ac.in)
- - date_published: 2017-03-04T07:07:47+00:00
-
- ## National Workshop on “Root Cause Failure Analysis of Boiler Tubes” | sfa.mes.ac.in
- - [http://sfa.mes.ac.in](http://sfa.mes.ac.in)
- - date_published: 2024-12-24T17:22:09.711694+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.mgu.ac.in](https://idp.mgu.ac.in)
- - date_published: 2025-02-10T21:13:16.167011+00:00
-
- ## Welcome to MG University, Kottayam
- - [https://www.mgu.ac.in](https://www.mgu.ac.in)
- - date_published: 2025-02-09T10:04:35.386506+00:00
-
- ## Top University in Pune Maharashtra - MIT ADT University
- - [https://mituniversity.ac.in](https://mituniversity.ac.in)
- - date_published: 2024-08-17T23:38:14.494870+00:00
-
- ## Naac - MIT ADT University
- - [https://naac.mituniversity.ac.in](https://naac.mituniversity.ac.in)
- - date_published: 2024-12-02T12:17:53+00:00
-
- ## Home - Martin Luther Christian University
- - [https://mlcu.ac.in](https://mlcu.ac.in)
- - date_published: 2024-12-15T13:38:22.716262+00:00
-
- ## Malaviya National Institute of Technology Jaipur
- - [https://couns-promo.mnit.ac.in](https://couns-promo.mnit.ac.in)
- - date_published: 2024-12-24T18:22:04.463144+00:00
-
- ## MNIT Guest House
- - [https://guesthouse.mnit.ac.in](https://guesthouse.mnit.ac.in)
- - date_published: 2024-12-24T17:35:52.619024+00:00
-
- ## Home - MIIC
- - [https://miic.mnit.ac.in](https://miic.mnit.ac.in)
- - date_published: 2024-12-24T17:35:40.351957+00:00
-
- ## Malaviya National Institute of Technology Jaipur
- - [https://mnit.ac.in](https://mnit.ac.in)
- - date_published: 2024-09-11T18:02:18.444844+00:00
-
- ## MNIT MRC
- - [https://mrc.mnit.ac.in](https://mrc.mnit.ac.in)
- - date_published: 2024-12-24T17:37:18.193414+00:00
-
- ## Training and Placements, MNIT Jaipur
- - [https://placements.mnit.ac.in](https://placements.mnit.ac.in)
- - date_published: 2024-12-24T17:35:35.531585+00:00
-
- ## MAHARASHTRA NATIONAL LAW UNIVERSITY - AURANGABAD
- - [https://www.mnlua.ac.in](https://www.mnlua.ac.in)
- - date_published: 2024-12-24T12:44:18.433251+00:00
-
- ## The Official Alumni Network of Motilal Nehru National Institute of Technology, Allahabad
- - [http://alumni.mnnit.ac.in](http://alumni.mnnit.ac.in)
- - date_published: 2024-12-24T17:46:09.488723+00:00
-
- ## मुख्य पृष्ठ
- - [http://hindi.mnnit.ac.in](http://hindi.mnnit.ac.in)
- - date_published: 2024-12-24T17:43:17+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.mnnit.ac.in](https://idp.mnnit.ac.in)
- - date_published: 2025-02-10T09:12:41.597371+00:00
+ - [https://www.cio.gov](https://www.cio.gov)
+ - date_published: 2024-05-08T02:43:05.016067+00:00
+
+ ## Home Page | CISA
+ - [https://cisa.gov](https://cisa.gov)
+ - date_published: 2024-07-12T16:24:22.378524+00:00
+ - tags: ['cyber defender agency', 'cybersecurity']
+
+ ## Home | NICCS
+ - [https://niccs.cisa.gov](https://niccs.cisa.gov)
+ - date_published: 2023-10-25T19:18:39.523763+00:00
+
+ ## Home Page | CISA
+ - [https://us-cert.cisa.gov](https://us-cert.cisa.gov)
+ - date_published: 2024-05-04T15:13:11.228927+00:00
+
+ ## Homepage | Boston.gov
+ - [https://data.cityofboston.gov](https://data.cityofboston.gov)
+ - date_published: 2024-09-04T03:22:58+00:00
+
+ ## Homepage | Boston.gov
+ - [http://www.cityofboston.gov](http://www.cityofboston.gov)
+ - date_published: 2024-07-01T16:21:39+00:00
+
+ ## Key West, FL | Official Website
+ - [https://www.cityofkeywest-fl.gov](https://www.cityofkeywest-fl.gov)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Portland, TN | Official Website
+ - [https://cityofportlandtn.gov](https://cityofportlandtn.gov)
+ - date_published: 2024-06-30T12:15:22.651961+00:00
 
  ## Home
- - [https://mnnit.ac.in](https://mnnit.ac.in)
- - date_published: 2024-09-11T18:04:31+00:00
+ - [https://cityofsacramento.gov](https://cityofsacramento.gov)
+ - date_published: 2024-04-28T04:28:09.933157+00:00
 
- ## SAC MNNIT
- - [http://sac.mnnit.ac.in](http://sac.mnnit.ac.in)
- - date_published: 2024-12-24T17:43:43.560930+00:00
+ ## City of Tombstone, Cochise County, Arizona – Official Website of the City of Tombstone
+ - [https://cityoftombstoneaz.gov](https://cityoftombstoneaz.gov)
+ - date_published: 2024-06-18T21:10:39+00:00
 
- ## Shibboleth Identity Provider
- - [https://idp.modyuniversity.ac.in](https://idp.modyuniversity.ac.in)
- - date_published: 2025-02-10T12:27:58.678674+00:00
+ ## https://cde.ucr.cjis.gov
+ - [https://cde.ucr.cjis.gov](https://cde.ucr.cjis.gov)
+ - date_published: 2023-11-12T13:04:34.470969+00:00
 
- ## MSAS | Mahatma School of Academics and Sports
- - [https://msas.ac.in](https://msas.ac.in)
- - date_published: 2024-12-24T17:27:46.130508+00:00
+ ## Texas' Official Unclaimed Property Site - Texas Comptroller - Texas.gov
+ - [https://claimittexas.gov](https://claimittexas.gov)
+ - date_published: 2024-06-26T17:19:13+00:00
 
- ## MSAS | Mahatma School of Academics and Sports
- - [http://www.msas.ac.in](http://www.msas.ac.in)
- - date_published: 2024-12-24T17:22:39.972301+00:00
+ ## CitizenAccess Change
+ - [https://citizenaccess.clarkcountynv.gov](https://citizenaccess.clarkcountynv.gov)
+ - date_published: 2023-02-08T18:35:39+00:00
 
- ## Madras School of Economics
- - [https://mse.ac.in](https://mse.ac.in)
- - date_published: 2024-09-09T21:55:51.673424+00:00
+ ## Welcome to Clark County, NV - Home
+ - [https://files.clarkcountynv.gov](https://files.clarkcountynv.gov)
+ - date_published: 2024-06-19T18:03:43.388531+00:00
 
- ## MSRVVP
- - [https://msrvvp.ac.in](https://msrvvp.ac.in)
- - date_published: 2024-09-09T14:23:37+00:00
+ ## Welcome to Clark County, NV - Home
+ - [https://www.clarkcountynv.gov](https://www.clarkcountynv.gov)
+ - date_published: 2024-05-04T06:55:56.098651+00:00
 
- ## Shibboleth Identity Provider
- - [https://idp.msuniv.ac.in](https://idp.msuniv.ac.in)
- - date_published: 2025-02-10T04:56:12.817467+00:00
+ ## Home - Clayton County, Georgia
+ - [https://claytoncountyga.gov](https://claytoncountyga.gov)
+ - date_published: 2024-04-11T00:00:00+00:00
 
- ## Shibboleth Identity Provider
- - [https://idp.nagalanduniversity.ac.in](https://idp.nagalanduniversity.ac.in)
- - date_published: 2025-02-10T09:25:06.097644+00:00
+ ## Clayton County's Digital Equity Initiative | Clayton County Digital Equity
+ - [https://digitalequity.claytoncountyga.gov](https://digitalequity.claytoncountyga.gov)
+ - date_published: 2024-07-15T02:07:48.294692+00:00
 
- ## NU|IPR
- - [https://ipr.nagalanduniversity.ac.in](https://ipr.nagalanduniversity.ac.in)
- - date_published: 2024-11-07T01:40:18+00:00
+ ## Munis Self Service
+ - [https://munisselfservice.claytoncountyga.gov](https://munisselfservice.claytoncountyga.gov)
+ - date_published: 2020-02-07T20:43:43+00:00
 
- ## NU|IQAC
- - [https://iqac.nagalanduniversity.ac.in](https://iqac.nagalanduniversity.ac.in)
- - date_published: 2024-12-24T17:50:26.694764+00:00
-
- ## NU:Kohima Campus
- - [https://kohima.nagalanduniversity.ac.in](https://kohima.nagalanduniversity.ac.in)
- - date_published: 2024-10-25T09:02:07+00:00
-
- ## NU:Lumami campus
- - [https://lumami.nagalanduniversity.ac.in](https://lumami.nagalanduniversity.ac.in)
- - date_published: 2024-12-24T17:49:12.712325+00:00
-
- ## NU:SAS,Medziphema Campus
- - [https://medziphema.nagalanduniversity.ac.in](https://medziphema.nagalanduniversity.ac.in)
- - date_published: 2024-01-15T09:09:22+00:00
-
- ## Nagaland University | Labor et Honor
- - [https://nagalanduniversity.ac.in](https://nagalanduniversity.ac.in)
- - date_published: 2024-09-11T17:55:39+00:00
-
- ## NURJ
- - [https://nurj.nagalanduniversity.ac.in](https://nurj.nagalanduniversity.ac.in)
- - date_published: 2023-04-13T15:35:59+00:00
-
- ## NU|RDC
- - [https://rdc.nagalanduniversity.ac.in](https://rdc.nagalanduniversity.ac.in)
- - date_published: 2024-01-20T04:23:23+00:00
-
- ## Web Site Blocked
- - [http://nehu.ac.in](http://nehu.ac.in)
- - date_published: 2024-09-11T17:39:02.471165+00:00
-
- ## Home | NERIST, Nirjuli
- - [https://nerist.ac.in](https://nerist.ac.in)
- - date_published: 2024-09-10T16:14:13+00:00
-
- ## Shibboleth Identity Provider
- - [https://library.nid.ac.in](https://library.nid.ac.in)
- - date_published: 2025-02-10T12:52:09.781553+00:00
-
- ## National Institute of Educational Planning and Administration | NIEPA
- - [http://www.niepa.ac.in](http://www.niepa.ac.in)
- - date_published: 2024-09-11T18:02:04.243249+00:00
- - date_dead_since: 2024-12-24T18:12:25.119208+00:00
-
- ## NIFT
- - [https://idp.nift.ac.in](https://idp.nift.ac.in)
- - date_published: 2025-02-10T06:51:04.448877+00:00
-
- ## NIFTEM-T
- - [https://niftem-t.ac.in](https://niftem-t.ac.in)
- - date_published: 2024-08-08T13:58:20.543302+00:00
-
- ## Home: The National Institute of Open Schooling (NIOS)
- - [https://nios.ac.in](https://nios.ac.in)
- - date_published: 2024-12-25T04:30:34.674996+00:00
-
- ## Home - National Institute of Open Schooling
- - [https://results.nios.ac.in](https://results.nios.ac.in)
- - date_published: 2024-12-24T23:48:18.424959+00:00
-
- ## Home: The National Institute of Open Schooling (NIOS)
- - [http://www.nios.ac.in](http://www.nios.ac.in)
- - date_published: 2024-12-24T16:59:51.623572+00:00
-
- ## B.Tech Chemical Engineering Admissions 2024
- - [http://ch.nirmauni.ac.in](http://ch.nirmauni.ac.in)
- - date_published: 2024-12-24T18:25:08.086662+00:00
-
- ## B.Tech/M.Tech Civil Engineering Admissions 2024
- - [http://cl.nirmauni.ac.in](http://cl.nirmauni.ac.in)
- - date_published: 2024-12-24T18:27:42.895743+00:00
-
- ## B.Tech/M.Tech Computer Science and Engineering Admissions 2024
- - [http://cse.nirmauni.ac.in](http://cse.nirmauni.ac.in)
- - date_published: 2024-12-24T18:24:38.188578+00:00
-
- ## B.Tech/M.Tech Electronics and Communication Engineering Admissions 2024
- - [http://ec.nirmauni.ac.in](http://ec.nirmauni.ac.in)
- - date_published: 2024-12-24T18:26:43.886271+00:00
-
- ## B.Tech/M.Tech Electrical Engineering Admission 2024 | B.Tech/M.Tech EE
- - [http://ee.nirmauni.ac.in](http://ee.nirmauni.ac.in)
- - date_published: 2024-12-24T18:24:01.085868+00:00
-
- ## PhD, Doctoral Programmes, Nirma University | NAAC A+ Grade
- - [http://fdsr.nirmauni.ac.in](http://fdsr.nirmauni.ac.in)
- - date_published: 2024-12-24T18:26:14.161546+00:00
-
- ## Department of Humanities and Social Sciences | Nirma University
- - [http://hss.nirmauni.ac.in](http://hss.nirmauni.ac.in)
- - date_published: 2024-12-24T18:27:13.785193+00:00
-
- ## B.Tech/M.Tech Mechanical Engineering Admissions 2024
- - [http://me.nirmauni.ac.in](http://me.nirmauni.ac.in)
- - date_published: 2024-12-24T18:23:31.460840+00:00
-
- ## Department of Mathematics | Nirma University
- - [http://mh.nirmauni.ac.in](http://mh.nirmauni.ac.in)
- - date_published: 2024-12-24T18:28:11.197104+00:00
-
- ## Nirma University - NAAC A+ Grade - UGC Approved
- - [https://nirmauni.ac.in](https://nirmauni.ac.in)
- - date_published: 2024-12-23T12:00:54+00:00
-
- ## Technology Library | Nirma University
- - [http://technologylibrary.nirmauni.ac.in](http://technologylibrary.nirmauni.ac.in)
- - date_published: 2024-12-24T18:23:00.973496+00:00
-
- ## Institute of Technology, Nirma University | NAAC A+ Grade
- - [https://technology.nirmauni.ac.in](https://technology.nirmauni.ac.in)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Home - National Institute of Securities Markets (NISM)
- - [https://nism.ac.in](https://nism.ac.in)
- - date_published: 2024-10-07T00:00:00+00:00
-
- ## Remote Access NITA
- - [https://idp.nita.ac.in](https://idp.nita.ac.in)
- - date_published: 2025-02-10T15:31:16.475326+00:00
-
- ## IIS Windows Server
- - [https://nita.ac.in](https://nita.ac.in)
- - date_published: 2022-01-12T07:35:59+00:00
-
- ## NIT Agartala
- - [https://oldweb.nita.ac.in](https://oldweb.nita.ac.in)
- - date_published: 2024-11-19T07:02:02+00:00
-
- ## The office of the Dean International, Alumni and Corporate Relations (IACR)
- - [https://iacr.nitc.ac.in](https://iacr.nitc.ac.in)
- - date_published: 2024-12-24T18:32:01.391725+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.nitc.ac.in](https://idp.nitc.ac.in)
- - date_published: 2025-02-10T08:00:40.976809+00:00
-
- ## Knowledge Resource Portal | NITC
- - [https://krp.nitc.ac.in](https://krp.nitc.ac.in)
- - date_published: 2024-12-24T18:32:47.909630+00:00
-
- ## National Institute of Technology
- - [https://nitc.ac.in](https://nitc.ac.in)
- - date_published: 2024-09-11T17:47:05.381978+00:00
-
- ## Research and Consultancy
- - [https://randc.nitc.ac.in](https://randc.nitc.ac.in)
- - date_published: 2024-12-24T18:32:37.201222+00:00
-
- ## NIT Calicut - Support Desk
- - [https://ticket.nitc.ac.in](https://ticket.nitc.ac.in)
- - date_published: 2024-12-24T18:32:51.307576+00:00
-
- ## Welcome To NIT Goa
- - [https://nitgoa.ac.in](https://nitgoa.ac.in)
- - date_published: 2024-09-11T14:33:26+00:00
-
- ## Off Campus access to E-Resources: Central Library, NIT Jalandhar
- - [https://idp.nitj.ac.in](https://idp.nitj.ac.in)
- - date_published: 2025-02-10T11:44:37.548953+00:00
-
- ## Dr. B.R. Ambedkar National Institute of Technology, Jalandhar
- - [https://nitj.ac.in](https://nitj.ac.in)
- - date_published: 2024-05-29T11:27:17+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.nitjsr.ac.in](https://idp.nitjsr.ac.in)
- - date_published: 2025-02-10T12:50:44.434595+00:00
-
- ## NIT Jamshedpur | राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर
- - [https://nitjsr.ac.in](https://nitjsr.ac.in)
- - date_published: 2024-09-10T17:02:49+00:00
-
- ## IRIS
- - [https://iris.nitk.ac.in](https://iris.nitk.ac.in)
- - date_published: 2024-12-24T18:35:37.624704+00:00
-
- ## Central Library NITK Surathkal
- - [http://library.nitk.ac.in](http://library.nitk.ac.in)
- - date_published: 2024-12-24T18:36:13.631923+00:00
-
- ## NITK Surathkal
- - [http://nitk.ac.in](http://nitk.ac.in)
- - date_published: 2024-09-11T17:43:11.271249+00:00
-
- ## NITK Surathkal Virtual Tour | Virtual tour generated by Panotour
- - [http://vtour.nitk.ac.in](http://vtour.nitk.ac.in)
- - date_published: 2024-12-24T18:34:11.963808+00:00
-
- ## National Institute of Technology, Kurukshetra – India, the land of seekers, is at the cusp of becoming Vishwa Guru all over again after 1100 years of subjugation, wars, annexures and humiliation. It is again a free country due to the sacrifices made by our leaders, freedom fighters and has learnt the art of standing tall in the midst of many a challenge of building the nation with its rich diversity, cultures, languages all over again since the last 75 years. Unity in Diversity is our mantra while making our nation stronger in every sphere.
- - [http://www.nitkkr.ac.in](http://www.nitkkr.ac.in)
- - date_published: 2024-12-25T00:04:28.212258+00:00
-
- ## National Institute of Technology, Meghalaya
- - [https://nitm.ac.in](https://nitm.ac.in)
- - date_published: 2024-09-11T17:43:28.496777+00:00
+ ## Redirecting...
+ - [https://webtrac.claytoncountyga.gov](https://webtrac.claytoncountyga.gov)
+ - date_published: 2020-07-13T15:25:38+00:00
 
  ## Home
- - [https://uba.nitm.ac.in](https://uba.nitm.ac.in)
- - date_published: 2024-12-24T18:41:54.713919+00:00
+ - [https://www.clevelandohio.gov](https://www.clevelandohio.gov)
+ - date_published: 2025-02-04T06:11:29.642539+00:00
+
+ ## Climate.gov Home
+ - [https://climate.gov](https://climate.gov)
+ - date_published: 2024-04-29T05:34:28.220552+00:00
+
+ ## U.S. Climate Resilience Toolkit | U.S. Climate Resilience Toolkit
+ - [https://toolkit.climate.gov](https://toolkit.climate.gov)
+ - date_published: 2024-07-04T06:15:34+00:00
+
+ ## ClinicalTrials.gov
+ - [https://classic.clinicaltrials.gov](https://classic.clinicaltrials.gov)
+ - date_published: 2024-09-12T20:16:31+00:00
+
+ ## ClinicalTrials.gov
+ - [https://clinicaltrials.gov](https://clinicaltrials.gov)
+ - date_published: 2024-05-13T03:14:14.423376+00:00
+
+ ## Welcome to William J. Clinton Presidential Library and Museum | William J. Clinton Presidential Library and Museum
+ - [https://www.clintonlibrary.gov](https://www.clintonlibrary.gov)
+ - date_published: 2024-06-28T20:21:09+00:00
+
+ ## Home | cloud.gov
+ - [https://cloud.gov](https://cloud.gov)
+ - date_published: 2024-07-08T19:45:48+00:00
+
+ ## FDIC: Federal Deposit Insurance Corporation
+ - [https://fdic-search.app.cloud.gov](https://fdic-search.app.cloud.gov)
+ - date_published: 2024-05-08T02:47:15.061893+00:00
+
+ ## Touchpoints
+ - [https://touchpoints.app.cloud.gov](https://touchpoints.app.cloud.gov)
+ - date_published: 2024-05-08T02:45:11.198356+00:00
+
+ ## Artificial Intelligence at CMS
+ - [http://ai.cms.gov](http://ai.cms.gov)
+ - date_published: 2024-05-29T16:10:41+00:00
+
+ ## Home - Centers for Medicare & Medicaid Services | CMS
+ - [https://cms.gov](https://cms.gov)
+ - date_published: 2024-05-10T04:59:00.906679+00:00
+
+ ## Centers for Medicare & Medicaid Services Data
+ - [https://data.cms.gov](https://data.cms.gov)
+ - date_published: 2024-09-11T18:47:07+00:00
+
+ ## CMS Developer Tools
+ - [https://developer.cms.gov](https://developer.cms.gov)
+ - date_published: 2024-07-12T07:40:57.596503+00:00
+
+ ## Overview | CMS
+ - [https://innovation.cms.gov](https://innovation.cms.gov)
+ - date_published: 2024-07-11T22:13:23+00:00
+
+ ## Home | Open Payments Data - CMS
+ - [https://openpaymentsdata.cms.gov](https://openpaymentsdata.cms.gov)
+ - date_published: 2024-05-10T04:58:57.271494+00:00
+ - tags: ['open data']
+
+ ## CMS Enterprise Portal
+ - [https://portal.cms.gov](https://portal.cms.gov)
+ - date_published: 2024-05-10T04:59:03.141510+00:00
+
+ ## Agent Broker
+ - [https://www.agentbrokerfaq.cms.gov](https://www.agentbrokerfaq.cms.gov)
+ - date_published: 2023-07-13T07:40:59+00:00
+
+ ## eGrants Login
+ - [https://egrants.cns.gov](https://egrants.cns.gov)
+ - date_published: 2024-06-15T06:14:44+00:00
+
+ ## Committee on National Security Systems
+ - [https://cnss.gov](https://cnss.gov)
+ - date_published: 2024-05-08T02:43:20.401054+00:00
+
+ ## code.gov
+ - [https://code.gov](https://code.gov)
+ - date_published: 2024-01-18T18:03:22+00:00
+
+ ## College Drinking Prevention
+ - [https://www.collegedrinkingprevention.gov](https://www.collegedrinkingprevention.gov)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## City of College Park, Maryland | Official Website
+ - [https://www.collegeparkmd.gov](https://www.collegeparkmd.gov)
+ - date_published: 2024-12-11T18:27:01.005927+00:00
+
+ ## Home | Department of Labor & Employment
+ - [https://cdle.colorado.gov](https://cdle.colorado.gov)
+ - date_published: 2024-06-18T02:39:44+00:00
+
+ ## Home | Department of Public Health & Environment
+ - [https://cdphe.colorado.gov](https://cdphe.colorado.gov)
+ - date_published: 2024-06-22T18:12:26+00:00
+
+ ## Home | Colorado.gov
+ - [https://co.colorado.gov](https://co.colorado.gov)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## COVID19 | Department of Public Health & Environment
+ - [https://covid19.colorado.gov](https://covid19.colorado.gov)
+ - date_published: 2024-06-18T03:00:11+00:00
+
+ ## Home | Governor's Dashboard
+ - [https://dashboard.colorado.gov](https://dashboard.colorado.gov)
+ - date_published: 2024-06-18T02:12:00+00:00
+
+ ## Colorado Information Marketplace | Colorado Information Marketplace | data.colorado.gov
+ - [https://data.colorado.gov](https://data.colorado.gov)
+ - date_published: 2024-05-02T12:52:12.140713+00:00
+
+ ## Home | DEMO CO
+ - [https://demo.colorado.gov](https://demo.colorado.gov)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home | Division of Homeland Security and Emergency Management
+ - [https://dhsem.colorado.gov](https://dhsem.colorado.gov)
+ - date_published: 2024-06-18T02:15:34+00:00
+
+ ## Home | Department of Revenue - Motor Vehicle
+ - [https://dmv.colorado.gov](https://dmv.colorado.gov)
+ - date_published: 2024-06-18T00:04:31+00:00
+
+ ## Home | DORA Division of Insurance
+ - [https://doi.colorado.gov](https://doi.colorado.gov)
+ - date_published: 2024-08-08T17:32:24+00:00
+
+ ## Home | The Department of Personnel & Administration
+ - [https://dpa.colorado.gov](https://dpa.colorado.gov)
+ - date_published: 2024-06-18T02:02:00+00:00
+
+ ## WCI Landing Page | Judicial Workforce Culture Initiative
+ - [https://judicialwci.colorado.gov](https://judicialwci.colorado.gov)
+ - date_published: 2024-05-02T12:51:55.003565+00:00
+
+ ## Home | Judicial Well-Being
+ - [https://judicialwellbeing.colorado.gov](https://judicialwellbeing.colorado.gov)
+ - date_published: 2024-06-18T01:31:08+00:00
+
+ ## Colorado General Assembly |
+ - [https://leg.colorado.gov](https://leg.colorado.gov)
+ - date_published: 2024-05-04T09:46:29.135871+00:00
+
+ ## Lieutenant Governor Dianne Primavera | Lt. Governors Office
+ - [https://ltgovernor.colorado.gov](https://ltgovernor.colorado.gov)
+ - date_published: 2024-06-18T01:36:37+00:00
+
+ ## MyBizColorado
+ - [https://mybiz.colorado.gov](https://mybiz.colorado.gov)
+ - date_published: 2024-05-08T03:06:12+00:00
+
+ ## CO myDMV
+ - [https://mydmv.colorado.gov](https://mydmv.colorado.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home | Colorado Office of Economic Development and International Trade
+ - [https://oedit.colorado.gov](https://oedit.colorado.gov)
+ - date_published: 2024-06-18T11:11:26+00:00
+
+ ## Home | Colorado State Internet Rules Portal
+ - [https://rulemaking.colorado.gov](https://rulemaking.colorado.gov)
+ - date_published: 2024-06-18T01:03:28+00:00
+
+ ## TRACER - Home
+ - [https://tracer.sos.colorado.gov](https://tracer.sos.colorado.gov)
+ - date_published: 2024-06-18T12:50:05.527058+00:00
+
+ ## Home | Colorado Department of the Treasury
+ - [https://treasury.colorado.gov](https://treasury.colorado.gov)
+ - date_published: 2024-06-18T00:24:47+00:00
+
+ ## Home | Colorado.gov
+ - [https://www.colorado.gov](https://www.colorado.gov)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Colorado Courts Livestreaming
+ - [https://live.coloradojudicial.gov](https://live.coloradojudicial.gov)
+ - date_published: 2024-05-02T12:52:27.483230+00:00
+
+ ## BallotTrax
+ - [https://ballottrax.coloradosos.gov](https://ballottrax.coloradosos.gov)
+ - date_published: 2024-10-23T15:34:17+00:00
+
+ ## Colorado Secretary of State
+ - [https://coloradosos.gov](https://coloradosos.gov)
+ - date_published: 2024-06-17T22:49:37+00:00
+
+ ## City of Columbus, Ohio
+ - [https://www.columbus.gov](https://www.columbus.gov)
+ - date_published: 2024-07-01T07:27:47.994312+00:00
+
+ ## Department of Commerce
+ - [https://2001-2009.commerce.gov](https://2001-2009.commerce.gov)
+ - date_published: 2016-06-06T21:22:55+00:00
+
+ ## Department of Commerce
+ - [http://2010-2014.commerce.gov](http://2010-2014.commerce.gov)
+ - date_published: 2016-06-06T21:22:55+00:00
+
+ ## Assess Costs Everywhere
+ - [http://acetool.commerce.gov](http://acetool.commerce.gov)
+ - date_published: 2024-07-03T13:32:47.459901+00:00
+
+ ## Homepage
+ - [http://beta.commerce.gov](http://beta.commerce.gov)
+ - date_published: 2024-07-03T13:32:54.255960+00:00
+
+ ## Homepage
+ - [https://commerce.gov](https://commerce.gov)
+ - date_published: 2024-05-08T02:37:16.643330+00:00
+
+ ## Homepage
+ - [https://data.commerce.gov](https://data.commerce.gov)
+ - date_published: 2024-05-08T02:37:23.001708+00:00
+
+ ## Department of Commerce
+ - [http://dir.commerce.gov](http://dir.commerce.gov)
+ - date_published: 2016-06-06T21:22:55+00:00
+
+ ## Homepage
+ - [http://open.commerce.gov](http://open.commerce.gov)
+ - date_published: 2024-07-03T13:33:39.021420+00:00
+
+ ## U.S. Department of Commerce | Performance Data Pro
+ - [https://performance.commerce.gov](https://performance.commerce.gov)
+ - date_published: 2024-05-08T02:37:13.415421+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.commerce.gov](https://search.commerce.gov)
+ - date_published: 2024-05-08T02:42:21.546942+00:00
+
+ ## Tyler Data & Insights
+ - [https://uspto.data.commerce.gov](https://uspto.data.commerce.gov)
+ - date_published: 2024-06-29T19:41:52.408407+00:00
+
+ ## Office of Space Commerce – Helping U.S. businesses use the unique medium of space to benefit our economy
+ - [https://www.space.commerce.gov](https://www.space.commerce.gov)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Congress.gov API
+ - [https://api.congress.gov](https://api.congress.gov)
+ - date_published: 2023-10-25T19:19:12.540417+00:00
+
+ ## Bioguide Search
+ - [http://bioguide.congress.gov](http://bioguide.congress.gov)
+ - date_published: 2024-06-26T17:33:31+00:00
+
+ ## Congress.gov | Library of Congress
+ - [https://congress.gov](https://congress.gov)
+ - date_published: 2024-05-08T02:42:27.756636+00:00
+
+ ## Cierpliwości...
+ - [https://crsreports.congress.gov](https://crsreports.congress.gov)
+ - date_published: 2024-04-30T06:34:34.060310+00:00
+
+ ## consumer.gov
+ - [https://consumer.gov](https://consumer.gov)
+ - date_published: 2024-05-08T02:51:36.145053+00:00
+
+ ## Consumer Financial Protection Bureau
+ - [https://consumerfinance.gov](https://consumerfinance.gov)
+ - date_published: 2023-10-25T19:19:22.686885+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.consumerfinance.gov](https://search.consumerfinance.gov)
+ - date_published: 2024-05-08T02:42:30.762051+00:00
+
+ ## consumer.gov - homepage
+ - [https://consumidor.gov](https://consumidor.gov)
+ - date_published: 2024-07-03T15:08:47+00:00
+
+ ## U.S. Copyright Office | U.S. Copyright Office
+ - [https://copyright.gov](https://copyright.gov)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Search Result | DMCA Designated Agent Directory
+ - [https://dmca.copyright.gov](https://dmca.copyright.gov)
+ - date_published: 2024-07-01T18:33:10.662192+00:00
+
+ ## Licensing Overview | U.S. Copyright Office
+ - [https://licensing.copyright.gov](https://licensing.copyright.gov)
+ - date_published: 2024-05-08T02:42:35.727318+00:00
+
+ ## U.S. Copyright Office Public Records System
+ - [https://publicrecords.copyright.gov](https://publicrecords.copyright.gov)
+ - date_published: 2024-05-08T02:42:39.628970+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.copyright.gov](https://search.copyright.gov)
+ - date_published: 2024-05-08T02:42:33.048698+00:00
+
+ ## U.S. Coral Reef Task Force Homepage
+ - [https://www.coralreef.gov](https://www.coralreef.gov)
+ - date_published: 2024-10-14T20:53:38.728184+00:00
+
+ ## Coronavirus Disease 2019 (COVID-19)
+ - [https://coronavirus.gov](https://coronavirus.gov)
+ - date_published: 2020-02-11T00:00:00+00:00
+
+ ## Coventry, CT - Official Website | Official Website
+ - [https://coventry-ct.gov](https://coventry-ct.gov)
+ - date_published: 2024-07-01T23:21:29.922277+00:00
+
+ ## Find COVID-19 guidance for your community
+ - [https://www.covid.gov](https://www.covid.gov)
+ - date_published: 2023-12-05T01:05:13+00:00
+
+ ## CPSC.gov
+ - [https://cpsc.gov](https://cpsc.gov)
+ - date_published: 2024-05-08T02:42:46.739376+00:00
+
+ ## Homepage | Office of Inspector General
+ - [https://oig.cpsc.gov](https://oig.cpsc.gov)
+ - date_published: 2024-04-24T16:42:45+00:00
+
+ ## Copyright Royalty Board
+ - [https://www.crb.gov](https://www.crb.gov)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## U.S. Chemical Safety and Hazard Investigation Board | CSB
+ - [https://www.csb.gov](https://www.csb.gov)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## CSCE
+ - [http://www.csce.gov](http://www.csce.gov)
+ - date_published: 2024-06-28T20:53:18.479652+00:00
+
+ ## Connecticut Business Services
+ - [https://business.ct.gov](https://business.ct.gov)
+ - date_published: 2024-09-18T20:27:05.428050+00:00
+
+ ## Connecticut | Open Data | Connecticut Data
+ - [https://data.ct.gov](https://data.ct.gov)
+ - date_published: 2024-09-18T20:26:04.114470+00:00
+
+ ## Self Exclusion Portal
+ - [https://gaming-exclusion.service.ct.gov](https://gaming-exclusion.service.ct.gov)
+ - date_published: 2023-08-20T19:32:30+00:00
+
+ ## Health
+ - [https://health.ct.gov](https://health.ct.gov)
+ - date_published: 2024-09-18T20:27:01.017553+00:00
+
+ ## Jobs.CT.Gov
+ - [https://jobs.ct.gov](https://jobs.ct.gov)
+ - date_published: 2024-09-18T20:25:48.193030+00:00
+
+ ## Connecticut Judicial Branch
+ - [http://jud.ct.gov](http://jud.ct.gov)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## CT.GOV-Connecticut's Official State Website
+ - [https://portal.ct.gov](https://portal.ct.gov)
+ - date_published: 2024-06-15T17:45:11.585758+00:00
+
+ ## Connecticut General Assembly
+ - [http://www.cga.ct.gov](http://www.cga.ct.gov)
+ - date_published: 2024-06-26T21:41:08.286418+00:00
+
+ ## Asistencia local para la solicitud de seguro de salud
+ - [https://ayudalocal.cuidadodesalud.gov](https://ayudalocal.cuidadodesalud.gov)
+ - date_published: 2024-09-27T08:33:47.730556+00:00
+
+ ## ¿Aún necesita seguro médico?
+ - [https://www.cuidadodesalud.gov](https://www.cuidadodesalud.gov)
+ - date_published: 2024-06-13T16:10:39+00:00
+
+ ## Cumberland County, PA - Official Website | Official Website
+ - [https://cumberlandcountypa.gov](https://cumberlandcountypa.gov)
+ - date_published: 2025-02-11T18:55:12.590991+00:00
+
+ ## The Official Government Website of Cuyahoga County
+ - [https://www.cuyahogacounty.gov](https://www.cuyahogacounty.gov)
+ - date_published: 2024-06-20T12:59:06.142128+00:00
+
+ ## Dare County, NC | Home
+ - [https://www.darenc.gov](https://www.darenc.gov)
+ - date_published: 2025-02-02T05:38:16.893476+00:00
+
+ ## Darien, CT | Official Website
+ - [https://www.darienct.gov](https://www.darienct.gov)
+ - date_published: 2024-07-01T23:24:06.882734+00:00
+
+ ## api.data.gov
+ - [https://api.data.gov](https://api.data.gov)
+ - date_published: 2023-11-20T17:24:11+00:00
+
+ ## Data.gov Home - Data.gov
+ - [https://catalog.data.gov](https://catalog.data.gov)
+ - date_published: 2024-06-21T10:43:08.467100+00:00
+
+ ## Data.gov Home - Data.gov
+ - [https://data.gov](https://data.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home | resources.data.gov
+ - [https://resources.data.gov](https://resources.data.gov)
+ - date_published: 2024-04-01T17:11:42+00:00
+
+ ## Indicators For The Sustainable Development Goals
+ - [https://sdg.data.gov](https://sdg.data.gov)
+ - date_published: 2025-02-12T02:40:38.514843+00:00
+
+ ## Welcome - Federal Data Strategy
+ - [https://strategy.data.gov](https://strategy.data.gov)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Data Privacy Framework
+ - [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov)
+ - date_published: 2024-04-16T21:10:26+00:00
+
+ ## Home
+		 · DC Business Portal
+ - [https://business.dc.gov](https://business.dc.gov)
+ - date_published: 2024-06-29T15:22:34.678689+00:00
+
+ ## | ocfo
+ - [https://cfo.dc.gov](https://cfo.dc.gov)
+ - date_published: 2025-02-11T00:50:16.675291+00:00
+
+ ## HELC
+ - [https://helc.osse.dc.gov](https://helc.osse.dc.gov)
+ - date_published: 2024-04-30T04:56:20.786151+00:00
+
+ ## Office of Attorney General for the District of Columbia | Attorney General Brian Schwalb
+ - [https://oag.dc.gov](https://oag.dc.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Open Data DC
+ - [https://opendata.dc.gov](https://opendata.dc.gov)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## DC3 | Electronic Malware Submission (EMS) Tool
+ - [https://ems.dc3on.gov](https://ems.dc3on.gov)
+ - date_published: 2024-01-25T18:06:45+00:00
+
+ ## Home
+ - [https://dea.gov](https://dea.gov)
+ - date_published: 2024-05-12T06:40:40.558591+00:00
+ - tags: ['government', 'dea']
+
+ ## DEA Museum Homepage | DEA Museum
+ - [https://museum.dea.gov](https://museum.dea.gov)
+ - date_published: 2024-05-12T06:40:34.800001+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.dea.gov](https://search.dea.gov)
+ - date_published: 2024-07-16T17:44:26.864115+00:00
+
+ ## Take Back Day
+ - [https://takebackday.dea.gov](https://takebackday.dea.gov)
+ - date_published: 2024-05-12T06:40:38.440674+00:00
+
+ ## Controlled Substance Ordering System Homepage
+ - [https://www.deaecom.gov](https://www.deaecom.gov)
+ - date_published: 2024-04-18T18:46:09+00:00
+
+ ## Home
+ - [https://basicresearch.defense.gov](https://basicresearch.defense.gov)
+ - date_published: 2024-08-18T04:57:16.075764+00:00
+
+ ## Home
+ - [https://business.defense.gov](https://business.defense.gov)
+ - date_published: 2024-05-08T02:44:25.812495+00:00
+
+ ## Home
+ - [https://comptroller.defense.gov](https://comptroller.defense.gov)
+ - date_published: 2024-05-08T02:44:28.228068+00:00
+
+ ## Home
+ - [https://data.defense.gov](https://data.defense.gov)
+ - date_published: 2024-07-03T13:48:40.315092+00:00
+
+ ## Chief Information Officer - U.S. Department of Defense
+ - [https://dodcio.defense.gov](https://dodcio.defense.gov)
+ - date_published: 2024-01-09T03:30:24.563437+00:00
+
+ ## Legacy Homepage
+ - [https://dod.defense.gov](https://dod.defense.gov)
+ - date_published: 2024-05-08T02:43:06.081378+00:00
+
+ ## Privacy, Civil Liberties and FOIA Directorate
+ - [https://dpcld.defense.gov](https://dpcld.defense.gov)
+ - date_published: 2024-05-08T02:43:40.510443+00:00
+
+ ## Defense Innovation Board
+ - [https://innovation.defense.gov](https://innovation.defense.gov)
+ - date_published: 2024-08-18T04:57:11.087028+00:00
+
+ ## U.S. Department of Defense
+ - [https://media.defense.gov](https://media.defense.gov)
+ - date_published: 2023-10-25T19:19:33.802662+00:00
+
+ ## Home
+ - [https://minerva.defense.gov](https://minerva.defense.gov)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## DoD Open Government
+ - [https://open.defense.gov](https://open.defense.gov)
+ - date_published: 2024-05-08T02:43:10.182653+00:00
+
+ ## Home
+ - [https://policy.defense.gov](https://policy.defense.gov)
+ - date_published: 2024-05-08T02:44:29.529233+00:00
+
+ ## Office Of The Under Secretary of Defense For Personnel & Readiness | Home
+ - [https://prhome.defense.gov](https://prhome.defense.gov)
+ - date_published: 2024-05-08T02:43:00.505172+00:00
+
+ ## U.S. Department of Defense
+ - [https://www.defense.gov](https://www.defense.gov)
+ - date_published: 2024-07-03T08:05:50.215544+00:00
+
+ ## Delaware Department of Justice - State of Delaware
+ - [https://attorneygeneral.delaware.gov](https://attorneygeneral.delaware.gov)
+ - date_published: 2025-01-15T02:01:06.675217+00:00
+
+ ## Delaware Courts - State of Delaware
+ - [https://courts.delaware.gov](https://courts.delaware.gov)
+ - date_published: 2025-02-03T20:30:31.538254+00:00
+
+ ## Delaware.gov - Official Website of the State of Delaware
+ - [https://delaware.gov](https://delaware.gov)
+ - date_published: 2025-02-03T20:31:42.155769+00:00
+
+ ## Department of Human Resources - Home Page
+ - [https://dhr.delaware.gov](https://dhr.delaware.gov)
+ - date_published: 2025-02-03T20:31:37.813887+00:00
+
+ ## DNREC
+ - [https://dnrec.alpha.delaware.gov](https://dnrec.alpha.delaware.gov)
+ - date_published: 2025-02-11T03:38:54.599769+00:00
+
+ ## Home
+ - [https://education.delaware.gov](https://education.delaware.gov)
+ - date_published: 2025-01-31T06:22:42.331324+00:00
+
+ ## Department of Elections - State of Delaware
+ - [https://elections.delaware.gov](https://elections.delaware.gov)
+ - date_published: 2024-09-10T12:08:48+00:00
+
+ ## Business First Steps - State of Delaware
+ - [https://firststeps.delaware.gov](https://firststeps.delaware.gov)
+ - date_published: 2025-02-03T20:30:26.328608+00:00
+
+ ## Governor Matt Meyer - State of Delaware
+ - [https://governor.delaware.gov](https://governor.delaware.gov)
+ - date_published: 2025-02-03T20:31:51.556401+00:00
+
+ ## DIVISION OF CORPORATIONS
+ - [https://icis.corp.delaware.gov](https://icis.corp.delaware.gov)
+ - date_published: 2024-08-08T23:34:20.336340+00:00
+
+ ## Home - Delaware General Assembly
+ - [https://legis.delaware.gov](https://legis.delaware.gov)
+ - date_published: 2023-10-25T19:19:49.711045+00:00
+
+ ## State of Delaware News
+ - [https://news.delaware.gov](https://news.delaware.gov)
+ - date_published: 2025-02-03T20:31:55.684204+00:00
+
+ ## Office of the Marijuana Commissioner
+ - [https://omc.delaware.gov](https://omc.delaware.gov)
+ - date_published: 2024-08-19T08:49:41.964399+00:00
+
+ ## Public Health Alert Information Portal
+ - [https://publichealthalerts.delaware.gov](https://publichealthalerts.delaware.gov)
+ - date_published: 2025-02-03T20:31:45.525268+00:00
+
+ ## Delaware Regulations - State of Delaware
+ - [https://regulations.delaware.gov](https://regulations.delaware.gov)
+ - date_published: 2025-02-03T20:30:27.699852+00:00
+
+ ## Division of Revenue - Department of Finance - State of Delaware
+ - [https://revenue.delaware.gov](https://revenue.delaware.gov)
+ - date_published: 2025-02-03T20:31:53.487191+00:00
+
+ ## Delta County
+ - [https://deltacountymi.gov](https://deltacountymi.gov)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Home | House Democrats
+ - [https://www.dems.gov](https://www.dems.gov)
+ - date_published: 2024-06-27T14:09:50.507207+00:00
+
+ ## Department of Health & Human Services
+ - [http://www.dhhs.gov](http://www.dhhs.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home | Homeland Security
+ - [https://dhs.gov](https://dhs.gov)
+ - date_published: 2024-05-08T02:47:37.258099+00:00
+
+ ## CBP DTOPS
+ - [https://dtops.cbp.dhs.gov](https://dtops.cbp.dhs.gov)
+ - date_published: 2024-05-06T22:41:14.636981+00:00
+
+ ## Official ESTA Application Website, U.S. Customs and Border Protection
+ - [https://esta.cbp.dhs.gov](https://esta.cbp.dhs.gov)
+ - date_published: 2024-08-21T15:14:20+00:00
+
+ ## Homepage - ServeU
+ - [https://hcec.tsa.dhs.gov](https://hcec.tsa.dhs.gov)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Home Page
+ - [https://hotline.oig.dhs.gov](https://hotline.oig.dhs.gov)
+ - date_published: 2024-07-03T13:24:35.301286+00:00
+
+ ## I94 - Official Website
+ - [https://i94.cbp.dhs.gov](https://i94.cbp.dhs.gov)
+ - date_published: 2024-04-11T12:45:12+00:00
+
+ ## Home | Office of Inspector General
+ - [https://oig.dhs.gov](https://oig.dhs.gov)
+ - date_published: 2024-05-08T02:37:10.705872+00:00
+
+ ## Login Template Title
+ - [https://trade.cbp.dhs.gov](https://trade.cbp.dhs.gov)
+ - date_published: 2023-09-10T15:44:43+00:00
+
+ ## Official Trusted Traveler Program Website | Department of Homeland Security
+ - [https://ttp.cbp.dhs.gov](https://ttp.cbp.dhs.gov)
+ - date_published: 2024-06-18T14:23:34+00:00
+
+ ## Official Trusted Traveler Program Website | Department of Homeland Security
+ - [https://ttp.dhs.gov](https://ttp.dhs.gov)
+ - date_published: 2024-08-13T17:29:50+00:00
+
+ ## Accessibility for teams
+ - [https://accessibility.digital.gov](https://accessibility.digital.gov)
+ - date_published: 2025-02-04T01:38:42.236844+00:00
+
+ ## USWDS: The United States Web Design System | U.S. Web Design System (USWDS)
+ - [https://designsystem.digital.gov](https://designsystem.digital.gov)
+ - date_published: 2023-10-25T19:20:02.198655+00:00
+
+ ## Digital.gov
+ - [https://digital.gov](https://digital.gov)
+ - date_published: 2024-05-09T08:30:21.565024+00:00
+
+ ## Touchpoints
+ - [https://touchpoints.digital.gov](https://touchpoints.digital.gov)
+ - date_published: 2024-05-14T18:17:43+00:00
+
+ ## U.S. Web Design System: A design system for the federal government
+ - [https://v1.designsystem.digital.gov](https://v1.designsystem.digital.gov)
+ - date_published: 2020-10-01T19:06:44+00:00
+
+ ## USWDS: The United States Web Design System
+ - [https://v2.designsystem.digital.gov](https://v2.designsystem.digital.gov)
+ - date_published: 2024-06-06T14:00:16+00:00
+
+ ## Content Manager
+ - [https://workflow.digital.gov](https://workflow.digital.gov)
+ - date_published: 2023-12-27T23:18:22+00:00
+
+ ## homepage | Digital Dashboard
+ - [https://digitaldashboard.gov](https://digitaldashboard.gov)
+ - date_published: 2024-07-20T21:55:04.431104+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://find.digitalgov.gov](https://find.digitalgov.gov)
+ - date_published: 2024-07-10T10:36:13.242436+00:00
+
+ ## Digital.gov
+ - [https://www.digitalgov.gov](https://www.digitalgov.gov)
+ - date_published: 2024-06-28T21:41:41+00:00
+
+ ## Home | disasterassistance.gov
+ - [https://disasterassistance.gov](https://disasterassistance.gov)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Home
+ - [https://dni.gov](https://dni.gov)
+ - date_published: 2023-10-25T19:20:05.412646+00:00
+
+ ## BIS Website
+ - [https://bis.doc.gov](https://bis.doc.gov)
+ - date_published: 2023-10-25T19:20:19.432638+00:00
+
+ ## Library Calendar -
+        Commerce Research Library
+ - [https://calendar.library.doc.gov](https://calendar.library.doc.gov)
+ - date_published: 2024-07-03T13:25:43.912598+00:00
+
+ ## Electronic FOIA
+ - [https://efoia.bis.doc.gov](https://efoia.bis.doc.gov)
+ - date_published: 2024-05-08T02:45:17.572655+00:00
+
+ ## Commerce Research Library: Commerce Research Library - Home: Home
+ - [https://library.doc.gov](https://library.doc.gov)
+ - date_published: 2024-05-08T02:37:20.476351+00:00
+
+ ## Homepage
+ - [http://osec.doc.gov](http://osec.doc.gov)
+ - date_published: 2024-05-08T02:34:51.691213+00:00
+
+ ## BIS SNAP-R Exporter Web Application
+ - [https://snapr.bis.doc.gov](https://snapr.bis.doc.gov)
+ - date_published: 2024-05-08T02:45:19.861609+00:00
+
+ ## Homepage
+ - [http://www.doc.gov](http://www.doc.gov)
+ - date_published: 2024-07-03T14:07:16.188658+00:00
+
+ ## Home Page | National Telecommunications and Information Administration
+ - [http://www.ntia.doc.gov](http://www.ntia.doc.gov)
+ - date_published: 2024-07-02T22:58:30+00:00
+
+ ## Office of Inspector General
+ - [https://www.oig.doc.gov](https://www.oig.doc.gov)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home — DOE Directives, Guidance, and Delegations
+ - [https://directives.doe.gov](https://directives.doe.gov)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home — NNSA Directives
+ - [https://directives.nnsa.doe.gov](https://directives.nnsa.doe.gov)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## N3B
+ - [https://ext.em-la.doe.gov](https://ext.em-la.doe.gov)
+ - date_published: 2024-03-13T17:30:47+00:00
+
+ ## DOE Joint Genome Institute: A DOE Office of Science User Facility of Lawrence Berkeley National Laboratory
+ - [https://jgi.doe.gov](https://jgi.doe.gov)
+ - date_published: 2024-07-08T15:39:19.724842+00:00
+
+ ## Department of Energy
+ - [http://www.doe.gov](http://www.doe.gov)
+ - date_published: 2025-01-16T05:50:03.029762+00:00
+
+ ## Office of International Affairs
+ - [http://www.nnsa.doe.gov](http://www.nnsa.doe.gov)
+ - date_published: 2024-10-15T22:01:21+00:00
+
+ ## Home — DOE Technical Standards Program
+ - [https://www.standards.doe.gov](https://www.standards.doe.gov)
+ - date_published: 2024-07-03T14:19:21.503251+00:00
+
+ ## Open data, design, & development at the Department of the Interior
+ - [https://blog-nrrd.doi.gov](https://blog-nrrd.doi.gov)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## U.S. Department of the Interior
+ - [https://doi.gov](https://doi.gov)
+ - date_published: 2024-06-20T07:59:22+00:00
+
+ ## Home
+ - [https://revenuedata.doi.gov](https://revenuedata.doi.gov)
+ - date_published: 2024-05-06T17:11:57.313027+00:00
+
+ ## Home | Office of Inspector General, U.S. Department of the Interior
+ - [https://www.doioig.gov](https://www.doioig.gov)
+ - date_published: 2024-06-14T16:18:08+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://dojmt.gov](https://dojmt.gov)
+ - date_published: 2024-05-01T03:34:43.583096+00:00
+
+ ## Home
+ - [https://blog.dol.gov](https://blog.dol.gov)
+ - date_published: 2024-05-08T02:45:41.015499+00:00
+
+ ## Home | U.S. Department of Labor
+ - [https://dol.gov](https://dol.gov)
+ - date_published: 2023-10-25T19:20:24.712207+00:00
+
+ ## Office of Inspector General - U.S. Department of Labor
+ - [https://oig.dol.gov](https://oig.dol.gov)
+ - date_published: 2024-05-08T02:35:04.001248+00:00
+
+ ## Redirect
+ - [https://webapps.dol.gov](https://webapps.dol.gov)
+ - date_published: 2024-05-08T02:45:31.998974+00:00
+
+ ## Unemployment Insurance Benefit Payments, Employment & Training Administration (ETA) - U.S. Department of Labor
+ - [https://oui.doleta.gov](https://oui.doleta.gov)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## ETA
+ - [https://www.doleta.gov](https://www.doleta.gov)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Datos sobre la donación de órganos, córneas y tejidos | donaciondeorganos.gov
+ - [http://donaciondeorganos.gov](http://donaciondeorganos.gov)
+ - date_published: 2024-06-17T20:43:52+00:00
+
+ ## Check the Box | US Department of Transportation
+ - [https://checkthebox.dot.gov](https://checkthebox.dot.gov)
+ - date_published: 2024-07-16T22:02:32+00:00
+
+ ## Departmental Office of Civil Rights | US Department of Transportation
+ - [https://civilrights.dot.gov](https://civilrights.dot.gov)
+ - date_published: 2024-05-08T02:45:53.154137+00:00
+
+ ## Department of Transportation
+ - [https://dot.gov](https://dot.gov)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Federal Lands Highway | FHWA
+ - [https://flh.fhwa.dot.gov](https://flh.fhwa.dot.gov)
+ - date_published: 2024-07-03T12:51:34+00:00
+
+ ## Federal Highway Administration
+ - [https://highways.dot.gov](https://highways.dot.gov)
+ - date_published: 2023-10-25T19:20:28.006537+00:00
+
+ ## Home - LTBP InfoBridge
+ - [https://infobridge.fhwa.dot.gov](https://infobridge.fhwa.dot.gov)
+ - date_published: 2024-05-08T02:45:55.684362+00:00
+
+ ## FHWA InfoHighway
+ - [https://infohighway.fhwa.dot.gov](https://infohighway.fhwa.dot.gov)
+ - date_published: 2024-01-08T07:10:55+00:00
+
+ ## LTPP InfoPave - Home
+ - [https://infopave.fhwa.dot.gov](https://infopave.fhwa.dot.gov)
+ - date_published: 2024-07-03T14:10:52.150539+00:00
+
+ ## FHWA InfoTechnology – InfoTechnology
+ - [https://infotechnology.fhwa.dot.gov](https://infotechnology.fhwa.dot.gov)
+ - date_published: 2024-07-03T14:10:55.689779+00:00
+
+ ## Maritime Administration
+ - [https://maritime.dot.gov](https://maritime.dot.gov)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Manual on Uniform Traffic Control Devices (MUTCD) - FHWA
+ - [https://mutcd.fhwa.dot.gov](https://mutcd.fhwa.dot.gov)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## FMCSA National Registry
+ - [https://nationalregistry.fmcsa.dot.gov](https://nationalregistry.fmcsa.dot.gov)
+ - date_published: 2024-03-25T18:39:57+00:00
+
+ ## FHWA Operations
+ - [https://ops.fhwa.dot.gov](https://ops.fhwa.dot.gov)
+ - date_published: 2024-05-08T02:45:57.636581+00:00
+
+ ## Pipeline and Hazardous Materials Safety Administration
+ - [https://phmsa.dot.gov](https://phmsa.dot.gov)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Federal Railroad Administration
+ - [https://railroads.dot.gov](https://railroads.dot.gov)
+ - date_published: 2024-05-12T07:28:45.336733+00:00
 
  ## IIS Windows Server
- - [https://nitmanipur.ac.in](https://nitmanipur.ac.in)
- - date_published: 2024-09-05T09:22:34+00:00
-
- ## National Institute of Technology - Mizoram Alumni
- - [http://alumni.nitmz.ac.in](http://alumni.nitmz.ac.in)
- - date_published: 2024-12-24T18:42:46.810721+00:00
-
- ## IIS Windows Server
- - [https://nitmz.ac.in](https://nitmz.ac.in)
- - date_published: 2024-09-05T09:22:34+00:00
-
- ## NIT PATNA | National Institute of Technology Patna
- - [http://www.nitp.ac.in](http://www.nitp.ac.in)
- - date_published: 2024-12-25T00:03:33.832508+00:00
-
- ## AIIR :: NIT Rourkela
- - [https://alum.nitrkl.ac.in](https://alum.nitrkl.ac.in)
- - date_published: 2024-12-24T18:44:11.030953+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.nitrkl.ac.in](https://idp.nitrkl.ac.in)
- - date_published: 2025-02-10T21:46:32.228470+00:00
-
- ## Zimbra Web Client Sign In
- - [https://mail.nitrkl.ac.in](https://mail.nitrkl.ac.in)
- - date_published: 2024-12-24T18:45:21.740999+00:00
-
- ## NIT Rourkela
- - [https://nitrkl.ac.in](https://nitrkl.ac.in)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## NIT Rourkela
- - [https://website.nitrkl.ac.in](https://website.nitrkl.ac.in)
- - date_published: 2024-12-24T18:43:51.376968+00:00
-
- ## Codeutsava 8.0 - Central India's Largest Coding Event
- - [https://codeutsava.nitrr.ac.in](https://codeutsava.nitrr.ac.in)
- - date_published: 2024-09-21T13:09:02+00:00
- - date_dead_since: 2024-12-24T18:53:37.972639+00:00
-
- ## ::: National Institute of Technology Raipur :::
- - [https://nitrr.ac.in](https://nitrr.ac.in)
- - date_published: 2024-09-11T17:47:11.176277+00:00
-
- ## CoMSO 2024
- - [http://comso.nits.ac.in](http://comso.nits.ac.in)
- - date_published: 2024-08-21T05:24:07+00:00
-
- ## Emerging Electronics And Automation || 2022
- - [http://e2a2022.nits.ac.in](http://e2a2022.nits.ac.in)
- - date_published: 2022-12-11T07:29:52+00:00
-
- ## ICRABS 2022
- - [http://icrabs.nits.ac.in](http://icrabs.nits.ac.in)
- - date_published: 2022-09-26T09:16:42+00:00
-
- ## MNDCS 2025
- - [http://mndcs.nits.ac.in](http://mndcs.nits.ac.in)
- - date_published: 2024-12-06T03:17:27+00:00
-
- ## SIPCOV 2025
- - [http://sipcov.nits.ac.in](http://sipcov.nits.ac.in)
- - date_published: 2024-10-16T00:59:36+00:00
-
- ## National Institute of Technology, Silchar
- - [https://www.nits.ac.in](https://www.nits.ac.in)
- - date_published: 2024-09-11T17:52:50.742009+00:00
-
- ## NIT Sikkim | Home
- - [https://nitsikkim.ac.in](https://nitsikkim.ac.in)
- - date_published: 2024-09-11T17:38:43.733029+00:00
-
- ## T&P Cell - NIT Sikkim
- - [https://placement.nitsikkim.ac.in](https://placement.nitsikkim.ac.in)
- - date_published: 2024-12-24T19:13:09.399583+00:00
-
- ## NIT Srinagar
- - [https://nitsri.ac.in](https://nitsri.ac.in)
- - date_published: 2024-09-11T17:45:23.367351+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.nitttrchd.ac.in](https://idp.nitttrchd.ac.in)
- - date_published: 2025-02-10T14:35:45.044641+00:00
-
- ## NITTTR Chandigarh : एनआईटीटीटीआर चंडीगढ़
- - [https://nitttrchd.ac.in](https://nitttrchd.ac.in)
- - date_published: 2024-09-11T17:56:19.835495+00:00
-
- ## NITTTR, Kolkata
- - [http://www.nitttrkol.ac.in](http://www.nitttrkol.ac.in)
- - date_published: 2024-09-11T17:45:04.982003+00:00
-
- ## National Institute of Technology, Uttarakhand
- - [https://nituk.ac.in](https://nituk.ac.in)
- - date_published: 2024-09-11T17:38:37.289888+00:00
-
- ## National Institute of Technology, Uttarakhand
- - [https://portfolios.nituk.ac.in](https://portfolios.nituk.ac.in)
- - date_published: 2024-12-24T19:21:31.106376+00:00
-
- ## NIT Warangal
- - [https://nitw.ac.in](https://nitw.ac.in)
- - date_published: 2024-09-10T14:17:48+00:00
-
- ## National Law School of India University -
- - [https://www.nls.ac.in](https://www.nls.ac.in)
- - date_published: 2024-12-24T12:45:09.106488+00:00
-
- ## NLUJAA
- - [http://www.nluassam.ac.in](http://www.nluassam.ac.in)
- - date_published: 2024-12-24T12:43:40.185567+00:00
-
- ## National Law University
- - [http://www.nlujodhpur.ac.in](http://www.nlujodhpur.ac.in)
- - date_published: 2024-12-24T12:44:34.656021+00:00
-
- ## National Law University, Nagpur
- - [http://www.nlunagpur.ac.in](http://www.nlunagpur.ac.in)
- - date_published: 2024-12-24T12:43:48.435369+00:00
-
- ## NMEICT | National Mission on Education through Information and Communication Technology
- - [https://nmeict.ac.in](https://nmeict.ac.in)
- - date_published: 2024-06-12T11:10:48.645709+00:00
-
- ## NPTEL IITm
- - [https://nptel.ac.in](https://nptel.ac.in)
- - date_published: 2024-06-22T11:32:34.187507+00:00
-
- ## NTA Exam  | India
- - [https://exams.nta.ac.in](https://exams.nta.ac.in)
- - date_published: 2024-07-11T12:44:18+00:00
-
- ## Fit-India
- - [https://fitindia.nta.ac.in](https://fitindia.nta.ac.in)
- - date_published: 2024-12-25T00:28:39.609649+00:00
-
- ## Parul University Vadodara: Best Private University in Gujarat
- - [https://paruluniversity.ac.in](https://paruluniversity.ac.in)
- - date_published: 2024-08-17T23:38:10.696363+00:00
-
- ## PCE E-classroom
- - [https://e-classroom.pce.ac.in](https://e-classroom.pce.ac.in)
- - date_published: 2018-06-11T00:00:00+00:00
-
- ## PCE | Pillai College of Engineering
- - [https://pce.ac.in](https://pce.ac.in)
- - date_published: 2024-06-17T01:57:19.649527+00:00
-
- ## 2023 - PCE Exam Result
- - [https://pceexamresults.pce.ac.in](https://pceexamresults.pce.ac.in)
- - date_published: 2023-06-21T09:11:42+00:00
-
- ## TPC-PCE
- - [https://tpc.pce.ac.in](https://tpc.pce.ac.in)
- - date_published: 2024-05-25T12:21:06+00:00
-
- ## PCER Panvel Homepage | Pillai College of Education and Research
- - [http://www.pcerpanvel.ac.in](http://www.pcerpanvel.ac.in)
- - date_published: 2024-12-24T17:23:04.855925+00:00
-
- ## PiMSR | Pillai Institute of Management Studies and Research
- - [https://pimsr.ac.in](https://pimsr.ac.in)
- - date_published: 2021-06-24T10:40:39+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.psgtech.ac.in](https://idp.psgtech.ac.in)
- - date_published: 2025-02-10T16:23:27.369539+00:00
-
- ## Finance and Accounts Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://accounts.puchd.ac.in](https://accounts.puchd.ac.in)
- - date_published: 2024-12-15T12:58:48.000249+00:00
-
- ## University Admissions - Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://admissions.puchd.ac.in](https://admissions.puchd.ac.in)
- - date_published: 2024-12-15T12:58:26.399209+00:00
-
- ## Central Animal House Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://animalhouse.puchd.ac.in](https://animalhouse.puchd.ac.in)
- - date_published: 2024-12-15T12:58:21.247754+00:00
-
- ## Bhai Ghanaiya Ji Institute of Health Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://bgjih.puchd.ac.in](https://bgjih.puchd.ac.in)
- - date_published: 2024-12-15T12:58:36.656663+00:00
-
- ## Campus Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://campusstudent.puchd.ac.in](https://campusstudent.puchd.ac.in)
- - date_published: 2024-12-15T12:59:24.163458+00:00
-
- ## Dr. A.P.J. Abdul Kalam Computer Centre Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://cc.puchd.ac.in](https://cc.puchd.ac.in)
- - date_published: 2024-12-15T12:54:19.710746+00:00
-
- ## Centre for Industry Institute Partnership Programme Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://ciipp.puchd.ac.in](https://ciipp.puchd.ac.in)
- - date_published: 2024-12-15T12:57:43.745674+00:00
-
- ## Central Placement Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://cpc.puchd.ac.in](https://cpc.puchd.ac.in)
- - date_published: 2024-12-15T13:01:36.086078+00:00
-
- ## Industry Academia Book
- - [https://cpr.puchd.ac.in](https://cpr.puchd.ac.in)
- - date_published: 2024-12-15T13:00:12.252025+00:00
-
- ## Chandigarh Region Innovation and Knowledge Cluster (CRIKC).
- - [https://crikc.puchd.ac.in](https://crikc.puchd.ac.in)
- - date_published: 2024-12-15T12:58:28.902237+00:00
-
- ## Centre for Skill Development & Entrepreneurship Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://csde.puchd.ac.in](https://csde.puchd.ac.in)
- - date_published: 2024-12-15T12:59:01.124194+00:00
-
- ## Department of Computer Science & Applications Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://dcsa.puchd.ac.in](https://dcsa.puchd.ac.in)
- - date_published: 2024-12-15T12:59:16.801275+00:00
-
- ## Panjab University Directory Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://directory.puchd.ac.in](https://directory.puchd.ac.in)
- - date_published: 2024-12-15T12:59:36.275145+00:00
-
- ## Dean International Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://dis.puchd.ac.in](https://dis.puchd.ac.in)
- - date_published: 2024-12-15T12:57:23.143230+00:00
-
- ## Dean of University Instruction Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://dui.puchd.ac.in](https://dui.puchd.ac.in)
- - date_published: 2024-12-15T13:01:27.785070+00:00
-
- ## Entrepreneurship, Employability and Innovation Hub (EEI) – (RUSA-State Project Directorate, Chandigarh)
- - [https://eei.puchd.ac.in](https://eei.puchd.ac.in)
- - date_published: 2024-12-15T12:57:58.067171+00:00
-
- ## Equal Opportunity Cell for Persons with Disabilities Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://eocpwd.puchd.ac.in](https://eocpwd.puchd.ac.in)
- - date_published: 2024-12-15T12:55:57.135615+00:00
-
- ## Panjab University Examination Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://exams.puchd.ac.in](https://exams.puchd.ac.in)
- - date_published: 2024-12-15T12:57:37.742004+00:00
-
- ## University Forms Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://forms.puchd.ac.in](https://forms.puchd.ac.in)
- - date_published: 2024-12-15T12:59:42.699354+00:00
-
- ## Official Website of Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://gallery.puchd.ac.in](https://gallery.puchd.ac.in)
- - date_published: 2024-12-15T12:58:44.149967+00:00
-
- ## Panjab University Hostels Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://hostels.puchd.ac.in](https://hostels.puchd.ac.in)
- - date_published: 2024-12-15T12:54:37.843419+00:00
-
- ## About  -  Centre for IAS  & Other Competitive Examinations Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://iasc.puchd.ac.in](https://iasc.puchd.ac.in)
- - date_published: 2024-12-15T12:58:51.453945+00:00
-
- ## DST Inspire Internship Program Centre Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://inspire.puchd.ac.in](https://inspire.puchd.ac.in)
- - date_published: 2024-12-15T12:59:26.727694+00:00
-
- ## University Home
- - [https://iqac.puchd.ac.in](https://iqac.puchd.ac.in)
- - date_published: 2024-12-15T12:54:49.306330+00:00
-
- ## University Jobs Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://jobs.puchd.ac.in](https://jobs.puchd.ac.in)
- - date_published: 2024-12-15T12:54:14.930548+00:00
-
- ## A. C. Joshi Library Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://library.puchd.ac.in](https://library.puchd.ac.in)
- - date_published: 2024-12-15T12:54:35.590098+00:00
-
- ## National Education Policy Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://nep.puchd.ac.in](https://nep.puchd.ac.in)
- - date_published: 2024-12-15T12:58:01.595637+00:00
-
- ## News & Updates - Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://news.puchd.ac.in](https://news.puchd.ac.in)
- - date_published: 2024-12-13T00:00:00+00:00
-
- ## Oral History Project | Early Panjab University (1947-1965)
- - [https://oralhistory.puchd.ac.in](https://oralhistory.puchd.ac.in)
- - date_published: 2024-12-15T12:54:02.703526+00:00
-
- ## Permanent Anti-Discrimination Cell for Transgender Students Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://padcts.puchd.ac.in](https://padcts.puchd.ac.in)
- - date_published: 2024-12-15T12:58:57.605548+00:00
-
- ## Welcome to Panjab University Payment Portal ~ Pay Online | Panjab University Online Payment Portal
- - [https://payonline.puchd.ac.in](https://payonline.puchd.ac.in)
- - date_published: 2024-12-15T12:54:56.322739+00:00
-
- ## Department of Physical Education Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://physicaleducation.puchd.ac.in](https://physicaleducation.puchd.ac.in)
- - date_published: 2024-12-15T12:57:15.353992+00:00
-
- ## About  -  Publication Bureau Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://publicationbureau.puchd.ac.in](https://publicationbureau.puchd.ac.in)
- - date_published: 2024-12-15T12:56:59.735388+00:00
-
- ## Public Relations Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://publicrelations.puchd.ac.in](https://publicrelations.puchd.ac.in)
- - date_published: 2024-12-15T12:56:57.232779+00:00
-
- ## Official Website of Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://puchd.ac.in](https://puchd.ac.in)
- - date_published: 2024-10-30T20:17:45.374946+00:00
-
- ## Jyotirgamaya: 91.2 MHz - Panjab University Community Radio Station Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://radiostation.puchd.ac.in](https://radiostation.puchd.ac.in)
- - date_published: 2024-12-15T12:56:53.704934+00:00
-
- ## Research & Development Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://rdc.puchd.ac.in](https://rdc.puchd.ac.in)
- - date_published: 2024-12-15T12:56:06.173150+00:00
-
- ## Registrar's Office Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://registrar.puchd.ac.in](https://registrar.puchd.ac.in)
- - date_published: 2024-12-15T13:01:06.455544+00:00
-
- ## Sophisticated Analytical Instrumentation Facility, CIL and UCIM Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://rsic.puchd.ac.in](https://rsic.puchd.ac.in)
- - date_published: 2024-12-15T12:59:04.984206+00:00
-
- ## Right to Information (RTI) Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://rti.puchd.ac.in](https://rti.puchd.ac.in)
- - date_published: 2024-12-15T12:54:22.909032+00:00
-
- ## SC/ST Cell Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://scst.puchd.ac.in](https://scst.puchd.ac.in)
- - date_published: 2024-12-15T12:54:42.472527+00:00
-
- ## Colloquium Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://seminar.puchd.ac.in](https://seminar.puchd.ac.in)
- - date_published: 2024-12-15T12:57:20.112013+00:00
-
- ## Senate, Syndicate - Panjab University Administration Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://senatesyndicate.puchd.ac.in](https://senatesyndicate.puchd.ac.in)
- - date_published: 2024-12-15T12:57:33.155035+00:00
-
- ## Student Grievances Redressal Committee (SGRC) Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://sgrc.puchd.ac.in](https://sgrc.puchd.ac.in)
- - date_published: 2024-12-15T12:58:04.634893+00:00
-
- ## Directorate of Sports Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://sports.puchd.ac.in](https://sports.puchd.ac.in)
- - date_published: 2024-12-15T13:01:31.512220+00:00
-
- ## University Tenders  -  University Tenders Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://tenders.puchd.ac.in](https://tenders.puchd.ac.in)
- - date_published: 2024-12-15T13:00:53.856697+00:00
-
- ## University Business School Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://ubs.puchd.ac.in](https://ubs.puchd.ac.in)
- - date_published: 2024-12-15T12:58:14.736584+00:00
-
- ## Centre for Distance and Online Education Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
- - [https://usol.puchd.ac.in](https://usol.puchd.ac.in)
- - date_published: 2024-12-15T12:59:10.858510+00:00
-
- ## RGU Admissions
- - [https://admissions.rgu.ac.in](https://admissions.rgu.ac.in)
- - date_published: 2024-08-23T10:29:48+00:00
-
- ## Rajiv Gandhi University, Arunachal Pradesh
- - [https://rgu.ac.in](https://rgu.ac.in)
- - date_published: 2024-09-11T18:06:48.631466+00:00
-
- ## Welcome to Department of Computer Science | Department of Computer Science
- - [https://cs.rkmvu.ac.in](https://cs.rkmvu.ac.in)
- - date_published: 2019-03-22T06:28:30+00:00
-
- ## Home Page New - Courses in Indian Spiritual and Cultural Heritage
- - [https://ish.rkmvu.ac.in](https://ish.rkmvu.ac.in)
- - date_published: 2024-12-24T19:29:27.084610+00:00
-
- ## Department of Mathematics , RKMVERI (Deemed University)
- - [https://maths.rkmvu.ac.in](https://maths.rkmvu.ac.in)
- - date_published: 2024-12-24T19:28:42.474365+00:00
-
- ## RKMVERI (Deemed University)
- - [https://rkmvu.ac.in](https://rkmvu.ac.in)
- - date_published: 2024-12-24T19:29:34.665349+00:00
-
- ## Dept. of Sanskrit and Philosophy - RKMVERI (Deemed University)
- - [https://sanskrit.rkmvu.ac.in](https://sanskrit.rkmvu.ac.in)
- - date_published: 2024-12-24T19:28:47.954000+00:00
-
- ## Dept. of Sports Science & Yoga, RKMVERI (Deemed University)
- - [https://sy.rkmvu.ac.in](https://sy.rkmvu.ac.in)
- - date_published: 2024-12-24T19:28:53.650799+00:00
-
- ## RKMVERI (Deemed University) Ranchi Campus
- - [https://www.rkmvuranchi.ac.in](https://www.rkmvuranchi.ac.in)
- - date_published: 2024-12-24T19:29:15.253117+00:00
-
- ## Rajasthan Technical University | Kota Rajasthan
- - [https://www.rtu.ac.in](https://www.rtu.ac.in)
- - date_published: 2024-12-24T19:52:29.922840+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.ruralunivlibrary.ac.in](https://idp.ruralunivlibrary.ac.in)
- - date_published: 2025-02-10T09:02:58.845829+00:00
-
- ## Samarth eGov Suite - Docs
- - [https://docs.samarth.ac.in](https://docs.samarth.ac.in)
- - date_published: 2024-12-24T09:59:09+00:00
-
- ## Home | manipuruniv
- - [https://lms-manipuruniv.samarth.ac.in](https://lms-manipuruniv.samarth.ac.in)
- - date_published: 2024-12-24T17:19:13+00:00
-
- ## Login - Samarth eGov Suite
- - [https://vnit.samarth.ac.in](https://vnit.samarth.ac.in)
- - date_published: 2024-08-07T17:25:44.540834+00:00
-
- ## Shibboleth Identity Provider
- - [https://idp.santosh.ac.in](https://idp.santosh.ac.in)
- - date_published: 2025-02-10T09:47:37.596321+00:00
-
- ## Shibboleth Identity Provider
- - [https://id.sbvu.ac.in](https://id.sbvu.ac.in)
- - date_published: 2025-02-10T20:48:59.338041+00:00
-
- ## UG/PG Admissions Open 2025-26 @ Sharda University  | The Only Multicultural University in Delhi/NCR
- - [https://admissions.sharda.ac.in](https://admissions.sharda.ac.in)
- - date_published: 2024-12-24T19:33:07.295020+00:00
-
- ## The Official Alumni Network of Sharda University
- - [https://alumni.sharda.ac.in](https://alumni.sharda.ac.in)
- - date_published: 2024-12-24T19:33:18.656431+00:00
-
- ## BDS/MDS Admissions Open 2024-25 | Sharda University
- - [https://dental.sharda.ac.in](https://dental.sharda.ac.in)
- - date_published: 2024-12-24T19:33:13.550962+00:00
-
- ## Family & Couple Counselling Services Portal | Sharda University
- - [https://fccs.sharda.ac.in](https://fccs.sharda.ac.in)
- - date_published: 2024-12-24T19:30:12.646224+00:00
-
- ## Sharda Launchpad
- - [https://launchpad.sharda.ac.in](https://launchpad.sharda.ac.in)
- - date_published: 2024-12-24T19:32:48.015159+00:00
-
- ## MBBS & BDS Admissions Open 2024-25 | Sharda University
- - [https://medical.sharda.ac.in](https://medical.sharda.ac.in)
- - date_published: 2024-12-24T19:30:16.648353+00:00
-
- ## Sharda University - Best Private University in Delhi, NCR
- - [https://sharda.ac.in](https://sharda.ac.in)
- - date_published: 2024-07-04T18:56:14.993622+00:00
-
- ## Sharda Skills
- - [https://skills.sharda.ac.in](https://skills.sharda.ac.in)
- - date_published: 2024-12-24T19:33:21.335650+00:00
-
- ## Slot Booking Portal | Sharda University
- - [https://slotbooking.sharda.ac.in](https://slotbooking.sharda.ac.in)
- - date_published: 2024-12-24T19:32:42.650477+00:00
-
- ## SUAT 2024 - Sharda University Online Admission Test
- - [https://suat.sharda.ac.in](https://suat.sharda.ac.in)
- - date_published: 2024-12-24T19:31:28.985347+00:00
-
- ## Sharda University Agra - Top Private University in AGRA
- - [https://www.agra.sharda.ac.in](https://www.agra.sharda.ac.in)
- - date_published: 2024-12-24T19:32:41.089829+00:00
-
- ## https://sihm.ac.in/
- - [https://sihm.ac.in](https://sihm.ac.in)
- - date_published: 2024-08-08T13:10:19.138958+00:00
+ - [https://rams.docr.dot.gov](https://rams.docr.dot.gov)
+ - date_published: 2018-10-10T15:55:06+00:00
+
+ ## FRA-Homepage
+ - [https://safetydata.fra.dot.gov](https://safetydata.fra.dot.gov)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Safety | FHWA
+ - [https://safety.fhwa.dot.gov](https://safety.fhwa.dot.gov)
+ - date_published: 2024-05-16T02:46:44.197723+00:00
+
+ ## Federal Highway Administration
+ - [https://www.fhwa.dot.gov](https://www.fhwa.dot.gov)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Federal Motor Carrier Safety Administration
+ - [https://www.fmcsa.dot.gov](https://www.fmcsa.dot.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Federal Railroad Administration
+ - [https://www.fra.dot.gov](https://www.fra.dot.gov)
+ - date_published: 2024-06-27T22:26:24+00:00
+
+ ## Federal Transit Administration
+ - [http://www.fta.dot.gov](http://www.fta.dot.gov)
+ - date_published: 2024-06-27T22:19:28+00:00
+
+ ## Maritime Administration
+ - [http://www.marad.dot.gov](http://www.marad.dot.gov)
+ - date_published: 2024-12-27T17:13:18+00:00
+
+ ## National Highway Institute | Home
+ - [https://www.nhi.fhwa.dot.gov](https://www.nhi.fhwa.dot.gov)
+ - date_published: 2024-05-08T02:45:59.170449+00:00
+
+ ## Home | NHTSA
+ - [https://www.nhtsa.dot.gov](https://www.nhtsa.dot.gov)
+ - date_published: 2024-07-13T17:59:36+00:00
+
+ ## NPMS – Home
+ - [https://www.npms.phmsa.dot.gov](https://www.npms.phmsa.dot.gov)
+ - date_published: 2024-07-16T23:21:03.297832+00:00
+
+ ## Home | NHTSA
+ - [https://www-odi.nhtsa.dot.gov](https://www-odi.nhtsa.dot.gov)
+ - date_published: 2024-05-11T08:19:23.304550+00:00
+
+ ## Home | DOT OIG
+ - [https://www.oig.dot.gov](https://www.oig.dot.gov)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Great Lakes St. Lawrence Seaway Development Corporation
+ - [https://www.seaway.dot.gov](https://www.seaway.dot.gov)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Federal Transit Administration
+ - [https://www.transit.dot.gov](https://www.transit.dot.gov)
+ - date_published: 2024-04-05T18:55:53.475581+00:00
+
+ ## Volpe National Transportation Systems Center
+ - [https://www.volpe.dot.gov](https://www.volpe.dot.gov)
+ - date_published: 2024-05-12T07:28:22.709985+00:00
+
+ ## Douglas County, GA | Official Website
+ - [https://www.douglascountyga.gov](https://www.douglascountyga.gov)
+ - date_published: 2024-07-14T17:54:51.347749+00:00
+
+ ## Home
+ - [https://www.douglascountynv.gov](https://www.douglascountynv.gov)
+ - date_published: 2024-06-22T19:36:52.633341+00:00
+
+ ## Home Page · Joint Office of Energy and Transportation
+ - [https://driveelectric.gov](https://driveelectric.gov)
+ - date_published: 2024-09-04T02:05:07.677641+00:00
+
+ ## DriveNC.gov | North Carolina Traffic, Road Closures & Travel Information
+ - [https://drivenc.gov](https://drivenc.gov)
+ - date_published: 2024-10-10T19:04:23+00:00
+
+ ## Home | Drought.gov
+ - [http://www.drought.gov](http://www.drought.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Durango, CO - Official Website | Official Website
+ - [https://www.durangoco.gov](https://www.durangoco.gov)
+ - date_published: 2025-02-03T21:07:09.014552+00:00
+
+ ## Dutchess County Government
+ - [https://www.dutchessny.gov](https://www.dutchessny.gov)
+ - date_published: 2024-08-01T18:57:59+00:00
+
+ ## Home | U.S. Election Assistance Commission
+ - [https://www.eac.gov](https://www.eac.gov)
+ - date_published: 2024-07-02T21:09:20+00:00
+
+ ## Earth Information Center
+ - [https://earth.gov](https://earth.gov)
+ - date_published: 2024-08-07T20:59:16+00:00
+
+ ## eCFR :: Home
+ - [https://ecfr.gov](https://ecfr.gov)
+ - date_published: 2024-05-08T02:42:51.227890+00:00
+
+ ## econsumer.gov: econsumer - Report international scams online!
+ - [https://www.econsumer.gov](https://www.econsumer.gov)
+ - date_published: 2024-08-05T22:16:11.502033+00:00
+
+ ## ED.gov Blog
+ - [https://blog.ed.gov](https://blog.ed.gov)
+ - date_published: 2024-06-15T06:13:48.941395+00:00
+
+ ## College Affordability and Transparency Explanation Form
+ - [https://collegecost.ed.gov](https://collegecost.ed.gov)
+ - date_published: 2025-02-10T22:43:33.318018+00:00
+
+ ## Home | College Scorecard
+ - [https://collegescorecard.ed.gov](https://collegescorecard.ed.gov)
+ - date_published: 2024-06-13T19:54:37+00:00
+
+ ## Education Stabilization Fund
+ - [https://covid-relief-data.ed.gov](https://covid-relief-data.ed.gov)
+ - date_published: 2024-06-13T18:40:19+00:00
+
+ ## Perkins Collaborative Resource Network
+ - [https://cte.ed.gov](https://cte.ed.gov)
+ - date_published: 2024-06-15T06:13:43.904143+00:00
+
+ ## Welcome - Department of Education Open Data Platform
+ - [https://data.ed.gov](https://data.ed.gov)
+ - date_published: 2024-06-15T06:13:39.168835+00:00
+
+ ## ED Data Inventory - Home
+ - [https://datainventory.ed.gov](https://datainventory.ed.gov)
+ - date_published: 2024-06-28T09:07:33.870190+00:00
+
+ ## Home | U.S. Department of Education
+ - [https://ed.gov](https://ed.gov)
+ - date_published: 2024-09-18T05:29:58+00:00
+
+ ## ERIC - Education Resources Information Center
+ - [https://eric.ed.gov](https://eric.ed.gov)
+ - date_published: 2024-05-07T19:53:36.033515+00:00
+
+ ## ERIC - Education Resources Information Center
+ - [https://files.eric.ed.gov](https://files.eric.ed.gov)
+ - date_published: 2017-11-15T16:49:43+00:00
+
+ ## Home | FSA Partner Connect
+ - [https://fsapartners.ed.gov](https://fsapartners.ed.gov)
+ - date_published: 2024-04-08T17:04:00+00:00
+
+ ## Institute of Education Sciences (IES) Home Page, a part of the U.S. Department of Education
+ - [https://ies.ed.gov](https://ies.ed.gov)
+ - date_published: 2024-05-07T19:54:14.677362+00:00
+
+ ## IES PRIMO
+ - [https://iesreview.ed.gov](https://iesreview.ed.gov)
+ - date_published: 2024-07-01T17:12:20.794854+00:00
+
+ ## National Center for Education Statistics (NCES) Home Page, a part of the U.S. Department of Education
+ - [https://nces.ed.gov](https://nces.ed.gov)
+ - date_published: 2024-05-06T22:29:55.958117+00:00
+
+ ## Home | OCR
+ - [https://ocrcas.ed.gov](https://ocrcas.ed.gov)
+ - date_published: 2025-02-11T00:23:23.253022+00:00
+
+ ## Office of Postsecondary Education Home Page
+ - [https://ope.ed.gov](https://ope.ed.gov)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## EDBlogs | U.S. Department of Education
+ - [https://sites.ed.gov](https://sites.ed.gov)
+ - date_published: 2024-06-15T06:13:50.726346+00:00
+
+ ## Home | Protecting Student Privacy
+ - [https://studentprivacy.ed.gov](https://studentprivacy.ed.gov)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home - Office of Educational Technology
+ - [https://tech.ed.gov](https://tech.ed.gov)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Title II - Welcome
+ - [https://title2.ed.gov](https://title2.ed.gov)
+ - date_published: 2024-07-02T04:52:57.274678+00:00
+
+ ## Home | U.S. Department of Education
+ - [https://www2.ed.gov](https://www2.ed.gov)
+ - date_published: 2024-05-01T02:34:26.077407+00:00
+
+ ## U.S. Economic Development Administration
+ - [https://eda.gov](https://eda.gov)
+ - date_published: 2024-07-03T13:26:20.294974+00:00
+
+ ## Home | U.S. Equal Employment Opportunity Commission
+ - [https://eeoc.gov](https://eeoc.gov)
+ - date_published: 2024-05-07T16:28:20.229903+00:00
+
+ ## EEOC Training Institute
+ - [https://eeotraining.eeoc.gov](https://eeotraining.eeoc.gov)
+ - date_published: 2024-06-30T12:24:25.694991+00:00
+
+ ## Home | EEOC Office of Inspector General
+ - [https://oig.eeoc.gov](https://oig.eeoc.gov)
+ - date_published: 2024-06-30T12:24:30.109659+00:00
+
+ ## Welcome to EFTPS online
+ - [https://www.eftps.gov](https://www.eftps.gov)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Public Meetings Calendar - State of Hawaii
+ - [https://calendar.ehawaii.gov](https://calendar.ehawaii.gov)
+ - date_published: 2024-10-15T07:08:48.062210+00:00
+
+ ## DLNR Commercial Vessel Landing Permits
+ - [https://dofaw.ehawaii.gov](https://dofaw.ehawaii.gov)
+ - date_published: 2024-10-15T07:12:21.547404+00:00
+
+ ## Hawaii.gov
+ - [https://ehawaii.gov](https://ehawaii.gov)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Nā Ala Hele Trail and Access website
+ - [https://hawaiitrails.ehawaii.gov](https://hawaiitrails.ehawaii.gov)
+ - date_published: 2024-05-21T09:38:14+00:00
+
+ ## Business Registration Division - Hawaii Business Express
+ - [https://hbe.ehawaii.gov](https://hbe.ehawaii.gov)
+ - date_published: 2024-10-15T07:08:53.394863+00:00
+
+ ## Hawaii.gov
+ - [http://portal.ehawaii.gov](http://portal.ehawaii.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Business Development and Support Division
+ - [https://test-invest.ehawaii.gov](https://test-invest.ehawaii.gov)
+ - date_published: 2024-10-15T07:12:45.773472+00:00
+
+ ## U.S. Energy Atlas
+ - [https://atlas.eia.gov](https://atlas.eia.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Homepage - U.S. Energy Information Administration (EIA)
+ - [https://eia.gov](https://eia.gov)
+ - date_published: 2023-10-25T19:20:38.108192+00:00
+
+ ## Energy Information Administration - EIA's Information Releases website.
+ - [https://ir.eia.gov](https://ir.eia.gov)
+ - date_published: 2010-02-22T00:00:00+00:00
+
+ ## Home | Eisenhower Presidential Library
+ - [https://www.eisenhowerlibrary.gov](https://www.eisenhowerlibrary.gov)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | Extranet Portal
+ - [https://learnregister.elpasotexas.gov](https://learnregister.elpasotexas.gov)
+ - date_published: 2025-02-11T16:41:36.200555+00:00
+
+ ## City of El Paso
+ - [https://www.elpasotexas.gov](https://www.elpasotexas.gov)
+ - date_published: 2025-02-01T12:49:58.716911+00:00
+
+ ## Home - Employer
+ - [https://employer.gov](https://employer.gov)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Home
+ - [https://ems.gov](https://ems.gov)
+ - date_published: 2024-05-11T08:19:21.530909+00:00
+
+ ## EERE: Alternative Fuels Data Center Home Page
+ - [https://afdc.energy.gov](https://afdc.energy.gov)
+ - date_published: 2024-05-04T06:43:18.836933+00:00
+
+ ## Home | arpa-e.energy.gov
+ - [https://arpa-e.energy.gov](https://arpa-e.energy.gov)
+ - date_published: 2024-04-08T02:53:34.873809+00:00
+
+ ## Department of Energy's CyberForce® Program
+ - [https://cyberforce.energy.gov](https://cyberforce.energy.gov)
+ - date_published: 2024-07-16T17:02:47.283242+00:00
+
+ ## Department of Energy
+ - [https://energy.gov](https://energy.gov)
+ - date_published: 2024-05-08T02:34:22.427943+00:00
+
+ ## Systems Biology for Energy and the Environment
+ - [http://genomicscience.energy.gov](http://genomicscience.energy.gov)
+ - date_published: 2024-10-15T07:24:48.108453+00:00
+
+ ## Pathways to Commercial Liftoff
+ - [https://liftoff.energy.gov](https://liftoff.energy.gov)
+ - date_published: 2024-10-26T14:28:33.537848+00:00
+
+ ## National Nuclear Security Administration
+ - [http://nnsa.energy.gov](http://nnsa.energy.gov)
+ - date_published: 2024-06-16T21:59:08+00:00
+
+ ## PAMS Help - PAMS Help (e) - Confluence
+ - [https://pamsexternalhelp.science.energy.gov](https://pamsexternalhelp.science.energy.gov)
+ - date_published: 2024-09-05T10:19:58.951121+00:00
+
+ ## Login | PAMS
+ - [https://pamspublic.science.energy.gov](https://pamspublic.science.energy.gov)
+ - date_published: 2024-06-08T17:59:59.642551+00:00
+
+ ## Office of Science
+ - [https://science.energy.gov](https://science.energy.gov)
+ - date_published: 2024-05-08T02:34:25.433029+00:00
+
+ ## Office of Energy Efficiency & Renewable Energy
+ - [http://www.eere.energy.gov](http://www.eere.energy.gov)
+ - date_published: 2024-06-19T15:06:59+00:00
+
+ ## Office of Management
+ - [http://www.management.energy.gov](http://www.management.energy.gov)
+ - date_published: 2024-07-03T14:17:31+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.energystar.gov](https://search.energystar.gov)
+ - date_published: 2024-06-27T09:17:01.716093+00:00
+
+ ## ENERGY STAR
+ - [https://www.energystar.gov](https://www.energystar.gov)
+ - date_published: 2024-05-06T21:01:14.066636+00:00
+
+ ## United States Environmental Protection Agency | US EPA
+ - [https://19january2017snapshot.epa.gov](https://19january2017snapshot.epa.gov)
+ - date_published: 2019-01-05T14:22:41+00:00
+
+ ## Qlik Sense login page
+ - [https://awsedap.epa.gov](https://awsedap.epa.gov)
+ - date_published: 2024-07-19T16:46:40.809014+00:00
+
+ ## Enforcement and Compliance History Online | US EPA
+ - [https://echo.epa.gov](https://echo.epa.gov)
+ - date_published: 2024-07-03T07:37:13.928606+00:00
+
+ ## U.S. Environmental Protection Agency | US EPA
+ - [https://epa.gov](https://epa.gov)
+ - date_published: 2023-10-25T19:20:46.144373+00:00
+
+ ## EPA en español | US EPA
+ - [https://espanol.epa.gov](https://espanol.epa.gov)
+ - date_published: 2014-09-23T14:46:39+00:00
+
+ ## Region Map - EPA OSC Response
+ - [https://response.epa.gov](https://response.epa.gov)
+ - date_published: 2024-05-12T05:16:19.215303+00:00
+
+ ## U.S. Environmental Protection Agency | US EPA
+ - [https://www3.epa.gov](https://www3.epa.gov)
+ - date_published: 2013-03-20T14:54:42+00:00
+
+ ## EPA OIG Homepage | Office of Inspector General OIG
+ - [https://epaoig.gov](https://epaoig.gov)
+ - date_published: 2024-05-08T02:46:11.239997+00:00
+
+ ## | Erie County, New York
+ - [https://www.erie.gov](https://www.erie.gov)
+ - date_published: 2024-09-17T13:18:53+00:00
+
+ ## IIS Windows Server - PROD
+ - [https://ceapps2.eugene-or.gov](https://ceapps2.eugene-or.gov)
+ - date_published: 2025-02-11T01:34:16.696002+00:00
+
+ ## Engage Eugene
+ - [https://engage.eugene-or.gov](https://engage.eugene-or.gov)
+ - date_published: 2025-02-11T01:34:43.835882+00:00
+
+ ## Eugene, OR Website | Official Website
+ - [https://eugene-or.gov](https://eugene-or.gov)
+ - date_published: 2025-02-01T05:44:46.755555+00:00
+
+ ## City of Eugene Mapping Hub
+ - [https://mapping.eugene-or.gov](https://mapping.eugene-or.gov)
+ - date_published: 2025-02-11T01:34:46.186026+00:00
+
+ ## Eugene, OR Website | Official Website
+ - [http://www.eugene-or.gov](http://www.eugene-or.gov)
+ - date_published: 2024-07-02T05:23:01.164086+00:00
+
+ ## Evaluation.gov | Home
+ - [https://www.evaluation.gov](https://www.evaluation.gov)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Everglades Restoration Initiatives
+ - [https://evergladesrestoration.gov](https://evergladesrestoration.gov)
+ - date_published: 2024-12-22T01:15:51.516632+00:00
+
+ ## Home
+ - [https://www.e-verify.gov](https://www.e-verify.gov)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Airport Data and Information Portal
+ - [https://adip.faa.gov](https://adip.faa.gov)
+ - date_published: 2024-05-18T02:46:54.289460+00:00
+
+ ## Aeronautical Information Services AJV-A
+ - [https://aeronav.faa.gov](https://aeronav.faa.gov)
+ - date_published: 2025-01-30T12:58:09.859537+00:00
+
+ ## FAA: Aircraft Registration
+ - [https://amsrvs.registry.faa.gov](https://amsrvs.registry.faa.gov)
+ - date_published: 2018-07-25T15:48:04+00:00
+
+ ## Dynamic Regulatory System
+ - [https://drs.faa.gov](https://drs.faa.gov)
+ - date_published: 2024-05-18T02:47:03.110448+00:00
+
+ ## National Airspace System
+ - [https://nasstatus.faa.gov](https://nasstatus.faa.gov)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## <<FNS-Home>>
+ - [https://notams.aim.faa.gov](https://notams.aim.faa.gov)
+ - date_published: 2013-04-02T14:46:42+00:00
+
+ ## Federal Aviation Administration: NOTAM Search
+ - [https://pilotweb.nas.faa.gov](https://pilotweb.nas.faa.gov)
+ - date_published: 2021-12-10T11:53:54+00:00
+
+ ## FAA: Aircraft Registration
+ - [https://registry.faa.gov](https://registry.faa.gov)
+ - date_published: 2022-10-20T19:56:04+00:00
+
+ ## Federal Aviation Administration
+ - [https://sdrs.faa.gov](https://sdrs.faa.gov)
+ - date_published: 2024-06-28T11:35:25.286652+00:00
+
+ ## Special Use Airspace & Air Traffic Control Assigned Airspace
+ - [https://sua.faa.gov](https://sua.faa.gov)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Federal Aviation Administration - Graphic TFR's
+ - [https://tfr.faa.gov](https://tfr.faa.gov)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## Federal Aviation Administration
+ - [https://www.faa.gov](https://www.faa.gov)
+ - date_published: 2023-10-25T11:20:33.122723+00:00
+ - tags: ['aviation', 'aviation', 'do-178c', 'aerospace', 'do-178b']
+
+ ## https://www.fly.faa.gov
+ - [https://www.fly.faa.gov](https://www.fly.faa.gov)
+ - date_published: 2022-10-22T14:45:56+00:00
+
+ ## Safer Skies Through Education - FAA - FAASTeam - FAASafety.gov
+ - [https://www.faasafety.gov](https://www.faasafety.gov)
+ - date_published: 2024-05-06T22:41:18.822982+00:00
+
+ ## Federal Student Aid
+ - [https://fafsa.gov](https://fafsa.gov)
+ - date_published: 2024-04-17T20:45:26+00:00
+
+ ## Fairfax County Public Library
+ - [https://fcplcat.fairfaxcounty.gov](https://fcplcat.fairfaxcounty.gov)
+ - date_published: 2024-07-08T13:57:09.399256+00:00
+
+ ## Fairfax County
+ - [http://icare.fairfaxcounty.gov](http://icare.fairfaxcounty.gov)
+ - date_published: 2015-01-16T15:52:30+00:00
+
+ ## Fairfax Library Calendar -
+        Library Home
+ - [https://librarycalendar.fairfaxcounty.gov](https://librarycalendar.fairfaxcounty.gov)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## PLUS ACA-Accela Citizen Access
+ - [https://plus.fairfaxcounty.gov](https://plus.fairfaxcounty.gov)
+ - date_published: 2022-05-22T02:16:57+00:00
+
+ ## Granicus - MediaManager Login
+ - [http://video.fairfaxcounty.gov](http://video.fairfaxcounty.gov)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Fairfax County Homepage | Fairfax County
+ - [https://www.fairfaxcounty.gov](https://www.fairfaxcounty.gov)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Engage Fairfax
+ - [https://engage.fairfaxva.gov](https://engage.fairfaxva.gov)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## City of Fairfax, VA | Home
+ - [https://www.fairfaxva.gov](https://www.fairfaxva.gov)
+ - date_published: 2024-08-11T04:03:18+00:00
+
+ ## Redirecting to FARA eFile
+ - [https://efile.fara.gov](https://efile.fara.gov)
+ - date_published: 2024-04-29T03:11:57.177817+00:00
+
+ ## Farmers.gov: Resources for Farmers and Producers
+ - [https://farmers.gov](https://farmers.gov)
+ - date_published: 2024-01-31T08:37:06+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.farmers.gov](https://search.farmers.gov)
+ - date_published: 2024-09-18T20:14:53.690497+00:00
+
+ ## Homepage | Fatherhood.gov
+ - [https://fatherhood.gov](https://fatherhood.gov)
+ - date_published: 2023-12-29T00:50:12.445423+00:00
+
+ ## Home :: NRFC Virtual Collaborative Community (powered by Entrepid™)
+ - [https://learningcommunity.fatherhood.gov](https://learningcommunity.fatherhood.gov)
+ - date_published: 2024-05-08T02:46:18.873125+00:00
+
+ ## City of Fayetteville, Arkansas
+ - [http://www.fayetteville-ar.gov](http://www.fayetteville-ar.gov)
+ - date_published: 2024-06-29T20:54:14.835611+00:00
+
+ ## Welcome to FBI Bank Robbers | FBI Bank Robbers
+ - [https://bankrobbers.fbi.gov](https://bankrobbers.fbi.gov)
+ - date_published: 2018-04-25T00:00:00+00:00
+
+ ## Delivery - FBI Email Delivery
+ - [https://delivery.fbi.gov](https://delivery.fbi.gov)
+ - date_published: 2024-05-08T02:46:44.235761+00:00
+
+ ## Welcome to fbi.gov | Federal Bureau of Investigation
+ - [https://fbi.gov](https://fbi.gov)
+ - date_published: 2024-05-06T00:00:00+00:00
+ - tags: ['fbi', 'government', 'crime']
+
+ ## FBI Multimedia
+ - [https://images.fbi.gov](https://images.fbi.gov)
+ - date_published: 2024-05-08T02:46:48.196040+00:00
+
+ ## Welcome to the LEB website — LEB
+ - [https://leb.fbi.gov](https://leb.fbi.gov)
+ - date_published: 2023-10-25T10:47:03.596512+00:00
+
+ ## le.fbi.gov | Law Enforcement
+ - [https://le.fbi.gov](https://le.fbi.gov)
+ - date_published: 2024-05-08T02:46:50.069398+00:00
+
+ ## FBI Multimedia
+ - [https://multimedia.fbi.gov](https://multimedia.fbi.gov)
+ - date_published: 2024-07-03T14:03:27+00:00
+
+ ## Electronic Tip Form | FBI
+ - [http://tips.fbi.gov](http://tips.fbi.gov)
+ - date_published: 2024-05-14T17:15:57+00:00
+
+ ## The Vault
+ - [https://vault.fbi.gov](https://vault.fbi.gov)
+ - date_published: 2024-06-30T06:15:48+00:00
+ - tags: ['internet archive', 'digital archive']
+
+ ## Home for FBI Careers | FBIJOBS
+ - [https://fbijobs.gov](https://fbijobs.gov)
+ - date_published: 2024-05-08T02:46:47.175680+00:00
+
+ ## FCC National Broadband Map
+ - [https://broadbandmap.fcc.gov](https://broadbandmap.fcc.gov)
+ - date_published: 2024-06-19T21:57:24+00:00
+
+ ## FCC Complaints
+ - [https://consumercomplaints.fcc.gov](https://consumercomplaints.fcc.gov)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Federal Communications Commission | The United States of America
+ - [https://fcc.gov](https://fcc.gov)
+ - date_published: 2023-10-25T19:21:01.719932+00:00
+
+ ## Application Error Page
+ - [https://fjallfoss.fcc.gov](https://fjallfoss.fcc.gov)
+ - date_published: 2007-08-07T18:06:42+00:00
+
+ ## Home - FCC Public Inspection Files
+ - [https://publicfiles.fcc.gov](https://publicfiles.fcc.gov)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Federal Communications Commission
+ - [https://transition.fcc.gov](https://transition.fcc.gov)
+ - date_published: 2024-05-08T02:46:59.545855+00:00
+
+ ## Urban Rate Survey Data & Resources
+ - [https://urs.fcc.gov](https://urs.fcc.gov)
+ - date_published: 2024-05-08T02:46:57.299501+00:00
+
+ ## Overview – precisionFDA
+ - [https://precision.fda.gov](https://precision.fda.gov)
+ - date_published: 2024-06-18T13:08:05.417243+00:00
+
+ ## U.S. Food and Drug Administration
+ - [https://www.fda.gov](https://www.fda.gov)
+ - date_published: 2023-10-25T19:21:05.422596+00:00
+
+ ## Florida Department of Agriculture & Consumer Services
+ - [https://www.fdacs.gov](https://www.fdacs.gov)
+ - date_published: 2024-07-03T14:50:05.063770+00:00
+
+ ## FDIC Information and Support Center
+ - [https://ask.fdic.gov](https://ask.fdic.gov)
+ - date_published: 2023-07-04T14:22:10+00:00
+
+ ## BankFind Suite: API for Data Miners & Developers
+ - [https://banks.data.fdic.gov](https://banks.data.fdic.gov)
+ - date_published: 2024-05-08T02:47:10.941774+00:00
+
+ ## FDIC: Electronic Deposit Insurance Estimator (EDIE)
+ - [https://edie.fdic.gov](https://edie.fdic.gov)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## FDIC: Federal Deposit Insurance Corporation
+ - [https://fdic.gov](https://fdic.gov)
+ - date_published: 2023-10-25T19:21:19.392966+00:00
+
+ ## Welcome to INTWWEB008AP
+ - [https://www7.fdic.gov](https://www7.fdic.gov)
+ - date_published: 2019-06-27T16:31:27+00:00
+
+ ## FDIC OIG Homepage | Federal Deposit Insurance Corporation OIG
+ - [https://fdicoig.gov](https://fdicoig.gov)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Home
+ - [https://www.fdot.gov](https://www.fdot.gov)
+ - date_published: 2024-06-19T17:56:02.617600+00:00
+
+ ## OpenFEC API Documentation
+ - [https://api.open.fec.gov](https://api.open.fec.gov)
+ - date_published: 2024-06-29T14:08:40.651569+00:00
+
+ ## Campaign finance data - FEC.gov
+ - [https://docquery.fec.gov](https://docquery.fec.gov)
+ - date_published: 2024-12-05T07:24:26.725561+00:00
+
+ ## Home - FEC.gov
+ - [https://fec.gov](https://fec.gov)
+ - date_published: 2024-05-07T11:01:11.558133+00:00
+
+ ## Federal Register
+       :: 
+      Home - Wednesday, October 25th
+ - [https://federalregister.gov](https://federalregister.gov)
+ - date_published: 2023-10-25T19:21:22.351422+00:00
+ - tags: ['federal documents']
+
+ ## Federal Reserve Board - Home
+ - [https://federalreserve.gov](https://federalreserve.gov)
+ - date_published: 2023-10-25T19:21:25.826382+00:00
+
+ ## OIG: Office of Inspector General
+ - [https://oig.federalreserve.gov](https://oig.federalreserve.gov)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Federal Reserve Consumer Help
+ - [https://federalreserveconsumerhelp.gov](https://federalreserveconsumerhelp.gov)
+ - date_published: 2024-05-08T02:47:30.521319+00:00
+
+ ## FedRAMP Automation
+ - [https://automate.fedramp.gov](https://automate.fedramp.gov)
+ - date_published: 2024-10-18T14:33:17+00:00
+
+ ## FedRAMP Marketplace
+ - [https://marketplace.fedramp.gov](https://marketplace.fedramp.gov)
+ - date_published: 2024-05-02T12:56:59.067248+00:00
+
+ ## How to Become FedRAMP Authorized | FedRAMP.gov
+ - [https://www.fedramp.gov](https://www.fedramp.gov)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## FedsHireVets - OPM.gov
+ - [https://www.fedshirevets.gov](https://www.fedshirevets.gov)
+ - date_published: 2024-10-11T10:05:31.656503+00:00
+
+ ## Home
+ - [https://www.fehrm.gov](https://www.fehrm.gov)
+ - date_published: 2024-05-08T12:13:52.825601+00:00
+
+ ## U.S. Fire Administration website applications
+ - [https://apps.usfa.fema.gov](https://apps.usfa.fema.gov)
+ - date_published: 2025-01-20T21:02:32.148895+00:00
+
+ ## FEMA.gov
+ - [https://fema.gov](https://fema.gov)
+ - date_published: 2023-10-25T19:21:33.460504+00:00
+
+ ## FEMA: Multihazard Information Platform
+ - [https://hazards.fema.gov](https://hazards.fema.gov)
+ - date_published: 2019-06-04T16:25:56+00:00
+
+ ## U.S. Fire Administration
+ - [https://www.usfa.fema.gov](https://www.usfa.fema.gov)
+ - date_published: 2025-01-16T12:03:53.440466+00:00
+
+ ## Home Page
+ - [https://www.ferc.gov](https://www.ferc.gov)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## FFIEC Home Page
+ - [https://www.ffiec.gov](https://www.ffiec.gov)
+ - date_published: 2024-12-24T10:41:55.171589+00:00
+
+ ## BOI E-FILING
+ - [https://boiefiling.fincen.gov](https://boiefiling.fincen.gov)
+ - date_published: 2024-05-08T02:47:40.382907+00:00
+
+ ## United States Department of the Treasury Financial Crimes Enforcement Network | FinCEN.gov
+ - [https://fincen.gov](https://fincen.gov)
+ - date_published: 2023-10-25T19:21:37.717717+00:00
+
+ ## FindTreatment.gov
+ - [https://findtreatment.gov](https://findtreatment.gov)
+ - date_published: 2024-04-01T16:16:02+00:00
+
+ ## FirstNet Authority | First Responder Network Authority
+ - [https://www.firstnet.gov](https://www.firstnet.gov)
+ - date_published: 2024-07-19T12:58:54+00:00
+
+ ## First Responder Training System
+ - [https://firstrespondertraining.gov](https://firstrespondertraining.gov)
+ - date_published: 2024-03-27T10:32:32+00:00
+
+ ## President's Council | odphp.health.gov
+ - [http://www.fitness.gov](http://www.fitness.gov)
+ - date_published: 2025-01-01T10:12:24+00:00
+
+ ## Federal Judicial Center |
+ - [https://www.fjc.gov](https://www.fjc.gov)
+ - date_published: 2024-07-08T12:41:09+00:00
+
+ ## Florida Digital Service
+ - [https://digital.fl.gov](https://digital.fl.gov)
+ - date_published: 2025-01-15T08:34:12.860586+00:00
+
+ ## Service unavailable
+ - [https://quality.healthfinder.fl.gov](https://quality.healthfinder.fl.gov)
+ - date_published: 2024-07-03T14:50:40.105774+00:00
+
+ ## Santa Rosa County, FL | Official Website
+ - [https://www.santarosa.fl.gov](https://www.santarosa.fl.gov)
+ - date_published: 2024-07-03T15:05:18.518215+00:00
+
+ ## Flagler County, FL | Home
+ - [https://www.flaglercounty.gov](https://www.flaglercounty.gov)
+ - date_published: 2024-07-03T14:46:00+00:00
+
+ ## Florida Board of
+Medicine- Healthcare Practitioner Licensing and Regulation
+ - [https://flboardofmedicine.gov](https://flboardofmedicine.gov)
+ - date_published: 2024-07-03T14:40:34.198727+00:00
+
+ ## Florida Department of Health
+ - [https://flhealth.gov](https://flhealth.gov)
+ - date_published: 2024-12-19T22:10:14+00:00
+
+ ## FLHealthCHARTS.gov: Home
+ - [https://www.flhealthcharts.gov](https://www.flhealthcharts.gov)
+ - date_published: 2024-07-03T14:51:32.175558+00:00
+
+ ## Florida Health Care Complaint Portal
+ - [https://flhealthcomplaint.gov](https://flhealthcomplaint.gov)
+ - date_published: 2024-06-17T13:48:24+00:00
+
+ ## Home - FL HealthSource • Health Care Resources for Consumers & Providers
+ - [https://flhealthsource.gov](https://flhealthsource.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - 	Florida Historic Capitol Museum
+ - [http://www.flhistoriccapitol.gov](http://www.flhistoriccapitol.gov)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## SearchAndBrowse
+ - [http://sb.flleg.gov](http://sb.flleg.gov)
+ - date_published: 2019-12-07T04:04:32+00:00
+
+ ## Welcome to Florida Department of Environmental Protection
+ - [https://floridadep.gov](https://floridadep.gov)
+ - date_published: 2025-02-11T03:42:52.619304+00:00
+
+ ## Florida Department of Health in Alachua
+ - [https://alachua.floridahealth.gov](https://alachua.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:02.837754+00:00
+
+ ## Florida Department of Health in Baker
+ - [https://baker.floridahealth.gov](https://baker.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:28.286003+00:00
+
+ ## Florida Department of Health in Bay
+ - [https://bay.floridahealth.gov](https://bay.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:59.569608+00:00
+
+ ## Florida Department of Health in Bradford
+ - [https://bradford.floridahealth.gov](https://bradford.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:31.483877+00:00
+
+ ## Florida Department of Health in Brevard
+ - [https://brevard.floridahealth.gov](https://brevard.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:15.945107+00:00
+
+ ## Florida Department of Health in Broward
+ - [https://broward.floridahealth.gov](https://broward.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:48.965608+00:00
+
+ ## Florida Department of Health in Calhoun
+ - [https://calhoun.floridahealth.gov](https://calhoun.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:31.701751+00:00
+
+ ## Florida Department of Health in Charlotte
+ - [https://charlotte.floridahealth.gov](https://charlotte.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:36.072980+00:00
+
+ ## Florida Department of Health in Citrus
+ - [https://citrus.floridahealth.gov](https://citrus.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:55.658136+00:00
+
+ ## Florida Department of Health in Clay
+ - [https://clay.floridahealth.gov](https://clay.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:46.493895+00:00
+
+ ## Florida Department of Health in Collier
+ - [https://collier.floridahealth.gov](https://collier.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:25.812015+00:00
+
+ ## Florida Department of Health in Columbia
+ - [https://columbia.floridahealth.gov](https://columbia.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:10.152307+00:00
+
+ ## Florida Department of Health in Desoto
+ - [https://desoto.floridahealth.gov](https://desoto.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:15.906721+00:00
+
+ ## Florida Department of Health in Dixie
+ - [https://dixie.floridahealth.gov](https://dixie.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:38.726428+00:00
+
+ ## Florida Department of Health in Duval
+ - [https://duval.floridahealth.gov](https://duval.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:58.240167+00:00
+
+ ## Florida Department of Health in Escambia
+ - [https://escambia.floridahealth.gov](https://escambia.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:12.168072+00:00
+
+ ## Florida Department of Health in Flagler
+ - [https://flagler.floridahealth.gov](https://flagler.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:45.361877+00:00
+
+ ## Florida Department of Health
+ - [https://floridahealth.gov](https://floridahealth.gov)
+ - date_published: 2023-10-25T19:21:43.397423+00:00
+
+ ## Florida Department of Health in Franklin
+ - [https://franklin.floridahealth.gov](https://franklin.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:14.560811+00:00
+
+ ## Florida Department of Health in Gadsden
+ - [https://gadsden.floridahealth.gov](https://gadsden.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:20.619149+00:00
+
+ ## Florida Department of Health in Gilchrist
+ - [https://gilchrist.floridahealth.gov](https://gilchrist.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:04.735553+00:00
+
+ ## Florida Department of Health in Glades
+ - [https://glades.floridahealth.gov](https://glades.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:43.075054+00:00
+
+ ## Florida Department of Health in Gulf
+ - [https://gulf.floridahealth.gov](https://gulf.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:47.666958+00:00
+
+ ## Florida Department of Health in Hamilton
+ - [https://hamilton.floridahealth.gov](https://hamilton.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:42.884375+00:00
+
+ ## Florida Department of Health in Hardee
+ - [https://hardee.floridahealth.gov](https://hardee.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:49.550370+00:00
+
+ ## Florida Department of Health in Hendry
+ - [https://hendry.floridahealth.gov](https://hendry.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:30.104891+00:00
+
+ ## Florida Department of Health in Hernando
+ - [https://hernando.floridahealth.gov](https://hernando.floridahealth.gov)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Florida Department of Health in Highlands
+ - [https://highlands.floridahealth.gov](https://highlands.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:51.480804+00:00
+
+ ## Florida Department of Health in Hillsborough
+ - [https://hillsborough.floridahealth.gov](https://hillsborough.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:02.986884+00:00
+
+ ## Florida Department of Health in Holmes
+ - [https://holmes.floridahealth.gov](https://holmes.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:00.507269+00:00
+
+ ## Florida Department of Health in Indian River
+ - [https://indianriver.floridahealth.gov](https://indianriver.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:20.832913+00:00
+
+ ## Florida Department of Health in Jackson
+ - [https://jackson.floridahealth.gov](https://jackson.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:11.226262+00:00
+
+ ## Florida Department of Health in Jefferson
+ - [https://jefferson.floridahealth.gov](https://jefferson.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:53.711003+00:00
+
+ ## Florida Department of Health in Lafayette
+ - [https://lafayette.floridahealth.gov](https://lafayette.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:13.356400+00:00
+
+ ## Florida Department of Health in Lake
+ - [https://lake.floridahealth.gov](https://lake.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:22.703414+00:00
+
+ ## Florida Department of Health in Lee
+ - [https://lee.floridahealth.gov](https://lee.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:42.326987+00:00
+
+ ## Florida Department of Health in Leon
+ - [https://leon.floridahealth.gov](https://leon.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:37.888464+00:00
+
+ ## Florida Department of Health in Levy
+ - [https://levy.floridahealth.gov](https://levy.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:06.495337+00:00
+
+ ## Florida Department of Health in Liberty
+ - [https://liberty.floridahealth.gov](https://liberty.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:20.613010+00:00
+
+ ## Florida Department of Health in Madison
+ - [https://madison.floridahealth.gov](https://madison.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:36.081039+00:00
+
+ ## Florida Department of Health in Manatee
+ - [https://manatee.floridahealth.gov](https://manatee.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:35.542586+00:00
+
+ ## Florida Department of Health in Marion
+ - [https://marion.floridahealth.gov](https://marion.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:44.546982+00:00
+
+ ## Florida Department of Health in Martin
+ - [https://martin.floridahealth.gov](https://martin.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:54.793089+00:00
+
+ ## Florida Department of Health in Miami-Dade
+ - [https://miamidade.floridahealth.gov](https://miamidade.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:40.834685+00:00
+
+ ## Florida Department of Health in Monroe
+ - [https://monroe.floridahealth.gov](https://monroe.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:18.122465+00:00
+
+ ## Florida Department of Health in Nassau
+ - [https://nassau.floridahealth.gov](https://nassau.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:45.384361+00:00
+
+ ## Florida Department of Health in Okaloosa
+ - [https://okaloosa.floridahealth.gov](https://okaloosa.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:51.123298+00:00
+
+ ## Florida Department of Health in Okeechobee
+ - [https://okeechobee.floridahealth.gov](https://okeechobee.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:23.010199+00:00
+
+ ## Florida Department of Health in Orange
+ - [https://orange.floridahealth.gov](https://orange.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:03.053483+00:00
+
+ ## Florida Department of Health in Osceola
+ - [https://osceola.floridahealth.gov](https://osceola.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:47.339697+00:00
+
+ ## Florida Department of Health in Palm Beach
+ - [https://palmbeach.floridahealth.gov](https://palmbeach.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:18.388085+00:00
+
+ ## Florida Department of Health in Pasco
+ - [https://pasco.floridahealth.gov](https://pasco.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:33.675855+00:00
+
+ ## Florida Department of Health in Pinellas
+ - [https://pinellas.floridahealth.gov](https://pinellas.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:29.607637+00:00
+
+ ## Florida Department of Health in Polk
+ - [https://polk.floridahealth.gov](https://polk.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:57.307444+00:00
+
+ ## Florida Department of Health in Putnam
+ - [https://putnam.floridahealth.gov](https://putnam.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:00.349286+00:00
+
+ ## Florida Department of Health in Santa Rosa
+ - [https://santarosa.floridahealth.gov](https://santarosa.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:47.417910+00:00
+
+ ## Florida Department of Health in Sarasota
+ - [https://sarasota.floridahealth.gov](https://sarasota.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:32.905599+00:00
+
+ ## Florida Department of Health in Seminole
+ - [https://seminole.floridahealth.gov](https://seminole.floridahealth.gov)
+ - date_published: 2024-07-03T14:50:31.981026+00:00
+
+ ## Florida Department of Health in St Johns
+ - [https://stjohns.floridahealth.gov](https://stjohns.floridahealth.gov)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Florida Department of Health in St Lucie
+ - [https://stlucie.floridahealth.gov](https://stlucie.floridahealth.gov)
+ - date_published: 2024-07-03T14:47:22.621675+00:00
+
+ ## Florida Department of Health in Sumter
+ - [https://sumter.floridahealth.gov](https://sumter.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:50.057000+00:00
+
+ ## Florida Department of Health in Suwannee
+ - [https://suwannee.floridahealth.gov](https://suwannee.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:25.574618+00:00
+
+ ## Florida Department of Health in Taylor
+ - [https://taylor.floridahealth.gov](https://taylor.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:33.965795+00:00
+
+ ## Florida Department of Health in Union
+ - [https://union.floridahealth.gov](https://union.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:27.748322+00:00
+
+ ## Florida Department of Health in Volusia
+ - [https://volusia.floridahealth.gov](https://volusia.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:07.305810+00:00
+
+ ## Florida Department of Health in Wakulla
+ - [https://wakulla.floridahealth.gov](https://wakulla.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:11.151864+00:00
+
+ ## Florida Department of Health in Walton
+ - [https://walton.floridahealth.gov](https://walton.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:18.031501+00:00
+
+ ## Florida Department of Health in Washington
+ - [https://washington.floridahealth.gov](https://washington.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:08.367552+00:00
+
+ ## Home Page - Lobbyist Registration
+ - [https://floridalobbyist.gov](https://floridalobbyist.gov)
+ - date_published: 2024-06-15T08:51:50+00:00
+
+ ## Florida Board of
+Acupuncture- Licensing, Renewals & Information
+ - [https://floridasacupuncture.gov](https://floridasacupuncture.gov)
+ - date_published: 2024-07-03T14:39:26.794090+00:00
+
+ ## Florida Board of
+Athletic Training- Licensing, Renewals & Information
+ - [https://floridasathletictraining.gov](https://floridasathletictraining.gov)
+ - date_published: 2024-07-03T14:40:10.297126+00:00
+
+ ## Florida Board of
+Chiropractic Medicine- Licensing, Renewals & Information
+ - [https://floridaschiropracticmedicine.gov](https://floridaschiropracticmedicine.gov)
+ - date_published: 2024-07-03T14:39:55.093824+00:00
+
+ ## Florida Board of
+ Clinical Laboratory Personnel				- Licensing, Renewals & Information
+ - [https://floridasclinicallabs.gov](https://floridasclinicallabs.gov)
+ - date_published: 2024-07-03T14:40:30.444089+00:00
+
+ ## Florida Board of
+Dentistry- Licensing, Renewals & Information
+ - [https://floridasdentistry.gov](https://floridasdentistry.gov)
+ - date_published: 2024-07-03T14:40:24.837181+00:00
+
+ ## Florida Board of Hearing Aid Specialists   - Licensing, Renewals & Information
+ - [https://floridashearingaidspecialists.gov](https://floridashearingaidspecialists.gov)
+ - date_published: 2024-07-03T14:40:42.351448+00:00
+
+ ## Florida Board of
+ Massage Therapy				- Licensing, Renewals & Information
+ - [https://floridasmassagetherapy.gov](https://floridasmassagetherapy.gov)
+ - date_published: 2024-07-03T14:39:35.159907+00:00
+
+ ## Florida Board of
+Clinical Social Work, Marriage & Family Therapy and Mental Health Counseling- Licensing, Renewals & Information
+ - [https://floridasmentalhealthprofessions.gov](https://floridasmentalhealthprofessions.gov)
+ - date_published: 2024-07-03T14:40:39.862706+00:00
+
+ ## Florida Board of Nursing   - Licensing, Renewals & Information
+ - [https://floridasnursing.gov](https://floridasnursing.gov)
+ - date_published: 2024-07-03T14:40:32.307822+00:00
+
+ ## Florida Board of
+Nursing Home Administrators- Licensing, Renewals & Information
+ - [https://floridasnursinghomeadmin.gov](https://floridasnursinghomeadmin.gov)
+ - date_published: 2024-07-03T14:39:29.742957+00:00
+
+ ## Florida Board of
+Occupational Therapy- Licensing, Renewals & Information
+ - [https://floridasoccupationaltherapy.gov](https://floridasoccupationaltherapy.gov)
+ - date_published: 2024-07-03T14:40:07.417268+00:00
+
+ ## Florida Board of
+Opticianry- Florida Department of Health
+ - [https://floridasopticianry.gov](https://floridasopticianry.gov)
+ - date_published: 2024-07-03T14:39:46.319122+00:00
+
+ ## Florida Board of
+ Optometry				 - Licensing, Renewals & Information
+ - [https://floridasoptometry.gov](https://floridasoptometry.gov)
+ - date_published: 2024-07-03T14:39:41.763394+00:00
+
+ ## Florida Board of
+Orthotists & Prosthetists- Licensing, Renewals & Information
+ - [https://floridasorthotistsprosthetists.gov](https://floridasorthotistsprosthetists.gov)
+ - date_published: 2024-07-03T14:40:37.024212+00:00
+
+ ## Florida Board of Osteopathic Medicine   - Licensing, Renewals & Information
+ - [https://floridasosteopathicmedicine.gov](https://floridasosteopathicmedicine.gov)
+ - date_published: 2024-07-03T14:40:19.464757+00:00
+
+ ## Florida Board of
+Pharmacy- Licensing, Renewals & Information
+ - [https://floridaspharmacy.gov](https://floridaspharmacy.gov)
+ - date_published: 2024-07-03T14:40:03.673683+00:00
+
+ ## Florida Board of
+ Physical Therapy				- Licensing, Renewals & Information
+ - [https://floridasphysicaltherapy.gov](https://floridasphysicaltherapy.gov)
+ - date_published: 2024-07-03T14:40:14.929455+00:00
+
+ ## Florida Board of Podiatric Medicine- Licensing, Renewals & Information
+ - [https://floridaspodiatricmedicine.gov](https://floridaspodiatricmedicine.gov)
+ - date_published: 2024-07-03T14:40:22.162074+00:00
+
+ ## Florida Board of
+ Psychology
+ - [https://floridaspsychology.gov](https://floridaspsychology.gov)
+ - date_published: 2024-07-03T14:39:49.380937+00:00
+
+ ## Florida Board of
+Respiratory Care- Licensing, Renewals & Information
+ - [https://floridasrespiratorycare.gov](https://floridasrespiratorycare.gov)
+ - date_published: 2024-07-03T14:39:37.734822+00:00
+
+ ## Florida Board of
+Speech-Language Pathology & Audiology- Licensing, Renewals & Information
+ - [https://floridasspeechaudiology.gov](https://floridasspeechaudiology.gov)
+ - date_published: 2024-07-03T14:39:57.943955+00:00
+
+ ## Sara B. Mollo, Sixth Judicial Circuit | The Public Defender’s Office
+ - [https://flpd6.gov](https://flpd6.gov)
+ - date_published: 2024-10-30T00:40:15.369018+00:00
+
+ ## Calendar for 6/15/2024 -
+    The Florida Senate
+ - [https://flsenate.gov](https://flsenate.gov)
+ - date_published: 2024-06-15T08:51:53.942946+00:00
+
+ ## The Florida Senate Page Program
+ - [https://senatepages.flsenate.gov](https://senatepages.flsenate.gov)
+ - date_published: 2024-06-15T08:52:00.777012+00:00
+
+ ## Select Authentication System
+ - [https://calendar.fnal.gov](https://calendar.fnal.gov)
+ - date_published: 2024-05-08T02:50:54.728975+00:00
+
+ ## CMS at Fermilab
+ - [https://cms.fnal.gov](https://cms.fnal.gov)
+ - date_published: 2024-07-03T15:05:40.891929+00:00
+
+ ## Select Authentication System
+ - [http://communication.fnal.gov](http://communication.fnal.gov)
+ - date_published: 2024-07-03T15:09:26.833924+00:00
+
+ ## Equity, Diversity, Inclusion and Accessibility - Diversity and Inclusion
+ - [https://diversity.fnal.gov](https://diversity.fnal.gov)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Nature and Ecology
+ - [https://ecology.fnal.gov](https://ecology.fnal.gov)
+ - date_published: 2024-05-08T02:51:13.729403+00:00
+
+ ## Fermilab Science Education Office
+ - [https://ed.fnal.gov](https://ed.fnal.gov)
+ - date_published: 2024-05-08T02:51:06.381885+00:00
+
+ ## Public Events | Events at Fermilab
+ - [https://events.fnal.gov](https://events.fnal.gov)
+ - date_published: 2024-05-08T02:51:22.994597+00:00
+
+ ## Select Authentication System
+ - [https://fermipoint.fnal.gov](https://fermipoint.fnal.gov)
+ - date_published: 2024-07-03T15:08:24.071555+00:00
+
+ ## Fermilab | Home
+ - [https://fnal.gov](https://fnal.gov)
+ - date_published: 2024-05-08T02:50:50.106263+00:00
+
+ ## Global Services
+ - [https://get-connected.fnal.gov](https://get-connected.fnal.gov)
+ - date_published: 2024-05-08T02:51:08.676656+00:00
+
+ ## Select Authentication System
+ - [https://inside.fnal.gov](https://inside.fnal.gov)
+ - date_published: 2024-05-08T02:51:16.140544+00:00
+
+ ## Home page
+ - [https://jobs.fnal.gov](https://jobs.fnal.gov)
+ - date_published: 2024-05-08T02:50:58.573895+00:00
+
+ ## DUNE at LBNF
+ - [https://lbnf-dune.fnal.gov](https://lbnf-dune.fnal.gov)
+ - date_published: 2024-05-08T02:51:04.598375+00:00
+
+ ## Fermilab LISTSERV server
+ - [https://listserv.fnal.gov](https://listserv.fnal.gov)
+ - date_published: 2024-04-28T12:14:37+00:00
+
+ ## Outline
+ - [https://magis.fnal.gov](https://magis.fnal.gov)
+ - date_published: 2024-07-03T15:05:38.447996+00:00
+
+ ## Fermilab | Hub Page Title | Page Title
+ - [https://mod.fnal.gov](https://mod.fnal.gov)
+ - date_published: 2024-07-03T15:08:28.901641+00:00
+
+ ## Fermilab | Muon g-2
+ - [https://muon-g-2.fnal.gov](https://muon-g-2.fnal.gov)
+ - date_published: 2024-04-30T07:58:27.749786+00:00
+
+ ## Newsroom
+ - [https://news.fnal.gov](https://news.fnal.gov)
+ - date_published: 2023-10-25T19:21:48.635515+00:00
+
+ ## Error
+ - [https://pingprod.fnal.gov](https://pingprod.fnal.gov)
+ - date_published: 2024-07-03T15:06:02.333051+00:00
+
+ ## PIP-II
+ - [https://pip2.fnal.gov](https://pip2.fnal.gov)
+ - date_published: 2024-07-03T15:05:32.731398+00:00
+
+ ## Fermilab | Particle Physics Division
+ - [http://ppd.fnal.gov](http://ppd.fnal.gov)
+ - date_published: 2020-08-18T18:05:59+00:00
+
+ ## Saturday Morning Physics | Fermilab's Saturday Morning Physics Program
+ - [http://smp.fnal.gov](http://smp.fnal.gov)
+ - date_published: 2024-07-03T15:08:35.939604+00:00
+
+ ## SQMS Home
+ - [https://sqms.fnal.gov](https://sqms.fnal.gov)
+ - date_published: 2024-07-03T15:05:44.435561+00:00
+
+ ## Sustainability
+ - [http://sustainability.fnal.gov](http://sustainability.fnal.gov)
+ - date_published: 2024-07-03T15:09:06.615320+00:00
+
+ ## Fermilab | Creative Services
+ - [https://vms.fnal.gov](https://vms.fnal.gov)
+ - date_published: 2024-05-08T02:51:18.381257+00:00
+
+ ## Select Authentication System
+ - [https://web.fnal.gov](https://web.fnal.gov)
+ - date_published: 2024-07-03T15:08:22.010273+00:00
+
+ ## Environment, Safety and Health  | Environment, Safety and Health at Fermilab
+ - [https://www-esh.fnal.gov](https://www-esh.fnal.gov)
+ - date_published: 2024-07-03T15:08:46.854483+00:00
+
+ ## Log in | National FOIA Portal
+ - [https://admin.foia.gov](https://admin.foia.gov)
+ - date_published: 2024-06-27T15:55:29+00:00
+
+ ## FOIA.gov - Freedom of Information Act
+ - [https://foia.gov](https://foia.gov)
+ - date_published: 2011-03-14T00:00:00+00:00
+
+ ## FOIAonline :: Decommissioned
+ - [https://foiaonline.gov](https://foiaonline.gov)
+ - date_published: 2023-10-25T19:21:50.776367+00:00
+
+ ## FoodSafety.gov
+ - [https://www.foodsafety.gov](https://www.foodsafety.gov)
+ - date_published: 2019-04-12T19:30:39+00:00
+
+ ## Gerald R Ford Presidential Library & Museum
+ - [https://www.fordlibrarymuseum.gov](https://www.fordlibrarymuseum.gov)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## FA.gov
+ - [https://foreignassistance.gov](https://foreignassistance.gov)
+ - date_published: 2025-02-09T04:17:39.962079+00:00
+
+ ## FA.gov
+ - [http://www.foreignassistance.gov](http://www.foreignassistance.gov)
+ - date_published: 2024-06-27T23:36:32+00:00
+
+ ## Home | Forfeiture.gov
+ - [https://search.forfeiture.gov](https://search.forfeiture.gov)
+ - date_published: 2024-07-11T00:36:59+00:00
+
+ ## Redirecting to https://search.usa.gov/search?affiliate=usagov_all_gov&query=forms
+ - [http://www.forms.gov](http://www.forms.gov)
+ - date_published: 2024-07-03T01:34:44+00:00
+
+ ## Fort Worth - Open Data Portal | City of Fort Worth, Texas
+ - [https://data.fortworthtexas.gov](https://data.fortworthtexas.gov)
+ - date_published: 2024-09-18T11:43:09.560189+00:00
+
+ ## City of Fort Worth
+ - [https://fortworthtexas.gov](https://fortworthtexas.gov)
+ - date_published: 2024-06-15T15:17:21.987396+00:00
+
+ ## Home
+ - [https://www.fpc.gov](https://www.fpc.gov)
+ - date_published: 2024-05-31T13:24:46+00:00
+
+ ## Welcome to Franklin County, NY
+ - [https://www.franklincountyny.gov](https://www.franklincountyny.gov)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## The Official FRTIB Homepage
+ - [https://www.frtib.gov](https://www.frtib.gov)
+ - date_published: 2024-06-12T14:35:34+00:00
+
+ ## Free publications to share with your community | FTC Bulkorder Publications
+ - [https://bulkorder.ftc.gov](https://bulkorder.ftc.gov)
+ - date_published: 2024-05-08T02:51:41.831748+00:00
+
+ ## Consumer Advice
+ - [https://consumer.ftc.gov](https://consumer.ftc.gov)
+ - date_published: 2024-05-04T12:55:46.656851+00:00
+
+ ## Consejos para consumidores
+ - [https://consumidor.ftc.gov](https://consumidor.ftc.gov)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Federal Trade Commission
+ - [https://ftc.gov](https://ftc.gov)
+ - date_published: 2024-06-21T14:30:04+00:00
+
+ ## Office of Inspector General | Federal Trade Commission OIG
+ - [https://oig.ftc.gov](https://oig.ftc.gov)
+ - date_published: 2024-05-08T02:51:39.590022+00:00
+
+ ## Report Fraud
+ - [https://reportfraud.ftc.gov](https://reportfraud.ftc.gov)
+ - date_published: 2024-05-08T02:51:37.445556+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.ftc.gov](https://search.ftc.gov)
+ - date_published: 2024-05-08T02:51:45.021451+00:00
+
+ ## FuelEconomy.gov - The official U.S. government source for fuel economy information.
+ - [https://fueleconomy.gov](https://fueleconomy.gov)
+ - date_published: 2024-06-19T17:12:16.236026+00:00
+
+ ## Americans can vote. Wherever they are.
+ - [https://fvap.gov](https://fvap.gov)
+ - date_published: 2024-10-30T02:38:42.568169+00:00
+
+ ## U.S. Fish and Wildlife Service
+ - [https://fws.gov](https://fws.gov)
+ - date_published: 2024-05-07T15:18:47.274430+00:00
+
+ ## Homepage
+ - [http://doas.ga.gov](http://doas.ga.gov)
+ - date_published: 2024-08-08T16:25:20+00:00
+
+ ## Elections Portal
+ - [https://mvp.sos.ga.gov](https://mvp.sos.ga.gov)
+ - date_published: 2023-07-16T02:08:11+00:00
+
+ ## Georgia Department of Community Affairs
+ - [https://www.dca.ga.gov](https://www.dca.ga.gov)
+ - date_published: 2025-02-11T03:41:04.804397+00:00
+
+ ## Georgia General Assembly
+ - [https://www.legis.ga.gov](https://www.legis.ga.gov)
+ - date_published: 2024-06-07T00:04:16+00:00
+
+ ## Gaithersburg, MD | Home
+ - [https://www.gaithersburgmd.gov](https://www.gaithersburgmd.gov)
+ - date_published: 2024-07-20T05:43:27+00:00
+
+ ## U.S. Government Accountability Office (U.S. GAO)
+ - [https://gao.gov](https://gao.gov)
+ - date_published: 2023-11-27T15:17:10+00:00
+
+ ## Welcome to Gates County, North Carolina!
+ - [https://gatescountync.gov](https://gatescountync.gov)
+ - date_published: 2025-02-02T05:54:28.183558+00:00
+
+ ## National Human Genome Research Institute Home | NHGRI
+ - [https://genome.gov](https://genome.gov)
+ - date_published: 2024-05-08T04:17:58.814265+00:00
+
+ ## Homepage | George W. Bush Library
+ - [https://www.georgewbushlibrary.gov](https://www.georgewbushlibrary.gov)
+ - date_published: 2024-06-28T02:05:53+00:00
+
+ ## Home
+ - [https://analytics.georgia.gov](https://analytics.georgia.gov)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Georgia Department of Driver Services
+ - [https://dds.georgia.gov](https://dds.georgia.gov)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Georgia Department of Human Services Division of Family & Children Services
+ - [https://dfcs.georgia.gov](https://dfcs.georgia.gov)
+ - date_published: 2024-12-27T18:53:47+00:00
+
+ ## Georgia Department of Human Services
+ - [https://dhs.georgia.gov](https://dhs.georgia.gov)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Department of Juvenile Justice
+ - [https://djj.georgia.gov](https://djj.georgia.gov)
+ - date_published: 2024-09-06T12:29:21+00:00
+
+ ## Georgia Bureau of Investigation Division of Forensic Sciences
+ - [https://dofs-gbi.georgia.gov](https://dofs-gbi.georgia.gov)
+ - date_published: 2024-07-17T09:26:49+00:00
+
+ ## Georgia Bureau of Investigation Division of Forensic Sciences
+ - [http://dofs.gbi.georgia.gov](http://dofs.gbi.georgia.gov)
+ - date_published: 2024-07-17T09:26:49+00:00
+
+ ## Georgia Department of Labor
+ - [https://dol.georgia.gov](https://dol.georgia.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Department of Revenue
+ - [https://dor.georgia.gov](https://dor.georgia.gov)
+ - date_published: 2024-12-30T20:24:28+00:00
+
+ ## Georgia Department of Public Health
+ - [https://dph.georgia.gov](https://dph.georgia.gov)
+ - date_published: 2024-10-29T19:35:56+00:00
+
+ ## Georgia Department of Public Safety
+ - [https://dps.georgia.gov](https://dps.georgia.gov)
+ - date_published: 2024-07-09T21:27:36+00:00
+
+ ## Environmental Protection Division
+ - [https://epd.georgia.gov](https://epd.georgia.gov)
+ - date_published: 2025-02-11T03:42:25.343575+00:00
+
+ ## Georgia Bureau of Investigation
+ - [https://gbi.georgia.gov](https://gbi.georgia.gov)
+ - date_published: 2024-04-30T04:16:59.795227+00:00
+
+ ## Georgia Department of Corrections
+ - [https://gdc.georgia.gov](https://gdc.georgia.gov)
+ - date_published: 2024-12-30T22:30:03+00:00
+
+ ## Georgia.gov
+ - [https://georgia.gov](https://georgia.gov)
+ - date_published: 2024-05-12T04:39:43.534007+00:00
+
+ ## Governor Brian P. Kemp Office of the Governor
+ - [https://gov.georgia.gov](https://gov.georgia.gov)
+ - date_published: 2025-01-31T07:50:57.134171+00:00
+
+ ## Georgia Technology Authority
+ - [https://gta.georgia.gov](https://gta.georgia.gov)
+ - date_published: 2024-07-09T17:08:09+00:00
+
+ ## Georgia Bureau of Investigation Investigative Division
+ - [http://investigative.gbi.georgia.gov](http://investigative.gbi.georgia.gov)
+ - date_published: 2024-07-17T09:28:17+00:00
+
+ ## Team Georgia
+ - [http://team.georgia.gov](http://team.georgia.gov)
+ - date_published: 2024-07-22T03:47:07.291521+00:00
+
+ ## get.gov
+ - [https://get.gov](https://get.gov)
+ - date_published: 2025-02-02T13:51:56.276521+00:00
+
+ ## Affordable Connectivity Program - National Verifier
+ - [https://www.getinternet.gov](https://www.getinternet.gov)
+ - date_published: 2024-09-18T21:44:57.547334+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://www.getkansasbenefits.gov](http://www.getkansasbenefits.gov)
+ - date_published: 2024-07-13T23:20:32.552346+00:00
+
+ ## Get Smart About Drugs: Homepage | Get Smart About Drugs
+ - [https://getsmartaboutdrugs.gov](https://getsmartaboutdrugs.gov)
+ - date_published: 2024-05-12T06:40:33.079336+00:00
+
+ ## U.S. Global Change Research Program | GlobalChange.gov
+ - [http://globalchange.gov](http://globalchange.gov)
+ - date_published: 2024-06-30T02:30:34+00:00
+
+ ## Welcome to the USGCRP Review and Comment System | Review and Comment System
+ - [https://review.globalchange.gov](https://review.globalchange.gov)
+ - date_published: 2024-05-07T15:02:35.629707+00:00
+
+ ## GLOBE Advanced Data Access Tools
+ - [https://datasearch.globe.gov](https://datasearch.globe.gov)
+ - date_published: 2024-07-13T06:51:07.137457+00:00
+
+ ## GLOBE Visualization
+ - [https://vis.globe.gov](https://vis.globe.gov)
+ - date_published: 2023-09-21T05:24:39+00:00
+
+ ## GLOBE Home Page - GLOBE.gov
+ - [http://www.globe.gov](http://www.globe.gov)
+ - date_published: 2024-07-09T09:36:28.789557+00:00
+
+ ## Conectate.GobiernoUSA.gov Landing Page
+ - [https://conectate.gobiernousa.gov](https://conectate.gobiernousa.gov)
+ - date_published: 2024-09-15T10:10:49+00:00
+
+ ## Go Direct® - Home
+ - [https://www.godirect.gov](https://www.godirect.gov)
+ - date_published: 2024-06-16T15:16:07.815435+00:00
+
+ ## Barry Goldwater Scholarship and Excellence in Education
+ - [https://goldwaterscholarship.gov](https://goldwaterscholarship.gov)
+ - date_published: 2016-06-03T17:30:58+00:00
+
+ ## House Republicans
+ - [https://www.gop.gov](https://www.gop.gov)
+ - date_published: 2024-06-27T14:12:39+00:00
+
+ ## Majority Leader - Steve Scalise
+ - [http://gopleader.gov](http://gopleader.gov)
+ - date_published: 2025-01-20T22:49:36.210869+00:00
+
+ ## GovInfo API
+ - [https://api.govinfo.gov](https://api.govinfo.gov)
+ - date_published: 2024-05-12T07:41:42.193966+00:00
+
+ ## GovInfo
+ - [https://govinfo.gov](https://govinfo.gov)
+ - date_published: 2024-04-05T18:55:44.538688+00:00
+
+ ## Welcome to GovLoans.gov
+ - [https://www.govloans.gov](https://www.govloans.gov)
+ - date_published: 2023-11-09T19:00:58+00:00
+
+ ## Colorado Secretary of State -
+ - [https://govotecolorado.gov](https://govotecolorado.gov)
+ - date_published: 2024-06-18T12:50:01.901402+00:00
+
+ ## Ben’s Guide To the U.S. Government
+ - [https://bensguide.gpo.gov](https://bensguide.gpo.gov)
+ - date_published: 2024-05-12T07:41:44.389021+00:00
+
+ ## U.S. Government Bookstore
+ - [https://bookstore.gpo.gov](https://bookstore.gpo.gov)
+ - date_published: 2024-06-30T02:54:39+00:00
+
+ ## Catalog of U.S. Government Publications (CGP)
+ - [https://catalog.gpo.gov](https://catalog.gpo.gov)
+ - date_published: 2016-12-09T21:32:22+00:00
+
+ ## Government Book Talk
+ - [https://govbooktalk.gpo.gov](https://govbooktalk.gpo.gov)
+ - date_published: 2024-06-30T03:04:20.557498+00:00
+
+ ## U.S. Government Publishing Office
+ - [http://gpo.gov](http://gpo.gov)
+ - date_published: 2024-06-27T14:20:09+00:00
+
+ ## Office of Disability Employment Policy Publications | Pueblo.gpo.gov
+ - [https://orders.gpo.gov](https://orders.gpo.gov)
+ - date_published: 2024-10-09T15:20:45.562466+00:00
+
+ ## GPS: The Global Positioning System
+ - [https://gps.gov](https://gps.gov)
+ - date_published: 2023-10-25T19:21:57.216221+00:00
+
+ ## Grants.gov Community Blog
+ - [http://blog.grants.gov](http://blog.grants.gov)
+ - date_published: 2024-09-16T09:53:33.390446+00:00
+
+ ## Grants.gov Alerts
+ - [https://grants.gov](https://grants.gov)
+ - date_published: 2024-06-14T17:29:07+00:00
+
+ ## Greenville, SC - Official Website | Official Website
+ - [https://greenvillesc.gov](https://greenvillesc.gov)
+ - date_published: 2024-10-27T21:44:02.831703+00:00
+
+ ## City of Gresham Home page
+ - [https://greshamoregon.gov](https://greshamoregon.gov)
+ - date_published: 2024-07-12T19:52:03.060628+00:00
+
+ ## 18F: Digital service delivery | Home
+ - [https://18f.gsa.gov](https://18f.gsa.gov)
+ - date_published: 2024-05-08T02:58:07.366087+00:00
+
+ ## GSA 889 Representations Tool
+ - [https://889.smartpay.gsa.gov](https://889.smartpay.gsa.gov)
+ - date_published: 2024-07-01T17:38:04+00:00
+
+ ## APIs | GSA Open Technology
+ - [https://api.gsa.gov](https://api.gsa.gov)
+ - date_published: 2024-09-12T15:05:24+00:00
+
+ ## Centers of Excellence Home | GSA - IT Modernization Centers of Excellence
+ - [https://coe.gsa.gov](https://coe.gsa.gov)
+ - date_published: 2023-11-02T00:00:00+00:00
+
+ ## Real Property Disposition
+ - [https://disposal.gsa.gov](https://disposal.gsa.gov)
+ - date_published: 2023-07-04T07:38:38+00:00
+
+ ## Home
+ - [https://gsa.gov](https://gsa.gov)
+ - date_published: 2024-05-08T02:44:47.742951+00:00
+
+ ## Join Us
+ - [https://join.tts.gsa.gov](https://join.tts.gsa.gov)
+ - date_published: 2024-06-28T03:29:59+00:00
+
+ ## GSA Open Technology
+ - [https://open.gsa.gov](https://open.gsa.gov)
+ - date_published: 2024-03-29T22:19:10+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.gsa.gov](https://search.gsa.gov)
+ - date_published: 2024-05-08T02:58:06.380439+00:00
+
+ ## GSA SmartPay
+ - [https://smartpay.gsa.gov](https://smartpay.gsa.gov)
+ - date_published: 2024-05-08T02:57:25.699507+00:00
+
+ ## GSA Training
+ - [https://training.smartpay.gsa.gov](https://training.smartpay.gsa.gov)
+ - date_published: 2024-07-01T17:37:59+00:00
+
+ ## Enterprise Shared Services for Federal Agencies | Homepage
+ - [https://ussm.gsa.gov](https://ussm.gsa.gov)
+ - date_published: 2024-05-08T02:58:48.288159+00:00
+
+ ## Vendor Support Center
+ - [https://vsc.gsa.gov](https://vsc.gsa.gov)
+ - date_published: 2024-04-30T14:54:31+00:00
+
+ ## GSA Office of Inspector General |
+ - [https://www.gsaig.gov](https://www.gsaig.gov)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home, City of Gulfport
+ - [http://www.gulfport-ms.gov](http://www.gulfport-ms.gov)
+ - date_published: 2024-06-29T23:36:20.923712+00:00
+
+ ## Hamilton County, Ohio
+ - [https://www.hamiltoncountyohio.gov](https://www.hamiltoncountyohio.gov)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Harris County | Texas
+ - [https://www.harriscountytx.gov](https://www.harriscountytx.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Harrison County, MS
+ - [https://harrisoncountyms.gov](https://harrisoncountyms.gov)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Harrison County, Mississippi Chancery Clerk
+ - [http://harrisoncountymschanceryclerk.gov](http://harrisoncountymschanceryclerk.gov)
+ - date_published: 2024-06-29T23:35:39.250448+00:00
+
+ ## Department of the Attorney General
+ - [https://ag.hawaii.gov](https://ag.hawaii.gov)
+ - date_published: 2024-10-14T21:39:21+00:00
+
+ ## Department of Accounting and General Services
+ - [https://ags.hawaii.gov](https://ags.hawaii.gov)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Department of Budget and Finance
+ - [https://budget.hawaii.gov](https://budget.hawaii.gov)
+ - date_published: 2024-10-15T01:51:27+00:00
+
+ ## DCCA
+ - [https://cca.hawaii.gov](https://cca.hawaii.gov)
+ - date_published: 2023-10-16T07:08:56+00:00
+
+ ## Hawaii's Creative Industries
+ - [https://cid.hawaii.gov](https://cid.hawaii.gov)
+ - date_published: 2024-12-14T01:16:44+00:00
+
+ ## Department of Business, Economic Development & Tourism
+ - [https://dbedt.hawaii.gov](https://dbedt.hawaii.gov)
+ - date_published: 2024-10-14T21:39:37+00:00
+
+ ## Department of Corrections and Rehabilitation
+ - [https://dcr.hawaii.gov](https://dcr.hawaii.gov)
+ - date_published: 2024-10-15T01:01:12+00:00
+
+ ## Department of Hawaiian Home Lands
+ - [https://dhhl.hawaii.gov](https://dhhl.hawaii.gov)
+ - date_published: 2024-10-14T21:38:58+00:00
+
+ ## Department of Human Resources Development
+ - [https://dhrd.hawaii.gov](https://dhrd.hawaii.gov)
+ - date_published: 2024-10-14T23:50:17+00:00
+
+ ## Department of Land and Natural Resources
+ - [https://dlnr.hawaii.gov](https://dlnr.hawaii.gov)
+ - date_published: 2024-05-01T08:10:29.551014+00:00
+
+ ## Department of Defense
+ - [https://dod.hawaii.gov](https://dod.hawaii.gov)
+ - date_published: 2024-10-15T07:08:28+00:00
+
+ ## Governor Josh Green, M.D.
+ - [https://governor.hawaii.gov](https://governor.hawaii.gov)
+ - date_published: 2024-10-15T07:08:39+00:00
+
+ ## Hawaii.gov
+ - [http://hawaii.gov](http://hawaii.gov)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Department of Agriculture
+ - [https://hdoa.hawaii.gov](https://hdoa.hawaii.gov)
+ - date_published: 2024-10-15T05:51:37+00:00
+
+ ## Hawaii State Department of Health
+ - [https://health.hawaii.gov](https://health.hawaii.gov)
+ - date_published: 2024-10-15T07:09:20+00:00
+
+ ## Department of Transportation
+ - [https://hidot.hawaii.gov](https://hidot.hawaii.gov)
+ - date_published: 2024-10-14T21:39:15+00:00
+
+ ## Department of Human Services
+ - [https://humanservices.hawaii.gov](https://humanservices.hawaii.gov)
+ - date_published: 2024-10-15T07:08:36+00:00
+
+ ## Business Development and Support Division
+ - [https://invest.hawaii.gov](https://invest.hawaii.gov)
+ - date_published: 2024-06-16T22:58:17.938596+00:00
+
+ ## Department of Labor and Industrial Relations
+ - [https://labor.hawaii.gov](https://labor.hawaii.gov)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Department of Law Enforcement
+ - [https://law.hawaii.gov](https://law.hawaii.gov)
+ - date_published: 2024-10-14T21:39:09+00:00
+
+ ## LRB Legislative Reference Bureau
+ - [https://lrb.hawaii.gov](https://lrb.hawaii.gov)
+ - date_published: 2024-10-14T21:38:59+00:00
+
+ ## Lieutenant Governor Sylvia Luke
+ - [https://ltgov.hawaii.gov](https://ltgov.hawaii.gov)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Welcome - Hawaii Open Data
+ - [https://opendata.hawaii.gov](https://opendata.hawaii.gov)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## DLNR Activity Permits & Resources | Explore Outdoor Hawaiʻi
+ - [https://outdoor.hawaii.gov](https://outdoor.hawaii.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Hawai‘i Emergency Management Agency
+ - [https://ready.hawaii.gov](https://ready.hawaii.gov)
+ - date_published: 2024-10-15T07:09:07+00:00
+
+ ## Stay Connected to Hawaii State Government
+ - [https://stayconnected.hawaii.gov](https://stayconnected.hawaii.gov)
+ - date_published: 2024-06-15T12:59:27+00:00
+
+ ## Department of Taxation | State of Hawaii
+ - [https://tax.hawaii.gov](https://tax.hawaii.gov)
+ - date_published: 2024-10-15T07:09:23+00:00
+
+ ## Hawaii County, HI | Home
+ - [https://www.hawaiicounty.gov](https://www.hawaiicounty.gov)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## City of Hayward - Official website
+ - [https://www.hayward-ca.gov](https://www.hayward-ca.gov)
+ - date_published: 2024-07-07T07:28:30+00:00
+
+ ## Home of the Office of Disease Prevention and Health Promotion - health.gov
+ - [https://health.gov](https://health.gov)
+ - date_published: 2024-08-07T17:31:15+00:00
+
+ ## CMS Healthcare Data
+ - [https://data.healthcare.gov](https://data.healthcare.gov)
+ - date_published: 2024-07-10T20:11:50+00:00
+
+ ## Still need health insurance? | HealthCare.gov
+ - [https://healthcare.gov](https://healthcare.gov)
+ - date_published: 2024-05-01T06:56:26.907647+00:00
+
+ ## Local Assistance for Health Insurance Application
+ - [https://localhelp.healthcare.gov](https://localhelp.healthcare.gov)
+ - date_published: 2024-06-16T07:54:20.576724+00:00
+
+ ## HealthData.gov
+ - [https://healthdata.gov](https://healthdata.gov)
+ - date_published: 2024-09-09T23:49:49.012653+00:00
+
+ ## Certified Health IT Product List (CHPL)
+ - [https://chpl.healthit.gov](https://chpl.healthit.gov)
+ - date_published: 2025-02-09T04:37:42.958313+00:00
+
+ ## ONC | Office of the National Coordinator for Health Information Technology
+ - [https://www.healthit.gov](https://www.healthit.gov)
+ - date_published: 2024-08-19T18:05:26+00:00
+
+ ## Vermont Department of Health
+ - [https://www.healthvermont.gov](https://www.healthvermont.gov)
+ - date_published: 2024-07-22T03:38:23+00:00
+
+ ## Healthy People 2030 | health.gov
+ - [https://www.healthypeople.gov](https://www.healthypeople.gov)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## HEAT.gov - National Integrated Heat Health Information System
+ - [https://www.heat.gov](https://www.heat.gov)
+ - date_published: 2024-06-19T02:55:36.767289+00:00
+
+ ## HelpWithMyBank.gov – Get Answers to Your Banking Questions
+ - [https://helpwithmybank.gov](https://helpwithmybank.gov)
+ - date_published: 2020-09-12T00:00:00+00:00
+
+ ## U.S Commission for the Preservation of America's Heritage Abroad | Restoration, Preservation, and Memorialization of Historical Sites
+ - [http://heritageabroad.gov](http://heritageabroad.gov)
+ - date_published: 2025-01-01T19:58:32.703203+00:00
+
+ ## U.S Commission for the Preservation of America's Heritage Abroad | Restoration, Preservation, and Memorialization of Historical Sites
+ - [http://www.heritageabroad.gov](http://www.heritageabroad.gov)
+ - date_published: 2025-01-01T19:55:47.777113+00:00
+
+ ## ASPE Homepage
+ - [https://aspe.hhs.gov](https://aspe.hhs.gov)
+ - date_published: 2024-06-28T19:05:22+00:00
+
+ ## ASPR | Homepage
+ - [https://aspr.hhs.gov](https://aspr.hhs.gov)
+ - date_published: 2023-10-25T19:22:17.545788+00:00
+
+ ## ASPR TRACIE | Healthcare Emergency Preparedness Information Gateway
+ - [https://asprtracie.hhs.gov](https://asprtracie.hhs.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - Centers for Medicare & Medicaid Services | CMS
+ - [https://cms.hhs.gov](https://cms.hhs.gov)
+ - date_published: 2024-09-16T12:35:39+00:00
+
+ ## ECLKC
+ - [https://eclkc.ohs.acf.hhs.gov](https://eclkc.ohs.acf.hhs.gov)
+ - date_published: 2024-10-10T17:21:53+00:00
+
+ ## Search the Exclusions Database | Office of Inspector General
+ - [https://exclusions.oig.hhs.gov](https://exclusions.oig.hhs.gov)
+ - date_published: 2024-07-03T13:21:49.510603+00:00
+
+ ## Department of Health & Human Services
+ - [https://hhs.gov](https://hhs.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## HPH Cybersecurity Gateway
+ - [https://hphcyber.hhs.gov](https://hphcyber.hhs.gov)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Home Page - Office of Minority Health (OMH)
+ - [https://minorityhealth.hhs.gov](https://minorityhealth.hhs.gov)
+ - date_published: 2024-06-23T07:30:19.313027+00:00
+
+ ## NPPES NPI Registry
+ - [https://npiregistry.cms.hhs.gov](https://npiregistry.cms.hhs.gov)
+ - date_published: 2024-06-26T00:18:59+00:00
+
+ ## U.S. Department of Health & Human Services - Office for Civil Rights
+ - [https://ocrportal.hhs.gov](https://ocrportal.hhs.gov)
+ - date_published: 2024-05-08T02:59:11.401239+00:00
+
+ ## Office of Inspector General | Government Oversight | U.S. Department of Health and Human Services
+ - [https://oig.hhs.gov](https://oig.hhs.gov)
+ - date_published: 2024-05-08T02:36:32.077870+00:00
+
+ ## ORI - The Office of Research Integrity | ORI - The Office of Research Integrity
+ - [https://ori.hhs.gov](https://ori.hhs.gov)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Safety Reporting Portal
+ - [https://safetyreporting.hhs.gov](https://safetyreporting.hhs.gov)
+ - date_published: 2024-05-08T02:47:05.377234+00:00
+
+ ## Telehealth.HHS.gov
+ - [https://telehealth.hhs.gov](https://telehealth.hhs.gov)
+ - date_published: 2024-10-10T14:08:11+00:00
+
+ ## Welcome To ACF | The Administration for Children and Families
+ - [https://www.acf.hhs.gov](https://www.acf.hhs.gov)
+ - date_published: 2024-06-19T03:29:34+00:00
+
+ ## Highlands County Avon Park Sebring Lake Placid
+ - [https://www.highlandsfl.gov](https://www.highlandsfl.gov)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## City of Hillsboro, OR | Home
+ - [https://www.hillsboro-oregon.gov](https://www.hillsboro-oregon.gov)
+ - date_published: 2024-07-04T04:56:05+00:00
+
+ ## Welcome to Hillsdale County, Michigan
+ - [https://hillsdalecounty.gov](https://hillsdalecounty.gov)
+ - date_published: 2024-05-07T14:18:45.954059+00:00
+
+ ## Home | HIREVets Medallion
+ - [https://hirevets.gov](https://hirevets.gov)
+ - date_published: 2024-05-08T02:45:48.478749+00:00
+
+ ## History Hub
+ - [https://historyhub.history.gov](https://historyhub.history.gov)
+ - date_published: 2024-06-29T18:23:46.522776+00:00
+
+ ## America's HIV Epidemic Analysis Dashboard | AHEAD
+ - [https://ahead.hiv.gov](https://ahead.hiv.gov)
+ - date_published: 2024-05-08T02:59:17.990063+00:00
+
+ ## HIV Chatbot
+ - [https://bot.hiv.gov](https://bot.hiv.gov)
+ - date_published: 2023-12-13T22:16:01+00:00
+
+ ## Clinicalinfo | Information on HIV/AIDS Treatment, Prevention and Research | NIH
+ - [https://clinicalinfo.hiv.gov](https://clinicalinfo.hiv.gov)
+ - date_published: 2024-05-08T02:59:14.843580+00:00
+
+ ## HIV and AIDS Resources | HIV.gov
+ - [https://hiv.gov](https://hiv.gov)
+ - date_published: 2023-10-25T19:22:20.398924+00:00
+
+ ## HIV Testing Sites & Care Services Locator
+ - [https://locator.hiv.gov](https://locator.hiv.gov)
+ - date_published: 2024-05-08T02:59:09.599601+00:00
+
+ ## Positive Spin
+ - [https://positivespin.hiv.gov](https://positivespin.hiv.gov)
+ - date_published: 2023-09-18T18:33:17+00:00
+
+ ## Ready, Set, PrEP
+ - [https://readysetprep.hiv.gov](https://readysetprep.hiv.gov)
+ - date_published: 2021-11-19T15:44:09+00:00
+
+ ## Hoboken NJ Website
+ - [https://www.hobokennj.gov](https://www.hobokennj.gov)
+ - date_published: 2024-12-27T03:03:11+00:00
+
+ ## City and County of Honolulu
+ - [https://www.honolulu.gov](https://www.honolulu.gov)
+ - date_published: 2024-10-15T07:10:02.309254+00:00
+
+ ## Congresswoman Alma Adams
+ - [https://adams.house.gov](https://adams.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Congressman Adam Smith
+ - [https://adamsmith.house.gov](https://adamsmith.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Robert Aderholt
+ - [https://aderholt.house.gov](https://aderholt.house.gov)
+ - date_published: 2024-06-27T13:59:37.993816+00:00
+
+ ## Representative Adrian Smith
+ - [https://adriansmith.house.gov](https://adriansmith.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## House Committee on Agriculture
+ - [https://agriculture.house.gov](https://agriculture.house.gov)
+ - date_published: 2024-06-27T14:15:46+00:00
+
+ ## Pete Aguilar – Representing the California's 33rd District
+ - [https://aguilar.house.gov](https://aguilar.house.gov)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Congressman Mark Alford
+ - [https://alford.house.gov](https://alford.house.gov)
+ - date_published: 2024-06-27T14:19:48+00:00
+
+ ## Congressman Al Green
+ - [https://algreen.house.gov](https://algreen.house.gov)
+ - date_published: 2024-06-27T14:16:22.059682+00:00
+
+ ## U.S. Representative Rick W. Allen
+ - [https://allen.house.gov](https://allen.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Colin Allred
+ - [https://allred.house.gov](https://allred.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Mark Amodei
+ - [https://amodei.house.gov](https://amodei.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Gabe Amo
+ - [https://amo.house.gov](https://amo.house.gov)
+ - date_published: 2024-06-27T14:16:18.583699+00:00
+
+ ## House Committee on Appropriations - Republicans
+ - [https://appropriations.house.gov](https://appropriations.house.gov)
+ - date_published: 2024-06-27T14:14:08.310799+00:00
+
+ ## Representative Republicans-armedservices
+ - [https://armedservices.house.gov](https://armedservices.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Representative Kelly Armstrong
+ - [https://armstrong.house.gov](https://armstrong.house.gov)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## U.S. Representative Jodey Arrington
+ - [https://arrington.house.gov](https://arrington.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Assistant Democratic Leader Joe Neguse
+ - [https://assistantdemocraticleader.house.gov](https://assistantdemocraticleader.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home | U.S. Congressman Jake Auchincloss Of Massachusetts 4th District
+ - [https://auchincloss.house.gov](https://auchincloss.house.gov)
+ - date_published: 2024-06-27T14:09:27.460917+00:00
+
+ ## United States Congressman Austin Scott
+ - [https://austinscott.house.gov](https://austinscott.house.gov)
+ - date_published: 2024-06-27T14:10:13.797074+00:00
+
+ ## U.S. Congressman Brian Babin, D.D.S
+ - [https://babin.house.gov](https://babin.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Congressman Don Bacon
+ - [https://bacon.house.gov](https://bacon.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## U.S. Representative Jim Baird
+ - [https://baird.house.gov](https://baird.house.gov)
+ - date_published: 2024-06-27T14:11:27+00:00
+
+ ## Congressman Troy Balderson
+ - [https://balderson.house.gov](https://balderson.house.gov)
+ - date_published: 2024-06-27T14:02:44+00:00
+
+ ## U.S. Representative for Vermont
+ - [https://balint.house.gov](https://balint.house.gov)
+ - date_published: 2024-06-27T14:02:50+00:00
+
+ ## U.S. Congressman Jim Banks
+ - [https://banks.house.gov](https://banks.house.gov)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Congresswoman Barragan – Representative for California's 44th Congressional District
+ - [https://barragan.house.gov](https://barragan.house.gov)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Congressman Andy Barr
+ - [https://barr.house.gov](https://barr.house.gov)
+ - date_published: 2024-06-27T14:22:44.520106+00:00
+
+ ## Representative Barry Moore
+ - [https://barrymoore.house.gov](https://barrymoore.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Bean
+ - [https://bean.house.gov](https://bean.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Congresswoman Joyce Beatty
+ - [https://beatty.house.gov](https://beatty.house.gov)
+ - date_published: 2024-06-27T14:12:43.306263+00:00
+
+ ## Congressman Bennie Thompson
+ - [https://benniethompson.house.gov](https://benniethompson.house.gov)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## Representative Cliff Bentz
+ - [https://bentz.house.gov](https://bentz.house.gov)
+ - date_published: 2024-06-27T14:15:49.767969+00:00
+
+ ## U.S. Representative Ami Bera, M.D.
+ - [https://bera.house.gov](https://bera.house.gov)
+ - date_published: 2024-06-27T14:17:53+00:00
+
+ ## U.S. Representative Jack Bergman
+ - [https://bergman.house.gov](https://bergman.house.gov)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## U.S. Representative Don Beyer
+ - [https://beyer.house.gov](https://beyer.house.gov)
+ - date_published: 2024-06-27T14:17:52+00:00
+
+ ## Representative Stephanie Bice
+ - [https://bice.house.gov](https://bice.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Andy Biggs
+ - [https://biggs.house.gov](https://biggs.house.gov)
+ - date_published: 2024-06-27T14:21:01.236929+00:00
+
+ ## Congressman Gus Bilirakis
+ - [https://bilirakis.house.gov](https://bilirakis.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Congressman Sanford Bishop
+ - [https://bishop.house.gov](https://bishop.house.gov)
+ - date_published: 2024-06-27T14:21:51.930684+00:00
+
+ ## Home | U.S. Congressman Blake Moore
+ - [https://blakemoore.house.gov](https://blakemoore.house.gov)
+ - date_published: 2024-06-27T14:00:29.956811+00:00
+
+ ## Congressman Earl Blumenauer
+ - [https://blumenauer.house.gov](https://blumenauer.house.gov)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## U.S. Representative Lisa Blunt Rochester
+ - [https://bluntrochester.house.gov](https://bluntrochester.house.gov)
+ - date_published: 2024-06-27T14:12:20+00:00
+
+ ## Congressman Bobby Scott
+ - [https://bobbyscott.house.gov](https://bobbyscott.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Lauren Boebert
+ - [https://boebert.house.gov](https://boebert.house.gov)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Congresswoman Suzanne Bonamici
+ - [https://bonamici.house.gov](https://bonamici.house.gov)
+ - date_published: 2024-06-27T14:02:01.699119+00:00
+
+ ## Congressman Mike Bost
+ - [https://bost.house.gov](https://bost.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | U.S. Congressman Jamaal Bowman of New York's 16th District
+ - [https://bowman.house.gov](https://bowman.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Congressman Brendan Boyle
+ - [https://boyle.house.gov](https://boyle.house.gov)
+ - date_published: 2024-06-27T14:01:48.776110+00:00
+
+ ## Congressman Brandon Williams
+ - [https://brandonwilliams.house.gov](https://brandonwilliams.house.gov)
+ - date_published: 2024-06-27T14:19:37+00:00
+
+ ## Congressman Josh Brecheen
+ - [https://brecheen.house.gov](https://brecheen.house.gov)
+ - date_published: 2024-06-27T14:19:34+00:00
+
+ ## Congressman Vern Buchanan
+ - [https://buchanan.house.gov](https://buchanan.house.gov)
+ - date_published: 2024-06-27T14:13:59.317053+00:00
+
+ ## U.S. Representative Larry Bucshon, M.D.
+ - [https://bucshon.house.gov](https://bucshon.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## U.S. Representative Buddy Carter
+ - [https://buddycarter.house.gov](https://buddycarter.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Home | The U.S. House Committee on the Budget - House Budget Committee
+ - [https://budget.house.gov](https://budget.house.gov)
+ - date_published: 2024-06-27T14:17:20.676899+00:00
+
+ ## Home - Nikki Budzinski
+ - [https://budzinski.house.gov](https://budzinski.house.gov)
+ - date_published: 2024-06-27T14:01:34.924505+00:00
+
+ ## Representative Tim Burchett
+ - [https://burchett.house.gov](https://burchett.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## U.S. Representative Michael Burgess
+ - [https://burgess.house.gov](https://burgess.house.gov)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Representative Burlison
+ - [https://burlison.house.gov](https://burlison.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Home
+ - [https://bush.house.gov](https://bush.house.gov)
+ - date_published: 2024-06-27T14:09:28.505390+00:00
+
+ ## Congressman Ken Calvert
+ - [https://calvert.house.gov](https://calvert.house.gov)
+ - date_published: 2024-06-27T14:22:16.020993+00:00
+
+ ## Representative Kat Cammack
+ - [https://cammack.house.gov](https://cammack.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## CAO | Chief Administrative Officer
+ - [http://cao.house.gov](http://cao.house.gov)
+ - date_published: 2024-06-27T14:18:53.575297+00:00
+
+ ## Representative Caraveo
+ - [https://caraveo.house.gov](https://caraveo.house.gov)
+ - date_published: 2024-06-27T14:00:34.249042+00:00
+
+ ## U.S. Congressman Salud Carbajal
+ - [https://carbajal.house.gov](https://carbajal.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home | U.S. Congressman Tony Cárdenas
+ - [https://cardenas.house.gov](https://cardenas.house.gov)
+ - date_published: 2024-06-27T14:01:28.301908+00:00
+
+ ## Representative Mike Carey
+ - [https://carey.house.gov](https://carey.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Congressman Jerry Carl
+ - [https://carl.house.gov](https://carl.house.gov)
+ - date_published: 2024-06-27T14:19:10.451419+00:00
+
+ ## Congressman Andre Carson
+ - [https://carson.house.gov](https://carson.house.gov)
+ - date_published: 2024-06-25T04:35:02+00:00
+
+ ## U.S. Representative John Carter
+ - [https://carter.house.gov](https://carter.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Matt Cartwright
+ - [https://cartwright.house.gov](https://cartwright.house.gov)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Representative Casar
+ - [https://casar.house.gov](https://casar.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Congressman Ed Case
+ - [https://case.house.gov](https://case.house.gov)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Home | U.S. Congressman Sean Casten
+ - [https://casten.house.gov](https://casten.house.gov)
+ - date_published: 2024-06-27T14:20:07.395817+00:00
+
+ ## U.S. Representative Kathy Castor
+ - [https://castor.house.gov](https://castor.house.gov)
+ - date_published: 2024-06-27T14:10:20+00:00
+
+ ## Home | U.S. Congressman Joaquin Castro
+ - [https://castro.house.gov](https://castro.house.gov)
+ - date_published: 2024-06-27T14:02:02.439009+00:00
+
+ ## United States Committee on House Administration
+ - [https://cha.house.gov](https://cha.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## The Office of the Chaplain, United States House of Representatives
+ - [http://chaplain.house.gov](http://chaplain.house.gov)
+ - date_published: 2024-06-27T14:21:44.610013+00:00
+
+ ## Representative Chavez-Deremer
+ - [https://chavez-deremer.house.gov](https://chavez-deremer.house.gov)
+ - date_published: 2024-06-27T14:10:16.058282+00:00
+
+ ## Representative Cherfilus-McCormick
+ - [https://cherfilus-mccormick.house.gov](https://cherfilus-mccormick.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Chris Smith | U.S. Congressman for New Jersey's 4th District
+ - [https://chrissmith.house.gov](https://chrissmith.house.gov)
+ - date_published: 2024-06-27T14:16:52+00:00
+
+ ## Representative Judy Chu
+ - [https://chu.house.gov](https://chu.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Jesus Garcia
+ - [https://chuygarcia.house.gov](https://chuygarcia.house.gov)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Representative Ciscomani
+ - [https://ciscomani.house.gov](https://ciscomani.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home - Congresswoman Yvette Clarke
+ - [https://clarke.house.gov](https://clarke.house.gov)
+ - date_published: 2022-05-26T00:00:00+00:00
+
+ ## Homepage - Congressman Clay Higgins
+ - [https://clayhiggins.house.gov](https://clayhiggins.house.gov)
+ - date_published: 2023-10-02T17:14:51+00:00
+
+ ## Congressman Emanuel Cleaver
+ - [https://cleaver.house.gov](https://cleaver.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Office of the Clerk, U.S. House of Representatives
+ - [http://clerk.house.gov](http://clerk.house.gov)
+ - date_published: 2024-06-15T12:39:19.522957+00:00
+
+ ## Committees No Longer Standing | house.gov
+ - [https://climatecrisis.house.gov](https://climatecrisis.house.gov)
+ - date_published: 2024-07-15T11:00:06+00:00
+
+ ## U.S. Congressman Ben Cline
+ - [https://cline.house.gov](https://cline.house.gov)
+ - date_published: 2024-06-27T14:13:50+00:00
+
+ ## Home - Cloud
+ - [https://cloud.house.gov](https://cloud.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Congressman James E. Clyburn
+ - [https://clyburn.house.gov](https://clyburn.house.gov)
+ - date_published: 2024-06-20T19:14:01+00:00
+
+ ## U.S. Representative Andrew S. Clyde
+ - [https://clyde.house.gov](https://clyde.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Steve Cohen
+ - [https://cohen.house.gov](https://cohen.house.gov)
+ - date_published: 2024-06-27T14:00:17.636305+00:00
+
+ ## Representative Tom Cole
+ - [https://cole.house.gov](https://cole.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Collins
+ - [https://collins.house.gov](https://collins.house.gov)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Congressman James Comer
+ - [https://comer.house.gov](https://comer.house.gov)
+ - date_published: 2024-06-27T14:00:10.563925+00:00
+
+ ## U.S. Representative Gerry Connolly
+ - [https://connolly.house.gov](https://connolly.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | U.S. Congressman Lou Correa of California
+ - [https://correa.house.gov](https://correa.house.gov)
+ - date_published: 2024-06-27T14:00:00.493743+00:00
+
+ ## Congressman Jim Costa
+ - [https://costa.house.gov](https://costa.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Joe Courtney
+ - [https://courtney.house.gov](https://courtney.house.gov)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Congresswoman Angie Craig
+ - [https://craig.house.gov](https://craig.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Eli Crane – Congressman for Arizona
+ - [https://crane.house.gov](https://crane.house.gov)
+ - date_published: 2024-06-27T14:00:47.648501+00:00
+
+ ## Home - Rick Crawford
+ - [https://crawford.house.gov](https://crawford.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Congressman Dan Crenshaw
+ - [https://crenshaw.house.gov](https://crenshaw.house.gov)
+ - date_published: 2024-06-27T14:12:28.271603+00:00
+
+ ## Representative Crockett
+ - [https://crockett.house.gov](https://crockett.house.gov)
+ - date_published: 2024-06-27T14:22:21.500367+00:00
+
+ ## Representative Jason Crow
+ - [https://crow.house.gov](https://crow.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## U.S. Congressman Henry Cuellar, Ph.D.
+ - [https://cuellar.house.gov](https://cuellar.house.gov)
+ - date_published: 2024-06-27T14:00:08+00:00
+
+ ## U.S. Representative John Curtis
+ - [https://curtis.house.gov](https://curtis.house.gov)
+ - date_published: 2024-06-27T14:10:10+00:00
+
+ ## Congressman Dan Bishop
+ - [https://danbishop.house.gov](https://danbishop.house.gov)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Congressman Dan Kildee
+ - [https://dankildee.house.gov](https://dankildee.house.gov)
+ - date_published: 2024-06-27T14:09:58.891882+00:00
+
+ ## U.S. Congressman David Scott
+ - [https://davidscott.house.gov](https://davidscott.house.gov)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Representative Sharice Davids
+ - [https://davids.house.gov](https://davids.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Warren Davidson
+ - [https://davidson.house.gov](https://davidson.house.gov)
+ - date_published: 2024-06-27T14:02:43.356340+00:00
+
+ ## Congressman Danny K. Davis
+ - [https://davis.house.gov](https://davis.house.gov)
+ - date_published: 2024-06-27T05:02:25+00:00
+
+ ## Congresswoman Madeleine Dean
+ - [https://dean.house.gov](https://dean.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Representative Debbie Dingell
+ - [https://debbiedingell.house.gov](https://debbiedingell.house.gov)
+ - date_published: 2024-06-27T14:20:47+00:00
+
+ ## Congresswoman Diana DeGette
+ - [https://degette.house.gov](https://degette.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congresswoman Monica De La Cruz
+ - [https://delacruz.house.gov](https://delacruz.house.gov)
+ - date_published: 2024-06-27T14:00:30+00:00
+
+ ## Congresswoman Rosa DeLauro
+ - [https://delauro.house.gov](https://delauro.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Congresswoman Suzan DelBene
+ - [https://delbene.house.gov](https://delbene.house.gov)
+ - date_published: 2024-06-27T14:21:45+00:00
+
+ ## Representative Deluzio
+ - [https://deluzio.house.gov](https://deluzio.house.gov)
+ - date_published: 2024-06-27T14:17:14.780075+00:00
+
+ ## Democratic Leader Hakeem Jeffries
+ - [https://democraticleader.house.gov](https://democraticleader.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Katherine Clark Democratic Whip
+ - [https://democraticwhip.house.gov](https://democraticwhip.house.gov)
+ - date_published: 2024-06-27T14:02:45.650077+00:00
+
+ ## Home | Education & The Workforce Committee Democrats
+ - [https://democrats-edlabor.house.gov](https://democrats-edlabor.house.gov)
+ - date_published: 2024-07-07T05:04:03.643180+00:00
+
+ ## Democrats, Energy and Commerce Committee
+ - [https://democrats-energycommerce.house.gov](https://democrats-energycommerce.house.gov)
+ - date_published: 2024-06-16T20:08:52.350688+00:00
+
+ ## U.S. House Judiciary Committee Democrats
+ - [https://democrats-judiciary.house.gov](https://democrats-judiciary.house.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## House of Representatives Committee on Rules
+ - [https://democrats-rules.house.gov](https://democrats-rules.house.gov)
+ - date_published: 2024-05-08T02:59:31.634576+00:00
+
+ ## Home | House Committee on Science, Space and Technology
+ - [https://democrats-science.house.gov](https://democrats-science.house.gov)
+ - date_published: 2025-01-10T13:55:06.755635+00:00
+
+ ## Select Committee on the CCP - Democrats
+ - [https://democrats-selectcommitteeontheccp.house.gov](https://democrats-selectcommitteeontheccp.house.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Congressman Mark Desaulnier
+ - [https://desaulnier.house.gov](https://desaulnier.house.gov)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## United States Congressman Scott DesJarlais
+ - [https://desjarlais.house.gov](https://desjarlais.house.gov)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Representative D'Esposito
+ - [https://desposito.house.gov](https://desposito.house.gov)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Error - The House of Reps
+ - [https://digitalprf.house.gov](https://digitalprf.house.gov)
+ - date_published: 2024-09-14T23:21:44.778490+00:00
+
+ ## Office of the Clerk, U.S. House of Representatives
+ - [https://disclosures-clerk.house.gov](https://disclosures-clerk.house.gov)
+ - date_published: 2024-06-22T19:36:41.115785+00:00
+
+ ## Document Repository
+ - [https://docs.house.gov](https://docs.house.gov)
+ - date_published: 2022-11-29T22:26:03+00:00
+
+ ## Congressman Lloyd Doggett
+ - [https://doggett.house.gov](https://doggett.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Congressman Byron Donalds
+ - [https://donalds.house.gov](https://donalds.house.gov)
+ - date_published: 2024-06-27T13:48:58+00:00
+
+ ## Representative Davis
+ - [https://dondavis.house.gov](https://dondavis.house.gov)
+ - date_published: 2024-06-27T14:02:21.070731+00:00
+
+ ## House Democratic Policy and Communications Committee
+ - [https://dpcc.house.gov](https://dpcc.house.gov)
+ - date_published: 2024-09-14T23:22:00.106815+00:00
+
+ ## Congressman John Duarte
+ - [https://duarte.house.gov](https://duarte.house.gov)
+ - date_published: 2024-06-27T14:24:25+00:00
+
+ ## United States Congressman Neal Dunn
+ - [https://dunn.house.gov](https://dunn.house.gov)
+ - date_published: 2024-06-27T14:16:05.643824+00:00
+
+ ## Representative Dusty Johnson
+ - [https://dustyjohnson.house.gov](https://dustyjohnson.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Congressman Chuck Edwards
+ - [https://edwards.house.gov](https://edwards.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Committee on Education & the Workforce | Republicans
+ - [https://edworkforce.house.gov](https://edworkforce.house.gov)
+ - date_published: 2024-05-08T09:29:42.942973+00:00
+
+ ## United States Congressman Jake Ellzey
+ - [https://ellzey.house.gov](https://ellzey.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Tom Emmer
+ - [https://emmer.house.gov](https://emmer.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## House Committee on Energy and Commerce
+ - [https://energycommerce.house.gov](https://energycommerce.house.gov)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Congresswoman Veronica Escobar
+ - [https://escobar.house.gov](https://escobar.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Congresswoman Anna Eshoo
+ - [https://eshoo.house.gov](https://eshoo.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | Rep. Adriano Espaillat
+ - [https://espaillat.house.gov](https://espaillat.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## U.S. Representative Ron Estes
+ - [https://estes.house.gov](https://estes.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## House Committee on Ethics
+ - [https://ethics.house.gov](https://ethics.house.gov)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Representative Dwight Evans
+ - [https://evans.house.gov](https://evans.house.gov)
+ - date_published: 2024-06-27T14:20:44.274180+00:00
+
+ ## U.S. Representative Mike Ezell
+ - [https://ezell.house.gov](https://ezell.house.gov)
+ - date_published: 2024-05-09T02:35:18.599399+00:00
+
+ ## Congressman Pat Fallon
+ - [https://fallon.house.gov](https://fallon.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Randy Feenstra
+ - [https://feenstra.house.gov](https://feenstra.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## U.S. Representative Drew Ferguson
+ - [https://ferguson.house.gov](https://ferguson.house.gov)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Representative Teresa Fernandez
+ - [https://fernandez.house.gov](https://fernandez.house.gov)
+ - date_published: 2024-06-20T00:00:00+00:00
 

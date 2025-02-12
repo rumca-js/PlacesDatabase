@@ -1,3 +1,157 @@
+ ## Kosmik - A better way to do for visual research
+ - [https://www.kosmik.app](https://www.kosmik.app)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Squirrel Servers Manager
+ - [https://molecular-sibylla-squirrelserversmanager-1b05c91d.koyeb.app](https://molecular-sibylla-squirrelserversmanager-1b05c91d.koyeb.app)
+ - date_published: 2024-08-21T13:59:25+00:00
+
+ ## Umami
+ - [https://umami-maurice.koyeb.app](https://umami-maurice.koyeb.app)
+ - date_published: 2024-04-29T06:25:50.745749+00:00
+
+ ## KREAd
+ - [https://kread.app](https://kread.app)
+ - date_published: 2024-05-09T14:33:35+00:00
+
+ ## Kreya
+ - [https://kreya.app](https://kreya.app)
+ - date_published: 2024-05-17T13:57:30.881914+00:00
+
+ ## Kroket
+ - [https://kroket.app](https://kroket.app)
+ - date_published: 2025-01-09T16:30:01.902531+00:00
+
+ ## Kukai
+ - [https://wallet.kukai.app](https://wallet.kukai.app)
+ - date_published: 2024-07-09T19:41:38.282727+00:00
+
+ ## Smarta verktyg för bättre kundservice
+ | Kundo
+ - [https://kundo.app](https://kundo.app)
+ - date_published: 2024-07-13T17:30:07.133510+00:00
+
+ ## Kwote
+ - [https://kwote.app](https://kwote.app)
+ - date_published: 2024-05-06T15:18:28.406163+00:00
+
+ ## lalista.app
+ - [https://lalista.app](https://lalista.app)
+ - date_published: 2024-05-10T06:40:39.694315+00:00
+
+ ## LANDrop - Drop any files to any devices on your LAN
+ - [https://landrop.app](https://landrop.app)
+ - date_published: 2023-10-25T11:47:00.043387+00:00
+
+ ## GitHub - hovancik/later-on: The reminder app
+ - [https://lateron.app](https://lateron.app)
+ - date_published: 2024-06-23T10:45:42.345002+00:00
+
+ ## LazyNotes AI Note Taker for iPhone.
+ - [https://lazynotes.app](https://lazynotes.app)
+ - date_published: 2024-10-22T13:51:39+00:00
+
+ ## Leap Dashboard
+ - [https://leapboard.app](https://leapboard.app)
+ - date_published: 2024-09-24T07:01:19+00:00
+
+ ## LearnHouse - The modern Open source learning platform for everyone.
+ - [https://www.learnhouse.app](https://www.learnhouse.app)
+ - date_published: 2024-12-13T12:48:50.479485+00:00
+
+ ## Leave Me Alone Blog
+ - [https://blog.leavemealone.app](https://blog.leavemealone.app)
+ - date_published: 2024-10-30T11:19:39.528930+00:00
+
+ ## Wallet Adapter for Aleo Apps | Leo Wallet Docs
+ - [https://docs.leo.app](https://docs.leo.app)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Leo Wallet for Aleo
+ - [https://www.leo.app](https://www.leo.app)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Lettercase™
+ - [https://lettercase.app](https://lettercase.app)
+ - date_published: 2024-07-04T11:01:34.731562+00:00
+
+ ## Lidana - AI Generated Manual Test Cases
+ - [https://www.lidana.app](https://www.lidana.app)
+ - date_published: 2024-12-06T10:44:04.960354+00:00
+
+ ## LifeDots.app - Visualize Your Life Timeline
+ - [https://lifedots.app](https://lifedots.app)
+ - date_published: 2025-01-30T19:19:56.546571+00:00
+
+ ## Lost & Found
+ - [https://governorsballmusicfestival.liff.app](https://governorsballmusicfestival.liff.app)
+ - date_published: 2024-12-23T05:17:03.201947+00:00
+
+ ## Lightest.app
+ - [https://www.lightest.app](https://www.lightest.app)
+ - date_published: 2024-05-06T14:13:30.317692+00:00
+
+ ## Lighthouse - Earn Cash Back on Your Next Lease
+ - [https://lighthouse.app](https://lighthouse.app)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Introduction | Linear API
+ - [https://developers.linear.app](https://developers.linear.app)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Linear – A better way to build products
+ - [https://linear.app](https://linear.app)
+ - date_published: 2023-10-25T11:47:02.657603+00:00
+
+ ## LinearMouse | The mouse and trackpad utility for Mac.
+ - [https://linearmouse.app](https://linearmouse.app)
+ - date_published: 2023-10-25T08:37:25.135990+00:00
+
+ ## @ederson
+ - [https://lingi.app](https://lingi.app)
+ - date_published: 2024-05-10T06:45:42.067046+00:00
+
+ ## Linkjar
+ - [https://linkjar.app](https://linkjar.app)
+ - date_published: 2024-05-06T21:28:55.521684+00:00
+
+ ## Linkwarden
+ - [https://blog.linkwarden.app](https://blog.linkwarden.app)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Linkwarden
+ - [https://cloud.linkwarden.app](https://cloud.linkwarden.app)
+ - date_published: 2024-05-14T03:49:12.485860+00:00
+
+ ## Linkwarden
+ - [https://demo.linkwarden.app](https://demo.linkwarden.app)
+ - date_published: 2024-09-05T13:39:17.814481+00:00
+
+ ## Linkwarden
+ - [https://docs.linkwarden.app](https://docs.linkwarden.app)
+ - date_published: 2024-05-14T03:49:09.242508+00:00
+
+ ## Linkwarden
+ - [https://linkwarden.app](https://linkwarden.app)
+ - date_published: 2024-04-08T19:29:29.155254+00:00
+ - tags: ['self-host', 'link aggregator', 'bookmark manager', 'internet archive']
+
+ ## Welcome to {{ site.title }} - home redirected
+ - [http://linshare.app](http://linshare.app)
+ - date_published: 2023-10-10T12:58:56+00:00
+
+ ## LinTO Studio
+ - [https://studio.linto.app](https://studio.linto.app)
+ - date_published: 2024-05-06T13:28:04+00:00
+
+ ## Lion Accountability Browser - The first AI-Powered Accountability Browser with Parental Controls
+ - [https://lionbrowser.app](https://lionbrowser.app)
+ - date_published: 2023-08-28T23:52:26+00:00
+
+ ## Listen and publish YouTube shows as podcasts - Listenbox
+ - [https://listenbox.app](https://listenbox.app)
+ - date_published: 2024-05-12T06:23:26.569730+00:00
+
  ## listmonk - Mailing list
  - [https://demo.listmonk.app](https://demo.listmonk.app)
  - date_published: 2024-05-14T03:49:19.242863+00:00
@@ -1435,6 +1589,10 @@
  ## JOJX
  - [https://jojx.netlify.app](https://jojx.netlify.app)
  - date_published: 2024-06-20T07:57:24.075417+00:00
+
+ ## Home
+ - [https://jon-burgerman-staging.netlify.app](https://jon-burgerman-staging.netlify.app)
+ - date_published: 2025-02-11T18:31:45.984999+00:00
 
  ## Home
  - [https://jorgeruvalcaba-personalsite.netlify.app](https://jorgeruvalcaba-personalsite.netlify.app)
@@ -3882,163 +4040,4 @@ The Album
  ## Scrypted Cloud
  - [https://home.scrypted.app](https://home.scrypted.app)
  - date_published: 2024-05-14T04:02:09.834278+00:00
-
- ## Scrypted Scripts
- - [https://scripts.scrypted.app](https://scripts.scrypted.app)
- - date_published: 2024-05-07T19:39:50+00:00
-
- ## Scrypted
- - [https://scrypted.app](https://scrypted.app)
- - date_published: 2023-07-12T21:24:56+00:00
- - tags: ['alexa', 'smart home', 'video streaming', 'google home']
-
- ## sc-type
- - [https://sctype.app](https://sctype.app)
- - date_published: 2019-08-01T00:00:00+00:00
-
- ## SDK code generator | SDKgen
- - [https://sdkgen.app](https://sdkgen.app)
- - date_published: 2024-08-18T18:04:02.040911+00:00
-
- ## SearchBot for Discord
- - [https://searchbot.app](https://searchbot.app)
- - date_published: 2024-07-23T23:26:44.568978+00:00
-
- ## Seatsurfing
- - [https://seatsurfing.app](https://seatsurfing.app)
- - date_published: 2024-05-23T20:09:17+00:00
-
- ## seedit
- - [https://seedit.app](https://seedit.app)
- - date_published: 2024-12-10T11:10:50.552968+00:00
-
- ## Show HN: Seedling – A Decentralised Medium
- - [https://seedling-d.app](https://seedling-d.app)
- - date_published: 2024-01-05T22:54:58+00:00
-
- ## See Your Budget
- - [https://seeyourbudget.app](https://seeyourbudget.app)
- - date_published: 2024-10-02T11:49:21.594303+00:00
-
- ## Sei Explorer | SeiScan
- - [https://www.seiscan.app](https://www.seiscan.app)
- - date_published: 2024-09-25T10:54:09.080878+00:00
-
- ## Sei explorer
- - [https://seistream.app](https://seistream.app)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Send Files To Tv - Android application for Smart TV
- - [https://sendfilestotv.app](https://sendfilestotv.app)
- - date_published: 2024-03-11T14:59:01+00:00
-
- ## Sequels - SQL Notebook for macOS
- - [https://sequels.app](https://sequels.app)
- - date_published: 2024-08-11T17:24:41.099190+00:00
-
- ## Open source, self-hosted bookmark manager
- - [https://servas.app](https://servas.app)
- - date_published: 2024-11-18T20:22:30+00:00
- - tags: ['self-host', 'bookmark manager']
-
- ## ServicePlanner :: Ministry & Field Service App
- - [https://serviceplanner.app](https://serviceplanner.app)
- - date_published: 2024-07-09T15:51:29.287371+00:00
-
- ## The 7 Minute Workout App - Seven
- - [https://seven.app](https://seven.app)
- - date_published: 2024-02-08T08:34:04+00:00
-
- ## Every mountain, building and tree shadow in the world simulated for any time
- - [https://shademap.app](https://shademap.app)
- - date_published: 2024-05-31T05:09:24+00:00
-
- ## Shape Divider App
- - [https://www.shapedivider.app](https://www.shapedivider.app)
- - date_published: 2021-10-29T15:06:45+00:00
-
- ## AI with Brain Inside Google Sheets
- - [https://sheetai.app](https://sheetai.app)
- - date_published: 2024-06-19T21:11:38.165510+00:00
-
- ## Ayame Labo
- - [https://ayame-labo.shiguredo.app](https://ayame-labo.shiguredo.app)
- - date_published: 2024-07-23T23:16:54.785993+00:00
-
- ## Sora Labo
- - [https://sora-labo.shiguredo.app](https://sora-labo.shiguredo.app)
- - date_published: 2024-07-23T23:15:44.688373+00:00
-
- ## ShinyTracker
- - [https://shinytracker.app](https://shinytracker.app)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Shootmail - Beautiful email templates and notion-like email builder
- - [https://shootmail.app](https://shootmail.app)
- - date_published: 2025-01-15T18:06:10.533998+00:00
-
- ## https://go.shop.app
- - [https://go.shop.app](https://go.shop.app)
- - date_published: 2024-02-24T09:57:16.776865+00:00
-
- ## Weryfikowanie połączenia...
- - [https://shop.app](https://shop.app)
- - date_published: 2024-04-28T03:00:17.300790+00:00
-
- ## Save Money & Earn Rewards
- - [https://www.shopruby.app](https://www.shopruby.app)
- - date_published: 2024-10-30T21:10:05.477926+00:00
-
- ## Shortcat: Universal command palette for your Mac | Shortcat
- - [https://shortcat.app](https://shortcat.app)
- - date_published: 2024-11-14T17:25:12+00:00
-
- ## Home - URL Shortener
- - [https://shortenurl.app](https://shortenurl.app)
- - date_published: 2024-12-06T13:28:40.853944+00:00
- - tags: ['link service']
-
- ## Shortner.app - Discover History and Future of Benefits URL Shortening
- - [https://shortner.app](https://shortner.app)
- - date_published: 2025-02-03T13:20:10.758106+00:00
-
- ## SHRED: Home & Gym Workouts App
- - [https://shred.app](https://shred.app)
- - date_published: 2024-11-22T01:23:13+00:00
-
- ## Code Shrew
- - [https://shrew.app](https://shrew.app)
- - date_published: 2024-07-12T17:42:01.232844+00:00
-
- ## Remove the "Ignore Limit" button from Screen Time.
- - [https://www.shutout.app](https://www.shutout.app)
- - date_published: 2024-12-29T19:20:56.360502+00:00
-
- ## Newsroom • Sidetrack
- - [https://blog.sidetrack.app](https://blog.sidetrack.app)
- - date_published: 2024-06-23T15:08:11.349556+00:00
-
- ## Signet App – Your digital identity and security of communications at your palm
- - [https://signet.app](https://signet.app)
- - date_published: 2023-06-26T21:31:40+00:00
-
- ## What is SillyTavern? | docs.ST.app
- - [https://docs.sillytavern.app](https://docs.sillytavern.app)
- - date_published: 2024-10-28T15:32:33+00:00
-
- ## SillyTavern - LLM Frontend for Power Users
- - [https://sillytavern.app](https://sillytavern.app)
- - date_published: 2023-06-01T22:57:33+00:00
-
- ## Sindri - Modernized ZK DevOps and Accelerated Proving Infrastructure
- - [https://sindri.app](https://sindri.app)
- - date_published: 2024-09-11T14:18:15+00:00
-
- ## A static site for your dynamically-generated website
- - [https://sitesauce.app](https://sitesauce.app)
- - date_published: 2024-08-17T22:19:07.675301+00:00
-
- ## Sitter Pro: Hassle-Free Care - Sitter Pro
- - [https://sitter.app](https://sitter.app)
- - date_published: 2018-10-15T00:00:00+00:00
 

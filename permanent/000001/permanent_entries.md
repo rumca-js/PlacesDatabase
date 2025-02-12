@@ -1,3 +1,51 @@
+ ## Programme
+ - [https://awards.ai](https://awards.ai)
+ - date_published: 2024-07-13T23:25:50.806101+00:00
+
+ ## Axelera AI - Extreme Performance, Excellent Efficiency. Accelerating Inference at the Edge.
+ - [https://axelera.ai](https://axelera.ai)
+ - date_published: 2025-01-22T02:33:44.593799+00:00
+
+ ## Axelera AI Store
+ - [https://store.axelera.ai](https://store.axelera.ai)
+ - date_published: 2025-01-22T02:33:45.970016+00:00
+
+ ## Axelera AI - Extreme Performance, Excellent Efficiency. Accelerating Inference at the Edge.
+ - [https://www.axelera.ai](https://www.axelera.ai)
+ - date_published: 2025-01-08T17:55:11.188401+00:00
+
+ ## No code browser automation | axiom.ai
+ - [https://axiom.ai](https://axiom.ai)
+ - date_published: 2024-06-17T15:57:01+00:00
+
+ ## Ayna.AI: Management Consulting Firm Empowering Industries
+ - [https://www.ayna.ai](https://www.ayna.ai)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Home
+ - [https://babl.ai](https://babl.ai)
+ - date_published: 2025-01-31T10:38:56.420235+00:00
+
+ ## Homepage
+ - [https://courses.babl.ai](https://courses.babl.ai)
+ - date_published: 2025-02-09T06:12:39.505966+00:00
+
+ ## Joscha Bach
+ - [http://bach.ai](http://bach.ai)
+ - date_published: 2023-07-14T17:24:44+00:00
+
+ ## Backyard AI | Home
+ - [https://backyard.ai](https://backyard.ai)
+ - date_published: 2024-06-22T17:26:34.501135+00:00
+
+ ## Bad Idea AI | A New Decentralized Experiment
+ - [https://badidea.ai](https://badidea.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home - BadIdeas.AI
+ - [https://badideas.ai](https://badideas.ai)
+ - date_published: 2024-09-24T21:33:42.588379+00:00
+
  ## Baggins
  - [https://www.baggins.ai](https://www.baggins.ai)
  - date_published: 2024-11-21T02:10:34.954812+00:00
@@ -443,9 +491,49 @@
  - [https://platform.bolster.ai](https://platform.bolster.ai)
  - date_published: 2025-01-15T21:25:17.989666+00:00
 
+ ## 正能量电子网 - 关于我们
+ - [http://about.bom.ai](http://about.bom.ai)
+ - date_published: 2025-02-11T08:12:02.275780+00:00
+
+ ## 正能量电子网 - Erp软件
+ - [http://erp.bom.ai](http://erp.bom.ai)
+ - date_published: 2025-02-11T08:13:14.981898+00:00
+
+ ## 正能量货场
+ - [https://hc.bom.ai](https://hc.bom.ai)
+ - date_published: 2025-02-11T08:12:21.766396+00:00
+
+ ## 正能量——帮助中心
+ - [http://help.bom.ai](http://help.bom.ai)
+ - date_published: 2025-02-11T08:12:05.790466+00:00
+
+ ## 管理后台-bom.ai
+ - [https://mm.bom.ai](https://mm.bom.ai)
+ - date_published: 2025-02-11T08:11:40.634091+00:00
+
+ ## 芯扒客 – IC深度内容挖掘者
+ - [http://news.bom.ai](http://news.bom.ai)
+ - date_published: 2025-02-11T08:11:18.458584+00:00
+
+ ## 正能量开放平台
+ - [https://open.bom.ai](https://open.bom.ai)
+ - date_published: 2025-02-11T08:13:10.475934+00:00
+
+ ## 正能量小蜜蜂-高效询报价解决方案
+ - [https://rfq.bom.ai](https://rfq.bom.ai)
+ - date_published: 2025-02-11T08:12:44.697284+00:00
+
+ ## 正能量电子网
+ - [https://ss.bom.ai](https://ss.bom.ai)
+ - date_published: 2025-02-11T08:11:25.825159+00:00
+
  ## 正能量电子网www.bom.ai-电子元器件现货批量采购交易平台
  - [http://www.bom.ai](http://www.bom.ai)
  - date_published: 2025-02-01T09:25:33.434405+00:00
+
+ ## 正能量直营店-店铺查询
+ - [https://zyd.bom.ai](https://zyd.bom.ai)
+ - date_published: 2025-02-11T08:12:43.040565+00:00
 
  ## Bonsai Robotics – Home
  - [https://www.bonsairobotics.ai](https://www.bonsairobotics.ai)
@@ -586,6 +674,10 @@
  ## Breezemail - Organize your inbox with AI categories
  - [https://breezemail.ai](https://breezemail.ai)
  - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Breinify | AI Powered Personalization
+ - [https://home.breinify.ai](https://home.breinify.ai)
+ - date_published: 2025-02-11T15:53:54.353977+00:00
 
  ## Bria Blog
  - [https://blog.bria.ai](https://blog.bria.ai)
@@ -1107,6 +1199,10 @@
  ## Chatnode Compliance Portal
  - [http://trust.chatnode.ai](http://trust.chatnode.ai)
  - date_published: 2024-10-30T13:04:26.331747+00:00
+
+ ## ChatPRD - The #1 AI Copilot for Product Managers
+ - [https://www.chatprd.ai](https://www.chatprd.ai)
+ - date_published: 2025-02-11T04:57:52.391247+00:00
 
  ## Chatsimple's Agent Builder Platform
  - [https://app.chatsimple.ai](https://app.chatsimple.ai)
@@ -2563,6 +2659,10 @@ Welcome
  - [https://www.delegaid.ai](https://www.delegaid.ai)
  - date_published: 2024-01-09T02:23:15.594469+00:00
 
+ ## Create Your Digital Clone with Delphi AI
+ - [https://delphi.ai](https://delphi.ai)
+ - date_published: 2025-02-11T15:07:59.787685+00:00
+
  ## Delphi
  - [https://www.delphi.ai](https://www.delphi.ai)
  - date_published: 2024-06-23T07:10:58.843087+00:00
@@ -3215,6 +3315,10 @@ Welcome
  - [https://www.emergence.ai](https://www.emergence.ai)
  - date_published: 2024-06-12T00:00:00+00:00
 
+ ## Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs
+ - [https://www.emergent-values.ai](https://www.emergent-values.ai)
+ - date_published: 2025-02-11T19:08:04+00:00
+
  ## Automated Language Testing | Emmersion
  - [https://emmersion.ai](https://emmersion.ai)
  - date_published: 2024-06-29T19:36:34.420790+00:00
@@ -3247,6 +3351,10 @@ Welcome
  ## Cierpliwości...
  - [https://learn.ento.ai](https://learn.ento.ai)
  - date_published: 2024-07-02T17:17:53.248398+00:00
+
+ ## Eoxys Edge AIML/IOT Company
+ - [https://eoxys.ai](https://eoxys.ai)
+ - date_published: 2025-02-11T10:19:46.284477+00:00
 
  ## Sell My Car - Sell Your Car Online for Cash | Epicar
  - [https://epicar.ai](https://epicar.ai)
@@ -3296,6 +3404,10 @@ Welcome
  ## Transformers on Chips
  - [https://etched.ai](https://etched.ai)
  - date_published: 2023-12-16T23:31:29+00:00
+
+ ## EtherSys: EtherIoT Solutions for IIoT 4.0, BMS, EV, GreenEnergy and Digital HealthCare
+ - [https://ethersys.ai](https://ethersys.ai)
+ - date_published: 2025-02-11T10:19:22.982975+00:00
 
  ## Ethics & Algorithms Toolkit (beta)
  - [http://ethicstoolkit.ai](http://ethicstoolkit.ai)
@@ -3904,116 +4016,4 @@ Welcome
  ## https://docs.flux.ai
  - [https://docs.flux.ai](https://docs.flux.ai)
  - date_published: 2024-01-09T02:23:16.980073+00:00
-
- ## https://www.flux.ai
- - [https://flux.ai](https://flux.ai)
- - date_published: 2024-01-09T02:23:17.781528+00:00
-
- ## Flux AI - Free Online Flux.1 AI Image Generator
- - [https://flux1.ai](https://flux1.ai)
- - date_published: 2024-12-15T06:11:30.255303+00:00
-
- ## fluxi AI
- - [https://fluxi.ai](https://fluxi.ai)
- - date_published: 2024-01-04T10:23:42+00:00
-
- ## Flux.jl
- - [https://fluxml.ai](https://fluxml.ai)
- - date_published: 2024-03-23T11:08:32+00:00
-
- ## Fluxon
- - [https://fluxon.ai](https://fluxon.ai)
- - date_published: 2023-10-25T11:38:56.659953+00:00
-
- ## Flyflow
- - [https://app.flyflow.ai](https://app.flyflow.ai)
- - date_published: 2024-07-14T15:46:25.495147+00:00
-
- ## Flyflow
- - [https://flyflow.ai](https://flyflow.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Flyx Labs - AI For Everyone
- - [https://www.flyx.ai](https://www.flyx.ai)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## BetterTouchTool Community
- - [https://community.folivora.ai](https://community.folivora.ai)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## folivora.ai - Great Tools for your Mac!
- - [https://folivora.ai](https://folivora.ai)
- - date_published: 2024-05-04T14:46:35.223475+00:00
-
- ## Cohere For AI (C4AI)
- - [https://cohere.for.ai](https://cohere.for.ai)
- - date_published: 2024-07-01T14:59:50.877603+00:00
-
- ## Forestwalk Labs
- - [https://forestwalk.ai](https://forestwalk.ai)
- - date_published: 2024-06-15T10:53:33.673064+00:00
-
- ## Generative AI Platform for CX Automation | Forethought
- - [https://forethought.ai](https://forethought.ai)
- - date_published: 2021-10-04T23:05:00+00:00
-
- ## Solve UI
- - [https://solve-widget.forethought.ai](https://solve-widget.forethought.ai)
- - date_published: 2024-06-16T08:34:56.231319+00:00
-
- ## Online Community and Learning for Associations and Professional Networks | Forj
- - [https://www.forj.ai](https://www.forj.ai)
- - date_published: 2024-12-17T15:45:29+00:00
-
- ## Conceptual Boundaries Workshop: Feb. 10-12 in Austin, TX
- - [https://formalizingboundaries.ai](https://formalizingboundaries.ai)
- - date_published: 2024-07-04T06:10:24.237186+00:00
-
- ## Formless by Typeform
- - [https://formless.ai](https://formless.ai)
- - date_published: 2024-05-10T02:43:09.886746+00:00
-
- ## CE marking your medical device, made easy
- - [https://www.formly.ai](https://www.formly.ai)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Formshare - Free AI Form Builder
- - [https://formshare.ai](https://formshare.ai)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## FoundationaLLM - A platform accelerating the delivery of secure, trustworthy enterprise copilots
- - [https://foundationallm.ai](https://foundationallm.ai)
- - date_published: 2024-09-18T14:11:13.230848+00:00
-
- ## FounderPal — Marketing Tools for Solopreneurs Who Hate Marketing
- - [https://founderpal.ai](https://founderpal.ai)
- - date_published: 2023-10-25T11:38:57.349820+00:00
-
- ## Foundr | Discover The Best AI Tools
- - [https://foundr.ai](https://foundr.ai)
- - date_published: 2024-06-19T19:54:00.177794+00:00
-
- ## Build AI-Tools in seconds without code | FoxyApps
- - [https://www.foxyapps.ai](https://www.foxyapps.ai)
- - date_published: 2024-06-19T19:08:38.839125+00:00
-
- ## Framedrop Highlights
- - [https://app.framedrop.ai](https://app.framedrop.ai)
- - date_published: 2024-10-30T16:58:10.266808+00:00
-
- ## Get AI Highlights and Turn Them to Short-Form Videos With Framedrop
- - [https://framedrop.ai](https://framedrop.ai)
- - date_published: 2024-10-28T15:07:49+00:00
-
- ## Action-packed Adventures
- - [https://pokeai.framer.ai](https://pokeai.framer.ai)
- - date_published: 2023-06-20T02:01:40+00:00
-
- ## Freeday AI | Revolutionizing Workflows with Generative AI Technology
- - [https://freeday.ai](https://freeday.ai)
- - date_published: 2024-10-30T09:39:18+00:00
-
- ## Join Freeday – Unlock Your Potential with Our Innovative Team
- - [https://jobs.freeday.ai](https://jobs.freeday.ai)
- - date_published: 2024-10-30T09:39:41.817639+00:00
 

@@ -1,3 +1,132 @@
+ ## The AI Ethics Brief | Montreal AI Ethics Institute | Substack
+ - [https://brief.montrealethics.ai](https://brief.montrealethics.ai)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Montreal AI Ethics Institute | Democratizing AI ethics literacy.
+ - [https://montrealethics.ai](https://montrealethics.ai)
+ - date_published: 2019-01-01T00:00:00+00:00
+
+ ## Moogle: Semantic search over mathlib4
+ - [https://moogle.ai](https://moogle.ai)
+ - date_published: 2024-06-30T09:20:49.794392+00:00
+
+ ## Moonbeam - Unlocking Global Innovation Networks
+ - [https://moonbeam.ai](https://moonbeam.ai)
+ - date_published: 2024-06-19T21:27:00.298330+00:00
+
+ ## Moondream AI
+ - [https://moondream.ai](https://moondream.ai)
+ - date_published: 2024-12-07T02:27:30+00:00
+
+ ## Moontower Blog
+ - [https://blog.moontower.ai](https://blog.moontower.ai)
+ - date_published: 2025-02-05T07:47:11.502186+00:00
+
+ ## Moontower - options trading analytics
+ - [https://moontower.ai](https://moontower.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Moontower Resources
+ - [https://resources.moontower.ai](https://resources.moontower.ai)
+ - date_published: 2024-06-23T10:12:37.219082+00:00
+
+ ## モリカトロンAIラボ｜エンタメ×AI の最新情報を紹介する コミュニティメディア
+ - [https://morikatron.ai](https://morikatron.ai)
+ - date_published: 2024-12-15T08:26:31.195699+00:00
+
+ ## TubeMagic - AI Tools to Help You With YouTube
+ - [https://morise.ai](https://morise.ai)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Synthetic Data Generation with the Highest Accuracy for Free
+ - [https://mostly.ai](https://mostly.ai)
+ - date_published: 2024-10-30T09:18:21+00:00
+
+ ## MotionIt AI
+ - [https://motionit.ai](https://motionit.ai)
+ - date_published: 2024-10-30T10:30:57.048486+00:00
+
+ ## Move AI Help Center
+ - [https://help.move.ai](https://help.move.ai)
+ - date_published: 2024-10-30T21:26:25.642034+00:00
+
+ ## Move AI
+ - [https://move.ai](https://move.ai)
+ - date_published: 2024-10-17T15:31:03+00:00
+
+ ## Mozilla.ai Blog
+ - [https://blog.mozilla.ai](https://blog.mozilla.ai)
+ - date_published: 2024-08-19T12:13:07.593572+00:00
+
+ ## Home - Mozilla.ai
+ - [https://mozilla.ai](https://mozilla.ai)
+ - date_published: 2023-10-25T11:40:36.598568+00:00
+
+ ## Mighty AI | Training Data as a Service (TDaaS)™
+ - [https://mty.ai](https://mty.ai)
+ - date_published: 2024-04-27T00:07:48+00:00
+
+ ## Muah.AI - AI Companion Platform. Uncensored AI Technologies. Possibilities Within
+ - [https://muah.ai](https://muah.ai)
+ - date_published: 2024-06-19T19:40:55.120217+00:00
+ - tags: ['nsfw']
+
+ ## MultiOn AI
+ - [https://multion.ai](https://multion.ai)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## AI News
+ - [https://multiplatform.ai](https://multiplatform.ai)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## A custom chat gpt that allows you to speed up your processes
+ - [https://www.mureed.ai](https://www.mureed.ai)
+ - date_published: 2024-12-15T08:36:04.189179+00:00
+
+ ## Help Center
+ - [https://help.murf.ai](https://help.murf.ai)
+ - date_published: 2024-08-16T08:23:37+00:00
+
+ ## AI Voice Generator: Versatile Text to Speech Software | Murf AI
+ - [https://murf.ai](https://murf.ai)
+ - date_published: 2023-10-25T11:40:41.933283+00:00
+
+ ## muse.ai | Next-gen video hosting with the most advanced in-video search
+ - [https://muse.ai](https://muse.ai)
+ - date_published: 2024-06-28T23:41:55.062267+00:00
+
+ ## Musho.ai
+ - [https://www.musho.ai](https://www.musho.ai)
+ - date_published: 2024-12-19T14:58:54.545118+00:00
+
+ ## AI Audio Models to Power Your Music Business
+ - [https://music.ai](https://music.ai)
+ - date_published: 2024-09-13T20:35:54.734594+00:00
+
+ ## Musick.ai : Free AI Music Generator & AI Song Maker Online
+ - [https://musick.ai](https://musick.ai)
+ - date_published: 2024-09-13T20:26:44.556883+00:00
+
+ ## mutable.ai | Omar Shams | Substack
+ - [https://blog.mutable.ai](https://blog.mutable.ai)
+ - date_published: 2024-03-16T00:00:00+00:00
+ - date_dead_since: 2025-01-06T11:46:14.335733+00:00
+
+ ## Welcome to Mutable.ai! | Mutable.ai User Guide
+ - [https://docs.mutable.ai](https://docs.mutable.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+ - date_dead_since: 2025-01-06T11:46:15.163779+00:00
+
+ ## mutable.ai
+ - [https://mutable.ai](https://mutable.ai)
+ - date_published: 2024-06-14T09:00:16.860086+00:00
+ - date_dead_since: 2025-01-06T11:46:16.023662+00:00
+
+ ## Auto Wiki by Mutable.ai — High-Quality Generated Code Documentation
+ - [https://wiki.mutable.ai](https://wiki.mutable.ai)
+ - date_published: 2024-01-08T19:01:50.485594+00:00
+ - date_dead_since: 2025-01-06T11:46:17.197096+00:00
+
  ## App Publishing Partner & AI Apps Pioneer - MWM
  - [https://mwm.ai](https://mwm.ai)
  - date_published: 2024-09-02T12:50:14.019199+00:00
@@ -1898,6 +2027,10 @@
  ## Professionelles Prompting
  - [https://promptwhispering.ai](https://promptwhispering.ai)
  - date_published: 2024-06-17T01:47:09.248648+00:00
+
+ ## Prompwhispering Landing Pages
+ - [https://workshops.promptwhispering.ai](https://workshops.promptwhispering.ai)
+ - date_published: 2025-02-11T07:35:23.147509+00:00
 
  ## Promtify - Your Gateway to AI-Powered Content Generation
  - [https://promtify.ai](https://promtify.ai)
@@ -3904,138 +4037,4 @@
  ## SOCIALDUDE
  - [https://socialdude.ai](https://socialdude.ai)
  - date_published: 2024-09-13T20:25:59.886638+00:00
-
- ## SoCool
- - [https://socool.ai](https://socool.ai)
- - date_published: 2024-07-16T16:13:55+00:00
- - date_dead_since: 2025-01-06T13:30:11.818957+00:00
-
- ## Soffos Platform
- - [https://soffos.ai](https://soffos.ai)
- - date_published: 2024-10-18T13:17:43+00:00
-
- ## Stay curious about wine tech | softwine
- - [https://softwine.ai](https://softwine.ai)
- - date_published: 2023-10-25T11:42:48.387434+00:00
-
- ## Socratic Lab
- - [https://solab.ai](https://solab.ai)
- - date_published: 2024-07-10T01:49:32.090990+00:00
-
- ## SolidPoint
- - [https://solidpoint.ai](https://solidpoint.ai)
- - date_published: 2024-06-17T23:38:36+00:00
-
- ## Free Logo Maker & Logo Generator with Artificial Intelligence
- - [https://sologo.ai](https://sologo.ai)
- - date_published: 2024-06-14T08:59:22.311589+00:00
-
- ## Support Archive - Solo - Free AI Website Creator - Support
- - [https://blog.soloist.ai](https://blog.soloist.ai)
- - date_published: 2024-07-07T10:10:14.329268+00:00
-
- ## Solo - Free AI Website Creator
- - [https://soloist.ai](https://soloist.ai)
- - date_published: 2024-05-08T10:31:30.007146+00:00
-
- ## SOME1 - An AI Workforce company
- - [https://some1.ai](https://some1.ai)
- - date_published: 2024-10-21T14:33:29+00:00
-
- ## Show HN: Sonauto – a more controllable AI music creator
- - [https://sonauto.ai](https://sonauto.ai)
- - date_published: 2024-04-10T16:48:01+00:00
- - tags: ['generating music', 'artificial intelligence']
-
- ## Song Demo AI - AI Music Generator｜Creation
- - [https://songdemo.ai](https://songdemo.ai)
- - date_published: 2024-09-13T20:28:56.381925+00:00
- - date_dead_since: 2025-01-06T13:30:40.995337+00:00
-
- ## Sonix Help
- - [https://help.sonix.ai](https://help.sonix.ai)
- - date_published: 2024-10-30T20:42:49.254873+00:00
-
- ## Sign in - Best automated transcription service in 2024 | Sonix
- - [https://my.sonix.ai](https://my.sonix.ai)
- - date_published: 2024-10-30T20:42:50.348088+00:00
-
- ## Automatically convert audio and video to text: Fast, Accurate, & Affordable | Sonix
- - [https://sonix.ai](https://sonix.ai)
- - date_published: 2024-06-19T21:11:10.151186+00:00
-
- ## SOREAL - AI Studio | Cloud hosted Stable Diffusion 1.5 & Dreambooth Studio
- - [https://www.soreal.ai](https://www.soreal.ai)
- - date_published: 2024-06-19T19:24:25.465819+00:00
- - date_dead_since: 2025-01-06T13:30:44.439340+00:00
-
- ## SoulGen: Free AI Magic Tool to Create Art from Text Online
- - [https://soulgen.ai](https://soulgen.ai)
- - date_published: 2024-06-19T19:40:38.307425+00:00
-
- ## Soundry AI
- - [https://app.soundry.ai](https://app.soundry.ai)
- - date_published: 2024-05-11T09:11:13.642031+00:00
-
- ## Launch HN: Soundry AI (YC W24) – Music sample generator for music creators
- - [https://soundry.ai](https://soundry.ai)
- - date_published: 2024-03-21T18:09:18+00:00
- - tags: ['generating music', 'artificial intelligence']
-
- ## Sourcery
- - [https://app.sourcery.ai](https://app.sourcery.ai)
- - date_published: 2024-08-19T12:08:03.279607+00:00
-
- ## Redirecting...
- - [https://docs.sourcery.ai](https://docs.sourcery.ai)
- - date_published: 2024-08-16T16:24:30+00:00
-
- ## Sourcery | Automatically Improve Code Quality
- - [https://sourcery.ai](https://sourcery.ai)
- - date_published: 2023-10-25T11:42:50.808107+00:00
-
- ## REimagine Home
- - [https://app.spacedesign.ai](https://app.spacedesign.ai)
- - date_published: 2024-10-30T11:59:07.849436+00:00
-
- ## AI Rendering Solutions for Interior, Room and Home Design | Spacely AI
- - [https://spacely.ai](https://spacely.ai)
- - date_published: 2024-06-19T19:50:40.383023+00:00
-
- ## SpamCheck.ai - AI-Powered Spam Detection & Prevention
- - [https://spamcheck.ai](https://spamcheck.ai)
- - date_published: 2024-10-18T05:40:48.292998+00:00
-
- ## Spark Engine - Advanced No-Code AI Builder
- - [https://www.sparkengine.ai](https://www.sparkengine.ai)
- - date_published: 2024-10-29T23:34:33+00:00
-
- ## SparkLab | Best AI Solutions Provider
- - [https://sparklab.ai](https://sparklab.ai)
- - date_published: 2024-10-30T16:16:03.100568+00:00
- - date_dead_since: 2024-12-15T07:12:53.819526+00:00
-
- ## SparkTalk - Immersive and Scenario-based English Learning App
- - [https://www.sparktalk.ai](https://www.sparktalk.ai)
- - date_published: 2024-12-04T06:58:08+00:00
-
- ## PersonaLive | Login
- - [http://persona.spatial.ai](http://persona.spatial.ai)
- - date_published: 2024-10-23T18:58:48+00:00
-
- ## Spatial.ai – Know your best customers and reach them faster
- - [https://spatial.ai](https://spatial.ai)
- - date_published: 2024-10-30T14:46:07+00:00
-
- ## Spawning.ai
- - [https://site.spawning.ai](https://site.spawning.ai)
- - date_published: 2024-07-11T15:30:01.447972+00:00
-
- ## Spawning
- - [https://spawning.ai](https://spawning.ai)
- - date_published: 2024-07-06T20:49:47.190601+00:00
-
- ## How to Choose between No Upfront, Partial Upfront and All Upfront AWS Compute Savings Plans
- - [https://spconsultant.ai](https://spconsultant.ai)
- - date_published: 2024-07-24T05:41:39+00:00
 

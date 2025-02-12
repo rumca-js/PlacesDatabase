@@ -1,3 +1,162 @@
+ ## Scrypted Scripts
+ - [https://scripts.scrypted.app](https://scripts.scrypted.app)
+ - date_published: 2024-05-07T19:39:50+00:00
+
+ ## Scrypted
+ - [https://scrypted.app](https://scrypted.app)
+ - date_published: 2023-07-12T21:24:56+00:00
+ - tags: ['alexa', 'smart home', 'video streaming', 'google home']
+
+ ## sc-type
+ - [https://sctype.app](https://sctype.app)
+ - date_published: 2019-08-01T00:00:00+00:00
+
+ ## SDK code generator | SDKgen
+ - [https://sdkgen.app](https://sdkgen.app)
+ - date_published: 2024-08-18T18:04:02.040911+00:00
+
+ ## SearchBot for Discord
+ - [https://searchbot.app](https://searchbot.app)
+ - date_published: 2024-07-23T23:26:44.568978+00:00
+
+ ## Seatsurfing
+ - [https://seatsurfing.app](https://seatsurfing.app)
+ - date_published: 2024-05-23T20:09:17+00:00
+
+ ## seedit
+ - [https://seedit.app](https://seedit.app)
+ - date_published: 2024-12-10T11:10:50.552968+00:00
+
+ ## Show HN: Seedling – A Decentralised Medium
+ - [https://seedling-d.app](https://seedling-d.app)
+ - date_published: 2024-01-05T22:54:58+00:00
+
+ ## See Your Budget
+ - [https://seeyourbudget.app](https://seeyourbudget.app)
+ - date_published: 2024-10-02T11:49:21.594303+00:00
+
+ ## Sei Explorer | SeiScan
+ - [https://www.seiscan.app](https://www.seiscan.app)
+ - date_published: 2024-09-25T10:54:09.080878+00:00
+
+ ## Sei explorer
+ - [https://seistream.app](https://seistream.app)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## Send Files To Tv - Android application for Smart TV
+ - [https://sendfilestotv.app](https://sendfilestotv.app)
+ - date_published: 2024-03-11T14:59:01+00:00
+
+ ## Sequels - SQL Notebook for macOS
+ - [https://sequels.app](https://sequels.app)
+ - date_published: 2024-08-11T17:24:41.099190+00:00
+
+ ## Open source, self-hosted bookmark manager
+ - [https://servas.app](https://servas.app)
+ - date_published: 2024-11-18T20:22:30+00:00
+ - tags: ['self-host', 'bookmark manager']
+
+ ## ServicePlanner :: Ministry & Field Service App
+ - [https://serviceplanner.app](https://serviceplanner.app)
+ - date_published: 2024-07-09T15:51:29.287371+00:00
+
+ ## The 7 Minute Workout App - Seven
+ - [https://seven.app](https://seven.app)
+ - date_published: 2024-02-08T08:34:04+00:00
+
+ ## Every mountain, building and tree shadow in the world simulated for any time
+ - [https://shademap.app](https://shademap.app)
+ - date_published: 2024-05-31T05:09:24+00:00
+
+ ## Shape Divider App
+ - [https://www.shapedivider.app](https://www.shapedivider.app)
+ - date_published: 2021-10-29T15:06:45+00:00
+
+ ## AI with Brain Inside Google Sheets
+ - [https://sheetai.app](https://sheetai.app)
+ - date_published: 2024-06-19T21:11:38.165510+00:00
+
+ ## Ayame Labo
+ - [https://ayame-labo.shiguredo.app](https://ayame-labo.shiguredo.app)
+ - date_published: 2024-07-23T23:16:54.785993+00:00
+
+ ## Sora Labo
+ - [https://sora-labo.shiguredo.app](https://sora-labo.shiguredo.app)
+ - date_published: 2024-07-23T23:15:44.688373+00:00
+
+ ## ShinyTracker
+ - [https://shinytracker.app](https://shinytracker.app)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Shootmail - Beautiful email templates and notion-like email builder
+ - [https://shootmail.app](https://shootmail.app)
+ - date_published: 2025-01-15T18:06:10.533998+00:00
+
+ ## https://go.shop.app
+ - [https://go.shop.app](https://go.shop.app)
+ - date_published: 2024-02-24T09:57:16.776865+00:00
+
+ ## Weryfikowanie połączenia...
+ - [https://shop.app](https://shop.app)
+ - date_published: 2024-04-28T03:00:17.300790+00:00
+
+ ## Save Money & Earn Rewards
+ - [https://www.shopruby.app](https://www.shopruby.app)
+ - date_published: 2024-10-30T21:10:05.477926+00:00
+
+ ## Shortcat: Universal command palette for your Mac | Shortcat
+ - [https://shortcat.app](https://shortcat.app)
+ - date_published: 2024-11-14T17:25:12+00:00
+
+ ## Home - URL Shortener
+ - [https://shortenurl.app](https://shortenurl.app)
+ - date_published: 2024-12-06T13:28:40.853944+00:00
+ - tags: ['link service']
+
+ ## Shortner.app - Discover History and Future of Benefits URL Shortening
+ - [https://shortner.app](https://shortner.app)
+ - date_published: 2025-02-03T13:20:10.758106+00:00
+
+ ## SHRED: Home & Gym Workouts App
+ - [https://shred.app](https://shred.app)
+ - date_published: 2024-11-22T01:23:13+00:00
+
+ ## Code Shrew
+ - [https://shrew.app](https://shrew.app)
+ - date_published: 2024-07-12T17:42:01.232844+00:00
+
+ ## Remove the "Ignore Limit" button from Screen Time.
+ - [https://www.shutout.app](https://www.shutout.app)
+ - date_published: 2024-12-29T19:20:56.360502+00:00
+
+ ## Newsroom • Sidetrack
+ - [https://blog.sidetrack.app](https://blog.sidetrack.app)
+ - date_published: 2024-06-23T15:08:11.349556+00:00
+
+ ## Signet App – Your digital identity and security of communications at your palm
+ - [https://signet.app](https://signet.app)
+ - date_published: 2023-06-26T21:31:40+00:00
+
+ ## What is SillyTavern? | docs.ST.app
+ - [https://docs.sillytavern.app](https://docs.sillytavern.app)
+ - date_published: 2024-10-28T15:32:33+00:00
+
+ ## SillyTavern - LLM Frontend for Power Users
+ - [https://sillytavern.app](https://sillytavern.app)
+ - date_published: 2023-06-01T22:57:33+00:00
+
+ ## Sindri - Modernized ZK DevOps and Accelerated Proving Infrastructure
+ - [https://sindri.app](https://sindri.app)
+ - date_published: 2024-09-11T14:18:15+00:00
+
+ ## A static site for your dynamically-generated website
+ - [https://sitesauce.app](https://sitesauce.app)
+ - date_published: 2024-08-17T22:19:07.675301+00:00
+
+ ## Sitter Pro: Hassle-Free Care - Sitter Pro
+ - [https://sitter.app](https://sitter.app)
+ - date_published: 2018-10-15T00:00:00+00:00
+
  ## Sizzy — The browser for web developers
  - [https://sizzy.app](https://sizzy.app)
  - date_published: 2024-06-15T03:54:49+00:00
@@ -2969,6 +3128,10 @@
  - [https://oet-storefront-5zjhui0r7-oet.vercel.app](https://oet-storefront-5zjhui0r7-oet.vercel.app)
  - date_published: 2025-01-21T14:10:25.124502+00:00
 
+ ## OET - The leading English test for healthcare professionals
+ - [https://oet-storefront-g40u4oluf-oet.vercel.app](https://oet-storefront-g40u4oluf-oet.vercel.app)
+ - date_published: 2025-02-11T20:49:12.256059+00:00
+
  ## Open Graph Image as a Service
  - [https://og-cards-chi.vercel.app](https://og-cards-chi.vercel.app)
  - date_published: 2024-09-09T13:52:31.374632+00:00
@@ -3851,165 +4014,4 @@
  ## V WASM Playground
  - [https://v-wasm.vercel.app](https://v-wasm.vercel.app)
  - date_published: 2024-05-06T14:46:01.506498+00:00
-
- ## Vyaakaran - Visualize automata, parsers, grammars for free
- - [https://vyaakaran.vercel.app](https://vyaakaran.vercel.app)
- - date_published: 2024-07-14T10:32:35.548245+00:00
-
- ## CORE Multi-Chain
- - [https://wallet-landing-next.vercel.app](https://wallet-landing-next.vercel.app)
- - date_published: 2024-11-01T18:52:00+00:00
-
- ## Way2Movies - Stream Movies, Shows & Anime
- - [https://way2movies.vercel.app](https://way2movies.vercel.app)
- - date_published: 2024-11-10T16:48:31+00:00
- - tags: ['movies', 'piracy']
-
- ## WEBCRYPTOPRO Cryptocurrency Consultants
- - [http://webcryptopro.vercel.app](http://webcryptopro.vercel.app)
- - date_published: 2024-07-14T10:06:29.026211+00:00
-
- ## Airdraw
- - [https://web-draw-e58vy7q9m-arefmalek.vercel.app](https://web-draw-e58vy7q9m-arefmalek.vercel.app)
- - date_published: 2023-12-15T11:11:38.412590+00:00
-
- ## Jewelry landing page for product visualization and configuration using WEBGi - by Neotix
- - [https://webgi-jewelry.vercel.app](https://webgi-jewelry.vercel.app)
- - date_published: 2024-08-06T20:04:15.671733+00:00
-
- ## ExperAI
- - [https://webitfast-m4z1okb96-exper-ai.vercel.app](https://webitfast-m4z1okb96-exper-ai.vercel.app)
- - date_published: 2024-10-30T18:08:29.233589+00:00
-
- ## oscard0m Blog
- - [https://web-oscard0m.vercel.app](https://web-oscard0m.vercel.app)
- - date_published: 2024-04-30T02:10:34.292590+00:00
-
- ## David Levai's Digital Garden
- - [https://website-2023-e8dvz76pa-thedevdavid.vercel.app](https://website-2023-e8dvz76pa-thedevdavid.vercel.app)
- - date_published: 2024-07-14T08:03:16.689398+00:00
-
- ## Alguna: Modern SaaS Pricing, Quoting & Billing Platform
- - [https://website-2zm8hlepf-alguna.vercel.app](https://website-2zm8hlepf-alguna.vercel.app)
- - date_published: 2024-07-23T22:15:45.431916+00:00
-
- ## Tinybird · The Way to build Real-time Data Products
- - [https://website-6qw75lyju-tinybird.vercel.app](https://website-6qw75lyju-tinybird.vercel.app)
- - date_published: 2024-06-11T21:16:40.989323+00:00
-
- ## Sync your data in minutes | WELD
- - [https://website-9voih4b0i-weldhq.vercel.app](https://website-9voih4b0i-weldhq.vercel.app)
- - date_published: 2024-11-08T11:55:51.120193+00:00
-
- ## Akash Network | The Unstoppable Cloud
- - [https://website-akash-network-git-emi-testnet-basement.vercel.app](https://website-akash-network-git-emi-testnet-basement.vercel.app)
- - date_published: 2025-01-09T12:22:54.851692+00:00
-
- ## Tinybird · The Way to build Real-time Data Products
- - [https://website-aq1w0pvya-tinybird.vercel.app](https://website-aq1w0pvya-tinybird.vercel.app)
- - date_published: 2024-06-27T12:07:57.100913+00:00
-
- ## PostgreSQL ++ for time series and events
- - [https://web-splash-git-chore-products-dropdown-timescale-company.vercel.app](https://web-splash-git-chore-products-dropdown-timescale-company.vercel.app)
- - date_published: 2024-06-22T20:27:10.107949+00:00
-
- ## Polygon @ ETH Denver
- - [https://welcome-to-cardona.vercel.app](https://welcome-to-cardona.vercel.app)
- - date_published: 2024-09-25T12:10:46.114046+00:00
-
- ## Spotify to YouTube Music Transfer
- - [https://wemor.vercel.app](https://wemor.vercel.app)
- - date_published: 2025-01-04T16:44:49.466255+00:00
-
- ## Create Next App
- - [https://wf-cms-hr.vercel.app](https://wf-cms-hr.vercel.app)
- - date_published: 2024-09-25T17:31:43.561666+00:00
-
- ## What I love now
- - [https://what-i-love-now.vercel.app](https://what-i-love-now.vercel.app)
- - date_published: 2024-05-09T06:17:52.024300+00:00
-
- ## Whisper
- - [https://whisper-convex.vercel.app](https://whisper-convex.vercel.app)
- - date_published: 2024-04-29T07:32:38.303896+00:00
-
- ## Whose Prompt is it Anyways? by Convex
- - [https://whose-prompt-is-it-anyways.vercel.app](https://whose-prompt-is-it-anyways.vercel.app)
- - date_published: 2024-04-29T07:32:50.147137+00:00
-
- ## sphere wif hat
- - [https://wif-sphere.vercel.app](https://wif-sphere.vercel.app)
- - date_published: 2024-06-22T12:42:01.497953+00:00
-
- ## WikiTok
- - [https://wikitok.vercel.app](https://wikitok.vercel.app)
- - date_published: 2025-02-04T18:40:55+00:00
-
- ## WindLand - By Neotix
- - [https://windland-neotix.vercel.app](https://windland-neotix.vercel.app)
- - date_published: 2024-08-06T20:06:03.171242+00:00
-
- ## WonderMap
- - [https://wondermap.vercel.app](https://wondermap.vercel.app)
- - date_published: 2024-06-24T03:36:40.076935+00:00
-
- ## እንቆቅልሽ
- - [https://wordle-am.vercel.app](https://wordle-am.vercel.app)
- - date_published: 2024-07-21T02:22:55.129648+00:00
-
- ## Written
- - [https://written-weld.vercel.app](https://written-weld.vercel.app)
- - date_published: 2024-08-18T22:02:23.080710+00:00
-
- ## WTF DOES THIS COMPANY DO
- - [https://wtfdoesthiscompanydo.vercel.app](https://wtfdoesthiscompanydo.vercel.app)
- - date_published: 2023-10-25T11:51:04.640307+00:00
-
- ## Home | Xendit Docs
- - [https://xendit-docs-ui-v2-331b1oll8-xendit.vercel.app](https://xendit-docs-ui-v2-331b1oll8-xendit.vercel.app)
- - date_published: 2025-01-17T18:18:05.412927+00:00
-
- ## https://yakgpt.vercel.app
- - [https://yakgpt.vercel.app](https://yakgpt.vercel.app)
- - date_published: 2024-01-09T02:23:41.451242+00:00
-
- ## Yasuragi Tea
- - [https://yasuragi.vercel.app](https://yasuragi.vercel.app)
- - date_published: 2024-05-10T02:44:21.200686+00:00
-
- ## YC Idea Matcher
- - [https://yc-idea-matcher-mxjdrz0f5-neondatabase.vercel.app](https://yc-idea-matcher-mxjdrz0f5-neondatabase.vercel.app)
- - date_published: 2024-08-19T11:29:38.569412+00:00
-
- ## YC Idea Matcher
- - [https://yc-idea-matcher.vercel.app](https://yc-idea-matcher.vercel.app)
- - date_published: 2023-10-25T11:51:16.534056+00:00
-
- ## Show HN: Map of YC Startups
- - [https://yc-map.vercel.app](https://yc-map.vercel.app)
- - date_published: 2024-12-25T22:37:31+00:00
-
- ## Year In Music
- - [https://year-in-music-workshop.vercel.app](https://year-in-music-workshop.vercel.app)
- - date_published: 2024-07-02T20:41:55.395698+00:00
-
- ## Create Next App
- - [https://ynw-ai.vercel.app](https://ynw-ai.vercel.app)
- - date_published: 2024-11-30T23:21:46.686966+00:00
-
- ## Sanity Studio
- - [https://yolo-backend.vercel.app](https://yolo-backend.vercel.app)
- - date_published: 2024-09-04T12:27:04.252098+00:00
-
- ## youkwhd
- - [https://youkwhd.vercel.app](https://youkwhd.vercel.app)
- - date_published: 2024-07-23T23:27:33.700603+00:00
-
- ## Your Best Accent - master pronunciation with your voice clone
- - [https://yourbestaccent-bi7ol6rgr-grammarians.vercel.app](https://yourbestaccent-bi7ol6rgr-grammarians.vercel.app)
- - date_published: 2024-08-06T17:07:41.970551+00:00
-
- ## Youtube Chatpers | Summaries powered by ChatGPT
- - [https://youtubechapters-9my80y6as-jxnlco.vercel.app](https://youtubechapters-9my80y6as-jxnlco.vercel.app)
- - date_published: 2024-10-30T11:55:27.217822+00:00
 
