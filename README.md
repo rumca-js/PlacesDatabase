@@ -72,21 +72,6 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 - [Anna's Archive](https://annas-archive.org/)
 - [Guardian newspaper](https://theguardian.newspapers.com/)
 
-# Static lists
-
-This data were used to create the following static lists:
-- [Offline Search](https://rumca-js.github.io/quickstart/public/static_lists/viewerzip.html?file=top) - A lightweight tool that loads JSON data to enable searching for popular sites without requiring additional overhead or internet connectivity.
-- [Static Lists Index](https://rumca-js.github.io/quickstart/public/static_lists) - index of static lists
-- [Search engines](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=operating_systems)
-- [Operating system](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=operating_systems)
-- [Programming language](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=programming_languages)
-- [Artificial intelligence](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=artificial_intelligence)
-- [Self-host](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=selfhost)
-- [Virtual reality](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=virtual_reality)
-- [Amiga](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=amiga)
-- [Demoscene](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=demoscene)
-- [Tabletop Game](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=tabletop_game)
-
 # Files
 
 The database is distributed as a set of JSON files. We do not want to store binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
@@ -185,10 +170,6 @@ I have my own opinions, with which you do not have to agree. Most of tags, votes
  - The distinction is not that clear-cut, but more lenient rules apply toward personal sites
  - I am not that interested in marking substack, or medium as "personal" sites, as I do not feel that it should be tagged as such
  
-# Demo database
-
-Might not be working. Used for development: [https://renegat0x0.ddns.net/apps/places/](https://renegat0x0.ddns.net/apps/places/).
-
 <div align="center">
   <img alt="Meme" src="images/bender.png">
 </div>
